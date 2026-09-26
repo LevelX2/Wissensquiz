@@ -19,6 +19,15 @@ export function GenreIcon({ genre }: { genre: string }) {
       <>
         <path d="m4 20 12-12m-2-4 2 4 4 2-4 2-2 4-2-4-4-2 4-2Zm-9-2v4m-2-2h4m13 12v4m-2-2h4" />
       </>
+    ) : genre === "Komödie" ? (
+      <>
+        <circle cx="12" cy="12" r="9" />
+        <path d="M7 10h2m6 0h2M7 14c1 5 9 5 10 0Z" />
+      </>
+    ) : genre === "Western" ? (
+      <>
+        <path d="m6 14 2-9 4 2 4-2 2 9M2 13c0 7 20 7 20 0M6 14h12" />
+      </>
     ) : (
       <>
         <rect x="3" y="3" width="18" height="18" rx="3" />

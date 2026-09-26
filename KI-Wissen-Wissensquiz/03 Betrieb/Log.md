@@ -88,3 +88,13 @@ Private Aktivierung anschließend veröffentlicht: App-Commit `f115047ce8f4f7511
 ## 26.09.2026 – Fehler im ersten echten Registrierungstest eingegrenzt
 
 Nutzer meldet geleertes Passwortfeld und generische Fehlermeldung nach Registrierung. Supabase-Auth-Protokoll zeigt bei beiden Versuchen HTTP 500 und SMTP `535 5.7.8 Authentication failed`; Ursache liegt in der Maildienst-Anmeldung, nicht in nachgewiesener zu geringer Passwortlänge. Browser-Zwischenablage lieferte nach Brevos Kopierbutton weiter vorherigen Text. Ersatzschlüssel direkt aus dem sichtbaren Brevo-Feld gelesen, Format geprüft, in Supabase gespeichert (Erfolgsmeldung) und ursprünglichen Schlüssel deaktiviert. Kein Secret in Dateien oder Git. Nutzer um erneuten eigenen Registrierungsversuch gebeten; erfolgreicher Versand noch nicht bestätigt. App-Code und Veröffentlichung unverändert.
+
+## 26.09.2026 – Konten vereinfachen und Anmeldung prüfen
+
+Auf Nutzerwunsch automatische Online-Sicherung und Laden bei Anmeldung/Neuladen umgesetzt; manuelle Kontosicherungsbuttons entfernt. Gastspielstand bleibt ausdrücklich auf diesem Gerät erhalten, Übernahme ins Konto nur nach Auswahl. Dauerhafte Synchronisierungsbelege, Wiederholungen bei Netzfehlern, Revisionskonflikte ohne stilles Überschreiben und Tab-Sperre schützen Fortschritte. Bestätigungs- und Reset-Seiten erklären die nächste Aktion und Abbruchfolgen. 63 Logik-/Datenbanktests, Build und 27 Browserprüfungen bestanden.
+
+Nach korrigierter Brevo-Verbindung echte Bestätigungsmail empfangen und Kontoaktivierung im Supabase-Dashboard verifiziert. Smartphone-Anmeldung danach mit „Invalid login credentials“ abgewiesen; Nutzer bestätigt exakte Mail-Endung und wurde zum eigenen Passwort-Reset aufgefordert. Keine Passwörter eingesehen oder geändert. Öffentlicher Zugriff ohne vorgelagerte ChatGPT-Anmeldung ausdrücklich beauftragt; Veröffentlichungsnachweis folgt unter Sites-Betrieb.
+
+## 26.09.2026 – Reset bestätigt, Passwortanzeige und neue Genres
+
+Nutzer bestätigt erfolgreichen Passwort-Reset und Anmeldung am Handy. Auge zum Anzeigen/Verbergen aller Passwortfelder ergänzt. Komödie und Western unverändert übernommen: je 180 akzeptierte Fragen, 150 Ziele, 30 Varianten, 25 Themen, keine Importwarnungen/ID-Konflikte. Gesamtbestand 1.080 Fragen, 900 Wissensziele und 138 Themen. Eigene Genre-Icons, transaktionale Ergänzung und Offline-Paket eingebunden. Bestehende Darstellerprüfung gilt weiterhin für die bisherigen 720 Fragen; neue Filmtexte nicht unabhängig geprüft.

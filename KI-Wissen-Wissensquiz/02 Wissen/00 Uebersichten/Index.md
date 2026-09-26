@@ -25,3 +25,8 @@
 - [Fantasy-Rohquelle](../../01%20Rohquellen/Fantasy_Quiz_180_Fragen.csv)
 - [Fantasy-Importbericht](../../../docs/importbericht-fantasy.json)
 - [Private Sites-Veröffentlichung und Windows-Ablauf](../../../docs/Sites-Betrieb.md)
+
+- [Komödie-Rohquelle](../../01%20Rohquellen/Komoedie_Quiz_180_Fragen.csv)
+- [Komödie-Importbericht](../../../docs/importbericht-komoedie.json)
+- [Western-Rohquelle](../../01%20Rohquellen/Western_Quiz_180_Fragen.csv)
+- [Western-Importbericht](../../../docs/importbericht-western.json)

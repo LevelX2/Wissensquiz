@@ -4,10 +4,10 @@
 
 - Spielbare deutsche React-/TypeScript-Testversion mit Entdecken, Besser werden und Rekordrunde umgesetzt.
 - Filmgenres und Schwierigkeitsstufen als Mehrfachauswahl; einzelne Filme/Reihen nur als optionale Verfeinerung. Alte Runden und Spielstände bleiben erhalten.
-- Genre und Schwierigkeit jeder Frage sichtbar, unabhängig abschaltbar und gespeichert. Alle 720 Vertiefungen auf Darstellernamen geprüft; 627 Ergänzungen zu 125 Filmen, mit Quellen und versionsgenauer Zuordnung. Rohfragen und Spielstände erhalten.
+- Genre und Schwierigkeit jeder Frage sichtbar, unabhängig abschaltbar und gespeichert. Die bisherigen 720 Vertiefungen auf Darstellernamen geprüft; 627 Ergänzungen zu 125 Filmen, mit Quellen und versionsgenauer Zuordnung. Rohfragen und Spielstände erhalten.
 - Persönliche Bestenliste aller abgeschlossenen Rekordspiele, filterbar nach Genre-Kombination, Stufen und Rundengröße; vergleichbare Kategorien getrennt, Spiele mit Rückblick. Lokal und offline; gemeinsame Bestenliste weiterhin offen.
 - Kurze abschaltbare Soundeffekte, optionale Vibration, Genre-Icons und deutlicher gesperrter/erworbener Zustand des vorhandenen Sci-Fi-Abzeichens. Weitere Genre-Abzeichen noch offen.
-- 720 gelieferte Fragen aus Sci-Fi, Action, Horror und Fantasy, 600 Wissensziele und 120 Varianten; 88 Themen. Sämtliche Datensätze strukturell akzeptiert.
+- 1.080 gelieferte Fragen aus Sci-Fi, Action, Horror, Fantasy, Komödie und Western, 900 Wissensziele und 180 Varianten; 138 Themen. Sämtliche Datensätze strukturell akzeptiert.
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
 - Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
 - Lokales Git ohne Remote; Integrationsbranch `main`.
@@ -18,9 +18,9 @@
 
 - Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
 - Private Sites-Adresse verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
-- Aktuelle private Sites-Veröffentlichung mit aktivierter Kontenanbindung erfolgreich (`succeeded`, App-Commit `f115047`). Live-Registrierungsformular geöffnet. 57 Logik-/Datenbanktests und 25 lokale Browserprüfungen erfolgreich. Physischer Smartphone-/PWA-/Hör-/Vibrationstest und echte Kontodienst-/Mailprüfung weiterhin offen.
+- Automatische Kontosicherung und klarere Bestätigungsseite lokal umgesetzt: 67 Logik-/Datenbanktests, Build und 31 Browserprüfungen erfolgreich. Veröffentlichungsstand unter docs/Sites-Betrieb.md. Physische PWA-/Offline-/Hör-/Vibrationsprüfung weiterhin offen.
 - Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
-- Eigene Anmeldung mit Spielername, E-Mail/Passwort, Bestätigung und Reset für den privaten Eigentümertest aktiviert und veröffentlicht. Supabase Free in Frankfurt samt Datenbankregeln, Brevo SMTP mit verifiziertem Absender und deutsche Mailvorlagen eingerichtet. Echte Zustellung, Bestätigungs-/Reset-Links und Zwei-Konten-Abnahme noch offen. Brevo-Tracking anonymisiert, keine vollständige Abschaltung in der Oberfläche; Weiterleitungen mitprüfen. Manuelle Online-Sicherung mit Revisionsprüfung und getrennten Gast-/Kontoständen implementiert. Einrichtung unter `docs/Konten-Einrichtung.md`; gemeinsame Bestenliste und automatische Synchronisierung offen. 57 Logik-/Datenbanktests und 25 Browserprüfungen erneut bestanden. Äußere Sites-Zugangsschranke bleibt privat.
+- Eigene Konten mit Supabase Free/Frankfurt, Brevo SMTP und deutschen Mailvorlagen aktiv. Bestätigungsmail zugestellt und Kontoaktivierung verifiziert. Nach zunächst abgelehntem Smartphone-Login hat der Nutzer erfolgreichen Passwort-Reset und Anmeldung am Handy bestätigt. Reale Zwei-Konten-/Geräte-Spielstandsabnahme noch offen. Passwortfelder mit Auge zum Anzeigen/Verbergen. Automatische Kontosicherung mit Revisionsschutz umgesetzt; Gaststand bleibt auf diesem Gerät und wird nur ausdrücklich übernommen. Gemeinsame Bestenliste noch offen. Öffentlicher Site-Zugang ohne ChatGPT-Schranke beauftragt; tatsächlicher Freigabestand unter docs/Sites-Betrieb.md.
 
 ## Einstieg
 
@@ -33,4 +33,4 @@
 
 ## Daten und Sicherung
 
-Spielstände liegen im Browser, nicht im Repository. JSON-Exporte über Einstellungen nach wichtigen Sitzungen und vor Browserbereinigung oder Adresswechsel erstellen, mindestens die letzten drei Sicherungen an einem sicheren persönlichen Ablageort erhalten. Validierter Wiederimport ersetzt nach Bestätigung den lokalen Stand. Browserneustart und Wiederherstellung wurden in getrennten Testprofilen geprüft. Cloud-Sicherung technisch vorbereitet, aber ohne eingerichteten Kontodienst noch inaktiv. `AGENTS.local.md` enthält nur rekonstruierbare lokale Pfadauflösung; lokale Git-Historie ersetzt kein externes Backup.
+Spielstände liegen im Browser, nicht im Repository. JSON-Exporte über Einstellungen nach wichtigen Sitzungen und vor Browserbereinigung oder Adresswechsel erstellen, mindestens die letzten drei Sicherungen an einem sicheren persönlichen Ablageort erhalten. Validierter Wiederimport ersetzt nach Bestätigung den lokalen Stand. Browserneustart und Wiederherstellung wurden in getrennten Testprofilen geprüft. Angemeldete Konten sichern automatisch in Supabase; Gaststände bleiben lokal. Kontosicherung ersetzt keine unabhängige JSON-Rückfallkopie. `AGENTS.local.md` enthält nur rekonstruierbare lokale Pfadauflösung; lokale Git-Historie ersetzt kein externes Backup.

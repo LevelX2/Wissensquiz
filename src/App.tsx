@@ -163,10 +163,12 @@ export function App({
   storageKey = "current",
   accountName,
   accountPanel,
+  onPersistedState,
 }: {
   storageKey?: string;
   accountName?: string;
   accountPanel?: (state: State, onState: (state: State) => void) => ReactNode;
+  onPersistedState?: (state: State) => void;
 }) {
   const read = () => readStored(storageKey);
   const update = (fn: (s: State) => void, initial?: State) =>
@@ -187,6 +189,9 @@ export function App({
   const booted = useRef(false);
   const inFlight = useRef(false);
   const offline = useOffline();
+  useEffect(() => {
+    if (state) onPersistedState?.(state);
+  }, [state, onPersistedState]);
   useEffect(() => {
     if (booted.current) return;
     booted.current = true;
@@ -850,8 +855,9 @@ export function App({
                       umfassender Expertentitel.
                     </small>
                     <p className="muted tiny">
-                      Bisher gibt es dieses eine Wissensabzeichen. Für Action
-                      und Horror sind noch keine eigenen Abzeichen umgesetzt.
+                      Bisher gibt es dieses eine Wissensabzeichen. Für die
+                      anderen Genres sind noch keine eigenen Abzeichen
+                      umgesetzt.
                     </p>
                   </div>
                 </section>

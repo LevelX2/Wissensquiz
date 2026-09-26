@@ -32,7 +32,11 @@ const session = (id = alice) => ({
   expires_in: 3600,
   user: user(id),
 });
-async function mockAccounts(page: Page) {
+type Server = Map<
+  string,
+  { state: unknown; revision: number; updated_at: string }
+>;
+async function mockAccounts(page: Page, server: Server = new Map()) {
   const requests: { path: string; body: Record<string, unknown> }[] = [];
   let current = alice;
   await page.route("**/account-config.json", (r) =>
@@ -63,8 +67,27 @@ async function mockAccounts(page: Page) {
       path.endsWith("/resend")
     )
       return route.fulfill({ json: {} });
-    if (path.endsWith("/quiz_saves")) return route.fulfill({ json: [] });
-    if (path.endsWith("/quiz_save_state")) return route.fulfill({ json: 1 });
+    if (path.endsWith("/quiz_saves"))
+      return route.fulfill({
+        json: server.has(current) ? [server.get(current)] : [],
+      });
+    if (path.endsWith("/quiz_save_state")) {
+      if (
+        body.expected_owner !== current ||
+        body.expected_revision !== (server.get(current)?.revision ?? 0)
+      )
+        return route.fulfill({
+          status: 409,
+          json: { message: "revision_conflict" },
+        });
+      const revision = (server.get(current)?.revision ?? 0) + 1;
+      server.set(current, {
+        state: body.payload,
+        revision,
+        updated_at: new Date().toISOString(),
+      });
+      return route.fulfill({ json: revision });
+    }
     return route.fulfill({
       status: 400,
       json: { message: "Unexpected mocked endpoint" },
@@ -81,9 +104,122 @@ async function login(page: Page, email = "alice@example.test") {
   await page
     .getByLabel("Passwort", { exact: true })
     .fill("nur-ein-test-passwort");
+  await page
+    .getByRole("button", { name: "Passwort anzeigen", exact: true })
+    .click();
+  await expect(page.getByLabel("Passwort", { exact: true })).toHaveAttribute(
+    "type",
+    "text",
+  );
+  await expect(page.getByLabel("Passwort", { exact: true })).toHaveValue(
+    "nur-ein-test-passwort",
+  );
+  await page
+    .getByRole("button", { name: "Passwort verbergen", exact: true })
+    .click();
+  await expect(page.getByLabel("Passwort", { exact: true })).toHaveAttribute(
+    "type",
+    "password",
+  );
   await page.getByRole("button", { name: "Anmelden", exact: true }).click();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
 }
+test("Bestätigungsansicht erklärt die Aktivierung und verbraucht den Link erst nach ausdrücklichem Klick", async ({
+  page,
+}) => {
+  const requests = await mockAccounts(page);
+  await page.setViewportSize({ width: 320, height: 800 });
+  await page.goto("/#auth?type=signup&token_hash=" + "a".repeat(64));
+  await expect(
+    page.getByRole("heading", { name: "Dein Quiz-Konto aktivieren" }),
+  ).toBeVisible();
+  await expect(
+    page.getByRole("button", { name: "Ohne Bestätigung zum Quiz" }),
+  ).toBeVisible();
+  expect(requests.some((r) => r.path.endsWith("/verify"))).toBe(false);
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page.screenshot({
+    path: "test-results/konto-bestaetigung-320.png",
+    fullPage: true,
+  });
+  await page
+    .getByRole("button", { name: "E-Mail bestätigen und Konto aktivieren" })
+    .click();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await expect
+    .poll(() => requests.some((r) => r.path.endsWith("/quiz_save_state")))
+    .toBe(true);
+});
+
+test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nach Netzfehler nachgespeichert", async ({
+  page,
+  browser,
+}) => {
+  const server: Server = new Map();
+  await mockAccounts(page, server);
+  await page.goto("/");
+  await login(page);
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await page.route("**/rest/v1/rpc/quiz_save_state", (r) => r.abort());
+  await page.locator(".answer").first().click();
+  await expect(page.locator(".feedback")).toBeVisible();
+  await expect(page.locator(".sync-status")).toContainText(
+    "Noch nicht online gespeichert",
+  );
+  await page.unroute("**/rest/v1/rpc/quiz_save_state");
+  await page.evaluate(() => window.dispatchEvent(new Event("online")));
+  await expect(page.locator(".sync-status")).toHaveText(
+    "Spielstand online gespeichert",
+  );
+  const otherContext = await browser.newContext({
+    serviceWorkers: "block",
+    baseURL: "http://localhost:4173",
+  });
+  try {
+    const other = await otherContext.newPage();
+    await mockAccounts(other, server);
+    await other.goto("/");
+    await account(other);
+    await other.getByLabel("E-Mail-Adresse").fill("alice@example.test");
+    await other
+      .getByLabel("Passwort", { exact: true })
+      .fill("nur-ein-test-passwort");
+    await other.getByRole("button", { name: "Anmelden", exact: true }).click();
+    await expect(
+      other.getByRole("button", { name: "Fortsetzen" }),
+    ).toBeVisible();
+    await other.getByRole("button", { name: "Fortsetzen" }).click();
+    await expect(other.locator(".feedback")).toBeVisible();
+    await other
+      .locator(".feedback")
+      .getByRole("button", { name: /Weiter|Nächste/ })
+      .click();
+    await other.locator(".answer").first().click();
+    await expect(other.locator(".sync-status")).toHaveText(
+      "Spielstand online gespeichert",
+    );
+    await page
+      .locator(".feedback")
+      .getByRole("button", { name: /Weiter|Nächste/ })
+      .click();
+    await page.locator(".answer").first().click();
+    await expect(
+      page.getByRole("heading", { name: "Auf zwei Geräten gespielt" }),
+    ).toBeVisible();
+    await page
+      .getByRole("button", { name: "Mit dem Online-Stand weiterspielen" })
+      .click();
+    await expect(
+      page.getByRole("button", { name: "Fortsetzen" }),
+    ).toBeVisible();
+  } finally {
+    await otherContext.close();
+  }
+});
 test("Unkonfigurierte Konten bieten keine unechte Registrierung und erhalten den Gastmodus", async ({
   page,
 }) => {
@@ -114,6 +250,27 @@ test("Registrierung, erneute Bestätigung und Reset-Anforderung verwenden den Ko
   await page
     .getByLabel("Passwort", { exact: true })
     .fill("nur-ein-test-passwort");
+  await page
+    .getByRole("button", { name: "Passwort anzeigen", exact: true })
+    .click();
+  await expect(page.getByLabel("Passwort", { exact: true })).toHaveAttribute(
+    "type",
+    "text",
+  );
+  expect(requests.some((r) => r.path.endsWith("/signup"))).toBe(false);
+  await page.setViewportSize({ width: 320, height: 740 });
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page
+    .getByLabel("Passwort", { exact: true })
+    .evaluate((input) => input.scrollIntoView({ block: "center" }));
+  await page.screenshot({
+    path: "test-results/passwort-auge-320.png",
+    fullPage: false,
+  });
   await page.getByRole("button", { name: "Registrieren", exact: true }).click();
   await expect(
     page.getByRole("status").filter({ hasText: "Bestätigungsmail" }),
@@ -122,6 +279,10 @@ test("Registrierung, erneute Bestätigung und Reset-Anforderung verwenden den Ko
     display_name: "Filmfan",
   });
   await expect(page.getByLabel("Passwort", { exact: true })).toHaveValue("");
+  await expect(page.getByLabel("Passwort", { exact: true })).toHaveAttribute(
+    "type",
+    "password",
+  );
   await page
     .getByRole("button", { name: "E-Mail noch nicht bestätigt?" })
     .click();
@@ -155,11 +316,11 @@ test("E-Mail-Link wird erst nach Klick verbraucht, Recovery setzt Passwort und m
   const requests = await mockAccounts(page);
   await page.goto("/#auth?type=recovery&token_hash=" + "a".repeat(64));
   await expect(
-    page.getByRole("button", { name: "Link bestätigen" }),
+    page.getByRole("button", { name: "Weiter zum neuen Passwort" }),
   ).toBeEnabled();
   expect(page.url()).not.toContain("token_hash");
   expect(requests.some((r) => r.path.endsWith("/verify"))).toBe(false);
-  await page.getByRole("button", { name: "Link bestätigen" }).click();
+  await page.getByRole("button", { name: "Weiter zum neuen Passwort" }).click();
   await expect(
     page.getByRole("heading", { name: "Neues Passwort setzen" }),
   ).toBeVisible();
@@ -170,7 +331,24 @@ test("E-Mail-Link wird erst nach Klick verbraucht, Recovery setzt Passwort und m
   await page
     .getByLabel("Neues Passwort", { exact: true })
     .fill("neues-test-passwort");
-  await page.getByLabel("Passwort wiederholen").fill("neues-test-passwort");
+  await page
+    .getByLabel("Passwort wiederholen", { exact: true })
+    .fill("neues-test-passwort");
+  await page
+    .getByRole("button", { name: "Neues Passwort anzeigen", exact: true })
+    .click();
+  await expect(
+    page.getByLabel("Neues Passwort", { exact: true }),
+  ).toHaveAttribute("type", "text");
+  await expect(
+    page.getByLabel("Passwort wiederholen", { exact: true }),
+  ).toHaveAttribute("type", "password");
+  await page
+    .getByRole("button", { name: "Passwort wiederholen anzeigen", exact: true })
+    .click();
+  await expect(
+    page.getByLabel("Passwort wiederholen", { exact: true }),
+  ).toHaveAttribute("type", "text");
   await page.getByRole("button", { name: "Passwort speichern" }).click();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   expect(
@@ -185,7 +363,7 @@ test("E-Mail-Link wird erst nach Klick verbraucht, Recovery setzt Passwort und m
     page.getByRole("heading", { name: "Anmelden", exact: true }),
   ).toBeVisible();
 });
-test("Zwei Konten und Gast bleiben getrennt; Online-Sicherung erfolgt nur auf Wunsch", async ({
+test("Zwei Konten und Gast bleiben getrennt; Kontofortschritt wird automatisch gesichert", async ({
   page,
 }) => {
   const requests = await mockAccounts(page);
@@ -200,13 +378,15 @@ test("Zwei Konten und Gast bleiben getrennt; Online-Sicherung erfolgt nur auf Wu
   await expect(
     page.getByText("Angemeldet als", { exact: false }),
   ).toContainText("Alice");
-  expect(requests.some((r) => r.path.endsWith("/quiz_save_state"))).toBe(false);
-  await page
-    .getByRole("button", { name: "Online sichern", exact: true })
-    .click();
+  await expect
+    .poll(() => requests.some((r) => r.path.endsWith("/quiz_save_state")))
+    .toBe(true);
   await expect(
-    page.getByRole("status").filter({ hasText: "online gespeichert" }),
-  ).toBeVisible();
+    page.getByRole("button", { name: "Online sichern", exact: true }),
+  ).toHaveCount(0);
+  await page
+    .getByText("Vorhandenen Gastspielstand übernehmen", { exact: true })
+    .click();
   await page
     .getByLabel(
       "Meinen lokalen Kontospielstand durch den Gastspielstand ersetzen",
@@ -269,7 +449,7 @@ test("Falsches Passwort und abgelaufener Reset-Link zeigen Fehler ohne Kontozugr
   );
   await page.goto("/#auth?type=recovery&token_hash=" + "b".repeat(64));
   await page.reload();
-  await page.getByRole("button", { name: "Link bestätigen" }).click();
+  await page.getByRole("button", { name: "Weiter zum neuen Passwort" }).click();
   await expect(
     page.getByRole("status").filter({ hasText: "abgelaufen" }),
   ).toBeVisible();

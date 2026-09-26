@@ -1,0 +1,124 @@
+import type { State } from "./model";
+import { validateBackup } from "./storage";
+import { CloudConflict, type SyncReceipt } from "./accounts";
+
+type Remote = { state: State; revision: number } | null;
+export type SyncStatus =
+  "loading" | "saved" | "saving" | "offline" | "conflict";
+export type SyncStore = {
+  local: () => Promise<State | undefined>;
+  receipt: () => Promise<SyncReceipt | undefined>;
+  legacyRevision: () => Promise<number>;
+  remote: () => Promise<Remote>;
+  replace: (state: State) => Promise<State>;
+  acknowledge: (receipt: SyncReceipt) => Promise<void>;
+  save: (state: State, revision: number) => Promise<number>;
+};
+export async function fingerprint(state: State) {
+  const bytes = new TextEncoder().encode(JSON.stringify(validateBackup(state)));
+  return Array.from(
+    new Uint8Array(await crypto.subtle.digest("SHA-256", bytes)),
+  )
+    .map((n) => n.toString(16).padStart(2, "0"))
+    .join("");
+}
+
+// Local changes are durable before they reach this queue. A receipt records only
+// the acknowledged snapshot, so reloads and lost responses never hide dirty data.
+export class AccountSync {
+  status: SyncStatus = "loading";
+  private revision = 0;
+  private saved = "";
+  private latest: State | null = null;
+  private running: Promise<void> | null = null;
+  private stopped = false;
+  constructor(
+    private store: SyncStore,
+    private notify: (status: SyncStatus) => void,
+  ) {}
+  private report(status: SyncStatus) {
+    this.status = status;
+    if (!this.stopped) this.notify(status);
+  }
+  stop() {
+    this.stopped = true;
+  }
+  async prepare() {
+    const [local, receipt, remote] = await Promise.all([
+      this.store.local(),
+      this.store.receipt(),
+      this.store.remote(),
+    ]);
+    if (this.stopped) return;
+    this.revision = receipt?.revision ?? (await this.store.legacyRevision());
+    const localHash = local ? await fingerprint(local) : "";
+    const remoteHash = remote ? await fingerprint(remote.state) : "";
+    if (remote && localHash === remoteHash) {
+      await this.acknowledge(remote.revision, remoteHash);
+    } else if (local && (!receipt || localHash !== receipt.fingerprint)) {
+      if (remote && remote.revision !== this.revision) {
+        this.report("conflict");
+        return;
+      }
+      this.saved = receipt?.fingerprint ?? "";
+      this.revision = remote?.revision ?? 0;
+    } else if (remote) {
+      await this.store.replace(remote.state);
+      await this.acknowledge(remote.revision, remoteHash);
+    } else {
+      this.revision = 0;
+      this.saved = "";
+    }
+    this.report("saved");
+  }
+  private async acknowledge(revision: number, hash: string) {
+    if (this.stopped) return;
+    await this.store.acknowledge({ revision, fingerprint: hash });
+    this.revision = revision;
+    this.saved = hash;
+  }
+  offer(state: State) {
+    if (this.stopped || this.status === "conflict") return;
+    this.latest = state;
+    void this.flush();
+  }
+  flush(): Promise<void> {
+    if (this.running) return this.running;
+    this.running = this.drain().finally(() => {
+      this.running = null;
+      if (this.latest && !this.stopped && this.status === "saved")
+        void this.flush();
+    });
+    return this.running;
+  }
+  private async drain() {
+    while (this.latest && !this.stopped && this.status !== "conflict") {
+      const snapshot = this.latest;
+      try {
+        const hash = await fingerprint(snapshot);
+        if (this.stopped) return;
+        if (hash !== this.saved) {
+          this.report("saving");
+          try {
+            const revision = await this.store.save(snapshot, this.revision);
+            await this.acknowledge(revision, hash);
+          } catch (error) {
+            if (!(error instanceof CloudConflict)) throw error;
+            const remote = await this.store.remote();
+            if (remote && (await fingerprint(remote.state)) === hash) {
+              await this.acknowledge(remote.revision, hash);
+            } else {
+              this.report("conflict");
+              return;
+            }
+          }
+        }
+        if (this.latest === snapshot) this.latest = null;
+        this.report("saved");
+      } catch {
+        this.report("offline");
+        return;
+      }
+    }
+  }
+}

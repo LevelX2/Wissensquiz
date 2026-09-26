@@ -95,7 +95,7 @@ export async function cloudSave(
     expected_owner: ownerId,
   });
   if (error?.message.includes("revision_conflict"))
-    throw new Error(
+    throw new CloudConflict(
       "Auf einem anderen Gerät wurde bereits gespeichert. Lade zuerst den Online-Stand; Dein lokaler Stand bleibt erhalten.",
     );
   if (error)
@@ -103,6 +103,30 @@ export async function cloudSave(
       "Online-Speicherung fehlgeschlagen. Dein lokaler Spielstand bleibt erhalten.",
     );
   return z.number().int().positive().parse(data);
+}
+export class CloudConflict extends Error {}
+
+export type SyncReceipt = { revision: number; fingerprint: string };
+export async function readSyncReceipt(
+  key: string,
+): Promise<SyncReceipt | undefined> {
+  const db = await openDatabase();
+  return new Promise((resolve, reject) => {
+    const req = db.transaction("state").objectStore("state").get(`sync:${key}`);
+    req.onsuccess = () => resolve(req.result);
+    req.onerror = () => reject(req.error);
+  });
+}
+export async function writeSyncReceipt(key: string, receipt: SyncReceipt) {
+  const db = await openDatabase();
+  await new Promise<void>((resolve, reject) => {
+    const tx = db.transaction("state", "readwrite");
+    tx.objectStore("state").put(receipt, `sync:${key}`);
+    tx.objectStore("state").put(receipt.revision, `revision:${key}`);
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => reject(tx.error);
+    tx.onabort = () => reject(tx.error);
+  });
 }
 export async function cloudRead(client: SupabaseClient, ownerId: string) {
   const { data, error } = await client

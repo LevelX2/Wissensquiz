@@ -55,3 +55,9 @@ Es wurden keine Filmplakate, externen Bilder oder Audiodateien eingebunden. Die 
 ## Redaktionelle Vertiefung
 
 Geprüfte Zusatzangaben können getrennt vom Import in der Erklärung erscheinen. Derzeit betrifft dies die Besetzung von „Conjuring – Die Heimsuchung“ (2013). Rohdateien, Frageversionen, IDs und Rundensnapshots werden dabei nicht überschrieben. Umfang, Quelle und Grenzen: [Erklärungstiefe](Erklaerungstiefe.md).
+
+## Komödie und Western (26.09.2026)
+
+`Komoedie_Quiz_180_Fragen.csv` und `Western_Quiz_180_Fragen.csv` haben ebenfalls 31 Spalten. Alle jeweils 180 Datensätze mit dem App-Parser gegen sämtliche Vorgängerpakete geprüft: je 150 Wissensziele, 30 Varianten und 25 Themen. Keine Ausschlüsse, Warnungen oder ID-Konflikte. Gesamtbestand 1.080 Fragen, 900 Wissensziele, 180 Varianten und 138 Themen. Rohquellen und öffentliche Kopien bytegleich zu den gelieferten Dateien; vorhandene Rohquellen unverändert.
+
+Beide Genres werden automatisch ergänzt, sind kombinierbar und Teil des Offline-Pakets. Prüfung der transaktionalen Ergänzung umfasst ältere Stände mit einem bis fünf Paketen. Berichte: [Komödie](importbericht-komoedie.json), [Western](importbericht-western.json). Inhalte einschließlich bereits enthaltener Darstellernamen stammen aus den neuen Nutzerdateien; keine unabhängige fachliche oder vollständige redaktionelle Darstellerprüfung dieser 360 Fragen.

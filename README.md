@@ -23,11 +23,11 @@ npm run preview
 
 ## Spielen
 
-- **Filmgenres kombinieren:** Sci-Fi, Action, Horror und Fantasy können gemeinsam oder einzeln ausgewählt werden. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen sind eine optionale, aufklappbare Verfeinerung.
+- **Filmgenres kombinieren:** Sci-Fi, Action, Horror, Fantasy, Komödie und Western können gemeinsam oder einzeln ausgewählt werden. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen sind eine optionale, aufklappbare Verfeinerung.
 - **Schwierigkeitsstufen kombinieren:** zum Beispiel Leicht + Mittel. Eine leere Genre- oder Stufenauswahl startet keine Runde. Die Auswahl bleibt im Rundensnapshot, in Sicherungen und in getrennten Rekordkategorien erhalten; alte Runden bleiben lesbar.
 - Jede Frage zeigt ihr Genre und ihre Schwierigkeit, auch nach der Antwort. Unter Einstellungen & Daten → Hinweise an der Frage sind beide Angaben unabhängig abschaltbar; die Auswahl bleibt gespeichert.
 - **Ton & Vibration:** kurze Soundeffekte für Start, Antworten, nächste Frage, Zeitablauf und Abschluss. Ton oben jederzeit umschaltbar; optionale Vibration und ein Probesignal unter Einstellungen & Daten. Kein Ton beim bloßen Seitenladen. Einstellungen bleiben lokal erhalten, Signale funktionieren auch offline.
-- Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action), Geist (Horror) und Zauberstab (Fantasy). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.
+- Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action), Geist (Horror) und Zauberstab (Fantasy), lächelndes Gesicht (Komödie) und Cowboyhut (Western). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.
 
 - Erste Runde standardmäßig fünf, weitere zehn unterschiedliche Wissensziele; kleinere Bestände verkürzen die Runde transparent.
 - **Entdecken:** neue/wenig bekannte Ziele, fällige Wiederholungen und sichere Inhalte.
@@ -47,7 +47,9 @@ Zusätzlich enthalten: **Action_Quiz_180_Fragen.csv**, ebenfalls unverändert, m
 
 Neu enthalten: **Horror_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 20 Themen**. Keine Ausschlüsse, Warnungen oder ID-Konflikte mit den bisherigen Paketen. Insgesamt **540 Fragen, 450 Wissensziele und 76 Themen**. Das Horror-Paket ergänzt bestehende Sci-Fi-/Action-Spielstände beim App-Start transaktional und gehört zum Offline-Paket. [Horror-Importbericht](docs/importbericht-horror.json). Seit 26.09.2026 als private Sites-Version 3 live. Für ein wartendes App-Update alle bisherigen Quiz-Fenster schließen und die Adresse neu öffnen.
 
-Zusätzlich enthalten: **Fantasy_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 12 Themen**, darunter Der Herr der Ringe, Harry Potter und Die Chroniken von Narnia. Keine Ausschlüsse, Warnungen oder ID-Konflikte. Der aktuelle Gesamtbestand umfasst **720 Fragen, 600 Wissensziele und 88 Themen**. Fantasy ist als eigenes Genre mit anderen Genres kombinierbar und offline verfügbar. Bestehende Fragen, Runden, Lernstände und Einstellungen bleiben erhalten. [Fantasy-Importbericht](docs/importbericht-fantasy.json).
+Zusätzlich enthalten: **Fantasy_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 12 Themen**, darunter Der Herr der Ringe, Harry Potter und Die Chroniken von Narnia. Keine Ausschlüsse, Warnungen oder ID-Konflikte. Mit Fantasy umfasst der Bestand **720 Fragen, 600 Wissensziele und 88 Themen**. Fantasy ist als eigenes Genre mit anderen Genres kombinierbar und offline verfügbar. Bestehende Fragen, Runden, Lernstände und Einstellungen bleiben erhalten. [Fantasy-Importbericht](docs/importbericht-fantasy.json).
+
+Neu hinzugekommen sind **Komoedie_Quiz_180_Fragen.csv** und **Western_Quiz_180_Fragen.csv**, jeweils mit 180 Fragen, 150 Wissenszielen, 30 Varianten und 25 Themen. Beide Quellen sind unverändert; alle Datensätze strukturell akzeptiert, ohne Warnungen oder ID-Konflikte. Gesamtbestand: **1.080 Fragen, 900 Wissensziele, 180 Varianten und 138 Themen**. Automatische Ergänzung bestehender Stände und Offline-Cache sind eingebunden. Die redaktionelle Darstellerprüfung der bisherigen 720 Fragen wird dadurch nicht auf die neuen 360 Fragen ausgeweitet. [Komödie-Bericht](docs/importbericht-komoedie.json), [Western-Bericht](docs/importbericht-western.json).
 
 `verification_status=redaktionell_geprueft` ist eine Angabe der gelieferten Datei. Eine unabhängige Prüfung aller Filmaussagen oder verlinkten Seiten wurde nicht durchgeführt. Darstellerergänzungen werden getrennt von den Rohfragen gepflegt; Fehlererklärungen bleiben unverändert.
 
@@ -84,11 +86,12 @@ Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach b
 | `src/engine.ts` | Auswahl, Lernregeln, Punkte und idempotente Rundenaktionen |
 | `src/storage.ts` | IndexedDB-Transaktionen, Sicherungsvalidierung, Export/Import |
 | `src/App.tsx`, `src/style.css` | Oberfläche und responsive Gestaltung |
-| `src/AccountApp.tsx`, `src/accounts.ts`, `supabase/` | Optionale Konten, getrennte Speicher, Datenbankregeln und Mailvorlagen |
+| `src/AccountApp.tsx`, `src/AccountGame.tsx`, `src/accountSync.ts`, `src/accounts.ts`, `supabase/` | Optionale Konten, getrennte Speicher, Datenbankregeln und Mailvorlagen |
 | `src/offline.ts`, `scripts/build-sw.mjs` | Paketstatus und sicher wartende App-Updates |
 | `public/fragen.csv`, `public/action-fragen.csv`, `src/packages.ts` | Gelieferte Standardpakete und transaktionale Ergänzung |
 | `public/horror-fragen.csv` | Unverändertes Horror-Paket, ebenfalls automatisch ergänzt und offline verfügbar |
 | `public/fantasy-fragen.csv` | Unverändertes Fantasy-Paket, automatisch ergänzt und offline verfügbar |
+| `public/komoedie-fragen.csv`, `public/western-fragen.csv` | Unveränderte Zusatzpakete, automatisch ergänzt und offline verfügbar |
 | `tests/` | Logik-, Persistenz- und Browserprüfungen |
 
 ## Prüfen
@@ -105,4 +108,4 @@ Tests verwenden isolierte Browserprofile und kontrollierte Testzeiten. Produktiv
 
 Git: lokal ohne Remote, Integrationsbranch `main`, Umsetzung auf `codex/spielbare-testversion`. [Projektwissen](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md).
 
-Die optionale [Kontenanbindung](docs/Konten-und-Spielstaende.md) bietet Spielername, E-Mail/Passwort, Bestätigung, Reset und manuelles Online-Sichern/Laden über Supabase. Supabase Free in Frankfurt, Brevo SMTP und deutsche Mailvorlagen sind eingerichtet. **Für den privaten Eigentümertest aktiviert und veröffentlicht.** Echte Mailzustellung, Linkverhalten und Kontenabnahme stehen aus. Bisherige Gastspielstände bleiben lokal erhalten; keine automatische Übertragung. [Einrichtung mit SQL und Mailvorlagen](docs/Konten-Einrichtung.md). Eine gemeinsame, serverseitig geprüfte Bestenliste ist noch offen.
+Die optionale [Kontenanbindung](docs/Konten-und-Spielstaende.md) bietet Spielername, E-Mail/Passwort, Bestätigung, Reset und automatisches Online-Sichern/Laden über Supabase. Supabase Free in Frankfurt, Brevo SMTP und deutsche Mailvorlagen sind eingerichtet. **Konten aktiviert.** Echte Bestätigungsmail und Kontoaktivierung erfolgreich geprüft; Passwort-Reset und Anmeldung am Handy vom Nutzer erfolgreich bestätigt; echte geräteübergreifende Spielstandsabnahme weiterhin offen. Alle Passwortfelder besitzen eine Anzeigeoption mit Auge. Angemeldete Spieler laden bei Anmeldung/Neuladen automatisch ihren Stand; lokale Änderungen werden automatisch gesichert. Vor Gerätewechsel auf die Speicherbestätigung warten. Konflikte zwischen Geräten werden ohne stilles Überschreiben angezeigt. Bisherige Gastspielstände bleiben lokal erhalten; keine automatische Übertragung. [Einrichtung mit SQL und Mailvorlagen](docs/Konten-Einrichtung.md). Eine gemeinsame, serverseitig geprüfte Bestenliste ist noch offen.

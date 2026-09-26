@@ -1,19 +1,18 @@
 import { useEffect, useRef, useState } from "react";
 import type { SupabaseClient, User, Session } from "@supabase/supabase-js";
 import { App } from "./App";
+import { PasswordField } from "./PasswordField";
+import { AccountGame, syncText } from "./AccountGame";
+import type { SyncStatus } from "./accountSync";
 import {
   accountConfig,
   accountStorageKey,
   authError,
-  cloudRead,
-  cloudRevision,
-  cloudSave,
   createAccountClient,
   parseAccountLink,
-  rememberRevision,
   replaceAccountState,
 } from "./accounts";
-import { download, read } from "./storage";
+import { read } from "./storage";
 import type { State } from "./model";
 
 type Link = ReturnType<typeof parseAccountLink>;
@@ -163,7 +162,10 @@ export function AccountApp() {
         onVerified={(type) => {
           setLink(null);
           if (type === "recovery") setRecovering(true);
-          else setMessage("E-Mail bestätigt. Dein Konto ist bereit.");
+          else
+            setMessage(
+              "Deine E-Mail-Adresse ist bestätigt und Dein Quiz-Konto ist aktiviert. Dein Fortschritt wird beim Spielen automatisch online gespeichert.",
+            );
         }}
         onDone={() => {
           recoveryMarker.write(null);
@@ -183,6 +185,27 @@ export function AccountApp() {
       />
     );
   const key = user ? accountStorageKey(connection.url, user.id) : "current";
+  if (user && connection.client)
+    return (
+      <AccountGame
+        key={key}
+        client={connection.client}
+        owner={user.id}
+        storageKey={key}
+        name={String(user.user_metadata.display_name ?? "Spieler")}
+        panel={(state, onState, syncStatus) => (
+          <AccountPanel
+            client={connection.client}
+            user={user}
+            storageKey={key}
+            state={state}
+            onState={onState}
+            syncStatus={syncStatus}
+            initialMessage={connection.error || message}
+          />
+        )}
+      />
+    );
   return (
     <App
       key={key}
@@ -240,7 +263,13 @@ function LinkPanel({
   };
   return (
     <main className="account-page">
-      <h1>{recovering ? "Neues Passwort setzen" : "E-Mail-Link bestätigen"}</h1>
+      <h1>
+        {recovering
+          ? "Neues Passwort setzen"
+          : link?.type === "recovery"
+            ? "Passwort zurücksetzen"
+            : "Dein Quiz-Konto aktivieren"}
+      </h1>
       <p role="status">{error}</p>
       {!client ? (
         <p>
@@ -267,30 +296,18 @@ function LinkPanel({
             });
           }}
         >
-          <label>
-            Neues Passwort
-            <input
-              type="password"
-              autoComplete="new-password"
-              minLength={12}
-              maxLength={128}
-              required
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-            />
-          </label>
-          <label>
-            Passwort wiederholen
-            <input
-              type="password"
-              autoComplete="new-password"
-              minLength={12}
-              maxLength={128}
-              required
-              value={repeat}
-              onChange={(e) => setRepeat(e.target.value)}
-            />
-          </label>
+          <PasswordField
+            label="Neues Passwort"
+            value={password}
+            onChange={setPassword}
+            newPassword
+          />
+          <PasswordField
+            label="Passwort wiederholen"
+            value={repeat}
+            onChange={setRepeat}
+            newPassword
+          />
           <button className="primary" disabled={busy}>
             Passwort speichern
           </button>
@@ -299,9 +316,18 @@ function LinkPanel({
         <>
           <p>
             {link?.type === "recovery"
-              ? "Bestätige den Link, um ein neues Passwort zu vergeben."
-              : "Bestätige Deine E-Mail-Adresse, um Dein Konto zu aktivieren."}
+              ? "Mit „Weiter zum neuen Passwort“ bestätigst Du Deinen Reset-Link. Anschließend kannst Du ein neues Passwort für Dein Quiz-Konto festlegen."
+              : "Dein Quiz-Konto ist vorbereitet. Mit „E-Mail bestätigen und Konto aktivieren“ bestätigst Du Deine E-Mail-Adresse und schließt Deine Registrierung ab."}
           </p>
+          {link?.type === "signup" && (
+            <p>
+              Danach wirst Du mit Deinem Quiz-Konto angemeldet und kannst
+              losspielen. Dein Fortschritt wird automatisch online gespeichert.
+              Melde Dich auf einem anderen Gerät mit demselben Quiz-Konto an, um
+              dort weiterzuspielen. Dein Gastspielstand bleibt getrennt
+              erhalten.
+            </p>
+          )}
           <button
             className="primary"
             disabled={busy || !link}
@@ -313,16 +339,25 @@ function LinkPanel({
               })
             }
           >
-            Link bestätigen
+            {link?.type === "recovery"
+              ? "Weiter zum neuen Passwort"
+              : "E-Mail bestätigen und Konto aktivieren"}
           </button>
         </>
       )}
+      <p>
+        {recovering || link?.type === "recovery"
+          ? "Beim Abbrechen bleibt Dein bisheriges Passwort unverändert."
+          : "Wenn Du die Bestätigung überspringst, bleibt Dein Konto unbestätigt. Du kannst weiterhin als Gast spielen und den Link aus Deiner E-Mail später erneut öffnen."}
+      </p>
       <button
         className="text-button"
         disabled={busy}
         onClick={() => void onCancel()}
       >
-        Zurück zum Quiz
+        {recovering || link?.type === "recovery"
+          ? "Abbrechen und zum Quiz"
+          : "Ohne Bestätigung zum Quiz"}
       </button>
     </main>
   );
@@ -335,6 +370,7 @@ function AccountPanel({
   state,
   onState,
   initialMessage,
+  syncStatus,
 }: {
   client: SupabaseClient | null;
   user: User | null;
@@ -342,6 +378,7 @@ function AccountPanel({
   state: State;
   onState: (state: State) => void;
   initialMessage: string;
+  syncStatus?: SyncStatus;
 }) {
   const [mode, setMode] = useState<"login" | "register" | "forgot" | "resend">(
     "login",
@@ -351,10 +388,7 @@ function AccountPanel({
     [name, setName] = useState("");
   const [busy, setBusy] = useState(false),
     [message, setMessage] = useState(initialMessage);
-  const [remote, setRemote] =
-    useState<Awaited<ReturnType<typeof cloudRead>>>(null);
-  const [accept, setAccept] = useState(false),
-    [guestAccept, setGuestAccept] = useState(false);
+  const [guestAccept, setGuestAccept] = useState(false);
   const run = async (fn: () => Promise<void>) => {
     setBusy(true);
     setMessage("");
@@ -403,9 +437,9 @@ function AccountPanel({
           }
         </h1>
         <p>
-          Mit Deinem Quiz-Konto kannst Du Deinen Spielstand online sichern und
-          auf einem anderen Gerät laden. Dein Gastspielstand bleibt getrennt
-          erhalten.
+          Mit Deinem Quiz-Konto wird Dein Fortschritt automatisch online
+          gespeichert. Melde Dich auf einem anderen Gerät an und spiele dort
+          weiter. Als Gast bleibt Dein Fortschritt nur auf diesem Gerät.
         </p>
         <form
           onSubmit={(e) => {
@@ -491,20 +525,12 @@ function AccountPanel({
             />
           </label>
           {(mode === "login" || mode === "register") && (
-            <label>
-              Passwort
-              <input
-                type="password"
-                autoComplete={
-                  mode === "register" ? "new-password" : "current-password"
-                }
-                required
-                minLength={mode === "register" ? 12 : 1}
-                maxLength={128}
-                value={password}
-                onChange={(e) => setPassword(e.target.value)}
-              />
-            </label>
+            <PasswordField
+              key={mode}
+              value={password}
+              onChange={setPassword}
+              newPassword={mode === "register"}
+            />
           )}
           {mode === "register" && (
             <p className="tiny muted">
@@ -572,124 +598,60 @@ function AccountPanel({
       >
         Abmelden
       </button>
-      <h2>Spielstand auf anderen Geräten</h2>
+      <h2>Dein Fortschritt ist mit Deinem Konto verbunden</h2>
       <p>
-        Speichere Deinen Kontospielstand online und lade ihn auf einem anderen
-        Gerät. Es gibt noch keine automatische Zusammenführung. Gleichzeitige
-        Änderungen überschreiben sich nicht unbemerkt.
+        Dein Spielstand wird automatisch online gespeichert. Melde Dich auf
+        einem anderen Gerät mit demselben Quiz-Konto an, um dort
+        weiterzuspielen.
       </p>
-      <div className="account-actions">
+      <p>{syncStatus && syncText[syncStatus]}</p>
+      <p>
+        Ohne Verbindung bleiben neue Antworten auf diesem Gerät erhalten und
+        werden bei wiederhergestellter Verbindung automatisch übertragen. Warte
+        vor dem Gerätewechsel auf „Spielstand online gespeichert“.
+      </p>
+      <details>
+        <summary>Vorhandenen Gastspielstand übernehmen</summary>
+        <h2>Bisherigen Gastspielstand übernehmen</h2>
+        <p>
+          Damit startest Du in Deinem Konto mit dem Fortschritt, den Du auf
+          diesem Gerät bisher als Gast erspielt hast. Der Gastspielstand bleibt
+          erhalten; der lokale Kontospielstand wird ersetzt. Sichere ihn vorher
+          als JSON. Der übernommene Stand wird anschließend automatisch online
+          gespeichert.
+        </p>
+        <label className="filter-choice">
+          <input
+            type="checkbox"
+            checked={guestAccept}
+            onChange={(e) => setGuestAccept(e.target.checked)}
+          />
+          Meinen lokalen Kontospielstand durch den Gastspielstand ersetzen
+        </label>
         <button
-          className="primary"
-          disabled={busy}
+          className="secondary"
+          disabled={busy || !guestAccept}
           onClick={() =>
             void run(async () => {
-              const current = await read(storageKey);
-              if (!current) throw new Error("Kein Spielstand vorhanden.");
-              const revision = await cloudSave(
-                client,
-                current,
-                await cloudRevision(storageKey),
-                user.id,
+              const guest = await read();
+              if (!guest) throw new Error("Kein Gastspielstand vorhanden.");
+              onState(await replaceAccountState(storageKey, guest));
+              setGuestAccept(false);
+              setMessage(
+                "Gastspielstand kopiert. Er wird automatisch online gespeichert.",
               );
-              await rememberRevision(storageKey, revision);
-              setMessage("Kontospielstand online gespeichert.");
             })
           }
         >
-          Online sichern
+          Gastspielstand kopieren
         </button>
-        <button
-          className="secondary"
-          disabled={busy}
-          onClick={() =>
-            void run(async () => {
-              const save = await cloudRead(client, user.id);
-              setRemote(save);
-              setAccept(false);
-              if (!save) setMessage("Noch kein Online-Spielstand vorhanden.");
-            })
-          }
-        >
-          Online-Spielstand prüfen
-        </button>
-        <button
-          className="secondary"
-          disabled={busy}
-          onClick={() => download("wissensquiz-konto.json", state)}
-        >
-          Lokale JSON-Sicherung
-        </button>
-      </div>
-      {remote && (
-        <div className="notice">
-          <p>
-            Online gespeichert am{" "}
-            {new Date(remote.updated_at).toLocaleString("de-DE")}:{" "}
-            {remote.state.rounds.filter((r) => r.status === "completed").length}{" "}
-            abgeschlossene Runden.
-          </p>
-          <label className="filter-choice">
-            <input
-              type="checkbox"
-              checked={accept}
-              onChange={(e) => setAccept(e.target.checked)}
-            />
-            Meinen lokalen Kontospielstand durch diesen Online-Stand ersetzen
-          </label>
-          <button
-            className="secondary"
-            disabled={busy || !accept}
-            onClick={() =>
-              void run(async () => {
-                const restored = await replaceAccountState(
-                  storageKey,
-                  remote.state,
-                );
-                await rememberRevision(storageKey, remote.revision);
-                onState(restored);
-                setRemote(null);
-                setMessage("Online-Spielstand übernommen.");
-              })
-            }
-          >
-            Online-Spielstand übernehmen
-          </button>
-        </div>
-      )}
-      <h2>Bisherigen Gastspielstand übernehmen</h2>
+      </details>
+      <h2>Deine persönliche Bestenliste</h2>
       <p>
-        Dein bisheriger Gastspielstand wird dabei kopiert und bleibt als Gast
-        erhalten. Sichere den Kontospielstand vorher als JSON.
-      </p>
-      <label className="filter-choice">
-        <input
-          type="checkbox"
-          checked={guestAccept}
-          onChange={(e) => setGuestAccept(e.target.checked)}
-        />
-        Meinen lokalen Kontospielstand durch den Gastspielstand ersetzen
-      </label>
-      <button
-        className="secondary"
-        disabled={busy || !guestAccept}
-        onClick={() =>
-          void run(async () => {
-            const guest = await read();
-            if (!guest) throw new Error("Kein Gastspielstand vorhanden.");
-            onState(await replaceAccountState(storageKey, guest));
-            setGuestAccept(false);
-            setMessage(
-              "Gastspielstand kopiert. Zum Übertragen auf andere Geräte jetzt online sichern.",
-            );
-          })
-        }
-      >
-        Gastspielstand kopieren
-      </button>
-      <p className="tiny muted">
-        Online-Stände sind privat. Die gemeinsame Bestenliste ist noch nicht
-        aktiviert; lokale Rekorde bleiben Trainingsrekorde.
+        Die Bestenliste zeigt bisher nur Deine eigenen Rekordrunden aus dem
+        aktuellen Spielstand. Sie werden mit Deinem Spielstand gesichert. Eine
+        gemeinsame Rangliste mit den Spielernamen anderer Personen gibt es noch
+        nicht. Dein Online-Spielstand ist privat.
       </p>
     </section>
   );

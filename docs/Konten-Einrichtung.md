@@ -2,7 +2,7 @@
 
 ## Stand
 
-Die App-Anbindung und das Supabase-Projekt sind eingerichtet. Brevo SMTP und deutsche Bestätigungs-/Reset-Vorlagen sind gespeichert. `public/account-config.json` enthält jetzt `enabled: true` mit Project URL und öffentlichem Publishable Key; private Veröffentlichung erfolgreich, echte Live-Registrierungsansicht geöffnet. Echte Mailzustellung, Linkverhalten und Kontenabnahme stehen noch aus. Es wurden noch keine echten Quiz-Konten angelegt und keine Quiz-E-Mails versendet. Die äußere Sites-Freigabe bleibt privat.
+Die App-Anbindung und das Supabase-Projekt sind eingerichtet. Brevo SMTP und deutsche Bestätigungs-/Reset-Vorlagen sind gespeichert. `public/account-config.json` enthält jetzt `enabled: true` mit Project URL und öffentlichem Publishable Key; private Veröffentlichung erfolgreich, echte Live-Registrierungsansicht geöffnet. Nach korrigiertem SMTP-Schlüsseltransfer wurde eine echte Bestätigungsmail zugestellt und das Konto erfolgreich aktiviert (Dashboard geprüft). Erfolgreicher Passwort-Reset und Anmeldung am Handy wurden danach vom Nutzer bestätigt. Echte Zwei-Konten- und geräteübergreifende Spielstandsabnahme stehen aus. Der Nutzer hat inzwischen öffentliche Erreichbarkeit ohne vorgeschaltete ChatGPT-Anmeldung beauftragt; aktueller Status unter Sites-Betrieb.md.
 
 ### Tatsächlich eingerichtet am 26.09.2026
 
@@ -12,11 +12,11 @@ Die App-Anbindung und das Supabase-Projekt sind eingerichtet. Brevo SMTP und deu
 - Direkte SQL-Prüfung im echten Projekt: RLS aktiv, eine SELECT-Policy, kein anonymer Tabellenzugriff, keine direkten INSERT-/UPDATE-/DELETE-Rechte für angemeldete Benutzer; Speicherfunktion ausschließlich für angemeldete Benutzer ausführbar. Inhalt und Revisionsregeln stammen aus der lokal getesteten Migration. Echte Zwei-Konten-Prüfung weiterhin offen.
 - E-Mail-Provider, Registrierung und Confirm email aktiviert vorgefunden; anonyme Anmeldung deaktiviert. Mindestpasswortlänge auf zwölf Zeichen gespeichert, Linkablauf 3.600 Sekunden beibehalten.
 - Site URL und genau eine Redirect-URL entsprechend Abschnitt 3 gespeichert.
-- Brevo-Free-Konto eingerichtet, 300 Mails/Tag im Dashboard angezeigt, Absender „Wissensquiz“ verifiziert. Nutzer hat die Erstellung des SMTP-Schlüssels „Wissensquiz Supabase“ und dessen ausschließliche Hinterlegung in Supabase ausdrücklich bestätigt. Schlüssel erstellt, aktiv, Ablauf 26.09.2027; laut Erstellungsdialog zusätzlich Ablauf nach 90 Tagen Inaktivität. Vor Ablauf erneuern. Kein Schlüssel in Chat, Dateien oder Git.
+- Brevo-Free-Konto eingerichtet, 300 Mails/Tag im Dashboard angezeigt, Absender „Wissensquiz“ verifiziert. Nutzer hat die Erstellung des SMTP-Schlüssels „Wissensquiz Supabase“ und dessen ausschließliche Hinterlegung in Supabase ausdrücklich bestätigt. Ursprünglichen Schlüssel später deaktiviert und durch „Wissensquiz Supabase Ersatz“ ersetzt; dessen Ablauf 26.09.2027; laut Erstellungsdialog zusätzlich Ablauf nach 90 Tagen Inaktivität. Vor Ablauf erneuern. Kein Schlüssel in Chat, Dateien oder Git.
 - Custom SMTP in Supabase gespeichert: `smtp-relay.brevo.com`, Port 587, Absendername „Wissensquiz“, verifizierte Absenderadresse und Brevo-Zugang ausschließlich im Dienst. Mindestintervall 60 Sekunden; Dashboard nennt nach Aktivierung 30 Mails/Stunde. Deutsche Confirm-sign-up- und Reset-password-Vorlagen aus Abschnitt 4 gespeichert; kein kostenpflichtiges Upgrade.
 - Erster echter Registrierungsversuch am 26.09.2026 scheiterte mit HTTP 500; Supabase-Auth-Log zeigt SMTP `535 5.7.8 Authentication failed`. Kein Hinweis auf ein zu kurzes Quiz-Passwort. Bei der Diagnose lieferte die Browser-Zwischenablage nach Brevos Kopierbutton noch vorherigen Text; der ursprüngliche Schlüsseltransfer war daher nicht belastbar verifiziert.
-- Ersatzschlüssel „Wissensquiz Supabase Ersatz“ direkt aus dem sichtbaren Brevo-Eingabefeld übernommen (Format geprüft), ausschließlich in Supabase eingetragen und mit „Successfully updated settings“ gespeichert. Ursprünglichen Schlüssel deaktiviert, nicht gelöscht. Neuer Schlüssel mit gleichem Ablauf 26.09.2027. Erneuter Nutzertest und tatsächlicher SMTP-Erfolg noch offen.
-- Brevo zeigt bei der SMTP-Überprüfung „Warten auf Log“. Mailzustellung ist noch nicht bestätigt. Anonymes Tracking aktiviert; vollständige Tracking-Abschaltung ist in der aktuellen Oberfläche nicht verfügbar. Das Verhalten umgeschriebener Links muss bei der Abnahme geprüft werden.
+- Ersatzschlüssel „Wissensquiz Supabase Ersatz“ direkt aus dem sichtbaren Brevo-Eingabefeld übernommen (Format geprüft), ausschließlich in Supabase eingetragen und mit „Successfully updated settings“ gespeichert. Ursprünglichen Schlüssel deaktiviert, nicht gelöscht. Neuer Schlüssel mit gleichem Ablauf 26.09.2027. Erneuter Nutzertest erfolgreich: Bestätigungsmail angekommen, Kontoaktivierung im Dashboard nachgewiesen.
+- Brevo zeigte zunächst „Warten auf Log“; inzwischen ist die Bestätigungsmail beim Nutzer angekommen. Anonymes Tracking aktiviert; vollständige Tracking-Abschaltung ist in der aktuellen Oberfläche nicht verfügbar. Das Verhalten umgeschriebener Links muss bei der Abnahme geprüft werden.
 
 ## 1. Supabase-Projekt
 
@@ -51,25 +51,25 @@ In den Supabase-E-Mail-Vorlagen:
 - **Confirm signup:** [confirmation.html](../supabase/templates/confirmation.html), Betreff „Bestätige Dein Wissensquiz-Konto“.
 - **Reset password:** [recovery.html](../supabase/templates/recovery.html), Betreff „Wissensquiz: Passwort zurücksetzen“.
 
-Die beiden Vorlagen sind notwendig: Die App verwendet ausdrücklich `token_hash` und `type` im URL-Fragment. Sie entfernt den Token sofort aus der sichtbaren Adresse und prüft ihn erst nach dem Klick auf „Link bestätigen“. Dadurch verbraucht ein einfacher Mail-Linkscanner den Token nicht schon beim Öffnen. Im direkten App-Link erscheinen Tokens nicht im HTTP-Pfad, in Quiz-Sicherungen oder in App-Logs. Brevo bietet in der aktuellen Oberfläche nur anonymisiertes Tracking, keine vollständige Abschaltung an. Die Anonymisierung ist aktiviert; sie verhindert keine Link-Umschreibung. Daher müssen zugestellte Bestätigungs-/Reset-Links einschließlich Fragment, privater Sites-Anmeldung und Weiterleitung vor Besucherfreigabe tatsächlich geprüft werden. [Brevo: anonymes Tracking](https://help.brevo.com/hc/en-us/articles/11643306229906-Can-I-anonymize-the-tracking-of-opens-and-clicks-for-my-emails). Es werden keine eigenen Mailpasswörter im Frontend benötigt.
+Die beiden Vorlagen sind notwendig: Die App verwendet ausdrücklich `token_hash` und `type` im URL-Fragment. Sie entfernt den Token sofort aus der sichtbaren Adresse und prüft ihn erst nach dem ausdrücklich beschrifteten Bestätigungsbutton. Dadurch verbraucht ein einfacher Mail-Linkscanner den Token nicht schon beim Öffnen. Im direkten App-Link erscheinen Tokens nicht im HTTP-Pfad, in Quiz-Sicherungen oder in App-Logs. Brevo bietet in der aktuellen Oberfläche nur anonymisiertes Tracking, keine vollständige Abschaltung an. Die Anonymisierung ist aktiviert; sie verhindert keine Link-Umschreibung. Daher müssen zugestellte Bestätigungs-/Reset-Links einschließlich Fragment, privater Sites-Anmeldung und Weiterleitung vor Besucherfreigabe tatsächlich geprüft werden. [Brevo: anonymes Tracking](https://help.brevo.com/hc/en-us/articles/11643306229906-Can-I-anonymize-the-tracking-of-opens-and-clicks-for-my-emails). Es werden keine eigenen Mailpasswörter im Frontend benötigt.
 
 ## 5. Anbindung aktivieren und prüfen
 
 Nach eingerichteter Datenbank und Mailversand `public/account-config.json` mit Project URL, Publishable Key und `enabled: true` befüllen. Der Account-Dienst wird per HTTPS aus dem Browser angesprochen; Postgres-Regeln im Dienst übernehmen die serverseitige Autorisierung. Die bestehende statische Sites-App benötigt dafür keinen eigenen Passwortserver und keine neue Site-ID.
 
-Vor einer Freigabe für andere Personen folgende echte Dienstprüfungen mit getrennten Testkonten durchführen:
+Echte Dienstabnahme (offene Punkte unabhängig von lokalen Simulationen weiterverfolgen):
 
 1. Registrieren → echte Bestätigungsmail → Link → Anmeldung. Vor Bestätigung keine private Speicherung.
 2. Bestätigung erneut anfordern sowie abgelaufene und bereits verwendete Links prüfen.
 3. Passwort-Reset → echte Mail → neues Passwort → Abmeldung → Anmeldung nur mit neuem Passwort. Auch Linköffnung auf einem anderen Gerät prüfen.
-4. Konto A/B strikt getrennt; Gastspielstand erhalten. Online sichern, auf anderem Gerät laden, parallelen Speicherkonflikt prüfen. Anonyme und fremde API-Zugriffe müssen abgewiesen werden.
-5. Erst nach diesen Prüfungen die bisherige äußere Sites-Zugangsschranke passend freigeben. Der Nutzer hat die von ChatGPT unabhängige Anmeldung beauftragt; das ist das angestrebte Endergebnis. Bis die Einrichtung vollständig ist, bleibt die bestehende private Freigabe bestehen.
+4. Konto A/B strikt getrennt; Gastspielstand erhalten. Automatische Sicherung, Laden bei Anmeldung auf anderem Gerät und parallelen Speicherkonflikt prüfen. Anonyme und fremde API-Zugriffe müssen abgewiesen werden.
+5. Der Nutzer hat die öffentliche Erreichbarkeit jetzt ausdrücklich beauftragt. Die bisherigen Testempfehlungen werden dadurch nicht zu erledigten Prüfungen. Tatsächliche Freigabe unter Sites-Betrieb.md dokumentieren; offene Reset-/Geräteprüfungen beibehalten.
 
 Anschließend nach [Sites-Betrieb](Sites-Betrieb.md) veröffentlichen, dieselbe Projekt-ID und URL verwenden. Ein öffentlicher Site-Aufruf und private Kontodaten sind getrennte Dinge; Gastmodus und Quizfragen wären dann öffentlich erreichbar, Kontodaten weiter durch Supabase Auth/RLS geschützt.
 
 ## Grenzen dieser Ausbaustufe
 
-- Online-Spielstände werden ausdrücklich gespeichert und geladen, nicht automatisch zwischen Geräten zusammengeführt. Ein veralteter Upload überschreibt keinen neueren Online-Stand.
+- Automatisches Laden bei Anmeldung/Neuladen und automatische Sicherung nach lokalen Änderungen. Offene Uploads werden wiederholt; Revision und Inhaltsfingerabdruck schützen vor Datenverlust. Keine automatische Zusammenführung konkurrierender Änderungen. Details unter Konten-und-Spielstaende.md.
 - Lokaler Gast- und Kontospielstand sind getrennt. Kopieren des Gaststands und Ersetzen durch den Online-Stand verlangen eine ausdrückliche Auswahl; vorher JSON sichern. Zusätzliche lokale Rückfallkopie unter `recovery:…` im bestehenden IndexedDB-Store.
 - Abmeldung blendet Kontodaten aus; sie löscht nicht deren lokale Rückfallkopien. Ein Gerät mit fremdem Browserprofil ist kein privater Datentresor. Kontolöschung kann der Eigentümer derzeit im Supabase-Dashboard durchführen; die Online-Zeile wird durch den Fremdschlüssel mitgelöscht. Eine Selbstbedienungsfunktion zur Kontolöschung ist noch nicht eingebaut.
 - Ein neu geladenes Konto benötigt Internet zur Sitzungsprüfung. Der bisherige Offline-Gastmodus bleibt verfügbar. Bereits geladene Kontorunden speichern lokal; Online-Abgleich erfolgt mit Verbindung.

@@ -6,6 +6,8 @@ export const packages = [
   { path: "/action-fragen.csv", filename: "Action_Quiz_180_Fragen.csv" },
   { path: "/horror-fragen.csv", filename: "Horror_Quiz_180_Fragen.csv" },
   { path: "/fantasy-fragen.csv", filename: "Fantasy_Quiz_180_Fragen.csv" },
+  { path: "/komoedie-fragen.csv", filename: "Komoedie_Quiz_180_Fragen.csv" },
+  { path: "/western-fragen.csv", filename: "Western_Quiz_180_Fragen.csv" },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

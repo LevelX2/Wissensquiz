@@ -7,7 +7,15 @@ import audit from "../docs/Darstellerpruefung.json";
 import { emptyState } from "../src/model";
 import { validateBackup } from "../src/storage";
 
-const questions = packages.flatMap(
+const reviewedPackages = packages.filter((p) =>
+  [
+    "SciFi_Quiz_180_Fragen.csv",
+    "Action_Quiz_180_Fragen.csv",
+    "Horror_Quiz_180_Fragen.csv",
+    "Fantasy_Quiz_180_Fragen.csv",
+  ].includes(p.filename),
+);
+const questions = reviewedPackages.flatMap(
   (p) => importCsv(readFileSync(`public${p.path}`, "utf8")).questions,
 );
 const reviewed = audit.questions as Record<
