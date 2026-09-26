@@ -8,6 +8,28 @@ export const genreIllustrations: Record<string, string> = {
   Drama: "/genres/drama.png",
 };
 
+export function GenreArtwork({
+  genre,
+  compact = false,
+}: {
+  genre: string;
+  compact?: boolean;
+}) {
+  return genreIllustrations[genre] ? (
+    <img
+      className={compact ? "genre-thumbnail" : "genre-illustration"}
+      src={genreIllustrations[genre]}
+      alt=""
+      width={compact ? 40 : 160}
+      height={compact ? 40 : 160}
+      loading="lazy"
+      decoding="async"
+    />
+  ) : (
+    <GenreIcon genre={genre} />
+  );
+}
+
 export function GenreIcon({ genre }: { genre: string }) {
   const shape =
     genre === "Science-Fiction" ? (

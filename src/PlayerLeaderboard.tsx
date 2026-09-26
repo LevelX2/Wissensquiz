@@ -1,3 +1,4 @@
+import { rankingRequest } from "./rankingRequest";
 import { useContext, useEffect, useState } from "react";
 import { z } from "zod";
 import { RankingContext } from "./SharedLeaderboard";
@@ -24,17 +25,22 @@ export function PlayerLeaderboard({ state }: { state: State }) {
     [error, setError] = useState(false);
   useEffect(() => {
     let active = true;
+    const controller = new AbortController();
     if (!connection) return;
     setLoading(true);
     setError(false);
     setRows([]);
-    void Promise.resolve(
-      connection.client.rpc("quiz_players", {
-        sort_by: sort,
-        selected_genre: genre,
-        selected_difficulty: difficulty,
-        page_offset: offset,
-      }),
+    void rankingRequest(
+      (signal) =>
+        connection.client
+          .rpc("quiz_players", {
+            sort_by: sort,
+            selected_genre: genre,
+            selected_difficulty: difficulty,
+            page_offset: offset,
+          })
+          .abortSignal(signal),
+      controller,
     )
       .then(({ data, error }) => {
         if (!active) return;
@@ -50,6 +56,7 @@ export function PlayerLeaderboard({ state }: { state: State }) {
       });
     return () => {
       active = false;
+      controller.abort();
     };
   }, [connection, sort, genre, difficulty, offset, refresh]);
   if (!connection)

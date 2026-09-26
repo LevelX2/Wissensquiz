@@ -235,7 +235,12 @@ test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehme
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/");
   await login(page, "alice@example.test", true);
+  await expect(page.locator(".topbar")).toHaveCount(0);
+  await expect(page.locator(".sync-status")).toHaveCount(0);
   await account(page);
+  await expect(page.locator(".profile-sync-status")).toHaveText(
+    "Spielstand online gespeichert",
+  );
   for (const [label, value] of [
     ["Runden gespielt", "2"],
     ["Runden abgeschlossen", "1"],
@@ -378,9 +383,13 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
   );
   await page.unroute("**/rest/v1/rpc/quiz_save_state");
   await page.evaluate(() => window.dispatchEvent(new Event("online")));
-  await expect(page.locator(".sync-status")).toHaveText(
+  await expect(page.locator(".sync-status")).toHaveCount(0);
+  await account(page);
+  await expect(page.locator(".profile-sync-status")).toHaveText(
     "Spielstand online gespeichert",
   );
+  await page.getByRole("button", { name: "Spielen", exact: true }).click();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
   const otherContext = await browser.newContext({
     serviceWorkers: "block",
     baseURL: "http://localhost:4173",
@@ -405,7 +414,8 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
       .getByRole("button", { name: /Weiter|Nächste/ })
       .click();
     await other.locator(".answer").first().click();
-    await expect(other.locator(".sync-status")).toHaveText(
+    await account(other);
+    await expect(other.locator(".profile-sync-status")).toHaveText(
       "Spielstand online gespeichert",
     );
     await page
@@ -664,4 +674,67 @@ test("Falsches Passwort und abgelaufener Reset-Link zeigen Fehler ohne Kontozugr
   await expect(page.getByLabel("Neues Passwort", { exact: true })).toHaveCount(
     0,
   );
+});
+
+test("Ranglisten beenden hängende Anfragen und lassen sich erneut laden", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
+  await mockAccounts(page);
+  let hangCategories = true,
+    hangEntries = true,
+    hangPlayers = true;
+  const category = {
+    category: "scifi-5",
+    genres: ["Science-Fiction"],
+    difficulties: ["leicht"],
+    topic: "Alle Themen",
+    question_count: 5,
+    rule_version: "1",
+  };
+  await page.route("**/rest/v1/rpc/quiz_score_categories", (r) => {
+    if (!hangCategories) return r.fulfill({ json: [category] });
+  });
+  await page.route("**/rest/v1/rpc/quiz_rankings", (r) => {
+    if (!hangEntries) return r.fulfill({ json: [] });
+  });
+  await page.route("**/rest/v1/rpc/quiz_players", (r) => {
+    if (!hangPlayers) return r.fulfill({ json: [] });
+  });
+  await page.goto("/");
+  await login(page);
+  await page.getByRole("button", { name: "Highscores", exact: true }).click();
+  await expect(page.getByText("Ergebnisse werden geladen …")).toBeVisible();
+  await page.clock.runFor(10001);
+  await expect(
+    page.getByText(/Die gemeinsame Bestenliste ist gerade nicht erreichbar/),
+  ).toBeVisible();
+  hangCategories = false;
+  await page.getByRole("button", { name: "Bestenliste aktualisieren" }).click();
+  await expect(page.getByLabel("Gemeinsame Kategorie")).toBeVisible();
+  await page.clock.runFor(10001);
+  await expect(
+    page.getByText(/Die Ergebnisse konnten nicht geladen werden/),
+  ).toBeVisible();
+  hangEntries = false;
+  await page.getByRole("button", { name: "Bestenliste aktualisieren" }).click();
+  await expect(
+    page.getByText("Noch keine Rekordrunden in dieser Auswahl."),
+  ).toBeVisible();
+  await page
+    .getByRole("button", { name: "Spielerleistungen", exact: true })
+    .click();
+  await expect(page.getByText("Spielerwerte werden geladen …")).toBeVisible();
+  await page.clock.runFor(10001);
+  await expect(
+    page.getByText("Die Spielerrangliste ist gerade nicht erreichbar."),
+  ).toBeVisible();
+  hangPlayers = false;
+  await page
+    .getByRole("button", { name: "Spielerrangliste aktualisieren" })
+    .click();
+  await expect(
+    page.getByText("Noch keine Spieler mit passenden Ergebnissen."),
+  ).toBeVisible();
+  await expect(page.getByRole("checkbox", { name: /teilen/ })).toHaveCount(0);
 });

@@ -193,7 +193,6 @@ export function AccountApp() {
         client={connection.client}
         owner={user.id}
         storageKey={key}
-        name={String(user.user_metadata.display_name ?? "Spieler")}
         panel={(state, onState, syncStatus) => (
           <AccountPanel
             client={connection.client}
@@ -211,9 +210,6 @@ export function AccountApp() {
     <App
       key={key}
       storageKey={key}
-      accountName={
-        user ? String(user.user_metadata.display_name ?? "Spieler") : undefined
-      }
       accountPanel={(state, onState) => (
         <AccountPanel
           client={connection.client}
@@ -585,7 +581,9 @@ function AccountPanel({
         <strong>{String(user.user_metadata.display_name ?? "Spieler")}</strong>{" "}
         · {user.email}
       </p>
-      <p className="tiny muted">{syncStatus && syncText[syncStatus]}</p>
+      <p className="tiny muted profile-sync-status" role="status">
+        {syncStatus && syncText[syncStatus]}
+      </p>
       <ProfileStats state={state} />
       <p className="tiny muted">
         Dein Spielername und Deine Leistungswerte erscheinen automatisch in den
@@ -609,7 +607,7 @@ function AccountPanel({
         </button>
         <p>
           Dein Fortschritt wird automatisch gespeichert. Warte vor dem
-          Gerätewechsel auf „Spielstand online gespeichert“.
+          Gerätewechsel hier im Profil auf „Spielstand online gespeichert“.
         </p>
         <details>
           <summary>Vorhandenen Gastspielstand übernehmen</summary>

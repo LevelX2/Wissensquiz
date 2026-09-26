@@ -1,6 +1,6 @@
 # Genreillustrationen
 
-Erzeugt am 26.09.2026 mit dem eingebauten Bildgenerierungswerkzeug (`image_gen`), ohne externen API-Schlüssel. Sieben eigene PNG-Illustrationen unter `public/genres/`, echte RGBA-Transparenz. Die generierten Originale wurden unverändert übernommen. Kleine Auswahl-Icons bleiben die eigenen SVG-Symbole aus `src/Icons.tsx`; große Genrekarten verwenden diese Illustrationen. Ohne bekanntes Motiv bleibt das kontrastreiche SVG erhalten.
+Erzeugt am 26.09.2026 mit dem eingebauten Bildgenerierungswerkzeug (`image_gen`), ohne externen API-Schlüssel. Sieben eigene PNG-Illustrationen unter `public/genres/`, echte RGBA-Transparenz. Die generierten Originale wurden unverändert übernommen. Genrekarten, filmbezogene Sammlungskarten und kleine Genre-Auswahlfelder verwenden dieselben Illustrationen. Kleine Bilder werden mit 40 Pixeln angezeigt und aus denselben vorhandenen Dateien geladen; keine zusätzlichen Motive oder Downloads je Film. Filme mit Fragen aus mehreren Genres zeigen alle zugehörigen Motive. Ohne bekanntes Motiv bleibt das kontrastreiche SVG erhalten.
 
 ## Prompts
 

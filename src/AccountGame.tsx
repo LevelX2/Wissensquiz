@@ -35,13 +35,11 @@ export function AccountGame({
   client,
   owner,
   storageKey,
-  name,
   panel,
 }: {
   client: SupabaseClient;
   owner: string;
   storageKey: string;
-  name: string;
   panel: (
     state: State,
     onState: (state: State) => void,
@@ -220,13 +218,14 @@ export function AccountGame({
     );
   return (
     <RankingContext.Provider value={ranking}>
-      <p className="sync-status" role="status">
-        {syncText[status]}
-      </p>
+      {status === "offline" && (
+        <p className="sync-status" role="status">
+          {syncText[status]}
+        </p>
+      )}
       <App
         key={`${storageKey}:${generation}`}
         storageKey={storageKey}
-        accountName={name}
         onPersistedState={offer}
         accountPanel={(state, onState) => panel(state, onState, status)}
       />

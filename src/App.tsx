@@ -38,7 +38,7 @@ import {
   validateBackup,
 } from "./storage";
 import { useOffline } from "./offline";
-import { BadgeIcon, GenreIcon, genreIllustrations } from "./Icons";
+import { BadgeIcon, GenreArtwork } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
 import { answeredTopics } from "./collection";
@@ -82,8 +82,6 @@ const modeNames: Record<Mode, string> = {
   ueben: "Besser werden",
   rekord: "Rekordrunde",
 };
-const topicIcon = (topic: string) =>
-  topic.includes("Film") ? "◈" : topic.includes("All") ? "✧" : "◎";
 const formatDate = (at: number) =>
   new Date(at).toLocaleDateString("de-DE", { day: "numeric", month: "short" });
 function Planet({ small = false }: { small?: boolean }) {
@@ -115,6 +113,13 @@ function TopicCard({
   onFavorite?: () => void;
   genre?: boolean;
 }) {
+  const cardGenres = genre
+    ? [topic]
+    : [
+        ...new Set(
+          state.questions.filter((q) => q.topic === topic).map(genreOf),
+        ),
+      ].sort();
   const ids = [
     ...new Set(
       state.questions
@@ -130,22 +135,14 @@ function TopicCard({
   return (
     <article className="topic-card">
       <div className="topic-art">
-        <span>
-          {genre && genreIllustrations[topic] ? (
-            <img
-              className="genre-illustration"
-              src={genreIllustrations[topic]}
-              alt=""
-              width="160"
-              height="160"
-              loading="lazy"
-              decoding="async"
-            />
-          ) : genre ? (
-            <GenreIcon genre={topic} />
-          ) : (
-            topicIcon(topic)
-          )}
+        <span
+          className={cardGenres.length > 1 ? "topic-genres" : undefined}
+          role="img"
+          aria-label={cardGenres.map(genreLabel).join(" und ")}
+        >
+          {cardGenres.map((g) => (
+            <GenreArtwork key={g} genre={g} />
+          ))}
         </span>
         <div className="art-lines" />
         {onFavorite && (
@@ -190,12 +187,10 @@ function TopicCard({
 }
 export function App({
   storageKey = "current",
-  accountName,
   accountPanel,
   onPersistedState,
 }: {
   storageKey?: string;
-  accountName?: string;
   accountPanel?: (state: State, onState: (state: State) => void) => ReactNode;
   onPersistedState?: (state: State) => void;
 }) {
@@ -472,17 +467,13 @@ export function App({
         </div>
       </aside>
       <div className="workspace">
-        <header className="topbar">
-          <span>
-            {accountName ? `KONTO: ${accountName}` : "DEIN FILMKOSMOS"}
-          </span>
-
-          {!offline.online && (
+        {!offline.online && (
+          <header className="topbar">
             <span className="connection" role="status">
               Offline · lokal gespeichert
             </span>
-          )}
-        </header>
+          </header>
+        )}
         <main
           ref={heading}
           tabIndex={-1}
@@ -492,6 +483,13 @@ export function App({
             <div role="alert" className="notice error">
               {error}
             </div>
+          )}
+          {offline.waiting && page !== "round" && page !== "settings" && (
+            <p className="notice" role="status">
+              Eine neue Quiz-Version ist bereit. Schließe nach Deiner Runde alle
+              Quiz-Tabs und gegebenenfalls die installierte Quiz-App. Öffne sie
+              danach erneut. Dein Fortschritt bleibt erhalten.
+            </p>
           )}
           {page === "home" && (
             <>
@@ -596,7 +594,7 @@ export function App({
                               checked={filters.genres.includes(g)}
                               onChange={() => toggleGenre(g)}
                             />
-                            <GenreIcon genre={g} />
+                            <GenreArtwork genre={g} compact />
                             <span>{genreLabel(g)}</span>
                           </label>
                         ))}
@@ -609,6 +607,15 @@ export function App({
                         }}
                       >
                         Alle Genres auswählen
+                      </button>
+                      <button
+                        className="text-button"
+                        onClick={() => {
+                          setSelectedGenres([]);
+                          setTopic("Alle Themen");
+                        }}
+                      >
+                        Alle Genres abwählen
                       </button>
                     </fieldset>
                     <fieldset>

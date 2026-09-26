@@ -1,3 +1,4 @@
+import { rankingRequest } from "./rankingRequest";
 import { createContext, useContext, useEffect, useState } from "react";
 import type { SupabaseClient } from "@supabase/supabase-js";
 import { z } from "zod";
@@ -42,11 +43,16 @@ export function SharedLeaderboard() {
   const [error, setError] = useState("");
   useEffect(() => {
     let active = true;
+    const controller = new AbortController();
     if (!connection) return;
     setLoading(true);
     setError("");
     setEntries([]);
-    void Promise.resolve(connection.client.rpc("quiz_score_categories"))
+    void rankingRequest(
+      (signal) =>
+        connection.client.rpc("quiz_score_categories").abortSignal(signal),
+      controller,
+    )
       .then(({ data, error }) => {
         if (!active) return;
         if (error) throw error;
@@ -70,19 +76,25 @@ export function SharedLeaderboard() {
       });
     return () => {
       active = false;
+      controller.abort();
     };
   }, [connection, refresh]);
   useEffect(() => {
     let active = true;
+    const controller = new AbortController();
     if (!connection || !category) return;
     setLoading(true);
     setError("");
     setEntries([]);
-    void Promise.resolve(
-      connection.client.rpc("quiz_rankings", {
-        selected_category: category,
-        page_offset: offset,
-      }),
+    void rankingRequest(
+      (signal) =>
+        connection.client
+          .rpc("quiz_rankings", {
+            selected_category: category,
+            page_offset: offset,
+          })
+          .abortSignal(signal),
+      controller,
     )
       .then(({ data, error }) => {
         if (!active) return;
@@ -100,6 +112,7 @@ export function SharedLeaderboard() {
       });
     return () => {
       active = false;
+      controller.abort();
     };
   }, [connection, category, offset, refresh]);
   if (!connection)

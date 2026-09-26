@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 87 Logik-/Persistenz-/Datenbanktests und 48 Browserprüfungen im vollständigen Lauf erfolgreich. Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 87 Logik-/Persistenz-/Datenbanktests und 50 Browserprüfungen im vollständigen Lauf erfolgreich. Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -174,3 +174,13 @@ Auf Nutzerwunsch Entdecken auf tatsächlich unbearbeitete Wissensziele ausgerich
 Nach einer Antwort sind alle vier Möglichkeiten aufklappbar; gewählte/richtige Antwort, Erklärung und Merksatz bleiben sichtbar. Auf Handybreite ersetzt eine feste untere Weiter-/Geraten-Leiste die Hauptnavigation während der Runde; Pause bleibt oben. Sicherheitsabstand am iPhone berücksichtigt. Lange Inhalte dürfen weiter scrollen, Weiter bleibt erreichbar.
 
 87 Logik-/Datenbanktests, Build und alle 48 Browserprüfungen (46 Chromium, zwei WebKit mit iPhone-Profil) im abschließenden Gesamtlauf erfolgreich. Sechs Auswahlfälle prüfen neue Ziele, drei direkte Sci-Fi-Runden ohne Wiederholung, Drei-Runden-Rückstellung mit kleinem Restbestand, echte Mittel-/Schwer-Einführung, Filter, historische Runden und unveränderte Wiederholungs-/Rekordmodi. Browsernachweis bei 390×664 und 320×568: richtige/falsche Antwort, Geraten, aufklappbare Antworten/Vertiefung, sichtbare und unverdeckte Weiter-Aktion ohne automatisches Scrollen durch den Klick sowie Rundenabschluss. Axe und gerenderte mobile Screenshots geprüft. Zwei ältere Tests zunächst an die neue Position der Weiter-Aktion bzw. den mobilen Pause-Zugang angepasst; finaler Gesamtlauf erfolgreich. Keine Änderungen an Roh-CSV, Speicherformat, Authentifizierung oder Datenbank. WebKit-Test ersetzt keine physische iPhone-Abnahme. Bekannte Bündelgrößenwarnung unverändert.
+
+## 26.09.2026 — Kompakter Kopf, Genre-Bilder und robuste Ranglisten
+
+Kontoname und normale Online-Speicherbestätigung stehen nur noch im Profil; online bleibt kein leerer Kopfbereich. Offline-Sicherung und Konflikte bleiben sichtbar. Genreauswahl bietet „Alle Genres abwählen“ und die vorhandenen PNG-Illustrationen in kleiner Größe. Filmkarten verwenden passende Genre-Bilder, bei mehreren Genres mehrere Motive. Wartende Updates werden außerhalb aktiver Runden sichtbar angekündigt, ohne eine Runde zwangsweise neu zu laden.
+
+Ranglistenanfragen enden spätestens nach zehn Sekunden mit dem vorhandenen Fehlerhinweis und Wiederholungsmöglichkeit. Geprüft für Kategorien, Rekordwerte und Spielerleistungen, einschließlich erfolgreichem Wiederholen. Die alte Oberfläche mit freiwilliger Freigabe gehörte zu einer überholten Offline-Version; der Nutzer bestätigte inzwischen die aktuelle Version. Keine Datenbankänderung.
+
+Final vollständig erfolgreich: 87 Logik-/Persistenz-/Datenbanktests, Produktions-Build, 50 Browserprüfungen (48 Chromium, zwei WebKit mit iPhone-Profil). Neue Prüfung bei 320 × 740 px: alle Genres abwählen, Start gesperrt bei leerer Auswahl, einzelnes Genre und alle Genres erneut wählen; PNG-Bilder geladen, Filmkarte mit Genre-Bild, kein horizontaler Überlauf und Axe ohne Befund. Gerenderte Auswahl und Sammlung visuell geprüft. Profilstatus, globaler Offlinehinweis, Wiederaufnahme und sicheres Updateverhalten ebenfalls geprüft. Ein erster Test deckte eine fehlende Zeitbegrenzung bei Spielerleistungen auf; korrigiert. Ein vorübergehender Chromium-Ressourcenfehler trat im abschließenden vollständigen Lauf nicht mehr auf.
+
+Roh-CSV, Genre-Assets und Supabase-Migrationen unverändert. Importbericht-Zeitstempel nach Inhaltsvergleich zurückgesetzt. Tests ausschließlich mit isolierten Daten; keine echten Spielstände verändert. Physisches iPhone und echte angemeldete Live-Ranglisten nicht zusätzlich geprüft.

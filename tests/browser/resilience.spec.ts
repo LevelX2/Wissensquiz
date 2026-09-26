@@ -32,6 +32,13 @@ test("Ein vorbereitetes Update unterbricht keine laufende Runde", async ({
   await expect(page.locator(".question-card h1")).toHaveText(question);
   await page.locator(".answer").first().click();
   await expect(page.locator(".feedback")).toBeVisible();
+  await expect(page.getByText(/Eine neue Quiz-Version ist bereit/)).toHaveCount(
+    0,
+  );
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await expect(
+    page.getByText(/Eine neue Quiz-Version ist bereit/),
+  ).toBeVisible();
 });
 test("Tastatur, sichtbarer Fokus und automatisierte Barrierearmutsprüfung", async ({
   page,
