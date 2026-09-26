@@ -61,3 +61,9 @@ Geprüfte Zusatzangaben können getrennt vom Import in der Erklärung erscheinen
 `Komoedie_Quiz_180_Fragen.csv` und `Western_Quiz_180_Fragen.csv` haben ebenfalls 31 Spalten. Alle jeweils 180 Datensätze mit dem App-Parser gegen sämtliche Vorgängerpakete geprüft: je 150 Wissensziele, 30 Varianten und 25 Themen. Keine Ausschlüsse, Warnungen oder ID-Konflikte. Gesamtbestand 1.080 Fragen, 900 Wissensziele, 180 Varianten und 138 Themen. Rohquellen und öffentliche Kopien bytegleich zu den gelieferten Dateien; vorhandene Rohquellen unverändert.
 
 Beide Genres werden automatisch ergänzt, sind kombinierbar und Teil des Offline-Pakets. Prüfung der transaktionalen Ergänzung umfasst ältere Stände mit einem bis fünf Paketen. Berichte: [Komödie](importbericht-komoedie.json), [Western](importbericht-western.json). Inhalte einschließlich bereits enthaltener Darstellernamen stammen aus den neuen Nutzerdateien; keine unabhängige fachliche oder vollständige redaktionelle Darstellerprüfung dieser 360 Fragen.
+
+## Drama (26.09.2026)
+
+`Drama_Quiz_180_Fragen.csv`: 31 Spalten, 180 akzeptierte Fragen, 150 Wissensziele, 30 Varianten und 25 Themen. App-Parser gegen alle sechs bestehenden Pakete ausgeführt: keine Ausschlüsse, Warnungen oder ID-Konflikte. Gesamtbestand 1.260 Fragen, 1.050 Wissensziele, 210 Varianten und 163 Themen. Gelieferte Datei, Rohquelle, öffentliche Kopie und Build-Kopie bytegleich (SHA-256 `62262f8338959dc79b9714c7bc9480005ae56de4ee21f780813c1150d599fc4f`).
+
+Automatische Ergänzung bestehender Gast-/Kontostände, Genre-Symbol Theatermaske, Lernpfad und Offline-Paket eingebunden. App-Inhalte stammen unverändert aus der Quelle; keine unabhängige Prüfung ihrer Filmaussagen. [Drama-Importbericht](importbericht-drama.json).

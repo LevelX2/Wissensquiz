@@ -7,7 +7,7 @@
 - Genre und Schwierigkeit jeder Frage sichtbar, unabhängig abschaltbar und gespeichert. Die bisherigen 720 Vertiefungen auf Darstellernamen geprüft; 627 Ergänzungen zu 125 Filmen, mit Quellen und versionsgenauer Zuordnung. Rohfragen und Spielstände erhalten.
 - Persönliche Bestenliste aller abgeschlossenen Rekordspiele, filterbar nach Genre-Kombination, Stufen und Rundengröße; vergleichbare Kategorien getrennt, Spiele mit Rückblick. Persönliche Liste offline; freiwillige gemeinsame Trainingsrangliste für bestätigte Konten implementiert. Profil mit Spiel-/Antwortstatistik, Trefferquote, Level und XP.
 - Kurze abschaltbare Soundeffekte, optionale Vibration, Genre-Icons und deutlicher gesperrter/erworbener Zustand des vorhandenen Sci-Fi-Abzeichens. Weitere Genre-Abzeichen noch offen.
-- 1.080 gelieferte Fragen aus Sci-Fi, Action, Horror, Fantasy, Komödie und Western, 900 Wissensziele und 180 Varianten; 138 Themen. Sämtliche Datensätze strukturell akzeptiert.
+- 1.260 gelieferte Fragen aus Sci-Fi, Action, Horror, Fantasy, Komödie, Western und Drama, 1.050 Wissensziele und 210 Varianten; 163 Themen. Sämtliche Datensätze strukturell akzeptiert.
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
 - Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
 - Lokales Git ohne Remote; Integrationsbranch `main`.
@@ -40,3 +40,5 @@ Spielstände liegen im Browser, nicht im Repository. JSON-Exporte über Einstell
 Veröffentlicht als Sites-Version 11, App-Commit `cb41de1`, Status `succeeded`; bestehende öffentliche URL unverändert. Teilnahme an gemeinsamen Listen im Konto über „Meine Ergebnisse und Spielerstatistik teilen“ einschalten.
 
 73 Logik-/Datenbanktests, Produktions-Build und 33 Chromium-Prüfungen im Gesamtlauf erfolgreich. Mobile Navigation anschließend auf eine Zeile verkürzt und gezielt nachgeprüft. Migration für freiwillig geteilte Rekordergebnisse im bestehenden Supabase-Projekt angewandt; RLS und Ausführungsrechte im echten Dienst geprüft. Veröffentlichungsnachweis unter docs/Sites-Betrieb.md. Optionaler Lernpfad auf Nutzerentscheidung umgesetzt: 20 unterschiedliche sichere leichte Ziele öffnen Mittel je Genre; zusätzlich 20 mittlere öffnen Schwer. Historische abgeschlossene Runden zählen; freies Spiel bleibt offen. Helle, kompaktere Spielansicht mit zentralen Optionen. Zusätzliche Spielerranglisten für Rundenzahl, richtige Antworten und Trefferquote ab 50 Antworten, nach Genre und Stufe filterbar; zweite Datenbankergänzung erfolgreich eingerichtet.
+
+Drama ergänzt: unveränderte Rohquelle, 180 Fragen vollständig angenommen, automatischer erhaltender Paketimport und Offline-Cache. 75 Logik-/Datenbanktests, Build und 35 Browserprüfungen erfolgreich. Keine unabhängige Faktenprüfung der neuen Fragen. Aktueller Veröffentlichungsnachweis unter docs/Sites-Betrieb.md.

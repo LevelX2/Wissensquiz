@@ -23,11 +23,11 @@ npm run preview
 
 ## Spielen
 
-- **Filmgenres kombinieren:** Sci-Fi, Action, Horror, Fantasy, Komödie und Western können gemeinsam oder einzeln ausgewählt werden. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen sind eine optionale, aufklappbare Verfeinerung.
+- **Filmgenres kombinieren:** Sci-Fi, Action, Horror, Fantasy, Komödie, Western und Drama können gemeinsam oder einzeln ausgewählt werden. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen sind eine optionale, aufklappbare Verfeinerung.
 - **Schwierigkeitsstufen kombinieren:** zum Beispiel Leicht + Mittel. Eine leere Genre- oder Stufenauswahl startet keine Runde. Die Auswahl bleibt im Rundensnapshot, in Sicherungen und in getrennten Rekordkategorien erhalten; alte Runden bleiben lesbar. Optionaler Lernpfad: je Genre öffnen 20 sichere leichte Wissensziele Mittel, weitere 20 mittlere Schwer. Nur abgeschlossene Runden zählen, historische Fortschritte eingeschlossen; Wiederholungen und geratene Treffer zählen nicht zusätzlich. Freies Spiel behält alle Stufen.
 - Jede Frage zeigt ihr Genre und ihre Schwierigkeit, auch nach der Antwort. Unter Einstellungen & Daten → Hinweise an der Frage sind beide Angaben unabhängig abschaltbar; die Auswahl bleibt gespeichert.
 - **Ton & Vibration:** kurze Soundeffekte für Start, Antworten, nächste Frage, Zeitablauf und Abschluss. Ton, optionale Vibration und ein Probesignal gesammelt unter Optionen → Ton & Vibration. Kein Ton beim bloßen Seitenladen. Einstellungen bleiben lokal erhalten, Signale funktionieren auch offline.
-- Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action), Geist (Horror) und Zauberstab (Fantasy), lächelndes Gesicht (Komödie) und Cowboyhut (Western). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.
+- Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action), Geist (Horror) und Zauberstab (Fantasy), lächelndes Gesicht (Komödie) Cowboyhut (Western) und Theatermaske (Drama). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.
 
 - Erste Runde standardmäßig fünf, weitere zehn unterschiedliche Wissensziele; kleinere Bestände verkürzen die Runde transparent.
 - **Entdecken:** neue/wenig bekannte Ziele, fällige Wiederholungen und sichere Inhalte.
@@ -50,6 +50,8 @@ Neu enthalten: **Horror_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 15
 Zusätzlich enthalten: **Fantasy_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 12 Themen**, darunter Der Herr der Ringe, Harry Potter und Die Chroniken von Narnia. Keine Ausschlüsse, Warnungen oder ID-Konflikte. Mit Fantasy umfasst der Bestand **720 Fragen, 600 Wissensziele und 88 Themen**. Fantasy ist als eigenes Genre mit anderen Genres kombinierbar und offline verfügbar. Bestehende Fragen, Runden, Lernstände und Einstellungen bleiben erhalten. [Fantasy-Importbericht](docs/importbericht-fantasy.json).
 
 Neu hinzugekommen sind **Komoedie_Quiz_180_Fragen.csv** und **Western_Quiz_180_Fragen.csv**, jeweils mit 180 Fragen, 150 Wissenszielen, 30 Varianten und 25 Themen. Beide Quellen sind unverändert; alle Datensätze strukturell akzeptiert, ohne Warnungen oder ID-Konflikte. Gesamtbestand: **1.080 Fragen, 900 Wissensziele, 180 Varianten und 138 Themen**. Automatische Ergänzung bestehender Stände und Offline-Cache sind eingebunden. Die redaktionelle Darstellerprüfung der bisherigen 720 Fragen wird dadurch nicht auf die neuen 360 Fragen ausgeweitet. [Komödie-Bericht](docs/importbericht-komoedie.json), [Western-Bericht](docs/importbericht-western.json).
+
+Neu enthalten: **Drama_Quiz_180_Fragen.csv** mit 180 Fragen, 150 Wissenszielen, 30 Varianten und 25 Themen. Vollständig ohne Warnungen oder ID-Konflikte importiert; Rohquelle unverändert. Aktueller Gesamtbestand: **1.260 Fragen, 1.050 Wissensziele, 210 Varianten und 163 Themen**. Drama erscheint in Genreauswahl, Lernpfad und Spielerlisten und ist offline verfügbar. Bestehende Spielstände werden automatisch um das Paket ergänzt. [Drama-Bericht](docs/importbericht-drama.json). Keine unabhängige fachliche Prüfung der neuen Inhalte.
 
 `verification_status=redaktionell_geprueft` ist eine Angabe der gelieferten Datei. Eine unabhängige Prüfung aller Filmaussagen oder verlinkten Seiten wurde nicht durchgeführt. Darstellerergänzungen werden getrennt von den Rohfragen gepflegt; Fehlererklärungen bleiben unverändert.
 
@@ -92,6 +94,7 @@ Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach b
 | `public/horror-fragen.csv` | Unverändertes Horror-Paket, ebenfalls automatisch ergänzt und offline verfügbar |
 | `public/fantasy-fragen.csv` | Unverändertes Fantasy-Paket, automatisch ergänzt und offline verfügbar |
 | `public/komoedie-fragen.csv`, `public/western-fragen.csv` | Unveränderte Zusatzpakete, automatisch ergänzt und offline verfügbar |
+| `public/drama-fragen.csv` | Unverändertes Drama-Paket mit automatischer Ergänzung und Offline-Unterstützung |
 | `tests/` | Logik-, Persistenz- und Browserprüfungen |
 
 ## Prüfen

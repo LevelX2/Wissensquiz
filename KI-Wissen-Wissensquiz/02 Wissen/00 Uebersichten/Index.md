@@ -30,3 +30,6 @@
 - [Komödie-Importbericht](../../../docs/importbericht-komoedie.json)
 - [Western-Rohquelle](../../01%20Rohquellen/Western_Quiz_180_Fragen.csv)
 - [Western-Importbericht](../../../docs/importbericht-western.json)
+
+- [Drama-Rohquelle](../../01%20Rohquellen/Drama_Quiz_180_Fragen.csv)
+- [Drama-Importbericht](../../../docs/importbericht-drama.json)
