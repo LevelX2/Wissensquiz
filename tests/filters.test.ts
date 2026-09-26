@@ -16,6 +16,17 @@ const filters = {
 };
 const options = { topic: "Alle Themen", difficulty: "Alle Stufen", filters };
 
+it("erhält Ton-/Vibrationseinstellungen und liest Sicherungen ohne diese Felder", () => {
+  const state = emptyState(questions);
+  state.settings.sound = false;
+  state.settings.haptics = true;
+  expect(validateBackup(JSON.parse(JSON.stringify(state))).settings).toEqual(
+    state.settings,
+  );
+  state.settings = { spoilers: false };
+  expect(validateBackup(state).settings).toEqual({ spoilers: false });
+});
+
 it.each<Mode>(["entdecken", "ueben", "rekord"])(
   "begrenzt %s auf die gewählten Genres und Stufen",
   (mode) => {

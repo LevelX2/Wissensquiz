@@ -1,0 +1,92 @@
+export function GenreIcon({ genre }: { genre: string }) {
+  const shape =
+    genre === "Science-Fiction" ? (
+      <>
+        <path d="M9 15c0-7 4-11 11-11 0 7-4 11-11 11Z" />
+        <circle cx="15" cy="9" r="2" />
+        <path d="m9 8-5 2-1 5 6-1m7-3 1 6-5 4-1-6M7 17l-3 3m2-6-3 3" />
+      </>
+    ) : genre === "Action" ? (
+      <path d="m14 2-9 12h6l-1 8 9-12h-6z" />
+    ) : genre === "Horror" ? (
+      <>
+        <path d="M5 21V9a7 7 0 0 1 14 0v12l-4-3-3 3-3-3Z" />
+        <circle cx="9" cy="10" r="1" />
+        <circle cx="15" cy="10" r="1" />
+        <path d="M10 14h4" />
+      </>
+    ) : genre === "Fantasy" ? (
+      <>
+        <path d="m4 20 12-12m-2-4 2 4 4 2-4 2-2 4-2-4-4-2 4-2Zm-9-2v4m-2-2h4m13 12v4m-2-2h4" />
+      </>
+    ) : (
+      <>
+        <rect x="3" y="3" width="18" height="18" rx="3" />
+        <path d="M7 3v18M17 3v18M3 8h4m10 0h4M3 16h4m10 0h4" />
+      </>
+    );
+  return (
+    <svg
+      className="genre-icon"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.6"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+      focusable="false"
+    >
+      {shape}
+    </svg>
+  );
+}
+export function BadgeIcon({ earned }: { earned: boolean }) {
+  return (
+    <svg
+      className="badge-icon"
+      viewBox="0 0 64 72"
+      fill="none"
+      aria-hidden="true"
+      focusable="false"
+    >
+      <path
+        d="m18 43-4 25 14-8 4 8 4-8 14 8-4-25"
+        stroke="currentColor"
+        strokeWidth="3"
+      />
+      <circle
+        cx="32"
+        cy="28"
+        r="24"
+        fill="currentColor"
+        fillOpacity={earned ? ".18" : ".04"}
+        stroke="currentColor"
+        strokeWidth="3"
+      />
+      {earned ? (
+        <path
+          d="m32 12 4 10 11 1-8 7 3 11-10-6-10 6 3-11-8-7 11-1Z"
+          fill="currentColor"
+        />
+      ) : (
+        <>
+          <rect
+            x="23"
+            y="25"
+            width="18"
+            height="15"
+            rx="3"
+            stroke="currentColor"
+            strokeWidth="2"
+          />
+          <path
+            d="M27 25v-5a5 5 0 0 1 10 0v5m-5 6v3"
+            stroke="currentColor"
+            strokeWidth="2"
+          />
+        </>
+      )}
+    </svg>
+  );
+}

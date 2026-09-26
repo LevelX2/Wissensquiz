@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, nach Genre-/Stufenmehrfachauswahl 42 Logik-/Persistenztests und 12 Browserprüfungen erfolgreich. Letzter `npm audit`: 0 bekannte Schwachstellen; bei Horror-Ergänzung und Mehrfachauswahl keine Abhängigkeiten geändert und Audit nicht erneut ausgeführt. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 43 Logik-/Persistenztests und 15 Browserprüfungen erfolgreich. Letzter `npm audit`: 0 bekannte Schwachstellen; bei Horror-Ergänzung, Mehrfachauswahl und Feedback keine Abhängigkeiten geändert und Audit nicht erneut ausgeführt. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -66,3 +66,9 @@ Auf ausdrücklichen Auftrag am 26.09.2026 den unveränderten geprüften Anwendun
 42 Logik-/Persistenztests und zwölf Browserprüfungen bestanden. In allen drei Modi Auswahl auf Horror + Sci-Fi und Leicht + Mittel begrenzt, Wissensziele eindeutig, leere Auswahl ohne Rundenerzeugung, zukünftiges Genre Fantasy aus Metadaten erkennbar, optionale Filmreihe weiter einschränkend. Rekordschlüssel unabhängig von Klickreihenfolge, getrennte Kombinationen und unveränderte historische Schlüssel geprüft. Sicherungen erhalten neue Filter und alte Runden ohne Filter; widersprüchliche Filter/Snapshots werden abgelehnt.
 
 Im isolierten Chromium-Profil bei kontrollierter Zeit die Checkboxen kombiniert, leere Genre-/Stufenauswahl geprüft, eine passende Runde beantwortet und nach Neuladen unverändert fortgesetzt. Mobile Ansicht bei 320 Pixeln ohne horizontalen Überlauf; tatsächlich gerenderten Screenshot der Auswahl angesehen. Export/Import, Offline-Neuladen, Browserneustart und automatische Barrierearmutsprüfung weiterhin erfolgreich. Keine echten Nutzerstände verwendet oder hochgeladen. Konten/Datenbank/Bestenliste bisher nur Entwurf.
+
+## Sound, Vibration und Icons
+
+43 Logik-/Persistenztests einschließlich alter/neuer Sicherungseinstellungen erfolgreich. 15 Browserprüfungen erfolgreich: 14 im Gesamtlauf, Soundprüfung nach Korrektur der Wartebedingung für das asynchrone Speichern gezielt erneut bestanden. Web-Audio-Oszillatorerzeugung im echten Browser beobachtet: keine Töne beim Laden, Signale nach Nutzeraktion und bei Antwortfeedback, kein Ton nach gespeichertem Stummschalten und Reload. Vibrationsaufrufe im Test abgefangen und Muster überprüft; fehlende Audio-/Vibrations-APIs verhindern keine Runde. Keine physische Hör- oder Vibrationsprüfung behauptet.
+
+Abgeschlossene Rekordrunde mit mehreren Genres/Stufen und anschließende Sammlung ohne JavaScript-Fehler geprüft; dabei den alten Positionsparser für Rekordschlüssel durch die lesbare Rundenzuordnung ersetzt. Genre-SVGs und gesperrte Abzeichenmedaille anhand gerenderter Screenshots kontrolliert. Bestehende Regeln für das einzige Sci-Fi-Abzeichen unverändert; weitere Genre-Abzeichen nicht umgesetzt.

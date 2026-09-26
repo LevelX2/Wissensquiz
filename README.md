@@ -25,6 +25,8 @@ npm run preview
 
 - **Filmgenres kombinieren:** Sci-Fi, Action und Horror können gemeinsam oder einzeln ausgewählt werden. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen sind eine optionale, aufklappbare Verfeinerung.
 - **Schwierigkeitsstufen kombinieren:** zum Beispiel Leicht + Mittel. Eine leere Genre- oder Stufenauswahl startet keine Runde. Die Auswahl bleibt im Rundensnapshot, in Sicherungen und in getrennten Rekordkategorien erhalten; alte Runden bleiben lesbar.
+- **Ton & Vibration:** kurze Soundeffekte für Start, Antworten, nächste Frage, Zeitablauf und Abschluss. Ton oben jederzeit umschaltbar; optionale Vibration und ein Probesignal unter Einstellungen & Daten. Kein Ton beim bloßen Seitenladen. Einstellungen bleiben lokal erhalten, Signale funktionieren auch offline.
+- Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action) und Geist (Horror). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.
 
 - Erste Runde standardmäßig fünf, weitere zehn unterschiedliche Wissensziele; kleinere Bestände verkürzen die Runde transparent.
 - **Entdecken:** neue/wenig bekannte Ziele, fällige Wiederholungen und sichere Inhalte.

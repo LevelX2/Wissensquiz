@@ -163,6 +163,141 @@ for (const oldPackageCount of [1, 2]) {
     ).toBeVisible();
   });
 }
+
+test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfeedback", async ({
+  page,
+}) => {
+  await page.addInitScript(() => {
+    const counters = { tones: 0, vibrations: [] as (number | number[])[] };
+    Object.assign(window, { feedbackTest: counters });
+    const create = AudioContext.prototype.createOscillator;
+    AudioContext.prototype.createOscillator = function () {
+      counters.tones++;
+      return create.call(this);
+    };
+    Object.defineProperty(navigator, "vibrate", {
+      configurable: true,
+      value: (pattern: number | number[]) => {
+        counters.vibrations.push(pattern);
+        return true;
+      },
+    });
+  });
+  const counters = () =>
+    page.evaluate(
+      () =>
+        (
+          window as unknown as {
+            feedbackTest: { tones: number; vibrations: (number | number[])[] };
+          }
+        ).feedbackTest,
+    );
+  await launch(page);
+  expect((await counters()).tones).toBe(0);
+  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+  await page.getByLabel("Vibration", { exact: true }).click();
+  await expect(page.getByLabel("Vibration", { exact: true })).toBeChecked();
+  expect((await counters()).vibrations).toContain(10);
+  await page.getByRole("button", { name: "Signal ausprobieren" }).click();
+  await expect.poll(async () => (await counters()).tones).toBeGreaterThan(0);
+  await page.getByLabel("Soundeffekte", { exact: true }).click();
+  await expect(
+    page.getByLabel("Soundeffekte", { exact: true }),
+  ).not.toBeChecked();
+  await page.reload();
+  await expect(
+    page.getByRole("button", { name: "Ton aus", exact: true }),
+  ).toBeVisible();
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await answerCurrent(page);
+  expect((await counters()).tones).toBe(0);
+  expect((await counters()).vibrations).toContainEqual([20, 40, 25]);
+  await page.getByRole("button", { name: "Ton aus", exact: true }).click();
+  await expect.poll(async () => (await counters()).tones).toBeGreaterThan(0);
+  await page.getByRole("button", { name: "Nächste Frage" }).click();
+  const before = (await counters()).tones;
+  await answerCurrent(page, false);
+  expect((await counters()).tones).toBe(before + 2);
+  expect((await counters()).vibrations).toContain(45);
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+  await page.getByLabel("Vibration", { exact: true }).click();
+  await expect(page.getByLabel("Vibration", { exact: true })).not.toBeChecked();
+  await page.getByLabel("Soundeffekte", { exact: true }).click();
+  await expect(
+    page.getByLabel("Soundeffekte", { exact: true }),
+  ).not.toBeChecked();
+  await expect(
+    page.getByRole("button", { name: "Signal ausprobieren" }),
+  ).toBeDisabled();
+});
+
+test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehler", async ({
+  page,
+}) => {
+  const errors: string[] = [];
+  page.on("pageerror", (e) => errors.push(e.message));
+  await launch(page);
+  await page
+    .getByRole("group", { name: "Filmgenres", exact: true })
+    .getByLabel("Action", { exact: true })
+    .uncheck();
+  await page
+    .getByRole("group", { name: "Schwierigkeitsstufen", exact: true })
+    .getByLabel("Schwer", { exact: true })
+    .uncheck();
+  await page.getByRole("button", { name: "Rekordrunde", exact: false }).click();
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  for (let i = 0; i < 5; i++) {
+    await answerCurrent(page);
+    await page
+      .getByRole("button", {
+        name: i === 4 ? "Runde abschließen" : "Nächste Frage",
+      })
+      .click();
+  }
+  await page
+    .getByRole("button", { name: "Meine Sammlung", exact: true })
+    .click();
+  await expect(page.locator(".record-row")).toContainText(
+    "Horror + Sci-Fi · Leicht + Mittel · 5 Fragen",
+  );
+  await expect(page.locator(".badge-art.locked svg")).toBeVisible();
+  await page
+    .locator(".badge-panel")
+    .screenshot({ path: "test-results/badge-locked.png" });
+  expect(errors).toEqual([]);
+});
+
+test("Fehlende Audio- und Vibrationsschnittstellen verhindern keine Spielrunde", async ({
+  page,
+}) => {
+  await page.addInitScript(() => {
+    Object.defineProperty(window, "AudioContext", {
+      value: undefined,
+      configurable: true,
+    });
+    Object.defineProperty(window, "webkitAudioContext", {
+      value: undefined,
+      configurable: true,
+    });
+    Object.defineProperty(navigator, "vibrate", {
+      value: undefined,
+      configurable: true,
+    });
+  });
+  await launch(page);
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await answerCurrent(page);
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+  await expect(page.getByLabel("Vibration", { exact: true })).toBeDisabled();
+  await expect(
+    page.getByText("Dieser Browser bietet keine Vibration an.", {
+      exact: false,
+    }),
+  ).toBeVisible();
+});
 test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async ({
   page,
 }) => {

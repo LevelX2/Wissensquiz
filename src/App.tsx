@@ -32,6 +32,13 @@ import {
 } from "./filters";
 import { download, read, restore, update, validateBackup } from "./storage";
 import { useOffline } from "./offline";
+import { BadgeIcon, GenreIcon } from "./Icons";
+import {
+  playFeedback,
+  stopFeedback,
+  supportsHaptics,
+  unlockSound,
+} from "./feedback";
 import {
   addPackages,
   hasPackage,
@@ -94,7 +101,7 @@ function TopicCard({
   return (
     <article className="topic-card">
       <div className="topic-art">
-        <span>{topicIcon(topic)}</span>
+        <span>{genre ? <GenreIcon genre={topic} /> : topicIcon(topic)}</span>
         <div className="art-lines" />
         {onFavorite && (
           <button
@@ -285,6 +292,7 @@ export function App() {
     () => 0.5,
   );
   const begin = async () => {
+    unlockSound(state.settings);
     let id = "";
     const next = await mutate((s) => {
       s.settings.spoilers = true;
@@ -296,6 +304,7 @@ export function App() {
       }).id;
     });
     if (next) {
+      playFeedback("start", next.settings);
       setRoundId(id);
       setIndex(0);
       setPage("round");
@@ -303,6 +312,7 @@ export function App() {
   };
   const resume = () => {
     if (active) {
+      unlockSound(state.settings);
       setRoundId(active.id);
       setIndex(Math.max(0, active.events.length - 1));
       setPage("round");
@@ -386,7 +396,23 @@ export function App() {
       </aside>
       <div className="workspace">
         <header className="topbar">
-          <span>FILM / SCIENCE-FICTION</span>
+          <span>DEIN FILMKOSMOS</span>
+          <button
+            className="sound-toggle"
+            aria-pressed={state.settings.sound !== false}
+            disabled={busy}
+            onClick={async () => {
+              const enabled = state.settings.sound === false;
+              if (enabled) unlockSound({ ...state.settings, sound: true });
+              else stopFeedback();
+              const saved = await mutate((s) => {
+                s.settings.sound = enabled;
+              });
+              if (saved && enabled) playFeedback("next", saved.settings);
+            }}
+          >
+            {state.settings.sound !== false ? "Ton an" : "Ton aus"}
+          </button>
           <div className="connection">
             <i className={offline.online ? "online" : ""} />
             {offline.online ? "Online" : "Offline"}
@@ -488,6 +514,7 @@ export function App() {
                               checked={filters.genres.includes(g)}
                               onChange={() => toggleGenre(g)}
                             />
+                            <GenreIcon genre={g} />
                             <span>{genreLabel(g)}</span>
                           </label>
                         ))}
@@ -748,7 +775,11 @@ export function App() {
               ).size >= 10 ||
                 state.badges.length > 0) && (
                 <section className="badge-panel">
-                  <span className="badge-art">✺</span>
+                  <span
+                    className={`badge-art ${state.badges.includes("sci-fi-10-v1") ? "earned" : "locked"}`}
+                  >
+                    <BadgeIcon earned={state.badges.includes("sci-fi-10-v1")} />
+                  </span>
                   <div>
                     <span className="eyebrow">
                       {state.badges.length
@@ -780,6 +811,10 @@ export function App() {
                       Begrenzte Auszeichnung für diesen Bestand, kein
                       umfassender Expertentitel.
                     </small>
+                    <p className="muted tiny">
+                      Bisher gibt es dieses eine Wissensabzeichen. Für Action
+                      und Horror sind noch keine eigenen Abzeichen umgesetzt.
+                    </p>
                   </div>
                 </section>
               )}
@@ -834,11 +869,17 @@ export function App() {
                   </p>
                   <div className="history">
                     {Object.entries(state.records).map(([key, value]) => {
-                      const [t, d, n, v] = JSON.parse(key);
+                      const recordRound = state.rounds.find(
+                        (r) => r.id === value.roundId,
+                      );
+                      if (!recordRound) return null;
                       return (
                         <div className="record-row" key={key}>
                           <span>
-                            {t} · {d} · {n} Fragen · Regel {v}
+                            {roundGenres(recordRound)} ·{" "}
+                            {roundDifficulties(recordRound)} ·{" "}
+                            {recordRound.questions.length} Fragen · Regel{" "}
+                            {recordRound.ruleVersion}
                           </span>
                           <b>{value.points} Punkte</b>
                         </div>
@@ -859,10 +900,22 @@ export function App() {
               busy={busy}
               onExit={() => void nav("home")}
               onNext={async () => {
+                unlockSound(state.settings);
                 if (index === current.questions.length - 1) {
                   const next = await mutate((s) => complete(s, current.id));
-                  if (next) setPage("result");
-                } else setIndex(index + 1);
+                  if (next) {
+                    playFeedback(
+                      next.badges.length > state.badges.length
+                        ? "badge"
+                        : "complete",
+                      next.settings,
+                    );
+                    setPage("result");
+                  }
+                } else {
+                  playFeedback("next", state.settings);
+                  setIndex(index + 1);
+                }
               }}
             />
           )}
@@ -971,9 +1024,24 @@ function QuestionScreen({
   const choose = async (id: string | null) => {
     if (locked.current || event || !ready || round.status !== "active") return;
     locked.current = true;
+    if (id !== null) unlockSound(state.settings);
     const ms = start.current ? elapsed(start.current) : 0;
     const result = await mutate((s) => answer(s, round.id, q.id, id, ms));
     if (!result) locked.current = false;
+    else {
+      const saved = result.events.find(
+        (e) => e.id === `${round.id}:${q.knowledgeId}`,
+      );
+      if (saved)
+        playFeedback(
+          saved.answerId === null
+            ? "timeout"
+            : saved.correct
+              ? "correct"
+              : "wrong",
+          result.settings,
+        );
+    }
   };
   chooseRef.current = (id) => {
     void choose(id);
@@ -1353,6 +1421,66 @@ function Settings({
         als JSON.
       </p>
       <div role="status">{message && <p className="notice">{message}</p>}</div>
+      <section className="settings-panel">
+        <h2>Ton & Vibration</h2>
+        <p>
+          Kurze Signale für Rundenstart, Antworten, nächste Frage, Zeitablauf
+          und Abschluss. Alle Hinweise bleiben auch sichtbar.
+        </p>
+        <div className="filter-options">
+          <label className="filter-choice">
+            <input
+              type="checkbox"
+              checked={state.settings.sound !== false}
+              disabled={busy}
+              onChange={async (e) => {
+                const enabled = e.target.checked;
+                if (enabled) unlockSound({ ...state.settings, sound: true });
+                else stopFeedback();
+                const saved = await mutate((s) => {
+                  s.settings.sound = enabled;
+                });
+                if (saved && enabled) playFeedback("correct", saved.settings);
+              }}
+            />
+            Soundeffekte
+          </label>
+          <label className="filter-choice">
+            <input
+              type="checkbox"
+              checked={!!state.settings.haptics}
+              disabled={busy || !supportsHaptics()}
+              onChange={async (e) => {
+                const enabled = e.target.checked;
+                const saved = await mutate((s) => {
+                  s.settings.haptics = enabled;
+                });
+                if (saved && enabled)
+                  playFeedback("next", { ...saved.settings, sound: false });
+                if (!enabled) stopFeedback();
+              }}
+            />
+            Vibration
+          </label>
+        </div>
+        <button
+          className="secondary"
+          disabled={state.settings.sound === false && !state.settings.haptics}
+          onClick={async () => {
+            await unlockSound(state.settings);
+            playFeedback("correct", state.settings);
+          }}
+        >
+          Signal ausprobieren
+        </button>
+        <p className="muted tiny">
+          {supportsHaptics()
+            ? "Vibration funktioniert nur mit unterstütztem Gerät und Browser."
+            : "Dieser Browser bietet keine Vibration an."}{" "}
+          Deine Auswahl wird auf diesem Gerät gespeichert. Keine
+          Hintergrundmusik.
+        </p>
+      </section>
       <section className="settings-panel">
         <h2>Dein Lernpaket</h2>
         <p>

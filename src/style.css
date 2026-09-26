@@ -611,6 +611,39 @@ textarea {
   accent-color: var(--accent);
   flex-shrink: 0;
 }
+.genre-icon {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+}
+.topic-art .genre-icon {
+  width: 76px;
+  height: 76px;
+}
+.badge-icon {
+  width: 76px;
+  height: 86px;
+  display: block;
+}
+.badge-art.locked {
+  color: #929893;
+}
+.badge-art.earned {
+  color: var(--accent);
+}
+.sound-toggle {
+  min-height: 44px;
+  padding: 6px 12px;
+  font-size: 12px;
+  margin-left: auto;
+}
+.topbar {
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.settings-panel .filter-options {
+  margin-bottom: 16px;
+}
 .quiz-filters .text-button {
   min-height: 44px;
   font-size: 12px;

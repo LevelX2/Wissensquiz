@@ -35,3 +35,9 @@ Auf Nutzerauftrag den geprüften Horror-Stand lokal als `f871f70` committet und 
 ## 2026-09-26 – Genres und Schwierigkeitsstufen kombinieren
 
 Nutzerfeedback umgesetzt: große Filmgenres als Hauptauswahl, Mehrfachauswahl von Genres und Stufen, Film-/Reihenauswahl optional aufklappbar. Themenübersicht und Startseitenkarten auf Genres umgestellt; Sammlung und bestehende Favoriten erhalten. Auswahl im Rundensnapshot gespeichert, kanonische Rekordkategorien und abwärtskompatible Sicherungsprüfung ergänzt. 42 Logik-/Persistenztests und zwölf Browserprüfungen erfolgreich, mobile Auswahl visuell geprüft. Konten, gemeinsame Spielstände und serverseitige Bestenliste als Entwurf dokumentiert; Nutzer wünscht eigene Anmeldung unabhängig von ChatGPT. Noch keine Datenbank, Cloud-Migration oder Zugriffsänderung.
+
+## 2026-09-26 – Mehrfachauswahl veröffentlicht und Rückmeldungen ergänzt
+
+Mehrfachauswahl als Sites-Version 4 aus Commit `ffdeeb6989fb5a98850e0cc0068d2b9aa8e97462` veröffentlicht, Deployment `appgdep_6ab7a53ad8a88191bb0cdb6cfc05ac20` erfolgreich. Live-JavaScript, CSS und Service Worker bytegleich mit dem Build; Zugriff privat erhalten.
+
+Weiteres Nutzerfeedback: kurze Soundeffekte und optionale Vibration implementiert, Ton jederzeit abschaltbar und Präferenzen lokal/sicherbar. Genre-SVGs sowie Schloss-/Sternmedaille für das bisher einzige Sci-Fi-Abzeichen ergänzt; keine neuen Vergaberegeln erfunden. Bei der ergänzenden Prüfung einen Darstellungsfehler der Rekordübersicht für neue Filterkategorien gefunden und behoben; Ansicht liest nun die zugehörige Runde statt alte Schlüsselpositionen. 43 Logik-/Persistenztests und 15 Browserprüfungen erfolgreich (Soundprüfung nach Korrektur einer zu frühen Testabfrage gezielt wiederholt). Keine physische Hör-/Vibrationsprüfung oder neue Kontospeicherung.
