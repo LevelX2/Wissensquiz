@@ -16,7 +16,7 @@
 
 - Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
 - Private Sites-Adresse verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
-- Sci-Fi, Action und Horror als private Sites-Version 3 veröffentlicht. Live-HTML, Service Worker und unveränderte Horror-CSV per authentifiziertem HTTP-Abruf geprüft; physischer Smartphone-/PWA-Test weiterhin offen.
+- Sci-Fi, Action und Horror mit Mehrfachauswahl, Sound und Icons als private Sites-Version 5 veröffentlicht. Startseite referenziert den aktuellen Build; Live-JavaScript, CSS und Service Worker per authentifiziertem HTTP-Abruf bytegleich geprüft. Physischer Smartphone-/PWA-/Hör-/Vibrationstest weiterhin offen.
 - Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
 - Konten, geräteübergreifende Spielstände und gemeinsame Bestenliste als Entwurf unter `docs/Konten-und-Spielstaende.md`. Eigene Anmeldung unabhängig von ChatGPT gewünscht; Anbieter, Umsetzung und Wechsel der äußeren Sites-Zugangsschranke noch offen. Keine Cloud-Speicherung eingerichtet.
 

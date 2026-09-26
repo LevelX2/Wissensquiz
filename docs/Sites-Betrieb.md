@@ -33,4 +33,6 @@ Version 3 am 26.09.2026: Commit `f871f709ef6fd413c9a3a159b27fe13d07daac9e`, Vers
 
 Lokale Chromium-Prüfungen umfassen Offline-Neuladen, sichere Updates und Speichererhalt. Die private Sites-Anmeldung sowie PWA-Installation auf einem echten Smartphone wurden nicht im Browser geprüft.
 
-Version 4 (Mehrfachauswahl) am 26.09.2026: Commit `ffdeeb6989fb5a98850e0cc0068d2b9aa8e97462`, Deployment `appgdep_6ab7a53ad8a88191bb0cdb6cfc05ac20`, Status `succeeded`. Authentifizierte Live-Abrufe von JavaScript, CSS und Service Worker Status 200 und bytegleich mit dem Build. Startseite erreichbar; das Hosting ergänzt HTML, weshalb dort keine Bytegleichheit erwartet wird. Private Zugriffsliste unverändert.
+Version 4 (Mehrfachauswahl) am 26.09.2026: Commit `ffdeeb6989fb5a98850e0cc0068d2b9aa8e97462`, Deployment `appgdep_6ab7a53ad8a88191bb0cdb6cfc05ac20`, Status `succeeded`. Authentifizierte Live-Abrufe von JavaScript, CSS und Service Worker Status 200 und bytegleich mit dem Build. Startseite erreichbar, HTML nicht bytegleich mit der lokalen Datei. Private Zugriffsliste unverändert.
+
+Version 5 (Sound, Vibration, Icons und Rekordansicht) am 26.09.2026: Commit `2e99f637538370d1a5a9faa9a856a8713860ffdd`, Deployment `appgdep_6ab7a740aaf08191b7cc7c38f569006f`, Status `succeeded`. Live-HTML verweist auf den aktuellen JavaScript-Build. JavaScript, CSS und Service Worker Status 200 und bytegleich. Privater Eigentümerzugriff unverändert, keine Besucher ergänzt. Ton/Vibration werden ausschließlich lokal erzeugt; keine externen Mediendienste.
