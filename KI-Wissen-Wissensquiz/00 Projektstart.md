@@ -18,7 +18,7 @@
 
 - Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
 - Öffentliche Sites-Adresse ohne ChatGPT-Zugangsschranke verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
-- Automatische Kontosicherung, Passwortanzeige, neue Genres und klarere Bestätigungsseite veröffentlicht (App-Commit `b33ae2a`, `succeeded`): 67 Logik-/Datenbanktests, Build und 31 Browserprüfungen erfolgreich. Veröffentlichungsstand unter docs/Sites-Betrieb.md. Physische PWA-/Offline-/Hör-/Vibrationsprüfung weiterhin offen.
+- Aktuelle Veröffentlichung: Sites-Version 12, App-Commit `0bbb531`, Status `succeeded`, einschließlich Drama, freigestellter Genreillustrationen und Titelhervorhebung. 77 Logik-/Datenbanktests, Build und 36 Browserprüfungen erfolgreich. Nachweis unter docs/Sites-Betrieb.md. Physische PWA-/Offline-/Hör-/Vibrationsprüfung weiterhin offen.
 - Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
 - Eigene Konten mit Supabase Free/Frankfurt, Brevo SMTP und deutschen Mailvorlagen aktiv. Bestätigungsmail zugestellt und Kontoaktivierung verifiziert. Nach zunächst abgelehntem Smartphone-Login hat der Nutzer erfolgreichen Passwort-Reset und Anmeldung am Handy bestätigt. Reale Zwei-Konten-/Geräte-Spielstandsabnahme noch offen. Passwortfelder mit Auge zum Anzeigen/Verbergen. Automatische Kontosicherung mit Revisionsschutz umgesetzt; Gaststand bleibt auf diesem Gerät und wird nur ausdrücklich übernommen. Gemeinsame Trainingsrangliste mit freiwilliger Freigabe umgesetzt; serverseitig kontrollierter Wettbewerb und echte Zwei-Spieler-Abnahme offen. Öffentlicher Site-Zugang ohne ChatGPT-Schranke eingerichtet und durch anonymen Live-Abruf nachgewiesen; Details unter docs/Sites-Betrieb.md.
 
@@ -35,7 +35,7 @@
 
 Spielstände liegen im Browser, nicht im Repository. JSON-Exporte über Einstellungen nach wichtigen Sitzungen und vor Browserbereinigung oder Adresswechsel erstellen, mindestens die letzten drei Sicherungen an einem sicheren persönlichen Ablageort erhalten. Validierter Wiederimport ersetzt nach Bestätigung den lokalen Stand. Browserneustart und Wiederherstellung wurden in getrennten Testprofilen geprüft. Angemeldete Konten sichern automatisch in Supabase; Gaststände bleiben lokal. Kontosicherung ersetzt keine unabhängige JSON-Rückfallkopie. `AGENTS.local.md` enthält nur rekonstruierbare lokale Pfadauflösung; lokale Git-Historie ersetzt kein externes Backup.
 
-## Aktuelle Erweiterung: Profil und Bestenliste
+## Profil und Bestenliste
 
 Veröffentlicht als Sites-Version 11, App-Commit `cb41de1`, Status `succeeded`; bestehende öffentliche URL unverändert. Teilnahme an gemeinsamen Listen im Konto über „Meine Ergebnisse und Spielerstatistik teilen“ einschalten.
 

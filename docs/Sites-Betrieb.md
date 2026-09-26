@@ -25,6 +25,10 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Aktueller Veröffentlichungsstand
 
+Version 12 am 26.09.2026: Drama als siebtes Genre, sieben freigestellte Genreillustrationen und hervorgehobene Filmtitel ohne umschließende Anführungszeichen. App-Commit `0bbb53123060682f9a5e21751cb87ae57f348c55`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_423d658310f48191a8097edddd9f856c`, Deployment `appgdep_6ab7e14655888191ba70de6d3eb95743`, nativer Status `succeeded`. Bestehende Projekt-ID, öffentliche URL und Freigabe erhalten. Regulären Sites-Workflow mit geprüftem Build verwendet; 77 Logik-/Datenbanktests und 36 Browserprüfungen erfolgreich. Keine zusätzliche Live-Browserprüfung; physische PWA-/Offline-Abnahme weiterhin offen.
+
+### Vorherige Veröffentlichung
+
 Version 11 am 26.09.2026: Profilstatistik, freiwillige Rekord-/Spielerranglisten, optionaler Lernpfad und helle kompakte Spielansicht. Commit `cb41de13027a2a583b06bec7696160b01beec737`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_5a2d39e6a31c8191b3608bc2fcc4f72d`, Deployment `appgdep_6ab7dd62d35c819184f474ab382e85e2`, nativer Status `succeeded`. Regulären gebündelten Sites-Workflow verwendet, exakten Quellcommit übertragen und geprüftes Archiv veröffentlicht. Bestehender öffentlicher Zugang, Projekt-ID und URL erhalten. Native Browserübergabe ausgelöst; keine zusätzliche Live-Browserprüfung. 73 Logik-/Datenbanktests, Build, 33 Browserprüfungen und gezielte Nachprüfung der finalen mobilen Layoutkorrektur erfolgreich. Neue SQL-Migrationen 002/003 im bestehenden Supabase-Projekt erfolgreich angewandt; Rechte nachgeprüft. Es wurden keine Konten automatisch für die Listen freigegeben. Reale Zwei-Spieler-/Geräteabnahme bleibt offen.
 
 ## Testpersonen einladen
