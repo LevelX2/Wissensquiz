@@ -1,7 +1,14 @@
 import type { State } from "./model";
 
 export type FeedbackKind =
-  "start" | "next" | "correct" | "wrong" | "timeout" | "complete" | "badge";
+  | "start"
+  | "next"
+  | "correct"
+  | "wrong"
+  | "timeout"
+  | "complete"
+  | "badge"
+  | "unlock";
 const tones: Record<FeedbackKind, number[]> = {
   start: [392, 523],
   next: [440],
@@ -10,6 +17,7 @@ const tones: Record<FeedbackKind, number[]> = {
   timeout: [330, 262, 220],
   complete: [523, 659, 784],
   badge: [523, 659, 784, 1047],
+  unlock: [523, 659, 784, 1047, 784, 1047, 1319, 1568],
 };
 const vibrations: Record<FeedbackKind, number | number[]> = {
   start: 15,
@@ -19,6 +27,7 @@ const vibrations: Record<FeedbackKind, number | number[]> = {
   timeout: [35, 40, 35],
   complete: [25, 50, 25, 50, 40],
   badge: [30, 50, 30, 50, 60],
+  unlock: [35, 50, 35, 70, 75],
 };
 let context: AudioContext | undefined;
 const active = new Set<OscillatorNode>();
@@ -70,8 +79,8 @@ export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
     tones[kind].forEach((frequency, index) => {
       const oscillator = audio.createOscillator();
       const gain = audio.createGain();
-      const at = audio.currentTime + index * 0.1;
-      oscillator.type = "sine";
+      const at = audio.currentTime + index * (kind === "unlock" ? 0.13 : 0.1);
+      oscillator.type = kind === "unlock" ? "triangle" : "sine";
       oscillator.frequency.value = frequency;
       gain.gain.setValueAtTime(0, at);
       gain.gain.linearRampToValueAtTime(0.045, at + 0.012);

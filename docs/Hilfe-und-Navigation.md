@@ -9,3 +9,5 @@ Optionen sind ausschließlich über das Profil erreichbar, auch im Gastmodus. De
 Der Lernpfad ist Standard. Die bewusste Ausnahme heißt „Alle Schwierigkeitsstufen freigeben“. Beide Modi verwenden denselben Lernfortschritt aus abgeschlossenen Runden. Die Freigabe ist eine Auswahloption, keine Änderung oder Löschung erworbener Fortschritte.
 
 Für angekündigte asiatische Filmfragen ist „Asia-Kino“ vorläufig vorgeschlagen. Die endgültige Benennung, Abgrenzung und Illustration bleiben auf Nutzerwunsch offen, bis die Fragen vorliegen. Ein bereits gestarteter Bildentwurf wurde nicht in die App übernommen.
+
+Neu erreichte Lernpfad-Stufen öffnen beim Rundenabschluss einen zugänglichen Erfolgsdialog mit kurzer Animation, Stufenübersicht und „Weiter zum Ergebnis“. Escape schließt ebenfalls; die Fokusführung kehrt zum Ergebnis zurück. Der ruhige Hinweis im Rundenergebnis bleibt zusätzlich erhalten. Details unter Lernregeln → Freischaltfeier.

@@ -42,7 +42,13 @@ import { BadgeIcon, GenreIcon, genreIllustrations } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
 import { LearningPath } from "./LearningPathPanel";
-import { learningPathProgress, pathQuestions } from "./learningPath";
+import { UnlockCelebration } from "./UnlockCelebration";
+import {
+  learningPathProgress,
+  pathQuestions,
+  newlyUnlocked,
+  type PathUnlock,
+} from "./learningPath";
 import { filmDetails } from "./filmDetails";
 import { questionTitleParts } from "./questionTitle";
 import {
@@ -206,6 +212,10 @@ export function App({
   >([...difficulties]);
   const [roundId, setRoundId] = useState("");
   const [index, setIndex] = useState(0);
+  const [celebration, setCelebration] = useState<{
+    roundId: string;
+    unlocks: PathUnlock[];
+  } | null>(null);
   const heading = useRef<HTMLElement>(null);
   const booted = useRef(false);
   const inFlight = useRef(false);
@@ -275,6 +285,7 @@ export function App({
     }
   };
   const nav = async (next: Page) => {
+    setCelebration(null);
     if (
       page === "round" &&
       state?.rounds.find((r) => r.id === roundId)?.mode === "rekord"
@@ -962,12 +973,21 @@ export function App({
               onNext={async () => {
                 unlockSound(state.settings);
                 if (index === current.questions.length - 1) {
-                  const next = await mutate((s) => complete(s, current.id));
+                  let unlocks: PathUnlock[] = [];
+                  const next = await mutate((s) => {
+                    const before = learningPathProgress(s);
+                    complete(s, current.id);
+                    unlocks = newlyUnlocked(before, s);
+                  });
                   if (next) {
+                    if (unlocks.length)
+                      setCelebration({ roundId: current.id, unlocks });
                     playFeedback(
-                      next.badges.length > state.badges.length
-                        ? "badge"
-                        : "complete",
+                      unlocks.length
+                        ? "unlock"
+                        : next.badges.length > state.badges.length
+                          ? "badge"
+                          : "complete",
                       next.settings,
                     );
                     setPage("result");
@@ -1025,6 +1045,18 @@ export function App({
             </>
           )}
         </main>
+        {page === "result" &&
+          celebration &&
+          celebration.roundId === current?.id && (
+            <UnlockCelebration
+              unlocks={celebration.unlocks}
+              onClose={() => {
+                setCelebration(null);
+                stopFeedback();
+                requestAnimationFrame(() => heading.current?.focus());
+              }}
+            />
+          )}
         <footer hidden={page === "round"}>
           <span>
             WISSENSQUIZ <span className="footer-star">✦</span> BLEIB NEUGIERIG.

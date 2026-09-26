@@ -2,6 +2,23 @@ import type { Difficulty, Question, State } from "./model";
 import { genreOf } from "./filters";
 
 export const PATH_TARGET = 20;
+export type PathUnlock = { genre: string; difficulty: "mittel" | "schwer" };
+export function newlyUnlocked(
+  before: ReturnType<typeof learningPathProgress>,
+  state: State,
+): PathUnlock[] {
+  const after = learningPathProgress(state);
+  return [...new Set(state.questions.map(genreOf))].flatMap((genre) => {
+    const old = before(genre),
+      current = after(genre);
+    const unlocked: PathUnlock[] = [];
+    if (!old.mediumUnlocked && current.mediumUnlocked)
+      unlocked.push({ genre, difficulty: "mittel" });
+    if (!old.hardUnlocked && current.hardUnlocked)
+      unlocked.push({ genre, difficulty: "schwer" });
+    return unlocked;
+  });
+}
 export function learningPathProgress(state: State) {
   const snapshots = new Map<string, Question>();
   for (const round of state.rounds) {

@@ -118,3 +118,5 @@ Die Oberfläche verwendet helle Leseflächen mit dunkler Schrift. Während einer
 Filmtitel in Fragen werden mit dunkler Akzentfarbe auf hellem Gold hervorgehoben; die umschließenden Anführungszeichen entfallen nur in der Anzeige. Jahr und Frage bleiben im selben Textfluss. Sieben freigestellte [Genreillustrationen](docs/Genreillustrationen.md) verbessern die Erkennbarkeit der großen Themenkarten und sind im Offline-Paket enthalten. Kleine Auswahl-Icons bleiben SVG-Symbole.
 
 Die offline verfügbare Hilfe „So funktioniert’s“ ist im Profil und im Seitenfuß erreichbar. Sie erklärt Lernstufen mit Zeitbeispiel, Wissensziele, Modi, Lernpfad, Punkte, Abzeichen, Highscores und Speicherung. [Navigation und Hilfekonzept](docs/Hilfe-und-Navigation.md).
+
+Neue Lernpfad-Stufen werden beim Rundenabschluss mit einer kurzen Freischaltfeier ausgezeichnet: aufspringendes Schloss, Feuerwerk, große Stufenanzeige und Fanfare. Ton/Vibration bleiben einstellbar; reduzierte Bewegung wird respektiert. Alte Rundenergebnisse spielen die Feier nicht erneut ab.

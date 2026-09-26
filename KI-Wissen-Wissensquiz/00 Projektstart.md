@@ -44,3 +44,5 @@ Lernpfad ist Standard. „Alle Schwierigkeitsstufen freigeben“ öffnet auf Wun
 Bestätigte Konten erscheinen automatisch in Highscores/Spielerleistungen; keine Abwahl. Registrierung und Profil erklären Spielername und sichtbare Leistungswerte, private Spielstände/E-Mail bleiben geschützt. SQL-Migration 004 im bestehenden Projekt erfolgreich ausgeführt und Rechte geprüft. 79 Logik-/Datenbanktests, Build und 37 unterschiedliche Browserprüfungen erfolgreich. Als Version 13 veröffentlicht, nativer Status `succeeded`. Aktueller Veröffentlichungsnachweis unter docs/Sites-Betrieb.md.
 
 Asia-Fragen sind angekündigt, aber noch nicht geliefert. „Asia-Kino“ ist ein Vorschlag; Zuordnung und finales Icon nach Nutzerwunsch erst anhand der Fragen festlegen. Vorab gestarteter Martial-Arts-Bildentwurf wird nicht eingebunden.
+
+Neue Mittel-/Schwer-Freischaltungen erhalten eine einmalige animierte Feier mit Schloss, Feuerwerk, Fanfare und optionaler Vibration. Offlinefähig, reduzierte Bewegung berücksichtigt; alte Runden spielen die Feier nicht erneut ab. 79 Logik-/Datenbanktests, Build und 41 Browserprüfungen erfolgreich. Veröffentlichungsnachweis unter docs/Sites-Betrieb.md.

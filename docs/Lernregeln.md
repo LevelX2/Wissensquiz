@@ -101,3 +101,12 @@ Trefferquote = richtige gewählte Antworten / alle gewählten Antworten; Zeitabl
 Die Fragenansicht hebt den ersten exakt zitierten deutschen oder originalen Filmtitel aus den Metadaten farbig hinterlegt hervor. Nur seine umschließenden Anführungszeichen entfallen in der Anzeige; Jahr, restlicher Fragetext, Rohquelle, Frage-ID und gespeicherte Snapshots bleiben unverändert. Unbekannte Zitate und Fragen ohne passende Metadaten bleiben unverändert. Alle 1.260 gelieferten Fragen enthalten einen passenden Titel. Der Text bleibt inline umbrechbar; keine zusätzliche Titelzeile.
 
 Große Genrekarten verwenden sieben dekorative PNG-Illustrationen mit echter Transparenz, Textnamen bleiben zugänglich. Kleine Auswahl-Icons und unbekannte Genres behalten die SVG-Darstellung. Motive und Herkunft: [Genreillustrationen](Genreillustrationen.md). Alle Motive gehören zum Offline-Paket.
+
+
+## Freischaltfeier
+
+Eine tatsächlich neue Mittel-/Schwer-Freischaltung beim erfolgreichen Speichern des Rundenabschlusses öffnet eine eigene Feier: aufspringendes Schloss, drei kurze Feuerwerksfolgen, große Genre-/Stufenanzeige, einmalige Fanfare und optionale Vibration. Der Vorher-/Nachher-Vergleich findet innerhalb derselben Speichertransaktion statt. Auch Antworten bei freier Schwierigkeitsauswahl können den Erfolg auslösen; mehrere neue Stufen erscheinen gemeinsam.
+
+Die Feier ist flüchtiger UI-Zustand, kein neues Spielstandfeld. Ein alter Rundenrückblick, Neuladen oder das reine Laden eines Online-Spielstands löst sie nicht aus. Der vorhandene Ergebnishinweis bleibt nachlesbar. Die Animation endet nach knapp drei Sekunden; der Erfolg bleibt sichtbar, bis „Weiter zum Ergebnis“ oder Escape gewählt wird. Der Dialog hält den Tastaturfokus und gibt ihn an das Ergebnis zurück.
+
+Die achtteilige Fanfare ersetzt das normale Abschlusssignal. Ton aus bleibt stumm, Vibration wird nur bei eingeschalteter Option angefordert. Die Betriebssystem-/Browsereinstellung für reduzierte Bewegung ersetzt Raketen, Partikel und Schlossanimation durch eine ruhende Auszeichnung. Keine externen Audio-, Bild- oder Animationsdienste; funktioniert mit dem Offline-Paket. Unveränderte Freischaltbedingungen: sichere unterschiedliche Ziele aus abgeschlossenen Runden, keine geratenen Treffer.
