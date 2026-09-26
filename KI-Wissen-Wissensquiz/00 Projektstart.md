@@ -14,7 +14,7 @@
 
 - Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
 - Private Sites-Adresse verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
-- Horror-Paket lokal integriert und geprüft; dieser Stand ist noch nicht als neue Sites-Version veröffentlicht. Der dokumentierte Deploymentnachweis betrifft die erste Sci-Fi-Version.
+- Sci-Fi, Action und Horror als private Sites-Version 3 veröffentlicht. Live-HTML, Service Worker und unveränderte Horror-CSV per authentifiziertem HTTP-Abruf geprüft; physischer Smartphone-/PWA-Test weiterhin offen.
 - Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
 
 ## Einstieg
