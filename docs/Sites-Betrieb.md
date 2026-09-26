@@ -25,6 +25,10 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Aktueller Veröffentlichungsstand
 
+Version 22 am 26.09.2026: Drei transparente Spielmodus-Illustrationen und helle Kino-Kulisse auf der Startseite. Kompakte mobile Ausrichtung, Losspielen weiterhin direkt unter der Moduswahl, alle Bilder offline verfügbar. App-Commit `c9e22d3e980417ed0ba988265d5ca97b43dfb3f2`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_164b417a4ee8819188f350d07da62355`, Deployment `appgdep_6ab831139174819188f787278ca0664a`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 103 Logik-/Datenbanktests, Produktions-Build und alle 56 Browserfälle erfolgreich; nach letzter mobiler CSS-Anpassung Build und Einstiegstest nochmals erfolgreich. Desktop-/Handy-Screenshots visuell geprüft. Lernstände und Rohquellen unverändert. Regulärer Sites-Workflow und native Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Smartphone-Abnahme offen. Jahres- und Regiefragen als Nutzeridee vorgemerkt, noch nicht implementiert.
+
+### Vorherige Veröffentlichung: Version 21
+
 Version 21 am 26.09.2026: Martial Arts & Asia-Film, Rom-Com und Arthouse mit insgesamt 540 zusätzlichen Fragen; alle Classics-/Arthouse-Bestandsverweise aufgelöst, kombinierbare Zusatzkategorien und drei neue transparente Icons. App-Commit `f1c188d059481a73ebee69c1fe85fdf5664f0222`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_f0ef52010b508191987a524440131656`, Deployment `appgdep_6ab81e5df6f08191859f818e8c302cd2`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 103 Logik-/Datenbanktests, Produktions-Build und alle 56 Browserfälle erfolgreich (55 im vollständigen Lauf, einer nach Testdatenergänzung gezielt nachgeprüft). Rohquellen und Lernstände erhalten, keine Datenbankmigration. Regulärer Sites-Workflow und native Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Smartphone-Abnahme offen.
 
 ### Vorherige Veröffentlichung: Version 20
