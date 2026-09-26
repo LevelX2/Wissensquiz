@@ -18,7 +18,7 @@
 
 - Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
 - Private Sites-Adresse verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
-- Sci-Fi, Action, Horror und Fantasy mit Mehrfachauswahl, Sound, Icons, sichtbarer Schwierigkeit und Conjuring-Darstellern als private Sites-Version 6 veröffentlicht. Nativer Veröffentlichungsstatus `succeeded`; 45 Logiktests und 18 lokale Browserprüfungen erfolgreich. Physischer Smartphone-/PWA-/Hör-/Vibrationstest weiterhin offen.
+- Aktuelle private Sites-Veröffentlichung mit Darstellerergänzungen, optionalen Genre-/Schwierigkeitshinweisen und persönlicher Bestenliste erfolgreich (`succeeded`, App-Commit `b043771`). 51 Logiktests und 20 lokale Browserprüfungen erfolgreich. Physischer Smartphone-/PWA-/Hör-/Vibrationstest weiterhin offen.
 - Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
 - Konten, geräteübergreifende Spielstände und gemeinsame Bestenliste als Entwurf unter `docs/Konten-und-Spielstaende.md`. Eigene Anmeldung unabhängig von ChatGPT gewünscht; Anbieter, Umsetzung und Wechsel der äußeren Sites-Zugangsschranke noch offen. Keine Cloud-Speicherung eingerichtet.
 
