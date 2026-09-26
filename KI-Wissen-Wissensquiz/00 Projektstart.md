@@ -37,4 +37,6 @@ Spielstände liegen im Browser, nicht im Repository. JSON-Exporte über Einstell
 
 ## Aktuelle Erweiterung: Profil und Bestenliste
 
+Veröffentlicht als Sites-Version 11, App-Commit `cb41de1`, Status `succeeded`; bestehende öffentliche URL unverändert. Teilnahme an gemeinsamen Listen im Konto über „Meine Ergebnisse und Spielerstatistik teilen“ einschalten.
+
 73 Logik-/Datenbanktests, Produktions-Build und 33 Chromium-Prüfungen im Gesamtlauf erfolgreich. Mobile Navigation anschließend auf eine Zeile verkürzt und gezielt nachgeprüft. Migration für freiwillig geteilte Rekordergebnisse im bestehenden Supabase-Projekt angewandt; RLS und Ausführungsrechte im echten Dienst geprüft. Veröffentlichungsnachweis unter docs/Sites-Betrieb.md. Optionaler Lernpfad auf Nutzerentscheidung umgesetzt: 20 unterschiedliche sichere leichte Ziele öffnen Mittel je Genre; zusätzlich 20 mittlere öffnen Schwer. Historische abgeschlossene Runden zählen; freies Spiel bleibt offen. Helle, kompaktere Spielansicht mit zentralen Optionen. Zusätzliche Spielerranglisten für Rundenzahl, richtige Antworten und Trefferquote ab 50 Antworten, nach Genre und Stufe filterbar; zweite Datenbankergänzung erfolgreich eingerichtet.
