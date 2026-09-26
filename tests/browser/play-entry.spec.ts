@@ -10,6 +10,18 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.goto("/");
   const start = page.getByRole("button", { name: "Losspielen" });
   await expect(start).toBeEnabled();
+  await expect(page.locator(".mode-artwork")).toHaveCount(3);
+  for (const img of await page.locator(".mode-artwork").all())
+    await expect
+      .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))
+      .toBeGreaterThan(0);
+  await expect(page.locator(".cinema-home")).toHaveCSS(
+    "background-image",
+    /cinema\/lobby\.png/,
+  );
+  await page.setViewportSize({ width: 1440, height: 900 });
+  await page.screenshot({ path: "test-results/kinostart-desktop.png" });
+  await page.setViewportSize({ width: 320, height: 740 });
   const startBox = (await start.boundingBox())!;
   expect(startBox.y + startBox.height).toBeLessThan(600);
   await expect(page.locator(".hero")).toHaveCount(0);
@@ -102,6 +114,18 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   ).toBeVisible();
   await context.setOffline(true);
   await page.reload();
+  for (const img of await page.locator(".mode-artwork").all())
+    await expect
+      .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))
+      .toBeGreaterThan(0);
+  expect(
+    await page.evaluate(async () => {
+      const image = new Image();
+      image.src = "/cinema/lobby.png";
+      await image.decode();
+      return image.naturalWidth;
+    }),
+  ).toBeGreaterThan(0);
   await expect(page.getByLabel("Nur Classics", { exact: true })).toBeVisible();
   await page.getByLabel("Nur Classics", { exact: true }).check();
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();

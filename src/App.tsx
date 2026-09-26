@@ -477,7 +477,7 @@ export function App({
           </div>
         </div>
       </aside>
-      <div className="workspace">
+      <div className={`workspace ${page === "home" ? "cinema-home" : ""}`}>
         {!offline.online && (
           <header className="topbar">
             <span className="connection" role="status">
@@ -522,11 +522,18 @@ export function App({
                   {(["entdecken", "ueben", "rekord"] as Mode[]).map((m, i) => (
                     <button
                       key={m}
-                      className={`mode-card ${mode === m ? "active" : ""}`}
+                      className={`mode-card mode-${m} ${mode === m ? "active" : ""}`}
                       aria-pressed={mode === m}
                       onClick={() => setMode(m)}
                     >
-                      <span className="mode-icon">{["✧", "◎", "ϟ"][i]}</span>
+                      <img
+                        className="mode-artwork"
+                        src={`/modes/${m}.png`}
+                        alt=""
+                        width={88}
+                        height={88}
+                        decoding="async"
+                      />
                       <strong>{modeNames[m]}</strong>
                       <small>
                         {
@@ -537,7 +544,11 @@ export function App({
                           ][i]
                         }
                       </small>
-                      {mode === m && <span className="mode-check">✓</span>}
+                      {mode === m && (
+                        <span className="mode-check" aria-hidden="true">
+                          ✓
+                        </span>
+                      )}
                     </button>
                   ))}
                 </div>

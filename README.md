@@ -128,3 +128,5 @@ Der kompakte Spieleinstieg bietet „Losspielen“ direkt unter der Moduswahl. C
 In Entdecken und Besser werden zeigt jede Frage ihre persönliche Antwortbilanz (beantwortet, richtig, falsch). Aufklappbar: Zeitabläufe, geratene Treffer und gemeinsame Statistik mit Wiederholungsvarianten. Bestehende Antworten zählen automatisch mit.
 
 Die Fragenstatistik erscheint standardmäßig erst nach der Antwort. Unter Profil → Optionen lässt sie sich auf „Immer anzeigen“ umstellen oder ausblenden. Die Auswahl wird mit dem Spielstand gesichert; ältere Spielstände verwenden „Nach der Antwort“.
+
+Spielmodi mit eigenen transparenten Illustrationen: Entdecken (Lupe mit Stern), Besser werden (Stufen mit Stern), Rekordrunde (Pokal mit Stoppuhr). Die Startseite erhält eine helle Kino-Kulisse; Spielansicht und Daten bleiben unverändert. Losspielen bleibt direkt unter den Moduskarten. Alle neuen Bilder sind im Offline-Paket enthalten; die Auswahl ist weiterhin per Tastatur und mit sichtbarer Markierung bedienbar.

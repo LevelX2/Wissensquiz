@@ -60,3 +60,9 @@ Spieleinstieg ohne große Werbefläche, Losspielen direkt unter der Moduswahl. G
 Fragenstatistik in Entdecken/Besser werden: konkrete Frage-ID mit beantwortet/richtig/falsch; aufklappbar Zeitabläufe, geratene Treffer und gemeinsame Variantenbilanz nach Wissensziel-ID. Rein aus bestehenden Ereignissen aller Modi/Rundenstatus abgeleitet, keine Speicherung oder Migration zusätzlicher Zähler.
 
 Die Fragenstatistik erscheint standardmäßig erst nach der Antwort. Unter Profil → Optionen lässt sie sich auf „Immer anzeigen“ umstellen oder ausblenden. Die Auswahl wird mit dem Spielstand gesichert; ältere Spielstände verwenden „Nach der Antwort“.
+
+Spielmodi mit eigenen transparenten Illustrationen: Entdecken (Lupe mit Stern), Besser werden (Stufen mit Stern), Rekordrunde (Pokal mit Stoppuhr). Die Startseite erhält eine helle Kino-Kulisse; Spielansicht und Daten bleiben unverändert. Losspielen bleibt direkt unter den Moduskarten. Alle neuen Bilder sind im Offline-Paket enthalten; die Auswahl ist weiterhin per Tastatur und mit sichtbarer Markierung bedienbar.
+
+## Vorgemerkte Erweiterung: Filmwissen
+
+Nutzeridee vom 26.09.2026: je Film eine Frage zum Erscheinungsjahr sowie zusätzliche Regiefragen. Noch nicht umgesetzt. Vorschlag: getrennte auswählbare Wissensbereiche Erscheinungsjahr und Regie; stabile Frage-/Wissensziel-IDs pro Film und Sachverhalt. Bei Jahresfragen Jahreszahl aus sämtlichen vor der Antwort sichtbaren Hinweisen entfernen; drei plausible falsche Jahre zwischen Runden variieren, während einer Runde und beim Fortsetzen unverändert halten. Schwierigkeit steuert den Abstand der falschen Jahre. Regiezuordnungen vor Einbindung fachlich prüfen, Schwierigkeitsstufen anhand der Bekanntheit der jeweiligen Film-Regie-Verbindung kuratieren. Genaue Kategorienbenennung und Schwierigkeitsregeln noch festzulegen. Rohquellen und vorhandene Lernziele bleiben erhalten.

@@ -2712,3 +2712,108 @@ footer[hidden] {
     display: none;
   }
 }
+
+
+/* Cinema atmosphere stays on the setup page; the quiz keeps its calm surface. */
+.cinema-home {
+  background-color: #f5f4f0;
+  background-image:
+    linear-gradient(180deg, #f5f4f082 0, #f5f4f0b8 260px, #f5f4f0 660px),
+    url("/cinema/lobby.png");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 100% 720px, 100% auto;
+}
+.cinema-home .play-heading {
+  width: fit-content;
+  max-width: 100%;
+  padding: 8px 14px;
+  margin-left: -14px;
+  border-radius: 12px;
+  background: #ffffffe8;
+}
+.round-setup .mode-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 204px;
+  padding: 18px;
+  border-radius: 16px;
+  border: 1px solid #b2bdb9;
+  background: linear-gradient(145deg, #ffffff, #f7f8f5);
+  box-shadow: 0 4px 14px #2531340d;
+  text-align: center;
+}
+.mode-artwork {
+  display: block;
+  width: 88px;
+  height: 88px;
+  object-fit: contain;
+  margin: 0 auto 10px;
+  filter: drop-shadow(0 4px 4px #34260f18);
+  transition: transform 160ms ease;
+}
+.round-setup .mode-card:hover .mode-artwork {
+  transform: translateY(-3px);
+}
+.round-setup .mode-card.active {
+  background: linear-gradient(145deg, #fff9ed, #f5e8ca);
+  border-color: #926528;
+  box-shadow: 0 0 0 1px #926528, 0 6px 18px #76501d18;
+}
+.round-setup .mode-card strong {
+  font-size: 16px;
+  line-height: 1.35;
+}
+.round-setup .mode-card small {
+  font-size: 12px;
+  line-height: 1.45;
+  color: #42545a;
+  margin-top: 6px;
+}
+.mode-card .mode-check {
+  width: 22px;
+  height: 22px;
+  display: grid;
+  place-items: center;
+  top: 10px;
+  right: 10px;
+  background: #78521e;
+  color: white;
+  border-radius: 50%;
+  font-size: 13px;
+}
+@media (max-width: 760px) {
+  .cinema-home {
+    background-size: 100% 480px, 100% 360px;
+    background-position: center top;
+  }
+  .round-setup .mode-card {
+    min-height: 162px;
+    padding: 12px 7px;
+    border-radius: 12px;
+  }
+  .mode-artwork {
+    width: 56px;
+    height: 56px;
+    margin-bottom: 9px;
+  }
+  .round-setup .mode-card strong {
+    font-size: 12px;
+    min-height: 33px;
+  }
+  .round-setup .mode-card small {
+    font-size: 10px;
+  }
+  .mode-card .mode-check {
+    top: 6px;
+    right: 6px;
+    width: 17px;
+    height: 17px;
+    font-size: 11px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mode-artwork { transition: none; }
+  .round-setup .mode-card:hover .mode-artwork { transform: none; }
+}

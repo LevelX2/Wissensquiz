@@ -34,7 +34,7 @@
 - [Drama-Rohquelle](../../01%20Rohquellen/Drama_Quiz_180_Fragen.csv)
 - [Drama-Importbericht](../../../docs/importbericht-drama.json)
 
-- [Genreillustrationen, Bildherkunft und Prompts](../../../docs/Genreillustrationen.md)
+- [Genre- und Spielmodusillustrationen, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
 
 - [Navigation und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
 
