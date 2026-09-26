@@ -2,7 +2,18 @@
 
 ## Stand
 
-Die App-Anbindung ist vorbereitet und lokal getestet. Es existiert noch kein Supabase-Projekt und kein eingerichteter Mailversand. `public/account-config.json` enthält deshalb `enabled: false`. Die Live-Site bleibt privat; „Konto“ erklärt den Einrichtungsstand und nimmt keine Passwörter entgegen. Es wurden keine echten Konten angelegt und keine E-Mails versendet.
+Die App-Anbindung ist vorbereitet und lokal getestet. Das Supabase-Projekt ist inzwischen eingerichtet; Mailversand und Mailvorlagen stehen noch aus. `public/account-config.json` enthält weiterhin `enabled: false`. Die Live-Site bleibt privat; „Konto“ erklärt den Einrichtungsstand und nimmt keine Passwörter entgegen. Es wurden keine echten Quiz-Konten angelegt und keine Quiz-E-Mails versendet.
+
+### Tatsächlich eingerichtet am 26.09.2026
+
+- Organisation und Projekt **Wissensquiz**, Tarif **Free**, Region **Central EU (Frankfurt)** (`eu-central-1`). Projekt-ID `nadhixddmpshndqpmzqi`, Project URL `https://nadhixddmpshndqpmzqi.supabase.co`.
+- Das Datenbankpasswort hat der Nutzer selbst im Dashboard eingegeben. Keine geheimen Zugangsdaten in App oder Repository übernommen. Der vorhandene öffentliche Publishable Key ist unter Project Settings → API Keys abrufbar; noch nicht in die App-Konfiguration übernommen.
+- Migration `202609260001_quiz_accounts.sql` über den SQL Editor innerhalb einer Transaktion erfolgreich ausgeführt. Vorher war `public.quiz_saves` nicht vorhanden. Nicht erneut ausführen.
+- Direkte SQL-Prüfung im echten Projekt: RLS aktiv, eine SELECT-Policy, kein anonymer Tabellenzugriff, keine direkten INSERT-/UPDATE-/DELETE-Rechte für angemeldete Benutzer; Speicherfunktion ausschließlich für angemeldete Benutzer ausführbar. Inhalt und Revisionsregeln stammen aus der lokal getesteten Migration. Echte Zwei-Konten-Prüfung weiterhin offen.
+- E-Mail-Provider, Registrierung und Confirm email aktiviert vorgefunden; anonyme Anmeldung deaktiviert. Mindestpasswortlänge auf zwölf Zeichen gespeichert, Linkablauf 3.600 Sekunden beibehalten.
+- Site URL und genau eine Redirect-URL entsprechend Abschnitt 3 gespeichert.
+- Im aktuellen Free-Dashboard sind individuelle Mailvorlagen ohne eigenen SMTP-Dienst gesperrt. Kein kostenpflichtiges Upgrade vorgenommen, keine Zugangsschranke umgangen. Vorlagen nach Abschnitt 4 erst nach SMTP-Anbindung übernehmen.
+- Nutzer wünscht kostenlosen Maildienst und hat keine eigene Domain. Brevo-Registrierung im Codex-Browser geöffnet; Kontoanlage, Absenderverifikation, Versandfreigabe und SMTP-Verbindung noch offen. Vorhandene Bestätigungs-/Reset-Vorlagen liegen unverändert im Repository bereit.
 
 ## 1. Supabase-Projekt
 
@@ -29,6 +40,8 @@ Als erlaubte Redirect-URL exakt `https://wissensquiz-filmkosmos.levelx2.chatgpt.
 ## 4. Mailversand verbinden
 
 Einen SMTP-fähigen Transaktionsmaildienst mit verifizierter Absenderadresse bzw. Absenderdomain einrichten und die Zugangsdaten ausschließlich im Supabase-Dashboard hinterlegen. Supabase-Standardversand ist für Produktion ungeeignet und auf Projektmitglieder eingeschränkt. Deshalb reicht er nicht für Sohn/Schwager als beliebige Testpersonen.
+
+Für die Testphase wird **Brevo Free** vorbereitet (aktuell 300 E-Mails täglich). [Tarifbeschreibung](https://help.brevo.com/hc/en-us/articles/208589409-About-Brevo-s-pricing-plans). Eine einzelne [Absenderadresse lässt sich per Mail bestätigen](https://help.brevo.com/hc/en-us/articles/208836149-Create-a-new-sender-From-name-and-From-email). Brevo beschreibt für nicht authentifizierte oder freie Absenderadressen eine vorübergehende Ersetzung durch eine konforme Absenderadresse; eine eigene authentifizierte Domain bleibt die verlässlichere spätere Lösung. [Absenderanforderungen](https://help.brevo.com/hc/en-us/articles/14925263522578-Comply-with-Gmail-Yahoo-and-Microsoft-s-requirements-for-email-senders). Noch keine konkrete Versandfreigabe zugesichert: Konto und zulässige Absenderadresse müssen zunächst bestätigt und echte Mails getestet werden. Kein kostenpflichtiges Abo oder Domainkauf beauftragt.
 
 In den Supabase-E-Mail-Vorlagen:
 
