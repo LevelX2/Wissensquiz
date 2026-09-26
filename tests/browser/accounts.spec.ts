@@ -87,6 +87,11 @@ async function login(page: Page, email = "alice@example.test") {
 test("Unkonfigurierte Konten bieten keine unechte Registrierung und erhalten den Gastmodus", async ({
   page,
 }) => {
+  await page.route("**/account-config.json", (route) =>
+    route.fulfill({
+      json: { enabled: false, supabaseUrl: "", publishableKey: "" },
+    }),
+  );
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await account(page);

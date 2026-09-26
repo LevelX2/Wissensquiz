@@ -2,18 +2,19 @@
 
 ## Stand
 
-Die App-Anbindung ist vorbereitet und lokal getestet. Das Supabase-Projekt ist inzwischen eingerichtet; Mailversand und Mailvorlagen stehen noch aus. `public/account-config.json` enthält weiterhin `enabled: false`. Die Live-Site bleibt privat; „Konto“ erklärt den Einrichtungsstand und nimmt keine Passwörter entgegen. Es wurden keine echten Quiz-Konten angelegt und keine Quiz-E-Mails versendet.
+Die App-Anbindung und das Supabase-Projekt sind eingerichtet. Brevo SMTP und deutsche Bestätigungs-/Reset-Vorlagen sind gespeichert. `public/account-config.json` enthält jetzt `enabled: true` mit Project URL und öffentlichem Publishable Key; Veröffentlichung für den privaten Eigentümertest vorbereitet. Echte Mailzustellung, Linkverhalten und Kontenabnahme stehen noch aus. Es wurden noch keine echten Quiz-Konten angelegt und keine Quiz-E-Mails versendet. Die äußere Sites-Freigabe bleibt privat.
 
 ### Tatsächlich eingerichtet am 26.09.2026
 
 - Organisation und Projekt **Wissensquiz**, Tarif **Free**, Region **Central EU (Frankfurt)** (`eu-central-1`). Projekt-ID `nadhixddmpshndqpmzqi`, Project URL `https://nadhixddmpshndqpmzqi.supabase.co`.
-- Das Datenbankpasswort hat der Nutzer selbst im Dashboard eingegeben. Keine geheimen Zugangsdaten in App oder Repository übernommen. Der vorhandene öffentliche Publishable Key ist unter Project Settings → API Keys abrufbar; noch nicht in die App-Konfiguration übernommen.
+- Das Datenbankpasswort hat der Nutzer selbst im Dashboard eingegeben. Keine geheimen Zugangsdaten in App oder Repository übernommen. Der vorhandene öffentliche Publishable Key ist in die App-Konfiguration übernommen.
 - Migration `202609260001_quiz_accounts.sql` über den SQL Editor innerhalb einer Transaktion erfolgreich ausgeführt. Vorher war `public.quiz_saves` nicht vorhanden. Nicht erneut ausführen.
 - Direkte SQL-Prüfung im echten Projekt: RLS aktiv, eine SELECT-Policy, kein anonymer Tabellenzugriff, keine direkten INSERT-/UPDATE-/DELETE-Rechte für angemeldete Benutzer; Speicherfunktion ausschließlich für angemeldete Benutzer ausführbar. Inhalt und Revisionsregeln stammen aus der lokal getesteten Migration. Echte Zwei-Konten-Prüfung weiterhin offen.
 - E-Mail-Provider, Registrierung und Confirm email aktiviert vorgefunden; anonyme Anmeldung deaktiviert. Mindestpasswortlänge auf zwölf Zeichen gespeichert, Linkablauf 3.600 Sekunden beibehalten.
 - Site URL und genau eine Redirect-URL entsprechend Abschnitt 3 gespeichert.
-- Im aktuellen Free-Dashboard sind individuelle Mailvorlagen ohne eigenen SMTP-Dienst gesperrt. Kein kostenpflichtiges Upgrade vorgenommen, keine Zugangsschranke umgangen. Vorlagen nach Abschnitt 4 erst nach SMTP-Anbindung übernehmen.
-- Nutzer wünscht kostenlosen Maildienst und hat keine eigene Domain. Brevo-Registrierung im Codex-Browser geöffnet; Kontoanlage, Absenderverifikation, Versandfreigabe und SMTP-Verbindung noch offen. Vorhandene Bestätigungs-/Reset-Vorlagen liegen unverändert im Repository bereit.
+- Brevo-Free-Konto eingerichtet, 300 Mails/Tag im Dashboard angezeigt, Absender „Wissensquiz“ verifiziert. Nutzer hat die Erstellung des SMTP-Schlüssels „Wissensquiz Supabase“ und dessen ausschließliche Hinterlegung in Supabase ausdrücklich bestätigt. Schlüssel erstellt, aktiv, Ablauf 26.09.2027; laut Erstellungsdialog zusätzlich Ablauf nach 90 Tagen Inaktivität. Vor Ablauf erneuern. Kein Schlüssel in Chat, Dateien oder Git.
+- Custom SMTP in Supabase gespeichert: `smtp-relay.brevo.com`, Port 587, Absendername „Wissensquiz“, verifizierte Absenderadresse und Brevo-Zugang ausschließlich im Dienst. Mindestintervall 60 Sekunden; Dashboard nennt nach Aktivierung 30 Mails/Stunde. Deutsche Confirm-sign-up- und Reset-password-Vorlagen aus Abschnitt 4 gespeichert; kein kostenpflichtiges Upgrade.
+- Brevo zeigt bei der SMTP-Überprüfung „Warten auf Log“. Die erste echte Mail und Zustellung sind noch nicht geprüft. Anonymes Tracking aktiviert; vollständige Tracking-Abschaltung ist in der aktuellen Oberfläche nicht verfügbar. Das Verhalten umgeschriebener Links muss bei der Abnahme geprüft werden.
 
 ## 1. Supabase-Projekt
 
@@ -48,7 +49,7 @@ In den Supabase-E-Mail-Vorlagen:
 - **Confirm signup:** [confirmation.html](../supabase/templates/confirmation.html), Betreff „Bestätige Dein Wissensquiz-Konto“.
 - **Reset password:** [recovery.html](../supabase/templates/recovery.html), Betreff „Wissensquiz: Passwort zurücksetzen“.
 
-Die beiden Vorlagen sind notwendig: Die App verwendet ausdrücklich `token_hash` und `type` im URL-Fragment. Sie entfernt den Token sofort aus der sichtbaren Adresse und prüft ihn erst nach dem Klick auf „Link bestätigen“. Dadurch verbraucht ein einfacher Mail-Linkscanner den Token nicht schon beim Öffnen. Tokens erscheinen nicht im HTTP-Pfad, in Quiz-Sicherungen oder in App-Logs. Keine Link-Umschreibung/Click-Tracking für diese Mails aktivieren. Es werden keine eigenen Mailpasswörter im Frontend benötigt.
+Die beiden Vorlagen sind notwendig: Die App verwendet ausdrücklich `token_hash` und `type` im URL-Fragment. Sie entfernt den Token sofort aus der sichtbaren Adresse und prüft ihn erst nach dem Klick auf „Link bestätigen“. Dadurch verbraucht ein einfacher Mail-Linkscanner den Token nicht schon beim Öffnen. Im direkten App-Link erscheinen Tokens nicht im HTTP-Pfad, in Quiz-Sicherungen oder in App-Logs. Brevo bietet in der aktuellen Oberfläche nur anonymisiertes Tracking, keine vollständige Abschaltung an. Die Anonymisierung ist aktiviert; sie verhindert keine Link-Umschreibung. Daher müssen zugestellte Bestätigungs-/Reset-Links einschließlich Fragment, privater Sites-Anmeldung und Weiterleitung vor Besucherfreigabe tatsächlich geprüft werden. [Brevo: anonymes Tracking](https://help.brevo.com/hc/en-us/articles/11643306229906-Can-I-anonymize-the-tracking-of-opens-and-clicks-for-my-emails). Es werden keine eigenen Mailpasswörter im Frontend benötigt.
 
 ## 5. Anbindung aktivieren und prüfen
 
