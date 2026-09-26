@@ -25,6 +25,10 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Aktueller Veröffentlichungsstand
 
+Version 14 am 26.09.2026: animierte Feier bei neuen Lernpfad-Stufen, mit Schloss, Feuerwerk, Fanfare und optionaler Vibration. App-Commit `07c0f958ac8f3787a98966575c118c7953d896da`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_738533022c68819195470335a010205c`, Deployment `appgdep_6ab7e92102148191ade027d09cfa5b50`, nativer Status `succeeded`. Bestehende öffentliche URL, Projekt-ID und Kontodaten unverändert. 79 Logik-/Datenbanktests, Produktions-Build und 41 Browserprüfungen erfolgreich; finale Textpflege mit vier Freischaltfällen erneut geprüft. Regulärer Sites-Workflow, native Browserübergabe; keine zusätzliche Live-Browserprüfung.
+
+### Vorherige Veröffentlichung: Version 13
+
 Version 13 am 26.09.2026: eigene Highscores-Navigation, automatische Teilnahme bestätigter Konten, Optionen im Profil, Hilfe „So funktioniert’s“ und Lernpfad als Standard mit bewusst freier Schwierigkeitsauswahl. App-Commit `f5ccc9a2f6f8c3c00d1c09a5c7de0a5eeeb3ff01`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_df7365e912b08191b7f31ed54a76e197`, Deployment `appgdep_6ab7e6136aa08191b70f239760728a3e`, nativer Status `succeeded`. Öffentliche URL und Projekt-ID unverändert. 79 Logik-/Datenbanktests, Build und 37 unterschiedliche Browserprüfungen erfolgreich; Migration 004 im bestehenden Supabase-Projekt ausgeführt und Rechte geprüft. Native Browserübergabe, keine zusätzliche Live-Browserprüfung. Asia-Fragen und finales Motiv weiterhin offen.
 
 ### Vorherige Veröffentlichung: Version 12
