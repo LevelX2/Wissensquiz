@@ -109,7 +109,7 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
   }, state);
   await page.reload();
   await page.getByRole("button", { name: "Rekordrunde", exact: false }).click();
-  await page.getByRole("button", { name: "Bestenliste ansehen" }).click();
+  await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await expect(page.locator(".leaderboard-category")).toHaveCount(3);
   await expect(page.locator(".leaderboard-entry")).toHaveCount(4);
   await page

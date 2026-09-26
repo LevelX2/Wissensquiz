@@ -9,6 +9,7 @@ const imported = [
   ...importCsv(readFileSync("public/komoedie-fragen.csv", "utf8")).questions,
   ...importCsv(readFileSync("public/western-fragen.csv", "utf8")).questions,
   ...importCsv(readFileSync("public/drama-fragen.csv", "utf8")).questions,
+  ...importCsv(readFileSync("public/classics-fragen.csv", "utf8")).questions,
 ];
 async function launch(page: Page) {
   await page.goto("/");
@@ -50,7 +51,7 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
   ).not.toBeChecked();
   await expect(
     page.getByText("Mittel gesperrt · 0 / 20 leichte Ziele", { exact: true }),
-  ).toHaveCount(7);
+  ).toHaveCount(10);
   await page.reload();
   await expect(
     page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
@@ -73,6 +74,7 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
     page.getByText("Etwas tiefer eintauchen", { exact: true }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByText("Schwierigkeit selbst wählen", { exact: true }).click();
   await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
   await expect(
     page.getByText(
@@ -90,6 +92,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
   await page.setViewportSize({ width: 320, height: 740 });
   await launch(page);
+  await page.getByText("Schwierigkeit selbst wählen", { exact: true }).click();
   await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
   await expect(
     page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
@@ -99,13 +102,15 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
     name: "Schwierigkeitsstufen",
     exact: true,
   });
-  await expect(genres.getByRole("checkbox")).toHaveCount(7);
+  await expect(genres.getByRole("checkbox")).toHaveCount(10);
   await expect(page.getByLabel("Thema wählen")).not.toBeVisible();
   await genres.getByLabel("Action", { exact: true }).uncheck();
   await genres.getByLabel("Fantasy", { exact: true }).uncheck();
   await genres.getByLabel("Komödie", { exact: true }).uncheck();
   await genres.getByLabel("Western", { exact: true }).uncheck();
   await genres.getByLabel("Drama", { exact: true }).uncheck();
+  for (const genre of ["Abenteuer", "Musik", "Thriller"])
+    await genres.getByLabel(genre, { exact: true }).uncheck();
   await levels.getByLabel("Schwer", { exact: true }).uncheck();
   expect(
     await page.evaluate(
@@ -188,7 +193,7 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie aus de
     }),
   ).toBeVisible({ timeout: 20000 });
   await page.getByRole("button", { name: "Themen", exact: true }).click();
-  await expect(page.locator(".genre-illustration")).toHaveCount(7);
+  await expect(page.locator(".genre-illustration")).toHaveCount(11);
   for (const img of await page.locator(".genre-illustration").all()) {
     await img.scrollIntoViewIfNeeded();
     await expect
@@ -301,7 +306,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6]) {
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
-      page.getByText("1260 Fragen · 1050 Wissensziele · 0 Demo-Fragen"),
+      page.getByText("1440 Fragen · 1200 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
   });
 }
@@ -398,11 +403,23 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
     .getByRole("group", { name: "Filmgenres", exact: true })
     .getByLabel("Fantasy", { exact: true })
     .uncheck();
-  for (const genre of ["Komödie", "Western", "Drama"])
+  for (const genre of [
+    "Komödie",
+    "Western",
+    "Drama",
+    "Abenteuer",
+    "Musik",
+    "Thriller",
+  ])
     await page
       .getByRole("group", { name: "Filmgenres", exact: true })
       .getByLabel(genre, { exact: true })
       .uncheck();
+  await page.getByText("Schwierigkeit selbst wählen", { exact: true }).click();
+  await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
+  await expect(
+    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
+  ).toBeChecked();
   await page
     .getByRole("group", { name: "Schwierigkeitsstufen", exact: true })
     .getByLabel("Schwer", { exact: true })
@@ -563,7 +580,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByText("1260 Fragen · 1050 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("1440 Fragen · 1200 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
@@ -744,7 +761,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Gültige Fragen importieren" })
     .click();
   await expect(
-    page.getByText("1272 Fragen · 1062 Wissensziele · 12 Demo-Fragen"),
+    page.getByText("1452 Fragen · 1212 Wissensziele · 12 Demo-Fragen"),
   ).toBeVisible();
   await expect(
     page.getByRole("button", {
@@ -756,6 +773,6 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Fortschritt jetzt endgültig zurücksetzen" })
     .click();
   await expect(
-    page.getByRole("heading", { name: "Neugier? Film ab." }),
+    page.getByRole("heading", { name: "Dein Filmquiz" }),
   ).toBeVisible();
 });

@@ -91,14 +91,16 @@ export function Help() {
           öffnen Mittel. Zusätzlich 20 mittlere Ziele öffnen Schwer.
         </p>
         <p>
-          Mit „Alle Schwierigkeitsstufen freigeben“ kannst Du sofort jede Stufe
-          spielen. Sichere Antworten zählen auch dann für Deinen Lernpfad.
-          Entfernst Du das Häkchen, gelten Deine inzwischen erreichten
-          Freischaltungen. Es zählen abgeschlossene Runden, auch Deine
-          bisherigen und frei gespielten Runden. Wiederholungen und geratene
-          Treffer erhöhen diesen Zähler nicht. Die Freischaltung braucht keine
-          Festigung über mehrere Tage und geht bei späteren Fehlern nicht
-          verloren.
+          Unter „Schwierigkeit selbst wählen“ kannst Du mit „Alle
+          Schwierigkeitsstufen freigeben“ sofort jede Stufe spielen und zum
+          Beispiel nur Schwer auswählen. Im normalen Lernpfad wählt die App
+          automatisch aus Deinen freigeschalteten Stufen. Sichere Antworten
+          zählen auch im freien Spiel für Deinen Lernpfad. Entfernst Du das
+          Häkchen, gelten Deine inzwischen erreichten Freischaltungen. Es zählen
+          abgeschlossene Runden, auch Deine bisherigen und frei gespielten
+          Runden. Wiederholungen und geratene Treffer erhöhen diesen Zähler
+          nicht. Die Freischaltung braucht keine Festigung über mehrere Tage und
+          geht bei späteren Fehlern nicht verloren.
         </p>
       </details>
       <details>

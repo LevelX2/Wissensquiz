@@ -1,2 +1,5 @@
 # Preserve supplied CSV bytes, including their original line endings.
 *.csv -text whitespace=cr-at-eol
+
+# Preserve the supplied category assignment source byte-for-byte.
+**/Classics_Zuordnungen_Bestand.json -text whitespace=cr-at-eol

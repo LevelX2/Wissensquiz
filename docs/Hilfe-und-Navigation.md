@@ -21,3 +21,10 @@ Während einer Runde entfällt auf schmalen Bildschirmen die Hauptnavigation; �
 „Alle Genres abwählen“ leert die Auswahl und setzt eine optionale Filmverfeinerung zurück. Danach lässt sich ein einzelnes Genre bequem einschalten; ohne Genre bleibt der Rundenstart gesperrt. Auswahlfelder und filmbezogene Sammlungskarten verwenden die vorhandenen freigestellten Genre-Motive.
 
 Kontoname und normale Speicherbestätigung stehen ausschließlich im Profil, nicht mehr in eigenen Kopfzeilen. Nicht online gesicherte Änderungen und echte Verbindungsausfälle bleiben sichtbar; Konflikte behalten ihre eigene Auflösungsansicht. Wartende App-Updates werden außerhalb einer laufenden Runde auch auf den Hauptseiten erklärt. Alte Tabs weiterhin schließen und neu öffnen; kein automatischer Versionswechsel in einer laufenden Runde.
+
+
+## Kompakter Spieleinstieg und Classics
+
+Der Einstieg verzichtet auf die große Werbefläche. „Losspielen“ steht direkt unter den drei Modi, mit einer kompakten Zusammenfassung der aktuellen Auswahl. Bei einer begonnenen Runde erscheint „Fortsetzen“ unmittelbar darunter. Genre-Felder bilden ein gleichmäßiges Raster. „Schwierigkeit selbst wählen“ sammelt die freie Auswahl und zeigt erst nach ihrer Aktivierung die einzelnen Stufen. Ohne freie Auswahl werden automatisch alle je Genre freigeschalteten Stufen berücksichtigt; eine vorherige manuelle Einschränkung bleibt dabei ohne Wirkung. Der gespeicherte Freigabeschalter bleibt erhalten. „Deine Stufenfortschritte“ ist unabhängig davon aufklappbar und nutzt dieselben Genreillustrationen.
+
+„Nur Classics“ schränkt die gewählten Genres auf die kuratierte Zusatzkategorie ein. Eine weitere Filmverfeinerung bleibt möglich. Unter Themen gibt es zusätzlich eine Classics-Karte mit nach Wissensziel-ID deduplizierten Fortschrittszahlen. Kategorien überschneiden sich, erzeugen aber keine weiteren Fragen, Ereignisse oder Lernstände. Arthouse ist noch nicht zugewiesen.

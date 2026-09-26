@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 87 Logik-/Persistenz-/Datenbanktests und 50 Browserprüfungen im vollständigen Lauf erfolgreich. Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 93 Logik-/Persistenz-/Datenbanktests und 51 unterschiedliche Browserprüfungen erfolgreich (50 im vollständigen Lauf, ein korrigierter Test gezielt nachgeprüft). Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -184,3 +184,16 @@ Ranglistenanfragen enden spätestens nach zehn Sekunden mit dem vorhandenen Fehl
 Final vollständig erfolgreich: 87 Logik-/Persistenz-/Datenbanktests, Produktions-Build, 50 Browserprüfungen (48 Chromium, zwei WebKit mit iPhone-Profil). Neue Prüfung bei 320 × 740 px: alle Genres abwählen, Start gesperrt bei leerer Auswahl, einzelnes Genre und alle Genres erneut wählen; PNG-Bilder geladen, Filmkarte mit Genre-Bild, kein horizontaler Überlauf und Axe ohne Befund. Gerenderte Auswahl und Sammlung visuell geprüft. Profilstatus, globaler Offlinehinweis, Wiederaufnahme und sicheres Updateverhalten ebenfalls geprüft. Ein erster Test deckte eine fehlende Zeitbegrenzung bei Spielerleistungen auf; korrigiert. Ein vorübergehender Chromium-Ressourcenfehler trat im abschließenden vollständigen Lauf nicht mehr auf.
 
 Roh-CSV, Genre-Assets und Supabase-Migrationen unverändert. Importbericht-Zeitstempel nach Inhaltsvergleich zurückgesetzt. Tests ausschließlich mit isolierten Daten; keine echten Spielstände verändert. Physisches iPhone und echte angemeldete Live-Ranglisten nicht zusätzlich geprüft.
+
+
+## 26.09.2026 — Kompakter Spieleinstieg und Classics
+
+Große Einstiegswerbung entfernt, Losspielen unmittelbar unter der Moduswahl mit Auswahlzusammenfassung; Fortsetzen ebenfalls direkt erreichbar. Gleich breite Genre-Felder, freie Stufenwahl unter einem aufklappbaren Bereich; normaler Lernpfad nutzt automatisch sämtliche freigeschalteten Stufen. Unabhängig aufklappbare Stufenfortschritte verwenden dieselben PNG-Motive. Kleine neue Genres erklären die derzeit mangels 20 Zielen nicht erreichbare Freischaltung.
+
+Classics als zusätzliche Kategorie mit Genre-/Filmfiltern umgesetzt. 180 neue Fragen strukturell vollständig akzeptiert, 150 Ziele/30 Varianten/25 Filme. 225 Bestandsreferenzen passend ergänzt; 33 fehlen (12 RomCom, 21 Martial Arts), keine abweichenden Referenzen. Gesamtbestand 1.440 Fragen/1.200 Ziele/188 Filmthemen/zehn Genres. Classics umfasst 405 Fragen/336 Ziele/57 Filme, keine zweite Lernidentität. Vier neue transparente Motive für Abenteuer, Musik, Thriller und Classics, vorhandene Bilder unverändert.
+
+Final: 93 Logik-/Persistenz-/Datenbanktests erfolgreich, Produktions-Build erfolgreich. Alle 51 Browserfälle bestanden (49 Chromium, zwei WebKit mit iPhone-Profil): 50 im letzten vollständigen Lauf; der neue kombinierte Einstiegs-/Classics-Fall nach Korrektur seines Optionsbutton-Locators separat erfolgreich. Vorherige Testanpassungen betreffen den verlegten Highscore-Zugang und das asynchrone Speichern des Freigabeschalters. Keine verbleibenden Produktfehler aus diesen Läufen. Neue Prüfung: Start vollständig oberhalb 600 px bei 320 × 740, gleich breite Genre-Auswahl, alle zehn Stufenbilder geladen, Rückkehr von nur Schwer zur automatischen Auswahl, Classics + Western, keine doppelten Fragen, Offline-Neuladen und Axe ohne Befund. Einstieg, Genre-Raster und Stufenfortschritt anhand gerenderter Bilder visuell geprüft.
+
+Zusätzliche Logikprüfungen: alle Zuordnungen und Quellhashes, wiederholte Mengenergänzung, abweichende Referenzen, unveränderte alte Rundensnapshots, gemeinsame Lernidentität, Backup-Annahme bei erlaubten Tags und Ablehnung manipulierter Texte, Sci-Fi-Normalisierung mit erhaltenem Quellwert. Ein erster Test zeigte gemeinsame Objektreferenzen zwischen Fragenbestand und alter Runde; Ergänzung ersetzt nun ausschließlich Bestandsobjekte. Erweiterung älterer Spielstände mit ein bis sieben Paketen geprüft. Sieben historische Importberichte nach Inhaltsvergleich nur bezüglich Testzeitstempel zurückgesetzt.
+
+Rohdateien bytegleich zu den gelieferten SHA-256-Prüfsummen; keine Änderungen an bestehenden Rohquellen, Supabase-Migrationen oder echten Nutzerdaten. Keine erneute unabhängige Faktenprüfung der Filmsätze und keine physische iPhone-/PWA-Abnahme. Arthouse und die fehlenden Pakete bleiben offen.

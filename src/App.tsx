@@ -42,6 +42,7 @@ import { BadgeIcon, GenreArtwork } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
 import { answeredTopics } from "./collection";
+import { CLASSICS, categoryTopic, isClassic, matchesTopic } from "./categories";
 import { discoveryContext } from "./discovery";
 import { LearningPath } from "./LearningPathPanel";
 import { UnlockCelebration } from "./UnlockCelebration";
@@ -84,19 +85,6 @@ const modeNames: Record<Mode, string> = {
 };
 const formatDate = (at: number) =>
   new Date(at).toLocaleDateString("de-DE", { day: "numeric", month: "short" });
-function Planet({ small = false }: { small?: boolean }) {
-  return (
-    <div className={`planet-art ${small ? "small" : ""}`} aria-hidden="true">
-      <div className="orbit orbit-one" />
-      <div className="planet" />
-      <div className="orbit orbit-two" />
-      <span className="star star-one">✦</span>
-      <span className="star star-two">✧</span>
-      <span className="moon" />
-      <span className="coordinates">51° N / UNBEGRENZTE NEUGIER</span>
-    </div>
-  );
-}
 function Pill({ children }: { children: ReactNode }) {
   return <span className="pill">{children}</span>;
 }
@@ -113,17 +101,22 @@ function TopicCard({
   onFavorite?: () => void;
   genre?: boolean;
 }) {
-  const cardGenres = genre
-    ? [topic]
-    : [
-        ...new Set(
-          state.questions.filter((q) => q.topic === topic).map(genreOf),
-        ),
-      ].sort();
+  const cardGenres =
+    topic === CLASSICS
+      ? [CLASSICS]
+      : genre
+        ? [topic]
+        : [
+            ...new Set(
+              state.questions
+                .filter((q) => matchesTopic(q, topic))
+                .map(genreOf),
+            ),
+          ].sort();
   const ids = [
     ...new Set(
       state.questions
-        .filter((q) => (genre ? genreOf(q) === topic : q.topic === topic))
+        .filter((q) => (genre ? genreOf(q) === topic : matchesTopic(q, topic)))
         .map((q) => q.knowledgeId),
     ),
   ];
@@ -179,7 +172,12 @@ function TopicCard({
           Ziel: {ids.length} vorhandene Wissensziele festigen
         </p>
         <button className="text-button" onClick={onPlay}>
-          {genre ? "Genre auswählen" : "Thema spielen"} <span>↗</span>
+          {genre
+            ? "Genre auswählen"
+            : topic === CLASSICS
+              ? "Classics spielen"
+              : "Thema spielen"}{" "}
+          <span>↗</span>
         </button>
       </div>
     </article>
@@ -204,6 +202,7 @@ export function App({
   const [busy, setBusy] = useState(false);
   const [mode, setMode] = useState<Mode>("entdecken");
   const [topic, setTopic] = useState("Alle Themen");
+  const [classicsOnly, setClassicsOnly] = useState(false);
   const [selectedGenres, setSelectedGenres] = useState<string[] | null>(null);
   const [selectedDifficulties, setSelectedDifficulties] = useState<
     Difficulty[]
@@ -321,11 +320,16 @@ export function App({
   const genres = [...new Set(state.questions.map(genreOf))].sort();
   const filters = {
     genres: selectedGenres ?? genres,
-    difficulties: selectedDifficulties,
+    difficulties: state.settings.allDifficulties
+      ? selectedDifficulties
+      : [...difficulties],
   };
   const availableTopics = topics.filter((t) =>
     state.questions.some(
-      (q) => q.topic === t && filters.genres.includes(genreOf(q)),
+      (q) =>
+        q.topic === t &&
+        filters.genres.includes(genreOf(q)) &&
+        (!classicsOnly || isClassic(q)),
     ),
   );
   const toggleGenre = (genre: string) => {
@@ -337,6 +341,7 @@ export function App({
     setTopic("Alle Themen");
   };
   const playGenre = (genre: string) => {
+    setClassicsOnly(false);
     setSelectedGenres([genre]);
     setTopic("Alle Themen");
     setPage("home");
@@ -345,12 +350,13 @@ export function App({
   const active = state.rounds.find((r) => r.status === "active");
   const current = state.rounds.find((r) => r.id === roundId);
   const targetSize = completed.length ? 10 : 5;
+  const roundTopic = categoryTopic(topic, classicsOnly);
   const selection = selectQuestions(
     pathQuestions(state),
     state.learning,
     {
       mode,
-      topic,
+      topic: roundTopic,
       difficulty: "Alle Stufen",
       filters,
       size: targetSize,
@@ -366,7 +372,7 @@ export function App({
       s.settings.spoilers = true;
       id = startRound(s, {
         mode,
-        topic,
+        topic: roundTopic,
         difficulty: "Alle Stufen",
         filters,
       }).id;
@@ -387,6 +393,7 @@ export function App({
     }
   };
   const playTopic = (t: string) => {
+    setClassicsOnly(false);
     setSelectedGenres([
       ...new Set(state.questions.filter((q) => q.topic === t).map(genreOf)),
     ]);
@@ -493,50 +500,19 @@ export function App({
           )}
           {page === "home" && (
             <>
-              <div className="page-heading">
-                <div>
-                  <span className="eyebrow">DEINE KLEINE AUSZEIT</span>
-                  <h1>
-                    Neugier? <em>Film ab.</em>
-                  </h1>
-                </div>
-                <Pill>
-                  ✦{" "}
-                  {completed.length
-                    ? "Schön, dass Du wieder da bist"
-                    : "Ohne Konto. Einfach loslegen."}
-                </Pill>
-              </div>
-              <section className="hero">
-                <div className="hero-copy">
-                  <span className="eyebrow accent">
-                    ENTDECKE DEINEN FILMKOSMOS
-                  </span>
-                  <h2>
-                    Gute Fragen.
-                    <br />
-                    Neue Perspektiven.
-                  </h2>
-                  <p>
-                    Reise durch fremde Welten, entdecke die Ideen dahinter – und
-                    nimm bei jeder Runde etwas mit.
+              <header className="play-heading">
+                <h1>
+                  {completed.length ? "Deine nächste Runde" : "Dein Filmquiz"}
+                </h1>
+                {!completed.length && (
+                  <p className="muted">
+                    Entdecke Filmwissen – in Deinem Tempo.
                   </p>
-                  <div className="hero-facts">
-                    <span>◷ Ohne Zeitdruck möglich</span>
-                    <span>✧ Wissen, das bleibt</span>
-                  </div>
-                </div>
-                <Planet />
-              </section>
+                )}
+              </header>
               <section className="round-setup" aria-label="Runde vorbereiten">
                 <div className="section-title">
                   <h2>Wie möchtest Du spielen?</h2>
-                  <span className="muted">
-                    {completed.length
-                      ? "Deine nächste Runde"
-                      : "Deine erste Runde"}{" "}
-                    · {selection.length} Fragen
-                  </span>
                 </div>
                 <div className="mode-grid">
                   {(["entdecken", "ueben", "rekord"] as Mode[]).map((m, i) => (
@@ -561,129 +537,58 @@ export function App({
                     </button>
                   ))}
                 </div>
-                {mode === "rekord" && (
-                  <button
-                    className="text-button"
-                    onClick={() => setPage("leaderboard")}
-                  >
-                    Bestenliste ansehen →
-                  </button>
-                )}
-                <LearningPath
-                  state={state}
-                  genres={filters.genres}
-                  busy={busy}
-                  onChange={(enabled) => {
-                    void mutate((s) => {
-                      s.settings.allDifficulties = enabled;
-                    });
-                  }}
-                />
-                <div className="setup-bottom">
-                  <div className="quiz-filters">
-                    <fieldset>
-                      <legend>Filmgenres</legend>
-                      <p className="muted tiny">
-                        Ein oder mehrere Genres kombinieren.
-                      </p>
-                      <div className="filter-options">
-                        {genres.map((g) => (
-                          <label className="filter-choice" key={g}>
-                            <input
-                              type="checkbox"
-                              checked={filters.genres.includes(g)}
-                              onChange={() => toggleGenre(g)}
-                            />
-                            <GenreArtwork genre={g} compact />
-                            <span>{genreLabel(g)}</span>
-                          </label>
-                        ))}
-                      </div>
-                      <button
-                        className="text-button"
-                        onClick={() => {
-                          setSelectedGenres(null);
-                          setTopic("Alle Themen");
-                        }}
-                      >
-                        Alle Genres auswählen
-                      </button>
-                      <button
-                        className="text-button"
-                        onClick={() => {
-                          setSelectedGenres([]);
-                          setTopic("Alle Themen");
-                        }}
-                      >
-                        Alle Genres abwählen
-                      </button>
-                    </fieldset>
-                    <fieldset>
-                      <legend>Schwierigkeitsstufen</legend>
-                      {!state.settings.allDifficulties && (
-                        <p className="tiny muted">
-                          Gesperrte Stufen werden je Genre ausgelassen. Wähle
-                          Leicht, um mit einem neuen Genre zu beginnen.
-                        </p>
-                      )}
-                      <div className="filter-options">
-                        {difficulties.map((d) => (
-                          <label className="filter-choice" key={d}>
-                            <input
-                              type="checkbox"
-                              checked={selectedDifficulties.includes(d)}
-                              onChange={() =>
-                                setSelectedDifficulties(
-                                  selectedDifficulties.includes(d)
-                                    ? selectedDifficulties.filter(
-                                        (x) => x !== d,
-                                      )
-                                    : [...selectedDifficulties, d],
-                                )
-                              }
-                            />
-                            <span>{difficultyLabel(d)}</span>
-                          </label>
-                        ))}
-                      </div>
-                      <button
-                        className="text-button"
-                        onClick={() =>
-                          setSelectedDifficulties([...difficulties])
-                        }
-                      >
-                        Alle Stufen auswählen
-                      </button>
-                    </fieldset>
-                    <details
-                      className="fine-filter"
-                      open={topic !== "Alle Themen" ? true : undefined}
-                    >
-                      <summary>
-                        Optional: einzelne Filme oder Filmreihen
-                      </summary>
-                      <label>
-                        Thema wählen
-                        <select
-                          value={topic}
-                          onChange={(e) => setTopic(e.target.value)}
-                        >
-                          <option>Alle Themen</option>
-                          {availableTopics.map((t) => (
-                            <option key={t}>{t}</option>
-                          ))}
-                        </select>
-                      </label>
-                    </details>
-                  </div>
+
+                <div className="round-start">
                   <button
                     className="primary"
                     disabled={busy || !selection.length || !!active}
                     onClick={() => void begin()}
+                    aria-describedby="round-summary"
                   >
                     Losspielen <span>→</span>
                   </button>
+                  <p
+                    id="round-summary"
+                    className="tiny muted"
+                    aria-live="polite"
+                  >
+                    {filters.genres.length === genres.length
+                      ? "Alle Genres"
+                      : filters.genres.length
+                        ? filters.genres.map(genreLabel).join(" + ")
+                        : "Kein Genre"}
+                    {" · "}
+                    {selection.length} Fragen{" · "}
+                    {state.settings.allDifficulties
+                      ? "Freie Auswahl: " +
+                        (selectedDifficulties.length
+                          ? selectedDifficulties
+                              .map(difficultyLabel)
+                              .join(" + ")
+                          : "keine Stufe")
+                      : "Lernpfad"}
+                    {roundTopic !== "Alle Themen" && " · " + roundTopic}
+                  </p>
                 </div>
+                {active && (
+                  <div className="resume notice">
+                    <span>Deine begonnene Runde wartet auf Dich.</span>
+                    <button onClick={resume}>Fortsetzen →</button>
+                    <button
+                      className="text-button"
+                      onClick={() =>
+                        void mutate((s) => {
+                          const r = s.rounds.find((r) => r.id === active.id)!;
+                          r.status = "aborted";
+                          r.finishedAt = Date.now();
+                        })
+                      }
+                    >
+                      Runde beenden
+                    </button>
+                  </div>
+                )}
+
                 <p className="spoiler-note">
                   Hinweis: Filmfragen können Handlung verraten. Du startest mit{" "}
                   {selection.length} unterschiedlichen Wissenszielen.
@@ -704,24 +609,148 @@ export function App({
                     </p>
                   )
                 )}
-                {active && (
-                  <div className="resume notice">
-                    <span>Deine begonnene Runde wartet auf Dich.</span>
-                    <button onClick={resume}>Fortsetzen →</button>
+
+                <div className="quiz-filters">
+                  <fieldset>
+                    <legend>Filmgenres</legend>
+                    <p className="muted tiny">
+                      Ein oder mehrere Genres kombinieren.
+                    </p>
+                    <div className="filter-options genre-options">
+                      {genres.map((g) => (
+                        <label className="filter-choice" key={g}>
+                          <input
+                            type="checkbox"
+                            checked={filters.genres.includes(g)}
+                            onChange={() => toggleGenre(g)}
+                          />
+                          <GenreArtwork genre={g} compact />
+                          <span>{genreLabel(g)}</span>
+                        </label>
+                      ))}
+                    </div>
                     <button
                       className="text-button"
-                      onClick={() =>
-                        void mutate((s) => {
-                          const r = s.rounds.find((r) => r.id === active.id)!;
-                          r.status = "aborted";
-                          r.finishedAt = Date.now();
-                        })
-                      }
+                      onClick={() => {
+                        setSelectedGenres(null);
+                        setTopic("Alle Themen");
+                      }}
                     >
-                      Runde beenden
+                      Alle Genres auswählen
                     </button>
-                  </div>
-                )}
+                    <button
+                      className="text-button"
+                      onClick={() => {
+                        setSelectedGenres([]);
+                        setTopic("Alle Themen");
+                      }}
+                    >
+                      Alle Genres abwählen
+                    </button>
+                  </fieldset>
+                  <fieldset>
+                    <legend>Zusätzliche Kategorie</legend>
+                    <label className="filter-choice">
+                      <input
+                        type="checkbox"
+                        checked={classicsOnly}
+                        onChange={(e) => {
+                          setClassicsOnly(e.target.checked);
+                          setTopic("Alle Themen");
+                        }}
+                      />
+                      <GenreArtwork genre={CLASSICS} compact />
+                      Nur Classics
+                    </label>
+                    <p className="tiny muted">
+                      Kuratierte Klassiker aus Deinen ausgewählten Genres.
+                      Dieselben Fragen, derselbe Lernfortschritt.
+                    </p>
+                  </fieldset>
+                  <details
+                    className="difficulty-options"
+                    open={state.settings.allDifficulties || undefined}
+                  >
+                    <summary>Schwierigkeit selbst wählen</summary>
+                    <p className="tiny muted">
+                      Im Lernpfad wählt die App aus Deinen freigeschalteten
+                      Stufen je Genre. Hier kannst Du stattdessen frei wählen.
+                    </p>
+                    <label className="filter-choice">
+                      <input
+                        type="checkbox"
+                        checked={state.settings.allDifficulties === true}
+                        disabled={busy}
+                        onChange={(e) => {
+                          const enabled = e.target.checked;
+                          void mutate((s) => {
+                            s.settings.allDifficulties = enabled;
+                          });
+                        }}
+                      />
+                      Alle Schwierigkeitsstufen freigeben
+                    </label>
+                    {state.settings.allDifficulties && (
+                      <>
+                        <p className="tiny muted">
+                          Freie Auswahl: Alle Stufen stehen Dir zur Wahl.
+                          Sichere Antworten zählen weiterhin für Deinen
+                          Lernpfad.
+                        </p>
+                        <fieldset>
+                          <legend>Schwierigkeitsstufen</legend>
+                          <div className="filter-options">
+                            {difficulties.map((d) => (
+                              <label className="filter-choice" key={d}>
+                                <input
+                                  type="checkbox"
+                                  checked={selectedDifficulties.includes(d)}
+                                  onChange={() =>
+                                    setSelectedDifficulties(
+                                      selectedDifficulties.includes(d)
+                                        ? selectedDifficulties.filter(
+                                            (x) => x !== d,
+                                          )
+                                        : [...selectedDifficulties, d],
+                                    )
+                                  }
+                                />
+                                <span>{difficultyLabel(d)}</span>
+                              </label>
+                            ))}
+                          </div>
+                          <button
+                            className="text-button"
+                            onClick={() =>
+                              setSelectedDifficulties([...difficulties])
+                            }
+                          >
+                            Alle Stufen auswählen
+                          </button>
+                        </fieldset>
+                      </>
+                    )}
+                  </details>
+                  <LearningPath state={state} genres={filters.genres} />
+                  <details
+                    className="fine-filter"
+                    open={topic !== "Alle Themen" ? true : undefined}
+                  >
+                    <summary>Optional: einzelne Filme oder Filmreihen</summary>
+                    <label>
+                      Thema wählen
+                      <select
+                        value={topic}
+                        onChange={(e) => setTopic(e.target.value)}
+                      >
+                        <option>Alle Themen</option>
+                        {availableTopics.map((t) => (
+                          <option key={t}>{t}</option>
+                        ))}
+                      </select>
+                    </label>
+                  </details>
+                </div>
               </section>
               <section className="journey-strip">
                 <span className="journey-icon">✺</span>
@@ -783,6 +812,16 @@ export function App({
                 und Schwierigkeitsstufen kombinieren.
               </p>
               <div className="topic-grid">
+                <TopicCard
+                  topic={CLASSICS}
+                  state={state}
+                  onPlay={() => {
+                    setClassicsOnly(true);
+                    setSelectedGenres(null);
+                    setTopic("Alle Themen");
+                    setPage("home");
+                  }}
+                />
                 {genres.map((t) => (
                   <TopicCard
                     key={t}

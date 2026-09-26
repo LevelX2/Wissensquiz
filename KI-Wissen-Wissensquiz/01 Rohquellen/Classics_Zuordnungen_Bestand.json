@@ -1,0 +1,4578 @@
+{
+  "schema": "quiz-category-tag-additions/v1",
+  "created_date": "2026-09-26",
+  "category": "Classics",
+  "status": "prepared_not_applied",
+  "scope": "Explizite erste redaktionelle Auswahl aus den neun vorhandenen 180er-Paketen. Keine automatische Altersregel und keine vollständige Kanonliste.",
+  "operation": {
+    "type": "add_tags_by_question_id",
+    "add_topic_tags": [
+      "Classics"
+    ],
+    "add_badge_tags": [
+      "Classics"
+    ],
+    "tag_merge": "ordered_set_union",
+    "create_missing_questions": false,
+    "change_question_id": false,
+    "change_knowledge_id": false,
+    "change_variant_of": false,
+    "change_subdomain": false,
+    "touch_learning_progress": false
+  },
+  "matching_rules": [
+    "question_id muss bereits vorhanden sein.",
+    "knowledge_id, variant_of, film_title_original und film_year mit der Referenz abgleichen; Abweichungen melden.",
+    "Nur topic_tags und badge_tags um Classics ergänzen, nie vorhandene Tags ersetzen.",
+    "Fehlende oder abweichende Datensätze überspringen und protokollieren; keine neuen Fragen daraus erzeugen.",
+    "Für Anzeige und Auswertung weiterhin dieselben question_id und knowledge_id verwenden."
+  ],
+  "source_files": [
+    {
+      "filename": "Western_Quiz_180_Fragen.csv",
+      "sha256": "3e60cfd8cf5cf1e4ae58c08db2cd086a7fda45fe1c15869a0f8c38fc1ea944af",
+      "selected_entries": 105,
+      "selected_films": 15
+    },
+    {
+      "filename": "Drama_Quiz_180_Fragen.csv",
+      "sha256": "62262f8338959dc79b9714c7bc9480005ae56de4ee21f780813c1150d599fc4f",
+      "selected_entries": 27,
+      "selected_films": 4
+    },
+    {
+      "filename": "Horror_Quiz_180_Fragen.csv",
+      "sha256": "dd3d2c14fa779dc08e0ba87a89cb8f0112fd0ac33f8ff496ec5b43b3249a6e1d",
+      "selected_entries": 48,
+      "selected_films": 7
+    },
+    {
+      "filename": "SciFi_Quiz_180_Fragen.csv",
+      "sha256": "e928647423f3781bdbcc6e17b2ab0c35fad38d76483e3470ddc312f7d8bdf968",
+      "selected_entries": 9,
+      "selected_films": 2
+    },
+    {
+      "filename": "RomCom_Quiz_180_Fragen.csv",
+      "sha256": "b8d1fe55b82369a24c1d1b30ac801fd9a4131d2130d8f116819695a827a3d3ae",
+      "selected_entries": 12,
+      "selected_films": 1
+    },
+    {
+      "filename": "Action_Quiz_180_Fragen.csv",
+      "sha256": "a96725f37c330014f5424a4552f2963b79c485debb5b88a559dfc35082fb8163",
+      "selected_entries": 12,
+      "selected_films": 1
+    },
+    {
+      "filename": "Komoedie_Quiz_180_Fragen.csv",
+      "sha256": "d29175f15adab894008837d94de0cc63f76986c62ac8e1f042fccf235f225871",
+      "selected_entries": 24,
+      "selected_films": 3
+    },
+    {
+      "filename": "MartialArts_Quiz_180_Fragen.csv",
+      "sha256": "ebc619048ce638866e2f40679200b3ee6e1d3e4c234805264d4687830d13961b",
+      "selected_entries": 21,
+      "selected_films": 3
+    }
+  ],
+  "films": [
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Der Scharfschütze",
+      "film_title_original": "The Gunfighter",
+      "film_year": "1950",
+      "subdomain": "Western",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Der Mann, der Liberty Valance erschoss",
+      "film_title_original": "The Man Who Shot Liberty Valance",
+      "film_year": "1962",
+      "subdomain": "Western",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Für eine Handvoll Dollar",
+      "film_title_original": "Per un pugno di dollari",
+      "film_year": "1964",
+      "subdomain": "Western",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Für ein paar Dollar mehr",
+      "film_title_original": "Per qualche dollaro in più",
+      "film_year": "1965",
+      "subdomain": "Western",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Zwei glorreiche Halunken",
+      "film_title_original": "Il buono, il brutto, il cattivo",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Django",
+      "film_title_original": "Django",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "El Dorado",
+      "film_title_original": "El Dorado",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Spiel mir das Lied vom Tod",
+      "film_title_original": "C'era una volta il West",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Leichen pflastern seinen Weg",
+      "film_title_original": "Il grande silenzio",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Butch Cassidy und Sundance Kid",
+      "film_title_original": "Butch Cassidy and the Sundance Kid",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "The Wild Bunch – Sie kannten kein Gesetz",
+      "film_title_original": "The Wild Bunch",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Todesmelodie",
+      "film_title_original": "Giù la testa",
+      "film_year": "1971",
+      "subdomain": "Western",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Jeremiah Johnson",
+      "film_title_original": "Jeremiah Johnson",
+      "film_year": "1972",
+      "subdomain": "Western",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Mein Name ist Nobody",
+      "film_title_original": "Il mio nome è Nessuno",
+      "film_year": "1973",
+      "subdomain": "Western",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "film_title_de": "Der Texaner",
+      "film_title_original": "The Outlaw Josey Wales",
+      "film_year": "1976",
+      "subdomain": "Western",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus klassischem US-Western, Italowestern und Spätwestern; prägende Erzählweisen und Figurenbilder."
+    },
+    {
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "film_title_de": "Der Pate",
+      "film_title_original": "The Godfather",
+      "film_year": "1972",
+      "subdomain": "Drama",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl markanter amerikanischer Dramen der 1970er Jahre, einschließlich New Hollywood und Familiendrama."
+    },
+    {
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "film_title_de": "Einer flog über das Kuckucksnest",
+      "film_title_original": "One Flew Over the Cuckoo's Nest",
+      "film_year": "1975",
+      "subdomain": "Drama",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl markanter amerikanischer Dramen der 1970er Jahre, einschließlich New Hollywood und Familiendrama."
+    },
+    {
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl markanter amerikanischer Dramen der 1970er Jahre, einschließlich New Hollywood und Familiendrama."
+    },
+    {
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "film_title_de": "Kramer gegen Kramer",
+      "film_title_original": "Kramer vs. Kramer",
+      "film_year": "1979",
+      "subdomain": "Drama",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl markanter amerikanischer Dramen der 1970er Jahre, einschließlich New Hollywood und Familiendrama."
+    },
+    {
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "film_title_de": "Psycho",
+      "film_title_original": "Psycho",
+      "film_year": "1960",
+      "subdomain": "Horror",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus psychologischem Horror, Tierhorror, Okkulthorror und frühen prägenden Slasher-/Terrorfilmen."
+    },
+    {
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "film_title_de": "Die Vögel",
+      "film_title_original": "The Birds",
+      "film_year": "1963",
+      "subdomain": "Horror",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus psychologischem Horror, Tierhorror, Okkulthorror und frühen prägenden Slasher-/Terrorfilmen."
+    },
+    {
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "film_title_de": "Der Exorzist",
+      "film_title_original": "The Exorcist",
+      "film_year": "1973",
+      "subdomain": "Horror",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus psychologischem Horror, Tierhorror, Okkulthorror und frühen prägenden Slasher-/Terrorfilmen."
+    },
+    {
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "film_title_de": "Blutgericht in Texas",
+      "film_title_original": "The Texas Chain Saw Massacre",
+      "film_year": "1974",
+      "subdomain": "Horror",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus psychologischem Horror, Tierhorror, Okkulthorror und frühen prägenden Slasher-/Terrorfilmen."
+    },
+    {
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "film_title_de": "Carrie – Des Satans jüngste Tochter",
+      "film_title_original": "Carrie",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus psychologischem Horror, Tierhorror, Okkulthorror und frühen prägenden Slasher-/Terrorfilmen."
+    },
+    {
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "film_title_de": "Das Omen",
+      "film_title_original": "The Omen",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus psychologischem Horror, Tierhorror, Okkulthorror und frühen prägenden Slasher-/Terrorfilmen."
+    },
+    {
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "entries": 12,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl aus psychologischem Horror, Tierhorror, Okkulthorror und frühen prägenden Slasher-/Terrorfilmen."
+    },
+    {
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "film_title_de": "Alien – Das unheimliche Wesen aus einer fremden Welt",
+      "film_title_original": "Alien",
+      "film_year": "1979",
+      "subdomain": "Science-Fiction",
+      "entries": 6,
+      "knowledge_targets": 3,
+      "selection_note": "Zwei prägende Studioproduktionen der späten 1970er Jahre: Weltraumabenteuer und Weltraumhorror."
+    },
+    {
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "film_title_de": "Star Wars: Episode IV – Eine neue Hoffnung",
+      "film_title_original": "Star Wars",
+      "film_year": "1977",
+      "subdomain": "Science-Fiction",
+      "entries": 3,
+      "knowledge_targets": 3,
+      "selection_note": "Zwei prägende Studioproduktionen der späten 1970er Jahre: Weltraumabenteuer und Weltraumhorror."
+    },
+    {
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "entries": 12,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl eines klassischen Hollywood-Liebesfilms mit Audrey Hepburn und Gregory Peck."
+    },
+    {
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "entries": 12,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl eines frühen Bond-Films mit besonders wiedererkennbaren Motiven der Reihe."
+    },
+    {
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl von Genreparodie und Monty-Python-Komödie als eigenständigen Klassikertraditionen."
+    },
+    {
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "film_title_de": "Die Ritter der Kokosnuss",
+      "film_title_original": "Monty Python and the Holy Grail",
+      "film_year": "1975",
+      "subdomain": "Komödie",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl von Genreparodie und Monty-Python-Komödie als eigenständigen Klassikertraditionen."
+    },
+    {
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "film_title_de": "Das Leben des Brian",
+      "film_title_original": "Monty Python's Life of Brian",
+      "film_year": "1979",
+      "subdomain": "Komödie",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl von Genreparodie und Monty-Python-Komödie als eigenständigen Klassikertraditionen."
+    },
+    {
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "film_title_de": "Der Mann mit der Todeskralle",
+      "film_title_original": "Enter the Dragon",
+      "film_year": "1973",
+      "subdomain": "Martial Arts & Asia-Film",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl von Bruce-Lee-Film, Kung-Fu-Komödie und Shaolin-Ausbildungsfilm."
+    },
+    {
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "film_title_de": "Drunken Master – The Beginning",
+      "film_title_original": "Drunken Master",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl von Bruce-Lee-Film, Kung-Fu-Komödie und Shaolin-Ausbildungsfilm."
+    },
+    {
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "film_title_de": "Die 36 Kammern der Shaolin",
+      "film_title_original": "The 36th Chamber of Shaolin",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Auswahl von Bruce-Lee-Film, Kung-Fu-Komödie und Shaolin-Ausbildungsfilm."
+    }
+  ],
+  "entries": [
+    {
+      "question_id": "WES-L-001",
+      "knowledge_id": "K-WES-01-01",
+      "variant_of": "",
+      "film_title_de": "Für eine Handvoll Dollar",
+      "film_title_original": "Per un pugno di dollari",
+      "film_year": "1964",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-002",
+      "knowledge_id": "K-WES-01-02",
+      "variant_of": "",
+      "film_title_de": "Für eine Handvoll Dollar",
+      "film_title_original": "Per un pugno di dollari",
+      "film_year": "1964",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-001",
+      "knowledge_id": "K-WES-01-03",
+      "variant_of": "",
+      "film_title_de": "Für eine Handvoll Dollar",
+      "film_title_original": "Per un pugno di dollari",
+      "film_year": "1964",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-002",
+      "knowledge_id": "K-WES-01-04",
+      "variant_of": "",
+      "film_title_de": "Für eine Handvoll Dollar",
+      "film_title_original": "Per un pugno di dollari",
+      "film_year": "1964",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-001",
+      "knowledge_id": "K-WES-01-05",
+      "variant_of": "",
+      "film_title_de": "Für eine Handvoll Dollar",
+      "film_title_original": "Per un pugno di dollari",
+      "film_year": "1964",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-002",
+      "knowledge_id": "K-WES-01-06",
+      "variant_of": "",
+      "film_title_de": "Für eine Handvoll Dollar",
+      "film_title_original": "Per un pugno di dollari",
+      "film_year": "1964",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-003",
+      "knowledge_id": "K-WES-02-01",
+      "variant_of": "",
+      "film_title_de": "Für ein paar Dollar mehr",
+      "film_title_original": "Per qualche dollaro in più",
+      "film_year": "1965",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-004",
+      "knowledge_id": "K-WES-02-02",
+      "variant_of": "",
+      "film_title_de": "Für ein paar Dollar mehr",
+      "film_title_original": "Per qualche dollaro in più",
+      "film_year": "1965",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-003",
+      "knowledge_id": "K-WES-02-03",
+      "variant_of": "",
+      "film_title_de": "Für ein paar Dollar mehr",
+      "film_title_original": "Per qualche dollaro in più",
+      "film_year": "1965",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-004",
+      "knowledge_id": "K-WES-02-04",
+      "variant_of": "",
+      "film_title_de": "Für ein paar Dollar mehr",
+      "film_title_original": "Per qualche dollaro in più",
+      "film_year": "1965",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-003",
+      "knowledge_id": "K-WES-02-05",
+      "variant_of": "",
+      "film_title_de": "Für ein paar Dollar mehr",
+      "film_title_original": "Per qualche dollaro in più",
+      "film_year": "1965",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-004",
+      "knowledge_id": "K-WES-02-06",
+      "variant_of": "",
+      "film_title_de": "Für ein paar Dollar mehr",
+      "film_title_original": "Per qualche dollaro in più",
+      "film_year": "1965",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-005",
+      "knowledge_id": "K-WES-03-01",
+      "variant_of": "",
+      "film_title_de": "Zwei glorreiche Halunken",
+      "film_title_original": "Il buono, il brutto, il cattivo",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-006",
+      "knowledge_id": "K-WES-03-02",
+      "variant_of": "",
+      "film_title_de": "Zwei glorreiche Halunken",
+      "film_title_original": "Il buono, il brutto, il cattivo",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-005",
+      "knowledge_id": "K-WES-03-03",
+      "variant_of": "",
+      "film_title_de": "Zwei glorreiche Halunken",
+      "film_title_original": "Il buono, il brutto, il cattivo",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-006",
+      "knowledge_id": "K-WES-03-04",
+      "variant_of": "",
+      "film_title_de": "Zwei glorreiche Halunken",
+      "film_title_original": "Il buono, il brutto, il cattivo",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-005",
+      "knowledge_id": "K-WES-03-05",
+      "variant_of": "",
+      "film_title_de": "Zwei glorreiche Halunken",
+      "film_title_original": "Il buono, il brutto, il cattivo",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-006",
+      "knowledge_id": "K-WES-03-06",
+      "variant_of": "",
+      "film_title_de": "Zwei glorreiche Halunken",
+      "film_title_original": "Il buono, il brutto, il cattivo",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-007",
+      "knowledge_id": "K-WES-04-01",
+      "variant_of": "",
+      "film_title_de": "Spiel mir das Lied vom Tod",
+      "film_title_original": "C'era una volta il West",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-008",
+      "knowledge_id": "K-WES-04-02",
+      "variant_of": "",
+      "film_title_de": "Spiel mir das Lied vom Tod",
+      "film_title_original": "C'era una volta il West",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-007",
+      "knowledge_id": "K-WES-04-03",
+      "variant_of": "",
+      "film_title_de": "Spiel mir das Lied vom Tod",
+      "film_title_original": "C'era una volta il West",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-008",
+      "knowledge_id": "K-WES-04-04",
+      "variant_of": "",
+      "film_title_de": "Spiel mir das Lied vom Tod",
+      "film_title_original": "C'era una volta il West",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-007",
+      "knowledge_id": "K-WES-04-05",
+      "variant_of": "",
+      "film_title_de": "Spiel mir das Lied vom Tod",
+      "film_title_original": "C'era una volta il West",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-008",
+      "knowledge_id": "K-WES-04-06",
+      "variant_of": "",
+      "film_title_de": "Spiel mir das Lied vom Tod",
+      "film_title_original": "C'era una volta il West",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-009",
+      "knowledge_id": "K-WES-05-01",
+      "variant_of": "",
+      "film_title_de": "Todesmelodie",
+      "film_title_original": "Giù la testa",
+      "film_year": "1971",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-010",
+      "knowledge_id": "K-WES-05-02",
+      "variant_of": "",
+      "film_title_de": "Todesmelodie",
+      "film_title_original": "Giù la testa",
+      "film_year": "1971",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-009",
+      "knowledge_id": "K-WES-05-03",
+      "variant_of": "",
+      "film_title_de": "Todesmelodie",
+      "film_title_original": "Giù la testa",
+      "film_year": "1971",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-010",
+      "knowledge_id": "K-WES-05-04",
+      "variant_of": "",
+      "film_title_de": "Todesmelodie",
+      "film_title_original": "Giù la testa",
+      "film_year": "1971",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-009",
+      "knowledge_id": "K-WES-05-05",
+      "variant_of": "",
+      "film_title_de": "Todesmelodie",
+      "film_title_original": "Giù la testa",
+      "film_year": "1971",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-010",
+      "knowledge_id": "K-WES-05-06",
+      "variant_of": "",
+      "film_title_de": "Todesmelodie",
+      "film_title_original": "Giù la testa",
+      "film_year": "1971",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-011",
+      "knowledge_id": "K-WES-06-01",
+      "variant_of": "",
+      "film_title_de": "Django",
+      "film_title_original": "Django",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-012",
+      "knowledge_id": "K-WES-06-02",
+      "variant_of": "",
+      "film_title_de": "Django",
+      "film_title_original": "Django",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-011",
+      "knowledge_id": "K-WES-06-03",
+      "variant_of": "",
+      "film_title_de": "Django",
+      "film_title_original": "Django",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-012",
+      "knowledge_id": "K-WES-06-04",
+      "variant_of": "",
+      "film_title_de": "Django",
+      "film_title_original": "Django",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-011",
+      "knowledge_id": "K-WES-06-05",
+      "variant_of": "",
+      "film_title_de": "Django",
+      "film_title_original": "Django",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-012",
+      "knowledge_id": "K-WES-06-06",
+      "variant_of": "",
+      "film_title_de": "Django",
+      "film_title_original": "Django",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-013",
+      "knowledge_id": "K-WES-07-01",
+      "variant_of": "",
+      "film_title_de": "Mein Name ist Nobody",
+      "film_title_original": "Il mio nome è Nessuno",
+      "film_year": "1973",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-014",
+      "knowledge_id": "K-WES-07-02",
+      "variant_of": "",
+      "film_title_de": "Mein Name ist Nobody",
+      "film_title_original": "Il mio nome è Nessuno",
+      "film_year": "1973",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-013",
+      "knowledge_id": "K-WES-07-03",
+      "variant_of": "",
+      "film_title_de": "Mein Name ist Nobody",
+      "film_title_original": "Il mio nome è Nessuno",
+      "film_year": "1973",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-014",
+      "knowledge_id": "K-WES-07-04",
+      "variant_of": "",
+      "film_title_de": "Mein Name ist Nobody",
+      "film_title_original": "Il mio nome è Nessuno",
+      "film_year": "1973",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-013",
+      "knowledge_id": "K-WES-07-05",
+      "variant_of": "",
+      "film_title_de": "Mein Name ist Nobody",
+      "film_title_original": "Il mio nome è Nessuno",
+      "film_year": "1973",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-014",
+      "knowledge_id": "K-WES-07-06",
+      "variant_of": "",
+      "film_title_de": "Mein Name ist Nobody",
+      "film_title_original": "Il mio nome è Nessuno",
+      "film_year": "1973",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-017",
+      "knowledge_id": "K-WES-09-01",
+      "variant_of": "",
+      "film_title_de": "Der Texaner",
+      "film_title_original": "The Outlaw Josey Wales",
+      "film_year": "1976",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-018",
+      "knowledge_id": "K-WES-09-02",
+      "variant_of": "",
+      "film_title_de": "Der Texaner",
+      "film_title_original": "The Outlaw Josey Wales",
+      "film_year": "1976",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-017",
+      "knowledge_id": "K-WES-09-03",
+      "variant_of": "",
+      "film_title_de": "Der Texaner",
+      "film_title_original": "The Outlaw Josey Wales",
+      "film_year": "1976",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-018",
+      "knowledge_id": "K-WES-09-04",
+      "variant_of": "",
+      "film_title_de": "Der Texaner",
+      "film_title_original": "The Outlaw Josey Wales",
+      "film_year": "1976",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-017",
+      "knowledge_id": "K-WES-09-05",
+      "variant_of": "",
+      "film_title_de": "Der Texaner",
+      "film_title_original": "The Outlaw Josey Wales",
+      "film_year": "1976",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-018",
+      "knowledge_id": "K-WES-09-06",
+      "variant_of": "",
+      "film_title_de": "Der Texaner",
+      "film_title_original": "The Outlaw Josey Wales",
+      "film_year": "1976",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-023",
+      "knowledge_id": "K-WES-12-01",
+      "variant_of": "",
+      "film_title_de": "The Wild Bunch – Sie kannten kein Gesetz",
+      "film_title_original": "The Wild Bunch",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-024",
+      "knowledge_id": "K-WES-12-02",
+      "variant_of": "",
+      "film_title_de": "The Wild Bunch – Sie kannten kein Gesetz",
+      "film_title_original": "The Wild Bunch",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-023",
+      "knowledge_id": "K-WES-12-03",
+      "variant_of": "",
+      "film_title_de": "The Wild Bunch – Sie kannten kein Gesetz",
+      "film_title_original": "The Wild Bunch",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-024",
+      "knowledge_id": "K-WES-12-04",
+      "variant_of": "",
+      "film_title_de": "The Wild Bunch – Sie kannten kein Gesetz",
+      "film_title_original": "The Wild Bunch",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-023",
+      "knowledge_id": "K-WES-12-05",
+      "variant_of": "",
+      "film_title_de": "The Wild Bunch – Sie kannten kein Gesetz",
+      "film_title_original": "The Wild Bunch",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-024",
+      "knowledge_id": "K-WES-12-06",
+      "variant_of": "",
+      "film_title_de": "The Wild Bunch – Sie kannten kein Gesetz",
+      "film_title_original": "The Wild Bunch",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-025",
+      "knowledge_id": "K-WES-13-01",
+      "variant_of": "",
+      "film_title_de": "Butch Cassidy und Sundance Kid",
+      "film_title_original": "Butch Cassidy and the Sundance Kid",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-026",
+      "knowledge_id": "K-WES-13-02",
+      "variant_of": "",
+      "film_title_de": "Butch Cassidy und Sundance Kid",
+      "film_title_original": "Butch Cassidy and the Sundance Kid",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-025",
+      "knowledge_id": "K-WES-13-03",
+      "variant_of": "",
+      "film_title_de": "Butch Cassidy und Sundance Kid",
+      "film_title_original": "Butch Cassidy and the Sundance Kid",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-026",
+      "knowledge_id": "K-WES-13-04",
+      "variant_of": "",
+      "film_title_de": "Butch Cassidy und Sundance Kid",
+      "film_title_original": "Butch Cassidy and the Sundance Kid",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-025",
+      "knowledge_id": "K-WES-13-05",
+      "variant_of": "",
+      "film_title_de": "Butch Cassidy und Sundance Kid",
+      "film_title_original": "Butch Cassidy and the Sundance Kid",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-026",
+      "knowledge_id": "K-WES-13-06",
+      "variant_of": "",
+      "film_title_de": "Butch Cassidy und Sundance Kid",
+      "film_title_original": "Butch Cassidy and the Sundance Kid",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-037",
+      "knowledge_id": "K-WES-19-01",
+      "variant_of": "",
+      "film_title_de": "Der Mann, der Liberty Valance erschoss",
+      "film_title_original": "The Man Who Shot Liberty Valance",
+      "film_year": "1962",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-038",
+      "knowledge_id": "K-WES-19-02",
+      "variant_of": "",
+      "film_title_de": "Der Mann, der Liberty Valance erschoss",
+      "film_title_original": "The Man Who Shot Liberty Valance",
+      "film_year": "1962",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-037",
+      "knowledge_id": "K-WES-19-03",
+      "variant_of": "",
+      "film_title_de": "Der Mann, der Liberty Valance erschoss",
+      "film_title_original": "The Man Who Shot Liberty Valance",
+      "film_year": "1962",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-038",
+      "knowledge_id": "K-WES-19-04",
+      "variant_of": "",
+      "film_title_de": "Der Mann, der Liberty Valance erschoss",
+      "film_title_original": "The Man Who Shot Liberty Valance",
+      "film_year": "1962",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-037",
+      "knowledge_id": "K-WES-19-05",
+      "variant_of": "",
+      "film_title_de": "Der Mann, der Liberty Valance erschoss",
+      "film_title_original": "The Man Who Shot Liberty Valance",
+      "film_year": "1962",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-038",
+      "knowledge_id": "K-WES-19-06",
+      "variant_of": "",
+      "film_title_de": "Der Mann, der Liberty Valance erschoss",
+      "film_title_original": "The Man Who Shot Liberty Valance",
+      "film_year": "1962",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-039",
+      "knowledge_id": "K-WES-20-01",
+      "variant_of": "",
+      "film_title_de": "El Dorado",
+      "film_title_original": "El Dorado",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-040",
+      "knowledge_id": "K-WES-20-02",
+      "variant_of": "",
+      "film_title_de": "El Dorado",
+      "film_title_original": "El Dorado",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-039",
+      "knowledge_id": "K-WES-20-03",
+      "variant_of": "",
+      "film_title_de": "El Dorado",
+      "film_title_original": "El Dorado",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-040",
+      "knowledge_id": "K-WES-20-04",
+      "variant_of": "",
+      "film_title_de": "El Dorado",
+      "film_title_original": "El Dorado",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-039",
+      "knowledge_id": "K-WES-20-05",
+      "variant_of": "",
+      "film_title_de": "El Dorado",
+      "film_title_original": "El Dorado",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-040",
+      "knowledge_id": "K-WES-20-06",
+      "variant_of": "",
+      "film_title_de": "El Dorado",
+      "film_title_original": "El Dorado",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-041",
+      "knowledge_id": "K-WES-21-01",
+      "variant_of": "",
+      "film_title_de": "Der Scharfschütze",
+      "film_title_original": "The Gunfighter",
+      "film_year": "1950",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-042",
+      "knowledge_id": "K-WES-21-02",
+      "variant_of": "",
+      "film_title_de": "Der Scharfschütze",
+      "film_title_original": "The Gunfighter",
+      "film_year": "1950",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-041",
+      "knowledge_id": "K-WES-21-03",
+      "variant_of": "",
+      "film_title_de": "Der Scharfschütze",
+      "film_title_original": "The Gunfighter",
+      "film_year": "1950",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-042",
+      "knowledge_id": "K-WES-21-04",
+      "variant_of": "",
+      "film_title_de": "Der Scharfschütze",
+      "film_title_original": "The Gunfighter",
+      "film_year": "1950",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-041",
+      "knowledge_id": "K-WES-21-05",
+      "variant_of": "",
+      "film_title_de": "Der Scharfschütze",
+      "film_title_original": "The Gunfighter",
+      "film_year": "1950",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-042",
+      "knowledge_id": "K-WES-21-06",
+      "variant_of": "",
+      "film_title_de": "Der Scharfschütze",
+      "film_title_original": "The Gunfighter",
+      "film_year": "1950",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-043",
+      "knowledge_id": "K-WES-22-01",
+      "variant_of": "",
+      "film_title_de": "Jeremiah Johnson",
+      "film_title_original": "Jeremiah Johnson",
+      "film_year": "1972",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-044",
+      "knowledge_id": "K-WES-22-02",
+      "variant_of": "",
+      "film_title_de": "Jeremiah Johnson",
+      "film_title_original": "Jeremiah Johnson",
+      "film_year": "1972",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-043",
+      "knowledge_id": "K-WES-22-03",
+      "variant_of": "",
+      "film_title_de": "Jeremiah Johnson",
+      "film_title_original": "Jeremiah Johnson",
+      "film_year": "1972",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-044",
+      "knowledge_id": "K-WES-22-04",
+      "variant_of": "",
+      "film_title_de": "Jeremiah Johnson",
+      "film_title_original": "Jeremiah Johnson",
+      "film_year": "1972",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-043",
+      "knowledge_id": "K-WES-22-05",
+      "variant_of": "",
+      "film_title_de": "Jeremiah Johnson",
+      "film_title_original": "Jeremiah Johnson",
+      "film_year": "1972",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-044",
+      "knowledge_id": "K-WES-22-06",
+      "variant_of": "",
+      "film_title_de": "Jeremiah Johnson",
+      "film_title_original": "Jeremiah Johnson",
+      "film_year": "1972",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-049",
+      "knowledge_id": "K-WES-25-01",
+      "variant_of": "",
+      "film_title_de": "Leichen pflastern seinen Weg",
+      "film_title_original": "Il grande silenzio",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-050",
+      "knowledge_id": "K-WES-25-02",
+      "variant_of": "",
+      "film_title_de": "Leichen pflastern seinen Weg",
+      "film_title_original": "Il grande silenzio",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-049",
+      "knowledge_id": "K-WES-25-03",
+      "variant_of": "",
+      "film_title_de": "Leichen pflastern seinen Weg",
+      "film_title_original": "Il grande silenzio",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-050",
+      "knowledge_id": "K-WES-25-04",
+      "variant_of": "",
+      "film_title_de": "Leichen pflastern seinen Weg",
+      "film_title_original": "Il grande silenzio",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-049",
+      "knowledge_id": "K-WES-25-05",
+      "variant_of": "",
+      "film_title_de": "Leichen pflastern seinen Weg",
+      "film_title_original": "Il grande silenzio",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-050",
+      "knowledge_id": "K-WES-25-06",
+      "variant_of": "",
+      "film_title_de": "Leichen pflastern seinen Weg",
+      "film_title_original": "Il grande silenzio",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-002-V1",
+      "knowledge_id": "K-WES-01-02",
+      "variant_of": "WES-L-002",
+      "film_title_de": "Für eine Handvoll Dollar",
+      "film_title_original": "Per un pugno di dollari",
+      "film_year": "1964",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-002-V1",
+      "knowledge_id": "K-WES-01-04",
+      "variant_of": "WES-M-002",
+      "film_title_de": "Für eine Handvoll Dollar",
+      "film_title_original": "Per un pugno di dollari",
+      "film_year": "1964",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-002-V1",
+      "knowledge_id": "K-WES-01-06",
+      "variant_of": "WES-S-002",
+      "film_title_de": "Für eine Handvoll Dollar",
+      "film_title_original": "Per un pugno di dollari",
+      "film_year": "1964",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-006-V1",
+      "knowledge_id": "K-WES-03-02",
+      "variant_of": "WES-L-006",
+      "film_title_de": "Zwei glorreiche Halunken",
+      "film_title_original": "Il buono, il brutto, il cattivo",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-006-V1",
+      "knowledge_id": "K-WES-03-04",
+      "variant_of": "WES-M-006",
+      "film_title_de": "Zwei glorreiche Halunken",
+      "film_title_original": "Il buono, il brutto, il cattivo",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-006-V1",
+      "knowledge_id": "K-WES-03-06",
+      "variant_of": "WES-S-006",
+      "film_title_de": "Zwei glorreiche Halunken",
+      "film_title_original": "Il buono, il brutto, il cattivo",
+      "film_year": "1966",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-008-V1",
+      "knowledge_id": "K-WES-04-02",
+      "variant_of": "WES-L-008",
+      "film_title_de": "Spiel mir das Lied vom Tod",
+      "film_title_original": "C'era una volta il West",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-008-V1",
+      "knowledge_id": "K-WES-04-04",
+      "variant_of": "WES-M-008",
+      "film_title_de": "Spiel mir das Lied vom Tod",
+      "film_title_original": "C'era una volta il West",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-008-V1",
+      "knowledge_id": "K-WES-04-06",
+      "variant_of": "WES-S-008",
+      "film_title_de": "Spiel mir das Lied vom Tod",
+      "film_title_original": "C'era una volta il West",
+      "film_year": "1968",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-014-V1",
+      "knowledge_id": "K-WES-07-02",
+      "variant_of": "WES-L-014",
+      "film_title_de": "Mein Name ist Nobody",
+      "film_title_original": "Il mio nome è Nessuno",
+      "film_year": "1973",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-014-V1",
+      "knowledge_id": "K-WES-07-04",
+      "variant_of": "WES-M-014",
+      "film_title_de": "Mein Name ist Nobody",
+      "film_title_original": "Il mio nome è Nessuno",
+      "film_year": "1973",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-014-V1",
+      "knowledge_id": "K-WES-07-06",
+      "variant_of": "WES-S-014",
+      "film_title_de": "Mein Name ist Nobody",
+      "film_title_original": "Il mio nome è Nessuno",
+      "film_year": "1973",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-L-026-V1",
+      "knowledge_id": "K-WES-13-02",
+      "variant_of": "WES-L-026",
+      "film_title_de": "Butch Cassidy und Sundance Kid",
+      "film_title_original": "Butch Cassidy and the Sundance Kid",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-M-026-V1",
+      "knowledge_id": "K-WES-13-04",
+      "variant_of": "WES-M-026",
+      "film_title_de": "Butch Cassidy und Sundance Kid",
+      "film_title_original": "Butch Cassidy and the Sundance Kid",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "WES-S-026-V1",
+      "knowledge_id": "K-WES-13-06",
+      "variant_of": "WES-S-026",
+      "film_title_de": "Butch Cassidy und Sundance Kid",
+      "film_title_original": "Butch Cassidy and the Sundance Kid",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "source_file": "Western_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-L-017",
+      "knowledge_id": "K-DRA-09-01",
+      "variant_of": "",
+      "film_title_de": "Einer flog über das Kuckucksnest",
+      "film_title_original": "One Flew Over the Cuckoo's Nest",
+      "film_year": "1975",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-L-018",
+      "knowledge_id": "K-DRA-09-02",
+      "variant_of": "",
+      "film_title_de": "Einer flog über das Kuckucksnest",
+      "film_title_original": "One Flew Over the Cuckoo's Nest",
+      "film_year": "1975",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-M-017",
+      "knowledge_id": "K-DRA-09-03",
+      "variant_of": "",
+      "film_title_de": "Einer flog über das Kuckucksnest",
+      "film_title_original": "One Flew Over the Cuckoo's Nest",
+      "film_year": "1975",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-M-018",
+      "knowledge_id": "K-DRA-09-04",
+      "variant_of": "",
+      "film_title_de": "Einer flog über das Kuckucksnest",
+      "film_title_original": "One Flew Over the Cuckoo's Nest",
+      "film_year": "1975",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-S-017",
+      "knowledge_id": "K-DRA-09-05",
+      "variant_of": "",
+      "film_title_de": "Einer flog über das Kuckucksnest",
+      "film_title_original": "One Flew Over the Cuckoo's Nest",
+      "film_year": "1975",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-S-018",
+      "knowledge_id": "K-DRA-09-06",
+      "variant_of": "",
+      "film_title_de": "Einer flog über das Kuckucksnest",
+      "film_title_original": "One Flew Over the Cuckoo's Nest",
+      "film_year": "1975",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-L-043",
+      "knowledge_id": "K-DRA-22-01",
+      "variant_of": "",
+      "film_title_de": "Kramer gegen Kramer",
+      "film_title_original": "Kramer vs. Kramer",
+      "film_year": "1979",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-L-044",
+      "knowledge_id": "K-DRA-22-02",
+      "variant_of": "",
+      "film_title_de": "Kramer gegen Kramer",
+      "film_title_original": "Kramer vs. Kramer",
+      "film_year": "1979",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-M-043",
+      "knowledge_id": "K-DRA-22-03",
+      "variant_of": "",
+      "film_title_de": "Kramer gegen Kramer",
+      "film_title_original": "Kramer vs. Kramer",
+      "film_year": "1979",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-M-044",
+      "knowledge_id": "K-DRA-22-04",
+      "variant_of": "",
+      "film_title_de": "Kramer gegen Kramer",
+      "film_title_original": "Kramer vs. Kramer",
+      "film_year": "1979",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-S-043",
+      "knowledge_id": "K-DRA-22-05",
+      "variant_of": "",
+      "film_title_de": "Kramer gegen Kramer",
+      "film_title_original": "Kramer vs. Kramer",
+      "film_year": "1979",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-S-044",
+      "knowledge_id": "K-DRA-22-06",
+      "variant_of": "",
+      "film_title_de": "Kramer gegen Kramer",
+      "film_title_original": "Kramer vs. Kramer",
+      "film_year": "1979",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-L-045",
+      "knowledge_id": "K-DRA-23-01",
+      "variant_of": "",
+      "film_title_de": "Der Pate",
+      "film_title_original": "The Godfather",
+      "film_year": "1972",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-L-046",
+      "knowledge_id": "K-DRA-23-02",
+      "variant_of": "",
+      "film_title_de": "Der Pate",
+      "film_title_original": "The Godfather",
+      "film_year": "1972",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-M-045",
+      "knowledge_id": "K-DRA-23-03",
+      "variant_of": "",
+      "film_title_de": "Der Pate",
+      "film_title_original": "The Godfather",
+      "film_year": "1972",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-M-046",
+      "knowledge_id": "K-DRA-23-04",
+      "variant_of": "",
+      "film_title_de": "Der Pate",
+      "film_title_original": "The Godfather",
+      "film_year": "1972",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-S-045",
+      "knowledge_id": "K-DRA-23-05",
+      "variant_of": "",
+      "film_title_de": "Der Pate",
+      "film_title_original": "The Godfather",
+      "film_year": "1972",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-S-046",
+      "knowledge_id": "K-DRA-23-06",
+      "variant_of": "",
+      "film_title_de": "Der Pate",
+      "film_title_original": "The Godfather",
+      "film_year": "1972",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-L-047",
+      "knowledge_id": "K-DRA-24-01",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-L-048",
+      "knowledge_id": "K-DRA-24-02",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-M-047",
+      "knowledge_id": "K-DRA-24-03",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-M-048",
+      "knowledge_id": "K-DRA-24-04",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-S-047",
+      "knowledge_id": "K-DRA-24-05",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-S-048",
+      "knowledge_id": "K-DRA-24-06",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-L-044-V1",
+      "knowledge_id": "K-DRA-22-02",
+      "variant_of": "DRA-L-044",
+      "film_title_de": "Kramer gegen Kramer",
+      "film_title_original": "Kramer vs. Kramer",
+      "film_year": "1979",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-M-044-V1",
+      "knowledge_id": "K-DRA-22-04",
+      "variant_of": "DRA-M-044",
+      "film_title_de": "Kramer gegen Kramer",
+      "film_title_original": "Kramer vs. Kramer",
+      "film_year": "1979",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "DRA-S-044-V1",
+      "knowledge_id": "K-DRA-22-06",
+      "variant_of": "DRA-S-044",
+      "film_title_de": "Kramer gegen Kramer",
+      "film_title_original": "Kramer vs. Kramer",
+      "film_year": "1979",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-001",
+      "knowledge_id": "K-HOR-01-laurie-curtis",
+      "variant_of": "",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-002",
+      "knowledge_id": "K-HOR-01-haddonfield",
+      "variant_of": "",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-001",
+      "knowledge_id": "K-HOR-01-loomis-arzt",
+      "variant_of": "",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-002",
+      "knowledge_id": "K-HOR-01-kinder",
+      "variant_of": "",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-001",
+      "knowledge_id": "K-HOR-01-kleiderbuegel",
+      "variant_of": "",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-002",
+      "knowledge_id": "K-HOR-01-verschwundener-koerper",
+      "variant_of": "",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-019",
+      "knowledge_id": "K-HOR-10-telekinese",
+      "variant_of": "",
+      "film_title_de": "Carrie – Des Satans jüngste Tochter",
+      "film_title_original": "Carrie",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-020",
+      "knowledge_id": "K-HOR-10-spacek",
+      "variant_of": "",
+      "film_title_de": "Carrie – Des Satans jüngste Tochter",
+      "film_title_original": "Carrie",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-019",
+      "knowledge_id": "K-HOR-10-sue-tommy",
+      "variant_of": "",
+      "film_title_de": "Carrie – Des Satans jüngste Tochter",
+      "film_title_original": "Carrie",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-020",
+      "knowledge_id": "K-HOR-10-schweineblut",
+      "variant_of": "",
+      "film_title_de": "Carrie – Des Satans jüngste Tochter",
+      "film_title_original": "Carrie",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-019",
+      "knowledge_id": "K-HOR-10-sue-hinaus",
+      "variant_of": "",
+      "film_title_de": "Carrie – Des Satans jüngste Tochter",
+      "film_title_original": "Carrie",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-020",
+      "knowledge_id": "K-HOR-10-margaret-angriff",
+      "variant_of": "",
+      "film_title_de": "Carrie – Des Satans jüngste Tochter",
+      "film_title_original": "Carrie",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-027",
+      "knowledge_id": "K-HOR-14-regan-blair",
+      "variant_of": "",
+      "film_title_de": "Der Exorzist",
+      "film_title_original": "The Exorcist",
+      "film_year": "1973",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-028",
+      "knowledge_id": "K-HOR-14-chris-mutter",
+      "variant_of": "",
+      "film_title_de": "Der Exorzist",
+      "film_title_original": "The Exorcist",
+      "film_year": "1973",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-027",
+      "knowledge_id": "K-HOR-14-karras-psychiater",
+      "variant_of": "",
+      "film_title_de": "Der Exorzist",
+      "film_title_original": "The Exorcist",
+      "film_year": "1973",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-028",
+      "knowledge_id": "K-HOR-14-merrin-irak",
+      "variant_of": "",
+      "film_title_de": "Der Exorzist",
+      "film_title_original": "The Exorcist",
+      "film_year": "1973",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-027",
+      "knowledge_id": "K-HOR-14-rueckwaertssprache",
+      "variant_of": "",
+      "film_title_de": "Der Exorzist",
+      "film_title_original": "The Exorcist",
+      "film_year": "1973",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-028",
+      "knowledge_id": "K-HOR-14-karras-opfer",
+      "variant_of": "",
+      "film_title_de": "Der Exorzist",
+      "film_title_original": "The Exorcist",
+      "film_year": "1973",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-029",
+      "knowledge_id": "K-HOR-15-damien",
+      "variant_of": "",
+      "film_title_de": "Das Omen",
+      "film_title_original": "The Omen",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-030",
+      "knowledge_id": "K-HOR-15-thorn-peck",
+      "variant_of": "",
+      "film_title_de": "Das Omen",
+      "film_title_original": "The Omen",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-029",
+      "knowledge_id": "K-HOR-15-baby-austausch",
+      "variant_of": "",
+      "film_title_de": "Das Omen",
+      "film_title_original": "The Omen",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-030",
+      "knowledge_id": "K-HOR-15-baylock",
+      "variant_of": "",
+      "film_title_de": "Das Omen",
+      "film_title_original": "The Omen",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-029",
+      "knowledge_id": "K-HOR-15-jennings-fotos",
+      "variant_of": "",
+      "film_title_de": "Das Omen",
+      "film_title_original": "The Omen",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-030",
+      "knowledge_id": "K-HOR-15-zeichen-kopfhaut",
+      "variant_of": "",
+      "film_title_de": "Das Omen",
+      "film_title_original": "The Omen",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-037",
+      "knowledge_id": "K-HOR-19-norman-perkins",
+      "variant_of": "",
+      "film_title_de": "Psycho",
+      "film_title_original": "Psycho",
+      "film_year": "1960",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-038",
+      "knowledge_id": "K-HOR-19-bates-motel",
+      "variant_of": "",
+      "film_title_de": "Psycho",
+      "film_title_original": "Psycho",
+      "film_year": "1960",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-037",
+      "knowledge_id": "K-HOR-19-marion-geld",
+      "variant_of": "",
+      "film_title_de": "Psycho",
+      "film_title_original": "Psycho",
+      "film_year": "1960",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-038",
+      "knowledge_id": "K-HOR-19-lila-schwester",
+      "variant_of": "",
+      "film_title_de": "Psycho",
+      "film_title_original": "Psycho",
+      "film_year": "1960",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-037",
+      "knowledge_id": "K-HOR-19-mutter-keller",
+      "variant_of": "",
+      "film_title_de": "Psycho",
+      "film_title_original": "Psycho",
+      "film_year": "1960",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-038",
+      "knowledge_id": "K-HOR-19-geld-versenkt",
+      "variant_of": "",
+      "film_title_de": "Psycho",
+      "film_title_original": "Psycho",
+      "film_year": "1960",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-039",
+      "knowledge_id": "K-HOR-20-hitchcock",
+      "variant_of": "",
+      "film_title_de": "Die Vögel",
+      "film_title_original": "The Birds",
+      "film_year": "1963",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-040",
+      "knowledge_id": "K-HOR-20-bodega-bay",
+      "variant_of": "",
+      "film_title_de": "Die Vögel",
+      "film_title_original": "The Birds",
+      "film_year": "1963",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-039",
+      "knowledge_id": "K-HOR-20-cathy-geschenk",
+      "variant_of": "",
+      "film_title_de": "Die Vögel",
+      "film_title_original": "The Birds",
+      "film_year": "1963",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-040",
+      "knowledge_id": "K-HOR-20-annie-mitch",
+      "variant_of": "",
+      "film_title_de": "Die Vögel",
+      "film_title_original": "The Birds",
+      "film_year": "1963",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-039",
+      "knowledge_id": "K-HOR-20-klettergeruest",
+      "variant_of": "",
+      "film_title_de": "Die Vögel",
+      "film_title_original": "The Birds",
+      "film_year": "1963",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-040",
+      "knowledge_id": "K-HOR-20-ursache-offen",
+      "variant_of": "",
+      "film_title_de": "Die Vögel",
+      "film_title_original": "The Birds",
+      "film_year": "1963",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-041",
+      "knowledge_id": "K-HOR-21-leatherface",
+      "variant_of": "",
+      "film_title_de": "Blutgericht in Texas",
+      "film_title_original": "The Texas Chain Saw Massacre",
+      "film_year": "1974",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-042",
+      "knowledge_id": "K-HOR-21-sally",
+      "variant_of": "",
+      "film_title_de": "Blutgericht in Texas",
+      "film_title_original": "The Texas Chain Saw Massacre",
+      "film_year": "1974",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-041",
+      "knowledge_id": "K-HOR-21-franklin-bruder",
+      "variant_of": "",
+      "film_title_de": "Blutgericht in Texas",
+      "film_title_original": "The Texas Chain Saw Massacre",
+      "film_year": "1974",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-042",
+      "knowledge_id": "K-HOR-21-tankstellenmann",
+      "variant_of": "",
+      "film_title_de": "Blutgericht in Texas",
+      "film_title_original": "The Texas Chain Saw Massacre",
+      "film_year": "1974",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-041",
+      "knowledge_id": "K-HOR-21-grossvater-hammer",
+      "variant_of": "",
+      "film_title_de": "Blutgericht in Texas",
+      "film_title_original": "The Texas Chain Saw Massacre",
+      "film_year": "1974",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-042",
+      "knowledge_id": "K-HOR-21-pickup-flucht",
+      "variant_of": "",
+      "film_title_de": "Blutgericht in Texas",
+      "film_title_original": "The Texas Chain Saw Massacre",
+      "film_year": "1974",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-001-V1",
+      "knowledge_id": "K-HOR-01-laurie-curtis",
+      "variant_of": "HOR-L-001",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-L-002-V1",
+      "knowledge_id": "K-HOR-01-haddonfield",
+      "variant_of": "HOR-L-002",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-001-V1",
+      "knowledge_id": "K-HOR-01-loomis-arzt",
+      "variant_of": "HOR-M-001",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-M-002-V1",
+      "knowledge_id": "K-HOR-01-kinder",
+      "variant_of": "HOR-M-002",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-001-V1",
+      "knowledge_id": "K-HOR-01-kleiderbuegel",
+      "variant_of": "HOR-S-001",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "HOR-S-002-V1",
+      "knowledge_id": "K-HOR-01-verschwundener-koerper",
+      "variant_of": "HOR-S-002",
+      "film_title_de": "Halloween – Die Nacht des Grauens",
+      "film_title_original": "Halloween",
+      "film_year": "1978",
+      "subdomain": "Horror",
+      "source_file": "Horror_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "SF-L-001",
+      "knowledge_id": "K-SF-001-saeureblut",
+      "variant_of": "",
+      "film_title_de": "Alien – Das unheimliche Wesen aus einer fremden Welt",
+      "film_title_original": "Alien",
+      "film_year": "1979",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "SF-L-001-V1",
+      "knowledge_id": "K-SF-001-saeureblut",
+      "variant_of": "SF-L-001",
+      "film_title_de": "Alien – Das unheimliche Wesen aus einer fremden Welt",
+      "film_title_original": "Alien",
+      "film_year": "1979",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "SF-L-039",
+      "knowledge_id": "K-SF-039-luke-tatooine",
+      "variant_of": "",
+      "film_title_de": "Star Wars: Episode IV – Eine neue Hoffnung",
+      "film_title_original": "Star Wars",
+      "film_year": "1977",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "SF-M-001",
+      "knowledge_id": "K-SF-001-ash-android",
+      "variant_of": "",
+      "film_title_de": "Alien – Das unheimliche Wesen aus einer fremden Welt",
+      "film_title_original": "Alien",
+      "film_year": "1979",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "SF-M-001-V1",
+      "knowledge_id": "K-SF-001-ash-android",
+      "variant_of": "SF-M-001",
+      "film_title_de": "Alien – Das unheimliche Wesen aus einer fremden Welt",
+      "film_title_original": "Alien",
+      "film_year": "1979",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "SF-M-039",
+      "knowledge_id": "K-SF-039-r2-todessternplaene",
+      "variant_of": "",
+      "film_title_de": "Star Wars: Episode IV – Eine neue Hoffnung",
+      "film_title_original": "Star Wars",
+      "film_year": "1977",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "SF-S-001",
+      "knowledge_id": "K-SF-001-sonderbefehl",
+      "variant_of": "",
+      "film_title_de": "Alien – Das unheimliche Wesen aus einer fremden Welt",
+      "film_title_original": "Alien",
+      "film_year": "1979",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "SF-S-001-V1",
+      "knowledge_id": "K-SF-001-sonderbefehl",
+      "variant_of": "SF-S-001",
+      "film_title_de": "Alien – Das unheimliche Wesen aus einer fremden Welt",
+      "film_title_original": "Alien",
+      "film_year": "1979",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "SF-S-039",
+      "knowledge_id": "K-SF-039-r5-defekt-ersatz",
+      "variant_of": "",
+      "film_title_de": "Star Wars: Episode IV – Eine neue Hoffnung",
+      "film_title_original": "Star Wars",
+      "film_year": "1977",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-L-043",
+      "knowledge_id": "K-ROM-22-01",
+      "variant_of": "",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-L-044",
+      "knowledge_id": "K-ROM-22-02",
+      "variant_of": "",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-M-043",
+      "knowledge_id": "K-ROM-22-03",
+      "variant_of": "",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-M-044",
+      "knowledge_id": "K-ROM-22-04",
+      "variant_of": "",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-S-043",
+      "knowledge_id": "K-ROM-22-05",
+      "variant_of": "",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-S-044",
+      "knowledge_id": "K-ROM-22-06",
+      "variant_of": "",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-L-043-V1",
+      "knowledge_id": "K-ROM-22-01",
+      "variant_of": "ROM-L-043",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-L-044-V1",
+      "knowledge_id": "K-ROM-22-02",
+      "variant_of": "ROM-L-044",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-M-043-V1",
+      "knowledge_id": "K-ROM-22-03",
+      "variant_of": "ROM-M-043",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-M-044-V1",
+      "knowledge_id": "K-ROM-22-04",
+      "variant_of": "ROM-M-044",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-S-043-V1",
+      "knowledge_id": "K-ROM-22-05",
+      "variant_of": "ROM-S-043",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ROM-S-044-V1",
+      "knowledge_id": "K-ROM-22-06",
+      "variant_of": "ROM-S-044",
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "source_file": "RomCom_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-L-033",
+      "knowledge_id": "K-ACT-17-bond-connery",
+      "variant_of": "",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-L-034",
+      "knowledge_id": "K-ACT-17-oddjob-hut",
+      "variant_of": "",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-M-033",
+      "knowledge_id": "K-ACT-17-fort-knox-kontamination",
+      "variant_of": "",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-M-034",
+      "knowledge_id": "K-ACT-17-jill-goldfarbe",
+      "variant_of": "",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-S-033",
+      "knowledge_id": "K-ACT-17-grand-slam-laser",
+      "variant_of": "",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-S-034",
+      "knowledge_id": "K-ACT-17-oddjob-strom",
+      "variant_of": "",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-L-033-V1",
+      "knowledge_id": "K-ACT-17-bond-connery",
+      "variant_of": "ACT-L-033",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-L-034-V1",
+      "knowledge_id": "K-ACT-17-oddjob-hut",
+      "variant_of": "ACT-L-034",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-M-033-V1",
+      "knowledge_id": "K-ACT-17-fort-knox-kontamination",
+      "variant_of": "ACT-M-033",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-M-034-V1",
+      "knowledge_id": "K-ACT-17-jill-goldfarbe",
+      "variant_of": "ACT-M-034",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-S-033-V1",
+      "knowledge_id": "K-ACT-17-grand-slam-laser",
+      "variant_of": "ACT-S-033",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "ACT-S-034-V1",
+      "knowledge_id": "K-ACT-17-oddjob-strom",
+      "variant_of": "ACT-S-034",
+      "film_title_de": "James Bond 007 – Goldfinger",
+      "film_title_original": "Goldfinger",
+      "film_year": "1964",
+      "subdomain": "Action",
+      "source_file": "Action_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-L-005",
+      "knowledge_id": "K-KOM-03-01",
+      "variant_of": "",
+      "film_title_de": "Das Leben des Brian",
+      "film_title_original": "Monty Python's Life of Brian",
+      "film_year": "1979",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-L-006",
+      "knowledge_id": "K-KOM-03-02",
+      "variant_of": "",
+      "film_title_de": "Das Leben des Brian",
+      "film_title_original": "Monty Python's Life of Brian",
+      "film_year": "1979",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-M-005",
+      "knowledge_id": "K-KOM-03-03",
+      "variant_of": "",
+      "film_title_de": "Das Leben des Brian",
+      "film_title_original": "Monty Python's Life of Brian",
+      "film_year": "1979",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-M-006",
+      "knowledge_id": "K-KOM-03-04",
+      "variant_of": "",
+      "film_title_de": "Das Leben des Brian",
+      "film_title_original": "Monty Python's Life of Brian",
+      "film_year": "1979",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-S-005",
+      "knowledge_id": "K-KOM-03-05",
+      "variant_of": "",
+      "film_title_de": "Das Leben des Brian",
+      "film_title_original": "Monty Python's Life of Brian",
+      "film_year": "1979",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-S-006",
+      "knowledge_id": "K-KOM-03-06",
+      "variant_of": "",
+      "film_title_de": "Das Leben des Brian",
+      "film_title_original": "Monty Python's Life of Brian",
+      "film_year": "1979",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-L-007",
+      "knowledge_id": "K-KOM-04-01",
+      "variant_of": "",
+      "film_title_de": "Die Ritter der Kokosnuss",
+      "film_title_original": "Monty Python and the Holy Grail",
+      "film_year": "1975",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-L-008",
+      "knowledge_id": "K-KOM-04-02",
+      "variant_of": "",
+      "film_title_de": "Die Ritter der Kokosnuss",
+      "film_title_original": "Monty Python and the Holy Grail",
+      "film_year": "1975",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-M-007",
+      "knowledge_id": "K-KOM-04-03",
+      "variant_of": "",
+      "film_title_de": "Die Ritter der Kokosnuss",
+      "film_title_original": "Monty Python and the Holy Grail",
+      "film_year": "1975",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-M-008",
+      "knowledge_id": "K-KOM-04-04",
+      "variant_of": "",
+      "film_title_de": "Die Ritter der Kokosnuss",
+      "film_title_original": "Monty Python and the Holy Grail",
+      "film_year": "1975",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-S-007",
+      "knowledge_id": "K-KOM-04-05",
+      "variant_of": "",
+      "film_title_de": "Die Ritter der Kokosnuss",
+      "film_title_original": "Monty Python and the Holy Grail",
+      "film_year": "1975",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-S-008",
+      "knowledge_id": "K-KOM-04-06",
+      "variant_of": "",
+      "film_title_de": "Die Ritter der Kokosnuss",
+      "film_title_original": "Monty Python and the Holy Grail",
+      "film_year": "1975",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-L-015",
+      "knowledge_id": "K-KOM-08-01",
+      "variant_of": "",
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-L-016",
+      "knowledge_id": "K-KOM-08-02",
+      "variant_of": "",
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-M-015",
+      "knowledge_id": "K-KOM-08-03",
+      "variant_of": "",
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-M-016",
+      "knowledge_id": "K-KOM-08-04",
+      "variant_of": "",
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-S-015",
+      "knowledge_id": "K-KOM-08-05",
+      "variant_of": "",
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-S-016",
+      "knowledge_id": "K-KOM-08-06",
+      "variant_of": "",
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-L-006-V1",
+      "knowledge_id": "K-KOM-03-02",
+      "variant_of": "KOM-L-006",
+      "film_title_de": "Das Leben des Brian",
+      "film_title_original": "Monty Python's Life of Brian",
+      "film_year": "1979",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-M-006-V1",
+      "knowledge_id": "K-KOM-03-04",
+      "variant_of": "KOM-M-006",
+      "film_title_de": "Das Leben des Brian",
+      "film_title_original": "Monty Python's Life of Brian",
+      "film_year": "1979",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-S-006-V1",
+      "knowledge_id": "K-KOM-03-06",
+      "variant_of": "KOM-S-006",
+      "film_title_de": "Das Leben des Brian",
+      "film_title_original": "Monty Python's Life of Brian",
+      "film_year": "1979",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-L-016-V1",
+      "knowledge_id": "K-KOM-08-02",
+      "variant_of": "KOM-L-016",
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-M-016-V1",
+      "knowledge_id": "K-KOM-08-04",
+      "variant_of": "KOM-M-016",
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "KOM-S-016-V1",
+      "knowledge_id": "K-KOM-08-06",
+      "variant_of": "KOM-S-016",
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-L-003",
+      "knowledge_id": "K-MAR-02-01",
+      "variant_of": "",
+      "film_title_de": "Drunken Master – The Beginning",
+      "film_title_original": "Drunken Master",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-L-004",
+      "knowledge_id": "K-MAR-02-02",
+      "variant_of": "",
+      "film_title_de": "Drunken Master – The Beginning",
+      "film_title_original": "Drunken Master",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-M-003",
+      "knowledge_id": "K-MAR-02-03",
+      "variant_of": "",
+      "film_title_de": "Drunken Master – The Beginning",
+      "film_title_original": "Drunken Master",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-M-004",
+      "knowledge_id": "K-MAR-02-04",
+      "variant_of": "",
+      "film_title_de": "Drunken Master – The Beginning",
+      "film_title_original": "Drunken Master",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-S-003",
+      "knowledge_id": "K-MAR-02-05",
+      "variant_of": "",
+      "film_title_de": "Drunken Master – The Beginning",
+      "film_title_original": "Drunken Master",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-S-004",
+      "knowledge_id": "K-MAR-02-06",
+      "variant_of": "",
+      "film_title_de": "Drunken Master – The Beginning",
+      "film_title_original": "Drunken Master",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-L-029",
+      "knowledge_id": "K-MAR-15-01",
+      "variant_of": "",
+      "film_title_de": "Der Mann mit der Todeskralle",
+      "film_title_original": "Enter the Dragon",
+      "film_year": "1973",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-L-030",
+      "knowledge_id": "K-MAR-15-02",
+      "variant_of": "",
+      "film_title_de": "Der Mann mit der Todeskralle",
+      "film_title_original": "Enter the Dragon",
+      "film_year": "1973",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-M-029",
+      "knowledge_id": "K-MAR-15-03",
+      "variant_of": "",
+      "film_title_de": "Der Mann mit der Todeskralle",
+      "film_title_original": "Enter the Dragon",
+      "film_year": "1973",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-M-030",
+      "knowledge_id": "K-MAR-15-04",
+      "variant_of": "",
+      "film_title_de": "Der Mann mit der Todeskralle",
+      "film_title_original": "Enter the Dragon",
+      "film_year": "1973",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-S-029",
+      "knowledge_id": "K-MAR-15-05",
+      "variant_of": "",
+      "film_title_de": "Der Mann mit der Todeskralle",
+      "film_title_original": "Enter the Dragon",
+      "film_year": "1973",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-S-030",
+      "knowledge_id": "K-MAR-15-06",
+      "variant_of": "",
+      "film_title_de": "Der Mann mit der Todeskralle",
+      "film_title_original": "Enter the Dragon",
+      "film_year": "1973",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-L-047",
+      "knowledge_id": "K-MAR-24-01",
+      "variant_of": "",
+      "film_title_de": "Die 36 Kammern der Shaolin",
+      "film_title_original": "The 36th Chamber of Shaolin",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-L-048",
+      "knowledge_id": "K-MAR-24-02",
+      "variant_of": "",
+      "film_title_de": "Die 36 Kammern der Shaolin",
+      "film_title_original": "The 36th Chamber of Shaolin",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-M-047",
+      "knowledge_id": "K-MAR-24-03",
+      "variant_of": "",
+      "film_title_de": "Die 36 Kammern der Shaolin",
+      "film_title_original": "The 36th Chamber of Shaolin",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-M-048",
+      "knowledge_id": "K-MAR-24-04",
+      "variant_of": "",
+      "film_title_de": "Die 36 Kammern der Shaolin",
+      "film_title_original": "The 36th Chamber of Shaolin",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-S-047",
+      "knowledge_id": "K-MAR-24-05",
+      "variant_of": "",
+      "film_title_de": "Die 36 Kammern der Shaolin",
+      "film_title_original": "The 36th Chamber of Shaolin",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-S-048",
+      "knowledge_id": "K-MAR-24-06",
+      "variant_of": "",
+      "film_title_de": "Die 36 Kammern der Shaolin",
+      "film_title_original": "The 36th Chamber of Shaolin",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-L-030-V1",
+      "knowledge_id": "K-MAR-15-02",
+      "variant_of": "MAR-L-030",
+      "film_title_de": "Der Mann mit der Todeskralle",
+      "film_title_original": "Enter the Dragon",
+      "film_year": "1973",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-M-030-V1",
+      "knowledge_id": "K-MAR-15-04",
+      "variant_of": "MAR-M-030",
+      "film_title_de": "Der Mann mit der Todeskralle",
+      "film_title_original": "Enter the Dragon",
+      "film_year": "1973",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    },
+    {
+      "question_id": "MAR-S-030-V1",
+      "knowledge_id": "K-MAR-15-06",
+      "variant_of": "MAR-S-030",
+      "film_title_de": "Der Mann mit der Todeskralle",
+      "film_title_original": "Enter the Dragon",
+      "film_year": "1973",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Classics"
+      ],
+      "add_badge_tags": [
+        "Classics"
+      ]
+    }
+  ],
+  "summary": {
+    "films": 36,
+    "question_entries": 258,
+    "knowledge_targets": 210,
+    "new_questions_created": 0
+  }
+}

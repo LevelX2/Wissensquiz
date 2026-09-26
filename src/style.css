@@ -2080,7 +2080,7 @@ details p {
   }
 }
 .learning-path {
-  margin: 1.3rem 0;
+  margin: 0;
   padding: 1rem;
   border: 1px solid var(--line, #454545);
   border-radius: 12px;
@@ -2275,6 +2275,76 @@ details p {
   padding: 0.3rem 1rem;
   font-size: 0.8rem;
   background: #e8eee8;
+}
+
+.play-heading {
+  margin-bottom: 20px;
+}
+.play-heading h1 {
+  font-size: clamp(26px, 3vw, 34px);
+  margin: 0;
+}
+.play-heading p {
+  margin: 6px 0 0;
+  font-size: 14px;
+}
+.round-start {
+  margin-top: 16px;
+}
+.round-start > .primary {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.round-start p {
+  margin: 8px 0;
+}
+.round-setup > .quiz-filters {
+  margin-top: 24px;
+}
+.genre-options {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.genre-options .filter-choice {
+  min-width: 0;
+}
+.genre-options .filter-choice span {
+  overflow-wrap: anywhere;
+}
+.difficulty-options {
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+}
+.difficulty-options summary,
+.learning-path summary {
+  cursor: pointer;
+  min-height: 24px;
+  font-weight: 600;
+}
+.difficulty-options fieldset {
+  margin-top: 12px;
+}
+@media (max-width: 650px) {
+  .genre-options {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .genre-options .filter-choice {
+    padding: 8px;
+    gap: 6px;
+  }
+  .genre-options .genre-thumbnail {
+    width: 32px;
+    height: 32px;
+  }
+  .play-heading {
+    margin-bottom: 16px;
+  }
+  .round-setup .mode-card {
+    min-height: 98px;
+    padding: 12px 8px;
+  }
 }
 footer[hidden] {
   display: none;

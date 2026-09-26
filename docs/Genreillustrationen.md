@@ -59,3 +59,19 @@ Datei: `public/genres/drama.png`
 ```text
 Use case: stylized-concept. Create ONE premium freestanding genre icon for a film trivia web app. Square 1024px composition, object centered fills 78% with safe margins. Beautiful tactile 3D illustration, sculpted enamel and brushed metal, softly rounded edges, restrained elegant cinematic style for adults. Bright ivory and warm gold highlights, rich selective accent color, strong legible silhouette even at 100px. Soft upper-left studio key light, subtle self-shadow only. ACTUAL TRANSPARENT BACKGROUND with clean alpha, not a white background, not a checkerboard. No text, letters, watermark, border, circular badge, scenery, base or cast shadow outside the object. Subject: One thoughtful dramatic theatrical mask in bright porcelain ivory, sculpted expressive brows and a subtle melancholic mouth, with a burgundy-and-gold ribbon accent. Elegant, dignified, clearly distinct from a laughing comedy mask.
 ```
+
+
+## Erweiterung mit Classics
+
+Vier weitere freigestellte PNG-Originale am 26.09.2026 mit image_gen erzeugt und unverändert ins Projekt kopiert: Abenteuer (Kompass mit Karte), Musik (Mikrofon mit Note), Thriller (Auge im Schlüsselloch) und Classics (Projektor). Alle 1254 × 1254 px, RGBA mit transparenter Ecke; Originale visuell geprüft. Die vorhandenen sieben Bilder bleiben unverändert. Auch Stufenfortschritte verwenden nun diese gemeinsamen Bilder. Auf schmalen Auswahlfeldern 32 px, sonst kleine Motive 40 px.
+
+Gemeinsamer Prompt:
+
+Use case: stylized-concept. Create ONE premium freestanding genre icon for a film trivia web app. Square 1024px composition, object centered fills 78% with safe margins. Beautiful tactile 3D illustration, sculpted enamel and brushed metal, softly rounded edges, restrained elegant cinematic style for adults. Bright ivory and warm gold highlights, rich selective accent color, strong legible silhouette even at 40px. Soft upper-left studio key light, subtle self-shadow only. ACTUAL TRANSPARENT BACKGROUND with clean alpha, not a white background, not a checkerboard. No text, letters, watermark, border, circular badge, scenery, base or cast shadow outside the object.
+
+Motivzusätze:
+
+- adventure.png: An antique golden compass with ivory face and a teal compass needle, tilted slightly, with a small folded parchment map tucked behind. No letters or numbers.
+- music.png: One vintage ivory and gold studio microphone with a single large teal musical eighth note beside it, cohesive compact object group.
+- thriller.png: A polished ivory keyhole silhouette containing a single expressive teal eye, warm golden beveled border, elegant suspense motif, simple and legible.
+- classics.png: One elegant vintage ivory and golden cinema projector with two reels, restrained burgundy accents, timeless classic cinema, one freestanding compact object.

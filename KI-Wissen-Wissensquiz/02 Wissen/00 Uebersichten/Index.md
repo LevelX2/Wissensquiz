@@ -37,3 +37,9 @@
 - [Genreillustrationen, Bildherkunft und Prompts](../../../docs/Genreillustrationen.md)
 
 - [Navigation und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
+
+
+- [Classics-Rohquelle](../../01%20Rohquellen/Classics_Quiz_180_Fragen.csv)
+- [Classics-Bestandszuordnungen](../../01%20Rohquellen/Classics_Zuordnungen_Bestand.json)
+- [Classics-Importbericht](../../../docs/importbericht-classics.json)
+- [Classics-Zuordnungsbericht und fehlende Referenzen](../../../docs/classics-zuordnungsbericht.json)

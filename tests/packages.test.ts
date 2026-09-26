@@ -6,6 +6,7 @@ import { addPackages, packages } from "../src/packages";
 import { emptyState } from "../src/model";
 import { answer, shuffle, startRound } from "../src/engine";
 import { read, update } from "../src/storage";
+import { withCategoryTags } from "../src/categories";
 
 const contents = packages.map((p) => ({
   filename: p.filename,
@@ -36,8 +37,20 @@ const western = importCsv(
 );
 const beforeDrama = [...beforeWestern, ...western.questions];
 const drama = importCsv(contents[6].text, beforeDrama, contents[6].filename);
+const beforeClassics = [...beforeDrama, ...drama.questions];
+const classics = importCsv(
+  contents[7].text,
+  beforeClassics,
+  contents[7].filename,
+);
 
 it.each([
+  {
+    name: "Classics",
+    imported: classics,
+    previous: beforeClassics,
+    path: "classics",
+  },
   { name: "Drama", imported: drama, previous: beforeDrama, path: "drama" },
   {
     name: "Komoedie",
@@ -156,7 +169,7 @@ it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedbac
   );
 });
 
-it.each([1, 2, 3, 4, 5, 6])(
+it.each([1, 2, 3, 4, 5, 6, 7])(
   "ergänzt neue Pakete bei %i vorhandenen Paketen transaktional ohne Fortschrittsverlust",
   async (packageCount) => {
     const previousPackages = [
@@ -166,6 +179,7 @@ it.each([1, 2, 3, 4, 5, 6])(
       fantasy,
       comedy,
       western,
+      drama,
     ].slice(0, packageCount);
     const state = emptyState(previousPackages.flatMap((p) => p.questions));
     state.imports.push(...previousPackages.map((p) => p.report));
@@ -204,11 +218,11 @@ it.each([1, 2, 3, 4, 5, 6])(
       update((s) => addPackages(s, contents)),
     ]);
     const saved = (await read())!;
-    expect(saved.questions).toHaveLength(1260);
-    expect(saved.imports).toHaveLength(7);
-    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(1050);
+    expect(saved.questions).toHaveLength(1440);
+    expect(saved.imports).toHaveLength(8);
+    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(1200);
     expect(saved.questions.slice(0, previousQuestions.length)).toEqual(
-      previousQuestions,
+      previousQuestions.map(withCategoryTags),
     );
     expect(
       JSON.stringify({

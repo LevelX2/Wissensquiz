@@ -170,7 +170,14 @@ export function importCsv(
         sources: urls,
         tags: (row.topic_tags || "").split(/[;,|]/).filter(Boolean),
         badgeTags: (row.badge_tags || "").split(/[;,|]/).filter(Boolean),
-        metadata: row,
+        metadata:
+          row.subdomain === "Sci-Fi"
+            ? {
+                ...row,
+                subdomain: "Science-Fiction",
+                source_subdomain: row.subdomain,
+              }
+            : row,
         demo: demo || row.verification_status === "demo-redaktionell",
       });
       questions.push(q);

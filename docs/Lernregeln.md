@@ -120,3 +120,10 @@ Die achtteilige Fanfare ersetzt das normale Abschlusssignal. Ton aus bleibt stum
 Der Sammlungsfilter „Mit beantworteten Fragen“ zeigt nur Themen mit mindestens einem Antwortereignis mit gewählter Antwort. Richtig, falsch und geraten zählen, auch in aktiven oder abgebrochenen Runden. Reine Zeitabläufe ohne Antwort zählen nicht. Die Zuordnung erfolgt über Wissensziel-IDs zu den vorhandenen Themen; historische Varianten bleiben berücksichtigt. Favoriten allein reichen nicht. Standard ist „Alle“; der Filter bleibt beim Seitenwechsel innerhalb der App erhalten, wird aber nicht im Spielstand gespeichert. Keine Änderung an Lernereignissen oder Fortschritt.
 
 Die Vibrationspräferenz ist unabhängig von der aktuellen Browserunterstützung einstellbar. Der Schalter ist nur während einer laufenden Speicheraktion gesperrt. Die Einstellung verwendet weiterhin settings.haptics und die vorhandene lokale/automatische Kontosicherung, ohne Migration. Fehlende Vibration-API, abgelehnte Ausgabe (false/Exception) und erfolgreich angefordertes Signal werden unterschieden. Ein akzeptierter API-Aufruf beweist keine physisch spürbare Vibration.
+
+
+## Spieleinstieg und Zusatzkategorie Classics
+
+Die manuelle Stufenauswahl greift nur bei aktivierter freier Auswahl. Im normalen Lernpfad verwendet die Oberfläche alle freigeschalteten Stufen je Genre; zuvor manuell abgewählte Stufen blockieren ihn nicht. Die Fortschrittsübersicht ist separat aufklappbar. Bei Genres mit weniger als 20 vorhandenen leichten oder mittleren Zielen erklärt sie die noch fehlenden Inhalte und verweist auf die freie Auswahl.
+
+Classics überschneidet sich mit Genres. Wissensziel-ID und Lernereignisse sind gemeinsam, Fortschritt und Wiederholungsplanung werden nicht dupliziert. Klassifizierungen verändern keine alten Rundensnapshots. Details zur Referenzprüfung und rückwärtskompatiblen Sicherung unter Importformat → Classics.

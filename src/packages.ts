@@ -1,5 +1,6 @@
 import { importCsv } from "./importer";
 import type { State } from "./model";
+import { applyCategoryTags } from "./categories";
 
 export const packages = [
   { path: "/fragen.csv", filename: "SciFi_Quiz_180_Fragen.csv" },
@@ -9,6 +10,7 @@ export const packages = [
   { path: "/komoedie-fragen.csv", filename: "Komoedie_Quiz_180_Fragen.csv" },
   { path: "/western-fragen.csv", filename: "Western_Quiz_180_Fragen.csv" },
   { path: "/drama-fragen.csv", filename: "Drama_Quiz_180_Fragen.csv" },
+  { path: "/classics-fragen.csv", filename: "Classics_Quiz_180_Fragen.csv" },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {
@@ -26,4 +28,5 @@ export function addPackages(state: State, incoming: PackageContent[]) {
     state.questions.push(...imported.questions);
     state.imports.push(imported.report);
   }
+  applyCategoryTags(state.questions);
 }

@@ -11,6 +11,7 @@ import { uid } from "./model";
 import { canonicalFilters, matchesFilters } from "./filters";
 import { pathQuestions } from "./learningPath";
 import { discoveryContext } from "./discovery";
+import { matchesTopic } from "./categories";
 export const DAY = 86_400_000;
 export const RULES = {
   version: "1",
@@ -109,7 +110,7 @@ export function selectQuestions(
   const pool = shuffle(
     questions.filter(
       (q) =>
-        (options.topic === "Alle Themen" || q.topic === options.topic) &&
+        matchesTopic(q, options.topic) &&
         (options.filters
           ? matchesFilters(q, options.filters)
           : options.difficulty === "Alle Stufen" ||

@@ -13,6 +13,7 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   ).not.toBeChecked();
   await expect(page.getByRole("button", { name: "Optionen" })).toHaveCount(0);
   await expect(page.getByRole("navigation").getByRole("button")).toHaveCount(5);
+  await page.getByText("Schwierigkeit selbst wählen", { exact: true }).click();
   await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
   await expect(
     page.getByLabel("Alle Schwierigkeitsstufen freigeben"),

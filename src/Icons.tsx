@@ -6,6 +6,10 @@ export const genreIllustrations: Record<string, string> = {
   Komödie: "/genres/comedy.png",
   Western: "/genres/western.png",
   Drama: "/genres/drama.png",
+  Abenteuer: "/genres/adventure.png",
+  Musik: "/genres/music.png",
+  Thriller: "/genres/thriller.png",
+  Classics: "/genres/classics.png",
 };
 
 export function GenreArtwork({
