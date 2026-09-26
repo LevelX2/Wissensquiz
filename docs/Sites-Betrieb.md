@@ -19,6 +19,8 @@ Seit Version 3 enthält die Live-Site zusätzlich das Horror-Paket. Es ergänzt 
 
 ### Veröffentlichung ohne lokalen Sites-Helfer
 
+Der gebündelte Helfer ist seit der Fantasy-Aktualisierung wieder verfügbar. Für Version 6 wurde wieder der reguläre Ablauf oben genutzt. Der folgende Absatz dokumentiert ausschließlich die frühere Ausnahmesituation.
+
 Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflow.mjs` nicht mehr installiert, die nativen Sites-Werkzeuge jedoch verfügbar. Die Aktualisierung erfolgte anhand ihrer aktuellen Schnittstellen: geprüften Quellstand lokal committen, kurzlebige Schreibberechtigung anfordern, genau den Commit über die zurückgegebene Git-URL auf deren Quellbranch übertragen, aus diesem sauberen Stand bauen, `.openai/hosting.json` und `dist/` als TAR paketieren und gemeinsam als private Version speichern/veröffentlichen. Authentifizierung nur im Sitzungsspeicher und in der Umgebung des Git-Unterprozesses über `http.extraHeader`; kein Token in Datei, URL oder Kommandoargument, kein dauerhafter Git-Remote. Windows-TAR mit relativem Archivpfad verwendet. Keine automatische Veröffentlichung beim Push angefordert.
 
 ## Testpersonen einladen
@@ -36,3 +38,5 @@ Lokale Chromium-Prüfungen umfassen Offline-Neuladen, sichere Updates und Speich
 Version 4 (Mehrfachauswahl) am 26.09.2026: Commit `ffdeeb6989fb5a98850e0cc0068d2b9aa8e97462`, Deployment `appgdep_6ab7a53ad8a88191bb0cdb6cfc05ac20`, Status `succeeded`. Authentifizierte Live-Abrufe von JavaScript, CSS und Service Worker Status 200 und bytegleich mit dem Build. Startseite erreichbar, HTML nicht bytegleich mit der lokalen Datei. Private Zugriffsliste unverändert.
 
 Version 5 (Sound, Vibration, Icons und Rekordansicht) am 26.09.2026: Commit `2e99f637538370d1a5a9faa9a856a8713860ffdd`, Deployment `appgdep_6ab7a740aaf08191b7cc7c38f569006f`, Status `succeeded`. Live-HTML verweist auf den aktuellen JavaScript-Build. JavaScript, CSS und Service Worker Status 200 und bytegleich. Privater Eigentümerzugriff unverändert, keine Besucher ergänzt. Ton/Vibration werden ausschließlich lokal erzeugt; keine externen Mediendienste.
+
+Version 6 (Fantasy, Conjuring-Darsteller und Schwierigkeit jeder Frage) am 26.09.2026: Commit `44f6a2882948e5ea56b90b1377aa75ba16564968`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_fc1164f342c08191a5abaa10520a4de0`, Deployment `appgdep_6ab7b115975481918fe0410551c6019e`, Status `succeeded`. Der gebündelte Workflow übertrug den geprüften Commit und paketierte den unveränderten Build. Privater Zugriff und bestehende URL erhalten, keine Besucher hinzugefügt. 45 Logiktests und 18 lokale Chromium-Prüfungen erfolgreich; keine zusätzliche Live-Browser-/Geräteprüfung. Bei weiterhin alter Ansicht Strg+F5 beziehungsweise alle alten App-Fenster schließen und neu öffnen; keine Browserdaten löschen.
