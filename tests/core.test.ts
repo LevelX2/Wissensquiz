@@ -242,7 +242,7 @@ describe("Lernfortschritt mit kontrollierter Testzeit", () => {
       }),
     ).toHaveLength(5);
   });
-  it("nutzt 5 neue, 3 fällige und 2 sichere Ziele bei passendem Bestand", () => {
+  it("Entdecken nimmt alle neuen Ziele vor fälligen Wiederholungen", () => {
     const pool = [
       ...new Map(questions.map((q) => [q.knowledgeId, q])).values(),
     ].slice(0, 15);
@@ -271,10 +271,10 @@ describe("Lernfortschritt mit kontrollierter Testzeit", () => {
     expect(selected.filter((q) => !learning[q.knowledgeId])).toHaveLength(5);
     expect(
       selected.filter((q) => learning[q.knowledgeId]?.due <= now),
-    ).toHaveLength(3);
+    ).toHaveLength(5);
     expect(
       selected.filter((q) => learning[q.knowledgeId]?.status === "gefestigt"),
-    ).toHaveLength(2);
+    ).toHaveLength(0);
   });
 });
 describe("Runden und Persistenz", () => {

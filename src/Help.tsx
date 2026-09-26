@@ -59,8 +59,10 @@ export function Help() {
         <summary>Welcher Spielmodus passt zu mir?</summary>
         <ul>
           <li>
-            <strong>Entdecken:</strong> Neue Inhalte kennenlernen und Bekanntes
-            wiedersehen – ohne Zeitdruck.
+            <strong>Entdecken:</strong> Unbeantwortete Wissensziele zuerst
+            kennenlernen – ohne Zeitdruck. Fragen aus den letzten drei Runden
+            kommen möglichst erst wieder, wenn andere passende Inhalte fehlen.
+            Neu freigeschaltete Stufen erhalten einen gezielten Einstieg.
           </li>
           <li>
             <strong>Besser werden:</strong> Mehr fällige Wiederholungen,

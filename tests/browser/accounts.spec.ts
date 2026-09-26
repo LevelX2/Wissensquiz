@@ -401,7 +401,7 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
     await other.getByRole("button", { name: "Fortsetzen" }).click();
     await expect(other.locator(".feedback")).toBeVisible();
     await other
-      .locator(".feedback")
+      .locator(".feedback-actions")
       .getByRole("button", { name: /Weiter|Nächste/ })
       .click();
     await other.locator(".answer").first().click();
@@ -409,7 +409,7 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
       "Spielstand online gespeichert",
     );
     await page
-      .locator(".feedback")
+      .locator(".feedback-actions")
       .getByRole("button", { name: /Weiter|Nächste/ })
       .click();
     await page.locator(".answer").first().click();

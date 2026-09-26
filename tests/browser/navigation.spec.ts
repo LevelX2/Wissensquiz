@@ -32,6 +32,8 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
     "Schwierigkeit: Schwer",
   );
   await expect(page.getByRole("button", { name: "Optionen" })).toHaveCount(0);
+  await expect(page.getByRole("navigation")).not.toBeVisible();
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await expect(
     page.getByRole("heading", { name: "Highscores", exact: true }),

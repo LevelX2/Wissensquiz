@@ -10,6 +10,7 @@ import type {
 import { uid } from "./model";
 import { canonicalFilters, matchesFilters } from "./filters";
 import { pathQuestions } from "./learningPath";
+import { discoveryContext } from "./discovery";
 export const DAY = 86_400_000;
 export const RULES = {
   version: "1",
@@ -100,6 +101,8 @@ export function selectQuestions(
     mode: Mode;
     size: number;
     now: number;
+    recentKnowledgeIds?: Set<string>;
+    introductoryQuestionIds?: Set<string>;
   },
   random = Math.random,
 ): Question[] {
@@ -135,6 +138,41 @@ export function selectQuestions(
     }
   };
   const dueCap = Math.min(5, options.size); // bounded return after a long pause
+  if (options.mode === "entdecken") {
+    const unseen = unique.filter((q) => !learning[q.knowledgeId]);
+    // Introduce a newly unlocked stage without overriding the user's filters.
+    take(
+      unseen.filter((q) => options.introductoryQuestionIds?.has(q.id)),
+      Math.ceil(options.size / 2),
+    );
+    take(unseen, options.size);
+    const repeats = unique
+      .filter((q) => learning[q.knowledgeId])
+      .sort((a, b) => {
+        const pa = learning[a.knowledgeId],
+          pb = learning[b.knowledgeId];
+        return (
+          (pa.lastSeenAt ?? pa.lastSecure ?? 0) -
+            (pb.lastSeenAt ?? pb.lastSecure ?? 0) || pa.seen - pb.seen
+        );
+      });
+    let dueTaken = 0;
+    // Recent answers are a fallback, even when already due again after a mistake.
+    for (const recent of [false, true]) {
+      const candidates = repeats.filter(
+        (q) => !!options.recentKnowledgeIds?.has(q.knowledgeId) === recent,
+      );
+      const overdue = candidates.filter((q) => due.includes(q));
+      const countBefore = result.length;
+      take(overdue, dueCap - dueTaken);
+      dueTaken += result.length - countBefore;
+      take(
+        candidates.filter((q) => !due.includes(q)),
+        options.size,
+      );
+    }
+    return shuffle(result, random);
+  }
   take(
     fresh,
     options.mode === "ueben"
@@ -213,6 +251,7 @@ export function startRound(
     );
   const questions = selectQuestions(pathQuestions(state), state.learning, {
     ...options,
+    ...(options.mode === "entdecken" ? discoveryContext(state) : {}),
     size: state.rounds.some((r) => r.status === "completed") ? 10 : 5,
     now,
   });

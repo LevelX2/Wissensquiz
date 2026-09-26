@@ -619,6 +619,7 @@ test("Mobile Bedienung bei 390 und 320 Pixeln ohne horizontalen Überlauf", asyn
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBe(true);
+  await page.getByText("Alle Antworten ansehen", { exact: true }).click();
   for (const b of await page.locator(".answer").all()) {
     const box = await b.boundingBox();
     expect(box!.height).toBeGreaterThanOrEqual(44);

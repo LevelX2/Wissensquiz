@@ -9,11 +9,11 @@
 
 ## Anwendung prüfen
 
-- `npm test`: 57 gezielte Tests für CSV, Antworten, Punkte, Lernlogik, Genre-/Stufenauswahl, Rekordkategorien, Abzeichen, idempotente Speicherung, Paketerweiterung und Backups einschließlich Sound-/Vibrationseinstellungen.
+- `npm test`: 87 gezielte Tests für CSV, Antworten, Punkte, Lernlogik, Genre-/Stufenauswahl, Rekordkategorien, Abzeichen, idempotente Speicherung, Paketerweiterung und Backups einschließlich Sound-/Vibrationseinstellungen.
 - `npm run build`: TypeScript und Produktionspaket einschließlich Offline-Manifest.
-- `npm run test:browser`: 25 Chromium-Prüfungen im vollständigen Lauf für kombinierte Filter, Paketerweiterung bestehender Spielstände, Einstieg, Spielen, Wiederaufnahme, Mobilansicht, Export/Import, Timer, Offline-Neuladen mit Horror-/Fantasy-Inhalten, Browserneustart, Updateverhalten, Tastatur, automatische Barrierearmut, Ton-/Vibrationssteuerung, Rekordübersicht, Darstellerergänzungen, unabhängig schaltbare Genre-/Schwierigkeitshinweise und die filterbare lokale Bestenliste.
-- Kontentests: Konfiguration, getrennte Gast-/Kontostände, SQL-Rollen/RLS/Revisionskonflikte sowie simulierte Registrierung/Bestätigung/Reset/Anmeldung. Echte Konten und Mailzustellung erst nach Einrichtung prüfen.
+- `npm run test:browser`: 48 Browserprüfungen (46 Chromium und zwei WebKit mit iPhone-Profil) im vollständigen Lauf für kombinierte Filter, Paketerweiterung bestehender Spielstände, Einstieg, Spielen, Wiederaufnahme, Mobilansicht, Export/Import, Timer, Offline-Neuladen mit Horror-/Fantasy-Inhalten, Browserneustart, Updateverhalten, Tastatur, automatische Barrierearmut, Ton-/Vibrationssteuerung, Rekordübersicht, Darstellerergänzungen, unabhängig schaltbare Genre-/Schwierigkeitshinweise und die filterbare lokale Bestenliste.
+- Kontentests: Konfiguration, getrennte Gast-/Kontostände, SQL-Rollen/RLS/Revisionskonflikte sowie simulierte Registrierung/Bestätigung/Reset/Anmeldung. Echte Bestätigung und Handy-Anmeldung wurden bereits bestätigt; reale geräteübergreifende Spielstandsabnahme bleibt offen.
 - `npm audit`: keine bekannten Schwachstellen im geprüften Lockfile.
 - [Detaillierter Prüfnachweis und Grenzen](../../docs/Pruefbericht.md).
 
-Browserprofile der Tests sind isoliert; keine echten Spielstände verwenden. Zeitreisen ausschließlich in Tests. Physisches Smartphone, Safari/Firefox und HTTPS-Installation sind noch nicht geprüft.
+Browserprofile der Tests sind isoliert; keine echten Spielstände verwenden. Zeitreisen ausschließlich in Tests. Mobile Antwortansicht zusätzlich mit WebKit geprüft. Physisches Smartphone, reales Safari/Firefox und HTTPS-Installation bleiben gesondert zu prüfen.

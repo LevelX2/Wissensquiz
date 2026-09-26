@@ -30,7 +30,7 @@ npm run preview
 - Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action), Geist (Horror) und Zauberstab (Fantasy), lächelndes Gesicht (Komödie) Cowboyhut (Western) und Theatermaske (Drama). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.
 
 - Erste Runde standardmäßig fünf, weitere zehn unterschiedliche Wissensziele; kleinere Bestände verkürzen die Runde transparent.
-- **Entdecken:** neue/wenig bekannte Ziele, fällige Wiederholungen und sichere Inhalte.
+- **Entdecken:** tatsächlich neue Wissensziele zuerst; Wiederholungen aus den letzten drei Runden möglichst vermeiden. Neu freigeschaltete Stufen erhalten einen gezielten Einstieg. Bei kleinen Beständen sind Wiederholungen weiterhin möglich.
 - **Besser werden:** fällige Ziele stärker gewichtet, ohne Zeitdruck.
 - **Rekordrunde:** 30 Sekunden pro Frage; 100 Punkte für richtig plus 2 je vollständig verbleibender Sekunde. 25 volle Sekunden = 150 Punkte. Lokale Rekorde getrennt nach Thema, Schwierigkeit, tatsächlicher Rundengröße und Regelversion.
 - **Bestenliste:** bei Rekordrunde, im Ergebnis und in der Sammlung erreichbar. Alle abgeschlossenen Rekordspiele mit Platz, Punkten, Treffern, Antwortzeit, Datum und Rückblick. Filter für Genre-Kombination, Stufen und Rundengröße; eigene Ranglisten je vergleichbarer Kategorie. Eigener Hauptnavigationspunkt „Highscores“ mit gleichrangigen Ansichten für eigene Ergebnisse, alle Rekordspieler und Spielerleistungen. Bestätigte Konten nehmen automatisch teil, mit Hinweis bei Registrierung und im Profil. Kategorien bleiben getrennt. Browser-/Offline-Ergebnisse sind kein manipulationsgeschützter Wettbewerb.
@@ -102,7 +102,7 @@ Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach b
 ```powershell
 npm test
 npm run build
-npx playwright install chromium
+npx playwright install chromium webkit
 npm run test:browser
 npm audit
 ```

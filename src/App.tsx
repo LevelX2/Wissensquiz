@@ -42,6 +42,7 @@ import { BadgeIcon, GenreIcon, genreIllustrations } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
 import { answeredTopics } from "./collection";
+import { discoveryContext } from "./discovery";
 import { LearningPath } from "./LearningPathPanel";
 import { UnlockCelebration } from "./UnlockCelebration";
 import {
@@ -359,6 +360,7 @@ export function App({
       filters,
       size: targetSize,
       now: Date.now(),
+      ...(mode === "entdecken" ? discoveryContext(state) : {}),
     },
     () => 0.5,
   );
@@ -412,7 +414,7 @@ export function App({
     });
   };
   return (
-    <div className="app-shell">
+    <div className={`app-shell ${page === "round" ? "is-playing" : ""}`}>
       <aside className="sidebar">
         <a
           className="brand"
@@ -1258,10 +1260,37 @@ function QuestionScreen({
     };
   }, [!!event, ready, round.mode]);
   useEffect(() => {
-    if (event) feedback.current?.focus();
+    if (event) {
+      feedback.current?.focus({ preventScroll: true });
+      if (window.matchMedia("(max-width: 760px)").matches)
+        window.scrollTo(0, 0);
+      else feedback.current?.scrollIntoView({ block: "nearest" });
+    }
   }, [!!event]);
+  const answerOptions = (
+    <div className="answers">
+      {round.order[index].map((id, i) => {
+        const a = q.answers.find((a) => a.id === id)!;
+        const correct = !!event && id === q.correctId;
+        const wrong = !!event && event.answerId === id && !event.correct;
+        return (
+          <button
+            key={id}
+            className={`answer ${correct ? "correct" : ""} ${wrong ? "wrong" : ""}`}
+            disabled={!!event || busy || !ready || round.status !== "active"}
+            onClick={() => void choose(id)}
+          >
+            <span className="answer-letter">{String.fromCharCode(65 + i)}</span>
+            <span>{a.text}</span>
+            {correct && <b className="answer-verdict">✓ Richtig</b>}
+            {wrong && <b className="answer-verdict">× Deine Antwort</b>}
+          </button>
+        );
+      })}
+    </div>
+  );
   return (
-    <div className="question-wrap">
+    <div className={`question-wrap ${event ? "is-answered" : ""}`}>
       <div className="round-top">
         <button className="text-button" onClick={onExit}>
           ← {round.mode === "rekord" ? "Runde beenden" : "Pause & Startseite"}
@@ -1321,30 +1350,14 @@ function QuestionScreen({
             );
           })()}
         </h1>
-        <div className="answers">
-          {round.order[index].map((id, i) => {
-            const a = q.answers.find((a) => a.id === id)!;
-            const correct = !!event && id === q.correctId;
-            const wrong = !!event && event.answerId === id && !event.correct;
-            return (
-              <button
-                key={id}
-                className={`answer ${correct ? "correct" : ""} ${wrong ? "wrong" : ""}`}
-                disabled={
-                  !!event || busy || !ready || round.status !== "active"
-                }
-                onClick={() => void choose(id)}
-              >
-                <span className="answer-letter">
-                  {String.fromCharCode(65 + i)}
-                </span>
-                <span>{a.text}</span>
-                {correct && <b className="answer-verdict">✓ Richtig</b>}
-                {wrong && <b className="answer-verdict">× Deine Antwort</b>}
-              </button>
-            );
-          })}
-        </div>
+        {event ? (
+          <details className="answer-review">
+            <summary>Alle Antworten ansehen</summary>
+            {answerOptions}
+          </details>
+        ) : (
+          answerOptions
+        )}
         {!event && (
           <p className="quiet-note">
             {round.mode === "rekord"
@@ -1369,6 +1382,13 @@ function QuestionScreen({
                 <Pill>+{event.knowledgePoints + event.timeBonus} Punkte</Pill>
               )}
             </div>
+            <p className="chosen-answer">
+              Deine Antwort:{" "}
+              <strong>
+                {q.answers.find((a) => a.id === event.answerId)?.text ??
+                  "Keine Antwort gewählt"}
+              </strong>
+            </p>
             {!event.correct && (
               <p>
                 Die richtige Antwort:{" "}
@@ -1378,29 +1398,31 @@ function QuestionScreen({
               </p>
             )}
             <Explanation q={q} event={event} />
-            <div className="feedback-actions">
-              {event.correct && (
-                <button
-                  className="secondary"
-                  aria-pressed={event.guessed}
-                  disabled={event.guessed || busy}
-                  onClick={() => void mutate((s) => guess(s, event.id))}
-                >
-                  {event.guessed ? "✓ Als geraten markiert" : "War geraten"}
-                </button>
-              )}
-              <button className="primary" disabled={busy} onClick={onNext}>
-                {index === round.questions.length - 1
-                  ? "Runde abschließen"
-                  : "Nächste Frage"}{" "}
-                →
-              </button>
-            </div>
             {event.guessed && (
               <p className="tiny muted">
                 Deine Punkte bleiben. Dieses Wissensziel kommt früher wieder.
               </p>
             )}
+          </div>
+        )}
+        {event && (
+          <div className="feedback-actions">
+            {event.correct && (
+              <button
+                className="secondary"
+                aria-pressed={event.guessed}
+                disabled={event.guessed || busy}
+                onClick={() => void mutate((s) => guess(s, event.id))}
+              >
+                {event.guessed ? "✓ Als geraten markiert" : "War geraten"}
+              </button>
+            )}
+            <button className="primary" disabled={busy} onClick={onNext}>
+              {index === round.questions.length - 1
+                ? "Runde abschließen"
+                : "Nächste Frage"}{" "}
+              →
+            </button>
           </div>
         )}
         <div className="report-area">
