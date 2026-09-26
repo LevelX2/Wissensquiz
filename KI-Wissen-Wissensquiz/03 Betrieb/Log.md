@@ -19,3 +19,7 @@ Auf Nutzerhinweis die vorhandenen Sites-Werkzeuge und offizielle Dokumentation g
 ## 2026-09-26 – Sites-Veröffentlichung beauftragt
 
 Nutzer beauftragt die Bereitstellung der ersten Testversion über Sites und eine Test-URL. Private Site einmalig registriert und Projekt-ID in `.openai/hosting.json` gespeichert. Vorhandene React-App bleibt erhalten; veröffentlicht wird `dist/` ohne Backend oder Übertragung lokaler Spielstände. Der erfolgreiche Live-Stand wird nach Abschluss separat dokumentiert. Keine Erweiterung des Zugriffskreises beauftragt.
+
+## 2026-09-26 – Sites und Action-Paket
+
+Die private Sites-Veröffentlichung der Sci-Fi-Version wurde erfolgreich bestätigt. Die nachgelieferte Action-CSV unverändert abgelegt und vollständig geprüft: 180 weitere Fragen, 150 Ziele, 30 Varianten, 17 Themen; keine Ausschlüsse oder ID-Konflikte. Zusammen 360 Fragen, 300 Ziele und 56 Themen. Transaktionale Paketergänzung erhält vorhandenen Fortschritt und laufende Runden. 33 Logiktests und zehn Browserprüfungen erfolgreich. Veröffentlichungsablauf samt Windows-Besonderheiten in docs/Sites-Betrieb.md dokumentiert. Keine unabhängige Faktenprüfung und keine Prüfung auf einem physischen Smartphone.

@@ -4,6 +4,8 @@ Spielbare deutsche React-/TypeScript-App für kurze Filmquizrunden mit dauerhaft
 
 ## Starten
 
+**Online testen:** [Wissensquiz – Dein Filmkosmos](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Private Sites-Veröffentlichung; gegebenenfalls mit demselben ChatGPT-Konto anmelden. Der lokale Rechner muss dafür nicht laufen.
+
 Voraussetzung: Node.js 22.12+ (geprüft mit 24.19), npm. In PowerShell:
 
 ```powershell
@@ -33,6 +35,8 @@ npm run preview
 
 Die gelieferte **SciFi_Quiz_180_Fragen.csv** ist das Standardpaket: **180 Fragen, 150 Wissensziele, 30 Varianten, 39 Themen**. **180 akzeptiert, 0 ausgeschlossen, 0 doppelte IDs.** Alle Erklärungen und Quellenangaben stammen aus dieser CSV. Die Originaldatei liegt unverändert unter `KI-Wissen-Wissensquiz/01 Rohquellen/`; das ausgelieferte Paket unter `public/fragen.csv` ist bytegleich.
 
+Zusätzlich enthalten: **Action_Quiz_180_Fragen.csv**, ebenfalls unverändert, mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 17 Themen**. Keine Ausschlüsse oder ID-Konflikte. Zusammen **360 Fragen, 300 Wissensziele und 56 Themen**. Das Action-Paket wird bei vorhandenen Sci-Fi-Spielständen beim nächsten App-Start ergänzt; Runden und Lernstände bleiben erhalten. [Action-Importbericht](docs/importbericht-action.json).
+
 `verification_status=redaktionell_geprueft` ist eine Angabe der gelieferten Datei. Eine unabhängige Prüfung aller Filmaussagen oder verlinkten Seiten wurde nicht durchgeführt. Keine Vertiefungen oder Fehlererklärungen wurden ergänzt.
 
 Die separat herunterladbare `public/demo-fragen.csv` enthält zwölf selbst verfasste und gekennzeichnete Demo-Fragen als Formatbeispiel. **Diese sind im Standardbestand nicht aktiviert.** Bei manuellem Import bleibt ihre Demo-Kennzeichnung erhalten.
@@ -55,9 +59,9 @@ IndexedDB speichert Fragen, Inhaltsversionen, Rundensnapshots, eindeutige Antwor
 
 Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach bestätigtem Paketdownload sind Oberfläche, Fragen und Erklärungen offline verfügbar. Updates warten auf das Schließen aller alten App-Fenster. Aktive Rekordrunden werden nach Neuladen/Browserneustart als abgebrochen behandelt; unbeantwortete Fragen erhalten keine neue Zeit. Entspannte Runden sind fortsetzbar.
 
-**PWA/Offline auf Smartphones benötigt HTTPS.** Die HTTP-Heimnetzvorschau unterstützt Spielen und Fortschritt, aber keine Service-Worker-Installation. Auf `localhost` ist Offlinebetrieb getestet. Für eine dauerhafte Smartphone-Installation `dist/` auf einem HTTPS-Host bereitstellen. Es wurde kein öffentlicher Host eingerichtet oder externer Inhalt veröffentlicht. Externe Quellenlinks benötigen weiterhin Netz.
+**PWA/Offline auf Smartphones benötigt HTTPS.** Die Sites-Adresse bietet HTTPS. Die HTTP-Heimnetzvorschau unterstützt Spielen und Fortschritt, aber keine Service-Worker-Installation. Auf `localhost` ist Offlinebetrieb getestet; die Installation auf einem physischen Smartphone und unter der privaten Sites-Adresse ist noch zu prüfen. Externe Quellenlinks benötigen weiterhin Netz.
 
-**Sites:** Die App ist über `.openai/hosting.json` mit der privaten Site „Wissensquiz – Dein Filmkosmos“ verknüpft. Veröffentlicht wird der statische Produktions-Build aus `dist/`; keine Nutzerspielstände werden übertragen. Die tatsächliche Live-URL wird erst nach erfolgreicher Veröffentlichung ausgegeben. PWA-Installation und Service-Worker-Verhalten müssen unter der veröffentlichten Adresse noch geprüft werden. Hosting allein ergänzt keine geräteübergreifende Synchronisierung; vorhandene lokale Spielstände werden beim Adresswechsel per JSON übertragen. [Offizielle Sites-Dokumentation](https://learn.chatgpt.com/docs/sites).
+**Sites:** Die App ist über `.openai/hosting.json` mit der privaten Site „Wissensquiz – Dein Filmkosmos“ verknüpft. Die erste Veröffentlichung wurde am 26.09.2026 von Sites als erfolgreich bestätigt. Veröffentlicht wird der statische Produktions-Build aus `dist/`; keine Nutzerspielstände werden übertragen. Hosting allein ergänzt keine geräteübergreifende Synchronisierung; vorhandene lokale Spielstände werden beim Adresswechsel per JSON übertragen. [Veröffentlichungsablauf](docs/Sites-Betrieb.md).
 
 ## Projektaufbau
 
@@ -69,7 +73,7 @@ Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach b
 | `src/storage.ts` | IndexedDB-Transaktionen, Sicherungsvalidierung, Export/Import |
 | `src/App.tsx`, `src/style.css` | Oberfläche und responsive Gestaltung |
 | `src/offline.ts`, `scripts/build-sw.mjs` | Paketstatus und sicher wartende App-Updates |
-| `public/fragen.csv` | Geliefertes Standardpaket |
+| `public/fragen.csv`, `public/action-fragen.csv`, `src/packages.ts` | Gelieferte Standardpakete und transaktionale Ergänzung |
 | `tests/` | Logik-, Persistenz- und Browserprüfungen |
 
 ## Prüfen

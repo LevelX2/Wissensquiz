@@ -3,7 +3,7 @@
 ## Aktueller Stand
 
 - Spielbare deutsche React-/TypeScript-Testversion mit Entdecken, Besser werden und Rekordrunde umgesetzt.
-- 180 gelieferte Fragen, 150 Wissensziele und 30 Varianten; 39 Themen. Sämtliche Datensätze strukturell akzeptiert.
+- 360 gelieferte Fragen aus Sci-Fi und Action, 300 Wissensziele und 60 Varianten; 56 Themen. Sämtliche Datensätze strukturell akzeptiert.
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
 - Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
 - Lokales Git ohne Remote; Integrationsbranch `main`.
@@ -13,7 +13,7 @@
 ## Offen
 
 - Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
-- HTTPS-Hosting für dauerhafte Smartphone-PWA und Offline-Installation; derzeit lokale HTTP-Vorschau.
+- Private Sites-Adresse verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
 - Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
 
 ## Einstieg

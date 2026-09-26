@@ -1,0 +1,24 @@
+import { importCsv } from "./importer";
+import type { State } from "./model";
+
+export const packages = [
+  { path: "/fragen.csv", filename: "SciFi_Quiz_180_Fragen.csv" },
+  { path: "/action-fragen.csv", filename: "Action_Quiz_180_Fragen.csv" },
+];
+export type PackageContent = { filename: string; text: string };
+export function hasPackage(state: State, filename: string) {
+  return state.imports.some(
+    (r) => r.filename === filename && r.accepted + r.duplicates > 0,
+  );
+}
+// Apply inside the IndexedDB transaction: concurrent tabs must not import twice.
+export function addPackages(state: State, incoming: PackageContent[]) {
+  for (const pkg of incoming) {
+    if (hasPackage(state, pkg.filename)) continue;
+    const imported = importCsv(pkg.text, state.questions, pkg.filename);
+    if (!imported.report.accepted && !imported.report.duplicates)
+      throw new Error(`Fragenpaket ${pkg.filename} ist ungültig.`);
+    state.questions.push(...imported.questions);
+    state.imports.push(imported.report);
+  }
+}

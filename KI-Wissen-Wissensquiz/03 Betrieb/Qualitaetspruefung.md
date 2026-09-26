@@ -9,9 +9,9 @@
 
 ## Anwendung prüfen
 
-- `npm test`: 31 gezielte Tests für CSV, Antworten, Punkte, Lernlogik, Auswahl, Abzeichen, idempotente Speicherung und Backups.
+- `npm test`: 33 gezielte Tests für CSV, Antworten, Punkte, Lernlogik, Auswahl, Abzeichen, idempotente Speicherung und Backups.
 - `npm run build`: TypeScript und Produktionspaket einschließlich Offline-Manifest.
-- `npm run test:browser`: 9 Chromium-Prüfungen für Einstieg, Spielen, Wiederaufnahme, Mobilansicht, Export/Import, Timer, Offline-Neuladen, Browserneustart, Updateverhalten, Tastatur und automatische Barrierearmut.
+- `npm run test:browser`: 10 Chromium-Prüfungen für Einstieg, Spielen, Wiederaufnahme, Mobilansicht, Export/Import, Timer, Offline-Neuladen, Browserneustart, Updateverhalten, Tastatur und automatische Barrierearmut.
 - `npm audit`: keine bekannten Schwachstellen im geprüften Lockfile.
 - [Detaillierter Prüfnachweis und Grenzen](../../docs/Pruefbericht.md).
 

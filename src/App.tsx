@@ -23,6 +23,12 @@ import {
 } from "./model";
 import { download, read, restore, update, validateBackup } from "./storage";
 import { useOffline } from "./offline";
+import {
+  addPackages,
+  hasPackage,
+  packages,
+  type PackageContent,
+} from "./packages";
 
 type Page = "home" | "topics" | "album" | "settings" | "round" | "result";
 type Mutate = (fn: (s: State) => void) => Promise<State | null>;
@@ -137,22 +143,27 @@ export function App() {
     if (booted.current) return;
     booted.current = true;
     (async () => {
-      let initial = await read();
-      if (!initial) {
-        const response = await fetch("/fragen.csv");
-        if (!response.ok)
-          throw new Error("Fragenpaket konnte nicht geladen werden.");
-        const imported = importCsv(
-          await response.text(),
-          [],
-          "SciFi_Quiz_180_Fragen.csv",
-        );
-        if (!imported.questions.length)
-          throw new Error("Fragenpaket ist ungültig.");
-        initial = emptyState(imported.questions);
-        initial.imports.push(imported.report);
+      const initial = (await read()) ?? emptyState();
+      const incoming: PackageContent[] = [];
+      for (const pkg of packages) {
+        if (hasPackage(initial, pkg.filename)) continue;
+        try {
+          const response = await fetch(pkg.path);
+          if (!response.ok) throw new Error("Download fehlgeschlagen");
+          incoming.push({
+            filename: pkg.filename,
+            text: await response.text(),
+          });
+        } catch {
+          if (!initial.questions.length)
+            throw new Error("Fragenpaket konnte nicht geladen werden.");
+          setError(
+            "Ein neues Fragenpaket ist noch nicht verfügbar. Dein gespeicherter Bestand bleibt spielbar. Lade die App später mit Internetverbindung neu.",
+          );
+        }
       }
       const loaded = await update((s) => {
+        addPackages(s, incoming);
         for (const r of s.rounds)
           if (r.status === "active" && r.mode === "rekord") {
             r.status = "aborted";

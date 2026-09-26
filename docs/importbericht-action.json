@@ -1,6 +1,6 @@
 {
-  "at": 1790415413101,
-  "filename": "SciFi_Quiz_180_Fragen.csv",
+  "at": 1790415413117,
+  "filename": "Action_Quiz_180_Fragen.csv",
   "accepted": 180,
   "rejected": 0,
   "duplicates": 0,
@@ -42,7 +42,9 @@
   "warnings": [],
   "knowledgeGoals": 150,
   "variants": 30,
-  "topics": 39,
-  "eligibleBadgeGoals": 50,
-  "contentNote": "Nutzerdatei unverändert übernommen. verification_status ist Quellenangabe, keine unabhängige Faktenprüfung."
+  "topics": 17,
+  "combinedQuestions": 360,
+  "combinedKnowledgeGoals": 300,
+  "combinedTopics": 56,
+  "contentNote": "Unveränderte Nutzerdatei. Strukturell geprüft; keine unabhängige Faktenprüfung."
 }

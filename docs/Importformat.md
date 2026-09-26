@@ -6,6 +6,8 @@
 
 ## Feldzuordnung
 
+Das zusätzlich gelieferte `Action_Quiz_180_Fragen.csv` hat dasselbe Format mit 31 Spalten. Mit dem App-Parser vollständig geprüft: 180 akzeptierte Fragen, 150 Wissensziele, 30 Varianten, 17 Themen; keine Ausschlüsse, Warnungen oder ID-Konflikte mit Sci-Fi. Insgesamt 360 Fragen, 300 Wissensziele und 56 Themen. [Action-Bericht](importbericht-action.json). Die Paketergänzung läuft innerhalb einer IndexedDB-Transaktion; vorhandene Fragen, Antwortereignisse und laufende Runden werden nicht überschrieben. Beide Originaldateien bleiben unverändert.
+
 | CSV | Intern und Verwendung |
 | --- | --- |
 | `question_id` | `id`; verpflichtend und eindeutig. Bereits gespeicherte IDs werden mit Hinweis übersprungen. |
