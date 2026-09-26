@@ -1,0 +1,15 @@
+AGENTS.local.md
+.env
+.env.*
+!.env.example
+.venv/
+.obsidian/
+__pycache__/
+*.pyc
+data/
+tmp*/
+node_modules/
+dist/
+build/
+coverage/
+*.log
