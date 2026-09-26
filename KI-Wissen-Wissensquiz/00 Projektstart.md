@@ -18,7 +18,7 @@
 
 - Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
 - Private Sites-Adresse verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
-- Aktuelle private Sites-Veröffentlichung mit Darstellerergänzungen, optionalen Genre-/Schwierigkeitshinweisen und persönlicher Bestenliste erfolgreich (`succeeded`, App-Commit `b043771`). 51 Logiktests und 20 lokale Browserprüfungen erfolgreich. Physischer Smartphone-/PWA-/Hör-/Vibrationstest weiterhin offen.
+- Aktuelle private Sites-Veröffentlichung mit vorbereiteter, noch deaktivierter Kontenanbindung erfolgreich (`succeeded`, App-Commit `a34a0e0`). 57 Logik-/Datenbanktests und 25 lokale Browserprüfungen erfolgreich. Physischer Smartphone-/PWA-/Hör-/Vibrationstest und echte Kontodienst-/Mailprüfung weiterhin offen.
 - Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
 - Eigene Anmeldung mit Spielername, E-Mail/Passwort, Bestätigung und Reset über Supabase vorbereitet; noch deaktiviert, da Projekt und Mailversand fehlen. Manuelle Online-Sicherung mit Revisionsprüfung und getrennten Gast-/Kontoständen implementiert. Einrichtung unter `docs/Konten-Einrichtung.md`; gemeinsame Bestenliste und automatische Synchronisierung noch offen. 57 Logik-/Datenbanktests und 25 Browserprüfungen bestanden; echte Dienst-/Mailtests stehen aus. Äußere Sites-Zugangsschranke bleibt privat.
 
