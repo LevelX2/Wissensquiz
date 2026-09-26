@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, nach Horror-Ergänzung 35 Logik-/Persistenztests und 11 Browserprüfungen erfolgreich. Letzter `npm audit`: 0 bekannte Schwachstellen; bei der Horror-Ergänzung keine Abhängigkeiten geändert und Audit nicht erneut ausgeführt. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, nach Genre-/Stufenmehrfachauswahl 42 Logik-/Persistenztests und 12 Browserprüfungen erfolgreich. Letzter `npm audit`: 0 bekannte Schwachstellen; bei Horror-Ergänzung und Mehrfachauswahl keine Abhängigkeiten geändert und Audit nicht erneut ausgeführt. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -60,3 +60,9 @@ Am 26.09.2026 alle 180 gelieferten Horror-Fragen mit dem App-Parser gegen Sci-Fi
 ## Nachfolgende private Live-Aktualisierung
 
 Auf ausdrücklichen Auftrag am 26.09.2026 den unveränderten geprüften Anwendungscode aus Commit `f871f709ef6fd413c9a3a159b27fe13d07daac9e` erneut erfolgreich gebaut und als Sites-Version 3 veröffentlicht. Deployment `appgdep_6ab7a24215f48191b7c425ba389f75d8` meldet `succeeded`. Authentifizierte HTTP-Prüfung: Startseite, Service Worker und Horror-CSV jeweils Status 200; Horror-CSV bytegleich, im Worker-Manifest enthalten. Zugriff weiterhin nur für Eigentümer; Einladungsfunktion verfügbar. Kein zusätzlicher Live-Browser-, Smartphone- oder PWA-Installationstest.
+
+## Mehrfachauswahl von Genres und Stufen
+
+42 Logik-/Persistenztests und zwölf Browserprüfungen bestanden. In allen drei Modi Auswahl auf Horror + Sci-Fi und Leicht + Mittel begrenzt, Wissensziele eindeutig, leere Auswahl ohne Rundenerzeugung, zukünftiges Genre Fantasy aus Metadaten erkennbar, optionale Filmreihe weiter einschränkend. Rekordschlüssel unabhängig von Klickreihenfolge, getrennte Kombinationen und unveränderte historische Schlüssel geprüft. Sicherungen erhalten neue Filter und alte Runden ohne Filter; widersprüchliche Filter/Snapshots werden abgelehnt.
+
+Im isolierten Chromium-Profil bei kontrollierter Zeit die Checkboxen kombiniert, leere Genre-/Stufenauswahl geprüft, eine passende Runde beantwortet und nach Neuladen unverändert fortgesetzt. Mobile Ansicht bei 320 Pixeln ohne horizontalen Überlauf; tatsächlich gerenderten Screenshot der Auswahl angesehen. Export/Import, Offline-Neuladen, Browserneustart und automatische Barrierearmutsprüfung weiterhin erfolgreich. Keine echten Nutzerstände verwendet oder hochgeladen. Konten/Datenbank/Bestenliste bisher nur Entwurf.

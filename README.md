@@ -23,6 +23,9 @@ npm run preview
 
 ## Spielen
 
+- **Filmgenres kombinieren:** Sci-Fi, Action und Horror können gemeinsam oder einzeln ausgewählt werden. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen sind eine optionale, aufklappbare Verfeinerung.
+- **Schwierigkeitsstufen kombinieren:** zum Beispiel Leicht + Mittel. Eine leere Genre- oder Stufenauswahl startet keine Runde. Die Auswahl bleibt im Rundensnapshot, in Sicherungen und in getrennten Rekordkategorien erhalten; alte Runden bleiben lesbar.
+
 - Erste Runde standardmäßig fünf, weitere zehn unterschiedliche Wissensziele; kleinere Bestände verkürzen die Runde transparent.
 - **Entdecken:** neue/wenig bekannte Ziele, fällige Wiederholungen und sichere Inhalte.
 - **Besser werden:** fällige Ziele stärker gewichtet, ohne Zeitdruck.
@@ -92,3 +95,5 @@ npm audit
 Tests verwenden isolierte Browserprofile und kontrollierte Testzeiten. Produktive Nutzerstände werden nicht verwendet. Tatsächliche Ergebnisse und Grenzen: [Prüfbericht](docs/Pruefbericht.md).
 
 Git: lokal ohne Remote, Integrationsbranch `main`, Umsetzung auf `codex/spielbare-testversion`. [Projektwissen](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md).
+
+Konten, geräteübergreifende Speicherung und gemeinsame Bestenliste sind als [Entwurf](docs/Konten-und-Spielstaende.md) dokumentiert, aber noch nicht implementiert. Bisherige Spielstände werden weiterhin ausschließlich lokal gespeichert.

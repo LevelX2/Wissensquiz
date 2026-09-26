@@ -3,6 +3,7 @@
 ## Aktueller Stand
 
 - Spielbare deutsche React-/TypeScript-Testversion mit Entdecken, Besser werden und Rekordrunde umgesetzt.
+- Filmgenres und Schwierigkeitsstufen als Mehrfachauswahl; einzelne Filme/Reihen nur als optionale Verfeinerung. Alte Runden und Spielstände bleiben erhalten.
 - 540 gelieferte Fragen aus Sci-Fi, Action und Horror, 450 Wissensziele und 90 Varianten; 76 Themen. Sämtliche Datensätze strukturell akzeptiert.
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
 - Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
@@ -16,6 +17,7 @@
 - Private Sites-Adresse verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
 - Sci-Fi, Action und Horror als private Sites-Version 3 veröffentlicht. Live-HTML, Service Worker und unveränderte Horror-CSV per authentifiziertem HTTP-Abruf geprüft; physischer Smartphone-/PWA-Test weiterhin offen.
 - Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
+- Konten, geräteübergreifende Spielstände und gemeinsame Bestenliste als Entwurf unter `docs/Konten-und-Spielstaende.md`. Eigene Anmeldung unabhängig von ChatGPT gewünscht; Anbieter, Umsetzung und Wechsel der äußeren Sites-Zugangsschranke noch offen. Keine Cloud-Speicherung eingerichtet.
 
 ## Einstieg
 

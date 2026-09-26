@@ -25,12 +25,98 @@ async function answerCurrent(page: Page, correct = true) {
   return q;
 }
 
+test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalten", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
+  await page.setViewportSize({ width: 320, height: 740 });
+  await launch(page);
+  const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
+  const levels = page.getByRole("group", {
+    name: "Schwierigkeitsstufen",
+    exact: true,
+  });
+  await expect(genres.getByRole("checkbox")).toHaveCount(3);
+  await expect(page.getByLabel("Thema wählen")).not.toBeVisible();
+  await genres.getByLabel("Action", { exact: true }).uncheck();
+  await levels.getByLabel("Schwer", { exact: true }).uncheck();
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page
+    .locator(".round-setup")
+    .screenshot({ path: "test-results/multiple-filters-mobile.png" });
+  await genres.getByLabel("Sci-Fi", { exact: true }).uncheck();
+  await genres.getByLabel("Horror", { exact: true }).uncheck();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
+  await expect(page.getByRole("status")).toContainText(
+    "Wähle mindestens ein Genre",
+  );
+  await genres.getByLabel("Horror", { exact: true }).check();
+  await genres.getByLabel("Sci-Fi", { exact: true }).check();
+  await levels.getByLabel("Leicht", { exact: true }).uncheck();
+  await levels.getByLabel("Mittel", { exact: true }).uncheck();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
+  await levels.getByLabel("Leicht", { exact: true }).check();
+  await levels.getByLabel("Mittel", { exact: true }).check();
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await answerCurrent(page);
+  const readRound = () =>
+    page.evaluate(
+      () =>
+        new Promise<{
+          filters: { genres: string[]; difficulties: string[] };
+          questions: { difficulty: string; metadata: { subdomain: string } }[];
+        }>((resolve, reject) => {
+          const req = indexedDB.open("wissensquiz", 1);
+          req.onerror = () => reject(req.error);
+          req.onsuccess = () => {
+            const db = req.result;
+            const query = db
+              .transaction("state")
+              .objectStore("state")
+              .get("current");
+            query.onsuccess = () => {
+              resolve(
+                query.result.rounds.find(
+                  (r: { status: string }) => r.status === "active",
+                ),
+              );
+              db.close();
+            };
+            query.onerror = () => reject(query.error);
+          };
+        }),
+    );
+  const before = await readRound();
+  expect(before.filters).toEqual({
+    genres: ["Horror", "Science-Fiction"],
+    difficulties: ["leicht", "mittel"],
+  });
+  expect(
+    before.questions.every(
+      (q) =>
+        ["Horror", "Science-Fiction"].includes(q.metadata.subdomain) &&
+        ["leicht", "mittel"].includes(q.difficulty),
+    ),
+  ).toBe(true);
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  await expect(page.locator(".feedback")).toBeVisible();
+  expect(await readRound()).toEqual(before);
+});
+
 for (const oldPackageCount of [1, 2]) {
   test(`Neue Pakete ergänzen einen Spielstand mit ${oldPackageCount} Paketen beim Neuladen`, async ({
     page,
   }) => {
     await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
     await launch(page);
+    await page
+      .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
+      .click();
     await page.getByLabel("Thema wählen").selectOption("Alien");
     await page.getByRole("button", { name: "Losspielen" }).click();
     await answerCurrent(page, true);
@@ -232,6 +318,9 @@ test("Offline-Neuladen mit gespeichertem Paket und Spielfortschritt", async ({
   await expect(page.getByText("Paket bereit", { exact: false })).toBeVisible({
     timeout: 20000,
   });
+  await page
+    .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
+    .click();
   await page.getByLabel("Thema wählen").selectOption("Halloween");
   expect(
     await page.evaluate(

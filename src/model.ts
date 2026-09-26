@@ -51,6 +51,11 @@ export const questionSchema = z
   );
 export type Question = z.infer<typeof questionSchema>;
 export type Mode = "entdecken" | "ueben" | "rekord";
+export type Difficulty = Question["difficulty"];
+export interface QuizFilters {
+  genres: string[];
+  difficulties: Difficulty[];
+}
 export interface Learning {
   knowledgeId: string;
   stage: number;
@@ -81,6 +86,7 @@ export interface Round {
   mode: Mode;
   topic: string;
   difficulty: string;
+  filters?: QuizFilters;
   ruleVersion: string;
   questions: Question[];
   order: string[][];

@@ -1,6 +1,7 @@
 import { z } from "zod";
 import { emptyState, questionSchema, type State } from "./model";
 import { rebuild } from "./engine";
+import { matchesFilters } from "./filters";
 const time = z.number().finite().nonnegative();
 const id = z.string().min(1).max(200);
 const learningSchema = z.object({
@@ -19,6 +20,15 @@ const roundSchema = z.object({
   mode: z.enum(["entdecken", "ueben", "rekord"]),
   topic: id,
   difficulty: id,
+  filters: z
+    .object({
+      genres: z.array(id).min(1).max(20000),
+      difficulties: z
+        .array(z.enum(["leicht", "mittel", "schwer"]))
+        .min(1)
+        .max(3),
+    })
+    .optional(),
   ruleVersion: id,
   questions: z.array(questionSchema).min(1).max(10),
   order: z.array(z.array(id).length(4)),
@@ -103,6 +113,12 @@ export function validateBackup(value: unknown): State {
     )
       throw new Error("Ungültige Rundenzuordnung.");
     r.questions.forEach((q, i) => {
+      if (
+        r.filters &&
+        (!matchesFilters(q, r.filters) ||
+          (r.topic !== "Alle Themen" && q.topic !== r.topic))
+      )
+        throw new Error("Frage passt nicht zur gespeicherten Rundenauswahl.");
       if (
         !unique(r.order[i]) ||
         r.order[i].some((id) => !q.answers.some((a) => a.id === id))

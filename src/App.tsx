@@ -20,7 +20,16 @@ import {
   type Question,
   type Round,
   type State,
+  type Difficulty,
 } from "./model";
+import {
+  difficulties,
+  difficultyLabel,
+  genreOf,
+  genreLabel,
+  roundGenres,
+  roundDifficulties,
+} from "./filters";
 import { download, read, restore, update, validateBackup } from "./storage";
 import { useOffline } from "./offline";
 import {
@@ -62,16 +71,18 @@ function TopicCard({
   state,
   onPlay,
   onFavorite,
+  genre = false,
 }: {
   topic: string;
   state: State;
   onPlay: () => void;
   onFavorite?: () => void;
+  genre?: boolean;
 }) {
   const ids = [
     ...new Set(
       state.questions
-        .filter((q) => q.topic === topic)
+        .filter((q) => (genre ? genreOf(q) === topic : q.topic === topic))
         .map((q) => q.knowledgeId),
     ),
   ];
@@ -98,7 +109,7 @@ function TopicCard({
       </div>
       <div className="topic-body">
         <span className="eyebrow">{ids.length} Wissensziele</span>
-        <h3>{topic}</h3>
+        <h3>{genre ? genreLabel(topic) : topic}</h3>
         <div className="mini-stats">
           <span>
             <b>{counts[0]}</b> entdeckt
@@ -119,7 +130,7 @@ function TopicCard({
           Ziel: {ids.length} vorhandene Wissensziele festigen
         </p>
         <button className="text-button" onClick={onPlay}>
-          Thema spielen <span>↗</span>
+          {genre ? "Genre auswählen" : "Thema spielen"} <span>↗</span>
         </button>
       </div>
     </article>
@@ -132,7 +143,10 @@ export function App() {
   const [busy, setBusy] = useState(false);
   const [mode, setMode] = useState<Mode>("entdecken");
   const [topic, setTopic] = useState("Alle Themen");
-  const [difficulty, setDifficulty] = useState("Alle Stufen");
+  const [selectedGenres, setSelectedGenres] = useState<string[] | null>(null);
+  const [selectedDifficulties, setSelectedDifficulties] = useState<
+    Difficulty[]
+  >([...difficulties]);
   const [roundId, setRoundId] = useState("");
   const [index, setIndex] = useState(0);
   const heading = useRef<HTMLElement>(null);
@@ -230,6 +244,29 @@ export function App() {
       </main>
     );
   const topics = [...new Set(state.questions.map((q) => q.topic))].sort();
+  const genres = [...new Set(state.questions.map(genreOf))].sort();
+  const filters = {
+    genres: selectedGenres ?? genres,
+    difficulties: selectedDifficulties,
+  };
+  const availableTopics = topics.filter((t) =>
+    state.questions.some(
+      (q) => q.topic === t && filters.genres.includes(genreOf(q)),
+    ),
+  );
+  const toggleGenre = (genre: string) => {
+    setSelectedGenres(
+      filters.genres.includes(genre)
+        ? filters.genres.filter((g) => g !== genre)
+        : [...filters.genres, genre],
+    );
+    setTopic("Alle Themen");
+  };
+  const playGenre = (genre: string) => {
+    setSelectedGenres([genre]);
+    setTopic("Alle Themen");
+    setPage("home");
+  };
   const completed = state.rounds.filter((r) => r.status === "completed");
   const active = state.rounds.find((r) => r.status === "active");
   const current = state.rounds.find((r) => r.id === roundId);
@@ -237,14 +274,26 @@ export function App() {
   const selection = selectQuestions(
     state.questions,
     state.learning,
-    { mode, topic, difficulty, size: targetSize, now: Date.now() },
+    {
+      mode,
+      topic,
+      difficulty: "Alle Stufen",
+      filters,
+      size: targetSize,
+      now: Date.now(),
+    },
     () => 0.5,
   );
   const begin = async () => {
     let id = "";
     const next = await mutate((s) => {
       s.settings.spoilers = true;
-      id = startRound(s, { mode, topic, difficulty }).id;
+      id = startRound(s, {
+        mode,
+        topic,
+        difficulty: "Alle Stufen",
+        filters,
+      }).id;
     });
     if (next) {
       setRoundId(id);
@@ -260,6 +309,9 @@ export function App() {
     }
   };
   const playTopic = (t: string) => {
+    setSelectedGenres([
+      ...new Set(state.questions.filter((q) => q.topic === t).map(genreOf)),
+    ]);
     setTopic(t);
     setMode("ueben");
     setPage("home");
@@ -422,31 +474,85 @@ export function App() {
                   ))}
                 </div>
                 <div className="setup-bottom">
-                  <div className="filters">
-                    <label>
-                      Thema wählen
-                      <select
-                        value={topic}
-                        onChange={(e) => setTopic(e.target.value)}
-                      >
-                        <option>Alle Themen</option>
-                        {topics.map((t) => (
-                          <option key={t}>{t}</option>
+                  <div className="quiz-filters">
+                    <fieldset>
+                      <legend>Filmgenres</legend>
+                      <p className="muted tiny">
+                        Ein oder mehrere Genres kombinieren.
+                      </p>
+                      <div className="filter-options">
+                        {genres.map((g) => (
+                          <label className="filter-choice" key={g}>
+                            <input
+                              type="checkbox"
+                              checked={filters.genres.includes(g)}
+                              onChange={() => toggleGenre(g)}
+                            />
+                            <span>{genreLabel(g)}</span>
+                          </label>
                         ))}
-                      </select>
-                    </label>
-                    <label>
-                      Schwierigkeit
-                      <select
-                        value={difficulty}
-                        onChange={(e) => setDifficulty(e.target.value)}
+                      </div>
+                      <button
+                        className="text-button"
+                        onClick={() => {
+                          setSelectedGenres(null);
+                          setTopic("Alle Themen");
+                        }}
                       >
-                        <option>Alle Stufen</option>
-                        <option value="leicht">Leicht</option>
-                        <option value="mittel">Mittel</option>
-                        <option value="schwer">Schwer</option>
-                      </select>
-                    </label>
+                        Alle Genres auswählen
+                      </button>
+                    </fieldset>
+                    <fieldset>
+                      <legend>Schwierigkeitsstufen</legend>
+                      <div className="filter-options">
+                        {difficulties.map((d) => (
+                          <label className="filter-choice" key={d}>
+                            <input
+                              type="checkbox"
+                              checked={selectedDifficulties.includes(d)}
+                              onChange={() =>
+                                setSelectedDifficulties(
+                                  selectedDifficulties.includes(d)
+                                    ? selectedDifficulties.filter(
+                                        (x) => x !== d,
+                                      )
+                                    : [...selectedDifficulties, d],
+                                )
+                              }
+                            />
+                            <span>{difficultyLabel(d)}</span>
+                          </label>
+                        ))}
+                      </div>
+                      <button
+                        className="text-button"
+                        onClick={() =>
+                          setSelectedDifficulties([...difficulties])
+                        }
+                      >
+                        Alle Stufen auswählen
+                      </button>
+                    </fieldset>
+                    <details
+                      className="fine-filter"
+                      open={topic !== "Alle Themen" ? true : undefined}
+                    >
+                      <summary>
+                        Optional: einzelne Filme oder Filmreihen
+                      </summary>
+                      <label>
+                        Thema wählen
+                        <select
+                          value={topic}
+                          onChange={(e) => setTopic(e.target.value)}
+                        >
+                          <option>Alle Themen</option>
+                          {availableTopics.map((t) => (
+                            <option key={t}>{t}</option>
+                          ))}
+                        </select>
+                      </label>
+                    </details>
                   </div>
                   <button
                     className="primary"
@@ -463,11 +569,18 @@ export function App() {
                     ? " Die Uhr läuft bei einem Tabwechsel weiter; Neuladen beendet die Rekordrunde."
                     : ""}
                 </p>
-                {selection.length < targetSize && (
-                  <p className="tiny muted">
-                    Die Runde ist an Deinen Bestand angepasst. Fällige Inhalte
-                    werden auf höchstens fünf pro Runde begrenzt.
+                {!selection.length ? (
+                  <p role="status" className="notice">
+                    Wähle mindestens ein Genre und eine Schwierigkeitsstufe mit
+                    verfügbaren Fragen.
                   </p>
+                ) : (
+                  selection.length < targetSize && (
+                    <p className="tiny muted">
+                      Die Runde ist an Deinen Bestand angepasst. Fällige Inhalte
+                      werden auf höchstens fünf pro Runde begrenzt.
+                    </p>
+                  )
                 )}
                 {active && (
                   <div className="resume notice">
@@ -515,16 +628,17 @@ export function App() {
                     className="text-button"
                     onClick={() => setPage("topics")}
                   >
-                    Alle Themen ↗
+                    Alle Genres ↗
                   </button>
                 </div>
                 <div className="topic-grid">
-                  {topics.slice(0, 3).map((t) => (
+                  {genres.map((t) => (
                     <TopicCard
                       key={t}
                       topic={t}
+                      genre
                       state={state}
-                      onPlay={() => playTopic(t)}
+                      onPlay={() => playGenre(t)}
                     />
                   ))}
                 </div>
@@ -543,16 +657,17 @@ export function App() {
                 Welten zum <em>Entdecken.</em>
               </h1>
               <p className="lead">
-                Wähle ein Thema. Wir stellen eine kleine Runde aus neuen Ideen
-                und passenden Wiederholungen zusammen.
+                Wähle ein Filmgenre. Auf der Startseite kannst Du mehrere Genres
+                und Schwierigkeitsstufen kombinieren.
               </p>
               <div className="topic-grid">
-                {topics.map((t) => (
+                {genres.map((t) => (
                   <TopicCard
                     key={t}
                     topic={t}
+                    genre
                     state={state}
-                    onPlay={() => playTopic(t)}
+                    onPlay={() => playGenre(t)}
                   />
                 ))}
               </div>
@@ -690,11 +805,11 @@ export function App() {
                         >
                           <div>
                             <b>
-                              {modeNames[r.mode]} · {r.topic}
+                              {modeNames[r.mode]} · {roundGenres(r)}
                             </b>
                             <small>
                               {formatDate(r.finishedAt!)} · {r.questions.length}{" "}
-                              Fragen · {r.difficulty}
+                              Fragen · {roundDifficulties(r)}
                             </small>
                           </div>
                           <span>
@@ -1120,8 +1235,8 @@ function Result({
             {events.reduce((a, e) => a + e.timeBonus, 0)} Zeitbonus
           </span>
           <small>
-            Lokale Trainingsrunde · {round.topic} · {round.difficulty} · Regel{" "}
-            {round.ruleVersion}
+            Lokale Trainingsrunde · {roundGenres(round)} ·{" "}
+            {roundDifficulties(round)} · Regel {round.ruleVersion}
           </small>
         </div>
       )}

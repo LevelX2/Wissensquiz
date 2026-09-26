@@ -5,8 +5,10 @@ import type {
   Question,
   Round,
   State,
+  QuizFilters,
 } from "./model";
 import { uid } from "./model";
+import { canonicalFilters, matchesFilters } from "./filters";
 export const DAY = 86_400_000;
 export const RULES = {
   version: "1",
@@ -93,6 +95,7 @@ export function selectQuestions(
   options: {
     topic: string;
     difficulty: string;
+    filters?: QuizFilters;
     mode: Mode;
     size: number;
     now: number;
@@ -103,8 +106,10 @@ export function selectQuestions(
     questions.filter(
       (q) =>
         (options.topic === "Alle Themen" || q.topic === options.topic) &&
-        (options.difficulty === "Alle Stufen" ||
-          q.difficulty === options.difficulty),
+        (options.filters
+          ? matchesFilters(q, options.filters)
+          : options.difficulty === "Alle Stufen" ||
+            q.difficulty === options.difficulty),
     ),
     random,
   );
@@ -143,7 +148,20 @@ export function selectQuestions(
   return shuffle(result, random);
 }
 export const recordKey = (r: Round) =>
-  JSON.stringify([r.topic, r.difficulty, r.questions.length, r.ruleVersion]);
+  r.filters
+    ? JSON.stringify([
+        "genres-v1",
+        canonicalFilters(r.filters),
+        r.topic,
+        r.questions.length,
+        r.ruleVersion,
+      ])
+    : JSON.stringify([
+        r.topic,
+        r.difficulty,
+        r.questions.length,
+        r.ruleVersion,
+      ]);
 export const points = (events: AnswerEvent[]) =>
   events.reduce((sum, e) => sum + e.knowledgePoints + e.timeBonus, 0);
 export const badgeEligible = (q: Question) =>
@@ -180,7 +198,12 @@ export function rebuild(state: State, awardBadges = false) {
 }
 export function startRound(
   state: State,
-  options: { mode: Mode; topic: string; difficulty: string },
+  options: {
+    mode: Mode;
+    topic: string;
+    difficulty: string;
+    filters?: QuizFilters;
+  },
   now = Date.now(),
 ): Round {
   if (state.rounds.some((r) => r.status === "active"))
@@ -196,6 +219,7 @@ export function startRound(
     throw new Error("Für diese Auswahl sind keine Fragen verfügbar.");
   const round: Round = {
     ...options,
+    ...(options.filters ? { filters: canonicalFilters(options.filters) } : {}),
     id: uid(),
     questions,
     order: questions.map((q) => shuffle(q.answers.map((a) => a.id))),

@@ -564,6 +564,64 @@ textarea {
 .filters select {
   font-size: 12px;
 }
+.quiz-filters {
+  display: grid;
+  gap: 18px;
+  flex: 1;
+  min-width: 0;
+}
+.quiz-filters fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  min-width: 0;
+}
+.quiz-filters legend {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.filter-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.filter-choice {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 44px;
+  padding: 9px 14px;
+  border: 1px solid #555b5a;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #eee8db;
+  max-width: 100%;
+}
+.filter-choice:has(input:checked) {
+  border-color: var(--accent);
+  background: #39392e;
+}
+.filter-choice input {
+  width: 18px;
+  height: 18px;
+  min-height: 18px;
+  padding: 0;
+  margin: 0;
+  accent-color: var(--accent);
+  flex-shrink: 0;
+}
+.quiz-filters .text-button {
+  min-height: 44px;
+  font-size: 12px;
+}
+.fine-filter summary {
+  cursor: pointer;
+  min-height: 44px;
+  padding: 10px 0;
+  font-size: 12px;
+  color: #c6c8c1;
+}
 .spoiler-note {
   font-size: 10px;
   color: #a7a8a8;

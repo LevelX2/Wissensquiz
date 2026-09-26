@@ -11,6 +11,7 @@
 - [Starten, Funktionen und Projektaufbau](../../../README.md)
 - [CSV-Import, vollständige Feldzuordnung und Inhaltsgrenzen](../../../docs/Importformat.md)
 - [Lernregeln, Auswahl, Punkte, Speicher- und Offlinevertrag](../../../docs/Lernregeln.md)
+- [Entwurf: Konten und gemeinsame Spielstände](../../../docs/Konten-und-Spielstaende.md)
 - [Tatsächliche Prüfungen und bekannte Grenzen](../../../docs/Pruefbericht.md)
 - [Maschineller Importbericht](../../../docs/importbericht.json)
 - [Unveränderte gelieferte Rohquelle](../../01%20Rohquellen/SciFi_Quiz_180_Fragen.csv)
