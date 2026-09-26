@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 95 Logik-/Persistenz-/Datenbanktests und alle 53 Browserfälle erfolgreich (51 im vollständigen Lauf, zwei nach Testlocator-Korrektur gezielt nachgeprüft). Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 103 Logik-/Persistenz-/Datenbanktests und alle 56 Browserfälle erfolgreich (55 im vollständigen Lauf, einer nach Testdatenergänzung gezielt nachgeprüft). Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -212,3 +212,15 @@ Rohquellen, Nutzerdaten und Lernregeln unverändert. Keine neue physische iPhone
 Standard „Nach der Antwort“, alternativ „Immer anzeigen“ und „Ausblenden“ unter Profil → Optionen. Optionales settings.questionHistory mit Rückfall auf after, über bestehende Sicherungswege erhalten.
 
 95 Logik-/Datenbanktests und Produktions-Build erfolgreich. Alle 53 Browserfälle erfolgreich: 51 im vollständigen Lauf, beide erweiterten Statistikfälle nach Korrektur des Optionsbutton-Locators gezielt erneut bestanden. Die Fälle prüfen ältere Spielstände ohne Einstellung, Standard erst nach Antwort, alle drei Anzeigeoptionen, Speicherung über Neuladen, aktuelle Antwort inklusive und unveränderte Variantenbilanz; Rekordrunden bleiben ohne Anzeige. Kein Produktfehler aus dem ersten Lauf, keine Änderungen an Rohquellen, Ereignissen oder Lernfortschritt.
+
+## 26.09.2026 — Martial Arts, Rom-Com und Arthouse
+
+540 neue Fragen/450 Ziele aus drei Paketen eingebunden; Rohdateien sowie öffentliche und Build-Kopien bytegleich. Alle bestehenden CSV unverändert. Gesamt 1.980 Fragen/1.650 Ziele/258 Film- und Reihenthemen/zwölf Genres. Die Bezeichnung Martial Arts & Asia-Film folgt dem breiten Inhalt der Quelle; RomCom im Arthouse-Paket wird mit erhaltenem Quellwert zu Rom-Com normalisiert.
+
+Alle 258 Classics-Referenzen jetzt vorhanden, darunter die zuvor fehlenden 33. Alle 126 Arthouse-Referenzen passend; keine fehlenden oder abweichenden IDs, alle referenzierten Quellhashes passen. Kategorieansichten Classics (438 Fragen/360 Ziele/61 Filme) und Arthouse (306/258/44) überlappen bei 48 Fragen; die gemeinsame Auswahl umfasst 696 Fragen ohne doppelte Identitäten. Bestehende Tags werden als Mengenergänzung erhalten, Rundensnapshots nicht verändert. Keine Datenbankmigration oder Eingriffe in persönliche Spielstände.
+
+Drei neue transparente Genre-/Kategoriebilder mit integriertem image_gen erzeugt und als Originale eingebunden, visuell und Alpha geprüft. Themenansicht auf Desktop und beide Kategorien auf 320-Pixel-Breite anhand gerenderter Screenshots geprüft. Hilfe erklärt kuratierte Kategorien und ODER-Kombination innerhalb der Genre-/Filmfilter.
+
+103 Logik-/Datenbanktests, Produktions-Build und alle 56 Browserfälle erfolgreich (54 Chromium, zwei WebKit/iPhone-Profil): 55 im letzten vollständigen Lauf, der Rekordübersichtstest nach Aktualisierung seiner festen Genreauswahl gezielt nachgeprüft. Ein erster Lauf traf auf alte Paketlisten/Zählwerte in Testhilfen und einen falschen Screenshot-Locator; diese Tests wurden auf den erweiterten Bestand angepasst. Kein verbleibender Produktfehler aus den Läufen. Die sechs Kategorietests wurden nach Ergänzung der kombinierten Backup-Prüfung erneut erfolgreich ausgeführt.
+
+Zusätzliche Prüfungen: vollständiger Import samt Antworten/Feedback und Variantenverweisen, parallele Paketergänzung älterer Stände mit einem bis zehn Paketen, bisheriger Acht-Pakete-Stand auch im Browser, Kategorie-Mehrfachzuordnung/Fehlreferenzen/Idempotenz, genreübergreifende Deduplizierung, gemeinsame Lernidentität, historische Rundensnapshots und Backup nach Kategorienwechsel. Browser: Arthouse allein/gemeinsam mit Classics plus Rom-Com und Amélie, Bilder, Axe, Offline-Neuladen und erhaltene Antwortstatistik. Keine zusätzliche unabhängige fachliche Filmprüfung und keine physische Smartphone-Abnahme.

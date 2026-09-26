@@ -1,3 +1,4 @@
+import { normalizeGenre } from "./filters";
 import Papa from "papaparse";
 import { questionSchema, type Question, type ImportReport } from "./model";
 export function fingerprint(text: string) {
@@ -171,10 +172,10 @@ export function importCsv(
         tags: (row.topic_tags || "").split(/[;,|]/).filter(Boolean),
         badgeTags: (row.badge_tags || "").split(/[;,|]/).filter(Boolean),
         metadata:
-          row.subdomain === "Sci-Fi"
+          normalizeGenre(row.subdomain) !== row.subdomain
             ? {
                 ...row,
-                subdomain: "Science-Fiction",
+                subdomain: normalizeGenre(row.subdomain),
                 source_subdomain: row.subdomain,
               }
             : row,

@@ -1,63 +1,105 @@
-import additions from "../KI-Wissen-Wissensquiz/01 Rohquellen/Classics_Zuordnungen_Bestand.json" with { type: "json" };
+import classics from "../KI-Wissen-Wissensquiz/01 Rohquellen/Classics_Zuordnungen_Bestand.json" with { type: "json" };
+import arthouse from "../KI-Wissen-Wissensquiz/01 Rohquellen/Arthouse_Zuordnungen_Bestand.json" with { type: "json" };
 import type { Question } from "./model";
+import { normalizeGenre } from "./filters";
 
 export const CLASSICS = "Classics";
+export const ARTHOUSE = "Arthouse";
+export const categories = [CLASSICS, ARTHOUSE] as const;
+export type Category = (typeof categories)[number];
+const additions = { [CLASSICS]: classics, [ARTHOUSE]: arthouse };
 const references = new Map(
-  additions.entries.map((entry) => [entry.question_id, entry]),
+  categories.map((category) => [
+    category,
+    new Map(
+      additions[category].entries.map((entry) => [entry.question_id, entry]),
+    ),
+  ]),
 );
-export function matchesCategoryReference(q: Question) {
-  const ref = references.get(q.id);
+export function matchesCategoryReference(
+  q: Question,
+  category: Category = CLASSICS,
+) {
+  const ref = references.get(category)?.get(q.id);
   return (
     !!ref &&
     q.knowledgeId === ref.knowledge_id &&
     (q.metadata.variant_of || "") === ref.variant_of &&
     q.metadata.film_title_original === ref.film_title_original &&
     q.metadata.film_year === ref.film_year &&
-    q.metadata.subdomain === ref.subdomain
+    normalizeGenre(q.metadata.subdomain) === normalizeGenre(ref.subdomain)
   );
 }
-// Only the curated, identity-checked tag additions are allowed to differ from
-// historical snapshots. Text, source metadata, versions and learning IDs stay intact.
+// Only identity-checked tag additions may differ from historical snapshots.
+// Text, source metadata, versions and learning IDs stay intact.
 export function withCategoryTags(q: Question): Question {
-  if (!matchesCategoryReference(q)) return q;
+  const matched = categories.filter((c) => matchesCategoryReference(q, c));
+  if (!matched.length) return q;
   return {
     ...q,
-    tags: [...new Set([...q.tags, CLASSICS])],
-    badgeTags: [...new Set([...q.badgeTags, CLASSICS])],
+    tags: [...new Set([...q.tags, ...matched])],
+    badgeTags: [...new Set([...q.badgeTags, ...matched])],
   };
 }
-export function applyCategoryTags(questions: Question[]) {
+export function applyCategoryTags(questions: Question[], category?: Category) {
   const byId = new Map(questions.map((q, index) => [q.id, index]));
   const applied: string[] = [],
     missing: string[] = [],
     mismatched: string[] = [];
-  for (const ref of additions.entries) {
-    const index = byId.get(ref.question_id);
-    if (index === undefined) {
-      missing.push(ref.question_id);
-      continue;
+  for (const c of category ? [category] : categories) {
+    for (const ref of additions[c].entries) {
+      const index = byId.get(ref.question_id);
+      if (index === undefined) {
+        missing.push(ref.question_id);
+        continue;
+      }
+      const q = questions[index];
+      if (!matchesCategoryReference(q, c)) {
+        mismatched.push(q.id);
+        continue;
+      }
+      questions[index] = {
+        ...q,
+        tags: [...new Set([...q.tags, c])],
+        badgeTags: [...new Set([...q.badgeTags, c])],
+      };
+      applied.push(q.id);
     }
-    const q = questions[index];
-    if (!matchesCategoryReference(q)) {
-      mismatched.push(q.id);
-      continue;
-    }
-    questions[index] = withCategoryTags(q);
-    applied.push(q.id);
   }
-  return { applied, missing, mismatched };
+  return {
+    applied: [...new Set(applied)],
+    missing: [...new Set(missing)],
+    mismatched: [...new Set(mismatched)],
+  };
 }
-export const isClassic = (q: Question) =>
-  withCategoryTags(q).tags.includes(CLASSICS);
-export const categoryTopic = (topic: string, classics: boolean) =>
-  classics
+export const isCategory = (q: Question, category: Category) =>
+  withCategoryTags(q).tags.includes(category);
+export const isClassic = (q: Question) => isCategory(q, CLASSICS);
+export const matchesCategories = (q: Question, selected: readonly Category[]) =>
+  !selected.length || selected.some((c) => isCategory(q, c));
+export const categoryTopic = (
+  topic: string,
+  selected: readonly Category[] | boolean,
+) => {
+  const list =
+    typeof selected === "boolean" ? (selected ? [CLASSICS] : []) : selected;
+  const prefix = categories.filter((c) => list.includes(c)).join(" + ");
+  return prefix
     ? topic === "Alle Themen"
-      ? CLASSICS
-      : `${CLASSICS}: ${topic}`
+      ? prefix
+      : `${prefix}: ${topic}`
     : topic;
+};
 export function matchesTopic(q: Question, topic: string) {
-  if (topic === CLASSICS) return isClassic(q);
-  if (topic.startsWith(`${CLASSICS}: `))
-    return isClassic(q) && q.topic === topic.slice(CLASSICS.length + 2);
+  const [prefix, ...rest] = topic.split(": ");
+  const selected = prefix.split(" + ");
+  if (
+    selected.length &&
+    selected.every((c) => categories.includes(c as Category))
+  )
+    return (
+      matchesCategories(q, selected as Category[]) &&
+      (!rest.length || q.topic === rest.join(": "))
+    );
   return topic === "Alle Themen" || q.topic === topic;
 }

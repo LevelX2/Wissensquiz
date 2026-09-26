@@ -9,7 +9,7 @@ test("Genres gesammelt abwählen und Filmkarten mit Genreillustrationen anzeigen
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
-  await expect(genres.locator(".genre-thumbnail")).toHaveCount(10);
+  await expect(genres.locator(".genre-thumbnail")).toHaveCount(12);
   await genres
     .getByRole("button", { name: "Alle Genres abwählen", exact: true })
     .click();
@@ -28,7 +28,7 @@ test("Genres gesammelt abwählen und Filmkarten mit Genreillustrationen anzeigen
   await genres
     .getByRole("button", { name: "Alle Genres auswählen", exact: true })
     .click();
-  await expect(genres.locator("input:checked")).toHaveCount(10);
+  await expect(genres.locator("input:checked")).toHaveCount(12);
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   // Locate a Horror card through its genre label; film labels differ between packages.
   const horror = page

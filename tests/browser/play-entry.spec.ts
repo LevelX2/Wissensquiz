@@ -25,7 +25,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   expect(Math.max(...widths) - Math.min(...widths)).toBeLessThan(1);
   await page.screenshot({ path: "test-results/spieleinstieg-320.png" });
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
-  await expect(page.locator(".path-progress .genre-thumbnail")).toHaveCount(10);
+  await expect(page.locator(".path-progress .genre-thumbnail")).toHaveCount(12);
   await expect(page.locator(".path-progress .genre-icon")).toHaveCount(0);
   await page.getByText("Schwierigkeit selbst wählen", { exact: true }).click();
   await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
@@ -90,8 +90,8 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
           q.tags.includes("Classics") && q.metadata.subdomain === "Western",
       ),
   ).toBe(true);
-  expect(stored.questions).toHaveLength(1440);
-  expect(new Set(stored.questions.map((q: any) => q.id)).size).toBe(1440);
+  expect(stored.questions).toHaveLength(1980);
+  expect(new Set(stored.questions.map((q: any) => q.id)).size).toBe(1980);
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();

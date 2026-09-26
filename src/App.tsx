@@ -43,7 +43,13 @@ import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
 import { answeredTopics } from "./collection";
 import { QuestionHistory } from "./QuestionHistoryPanel";
-import { CLASSICS, categoryTopic, isClassic, matchesTopic } from "./categories";
+import {
+  categories,
+  type Category,
+  categoryTopic,
+  matchesCategories,
+  matchesTopic,
+} from "./categories";
 import { discoveryContext } from "./discovery";
 import { LearningPath } from "./LearningPathPanel";
 import { UnlockCelebration } from "./UnlockCelebration";
@@ -102,18 +108,15 @@ function TopicCard({
   onFavorite?: () => void;
   genre?: boolean;
 }) {
-  const cardGenres =
-    topic === CLASSICS
-      ? [CLASSICS]
-      : genre
-        ? [topic]
-        : [
-            ...new Set(
-              state.questions
-                .filter((q) => matchesTopic(q, topic))
-                .map(genreOf),
-            ),
-          ].sort();
+  const cardGenres = categories.includes(topic as Category)
+    ? [topic]
+    : genre
+      ? [topic]
+      : [
+          ...new Set(
+            state.questions.filter((q) => matchesTopic(q, topic)).map(genreOf),
+          ),
+        ].sort();
   const ids = [
     ...new Set(
       state.questions
@@ -175,8 +178,8 @@ function TopicCard({
         <button className="text-button" onClick={onPlay}>
           {genre
             ? "Genre auswählen"
-            : topic === CLASSICS
-              ? "Classics spielen"
+            : categories.includes(topic as Category)
+              ? `${topic} spielen`
               : "Thema spielen"}{" "}
           <span>↗</span>
         </button>
@@ -203,7 +206,7 @@ export function App({
   const [busy, setBusy] = useState(false);
   const [mode, setMode] = useState<Mode>("entdecken");
   const [topic, setTopic] = useState("Alle Themen");
-  const [classicsOnly, setClassicsOnly] = useState(false);
+  const [selectedCategories, setSelectedCategories] = useState<Category[]>([]);
   const [selectedGenres, setSelectedGenres] = useState<string[] | null>(null);
   const [selectedDifficulties, setSelectedDifficulties] = useState<
     Difficulty[]
@@ -330,7 +333,7 @@ export function App({
       (q) =>
         q.topic === t &&
         filters.genres.includes(genreOf(q)) &&
-        (!classicsOnly || isClassic(q)),
+        matchesCategories(q, selectedCategories),
     ),
   );
   const toggleGenre = (genre: string) => {
@@ -342,7 +345,7 @@ export function App({
     setTopic("Alle Themen");
   };
   const playGenre = (genre: string) => {
-    setClassicsOnly(false);
+    setSelectedCategories([]);
     setSelectedGenres([genre]);
     setTopic("Alle Themen");
     setPage("home");
@@ -351,7 +354,7 @@ export function App({
   const active = state.rounds.find((r) => r.status === "active");
   const current = state.rounds.find((r) => r.id === roundId);
   const targetSize = completed.length ? 10 : 5;
-  const roundTopic = categoryTopic(topic, classicsOnly);
+  const roundTopic = categoryTopic(topic, selectedCategories);
   const selection = selectQuestions(
     pathQuestions(state),
     state.learning,
@@ -394,7 +397,7 @@ export function App({
     }
   };
   const playTopic = (t: string) => {
-    setClassicsOnly(false);
+    setSelectedCategories([]);
     setSelectedGenres([
       ...new Set(state.questions.filter((q) => q.topic === t).map(genreOf)),
     ]);
@@ -650,22 +653,31 @@ export function App({
                     </button>
                   </fieldset>
                   <fieldset>
-                    <legend>Zusätzliche Kategorie</legend>
-                    <label className="filter-choice">
-                      <input
-                        type="checkbox"
-                        checked={classicsOnly}
-                        onChange={(e) => {
-                          setClassicsOnly(e.target.checked);
-                          setTopic("Alle Themen");
-                        }}
-                      />
-                      <GenreArtwork genre={CLASSICS} compact />
-                      Nur Classics
-                    </label>
+                    <legend>Zusätzliche Kategorien</legend>
+                    {categories.map((category) => (
+                      <label className="filter-choice" key={category}>
+                        <input
+                          type="checkbox"
+                          checked={selectedCategories.includes(category)}
+                          onChange={(e) => {
+                            setSelectedCategories(
+                              e.target.checked
+                                ? [...selectedCategories, category]
+                                : selectedCategories.filter(
+                                    (c) => c !== category,
+                                  ),
+                            );
+                            setTopic("Alle Themen");
+                          }}
+                        />
+                        <GenreArtwork genre={category} compact />
+                        Nur {category}
+                      </label>
+                    ))}
                     <p className="tiny muted">
-                      Kuratierte Klassiker aus Deinen ausgewählten Genres.
-                      Dieselben Fragen, derselbe Lernfortschritt.
+                      Kuratierte Auswahlen innerhalb Deiner Genres. Beide
+                      gewählt: Classics oder Arthouse. Gemeinsame Fragen zählen
+                      nur einmal.
                     </p>
                   </fieldset>
                   <details
@@ -813,16 +825,19 @@ export function App({
                 und Schwierigkeitsstufen kombinieren.
               </p>
               <div className="topic-grid">
-                <TopicCard
-                  topic={CLASSICS}
-                  state={state}
-                  onPlay={() => {
-                    setClassicsOnly(true);
-                    setSelectedGenres(null);
-                    setTopic("Alle Themen");
-                    setPage("home");
-                  }}
-                />
+                {categories.map((category) => (
+                  <TopicCard
+                    key={category}
+                    topic={category}
+                    state={state}
+                    onPlay={() => {
+                      setSelectedCategories([category]);
+                      setSelectedGenres(null);
+                      setTopic("Alle Themen");
+                      setPage("home");
+                    }}
+                  />
+                ))}
                 {genres.map((t) => (
                   <TopicCard
                     key={t}

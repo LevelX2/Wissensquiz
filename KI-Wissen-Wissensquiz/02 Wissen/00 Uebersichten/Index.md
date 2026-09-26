@@ -43,3 +43,14 @@
 - [Classics-Bestandszuordnungen](../../01%20Rohquellen/Classics_Zuordnungen_Bestand.json)
 - [Classics-Importbericht](../../../docs/importbericht-classics.json)
 - [Classics-Zuordnungsbericht und fehlende Referenzen](../../../docs/classics-zuordnungsbericht.json)
+
+- [MartialArts-Rohquelle](../../01%20Rohquellen/MartialArts_Quiz_180_Fragen.csv)
+- [MartialArts-Importbericht](../../../docs/importbericht-martialarts.json)
+
+- [RomCom-Rohquelle](../../01%20Rohquellen/RomCom_Quiz_180_Fragen.csv)
+- [RomCom-Importbericht](../../../docs/importbericht-romcom.json)
+
+- [Arthouse-Rohquelle](../../01%20Rohquellen/Arthouse_Quiz_180_Fragen.csv)
+- [Arthouse-Importbericht](../../../docs/importbericht-arthouse.json)
+- [Arthouse-Bestandszuordnungen](../../01%20Rohquellen/Arthouse_Zuordnungen_Bestand.json)
+- [Arthouse-Zuordnungsbericht](../../../docs/arthouse-zuordnungsbericht.json)

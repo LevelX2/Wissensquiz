@@ -44,7 +44,21 @@ const classics = importCsv(
   contents[7].filename,
 );
 
+const allImported = contents.map((pkg, i) =>
+  importCsv(
+    pkg.text,
+    contents.slice(0, i).flatMap((p) => importCsv(p.text).questions),
+    pkg.filename,
+  ),
+);
+
 it.each([
+  ...["MartialArts", "RomCom", "Arthouse"].map((name, i) => ({
+    name,
+    imported: allImported[i + 8],
+    previous: allImported.slice(0, i + 8).flatMap((p) => p.questions),
+    path: name.toLowerCase(),
+  })),
   {
     name: "Classics",
     imported: classics,
@@ -169,18 +183,10 @@ it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedbac
   );
 });
 
-it.each([1, 2, 3, 4, 5, 6, 7])(
+it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])(
   "ergänzt neue Pakete bei %i vorhandenen Paketen transaktional ohne Fortschrittsverlust",
   async (packageCount) => {
-    const previousPackages = [
-      scifi,
-      action,
-      horror,
-      fantasy,
-      comedy,
-      western,
-      drama,
-    ].slice(0, packageCount);
+    const previousPackages = allImported.slice(0, packageCount);
     const state = emptyState(previousPackages.flatMap((p) => p.questions));
     state.imports.push(...previousPackages.map((p) => p.report));
     state.settings.sound = false;
@@ -218,9 +224,9 @@ it.each([1, 2, 3, 4, 5, 6, 7])(
       update((s) => addPackages(s, contents)),
     ]);
     const saved = (await read())!;
-    expect(saved.questions).toHaveLength(1440);
-    expect(saved.imports).toHaveLength(8);
-    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(1200);
+    expect(saved.questions).toHaveLength(1980);
+    expect(saved.imports).toHaveLength(11);
+    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(1650);
     expect(saved.questions.slice(0, previousQuestions.length)).toEqual(
       previousQuestions.map(withCategoryTags),
     );

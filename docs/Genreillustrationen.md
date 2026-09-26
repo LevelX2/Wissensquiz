@@ -75,3 +75,28 @@ Motivzusätze:
 - music.png: One vintage ivory and gold studio microphone with a single large teal musical eighth note beside it, cohesive compact object group.
 - thriller.png: A polished ivory keyhole silhouette containing a single expressive teal eye, warm golden beveled border, elegant suspense motif, simple and legible.
 - classics.png: One elegant vintage ivory and golden cinema projector with two reels, restrained burgundy accents, timeless classic cinema, one freestanding compact object.
+
+## Martial Arts & Asia-Film, Rom-Com und Arthouse
+
+Am 26.09.2026 mit dem integrierten image_gen erzeugt, drei getrennte Originale ohne Wiederholungen. Je 1254 × 1254 px, RGBA, echte Transparenz pixelweise geprüft und Motive visuell geprüft. Unverändert in public/genres/martialarts.png, romcom.png und arthouse.png kopiert. Bisherige Bilder unverändert.
+
+### martial-arts
+
+```text
+Use case: stylized-concept. Asset type: premium film-genre UI icon, square transparent PNG. Style: sculptural 3D illustrated collectible, polished warm ivory enamel and lustrous brushed gold bevels, richly shaded burgundy/teal accents, softly lit studio render, refined handcrafted luxury miniature. Match the established ivory-and-gold cinema projector and ivory/gold comedy mask reference style visible in the conversation. Composition: one unified centered icon, full silhouette visible with generous 10% transparent padding, readable at 40px on a light background, strong simple forms. Background: genuinely transparent alpha, no background color, no checkerboard, no floor. Constraints: no text, letters, logos, watermark, frame or extra objects.
+Subject: Martial Arts & Asia-Film represented by an elegant dynamic martial artist miniature mid-kick, stylized non-identifiable human sculpture in warm ivory outfit with gold trim and a rich burgundy flowing sash; balanced diagonal pose with a clear readable kicking silhouette, artistic martial-arts cinema energy.
+```
+
+### rom-com
+
+```text
+Use case: stylized-concept. Asset type: premium film-genre UI icon, square transparent PNG. Style: sculptural 3D illustrated collectible, polished warm ivory enamel and lustrous brushed gold bevels, richly shaded burgundy/teal accents, softly lit studio render, refined handcrafted luxury miniature. Match the established ivory-and-gold cinema projector and ivory/gold comedy mask reference style visible in the conversation. Composition: one unified centered icon, full silhouette visible with generous 10% transparent padding, readable at 40px on a light background, strong simple forms. Background: genuinely transparent alpha, no background color, no checkerboard, no floor. Constraints: no text, letters, logos, watermark, frame or extra objects.
+Subject: Rom-Com represented by exactly two interlocking sculpted hearts, one warm coral enamel and one rich burgundy enamel, gold beveled edges, with a single tasteful curled gold filmstrip wrapping softly around their base. Romantic and playful, polished unified sculptural icon.
+```
+
+### arthouse
+
+```text
+Use case: stylized-concept. Asset type: premium film-genre UI icon, square transparent PNG. Style: sculptural 3D illustrated collectible, polished warm ivory enamel and lustrous brushed gold bevels, richly shaded burgundy/teal accents, softly lit studio render, refined handcrafted luxury miniature. Match the established ivory-and-gold cinema projector and ivory/gold comedy mask reference style visible in the conversation. Composition: one unified centered icon, full silhouette visible with generous 10% transparent padding, readable at 40px on a light background, strong simple forms. Background: genuinely transparent alpha, no background color, no checkerboard, no floor. Constraints: no text, letters, logos, watermark, frame or extra objects.
+Subject: Arthouse cinema represented by a surreal sculptural motif combining one single stylized ivory eye with a deep teal iris and gold rim, and a gently curled gold-and-teal film strip passing beneath and around the eye. Artistic auteur cinema, elegant sculptural surrealism, simple cohesive silhouette.
+```

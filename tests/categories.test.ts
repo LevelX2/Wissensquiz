@@ -5,6 +5,11 @@ import { addPackages, packages } from "../src/packages";
 import { importCsv } from "../src/importer";
 import { emptyState } from "../src/model";
 import {
+  CLASSICS,
+  ARTHOUSE,
+  categories,
+  isCategory,
+  matchesCategories,
   applyCategoryTags,
   isClassic,
   matchesTopic,
@@ -12,6 +17,7 @@ import {
 } from "../src/categories";
 import { answer, startRound } from "../src/engine";
 import { validateBackup } from "../src/storage";
+import artReferences from "../KI-Wissen-Wissensquiz/01 Rohquellen/Arthouse_Zuordnungen_Bestand.json";
 import references from "../KI-Wissen-Wissensquiz/01 Rohquellen/Classics_Zuordnungen_Bestand.json";
 
 const contents = packages.map((p) => ({
@@ -24,12 +30,12 @@ const original = contents.flatMap(
 
 it("prüft alle Classics-Zuordnungen, erhält Texte/IDs und ergänzt Tags idempotent", () => {
   const questions = structuredClone(original);
-  const report = applyCategoryTags(questions);
-  expect(report.applied).toHaveLength(225);
-  expect(report.missing).toHaveLength(33);
+  const report = applyCategoryTags(questions, CLASSICS);
+  expect(report.applied).toHaveLength(258);
+  expect(report.missing).toHaveLength(0);
   expect(report.mismatched).toEqual([]);
   const first = JSON.stringify(questions);
-  expect(applyCategoryTags(questions)).toEqual(report);
+  expect(applyCategoryTags(questions, CLASSICS)).toEqual(report);
   expect(JSON.stringify(questions)).toBe(first);
   for (let i = 0; i < questions.length; i++) {
     const { tags, badgeTags, ...q } = questions[i];
@@ -40,8 +46,8 @@ it("prüft alle Classics-Zuordnungen, erhält Texte/IDs und ergänzt Tags idempo
     expect(new Set(tags).size).toBe(tags.length);
   }
   const classics = questions.filter(isClassic);
-  expect(classics).toHaveLength(405);
-  expect(new Set(questions.map((q) => q.id)).size).toBe(1440);
+  expect(classics).toHaveLength(438);
+  expect(new Set(questions.map((q) => q.id)).size).toBe(1980);
   const sourceChecks = references.source_files.map((ref) => {
     const pkg = contents.find((p) => p.filename === ref.filename);
     return {
@@ -87,7 +93,7 @@ it("überspringt jede abweichende Referenz und erfindet keine fehlende Frage", (
     if (field === "knowledgeId") changed.knowledgeId = "different";
     else changed.metadata[field] = "different";
     const before = JSON.stringify(changed);
-    expect(applyCategoryTags([changed]).mismatched).toEqual([q.id]);
+    expect(applyCategoryTags([changed], CLASSICS).mismatched).toEqual([q.id]);
     expect(JSON.stringify(changed)).toBe(before);
   }
 });
@@ -154,4 +160,128 @@ it("führt Sci-Fi als Genre-Alias zusammen und erhält die Quellbezeichnung", ()
   )!;
   expect(q.metadata.subdomain).toBe("Science-Fiction");
   expect(q.metadata.source_subdomain).toBe("Sci-Fi");
+});
+
+it("prüft Arthouse-Referenzen samt Quellhashes, Überschneidung und fehlenden IDs", () => {
+  const questions = structuredClone(original);
+  const report = applyCategoryTags(questions, ARTHOUSE);
+  expect(report.applied).toHaveLength(126);
+  expect(report.missing).toEqual([]);
+  expect(report.mismatched).toEqual([]);
+  const first = JSON.stringify(questions);
+  applyCategoryTags(questions, ARTHOUSE);
+  expect(JSON.stringify(questions) === first).toBe(true);
+  applyCategoryTags(questions);
+  for (const ref of artReferences.source_files) {
+    const pkg = contents.find((p) => p.filename === ref.filename)!;
+    expect(createHash("sha256").update(pkg.text).digest("hex")).toBe(
+      ref.sha256,
+    );
+  }
+  const art = questions.filter((q) => isCategory(q, ARTHOUSE));
+  expect(art).toHaveLength(306);
+  const overlap = questions.filter((q) =>
+    categories.every((c) => isCategory(q, c)),
+  );
+  expect(overlap.length).toBeGreaterThan(0);
+  const topic = categoryTopic("Alle Themen", [ARTHOUSE, CLASSICS]);
+  expect(topic).toBe("Classics + Arthouse");
+  const union = questions.filter((q) => matchesTopic(q, topic));
+  expect(union.length).toBe(438 + 306 - overlap.length);
+  expect(new Set(union.map((q) => q.id)).size).toBe(union.length);
+  expect(matchesCategories(overlap[0], [ARTHOUSE, CLASSICS])).toBe(true);
+  expect(
+    matchesTopic(overlap[0], categoryTopic(overlap[0].topic, [ARTHOUSE])),
+  ).toBe(true);
+  const missing = applyCategoryTags([], ARTHOUSE);
+  expect(missing.missing).toHaveLength(126);
+  const ref = artReferences.entries[0];
+  const changed = structuredClone(
+    original.find((q) => q.id === ref.question_id)!,
+  );
+  changed.metadata.film_year = "9999";
+  expect(applyCategoryTags([changed], ARTHOUSE).mismatched).toEqual([
+    changed.id,
+  ]);
+  expect(changed.tags).not.toContain(ARTHOUSE);
+  writeFileSync(
+    "docs/arthouse-zuordnungsbericht.json",
+    JSON.stringify(
+      {
+        ...report,
+        sourceChecks: artReferences.source_files.map((r) => ({
+          filename: r.filename,
+          matches: true,
+        })),
+        arthouseQuestions: art.length,
+        arthouseKnowledgeGoals: new Set(art.map((q) => q.knowledgeId)).size,
+        arthouseFilms: new Set(art.map((q) => q.metadata.film_title_original))
+          .size,
+        overlappingClassicsQuestions: overlap.length,
+        unionQuestions: union.length,
+      },
+      null,
+      2,
+    ),
+  );
+});
+
+it("erhält Arthouse-Rundensnapshots und gemeinsame Lernidentität beim Kategorienwechsel", () => {
+  const state = emptyState(structuredClone(original));
+  const q = state.questions.find(
+    (q) => q.id === artReferences.entries[0].question_id,
+  )!;
+  const r = startRound(
+    state,
+    { mode: "entdecken", topic: q.topic, difficulty: "Alle Stufen" },
+    1000,
+  );
+  answer(state, r.id, r.questions[0].id, r.questions[0].correctId, 0, 2000);
+  const before = JSON.stringify({
+    rounds: state.rounds,
+    events: state.events,
+    learning: state.learning,
+  });
+  addPackages(state, []);
+  expect(
+    JSON.stringify({
+      rounds: state.rounds,
+      events: state.events,
+      learning: state.learning,
+    }),
+  ).toBe(before);
+  expect(() => validateBackup(state)).not.toThrow();
+  expect(
+    state.questions
+      .filter((q) => q.knowledgeId === r.questions[0].knowledgeId)
+      .every((q) => isCategory(q, ARTHOUSE)),
+  ).toBe(true);
+  const rom = original.find((q) => q.metadata.source_subdomain === "RomCom")!;
+  expect(rom.metadata.subdomain).toBe("Rom-Com");
+  r.status = "aborted";
+  r.finishedAt = 2001;
+  const combined = startRound(
+    state,
+    {
+      mode: "entdecken",
+      topic: categoryTopic("Alle Themen", [ARTHOUSE, CLASSICS]),
+      difficulty: "Alle Stufen",
+      filters: { genres: ["Drama", "Rom-Com"], difficulties: ["leicht"] },
+    },
+    3000,
+  );
+  answer(
+    state,
+    combined.id,
+    combined.questions[0].id,
+    combined.questions[0].correctId,
+    0,
+    4000,
+  );
+  expect(validateBackup(state).rounds.at(-1)?.topic).toBe(
+    "Classics + Arthouse",
+  );
+  expect(new Set(combined.questions.map((q) => q.knowledgeId)).size).toBe(
+    combined.questions.length,
+  );
 });

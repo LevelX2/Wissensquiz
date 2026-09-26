@@ -80,3 +80,24 @@ Historische Rundensnapshots bleiben unverändert. Die Backup-Prüfung normalisie
 Classics ist ein zusätzlicher Filter, kein Genre und keine Altersregel. Aktuell umfasst die Auswahl 405 Fragen, 336 Wissensziele und 57 Filme. Globale Summen bleiben nach Identität dedupliziert. Runden speichern die Kategorie im vorhandenen Themenfeld (Classics bzw. Classics: Filmtitel), sodass auch ihre Rekordkategorien getrennt bleiben; keine Datenbankmigration nötig. Die Auswahl und Backup-Prüfung verwenden dieselbe Kategorieauflösung. Die bisherigen Lernregeln gelten weiterhin je tatsächlichem Genre.
 
 Nachweise: [Importbericht](importbericht-classics.json), [Zuordnungsbericht mit fehlenden IDs](classics-zuordnungsbericht.json). Roh-CSV SHA-256: 35a1a4cd6abfc74823af08d6113d8d984689c63a0ccf12b08a2211e7f1f1c944; Zuordnungsdatei: f65107dd2177f3fff1a4544b1baf6c9c48f4e65ee0fd0d0df9b328e694000eba. Filmaussagen und redaktionelle Auswahl stammen aus der gelieferten Quelle; keine zusätzliche unabhängige fachliche Prüfung. Arthouse ist lediglich angekündigt, ohne erfundene Zuordnungen.
+
+## Martial Arts & Asia-Film, Rom-Com und Arthouse (26.09.2026)
+
+Drei weitere unveränderte CSV-Pakete mit je 180 Fragen, 150 Wissenszielen und 30 Varianten eingebunden. Der App-Parser akzeptiert alle 540 Einträge ohne Ausschlüsse, Warnungen oder ID-Konflikte. Martial Arts & Asia-Film enthält 25 Filme in 22 Film-/Reihenthemen; Rom-Com 25 Filme in 23 Themen; Arthouse 25 Filme in 25 Themen. Gesamtbestand: elf Pakete, 1.980 eindeutige Fragen, 1.650 Wissensziele, 330 Varianten, 258 Themen und zwölf Genres.
+
+Die Asia-Bezeichnung folgt dem gelieferten subdomain-Feld: neben Kampfkunstfilmen enthält das Paket Actionkomödien und Polizeifilme. Arthouse bleibt eine kuratierte Kategorie über bestehenden Genres. Der Alias RomCom im Arthouse-Paket wird beim Import mit Rom-Com vereinheitlicht, der Originalwert in metadata.source_subdomain erhalten. Sci-Fi wird weiterhin zu Science-Fiction normalisiert. Keine Änderungen an Rohdateien oder bisherigen Frageversionen.
+
+Alle 33 zuvor fehlenden Classics-Verweise sind mit den beiden nachgelieferten Paketen aufgelöst; alle referenzierten Quellhashes passen. Classics enthält nun 438 Fragen, 360 Ziele und 61 Filme. Die zusätzliche Arthouse-Zuordnung ergänzt 126 vorhandene Fragen/108 Ziele aus 19 Filmen; mit dem neuen Paket sind das 306 Fragen, 258 Ziele und 44 Filme. Es gibt keine fehlenden oder abweichenden Referenzen. 48 Fragen gehören zu beiden Kategorien; deren Vereinigung umfasst 696 Fragen. Genres, Variantenbezüge, alte Tags, Texte, Quellen, IDs und Rundensnapshots bleiben erhalten. Die Zuordnungen werden anhand Frage-ID und Referenzfeldern geprüft und idempotent ergänzt; unbekannte und abweichende Referenzen weiterhin übersprungen und gemeldet.
+
+Genres und zusätzliche Kategorien kombinieren sich als Einschränkung: eine oder beide Kategorien innerhalb der gewählten Genres, optional weiter auf Film/Reihe begrenzt. Beide Kategorien bedeuten Classics ODER Arthouse. Identitäten und Lernfortschritt werden nicht kopiert. Die bestehende Backup-Prüfung erlaubt ausschließlich die autorisierten Tag-Ergänzungen. Keine Datenbankmigration und keine neue automatische fachliche oder Darstellerprüfung. Filmaussagen und kuratierte Auswahl stammen aus den gelieferten Quellen.
+
+Berichte: [Martial Arts](importbericht-martialarts.json), [Rom-Com](importbericht-romcom.json), [Arthouse](importbericht-arthouse.json), [Arthouse-Zuordnungen](arthouse-zuordnungsbericht.json), [aktualisierte Classics-Zuordnungen](classics-zuordnungsbericht.json).
+
+SHA-256 der gelieferten und bytegleich erhaltenen Quellen:
+
+- MartialArts_Quiz_180_Fragen.csv: ebc619048ce638866e2f40679200b3ee6e1d3e4c234805264d4687830d13961b
+- RomCom_Quiz_180_Fragen.csv: b8d1fe55b82369a24c1d1b30ac801fd9a4131d2130d8f116819695a827a3d3ae
+- Arthouse_Quiz_180_Fragen.csv: 84274af394d4bdc1952ea47716abd62331d45bd768ece7e72b17051b5a52af91
+- Arthouse_Zuordnungen_Bestand.json: d133752f227d0412ffe2056dab94c952bdd0e58d50e0efafa339008c87adda49
+
+Die zugestellte Martial-Arts-Datei hatte den Dateinamenszusatz „1“; sie ist unter dem von den Zuordnungen referenzierten kanonischen Namen abgelegt, mit unverändertem Inhalt.

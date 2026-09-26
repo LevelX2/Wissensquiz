@@ -56,6 +56,21 @@ export function Help() {
         </p>
       </details>
       <details>
+        <summary>Was sind Classics und Arthouse?</summary>
+        <p>
+          Das sind kuratierte Auswahlen zusätzlich zu den Filmgenres. Classics
+          versammelt ausgewählte Klassiker; Arthouse umfasst Autoren- und
+          Programmkino einschließlich ausgewählter Genrefilme. Es gibt keine
+          automatische Altersgrenze oder Gleichsetzung mit Drama.
+        </p>
+        <p>
+          Die Kategorien schränken Deine gewählten Genres ein. Wählst Du beide,
+          kommen Fragen aus Classics oder Arthouse vor. Eine Frage kann in
+          mehreren Auswahlen vorkommen, behält aber immer denselben Lernstand
+          und wird innerhalb einer Runde nicht doppelt ausgewählt.
+        </p>
+      </details>
+      <details>
         <summary>Welcher Spielmodus passt zu mir?</summary>
         <ul>
           <li>

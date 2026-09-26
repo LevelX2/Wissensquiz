@@ -35,3 +35,7 @@ Der Einstieg verzichtet auf die große Werbefläche. „Losspielen“ steht dire
 Entdecken und Besser werden zeigen direkt unter dem Fragetext die persönliche Bilanz der konkreten Frage: beantwortet, richtig und falsch. Aufklappbar sind Zeitabläufe, geratene Treffer und die gemeinsame Bilanz mit Wiederholungsvarianten. Vorhandene Antworten aller Modi und Rundenstatus zählen mit; Neuladen oder bloßes Anzeigen zählt nicht. Details zur Zählweise unter [Lernregeln](Lernregeln.md#statistik-zur-einzelnen-frage). Keine neue Speicherung, bestehende Fortschritte bleiben erhalten.
 
 Die Fragenstatistik erscheint standardmäßig erst nach der Antwort. Unter Profil → Optionen lässt sie sich auf „Immer anzeigen“ umstellen oder ausblenden. Die Auswahl wird mit dem Spielstand gesichert; ältere Spielstände verwenden „Nach der Antwort“.
+
+## Arthouse und gemeinsame Kategorienauswahl
+
+Classics und Arthouse sind unabhängig wählbare kuratierte Zusatzkategorien innerhalb der ausgewählten Genres. Beide gewählt bedeutet eine Vereinigung (ODER), keine Schnittmenge. Die Rundenkategorie wird kanonisch als Classics + Arthouse und optional mit „: Film/Reihe“ gespeichert; frühere Classics-Runden bleiben gültig. Globale Summen, Auswahl und Fortschritt bleiben nach Frage-/Wissensziel-ID eindeutig. RomCom und Rom-Com werden beim neuen Import zum Genre Rom-Com zusammengeführt, Quellwert bleibt erhalten. Details und vollständige Zahlen im Importvertrag.

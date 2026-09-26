@@ -1,6 +1,12 @@
 import type { Question, QuizFilters, Round } from "./model";
 
 export const difficulties = ["leicht", "mittel", "schwer"] as const;
+export const normalizeGenre = (genre: string) =>
+  genre === "Sci-Fi"
+    ? "Science-Fiction"
+    : genre === "RomCom"
+      ? "Rom-Com"
+      : genre;
 export const genreOf = (q: Question) =>
   q.metadata.subdomain?.trim() || q.domain;
 export const genreLabel = (genre: string) =>

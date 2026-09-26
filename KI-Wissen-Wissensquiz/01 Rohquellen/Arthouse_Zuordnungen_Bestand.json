@@ -1,0 +1,2284 @@
+{
+  "schema": "quiz-category-tag-additions/v1",
+  "created_date": "2026-09-26",
+  "category": "Arthouse",
+  "status": "prepared_not_applied",
+  "scope": "Explizite kuratierte Auswahl aus zehn bisherigen 180er-Paketen. Arthouse wird hier weit als Autoren- und Programmkino verstanden, einschließlich ausgewählter Genre-Crossover. Keine automatische Gleichsetzung mit Drama, hohem Alter oder geringer Bekanntheit.",
+  "operation": {
+    "type": "add_tags_by_question_id",
+    "add_topic_tags": [
+      "Arthouse"
+    ],
+    "add_badge_tags": [
+      "Arthouse"
+    ],
+    "tag_merge": "ordered_set_union",
+    "create_missing_questions": false,
+    "change_question_id": false,
+    "change_knowledge_id": false,
+    "change_variant_of": false,
+    "change_subdomain": false,
+    "touch_learning_progress": false
+  },
+  "matching_rules": [
+    "question_id muss bereits vorhanden sein.",
+    "knowledge_id, variant_of, film_title_original und film_year gegen diese Referenz prüfen.",
+    "Nur topic_tags und badge_tags um Arthouse ergänzen; alle bisherigen Tags einschließlich Classics erhalten.",
+    "Fehlende oder abweichende Datensätze überspringen und melden; niemals Fragekopien erzeugen.",
+    "Alle Kategorieansichten verwenden dieselben question_id und knowledge_id sowie denselben Lernfortschritt."
+  ],
+  "source_files": [
+    {
+      "filename": "Drama_Quiz_180_Fragen.csv",
+      "sha256": "62262f8338959dc79b9714c7bc9480005ae56de4ee21f780813c1150d599fc4f",
+      "selected_entries": 33,
+      "selected_films": 5
+    },
+    {
+      "filename": "SciFi_Quiz_180_Fragen.csv",
+      "sha256": "e928647423f3781bdbcc6e17b2ab0c35fad38d76483e3470ddc312f7d8bdf968",
+      "selected_entries": 6,
+      "selected_films": 2
+    },
+    {
+      "filename": "Fantasy_Quiz_180_Fragen.csv",
+      "sha256": "1245252ad7cdbcfcd2954e7752906e1b2f350a8d6f0110e58da96165d5cc1796",
+      "selected_entries": 12,
+      "selected_films": 2
+    },
+    {
+      "filename": "Komoedie_Quiz_180_Fragen.csv",
+      "sha256": "d29175f15adab894008837d94de0cc63f76986c62ac8e1f042fccf235f225871",
+      "selected_entries": 15,
+      "selected_films": 2
+    },
+    {
+      "filename": "Classics_Quiz_180_Fragen.csv",
+      "sha256": "35a1a4cd6abfc74823af08d6113d8d984689c63a0ccf12b08a2211e7f1f1c944",
+      "selected_entries": 42,
+      "selected_films": 6
+    },
+    {
+      "filename": "MartialArts_Quiz_180_Fragen.csv",
+      "sha256": "ebc619048ce638866e2f40679200b3ee6e1d3e4c234805264d4687830d13961b",
+      "selected_entries": 18,
+      "selected_films": 2
+    }
+  ],
+  "films": [
+    {
+      "film_title_de": "American Beauty",
+      "film_title_original": "American Beauty",
+      "film_year": "1999",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Stilisierte Vorstadtbeobachtung und subjektive Erzählperspektive."
+    },
+    {
+      "film_title_de": "Manchester by the Sea",
+      "film_title_original": "Manchester by the Sea",
+      "film_year": "2016",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Zurückhaltendes Independent-Drama mit verschränkter Zeitebene und offenem Umgang mit Trauer."
+    },
+    {
+      "film_title_de": "Whiplash",
+      "film_title_original": "Whiplash",
+      "film_year": "2014",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Konzentriertes Independent-Drama über Kunst, Leistungsdruck und ein ambivalentes Lehrer-Schüler-Verhältnis."
+    },
+    {
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Subjektive Stadtwahrnehmung und psychologisches Autorenkino innerhalb von New Hollywood."
+    },
+    {
+      "film_title_de": "Wie ein wilder Stier",
+      "film_title_original": "Raging Bull",
+      "film_year": "1980",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Ausdrucksstarke Schwarz-Weiß-Inszenierung und gebrochene Sportlerbiografie."
+    },
+    {
+      "film_title_de": "Moon",
+      "film_title_original": "Moon",
+      "film_year": "2009",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "entries": 3,
+      "knowledge_targets": 3,
+      "selection_note": "Reduzierte Science-Fiction-Kammerspielstruktur über Identität und Arbeit."
+    },
+    {
+      "film_title_de": "Ex Machina",
+      "film_title_original": "Ex Machina",
+      "film_year": "2014",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "entries": 3,
+      "knowledge_targets": 3,
+      "selection_note": "Kammerspielartige Anordnung mit offenen Fragen nach Bewusstsein und Macht."
+    },
+    {
+      "film_title_de": "Pans Labyrinth",
+      "film_title_original": "El laberinto del fauno",
+      "film_year": "2006",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Individuell gestaltetes Autorenkino zwischen politischer Geschichte und dunklem Märchen."
+    },
+    {
+      "film_title_de": "Edward mit den Scherenhänden",
+      "film_title_original": "Edward Scissorhands",
+      "film_year": "1990",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Stark stilisierte Außenseitergeschichte mit unverwechselbarer Bildgestaltung."
+    },
+    {
+      "film_title_de": "Grand Budapest Hotel",
+      "film_title_original": "The Grand Budapest Hotel",
+      "film_year": "2014",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Symmetrische Bildgestaltung, verschachtelte Erzählung und ausgeprägte Autorenhandschrift."
+    },
+    {
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Genrevariation mit abschweifender Erzählweise und eigensinniger Figurenwelt."
+    },
+    {
+      "film_title_de": "Citizen Kane",
+      "film_title_original": "Citizen Kane",
+      "film_year": "1941",
+      "subdomain": "Drama",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Perspektivisch gebrochene Biografie und markante filmische Raumgestaltung."
+    },
+    {
+      "film_title_de": "Die Nacht des Jägers",
+      "film_title_original": "The Night of the Hunter",
+      "film_year": "1955",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Stilisierte Verbindung von Märchen, Thriller und expressionistischen Bildmotiven."
+    },
+    {
+      "film_title_de": "Vertigo",
+      "film_title_original": "Vertigo",
+      "film_year": "1958",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Subjektive Wahrnehmung, Inszenierung von Identität und mehrdeutige Beziehung von Blick und Begehren."
+    },
+    {
+      "film_title_de": "Metropolis",
+      "film_title_original": "Metropolis",
+      "film_year": "1927",
+      "subdomain": "Sci-Fi",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Expressionistische Bildwelt und allegorisch gestaltete Zukunftsstadt."
+    },
+    {
+      "film_title_de": "Nosferatu, eine Symphonie des Grauens",
+      "film_title_original": "Nosferatu, eine Symphonie des Grauens",
+      "film_year": "1922",
+      "subdomain": "Horror",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Stilisierter Stummfilm-Horror mit bedeutungstragenden Schatten- und Raumkompositionen."
+    },
+    {
+      "film_title_de": "M – Eine Stadt sucht einen Mörder",
+      "film_title_original": "M",
+      "film_year": "1931",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "entries": 6,
+      "knowledge_targets": 6,
+      "selection_note": "Frühes Tonfilm-Experiment mit gesellschaftlicher Perspektive und ambivalenter Schuldfrage."
+    },
+    {
+      "film_title_de": "Hero",
+      "film_title_original": "Hero",
+      "film_year": "2002",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Farblich organisierte, perspektivisch wechselnde Wuxia-Erzählung."
+    },
+    {
+      "film_title_de": "Tiger & Dragon",
+      "film_title_original": "Crouching Tiger, Hidden Dragon",
+      "film_year": "2000",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "entries": 9,
+      "knowledge_targets": 6,
+      "selection_note": "Wuxia als poetische Verbindung von Melodram, Bewegung und unerfülltem Begehren."
+    }
+  ],
+  "entries": [
+    {
+      "question_id": "DRA-L-023",
+      "knowledge_id": "K-DRA-12-01",
+      "variant_of": "",
+      "film_title_de": "American Beauty",
+      "film_title_original": "American Beauty",
+      "film_year": "1999",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-L-024",
+      "knowledge_id": "K-DRA-12-02",
+      "variant_of": "",
+      "film_title_de": "American Beauty",
+      "film_title_original": "American Beauty",
+      "film_year": "1999",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-023",
+      "knowledge_id": "K-DRA-12-03",
+      "variant_of": "",
+      "film_title_de": "American Beauty",
+      "film_title_original": "American Beauty",
+      "film_year": "1999",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-024",
+      "knowledge_id": "K-DRA-12-04",
+      "variant_of": "",
+      "film_title_de": "American Beauty",
+      "film_title_original": "American Beauty",
+      "film_year": "1999",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-023",
+      "knowledge_id": "K-DRA-12-05",
+      "variant_of": "",
+      "film_title_de": "American Beauty",
+      "film_title_original": "American Beauty",
+      "film_year": "1999",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-024",
+      "knowledge_id": "K-DRA-12-06",
+      "variant_of": "",
+      "film_title_de": "American Beauty",
+      "film_title_original": "American Beauty",
+      "film_year": "1999",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-L-031",
+      "knowledge_id": "K-DRA-16-01",
+      "variant_of": "",
+      "film_title_de": "Manchester by the Sea",
+      "film_title_original": "Manchester by the Sea",
+      "film_year": "2016",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-L-032",
+      "knowledge_id": "K-DRA-16-02",
+      "variant_of": "",
+      "film_title_de": "Manchester by the Sea",
+      "film_title_original": "Manchester by the Sea",
+      "film_year": "2016",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-031",
+      "knowledge_id": "K-DRA-16-03",
+      "variant_of": "",
+      "film_title_de": "Manchester by the Sea",
+      "film_title_original": "Manchester by the Sea",
+      "film_year": "2016",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-032",
+      "knowledge_id": "K-DRA-16-04",
+      "variant_of": "",
+      "film_title_de": "Manchester by the Sea",
+      "film_title_original": "Manchester by the Sea",
+      "film_year": "2016",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-031",
+      "knowledge_id": "K-DRA-16-05",
+      "variant_of": "",
+      "film_title_de": "Manchester by the Sea",
+      "film_title_original": "Manchester by the Sea",
+      "film_year": "2016",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-032",
+      "knowledge_id": "K-DRA-16-06",
+      "variant_of": "",
+      "film_title_de": "Manchester by the Sea",
+      "film_title_original": "Manchester by the Sea",
+      "film_year": "2016",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-L-033",
+      "knowledge_id": "K-DRA-17-01",
+      "variant_of": "",
+      "film_title_de": "Whiplash",
+      "film_title_original": "Whiplash",
+      "film_year": "2014",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-L-034",
+      "knowledge_id": "K-DRA-17-02",
+      "variant_of": "",
+      "film_title_de": "Whiplash",
+      "film_title_original": "Whiplash",
+      "film_year": "2014",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-033",
+      "knowledge_id": "K-DRA-17-03",
+      "variant_of": "",
+      "film_title_de": "Whiplash",
+      "film_title_original": "Whiplash",
+      "film_year": "2014",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-034",
+      "knowledge_id": "K-DRA-17-04",
+      "variant_of": "",
+      "film_title_de": "Whiplash",
+      "film_title_original": "Whiplash",
+      "film_year": "2014",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-033",
+      "knowledge_id": "K-DRA-17-05",
+      "variant_of": "",
+      "film_title_de": "Whiplash",
+      "film_title_original": "Whiplash",
+      "film_year": "2014",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-034",
+      "knowledge_id": "K-DRA-17-06",
+      "variant_of": "",
+      "film_title_de": "Whiplash",
+      "film_title_original": "Whiplash",
+      "film_year": "2014",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-L-047",
+      "knowledge_id": "K-DRA-24-01",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-L-048",
+      "knowledge_id": "K-DRA-24-02",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-047",
+      "knowledge_id": "K-DRA-24-03",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-048",
+      "knowledge_id": "K-DRA-24-04",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-047",
+      "knowledge_id": "K-DRA-24-05",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-048",
+      "knowledge_id": "K-DRA-24-06",
+      "variant_of": "",
+      "film_title_de": "Taxi Driver",
+      "film_title_original": "Taxi Driver",
+      "film_year": "1976",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-L-049",
+      "knowledge_id": "K-DRA-25-01",
+      "variant_of": "",
+      "film_title_de": "Wie ein wilder Stier",
+      "film_title_original": "Raging Bull",
+      "film_year": "1980",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-L-050",
+      "knowledge_id": "K-DRA-25-02",
+      "variant_of": "",
+      "film_title_de": "Wie ein wilder Stier",
+      "film_title_original": "Raging Bull",
+      "film_year": "1980",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-049",
+      "knowledge_id": "K-DRA-25-03",
+      "variant_of": "",
+      "film_title_de": "Wie ein wilder Stier",
+      "film_title_original": "Raging Bull",
+      "film_year": "1980",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-050",
+      "knowledge_id": "K-DRA-25-04",
+      "variant_of": "",
+      "film_title_de": "Wie ein wilder Stier",
+      "film_title_original": "Raging Bull",
+      "film_year": "1980",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-049",
+      "knowledge_id": "K-DRA-25-05",
+      "variant_of": "",
+      "film_title_de": "Wie ein wilder Stier",
+      "film_title_original": "Raging Bull",
+      "film_year": "1980",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-050",
+      "knowledge_id": "K-DRA-25-06",
+      "variant_of": "",
+      "film_title_de": "Wie ein wilder Stier",
+      "film_title_original": "Raging Bull",
+      "film_year": "1980",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-L-034-V1",
+      "knowledge_id": "K-DRA-17-02",
+      "variant_of": "DRA-L-034",
+      "film_title_de": "Whiplash",
+      "film_title_original": "Whiplash",
+      "film_year": "2014",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-M-034-V1",
+      "knowledge_id": "K-DRA-17-04",
+      "variant_of": "DRA-M-034",
+      "film_title_de": "Whiplash",
+      "film_title_original": "Whiplash",
+      "film_year": "2014",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "DRA-S-034-V1",
+      "knowledge_id": "K-DRA-17-06",
+      "variant_of": "DRA-S-034",
+      "film_title_de": "Whiplash",
+      "film_title_original": "Whiplash",
+      "film_year": "2014",
+      "subdomain": "Drama",
+      "source_file": "Drama_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "SF-L-029",
+      "knowledge_id": "K-SF-029-sam-mondstation",
+      "variant_of": "",
+      "film_title_de": "Moon",
+      "film_title_original": "Moon",
+      "film_year": "2009",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "SF-L-030",
+      "knowledge_id": "K-SF-030-ava-bewusstsein",
+      "variant_of": "",
+      "film_title_de": "Ex Machina",
+      "film_title_original": "Ex Machina",
+      "film_year": "2014",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "SF-M-029",
+      "knowledge_id": "K-SF-029-helium3-abbau",
+      "variant_of": "",
+      "film_title_de": "Moon",
+      "film_title_original": "Moon",
+      "film_year": "2009",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "SF-M-030",
+      "knowledge_id": "K-SF-030-nathan-erschaffer",
+      "variant_of": "",
+      "film_title_de": "Ex Machina",
+      "film_title_original": "Ex Machina",
+      "film_year": "2014",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "SF-S-029",
+      "knowledge_id": "K-SF-029-rueckkehrkapsel-toetet",
+      "variant_of": "",
+      "film_title_de": "Moon",
+      "film_title_original": "Moon",
+      "film_year": "2009",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "SF-S-030",
+      "knowledge_id": "K-SF-030-tueren-stromausfall",
+      "variant_of": "",
+      "film_title_de": "Ex Machina",
+      "film_title_original": "Ex Machina",
+      "film_year": "2014",
+      "subdomain": "Science-Fiction",
+      "source_file": "SciFi_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-L-047",
+      "knowledge_id": "K-FAN-24-ofelia",
+      "variant_of": "",
+      "film_title_de": "Pans Labyrinth",
+      "film_title_original": "El laberinto del fauno",
+      "film_year": "2006",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-L-048",
+      "knowledge_id": "K-FAN-24-del-toro",
+      "variant_of": "",
+      "film_title_de": "Pans Labyrinth",
+      "film_title_original": "El laberinto del fauno",
+      "film_year": "2006",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-M-047",
+      "knowledge_id": "K-FAN-24-trauben-bleicher",
+      "variant_of": "",
+      "film_title_de": "Pans Labyrinth",
+      "film_title_original": "El laberinto del fauno",
+      "film_year": "2006",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-M-048",
+      "knowledge_id": "K-FAN-24-mercedes-widerstand",
+      "variant_of": "",
+      "film_title_de": "Pans Labyrinth",
+      "film_title_original": "El laberinto del fauno",
+      "film_year": "2006",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-S-047",
+      "knowledge_id": "K-FAN-24-bruder-blut",
+      "variant_of": "",
+      "film_title_de": "Pans Labyrinth",
+      "film_title_original": "El laberinto del fauno",
+      "film_year": "2006",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-S-048",
+      "knowledge_id": "K-FAN-24-mercedes-name",
+      "variant_of": "",
+      "film_title_de": "Pans Labyrinth",
+      "film_title_original": "El laberinto del fauno",
+      "film_year": "2006",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-L-049",
+      "knowledge_id": "K-FAN-25-edward-depp",
+      "variant_of": "",
+      "film_title_de": "Edward mit den Scherenhänden",
+      "film_title_original": "Edward Scissorhands",
+      "film_year": "1990",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-L-050",
+      "knowledge_id": "K-FAN-25-peg-aufnahme",
+      "variant_of": "",
+      "film_title_de": "Edward mit den Scherenhänden",
+      "film_title_original": "Edward Scissorhands",
+      "film_year": "1990",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-M-049",
+      "knowledge_id": "K-FAN-25-erfinder-tod",
+      "variant_of": "",
+      "film_title_de": "Edward mit den Scherenhänden",
+      "film_title_original": "Edward Scissorhands",
+      "film_year": "1990",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-M-050",
+      "knowledge_id": "K-FAN-25-heckenkunst",
+      "variant_of": "",
+      "film_title_de": "Edward mit den Scherenhänden",
+      "film_title_original": "Edward Scissorhands",
+      "film_year": "1990",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-S-049",
+      "knowledge_id": "K-FAN-25-kim-todesbehauptung",
+      "variant_of": "",
+      "film_title_de": "Edward mit den Scherenhänden",
+      "film_title_original": "Edward Scissorhands",
+      "film_year": "1990",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "FAN-S-050",
+      "knowledge_id": "K-FAN-25-eisskulpturen-schnee",
+      "variant_of": "",
+      "film_title_de": "Edward mit den Scherenhänden",
+      "film_title_original": "Edward Scissorhands",
+      "film_year": "1990",
+      "subdomain": "Fantasy",
+      "source_file": "Fantasy_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-L-001",
+      "knowledge_id": "K-KOM-01-01",
+      "variant_of": "",
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-L-002",
+      "knowledge_id": "K-KOM-01-02",
+      "variant_of": "",
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-M-001",
+      "knowledge_id": "K-KOM-01-03",
+      "variant_of": "",
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-M-002",
+      "knowledge_id": "K-KOM-01-04",
+      "variant_of": "",
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-S-001",
+      "knowledge_id": "K-KOM-01-05",
+      "variant_of": "",
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-S-002",
+      "knowledge_id": "K-KOM-01-06",
+      "variant_of": "",
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-L-049",
+      "knowledge_id": "K-KOM-25-01",
+      "variant_of": "",
+      "film_title_de": "Grand Budapest Hotel",
+      "film_title_original": "The Grand Budapest Hotel",
+      "film_year": "2014",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-L-050",
+      "knowledge_id": "K-KOM-25-02",
+      "variant_of": "",
+      "film_title_de": "Grand Budapest Hotel",
+      "film_title_original": "The Grand Budapest Hotel",
+      "film_year": "2014",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-M-049",
+      "knowledge_id": "K-KOM-25-03",
+      "variant_of": "",
+      "film_title_de": "Grand Budapest Hotel",
+      "film_title_original": "The Grand Budapest Hotel",
+      "film_year": "2014",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-M-050",
+      "knowledge_id": "K-KOM-25-04",
+      "variant_of": "",
+      "film_title_de": "Grand Budapest Hotel",
+      "film_title_original": "The Grand Budapest Hotel",
+      "film_year": "2014",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-S-049",
+      "knowledge_id": "K-KOM-25-05",
+      "variant_of": "",
+      "film_title_de": "Grand Budapest Hotel",
+      "film_title_original": "The Grand Budapest Hotel",
+      "film_year": "2014",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-S-050",
+      "knowledge_id": "K-KOM-25-06",
+      "variant_of": "",
+      "film_title_de": "Grand Budapest Hotel",
+      "film_title_original": "The Grand Budapest Hotel",
+      "film_year": "2014",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-L-002-V1",
+      "knowledge_id": "K-KOM-01-02",
+      "variant_of": "KOM-L-002",
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-M-002-V1",
+      "knowledge_id": "K-KOM-01-04",
+      "variant_of": "KOM-M-002",
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "KOM-S-002-V1",
+      "knowledge_id": "K-KOM-01-06",
+      "variant_of": "KOM-S-002",
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "source_file": "Komoedie_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-003",
+      "knowledge_id": "K-CLA-02-01",
+      "variant_of": "",
+      "film_title_de": "Citizen Kane",
+      "film_title_original": "Citizen Kane",
+      "film_year": "1941",
+      "subdomain": "Drama",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-004",
+      "knowledge_id": "K-CLA-02-02",
+      "variant_of": "",
+      "film_title_de": "Citizen Kane",
+      "film_title_original": "Citizen Kane",
+      "film_year": "1941",
+      "subdomain": "Drama",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-003",
+      "knowledge_id": "K-CLA-02-03",
+      "variant_of": "",
+      "film_title_de": "Citizen Kane",
+      "film_title_original": "Citizen Kane",
+      "film_year": "1941",
+      "subdomain": "Drama",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-004",
+      "knowledge_id": "K-CLA-02-04",
+      "variant_of": "",
+      "film_title_de": "Citizen Kane",
+      "film_title_original": "Citizen Kane",
+      "film_year": "1941",
+      "subdomain": "Drama",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-003",
+      "knowledge_id": "K-CLA-02-05",
+      "variant_of": "",
+      "film_title_de": "Citizen Kane",
+      "film_title_original": "Citizen Kane",
+      "film_year": "1941",
+      "subdomain": "Drama",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-004",
+      "knowledge_id": "K-CLA-02-06",
+      "variant_of": "",
+      "film_title_de": "Citizen Kane",
+      "film_title_original": "Citizen Kane",
+      "film_year": "1941",
+      "subdomain": "Drama",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-017",
+      "knowledge_id": "K-CLA-09-01",
+      "variant_of": "",
+      "film_title_de": "Die Nacht des Jägers",
+      "film_title_original": "The Night of the Hunter",
+      "film_year": "1955",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-018",
+      "knowledge_id": "K-CLA-09-02",
+      "variant_of": "",
+      "film_title_de": "Die Nacht des Jägers",
+      "film_title_original": "The Night of the Hunter",
+      "film_year": "1955",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-017",
+      "knowledge_id": "K-CLA-09-03",
+      "variant_of": "",
+      "film_title_de": "Die Nacht des Jägers",
+      "film_title_original": "The Night of the Hunter",
+      "film_year": "1955",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-018",
+      "knowledge_id": "K-CLA-09-04",
+      "variant_of": "",
+      "film_title_de": "Die Nacht des Jägers",
+      "film_title_original": "The Night of the Hunter",
+      "film_year": "1955",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-017",
+      "knowledge_id": "K-CLA-09-05",
+      "variant_of": "",
+      "film_title_de": "Die Nacht des Jägers",
+      "film_title_original": "The Night of the Hunter",
+      "film_year": "1955",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-018",
+      "knowledge_id": "K-CLA-09-06",
+      "variant_of": "",
+      "film_title_de": "Die Nacht des Jägers",
+      "film_title_original": "The Night of the Hunter",
+      "film_year": "1955",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-027",
+      "knowledge_id": "K-CLA-14-01",
+      "variant_of": "",
+      "film_title_de": "Vertigo",
+      "film_title_original": "Vertigo",
+      "film_year": "1958",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-028",
+      "knowledge_id": "K-CLA-14-02",
+      "variant_of": "",
+      "film_title_de": "Vertigo",
+      "film_title_original": "Vertigo",
+      "film_year": "1958",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-027",
+      "knowledge_id": "K-CLA-14-03",
+      "variant_of": "",
+      "film_title_de": "Vertigo",
+      "film_title_original": "Vertigo",
+      "film_year": "1958",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-028",
+      "knowledge_id": "K-CLA-14-04",
+      "variant_of": "",
+      "film_title_de": "Vertigo",
+      "film_title_original": "Vertigo",
+      "film_year": "1958",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-027",
+      "knowledge_id": "K-CLA-14-05",
+      "variant_of": "",
+      "film_title_de": "Vertigo",
+      "film_title_original": "Vertigo",
+      "film_year": "1958",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-028",
+      "knowledge_id": "K-CLA-14-06",
+      "variant_of": "",
+      "film_title_de": "Vertigo",
+      "film_title_original": "Vertigo",
+      "film_year": "1958",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-035",
+      "knowledge_id": "K-CLA-18-01",
+      "variant_of": "",
+      "film_title_de": "Metropolis",
+      "film_title_original": "Metropolis",
+      "film_year": "1927",
+      "subdomain": "Sci-Fi",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-036",
+      "knowledge_id": "K-CLA-18-02",
+      "variant_of": "",
+      "film_title_de": "Metropolis",
+      "film_title_original": "Metropolis",
+      "film_year": "1927",
+      "subdomain": "Sci-Fi",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-035",
+      "knowledge_id": "K-CLA-18-03",
+      "variant_of": "",
+      "film_title_de": "Metropolis",
+      "film_title_original": "Metropolis",
+      "film_year": "1927",
+      "subdomain": "Sci-Fi",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-036",
+      "knowledge_id": "K-CLA-18-04",
+      "variant_of": "",
+      "film_title_de": "Metropolis",
+      "film_title_original": "Metropolis",
+      "film_year": "1927",
+      "subdomain": "Sci-Fi",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-035",
+      "knowledge_id": "K-CLA-18-05",
+      "variant_of": "",
+      "film_title_de": "Metropolis",
+      "film_title_original": "Metropolis",
+      "film_year": "1927",
+      "subdomain": "Sci-Fi",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-036",
+      "knowledge_id": "K-CLA-18-06",
+      "variant_of": "",
+      "film_title_de": "Metropolis",
+      "film_title_original": "Metropolis",
+      "film_year": "1927",
+      "subdomain": "Sci-Fi",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-037",
+      "knowledge_id": "K-CLA-19-01",
+      "variant_of": "",
+      "film_title_de": "Nosferatu, eine Symphonie des Grauens",
+      "film_title_original": "Nosferatu, eine Symphonie des Grauens",
+      "film_year": "1922",
+      "subdomain": "Horror",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-038",
+      "knowledge_id": "K-CLA-19-02",
+      "variant_of": "",
+      "film_title_de": "Nosferatu, eine Symphonie des Grauens",
+      "film_title_original": "Nosferatu, eine Symphonie des Grauens",
+      "film_year": "1922",
+      "subdomain": "Horror",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-037",
+      "knowledge_id": "K-CLA-19-03",
+      "variant_of": "",
+      "film_title_de": "Nosferatu, eine Symphonie des Grauens",
+      "film_title_original": "Nosferatu, eine Symphonie des Grauens",
+      "film_year": "1922",
+      "subdomain": "Horror",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-038",
+      "knowledge_id": "K-CLA-19-04",
+      "variant_of": "",
+      "film_title_de": "Nosferatu, eine Symphonie des Grauens",
+      "film_title_original": "Nosferatu, eine Symphonie des Grauens",
+      "film_year": "1922",
+      "subdomain": "Horror",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-037",
+      "knowledge_id": "K-CLA-19-05",
+      "variant_of": "",
+      "film_title_de": "Nosferatu, eine Symphonie des Grauens",
+      "film_title_original": "Nosferatu, eine Symphonie des Grauens",
+      "film_year": "1922",
+      "subdomain": "Horror",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-038",
+      "knowledge_id": "K-CLA-19-06",
+      "variant_of": "",
+      "film_title_de": "Nosferatu, eine Symphonie des Grauens",
+      "film_title_original": "Nosferatu, eine Symphonie des Grauens",
+      "film_year": "1922",
+      "subdomain": "Horror",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-039",
+      "knowledge_id": "K-CLA-20-01",
+      "variant_of": "",
+      "film_title_de": "M – Eine Stadt sucht einen Mörder",
+      "film_title_original": "M",
+      "film_year": "1931",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-040",
+      "knowledge_id": "K-CLA-20-02",
+      "variant_of": "",
+      "film_title_de": "M – Eine Stadt sucht einen Mörder",
+      "film_title_original": "M",
+      "film_year": "1931",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-039",
+      "knowledge_id": "K-CLA-20-03",
+      "variant_of": "",
+      "film_title_de": "M – Eine Stadt sucht einen Mörder",
+      "film_title_original": "M",
+      "film_year": "1931",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-040",
+      "knowledge_id": "K-CLA-20-04",
+      "variant_of": "",
+      "film_title_de": "M – Eine Stadt sucht einen Mörder",
+      "film_title_original": "M",
+      "film_year": "1931",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-039",
+      "knowledge_id": "K-CLA-20-05",
+      "variant_of": "",
+      "film_title_de": "M – Eine Stadt sucht einen Mörder",
+      "film_title_original": "M",
+      "film_year": "1931",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-040",
+      "knowledge_id": "K-CLA-20-06",
+      "variant_of": "",
+      "film_title_de": "M – Eine Stadt sucht einen Mörder",
+      "film_title_original": "M",
+      "film_year": "1931",
+      "subdomain": "Thriller",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-004-V1",
+      "knowledge_id": "K-CLA-02-02",
+      "variant_of": "CLA-L-004",
+      "film_title_de": "Citizen Kane",
+      "film_title_original": "Citizen Kane",
+      "film_year": "1941",
+      "subdomain": "Drama",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-004-V1",
+      "knowledge_id": "K-CLA-02-04",
+      "variant_of": "CLA-M-004",
+      "film_title_de": "Citizen Kane",
+      "film_title_original": "Citizen Kane",
+      "film_year": "1941",
+      "subdomain": "Drama",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-004-V1",
+      "knowledge_id": "K-CLA-02-06",
+      "variant_of": "CLA-S-004",
+      "film_title_de": "Citizen Kane",
+      "film_title_original": "Citizen Kane",
+      "film_year": "1941",
+      "subdomain": "Drama",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-L-036-V1",
+      "knowledge_id": "K-CLA-18-02",
+      "variant_of": "CLA-L-036",
+      "film_title_de": "Metropolis",
+      "film_title_original": "Metropolis",
+      "film_year": "1927",
+      "subdomain": "Sci-Fi",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-M-036-V1",
+      "knowledge_id": "K-CLA-18-04",
+      "variant_of": "CLA-M-036",
+      "film_title_de": "Metropolis",
+      "film_title_original": "Metropolis",
+      "film_year": "1927",
+      "subdomain": "Sci-Fi",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "CLA-S-036-V1",
+      "knowledge_id": "K-CLA-18-06",
+      "variant_of": "CLA-S-036",
+      "film_title_de": "Metropolis",
+      "film_title_original": "Metropolis",
+      "film_year": "1927",
+      "subdomain": "Sci-Fi",
+      "source_file": "Classics_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-L-035",
+      "knowledge_id": "K-MAR-18-01",
+      "variant_of": "",
+      "film_title_de": "Hero",
+      "film_title_original": "Hero",
+      "film_year": "2002",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-L-036",
+      "knowledge_id": "K-MAR-18-02",
+      "variant_of": "",
+      "film_title_de": "Hero",
+      "film_title_original": "Hero",
+      "film_year": "2002",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-M-035",
+      "knowledge_id": "K-MAR-18-03",
+      "variant_of": "",
+      "film_title_de": "Hero",
+      "film_title_original": "Hero",
+      "film_year": "2002",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-M-036",
+      "knowledge_id": "K-MAR-18-04",
+      "variant_of": "",
+      "film_title_de": "Hero",
+      "film_title_original": "Hero",
+      "film_year": "2002",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-S-035",
+      "knowledge_id": "K-MAR-18-05",
+      "variant_of": "",
+      "film_title_de": "Hero",
+      "film_title_original": "Hero",
+      "film_year": "2002",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-S-036",
+      "knowledge_id": "K-MAR-18-06",
+      "variant_of": "",
+      "film_title_de": "Hero",
+      "film_title_original": "Hero",
+      "film_year": "2002",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-L-043",
+      "knowledge_id": "K-MAR-22-01",
+      "variant_of": "",
+      "film_title_de": "Tiger & Dragon",
+      "film_title_original": "Crouching Tiger, Hidden Dragon",
+      "film_year": "2000",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-L-044",
+      "knowledge_id": "K-MAR-22-02",
+      "variant_of": "",
+      "film_title_de": "Tiger & Dragon",
+      "film_title_original": "Crouching Tiger, Hidden Dragon",
+      "film_year": "2000",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-M-043",
+      "knowledge_id": "K-MAR-22-03",
+      "variant_of": "",
+      "film_title_de": "Tiger & Dragon",
+      "film_title_original": "Crouching Tiger, Hidden Dragon",
+      "film_year": "2000",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-M-044",
+      "knowledge_id": "K-MAR-22-04",
+      "variant_of": "",
+      "film_title_de": "Tiger & Dragon",
+      "film_title_original": "Crouching Tiger, Hidden Dragon",
+      "film_year": "2000",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-S-043",
+      "knowledge_id": "K-MAR-22-05",
+      "variant_of": "",
+      "film_title_de": "Tiger & Dragon",
+      "film_title_original": "Crouching Tiger, Hidden Dragon",
+      "film_year": "2000",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-S-044",
+      "knowledge_id": "K-MAR-22-06",
+      "variant_of": "",
+      "film_title_de": "Tiger & Dragon",
+      "film_title_original": "Crouching Tiger, Hidden Dragon",
+      "film_year": "2000",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-L-036-V1",
+      "knowledge_id": "K-MAR-18-02",
+      "variant_of": "MAR-L-036",
+      "film_title_de": "Hero",
+      "film_title_original": "Hero",
+      "film_year": "2002",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-M-036-V1",
+      "knowledge_id": "K-MAR-18-04",
+      "variant_of": "MAR-M-036",
+      "film_title_de": "Hero",
+      "film_title_original": "Hero",
+      "film_year": "2002",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-S-036-V1",
+      "knowledge_id": "K-MAR-18-06",
+      "variant_of": "MAR-S-036",
+      "film_title_de": "Hero",
+      "film_title_original": "Hero",
+      "film_year": "2002",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-L-044-V1",
+      "knowledge_id": "K-MAR-22-02",
+      "variant_of": "MAR-L-044",
+      "film_title_de": "Tiger & Dragon",
+      "film_title_original": "Crouching Tiger, Hidden Dragon",
+      "film_year": "2000",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-M-044-V1",
+      "knowledge_id": "K-MAR-22-04",
+      "variant_of": "MAR-M-044",
+      "film_title_de": "Tiger & Dragon",
+      "film_title_original": "Crouching Tiger, Hidden Dragon",
+      "film_year": "2000",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    },
+    {
+      "question_id": "MAR-S-044-V1",
+      "knowledge_id": "K-MAR-22-06",
+      "variant_of": "MAR-S-044",
+      "film_title_de": "Tiger & Dragon",
+      "film_title_original": "Crouching Tiger, Hidden Dragon",
+      "film_year": "2000",
+      "subdomain": "Martial Arts & Asia-Film",
+      "source_file": "MartialArts_Quiz_180_Fragen.csv",
+      "add_topic_tags": [
+        "Arthouse"
+      ],
+      "add_badge_tags": [
+        "Arthouse"
+      ]
+    }
+  ],
+  "summary": {
+    "films": 19,
+    "question_entries": 126,
+    "knowledge_targets": 108,
+    "new_questions_created": 0
+  }
+}

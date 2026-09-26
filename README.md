@@ -122,7 +122,7 @@ Die offline verfügbare Hilfe „So funktioniert’s“ ist im Profil und im Sei
 Neue Lernpfad-Stufen werden beim Rundenabschluss mit einer kurzen Freischaltfeier ausgezeichnet: aufspringendes Schloss, Feuerwerk, große Stufenanzeige und Fanfare. Ton/Vibration bleiben einstellbar; reduzierte Bewegung wird respektiert. Alte Rundenergebnisse spielen die Feier nicht erneut ab.
 
 
-Der kompakte Spieleinstieg bietet „Losspielen“ direkt unter der Moduswahl. Die zusätzliche kuratierte Kategorie Classics verbindet 180 neue Fragen mit 225 passenden Bestandsfragen. Genres und gemeinsame Lernfortschritte bleiben erhalten; 33 Verweise auf noch fehlende Pakete werden übersprungen. Aktueller Gesamtbestand: 1.440 Fragen und 1.200 Wissensziele. Details unter [Importformat](docs/Importformat.md).
+Der kompakte Spieleinstieg bietet „Losspielen“ direkt unter der Moduswahl. Classics und Arthouse sind kuratierte Zusatzkategorien innerhalb der gewählten Genres; beide zusammen bilden eine Vereinigung ohne Fragekopien. Aktuell: elf Pakete, 1.980 Fragen und 1.650 Wissensziele. Die neuen Genres heißen Martial Arts & Asia-Film und Rom-Com. Alle gelieferten Bestandszuordnungen sind aufgelöst. Details unter [Importformat](docs/Importformat.md).
 
 
 In Entdecken und Besser werden zeigt jede Frage ihre persönliche Antwortbilanz (beantwortet, richtig, falsch). Aufklappbar: Zeitabläufe, geratene Treffer und gemeinsame Statistik mit Wiederholungsvarianten. Bestehende Antworten zählen automatisch mit.

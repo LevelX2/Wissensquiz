@@ -189,6 +189,18 @@
     "SF-S-001",
     "SF-S-001-V1",
     "SF-S-039",
+    "ROM-L-043",
+    "ROM-L-044",
+    "ROM-M-043",
+    "ROM-M-044",
+    "ROM-S-043",
+    "ROM-S-044",
+    "ROM-L-043-V1",
+    "ROM-L-044-V1",
+    "ROM-M-043-V1",
+    "ROM-M-044-V1",
+    "ROM-S-043-V1",
+    "ROM-S-044-V1",
     "ACT-L-033",
     "ACT-L-034",
     "ACT-M-033",
@@ -224,21 +236,7 @@
     "KOM-S-006-V1",
     "KOM-L-016-V1",
     "KOM-M-016-V1",
-    "KOM-S-016-V1"
-  ],
-  "missing": [
-    "ROM-L-043",
-    "ROM-L-044",
-    "ROM-M-043",
-    "ROM-M-044",
-    "ROM-S-043",
-    "ROM-S-044",
-    "ROM-L-043-V1",
-    "ROM-L-044-V1",
-    "ROM-M-043-V1",
-    "ROM-M-044-V1",
-    "ROM-S-043-V1",
-    "ROM-S-044-V1",
+    "KOM-S-016-V1",
     "MAR-L-003",
     "MAR-L-004",
     "MAR-M-003",
@@ -261,6 +259,7 @@
     "MAR-M-030-V1",
     "MAR-S-030-V1"
   ],
+  "missing": [],
   "mismatched": [],
   "sourceChecks": [
     {
@@ -285,8 +284,8 @@
     },
     {
       "filename": "RomCom_Quiz_180_Fragen.csv",
-      "available": false,
-      "matches": null
+      "available": true,
+      "matches": true
     },
     {
       "filename": "Action_Quiz_180_Fragen.csv",
@@ -300,11 +299,11 @@
     },
     {
       "filename": "MartialArts_Quiz_180_Fragen.csv",
-      "available": false,
-      "matches": null
+      "available": true,
+      "matches": true
     }
   ],
-  "classicQuestions": 405,
-  "classicKnowledgeGoals": 336,
-  "classicFilms": 57
+  "classicQuestions": 438,
+  "classicKnowledgeGoals": 360,
+  "classicFilms": 61
 }

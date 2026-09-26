@@ -9,6 +9,9 @@ export const genreIllustrations: Record<string, string> = {
   Abenteuer: "/genres/adventure.png",
   Musik: "/genres/music.png",
   Thriller: "/genres/thriller.png",
+  "Martial Arts & Asia-Film": "/genres/martialarts.png",
+  "Rom-Com": "/genres/romcom.png",
+  Arthouse: "/genres/arthouse.png",
   Classics: "/genres/classics.png",
 };
 
