@@ -25,6 +25,10 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Aktueller Veröffentlichungsstand
 
+Version 21 am 26.09.2026: Martial Arts & Asia-Film, Rom-Com und Arthouse mit insgesamt 540 zusätzlichen Fragen; alle Classics-/Arthouse-Bestandsverweise aufgelöst, kombinierbare Zusatzkategorien und drei neue transparente Icons. App-Commit `f1c188d059481a73ebee69c1fe85fdf5664f0222`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_f0ef52010b508191987a524440131656`, Deployment `appgdep_6ab81e5df6f08191859f818e8c302cd2`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 103 Logik-/Datenbanktests, Produktions-Build und alle 56 Browserfälle erfolgreich (55 im vollständigen Lauf, einer nach Testdatenergänzung gezielt nachgeprüft). Rohquellen und Lernstände erhalten, keine Datenbankmigration. Regulärer Sites-Workflow und native Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Smartphone-Abnahme offen.
+
+### Vorherige Veröffentlichung: Version 20
+
 Version 20 am 26.09.2026: Fragenstatistik standardmäßig nach Beantwortung, unter Profil → Optionen alternativ immer sichtbar oder ausgeblendet. App-Commit `270c5f767748b5dea8b873f3d2968cb6036836ee`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_b33a25fd4e14819198b504e35658e080`, Deployment `appgdep_6ab80a31bce081919de9c5bfeede632c`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 95 Logiktests, Build und 53 Browserfälle erfolgreich (51 im vollständigen Lauf, zwei nach Testlocator-Korrektur gezielt nachgeprüft). Lernfortschritt und Rohquellen unverändert. Regulärer Sites-Workflow und native Browserübergabe, keine zusätzliche Live-Browserprüfung.
 
 ### Vorherige Veröffentlichung: Version 19
