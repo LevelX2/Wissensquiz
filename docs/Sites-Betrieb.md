@@ -25,6 +25,10 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Aktueller Veröffentlichungsstand
 
+Version 23 am 26.09.2026: 300 Jahresfragen und 287 zusätzliche Regiefragen in den bisherigen Genres, aufklappbare Filmdaten nach jeder beantworteten Bestandsfrage sowie farbige Fortschrittsfelder mit Symbolen und aktueller Markierung. App-Commit `3d89e0699dbb8661f40873743b054714079dff51`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_6942344ee2a88191840fc60858248e15`, Deployment `appgdep_6ab83fa9a404819183ccad13ec64483a`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 109 Logik-/Datenbanktests, Produktions-Build und alle 60 Browserfälle erfolgreich (59 im vollständigen Lauf, Fortschrittsanzeige nach Testablaufkorrektur gezielt bestanden). Rohquellen und bisherige Lernstände erhalten; keine Änderung des Supabase-Schemas. Regulärer Sites-Workflow und native Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Smartphone-Abnahme offen.
+
+### Vorherige Veröffentlichung: Version 22
+
 Version 22 am 26.09.2026: Drei transparente Spielmodus-Illustrationen und helle Kino-Kulisse auf der Startseite. Kompakte mobile Ausrichtung, Losspielen weiterhin direkt unter der Moduswahl, alle Bilder offline verfügbar. App-Commit `c9e22d3e980417ed0ba988265d5ca97b43dfb3f2`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_164b417a4ee8819188f350d07da62355`, Deployment `appgdep_6ab831139174819188f787278ca0664a`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 103 Logik-/Datenbanktests, Produktions-Build und alle 56 Browserfälle erfolgreich; nach letzter mobiler CSS-Anpassung Build und Einstiegstest nochmals erfolgreich. Desktop-/Handy-Screenshots visuell geprüft. Lernstände und Rohquellen unverändert. Regulärer Sites-Workflow und native Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Smartphone-Abnahme offen. Jahres- und Regiefragen als Nutzeridee vorgemerkt, noch nicht implementiert.
 
 ### Vorherige Veröffentlichung: Version 21
