@@ -4,7 +4,7 @@ Spielbare deutsche React-/TypeScript-App für kurze Filmquizrunden mit dauerhaft
 
 ## Starten
 
-**Online testen:** [Wissensquiz – Dein Filmkosmos](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Private Sites-Veröffentlichung; gegebenenfalls mit demselben ChatGPT-Konto anmelden. Der lokale Rechner muss dafür nicht laufen.
+**Online testen:** [Wissensquiz – Dein Filmkosmos](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Öffentlich erreichbar, ohne ChatGPT-Anmeldung. Für Online-Fortschritt ein eigenes Quiz-Konto verwenden; Gastspiel bleibt möglich. Der lokale Rechner muss dafür nicht laufen.
 
 Voraussetzung: Node.js 22.12+ (geprüft mit 24.19), npm. In PowerShell:
 
@@ -73,9 +73,9 @@ IndexedDB speichert Fragen, Inhaltsversionen, Rundensnapshots, eindeutige Antwor
 
 Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach bestätigtem Paketdownload sind Oberfläche, Fragen und Erklärungen offline verfügbar. Updates warten auf das Schließen aller alten App-Fenster. Aktive Rekordrunden werden nach Neuladen/Browserneustart als abgebrochen behandelt; unbeantwortete Fragen erhalten keine neue Zeit. Entspannte Runden sind fortsetzbar.
 
-**PWA/Offline auf Smartphones benötigt HTTPS.** Die Sites-Adresse bietet HTTPS. Die HTTP-Heimnetzvorschau unterstützt Spielen und Fortschritt, aber keine Service-Worker-Installation. Auf `localhost` ist Offlinebetrieb getestet; die Installation auf einem physischen Smartphone und unter der privaten Sites-Adresse ist noch zu prüfen. Externe Quellenlinks benötigen weiterhin Netz.
+**PWA/Offline auf Smartphones benötigt HTTPS.** Die Sites-Adresse bietet HTTPS. Die HTTP-Heimnetzvorschau unterstützt Spielen und Fortschritt, aber keine Service-Worker-Installation. Auf `localhost` ist Offlinebetrieb getestet; die Installation auf einem physischen Smartphone und unter der Sites-Adresse ist noch zu prüfen. Externe Quellenlinks benötigen weiterhin Netz.
 
-**Sites:** Die App ist über `.openai/hosting.json` mit der privaten Site „Wissensquiz – Dein Filmkosmos“ verknüpft. Die erste Veröffentlichung wurde am 26.09.2026 von Sites als erfolgreich bestätigt. Veröffentlicht wird der statische Produktions-Build aus `dist/`; keine Nutzerspielstände werden übertragen. Hosting allein ergänzt keine geräteübergreifende Synchronisierung; vorhandene lokale Spielstände werden beim Adresswechsel per JSON übertragen. [Veröffentlichungsablauf](docs/Sites-Betrieb.md).
+**Sites:** Die App ist über `.openai/hosting.json` mit der öffentlich erreichbaren Site „Wissensquiz – Dein Filmkosmos“ verknüpft. Die erste Veröffentlichung wurde am 26.09.2026 von Sites als erfolgreich bestätigt. Veröffentlicht wird der statische Produktions-Build aus `dist/`; keine Nutzerspielstände werden übertragen. Die aktivierte Supabase-Anbindung sichert Kontostände automatisch; Gaststände werden beim Adresswechsel per JSON übertragen. [Veröffentlichungsablauf](docs/Sites-Betrieb.md).
 
 ## Projektaufbau
 

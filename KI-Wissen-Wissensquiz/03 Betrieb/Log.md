@@ -98,3 +98,7 @@ Nach korrigierter Brevo-Verbindung echte Bestätigungsmail empfangen und Kontoak
 ## 26.09.2026 – Reset bestätigt, Passwortanzeige und neue Genres
 
 Nutzer bestätigt erfolgreichen Passwort-Reset und Anmeldung am Handy. Auge zum Anzeigen/Verbergen aller Passwortfelder ergänzt. Komödie und Western unverändert übernommen: je 180 akzeptierte Fragen, 150 Ziele, 30 Varianten, 25 Themen, keine Importwarnungen/ID-Konflikte. Gesamtbestand 1.080 Fragen, 900 Wissensziele und 138 Themen. Eigene Genre-Icons, transaktionale Ergänzung und Offline-Paket eingebunden. Bestehende Darstellerprüfung gilt weiterhin für die bisherigen 720 Fragen; neue Filmtexte nicht unabhängig geprüft.
+
+## 26.09.2026 – Aktualisiert veröffentlicht und öffentlich freigegeben
+
+App-Commit `b33ae2a` auf derselben Sites-Projekt-ID/URL erfolgreich veröffentlicht; Deployment `appgdep_6ab7d405ebf48191a386d6cef3be524c`, Status `succeeded`. Anschließend Besucherzugriff auf Nutzerauftrag öffentlich (Revision 2), Eigentümerrechte erhalten. Anonymer Live-Aufruf direkt mit Status 200 und aktuellem JavaScript; beide neuen CSV und Service Worker bytegleich zum Build. 67 Logik-/Datenbanktests, Build und alle 31 Browserfälle erfolgreich (alte Anzahl im Zusatzimport-Test korrigiert und gezielt erneut bestanden). Gastdaten und Rohquellen erhalten. Physische PWA-/Offline- und echte geräteübergreifende Fortschrittsprüfung weiterhin offen.

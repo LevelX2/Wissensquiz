@@ -23,7 +23,7 @@
 - Git-Modell: lokales Git ohne dauerhaft konfigurierten Remote; Sites-Quellveröffentlichung nach ausdrücklichem Hostingauftrag. Integrationsbranch: `main`.
 - Vor Arbeitsänderungen auf `main` einen passenden `codex/`-Arbeitsbranch anlegen. Die initiale Projektanlage erfolgt auf `codex/projektanlage`; `main` erhält denselben Initialstand.
 - Remote, Push, PR und Veröffentlichung nur nach ausdrücklichem Auftrag.
-- Sites ist über `.openai/hosting.json` verknüpft; bestehende Projekt-ID erhalten. Der Nutzer hat die private Sites-Veröffentlichung beauftragt. Veröffentlichungen und spätere Site-Änderungen nach `sites-hosting` ausführen; Zugriff nicht ohne Auftrag erweitern. Lokale Spielstände bleiben im Browser und werden nicht hochgeladen.
+- Sites ist über `.openai/hosting.json` verknüpft; bestehende Projekt-ID erhalten. Der Nutzer hat inzwischen öffentlichen Besucherzugriff ohne vorgeschaltete ChatGPT-Anmeldung beauftragt; umgesetzt am 26.09.2026. Veröffentlichungen und spätere Site-Änderungen nach `sites-hosting` bzw. dokumentiertem Ersatzablauf in `docs/Sites-Betrieb.md` ausführen; bestehenden Zugriff erhalten. Gastspielstände bleiben im Browser; angemeldete Kontostände werden automatisch privat in Supabase gesichert. Keine Nutzerdaten in Veröffentlichungsartefakte aufnehmen.
 - Keine Secrets, privaten Pfade, lokalen Nutzdaten oder reproduzierbaren Build-Artefakte versionieren.
 - Stack: React/TypeScript, Vite, IndexedDB, statische PWA. Kein verpflichtendes Backend.
 - Fachverträge: `docs/Importformat.md` und `docs/Lernregeln.md`; Prüfnachweis: `docs/Pruefbericht.md`.

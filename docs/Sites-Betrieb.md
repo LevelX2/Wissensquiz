@@ -1,8 +1,8 @@
 # Sites-Veröffentlichung
 
-Private Site: https://wissensquiz-filmkosmos.levelx2.chatgpt.site
+Öffentliche Site: https://wissensquiz-filmkosmos.levelx2.chatgpt.site
 
-Projekt-ID aus `.openai/hosting.json` wiederverwenden: `appgprj_6ab78f6468648191a8895f7a1d9dbf23`. Zugriff ist nur für den Eigentümer eingerichtet. Keine Zugriffserweiterung ohne Nutzerauftrag.
+Projekt-ID aus `.openai/hosting.json` wiederverwenden: `appgprj_6ab78f6468648191a8895f7a1d9dbf23`. Besucherzugriff ist seit 26.09.2026 auf ausdrücklichen Nutzerauftrag öffentlich (`access_mode: public`, Revision 2). Kein vorgeschaltetes ChatGPT-Konto erforderlich. Bearbeitungsrechte wurden nicht erweitert; private Kontospielstände schützt Supabase Auth/RLS.
 
 ## Ablauf
 
@@ -11,9 +11,9 @@ Projekt-ID aus `.openai/hosting.json` wiederverwenden: `appgprj_6ab78f6468648191
 3. Kurzlebige Quellberechtigung nur im Sitzungsspeicher halten und als versteckte Standardeingabe an `site-workflow.mjs` übergeben. Nie in Dateien, Kommandoargumente oder Logs schreiben.
 4. Unter Windows benötigt der Workflow Git-Bash im Prozess-PATH (`C:\Program Files\Git\bin`). `TAR_OPTIONS=--force-local` verhindert, dass GNU tar den Laufwerkbuchstaben des Archivpfads als Remote-Host auslegt. Diese Variablen nur für den Prozess setzen.
 5. Der gebündelte Build-Helfer fand npm in dieser Windows-Umgebung nicht korrekt. `npm run build` in PowerShell war erfolgreich; danach im Workflow den unveränderten Build mit leerer `commands`-Liste verwenden. Der Workflow prüft und pusht den Quellstand und paketiert das Artefakt.
-6. Genau den zurückgegebenen Commit und Archivpfad mit `sites_save_version_and_deploy_private` speichern und veröffentlichen. Bei bereits gespeicherter Version diese weiterverwenden. Auf `succeeded` samt URL warten; anschließend die native Browserübergabe verwenden.
+6. Genau den zurückgegebenen Commit und Archivpfad speichern und veröffentlichen. Bei der inzwischen öffentlichen Site `sites_save_site_version` und `sites_deploy_site_version` verwenden; ausschließlich bei nachgewiesenem Eigentümerzugriff `sites_save_version_and_deploy_private`. Freigabe nicht zum Veröffentlichen ändern. Bei bereits gespeicherter Version diese weiterverwenden. Auf `succeeded` samt URL warten; anschließend die native Browserübergabe verwenden.
 
-Keine Nutzerspielstände veröffentlichen. Diese liegen ausschließlich im jeweiligen Browser. Bei Adresswechsel JSON exportieren/importieren. Updates warten auf das Schließen alter App-Fenster. Das neue Action-Paket ergänzt bestehende Sci-Fi-Spielstände transaktional.
+Keine Nutzerspielstände im Deployment veröffentlichen. Gaststände liegen im Browser; Kontostände zusätzlich privat in Supabase. Bei Adresswechsel JSON exportieren/importieren. Updates warten auf das Schließen alter App-Fenster. Das neue Action-Paket ergänzt bestehende Sci-Fi-Spielstände transaktional.
 
 Seit Version 3 enthält die Live-Site zusätzlich das Horror-Paket. Es ergänzt bestehende Sci-Fi-/Action-Spielstände über denselben Mechanismus und ist im Produktions-Build für den Offline-Cache enthalten. Projekt-ID, URL und privater Zugriff bleiben unverändert.
 
@@ -25,7 +25,7 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Testpersonen einladen
 
-Bei der letzten Prüfung waren externe Besuchereinladungen für diese Site erlaubt; weiterhin nur Eigentümerzugriff, keine Testpersonen hinzugefügt. In [Sites](https://chatgpt.com/sites) das Projekt öffnen, **Share/Teilen** wählen, **Only those invited/Nur eingeladene Personen** beibehalten, E-Mail-Adresse eintragen und mit **Viewer/Besucher** einladen. Empfänger öffnen denselben Site-Link und melden sich mit dem freigegebenen Konto an. Besucher dürfen die App benutzen, aber nicht bearbeiten oder veröffentlichen. [Offizielle Anleitung](https://learn.chatgpt.com/docs/sites#invite-people-outside-your-workspace). Spielstände bleiben pro Gerät und Browser getrennt.
+Seit der öffentlichen Freigabe genügt die Weitergabe des normalen Quiz-Links. Sohn, Schwager und andere Testpersonen brauchen kein ChatGPT-Konto. Sie können als Gast spielen oder ein eigenes Quiz-Konto mit E-Mail-Bestätigung anlegen. Gastfortschritt bleibt auf ihrem Gerät; angemeldeter Kontofortschritt wird automatisch privat gespeichert. Öffentliche Besucher erhalten keine Bearbeitungs- oder Veröffentlichungsrechte.
 
 ## Nachweis und Grenzen
 
@@ -46,3 +46,7 @@ Darstellerergänzungen, optionale Fragehinweise und persönliche Bestenliste am 
 Vorbereitete Kontenanbindung am 26.09.2026: Commit `a34a0e0a0bff476d92f91b0bc9932a07b36ff923`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_4e432f37b6f88191887d6aad11de9fba`, Deployment `appgdep_6ab7c027da548191adef4fe60691f08b`, nativer Status `succeeded`. 57 Logik-/Datenbanktests, 25 Chromium-Prüfungen, Produktions-Build und Diff-Prüfung erfolgreich; Audit 0. Kontoansicht veröffentlicht, Kontodienst per Konfiguration deaktiviert. Keine echten Nutzerkonten, Mails oder Online-Spielstände eingerichtet. Private Freigabe und bestehende URL erhalten; native Browserübergabe erfolgt. Aktivierung nach [Konten-Einrichtung](Konten-Einrichtung.md), echte Dienstprüfung noch offen.
 
 Private Kontenaktivierung am 26.09.2026: Commit `f115047ce8f4f75114a8204680feecb49e4b3057`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_020e70138dc48191bcf15819d7a9c052`, Deployment `appgdep_6ab7ca90deec8191ac5d8482f6f57fa4`, nativer Status `succeeded`. 57 Logik-/Datenbanktests und 25 Browserprüfungen erfolgreich. SMTP und Mailvorlagen eingerichtet, Konto-Konfiguration aktiviert; echte Registrierung und Mailzustellung noch offen. Bestehender Eigentümerzugriff und URL erhalten. Gebündelter Sites-Helfer aktuell nicht installiert; dokumentierten nativen Ersatzablauf verwendet, remote Quellstand als Vorfahr geprüft, exakten sauberen Commit ohne Force-Push übertragen und daraus gebautes TAR veröffentlicht. Im internen Live-Browser Anmeldung und Registrierungsformular sichtbar; keine Passwörter eingegeben oder Quizstände geändert. Ein zweiter Tab zeigte noch den alten PWA-Cache und wurde geschlossen. Physische PWA-/Offline-Prüfung bleibt offen.
+
+Automatische Kontosicherung, Passwortanzeige und Komödie/Western am 26.09.2026: Commit `b33ae2add700b742e817e4ae93390815a713cda3`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_2a77dc2cef988191ba03bc8c08ef7ff6`, Deployment `appgdep_6ab7d405ebf48191a386d6cef3be524c`, nativer Status `succeeded`. Dokumentierter Ersatzablauf ohne dauerhaftes Remote; exakter sauberer Quellcommit übertragen, geprüftes Build-Artefakt veröffentlicht. Anschließend auf ausdrücklichen Nutzerauftrag Besucherzugriff `public`, Revision 2, gesetzt. Bestehende Projekt-ID, URL und Eigentümerrechte erhalten.
+
+Unauthentifizierter Live-HTTP-Aufruf ohne Cookies oder Zugangstoken: Status 200, direktes Quiz-HTML mit aktuellem JavaScript. JavaScript, beide neuen CSV und Service Worker live Status 200 und bytegleich zum Build. Native Browserübergabe ausgelöst. 67 Logik-/Datenbanktests, Build, 31 unterschiedliche Browserprüfungen und Diff-Prüfung erfolgreich. Reale Bestätigung, Passwort-Reset und Handy-Anmeldung vom Nutzer bestätigt; physische PWA-/Offline-Prüfung sowie echte geräteübergreifende Fortschrittsabnahme noch offen. Wenn eine alte Ansicht bleibt: alle Quiz-Fenster schließen und neu öffnen, am PC gegebenenfalls Strg+F5; keine Browserdaten löschen.

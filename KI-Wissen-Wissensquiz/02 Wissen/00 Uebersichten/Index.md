@@ -24,7 +24,7 @@
 - [Horror-Importbericht](../../../docs/importbericht-horror.json)
 - [Fantasy-Rohquelle](../../01%20Rohquellen/Fantasy_Quiz_180_Fragen.csv)
 - [Fantasy-Importbericht](../../../docs/importbericht-fantasy.json)
-- [Private Sites-Veröffentlichung und Windows-Ablauf](../../../docs/Sites-Betrieb.md)
+- [Sites-Veröffentlichung, öffentlicher Zugang und Windows-Ablauf](../../../docs/Sites-Betrieb.md)
 
 - [Komödie-Rohquelle](../../01%20Rohquellen/Komoedie_Quiz_180_Fragen.csv)
 - [Komödie-Importbericht](../../../docs/importbericht-komoedie.json)
