@@ -33,3 +33,5 @@ Der Einstieg verzichtet auf die große Werbefläche. „Losspielen“ steht dire
 ## Statistik zur einzelnen Frage
 
 Entdecken und Besser werden zeigen direkt unter dem Fragetext die persönliche Bilanz der konkreten Frage: beantwortet, richtig und falsch. Aufklappbar sind Zeitabläufe, geratene Treffer und die gemeinsame Bilanz mit Wiederholungsvarianten. Vorhandene Antworten aller Modi und Rundenstatus zählen mit; Neuladen oder bloßes Anzeigen zählt nicht. Details zur Zählweise unter [Lernregeln](Lernregeln.md#statistik-zur-einzelnen-frage). Keine neue Speicherung, bestehende Fortschritte bleiben erhalten.
+
+Die Fragenstatistik erscheint standardmäßig erst nach der Antwort. Unter Profil → Optionen lässt sie sich auf „Immer anzeigen“ umstellen oder ausblenden. Die Auswahl wird mit dem Spielstand gesichert; ältere Spielstände verwenden „Nach der Antwort“.

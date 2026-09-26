@@ -192,3 +192,9 @@ Entdecken und Besser werden zeigen die Anzahl beantworteter, richtiger und falsc
 Rohquellen, Nutzerdaten und Lernregeln unverändert. Keine neue physische iPhone-Prüfung und keine Änderung der bereits bekannten Hosting-/Kontendienstgrenzen.
 
 Version 19 am 26.09.2026: persönliche Fragenstatistik in Entdecken und Besser werden, mit aufklappbarer Variantenbilanz. App-Commit `dacd0589896b0dd7dfefffdb38bae3f46739f1f0`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_449b52ac06208191833137728eec8fd4`, Deployment `appgdep_6ab80781e8bc8191898df993ed1af383`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 95 Logik-/Datenbanktests, Produktions-Build und alle 53 Browserprüfungen erfolgreich. Keine Datenbankänderung oder Fortschrittsmigration. Regulärer Sites-Workflow und native Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Geräteabnahme weiterhin offen.
+
+## 26.09.2026 — Zeitpunkt der Fragenstatistik einstellbar
+
+Standard „Nach der Antwort“, alternativ „Immer anzeigen“ und „Ausblenden“ unter Profil → Optionen. Optionales settings.questionHistory mit Rückfall auf after, über bestehende Sicherungswege erhalten.
+
+95 Logik-/Datenbanktests und Produktions-Build erfolgreich. Alle 53 Browserfälle erfolgreich: 51 im vollständigen Lauf, beide erweiterten Statistikfälle nach Korrektur des Optionsbutton-Locators gezielt erneut bestanden. Die Fälle prüfen ältere Spielstände ohne Einstellung, Standard erst nach Antwort, alle drei Anzeigeoptionen, Speicherung über Neuladen, aktuelle Antwort inklusive und unveränderte Variantenbilanz; Rekordrunden bleiben ohne Anzeige. Kein Produktfehler aus dem ersten Lauf, keine Änderungen an Rohquellen, Ereignissen oder Lernfortschritt.

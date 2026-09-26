@@ -70,6 +70,16 @@ it("sichert die unabhängigen Fragehinweise und akzeptiert frühere Einstellunge
   state.settings.showGenre = false;
   state.settings.showDifficulty = true;
   expect(validateBackup(state).settings).toEqual(state.settings);
+  for (const value of ["after", "always", "hidden"] as const) {
+    state.settings.questionHistory = value;
+    expect(validateBackup(state).settings.questionHistory).toBe(value);
+  }
+  expect(() =>
+    validateBackup({
+      ...state,
+      settings: { ...state.settings, questionHistory: "invalid" },
+    }),
+  ).toThrow();
   state.settings = { spoilers: false };
   expect(validateBackup(state).settings).toEqual({ spoilers: false });
 });

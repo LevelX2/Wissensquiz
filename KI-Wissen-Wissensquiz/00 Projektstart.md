@@ -58,3 +58,5 @@ Spieleinstieg ohne große Werbefläche, Losspielen direkt unter der Moduswahl. G
 
 
 Fragenstatistik in Entdecken/Besser werden: konkrete Frage-ID mit beantwortet/richtig/falsch; aufklappbar Zeitabläufe, geratene Treffer und gemeinsame Variantenbilanz nach Wissensziel-ID. Rein aus bestehenden Ereignissen aller Modi/Rundenstatus abgeleitet, keine Speicherung oder Migration zusätzlicher Zähler.
+
+Die Fragenstatistik erscheint standardmäßig erst nach der Antwort. Unter Profil → Optionen lässt sie sich auf „Immer anzeigen“ umstellen oder ausblenden. Die Auswahl wird mit dem Spielstand gesichert; ältere Spielstände verwenden „Nach der Antwort“.

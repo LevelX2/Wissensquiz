@@ -92,6 +92,7 @@ const stateSchema = z.object({
     haptics: z.boolean().optional(),
     showGenre: z.boolean().optional(),
     showDifficulty: z.boolean().optional(),
+    questionHistory: z.enum(["after", "always", "hidden"]).optional(),
     learningPath: z.boolean().optional(),
     allDifficulties: z.boolean().optional(),
   }),

@@ -21,6 +21,7 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     const variant = questions.find((q) => q.metadata.variant_of)!;
     const q = questions.find((q) => q.id === variant.metadata.variant_of)!;
     const state = emptyState(questions);
+    delete state.settings.questionHistory; // Old saves use the new default too.
     let now = Date.parse("2026-09-25T12:00:00+02:00");
     const roundFor = (question: Question, mode: Mode) => {
       const r = startRound(
@@ -78,6 +79,22 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     const stats = page.locator(".question-history");
+    await expect(stats).toHaveCount(0);
+    const changeDisplay = async (value: string) => {
+      await page.getByRole("button", { name: "Pause & Startseite" }).click();
+      await page.getByRole("button", { name: "Profil", exact: true }).click();
+      await page.getByRole("button", { name: "Optionen" }).click();
+      const selection = page.getByLabel("Fragenstatistik im Lernmodus");
+      await selection.selectOption(value);
+      await expect(selection).toBeEnabled();
+      await page.reload();
+      await page.getByRole("button", { name: "Profil", exact: true }).click();
+      await page.getByRole("button", { name: "Optionen" }).click();
+      await expect(selection).toHaveValue(value);
+      await page.getByRole("button", { name: "Spielen", exact: true }).click();
+      await page.getByRole("button", { name: "Fortsetzen" }).click();
+    };
+    await changeDisplay("always");
     await expect(stats.locator("summary")).toContainText(
       "Diese Frage: 3× beantwortet",
     );
@@ -101,6 +118,8 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
       path: `test-results/fragenstatistik-${mode}-320.png`,
     });
     const wrong = q.answers.find((a) => a.id !== q.correctId)!;
+    await changeDisplay("after");
+    await expect(stats).toHaveCount(0);
     await page.locator(".answer").filter({ hasText: wrong.text }).click();
     await expect(stats.locator("summary")).toContainText("4× beantwortet");
     await expect(stats.locator("summary")).toContainText(
@@ -117,6 +136,10 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
         () => document.documentElement.scrollWidth <= innerWidth,
       ),
     ).toBe(true);
+    await changeDisplay("hidden");
+    await expect(stats).toHaveCount(0);
+    await changeDisplay("always");
+    await expect(stats.locator("summary")).toContainText("4× beantwortet");
     await page.getByRole("button", { name: "Runde abschließen" }).click();
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
     await page

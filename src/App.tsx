@@ -1397,9 +1397,11 @@ function QuestionScreen({
             );
           })()}
         </h1>
-        {round.mode !== "rekord" && (
-          <QuestionHistory key={q.id} events={state.events} question={q} />
-        )}
+        {round.mode !== "rekord" &&
+          state.settings.questionHistory !== "hidden" &&
+          (state.settings.questionHistory === "always" || !!event) && (
+            <QuestionHistory key={q.id} events={state.events} question={q} />
+          )}
         {event ? (
           <details className="answer-review">
             <summary>Alle Antworten ansehen</summary>
@@ -1770,8 +1772,29 @@ function Settings({
             </label>
           ))}
         </div>
+        <label>
+          Fragenstatistik im Lernmodus
+          <select
+            value={state.settings.questionHistory ?? "after"}
+            disabled={busy}
+            onChange={async (e) => {
+              const value = e.target.value as NonNullable<
+                State["settings"]["questionHistory"]
+              >;
+              await mutate((s) => {
+                s.settings.questionHistory = value;
+              });
+            }}
+          >
+            <option value="after">Nach der Antwort</option>
+            <option value="always">Immer anzeigen</option>
+            <option value="hidden">Ausblenden</option>
+          </select>
+        </label>
         <p className="muted tiny">
-          Deine Auswahl bleibt auf diesem Gerät gespeichert und ist in Deiner
+          Gilt für Entdecken und Besser werden. Nach der Antwort zählt Dein
+          aktuelles Ergebnis bereits mit. Deine Auswahl wird im Spielstand
+          gespeichert, bei angemeldeten Konten auch online, und ist in Deiner
           JSON-Sicherung enthalten.
         </p>
       </section>

@@ -126,3 +126,5 @@ Der kompakte Spieleinstieg bietet „Losspielen“ direkt unter der Moduswahl. D
 
 
 In Entdecken und Besser werden zeigt jede Frage ihre persönliche Antwortbilanz (beantwortet, richtig, falsch). Aufklappbar: Zeitabläufe, geratene Treffer und gemeinsame Statistik mit Wiederholungsvarianten. Bestehende Antworten zählen automatisch mit.
+
+Die Fragenstatistik erscheint standardmäßig erst nach der Antwort. Unter Profil → Optionen lässt sie sich auf „Immer anzeigen“ umstellen oder ausblenden. Die Auswahl wird mit dem Spielstand gesichert; ältere Spielstände verwenden „Nach der Antwort“.

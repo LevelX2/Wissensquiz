@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 95 Logik-/Persistenz-/Datenbanktests und 53 Browserprüfungen im vollständigen Lauf erfolgreich. Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 95 Logik-/Persistenz-/Datenbanktests und alle 53 Browserfälle erfolgreich (51 im vollständigen Lauf, zwei nach Testlocator-Korrektur gezielt nachgeprüft). Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -206,3 +206,9 @@ Entdecken und Besser werden zeigen die Anzahl beantworteter, richtiger und falsc
 95 Logik-/Datenbanktests, Produktions-Build und alle 53 Browserprüfungen im vollständigen Lauf erfolgreich (51 Chromium, zwei WebKit mit iPhone-Profil). Nach abschließender sprachlicher Korrektur Build und beide neuen Browserfälle erneut erfolgreich. Neue Fälle prüfen beide Lernmodi, konkrete Frage versus historische Variante, richtig/falsch/geraten/Zeitablauf, Aktualisierung nach Antwort, Neuladen ohne Doppelzählung, keine Anzeige in Rekordrunden, Axe, 320-Pixel-Breite und erreichbaren Abschlussbutton. Neue mobile Ansicht anhand gerendertem Screenshot visuell geprüft; bestehende mobilen Weiter-/Offline-/Kontosicherungsprüfungen weiterhin erfolgreich. Bestehende Importberichte nach Inhaltsvergleich zurückgesetzt.
 
 Rohquellen, Nutzerdaten und Lernregeln unverändert. Keine neue physische iPhone-Prüfung und keine Änderung der bereits bekannten Hosting-/Kontendienstgrenzen.
+
+## 26.09.2026 — Zeitpunkt der Fragenstatistik einstellbar
+
+Standard „Nach der Antwort“, alternativ „Immer anzeigen“ und „Ausblenden“ unter Profil → Optionen. Optionales settings.questionHistory mit Rückfall auf after, über bestehende Sicherungswege erhalten.
+
+95 Logik-/Datenbanktests und Produktions-Build erfolgreich. Alle 53 Browserfälle erfolgreich: 51 im vollständigen Lauf, beide erweiterten Statistikfälle nach Korrektur des Optionsbutton-Locators gezielt erneut bestanden. Die Fälle prüfen ältere Spielstände ohne Einstellung, Standard erst nach Antwort, alle drei Anzeigeoptionen, Speicherung über Neuladen, aktuelle Antwort inklusive und unveränderte Variantenbilanz; Rekordrunden bleiben ohne Anzeige. Kein Produktfehler aus dem ersten Lauf, keine Änderungen an Rohquellen, Ereignissen oder Lernfortschritt.

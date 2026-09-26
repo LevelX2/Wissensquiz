@@ -130,6 +130,7 @@ export interface State {
     haptics?: boolean;
     showGenre?: boolean;
     showDifficulty?: boolean;
+    questionHistory?: "after" | "always" | "hidden";
     learningPath?: boolean; // Legacy preference retained for old backups.
     allDifficulties?: boolean;
   };
@@ -152,6 +153,7 @@ export const emptyState = (questions: Question[] = []): State => ({
     haptics: false,
     showGenre: true,
     showDifficulty: true,
+    questionHistory: "after",
   },
   experience: 0,
   records: {},
