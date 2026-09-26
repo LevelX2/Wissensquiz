@@ -2,7 +2,7 @@
 
 ## Stand
 
-Die App-Anbindung und das Supabase-Projekt sind eingerichtet. Brevo SMTP und deutsche Bestätigungs-/Reset-Vorlagen sind gespeichert. `public/account-config.json` enthält jetzt `enabled: true` mit Project URL und öffentlichem Publishable Key; Veröffentlichung für den privaten Eigentümertest vorbereitet. Echte Mailzustellung, Linkverhalten und Kontenabnahme stehen noch aus. Es wurden noch keine echten Quiz-Konten angelegt und keine Quiz-E-Mails versendet. Die äußere Sites-Freigabe bleibt privat.
+Die App-Anbindung und das Supabase-Projekt sind eingerichtet. Brevo SMTP und deutsche Bestätigungs-/Reset-Vorlagen sind gespeichert. `public/account-config.json` enthält jetzt `enabled: true` mit Project URL und öffentlichem Publishable Key; private Veröffentlichung erfolgreich, echte Live-Registrierungsansicht geöffnet. Echte Mailzustellung, Linkverhalten und Kontenabnahme stehen noch aus. Es wurden noch keine echten Quiz-Konten angelegt und keine Quiz-E-Mails versendet. Die äußere Sites-Freigabe bleibt privat.
 
 ### Tatsächlich eingerichtet am 26.09.2026
 

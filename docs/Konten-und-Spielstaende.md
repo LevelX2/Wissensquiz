@@ -2,7 +2,7 @@
 
 ## Aktueller Stand
 
-Der Nutzer hat eine eigene Anmeldung unabhängig von ChatGPT mit Spielername, E-Mail, Passwort, E-Mail-Bestätigung und Passwort-Reset beauftragt. Am 26.09.2026 wurden Supabase Free in Frankfurt mit Datenbankregeln sowie Brevo SMTP mit verifiziertem Absender und deutschen Mailvorlagen eingerichtet. Die App-Konfiguration ist für den privaten Eigentümertest aktiviert, Veröffentlichung vorbereitet. Echte Mailzustellung, Bestätigungs-/Reset-Links und Zwei-Konten-Abnahme sind noch offen; keine echten Quiz-Konten oder Online-Spielstände angelegt. Brevo Free wird ohne eigene Domain verwendet, Tracking ist anonymisiert, aber nicht vollständig abschaltbar.
+Der Nutzer hat eine eigene Anmeldung unabhängig von ChatGPT mit Spielername, E-Mail, Passwort, E-Mail-Bestätigung und Passwort-Reset beauftragt. Am 26.09.2026 wurden Supabase Free in Frankfurt mit Datenbankregeln sowie Brevo SMTP mit verifiziertem Absender und deutschen Mailvorlagen eingerichtet. Die App-Konfiguration ist für den privaten Eigentümertest aktiviert und erfolgreich veröffentlicht; Live-Registrierungsformular geprüft. Echte Mailzustellung, Bestätigungs-/Reset-Links und Zwei-Konten-Abnahme sind noch offen; keine echten Quiz-Konten oder Online-Spielstände angelegt. Brevo Free wird ohne eigene Domain verwendet, Tracking ist anonymisiert, aber nicht vollständig abschaltbar.
 
 Die React-App enthält Registrierung, Anmeldung, erneute Bestätigung, Reset und Abmeldung. Die E-Mail-Adresse dient zur Anmeldung, der frei gewählte Name zur Anzeige. Supabase Auth verwaltet Passwörter und Sitzungen. Die SQL-Migration schützt private Spielstände mit serverseitiger Benutzerprüfung und Row Level Security. Ein unbestätigtes oder fremdes Konto erhält keinen Zugriff.
 
