@@ -1,0 +1,4145 @@
+{
+  "films": {
+    "Alien|1979": {
+      "source": "https://en.wikipedia.org/wiki/Alien_(film)"
+    },
+    "Aliens|1986": {
+      "source": "https://en.wikipedia.org/wiki/Aliens_(film)"
+    },
+    "The Matrix|1999": {
+      "source": "https://en.wikipedia.org/wiki/The_Matrix"
+    },
+    "The Matrix Reloaded|2003": {
+      "source": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+    },
+    "Blade Runner|1982": {
+      "source": "https://en.wikipedia.org/wiki/Blade_Runner"
+    },
+    "Blade Runner 2049|2017": {
+      "source": "https://en.wikipedia.org/wiki/Blade_Runner_2049"
+    },
+    "Interstellar|2014": {
+      "source": "https://en.wikipedia.org/wiki/Interstellar_(film)"
+    },
+    "Inception|2010": {
+      "source": "https://en.wikipedia.org/wiki/Inception"
+    },
+    "The Terminator|1984": {
+      "source": "https://en.wikipedia.org/wiki/The_Terminator"
+    },
+    "Terminator 2: Judgment Day|1991": {
+      "source": "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day"
+    },
+    "Back to the Future|1985": {
+      "source": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+      "additionalSource": "https://www.backtothefuture.com/movies/credits-1985"
+    },
+    "Back to the Future Part II|1989": {
+      "source": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II"
+    },
+    "Back to the Future Part III|1990": {
+      "source": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III"
+    },
+    "Jurassic Park|1993": {
+      "source": "https://en.wikipedia.org/wiki/Jurassic_Park_(film)"
+    },
+    "Jurassic World|2015": {
+      "source": "https://en.wikipedia.org/wiki/Jurassic_World"
+    },
+    "Avatar|2009": {
+      "source": "https://en.wikipedia.org/wiki/Avatar_(2009_film)"
+    },
+    "E.T. the Extra-Terrestrial|1982": {
+      "source": "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial"
+    },
+    "The Martian|2015": {
+      "source": "https://en.wikipedia.org/wiki/The_Martian_(film)"
+    },
+    "Men in Black|1997": {
+      "source": "https://en.wikipedia.org/wiki/Men_in_Black_(1997_film)"
+    },
+    "Independence Day|1996": {
+      "source": "https://en.wikipedia.org/wiki/Independence_Day_(1996_film)"
+    },
+    "The Truman Show|1998": {
+      "source": "https://en.wikipedia.org/wiki/The_Truman_Show"
+    },
+    "12 Monkeys|1995": {
+      "source": "https://en.wikipedia.org/wiki/12_Monkeys"
+    },
+    "Nineteen Eighty-Four|1984": {
+      "source": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four_(1984_film)"
+    },
+    "The Fifth Element|1997": {
+      "source": "https://en.wikipedia.org/wiki/The_Fifth_Element"
+    },
+    "Gattaca|1997": {
+      "source": "https://en.wikipedia.org/wiki/Gattaca"
+    },
+    "Arrival|2016": {
+      "source": "https://en.wikipedia.org/wiki/Arrival_(film)"
+    },
+    "Contact|1997": {
+      "source": "https://en.wikipedia.org/wiki/Contact_(1997_American_film)"
+    },
+    "District 9|2009": {
+      "source": "https://en.wikipedia.org/wiki/District_9"
+    },
+    "Moon|2009": {
+      "source": "https://en.wikipedia.org/wiki/Moon_(2009_film)"
+    },
+    "Ex Machina|2014": {
+      "source": "https://en.wikipedia.org/wiki/Ex_Machina_(film)"
+    },
+    "Minority Report|2002": {
+      "source": "https://en.wikipedia.org/wiki/Minority_Report_(film)"
+    },
+    "Total Recall|1990": {
+      "source": "https://en.wikipedia.org/wiki/Total_Recall_(1990_film)"
+    },
+    "RoboCop|1987": {
+      "source": "https://en.wikipedia.org/wiki/RoboCop"
+    },
+    "Starship Troopers|1997": {
+      "source": "https://en.wikipedia.org/wiki/Starship_Troopers_(film)"
+    },
+    "Predator|1987": {
+      "source": "https://en.wikipedia.org/wiki/Predator_(film)"
+    },
+    "Dark City|1998": {
+      "source": "https://en.wikipedia.org/wiki/Dark_City_(1998_film)"
+    },
+    "WarGames|1983": {
+      "source": "https://en.wikipedia.org/wiki/WarGames"
+    },
+    "Stargate|1994": {
+      "source": "https://en.wikipedia.org/wiki/Stargate_(film)"
+    },
+    "Star Wars|1977": {
+      "source": "https://en.wikipedia.org/wiki/Star_Wars_(film)"
+    },
+    "The Empire Strikes Back|1980": {
+      "source": "https://en.wikipedia.org/wiki/The_Empire_Strikes_Back"
+    },
+    "Return of the Jedi|1983": {
+      "source": "https://en.wikipedia.org/wiki/Return_of_the_Jedi"
+    },
+    "Star Trek II: The Wrath of Khan|1982": {
+      "source": "https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan"
+    },
+    "Star Trek IV: The Voyage Home|1986": {
+      "source": "https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home"
+    },
+    "Star Trek: First Contact|1996": {
+      "source": "https://en.wikipedia.org/wiki/Star_Trek:_First_Contact"
+    },
+    "Snowpiercer|2013": {
+      "source": "https://en.wikipedia.org/wiki/Snowpiercer"
+    },
+    "Source Code|2011": {
+      "source": "https://en.wikipedia.org/wiki/Source_Code"
+    },
+    "Looper|2012": {
+      "source": "https://en.wikipedia.org/wiki/Looper_(film)"
+    },
+    "Edge of Tomorrow|2014": {
+      "source": "https://en.wikipedia.org/wiki/Edge_of_Tomorrow"
+    },
+    "Oblivion|2013": {
+      "source": "https://en.wikipedia.org/wiki/Oblivion_(2013_film)"
+    },
+    "Sunshine|2007": {
+      "source": "https://en.wikipedia.org/wiki/Sunshine_(2007_film)"
+    },
+    "Die Hard|1988": {
+      "source": "https://en.wikipedia.org/wiki/Die_Hard"
+    },
+    "Die Hard 2|1990": {
+      "source": "https://en.wikipedia.org/wiki/Die_Hard_2"
+    },
+    "Die Hard with a Vengeance|1995": {
+      "source": "https://en.wikipedia.org/wiki/Die_Hard_with_a_Vengeance"
+    },
+    "Lethal Weapon|1987": {
+      "source": "https://en.wikipedia.org/wiki/Lethal_Weapon"
+    },
+    "Lethal Weapon 2|1989": {
+      "source": "https://en.wikipedia.org/wiki/Lethal_Weapon_2"
+    },
+    "Speed|1994": {
+      "source": "https://en.wikipedia.org/wiki/Speed_(1994_film)"
+    },
+    "The Rock|1996": {
+      "source": "https://en.wikipedia.org/wiki/The_Rock_(film)"
+    },
+    "Con Air|1997": {
+      "source": "https://en.wikipedia.org/wiki/Con_Air"
+    },
+    "Face/Off|1997": {
+      "source": "https://en.wikipedia.org/wiki/Face%2FOff"
+    },
+    "Heat|1995": {
+      "source": "https://en.wikipedia.org/wiki/Heat_(1995_film)"
+    },
+    "The Fugitive|1993": {
+      "source": "https://en.wikipedia.org/wiki/The_Fugitive_(1993_film)"
+    },
+    "Air Force One|1997": {
+      "source": "https://en.wikipedia.org/wiki/Air_Force_One_(film)"
+    },
+    "True Lies|1994": {
+      "source": "https://en.wikipedia.org/wiki/True_Lies"
+    },
+    "Commando|1985": {
+      "source": "https://en.wikipedia.org/wiki/Commando_(1985_film)"
+    },
+    "First Blood|1982": {
+      "source": "https://en.wikipedia.org/wiki/First_Blood"
+    },
+    "Rambo: First Blood Part II|1985": {
+      "source": "https://en.wikipedia.org/wiki/Rambo:_First_Blood_Part_II"
+    },
+    "Goldfinger|1964": {
+      "source": "https://en.wikipedia.org/wiki/Goldfinger_(film)"
+    },
+    "GoldenEye|1995": {
+      "source": "https://en.wikipedia.org/wiki/GoldenEye"
+    },
+    "Casino Royale|2006": {
+      "source": "https://en.wikipedia.org/wiki/Casino_Royale_(2006_film)"
+    },
+    "Skyfall|2012": {
+      "source": "https://en.wikipedia.org/wiki/Skyfall"
+    },
+    "Mission: Impossible|1996": {
+      "source": "https://en.wikipedia.org/wiki/Mission:_Impossible_(film)"
+    },
+    "Mission: Impossible – Ghost Protocol|2011": {
+      "source": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Ghost_Protocol"
+    },
+    "The Bourne Identity|2002": {
+      "source": "https://en.wikipedia.org/wiki/The_Bourne_Identity_(2002_film)"
+    },
+    "Taken|2008": {
+      "source": "https://en.wikipedia.org/wiki/Taken_(film)"
+    },
+    "John Wick|2014": {
+      "source": "https://en.wikipedia.org/wiki/John_Wick_(film)"
+    },
+    "Halloween|1978": {
+      "source": "https://en.wikipedia.org/wiki/Halloween_(1978_film)"
+    },
+    "Halloween II|1981": {
+      "source": "https://en.wikipedia.org/wiki/Halloween_II_(1981_film)"
+    },
+    "A Nightmare on Elm Street|1984": {
+      "source": "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street"
+    },
+    "A Nightmare on Elm Street 3: Dream Warriors|1987": {
+      "source": "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_3:_Dream_Warriors"
+    },
+    "Friday the 13th|1980": {
+      "source": "https://en.wikipedia.org/wiki/Friday_the_13th_(1980_film)"
+    },
+    "Friday the 13th Part 2|1981": {
+      "source": "https://en.wikipedia.org/wiki/Friday_the_13th_Part_2"
+    },
+    "Scream|1996": {
+      "source": "https://en.wikipedia.org/wiki/Scream_(1996_film)"
+    },
+    "Scream 2|1997": {
+      "source": "https://en.wikipedia.org/wiki/Scream_2"
+    },
+    "The Shining|1980": {
+      "source": "https://en.wikipedia.org/wiki/The_Shining_(film)"
+    },
+    "Carrie|1976": {
+      "source": "https://en.wikipedia.org/wiki/Carrie_(1976_film)"
+    },
+    "Misery|1990": {
+      "source": "https://en.wikipedia.org/wiki/Misery_(film)"
+    },
+    "Pet Sematary|1989": {
+      "source": "https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)"
+    },
+    "It|2017": {
+      "source": "https://en.wikipedia.org/wiki/It_(2017_film)"
+    },
+    "The Exorcist|1973": {
+      "source": "https://en.wikipedia.org/wiki/The_Exorcist_(film)"
+    },
+    "The Omen|1976": {
+      "source": "https://en.wikipedia.org/wiki/The_Omen"
+    },
+    "Poltergeist|1982": {
+      "source": "https://en.wikipedia.org/wiki/Poltergeist_(1982_film)"
+    },
+    "The Evil Dead|1981": {
+      "source": "https://en.wikipedia.org/wiki/The_Evil_Dead"
+    },
+    "Evil Dead II|1987": {
+      "source": "https://en.wikipedia.org/wiki/Evil_Dead_II"
+    },
+    "Psycho|1960": {
+      "source": "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+    },
+    "The Birds|1963": {
+      "source": "https://en.wikipedia.org/wiki/The_Birds_(film)"
+    },
+    "The Texas Chain Saw Massacre|1974": {
+      "source": "https://en.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre"
+    },
+    "Ring|1998": {
+      "source": "https://en.wikipedia.org/wiki/Ring_(film)"
+    },
+    "The Conjuring|2013": {
+      "source": "https://en.wikipedia.org/wiki/The_Conjuring",
+      "additionalSource": "https://catalog.afi.com/Catalog/MovieDetails/69558"
+    },
+    "Saw|2004": {
+      "source": "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+    },
+    "Get Out|2017": {
+      "source": "https://en.wikipedia.org/wiki/Get_Out"
+    },
+    "The Lord of the Rings: The Fellowship of the Ring|2001": {
+      "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+    },
+    "The Lord of the Rings: The Two Towers|2002": {
+      "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers"
+    },
+    "The Lord of the Rings: The Return of the King|2003": {
+      "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King"
+    },
+    "The Hobbit: An Unexpected Journey|2012": {
+      "source": "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey"
+    },
+    "The Hobbit: The Desolation of Smaug|2013": {
+      "source": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug"
+    },
+    "The Hobbit: The Battle of the Five Armies|2014": {
+      "source": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies"
+    },
+    "Harry Potter and the Philosopher's Stone|2001": {
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)"
+    },
+    "Harry Potter and the Chamber of Secrets|2002": {
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)"
+    },
+    "Harry Potter and the Prisoner of Azkaban|2004": {
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)"
+    },
+    "Harry Potter and the Goblet of Fire|2005": {
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)"
+    },
+    "Harry Potter and the Order of the Phoenix|2007": {
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)"
+    },
+    "Harry Potter and the Half-Blood Prince|2009": {
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)"
+    },
+    "Harry Potter and the Deathly Hallows – Part 1|2010": {
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1"
+    },
+    "Harry Potter and the Deathly Hallows – Part 2|2011": {
+      "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2"
+    },
+    "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005": {
+      "source": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion%2C_the_Witch_and_the_Wardrobe"
+    },
+    "The Chronicles of Narnia: Prince Caspian|2008": {
+      "source": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian"
+    },
+    "The Chronicles of Narnia: The Voyage of the Dawn Treader|2010": {
+      "source": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Voyage_of_the_Dawn_Treader"
+    },
+    "The Princess Bride|1987": {
+      "source": "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)"
+    },
+    "The Dark Crystal|1982": {
+      "source": "https://en.wikipedia.org/wiki/The_Dark_Crystal"
+    },
+    "The NeverEnding Story|1984": {
+      "source": "https://en.wikipedia.org/wiki/The_NeverEnding_Story_(film)"
+    },
+    "Labyrinth|1986": {
+      "source": "https://en.wikipedia.org/wiki/Labyrinth_(1986_film)"
+    },
+    "Legend|1985": {
+      "source": "https://en.wikipedia.org/wiki/Legend_(1985_film)"
+    },
+    "Stardust|2007": {
+      "source": "https://en.wikipedia.org/wiki/Stardust_(2007_film)"
+    },
+    "El laberinto del fauno|2006": {
+      "source": "https://en.wikipedia.org/wiki/Pan%27s_Labyrinth"
+    },
+    "Edward Scissorhands|1990": {
+      "source": "https://en.wikipedia.org/wiki/Edward_Scissorhands"
+    }
+  },
+  "questions": {
+    "SF-L-001": {
+      "version": "csv-19c50ea6",
+      "film": "Alien|1979",
+      "content": "1797a0c9",
+      "text": "Kane wird von John Hurt gespielt."
+    },
+    "SF-L-001-V1": {
+      "version": "csv-a57db721",
+      "film": "Alien|1979",
+      "content": "97e68013",
+      "text": "Kane wird von John Hurt gespielt."
+    },
+    "SF-M-001": {
+      "version": "csv-e3707fc",
+      "film": "Alien|1979",
+      "content": "8ffbf964",
+      "text": "Ellen Ripley wird von Sigourney Weaver gespielt."
+    },
+    "SF-M-001-V1": {
+      "version": "csv-5bc611bf",
+      "film": "Alien|1979",
+      "content": "91664b87",
+      "text": "Ellen Ripley wird von Sigourney Weaver gespielt."
+    },
+    "SF-S-001": {
+      "version": "csv-a5d6ff49",
+      "film": "Alien|1979",
+      "content": "3a34c340",
+      "text": "Ellen Ripley wird von Sigourney Weaver gespielt. Ash wird von Ian Holm gespielt."
+    },
+    "SF-S-001-V1": {
+      "version": "csv-87a9dd8c",
+      "film": "Alien|1979",
+      "content": "e2fd3f10",
+      "text": "Ellen Ripley wird von Sigourney Weaver gespielt. Ash wird von Ian Holm gespielt."
+    },
+    "SF-M-002": {
+      "version": "csv-515f934b",
+      "film": "Aliens|1986",
+      "content": "c408d4b9",
+      "text": "Ellen Ripley wird von Sigourney Weaver gespielt. Rebecca „Newt“ Jorden wird von Carrie Henn gespielt."
+    },
+    "SF-M-002-V1": {
+      "version": "csv-f3ab893",
+      "film": "Aliens|1986",
+      "content": "842b55a9",
+      "text": "Ellen Ripley wird von Sigourney Weaver gespielt. Rebecca „Newt“ Jorden wird von Carrie Henn gespielt."
+    },
+    "SF-S-002": {
+      "version": "csv-5fadacd1",
+      "film": "Aliens|1986",
+      "content": "1cbd7378",
+      "text": "Rebecca „Newt“ Jorden wird von Carrie Henn gespielt."
+    },
+    "SF-S-002-V1": {
+      "version": "csv-fe5ac84",
+      "film": "Aliens|1986",
+      "content": "484c8cba",
+      "text": "Rebecca „Newt“ Jorden wird von Carrie Henn gespielt."
+    },
+    "SF-L-003": {
+      "version": "csv-8acee946",
+      "film": "The Matrix|1999",
+      "content": "dcb3c508",
+      "text": "Morpheus wird von Laurence Fishburne gespielt."
+    },
+    "SF-L-003-V1": {
+      "version": "csv-4fe88f8",
+      "film": "The Matrix|1999",
+      "content": "55fd0c72",
+      "text": "Morpheus wird von Laurence Fishburne gespielt."
+    },
+    "SF-M-003": {
+      "version": "csv-929aa552",
+      "film": "The Matrix|1999",
+      "content": "cb71e10b",
+      "text": "Neo wird von Keanu Reeves gespielt. Morpheus wird von Laurence Fishburne gespielt. Agent Smith wird von Hugo Weaving gespielt."
+    },
+    "SF-M-003-V1": {
+      "version": "csv-f7502b09",
+      "film": "The Matrix|1999",
+      "content": "3be3d86d",
+      "text": "Neo wird von Keanu Reeves gespielt. Morpheus wird von Laurence Fishburne gespielt. Agent Smith wird von Hugo Weaving gespielt."
+    },
+    "SF-S-003": {
+      "version": "csv-1d94cfd9",
+      "film": "The Matrix|1999",
+      "content": "492389f5",
+      "text": "Neo wird von Keanu Reeves gespielt. Agent Smith wird von Hugo Weaving gespielt. Cypher wird von Joe Pantoliano gespielt."
+    },
+    "SF-S-003-V1": {
+      "version": "csv-89ba8ab0",
+      "film": "The Matrix|1999",
+      "content": "ac60b854",
+      "text": "Neo wird von Keanu Reeves gespielt. Agent Smith wird von Hugo Weaving gespielt. Cypher wird von Joe Pantoliano gespielt."
+    },
+    "SF-L-004": {
+      "version": "csv-45d89ad8",
+      "film": "The Matrix Reloaded|2003",
+      "content": "366f2b6f",
+      "text": "Neo wird von Keanu Reeves gespielt. Morpheus wird von Laurence Fishburne gespielt."
+    },
+    "SF-L-004-V1": {
+      "version": "csv-966f2c2f",
+      "film": "The Matrix Reloaded|2003",
+      "content": "c309849c",
+      "text": "Neo wird von Keanu Reeves gespielt. Morpheus wird von Laurence Fishburne gespielt."
+    },
+    "SF-M-004": {
+      "version": "csv-b5ccfde",
+      "film": "The Matrix Reloaded|2003",
+      "content": "9da6b357",
+      "text": "Neo wird von Keanu Reeves gespielt. Der Schlüsselmacher wird von Randall Duk Kim gespielt. Der Architekt wird von Helmut Bakaitis gespielt."
+    },
+    "SF-M-004-V1": {
+      "version": "csv-7fa9aeb6",
+      "film": "The Matrix Reloaded|2003",
+      "content": "e799a254",
+      "text": "Neo wird von Keanu Reeves gespielt. Der Schlüsselmacher wird von Randall Duk Kim gespielt."
+    },
+    "SF-S-004": {
+      "version": "csv-6cac5a67",
+      "film": "The Matrix Reloaded|2003",
+      "content": "f2ef168c",
+      "text": "Neo wird von Keanu Reeves gespielt. Der Architekt wird von Helmut Bakaitis gespielt."
+    },
+    "SF-S-004-V1": {
+      "version": "csv-23dabc7b",
+      "film": "The Matrix Reloaded|2003",
+      "content": "8263e131",
+      "text": "Neo wird von Keanu Reeves gespielt. Der Architekt wird von Helmut Bakaitis gespielt."
+    },
+    "SF-M-005": {
+      "version": "csv-94da7812",
+      "film": "Blade Runner|1982",
+      "content": "133ef2b8",
+      "text": "Rick Deckard wird von Harrison Ford gespielt. Eldon Tyrell wird von Joe Turkel gespielt."
+    },
+    "SF-M-005-V1": {
+      "version": "csv-f2905b11",
+      "film": "Blade Runner|1982",
+      "content": "cc0aa8e",
+      "text": "Rick Deckard wird von Harrison Ford gespielt. Eldon Tyrell wird von Joe Turkel gespielt."
+    },
+    "SF-M-006": {
+      "version": "csv-33490d89",
+      "film": "Blade Runner 2049|2017",
+      "content": "74a8909",
+      "text": "K wird von Ryan Gosling gespielt."
+    },
+    "SF-M-006-V1": {
+      "version": "csv-f3aa0220",
+      "film": "Blade Runner 2049|2017",
+      "content": "9a8584ee",
+      "text": "K wird von Ryan Gosling gespielt."
+    },
+    "SF-S-006": {
+      "version": "csv-32090e16",
+      "film": "Blade Runner 2049|2017",
+      "content": "2273d8e6",
+      "text": "K wird von Ryan Gosling gespielt. Rick Deckard wird von Harrison Ford gespielt. Dr. Ana Stelline wird von Carla Juri gespielt."
+    },
+    "SF-S-006-V1": {
+      "version": "csv-7c6d7278",
+      "film": "Blade Runner 2049|2017",
+      "content": "7697c9ea",
+      "text": "K wird von Ryan Gosling gespielt. Dr. Ana Stelline wird von Carla Juri gespielt."
+    },
+    "SF-M-007": {
+      "version": "csv-3ed9d435",
+      "film": "Interstellar|2014",
+      "content": "5b485494",
+      "text": "Cooper wird von Matthew McConaughey gespielt."
+    },
+    "SF-M-007-V1": {
+      "version": "csv-adfdaed6",
+      "film": "Interstellar|2014",
+      "content": "21750935",
+      "text": "Cooper wird von Matthew McConaughey gespielt."
+    },
+    "SF-S-007": {
+      "version": "csv-f23ab734",
+      "film": "Interstellar|2014",
+      "content": "819e1d0e",
+      "text": "Cooper wird von Matthew McConaughey gespielt. Murph wird als Erwachsene von Jessica Chastain gespielt; als Kind ist Mackenzie Foy zu sehen. Bill Irwin übernimmt das Puppenspiel und die Originalstimme von TARS."
+    },
+    "SF-S-007-V1": {
+      "version": "csv-c667776d",
+      "film": "Interstellar|2014",
+      "content": "85f2f4a8",
+      "text": "Cooper wird von Matthew McConaughey gespielt. Murph wird als Erwachsene von Jessica Chastain gespielt; als Kind ist Mackenzie Foy zu sehen. Bill Irwin übernimmt das Puppenspiel und die Originalstimme von TARS."
+    },
+    "SF-M-008": {
+      "version": "csv-c5cb2dbd",
+      "film": "Inception|2010",
+      "content": "784cbd71",
+      "text": "Dom Cobb wird von Leonardo DiCaprio gespielt. Ariadne wird von Elliot Page gespielt. Yusuf wird von Dileep Rao gespielt. Robert Fischer wird von Cillian Murphy gespielt."
+    },
+    "SF-M-008-V1": {
+      "version": "csv-2a34fa34",
+      "film": "Inception|2010",
+      "content": "7c1c80e7",
+      "text": "Dom Cobb wird von Leonardo DiCaprio gespielt. Ariadne wird von Elliot Page gespielt. Yusuf wird von Dileep Rao gespielt. Robert Fischer wird von Cillian Murphy gespielt."
+    },
+    "SF-S-008": {
+      "version": "csv-14b996a3",
+      "film": "Inception|2010",
+      "content": "789235dc",
+      "text": "Dom Cobb wird von Leonardo DiCaprio gespielt."
+    },
+    "SF-S-008-V1": {
+      "version": "csv-23759cdf",
+      "film": "Inception|2010",
+      "content": "b1498bfd",
+      "text": "Dom Cobb wird von Leonardo DiCaprio gespielt."
+    },
+    "SF-L-009": {
+      "version": "csv-931c12f3",
+      "film": "The Terminator|1984",
+      "content": "cf9b294f",
+      "text": "Sarah Connor wird von Linda Hamilton gespielt."
+    },
+    "SF-L-009-V1": {
+      "version": "csv-dfae5fd5",
+      "film": "The Terminator|1984",
+      "content": "124cfa14",
+      "text": "Sarah Connor wird von Linda Hamilton gespielt."
+    },
+    "SF-M-009": {
+      "version": "csv-6cd6bd0c",
+      "film": "The Terminator|1984",
+      "content": "aed57f2b",
+      "text": "Der Terminator wird von Arnold Schwarzenegger gespielt. Kyle Reese wird von Michael Biehn gespielt. Sarah Connor wird von Linda Hamilton gespielt."
+    },
+    "SF-M-009-V1": {
+      "version": "csv-fa25fcd9",
+      "film": "The Terminator|1984",
+      "content": "5bfb53c7",
+      "text": "Der Terminator wird von Arnold Schwarzenegger gespielt. Kyle Reese wird von Michael Biehn gespielt. Sarah Connor wird von Linda Hamilton gespielt."
+    },
+    "SF-S-009": {
+      "version": "csv-8f620a43",
+      "film": "The Terminator|1984",
+      "content": "b55d8628",
+      "text": "Der Terminator wird von Arnold Schwarzenegger gespielt. Kyle Reese wird von Michael Biehn gespielt."
+    },
+    "SF-S-009-V1": {
+      "version": "csv-68d91b1a",
+      "film": "The Terminator|1984",
+      "content": "434e0744",
+      "text": "Der Terminator wird von Arnold Schwarzenegger gespielt. Kyle Reese wird von Michael Biehn gespielt."
+    },
+    "SF-L-010": {
+      "version": "csv-c53b3d86",
+      "film": "Terminator 2: Judgment Day|1991",
+      "content": "c329c03b",
+      "text": "Arnold Schwarzenegger spielt den beschützenden T-800."
+    },
+    "SF-L-010-V1": {
+      "version": "csv-b370b005",
+      "film": "Terminator 2: Judgment Day|1991",
+      "content": "2fbdd30f",
+      "text": "Arnold Schwarzenegger spielt den beschützenden T-800."
+    },
+    "SF-M-010": {
+      "version": "csv-b9030e47",
+      "film": "Terminator 2: Judgment Day|1991",
+      "content": "3d20f0a0",
+      "text": "Arnold Schwarzenegger spielt den beschützenden T-800. Sarah Connor wird von Linda Hamilton gespielt. John Connor wird von Edward Furlong gespielt. Der T-1000 wird von Robert Patrick gespielt."
+    },
+    "SF-M-010-V1": {
+      "version": "csv-e2143948",
+      "film": "Terminator 2: Judgment Day|1991",
+      "content": "63cdc2f6",
+      "text": "Arnold Schwarzenegger spielt den beschützenden T-800. Sarah Connor wird von Linda Hamilton gespielt. John Connor wird von Edward Furlong gespielt. Der T-1000 wird von Robert Patrick gespielt."
+    },
+    "SF-S-010": {
+      "version": "csv-214b646d",
+      "film": "Terminator 2: Judgment Day|1991",
+      "content": "8f73305d",
+      "text": "Arnold Schwarzenegger spielt den beschützenden T-800. John Connor wird von Edward Furlong gespielt. Der T-1000 wird von Robert Patrick gespielt."
+    },
+    "SF-S-010-V1": {
+      "version": "csv-32aec25e",
+      "film": "Terminator 2: Judgment Day|1991",
+      "content": "834441ee",
+      "text": "Arnold Schwarzenegger spielt den beschützenden T-800. John Connor wird von Edward Furlong gespielt. Der T-1000 wird von Robert Patrick gespielt."
+    },
+    "SF-M-011": {
+      "version": "csv-1401193b",
+      "film": "Back to the Future|1985",
+      "content": "14985453",
+      "text": "Marty McFly wird von Michael J. Fox gespielt. George McFly wird von Crispin Glover gespielt. Lorraine Baines wird von Lea Thompson gespielt."
+    },
+    "SF-S-011": {
+      "version": "csv-74b321ef",
+      "film": "Back to the Future|1985",
+      "content": "9efde783",
+      "text": "Marty McFly wird von Michael J. Fox gespielt. Doc Brown wird von Christopher Lloyd gespielt. Old Man Peabody wird von Will Hare gespielt."
+    },
+    "SF-L-012": {
+      "version": "csv-30e144d7",
+      "film": "Back to the Future Part II|1989",
+      "content": "cf435d04",
+      "text": "Marty McFly wird von Michael J. Fox gespielt."
+    },
+    "SF-M-012": {
+      "version": "csv-f7640514",
+      "film": "Back to the Future Part II|1989",
+      "content": "80aec92b",
+      "text": "Marty McFly wird von Michael J. Fox gespielt. Doc Brown wird von Christopher Lloyd gespielt. Biff Tannen wird von Thomas F. Wilson gespielt."
+    },
+    "SF-S-012": {
+      "version": "csv-f1ee35f",
+      "film": "Back to the Future Part II|1989",
+      "content": "9b3b89b6",
+      "text": "Marty McFly wird von Michael J. Fox gespielt. Doc Brown wird von Christopher Lloyd gespielt. Biff Tannen wird von Thomas F. Wilson gespielt."
+    },
+    "SF-L-013": {
+      "version": "csv-a42b6ab5",
+      "film": "Back to the Future Part III|1990",
+      "content": "8022d458",
+      "text": "Marty McFly wird von Michael J. Fox gespielt. Doc Brown wird von Christopher Lloyd gespielt."
+    },
+    "SF-M-013": {
+      "version": "csv-869bf0f",
+      "film": "Back to the Future Part III|1990",
+      "content": "cea071c7",
+      "text": "Doc Brown wird von Christopher Lloyd gespielt."
+    },
+    "SF-S-013": {
+      "version": "csv-885ef8e4",
+      "film": "Back to the Future Part III|1990",
+      "content": "1593937e",
+      "text": "Marty McFly wird von Michael J. Fox gespielt. Doc Brown wird von Christopher Lloyd gespielt."
+    },
+    "SF-L-014": {
+      "version": "csv-85b77118",
+      "film": "Jurassic Park|1993",
+      "content": "53c1872a",
+      "text": "John Hammond wird von Richard Attenborough gespielt."
+    },
+    "SF-M-014": {
+      "version": "csv-d2af7105",
+      "film": "Jurassic Park|1993",
+      "content": "24b520ad",
+      "text": "Dennis Nedry wird von Wayne Knight gespielt."
+    },
+    "SF-S-014": {
+      "version": "csv-1fbc49db",
+      "film": "Jurassic Park|1993",
+      "content": "c6f9e6ab",
+      "text": "John Hammond wird von Richard Attenborough gespielt."
+    },
+    "SF-S-015": {
+      "version": "csv-a91d7f7a",
+      "film": "Jurassic World|2015",
+      "content": "de3527ea",
+      "text": "Dr. Henry Wu wird von BD Wong gespielt."
+    },
+    "SF-L-016": {
+      "version": "csv-2987dc97",
+      "film": "Avatar|2009",
+      "content": "823caa07",
+      "text": "Jake Sully wird von Sam Worthington gespielt. Neytiri wird von Zoe Saldaña gespielt."
+    },
+    "SF-M-016": {
+      "version": "csv-260d7d45",
+      "film": "Avatar|2009",
+      "content": "b8afe472",
+      "text": "Jake Sully wird von Sam Worthington gespielt. Neytiri wird von Zoe Saldaña gespielt."
+    },
+    "SF-S-016": {
+      "version": "csv-cada91e9",
+      "film": "Avatar|2009",
+      "content": "2a3e6865",
+      "text": "Jake Sully wird von Sam Worthington gespielt."
+    },
+    "SF-L-017": {
+      "version": "csv-c229cccf",
+      "film": "E.T. the Extra-Terrestrial|1982",
+      "content": "8a7b4461",
+      "text": "Elliott wird von Henry Thomas gespielt. Pat Welsh leiht E.T. in der englischen Originalfassung seine charakteristische Stimme; die Figur wird mit Puppen und Kostümen dargestellt."
+    },
+    "SF-M-017": {
+      "version": "csv-5dda7743",
+      "film": "E.T. the Extra-Terrestrial|1982",
+      "content": "fcaa4e79",
+      "text": "Elliott wird von Henry Thomas gespielt. Pat Welsh leiht E.T. in der englischen Originalfassung seine charakteristische Stimme; die Figur wird mit Puppen und Kostümen dargestellt."
+    },
+    "SF-S-017": {
+      "version": "csv-21bf50d9",
+      "film": "E.T. the Extra-Terrestrial|1982",
+      "content": "dac4f03f",
+      "text": "Elliott wird von Henry Thomas gespielt. Pat Welsh leiht E.T. in der englischen Originalfassung seine charakteristische Stimme; die Figur wird mit Puppen und Kostümen dargestellt."
+    },
+    "SF-M-018": {
+      "version": "csv-1923afcd",
+      "film": "The Martian|2015",
+      "content": "6482a46f",
+      "text": "Mark Watney wird von Matt Damon gespielt."
+    },
+    "SF-M-019": {
+      "version": "csv-7b0a5a0e",
+      "film": "Men in Black|1997",
+      "content": "bc9ac18a",
+      "text": "Agent J wird von Will Smith gespielt. Agent K wird von Tommy Lee Jones gespielt. Tim Blaney spricht Frank, den als Mops auftretenden Außerirdischen, in der englischen Originalfassung."
+    },
+    "SF-S-019": {
+      "version": "csv-61c9e430",
+      "film": "Men in Black|1997",
+      "content": "c026bb02",
+      "text": "Rosenberg wird von Mike Nussbaum gespielt."
+    },
+    "SF-L-020": {
+      "version": "csv-574e223c",
+      "film": "Independence Day|1996",
+      "content": "27b5641",
+      "text": "David Levinson wird von Jeff Goldblum gespielt. Präsident Thomas Whitmore wird von Bill Pullman gespielt. Steven Hiller wird von Will Smith gespielt."
+    },
+    "SF-M-020": {
+      "version": "csv-da626f50",
+      "film": "Independence Day|1996",
+      "content": "2fbf3c54",
+      "text": "Steven Hiller wird von Will Smith gespielt. David Levinson wird von Jeff Goldblum gespielt."
+    },
+    "SF-S-020": {
+      "version": "csv-44de25a6",
+      "film": "Independence Day|1996",
+      "content": "3d830e80",
+      "text": "Präsident Thomas Whitmore wird von Bill Pullman gespielt."
+    },
+    "SF-M-021": {
+      "version": "csv-d6836505",
+      "film": "The Truman Show|1998",
+      "content": "192dc180",
+      "text": "Truman Burbank wird von Jim Carrey gespielt."
+    },
+    "SF-S-021": {
+      "version": "csv-fa5f7cea",
+      "film": "The Truman Show|1998",
+      "content": "7027d943",
+      "text": "Truman Burbank wird von Jim Carrey gespielt. Trumans Vater wird von Brian Delate gespielt."
+    },
+    "SF-L-022": {
+      "version": "csv-3e38e8d0",
+      "film": "12 Monkeys|1995",
+      "content": "39128fb8",
+      "text": "James Cole wird von Bruce Willis gespielt."
+    },
+    "SF-M-022": {
+      "version": "csv-26904530",
+      "film": "12 Monkeys|1995",
+      "content": "c2a0a972",
+      "text": "James Cole wird von Bruce Willis gespielt. Den jungen James Cole in der Flughafenszene spielt Joseph Melito."
+    },
+    "SF-S-022": {
+      "version": "csv-99ba521f",
+      "film": "12 Monkeys|1995",
+      "content": "645320d2",
+      "text": "James Cole wird von Bruce Willis gespielt. Jeffrey Goines wird von Brad Pitt gespielt. Dr. Peters wird von David Morse gespielt."
+    },
+    "SF-L-023": {
+      "version": "csv-881df0ea",
+      "film": "Nineteen Eighty-Four|1984",
+      "content": "a1f239f8",
+      "text": "Winston Smith wird von John Hurt gespielt. Bob Flag ist auf den Bildnissen des Großen Bruders zu sehen."
+    },
+    "SF-M-023": {
+      "version": "csv-86de4dd7",
+      "film": "Nineteen Eighty-Four|1984",
+      "content": "7f3ca69a",
+      "text": "Winston Smith wird von John Hurt gespielt. O’Brien wird von Richard Burton gespielt."
+    },
+    "SF-S-023": {
+      "version": "csv-c22a812a",
+      "film": "Nineteen Eighty-Four|1984",
+      "content": "16b82b5e",
+      "text": "Winston Smith wird von John Hurt gespielt. Julia wird von Suzanna Hamilton gespielt. Mr. Charrington wird von Cyril Cusack gespielt."
+    },
+    "SF-L-024": {
+      "version": "csv-94daac3a",
+      "film": "The Fifth Element|1997",
+      "content": "b5947617",
+      "text": "Leeloo wird von Milla Jovovich gespielt."
+    },
+    "SF-M-024": {
+      "version": "csv-2c7885ea",
+      "film": "The Fifth Element|1997",
+      "content": "44f426c1",
+      "text": "Korben Dallas wird von Bruce Willis gespielt."
+    },
+    "SF-S-024": {
+      "version": "csv-aff08718",
+      "film": "The Fifth Element|1997",
+      "content": "985b70a9",
+      "text": "Korben Dallas wird von Bruce Willis gespielt. Maïwenn verkörpert die Diva Plavalaguna; ihren Gesang in der Originalfassung übernimmt Inva Mula."
+    },
+    "SF-M-025": {
+      "version": "csv-4b15f7ea",
+      "film": "Gattaca|1997",
+      "content": "2c6f1c53",
+      "text": "Vincent Freeman wird von Ethan Hawke gespielt. Jerome Eugene Morrow wird von Jude Law gespielt."
+    },
+    "SF-S-025": {
+      "version": "csv-93bfd901",
+      "film": "Gattaca|1997",
+      "content": "87098df8",
+      "text": "Vincent Freeman wird von Ethan Hawke gespielt."
+    },
+    "SF-M-026": {
+      "version": "csv-b37916f",
+      "film": "Arrival|2016",
+      "content": "2914b953",
+      "text": "Louise Banks wird von Amy Adams gespielt."
+    },
+    "SF-S-026": {
+      "version": "csv-bd3bc9ef",
+      "film": "Arrival|2016",
+      "content": "fc5e3478",
+      "text": "Louise Banks wird von Amy Adams gespielt."
+    },
+    "SF-M-027": {
+      "version": "csv-5ac02595",
+      "film": "Contact|1997",
+      "content": "1e1aec09",
+      "text": "Ellie Arroway wird von Jodie Foster gespielt."
+    },
+    "SF-S-027": {
+      "version": "csv-16d25154",
+      "film": "Contact|1997",
+      "content": "504871cc",
+      "text": "Ellie Arroway wird von Jodie Foster gespielt."
+    },
+    "SF-M-028": {
+      "version": "csv-57ec1c1b",
+      "film": "District 9|2009",
+      "content": "1720ecc5",
+      "text": "Wikus van de Merwe wird von Sharlto Copley gespielt."
+    },
+    "SF-S-028": {
+      "version": "csv-baabcf34",
+      "film": "District 9|2009",
+      "content": "df5fda0f",
+      "text": "Wikus van de Merwe wird von Sharlto Copley gespielt. Jason Cope verkörpert Christopher Johnson mittels Motion Capture."
+    },
+    "SF-M-029": {
+      "version": "csv-6a70cec3",
+      "film": "Moon|2009",
+      "content": "439df642",
+      "text": "Sam Bell wird von Sam Rockwell gespielt."
+    },
+    "SF-S-029": {
+      "version": "csv-ddbfb668",
+      "film": "Moon|2009",
+      "content": "4d4a85a4",
+      "text": "Sam Bell wird von Sam Rockwell gespielt."
+    },
+    "SF-L-030": {
+      "version": "csv-6940bfc9",
+      "film": "Ex Machina|2014",
+      "content": "1e8bb2e5",
+      "text": "Caleb Smith wird von Domhnall Gleeson gespielt. Nathan Bateman wird von Oscar Isaac gespielt. Ava wird von Alicia Vikander gespielt."
+    },
+    "SF-M-030": {
+      "version": "csv-af4b8ba1",
+      "film": "Ex Machina|2014",
+      "content": "ae35fc49",
+      "text": "Caleb Smith wird von Domhnall Gleeson gespielt. Nathan Bateman wird von Oscar Isaac gespielt. Ava wird von Alicia Vikander gespielt."
+    },
+    "SF-S-030": {
+      "version": "csv-407fe757",
+      "film": "Ex Machina|2014",
+      "content": "9aabf006",
+      "text": "Caleb Smith wird von Domhnall Gleeson gespielt. Nathan Bateman wird von Oscar Isaac gespielt. Ava wird von Alicia Vikander gespielt."
+    },
+    "SF-M-031": {
+      "version": "csv-dabef769",
+      "film": "Minority Report|2002",
+      "content": "33e16ded",
+      "text": "John Anderton wird von Tom Cruise gespielt. Agatha wird von Samantha Morton gespielt."
+    },
+    "SF-S-031": {
+      "version": "csv-1953fb0a",
+      "film": "Minority Report|2002",
+      "content": "2f2f349a",
+      "text": "Lamar Burgess wird von Max von Sydow gespielt. Anne Lively wird von Jessica Harper gespielt."
+    },
+    "SF-M-032": {
+      "version": "csv-6307cece",
+      "film": "Total Recall|1990",
+      "content": "89c73331",
+      "text": "Douglas Quaid wird von Arnold Schwarzenegger gespielt."
+    },
+    "SF-S-032": {
+      "version": "csv-ccccd6f8",
+      "film": "Total Recall|1990",
+      "content": "affb36d2",
+      "text": "Douglas Quaid wird von Arnold Schwarzenegger gespielt. Vilos Cohaagen wird von Ronny Cox gespielt."
+    },
+    "SF-L-033": {
+      "version": "csv-4b2819be",
+      "film": "RoboCop|1987",
+      "content": "6c1e03ea",
+      "text": "Alex Murphy / RoboCop wird von Peter Weller gespielt."
+    },
+    "SF-S-033": {
+      "version": "csv-e932c916",
+      "film": "RoboCop|1987",
+      "content": "ea4a5e5f",
+      "text": "Alex Murphy / RoboCop wird von Peter Weller gespielt. Dick Jones wird von Ronny Cox gespielt. Der OCP-Chef wird von Dan O’Herlihy gespielt."
+    },
+    "SF-S-034": {
+      "version": "csv-2f2f5b98",
+      "film": "Starship Troopers|1997",
+      "content": "48606d79",
+      "text": "Johnny Rico wird von Casper Van Dien gespielt. Zim wird von Clancy Brown gespielt."
+    },
+    "SF-L-035": {
+      "version": "csv-e0574ba4",
+      "film": "Predator|1987",
+      "content": "28f7173f",
+      "text": "Kevin Peter Hall stellt den Predator im Kostüm dar."
+    },
+    "SF-M-035": {
+      "version": "csv-ad4bb61c",
+      "film": "Predator|1987",
+      "content": "3c1942f4",
+      "text": "Dutch wird von Arnold Schwarzenegger gespielt. Kevin Peter Hall stellt den Predator im Kostüm dar."
+    },
+    "SF-S-035": {
+      "version": "csv-c3d279f1",
+      "film": "Predator|1987",
+      "content": "30d5021a",
+      "text": "Dutch wird von Arnold Schwarzenegger gespielt. Anna wird von Elpidia Carrillo gespielt. Kevin Peter Hall stellt den Predator im Kostüm dar."
+    },
+    "SF-L-036": {
+      "version": "csv-9d60c0b2",
+      "film": "Dark City|1998",
+      "content": "384c5ae4",
+      "text": "John Murdoch wird von Rufus Sewell gespielt."
+    },
+    "SF-M-036": {
+      "version": "csv-6277a0dd",
+      "film": "Dark City|1998",
+      "content": "cd3f1be3",
+      "text": "John Murdoch wird von Rufus Sewell gespielt."
+    },
+    "SF-S-036": {
+      "version": "csv-7eb3970e",
+      "film": "Dark City|1998",
+      "content": "6389cca9",
+      "text": "John Murdoch wird von Rufus Sewell gespielt."
+    },
+    "SF-L-037": {
+      "version": "csv-3cfb447",
+      "film": "WarGames|1983",
+      "content": "5364e0a6",
+      "text": "David Lightman wird von Matthew Broderick gespielt."
+    },
+    "SF-M-037": {
+      "version": "csv-a659ce21",
+      "film": "WarGames|1983",
+      "content": "341b699a",
+      "text": "David Lightman wird von Matthew Broderick gespielt. Dr. Stephen Falken wird von John Wood gespielt. John Wood spielt Dr. Stephen Falken und spricht in der Originalfassung den Computer WOPR."
+    },
+    "SF-S-037": {
+      "version": "csv-da778b8c",
+      "film": "WarGames|1983",
+      "content": "a82af0c9",
+      "text": "John Wood spielt Dr. Stephen Falken und spricht in der Originalfassung den Computer WOPR."
+    },
+    "SF-S-038": {
+      "version": "csv-f17a723b",
+      "film": "Stargate|1994",
+      "content": "61ce042",
+      "text": "Daniel Jackson wird von James Spader gespielt."
+    },
+    "SF-L-039": {
+      "version": "csv-ec09abda",
+      "film": "Star Wars|1977",
+      "content": "e6560834",
+      "text": "Luke Skywalker wird von Mark Hamill gespielt. Owen Lars wird von Phil Brown gespielt."
+    },
+    "SF-M-039": {
+      "version": "csv-d87e1b97",
+      "film": "Star Wars|1977",
+      "content": "fdd82e90",
+      "text": "Luke Skywalker wird von Mark Hamill gespielt. Leia Organa wird von Carrie Fisher gespielt. Obi-Wan Kenobi wird von Alec Guinness gespielt. C-3PO wird von Anthony Daniels gespielt. Kenny Baker stellt R2-D2 in den Szenen mit besetztem Droidenkostüm dar; daneben wurden ferngesteuerte Modelle eingesetzt."
+    },
+    "SF-S-039": {
+      "version": "csv-f357abf4",
+      "film": "Star Wars|1977",
+      "content": "cfd235ec",
+      "text": "Luke Skywalker wird von Mark Hamill gespielt. Leia Organa wird von Carrie Fisher gespielt. Kenny Baker stellt R2-D2 in den Szenen mit besetztem Droidenkostüm dar; daneben wurden ferngesteuerte Modelle eingesetzt. Owen Lars wird von Phil Brown gespielt."
+    },
+    "SF-L-040": {
+      "version": "csv-5da7e1cc",
+      "film": "The Empire Strikes Back|1980",
+      "content": "d7b00270",
+      "text": "Luke Skywalker wird von Mark Hamill gespielt. Frank Oz übernimmt Yodas Puppenspiel und seine englische Originalstimme."
+    },
+    "SF-M-040": {
+      "version": "csv-bea28c15",
+      "film": "The Empire Strikes Back|1980",
+      "content": "c5e4f16f",
+      "text": "Han Solo wird von Harrison Ford gespielt. Leia Organa wird von Carrie Fisher gespielt. Lando Calrissian wird von Billy Dee Williams gespielt. David Prowse stellt Darth Vader im Kostüm dar; James Earl Jones liefert die englische Originalstimme."
+    },
+    "SF-S-040": {
+      "version": "csv-7e475314",
+      "film": "The Empire Strikes Back|1980",
+      "content": "aff4b2e3",
+      "text": "Luke Skywalker wird von Mark Hamill gespielt. Han Solo wird von Harrison Ford gespielt. David Prowse stellt Darth Vader im Kostüm dar; James Earl Jones liefert die englische Originalstimme. Jeremy Bulloch stellt Boba Fett im Kostüm dar; Jason Wingreen lieferte die englische Stimme in der ursprünglichen Kinofassung von 1980."
+    },
+    "SF-M-041": {
+      "version": "csv-7a9a7293",
+      "film": "Return of the Jedi|1983",
+      "content": "a85f5836",
+      "text": "Han Solo wird von Harrison Ford gespielt. Leia Organa wird von Carrie Fisher gespielt. Chewbacca wird von Peter Mayhew gespielt. Jabba ist eine von mehreren Puppenspielern geführte Figur; Larry Ward liefert seine Originalstimme."
+    },
+    "SF-S-041": {
+      "version": "csv-edf61fda",
+      "film": "Return of the Jedi|1983",
+      "content": "f9bad779",
+      "text": "Luke Skywalker wird von Mark Hamill gespielt. Han Solo wird von Harrison Ford gespielt. David Prowse stellt Darth Vader im Kostüm dar; James Earl Jones liefert die englische Originalstimme. Unter der abgenommenen Maske ist Sebastian Shaw zu sehen."
+    },
+    "SF-L-042": {
+      "version": "csv-7ec5c78a",
+      "film": "Star Trek II: The Wrath of Khan|1982",
+      "content": "c4b88301",
+      "text": "James T. Kirk wird von William Shatner gespielt."
+    },
+    "SF-M-042": {
+      "version": "csv-7dee53a9",
+      "film": "Star Trek II: The Wrath of Khan|1982",
+      "content": "3bd4134a",
+      "text": "Khan wird von Ricardo Montalbán gespielt."
+    },
+    "SF-S-042": {
+      "version": "csv-3b13e688",
+      "film": "Star Trek II: The Wrath of Khan|1982",
+      "content": "d508529a",
+      "text": "James T. Kirk wird von William Shatner gespielt. Khan wird von Ricardo Montalbán gespielt. Spock wird von Leonard Nimoy gespielt."
+    },
+    "SF-L-043": {
+      "version": "csv-de840f1e",
+      "film": "Star Trek IV: The Voyage Home|1986",
+      "content": "ca447524",
+      "text": "James T. Kirk wird von William Shatner gespielt."
+    },
+    "SF-S-043": {
+      "version": "csv-96cb4c90",
+      "film": "Star Trek IV: The Voyage Home|1986",
+      "content": "d5f394ec",
+      "text": "Scotty wird von James Doohan gespielt. Dr. Leonard McCoy wird von DeForest Kelley gespielt."
+    },
+    "SF-L-044": {
+      "version": "csv-b71d74e2",
+      "film": "Star Trek: First Contact|1996",
+      "content": "ac52915a",
+      "text": "Jean-Luc Picard wird von Patrick Stewart gespielt."
+    },
+    "SF-S-044": {
+      "version": "csv-975d2dc",
+      "film": "Star Trek: First Contact|1996",
+      "content": "4de2e428",
+      "text": "Data wird von Brent Spiner gespielt. Die Borg-Königin wird von Alice Krige gespielt."
+    },
+    "SF-L-045": {
+      "version": "csv-27e35231",
+      "film": "Snowpiercer|2013",
+      "content": "3203734b",
+      "text": "Curtis Everett wird von Chris Evans gespielt."
+    },
+    "SF-M-046": {
+      "version": "csv-52825c35",
+      "film": "Source Code|2011",
+      "content": "99e156b",
+      "text": "Colter Stevens wird von Jake Gyllenhaal gespielt."
+    },
+    "SF-S-046": {
+      "version": "csv-669b1f66",
+      "film": "Source Code|2011",
+      "content": "948d617f",
+      "text": "Colter Stevens wird von Jake Gyllenhaal gespielt. Sean Fentress wird von Frédérick De Grandpré gespielt."
+    },
+    "SF-L-047": {
+      "version": "csv-d6a800cd",
+      "film": "Looper|2012",
+      "content": "f4773b69",
+      "text": "Joseph Gordon-Levitt spielt den jungen Joe, Bruce Willis sein älteres Ich."
+    },
+    "SF-M-047": {
+      "version": "csv-d37248d5",
+      "film": "Looper|2012",
+      "content": "a2522bc3",
+      "text": "Joseph Gordon-Levitt spielt den jungen Joe, Bruce Willis sein älteres Ich."
+    },
+    "SF-S-047": {
+      "version": "csv-bd6c4e71",
+      "film": "Looper|2012",
+      "content": "4e43f882",
+      "text": "Joseph Gordon-Levitt spielt den jungen Joe, Bruce Willis sein älteres Ich. Sara wird von Emily Blunt gespielt. Cid wird von Pierce Gagnon gespielt."
+    },
+    "SF-M-048": {
+      "version": "csv-9d75826c",
+      "film": "Edge of Tomorrow|2014",
+      "content": "1563711a",
+      "text": "William Cage wird von Tom Cruise gespielt. Rita Vrataski wird von Emily Blunt gespielt."
+    },
+    "SF-S-048": {
+      "version": "csv-dbb143c3",
+      "film": "Edge of Tomorrow|2014",
+      "content": "f54993e",
+      "text": "William Cage wird von Tom Cruise gespielt."
+    },
+    "SF-L-049": {
+      "version": "csv-36279ed6",
+      "film": "Oblivion|2013",
+      "content": "d256351c",
+      "text": "Victoria Olsen wird von Andrea Riseborough gespielt."
+    },
+    "SF-M-049": {
+      "version": "csv-2fbfb239",
+      "film": "Oblivion|2013",
+      "content": "4ccffca1",
+      "text": "Jack Harper wird von Tom Cruise gespielt. Malcolm Beech wird von Morgan Freeman gespielt."
+    },
+    "SF-S-049": {
+      "version": "csv-44d2e62e",
+      "film": "Oblivion|2013",
+      "content": "77e17fb2",
+      "text": "Jack Harper wird von Tom Cruise gespielt. Julia wird von Olga Kurylenko gespielt."
+    },
+    "SF-S-050": {
+      "version": "csv-c22c9e5a",
+      "film": "Sunshine|2007",
+      "content": "a251c4b3",
+      "text": "Pinbacker wird von Mark Strong gespielt."
+    },
+    "ACT-L-002": {
+      "version": "csv-1ad006e9",
+      "film": "Die Hard|1988",
+      "content": "ff3f3dcb",
+      "text": "John McClane wird von Bruce Willis gespielt."
+    },
+    "ACT-M-001": {
+      "version": "csv-14d565f7",
+      "film": "Die Hard|1988",
+      "content": "f734645b",
+      "text": "John McClane wird von Bruce Willis gespielt."
+    },
+    "ACT-S-001": {
+      "version": "csv-4484e789",
+      "film": "Die Hard|1988",
+      "content": "8a8e7d38",
+      "text": "Hans Gruber wird von Alan Rickman gespielt."
+    },
+    "ACT-S-002": {
+      "version": "csv-e7b38013",
+      "film": "Die Hard|1988",
+      "content": "5d373110",
+      "text": "John McClane wird von Bruce Willis gespielt. Holly Gennero wird von Bonnie Bedelia gespielt. Hans Gruber wird von Alan Rickman gespielt."
+    },
+    "ACT-L-002-V1": {
+      "version": "csv-4a71942a",
+      "film": "Die Hard|1988",
+      "content": "c4afa0f3",
+      "text": "John McClane wird von Bruce Willis gespielt. Hans Gruber wird von Alan Rickman gespielt."
+    },
+    "ACT-M-001-V1": {
+      "version": "csv-fab191dc",
+      "film": "Die Hard|1988",
+      "content": "6ca84b42",
+      "text": "John McClane wird von Bruce Willis gespielt."
+    },
+    "ACT-S-001-V1": {
+      "version": "csv-5c38d182",
+      "film": "Die Hard|1988",
+      "content": "55f9fc69",
+      "text": "Hans Gruber wird von Alan Rickman gespielt."
+    },
+    "ACT-S-002-V1": {
+      "version": "csv-90b748aa",
+      "film": "Die Hard|1988",
+      "content": "9632dc91",
+      "text": "John McClane wird von Bruce Willis gespielt. Holly Gennero wird von Bonnie Bedelia gespielt. Hans Gruber wird von Alan Rickman gespielt."
+    },
+    "ACT-L-003": {
+      "version": "csv-4ee6ad05",
+      "film": "Die Hard 2|1990",
+      "content": "c55c63db",
+      "text": "John McClane wird von Bruce Willis gespielt."
+    },
+    "ACT-L-004": {
+      "version": "csv-99988396",
+      "film": "Die Hard 2|1990",
+      "content": "456d7856",
+      "text": "John McClane wird von Bruce Willis gespielt. Holly McClane wird von Bonnie Bedelia gespielt."
+    },
+    "ACT-M-003": {
+      "version": "csv-70efe6bf",
+      "film": "Die Hard 2|1990",
+      "content": "14200005",
+      "text": "John McClane wird von Bruce Willis gespielt. General Esperanza wird von Franco Nero gespielt."
+    },
+    "ACT-M-004": {
+      "version": "csv-28709a9b",
+      "film": "Die Hard 2|1990",
+      "content": "9e39927d",
+      "text": "John McClane wird von Bruce Willis gespielt. Colonel Stuart wird von William Sadler gespielt. General Esperanza wird von Franco Nero gespielt."
+    },
+    "ACT-S-003": {
+      "version": "csv-569d612c",
+      "film": "Die Hard 2|1990",
+      "content": "c025c160",
+      "text": "John McClane wird von Bruce Willis gespielt. Colonel Stuart wird von William Sadler gespielt. Major Grant wird von John Amos gespielt."
+    },
+    "ACT-S-004": {
+      "version": "csv-d843605d",
+      "film": "Die Hard 2|1990",
+      "content": "137cb280",
+      "text": "John McClane wird von Bruce Willis gespielt."
+    },
+    "ACT-L-005": {
+      "version": "csv-b2e8cf2a",
+      "film": "Die Hard with a Vengeance|1995",
+      "content": "d496076f",
+      "text": "John McClane wird von Bruce Willis gespielt. Simon Gruber wird von Jeremy Irons gespielt."
+    },
+    "ACT-L-006": {
+      "version": "csv-30668a83",
+      "film": "Die Hard with a Vengeance|1995",
+      "content": "15ae9e71",
+      "text": "John McClane wird von Bruce Willis gespielt. Simon Gruber wird von Jeremy Irons gespielt."
+    },
+    "ACT-M-005": {
+      "version": "csv-8f304edf",
+      "film": "Die Hard with a Vengeance|1995",
+      "content": "6b46394",
+      "text": "John McClane wird von Bruce Willis gespielt. Simon Gruber wird von Jeremy Irons gespielt."
+    },
+    "ACT-M-006": {
+      "version": "csv-14d6c4e0",
+      "film": "Die Hard with a Vengeance|1995",
+      "content": "d361342b",
+      "text": "John McClane wird von Bruce Willis gespielt. Simon Gruber wird von Jeremy Irons gespielt. Zeus Carver wird von Samuel L. Jackson gespielt."
+    },
+    "ACT-S-005": {
+      "version": "csv-3def7a85",
+      "film": "Die Hard with a Vengeance|1995",
+      "content": "75b4c19e",
+      "text": "John McClane wird von Bruce Willis gespielt. Zeus Carver wird von Samuel L. Jackson gespielt."
+    },
+    "ACT-S-006": {
+      "version": "csv-c06aef13",
+      "film": "Die Hard with a Vengeance|1995",
+      "content": "a3ff4c34",
+      "text": "John McClane wird von Bruce Willis gespielt. Simon Gruber wird von Jeremy Irons gespielt."
+    },
+    "ACT-L-007": {
+      "version": "csv-da33f695",
+      "film": "Lethal Weapon|1987",
+      "content": "38f387f5",
+      "text": "Roger Murtaugh wird von Danny Glover gespielt."
+    },
+    "ACT-L-008": {
+      "version": "csv-54be5c77",
+      "film": "Lethal Weapon|1987",
+      "content": "7d1a2486",
+      "text": "Martin Riggs wird von Mel Gibson gespielt."
+    },
+    "ACT-M-007": {
+      "version": "csv-772261f4",
+      "film": "Lethal Weapon|1987",
+      "content": "e22f4869",
+      "text": "Martin Riggs wird von Mel Gibson gespielt. Roger Murtaugh wird von Danny Glover gespielt."
+    },
+    "ACT-M-008": {
+      "version": "csv-dd690dce",
+      "film": "Lethal Weapon|1987",
+      "content": "356c2f90",
+      "text": "Martin Riggs wird von Mel Gibson gespielt. Roger Murtaugh wird von Danny Glover gespielt."
+    },
+    "ACT-S-007": {
+      "version": "csv-69ca2edf",
+      "film": "Lethal Weapon|1987",
+      "content": "449161f8",
+      "text": "Martin Riggs wird von Mel Gibson gespielt. Dixie wird von Lycia Naff gespielt."
+    },
+    "ACT-S-008": {
+      "version": "csv-ac5b6cc4",
+      "film": "Lethal Weapon|1987",
+      "content": "2105dac9",
+      "text": "Martin Riggs wird von Mel Gibson gespielt. Roger Murtaugh wird von Danny Glover gespielt."
+    },
+    "ACT-L-009": {
+      "version": "csv-b8e0c5d6",
+      "film": "Lethal Weapon 2|1989",
+      "content": "7f33b51b",
+      "text": "Martin Riggs wird von Mel Gibson gespielt. Roger Murtaugh wird von Danny Glover gespielt."
+    },
+    "ACT-L-010": {
+      "version": "csv-e16c1f5e",
+      "film": "Lethal Weapon 2|1989",
+      "content": "354f9804",
+      "text": "Arjen Rudd wird von Joss Ackland gespielt."
+    },
+    "ACT-M-009": {
+      "version": "csv-5bed037",
+      "film": "Lethal Weapon 2|1989",
+      "content": "21db7d15",
+      "text": "Martin Riggs wird von Mel Gibson gespielt. Roger Murtaugh wird von Danny Glover gespielt."
+    },
+    "ACT-M-010": {
+      "version": "csv-e82b5470",
+      "film": "Lethal Weapon 2|1989",
+      "content": "29b06314",
+      "text": "Leo Getz wird von Joe Pesci gespielt."
+    },
+    "ACT-S-009": {
+      "version": "csv-80046a6e",
+      "film": "Lethal Weapon 2|1989",
+      "content": "45db15a7",
+      "text": "Martin Riggs wird von Mel Gibson gespielt. Pieter Vorstedt wird von Derrick O’Connor gespielt."
+    },
+    "ACT-S-010": {
+      "version": "csv-b00b385a",
+      "film": "Lethal Weapon 2|1989",
+      "content": "962d8d8f",
+      "text": "Martin Riggs wird von Mel Gibson gespielt."
+    },
+    "ACT-L-011": {
+      "version": "csv-ac76a32d",
+      "film": "Speed|1994",
+      "content": "cac333c0",
+      "text": "Jack Traven wird von Keanu Reeves gespielt."
+    },
+    "ACT-L-012": {
+      "version": "csv-cd26721d",
+      "film": "Speed|1994",
+      "content": "6b5a7333",
+      "text": "Jack Traven wird von Keanu Reeves gespielt."
+    },
+    "ACT-M-011": {
+      "version": "csv-225c6da4",
+      "film": "Speed|1994",
+      "content": "9aed357b",
+      "text": "Jack Traven wird von Keanu Reeves gespielt."
+    },
+    "ACT-M-012": {
+      "version": "csv-d30c2534",
+      "film": "Speed|1994",
+      "content": "17ff38e0",
+      "text": "Jack Traven wird von Keanu Reeves gespielt. Harry Temple wird von Jeff Daniels gespielt."
+    },
+    "ACT-S-011": {
+      "version": "csv-5f9c6fc9",
+      "film": "Speed|1994",
+      "content": "6f24ea2e",
+      "text": "Jack Traven wird von Keanu Reeves gespielt. Howard Payne wird von Dennis Hopper gespielt."
+    },
+    "ACT-S-012": {
+      "version": "csv-a5e482db",
+      "film": "Speed|1994",
+      "content": "85daf968",
+      "text": "Jack Traven wird von Keanu Reeves gespielt. Annie Porter wird von Sandra Bullock gespielt."
+    },
+    "ACT-L-011-V1": {
+      "version": "csv-923146bc",
+      "film": "Speed|1994",
+      "content": "424d5492",
+      "text": "Jack Traven wird von Keanu Reeves gespielt."
+    },
+    "ACT-L-012-V1": {
+      "version": "csv-5489dda3",
+      "film": "Speed|1994",
+      "content": "62fab4de",
+      "text": "Jack Traven wird von Keanu Reeves gespielt."
+    },
+    "ACT-M-011-V1": {
+      "version": "csv-376ad748",
+      "film": "Speed|1994",
+      "content": "3f7749f2",
+      "text": "Jack Traven wird von Keanu Reeves gespielt."
+    },
+    "ACT-M-012-V1": {
+      "version": "csv-adc42d84",
+      "film": "Speed|1994",
+      "content": "138bf1fa",
+      "text": "Jack Traven wird von Keanu Reeves gespielt. Howard Payne wird von Dennis Hopper gespielt. Harry Temple wird von Jeff Daniels gespielt."
+    },
+    "ACT-S-011-V1": {
+      "version": "csv-34e86532",
+      "film": "Speed|1994",
+      "content": "26125949",
+      "text": "Jack Traven wird von Keanu Reeves gespielt. Howard Payne wird von Dennis Hopper gespielt."
+    },
+    "ACT-S-012-V1": {
+      "version": "csv-77642003",
+      "film": "Speed|1994",
+      "content": "6e85130e",
+      "text": "Jack Traven wird von Keanu Reeves gespielt. Annie Porter wird von Sandra Bullock gespielt."
+    },
+    "ACT-L-013": {
+      "version": "csv-8ba8b0b4",
+      "film": "The Rock|1996",
+      "content": "66d88053",
+      "text": "General Francis Hummel wird von Ed Harris gespielt. John Mason wird von Sean Connery gespielt."
+    },
+    "ACT-L-014": {
+      "version": "csv-fa76f557",
+      "film": "The Rock|1996",
+      "content": "59e7fac",
+      "text": "John Mason wird von Sean Connery gespielt."
+    },
+    "ACT-M-014": {
+      "version": "csv-da90da4c",
+      "film": "The Rock|1996",
+      "content": "96839022",
+      "text": "General Francis Hummel wird von Ed Harris gespielt."
+    },
+    "ACT-S-013": {
+      "version": "csv-91e266ea",
+      "film": "The Rock|1996",
+      "content": "554b4a7c",
+      "text": "General Francis Hummel wird von Ed Harris gespielt."
+    },
+    "ACT-S-014": {
+      "version": "csv-2d958a71",
+      "film": "The Rock|1996",
+      "content": "77d15c9d",
+      "text": "John Mason wird von Sean Connery gespielt. Stanley Goodspeed wird von Nicolas Cage gespielt."
+    },
+    "ACT-L-015": {
+      "version": "csv-79c73d84",
+      "film": "Con Air|1997",
+      "content": "b505de37",
+      "text": "Cameron Poe wird von Nicolas Cage gespielt."
+    },
+    "ACT-L-016": {
+      "version": "csv-14cb5f4d",
+      "film": "Con Air|1997",
+      "content": "d4e6ca36",
+      "text": "Cameron Poe wird von Nicolas Cage gespielt."
+    },
+    "ACT-M-015": {
+      "version": "csv-308a9b08",
+      "film": "Con Air|1997",
+      "content": "d4b3d108",
+      "text": "Cameron Poe wird von Nicolas Cage gespielt."
+    },
+    "ACT-M-016": {
+      "version": "csv-47886d6d",
+      "film": "Con Air|1997",
+      "content": "9a7d2323",
+      "text": "Cameron Poe wird von Nicolas Cage gespielt."
+    },
+    "ACT-S-015": {
+      "version": "csv-5fa6bc53",
+      "film": "Con Air|1997",
+      "content": "be46eae2",
+      "text": "Cameron Poe wird von Nicolas Cage gespielt. Mike „Baby-O“ O’Dell wird von Mykelti Williamson gespielt."
+    },
+    "ACT-S-016": {
+      "version": "csv-ef275b0",
+      "film": "Con Air|1997",
+      "content": "725930b2",
+      "text": "Cameron Poe wird von Nicolas Cage gespielt. Vince Larkin wird von John Cusack gespielt. Pinball wird von Dave Chappelle gespielt."
+    },
+    "ACT-L-017": {
+      "version": "csv-1c089b64",
+      "film": "Face/Off|1997",
+      "content": "84aa43d5",
+      "text": "John Travolta spielt zunächst Sean Archer, Nicolas Cage Castor Troy. Nach dem Gesichtstausch verkörpern beide jeweils die andere Figur."
+    },
+    "ACT-L-018": {
+      "version": "csv-e8790163",
+      "film": "Face/Off|1997",
+      "content": "954bfa66",
+      "text": "John Travolta spielt zunächst Sean Archer, Nicolas Cage Castor Troy. Nach dem Gesichtstausch verkörpern beide jeweils die andere Figur."
+    },
+    "ACT-M-017": {
+      "version": "csv-9c8134e6",
+      "film": "Face/Off|1997",
+      "content": "b2beb5de",
+      "text": "John Travolta spielt zunächst Sean Archer, Nicolas Cage Castor Troy. Nach dem Gesichtstausch verkörpern beide jeweils die andere Figur. Pollux Troy wird von Alessandro Nivola gespielt."
+    },
+    "ACT-M-018": {
+      "version": "csv-56e3f547",
+      "film": "Face/Off|1997",
+      "content": "927dc064",
+      "text": "John Travolta spielt zunächst Sean Archer, Nicolas Cage Castor Troy. Nach dem Gesichtstausch verkörpern beide jeweils die andere Figur. Pollux Troy wird von Alessandro Nivola gespielt."
+    },
+    "ACT-S-017": {
+      "version": "csv-10c5da31",
+      "film": "Face/Off|1997",
+      "content": "87eca80d",
+      "text": "John Travolta spielt zunächst Sean Archer, Nicolas Cage Castor Troy. Nach dem Gesichtstausch verkörpern beide jeweils die andere Figur. Adam Hassler wird von David McCurley gespielt."
+    },
+    "ACT-S-018": {
+      "version": "csv-3df3c978",
+      "film": "Face/Off|1997",
+      "content": "1d9817c5",
+      "text": "John Travolta spielt zunächst Sean Archer, Nicolas Cage Castor Troy. Nach dem Gesichtstausch verkörpern beide jeweils die andere Figur. Eve Archer wird von Joan Allen gespielt."
+    },
+    "ACT-L-019": {
+      "version": "csv-371e13ed",
+      "film": "Heat|1995",
+      "content": "c0ce7b9c",
+      "text": "Vincent Hanna wird von Al Pacino gespielt."
+    },
+    "ACT-L-020": {
+      "version": "csv-43f20032",
+      "film": "Heat|1995",
+      "content": "aed584d6",
+      "text": "Neil McCauley wird von Robert De Niro gespielt. Vincent Hanna wird von Al Pacino gespielt."
+    },
+    "ACT-M-019": {
+      "version": "csv-5a8bc5ee",
+      "film": "Heat|1995",
+      "content": "abeea4cc",
+      "text": "Neil McCauley wird von Robert De Niro gespielt. Waingro wird von Kevin Gage gespielt."
+    },
+    "ACT-S-019": {
+      "version": "csv-4fb940df",
+      "film": "Heat|1995",
+      "content": "91250fc7",
+      "text": "Chris Shiherlis wird von Val Kilmer gespielt. Charlene Shiherlis wird von Ashley Judd gespielt."
+    },
+    "ACT-S-020": {
+      "version": "csv-f8fd4e66",
+      "film": "Heat|1995",
+      "content": "d71816cd",
+      "text": "Neil McCauley wird von Robert De Niro gespielt. Vincent Hanna wird von Al Pacino gespielt. Waingro wird von Kevin Gage gespielt."
+    },
+    "ACT-L-021": {
+      "version": "csv-89c941fa",
+      "film": "The Fugitive|1993",
+      "content": "8715c626",
+      "text": "Samuel Gerard wird von Tommy Lee Jones gespielt."
+    },
+    "ACT-L-022": {
+      "version": "csv-992ba068",
+      "film": "The Fugitive|1993",
+      "content": "f8d60fff",
+      "text": "Richard Kimble wird von Harrison Ford gespielt."
+    },
+    "ACT-M-021": {
+      "version": "csv-3822dfc5",
+      "film": "The Fugitive|1993",
+      "content": "d73a226d",
+      "text": "Richard Kimble wird von Harrison Ford gespielt. Samuel Gerard wird von Tommy Lee Jones gespielt."
+    },
+    "ACT-M-022": {
+      "version": "csv-4f996b7c",
+      "film": "The Fugitive|1993",
+      "content": "22614a69",
+      "text": "Richard Kimble wird von Harrison Ford gespielt. Frederick Sykes wird von Andreas Katsulas gespielt."
+    },
+    "ACT-S-021": {
+      "version": "csv-cb46f5d0",
+      "film": "The Fugitive|1993",
+      "content": "7674229",
+      "text": "Richard Kimble wird von Harrison Ford gespielt."
+    },
+    "ACT-S-022": {
+      "version": "csv-ef3a38e1",
+      "film": "The Fugitive|1993",
+      "content": "f7505040",
+      "text": "Richard Kimble wird von Harrison Ford gespielt. Frederick Sykes wird von Andreas Katsulas gespielt. Dr. Charles Nichols wird von Jeroen Krabbé gespielt."
+    },
+    "ACT-L-024": {
+      "version": "csv-742df179",
+      "film": "Air Force One|1997",
+      "content": "81bdcb54",
+      "text": "Präsident James Marshall wird von Harrison Ford gespielt."
+    },
+    "ACT-M-023": {
+      "version": "csv-300fd1f3",
+      "film": "Air Force One|1997",
+      "content": "15484613",
+      "text": "Ivan Korshunov wird von Gary Oldman gespielt. General Radek wird von Jürgen Prochnow gespielt."
+    },
+    "ACT-S-023": {
+      "version": "csv-4bbdee83",
+      "film": "Air Force One|1997",
+      "content": "e64774c1",
+      "text": "Präsident James Marshall wird von Harrison Ford gespielt."
+    },
+    "ACT-S-024": {
+      "version": "csv-daef0a0b",
+      "film": "Air Force One|1997",
+      "content": "acfcccf1",
+      "text": "Präsident James Marshall wird von Harrison Ford gespielt. Gibbs wird von Xander Berkeley gespielt."
+    },
+    "ACT-L-026": {
+      "version": "csv-566cf2a1",
+      "film": "True Lies|1994",
+      "content": "ce67cfaa",
+      "text": "Harry Tasker wird von Arnold Schwarzenegger gespielt. Helen Tasker wird von Jamie Lee Curtis gespielt."
+    },
+    "ACT-M-025": {
+      "version": "csv-f821e0eb",
+      "film": "True Lies|1994",
+      "content": "9cc1951e",
+      "text": "Helen Tasker wird von Jamie Lee Curtis gespielt."
+    },
+    "ACT-M-026": {
+      "version": "csv-d1f64c84",
+      "film": "True Lies|1994",
+      "content": "46030d95",
+      "text": "Harry Tasker wird von Arnold Schwarzenegger gespielt. Helen Tasker wird von Jamie Lee Curtis gespielt."
+    },
+    "ACT-S-025": {
+      "version": "csv-21cd2d20",
+      "film": "True Lies|1994",
+      "content": "1b988b4e",
+      "text": "Harry Tasker wird von Arnold Schwarzenegger gespielt. Juno Skinner wird von Tia Carrere gespielt."
+    },
+    "ACT-S-026": {
+      "version": "csv-7a9a1591",
+      "film": "True Lies|1994",
+      "content": "b23e58f0",
+      "text": "Harry Tasker wird von Arnold Schwarzenegger gespielt. Dana Tasker wird von Eliza Dushku gespielt."
+    },
+    "ACT-L-027": {
+      "version": "csv-ac55d39e",
+      "film": "Commando|1985",
+      "content": "36b58381",
+      "text": "John Matrix wird von Arnold Schwarzenegger gespielt."
+    },
+    "ACT-L-028": {
+      "version": "csv-31f2c657",
+      "film": "Commando|1985",
+      "content": "e005dfc5",
+      "text": "John Matrix wird von Arnold Schwarzenegger gespielt."
+    },
+    "ACT-M-027": {
+      "version": "csv-97b21259",
+      "film": "Commando|1985",
+      "content": "7f6818e5",
+      "text": "John Matrix wird von Arnold Schwarzenegger gespielt. Arius wird von Dan Hedaya gespielt."
+    },
+    "ACT-M-028": {
+      "version": "csv-b4bc512c",
+      "film": "Commando|1985",
+      "content": "c58a32e",
+      "text": "John Matrix wird von Arnold Schwarzenegger gespielt. Cindy wird von Rae Dawn Chong gespielt."
+    },
+    "ACT-S-027": {
+      "version": "csv-65fe29e",
+      "film": "Commando|1985",
+      "content": "79608e0",
+      "text": "John Matrix wird von Arnold Schwarzenegger gespielt."
+    },
+    "ACT-S-028": {
+      "version": "csv-a5c2e90",
+      "film": "Commando|1985",
+      "content": "385355ad",
+      "text": "John Matrix wird von Arnold Schwarzenegger gespielt. Jenny Matrix wird von Alyssa Milano gespielt. Bennett wird von Vernon Wells gespielt."
+    },
+    "ACT-L-030": {
+      "version": "csv-6790a37d",
+      "film": "First Blood|1982",
+      "content": "2de6327d",
+      "text": "John Rambo wird von Sylvester Stallone gespielt."
+    },
+    "ACT-M-029": {
+      "version": "csv-48d5ac07",
+      "film": "First Blood|1982",
+      "content": "3276b9f6",
+      "text": "John Rambo wird von Sylvester Stallone gespielt. Will Teasle wird von Brian Dennehy gespielt."
+    },
+    "ACT-M-030": {
+      "version": "csv-1a436a16",
+      "film": "First Blood|1982",
+      "content": "3aa17f2c",
+      "text": "John Rambo wird von Sylvester Stallone gespielt. Colonel Trautman wird von Richard Crenna gespielt."
+    },
+    "ACT-S-029": {
+      "version": "csv-28b84d21",
+      "film": "First Blood|1982",
+      "content": "c0da9fc7",
+      "text": "John Rambo wird von Sylvester Stallone gespielt."
+    },
+    "ACT-S-030": {
+      "version": "csv-946dd7b1",
+      "film": "First Blood|1982",
+      "content": "ba9ed800",
+      "text": "John Rambo wird von Sylvester Stallone gespielt. Colonel Trautman wird von Richard Crenna gespielt."
+    },
+    "ACT-L-031": {
+      "version": "csv-fa9cd5d4",
+      "film": "Rambo: First Blood Part II|1985",
+      "content": "c344b4dd",
+      "text": "John Rambo wird von Sylvester Stallone gespielt."
+    },
+    "ACT-L-032": {
+      "version": "csv-cb9bb1d0",
+      "film": "Rambo: First Blood Part II|1985",
+      "content": "aed607cc",
+      "text": "John Rambo wird von Sylvester Stallone gespielt."
+    },
+    "ACT-M-031": {
+      "version": "csv-6065367",
+      "film": "Rambo: First Blood Part II|1985",
+      "content": "8306fe1d",
+      "text": "John Rambo wird von Sylvester Stallone gespielt. Marshall Murdock wird von Charles Napier gespielt."
+    },
+    "ACT-M-032": {
+      "version": "csv-121a0d51",
+      "film": "Rambo: First Blood Part II|1985",
+      "content": "5227e92e",
+      "text": "John Rambo wird von Sylvester Stallone gespielt. Co Bao wird von Julia Nickson gespielt."
+    },
+    "ACT-S-031": {
+      "version": "csv-38540e12",
+      "film": "Rambo: First Blood Part II|1985",
+      "content": "aa81641b",
+      "text": "John Rambo wird von Sylvester Stallone gespielt. Marshall Murdock wird von Charles Napier gespielt."
+    },
+    "ACT-S-032": {
+      "version": "csv-adfef7eb",
+      "film": "Rambo: First Blood Part II|1985",
+      "content": "88be7353",
+      "text": "John Rambo wird von Sylvester Stallone gespielt. Marshall Murdock wird von Charles Napier gespielt."
+    },
+    "ACT-L-033": {
+      "version": "csv-bdabb791",
+      "film": "Goldfinger|1964",
+      "content": "f7db63aa",
+      "text": "Auric Goldfinger wird von Gert Fröbe gespielt."
+    },
+    "ACT-L-034": {
+      "version": "csv-c20e3f8",
+      "film": "Goldfinger|1964",
+      "content": "586c7c39",
+      "text": "James Bond wird von Sean Connery gespielt. Auric Goldfinger wird von Gert Fröbe gespielt. Oddjob wird von Harold Sakata gespielt."
+    },
+    "ACT-M-033": {
+      "version": "csv-9ac9453f",
+      "film": "Goldfinger|1964",
+      "content": "ecc17878",
+      "text": "James Bond wird von Sean Connery gespielt. Auric Goldfinger wird von Gert Fröbe gespielt."
+    },
+    "ACT-M-034": {
+      "version": "csv-5cb4b918",
+      "film": "Goldfinger|1964",
+      "content": "d9bd0da0",
+      "text": "James Bond wird von Sean Connery gespielt. Auric Goldfinger wird von Gert Fröbe gespielt. Jill Masterson wird von Shirley Eaton gespielt."
+    },
+    "ACT-S-033": {
+      "version": "csv-3b6ed166",
+      "film": "Goldfinger|1964",
+      "content": "826966bb",
+      "text": "James Bond wird von Sean Connery gespielt. Auric Goldfinger wird von Gert Fröbe gespielt."
+    },
+    "ACT-S-034": {
+      "version": "csv-1818cb29",
+      "film": "Goldfinger|1964",
+      "content": "f55d6f93",
+      "text": "James Bond wird von Sean Connery gespielt. Oddjob wird von Harold Sakata gespielt."
+    },
+    "ACT-L-033-V1": {
+      "version": "csv-c8f2aa8e",
+      "film": "Goldfinger|1964",
+      "content": "d03f31ee",
+      "text": "Auric Goldfinger wird von Gert Fröbe gespielt."
+    },
+    "ACT-L-034-V1": {
+      "version": "csv-a0ada1d9",
+      "film": "Goldfinger|1964",
+      "content": "d1eb99d9",
+      "text": "James Bond wird von Sean Connery gespielt. Auric Goldfinger wird von Gert Fröbe gespielt. Oddjob wird von Harold Sakata gespielt."
+    },
+    "ACT-M-033-V1": {
+      "version": "csv-bbbe5a08",
+      "film": "Goldfinger|1964",
+      "content": "6cb395dd",
+      "text": "James Bond wird von Sean Connery gespielt. Auric Goldfinger wird von Gert Fröbe gespielt."
+    },
+    "ACT-M-034-V1": {
+      "version": "csv-58134e6",
+      "film": "Goldfinger|1964",
+      "content": "9640bc55",
+      "text": "James Bond wird von Sean Connery gespielt. Auric Goldfinger wird von Gert Fröbe gespielt. Jill Masterson wird von Shirley Eaton gespielt."
+    },
+    "ACT-S-033-V1": {
+      "version": "csv-205ae2d9",
+      "film": "Goldfinger|1964",
+      "content": "665f627a",
+      "text": "James Bond wird von Sean Connery gespielt. Auric Goldfinger wird von Gert Fröbe gespielt."
+    },
+    "ACT-S-034-V1": {
+      "version": "csv-1b00819f",
+      "film": "Goldfinger|1964",
+      "content": "6ff4242f",
+      "text": "James Bond wird von Sean Connery gespielt. Oddjob wird von Harold Sakata gespielt."
+    },
+    "ACT-L-035": {
+      "version": "csv-b97723d4",
+      "film": "GoldenEye|1995",
+      "content": "b530a075",
+      "text": "Q wird von Desmond Llewelyn gespielt."
+    },
+    "ACT-L-036": {
+      "version": "csv-b047c49b",
+      "film": "GoldenEye|1995",
+      "content": "f9cde80",
+      "text": "James Bond wird von Pierce Brosnan gespielt. Natalya Simonova wird von Izabella Scorupco gespielt."
+    },
+    "ACT-M-035": {
+      "version": "csv-454fd379",
+      "film": "GoldenEye|1995",
+      "content": "d58646db",
+      "text": "James Bond wird von Pierce Brosnan gespielt. Alec Trevelyan wird von Sean Bean gespielt."
+    },
+    "ACT-M-036": {
+      "version": "csv-b19c3e9d",
+      "film": "GoldenEye|1995",
+      "content": "4d2121c9",
+      "text": "James Bond wird von Pierce Brosnan gespielt. Natalya Simonova wird von Izabella Scorupco gespielt."
+    },
+    "ACT-S-035": {
+      "version": "csv-c6501c6c",
+      "film": "GoldenEye|1995",
+      "content": "e1ce5d2f",
+      "text": "Alec Trevelyan wird von Sean Bean gespielt."
+    },
+    "ACT-S-036": {
+      "version": "csv-45ccf9dc",
+      "film": "GoldenEye|1995",
+      "content": "cce643d8",
+      "text": "James Bond wird von Pierce Brosnan gespielt. Natalya Simonova wird von Izabella Scorupco gespielt."
+    },
+    "ACT-L-038": {
+      "version": "csv-b5ce33f9",
+      "film": "Casino Royale|2006",
+      "content": "3421abdd",
+      "text": "James Bond wird von Daniel Craig gespielt. Le Chiffre wird von Mads Mikkelsen gespielt."
+    },
+    "ACT-M-037": {
+      "version": "csv-c93cd276",
+      "film": "Casino Royale|2006",
+      "content": "e3e50749",
+      "text": "James Bond wird von Daniel Craig gespielt. Vesper Lynd wird von Eva Green gespielt."
+    },
+    "ACT-M-038": {
+      "version": "csv-c38757e7",
+      "film": "Casino Royale|2006",
+      "content": "1281bb62",
+      "text": "James Bond wird von Daniel Craig gespielt. Le Chiffre wird von Mads Mikkelsen gespielt."
+    },
+    "ACT-S-037": {
+      "version": "csv-3f47429e",
+      "film": "Casino Royale|2006",
+      "content": "587370c2",
+      "text": "James Bond wird von Daniel Craig gespielt. Vesper Lynd wird von Eva Green gespielt."
+    },
+    "ACT-S-038": {
+      "version": "csv-6c0b953a",
+      "film": "Casino Royale|2006",
+      "content": "deabd39f",
+      "text": "James Bond wird von Daniel Craig gespielt. Vesper Lynd wird von Eva Green gespielt. M wird von Judi Dench gespielt."
+    },
+    "ACT-L-039": {
+      "version": "csv-c5584811",
+      "film": "Skyfall|2012",
+      "content": "901cf87e",
+      "text": "James Bond wird von Daniel Craig gespielt."
+    },
+    "ACT-L-040": {
+      "version": "csv-10666e62",
+      "film": "Skyfall|2012",
+      "content": "1b8c8d18",
+      "text": "James Bond wird von Daniel Craig gespielt. M wird von Judi Dench gespielt."
+    },
+    "ACT-M-039": {
+      "version": "csv-78fbbe96",
+      "film": "Skyfall|2012",
+      "content": "8445003e",
+      "text": "James Bond wird von Daniel Craig gespielt. M wird von Judi Dench gespielt. Raoul Silva wird von Javier Bardem gespielt."
+    },
+    "ACT-M-040": {
+      "version": "csv-d303378b",
+      "film": "Skyfall|2012",
+      "content": "f9a8f88f",
+      "text": "James Bond wird von Daniel Craig gespielt. Q wird von Ben Whishaw gespielt."
+    },
+    "ACT-S-039": {
+      "version": "csv-8fc23a4e",
+      "film": "Skyfall|2012",
+      "content": "aacadef4",
+      "text": "James Bond wird von Daniel Craig gespielt. M wird von Judi Dench gespielt. Raoul Silva wird von Javier Bardem gespielt."
+    },
+    "ACT-S-040": {
+      "version": "csv-e1fc815d",
+      "film": "Skyfall|2012",
+      "content": "e18013b3",
+      "text": "James Bond wird von Daniel Craig gespielt. M wird von Judi Dench gespielt. Raoul Silva wird von Javier Bardem gespielt. Kincade wird von Albert Finney gespielt."
+    },
+    "ACT-L-042": {
+      "version": "csv-bcb6a278",
+      "film": "Mission: Impossible|1996",
+      "content": "92d2ad27",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt."
+    },
+    "ACT-M-041": {
+      "version": "csv-988de799",
+      "film": "Mission: Impossible|1996",
+      "content": "3ac34d40",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt."
+    },
+    "ACT-M-042": {
+      "version": "csv-9e57f2df",
+      "film": "Mission: Impossible|1996",
+      "content": "d418771f",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt. Eugene Kittridge wird von Henry Czerny gespielt."
+    },
+    "ACT-S-041": {
+      "version": "csv-e1796c55",
+      "film": "Mission: Impossible|1996",
+      "content": "94b1bdc9",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt. Jim Phelps wird von Jon Voight gespielt. Max wird von Vanessa Redgrave gespielt."
+    },
+    "ACT-S-042": {
+      "version": "csv-63f07821",
+      "film": "Mission: Impossible|1996",
+      "content": "42c806bc",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt."
+    },
+    "ACT-L-042-V1": {
+      "version": "csv-4cde09c4",
+      "film": "Mission: Impossible|1996",
+      "content": "25cf186d",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt."
+    },
+    "ACT-M-041-V1": {
+      "version": "csv-c75297f4",
+      "film": "Mission: Impossible|1996",
+      "content": "6f2abb5b",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt."
+    },
+    "ACT-M-042-V1": {
+      "version": "csv-3e4cc7f2",
+      "film": "Mission: Impossible|1996",
+      "content": "82ff11ba",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt. Eugene Kittridge wird von Henry Czerny gespielt."
+    },
+    "ACT-S-041-V1": {
+      "version": "csv-cd912dc6",
+      "film": "Mission: Impossible|1996",
+      "content": "2cc39bde",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt. Jim Phelps wird von Jon Voight gespielt. Max wird von Vanessa Redgrave gespielt."
+    },
+    "ACT-S-042-V1": {
+      "version": "csv-47998b5f",
+      "film": "Mission: Impossible|1996",
+      "content": "9f7a0048",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt."
+    },
+    "ACT-L-043": {
+      "version": "csv-2ff84ed8",
+      "film": "Mission: Impossible – Ghost Protocol|2011",
+      "content": "42571f3a",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt."
+    },
+    "ACT-L-044": {
+      "version": "csv-60b04d1a",
+      "film": "Mission: Impossible – Ghost Protocol|2011",
+      "content": "48f4e240",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt."
+    },
+    "ACT-M-043": {
+      "version": "csv-b6b7abff",
+      "film": "Mission: Impossible – Ghost Protocol|2011",
+      "content": "b01feb43",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt. Kurt Hendricks wird von Michael Nyqvist gespielt."
+    },
+    "ACT-S-043": {
+      "version": "csv-a3f49c79",
+      "film": "Mission: Impossible – Ghost Protocol|2011",
+      "content": "886dca76",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt. Benji Dunn wird von Simon Pegg gespielt."
+    },
+    "ACT-S-044": {
+      "version": "csv-ab2ee844",
+      "film": "Mission: Impossible – Ghost Protocol|2011",
+      "content": "bb9eab41",
+      "text": "Ethan Hunt wird von Tom Cruise gespielt. William Brandt wird von Jeremy Renner gespielt. Julia Meade wird von Michelle Monaghan gespielt."
+    },
+    "ACT-L-046": {
+      "version": "csv-af2897da",
+      "film": "The Bourne Identity|2002",
+      "content": "65caf7a2",
+      "text": "Jason Bourne wird von Matt Damon gespielt."
+    },
+    "ACT-M-045": {
+      "version": "csv-6433397a",
+      "film": "The Bourne Identity|2002",
+      "content": "ea462cbe",
+      "text": "Jason Bourne wird von Matt Damon gespielt."
+    },
+    "ACT-M-046": {
+      "version": "csv-a83b5a28",
+      "film": "The Bourne Identity|2002",
+      "content": "9306e0a",
+      "text": "Jason Bourne wird von Matt Damon gespielt."
+    },
+    "ACT-S-045": {
+      "version": "csv-90bdd6cf",
+      "film": "The Bourne Identity|2002",
+      "content": "c18caef9",
+      "text": "Jason Bourne wird von Matt Damon gespielt. Nykwana Wombosi wird von Adewale Akinnuoye-Agbaje gespielt."
+    },
+    "ACT-S-046": {
+      "version": "csv-94b51cf5",
+      "film": "The Bourne Identity|2002",
+      "content": "cd08b778",
+      "text": "Jason Bourne wird von Matt Damon gespielt."
+    },
+    "ACT-L-047": {
+      "version": "csv-9dc408c1",
+      "film": "Taken|2008",
+      "content": "955b4225",
+      "text": "Kim Mills wird von Maggie Grace gespielt."
+    },
+    "ACT-L-048": {
+      "version": "csv-f7762299",
+      "film": "Taken|2008",
+      "content": "271489a1",
+      "text": "Bryan Mills wird von Liam Neeson gespielt. Kim Mills wird von Maggie Grace gespielt. Amanda wird von Katie Cassidy gespielt."
+    },
+    "ACT-M-047": {
+      "version": "csv-eaa7dea5",
+      "film": "Taken|2008",
+      "content": "ac4e650c",
+      "text": "Bryan Mills wird von Liam Neeson gespielt. Kim Mills wird von Maggie Grace gespielt."
+    },
+    "ACT-M-048": {
+      "version": "csv-71e941f0",
+      "film": "Taken|2008",
+      "content": "566dc7a",
+      "text": "Bryan Mills wird von Liam Neeson gespielt."
+    },
+    "ACT-S-047": {
+      "version": "csv-5ef25d1a",
+      "film": "Taken|2008",
+      "content": "98a2ea30",
+      "text": "Bryan Mills wird von Liam Neeson gespielt. Kim Mills wird von Maggie Grace gespielt. Marko wird von Arben Bajraktaraj gespielt."
+    },
+    "ACT-S-048": {
+      "version": "csv-3f4a7f9c",
+      "film": "Taken|2008",
+      "content": "82f27e48",
+      "text": "Bryan Mills wird von Liam Neeson gespielt. Kim Mills wird von Maggie Grace gespielt. Amanda wird von Katie Cassidy gespielt."
+    },
+    "ACT-L-050": {
+      "version": "csv-8565df66",
+      "film": "John Wick|2014",
+      "content": "709cab56",
+      "text": "John Wick wird von Keanu Reeves gespielt. Helen Wick wird von Bridget Moynahan gespielt."
+    },
+    "ACT-M-050": {
+      "version": "csv-be095dc9",
+      "film": "John Wick|2014",
+      "content": "37781c8d",
+      "text": "John Wick wird von Keanu Reeves gespielt. Viggo Tarasov wird von Michael Nyqvist gespielt. Iosef Tarasov wird von Alfie Allen gespielt."
+    },
+    "ACT-S-049": {
+      "version": "csv-a3a54266",
+      "film": "John Wick|2014",
+      "content": "2f35ddb4",
+      "text": "John Wick wird von Keanu Reeves gespielt. Viggo Tarasov wird von Michael Nyqvist gespielt."
+    },
+    "ACT-S-050": {
+      "version": "csv-9a4bc36b",
+      "film": "John Wick|2014",
+      "content": "a9ebc8c1",
+      "text": "John Wick wird von Keanu Reeves gespielt. Helen Wick wird von Bridget Moynahan gespielt."
+    },
+    "ACT-L-050-V1": {
+      "version": "csv-2c0ffc2d",
+      "film": "John Wick|2014",
+      "content": "248dd745",
+      "text": "John Wick wird von Keanu Reeves gespielt. Helen Wick wird von Bridget Moynahan gespielt."
+    },
+    "ACT-M-049-V1": {
+      "version": "csv-878bf8b9",
+      "film": "John Wick|2014",
+      "content": "263e0eea",
+      "text": "John Wick wird von Keanu Reeves gespielt."
+    },
+    "ACT-M-050-V1": {
+      "version": "csv-c6dda97f",
+      "film": "John Wick|2014",
+      "content": "74d6454e",
+      "text": "John Wick wird von Keanu Reeves gespielt. Viggo Tarasov wird von Michael Nyqvist gespielt. Iosef Tarasov wird von Alfie Allen gespielt."
+    },
+    "ACT-S-049-V1": {
+      "version": "csv-210c8bc3",
+      "film": "John Wick|2014",
+      "content": "24f38b0f",
+      "text": "John Wick wird von Keanu Reeves gespielt. Viggo Tarasov wird von Michael Nyqvist gespielt."
+    },
+    "ACT-S-050-V1": {
+      "version": "csv-3651224d",
+      "film": "John Wick|2014",
+      "content": "e8e7c489",
+      "text": "John Wick wird von Keanu Reeves gespielt. Helen Wick wird von Bridget Moynahan gespielt."
+    },
+    "HOR-L-002": {
+      "version": "csv-67627bc4",
+      "film": "Halloween|1978",
+      "content": "1591969c",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Nick Castle spielt überwiegend den maskierten Michael Myers; unter der abgenommenen Maske ist Tony Moran zu sehen."
+    },
+    "HOR-M-001": {
+      "version": "csv-fe978f5d",
+      "film": "Halloween|1978",
+      "content": "3dd7adb9",
+      "text": "Nick Castle spielt überwiegend den maskierten Michael Myers; unter der abgenommenen Maske ist Tony Moran zu sehen."
+    },
+    "HOR-M-002": {
+      "version": "csv-7e3669dc",
+      "film": "Halloween|1978",
+      "content": "d7a1feeb",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Tommy Doyle wird von Brian Andrews gespielt. Lindsey Wallace wird von Kyle Richards gespielt."
+    },
+    "HOR-S-001": {
+      "version": "csv-1bc055ba",
+      "film": "Halloween|1978",
+      "content": "57fd4fa2",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Nick Castle spielt überwiegend den maskierten Michael Myers; unter der abgenommenen Maske ist Tony Moran zu sehen."
+    },
+    "HOR-S-002": {
+      "version": "csv-63ee02a4",
+      "film": "Halloween|1978",
+      "content": "91b42ed1",
+      "text": "Dr. Sam Loomis wird von Donald Pleasence gespielt. Nick Castle spielt überwiegend den maskierten Michael Myers; unter der abgenommenen Maske ist Tony Moran zu sehen."
+    },
+    "HOR-L-002-V1": {
+      "version": "csv-3cb10274",
+      "film": "Halloween|1978",
+      "content": "fb74e64f",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Nick Castle spielt überwiegend den maskierten Michael Myers; unter der abgenommenen Maske ist Tony Moran zu sehen."
+    },
+    "HOR-M-001-V1": {
+      "version": "csv-f3334939",
+      "film": "Halloween|1978",
+      "content": "54aafeb0",
+      "text": "Nick Castle spielt überwiegend den maskierten Michael Myers; unter der abgenommenen Maske ist Tony Moran zu sehen."
+    },
+    "HOR-M-002-V1": {
+      "version": "csv-4b3f0a0e",
+      "film": "Halloween|1978",
+      "content": "2344ff9a",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Nick Castle spielt überwiegend den maskierten Michael Myers; unter der abgenommenen Maske ist Tony Moran zu sehen. Tommy Doyle wird von Brian Andrews gespielt. Lindsey Wallace wird von Kyle Richards gespielt."
+    },
+    "HOR-S-001-V1": {
+      "version": "csv-7327957e",
+      "film": "Halloween|1978",
+      "content": "2b040647",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Nick Castle spielt überwiegend den maskierten Michael Myers; unter der abgenommenen Maske ist Tony Moran zu sehen."
+    },
+    "HOR-S-002-V1": {
+      "version": "csv-a6d1fb73",
+      "film": "Halloween|1978",
+      "content": "7c144f91",
+      "text": "Dr. Sam Loomis wird von Donald Pleasence gespielt. Nick Castle spielt überwiegend den maskierten Michael Myers; unter der abgenommenen Maske ist Tony Moran zu sehen."
+    },
+    "HOR-L-003": {
+      "version": "csv-7151d903",
+      "film": "Halloween II|1981",
+      "content": "7920f0ff",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Dick Warlock verkörpert Michael Myers in den neu gedrehten Szenen dieser Fortsetzung."
+    },
+    "HOR-L-004": {
+      "version": "csv-2ee088e0",
+      "film": "Halloween II|1981",
+      "content": "55c2c26f",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Dr. Sam Loomis wird von Donald Pleasence gespielt."
+    },
+    "HOR-M-003": {
+      "version": "csv-cbb26e01",
+      "film": "Halloween II|1981",
+      "content": "14d9b33f",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Dr. Sam Loomis wird von Donald Pleasence gespielt. Dick Warlock verkörpert Michael Myers in den neu gedrehten Szenen dieser Fortsetzung. Marion Chambers wird von Nancy Stephens gespielt."
+    },
+    "HOR-M-004": {
+      "version": "csv-d9428dca",
+      "film": "Halloween II|1981",
+      "content": "118219cf",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Dick Warlock verkörpert Michael Myers in den neu gedrehten Szenen dieser Fortsetzung. Jimmy wird von Lance Guest gespielt."
+    },
+    "HOR-S-003": {
+      "version": "csv-3e9397c3",
+      "film": "Halloween II|1981",
+      "content": "ae553e1e",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Jimmy wird von Lance Guest gespielt. Virginia Alves wird von Gloria Gifford gespielt."
+    },
+    "HOR-S-004": {
+      "version": "csv-4e1434b0",
+      "film": "Halloween II|1981",
+      "content": "bba89fd4",
+      "text": "Laurie Strode wird von Jamie Lee Curtis gespielt. Dr. Sam Loomis wird von Donald Pleasence gespielt. Dick Warlock verkörpert Michael Myers in den neu gedrehten Szenen dieser Fortsetzung."
+    },
+    "HOR-L-005": {
+      "version": "csv-4a01aff6",
+      "film": "A Nightmare on Elm Street|1984",
+      "content": "ec1edea6",
+      "text": "Freddy Krueger wird von Robert Englund gespielt."
+    },
+    "HOR-L-006": {
+      "version": "csv-c31f42d3",
+      "film": "A Nightmare on Elm Street|1984",
+      "content": "7f78b822",
+      "text": "Freddy Krueger wird von Robert Englund gespielt."
+    },
+    "HOR-M-005": {
+      "version": "csv-8783e1d3",
+      "film": "A Nightmare on Elm Street|1984",
+      "content": "b9816a8c",
+      "text": "Freddy Krueger wird von Robert Englund gespielt."
+    },
+    "HOR-M-006": {
+      "version": "csv-6ab1ef3",
+      "film": "A Nightmare on Elm Street|1984",
+      "content": "2b204e08",
+      "text": "Nancy Thompson wird von Heather Langenkamp gespielt. Freddy Krueger wird von Robert Englund gespielt. Marge Thompson wird von Ronee Blakley gespielt."
+    },
+    "HOR-S-005": {
+      "version": "csv-ee135e70",
+      "film": "A Nightmare on Elm Street|1984",
+      "content": "84a8b748",
+      "text": "Nancy Thompson wird von Heather Langenkamp gespielt. Freddy Krueger wird von Robert Englund gespielt."
+    },
+    "HOR-S-006": {
+      "version": "csv-50bc8fb2",
+      "film": "A Nightmare on Elm Street|1984",
+      "content": "16949c46",
+      "text": "Nancy Thompson wird von Heather Langenkamp gespielt. Freddy Krueger wird von Robert Englund gespielt."
+    },
+    "HOR-L-007": {
+      "version": "csv-dc007dc5",
+      "film": "A Nightmare on Elm Street 3: Dream Warriors|1987",
+      "content": "63950ac7",
+      "text": "Freddy Krueger wird von Robert Englund gespielt."
+    },
+    "HOR-L-008": {
+      "version": "csv-42c84334",
+      "film": "A Nightmare on Elm Street 3: Dream Warriors|1987",
+      "content": "ed4ddbb7",
+      "text": "Nancy Thompson wird von Heather Langenkamp gespielt. Freddy Krueger wird von Robert Englund gespielt."
+    },
+    "HOR-M-007": {
+      "version": "csv-e5606848",
+      "film": "A Nightmare on Elm Street 3: Dream Warriors|1987",
+      "content": "6c4bc2e8",
+      "text": "Freddy Krueger wird von Robert Englund gespielt. Kristen Parker wird von Patricia Arquette gespielt."
+    },
+    "HOR-M-008": {
+      "version": "csv-c68bad34",
+      "film": "A Nightmare on Elm Street 3: Dream Warriors|1987",
+      "content": "1fc1faf6",
+      "text": "Nancy Thompson wird von Heather Langenkamp gespielt. Freddy Krueger wird von Robert Englund gespielt."
+    },
+    "HOR-S-007": {
+      "version": "csv-b524badb",
+      "film": "A Nightmare on Elm Street 3: Dream Warriors|1987",
+      "content": "edb55382",
+      "text": "Freddy Krueger wird von Robert Englund gespielt. Dr. Neil Gordon wird von Craig Wasson gespielt. Amanda Krueger / Schwester Mary Helena wird von Nan Martin gespielt."
+    },
+    "HOR-S-008": {
+      "version": "csv-c7ac801d",
+      "film": "A Nightmare on Elm Street 3: Dream Warriors|1987",
+      "content": "4eceff2b",
+      "text": "Freddy Krueger wird von Robert Englund gespielt. Dr. Neil Gordon wird von Craig Wasson gespielt."
+    },
+    "HOR-L-010": {
+      "version": "csv-cb7a6c8a",
+      "film": "Friday the 13th|1980",
+      "content": "bc2b2cba",
+      "text": "Pamela Voorhees wird von Betsy Palmer gespielt. Ari Lehman spielt den jungen Jason in der Schlussszene."
+    },
+    "HOR-M-009": {
+      "version": "csv-af5c8efb",
+      "film": "Friday the 13th|1980",
+      "content": "5604d4fe",
+      "text": "Pamela Voorhees wird von Betsy Palmer gespielt. Alice Hardy wird von Adrienne King gespielt."
+    },
+    "HOR-M-010": {
+      "version": "csv-4c021a8b",
+      "film": "Friday the 13th|1980",
+      "content": "bf7274b",
+      "text": "Pamela Voorhees wird von Betsy Palmer gespielt. Ari Lehman spielt den jungen Jason in der Schlussszene."
+    },
+    "HOR-S-009": {
+      "version": "csv-99b632ff",
+      "film": "Friday the 13th|1980",
+      "content": "b152550d",
+      "text": "Pamela Voorhees wird von Betsy Palmer gespielt."
+    },
+    "HOR-S-010": {
+      "version": "csv-a314c35c",
+      "film": "Friday the 13th|1980",
+      "content": "78ebe04b",
+      "text": "Alice Hardy wird von Adrienne King gespielt."
+    },
+    "HOR-L-011": {
+      "version": "csv-83f0e2b6",
+      "film": "Friday the 13th Part 2|1981",
+      "content": "aa3449cc",
+      "text": "Steve Daskewisz (Steve Dash) spielt den maskierten Jason, Warrington Gillette die unmaskierte Erscheinung. Pamela Voorhees wird von Betsy Palmer gespielt."
+    },
+    "HOR-L-012": {
+      "version": "csv-b54ee4e2",
+      "film": "Friday the 13th Part 2|1981",
+      "content": "2fb0f09",
+      "text": "Steve Daskewisz (Steve Dash) spielt den maskierten Jason, Warrington Gillette die unmaskierte Erscheinung."
+    },
+    "HOR-M-011": {
+      "version": "csv-f1fe7d66",
+      "film": "Friday the 13th Part 2|1981",
+      "content": "a0b125b9",
+      "text": "Steve Daskewisz (Steve Dash) spielt den maskierten Jason, Warrington Gillette die unmaskierte Erscheinung."
+    },
+    "HOR-M-012": {
+      "version": "csv-a77aad08",
+      "film": "Friday the 13th Part 2|1981",
+      "content": "d8de4f7",
+      "text": "Steve Daskewisz (Steve Dash) spielt den maskierten Jason, Warrington Gillette die unmaskierte Erscheinung. Ginny Field wird von Amy Steel gespielt. Pamela Voorhees wird von Betsy Palmer gespielt."
+    },
+    "HOR-S-011": {
+      "version": "csv-768ddf70",
+      "film": "Friday the 13th Part 2|1981",
+      "content": "dafcbde3",
+      "text": "Steve Daskewisz (Steve Dash) spielt den maskierten Jason, Warrington Gillette die unmaskierte Erscheinung. Ginny Field wird von Amy Steel gespielt. Pamela Voorhees wird von Betsy Palmer gespielt."
+    },
+    "HOR-S-012": {
+      "version": "csv-4152c02d",
+      "film": "Friday the 13th Part 2|1981",
+      "content": "7c8a2fe3",
+      "text": "Steve Daskewisz (Steve Dash) spielt den maskierten Jason, Warrington Gillette die unmaskierte Erscheinung. Ginny Field wird von Amy Steel gespielt. Pamela Voorhees wird von Betsy Palmer gespielt."
+    },
+    "HOR-L-014": {
+      "version": "csv-61c25391",
+      "film": "Scream|1996",
+      "content": "cb78df67",
+      "text": "Roger L. Jackson liefert Ghostfaces Telefonstimme in der englischen Originalfassung."
+    },
+    "HOR-M-013": {
+      "version": "csv-950fad51",
+      "film": "Scream|1996",
+      "content": "f70d2f6c",
+      "text": "Randy Meeks wird von Jamie Kennedy gespielt."
+    },
+    "HOR-M-014": {
+      "version": "csv-5a78b6d0",
+      "film": "Scream|1996",
+      "content": "ecd5d407",
+      "text": "Sidney Prescott wird von Neve Campbell gespielt. Dewey Riley wird von David Arquette gespielt. Tatum Riley wird von Rose McGowan gespielt."
+    },
+    "HOR-S-013": {
+      "version": "csv-8a86368b",
+      "film": "Scream|1996",
+      "content": "6b1caa24",
+      "text": "Sidney Prescott wird von Neve Campbell gespielt. Billy Loomis wird von Skeet Ulrich gespielt. Stu Macher wird von Matthew Lillard gespielt. Roger L. Jackson liefert Ghostfaces Telefonstimme in der englischen Originalfassung."
+    },
+    "HOR-S-014": {
+      "version": "csv-6e2fca24",
+      "film": "Scream|1996",
+      "content": "962b88b4",
+      "text": "Sidney Prescott wird von Neve Campbell gespielt. Billy Loomis wird von Skeet Ulrich gespielt. Stu Macher wird von Matthew Lillard gespielt. Neil Prescott wird von Lawrence Hecht gespielt."
+    },
+    "HOR-L-014-V1": {
+      "version": "csv-7b766e23",
+      "film": "Scream|1996",
+      "content": "81e2a656",
+      "text": "Roger L. Jackson liefert Ghostfaces Telefonstimme in der englischen Originalfassung."
+    },
+    "HOR-M-013-V1": {
+      "version": "csv-fadbd768",
+      "film": "Scream|1996",
+      "content": "e2b00012",
+      "text": "Randy Meeks wird von Jamie Kennedy gespielt."
+    },
+    "HOR-M-014-V1": {
+      "version": "csv-8e3e19ec",
+      "film": "Scream|1996",
+      "content": "4a14c48",
+      "text": "Sidney Prescott wird von Neve Campbell gespielt. Dewey Riley wird von David Arquette gespielt. Tatum Riley wird von Rose McGowan gespielt."
+    },
+    "HOR-S-013-V1": {
+      "version": "csv-130d0ae8",
+      "film": "Scream|1996",
+      "content": "3ca7ccc8",
+      "text": "Sidney Prescott wird von Neve Campbell gespielt. Billy Loomis wird von Skeet Ulrich gespielt. Stu Macher wird von Matthew Lillard gespielt. Roger L. Jackson liefert Ghostfaces Telefonstimme in der englischen Originalfassung."
+    },
+    "HOR-S-014-V1": {
+      "version": "csv-d65d25c3",
+      "film": "Scream|1996",
+      "content": "cbbf483b",
+      "text": "Sidney Prescott wird von Neve Campbell gespielt. Billy Loomis wird von Skeet Ulrich gespielt. Stu Macher wird von Matthew Lillard gespielt. Neil Prescott wird von Lawrence Hecht gespielt."
+    },
+    "HOR-L-015": {
+      "version": "csv-629a9da0",
+      "film": "Scream 2|1997",
+      "content": "2dc91a6",
+      "text": "Sidney Prescott wird von Neve Campbell gespielt."
+    },
+    "HOR-L-016": {
+      "version": "csv-55bc1269",
+      "film": "Scream 2|1997",
+      "content": "14c4a4bc",
+      "text": "Sidney Prescott wird von Neve Campbell gespielt."
+    },
+    "HOR-M-015": {
+      "version": "csv-b3de9470",
+      "film": "Scream 2|1997",
+      "content": "1d5f22f5",
+      "text": "Sidney Prescott wird von Neve Campbell gespielt. Hallie McDaniel wird von Elise Neal gespielt."
+    },
+    "HOR-M-016": {
+      "version": "csv-5b6fcf87",
+      "film": "Scream 2|1997",
+      "content": "6afaf300",
+      "text": "Sidney Prescott wird von Neve Campbell gespielt. Cotton Weary wird von Liev Schreiber gespielt."
+    },
+    "HOR-S-015": {
+      "version": "csv-58b2ae3a",
+      "film": "Scream 2|1997",
+      "content": "81c37129",
+      "text": "Debbie Salt / Mrs. Loomis wird von Laurie Metcalf gespielt."
+    },
+    "HOR-S-016": {
+      "version": "csv-acf1fdd7",
+      "film": "Scream 2|1997",
+      "content": "702f6e48",
+      "text": "Mickey Altieri wird von Timothy Olyphant gespielt."
+    },
+    "HOR-L-017": {
+      "version": "csv-da08a495",
+      "film": "The Shining|1980",
+      "content": "50696036",
+      "text": "Jack Torrance wird von Jack Nicholson gespielt. Wendy Torrance wird von Shelley Duvall gespielt. Danny Torrance wird von Danny Lloyd gespielt."
+    },
+    "HOR-M-017": {
+      "version": "csv-b7e110",
+      "film": "The Shining|1980",
+      "content": "9cef7f3c",
+      "text": "Danny Torrance wird von Danny Lloyd gespielt. Dick Hallorann wird von Scatman Crothers gespielt."
+    },
+    "HOR-M-018": {
+      "version": "csv-b545c0cf",
+      "film": "The Shining|1980",
+      "content": "c4d2cd2",
+      "text": "Jack Torrance wird von Jack Nicholson gespielt. Wendy Torrance wird von Shelley Duvall gespielt."
+    },
+    "HOR-S-017": {
+      "version": "csv-eb32c66",
+      "film": "The Shining|1980",
+      "content": "d33beeef",
+      "text": "Jack Torrance wird von Jack Nicholson gespielt. Danny Torrance wird von Danny Lloyd gespielt."
+    },
+    "HOR-S-018": {
+      "version": "csv-abf96131",
+      "film": "The Shining|1980",
+      "content": "ff01c5d9",
+      "text": "Wendy Torrance wird von Shelley Duvall gespielt. Danny Torrance wird von Danny Lloyd gespielt. Dick Hallorann wird von Scatman Crothers gespielt."
+    },
+    "HOR-L-017-V1": {
+      "version": "csv-c0780509",
+      "film": "The Shining|1980",
+      "content": "eb508179",
+      "text": "Jack Torrance wird von Jack Nicholson gespielt. Wendy Torrance wird von Shelley Duvall gespielt. Danny Torrance wird von Danny Lloyd gespielt."
+    },
+    "HOR-M-017-V1": {
+      "version": "csv-75ab34e6",
+      "film": "The Shining|1980",
+      "content": "fb9df203",
+      "text": "Danny Torrance wird von Danny Lloyd gespielt. Dick Hallorann wird von Scatman Crothers gespielt."
+    },
+    "HOR-M-018-V1": {
+      "version": "csv-28a20ffc",
+      "film": "The Shining|1980",
+      "content": "78a3fa5f",
+      "text": "Jack Torrance wird von Jack Nicholson gespielt. Wendy Torrance wird von Shelley Duvall gespielt."
+    },
+    "HOR-S-017-V1": {
+      "version": "csv-e4e60407",
+      "film": "The Shining|1980",
+      "content": "5fd89b07",
+      "text": "Jack Torrance wird von Jack Nicholson gespielt. Danny Torrance wird von Danny Lloyd gespielt."
+    },
+    "HOR-S-018-V1": {
+      "version": "csv-e75d263",
+      "film": "The Shining|1980",
+      "content": "ff2c4cec",
+      "text": "Wendy Torrance wird von Shelley Duvall gespielt. Danny Torrance wird von Danny Lloyd gespielt. Dick Hallorann wird von Scatman Crothers gespielt."
+    },
+    "HOR-L-019": {
+      "version": "csv-743b7154",
+      "film": "Carrie|1976",
+      "content": "c6b9af21",
+      "text": "Carrie White wird von Sissy Spacek gespielt."
+    },
+    "HOR-M-019": {
+      "version": "csv-55c08607",
+      "film": "Carrie|1976",
+      "content": "56d89b07",
+      "text": "Carrie White wird von Sissy Spacek gespielt. Sue Snell wird von Amy Irving gespielt. Tommy Ross wird von William Katt gespielt."
+    },
+    "HOR-M-020": {
+      "version": "csv-34c46ee6",
+      "film": "Carrie|1976",
+      "content": "7d59a822",
+      "text": "Carrie White wird von Sissy Spacek gespielt."
+    },
+    "HOR-S-019": {
+      "version": "csv-a1765cab",
+      "film": "Carrie|1976",
+      "content": "fded3ae",
+      "text": "Carrie White wird von Sissy Spacek gespielt. Sue Snell wird von Amy Irving gespielt. Miss Collins wird von Betty Buckley gespielt."
+    },
+    "HOR-S-020": {
+      "version": "csv-f2eb4b9e",
+      "film": "Carrie|1976",
+      "content": "a0c43d5e",
+      "text": "Carrie White wird von Sissy Spacek gespielt. Margaret White wird von Piper Laurie gespielt."
+    },
+    "HOR-L-021": {
+      "version": "csv-cf6c4f7",
+      "film": "Misery|1990",
+      "content": "4889fb5b",
+      "text": "Paul Sheldon wird von James Caan gespielt."
+    },
+    "HOR-L-022": {
+      "version": "csv-fc8ddc54",
+      "film": "Misery|1990",
+      "content": "1e998139",
+      "text": "Paul Sheldon wird von James Caan gespielt."
+    },
+    "HOR-M-021": {
+      "version": "csv-3fa2dea0",
+      "film": "Misery|1990",
+      "content": "7d0457fc",
+      "text": "Paul Sheldon wird von James Caan gespielt. Annie Wilkes wird von Kathy Bates gespielt."
+    },
+    "HOR-M-022": {
+      "version": "csv-3125f3fa",
+      "film": "Misery|1990",
+      "content": "185d55",
+      "text": "Paul Sheldon wird von James Caan gespielt. Annie Wilkes wird von Kathy Bates gespielt."
+    },
+    "HOR-S-021": {
+      "version": "csv-c854fcf8",
+      "film": "Misery|1990",
+      "content": "10e932d3",
+      "text": "Paul Sheldon wird von James Caan gespielt. Annie Wilkes wird von Kathy Bates gespielt."
+    },
+    "HOR-S-022": {
+      "version": "csv-8a173616",
+      "film": "Misery|1990",
+      "content": "466a69d8",
+      "text": "Paul Sheldon wird von James Caan gespielt. Annie Wilkes wird von Kathy Bates gespielt."
+    },
+    "HOR-L-023": {
+      "version": "csv-c41544f0",
+      "film": "Pet Sematary|1989",
+      "content": "1f5f271f",
+      "text": "Louis Creed wird von Dale Midkiff gespielt."
+    },
+    "HOR-L-024": {
+      "version": "csv-cfcd7de7",
+      "film": "Pet Sematary|1989",
+      "content": "489f869a",
+      "text": "Louis Creed wird von Dale Midkiff gespielt. Jud Crandall wird von Fred Gwynne gespielt."
+    },
+    "HOR-M-023": {
+      "version": "csv-c3cba37",
+      "film": "Pet Sematary|1989",
+      "content": "235246d9",
+      "text": "Louis Creed wird von Dale Midkiff gespielt. Gage Creed wird von Miko Hughes gespielt."
+    },
+    "HOR-M-024": {
+      "version": "csv-ee071871",
+      "film": "Pet Sematary|1989",
+      "content": "92c8c579",
+      "text": "Louis Creed wird von Dale Midkiff gespielt. Victor Pascow wird von Brad Greenquist gespielt."
+    },
+    "HOR-S-023": {
+      "version": "csv-f48eab32",
+      "film": "Pet Sematary|1989",
+      "content": "adc0ed21",
+      "text": "Louis Creed wird von Dale Midkiff gespielt. Rachel Creed wird von Denise Crosby gespielt. Zelda wird von Andrew Hubatsek gespielt."
+    },
+    "HOR-S-024": {
+      "version": "csv-97d9d6ea",
+      "film": "Pet Sematary|1989",
+      "content": "2a2bde8c",
+      "text": "Louis Creed wird von Dale Midkiff gespielt. Gage Creed wird von Miko Hughes gespielt. Rachel Creed wird von Denise Crosby gespielt."
+    },
+    "HOR-L-026": {
+      "version": "csv-a49cbab5",
+      "film": "It|2017",
+      "content": "15ae2cd7",
+      "text": "Bill Denbrough wird von Jaeden Lieberher gespielt. Georgie Denbrough wird von Jackson Robert Scott gespielt."
+    },
+    "HOR-M-026": {
+      "version": "csv-4d313520",
+      "film": "It|2017",
+      "content": "a0f2a6d6",
+      "text": "Ben Hanscom wird von Jeremy Ray Taylor gespielt."
+    },
+    "HOR-S-025": {
+      "version": "csv-575241a4",
+      "film": "It|2017",
+      "content": "ba48e14c",
+      "text": "Bill Denbrough wird von Jaeden Lieberher gespielt. Ben Hanscom wird von Jeremy Ray Taylor gespielt. Beverly Marsh wird von Sophia Lillis gespielt."
+    },
+    "HOR-L-028": {
+      "version": "csv-95197f26",
+      "film": "The Exorcist|1973",
+      "content": "88828106",
+      "text": "Regan MacNeil wird von Linda Blair gespielt. Chris MacNeil wird von Ellen Burstyn gespielt."
+    },
+    "HOR-M-027": {
+      "version": "csv-a2293a95",
+      "film": "The Exorcist|1973",
+      "content": "10fced67",
+      "text": "Regan MacNeil wird von Linda Blair gespielt. Pater Damien Karras wird von Jason Miller gespielt."
+    },
+    "HOR-M-028": {
+      "version": "csv-e3ca2eaa",
+      "film": "The Exorcist|1973",
+      "content": "8e45ae28",
+      "text": "Regan MacNeil wird von Linda Blair gespielt. Pater Lankester Merrin wird von Max von Sydow gespielt."
+    },
+    "HOR-S-027": {
+      "version": "csv-e6d127af",
+      "film": "The Exorcist|1973",
+      "content": "de4383b3",
+      "text": "Regan MacNeil wird von Linda Blair gespielt. Pater Damien Karras wird von Jason Miller gespielt. Mercedes McCambridge liefert die Dämonenstimme in der englischen Originalfassung."
+    },
+    "HOR-S-028": {
+      "version": "csv-80b7e326",
+      "film": "The Exorcist|1973",
+      "content": "bf9710b9",
+      "text": "Regan MacNeil wird von Linda Blair gespielt. Pater Damien Karras wird von Jason Miller gespielt. Pater Lankester Merrin wird von Max von Sydow gespielt."
+    },
+    "HOR-L-029": {
+      "version": "csv-c4fc75af",
+      "film": "The Omen|1976",
+      "content": "b9af8807",
+      "text": "Robert Thorn wird von Gregory Peck gespielt. Damien wird von Harvey Spencer Stephens gespielt."
+    },
+    "HOR-M-029": {
+      "version": "csv-1d5ba77c",
+      "film": "The Omen|1976",
+      "content": "8a050ace",
+      "text": "Robert Thorn wird von Gregory Peck gespielt. Katherine Thorn wird von Lee Remick gespielt."
+    },
+    "HOR-M-030": {
+      "version": "csv-47ab1328",
+      "film": "The Omen|1976",
+      "content": "5bb2c7a9",
+      "text": "Damien wird von Harvey Spencer Stephens gespielt. Mrs. Baylock wird von Billie Whitelaw gespielt."
+    },
+    "HOR-S-029": {
+      "version": "csv-126e0f11",
+      "film": "The Omen|1976",
+      "content": "c5db92f9",
+      "text": "Keith Jennings wird von David Warner gespielt."
+    },
+    "HOR-S-030": {
+      "version": "csv-6a5d1acb",
+      "film": "The Omen|1976",
+      "content": "2d99fa6f",
+      "text": "Robert Thorn wird von Gregory Peck gespielt. Damien wird von Harvey Spencer Stephens gespielt."
+    },
+    "HOR-L-031": {
+      "version": "csv-dc0d9af4",
+      "film": "Poltergeist|1982",
+      "content": "392abe14",
+      "text": "Carol Anne Freeling wird von Heather O’Rourke gespielt. Steve Freeling wird von Craig T. Nelson gespielt. Diane Freeling wird von JoBeth Williams gespielt."
+    },
+    "HOR-L-032": {
+      "version": "csv-5fa2cbc6",
+      "film": "Poltergeist|1982",
+      "content": "93203033",
+      "text": "Carol Anne Freeling wird von Heather O’Rourke gespielt."
+    },
+    "HOR-M-031": {
+      "version": "csv-805503a8",
+      "film": "Poltergeist|1982",
+      "content": "fa9b20f",
+      "text": "Carol Anne Freeling wird von Heather O’Rourke gespielt. Tangina Barrons wird von Zelda Rubinstein gespielt."
+    },
+    "HOR-M-032": {
+      "version": "csv-edb943ac",
+      "film": "Poltergeist|1982",
+      "content": "d4f23bc3",
+      "text": "Robbie Freeling wird von Oliver Robins gespielt."
+    },
+    "HOR-S-031": {
+      "version": "csv-19b85f96",
+      "film": "Poltergeist|1982",
+      "content": "8582419",
+      "text": "Steve Freeling wird von Craig T. Nelson gespielt."
+    },
+    "HOR-S-032": {
+      "version": "csv-8848ddca",
+      "film": "Poltergeist|1982",
+      "content": "e45e69ce",
+      "text": "Steve Freeling wird von Craig T. Nelson gespielt."
+    },
+    "HOR-M-033": {
+      "version": "csv-17efb6fa",
+      "film": "The Evil Dead|1981",
+      "content": "4bb96a67",
+      "text": "Bob Dorian liefert in der englischen Originalfassung die aufgezeichnete Stimme von Professor Knowby."
+    },
+    "HOR-M-034": {
+      "version": "csv-e78e3b3a",
+      "film": "The Evil Dead|1981",
+      "content": "24d56f09",
+      "text": "Ash Williams wird von Bruce Campbell gespielt. Cheryl Williams wird von Ellen Sandweiss gespielt."
+    },
+    "HOR-S-034": {
+      "version": "csv-46d4d713",
+      "film": "The Evil Dead|1981",
+      "content": "afdf539d",
+      "text": "Ash Williams wird von Bruce Campbell gespielt."
+    },
+    "HOR-L-035": {
+      "version": "csv-b2846418",
+      "film": "Evil Dead II|1987",
+      "content": "cbba6b68",
+      "text": "Ash Williams wird von Bruce Campbell gespielt."
+    },
+    "HOR-L-036": {
+      "version": "csv-157e63a9",
+      "film": "Evil Dead II|1987",
+      "content": "c8dcd6ac",
+      "text": "Ash Williams wird von Bruce Campbell gespielt."
+    },
+    "HOR-M-035": {
+      "version": "csv-e4100f95",
+      "film": "Evil Dead II|1987",
+      "content": "27054462",
+      "text": "Ash Williams wird von Bruce Campbell gespielt. Annie Knowby wird von Sarah Berry gespielt. Professor Knowby wird von John Peaks gespielt."
+    },
+    "HOR-M-036": {
+      "version": "csv-d773c87",
+      "film": "Evil Dead II|1987",
+      "content": "5b650892",
+      "text": "Ash Williams wird von Bruce Campbell gespielt. Annie Knowby wird von Sarah Berry gespielt. Lou Hancock spielt Henrietta vor der Verwandlung, Ted Raimi ihre besessene Gestalt."
+    },
+    "HOR-S-035": {
+      "version": "csv-39d8fe19",
+      "film": "Evil Dead II|1987",
+      "content": "22ff071f",
+      "text": "Ash Williams wird von Bruce Campbell gespielt. Annie Knowby wird von Sarah Berry gespielt. Linda wird von Denise Bixler gespielt."
+    },
+    "HOR-S-036": {
+      "version": "csv-948c18f5",
+      "film": "Evil Dead II|1987",
+      "content": "a471b743",
+      "text": "Ash Williams wird von Bruce Campbell gespielt."
+    },
+    "HOR-L-037": {
+      "version": "csv-ec7e6a8f",
+      "film": "Psycho|1960",
+      "content": "d8e385af",
+      "text": "Marion Crane wird von Janet Leigh gespielt."
+    },
+    "HOR-L-038": {
+      "version": "csv-41fcb6dc",
+      "film": "Psycho|1960",
+      "content": "2e152006",
+      "text": "Norman Bates wird von Anthony Perkins gespielt. Marion Crane wird von Janet Leigh gespielt."
+    },
+    "HOR-M-037": {
+      "version": "csv-ce82ce0",
+      "film": "Psycho|1960",
+      "content": "ac7c600f",
+      "text": "Marion Crane wird von Janet Leigh gespielt."
+    },
+    "HOR-M-038": {
+      "version": "csv-d89afaa0",
+      "film": "Psycho|1960",
+      "content": "68b70312",
+      "text": "Marion Crane wird von Janet Leigh gespielt. Lila Crane wird von Vera Miles gespielt."
+    },
+    "HOR-S-037": {
+      "version": "csv-fccac6d6",
+      "film": "Psycho|1960",
+      "content": "912560a1",
+      "text": "Norman Bates wird von Anthony Perkins gespielt. Lila Crane wird von Vera Miles gespielt."
+    },
+    "HOR-S-038": {
+      "version": "csv-a4a85365",
+      "film": "Psycho|1960",
+      "content": "c8cb74f0",
+      "text": "Norman Bates wird von Anthony Perkins gespielt. Marion Crane wird von Janet Leigh gespielt."
+    },
+    "HOR-L-040": {
+      "version": "csv-213f09f5",
+      "film": "The Birds|1963",
+      "content": "eede4dde",
+      "text": "Melanie Daniels wird von Tippi Hedren gespielt."
+    },
+    "HOR-M-039": {
+      "version": "csv-7753d0d5",
+      "film": "The Birds|1963",
+      "content": "b9386144",
+      "text": "Melanie Daniels wird von Tippi Hedren gespielt. Mitch Brenner wird von Rod Taylor gespielt. Cathy Brenner wird von Veronica Cartwright gespielt."
+    },
+    "HOR-M-040": {
+      "version": "csv-5ae16a77",
+      "film": "The Birds|1963",
+      "content": "a374ecf5",
+      "text": "Melanie Daniels wird von Tippi Hedren gespielt. Mitch Brenner wird von Rod Taylor gespielt. Annie Hayworth wird von Suzanne Pleshette gespielt."
+    },
+    "HOR-S-039": {
+      "version": "csv-d2da5016",
+      "film": "The Birds|1963",
+      "content": "85a14d24",
+      "text": "Melanie Daniels wird von Tippi Hedren gespielt."
+    },
+    "HOR-L-041": {
+      "version": "csv-7d384f82",
+      "film": "The Texas Chain Saw Massacre|1974",
+      "content": "e42cd019",
+      "text": "Leatherface wird von Gunnar Hansen gespielt."
+    },
+    "HOR-M-041": {
+      "version": "csv-7e5f0c0e",
+      "film": "The Texas Chain Saw Massacre|1974",
+      "content": "7d060e3d",
+      "text": "Sally Hardesty wird von Marilyn Burns gespielt. Franklin Hardesty wird von Paul A. Partain gespielt."
+    },
+    "HOR-M-042": {
+      "version": "csv-4b900c",
+      "film": "The Texas Chain Saw Massacre|1974",
+      "content": "f7744050",
+      "text": "Sally Hardesty wird von Marilyn Burns gespielt. Der Koch wird von Jim Siedow gespielt."
+    },
+    "HOR-S-041": {
+      "version": "csv-79ca170b",
+      "film": "The Texas Chain Saw Massacre|1974",
+      "content": "a9741b73",
+      "text": "Sally Hardesty wird von Marilyn Burns gespielt. Der Großvater wird von John Dugan gespielt."
+    },
+    "HOR-S-042": {
+      "version": "csv-934d4ec5",
+      "film": "The Texas Chain Saw Massacre|1974",
+      "content": "83ba030a",
+      "text": "Leatherface wird von Gunnar Hansen gespielt. Sally Hardesty wird von Marilyn Burns gespielt."
+    },
+    "HOR-L-044": {
+      "version": "csv-7275f469",
+      "film": "Ring|1998",
+      "content": "1d5aa452",
+      "text": "Sadako Yamamura wird von Rie Inō gespielt."
+    },
+    "HOR-M-043": {
+      "version": "csv-40966102",
+      "film": "Ring|1998",
+      "content": "45e1312f",
+      "text": "Reiko Asakawa wird von Nanako Matsushima gespielt."
+    },
+    "HOR-M-044": {
+      "version": "csv-389c4cf8",
+      "film": "Ring|1998",
+      "content": "1dc4501f",
+      "text": "Reiko Asakawa wird von Nanako Matsushima gespielt. Ryuji Takayama wird von Hiroyuki Sanada gespielt. Yoichi Asakawa wird von Rikiya Ōtaka gespielt."
+    },
+    "HOR-S-043": {
+      "version": "csv-423d0f38",
+      "film": "Ring|1998",
+      "content": "82cce055",
+      "text": "Sadako Yamamura wird von Rie Inō gespielt. Reiko Asakawa wird von Nanako Matsushima gespielt. Ryuji Takayama wird von Hiroyuki Sanada gespielt."
+    },
+    "HOR-S-044": {
+      "version": "csv-b66dc60b",
+      "film": "Ring|1998",
+      "content": "dc134b37",
+      "text": "Sadako Yamamura wird von Rie Inō gespielt. Reiko Asakawa wird von Nanako Matsushima gespielt. Ryuji Takayama wird von Hiroyuki Sanada gespielt."
+    },
+    "HOR-L-044-V1": {
+      "version": "csv-dae959e2",
+      "film": "Ring|1998",
+      "content": "e54972c2",
+      "text": "Sadako Yamamura wird von Rie Inō gespielt."
+    },
+    "HOR-M-043-V1": {
+      "version": "csv-6542b6d3",
+      "film": "Ring|1998",
+      "content": "fe28cadf",
+      "text": "Reiko Asakawa wird von Nanako Matsushima gespielt."
+    },
+    "HOR-M-044-V1": {
+      "version": "csv-44fa5c64",
+      "film": "Ring|1998",
+      "content": "a907996a",
+      "text": "Reiko Asakawa wird von Nanako Matsushima gespielt. Ryuji Takayama wird von Hiroyuki Sanada gespielt. Yoichi Asakawa wird von Rikiya Ōtaka gespielt."
+    },
+    "HOR-S-043-V1": {
+      "version": "csv-33c55420",
+      "film": "Ring|1998",
+      "content": "9aaad7e0",
+      "text": "Sadako Yamamura wird von Rie Inō gespielt. Reiko Asakawa wird von Nanako Matsushima gespielt. Ryuji Takayama wird von Hiroyuki Sanada gespielt."
+    },
+    "HOR-S-044-V1": {
+      "version": "csv-cff58f38",
+      "film": "Ring|1998",
+      "content": "9c30da1c",
+      "text": "Reiko Asakawa wird von Nanako Matsushima gespielt. Ryuji Takayama wird von Hiroyuki Sanada gespielt."
+    },
+    "HOR-L-045": {
+      "version": "csv-a7c0f4df",
+      "film": "The Conjuring|2013",
+      "content": "175359ad",
+      "text": "Ed Warren wird von Patrick Wilson gespielt. Lorraine Warren wird von Vera Farmiga gespielt. Roger Perron wird von Ron Livingston gespielt. Carolyn Perron wird von Lili Taylor gespielt."
+    },
+    "HOR-L-046": {
+      "version": "csv-164f7855",
+      "film": "The Conjuring|2013",
+      "content": "9e560379",
+      "text": "Roger Perron wird von Ron Livingston gespielt. Carolyn Perron wird von Lili Taylor gespielt."
+    },
+    "HOR-M-045": {
+      "version": "csv-2c1c1bee",
+      "film": "The Conjuring|2013",
+      "content": "328cd88d",
+      "text": "Ed Warren wird von Patrick Wilson gespielt."
+    },
+    "HOR-M-046": {
+      "version": "csv-4eba3bd0",
+      "film": "The Conjuring|2013",
+      "content": "4c56293c",
+      "text": "Bathsheba wird von Joseph Bishara gespielt."
+    },
+    "HOR-S-045": {
+      "version": "csv-9375541b",
+      "film": "The Conjuring|2013",
+      "content": "cac270db",
+      "text": "Ed Warren wird von Patrick Wilson gespielt. Lorraine Warren wird von Vera Farmiga gespielt."
+    },
+    "HOR-S-046": {
+      "version": "csv-284045ba",
+      "film": "The Conjuring|2013",
+      "content": "485c5c19",
+      "text": "Lorraine Warren wird von Vera Farmiga gespielt. Carolyn Perron wird von Lili Taylor gespielt."
+    },
+    "HOR-L-047": {
+      "version": "csv-db91f4b4",
+      "film": "Saw|2004",
+      "content": "d01f9a6a",
+      "text": "Adam wird von Leigh Whannell gespielt. Dr. Lawrence Gordon wird von Cary Elwes gespielt."
+    },
+    "HOR-L-048": {
+      "version": "csv-3a55c066",
+      "film": "Saw|2004",
+      "content": "8ec1adaf",
+      "text": "Dr. Lawrence Gordon wird von Cary Elwes gespielt."
+    },
+    "HOR-M-047": {
+      "version": "csv-f4a71c14",
+      "film": "Saw|2004",
+      "content": "7396c5de",
+      "text": "Amanda Young wird von Shawnee Smith gespielt. John Kramer / Jigsaw wird von Tobin Bell gespielt."
+    },
+    "HOR-M-048": {
+      "version": "csv-226ffb01",
+      "film": "Saw|2004",
+      "content": "88e4d406",
+      "text": "Dr. Lawrence Gordon wird von Cary Elwes gespielt. Zep Hindle wird von Michael Emerson gespielt."
+    },
+    "HOR-S-047": {
+      "version": "csv-43c5178",
+      "film": "Saw|2004",
+      "content": "4588cd2",
+      "text": "John Kramer / Jigsaw wird von Tobin Bell gespielt."
+    },
+    "HOR-S-048": {
+      "version": "csv-e1587754",
+      "film": "Saw|2004",
+      "content": "1537dcb8",
+      "text": "Adam wird von Leigh Whannell gespielt. John Kramer / Jigsaw wird von Tobin Bell gespielt."
+    },
+    "HOR-L-049": {
+      "version": "csv-668f60d2",
+      "film": "Get Out|2017",
+      "content": "80c60cb",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt. Rose Armitage wird von Allison Williams gespielt."
+    },
+    "HOR-L-050": {
+      "version": "csv-855aff2c",
+      "film": "Get Out|2017",
+      "content": "17207eb2",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt."
+    },
+    "HOR-M-049": {
+      "version": "csv-161fe6b2",
+      "film": "Get Out|2017",
+      "content": "f5f76dfd",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt. Missy Armitage wird von Catherine Keener gespielt."
+    },
+    "HOR-M-050": {
+      "version": "csv-fcfdd2a0",
+      "film": "Get Out|2017",
+      "content": "41e7ec26",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt."
+    },
+    "HOR-S-049": {
+      "version": "csv-c93c6344",
+      "film": "Get Out|2017",
+      "content": "3a6d0ee",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt."
+    },
+    "HOR-S-050": {
+      "version": "csv-7186e083",
+      "film": "Get Out|2017",
+      "content": "75cbb37b",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt. Walter wird von Marcus Henderson gespielt."
+    },
+    "HOR-L-049-V1": {
+      "version": "csv-86a171e1",
+      "film": "Get Out|2017",
+      "content": "170ba547",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt. Rose Armitage wird von Allison Williams gespielt."
+    },
+    "HOR-L-050-V1": {
+      "version": "csv-4df03f13",
+      "film": "Get Out|2017",
+      "content": "5243641a",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt."
+    },
+    "HOR-M-049-V1": {
+      "version": "csv-1dae8891",
+      "film": "Get Out|2017",
+      "content": "42db4c49",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt. Missy Armitage wird von Catherine Keener gespielt."
+    },
+    "HOR-M-050-V1": {
+      "version": "csv-466181b0",
+      "film": "Get Out|2017",
+      "content": "aafd47",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt."
+    },
+    "HOR-S-049-V1": {
+      "version": "csv-7e60ad0c",
+      "film": "Get Out|2017",
+      "content": "5fb1ae09",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt."
+    },
+    "HOR-S-050-V1": {
+      "version": "csv-4df647b2",
+      "film": "Get Out|2017",
+      "content": "8f25e82e",
+      "text": "Chris Washington wird von Daniel Kaluuya gespielt. Walter wird von Marcus Henderson gespielt."
+    },
+    "FAN-L-001": {
+      "version": "csv-4eac4aac",
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "content": "58290bf2",
+      "text": "Bilbo Beutlin wird von Ian Holm gespielt."
+    },
+    "FAN-M-001": {
+      "version": "csv-e604e0a8",
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "content": "164d92f4",
+      "text": "Aragorn wird von Viggo Mortensen gespielt."
+    },
+    "FAN-M-002": {
+      "version": "csv-ec0c743e",
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "content": "6c556f87",
+      "text": "Boromir wird von Sean Bean gespielt."
+    },
+    "FAN-S-001": {
+      "version": "csv-b9bc7088",
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "content": "5dae73f4",
+      "text": "Frodo Beutlin wird von Elijah Wood gespielt. Bilbo Beutlin wird von Ian Holm gespielt."
+    },
+    "FAN-S-002": {
+      "version": "csv-d3b4337b",
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "content": "f010adbf",
+      "text": "Frodo Beutlin wird von Elijah Wood gespielt. Arwen wird von Liv Tyler gespielt."
+    },
+    "FAN-L-001-V1": {
+      "version": "csv-cfbd454c",
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "content": "9d7da1c5",
+      "text": "Bilbo Beutlin wird von Ian Holm gespielt."
+    },
+    "FAN-M-001-V1": {
+      "version": "csv-188808a1",
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "content": "aa17511b",
+      "text": "Aragorn wird von Viggo Mortensen gespielt."
+    },
+    "FAN-M-002-V1": {
+      "version": "csv-cffc88cb",
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "content": "8248f902",
+      "text": "Boromir wird von Sean Bean gespielt."
+    },
+    "FAN-S-001-V1": {
+      "version": "csv-1367883e",
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "content": "a52d914a",
+      "text": "Frodo Beutlin wird von Elijah Wood gespielt. Bilbo Beutlin wird von Ian Holm gespielt."
+    },
+    "FAN-S-002-V1": {
+      "version": "csv-1a46f72a",
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "content": "c97d0ca9",
+      "text": "Frodo Beutlin wird von Elijah Wood gespielt. Arwen wird von Liv Tyler gespielt."
+    },
+    "FAN-L-003": {
+      "version": "csv-cd7fd28f",
+      "film": "The Lord of the Rings: The Two Towers|2002",
+      "content": "3be41ac8",
+      "text": "Frodo Beutlin wird von Elijah Wood gespielt. Samweis Gamdschie wird von Sean Astin gespielt. Andy Serkis gestaltet Gollums Spiel per Motion Capture und liefert seine englische Originalstimme."
+    },
+    "FAN-L-004": {
+      "version": "csv-e537dbb9",
+      "film": "The Lord of the Rings: The Two Towers|2002",
+      "content": "70b9709",
+      "text": "Saruman wird von Christopher Lee gespielt. Théoden wird von Bernard Hill gespielt."
+    },
+    "FAN-M-003": {
+      "version": "csv-1a86f83c",
+      "film": "The Lord of the Rings: The Two Towers|2002",
+      "content": "1c2ab74",
+      "text": "Gandalf wird von Ian McKellen gespielt. Aragorn wird von Viggo Mortensen gespielt. Legolas wird von Orlando Bloom gespielt. Gimli wird von John Rhys-Davies gespielt. Saruman wird von Christopher Lee gespielt."
+    },
+    "FAN-M-004": {
+      "version": "csv-8f18780b",
+      "film": "The Lord of the Rings: The Two Towers|2002",
+      "content": "8f382d4",
+      "text": "Saruman wird von Christopher Lee gespielt. Pippin wird von Billy Boyd gespielt. John Rhys-Davies spricht Baumbart in der englischen Originalfassung."
+    },
+    "FAN-S-003": {
+      "version": "csv-c13124f0",
+      "film": "The Lord of the Rings: The Two Towers|2002",
+      "content": "c38f4580",
+      "text": "Haldir wird von Craig Parker gespielt."
+    },
+    "FAN-S-004": {
+      "version": "csv-7668e917",
+      "film": "The Lord of the Rings: The Two Towers|2002",
+      "content": "dc422419",
+      "text": "Frodo Beutlin wird von Elijah Wood gespielt. Samweis Gamdschie wird von Sean Astin gespielt. Faramir wird von David Wenham gespielt."
+    },
+    "FAN-L-005": {
+      "version": "csv-aeff7446",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "content": "a501d256",
+      "text": "Aragorn wird von Viggo Mortensen gespielt."
+    },
+    "FAN-L-006": {
+      "version": "csv-d6a9f2d8",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "content": "1dea18f2",
+      "text": "Frodo Beutlin wird von Elijah Wood gespielt. Andy Serkis gestaltet Gollums Spiel per Motion Capture und liefert seine englische Originalstimme."
+    },
+    "FAN-M-005": {
+      "version": "csv-db07d5a1",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "content": "771dcff0",
+      "text": "Théoden wird von Bernard Hill gespielt. Éowyn wird von Miranda Otto gespielt. Merry wird von Dominic Monaghan gespielt."
+    },
+    "FAN-M-006": {
+      "version": "csv-4aff870e",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "content": "a408e1eb",
+      "text": "Aragorn wird von Viggo Mortensen gespielt."
+    },
+    "FAN-S-005": {
+      "version": "csv-b1bfc3ac",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "content": "7b37a3ce",
+      "text": "Gandalf wird von Ian McKellen gespielt. Faramir wird von David Wenham gespielt. Denethor wird von John Noble gespielt. Pippin wird von Billy Boyd gespielt."
+    },
+    "FAN-S-006": {
+      "version": "csv-53c00526",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "content": "e2845e97",
+      "text": "Frodo Beutlin wird von Elijah Wood gespielt. Samweis Gamdschie wird von Sean Astin gespielt."
+    },
+    "FAN-L-008": {
+      "version": "csv-bff8cf39",
+      "film": "The Hobbit: An Unexpected Journey|2012",
+      "content": "150db72d",
+      "text": "Martin Freeman spielt Bilbo während des Abenteuers. Thorin Eichenschild wird von Richard Armitage gespielt."
+    },
+    "FAN-M-007": {
+      "version": "csv-40636c51",
+      "film": "The Hobbit: An Unexpected Journey|2012",
+      "content": "4ca81fe8",
+      "text": "Martin Freeman spielt Bilbo während des Abenteuers. Gandalf wird von Ian McKellen gespielt."
+    },
+    "FAN-M-008": {
+      "version": "csv-f13335ea",
+      "film": "The Hobbit: An Unexpected Journey|2012",
+      "content": "3088b5e4",
+      "text": "Martin Freeman spielt Bilbo während des Abenteuers. Andy Serkis gestaltet Gollums Spiel per Motion Capture und liefert seine englische Originalstimme."
+    },
+    "FAN-S-007": {
+      "version": "csv-b82277a5",
+      "film": "The Hobbit: An Unexpected Journey|2012",
+      "content": "9c2e2f7c",
+      "text": "Martin Freeman spielt Bilbo während des Abenteuers. Gandalf wird von Ian McKellen gespielt."
+    },
+    "FAN-S-008": {
+      "version": "csv-13a1b6a5",
+      "film": "The Hobbit: An Unexpected Journey|2012",
+      "content": "58c25716",
+      "text": "Martin Freeman spielt Bilbo während des Abenteuers. Andy Serkis gestaltet Gollums Spiel per Motion Capture und liefert seine englische Originalstimme."
+    },
+    "FAN-L-009": {
+      "version": "csv-444f83ea",
+      "film": "The Hobbit: The Desolation of Smaug|2013",
+      "content": "4cfce4b3",
+      "text": "Bilbo Beutlin wird von Martin Freeman gespielt. Benedict Cumberbatch gestaltet Smaugs Bewegungen per Performance Capture und liefert seine englische Originalstimme."
+    },
+    "FAN-L-010": {
+      "version": "csv-6769aa2f",
+      "film": "The Hobbit: The Desolation of Smaug|2013",
+      "content": "2f54ca55",
+      "text": "Bard wird von Luke Evans gespielt."
+    },
+    "FAN-M-009": {
+      "version": "csv-e34574fd",
+      "film": "The Hobbit: The Desolation of Smaug|2013",
+      "content": "c1f1f0d9",
+      "text": "Beorn wird von Mikael Persbrandt gespielt."
+    },
+    "FAN-M-010": {
+      "version": "csv-aebd68c9",
+      "film": "The Hobbit: The Desolation of Smaug|2013",
+      "content": "8302c63",
+      "text": "Bilbo Beutlin wird von Martin Freeman gespielt."
+    },
+    "FAN-S-009": {
+      "version": "csv-bdf45cfc",
+      "film": "The Hobbit: The Desolation of Smaug|2013",
+      "content": "23ad2847",
+      "text": "Bilbo Beutlin wird von Martin Freeman gespielt."
+    },
+    "FAN-S-010": {
+      "version": "csv-6e4dc5ed",
+      "film": "The Hobbit: The Desolation of Smaug|2013",
+      "content": "34d6bc86",
+      "text": "Benedict Cumberbatch gestaltet Smaugs Bewegungen per Performance Capture und liefert seine englische Originalstimme."
+    },
+    "FAN-L-011": {
+      "version": "csv-9f852213",
+      "film": "The Hobbit: The Battle of the Five Armies|2014",
+      "content": "babf6db6",
+      "text": "Benedict Cumberbatch liefert Smaugs englische Originalstimme. Bard wird von Luke Evans gespielt. Bain wird von John Bell gespielt."
+    },
+    "FAN-L-012": {
+      "version": "csv-92b47497",
+      "film": "The Hobbit: The Battle of the Five Armies|2014",
+      "content": "e0d7e4d6",
+      "text": "Bilbo Beutlin wird von Martin Freeman gespielt. Thorin Eichenschild wird von Richard Armitage gespielt."
+    },
+    "FAN-M-011": {
+      "version": "csv-5ea908dc",
+      "film": "The Hobbit: The Battle of the Five Armies|2014",
+      "content": "c9c09b1b",
+      "text": "Bilbo Beutlin wird von Martin Freeman gespielt. Thorin Eichenschild wird von Richard Armitage gespielt. Bard wird von Luke Evans gespielt. Thranduil wird von Lee Pace gespielt."
+    },
+    "FAN-M-012": {
+      "version": "csv-aef60df9",
+      "film": "The Hobbit: The Battle of the Five Armies|2014",
+      "content": "ed2c9c61",
+      "text": "Thorin Eichenschild wird von Richard Armitage gespielt. Dáin wird von Billy Connolly gespielt."
+    },
+    "FAN-S-011": {
+      "version": "csv-4bd6001c",
+      "film": "The Hobbit: The Battle of the Five Armies|2014",
+      "content": "4dfcce05",
+      "text": "Thorin Eichenschild wird von Richard Armitage gespielt. Gandalf wird von Ian McKellen gespielt. Galadriel wird von Cate Blanchett gespielt. Benedict Cumberbatch liefert Saurons englische Originalstimme."
+    },
+    "FAN-S-012": {
+      "version": "csv-52a2c9a1",
+      "film": "The Hobbit: The Battle of the Five Armies|2014",
+      "content": "a6570daa",
+      "text": "Bilbo Beutlin wird von Martin Freeman gespielt. Thorin Eichenschild wird von Richard Armitage gespielt. Manu Bennett verkörpert Azog mittels Motion Capture."
+    },
+    "FAN-L-013": {
+      "version": "csv-ef762138",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "f98f0c08",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Ron Weasley wird von Rupert Grint gespielt. Hermine Granger wird von Emma Watson gespielt."
+    },
+    "FAN-L-014": {
+      "version": "csv-7b26826b",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "75c07999",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Rubeus Hagrid wird von Robbie Coltrane gespielt."
+    },
+    "FAN-M-013": {
+      "version": "csv-eacddfc",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "a2c02bf7",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Ron Weasley wird von Rupert Grint gespielt. Albus Dumbledore wird von Richard Harris gespielt."
+    },
+    "FAN-M-014": {
+      "version": "csv-90c58809",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "d5068932",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Ron Weasley wird von Rupert Grint gespielt. Hermine Granger wird von Emma Watson gespielt."
+    },
+    "FAN-S-013": {
+      "version": "csv-a4887267",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "9397d224",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Severus Snape wird von Alan Rickman gespielt. Quirinus Quirrell wird von Ian Hart gespielt. Ian Hart spricht Voldemort in der englischen Originalfassung der Schlussszene."
+    },
+    "FAN-S-014": {
+      "version": "csv-5032bbae",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "6aeabb69",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Albus Dumbledore wird von Richard Harris gespielt. Ian Hart spricht Voldemort in der englischen Originalfassung der Schlussszene."
+    },
+    "FAN-L-013-V1": {
+      "version": "csv-20c684e3",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "6b136b20",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Ron Weasley wird von Rupert Grint gespielt. Hermine Granger wird von Emma Watson gespielt."
+    },
+    "FAN-L-014-V1": {
+      "version": "csv-52359227",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "38fbc4bf",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Rubeus Hagrid wird von Robbie Coltrane gespielt."
+    },
+    "FAN-M-013-V1": {
+      "version": "csv-4a4222f9",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "e523e40a",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Ron Weasley wird von Rupert Grint gespielt. Albus Dumbledore wird von Richard Harris gespielt."
+    },
+    "FAN-M-014-V1": {
+      "version": "csv-fd629e0f",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "d918c259",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Ron Weasley wird von Rupert Grint gespielt. Hermine Granger wird von Emma Watson gespielt."
+    },
+    "FAN-S-013-V1": {
+      "version": "csv-74a63ab8",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "63dbcd20",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Severus Snape wird von Alan Rickman gespielt. Quirinus Quirrell wird von Ian Hart gespielt. Ian Hart spricht Voldemort in der englischen Originalfassung der Schlussszene."
+    },
+    "FAN-S-014-V1": {
+      "version": "csv-b2c374e7",
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "content": "2ac68696",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Albus Dumbledore wird von Richard Harris gespielt. Ian Hart spricht Voldemort in der englischen Originalfassung der Schlussszene."
+    },
+    "FAN-L-015": {
+      "version": "csv-9eb38924",
+      "film": "Harry Potter and the Chamber of Secrets|2002",
+      "content": "2f08e730",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Toby Jones spricht Dobby in der englischen Originalfassung."
+    },
+    "FAN-L-016": {
+      "version": "csv-fe5d8f92",
+      "film": "Harry Potter and the Chamber of Secrets|2002",
+      "content": "fdad2c25",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt."
+    },
+    "FAN-M-015": {
+      "version": "csv-ccd03a0e",
+      "film": "Harry Potter and the Chamber of Secrets|2002",
+      "content": "65a09dac",
+      "text": "Ginny Weasley wird von Bonnie Wright gespielt. Tom Riddle wird von Christian Coulson gespielt."
+    },
+    "FAN-M-016": {
+      "version": "csv-87dc7bf",
+      "film": "Harry Potter and the Chamber of Secrets|2002",
+      "content": "73020ce9",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Toby Jones spricht Dobby in der englischen Originalfassung. Lucius Malfoy wird von Jason Isaacs gespielt."
+    },
+    "FAN-S-015": {
+      "version": "csv-f1648af0",
+      "film": "Harry Potter and the Chamber of Secrets|2002",
+      "content": "5d050f2f",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Ginny Weasley wird von Bonnie Wright gespielt. Tom Riddle wird von Christian Coulson gespielt."
+    },
+    "FAN-S-016": {
+      "version": "csv-637ddd78",
+      "film": "Harry Potter and the Chamber of Secrets|2002",
+      "content": "cf158593",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Hermine Granger wird von Emma Watson gespielt."
+    },
+    "FAN-L-017": {
+      "version": "csv-69c96c8",
+      "film": "Harry Potter and the Prisoner of Azkaban|2004",
+      "content": "9c63c3a",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Sirius Black wird von Gary Oldman gespielt."
+    },
+    "FAN-L-018": {
+      "version": "csv-521c11fb",
+      "film": "Harry Potter and the Prisoner of Azkaban|2004",
+      "content": "fd86ab3",
+      "text": "Hermine Granger wird von Emma Watson gespielt."
+    },
+    "FAN-M-017": {
+      "version": "csv-f95ae2c3",
+      "film": "Harry Potter and the Prisoner of Azkaban|2004",
+      "content": "922bceda",
+      "text": "Ron Weasley wird von Rupert Grint gespielt. Sirius Black wird von Gary Oldman gespielt. Peter Pettigrew wird von Timothy Spall gespielt."
+    },
+    "FAN-M-018": {
+      "version": "csv-4f55f076",
+      "film": "Harry Potter and the Prisoner of Azkaban|2004",
+      "content": "68d48b73",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Sirius Black wird von Gary Oldman gespielt."
+    },
+    "FAN-S-017": {
+      "version": "csv-bcde6bbb",
+      "film": "Harry Potter and the Prisoner of Azkaban|2004",
+      "content": "777d8791",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Sirius Black wird von Gary Oldman gespielt."
+    },
+    "FAN-S-018": {
+      "version": "csv-ed40ca60",
+      "film": "Harry Potter and the Prisoner of Azkaban|2004",
+      "content": "46af0fd0",
+      "text": "Sirius Black wird von Gary Oldman gespielt. Peter Pettigrew wird von Timothy Spall gespielt. Remus Lupin wird von David Thewlis gespielt."
+    },
+    "FAN-L-019": {
+      "version": "csv-49f616ac",
+      "film": "Harry Potter and the Goblet of Fire|2005",
+      "content": "b8836d4a",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt."
+    },
+    "FAN-L-020": {
+      "version": "csv-8c6dfe0c",
+      "film": "Harry Potter and the Goblet of Fire|2005",
+      "content": "7b532a11",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Cedric Diggory wird von Robert Pattinson gespielt."
+    },
+    "FAN-M-019": {
+      "version": "csv-573aac53",
+      "film": "Harry Potter and the Goblet of Fire|2005",
+      "content": "b0900a70",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Neville Longbottom wird von Matthew Lewis gespielt."
+    },
+    "FAN-M-020": {
+      "version": "csv-470c201",
+      "film": "Harry Potter and the Goblet of Fire|2005",
+      "content": "bdd3bab",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Cedric Diggory wird von Robert Pattinson gespielt."
+    },
+    "FAN-S-019": {
+      "version": "csv-5dc784f0",
+      "film": "Harry Potter and the Goblet of Fire|2005",
+      "content": "2007dc0f",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. David Tennant spielt Barty Crouch Jr.; in dessen Moody-Verkleidung ist Brendan Gleeson zu sehen."
+    },
+    "FAN-S-020": {
+      "version": "csv-f257b535",
+      "film": "Harry Potter and the Goblet of Fire|2005",
+      "content": "4d8d0b03",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Voldemort wird von Ralph Fiennes gespielt. Peter Pettigrew wird von Timothy Spall gespielt."
+    },
+    "FAN-L-021": {
+      "version": "csv-29982028",
+      "film": "Harry Potter and the Order of the Phoenix|2007",
+      "content": "9050c421",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt."
+    },
+    "FAN-L-022": {
+      "version": "csv-884d8fc0",
+      "film": "Harry Potter and the Order of the Phoenix|2007",
+      "content": "ccb9385c",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Albus Dumbledore wird von Michael Gambon gespielt."
+    },
+    "FAN-M-021": {
+      "version": "csv-da27b714",
+      "film": "Harry Potter and the Order of the Phoenix|2007",
+      "content": "56c683bc",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Dolores Umbridge wird von Imelda Staunton gespielt."
+    },
+    "FAN-M-022": {
+      "version": "csv-f854f8ec",
+      "film": "Harry Potter and the Order of the Phoenix|2007",
+      "content": "f6dd9b20",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Voldemort wird von Ralph Fiennes gespielt. Bellatrix Lestrange wird von Helena Bonham Carter gespielt."
+    },
+    "FAN-S-021": {
+      "version": "csv-b6ba6e53",
+      "film": "Harry Potter and the Order of the Phoenix|2007",
+      "content": "7d00b835",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Sirius Black wird von Gary Oldman gespielt. Voldemort wird von Ralph Fiennes gespielt."
+    },
+    "FAN-S-022": {
+      "version": "csv-b3ced319",
+      "film": "Harry Potter and the Order of the Phoenix|2007",
+      "content": "691a3b92",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Voldemort wird von Ralph Fiennes gespielt. Severus Snape wird von Alan Rickman gespielt."
+    },
+    "FAN-L-023": {
+      "version": "csv-7b67c888",
+      "film": "Harry Potter and the Half-Blood Prince|2009",
+      "content": "5178d978",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt."
+    },
+    "FAN-L-024": {
+      "version": "csv-bd6d18a0",
+      "film": "Harry Potter and the Half-Blood Prince|2009",
+      "content": "534c6b7a",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Albus Dumbledore wird von Michael Gambon gespielt."
+    },
+    "FAN-M-023": {
+      "version": "csv-8c9ce5ac",
+      "film": "Harry Potter and the Half-Blood Prince|2009",
+      "content": "b414f737",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt."
+    },
+    "FAN-M-024": {
+      "version": "csv-93931a0d",
+      "film": "Harry Potter and the Half-Blood Prince|2009",
+      "content": "ab6bd363",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Draco Malfoy wird von Tom Felton gespielt."
+    },
+    "FAN-S-023": {
+      "version": "csv-f95f089f",
+      "film": "Harry Potter and the Half-Blood Prince|2009",
+      "content": "e9320b5a",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Albus Dumbledore wird von Michael Gambon gespielt."
+    },
+    "FAN-S-024": {
+      "version": "csv-8509ce36",
+      "film": "Harry Potter and the Half-Blood Prince|2009",
+      "content": "c019d701",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Horace Slughorn wird von Jim Broadbent gespielt. Albus Dumbledore wird von Michael Gambon gespielt. Frank Dillane spielt den jugendlichen Tom Riddle in Slughorns Erinnerung."
+    },
+    "FAN-L-025": {
+      "version": "csv-b477949b",
+      "film": "Harry Potter and the Deathly Hallows – Part 1|2010",
+      "content": "e45ae017",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Ron Weasley wird von Rupert Grint gespielt. Hermine Granger wird von Emma Watson gespielt. Voldemort wird von Ralph Fiennes gespielt."
+    },
+    "FAN-L-026": {
+      "version": "csv-aace0eaa",
+      "film": "Harry Potter and the Deathly Hallows – Part 1|2010",
+      "content": "3f6ab00",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Toby Jones spricht Dobby in der englischen Originalfassung."
+    },
+    "FAN-M-025": {
+      "version": "csv-8457114",
+      "film": "Harry Potter and the Deathly Hallows – Part 1|2010",
+      "content": "46eaa3b9",
+      "text": "Ron Weasley wird von Rupert Grint gespielt. Albus Dumbledore wird von Michael Gambon gespielt."
+    },
+    "FAN-M-026": {
+      "version": "csv-db88afc8",
+      "film": "Harry Potter and the Deathly Hallows – Part 1|2010",
+      "content": "80bef5f0",
+      "text": "Ron Weasley wird von Rupert Grint gespielt."
+    },
+    "FAN-S-025": {
+      "version": "csv-d6ac8655",
+      "film": "Harry Potter and the Deathly Hallows – Part 1|2010",
+      "content": "e0c9d83a",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Voldemort wird von Ralph Fiennes gespielt. Xenophilius Lovegood wird von Rhys Ifans gespielt. Luna Lovegood wird von Evanna Lynch gespielt."
+    },
+    "FAN-S-026": {
+      "version": "csv-ac01ed9c",
+      "film": "Harry Potter and the Deathly Hallows – Part 1|2010",
+      "content": "76149b75",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Hermine Granger wird von Emma Watson gespielt."
+    },
+    "FAN-L-027": {
+      "version": "csv-9189b98",
+      "film": "Harry Potter and the Deathly Hallows – Part 2|2011",
+      "content": "880593c6",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt."
+    },
+    "FAN-L-028": {
+      "version": "csv-7206cbab",
+      "film": "Harry Potter and the Deathly Hallows – Part 2|2011",
+      "content": "2bbdb26b",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Neville Longbottom wird von Matthew Lewis gespielt."
+    },
+    "FAN-M-027": {
+      "version": "csv-ecd208d0",
+      "film": "Harry Potter and the Deathly Hallows – Part 2|2011",
+      "content": "725f1caa",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Ron Weasley wird von Rupert Grint gespielt. Hermine Granger wird von Emma Watson gespielt."
+    },
+    "FAN-M-028": {
+      "version": "csv-8bc44579",
+      "film": "Harry Potter and the Deathly Hallows – Part 2|2011",
+      "content": "d2f22f77",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Lily Potter wird von Geraldine Somerville gespielt."
+    },
+    "FAN-S-027": {
+      "version": "csv-704f9d0",
+      "film": "Harry Potter and the Deathly Hallows – Part 2|2011",
+      "content": "2697bd5e",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt. Voldemort wird von Ralph Fiennes gespielt. Albus Dumbledore wird von Michael Gambon gespielt. Draco Malfoy wird von Tom Felton gespielt."
+    },
+    "FAN-S-028": {
+      "version": "csv-a47b5e64",
+      "film": "Harry Potter and the Deathly Hallows – Part 2|2011",
+      "content": "9a90ebfa",
+      "text": "Harry Potter wird von Daniel Radcliffe gespielt."
+    },
+    "FAN-L-029": {
+      "version": "csv-7bf087b5",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "e3d0d2ee",
+      "text": "Lucy Pevensie wird von Georgie Henley gespielt."
+    },
+    "FAN-L-030": {
+      "version": "csv-c46f8043",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "daf98859",
+      "text": "Liam Neeson spricht Aslan in der englischen Originalfassung."
+    },
+    "FAN-M-029": {
+      "version": "csv-f84e1a33",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "4680fe05",
+      "text": "Edmund Pevensie wird von Skandar Keynes gespielt."
+    },
+    "FAN-M-030": {
+      "version": "csv-37123151",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "c3f03c42",
+      "text": "Lucy Pevensie wird von Georgie Henley gespielt."
+    },
+    "FAN-S-029": {
+      "version": "csv-36ef7a0a",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "3e1cc1f6",
+      "text": "Lucy Pevensie wird von Georgie Henley gespielt. Edmund Pevensie wird von Skandar Keynes gespielt. Susan Pevensie wird von Anna Popplewell gespielt. Liam Neeson spricht Aslan in der englischen Originalfassung. Die Weiße Hexe wird von Tilda Swinton gespielt."
+    },
+    "FAN-S-030": {
+      "version": "csv-58dbb666",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "c1273b73",
+      "text": "Die erwachsenen Pevensies spielen Noah Huntley (Peter), Sophie Winkleman (Susan), Mark Wells (Edmund) und Rachael Henley (Lucy). Als Kinder sind William Moseley, Anna Popplewell, Skandar Keynes und Georgie Henley zu sehen."
+    },
+    "FAN-L-029-V1": {
+      "version": "csv-ff6bff41",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "bf589865",
+      "text": "Lucy Pevensie wird von Georgie Henley gespielt."
+    },
+    "FAN-L-030-V1": {
+      "version": "csv-b0cbed51",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "abfa0f7f",
+      "text": "Liam Neeson spricht Aslan in der englischen Originalfassung."
+    },
+    "FAN-M-029-V1": {
+      "version": "csv-a624691d",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "4b80773f",
+      "text": "Edmund Pevensie wird von Skandar Keynes gespielt."
+    },
+    "FAN-M-030-V1": {
+      "version": "csv-fe2b845e",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "433d86b",
+      "text": "Lucy Pevensie wird von Georgie Henley gespielt."
+    },
+    "FAN-S-029-V1": {
+      "version": "csv-faca5ceb",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "aa644f91",
+      "text": "Lucy Pevensie wird von Georgie Henley gespielt. Edmund Pevensie wird von Skandar Keynes gespielt. Susan Pevensie wird von Anna Popplewell gespielt. Liam Neeson spricht Aslan in der englischen Originalfassung."
+    },
+    "FAN-S-030-V1": {
+      "version": "csv-4ce33f19",
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "content": "c5d51679",
+      "text": "Die erwachsenen Pevensies spielen Noah Huntley (Peter), Sophie Winkleman (Susan), Mark Wells (Edmund) und Rachael Henley (Lucy). Als Kinder sind William Moseley, Anna Popplewell, Skandar Keynes und Georgie Henley zu sehen."
+    },
+    "FAN-L-031": {
+      "version": "csv-4e59fc23",
+      "film": "The Chronicles of Narnia: Prince Caspian|2008",
+      "content": "80a0649e",
+      "text": "Miraz wird von Sergio Castellitto gespielt."
+    },
+    "FAN-L-032": {
+      "version": "csv-4aaa1165",
+      "film": "The Chronicles of Narnia: Prince Caspian|2008",
+      "content": "4990123",
+      "text": "Eddie Izzard spricht Riepischiep in der englischen Originalfassung."
+    },
+    "FAN-M-031": {
+      "version": "csv-deae01fa",
+      "film": "The Chronicles of Narnia: Prince Caspian|2008",
+      "content": "79998709",
+      "text": "Prinz Kaspian wird von Ben Barnes gespielt. Susan Pevensie wird von Anna Popplewell gespielt."
+    },
+    "FAN-S-031": {
+      "version": "csv-54b114d1",
+      "film": "The Chronicles of Narnia: Prince Caspian|2008",
+      "content": "5b65367e",
+      "text": "Edmund Pevensie wird von Skandar Keynes gespielt. Die Weiße Hexe wird von Tilda Swinton gespielt."
+    },
+    "FAN-S-032": {
+      "version": "csv-7bb92789",
+      "film": "The Chronicles of Narnia: Prince Caspian|2008",
+      "content": "bd891c0e",
+      "text": "Prinz Kaspian wird von Ben Barnes gespielt. Miraz wird von Sergio Castellitto gespielt. Dr. Cornelius wird von Vincent Grass gespielt."
+    },
+    "FAN-L-034": {
+      "version": "csv-70c4bb1d",
+      "film": "The Chronicles of Narnia: The Voyage of the Dawn Treader|2010",
+      "content": "72f02f06",
+      "text": "Eustachius Scrubb wird von Will Poulter gespielt. Lucy Pevensie wird von Georgie Henley gespielt. Edmund Pevensie wird von Skandar Keynes gespielt."
+    },
+    "FAN-M-033": {
+      "version": "csv-50557b2d",
+      "film": "The Chronicles of Narnia: The Voyage of the Dawn Treader|2010",
+      "content": "8ab776f4",
+      "text": "Eustachius Scrubb wird von Will Poulter gespielt. Lucy Pevensie wird von Georgie Henley gespielt. Edmund Pevensie wird von Skandar Keynes gespielt."
+    },
+    "FAN-M-034": {
+      "version": "csv-c4dd93b3",
+      "film": "The Chronicles of Narnia: The Voyage of the Dawn Treader|2010",
+      "content": "279e3542",
+      "text": "Eustachius Scrubb wird von Will Poulter gespielt. Simon Pegg spricht Riepischiep in der englischen Originalfassung."
+    },
+    "FAN-S-033": {
+      "version": "csv-15078ef5",
+      "film": "The Chronicles of Narnia: The Voyage of the Dawn Treader|2010",
+      "content": "c67b0e06",
+      "text": "Liam Neeson spricht Aslan in der englischen Originalfassung."
+    },
+    "FAN-S-034": {
+      "version": "csv-ca425bdd",
+      "film": "The Chronicles of Narnia: The Voyage of the Dawn Treader|2010",
+      "content": "78ce5d5",
+      "text": "Lucy Pevensie wird von Georgie Henley gespielt. Susan Pevensie wird von Anna Popplewell gespielt. Liam Neeson spricht Aslan in der englischen Originalfassung."
+    },
+    "FAN-L-035": {
+      "version": "csv-45d25c88",
+      "film": "The Princess Bride|1987",
+      "content": "517b54ff",
+      "text": "Prinz Humperdinck wird von Chris Sarandon gespielt."
+    },
+    "FAN-M-035": {
+      "version": "csv-5448e3db",
+      "film": "The Princess Bride|1987",
+      "content": "ab9ca64d",
+      "text": "Buttercup wird von Robin Wright gespielt."
+    },
+    "FAN-M-036": {
+      "version": "csv-61ca4dd8",
+      "film": "The Princess Bride|1987",
+      "content": "8ef264c",
+      "text": "Inigo Montoya wird von Mandy Patinkin gespielt. Graf Rugen wird von Christopher Guest gespielt."
+    },
+    "FAN-S-035": {
+      "version": "csv-91b947a9",
+      "film": "The Princess Bride|1987",
+      "content": "45e4bf99",
+      "text": "Westley wird von Cary Elwes gespielt. Vizzini wird von Wallace Shawn gespielt."
+    },
+    "FAN-S-036": {
+      "version": "csv-d6a96ecd",
+      "film": "The Princess Bride|1987",
+      "content": "8e058bfa",
+      "text": "Westley wird von Cary Elwes gespielt."
+    },
+    "FAN-L-037": {
+      "version": "csv-29b6e2ea",
+      "film": "The Dark Crystal|1982",
+      "content": "cc17864b",
+      "text": "Jim Henson führt die Jen-Puppe; Stephen Garlick liefert die englische Originalstimme."
+    },
+    "FAN-L-038": {
+      "version": "csv-2bf9a009",
+      "film": "The Dark Crystal|1982",
+      "content": "437d51df",
+      "text": "Jim Henson führt die Jen-Puppe; Stephen Garlick liefert die englische Originalstimme."
+    },
+    "FAN-M-037": {
+      "version": "csv-b080bbbe",
+      "film": "The Dark Crystal|1982",
+      "content": "6d9623fc",
+      "text": "Jim Henson führt die Jen-Puppe; Stephen Garlick liefert die englische Originalstimme. Kathryn Mullen führt die Kira-Puppe; Lisa Maxwell liefert die englische Originalstimme."
+    },
+    "FAN-S-037": {
+      "version": "csv-b840bca9",
+      "film": "The Dark Crystal|1982",
+      "content": "7352cd26",
+      "text": "Jim Henson führt die Jen-Puppe; Stephen Garlick liefert die englische Originalstimme. Frank Oz führt die Aughra-Puppe; Billie Whitelaw liefert die englische Originalstimme."
+    },
+    "FAN-S-038": {
+      "version": "csv-231d01ae",
+      "film": "The Dark Crystal|1982",
+      "content": "1bc22655",
+      "text": "Jim Henson führt die Jen-Puppe; Stephen Garlick liefert die englische Originalstimme."
+    },
+    "FAN-L-039": {
+      "version": "csv-8f2a8aa7",
+      "film": "The NeverEnding Story|1984",
+      "content": "6820e9ae",
+      "text": "Atréju wird von Noah Hathaway gespielt. Alan Oppenheimer spricht den Glücksdrachen Fuchur in der englischen Fassung."
+    },
+    "FAN-L-040": {
+      "version": "csv-bc55aae2",
+      "film": "The NeverEnding Story|1984",
+      "content": "83a89980",
+      "text": "Atréju wird von Noah Hathaway gespielt."
+    },
+    "FAN-M-040": {
+      "version": "csv-45937046",
+      "film": "The NeverEnding Story|1984",
+      "content": "96dc92d5",
+      "text": "Atréju wird von Noah Hathaway gespielt."
+    },
+    "FAN-S-039": {
+      "version": "csv-19aae435",
+      "film": "The NeverEnding Story|1984",
+      "content": "fcca69b7",
+      "text": "Bastian Balthasar Bux wird von Barret Oliver gespielt. Atréju wird von Noah Hathaway gespielt."
+    },
+    "FAN-S-040": {
+      "version": "csv-2a035a2",
+      "film": "The NeverEnding Story|1984",
+      "content": "b39c9a78",
+      "text": "Bastian Balthasar Bux wird von Barret Oliver gespielt. Die Kindliche Kaiserin wird von Tami Stronach gespielt."
+    },
+    "FAN-L-039-V1": {
+      "version": "csv-bce6f1d9",
+      "film": "The NeverEnding Story|1984",
+      "content": "c39479be",
+      "text": "Atréju wird von Noah Hathaway gespielt. Alan Oppenheimer spricht den Glücksdrachen Fuchur in der englischen Fassung."
+    },
+    "FAN-L-040-V1": {
+      "version": "csv-ba1df8e1",
+      "film": "The NeverEnding Story|1984",
+      "content": "34966fb6",
+      "text": "Atréju wird von Noah Hathaway gespielt."
+    },
+    "FAN-M-040-V1": {
+      "version": "csv-38a00ea6",
+      "film": "The NeverEnding Story|1984",
+      "content": "e0aea538",
+      "text": "Atréju wird von Noah Hathaway gespielt."
+    },
+    "FAN-S-039-V1": {
+      "version": "csv-fda0d3a2",
+      "film": "The NeverEnding Story|1984",
+      "content": "92e5d32e",
+      "text": "Bastian Balthasar Bux wird von Barret Oliver gespielt. Atréju wird von Noah Hathaway gespielt."
+    },
+    "FAN-S-040-V1": {
+      "version": "csv-d6557414",
+      "film": "The NeverEnding Story|1984",
+      "content": "ce43e802",
+      "text": "Bastian Balthasar Bux wird von Barret Oliver gespielt."
+    },
+    "FAN-L-041": {
+      "version": "csv-57e3fcc5",
+      "film": "Labyrinth|1986",
+      "content": "dc2082f4",
+      "text": "Sarah Williams wird von Jennifer Connelly gespielt."
+    },
+    "FAN-L-042": {
+      "version": "csv-8b2d6d42",
+      "film": "Labyrinth|1986",
+      "content": "46b2ee10",
+      "text": "Jareth wird von David Bowie gespielt. Toby wird von Toby Froud gespielt."
+    },
+    "FAN-M-041": {
+      "version": "csv-aca0fdbd",
+      "film": "Labyrinth|1986",
+      "content": "bcd10f49",
+      "text": "Sarah Williams wird von Jennifer Connelly gespielt. Ron Mueck und Rob Mills bedienen Ludo; Mueck liefert auch die englische Originalstimme."
+    },
+    "FAN-M-042": {
+      "version": "csv-c4380a42",
+      "film": "Labyrinth|1986",
+      "content": "8ed8fba4",
+      "text": "Sarah Williams wird von Jennifer Connelly gespielt. Jareth wird von David Bowie gespielt. Shari Weiser steckt im Hoggle-Kostüm; Brian Henson führt die Gesichtspuppe und liefert die englische Originalstimme."
+    },
+    "FAN-S-041": {
+      "version": "csv-26e477c0",
+      "film": "Labyrinth|1986",
+      "content": "54e489d7",
+      "text": "Sarah Williams wird von Jennifer Connelly gespielt. Jareth wird von David Bowie gespielt."
+    },
+    "FAN-S-042": {
+      "version": "csv-614d490",
+      "film": "Labyrinth|1986",
+      "content": "bde03437",
+      "text": "Sarah Williams wird von Jennifer Connelly gespielt. Shari Weiser steckt im Hoggle-Kostüm; Brian Henson führt die Gesichtspuppe und liefert die englische Originalstimme."
+    },
+    "FAN-L-043": {
+      "version": "csv-ad691d8c",
+      "film": "Legend|1985",
+      "content": "5e36af",
+      "text": "Lili wird von Mia Sara gespielt."
+    },
+    "FAN-L-044": {
+      "version": "csv-369e5c96",
+      "film": "Legend|1985",
+      "content": "1fa3438a",
+      "text": "Der Herr der Finsternis wird von Tim Curry gespielt."
+    },
+    "FAN-M-043": {
+      "version": "csv-ec58729",
+      "film": "Legend|1985",
+      "content": "1f8bfc73",
+      "text": "Jack wird von Tom Cruise gespielt. Lili wird von Mia Sara gespielt."
+    },
+    "FAN-M-044": {
+      "version": "csv-cacfa22a",
+      "film": "Legend|1985",
+      "content": "2c0091c0",
+      "text": "Lili wird von Mia Sara gespielt."
+    },
+    "FAN-S-043": {
+      "version": "csv-6a235353",
+      "film": "Legend|1985",
+      "content": "15a7f6b4",
+      "text": "Jack wird von Tom Cruise gespielt."
+    },
+    "FAN-S-044": {
+      "version": "csv-4626c640",
+      "film": "Legend|1985",
+      "content": "fe58ea0f",
+      "text": "Lili wird von Mia Sara gespielt."
+    },
+    "FAN-L-045": {
+      "version": "csv-61af72e0",
+      "film": "Stardust|2007",
+      "content": "829a595",
+      "text": "Tristan Thorn wird von Charlie Cox gespielt."
+    },
+    "FAN-L-046": {
+      "version": "csv-21770dda",
+      "film": "Stardust|2007",
+      "content": "ed25738",
+      "text": "Victoria wird von Sienna Miller gespielt."
+    },
+    "FAN-M-046": {
+      "version": "csv-2507b688",
+      "film": "Stardust|2007",
+      "content": "eed6a81d",
+      "text": "Tristan Thorn wird von Charlie Cox gespielt. Yvaine wird von Claire Danes gespielt."
+    },
+    "FAN-S-045": {
+      "version": "csv-c711072a",
+      "film": "Stardust|2007",
+      "content": "acad463c",
+      "text": "Tristan Thorn wird von Charlie Cox gespielt. Yvaine wird von Claire Danes gespielt."
+    },
+    "FAN-S-046": {
+      "version": "csv-4d4c2275",
+      "film": "Stardust|2007",
+      "content": "d2783b54",
+      "text": "Tristan Thorn wird von Charlie Cox gespielt. Una wird von Kate Magowan gespielt."
+    },
+    "FAN-L-045-V1": {
+      "version": "csv-c9c50123",
+      "film": "Stardust|2007",
+      "content": "e15c62a6",
+      "text": "Tristan Thorn wird von Charlie Cox gespielt."
+    },
+    "FAN-L-046-V1": {
+      "version": "csv-7d9f8d1f",
+      "film": "Stardust|2007",
+      "content": "257e05b8",
+      "text": "Victoria wird von Sienna Miller gespielt."
+    },
+    "FAN-M-046-V1": {
+      "version": "csv-7b3eba0d",
+      "film": "Stardust|2007",
+      "content": "33c99564",
+      "text": "Tristan Thorn wird von Charlie Cox gespielt. Yvaine wird von Claire Danes gespielt."
+    },
+    "FAN-S-045-V1": {
+      "version": "csv-9069832d",
+      "film": "Stardust|2007",
+      "content": "351483ad",
+      "text": "Tristan Thorn wird von Charlie Cox gespielt. Yvaine wird von Claire Danes gespielt."
+    },
+    "FAN-S-046-V1": {
+      "version": "csv-aa70827a",
+      "film": "Stardust|2007",
+      "content": "3269c220",
+      "text": "Tristan Thorn wird von Charlie Cox gespielt. Una wird von Kate Magowan gespielt."
+    },
+    "FAN-L-047": {
+      "version": "csv-d945004e",
+      "film": "El laberinto del fauno|2006",
+      "content": "92ef28f9",
+      "text": "Doug Jones verkörpert den Faun; Pablo Adán liefert seine spanische Originalstimme."
+    },
+    "FAN-M-047": {
+      "version": "csv-39bba63b",
+      "film": "El laberinto del fauno|2006",
+      "content": "546203fd",
+      "text": "Ofelia wird von Ivana Baquero gespielt. Doug Jones stellt auch den Bleichen Mann dar."
+    },
+    "FAN-S-047": {
+      "version": "csv-c51058d3",
+      "film": "El laberinto del fauno|2006",
+      "content": "14df5858",
+      "text": "Ofelia wird von Ivana Baquero gespielt. Doug Jones verkörpert den Faun; Pablo Adán liefert seine spanische Originalstimme."
+    },
+    "FAN-S-048": {
+      "version": "csv-b5fcb1fe",
+      "film": "El laberinto del fauno|2006",
+      "content": "e722e65",
+      "text": "Vidal wird von Sergi López gespielt. Mercedes wird von Maribel Verdú gespielt."
+    },
+    "FAN-L-050": {
+      "version": "csv-8e3c087e",
+      "film": "Edward Scissorhands|1990",
+      "content": "56b52390",
+      "text": "Edward wird von Johnny Depp gespielt."
+    },
+    "FAN-M-049": {
+      "version": "csv-ce4fbf93",
+      "film": "Edward Scissorhands|1990",
+      "content": "829544fe",
+      "text": "Edward wird von Johnny Depp gespielt."
+    },
+    "FAN-M-050": {
+      "version": "csv-be04e315",
+      "film": "Edward Scissorhands|1990",
+      "content": "6dff9a7c",
+      "text": "Edward wird von Johnny Depp gespielt."
+    },
+    "FAN-S-049": {
+      "version": "csv-d238a2c",
+      "film": "Edward Scissorhands|1990",
+      "content": "e535eae0",
+      "text": "Edward wird von Johnny Depp gespielt. Jim wird von Anthony Michael Hall gespielt."
+    },
+    "FAN-S-050": {
+      "version": "csv-39671029",
+      "film": "Edward Scissorhands|1990",
+      "content": "b19490a5",
+      "text": "Edward wird von Johnny Depp gespielt. Kim Boggs wird von Winona Ryder gespielt."
+    }
+  }
+}

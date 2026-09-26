@@ -4,7 +4,8 @@
 
 - Spielbare deutsche React-/TypeScript-Testversion mit Entdecken, Besser werden und Rekordrunde umgesetzt.
 - Filmgenres und Schwierigkeitsstufen als Mehrfachauswahl; einzelne Filme/Reihen nur als optionale Verfeinerung. Alte Runden und Spielstände bleiben erhalten.
-- Schwierigkeit jeder einzelnen Frage vor und nach der Antwort sichtbar. Geprüfte Darstellerergänzung zu Conjuring in der Vertiefung; systematische Überarbeitung der übrigen Erklärungen noch offen.
+- Genre und Schwierigkeit jeder Frage sichtbar, unabhängig abschaltbar und gespeichert. Alle 720 Vertiefungen auf Darstellernamen geprüft; 627 Ergänzungen zu 125 Filmen, mit Quellen und versionsgenauer Zuordnung. Rohfragen und Spielstände erhalten.
+- Persönliche Bestenliste aller abgeschlossenen Rekordspiele, filterbar nach Genre-Kombination, Stufen und Rundengröße; vergleichbare Kategorien getrennt, Spiele mit Rückblick. Lokal und offline, gemeinsame Konten weiterhin offen.
 - Kurze abschaltbare Soundeffekte, optionale Vibration, Genre-Icons und deutlicher gesperrter/erworbener Zustand des vorhandenen Sci-Fi-Abzeichens. Weitere Genre-Abzeichen noch offen.
 - 720 gelieferte Fragen aus Sci-Fi, Action, Horror und Fantasy, 600 Wissensziele und 120 Varianten; 88 Themen. Sämtliche Datensätze strukturell akzeptiert.
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.

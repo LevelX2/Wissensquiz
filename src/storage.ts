@@ -89,6 +89,8 @@ const stateSchema = z.object({
     spoilers: z.boolean(),
     sound: z.boolean().optional(),
     haptics: z.boolean().optional(),
+    showGenre: z.boolean().optional(),
+    showDifficulty: z.boolean().optional(),
   }),
   experience: z.number().int().nonnegative(),
   records: z.record(

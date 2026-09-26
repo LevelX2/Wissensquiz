@@ -124,7 +124,13 @@ export interface State {
   favorites: string[];
   reports: Report[];
   imports: ImportReport[];
-  settings: { spoilers: boolean; sound?: boolean; haptics?: boolean };
+  settings: {
+    spoilers: boolean;
+    sound?: boolean;
+    haptics?: boolean;
+    showGenre?: boolean;
+    showDifficulty?: boolean;
+  };
   experience: number;
   records: Record<string, { points: number; roundId: string }>;
 }
@@ -138,7 +144,13 @@ export const emptyState = (questions: Question[] = []): State => ({
   favorites: [],
   reports: [],
   imports: [],
-  settings: { spoilers: false, sound: true, haptics: false },
+  settings: {
+    spoilers: false,
+    sound: true,
+    haptics: false,
+    showGenre: true,
+    showDifficulty: true,
+  },
   experience: 0,
   records: {},
 });

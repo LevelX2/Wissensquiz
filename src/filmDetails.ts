@@ -1,31 +1,41 @@
 import type { Question } from "./model";
+import { fingerprint } from "./importer";
+import editorial from "./castEditorial.json";
 
-interface FilmDetails {
-  cast: { role: string; actor: string }[];
-  source: string;
-  checkedAt: string;
-}
-
-// Editorial additions are separate from imported questions and saved rounds.
-// Original title and year distinguish adaptations and remakes.
-const details = new Map<string, FilmDetails>([
-  [
-    "The Conjuring|2013",
-    {
-      cast: [
-        { role: "Ed Warren", actor: "Patrick Wilson" },
-        { role: "Lorraine Warren", actor: "Vera Farmiga" },
-        { role: "Roger Perron", actor: "Ron Livingston" },
-        { role: "Carolyn Perron", actor: "Lili Taylor" },
-      ],
-      source: "https://catalog.afi.com/Catalog/MovieDetails/69558",
-      checkedAt: "2026-09-26",
-    },
-  ],
-]);
-
-export function filmDetails(q: Question): FilmDetails | undefined {
-  return details.get(
-    `${q.metadata.film_title_original}|${q.metadata.film_year}`,
-  );
+// Editorial text never mutates imported questions or historical round snapshots.
+// ID, original version, film/year and displayed content must all match the review.
+export function filmDetails(q: Question) {
+  const entry = (
+    editorial.questions as Record<
+      string,
+      {
+        version: string;
+        film: string;
+        content: string;
+        text: string;
+      }
+    >
+  )[q.id];
+  if (
+    !entry?.text ||
+    entry.version !== q.version ||
+    entry.film !==
+      `${q.metadata.film_title_original}|${q.metadata.film_year}` ||
+    entry.content !==
+      fingerprint(JSON.stringify([q.question, q.explanation, q.context]))
+  )
+    return undefined;
+  const film = (
+    editorial.films as Record<
+      string,
+      { source: string; additionalSource?: string }
+    >
+  )[entry.film];
+  return {
+    text: entry.text,
+    sources: [
+      film.source,
+      ...(film.additionalSource ? [film.additionalSource] : []),
+    ],
+  };
 }

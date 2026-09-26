@@ -1,26 +1,23 @@
 # Erklärungstiefe und redaktionelle Ergänzungen
 
-## Maßstab aus dem Nutzerfeedback
+## Maßstab
 
-„Etwas tiefer eintauchen“ soll über die kurze Lösung hinausgehen. Stehen Figuren im Mittelpunkt, sollen die betreffenden Rollen nach Möglichkeit mit ihren Schauspielern genannt werden. Die gelieferten CSV-Pakete erfüllen dies bisher unterschiedlich; eine vollständige redaktionelle Prüfung aller vier Genres steht noch aus.
+„Etwas tiefer eintauchen“ soll über die kurze Lösung hinausgehen. Figuren, die in Frage, Lösung oder Vertiefung im Mittelpunkt stehen, werden mit ihren Darstellern verbunden. Ergänzungen bleiben knapp und beziehen sich auf den jeweiligen Film und das Erscheinungsjahr. Reine Orts-, Technik-, Kreaturen- oder Regiefragen erhalten keine beliebige komplette Besetzungsliste.
 
-## Geprüfte Ergänzung: Conjuring – Die Heimsuchung (2013)
+## Prüfung am 26.09.2026
 
-Die leichte Frage `HOR-L-045` fragt nach Ed und Lorraine Warren. Ihr ursprünglicher Kontext erläutert das Paar, nennt jedoch keine Darsteller. Das ist eine Inhaltslücke in der gelieferten CSV, kein Ausblenden durch die Horror-Oberfläche.
+Alle **720 Fragen einschließlich Varianten** aus Sci-Fi, Action, Horror und Fantasy wurden auf diesen Aspekt geprüft: **125 Filme**, **627 Fragen mit ergänzter Vertiefung**, **64 bereits mit den betreffenden Darstellern versehene Fragen**, **29 ohne zusätzliche einzelne gespielte Figur im Mittelpunkt**. Varianten werden einzeln gegen ihren Originalinhalt geprüft, auch wenn sie denselben Kontext teilen.
 
-Am 26.09.2026 anhand der [Besetzung im AFI-Filmkatalog](https://catalog.afi.com/Catalog/MovieDetails/69558) geprüft:
+Der vollständige [Prüfnachweis](Darstellerpruefung.json) enthält für jede Frage die Inhaltsversion, den Inhaltsfingerabdruck, Film/Jahr, zugeordnete Rollen, Ergänzung und Entscheidung; die Filmliste enthält die nachgeschlagenen Quellen. Basis sind die Besetzungsabschnitte der verlinkten Filmartikel, ergänzend der AFI-Katalog zu Conjuring und die offiziellen Back-to-the-Future-Credits. Das ist eine Besetzungsprüfung anhand dieser Quellen, keine unabhängige Sichtung aller Filme oder Prüfung sämtlicher Handlungsaussagen.
 
-| Figur | Schauspieler |
-| --- | --- |
-| Ed Warren | Patrick Wilson |
-| Lorraine Warren | Vera Farmiga |
-| Roger Perron | Ron Livingston |
-| Carolyn Perron | Lili Taylor |
+Besonders berücksichtigt: Richard Harris/Michael Gambon als Dumbledore, Ian Holm/Martin Freeman als Bilbo, Eddie Izzard/Simon Pegg als Riepischiep, unterschiedliche Michael-Myers-Darsteller, Jasons maskierte/unmaskierte Darstellung, kindliche/erwachsene Figuren, Puppenspiel und digitale Figuren. Originalstimmen sind ausdrücklich als solche bezeichnet; deutsche Synchronstimmen werden damit nicht behauptet.
 
-Diese Zuordnungen erscheinen bei den sechs enthaltenen Fragen zu diesem Film in der aufklappbaren Vertiefung nach der Antwort, mit direktem Quellenlink. Sie gelten für den Spielfilm und treffen keine Aussage über die Realität übernatürlicher Ereignisse.
+Die leichte Conjuring-Frage `HOR-L-045` nennt Patrick Wilson als Ed Warren, Vera Farmiga als Lorraine Warren, Ron Livingston als Roger Perron und Lili Taylor als Carolyn Perron. Die Ergänzungen zu den anderen Fragen passen zu den jeweils angesprochenen Figuren; Bathsheba wird Joseph Bishara zugeordnet. [AFI-Besetzung](https://catalog.afi.com/Catalog/MovieDetails/69558), [Filmartikel](https://en.wikipedia.org/wiki/The_Conjuring).
 
-## Trennung von Rohinhalt und Ergänzung
+## Rohinhalt, Anzeige und Pflege
 
-`src/filmDetails.ts` enthält separat gepflegte Angaben mit Prüfdatum und Quelle. Zuordnung nach Originaltitel und Erscheinungsjahr, damit Remakes und Fortsetzungen nicht vermischt werden. Die Ergänzung wird nur in der Erklärung angezeigt; Roh-CSV, importierte Frageversionen und historische Rundensnapshots bleiben unverändert. Daher ist sie nach dem App-Update auch in bestehenden gespeicherten Runden sichtbar, ohne Migration von Spielständen. Der Text wird mit der App offline ausgeliefert; der externe Quellenlink benötigt Internet.
+`src/castEditorial.json` enthält ausschließlich die ausgelieferten Ergänzungen samt Quellen und Schutzschlüsseln. `src/filmDetails.ts` prüft Fragen-ID, Originalversion, Originaltitel/Jahr und einen Fingerabdruck von Frage, Kurzlösung und Kontext. Fremde oder geänderte Imports erhalten dadurch keine unpassenden Ergänzungen. Die redaktionellen Entscheidungen werden ausdrücklich gepflegt; es gibt keine automatische Namensvermutung zur Laufzeit.
 
-Die übrigen Horror-Erklärungen und die anderen Genres wurden dadurch nicht pauschal fachlich geprüft oder ergänzt. Weitere Lücken sind anhand verlässlicher Besetzungsquellen zu bearbeiten.
+Die Ergänzung erscheint erst nach der Antwort in der zunächst geschlossenen Vertiefung und im Rundenrückblick. Roh-CSV, importierte Frageversionen und historische Rundensnapshots bleiben unverändert. Bestehende passende Runden zeigen den Zusatz nach dem App-Update ohne Datenmigration. Die Texte gehören zum Offline-Build; Quellenlinks benötigen Netz. Der JSON-Spielstand enthält weiter die Originalfragen, während die redaktionellen Zusätze zur App-Version gehören.
+
+Bei künftigen Inhaltsänderungen die betroffenen Quellen erneut prüfen, den Eintrag im Prüfnachweis und im Laufzeitbestand gemeinsam aktualisieren und die Versions-/Inhaltsprüfung in `tests/editorial.test.ts` ausführen. Neue CSV-Pakete benötigen eine eigene redaktionelle Prüfung.

@@ -25,7 +25,7 @@ npm run preview
 
 - **Filmgenres kombinieren:** Sci-Fi, Action, Horror und Fantasy können gemeinsam oder einzeln ausgewählt werden. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen sind eine optionale, aufklappbare Verfeinerung.
 - **Schwierigkeitsstufen kombinieren:** zum Beispiel Leicht + Mittel. Eine leere Genre- oder Stufenauswahl startet keine Runde. Die Auswahl bleibt im Rundensnapshot, in Sicherungen und in getrennten Rekordkategorien erhalten; alte Runden bleiben lesbar.
-- Jede Frage zeigt ihre eigene Schwierigkeit als „Leicht“, „Mittel“ oder „Schwer“, auch nach der Antwort.
+- Jede Frage zeigt ihr Genre und ihre Schwierigkeit, auch nach der Antwort. Unter Einstellungen & Daten → Hinweise an der Frage sind beide Angaben unabhängig abschaltbar; die Auswahl bleibt gespeichert.
 - **Ton & Vibration:** kurze Soundeffekte für Start, Antworten, nächste Frage, Zeitablauf und Abschluss. Ton oben jederzeit umschaltbar; optionale Vibration und ein Probesignal unter Einstellungen & Daten. Kein Ton beim bloßen Seitenladen. Einstellungen bleiben lokal erhalten, Signale funktionieren auch offline.
 - Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action), Geist (Horror) und Zauberstab (Fantasy). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.
 
@@ -33,8 +33,9 @@ npm run preview
 - **Entdecken:** neue/wenig bekannte Ziele, fällige Wiederholungen und sichere Inhalte.
 - **Besser werden:** fällige Ziele stärker gewichtet, ohne Zeitdruck.
 - **Rekordrunde:** 30 Sekunden pro Frage; 100 Punkte für richtig plus 2 je vollständig verbleibender Sekunde. 25 volle Sekunden = 150 Punkte. Lokale Rekorde getrennt nach Thema, Schwierigkeit, tatsächlicher Rundengröße und Regelversion.
+- **Bestenliste:** bei Rekordrunde, im Ergebnis und in der Sammlung erreichbar. Alle abgeschlossenen Rekordspiele mit Platz, Punkten, Treffern, Antwortzeit, Datum und Rückblick. Filter für Genre-Kombination, Stufen und Rundengröße; eigene Ranglisten je vergleichbarer Kategorie. Bisher lokal, keine gemeinsame Konten-Bestenliste.
 - Nach jeder Antwort Erklärung, optional Vertiefung, spezifisches Fehlerfeedback, Merksatz und Quellen. „War geraten“ verändert nur das Lernen, keine Punkte. Bewusster Wechsel zur nächsten Frage.
-- Die Vertiefung zu „Conjuring – Die Heimsuchung“ nennt zusätzlich die Darsteller der Warrens und Perrons mit geprüfter Quelle. Weitere redaktionelle Ergänzungen sind offen; [Umfang und Erklärungstiefe](docs/Erklaerungstiefe.md).
+- Alle 720 Vertiefungen auf fehlende Darstellernamen geprüft; bei 627 Fragen passende Ergänzungen mit Besetzungsquellen. Originalstimmen, Puppenspiel und Darstellerwechsel sind berücksichtigt. Rohdaten und Spielstände bleiben erhalten; [Umfang und Erklärungstiefe](docs/Erklaerungstiefe.md).
 - Sammlung mit exklusiven Statuszahlen, maximal drei Lieblingsthemen, begrenztem Fachabzeichen und Rundenrückblick. Erfahrung: 10 XP je abgeschlossener Runde, Level 1 + ganze 100 XP.
 - Meldungen werden nur lokal gespeichert und können exportiert werden.
 
@@ -48,7 +49,7 @@ Neu enthalten: **Horror_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 15
 
 Zusätzlich enthalten: **Fantasy_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 12 Themen**, darunter Der Herr der Ringe, Harry Potter und Die Chroniken von Narnia. Keine Ausschlüsse, Warnungen oder ID-Konflikte. Der aktuelle Gesamtbestand umfasst **720 Fragen, 600 Wissensziele und 88 Themen**. Fantasy ist als eigenes Genre mit anderen Genres kombinierbar und offline verfügbar. Bestehende Fragen, Runden, Lernstände und Einstellungen bleiben erhalten. [Fantasy-Importbericht](docs/importbericht-fantasy.json).
 
-`verification_status=redaktionell_geprueft` ist eine Angabe der gelieferten Datei. Eine unabhängige Prüfung aller Filmaussagen oder verlinkten Seiten wurde nicht durchgeführt. Keine Vertiefungen oder Fehlererklärungen wurden ergänzt.
+`verification_status=redaktionell_geprueft` ist eine Angabe der gelieferten Datei. Eine unabhängige Prüfung aller Filmaussagen oder verlinkten Seiten wurde nicht durchgeführt. Darstellerergänzungen werden getrennt von den Rohfragen gepflegt; Fehlererklärungen bleiben unverändert.
 
 Die separat herunterladbare `public/demo-fragen.csv` enthält zwölf selbst verfasste und gekennzeichnete Demo-Fragen als Formatbeispiel. **Diese sind im Standardbestand nicht aktiviert.** Bei manuellem Import bleibt ihre Demo-Kennzeichnung erhalten.
 

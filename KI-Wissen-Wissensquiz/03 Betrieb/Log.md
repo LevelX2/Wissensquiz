@@ -53,3 +53,10 @@ Nutzer vermisst Schauspielernamen in der Horror-Vertiefung. Konkrete Lücke in `
 45 Logik-/Persistenztests, Produktions-Build und 18 Chromium-Prüfungen erfolgreich, einschließlich drei Altbeständen, Fantasy-Offlinebetrieb, Darstellerergänzung und Schwierigkeit. Mobile Fragenansicht visuell geprüft. Der offizielle Sites-Helfer ist wieder verfügbar; Veröffentlichung über den dokumentierten gebündelten Workflow vorbereitet.
 
 Anschließend privat als Version 6 veröffentlicht: Quellcommit `44f6a2882948e5ea56b90b1377aa75ba16564968`, Deployment `appgdep_6ab7b115975481918fe0410551c6019e`, Status `succeeded`. URL und Zugriff unverändert, keine Testpersonen hinzugefügt. Git bewahrt CSV-Zeilenenden jetzt ausdrücklich ohne automatische Konvertierung; alle neun CSV-Dateien im Commit bytegleich mit den lokalen Dateien, bestehende Rohquellen inhaltlich unverändert. Keine zusätzliche Live-PWA-/Geräteprüfung.
+
+## 26.09.2026 – Erklärungstiefe, Fragehinweise und Rekord-Bestenliste
+
+- Alle 720 Fragen zu 125 Filmen auf fehlende Darstellernamen geprüft: 627 passende Ergänzungen, 64 bereits zugeordnet, 29 ohne zusätzliche einzelne gespielte Figur im Mittelpunkt. Quellen und Einzelentscheidungen dokumentiert. Film/Jahr, Frageversion und Inhalt schützen die Zuordnung; Roh-CSV und Spielstände unverändert. Besetzungsprüfung ist keine vollständige Faktenprüfung der Filmaussagen.
+- Genre und Schwierigkeit pro Frage standardmäßig sichtbar, unabhängig abschaltbar; alte Sicherungen kompatibel.
+- Persönliche Bestenliste aus sämtlichen abgeschlossenen Rekordrunden, filterbar nach Genre-Kombination, Stufen und Rundengröße. Eigene Ränge je bestehender Kategorie, Gleichstände, Datum, Treffer, Antwortzeit und Rundenrückblick. Bereits gespielte Runden automatisch enthalten, keine neue Speicherstruktur. Gemeinsame Konten/Bestenliste weiterhin offen.
+- 51 Logik-/Speicherprüfungen, Build und 20 lokale Chromium-Prüfungen erfolgreich, mobile Bestenliste visuell geprüft. Geräte-/private Live-PWA-Grenzen bestehen fort. Veröffentlichung im bestehenden privaten Sites-Projekt folgt nach finaler Quellprüfung.

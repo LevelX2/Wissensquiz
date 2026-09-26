@@ -969,6 +969,11 @@ footer button {
 .question-difficulty {
   white-space: nowrap;
 }
+.question-hints {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
 .question-card h1 {
   font-size: clamp(24px, 3vw, 34px);
   line-height: 1.35;
@@ -1856,4 +1861,53 @@ details p {
     transition: none !important;
     scroll-behavior: auto !important;
   }
+}
+
+.cast-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+}
+.leaderboard {
+  margin-top: 2rem;
+}
+.leaderboard-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.leaderboard-filters label {
+  flex: 1 1 180px;
+  min-width: 0;
+}
+.leaderboard-filters select {
+  display: block;
+  width: 100%;
+  margin-top: 0.4rem;
+}
+.leaderboard-category {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+}
+.leaderboard-category h3 {
+  overflow-wrap: anywhere;
+}
+.leaderboard-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.leaderboard-list li + li {
+  border-top: 1px solid var(--line);
+}
+.leaderboard-entry {
+  display: grid;
+  gap: 0.35rem;
+  padding: 1rem 0;
+}
+.leaderboard-entry button {
+  justify-self: start;
 }

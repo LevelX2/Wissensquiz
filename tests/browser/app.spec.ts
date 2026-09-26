@@ -276,7 +276,7 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   await page
     .getByRole("button", { name: "Meine Sammlung", exact: true })
     .click();
-  await expect(page.locator(".record-row")).toContainText(
+  await expect(page.locator(".leaderboard-category")).toContainText(
     "Horror + Sci-Fi · Leicht + Mittel · 5 Fragen",
   );
   await expect(page.locator(".badge-art.locked svg")).toBeVisible();
@@ -286,7 +286,7 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   expect(errors).toEqual([]);
 });
 
-test("Conjuring zeigt Darsteller mit Quelle erst in der Vertiefung", async ({
+test("Conjuring zeigt passende Darsteller und Quellen erst in der Vertiefung, auch nach Neuladen", async ({
   page,
 }) => {
   await launch(page);
@@ -295,25 +295,17 @@ test("Conjuring zeigt Darsteller mit Quelle erst in der Vertiefung", async ({
     .click();
   await page.getByLabel("Thema wählen").selectOption("Conjuring");
   await page.getByRole("button", { name: "Losspielen" }).click();
-  await expect(
-    page.getByRole("heading", { name: "Figuren und Darsteller" }),
-  ).toHaveCount(0);
+  await expect(page.locator(".cast-context")).toHaveCount(0);
   await answerCurrent(page);
-  const details = page.locator("details").filter({
-    has: page.getByText("Etwas tiefer eintauchen", { exact: true }),
-  });
+  await expect(page.locator(".cast-context")).not.toBeVisible();
+  await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
+  await expect(page.locator(".cast-context")).toBeVisible();
+  const text = await page.locator(".cast-context").innerText();
+  expect(text).toMatch(
+    /Patrick Wilson|Vera Farmiga|Ron Livingston|Lili Taylor|Joseph Bishara/,
+  );
   await expect(
-    details.getByText("Patrick Wilson", { exact: false }),
-  ).not.toBeVisible();
-  await details.getByText("Etwas tiefer eintauchen", { exact: true }).click();
-  await expect(
-    details.getByRole("listitem").filter({ hasText: "Ed Warren:" }),
-  ).toHaveText("Ed Warren: Patrick Wilson");
-  await expect(
-    details.getByRole("listitem").filter({ hasText: "Lorraine Warren:" }),
-  ).toHaveText("Lorraine Warren: Vera Farmiga");
-  await expect(
-    details.getByRole("link", { name: "Besetzung im AFI-Filmkatalog" }),
+    page.getByRole("link", { name: "Besetzungsquelle: catalog.afi.com" }),
   ).toHaveAttribute(
     "href",
     "https://catalog.afi.com/Catalog/MovieDetails/69558",
@@ -321,11 +313,8 @@ test("Conjuring zeigt Darsteller mit Quelle erst in der Vertiefung", async ({
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
-  await expect(
-    page.getByText("Ed Warren: Patrick Wilson", { exact: false }),
-  ).toBeVisible();
+  await expect(page.locator(".cast-context")).toHaveText(text);
 });
-
 test("Fehlende Audio- und Vibrationsschnittstellen verhindern keine Spielrunde", async ({
   page,
 }) => {

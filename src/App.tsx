@@ -33,6 +33,7 @@ import {
 import { download, read, restore, update, validateBackup } from "./storage";
 import { useOffline } from "./offline";
 import { BadgeIcon, GenreIcon } from "./Icons";
+import { Leaderboard } from "./RecordLeaderboard";
 import { filmDetails } from "./filmDetails";
 import {
   playFeedback,
@@ -47,7 +48,8 @@ import {
   type PackageContent,
 } from "./packages";
 
-type Page = "home" | "topics" | "album" | "settings" | "round" | "result";
+type Page =
+  "leaderboard" | "home" | "topics" | "album" | "settings" | "round" | "result";
 type Mutate = (fn: (s: State) => void) => Promise<State | null>;
 const modeNames: Record<Mode, string> = {
   entdecken: "Entdecken",
@@ -500,6 +502,14 @@ export function App() {
                     </button>
                   ))}
                 </div>
+                {mode === "rekord" && (
+                  <button
+                    className="text-button"
+                    onClick={() => setPage("leaderboard")}
+                  >
+                    Bestenliste ansehen →
+                  </button>
+                )}
                 <div className="setup-bottom">
                   <div className="quiz-filters">
                     <fieldset>
@@ -861,34 +871,27 @@ export function App() {
                   </div>
                 )}
               </section>
-              {Object.keys(state.records).length > 0 && (
-                <section>
-                  <h2>Persönliche Trainingsrekorde</h2>
-                  <p className="muted">
-                    Lokal auf diesem Gerät gespeichert. Kein globaler
-                    Wettbewerb.
-                  </p>
-                  <div className="history">
-                    {Object.entries(state.records).map(([key, value]) => {
-                      const recordRound = state.rounds.find(
-                        (r) => r.id === value.roundId,
-                      );
-                      if (!recordRound) return null;
-                      return (
-                        <div className="record-row" key={key}>
-                          <span>
-                            {roundGenres(recordRound)} ·{" "}
-                            {roundDifficulties(recordRound)} ·{" "}
-                            {recordRound.questions.length} Fragen · Regel{" "}
-                            {recordRound.ruleVersion}
-                          </span>
-                          <b>{value.points} Punkte</b>
-                        </div>
-                      );
-                    })}
-                  </div>
-                </section>
-              )}
+              <Leaderboard
+                state={state}
+                onReview={(id) => {
+                  setRoundId(id);
+                  setPage("result");
+                }}
+              />{" "}
+            </>
+          )}
+          {page === "leaderboard" && (
+            <>
+              <button className="text-button" onClick={() => setPage("home")}>
+                ← Zur Startseite
+              </button>
+              <Leaderboard
+                state={state}
+                onReview={(id) => {
+                  setRoundId(id);
+                  setPage("result");
+                }}
+              />
             </>
           )}
           {page === "round" && current && (
@@ -926,6 +929,7 @@ export function App() {
               state={state}
               onHome={() => setPage("home")}
               onTopic={() => playTopic(current.questions[0].topic)}
+              onLeaderboard={() => setPage("leaderboard")}
             />
           )}
           {page === "settings" && (
@@ -969,19 +973,19 @@ function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
           {q.context && <p>{q.context}</p>}
           {film && (
             <div>
-              <h3>Figuren und Darsteller</h3>
-              <ul>
-                {film.cast.map(({ role, actor }) => (
-                  <li key={role}>
-                    <strong>{role}</strong>: {actor}
-                  </li>
+              <p className="cast-context">{film.text}</p>
+              <p className="cast-sources">
+                {film.sources.map((source) => (
+                  <a
+                    key={source}
+                    href={source}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Besetzungsquelle: {new URL(source).hostname} ↗
+                  </a>
                 ))}
-              </ul>
-              <p>
-                <a href={film.source} target="_blank" rel="noreferrer">
-                  Besetzung im AFI-Filmkatalog ↗
-                </a>
-              </p>
+              </p>{" "}
             </div>
           )}
         </details>
@@ -1134,9 +1138,18 @@ function QuestionScreen({
       <section className="question-card">
         <div className="question-heading">
           <span className="eyebrow">DEIN MOMENT DER NEUGIER</span>
-          <span className="pill question-difficulty">
-            Schwierigkeit: {difficultyLabel(q.difficulty)}
-          </span>
+          <div className="question-hints">
+            {state.settings.showGenre !== false && (
+              <span className="pill question-genre">
+                {genreLabel(genreOf(q))}
+              </span>
+            )}
+            {state.settings.showDifficulty !== false && (
+              <span className="pill question-difficulty">
+                Schwierigkeit: {difficultyLabel(q.difficulty)}
+              </span>
+            )}
+          </div>
         </div>
         <h1>{q.question}</h1>
         <div className="answers">
@@ -1277,11 +1290,13 @@ function Result({
   state,
   onHome,
   onTopic,
+  onLeaderboard,
 }: {
   round: Round;
   state: State;
   onHome: () => void;
   onTopic: () => void;
+  onLeaderboard: () => void;
 }) {
   const events = state.events.filter((e) => e.roundId === round.id);
   const correct = events.filter((e) => e.correct).length;
@@ -1353,6 +1368,11 @@ function Result({
           </p>
         )}
       </div>
+      {round.mode === "rekord" && (
+        <button className="secondary" onClick={onLeaderboard}>
+          Bestenliste ansehen →
+        </button>
+      )}
       <div className="result-actions">
         <button className="primary" onClick={onHome}>
           Neue Runde wählen →
@@ -1445,6 +1465,41 @@ function Settings({
         als JSON.
       </p>
       <div role="status">{message && <p className="notice">{message}</p>}</div>
+      <section className="settings-panel">
+        <h2>Hinweise an der Frage</h2>
+        <p>
+          Bei gemischten Runden zeigen diese Hinweise das Genre und die
+          Schwierigkeit der aktuellen Frage. Du kannst beide unabhängig
+          ausblenden.
+        </p>
+        <div className="filter-options">
+          {(
+            [
+              { key: "showGenre", label: "Genre anzeigen" },
+              { key: "showDifficulty", label: "Schwierigkeit anzeigen" },
+            ] as const
+          ).map(({ key, label }) => (
+            <label key={key} className="filter-choice">
+              <input
+                type="checkbox"
+                checked={state.settings[key] !== false}
+                disabled={busy}
+                onChange={async (e) => {
+                  const enabled = e.target.checked;
+                  await mutate((s) => {
+                    s.settings[key] = enabled;
+                  });
+                }}
+              />
+              {label}
+            </label>
+          ))}
+        </div>
+        <p className="muted tiny">
+          Deine Auswahl bleibt auf diesem Gerät gespeichert und ist in Deiner
+          JSON-Sicherung enthalten.
+        </p>
+      </section>
       <section className="settings-panel">
         <h2>Ton & Vibration</h2>
         <p>
