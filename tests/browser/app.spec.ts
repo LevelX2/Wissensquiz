@@ -36,7 +36,7 @@ async function answerCurrent(page: Page, correct = true) {
   return q;
 }
 
-test("Lernpfad bleibt optional und gespeichert; helle kompakte Fragen behalten Erklärungen und Optionen", async ({
+test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fragen behalten Erklärungen und Optionen", async ({
   page,
 }) => {
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
@@ -45,13 +45,16 @@ test("Lernpfad bleibt optional und gespeichert; helle kompakte Fragen behalten E
   await expect(
     page.getByRole("button", { name: "Ton an", exact: true }),
   ).toHaveCount(0);
-  await page.getByLabel("Optionalen Lernpfad nutzen").click();
-  await expect(page.getByLabel("Optionalen Lernpfad nutzen")).toBeChecked();
+  await expect(
+    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
+  ).not.toBeChecked();
   await expect(
     page.getByText("Mittel gesperrt · 0 / 20 leichte Ziele", { exact: true }),
   ).toHaveCount(7);
   await page.reload();
-  await expect(page.getByLabel("Optionalen Lernpfad nutzen")).toBeChecked();
+  await expect(
+    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
+  ).not.toBeChecked();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Leicht",
@@ -70,12 +73,13 @@ test("Lernpfad bleibt optional und gespeichert; helle kompakte Fragen behalten E
     page.getByText("Etwas tiefer eintauchen", { exact: true }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await page.getByLabel("Optionalen Lernpfad nutzen").click();
+  await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
   await expect(
     page.getByText(
-      "Freies Spiel: Alle Schwierigkeitsstufen stehen Dir zur Wahl.",
+      "Freie Auswahl: Alle Stufen stehen Dir zur Wahl. Sichere Antworten zählen weiterhin für Deinen Lernpfad.",
     ),
   ).toBeVisible();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(page.getByLabel("Soundeffekte", { exact: true })).toBeVisible();
 });
@@ -86,6 +90,10 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
   await page.setViewportSize({ width: 320, height: 740 });
   await launch(page);
+  await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
+  await expect(
+    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
+  ).toBeChecked();
   const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",
@@ -172,6 +180,7 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie aus de
   context,
 }) => {
   await launch(page);
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
     page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
@@ -289,7 +298,8 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6]) {
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     await expect(page.locator(".feedback")).toBeVisible();
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
-    await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+    await page.getByRole("button", { name: "Profil", exact: true }).click();
+    await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
       page.getByText("1260 Fragen · 1050 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
@@ -326,7 +336,8 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
     );
   await launch(page);
   expect((await counters()).tones).toBe(0);
-  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
   await page.getByLabel("Vibration", { exact: true }).click();
   await expect(page.getByLabel("Vibration", { exact: true })).toBeChecked();
   expect((await counters()).vibrations).toContain(10);
@@ -337,6 +348,7 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
     page.getByLabel("Soundeffekte", { exact: true }),
   ).not.toBeChecked();
   await page.reload();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
     page.getByLabel("Soundeffekte", { exact: true }),
@@ -347,6 +359,7 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
   expect((await counters()).tones).toBe(0);
   expect((await counters()).vibrations).toContainEqual([20, 40, 25]);
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.getByLabel("Soundeffekte", { exact: true }).click();
   await expect.poll(async () => (await counters()).tones).toBeGreaterThan(0);
@@ -358,7 +371,8 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
   expect((await counters()).tones).toBe(before + 2);
   expect((await counters()).vibrations).toContain(45);
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
   await page.getByLabel("Vibration", { exact: true }).click();
   await expect(page.getByLabel("Vibration", { exact: true })).not.toBeChecked();
   await page.getByLabel("Soundeffekte", { exact: true }).click();
@@ -406,9 +420,7 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   await expect(
     page.getByRole("heading", { name: "Eine Runde weiter." }),
   ).toBeVisible();
-  await page
-    .getByRole("button", { name: "Meine Sammlung", exact: true })
-    .click();
+  await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   await expect(page.locator(".leaderboard-category")).toContainText(
     "Horror + Sci-Fi · Leicht + Mittel · 5 Fragen",
   );
@@ -469,7 +481,8 @@ test("Fehlende Audio- und Vibrationsschnittstellen verhindern keine Spielrunde",
   await page.getByRole("button", { name: "Losspielen" }).click();
   await answerCurrent(page);
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
   await expect(page.getByLabel("Vibration", { exact: true })).toBeDisabled();
   await expect(
     page.getByText("Dieser Browser bietet keine Vibration an.", {
@@ -523,9 +536,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.screenshot({ path: "test-results/result.png", fullPage: true });
   await page.reload();
   await expect(page.getByText("10 Erfahrung · Level 1")).toBeVisible();
-  await page
-    .getByRole("button", { name: "Meine Sammlung", exact: true })
-    .click();
+  await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   await expect(page.locator(".history").first()).toContainText("4/5 richtig");
   await page
     .getByRole("button", { name: /Als Favorit markieren: Alien/ })
@@ -533,7 +544,8 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await expect(
     page.getByRole("button", { name: "Favorit entfernen: Alien" }),
   ).toHaveAttribute("aria-pressed", "true");
-  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
     page.getByText("1260 Fragen · 1050 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
@@ -644,6 +656,7 @@ for (const offlinePackage of [
     context,
   }) => {
     await launch(page);
+    await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
       page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
@@ -696,7 +709,8 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
   page,
 }) => {
   await launch(page);
-  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
   await page.getByLabel("Sicherung auswählen").setInputFiles({
     name: "kaputt.json",
     mimeType: "application/json",

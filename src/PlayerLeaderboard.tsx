@@ -131,7 +131,7 @@ export function PlayerLeaderboard({ state }: { state: State }) {
         <p role="status">Die Spielerrangliste ist gerade nicht erreichbar.</p>
       ) : !rows.length ? (
         <p>
-          Noch keine teilnehmenden Spieler mit passenden Ergebnissen
+          Noch keine Spieler mit passenden Ergebnissen
           {sort === "accuracy" ? " und mindestens 50 Antworten" : ""}.
         </p>
       ) : (
@@ -172,7 +172,7 @@ export function PlayerLeaderboard({ state }: { state: State }) {
         </div>
       )}
       <p className="tiny muted">
-        Freiwillige Trainingswerte. Die Listen zeigen Aktivität und Treffer,
+        Gemeinsame Trainingswerte. Die Listen zeigen Aktivität und Treffer,
         keinen unabhängig geprüften Wissensstand.
       </p>
     </div>

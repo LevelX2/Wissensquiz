@@ -3,8 +3,6 @@ import type { SupabaseClient, User, Session } from "@supabase/supabase-js";
 import { App } from "./App";
 import { PasswordField } from "./PasswordField";
 import { ProfileStats } from "./ProfileStats";
-import { Leaderboard } from "./RecordLeaderboard";
-import { SharingPreference } from "./SharedLeaderboard";
 import { AccountGame, syncText } from "./AccountGame";
 import type { SyncStatus } from "./accountSync";
 import {
@@ -414,7 +412,7 @@ function AccountPanel({
   if (!client)
     return (
       <section className="account-page">
-        <h1>Dein Konto</h1>
+        <h1>Dein Profil</h1>
         <p>
           Die eigene Anmeldung wird vorbereitet. Bestätigungs- und Reset-Mails
           sind noch nicht eingerichtet.
@@ -538,7 +536,10 @@ function AccountPanel({
           {mode === "register" && (
             <p className="tiny muted">
               Mindestens zwölf Zeichen. Dein Spielername darf ein Pseudonym
-              sein. E-Mail und Passwort werden beim Kontodienst verwaltet.
+              sein. Dein Spielername, Rekordergebnisse und Spielerstatistik sind
+              für angemeldete Spieler in den Highscores sichtbar. Die Teilnahme
+              gehört zum Quiz-Konto. E-Mail und privater Spielstand bleiben
+              verborgen.
             </p>
           )}
           <button className="primary" disabled={busy}>
@@ -578,7 +579,7 @@ function AccountPanel({
     );
   return (
     <section className="account-page">
-      <h1>Dein Konto</h1>
+      <h1>Dein Profil</h1>
       <p>
         Angemeldet als{" "}
         <strong>{String(user.user_metadata.display_name ?? "Spieler")}</strong>{" "}
@@ -586,8 +587,11 @@ function AccountPanel({
       </p>
       <p className="tiny muted">{syncStatus && syncText[syncStatus]}</p>
       <ProfileStats state={state} />
-      <Leaderboard state={state} />
-      <SharingPreference saved={syncStatus === "saved"} />
+      <p className="tiny muted">
+        Dein Spielername und Deine Leistungswerte erscheinen automatisch in den
+        Highscores für angemeldete Spieler. E-Mail und privater Spielstand
+        bleiben verborgen.
+      </p>
       <details className="account-help">
         <summary>Konto & Speicherung</summary>
         <p role="status">{message}</p>

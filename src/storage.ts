@@ -92,6 +92,7 @@ const stateSchema = z.object({
     showGenre: z.boolean().optional(),
     showDifficulty: z.boolean().optional(),
     learningPath: z.boolean().optional(),
+    allDifficulties: z.boolean().optional(),
   }),
   experience: z.number().int().nonnegative(),
   records: z.record(

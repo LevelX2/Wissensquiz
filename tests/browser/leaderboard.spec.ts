@@ -10,7 +10,8 @@ test("Genre und Schwierigkeit bleiben unabhängig einstellbar und über Neuladen
 }) => {
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
-  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
   await page.getByLabel("Genre anzeigen", { exact: true }).click();
   await expect(
     page.getByLabel("Genre anzeigen", { exact: true }),
@@ -20,7 +21,8 @@ test("Genre und Schwierigkeit bleiben unabhängig einstellbar und über Neuladen
   await expect(page.locator(".question-genre")).toHaveCount(0);
   await expect(page.locator(".question-difficulty")).toBeVisible();
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
   await page.getByLabel("Genre anzeigen", { exact: true }).click();
   await expect(
     page.getByLabel("Genre anzeigen", { exact: true }),
@@ -81,6 +83,7 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
   }
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
     page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
@@ -140,9 +143,7 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
   await page.getByRole("button", { name: "Bestenliste ansehen" }).click();
   await context.setOffline(true);
   await page.reload();
-  await page
-    .getByRole("button", { name: "Meine Sammlung", exact: true })
-    .click();
+  await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   await expect(page.locator(".leaderboard-entry")).toHaveCount(4);
   await context.setOffline(false);
 });

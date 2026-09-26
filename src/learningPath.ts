@@ -35,7 +35,7 @@ export function learningPathProgress(state: State) {
 }
 
 export function pathQuestions(state: State): Question[] {
-  if (!state.settings.learningPath) return state.questions;
+  if (state.settings.allDifficulties === true) return state.questions;
   const progress = learningPathProgress(state);
   return state.questions.filter((q) => {
     const p = progress(genreOf(q));

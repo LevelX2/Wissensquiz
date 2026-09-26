@@ -101,7 +101,7 @@ async function mockAccounts(page: Page, server: Server = new Map()) {
   return requests;
 }
 async function account(page: Page) {
-  await page.getByRole("button", { name: "Konto", exact: true }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
 }
 async function login(
   page: Page,
@@ -141,7 +141,7 @@ async function login(
     ).toBeEnabled();
 }
 
-test("Profil zeigt Spielstatistik, eigene Rekorde und freiwillig geteilte Ergebnisse", async ({
+test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehmen automatisch teil", async ({
   page,
 }) => {
   const state = emptyState(
@@ -164,7 +164,7 @@ test("Profil zeigt Spielstatistik, eigene Rekorde und freiwillig geteilte Ergebn
     [alice, { state, revision: 1, updated_at: new Date().toISOString() }],
   ]);
   await mockAccounts(page, server);
-  let participating = false;
+  let participating = true;
   const changes: boolean[] = [];
   const category = {
     category: "scifi-5",
@@ -253,13 +253,13 @@ test("Profil zeigt Spielstatistik, eigene Rekorde und freiwillig geteilte Ergebn
   await expect(
     page.getByRole("button", { name: "Abmelden", exact: true }),
   ).not.toBeVisible();
-  const participation = page.getByLabel(
-    "Meine Ergebnisse und Spielerstatistik teilen",
-    { exact: true },
-  );
-  await expect(participation).not.toBeChecked();
-  await participation.click();
-  await expect.poll(() => changes).toEqual([true]);
+  await expect(
+    page.getByLabel("Meine Ergebnisse und Spielerstatistik teilen"),
+  ).toHaveCount(0);
+  await expect(
+    page.getByRole("button", { name: "Alle Spieler", exact: true }),
+  ).toHaveCount(0);
+  await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await page.getByRole("button", { name: "Alle Spieler", exact: true }).click();
   await expect(page.getByText("Platz 1 · Bob", { exact: true })).toBeVisible();
   await expect(
@@ -271,13 +271,7 @@ test("Profil zeigt Spielstatistik, eigene Rekorde und freiwillig geteilte Ergebn
   await expect(
     page.getByText("Platz 1 · 790 Punkte", { exact: true }),
   ).toBeVisible();
-  await participation.click();
-  await expect.poll(() => changes).toEqual([true, false]);
-  await page.getByRole("button", { name: "Alle Spieler", exact: true }).click();
-  await expect(page.getByText("Platz 1 · Bob", { exact: true })).toBeVisible();
-  await expect(
-    page.getByText("Platz 2 · Alice (Du)", { exact: true }),
-  ).toHaveCount(0);
+  expect(changes).toEqual([]);
   await page.setViewportSize({ width: 320, height: 800 });
   expect(
     await page.evaluate(
@@ -288,11 +282,8 @@ test("Profil zeigt Spielstatistik, eigene Rekorde und freiwillig geteilte Ergebn
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
       .violations,
   ).toEqual([]);
-  await page
-    .locator(".profile-stats")
-    .evaluate((el) => el.scrollIntoView({ block: "center" }));
-  await page.screenshot({ path: "test-results/profil-statistik-320.png" });
-  await page.getByRole("button", { name: "Spielerranglisten ansehen" }).click();
+  await page.screenshot({ path: "test-results/highscores-320.png" });
+  await page.getByRole("button", { name: "Spielerleistungen" }).click();
   await expect(
     page.getByText(
       "12 Runden · 85 von 100 Antworten richtig · 85 % Trefferquote",

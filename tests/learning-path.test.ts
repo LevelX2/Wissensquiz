@@ -49,13 +49,13 @@ it("zählt unterschiedliche historische Ziele pro Genre; Varianten, Wiederholung
     easy: 19,
     mediumUnlocked: false,
   });
-  s.settings.learningPath = true;
+  s.settings.allDifficulties = false;
   expect(pathQuestions(s).every((q) => q.difficulty === "leicht")).toBe(true);
-  s.settings.learningPath = false;
+  s.settings.allDifficulties = true;
   play(s, "leicht", 20);
   expect(learningPathProgress(s)("Horror").mediumUnlocked).toBe(true);
   expect(learningPathProgress(s)("Action").mediumUnlocked).toBe(false);
-  s.settings.learningPath = true;
+  s.settings.allDifficulties = false;
   expect(
     pathQuestions(s).some(
       (q) => q.difficulty === "mittel" && genreOf(q) === "Horror",
@@ -69,14 +69,15 @@ it("zählt unterschiedliche historische Ziele pro Genre; Varianten, Wiederholung
 });
 it("öffnet Schwer erst nach beiden Stufen und respektiert Lernpfad beim Start sowie Sicherungsimport", () => {
   const s = emptyState(questions);
+  s.settings.allDifficulties = true;
   play(s, "mittel", 20);
   expect(learningPathProgress(s)("Horror").hardUnlocked).toBe(false);
   play(s, "leicht", 20);
   expect(learningPathProgress(s)("Horror").hardUnlocked).toBe(true);
-  s.settings.learningPath = true;
-  expect(validateBackup(s).settings.learningPath).toBe(true);
+  s.settings.allDifficulties = false;
+  expect(validateBackup(s).settings.allDifficulties).toBe(false);
   const fresh = emptyState(questions);
-  fresh.settings.learningPath = true;
+  fresh.settings.allDifficulties = false;
   expect(() =>
     startRound(fresh, {
       mode: "rekord",
@@ -84,12 +85,29 @@ it("öffnet Schwer erst nach beiden Stufen und respektiert Lernpfad beim Start s
       difficulty: "schwer",
     }),
   ).toThrow("keine Fragen");
-  fresh.settings.learningPath = false;
+  fresh.settings.allDifficulties = true;
   expect(
     startRound(fresh, {
       mode: "rekord",
       topic: "Alle Themen",
       difficulty: "schwer",
     }).questions.every((q) => q.difficulty === "schwer"),
+  ).toBe(true);
+});
+
+it("verwendet Lernpfad standardmäßig auch für alte Sicherungen und erhält ausdrückliche freie Auswahl", () => {
+  const s = emptyState(questions);
+  s.settings.learningPath = false;
+  expect(
+    pathQuestions(validateBackup(s)).every((q) => q.difficulty === "leicht"),
+  ).toBe(true);
+  s.settings.allDifficulties = true;
+  expect(pathQuestions(validateBackup(s))).toHaveLength(questions.length);
+  play(s, "mittel", 20);
+  play(s, "leicht", 20);
+  s.settings.allDifficulties = false;
+  expect(learningPathProgress(s)("Horror").hardUnlocked).toBe(true);
+  expect(
+    pathQuestions(validateBackup(s)).some((q) => q.difficulty === "schwer"),
   ).toBe(true);
 });

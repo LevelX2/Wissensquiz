@@ -106,15 +106,15 @@ export function SharedLeaderboard() {
     return (
       <p>
         Melde Dich mit Deinem Quiz-Konto an, um die Ergebnisse aller
-        teilnehmenden Spieler zu sehen.
+        registrierten Spieler zu sehen.
       </p>
     );
   const selected = categories.find((item) => item.category === category);
   return (
     <div>
       <p className="muted">
-        Geteilte Rekordrunden aller teilnehmenden Spieler. Verglichen werden
-        gleiche Genres, Stufen und Rundengrößen.
+        Rekordrunden aller angemeldeten Spieler. Verglichen werden gleiche
+        Genres, Stufen und Rundengrößen.
       </p>
       <button className="text-button" onClick={() => setRefresh((n) => n + 1)}>
         Bestenliste aktualisieren
@@ -143,7 +143,7 @@ export function SharedLeaderboard() {
       ) : error ? (
         <p role="status">{error}</p>
       ) : !entries.length ? (
-        <p>Noch keine geteilten Rekordrunden in dieser Auswahl.</p>
+        <p>Noch keine Rekordrunden in dieser Auswahl.</p>
       ) : (
         <ol className="leaderboard-list shared-entries">
           {entries.map((entry, index) => (
@@ -191,84 +191,5 @@ export function SharedLeaderboard() {
         geprüft.
       </p>
     </div>
-  );
-}
-
-export function SharingPreference({ saved }: { saved: boolean }) {
-  const connection = useContext(RankingContext);
-  const [enabled, setEnabled] = useState<boolean | null>(null);
-  const [busy, setBusy] = useState(false);
-  const [error, setError] = useState("");
-  const [retry, setRetry] = useState(0);
-  useEffect(() => {
-    let active = true;
-    if (!connection) return;
-    setEnabled(null);
-    setError("");
-    void connection.client
-      .from("quiz_sharing")
-      .select("enabled")
-      .eq("owner_id", connection.owner)
-      .maybeSingle()
-      .then(({ data, error }) => {
-        if (!active) return;
-        if (error) {
-          setError("Deine Teilnahme konnte nicht geladen werden.");
-          return;
-        }
-        setEnabled(data?.enabled === true);
-      });
-    return () => {
-      active = false;
-    };
-  }, [connection, retry]);
-  if (!connection) return null;
-  return (
-    <section className="sharing-preference">
-      <label className="filter-choice">
-        <input
-          type="checkbox"
-          checked={enabled === true}
-          disabled={busy || enabled === null || (!saved && !enabled)}
-          onChange={(e) => {
-            const next = e.target.checked;
-            setBusy(true);
-            setError("");
-            void connection.client
-              .rpc("quiz_set_sharing", {
-                participate: next,
-                expected_owner: connection.owner,
-              })
-              .then(({ error }) => {
-                if (error)
-                  setError(
-                    "Die Teilnahme konnte nicht geändert werden. Bitte versuche es erneut.",
-                  );
-                else setEnabled(next);
-                setBusy(false);
-              });
-          }}
-        />
-        Meine Ergebnisse und Spielerstatistik teilen
-      </label>
-      <p className="tiny muted">
-        Sichtbar für angemeldete Spieler: Dein Spielername, Ergebnisse,
-        Kategorie, Spieldatum und Statistik (Runden, Antworten, Trefferquote).
-        Auch bisherige gesicherte Rekordrunden werden aufgenommen. Ausschalten
-        entfernt Deine Einträge wieder. E-Mail und privater Spielstand bleiben
-        verborgen.
-      </p>
-      {error && (
-        <p role="status">
-          {error}{" "}
-          <button
-            className="text-button"
-            onClick={() => setRetry((n) => n + 1)}
-          >
-            Erneut versuchen
-          </button>
-        </p>
-      )}
-    </section>
   );
 }

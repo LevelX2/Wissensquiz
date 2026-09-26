@@ -130,7 +130,8 @@ export interface State {
     haptics?: boolean;
     showGenre?: boolean;
     showDifficulty?: boolean;
-    learningPath?: boolean;
+    learningPath?: boolean; // Legacy preference retained for old backups.
+    allDifficulties?: boolean;
   };
   experience: number;
   records: Record<string, { points: number; roundId: string }>;

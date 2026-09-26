@@ -40,6 +40,7 @@ import {
 import { useOffline } from "./offline";
 import { BadgeIcon, GenreIcon, genreIllustrations } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
+import { Help } from "./Help";
 import { LearningPath } from "./LearningPathPanel";
 import { learningPathProgress, pathQuestions } from "./learningPath";
 import { filmDetails } from "./filmDetails";
@@ -64,6 +65,7 @@ type Page =
   | "topics"
   | "album"
   | "settings"
+  | "help"
   | "round"
   | "result";
 type Mutate = (fn: (s: State) => void) => Promise<State | null>;
@@ -412,14 +414,23 @@ export function App({
             [
               ["home", "◉", "Spielen"],
               ["topics", "▦", "Themen"],
-              ["album", "☆", "Meine Sammlung"],
-              ["account", "♙", "Konto"],
+              ["album", "☆", "Sammlung"],
+              ["leaderboard", "♜", "Highscores"],
+              ["account", "♙", "Profil"],
             ] as const
           ).map(([p, icon, label]) => (
             <button
               key={p}
-              className={page === p ? "selected" : ""}
-              aria-current={page === p ? "page" : undefined}
+              className={
+                page === p || (p === "account" && page === "settings")
+                  ? "selected"
+                  : ""
+              }
+              aria-current={
+                page === p || (p === "account" && page === "settings")
+                  ? "page"
+                  : undefined
+              }
               onClick={() => void nav(p)}
             >
               <span aria-hidden="true">{icon}</span>
@@ -438,12 +449,6 @@ export function App({
               {1 + Math.floor(state.experience / 100)}
             </small>
           </div>
-          <button
-            className="settings-link"
-            onClick={() => void nav("settings")}
-          >
-            Einstellungen & Daten <span>↗</span>
-          </button>
         </div>
       </aside>
       <div className="workspace">
@@ -451,12 +456,7 @@ export function App({
           <span>
             {accountName ? `KONTO: ${accountName}` : "DEIN FILMKOSMOS"}
           </span>
-          <button
-            className="options-button"
-            onClick={() => void nav("settings")}
-          >
-            ⚙ Optionen
-          </button>
+
           {!offline.online && (
             <span className="connection" role="status">
               Offline · lokal gespeichert
@@ -557,7 +557,7 @@ export function App({
                   busy={busy}
                   onChange={(enabled) => {
                     void mutate((s) => {
-                      s.settings.learningPath = enabled;
+                      s.settings.allDifficulties = enabled;
                     });
                   }}
                 />
@@ -593,7 +593,7 @@ export function App({
                     </fieldset>
                     <fieldset>
                       <legend>Schwierigkeitsstufen</legend>
-                      {state.settings.learningPath && (
+                      {!state.settings.allDifficulties && (
                         <p className="tiny muted">
                           Gesperrte Stufen werden je Genre ausgelassen. Wähle
                           Leicht, um mit einem neuen Genre zu beginnen.
@@ -741,7 +741,7 @@ export function App({
               <p className="demo-label">
                 {state.questions.every((q) => q.demo)
                   ? "TESTAUSGABE · Gekennzeichnete Demo-Fragen zu Filmhandwerk und Science-Fiction-Ideen."
-                  : `${state.questions.filter((q) => !q.demo).length} importierte Fragen · ${new Set(state.questions.map((q) => q.knowledgeId)).size} Wissensziele · ${state.questions.filter((q) => q.demo).length} Demo-Fragen. Details unter Einstellungen & Daten.`}
+                  : `${state.questions.filter((q) => !q.demo).length} importierte Fragen · ${new Set(state.questions.map((q) => q.knowledgeId)).size} Wissensziele · ${state.questions.filter((q) => q.demo).length} Demo-Fragen. Details unter Profil → Optionen.`}
               </p>
             </>
           )}
@@ -940,9 +940,7 @@ export function App({
           )}
           {page === "leaderboard" && (
             <>
-              <button className="text-button" onClick={() => setPage("home")}>
-                ← Zur Startseite
-              </button>
+              <h1>Highscores</h1>
               <Leaderboard
                 state={state}
                 onReview={(id) => {
@@ -990,26 +988,48 @@ export function App({
               onLeaderboard={() => setPage("leaderboard")}
             />
           )}
-          {page === "account" && accountPanel?.(state, setState)}
+          {page === "account" && (
+            <>
+              <div className="profile-tools">
+                <button
+                  className="secondary"
+                  onClick={() => void nav("settings")}
+                >
+                  ⚙ Optionen
+                </button>
+                <button className="secondary" onClick={() => void nav("help")}>
+                  ? So funktioniert’s
+                </button>
+              </div>
+              {accountPanel?.(state, setState)}
+            </>
+          )}
+          {page === "help" && <Help />}
           {page === "settings" && (
-            <Settings
-              storageKey={storageKey}
-              state={state}
-              mutate={mutate}
-              setState={setState}
-              busy={busy}
-              offline={offline}
-              onHome={() => setPage("home")}
-            />
+            <>
+              <button
+                className="text-button"
+                onClick={() => void nav("account")}
+              >
+                ← Zurück zum Profil
+              </button>
+              <Settings
+                storageKey={storageKey}
+                state={state}
+                mutate={mutate}
+                setState={setState}
+                busy={busy}
+                offline={offline}
+                onHome={() => setPage("home")}
+              />
+            </>
           )}
         </main>
         <footer hidden={page === "round"}>
           <span>
             WISSENSQUIZ <span className="footer-star">✦</span> BLEIB NEUGIERIG.
           </span>
-          <button onClick={() => void nav("settings")}>
-            Lokal gespeichert · Daten verwalten
-          </button>
+          <button onClick={() => void nav("help")}>So funktioniert’s</button>
         </footer>
       </div>
     </div>
@@ -1559,9 +1579,9 @@ function Settings({
         Einstellungen <em>& Daten.</em>
       </h1>
       <p className="lead">
-        Dein Fortschritt liegt zunächst nur in diesem Browser auf diesem Gerät.
-        Gelöschter Browserspeicher kann ihn entfernen. Sichere ihn regelmäßig
-        als JSON.
+        Ton, Vibration und Fragehinweise stellst Du hier ein. Angemeldet wird
+        Dein Fortschritt automatisch online gespeichert; als Gast bleibt er auf
+        diesem Gerät. Eine JSON-Sicherung bietet Dir eine zusätzliche Kopie.
       </p>
       <div role="status">{message && <p className="notice">{message}</p>}</div>
       <section className="settings-panel">

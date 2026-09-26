@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useContext, useState } from "react";
 import {
   categoryLabel,
   genreSelectionKey,
@@ -8,7 +8,7 @@ import {
 } from "./leaderboard";
 import { roundDifficulties } from "./filters";
 import type { State } from "./model";
-import { SharedLeaderboard } from "./SharedLeaderboard";
+import { RankingContext, SharedLeaderboard } from "./SharedLeaderboard";
 import { PlayerLeaderboard } from "./PlayerLeaderboard";
 
 export function Leaderboard({
@@ -18,7 +18,10 @@ export function Leaderboard({
   state: State;
   onReview?: (roundId: string) => void;
 }) {
-  const [scope, setScope] = useState<"mine" | "all" | "players">("mine");
+  const connection = useContext(RankingContext);
+  const [scope, setScope] = useState<"mine" | "all" | "players">(
+    connection ? "all" : "mine",
+  );
   const [genre, setGenre] = useState("");
   const [level, setLevel] = useState("");
   const [size, setSize] = useState("");
@@ -40,7 +43,7 @@ export function Leaderboard({
   );
   return (
     <section className="leaderboard" aria-labelledby="leaderboard-title">
-      <h2 id="leaderboard-title">Bestenliste der Rekordrunden</h2>
+      <h2 id="leaderboard-title">Rekorde & Spielerleistungen</h2>
       <div
         className="ranking-tabs"
         role="group"
@@ -60,14 +63,14 @@ export function Leaderboard({
         >
           Alle Spieler
         </button>
+        <button
+          className={scope === "players" ? "primary" : "secondary"}
+          aria-pressed={scope === "players"}
+          onClick={() => setScope("players")}
+        >
+          Spielerleistungen
+        </button>
       </div>
-      <button
-        className="text-button"
-        aria-pressed={scope === "players"}
-        onClick={() => setScope("players")}
-      >
-        Spielerranglisten ansehen
-      </button>
       {scope === "players" ? (
         <PlayerLeaderboard state={state} />
       ) : scope === "all" ? (

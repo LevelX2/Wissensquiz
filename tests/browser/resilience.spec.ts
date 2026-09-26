@@ -7,6 +7,7 @@ test("Ein vorbereitetes Update unterbricht keine laufende Runde", async ({
   page,
 }) => {
   await page.goto("/");
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
     page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {

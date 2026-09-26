@@ -20,18 +20,18 @@ export function LearningPath({
       <label className="check">
         <input
           type="checkbox"
-          checked={!!state.settings.learningPath}
+          checked={state.settings.allDifficulties === true}
           disabled={busy}
           onChange={(e) => onChange(e.target.checked)}
         />
-        Optionalen Lernpfad nutzen
+        Alle Schwierigkeitsstufen freigeben
       </label>
       <p className="tiny muted">
-        {state.settings.learningPath
+        {!state.settings.allDifficulties
           ? "Du spielst nur bereits freigeschaltete Stufen je Genre. Deine Stufenauswahl gilt zusätzlich."
-          : "Freies Spiel: Alle Schwierigkeitsstufen stehen Dir zur Wahl."}
+          : "Freie Auswahl: Alle Stufen stehen Dir zur Wahl. Sichere Antworten zählen weiterhin für Deinen Lernpfad."}
       </p>
-      {state.settings.learningPath && (
+      {!state.settings.allDifficulties && (
         <>
           <p className="tiny">
             Je 20 verschiedene sicher richtig beantwortete Wissensziele schalten

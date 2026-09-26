@@ -17,6 +17,16 @@ beforeAll(async () => {
     "202609260003_player_rankings.sql",
   ])
     await db.exec(readFileSync(`supabase/migrations/${file}`, "utf8"));
+  await as(alice, async () => {
+    await save(alice, 0);
+    await sharing(false);
+  });
+  await db.exec(
+    readFileSync(
+      "supabase/migrations/202609260004_automatic_rankings.sql",
+      "utf8",
+    ),
+  );
 }, 30000);
 afterAll(() => db.close());
 async function as(id: string, fn: () => Promise<void>, role = "authenticated") {
@@ -72,17 +82,9 @@ const sharing = (enabled: boolean, id = alice) =>
     id,
   ]);
 let category: string;
-it("veröffentlicht erst nach Auswahl und gibt nur Ergebnisse ohne private Identität frei", async () => {
+it("nimmt vorhandene Konten automatisch auf und gibt nur Ergebnisse ohne private Identität frei", async () => {
   await as(alice, async () => {
-    await save(alice, 0);
-    expect(
-      (
-        await db.query<Record<string, unknown>>(
-          "select * from quiz_score_categories()",
-        )
-      ).rows,
-    ).toEqual([]);
-    await sharing(true);
+    await expect(sharing(false)).rejects.toThrow(/permission denied/);
     const categories = await db.query<{ category: string }>(
       "select * from quiz_score_categories()",
     );
@@ -105,13 +107,12 @@ it("veröffentlicht erst nach Auswahl und gibt nur Ergebnisse ohne private Ident
     await expect(
       db.query<Record<string, unknown>>("select * from quiz_shared_scores"),
     ).rejects.toThrow(/permission denied/);
-    await expect(sharing(true, bob)).rejects.toThrow(/account_changed/);
+    await expect(sharing(true, bob)).rejects.toThrow(/permission denied/);
   });
   await as(bob, async () => {
-    expect(
-      (await db.query<Record<string, unknown>>("select * from quiz_sharing"))
-        .rows,
-    ).toEqual([]);
+    await expect(db.query("select * from quiz_sharing")).rejects.toThrow(
+      /permission denied/,
+    );
     expect(
       (await db.query<Record<string, unknown>>("select * from quiz_saves"))
         .rows,
@@ -132,7 +133,6 @@ it("aktualisiert beim Speichern automatisch, behandelt Gleichstände und paginie
   });
   await as(bob, async () => {
     await save(bob, 0);
-    await sharing(true, bob);
     const first = await db.query<Record<string, unknown>>(
       "select * from quiz_rankings($1,0)",
       [category],
@@ -183,63 +183,77 @@ it("vergleicht Spieler pro Genre und Stufe, begrenzt Trefferquoten auf mindesten
     ).rejects.toThrow("invalid_sort");
   });
 });
-it("zieht geteilte Ergebnisse zurück, ohne Spielstände oder fremde Einträge zu löschen", async () => {
+it("verhindert Abwahl und Fremdzugriff, erhält private Stände und schließt unbestätigte Konten aus", async () => {
   await as(alice, async () => {
-    await sharing(false);
-    expect((await db.query("select * from quiz_players() ")).rows).toHaveLength(
-      1,
+    await expect(sharing(false)).rejects.toThrow(/permission denied/);
+    expect((await db.query("select * from quiz_players()")).rows).toHaveLength(
+      2,
     );
-    const rows = (
-      await db.query<Record<string, unknown>>(
-        "select * from quiz_rankings($1,0)",
-        [category],
-      )
-    ).rows;
-    expect(rows).toHaveLength(1);
-    expect(rows[0].player_name).toBe("Bob");
-    expect(
-      (await db.query<Record<string, unknown>>("select state from quiz_saves"))
-        .rows,
-    ).toHaveLength(1);
+    expect((await db.query("select * from quiz_saves")).rows).toHaveLength(1);
     await save(alice, 2);
     expect(
-      (
-        await db.query<Record<string, unknown>>(
-          "select * from quiz_rankings($1,0)",
-          [category],
-        )
-      ).rows,
-    ).toHaveLength(1);
+      (await db.query("select * from quiz_rankings($1,0)", [category])).rows,
+    ).toHaveLength(2);
   });
   await as(
     "",
     async () => {
-      await expect(
-        db.query<Record<string, unknown>>("select * from quiz_rankings($1,0)", [
-          category,
-        ]),
-      ).rejects.toThrow(/permission denied/);
-      await expect(sharing(true)).rejects.toThrow(/permission denied/);
-      await expect(db.query("select * from quiz_players()")).rejects.toThrow(
-        /permission denied/,
-      );
+      for (const query of [
+        "select * from quiz_players()",
+        "select * from quiz_score_categories()",
+        "select * from quiz_shared_scores",
+        "select quiz_project_scores('" + alice + "')",
+      ])
+        await expect(db.query(query)).rejects.toThrow(/permission denied/);
     },
     "anon",
   );
-  await db.query<Record<string, unknown>>(
-    "update auth.users set email_confirmed_at=null where id=$1",
-    [bob],
-  );
+  await db.query("update auth.users set email_confirmed_at=null where id=$1", [
+    bob,
+  ]);
   await as(alice, async () => {
     expect((await db.query("select * from quiz_players()")).rows).toHaveLength(
-      0,
+      1,
     );
     expect(
-      (
-        await db.query<Record<string, unknown>>(
-          "select * from quiz_score_categories()",
-        )
-      ).rows,
-    ).toEqual([]);
+      (await db.query("select * from quiz_rankings($1,0)", [category])).rows,
+    ).toHaveLength(1);
+    await expect(
+      db.query("select quiz_project_scores($1)", [alice]),
+    ).rejects.toThrow(/permission denied/);
+  });
+  await as(bob, async () => {
+    await expect(db.query("select * from quiz_players()")).rejects.toThrow(
+      /authentication_required/,
+    );
+  });
+});
+it("zeigt bestätigte Spieler auch ohne Runde und übernimmt Namensänderungen ohne Änderung der Spielstände", async () => {
+  const newcomer = "33333333-3333-4333-8333-333333333333";
+  await db.query("insert into auth.users values($1,now(),false,$2)", [
+    newcomer,
+    { display_name: "Neu" },
+  ]);
+  await db.query("update auth.users set raw_user_meta_data=$1 where id=$2", [
+    { display_name: "Neuer Name" },
+    alice,
+  ]);
+  await as(alice, async () => {
+    const players = (await db.query("select * from quiz_players()")).rows;
+    expect(players).toHaveLength(2);
+    expect(players[1]).toMatchObject({
+      player_name: "Neu",
+      completed: 0,
+      answered: 0,
+      correct: 0,
+      accuracy: null,
+    });
+    expect(
+      (await db.query("select * from quiz_rankings($1,0)", [category])).rows[0],
+    ).toMatchObject({ player_name: "Neuer Name" });
+    expect(
+      (await db.query("select * from quiz_players('rounds','Horror','',0)"))
+        .rows,
+    ).toHaveLength(1);
   });
 });
