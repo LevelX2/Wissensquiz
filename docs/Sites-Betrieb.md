@@ -25,6 +25,10 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Aktueller Veröffentlichungsstand
 
+Version 20 am 26.09.2026: Fragenstatistik standardmäßig nach Beantwortung, unter Profil → Optionen alternativ immer sichtbar oder ausgeblendet. App-Commit `270c5f767748b5dea8b873f3d2968cb6036836ee`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_b33a25fd4e14819198b504e35658e080`, Deployment `appgdep_6ab80a31bce081919de9c5bfeede632c`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 95 Logiktests, Build und 53 Browserfälle erfolgreich (51 im vollständigen Lauf, zwei nach Testlocator-Korrektur gezielt nachgeprüft). Lernfortschritt und Rohquellen unverändert. Regulärer Sites-Workflow und native Browserübergabe, keine zusätzliche Live-Browserprüfung.
+
+### Vorherige Veröffentlichung: Version 19
+
 Version 19 am 26.09.2026: persönliche Fragenstatistik in Entdecken und Besser werden, mit aufklappbarer Variantenbilanz. App-Commit `dacd0589896b0dd7dfefffdb38bae3f46739f1f0`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_449b52ac06208191833137728eec8fd4`, Deployment `appgdep_6ab80781e8bc8191898df993ed1af383`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 95 Logik-/Datenbanktests, Produktions-Build und alle 53 Browserprüfungen erfolgreich. Keine Datenbankänderung oder Fortschrittsmigration. Regulärer Sites-Workflow und native Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Geräteabnahme weiterhin offen.
 
 ### Vorherige Veröffentlichung: Version 18
