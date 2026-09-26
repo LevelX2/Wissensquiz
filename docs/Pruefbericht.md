@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 43 Logik-/Persistenztests und 15 Browserprüfungen erfolgreich. Letzter `npm audit`: 0 bekannte Schwachstellen; bei Horror-Ergänzung, Mehrfachauswahl und Feedback keine Abhängigkeiten geändert und Audit nicht erneut ausgeführt. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 45 Logik-/Persistenztests und 18 Browserprüfungen erfolgreich. Letzter `npm audit`: 0 bekannte Schwachstellen; bei Paketerweiterungen, Mehrfachauswahl, Feedback und Erklärungsanzeige keine Abhängigkeiten geändert und Audit nicht erneut ausgeführt. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -11,7 +11,7 @@ Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest
 | Vollständiger Import der gelieferten CSV | 180 akzeptiert, 0 verworfen, 0 Duplikate; 150 Ziele, 30 Varianten, 39 Themen, 50 leichte Abzeichenziele. |
 | BOM/UTF-8, CRLF, Komma/Semikolon/Tabulator, Quotes und mehrzeilige Felder | Gezielte Parserprüfungen bestanden. |
 | Fehlende Spalten, ungültige Lösung, kaputtes Quoting, doppelte Header und Variantenfehler | Nachvollziehbar ausgeschlossen. |
-| Antwortmischung und Feedback | Für jede der 540 Fragen stabile Zuordnung geprüft. |
+| Antwortmischung und Feedback | Für jede der 720 Fragen stabile Zuordnung geprüft. |
 | Punkte und Zeit | Grenzen bei 0, 5.000, 5.001, 29.999, 30.000 und 31.000 ms sowie falsche Antworten geprüft. |
 | Lernfortschritt | Kontrollierte Tage 0/1/4/11/32, frühe und gleichentägige Wiederholung, falsch und geraten geprüft. |
 | Auswahl | 5/3/2-Mischung, einzigartige Wissensziele, kleine Themen, begrenzte Fälligkeiten geprüft. |
@@ -72,3 +72,13 @@ Im isolierten Chromium-Profil bei kontrollierter Zeit die Checkboxen kombiniert,
 43 Logik-/Persistenztests einschließlich alter/neuer Sicherungseinstellungen erfolgreich. 15 Browserprüfungen erfolgreich: 14 im Gesamtlauf, Soundprüfung nach Korrektur der Wartebedingung für das asynchrone Speichern gezielt erneut bestanden. Web-Audio-Oszillatorerzeugung im echten Browser beobachtet: keine Töne beim Laden, Signale nach Nutzeraktion und bei Antwortfeedback, kein Ton nach gespeichertem Stummschalten und Reload. Vibrationsaufrufe im Test abgefangen und Muster überprüft; fehlende Audio-/Vibrations-APIs verhindern keine Runde. Keine physische Hör- oder Vibrationsprüfung behauptet.
 
 Abgeschlossene Rekordrunde mit mehreren Genres/Stufen und anschließende Sammlung ohne JavaScript-Fehler geprüft; dabei den alten Positionsparser für Rekordschlüssel durch die lesbare Rundenzuordnung ersetzt. Genre-SVGs und gesperrte Abzeichenmedaille anhand gerenderter Screenshots kontrolliert. Bestehende Regeln für das einzige Sci-Fi-Abzeichen unverändert; weitere Genre-Abzeichen nicht umgesetzt.
+
+## Fantasy, Conjuring-Vertiefung und sichtbare Schwierigkeit
+
+180 Fantasy-Fragen vollständig akzeptiert: 150 Ziele, 30 Varianten, zwölf Themen, keine Warnungen, Ausschlüsse oder ID-Konflikte. Gesamtbestand 720 Fragen, 600 Ziele und 88 Themen. Originaldatei, Rohquellenkopie, öffentliche Datei und Build-Kopie bytegleich (SHA-256: `1245252AD7CDBCFCD2954E7752906E1B2F350A8D6F0110E58DA96165D5CC1796`). Keine pauschale Faktenprüfung der Fantasy-Fragen.
+
+45 Logik-/Persistenztests und vollständiger Lauf mit 18 Chromium-Prüfungen erfolgreich. Altstände mit einem, zwei und drei Paketen transaktional ergänzt; Fragen, Runden, Lernereignisse, Einstellungen und Favoriten erhalten. Fantasy im Offline-Cache nachgewiesen und eine Herr-der-Ringe-Runde offline nach Neuladen fortgesetzt. Rekordprüfung wartet nun auf den fertigen Rundenabschluss, bevor sie zur Sammlung navigiert; zuvor konnte die Testnavigation zu früh erfolgen.
+
+Darsteller von Ed/Lorraine Warren und Roger/Carolyn Perron einzeln im AFI-Filmkatalog geprüft. Browserprüfung bestätigt: Ergänzung erst nach der Antwort, unter geschlossener Vertiefung zunächst verborgen, nach Aufklappen mit korrekter Rollenzuordnung und Quellenlink sichtbar, auch nach Wiederaufnahme. Keine gespeicherten Frageinhalte geändert. Weitere Erklärungstexte nicht systematisch überarbeitet.
+
+Schwierigkeitsanzeige aus der jeweiligen Frage vor und nach Antworten in den Browserabläufen geprüft; mobile Darstellung und Umbruch bei 390/320 Pixeln ohne horizontalen Überlauf, Screenshot der Fragenansicht angesehen. Produktions-Build und `git diff --check` erfolgreich. Geräte-/Live-PWA-Grenzen unverändert.

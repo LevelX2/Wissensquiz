@@ -33,6 +33,7 @@ import {
 import { download, read, restore, update, validateBackup } from "./storage";
 import { useOffline } from "./offline";
 import { BadgeIcon, GenreIcon } from "./Icons";
+import { filmDetails } from "./filmDetails";
 import {
   playFeedback,
   stopFeedback,
@@ -952,6 +953,7 @@ export function App() {
 }
 function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
+  const film = filmDetails(q);
   return (
     <div className="explanation">
       <span className="eyebrow">DIE IDEE DAHINTER</span>
@@ -961,10 +963,27 @@ function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
           Zu Deiner Antwort: {selected.feedback}
         </p>
       )}
-      {q.context && (
+      {(q.context || film) && (
         <details>
           <summary>Etwas tiefer eintauchen</summary>
-          <p>{q.context}</p>
+          {q.context && <p>{q.context}</p>}
+          {film && (
+            <div>
+              <h3>Figuren und Darsteller</h3>
+              <ul>
+                {film.cast.map(({ role, actor }) => (
+                  <li key={role}>
+                    <strong>{role}</strong>: {actor}
+                  </li>
+                ))}
+              </ul>
+              <p>
+                <a href={film.source} target="_blank" rel="noreferrer">
+                  Besetzung im AFI-Filmkatalog ↗
+                </a>
+              </p>
+            </div>
+          )}
         </details>
       )}
       {q.anchor && (
@@ -1113,7 +1132,12 @@ function QuestionScreen({
         </div>
       )}
       <section className="question-card">
-        <span className="eyebrow">DEIN MOMENT DER NEUGIER</span>
+        <div className="question-heading">
+          <span className="eyebrow">DEIN MOMENT DER NEUGIER</span>
+          <span className="pill question-difficulty">
+            Schwierigkeit: {difficultyLabel(q.difficulty)}
+          </span>
+        </div>
         <h1>{q.question}</h1>
         <div className="answers">
           {round.order[index].map((id, i) => {

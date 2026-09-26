@@ -20,9 +20,11 @@ Eine einmal erreichte Festigung bleibt bei weiteren sicheren Antworten erhalten;
 
 ## Auswahl und Runden
 
-Die Hauptauswahl kombiniert mehrere Filmgenres und Schwierigkeitsstufen. Ein Genre stammt unverändert aus `metadata.subdomain`, ersatzweise aus `domain`; `Science-Fiction` wird als „Sci-Fi“ angezeigt. Innerhalb einer Gruppe gilt ODER, zwischen Genre und Stufe UND. Aktuell sind Sci-Fi, Action und Horror enthalten; zukünftige importierte Genres werden aus den vorhandenen Fragen abgeleitet. Eine optionale Film-/Reihenauswahl schränkt zusätzlich ein. Leere Auswahl liefert keine Runde. Die gewählten Genres werden nicht künstlich gleichverteilt; die bestehenden Lernregeln wählen aus dem passenden Gesamtbestand.
+Die Hauptauswahl kombiniert mehrere Filmgenres und Schwierigkeitsstufen. Ein Genre stammt unverändert aus `metadata.subdomain`, ersatzweise aus `domain`; `Science-Fiction` wird als „Sci-Fi“ angezeigt. Innerhalb einer Gruppe gilt ODER, zwischen Genre und Stufe UND. Aktuell sind Sci-Fi, Action, Horror und Fantasy enthalten; zukünftige importierte Genres werden aus den vorhandenen Fragen abgeleitet. Eine optionale Film-/Reihenauswahl schränkt zusätzlich ein. Leere Auswahl liefert keine Runde. Die gewählten Genres werden nicht künstlich gleichverteilt; die bestehenden Lernregeln wählen aus dem passenden Gesamtbestand.
 
 Neue Runden speichern `filters.genres` und `filters.difficulties` als sortierte, duplikatfreie Listen. Sicherungen behalten diese Felder und prüfen, dass die Rundensnapshots zur Auswahl passen. Alte Runden ohne `filters` verwenden weiterhin ihre bisherigen `topic`-/`difficulty`-Felder; keine Migration von Fragen oder Lernereignissen nötig.
+
+Jede Frage zeigt vor und nach der Antwort ihre eigene Schwierigkeit als Text („Leicht“, „Mittel“ oder „Schwer“) aus dem gespeicherten Fragensnapshot. Eine kombinierte Rundenauswahl ersetzt diese Einzelangabe nicht; Punkte und Lernregeln ändern sich dadurch nicht.
 
 Entdecken zielt bei zehn Fragen auf 5 neue/wenig bekannte, 3 fällige und 2 gefestigte, noch nicht fällige Ziele. Besser werden erhöht den Anteil fälliger Ziele auf bis zu 5. Fehlende Gruppen werden aus anderen Gruppen aufgefüllt. Insgesamt höchstens fünf fällige Ziele pro Runde: Bei ausschließlich fälligem Bestand wird die Runde kürzer. Keine Wiederholung desselben Wissensziels zum Auffüllen. Rekordrunden ziehen zufällig aus dem gewählten Thema und der Schwierigkeit, ebenfalls ohne Zielduplikate.
 
@@ -40,7 +42,7 @@ Für neue Runden beginnt der Rekordschlüssel mit `genres-v1`, gefolgt von der k
 
 ## Erfahrung und Abzeichen
 
-Genre-Icons illustrieren die Auswahl, sind keine erworbenen Abzeichen. Das bestehende Sci-Fi-Abzeichen wird mit einem Schloss vor Erwerb und einer Medaille mit Stern nach Erwerb dargestellt. Es gibt noch keine eigenen Action-/Horror-Abzeichen; die bisherigen Vergaberegeln bleiben unverändert.
+Genre-Icons illustrieren die Auswahl, sind keine erworbenen Abzeichen. Das bestehende Sci-Fi-Abzeichen wird mit einem Schloss vor Erwerb und einer Medaille mit Stern nach Erwerb dargestellt. Es gibt noch keine eigenen Action-/Horror-/Fantasy-Abzeichen; die bisherigen Vergaberegeln bleiben unverändert.
 
 10 XP pro eindeutig abgeschlossener Runde; erneutes Laden/Abschließen erzeugt keine weiteren XP. Level = 1 + floor(XP / 100). XP werden aus abgeschlossenen Runden abgeleitet und schalten keine Wissensabzeichen frei.
 

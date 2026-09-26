@@ -10,6 +10,7 @@
 
 - [Starten, Funktionen und Projektaufbau](../../../README.md)
 - [CSV-Import, vollständige Feldzuordnung und Inhaltsgrenzen](../../../docs/Importformat.md)
+- [Erklärungstiefe und geprüfte Darstellerergänzungen](../../../docs/Erklaerungstiefe.md)
 - [Lernregeln, Auswahl, Punkte, Speicher- und Offlinevertrag](../../../docs/Lernregeln.md)
 - [Entwurf: Konten und gemeinsame Spielstände](../../../docs/Konten-und-Spielstaende.md)
 - [Tatsächliche Prüfungen und bekannte Grenzen](../../../docs/Pruefbericht.md)
@@ -19,4 +20,6 @@
 - [Action-Importbericht](../../../docs/importbericht-action.json)
 - [Horror-Rohquelle](../../01%20Rohquellen/Horror_Quiz_180_Fragen.csv)
 - [Horror-Importbericht](../../../docs/importbericht-horror.json)
+- [Fantasy-Rohquelle](../../01%20Rohquellen/Fantasy_Quiz_180_Fragen.csv)
+- [Fantasy-Importbericht](../../../docs/importbericht-fantasy.json)
 - [Private Sites-Veröffentlichung und Windows-Ablauf](../../../docs/Sites-Betrieb.md)

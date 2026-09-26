@@ -10,6 +10,8 @@ Das zusätzlich gelieferte `Action_Quiz_180_Fragen.csv` hat dasselbe Format mit 
 
 Am 26.09.2026 zusätzlich geliefert: `Horror_Quiz_180_Fragen.csv`, ebenfalls mit 31 Spalten. Alle 180 Datensätze wurden mit dem App-Parser gegen den vorhandenen Sci-Fi-/Action-Bestand ausgewertet: 150 Wissensziele, 30 Varianten und 20 Themen, keine Ausschlüsse, Warnungen oder ID-Konflikte. Der Gesamtbestand umfasst jetzt 540 Fragen, 450 Wissensziele und 76 Themen. Rohquelle und `public/horror-fragen.csv` sind bytegleich. Die automatische transaktionale Ergänzung erhält bestehende Fragen und Lernstände; der Produktions-Build nimmt das Paket in den Offline-Cache auf. [Horror-Bericht](importbericht-horror.json). Die fachlichen Aussagen und Quellenkennzeichnungen stammen unverändert aus der Nutzerdatei; keine unabhängige Faktenprüfung.
 
+Ebenfalls am 26.09.2026 geliefert: `Fantasy_Quiz_180_Fragen.csv`, 31 Spalten. Vollständige Prüfung mit dem App-Parser gegen alle drei vorhandenen Pakete: 180 akzeptierte Fragen, 150 Wissensziele, 30 Varianten und zwölf Themen; keine Ausschlüsse, Warnungen oder ID-Konflikte. Aktueller Gesamtbestand: 720 Fragen, 600 Wissensziele, 120 Varianten und 88 Themen. Rohquelle, `public/fantasy-fragen.csv` und Build-Kopie bytegleich. Automatische Ergänzung innerhalb derselben Speichertransaktion; vorhandene Inhalte und Lernstände bleiben erhalten. [Fantasy-Bericht](importbericht-fantasy.json). Filmangaben nicht unabhängig fachlich geprüft.
+
 | CSV | Intern und Verwendung |
 | --- | --- |
 | `question_id` | `id`; verpflichtend und eindeutig. Bereits gespeicherte IDs werden mit Hinweis übersprungen. |
@@ -37,6 +39,7 @@ Am 26.09.2026 zusätzlich geliefert: `Horror_Quiz_180_Fragen.csv`, ebenfalls mit
 
 ## Identität und Fehlerbehandlung
 
+- `.gitattributes` verhindert die automatische Zeilenenden-Konvertierung von CSV-Dateien durch Git. Die ursprünglichen CRLF-Zeilenenden bleiben zusammen mit dem Inhalt bytegenau erhalten.
 - Fehlende Fragen-ID: Ausschluss, keine zufällig generierte Identität.
 - Fehlendes Wissensziel ohne Variantenverweis: `question:<question_id>` plus Warnung. Nicht markierte Varianten lassen sich dadurch nicht erkennen.
 - Mehrfach dieselbe ID innerhalb einer Datei: alle entsprechenden Datensätze ausschließen. Vorhandene IDs aus dem Browserbestand bleiben unverändert.
@@ -48,3 +51,7 @@ Am 26.09.2026 zusätzlich geliefert: `Horror_Quiz_180_Fragen.csv`, ebenfalls mit
 - Kein Auto-Update bestehender Fragen: IDs werden weder überschrieben noch still dupliziert. Runden enthalten zusätzlich unveränderliche Inhaltssnapshots.
 
 Es wurden keine Filmplakate, externen Bilder oder Audiodateien eingebunden. Die Oberfläche verwendet eigene geometrische Grafiken und Systemschriften.
+
+## Redaktionelle Vertiefung
+
+Geprüfte Zusatzangaben können getrennt vom Import in der Erklärung erscheinen. Derzeit betrifft dies die Besetzung von „Conjuring – Die Heimsuchung“ (2013). Rohdateien, Frageversionen, IDs und Rundensnapshots werden dabei nicht überschrieben. Umfang, Quelle und Grenzen: [Erklärungstiefe](Erklaerungstiefe.md).

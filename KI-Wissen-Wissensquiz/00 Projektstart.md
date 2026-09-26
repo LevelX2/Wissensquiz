@@ -4,8 +4,9 @@
 
 - Spielbare deutsche React-/TypeScript-Testversion mit Entdecken, Besser werden und Rekordrunde umgesetzt.
 - Filmgenres und Schwierigkeitsstufen als Mehrfachauswahl; einzelne Filme/Reihen nur als optionale Verfeinerung. Alte Runden und Spielstände bleiben erhalten.
+- Schwierigkeit jeder einzelnen Frage vor und nach der Antwort sichtbar. Geprüfte Darstellerergänzung zu Conjuring in der Vertiefung; systematische Überarbeitung der übrigen Erklärungen noch offen.
 - Kurze abschaltbare Soundeffekte, optionale Vibration, Genre-Icons und deutlicher gesperrter/erworbener Zustand des vorhandenen Sci-Fi-Abzeichens. Weitere Genre-Abzeichen noch offen.
-- 540 gelieferte Fragen aus Sci-Fi, Action und Horror, 450 Wissensziele und 90 Varianten; 76 Themen. Sämtliche Datensätze strukturell akzeptiert.
+- 720 gelieferte Fragen aus Sci-Fi, Action, Horror und Fantasy, 600 Wissensziele und 120 Varianten; 88 Themen. Sämtliche Datensätze strukturell akzeptiert.
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
 - Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
 - Lokales Git ohne Remote; Integrationsbranch `main`.

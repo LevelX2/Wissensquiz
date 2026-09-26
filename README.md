@@ -23,16 +23,18 @@ npm run preview
 
 ## Spielen
 
-- **Filmgenres kombinieren:** Sci-Fi, Action und Horror können gemeinsam oder einzeln ausgewählt werden. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen sind eine optionale, aufklappbare Verfeinerung.
+- **Filmgenres kombinieren:** Sci-Fi, Action, Horror und Fantasy können gemeinsam oder einzeln ausgewählt werden. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen sind eine optionale, aufklappbare Verfeinerung.
 - **Schwierigkeitsstufen kombinieren:** zum Beispiel Leicht + Mittel. Eine leere Genre- oder Stufenauswahl startet keine Runde. Die Auswahl bleibt im Rundensnapshot, in Sicherungen und in getrennten Rekordkategorien erhalten; alte Runden bleiben lesbar.
+- Jede Frage zeigt ihre eigene Schwierigkeit als „Leicht“, „Mittel“ oder „Schwer“, auch nach der Antwort.
 - **Ton & Vibration:** kurze Soundeffekte für Start, Antworten, nächste Frage, Zeitablauf und Abschluss. Ton oben jederzeit umschaltbar; optionale Vibration und ein Probesignal unter Einstellungen & Daten. Kein Ton beim bloßen Seitenladen. Einstellungen bleiben lokal erhalten, Signale funktionieren auch offline.
-- Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action) und Geist (Horror). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.
+- Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action), Geist (Horror) und Zauberstab (Fantasy). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.
 
 - Erste Runde standardmäßig fünf, weitere zehn unterschiedliche Wissensziele; kleinere Bestände verkürzen die Runde transparent.
 - **Entdecken:** neue/wenig bekannte Ziele, fällige Wiederholungen und sichere Inhalte.
 - **Besser werden:** fällige Ziele stärker gewichtet, ohne Zeitdruck.
 - **Rekordrunde:** 30 Sekunden pro Frage; 100 Punkte für richtig plus 2 je vollständig verbleibender Sekunde. 25 volle Sekunden = 150 Punkte. Lokale Rekorde getrennt nach Thema, Schwierigkeit, tatsächlicher Rundengröße und Regelversion.
 - Nach jeder Antwort Erklärung, optional Vertiefung, spezifisches Fehlerfeedback, Merksatz und Quellen. „War geraten“ verändert nur das Lernen, keine Punkte. Bewusster Wechsel zur nächsten Frage.
+- Die Vertiefung zu „Conjuring – Die Heimsuchung“ nennt zusätzlich die Darsteller der Warrens und Perrons mit geprüfter Quelle. Weitere redaktionelle Ergänzungen sind offen; [Umfang und Erklärungstiefe](docs/Erklaerungstiefe.md).
 - Sammlung mit exklusiven Statuszahlen, maximal drei Lieblingsthemen, begrenztem Fachabzeichen und Rundenrückblick. Erfahrung: 10 XP je abgeschlossener Runde, Level 1 + ganze 100 XP.
 - Meldungen werden nur lokal gespeichert und können exportiert werden.
 
@@ -43,6 +45,8 @@ Die gelieferte **SciFi_Quiz_180_Fragen.csv** ist das Standardpaket: **180 Fragen
 Zusätzlich enthalten: **Action_Quiz_180_Fragen.csv**, ebenfalls unverändert, mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 17 Themen**. Keine Ausschlüsse oder ID-Konflikte. Zusammen **360 Fragen, 300 Wissensziele und 56 Themen**. Das Action-Paket wird bei vorhandenen Sci-Fi-Spielständen beim nächsten App-Start ergänzt; Runden und Lernstände bleiben erhalten. [Action-Importbericht](docs/importbericht-action.json).
 
 Neu enthalten: **Horror_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 20 Themen**. Keine Ausschlüsse, Warnungen oder ID-Konflikte mit den bisherigen Paketen. Insgesamt **540 Fragen, 450 Wissensziele und 76 Themen**. Das Horror-Paket ergänzt bestehende Sci-Fi-/Action-Spielstände beim App-Start transaktional und gehört zum Offline-Paket. [Horror-Importbericht](docs/importbericht-horror.json). Seit 26.09.2026 als private Sites-Version 3 live. Für ein wartendes App-Update alle bisherigen Quiz-Fenster schließen und die Adresse neu öffnen.
+
+Zusätzlich enthalten: **Fantasy_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 12 Themen**, darunter Der Herr der Ringe, Harry Potter und Die Chroniken von Narnia. Keine Ausschlüsse, Warnungen oder ID-Konflikte. Der aktuelle Gesamtbestand umfasst **720 Fragen, 600 Wissensziele und 88 Themen**. Fantasy ist als eigenes Genre mit anderen Genres kombinierbar und offline verfügbar. Bestehende Fragen, Runden, Lernstände und Einstellungen bleiben erhalten. [Fantasy-Importbericht](docs/importbericht-fantasy.json).
 
 `verification_status=redaktionell_geprueft` ist eine Angabe der gelieferten Datei. Eine unabhängige Prüfung aller Filmaussagen oder verlinkten Seiten wurde nicht durchgeführt. Keine Vertiefungen oder Fehlererklärungen wurden ergänzt.
 
@@ -82,6 +86,7 @@ Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach b
 | `src/offline.ts`, `scripts/build-sw.mjs` | Paketstatus und sicher wartende App-Updates |
 | `public/fragen.csv`, `public/action-fragen.csv`, `src/packages.ts` | Gelieferte Standardpakete und transaktionale Ergänzung |
 | `public/horror-fragen.csv` | Unverändertes Horror-Paket, ebenfalls automatisch ergänzt und offline verfügbar |
+| `public/fantasy-fragen.csv` | Unverändertes Fantasy-Paket, automatisch ergänzt und offline verfügbar |
 | `tests/` | Logik-, Persistenz- und Browserprüfungen |
 
 ## Prüfen

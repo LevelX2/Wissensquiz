@@ -5,6 +5,7 @@ const imported = [
   ...importCsv(readFileSync("public/fragen.csv", "utf8")).questions,
   ...importCsv(readFileSync("public/action-fragen.csv", "utf8")).questions,
   ...importCsv(readFileSync("public/horror-fragen.csv", "utf8")).questions,
+  ...importCsv(readFileSync("public/fantasy-fragen.csv", "utf8")).questions,
 ];
 async function launch(page: Page) {
   await page.goto("/");
@@ -13,6 +14,9 @@ async function launch(page: Page) {
 async function answerCurrent(page: Page, correct = true) {
   const prompt = await page.locator(".question-card h1").innerText();
   const q = imported.find((q) => q.question === prompt)!;
+  const difficulty = `Schwierigkeit: ${q.difficulty[0].toUpperCase()}${q.difficulty.slice(1)}`;
+  await expect(page.locator(".question-difficulty")).toHaveText(difficulty);
+  await expect(page.locator(".question-difficulty")).toBeVisible();
   const a = q.answers.find((a) =>
     correct ? a.id === q.correctId : a.id !== q.correctId,
   )!;
@@ -22,6 +26,8 @@ async function answerCurrent(page: Page, correct = true) {
   await expect(button).toBeEnabled();
   await button.click();
   await expect(page.locator(".feedback")).toBeVisible();
+  await expect(page.locator(".question-difficulty")).toHaveText(difficulty);
+  await expect(page.locator(".question-difficulty")).toBeVisible();
   return q;
 }
 
@@ -36,9 +42,10 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
     name: "Schwierigkeitsstufen",
     exact: true,
   });
-  await expect(genres.getByRole("checkbox")).toHaveCount(3);
+  await expect(genres.getByRole("checkbox")).toHaveCount(4);
   await expect(page.getByLabel("Thema wählen")).not.toBeVisible();
   await genres.getByLabel("Action", { exact: true }).uncheck();
+  await genres.getByLabel("Fantasy", { exact: true }).uncheck();
   await levels.getByLabel("Schwer", { exact: true }).uncheck();
   expect(
     await page.evaluate(
@@ -108,7 +115,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   expect(await readRound()).toEqual(before);
 });
 
-for (const oldPackageCount of [1, 2]) {
+for (const oldPackageCount of [1, 2, 3]) {
   test(`Neue Pakete ergänzen einen Spielstand mit ${oldPackageCount} Paketen beim Neuladen`, async ({
     page,
   }) => {
@@ -133,13 +140,16 @@ for (const oldPackageCount of [1, 2]) {
             const state = read.result;
             state.questions = state.questions.filter(
               (q: { id: string }) =>
-                !q.id.startsWith("HOR-") &&
-                (packageCount === 2 || !q.id.startsWith("ACT-")),
+                !q.id.startsWith("FAN-") &&
+                (packageCount >= 3 || !q.id.startsWith("HOR-")) &&
+                (packageCount >= 2 || !q.id.startsWith("ACT-")),
             );
             state.imports = state.imports.filter(
               (r: { filename: string }) =>
-                r.filename !== "Horror_Quiz_180_Fragen.csv" &&
-                (packageCount === 2 ||
+                r.filename !== "Fantasy_Quiz_180_Fragen.csv" &&
+                (packageCount >= 3 ||
+                  r.filename !== "Horror_Quiz_180_Fragen.csv") &&
+                (packageCount >= 2 ||
                   r.filename !== "Action_Quiz_180_Fragen.csv"),
             );
             store.put(state, "current");
@@ -159,7 +169,7 @@ for (const oldPackageCount of [1, 2]) {
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
     await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
     await expect(
-      page.getByText("540 Fragen · 450 Wissensziele · 0 Demo-Fragen"),
+      page.getByText("720 Fragen · 600 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
   });
 }
@@ -243,6 +253,10 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
     .getByLabel("Action", { exact: true })
     .uncheck();
   await page
+    .getByRole("group", { name: "Filmgenres", exact: true })
+    .getByLabel("Fantasy", { exact: true })
+    .uncheck();
+  await page
     .getByRole("group", { name: "Schwierigkeitsstufen", exact: true })
     .getByLabel("Schwer", { exact: true })
     .uncheck();
@@ -256,6 +270,9 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
       })
       .click();
   }
+  await expect(
+    page.getByRole("heading", { name: "Eine Runde weiter." }),
+  ).toBeVisible();
   await page
     .getByRole("button", { name: "Meine Sammlung", exact: true })
     .click();
@@ -267,6 +284,46 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
     .locator(".badge-panel")
     .screenshot({ path: "test-results/badge-locked.png" });
   expect(errors).toEqual([]);
+});
+
+test("Conjuring zeigt Darsteller mit Quelle erst in der Vertiefung", async ({
+  page,
+}) => {
+  await launch(page);
+  await page
+    .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
+    .click();
+  await page.getByLabel("Thema wählen").selectOption("Conjuring");
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(
+    page.getByRole("heading", { name: "Figuren und Darsteller" }),
+  ).toHaveCount(0);
+  await answerCurrent(page);
+  const details = page.locator("details").filter({
+    has: page.getByText("Etwas tiefer eintauchen", { exact: true }),
+  });
+  await expect(
+    details.getByText("Patrick Wilson", { exact: false }),
+  ).not.toBeVisible();
+  await details.getByText("Etwas tiefer eintauchen", { exact: true }).click();
+  await expect(
+    details.getByRole("listitem").filter({ hasText: "Ed Warren:" }),
+  ).toHaveText("Ed Warren: Patrick Wilson");
+  await expect(
+    details.getByRole("listitem").filter({ hasText: "Lorraine Warren:" }),
+  ).toHaveText("Lorraine Warren: Vera Farmiga");
+  await expect(
+    details.getByRole("link", { name: "Besetzung im AFI-Filmkatalog" }),
+  ).toHaveAttribute(
+    "href",
+    "https://catalog.afi.com/Catalog/MovieDetails/69558",
+  );
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
+  await expect(
+    page.getByText("Ed Warren: Patrick Wilson", { exact: false }),
+  ).toBeVisible();
 });
 
 test("Fehlende Audio- und Vibrationsschnittstellen verhindern keine Spielrunde", async ({
@@ -356,7 +413,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   ).toHaveAttribute("aria-pressed", "true");
   await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
   await expect(
-    page.getByText("540 Fragen · 450 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("720 Fragen · 600 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
@@ -445,35 +502,57 @@ test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await expect(page.getByRole("button", { name: "Fortsetzen" })).toHaveCount(0);
 });
-test("Offline-Neuladen mit gespeichertem Paket und Spielfortschritt", async ({
-  page,
-  context,
-}) => {
-  await launch(page);
-  await expect(page.getByText("Paket bereit", { exact: false })).toBeVisible({
-    timeout: 20000,
+for (const offlinePackage of [
+  { genre: "Horror", topic: "Halloween", path: "/horror-fragen.csv" },
+  {
+    genre: "Fantasy",
+    topic: "Der Herr der Ringe",
+    path: "/fantasy-fragen.csv",
+  },
+]) {
+  test(`${offlinePackage.genre}: Offline-Neuladen mit gespeichertem Paket und Spielfortschritt`, async ({
+    page,
+    context,
+  }) => {
+    await launch(page);
+    await expect(page.getByText("Paket bereit", { exact: false })).toBeVisible({
+      timeout: 20000,
+    });
+    const genreChoices = page.getByRole("group", {
+      name: "Filmgenres",
+      exact: true,
+    });
+    for (const genre of ["Action", "Sci-Fi", "Horror", "Fantasy"].filter(
+      (g) => g !== offlinePackage.genre,
+    )) {
+      await genreChoices.getByLabel(genre, { exact: true }).uncheck();
+    }
+    await expect(
+      genreChoices.getByLabel(offlinePackage.genre, { exact: true }),
+    ).toBeChecked();
+    await page
+      .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
+      .click();
+    await page.getByLabel("Thema wählen").selectOption(offlinePackage.topic);
+    expect(
+      await page.evaluate(
+        async (path) => (await caches.match(path))?.ok,
+        offlinePackage.path,
+      ),
+    ).toBe(true);
+    await page.getByRole("button", { name: "Losspielen" }).click();
+    await answerCurrent(page, true);
+    await page.getByRole("button", { name: "Pause & Startseite" }).click();
+    await context.setOffline(true);
+    await page.reload();
+    await expect(page.locator(".connection")).toContainText("Offline");
+    await page.getByRole("button", { name: "Fortsetzen" }).click();
+    await expect(page.locator(".feedback")).toBeVisible();
+    await page.getByRole("button", { name: "Nächste Frage" }).click();
+    await answerCurrent(page, true);
+    await context.setOffline(false);
   });
-  await page
-    .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
-    .click();
-  await page.getByLabel("Thema wählen").selectOption("Halloween");
-  expect(
-    await page.evaluate(
-      async () => (await caches.match("/horror-fragen.csv"))?.ok,
-    ),
-  ).toBe(true);
-  await page.getByRole("button", { name: "Losspielen" }).click();
-  await answerCurrent(page, true);
-  await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await context.setOffline(true);
-  await page.reload();
-  await expect(page.locator(".connection")).toContainText("Offline");
-  await page.getByRole("button", { name: "Fortsetzen" }).click();
-  await expect(page.locator(".feedback")).toBeVisible();
-  await page.getByRole("button", { name: "Nächste Frage" }).click();
-  await answerCurrent(page, true);
-  await context.setOffline(false);
-});
+}
 test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurücksetzen", async ({
   page,
 }) => {
@@ -495,7 +574,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Gültige Fragen importieren" })
     .click();
   await expect(
-    page.getByText("552 Fragen · 462 Wissensziele · 12 Demo-Fragen"),
+    page.getByText("732 Fragen · 612 Wissensziele · 12 Demo-Fragen"),
   ).toBeVisible();
   await expect(
     page.getByRole("button", {

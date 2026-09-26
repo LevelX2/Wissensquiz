@@ -19,57 +19,77 @@ const action = importCsv(
 );
 const existing = [...scifi.questions, ...action.questions];
 const horror = importCsv(contents[2].text, existing, contents[2].filename);
+const beforeFantasy = [...existing, ...horror.questions];
+const fantasy = importCsv(
+  contents[3].text,
+  beforeFantasy,
+  contents[3].filename,
+);
 
-it("importiert Horror vollständig ohne Konflikte und erhält Lösungen, Feedback und Varianten", () => {
-  expect(horror.report.accepted).toBe(180);
-  expect(horror.report.rejected).toBe(0);
-  expect(horror.report.duplicates).toBe(0);
-  expect(horror.report.warnings).toEqual([]);
-  expect(new Set(horror.questions.map((q) => q.knowledgeId)).size).toBe(150);
-  expect(horror.questions.filter((q) => q.metadata.variant_of)).toHaveLength(
-    30,
-  );
-  expect(readFileSync("public/horror-fragen.csv")).toEqual(
-    readFileSync(
-      "KI-Wissen-Wissensquiz/01 Rohquellen/Horror_Quiz_180_Fragen.csv",
-    ),
-  );
-  for (const q of horror.questions) {
-    const mixed = shuffle(q.answers, () => 0.4);
-    expect(mixed.find((a) => a.id === q.correctId)?.text).toBe(
-      q.metadata[`answer_${q.metadata.correct_answer.toLowerCase()}`],
+it.each([
+  { name: "Horror", imported: horror, previous: existing, path: "horror" },
+  {
+    name: "Fantasy",
+    imported: fantasy,
+    previous: beforeFantasy,
+    path: "fantasy",
+  },
+])(
+  "importiert $name vollständig ohne Konflikte und erhält Lösungen, Feedback und Varianten",
+  ({ name, imported, previous, path }) => {
+    expect(imported.report.accepted).toBe(180);
+    expect(imported.report.rejected).toBe(0);
+    expect(imported.report.duplicates).toBe(0);
+    expect(imported.report.warnings).toEqual([]);
+    expect(new Set(imported.questions.map((q) => q.knowledgeId)).size).toBe(
+      150,
     );
-    expect(q.context && q.anchor && q.sources.length).toBeTruthy();
-    for (const a of mixed)
-      expect(a.feedback).toBe(q.metadata[`feedback_${a.id.slice(-1)}`]);
-    if (q.metadata.variant_of)
-      expect(q.knowledgeId).toBe(
-        horror.questions.find((a) => a.id === q.metadata.variant_of)
-          ?.knowledgeId,
+    expect(
+      imported.questions.filter((q) => q.metadata.variant_of),
+    ).toHaveLength(30);
+    expect(readFileSync(`public/${path}-fragen.csv`)).toEqual(
+      readFileSync(
+        `KI-Wissen-Wissensquiz/01 Rohquellen/${name}_Quiz_180_Fragen.csv`,
+      ),
+    );
+    for (const q of imported.questions) {
+      const mixed = shuffle(q.answers, () => 0.4);
+      expect(mixed.find((a) => a.id === q.correctId)?.text).toBe(
+        q.metadata[`answer_${q.metadata.correct_answer.toLowerCase()}`],
       );
-  }
-  const combined = [...existing, ...horror.questions];
-  writeFileSync(
-    "docs/importbericht-horror.json",
-    JSON.stringify(
-      {
-        ...horror.report,
-        knowledgeGoals: new Set(horror.questions.map((q) => q.knowledgeId))
-          .size,
-        variants: horror.questions.filter((q) => q.metadata.variant_of).length,
-        topics: new Set(horror.questions.map((q) => q.topic)).size,
-        combinedQuestions: combined.length,
-        combinedKnowledgeGoals: new Set(combined.map((q) => q.knowledgeId))
-          .size,
-        combinedTopics: new Set(combined.map((q) => q.topic)).size,
-        contentNote:
-          "Unveränderte Nutzerdatei. Strukturell geprüft; keine unabhängige Faktenprüfung.",
-      },
-      null,
-      2,
-    ),
-  );
-});
+      expect(q.context && q.anchor && q.sources.length).toBeTruthy();
+      for (const a of mixed)
+        expect(a.feedback).toBe(q.metadata[`feedback_${a.id.slice(-1)}`]);
+      if (q.metadata.variant_of)
+        expect(q.knowledgeId).toBe(
+          imported.questions.find((a) => a.id === q.metadata.variant_of)
+            ?.knowledgeId,
+        );
+    }
+    const combined = [...previous, ...imported.questions];
+    writeFileSync(
+      `docs/importbericht-${path}.json`,
+      JSON.stringify(
+        {
+          ...imported.report,
+          knowledgeGoals: new Set(imported.questions.map((q) => q.knowledgeId))
+            .size,
+          variants: imported.questions.filter((q) => q.metadata.variant_of)
+            .length,
+          topics: new Set(imported.questions.map((q) => q.topic)).size,
+          combinedQuestions: combined.length,
+          combinedKnowledgeGoals: new Set(combined.map((q) => q.knowledgeId))
+            .size,
+          combinedTopics: new Set(combined.map((q) => q.topic)).size,
+          contentNote:
+            "Unveränderte Nutzerdatei. Strukturell geprüft; keine unabhängige Faktenprüfung.",
+        },
+        null,
+        2,
+      ),
+    );
+  },
+);
 
 it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedback und Varianten", () => {
   expect(action.report.accepted).toBe(180);
@@ -112,16 +132,31 @@ it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedbac
   );
 });
 
-it.each([1, 2])(
+it.each([1, 2, 3])(
   "ergänzt neue Pakete bei %i vorhandenen Paketen transaktional ohne Fortschrittsverlust",
   async (packageCount) => {
-    const state = emptyState(packageCount === 1 ? scifi.questions : existing);
-    state.imports.push(scifi.report);
-    if (packageCount === 2) state.imports.push(action.report);
+    const previousPackages = [scifi, action, horror].slice(0, packageCount);
+    const state = emptyState(previousPackages.flatMap((p) => p.questions));
+    state.imports.push(...previousPackages.map((p) => p.report));
+    state.settings.sound = false;
+    state.settings.haptics = true;
+    state.favorites = ["Alien"];
     const previousQuestions = structuredClone(state.questions);
     const r = startRound(
       state,
-      { mode: "entdecken", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      {
+        mode: "entdecken",
+        topic: "Alle Themen",
+        difficulty: "Alle Stufen",
+        ...(packageCount === 3
+          ? {
+              filters: {
+                genres: ["Science-Fiction", "Horror"],
+                difficulties: ["leicht" as const, "mittel" as const],
+              },
+            }
+          : {}),
+      },
       1000,
     );
     answer(state, r.id, r.questions[0].id, r.questions[0].correctId, 0, 2000);
@@ -129,6 +164,8 @@ it.each([1, 2])(
       rounds: state.rounds,
       events: state.events,
       learning: state.learning,
+      settings: state.settings,
+      favorites: state.favorites,
     });
     await update((s) => Object.assign(s, state));
     await Promise.all([
@@ -136,9 +173,9 @@ it.each([1, 2])(
       update((s) => addPackages(s, contents)),
     ]);
     const saved = (await read())!;
-    expect(saved.questions).toHaveLength(540);
-    expect(saved.imports).toHaveLength(3);
-    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(450);
+    expect(saved.questions).toHaveLength(720);
+    expect(saved.imports).toHaveLength(4);
+    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(600);
     expect(saved.questions.slice(0, previousQuestions.length)).toEqual(
       previousQuestions,
     );
@@ -147,6 +184,8 @@ it.each([1, 2])(
         rounds: saved.rounds,
         events: saved.events,
         learning: saved.learning,
+        settings: saved.settings,
+        favorites: saved.favorites,
       }),
     ).toBe(before);
   },

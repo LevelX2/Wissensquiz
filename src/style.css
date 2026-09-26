@@ -959,6 +959,16 @@ footer button {
   border: 1px solid #3b3e3e;
   border-radius: 15px;
 }
+.question-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.question-difficulty {
+  white-space: nowrap;
+}
 .question-card h1 {
   font-size: clamp(24px, 3vw, 34px);
   line-height: 1.35;
@@ -1674,7 +1684,7 @@ details p {
     margin-top: 15px;
     line-height: 1.4;
   }
-  .question-card > .eyebrow {
+  .question-heading > .eyebrow {
     font-size: 8px;
   }
   .round-top {
