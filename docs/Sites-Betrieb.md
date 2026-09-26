@@ -25,6 +25,10 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Aktueller Veröffentlichungsstand
 
+Version 17 am 26.09.2026: mehr Platz durch Kontoname und normalen Speicherstatus ausschließlich im Profil; Genre-Illustrationen in Auswahl und Sammlung, alle Genres abwählbar, begrenzte Ranglistenladezeit und sichtbarer Updatehinweis außerhalb laufender Runden. App-Commit `a764293826917d77da27481b7d3043569f7491f7`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_377dfdeadfa88191ad0b41c1f9a3e7a3`, Deployment `appgdep_6ab7f447592c81918fb004989f91f5f6`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 87 Logik-/Datenbanktests, Produktions-Build und alle 50 Browserprüfungen erfolgreich. Keine Datenbankänderung; Rohquellen und reale Spielstände erhalten. Regulärer Sites-Workflow und native Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Geräteprüfung bleibt offen.
+
+### Vorherige Veröffentlichung: Version 14
+
 Version 14 am 26.09.2026: animierte Feier bei neuen Lernpfad-Stufen, mit Schloss, Feuerwerk, Fanfare und optionaler Vibration. App-Commit `07c0f958ac8f3787a98966575c118c7953d896da`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_738533022c68819195470335a010205c`, Deployment `appgdep_6ab7e92102148191ade027d09cfa5b50`, nativer Status `succeeded`. Bestehende öffentliche URL, Projekt-ID und Kontodaten unverändert. 79 Logik-/Datenbanktests, Produktions-Build und 41 Browserprüfungen erfolgreich; finale Textpflege mit vier Freischaltfällen erneut geprüft. Regulärer Sites-Workflow, native Browserübergabe; keine zusätzliche Live-Browserprüfung.
 
 ### Vorherige Veröffentlichung: Version 13
