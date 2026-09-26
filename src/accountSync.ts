@@ -1,6 +1,6 @@
 import type { State } from "./model";
 import { validateBackup } from "./storage";
-import { CloudConflict, type SyncReceipt } from "./accounts";
+import { CloudConflict, CloudSaveError, type SyncReceipt } from "./accounts";
 
 type Remote = { state: State; revision: number } | null;
 export type SyncStatus =
@@ -32,16 +32,18 @@ export class AccountSync {
   private latest: State | null = null;
   private running: Promise<void> | null = null;
   private stopped = false;
+  private timer: ReturnType<typeof setTimeout> | undefined;
   constructor(
     private store: SyncStore,
-    private notify: (status: SyncStatus) => void,
+    private notify: (status: SyncStatus, detail?: string) => void,
   ) {}
-  private report(status: SyncStatus) {
+  private report(status: SyncStatus, detail = "") {
     this.status = status;
-    if (!this.stopped) this.notify(status);
+    if (!this.stopped) this.notify(status, detail);
   }
   stop() {
     this.stopped = true;
+    clearTimeout(this.timer);
   }
   async prepare() {
     const [local, receipt, remote] = await Promise.all([
@@ -80,13 +82,25 @@ export class AccountSync {
   offer(state: State) {
     if (this.stopped || this.status === "conflict") return;
     this.latest = state;
-    void this.flush();
+    // Local writes are already durable. Batch quick consecutive actions without
+    // postponing uploads indefinitely when the player keeps interacting.
+    if (this.status === "saved") this.report("saving");
+    if (!this.running && !this.timer)
+      this.timer = setTimeout(() => {
+        void this.flush();
+      }, 800);
   }
   flush(): Promise<void> {
+    clearTimeout(this.timer);
+    this.timer = undefined;
     if (this.running) return this.running;
     this.running = this.drain().finally(() => {
       this.running = null;
-      if (this.latest && !this.stopped && this.status === "saved")
+      if (
+        this.latest &&
+        !this.stopped &&
+        ["saved", "saving"].includes(this.status)
+      )
         void this.flush();
     });
     return this.running;
@@ -113,10 +127,17 @@ export class AccountSync {
             }
           }
         }
-        if (this.latest === snapshot) this.latest = null;
-        this.report("saved");
-      } catch {
-        this.report("offline");
+        if (this.latest === snapshot) {
+          this.latest = null;
+          this.report("saved");
+        }
+      } catch (error) {
+        this.report(
+          "offline",
+          error instanceof CloudSaveError
+            ? error.message
+            : "Die Sicherung konnte nicht bestätigt werden. Bei wiederholten Fehlern melde das bitte.",
+        );
         return;
       }
     }

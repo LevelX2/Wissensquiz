@@ -61,6 +61,7 @@ import {
 } from "./learningPath";
 import { filmDetails } from "./filmDetails";
 import { FilmDataPanel } from "./FilmDataPanel";
+import { SyncIndicator, SyncSymbol, type SyncDisplay } from "./SyncIndicator";
 import { questionTitleParts } from "./questionTitle";
 import {
   playFeedback,
@@ -192,10 +193,12 @@ export function App({
   storageKey = "current",
   accountPanel,
   onPersistedState,
+  sync,
 }: {
   storageKey?: string;
   accountPanel?: (state: State, onState: (state: State) => void) => ReactNode;
   onPersistedState?: (state: State) => void;
+  sync?: SyncDisplay;
 }) {
   const read = () => readStored(storageKey);
   const update = (fn: (s: State) => void, initial?: State) =>
@@ -459,8 +462,12 @@ export function App({
                   : undefined
               }
               onClick={() => void nav(p)}
+              aria-description={p === "account" ? sync?.text : undefined}
             >
-              <span aria-hidden="true">{icon}</span>
+              <span aria-hidden="true" className="nav-symbol">
+                {icon}
+                {p === "account" && sync && <SyncSymbol status={sync.status} />}
+              </span>
               {label}
             </button>
           ))}
@@ -479,7 +486,7 @@ export function App({
         </div>
       </aside>
       <div className={`workspace ${page === "home" ? "cinema-home" : ""}`}>
-        {!offline.online && (
+        {!offline.online && !sync && (
           <header className="topbar">
             <span className="connection" role="status">
               Offline · lokal gespeichert
@@ -1090,6 +1097,7 @@ export function App({
               state={state}
               mutate={mutate}
               busy={busy}
+              sync={sync}
               onExit={() => void nav("home")}
               onNext={async () => {
                 unlockSound(state.settings);
@@ -1258,6 +1266,7 @@ function QuestionScreen({
   busy,
   onExit,
   onNext,
+  sync,
 }: {
   round: Round;
   index: number;
@@ -1266,6 +1275,7 @@ function QuestionScreen({
   busy: boolean;
   onExit: () => void;
   onNext: () => void;
+  sync?: SyncDisplay;
 }) {
   const q = round.questions[index];
   const event = state.events.find((e) => e.id === round.events[index]);
@@ -1370,7 +1380,10 @@ function QuestionScreen({
         <button className="text-button" onClick={onExit}>
           ← {round.mode === "rekord" ? "Runde beenden" : "Pause & Startseite"}
         </button>
-        <Pill>{modeNames[round.mode]}</Pill>
+        <div className="round-status">
+          <Pill>{modeNames[round.mode]}</Pill>
+          {sync && <SyncIndicator sync={sync} />}
+        </div>
       </div>
       <div className="round-progress">
         <span>

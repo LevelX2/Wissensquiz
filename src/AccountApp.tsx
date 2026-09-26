@@ -193,7 +193,7 @@ export function AccountApp() {
         client={connection.client}
         owner={user.id}
         storageKey={key}
-        panel={(state, onState, syncStatus) => (
+        panel={(state, onState, syncStatus, syncMessage) => (
           <AccountPanel
             client={connection.client}
             user={user}
@@ -201,6 +201,7 @@ export function AccountApp() {
             state={state}
             onState={onState}
             syncStatus={syncStatus}
+            syncMessage={syncMessage}
             initialMessage={connection.error || message}
           />
         )}
@@ -368,6 +369,7 @@ function AccountPanel({
   onState,
   initialMessage,
   syncStatus,
+  syncMessage,
 }: {
   client: SupabaseClient | null;
   user: User | null;
@@ -376,6 +378,7 @@ function AccountPanel({
   onState: (state: State) => void;
   initialMessage: string;
   syncStatus?: SyncStatus;
+  syncMessage?: string;
 }) {
   const [mode, setMode] = useState<"login" | "register" | "forgot" | "resend">(
     "login",
@@ -581,9 +584,6 @@ function AccountPanel({
         <strong>{String(user.user_metadata.display_name ?? "Spieler")}</strong>{" "}
         · {user.email}
       </p>
-      <p className="tiny muted profile-sync-status" role="status">
-        {syncStatus && syncText[syncStatus]}
-      </p>
       <ProfileStats state={state} />
       <p className="tiny muted">
         Dein Spielername und Deine Leistungswerte erscheinen automatisch in den
@@ -592,6 +592,9 @@ function AccountPanel({
       </p>
       <details className="account-help">
         <summary>Konto & Speicherung</summary>
+        <p className="tiny muted profile-sync-status" role="status">
+          {syncMessage || (syncStatus && syncText[syncStatus])}
+        </p>
         <p role="status">{message}</p>
         <button
           className="secondary"

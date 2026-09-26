@@ -1,4 +1,4 @@
-import { expect, it } from "vitest";
+import { expect, it, vi } from "vitest";
 import { AccountSync, fingerprint, type SyncStore } from "../src/accountSync";
 import { CloudConflict, type SyncReceipt } from "../src/accounts";
 import { emptyState, type State } from "../src/model";
@@ -159,4 +159,35 @@ it("erkennt einen Konflikt beim Upload und hält die Warteschlange an", async ()
   await sync.flush();
   expect(sync.status).toBe("conflict");
   expect(f.remote.state.settings.sound).toBe(true);
+});
+
+it("bündelt schnelle Änderungen, zeigt wartende Sicherung und lässt explizites Flush sofort zu", async () => {
+  vi.useFakeTimers();
+  try {
+    const f = fixture();
+    const save = vi.fn(f.store.save);
+    f.store.save = save;
+    const sync = new AccountSync(f.store, () => {});
+    await sync.prepare();
+    sync.offer(changed(false));
+    expect(sync.status).toBe("saving");
+    await vi.advanceTimersByTimeAsync(400);
+    sync.offer(changed(true));
+    expect(save).not.toHaveBeenCalled();
+    await vi.advanceTimersByTimeAsync(400);
+    await sync.flush();
+    expect(save).toHaveBeenCalledTimes(1);
+    expect(f.remote?.state.settings.sound).toBe(true);
+    expect(sync.status).toBe("saved");
+    sync.offer(changed(false));
+    await sync.flush();
+    expect(save).toHaveBeenCalledTimes(2);
+    expect(f.remote?.state.settings.sound).toBe(false);
+    sync.offer(changed(true));
+    sync.stop();
+    await vi.advanceTimersByTimeAsync(1000);
+    expect(save).toHaveBeenCalledTimes(2);
+  } finally {
+    vi.useRealTimers();
+  }
 });

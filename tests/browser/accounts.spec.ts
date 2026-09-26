@@ -372,18 +372,77 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
 }) => {
   const server: Server = new Map();
   await mockAccounts(page, server);
+  await page.setViewportSize({ width: 320, height: 740 });
   await page.goto("/");
   await login(page);
   await page.getByRole("button", { name: "Losspielen" }).click();
-  await page.route("**/rest/v1/rpc/quiz_save_state", (r) => r.abort());
+  await expect(
+    page.locator(".sync-indicator .sync-symbol.saved"),
+  ).toBeVisible();
+  let release!: () => void;
+  const gate = new Promise<void>((resolve) => {
+    release = resolve;
+  });
+  await page.route("**/rest/v1/rpc/quiz_save_state", async (r) => {
+    await gate;
+    await r.abort();
+  });
   await page.locator(".answer").first().click();
   await expect(page.locator(".feedback")).toBeVisible();
-  await expect(page.locator(".sync-status")).toContainText(
+  await expect(
+    page.locator(".sync-indicator .sync-symbol.saving"),
+  ).toBeVisible();
+  const geometry = () =>
+    page.evaluate(() => ({
+      cardTop: document.querySelector(".question-card")!.getBoundingClientRect()
+        .top,
+      indicator: document
+        .querySelector(".sync-toggle")!
+        .getBoundingClientRect()
+        .toJSON(),
+      scrollY,
+    }));
+  const before = await geometry();
+  release();
+  await expect(
+    page.locator(".sync-indicator .sync-symbol.offline"),
+  ).toBeVisible();
+  expect(await geometry()).toEqual(before);
+  await expect(page.locator(".sync-status")).toHaveCount(0);
+  // A genuine connection event must not add a second shifting header either.
+  await page.evaluate(() => {
+    Object.defineProperty(navigator, "onLine", {
+      configurable: true,
+      value: false,
+    });
+    window.dispatchEvent(new Event("offline"));
+  });
+  await expect(page.locator(".topbar")).toHaveCount(0);
+  expect(await geometry()).toEqual(before);
+  await page.getByRole("button", { name: /^Online-Speicherung:/ }).click();
+  await expect(page.locator(".sync-popover")).toContainText(
     "Noch nicht online gespeichert",
   );
+  expect(await geometry()).toEqual(before);
+  await page.screenshot({ path: "test-results/sync-status-320.png" });
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  await page.getByRole("button", { name: "Schließen", exact: true }).click();
   await page.unroute("**/rest/v1/rpc/quiz_save_state");
-  await page.evaluate(() => window.dispatchEvent(new Event("online")));
-  await expect(page.locator(".sync-status")).toHaveCount(0);
+  await page.evaluate(() => {
+    Object.defineProperty(navigator, "onLine", {
+      configurable: true,
+      value: true,
+    });
+    window.dispatchEvent(new Event("online"));
+  });
+  await expect(
+    page.locator(".sync-indicator .sync-symbol.saved"),
+  ).toBeVisible();
+  expect(await geometry()).toEqual(before);
+  await page.setViewportSize({ width: 1280, height: 800 });
   await account(page);
   await expect(page.locator(".profile-sync-status")).toHaveText(
     "Spielstand online gespeichert",

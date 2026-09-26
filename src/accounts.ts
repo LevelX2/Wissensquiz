@@ -89,7 +89,7 @@ export async function cloudSave(
   ownerId: string,
 ) {
   const checked = validateBackup(state);
-  const { data, error } = await client.rpc("quiz_save_state", {
+  const { data, error, status } = await client.rpc("quiz_save_state", {
     payload: checked,
     expected_revision: revision,
     expected_owner: ownerId,
@@ -99,12 +99,21 @@ export async function cloudSave(
       "Auf einem anderen Gerät wurde bereits gespeichert. Lade zuerst den Online-Stand; Dein lokaler Stand bleibt erhalten.",
     );
   if (error)
-    throw new Error(
-      "Online-Speicherung fehlgeschlagen. Dein lokaler Spielstand bleibt erhalten.",
+    throw new CloudSaveError(
+      status === 401 || status === 403
+        ? "Der Kontodienst hat den Zugriff abgelehnt. Prüfe Deine Anmeldung im Profil."
+        : status === 413 || error.message.includes("invalid_state")
+          ? "Der Kontodienst hat den Spielstand abgelehnt, möglicherweise wegen seiner Größe."
+          : status === 429
+            ? "Der Kontodienst erhält gerade zu viele Anfragen. Wir versuchen es erneut."
+            : status >= 500
+              ? "Der Kontodienst meldet einen Serverfehler."
+              : "Die Online-Speicherung konnte nicht bestätigt werden. Prüfe Deine Verbindung; bei wiederholten Fehlern melde das bitte.",
     );
   return z.number().int().positive().parse(data);
 }
 export class CloudConflict extends Error {}
+export class CloudSaveError extends Error {}
 
 export type SyncReceipt = { revision: number; fingerprint: string };
 export async function readSyncReceipt(

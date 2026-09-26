@@ -7,9 +7,38 @@ import {
   cloudRevision,
   rememberRevision,
   replaceAccountState,
+  cloudSave,
+  CloudSaveError,
 } from "../src/accounts";
 import { emptyState } from "../src/model";
 import { read, update } from "../src/storage";
+import type { SupabaseClient } from "@supabase/supabase-js";
+
+it("unterscheidet abgelehnte Anmeldung, zu große Sicherung, Überlastung und Serverfehler ohne private Servertexte anzuzeigen", async () => {
+  for (const [status, expected] of [
+    [401, "Zugriff abgelehnt"],
+    [413, "Größe"],
+    [429, "zu viele Anfragen"],
+    [503, "Serverfehler"],
+  ] as const) {
+    const client = {
+      rpc: async () => ({
+        data: null,
+        status,
+        error: { message: "private interne Serverangabe" },
+      }),
+    } as unknown as SupabaseClient;
+    const original = emptyState();
+    const saved = structuredClone(original);
+    await expect(
+      cloudSave(client, original, 0, "test-user"),
+    ).rejects.toBeInstanceOf(CloudSaveError);
+    await expect(cloudSave(client, original, 0, "test-user")).rejects.toThrow(
+      expected,
+    );
+    expect(original).toEqual(saved);
+  }
+});
 it("akzeptiert nur freigegebene öffentliche Kontokonfiguration, niemals geheime API-Schlüssel", () => {
   expect(
     accountConfig({ enabled: false, supabaseUrl: "", publishableKey: "" }),

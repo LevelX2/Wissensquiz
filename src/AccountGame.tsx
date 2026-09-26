@@ -44,10 +44,12 @@ export function AccountGame({
     state: State,
     onState: (state: State) => void,
     status: SyncStatus,
+    message: string,
   ) => ReactNode;
 }) {
   const ranking = useMemo(() => ({ client, owner }), [client, owner]);
   const [status, setStatus] = useState<SyncStatus>("loading");
+  const [syncDetail, setSyncDetail] = useState("");
   const [ready, setReady] = useState(false);
   const [error, setError] = useState("");
   const [generation, setGeneration] = useState(0);
@@ -79,8 +81,11 @@ export function AccountGame({
           acknowledge: (receipt) => writeSyncReceipt(storageKey, receipt),
           save: (state, revision) => cloudSave(client, state, revision, owner),
         },
-        (value) => {
-          if (alive) setStatus(value);
+        (value, detail) => {
+          if (alive) {
+            setStatus(value);
+            setSyncDetail(detail ?? "");
+          }
         },
       );
       engine.current = sync;
@@ -140,6 +145,10 @@ export function AccountGame({
     };
     const interval = window.setInterval(retry, 10000);
     window.addEventListener("online", retry);
+    const onHide = () => {
+      if (document.visibilityState === "hidden") void sync?.flush();
+    };
+    document.addEventListener("visibilitychange", onHide);
     const beforeUnload = (event: BeforeUnloadEvent) => {
       if (["saving", "offline", "conflict"].includes(statusRef.current)) {
         event.preventDefault();
@@ -154,6 +163,7 @@ export function AccountGame({
       release?.();
       window.clearInterval(interval);
       window.removeEventListener("online", retry);
+      document.removeEventListener("visibilitychange", onHide);
       window.removeEventListener("beforeunload", beforeUnload);
     };
   }, [client, owner, storageKey, generation]);
@@ -218,16 +228,25 @@ export function AccountGame({
     );
   return (
     <RankingContext.Provider value={ranking}>
-      {status === "offline" && (
-        <p className="sync-status" role="status">
-          {syncText[status]}
-        </p>
-      )}
       <App
         key={`${storageKey}:${generation}`}
         storageKey={storageKey}
         onPersistedState={offer}
-        accountPanel={(state, onState) => panel(state, onState, status)}
+        sync={{
+          status,
+          text: `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
+          retry: () => {
+            void engine.current?.flush();
+          },
+        }}
+        accountPanel={(state, onState) =>
+          panel(
+            state,
+            onState,
+            status,
+            `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
+          )
+        }
       />
     </RankingContext.Provider>
   );

@@ -20,7 +20,7 @@ Während einer Runde entfällt auf schmalen Bildschirmen die Hauptnavigation; �
 
 „Alle Genres abwählen“ leert die Auswahl und setzt eine optionale Filmverfeinerung zurück. Danach lässt sich ein einzelnes Genre bequem einschalten; ohne Genre bleibt der Rundenstart gesperrt. Auswahlfelder und filmbezogene Sammlungskarten verwenden die vorhandenen freigestellten Genre-Motive.
 
-Kontoname und normale Speicherbestätigung stehen ausschließlich im Profil, nicht mehr in eigenen Kopfzeilen. Nicht online gesicherte Änderungen und echte Verbindungsausfälle bleiben sichtbar; Konflikte behalten ihre eigene Auflösungsansicht. Wartende App-Updates werden außerhalb einer laufenden Runde auch auf den Hauptseiten erklärt. Alte Tabs weiterhin schließen und neu öffnen; kein automatischer Versionswechsel in einer laufenden Runde.
+Der Kontoname steht im Profil, ausführliche Speicherhinweise unter „Konto & Speicherung“. Eine kompakte feste Markierung am Profil bzw. während der Runde neben dem Modus zeigt grün/✓ für online bestätigt, blau/↑ für laufende oder wartende Sicherung und orange/! für unbestätigte Sicherung. Antippen in der Runde öffnet Details über dem Inhalt, ohne die Frage zu verschieben. Konflikte behalten ihre eigene Auflösungsansicht. Wartende App-Updates werden außerhalb einer laufenden Runde auch auf den Hauptseiten erklärt. Alte Tabs weiterhin schließen und neu öffnen; kein automatischer Versionswechsel in einer laufenden Runde.
 
 
 ## Kompakter Spieleinstieg und Classics
