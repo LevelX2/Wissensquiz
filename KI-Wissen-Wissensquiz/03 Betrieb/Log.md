@@ -118,3 +118,7 @@ Veröffentlichung abgeschlossen: Sites-Version 11, App-Commit `cb41de13027a2a583
 ## 26.09.2026 — Drama als siebtes Genre
 
 Gelieferte Drama-CSV unverändert übernommen und vollständig mit dem App-Parser ausgewertet. 180 Fragen, 150 Ziele, 30 Varianten und 25 Themen ohne Warnungen/Ausschlüsse/Kollisionen. Gesamtbestand 1.260 Fragen, 1.050 Ziele und 163 Themen. Automatische Paketergänzung erhält vorhandene Spielstände; Drama-Symbol, Genreauswahl, Lernpfad und Offline-Cache angebunden. 75 Logik-/Datenbanktests, Build und 35 Browserprüfungen erfolgreich. Fachliche Aussagen stammen weiterhin aus der Nutzerdatei.
+
+## 26.09.2026 — Kontrastreiche Genreillustrationen und Filmtitel
+
+Sieben zusammenpassende freigestellte Genre-Motive mit eingebauter Bildgenerierung erstellt und unverändert eingebunden; kleine SVG-Symbole erhalten, zuvor zu dunkle Symbolfarben korrigiert. Bildherkunft und vollständige Prompts dokumentiert. Filmtitel in Fragen hellgold hinterlegt, dunkel gesetzt und nur in der Anzeige von Anführungszeichen befreit. Alle 1.260 gelieferten Fragen abgedeckt; Rohquellen und Speicherstände unverändert. 77 Logik-/Datenbanktests, Build und 36 Browserprüfungen erfolgreich; Desktop-/Handyansichten visuell und Offline-Bilder automatisiert geprüft.

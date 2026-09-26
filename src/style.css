@@ -712,22 +712,39 @@ textarea {
 }
 .topic-art > span {
   font-family: Georgia, serif;
-  color: #4c5b60;
+  color: #f7deb0;
   font-size: 66px;
   z-index: 1;
   text-shadow: 0 0 24px #e4d5ab30;
+}
+.topic-art:has(.genre-illustration) {
+  min-height: 160px;
+}
+.topic-art:has(.genre-illustration) > span {
+  display: grid;
+  place-items: center;
+  width: 100%;
+}
+.genre-illustration {
+  width: min(88%, 150px);
+  height: 150px;
+  object-fit: contain;
+  filter: drop-shadow(0 6px 9px #00000030);
+}
+.topic-art .favorite {
+  color: #ffe1a7;
 }
 .topic-card:nth-child(3n + 2) .topic-art {
   background: radial-gradient(ellipse at center, #39494a, #232c2f 75%);
 }
 .topic-card:nth-child(3n + 2) .topic-art > span {
-  color: #4c5b60;
+  color: #bde6e6;
 }
 .topic-card:nth-child(3n + 3) .topic-art {
   background: radial-gradient(ellipse at center, #524238, #302a26 75%);
 }
 .topic-card:nth-child(3n + 3) .topic-art > span {
-  color: #4c5b60;
+  color: #ffdbbf;
 }
 .art-lines {
   position: absolute;
@@ -979,6 +996,15 @@ footer button {
   line-height: 1.35;
   letter-spacing: -0.5px;
   margin: 18px 0 30px;
+}
+.film-title {
+  color: #624116;
+  background: #f3e6c9;
+  border-radius: 4px;
+  padding: 0 0.16em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  font: inherit;
 }
 .answers {
   display: grid;

@@ -15,8 +15,10 @@ async function launch(page: Page) {
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
 }
 async function answerCurrent(page: Page, correct = true) {
-  const prompt = await page.locator(".question-card h1").innerText();
-  const q = imported.find((q) => q.question === prompt)!;
+  const questionId = await page
+    .locator(".question-card h1")
+    .getAttribute("data-question-id");
+  const q = imported.find((q) => q.id === questionId)!;
   const difficulty = `Schwierigkeit: ${q.difficulty[0].toUpperCase()}${q.difficulty.slice(1)}`;
   await expect(page.locator(".question-difficulty")).toHaveText(difficulty);
   await expect(page.locator(".question-difficulty")).toBeVisible();
@@ -163,6 +165,67 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".feedback")).toBeVisible();
   expect(await readRound()).toEqual(before);
+});
+
+test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie aus dem Offline-Paket", async ({
+  page,
+  context,
+}) => {
+  await launch(page);
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(
+    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
+      exact: false,
+    }),
+  ).toBeVisible({ timeout: 20000 });
+  await page.getByRole("button", { name: "Themen", exact: true }).click();
+  await expect(page.locator(".genre-illustration")).toHaveCount(7);
+  for (const img of await page.locator(".genre-illustration").all()) {
+    await img.scrollIntoViewIfNeeded();
+    await expect
+      .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))
+      .toBeGreaterThan(0);
+  }
+  await page
+    .locator(".topic-grid")
+    .screenshot({ path: "test-results/genre-illustrationen-desktop.png" });
+  await page.setViewportSize({ width: 390, height: 844 });
+  const actionCard = page.locator(".topic-card").filter({
+    has: page.getByRole("heading", { name: "Action", exact: true }),
+  });
+  await actionCard.screenshot({
+    path: "test-results/action-illustration-390.png",
+  });
+  await page.setViewportSize({ width: 320, height: 740 });
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await context.setOffline(true);
+  await page.reload();
+  await page.getByRole("button", { name: "Themen", exact: true }).click();
+  for (const img of await page.locator(".genre-illustration").all()) {
+    await img.scrollIntoViewIfNeeded();
+    await expect
+      .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))
+      .toBeGreaterThan(0);
+  }
+  await page.getByRole("button", { name: "Spielen", exact: true }).click();
+  await page
+    .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
+    .click();
+  await page.getByLabel("Thema wählen").selectOption("Tombstone");
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(page.locator(".film-title")).toHaveText("Tombstone");
+  await expect(page.locator(".question-card h1")).not.toContainText("„");
+  await expect(page.locator(".question-card h1")).toContainText("(1993)");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page.screenshot({ path: "test-results/filmtitel-320.png" });
 });
 
 for (const oldPackageCount of [1, 2, 3, 4, 5, 6]) {

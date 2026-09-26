@@ -33,3 +33,5 @@
 
 - [Drama-Rohquelle](../../01%20Rohquellen/Drama_Quiz_180_Fragen.csv)
 - [Drama-Importbericht](../../../docs/importbericht-drama.json)
+
+- [Genreillustrationen, Bildherkunft und Prompts](../../../docs/Genreillustrationen.md)

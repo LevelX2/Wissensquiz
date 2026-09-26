@@ -38,11 +38,12 @@ import {
   validateBackup,
 } from "./storage";
 import { useOffline } from "./offline";
-import { BadgeIcon, GenreIcon } from "./Icons";
+import { BadgeIcon, GenreIcon, genreIllustrations } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
 import { LearningPath } from "./LearningPathPanel";
 import { learningPathProgress, pathQuestions } from "./learningPath";
 import { filmDetails } from "./filmDetails";
+import { questionTitleParts } from "./questionTitle";
 import {
   playFeedback,
   stopFeedback,
@@ -119,7 +120,23 @@ function TopicCard({
   return (
     <article className="topic-card">
       <div className="topic-art">
-        <span>{genre ? <GenreIcon genre={topic} /> : topicIcon(topic)}</span>
+        <span>
+          {genre && genreIllustrations[topic] ? (
+            <img
+              className="genre-illustration"
+              src={genreIllustrations[topic]}
+              alt=""
+              width="160"
+              height="160"
+              loading="lazy"
+              decoding="async"
+            />
+          ) : genre ? (
+            <GenreIcon genre={topic} />
+          ) : (
+            topicIcon(topic)
+          )}
+        </span>
         <div className="art-lines" />
         {onFavorite && (
           <button
@@ -1193,7 +1210,20 @@ function QuestionScreen({
             )}
           </div>
         </div>
-        <h1>{q.question}</h1>
+        <h1 data-question-id={q.id}>
+          {(() => {
+            const parts = questionTitleParts(q);
+            return parts ? (
+              <>
+                {parts.before}
+                <mark className="film-title">{parts.title}</mark>
+                {parts.after}
+              </>
+            ) : (
+              q.question
+            );
+          })()}
+        </h1>
         <div className="answers">
           {round.order[index].map((id, i) => {
             const a = q.answers.find((a) => a.id === id)!;

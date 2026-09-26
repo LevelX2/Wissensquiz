@@ -1,3 +1,13 @@
+export const genreIllustrations: Record<string, string> = {
+  "Science-Fiction": "/genres/scifi.png",
+  Action: "/genres/action.png",
+  Horror: "/genres/horror.png",
+  Fantasy: "/genres/fantasy.png",
+  Komödie: "/genres/comedy.png",
+  Western: "/genres/western.png",
+  Drama: "/genres/drama.png",
+};
+
 export function GenreIcon({ genre }: { genre: string }) {
   const shape =
     genre === "Science-Fiction" ? (

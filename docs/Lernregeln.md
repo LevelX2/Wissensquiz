@@ -95,3 +95,9 @@ Startvorschau und tatsächlicher Rundenstart verwenden denselben eingeschränkte
 Zusätzlich zu einzelnen Rekordrunden: meiste abgeschlossene Runden, meiste richtige Antworten und beste Trefferquote. Alle drei Spielmodi zählen, ausschließlich abgeschlossene Runden. Filter: einzelnes Genre oder alle Genres, einzelne Schwierigkeit oder alle Stufen. Bei gemischten Runden zählen nur passende Fragen, die Runde einmal. Richtige Antworten umfassen auch Wiederholungen und nachträglich als geraten markierte Treffer; diese Leistungslisten verwenden nicht die strengere Lernpfaddefinition.
 
 Trefferquote = richtige gewählte Antworten / alle gewählten Antworten; Zeitabläufe ohne Wahl zählen nicht. Mindestumfang für die Quotenrangliste: 50 Antworten innerhalb der ausgewählten Vergleichsgruppe. Anzeige mit einer Nachkommastelle und immer zusammen mit Runden-/Antwortanzahlen; Rang nach ungerundeter Quote. Gleiche Werte teilen den Rang, stabile Reihenfolge nach Name und internem Eigentümer, 50 Spieler pro Seite. Inaktivität, abgebrochene Runden und reine Anmeldungen ergeben keine Rundenpunkte. Keine zusätzliche E-Mail-/Identitätsfreigabe.
+
+## Filmtitel und Genreillustrationen
+
+Die Fragenansicht hebt den ersten exakt zitierten deutschen oder originalen Filmtitel aus den Metadaten farbig hinterlegt hervor. Nur seine umschließenden Anführungszeichen entfallen in der Anzeige; Jahr, restlicher Fragetext, Rohquelle, Frage-ID und gespeicherte Snapshots bleiben unverändert. Unbekannte Zitate und Fragen ohne passende Metadaten bleiben unverändert. Alle 1.260 gelieferten Fragen enthalten einen passenden Titel. Der Text bleibt inline umbrechbar; keine zusätzliche Titelzeile.
+
+Große Genrekarten verwenden sieben dekorative PNG-Illustrationen mit echter Transparenz, Textnamen bleiben zugänglich. Kleine Auswahl-Icons und unbekannte Genres behalten die SVG-Darstellung. Motive und Herkunft: [Genreillustrationen](Genreillustrationen.md). Alle Motive gehören zum Offline-Paket.
