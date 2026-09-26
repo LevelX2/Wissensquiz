@@ -28,3 +28,8 @@ Kontoname und normale Speicherbestätigung stehen ausschließlich im Profil, nic
 Der Einstieg verzichtet auf die große Werbefläche. „Losspielen“ steht direkt unter den drei Modi, mit einer kompakten Zusammenfassung der aktuellen Auswahl. Bei einer begonnenen Runde erscheint „Fortsetzen“ unmittelbar darunter. Genre-Felder bilden ein gleichmäßiges Raster. „Schwierigkeit selbst wählen“ sammelt die freie Auswahl und zeigt erst nach ihrer Aktivierung die einzelnen Stufen. Ohne freie Auswahl werden automatisch alle je Genre freigeschalteten Stufen berücksichtigt; eine vorherige manuelle Einschränkung bleibt dabei ohne Wirkung. Der gespeicherte Freigabeschalter bleibt erhalten. „Deine Stufenfortschritte“ ist unabhängig davon aufklappbar und nutzt dieselben Genreillustrationen.
 
 „Nur Classics“ schränkt die gewählten Genres auf die kuratierte Zusatzkategorie ein. Eine weitere Filmverfeinerung bleibt möglich. Unter Themen gibt es zusätzlich eine Classics-Karte mit nach Wissensziel-ID deduplizierten Fortschrittszahlen. Kategorien überschneiden sich, erzeugen aber keine weiteren Fragen, Ereignisse oder Lernstände. Arthouse ist noch nicht zugewiesen.
+
+
+## Statistik zur einzelnen Frage
+
+Entdecken und Besser werden zeigen direkt unter dem Fragetext die persönliche Bilanz der konkreten Frage: beantwortet, richtig und falsch. Aufklappbar sind Zeitabläufe, geratene Treffer und die gemeinsame Bilanz mit Wiederholungsvarianten. Vorhandene Antworten aller Modi und Rundenstatus zählen mit; Neuladen oder bloßes Anzeigen zählt nicht. Details zur Zählweise unter [Lernregeln](Lernregeln.md#statistik-zur-einzelnen-frage). Keine neue Speicherung, bestehende Fortschritte bleiben erhalten.

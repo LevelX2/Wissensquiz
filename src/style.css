@@ -1003,6 +1003,29 @@ footer button {
 .question-difficulty {
   white-space: nowrap;
 }
+
+.question-history {
+  margin: 8px 0 14px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.5;
+}
+.question-history summary {
+  cursor: pointer;
+  min-height: 28px;
+}
+.question-history summary span {
+  display: inline-block;
+  margin-right: 6px;
+}
+.question-history > div {
+  margin-top: 8px;
+  padding: 0 12px;
+  border-left: 2px solid var(--line);
+}
+.question-history p {
+  margin: 8px 0;
+}
 .question-hints {
   display: flex;
   flex-wrap: wrap;

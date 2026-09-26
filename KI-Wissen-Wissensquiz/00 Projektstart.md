@@ -55,3 +55,6 @@ Aktuelle Bedienungsverbesserungen: alle Genres gesammelt abwählbar; Genre-Bilde
 
 
 Spieleinstieg ohne große Werbefläche, Losspielen direkt unter der Moduswahl. Gleichmäßiges Genre-Raster; freie Schwierigkeit und Stufenfortschritte separat aufklappbar, gemeinsame Genre-Bilder. Normaler Lernpfad berücksichtigt automatisch alle freigeschalteten Stufen. Classics lässt sich mit Genres und Filmverfeinerung kombinieren, ohne doppelte Fragen oder Lernstände. Arthouse ist noch nicht zugewiesen. Neue Genres Abenteuer/Musik/Thriller haben teils weniger als 20 Ziele je Stufe; die Oberfläche erklärt die derzeitige Freischaltgrenze.
+
+
+Fragenstatistik in Entdecken/Besser werden: konkrete Frage-ID mit beantwortet/richtig/falsch; aufklappbar Zeitabläufe, geratene Treffer und gemeinsame Variantenbilanz nach Wissensziel-ID. Rein aus bestehenden Ereignissen aller Modi/Rundenstatus abgeleitet, keine Speicherung oder Migration zusätzlicher Zähler.

@@ -42,6 +42,7 @@ import { BadgeIcon, GenreArtwork } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
 import { answeredTopics } from "./collection";
+import { QuestionHistory } from "./QuestionHistoryPanel";
 import { CLASSICS, categoryTopic, isClassic, matchesTopic } from "./categories";
 import { discoveryContext } from "./discovery";
 import { LearningPath } from "./LearningPathPanel";
@@ -1396,6 +1397,9 @@ function QuestionScreen({
             );
           })()}
         </h1>
+        {round.mode !== "rekord" && (
+          <QuestionHistory key={q.id} events={state.events} question={q} />
+        )}
         {event ? (
           <details className="answer-review">
             <summary>Alle Antworten ansehen</summary>
@@ -1404,12 +1408,8 @@ function QuestionScreen({
         ) : (
           answerOptions
         )}
-        {!event && (
-          <p className="quiet-note">
-            {round.mode === "rekord"
-              ? "Deine erste Antwort zählt."
-              : "Nimm Dir Zeit. Hier geht es ums Entdecken."}
-          </p>
+        {!event && round.mode === "rekord" && (
+          <p className="quiet-note">Deine erste Antwort zählt.</p>
         )}
         {event && (
           <div ref={feedback} tabIndex={-1} className="feedback" role="status">

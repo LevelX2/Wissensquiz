@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 93 Logik-/Persistenz-/Datenbanktests und 51 unterschiedliche Browserprüfungen erfolgreich (50 im vollständigen Lauf, ein korrigierter Test gezielt nachgeprüft). Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 95 Logik-/Persistenz-/Datenbanktests und 53 Browserprüfungen im vollständigen Lauf erfolgreich. Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -197,3 +197,12 @@ Final: 93 Logik-/Persistenz-/Datenbanktests erfolgreich, Produktions-Build erfol
 Zusätzliche Logikprüfungen: alle Zuordnungen und Quellhashes, wiederholte Mengenergänzung, abweichende Referenzen, unveränderte alte Rundensnapshots, gemeinsame Lernidentität, Backup-Annahme bei erlaubten Tags und Ablehnung manipulierter Texte, Sci-Fi-Normalisierung mit erhaltenem Quellwert. Ein erster Test zeigte gemeinsame Objektreferenzen zwischen Fragenbestand und alter Runde; Ergänzung ersetzt nun ausschließlich Bestandsobjekte. Erweiterung älterer Spielstände mit ein bis sieben Paketen geprüft. Sieben historische Importberichte nach Inhaltsvergleich nur bezüglich Testzeitstempel zurückgesetzt.
 
 Rohdateien bytegleich zu den gelieferten SHA-256-Prüfsummen; keine Änderungen an bestehenden Rohquellen, Supabase-Migrationen oder echten Nutzerdaten. Keine erneute unabhängige Faktenprüfung der Filmsätze und keine physische iPhone-/PWA-Abnahme. Arthouse und die fehlenden Pakete bleiben offen.
+
+
+## 26.09.2026 — Persönliche Fragenstatistik im Lernmodus
+
+Entdecken und Besser werden zeigen die Anzahl beantworteter, richtiger und falscher Antworten zur konkreten Frage direkt unter dem Fragetext. Aufklappbar: Zeitabläufe ohne Antwort, richtige geratene Treffer und gemeinsame Bilanz aller Wiederholungsvarianten. Alle vorhandenen Antwortereignisse zählen, auch aus Rekord- und abgebrochenen Runden. Die aktuelle Antwort wird nach dem Speichern einbezogen; Anzeigen und Neuladen erzeugen keine Zählung. Die Variantenbilanz nutzt die gemeinsame Wissensziel-ID. Keine zusätzlichen Speicherfelder, Datenbankänderung oder Fortschrittsmigration.
+
+95 Logik-/Datenbanktests, Produktions-Build und alle 53 Browserprüfungen im vollständigen Lauf erfolgreich (51 Chromium, zwei WebKit mit iPhone-Profil). Nach abschließender sprachlicher Korrektur Build und beide neuen Browserfälle erneut erfolgreich. Neue Fälle prüfen beide Lernmodi, konkrete Frage versus historische Variante, richtig/falsch/geraten/Zeitablauf, Aktualisierung nach Antwort, Neuladen ohne Doppelzählung, keine Anzeige in Rekordrunden, Axe, 320-Pixel-Breite und erreichbaren Abschlussbutton. Neue mobile Ansicht anhand gerendertem Screenshot visuell geprüft; bestehende mobilen Weiter-/Offline-/Kontosicherungsprüfungen weiterhin erfolgreich. Bestehende Importberichte nach Inhaltsvergleich zurückgesetzt.
+
+Rohquellen, Nutzerdaten und Lernregeln unverändert. Keine neue physische iPhone-Prüfung und keine Änderung der bereits bekannten Hosting-/Kontendienstgrenzen.
