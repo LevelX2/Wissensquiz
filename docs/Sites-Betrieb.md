@@ -25,6 +25,10 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Aktueller Veröffentlichungsstand
 
+Version 24 am 27.09.2026: Speicherstatus als feste farbige Markierung am Profil und in der Runde; Details ohne Layoutsprung, Uploads kurzer Aktionsfolgen gebündelt, bekannte Fehler genauer erklärt. App-Commit `6375d19c2170a6efebcafc7d9bb7404e2e9b6b2f`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_67aefbadce748191af1d36cb8e342dcd`, Deployment `appgdep_6ab8463507a08191b63dececb59a04d2`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 111 Logik-/Datenbanktests, Produktions-Build und alle 60 Browserfälle geprüft; nach abschließender Profilanpassung alle neun Kontenfälle und Navigation erfolgreich. Handy-Geometrie und Screenshot geprüft, Nachspeicherung/Gerätewechsel/Revisionskonflikt getestet. Lernfortschritte, Rohquellen und Datenbankrechte erhalten. Regulärer Sites-Workflow mit nativer Browserübergabe, keine zusätzliche Live-Browserprüfung. Ursache der konkreten Handy-Uploadfehler bleibt unbestätigt; vollständige Spielstandsübertragung weiterhin rund 8 MB plus Fortschritt.
+
+### Vorherige Veröffentlichung: Version 23
+
 Version 23 am 26.09.2026: 300 Jahresfragen und 287 zusätzliche Regiefragen in den bisherigen Genres, aufklappbare Filmdaten nach jeder beantworteten Bestandsfrage sowie farbige Fortschrittsfelder mit Symbolen und aktueller Markierung. App-Commit `3d89e0699dbb8661f40873743b054714079dff51`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_6942344ee2a88191840fc60858248e15`, Deployment `appgdep_6ab83fa9a404819183ccad13ec64483a`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 109 Logik-/Datenbanktests, Produktions-Build und alle 60 Browserfälle erfolgreich (59 im vollständigen Lauf, Fortschrittsanzeige nach Testablaufkorrektur gezielt bestanden). Rohquellen und bisherige Lernstände erhalten; keine Änderung des Supabase-Schemas. Regulärer Sites-Workflow und native Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Smartphone-Abnahme offen.
 
 ### Vorherige Veröffentlichung: Version 22
