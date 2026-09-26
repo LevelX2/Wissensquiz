@@ -23,3 +23,7 @@ Nutzer beauftragt die Bereitstellung der ersten Testversion über Sites und eine
 ## 2026-09-26 – Sites und Action-Paket
 
 Die private Sites-Veröffentlichung der Sci-Fi-Version wurde erfolgreich bestätigt. Die nachgelieferte Action-CSV unverändert abgelegt und vollständig geprüft: 180 weitere Fragen, 150 Ziele, 30 Varianten, 17 Themen; keine Ausschlüsse oder ID-Konflikte. Zusammen 360 Fragen, 300 Ziele und 56 Themen. Transaktionale Paketergänzung erhält vorhandenen Fortschritt und laufende Runden. 33 Logiktests und zehn Browserprüfungen erfolgreich. Veröffentlichungsablauf samt Windows-Besonderheiten in docs/Sites-Betrieb.md dokumentiert. Keine unabhängige Faktenprüfung und keine Prüfung auf einem physischen Smartphone.
+
+## 2026-09-26 – Horror-Paket integriert
+
+Die nachgelieferte Horror-CSV unverändert als Rohquelle und öffentliches Fragenpaket übernommen. Vollständig mit dem App-Parser ausgewertet: 180 Fragen, 150 Wissensziele, 30 Varianten, 20 Themen; keine Ausschlüsse, Warnungen oder ID-Konflikte. Insgesamt 540 Fragen, 450 Ziele und 76 Themen. Bestehende Sci-Fi-/Action-Spielstände werden transaktional ergänzt, Horror-Inhalte in den Offline-Cache aufgenommen. 35 Logik-/Persistenztests, Produktions-Build und elf Browserprüfungen erfolgreich, darunter beide Altbestände und eine offline fortgesetzte Halloween-Runde. Originaldatei und beide Kopien haben denselben SHA-256-Wert. Keine unabhängige Faktenprüfung oder neue Sites-Veröffentlichung; bestehende Projekt-ID und Zugriff unverändert.

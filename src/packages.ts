@@ -4,6 +4,7 @@ import type { State } from "./model";
 export const packages = [
   { path: "/fragen.csv", filename: "SciFi_Quiz_180_Fragen.csv" },
   { path: "/action-fragen.csv", filename: "Action_Quiz_180_Fragen.csv" },
+  { path: "/horror-fragen.csv", filename: "Horror_Quiz_180_Fragen.csv" },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

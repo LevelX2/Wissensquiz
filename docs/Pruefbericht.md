@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, 33 Logik-/Persistenztests und 10 Browserprüfungen erfolgreich. `npm audit`: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, nach Horror-Ergänzung 35 Logik-/Persistenztests und 11 Browserprüfungen erfolgreich. Letzter `npm audit`: 0 bekannte Schwachstellen; bei der Horror-Ergänzung keine Abhängigkeiten geändert und Audit nicht erneut ausgeführt. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -11,7 +11,7 @@ Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest
 | Vollständiger Import der gelieferten CSV | 180 akzeptiert, 0 verworfen, 0 Duplikate; 150 Ziele, 30 Varianten, 39 Themen, 50 leichte Abzeichenziele. |
 | BOM/UTF-8, CRLF, Komma/Semikolon/Tabulator, Quotes und mehrzeilige Felder | Gezielte Parserprüfungen bestanden. |
 | Fehlende Spalten, ungültige Lösung, kaputtes Quoting, doppelte Header und Variantenfehler | Nachvollziehbar ausgeschlossen. |
-| Antwortmischung und Feedback | Für jede der 360 Fragen stabile Zuordnung geprüft. |
+| Antwortmischung und Feedback | Für jede der 540 Fragen stabile Zuordnung geprüft. |
 | Punkte und Zeit | Grenzen bei 0, 5.000, 5.001, 29.999, 30.000 und 31.000 ms sowie falsche Antworten geprüft. |
 | Lernfortschritt | Kontrollierte Tage 0/1/4/11/32, frühe und gleichentägige Wiederholung, falsch und geraten geprüft. |
 | Auswahl | 5/3/2-Mischung, einzigartige Wissensziele, kleine Themen, begrenzte Fälligkeiten geprüft. |
@@ -50,3 +50,9 @@ Die anfänglich gefundenen moderaten Vitest-Entwicklungsabhängigkeitslücken wu
 ## Action-Paket und Veröffentlichung
 
 180 weitere Fragen, 150 Wissensziele und 17 Themen vollständig mit dem App-Parser importiert; keine Ausschlüsse oder ID-Konflikte. Paketergänzung bei konkurrierenden Transaktionen geprüft. Im Browser bestehenden Sci-Fi-Stand simuliert und nach Neuladen Action ergänzt; laufende Runde und Erklärung erhalten. Beide Pakete auch im Offline-Test enthalten. Action-Rohquelle und öffentliche Datei bytegleich (SHA-256: A96725F37C330014F5424A4552F2963B79C485DEBB5B88A559DFC35082FB8163). Erste private Sites-Veröffentlichung nativ als succeeded bestätigt; kein zusätzlicher Live-Browsertest behauptet.
+
+## Horror-Paket
+
+Am 26.09.2026 alle 180 gelieferten Horror-Fragen mit dem App-Parser gegen Sci-Fi und Action importiert: 150 Wissensziele, 30 Varianten, 20 Themen, keine Ausschlüsse, Warnungen oder ID-Konflikte. Gesamtbestand: 540 Fragen, 450 Wissensziele und 76 Themen. Alle Lösungen, Antwortfeedbacks und Variantenverknüpfungen geprüft. Nutzerdatei, archivierte Rohquelle und öffentliche Datei bytegleich (SHA-256: `DD3D2C14FA779DC08E0BA87A89CB8F0112FD0AC33F8FF496EC5B43B3249A6E1D`).
+
+35 Logik-/Persistenztests, Produktions-Build und elf Chromium-Prüfungen erfolgreich. Paketergänzung aus reinem Sci-Fi-Bestand sowie aus Sci-Fi und Action auch bei konkurrierenden Schreibtransaktionen geprüft: vorhandene Fragen, Runden, Antwortereignisse und Lernstände unverändert. Beide Altstände zusätzlich in isolierten Browserprofilen mit kontrollierter Zeit ergänzt und laufende Erklärung wiederaufgenommen. Horror-CSV im Service-Worker-Cache nachgewiesen und eine Halloween-Runde nach Offline-Neuladen fortgesetzt. Export/Import und Browserneustart mit erweitertem Bestand erfolgreich. Keine neue Sites-Veröffentlichung oder unabhängige Faktenprüfung durchgeführt; die oben genannten Geräte- und Live-Grenzen gelten weiter.

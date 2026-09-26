@@ -8,6 +8,8 @@
 
 Das zusätzlich gelieferte `Action_Quiz_180_Fragen.csv` hat dasselbe Format mit 31 Spalten. Mit dem App-Parser vollständig geprüft: 180 akzeptierte Fragen, 150 Wissensziele, 30 Varianten, 17 Themen; keine Ausschlüsse, Warnungen oder ID-Konflikte mit Sci-Fi. Insgesamt 360 Fragen, 300 Wissensziele und 56 Themen. [Action-Bericht](importbericht-action.json). Die Paketergänzung läuft innerhalb einer IndexedDB-Transaktion; vorhandene Fragen, Antwortereignisse und laufende Runden werden nicht überschrieben. Beide Originaldateien bleiben unverändert.
 
+Am 26.09.2026 zusätzlich geliefert: `Horror_Quiz_180_Fragen.csv`, ebenfalls mit 31 Spalten. Alle 180 Datensätze wurden mit dem App-Parser gegen den vorhandenen Sci-Fi-/Action-Bestand ausgewertet: 150 Wissensziele, 30 Varianten und 20 Themen, keine Ausschlüsse, Warnungen oder ID-Konflikte. Der Gesamtbestand umfasst jetzt 540 Fragen, 450 Wissensziele und 76 Themen. Rohquelle und `public/horror-fragen.csv` sind bytegleich. Die automatische transaktionale Ergänzung erhält bestehende Fragen und Lernstände; der Produktions-Build nimmt das Paket in den Offline-Cache auf. [Horror-Bericht](importbericht-horror.json). Die fachlichen Aussagen und Quellenkennzeichnungen stammen unverändert aus der Nutzerdatei; keine unabhängige Faktenprüfung.
+
 | CSV | Intern und Verwendung |
 | --- | --- |
 | `question_id` | `id`; verpflichtend und eindeutig. Bereits gespeicherte IDs werden mit Hinweis übersprungen. |

@@ -16,4 +16,6 @@
 - [Unveränderte gelieferte Rohquelle](../../01%20Rohquellen/SciFi_Quiz_180_Fragen.csv)
 - [Action-Rohquelle](../../01%20Rohquellen/Action_Quiz_180_Fragen.csv)
 - [Action-Importbericht](../../../docs/importbericht-action.json)
+- [Horror-Rohquelle](../../01%20Rohquellen/Horror_Quiz_180_Fragen.csv)
+- [Horror-Importbericht](../../../docs/importbericht-horror.json)
 - [Private Sites-Veröffentlichung und Windows-Ablauf](../../../docs/Sites-Betrieb.md)

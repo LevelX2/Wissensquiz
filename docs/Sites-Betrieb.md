@@ -15,6 +15,8 @@ Projekt-ID aus `.openai/hosting.json` wiederverwenden: `appgprj_6ab78f6468648191
 
 Keine Nutzerspielstände veröffentlichen. Diese liegen ausschließlich im jeweiligen Browser. Bei Adresswechsel JSON exportieren/importieren. Updates warten auf das Schließen alter App-Fenster. Das neue Action-Paket ergänzt bestehende Sci-Fi-Spielstände transaktional.
 
+Der lokale Stand enthält zusätzlich das Horror-Paket. Es ergänzt bestehende Sci-Fi-/Action-Spielstände über denselben Mechanismus und ist im Produktions-Build für den Offline-Cache enthalten. Dieser Stand wurde noch nicht als neue Sites-Version veröffentlicht; Projekt-ID und privater Zugriff bleiben unverändert.
+
 ## Nachweis und Grenzen
 
 Erste Sci-Fi-Veröffentlichung am 26.09.2026: Commit `8eb496029c298cf8884fc3f78c5b0353bfc6e275`, Deployment `appgdep_6ab790d7de608191bed13e0cfe741d93`, nativer Status `succeeded`.

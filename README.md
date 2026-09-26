@@ -37,6 +37,8 @@ Die gelieferte **SciFi_Quiz_180_Fragen.csv** ist das Standardpaket: **180 Fragen
 
 Zusätzlich enthalten: **Action_Quiz_180_Fragen.csv**, ebenfalls unverändert, mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 17 Themen**. Keine Ausschlüsse oder ID-Konflikte. Zusammen **360 Fragen, 300 Wissensziele und 56 Themen**. Das Action-Paket wird bei vorhandenen Sci-Fi-Spielständen beim nächsten App-Start ergänzt; Runden und Lernstände bleiben erhalten. [Action-Importbericht](docs/importbericht-action.json).
 
+Neu enthalten: **Horror_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 20 Themen**. Keine Ausschlüsse, Warnungen oder ID-Konflikte mit den bisherigen Paketen. Insgesamt **540 Fragen, 450 Wissensziele und 76 Themen**. Das Horror-Paket ergänzt bestehende Sci-Fi-/Action-Spielstände beim App-Start transaktional und gehört zum Offline-Paket. [Horror-Importbericht](docs/importbericht-horror.json). Dieser lokale Stand ist noch nicht als neue Sites-Version veröffentlicht.
+
 `verification_status=redaktionell_geprueft` ist eine Angabe der gelieferten Datei. Eine unabhängige Prüfung aller Filmaussagen oder verlinkten Seiten wurde nicht durchgeführt. Keine Vertiefungen oder Fehlererklärungen wurden ergänzt.
 
 Die separat herunterladbare `public/demo-fragen.csv` enthält zwölf selbst verfasste und gekennzeichnete Demo-Fragen als Formatbeispiel. **Diese sind im Standardbestand nicht aktiviert.** Bei manuellem Import bleibt ihre Demo-Kennzeichnung erhalten.
@@ -74,6 +76,7 @@ Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach b
 | `src/App.tsx`, `src/style.css` | Oberfläche und responsive Gestaltung |
 | `src/offline.ts`, `scripts/build-sw.mjs` | Paketstatus und sicher wartende App-Updates |
 | `public/fragen.csv`, `public/action-fragen.csv`, `src/packages.ts` | Gelieferte Standardpakete und transaktionale Ergänzung |
+| `public/horror-fragen.csv` | Unverändertes Horror-Paket, ebenfalls automatisch ergänzt und offline verfügbar |
 | `tests/` | Logik-, Persistenz- und Browserprüfungen |
 
 ## Prüfen

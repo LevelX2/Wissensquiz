@@ -4,6 +4,7 @@ import { importCsv } from "../../src/importer";
 const imported = [
   ...importCsv(readFileSync("public/fragen.csv", "utf8")).questions,
   ...importCsv(readFileSync("public/action-fragen.csv", "utf8")).questions,
+  ...importCsv(readFileSync("public/horror-fragen.csv", "utf8")).questions,
 ];
 async function launch(page: Page) {
   await page.goto("/");
@@ -24,51 +25,58 @@ async function answerCurrent(page: Page, correct = true) {
   return q;
 }
 
-test("Action-Paket ergänzt einen bestehenden Sci-Fi-Spielstand beim Neuladen", async ({
-  page,
-}) => {
-  await launch(page);
-  await page.getByLabel("Thema wählen").selectOption("Alien");
-  await page.getByRole("button", { name: "Losspielen" }).click();
-  await answerCurrent(page, true);
-  await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await page.evaluate(async () => {
-    await new Promise<void>((resolve, reject) => {
-      const request = indexedDB.open("wissensquiz", 1);
-      request.onsuccess = () => {
-        const db = request.result;
-        const tx = db.transaction("state", "readwrite");
-        const store = tx.objectStore("state");
-        const read = store.get("current");
-        read.onsuccess = () => {
-          const state = read.result;
-          state.questions = state.questions.filter(
-            (q: { id: string }) => !q.id.startsWith("ACT-"),
-          );
-          state.imports = state.imports.filter(
-            (r: { filename: string }) =>
-              r.filename !== "Action_Quiz_180_Fragen.csv",
-          );
-          store.put(state, "current");
+for (const oldPackageCount of [1, 2]) {
+  test(`Neue Pakete ergänzen einen Spielstand mit ${oldPackageCount} Paketen beim Neuladen`, async ({
+    page,
+  }) => {
+    await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
+    await launch(page);
+    await page.getByLabel("Thema wählen").selectOption("Alien");
+    await page.getByRole("button", { name: "Losspielen" }).click();
+    await answerCurrent(page, true);
+    await page.getByRole("button", { name: "Pause & Startseite" }).click();
+    await page.evaluate(async (packageCount) => {
+      await new Promise<void>((resolve, reject) => {
+        const request = indexedDB.open("wissensquiz", 1);
+        request.onsuccess = () => {
+          const db = request.result;
+          const tx = db.transaction("state", "readwrite");
+          const store = tx.objectStore("state");
+          const read = store.get("current");
+          read.onsuccess = () => {
+            const state = read.result;
+            state.questions = state.questions.filter(
+              (q: { id: string }) =>
+                !q.id.startsWith("HOR-") &&
+                (packageCount === 2 || !q.id.startsWith("ACT-")),
+            );
+            state.imports = state.imports.filter(
+              (r: { filename: string }) =>
+                r.filename !== "Horror_Quiz_180_Fragen.csv" &&
+                (packageCount === 2 ||
+                  r.filename !== "Action_Quiz_180_Fragen.csv"),
+            );
+            store.put(state, "current");
+          };
+          tx.oncomplete = () => {
+            db.close();
+            resolve();
+          };
+          tx.onerror = () => reject(tx.error);
         };
-        tx.oncomplete = () => {
-          db.close();
-          resolve();
-        };
-        tx.onerror = () => reject(tx.error);
-      };
-      request.onerror = () => reject(request.error);
-    });
+        request.onerror = () => reject(request.error);
+      });
+    }, oldPackageCount);
+    await page.reload();
+    await page.getByRole("button", { name: "Fortsetzen" }).click();
+    await expect(page.locator(".feedback")).toBeVisible();
+    await page.getByRole("button", { name: "Pause & Startseite" }).click();
+    await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
+    await expect(
+      page.getByText("540 Fragen · 450 Wissensziele · 0 Demo-Fragen"),
+    ).toBeVisible();
   });
-  await page.reload();
-  await page.getByRole("button", { name: "Fortsetzen" }).click();
-  await expect(page.locator(".feedback")).toBeVisible();
-  await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
-  await expect(
-    page.getByText("360 Fragen · 300 Wissensziele · 0 Demo-Fragen"),
-  ).toBeVisible();
-});
+}
 test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async ({
   page,
 }) => {
@@ -127,7 +135,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   ).toHaveAttribute("aria-pressed", "true");
   await page.getByRole("button", { name: "Einstellungen & Daten" }).click();
   await expect(
-    page.getByText("360 Fragen · 300 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("540 Fragen · 450 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
@@ -224,6 +232,12 @@ test("Offline-Neuladen mit gespeichertem Paket und Spielfortschritt", async ({
   await expect(page.getByText("Paket bereit", { exact: false })).toBeVisible({
     timeout: 20000,
   });
+  await page.getByLabel("Thema wählen").selectOption("Halloween");
+  expect(
+    await page.evaluate(
+      async () => (await caches.match("/horror-fragen.csv"))?.ok,
+    ),
+  ).toBe(true);
   await page.getByRole("button", { name: "Losspielen" }).click();
   await answerCurrent(page, true);
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
@@ -257,7 +271,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Gültige Fragen importieren" })
     .click();
   await expect(
-    page.getByText("372 Fragen · 312 Wissensziele · 12 Demo-Fragen"),
+    page.getByText("552 Fragen · 462 Wissensziele · 12 Demo-Fragen"),
   ).toBeVisible();
   await expect(
     page.getByRole("button", {
