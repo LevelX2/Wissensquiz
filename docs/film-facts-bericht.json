@@ -1,0 +1,32 @@
+{
+  "checkedOn": "2026-09-26",
+  "films": 300,
+  "newYearQuestions": 300,
+  "newDirectorQuestions": 287,
+  "existingDirectorGoals": 13,
+  "totalQuestions": 2567,
+  "totalGoals": 2237,
+  "categories": {
+    "Classics": {
+      "questions": 557,
+      "goals": 479
+    },
+    "Arthouse": {
+      "questions": 389,
+      "goals": 341
+    }
+  },
+  "difficulties": {
+    "year": {
+      "leicht": 57,
+      "mittel": 179,
+      "schwer": 64
+    },
+    "director": {
+      "leicht": 39,
+      "mittel": 155,
+      "schwer": 93
+    }
+  },
+  "sourceNote": "Jahre gegen erste Veröffentlichung der verlinkten Filmseiten abgeglichen; Regiecredits mit dokumentierten Einzelfallkorrekturen. Schwierigkeit redaktionell, nicht empirisch gemessen."
+}

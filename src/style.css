@@ -978,14 +978,26 @@ footer button {
   display: flex;
   gap: 6px;
 }
-.progress-dots i {
-  width: 17px;
-  height: 4px;
+.progress-dots .progress-step {
+  display: grid;
+  place-items: center;
+  width: 18px;
+  height: 16px;
   border-radius: 3px;
-  background: #3b3e3d;
+  background: #d6ddd9;
+  border: 1px solid #8a9990;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0;
 }
-.progress-dots .filled {
-  background: var(--accent);
+.progress-dots .correct { background: #216b45; border-color: #216b45; color: #fff; }
+.progress-dots .wrong { background: #b03333; border-color: #b03333; color: #fff; }
+.progress-dots .current { box-shadow: 0 0 0 2px #283c42; }
+.progress-dots .current.open {
+  background: #fff0c4;
+  border-color: #75531f;
+  color: #604419;
 }
 .question-card {
   padding: 34px;
@@ -1770,10 +1782,10 @@ details p {
     gap: 12px;
   }
   .progress-dots {
-    gap: 4px;
+    gap: 3px;
   }
-  .progress-dots i {
-    width: 12px;
+  .progress-dots .progress-step {
+    width: 14px;
   }
   .answer {
     padding: 13px 11px;
@@ -1908,8 +1920,8 @@ details p {
   .question-card {
     padding: 20px 13px;
   }
-  .progress-dots i {
-    width: 9px;
+  .progress-dots .progress-step {
+    width: 12px;
   }
   .round-top .pill {
     font-size: 9px;
@@ -2713,6 +2725,15 @@ footer[hidden] {
   }
 }
 
+
+.film-data dl { margin: 16px 0; }
+.film-data dl > div { display: grid; grid-template-columns: 165px minmax(0, 1fr); gap: 8px 16px; padding: 9px 0; border-bottom: 1px solid #d5dcd7; }
+.film-data dt { font-size: 14px; font-weight: 600; }
+.film-data dd { margin: 0; font-size: 16px; overflow-wrap: anywhere; }
+.film-data dd small { display: block; font-size: 14px; line-height: 1.5; margin-top: 5px; }
+.film-data-note { font-size: 14px; }
+.film-data-sources { display: flex; flex-wrap: wrap; gap: 8px 16px; font-size: 14px; }
+@media (max-width: 480px) { .film-data dl > div { grid-template-columns: 1fr; gap: 4px; } }
 
 /* Cinema atmosphere stays on the setup page; the quiz keeps its calm surface. */
 .cinema-home {

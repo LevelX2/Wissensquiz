@@ -12,6 +12,7 @@ import { canonicalFilters, matchesFilters } from "./filters";
 import { pathQuestions } from "./learningPath";
 import { discoveryContext } from "./discovery";
 import { matchesTopic } from "./categories";
+import { prepareFactQuestion } from "./filmFacts";
 export const DAY = 86_400_000;
 export const RULES = {
   version: "1",
@@ -250,12 +251,21 @@ export function startRound(
     throw new Error(
       "Es läuft bereits eine Runde. Setze sie fort oder beende sie.",
     );
-  const questions = selectQuestions(pathQuestions(state), state.learning, {
+  const selected = selectQuestions(pathQuestions(state), state.learning, {
     ...options,
     ...(options.mode === "entdecken" ? discoveryContext(state) : {}),
     size: state.rounds.some((r) => r.status === "completed") ? 10 : 5,
     now,
   });
+  const questions = selected.map((q) =>
+    prepareFactQuestion(
+      q,
+      [...state.rounds]
+        .reverse()
+        .flatMap((r) => r.questions)
+        .find((previous) => previous.id === q.id),
+    ),
+  );
   if (!questions.length)
     throw new Error("Für diese Auswahl sind keine Fragen verfügbar.");
   const round: Round = {

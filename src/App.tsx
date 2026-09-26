@@ -60,6 +60,7 @@ import {
   type PathUnlock,
 } from "./learningPath";
 import { filmDetails } from "./filmDetails";
+import { FilmDataPanel } from "./FilmDataPanel";
 import { questionTitleParts } from "./questionTitle";
 import {
   playFeedback,
@@ -1222,6 +1223,7 @@ function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
           )}
         </details>
       )}
+      <FilmDataPanel q={q} />
       {q.anchor && (
         <div className="memory-anchor">
           <span>✦</span>
@@ -1374,10 +1376,39 @@ function QuestionScreen({
         <span>
           FRAGE {index + 1} VON {round.questions.length}
         </span>
-        <div className="progress-dots">
-          {round.questions.map((_, i) => (
-            <i key={i} className={i <= index ? "filled" : ""} />
-          ))}
+        <div
+          className="progress-dots"
+          role="group"
+          aria-label="Fragenfortschritt"
+        >
+          {round.questions.map((_, i) => {
+            const result = state.events.find((e) => e.id === round.events[i]);
+            const status = result
+              ? result.correct
+                ? "correct"
+                : "wrong"
+              : "open";
+            const label = `Frage ${i + 1}: ${result ? (result.correct ? "richtig beantwortet" : result.answerId ? "falsch beantwortet" : "ohne Antwort") : "noch offen"}${i === index ? ", aktuell" : ""}`;
+            return (
+              <span
+                key={i}
+                role="img"
+                aria-label={label}
+                title={label}
+                className={`progress-step ${status}${i === index ? " current" : ""}`}
+              >
+                {result
+                  ? result.correct
+                    ? "✓"
+                    : result.answerId
+                      ? "×"
+                      : "–"
+                  : i === index
+                    ? "•"
+                    : ""}
+              </span>
+            );
+          })}
         </div>
       </div>
       {round.mode === "rekord" && !event && (

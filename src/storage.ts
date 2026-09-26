@@ -2,7 +2,8 @@ import { z } from "zod";
 import { emptyState, questionSchema, type State } from "./model";
 import { rebuild } from "./engine";
 import { matchesFilters } from "./filters";
-import { matchesTopic, withCategoryTags } from "./categories";
+import { matchesTopic } from "./categories";
+import { questionSnapshotMatches } from "./filmFacts";
 const time = z.number().finite().nonnegative();
 const id = z.string().min(1).max(200);
 const learningSchema = z.object({
@@ -138,8 +139,7 @@ export function validateBackup(value: unknown): State {
           (stored) =>
             stored.id === q.id &&
             stored.version === q.version &&
-            JSON.stringify(withCategoryTags(stored)) ===
-              JSON.stringify(withCategoryTags(q)),
+            questionSnapshotMatches(stored, q),
         )
       )
         throw new Error(

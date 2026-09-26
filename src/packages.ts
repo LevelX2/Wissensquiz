@@ -1,6 +1,7 @@
 import { importCsv } from "./importer";
 import type { State } from "./model";
 import { applyCategoryTags } from "./categories";
+import { addFilmFacts } from "./filmFacts";
 
 export const packages = [
   { path: "/fragen.csv", filename: "SciFi_Quiz_180_Fragen.csv" },
@@ -35,4 +36,5 @@ export function addPackages(state: State, incoming: PackageContent[]) {
     state.imports.push(imported.report);
   }
   applyCategoryTags(state.questions);
+  addFilmFacts(state.questions);
 }

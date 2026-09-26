@@ -142,3 +142,9 @@ Keine neuen Statistikzähler, keine Migration und keine Änderung an Lernfortsch
 ## Arthouse und gemeinsame Kategorienauswahl
 
 Classics und Arthouse sind unabhängig wählbare kuratierte Zusatzkategorien innerhalb der ausgewählten Genres. Beide gewählt bedeutet eine Vereinigung (ODER), keine Schnittmenge. Die Rundenkategorie wird kanonisch als Classics + Arthouse und optional mit „: Film/Reihe“ gespeichert; frühere Classics-Runden bleiben gültig. Globale Summen, Auswahl und Fortschritt bleiben nach Frage-/Wissensziel-ID eindeutig. RomCom und Rom-Com werden beim neuen Import zum Genre Rom-Com zusammengeführt, Quellwert bleibt erhalten. Details und vollständige Zahlen im Importvertrag.
+
+## Jahresfragen, Regie und Filmdaten (26.09.2026)
+
+Neue Jahres- und Regiefragen verwenden die normalen Genre-, Stufen-, Lern- und Punkteregeln. Wechselnde falsche Jahresantworten werden nur beim Rundenstart erzeugt und als vollständiger Snapshot gespeichert; Lernidentität und Statistiken bleiben dieselben. Nach der Antwort bietet Filmdaten die geprüften Eckdaten des Films in einem zunächst geschlossenen Abschnitt. [Vertrag und Quellen](Filmwissen-und-Filmdaten.md).
+
+Fragenfortschritt: Grün mit Häkchen bedeutet richtig, Rot mit Kreuz falsch; ohne Antwort erscheint ein roter Strich. Offene Fragen sind grau, die aktuelle Frage zusätzlich deutlich umrandet und vor der Antwort mit Punkt markiert. Zugängliche Beschriftungen nennen Nummer und Status, damit Farbe nicht die einzige Unterscheidung ist.

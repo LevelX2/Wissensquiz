@@ -54,3 +54,5 @@
 - [Arthouse-Importbericht](../../../docs/importbericht-arthouse.json)
 - [Arthouse-Bestandszuordnungen](../../01%20Rohquellen/Arthouse_Zuordnungen_Bestand.json)
 - [Arthouse-Zuordnungsbericht](../../../docs/arthouse-zuordnungsbericht.json)
+
+- [Jahres- und Regiefragen, variable Antworten und Filmdaten](../../../docs/Filmwissen-und-Filmdaten.md)

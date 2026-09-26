@@ -67,16 +67,16 @@ for (const both of [false, true]) {
           };
         }),
     );
-    expect(saved.questions).toHaveLength(1980);
+    expect(saved.questions).toHaveLength(2567);
     expect(new Set(saved.questions.map((q: any) => q.knowledgeId)).size).toBe(
-      1650,
+      2237,
     );
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Arthouse")),
-    ).toHaveLength(306);
+    ).toHaveLength(389);
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Classics")),
-    ).toHaveLength(438);
+    ).toHaveLength(557);
     const round = saved.rounds.at(-1);
     expect(round.topic).toBe(
       `${both ? "Classics + Arthouse" : "Arthouse"}: Die fabelhafte Welt der Amélie`,

@@ -2,6 +2,7 @@ import { test, expect, type Page } from "@playwright/test";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
 import { packages } from "../../src/packages";
+import type { Question, State } from "../../src/model";
 const imported = packages.flatMap(
   (p) => importCsv(readFileSync(`public${p.path}`, "utf8")).questions,
 );
@@ -13,7 +14,32 @@ async function answerCurrent(page: Page, correct = true) {
   const questionId = await page
     .locator(".question-card h1")
     .getAttribute("data-question-id");
-  const q = imported.find((q) => q.id === questionId)!;
+  const q = await page.evaluate(
+    (id) =>
+      new Promise<Question>((resolve, reject) => {
+        const req = indexedDB.open("wissensquiz");
+        req.onerror = () => reject(req.error);
+        req.onsuccess = () => {
+          const db = req.result;
+          const query = db
+            .transaction("state")
+            .objectStore("state")
+            .get("current");
+          query.onsuccess = () => {
+            const state = query.result as State;
+            const question = state.rounds
+              .find((r) => r.status === "active")
+              ?.questions.find((q) => q.id === id);
+            db.close();
+            question
+              ? resolve(question)
+              : reject(new Error(`Aktive Frage fehlt: ${id}`));
+          };
+          query.onerror = () => reject(query.error);
+        };
+      }),
+    questionId,
+  );
   const difficulty = `Schwierigkeit: ${q.difficulty[0].toUpperCase()}${q.difficulty.slice(1)}`;
   await expect(page.locator(".question-difficulty")).toHaveText(difficulty);
   await expect(page.locator(".question-difficulty")).toBeVisible();
@@ -310,7 +336,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
-      page.getByText("1980 Fragen · 1650 Wissensziele · 0 Demo-Fragen"),
+      page.getByText("2567 Fragen · 2237 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
   });
 }
@@ -447,6 +473,36 @@ test("Conjuring zeigt passende Darsteller und Quellen erst in der Vertiefung, au
     .click();
   await page.getByLabel("Thema wählen").selectOption("Conjuring");
   await page.getByRole("button", { name: "Losspielen" }).click();
+  // Dieser Test prüft die Besetzungsergänzung der ursprünglichen CSV-Fragen.
+  // Die ergänzenden Filmfragen haben eigene, gezielt getestete Zusatztexte.
+  await page.evaluate(
+    (q) =>
+      new Promise<void>((resolve, reject) => {
+        const req = indexedDB.open("wissensquiz");
+        req.onerror = () => reject(req.error);
+        req.onsuccess = () => {
+          const db = req.result;
+          const tx = db.transaction("state", "readwrite");
+          const store = tx.objectStore("state");
+          const query = store.get("current");
+          query.onsuccess = () => {
+            const state = query.result as State;
+            const round = state.rounds.find((r) => r.status === "active")!;
+            round.questions = [q];
+            round.order = [q.answers.map((a) => a.id)];
+            store.put(state, "current");
+          };
+          tx.oncomplete = () => {
+            db.close();
+            resolve();
+          };
+          tx.onerror = () => reject(tx.error);
+        };
+      }),
+    imported.find((q) => q.topic === "Conjuring")!,
+  );
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".cast-context")).toHaveCount(0);
   await answerCurrent(page);
   await expect(page.locator(".cast-context")).not.toBeVisible();
@@ -570,7 +626,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByText("1980 Fragen · 1650 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("2567 Fragen · 2237 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
@@ -751,7 +807,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Gültige Fragen importieren" })
     .click();
   await expect(
-    page.getByText("1992 Fragen · 1662 Wissensziele · 12 Demo-Fragen"),
+    page.getByText("2579 Fragen · 2249 Wissensziele · 12 Demo-Fragen"),
   ).toBeVisible();
   await expect(
     page.getByRole("button", {

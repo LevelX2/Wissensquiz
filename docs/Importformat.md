@@ -101,3 +101,7 @@ SHA-256 der gelieferten und bytegleich erhaltenen Quellen:
 - Arthouse_Zuordnungen_Bestand.json: d133752f227d0412ffe2056dab94c952bdd0e58d50e0efafa339008c87adda49
 
 Die zugestellte Martial-Arts-Datei hatte den Dateinamenszusatz „1“; sie ist unter dem von den Zuordnungen referenzierten kanonischen Namen abgelegt, mit unverändertem Inhalt.
+
+## Jahres- und Regieergänzung (26.09.2026)
+
+587 redaktionelle Zusatzfragen aus 300 referenzgeprüften Filmwerken ergänzen die elf unveränderten CSV-Pakete: 300 Jahresfragen und 287 Regiefragen. 13 vorhandene Regieziele werden weiterverwendet. Gesamt 2.567 Fragen/2.237 Ziele, gleiche Genres und Themen. Idempotente Ergänzung, feste Lernidentitäten und geprüfte variable Jahresantworten; historische Inhalte und Lernstände bleiben erhalten. Details: [Filmwissen und Filmdaten](Filmwissen-und-Filmdaten.md).
