@@ -25,6 +25,10 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Aktueller Veröffentlichungsstand
 
+Version 19 am 26.09.2026: persönliche Fragenstatistik in Entdecken und Besser werden, mit aufklappbarer Variantenbilanz. App-Commit `dacd0589896b0dd7dfefffdb38bae3f46739f1f0`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_449b52ac06208191833137728eec8fd4`, Deployment `appgdep_6ab80781e8bc8191898df993ed1af383`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 95 Logik-/Datenbanktests, Produktions-Build und alle 53 Browserprüfungen erfolgreich. Keine Datenbankänderung oder Fortschrittsmigration. Regulärer Sites-Workflow und native Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Geräteabnahme weiterhin offen.
+
+### Vorherige Veröffentlichung: Version 18
+
 Version 18 am 26.09.2026: kompakter Spieleinstieg, Start direkt unter der Moduswahl, freie Stufen separat und einheitliche Genre-Bilder; Classics-Paket und referenzgeprüfte Kategoriezuordnungen. App-Commit `dd718a0575897c67d0e2e8887f48ad89ed7c5728`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_c904943dafe081918e988d0ffc4e1a9e`, Deployment `appgdep_6ab7faa793fc8191a2c9c87d277922bc`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 93 Logik-/Datenbanktests, Produktions-Build und 51 unterschiedliche Browserfälle erfolgreich (50 im letzten vollständigen Lauf plus korrigierter Einstiegstest gezielt nachgeprüft). 180 neue Fragen und 225 zusätzliche Bestandszuordnungen; 33 Referenzen auf noch fehlende Pakete protokolliert. Rohquellen und Lernidentitäten erhalten, keine Datenbankmigration. Regulärer Sites-Workflow, native Browserübergabe, keine zusätzliche Live-Browserprüfung; physische Geräteabnahme offen.
 
 ### Vorherige Veröffentlichung: Version 17
