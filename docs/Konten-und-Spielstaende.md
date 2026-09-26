@@ -22,8 +22,14 @@ Sites-Zutritt und Quiz-Konto sind getrennt. Der Nutzer hat die öffentliche Erre
 
 Die App spricht Supabase über HTTPS an. Project URL und Publishable Key sind öffentliche Konfiguration; SMTP-, Datenbank- und geheime API-Schlüssel bleiben ausschließlich in den jeweiligen Diensten. Brevo Free wird ohne eigene Domain verwendet, Tracking ist anonymisiert, aber nicht vollständig abschaltbar.
 
-## Gemeinsame Bestenliste als nächster Ausbau
+## Profil und gemeinsame Trainingsrangliste
 
-Die persönliche Bestenliste ist vorhanden und Bestandteil des automatisch gesicherten Kontospielstands. Eine gemeinsame Wettbewerbsrangliste ist noch nicht umgesetzt. Dafür müssen Online-Rekordrunden serverseitig gestartet, Fragen und Zeiten zugeordnet und Punkte geprüft werden. Gesicherte lokale oder offline erspielte Rekorde bleiben persönliche Trainingswerte.
+Das Profil zeigt gespielte und abgeschlossene Runden, beantwortete Fragen, Trefferquote, abgeschlossene Rekordrunden, gefestigte Wissensziele sowie Level und XP. Konto- und Speicherhilfen stehen kompakt unter „Konto & Speicherung“.
 
-Geplant sind getrennte Kategorien nach Genre-Kombination, Stufen, Rundengröße und Regelversion, freiwillige Teilnahme und Anzeige ausschließlich des Spielernamens. Automatische Zusammenführung mehrerer Geräte und Selbstbedienung zur Kontolöschung bleiben weitere Ausbauschritte.
+Die Bestenliste lässt sich zwischen „Meine Ergebnisse“ und „Alle Spieler“ umschalten. Die persönliche Liste bleibt Teil des privaten Spielstands und offline verfügbar. Gemeinsame Ergebnisse sind nur für bestätigte, angemeldete Quiz-Konten abrufbar. Teilnahme ist standardmäßig ausgeschaltet. „Meine Ergebnisse und Spielerstatistik teilen“ veröffentlicht nach gespeicherter Kontosicherung auch vorhandene abgeschlossene Rekordrunden. Ausschalten entfernt die abgeleiteten geteilten Ergebnisse, bewahrt aber den privaten Spielstand.
+
+Geteilt werden Spielername, Kategorie, Punkte, richtige Antworten, Antwortzeit und Abschlussdatum sowie zusammengefasste Spielerstatistiken (abgeschlossene Runden, Antworten und Trefferquote). Keine E-Mail, Konto-ID, Frageninhalte oder vollständigen Spielstände. Kategorien trennen Genre-Kombination, Stufen, optionales Einzelthema, Fragenzahl und Regelversion. Gleichstände teilen den Rang (1, 1, 3); Seiten enthalten höchstens 50 Ergebnisse. Die Datenbank berechnet Punkte aus Antwort-IDs und Zeiten neu und aktualisiert freigegebene Ergebnisse bei jeder Kontosicherung.
+
+Dies ist ausdrücklich eine gemeinsame Trainingsrangliste: Antworten und Zeiten stammen weiterhin aus dem Browser; Offline- und importierte Runden können enthalten sein. Für einen manipulationsgeschützten Wettbewerb wären serverseitig gestartete und kontrollierte Runden nötig. Automatische Zusammenführung mehrerer Geräte und Selbstbedienung zur Kontolöschung bleiben ebenfalls offen.
+
+Unter „Spielerranglisten ansehen“ stehen zusätzlich Aktivitäts- und Trefferwertungen bereit: meiste abgeschlossene Runden, meiste richtige Antworten, höchste Trefferquote ab 50 Antworten in der gewählten Genre-/Stufengruppe. Die bestehende freiwillige Freigabe gilt für beide Listenarten und erklärt den Umfang vor Aktivierung. Migration 003 aggregiert ausschließlich bestätigte und freiwillig teilnehmende Konten; keine direkten Leserechte auf fremde Spielstände. Ergebnisse basieren weiterhin auf gespeicherten Trainingsdaten, nicht auf unabhängig geprüften Spielabläufen.

@@ -13,7 +13,7 @@
 - [Erklärungstiefe und geprüfte Darstellerergänzungen](../../../docs/Erklaerungstiefe.md)
 - [Fragenweiser Nachweis der Darstellerprüfung](../../../docs/Darstellerpruefung.json)
 - [Lernregeln, Auswahl, Punkte, Speicher- und Offlinevertrag](../../../docs/Lernregeln.md)
-- [Konten, private Spielstände und geplante gemeinsame Bestenliste](../../../docs/Konten-und-Spielstaende.md)
+- [Konten, private Spielstände und gemeinsame Trainingsrangliste](../../../docs/Konten-und-Spielstaende.md)
 - [Supabase-Einrichtung, Datenbankregeln und Mailvorlagen](../../../docs/Konten-Einrichtung.md)
 - [Tatsächliche Prüfungen und bekannte Grenzen](../../../docs/Pruefbericht.md)
 - [Maschineller Importbericht](../../../docs/importbericht.json)

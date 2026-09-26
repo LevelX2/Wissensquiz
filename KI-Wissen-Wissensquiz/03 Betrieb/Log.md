@@ -102,3 +102,13 @@ Nutzer bestätigt erfolgreichen Passwort-Reset und Anmeldung am Handy. Auge zum 
 ## 26.09.2026 – Aktualisiert veröffentlicht und öffentlich freigegeben
 
 App-Commit `b33ae2a` auf derselben Sites-Projekt-ID/URL erfolgreich veröffentlicht; Deployment `appgdep_6ab7d405ebf48191a386d6cef3be524c`, Status `succeeded`. Anschließend Besucherzugriff auf Nutzerauftrag öffentlich (Revision 2), Eigentümerrechte erhalten. Anonymer Live-Aufruf direkt mit Status 200 und aktuellem JavaScript; beide neuen CSV und Service Worker bytegleich zum Build. 67 Logik-/Datenbanktests, Build und alle 31 Browserfälle erfolgreich (alte Anzahl im Zusatzimport-Test korrigiert und gezielt erneut bestanden). Gastdaten und Rohquellen erhalten. Physische PWA-/Offline- und echte geräteübergreifende Fortschrittsprüfung weiterhin offen.
+
+## 26.09.2026 — Profilstatistik und freiwillige gemeinsame Rekordergebnisse
+
+Profil auf Spiel-/Antwortstatistik, Trefferquote, Level und XP ausgerichtet; Kontotexte eingeklappt. Persönliche und gemeinsame Bestenliste umschaltbar, Teilnahme explizit und widerrufbar. Neue Supabase-Migration mit geschützten Ergebniszusammenfassungen, Kategorien, Gleichständen und Pagination im bestehenden Projekt erfolgreich ausgeführt; reale Rechte geprüft. Private Spielstände und Rohquellen erhalten. 70 Logik-/Datenbankprüfungen, Build und 32 unterschiedliche Browserprüfungen erfolgreich. Reale Zwei-Spieler-Abnahme bleibt offen; gemeinsame Werte sind ausdrücklich Trainingswerte, kein manipulationsgeschützter Wettbewerb. Freischalten von Schwierigkeitsstufen als optionalen Lernpfad vorgeschlagen, noch nicht umgesetzt.
+
+## 26.09.2026 — Lernpfad, Lesbarkeit und Spielerleistungen
+
+Nutzer wählt optionalen Lernpfad bei weiterhin offenem freien Spiel. Je Genre 20 sichere unterschiedliche leichte bzw. mittlere Ziele aus abgeschlossenen Runden, vorhandener Fortschritt zählt. Fortschrittsbalken, Freigaben und Erfolgshinweis umgesetzt. Oberfläche auf helle Leseflächen umgestellt, Fragen/Antworten und mobile Navigation gestrafft, Ton in zentrale Optionen verschoben. Dauerndes „Online“ entfernt, Offline-/Synchronisierungszustände erhalten.
+
+Zusätzlicher Nutzerwunsch nach Spielerlisten umgesetzt: Rundenanzahl, richtige Antworten, Trefferquote ab 50 Antworten, je Genre und Stufe filterbar. Freiwillige Freigabe umfasst sichtbar erklärt Rekorde und Statistik. SQL-Migration 003 erfolgreich im bestehenden Supabase-Projekt, ohne Teilnahme für vorhandene Konten einzuschalten. 73 Logik-/Datenbanktests und 33 Browserprüfungen erfolgreich; finale mobile Layoutkorrektur gezielt nachgeprüft. Spielstände, Quellen und bestehende öffentliche Site-ID erhalten.

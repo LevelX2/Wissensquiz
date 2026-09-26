@@ -73,10 +73,18 @@ Anschließend nach [Sites-Betrieb](Sites-Betrieb.md) veröffentlichen, dieselbe 
 - Lokaler Gast- und Kontospielstand sind getrennt. Kopieren des Gaststands und Ersetzen durch den Online-Stand verlangen eine ausdrückliche Auswahl; vorher JSON sichern. Zusätzliche lokale Rückfallkopie unter `recovery:…` im bestehenden IndexedDB-Store.
 - Abmeldung blendet Kontodaten aus; sie löscht nicht deren lokale Rückfallkopien. Ein Gerät mit fremdem Browserprofil ist kein privater Datentresor. Kontolöschung kann der Eigentümer derzeit im Supabase-Dashboard durchführen; die Online-Zeile wird durch den Fremdschlüssel mitgelöscht. Eine Selbstbedienungsfunktion zur Kontolöschung ist noch nicht eingebaut.
 - Ein neu geladenes Konto benötigt Internet zur Sitzungsprüfung. Der bisherige Offline-Gastmodus bleibt verfügbar. Bereits geladene Kontorunden speichern lokal; Online-Abgleich erfolgt mit Verbindung.
-- Eine gemeinsame Bestenliste mit serverseitiger Punkteprüfung ist noch nicht implementiert. Online gesicherte lokale Rekorde sind keine manipulationssicheren Wettbewerbswerte.
+- Die freiwillige gemeinsame Trainingsrangliste berechnet Punkte serverseitig aus dem gespeicherten Stand, überprüft aber nicht unabhängig den Spielablauf. Online gesicherte lokale Rekorde sind keine manipulationssicheren Wettbewerbswerte.
 
 ## Quellen und Prüfstand
 
 [Sites: getrennte Freigabe und Identität](https://learn.chatgpt.com/docs/sites#control-access-and-secrets), [Supabase Passwort-Anmeldung](https://supabase.com/docs/guides/auth/passwords), [Mailvorlagen](https://supabase.com/docs/guides/auth/auth-email-templates), [SMTP](https://supabase.com/docs/guides/auth/auth-smtp), [Row Level Security](https://supabase.com/docs/guides/database/postgres/row-level-security).
 
 Der Datenbanktest führt die echte Migration in lokalem Postgres/WASM (PGlite) mit nachgebildetem `auth.users`/`auth.uid()` aus und prüft Rollen, RLS und Revisionskonflikte. Browserprüfungen nutzen das echte Supabase-SDK mit simulierten HTTP-Antworten; sie belegen keine Mailzustellung und keine Einrichtung eines echten Supabase-Projekts.
+
+## Ergänzung: gemeinsame Trainingsrangliste, 26.09.2026
+
+[202609260002_shared_records.sql](../supabase/migrations/202609260002_shared_records.sql) wurde nach der Kontenmigration im bestehenden Projekt erfolgreich innerhalb einer Transaktion ausgeführt. Nicht erneut ausführen. Die Erweiterung legt nur getrennte Freigaben und abgeleitete Ergebniszusammenfassungen an; sie ändert keine privaten Spielstände und aktiviert keine Teilnahme für bestehende Konten.
+
+Im echten SQL Editor nachgewiesen: RLS auf beiden neuen Tabellen aktiv, keine anonymen Leserechte, keine direkten Schreibrechte für Konten, Ranglistenfunktion nur für angemeldete Konten ausführbar, interne Ableitungsfunktion nicht für Konten ausführbar. Die Funktionen prüfen zusätzlich bestätigte, nicht anonyme Identität. Lokale Datenbanktests prüfen Einwilligung, Rücknahme, Eigentümerbindung, Pagination und Gleichstände. Ein gemeinsamer Nutzertest mit zwei echten Konten bleibt offen.
+
+Migration [202609260003_player_rankings.sql](../supabase/migrations/202609260003_player_rankings.sql) wurde anschließend ebenfalls im bestehenden Projekt erfolgreich ausgeführt. Sie ergänzt ausschließlich die lesende Funktion `quiz_players` mit eigener bestätigter Benutzerprüfung, freiwilliger Teilnahme, begrenzter Ergebnismenge und ohne private IDs. Anonyme Ausführung entzogen, für Konten erlaubt. Keine zusätzlichen Konten oder Teilnahmefreigaben angelegt.

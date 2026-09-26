@@ -40,6 +40,8 @@ import {
 import { useOffline } from "./offline";
 import { BadgeIcon, GenreIcon } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
+import { LearningPath } from "./LearningPathPanel";
+import { learningPathProgress, pathQuestions } from "./learningPath";
 import { filmDetails } from "./filmDetails";
 import {
   playFeedback,
@@ -311,7 +313,7 @@ export function App({
   const current = state.rounds.find((r) => r.id === roundId);
   const targetSize = completed.length ? 10 : 5;
   const selection = selectQuestions(
-    state.questions,
+    pathQuestions(state),
     state.learning,
     {
       mode,
@@ -433,32 +435,22 @@ export function App({
             {accountName ? `KONTO: ${accountName}` : "DEIN FILMKOSMOS"}
           </span>
           <button
-            className="sound-toggle"
-            aria-pressed={state.settings.sound !== false}
-            disabled={busy}
-            onClick={async () => {
-              const enabled = state.settings.sound === false;
-              if (enabled) unlockSound({ ...state.settings, sound: true });
-              else stopFeedback();
-              const saved = await mutate((s) => {
-                s.settings.sound = enabled;
-              });
-              if (saved && enabled) playFeedback("next", saved.settings);
-            }}
+            className="options-button"
+            onClick={() => void nav("settings")}
           >
-            {state.settings.sound !== false ? "Ton an" : "Ton aus"}
+            ⚙ Optionen
           </button>
-          <div className="connection">
-            <i className={offline.online ? "online" : ""} />
-            {offline.online ? "Online" : "Offline"}
-            <span className="desktop-only">
-              {" "}
-              ·{" "}
-              {offline.ready ? "Paket bereit" : "Offline-Paket nicht bestätigt"}
+          {!offline.online && (
+            <span className="connection" role="status">
+              Offline · lokal gespeichert
             </span>
-          </div>
+          )}
         </header>
-        <main ref={heading} tabIndex={-1} className="main-content">
+        <main
+          ref={heading}
+          tabIndex={-1}
+          className={`main-content ${page === "round" ? "playing" : ""}`}
+        >
           {error && (
             <div role="alert" className="notice error">
               {error}
@@ -542,6 +534,16 @@ export function App({
                     Bestenliste ansehen →
                   </button>
                 )}
+                <LearningPath
+                  state={state}
+                  genres={filters.genres}
+                  busy={busy}
+                  onChange={(enabled) => {
+                    void mutate((s) => {
+                      s.settings.learningPath = enabled;
+                    });
+                  }}
+                />
                 <div className="setup-bottom">
                   <div className="quiz-filters">
                     <fieldset>
@@ -574,6 +576,12 @@ export function App({
                     </fieldset>
                     <fieldset>
                       <legend>Schwierigkeitsstufen</legend>
+                      {state.settings.learningPath && (
+                        <p className="tiny muted">
+                          Gesperrte Stufen werden je Genre ausgelassen. Wähle
+                          Leicht, um mit einem neuen Genre zu beginnen.
+                        </p>
+                      )}
                       <div className="filter-options">
                         {difficulties.map((d) => (
                           <label className="filter-choice" key={d}>
@@ -978,7 +986,7 @@ export function App({
             />
           )}
         </main>
-        <footer>
+        <footer hidden={page === "round"}>
           <span>
             WISSENSQUIZ <span className="footer-star">✦</span> BLEIB NEUGIERIG.
           </span>
@@ -1172,7 +1180,6 @@ function QuestionScreen({
       )}
       <section className="question-card">
         <div className="question-heading">
-          <span className="eyebrow">DEIN MOMENT DER NEUGIER</span>
           <div className="question-hints">
             {state.settings.showGenre !== false && (
               <span className="pill question-genre">
@@ -1348,6 +1355,25 @@ function Result({
       after[q.knowledgeId]?.status === "gefestigt" &&
       round.before[q.knowledgeId]?.status !== "gefestigt",
   ).length;
+  const pathNow = learningPathProgress(state);
+  const pathBefore = learningPathProgress({
+    ...state,
+    rounds: state.rounds.filter((r) => r.id !== round.id),
+  });
+  const unlocked = [...new Set(round.questions.map(genreOf))].flatMap(
+    (genre) => {
+      const before = pathBefore(genre),
+        after = pathNow(genre);
+      return [
+        ...(!before.mediumUnlocked && after.mediumUnlocked
+          ? [`${genreLabel(genre)} · Mittel`]
+          : []),
+        ...(!before.hardUnlocked && after.hardUnlocked
+          ? [`${genreLabel(genre)} · Schwer`]
+          : []),
+      ];
+    },
+  );
   return (
     <div className="result">
       <span className="eyebrow">ABSPANN? NOCH LANGE NICHT.</span>
@@ -1384,6 +1410,12 @@ function Result({
       )}
       <div className="result-progress">
         <Pill>+10 Erfahrung · einmal pro Runde</Pill>
+        {!!unlocked.length && (
+          <p className="notice" role="status">
+            ✦ Im Lernpfad neu freigeschaltet: {unlocked.join(" und ")}. Du
+            kannst die neue Stufe bei Deiner nächsten Runde auswählen.
+          </p>
+        )}
         {improved > 0 && (
           <p>
             ✧ {improved} Wissensziel{improved === 1 ? "" : "e"} in dieser Runde

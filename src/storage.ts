@@ -91,6 +91,7 @@ const stateSchema = z.object({
     haptics: z.boolean().optional(),
     showGenre: z.boolean().optional(),
     showDifficulty: z.boolean().optional(),
+    learningPath: z.boolean().optional(),
   }),
   experience: z.number().int().nonnegative(),
   records: z.record(

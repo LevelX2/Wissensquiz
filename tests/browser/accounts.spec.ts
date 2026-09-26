@@ -1,5 +1,9 @@
 import { test, expect, type Page } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
+import { readFileSync } from "node:fs";
+import { importCsv } from "../../src/importer";
+import { emptyState } from "../../src/model";
+import { startRound, answer, complete } from "../../src/engine";
 // Auth HTTP responses must remain interceptable after reload; offline behavior
 // is covered separately against the real service worker.
 test.use({ serviceWorkers: "block" });
@@ -67,6 +71,7 @@ async function mockAccounts(page: Page, server: Server = new Map()) {
       path.endsWith("/resend")
     )
       return route.fulfill({ json: {} });
+    if (path.endsWith("/quiz_sharing")) return route.fulfill({ json: null });
     if (path.endsWith("/quiz_saves"))
       return route.fulfill({
         json: server.has(current) ? [server.get(current)] : [],
@@ -98,7 +103,11 @@ async function mockAccounts(page: Page, server: Server = new Map()) {
 async function account(page: Page) {
   await page.getByRole("button", { name: "Konto", exact: true }).click();
 }
-async function login(page: Page, email = "alice@example.test") {
+async function login(
+  page: Page,
+  email = "alice@example.test",
+  allowActive = false,
+) {
   await account(page);
   await page.getByLabel("E-Mail-Adresse").fill(email);
   await page
@@ -122,8 +131,214 @@ async function login(page: Page, email = "alice@example.test") {
     "password",
   );
   await page.getByRole("button", { name: "Anmelden", exact: true }).click();
-  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  if (allowActive)
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeVisible();
+  else
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeEnabled();
 }
+
+test("Profil zeigt Spielstatistik, eigene Rekorde und freiwillig geteilte Ergebnisse", async ({
+  page,
+}) => {
+  const state = emptyState(
+    importCsv(readFileSync("public/fragen.csv", "utf8")).questions,
+  );
+  const round = startRound(
+    state,
+    { mode: "rekord", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    1700000000000,
+  );
+  for (const q of round.questions)
+    answer(state, round.id, q.id, q.correctId, 1000, 1700000001000);
+  complete(state, round.id, 1700000010000);
+  startRound(
+    state,
+    { mode: "entdecken", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    1700000020000,
+  );
+  const server: Server = new Map([
+    [alice, { state, revision: 1, updated_at: new Date().toISOString() }],
+  ]);
+  await mockAccounts(page, server);
+  let participating = false;
+  const changes: boolean[] = [];
+  const category = {
+    category: "scifi-5",
+    genres: ["Science-Fiction"],
+    difficulties: ["leicht"],
+    topic: "Alle Themen",
+    question_count: 5,
+    rule_version: "1",
+  };
+  await page.route("**/rest/v1/quiz_sharing*", (r) =>
+    r.fulfill({ json: { enabled: participating } }),
+  );
+  await page.route("**/rest/v1/rpc/quiz_set_sharing", (r) => {
+    const body = r.request().postDataJSON();
+    expect(body.expected_owner).toBe(alice);
+    participating = body.participate;
+    changes.push(participating);
+    return r.fulfill({ json: participating });
+  });
+  await page.route("**/rest/v1/rpc/quiz_score_categories", (r) =>
+    r.fulfill({ json: [category] }),
+  );
+  const playerQueries: Record<string, unknown>[] = [];
+  await page.route("**/rest/v1/rpc/quiz_players", (r) => {
+    playerQueries.push(r.request().postDataJSON());
+    return r.fulfill({
+      json: [
+        {
+          player_name: "Bob",
+          completed: 12,
+          answered: 100,
+          correct: 85,
+          accuracy: 85,
+          place: 1,
+          is_mine: false,
+        },
+      ],
+    });
+  });
+  await page.route("**/rest/v1/rpc/quiz_rankings", (r) =>
+    r.fulfill({
+      json: [
+        {
+          player_name: "Bob",
+          points: 750,
+          correct: 5,
+          elapsed_ms: 25000,
+          finished_at: 1700000010000,
+          place: 1,
+          is_mine: false,
+        },
+        ...(participating
+          ? [
+              {
+                player_name: "Alice",
+                points: 700,
+                correct: 5,
+                elapsed_ms: 50000,
+                finished_at: 1700000010000,
+                place: 2,
+                is_mine: true,
+              },
+            ]
+          : []),
+      ],
+    }),
+  );
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/");
+  await login(page, "alice@example.test", true);
+  await account(page);
+  for (const [label, value] of [
+    ["Runden gespielt", "2"],
+    ["Runden abgeschlossen", "1"],
+    ["Fragen beantwortet", "5"],
+    ["Trefferquote", "100 %"],
+    ["Rekordrunden abgeschlossen", "1"],
+  ]) {
+    await expect(
+      page
+        .locator(".profile-stats > div")
+        .filter({ has: page.getByText(label, { exact: true }) })
+        .locator("dd"),
+    ).toHaveText(value);
+  }
+  await expect(
+    page.getByRole("button", { name: "Abmelden", exact: true }),
+  ).not.toBeVisible();
+  const participation = page.getByLabel(
+    "Meine Ergebnisse und Spielerstatistik teilen",
+    { exact: true },
+  );
+  await expect(participation).not.toBeChecked();
+  await participation.click();
+  await expect.poll(() => changes).toEqual([true]);
+  await page.getByRole("button", { name: "Alle Spieler", exact: true }).click();
+  await expect(page.getByText("Platz 1 · Bob", { exact: true })).toBeVisible();
+  await expect(
+    page.getByText("Platz 2 · Alice (Du)", { exact: true }),
+  ).toBeVisible();
+  await page
+    .getByRole("button", { name: "Meine Ergebnisse", exact: true })
+    .click();
+  await expect(
+    page.getByText("Platz 1 · 790 Punkte", { exact: true }),
+  ).toBeVisible();
+  await participation.click();
+  await expect.poll(() => changes).toEqual([true, false]);
+  await page.getByRole("button", { name: "Alle Spieler", exact: true }).click();
+  await expect(page.getByText("Platz 1 · Bob", { exact: true })).toBeVisible();
+  await expect(
+    page.getByText("Platz 2 · Alice (Du)", { exact: true }),
+  ).toHaveCount(0);
+  await page.setViewportSize({ width: 320, height: 800 });
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  await page
+    .locator(".profile-stats")
+    .evaluate((el) => el.scrollIntoView({ block: "center" }));
+  await page.screenshot({ path: "test-results/profil-statistik-320.png" });
+  await page.getByRole("button", { name: "Spielerranglisten ansehen" }).click();
+  await expect(
+    page.getByText(
+      "12 Runden · 85 von 100 Antworten richtig · 85 % Trefferquote",
+    ),
+  ).toBeVisible();
+  await page
+    .getByLabel("Spielerwertung", { exact: true })
+    .selectOption("accuracy");
+  await page
+    .getByLabel("Spielerwertung Genre", { exact: true })
+    .selectOption("Horror");
+  await page
+    .getByLabel("Spielerwertung Schwierigkeit", { exact: true })
+    .selectOption("mittel");
+  await expect
+    .poll(() => playerQueries.at(-1))
+    .toMatchObject({
+      sort_by: "accuracy",
+      selected_genre: "Horror",
+      selected_difficulty: "mittel",
+      page_offset: 0,
+    });
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  await page.getByRole("button", { name: "Alle Spieler", exact: true }).click();
+  await page.route("**/rest/v1/rpc/quiz_rankings", (r) =>
+    r.fulfill({ status: 503, json: { message: "offline" } }),
+  );
+  await page.getByRole("button", { name: "Bestenliste aktualisieren" }).click();
+  await expect(
+    page.getByRole("status").filter({ hasText: "Ergebnisse konnten nicht" }),
+  ).toBeVisible();
+  await page
+    .getByRole("button", { name: "Meine Ergebnisse", exact: true })
+    .click();
+  await expect(
+    page.getByText("Platz 1 · 790 Punkte", { exact: true }),
+  ).toBeVisible();
+});
 test("Bestätigungsansicht erklärt die Aktivierung und verbraucht den Link erst nach ausdrücklichem Klick", async ({
   page,
 }) => {
@@ -384,6 +599,7 @@ test("Zwei Konten und Gast bleiben getrennt; Kontofortschritt wird automatisch g
   await expect(
     page.getByRole("button", { name: "Online sichern", exact: true }),
   ).toHaveCount(0);
+  await page.getByText("Konto & Speicherung", { exact: true }).click();
   await page
     .getByText("Vorhandenen Gastspielstand übernehmen", { exact: true })
     .click();
@@ -404,6 +620,7 @@ test("Zwei Konten und Gast bleiben getrennt; Kontofortschritt wird automatisch g
   await expect(
     page.getByText("Angemeldet als", { exact: false }),
   ).toContainText("Bob");
+  await page.getByText("Konto & Speicherung", { exact: true }).click();
   await page.getByRole("button", { name: "Abmelden", exact: true }).click();
   await expect(page.getByRole("button", { name: "Fortsetzen" })).toBeVisible();
 });

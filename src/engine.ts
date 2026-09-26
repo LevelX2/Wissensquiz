@@ -9,6 +9,7 @@ import type {
 } from "./model";
 import { uid } from "./model";
 import { canonicalFilters, matchesFilters } from "./filters";
+import { pathQuestions } from "./learningPath";
 export const DAY = 86_400_000;
 export const RULES = {
   version: "1",
@@ -210,7 +211,7 @@ export function startRound(
     throw new Error(
       "Es läuft bereits eine Runde. Setze sie fort oder beende sie.",
     );
-  const questions = selectQuestions(state.questions, state.learning, {
+  const questions = selectQuestions(pathQuestions(state), state.learning, {
     ...options,
     size: state.rounds.some((r) => r.status === "completed") ? 10 : 5,
     now,

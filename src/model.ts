@@ -130,6 +130,7 @@ export interface State {
     haptics?: boolean;
     showGenre?: boolean;
     showDifficulty?: boolean;
+    learningPath?: boolean;
   };
   experience: number;
   records: Record<string, { points: number; roundId: string }>;

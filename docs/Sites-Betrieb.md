@@ -19,7 +19,7 @@ Seit Version 3 enthält die Live-Site zusätzlich das Horror-Paket. Es ergänzt 
 
 ### Veröffentlichung ohne lokalen Sites-Helfer
 
-Für Version 6 war der gebündelte Helfer zwischenzeitlich verfügbar. Bei der Kontenaktivierung und der aktuellen Fortsetzung ist er erneut nicht installiert; die nativen Sites-Werkzeuge stehen bereit. Deshalb wird der folgende dokumentierte Ersatzablauf verwendet.
+Für Version 6 war der gebündelte Helfer zwischenzeitlich verfügbar. Bei der Kontenaktivierung und automatischen Kontosicherung war er erneut nicht installiert; dafür wurde der folgende Ersatzablauf verwendet. Bei der Profil-/Bestenlisten-Erweiterung ist der Sites-Skill mit Workflow wieder verfügbar; hierfür gilt wieder der reguläre Ablauf oben.
 
 Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflow.mjs` nicht mehr installiert, die nativen Sites-Werkzeuge jedoch verfügbar. Die Aktualisierung erfolgte anhand ihrer aktuellen Schnittstellen: geprüften Quellstand lokal committen, kurzlebige Schreibberechtigung anfordern, genau den Commit über die zurückgegebene Git-URL auf deren Quellbranch übertragen, aus diesem sauberen Stand bauen, `.openai/hosting.json` und `dist/` als TAR paketieren und gemeinsam als private Version speichern/veröffentlichen. Authentifizierung nur im Sitzungsspeicher und in der Umgebung des Git-Unterprozesses über `http.extraHeader`; kein Token in Datei, URL oder Kommandoargument, kein dauerhafter Git-Remote. Windows-TAR mit relativem Archivpfad verwendet. Keine automatische Veröffentlichung beim Push angefordert.
 

@@ -1,5 +1,6 @@
 import {
   useCallback,
+  useMemo,
   useEffect,
   useRef,
   useState,
@@ -7,6 +8,7 @@ import {
 } from "react";
 import type { SupabaseClient } from "@supabase/supabase-js";
 import { App } from "./App";
+import { RankingContext } from "./SharedLeaderboard";
 import { AccountSync, fingerprint, type SyncStatus } from "./accountSync";
 import {
   cloudRead,
@@ -46,6 +48,7 @@ export function AccountGame({
     status: SyncStatus,
   ) => ReactNode;
 }) {
+  const ranking = useMemo(() => ({ client, owner }), [client, owner]);
   const [status, setStatus] = useState<SyncStatus>("loading");
   const [ready, setReady] = useState(false);
   const [error, setError] = useState("");
@@ -216,7 +219,7 @@ export function AccountGame({
       </main>
     );
   return (
-    <>
+    <RankingContext.Provider value={ranking}>
       <p className="sync-status" role="status">
         {syncText[status]}
       </p>
@@ -227,6 +230,6 @@ export function AccountGame({
         onPersistedState={offer}
         accountPanel={(state, onState) => panel(state, onState, status)}
       />
-    </>
+    </RankingContext.Provider>
   );
 }

@@ -7,7 +7,13 @@ test("Ein vorbereitetes Update unterbricht keine laufende Runde", async ({
   page,
 }) => {
   await page.goto("/");
-  await expect(page.getByText("Paket bereit", { exact: false })).toBeVisible();
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(
+    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
+      exact: false,
+    }),
+  ).toBeVisible({ timeout: 20000 });
+  await page.getByRole("button", { name: "Spielen", exact: true }).click();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".answer").first()).toBeEnabled();
   const question = await page.locator(".question-card h1").innerText();

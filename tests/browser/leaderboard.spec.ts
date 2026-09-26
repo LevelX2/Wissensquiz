@@ -81,9 +81,13 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
   }
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
-  await expect(page.getByText("Paket bereit", { exact: false })).toBeVisible({
-    timeout: 20000,
-  });
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(
+    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
+      exact: false,
+    }),
+  ).toBeVisible({ timeout: 20000 });
+  await page.getByRole("button", { name: "Spielen", exact: true }).click();
   await page.evaluate(async (state) => {
     await new Promise<void>((resolve, reject) => {
       const req = indexedDB.open("wissensquiz");

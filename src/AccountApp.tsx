@@ -2,6 +2,9 @@ import { useEffect, useRef, useState } from "react";
 import type { SupabaseClient, User, Session } from "@supabase/supabase-js";
 import { App } from "./App";
 import { PasswordField } from "./PasswordField";
+import { ProfileStats } from "./ProfileStats";
+import { Leaderboard } from "./RecordLeaderboard";
+import { SharingPreference } from "./SharedLeaderboard";
 import { AccountGame, syncText } from "./AccountGame";
 import type { SyncStatus } from "./accountSync";
 import {
@@ -581,78 +584,66 @@ function AccountPanel({
         <strong>{String(user.user_metadata.display_name ?? "Spieler")}</strong>{" "}
         · {user.email}
       </p>
-      <p>
-        Deine E-Mail-Adresse ist bestätigt. Der Spielstand dieses Kontos ist vom
-        Gastspielstand getrennt.
-      </p>
-      <p role="status">{message}</p>
-      <button
-        className="secondary"
-        disabled={busy}
-        onClick={() =>
-          void run(async () => {
-            const { error } = await client.auth.signOut({ scope: "local" });
-            if (error) throw new Error(authError(error));
-          })
-        }
-      >
-        Abmelden
-      </button>
-      <h2>Dein Fortschritt ist mit Deinem Konto verbunden</h2>
-      <p>
-        Dein Spielstand wird automatisch online gespeichert. Melde Dich auf
-        einem anderen Gerät mit demselben Quiz-Konto an, um dort
-        weiterzuspielen.
-      </p>
-      <p>{syncStatus && syncText[syncStatus]}</p>
-      <p>
-        Ohne Verbindung bleiben neue Antworten auf diesem Gerät erhalten und
-        werden bei wiederhergestellter Verbindung automatisch übertragen. Warte
-        vor dem Gerätewechsel auf „Spielstand online gespeichert“.
-      </p>
-      <details>
-        <summary>Vorhandenen Gastspielstand übernehmen</summary>
-        <h2>Bisherigen Gastspielstand übernehmen</h2>
-        <p>
-          Damit startest Du in Deinem Konto mit dem Fortschritt, den Du auf
-          diesem Gerät bisher als Gast erspielt hast. Der Gastspielstand bleibt
-          erhalten; der lokale Kontospielstand wird ersetzt. Sichere ihn vorher
-          als JSON. Der übernommene Stand wird anschließend automatisch online
-          gespeichert.
-        </p>
-        <label className="filter-choice">
-          <input
-            type="checkbox"
-            checked={guestAccept}
-            onChange={(e) => setGuestAccept(e.target.checked)}
-          />
-          Meinen lokalen Kontospielstand durch den Gastspielstand ersetzen
-        </label>
+      <p className="tiny muted">{syncStatus && syncText[syncStatus]}</p>
+      <ProfileStats state={state} />
+      <Leaderboard state={state} />
+      <SharingPreference saved={syncStatus === "saved"} />
+      <details className="account-help">
+        <summary>Konto & Speicherung</summary>
+        <p role="status">{message}</p>
         <button
           className="secondary"
-          disabled={busy || !guestAccept}
+          disabled={busy}
           onClick={() =>
             void run(async () => {
-              const guest = await read();
-              if (!guest) throw new Error("Kein Gastspielstand vorhanden.");
-              onState(await replaceAccountState(storageKey, guest));
-              setGuestAccept(false);
-              setMessage(
-                "Gastspielstand kopiert. Er wird automatisch online gespeichert.",
-              );
+              const { error } = await client.auth.signOut({ scope: "local" });
+              if (error) throw new Error(authError(error));
             })
           }
         >
-          Gastspielstand kopieren
+          Abmelden
         </button>
+        <p>
+          Dein Fortschritt wird automatisch gespeichert. Warte vor dem
+          Gerätewechsel auf „Spielstand online gespeichert“.
+        </p>
+        <details>
+          <summary>Vorhandenen Gastspielstand übernehmen</summary>
+          <h2>Bisherigen Gastspielstand übernehmen</h2>
+          <p>
+            Damit startest Du in Deinem Konto mit dem Fortschritt, den Du auf
+            diesem Gerät bisher als Gast erspielt hast. Der Gastspielstand
+            bleibt erhalten; der lokale Kontospielstand wird ersetzt. Sichere
+            ihn vorher als JSON. Der übernommene Stand wird anschließend
+            automatisch online gespeichert.
+          </p>
+          <label className="filter-choice">
+            <input
+              type="checkbox"
+              checked={guestAccept}
+              onChange={(e) => setGuestAccept(e.target.checked)}
+            />
+            Meinen lokalen Kontospielstand durch den Gastspielstand ersetzen
+          </label>
+          <button
+            className="secondary"
+            disabled={busy || !guestAccept}
+            onClick={() =>
+              void run(async () => {
+                const guest = await read();
+                if (!guest) throw new Error("Kein Gastspielstand vorhanden.");
+                onState(await replaceAccountState(storageKey, guest));
+                setGuestAccept(false);
+                setMessage(
+                  "Gastspielstand kopiert. Er wird automatisch online gespeichert.",
+                );
+              })
+            }
+          >
+            Gastspielstand kopieren
+          </button>
+        </details>
       </details>
-      <h2>Deine persönliche Bestenliste</h2>
-      <p>
-        Die Bestenliste zeigt bisher nur Deine eigenen Rekordrunden aus dem
-        aktuellen Spielstand. Sie werden mit Deinem Spielstand gesichert. Eine
-        gemeinsame Rangliste mit den Spielernamen anderer Personen gibt es noch
-        nicht. Dein Online-Spielstand ist privat.
-      </p>
     </section>
   );
 }

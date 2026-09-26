@@ -33,6 +33,50 @@ async function answerCurrent(page: Page, correct = true) {
   return q;
 }
 
+test("Lernpfad bleibt optional und gespeichert; helle kompakte Fragen behalten Erklärungen und Optionen", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
+  await page.setViewportSize({ width: 390, height: 844 });
+  await launch(page);
+  await expect(
+    page.getByRole("button", { name: "Ton an", exact: true }),
+  ).toHaveCount(0);
+  await page.getByLabel("Optionalen Lernpfad nutzen").click();
+  await expect(page.getByLabel("Optionalen Lernpfad nutzen")).toBeChecked();
+  await expect(
+    page.getByText("Mittel gesperrt · 0 / 20 leichte Ziele", { exact: true }),
+  ).toHaveCount(6);
+  await page.reload();
+  await expect(page.getByLabel("Optionalen Lernpfad nutzen")).toBeChecked();
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(page.locator(".question-difficulty")).toHaveText(
+    "Schwierigkeit: Leicht",
+  );
+  await expect(page.locator(".answer")).toHaveCount(4);
+  await expect(page.locator("footer")).not.toBeVisible();
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page.screenshot({ path: "test-results/spiel-kompakt-390.png" });
+  await answerCurrent(page);
+  await expect(page.locator(".explanation")).toBeVisible();
+  await expect(
+    page.getByText("Etwas tiefer eintauchen", { exact: true }),
+  ).toBeVisible();
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByLabel("Optionalen Lernpfad nutzen").click();
+  await expect(
+    page.getByText(
+      "Freies Spiel: Alle Schwierigkeitsstufen stehen Dir zur Wahl.",
+    ),
+  ).toBeVisible();
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(page.getByLabel("Soundeffekte", { exact: true })).toBeVisible();
+});
+
 test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalten", async ({
   page,
 }) => {
@@ -225,15 +269,21 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
     page.getByLabel("Soundeffekte", { exact: true }),
   ).not.toBeChecked();
   await page.reload();
+  await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByRole("button", { name: "Ton aus", exact: true }),
-  ).toBeVisible();
+    page.getByLabel("Soundeffekte", { exact: true }),
+  ).not.toBeChecked();
+  await page.getByRole("button", { name: "Spielen", exact: true }).click();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await answerCurrent(page);
   expect((await counters()).tones).toBe(0);
   expect((await counters()).vibrations).toContainEqual([20, 40, 25]);
-  await page.getByRole("button", { name: "Ton aus", exact: true }).click();
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await page.getByLabel("Soundeffekte", { exact: true }).click();
   await expect.poll(async () => (await counters()).tones).toBeGreaterThan(0);
+  await page.getByRole("button", { name: "Spielen", exact: true }).click();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
   await page.getByRole("button", { name: "Nächste Frage" }).click();
   const before = (await counters()).tones;
   await answerCurrent(page, false);
@@ -525,9 +575,13 @@ for (const offlinePackage of [
     context,
   }) => {
     await launch(page);
-    await expect(page.getByText("Paket bereit", { exact: false })).toBeVisible({
-      timeout: 20000,
-    });
+    await page.getByRole("button", { name: "Optionen" }).click();
+    await expect(
+      page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
+        exact: false,
+      }),
+    ).toBeVisible({ timeout: 20000 });
+    await page.getByRole("button", { name: "Spielen", exact: true }).click();
     const genreChoices = page.getByRole("group", {
       name: "Filmgenres",
       exact: true,

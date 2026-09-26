@@ -8,14 +8,17 @@ import {
 } from "./leaderboard";
 import { roundDifficulties } from "./filters";
 import type { State } from "./model";
+import { SharedLeaderboard } from "./SharedLeaderboard";
+import { PlayerLeaderboard } from "./PlayerLeaderboard";
 
 export function Leaderboard({
   state,
   onReview,
 }: {
   state: State;
-  onReview: (roundId: string) => void;
+  onReview?: (roundId: string) => void;
 }) {
+  const [scope, setScope] = useState<"mine" | "all" | "players">("mine");
   const [genre, setGenre] = useState("");
   const [level, setLevel] = useState("");
   const [size, setSize] = useState("");
@@ -38,116 +41,154 @@ export function Leaderboard({
   return (
     <section className="leaderboard" aria-labelledby="leaderboard-title">
       <h2 id="leaderboard-title">Bestenliste der Rekordrunden</h2>
-      <p className="muted">
-        Deine abgeschlossenen Spiele auf diesem Gerät. Jede Genre- und
-        Stufenkombination, Film-Auswahl und Rundengröße hat eine eigene
-        Rangliste. Gleiche Punkte teilen sich einen Platz.
-      </p>
-      {groups.length === 0 ? (
-        <p>
-          Noch keine Rekordrunde abgeschlossen. Nach Deinem ersten Abschluss
-          erscheint hier Dein Ergebnis.
-        </p>
+      <div
+        className="ranking-tabs"
+        role="group"
+        aria-label="Bestenlisten-Ansicht"
+      >
+        <button
+          className={scope === "mine" ? "primary" : "secondary"}
+          aria-pressed={scope === "mine"}
+          onClick={() => setScope("mine")}
+        >
+          Meine Ergebnisse
+        </button>
+        <button
+          className={scope === "all" ? "primary" : "secondary"}
+          aria-pressed={scope === "all"}
+          onClick={() => setScope("all")}
+        >
+          Alle Spieler
+        </button>
+      </div>
+      <button
+        className="text-button"
+        aria-pressed={scope === "players"}
+        onClick={() => setScope("players")}
+      >
+        Spielerranglisten ansehen
+      </button>
+      {scope === "players" ? (
+        <PlayerLeaderboard state={state} />
+      ) : scope === "all" ? (
+        <SharedLeaderboard />
       ) : (
         <>
-          <div className="leaderboard-filters">
-            <label>
-              Genre-Auswahl
-              <select
-                aria-label="Genre-Auswahl"
-                value={genre}
-                onChange={(e) => setGenre(e.target.value)}
-              >
-                <option value="">Alle Genre-Kombinationen</option>
-                {[...genres].map(([key, label]) => (
-                  <option key={key} value={key}>
-                    {label}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label>
-              Stufenauswahl
-              <select
-                aria-label="Stufenauswahl"
-                value={level}
-                onChange={(e) => setLevel(e.target.value)}
-              >
-                <option value="">Alle Stufenkombinationen</option>
-                {[...levels].map(([key, label]) => (
-                  <option key={key} value={key}>
-                    {label}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label>
-              Rundengröße
-              <select
-                aria-label="Rundengröße"
-                value={size}
-                onChange={(e) => setSize(e.target.value)}
-              >
-                <option value="">Alle Rundengrößen</option>
-                {[...new Set(groups.map((g) => g.round.questions.length))]
-                  .sort((a, b) => a - b)
-                  .map((n) => (
-                    <option key={n} value={n}>
-                      {n} Fragen
-                    </option>
-                  ))}
-              </select>
-            </label>
-          </div>
-          {!visible.length && (
-            <p role="status">
-              Keine abgeschlossenen Spiele für diese Filterkombination.
+          <p className="muted">
+            Deine abgeschlossenen Rekordrunden im aktuellen Spielstand. Jede
+            Genre- und Stufenkombination, Film-Auswahl und Rundengröße hat eine
+            eigene Rangliste. Gleiche Punkte teilen sich einen Platz.
+          </p>
+          {groups.length === 0 ? (
+            <p>
+              Noch keine Rekordrunde abgeschlossen. Nach Deinem ersten Abschluss
+              erscheint hier Dein Ergebnis.
             </p>
+          ) : (
+            <>
+              <div className="leaderboard-filters">
+                <label>
+                  Genre-Auswahl
+                  <select
+                    aria-label="Genre-Auswahl"
+                    value={genre}
+                    onChange={(e) => setGenre(e.target.value)}
+                  >
+                    <option value="">Alle Genre-Kombinationen</option>
+                    {[...genres].map(([key, label]) => (
+                      <option key={key} value={key}>
+                        {label}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+                <label>
+                  Stufenauswahl
+                  <select
+                    aria-label="Stufenauswahl"
+                    value={level}
+                    onChange={(e) => setLevel(e.target.value)}
+                  >
+                    <option value="">Alle Stufenkombinationen</option>
+                    {[...levels].map(([key, label]) => (
+                      <option key={key} value={key}>
+                        {label}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+                <label>
+                  Rundengröße
+                  <select
+                    aria-label="Rundengröße"
+                    value={size}
+                    onChange={(e) => setSize(e.target.value)}
+                  >
+                    <option value="">Alle Rundengrößen</option>
+                    {[...new Set(groups.map((g) => g.round.questions.length))]
+                      .sort((a, b) => a - b)
+                      .map((n) => (
+                        <option key={n} value={n}>
+                          {n} Fragen
+                        </option>
+                      ))}
+                  </select>
+                </label>
+              </div>
+              {!visible.length && (
+                <p role="status">
+                  Keine abgeschlossenen Spiele für diese Filterkombination.
+                </p>
+              )}
+              {visible.map((group) => (
+                <section
+                  className="leaderboard-category"
+                  key={group.key}
+                  aria-label={categoryLabel(group.round)}
+                >
+                  <h3>{categoryLabel(group.round)}</h3>
+                  <ol className="leaderboard-list">
+                    {group.entries.map((entry) => (
+                      <li key={entry.round.id} value={entry.rank}>
+                        <div className="leaderboard-entry">
+                          <strong>
+                            Platz {entry.rank} · {entry.points} Punkte
+                          </strong>
+                          <span>
+                            {entry.correct}/{entry.round.questions.length}{" "}
+                            richtig ·{" "}
+                            {(entry.elapsedMs / 1000).toLocaleString("de-DE", {
+                              maximumFractionDigits: 1,
+                            })}{" "}
+                            s Antwortzeit
+                          </span>
+                          <span className="muted">
+                            {new Date(
+                              entry.round.finishedAt ?? entry.round.startedAt,
+                            ).toLocaleString("de-DE")}
+                          </span>
+                          {onReview && (
+                            <button
+                              className="text-button"
+                              onClick={() => onReview(entry.round.id)}
+                            >
+                              Spiel ansehen →
+                            </button>
+                          )}
+                        </div>
+                      </li>
+                    ))}
+                  </ol>
+                </section>
+              ))}
+            </>
           )}
-          {visible.map((group) => (
-            <section
-              className="leaderboard-category"
-              key={group.key}
-              aria-label={categoryLabel(group.round)}
-            >
-              <h3>{categoryLabel(group.round)}</h3>
-              <ol className="leaderboard-list">
-                {group.entries.map((entry) => (
-                  <li key={entry.round.id} value={entry.rank}>
-                    <div className="leaderboard-entry">
-                      <strong>
-                        Platz {entry.rank} · {entry.points} Punkte
-                      </strong>
-                      <span>
-                        {entry.correct}/{entry.round.questions.length} richtig ·{" "}
-                        {(entry.elapsedMs / 1000).toLocaleString("de-DE", {
-                          maximumFractionDigits: 1,
-                        })}{" "}
-                        s Antwortzeit
-                      </span>
-                      <span className="muted">
-                        {new Date(
-                          entry.round.finishedAt ?? entry.round.startedAt,
-                        ).toLocaleString("de-DE")}
-                      </span>
-                      <button
-                        className="text-button"
-                        onClick={() => onReview(entry.round.id)}
-                      >
-                        Spiel ansehen →
-                      </button>
-                    </div>
-                  </li>
-                ))}
-              </ol>
-            </section>
-          ))}
+          <p className="tiny muted">
+            Deine Ergebnisse bleiben im Spielstand erhalten. Mit einem
+            Quiz-Konto werden sie automatisch gesichert.
+          </p>
         </>
       )}
-      <p className="tiny muted">
-        Die Liste bleibt lokal und ist in Deiner JSON-Sicherung enthalten. Eine
-        gemeinsame Bestenliste mit eigenen Konten ist noch nicht eingerichtet.
-      </p>
     </section>
   );
 }
