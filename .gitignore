@@ -13,3 +13,7 @@ dist/
 build/
 coverage/
 *.log
+test-results/
+playwright-report/
+*.tsbuildinfo
+.sites-runtime/

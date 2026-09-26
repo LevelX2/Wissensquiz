@@ -2,22 +2,29 @@
 
 ## Aktueller Stand
 
-- Projektgrundstruktur und lokale Wissensbasis angelegt.
+- Spielbare deutsche React-/TypeScript-Testversion mit Entdecken, Besser werden und Rekordrunde umgesetzt.
+- 180 gelieferte Fragen, 150 Wissensziele und 30 Varianten; 39 Themen. Sämtliche Datensätze strukturell akzeptiert.
+- Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
+- Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
 - Lokales Git ohne Remote; Integrationsbranch `main`.
-- Noch keine Anwendung, Abhängigkeiten oder Laufzeitdaten vorhanden.
+- Aktuelle Umsetzung auf Arbeitsbranch `codex/spielbare-testversion`; `main` enthält noch den initialen Projektstand.
 - Codex-Projektregistrierung noch offen; Ordner in der App hinzufügen.
 
 ## Offen
 
-- Zweck, Spielablauf, Zielgruppe und Fragenquellen konkretisieren.
-- Zielplattform, Technologie-Stack und daraus folgende Checks festlegen.
+- Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
+- HTTPS-Hosting für dauerhafte Smartphone-PWA und Offline-Installation; derzeit lokale HTTP-Vorschau.
+- Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
 
 ## Einstieg
 
 - [Wissensindex](02%20Wissen/00%20Uebersichten/Index.md)
+- [Startanleitung und Architektur](../README.md)
+- [Importvertrag](../docs/Importformat.md)
+- [Lern- und Speichervertrag](../docs/Lernregeln.md)
 - [Qualitätsprüfung](03%20Betrieb/Qualitaetspruefung.md)
 - [Log](03%20Betrieb/Log.md)
 
 ## Daten und Sicherung
 
-Derzeit existieren keine wertvollen unversionierten Nutzdaten. `AGENTS.local.md` enthält ausschließlich rekonstruierbare lokale Pfadauflösung. Lokales Git ist keine externe Datensicherung. Vor Aufnahme wertvoller Nutzdaten Backup-Ziel, Rhythmus, Aufbewahrung, Verifikation und Wiederherstellung festlegen.
+Spielstände liegen im Browser, nicht im Repository. JSON-Exporte über Einstellungen nach wichtigen Sitzungen und vor Browserbereinigung oder Adresswechsel erstellen, mindestens die letzten drei Sicherungen an einem sicheren persönlichen Ablageort erhalten. Validierter Wiederimport ersetzt nach Bestätigung den lokalen Stand. Browserneustart und Wiederherstellung wurden in getrennten Testprofilen geprüft. Keine Cloud-Sicherung. `AGENTS.local.md` enthält nur rekonstruierbare lokale Pfadauflösung; lokale Git-Historie ersetzt kein externes Backup.

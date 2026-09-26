@@ -3,3 +3,19 @@
 ## 2026-09-26 – Projektanlage
 
 Projekt Wissensquiz mit Projektanweisungen, lokaler Auflösung, Ausschlüssen und Wissensbasis vorbereitet. Git-Modell: lokal ohne Remote, Integrationsbranch `main`. Anforderungen und Technologie-Stack bleiben offen. Die Registrierung des vorhandenen Ordners in der Codex-App steht noch aus.
+
+## 2026-09-26 – Spielbare Testversion und Fragenpaket
+
+React-/TypeScript-App mit drei Spielmodi, Erklärungen, Lernheuristik pro Wissensziel, Expertenalbum, Erfahrung und lokalen Rekorden umgesetzt. IndexedDB-Transaktionen sichern Runden und eindeutige Lernereignisse; CSV-Import, validierte JSON-Sicherung und lokale Fragenmeldungen ergänzen den Testbetrieb.
+
+Die nachgelieferte CSV unverändert als Rohquelle abgelegt und vollständig strukturell ausgewertet: 180 akzeptierte Fragen, 150 Wissensziele, 30 Varianten, keine Ausschlüsse. Vorbereitete Demo-Fragen bleiben nur separates Formatbeispiel. Keine eigenen Ergänzungen der gelieferten Filmerklärungen.
+
+31 automatisierte Logik-/Persistenztests und 9 Browserprüfungen bestanden. Bei Offlineprüfung einen Cache-Mismatch durch `Vary: Origin` gefunden und für statische Same-Origin-Dateien behoben. Dokumentierte Verträge in `docs/`, Navigation aktualisiert. Lokale Vorschau verfügbar, HTTPS-Smartphone-Installation und unabhängige Faktenprüfung der Filmangaben noch offen. Keine Veröffentlichung und kein Remote eingerichtet.
+
+## 2026-09-26 – Sites als Hostingoption geprüft
+
+Auf Nutzerhinweis die vorhandenen Sites-Werkzeuge und offizielle Dokumentation geprüft. Sites unterstützt bestehende Webprojekte und statische Builds und eignet sich grundsätzlich für diese App. Die bisherige Beschränkung auf lokale Vorschau bedeutet nicht, dass kein Hostingweg verfügbar ist. README um diese Option, Zugriffsschutz sowie Grenzen bei PWA-Prüfung und gerätelokalem Fortschritt ergänzt. Noch keine Registrierung oder Veröffentlichung durchgeführt.
+
+## 2026-09-26 – Sites-Veröffentlichung beauftragt
+
+Nutzer beauftragt die Bereitstellung der ersten Testversion über Sites und eine Test-URL. Private Site einmalig registriert und Projekt-ID in `.openai/hosting.json` gespeichert. Vorhandene React-App bleibt erhalten; veröffentlicht wird `dist/` ohne Backend oder Übertragung lokaler Spielstände. Der erfolgreiche Live-Stand wird nach Abschluss separat dokumentiert. Keine Erweiterung des Zugriffskreises beauftragt.

@@ -6,4 +6,11 @@
 - [Log](../../03%20Betrieb/Log.md)
 - [Qualitätsprüfung](../../03%20Betrieb/Qualitaetspruefung.md)
 
-Fachkonzept und technische Architektur sind noch nicht festgelegt.
+## Spielbare Testversion
+
+- [Starten, Funktionen und Projektaufbau](../../../README.md)
+- [CSV-Import, vollständige Feldzuordnung und Inhaltsgrenzen](../../../docs/Importformat.md)
+- [Lernregeln, Auswahl, Punkte, Speicher- und Offlinevertrag](../../../docs/Lernregeln.md)
+- [Tatsächliche Prüfungen und bekannte Grenzen](../../../docs/Pruefbericht.md)
+- [Maschineller Importbericht](../../../docs/importbericht.json)
+- [Unveränderte gelieferte Rohquelle](../../01%20Rohquellen/SciFi_Quiz_180_Fragen.csv)

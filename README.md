@@ -1,11 +1,87 @@
-# Wissensquiz
+# Wissensquiz · Dein Filmkosmos
 
-Vorbereiteter Projektarbeitsbereich für ein Wissensquiz.
+Spielbare deutsche React-/TypeScript-App für kurze Filmquizrunden mit dauerhaftem Lernfortschritt im Browser. Kein Konto, Backend oder KI-Dienst erforderlich.
 
-Anforderungen, Zielplattform und Technologie-Stack sind noch offen. Es wurde noch keine Anwendung implementiert.
+## Starten
 
-- [Projektstart](KI-Wissen-Wissensquiz/00%20Projektstart.md)
-- [Wissensindex](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md)
-- [Projektanweisungen](AGENTS.md)
+Voraussetzung: Node.js 22.12+ (geprüft mit 24.19), npm. In PowerShell:
 
-Git: lokal ohne Remote; Integrationsbranch `main`, Arbeitsbranches unter `codex/`.
+```powershell
+Set-Location C:\Projekte\Wissensquiz
+npm ci
+npm run build
+npm run preview
+```
+
+- Rechner: **http://localhost:4173**
+- Smartphone im selben Heimnetz: **http://192.168.178.141:4173** (am 26.09.2026 ermittelte Rechneradresse; sie kann sich ändern).
+- Rechner und Vorschauprozess müssen laufen. Die Windows-Firewall muss den Netzwerkzugriff erlauben; ihre Einstellungen wurden nicht verändert.
+- Entwicklung mit Hot Reload: `npm run dev`, Port 5173. Offlinebetrieb ist für den Produktions-Build vorgesehen.
+- **Immer dieselbe Adresse verwenden:** Browserdaten sind an Gerät, Browser, Protokoll, Host und Port gebunden. `localhost`, Heimnetz-IP und eine spätere HTTPS-Adresse haben getrennte Speicher. Zum Wechsel JSON exportieren und wieder importieren.
+
+## Spielen
+
+- Erste Runde standardmäßig fünf, weitere zehn unterschiedliche Wissensziele; kleinere Bestände verkürzen die Runde transparent.
+- **Entdecken:** neue/wenig bekannte Ziele, fällige Wiederholungen und sichere Inhalte.
+- **Besser werden:** fällige Ziele stärker gewichtet, ohne Zeitdruck.
+- **Rekordrunde:** 30 Sekunden pro Frage; 100 Punkte für richtig plus 2 je vollständig verbleibender Sekunde. 25 volle Sekunden = 150 Punkte. Lokale Rekorde getrennt nach Thema, Schwierigkeit, tatsächlicher Rundengröße und Regelversion.
+- Nach jeder Antwort Erklärung, optional Vertiefung, spezifisches Fehlerfeedback, Merksatz und Quellen. „War geraten“ verändert nur das Lernen, keine Punkte. Bewusster Wechsel zur nächsten Frage.
+- Sammlung mit exklusiven Statuszahlen, maximal drei Lieblingsthemen, begrenztem Fachabzeichen und Rundenrückblick. Erfahrung: 10 XP je abgeschlossener Runde, Level 1 + ganze 100 XP.
+- Meldungen werden nur lokal gespeichert und können exportiert werden.
+
+## Enthaltene Fragen
+
+Die gelieferte **SciFi_Quiz_180_Fragen.csv** ist das Standardpaket: **180 Fragen, 150 Wissensziele, 30 Varianten, 39 Themen**. **180 akzeptiert, 0 ausgeschlossen, 0 doppelte IDs.** Alle Erklärungen und Quellenangaben stammen aus dieser CSV. Die Originaldatei liegt unverändert unter `KI-Wissen-Wissensquiz/01 Rohquellen/`; das ausgelieferte Paket unter `public/fragen.csv` ist bytegleich.
+
+`verification_status=redaktionell_geprueft` ist eine Angabe der gelieferten Datei. Eine unabhängige Prüfung aller Filmaussagen oder verlinkten Seiten wurde nicht durchgeführt. Keine Vertiefungen oder Fehlererklärungen wurden ergänzt.
+
+Die separat herunterladbare `public/demo-fragen.csv` enthält zwölf selbst verfasste und gekennzeichnete Demo-Fragen als Formatbeispiel. **Diese sind im Standardbestand nicht aktiviert.** Bei manuellem Import bleibt ihre Demo-Kennzeichnung erhalten.
+
+Details: [Importformat und Feldzuordnung](docs/Importformat.md), [maschineller Importbericht](docs/importbericht.json).
+
+## Weitere CSV-Dateien
+
+Unter **Einstellungen & Daten → Fragen hinzufügen** Datei auswählen, Vorschau prüfen und gültige Fragen übernehmen. UTF-8/BOM, Komma, Semikolon, Tabulator und Pipe werden erkannt; gequotete Trennzeichen, doppelte Anführungszeichen und mehrzeilige Felder unterstützt.
+
+Pflichtspalten: `question_id, question, answer_a, answer_b, answer_c, answer_d, correct_answer, explanation_short`. `correct_answer` akzeptiert A–D, `answer_a`–`answer_d` oder den exakten eindeutigen Antworttext. `knowledge_id` und `variant_of` werden ausgewertet; ohne belastbare Zuordnung entstehen stabile Ziele `question:<question_id>`.
+
+Vorhandene Fragen-IDs werden mit Bericht übersprungen, niemals automatisch überschrieben. Eine Inhaltserneuerung mit derselben ID ist in Version 1 bewusst kein Importmodus. Sicherheitskopie und gezielte Migration sind dafür erforderlich.
+
+## Lernen, Speicherung und Offline
+
+Sichere fällige Antworten erhöhen die Lernstufe höchstens einmal pro lokalem Kalendertag. Abstände: **1, 3, 7, 21 Tage**. „Gefestigt“ erfordert mindestens vier sichere Lerntage und eine sichere Wiederholung nach mindestens sieben Tagen seit der letzten Antwort auf dieses Wissensziel, einschließlich früher Zwischenantworten. Falsch: Wiederholung nach zehn Minuten. Geraten: sechs Stunden. Beides setzt die aktuelle Stufe auf „entdeckt“ zurück; erworbene Abzeichen bleiben erhalten. Details: [Lern- und Speichervertrag](docs/Lernregeln.md).
+
+IndexedDB speichert Fragen, Inhaltsversionen, Rundensnapshots, eindeutige Antwort-/Lernereignisse, Fortschritt, Termine, XP, Rekorde, Abzeichen, Favoriten, Einstellungen und Meldungen atomar. Schreibfehler werden angezeigt. **Regelmäßig JSON exportieren**, besonders vor Browserbereinigung oder einem Adresswechsel. Der validierte Wiederimport ersetzt erst nach ausdrücklicher Bestätigung den Stand; Zurücksetzen erfordert `LÖSCHEN`.
+
+Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach bestätigtem Paketdownload sind Oberfläche, Fragen und Erklärungen offline verfügbar. Updates warten auf das Schließen aller alten App-Fenster. Aktive Rekordrunden werden nach Neuladen/Browserneustart als abgebrochen behandelt; unbeantwortete Fragen erhalten keine neue Zeit. Entspannte Runden sind fortsetzbar.
+
+**PWA/Offline auf Smartphones benötigt HTTPS.** Die HTTP-Heimnetzvorschau unterstützt Spielen und Fortschritt, aber keine Service-Worker-Installation. Auf `localhost` ist Offlinebetrieb getestet. Für eine dauerhafte Smartphone-Installation `dist/` auf einem HTTPS-Host bereitstellen. Es wurde kein öffentlicher Host eingerichtet oder externer Inhalt veröffentlicht. Externe Quellenlinks benötigen weiterhin Netz.
+
+**Sites:** Die App ist über `.openai/hosting.json` mit der privaten Site „Wissensquiz – Dein Filmkosmos“ verknüpft. Veröffentlicht wird der statische Produktions-Build aus `dist/`; keine Nutzerspielstände werden übertragen. Die tatsächliche Live-URL wird erst nach erfolgreicher Veröffentlichung ausgegeben. PWA-Installation und Service-Worker-Verhalten müssen unter der veröffentlichten Adresse noch geprüft werden. Hosting allein ergänzt keine geräteübergreifende Synchronisierung; vorhandene lokale Spielstände werden beim Adresswechsel per JSON übertragen. [Offizielle Sites-Dokumentation](https://learn.chatgpt.com/docs/sites).
+
+## Projektaufbau
+
+| Ort | Aufgabe |
+| --- | --- |
+| `src/model.ts` | Datenmodell und Fragenvalidierung |
+| `src/importer.ts` | CSV, ID-/Variantenauflösung, Importbericht |
+| `src/engine.ts` | Auswahl, Lernregeln, Punkte und idempotente Rundenaktionen |
+| `src/storage.ts` | IndexedDB-Transaktionen, Sicherungsvalidierung, Export/Import |
+| `src/App.tsx`, `src/style.css` | Oberfläche und responsive Gestaltung |
+| `src/offline.ts`, `scripts/build-sw.mjs` | Paketstatus und sicher wartende App-Updates |
+| `public/fragen.csv` | Geliefertes Standardpaket |
+| `tests/` | Logik-, Persistenz- und Browserprüfungen |
+
+## Prüfen
+
+```powershell
+npm test
+npm run build
+npx playwright install chromium
+npm run test:browser
+npm audit
+```
+
+Tests verwenden isolierte Browserprofile und kontrollierte Testzeiten. Produktive Nutzerstände werden nicht verwendet. Tatsächliche Ergebnisse und Grenzen: [Prüfbericht](docs/Pruefbericht.md).
+
+Git: lokal ohne Remote, Integrationsbranch `main`, Umsetzung auf `codex/spielbare-testversion`. [Projektwissen](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md).

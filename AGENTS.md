@@ -20,11 +20,16 @@
 
 ## Git, Checks und Sicherheit
 
-- Git-Modell: lokales Git ohne Remote. Integrationsbranch: `main`.
+- Git-Modell: lokales Git ohne dauerhaft konfigurierten Remote; Sites-Quellveröffentlichung nach ausdrücklichem Hostingauftrag. Integrationsbranch: `main`.
 - Vor Arbeitsänderungen auf `main` einen passenden `codex/`-Arbeitsbranch anlegen. Die initiale Projektanlage erfolgt auf `codex/projektanlage`; `main` erhält denselben Initialstand.
 - Remote, Push, PR und Veröffentlichung nur nach ausdrücklichem Auftrag.
+- Sites ist über `.openai/hosting.json` verknüpft; bestehende Projekt-ID erhalten. Der Nutzer hat die private Sites-Veröffentlichung beauftragt. Veröffentlichungen und spätere Site-Änderungen nach `sites-hosting` ausführen; Zugriff nicht ohne Auftrag erweitern. Lokale Spielstände bleiben im Browser und werden nicht hochgeladen.
 - Keine Secrets, privaten Pfade, lokalen Nutzdaten oder reproduzierbaren Build-Artefakte versionieren.
-- Noch kein Technologie-Stack und keine Build- oder Testbefehle festgelegt. Bis zur Implementierung Struktur, relative Verweise, Ausschlüsse und `git diff --check` prüfen. Weitere Checks mit der Implementierung dokumentieren.
+- Stack: React/TypeScript, Vite, IndexedDB, statische PWA. Kein verpflichtendes Backend.
+- Fachverträge: `docs/Importformat.md` und `docs/Lernregeln.md`; Prüfnachweis: `docs/Pruefbericht.md`.
+- Checks: `npm test`, `npm run build`, für Oberfläche/Persistenz/Offline `npm run test:browser`; ergänzend `git diff --check` und bei Abhängigkeitsänderungen `npm audit`.
+- Tests nur mit isolierten Browserprofilen und kontrollierter Testzeit durchführen. Echte Nutzerdaten nicht für Testfortschritte verändern.
+- Roh-CSV unverändert erhalten. Bestehende Frage-IDs nicht still überschreiben; Varianten teilen Wissensziel-IDs. Lernpunkte und Rekordzeit getrennt behandeln.
 
 ## Abschlusskommandos
 
