@@ -62,3 +62,9 @@ Anschließend privat als Version 6 veröffentlicht: Quellcommit `44f6a2882948e5e
 - 51 Logik-/Speicherprüfungen, Build und 20 lokale Chromium-Prüfungen erfolgreich, mobile Bestenliste visuell geprüft. Geräte-/private Live-PWA-Grenzen bestehen fort. Veröffentlichung im bestehenden privaten Sites-Projekt folgt nach finaler Quellprüfung.
 
 - Veröffentlichung desselben geprüften App-Stands `b043771740024602b28afb1180868732893cfcc8` erfolgreich: Deployment `appgdep_6ab7b95a04c48191a694ebfc92e40514`, Status `succeeded`, bestehende private URL erhalten. Native Browserübergabe ausgeführt; keine weitere Live-Geräteprüfung. Lokaler Arbeitsbranch bleibt `codex/spielbare-testversion`, keine Main-Integration oder GitHub-Verknüpfung.
+
+## 26.09.2026 – Eigene Konten zur Einrichtung vorbereitet
+
+Auf Auftrag eigene Anmeldung unabhängig von ChatGPT mit Spielername, E-Mail/Passwort, Verifikation und Reset umgesetzt. Nutzer hat noch keinen Kontodienst und wünscht Vorbereitung. Supabase-Anbindung, SQL-Migration mit Eigentümer-/Bestätigungsprüfung und RLS, Mailvorlagen und Schrittfolge ergänzt. Konten bleiben per Konfiguration deaktiviert; keine echten Konten oder Mails, keine Spielstände hochgeladen. Gastdaten unverändert, Kontostände je Projekt/Benutzer getrennt. Online-Sicherung und Laden ausdrücklich manuell mit Revisionsschutz, keine automatische Zusammenführung. Gemeinsame geprüfte Bestenliste bleibt Folgearbeit.
+
+57 Logik-/Persistenz-/SQL-Tests, Produktions-Build und 25 unterschiedliche Browserprüfungen erfolgreich; Audit 0. Datenbanktest in Postgres/WASM mit Auth-Nachbildung, Browser mit simuliertem Kontodienst; keine echte Provider-/Mailabnahme. Echte Einrichtung sowie späterer unabhängiger Besucherzugang noch offen. Anleitung unter docs/Konten-Einrichtung.md. Bestehende private Sites-Freigabe erhalten.

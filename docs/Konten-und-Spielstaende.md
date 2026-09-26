@@ -1,27 +1,29 @@
-# Konten und gemeinsame Spielstände – Entwurf
+# Konten und gemeinsame Spielstände
 
-## Ausgangspunkt und Nutzerwunsch
+## Aktueller Stand
 
-Am 26.09.2026 geräteübergreifende Spielstände, Konten und eine gemeinsame Bestenliste als gewünschte Weiterentwicklung besprochen. Aktuell speichert die App ausschließlich lokal in IndexedDB. Die native Sites-Datenbankübersicht meldet für das vorhandene Projekt keine Datenbankbindung und keine Tabellen. Die Sites-Zugriffskontrolle erlaubt Besuchern den Zutritt, synchronisiert aber keine Spielstände.
+Der Nutzer hat eine eigene Anmeldung unabhängig von ChatGPT mit Spielername, E-Mail, Passwort, E-Mail-Bestätigung und Passwort-Reset beauftragt. Da noch kein Kontodienst vorhanden ist, wurde am 26.09.2026 die Supabase-Anbindung zur Einrichtung vorbereitet. Sie ist standardmäßig deaktiviert. Es existieren noch keine echten Quiz-Konten, keine Online-Spielstände und kein eingerichteter Mailversand.
 
-## Technisch mögliche Richtung
+Die React-App enthält Registrierung, Anmeldung, erneute Bestätigung, Reset und Abmeldung. Die E-Mail-Adresse dient zur Anmeldung, der frei gewählte Name zur Anzeige. Supabase Auth verwaltet Passwörter und Sitzungen. Die SQL-Migration schützt private Spielstände mit serverseitiger Benutzerprüfung und Row Level Security. Ein unbestätigtes oder fremdes Konto erhält keinen Zugriff.
 
-[Offizielle Sites-Dokumentation](https://learn.chatgpt.com/docs/sites) beschreibt D1 als relationale Datenbank für Spielstände und Scores sowie serverseitig bereitgestellte Identität bei Anmeldung mit ChatGPT. Für das bestehende Projekt wären ein Serverteil und eine D1-Bindung zusätzlich zur React-Oberfläche nötig. Die vorhandene Sites-Projekt-ID und der private Zugriff sollen erhalten bleiben.
+Konkrete Anleitung einschließlich SQL-Migration, Mailvorlagen, Aktivierung und noch erforderlicher echter Dienstprüfungen: [Konten einrichten](Konten-Einrichtung.md).
 
-Vorgeschlagener Aufbau, noch nicht implementiert:
+## Spielstände und Gerätewechsel
 
-- Spielerprofil mit interner ID und frei gewähltem Anzeigenamen; E-Mail-Adressen nicht in der Bestenliste anzeigen.
-- Private Lernereignisse und Rundensnapshots pro Spieler, mit eindeutigen Ereignis-IDs für wiederholbare Synchronisierung ohne Doppelzählung.
-- IndexedDB als Offline-Speicher. Mehrere Geräte zusammenführen, ohne einen vollständigen fremden oder neueren Stand blind zu überschreiben. Lernfortschritt aus den zusammengeführten Ereignissen ableiten.
-- Bestehenden lokalen Fortschritt erst auf ausdrücklichen Wunsch einem angemeldeten Konto zuordnen; vorher JSON-Sicherung ermöglichen. Gastdaten und Daten verschiedener angemeldeter Spieler getrennt halten.
-- Für die gemeinsame Bestenliste neue Online-Rekordrunden serverseitig starten, Fragen und Zeiten zuordnen und Punkte serverseitig prüfen. Heutige lokale oder offline erspielte Rekorde bleiben persönliche Trainingsrekorde.
-- Bestenlisten nach Genres, Schwierigkeitskombination, Rundengröße und Regelversion trennen. Teilnahme und Anzeigename bewusst wählen lassen.
-- Authentifizierung und Zugriffsprüfung auf dem Server; ein Spieler darf nur seine privaten Fortschritte lesen oder ändern. Abmelden entfernt private lokale Kontodaten aus der aktiven Ansicht. Kontodaten exportieren und löschen können.
+- Der bisherige Gaststand bleibt unter seinem unveränderten IndexedDB-Schlüssel erhalten. Jedes Konto erhält einen eigenen, zusätzlich nach Supabase-Projekt getrennten Schlüssel.
+- Online sichern und Laden erfolgen ausdrücklich im Kontobereich. Eine Revisionsprüfung verhindert, dass ein veraltetes Gerät einen neueren Online-Stand still überschreibt. Es gibt noch keine automatische Zusammenführung mehrerer Geräte.
+- Gaststand ins Konto kopieren und Online-Stand lokal übernehmen erfordern eine ausdrückliche Auswahl. JSON-Export und eine zusätzliche lokale Rückfallkopie sichern den bisherigen Stand. Keine automatische Übertragung bestehender Nutzerdaten.
+- Abmelden entfernt die Kontodaten aus der aktiven Ansicht, löscht jedoch keine lokalen Kontostände oder Rückfallkopien. Kontolöschung ist derzeit über den Eigentümer im Supabase-Dashboard möglich; die Online-Zeile wird mitgelöscht.
+- Nach Neuladen benötigt ein Konto Internet zur Sitzungsprüfung. Der Gastmodus bleibt offline spielbar. Bestehende Spiel-, Lern- und Sicherungsregeln bleiben erhalten.
 
-## Noch zu entscheiden
+## Hosting und Freigabe
 
-Der Nutzer hat eine eigene Anmeldung **unabhängig von ChatGPT** gewählt. Dafür soll ein geeigneter Anmeldedienst mit serverseitig geprüften Sitzungen eingesetzt werden; Anbieter und konkreter Anmeldeweg sind noch festzulegen. Ein selbst entwickelter Passwortspeicher ist für den Entwurf nicht vorgesehen.
+Sites-Zutritt und App-Identität sind getrennt. Die [Sites-Dokumentation](https://learn.chatgpt.com/docs/sites#control-access-and-secrets) beschreibt diese Trennung und unterstützt externe Identitätsdienste. Das vorhandene Projekt bietet private und öffentliche Besucherfreigabe. Die statische App spricht Supabase über HTTPS an; Datenzugriff wird im Dienst geprüft. Keine zusätzliche Sites-Datenbank und kein eigener Passwortserver erforderlich.
 
-Die aktuelle private Sites-Freigabe erfordert zusätzlich ein freigegebenes ChatGPT-Konto. Für vollständig unabhängigen Zugang müsste die äußere Site erreichbar werden und die Anwendung private Daten durch ihre eigene Anmeldung schützen. Diese Zugriffsänderung wurde noch nicht vorgenommen; sie gehört erst zum fertig geprüften Kontoumbau. Umsetzung, Migration echter Spielstände und Aktivierung der Bestenliste sind noch nicht erfolgt.
+Die Site bleibt vorerst privat unter derselben Projekt-ID und URL. Vollständig von ChatGPT unabhängiger Besucherzugang erfordert nach Einrichtung und echten Konten-/Mailprüfungen zusätzlich eine passende Freigabe der äußeren Sites-Zugangsschranke. Diese wurde noch nicht geändert. Project URL und Publishable Key dürfen in die öffentliche App-Konfiguration; SMTP-, Datenbank- und geheime API-Schlüssel ausschließlich in den jeweiligen Dienst.
 
-Die jetzige Genre-/Stufenauswahl ist davon unabhängig und bleibt vollständig offline nutzbar.
+## Gemeinsame Bestenliste als nächster Ausbau
+
+Die persönliche lokale Bestenliste ist vorhanden. Eine gemeinsame Wettbewerbsrangliste ist noch nicht umgesetzt. Dafür müssen Online-Rekordrunden serverseitig gestartet, Fragen und Zeiten zugeordnet und Punkte geprüft werden. Gesicherte lokale oder offline erspielte Rekorde bleiben persönliche Trainingswerte.
+
+Geplant sind getrennte Kategorien nach Genre-Kombination, Stufen, Rundengröße und Regelversion, freiwillige Teilnahme und Anzeige ausschließlich des Spielernamens. Automatische Ereignissynchronisierung, Zusammenführung mehrerer Geräte und eine Selbstbedienung zur Kontolöschung bleiben weitere Ausbauschritte.

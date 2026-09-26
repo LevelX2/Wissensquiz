@@ -84,6 +84,7 @@ Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach b
 | `src/engine.ts` | Auswahl, Lernregeln, Punkte und idempotente Rundenaktionen |
 | `src/storage.ts` | IndexedDB-Transaktionen, Sicherungsvalidierung, Export/Import |
 | `src/App.tsx`, `src/style.css` | Oberfläche und responsive Gestaltung |
+| `src/AccountApp.tsx`, `src/accounts.ts`, `supabase/` | Optionale Konten, getrennte Speicher, Datenbankregeln und Mailvorlagen |
 | `src/offline.ts`, `scripts/build-sw.mjs` | Paketstatus und sicher wartende App-Updates |
 | `public/fragen.csv`, `public/action-fragen.csv`, `src/packages.ts` | Gelieferte Standardpakete und transaktionale Ergänzung |
 | `public/horror-fragen.csv` | Unverändertes Horror-Paket, ebenfalls automatisch ergänzt und offline verfügbar |
@@ -104,4 +105,4 @@ Tests verwenden isolierte Browserprofile und kontrollierte Testzeiten. Produktiv
 
 Git: lokal ohne Remote, Integrationsbranch `main`, Umsetzung auf `codex/spielbare-testversion`. [Projektwissen](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md).
 
-Konten, geräteübergreifende Speicherung und gemeinsame Bestenliste sind als [Entwurf](docs/Konten-und-Spielstaende.md) dokumentiert, aber noch nicht implementiert. Bisherige Spielstände werden weiterhin ausschließlich lokal gespeichert.
+Die optionale [Kontenanbindung](docs/Konten-und-Spielstaende.md) ist vorbereitet: Spielername, E-Mail/Passwort, Bestätigung, Reset und manuelles Online-Sichern/Laden über Supabase. **Noch deaktiviert:** Es fehlen Supabase-Projekt und Mailversand. Der neue Bereich „Konto“ erklärt den Einrichtungsstand; bisherige Spielstände bleiben lokal erhalten. [Einrichtung mit SQL und Mailvorlagen](docs/Konten-Einrichtung.md). Eine gemeinsame, serverseitig geprüfte Bestenliste ist noch offen.

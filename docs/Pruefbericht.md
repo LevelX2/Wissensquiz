@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 45 Logik-/Persistenztests und 18 Browserprüfungen erfolgreich. Letzter `npm audit`: 0 bekannte Schwachstellen; bei Paketerweiterungen, Mehrfachauswahl, Feedback und Erklärungsanzeige keine Abhängigkeiten geändert und Audit nicht erneut ausgeführt. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 57 Logik-/Persistenz-/Datenbanktests und 25 Browserprüfungen im vollständigen Lauf erfolgreich. Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -40,7 +40,7 @@ Die anfänglich gefundenen moderaten Vitest-Entwicklungsabhängigkeitslücken wu
 - Die automatisierte Barrierearmutsprüfung ersetzt keine vollständige Prüfung mit Screenreader oder Menschen mit unterschiedlichen Bedürfnissen.
 - Keine unabhängige fachliche Überprüfung sämtlicher Filmaussagen und Quellenlinks. Gelieferte Quellenkennzeichnung bleibt nachvollziehbar erhalten.
 - Zeitversetztes Lernen mit kontrollierter Testzeit, nicht über elf reale Tage geprüft. Spielspaß und Motivation brauchen Nutzerfeedback.
-- Keine serverseitige Synchronisierung oder manipulationssicheren Rekorde. Für Spielrunden nur ein App-Fenster verwenden; Start eines weiteren Fensters beendet einen aktiven Rekord als Reload-Schutz.
+- Kontenanbindung mit manueller Online-Sicherung vorbereitet, aber noch kein echter Dienst eingerichtet; keine automatische Synchronisierung oder manipulationssicheren Rekorde. Für Spielrunden nur ein App-Fenster verwenden; Start eines weiteren Fensters beendet einen aktiven Rekord als Reload-Schutz.
 - Große Datenmengen sind nicht Last-getestet. Die einfache Zustandsablage und vollständige Neuberechnung sind auf die Testversion ausgerichtet.
 
 ## Wiederholen
@@ -90,3 +90,11 @@ Am 26.09.2026 sämtliche 720 Fragen zu 125 Filmen hinsichtlich fehlender Darstel
 51 Logik-/Speicherprüfungen erfolgreich: vollständige redaktionelle Abdeckung, Originalversionen/Inhalte, Schutz vor falscher Zuordnung, Rollenwechsel/Originalstimmen, alte/neue Anzeigeeinstellungen, Rangfolge/Gleichstand, sämtliche abgeschlossenen Spiele, Backup und Trennung der Kategorien einschließlich historischer Runden. Produktions-Build erfolgreich. Bekannte Buildhinweise: bestehende Zod-Kommentaranmerkungen und JavaScript-Bündel über 500 kB (rund 149 kB gzip).
 
 20 Chromium-Prüfungen erfolgreich. Neue Prüfungen für unabhängige Genre-/Schwierigkeitsanzeige einschließlich Neuladen, gefilterte Bestenliste, Rundenrückblick, Offline-Bestand und 320-Pixel-Ansicht. Mobile Bestenliste anhand gerendertem Screenshot geprüft. Bisherigen Rekordtest auf die neue Kategorienansicht aktualisiert; Einstellungstest wartet auf die abgeschlossene Speicherung. Quellen und Darstellerzusätze bleiben vor der Antwort unsichtbar und werden nach Wiederaufnahme angezeigt. Isolierte Testprofile und kontrollierte Zeit, keine echten Nutzerstände verändert. Physische Geräte-/Hör-/Vibrations-/private Live-PWA-Prüfungen weiterhin offen.
+
+## Vorbereitung eigener Konten
+
+57 Logik-/Speicher-/Datenbankprüfungen erfolgreich. Drei neue Konfigurations-/Speichertests prüfen erlaubte öffentliche Schlüssel, sichere Linkauswertung, getrennte Gast-/Konto-/Projektschlüssel und Sicherungsersatz. Drei neue Datenbanktests führen die echte SQL-Migration in PGlite mit nachgebildetem Supabase-Auth-Schema aus: anonyme/unbestätigte Benutzer abgewiesen, fremde Zeilen unsichtbar, direkte Schreibrechte gesperrt, veraltete Revision ohne Überschreiben abgelehnt, nachträglich entzogene E-Mail-Bestätigung wirksam.
+
+25 unterschiedliche Chromium-Prüfungen erfolgreich. Die fünf Kontenprüfungen verwenden das echte SDK mit simulierten HTTP-Antworten: deaktivierte Einrichtung ohne Passwortformular, Registrierung/erneute Bestätigung/Reset-Anforderung, Link erst nach Klick verbraucht und aus URL entfernt, Passwortwechsel einschließlich Neuladen der Reset-Ansicht und Abmeldung, Gast-/Zwei-Konten-Trennung und ausdrücklich ausgelöste Sicherung/Gastübernahme, falsches Passwort und abgelaufener Link. Kontoformular bei 320 px ohne Überlauf und ohne von axe erkannte Verstöße. In Kontentests ist der Service Worker für zuverlässige HTTP-Simulation blockiert; Offline-/Updateprüfungen laufen separat mit dem echten Worker.
+
+Produktions-Build und Abhängigkeitsprüfung erfolgreich, 0 bekannte Schwachstellen. Build meldet einen großen JavaScript-Chunk (rund 772 kB unkomprimiert); Aufteilung ist eine spätere Optimierung. Roh-CSV unverändert. Noch kein echtes Supabase-Projekt, keine Mailzustellung oder Live-Kontoabnahme geprüft. Die Konfiguration bleibt deaktiviert; privater Sites-Zugriff wird nicht erweitert.

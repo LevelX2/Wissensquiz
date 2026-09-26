@@ -30,7 +30,13 @@ import {
   roundGenres,
   roundDifficulties,
 } from "./filters";
-import { download, read, restore, update, validateBackup } from "./storage";
+import {
+  download,
+  read as readStored,
+  restore as restoreStored,
+  update as updateStored,
+  validateBackup,
+} from "./storage";
 import { useOffline } from "./offline";
 import { BadgeIcon, GenreIcon } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
@@ -49,7 +55,14 @@ import {
 } from "./packages";
 
 type Page =
-  "leaderboard" | "home" | "topics" | "album" | "settings" | "round" | "result";
+  | "account"
+  | "leaderboard"
+  | "home"
+  | "topics"
+  | "album"
+  | "settings"
+  | "round"
+  | "result";
 type Mutate = (fn: (s: State) => void) => Promise<State | null>;
 const modeNames: Record<Mode, string> = {
   entdecken: "Entdecken",
@@ -146,7 +159,18 @@ function TopicCard({
     </article>
   );
 }
-export function App() {
+export function App({
+  storageKey = "current",
+  accountName,
+  accountPanel,
+}: {
+  storageKey?: string;
+  accountName?: string;
+  accountPanel?: (state: State, onState: (state: State) => void) => ReactNode;
+}) {
+  const read = () => readStored(storageKey);
+  const update = (fn: (s: State) => void, initial?: State) =>
+    updateStored(fn, initial, storageKey);
   const [state, setState] = useState<State | null>(null);
   const [page, setPage] = useState<Page>("home");
   const [error, setError] = useState("");
@@ -365,6 +389,7 @@ export function App() {
               ["home", "◉", "Spielen"],
               ["topics", "▦", "Themen"],
               ["album", "☆", "Meine Sammlung"],
+              ["account", "♙", "Konto"],
             ] as const
           ).map(([p, icon, label]) => (
             <button
@@ -399,7 +424,9 @@ export function App() {
       </aside>
       <div className="workspace">
         <header className="topbar">
-          <span>DEIN FILMKOSMOS</span>
+          <span>
+            {accountName ? `KONTO: ${accountName}` : "DEIN FILMKOSMOS"}
+          </span>
           <button
             className="sound-toggle"
             aria-pressed={state.settings.sound !== false}
@@ -932,8 +959,10 @@ export function App() {
               onLeaderboard={() => setPage("leaderboard")}
             />
           )}
+          {page === "account" && accountPanel?.(state, setState)}
           {page === "settings" && (
             <Settings
+              storageKey={storageKey}
               state={state}
               mutate={mutate}
               setState={setState}
@@ -1410,6 +1439,7 @@ function Result({
   );
 }
 function Settings({
+  storageKey,
   state,
   mutate,
   setState,
@@ -1418,6 +1448,7 @@ function Settings({
   onHome,
 }: {
   state: State;
+  storageKey: string;
   mutate: Mutate;
   setState: (s: State) => void;
   busy: boolean;
@@ -1714,7 +1745,7 @@ function Settings({
               disabled={busy}
               onClick={async () => {
                 try {
-                  const saved = await restore(backup);
+                  const saved = await restoreStored(backup, storageKey);
                   setState(saved);
                   setBackup(null);
                   setMessage("Sicherung vollständig wiederhergestellt.");

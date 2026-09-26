@@ -5,7 +5,7 @@
 - Spielbare deutsche React-/TypeScript-Testversion mit Entdecken, Besser werden und Rekordrunde umgesetzt.
 - Filmgenres und Schwierigkeitsstufen als Mehrfachauswahl; einzelne Filme/Reihen nur als optionale Verfeinerung. Alte Runden und Spielstände bleiben erhalten.
 - Genre und Schwierigkeit jeder Frage sichtbar, unabhängig abschaltbar und gespeichert. Alle 720 Vertiefungen auf Darstellernamen geprüft; 627 Ergänzungen zu 125 Filmen, mit Quellen und versionsgenauer Zuordnung. Rohfragen und Spielstände erhalten.
-- Persönliche Bestenliste aller abgeschlossenen Rekordspiele, filterbar nach Genre-Kombination, Stufen und Rundengröße; vergleichbare Kategorien getrennt, Spiele mit Rückblick. Lokal und offline, gemeinsame Konten weiterhin offen.
+- Persönliche Bestenliste aller abgeschlossenen Rekordspiele, filterbar nach Genre-Kombination, Stufen und Rundengröße; vergleichbare Kategorien getrennt, Spiele mit Rückblick. Lokal und offline; gemeinsame Bestenliste weiterhin offen.
 - Kurze abschaltbare Soundeffekte, optionale Vibration, Genre-Icons und deutlicher gesperrter/erworbener Zustand des vorhandenen Sci-Fi-Abzeichens. Weitere Genre-Abzeichen noch offen.
 - 720 gelieferte Fragen aus Sci-Fi, Action, Horror und Fantasy, 600 Wissensziele und 120 Varianten; 88 Themen. Sämtliche Datensätze strukturell akzeptiert.
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
@@ -20,7 +20,7 @@
 - Private Sites-Adresse verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
 - Aktuelle private Sites-Veröffentlichung mit Darstellerergänzungen, optionalen Genre-/Schwierigkeitshinweisen und persönlicher Bestenliste erfolgreich (`succeeded`, App-Commit `b043771`). 51 Logiktests und 20 lokale Browserprüfungen erfolgreich. Physischer Smartphone-/PWA-/Hör-/Vibrationstest weiterhin offen.
 - Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
-- Konten, geräteübergreifende Spielstände und gemeinsame Bestenliste als Entwurf unter `docs/Konten-und-Spielstaende.md`. Eigene Anmeldung unabhängig von ChatGPT gewünscht; Anbieter, Umsetzung und Wechsel der äußeren Sites-Zugangsschranke noch offen. Keine Cloud-Speicherung eingerichtet.
+- Eigene Anmeldung mit Spielername, E-Mail/Passwort, Bestätigung und Reset über Supabase vorbereitet; noch deaktiviert, da Projekt und Mailversand fehlen. Manuelle Online-Sicherung mit Revisionsprüfung und getrennten Gast-/Kontoständen implementiert. Einrichtung unter `docs/Konten-Einrichtung.md`; gemeinsame Bestenliste und automatische Synchronisierung noch offen. 57 Logik-/Datenbanktests und 25 Browserprüfungen bestanden; echte Dienst-/Mailtests stehen aus. Äußere Sites-Zugangsschranke bleibt privat.
 
 ## Einstieg
 
@@ -33,4 +33,4 @@
 
 ## Daten und Sicherung
 
-Spielstände liegen im Browser, nicht im Repository. JSON-Exporte über Einstellungen nach wichtigen Sitzungen und vor Browserbereinigung oder Adresswechsel erstellen, mindestens die letzten drei Sicherungen an einem sicheren persönlichen Ablageort erhalten. Validierter Wiederimport ersetzt nach Bestätigung den lokalen Stand. Browserneustart und Wiederherstellung wurden in getrennten Testprofilen geprüft. Keine Cloud-Sicherung. `AGENTS.local.md` enthält nur rekonstruierbare lokale Pfadauflösung; lokale Git-Historie ersetzt kein externes Backup.
+Spielstände liegen im Browser, nicht im Repository. JSON-Exporte über Einstellungen nach wichtigen Sitzungen und vor Browserbereinigung oder Adresswechsel erstellen, mindestens die letzten drei Sicherungen an einem sicheren persönlichen Ablageort erhalten. Validierter Wiederimport ersetzt nach Bestätigung den lokalen Stand. Browserneustart und Wiederherstellung wurden in getrennten Testprofilen geprüft. Cloud-Sicherung technisch vorbereitet, aber ohne eingerichteten Kontodienst noch inaktiv. `AGENTS.local.md` enthält nur rekonstruierbare lokale Pfadauflösung; lokale Git-Historie ersetzt kein externes Backup.

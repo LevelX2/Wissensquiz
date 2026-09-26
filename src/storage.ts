@@ -212,19 +212,20 @@ export function openDatabase() {
 export async function update(
   mutator: (state: State) => void,
   initial?: State,
+  key = "current",
 ): Promise<State> {
   const db = await openDatabase();
   return new Promise((resolve, reject) => {
     const tx = db.transaction("state", "readwrite");
     const store = tx.objectStore("state");
-    const req = store.get("current");
+    const req = store.get(key);
     let result: State;
     let failure: unknown;
     req.onsuccess = () => {
       try {
         result = req.result ?? initial ?? emptyState();
         mutator(result);
-        store.put(result, "current");
+        store.put(result, key);
       } catch (error) {
         failure = error;
         tx.abort();
@@ -236,22 +237,22 @@ export async function update(
       reject(failure ?? tx.error ?? new Error("Speichern abgebrochen."));
   });
 }
-export async function read(): Promise<State | undefined> {
+export async function read(key = "current"): Promise<State | undefined> {
   const db = await openDatabase();
   return new Promise((resolve, reject) => {
-    const req = db.transaction("state").objectStore("state").get("current");
+    const req = db.transaction("state").objectStore("state").get(key);
     req.onsuccess = () => resolve(req.result);
     req.onerror = () => reject(req.error);
   });
 }
-export async function restore(value: unknown) {
+export async function restore(value: unknown, key = "current") {
   const checked = validateBackup(value);
   for (const r of checked.rounds)
     if (r.status === "active" && r.mode === "rekord") {
       r.status = "aborted";
       r.finishedAt = Date.now();
     }
-  return update((s) => Object.assign(s, checked));
+  return update((s) => Object.assign(s, checked), undefined, key);
 }
 export function download(filename: string, value: unknown) {
   const url = URL.createObjectURL(
