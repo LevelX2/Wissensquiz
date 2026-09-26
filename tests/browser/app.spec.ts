@@ -483,7 +483,23 @@ test("Fehlende Audio- und Vibrationsschnittstellen verhindern keine Spielrunde",
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await expect(page.getByLabel("Vibration", { exact: true })).toBeDisabled();
+  const vibration = page.getByLabel("Vibration", { exact: true });
+  await expect(vibration).toBeEnabled();
+  await vibration.click();
+  await expect(vibration).toBeChecked();
+  await expect(
+    page.getByText(/Vibration ist eingeschaltet und gespeichert/),
+  ).toBeVisible();
+  await page.reload();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(vibration).toBeChecked();
+  await vibration.click();
+  await expect(vibration).not.toBeChecked();
+  await page.reload();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(vibration).not.toBeChecked();
   await expect(
     page.getByText("Dieser Browser bietet keine Vibration an.", {
       exact: false,

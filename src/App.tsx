@@ -41,6 +41,7 @@ import { useOffline } from "./offline";
 import { BadgeIcon, GenreIcon, genreIllustrations } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
+import { answeredTopics } from "./collection";
 import { LearningPath } from "./LearningPathPanel";
 import { UnlockCelebration } from "./UnlockCelebration";
 import {
@@ -202,6 +203,7 @@ export function App({
     updateStored(fn, initial, storageKey);
   const [state, setState] = useState<State | null>(null);
   const [page, setPage] = useState<Page>("home");
+  const [answeredOnly, setAnsweredOnly] = useState(false);
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
   const [mode, setMode] = useState<Mode>("entdecken");
@@ -315,6 +317,11 @@ export function App({
       </main>
     );
   const topics = [...new Set(state.questions.map((q) => q.topic))].sort();
+  const startedTopics =
+    page === "album" ? answeredTopics(state) : new Set<string>();
+  const albumTopics = topics.filter(
+    (t) => !answeredOnly || startedTopics.has(t),
+  );
   const genres = [...new Set(state.questions.map(genreOf))].sort();
   const filters = {
     genres: selectedGenres ?? genres,
@@ -832,8 +839,46 @@ export function App({
                 sicher, an verschiedenen Tagen und nach mindestens sieben Tagen
                 erneut bestätigt.
               </p>
+              <div
+                className="ranking-tabs"
+                role="group"
+                aria-label="Sammlungsfilter"
+              >
+                <button
+                  className={!answeredOnly ? "primary" : "secondary"}
+                  aria-pressed={!answeredOnly}
+                  onClick={() => setAnsweredOnly(false)}
+                >
+                  Alle
+                </button>
+                <button
+                  className={answeredOnly ? "primary" : "secondary"}
+                  aria-pressed={answeredOnly}
+                  onClick={() => setAnsweredOnly(true)}
+                >
+                  Mit beantworteten Fragen
+                </button>
+              </div>
+              <p className="tiny muted" role="status">
+                {albumTopics.length} von {topics.length} Einträgen
+              </p>
+              {answeredOnly && albumTopics.length === 0 && (
+                <div className="notice">
+                  <p>
+                    Noch keine Einträge mit beantworteten Fragen. Sobald Du in
+                    einem Thema eine Antwort auswählst, erscheint es hier –
+                    richtig oder falsch.
+                  </p>
+                  <button
+                    className="secondary"
+                    onClick={() => setAnsweredOnly(false)}
+                  >
+                    Alle Einträge anzeigen
+                  </button>
+                </div>
+              )}
               <div className="topic-grid">
-                {[...topics]
+                {[...albumTopics]
                   .sort(
                     (a, b) =>
                       Number(state.favorites.includes(b)) -
@@ -1576,6 +1621,17 @@ function Settings({
   onHome: () => void;
 }) {
   const [message, setMessage] = useState("");
+  const [hapticMessage, setHapticMessage] = useState("");
+  const reportHaptics = (result: ReturnType<typeof playFeedback>) =>
+    setHapticMessage(
+      result === "blocked"
+        ? "Der Browser konnte keine Vibration starten. Deine Auswahl bleibt gespeichert. Prüfe die Geräte- und Browsereinstellungen."
+        : result === "requested"
+          ? "Vibrationssignal angefordert. Falls Du nichts spürst, unterstützt Dein Gerät die Ausgabe möglicherweise nicht oder blockiert sie in den Einstellungen."
+          : result === "unavailable"
+            ? "Vibration ist eingeschaltet und gespeichert. Dieser Browser bietet keine Vibrationsfunktion; hier wird deshalb keine Vibration ausgegeben."
+            : "",
+    );
   const [csv, setCsv] = useState<{
     text: string;
     name: string;
@@ -1679,15 +1735,21 @@ function Settings({
             <input
               type="checkbox"
               checked={!!state.settings.haptics}
-              disabled={busy || !supportsHaptics()}
+              disabled={busy}
+              aria-describedby="haptics-support"
               onChange={async (e) => {
                 const enabled = e.target.checked;
                 const saved = await mutate((s) => {
                   s.settings.haptics = enabled;
                 });
                 if (saved && enabled)
-                  playFeedback("next", { ...saved.settings, sound: false });
-                if (!enabled) stopFeedback();
+                  reportHaptics(
+                    playFeedback("next", { ...saved.settings, sound: false }),
+                  );
+                if (saved && !enabled) {
+                  stopFeedback();
+                  setHapticMessage("Vibration ausgeschaltet und gespeichert.");
+                }
               }}
             />
             Vibration
@@ -1698,18 +1760,23 @@ function Settings({
           disabled={state.settings.sound === false && !state.settings.haptics}
           onClick={async () => {
             await unlockSound(state.settings);
-            playFeedback("correct", state.settings);
+            reportHaptics(playFeedback("correct", state.settings));
           }}
         >
           Signal ausprobieren
         </button>
-        <p className="muted tiny">
+        <p id="haptics-support" className="muted tiny">
           {supportsHaptics()
-            ? "Vibration funktioniert nur mit unterstütztem Gerät und Browser."
-            : "Dieser Browser bietet keine Vibration an."}{" "}
-          Deine Auswahl wird auf diesem Gerät gespeichert. Keine
-          Hintergrundmusik.
+            ? "Dieser Browser kann Vibrationssignale anfordern. Ob Du sie spürst, hängt vom Gerät und seinen Einstellungen ab."
+            : "Dieser Browser bietet keine Vibration an. Du kannst Deine Auswahl trotzdem speichern; sie wirkt auf Geräten und in Browsern mit Vibrationsunterstützung."}{" "}
+          Deine Auswahl wird im Spielstand gespeichert, bei angemeldeten Konten
+          auch online. Keine Hintergrundmusik.
         </p>
+        {hapticMessage && (
+          <p className="tiny" role="status">
+            {hapticMessage}
+          </p>
+        )}
       </section>
       <section className="settings-panel">
         <h2>Dein Lernpaket</h2>

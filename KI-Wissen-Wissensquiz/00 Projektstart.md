@@ -46,3 +46,7 @@ Bestätigte Konten erscheinen automatisch in Highscores/Spielerleistungen; keine
 Asia-Fragen sind angekündigt, aber noch nicht geliefert. „Asia-Kino“ ist ein Vorschlag; Zuordnung und finales Icon nach Nutzerwunsch erst anhand der Fragen festlegen. Vorab gestarteter Martial-Arts-Bildentwurf wird nicht eingebunden.
 
 Neue Mittel-/Schwer-Freischaltungen erhalten eine einmalige animierte Feier mit Schloss, Feuerwerk, Fanfare und optionaler Vibration. Offlinefähig, reduzierte Bewegung berücksichtigt; alte Runden spielen die Feier nicht erneut ab. 79 Logik-/Datenbanktests, Build und 41 Browserprüfungen erfolgreich. Veröffentlichungsnachweis unter docs/Sites-Betrieb.md.
+
+Sammlung: Filter „Alle“ / „Mit beantworteten Fragen“, inklusive falscher Antworten, mit leerem Zustand. Vibration unabhängig von Browserunterstützung schaltbar und im Spielstand gespeichert; fehlende oder abgelehnte Ausgabe verständlich erklärt. Keine Migration und keine Fortschrittsänderung.
+
+Nächstes Gesprächsthema: Nutzer meldet viele Wiederholungen in drei Sci-Fi-Entdecken-Runden und nach Freischaltung von Mittel weiterhin viele leichte Fragen. Aktuelle Auswahl mischt ungespielte und noch nicht gefestigte, nicht fällige Ziele ohne Vorrang für ungespielte; keine Rundensperre für gerade verwendete Ziele und keine Quote für neu freigeschaltete Stufen. Regeln zunächst erläutern, mögliche Ausrichtung „möglichst neue Fragen“ gemeinsam besprechen; noch keine Algorithmusänderung beauftragt.

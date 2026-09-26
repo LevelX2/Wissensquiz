@@ -11,3 +11,7 @@ Der Lernpfad ist Standard. Die bewusste Ausnahme heißt „Alle Schwierigkeitsst
 Für angekündigte asiatische Filmfragen ist „Asia-Kino“ vorläufig vorgeschlagen. Die endgültige Benennung, Abgrenzung und Illustration bleiben auf Nutzerwunsch offen, bis die Fragen vorliegen. Ein bereits gestarteter Bildentwurf wurde nicht in die App übernommen.
 
 Neu erreichte Lernpfad-Stufen öffnen beim Rundenabschluss einen zugänglichen Erfolgsdialog mit kurzer Animation, Stufenübersicht und „Weiter zum Ergebnis“. Escape schließt ebenfalls; die Fokusführung kehrt zum Ergebnis zurück. Der ruhige Hinweis im Rundenergebnis bleibt zusätzlich erhalten. Details unter Lernregeln → Freischaltfeier.
+
+In der Sammlung kann die Übersicht der Detailerfolge zwischen „Alle“ und „Mit beantworteten Fragen“ umgeschaltet werden. Jede gewählte Antwort zählt, unabhängig von richtig/falsch. Bei leerem Ergebnis erklärt ein Hinweis die Auswahl und bietet „Alle Einträge anzeigen“. Die übrigen Sammlungsinformationen bleiben unverändert.
+
+Unter Profil → Optionen lässt sich Vibration auch ohne Unterstützung des aktuellen Browsers ein- und ausschalten und speichern. Ein Hinweis erklärt die technische Einschränkung; „Signal ausprobieren“ meldet gegebenenfalls eine abgelehnte Ausgabe.

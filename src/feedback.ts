@@ -67,13 +67,15 @@ export function stopFeedback() {
 export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
   if (typeof document !== "undefined" && document.visibilityState === "hidden")
     return;
+  let haptics: "off" | "unavailable" | "requested" | "blocked" =
+    settings.haptics ? "unavailable" : "off";
   try {
     if (settings.haptics && supportsHaptics())
-      navigator.vibrate(vibrations[kind]);
+      haptics = navigator.vibrate(vibrations[kind]) ? "requested" : "blocked";
   } catch {
-    /* Optional hardware. */
+    haptics = "blocked";
   }
-  if (settings.sound === false || context?.state !== "running") return;
+  if (settings.sound === false || context?.state !== "running") return haptics;
   try {
     const audio = context;
     tones[kind].forEach((frequency, index) => {
@@ -98,4 +100,5 @@ export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
   } catch {
     /* Optional sound; visible feedback remains available. */
   }
+  return haptics;
 }

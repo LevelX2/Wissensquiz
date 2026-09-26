@@ -2,7 +2,7 @@
 
 ## Umgebung und Ergebnis
 
-Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 57 Logik-/Persistenz-/Datenbanktests und 25 Browserprüfungen im vollständigen Lauf erfolgreich. Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
+Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 81 Logik-/Persistenz-/Datenbanktests und 44 Browserprüfungen im vollständigen Lauf erfolgreich. Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.
 
 ## Tatsächlich ausgeführt
 
@@ -160,3 +160,9 @@ Produktions-Build und Diff-Prüfung erfolgreich; Offline-Paket weiterhin 22 Date
 26.09.2026: 79 Logik-/Datenbanktests und alle 41 Chromium-Prüfungen im Gesamtlauf erfolgreich. Vier neue End-to-End-Fälle erzeugen in isolierten Testständen echte Übergänge: Mittel, Schwer, beide gleichzeitig sowie ein geratener Treffer ohne Freischaltung. Alle werden offline durchgespielt. Nachweis für genau acht Fanfaren-Noten zusätzlich zum Antwortsignal, optionale Vibration, Stummschaltung, reduzierte Bewegung, Fokus im Dialog und Rückgabe per Schaltfläche/Escape. Rundenrückblick und Neuladen wiederholen die Feier nicht. Mobile Ansicht bei 320 Pixeln und Axe ohne Befund; gerenderten Erfolgsdialog visuell geprüft. Kleine abschließende Textkorrektur und Screenshot nach der Einblendung mit erneuter gezielter Prüfung aller vier Fälle.
 
 Produktions-Build erfolgreich, 22 Offline-Dateien; keine neue Medienabhängigkeit. Bekannte Bündelgrößenwarnung bleibt. Keine Änderung an Rohfragen, Speicherformat oder realen Nutzerfortschritten. Physische Hör-/Vibrationsprüfung weiterhin offen.
+
+## 26.09.2026 — Sammlungsfilter und nutzbare Vibrationsoption
+
+„Alle“ / „Mit beantworteten Fragen“ filtert ausschließlich die Detailkarten nach vorhandenen gewählten Antworten. Richtige, falsche und geratene Antworten zählen; reine Zeitabläufe nicht. Leerer Zustand bietet Rückkehr zu allen Einträgen. Ursache des blockierten Vibrationsschalters bestätigt: disabled war an supportsHaptics gekoppelt. Präferenz jetzt unabhängig davon speicherbar; fehlende Schnittstelle, abgelehnte Ausgabe und angefordertes Signal verständlich erklärt.
+
+81 Logik-/Datenbanktests, Produktions-Build und alle 44 Chromium-Prüfungen im vollständigen Lauf erfolgreich. Nachweis für richtige/falsche Antworten, historische Varianten, Leerzustand, unveränderten gespeicherten Testfortschritt, 320-Pixel-Ansicht ohne Überlauf und Axe. Mobile Filteransicht visuell geprüft. Vibration bei fehlender API, false-Rückgabe und Ausnahme geprüft; Ein-/Ausschalten bleibt über Neuladen erhalten, vorhandener Test für unterstützte Ausgabe ebenfalls erfolgreich. Keine Änderung an CSV, Lernregeln oder Speicherformat. Testzeitstempel der Importberichte nach Inhaltsvergleich zurückgesetzt. Physische Vibration auf einem Smartphone weiterhin nicht geprüft.
