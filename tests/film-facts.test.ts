@@ -60,12 +60,12 @@ it("liefert Filmdaten auch für alte Fragen, unterscheidet Episoden und Reboots 
   expect(filmData(unknown)).toBeUndefined();
 });
 
-it("ergänzt jedes der 300 Filmwerke um Jahr und fehlende Regie, ohne bestehende Ziele zu duplizieren", () => {
-  expect(facts).toHaveLength(300);
-  expect(extra).toHaveLength(587);
-  expect(complete.questions).toHaveLength(2567);
-  expect(new Set(complete.questions.map((q) => q.knowledgeId)).size).toBe(2237);
-  expect(new Set(complete.questions.map((q) => q.topic)).size).toBe(258);
+it("ergänzt jedes der 325 Filmwerke um Jahr und fehlende Regie, ohne bestehende Ziele zu duplizieren", () => {
+  expect(facts).toHaveLength(325);
+  expect(extra).toHaveLength(637);
+  expect(complete.questions).toHaveLength(2797);
+  expect(new Set(complete.questions.map((q) => q.knowledgeId)).size).toBe(2437);
+  expect(new Set(complete.questions.map((q) => q.topic)).size).toBe(283);
   expect(complete.questions.slice(0, originals.length)).toEqual(originals);
   for (const f of facts) {
     const year = extra.find((q) => q.id === `${f.id}-YEAR`)!;
@@ -104,10 +104,10 @@ it("ergänzt jedes der 300 Filmwerke um Jahr und fehlende Regie, ohne bestehende
     "docs/film-facts-bericht.json",
     JSON.stringify(
       {
-        checkedOn: "2026-09-26",
+        checkedOn: "2026-09-27",
         films: facts.length,
-        newYearQuestions: 300,
-        newDirectorQuestions: 287,
+        newYearQuestions: 325,
+        newDirectorQuestions: 312,
         existingDirectorGoals: 13,
         totalQuestions: complete.questions.length,
         totalGoals: new Set(complete.questions.map((q) => q.knowledgeId)).size,
@@ -139,7 +139,7 @@ it("ergänzt jedes der 300 Filmwerke um Jahr und fehlende Regie, ohne bestehende
           ]),
         ),
         sourceNote:
-          "Jahre gegen erste Veröffentlichung der verlinkten Filmseiten abgeglichen; Regiecredits mit dokumentierten Einzelfallkorrekturen. Schwierigkeit redaktionell, nicht empirisch gemessen.",
+          "300 bisherige Filmquellen abgeglichen; 25 neue Musikfilme aus gelieferter Redaktion übernommen und strukturell geprüft. Keine unabhängige Vollprüfung der neuen Filmaussagen. Schwierigkeit redaktionell, nicht empirisch gemessen.",
       },
       null,
       2,

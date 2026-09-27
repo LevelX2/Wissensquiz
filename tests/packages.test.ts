@@ -53,7 +53,7 @@ const allImported = contents.map((pkg, i) =>
 );
 
 it.each([
-  ...["MartialArts", "RomCom", "Arthouse"].map((name, i) => ({
+  ...["MartialArts", "RomCom", "Arthouse", "Musik"].map((name, i) => ({
     name,
     imported: allImported[i + 8],
     previous: allImported.slice(0, i + 8).flatMap((p) => p.questions),
@@ -100,7 +100,7 @@ it.each([
     ).toHaveLength(30);
     expect(readFileSync(`public/${path}-fragen.csv`)).toEqual(
       readFileSync(
-        `KI-Wissen-Wissensquiz/01 Rohquellen/${name}_Quiz_180_Fragen.csv`,
+        `KI-Wissen-Wissensquiz/01 Rohquellen/${imported.report.filename}`,
       ),
     );
     for (const q of imported.questions) {
@@ -183,7 +183,7 @@ it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedbac
   );
 });
 
-it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])(
+it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11])(
   "ergänzt neue Pakete bei %i vorhandenen Paketen transaktional ohne Fortschrittsverlust",
   async (packageCount) => {
     const previousPackages = allImported.slice(0, packageCount);
@@ -224,9 +224,9 @@ it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])(
       update((s) => addPackages(s, contents)),
     ]);
     const saved = (await read())!;
-    expect(saved.questions).toHaveLength(2567);
-    expect(saved.imports).toHaveLength(11);
-    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(2237);
+    expect(saved.questions).toHaveLength(2797);
+    expect(saved.imports).toHaveLength(12);
+    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(2437);
     expect(saved.questions.slice(0, previousQuestions.length)).toEqual(
       previousQuestions.map(withCategoryTags),
     );

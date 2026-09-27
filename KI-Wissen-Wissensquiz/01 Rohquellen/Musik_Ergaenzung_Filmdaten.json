@@ -1,0 +1,896 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "films": [
+    {
+      "film_title_de": "Grease",
+      "film_title_original": "Grease",
+      "film_year": 1978,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-001",
+      "familiarity_level": 1,
+      "familiarity_reason": "Über Jahrzehnte breit präsentes Musical mit sehr bekannten Songs und Hauptdarstellern.",
+      "directors": [
+        "Randal Kleiser"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Grease",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm; Grease 2 folgte 1982."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Prägender und dauerhaft rezipierter Vertreter der nostalgischen Musicalverfilmung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grease_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Dirty Dancing",
+      "film_title_original": "Dirty Dancing",
+      "film_year": 1987,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-003",
+      "familiarity_level": 1,
+      "familiarity_reason": "Im deutschsprachigen Raum außerordentlich bekannter Tanz- und Liebesfilm mit ikonischem Finale.",
+      "directors": [
+        "Emile Ardolino"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Dirty Dancing",
+        "position": 1,
+        "note": "Erster veröffentlichter Film der Marke; Dirty Dancing 2: Havana Nights (2004) erzählt mit anderen Figuren eine separate Geschichte."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {
+        "Classics": "Kulturell langlebiger Tanzfilm mit ikonischer Choreografie und wiederkehrender Rezeption."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dirty_Dancing",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Moulin Rouge",
+      "film_title_original": "Moulin Rouge!",
+      "film_year": 2001,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-005",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekanntes aufwendiges Musical mit prominenter Besetzung; eher regelmäßigen Kinogängern geläufig.",
+      "directors": [
+        "Baz Luhrmann"
+      ],
+      "production_countries": [
+        "Australien",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung bei den Filmfestspielen Cannes 2001; spätere nationale Kinostarts im selben Jahr.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Moulin_Rouge!",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "La La Land",
+      "film_title_original": "La La Land",
+      "film_year": 2016,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-007",
+      "familiarity_level": 2,
+      "familiarity_reason": "International sehr präsenter jüngerer Musicalerfolg mit bekannten Hauptdarstellern.",
+      "directors": [
+        "Damien Chazelle"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Festivalpremiere in Venedig 2016; deutscher Kinostart 2017. Maßgeblich ist 2016.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/La_La_Land",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Chicago",
+      "film_title_original": "Chicago",
+      "film_year": 2002,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-009",
+      "familiarity_level": 2,
+      "familiarity_reason": "Oscarprämiertes und vielen Kinogängern geläufiges Musical, aber weniger alltagspräsent als Grease.",
+      "directors": [
+        "Rob Marshall"
+      ],
+      "production_countries": [
+        "USA",
+        "Kanada",
+        "Deutschland"
+      ],
+      "series": null,
+      "release_note": "Premiere und erste Kinostarts 2002; deutscher Kinostart 2003.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chicago_(2002_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Mary Poppins",
+      "film_title_original": "Mary Poppins",
+      "film_year": 1964,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-011",
+      "familiarity_level": 1,
+      "familiarity_reason": "Generationenübergreifend bekannte Disney-Figur und weithin vertraute Filmfassung.",
+      "directors": [
+        "Robert Stevenson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Mary Poppins",
+        "position": 1,
+        "note": "Erster Film; Mary Poppins’ Rückkehr (2018) ist eine Fortsetzung."
+      },
+      "release_note": "Premiere am 27. August 1964; spätere Starttermine einzelner Märkte ändern das Filmjahr nicht.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {
+        "Classics": "Kanonisches Studiomusical mit prägender Verbindung von Realfilm, Animation und Songs."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mary_Poppins_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Amadeus",
+      "film_title_original": "Amadeus",
+      "film_year": 1984,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-013",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter preisgekrönter Komponistenfilm mit langlebiger Präsenz im Film- und Musikkanon.",
+      "directors": [
+        "Miloš Forman"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Dauerhaft rezipierter Komponistenfilm mit eigenständiger filmischer Darstellung musikalischer Arbeit."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Amadeus_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "West Side Story",
+      "film_title_original": "West Side Story",
+      "film_year": 1961,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-015",
+      "familiarity_level": 2,
+      "familiarity_reason": "Sehr bekanntes Musical; die konkrete Filmfassung von 1961 ist weniger universell vertraut als der Titel.",
+      "directors": [
+        "Robert Wise",
+        "Jerome Robbins"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Gemeinschaftsregie: Beide offiziellen Regiecredits sind aufgeführt; keine Verwechslung mit der Spielberg-Verfilmung von 2021.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Prägende Übertragung von Bühnentanz, urbanem Raum und Musicaldramaturgie in den Film."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/West_Side_Story_(1961_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        },
+        {
+          "url": "https://www.westsidestory.com/1961-original-film-credits",
+          "supports": [
+            "beide offiziellen Regiecredits",
+            "Besetzung und Gesangsstimmen"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Meine Lieder – meine Träume",
+      "film_title_original": "The Sound of Music",
+      "film_year": 1965,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-017",
+      "familiarity_level": 2,
+      "familiarity_reason": "Internationaler Musicalklassiker, im deutschsprachigen Raum jedoch weniger allgegenwärtig als international.",
+      "directors": [
+        "Robert Wise"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {
+        "Classics": "Kanonisches Filmmusical mit langlebiger internationaler Wirkung und etabliertem Songrepertoire."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "The Rocky Horror Picture Show",
+      "film_title_original": "The Rocky Horror Picture Show",
+      "film_year": 1975,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-019",
+      "familiarity_level": 2,
+      "familiarity_reason": "Langlebiger Kultfilm mit verbreiteten Songs und Vorführungstradition, besonders in Musicalkreisen bekannt.",
+      "directors": [
+        "Jim Sharman"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {
+        "Classics": "Eigenständige Kultfilmtradition mit jahrzehntelanger aktiver Publikumsbeteiligung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Walk the Line",
+      "film_title_original": "Walk the Line",
+      "film_year": 2005,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-021",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Musikerbiografie mit prominenter Besetzung und breiter Kinoauswertung.",
+      "directors": [
+        "James Mangold"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Festivalpremiere in Telluride 2005; deutscher Kinostart 2006.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Walk_the_Line",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Bohemian Rhapsody",
+      "film_title_original": "Bohemian Rhapsody",
+      "film_year": 2018,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-023",
+      "familiarity_level": 1,
+      "familiarity_reason": "Sehr breit wahrgenommene Queen-Verfilmung mit hoher Bekanntheit über Musikfilm-Fankreise hinaus.",
+      "directors": [
+        "Bryan Singer"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Offizieller alleiniger Regiecredit: Bryan Singer. Dexter Fletcher übernahm die Fertigstellung, erhielt jedoch keinen Regiecredit; daher hier nicht als offiziell kredierter Co-Regisseur geführt.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bohemian_Rhapsody_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Rocketman",
+      "film_title_original": "Rocketman",
+      "film_year": 2019,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-025",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Elton-John-Verfilmung; die Filmkenntnis bleibt etwas enger als die Bekanntheit des Musikers.",
+      "directors": [
+        "Dexter Fletcher"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Festivalpremiere Cannes 2019; anschließende reguläre Kinostarts im selben Jahr.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rocketman_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Greatest Showman",
+      "film_title_original": "The Greatest Showman",
+      "film_year": 2017,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-027",
+      "familiarity_level": 2,
+      "familiarity_reason": "Populäres modernes Musical, dessen Songs und Darsteller vielen regelmäßigen Kinogängern vertraut sind.",
+      "directors": [
+        "Michael Gracey"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Premiere und US-Kinostart 2017; deutscher Kinostart 2018.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Greatest_Showman",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Dreamgirls",
+      "film_title_original": "Dreamgirls",
+      "film_year": 2006,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-029",
+      "familiarity_level": 3,
+      "familiarity_reason": "Vor allem Musical- und Soulinteressierten geläufig; prominente Musiker allein begründen keine Film-Ikone.",
+      "directors": [
+        "Bill Condon"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste US-Veröffentlichungen 2006; deutscher Kinostart 2007.",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dreamgirls_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Die Commitments",
+      "film_title_original": "The Commitments",
+      "film_year": 1991,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-031",
+      "familiarity_level": 3,
+      "familiarity_reason": "Langlebiger Bandfilm, heute eher Musikfilmfans und stärker Filminteressierten vertraut.",
+      "directors": [
+        "Alan Parker"
+      ],
+      "production_countries": [
+        "Irland",
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Commitments_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Almost Famous – Fast berühmt",
+      "film_title_original": "Almost Famous",
+      "film_year": 2000,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-033",
+      "familiarity_level": 3,
+      "familiarity_reason": "Geschätzter Rock- und Jugendfilm mit besonderer Bekanntheit unter Film- und Musikfans.",
+      "directors": [
+        "Cameron Crowe"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Festivalpremiere Toronto 2000; deutscher Kinostart 2001.",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Almost_Famous",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "School of Rock",
+      "film_title_original": "The School of Rock",
+      "film_year": 2003,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-035",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit zugängliche und bekannte Musikkomödie mit Jack Black.",
+      "directors": [
+        "Richard Linklater"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/School_of_Rock",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        },
+        {
+          "url": "https://www.filmportal.de/film/school-of-rock_b08ce6e6b6b3420a8afb2e37f54ccc13",
+          "supports": [
+            "Originaltitel The School of Rock"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Inside Llewyn Davis",
+      "film_title_original": "Inside Llewyn Davis",
+      "film_year": 2013,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-037",
+      "familiarity_level": 3,
+      "familiarity_reason": "Coen-Film mit Folk-Schwerpunkt, eher cinephilem Publikum geläufig.",
+      "directors": [
+        "Joel Coen",
+        "Ethan Coen"
+      ],
+      "production_countries": [
+        "USA",
+        "Frankreich",
+        "Vereinigtes Königreich"
+      ],
+      "series": null,
+      "release_note": "Cannes-Aufführung 2013. Cannes führt zugleich 2012 als Produktionsjahr; für das Quiz gilt die erste Veröffentlichung 2013.",
+      "director_note": "Gemeinschaftsregie von Joel Coen und Ethan Coen; beide Credits aufgeführt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Arthouse": "Elliptische, kreisförmige Erzählweise, ausführliche Musikauftritte und eine bewusst unheroische Künstlerfigur."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Inside_Llewyn_Davis",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        },
+        {
+          "url": "https://www.festival-cannes.com/en/f/inside-llewyn-davis/",
+          "supports": [
+            "Cannes-Auswahl 2013",
+            "Abgrenzung Produktionsjahr 2012"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Control",
+      "film_title_original": "Control",
+      "film_year": 2007,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-039",
+      "familiarity_level": 4,
+      "familiarity_reason": "Spezialisierte Joy-Division-Biografie; für ein breites Kinopublikum eher eine Entdeckung.",
+      "directors": [
+        "Anton Corbijn"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "Japan",
+        "Australien"
+      ],
+      "series": null,
+      "release_note": "Cannes-Premiere 2007, deutscher Kinostart 2008.",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Arthouse": "Autorenporträt mit prägnanter Schwarz-Weiß-Gestaltung und beobachtender Verbindung von Bühne und Alltag."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Control_(2007_film)",
+          "supports": [
+            "Regie",
+            "Filmfassung und Besetzung"
+          ],
+          "checked_on": "2026-09-27"
+        },
+        {
+          "url": "https://www.quinzaine-cineastes.fr/en/film/control",
+          "supports": [
+            "Cannes-Auswahl 2007",
+            "Regie",
+            "Vorlage und Besetzung"
+          ],
+          "checked_on": "2026-09-27"
+        },
+        {
+          "url": "https://www.bfi.org.uk/film/9de51476-e336-5a3b-a4fa-7bbc7f60b39a/control",
+          "supports": [
+            "Produktionsländer gemäß BFI-Katalog"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Sing Street",
+      "film_title_original": "Sing Street",
+      "film_year": 2016,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-041",
+      "familiarity_level": 4,
+      "familiarity_reason": "Kleinerer irischer Bandfilm, trotz guter Reputation außerhalb interessierter Kreise weniger bekannt.",
+      "directors": [
+        "John Carney"
+      ],
+      "production_countries": [
+        "Irland",
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Festivalpremiere Sundance 2016, danach nationale Kinostarts 2016.",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sing_Street",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Flashdance",
+      "film_title_original": "Flashdance",
+      "film_year": 1983,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-043",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Tanzfilm und Soundtrack der 1980er; konkrete Filmkenntnis enger als die Bekanntheit des Titelsongs.",
+      "directors": [
+        "Adrian Lyne"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Flashdance",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Saturday Night Fever",
+      "film_title_original": "Saturday Night Fever",
+      "film_year": 1977,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-045",
+      "familiarity_level": 1,
+      "familiarity_reason": "Travoltas Discobilder und die Bee-Gees-Musik sind auch jenseits regelmäßiger Kinobesuche breit bekannt.",
+      "directors": [
+        "John Badham"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Saturday Night Fever",
+        "position": 1,
+        "note": "Erster Film der Tony-Manero-Geschichte; Staying Alive (1983) ist die Fortsetzung."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {
+        "Classics": "Prägender Film der Discokultur, dessen Wirkung Musik, Tanz und Filmgeschichte verbindet."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Fever",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Evita",
+      "film_title_original": "Evita",
+      "film_year": 1996,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-047",
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannter Musicalstoff, dessen konkrete Filmfassung heute eher Musikfilm- und Madonna-Interessierten geläufig ist.",
+      "directors": [
+        "Alan Parker"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Premiere und erste US-Veröffentlichung 1996; mehrere internationale Kinostarts erst 1997.",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Evita_(1996_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Across the Universe",
+      "film_title_original": "Across the Universe",
+      "film_year": 2007,
+      "subdomain": "Musik",
+      "reference_question_id": "MUS-202609-P01-L-049",
+      "familiarity_level": 4,
+      "familiarity_reason": "Spezialisiertes Beatles-Jukebox-Musical mit deutlich geringerer breiter Filmpräsenz als die verwendeten Songs.",
+      "directors": [
+        "Julie Taymor"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Across_the_Universe_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer"
+          ],
+          "checked_on": "2026-09-27"
+        }
+      ]
+    }
+  ]
+}

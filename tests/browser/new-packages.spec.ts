@@ -67,16 +67,16 @@ for (const both of [false, true]) {
           };
         }),
     );
-    expect(saved.questions).toHaveLength(2567);
+    expect(saved.questions).toHaveLength(2797);
     expect(new Set(saved.questions.map((q: any) => q.knowledgeId)).size).toBe(
-      2237,
+      2437,
     );
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Arthouse")),
-    ).toHaveLength(389);
+    ).toHaveLength(407);
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Classics")),
-    ).toHaveLength(557);
+    ).toHaveLength(631);
     const round = saved.rounds.at(-1);
     expect(round.topic).toBe(both ? "Classics + Arthouse" : "Arthouse");
     expect(

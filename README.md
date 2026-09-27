@@ -2,6 +2,8 @@
 
 Spielbare deutsche React-/TypeScript-App für kurze Filmquizrunden mit dauerhaftem Lernfortschritt im Browser. Kein Konto, Backend oder KI-Dienst erforderlich.
 
+Aktueller Inhalt nach der [Musik-Ergänzung](docs/Musik-Ergaenzung.md), 27.09.2026: **2.797 Fragen, 2.437 Wissensziele und 325 Filme**. Musik umfasst jetzt 238 Fragen zu 26 Filmen. Zwölf unveränderte CSV-Pakete, Filmdaten und vier Bekanntheitsgruppen; vorhandene Fortschritte und Freischaltungen bleiben erhalten. Paketabschnitte weiter unten dokumentieren die historischen Importstände.
+
 ## Starten
 
 **Online testen:** [Wissensquiz – Dein Filmkosmos](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Öffentlich erreichbar, ohne ChatGPT-Anmeldung. Für Online-Fortschritt ein eigenes Quiz-Konto verwenden; Gastspiel bleibt möglich. Der lokale Rechner muss dafür nicht laufen.
@@ -24,7 +26,7 @@ npm run preview
 ## Spielen
 
 - **Filmgenres kombinieren:** Sci-Fi, Action, Horror, Fantasy, Komödie, Western, Drama, Abenteuer, Musik und Thriller können gemeinsam oder einzeln ausgewählt werden. „Alle Genres abwählen“ erleichtert die Einzelwahl. Vorhandene Genre-Bilder erscheinen auch in der Auswahl und den Filmkarten. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen dienen nur der Fortschrittsübersicht. Spielmodus, Genres, Zusatzkategorien und manuelle Schwierigkeitsstufen bleiben im Spielstand gespeichert.
-- **Schwierigkeit und Bekanntheit:** Filmreise öffnet je Genre weitere Stufen und Filmgruppen. Im Freien Spiel und der Rekordrunde sind alle Stufen und vier Bekanntheitsgruppen sofort frei kombinierbar; Auswahl und erreichte Freischaltungen bleiben gespeichert. Sichere Antworten abgeschlossener Runden aus allen Modi zählen. [Regeln und redaktionelle Einordnung aller 300 Filme](docs/Spielmodi-und-Bekanntheit.md).
+- **Schwierigkeit und Bekanntheit:** Filmreise öffnet je Genre weitere Stufen und Filmgruppen. Im Freien Spiel und der Rekordrunde sind alle Stufen und vier Bekanntheitsgruppen sofort frei kombinierbar; Auswahl und erreichte Freischaltungen bleiben gespeichert. Sichere Antworten abgeschlossener Runden aus allen Modi zählen. [Regeln und redaktionelle Einordnung der Filme](docs/Spielmodi-und-Bekanntheit.md).
 - Jede Frage zeigt ihr Genre und ihre Schwierigkeit, auch nach der Antwort. Unter Einstellungen & Daten → Hinweise an der Frage sind beide Angaben unabhängig abschaltbar; die Auswahl bleibt gespeichert.
 - **Ton & Vibration:** kurze Soundeffekte für Start, Antworten, nächste Frage, Zeitablauf und Abschluss. Ton, optionale Vibration und ein Probesignal gesammelt unter Profil → Optionen → Ton & Vibration. Kein Ton beim bloßen Seitenladen. Einstellungen bleiben im Spielstand erhalten, bei Konten auch online; Signale funktionieren auch offline. Vibration lässt sich unabhängig von der Geräteunterstützung speichern. Fehlende Schnittstellen und abgelehnte Ausgabe werden erklärt.
 - Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action), Geist (Horror) und Zauberstab (Fantasy), lächelndes Gesicht (Komödie) Cowboyhut (Western) und Theatermaske (Drama). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.

@@ -1,5 +1,7 @@
 # Kopierfertiger Auftrag für neue Wissensquiz-Fragen
 
+**Nachtrag:** Das mit diesem Prompt beauftragte Musik-Paket wurde am 27.09.2026 geliefert und eingebunden. Der folgende Auftrag und die beigefügte 300-Filme-Liste dokumentieren den Stand davor. Für den nächsten Auftrag mit Abenteuer beginnen und die neuen Musikfilme beim Bestandsabgleich berücksichtigen; siehe [Musik-Ergänzung](Musik-Ergaenzung.md).
+
 Stand: 27.09.2026. Den folgenden Auftrag vollständig in den Fragen-Chat kopieren. Zusätzlich die Datei `Fragenbestand-2026-09-27.json` mitgeben; sie enthält die Bestandszahlen und alle 300 bisherigen Filmfassungen. Für den Abgleich einzelner Wissensziele werden außerdem die bisherigen Fragenpakete benötigt, sofern sie dort nicht mehr verfügbar sind.
 
 ---

@@ -1,5 +1,7 @@
 # Prüfnachweis – 26. September 2026
 
+Aktualisierung Musik-Ergänzung, 27.09.2026: 131 Logik-/Datenbanktests, Produktions-Build und 64 unterschiedliche Browserfälle erfolgreich (62 im vollständigen Lauf; zwei nach Aktualisierung veralteter Bestandszahlen gezielt erneut bestanden). Neuer Musiktest prüft Gruppe-1-Einstieg, Antwort, Filmdaten und Offline-Fortsetzen bei 390 Pixeln. Roh-CSV/JSON per SHA-256, alle 25 Referenzen, 150 Ziele/30 Varianten, Kategoriezuordnung, Film-/Jahres-/Regieergänzung und Erhalt aller 2.567 alten Fragevorlagen geprüft. Alte Musik-Freischaltungen, auch impliziter Gruppe-2-Zugang ohne Lernereignisse, aktive Runden, Ereignisse und Lernplanung bleiben erhalten. Keine unabhängige Vollprüfung der neuen Filmaussagen. Diff-Prüfung erfolgreich.
+
 Aktualisierung 27.09.2026: Nach Überarbeitung der Rundenhinweise 125 Logik-/Datenbanktests, Build und alle 63 Browserfälle erfolgreich (61 Chromium, zwei WebKit). Der kompakte Spieleinstieg prüft die modusabhängige Erklärung, zunächst geschlossene Details, Öffnen/Schließen mit Enter, Zurücksetzen beim Moduswechsel, Rekord-Zeithinweise sowie die 320-Pixel-Ansicht ohne horizontalen Überlauf. Mobile Screenshots geprüft. Auswahlregeln, Speicherung und Lernstände unverändert; Diff-Prüfung erfolgreich.
 
 ## Umgebung und Ergebnis

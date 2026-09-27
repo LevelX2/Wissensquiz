@@ -2,6 +2,8 @@
 
 Stand: 26.09.2026. Die Ergänzung gehört zu den bestehenden Genres und Film-/Reihenthemen. Es gibt keine neue Auswahl „Filmwissen“.
 
+Erweiterung 27.09.2026: [25 Musikfilme](Musik-Ergaenzung.md) ergänzen den Katalog auf 325 Filme, 325 Jahresfragen und 312 neue Regiefragen. Die 13 bereits vorhandenen Regieziele bleiben erhalten. Bestehende generierte Vorlagen verwenden weiterhin den ursprünglichen Alternativenpool mit 300 Filmen; neue Vorlagen pinnen den Pool auf 325. Neue Musikangaben stammen aus dem gelieferten Redaktionspaket, ohne unabhängige Vollprüfung. Die Zahlen der folgenden Abschnitte beschreiben den Initialstand.
+
 ## Umfang und Identität
 
 300 verschiedene Filmfassungen im gelieferten Bestand erhalten jeweils eine Jahresfrage. Bei 287 Filmen kommt eine Regiefrage hinzu; bei 13 Filmen decken vorhandene Fragen das Regiewissen bereits ab. Diese bisherigen Fragen und Wissensziele bleiben unverändert. Insgesamt 587 neue Fragen/Ziele, damit 2.567 Fragen und 2.237 Wissensziele. Die 258 Themen und zwölf Genres bleiben bestehen.

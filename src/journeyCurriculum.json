@@ -666,12 +666,29 @@
       ]
     },
     "Musik": {
-      "first": 2,
+      "first": 1,
       "difficultyTargets": [
         2,
         2
       ],
       "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 6,
+          "goals": [
+            "K-MUS-202609-P01-L-001",
+            "K-MUS-202609-P01-L-002",
+            "K-MUS-202609-P01-L-003",
+            "K-MUS-202609-P01-L-004",
+            "K-MUS-202609-P01-L-011",
+            "K-MUS-202609-P01-L-012",
+            "K-MUS-202609-P01-L-023",
+            "K-MUS-202609-P01-L-024",
+            "K-MUS-202609-P01-L-045",
+            "K-MUS-202609-P01-L-046"
+          ]
+        },
         {
           "level": 2,
           "difficulty": "leicht",
@@ -679,6 +696,36 @@
           "goals": [
             "K-CLA-05-01",
             "K-CLA-05-02"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 6,
+          "goals": [
+            "K-MUS-202609-P01-L-029",
+            "K-MUS-202609-P01-L-030",
+            "K-MUS-202609-P01-L-031",
+            "K-MUS-202609-P01-L-032",
+            "K-MUS-202609-P01-L-033",
+            "K-MUS-202609-P01-L-034",
+            "K-MUS-202609-P01-L-037",
+            "K-MUS-202609-P01-L-038",
+            "K-MUS-202609-P01-L-047",
+            "K-MUS-202609-P01-L-048"
+          ]
+        },
+        {
+          "level": 4,
+          "difficulty": "leicht",
+          "target": 4,
+          "goals": [
+            "K-MUS-202609-P01-L-039",
+            "K-MUS-202609-P01-L-040",
+            "K-MUS-202609-P01-L-041",
+            "K-MUS-202609-P01-L-042",
+            "K-MUS-202609-P01-L-049",
+            "K-MUS-202609-P01-L-050"
           ]
         }
       ]

@@ -132,7 +132,12 @@ export function retainJourneyUnlocks(state: State) {
   const earned = { ...state.journey?.earned };
   for (const genre of new Set(state.questions.map(genreOf))) {
     const p = progress(genre);
-    if (p.mediumUnlocked || p.familiarity > p.first || earned[genre])
+    if (
+      p.first > 1 ||
+      p.mediumUnlocked ||
+      p.familiarity > p.first ||
+      earned[genre]
+    )
       earned[genre] = {
         difficulty: p.hardUnlocked ? 2 : p.mediumUnlocked ? 1 : 0,
         familiarity: p.familiarity,

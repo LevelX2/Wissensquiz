@@ -1,5 +1,7 @@
 # Fragenimport – Vertrag Version 1
 
+Aktuelle Ergänzung (27.09.2026): [Musik-Paket](Musik-Ergaenzung.md) mit 180 gelieferten Fragen und 25 Filmdatensätzen integriert. Zwölf CSV-Pakete: 2.160 Fragen/1.800 Ziele; einschließlich 637 Jahres-/Regieergänzungen 2.797 Fragen/2.437 Ziele. Die folgenden Paketabschnitte dokumentieren ihren jeweiligen historischen Importstand.
+
 ## Tatsächlich gelieferte Quelle
 
 `SciFi_Quiz_180_Fragen.csv`: UTF-8, 31 Spalten, Komma und vollständig gequotete Felder. Alle 180 Datensätze wurden mit dem tatsächlichen App-Parser ausgewertet. Kein Datensatz musste ausgeschlossen werden; 150 Wissensziel-IDs, 30 explizite Varianten, 39 Themen, 50 leichte Wissensziele für die begrenzte Auszeichnung. Alle vier Antwortfeedbacks, Vertiefungen, Merksätze und Quellenfelder sind vorhanden. Vollständiger struktureller Bericht: [importbericht.json](importbericht.json).

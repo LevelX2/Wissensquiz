@@ -2,12 +2,14 @@
 
 ## Aktueller Stand
 
+Musik-Ergänzung vom 27.09.2026: aktueller Gesamtbestand **2.797 Fragen, 2.437 Ziele, 325 Filme, 283 Film-/Reihenthemen**. Zwölf CSV-Pakete mit 2.160 Einträgen und 1.800 Zielen; zusätzlich 637 Jahres-/Regieziele. Musik jetzt 238 Fragen/208 Ziele/26 Filme. Neue Bekanntheitsgruppen und Filmdaten eingebunden, historische Musik-Freischaltungen und Antwortvorlagen erhalten. Details und Quellenstatus unter [Musik-Ergänzung](../docs/Musik-Ergaenzung.md). Weiter unten dokumentierte ältere Zahlen gehören zu den damaligen Umsetzungsschritten.
+
 - Spielbare deutsche React-/TypeScript-Testversion mit Filmreise, Freiem Spiel und Rekordrunde umgesetzt.
 - Filmgenres als Mehrfachauswahl; manuelle Schwierigkeitsstufen nur bei freier Auswahl; ohne Auswahl einzelner Filme/Reihen. Alte Runden und Spielstände bleiben erhalten.
 - Genre und Schwierigkeit jeder Frage sichtbar, unabhängig abschaltbar und gespeichert. Die bisherigen 720 Vertiefungen auf Darstellernamen geprüft; 627 Ergänzungen zu 125 Filmen, mit Quellen und versionsgenauer Zuordnung. Rohfragen und Spielstände erhalten.
 - Persönliche Bestenliste aller abgeschlossenen Rekordspiele, filterbar nach Genre-Kombination, Stufen und Rundengröße; vergleichbare Kategorien getrennt, Spiele mit Rückblick. Persönliche Liste offline; automatische gemeinsame Trainingsrangliste für bestätigte Konten implementiert. Profil mit Spiel-/Antwortstatistik, Trefferquote, Level und XP.
 - Kurze abschaltbare Soundeffekte, optionale Vibration, Genre-Icons und deutlicher gesperrter/erworbener Zustand des vorhandenen Sci-Fi-Abzeichens. Weitere Genre-Abzeichen noch offen.
-- 1.980 gelieferte Fragen aus elf Paketen, 1.650 Wissensziele und 330 Varianten; 258 Film-/Reihenthemen und zwölf Genres. Classics: 438 Fragen, 360 Ziele, 61 Filme; Arthouse: 306 Fragen, 258 Ziele, 44 Filme. Alle 258 Classics- und 126 Arthouse-Bestandsreferenzen passend aufgelöst; keine fehlenden oder abweichenden IDs. Kategorien teilen 48 Fragen; gemeinsame Auswahl 696 eindeutige Fragen. Sämtliche Datensätze strukturell akzeptiert.
+- 2.160 gelieferte Fragen aus zwölf Paketen, 1.800 Wissensziele und 360 Varianten; 283 Film-/Reihenthemen und zwölf Genres. Einschließlich Jahres-/Regieergänzungen Classics: 631 Fragen/543 Ziele/69 Filme; Arthouse: 407/357/46. Alle 258 Classics- und 126 Arthouse-Bestandsreferenzen passend aufgelöst; neue Musik-Tags aus der Quelle. Sämtliche Datensätze strukturell akzeptiert.
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
 - Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
 - Lokales Git ohne Remote; Integrationsbranch `main`.
@@ -16,7 +18,7 @@
 
 ## Offen
 
-- Filmreise, Freies Spiel und freie Rekordauswahl mit vier Bekanntheitsgruppen umgesetzt. 300 Filme redaktionell eingeordnet; feste erreichbare Ziele je Genre, erworbene Freischaltungen und Altstände erhalten. Einteilung anhand Nutzerfeedback weiter prüfen. [Fachvertrag](../docs/Spielmodi-und-Bekanntheit.md).
+- Filmreise, Freies Spiel und freie Rekordauswahl mit vier Bekanntheitsgruppen umgesetzt. 325 Filme redaktionell eingeordnet; feste erreichbare Ziele je Genre, erworbene Freischaltungen und Altstände erhalten. Einteilung anhand Nutzerfeedback weiter prüfen. [Fachvertrag](../docs/Spielmodi-und-Bekanntheit.md).
 - Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
 - Öffentliche Sites-Adresse ohne ChatGPT-Zugangsschranke verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
 - Aktuelle Veröffentlichung: Sites-Version 29, App-Commit `025e258`, Status `succeeded`: verständliche kurze Modushinweise mit aufklappbarer Erklärung zu Auswahl und Ablauf. 125 Logik-/Datenbanktests, Build und alle 63 Browserprüfungen erfolgreich. Nachweis unter docs/Sites-Betrieb.md. Physische Geräte-/Hörabnahme und Feedback zur redaktionellen Einordnung offen.

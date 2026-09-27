@@ -2,6 +2,8 @@
 
 Stand: 27.09.2026. Auf Nutzerauftrag umgesetzt. Ersetzt den vorherigen Entwurf und für neue Freischaltungen die pauschale 20-Ziele-Regel.
 
+Musik-Erweiterung am selben Tag: 325 Filme, Bekanntheitsgruppen insgesamt 69/126/92/38. [Musik](Musik-Ergaenzung.md) beginnt für neue Spieler jetzt in Gruppe 1; bestehender Gruppe-2-Zugang wird vor der Paketergänzung erhalten. Nur die zuvor fehlenden Musik-Gruppen 1/3/4 erhalten neue feste Ziele. Die ursprünglichen Schwierigkeitsgrenzen und Gruppe-2-Zielmenge bleiben unverändert. Zahlen mit 300 Filmen unten dokumentieren die ursprüngliche Einordnung.
+
 ## Redaktionelle Einordnung
 
 Vier Gruppen: **1 Film-Ikonen**, **2 Bekannte Filme**, **3 Kennerfilme**, **4 Entdeckungen**. Bezugsrahmen: breites deutschsprachiges Kinopublikum. Redaktionelle Ersteinschätzung, keine repräsentative Bekanntheitsmessung, Qualitätswertung oder persönliche Vertrautheit. Fortsetzungen und Remakes separat beurteilt. Der Katalog enthält überwiegend bekannte Filme; eine Viertelquote wurde nicht erzwungen: 64 / 114 / 87 / 35 Filme (21,3 / 38,0 / 29,0 / 11,7 Prozent).

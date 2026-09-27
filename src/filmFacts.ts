@@ -130,7 +130,10 @@ function directorOptions(
   genres: Map<string, string>,
 ) {
   const blocked = [...f.directors, ...(f.blockedDirectors ?? [])];
+  // Existing answer templates must not change when more films are imported.
+  // The initial 300 films used this frozen pool; each later batch pins its size.
   const candidates = facts
+    .slice(0, f.optionCatalogSize ?? 300)
     .filter((other) => !other.directors.some((d) => blocked.includes(d)))
     .sort(
       (a, b) =>
@@ -227,7 +230,8 @@ export function addFilmFacts(questions: Question[]) {
           fact_kind: kind,
           fact_catalog_id: f.id,
           question_type: kind === "year" ? "Erscheinungsjahr" : "Regie",
-          verification_status: "Quellenabgleich 2026-09-26",
+          verification_status:
+            f.verificationStatus ?? "Quellenabgleich 2026-09-26",
           reference_question_id: f.referenceId,
         },
       };
