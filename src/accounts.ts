@@ -2,6 +2,7 @@ import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 import { z } from "zod";
 import { openDatabase, read, restore, validateBackup } from "./storage";
 import type { State } from "./model";
+import { decodeCloudState, encodeCloudState } from "./cloudCodec";
 
 const configSchema = z.object({
   enabled: z.boolean(),
@@ -90,7 +91,7 @@ export async function cloudSave(
 ) {
   const checked = validateBackup(state);
   const { data, error, status } = await client.rpc("quiz_save_state", {
-    payload: checked,
+    payload: await encodeCloudState(checked),
     expected_revision: revision,
     expected_owner: ownerId,
   });
@@ -147,7 +148,10 @@ export async function cloudRead(client: SupabaseClient, ownerId: string) {
     throw new Error("Der Online-Spielstand konnte nicht geladen werden.");
   if (!data) return null;
   const result = cloudSchema.parse(data);
-  return { ...result, state: validateBackup(result.state) };
+  return {
+    ...result,
+    state: validateBackup(await decodeCloudState(result.state)),
+  };
 }
 export async function cloudRevision(key: string): Promise<number> {
   const db = await openDatabase();

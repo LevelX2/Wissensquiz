@@ -96,6 +96,14 @@ const stateSchema = z.object({
     questionHistory: z.enum(["after", "always", "hidden"]).optional(),
     learningPath: z.boolean().optional(),
     allDifficulties: z.boolean().optional(),
+    roundSetup: z
+      .object({
+        mode: z.enum(["entdecken", "ueben", "rekord"]),
+        genres: z.array(id).max(20000).nullable(),
+        categories: z.array(z.enum(["Classics", "Arthouse"])).max(2),
+        difficulties: z.array(z.enum(["leicht", "mittel", "schwer"])).max(3),
+      })
+      .optional(),
   }),
   experience: z.number().int().nonnegative(),
   records: z.record(

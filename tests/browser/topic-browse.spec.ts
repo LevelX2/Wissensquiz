@@ -6,7 +6,7 @@ import { emptyState, type State } from "../../src/model";
 import { genreOf } from "../../src/filters";
 import { isCategory, type Category } from "../../src/categories";
 
-test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung und übernehmen Genre oder Kategorie beim Spielen", async ({
+test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzelne Filmauswahl", async ({
   page,
 }) => {
   await page.clock.install({ time: new Date("2026-09-27T12:00:00+02:00") });
@@ -93,34 +93,12 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung und überne
         .getByRole("button", { name: "Filme & Reihen ansehen" })
         .click();
     }
-    await filmCard.getByRole("button", { name: "Thema spielen" }).click();
-    await expect(
-      page.getByRole("button", { name: "Losspielen" }),
-    ).toBeEnabled();
-    await expect(page.getByLabel("Thema wählen")).toHaveValue(film);
-    if (name !== "Horror")
-      await expect(
-        page.getByLabel(`Nur ${name}`, { exact: true }),
-      ).toBeChecked();
-    else
-      await expect(
-        page
-          .getByRole("group", { name: "Filmgenres", exact: true })
-          .locator("input:checked"),
-      ).toHaveCount(1);
+    await expect(filmCard.getByRole("button")).toHaveCount(0);
   }
-  await page.getByRole("button", { name: "Losspielen" }).click();
-  await expect(page.locator(".question-card h1")).toBeVisible();
+  await page.getByRole("button", { name: "Spielen", exact: true }).click();
+  await expect(page.getByLabel("Thema wählen")).toHaveCount(0);
   const after = await readState();
-  const round = after.rounds.at(-1)!;
-  expect(round.topic).toBe("Arthouse: Die fabelhafte Welt der Amélie");
-  expect(
-    round.questions.every(
-      (q) =>
-        q.topic === "Die fabelhafte Welt der Amélie" &&
-        isCategory(q, "Arthouse"),
-    ),
-  ).toBe(true);
+  expect(after).toEqual(before);
   expect(after.events).toEqual(before.events);
   expect(after.favorites).toEqual(before.favorites);
 });

@@ -3,7 +3,7 @@
 ## Aktueller Stand
 
 - Spielbare deutsche React-/TypeScript-Testversion mit Entdecken, Besser werden und Rekordrunde umgesetzt.
-- Filmgenres als Mehrfachauswahl; manuelle Schwierigkeitsstufen nur bei freier Auswahl; einzelne Filme/Reihen nur als optionale Verfeinerung. Alte Runden und Spielstände bleiben erhalten.
+- Filmgenres als Mehrfachauswahl; manuelle Schwierigkeitsstufen nur bei freier Auswahl; ohne Auswahl einzelner Filme/Reihen. Alte Runden und Spielstände bleiben erhalten.
 - Genre und Schwierigkeit jeder Frage sichtbar, unabhängig abschaltbar und gespeichert. Die bisherigen 720 Vertiefungen auf Darstellernamen geprüft; 627 Ergänzungen zu 125 Filmen, mit Quellen und versionsgenauer Zuordnung. Rohfragen und Spielstände erhalten.
 - Persönliche Bestenliste aller abgeschlossenen Rekordspiele, filterbar nach Genre-Kombination, Stufen und Rundengröße; vergleichbare Kategorien getrennt, Spiele mit Rückblick. Persönliche Liste offline; automatische gemeinsame Trainingsrangliste für bestätigte Konten implementiert. Profil mit Spiel-/Antwortstatistik, Trefferquote, Level und XP.
 - Kurze abschaltbare Soundeffekte, optionale Vibration, Genre-Icons und deutlicher gesperrter/erworbener Zustand des vorhandenen Sci-Fi-Abzeichens. Weitere Genre-Abzeichen noch offen.
@@ -54,7 +54,7 @@ Entdecken bevorzugt auf Nutzerwunsch tatsächlich neue Ziele; zuletzt beantworte
 Aktuelle Bedienungsverbesserungen: alle Genres gesammelt abwählbar; Genre-Bilder auch in kleinen Auswahlfeldern und Filmkarten. Kontoname und ausführliche Speicherhinweise im Profil; feste farbige Statusmarkierung am Profil und in der Runde, ohne springende Meldungszeile. Schnelle Änderungen werden innerhalb von 800 ms für die Online-Sicherung gebündelt. Ranglisten laden höchstens zehn Sekunden, Fehler erlauben erneuten Versuch. Nutzer bestätigte nach Schließen alter Tabs die aktuelle Version mit eigener Highscores-Navigation; alte freiwillige Freigabe gehörte zur überholten Offline-Oberfläche.
 
 
-Spieleinstieg ohne große Werbefläche, Losspielen direkt unter der Moduswahl. Gleichmäßiges Genre-Raster; freie Schwierigkeit und Stufenfortschritte separat aufklappbar, gemeinsame Genre-Bilder. Normaler Lernpfad berücksichtigt automatisch alle freigeschalteten Stufen. Classics lässt sich mit Genres und Filmverfeinerung kombinieren, ohne doppelte Fragen oder Lernstände. Arthouse ist als weitere kuratierte Zusatzkategorie einzeln und gemeinsam mit Classics wählbar (Vereinigung, keine Doppelzählung). Neue Genres Abenteuer/Musik/Thriller haben teils weniger als 20 Ziele je Stufe; die Oberfläche erklärt die derzeitige Freischaltgrenze.
+Spieleinstieg ohne große Werbefläche, Losspielen direkt unter der Moduswahl. Gleichmäßiges Genre-Raster; freie Schwierigkeit und Stufenfortschritte separat aufklappbar, gemeinsame Genre-Bilder. Normaler Lernpfad berücksichtigt automatisch alle freigeschalteten Stufen. Classics lässt sich mit Genres kombinieren, ohne doppelte Fragen oder Lernstände. Arthouse ist als weitere kuratierte Zusatzkategorie einzeln und gemeinsam mit Classics wählbar (Vereinigung, keine Doppelzählung). Neue Genres Abenteuer/Musik/Thriller haben teils weniger als 20 Ziele je Stufe; die Oberfläche erklärt die derzeitige Freischaltgrenze.
 
 
 Fragenstatistik in Entdecken/Besser werden: konkrete Frage-ID mit beantwortet/richtig/falsch; aufklappbar Zeitabläufe, geratene Treffer und gemeinsame Variantenbilanz nach Wissensziel-ID. Rein aus bestehenden Ereignissen aller Modi/Rundenstatus abgeleitet, keine Speicherung oder Migration zusätzlicher Zähler.
@@ -71,4 +71,9 @@ Nach Beantwortung neuer und bestehender Fragen: geschlossene Klappe „Filmdaten
 
 Rundenfortschritt farbig und mit Symbolen: richtig grün/✓, falsch rot/×, Zeitablauf rot/–, offen grau. Aktuelle Frage mit deutlicher Umrandung und zusätzlichem Punkt, solange unbeantwortet. Beschriftungen für Screenreader; keine Änderung von Ereignissen oder Lernständen.
 
-Themen und Filmblöcke: Die doppelte große Genreübersicht am Ende von Spielen ist entfernt. Themenkarten öffnen über „Filme & Reihen ansehen“ eine passende Unteransicht mit Rückweg; eine Filmauswahl erhält Genre/Kategorie für die Runde. Favoriten bleiben bis zu drei angeheftete Film-/Reihenblöcke ausschließlich in der Sammlung; ihre Bedeutung wird dort erklärt. Keine Änderung an Lernregeln oder Spielständen.
+Themen und Filmblöcke: Die doppelte große Genreübersicht am Ende von Spielen ist entfernt. Themenkarten öffnen über „Filme & Reihen ansehen“ eine passende Fortschrittsübersicht mit Rückweg. Auswahl einzelner Filme/Reihen und Favoritenfunktion sind auf aktualisierten Nutzerwunsch entfernt. Historische Runden und Sicherungen bleiben lesbar.
+
+Spielmodus, Genres, Zusatzkategorien und manuelle Stufen werden schon beim Auswählen gespeichert, als Gast lokal und angemeldet über die bestehende automatische Kontosicherung. Bisherige Einstellungen (Ton, Vibration, Genre-/Schwierigkeitshinweise, Fragenstatistik, freie Stufenwahl) bleiben ebenfalls erhalten. Keine Migration von Lernfortschritten oder Änderung der Rohquellen.
+
+
+Online-Speicherung kompakt: vollständiger Fragenkatalog gzip/base64, Runden mit ID-/Versionsverweisen und erhaltenen Antwortvarianten. Synthetischer Katalog von 8,0 auf 1,54 MB reduziert (80,8 %). Gemeinsame Highscores speichern bereits nur Ergebniswerte; vorhandener Index und 50er-Seiten bleiben erhalten. Persönliche Ranglisten verwenden ihre Berechnung bei Filterwechseln erneut. Keine SQL-Migration; lokale Stände und JSON-Exporte bleiben vollständig. Alte App-Tabs für das Lesen neuer kompakter Online-Stände aktualisieren.

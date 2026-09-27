@@ -52,6 +52,12 @@ export const questionSchema = z
 export type Question = z.infer<typeof questionSchema>;
 export type Mode = "entdecken" | "ueben" | "rekord";
 export type Difficulty = Question["difficulty"];
+export interface RoundSetup {
+  mode: Mode;
+  genres: string[] | null;
+  categories: ("Classics" | "Arthouse")[];
+  difficulties: Difficulty[];
+}
 export interface QuizFilters {
   genres: string[];
   difficulties: Difficulty[];
@@ -121,7 +127,7 @@ export interface State {
   events: AnswerEvent[];
   learning: Record<string, Learning>;
   badges: string[];
-  favorites: string[];
+  favorites: string[]; // Legacy backup field; no longer used by the app.
   reports: Report[];
   imports: ImportReport[];
   settings: {
@@ -133,6 +139,7 @@ export interface State {
     questionHistory?: "after" | "always" | "hidden";
     learningPath?: boolean; // Legacy preference retained for old backups.
     allDifficulties?: boolean;
+    roundSetup?: RoundSetup;
   };
   experience: number;
   records: Record<string, { points: number; roundId: string }>;

@@ -2,6 +2,7 @@ import { test, expect, type Page } from "@playwright/test";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
 import { packages } from "../../src/packages";
+import { startRound } from "../../src/engine";
 import type { Question, State } from "../../src/model";
 const imported = packages.flatMap(
   (p) => importCsv(readFileSync(`public${p.path}`, "utf8")).questions,
@@ -9,6 +10,60 @@ const imported = packages.flatMap(
 async function launch(page: Page) {
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+}
+// Historical single-film rounds remain resumable although new film selection is removed.
+async function resumeFilmFixture(page: Page, topic: string) {
+  const state = await page.evaluate(
+    () =>
+      new Promise<State>((resolve, reject) => {
+        const req = indexedDB.open("wissensquiz");
+        req.onerror = () => reject(req.error);
+        req.onsuccess = () => {
+          const db = req.result;
+          const read = db
+            .transaction("state")
+            .objectStore("state")
+            .get("current");
+          read.onsuccess = () => {
+            db.close();
+            resolve(read.result);
+          };
+        };
+      }),
+  );
+  const round = startRound(state, {
+    mode: "entdecken",
+    topic,
+    difficulty: "leicht",
+  });
+  const q = state.questions.find(
+    (q) =>
+      q.topic === topic &&
+      q.difficulty === "leicht" &&
+      !q.id.startsWith("FACT-"),
+  )!;
+  round.questions = [q];
+  round.order = [q.answers.map((a) => a.id)];
+  await page.evaluate(
+    (value) =>
+      new Promise<void>((resolve, reject) => {
+        const req = indexedDB.open("wissensquiz");
+        req.onerror = () => reject(req.error);
+        req.onsuccess = () => {
+          const db = req.result;
+          const tx = db.transaction("state", "readwrite");
+          tx.objectStore("state").put(value, "current");
+          tx.oncomplete = () => {
+            db.close();
+            resolve();
+          };
+          tx.onerror = () => reject(tx.error);
+        };
+      }),
+    state,
+  );
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
 }
 async function answerCurrent(page: Page, correct = true) {
   const questionId = await page
@@ -244,11 +299,7 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie aus de
       .toBeGreaterThan(0);
   }
   await page.getByRole("button", { name: "Spielen", exact: true }).click();
-  await page
-    .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
-    .click();
-  await page.getByLabel("Thema wählen").selectOption("Tombstone");
-  await page.getByRole("button", { name: "Losspielen" }).click();
+  await resumeFilmFixture(page, "Tombstone");
   await expect(page.locator(".film-title")).toHaveText("Tombstone");
   await expect(page.locator(".question-card h1")).not.toContainText("„");
   await expect(page.locator(".question-card h1")).toContainText("(1993)");
@@ -266,10 +317,11 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
   }) => {
     await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
     await launch(page);
+    await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
     await page
-      .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
-      .click();
-    await page.getByLabel("Thema wählen").selectOption("Alien");
+      .getByRole("group", { name: "Filmgenres", exact: true })
+      .getByLabel("Sci-Fi", { exact: true })
+      .check();
     await page.getByRole("button", { name: "Losspielen" }).click();
     await answerCurrent(page, true);
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
@@ -468,10 +520,7 @@ test("Conjuring zeigt passende Darsteller und Quellen erst in der Vertiefung, au
   page,
 }) => {
   await launch(page);
-  await page
-    .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
-    .click();
-  await page.getByLabel("Thema wählen").selectOption("Conjuring");
+
   await page.getByRole("button", { name: "Losspielen" }).click();
   // Dieser Test prüft die Besetzungsergänzung der ursprünglichen CSV-Fragen.
   // Die ergänzenden Filmfragen haben eigene, gezielt getestete Zusatztexte.
@@ -617,12 +666,9 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await expect(page.getByText("10 Erfahrung · Level 1")).toBeVisible();
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   await expect(page.locator(".history").first()).toContainText("4/5 richtig");
-  await page
-    .getByRole("button", { name: /Als Favorit markieren: Alien/ })
-    .click();
   await expect(
-    page.getByRole("button", { name: "Favorit entfernen: Alien" }),
-  ).toHaveAttribute("aria-pressed", "true");
+    page.getByRole("button", { name: /Favorit|Thema spielen/ }),
+  ).toHaveCount(0);
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
@@ -748,24 +794,10 @@ for (const offlinePackage of [
       name: "Filmgenres",
       exact: true,
     });
-    for (const genre of [
-      "Action",
-      "Sci-Fi",
-      "Horror",
-      "Fantasy",
-      "Komödie",
-      "Western",
-      "Drama",
-    ].filter((g) => g !== offlinePackage.genre)) {
-      await genreChoices.getByLabel(genre, { exact: true }).uncheck();
-    }
-    await expect(
-      genreChoices.getByLabel(offlinePackage.genre, { exact: true }),
-    ).toBeChecked();
-    await page
-      .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
-      .click();
-    await page.getByLabel("Thema wählen").selectOption(offlinePackage.topic);
+    await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
+    await genreChoices
+      .getByLabel(offlinePackage.genre, { exact: true })
+      .check();
     expect(
       await page.evaluate(
         async (path) => (await caches.match(path))?.ok,

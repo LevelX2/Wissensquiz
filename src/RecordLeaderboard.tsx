@@ -1,4 +1,4 @@
-import { useContext, useState } from "react";
+import { useContext, useMemo, useState } from "react";
 import {
   categoryLabel,
   genreSelectionKey,
@@ -25,7 +25,7 @@ export function Leaderboard({
   const [genre, setGenre] = useState("");
   const [level, setLevel] = useState("");
   const [size, setSize] = useState("");
-  const groups = leaderboard(state);
+  const groups = useMemo(() => leaderboard(state), [state]);
   const genres = new Map(
     groups.map((g) => [
       genreSelectionKey(g.round),

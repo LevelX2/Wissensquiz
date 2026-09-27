@@ -20,7 +20,7 @@ import {
   type Question,
   type Round,
   type State,
-  type Difficulty,
+  type RoundSetup,
 } from "./model";
 import {
   difficulties,
@@ -41,6 +41,7 @@ import { useOffline } from "./offline";
 import { BadgeIcon, GenreArtwork } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
+import { readRoundSetup } from "./roundSetup";
 import { answeredTopics } from "./collection";
 import { QuestionHistory } from "./QuestionHistoryPanel";
 import {
@@ -101,15 +102,13 @@ function TopicCard({
   topic,
   state,
   onPlay,
-  onFavorite,
   onBrowse,
   questions = state.questions,
   genre = false,
 }: {
   topic: string;
   state: State;
-  onPlay: () => void;
-  onFavorite?: () => void;
+  onPlay?: () => void;
   onBrowse?: () => void;
   questions?: Question[];
   genre?: boolean;
@@ -134,7 +133,6 @@ function TopicCard({
     (status) =>
       ids.filter((id) => state.learning[id]?.status === status).length,
   );
-  const favorite = state.favorites.includes(topic);
   return (
     <article className="topic-card">
       <div className="topic-art">
@@ -148,16 +146,6 @@ function TopicCard({
           ))}
         </span>
         <div className="art-lines" />
-        {onFavorite && (
-          <button
-            className="favorite"
-            aria-label={`${favorite ? "Favorit entfernen" : "Als Favorit markieren"}: ${topic}`}
-            aria-pressed={favorite}
-            onClick={onFavorite}
-          >
-            {favorite ? "★" : "☆"}
-          </button>
-        )}
       </div>
       <div className="topic-body">
         <span className="eyebrow">{ids.length} Wissensziele</span>
@@ -181,14 +169,16 @@ function TopicCard({
         <p className="muted tiny">
           Ziel: {ids.length} vorhandene Wissensziele festigen
         </p>
-        <button className="text-button" onClick={onPlay}>
-          {genre
-            ? "Genre auswählen"
-            : categories.includes(topic as Category)
-              ? `${topic} spielen`
-              : "Thema spielen"}{" "}
-          <span>↗</span>
-        </button>
+        {onPlay && (
+          <button className="text-button" onClick={onPlay}>
+            {genre
+              ? "Genre auswählen"
+              : categories.includes(topic as Category)
+                ? `${topic} spielen`
+                : "Thema spielen"}{" "}
+            <span>↗</span>
+          </button>
+        )}
         {onBrowse && (
           <button className="text-button" onClick={onBrowse}>
             Filme & Reihen ansehen <span>↗</span>
@@ -222,13 +212,7 @@ export function App({
   >(null);
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
-  const [mode, setMode] = useState<Mode>("entdecken");
-  const [topic, setTopic] = useState("Alle Themen");
-  const [selectedCategories, setSelectedCategories] = useState<Category[]>([]);
-  const [selectedGenres, setSelectedGenres] = useState<string[] | null>(null);
-  const [selectedDifficulties, setSelectedDifficulties] = useState<
-    Difficulty[]
-  >([...difficulties]);
+  const [pendingSetup, setPendingSetup] = useState<RoundSetup | null>(null);
   const [roundId, setRoundId] = useState("");
   const [index, setIndex] = useState(0);
   const [celebration, setCelebration] = useState<{
@@ -334,6 +318,24 @@ export function App({
         )}
       </main>
     );
+  const {
+    mode,
+    genres: selectedGenres,
+    categories: selectedCategories,
+    difficulties: selectedDifficulties,
+  } = pendingSetup ?? readRoundSetup(state);
+  const changeSetup = async (patch: Partial<RoundSetup>) => {
+    if (inFlight.current) return null;
+    // Reflect the click immediately; only committed state reaches account sync.
+    setPendingSetup({ ...readRoundSetup(state), ...patch });
+    try {
+      return await mutate((s) => {
+        s.settings.roundSetup = { ...readRoundSetup(s), ...patch };
+      });
+    } finally {
+      setPendingSetup(null);
+    }
+  };
   const topics = [...new Set(state.questions.map((q) => q.topic))].sort();
   const startedTopics =
     page === "album" ? answeredTopics(state) : new Set<string>();
@@ -356,33 +358,20 @@ export function App({
       ? selectedDifficulties
       : [...difficulties],
   };
-  const availableTopics = topics.filter((t) =>
-    state.questions.some(
-      (q) =>
-        q.topic === t &&
-        filters.genres.includes(genreOf(q)) &&
-        matchesCategories(q, selectedCategories),
-    ),
-  );
-  const toggleGenre = (genre: string) => {
-    setSelectedGenres(
-      filters.genres.includes(genre)
+  const toggleGenre = (genre: string) =>
+    void changeSetup({
+      genres: filters.genres.includes(genre)
         ? filters.genres.filter((g) => g !== genre)
         : [...filters.genres, genre],
-    );
-    setTopic("Alle Themen");
-  };
-  const playGenre = (genre: string) => {
-    setSelectedCategories([]);
-    setSelectedGenres([genre]);
-    setTopic("Alle Themen");
-    setPage("home");
+    });
+  const playGenre = async (genre: string) => {
+    if (await changeSetup({ categories: [], genres: [genre] })) setPage("home");
   };
   const completed = state.rounds.filter((r) => r.status === "completed");
   const active = state.rounds.find((r) => r.status === "active");
   const current = state.rounds.find((r) => r.id === roundId);
   const targetSize = completed.length ? 10 : 5;
-  const roundTopic = categoryTopic(topic, selectedCategories);
+  const roundTopic = categoryTopic("Alle Themen", selectedCategories);
   const selection = selectQuestions(
     pathQuestions(state),
     state.learning,
@@ -424,29 +413,9 @@ export function App({
       setPage("round");
     }
   };
-  const playTopic = (t: string) => {
-    setSelectedCategories([]);
-    setSelectedGenres([
-      ...new Set(state.questions.filter((q) => q.topic === t).map(genreOf)),
-    ]);
-    setTopic(t);
-    setMode("ueben");
-    setPage("home");
-  };
   const mastered = Object.values(state.learning).filter(
     (p) => p.status === "gefestigt",
   ).length;
-  const favorite = async (t: string) => {
-    await mutate((s) => {
-      if (s.favorites.includes(t))
-        s.favorites = s.favorites.filter((x) => x !== t);
-      else if (s.favorites.length < 3) s.favorites.push(t);
-      else
-        throw new Error(
-          "Du kannst bis zu drei Favoriten auswählen. Entferne zuerst einen anderen.",
-        );
-    });
-  };
   return (
     <div className={`app-shell ${page === "round" ? "is-playing" : ""}`}>
       <aside className="sidebar">
@@ -556,7 +525,8 @@ export function App({
                       key={m}
                       className={`mode-card mode-${m} ${mode === m ? "active" : ""}`}
                       aria-pressed={mode === m}
-                      onClick={() => setMode(m)}
+                      disabled={busy}
+                      onClick={() => void changeSetup({ mode: m })}
                     >
                       <img
                         className="mode-artwork"
@@ -658,7 +628,7 @@ export function App({
                 )}
 
                 <div className="quiz-filters">
-                  <fieldset>
+                  <fieldset disabled={busy}>
                     <legend>Filmgenres</legend>
                     <p className="muted tiny">
                       Ein oder mehrere Genres kombinieren.
@@ -679,8 +649,7 @@ export function App({
                     <button
                       className="text-button"
                       onClick={() => {
-                        setSelectedGenres(null);
-                        setTopic("Alle Themen");
+                        void changeSetup({ genres: null });
                       }}
                     >
                       Alle Genres auswählen
@@ -688,14 +657,13 @@ export function App({
                     <button
                       className="text-button"
                       onClick={() => {
-                        setSelectedGenres([]);
-                        setTopic("Alle Themen");
+                        void changeSetup({ genres: [] });
                       }}
                     >
                       Alle Genres abwählen
                     </button>
                   </fieldset>
-                  <fieldset>
+                  <fieldset disabled={busy}>
                     <legend>Zusätzliche Kategorien</legend>
                     {categories.map((category) => (
                       <label className="filter-choice" key={category}>
@@ -703,14 +671,13 @@ export function App({
                           type="checkbox"
                           checked={selectedCategories.includes(category)}
                           onChange={(e) => {
-                            setSelectedCategories(
-                              e.target.checked
+                            void changeSetup({
+                              categories: e.target.checked
                                 ? [...selectedCategories, category]
                                 : selectedCategories.filter(
                                     (c) => c !== category,
                                   ),
-                            );
-                            setTopic("Alle Themen");
+                            });
                           }}
                         />
                         <GenreArtwork genre={category} compact />
@@ -753,7 +720,7 @@ export function App({
                           Sichere Antworten zählen weiterhin für Deinen
                           Lernpfad.
                         </p>
-                        <fieldset>
+                        <fieldset disabled={busy}>
                           <legend>Schwierigkeitsstufen</legend>
                           <div className="filter-options">
                             {difficulties.map((d) => (
@@ -762,13 +729,14 @@ export function App({
                                   type="checkbox"
                                   checked={selectedDifficulties.includes(d)}
                                   onChange={() =>
-                                    setSelectedDifficulties(
-                                      selectedDifficulties.includes(d)
-                                        ? selectedDifficulties.filter(
-                                            (x) => x !== d,
-                                          )
-                                        : [...selectedDifficulties, d],
-                                    )
+                                    void changeSetup({
+                                      difficulties:
+                                        selectedDifficulties.includes(d)
+                                          ? selectedDifficulties.filter(
+                                              (x) => x !== d,
+                                            )
+                                          : [...selectedDifficulties, d],
+                                    })
                                   }
                                 />
                                 <span>{difficultyLabel(d)}</span>
@@ -778,7 +746,9 @@ export function App({
                           <button
                             className="text-button"
                             onClick={() =>
-                              setSelectedDifficulties([...difficulties])
+                              void changeSetup({
+                                difficulties: [...difficulties],
+                              })
                             }
                           >
                             Alle Stufen auswählen
@@ -788,24 +758,6 @@ export function App({
                     )}
                   </details>
                   <LearningPath state={state} genres={filters.genres} />
-                  <details
-                    className="fine-filter"
-                    open={topic !== "Alle Themen" ? true : undefined}
-                  >
-                    <summary>Optional: einzelne Filme oder Filmreihen</summary>
-                    <label>
-                      Thema wählen
-                      <select
-                        value={topic}
-                        onChange={(e) => setTopic(e.target.value)}
-                      >
-                        <option>Alle Themen</option>
-                        {availableTopics.map((t) => (
-                          <option key={t}>{t}</option>
-                        ))}
-                      </select>
-                    </label>
-                  </details>
                 </div>
               </section>
               <section className="journey-strip">
@@ -849,8 +801,8 @@ export function App({
                     : Filme & Reihen
                   </h1>
                   <p className="lead">
-                    {browseTopics.length} Film- und Reihenblöcke. Wähle einen
-                    Block, um damit eine Runde vorzubereiten.
+                    {browseTopics.length} Film- und Reihenblöcke mit Deinem
+                    Lernfortschritt.
                   </p>
                   <div className="topic-grid">
                     {browseTopics.map((t) => (
@@ -859,26 +811,6 @@ export function App({
                         topic={t}
                         state={state}
                         questions={browseQuestions}
-                        onPlay={() => {
-                          setSelectedCategories(
-                            topicScope.kind === "category"
-                              ? [topicScope.name]
-                              : [],
-                          );
-                          setSelectedGenres(
-                            topicScope.kind === "genre"
-                              ? [topicScope.name]
-                              : [
-                                  ...new Set(
-                                    browseQuestions
-                                      .filter((q) => q.topic === t)
-                                      .map(genreOf),
-                                  ),
-                                ],
-                          );
-                          setTopic(t);
-                          setPage("home");
-                        }}
                       />
                     ))}
                   </div>
@@ -903,11 +835,14 @@ export function App({
                         onBrowse={() =>
                           setTopicScope({ kind: "category", name: category })
                         }
-                        onPlay={() => {
-                          setSelectedCategories([category]);
-                          setSelectedGenres(null);
-                          setTopic("Alle Themen");
-                          setPage("home");
+                        onPlay={async () => {
+                          if (
+                            await changeSetup({
+                              categories: [category],
+                              genres: null,
+                            })
+                          )
+                            setPage("home");
                         }}
                       />
                     ))}
@@ -972,19 +907,11 @@ export function App({
               </div>
               <div className="section-title">
                 <h2>Dein Expertenalbum</h2>
-                <span className="muted">
-                  {state.favorites.length}/3 Favoriten
-                </span>
               </div>
               <p className="muted">
                 Die drei Status zählen getrennt. Gefestigt heißt: mehrfach
                 sicher, an verschiedenen Tagen und nach mindestens sieben Tagen
                 erneut bestätigt.
-              </p>
-              <p className="muted tiny">
-                Mit dem Stern heftest Du bis zu drei Favoriten oben in dieser
-                Liste an. Die Markierung ändert weder Fragenauswahl noch
-                Lernfortschritt oder Punkte.
               </p>
               <div
                 className="ranking-tabs"
@@ -1025,21 +952,9 @@ export function App({
                 </div>
               )}
               <div className="topic-grid">
-                {[...albumTopics]
-                  .sort(
-                    (a, b) =>
-                      Number(state.favorites.includes(b)) -
-                      Number(state.favorites.includes(a)),
-                  )
-                  .map((t) => (
-                    <TopicCard
-                      key={t}
-                      topic={t}
-                      state={state}
-                      onPlay={() => playTopic(t)}
-                      onFavorite={() => void favorite(t)}
-                    />
-                  ))}
+                {albumTopics.map((t) => (
+                  <TopicCard key={t} topic={t} state={state} />
+                ))}
               </div>
               {(new Set(
                 state.questions.filter(badgeEligible).map((q) => q.knowledgeId),
@@ -1197,7 +1112,6 @@ export function App({
               round={current}
               state={state}
               onHome={() => setPage("home")}
-              onTopic={() => playTopic(current.questions[0].topic)}
               onLeaderboard={() => setPage("leaderboard")}
             />
           )}
@@ -1662,13 +1576,11 @@ function Result({
   round,
   state,
   onHome,
-  onTopic,
   onLeaderboard,
 }: {
   round: Round;
   state: State;
   onHome: () => void;
-  onTopic: () => void;
   onLeaderboard: () => void;
 }) {
   const events = state.events.filter((e) => e.roundId === round.id);
@@ -1774,9 +1686,6 @@ function Result({
       <div className="result-actions">
         <button className="primary" onClick={onHome}>
           Neue Runde wählen →
-        </button>
-        <button className="secondary" onClick={onTopic}>
-          Thema vertiefen
         </button>
       </div>
       <button className="text-button muted" onClick={onHome}>
@@ -2211,9 +2120,8 @@ function Settings({
       <section className="settings-panel danger">
         <h2>Lernfortschritt zurücksetzen</h2>
         <p>
-          Runden, Antworten, Erfahrung, Rekorde, Abzeichen, Favoriten,
-          Einstellungen und Meldungen werden gelöscht. Fragen und Importberichte
-          bleiben erhalten.
+          Runden, Antworten, Erfahrung, Rekorde, Abzeichen, Einstellungen und
+          Meldungen werden gelöscht. Fragen und Importberichte bleiben erhalten.
         </p>
         <label>
           Zum Bestätigen LÖSCHEN eingeben

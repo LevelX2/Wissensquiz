@@ -25,12 +25,6 @@ for (const both of [false, true]) {
       .getByLabel("Rom-Com", { exact: true })
       .check();
     if (both) await page.getByLabel("Nur Classics", { exact: true }).check();
-    await page
-      .getByText("Optional: einzelne Filme oder Filmreihen", { exact: true })
-      .click();
-    await page
-      .getByLabel("Thema wählen")
-      .selectOption("Die fabelhafte Welt der Amélie");
     const imgs = page
       .getByRole("group", { name: "Zusätzliche Kategorien" })
       .locator("img");
@@ -78,13 +72,13 @@ for (const both of [false, true]) {
       saved.questions.filter((q: any) => q.tags.includes("Classics")),
     ).toHaveLength(557);
     const round = saved.rounds.at(-1);
-    expect(round.topic).toBe(
-      `${both ? "Classics + Arthouse" : "Arthouse"}: Die fabelhafte Welt der Amélie`,
-    );
+    expect(round.topic).toBe(both ? "Classics + Arthouse" : "Arthouse");
     expect(
       round.questions.every(
         (q: any) =>
-          q.tags.includes("Arthouse") && q.metadata.subdomain === "Rom-Com",
+          (q.tags.includes("Arthouse") ||
+            (both && q.tags.includes("Classics"))) &&
+          q.metadata.subdomain === "Rom-Com",
       ),
     ).toBe(true);
     expect(new Set(round.questions.map((q: any) => q.knowledgeId)).size).toBe(

@@ -375,6 +375,12 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
   await page.setViewportSize({ width: 320, height: 740 });
   await page.goto("/");
   await login(page);
+  await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
+  await page
+    .getByRole("group", { name: "Filmgenres", exact: true })
+    .getByLabel("Horror", { exact: true })
+    .check();
+  await page.getByLabel("Nur Classics", { exact: true }).check();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(
     page.locator(".sync-indicator .sync-symbol.saved"),
@@ -466,6 +472,19 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
     await expect(
       other.getByRole("button", { name: "Fortsetzen" }),
     ).toBeVisible();
+    await expect(
+      other
+        .getByRole("group", { name: "Filmgenres", exact: true })
+        .locator("input:checked"),
+    ).toHaveCount(1);
+    await expect(
+      other
+        .getByRole("group", { name: "Filmgenres", exact: true })
+        .getByLabel("Horror", { exact: true }),
+    ).toBeChecked();
+    await expect(
+      other.getByLabel("Nur Classics", { exact: true }),
+    ).toBeChecked();
     await other.getByRole("button", { name: "Fortsetzen" }).click();
     await expect(other.locator(".feedback")).toBeVisible();
     await other

@@ -1,6 +1,10 @@
 import { afterAll, beforeAll, expect, it } from "vitest";
 import { PGlite } from "@electric-sql/pglite";
 import { readFileSync } from "node:fs";
+import { encodeCloudState } from "../src/cloudCodec";
+import { emptyState } from "../src/model";
+import { importCsv } from "../src/importer";
+import { startRound, answer, complete } from "../src/engine";
 const db = new PGlite();
 const alice = "11111111-1111-4111-8111-111111111111",
   bob = "22222222-2222-4222-8222-222222222222";
@@ -256,4 +260,70 @@ it("zeigt bestätigte Spieler auch ohne Runde und übernimmt Namensänderungen o
         .rows,
     ).toHaveLength(1);
   });
+});
+
+it("kompakte Online-Sicherung liefert unveränderte Highscores und Spielerstatistik ohne SQL-Migration", async () => {
+  const id = "66666666-6666-4666-8666-666666666666";
+  const state = emptyState(
+    importCsv(readFileSync("public/horror-fragen.csv", "utf8")).questions,
+  );
+  const r = startRound(
+    state,
+    {
+      mode: "rekord",
+      topic: "Alle Themen",
+      difficulty: "leicht",
+      filters: { genres: ["Horror"], difficulties: ["leicht"] },
+    },
+    1700000000000,
+  );
+  for (const q of r.questions)
+    answer(state, r.id, q.id, q.correctId, 5000, 1700000005000);
+  complete(state, r.id, 1700000030000);
+  await db.exec("begin");
+  try {
+    await db.query("insert into auth.users values($1,now(),false,$2)", [
+      id,
+      { display_name: "Compact" },
+    ]);
+    await as(id, async () => {
+      await db.query("select quiz_save_state($1,0,$2)", [state, id]);
+      const categories = (
+        await db.query<{ category: string }>(
+          "select * from quiz_score_categories()",
+        )
+      ).rows;
+      const scores = await Promise.all(
+        categories.map((c) =>
+          db.query("select * from quiz_rankings($1,0)", [c.category]),
+        ),
+      );
+      const players = (
+        await db.query(
+          "select * from quiz_players('rounds','Horror','leicht',0)",
+        )
+      ).rows;
+      await db.query("select quiz_save_state($1,1,$2)", [
+        await encodeCloudState(state),
+        id,
+      ]);
+      for (let i = 0; i < categories.length; i++)
+        expect(
+          (
+            await db.query("select * from quiz_rankings($1,0)", [
+              categories[i].category,
+            ])
+          ).rows,
+        ).toEqual(scores[i].rows);
+      expect(
+        (
+          await db.query(
+            "select * from quiz_players('rounds','Horror','leicht',0)",
+          )
+        ).rows,
+      ).toEqual(players);
+    });
+  } finally {
+    await db.exec("rollback");
+  }
 });

@@ -665,13 +665,6 @@ textarea {
   min-height: 44px;
   font-size: 12px;
 }
-.fine-filter summary {
-  cursor: pointer;
-  min-height: 44px;
-  padding: 10px 0;
-  font-size: 12px;
-  color: #4c5b60;
-}
 .spoiler-note {
   font-size: 10px;
   color: #4c5b60;
@@ -748,9 +741,6 @@ textarea {
   object-fit: contain;
   filter: drop-shadow(0 6px 9px #00000030);
 }
-.topic-art .favorite {
-  color: #ffe1a7;
-}
 .topic-card:nth-child(3n + 2) .topic-art {
   background: radial-gradient(ellipse at center, #39494a, #232c2f 75%);
 }
@@ -824,19 +814,6 @@ textarea {
 }
 .topic-body .text-button span {
   float: right;
-}
-.favorite {
-  position: absolute;
-  right: 10px;
-  top: 10px;
-  z-index: 2;
-  min-height: 40px;
-  width: 40px;
-  padding: 5px;
-  background: #f3f4f188;
-  color: #4c5b60;
-  border: 0;
-  font-size: 22px;
 }
 .demo-label {
   font-size: 10px;
