@@ -280,3 +280,5 @@ Veröffentlicht als Sites-Version 28, App-Commit `a44552527e61538682f8c38c937578
 ## 27.09.2026 — Verständliche Rundenhinweise
 
 Unter Losspielen zwei verständliche Sätze zum gewählten Modus; ergänzende Klappe „Mehr zu Auswahl und Ablauf“ erklärt Filterzusammenfassung, Rundengröße, Fragenauswahl, gemeinsame Wissensziele und Freischaltungen sowie Rekord-Zeitregeln. Spoilerhinweis sichtbar erhalten, doppelte Erläuterungen unter Filtern entfernt. Keine Änderung von Auswahl, Fortschritt oder Speicherung. 125 Logik-/Datenbanktests, Build, alle 63 Browserprüfungen und Diff-Prüfung erfolgreich; mobile Darstellung, Tastaturbedienung und Moduswechsel geprüft.
+
+Veröffentlicht als Sites-Version 29, App-Commit `025e258c0738696fea676d9ceae8a71bfb80b621`, Deployment `appgdep_6ab8c448ccf48191a8be629fc2857a8c`, nativer Status `succeeded`. Öffentliche Adresse und Projekt-ID erhalten; native Browserübergabe, keine zusätzliche Live-Prüfung.
