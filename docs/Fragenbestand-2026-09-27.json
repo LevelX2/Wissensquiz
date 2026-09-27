@@ -1,0 +1,3391 @@
+{
+  "asOf": "2026-09-27",
+  "sourceCommit": "626c111051988d31d87810c6fd99746a82eef790",
+  "scope": "Bundled catalog only; 11 CSV packages, category overlays and film facts. No player data. Films keyed by original title and year; goals by knowledge_id.",
+  "checks": {
+    "duplicateQuestionIds": 0,
+    "unclassifiedQuestions": 0,
+    "rejectedImports": 0,
+    "duplicateImports": 0
+  },
+  "total": {
+    "questions": 2567,
+    "knowledgeGoals": 2237,
+    "films": 300,
+    "goalsByDifficulty": {
+      "leicht": 646,
+      "mittel": 884,
+      "schwer": 707
+    },
+    "filmsByFamiliarity": [
+      64,
+      114,
+      87,
+      35
+    ],
+    "goalsByFamiliarity": [
+      465,
+      849,
+      655,
+      268
+    ],
+    "cells": [
+      [
+        168,
+        167,
+        130
+      ],
+      [
+        240,
+        366,
+        243
+      ],
+      [
+        170,
+        249,
+        236
+      ],
+      [
+        68,
+        102,
+        98
+      ]
+    ]
+  },
+  "genres": [
+    {
+      "genre": "Musik",
+      "questions": 8,
+      "knowledgeGoals": 8,
+      "films": 1,
+      "goalsByDifficulty": {
+        "leicht": 2,
+        "mittel": 3,
+        "schwer": 3
+      },
+      "filmsByFamiliarity": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "goalsByFamiliarity": [
+        0,
+        8,
+        0,
+        0
+      ],
+      "cells": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "genre": "Abenteuer",
+      "questions": 50,
+      "knowledgeGoals": 47,
+      "films": 6,
+      "goalsByDifficulty": {
+        "leicht": 13,
+        "mittel": 17,
+        "schwer": 17
+      },
+      "filmsByFamiliarity": [
+        1,
+        2,
+        2,
+        1
+      ],
+      "goalsByFamiliarity": [
+        8,
+        16,
+        16,
+        7
+      ],
+      "cells": [
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          4,
+          7,
+          5
+        ],
+        [
+          4,
+          5,
+          7
+        ],
+        [
+          2,
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "genre": "Thriller",
+      "questions": 108,
+      "knowledgeGoals": 96,
+      "films": 12,
+      "goalsByDifficulty": {
+        "leicht": 31,
+        "mittel": 37,
+        "schwer": 28
+      },
+      "filmsByFamiliarity": [
+        0,
+        5,
+        4,
+        3
+      ],
+      "goalsByFamiliarity": [
+        0,
+        40,
+        32,
+        24
+      ],
+      "cells": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          16,
+          14,
+          10
+        ],
+        [
+          9,
+          14,
+          9
+        ],
+        [
+          6,
+          9,
+          9
+        ]
+      ]
+    },
+    {
+      "genre": "Action",
+      "questions": 228,
+      "knowledgeGoals": 198,
+      "films": 25,
+      "goalsByDifficulty": {
+        "leicht": 52,
+        "mittel": 85,
+        "schwer": 61
+      },
+      "filmsByFamiliarity": [
+        7,
+        16,
+        2,
+        0
+      ],
+      "goalsByFamiliarity": [
+        56,
+        126,
+        16,
+        0
+      ],
+      "cells": [
+        [
+          16,
+          23,
+          17
+        ],
+        [
+          32,
+          55,
+          39
+        ],
+        [
+          4,
+          7,
+          5
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "genre": "Martial Arts & Asia-Film",
+      "questions": 230,
+      "knowledgeGoals": 200,
+      "films": 25,
+      "goalsByDifficulty": {
+        "leicht": 53,
+        "mittel": 75,
+        "schwer": 72
+      },
+      "filmsByFamiliarity": [
+        1,
+        3,
+        10,
+        11
+      ],
+      "goalsByFamiliarity": [
+        8,
+        24,
+        80,
+        88
+      ],
+      "cells": [
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          7,
+          10,
+          7
+        ],
+        [
+          22,
+          28,
+          30
+        ],
+        [
+          22,
+          34,
+          32
+        ]
+      ]
+    },
+    {
+      "genre": "Fantasy",
+      "questions": 240,
+      "knowledgeGoals": 207,
+      "films": 26,
+      "goalsByDifficulty": {
+        "leicht": 63,
+        "mittel": 84,
+        "schwer": 60
+      },
+      "filmsByFamiliarity": [
+        6,
+        13,
+        6,
+        1
+      ],
+      "goalsByFamiliarity": [
+        48,
+        103,
+        48,
+        8
+      ],
+      "cells": [
+        [
+          19,
+          16,
+          13
+        ],
+        [
+          30,
+          46,
+          27
+        ],
+        [
+          12,
+          19,
+          17
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    },
+    {
+      "genre": "Western",
+      "questions": 240,
+      "knowledgeGoals": 207,
+      "films": 26,
+      "goalsByDifficulty": {
+        "leicht": 65,
+        "mittel": 74,
+        "schwer": 68
+      },
+      "filmsByFamiliarity": [
+        4,
+        3,
+        13,
+        6
+      ],
+      "goalsByFamiliarity": [
+        31,
+        24,
+        104,
+        48
+      ],
+      "cells": [
+        [
+          13,
+          9,
+          9
+        ],
+        [
+          10,
+          7,
+          7
+        ],
+        [
+          29,
+          41,
+          34
+        ],
+        [
+          13,
+          17,
+          18
+        ]
+      ]
+    },
+    {
+      "genre": "Rom-Com",
+      "questions": 238,
+      "knowledgeGoals": 208,
+      "films": 26,
+      "goalsByDifficulty": {
+        "leicht": 54,
+        "mittel": 79,
+        "schwer": 75
+      },
+      "filmsByFamiliarity": [
+        5,
+        10,
+        11,
+        0
+      ],
+      "goalsByFamiliarity": [
+        40,
+        80,
+        88,
+        0
+      ],
+      "cells": [
+        [
+          12,
+          16,
+          12
+        ],
+        [
+          20,
+          35,
+          25
+        ],
+        [
+          22,
+          28,
+          38
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "genre": "Horror",
+      "questions": 243,
+      "knowledgeGoals": 213,
+      "films": 27,
+      "goalsByDifficulty": {
+        "leicht": 64,
+        "mittel": 80,
+        "schwer": 69
+      },
+      "filmsByFamiliarity": [
+        9,
+        10,
+        5,
+        3
+      ],
+      "goalsByFamiliarity": [
+        71,
+        79,
+        40,
+        23
+      ],
+      "cells": [
+        [
+          26,
+          24,
+          21
+        ],
+        [
+          22,
+          35,
+          22
+        ],
+        [
+          10,
+          13,
+          17
+        ],
+        [
+          6,
+          8,
+          9
+        ]
+      ]
+    },
+    {
+      "genre": "Komödie",
+      "questions": 265,
+      "knowledgeGoals": 232,
+      "films": 29,
+      "goalsByDifficulty": {
+        "leicht": 67,
+        "mittel": 92,
+        "schwer": 73
+      },
+      "filmsByFamiliarity": [
+        7,
+        12,
+        9,
+        1
+      ],
+      "goalsByFamiliarity": [
+        56,
+        96,
+        72,
+        8
+      ],
+      "cells": [
+        [
+          17,
+          22,
+          17
+        ],
+        [
+          29,
+          37,
+          30
+        ],
+        [
+          19,
+          30,
+          23
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    },
+    {
+      "genre": "Science-Fiction",
+      "questions": 308,
+      "knowledgeGoals": 272,
+      "films": 53,
+      "goalsByDifficulty": {
+        "leicht": 83,
+        "mittel": 109,
+        "schwer": 80
+      },
+      "filmsByFamiliarity": [
+        15,
+        20,
+        14,
+        4
+      ],
+      "goalsByFamiliarity": [
+        75,
+        102,
+        72,
+        23
+      ],
+      "cells": [
+        [
+          36,
+          21,
+          18
+        ],
+        [
+          26,
+          53,
+          23
+        ],
+        [
+          16,
+          27,
+          29
+        ],
+        [
+          5,
+          8,
+          10
+        ]
+      ]
+    },
+    {
+      "genre": "Drama",
+      "questions": 409,
+      "knowledgeGoals": 349,
+      "films": 44,
+      "goalsByDifficulty": {
+        "leicht": 99,
+        "mittel": 149,
+        "schwer": 101
+      },
+      "filmsByFamiliarity": [
+        9,
+        19,
+        11,
+        5
+      ],
+      "goalsByFamiliarity": [
+        72,
+        151,
+        87,
+        39
+      ],
+      "cells": [
+        [
+          24,
+          30,
+          18
+        ],
+        [
+          42,
+          64,
+          45
+        ],
+        [
+          23,
+          37,
+          27
+        ],
+        [
+          10,
+          18,
+          11
+        ]
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "category": "Classics",
+      "questions": 557,
+      "knowledgeGoals": 479,
+      "films": 61,
+      "goalsByDifficulty": {
+        "leicht": 157,
+        "mittel": 171,
+        "schwer": 151
+      },
+      "filmsByFamiliarity": [
+        14,
+        23,
+        18,
+        6
+      ],
+      "goalsByFamiliarity": [
+        104,
+        183,
+        144,
+        48
+      ],
+      "cells": [
+        [
+          42,
+          34,
+          28
+        ],
+        [
+          62,
+          67,
+          54
+        ],
+        [
+          41,
+          54,
+          49
+        ],
+        [
+          12,
+          16,
+          20
+        ]
+      ]
+    },
+    {
+      "category": "Arthouse",
+      "questions": 389,
+      "knowledgeGoals": 341,
+      "films": 44,
+      "goalsByDifficulty": {
+        "leicht": 95,
+        "mittel": 146,
+        "schwer": 100
+      },
+      "filmsByFamiliarity": [
+        0,
+        18,
+        13,
+        13
+      ],
+      "goalsByFamiliarity": [
+        0,
+        142,
+        100,
+        99
+      ],
+      "cells": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          44,
+          62,
+          36
+        ],
+        [
+          26,
+          43,
+          31
+        ],
+        [
+          25,
+          41,
+          33
+        ]
+      ]
+    }
+  ],
+  "films": [
+    {
+      "film": "10 Things I Hate About You|1999",
+      "title": "10 Dinge, die ich an Dir hasse",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "12 Monkeys|1995",
+      "title": "12 Monkeys",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "2046|2004",
+      "title": "2046",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "27 Dresses|2008",
+      "title": "27 Dresses",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "3:10 to Yuma|2007",
+      "title": "Todeszug nach Yuma",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "50 First Dates|2004",
+      "title": "50 erste Dates",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "A Beautiful Mind|2001",
+      "title": "A Beautiful Mind – Genie und Wahnsinn",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "A Fish Called Wanda|1988",
+      "title": "Ein Fisch namens Wanda",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "A Nightmare on Elm Street 3: Dream Warriors|1987",
+      "title": "Nightmare 3 – Freddy Krueger lebt",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "A Nightmare on Elm Street|1984",
+      "title": "Nightmare – Mörderische Träume",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Aguirre, der Zorn Gottes|1972",
+      "title": "Aguirre, der Zorn Gottes",
+      "genres": [
+        "Abenteuer"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "Air Force One|1997",
+      "title": "Air Force One",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Airplane!|1980",
+      "title": "Die unglaubliche Reise in einem verrückten Flugzeug",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Aliens|1986",
+      "title": "Aliens – Die Rückkehr",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Alien|1979",
+      "title": "Alien – Das unheimliche Wesen aus einer fremden Welt",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "All About Eve|1950",
+      "title": "Alles über Eva",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "American Beauty|1999",
+      "title": "American Beauty",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "American History X|1998",
+      "title": "American History X",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Appaloosa|2008",
+      "title": "Appaloosa",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Armour of God II: Operation Condor|1991",
+      "title": "Mission Adler",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Armour of God|1986",
+      "title": "Armour of God: Der rechte Arm der Götter",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Arrival|2016",
+      "title": "Arrival",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Avatar|2009",
+      "title": "Avatar",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Back to the Future Part III|1990",
+      "title": "Zurück in die Zukunft III",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Back to the Future Part II|1989",
+      "title": "Zurück in die Zukunft II",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Back to the Future|1985",
+      "title": "Zurück in die Zukunft",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Ben-Hur|1959",
+      "title": "Ben Hur",
+      "genres": [
+        "Abenteuer"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Bienvenue chez les Ch'tis|2008",
+      "title": "Willkommen bei den Sch’tis",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Blade Runner 2049|2017",
+      "title": "Blade Runner 2049",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Blade Runner|1982",
+      "title": "Blade Runner",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Blue Velvet|1986",
+      "title": "Blue Velvet",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Bridget Jones's Baby|2016",
+      "title": "Bridget Jones’ Baby",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Bridget Jones's Diary|2001",
+      "title": "Bridget Jones – Schokolade zum Frühstück",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Bridget Jones: The Edge of Reason|2004",
+      "title": "Bridget Jones – Am Rande des Wahnsinns",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Broken Flowers|2005",
+      "title": "Broken Flowers",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Butch Cassidy and the Sundance Kid|1969",
+      "title": "Butch Cassidy und Sundance Kid",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "C'era una volta il West|1968",
+      "title": "Spiel mir das Lied vom Tod",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Carrie|1976",
+      "title": "Carrie – Des Satans jüngste Tochter",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Casablanca|1942",
+      "title": "Casablanca",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Casino Royale|2006",
+      "title": "James Bond 007: Casino Royale",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Chung Hing sam lam|1994",
+      "title": "Chungking Express",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Citizen Kane|1941",
+      "title": "Citizen Kane",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "Commando|1985",
+      "title": "Phantom Kommando",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Con Air|1997",
+      "title": "Con Air",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Contact|1997",
+      "title": "Contact",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Crouching Tiger, Hidden Dragon|2000",
+      "title": "Tiger & Dragon",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Dances with Wolves|1990",
+      "title": "Der mit dem Wolf tanzt",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Dark City|1998",
+      "title": "Dark City",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Das Boot|1981",
+      "title": "Das Boot",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Das Leben der Anderen|2006",
+      "title": "Das Leben der Anderen",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Dead Man|1995",
+      "title": "Dead Man",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Dead Poets Society|1989",
+      "title": "Der Club der toten Dichter",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Death at a Funeral|2007",
+      "title": "Sterben für Anfänger",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Der Himmel über Berlin|1987",
+      "title": "Der Himmel über Berlin",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Der blaue Engel|1930",
+      "title": "Der blaue Engel",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Det sjunde inseglet|1957",
+      "title": "Das siebente Siegel",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Die Hard 2|1990",
+      "title": "Stirb langsam 2",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Die Hard with a Vengeance|1995",
+      "title": "Stirb langsam: Jetzt erst recht",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Die Hard|1988",
+      "title": "Stirb langsam",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "District 9|2009",
+      "title": "District 9",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Django|1966",
+      "title": "Django",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Dogville|2003",
+      "title": "Dogville",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Double Indemnity|1944",
+      "title": "Frau ohne Gewissen",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Down by Law|1986",
+      "title": "Down by Law",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Drunken Master II|1994",
+      "title": "Drunken Master 2",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Drunken Master|1978",
+      "title": "Drunken Master – The Beginning",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "E.T. the Extra-Terrestrial|1982",
+      "title": "E.T. – Der Außerirdische",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Edge of Tomorrow|2014",
+      "title": "Edge of Tomorrow",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Edward Scissorhands|1990",
+      "title": "Edward mit den Scherenhänden",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "El Dorado|1966",
+      "title": "El Dorado",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "El laberinto del fauno|2006",
+      "title": "Pans Labyrinth",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "Enter the Dragon|1973",
+      "title": "Der Mann mit der Todeskralle",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Evil Dead II|1987",
+      "title": "Tanz der Teufel II – Jetzt wird noch mehr getanzt",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "Ex Machina|2014",
+      "title": "Ex Machina",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Fa yeung nin wa|2000",
+      "title": "In the Mood for Love",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Face/Off|1997",
+      "title": "Im Körper des Feindes",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "Fearless|2006",
+      "title": "Fearless",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Ferris Bueller's Day Off|1986",
+      "title": "Ferris macht blau",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "First Blood|1982",
+      "title": "Rambo",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Fist of Fury|1972",
+      "title": "Todesgrüße aus Shanghai",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Fist of Legend|1994",
+      "title": "Fist of Legend",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Fitzcarraldo|1982",
+      "title": "Fitzcarraldo",
+      "genres": [
+        "Abenteuer"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Forrest Gump|1994",
+      "title": "Forrest Gump",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Four Weddings and a Funeral|1994",
+      "title": "Vier Hochzeiten und ein Todesfall",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "French Kiss|1995",
+      "title": "French Kiss",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Friday the 13th Part 2|1981",
+      "title": "Freitag der 13. – Jason kehrt zurück",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Friday the 13th|1980",
+      "title": "Freitag der 13.",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Galaxy Quest|1999",
+      "title": "Galaxy Quest – Planlos durchs Weltall",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Gattaca|1997",
+      "title": "Gattaca",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Get Out|2017",
+      "title": "Get Out",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "Giù la testa|1971",
+      "title": "Todesmelodie",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "GoldenEye|1995",
+      "title": "James Bond 007 – GoldenEye",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Goldfinger|1964",
+      "title": "James Bond 007 – Goldfinger",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Good Will Hunting|1997",
+      "title": "Good Will Hunting",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Gran Torino|2008",
+      "title": "Gran Torino",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Groundhog Day|1993",
+      "title": "Und täglich grüßt das Murmeltier",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Halloween II|1981",
+      "title": "Halloween II – Das Grauen kehrt zurück",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Halloween|1978",
+      "title": "Halloween – Die Nacht des Grauens",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Hard Boiled|1992",
+      "title": "Hard Boiled",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Harry Potter and the Chamber of Secrets|2002",
+      "title": "Harry Potter und die Kammer des Schreckens",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Harry Potter and the Deathly Hallows – Part 1|2010",
+      "title": "Harry Potter und die Heiligtümer des Todes – Teil 1",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Harry Potter and the Deathly Hallows – Part 2|2011",
+      "title": "Harry Potter und die Heiligtümer des Todes – Teil 2",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Harry Potter and the Goblet of Fire|2005",
+      "title": "Harry Potter und der Feuerkelch",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Harry Potter and the Half-Blood Prince|2009",
+      "title": "Harry Potter und der Halbblutprinz",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Harry Potter and the Order of the Phoenix|2007",
+      "title": "Harry Potter und der Orden des Phönix",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Harry Potter and the Philosopher's Stone|2001",
+      "title": "Harry Potter und der Stein der Weisen",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Harry Potter and the Prisoner of Azkaban|2004",
+      "title": "Harry Potter und der Gefangene von Askaban",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Heat|1995",
+      "title": "Heat",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Hero|2002",
+      "title": "Hero",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Hitch|2005",
+      "title": "Hitch – Der Date Doktor",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Home Alone|1990",
+      "title": "Kevin – Allein zu Haus",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Hot Fuzz|2007",
+      "title": "Hot Fuzz – Zwei abgewichste Profis",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "House of Flying Daggers|2004",
+      "title": "House of Flying Daggers",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "How to Lose a Guy in 10 Days|2003",
+      "title": "Wie werde ich ihn los – in 10 Tagen?",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Il buono, il brutto, il cattivo|1966",
+      "title": "Zwei glorreiche Halunken",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Il grande silenzio|1968",
+      "title": "Leichen pflastern seinen Weg",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Il mio nome è Nessuno|1973",
+      "title": "Mein Name ist Nobody",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "Inception|2010",
+      "title": "Inception",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Independence Day|1996",
+      "title": "Independence Day",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Interstellar|2014",
+      "title": "Interstellar",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Ip Man|2008",
+      "title": "Ip Man",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "It|2017",
+      "title": "Es",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Jeremiah Johnson|1972",
+      "title": "Jeremiah Johnson",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "John Wick|2014",
+      "title": "John Wick",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Jurassic Park|1993",
+      "title": "Jurassic Park",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Jurassic World|2015",
+      "title": "Jurassic World",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Kramer vs. Kramer|1979",
+      "title": "Kramer gegen Kramer",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Labyrinth|1986",
+      "title": "Die Reise ins Labyrinth",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Lawrence of Arabia|1962",
+      "title": "Lawrence von Arabien",
+      "genres": [
+        "Abenteuer"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Le Fabuleux Destin d’Amélie Poulain|2001",
+      "title": "Die fabelhafte Welt der Amélie",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Legend|1985",
+      "title": "Legende",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Lethal Weapon 2|1989",
+      "title": "Lethal Weapon 2 – Brennpunkt L.A.",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Lethal Weapon|1987",
+      "title": "Lethal Weapon – Zwei stahlharte Profis",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Lola rennt|1998",
+      "title": "Lola rennt",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Looper|2012",
+      "title": "Looper",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Lost Highway|1997",
+      "title": "Lost Highway",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Love Actually|2003",
+      "title": "Tatsächlich… Liebe",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Manchester by the Sea|2016",
+      "title": "Manchester by the Sea",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Maverick|1994",
+      "title": "Maverick",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Melancholia|2011",
+      "title": "Melancholia",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Men in Black|1997",
+      "title": "Men in Black",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Metropolis|1927",
+      "title": "Metropolis",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Million Dollar Baby|2004",
+      "title": "Million Dollar Baby",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Minority Report|2002",
+      "title": "Minority Report",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Misery|1990",
+      "title": "Misery",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Mission: Impossible – Ghost Protocol|2011",
+      "title": "Mission: Impossible – Phantom Protokoll",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Mission: Impossible|1996",
+      "title": "Mission: Impossible",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Modern Times|1936",
+      "title": "Moderne Zeiten",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Monty Python and the Holy Grail|1975",
+      "title": "Die Ritter der Kokosnuss",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Monty Python's Life of Brian|1979",
+      "title": "Das Leben des Brian",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Moonstruck|1987",
+      "title": "Mondsüchtig",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Moon|2009",
+      "title": "Moon",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Mulholland Drive|2001",
+      "title": "Mulholland Drive – Straße der Finsternis",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Music and Lyrics|2007",
+      "title": "Mitten ins Herz – Ein Song für dich",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Mutiny on the Bounty|1962",
+      "title": "Meuterei auf der Bounty",
+      "genres": [
+        "Abenteuer"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "M|1931",
+      "title": "M – Eine Stadt sucht einen Mörder",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "National Lampoon's Christmas Vacation|1989",
+      "title": "Schöne Bescherung",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "New Police Story|2004",
+      "title": "New Police Story",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Nineteen Eighty-Four|1984",
+      "title": "1984",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "North by Northwest|1959",
+      "title": "Der unsichtbare Dritte",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Nosferatu, eine Symphonie des Grauens|1922",
+      "title": "Nosferatu, eine Symphonie des Grauens",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Notting Hill|1999",
+      "title": "Notting Hill",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Oblivion|2013",
+      "title": "Oblivion",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "On the Waterfront|1954",
+      "title": "Die Faust im Nacken",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "One Flew Over the Cuckoo's Nest|1975",
+      "title": "Einer flog über das Kuckucksnest",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Ong-Bak: Muay Thai Warrior|2003",
+      "title": "Ong-Bak",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Only Lovers Left Alive|2013",
+      "title": "Only Lovers Left Alive",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Open Range|2003",
+      "title": "Open Range",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Pale Rider|1985",
+      "title": "Pale Rider – Der namenlose Reiter",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Pappa ante portas|1991",
+      "title": "Pappa ante portas",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Paris, Texas|1984",
+      "title": "Paris, Texas",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "Paterson|2016",
+      "title": "Paterson",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Per qualche dollaro in più|1965",
+      "title": "Für ein paar Dollar mehr",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Per un pugno di dollari|1964",
+      "title": "Für eine Handvoll Dollar",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Persona|1966",
+      "title": "Persona",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Pet Sematary|1989",
+      "title": "Friedhof der Kuscheltiere",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Philadelphia|1993",
+      "title": "Philadelphia",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Police Story 3: Super Cop|1992",
+      "title": "Police Story III – Supercop",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Police Story|1985",
+      "title": "Police Story",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Poltergeist|1982",
+      "title": "Poltergeist",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Predator|1987",
+      "title": "Predator",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Pretty Woman|1990",
+      "title": "Pretty Woman",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Project A|1983",
+      "title": "Der Superfighter",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Psycho|1960",
+      "title": "Psycho",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Raging Bull|1980",
+      "title": "Wie ein wilder Stier",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Rain Man|1988",
+      "title": "Rain Man",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Rambo: First Blood Part II|1985",
+      "title": "Rambo II – Der Auftrag",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Rear Window|1954",
+      "title": "Das Fenster zum Hof",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Rebecca|1940",
+      "title": "Rebecca",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Return of the Jedi|1983",
+      "title": "Star Wars: Episode VI – Die Rückkehr der Jedi-Ritter",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Ring|1998",
+      "title": "Ring – Das Original",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "RoboCop|1987",
+      "title": "RoboCop",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Roman Holiday|1953",
+      "title": "Ein Herz und eine Krone",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Rumble in the Bronx|1995",
+      "title": "Rumble in the Bronx",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Rush Hour|1998",
+      "title": "Rush Hour",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Saw|2004",
+      "title": "Saw",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Schindler's List|1993",
+      "title": "Schindlers Liste",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Scream 2|1997",
+      "title": "Scream 2",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Scream|1996",
+      "title": "Scream – Schrei!",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Shaun of the Dead|2004",
+      "title": "Shaun of the Dead",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Singin' in the Rain|1952",
+      "title": "Singin’ in the Rain",
+      "genres": [
+        "Musik"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Skyfall|2012",
+      "title": "James Bond 007: Skyfall",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Sleepless in Seattle|1993",
+      "title": "Schlaflos in Seattle",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Smultronstället|1957",
+      "title": "Wilde Erdbeeren",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Snake in the Eagle's Shadow|1978",
+      "title": "Die Schlange im Schatten des Adlers",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Snowpiercer|2013",
+      "title": "Snowpiercer",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Source Code|2011",
+      "title": "Source Code",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Spaceballs|1987",
+      "title": "Spaceballs",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Speed|1994",
+      "title": "Speed",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Stand by Me|1986",
+      "title": "Stand by Me – Das Geheimnis eines Sommers",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Star Trek II: The Wrath of Khan|1982",
+      "title": "Star Trek II: Der Zorn des Khan",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Star Trek IV: The Voyage Home|1986",
+      "title": "Star Trek IV: Zurück in die Gegenwart",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 4
+    },
+    {
+      "film": "Star Trek: First Contact|1996",
+      "title": "Star Trek: Der erste Kontakt",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Star Wars|1977",
+      "title": "Star Wars: Episode IV – Eine neue Hoffnung",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Stardust|2007",
+      "title": "Der Sternwanderer",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Stargate|1994",
+      "title": "Stargate",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Starship Troopers|1997",
+      "title": "Starship Troopers",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Sunshine|2007",
+      "title": "Sunshine",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Superbad|2007",
+      "title": "Superbad",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Sweet Home Alabama|2002",
+      "title": "Sweet Home Alabama – Liebe auf Umwegen",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Taken|2008",
+      "title": "96 Hours",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Taxi Driver|1976",
+      "title": "Taxi Driver",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Terminator 2: Judgment Day|1991",
+      "title": "Terminator 2 – Tag der Abrechnung",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "The 36th Chamber of Shaolin|1978",
+      "title": "Die 36 Kammern der Shaolin",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The African Queen|1951",
+      "title": "African Queen",
+      "genres": [
+        "Abenteuer"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Big Lebowski|1998",
+      "title": "The Big Lebowski",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Birds|1963",
+      "title": "Die Vögel",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "The Blues Brothers|1980",
+      "title": "The Blues Brothers",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Bourne Identity|2002",
+      "title": "Die Bourne Identität",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Bridge on the River Kwai|1957",
+      "title": "Die Brücke am Kwai",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Chronicles of Narnia: Prince Caspian|2008",
+      "title": "Die Chroniken von Narnia: Prinz Kaspian von Narnia",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005",
+      "title": "Die Chroniken von Narnia: Der König von Narnia",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Chronicles of Narnia: The Voyage of the Dawn Treader|2010",
+      "title": "Die Chroniken von Narnia: Die Reise auf der Morgenröte",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Conjuring|2013",
+      "title": "Conjuring – Die Heimsuchung",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Dark Crystal|1982",
+      "title": "Der dunkle Kristall",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Empire Strikes Back|1980",
+      "title": "Star Wars: Episode V – Das Imperium schlägt zurück",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "The Evil Dead|1981",
+      "title": "Tanz der Teufel",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Exorcist|1973",
+      "title": "Der Exorzist",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Fifth Element|1997",
+      "title": "Das fünfte Element",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "The Fugitive|1993",
+      "title": "Auf der Flucht",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Godfather|1972",
+      "title": "Der Pate",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Gold Rush|1925",
+      "title": "Goldrausch",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Grand Budapest Hotel|2014",
+      "title": "Grand Budapest Hotel",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Green Mile|1999",
+      "title": "The Green Mile",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Gunfighter|1950",
+      "title": "Der Scharfschütze",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Hangover|2009",
+      "title": "Hangover",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Hobbit: An Unexpected Journey|2012",
+      "title": "Der Hobbit: Eine unerwartete Reise",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Hobbit: The Battle of the Five Armies|2014",
+      "title": "Der Hobbit: Die Schlacht der fünf Heere",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Hobbit: The Desolation of Smaug|2013",
+      "title": "Der Hobbit: Smaugs Einöde",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Holiday|2006",
+      "title": "Liebe braucht keine Ferien",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "title": "Der Herr der Ringe: Die Gefährten",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "title": "Der Herr der Ringe: Die Rückkehr des Königs",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Lord of the Rings: The Two Towers|2002",
+      "title": "Der Herr der Ringe: Die zwei Türme",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Magnificent Seven|2016",
+      "title": "Die glorreichen Sieben",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Man Who Shot Liberty Valance|1962",
+      "title": "Der Mann, der Liberty Valance erschoss",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Martian|2015",
+      "title": "Der Marsianer – Rettet Mark Watney",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 4
+    },
+    {
+      "film": "The Matrix Reloaded|2003",
+      "title": "Matrix Reloaded",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "The Matrix|1999",
+      "title": "Matrix",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "The Naked Gun: From the Files of Police Squad!|1988",
+      "title": "Die nackte Kanone",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The NeverEnding Story|1984",
+      "title": "Die unendliche Geschichte",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Night of the Hunter|1955",
+      "title": "Die Nacht des Jägers",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Omen|1976",
+      "title": "Das Omen",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Outlaw Josey Wales|1976",
+      "title": "Der Texaner",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Pianist|2002",
+      "title": "Der Pianist",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Piano|1993",
+      "title": "Das Piano",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Princess Bride|1987",
+      "title": "Die Braut des Prinzen",
+      "genres": [
+        "Fantasy"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Proposal|2009",
+      "title": "Selbst ist die Braut",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Rock|1996",
+      "title": "The Rock – Entscheidung auf Alcatraz",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Shawshank Redemption|1994",
+      "title": "Die Verurteilten",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Shining|1980",
+      "title": "Shining",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Social Network|2010",
+      "title": "The Social Network",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Sting|1973",
+      "title": "Der Clou",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Terminator|1984",
+      "title": "Terminator",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "The Texas Chain Saw Massacre|1974",
+      "title": "Blutgericht in Texas",
+      "genres": [
+        "Horror"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Truman Show|1998",
+      "title": "Die Truman Show",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "The Way of the Dragon|1972",
+      "title": "Die Todeskralle schlägt wieder zu",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Wedding Planner|2001",
+      "title": "Wedding Planner – Verliebt, verlobt, verplant",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Wedding Singer|1998",
+      "title": "Eine Hochzeit zum Verlieben",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "The Wild Bunch|1969",
+      "title": "The Wild Bunch – Sie kannten kein Gesetz",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "To Kill a Mockingbird|1962",
+      "title": "Wer die Nachtigall stört",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Tom-Yum-Goong|2005",
+      "title": "Revenge of the Warrior",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Tombstone|1993",
+      "title": "Tombstone",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Total Recall|1990",
+      "title": "Die totale Erinnerung – Total Recall",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Trading Places|1983",
+      "title": "Die Glücksritter",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Tropic Thunder|2008",
+      "title": "Tropic Thunder",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "True Grit|2010",
+      "title": "True Grit",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "True Lies|1994",
+      "title": "True Lies – Wahre Lügen",
+      "genres": [
+        "Action"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 7
+    },
+    {
+      "film": "Unforgiven|1992",
+      "title": "Erbarmungslos",
+      "genres": [
+        "Western"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Vertigo|1958",
+      "title": "Vertigo",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "WarGames|1983",
+      "title": "WarGames – Kriegsspiele",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 5
+    },
+    {
+      "film": "Wheels on Meals|1984",
+      "title": "Powerman",
+      "genres": [
+        "Martial Arts & Asia-Film"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "When Harry Met Sally...|1989",
+      "title": "Harry & Sally",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 1,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "While You Were Sleeping|1995",
+      "title": "Während Du schliefst",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Whiplash|2014",
+      "title": "Whiplash",
+      "genres": [
+        "Drama"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Witness for the Prosecution|1957",
+      "title": "Zeugin der Anklage",
+      "genres": [
+        "Thriller"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "You've Got Mail|1998",
+      "title": "E-m@il für Dich",
+      "genres": [
+        "Rom-Com"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Young Frankenstein|1974",
+      "title": "Frankenstein Junior",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Ödipussi|1988",
+      "title": "Ödipussi",
+      "genres": [
+        "Komödie"
+      ],
+      "familiarity": 2,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Солярис|1972",
+      "title": "Solaris",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 3,
+      "knowledgeGoals": 8
+    },
+    {
+      "film": "Сталкер|1979",
+      "title": "Stalker",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "familiarity": 4,
+      "knowledgeGoals": 8
+    }
+  ]
+}
