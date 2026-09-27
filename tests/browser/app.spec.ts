@@ -152,7 +152,7 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
     page.getByText(
-      "Zufällige Auswahl ohne Gewichtung nach Deinem Lernstand. Sichere Antworten abgeschlossener Runden zählen auch für Deine Filmreise.",
+      "Du wählst Genres, Schwierigkeit und Bekanntheit der Filme frei aus. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
     ),
   ).toBeVisible();
   await page.getByRole("button", { name: "Profil", exact: true }).click();

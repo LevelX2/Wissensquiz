@@ -20,6 +20,8 @@ Zuerst Wissensziele zufällig mischen, dann eine passende Fragevariante wählen.
 
 ## Freischaltung
 
+Der Hinweis unter Losspielen erklärt den gewählten Modus in zwei kurzen Sätzen. „Mehr zu Auswahl und Ablauf“ öffnet die Erläuterung der Filterzusammenfassung, Rundengröße, Fragenauswahl und gemeinsamen Fortschrittswertung; bei Rekord zusätzlich Timer, Tabwechsel und Neuladen. Beim Moduswechsel ist die Erklärung wieder geschlossen. Der Spoilerhinweis bleibt sichtbar. Doppelte Moduserklärungen unter den Filtern entfallen; Auswahlalgorithmus und Speicherung bleiben unverändert.
+
 `src/journeyCurriculum.json` ist der eingefrorene Startplan aus dem vollständigen Katalog einschließlich Filmwissen-Fragen. Neue Pakete ändern diese Ziele nicht automatisch.
 
 - Einstieg je Genre bei Leicht und der niedrigsten vorhandenen Filmgruppe. Leere Gruppen überspringen; Thriller und Musik beginnen bei Gruppe 2.

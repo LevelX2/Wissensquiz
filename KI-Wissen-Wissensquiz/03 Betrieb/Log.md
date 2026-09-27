@@ -276,3 +276,7 @@ Veröffentlichungsquittung: Sites-Version 27, App-Commit `02f4046f011b6ae814be03
 Auf Nutzerwunsch bestehende Antwortklänge deutlicher getrennt: richtig heller aufsteigender Sinus-Zweiklang (250 ms), falsch tieferer weicher Dreieck-Abwärtston (265 ms), beide mit dezenten Pegeln. Tonoption und übrige Signale erhalten. Browserprüfung um Frequenzrichtung, Klangfarbe und Dauer ergänzt; 125 Logik-/Datenbanktests, Build, alle 63 Browserprüfungen und Diff-Prüfung erfolgreich. Physischer Hörtest offen. Keine Nutzerdatenänderung.
 
 Veröffentlicht als Sites-Version 28, App-Commit `a44552527e61538682f8c38c9375787f8565367a`, Deployment `appgdep_6ab8c1353c748191a6b7eb8291f2d576`, nativer Status `succeeded`. Bestehende öffentliche Adresse und Projekt-ID erhalten; native Browserübergabe, kein zusätzlicher Live-Hörtest.
+
+## 27.09.2026 — Verständliche Rundenhinweise
+
+Unter Losspielen zwei verständliche Sätze zum gewählten Modus; ergänzende Klappe „Mehr zu Auswahl und Ablauf“ erklärt Filterzusammenfassung, Rundengröße, Fragenauswahl, gemeinsame Wissensziele und Freischaltungen sowie Rekord-Zeitregeln. Spoilerhinweis sichtbar erhalten, doppelte Erläuterungen unter Filtern entfernt. Keine Änderung von Auswahl, Fortschritt oder Speicherung. 125 Logik-/Datenbanktests, Build, alle 63 Browserprüfungen und Diff-Prüfung erfolgreich; mobile Darstellung, Tastaturbedienung und Moduswechsel geprüft.

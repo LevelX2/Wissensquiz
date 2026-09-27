@@ -665,11 +665,28 @@ textarea {
   min-height: 44px;
   font-size: 12px;
 }
-.spoiler-note {
-  font-size: 10px;
+.round-guide {
+  font-size: 13px;
   color: #4c5b60;
-  margin: 15px 0 0;
-  line-height: 1.7;
+  margin: 12px 0 0;
+  line-height: 1.5;
+}
+.round-guide p {
+  margin: 0 0 8px;
+}
+.round-guide summary {
+  cursor: pointer;
+  color: #715224;
+  min-height: 44px;
+  align-content: center;
+  font-weight: 600;
+}
+.round-guide-details {
+  padding: 8px 0;
+}
+.round-guide .round-spoiler {
+  font-size: 12px;
+  margin: 0;
 }
 .journey-strip {
   border: 1px solid #343a36;
@@ -1633,9 +1650,6 @@ details p {
     display: flex;
     justify-content: space-between;
     padding: 14px 20px;
-  }
-  .spoiler-note {
-    font-size: 10px;
   }
   .journey-strip {
     padding: 19px 16px;

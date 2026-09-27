@@ -1,5 +1,7 @@
 # Prüfnachweis – 26. September 2026
 
+Aktualisierung 27.09.2026: Nach Überarbeitung der Rundenhinweise 125 Logik-/Datenbanktests, Build und alle 63 Browserfälle erfolgreich (61 Chromium, zwei WebKit). Der kompakte Spieleinstieg prüft die modusabhängige Erklärung, zunächst geschlossene Details, Öffnen/Schließen mit Enter, Zurücksetzen beim Moduswechsel, Rekord-Zeithinweise sowie die 320-Pixel-Ansicht ohne horizontalen Überlauf. Mobile Screenshots geprüft. Auswahlregeln, Speicherung und Lernstände unverändert; Diff-Prüfung erfolgreich.
+
 ## Umgebung und Ergebnis
 
 Windows, Node 24.19.0, npm 11.17.0, React 19, TypeScript 5.9, Vite 7.3.6, Vitest 4.1.11, Playwright Chromium 153. Produktions-Build erfolgreich, zuletzt 103 Logik-/Persistenz-/Datenbanktests und alle 56 Browserfälle erfolgreich (55 im vollständigen Lauf, einer nach Testdatenergänzung gezielt nachgeprüft). Nach Ergänzung von Supabase SDK und PGlite `npm audit` erneut ausgeführt: 0 bekannte Schwachstellen. Tests in separaten Browserprofilen; kontrollierte Testdaten wurden nicht in einen Nutzerbrowser übernommen.

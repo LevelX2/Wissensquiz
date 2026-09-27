@@ -57,6 +57,8 @@ Aktuelle Bedienungsverbesserungen: alle Genres gesammelt abwählbar; Genre-Bilde
 
 Spieleinstieg ohne große Werbefläche, Losspielen direkt unter der Moduswahl. Gleichmäßiges Genre-Raster; freie Schwierigkeit und Stufenfortschritte separat aufklappbar, gemeinsame Genre-Bilder. Normaler Lernpfad berücksichtigt automatisch alle freigeschalteten Stufen. Classics lässt sich mit Genres kombinieren, ohne doppelte Fragen oder Lernstände. Arthouse ist als weitere kuratierte Zusatzkategorie einzeln und gemeinsam mit Classics wählbar (Vereinigung, keine Doppelzählung). Kleine Genres verwenden erreichbare Ziele und überspringen leere Filmgruppen.
 
+Unter Losspielen erklärt ein kurzer Hinweis den gewählten Modus. „Mehr zu Auswahl und Ablauf“ erläutert bei Bedarf Filter, Rundengröße, gemeinsame Wissensziele und Fortschrittswertung; in der Rekordrunde zusätzlich das Zeitverhalten. Der Hinweis auf mögliche Handlungsauflösungen bleibt sichtbar.
+
 
 Fragenstatistik in Entdecken/Besser werden: konkrete Frage-ID mit beantwortet/richtig/falsch; aufklappbar Zeitabläufe, geratene Treffer und gemeinsame Variantenbilanz nach Wissensziel-ID. Rein aus bestehenden Ereignissen aller Modi/Rundenstatus abgeleitet, keine Speicherung oder Migration zusätzlicher Zähler.
 

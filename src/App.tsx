@@ -42,6 +42,7 @@ import { useOffline } from "./offline";
 import { BadgeIcon, GenreArtwork } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
+import { RoundGuide } from "./RoundGuide";
 import { readRoundSetup } from "./roundSetup";
 import { answeredTopics } from "./collection";
 import { QuestionHistory } from "./QuestionHistoryPanel";
@@ -619,13 +620,7 @@ export function App({
                   </div>
                 )}
 
-                <p className="spoiler-note">
-                  Hinweis: Filmfragen können Handlung verraten. Du startest mit{" "}
-                  {selection.length} unterschiedlichen Wissenszielen.
-                  {mode === "rekord"
-                    ? " Die Uhr läuft bei einem Tabwechsel weiter; Neuladen beendet die Rekordrunde."
-                    : ""}
-                </p>
+                <RoundGuide mode={mode} />
                 {!selection.length ? (
                   <p role="status" className="notice">
                     {mode === "entdecken"
@@ -644,8 +639,7 @@ export function App({
                 ) : (
                   selection.length < targetSize && (
                     <p className="tiny muted">
-                      Die Runde ist an Deinen Bestand angepasst. Fällige Inhalte
-                      werden auf höchstens fünf pro Runde begrenzt.
+                      Für Deine Auswahl ist diese Runde kürzer.
                     </p>
                   )
                 )}
@@ -790,20 +784,8 @@ export function App({
                           dabei.
                         </p>
                       </fieldset>
-                      <p className="tiny muted">
-                        Zufällige Auswahl ohne Gewichtung nach Deinem Lernstand.
-                        Sichere Antworten abgeschlossener Runden zählen auch für
-                        Deine Filmreise.
-                      </p>
                     </>
-                  ) : (
-                    <p className="tiny muted">
-                      Deine Filmreise startet mit leichten Fragen zu den
-                      bekanntesten verfügbaren Filmen. Du öffnest je Genre
-                      weitere Schwierigkeiten und Filmgruppen. Frei auswählen
-                      kannst Du im Freien Spiel und in der Rekordrunde.
-                    </p>
-                  )}
+                  ) : null}
                   <LearningPath state={state} genres={filters.genres} />
                 </div>
               </section>

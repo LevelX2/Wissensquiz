@@ -24,6 +24,27 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.setViewportSize({ width: 320, height: 740 });
   const startBox = (await start.boundingBox())!;
   expect(startBox.y + startBox.height).toBeLessThan(600);
+  const guide = page.locator(".round-guide");
+  const more = guide.locator("summary");
+  await expect(guide).toContainText("bevorzugt neue Fragen");
+  await expect(guide.locator(".round-guide-details")).not.toBeVisible();
+  await more.focus();
+  await page.keyboard.press("Enter");
+  await expect(
+    guide.getByText("Deine Auswahl:", { exact: true }),
+  ).toBeVisible();
+  await expect(guide).toContainText(
+    "Als geraten markierte Treffer zählen dafür nicht",
+  );
+  await expect(guide).toContainText("höchstens eine dieser Fragen");
+  await page.screenshot({ path: "test-results/rundenhinweis-320.png" });
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page.keyboard.press("Enter");
+  await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await expect(page.locator(".hero")).toHaveCount(0);
   await expect(
     page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
@@ -40,6 +61,21 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await expect(page.locator(".path-progress .genre-thumbnail")).toHaveCount(12);
   await expect(page.locator(".path-progress .genre-icon")).toHaveCount(0);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await expect(guide).toContainText("zufällige Fragen ohne Zeitdruck");
+  await more.click();
+  await expect(
+    guide.getByText("Zufällige Fragen:", { exact: true }),
+  ).toBeVisible();
+  await page.getByRole("button", { name: /Rekordrunde 30 Sekunden/ }).click();
+  await expect(guide.locator(".round-guide-details")).not.toBeVisible();
+  await expect(guide).toContainText("Pro Frage hast Du 30 Sekunden");
+  await more.click();
+  await expect(
+    guide.getByText("Die Uhr läuft beim Tabwechsel weiter.", { exact: true }),
+  ).toBeVisible();
+  await expect(guide).toContainText("Neuladen beendet die Rekordrunde");
+  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await expect(
     page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
   ).toHaveAttribute("aria-pressed", "true");
