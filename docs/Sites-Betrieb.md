@@ -25,6 +25,10 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 ## Aktueller Veröffentlichungsstand
 
+Version 25 am 27.09.2026: Doppelte Genreübersicht unter Spielen entfernt; Themenkarten öffnen passende Film-/Reihenblöcke mit Rückweg und korrekter Übernahme von Genre oder Kategorie. Favoritenfunktion in der Sammlung erklärt und unverändert erhalten. App-Commit `be0bab972174e3dc534c0969d0055a81d6965126`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_9c4a9f63caa88191bbacc72e646ca661`, Deployment `appgdep_6ab8aaac9a1c8191b78e5c03814e6dfa`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 111 Logik-/Datenbanktests, Produktions-Build und alle 61 Browserfälle geprüft (60 vollständig, neuer Themen-/Filmtest nach Titelkorrektur gezielt erfolgreich). Handyansicht, Axe und unveränderter Spielstand beim Stöbern geprüft. Rohquellen und Lernstände erhalten. Regulärer Sites-Workflow mit nativer Browserübergabe; keine zusätzliche Live-Browserprüfung. Physische Smartphone-Abnahme offen.
+
+### Vorherige Veröffentlichung: Version 24
+
 Version 24 am 27.09.2026: Speicherstatus als feste farbige Markierung am Profil und in der Runde; Details ohne Layoutsprung, Uploads kurzer Aktionsfolgen gebündelt, bekannte Fehler genauer erklärt. App-Commit `6375d19c2170a6efebcafc7d9bb7404e2e9b6b2f`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_67aefbadce748191af1d36cb8e342dcd`, Deployment `appgdep_6ab8463507a08191b63dececb59a04d2`, nativer Status `succeeded`. Bestehende öffentliche URL und Projekt-ID erhalten. 111 Logik-/Datenbanktests, Produktions-Build und alle 60 Browserfälle geprüft; nach abschließender Profilanpassung alle neun Kontenfälle und Navigation erfolgreich. Handy-Geometrie und Screenshot geprüft, Nachspeicherung/Gerätewechsel/Revisionskonflikt getestet. Lernfortschritte, Rohquellen und Datenbankrechte erhalten. Regulärer Sites-Workflow mit nativer Browserübergabe, keine zusätzliche Live-Browserprüfung. Ursache der konkreten Handy-Uploadfehler bleibt unbestätigt; vollständige Spielstandsübertragung weiterhin rund 8 MB plus Fortschritt.
 
 ### Vorherige Veröffentlichung: Version 23
