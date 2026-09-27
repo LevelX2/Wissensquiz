@@ -39,11 +39,10 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
   await expect(page.locator(".path-progress .genre-thumbnail")).toHaveCount(12);
   await expect(page.locator(".path-progress .genre-icon")).toHaveCount(0);
-  await page.getByText("Schwierigkeit selbst wählen", { exact: true }).click();
-  await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
+  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
-    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
-  ).toBeChecked();
+    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+  ).toHaveAttribute("aria-pressed", "true");
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",
     exact: true,
@@ -53,13 +52,13 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await expect(page.locator("#round-summary")).toContainText(
     "Freie Auswahl: Schwer",
   );
-  await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
+  await page.getByRole("button", { name: /Filmreise Filmwelten/ }).click();
   await expect(
-    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
-  ).not.toBeChecked();
+    page.getByRole("button", { name: /Filmreise Filmwelten/ }),
+  ).toHaveAttribute("aria-pressed", "true");
   await expect(start).toBeEnabled();
   await expect(levels).toHaveCount(0);
-  await expect(page.locator("#round-summary")).toContainText("Lernpfad");
+  await expect(page.locator("#round-summary")).toContainText("Filmreise");
   await page
     .getByRole("button", { name: "Alle Genres abwählen", exact: true })
     .click();

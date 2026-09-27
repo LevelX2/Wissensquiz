@@ -25,6 +25,12 @@ for (const both of [false, true]) {
       .getByLabel("Rom-Com", { exact: true })
       .check();
     if (both) await page.getByLabel("Nur Classics", { exact: true }).check();
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeDisabled();
+    await page
+      .getByRole("button", { name: "Zum Freien Spiel wechseln" })
+      .click();
     const imgs = page
       .getByRole("group", { name: "Zusätzliche Kategorien" })
       .locator("img");

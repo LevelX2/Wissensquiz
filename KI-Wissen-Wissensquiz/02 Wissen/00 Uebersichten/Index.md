@@ -13,6 +13,7 @@
 - [Erklärungstiefe und geprüfte Darstellerergänzungen](../../../docs/Erklaerungstiefe.md)
 - [Fragenweiser Nachweis der Darstellerprüfung](../../../docs/Darstellerpruefung.json)
 - [Lernregeln, Auswahl, Punkte, Speicher- und Offlinevertrag](../../../docs/Lernregeln.md)
+- [Filmreise, freies Spiel und vier Bekanntheitsgruppen](../../../docs/Spielmodi-und-Bekanntheit.md)
 - [Konten, private Spielstände und automatische Trainingsrangliste](../../../docs/Konten-und-Spielstaende.md)
 - [Supabase-Einrichtung, Datenbankregeln und Mailvorlagen](../../../docs/Konten-Einrichtung.md)
 - [Tatsächliche Prüfungen und bekannte Grenzen](../../../docs/Pruefbericht.md)

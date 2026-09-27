@@ -1,0 +1,1054 @@
+{
+  "version": 1,
+  "percent": 60,
+  "genres": {
+    "Abenteuer": {
+      "first": 1,
+      "difficultyTargets": [
+        2,
+        2
+      ],
+      "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 2,
+          "goals": [
+            "K-CLA-06-01",
+            "K-CLA-06-02",
+            "K-FF-056-YEAR"
+          ]
+        },
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 3,
+          "goals": [
+            "K-CLA-04-01",
+            "K-CLA-04-02",
+            "K-CLA-07-01",
+            "K-CLA-07-02"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 3,
+          "goals": [
+            "K-ART-06-01",
+            "K-ART-06-02",
+            "K-CLA-23-01",
+            "K-CLA-23-02"
+          ]
+        },
+        {
+          "level": 4,
+          "difficulty": "leicht",
+          "target": 2,
+          "goals": [
+            "K-ART-07-01",
+            "K-ART-07-02"
+          ]
+        }
+      ]
+    },
+    "Action": {
+      "first": 1,
+      "difficultyTargets": [
+        10,
+        14
+      ],
+      "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 10,
+          "goals": [
+            "K-ACT-01-mcclane-darsteller",
+            "K-ACT-01-nakatomi",
+            "K-ACT-06-annie-darstellerin",
+            "K-ACT-06-fuenfzig",
+            "K-ACT-15-rambo-stallone",
+            "K-ACT-15-vietnamveteran",
+            "K-ACT-17-bond-connery",
+            "K-ACT-17-oddjob-hut",
+            "K-ACT-19-craig-debuet",
+            "K-ACT-19-poker",
+            "K-ACT-20-m-dench",
+            "K-ACT-20-skyfall-anwesen",
+            "K-ACT-21-ethan-darsteller",
+            "K-ACT-21-imf-dienst",
+            "K-FF-001-YEAR",
+            "K-FF-017-YEAR"
+          ]
+        },
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 20,
+          "goals": [
+            "K-ACT-02-dulles",
+            "K-ACT-02-holly-flugzeug",
+            "K-ACT-03-simon-bruder",
+            "K-ACT-03-zeus-darsteller",
+            "K-ACT-04-murtaugh-partner",
+            "K-ACT-04-riggs-darsteller",
+            "K-ACT-07-alcatraz",
+            "K-ACT-07-goodspeed-darsteller",
+            "K-ACT-08-gefangenentransport",
+            "K-ACT-08-poe-ranger",
+            "K-ACT-09-gesichtstausch",
+            "K-ACT-09-john-woo",
+            "K-ACT-10-hanna-polizist",
+            "K-ACT-10-neil-darsteller",
+            "K-ACT-11-kimble-chirurg",
+            "K-ACT-11-kimble-darsteller",
+            "K-ACT-12-marshall-ford",
+            "K-ACT-12-praesidentenflugzeug",
+            "K-ACT-13-cameron-regie",
+            "K-ACT-13-harry-agent",
+            "K-ACT-16-kriegsgefangene",
+            "K-ACT-16-vietnam-rueckkehr",
+            "K-ACT-18-brosnan-debuet",
+            "K-ACT-18-goldeneye-waffe",
+            "K-ACT-22-burj-khalifa",
+            "K-ACT-22-ghost-protokoll",
+            "K-ACT-23-amnesie-fund",
+            "K-ACT-23-bourne-damon",
+            "K-ACT-24-bryan-neeson",
+            "K-ACT-24-kim-paris",
+            "K-ACT-25-daisy-helen",
+            "K-ACT-25-wick-reeves"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 3,
+          "goals": [
+            "K-ACT-05-leo-getz",
+            "K-ACT-05-suedafrika",
+            "K-ACT-14-jenny-tochter",
+            "K-ACT-14-matrix-name"
+          ]
+        }
+      ]
+    },
+    "Drama": {
+      "first": 1,
+      "difficultyTargets": [
+        15,
+        18
+      ],
+      "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 15,
+          "goals": [
+            "K-CLA-01-01",
+            "K-CLA-01-02",
+            "K-DRA-01-01",
+            "K-DRA-01-02",
+            "K-DRA-02-01",
+            "K-DRA-02-02",
+            "K-DRA-03-01",
+            "K-DRA-03-02",
+            "K-DRA-04-01",
+            "K-DRA-04-02",
+            "K-DRA-07-01",
+            "K-DRA-07-02",
+            "K-DRA-08-01",
+            "K-DRA-08-02",
+            "K-DRA-21-01",
+            "K-DRA-21-02",
+            "K-DRA-23-01",
+            "K-DRA-23-02",
+            "K-FF-051-YEAR",
+            "K-FF-076-YEAR",
+            "K-FF-078-YEAR",
+            "K-FF-079-DIRECTOR",
+            "K-FF-079-YEAR",
+            "K-FF-098-YEAR"
+          ]
+        },
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 26,
+          "goals": [
+            "K-ART-21-01",
+            "K-ART-21-02",
+            "K-CLA-02-01",
+            "K-CLA-02-02",
+            "K-CLA-08-01",
+            "K-CLA-08-02",
+            "K-CLA-21-01",
+            "K-CLA-21-02",
+            "K-DRA-05-01",
+            "K-DRA-05-02",
+            "K-DRA-06-01",
+            "K-DRA-06-02",
+            "K-DRA-09-01",
+            "K-DRA-09-02",
+            "K-DRA-10-01",
+            "K-DRA-10-02",
+            "K-DRA-11-01",
+            "K-DRA-11-02",
+            "K-DRA-12-01",
+            "K-DRA-12-02",
+            "K-DRA-13-01",
+            "K-DRA-13-02",
+            "K-DRA-14-01",
+            "K-DRA-14-02",
+            "K-DRA-15-01",
+            "K-DRA-15-02",
+            "K-DRA-17-01",
+            "K-DRA-17-02",
+            "K-DRA-18-01",
+            "K-DRA-18-02",
+            "K-DRA-19-01",
+            "K-DRA-19-02",
+            "K-DRA-20-01",
+            "K-DRA-20-02",
+            "K-DRA-22-01",
+            "K-DRA-22-02",
+            "K-DRA-24-01",
+            "K-DRA-24-02",
+            "K-FF-052-YEAR",
+            "K-FF-089-DIRECTOR",
+            "K-FF-090-DIRECTOR",
+            "K-FF-099-YEAR"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 14,
+          "goals": [
+            "K-ART-01-01",
+            "K-ART-01-02",
+            "K-ART-05-01",
+            "K-ART-05-02",
+            "K-ART-18-01",
+            "K-ART-18-02",
+            "K-ART-19-01",
+            "K-ART-19-02",
+            "K-ART-22-01",
+            "K-ART-22-02",
+            "K-ART-23-01",
+            "K-ART-23-02",
+            "K-CLA-03-01",
+            "K-CLA-03-02",
+            "K-CLA-24-01",
+            "K-CLA-24-02",
+            "K-CLA-25-01",
+            "K-CLA-25-02",
+            "K-DRA-16-01",
+            "K-DRA-16-02",
+            "K-DRA-25-01",
+            "K-DRA-25-02",
+            "K-FF-026-YEAR"
+          ]
+        },
+        {
+          "level": 4,
+          "difficulty": "leicht",
+          "target": 6,
+          "goals": [
+            "K-ART-03-01",
+            "K-ART-03-02",
+            "K-ART-04-01",
+            "K-ART-04-02",
+            "K-ART-15-01",
+            "K-ART-15-02",
+            "K-ART-16-01",
+            "K-ART-16-02",
+            "K-ART-20-01",
+            "K-ART-20-02"
+          ]
+        }
+      ]
+    },
+    "Fantasy": {
+      "first": 1,
+      "difficultyTargets": [
+        12,
+        10
+      ],
+      "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 12,
+          "goals": [
+            "K-FAN-01-frodo-wood",
+            "K-FAN-01-schicksalsberg",
+            "K-FAN-02-gollum-fuehrer",
+            "K-FAN-02-helms-klamm",
+            "K-FAN-03-aragorn-koenig",
+            "K-FAN-03-ring-gollum",
+            "K-FAN-07-hedwig",
+            "K-FAN-07-hogwarts",
+            "K-FAN-14-hoggwarts-schlacht",
+            "K-FAN-14-neville-nagini",
+            "K-FAN-20-das-nichts",
+            "K-FAN-20-fuchur-drache",
+            "K-FF-101-DIRECTOR",
+            "K-FF-101-YEAR",
+            "K-FF-102-DIRECTOR",
+            "K-FF-102-YEAR",
+            "K-FF-103-DIRECTOR",
+            "K-FF-103-YEAR",
+            "K-FF-107-YEAR"
+          ]
+        },
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 18,
+          "goals": [
+            "K-ART-02-01",
+            "K-ART-02-02",
+            "K-FAN-04-bilbo-freeman",
+            "K-FAN-04-thorin-anführer",
+            "K-FAN-05-bard",
+            "K-FAN-05-smaug-drache",
+            "K-FAN-06-bard-pfeil",
+            "K-FAN-06-thorin-gier",
+            "K-FAN-08-basilisk",
+            "K-FAN-08-dobby",
+            "K-FAN-09-sirius-ausbruch",
+            "K-FAN-09-zeitumkehrer",
+            "K-FAN-10-cedric",
+            "K-FAN-10-trimagisch",
+            "K-FAN-11-dumbledores-armee",
+            "K-FAN-11-umbridge",
+            "K-FAN-12-halbblutprinz-snape",
+            "K-FAN-12-slughorn-tränke",
+            "K-FAN-13-dobby-rettung",
+            "K-FAN-13-horkruxsuche",
+            "K-FAN-15-aslan-loewe",
+            "K-FAN-15-kleiderschrank",
+            "K-FAN-24-del-toro",
+            "K-FAN-24-ofelia",
+            "K-FAN-25-edward-depp",
+            "K-FAN-25-peg-aufnahme",
+            "K-FF-104-DIRECTOR",
+            "K-FF-105-DIRECTOR",
+            "K-FF-106-DIRECTOR",
+            "K-FF-125-DIRECTOR"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 8,
+          "goals": [
+            "K-FAN-16-kaspian-gegner",
+            "K-FAN-16-riepischiep-maus",
+            "K-FAN-17-eustachius-cousin",
+            "K-FAN-17-morgenroete-schiff",
+            "K-FAN-18-grossvater-rahmen",
+            "K-FAN-18-westley-liebe",
+            "K-FAN-19-jen-gelfling",
+            "K-FAN-19-kristall-heilen",
+            "K-FAN-21-jareth-bowie",
+            "K-FAN-21-sarah-toby",
+            "K-FAN-23-victoria-geschenk",
+            "K-FAN-23-yvaine-stern"
+          ]
+        },
+        {
+          "level": 4,
+          "difficulty": "leicht",
+          "target": 2,
+          "goals": [
+            "K-FAN-22-einhoerner",
+            "K-FAN-22-jack-cruise"
+          ]
+        }
+      ]
+    },
+    "Horror": {
+      "first": 1,
+      "difficultyTargets": [
+        16,
+        15
+      ],
+      "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 16,
+          "goals": [
+            "K-FF-176-YEAR",
+            "K-FF-178-YEAR",
+            "K-FF-180-YEAR",
+            "K-FF-182-YEAR",
+            "K-FF-184-YEAR",
+            "K-FF-189-YEAR",
+            "K-FF-194-DIRECTOR",
+            "K-FF-194-YEAR",
+            "K-HOR-01-haddonfield",
+            "K-HOR-01-laurie-curtis",
+            "K-HOR-03-handschuh",
+            "K-HOR-03-traum-angriff",
+            "K-HOR-05-crystal-lake",
+            "K-HOR-05-pamela-taeterin",
+            "K-HOR-07-ghostface",
+            "K-HOR-07-sidney-campbell",
+            "K-HOR-09-jack-nicholson",
+            "K-HOR-09-overlook",
+            "K-HOR-13-georgie-bruder",
+            "K-HOR-13-pennywise-clown",
+            "K-HOR-14-chris-mutter",
+            "K-HOR-14-regan-blair",
+            "K-HOR-19-bates-motel",
+            "K-HOR-19-norman-perkins",
+            "K-HOR-20-bodega-bay",
+            "K-HOR-20-hitchcock"
+          ]
+        },
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 14,
+          "goals": [
+            "K-CLA-19-01",
+            "K-CLA-19-02",
+            "K-FF-069-YEAR",
+            "K-FF-198-YEAR",
+            "K-HOR-08-college",
+            "K-HOR-08-stab",
+            "K-HOR-10-spacek",
+            "K-HOR-10-telekinese",
+            "K-HOR-11-annie-bates",
+            "K-HOR-11-paul-schriftsteller",
+            "K-HOR-12-church-katze",
+            "K-HOR-12-jud-nachbar",
+            "K-HOR-15-damien",
+            "K-HOR-15-thorn-peck",
+            "K-HOR-16-carol-anne",
+            "K-HOR-16-fernseher",
+            "K-HOR-23-farmhaus",
+            "K-HOR-23-warrens",
+            "K-HOR-24-badezimmer",
+            "K-HOR-24-gordon-arzt",
+            "K-HOR-25-chris-fotograf",
+            "K-HOR-25-jordan-peele"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 6,
+          "goals": [
+            "K-HOR-02-gleiche-nacht",
+            "K-HOR-02-krankenhaus",
+            "K-HOR-04-nancy-rueckkehr",
+            "K-HOR-04-westin-hills",
+            "K-HOR-17-ash-campbell",
+            "K-HOR-17-waldhuette",
+            "K-HOR-21-leatherface",
+            "K-HOR-21-sally",
+            "K-HOR-22-sadako",
+            "K-HOR-22-videoband"
+          ]
+        },
+        {
+          "level": 4,
+          "difficulty": "leicht",
+          "target": 4,
+          "goals": [
+            "K-ART-17-01",
+            "K-ART-17-02",
+            "K-HOR-06-jason-taeter",
+            "K-HOR-06-sackmaske",
+            "K-HOR-18-kettensaege-arm",
+            "K-HOR-18-raimi-regie"
+          ]
+        }
+      ]
+    },
+    "Komödie": {
+      "first": 1,
+      "difficultyTargets": [
+        11,
+        14
+      ],
+      "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 11,
+          "goals": [
+            "K-FF-203-YEAR",
+            "K-FF-217-YEAR",
+            "K-FF-218-YEAR",
+            "K-KOM-03-01",
+            "K-KOM-03-02",
+            "K-KOM-06-01",
+            "K-KOM-06-02",
+            "K-KOM-07-01",
+            "K-KOM-07-02",
+            "K-KOM-13-01",
+            "K-KOM-13-02",
+            "K-KOM-17-01",
+            "K-KOM-17-02",
+            "K-KOM-18-01",
+            "K-KOM-18-02",
+            "K-KOM-19-01",
+            "K-KOM-19-02"
+          ]
+        },
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 18,
+          "goals": [
+            "K-CLA-16-01",
+            "K-CLA-16-02",
+            "K-FF-066-DIRECTOR",
+            "K-FF-066-YEAR",
+            "K-FF-204-YEAR",
+            "K-FF-221-DIRECTOR",
+            "K-FF-222-DIRECTOR",
+            "K-KOM-01-01",
+            "K-KOM-01-02",
+            "K-KOM-02-01",
+            "K-KOM-02-02",
+            "K-KOM-04-01",
+            "K-KOM-04-02",
+            "K-KOM-05-01",
+            "K-KOM-05-02",
+            "K-KOM-09-01",
+            "K-KOM-09-02",
+            "K-KOM-16-01",
+            "K-KOM-16-02",
+            "K-KOM-20-01",
+            "K-KOM-20-02",
+            "K-KOM-21-01",
+            "K-KOM-21-02",
+            "K-KOM-22-01",
+            "K-KOM-22-02",
+            "K-KOM-24-01",
+            "K-KOM-24-02",
+            "K-KOM-25-01",
+            "K-KOM-25-02"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 12,
+          "goals": [
+            "K-CLA-17-01",
+            "K-CLA-17-02",
+            "K-CLA-22-01",
+            "K-CLA-22-02",
+            "K-FF-067-DIRECTOR",
+            "K-KOM-08-01",
+            "K-KOM-08-02",
+            "K-KOM-10-01",
+            "K-KOM-10-02",
+            "K-KOM-11-01",
+            "K-KOM-11-02",
+            "K-KOM-12-01",
+            "K-KOM-12-02",
+            "K-KOM-14-01",
+            "K-KOM-14-02",
+            "K-KOM-15-01",
+            "K-KOM-15-02",
+            "K-KOM-23-01",
+            "K-KOM-23-02"
+          ]
+        },
+        {
+          "level": 4,
+          "difficulty": "leicht",
+          "target": 2,
+          "goals": [
+            "K-ART-14-01",
+            "K-ART-14-02"
+          ]
+        }
+      ]
+    },
+    "Martial Arts & Asia-Film": {
+      "first": 1,
+      "difficultyTargets": [
+        2,
+        2
+      ],
+      "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 2,
+          "goals": [
+            "K-MAR-11-01",
+            "K-MAR-11-02"
+          ]
+        },
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 5,
+          "goals": [
+            "K-FF-240-YEAR",
+            "K-MAR-15-01",
+            "K-MAR-15-02",
+            "K-MAR-18-01",
+            "K-MAR-18-02",
+            "K-MAR-22-01",
+            "K-MAR-22-02"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 14,
+          "goals": [
+            "K-FF-230-YEAR",
+            "K-FF-239-YEAR",
+            "K-MAR-02-01",
+            "K-MAR-02-02",
+            "K-MAR-05-01",
+            "K-MAR-05-02",
+            "K-MAR-10-01",
+            "K-MAR-10-02",
+            "K-MAR-12-01",
+            "K-MAR-12-02",
+            "K-MAR-13-01",
+            "K-MAR-13-02",
+            "K-MAR-14-01",
+            "K-MAR-14-02",
+            "K-MAR-17-01",
+            "K-MAR-17-02",
+            "K-MAR-19-01",
+            "K-MAR-19-02",
+            "K-MAR-20-01",
+            "K-MAR-20-02",
+            "K-MAR-23-01",
+            "K-MAR-23-02"
+          ]
+        },
+        {
+          "level": 4,
+          "difficulty": "leicht",
+          "target": 14,
+          "goals": [
+            "K-MAR-01-01",
+            "K-MAR-01-02",
+            "K-MAR-03-01",
+            "K-MAR-03-02",
+            "K-MAR-04-01",
+            "K-MAR-04-02",
+            "K-MAR-06-01",
+            "K-MAR-06-02",
+            "K-MAR-07-01",
+            "K-MAR-07-02",
+            "K-MAR-08-01",
+            "K-MAR-08-02",
+            "K-MAR-09-01",
+            "K-MAR-09-02",
+            "K-MAR-16-01",
+            "K-MAR-16-02",
+            "K-MAR-21-01",
+            "K-MAR-21-02",
+            "K-MAR-24-01",
+            "K-MAR-24-02",
+            "K-MAR-25-01",
+            "K-MAR-25-02"
+          ]
+        }
+      ]
+    },
+    "Musik": {
+      "first": 2,
+      "difficultyTargets": [
+        2,
+        2
+      ],
+      "groups": [
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 2,
+          "goals": [
+            "K-CLA-05-01",
+            "K-CLA-05-02"
+          ]
+        }
+      ]
+    },
+    "Rom-Com": {
+      "first": 1,
+      "difficultyTargets": [
+        8,
+        10
+      ],
+      "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 8,
+          "goals": [
+            "K-FF-251-YEAR",
+            "K-FF-252-YEAR",
+            "K-ROM-01-01",
+            "K-ROM-01-02",
+            "K-ROM-02-01",
+            "K-ROM-02-02",
+            "K-ROM-03-01",
+            "K-ROM-03-02",
+            "K-ROM-07-01",
+            "K-ROM-07-02",
+            "K-ROM-20-01",
+            "K-ROM-20-02"
+          ]
+        },
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 12,
+          "goals": [
+            "K-ART-25-01",
+            "K-ART-25-02",
+            "K-ROM-04-01",
+            "K-ROM-04-02",
+            "K-ROM-05-01",
+            "K-ROM-05-02",
+            "K-ROM-06-01",
+            "K-ROM-06-02",
+            "K-ROM-08-01",
+            "K-ROM-08-02",
+            "K-ROM-10-01",
+            "K-ROM-10-02",
+            "K-ROM-11-01",
+            "K-ROM-11-02",
+            "K-ROM-12-01",
+            "K-ROM-12-02",
+            "K-ROM-19-01",
+            "K-ROM-19-02",
+            "K-ROM-22-01",
+            "K-ROM-22-02"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 14,
+          "goals": [
+            "K-ROM-09-01",
+            "K-ROM-09-02",
+            "K-ROM-13-01",
+            "K-ROM-13-02",
+            "K-ROM-14-01",
+            "K-ROM-14-02",
+            "K-ROM-15-01",
+            "K-ROM-15-02",
+            "K-ROM-16-01",
+            "K-ROM-16-02",
+            "K-ROM-17-01",
+            "K-ROM-17-02",
+            "K-ROM-18-01",
+            "K-ROM-18-02",
+            "K-ROM-21-01",
+            "K-ROM-21-02",
+            "K-ROM-23-01",
+            "K-ROM-23-02",
+            "K-ROM-24-01",
+            "K-ROM-24-02",
+            "K-ROM-25-01",
+            "K-ROM-25-02"
+          ]
+        }
+      ]
+    },
+    "Science-Fiction": {
+      "first": 1,
+      "difficultyTargets": [
+        22,
+        13
+      ],
+      "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 22,
+          "goals": [
+            "K-FF-126-YEAR",
+            "K-FF-128-DIRECTOR",
+            "K-FF-128-YEAR",
+            "K-FF-132-DIRECTOR",
+            "K-FF-132-YEAR",
+            "K-FF-133-DIRECTOR",
+            "K-FF-133-YEAR",
+            "K-FF-134-DIRECTOR",
+            "K-FF-134-YEAR",
+            "K-FF-135-DIRECTOR",
+            "K-FF-135-YEAR",
+            "K-FF-136-YEAR",
+            "K-FF-139-DIRECTOR",
+            "K-FF-139-YEAR",
+            "K-FF-141-DIRECTOR",
+            "K-FF-141-YEAR",
+            "K-FF-142-DIRECTOR",
+            "K-FF-142-YEAR",
+            "K-FF-164-DIRECTOR",
+            "K-FF-164-YEAR",
+            "K-FF-165-YEAR",
+            "K-SF-001-saeureblut",
+            "K-SF-003-simulation",
+            "K-SF-007-erde-lebensgrundlagen",
+            "K-SF-008-traumdiebstahl",
+            "K-SF-009-reise-aus-zukunft",
+            "K-SF-010-t1000-fluessigmetall",
+            "K-SF-011-marty-darsteller",
+            "K-SF-014-bernstein-dna",
+            "K-SF-016-pandora-mond",
+            "K-SF-017-et-heimkehr",
+            "K-SF-019-agent-j-darsteller",
+            "K-SF-020-alien-invasion",
+            "K-SF-039-luke-tatooine",
+            "K-SF-040-yoda-lehrer",
+            "K-SF-041-ewoks-verbuendete"
+          ]
+        },
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 16,
+          "goals": [
+            "K-CLA-18-01",
+            "K-CLA-18-02",
+            "K-FF-068-YEAR",
+            "K-FF-127-DIRECTOR",
+            "K-FF-129-DIRECTOR",
+            "K-FF-130-YEAR",
+            "K-FF-156-DIRECTOR",
+            "K-SF-002-marines",
+            "K-SF-004-zion",
+            "K-SF-005-deckards-auftrag",
+            "K-SF-006-k-darsteller",
+            "K-SF-012-hoverboard",
+            "K-SF-013-wilder-westen",
+            "K-SF-015-isla-nublar",
+            "K-SF-018-ridley-scott-regie",
+            "K-SF-021-truman-darsteller",
+            "K-SF-022-virus-untergrund",
+            "K-SF-024-korben-taxifahrer",
+            "K-SF-026-louise-linguistin",
+            "K-SF-027-ellie-seti",
+            "K-SF-031-precrime-morde",
+            "K-SF-032-quaid-mars",
+            "K-SF-033-robocop-detroit",
+            "K-SF-035-predator-dschungel",
+            "K-SF-038-stargate-reise",
+            "K-SF-048-cage-zeitschleife"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 10,
+          "goals": [
+            "K-ART-09-01",
+            "K-ART-09-02",
+            "K-FF-148-YEAR",
+            "K-SF-023-grosser-bruder",
+            "K-SF-025-genetische-auslese",
+            "K-SF-028-johannesburg",
+            "K-SF-030-ava-bewusstsein",
+            "K-SF-034-bugs-gegner",
+            "K-SF-037-wargames-atomkrieg",
+            "K-SF-042-khan-rache",
+            "K-SF-043-buckelwale-retten",
+            "K-SF-044-borg-zeitreise",
+            "K-SF-045-zug-lebensraum",
+            "K-SF-046-anschlag-pendlerzug",
+            "K-SF-047-joe-auftragskiller",
+            "K-SF-049-jack-drohnentechniker"
+          ]
+        },
+        {
+          "level": 4,
+          "difficulty": "leicht",
+          "target": 3,
+          "goals": [
+            "K-ART-08-01",
+            "K-ART-08-02",
+            "K-SF-029-sam-mondstation",
+            "K-SF-036-murdoch-amnesie",
+            "K-SF-050-sonne-retten"
+          ]
+        }
+      ]
+    },
+    "Thriller": {
+      "first": 2,
+      "difficultyTargets": [
+        10,
+        9
+      ],
+      "groups": [
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 10,
+          "goals": [
+            "K-ART-24-01",
+            "K-ART-24-02",
+            "K-CLA-12-01",
+            "K-CLA-12-02",
+            "K-CLA-13-01",
+            "K-CLA-13-02",
+            "K-CLA-14-01",
+            "K-CLA-14-02",
+            "K-CLA-20-01",
+            "K-CLA-20-02",
+            "K-FF-062-DIRECTOR",
+            "K-FF-062-YEAR",
+            "K-FF-063-DIRECTOR",
+            "K-FF-064-DIRECTOR",
+            "K-FF-064-YEAR",
+            "K-FF-070-YEAR"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 6,
+          "goals": [
+            "K-ART-10-01",
+            "K-ART-10-02",
+            "K-ART-11-01",
+            "K-ART-11-02",
+            "K-CLA-11-01",
+            "K-CLA-11-02",
+            "K-CLA-15-01",
+            "K-CLA-15-02",
+            "K-FF-065-DIRECTOR"
+          ]
+        },
+        {
+          "level": 4,
+          "difficulty": "leicht",
+          "target": 4,
+          "goals": [
+            "K-ART-12-01",
+            "K-ART-12-02",
+            "K-CLA-09-01",
+            "K-CLA-09-02",
+            "K-CLA-10-01",
+            "K-CLA-10-02"
+          ]
+        }
+      ]
+    },
+    "Western": {
+      "first": 1,
+      "difficultyTargets": [
+        8,
+        6
+      ],
+      "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 8,
+          "goals": [
+            "K-FF-278-DIRECTOR",
+            "K-FF-278-YEAR",
+            "K-FF-279-DIRECTOR",
+            "K-FF-279-YEAR",
+            "K-FF-286-YEAR",
+            "K-WES-03-01",
+            "K-WES-03-02",
+            "K-WES-04-01",
+            "K-WES-04-02",
+            "K-WES-07-01",
+            "K-WES-07-02",
+            "K-WES-11-01",
+            "K-WES-11-02"
+          ]
+        },
+        {
+          "level": 2,
+          "difficulty": "leicht",
+          "target": 6,
+          "goals": [
+            "K-FF-276-DIRECTOR",
+            "K-FF-276-YEAR",
+            "K-FF-283-DIRECTOR",
+            "K-FF-283-YEAR",
+            "K-WES-01-01",
+            "K-WES-01-02",
+            "K-WES-06-01",
+            "K-WES-06-02",
+            "K-WES-08-01",
+            "K-WES-08-02"
+          ]
+        },
+        {
+          "level": 3,
+          "difficulty": "leicht",
+          "target": 18,
+          "goals": [
+            "K-FF-277-DIRECTOR",
+            "K-FF-280-DIRECTOR",
+            "K-FF-284-DIRECTOR",
+            "K-WES-02-01",
+            "K-WES-02-02",
+            "K-WES-05-01",
+            "K-WES-05-02",
+            "K-WES-09-01",
+            "K-WES-09-02",
+            "K-WES-12-01",
+            "K-WES-12-02",
+            "K-WES-13-01",
+            "K-WES-13-02",
+            "K-WES-14-01",
+            "K-WES-14-02",
+            "K-WES-15-01",
+            "K-WES-15-02",
+            "K-WES-16-01",
+            "K-WES-16-02",
+            "K-WES-17-01",
+            "K-WES-17-02",
+            "K-WES-19-01",
+            "K-WES-19-02",
+            "K-WES-20-01",
+            "K-WES-20-02",
+            "K-WES-23-01",
+            "K-WES-23-02",
+            "K-WES-24-01",
+            "K-WES-24-02"
+          ]
+        },
+        {
+          "level": 4,
+          "difficulty": "leicht",
+          "target": 8,
+          "goals": [
+            "K-ART-13-01",
+            "K-ART-13-02",
+            "K-FF-285-DIRECTOR",
+            "K-WES-10-01",
+            "K-WES-10-02",
+            "K-WES-18-01",
+            "K-WES-18-02",
+            "K-WES-21-01",
+            "K-WES-21-02",
+            "K-WES-22-01",
+            "K-WES-22-02",
+            "K-WES-25-01",
+            "K-WES-25-02"
+          ]
+        }
+      ]
+    }
+  }
+}

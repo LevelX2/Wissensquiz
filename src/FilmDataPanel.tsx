@@ -1,3 +1,4 @@
+import { familiarityLabel, familiarityOf } from "./familiarity";
 import type { Question } from "./model";
 import { filmData } from "./filmFacts";
 
@@ -8,6 +9,13 @@ export function FilmDataPanel({ q }: { q: Question }) {
     <details className="film-data">
       <summary>Filmdaten</summary>
       <dl>
+        <div>
+          <dt>Bekanntheit</dt>
+          <dd>
+            {familiarityLabel(familiarityOf(q))}
+            <small>Redaktionelle Einordnung</small>
+          </dd>
+        </div>
         <div>
           <dt>Originaltitel</dt>
           <dd>{data.originalTitle}</dd>

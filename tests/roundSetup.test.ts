@@ -9,6 +9,7 @@ it("liest alte Sicherungen ohne Rundenauswahl und erhält historische Favoriten"
   const before = structuredClone(state);
   expect(readRoundSetup(validateBackup(state))).toEqual({
     mode: "entdecken",
+    familiarities: [1, 2, 3, 4],
     genres: null,
     categories: [],
     difficulties: ["leicht", "mittel", "schwer"],
@@ -21,6 +22,7 @@ it("erhält leere Auswahl, Modus, Kategorien und manuelle Stufen durch die Siche
   const state = emptyState();
   state.settings.roundSetup = {
     mode: "ueben",
+    familiarities: [1, 3],
     genres: [],
     categories: ["Classics", "Arthouse"],
     difficulties: [],

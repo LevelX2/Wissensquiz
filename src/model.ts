@@ -57,10 +57,12 @@ export interface RoundSetup {
   genres: string[] | null;
   categories: ("Classics" | "Arthouse")[];
   difficulties: Difficulty[];
+  familiarities?: (1 | 2 | 3 | 4)[];
 }
 export interface QuizFilters {
   genres: string[];
   difficulties: Difficulty[];
+  familiarities?: (1 | 2 | 3 | 4)[];
 }
 export interface Learning {
   knowledgeId: string;
@@ -94,6 +96,11 @@ export interface Round {
   difficulty: string;
   filters?: QuizFilters;
   ruleVersion: string;
+  familiaritySnapshot?: Record<string, number>;
+  unlocks?: (
+    | { genre: string; difficulty: "mittel" | "schwer" }
+    | { genre: string; familiarity: 1 | 2 | 3 | 4 }
+  )[];
   questions: Question[];
   order: string[][];
   events: string[];
@@ -143,6 +150,10 @@ export interface State {
   };
   experience: number;
   records: Record<string, { points: number; roundId: string }>;
+  journey?: {
+    version: 1;
+    earned: Record<string, { difficulty: number; familiarity: number }>;
+  };
 }
 export const emptyState = (questions: Question[] = []): State => ({
   schemaVersion: 1,

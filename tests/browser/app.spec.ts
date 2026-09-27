@@ -32,7 +32,7 @@ async function resumeFilmFixture(page: Page, topic: string) {
       }),
   );
   const round = startRound(state, {
-    mode: "entdecken",
+    mode: "ueben",
     topic,
     difficulty: "leicht",
   });
@@ -122,15 +122,15 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
     page.getByRole("button", { name: "Ton an", exact: true }),
   ).toHaveCount(0);
   await expect(
-    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
-  ).not.toBeChecked();
+    page.getByRole("button", { name: /Filmreise Filmwelten/ }),
+  ).toHaveAttribute("aria-pressed", "true");
   await expect(
-    page.getByText("Mittel gesperrt · 0 / 20 leichte Ziele", { exact: true }),
+    page.getByText(/Mittel gesperrt · 0 \/ \d+ leichte Ziele/),
   ).toHaveCount(12);
   await page.reload();
   await expect(
-    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
-  ).not.toBeChecked();
+    page.getByRole("button", { name: /Filmreise Filmwelten/ }),
+  ).toHaveAttribute("aria-pressed", "true");
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Leicht",
@@ -149,11 +149,10 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
     page.getByText("Etwas tiefer eintauchen", { exact: true }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await page.getByText("Schwierigkeit selbst wählen", { exact: true }).click();
-  await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
+  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
     page.getByText(
-      "Freie Auswahl: Alle Stufen stehen Dir zur Wahl. Sichere Antworten zählen weiterhin für Deinen Lernpfad.",
+      "Zufällige Auswahl ohne Gewichtung nach Deinem Lernstand. Sichere Antworten abgeschlossener Runden zählen auch für Deine Filmreise.",
     ),
   ).toBeVisible();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
@@ -167,11 +166,10 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
   await page.setViewportSize({ width: 320, height: 740 });
   await launch(page);
-  await page.getByText("Schwierigkeit selbst wählen", { exact: true }).click();
-  await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
+  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
-    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
-  ).toBeChecked();
+    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+  ).toHaveAttribute("aria-pressed", "true");
   const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",
@@ -239,6 +237,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   expect(before.filters).toEqual({
     genres: ["Horror", "Science-Fiction"],
     difficulties: ["leicht", "mittel"],
+    familiarities: [1, 2, 3, 4],
   });
   expect(
     before.questions.every(
@@ -483,11 +482,10 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
   await genres.getByLabel("Sci-Fi", { exact: true }).check();
   await genres.getByLabel("Horror", { exact: true }).check();
-  await page.getByText("Schwierigkeit selbst wählen", { exact: true }).click();
-  await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
+  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
-    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
-  ).toBeChecked();
+    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+  ).toHaveAttribute("aria-pressed", "true");
   await page
     .getByRole("group", { name: "Schwierigkeitsstufen", exact: true })
     .getByLabel("Schwer", { exact: true })

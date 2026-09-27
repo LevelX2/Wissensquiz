@@ -36,7 +36,7 @@ for (const kind of ["year", "director", "original"] as const) {
     state.settings.allDifficulties = true;
     const round = startRound(
       state,
-      { mode: "entdecken", topic: q.topic, difficulty: "Alle Stufen" },
+      { mode: "ueben", topic: q.topic, difficulty: "Alle Stufen" },
       Date.parse("2026-09-26T11:59:00+02:00"),
     );
     state.questions = pool;
@@ -148,7 +148,7 @@ test("Fortschrittsbalken unterscheiden richtig, falsch, ohne Antwort, aktuell un
   const now = Date.parse("2026-09-26T11:59:00+02:00");
   const round = startRound(
     state,
-    { mode: "entdecken", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
     now,
   );
   round.questions = [

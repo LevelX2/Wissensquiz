@@ -1,3 +1,4 @@
+import { roundFamiliarities } from "./familiarity";
 import { useContext, useMemo, useState } from "react";
 import {
   categoryLabel,
@@ -24,6 +25,7 @@ export function Leaderboard({
   );
   const [genre, setGenre] = useState("");
   const [level, setLevel] = useState("");
+  const [fame, setFame] = useState("");
   const [size, setSize] = useState("");
   const groups = useMemo(() => leaderboard(state), [state]);
   const genres = new Map(
@@ -37,6 +39,7 @@ export function Leaderboard({
   );
   const visible = groups.filter(
     (g) =>
+      (!fame || roundFamiliarities(g.round) === fame) &&
       (!genre || genreSelectionKey(g.round) === genre) &&
       (!level || levelSelectionKey(g.round) === level) &&
       (!size || String(g.round.questions.length) === size),
@@ -79,8 +82,9 @@ export function Leaderboard({
         <>
           <p className="muted">
             Deine abgeschlossenen Rekordrunden im aktuellen Spielstand. Jede
-            Genre- und Stufenkombination, Film-Auswahl und Rundengröße hat eine
-            eigene Rangliste. Gleiche Punkte teilen sich einen Platz.
+            Genre-, Stufen- und Bekanntheitskombination, Kategorie, Mischung und
+            Rundengröße hat eine eigene Rangliste. Gleiche Punkte teilen sich
+            einen Platz.
           </p>
           {groups.length === 0 ? (
             <p>
@@ -90,6 +94,23 @@ export function Leaderboard({
           ) : (
             <>
               <div className="leaderboard-filters">
+                <label>
+                  Bekanntheitsauswahl
+                  <select
+                    aria-label="Bekanntheitsauswahl"
+                    value={fame}
+                    onChange={(e) => setFame(e.target.value)}
+                  >
+                    <option value="">Alle Bekanntheitskombinationen</option>
+                    {[
+                      ...new Set(
+                        groups.map((g) => roundFamiliarities(g.round)),
+                      ),
+                    ].map((label) => (
+                      <option key={label}>{label}</option>
+                    ))}
+                  </select>
+                </label>
                 <label>
                   Genre-Auswahl
                   <select

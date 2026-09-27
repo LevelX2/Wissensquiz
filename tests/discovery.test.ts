@@ -91,7 +91,7 @@ it("stellt die letzten drei Runden zurück und verwendet sie nur bei kleinem Res
 
 it("führt in freigeschaltetes Mittel ein, erhält Filter und beendet den Vorrang nach fünf gesehenen Zielen", () => {
   const s = emptyState(questions);
-  play(s, goals.filter((q) => q.difficulty === "leicht").slice(0, 20));
+  play(s, goals.filter((q) => q.difficulty === "leicht").slice(0, 22));
   const context = discoveryContext(s);
   const picked = selectQuestions(
     questions,
@@ -113,7 +113,11 @@ it("führt in freigeschaltetes Mittel ein, erhält Filter und beendet den Vorran
   expect(easy.questions.every((q) => q.difficulty === "leicht")).toBe(true);
   easy.status = "aborted";
   play(s, goals.filter((q) => q.difficulty === "mittel").slice(0, 5), 3000);
-  expect(discoveryContext(s).introductoryQuestionIds.size).toBe(0);
+  expect(
+    [...discoveryContext(s).introductoryQuestionIds].some(
+      (id) => questions.find((q) => q.id === id)?.difficulty === "mittel",
+    ),
+  ).toBe(false);
   const filtered = selectQuestions(questions, s.learning, {
     ...options,
     ...context,
@@ -126,8 +130,8 @@ it("führt Schwer nur bei echter Freischaltung ein und behält historische Runde
   const s = emptyState(questions);
   s.settings.allDifficulties = true;
   expect(discoveryContext(s).introductoryQuestionIds.size).toBe(0);
-  play(s, goals.filter((q) => q.difficulty === "leicht").slice(0, 20), 1000);
-  play(s, goals.filter((q) => q.difficulty === "mittel").slice(0, 20), 2000);
+  play(s, goals.filter((q) => q.difficulty === "leicht").slice(0, 22), 1000);
+  play(s, goals.filter((q) => q.difficulty === "mittel").slice(0, 22), 2000);
   s.settings.allDifficulties = false;
   const oldRounds = structuredClone(s.rounds);
   const oldEvents = structuredClone(s.events);
@@ -139,11 +143,11 @@ it("führt Schwer nur bei echter Freischaltung ein und behält historische Runde
   expect(s.events).toEqual(oldEvents);
 });
 
-it("begrenzt fällige Wiederholungen auch ohne neue Ziele und lässt Besser werden gezielt wiederholen", () => {
+it("begrenzt fällige Wiederholungen in Filmreise, während freie Modi volle Zufallsrunden erlauben", () => {
   const s = emptyState(questions);
-  play(s, goals.slice(0, 20));
+  play(s, goals.slice(0, 22));
   for (const p of Object.values(s.learning)) p.due = 0;
-  const selected = selectQuestions(goals.slice(0, 20), s.learning, {
+  const selected = selectQuestions(goals.slice(0, 22), s.learning, {
     ...options,
     ...discoveryContext(s),
   });
@@ -153,10 +157,8 @@ it("begrenzt fällige Wiederholungen auch ohne neue Ziele und lässt Besser werd
     mode: "ueben",
     ...discoveryContext(s),
   });
-  expect(
-    practice.filter((q) => s.learning[q.knowledgeId]?.due === 0),
-  ).toHaveLength(5);
-  const record = selectQuestions(goals.slice(0, 20), s.learning, {
+  expect(practice).toHaveLength(10);
+  const record = selectQuestions(goals.slice(0, 22), s.learning, {
     ...options,
     mode: "rekord",
     ...discoveryContext(s),

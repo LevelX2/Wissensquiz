@@ -25,7 +25,7 @@ function play(
   for (const q of qs) {
     const r = startRound(
       state,
-      { mode: "entdecken", topic: "Alle Themen", difficulty: level },
+      { mode: "ueben", topic: "Alle Themen", difficulty: level },
       1000,
     );
     r.questions = [q];
@@ -41,12 +41,13 @@ function play(
 }
 it("zählt unterschiedliche historische Ziele pro Genre; Varianten, Wiederholungen, geratene und abgebrochene Runden schalten nichts zusätzlich frei", () => {
   const s = emptyState(questions);
-  play(s, "leicht", 19);
-  play(s, "leicht", 19);
-  play(s, "leicht", 20, { guessed: true });
-  play(s, "leicht", 20, { finish: false });
+  const target = learningPathProgress(s)("Horror").easyTarget;
+  play(s, "leicht", target - 1);
+  play(s, "leicht", target - 1);
+  play(s, "leicht", target, { guessed: true });
+  play(s, "leicht", target, { finish: false });
   expect(learningPathProgress(s)("Horror")).toMatchObject({
-    easy: 19,
+    easy: target - 1,
     mediumUnlocked: false,
   });
   s.settings.allDifficulties = false;
@@ -84,7 +85,8 @@ it("öffnet Schwer erst nach beiden Stufen und respektiert Lernpfad beim Start s
       topic: "Alle Themen",
       difficulty: "schwer",
     }),
-  ).toThrow("keine Fragen");
+  ).not.toThrow();
+  fresh.rounds[0].status = "aborted";
   fresh.settings.allDifficulties = true;
   expect(
     startRound(fresh, {
@@ -102,7 +104,9 @@ it("verwendet Lernpfad standardmäßig auch für alte Sicherungen und erhält au
     pathQuestions(validateBackup(s)).every((q) => q.difficulty === "leicht"),
   ).toBe(true);
   s.settings.allDifficulties = true;
-  expect(pathQuestions(validateBackup(s))).toHaveLength(questions.length);
+  expect(pathQuestions(validateBackup(s), "ueben")).toHaveLength(
+    questions.length,
+  );
   play(s, "mittel", 20);
   play(s, "leicht", 20);
   s.settings.allDifficulties = false;

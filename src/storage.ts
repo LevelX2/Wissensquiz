@@ -6,6 +6,9 @@ import { matchesTopic } from "./categories";
 import { questionSnapshotMatches } from "./filmFacts";
 const time = z.number().finite().nonnegative();
 const id = z.string().min(1).max(200);
+const familiarityList = z
+  .array(z.union([z.literal(1), z.literal(2), z.literal(3), z.literal(4)]))
+  .max(4);
 const learningSchema = z.object({
   knowledgeId: id,
   stage: z.number().int().min(0).max(4),
@@ -25,6 +28,7 @@ const roundSchema = z.object({
   filters: z
     .object({
       genres: z.array(id).min(1).max(20000),
+      familiarities: familiarityList.optional(),
       difficulties: z
         .array(z.enum(["leicht", "mittel", "schwer"]))
         .min(1)
@@ -32,6 +36,23 @@ const roundSchema = z.object({
     })
     .optional(),
   ruleVersion: id,
+  unlocks: z
+    .array(
+      z.union([
+        z.object({ genre: id, difficulty: z.enum(["mittel", "schwer"]) }),
+        z.object({
+          genre: id,
+          familiarity: z.union([
+            z.literal(1),
+            z.literal(2),
+            z.literal(3),
+            z.literal(4),
+          ]),
+        }),
+      ]),
+    )
+    .optional(),
+  familiaritySnapshot: z.record(id, z.number().int().min(0).max(4)).optional(),
   questions: z.array(questionSchema).min(1).max(10),
   order: z.array(z.array(id).length(4)),
   events: z.array(id).max(10),
@@ -102,10 +123,23 @@ const stateSchema = z.object({
         genres: z.array(id).max(20000).nullable(),
         categories: z.array(z.enum(["Classics", "Arthouse"])).max(2),
         difficulties: z.array(z.enum(["leicht", "mittel", "schwer"])).max(3),
+        familiarities: familiarityList.optional(),
       })
       .optional(),
   }),
   experience: z.number().int().nonnegative(),
+  journey: z
+    .object({
+      version: z.literal(1),
+      earned: z.record(
+        id,
+        z.object({
+          difficulty: z.number().int().min(0).max(2),
+          familiarity: z.number().int().min(0).max(4),
+        }),
+      ),
+    })
+    .optional(),
   records: z.record(
     z.string(),
     z.object({ points: z.number().nonnegative(), roundId: id }),
@@ -134,7 +168,20 @@ export function validateBackup(value: unknown): State {
     r.questions.forEach((q, i) => {
       if (
         r.filters &&
-        (!matchesFilters(q, r.filters) || !matchesTopic(q, r.topic))
+        (!matchesFilters(
+          q,
+          r.familiaritySnapshot
+            ? { ...r.filters, familiarities: undefined }
+            : r.filters,
+        ) ||
+          !matchesTopic(q, r.topic) ||
+          (r.familiaritySnapshot &&
+            r.filters.familiarities &&
+            !(r.familiaritySnapshot[q.id] === 0
+              ? r.filters.familiarities.length === 4
+              : r.filters.familiarities.some(
+                  (level) => level === r.familiaritySnapshot![q.id],
+                ))))
       )
         throw new Error("Frage passt nicht zur gespeicherten Rundenauswahl.");
       if (

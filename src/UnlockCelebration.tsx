@@ -1,3 +1,4 @@
+import { familiarityLabel } from "./familiarity";
 import { useEffect, useRef, type CSSProperties } from "react";
 import { genreLabel, difficultyLabel } from "./filters";
 import type { PathUnlock } from "./learningPath";
@@ -80,18 +81,24 @@ export function UnlockCelebration({
             : "Neue Stufen freigeschaltet!"}
         </h2>
         <ul className="unlock-levels">
-          {unlocks.map(({ genre, difficulty }) => (
-            <li key={`${genre}:${difficulty}`}>
-              <span>{genreLabel(genre)}</span>
-              <strong>{difficultyLabel(difficulty)}</strong>
+          {unlocks.map((unlock) => (
+            <li
+              key={`${unlock.genre}:${"difficulty" in unlock ? unlock.difficulty : unlock.familiarity}`}
+            >
+              <span>{genreLabel(unlock.genre)}</span>
+              <strong>
+                {"difficulty" in unlock
+                  ? difficultyLabel(unlock.difficulty)
+                  : familiarityLabel(unlock.familiarity)}
+              </strong>
             </li>
           ))}
         </ul>
         <p id="unlock-description">
           Geschafft! Deine sicheren Antworten haben die nächste Tür geöffnet.{" "}
           {unlocks.length === 1
-            ? "Diese Stufe steht Dir jetzt auch im Lernpfad zur Verfügung."
-            : "Diese Stufen stehen Dir jetzt auch im Lernpfad zur Verfügung."}
+            ? "Diese Stufe steht Dir jetzt auch in der Filmreise zur Verfügung."
+            : "Diese Stufen stehen Dir jetzt auch in der Filmreise zur Verfügung."}
         </p>
         <button className="primary" autoFocus onClick={onClose}>
           Weiter zum Ergebnis

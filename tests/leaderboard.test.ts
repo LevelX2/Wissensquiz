@@ -12,7 +12,11 @@ const options = {
   mode: "rekord" as const,
   topic: "Alle Themen",
   difficulty: "Alle Stufen",
-  filters: { genres: ["Horror"], difficulties: ["leicht" as const] },
+  filters: {
+    genres: ["Horror"],
+    difficulties: ["leicht" as const],
+    familiarities: [1 as const],
+  },
 };
 it("zeigt alle abgeschlossenen Rekordspiele, gleiche Punktzahlen teilen den Rang; Sicherung erhält die Liste", () => {
   const state = emptyState(questions);

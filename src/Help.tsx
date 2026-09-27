@@ -38,7 +38,8 @@ export function Help() {
           Wiederholst Du früher, steigt die Stufe noch nicht. Vor der ersten
           Festigung zählen die sieben Tage ab Deiner tatsächlich letzten Antwort
           – auch eine zusätzliche Zwischenantwort setzt diesen Abstand neu an.
-          „Besser werden“ hilft Dir, fällige Ziele zu finden.
+          In der Filmreise kommen fällige Ziele wieder, sobald keine neuen
+          passenden Ziele mehr verfügbar sind.
         </p>
         <p>
           Ein Fehler oder Zeitablauf setzt das Ziel auf „entdeckt“ zurück; es
@@ -74,20 +75,23 @@ export function Help() {
         <summary>Welcher Spielmodus passt zu mir?</summary>
         <ul>
           <li>
-            <strong>Entdecken:</strong> Unbeantwortete Wissensziele zuerst
+            <strong>Filmreise:</strong> Unbeantwortete Wissensziele zuerst
             kennenlernen – ohne Zeitdruck. Fragen aus den letzten drei Runden
             kommen möglichst erst wieder, wenn andere passende Inhalte fehlen.
             Neu freigeschaltete Stufen erhalten einen gezielten Einstieg.
           </li>
           <li>
-            <strong>Besser werden:</strong> Mehr fällige Wiederholungen,
-            ebenfalls ohne Zeitdruck.
+            <strong>Freies Spiel:</strong> Genres, Schwierigkeit und Bekanntheit
+            frei kombinieren. Zufällige Wissensziele ohne Lernstandsgewichtung
+            und ohne Zeitdruck.
           </li>
           <li>
             <strong>Rekordrunde:</strong> Pro Frage 30 Sekunden. Richtige
             Antworten geben 100 Punkte plus zwei Punkte je voller verbleibender
             Sekunde. Falsche oder verspätete Antworten geben keine Punkte. Beim
-            Lesen der Erklärung läuft keine Uhr.
+            Lesen der Erklärung läuft keine Uhr. Die Auswahl ist frei und
+            unabhängig von Deinem Lernstand; vorhandene Kombinationen aus
+            Schwierigkeit und Bekanntheit werden möglichst gleichmäßig gemischt.
           </li>
         </ul>
         <p>
@@ -99,23 +103,38 @@ export function Help() {
         </p>
       </details>
       <details>
-        <summary>Wie schalte ich Mittel und Schwer frei?</summary>
+        <summary>Wie öffne ich neue Schwierigkeiten und Filmgruppen?</summary>
         <p>
-          Standardmäßig spielst Du im Lernpfad: Jedes Genre beginnt mit Leicht.
-          20 verschiedene sicher richtig beantwortete leichte Wissensziele
-          öffnen Mittel. Zusätzlich 20 mittlere Ziele öffnen Schwer.
+          Die Filmreise beginnt je Genre mit Leicht und der bekanntesten
+          vorhandenen Filmgruppe. Vier Gruppen unterscheiden Film-Ikonen,
+          bekannte Filme, Kennerfilme und Entdeckungen. Diese redaktionelle
+          Einordnung bezieht sich auf ein breites deutschsprachiges
+          Kinopublikum; sie misst weder Qualität noch Deine persönliche
+          Vertrautheit.
         </p>
         <p>
-          Unter „Schwierigkeit selbst wählen“ kannst Du mit „Alle
-          Schwierigkeitsstufen freigeben“ sofort jede Stufe spielen und zum
-          Beispiel nur Schwer auswählen. Im normalen Lernpfad wählt die App
-          automatisch aus Deinen freigeschalteten Stufen. Sichere Antworten
-          zählen auch im freien Spiel für Deinen Lernpfad. Entfernst Du das
-          Häkchen, gelten Deine inzwischen erreichten Freischaltungen. Es zählen
-          abgeschlossene Runden, auch Deine bisherigen und frei gespielten
-          Runden. Wiederholungen und geratene Treffer erhöhen diesen Zähler
-          nicht. Die Freischaltung braucht keine Festigung über mehrere Tage und
-          geht bei späteren Fehlern nicht verloren.
+          Die Schwierigkeit und die Filmgruppen entwickeln sich getrennt. Die
+          Ziele für Mittel und Schwer entsprechen aufgerundet 60 Prozent der
+          leichten beziehungsweise mittleren Wissensziele in der
+          Einstiegsgruppe. Für diese Zähler gelten sichere Antworten der
+          jeweiligen Schwierigkeit aus allen Filmgruppen desselben Genres.
+          Schwer öffnet erst nach Mittel.
+        </p>
+        <p>
+          Die nächste vorhandene Filmgruppe öffnet, wenn Du 60 Prozent der
+          festgelegten leichten Wissensziele der aktuellen Gruppe sicher
+          beantwortet hast. Falls es keine leichten Fragen gibt, zählt die
+          niedrigste vorhandene Schwierigkeit. Leere Gruppen werden
+          übersprungen. Deine konkreten Zähler stehen unter „Deine
+          Stufenfortschritte“.
+        </p>
+        <p>
+          Es zählen abgeschlossene Runden aus allen Modi und Dein bisheriger
+          Fortschritt. Wiederholungen, Varianten und geratene Treffer zählen
+          nicht zusätzlich. Die Zielmengen sind festgelegt und wachsen bei neuen
+          Paketen nicht automatisch. Erreichte Freischaltungen bleiben erhalten,
+          auch bei späteren Fehlern. Im Freien Spiel und in der Rekordrunde
+          stehen Dir sofort alle Stufen zur Wahl.
         </p>
       </details>
       <details>
@@ -137,8 +156,9 @@ export function Help() {
         <p>
           Unter „Highscores“ findest Du Deine Rekordrunden, die Rekorde aller
           Spieler und die Spielerleistungen. Rekorde werden nur innerhalb
-          gleicher Genre-/Stufenkombinationen, Film-Auswahl, Rundengrößen und
-          Regeln verglichen. Gleiche Punkte teilen sich einen Platz.
+          gleicher Genre-/Stufenkombinationen, Bekanntheitsauswahl, Kategorien,
+          Rundengrößen, tatsächlicher Mischung und Regeln verglichen. Gleiche
+          Punkte teilen sich einen Platz.
         </p>
         <p>
           Die Spielerleistungen vergleichen abgeschlossene Runden aller Modi,

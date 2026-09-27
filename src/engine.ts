@@ -9,7 +9,13 @@ import type {
 } from "./model";
 import { uid } from "./model";
 import { canonicalFilters, matchesFilters } from "./filters";
-import { pathQuestions } from "./learningPath";
+import {
+  pathQuestions,
+  retainJourneyUnlocks,
+  learningPathProgress,
+  newlyUnlocked,
+} from "./learningPath";
+import { familiarityOf, familiarities, selectionRule } from "./familiarity";
 import { discoveryContext } from "./discovery";
 import { matchesTopic } from "./categories";
 import { prepareFactQuestion } from "./filmFacts";
@@ -108,27 +114,43 @@ export function selectQuestions(
   },
   random = Math.random,
 ): Question[] {
-  const pool = shuffle(
-    questions.filter(
-      (q) =>
-        matchesTopic(q, options.topic) &&
-        (options.filters
-          ? matchesFilters(q, options.filters)
-          : options.difficulty === "Alle Stufen" ||
-            q.difficulty === options.difficulty),
-    ),
-    random,
+  const pool = questions.filter(
+    (q) =>
+      matchesTopic(q, options.topic) &&
+      (options.filters
+        ? matchesFilters(q, options.filters)
+        : options.difficulty === "Alle Stufen" ||
+          q.difficulty === options.difficulty),
   );
-  const unique = [...new Map(pool.map((q) => [q.knowledgeId, q])).values()];
-  if (options.mode === "rekord") return unique.slice(0, options.size);
+  const byGoal = new Map<string, Question[]>();
+  for (const q of pool) {
+    if (!byGoal.has(q.knowledgeId)) byGoal.set(q.knowledgeId, []);
+    byGoal.get(q.knowledgeId)!.push(q);
+  }
+  // Draw goals first: a goal with extra variants has no extra tickets.
+  const unique = shuffle([...byGoal.values()], random).map(
+    (qs) => qs[Math.min(qs.length - 1, Math.floor(random() * qs.length))],
+  );
+  if (options.mode === "ueben") return unique.slice(0, options.size);
+  if (options.mode === "rekord") {
+    const cells = new Map<string, Question[]>();
+    for (const q of unique) {
+      const key = `${q.difficulty}:${familiarityOf(q) ?? 0}`;
+      if (!cells.has(key)) cells.set(key, []);
+      cells.get(key)!.push(q);
+    }
+    const buckets = shuffle([...cells.values()], random);
+    const result: Question[] = [];
+    while (result.length < options.size && buckets.some((b) => b.length))
+      for (const bucket of buckets)
+        if (bucket.length && result.length < options.size)
+          result.push(bucket.pop()!);
+    return shuffle(result, random);
+  }
   const due = unique.filter(
     (q) =>
       learning[q.knowledgeId] && learning[q.knowledgeId].due <= options.now,
   );
-  const safe = unique.filter(
-    (q) => learning[q.knowledgeId]?.status === "gefestigt" && !due.includes(q),
-  );
-  const fresh = unique.filter((q) => !due.includes(q) && !safe.includes(q));
   const result: Question[] = [];
   const take = (list: Question[], n: number) => {
     for (const q of list) {
@@ -175,17 +197,6 @@ export function selectQuestions(
     }
     return shuffle(result, random);
   }
-  take(
-    fresh,
-    options.mode === "ueben"
-      ? Math.ceil(options.size * 0.3)
-      : Math.ceil(options.size * 0.5),
-  );
-  take(due, options.mode === "ueben" ? dueCap : Math.ceil(options.size * 0.3));
-  take(safe, Math.floor(options.size * 0.2));
-  take(fresh, options.size);
-  take(safe, options.size);
-  take(due, dueCap - result.filter((q) => due.includes(q)).length);
   return shuffle(result, random);
 }
 export const recordKey = (r: Round) =>
@@ -236,6 +247,7 @@ export function rebuild(state: State, awardBadges = false) {
     !state.badges.includes("sci-fi-10-v1")
   )
     state.badges.push("sci-fi-10-v1");
+  retainJourneyUnlocks(state);
 }
 export function startRound(
   state: State,
@@ -251,12 +263,16 @@ export function startRound(
     throw new Error(
       "Es läuft bereits eine Runde. Setze sie fort oder beende sie.",
     );
-  const selected = selectQuestions(pathQuestions(state), state.learning, {
-    ...options,
-    ...(options.mode === "entdecken" ? discoveryContext(state) : {}),
-    size: state.rounds.some((r) => r.status === "completed") ? 10 : 5,
-    now,
-  });
+  const selected = selectQuestions(
+    pathQuestions(state, options.mode),
+    state.learning,
+    {
+      ...options,
+      ...(options.mode === "entdecken" ? discoveryContext(state) : {}),
+      size: state.rounds.some((r) => r.status === "completed") ? 10 : 5,
+      now,
+    },
+  );
   const questions = selected.map((q) =>
     prepareFactQuestion(
       q,
@@ -272,13 +288,19 @@ export function startRound(
     ...options,
     ...(options.filters ? { filters: canonicalFilters(options.filters) } : {}),
     id: uid(),
+    familiaritySnapshot: Object.fromEntries(
+      questions.map((q) => [q.id, familiarityOf(q) ?? 0]),
+    ),
     questions,
     order: questions.map((q) => shuffle(q.answers.map((a) => a.id))),
     events: [],
     startedAt: now,
     finishedAt: null,
     status: "active",
-    ruleVersion: RULES.version,
+    ruleVersion: selectionRule(
+      questions,
+      options.filters?.familiarities ?? familiarities,
+    ),
     before: structuredClone(state.learning),
   };
   state.rounds.push(round);
@@ -331,8 +353,10 @@ export function guess(state: State, eventId: string) {
 export function complete(state: State, roundId: string, now = Date.now()) {
   const r = state.rounds.find((r) => r.id === roundId);
   if (r?.status === "active" && r.events.length === r.questions.length) {
+    const before = learningPathProgress(state);
     r.status = "completed";
     r.finishedAt = now;
     rebuild(state, true);
+    r.unlocks = newlyUnlocked(before, state);
   }
 }

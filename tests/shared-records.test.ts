@@ -327,3 +327,41 @@ it("kompakte Online-Sicherung liefert unveränderte Highscores und Spielerstatis
     await db.exec("rollback");
   }
 });
+it("speichert getrennte Bekanntheitskategorien mit neuer Auswahlkennung ohne Änderung der SQL-Verträge", async () => {
+  const id = "77777777-7777-4777-8777-777777777777";
+  await db.exec("begin");
+  try {
+    await db.query("insert into auth.users values($1,now(),false,$2)", [
+      id,
+      { display_name: "Journey" },
+    ]);
+    const data = payload(3);
+    data.rounds[1].ruleVersion = "2.B1.M01:1";
+    data.rounds[2].ruleVersion = "2.B2.M02:1";
+    await as(id, async () => {
+      await db.query("select quiz_save_state($1,0,$2)", [data, id]);
+      const rows = (
+        await db.query<{ category: string; rule_version: string }>(
+          "select * from quiz_score_categories()",
+        )
+      ).rows;
+      for (const version of ["2.B1.M01:1", "2.B2.M02:1"]) {
+        const row = rows.find((r) => r.rule_version === version)!;
+        expect(row).toBeDefined();
+        const scores = (
+          await db.query<{ points: number; player_name: string }>(
+            "select * from quiz_rankings($1,0)",
+            [row.category],
+          )
+        ).rows;
+        expect(scores).toHaveLength(1);
+        expect(scores[0]).toMatchObject({
+          points: 150,
+          player_name: "Journey",
+        });
+      }
+    });
+  } finally {
+    await db.exec("rollback");
+  }
+});

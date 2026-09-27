@@ -1,3 +1,5 @@
+import { familiarityOf } from "../../src/familiarity";
+import { learningPathProgress } from "../../src/learningPath";
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -16,7 +18,13 @@ const goals = (difficulty: string) => [
   ).values(),
 ];
 
-for (const scenario of ["mittel", "schwer", "beide", "geraten"] as const) {
+for (const scenario of [
+  "mittel",
+  "schwer",
+  "beide",
+  "geraten",
+  "filmgruppe",
+] as const) {
   test(`Freischaltung ${scenario}: Feier nur bei neuem Erfolg, respektiert Einstellungen und bleibt einmalig`, async ({
     page,
     context,
@@ -42,6 +50,10 @@ for (const scenario of ["mittel", "schwer", "beide", "geraten"] as const) {
         },
       });
     });
+    const stageGoals = (d: string) =>
+      goals(d).filter(
+        (q) => scenario !== "filmgruppe" || familiarityOf(q) === 1,
+      );
     const state = emptyState(questions);
     state.settings = {
       ...state.settings,
@@ -49,16 +61,33 @@ for (const scenario of ["mittel", "schwer", "beide", "geraten"] as const) {
       sound: !quiet,
       haptics: !quiet,
     };
+    const target = learningPathProgress(state)("Horror");
+    state.journey = {
+      version: 1,
+      earned: {
+        Horror: {
+          difficulty: 0,
+          familiarity: scenario === "filmgruppe" ? 1 : 4,
+        },
+      },
+    };
     const history = startRound(
       state,
       { mode: "entdecken", topic: "Alle Themen", difficulty: "Alle Stufen" },
       1700000000000,
     );
     history.questions = [
-      ...goals("leicht").slice(0, scenario === "schwer" ? 20 : 19),
-      ...goals("mittel").slice(
+      ...stageGoals("leicht").slice(
         0,
-        scenario === "beide" ? 20 : scenario === "schwer" ? 19 : 0,
+        scenario === "schwer" ? target.easyTarget : target.easyTarget - 1,
+      ),
+      ...stageGoals("mittel").slice(
+        0,
+        scenario === "beide"
+          ? target.mediumTarget
+          : scenario === "schwer"
+            ? target.mediumTarget - 1
+            : 0,
       ),
     ];
     history.order = history.questions.map((q) => q.answers.map((a) => a.id));
@@ -70,7 +99,9 @@ for (const scenario of ["mittel", "schwer", "beide", "geraten"] as const) {
       { mode: "entdecken", topic: "Alle Themen", difficulty: "Alle Stufen" },
       1700000100000,
     );
-    const q = goals(scenario === "schwer" ? "mittel" : "leicht")[19];
+    const q = stageGoals(scenario === "schwer" ? "mittel" : "leicht")[
+      (scenario === "schwer" ? target.mediumTarget : target.easyTarget) - 1
+    ];
     current.questions = [q];
     current.order = [q.answers.map((a) => a.id)];
     await page.goto("/");
@@ -122,9 +153,11 @@ for (const scenario of ["mittel", "schwer", "beide", "geraten"] as const) {
     }
     await expect(dialog).toBeVisible();
     await expect(dialog.locator(".unlock-levels li")).toHaveCount(
-      quiet ? 2 : 1,
+      quiet || scenario === "filmgruppe" ? 2 : 1,
     );
     await expect(dialog).toContainText("Horror");
+    if (scenario === "filmgruppe")
+      await expect(dialog).toContainText("2 · Bekannte Filme");
     await expect(dialog.locator("#unlock-description")).toContainText(
       "geöffnet. Diese",
     );

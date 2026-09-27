@@ -63,7 +63,7 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
         mode: "rekord",
         topic: "Alle Themen",
         difficulty: "Alle Stufen",
-        filters: { genres, difficulties: ["leicht", "mittel"] },
+        filters: { genres, difficulties: ["leicht"], familiarities: [1] },
       },
       1_790_416_800_000 + i * 100000,
     );

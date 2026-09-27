@@ -106,7 +106,7 @@ it("bewahrt alte Rundensnapshots, Backup und gemeinsamen Fortschritt bei Classic
   const round = startRound(
     state,
     {
-      mode: "entdecken",
+      mode: "ueben",
       topic: western.topic,
       difficulty: "leicht",
       filters: { genres: ["Western"], difficulties: ["leicht"] },
@@ -135,7 +135,7 @@ it("bewahrt alte Rundensnapshots, Backup und gemeinsamen Fortschritt bei Classic
   const classicRound = startRound(
     state,
     {
-      mode: "entdecken",
+      mode: "ueben",
       topic: categoryTopic(western.topic, true),
       difficulty: "leicht",
       filters: { genres: ["Western"], difficulties: ["leicht"] },
@@ -233,7 +233,7 @@ it("erhält Arthouse-Rundensnapshots und gemeinsame Lernidentität beim Kategori
   )!;
   const r = startRound(
     state,
-    { mode: "entdecken", topic: q.topic, difficulty: "Alle Stufen" },
+    { mode: "ueben", topic: q.topic, difficulty: "Alle Stufen" },
     1000,
   );
   answer(state, r.id, r.questions[0].id, r.questions[0].correctId, 0, 2000);
@@ -263,7 +263,7 @@ it("erhält Arthouse-Rundensnapshots und gemeinsame Lernidentität beim Kategori
   const combined = startRound(
     state,
     {
-      mode: "entdecken",
+      mode: "ueben",
       topic: categoryTopic("Alle Themen", [ARTHOUSE, CLASSICS]),
       difficulty: "Alle Stufen",
       filters: { genres: ["Drama", "Rom-Com"], difficulties: ["leicht"] },

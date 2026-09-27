@@ -1,3 +1,4 @@
+import { ruleLabel } from "./familiarity";
 import { rankingRequest } from "./rankingRequest";
 import { createContext, useContext, useEffect, useState } from "react";
 import type { SupabaseClient } from "@supabase/supabase-js";
@@ -30,7 +31,7 @@ type Entry = z.infer<typeof entrySchema>;
 const levelLabel = (values: string[]) =>
   values.map((v) => v[0].toUpperCase() + v.slice(1)).join(" + ");
 const categoryLabel = (c: Category) =>
-  `${c.genres.map(genreLabel).join(" + ")} · ${levelLabel(c.difficulties)} · ${c.question_count} Fragen${c.topic !== "Alle Themen" ? ` · ${c.topic}` : ""} · Regel ${c.rule_version}`;
+  `${c.genres.map(genreLabel).join(" + ")} · ${levelLabel(c.difficulties)} · ${c.question_count} Fragen${c.topic !== "Alle Themen" ? ` · ${c.topic}` : ""} · Regel ${ruleLabel(c.rule_version)}`;
 
 export function SharedLeaderboard() {
   const connection = useContext(RankingContext);

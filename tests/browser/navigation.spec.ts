@@ -9,19 +9,21 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await expect(
-    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
-  ).not.toBeChecked();
+    page.getByRole("button", { name: /Filmreise Filmwelten/ }),
+  ).toHaveAttribute("aria-pressed", "true");
   await expect(page.getByRole("button", { name: "Optionen" })).toHaveCount(0);
   await expect(page.getByRole("navigation").getByRole("button")).toHaveCount(5);
-  await page.getByText("Schwierigkeit selbst wählen", { exact: true }).click();
-  await page.getByLabel("Alle Schwierigkeitsstufen freigeben").click();
+  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
-    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
-  ).toBeChecked();
+    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+  ).toHaveAttribute("aria-pressed", "true");
+  await expect(
+    page.getByRole("button", { name: "Alle Genres auswählen" }),
+  ).toBeEnabled();
   await page.reload();
   await expect(
-    page.getByLabel("Alle Schwierigkeitsstufen freigeben"),
-  ).toBeChecked();
+    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+  ).toHaveAttribute("aria-pressed", "true");
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",
     exact: true,
@@ -62,9 +64,15 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   ).toBeVisible();
   await expect(page.getByText(/nach elf Tagen/)).toBeVisible();
   await page
-    .getByText("Wie schalte ich Mittel und Schwer frei?", { exact: true })
+    .getByText("Wie öffne ich neue Schwierigkeiten und Filmgruppen?", {
+      exact: true,
+    })
     .click();
-  await expect(page.getByText(/Entfernst Du das Häkchen/)).toBeVisible();
+  await expect(
+    page.getByText(
+      /Die Schwierigkeit und die Filmgruppen entwickeln sich getrennt/,
+    ),
+  ).toBeVisible();
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,

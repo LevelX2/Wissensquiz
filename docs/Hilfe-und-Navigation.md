@@ -4,9 +4,9 @@ Fünf dauerhafte Hauptpunkte, auf dem Handy in einer unteren Zeile: Spielen, The
 
 Optionen sind ausschließlich über das Profil erreichbar, auch im Gastmodus. Der Kopfbereich und die Desktop-Seitenleiste enthalten keinen zusätzlichen Optionszugang. Die Einstellungsseite führt zurück zum Profil; ein ausdrücklich ausgeführtes Zurücksetzen führt zur Startseite.
 
-„So funktioniert’s“ ist im Profil und im Seitenfuß erreichbar. Die Seite ist im App-Bündel enthalten und offline verfügbar. Der erste Abschnitt zu „entdeckt“, „geübt“ und „gefestigt“ ist geöffnet und enthält das konkrete Wiederholungsbeispiel heute → morgen → drei Tage später → sieben Tage später. Weitere aufklappbare Abschnitte erklären Wissensziele, Modi, Lernpfad/freie Auswahl, XP/Abzeichen, Highscores und Speicherung. Fachliche Grundlage sind [Lernregeln](Lernregeln.md) und [Konten und Spielstände](Konten-und-Spielstaende.md); Inhalte müssen bei Regeländerungen gemeinsam gepflegt werden.
+„So funktioniert’s“ ist im Profil und im Seitenfuß erreichbar. Die Seite ist im App-Bündel enthalten und offline verfügbar. Der erste Abschnitt zu „entdeckt“, „geübt“ und „gefestigt“ ist geöffnet und enthält das konkrete Wiederholungsbeispiel heute → morgen → drei Tage später → sieben Tage später. Weitere aufklappbare Abschnitte erklären Wissensziele, Modi, Filmreise/freie Auswahl, XP/Abzeichen, Highscores und Speicherung. Fachliche Grundlage sind [Lernregeln](Lernregeln.md) und [Konten und Spielstände](Konten-und-Spielstaende.md); Inhalte müssen bei Regeländerungen gemeinsam gepflegt werden.
 
-Der Lernpfad ist Standard. Die bewusste Ausnahme heißt „Alle Schwierigkeitsstufen freigeben“. Beide Modi verwenden denselben Lernfortschritt aus abgeschlossenen Runden. Die Freigabe ist eine Auswahloption, keine Änderung oder Löschung erworbener Fortschritte.
+Filmreise ist der Fortschrittsmodus. Freies Spiel und Rekordrunde bieten alle Schwierigkeiten und Bekanntheitsgruppen; das frühere Freigabehäkchen ist entfernt. Alle Modi verwenden denselben Lernfortschritt aus abgeschlossenen Runden. Ein Moduswechsel löscht keine erworbenen Rechte.
 
 Für angekündigte asiatische Filmfragen ist „Asia-Kino“ vorläufig vorgeschlagen. Die endgültige Benennung, Abgrenzung und Illustration bleiben auf Nutzerwunsch offen, bis die Fragen vorliegen. Ein bereits gestarteter Bildentwurf wurde nicht in die App übernommen.
 
@@ -58,6 +58,8 @@ Favoriten sind auf Nutzerwunsch entfernt. Die Sammlung zeigt Film-/Reihenblöcke
 
 ## Gespeicherte Auswahl
 
-Spielmodus, Genres, Classics/Arthouse und manuell gewählte Schwierigkeitsstufen werden schon bei der Auswahl gespeichert. „Alle Genres auswählen“ schließt später importierte Genres ein; eine ausdrücklich leere Auswahl bleibt leer. Ohne bisherige Auswahl gelten Entdecken, alle Genres, keine Zusatzkategorie und alle manuellen Stufen. Der Lernpfad verwendet weiterhin nur freigeschaltete Stufen; gespeicherte manuelle Stufen wirken erst bei aktivierter freier Auswahl.
+Spielmodus, Genres, Classics/Arthouse und manuell gewählte Schwierigkeitsstufen werden schon bei der Auswahl gespeichert. „Alle Genres auswählen“ schließt später importierte Genres ein; eine ausdrücklich leere Auswahl bleibt leer. Ohne bisherige Auswahl gelten Filmreise, alle Genres, keine Zusatzkategorie und alle manuellen Stufen/Filmgruppen. Filmreise verwendet freigeschaltete Bereiche; Freies Spiel und Rekordrunde die gespeicherten manuellen Filter. Historische freie Einstellung ohne Rundenvorbereitung öffnet Freies Spiel.
 
-Wie Ton, Vibration, Fragehinweise, Fragenstatistik und freie Schwierigkeitswahl liegen diese Werte im Gast-/Kontospielstand. Gäste speichern auf diesem Gerät; angemeldete Spieler sichern automatisch online. JSON-Sicherung und Wiederherstellung nehmen die Auswahl mit. Keine gesonderte Datenbankmigration; bestehende Runden und Lernfortschritte bleiben unverändert.
+Wie Ton, Vibration, Fragehinweise und Fragenstatistik liegen diese Werte im Gast-/Kontospielstand. Gäste speichern auf diesem Gerät; angemeldete Spieler sichern automatisch online. JSON-Sicherung und Wiederherstellung nehmen die Auswahl mit. Keine gesonderte Datenbankmigration; bestehende Runden und Lernfortschritte bleiben unverändert.
+
+Die Bekanntheitseinteilung, parallelen Freischaltungen und die Vergleichbarkeit der Rekordmischungen erklärt die Hilfe ebenfalls. Bei leerer Filmreise-Auswahl direkter Wechsel ins Freie Spiel; alle freien Filter sind gespeichert. Details: [Spielmodi und Bekanntheit](Spielmodi-und-Bekanntheit.md).

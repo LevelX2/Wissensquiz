@@ -1,3 +1,4 @@
+import { ruleLabel } from "./familiarity";
 import { points, recordKey } from "./engine";
 import {
   canonicalFilters,
@@ -19,7 +20,7 @@ export const levelSelectionKey = (r: Round) =>
     ? JSON.stringify(canonicalFilters(r.filters).difficulties)
     : `historisch:${r.difficulty}`;
 export const categoryLabel = (r: Round) =>
-  `${roundGenres(r)} · ${roundDifficulties(r)} · ${r.questions.length} Fragen · Regel ${r.ruleVersion}${r.filters ? "" : " · frühere Themenauswahl"}`;
+  `${roundGenres(r)} · ${roundDifficulties(r)} · ${r.questions.length} Fragen · Regel ${ruleLabel(r.ruleVersion)}${r.filters ? "" : " · frühere Themenauswahl"}`;
 
 export function leaderboard(state: State) {
   const groups = new Map<

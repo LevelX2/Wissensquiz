@@ -1,7 +1,8 @@
+import { familiarityLabel } from "./familiarity";
 import type { State } from "./model";
-import { genreLabel, genreOf } from "./filters";
+import { genreLabel } from "./filters";
 import { GenreArtwork } from "./Icons";
-import { learningPathProgress, PATH_TARGET } from "./learningPath";
+import { learningPathProgress } from "./learningPath";
 
 export function LearningPath({
   state,
@@ -15,59 +16,81 @@ export function LearningPath({
     <details className="learning-path">
       <summary>Deine Stufenfortschritte</summary>
       <p className="tiny">
-        Je 20 verschiedene sicher richtig beantwortete Wissensziele schalten die
-        nächste Stufe frei. Abgeschlossene Runden zählen – auch Deine bisherigen
-        und die aus dem freien Spiel. Geratene Treffer und Wiederholungen
-        erhöhen den Zähler nicht.
+        Sichere richtige Antworten aus abgeschlossenen Runden zählen einmal pro
+        Wissensziel – in allen drei Modi. Geratene Treffer und Varianten erhöhen
+        den Zähler nicht. Deine erreichten Stufen bleiben erhalten.
       </p>
       <div className="path-progress">
         {genres.map((genre) => {
           const p = progress(genre);
-          const availableEasy = new Set(
-            state.questions
-              .filter((q) => genreOf(q) === genre && q.difficulty === "leicht")
-              .map((q) => q.knowledgeId),
-          ).size;
-          const availableMedium = new Set(
-            state.questions
-              .filter((q) => genreOf(q) === genre && q.difficulty === "mittel")
-              .map((q) => q.knowledgeId),
-          ).size;
+          const current = p.groups.find((g) => g.level === p.familiarity);
+          const next = p.groups.find((g) => g.level > p.familiarity);
           return (
             <div key={genre}>
               <strong>
                 <GenreArtwork genre={genre} compact /> {genreLabel(genre)}
               </strong>
-              <span>Leicht freigeschaltet</span>
+              <span>Schwierigkeit · Leicht freigeschaltet</span>
               <span>
                 {p.mediumUnlocked
                   ? "✓ Mittel freigeschaltet"
-                  : `Mittel gesperrt · ${Math.min(p.easy, PATH_TARGET)} / ${PATH_TARGET} leichte Ziele`}
+                  : `Mittel gesperrt · ${Math.min(p.easy, p.easyTarget)} / ${p.easyTarget} leichte Ziele`}
               </span>
               <progress
                 aria-label={`${genreLabel(genre)}: Fortschritt zu Mittel`}
-                max={PATH_TARGET}
-                value={Math.min(p.easy, PATH_TARGET)}
+                max={p.easyTarget || 1}
+                value={Math.min(p.easy, p.easyTarget)}
               />
               <span>
                 {p.hardUnlocked
                   ? "✓ Schwer freigeschaltet"
-                  : `Schwer gesperrt · ${Math.min(p.medium, PATH_TARGET)} / ${PATH_TARGET} mittlere Ziele${p.mediumUnlocked ? "" : " · zuerst Mittel freischalten"}`}
+                  : `Schwer gesperrt · ${Math.min(p.medium, p.mediumTarget)} / ${p.mediumTarget} mittlere Ziele${p.mediumUnlocked ? "" : " · zuerst Mittel freischalten"}`}
               </span>
               <progress
                 aria-label={`${genreLabel(genre)}: Fortschritt zu Schwer`}
-                max={PATH_TARGET}
-                value={Math.min(p.medium, PATH_TARGET)}
+                max={p.mediumTarget || 1}
+                value={Math.min(p.medium, p.mediumTarget)}
               />
-              {(availableEasy < PATH_TARGET || availableMedium < PATH_TARGET) &&
-                !p.hardUnlocked && (
-                  <span className="muted">
-                    Hier gibt es bisher {availableEasy} leichte und{" "}
-                    {availableMedium} mittlere Ziele. Für weitere
-                    Freischaltungen fehlen noch Fragen. Über „Schwierigkeit
-                    selbst wählen“ kannst Du alle vorhandenen Stufen spielen.
+              <strong>Filmgruppen</strong>
+              {p.groups.map((g) => (
+                <span key={g.level}>
+                  {g.level <= p.familiarity ? "✓" : "○"}{" "}
+                  {familiarityLabel(g.level)} ·{" "}
+                  {g.level <= p.familiarity ? "freigeschaltet" : "gesperrt"}
+                </span>
+              ))}
+              {next && current ? (
+                <>
+                  <span>
+                    Nächste Gruppe: {familiarityLabel(next.level)} ·{" "}
+                    {Math.min(current.answered, current.target)} /{" "}
+                    {current.target} sichere{" "}
+                    {current.difficulty === "leicht"
+                      ? "leichte"
+                      : current.difficulty === "mittel"
+                        ? "mittlere"
+                        : "schwere"}{" "}
+                    Ziele in Gruppe {current.level}
                   </span>
-                )}
+                  <progress
+                    aria-label={`${genreLabel(genre)}: Fortschritt zur nächsten Filmgruppe`}
+                    max={current.target || 1}
+                    value={Math.min(current.answered, current.target)}
+                  />
+                </>
+              ) : (
+                <span className="muted">
+                  {p.groups.length
+                    ? "Alle vorhandenen Filmgruppen geöffnet."
+                    : "Noch nicht eingeordnete Filme kannst Du im Freien Spiel wählen."}
+                </span>
+              )}
+              {p.first > 1 && (
+                <span className="muted">
+                  Einstieg bei Gruppe {p.first}: Die vorherigen Gruppen
+                  enthalten hier noch keine Filme.
+                </span>
+              )}
             </div>
           );
         })}

@@ -234,7 +234,7 @@ describe("Lernfortschritt mit kontrollierter Testzeit", () => {
       };
     expect(
       selectQuestions(questions, learning, {
-        mode: "ueben",
+        mode: "entdecken",
         topic: "Alle Themen",
         difficulty: "Alle Stufen",
         size: 10,

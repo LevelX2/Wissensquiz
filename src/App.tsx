@@ -1,3 +1,4 @@
+import { familiarities, familiarityLabel, ruleLabel } from "./familiarity";
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import {
   answer,
@@ -57,6 +58,7 @@ import { UnlockCelebration } from "./UnlockCelebration";
 import {
   learningPathProgress,
   pathQuestions,
+  retainJourneyUnlocks,
   newlyUnlocked,
   type PathUnlock,
 } from "./learningPath";
@@ -89,10 +91,16 @@ type Page =
   | "result";
 type Mutate = (fn: (s: State) => void) => Promise<State | null>;
 const modeNames: Record<Mode, string> = {
-  entdecken: "Entdecken",
-  ueben: "Besser werden",
+  entdecken: "Filmreise",
+  ueben: "Freies Spiel",
   rekord: "Rekordrunde",
 };
+const historicalModeName = (round: Round) =>
+  round.ruleVersion === "1" && round.mode !== "rekord"
+    ? round.mode === "entdecken"
+      ? "Entdecken (frühere Runde)"
+      : "Besser werden (frühere Runde)"
+    : modeNames[round.mode];
 const formatDate = (at: number) =>
   new Date(at).toLocaleDateString("de-DE", { day: "numeric", month: "short" });
 function Pill({ children }: { children: ReactNode }) {
@@ -251,6 +259,7 @@ export function App({
       }
       const loaded = await update((s) => {
         addPackages(s, incoming);
+        retainJourneyUnlocks(s);
         for (const r of s.rounds)
           if (r.status === "active" && r.mode === "rekord") {
             r.status = "aborted";
@@ -323,6 +332,7 @@ export function App({
     genres: selectedGenres,
     categories: selectedCategories,
     difficulties: selectedDifficulties,
+    familiarities: selectedFamiliarities = [...familiarities],
   } = pendingSetup ?? readRoundSetup(state);
   const changeSetup = async (patch: Partial<RoundSetup>) => {
     if (inFlight.current) return null;
@@ -354,9 +364,10 @@ export function App({
   const browseTopics = [...new Set(browseQuestions.map((q) => q.topic))].sort();
   const filters = {
     genres: selectedGenres ?? genres,
-    difficulties: state.settings.allDifficulties
-      ? selectedDifficulties
-      : [...difficulties],
+    difficulties:
+      mode === "entdecken" ? [...difficulties] : selectedDifficulties,
+    familiarities:
+      mode === "entdecken" ? [...familiarities] : selectedFamiliarities,
   };
   const toggleGenre = (genre: string) =>
     void changeSetup({
@@ -373,7 +384,7 @@ export function App({
   const targetSize = completed.length ? 10 : 5;
   const roundTopic = categoryTopic("Alle Themen", selectedCategories);
   const selection = selectQuestions(
-    pathQuestions(state),
+    pathQuestions(state, mode),
     state.learning,
     {
       mode,
@@ -540,8 +551,8 @@ export function App({
                       <small>
                         {
                           [
-                            "Neue Ideen & bekannte Welten",
-                            "Wissen in Ruhe festigen",
+                            "Filmwelten und Stufen freischalten",
+                            "Alle Stufen frei kombinieren",
                             "30 Sekunden. Dein persönlicher Rekord.",
                           ][i]
                         }
@@ -576,14 +587,16 @@ export function App({
                         : "Kein Genre"}
                     {" · "}
                     {selection.length} Fragen{" · "}
-                    {state.settings.allDifficulties
+                    {mode !== "entdecken"
                       ? "Freie Auswahl: " +
                         (selectedDifficulties.length
                           ? selectedDifficulties
                               .map(difficultyLabel)
                               .join(" + ")
                           : "keine Stufe")
-                      : "Lernpfad"}
+                      : "Filmreise · freigeschaltete Stufen"}
+                    {mode !== "entdecken" &&
+                      ` · Filmgruppen ${selectedFamiliarities.join(" + ") || "keine"}`}
                     {roundTopic !== "Alle Themen" && " · " + roundTopic}
                   </p>
                 </div>
@@ -615,8 +628,18 @@ export function App({
                 </p>
                 {!selection.length ? (
                   <p role="status" className="notice">
-                    Wähle mindestens ein Genre und eine Schwierigkeitsstufe mit
-                    verfügbaren Fragen.
+                    {mode === "entdecken"
+                      ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Genres oder Kategorien, oder spiele frei."
+                      : "Wähle mindestens ein Genre, eine Schwierigkeitsstufe und eine Filmgruppe mit verfügbaren Fragen."}
+                    {mode === "entdecken" && (
+                      <button
+                        className="text-button"
+                        disabled={busy}
+                        onClick={() => void changeSetup({ mode: "ueben" })}
+                      >
+                        Zum Freien Spiel wechseln
+                      </button>
+                    )}
                   </p>
                 ) : (
                   selection.length < targetSize && (
@@ -690,73 +713,97 @@ export function App({
                       nur einmal.
                     </p>
                   </fieldset>
-                  <details
-                    className="difficulty-options"
-                    open={state.settings.allDifficulties || undefined}
-                  >
-                    <summary>Schwierigkeit selbst wählen</summary>
-                    <p className="tiny muted">
-                      Im Lernpfad wählt die App aus Deinen freigeschalteten
-                      Stufen je Genre. Hier kannst Du stattdessen frei wählen.
-                    </p>
-                    <label className="filter-choice">
-                      <input
-                        type="checkbox"
-                        checked={state.settings.allDifficulties === true}
-                        disabled={busy}
-                        onChange={(e) => {
-                          const enabled = e.target.checked;
-                          void mutate((s) => {
-                            s.settings.allDifficulties = enabled;
-                          });
-                        }}
-                      />
-                      Alle Schwierigkeitsstufen freigeben
-                    </label>
-                    {state.settings.allDifficulties && (
-                      <>
+                  {mode !== "entdecken" ? (
+                    <>
+                      <fieldset disabled={busy}>
+                        <legend>Schwierigkeitsstufen</legend>
+                        <div className="filter-options">
+                          {difficulties.map((d) => (
+                            <label className="filter-choice" key={d}>
+                              <input
+                                type="checkbox"
+                                checked={selectedDifficulties.includes(d)}
+                                onChange={() =>
+                                  void changeSetup({
+                                    difficulties: selectedDifficulties.includes(
+                                      d,
+                                    )
+                                      ? selectedDifficulties.filter(
+                                          (x) => x !== d,
+                                        )
+                                      : [...selectedDifficulties, d],
+                                  })
+                                }
+                              />
+                              {difficultyLabel(d)}
+                            </label>
+                          ))}
+                        </div>
+                        <button
+                          className="text-button"
+                          onClick={() =>
+                            void changeSetup({
+                              difficulties: [...difficulties],
+                            })
+                          }
+                        >
+                          Alle Stufen auswählen
+                        </button>
+                      </fieldset>
+                      <fieldset disabled={busy}>
+                        <legend>Bekanntheit der Filme</legend>
+                        <div className="filter-options">
+                          {familiarities.map((level) => (
+                            <label className="filter-choice" key={level}>
+                              <input
+                                type="checkbox"
+                                checked={selectedFamiliarities.includes(level)}
+                                onChange={() =>
+                                  void changeSetup({
+                                    familiarities:
+                                      selectedFamiliarities.includes(level)
+                                        ? selectedFamiliarities.filter(
+                                            (x) => x !== level,
+                                          )
+                                        : [...selectedFamiliarities, level],
+                                  })
+                                }
+                              />
+                              {familiarityLabel(level)}
+                            </label>
+                          ))}
+                        </div>
+                        <button
+                          className="text-button"
+                          onClick={() =>
+                            void changeSetup({
+                              familiarities: [...familiarities],
+                            })
+                          }
+                        >
+                          Alle Filmgruppen auswählen
+                        </button>
                         <p className="tiny muted">
-                          Freie Auswahl: Alle Stufen stehen Dir zur Wahl.
-                          Sichere Antworten zählen weiterhin für Deinen
-                          Lernpfad.
+                          Redaktionelle Einordnung für ein breites
+                          deutschsprachiges Kinopublikum. Eigene, noch nicht
+                          eingeordnete Filme sind bei Auswahl aller Gruppen
+                          dabei.
                         </p>
-                        <fieldset disabled={busy}>
-                          <legend>Schwierigkeitsstufen</legend>
-                          <div className="filter-options">
-                            {difficulties.map((d) => (
-                              <label className="filter-choice" key={d}>
-                                <input
-                                  type="checkbox"
-                                  checked={selectedDifficulties.includes(d)}
-                                  onChange={() =>
-                                    void changeSetup({
-                                      difficulties:
-                                        selectedDifficulties.includes(d)
-                                          ? selectedDifficulties.filter(
-                                              (x) => x !== d,
-                                            )
-                                          : [...selectedDifficulties, d],
-                                    })
-                                  }
-                                />
-                                <span>{difficultyLabel(d)}</span>
-                              </label>
-                            ))}
-                          </div>
-                          <button
-                            className="text-button"
-                            onClick={() =>
-                              void changeSetup({
-                                difficulties: [...difficulties],
-                              })
-                            }
-                          >
-                            Alle Stufen auswählen
-                          </button>
-                        </fieldset>
-                      </>
-                    )}
-                  </details>
+                      </fieldset>
+                      <p className="tiny muted">
+                        Zufällige Auswahl ohne Gewichtung nach Deinem Lernstand.
+                        Sichere Antworten abgeschlossener Runden zählen auch für
+                        Deine Filmreise.
+                      </p>
+                    </>
+                  ) : (
+                    <p className="tiny muted">
+                      Deine Filmreise startet mit leichten Fragen zu den
+                      bekanntesten verfügbaren Filmen. Du öffnest je Genre
+                      weitere Schwierigkeiten und Filmgruppen. Frei auswählen
+                      kannst Du im Freien Spiel und in der Rekordrunde.
+                    </p>
+                  )}
                   <LearningPath state={state} genres={filters.genres} />
                 </div>
               </section>
@@ -1027,7 +1074,7 @@ export function App({
                         >
                           <div>
                             <b>
-                              {modeNames[r.mode]} · {roundGenres(r)}
+                              {historicalModeName(r)} · {roundGenres(r)}
                             </b>
                             <small>
                               {formatDate(r.finishedAt!)} · {r.questions.length}{" "}
@@ -1359,7 +1406,7 @@ function QuestionScreen({
           ← {round.mode === "rekord" ? "Runde beenden" : "Pause & Startseite"}
         </button>
         <div className="round-status">
-          <Pill>{modeNames[round.mode]}</Pill>
+          <Pill>{historicalModeName(round)}</Pill>
           {sync && <SyncIndicator sync={sync} />}
         </div>
       </div>
@@ -1598,24 +1645,9 @@ function Result({
       after[q.knowledgeId]?.status === "gefestigt" &&
       round.before[q.knowledgeId]?.status !== "gefestigt",
   ).length;
-  const pathNow = learningPathProgress(state);
-  const pathBefore = learningPathProgress({
-    ...state,
-    rounds: state.rounds.filter((r) => r.id !== round.id),
-  });
-  const unlocked = [...new Set(round.questions.map(genreOf))].flatMap(
-    (genre) => {
-      const before = pathBefore(genre),
-        after = pathNow(genre);
-      return [
-        ...(!before.mediumUnlocked && after.mediumUnlocked
-          ? [`${genreLabel(genre)} · Mittel`]
-          : []),
-        ...(!before.hardUnlocked && after.hardUnlocked
-          ? [`${genreLabel(genre)} · Schwer`]
-          : []),
-      ];
-    },
+  const unlocked = (round.unlocks ?? []).map(
+    (u) =>
+      `${genreLabel(u.genre)} · ${"difficulty" in u ? difficultyLabel(u.difficulty) : familiarityLabel(u.familiarity)}`,
   );
   return (
     <div className="result">
@@ -1647,7 +1679,7 @@ function Result({
           </span>
           <small>
             Lokale Trainingsrunde · {roundGenres(round)} ·{" "}
-            {roundDifficulties(round)} · Regel {round.ruleVersion}
+            {roundDifficulties(round)} · Regel {ruleLabel(round.ruleVersion)}
           </small>
         </div>
       )}
@@ -1655,7 +1687,7 @@ function Result({
         <Pill>+10 Erfahrung · einmal pro Runde</Pill>
         {!!unlocked.length && (
           <p className="notice" role="status">
-            ✦ Im Lernpfad neu freigeschaltet: {unlocked.join(" und ")}. Du
+            ✦ In der Filmreise neu freigeschaltet: {unlocked.join(" und ")}. Du
             kannst die neue Stufe bei Deiner nächsten Runde auswählen.
           </p>
         )}
@@ -1835,7 +1867,7 @@ function Settings({
           </select>
         </label>
         <p className="muted tiny">
-          Gilt für Entdecken und Besser werden. Nach der Antwort zählt Dein
+          Gilt für Filmreise und Freies Spiel. Nach der Antwort zählt Dein
           aktuelles Ergebnis bereits mit. Deine Auswahl wird im Spielstand
           gespeichert, bei angemeldeten Konten auch online, und ist in Deiner
           JSON-Sicherung enthalten.
