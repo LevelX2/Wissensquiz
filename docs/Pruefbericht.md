@@ -269,3 +269,11 @@ Alle 300 Filme einmal redaktionell nach Bekanntheit eingeordnet (64 / 114 / 87 /
 125 Logik-/Datenbanktests, Produktions-Build und vollständiger Lauf aller 63 Browserprüfungen erfolgreich (61 Chromium, zwei WebKit/iPhone-Profil; zwei isolierte Test-Worker). Geprüft: vollständige Filmzuordnung und sämtliche festen Zielmengen des 2.567-Fragen-Katalogs, Erreichbarkeit kleiner Genres, gemeinsame Variantenidentität, Lernstandsunabhängigkeit der freien Modi, Erhalt bestehender Rechte, neue Filmgruppenfeier, gespeicherte freie Filter über Moduswechsel/Neuladen, kompakte Online-/JSON-Rückwege, historische Rundensnapshots bei Umstufung sowie getrennte SQL-Rekordkategorien ohne Schemaänderung. Bestehende Konten-, Offline-, Wiederherstellungs-, Import-, Timer-, Mobil- und Barrierearmutsprüfungen bestehen ebenfalls.
 
 Browserprüfungen deckten einen während laufender Speicherung ignorierten Klick auf den neuen Wechselknopf auf; er wartet jetzt wie die übrigen Auswahlknöpfe auf abgeschlossene Speicherung. Leere Filmreise-Auswahl erklärt die Sperre und bietet den direkten Wechsel ins Freie Spiel. Handy-Fortschrittsdarstellung visuell geprüft. Build meldet weiterhin den bekannten großen Bündelumfang und harmlose Abhängigkeits-Annotationshinweise. Physische Geräteabnahme und empirische Bekanntheitsbewertung bleiben offen; die Zuordnungen sind ausdrücklich redaktionelle Ersteinschätzungen.
+
+## 27.09.2026 — Deutlich unterscheidbare, kurze Antwortsignale
+
+Richtig jetzt als heller aufsteigender Sinus-Zweiklang (250 ms), falsch als tieferer absteigender Dreieck-Zweiklang mit niedrigerem Spitzenpegel (265 ms). Weiche Lautstärkehüllkurven, ohne Fehlersirene. Bestehende Soundoption, Offlinebetrieb, Speicherung vor Feedback sowie übrige Aktions-/Erfolgssignale und Vibration erhalten.
+
+Der vorhandene Browsertest kontrolliert zusätzlich Frequenzrichtung, Register, Wellenform und Gesamtdauer unter 300 ms. Weiterhin geprüft: kein Ton beim Laden, gespeichertes Stummschalten, Antwortfeedback und fehlende Schnittstellen. Kein Hörtest auf einem physischen Smartphone; die tatsächliche Lautstärke hängt von Gerät und Systempegel ab.
+
+125 Logik-/Datenbanktests, Produktions-Build, alle 63 Browserprüfungen und `git diff --check` erfolgreich. Keine Datenbank-, Lernstands- oder Rohquellenänderung.

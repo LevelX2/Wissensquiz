@@ -395,13 +395,41 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
 test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfeedback", async ({
   page,
 }) => {
+  await page.clock.install({ time: new Date("2026-09-27T12:00:00+02:00") });
   await page.addInitScript(() => {
-    const counters = { tones: 0, vibrations: [] as (number | number[])[] };
+    const counters = {
+      tones: 0,
+      notes: [] as {
+        frequency: number;
+        type: string;
+        start: number;
+        end: number;
+      }[],
+      vibrations: [] as (number | number[])[],
+    };
     Object.assign(window, { feedbackTest: counters });
     const create = AudioContext.prototype.createOscillator;
     AudioContext.prototype.createOscillator = function () {
       counters.tones++;
-      return create.call(this);
+      const oscillator = create.call(this);
+      const start = oscillator.start.bind(oscillator),
+        stop = oscillator.stop.bind(oscillator);
+      let note: (typeof counters.notes)[number];
+      oscillator.start = (at = 0) => {
+        note = {
+          frequency: oscillator.frequency.value,
+          type: oscillator.type,
+          start: at,
+          end: at,
+        };
+        counters.notes.push(note);
+        start(at);
+      };
+      oscillator.stop = (at = 0) => {
+        if (note) note.end = at;
+        stop(at);
+      };
+      return oscillator;
     };
     Object.defineProperty(navigator, "vibrate", {
       configurable: true,
@@ -416,7 +444,16 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
       () =>
         (
           window as unknown as {
-            feedbackTest: { tones: number; vibrations: (number | number[])[] };
+            feedbackTest: {
+              tones: number;
+              notes: {
+                frequency: number;
+                type: string;
+                start: number;
+                end: number;
+              }[];
+              vibrations: (number | number[])[];
+            };
           }
         ).feedbackTest,
     );
@@ -451,10 +488,19 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
   await expect.poll(async () => (await counters()).tones).toBeGreaterThan(0);
   await page.getByRole("button", { name: "Spielen", exact: true }).click();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
+  const positive = (await counters()).notes.slice(-2);
+  expect(positive[1].frequency).toBeGreaterThan(positive[0].frequency);
+  expect(positive.every((n) => n.type === "sine")).toBe(true);
+  expect(positive[1].end - positive[0].start).toBeLessThanOrEqual(0.3);
   await page.getByRole("button", { name: "Nächste Frage" }).click();
   const before = (await counters()).tones;
   await answerCurrent(page, false);
   expect((await counters()).tones).toBe(before + 2);
+  const negative = (await counters()).notes.slice(-2);
+  expect(negative[1].frequency).toBeLessThan(negative[0].frequency);
+  expect(negative[0].frequency).toBeLessThan(positive[0].frequency);
+  expect(negative.every((n) => n.type === "triangle")).toBe(true);
+  expect(negative[1].end - negative[0].start).toBeLessThanOrEqual(0.3);
   expect((await counters()).vibrations).toContain(45);
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();

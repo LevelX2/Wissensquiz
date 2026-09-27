@@ -12,8 +12,8 @@ export type FeedbackKind =
 const tones: Record<FeedbackKind, number[]> = {
   start: [392, 523],
   next: [440],
-  correct: [523, 659],
-  wrong: [294, 247],
+  correct: [659, 880],
+  wrong: [277, 196],
   timeout: [330, 262, 220],
   complete: [523, 659, 784],
   badge: [523, 659, 784, 1047],
@@ -78,15 +78,37 @@ export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
   if (settings.sound === false || context?.state !== "running") return haptics;
   try {
     const audio = context;
+    // Answers differ in register, direction and timbre, without a loud buzzer.
+    const voice =
+      kind === "correct"
+        ? {
+            type: "sine" as OscillatorType,
+            spacing: 0.09,
+            duration: 0.16,
+            peak: 0.035,
+          }
+        : kind === "wrong"
+          ? {
+              type: "triangle" as OscillatorType,
+              spacing: 0.085,
+              duration: 0.18,
+              peak: 0.024,
+            }
+          : {
+              type: (kind === "unlock" ? "triangle" : "sine") as OscillatorType,
+              spacing: kind === "unlock" ? 0.13 : 0.1,
+              duration: 0.15,
+              peak: 0.045,
+            };
     tones[kind].forEach((frequency, index) => {
       const oscillator = audio.createOscillator();
       const gain = audio.createGain();
-      const at = audio.currentTime + index * (kind === "unlock" ? 0.13 : 0.1);
-      oscillator.type = kind === "unlock" ? "triangle" : "sine";
+      const at = audio.currentTime + index * voice.spacing;
+      oscillator.type = voice.type;
       oscillator.frequency.value = frequency;
       gain.gain.setValueAtTime(0, at);
-      gain.gain.linearRampToValueAtTime(0.045, at + 0.012);
-      gain.gain.exponentialRampToValueAtTime(0.001, at + 0.13);
+      gain.gain.linearRampToValueAtTime(voice.peak, at + 0.012);
+      gain.gain.exponentialRampToValueAtTime(0.001, at + voice.duration - 0.02);
       oscillator.connect(gain).connect(audio.destination);
       active.add(oscillator);
       oscillator.onended = () => {
@@ -95,7 +117,7 @@ export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
         gain.disconnect();
       };
       oscillator.start(at);
-      oscillator.stop(at + 0.15);
+      oscillator.stop(at + voice.duration);
     });
   } catch {
     /* Optional sound; visible feedback remains available. */

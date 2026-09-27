@@ -70,7 +70,7 @@ Browserdaten sind nicht Teil des Git-Repositories. Backup: JSON über Einstellun
 
 ## Akustisches und haptisches Feedback
 
-Soundeffekte sind standardmäßig eingeschaltet, werden aber erst durch eine Spielaktion bzw. das Probesignal freigegeben. Keine Wiedergabe beim Laden oder bloßen Wiederanzeigen gespeicherter Antworten. Sinustöne mit kurzer Lautstärkehüllkurve unterscheiden Start, nächste Frage, richtige/falsche Antwort, Zeitablauf, Abschluss und neu erworbenes Abzeichen. Signale bestätigen gespeicherte Antworten/Abschlüsse; Fehler der Audioausgabe beeinflussen den Speicherablauf nicht. Keine Hintergrundmusik, keine externen Audiodateien.
+Soundeffekte sind standardmäßig eingeschaltet, werden aber erst durch eine Spielaktion bzw. das Probesignal freigegeben. Keine Wiedergabe beim Laden oder bloßen Wiederanzeigen gespeicherter Antworten. Kurze synthetische Töne mit sanfter Lautstärkehüllkurve unterscheiden Start, nächste Frage, richtige/falsche Antwort, Zeitablauf, Abschluss und neu erworbenes Abzeichen. Signale bestätigen gespeicherte Antworten/Abschlüsse; Fehler der Audioausgabe beeinflussen den Speicherablauf nicht. Keine Hintergrundmusik, keine externen Audiodateien.
 
 `settings.sound` und `settings.haptics` sind optionale, abwärtskompatible Sicherungsfelder. Ohne Werte gilt Ton an, Vibration aus. Ton und Vibration gesammelt unter Optionen → Ton & Vibration änderbar. Vibration ist ein optionales Zusatzsignal für unterstützte Geräte/Browser. Sichtbares Feedback bleibt erhalten; in ausgeblendeten Tabs werden keine neuen Signale abgespielt. Stummschalten stoppt laufende Töne. Technische Grundlagen: [Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Best_practices), [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API).
 
@@ -154,3 +154,8 @@ Auswahländerungen werden transaktional gespeichert; die Oberfläche zeigt die W
 
 
 Online-Sicherungen verwenden zusätzlich eine verlustfreie Kompaktkodierung des Fragenkatalogs und versionsgebundene Rundenverweise. Nach dem Lesen entsteht derselbe vollständige Zustand; die bisherigen Sicherungs-, Lern- und Ranglistenregeln gelten unverändert. IndexedDB und JSON-Export behalten das bisherige Vollformat. Details und Größenmessung unter [Konten und Spielstände](Konten-und-Spielstaende.md#kompakte-online-sicherung-27092026).
+
+
+## Antwortsignale (27.09.2026)
+
+Richtig: heller aufsteigender Sinus-Zweiklang (659 → 880 Hz), insgesamt 250 ms. Falsch: tiefer absteigender Dreieck-Zweiklang (277 → 196 Hz), insgesamt 265 ms, geringerer Spitzenpegel. Beide weich ein- und ausgeblendet; keine laute Fehlersirene. Die vorhandene Soundoption, Offlinefähigkeit und Wiedergabe erst nach gespeicherter Antwort bleiben erhalten. Start, Weiter, Zeitablauf, Abschluss, Freischaltungen und Vibration unverändert. Der wahrgenommene Pegel hängt weiterhin von Gerät und Systemlautstärke ab.
