@@ -102,12 +102,16 @@ function TopicCard({
   state,
   onPlay,
   onFavorite,
+  onBrowse,
+  questions = state.questions,
   genre = false,
 }: {
   topic: string;
   state: State;
   onPlay: () => void;
   onFavorite?: () => void;
+  onBrowse?: () => void;
+  questions?: Question[];
   genre?: boolean;
 }) {
   const cardGenres = categories.includes(topic as Category)
@@ -116,12 +120,12 @@ function TopicCard({
       ? [topic]
       : [
           ...new Set(
-            state.questions.filter((q) => matchesTopic(q, topic)).map(genreOf),
+            questions.filter((q) => matchesTopic(q, topic)).map(genreOf),
           ),
         ].sort();
   const ids = [
     ...new Set(
-      state.questions
+      questions
         .filter((q) => (genre ? genreOf(q) === topic : matchesTopic(q, topic)))
         .map((q) => q.knowledgeId),
     ),
@@ -185,6 +189,11 @@ function TopicCard({
               : "Thema spielen"}{" "}
           <span>↗</span>
         </button>
+        {onBrowse && (
+          <button className="text-button" onClick={onBrowse}>
+            Filme & Reihen ansehen <span>↗</span>
+          </button>
+        )}
       </div>
     </article>
   );
@@ -206,6 +215,11 @@ export function App({
   const [state, setState] = useState<State | null>(null);
   const [page, setPage] = useState<Page>("home");
   const [answeredOnly, setAnsweredOnly] = useState(false);
+  const [topicScope, setTopicScope] = useState<
+    | { kind: "genre"; name: string }
+    | { kind: "category"; name: Category }
+    | null
+  >(null);
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
   const [mode, setMode] = useState<Mode>("entdecken");
@@ -269,7 +283,7 @@ export function App({
   useEffect(() => {
     heading.current?.focus();
     window.scrollTo(0, 0);
-  }, [page, index]);
+  }, [page, index, topicScope]);
   const mutate: Mutate = async (fn) => {
     if (inFlight.current) return null;
     inFlight.current = true;
@@ -290,6 +304,7 @@ export function App({
     }
   };
   const nav = async (next: Page) => {
+    if (next === "topics") setTopicScope(null);
     setCelebration(null);
     if (
       page === "round" &&
@@ -326,6 +341,15 @@ export function App({
     (t) => !answeredOnly || startedTopics.has(t),
   );
   const genres = [...new Set(state.questions.map(genreOf))].sort();
+  const browseQuestions =
+    page === "topics" && topicScope
+      ? state.questions.filter((q) =>
+          topicScope.kind === "genre"
+            ? genreOf(q) === topicScope.name
+            : matchesCategories(q, [topicScope.name]),
+        )
+      : [];
+  const browseTopics = [...new Set(browseQuestions.map((q) => q.topic))].sort();
   const filters = {
     genres: selectedGenres ?? genres,
     difficulties: state.settings.allDifficulties
@@ -801,31 +825,6 @@ export function App({
                   Deine Sammlung <span>↗</span>
                 </button>
               </section>
-              <section>
-                <div className="section-title">
-                  <div>
-                    <span className="eyebrow">EIN KOSMOS VOLLER IDEEN</span>
-                    <h2>Wohin führt Deine Neugier?</h2>
-                  </div>
-                  <button
-                    className="text-button"
-                    onClick={() => setPage("topics")}
-                  >
-                    Alle Genres ↗
-                  </button>
-                </div>
-                <div className="topic-grid">
-                  {genres.map((t) => (
-                    <TopicCard
-                      key={t}
-                      topic={t}
-                      genre
-                      state={state}
-                      onPlay={() => playGenre(t)}
-                    />
-                  ))}
-                </div>
-              </section>
               <p className="demo-label">
                 {state.questions.every((q) => q.demo)
                   ? "TESTAUSGABE · Gekennzeichnete Demo-Fragen zu Filmhandwerk und Science-Fiction-Ideen."
@@ -835,38 +834,98 @@ export function App({
           )}
           {page === "topics" && (
             <>
-              <span className="eyebrow">DEIN NÄCHSTES KAPITEL</span>
-              <h1>
-                Welten zum <em>Entdecken.</em>
-              </h1>
-              <p className="lead">
-                Wähle ein Filmgenre. Auf der Startseite kannst Du mehrere Genres
-                und Schwierigkeitsstufen kombinieren.
-              </p>
-              <div className="topic-grid">
-                {categories.map((category) => (
-                  <TopicCard
-                    key={category}
-                    topic={category}
-                    state={state}
-                    onPlay={() => {
-                      setSelectedCategories([category]);
-                      setSelectedGenres(null);
-                      setTopic("Alle Themen");
-                      setPage("home");
-                    }}
-                  />
-                ))}
-                {genres.map((t) => (
-                  <TopicCard
-                    key={t}
-                    topic={t}
-                    genre
-                    state={state}
-                    onPlay={() => playGenre(t)}
-                  />
-                ))}
-              </div>
+              {topicScope ? (
+                <>
+                  <button
+                    className="text-button"
+                    onClick={() => setTopicScope(null)}
+                  >
+                    ← Zur Themenübersicht
+                  </button>
+                  <h1>
+                    {topicScope.kind === "genre"
+                      ? genreLabel(topicScope.name)
+                      : topicScope.name}
+                    : Filme & Reihen
+                  </h1>
+                  <p className="lead">
+                    {browseTopics.length} Film- und Reihenblöcke. Wähle einen
+                    Block, um damit eine Runde vorzubereiten.
+                  </p>
+                  <div className="topic-grid">
+                    {browseTopics.map((t) => (
+                      <TopicCard
+                        key={t}
+                        topic={t}
+                        state={state}
+                        questions={browseQuestions}
+                        onPlay={() => {
+                          setSelectedCategories(
+                            topicScope.kind === "category"
+                              ? [topicScope.name]
+                              : [],
+                          );
+                          setSelectedGenres(
+                            topicScope.kind === "genre"
+                              ? [topicScope.name]
+                              : [
+                                  ...new Set(
+                                    browseQuestions
+                                      .filter((q) => q.topic === t)
+                                      .map(genreOf),
+                                  ),
+                                ],
+                          );
+                          setTopic(t);
+                          setPage("home");
+                        }}
+                      />
+                    ))}
+                  </div>
+                </>
+              ) : (
+                <>
+                  <span className="eyebrow">DEIN NÄCHSTES KAPITEL</span>
+                  <h1>
+                    Welten zum <em>Entdecken.</em>
+                  </h1>
+                  <p className="lead">
+                    Wähle ein Filmgenre oder sieh Dir seine Filme und Reihen an.
+                    Auf der Startseite kannst Du mehrere Genres und
+                    Schwierigkeitsstufen kombinieren.
+                  </p>
+                  <div className="topic-grid">
+                    {categories.map((category) => (
+                      <TopicCard
+                        key={category}
+                        topic={category}
+                        state={state}
+                        onBrowse={() =>
+                          setTopicScope({ kind: "category", name: category })
+                        }
+                        onPlay={() => {
+                          setSelectedCategories([category]);
+                          setSelectedGenres(null);
+                          setTopic("Alle Themen");
+                          setPage("home");
+                        }}
+                      />
+                    ))}
+                    {genres.map((t) => (
+                      <TopicCard
+                        key={t}
+                        topic={t}
+                        genre
+                        state={state}
+                        onPlay={() => playGenre(t)}
+                        onBrowse={() =>
+                          setTopicScope({ kind: "genre", name: t })
+                        }
+                      />
+                    ))}
+                  </div>
+                </>
+              )}
             </>
           )}
           {page === "album" && (
@@ -921,6 +980,11 @@ export function App({
                 Die drei Status zählen getrennt. Gefestigt heißt: mehrfach
                 sicher, an verschiedenen Tagen und nach mindestens sieben Tagen
                 erneut bestätigt.
+              </p>
+              <p className="muted tiny">
+                Mit dem Stern heftest Du bis zu drei Favoriten oben in dieser
+                Liste an. Die Markierung ändert weder Fragenauswahl noch
+                Lernfortschritt oder Punkte.
               </p>
               <div
                 className="ranking-tabs"

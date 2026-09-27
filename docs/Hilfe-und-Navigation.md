@@ -47,3 +47,11 @@ Spielmodi mit eigenen transparenten Illustrationen: Entdecken (Lupe mit Stern), 
 Die kleinen Felder neben der Fragenzahl zeigen richtige Antworten grün mit Häkchen, falsche rot mit Kreuz und Zeitabläufe rot mit Strich. Offene Fragen bleiben grau. Die aktuelle Frage hat eine dunkle Umrandung; vor ihrer Beantwortung zusätzlich einen Punkt. Farbe ist damit nicht das einzige Unterscheidungsmerkmal.
 
 „Filmdaten“ lässt sich nach der Antwort neben der Vertiefung öffnen. Der Abschnitt enthält Originaltitel, Erscheinungsjahr, Regie, Produktionsländer/-regionen und bekannte Reihenposition samt Abgrenzungen. Jahres- und Regiefragen gehören direkt zu ihren bisherigen Genres. Ihre fachlichen und technischen Regeln stehen unter [Filmwissen und Filmdaten](Filmwissen-und-Filmdaten.md).
+
+## Themenübersicht und Filmblöcke (27.09.2026)
+
+Die doppelten großen Genrekarten am Ende von Spielen entfallen. Genreauswahl, optionale Film-/Reihenauswahl und Stufenfortschritte zur Rundenvorbereitung bleiben vorhanden. Die vollständige Kartenübersicht liegt unter Themen.
+
+Jede Genre- und Kategorienkarte bietet zusätzlich „Filme & Reihen ansehen“. Der direkte Wechsel innerhalb von Themen zeigt nur zugehörige Film-/Reihenblöcke mit ihren vorhandenen Lernständen und führt über „Zur Themenübersicht“ zurück. Classics und Arthouse bleiben kuratierte Ansichten. Wissensziele werden innerhalb der gewählten Ansicht nach ID gezählt; bei gemischten Reihen zählen nur die dort passenden Fragen. „Thema spielen“ übernimmt Filmblock und Genre bzw. Kategorie in die Rundenauswahl; der bisher gewählte Spielmodus bleibt erhalten. Reines Stöbern verändert weder Lernstände noch gespeicherte Fragen oder Favoriten.
+
+Favoriten sind ausschließlich eine Merkliste: höchstens drei Film-/Reihenblöcke werden in der Sammlung nach oben sortiert. Sie ändern weder Fragenauswahl noch Wiederholungsplanung, Schwierigkeit, Lernfortschritt oder Punkte. Die bestehende Speicherung und Begrenzung bleiben erhalten; die Sammlung erklärt die Wirkung jetzt direkt beim Expertenalbum. Der Filter „Mit beantworteten Fragen“ gilt auch für Favoriten.

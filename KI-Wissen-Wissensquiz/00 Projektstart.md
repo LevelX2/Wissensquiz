@@ -70,3 +70,5 @@ Auf Nutzerauftrag direkt in den bisherigen Genres: 300 Jahresfragen und 287 zus�
 Nach Beantwortung neuer und bestehender Fragen: geschlossene Klappe „Filmdaten“ mit Originaltitel, erster Veröffentlichung, Regie, Produktionsländern/-regionen und bekannter Filmreihenposition. Quellen und Ausnahmen im [Fachvertrag](../docs/Filmwissen-und-Filmdaten.md). 300 Filmfassungen abgeglichen, 111 konkrete Reihenpositionen; keine unabhängige Vollprüfung aller Filmaussagen.
 
 Rundenfortschritt farbig und mit Symbolen: richtig grün/✓, falsch rot/×, Zeitablauf rot/–, offen grau. Aktuelle Frage mit deutlicher Umrandung und zusätzlichem Punkt, solange unbeantwortet. Beschriftungen für Screenreader; keine Änderung von Ereignissen oder Lernständen.
+
+Themen und Filmblöcke: Die doppelte große Genreübersicht am Ende von Spielen ist entfernt. Themenkarten öffnen über „Filme & Reihen ansehen“ eine passende Unteransicht mit Rückweg; eine Filmauswahl erhält Genre/Kategorie für die Runde. Favoriten bleiben bis zu drei angeheftete Film-/Reihenblöcke ausschließlich in der Sammlung; ihre Bedeutung wird dort erklärt. Keine Änderung an Lernregeln oder Spielständen.
