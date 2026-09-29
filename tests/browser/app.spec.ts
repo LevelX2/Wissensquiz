@@ -362,6 +362,8 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
                   r.filename !== "Western_Quiz_180_Fragen.csv") &&
                 (packageCount >= 5 ||
                   r.filename !== "Komoedie_Quiz_180_Fragen.csv") &&
+                (packageCount >= 5 ||
+                  r.filename !== "Komoedie_Ergaenzung_360_Fragen.csv") &&
                 (packageCount >= 4 ||
                   r.filename !== "Fantasy_Quiz_180_Fragen.csv") &&
                 (packageCount >= 3 ||
@@ -387,7 +389,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
-      page.getByText("3257 Fragen · 2837 Wissensziele · 0 Demo-Fragen"),
+      page.getByText("3717 Fragen · 3237 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
   });
 }
@@ -716,7 +718,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByText("3257 Fragen · 2837 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("3717 Fragen · 3237 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
@@ -883,7 +885,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Gültige Fragen importieren" })
     .click();
   await expect(
-    page.getByText("3269 Fragen · 2849 Wissensziele · 12 Demo-Fragen"),
+    page.getByText("3729 Fragen · 3249 Wissensziele · 12 Demo-Fragen"),
   ).toBeVisible();
   await expect(
     page.getByRole("button", {

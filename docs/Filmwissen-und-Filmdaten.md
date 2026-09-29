@@ -1,5 +1,7 @@
 # Jahresfragen, Regiefragen und Filmdaten
 
+Komödie-Erweiterung 29.09.2026: [50 zusätzliche Filme](Komoedie-Ergaenzung.md) ergeben 425 Filme, 425 Jahresfragen und 412 neue Regiefragen; 13 bestehende Regieziele bleiben erhalten. Neue Regievorlagen verwenden einen festen Pool von 425 Filmen. Die gelieferten Regie-Hintergründe sind nach der Antwort in den Filmdaten aufklappbar und vertiefen neue Regiefragen. „Clerks“ zeigt ein gemeinsames Figurenuniversum ohne nummerierte Teilposition. Frühere Fragevorlagen bleiben unverändert.
+
 Erweiterung 29.09.2026: [50 zusätzliche Sci-Fi-Filme](SciFi-Ergaenzung.md) ergeben 375 Filme, 375 Jahresfragen und 362 neue Regiefragen; 13 bestehende Regieziele bleiben erhalten. Neue Regievorlagen verwenden einen festen Pool von 375 Filmen. Die gelieferten Regie-Hintergründe sind nach der Antwort in den Filmdaten aufklappbar und vertiefen neue Regiefragen. Frühere Fragevorlagen bleiben unverändert.
 
 Stand: 26.09.2026. Die Ergänzung gehört zu den bestehenden Genres und Film-/Reihenthemen. Es gibt keine neue Auswahl „Filmwissen“.

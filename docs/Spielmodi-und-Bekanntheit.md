@@ -1,5 +1,7 @@
 # Spielmodi und Filmbekanntheit
 
+Komödie-Erweiterung 29.09.2026: [50 zusätzliche Komödien](Komoedie-Ergaenzung.md) ergeben 425 Filme mit Bekanntheitsverteilung 77/184/124/40. Bestehende Zuordnungen, feste Freischaltziele und erreichte Stufen unverändert. Die folgenden Angaben beschreiben frühere Einbindungsschritte.
+
 Erweiterung 29.09.2026: [50 zusätzliche Sci-Fi-Filme](SciFi-Ergaenzung.md) ergeben 375 Filme mit Bekanntheitsverteilung 72/152/112/39. Bestehende Zuordnungen, feste Freischaltziele und erreichte Stufen unverändert. Die folgenden Angaben beschreiben frühere Einbindungsschritte.
 
 Stand: 27.09.2026. Auf Nutzerauftrag umgesetzt. Ersetzt den vorherigen Entwurf und für neue Freischaltungen die pauschale 20-Ziele-Regel.

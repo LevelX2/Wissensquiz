@@ -39,7 +39,9 @@ export function FilmDataPanel({ q }: { q: Question }) {
           <dd>
             {data.series ? (
               <>
-                {data.series.name} · Teil {data.series.position}
+                {data.series.name}
+                {data.series.position != null &&
+                  ` · Teil ${data.series.position}`}
                 <small>{data.series.note}</small>
               </>
             ) : (

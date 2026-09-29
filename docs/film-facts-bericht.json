@@ -1,32 +1,32 @@
 {
   "checkedOn": "2026-09-29",
-  "films": 375,
-  "newYearQuestions": 375,
-  "newDirectorQuestions": 362,
+  "films": 425,
+  "newYearQuestions": 425,
+  "newDirectorQuestions": 412,
   "existingDirectorGoals": 13,
-  "totalQuestions": 3257,
-  "totalGoals": 2837,
+  "totalQuestions": 3717,
+  "totalGoals": 3237,
   "categories": {
     "Classics": {
-      "questions": 793,
-      "goals": 679
+      "questions": 929,
+      "goals": 799
     },
     "Arthouse": {
-      "questions": 452,
-      "goals": 397
+      "questions": 461,
+      "goals": 405
     }
   },
   "difficulties": {
     "year": {
       "leicht": 57,
-      "mittel": 225,
-      "schwer": 93
+      "mittel": 262,
+      "schwer": 106
     },
     "director": {
-      "leicht": 46,
-      "mittel": 199,
+      "leicht": 55,
+      "mittel": 240,
       "schwer": 117
     }
   },
-  "sourceNote": "300 bisherige Filmquellen abgeglichen; 25 Musikfilme und 50 neue Sci-Fi-Filme aus gelieferter Redaktion übernommen und strukturell geprüft. Keine unabhängige Vollprüfung der neuen Filmaussagen. Schwierigkeit redaktionell, nicht empirisch gemessen."
+  "sourceNote": "300 bisherige Filmquellen abgeglichen; 25 Musikfilme, 50 Sci-Fi-Filme und 50 Komödien aus gelieferter Redaktion übernommen und strukturell geprüft. Keine unabhängige Vollprüfung der neuen Filmaussagen. Schwierigkeit redaktionell, nicht empirisch gemessen."
 }

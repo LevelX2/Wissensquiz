@@ -11,7 +11,7 @@ Die gelieferten Dateien ergänzen 50 bisher nicht vorhandene Filmfassungen. Die 
 - 17 neue Classics-Filme und fünf Arthouse-Filme als zusätzliche Ansichten, ohne Fragekopien oder getrennte Lernstände.
 - Alle 50 Regie-Hintergründe übernommen: bei neuen Regiefragen als Vertiefung und nach jeder Antwort auf den jeweiligen Film unter **Filmdaten → Über die Regie**. Beide Klappen zunächst geschlossen; vor der Antwort keine Anzeige.
 
-Aktueller Gesamtbestand: **3.257 Fragen, 2.837 Wissensziele, 375 Filme, 328 Film-/Reihenthemen**. Darin 13 unveränderte CSV-Pakete mit 2.520 Fragen/2.100 Zielen/420 Varianten sowie 737 Jahres-/Regieziele. Sci-Fi: **768 Fragen, 672 Ziele, 103 Filme**. Classics: 793 Fragen/679 Ziele/86 Filme; Arthouse: 452/397/51. Überlappende Kategorien nicht addieren.
+Gesamtbestand nach dieser Ergänzung: **3.257 Fragen, 2.837 Wissensziele, 375 Filme, 328 Film-/Reihenthemen**. Darin 13 unveränderte CSV-Pakete mit 2.520 Fragen/2.100 Zielen/420 Varianten sowie 737 Jahres-/Regieziele. Sci-Fi: **768 Fragen, 672 Ziele, 103 Filme**. Classics: 793 Fragen/679 Ziele/86 Filme; Arthouse: 452/397/51. Überlappende Kategorien nicht addieren.
 
 ## Abgrenzungen und Fortschritt
 

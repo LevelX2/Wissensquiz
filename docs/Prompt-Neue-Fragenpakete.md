@@ -172,3 +172,8 @@ Quellen: [Importvertrag](Importformat.md), [Filmwissen und Filmdaten](Filmwissen
 ## Bestandsnachtrag 29.09.2026
 
 Sci-Fi wurde um 50 Filme ergänzt und umfasst jetzt 103 Filme/768 Fragen. Gesamt: 375 Filme/3.257 Fragen. Der datierte Bestands-Snapshot bleibt erhalten. Nächste Mengenprioritäten weiterhin Abenteuer und Thriller; neue Filmvorschläge gegen den aktuellen Katalog prüfen. [Sci-Fi-Import](SciFi-Ergaenzung.md).
+
+
+## Bestandsnachtrag 29.09.2026 – Komödie
+
+Komödie wurde um 50 Filme ergänzt und umfasst jetzt 79 Filme/725 Fragen. Gesamt: 425 Filme/3.717 Fragen. Der datierte Bestands-Snapshot bleibt erhalten. Nächste Mengenprioritäten weiterhin Abenteuer und Thriller; neue Filmvorschläge gegen den aktuellen Katalog prüfen. [Komödie-Import](Komoedie-Ergaenzung.md).

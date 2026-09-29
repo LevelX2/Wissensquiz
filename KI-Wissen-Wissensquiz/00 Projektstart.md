@@ -2,14 +2,14 @@
 
 ## Aktueller Stand
 
-Sci-Fi-Ergänzung vom 29.09.2026: aktueller Gesamtbestand **3.257 Fragen, 2.837 Ziele, 375 Filme, 328 Film-/Reihenthemen**. 13 CSV-Pakete mit 2.520 Einträgen und 2.100 Zielen; zusätzlich 737 Jahres-/Regieziele. Sci-Fi jetzt 768 Fragen/672 Ziele/103 Filme, Musik weiterhin 238/208/26. Neue Filmdaten, Bekanntheit und Regie-Hintergründe eingebunden, alle bisherigen Fragen und Freischaltungen erhalten. Details und Quellenstatus unter [Sci-Fi-Ergänzung](../docs/SciFi-Ergaenzung.md). Ältere Zahlen weiter unten gehören zu den damaligen Umsetzungsschritten.
+Komödie-Ergänzung vom 29.09.2026: aktueller Gesamtbestand **3.717 Fragen, 3.237 Ziele, 425 Filme, 378 Film-/Reihenthemen**. 14 CSV-Pakete mit 2.880 Einträgen und 2.400 Zielen; zusätzlich 837 Jahres-/Regieziele. Komödie jetzt 725 Fragen/632 Ziele/79 Filme. Neue Filmdaten und Bekanntheit eingebunden, alle bisherigen Fragen und Freischaltungen erhalten. Details und Quellenstatus unter [Komödie-Ergänzung](../docs/Komoedie-Ergaenzung.md). Ältere Zahlen weiter unten gehören zu den damaligen Umsetzungsschritten.
 
 - Spielbare deutsche React-/TypeScript-Testversion mit Filmreise, Freiem Spiel und Rekordrunde umgesetzt.
 - Filmgenres als Mehrfachauswahl; manuelle Schwierigkeitsstufen nur bei freier Auswahl; ohne Auswahl einzelner Filme/Reihen. Alte Runden und Spielstände bleiben erhalten.
 - Genre und Schwierigkeit jeder Frage sichtbar, unabhängig abschaltbar und gespeichert. Die bisherigen 720 Vertiefungen auf Darstellernamen geprüft; 627 Ergänzungen zu 125 Filmen, mit Quellen und versionsgenauer Zuordnung. Rohfragen und Spielstände erhalten.
 - Persönliche Bestenliste aller abgeschlossenen Rekordspiele, filterbar nach Genre-Kombination, Stufen und Rundengröße; vergleichbare Kategorien getrennt, Spiele mit Rückblick. Persönliche Liste offline; automatische gemeinsame Trainingsrangliste für bestätigte Konten implementiert. Profil mit Spiel-/Antwortstatistik, Trefferquote, Level und XP.
 - Kurze abschaltbare Soundeffekte, optionale Vibration, Genre-Icons und deutlicher gesperrter/erworbener Zustand des vorhandenen Sci-Fi-Abzeichens. Weitere Genre-Abzeichen noch offen.
-- 2.520 gelieferte Fragen aus 13 Paketen, 2.100 Wissensziele und 420 Varianten; 328 Film-/Reihenthemen und zwölf Genres. Einschließlich Jahres-/Regieergänzungen Classics: 793 Fragen/679 Ziele/86 Filme; Arthouse: 452/397/51. Alle 258 Classics- und 126 Arthouse-Bestandsreferenzen passend aufgelöst; neue Musik-Tags aus der Quelle. Sämtliche Datensätze strukturell akzeptiert.
+- 2.880 gelieferte Fragen aus 14 Paketen, 2.400 Wissensziele und 480 Varianten; 378 Film-/Reihenthemen und zwölf Genres. Einschließlich Jahres-/Regieergänzungen Classics: 929 Fragen/799 Ziele/101 Filme; Arthouse: 461/405/52. Alle 258 Classics- und 126 Arthouse-Bestandsreferenzen passend aufgelöst; neue Musik-Tags aus der Quelle. Sämtliche Datensätze strukturell akzeptiert.
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
 - Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
 - Lokales Git ohne Remote; Integrationsbranch `main`.
@@ -18,7 +18,7 @@ Sci-Fi-Ergänzung vom 29.09.2026: aktueller Gesamtbestand **3.257 Fragen, 2.837 
 
 ## Offen
 
-- Filmreise, Freies Spiel und freie Rekordauswahl mit vier Bekanntheitsgruppen umgesetzt. 375 Filme redaktionell eingeordnet; feste erreichbare Ziele je Genre, erworbene Freischaltungen und Altstände erhalten. Einteilung anhand Nutzerfeedback weiter prüfen. [Fachvertrag](../docs/Spielmodi-und-Bekanntheit.md).
+- Filmreise, Freies Spiel und freie Rekordauswahl mit vier Bekanntheitsgruppen umgesetzt. 425 Filme redaktionell eingeordnet; feste erreichbare Ziele je Genre, erworbene Freischaltungen und Altstände erhalten. Einteilung anhand Nutzerfeedback weiter prüfen. [Fachvertrag](../docs/Spielmodi-und-Bekanntheit.md).
 - Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
 - Öffentliche Sites-Adresse ohne ChatGPT-Zugangsschranke verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
 - Aktuelle Veröffentlichung: Sites-Version 31, App-Commit `642a8e9`, Status `succeeded`: Sci-Fi-Ergänzung mit 360 gelieferten Fragen, 50 Filmen und 100 Jahres-/Regiezielen. 136 Logik-/Datenbanktests, Build und alle 65 Browserfälle erfolgreich. Nachweis unter docs/Sites-Betrieb.md. Physische Geräte-/Hörabnahme und Feedback zur redaktionellen Einordnung offen.
