@@ -15,7 +15,7 @@ Regievertiefungen vom 29.09.2026: 312 ältere generierte Regiefragen haben statt
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
 - Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
 - Lokales Git ohne Remote; Integrationsbranch `main`.
-- Aktuelle Umsetzung auf Arbeitsbranch `codex/spielbare-testversion`; `main` enthält noch den initialen Projektstand.
+- Getestete Umsetzung auf `codex/spielbare-testversion`; nach Freigabe des Nutzers lokal in `main` integriert. Kein GitHub-Remote eingerichtet.
 - Codex-Projektregistrierung noch offen; Ordner in der App hinzufügen.
 
 ## Offen
@@ -23,7 +23,7 @@ Regievertiefungen vom 29.09.2026: 312 ältere generierte Regiefragen haben statt
 - Filmreise, Freies Spiel und freie Rekordauswahl mit vier Bekanntheitsgruppen umgesetzt. 425 Filme redaktionell eingeordnet; feste erreichbare Ziele je Genre, erworbene Freischaltungen und Altstände erhalten. Einteilung anhand Nutzerfeedback weiter prüfen. [Fachvertrag](../docs/Spielmodi-und-Bekanntheit.md).
 - Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
 - Öffentliche Sites-Adresse ohne ChatGPT-Zugangsschranke verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
-- Aktuelle Veröffentlichung: Sites-Version 32, App-Commit `b30bb52`, Status `succeeded`: Komödie-Ergänzung mit 360 gelieferten Fragen, 50 Filmen und 100 Jahres-/Regiezielen. 141 Logik-/Datenbanktests, Build und alle 66 unterschiedlichen Browserfälle erfolgreich. Nachweis unter docs/Sites-Betrieb.md. Physische Geräte-/Hörabnahme und Feedback zur redaktionellen Einordnung offen.
+- Aktuelle Veröffentlichung: Sites-Version 33, App-Commit `deb4c0c`, Status `succeeded`: Komödie-Ergänzung mit 360 gelieferten Fragen, 50 Filmen und 100 Jahres-/Regiezielen sowie 312 individuelle ältere Regievertiefungen. 142 Logik-/Datenbanktests, Build und alle 66 Browserfälle erfolgreich. Nachweis unter docs/Sites-Betrieb.md. Physische Geräte-/Hörabnahme und Feedback zur redaktionellen Einordnung offen.
 - Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
 - Eigene Konten mit Supabase Free/Frankfurt, Brevo SMTP und deutschen Mailvorlagen aktiv. Bestätigungsmail zugestellt und Kontoaktivierung verifiziert. Nach zunächst abgelehntem Smartphone-Login hat der Nutzer erfolgreichen Passwort-Reset und Anmeldung am Handy bestätigt. Reale Zwei-Konten-/Geräte-Spielstandsabnahme noch offen. Passwortfelder mit Auge zum Anzeigen/Verbergen. Automatische Kontosicherung mit Revisionsschutz umgesetzt; Gaststand bleibt auf diesem Gerät und wird nur ausdrücklich übernommen. Gemeinsame Trainingsrangliste mit automatischer Teilnahme bestätigter Konten umgesetzt; serverseitig kontrollierter Wettbewerb und echte Zwei-Spieler-Abnahme offen. Öffentlicher Site-Zugang ohne ChatGPT-Schranke eingerichtet und durch anonymen Live-Abruf nachgewiesen; Details unter docs/Sites-Betrieb.md.
 

@@ -311,3 +311,7 @@ Veröffentlicht als öffentliche Sites-Version 32, App-Commit `b30bb52`, Deploym
 ## 29.09.2026 – Regievertiefungen überarbeitet
 
 312 ältere automatisch erzeugte Regiefragen erhalten individuelle Informationen zu den Regisseuren mit verlinkten Biografien. Bei mehrfach vertretenen Personen unterscheiden sich die Filmbezüge und Karriereangaben. Die 13 bestehenden CSV-Regiefragen und 50 Sci-Fi-Hintergründe bleiben erhalten. Die Anzeige ergänzt auch historische Runden lesend; Frageversionen, Lernziele und Spielerstände werden nicht migriert. 137 Logik-/Datenbanktests und Produktions-Build erfolgreich. Von 65 Browserfällen zunächst 64 bestanden; ein durch die neue Unterklappe mehrdeutiger Testselektor wurde korrigiert und der Fall mit den vier Filmfragenprüfungen erneut erfolgreich ausgeführt. Alle 65 unterschiedlichen Fälle damit erfolgreich nachgewiesen. Zum damaligen Bearbeitungsstand nicht veröffentlicht.
+
+## 29.09.2026 – Gemeinsamer Stand veröffentlicht und lokal integriert
+
+Regievertiefungen mit der bereits live veröffentlichten Komödie-Ergänzung zusammengeführt. Alle 142 Logik-/Datenbanktests, Produktions-Build und 66 Browserfälle im gemeinsamen Stand erfolgreich; Diff-Prüfung ohne Befund. Öffentlich als Sites-Version 33 mit App-Commit `deb4c0c` und Deployment `appgdep_6abc22b1d5e081918a71b8ca21f2b649` (`succeeded`) veröffentlicht. Bestehende Projekt-ID, URL und öffentliche Zugriffsart erhalten. Nutzer hat lokale Integration in `main` beauftragt; kein GitHub-Remote und kein Push dorthin.
