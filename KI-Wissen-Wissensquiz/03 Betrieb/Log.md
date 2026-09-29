@@ -299,3 +299,5 @@ Veröffentlicht als Sites-Version 30, App-Commit `5dc6c655f52e56ebd0cfb809c2ee7e
 ## 29.09.2026 – Sci-Fi-Ergänzung
 
 360 gelieferte Fragen zu 50 zusätzlichen Filmen integriert, 300 Ziele/60 Varianten. Unveränderte Rohquellen, 50 Filmdatensätze FF-326 bis FF-375, Bekanntheit und Classics-/Arthouse-Tags übernommen; 100 Jahres-/Regiefragen ergänzt. Regie-Hintergründe nach Antwort unter Filmdaten aufklappbar. Gesamt 3.257 Fragen/2.837 Ziele/375 Filme/328 Themen. Alle 2.797 alten Fragevorlagen per Inhalts-Hash erhalten; feste Lernziele, Freischaltungen, Ereignisse und aktive Runden unverändert. 136 Logik-/Datenbanktests, Build und alle 65 Browserfälle erfolgreich (63 Chromium, zwei WebKit), mobile Ansicht und Offline-Fortsetzen geprüft. Quellenstatus: strukturelle Prüfung, keine unabhängige Vollprüfung der Filmaussagen. Keine Supabase-Schemaänderung.
+
+Veröffentlicht als öffentliche Sites-Version 31, App-Commit `642a8e9`, Deployment `appgdep_6abbea54b1088191ae8e6ce11f852951`, Status `succeeded`. Bestehende Projekt-ID und Live-Adresse erhalten. Native Browserübergabe erfolgt; kein zusätzlicher Live-Test mit Nutzerdaten.
