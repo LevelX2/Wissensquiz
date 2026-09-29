@@ -9,8 +9,10 @@ import {
   questionSnapshotMatches,
   yearChoices,
   filmData,
+  directorExplanation,
 } from "../src/filmFacts";
 import facts from "../src/filmFacts.json";
+import directorContexts from "../src/directorContexts.json";
 import {
   applyCategoryTags,
   categories,
@@ -58,6 +60,29 @@ it("liefert Filmdaten auch für alte Fragen, unterscheidet Episoden und Reboots 
   const unknown = structuredClone(originals[0]);
   unknown.metadata.film_year = "9999";
   expect(filmData(unknown)).toBeUndefined();
+});
+
+it("zeigt individuelle Regiehintergründe für die 312 älteren Vorlagen ohne historische Fragen zu verändern", () => {
+  const older = facts.slice(0, 325).filter((f) => !f.existingDirectorId);
+  expect(older).toHaveLength(312);
+  expect(Object.keys(directorContexts)).toHaveLength(312);
+  const texts = older.map((f) => {
+    const q = extra.find((candidate) => candidate.id === `${f.id}-DIRECTOR`)!;
+    const unchanged = structuredClone(q);
+    const background = directorExplanation(q)!;
+    expect(q.context).not.toContain(background.text);
+    expect(background.text.length).toBeGreaterThan(60);
+    expect(background.sources.length).toBeGreaterThan(0);
+    expect(filmData(q)?.directorContext).toBe(background.text);
+    expect(q).toEqual(unchanged);
+    return background.text;
+  });
+  expect(new Set(texts).size).toBe(texts.length);
+  const newer = extra.find((q) => q.id === "FF-326-DIRECTOR")!;
+  expect(directorExplanation(newer)).toBeUndefined();
+  expect(filmData(newer)?.directorContext).toBe(facts[325].directorContext);
+  const existing = originals.find((q) => q.id === facts[8].existingDirectorId)!;
+  expect(directorExplanation(existing)).toBeUndefined();
 });
 
 it("ergänzt jedes der 375 Filmwerke um Jahr und fehlende Regie, ohne bestehende Ziele zu duplizieren", () => {

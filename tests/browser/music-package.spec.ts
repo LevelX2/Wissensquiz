@@ -61,7 +61,7 @@ test("Musik startet mit neuen Film-Ikonen; Filmdaten und Paket bleiben offline e
   expect(q.id.startsWith("MUS-")).toBe(true);
   const correct = q.answers.find((a: any) => a.id === q.correctId).text;
   await page.locator(".answer").filter({ hasText: correct }).click();
-  await page.locator(".film-data summary").click();
+  await page.locator(".film-data > summary").click();
   await expect(page.locator(".film-data")).toContainText("1 · Film-Ikonen");
   await expect(page.locator(".film-data")).toContainText("Regie");
   await expect(page.locator(".film-data")).toContainText(
@@ -71,7 +71,7 @@ test("Musik startet mit neuen Film-Ikonen; Filmdaten und Paket bleiben offline e
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".explanation")).toBeVisible();
-  await page.locator(".film-data summary").click();
+  await page.locator(".film-data > summary").click();
   await expect(page.locator(".film-data")).toContainText(
     q.metadata.film_title_original,
   );

@@ -90,9 +90,17 @@ for (const kind of ["year", "director", "original"] as const) {
     const correct = snapshot.answers.find((a) => a.id === snapshot.correctId)!;
     await page.locator(".answer").filter({ hasText: correct.text }).click();
     await expect(page.locator(".feedback")).toBeVisible();
+    if (kind === "director") {
+      await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
+      await expect(page.locator(".explanation")).toContainText("Predator");
+      await expect(page.locator(".explanation")).not.toContainText(
+        "Gefragt ist die Regie dieses Films",
+      );
+      await expect(page.getByRole("link", { name: /Regiequelle:/ })).toBeVisible();
+    }
     const film = page.locator(".film-data");
     await expect(film).not.toHaveAttribute("open", "");
-    await film.locator("summary").click();
+    await film.locator(":scope > summary").click();
     await expect(film).toContainText(snapshot.metadata.film_title_original);
     await expect(film).toContainText(snapshot.metadata.film_year);
     await expect(film).toContainText("USA");
@@ -103,7 +111,7 @@ for (const kind of ["year", "director", "original"] as const) {
     if (kind === "original")
       await expect(film).toContainText("2. Film mit der Next-Generation-Crew");
     await film.screenshot({ path: `test-results/filmdaten-${kind}-320.png` });
-    await film.locator("summary").click();
+    await film.locator(":scope > summary").click();
     await expect(page.locator(".question-history")).toContainText("1 richtig");
     await expect(
       page.getByRole("button", { name: "Runde abschließen" }),

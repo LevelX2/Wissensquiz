@@ -1,5 +1,7 @@
 # Jahresfragen, Regiefragen und Filmdaten
 
+Redaktionelle Überarbeitung 29.09.2026: Die 312 älteren automatisch erzeugten Regiefragen mit allgemeinem Vertiefungssatz erhalten individuelle Hintergründe zu den Regisseuren. Sie nennen je nach Film andere Regiearbeiten, berufliche Wege, Zusammenarbeit oder biografische Eckdaten. Bei mehrfach vertretenen Regisseuren unterscheiden sich die Texte. Die Hintergründe mit verlinkten Regiequellen liegen in `src/directorContexts.json` und erscheinen nach der Antwort sowohl unter „Etwas tiefer eintauchen“ als auch unter „Filmdaten → Über die Regie“. Die 13 bereits vorhandenen CSV-Regiefragen und die 50 jüngsten Sci-Fi-Hintergründe behalten ihre Texte. Gespeicherte Frage- und Rundensnapshots, Versionen, Lernziele und Fortschritte werden nicht umgeschrieben; die neue Vertiefung wird beim Anzeigen aufgelöst. Die Angaben sind redaktionell anhand der verlinkten Biografien und Filmreferenzen geprüft; daraus folgt keine Vollprüfung sämtlicher Filmaussagen.
+
 Erweiterung 29.09.2026: [50 zusätzliche Sci-Fi-Filme](SciFi-Ergaenzung.md) ergeben 375 Filme, 375 Jahresfragen und 362 neue Regiefragen; 13 bestehende Regieziele bleiben erhalten. Neue Regievorlagen verwenden einen festen Pool von 375 Filmen. Die gelieferten Regie-Hintergründe sind nach der Antwort in den Filmdaten aufklappbar und vertiefen neue Regiefragen. Frühere Fragevorlagen bleiben unverändert.
 
 Stand: 26.09.2026. Die Ergänzung gehört zu den bestehenden Genres und Film-/Reihenthemen. Es gibt keine neue Auswahl „Filmwissen“.

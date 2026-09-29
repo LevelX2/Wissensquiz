@@ -4,6 +4,8 @@
 
 Sci-Fi-Ergänzung vom 29.09.2026: aktueller Gesamtbestand **3.257 Fragen, 2.837 Ziele, 375 Filme, 328 Film-/Reihenthemen**. 13 CSV-Pakete mit 2.520 Einträgen und 2.100 Zielen; zusätzlich 737 Jahres-/Regieziele. Sci-Fi jetzt 768 Fragen/672 Ziele/103 Filme, Musik weiterhin 238/208/26. Neue Filmdaten, Bekanntheit und Regie-Hintergründe eingebunden, alle bisherigen Fragen und Freischaltungen erhalten. Details und Quellenstatus unter [Sci-Fi-Ergänzung](../docs/SciFi-Ergaenzung.md). Ältere Zahlen weiter unten gehören zu den damaligen Umsetzungsschritten.
 
+Regievertiefungen vom 29.09.2026: 312 ältere generierte Regiefragen haben statt des allgemeinen Standardsatzes individuelle Regisseurinformationen mit Quellen. Bestehende CSV-Regiefragen und die 50 neuen Sci-Fi-Texte bleiben erhalten; frühere Rundensnapshots und Lernstände ändern sich nicht. [Fachstand](../docs/Filmwissen-und-Filmdaten.md).
+
 - Spielbare deutsche React-/TypeScript-Testversion mit Filmreise, Freiem Spiel und Rekordrunde umgesetzt.
 - Filmgenres als Mehrfachauswahl; manuelle Schwierigkeitsstufen nur bei freier Auswahl; ohne Auswahl einzelner Filme/Reihen. Alte Runden und Spielstände bleiben erhalten.
 - Genre und Schwierigkeit jeder Frage sichtbar, unabhängig abschaltbar und gespeichert. Die bisherigen 720 Vertiefungen auf Darstellernamen geprüft; 627 Ergänzungen zu 125 Filmen, mit Quellen und versionsgenauer Zuordnung. Rohfragen und Spielstände erhalten.

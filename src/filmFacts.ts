@@ -1,10 +1,13 @@
 import facts from "./filmFacts.json" with { type: "json" };
+import directorContexts from "./directorContexts.json" with { type: "json" };
 import type { Difficulty, Question } from "./model";
 import { fingerprint } from "./importer";
 import { categories, isCategory, withCategoryTags } from "./categories";
 import { normalizeGenre } from "./filters";
 
 type FilmFact = (typeof facts)[number];
+const directorBackgrounds: Record<string, { text: string; sources: string[] }> =
+  directorContexts;
 const byId = new Map(facts.map((f) => [f.id, f]));
 const names = (people: string[]) =>
   people.length < 2
@@ -18,6 +21,7 @@ const byFilm = new Map(facts.map((f) => [f.film, f]));
 export function filmData(q: Question) {
   const f = byFilm.get(filmKey(q));
   if (!f) return undefined;
+  const background = directorBackgrounds[f.id];
   return {
     originalTitle: q.metadata.film_title_original,
     year: f.year,
@@ -26,9 +30,19 @@ export function filmData(q: Question) {
     series: f.series,
     releaseNote: f.releaseNote,
     directorNote: f.directorNote,
-    directorContext: f.directorContext,
+    directorContext: background?.text ?? f.directorContext,
+    directorSources: background?.sources ?? [],
     sources: [...new Set([f.source, ...(f.additionalSources ?? [])])],
   };
+}
+
+// Historical rounds keep their original question snapshot and version. The
+// editorial text is resolved only for display after the answer.
+export function directorExplanation(q: Question) {
+  if (q.metadata.fact_kind !== "director") return undefined;
+  const f = byFilm.get(filmKey(q));
+  if (!f || q.id !== `${f.id}-DIRECTOR`) return undefined;
+  return directorBackgrounds[f.id];
 }
 
 function mix<T>(items: T[], random = Math.random) {

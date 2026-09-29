@@ -56,6 +56,11 @@ export function FilmDataPanel({ q }: { q: Question }) {
         <details className="film-director-context">
           <summary>Über die Regie</summary>
           <p>{data.directorContext}</p>
+          {data.directorSources.map((source) => (
+            <a key={source} href={source} target="_blank" rel="noreferrer">
+              Regiequelle: {new URL(source).hostname} ↗
+            </a>
+          ))}
         </details>
       )}
       <div className="film-data-sources">

@@ -64,6 +64,7 @@ import {
   type PathUnlock,
 } from "./learningPath";
 import { filmDetails } from "./filmDetails";
+import { directorExplanation } from "./filmFacts";
 import { FilmDataPanel } from "./FilmDataPanel";
 import { SyncIndicator, SyncSymbol, type SyncDisplay } from "./SyncIndicator";
 import { questionTitleParts } from "./questionTitle";
@@ -1206,6 +1207,8 @@ export function App({
 function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
   const film = filmDetails(q);
+  const director = directorExplanation(q);
+  const deepContext = director?.text ?? q.context;
   return (
     <div className="explanation">
       <span className="eyebrow">DIE IDEE DAHINTER</span>
@@ -1215,10 +1218,19 @@ function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
           Zu Deiner Antwort: {selected.feedback}
         </p>
       )}
-      {(q.context || film) && (
+      {(deepContext || film) && (
         <details>
           <summary>Etwas tiefer eintauchen</summary>
-          {q.context && <p>{q.context}</p>}
+          {deepContext && <p>{deepContext}</p>}
+          {director && (
+            <p className="cast-sources">
+              {director.sources.map((source) => (
+                <a key={source} href={source} target="_blank" rel="noreferrer">
+                  Regiequelle: {new URL(source).hostname} ↗
+                </a>
+              ))}
+            </p>
+          )}
           {film && (
             <div>
               <p className="cast-context">{film.text}</p>
