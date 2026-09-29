@@ -2,7 +2,7 @@
 
 Spielbare deutsche React-/TypeScript-App für kurze Filmquizrunden mit dauerhaftem Lernfortschritt im Browser. Kein Konto, Backend oder KI-Dienst erforderlich.
 
-Aktueller Inhalt nach der [Musik-Ergänzung](docs/Musik-Ergaenzung.md), 27.09.2026: **2.797 Fragen, 2.437 Wissensziele und 325 Filme**. Musik umfasst jetzt 238 Fragen zu 26 Filmen. Zwölf unveränderte CSV-Pakete, Filmdaten und vier Bekanntheitsgruppen; vorhandene Fortschritte und Freischaltungen bleiben erhalten. Paketabschnitte weiter unten dokumentieren die historischen Importstände.
+Aktueller Inhalt nach der [Sci-Fi-Ergänzung](docs/SciFi-Ergaenzung.md), 29.09.2026: **3.257 Fragen, 2.837 Wissensziele und 375 Filme**. Sci-Fi umfasst jetzt 768 Fragen zu 103 Filmen; Musik weiterhin 238 Fragen zu 26 Filmen. 13 unveränderte CSV-Pakete, Filmdaten und vier Bekanntheitsgruppen; vorhandene Fortschritte und Freischaltungen bleiben erhalten. Paketabschnitte weiter unten dokumentieren die historischen Importstände.
 
 ## Starten
 

@@ -75,7 +75,7 @@ it("ändert keine der 2.567 bestehenden Fragen oder Antwortvorlagen durch die Er
   const oldQuestions = structuredClone(old.questions);
   addPackages(old, contents);
   addPackages(old, contents);
-  expect(old.questions).toHaveLength(2797);
+  expect(old.questions).toHaveLength(3257);
   expect(old.questions.slice(0, oldQuestions.length)).toEqual(oldQuestions);
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
 });

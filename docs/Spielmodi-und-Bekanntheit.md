@@ -1,5 +1,7 @@
 # Spielmodi und Filmbekanntheit
 
+Erweiterung 29.09.2026: [50 zusätzliche Sci-Fi-Filme](SciFi-Ergaenzung.md) ergeben 375 Filme mit Bekanntheitsverteilung 72/152/112/39. Bestehende Zuordnungen, feste Freischaltziele und erreichte Stufen unverändert. Die folgenden Angaben beschreiben frühere Einbindungsschritte.
+
 Stand: 27.09.2026. Auf Nutzerauftrag umgesetzt. Ersetzt den vorherigen Entwurf und für neue Freischaltungen die pauschale 20-Ziele-Regel.
 
 Musik-Erweiterung am selben Tag: 325 Filme, Bekanntheitsgruppen insgesamt 69/126/92/38. [Musik](Musik-Ergaenzung.md) beginnt für neue Spieler jetzt in Gruppe 1; bestehender Gruppe-2-Zugang wird vor der Paketergänzung erhalten. Nur die zuvor fehlenden Musik-Gruppen 1/3/4 erhalten neue feste Ziele. Die ursprünglichen Schwierigkeitsgrenzen und Gruppe-2-Zielmenge bleiben unverändert. Zahlen mit 300 Filmen unten dokumentieren die ursprüngliche Einordnung.

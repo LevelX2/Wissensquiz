@@ -1,5 +1,7 @@
 # Jahresfragen, Regiefragen und Filmdaten
 
+Erweiterung 29.09.2026: [50 zusätzliche Sci-Fi-Filme](SciFi-Ergaenzung.md) ergeben 375 Filme, 375 Jahresfragen und 362 neue Regiefragen; 13 bestehende Regieziele bleiben erhalten. Neue Regievorlagen verwenden einen festen Pool von 375 Filmen. Die gelieferten Regie-Hintergründe sind nach der Antwort in den Filmdaten aufklappbar und vertiefen neue Regiefragen. Frühere Fragevorlagen bleiben unverändert.
+
 Stand: 26.09.2026. Die Ergänzung gehört zu den bestehenden Genres und Film-/Reihenthemen. Es gibt keine neue Auswahl „Filmwissen“.
 
 Erweiterung 27.09.2026: [25 Musikfilme](Musik-Ergaenzung.md) ergänzen den Katalog auf 325 Filme, 325 Jahresfragen und 312 neue Regiefragen. Die 13 bereits vorhandenen Regieziele bleiben erhalten. Bestehende generierte Vorlagen verwenden weiterhin den ursprünglichen Alternativenpool mit 300 Filmen; neue Vorlagen pinnen den Pool auf 325. Neue Musikangaben stammen aus dem gelieferten Redaktionspaket, ohne unabhängige Vollprüfung. Die Zahlen der folgenden Abschnitte beschreiben den Initialstand.

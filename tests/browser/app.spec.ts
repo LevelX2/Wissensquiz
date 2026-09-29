@@ -387,7 +387,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
-      page.getByText("2797 Fragen · 2437 Wissensziele · 0 Demo-Fragen"),
+      page.getByText("3257 Fragen · 2837 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
   });
 }
@@ -716,7 +716,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByText("2797 Fragen · 2437 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("3257 Fragen · 2837 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
@@ -883,7 +883,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Gültige Fragen importieren" })
     .click();
   await expect(
-    page.getByText("2809 Fragen · 2449 Wissensziele · 12 Demo-Fragen"),
+    page.getByText("3269 Fragen · 2849 Wissensziele · 12 Demo-Fragen"),
   ).toBeVisible();
   await expect(
     page.getByRole("button", {

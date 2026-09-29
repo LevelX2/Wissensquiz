@@ -52,6 +52,12 @@ export function FilmDataPanel({ q }: { q: Question }) {
       {data.directorNote && (
         <p className="film-data-note">{data.directorNote}</p>
       )}
+      {data.directorContext && (
+        <details className="film-director-context">
+          <summary>Über die Regie</summary>
+          <p>{data.directorContext}</p>
+        </details>
+      )}
       <div className="film-data-sources">
         {data.sources.map((source) => (
           <a key={source} href={source} target="_blank" rel="noreferrer">

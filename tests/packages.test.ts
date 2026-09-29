@@ -60,6 +60,13 @@ it.each([
     path: name.toLowerCase(),
   })),
   {
+    name: "SciFi-Ergänzung",
+    imported: allImported[12],
+    previous: allImported.slice(0, 12).flatMap((p) => p.questions),
+    path: "scifi-ergaenzung",
+    size: 360,
+  },
+  {
     name: "Classics",
     imported: classics,
     previous: beforeClassics,
@@ -87,17 +94,18 @@ it.each([
   },
 ])(
   "importiert $name vollständig ohne Konflikte und erhält Lösungen, Feedback und Varianten",
-  ({ name, imported, previous, path }) => {
-    expect(imported.report.accepted).toBe(180);
+  ({ imported, previous, path, ...options }) => {
+    const size = "size" in options ? options.size : 180;
+    expect(imported.report.accepted).toBe(size);
     expect(imported.report.rejected).toBe(0);
     expect(imported.report.duplicates).toBe(0);
     expect(imported.report.warnings).toEqual([]);
     expect(new Set(imported.questions.map((q) => q.knowledgeId)).size).toBe(
-      150,
+      (size * 5) / 6,
     );
     expect(
       imported.questions.filter((q) => q.metadata.variant_of),
-    ).toHaveLength(30);
+    ).toHaveLength(size / 6);
     expect(readFileSync(`public/${path}-fragen.csv`)).toEqual(
       readFileSync(
         `KI-Wissen-Wissensquiz/01 Rohquellen/${imported.report.filename}`,
@@ -183,7 +191,7 @@ it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedbac
   );
 });
 
-it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11])(
+it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])(
   "ergänzt neue Pakete bei %i vorhandenen Paketen transaktional ohne Fortschrittsverlust",
   async (packageCount) => {
     const previousPackages = allImported.slice(0, packageCount);
@@ -224,9 +232,9 @@ it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11])(
       update((s) => addPackages(s, contents)),
     ]);
     const saved = (await read())!;
-    expect(saved.questions).toHaveLength(2797);
-    expect(saved.imports).toHaveLength(12);
-    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(2437);
+    expect(saved.questions).toHaveLength(3257);
+    expect(saved.imports).toHaveLength(13);
+    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(2837);
     expect(saved.questions.slice(0, previousQuestions.length)).toEqual(
       previousQuestions.map(withCategoryTags),
     );

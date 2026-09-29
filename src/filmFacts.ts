@@ -26,6 +26,7 @@ export function filmData(q: Question) {
     series: f.series,
     releaseNote: f.releaseNote,
     directorNote: f.directorNote,
+    directorContext: f.directorContext,
     sources: [...new Set([f.source, ...(f.additionalSources ?? [])])],
   };
 }
@@ -212,7 +213,7 @@ export function addFilmFacts(questions: Question[]) {
         context:
           kind === "year"
             ? `${f.releaseNote || "Gemeint ist die erste Veröffentlichung, einschließlich einer Premiere oder Festivalaufführung, nicht ein späterer deutscher Kinostart."} Originaltitel: ${ref.metadata.film_title_original}. Regie: ${directors}.`
-            : `${f.directorNote || (f.directors.length > 1 ? "Die richtige Antwort umfasst das gesamte genannte Regieteam." : "Gefragt ist die Regie dieses Films, nicht Drehbuch, Produktion oder die Regie einer anderen Folge.")} Originaltitel: ${ref.metadata.film_title_original}. Erste Veröffentlichung: ${f.year}.`,
+            : `${f.directorContext ? f.directorContext + " " : ""}${f.directorNote || (f.directors.length > 1 ? "Die richtige Antwort umfasst das gesamte genannte Regieteam." : "Gefragt ist die Regie dieses Films, nicht Drehbuch, Produktion oder die Regie einer anderen Folge.")} Originaltitel: ${ref.metadata.film_title_original}. Erste Veröffentlichung: ${f.year}.`,
         anchor:
           kind === "year"
             ? `${f.title} → ${f.year}`

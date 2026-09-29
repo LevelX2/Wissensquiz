@@ -1,5 +1,7 @@
 # Qualitätsprüfung
 
+Aktueller Nachweis 29.09.2026: 136 Logik-/Datenbanktests, Build und alle 65 Browserfälle erfolgreich. Sci-Fi-Upgrade erhält 2.797 alte Fragen, Fortschritt und Freischaltungen; 50 neue Filmreferenzen, Offlinepaket und Regie-Hintergrund geprüft. Details: [Prüfbericht](../../docs/Pruefbericht.md).
+
 ## Prüfungen der Projektgrundstruktur
 
 - Mindeststruktur und relative Markdown-Verweise prüfen.

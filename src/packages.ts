@@ -20,6 +20,10 @@ export const packages = [
   { path: "/romcom-fragen.csv", filename: "RomCom_Quiz_180_Fragen.csv" },
   { path: "/arthouse-fragen.csv", filename: "Arthouse_Quiz_180_Fragen.csv" },
   { path: "/musik-fragen.csv", filename: "Musik_Ergaenzung_180_Fragen.csv" },
+  {
+    path: "/scifi-ergaenzung-fragen.csv",
+    filename: "SciFi_Ergaenzung_360_Fragen.csv",
+  },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

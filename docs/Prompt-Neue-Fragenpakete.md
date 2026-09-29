@@ -167,3 +167,8 @@ Bestandszählung mit demselben Aufbau wie die App (`addPackages`, Tag-Ergänzung
 Die Begleitdatei ist eine **neu vorgeschlagene redaktionelle Übergabestruktur**, keine Behauptung über einen vorhandenen JSON-Importer. Der bestehende 31-Spalten-CSV-Vertrag bleibt unverändert.
 
 Quellen: [Importvertrag](Importformat.md), [Filmwissen und Filmdaten](Filmwissen-und-Filmdaten.md), [Spielmodi und Bekanntheit](Spielmodi-und-Bekanntheit.md), [gezählter Bestand einschließlich Filmliste](Fragenbestand-2026-09-27.json). Reproduzierbarer Auswertungscode: [analyze-question-stock.ts](../scripts/analyze-question-stock.ts). Stand des ausgewerteten Katalogs: Commit `626c111051988d31d87810c6fd99746a82eef790`.
+
+
+## Bestandsnachtrag 29.09.2026
+
+Sci-Fi wurde um 50 Filme ergänzt und umfasst jetzt 103 Filme/768 Fragen. Gesamt: 375 Filme/3.257 Fragen. Der datierte Bestands-Snapshot bleibt erhalten. Nächste Mengenprioritäten weiterhin Abenteuer und Thriller; neue Filmvorschläge gegen den aktuellen Katalog prüfen. [Sci-Fi-Import](SciFi-Ergaenzung.md).

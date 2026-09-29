@@ -1,6 +1,6 @@
 # Fragenimport – Vertrag Version 1
 
-Aktuelle Ergänzung (27.09.2026): [Musik-Paket](Musik-Ergaenzung.md) mit 180 gelieferten Fragen und 25 Filmdatensätzen integriert. Zwölf CSV-Pakete: 2.160 Fragen/1.800 Ziele; einschließlich 637 Jahres-/Regieergänzungen 2.797 Fragen/2.437 Ziele. Die folgenden Paketabschnitte dokumentieren ihren jeweiligen historischen Importstand.
+Aktuelle Ergänzung (29.09.2026): [Sci-Fi-Paket](SciFi-Ergaenzung.md) mit 360 gelieferten Fragen und 50 Filmdatensätzen integriert. 13 CSV-Pakete: 2.520 Fragen/2.100 Ziele; einschließlich 737 Jahres-/Regieergänzungen 3.257 Fragen/2.837 Ziele. Die folgenden Paketabschnitte dokumentieren ihren jeweiligen historischen Importstand.
 
 ## Tatsächlich gelieferte Quelle
 

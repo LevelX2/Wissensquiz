@@ -1,0 +1,2168 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "films": [
+    {
+      "film_title_de": "2001: Odyssee im Weltraum",
+      "film_title_original": "2001: A Space Odyssey",
+      "film_year": 1968,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-001",
+      "familiarity_level": 1,
+      "familiarity_reason": "Genreübergreifend bekannte Filmikone mit langlebiger Bild- und Musikpräsenz.",
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": {
+        "name": "Space Odyssey",
+        "position": 1,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Classics": "Prägender Film für Bildsprache, Effekte und philosophische Offenheit des Weltraumkinos."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stanley_Kubrick",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Stanley Kubrick arbeitete in sehr unterschiedlichen Genres: Zu seinen bekanntesten Filmen gehören „Dr. Seltsam“, „Uhrwerk Orange“, „Shining“ und „Full Metal Jacket“. Auffällig sind sorgfältig organisierte Bildräume, schwarzer Humor und ein skeptischer Blick auf menschliche Kontrollansprüche. In „2001“ tragen lange Bildfolgen und klassische Musik die Erzählung über weite Strecken ohne Dialog. Die Begegnung mit dem Unbekannten wird dadurch zunächst zu einer Erfahrung des Sehens und Hörens."
+    },
+    {
+      "film_title_de": "2010: Das Jahr, in dem wir Kontakt aufnehmen",
+      "film_title_original": "2010: The Year We Make Contact",
+      "film_year": 1984,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-003",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Fortsetzung ist deutlich weniger allgemein bekannt als Kubricks Vorgänger.",
+      "directors": [
+        "Peter Hyams"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Space Odyssey",
+        "position": 2,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2010:_The_Year_We_Make_Contact",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Hyams",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Peter Hyams verbindet Science-Fiction häufig mit den Abläufen eines Thrillers. Er inszenierte auch „Unternehmen Capricorn“, „Outland“ und „Timecop“ und übernahm bei vielen eigenen Filmen zusätzlich die Kameraarbeit. Seine Fortsetzung von Kubricks „2001“ setzt stärker auf Gespräche, technische Problemlösung und politische Spannungen. Die Zusammenarbeit amerikanischer und sowjetischer Fachleute macht aus dem kosmischen Rätsel zugleich eine Geschichte über Vertrauen während des Kalten Krieges."
+    },
+    {
+      "film_title_de": "Alarm im Weltall",
+      "film_title_original": "Forbidden Planet",
+      "film_year": 1956,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-005",
+      "familiarity_level": 3,
+      "familiarity_reason": "Prägender Roboterfilm, dessen konkrete Handlung heute vor allem Genrefans kennen.",
+      "directors": [
+        "Fred M. Wilcox"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Fred McLeod Wilcox, in den Filmcredits Fred M. Wilcox; nicht mit gleichnamigen Personen verwechseln.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {
+        "Classics": "Kanonischer Studioklassiker mit prägendem Roboterdarsteller und elektronischer Klanggestaltung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Forbidden_Planet",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fred_M._Wilcox_(director)",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Fred M. Wilcox war ein Regisseur des klassischen MGM-Studiokinos. Zu seinen bekannten Arbeiten gehören „Heimweh“ mit Lassie und „Der geheime Garten“ von 1949. „Alarm im Weltall“ zeigt eine andere Seite seiner Filmografie: aufwendig gestaltetes Zukunftskino mit elektronischen Klängen und einer gefährlichen Expedition. Hinter den technischen Attraktionen steht ein Familiendrama um Dr. Morbius (Walter Pidgeon), dessen Wissen und väterlicher Besitzanspruch eng miteinander verbunden sind."
+    },
+    {
+      "film_title_de": "Der Tag, an dem die Erde stillstand",
+      "film_title_original": "The Day the Earth Stood Still",
+      "film_year": 1951,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-007",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Erstkontaktklassiker mit dauerhaft präsenten Figuren und Motiven.",
+      "directors": [
+        "Robert Wise"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Langlebiger Erstkontaktfilm mit friedenspolitischer Botschaft und ikonischen Figuren."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Wise",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Robert Wise beherrschte sehr unterschiedliche Formen des Unterhaltungskinos. Er inszenierte „West Side Story“ gemeinsam mit Jerome Robbins, außerdem „Meine Lieder – meine Träume“, „Bis das Blut gefriert“ und „Star Trek: Der Film“. Seine Laufbahn begann im Schnitt, unter anderem bei „Citizen Kane“. Hier macht die ruhige Inszenierung Klaatus Besuch besonders wirkungsvoll: Die fremde Technik ist spektakulär, doch die eigentliche Spannung entsteht aus menschlichen Reaktionen auf seine Botschaft."
+    },
+    {
+      "film_title_de": "Kampf der Welten",
+      "film_title_original": "The War of the Worlds",
+      "film_year": 1953,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-009",
+      "familiarity_level": 3,
+      "familiarity_reason": "Historisch wichtige Wells-Verfilmung, heute eher Kennern der klassischen Science-Fiction vertraut.",
+      "directors": [
+        "Byron Haskin"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {
+        "Classics": "Prägende frühe Kinoadaption des Invasionsstoffs mit eigenständiger Effektgestaltung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1953_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Byron_Haskin",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Byron Haskin kam auch aus Kameraarbeit und Spezialeffekten. Neben „Kampf der Welten“ inszenierte er „Robinson Crusoe auf dem Mars“, „Eroberung des Weltalls“ und die Disney-Verfilmung „Die Schatzinsel“ von 1950. Mehrfach arbeitete er mit Produzent George Pal zusammen. In diesem Film verwandeln farbige Strahlen, ungewöhnliche Flugmaschinen und deren Geräusche die Invasion in ein sinnliches Ereignis. Die technische Gestaltung vermittelt eine Überlegenheit, gegen die herkömmliche Verteidigung hilflos wirkt."
+    },
+    {
+      "film_title_de": "Die Zeitmaschine",
+      "film_title_original": "The Time Machine",
+      "film_year": 1960,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-011",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte klassische Verfilmung eines weit verbreiteten Zeitreisestoffs.",
+      "directors": [
+        "George Pal"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Dauerhaft rezipierte Wells-Verfilmung mit ikonischem Zeitmaschinenentwurf."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Time_Machine_(1960_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Pal",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "George Pal prägte das fantastische Kino als Animator, Produzent und Regisseur. Berühmt wurde er zunächst mit den Puppetoons, kurzen Animationsfilmen mit ausgetauschten Puppenteilen. Selbst Regie führte er unter anderem bei „Der kleine Däumling“ und gemeinsam mit Henry Levin bei „Die Wunderwelt der Gebrüder Grimm“. In „Die Zeitmaschine“ lässt sich seine Freude an sichtbaren Verwandlungen besonders gut erkennen: Wechselnde Schaufenster und beschleunigte Bewegungen übersetzen vergehende Zeit in anschauliche Bilder."
+    },
+    {
+      "film_title_de": "Planet der Affen",
+      "film_title_original": "Planet of the Apes",
+      "film_year": 1968,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-013",
+      "familiarity_level": 1,
+      "familiarity_reason": "Außergewöhnlich bekannte Filmfassung mit ikonischer Hauptfigur und Schlussbild.",
+      "directors": [
+        "Franklin J. Schaffner"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Planet der Affen – Originalreihe",
+        "position": 1,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Kanonische Gesellschaftsfabel und Ausgangspunkt einer langlebigen Filmreihe."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Franklin_J._Schaffner",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Franklin J. Schaffner inszenierte auch „Patton“, „Papillon“ und „The Boys from Brazil“. Für „Patton“ erhielt er den Regie-Oscar. In mehreren seiner Filme geraten eigensinnige Männer in Konflikt mit mächtigen Institutionen. Bei „Planet der Affen“ muss George Taylor (Charlton Heston) überhaupt erst durchsetzen, als vernunftbegabtes Gegenüber anerkannt zu werden. Die fantastische Gesellschaft erlaubt es, Vorurteile und wissenschaftliche Autorität aus einem ungewohnten Blickwinkel zu betrachten."
+    },
+    {
+      "film_title_de": "Lautlos im Weltraum",
+      "film_title_original": "Silent Running",
+      "film_year": 1972,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-015",
+      "familiarity_level": 3,
+      "familiarity_reason": "Ökologischer Weltraumfilm mit besonderer Stellung unter Genreinteressierten.",
+      "directors": [
+        "Douglas Trumbull"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Früher maßgeblicher ökologischer Weltraumfilm mit eigenständiger Robotergestaltung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silent_Running",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Douglas_Trumbull",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Douglas Trumbull ist besonders als Spezialist für visuelle Effekte bekannt. Er arbeitete an „2001“, „Unheimliche Begegnung der dritten Art“ und „Blade Runner“ mit; als Regisseur drehte er neben „Lautlos im Weltraum“ auch „Projekt Brainstorm“. Seine Effektarbeit ist von seinen eigenen Regiearbeiten zu unterscheiden. Hier dienen die Modelle und Roboter einer vergleichsweise kleinen Geschichte: Das Überleben eines Waldes wird zum emotionalen Mittelpunkt einer technisch weit fortgeschrittenen Zukunft."
+    },
+    {
+      "film_title_de": "Soylent Green – Jahr 2022… die überleben wollen",
+      "film_title_original": "Soylent Green",
+      "film_year": 1973,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-017",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Dystopie, deren zentrale Enthüllung weit über den Film hinaus zitiert wird.",
+      "directors": [
+        "Richard Fleischer"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Dauerhaft rezipierte Dystopie über Ressourcenknappheit und soziale Ungleichheit."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Soylent_Green",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Richard_Fleischer",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Richard Fleischer inszenierte Abenteuer wie „20.000 Meilen unter dem Meer“ und „Die Wikinger“, aber auch den Science-Fiction-Film „Die phantastische Reise“ und Kriminalfilme wie „Der Frauenmörder von Boston“. Diese Vielseitigkeit prägt seine Laufbahn stärker als die Bindung an ein einziges Genre. „Soylent Green“ erschließt seine Zukunft über eine polizeiliche Untersuchung. Hitze, Gedränge und die unterschiedliche Verfügbarkeit von Lebensmitteln machen gesellschaftliche Ungleichheit schon vor der entscheidenden Enthüllung greifbar."
+    },
+    {
+      "film_title_de": "Flucht ins 23. Jahrhundert",
+      "film_title_original": "Logan's Run",
+      "film_year": 1976,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-019",
+      "familiarity_level": 3,
+      "familiarity_reason": "Kultige Zukunftsdystopie, heute vor allem dem Genrepublikum geläufig.",
+      "directors": [
+        "Michael Anderson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Michael Anderson, der britische Regisseur; nicht Paul W. S. Anderson oder Paul Thomas Anderson.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {
+        "Classics": "Langlebige Jugend- und Überwachungsdystopie mit prägender Zukunftsgestaltung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Logan%27s_Run_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Michael_Anderson_(director)",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Michael Anderson wurde unter anderem durch „Mai 1943 – Die Zerstörung der Talsperren“ und „In 80 Tagen um die Welt“ bekannt. Er inszenierte außerdem die „1984“-Verfilmung von 1956 und „Orca“. Bei „Flucht ins 23. Jahrhundert“ ist die Zukunft zunächst als verführerische Freizeitwelt gestaltet. Der Wechsel von künstlichen Innenräumen zur verlassenen Außenwelt gibt Logans Flucht eine deutlich sichtbare Form und verändert zugleich seine Vorstellung davon, wie menschliches Leben aussehen kann."
+    },
+    {
+      "film_title_de": "Unheimliche Begegnung der dritten Art",
+      "film_title_original": "Close Encounters of the Third Kind",
+      "film_year": 1977,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-021",
+      "familiarity_level": 1,
+      "familiarity_reason": "Sehr breit bekannter Spielberg-Film mit ikonischer Kontaktsequenz.",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Classics": "Prägender Vertreter des staunenden, auf Verständigung ausgerichteten Erstkontaktkinos."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steven_Spielberg",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Steven Spielberg inszenierte unter anderem „Der weiße Hai“, „E.T.“, „Jurassic Park“ und „Schindlers Liste“. In seinen fantastischen Filmen vermittelt er das Außergewöhnliche häufig über staunende Gesichter und vertraute Alltagsräume. Roy Neary (Richard Dreyfuss) begegnet dem Rätsel deshalb nicht als abgeklärter Weltraumheld. Seine wachsende Besessenheit greift in Arbeit und Familienleben ein. Das Staunen besitzt hier einen Preis, auch wenn die abschließende Begegnung überwältigende Bilder findet."
+    },
+    {
+      "film_title_de": "Die Körperfresser kommen",
+      "film_title_original": "Invasion of the Body Snatchers",
+      "film_year": 1978,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-023",
+      "familiarity_level": 3,
+      "familiarity_reason": "Geschätzte Neuverfilmung, deren genaue Fassung stärker Filmfans vertraut ist.",
+      "directors": [
+        "Philip Kaufman"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Kanonische Neuinterpretation des Doppelgängermotivs im urbanen Paranoiakino."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers_(1978_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Philip_Kaufman",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Philip Kaufman ist auch der Regisseur von „The Wanderers“, „Der Stoff, aus dem die Helden sind“, „Die unerträgliche Leichtigkeit des Seins“ und „Quills“. Seine Filmografie reicht vom Gruppenporträt bis zur Literaturverfilmung. In „Die Körperfresser kommen“ wird eine vertraute Großstadt durch Blicke, beiläufige Begegnungen und verändertes Verhalten allmählich fremd. Der Schrecken entsteht nicht allein aus sichtbaren Kreaturen, sondern aus dem Verlust verlässlicher sozialer Beziehungen."
+    },
+    {
+      "film_title_de": "Das Ding aus einer anderen Welt",
+      "film_title_original": "The Thing",
+      "film_year": 1982,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-025",
+      "familiarity_level": 2,
+      "familiarity_reason": "Langlebiger und breit bekannter Horror-Science-Fiction-Klassiker.",
+      "directors": [
+        "John Carpenter"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Classics": "Prägender Ensemble- und Körperhorror mit langlebiger Effekt- und Filmrezeption."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Thing_(1982_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Carpenter",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "John Carpenter prägte das Genrekino mit „Halloween“, „Die Klapperschlange“ und „Sie leben“. Wiederkehrend sind abgeschlossene Räume, bedrohte Gruppen und Figuren, die Institutionen wenig vertrauen. Oft komponierte er selbst die Musik; bei „Das Ding“ stammt der Score jedoch von Ennio Morricone. Die Forschungsstation wird unter Carpenters Regie zu einem überschaubaren, aber zunehmend unlesbaren Raum: Jeder Körper kann etwas anderes verbergen, als sein vertrautes Äußeres verspricht."
+    },
+    {
+      "film_title_de": "Die Fliege",
+      "film_title_original": "The Fly",
+      "film_year": 1986,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-027",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Verwandlungsfilm mit prominenter Hauptrolle und markanten Effekten.",
+      "directors": [
+        "David Cronenberg"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Kanonische Verbindung von Körperhorror, Wissenschaftsfilm und tragischer Liebesgeschichte."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Fly_(1986_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Cronenberg",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "David Cronenberg ist besonders mit dem Körperhorror verbunden. „Scanners“, „Videodrome“ und „eXistenZ“ untersuchen auf unterschiedliche Weise, wie Technik, Wahrnehmung und Körper ineinandergreifen. Später inszenierte er auch „A History of Violence“ und „Tödliche Versprechen“. In „Die Fliege“ ist die Verwandlung zugleich eine Beziehungsgeschichte. Seth Brundle (Jeff Goldblum) beobachtet seinen körperlichen Zerfall zunächst wie ein Experiment, während Veronica Quaife (Geena Davis) die persönliche Katastrophe immer deutlicher erkennt."
+    },
+    {
+      "film_title_de": "The Abyss – Abgrund des Todes",
+      "film_title_original": "The Abyss",
+      "film_year": 1989,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-029",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Cameron-Produktion mit dauerhaft präsenten Unterwassersequenzen.",
+      "directors": [
+        "James Cameron"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Abyss",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Cameron",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "James Cameron verbindet technisch aufwendiges Kino mit klaren emotionalen Konflikten. Zu seinen bekanntesten Regiearbeiten gehören „Terminator“, „Aliens“, „Titanic“ und „Avatar“. Unterwasserwelten spielen in mehreren seiner Projekte eine besondere Rolle. „The Abyss“ verbindet die Arbeit in extremer Tiefe mit der belasteten Beziehung zwischen Bud (Ed Harris) und Lindsey Brigman (Mary Elizabeth Mastrantonio). Die ungewöhnliche Umgebung ist damit zugleich technischer Schauplatz und Bewährungsprobe einer sehr persönlichen Bindung."
+    },
+    {
+      "film_title_de": "Event Horizon – Am Rande des Universums",
+      "film_title_original": "Event Horizon",
+      "film_year": 1997,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-031",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Weltraumhorror mit prominenter Besetzung und langjähriger Kultrezeption.",
+      "directors": [
+        "Paul W. S. Anderson"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Paul W. S. Anderson; nicht Paul Thomas Anderson.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Event_Horizon_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Paul_W._S._Anderson",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Paul W. S. Anderson inszenierte „Mortal Kombat“, den ersten „Resident Evil“-Film und „Alien vs. Predator“. Seine Filmografie verbindet häufig Action, fantastische Kreaturen und bedrohliche technische Anlagen. In „Event Horizon“ wirkt das Raumschiff wie eine Verbindung aus Maschine und Spukhaus. Enge Gänge, der monumentale Antriebsraum und kurze Schreckensbilder geben der Erkundung einen religiös gefärbten Albtraumcharakter. Der Schrecken greift dabei auf die persönlichen Erinnerungen der Crew zurück."
+    },
+    {
+      "film_title_de": "Pitch Black – Planet der Finsternis",
+      "film_title_original": "Pitch Black",
+      "film_year": 2000,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-033",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Ausgangspunkt der Riddick-Reihe mit Vin Diesel.",
+      "directors": [
+        "David Twohy"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Riddick",
+        "position": 1,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe."
+      },
+      "release_note": "Erstveröffentlichung 2000; der Sammlungseintrag führt abweichend 1999. Für das Quiz gilt 2000.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pitch_Black_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Twohy",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "David Twohy schrieb und inszenierte neben „Pitch Black“ auch „The Arrival“, „Below“ und die weiteren Riddick-Kinofilme. Als Drehbuchautor war er außerdem an „Auf der Flucht“ beteiligt; dessen Regie stammt von Andrew Davis. „Pitch Black“ baut seine Spannung auf eine einfache räumliche Bedingung: Licht schützt, Dunkelheit verändert die Machtverhältnisse. Riddicks (Vin Diesel) ungewöhnliches Sehvermögen macht den gefährlichen Gefangenen dadurch zu einer Person, auf die andere angewiesen sind."
+    },
+    {
+      "film_title_de": "Pandorum",
+      "film_title_original": "Pandorum",
+      "film_year": 2009,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-035",
+      "familiarity_level": 3,
+      "familiarity_reason": "Weniger breit präsenter Weltraumhorror, überwiegend Genreinteressierten geläufig.",
+      "directors": [
+        "Christian Alvart"
+      ],
+      "production_countries": [
+        "Deutschland",
+        "Vereinigtes Königreich"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pandorum",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Christian_Alvart",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Christian Alvart machte mit dem Thriller „Antikörper“ auf sich aufmerksam und inszenierte später unter anderem „Fall 39“ und „Abgeschnitten“. Seine Arbeiten bewegen sich häufig im Thriller- und Horrorkino. „Pandorum“ erzählt seine Weltraumgeschichte über Erinnerungslücken und nur stückweise erschlossene Räume. Bower (Ben Foster) muss sich Wissen und Orientierung körperlich erarbeiten. Die bedrängende Umgebung verhindert, dass die Erklärungen über das Schiff jemals wie eine entspannte Besichtigung wirken."
+    },
+    {
+      "film_title_de": "Passengers",
+      "film_title_original": "Passengers",
+      "film_year": 2016,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-037",
+      "familiarity_level": 2,
+      "familiarity_reason": "Große Studioproduktion mit besonders bekannten Hauptdarstellern.",
+      "directors": [
+        "Morten Tyldum"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Passengers_(2016_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Morten_Tyldum",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Morten Tyldum wurde mit dem norwegischen Thriller „Headhunters“ international bekannt. Für die Regie von „The Imitation Game“ erhielt er eine Oscar-Nominierung. Mit „Passengers“ verlegte er eine stark auf wenige Figuren konzentrierte Geschichte in ein riesiges Raumschiff. Die komfortablen Räume wirken durch ihre Leere zunehmend beklemmend. Auroras (Jennifer Lawrence) und Jims (Chris Pratt) Beziehung entsteht dadurch in einer Umgebung, die Luxus bietet, aber keine gesellschaftliche Ausweichmöglichkeit."
+    },
+    {
+      "film_title_de": "Life",
+      "film_title_original": "Life",
+      "film_year": 2017,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-039",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit ausgewerteter Weltraumhorror mit prominenter internationaler Besetzung.",
+      "directors": [
+        "Daniel Espinosa"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Life_(2017_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Daniel_Espinosa",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Daniel Espinosa inszenierte den schwedischen Kriminalfilm „Easy Money“, den Actionthriller „Safe House“ und später „Morbius“. In „Life“ nutzt er die begrenzten Räume einer Forschungsstation für eine zunehmend ausweglose Bedrohung. Die schwerelosen Bewegungen verändern, wie Figuren fliehen oder einander helfen können. Die Crew versucht zunächst, ihre Arbeit wissenschaftlich zu organisieren. Gerade die vertrauten Verfahren und Zuständigkeiten werden jedoch durch einen Organismus überfordert, dessen Fähigkeiten sie fortlaufend neu einschätzen muss."
+    },
+    {
+      "film_title_de": "Ad Astra – Zu den Sternen",
+      "film_title_original": "Ad Astra",
+      "film_year": 2019,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-041",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte jüngere Weltraumproduktion mit Brad Pitt als Zugpferd.",
+      "directors": [
+        "James Gray"
+      ],
+      "production_countries": [
+        "USA",
+        "Brasilien"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ad_Astra_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Gray_(director)",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "James Gray drehte unter anderem „Little Odessa“, „Helden der Nacht“, „Two Lovers“ und „Die versunkene Stadt Z“. Familiäre Bindungen, Loyalität und unerfüllte Erwartungen nehmen in seinen Filmen viel Raum ein. „Ad Astra“ lässt sich als Fortsetzung dieser Interessen im Weltraum lesen. Roy McBride (Brad Pitt) legt gewaltige Entfernungen zurück, doch die entscheidende Annäherung betrifft sein Bild vom eigenen Vater und die Folgen einer lange bewunderten Lebensentscheidung."
+    },
+    {
+      "film_title_de": "Prometheus – Dunkle Zeichen",
+      "film_title_original": "Prometheus",
+      "film_year": 2012,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-043",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit diskutierte Erweiterung des bekannten Alien-Universums.",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": {
+        "name": "Alien",
+        "position": 5,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe. Alien/Predator-Crossover werden separat behandelt."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Prometheus_(2012_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ridley_Scott",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Ridley Scott wurde mit „Alien“ und „Blade Runner“ zu einem prägenden Regisseur des Science-Fiction-Kinos. Weitere bekannte Arbeiten sind „Thelma & Louise“, „Gladiator“ und „Der Marsianer“. Seine sorgfältig gestalteten Welten erzählen viel über Macht und Lebensbedingungen. „Prometheus“ erweitert den Körperhorror um Fragen nach Ursprung und Schöpfung. Monumentale Anlagen und winzig wirkende Menschen geben dieser Suche eine visuelle Größenordnung, lange bevor die Expedition ihre Funde sicher deuten kann."
+    },
+    {
+      "film_title_de": "Alien: Covenant",
+      "film_title_original": "Alien: Covenant",
+      "film_year": 2017,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-045",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Eintrag der Alien-Reihe, ohne die eigenständige Alltagspräsenz des ersten Films.",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": {
+        "name": "Alien",
+        "position": 6,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe. Alien/Predator-Crossover werden separat behandelt."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alien:_Covenant",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ridley_Scott",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Ridley Scott inszenierte den ersten „Alien“-Film und kehrte mit „Prometheus“ zur Vorgeschichte dieser Welt zurück. Auch „Blade Runner“ beschäftigt sich mit künstlichen Wesen und ihren Schöpfern. „Alien: Covenant“ führt dieses Interesse über David und Walter (beide Michael Fassbender) weiter. Ihre äußerliche Ähnlichkeit macht Unterschiede in Gehorsam, Neugier und Selbstverständnis besonders auffällig. Gestaltung, Musik und die Gespräche der Androiden verbinden die Kreaturenbedrohung mit einer Frage nach künstlerischem und technischem Erschaffen."
+    },
+    {
+      "film_title_de": "Alien – Die Wiedergeburt",
+      "film_title_original": "Alien Resurrection",
+      "film_year": 1997,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-047",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter vierter Alien-Film mit wiederkehrender Hauptdarstellerin.",
+      "directors": [
+        "Jean-Pierre Jeunet"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Alien",
+        "position": 4,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe. Alien/Predator-Crossover werden separat behandelt."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alien_Resurrection",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean-Pierre_Jeunet",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Jean-Pierre Jeunet inszenierte „Delicatessen“ und „Die Stadt der verlorenen Kinder“ gemeinsam mit Marc Caro. Später wurde „Die fabelhafte Welt der Amélie“ sein bekanntester internationaler Erfolg. Groteske Figuren, auffällige Perspektiven und stark gestaltete Räume gehören zu seinen erkennbaren Vorlieben. „Alien – Die Wiedergeburt“ trägt diese Handschrift in eine bestehende Filmreihe. Besonders die Schmugglergruppe erhält durch Gesichter, Bewegungen und kleine visuelle Einfälle einen eigenwillig komischen Ton innerhalb der Horrorgeschichte."
+    },
+    {
+      "film_title_de": "A.I. – Künstliche Intelligenz",
+      "film_title_original": "A.I. Artificial Intelligence",
+      "film_year": 2001,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-049",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Spielberg-Film über ein Roboterkind mit langlebiger Diskussion.",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Offizielle Regie Steven Spielberg. Stanley Kubrick bereitete das Projekt vor, führte bei diesem Film aber nicht Regie.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steven_Spielberg",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Steven Spielberg entwickelte mit „E.T.“, „Jurassic Park“ und „Unheimliche Begegnung der dritten Art“ unterschiedliche Formen des Staunens über fremdes Leben. „A.I.“ ging aus einem lange von Stanley Kubrick vorbereiteten Projekt hervor, wurde aber von Spielberg inszeniert. Die Märchenstruktur um David (Haley Joel Osment) verbindet kindliche Sehnsucht mit einer Gesellschaft, die künstliche Wesen nach ihrem Nutzen bewertet. Die vertraute Suche nach mütterlicher Liebe erhält dadurch eine ungewöhnlich schmerzhafte technische Voraussetzung."
+    },
+    {
+      "film_title_de": "I, Robot",
+      "film_title_original": "I, Robot",
+      "film_year": 2004,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-051",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit bekannter Roboterthriller mit Will Smith.",
+      "directors": [
+        "Alex Proyas"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/I,_Robot_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alex_Proyas",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Alex Proyas ist auch für „The Crow“, „Dark City“ und „Knowing“ bekannt. Seine Filme nutzen häufig stark gestaltete Stadtwelten, in denen Figuren an der sichtbaren Ordnung ihrer Umgebung zweifeln. „I, Robot“ verbindet dieses Interesse mit einer kriminalistischen Untersuchung. Detective Spooner (Will Smith) bewegt sich durch eine scheinbar reibungslos automatisierte Zukunft, während Sonny (Alan Tudyk, Darstellung und Originalstimme) die Vorstellung eines vollständig berechenbaren künstlichen Gegenübers infrage stellt."
+    },
+    {
+      "film_title_de": "Children of Men",
+      "film_title_original": "Children of Men",
+      "film_year": 2006,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-053",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Dystopie mit dauerhaftem Ansehen unter regelmäßigen Kinogängern.",
+      "directors": [
+        "Alfonso Cuarón"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA",
+        "Japan"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Children_of_Men",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alfonso_Cuarón",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Alfonso Cuarón inszenierte „Y tu mamá también“, „Harry Potter und der Gefangene von Askaban“, „Gravity“ und „Roma“. Lange Einstellungen und präzise organisierte Bewegungen im Raum spielen in mehreren seiner Filme eine auffällige Rolle. In „Children of Men“ halten scheinbar ununterbrochene Kamerafahrten die Zuschauer dicht bei Theo (Clive Owen). Die Zukunft wird zudem durch Details am Bildrand verständlich: Nachrichten, Kontrollen und der Umgang mit Geflüchteten vermitteln gesellschaftliche Verhältnisse während der laufenden Handlung."
+    },
+    {
+      "film_title_de": "Equilibrium",
+      "film_title_original": "Equilibrium",
+      "film_year": 2002,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-055",
+      "familiarity_level": 3,
+      "familiarity_reason": "Kultfilm mit Christian Bale, dessen Bekanntheit stärker im Genrepublikum liegt.",
+      "directors": [
+        "Kurt Wimmer"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Equilibrium_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kurt_Wimmer",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Kurt Wimmer schrieb und inszenierte „Equilibrium“ sowie „Ultraviolet“. Als Drehbuchautor war er unter anderem an „Salt“ und „Gesetz der Rache“ beteiligt. Seine Regiearbeiten verbinden stilisierte Körperbewegungen mit überzeichneten Zukunftswelten. Das Gun Kata in „Equilibrium“ macht diese Vorliebe besonders deutlich: Schusswechsel wirken wie streng organisierte Choreografien. Die kontrollierten Bewegungen passen zum Regime, während Prestons (Christian Bale) erwachende Gefühle seine Rolle innerhalb dieser Ordnung allmählich verändern."
+    },
+    {
+      "film_title_de": "eXistenZ",
+      "film_title_original": "eXistenZ",
+      "film_year": 1999,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-057",
+      "familiarity_level": 3,
+      "familiarity_reason": "Spezialisierter Cronenberg-Film über virtuelle Realität und Körper.",
+      "directors": [
+        "David Cronenberg"
+      ],
+      "production_countries": [
+        "Kanada",
+        "Vereinigtes Königreich",
+        "Frankreich"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Existenz",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Cronenberg",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "David Cronenberg untersuchte bereits in „Videodrome“ und „Die Fliege“, wie technische Erfahrungen die Grenze des Körpers verändern können. „eXistenZ“ führt dieses Interesse in eine Spielwelt mit organischen Anschlüssen und verletzlichen Geräten. Statt glatter Computeroberflächen dominieren Gewebe, Öffnungen und körperliches Unbehagen. Die Gestaltung lässt sich als Gegenentwurf zur Vorstellung einer körperlosen virtuellen Realität lesen: Spielen bleibt hier ein materieller Vorgang, der Menschen unmittelbar berührt und verändert."
+    },
+    {
+      "film_title_de": "Dark Star – Finsterer Stern",
+      "film_title_original": "Dark Star",
+      "film_year": 1974,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-059",
+      "familiarity_level": 3,
+      "familiarity_reason": "Frühes Carpenter-Werk, vor allem an Filmgeschichte interessierten Zuschauern vertraut.",
+      "directors": [
+        "John Carpenter"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 1974; die erweiterte Kinofassung wurde 1975 ausgewertet. Die Fragen betreffen den Langfilm, nicht einen eigenständigen weiteren Titel.",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Arthouse": "Unabhängige, bewusst antiklimaktische Weltraumsatire mit absurden und philosophischen Abschweifungen."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dark_Star_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Carpenter",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "John Carpenter wurde später mit „Halloween“, „Die Klapperschlange“ und „Das Ding aus einer anderen Welt“ bekannt. „Dark Star“ entstand aus einem frühen Projekt mit Dan O’Bannon, der mit am Drehbuch arbeitete, Effekte gestaltete und Pinback spielte. Schon hier interessiert Carpenter das Zusammenleben einer abgeschlossenen Gruppe. Der Ton ist allerdings ausgesprochen komisch: Routinen, Langeweile und schlecht funktionierende Kommunikation lassen eine Weltraummission wie einen Arbeitsplatz erscheinen, an dem längst niemand mehr begeistert ist."
+    },
+    {
+      "film_title_de": "Tron",
+      "film_title_original": "Tron",
+      "film_year": 1982,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-061",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Meilenstein digitaler Filmgestaltung mit langlebiger Marke.",
+      "directors": [
+        "Steven Lisberger"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Tron",
+        "position": 1,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {
+        "Classics": "Historisch prägende Verbindung digitaler Bilder und stilisierter Realfilmgestaltung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tron",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Steven_Lisberger",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Steven Lisberger kam aus der Animation und inszenierte vor „Tron“ den animierten Fernsehfilm „Animalympics“. Später drehte er unter anderem „Slipstream“. Sein bekanntestes Werk verbindet frühe Computerbilder mit aufwendig bearbeiteten Realfilmaufnahmen. Diese Mischung verleiht der digitalen Welt ihre eigene Körperlichkeit: Leuchtende Konturen, geometrische Flächen und stilisierte Bewegungen ersetzen den vertrauten Alltagsraum. „Tron“ erzählt dadurch nicht nur von Computern, sondern sucht nach einer eigenständigen Bildsprache für das Leben in einem System."
+    },
+    {
+      "film_title_de": "Tron: Legacy",
+      "film_title_original": "Tron: Legacy",
+      "film_year": 2010,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-063",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte groß angelegte Fortsetzung mit prägnanter Musik und Gestaltung.",
+      "directors": [
+        "Joseph Kosinski"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Tron",
+        "position": 2,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tron:_Legacy",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Joseph_Kosinski",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Joseph Kosinski gab mit „Tron: Legacy“ sein Spielfilm-Regiedebüt. Zu seinen späteren bekannten Arbeiten gehören „Oblivion“ und „Top Gun: Maverick“. Klare Formen, präzise Bewegungen und technisch geprägte Räume nehmen in diesen Filmen viel Platz ein. In der Fortsetzung von „Tron“ verbinden sich solche Bilder mit der Musik von Daft Punk. Die digitale Welt wirkt dadurch zugleich wie Architektur, Rennstrecke und Bühne für die belastete Beziehung zwischen Vater und Sohn."
+    },
+    {
+      "film_title_de": "Brazil",
+      "film_title_original": "Brazil",
+      "film_year": 1985,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-065",
+      "familiarity_level": 3,
+      "familiarity_reason": "Kanonische Satire, deren konkrete Filmkenntnis stärker im cinephilen Publikum liegt.",
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Kanonische Bürokratiesatire mit langlebiger bildlicher Wirkung.",
+        "Arthouse": "Eigenwillige Autorenhandschrift, groteske Bildräume und ineinandergreifende Realitäts- und Fantasieebenen."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Brazil_(1985_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Terry_Gilliam",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Terry Gilliam gehörte zu Monty Python und gestaltete dort die charakteristischen Animationen. Als Regisseur schuf er unter anderem „Time Bandits“, „Die Abenteuer des Baron Münchhausen“, „König der Fischer“ und „12 Monkeys“. Seine Welten sind oft überfüllt, grotesk und von widersprüchlichen Größenverhältnissen geprägt. „Brazil“ verbindet diese Bildlust mit Verwaltungsterror. Rohre, Formulare und Apparate beanspruchen immer mehr Raum, während Sam Lowry (Jonathan Pryce) in seinen Fantasien scheinbar mühelos fliegen kann."
+    },
+    {
+      "film_title_de": "THX 1138",
+      "film_title_original": "THX 1138",
+      "film_year": 1971,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-067",
+      "familiarity_level": 3,
+      "familiarity_reason": "Experimentelles Frühwerk von George Lucas mit vorwiegend filmhistorischer Bekanntheit.",
+      "directors": [
+        "George Lucas"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Arthouse": "Reduzierte experimentelle Gestaltung mit fragmentierter Tonspur und bewusst distanzierter Erzählung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/THX_1138",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Lucas",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "George Lucas wurde vor allem mit „American Graffiti“ und „Krieg der Sterne“ bekannt. „THX 1138“ war sein erster abendfüllender Spielfilm und entwickelte einen eigenen studentischen Kurzfilm weiter. Hier steht eine reduzierte, experimentell wirkende Zukunftsgestaltung im Vordergrund. Weiße Flächen, elektronische Stimmen und fragmentierte Durchsagen erschweren die Orientierung. Die spätere Bedeutung von Klanggestaltung und erfundenen Welten in Lucas’ Arbeit lässt sich bereits erkennen, obwohl dieser Film eine viel sprödere Zuschauererfahrung bietet."
+    },
+    {
+      "film_title_de": "Fortress – Die Festung",
+      "film_title_original": "Fortress",
+      "film_year": 1992,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-069",
+      "familiarity_level": 3,
+      "familiarity_reason": "Älterer Gefängnis-Science-Fiction-Film, vor allem Genrefans geläufig.",
+      "directors": [
+        "Stuart Gordon"
+      ],
+      "production_countries": [
+        "USA",
+        "Australien"
+      ],
+      "series": {
+        "name": "Fortress",
+        "position": 1,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe."
+      },
+      "release_note": "Erste Festivalaufführung 1992, reguläre Kinostarts 1993. Der Sammlungseintrag führt 1993; verwendet wird das Erstveröffentlichungsjahr 1992.",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fortress_(1992_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stuart_Gordon",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Stuart Gordon wurde mit „Re-Animator“, „From Beyond“ und „Dagon“ zu einem wichtigen Namen des Lovecraft-geprägten Horrorkinos. Seine Filme verbinden körperlichen Schrecken häufig mit groteskem Humor. „Fortress“ überträgt das Interesse am verletzlichen Körper in eine Gefängnisdystopie. Die implantierte Technik macht Herrschaft unmittelbar körperlich spürbar. John Brennick (Christopher Lambert) muss deshalb nicht nur Wachen und Mauern überwinden, sondern ein Kontrollsystem, das bereits in die Gefangenen eingedrungen ist."
+    },
+    {
+      "film_title_de": "Demolition Man",
+      "film_title_original": "Demolition Man",
+      "film_year": 1993,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-071",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Actionkomödie mit Stallone, Snipes und Bullock.",
+      "directors": [
+        "Marco Brambilla"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Demolition_Man_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marco_Brambilla",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Marco Brambilla begann seine Spielfilmregie mit „Demolition Man“ und drehte danach „Excess Baggage“. Ein weiterer Schwerpunkt seiner Arbeit liegt in der Videokunst, unter anderem in großformatigen Montagen populärer Bilder. Sein Kinodebüt verbindet die vertraute Wucht eines Actionfilms mit einer auffällig sauberen Zukunft. Die komischen Regeln von San Angeles sorgen dafür, dass John Spartans (Sylvester Stallone) altes Heldenverhalten in einer vollkommen veränderten Alltagskultur sichtbar unpassend wirkt."
+    },
+    {
+      "film_title_de": "Timecop",
+      "film_title_original": "Timecop",
+      "film_year": 1994,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-073",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Zeitreise-Actionfilm und prägnanter Van-Damme-Titel.",
+      "directors": [
+        "Peter Hyams"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Timecop",
+        "position": 1,
+        "note": "Position nach Veröffentlichung der Kinofilme innerhalb dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Timecop",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Hyams",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Peter Hyams inszenierte „Unternehmen Capricorn“, „Outland“, „2010“ und später „Sudden Death“, ebenfalls mit Jean-Claude Van Damme. Bei vielen seiner Filme arbeitete er zusätzlich als Kameramann. „Timecop“ macht eine abstrakte Zeitreiseregel durch körperliche Gefahr anschaulich. Max Walker (Van Damme) muss nicht nur eine politische Manipulation verstehen, sondern im Kampf mit verschiedenen Fassungen derselben Vergangenheit umgehen. Ermittlungsfilm, persönliche Verlustgeschichte und Action greifen dadurch unmittelbar ineinander."
+    },
+    {
+      "film_title_de": "Strange Days",
+      "film_title_original": "Strange Days",
+      "film_year": 1995,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-075",
+      "familiarity_level": 3,
+      "familiarity_reason": "Visuell markanter Kultfilm mit stärkerer Bekanntheit unter Filmfans.",
+      "directors": [
+        "Kathryn Bigelow"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Strange_Days_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kathryn_Bigelow",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Kathryn Bigelow inszenierte unter anderem „Near Dark“, „Gefährliche Brandung“, „Tödliches Kommando“ und „Zero Dark Thirty“. Sie gestaltet Spannung häufig über körperliche Nähe zur Gefahr und eine genaue Beobachtung von Gewalt. „Strange Days“ macht den Blick selbst zum Thema: Die SQUID-Sequenzen zwingen das Publikum in die Perspektive anderer Personen. Damit stellt der Film auch die Frage, was es bedeutet, fremde Erfahrungen als Unterhaltung zu konsumieren."
+    },
+    {
+      "film_title_de": "John Carter – Zwischen zwei Welten",
+      "film_title_original": "John Carter",
+      "film_year": 2012,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-077",
+      "familiarity_level": 2,
+      "familiarity_reason": "Große Disney-Produktion mit breiter Kinoauswertung, trotz geringerem langfristigem Markenerfolg.",
+      "directors": [
+        "Andrew Stanton"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Carter_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andrew_Stanton",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Andrew Stanton ist besonders als Pixar-Regisseur bekannt. Zu seinen Arbeiten gehören „Findet Nemo“, „WALL·E“ und „Findet Dorie“. Mit „John Carter“ wechselte er zur Regie eines großen Realfilmabenteuers, das dennoch umfangreiche digitale Figuren und Landschaften benötigt. Seine Erfahrung mit verständlicher Bewegung und nonverbalem Erzählen lässt sich vor allem an Carters ersten Sprüngen ablesen. Körperliche Komik hilft dabei, die ungewohnten Bedingungen auf Barsoom unmittelbar zu begreifen."
+    },
+    {
+      "film_title_de": "Elysium",
+      "film_title_original": "Elysium",
+      "film_year": 2013,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-079",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte gesellschaftskritische Science-Fiction-Produktion mit Matt Damon.",
+      "directors": [
+        "Neill Blomkamp"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Elysium_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Neill_Blomkamp",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Neill Blomkamp wurde mit „District 9“ bekannt und drehte später „Chappie“ sowie „Gran Turismo“. Seine Science-Fiction verbindet oft hochwertige Effekte mit schmutzigen Arbeitswelten und gesellschaftlicher Ausgrenzung. „Elysium“ übersetzt Ungleichheit in eine räumliche Trennung: Die Erde und die privilegierte Station besitzen völlig unterschiedliche Lebensbedingungen. Max Da Costas (Matt Damon) Körper trägt die Folgen dieser Ordnung, sodass politische und medizinische Fragen nicht bloß als Hintergrund der Action erscheinen."
+    },
+    {
+      "film_title_de": "Chappie",
+      "film_title_original": "Chappie",
+      "film_year": 2015,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-081",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Roboterfilm von Blomkamp mit markanter Hauptfigur.",
+      "directors": [
+        "Neill Blomkamp"
+      ],
+      "production_countries": [
+        "USA",
+        "Südafrika"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chappie_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Neill_Blomkamp",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Neill Blomkamp inszenierte vor „Chappie“ die Science-Fiction-Filme „District 9“ und „Elysium“. Wiederkehrend sind soziale Trennlinien und technische Wesen, die sich nicht reibungslos in die vorgesehene Ordnung fügen. In „Chappie“ bekommt ein Polizeiroboter eine kindlich lernende Persönlichkeit. Die Verbindung von glaubwürdiger Maschinengestaltung und sehr menschlichen Gesten macht Erziehung zu einem sichtbaren Prozess. Unterschiedliche Vorbilder prägen sein Verhalten stärker als eine bereits fertig ausgebildete Vorstellung von Gut und Böse."
+    },
+    {
+      "film_title_de": "Transcendence",
+      "film_title_original": "Transcendence",
+      "film_year": 2014,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-083",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit ausgewerteter KI-Thriller mit Johnny Depp, ohne ikonische Langzeitpräsenz.",
+      "directors": [
+        "Wally Pfister"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Regiedebüt Wally Pfisters. Seine bekannten Arbeiten mit Christopher Nolan sind Kameraarbeiten, keine eigenen Regiefilme.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Transcendence_(2014_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wally_Pfister",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Wally Pfister war vor seinem Regiedebüt „Transcendence“ vor allem als Kameramann bekannt. Er fotografierte für Christopher Nolan unter anderem „Memento“, „The Dark Knight“ und „Inception“; für Letzteren gewann er den Kamera-Oscar. Diese Filme sind keine Regiearbeiten Pfisters. Sein eigener Film untersucht, wie ein scheinbar immaterielles Bewusstsein materielle Macht gewinnt. Die Entwicklung vom abgeschlossenen Labor zur umfassend veränderten Umgebung gibt diesem Prozess eine zunehmend größere sichtbare Dimension."
+    },
+    {
+      "film_title_de": "Automata",
+      "film_title_original": "Autómata",
+      "film_year": 2014,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-085",
+      "familiarity_level": 4,
+      "familiarity_reason": "Vergleichsweise wenig präsenter europäischer Roboterfilm trotz bekanntem Hauptdarsteller.",
+      "directors": [
+        "Gabe Ibáñez"
+      ],
+      "production_countries": [
+        "Spanien",
+        "Bulgarien"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Aut%C3%B3mata",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://lovster.tv/directors/gabe-ibanez/",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Gabe Ibáñez arbeitete vor seinen Spielfilmen in der digitalen Gestaltung und Postproduktion. Seine erste lange Regiearbeit war der Psychothriller „Hierro – Insel der Angst“. Mit „Automata“ verlagerte er die Suche nach schwer deutbaren Spuren in eine erschöpfte Zukunft. Die Roboter wirken gebraucht und zweckgebunden, ihre Veränderungen zunächst wie technische Störungen. Diese Gestaltung unterstützt den langsamen Erkenntnisprozess: Jacq Vaucan (Antonio Banderas) muss lernen, in scheinbaren Defekten eine eigenständige Entwicklung zu erkennen."
+    },
+    {
+      "film_title_de": "Enemy Mine – Geliebter Feind",
+      "film_title_original": "Enemy Mine",
+      "film_year": 1985,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-087",
+      "familiarity_level": 3,
+      "familiarity_reason": "Langlebiger Verständigungsfilm, vor allem Science-Fiction-Fans vertraut.",
+      "directors": [
+        "Wolfgang Petersen"
+      ],
+      "production_countries": [
+        "USA",
+        "Deutschland"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Offizieller Regisseur Wolfgang Petersen. Richard Loncraine leitete eine frühere, verworfene Produktionsphase.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Enemy_Mine_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wolfgang_Petersen",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://de.wikipedia.org/wiki/Enemy_Mine_%E2%80%93_Geliebter_Feind",
+          "supports": [
+            "Produktionsländer USA und Deutschland; abweichende Katalogangaben siehe Prüfbericht"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Wolfgang Petersen erreichte mit „Das Boot“ internationale Bekanntheit und inszenierte anschließend „Die unendliche Geschichte“. In Hollywood folgten unter anderem „In the Line of Fire“, „Outbreak“ und „Air Force One“. Mehrere seiner Filme setzen Figuren unter extremen räumlichen und körperlichen Druck. „Enemy Mine“ nutzt eine solche Überlebenslage für eine Annäherung: Aus den gegenseitigen Feindbildern von Willis Davidge (Dennis Quaid) und Jeriba Shigan (Louis Gossett Jr.) werden allmählich konkrete persönliche Erfahrungen."
+    },
+    {
+      "film_title_de": "Outland – Planet der Verdammten",
+      "film_title_original": "Outland",
+      "film_year": 1981,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-089",
+      "familiarity_level": 3,
+      "familiarity_reason": "Weltraumthriller mit Connery, dessen konkrete Filmkenntnis heute stärker bei Genrefans liegt.",
+      "directors": [
+        "Peter Hyams"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Outland_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Hyams",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Peter Hyams inszenierte auch „Unternehmen Capricorn“, „2010“ und „Timecop“. „Outland“ verbindet seine Vorliebe für technische Schauplätze mit der Grundsituation eines Westerns: Ein Gesetzeshüter muss trotz fehlender Unterstützung einer drohenden Gewalttat entgegentreten. William O’Niel (Sean Connery) bewegt sich durch eine Bergbaukolonie mit engen Unterkünften und sichtbarer Arbeitsroutine. Das Weltall erscheint als industrieller Arbeitsplatz, an dem wirtschaftliche Interessen wichtiger genommen werden als die Sicherheit der Beschäftigten."
+    },
+    {
+      "film_title_de": "The 13th Floor – Bist du, was du denkst?",
+      "film_title_original": "The Thirteenth Floor",
+      "film_year": 1999,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-091",
+      "familiarity_level": 3,
+      "familiarity_reason": "Virtual-Reality-Thriller mit anhaltender Kennerreputation, aber begrenzter breiter Präsenz.",
+      "directors": [
+        "Josef Rusnak"
+      ],
+      "production_countries": [
+        "Deutschland",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Thirteenth_Floor",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Josef_Rusnak",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Josef Rusnak begann seine Spielfilmkarriere mit „Kalte Fieber“ und arbeitete auch für das deutsche Fernsehen. Zu seinen weiteren Regiearbeiten gehören „Quiet Days in Hollywood“ und „The Contractor“. „The 13th Floor“ verbindet einen Kriminalfall mit der Frage nach der Zuverlässigkeit erlebter Wirklichkeit. Die historisch gestalteten Räume sind dabei mehr als nostalgische Kulisse. Kleine Brüche im scheinbar vertrauten Umfeld lassen Douglas Hall (Craig Bierko) die Voraussetzungen seiner eigenen Existenz untersuchen."
+    },
+    {
+      "film_title_de": "Under the Skin",
+      "film_title_original": "Under the Skin",
+      "film_year": 2013,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-093",
+      "familiarity_level": 3,
+      "familiarity_reason": "Formal ungewöhnlicher Autorenfilm, stärker im Arthouse-Publikum bekannt.",
+      "directors": [
+        "Jonathan Glazer"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA",
+        "Schweiz"
+      ],
+      "series": null,
+      "release_note": "Festivalpremiere Venedig 2013; breite Kinoauswertung 2014. Verwendet wird 2013.",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Arthouse": "Offene Erzählweise und ungewöhnliche Verbindung beobachtender Aufnahmen mit abstrakten Bildräumen."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Under_the_Skin_(2013_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jonathan_Glazer",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Jonathan Glazer inszenierte auch „Sexy Beast“, „Birth“ und „The Zone of Interest“. Zuvor machte er mit Musikvideos, etwa für Radiohead und Jamiroquai, auf sich aufmerksam. In „Under the Skin“ arbeitet er mit einer ungewöhnlichen Mischung aus Alltagsbeobachtung und streng gestalteten, abstrakten Räumen. Viele Vorgänge bleiben sprachlich unerklärt. Dadurch muss das Publikum Körper, Geräusche und Bewegungen aufmerksam lesen, ähnlich wie die fremde Frau (Scarlett Johansson) ihre menschliche Umgebung."
+    },
+    {
+      "film_title_de": "Donnie Darko",
+      "film_title_original": "Donnie Darko",
+      "film_year": 2001,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-095",
+      "familiarity_level": 2,
+      "familiarity_reason": "Langlebiger Kultfilm mit weit über die Erstveröffentlichung hinaus bekannter Bildwelt.",
+      "directors": [
+        "Richard Kelly"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "schwer",
+      "category_reasons": {
+        "Arthouse": "Eigenwilliger unabhängiger Film mit offener Zeitstruktur und mehrdeutiger subjektiver Wahrnehmung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donnie_Darko",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Richard_Kelly_(filmmaker)",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Richard Kelly schrieb und inszenierte nach „Donnie Darko“ auch „Southland Tales“ und „The Box“. Seine Geschichten verbinden alltägliche Lebenswelten mit rätselhaften Regeln, Vorzeichen und möglichen Katastrophen. Statt diese Regeln sofort vollständig offenzulegen, verteilt er Hinweise über Gespräche, Bilder und wiederkehrende Motive. Bei Donnie (Jake Gyllenhaal) treffen solche Rätsel auf die ohnehin unsichere Selbstwahrnehmung eines Jugendlichen. Die verschiedenen Filmfassungen gewichten die erklärenden Informationen unterschiedlich stark."
+    },
+    {
+      "film_title_de": "Sie leben",
+      "film_title_original": "They Live",
+      "film_year": 1988,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-097",
+      "familiarity_level": 3,
+      "familiarity_reason": "Politische Genresatire mit ikonischem Motiv, deren Gesamtfilm eher Kennern geläufig ist.",
+      "directors": [
+        "John Carpenter"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Langlebige politische Genresatire mit ikonischer visueller Enthüllungsidee."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/They_Live",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Carpenter",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "John Carpenter inszenierte „Halloween“, „Die Klapperschlange“ und „Das Ding aus einer anderen Welt“. „Sie leben“ nutzt die Formen eines B-Films für eine auffällige Gesellschaftssatire. Der Wechsel zwischen farbiger Alltagswelt und enthüllendem Schwarz-Weiß macht Ideologiekritik als Sehvorgang verständlich. Nada (Roddy Piper) muss dafür keine Theorie lernen, sondern buchstäblich anders hinsehen. Die einfache visuelle Idee erlaubt es, Werbung, Konsum und soziale Macht unmittelbar in die Handlung einzubauen."
+    },
+    {
+      "film_title_de": "Andromeda – Tödlicher Staub aus dem All",
+      "film_title_original": "The Andromeda Strain",
+      "film_year": 1971,
+      "subdomain": "Science-Fiction",
+      "reference_question_id": "SF-202609-P02-L-099",
+      "familiarity_level": 3,
+      "familiarity_reason": "Klassischer Wissenschaftsthriller, heute vor allem an Genregeschichte Interessierten vertraut.",
+      "directors": [
+        "Robert Wise"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Prägender prozeduraler Science-Fiction-Thriller über wissenschaftliche Krisenbewältigung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Andromeda_Strain_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Wise",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund des Regisseurs"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Robert Wise inszenierte neben „Der Tag, an dem die Erde stillstand“ auch „Bis das Blut gefriert“, „Meine Lieder – meine Träume“ und „Star Trek: Der Film“. Seine Erfahrung als Filmeditor prägte seinen präzisen Umgang mit filmischen Abläufen. „Andromeda“ gewinnt Spannung aus Arbeitsprozessen: Schleusen, Untersuchungen und das schrittweise Auswerten von Befunden ersetzen über weite Strecken eine sichtbare Monsterjagd. Geteilte Bildflächen lassen gleichzeitig mehrere Vorgänge beobachten und betonen die organisierte Suche nach einer Erklärung."
+    }
+  ]
+}
