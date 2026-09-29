@@ -60,6 +60,13 @@ it.each([
     path: name.toLowerCase(),
   })),
   {
+    name: "Komödie-Ergänzung",
+    imported: allImported[13],
+    previous: allImported.slice(0, 13).flatMap((p) => p.questions),
+    path: "komoedie-ergaenzung",
+    size: 360,
+  },
+  {
     name: "SciFi-Ergänzung",
     imported: allImported[12],
     previous: allImported.slice(0, 12).flatMap((p) => p.questions),
@@ -191,7 +198,7 @@ it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedbac
   );
 });
 
-it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])(
+it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13])(
   "ergänzt neue Pakete bei %i vorhandenen Paketen transaktional ohne Fortschrittsverlust",
   async (packageCount) => {
     const previousPackages = allImported.slice(0, packageCount);
@@ -232,9 +239,9 @@ it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])(
       update((s) => addPackages(s, contents)),
     ]);
     const saved = (await read())!;
-    expect(saved.questions).toHaveLength(3257);
-    expect(saved.imports).toHaveLength(13);
-    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(2837);
+    expect(saved.questions).toHaveLength(3717);
+    expect(saved.imports).toHaveLength(14);
+    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(3237);
     expect(saved.questions.slice(0, previousQuestions.length)).toEqual(
       previousQuestions.map(withCategoryTags),
     );

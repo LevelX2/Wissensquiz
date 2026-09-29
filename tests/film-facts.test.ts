@@ -42,7 +42,8 @@ it("liefert Filmdaten auch für alte Fragen, unterscheidet Episoden und Reboots 
     expect(data.year).toBe(f.year);
     expect(data.countries.length).toBeGreaterThan(0);
     expect(data.directors.length).toBeGreaterThan(0);
-    if (data.series) expect(data.series.position).toBeGreaterThan(0);
+    if (data.series?.position != null)
+      expect(data.series.position).toBeGreaterThan(0);
   }
   const film = (title: string) =>
     filmData(originals.find((q) => q.metadata.film_title_original === title)!)!;
@@ -85,12 +86,12 @@ it("zeigt individuelle Regiehintergründe für die 312 älteren Vorlagen ohne hi
   expect(directorExplanation(existing)).toBeUndefined();
 });
 
-it("ergänzt jedes der 375 Filmwerke um Jahr und fehlende Regie, ohne bestehende Ziele zu duplizieren", () => {
-  expect(facts).toHaveLength(375);
-  expect(extra).toHaveLength(737);
-  expect(complete.questions).toHaveLength(3257);
-  expect(new Set(complete.questions.map((q) => q.knowledgeId)).size).toBe(2837);
-  expect(new Set(complete.questions.map((q) => q.topic)).size).toBe(328);
+it("ergänzt jedes der 425 Filmwerke um Jahr und fehlende Regie, ohne bestehende Ziele zu duplizieren", () => {
+  expect(facts).toHaveLength(425);
+  expect(extra).toHaveLength(837);
+  expect(complete.questions).toHaveLength(3717);
+  expect(new Set(complete.questions.map((q) => q.knowledgeId)).size).toBe(3237);
+  expect(new Set(complete.questions.map((q) => q.topic)).size).toBe(378);
   expect(complete.questions.slice(0, originals.length)).toEqual(originals);
   for (const f of facts) {
     const year = extra.find((q) => q.id === `${f.id}-YEAR`)!;
@@ -131,8 +132,8 @@ it("ergänzt jedes der 375 Filmwerke um Jahr und fehlende Regie, ohne bestehende
       {
         checkedOn: "2026-09-29",
         films: facts.length,
-        newYearQuestions: 375,
-        newDirectorQuestions: 362,
+        newYearQuestions: 425,
+        newDirectorQuestions: 412,
         existingDirectorGoals: 13,
         totalQuestions: complete.questions.length,
         totalGoals: new Set(complete.questions.map((q) => q.knowledgeId)).size,
@@ -164,7 +165,7 @@ it("ergänzt jedes der 375 Filmwerke um Jahr und fehlende Regie, ohne bestehende
           ]),
         ),
         sourceNote:
-          "300 bisherige Filmquellen abgeglichen; 25 Musikfilme und 50 neue Sci-Fi-Filme aus gelieferter Redaktion übernommen und strukturell geprüft. Keine unabhängige Vollprüfung der neuen Filmaussagen. Schwierigkeit redaktionell, nicht empirisch gemessen.",
+          "300 bisherige Filmquellen abgeglichen; 25 Musikfilme, 50 Sci-Fi-Filme und 50 Komödien aus gelieferter Redaktion übernommen und strukturell geprüft. Keine unabhängige Vollprüfung der neuen Filmaussagen. Schwierigkeit redaktionell, nicht empirisch gemessen.",
       },
       null,
       2,

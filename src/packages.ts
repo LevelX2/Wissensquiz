@@ -24,6 +24,10 @@ export const packages = [
     path: "/scifi-ergaenzung-fragen.csv",
     filename: "SciFi_Ergaenzung_360_Fragen.csv",
   },
+  {
+    path: "/komoedie-ergaenzung-fragen.csv",
+    filename: "Komoedie_Ergaenzung_360_Fragen.csv",
+  },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

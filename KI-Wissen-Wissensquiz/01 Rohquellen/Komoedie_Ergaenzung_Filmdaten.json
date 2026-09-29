@@ -1,0 +1,2237 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "films": [
+    {
+      "film_title_de": "Anchorman – Die Legende von Ron Burgundy",
+      "film_title_original": "Anchorman: The Legend of Ron Burgundy",
+      "film_year": 2004,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-001",
+      "familiarity_level": 2,
+      "familiarity_reason": "Eine verbreitete Will-Ferrell-Komödie mit klar erkennbarem Nachrichtensprecher-Ensemble, aber keine universell bekannte Figur.",
+      "directors": [
+        "Adam McKay"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Anchorman",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anchorman:_The_Legend_of_Ron_Burgundy",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Adam_McKay",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Adam McKay entwickelte mit Will Ferrell auch „Ricky Bobby“ und „Stiefbrüder“. Später wandte er sich mit „The Big Short“ und „Vice“ ausdrücklich politischen und wirtschaftlichen Stoffen zu. In „Anchorman“ ist sein Blick auf institutionelle Selbstüberschätzung bereits erkennbar: Die lokale Nachrichtenredaktion wird zur Bühne männlicher Eitelkeit. Als Beobachtung seiner Inszenierung fällt besonders auf, wie ernst die Figuren ihre eigene Lächerlichkeit nehmen."
+    },
+    {
+      "film_title_de": "Wayne’s World",
+      "film_title_original": "Wayne's World",
+      "film_year": 1992,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-003",
+      "familiarity_level": 2,
+      "familiarity_reason": "Durch die Rockmusikszene und die Autofahrt bekannt; außerhalb dieser Popkultur bleibt der Titel weniger selbstverständlich.",
+      "directors": [
+        "Penelope Spheeris"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Wayne’s World",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wayne%27s_World_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Penelope_Spheeris",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Penelope Spheeris dokumentierte mit „The Decline of Western Civilization“ unterschiedliche Musikmilieus und inszenierte außerdem „Suburbia“ sowie die Komödie „Die kleinen Superstrolche“. „Wayne’s World“ passt zu ihrem Interesse an Musik als Lebensumgebung. Kellerstudio, Konzert und Instrumentengeschäft bilden eine zusammenhängende Welt. Der Film behandelt die Rockbegeisterung seiner Figuren deshalb nicht nur als Anlass für einzelne Songs, sondern als Grundlage ihrer Freundschaft und Selbstorganisation."
+    },
+    {
+      "film_title_de": "Dumm und Dümmer",
+      "film_title_original": "Dumb and Dumber",
+      "film_year": 1994,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-005",
+      "familiarity_level": 2,
+      "familiarity_reason": "Jim Carreys und Jeff Daniels' Roadmovie ist im Mainstream bekannt und besitzt eine wiedererkennbare Titelpaarung.",
+      "directors": [
+        "Peter Farrelly"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Dumm und Dümmer",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "Offiziell genannt: Peter Farrelly. Bobby Farrelly wird als nicht im Regiecredit genannter Mitregisseur beschrieben und gehört zu den Drehbuchautoren.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dumb_and_Dumber",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Farrelly",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Peter Farrelly wurde gemeinsam mit seinem Bruder Bobby durch „Verrückt nach Mary“ und „Ich, beide & sie“ bekannt. „Green Book“ gehört zu seinen späteren Einzelregiearbeiten. Bei „Dumm und Dümmer“ nennt der offizielle Regiecredit Peter; Bobby arbeitete ohne Regienennung mit. Die Brüder verbinden hier derbe Körperkomik mit Figuren, deren Freundschaft auch dann bestehen bleibt, wenn ihre praktische Urteilskraft fast vollständig versagt."
+    },
+    {
+      "film_title_de": "Ace Ventura – Ein tierischer Detektiv",
+      "film_title_original": "Ace Ventura: Pet Detective",
+      "film_year": 1994,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-007",
+      "familiarity_level": 2,
+      "familiarity_reason": "Der Tierdetektiv ist ein bekannter früher Carrey-Erfolg, dessen Name leichter erinnert wird als viele Einzelheiten des Falls.",
+      "directors": [
+        "Tom Shadyac"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Ace Ventura",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ace_Ventura:_Pet_Detective",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Shadyac",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Tom Shadyac inszenierte neben „Ace Ventura“ auch „Der verrückte Professor“, „Der Dummschwätzer“ und „Bruce Allmächtig“. Mehrfach baute er Komödien um Stars mit ausgeprägter körperlicher oder stimmlicher Wandlungsfähigkeit. Jim Carreys Tierdetektiv darf deshalb sehr auffällig sein, bleibt aber innerhalb einer verständlichen Ermittlung tätig. Als Lesart funktioniert diese Verbindung besonders gut, weil exzentrisches Verhalten und tatsächliche Beobachtungsgabe nicht als gegenseitiger Ausschluss behandelt werden."
+    },
+    {
+      "film_title_de": "Cable Guy – Die Nervensäge",
+      "film_title_original": "The Cable Guy",
+      "film_year": 1996,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-009",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die dunklere Carrey-Komödie ist weniger präsent als seine breiten Publikumserfolge; gute Wahl für Genrekenner.",
+      "directors": [
+        "Ben Stiller"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Cable_Guy",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ben_Stiller",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Ben Stiller führte auch bei „Reality Bites“, „Zoolander“, „Tropic Thunder“ und „Das erstaunliche Leben des Walter Mitty“ Regie. „Cable Guy“ zeigt einen besonders dunklen Teil seines Komödienwerks. Die Medienreferenzen sind hier nicht nur Popkulturwitze, sondern Bestandteil einer gestörten Persönlichkeit. Stiller lässt Jim Carreys Komik zunehmend bedrohlich wirken, während Matthew Brodericks zurückhaltende Reaktionen den Verlust privater Kontrolle nachvollziehbar machen."
+    },
+    {
+      "film_title_de": "Bruce Allmächtig",
+      "film_title_original": "Bruce Almighty",
+      "film_year": 2003,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-011",
+      "familiarity_level": 2,
+      "familiarity_reason": "Der bekannte Carrey-Film mit Morgan Freeman hat eine leicht erinnerbare übernatürliche Grundidee.",
+      "directors": [
+        "Tom Shadyac"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bruce_Almighty",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Shadyac",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Tom Shadyac arbeitete mit Jim Carrey auch an „Ace Ventura“ und „Der Dummschwätzer“; „Der verrückte Professor“ inszenierte er mit Eddie Murphy. „Bruce Allmächtig“ erweitert die Star-Komödie um eine übernatürliche Versuchsanordnung. Als dramaturgische Beobachtung ist dabei die Begrenzung der Macht entscheidend: Bruce Nolan (Jim Carrey) kann spektakuläre Effekte herstellen, muss menschliche Beziehungen aber weiterhin durch eigenes Verhalten tragen und kann Zustimmung nicht einfach erzwingen."
+    },
+    {
+      "film_title_de": "Mrs. Doubtfire – Das stachelige Hausmädchen",
+      "film_title_original": "Mrs. Doubtfire",
+      "film_year": 1993,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-013",
+      "familiarity_level": 1,
+      "familiarity_reason": "Robin Williams' Verkleidungsfigur ist auch ohne vertieftes Filmwissen unmittelbar zuzuordnen.",
+      "directors": [
+        "Chris Columbus"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mrs._Doubtfire",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker)",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Chris Columbus führte bei „Kevin – Allein zu Haus“ und den ersten beiden „Harry Potter“-Filmen Regie. Zuvor schrieb er unter anderem die Drehbücher zu „Gremlins“ und „Die Goonies“. „Mrs. Doubtfire“ verbindet seine Arbeit im Familienkino mit Robin Williams' Stimmen- und Verkleidungskunst. Das Wechselspiel der Identitäten bleibt dabei an einen emotionalen Anlass gebunden: Daniel Hillard (Robin Williams) möchte wieder am Alltag seiner Kinder teilnehmen, muss dafür aber tatsächlich Verantwortung übernehmen."
+    },
+    {
+      "film_title_de": "Tootsie",
+      "film_title_original": "Tootsie",
+      "film_year": 1982,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-015",
+      "familiarity_level": 2,
+      "familiarity_reason": "Hoffmans Verkleidungskomödie gehört zum bekannten amerikanischen Repertoire; jüngere Zuschauer kennen sie weniger selbstverständlich.",
+      "directors": [
+        "Sydney Pollack"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Ein zentraler amerikanischer Verkleidungsfilm mit bleibender Bedeutung für das Nachdenken über Rollen und Arbeitswelt."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tootsie",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sydney_Pollack",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Sydney Pollack inszenierte „Nur Pferden gibt man den Gnadenschuss“, „Die drei Tage des Condor“ und „Jenseits von Afrika“. Sein Werk umfasst also deutlich mehr als Komödien. Bei „Tootsie“ spielt er zusätzlich den Agenten George Fields. Die beruflichen Gespräche verankern das Verkleidungsspiel in einer glaubhaften Schauspielwelt. Als Lesart wird die Täuschung gerade deshalb interessant, weil eine praktische Karriereentscheidung zu Erfahrungen führt, die Michael Dorseys (Dustin Hoffman) Selbstbild verändern."
+    },
+    {
+      "film_title_de": "Zwei hinreißend verdorbene Schurken",
+      "film_title_original": "Dirty Rotten Scoundrels",
+      "film_year": 1988,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-017",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Caine-Martin-Paarung ist bekannt, der deutsche Titel aber weniger unmittelbar erinnerbar als die Grundidee.",
+      "directors": [
+        "Frank Oz"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dirty_Rotten_Scoundrels_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Oz",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Frank Oz ist als Puppenspieler mit den Muppets und Yoda verbunden und führte bei „Der kleine Horrorladen“, „Was ist mit Bob?“ und „Sterben für Anfänger“ Regie. In „Zwei hinreißend verdorbene Schurken“ konzentriert er sich auf präzises Zusammenspiel. Michael Caines kultivierte Ruhe und Steve Martins körperliche Übertreibung bilden unterschiedliche Täuschungsmethoden. Die Wendungen prüfen immer wieder, welcher Beteiligte die Situation tatsächlich versteht und wer nur einen überzeugenden Eindruck erzeugt."
+    },
+    {
+      "film_title_de": "Geschenkt ist noch zu teuer",
+      "film_title_original": "The Money Pit",
+      "film_year": 1986,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-019",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Hanks-Komödie ist ein bekannter Renovierungsfilm und eignet sich als vertrauter Titel jenseits der größten Blockbuster.",
+      "directors": [
+        "Richard Benjamin"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Money_Pit",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Richard_Benjamin",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Richard Benjamin begann als Schauspieler, unter anderem in „Westworld“, und inszenierte später „Ein Draufgänger in New York“ sowie „Meerjungfrauen küssen besser“. „Geschenkt ist noch zu teuer“ nutzt die Renovierung für eine Folge großer körperlicher Pannen. Als inszenatorische Beobachtung ist Tom Hanks' Reaktion genauso wichtig wie der einstürzende Gegenstand: Der Film hält häufig auf dem Menschen inne, dessen Vorstellung von normalem Alltag gerade sichtbar zerbrochen ist."
+    },
+    {
+      "film_title_de": "Caddyshack",
+      "film_title_original": "Caddyshack",
+      "film_year": 1980,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-021",
+      "familiarity_level": 3,
+      "familiarity_reason": "Der amerikanische Golfklassiker besitzt ein starkes Komikerensemble, ist im deutschsprachigen Publikum aber nicht überall gleich präsent.",
+      "directors": [
+        "Harold Ramis"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Caddyshack",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Harold_Ramis",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Harold Ramis inszenierte „Die schrillen Vier auf Achse“, „Und täglich grüßt das Murmeltier“ und „Reine Nervensache“. Als Autor und Schauspieler war er außerdem eng mit „Ghostbusters“ verbunden. „Caddyshack“ war sein Spielfilm-Regiedebüt. Die Ensemblekomödie verteilt ihre Wirkung auf sehr verschiedene Auftrittsweisen: Bill Murrays Selbstgespräche, Rodney Dangerfields Sprüche und Chevy Chases Lässigkeit treffen auf einen Club, dessen gepflegte Oberfläche eine ausgeprägte soziale Hierarchie verdeckt."
+    },
+    {
+      "film_title_de": "Hot Shots! – Die Mutter aller Filme",
+      "film_title_original": "Hot Shots!",
+      "film_year": 1991,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-023",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Fliegerfilmparodie mit Charlie Sheen ist über ihren prägnanten Titel und wiederkehrende Fernsehausstrahlungen bekannt.",
+      "directors": [
+        "Jim Abrahams"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Hot Shots!",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hot_Shots!",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jim_Abrahams",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Jim Abrahams gehörte mit David und Jerry Zucker zum Team hinter „Die unglaubliche Reise in einem verrückten Flugzeug“ und „Top Secret!“. Später inszenierte er auch „Hot Shots! Der zweite Versuch“. Der erste „Hot Shots!“-Film überträgt ihr Parodieverfahren auf Flieger- und Actionfilme. Als Beobachtung trägt die ungebrochene Ernsthaftigkeit der Darsteller den Humor: Die Figuren bleiben in ihrer heroischen Welt, obwohl deren Einzelheiten fortwährend ins Absurde kippen."
+    },
+    {
+      "film_title_de": "Top Secret!",
+      "film_title_original": "Top Secret!",
+      "film_year": 1984,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-025",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die ZAZ-Parodie ist ein Genrekennertitel; die Beteiligten sind bekannter als manche ihrer Figuren und Handlungsdetails.",
+      "directors": [
+        "Jim Abrahams",
+        "David Zucker",
+        "Jerry Zucker"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Gemeinschaftsregie von Jim Abrahams, David Zucker und Jerry Zucker.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Top_Secret!",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jim_Abrahams",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Zucker",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jerry_Zucker",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Jim Abrahams, David Zucker und Jerry Zucker inszenierten „Top Secret!“ gemeinsam. Das Trio war zuvor mit „Die unglaubliche Reise in einem verrückten Flugzeug“ erfolgreich; später entstanden unter seiner Beteiligung die „Nackte Kanone“-Filme. Hier mischen sie Sängerfilm, Kriegsabenteuer und Spionage. Die zahlreichen visuellen Pointen können dabei sogar historische oder physikalische Regeln verändern, solange die Darsteller das Geschehen weiterhin als vollkommen selbstverständlich behandeln."
+    },
+    {
+      "film_title_de": "Spione wie wir",
+      "film_title_original": "Spies Like Us",
+      "film_year": 1985,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-027",
+      "familiarity_level": 3,
+      "familiarity_reason": "Chase und Aykroyd machen den Film erkennbar, doch er ist weniger präsent als ihre jeweils größten Komödien.",
+      "directors": [
+        "John Landis"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spies_Like_Us",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Landis",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "John Landis führte bei „Animal House“, „Blues Brothers“, „Die Glücksritter“ und „Der Prinz aus Zamunda“ Regie; mit „An American Werewolf in London“ arbeitete er auch im Horrorfilm. „Spione wie wir“ setzt Chevy Chase und Dan Aykroyd in eine vertraute Abenteuerstruktur. Die Eskalation reicht von Ausbildungsproblemen bis zur nuklearen Bedrohung. Landis hält damit eine reale Gefahr im Hintergrund, während die Hauptfiguren weiterhin durch improvisierte Ausreden und Pannen navigieren."
+    },
+    {
+      "film_title_de": "Borat",
+      "film_title_original": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+      "film_year": 2006,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-029",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Reporterfigur war ein breites Popkulturphänomen; einzelne filmische Begegnungen sind dennoch kein Allgemeinwissen.",
+      "directors": [
+        "Larry Charles"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "series": {
+        "name": "Borat",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Borat",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Larry_Charles",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Larry Charles schrieb für „Seinfeld“ und inszenierte später „Brüno“, „Religulous“ sowie „Der Diktator“. „Borat“ verbindet seine Arbeit an provokanten Gesprächssituationen mit Sacha Baron Cohens Rollenfigur. Die Regie muss hier verschiedene Formen zusammenführen: inszenierte Reisehandlung, direkte Begegnungen und dokumentarisch wirkende Beobachtung. Als Lesart liegt die besondere Wirkung in dieser Unsicherheit, weil ein scheinbar harmloses Interview plötzlich die Regeln höflicher Selbstdarstellung verändern kann."
+    },
+    {
+      "film_title_de": "Der Diktator",
+      "film_title_original": "The Dictator",
+      "film_year": 2012,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-031",
+      "familiarity_level": 2,
+      "familiarity_reason": "Baron Cohens Herrscherfigur ist bekannt, erreicht aber nicht dieselbe selbstverständliche Wiedererkennung wie Borat.",
+      "directors": [
+        "Larry Charles"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Dictator_(2012_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Larry_Charles",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Larry Charles ist durch „Borat“, „Brüno“ und die Dokumentation „Religulous“ bekannt; zuvor arbeitete er als Autor für „Seinfeld“. „Der Diktator“ ist stärker als durchgehende Spielfilmhandlung organisiert als seine frühen Filme mit Sacha Baron Cohen. Die Satire prüft eine Machtfigur außerhalb ihres eigenen Apparats. Kleine New Yorker Arbeitsabläufe erhalten dabei denselben Stellenwert wie politische Reden, weil Aladeens eingeübte Befehlsweise in beiden Bereichen unpassend weiterwirkt."
+    },
+    {
+      "film_title_de": "Burn After Reading – Wer verbrennt sich hier die Finger?",
+      "film_title_original": "Burn After Reading",
+      "film_year": 2008,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-033",
+      "familiarity_level": 2,
+      "familiarity_reason": "Das Coen-Ensemble ist gut erkennbar; die komplizierte Verknüpfung der Figuren erfordert konkrete Filmkenntnis.",
+      "directors": [
+        "Joel Coen",
+        "Ethan Coen"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich",
+        "Frankreich"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Gemeinschaftsregie von Joel und Ethan Coen.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Burn_After_Reading",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Coen_brothers",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ethan_Coen",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Joel und Ethan Coen inszenierten unter anderem „Fargo“, „The Big Lebowski“ und „No Country for Old Men“. Sie verbinden oft präzise Genreformen mit Fehlurteilen und eigenwilliger Sprache. „Burn After Reading“ nimmt das Material eines Spionagethrillers und füllt es mit Menschen, die private Wünsche für große Pläne halten. Die abrupten Gewaltereignisse begrenzen die Farce: Eine lächerliche Absicht garantiert keineswegs harmlose Folgen für die Beteiligten."
+    },
+    {
+      "film_title_de": "Clerks – Die Ladenhüter",
+      "film_title_original": "Clerks",
+      "film_year": 1994,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-035",
+      "familiarity_level": 3,
+      "familiarity_reason": "Kevin Smiths unabhängiges Debüt ist für Film- und Komödienkenner prägend, für ein breites Publikum weniger selbstverständlich.",
+      "directors": [
+        "Kevin Smith"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "View Askewniverse",
+        "position": null,
+        "note": "Gemeinsames Figurenuniversum statt eindeutig nummerierter Einzelreihe; Clerks ist dessen erster veröffentlichter Kinofilm."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Arthouse": "Unabhängiges dialogorientiertes Schwarz-Weiß-Debüt mit begrenztem Alltagsraum und ausgeprägter persönlicher Autorenperspektive."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Clerks_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kevin_Smith",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Kevin Smith schrieb und inszenierte „Clerks“ und spielt Silent Bob. Später folgten „Mallrats“, „Chasing Amy“ und „Dogma“, in denen wiederkehrende Figuren sein gemeinsames Filmumfeld erweitern. Sein Debüt entstand als kleine Schwarz-Weiß-Produktion. Die Dialoge tragen die Form: Kundenkontakt und Fanwissen werden ausführlich diskutiert, während Dante Hicks (Brian O’Halloran) praktisch am Arbeitsplatz festgehalten wird und kaum Abstand zu seinen eigenen Problemen gewinnen kann."
+    },
+    {
+      "film_title_de": "Bean – Der ultimative Katastrophenfilm",
+      "film_title_original": "Bean",
+      "film_year": 1997,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-037",
+      "familiarity_level": 1,
+      "familiarity_reason": "Mr. Bean ist eine besonders leicht erkennbare internationale Komikfigur; die Filmhandlung bleibt ein eigener Wissensbereich.",
+      "directors": [
+        "Mel Smith"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich"
+      ],
+      "series": {
+        "name": "Mr. Bean – Kinofilme",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bean_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mel_Smith",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Mel Smith war als Komiker unter anderem mit Griff Rhys Jones und der Sendung „Not the Nine O’Clock News“ bekannt. Als Regisseur drehte er „Das lange Elend“ und „High Heels and Low Lifes“. „Bean“ überführt Rowan Atkinsons Fernsehfigur in eine längere Museums- und Familienhandlung. Smith muss dabei körperliche Einzelgags mit anhaltenden Beziehungen verbinden, besonders mit David Langley (Peter MacNicol), der die Folgen von Beans Auftritten auffangen soll."
+    },
+    {
+      "film_title_de": "Bad Santa",
+      "film_title_original": "Bad Santa",
+      "film_year": 2003,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-039",
+      "familiarity_level": 2,
+      "familiarity_reason": "Der unfreundliche Weihnachtsmann ist eine bekannte Erwachsenenkomödie mit klarer Hauptbesetzung.",
+      "directors": [
+        "Terry Zwigoff"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Bad Santa",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bad_Santa",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Terry_Zwigoff",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Terry Zwigoff drehte die Dokumentation „Crumb“ sowie die Spielfilme „Ghost World“ und „Art School Confidential“. Seine Filme beschäftigen sich häufig mit Außenseitern, deren Verhalten nicht einfach gesellschaftlich angenehm gemacht wird. „Bad Santa“ bewahrt deshalb Willies (Billy Bob Thornton) grobe Sprache und Unzuverlässigkeit auch neben zarteren Momenten. Die Weihnachtsfigur liefert eine erwartbar freundliche Oberfläche, gegen die der Film sein unangenehmes Menschenbild bewusst arbeiten lässt."
+    },
+    {
+      "film_title_de": "Bad Teacher",
+      "film_title_original": "Bad Teacher",
+      "film_year": 2011,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-041",
+      "familiarity_level": 2,
+      "familiarity_reason": "Cameron Diaz' Schulkomödie ist ein Mainstreamtitel mit leicht verständlicher Grundidee.",
+      "directors": [
+        "Jake Kasdan"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bad_Teacher",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jake_Kasdan",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Jake Kasdan inszenierte „Walk Hard“, „Sex Tape“ und „Jumanji: Willkommen im Dschungel“. Sein Debüt „Zero Effect“ verband bereits Komik mit einer eigenwilligen Hauptfigur. „Bad Teacher“ richtet den Blick auf eine Institution, deren offizielle Ziele und tatsächliche Anreize auseinanderfallen können. Elizabeth Halseys (Cameron Diaz) Verhalten wird an konkreten Belohnungen wie Geldprämien sichtbar. Die Komödie braucht dadurch keinen nur abstrakt behaupteten Konflikt zwischen Berufsethos und Eigennutz."
+    },
+    {
+      "film_title_de": "Kill the Boss",
+      "film_title_original": "Horrible Bosses",
+      "film_year": 2011,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-043",
+      "familiarity_level": 2,
+      "familiarity_reason": "Das prominente Ensemble und der prägnante deutsche Titel machen die Arbeitsplatzkomödie gut erinnerbar.",
+      "directors": [
+        "Seth Gordon"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Kill the Boss",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Horrible_Bosses",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Seth_Gordon",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Seth Gordon wurde durch die Dokumentation „The King of Kong“ bekannt und inszenierte „Mein Schatz, unsere Familie und ich“, „Voll abgezockt“ sowie „Baywatch“. „Kill the Boss“ verteilt die Handlung auf drei Angestellte und drei unterschiedliche Machtfiguren. Die Beobachtung des Ensembles ist dabei entscheidend: Gespräche geben den Freunden scheinbare Sicherheit, während die praktische Umsetzung ihrer Ideen laufend Missverständnisse und Spuren produziert, die sie nicht kontrollieren können."
+    },
+    {
+      "film_title_de": "Old School – Wir lassen absolut nichts anbrennen",
+      "film_title_original": "Old School",
+      "film_year": 2003,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-045",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Campuskomödie ist im Umfeld von Ferrell und Vaughn bekannt, aber weniger universell als ihre größten Rollen.",
+      "directors": [
+        "Todd Phillips"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Old_School_(2003_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Todd_Phillips",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Todd Phillips inszenierte „Road Trip“, „Starsky & Hutch“ und die „Hangover“-Reihe; später drehte er „Joker“. „Old School“ gehört zu seinen Komödien über Erwachsene, die sich in eine vermeintlich freiheitsversprechende Gruppe zurückziehen. Die Verbindung im Film wird durch sehr konkrete Prüfungen und Hochschulregeln legitimiert. Gerade dieser bürokratische Rahmen macht die körperlichen Exzesse komisch, weil ungezügeltes Feiern plötzlich den Nachweis institutioneller Eignung liefern soll."
+    },
+    {
+      "film_title_de": "Happy Gilmore",
+      "film_title_original": "Happy Gilmore",
+      "film_year": 1996,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-047",
+      "familiarity_level": 2,
+      "familiarity_reason": "Sandlers Golfkomödie ist ein bekannter Sport- und Komikertitel mit markanter Hauptfigur.",
+      "directors": [
+        "Dennis Dugan"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Happy Gilmore",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Happy_Gilmore",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dennis_Dugan",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Dennis Dugan arbeitete mit Adam Sandler auch an „Big Daddy“, „Leg dich nicht mit Zohan an“ und „Kindsköpfe“. Zuvor führte er unter anderem bei „Ein Satansbraten“ Regie. „Happy Gilmore“ ordnet Sandlers aggressive Komik in eine klare Sporthandlung ein. Die ungewöhnliche Schlagtechnik erklärt die Stärke der Figur; das Training am Minigolfplatz bereitet später den letzten Putt vor. Ein scheinbar kleiner Trainingswitz erhält dadurch eine entscheidende dramaturgische Funktion."
+    },
+    {
+      "film_title_de": "Kindsköpfe",
+      "film_title_original": "Grown Ups",
+      "film_year": 2010,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-049",
+      "familiarity_level": 2,
+      "familiarity_reason": "Das gemeinsame Auftreten mehrerer bekannter Komiker und die Familiengeschichte machen den Titel zugänglich.",
+      "directors": [
+        "Dennis Dugan"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Kindsköpfe",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grown_Ups_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dennis_Dugan",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Dennis Dugan inszenierte mehrere Adam-Sandler-Komödien, darunter „Happy Gilmore“, „Big Daddy“ und „Meine erfundene Frau“. „Kindsköpfe“ ist stärker als Gruppen- und Familienfilm angelegt. Die Jugendfreundschaft muss sich unter veränderten sozialen Bedingungen wiederfinden. Als Lesart ist der gemeinsame Seeaufenthalt deshalb mehr als eine nostalgische Kulisse: Alte Wettbewerbe bekommen neue Zuschauer, weil Partnerinnen und Kinder die vertrauten männlichen Rituale nun mitbeurteilen und ihre Folgen erleben."
+    },
+    {
+      "film_title_de": "Dinner für Spinner",
+      "film_title_original": "Dinner for Schmucks",
+      "film_year": 2010,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-051",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Carell-Rudd-Paarung ist bekannt; die Beziehung zur französischen Vorlage setzt weitergehende Filmkenntnis voraus.",
+      "directors": [
+        "Jay Roach"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dinner_for_Schmucks",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jay_Roach",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Jay Roach führte bei den „Austin Powers“-Filmen und „Meine Braut, ihr Vater und ich“ Regie. Mit „Trumbo“ und „Bombshell“ bearbeitete er später auch historische und politische Stoffe. „Dinner für Spinner“ erweitert Francis Vebers französische Vorlage um eine amerikanische Karrieregeschichte. Die Organisation des Abends wird selbst zum moralischen Problem. Nicht die ungewöhnlichen Talente der Gäste, sondern ihre absichtlich verschwiegene Rolle erklärt die eigentliche Gemeinheit der Veranstaltung."
+    },
+    {
+      "film_title_de": "Die Hochzeits-Crasher",
+      "film_title_original": "Wedding Crashers",
+      "film_year": 2005,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-053",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Wilson-Vaughn-Komödie ist ein bekannter Publikumstitel mit unmittelbar verständlicher Hochzeitsidee.",
+      "directors": [
+        "David Dobkin"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wedding_Crashers",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/David_Dobkin_(director)",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "David Dobkin inszenierte „Shanghai Knights“, „Die Gebrüder Weihnachtsmann“, „Der Richter“ und „Eurovision Song Contest: The Story of Fire Saga“. Er arbeitete zudem an zahlreichen Musikvideos. „Die Hochzeits-Crasher“ lebt von der Abstimmung zwischen Owen Wilson und Vince Vaughn. Die Regie führt zunächst ihre routinierten Täuschungen vor und verlängert dann eine Begegnung zum Familienwochenende. Dadurch muss eine für einen Abend entwickelte Rolle plötzlich echte Vertrautheit über mehrere Tage vorspielen."
+    },
+    {
+      "film_title_de": "Fack ju Göhte",
+      "film_title_original": "Fack ju Göhte",
+      "film_year": 2013,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-055",
+      "familiarity_level": 1,
+      "familiarity_reason": "Titel, Zeki und Chantal besitzen im deutschsprachigen Mainstream eine besonders starke Wiedererkennbarkeit.",
+      "directors": [
+        "Bora Dağtekin"
+      ],
+      "production_countries": [
+        "Deutschland"
+      ],
+      "series": {
+        "name": "Fack ju Göhte",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fack_ju_G%C3%B6hte",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bora_Da%C4%9Ftekin",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Bora Dağtekin entwickelte „Türkisch für Anfänger“ für Fernsehen und Kino und inszenierte später „Das perfekte Geheimnis“. „Fack ju Göhte“ führt seine Zusammenarbeit mit Elyas M’Barek in ein Schulmilieu. Die Dialoge stellen unterschiedliche Sprach- und Statusvorstellungen direkt nebeneinander. Der ungewöhnliche Lehrerzugang bleibt zugleich praktisch motiviert: Zeki Müller sucht seine Beute, bevor die Beziehungen zu Lisi Schnabelstedt (Karoline Herfurth) und zur Klasse seinen Plan allmählich verändern."
+    },
+    {
+      "film_title_de": "Nichts zu verzollen",
+      "film_title_original": "Rien à déclarer",
+      "film_year": 2010,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-057",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die französisch-belgische Komödie ist ein bekannter Dany-Boon-Titel, aber weniger präsent als sein Sch’tis-Erfolg.",
+      "directors": [
+        "Dany Boon"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Belgien"
+      ],
+      "series": null,
+      "release_note": "Premiere am 15.12.2010 in Angers; regulärer französischer Kinostart am 26.01.2011. Das Paket nutzt die erste Veröffentlichung 2010.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nothing_to_Declare_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dany_Boon",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Dany Boon schrieb, inszenierte und spielte auch „Willkommen bei den Sch’tis“ sowie „Super-Hypochonder“. Seine Komödien machen sprachliche und regionale Vorurteile häufig an konkreten Begegnungen sichtbar. In „Nichts zu verzollen“ teilt er sich die Hauptrollen mit Benoît Poelvoorde. Die mobile Zollstreife verdichtet den politischen Hintergrund in eine praktische Aufgabe: Zwei Beamte, deren Routine von einer nationalen Trennung lebt, müssen nun im selben Fahrzeug zusammenarbeiten und einander vertrauen."
+    },
+    {
+      "film_title_de": "Brust oder Keule",
+      "film_title_original": "L'Aile ou la Cuisse",
+      "film_year": 1976,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-059",
+      "familiarity_level": 2,
+      "familiarity_reason": "Das Duchemin-Duo gehört zum bekannten de-Funès-Repertoire und ist durch das Essensthema leicht erinnerbar.",
+      "directors": [
+        "Claude Zidi"
+      ],
+      "production_countries": [
+        "Frankreich"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Etablierte französische Komödie mit de Funès und Coluche; die kulinarische Satire erweitert ihr Familiengerüst."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Wing_or_the_Thigh",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Claude_Zidi",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Claude Zidi inszenierte „Der Querkopf“, „Die Bestechlichen“ und „Astérix und Obélix gegen Caesar“. „Brust oder Keule“ verbindet Louis de Funès' präzise Autoritätskomik mit Coluches weniger strengem Auftreten. Der Familienkonflikt wird an zwei tatsächlichen Berufen sichtbar, Restaurantkritik und Zirkusarbeit. Die Auseinandersetzung mit industriell erzeugtem Essen erweitert das private Nachfolgeproblem um eine öffentliche Frage danach, wer Qualität beurteilt und wie dieses Urteil wirtschaftlich wirksam wird."
+    },
+    {
+      "film_title_de": "Fantomas",
+      "film_title_original": "Fantômas",
+      "film_year": 1964,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-061",
+      "familiarity_level": 2,
+      "familiarity_reason": "Juve, die Masken und Jean Marais prägen eine bekannte Abenteuerkomödienreihe.",
+      "directors": [
+        "André Hunebelle"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Italien"
+      ],
+      "series": {
+        "name": "Fantomas – Hunebelle-Reihe",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Prägende moderne Fantomas-Adaption, die Abenteuer und de-Funès-Komik in einer bekannten Trilogie verbindet."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fant%C3%B4mas_(1964_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Hunebelle",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://www.gaumont.com/en/movie/fantomas",
+          "supports": [
+            "Produktionsländer und Credit-Abgleich"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "André Hunebelle drehte Abenteuerfilme wie „Der Bucklige“ und „Im Zeichen der Lilie“ mit Jean Marais sowie die folgenden „Fantomas“-Filme. Seine Erfahrung mit Bewegung und Verfolgung bleibt in der modernen Maskengeschichte sichtbar. Louis de Funès bringt daneben eine stärker auf Mimik und Statusverlust gerichtete Komik ein. Die Besetzung verbindet somit ein ernst gespieltes Abenteuergerüst mit einem Ermittler, dessen Anspruch auf Kontrolle laufend durch den Gegner unterlaufen wird."
+    },
+    {
+      "film_title_de": "Der Gendarm von Saint Tropez",
+      "film_title_original": "Le Gendarme de Saint-Tropez",
+      "film_year": 1964,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-063",
+      "familiarity_level": 2,
+      "familiarity_reason": "Cruchot und Saint-Tropez bilden einen etablierten Einstieg in die bekannte Gendarm-Reihe.",
+      "directors": [
+        "Jean Girault"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Italien"
+      ],
+      "series": {
+        "name": "Der Gendarm",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Auftakt einer dauerhaft wiedererkennbaren französischen Komödienreihe mit Cruchot als zentraler Figur."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Troops_of_St._Tropez",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean_Girault",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Jean Girault arbeitete über mehrere „Gendarm“-Filme mit Louis de Funès zusammen und inszenierte außerdem „Balduin, der Ferienschreck“ sowie „Hasch mich, ich bin der Mörder“. Die erste Saint-Tropez-Komödie begründet ein wiederholbares Figurenumfeld aus Dienststelle, Familie und Ferienort. Als Beobachtung liegt ein wichtiger Rhythmus in den Statuswechseln: Cruchot tritt gegenüber Bürgern streng auf, muss aber selbst Gerbers (Michel Galabru) amtliche Überlegenheit anerkennen und verliert zuhause ebenfalls Kontrolle."
+    },
+    {
+      "film_title_de": "Louis, der Geizkragen",
+      "film_title_original": "L'Avare",
+      "film_year": 1980,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-065",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Molière-Verfilmung ist innerhalb des de-Funès-Werks spezieller und von unterschiedlichen deutschen Fassungen betroffen.",
+      "directors": [
+        "Jean Girault",
+        "Louis de Funès"
+      ],
+      "production_countries": [
+        "Frankreich"
+      ],
+      "series": null,
+      "release_note": "Originalfassung und deutlich gekürzte ältere deutsche Synchronfassung unterscheiden sich. Keine Frage hängt von der deutsch synchronisierten Wortwahl ab; Handlung und Credits beziehen sich auf das Original.",
+      "director_note": "Gemeinschaftsregie von Jean Girault und Louis de Funès.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://de.wikipedia.org/wiki/Louis,_der_Geizkragen",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean_Girault",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Louis_de_Fun%C3%A8s",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Jean Girault und Louis de Funès teilen sich die Regie dieser Molière-Verfilmung. Girault ist besonders mit der „Gendarm“-Reihe und „Hasch mich, ich bin der Mörder“ verbunden; für de Funès bleibt die Mitregie eine Besonderheit seiner überwiegend schauspielerischen Karriere. Der Film bewahrt sichtbare Theatermittel und lange Reden. Harpagons (Louis de Funès) Geldangst wird dadurch sowohl sprachlich erklärt als auch mit der körperlichen Übersteigerung des Komikers unmittelbar vorgeführt."
+    },
+    {
+      "film_title_de": "Louis, das Schlitzohr",
+      "film_title_original": "Le Corniaud",
+      "film_year": 1965,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-067",
+      "familiarity_level": 2,
+      "familiarity_reason": "Das Oury-Duo ist ein bekannter französischer Komödientitel; die genauen Schmuggelverstecke verlangen Detailkenntnis.",
+      "directors": [
+        "Gérard Oury"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Italien"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Etablierte Bourvil-de-Funès-Paarung und prägender französischer Roadmovie der Täuschung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Sucker",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/G%C3%A9rard_Oury",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://www.cnc.fr/professionnels/visas-et-classification/29466",
+          "supports": [
+            "Produktionsländer und Credit-Abgleich"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Gérard Oury inszenierte „Die große Sause“, „Die Abenteuer des Rabbi Jacob“ und „Das Superhirn“. In „Louis, das Schlitzohr“ verbindet er Bourvils freundliche Urlauberfigur mit Louis de Funès' nervösem Betrüger. Die Roadmovieform verteilt den Konflikt auf wechselnde Orte und Autopannen. Als dramaturgische Beobachtung besitzen dieselben Reparaturen zwei Bedeutungen: Für Maréchal lösen sie ein Alltagsproblem, für Saroyan zerstören sie zunehmend den verborgen gebliebenen Schmuggelplan."
+    },
+    {
+      "film_title_de": "Der große Blonde mit dem schwarzen Schuh",
+      "film_title_original": "Le Grand Blond avec une chaussure noire",
+      "film_year": 1972,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-069",
+      "familiarity_level": 2,
+      "familiarity_reason": "Pierre Richards musikalischer Köder ist ein bekannter Spionagekomödien-Klassiker mit prägnantem Titel.",
+      "directors": [
+        "Yves Robert"
+      ],
+      "production_countries": [
+        "Frankreich"
+      ],
+      "series": {
+        "name": "Der große Blonde",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Wiedererkennbarer Spionagekomödien-Klassiker, dessen Perspektivwechsel das Genre systematisch umkehrt."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Tall_Blond_Man_with_One_Black_Shoe",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Yves_Robert",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Yves Robert führte bei „Der Krieg der Knöpfe“, „Ein Elefant irrt sich gewaltig“ und „Wir kommen alle in den Himmel“ Regie. „Der große Blonde“ entstand nach einem Drehbuch von Francis Veber. Die Spionagekomödie nutzt Pierre Richards zerstreute Bewegungen als Material für falsche professionelle Interpretationen. Entscheidend ist das Wissen des Publikums: Perrins (Pierre Richard) gewöhnlicher Alltag kann harmlos bleiben, während die entfernten Beobachter in jeder Bewegung eine geplante Agentenaktion sehen möchten."
+    },
+    {
+      "film_title_de": "Die Flüchtigen",
+      "film_title_original": "Les Fugitifs",
+      "film_year": 1986,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-071",
+      "familiarity_level": 3,
+      "familiarity_reason": "Das Richard-Depardieu-Duo ist vertraut, diese konkrete Fluchtgeschichte aber eher ein Kennertitel.",
+      "directors": [
+        "Francis Veber"
+      ],
+      "production_countries": [
+        "Frankreich"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Les_Fugitifs",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Francis_Veber",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Francis Veber schrieb und inszenierte „Der Hornochse und sein Zugpferd“, „Zwei irre Spaßvögel“ und „Dinner für Spinner“. Wiederkehrende Figurenkonstellationen verbinden dabei eine praktisch selbstsichere Person mit einem unbeabsichtigt störenden Partner. „Die Flüchtigen“ ergänzt Gérard Depardieu und Pierre Richard um die Tochter Jeanne (Anaïs Bret). Ihre Bindung an Lucas gibt dem unfreiwilligen Duo einen emotionalen Grund, der stärker wird als das ursprüngliche Bedürfnis, den anderen möglichst schnell loszuwerden."
+    },
+    {
+      "film_title_de": "Der große Diktator",
+      "film_title_original": "The Great Dictator",
+      "film_year": 1940,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-073",
+      "familiarity_level": 1,
+      "familiarity_reason": "Chaplins politische Doppelrolle und die Weltkugelszene gehören zum besonders leicht erkennbaren Filmkanon.",
+      "directors": [
+        "Charles Chaplin"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Classics": "Kanonische politische Tonfilmkomödie mit Chaplins Doppelrolle und direktem Freiheitsappell."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Great_Dictator",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Charles Chaplin schrieb, inszenierte und spielte „Goldrausch“, „Lichter der Großstadt“ und „Moderne Zeiten“. „Der große Diktator“ nutzt seine körperliche Komik in einem ausdrücklich politischen Tonfilm. Die Doppelrolle verbindet eine verfolgte Alltagsfigur mit einem Herrscher desselben Aussehens. Im Finale wechselt Chaplin von der satirischen Entlarvung zur direkten Ansprache. Der bekannte komische Körper erhält damit eine neue öffentliche Funktion, die über eine bloße Verwechslung hinausgeht."
+    },
+    {
+      "film_title_de": "Der General",
+      "film_title_original": "The General",
+      "film_year": 1926,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-075",
+      "familiarity_level": 3,
+      "familiarity_reason": "Keatons Eisenbahnfilm ist im Stummfilmkanon wichtig, seine Figuren und Einzelabläufe verlangen jedoch gezieltes Interesse.",
+      "directors": [
+        "Buster Keaton",
+        "Clyde Bruckman"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung am 31.12.1926 in Tokio; New Yorker Start am 05.02.1927. Daher 1926, nicht ausschließlich das verbreitete US-Startjahr 1927.",
+      "director_note": "Gemeinschaftsregie von Buster Keaton und Clyde Bruckman.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Classics": "Zentraler Stummfilm des technisch präzisen visuellen Humors und ein dauerhaft diskutiertes Werk Keatons."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_General_(1926_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Buster_Keaton",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Clyde_Bruckman",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Buster Keaton und Clyde Bruckman teilen sich die Regie von „Der General“. Keatons „Sherlock Jr.“ und „Der Navigator“ zeigen ebenfalls seine präzise Verbindung von Körper und Technik; Bruckman arbeitete auch als Gagautor für andere Komiker. Die Lokomotive bestimmt hier Tempo und Raum der Pointen. Hindernisse müssen im richtigen Moment behandelt werden, sodass der Humor aus nachvollziehbaren Bewegungsabläufen statt aus erklärendem Dialog entsteht."
+    },
+    {
+      "film_title_de": "Manche mögen’s heiß",
+      "film_title_original": "Some Like It Hot",
+      "film_year": 1959,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-077",
+      "familiarity_level": 1,
+      "familiarity_reason": "Monroe, Lemmon, Curtis und die Schluss-Pointe bilden einen besonders stark verankerten Komödienklassiker.",
+      "directors": [
+        "Billy Wilder"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Classics": "Kanonische amerikanische Ensemblekomödie mit prägenden Verkleidungsrollen und besonders bekannter Schluss-Pointe."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Some_Like_It_Hot",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Billy_Wilder",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Billy Wilder inszenierte „Frau ohne Gewissen“, „Boulevard der Dämmerung“ und „Das Apartment“. Gemeinsam mit I. A. L. Diamond schrieb er „Manche mögen’s heiß“. Die Komödie verbindet Gangstergefahr mit mehreren ineinander geschobenen Identitäten. Tony Curtis und Jack Lemmon müssen nicht nur Kleidung wechseln, sondern unterschiedliche Wissensstände auseinanderhalten. Die Schluss-Pointe hält konsequent an Osgoods (Joe E. Brown) gelassener Reaktion fest, selbst als Jerry (Jack Lemmon) das vermeintlich entscheidende Gegenargument liefert."
+    },
+    {
+      "film_title_de": "Das Apartment",
+      "film_title_original": "The Apartment",
+      "film_year": 1960,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-079",
+      "familiarity_level": 2,
+      "familiarity_reason": "Wilders Büro- und Beziehungskomödie ist kanonisch, aber weniger sofort über einzelne Figuren erkennbar als Manche mögen’s heiß.",
+      "directors": [
+        "Billy Wilder"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Classics": "Kanonische Verbindung von Bürokomik, Beziehungsgeschichte und Kritik an beruflicher Abhängigkeit."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Apartment",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Billy_Wilder",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Billy Wilder drehte neben „Das Apartment“ unter anderem „Manche mögen’s heiß“, „Das verlorene Wochenende“ und „Boulevard der Dämmerung“. Sein gemeinsames Drehbuch mit I. A. L. Diamond verbindet Bürokomik mit einer schmerzhaften privaten Geschichte. Jack Lemmons kleine Höflichkeitsgesten zeigen, welchen Preis berufliches Entgegenkommen haben kann. Der Wohnungsschlüssel bleibt dabei ein konkreter Gegenstand, an dem sich Zugehörigkeit, Verfügung und Baxters (Jack Lemmon) späterer Widerstand gegen die Erwartung der Vorgesetzten ablesen lassen."
+    },
+    {
+      "film_title_de": "Arsen und Spitzenhäubchen",
+      "film_title_original": "Arsenic and Old Lace",
+      "film_year": 1944,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-081",
+      "familiarity_level": 2,
+      "familiarity_reason": "Der Grant-Film ist ein bekannter Klassiker der schwarzen Familienfarce und mit seinem Bühnenstoff gut erinnerbar.",
+      "directors": [
+        "Frank Capra"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Etablierte schwarze Farce, deren Hausensemble und Bühnenherkunft den späteren Komödienvergleich lohnen."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arsenic_and_Old_Lace_(film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Frank_Capra",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Frank Capra inszenierte „Es geschah in einer Nacht“, „Mr. Smith geht nach Washington“ und „Ist das Leben nicht schön?“. „Arsen und Spitzenhäubchen“ bearbeitet dagegen eine besonders schwarze Bühnenfarce von Joseph Kesselring. Cary Grants körperliches Entsetzen steht neben der vollkommen ruhigen Gastfreundlichkeit der Tanten. Die konzentrierte Hauskulisse erlaubt schnelle Eintritte und Enthüllungen; ein vermeintlich vertrauter Familienraum wird dadurch ohne große Reise zur immer bedrohlicheren Sammlung verborgener Geschichten."
+    },
+    {
+      "film_title_de": "Ladykillers",
+      "film_title_original": "The Ladykillers",
+      "film_year": 1955,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-083",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die britische Ealing-Komödie ist für Klassikerkenner wichtig, steht aber weniger im allgemeinen Mainstream.",
+      "directors": [
+        "Alexander Mackendrick"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Prägendes Werk der Ealing-Komödie mit nachhaltig wiedererkennbarer Umkehr von Harmlosigkeit und Bedrohung."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Ladykillers_(1955_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alexander_Mackendrick",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Alexander Mackendrick drehte für Ealing unter anderem „Freut euch des Lebens“ und „Der Mann im weißen Anzug“. Später inszenierte er „Dein Schicksal in meiner Hand“. „Ladykillers“ verbindet respektable häusliche Formen mit einer kriminellen Gruppe. Die alte Vermieterin bleibt moralisch beharrlich, während ihre gefährlichen Gäste ihre Zusammenarbeit verlieren. Als Lesart liegt die besondere Umkehr darin, dass gesellschaftliche Harmlosigkeit wirksamer werden kann als der vermeintlich durchdachte Plan erfahrener Verbrecher."
+    },
+    {
+      "film_title_de": "Der rosarote Panther",
+      "film_title_original": "The Pink Panther",
+      "film_year": 1963,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-085",
+      "familiarity_level": 2,
+      "familiarity_reason": "Clouseau, Sellers und Mancinis Musik bieten bekannte Anknüpfungspunkte; der Diamantenplot muss gesondert erinnert werden.",
+      "directors": [
+        "Blake Edwards"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Der rosarote Panther",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "Erster Start am 18.12.1963 in Italien; US-Start am 18.03.1964. Die italienische Veröffentlichung ist kein Beleg für ein italienisches Produktionsland.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Classics": "Auftakt der bekannten Clouseau-Reihe mit prägender Musik und Titelsequenz."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Pink_Panther_(1963_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Blake_Edwards",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://www.bfi.org.uk/film/61c7a11a-e66a-598b-b42f-5c172aa7496c/the-pink-panther",
+          "supports": [
+            "Produktionsländer und Credit-Abgleich"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Blake Edwards inszenierte „Frühstück bei Tiffany“, „Die Tage des Weines und der Rosen“ und später „Victor/Victoria“. Mit Peter Sellers entwickelte er die Clouseau-Filme. Der erste „rosarote Panther“ ist noch stark als elegante Diamantendiebstahlgeschichte angelegt. Sellers' Inspektor bringt körperliche Störungen in dieses kultivierte Milieu. Henry Mancinis Musik verstärkt die geschmeidige Oberfläche, gegen die ein misslungener Schritt oder eine peinliche Zimmerbegegnung besonders deutlich hervortritt."
+    },
+    {
+      "film_title_de": "Der Partyschreck",
+      "film_title_original": "The Party",
+      "film_year": 1968,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-087",
+      "familiarity_level": 3,
+      "familiarity_reason": "Der geschlossene Partyfilm ist ein prägender Sellers-Titel für Kenner körperlicher Komik.",
+      "directors": [
+        "Blake Edwards"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "leicht",
+      "category_reasons": {
+        "Classics": "Klassischer geschlossener Partyfilm, an dem sich die Ausbreitung visueller Pointen besonders gut beobachten lässt."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Party_(1968_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Blake_Edwards",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Blake Edwards arbeitete mit Peter Sellers an der „Pink Panther“-Reihe und inszenierte außerdem „Frühstück bei Tiffany“ sowie „Victor/Victoria“. „Der Partyschreck“ bündelt das Geschehen in einer weitgehend geschlossenen Feier. Als Beobachtung ist die Einrichtung selbst an den Gags beteiligt: Wasserflächen, Bedienfelder und bewegliche Haustechnik verändern den Raum. Bakshis (Sellers) kleine Versuche, einen Fehler höflich zu korrigieren, setzen dadurch immer größere praktische Folgen in Gang."
+    },
+    {
+      "film_title_de": "Good Bye, Lenin!",
+      "film_title_original": "Good Bye, Lenin!",
+      "film_year": 2003,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-089",
+      "familiarity_level": 2,
+      "familiarity_reason": "Der deutsche Wende-Film ist durch Brühl, DDR-Alltagsobjekte und die Nachrichtentäuschung breit bekannt.",
+      "directors": [
+        "Wolfgang Becker"
+      ],
+      "production_countries": [
+        "Deutschland"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Good_Bye,_Lenin!",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wolfgang_Becker_(director,_born_1954)",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Wolfgang Becker inszenierte „Das Leben ist eine Baustelle“ und „Ich und Kaminski“ und war Mitgründer von X Filme Creative Pool. „Good Bye, Lenin!“ verbindet Familiengeschichte und politischen Umbruch über sehr konkrete Alltagsgegenstände. Die Regie zeigt nicht nur veränderte Straßenszenen, sondern den Aufwand, eine einzelne Wohnung scheinbar in der Vergangenheit zu halten. Daniel Brühls Alex wird so zum Regisseur einer privaten Wirklichkeit, die ständig neue sichtbare Störungen erklären muss."
+    },
+    {
+      "film_title_de": "Tucker & Dale vs. Evil",
+      "film_title_original": "Tucker & Dale vs. Evil",
+      "film_year": 2010,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-091",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Horrorkomödie ist besonders im Genreumfeld bekannt und lebt von der Kenntnis üblicher Slasherbilder.",
+      "directors": [
+        "Eli Craig"
+      ],
+      "production_countries": [
+        "Kanada",
+        "Indien",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tucker_%26_Dale_vs._Evil",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Eli_Craig",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://www.bfi.org.uk/film/492c40ec-c079-5b88-8482-0e70d2785561/tucker-and-dale-vs-evil",
+          "supports": [
+            "Produktionsländer und Credit-Abgleich"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Eli Craig schrieb und inszenierte „Tucker & Dale vs. Evil“ und drehte später „Little Evil“ sowie „Clown in a Cornfield“. Seine Arbeit verbindet Horrorformen mit komischen Verschiebungen ihrer Erwartungen. Im Debüt erhält das Publikum die harmlosen Ursachen hinter vielen bedrohlichen Bildern. Die Studierenden sehen diese Ursachen nicht. Als Lesart liegt die Parodie deshalb vor allem in der falschen Interpretation bekannter Genrebilder und nicht nur in übertriebener Gewaltdarstellung."
+    },
+    {
+      "film_title_de": "Zombieland",
+      "film_title_original": "Zombieland",
+      "film_year": 2009,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-093",
+      "familiarity_level": 2,
+      "familiarity_reason": "Das Survival-Ensemble und die Regel-Einblendungen machen den Film zu einem bekannten modernen Horror-Komödientitel.",
+      "directors": [
+        "Ruben Fleischer"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": {
+        "name": "Zombieland",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm dieser Reihe."
+      },
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Zombieland",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ruben_Fleischer",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Ruben Fleischer gab mit „Zombieland“ sein Spielfilm-Regiedebüt und inszenierte später „Venom“, „Gangster Squad“ sowie „Uncharted“. Auch „Zombieland: Doppelt hält besser“ stammt von ihm. Der erste Film verbindet Roadmovie, Überlebensregeln und unterschiedliche Darstellertempi. Jesse Eisenbergs vorsichtiger Erzähler ordnet das Chaos mit Schrift und Regeln, während Woody Harrelsons offensivere Figur andere Lösungen bevorzugt. Die grafischen Einblendungen werden damit zu einem Teil der komischen Erzählweise."
+    },
+    {
+      "film_title_de": "Monty Pythons wunderbare Welt der Schwerkraft",
+      "film_title_original": "And Now for Something Completely Different",
+      "film_year": 1971,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-095",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die frühe Python-Sketchsammlung setzt eher gezielte Gruppenkenntnis voraus als die späteren großen Kinofilme.",
+      "directors": [
+        "Ian MacNaughton"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "Ian MacNaughton ist der Filmregisseur. Terry Gilliam verantwortet die Animationen und wird deshalb nicht als allgemeiner zweiter Filmregisseur geführt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {
+        "Classics": "Frühe Python-Kinoproduktion mit mehreren kanonischen Sketchen und charakteristischer Collageanimation."
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/And_Now_for_Something_Completely_Different",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ian_MacNaughton",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Ian MacNaughton war ein wichtiger Regisseur von „Monty Python’s Flying Circus“ und arbeitete außerdem an Spike Milligans Fernsehreihe „Q“. Sein Kinofilm stellt frühere Python-Sketche neu zusammen, statt eine einzelne Abenteuerhandlung zu entwickeln. Terry Gilliams Animationen verbinden die Auftritte auf einer eigenen visuellen Ebene. Der Regiebeitrag ist hier vor allem als Organisation von Rhythmus, Übergängen und wechselnden Spielformen zu verstehen; die berühmteren späteren Python-Kinofilme haben andere Regiecredits."
+    },
+    {
+      "film_title_de": "Vier Fäuste gegen Rio",
+      "film_title_original": "Non c'è due senza quattro",
+      "film_year": 1984,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-097",
+      "familiarity_level": 2,
+      "familiarity_reason": "Das Spencer-Hill-Duo besitzt hohe Bekanntheit; dieser konkrete Doppelrollenfilm ist ein vertrauter Repertoiretitel.",
+      "directors": [
+        "Enzo Barboni"
+      ],
+      "production_countries": [
+        "Italien"
+      ],
+      "series": null,
+      "release_note": "",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Double_Trouble_(1984_film)",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Enzo_Barboni",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Enzo Barboni inszenierte unter dem Namen E. B. Clucher auch „Die rechte und die linke Hand des Teufels“, „Vier Fäuste für ein Halleluja“ und „Die Miami Cops“. Seine Zusammenarbeit mit Bud Spencer und Terence Hill nutzt deren unterschiedliche Körperlichkeit für verständlich aufgebaute Kampfszenen. „Vier Fäuste gegen Rio“ ergänzt dieses Verfahren durch Doppelrollen: Dieselben Gesichter können vorsichtige Millionäre oder schlagfertige Ersatzleute verkörpern, sodass das Verhalten die Identität erkennbar macht."
+    },
+    {
+      "film_title_de": "Guest House Paradiso",
+      "film_title_original": "Guest House Paradiso",
+      "film_year": 1999,
+      "subdomain": "Komödie",
+      "reference_question_id": "KOM-202609-P02-L-099",
+      "familiarity_level": 4,
+      "familiarity_reason": "Der britische Mayall-Edmondson-Film ist im deutschsprachigen Mainstream wenig präsent und eignet sich als Entdeckung.",
+      "directors": [
+        "Adrian Edmondson"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich"
+      ],
+      "series": null,
+      "release_note": "Erster britischer Kinostart am 03.12.1999. Die Sammlung führt 2001; verwendet wird die Filmfassung nach erster Veröffentlichung 1999.",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "category_reasons": {},
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Guest_House_Paradiso",
+          "supports": [
+            "Regie",
+            "erste Veröffentlichung",
+            "Produktionsländer",
+            "Handlung und Besetzung"
+          ],
+          "checked_on": "2026-09-29"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Adrian_Edmondson",
+          "supports": [
+            "Filmografie und beruflicher Hintergrund"
+          ],
+          "checked_on": "2026-09-29"
+        }
+      ],
+      "director_context": "Adrian Edmondson ist vor allem als Schauspieler und Komiker aus „The Young Ones“ und „Bottom“ bekannt; seine Zusammenarbeit mit Rik Mayall prägt auch „Guest House Paradiso“. Hier übernimmt er selbst die Regie und spielt Eddie. Statt eine umfangreiche Kinofilmografie zu suggerieren, erklärt dieser Hintergrund die Form genauer: Das aggressive Duo erhält einen geschlossenen Betrieb als Bühne, auf der Streit, improvisierte Reparaturen und körperliche Katastrophen immer neue Gäste mit erfassen."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Fragenimport – Vertrag Version 1
 
-Aktuelle Ergänzung (29.09.2026): [Sci-Fi-Paket](SciFi-Ergaenzung.md) mit 360 gelieferten Fragen und 50 Filmdatensätzen integriert. 13 CSV-Pakete: 2.520 Fragen/2.100 Ziele; einschließlich 737 Jahres-/Regieergänzungen 3.257 Fragen/2.837 Ziele. Die folgenden Paketabschnitte dokumentieren ihren jeweiligen historischen Importstand.
+Aktuelle Ergänzung (29.09.2026): [Komödie-Paket](Komoedie-Ergaenzung.md) mit 360 gelieferten Fragen und 50 Filmdatensätzen integriert. 14 CSV-Pakete: 2.880 Fragen/2.400 Ziele; einschließlich 837 Jahres-/Regieergänzungen 3.717 Fragen/3.237 Ziele. Die folgenden Paketabschnitte dokumentieren ihren jeweiligen historischen Importstand.
 
 ## Tatsächlich gelieferte Quelle
 

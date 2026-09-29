@@ -12,6 +12,7 @@
 - [CSV-Import, vollständige Feldzuordnung und Inhaltsgrenzen](../../../docs/Importformat.md)
 - [Kopierfertiger Auftrag für neue Fragenpakete und Prioritäten](../../../docs/Prompt-Neue-Fragenpakete.md)
 - [Fragenbestand und 300 Filmfassungen – Stand 27.09.2026](../../../docs/Fragenbestand-2026-09-27.json)
+- [Komödie-Ergänzung: 50 Filme, Filmdaten und erhaltener Fortschritt](../../../docs/Komoedie-Ergaenzung.md)
 - [Sci-Fi-Ergänzung: 50 Filme, Regie-Hintergründe und erhaltener Fortschritt](../../../docs/SciFi-Ergaenzung.md)
 - [Musik-Ergänzung: 25 Filme, Import und erhaltener Fortschritt](../../../docs/Musik-Ergaenzung.md)
 - [Erklärungstiefe und geprüfte Darstellerergänzungen](../../../docs/Erklaerungstiefe.md)
