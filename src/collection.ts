@@ -1,10 +1,8 @@
-import type { State } from "./model";
+import { hasAnswer, type State } from "./model";
 
 export function answeredTopics(state: State): Set<string> {
   const answered = new Set(
-    state.events
-      .filter((event) => event.answerId !== null)
-      .map((event) => event.knowledgeId),
+    state.events.filter(hasAnswer).map((event) => event.knowledgeId),
   );
   return new Set(
     state.questions

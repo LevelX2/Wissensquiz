@@ -10,7 +10,11 @@ const changed = (sound: boolean) => ({
 function fixture() {
   let local: State | undefined;
   let receipt: SyncReceipt | undefined;
-  let remote: { state: State; revision: number } | null = null;
+  let remote: {
+    state: State;
+    revision: number;
+    needsCareerSave?: boolean;
+  } | null = null;
   const backups: State[] = [];
   const store: SyncStore = {
     local: async () => local,
@@ -64,6 +68,23 @@ it("lädt den Online-Stand auf einem neuen Gerät vor dem Spielen", async () => 
   sync.offer(f.local!);
   await sync.flush();
   expect(f.remote.revision).toBe(4);
+});
+it("sichert eine beim Lesen umgestellte Filmkarriere einmal trotz identischer normalisierter Fingerabdrücke", async () => {
+  const f = fixture();
+  f.remote = { state: changed(true), revision: 4, needsCareerSave: true };
+  const sync = new AccountSync(f.store, () => {});
+  await sync.prepare();
+  sync.offer(f.local!);
+  await sync.flush();
+  expect(f.remote.revision).toBe(5);
+  expect(f.remote.needsCareerSave).toBeUndefined();
+  const restarted = new AccountSync(f.store, () => {});
+  await restarted.prepare();
+  restarted.offer(f.local!);
+  await restarted.flush();
+  expect(f.remote.revision).toBe(5);
+  sync.stop();
+  restarted.stop();
 });
 it("holt lokal gespeicherte Offline-Antworten auch nach Neuladen nach", async () => {
   const f = fixture();

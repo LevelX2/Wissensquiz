@@ -28,6 +28,14 @@ export const packages = [
     path: "/komoedie-ergaenzung-fragen.csv",
     filename: "Komoedie_Ergaenzung_360_Fragen.csv",
   },
+  {
+    path: "/alle-genres-120-filme-fragen.csv",
+    filename: "Alle_Genres_120_Filme_960_Fragen.csv",
+  },
+  {
+    path: "/preistraeger-fragen.csv",
+    filename: "Preistraeger_200_Fragen.csv",
+  },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

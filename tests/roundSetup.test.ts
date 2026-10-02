@@ -2,6 +2,7 @@ import { expect, it } from "vitest";
 import { emptyState } from "../src/model";
 import { readRoundSetup } from "../src/roundSetup";
 import { validateBackup } from "../src/storage";
+import { difficulties } from "../src/filters";
 
 it("liest alte Sicherungen ohne Rundenauswahl und erhält historische Favoriten", () => {
   const state = emptyState();
@@ -12,7 +13,7 @@ it("liest alte Sicherungen ohne Rundenauswahl und erhält historische Favoriten"
     familiarities: [1, 2, 3, 4],
     genres: null,
     categories: [],
-    difficulties: ["leicht", "mittel", "schwer"],
+    difficulties: [...difficulties],
   });
   expect(state).toEqual(before);
   expect(validateBackup(state).favorites).toEqual(["Alien"]);

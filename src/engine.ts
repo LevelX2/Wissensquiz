@@ -1,6 +1,6 @@
 import type {
   AnswerEvent,
-  Learning,
+  AnswerChoice,
   Mode,
   Question,
   Round,
@@ -20,64 +20,9 @@ import { discoveryContext } from "./discovery";
 import { matchesTopic } from "./categories";
 import { prepareFactQuestion } from "./filmFacts";
 import { errorTrainingContext, type OpenMistake } from "./errorTraining";
-export const DAY = 86_400_000;
-export const RULES = {
-  version: "1",
-  intervals: [1, 3, 7, 21],
-  wrongMs: 10 * 60_000,
-  guessedMs: 6 * 60 * 60_000,
-  masteryDays: 4,
-  masteryGap: 7 * DAY,
-  badgeMinimum: 10,
-};
-// Learning days use the device's local calendar, independently of the round timer.
-export const dayKey = (at: number) => {
-  const d = new Date(at);
-  return `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
-};
-export function learn(
-  previous: Learning | undefined,
-  event: AnswerEvent,
-): Learning {
-  const p: Learning = previous
-    ? structuredClone(previous)
-    : {
-        knowledgeId: event.knowledgeId,
-        stage: 0,
-        status: "entdeckt",
-        due: 0,
-        lastSecure: null,
-        lastSeenAt: null,
-        lastAdvancedDay: null,
-        secureDays: [],
-        seen: 0,
-      };
-  const previousSeenAt = p.lastSeenAt ?? p.lastSecure;
-  p.lastSeenAt = event.at;
-  p.seen++;
-  if (!event.correct || event.guessed) {
-    p.stage = 0;
-    p.status = "entdeckt";
-    p.due = event.at + (event.guessed ? RULES.guessedMs : RULES.wrongMs);
-    return p;
-  }
-  const day = dayKey(event.at);
-  if (p.lastAdvancedDay === day || (p.stage > 0 && event.at < p.due)) return p;
-  const gap = previousSeenAt === null ? 0 : event.at - previousSeenAt;
-  p.secureDays = [...new Set([...p.secureDays, day])];
-  p.stage = Math.min(4, p.stage + 1);
-  p.status =
-    p.status === "gefestigt" ||
-    (p.stage === 4 &&
-      p.secureDays.length >= RULES.masteryDays &&
-      gap >= RULES.masteryGap)
-      ? "gefestigt"
-      : "geübt";
-  p.lastAdvancedDay = day;
-  p.lastSecure = event.at;
-  p.due = event.at + RULES.intervals[p.stage - 1] * DAY;
-  return p;
-}
+import { RULES } from "./learning";
+import { careerSummary, migrateCareer } from "./career";
+export { DAY, RULES, dayKey, learn } from "./learning";
 export function score(correct: boolean, elapsedMs: number) {
   const valid = correct && elapsedMs >= 0 && elapsedMs < 30_000;
   return {
@@ -240,14 +185,11 @@ export const badgeEligible = (q: Question) =>
     (q.domain === "Film / Science-Fiction" &&
       q.badgeTags.includes("grundlagen")));
 export function rebuild(state: State, awardBadges = false) {
-  state.learning = {};
-  for (const event of [...state.events].sort((a, b) => a.at - b.at))
-    state.learning[event.knowledgeId] = learn(
-      state.learning[event.knowledgeId],
-      event,
-    );
+  const career = careerSummary(state);
+  state.learning = career.learning;
   const done = state.rounds.filter((r) => r.status === "completed");
-  state.experience = done.length * 10;
+  migrateCareer(state, career.earned);
+  state.experience = career.earned + state.career!.legacyBonus;
   state.records = {};
   for (const r of done.filter((r) => r.mode === "rekord")) {
     const value = points(state.events.filter((e) => e.roundId === r.id));
@@ -296,12 +238,14 @@ export function startRound(
     },
   );
   const questions = selected.map((q) =>
-    prepareFactQuestion(
-      q,
-      [...state.rounds]
-        .reverse()
-        .flatMap((r) => r.questions)
-        .find((previous) => previous.id === q.id),
+    structuredClone(
+      prepareFactQuestion(
+        q,
+        [...state.rounds]
+          .reverse()
+          .flatMap((r) => r.questions)
+          .find((previous) => previous.id === q.id),
+      ),
     ),
   );
   if (!questions.length)
@@ -320,11 +264,15 @@ export function startRound(
     startedAt: now,
     finishedAt: null,
     status: "active",
-    ruleVersion: selectionRule(
-      questions,
-      options.filters?.familiarities ?? familiarities,
-    ),
+    ruleVersion:
+      selectionRule(
+        questions,
+        options.filters?.familiarities ?? familiarities,
+      ) + (state.settings.solutionDisplay === "round" ? ".L" : ""),
     before: structuredClone(state.learning),
+    ...(state.settings.solutionDisplay === "round"
+      ? { solutionDisplay: "round" as const }
+      : {}),
   };
   state.rounds.push(round);
   return round;
@@ -333,7 +281,7 @@ export function answer(
   state: State,
   roundId: string,
   questionId: string,
-  answerId: string | null,
+  choice: AnswerChoice,
   elapsedMs: number,
   at = Date.now(),
 ) {
@@ -341,6 +289,8 @@ export function answer(
   if (!round || round.status !== "active") return;
   const q = round.questions[round.events.length];
   if (!q || q.id !== questionId) return; // transactional double-submit guard
+  const answerId = typeof choice === "string" ? choice : null;
+  const dontKnow = choice !== null && typeof choice === "object";
   if (answerId !== null && !q.answers.some((a) => a.id === answerId))
     throw new Error("Unbekannte Antwort.");
   const correct =
@@ -352,6 +302,9 @@ export function answer(
     knowledgeId: q.knowledgeId,
     version: q.version,
     answerId: round.mode === "rekord" && elapsedMs >= 30_000 ? null : answerId,
+    ...(dontKnow && (round.mode !== "rekord" || elapsedMs < 30_000)
+      ? { dontKnow: true as const }
+      : {}),
     correct,
     guessed: false,
     at,

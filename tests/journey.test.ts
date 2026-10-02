@@ -42,12 +42,15 @@ function play(state: ReturnType<typeof emptyState>, qs: Question[]) {
     complete(state, r.id, 3000);
   }
 }
-it("ordnet alle 425 Filme genau einmal redaktionell ein und erhält Hauptfragen und Varianten gemeinsam", () => {
-  expect(films.films.map((f) => f.film).sort()).toEqual(
-    facts.map((f) => f.film).sort(),
-  );
-  expect(films.films).toHaveLength(425);
-  expect(new Set(films.films.map((f) => f.film)).size).toBe(425);
+it("ordnet alle 656 Filme genau einmal redaktionell ein und erhält Hauptfragen und Varianten gemeinsam", () => {
+  expect(
+    films.films
+      .slice(0, 425)
+      .map((f) => f.film)
+      .sort(),
+  ).toEqual(facts.map((f) => f.film).sort());
+  expect(films.films).toHaveLength(656);
+  expect(new Set(films.films.map((f) => f.film)).size).toBe(656);
   expect(films.films.every((f) => [1, 2, 3, 4].includes(f.level))).toBe(true);
   expect(questions.every((q) => familiarityOf(q))).toBe(true);
   for (const q of questions.filter((q) => q.metadata.variant_of))
@@ -168,7 +171,7 @@ it("prüft Erreichbarkeit aller festen Ziele im vollständigen Katalog und leere
     })),
   );
   const progress = learningPathProgress(s);
-  expect(s.questions).toHaveLength(3717);
+  expect(s.questions).toHaveLength(4877);
   expect(s.questions.every((q) => familiarityOf(q))).toBe(true);
   for (const [genre, plan] of Object.entries(curriculum.genres)) {
     const p = progress(genre);

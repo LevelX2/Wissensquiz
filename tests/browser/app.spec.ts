@@ -135,7 +135,10 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Leicht",
   );
-  await expect(page.locator(".answer")).toHaveCount(4);
+  await expect(page.locator(".answer")).toHaveCount(5);
+  await expect(
+    page.getByRole("button", { name: "Keine Ahnung", exact: true }),
+  ).toBeEnabled();
   await expect(page.locator("footer")).not.toBeVisible();
   expect(
     await page.evaluate(
@@ -183,6 +186,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await genres.getByLabel("Sci-Fi", { exact: true }).check();
   await genres.getByLabel("Horror", { exact: true }).check();
   await levels.getByLabel("Schwer", { exact: true }).uncheck();
+  await levels.getByLabel("Experte", { exact: true }).uncheck();
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,
@@ -336,6 +340,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
             const state = read.result;
             state.questions = state.questions.filter(
               (q: { id: string }) =>
+                !q.id.includes("-202610-P01-") &&
                 !q.id.startsWith("MAR-") &&
                 !q.id.startsWith("ROM-") &&
                 !q.id.startsWith("ART-") &&
@@ -353,6 +358,8 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
                   "MartialArts_Quiz_180_Fragen.csv",
                   "RomCom_Quiz_180_Fragen.csv",
                   "Arthouse_Quiz_180_Fragen.csv",
+                  "Alle_Genres_120_Filme_960_Fragen.csv",
+                  "Preistraeger_200_Fragen.csv",
                 ].includes(r.filename) &&
                 (packageCount >= 8 ||
                   r.filename !== "Classics_Quiz_180_Fragen.csv") &&
@@ -389,7 +396,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
-      page.getByText("3717 Fragen · 3237 Wissensziele · 0 Demo-Fragen"),
+      page.getByText("4877 Fragen · 4397 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
   });
 }
@@ -537,6 +544,10 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   await page
     .getByRole("group", { name: "Schwierigkeitsstufen", exact: true })
     .getByLabel("Schwer", { exact: true })
+    .uncheck();
+  await page
+    .getByRole("group", { name: "Schwierigkeitsstufen", exact: true })
+    .getByLabel("Experte", { exact: true })
     .uncheck();
   await page.getByRole("button", { name: "Rekordrunde", exact: false }).click();
   await page.getByRole("button", { name: "Losspielen" }).click();
@@ -709,7 +720,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await expect(page.locator(".result-score")).toContainText("4 / 5");
   await page.screenshot({ path: "test-results/result.png", fullPage: true });
   await page.reload();
-  await expect(page.getByText("10 Erfahrung · Level 1")).toBeVisible();
+  await expect(page.locator(".sidebar-bottom")).toContainText("17 / 100 XP");
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   await expect(page.locator(".history").first()).toContainText("4/5 richtig");
   await expect(
@@ -718,7 +729,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByText("3717 Fragen · 3237 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("4877 Fragen · 4397 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
@@ -885,7 +896,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Gültige Fragen importieren" })
     .click();
   await expect(
-    page.getByText("3729 Fragen · 3249 Wissensziele · 12 Demo-Fragen"),
+    page.getByText("4889 Fragen · 4409 Wissensziele · 12 Demo-Fragen"),
   ).toBeVisible();
   await expect(
     page.getByRole("button", {

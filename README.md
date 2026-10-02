@@ -1,8 +1,10 @@
 # Wissensquiz · Dein Filmkosmos
 
+Lokal ergänzt am 02.10.2026: **asynchrone Duelle** mit drei gemeinsamen Zehnerrunden auf Zeit, Zufallsgegnern oder Linkeinladung, fünf offenen Spielplätzen und 72-Stunden-Fristen. Vor Solo-/Duellstart lassen sich Lösungen direkt oder nach der eigenen Runde anzeigen. Servermigration und öffentlicher Katalog mit 4.827 Fragen im vorhandenen Supabase-Projekt eingerichtet; App noch nicht veröffentlicht. [Spielvertrag](docs/Asynchrone-Filmduelle.md), [Katalog und Einrichtung](docs/Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026).
+
 Spielbare deutsche React-/TypeScript-App für kurze Filmquizrunden mit dauerhaftem Lernfortschritt im Browser. Kein Konto, Backend oder KI-Dienst erforderlich.
 
-Aktueller Inhalt nach der [Komödie-Ergänzung](docs/Komoedie-Ergaenzung.md), 29.09.2026: **3.717 Fragen, 3.237 Wissensziele und 425 Filme**. Komödie umfasst jetzt 725 Fragen zu 79 Filmen. 14 unveränderte CSV-Pakete, Filmdaten und vier Bekanntheitsgruppen; vorhandene Fortschritte und Freischaltungen bleiben erhalten. Paketabschnitte weiter unten dokumentieren die historischen Importstände.
+Aktueller lokaler Inhalt mit [Alle-Genres-Ergänzung](docs/Alle-Genres-Ergaenzung.md) und [Preisträger](docs/Preistraeger.md), 02.10.2026: **4.877 Fragen, 4.397 Wissensziele und 656 Filme**. 16 CSV-Pakete, Filmdaten zu allen Filmen und vier Bekanntheitsgruppen. Preisträger enthält 200 redaktionell erstellte Fragen, je 50 für Leicht/Mittel/Schwer/Experte; bestehende Fortschritte und Freischaltungen bleiben erhalten. Neue Ergänzungen noch nicht veröffentlicht. Paketabschnitte weiter unten dokumentieren historische Importstände.
 
 ## Starten
 
@@ -35,12 +37,13 @@ npm run preview
 - **Filmreise:** tatsächlich neue Wissensziele zuerst; Wiederholungen aus den letzten drei Runden möglichst vermeiden. Neu freigeschaltete Stufen erhalten einen gezielten Einstieg. Bei kleinen Beständen sind Wiederholungen weiterhin möglich.
 - **Freies Spiel:** zufällige Wissensziele ohne Lernstandsgewichtung und Zeitdruck.
 - **Fehlertraining:** offene Fehlantworten und Zeitabläufe gezielt wiederholen, ohne Zeitdruck. Häufige und jüngste Fehler zuerst; nach einer sicheren richtigen Antwort fällt das Ziel heraus. Im Rundenergebnis direkt die Fehler dieser Runde üben.
+- **Keine Ahnung:** fünfte Auswahl in allen Modi, bewusst ohne Raten. Zählt als falsch; zunächst nur die richtige Lösung sanft hervorheben, danach Erklärung. Die bewusste Wahl bleibt in Statistik, Rückblick und Sicherungen erkennbar; Zeitabläufe bleiben getrennt.
 - **Rundenergebnis:** Trefferquote mit Antwortfolge, Fehler-/Zeitablauf-/Ratebilanz, sichere Serie, neu entdeckte Ziele, gelöste frühere Fehler und Treffer je Genre. Rückblick nach Fehlern und geratenen Treffern filterbar.
 - **Rekordrunde:** 30 Sekunden pro Frage; 100 Punkte für richtig plus 2 je vollständig verbleibender Sekunde. 25 volle Sekunden = 150 Punkte. Lokale Rekorde getrennt nach Thema, Schwierigkeit, tatsächlicher Rundengröße und Regelversion.
 - **Highscores:** startet mit „Meine Rekorde“ und kurzen Bestwert-Karten samt direktem Rückblick. Alle früheren Runden, weitere Filter und Vergleichsdetails sind aufklappbar. „Spielervergleich“ zeigt richtige Antworten, Runden oder Trefferquote aller Modi; passende Rekordpunkte separat unter „Rekordrunden“. Direkte Aktionen zur ersten Rekordauswahl und zur Anmeldung. Bestätigte Konten nehmen automatisch teil, mit Hinweis bei Registrierung und im Profil. Kategorien und Rangregeln bleiben getrennt. Browser-/Offline-Ergebnisse sind kein manipulationsgeschützter Wettbewerb.
 - Nach jeder Antwort Erklärung, optional Vertiefung, spezifisches Fehlerfeedback, Merksatz und Quellen. „War geraten“ verändert nur das Lernen, keine Punkte. Bewusster Wechsel zur nächsten Frage.
 - Alle 720 Vertiefungen auf fehlende Darstellernamen geprüft; bei 627 Fragen passende Ergänzungen mit Besetzungsquellen. Originalstimmen, Puppenspiel und Darstellerwechsel sind berücksichtigt. Rohdaten und Spielstände bleiben erhalten; [Umfang und Erklärungstiefe](docs/Erklaerungstiefe.md).
-- Sammlung mit Filter „Alle“ / „Mit beantworteten Fragen“ (richtige und falsche Antworten zählen), exklusiven Statuszahlen, maximal drei Lieblingsthemen, begrenztem Fachabzeichen und Rundenrückblick. Erfahrung: 10 XP je abgeschlossener Runde, Level 1 + ganze 100 XP.
+- Sammlung mit Filter „Alle“ / „Mit beantworteten Fragen“ (richtige und falsche Antworten zählen), exklusiven Statuszahlen, maximal drei Lieblingsthemen, begrenztem Fachabzeichen und Rundenrückblick. Filmkarriere mit Leistungs-XP, steigenden Levelhürden, fünf Titeln, sichtbarem XP-Balken und erhaltenen Altständen; Karriereaufträge bleiben offen. [Regeln](docs/Filmkarriere-und-XP.md).
 - Meldungen werden nur lokal gespeichert und können exportiert werden.
 
 ## Enthaltene Fragen

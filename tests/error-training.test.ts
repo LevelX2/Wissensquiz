@@ -166,7 +166,7 @@ describe("Fehlertraining", () => {
     expect(state.learning[qs[0].knowledgeId].stage).toBe(0); // already advanced today
     complete(state, retry.id, now + 22);
     complete(state, retry.id, now + 23);
-    expect(state.experience).toBe(30);
+    expect(state.experience).toBe(9); // 1 Antwort + 2 sicher + 2 neu + 4 erste Fehlerkorrektur
     expect(state.records).toEqual({});
     state.settings.roundSetup = {
       mode: "fehler",

@@ -10,11 +10,16 @@ export async function rankingRequest<T>(
       new Promise<never>((_, reject) => {
         timer = setTimeout(() => {
           controller.abort();
-          reject(new Error("Ranking request timed out"));
+          reject(new RankingTimeout());
         }, 10_000);
       }),
     ]);
   } finally {
     clearTimeout(timer);
+  }
+}
+export class RankingTimeout extends Error {
+  constructor() {
+    super("Ranking request timed out");
   }
 }

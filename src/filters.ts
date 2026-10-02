@@ -1,7 +1,7 @@
 import type { Question, QuizFilters, Round } from "./model";
 import { familiarityOf, familiarities } from "./familiarity";
 
-export const difficulties = ["leicht", "mittel", "schwer"] as const;
+export const difficulties = ["leicht", "mittel", "schwer", "experte"] as const;
 export const normalizeGenre = (genre: string) =>
   genre === "Sci-Fi"
     ? "Science-Fiction"

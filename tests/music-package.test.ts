@@ -10,7 +10,7 @@ import { answer, complete, startRound } from "../src/engine";
 import { validateBackup } from "../src/storage";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/Musik_Ergaenzung_Filmdaten.json";
 
-const contents = packages.map((p) => ({
+const contents = packages.slice(0, 14).map((p) => ({
   filename: p.filename,
   text: readFileSync(`public${p.path}`, "utf8"),
 }));

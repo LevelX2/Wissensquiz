@@ -1,5 +1,13 @@
 # Lern-, Runden- und Speichervertrag
 
+## Asynchrone Duelle und Lösungsanzeige
+
+Seit 02.10.2026 lokal ergänzt: drei gemeinsame Zehnerrunden mit 30 Sekunden pro Frage, vier Spielblöcken und serverseitiger Wertung von einem Punkt pro Treffer. Eigenes Antwortlernen bleibt erhalten; eine komplett selbst gespielte Runde erhält normale Abschluss-XP, auch bei späterem Gegnerausfall. Duellpunkte sind keine Rekordpunkte. Der Server friert Fragen und Reihenfolgen ein und bewahrt die erste Startzeit auch bei Pause und Wiederaufnahme. [Vollständiger Duellvertrag](Asynchrone-Filmduelle.md).
+
+Vor Solo- und Duellstart lässt sich `solutionDisplay: "question" | "round"` wählen. Fehlend bedeutet bisheriges direktes Feedback. Die Auswahl wird in der Runde gespeichert; bei gesammelter Anzeige erscheinen neutrale Bestätigung und eine Rate-Kennzeichnung vor der Antwort, Lösungen erst nach der eigenen Runde. Keine Trefferfarben, Antworttöne, laufenden Trefferwerte oder lösungsverratenden Zusatzansichten vorher. Timer und manuelle Weiter-Aktion bleiben erhalten. „Keine Ahnung“ hat dann ebenfalls erst im Rückblick eine Auflösung. Rekordregeln erhalten `.L` für gesammelte Anzeige; Kategorien bleiben getrennt.
+
+Duell-Lernereignisse werden nach serverseitiger Freigabe eigener Lösungen übernommen, bei direktem Feedback je Antwort, bei gesammeltem Feedback nach den eigenen zehn Fragen bzw. endgültigem Duellende. Ihre ursprünglichen Antwortzeiten und Wissensziele bleiben erhalten. Stabile IDs machen Wiederabruf und Gerätewechsel idempotent; Teilrunden werden lokal als abgebrochen geführt und erhalten keine Abschluss-XP. Lokaler Modus `ueben` plus Duellkennung, kein zusätzlicher Rekordmodus. Der vorhandene Spielleistungsvergleich zählt diese Lernrunden zu Freies Spiel. Migration und Katalog sind live eingerichtet, die App noch unveröffentlicht: [Einrichtung](Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026).
+
 ## Lernzustand pro Wissensziel
 
 Fragenvarianten teilen die explizite `knowledge_id`. Eine Runde verwendet jedes Wissensziel höchstens einmal. Noch ungesehene Ziele besitzen keinen Lernzustand. Jede beantwortete oder abgelaufene Frage erzeugt ein Ereignis.
@@ -9,7 +17,7 @@ Fragenvarianten teilen die explizite `knowledge_id`. Eine Runde verwendet jedes 
 | Erste sichere richtige Antwort | Stufe 1, „geübt“, nächste Wiederholung nach 24 Stunden. |
 | Sichere fällige Antwort an neuem lokalem Kalendertag | Stufe um eins erhöhen, maximal 4; Abstände der Stufen: 1, 3, 7, 21 Tage. |
 | Sichere Antwort am selben Tag oder vor Fälligkeit bei bestehender Stufe | Teilnahme zählen, Stufe und Termin nicht erhöhen. |
-| Falsch oder Zeit abgelaufen | Aktuelle Stufe 0, „entdeckt“, Wiederholung nach zehn Minuten. |
+| Falsch, „Keine Ahnung“ oder Zeit abgelaufen | Aktuelle Stufe 0, „entdeckt“, Wiederholung nach zehn Minuten. |
 | Richtige Antwort als geraten markiert | Punkte unverändert; Lernereignis mit demselben eindeutigen Schlüssel korrigieren, Fortschritt neu ableiten. Stufe 0, „entdeckt“, Wiederholung nach sechs Stunden. |
 
 „Gefestigt“ erfordert Stufe 4, sichere stufenwirksame Antworten an mindestens vier verschiedenen Tagen und mindestens sieben Tage seit der vorherigen Antwort auf dieses Wissensziel. Auch eine frühe Zwischenantwort setzt diesen tatsächlichen Abstand neu an, ohne Stufe oder Fälligkeit zu erhöhen. Beispiel ohne Zwischenantwort: Tag 0 → Tag 1 → Tag 4 → Tag 11; nächste Wiederholung Tag 32. Eine zusätzliche Antwort an Tag 10 verhindert die Festigung an Tag 11; nach ausreichendem Abstand kann die nächste fällige Antwort festigen. Ein einzelner Treffer, eine gelesene Erklärung oder sofortiges Wiederholen reichen nicht.
@@ -18,9 +26,21 @@ Nach einem Fehler kann bereits eine neue sichere Antwort wieder „geübt“ erg
 
 Eine einmal erreichte Festigung bleibt bei weiteren sicheren Antworten erhalten; erst falsch oder geraten setzt die aktuelle Stufe zurück. Frühe Zwischenantworten verhindern also eine erstmalige verfrühte Festigung, nehmen aber bestätigtes Wissen bei erneuter richtiger Antwort nicht zurück.
 
+## Keine Ahnung als Antwortoption
+
+Seit 02.10.2026 lokal umgesetzt: Unter den vier gemischten Antworten steht in allen Modi die zusätzliche Auswahl **Keine Ahnung**. Sie gehört nicht zum Frageninhalt und wird nicht mitgemischt. Nutzerziel ist, bewusstes Nichtwissen auszudrücken, ohne eine beliebige falsche Antwort als eigene Wahl zu sehen. Keine Änderung an CSV, Frageobjekten, Antwort-IDs oder Lösungsschlüsseln.
+
+Die Auswahl erzeugt genau ein normales Fehlereignis mit `answerId: null`, `dontKnow: true`, `correct: false`, `guessed: false` und null Rekordpunkten. Lernstufe 0, zehn Minuten Fälligkeit, offene Fehler, Tagesgrenzen und die nur beim Abschluss vergebenen Karriere-XP verwenden ihre jeweiligen Fachregeln. In der Rekordrunde gilt die bestehende 30-Sekunden-Grenze weiter: eine verspätete Auswahl wird als Zeitablauf ohne `dontKnow` gespeichert. Nachträgliche Antwortwahl oder „War geraten“ machen daraus keinen Treffer.
+
+Erst nach erfolgreichem lokalem Speichern zeigt die Oberfläche für 1,1 Sekunden nur die richtige Lösung mit zwei sanften Leuchteffekten und einem optionalen leisen Zweiklang. Falsche Antwortmöglichkeiten, Erklärung und Weiter-Aktion erscheinen in dieser Phase nicht. Danach folgen normale Erklärung, Merksatz und aufklappbare Antworten; keine falsche Möglichkeit ist als gewählt markiert. Bei reduzierten Animationen bleibt die Lösung ruhig hervorgehoben. Neuladen/Wiederaufnahme zeigt unmittelbar die normale gespeicherte Antwortansicht, ohne erneute Animation oder erneutes Ereignis.
+
+Rundenauswertung zählt „Keine Ahnung“ unter falsch, mit sichtbarer Teilmenge; Zeitabläufe bleiben getrennt. Rückblick und Fortschrittsbeschriftung nennen die bewusste Auswahl. Fragenstatistik, Profilquote und Sammlung zählen sie als beantwortet und falsch. Das optionale Ereignisfeld bleibt in lokaler, JSON- und komprimierter Kontosicherung erhalten; widersprüchliche Markierungen werden abgewiesen. Ältere Sicherungen bleiben lesbar. Alte App-Tabs vor der Nutzung neuer Kontostände aktualisieren, damit sie die Kennzeichnung erhalten.
+
+Für die gemeinsame Spielerquote liegt Migration `202610020002_dont_know_rankings.sql` bereit: explizite Nichtwissensantworten zählen als falsche Antworten einschließlich der 50-Antworten-Schwelle, Zeitabläufe weiterhin nicht. Rekordprojektion und Zugriffsrechte bleiben erhalten. Vor der nächsten Veröffentlichung einmal im bestehenden Supabase-Projekt anwenden; aktuell nur lokal geprüft.
+
 ## Auswahl und Runden
 
-Die Hauptauswahl kombiniert mehrere Filmgenres und Schwierigkeitsstufen. Ein Genre stammt unverändert aus `metadata.subdomain`, ersatzweise aus `domain`; `Science-Fiction` wird als „Sci-Fi“ angezeigt. Innerhalb einer Gruppe gilt ODER, zwischen Genre und Stufe UND. Aktuell sind Sci-Fi, Action, Horror, Fantasy, Komödie, Western und Drama enthalten; zukünftige importierte Genres werden aus den vorhandenen Fragen abgeleitet. Classics und Arthouse schränken zusätzlich ein; keine neue Auswahl einzelner Filme/Reihen. Leere Auswahl liefert keine Runde. Die gewählten Genres werden nicht künstlich gleichverteilt; die bestehenden Lernregeln wählen aus dem passenden Gesamtbestand.
+Die Hauptauswahl kombiniert mehrere Filmgenres und Schwierigkeitsstufen. Ein Genre stammt unverändert aus `metadata.subdomain`, ersatzweise aus `domain`; `Science-Fiction` wird als „Sci-Fi“ angezeigt. Innerhalb einer Gruppe gilt ODER, zwischen Genre und Stufe UND. Genres werden aus den vorhandenen Fragen abgeleitet. Classics, Arthouse und Preisträger schränken zusätzlich ein; keine neue Auswahl einzelner Filme/Reihen. Leere Auswahl liefert keine Runde. Die gewählten Genres werden nicht künstlich gleichverteilt; die bestehenden Lernregeln wählen aus dem passenden Gesamtbestand.
 
 Neue Runden speichern `filters.genres`, `filters.difficulties` und `filters.familiarities` als sortierte, duplikatfreie Listen. Sicherungen behalten diese Felder und prüfen, dass die Rundensnapshots zur Auswahl passen. Alte Runden ohne `filters` verwenden weiterhin ihre bisherigen `topic`-/`difficulty`-Felder; keine Migration von Fragen oder Lernereignissen nötig.
 
@@ -40,7 +60,7 @@ Seit 02.10.2026 ergänzt `fehler` die drei bisherigen Modi. Offene Fehler werden
 
 Fehlertraining wählt ausschließlich solche offenen Ziele innerhalb der gewählten Genres, Schwierigkeiten, Filmgruppen und Kategorien. Häufigere Fehler seit der letzten sicheren Antwort zuerst, bei Gleichstand jüngster Fehler zuerst, weitere Gleichstände zufällig. Die zuletzt falsch beantwortete konkrete Frage wird bevorzugt; passt sie nicht zur Auswahl, darf eine passende Variante desselben Ziels verwendet werden. Je Ziel ein Platz, erste Runde bis fünf, danach bis zehn; weniger offene Fehler ergeben kürzere Runden. Kein Auffüllen mit ungespielten oder sicheren Fragen. Startvorschau und Rundenstart verwenden denselben Ereigniskontext.
 
-Die Zehn-Minuten-Fälligkeit muss für dieses bewusst gestartete Training nicht abgewartet werden. Die bestehenden Lernintervalle, Tagesgrenzen, „War geraten“-Korrektur, Freischaltungen und einmaligen 10 Abschluss-XP gelten weiter. Sofort sicher gelöst bedeutet nicht langfristig gefestigt. Fehlerrunden sind entspannte, offline fortsetzbare Runden mit den üblichen Snapshots und Antwortreihenfolgen; keine Rekordpunkte.
+Die Zehn-Minuten-Fälligkeit muss für dieses bewusst gestartete Training nicht abgewartet werden. Die bestehenden Lernintervalle, Tagesgrenzen, „War geraten“-Korrektur, Freischaltungen gelten weiter; Karriere-XP werden nach den Antwort-/Lernleistungen dieser abgeschlossenen Runde vergeben. Sofort sicher gelöst bedeutet nicht langfristig gefestigt. Fehlerrunden sind entspannte, offline fortsetzbare Runden mit den üblichen Snapshots und Antwortreihenfolgen; keine Rekordpunkte.
 
 Die Ergebnisansicht zeigt Trefferquote (richtige Antworten einschließlich geratener Treffer / tatsächliche Fragenzahl), Antwortfolge, falsche Antworten, Zeitabläufe ohne Wahl, geratene Treffer und die längste Folge sicherer richtiger Antworten. Dazu neu kennengelernte Ziele (vor der Runde noch ohne Lernstand), in dieser Runde sicher gelöste frühere Fehler, neu geübte/gefestigte Ziele, damalige Freischaltungen und Treffer je Genre. Historische Zahlen beziehen sich auf den Rundensnapshot, seine Ereignisse und die vorherigen Runden; spätere Trainings ändern sie nicht.
 
@@ -68,7 +88,9 @@ Absteigend nach Gesamtpunkten; gleiche Punktzahl ergibt denselben Rang (1, 1, 3)
 
 Genre-Icons illustrieren die Auswahl, sind keine erworbenen Abzeichen. Das bestehende Sci-Fi-Abzeichen wird mit einem Schloss vor Erwerb und einer Medaille mit Stern nach Erwerb dargestellt. Es gibt noch keine eigenen Action-/Horror-/Fantasy-Abzeichen; die bisherigen Vergaberegeln bleiben unverändert.
 
-10 XP pro eindeutig abgeschlossener Runde; erneutes Laden/Abschließen erzeugt keine weiteren XP. Level = 1 + floor(XP / 100). XP werden aus abgeschlossenen Runden abgeleitet und schalten keine Wissensabzeichen frei.
+Seit 02.10.2026 lokal: Filmkarriere statt pauschaler Runden-XP. Beantwortete Frage +1 XP; sichere richtige Antwort zusätzlich +2/+3/+5/+5 für leicht/mittel/schwer/experte. Antwort- und Treffer-XP jeweils einmal je Wissensziel und lokalem Kalendertag, über alle Modi und Varianten. Erstmals sicher gelöst +2, ersten offenen Fehler sicher korrigiert +4, erstmals gefestigt +8, jeweils einmal je Wissensziel. Nur abgeschlossene Runden vergeben XP; Zeitabläufe keine Antwort-XP, geratene Treffer keine sicheren Treffer-XP. Mehrfacher Abschluss und Wiederherstellung zahlen nicht erneut.
+
+Aufstieg von Level L auf L + 1: `100 + 50 × (L − 1)` XP. Eintrittsschwelle Level L: `25 × (L − 1) × (L + 2)`. Titel ab Level 1/5/10/20/35: Kinogänger, Filmfan, Cineast, Filmchronist, Filmlegende. Bestehende Level und ihr Teilfortschritt werden bei Bedarf mit einmaliger Startgutschrift erhalten; die historische Antwortfolge wird neu ausgewertet. Karriere-XP verändern weder Rekordpunkte noch Genre-Abzeichen oder Filmreise-Freischaltungen. Vollständige Regeln, Anzeige, Altstände und Ranglistenvertrag unter [Filmkarriere und XP](Filmkarriere-und-XP.md).
 
 Die Auszeichnung **„Sci-Fi – 10 leichte Wissensziele gefestigt“** wird nur bei mindestens zehn geeigneten Zielen angeboten. Geeignet sind im gelieferten Bestand `domain=Film`, `subdomain=Science-Fiction`, `difficulty=leicht`; es existieren 50 unterschiedliche Ziele. Vergabe erst beim Rundenabschluss nach einer möglichen „War geraten“-Korrektur. Die Auszeichnung bleibt nach Erwerb bestehen, auch bei neuen Inhalten oder späteren Fehlern. Die Favoritenfunktion ist entfernt. Das historische Feld `favorites` bleibt ausschließlich zur Sicherungskompatibilität erhalten.
 
@@ -76,7 +98,7 @@ Die Auszeichnung **„Sci-Fi – 10 leichte Wissensziele gefestigt“** wird nur
 
 IndexedDB-Datenbank `wissensquiz`, Store `state`, Gastschlüssel `current`, Schema 1. Optionale Konten verwenden `account:<Supabase-Host>:<Benutzer-ID>` im selben Store; bestehende Gastdaten bleiben unverändert. Der Zustand enthält Fragen inklusive Themen-/Wissenszielzuordnung, Inhaltsversionen, Runden mit vollständigen Fragensnapshots und Antwortreihenfolge, Ereignisse, Lernstände, Termine, XP, Rekorde, Abzeichen, historische Favoritenwerte, Einstellungen, Importberichte und lokale Meldungen.
 
-Jede Änderung liest den aktuellen Zustand innerhalb einer einzigen Readwrite-Transaktion und schreibt ihn vollständig zurück. Antwort-ID = Runden-ID + Wissensziel-ID. Eine Frage akzeptiert nur die erste Antwort an der erwarteten Rundenposition. Transaktionsabbruch hinterlässt keinen Teilstand. Lernstände werden deterministisch aus Ereignissen neu aufgebaut; XP und Rekorde aus abgeschlossenen Runden. Für den Testbestand ist dieser schlanke Ansatz ausreichend, bei großen Ereignisarchiven wäre inkrementelle Verarbeitung sinnvoll.
+Jede Änderung liest den aktuellen Zustand innerhalb einer einzigen Readwrite-Transaktion und schreibt ihn vollständig zurück. Antwort-ID = Runden-ID + Wissensziel-ID. Eine Frage akzeptiert nur die erste Antwort an der erwarteten Rundenposition. Transaktionsabbruch hinterlässt keinen Teilstand. Lernstände werden deterministisch aus Ereignissen neu aufgebaut; XP aus den Antworten und Lernfortschritten abgeschlossener Runden einschließlich einmaliger Altgutschrift, Rekorde aus abgeschlossenen Rekordrunden. Für den Testbestand ist dieser schlanke Ansatz ausreichend, bei großen Ereignisarchiven wäre inkrementelle Verarbeitung sinnvoll.
 
 JSON-Wiederimport prüft Schema, Grenzen, eindeutige IDs, Antwortreihenfolge, Fragensnapshots, Ereigniszuordnungen und Punkte. Abgeleitete Werte werden neu berechnet. Bestehende Abzeichen bleiben Bestandteil der Sicherung; diese ist kein manipulationssicherer Leistungsnachweis. Import ersetzt den Stand erst nach ausdrücklicher Bestätigung. Aktive Rekordrunden werden dabei abgebrochen. Reset verlangt die Texteingabe `LÖSCHEN` und löscht Fortschritt, nicht den Fragenbestand.
 
@@ -145,13 +167,13 @@ In Filmreise und Freiem Spiel steht unter dem Fragetext eine kompakte, aufklappb
 
 Die Bilanz wird rein lesend aus vorhandenen Antwortereignissen abgeleitet, über sämtliche Spielmodi und Rundenstatus. Antworten aus aktiven oder abgebrochenen Runden zählen mit. Eine gewählte Antwort erhöht beantwortet und entweder richtig oder falsch. Zeitabläufe ohne Antwort zählen separat als ohne Antwort. Richtige geratene Treffer bleiben statistisch richtig; ihre Anzahl wird in der Detailansicht ausgewiesen, ohne die strengeren Lernregeln zu ändern.
 
-Die aufgeklappte Ansicht zeigt außerdem die gemeinsame Bilanz aller Formulierungen/Varianten desselben Wissensziels nach knowledgeId. Auch historische, nicht mehr im aktuellen Fragenbestand befindliche Varianten werden über ihre gespeicherten Ereignisse berücksichtigt. Genre-/Classics-Wechsel erzeugen keinen zweiten Zähler. Nur angezeigte Fragen ohne gespeicherte Antwort bzw. Zeitablauf lassen sich aus dem bisherigen Verlauf nicht verlässlich zählen und erhöhen diese Statistik nicht. Neuladen zählt nicht erneut.
+Die aufgeklappte Ansicht zeigt außerdem die gemeinsame Bilanz aller Formulierungen/Varianten desselben Wissensziels nach knowledgeId. Auch historische, nicht mehr im aktuellen Fragenbestand befindliche Varianten werden über ihre gespeicherten Ereignisse berücksichtigt. Genre-/Classics-Wechsel erzeugen keinen zweiten Zähler. „Keine Ahnung“ zählt als beantwortet/falsch; ohne Antwort bedeutet weiterhin Zeitablauf. Nur angezeigte Fragen ohne gespeicherte Antwort bzw. Zeitablauf lassen sich aus dem bisherigen Verlauf nicht verlässlich zählen und erhöhen diese Statistik nicht. Neuladen zählt nicht erneut.
 
 Keine neuen Statistikzähler, keine Migration und keine Änderung an Lernfortschritt oder Ereignissen. Die vorhandene lokale/automatische Kontosicherung und JSON-Sicherung enthalten bereits die benötigte Historie. Der allgemeine Ruhehinweis unter den Lernantworten entfällt zugunsten der kompakten Statistik; mobile Weiter-Aktion bleibt fest erreichbar.
 
 ## Arthouse und gemeinsame Kategorienauswahl
 
-Classics und Arthouse sind unabhängig wählbare kuratierte Zusatzkategorien innerhalb der ausgewählten Genres. Beide gewählt bedeutet eine Vereinigung (ODER), keine Schnittmenge. Die Rundenkategorie wird kanonisch als Classics + Arthouse und optional mit „: Film/Reihe“ gespeichert; frühere Classics-Runden bleiben gültig. Globale Summen, Auswahl und Fortschritt bleiben nach Frage-/Wissensziel-ID eindeutig. RomCom und Rom-Com werden beim neuen Import zum Genre Rom-Com zusammengeführt, Quellwert bleibt erhalten. Details und vollständige Zahlen im Importvertrag.
+Classics, Arthouse und Preisträger sind unabhängig wählbare kuratierte Zusatzkategorien innerhalb der ausgewählten Genres. Mehrere gewählt bedeuten eine Vereinigung (ODER), keine Schnittmenge. Die Rundenkategorie wird kanonisch als Classics + Arthouse und optional mit „: Film/Reihe“ gespeichert; frühere Classics-Runden bleiben gültig. Globale Summen, Auswahl und Fortschritt bleiben nach Frage-/Wissensziel-ID eindeutig. RomCom und Rom-Com werden beim neuen Import zum Genre Rom-Com zusammengeführt, Quellwert bleibt erhalten. Details und vollständige Zahlen im Importvertrag.
 
 ## Jahresfragen, Regie und Filmdaten (26.09.2026)
 
@@ -162,7 +184,7 @@ Fragenfortschritt: Grün mit Häkchen bedeutet richtig, Rot mit Kreuz falsch; oh
 
 ## Gespeicherte Rundenvorbereitung (27.09.2026)
 
-Optionales `settings.roundSetup`: `mode`, `genres` (null = alle einschließlich späterer Imports, [] = keine), `categories` (Classics/Arthouse) und `difficulties`. Defaults für alte Sicherungen: entdecken, alle Genres, keine Zusatzkategorie, alle drei manuellen Stufen. Nicht mehr vorhandene Genres werden bei der Anzeige entfernt; fallen alle früher gewählten Genres weg, gilt wieder alle. Eine absichtlich leere Auswahl bleibt leer. Keine einzelne Film-/Reihenauswahl in neuen Runden; historische Rundensnapshots und Themenfilter bleiben lesbar und fortsetzbar.
+Optionales `settings.roundSetup`: `mode`, `genres` (null = alle einschließlich späterer Imports, [] = keine), `categories` (Classics/Arthouse/Preisträger) und `difficulties`. Defaults für fehlende Rundenvorbereitung: entdecken, alle Genres, keine Zusatzkategorie, alle vier manuellen Stufen. Bereits gespeicherte Dreistufen-Auswahlen bleiben erhalten; Experte kann ausdrücklich zugeschaltet werden. Nicht mehr vorhandene Genres werden bei der Anzeige entfernt; fallen alle früher gewählten Genres weg, gilt wieder alle. Eine absichtlich leere Auswahl bleibt leer. Keine einzelne Film-/Reihenauswahl in neuen Runden; historische Rundensnapshots und Themenfilter bleiben lesbar und fortsetzbar.
 
 Auswahländerungen werden transaktional gespeichert; die Oberfläche zeigt die Wahl sofort, Kontosynchronisierung erhält ausschließlich bestätigte Speicherstände. Speicherfehler nehmen die vorläufige Auswahl zurück und zeigen den vorhandenen Fehlerhinweis. Die Filmreise ignoriert manuelle Stufen-/Bekanntheitsfilter, erhält sie aber für den späteren Wechsel zurück. JSON- und Kontosicherungsvalidierung erhalten das optionale Objekt; Lernereignisse und IDs ändern sich nicht.
 
@@ -173,3 +195,8 @@ Online-Sicherungen verwenden zusätzlich eine verlustfreie Kompaktkodierung des 
 ## Antwortsignale (27.09.2026)
 
 Richtig: heller aufsteigender Sinus-Zweiklang (659 → 880 Hz), insgesamt 250 ms. Falsch: tiefer absteigender Dreieck-Zweiklang (277 → 196 Hz), insgesamt 265 ms, geringerer Spitzenpegel. Beide weich ein- und ausgeblendet; keine laute Fehlersirene. Die vorhandene Soundoption, Offlinefähigkeit und Wiedergabe erst nach gespeicherter Antwort bleiben erhalten. Start, Weiter, Zeitablauf, Abschluss, Freischaltungen und Vibration unverändert. Der wahrgenommene Pegel hängt weiterhin von Gerät und Systemlautstärke ab.
+
+
+## Preisträger und Experte (02.10.2026)
+
+200 neue Fragen mit je 50 Zielen pro Schwierigkeit. Experte ist im Freien Spiel, in Rekordrunden und für offene Fehler frei auswählbar. Die Filmreise behält Leicht/Mittel/Schwer und ihre festen Freischaltziele; Expertenfragen sind dort ausgenommen. Sichere Expertenantworten bringen zusätzlich fünf Karriere-XP. Speicherung und Kategorievereinigung erhalten historische Ereignisse, Runden und verdiente Rechte. [Inhalts- und Quellenvertrag](Preistraeger.md).

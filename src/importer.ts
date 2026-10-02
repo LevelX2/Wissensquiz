@@ -139,6 +139,9 @@ export function importCsv(
         "3": "schwer",
         hard: "schwer",
         schwer: "schwer",
+        "4": "experte",
+        expert: "experte",
+        experte: "experte",
       };
       if (row.difficulty && !level[row.difficulty.toLowerCase()])
         throw new Error("Unbekannte Schwierigkeit");

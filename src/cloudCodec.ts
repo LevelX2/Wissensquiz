@@ -1,11 +1,11 @@
 import { z } from "zod";
 import { questionSchema, type Question, type State } from "./model";
 
-const FORMAT = "quiz-cloud-compact-v1";
+const FORMAT = "quiz-cloud-compact-v2";
 const MAX_CATALOG_BYTES = 64 * 1024 * 1024;
 const envelope = z
   .object({
-    storageFormat: z.literal(FORMAT),
+    storageFormat: z.enum(["quiz-cloud-compact-v1", FORMAT]),
     questions: z.object({
       encoding: z.literal("gzip-base64"),
       data: z.string().max(20000000),

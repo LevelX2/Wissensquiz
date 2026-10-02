@@ -1,5 +1,9 @@
 import facts from "./filmFacts.json" with { type: "json" };
+import awardFacts from "./awardFilmFacts.json" with { type: "json" };
 import directorContexts from "./directorContexts.json" with { type: "json" };
+import allGenres from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json" with { type: "json" };
+import allGenresDirectorContexts from "./allGenresDirectorContexts.json" with { type: "json" };
+import allGenresCountryNotes from "./allGenresCountryNotes.json" with { type: "json" };
 import type { Difficulty, Question } from "./model";
 import { fingerprint } from "./importer";
 import { categories, isCategory, withCategoryTags } from "./categories";
@@ -16,23 +20,54 @@ const names = (people: string[]) =>
 const filmKey = (q: Question) =>
   `${q.metadata.film_title_original}|${q.metadata.film_year}`;
 const byFilm = new Map(facts.map((f) => [f.film, f]));
+const awardData = new Map(awardFacts.map((f) => [f.film, f]));
+const allGenresByFilm = new Map(
+  allGenres.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
+);
 
 // Read-only enrichment: also works for historical snapshots without modifying them.
 export function filmData(q: Question) {
-  const f = byFilm.get(filmKey(q));
-  if (!f) return undefined;
-  const background = directorBackgrounds[f.id];
+  // Keep established film metadata when award questions reuse the same film.
+  const f =
+    byFilm.get(filmKey(q)) ??
+    (allGenresByFilm.has(filmKey(q)) ? undefined : awardData.get(filmKey(q)));
+  if (f) {
+    const background = directorBackgrounds[f.id];
+    return {
+      originalTitle: q.metadata.film_title_original,
+      year: f.year,
+      directors: names(f.directors),
+      countries: f.productionCountries,
+      countryNote: "",
+      series: f.series,
+      releaseNote: f.releaseNote,
+      directorNote: f.directorNote,
+      directorContext: background?.text ?? f.directorContext,
+      directorSources: background?.sources ?? [],
+      sources: [...new Set([f.source, ...(f.additionalSources ?? [])])],
+    };
+  }
+  const newer = allGenresByFilm.get(filmKey(q));
+  if (!newer) return undefined;
+  const key = filmKey(q);
+  const background = (
+    allGenresDirectorContexts as Record<
+      string,
+      { text: string; sources: string[] }
+    >
+  )[key];
   return {
-    originalTitle: q.metadata.film_title_original,
-    year: f.year,
-    directors: names(f.directors),
-    countries: f.productionCountries,
-    series: f.series,
-    releaseNote: f.releaseNote,
-    directorNote: f.directorNote,
-    directorContext: background?.text ?? f.directorContext,
+    originalTitle: newer.film_title_original,
+    year: newer.film_year,
+    directors: names(newer.directors),
+    countries: newer.production_countries,
+    countryNote: (allGenresCountryNotes as Record<string, string>)[key] ?? "",
+    series: newer.series,
+    releaseNote: newer.release_note,
+    directorNote: newer.director_note,
+    directorContext: background?.text ?? "",
     directorSources: background?.sources ?? [],
-    sources: [...new Set([f.source, ...(f.additionalSources ?? [])])],
+    sources: [...new Set(newer.sources.map((source) => source.url))],
   };
 }
 
@@ -63,9 +98,12 @@ function mix<T>(items: T[], random = Math.random) {
 // The interval belongs to the difficulty, not to the player's progress.
 export function yearChoices(q: Question) {
   const year = Number(q.metadata.film_year);
-  const [min, max] = { leicht: [8, 25], mittel: [2, 10], schwer: [1, 4] }[
-    q.difficulty
-  ];
+  const [min, max] = {
+    leicht: [8, 25],
+    mittel: [2, 10],
+    schwer: [1, 4],
+    experte: [1, 3],
+  }[q.difficulty];
   const choices: number[] = [];
   for (let offset = -max; offset <= max; offset++) {
     if (
@@ -199,9 +237,9 @@ export function addFilmFacts(questions: Question[]) {
       continue;
     }
     const siblings = questions.filter((q) => filmKey(q) === f.film);
-    const tags = categories.filter((c) =>
-      siblings.some((q) => isCategory(q, c)),
-    );
+    const tags = categories
+      .filter((c) => c !== "Preisträger")
+      .filter((c) => siblings.some((q) => isCategory(q, c)));
     for (const kind of ["year", "director"] as const) {
       // Existing director questions already teach this fact; keep their progress.
       if (kind === "director" && f.existingDirectorId) continue;

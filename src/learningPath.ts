@@ -33,6 +33,7 @@ export function learningPathProgress(state: State) {
           leicht: new Set(),
           mittel: new Set(),
           schwer: new Set(),
+          experte: new Set(),
         });
       target.get(genre)![q.difficulty].add(q.knowledgeId);
     }
@@ -175,6 +176,7 @@ export function pathQuestions(
     const fame = familiarityOf(q);
     return (
       !!fame &&
+      q.difficulty !== "experte" &&
       fame <= p.familiarity &&
       (q.difficulty === "leicht" ||
         (q.difficulty === "mittel" ? p.mediumUnlocked : p.hardUnlocked))

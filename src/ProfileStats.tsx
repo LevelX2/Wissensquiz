@@ -1,7 +1,8 @@
-import type { State } from "./model";
+import { hasAnswer, type State } from "./model";
+import { careerProgress } from "./career";
 
 export function profileStats(state: State) {
-  const answered = state.events.filter((event) => event.answerId !== null);
+  const answered = state.events.filter(hasAnswer);
   const correct = answered.filter((event) => event.correct).length;
   return {
     played: state.rounds.length,
@@ -46,7 +47,8 @@ export function ProfileStats({ state }: { state: State }) {
       </dl>
       <p className="tiny muted">
         {stats.correct.toLocaleString("de-DE")} richtig beantwortet · Level{" "}
-        {1 + Math.floor(state.experience / 100)} ·{" "}
+        {careerProgress(state.experience).level} ·{" "}
+        {careerProgress(state.experience).title} ·{" "}
         {state.experience.toLocaleString("de-DE")} XP
       </p>
     </section>

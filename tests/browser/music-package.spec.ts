@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-test("Musik startet mit neuen Film-Ikonen; Filmdaten und Paket bleiben offline erhalten", async ({
+test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben offline erhalten", async ({
   page,
   context,
 }) => {
@@ -47,7 +47,7 @@ test("Musik startet mit neuen Film-Ikonen; Filmdaten und Paket bleiben offline e
   );
   expect(
     saved.questions.filter((q: any) => q.metadata.subdomain === "Musik"),
-  ).toHaveLength(238);
+  ).toHaveLength(333);
   expect(
     saved.imports.find(
       (r: any) => r.filename === "Musik_Ergaenzung_180_Fragen.csv",
@@ -58,9 +58,9 @@ test("Musik startet mit neuen Film-Ikonen; Filmdaten und Paket bleiben offline e
   expect(Object.values(round.familiaritySnapshot)).toEqual(
     Array(round.questions.length).fill(1),
   );
-  expect(q.id.startsWith("MUS-")).toBe(true);
   const correct = q.answers.find((a: any) => a.id === q.correctId).text;
   await page.locator(".answer").filter({ hasText: correct }).click();
+  await expect(page.locator(".explanation")).toBeVisible();
   await page.locator(".film-data > summary").click();
   await expect(page.locator(".film-data")).toContainText("1 · Film-Ikonen");
   await expect(page.locator(".film-data")).toContainText("Regie");

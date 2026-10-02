@@ -15,7 +15,7 @@ export const questionSchema = z
     language: z.literal("de"),
     domain: id,
     topic: id,
-    difficulty: z.enum(["leicht", "mittel", "schwer"]),
+    difficulty: z.enum(["leicht", "mittel", "schwer", "experte"]),
     question: z.string().min(1).max(4000),
     answers: z
       .array(
@@ -52,10 +52,11 @@ export const questionSchema = z
 export type Question = z.infer<typeof questionSchema>;
 export type Mode = "entdecken" | "ueben" | "rekord" | "fehler";
 export type Difficulty = Question["difficulty"];
+export type SolutionDisplay = "question" | "round";
 export interface RoundSetup {
   mode: Mode;
   genres: string[] | null;
-  categories: ("Classics" | "Arthouse")[];
+  categories: ("Classics" | "Arthouse" | "Preisträger")[];
   difficulties: Difficulty[];
   familiarities?: (1 | 2 | 3 | 4)[];
 }
@@ -82,6 +83,7 @@ export interface AnswerEvent {
   knowledgeId: string;
   version: string;
   answerId: string | null;
+  dontKnow?: true;
   correct: boolean;
   guessed: boolean;
   at: number;
@@ -89,6 +91,9 @@ export interface AnswerEvent {
   timeBonus: number;
   elapsedMs: number;
 }
+export type AnswerChoice = string | null | { dontKnow: true };
+export const hasAnswer = (event: AnswerEvent) =>
+  event.answerId !== null || event.dontKnow === true;
 export interface Round {
   id: string;
   mode: Mode;
@@ -108,6 +113,8 @@ export interface Round {
   finishedAt: number | null;
   status: "active" | "completed" | "aborted";
   before: Record<string, Learning>;
+  solutionDisplay?: SolutionDisplay;
+  duel?: { id: string; number: number };
 }
 export interface Report {
   id: string;
@@ -147,8 +154,10 @@ export interface State {
     learningPath?: boolean; // Legacy preference retained for old backups.
     allDifficulties?: boolean;
     roundSetup?: RoundSetup;
+    solutionDisplay?: SolutionDisplay;
   };
   experience: number;
+  career?: { version: 1; legacyBonus: number };
   records: Record<string, { points: number; roundId: string }>;
   journey?: {
     version: 1;
@@ -174,6 +183,7 @@ export const emptyState = (questions: Question[] = []): State => ({
     questionHistory: "after",
   },
   experience: 0,
+  career: { version: 1, legacyBonus: 0 },
   records: {},
 });
 export const uid = () =>

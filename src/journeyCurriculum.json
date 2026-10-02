@@ -935,12 +935,21 @@
       ]
     },
     "Thriller": {
-      "first": 2,
+      "first": 1,
       "difficultyTargets": [
         10,
         9
       ],
       "groups": [
+        {
+          "level": 1,
+          "difficulty": "leicht",
+          "target": 2,
+          "goals": [
+            "K-THR-202610-P01-L-003",
+            "K-THR-202610-P01-L-004"
+          ]
+        },
         {
           "level": 2,
           "difficulty": "leicht",

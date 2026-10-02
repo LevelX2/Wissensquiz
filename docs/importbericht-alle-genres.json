@@ -1,0 +1,42 @@
+{
+  "filename": "Alle_Genres_120_Filme_960_Fragen.csv",
+  "sourceSha256": "84d105796e4fc87f337eda9fd187c65673d48357458a788dbabcd3815dc7fbe1",
+  "filmDataFilename": "Alle_Genres_120_Filme_Filmdaten.json",
+  "filmDataSha256": "7ede93c5f4f8e435eab7c114ccd3843175a3c37010d37da552d641e1244ceb7a",
+  "filmDataReferencesMatched": 120,
+  "filmDataSeries": 31,
+  "countrySourceNotes": 23,
+  "sourceFamiliarity": {
+    "1": 7,
+    "2": 70,
+    "3": 42,
+    "4": 1
+  },
+  "accepted": 960,
+  "rejected": 0,
+  "duplicates": 0,
+  "issues": [],
+  "warnings": [],
+  "films": 120,
+  "newTopics": 119,
+  "additionalTopics": 115,
+  "sourceCategoryQuestions": {
+    "Classics": 280,
+    "Arthouse": 104
+  },
+  "genres": 12,
+  "knowledgeGoals": 960,
+  "includedDirectorQuestions": 120,
+  "includedYearQuestions": 120,
+  "variants": 0,
+  "difficulty": {
+    "leicht": 240,
+    "mittel": 360,
+    "schwer": 360
+  },
+  "directorQuestionsWithDistinctContexts": 113,
+  "totalQuestions": 4677,
+  "totalKnowledgeGoals": 4197,
+  "totalTopics": 493,
+  "contentNote": "Unveränderte Nutzerdatei. Strukturell mit dem App-Parser geprüft; keine unabhängige Faktenprüfung."
+}

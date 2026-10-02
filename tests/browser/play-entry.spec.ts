@@ -85,6 +85,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   });
   await levels.getByLabel("Leicht", { exact: true }).uncheck();
   await levels.getByLabel("Mittel", { exact: true }).uncheck();
+  await levels.getByLabel("Experte", { exact: true }).uncheck();
   await expect(page.locator("#round-summary")).toContainText(
     "Freie Auswahl: Schwer",
   );
@@ -137,8 +138,8 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
           q.tags.includes("Classics") && q.metadata.subdomain === "Western",
       ),
   ).toBe(true);
-  expect(stored.questions).toHaveLength(3717);
-  expect(new Set(stored.questions.map((q: any) => q.id)).size).toBe(3717);
+  expect(stored.questions).toHaveLength(4877);
+  expect(new Set(stored.questions.map((q: any) => q.id)).size).toBe(4877);
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();

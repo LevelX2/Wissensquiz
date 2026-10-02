@@ -148,9 +148,12 @@ export async function cloudRead(client: SupabaseClient, ownerId: string) {
     throw new Error("Der Online-Spielstand konnte nicht geladen werden.");
   if (!data) return null;
   const result = cloudSchema.parse(data);
+  const decoded = await decodeCloudState(result.state);
   return {
     ...result,
-    state: validateBackup(await decodeCloudState(result.state)),
+    needsCareerSave:
+      !decoded || typeof decoded !== "object" || !("career" in decoded),
+    state: validateBackup(decoded),
   };
 }
 export async function cloudRevision(key: string): Promise<number> {

@@ -2734,6 +2734,47 @@ footer[hidden] {
 .chosen-answer {
   margin: 8px 0;
 }
+.answer-unknown {
+  grid-column: 1 / -1;
+  background: #f4f6f4;
+  border-style: dashed;
+}
+.answer-unknown-hint {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+.solution-reveal {
+  border: 2px solid #367443;
+  border-radius: 16px;
+  background: #edf7ed;
+  color: #244a2d;
+  padding: 22px;
+  animation: solution-glow 550ms ease-in-out 2;
+}
+.solution-reveal p {
+  font-size: clamp(22px, 4vw, 32px);
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 12px 0 16px;
+  overflow-wrap: anywhere;
+}
+.solution-reveal > span:last-child {
+  font-size: 14px;
+}
+@keyframes solution-glow {
+  50% {
+    box-shadow:
+      0 0 0 5px #36744324,
+      0 0 24px #36744330;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .solution-reveal {
+    animation: none;
+  }
+}
 @media (max-width: 760px) {
   .is-playing .sidebar {
     display: none;
@@ -3250,4 +3291,408 @@ footer[hidden] {
 }
 .sync-popover button {
   font-size: 14px;
+}
+
+/* Film career: the same progress on desktop, mobile, profiles and round results. */
+.mobile-career {
+  display: none;
+}
+.career-progress {
+  --career-color: #78521e;
+  min-width: 0;
+  border: 1px solid #d4c19e;
+  border-radius: 14px;
+  background: #fffbf2;
+  padding: 18px;
+  margin: 16px 0;
+  color: #403720;
+}
+.career-tier-5 {
+  --career-color: #365e64;
+}
+.career-tier-10 {
+  --career-color: #6a4389;
+}
+.career-tier-20 {
+  --career-color: #805019;
+}
+.career-tier-35 {
+  --career-color: #8a3654;
+}
+.career-heading {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  min-width: 0;
+}
+.career-heading > div {
+  min-width: 0;
+}
+.career-heading strong,
+.career-numbers {
+  display: block;
+}
+.career-heading strong {
+  font-size: 17px;
+  line-height: 1.5;
+  color: var(--career-color);
+}
+.career-numbers {
+  font-size: 12px;
+  line-height: 1.6;
+  color: #53616a;
+}
+.career-emblem {
+  flex: 0 0 auto;
+  width: 52px;
+  height: 52px;
+  color: var(--career-color);
+}
+.career-track {
+  overflow: hidden;
+  background: #e1ded5;
+  border-radius: 10px;
+  height: 9px;
+  margin-top: 12px;
+}
+.career-track > span {
+  display: block;
+  height: 100%;
+  min-width: 0;
+  background: var(--career-color);
+  border-radius: inherit;
+  transition: width 900ms ease-out;
+}
+.career-progress > p {
+  margin: 10px 0 0;
+  font-size: 12px;
+  color: #53616a;
+}
+.career-progress.is-compact {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  margin: 0;
+}
+.career-progress.is-compact .career-emblem {
+  width: 30px;
+  height: 30px;
+}
+.career-progress.is-compact .career-heading {
+  gap: 8px;
+}
+.career-progress.is-compact .career-heading strong {
+  font-size: 12px;
+}
+.career-progress.is-compact .career-numbers {
+  font-size: 10px;
+}
+.career-progress.is-compact .career-track {
+  height: 5px;
+  margin-top: 8px;
+}
+.career-badge {
+  --career-color: #78521e;
+  display: inline-flex;
+  width: fit-content;
+  align-items: center;
+  gap: 6px;
+  color: var(--career-color);
+  border: 1px solid currentColor;
+  border-radius: 20px;
+  font-size: 12px;
+  line-height: 1.4;
+  padding: 3px 9px 3px 5px;
+  background: #fffbf2;
+}
+.career-badge .career-emblem {
+  width: 24px;
+  height: 24px;
+}
+.round-experience {
+  position: relative;
+  width: 100%;
+  margin-bottom: 18px;
+  padding: 20px;
+  border: 1px solid #d4c19e;
+  border-radius: 16px;
+  background: #fffcf6;
+}
+.round-xp-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 16px;
+}
+.round-xp-heading > strong {
+  color: #78521e;
+  font-size: 32px;
+}
+.round-xp-heading > span {
+  font-size: 15px;
+}
+.round-experience .career-progress {
+  border: 0;
+  padding: 0;
+  background: transparent;
+}
+.round-experience details > summary {
+  cursor: pointer;
+  min-height: 44px;
+  padding: 12px 0;
+  font-size: 13px;
+}
+.xp-breakdown {
+  margin: 0;
+}
+.xp-breakdown > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 6px 0;
+  font-size: 13px;
+}
+.xp-breakdown dd {
+  flex-shrink: 0;
+  margin: 0;
+  font-weight: 600;
+}
+.career-promotion {
+  color: #69451a;
+  font-size: 16px;
+  font-weight: 600;
+}
+.career-level-up {
+  animation: career-glow 1200ms ease-out 1;
+}
+.career-sparks {
+  position: absolute;
+  pointer-events: none;
+  inset: 0;
+  overflow: hidden;
+  border-radius: inherit;
+}
+.career-sparks i {
+  position: absolute;
+  left: calc(8% + var(--spark-index) * 7.4%);
+  top: 0;
+  width: 5px;
+  height: 9px;
+  background: #956222;
+  opacity: 0;
+  animation: career-spark 1300ms calc(var(--spark-index) * 35ms) ease-out 1;
+}
+@keyframes career-glow {
+  30% {
+    box-shadow: 0 0 0 6px #e6c68a55;
+  }
+}
+@keyframes career-spark {
+  15% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(160px) rotate(210deg);
+  }
+}
+@media (max-width: 760px) {
+  .mobile-career {
+    display: block;
+    margin: 0 0 16px;
+  }
+  .mobile-career .career-heading {
+    justify-content: space-between;
+    flex-direction: row-reverse;
+  }
+  .mobile-career .career-heading strong {
+    font-size: 12px;
+  }
+  .mobile-career .career-numbers {
+    font-size: 11px;
+  }
+  .mobile-career .career-track {
+    margin-top: 5px;
+  }
+  .round-experience {
+    padding: 16px;
+  }
+  .career-heading strong {
+    font-size: 15px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .career-track > span {
+    transition: none;
+  }
+  .career-level-up,
+  .career-sparks i {
+    animation: none;
+  }
+  .career-sparks {
+    display: none;
+  }
+}
+.career-badge.career-tier-5 {
+  --career-color: #365e64;
+}
+.career-badge.career-tier-10 {
+  --career-color: #6a4389;
+}
+.career-badge.career-tier-20 {
+  --career-color: #805019;
+}
+.career-badge.career-tier-35 {
+  --career-color: #8a3654;
+}
+.career-track.is-crossing > span {
+  animation: career-crossing 1200ms ease-out 1;
+}
+@keyframes career-crossing {
+  0% {
+    width: var(--career-from);
+  }
+  65% {
+    width: 100%;
+  }
+  66% {
+    width: 0%;
+  }
+  100% {
+    width: var(--career-to);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .career-track.is-crossing > span {
+    animation: none;
+  }
+}
+@media (max-width: 760px) {
+  .mobile-career {
+    margin-bottom: 2px;
+  }
+  .mobile-career .career-heading > div {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    gap: 2px 8px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .mobile-career .career-progress.is-compact .career-emblem {
+    width: 24px;
+    height: 24px;
+  }
+  .mobile-career .career-track {
+    margin-top: 4px;
+  }
+}
+
+.solution-choice {
+  margin: 1rem 0;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--line, #d8dfd3);
+  border-radius: 12px;
+}
+.solution-choice legend {
+  font-weight: 700;
+}
+.solution-choice label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0.3rem 1.2rem 0.3rem 0;
+  min-height: 44px;
+  font-size: 14px;
+  white-space: nowrap;
+}
+.solution-choice input,
+.guess-choice input {
+  accent-color: #28674b;
+  flex: 0 0 18px;
+  width: 18px;
+  height: 18px;
+  min-height: 18px;
+  padding: 0;
+  margin: 0;
+}
+.duel-entry {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.duel-entry small {
+  flex-basis: 100%;
+  font-weight: 400;
+}
+.duel-group,
+.duel-new {
+  margin-top: 1.5rem;
+}
+.duel-card,
+.duel-round-result {
+  border: 1px solid #cdd9d8;
+  border-radius: 16px;
+  padding: 1rem;
+  margin: 0.8rem 0;
+  background: #f7faf9;
+}
+.duel-card h3 {
+  margin: 0 0 0.4rem;
+  overflow-wrap: anywhere;
+}
+.duel-actions,
+.duel-rounds {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.8rem;
+}
+.duel-rounds span {
+  background: #e8efed;
+  border-radius: 7px;
+  padding: 0.35rem 0.6rem;
+}
+.duel-opponent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.4rem;
+  padding: 0.6rem 0;
+  color: #214f50;
+}
+.duel-opponent span {
+  font-size: 0.8rem;
+}
+.duel-history {
+  margin-top: 1.5rem;
+}
+.duel-history .duel-card > strong {
+  display: block;
+  margin-top: 0.75rem;
+}
+.duel-history .duel-card > .text-button {
+  margin-right: 1rem;
+}
+.guess-choice {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.7rem 0;
+}
+.progress-step.answered {
+  background: #e7ece8;
+  color: #485d51;
+}
+@media (max-width: 500px) {
+  .duel-actions > button {
+    flex: 1 1 auto;
+  }
+  .duel-card {
+    padding: 0.8rem;
+  }
 }

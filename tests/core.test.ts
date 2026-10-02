@@ -327,7 +327,7 @@ describe("Runden und Persistenz", () => {
     expect(s.learning[q.knowledgeId].status).toBe("entdeckt");
     complete(s, r.id, now + 6000);
     complete(s, r.id, now + 6001);
-    expect(s.experience).toBe(10);
+    expect(s.experience).toBe(1);
     expect(s.records[recordKey(r)].points).toBe(150);
   });
   it("lehnt verspätete Rekordantwort ab", () => {
@@ -378,7 +378,7 @@ describe("Runden und Persistenz", () => {
     complete(s, r.id, now + 1);
     s.experience = 10000;
     const checked = validateBackup(JSON.parse(JSON.stringify(s)));
-    expect(checked.experience).toBe(10);
+    expect(checked.experience).toBe(5);
     await restore(checked);
     expect((await read())?.events).toHaveLength(1);
     const invalid = structuredClone(s);

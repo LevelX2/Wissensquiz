@@ -5,6 +5,7 @@ import { encodeCloudState } from "../src/cloudCodec";
 import { emptyState } from "../src/model";
 import { importCsv } from "../src/importer";
 import { startRound, answer, complete } from "../src/engine";
+import { careerProgress } from "../src/career";
 const db = new PGlite();
 const alice = "11111111-1111-4111-8111-111111111111",
   bob = "22222222-2222-4222-8222-222222222222";
@@ -37,8 +38,263 @@ beforeAll(async () => {
       "utf8",
     ),
   );
+  await db.exec(
+    readFileSync(
+      "supabase/migrations/202610020002_dont_know_rankings.sql",
+      "utf8",
+    ),
+  );
+  await db.exec(
+    readFileSync(
+      "supabase/migrations/202610020003_fast_player_rankings.sql",
+      "utf8",
+    ),
+  );
+  await db.exec(
+    readFileSync("supabase/migrations/202610020004_film_career.sql", "utf8"),
+  );
 }, 30000);
 afterAll(() => db.close());
+it("zeigt globale Karriere-XP in beiden Ranglisten, erhält Gleichstände und ignoriert Genre-/Stufenfilter bei XP", async () => {
+  await db.exec("begin");
+  try {
+    const questions = importCsv(
+      readFileSync(
+        "KI-Wissen-Wissensquiz/01 Rohquellen/Horror_Quiz_180_Fragen.csv",
+        "utf8",
+      ),
+    ).questions.slice(0, 1);
+    const state = emptyState(questions);
+    const r = startRound(
+      state,
+      { mode: "rekord", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      1700000000000,
+    );
+    answer(
+      state,
+      r.id,
+      r.questions[0].id,
+      r.questions[0].correctId,
+      1000,
+      1700000000001,
+    );
+    complete(state, r.id, 1700000000002);
+    await db.query("update public.quiz_saves set state=$1 where owner_id=$2", [
+      await encodeCloudState(state),
+      alice,
+    ]);
+    await db.query(
+      "insert into public.quiz_saves(owner_id,state,revision) values($1,$2,1) on conflict(owner_id) do update set state=excluded.state",
+      [bob, state],
+    );
+    await as(alice, async () => {
+      const rows = (
+        await db.query<Record<string, unknown>>(
+          "select * from quiz_players('experience','Action','schwer',0)",
+        )
+      ).rows;
+      expect(rows).toHaveLength(2);
+      expect(
+        rows.every(
+          (row) => row.experience === state.experience && row.place === 1,
+        ),
+      ).toBe(true);
+      const category = (
+        await db.query<{ category: string }>(
+          "select * from quiz_score_categories()",
+        )
+      ).rows[0].category;
+      const records = (
+        await db.query<Record<string, unknown>>(
+          "select * from quiz_rankings($1,0)",
+          [category],
+        )
+      ).rows;
+      expect(records).toHaveLength(2);
+      expect(
+        records.every(
+          (row) => row.experience === state.experience && row.points === 158,
+        ),
+      ).toBe(true);
+      const filtered = (
+        await db.query<Record<string, unknown>>(
+          "select * from quiz_players('correct','Horror','leicht',0)",
+        )
+      ).rows;
+      expect(filtered.every((row) => row.experience === state.experience)).toBe(
+        true,
+      );
+      expect(Object.keys(rows[0])).not.toContain("state");
+      expect(Object.keys(rows[0])).not.toContain("owner_id");
+    });
+  } finally {
+    await db.exec("rollback");
+  }
+});
+it("erhält Level und Teilfortschritt alter Konten ohne Aktualisierung des privaten Spielstands", async () => {
+  await db.exec("begin");
+  try {
+    const state = { ...payload(25), experience: 999999999 };
+    await db.query("update public.quiz_saves set state=$1 where owner_id=$2", [
+      state,
+      alice,
+    ]);
+    await as(alice, async () => {
+      const row = (
+        await db.query<Record<string, unknown>>(
+          "select * from quiz_players('experience','','',0)",
+        )
+      ).rows.find((row) => row.is_mine)!;
+      expect(row.experience).toBe(350);
+      expect(careerProgress(Number(row.experience))).toMatchObject({
+        level: 3,
+        current: 100,
+        needed: 200,
+      });
+      expect(
+        (
+          await db.query<{ state: unknown }>(
+            "select state from public.quiz_saves",
+          )
+        ).rows[0].state,
+      ).toEqual(state);
+    });
+    const access = (
+      await db.query<{ anon: boolean; direct: boolean }>(
+        "select has_function_privilege('anon','public.quiz_players(text,text,text,integer)','execute') as anon, has_function_privilege('authenticated','public.quiz_career_experience(jsonb)','execute') as direct",
+      )
+    ).rows[0];
+    expect(access).toEqual({ anon: false, direct: false });
+  } finally {
+    await db.exec("rollback");
+  }
+});
+it("zeigt das einzige bestätigte Konto auch ohne Spielstand als eigenen Eintrag", async () => {
+  const id = "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa";
+  await db.exec("begin");
+  try {
+    await db.exec("delete from auth.users");
+    await db.query("insert into auth.users values($1,now(),false,$2)", [
+      id,
+      { display_name: "Allein" },
+    ]);
+    await as(id, async () => {
+      for (const sort of ["correct", "rounds"]) {
+        expect(
+          (await db.query("select * from quiz_players($1,'','',0)", [sort]))
+            .rows,
+        ).toEqual([
+          {
+            player_name: "Allein",
+            completed: 0,
+            answered: 0,
+            correct: 0,
+            accuracy: null,
+            place: 1,
+            is_mine: true,
+            experience: 0,
+          },
+        ]);
+      }
+      expect(
+        (await db.query("select * from quiz_players('accuracy','','',0)")).rows,
+      ).toEqual([]);
+    });
+  } finally {
+    await db.exec("rollback");
+  }
+});
+it("wertet große Antwortgeschichten mit mehrfachen Ereignissen und fremden Runden unverändert aus", async () => {
+  const id = "bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbbbbbbb";
+  await db.exec("begin");
+  try {
+    await db.query("insert into auth.users values($1,now(),false,$2)", [
+      id,
+      { display_name: "Historie" },
+    ]);
+    const data = payload(600);
+    // A catalog is deliberately irrelevant to ranking projection.
+    Object.assign(data, {
+      questions: { encoding: "gzip-base64", data: "x".repeat(1024 * 1024) },
+    });
+    data.events.push(
+      { ...data.events[0], answerId: "b" },
+      { ...data.events[0], roundId: "unrelated" },
+    );
+    data.rounds[599].status = "aborted";
+    data.events[1].answerId = "b";
+    // Insert synthetic snapshots directly to isolate the player-ranking query.
+    await db.query(
+      "insert into quiz_saves(owner_id,state,revision) values($1,$2,1)",
+      [id, data],
+    );
+    await as(id, async () => {
+      for (const sort of ["rounds", "correct", "accuracy"]) {
+        const mine = (
+          await db.query<Record<string, unknown>>(
+            "select * from quiz_players($1,'Horror','leicht',0)",
+            [sort],
+          )
+        ).rows.find((row) => row.is_mine);
+        expect(mine).toMatchObject({
+          completed: 599,
+          answered: 599,
+          correct: 598,
+        });
+        expect(Number(mine?.accuracy)).toBe(99.8);
+      }
+      expect(
+        (await db.query("select * from quiz_players('correct','Action','',0)"))
+          .rows,
+      ).toEqual([]);
+    });
+  } finally {
+    await db.exec("rollback");
+  }
+});
+it("zählt Keine Ahnung in allen Modi als falsche Antwort für die Quote, ohne Zeitabläufe oder Abbrüche mitzuzählen", async () => {
+  const id = "99999999-9999-4999-8999-999999999999";
+  await db.exec("begin");
+  try {
+    await db.query("insert into auth.users values($1,now(),false,$2)", [
+      id,
+      { display_name: "Keine Ahnung" },
+    ]);
+    const data = payload(52);
+    data.rounds.forEach((round, i) => {
+      round.mode = ["entdecken", "ueben", "rekord", "fehler"][i % 4];
+    });
+    data.rounds[51].status = "aborted";
+    for (const event of data.events.slice(0, 4)) {
+      (event as { answerId: string | null }).answerId = null;
+      Object.assign(event, { dontKnow: true });
+    }
+    (data.events[4] as { answerId: string | null }).answerId = null;
+    await as(id, async () => {
+      await save(id, 0, data);
+      const mine = (
+        await db.query<Record<string, unknown>>(
+          "select * from quiz_players('accuracy','Horror','leicht',0)",
+        )
+      ).rows.find((row) => row.is_mine);
+      expect(mine).toMatchObject({
+        completed: 51,
+        answered: 50,
+        correct: 46,
+        accuracy: "92.0",
+      });
+      expect(
+        (
+          await db.query(
+            "select * from quiz_players('accuracy','Horror','schwer',0)",
+          )
+        ).rows,
+      ).toHaveLength(0);
+    });
+  } finally {
+    await db.exec("rollback");
+  }
+});
 async function as(id: string, fn: () => Promise<void>, role = "authenticated") {
   await db.exec(`set role ${role}`);
   await db.query<Record<string, unknown>>(
@@ -112,6 +368,7 @@ it("nimmt vorhandene Konten automatisch auf und gibt nur Ergebnisse ohne private
         finished_at: 1700000000000,
         place: 1,
         is_mine: true,
+        experience: 10,
       },
     ]);
     await expect(

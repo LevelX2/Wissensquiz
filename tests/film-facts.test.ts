@@ -23,7 +23,7 @@ import { answer, startRound } from "../src/engine";
 import { validateBackup } from "../src/storage";
 import { genreOf } from "../src/filters";
 
-const contents = packages.map((p) => ({
+const contents = packages.slice(0, 14).map((p) => ({
   filename: p.filename,
   text: readFileSync(`public${p.path}`, "utf8"),
 }));

@@ -1,0 +1,2918 @@
+{
+  "schema_version": "wissensquiz-preistraeger-quellen-v1",
+  "checked_on": "2026-10-02",
+  "questions": [
+    {
+      "question_id": "PRZ-202610-P01-L-001",
+      "award_family": "Oscars",
+      "award_year": 1940,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1940",
+        "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)"
+      ],
+      "award_evidence": [
+        "Gone with the Wind",
+        "Selznick International Pictures"
+      ],
+      "correct_answer": "Vom Winde verweht",
+      "film": "Gone with the Wind|1939",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-002",
+      "award_family": "Oscars",
+      "award_year": 1960,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1960",
+        "https://en.wikipedia.org/wiki/Ben-Hur_(1959_film)"
+      ],
+      "award_evidence": [
+        "Ben-Hur",
+        "Sam Zimbalist, Producer"
+      ],
+      "correct_answer": "Ben Hur",
+      "film": "Ben-Hur|1959",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-003",
+      "award_family": "Oscars",
+      "award_year": 1973,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1973",
+        "https://en.wikipedia.org/wiki/The_Godfather"
+      ],
+      "award_evidence": [
+        "The Godfather",
+        "Albert S. Ruddy, Producer"
+      ],
+      "correct_answer": "Der Pate",
+      "film": "The Godfather|1972",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-004",
+      "award_family": "Oscars",
+      "award_year": 1976,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1976",
+        "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)"
+      ],
+      "award_evidence": [
+        "One Flew over the Cuckoo's Nest",
+        "Saul Zaentz and Michael Douglas, Producers"
+      ],
+      "correct_answer": "Einer flog über das Kuckucksnest",
+      "film": "One Flew Over the Cuckoo's Nest|1975",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-005",
+      "award_family": "Oscars",
+      "award_year": 1985,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1985",
+        "https://en.wikipedia.org/wiki/Amadeus_(film)"
+      ],
+      "award_evidence": [
+        "Amadeus",
+        "Saul Zaentz, Producer"
+      ],
+      "correct_answer": "Amadeus",
+      "film": "Amadeus|1984",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-006",
+      "award_family": "Oscars",
+      "award_year": 1992,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1992",
+        "https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)"
+      ],
+      "award_evidence": [
+        "The Silence of the Lambs",
+        "Edward Saxon, Kenneth Utt and Ron Bozman, Producers"
+      ],
+      "correct_answer": "Das Schweigen der Lämmer",
+      "film": "The Silence of the Lambs|1991",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-007",
+      "award_family": "Oscars",
+      "award_year": 1994,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1994",
+        "https://en.wikipedia.org/wiki/Schindler%27s_List"
+      ],
+      "award_evidence": [
+        "Schindler's List",
+        "Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers"
+      ],
+      "correct_answer": "Schindlers Liste",
+      "film": "Schindler's List|1993",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-008",
+      "award_family": "Oscars",
+      "award_year": 1995,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1995",
+        "https://en.wikipedia.org/wiki/Forrest_Gump"
+      ],
+      "award_evidence": [
+        "Forrest Gump",
+        "Wendy Finerman, Steve Tisch and Steve Starkey, Producers"
+      ],
+      "correct_answer": "Forrest Gump",
+      "film": "Forrest Gump|1994",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-009",
+      "award_family": "Oscars",
+      "award_year": 1998,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1998",
+        "https://en.wikipedia.org/wiki/Titanic_(1997_film)"
+      ],
+      "award_evidence": [
+        "Titanic",
+        "James Cameron and Jon Landau, Producers"
+      ],
+      "correct_answer": "Titanic",
+      "film": "Titanic|1997",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-010",
+      "award_family": "Oscars",
+      "award_year": 2001,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2001",
+        "https://en.wikipedia.org/wiki/Gladiator_(2000_film)"
+      ],
+      "award_evidence": [
+        "Gladiator",
+        "Douglas Wick, David Franzoni and Branko Lustig, Producers"
+      ],
+      "correct_answer": "Gladiator",
+      "film": "Gladiator|2000",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-011",
+      "award_family": "Oscars",
+      "award_year": 2004,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2004",
+        "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King"
+      ],
+      "award_evidence": [
+        "The Lord of the Rings: The Return of the King",
+        "Barrie M. Osborne, Peter Jackson and Fran Walsh, Producers"
+      ],
+      "correct_answer": "Der Herr der Ringe: Die Rückkehr des Königs",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-012",
+      "award_family": "Oscars",
+      "award_year": 2009,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2009",
+        "https://en.wikipedia.org/wiki/Slumdog_Millionaire"
+      ],
+      "award_evidence": [
+        "Slumdog Millionaire",
+        "Christian Colson, Producer"
+      ],
+      "correct_answer": "Slumdog Millionär",
+      "film": "Slumdog Millionaire|2008",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-013",
+      "award_family": "Oscars",
+      "award_year": 2010,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2010",
+        "https://en.wikipedia.org/wiki/The_Hurt_Locker"
+      ],
+      "award_evidence": [
+        "The Hurt Locker",
+        "Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers"
+      ],
+      "correct_answer": "Tödliches Kommando – The Hurt Locker",
+      "film": "The Hurt Locker|2008",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-014",
+      "award_family": "Oscars",
+      "award_year": 2015,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2015",
+        "https://en.wikipedia.org/wiki/Birdman_(film)"
+      ],
+      "award_evidence": [
+        "Birdman or (The Unexpected Virtue of Ignorance)",
+        "Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers"
+      ],
+      "correct_answer": "Birdman oder (Die unverhoffte Macht der Ahnungslosigkeit)",
+      "film": "Birdman or (The Unexpected Virtue of Ignorance)|2014",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-015",
+      "award_family": "Oscars",
+      "award_year": 2017,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2017",
+        "https://en.wikipedia.org/wiki/Moonlight_(2016_film)"
+      ],
+      "award_evidence": [
+        "Moonlight",
+        "Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers"
+      ],
+      "correct_answer": "Moonlight",
+      "film": "Moonlight|2016",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-016",
+      "award_family": "Oscars",
+      "award_year": 2018,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2018",
+        "https://en.wikipedia.org/wiki/The_Shape_of_Water"
+      ],
+      "award_evidence": [
+        "The Shape of Water",
+        "Guillermo del Toro and J. Miles Dale, Producers"
+      ],
+      "correct_answer": "Shape of Water – Das Flüstern des Wassers",
+      "film": "The Shape of Water|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-017",
+      "award_family": "Oscars",
+      "award_year": 2020,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2020",
+        "https://en.wikipedia.org/wiki/Parasite_(2019_film)"
+      ],
+      "award_evidence": [
+        "Parasite",
+        "Kwak Sin Ae and Bong Joon Ho, Producers"
+      ],
+      "correct_answer": "Parasite",
+      "film": "Gisaengchung|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-018",
+      "award_family": "Oscars",
+      "award_year": 2021,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2021",
+        "https://en.wikipedia.org/wiki/Nomadland_(film)"
+      ],
+      "award_evidence": [
+        "Nomadland",
+        "Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers"
+      ],
+      "correct_answer": "Nomadland",
+      "film": "Nomadland|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-019",
+      "award_family": "Oscars",
+      "award_year": 2023,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2023",
+        "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once"
+      ],
+      "award_evidence": [
+        "Everything Everywhere All at Once",
+        "Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers"
+      ],
+      "correct_answer": "Everything Everywhere All at Once",
+      "film": "Everything Everywhere All at Once|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-020",
+      "award_family": "Oscars",
+      "award_year": 2024,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2024",
+        "https://en.wikipedia.org/wiki/Oppenheimer_(film)"
+      ],
+      "award_evidence": [
+        "Oppenheimer",
+        "Emma Thomas, Charles Roven and Christopher Nolan, Producers"
+      ],
+      "correct_answer": "Oppenheimer",
+      "film": "Oppenheimer|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-021",
+      "award_family": "Oscars",
+      "award_year": 2004,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2004",
+        "https://en.wikipedia.org/wiki/Finding_Nemo"
+      ],
+      "award_evidence": [
+        "Finding Nemo",
+        "Andrew Stanton"
+      ],
+      "correct_answer": "Findet Nemo",
+      "film": "Finding Nemo|2003",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-022",
+      "award_family": "Oscars",
+      "award_year": 2009,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2009",
+        "https://en.wikipedia.org/wiki/WALL-E"
+      ],
+      "award_evidence": [
+        "WALL-E",
+        "Andrew Stanton"
+      ],
+      "correct_answer": "WALL·E – Der Letzte räumt die Erde auf",
+      "film": "WALL-E|2008",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-023",
+      "award_family": "Oscars",
+      "award_year": 2010,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2010",
+        "https://en.wikipedia.org/wiki/Up_(2009_film)"
+      ],
+      "award_evidence": [
+        "Up",
+        "Pete Docter"
+      ],
+      "correct_answer": "Oben",
+      "film": "Up|2009",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-024",
+      "award_family": "Oscars",
+      "award_year": 2018,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2018",
+        "https://en.wikipedia.org/wiki/Coco_(2017_film)"
+      ],
+      "award_evidence": [
+        "Coco",
+        "Lee Unkrich and Darla K. Anderson"
+      ],
+      "correct_answer": "Coco – Lebendiger als das Leben!",
+      "film": "Coco|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-025",
+      "award_family": "Oscars",
+      "award_year": 2023,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2023",
+        "https://en.wikipedia.org/wiki/Guillermo_del_Toro's_Pinocchio"
+      ],
+      "award_evidence": [
+        "Guillermo del Toro's Pinocchio",
+        "Guillermo del Toro, Mark Gustafson, Gary Ungar and Alex Bulkley"
+      ],
+      "correct_answer": "Guillermo del Toros Pinocchio",
+      "film": "Guillermo del Toro's Pinocchio|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-001",
+      "award_family": "Oscars",
+      "award_year": 1940,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1940",
+        "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)"
+      ],
+      "award_evidence": [
+        "Vivien Leigh",
+        "Gone with the Wind"
+      ],
+      "correct_answer": "Vivien Leigh",
+      "film": "Gone with the Wind|1939",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-002",
+      "award_family": "Oscars",
+      "award_year": 1940,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1940",
+        "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)"
+      ],
+      "award_evidence": [
+        "Hattie McDaniel",
+        "Gone with the Wind"
+      ],
+      "correct_answer": "Hattie McDaniel",
+      "film": "Gone with the Wind|1939",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-003",
+      "award_family": "Oscars",
+      "award_year": 1960,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1960",
+        "https://en.wikipedia.org/wiki/Ben-Hur_(1959_film)"
+      ],
+      "award_evidence": [
+        "Charlton Heston",
+        "Ben-Hur"
+      ],
+      "correct_answer": "Charlton Heston",
+      "film": "Ben-Hur|1959",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-004",
+      "award_family": "Oscars",
+      "award_year": 1960,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1960",
+        "https://en.wikipedia.org/wiki/Ben-Hur_(1959_film)"
+      ],
+      "award_evidence": [
+        "Hugh Griffith",
+        "Ben-Hur"
+      ],
+      "correct_answer": "Hugh Griffith",
+      "film": "Ben-Hur|1959",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-005",
+      "award_family": "Oscars",
+      "award_year": 1973,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1973",
+        "https://en.wikipedia.org/wiki/The_Godfather"
+      ],
+      "award_evidence": [
+        "Marlon Brando",
+        "The Godfather"
+      ],
+      "correct_answer": "Marlon Brando",
+      "film": "The Godfather|1972",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-006",
+      "award_family": "Oscars",
+      "award_year": 1973,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1973",
+        "https://en.wikipedia.org/wiki/Cabaret_(1972_film)"
+      ],
+      "award_evidence": [
+        "Liza Minnelli",
+        "Cabaret"
+      ],
+      "correct_answer": "Liza Minnelli",
+      "film": "Cabaret|1972",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-007",
+      "award_family": "Oscars",
+      "award_year": 1976,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1976",
+        "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)"
+      ],
+      "award_evidence": [
+        "Jack Nicholson",
+        "One Flew over the Cuckoo's Nest"
+      ],
+      "correct_answer": "Jack Nicholson",
+      "film": "One Flew Over the Cuckoo's Nest|1975",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-008",
+      "award_family": "Oscars",
+      "award_year": 1976,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1976",
+        "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)"
+      ],
+      "award_evidence": [
+        "Louise Fletcher",
+        "One Flew over the Cuckoo's Nest"
+      ],
+      "correct_answer": "Louise Fletcher",
+      "film": "One Flew Over the Cuckoo's Nest|1975",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-009",
+      "award_family": "Oscars",
+      "award_year": 1985,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1985",
+        "https://en.wikipedia.org/wiki/Amadeus_(film)"
+      ],
+      "award_evidence": [
+        "F. Murray Abraham",
+        "Amadeus"
+      ],
+      "correct_answer": "F. Murray Abraham",
+      "film": "Amadeus|1984",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-010",
+      "award_family": "Oscars",
+      "award_year": 1992,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1992",
+        "https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)"
+      ],
+      "award_evidence": [
+        "Jodie Foster",
+        "The Silence of the Lambs"
+      ],
+      "correct_answer": "Jodie Foster",
+      "film": "The Silence of the Lambs|1991",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-011",
+      "award_family": "Oscars",
+      "award_year": 1994,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1994",
+        "https://en.wikipedia.org/wiki/Philadelphia_(film)"
+      ],
+      "award_evidence": [
+        "Tom Hanks",
+        "Philadelphia"
+      ],
+      "correct_answer": "Tom Hanks",
+      "film": "Philadelphia|1993",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-012",
+      "award_family": "Oscars",
+      "award_year": 1994,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1994",
+        "https://en.wikipedia.org/wiki/The_Piano"
+      ],
+      "award_evidence": [
+        "Anna Paquin",
+        "The Piano"
+      ],
+      "correct_answer": "Anna Paquin",
+      "film": "The Piano|1993",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-013",
+      "award_family": "Oscars",
+      "award_year": 1995,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1995",
+        "https://en.wikipedia.org/wiki/Forrest_Gump"
+      ],
+      "award_evidence": [
+        "Tom Hanks",
+        "Forrest Gump"
+      ],
+      "correct_answer": "Tom Hanks",
+      "film": "Forrest Gump|1994",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-014",
+      "award_family": "Oscars",
+      "award_year": 1998,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1998",
+        "https://en.wikipedia.org/wiki/Good_Will_Hunting"
+      ],
+      "award_evidence": [
+        "Robin Williams",
+        "Good Will Hunting"
+      ],
+      "correct_answer": "Robin Williams",
+      "film": "Good Will Hunting|1997",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-015",
+      "award_family": "Oscars",
+      "award_year": 2001,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2001",
+        "https://en.wikipedia.org/wiki/Gladiator_(2000_film)"
+      ],
+      "award_evidence": [
+        "Russell Crowe",
+        "Gladiator"
+      ],
+      "correct_answer": "Russell Crowe",
+      "film": "Gladiator|2000",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-016",
+      "award_family": "Oscars",
+      "award_year": 2001,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2001",
+        "https://en.wikipedia.org/wiki/Erin_Brockovich_(film)"
+      ],
+      "award_evidence": [
+        "Julia Roberts",
+        "Erin Brockovich"
+      ],
+      "correct_answer": "Julia Roberts",
+      "film": "Erin Brockovich|2000",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-017",
+      "award_family": "Oscars",
+      "award_year": 2004,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2004",
+        "https://en.wikipedia.org/wiki/Mystic_River_(film)"
+      ],
+      "award_evidence": [
+        "Sean Penn",
+        "Mystic River"
+      ],
+      "correct_answer": "Sean Penn",
+      "film": "Mystic River|2003",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-018",
+      "award_family": "Oscars",
+      "award_year": 2009,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2009",
+        "https://en.wikipedia.org/wiki/The_Dark_Knight"
+      ],
+      "award_evidence": [
+        "Heath Ledger",
+        "The Dark Knight"
+      ],
+      "correct_answer": "Heath Ledger",
+      "film": "The Dark Knight|2008",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-019",
+      "award_family": "Oscars",
+      "award_year": 2010,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2010",
+        "https://en.wikipedia.org/wiki/Inglourious_Basterds"
+      ],
+      "award_evidence": [
+        "Christoph Waltz",
+        "Inglourious Basterds"
+      ],
+      "correct_answer": "Christoph Waltz",
+      "film": "Inglourious Basterds|2009",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-020",
+      "award_family": "Oscars",
+      "award_year": 2015,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2015",
+        "https://en.wikipedia.org/wiki/Whiplash_(2014_film)"
+      ],
+      "award_evidence": [
+        "J.K. Simmons",
+        "Whiplash"
+      ],
+      "correct_answer": "J.K. Simmons",
+      "film": "Whiplash|2014",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-021",
+      "award_family": "Oscars",
+      "award_year": 2017,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2017",
+        "https://en.wikipedia.org/wiki/Moonlight_(2016_film)"
+      ],
+      "award_evidence": [
+        "Mahershala Ali",
+        "Moonlight"
+      ],
+      "correct_answer": "Mahershala Ali",
+      "film": "Moonlight|2016",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-022",
+      "award_family": "Oscars",
+      "award_year": 2020,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2020",
+        "https://en.wikipedia.org/wiki/Joker_(2019_film)"
+      ],
+      "award_evidence": [
+        "Joaquin Phoenix",
+        "Joker"
+      ],
+      "correct_answer": "Joaquin Phoenix",
+      "film": "Joker|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-023",
+      "award_family": "Oscars",
+      "award_year": 2021,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2021",
+        "https://en.wikipedia.org/wiki/Nomadland_(film)"
+      ],
+      "award_evidence": [
+        "Frances McDormand",
+        "Nomadland"
+      ],
+      "correct_answer": "Frances McDormand",
+      "film": "Nomadland|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-024",
+      "award_family": "Oscars",
+      "award_year": 2023,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2023",
+        "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once"
+      ],
+      "award_evidence": [
+        "Michelle Yeoh",
+        "Everything Everywhere All at Once"
+      ],
+      "correct_answer": "Michelle Yeoh",
+      "film": "Everything Everywhere All at Once|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-025",
+      "award_family": "Oscars",
+      "award_year": 2024,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2024",
+        "https://en.wikipedia.org/wiki/Oppenheimer_(film)"
+      ],
+      "award_evidence": [
+        "Robert Downey Jr.",
+        "Oppenheimer"
+      ],
+      "correct_answer": "Robert Downey Jr.",
+      "film": "Oppenheimer|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-001",
+      "award_family": "Oscars",
+      "award_year": 1940,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1940",
+        "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)"
+      ],
+      "award_evidence": [
+        "Gone with the Wind",
+        "Sidney Howard"
+      ],
+      "correct_answer": "Sidney Howard",
+      "film": "Gone with the Wind|1939",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-002",
+      "award_family": "Oscars",
+      "award_year": 1960,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1960",
+        "https://en.wikipedia.org/wiki/Ben-Hur_(1959_film)"
+      ],
+      "award_evidence": [
+        "Ben-Hur",
+        "Miklos Rozsa"
+      ],
+      "correct_answer": "Miklos Rozsa",
+      "film": "Ben-Hur|1959",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-003",
+      "award_family": "Oscars",
+      "award_year": 1973,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1973",
+        "https://en.wikipedia.org/wiki/The_Godfather"
+      ],
+      "award_evidence": [
+        "The Godfather",
+        "Mario Puzo, Francis Ford Coppola"
+      ],
+      "correct_answer": "Mario Puzo, Francis Ford Coppola",
+      "film": "The Godfather|1972",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-004",
+      "award_family": "Oscars",
+      "award_year": 1976,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1976",
+        "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)"
+      ],
+      "award_evidence": [
+        "One Flew over the Cuckoo's Nest",
+        "Lawrence Hauben, Bo Goldman"
+      ],
+      "correct_answer": "Lawrence Hauben, Bo Goldman",
+      "film": "One Flew Over the Cuckoo's Nest|1975",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-005",
+      "award_family": "Oscars",
+      "award_year": 1985,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1985",
+        "https://en.wikipedia.org/wiki/Amadeus_(film)"
+      ],
+      "award_evidence": [
+        "Amadeus",
+        "Peter Shaffer"
+      ],
+      "correct_answer": "Peter Shaffer",
+      "film": "Amadeus|1984",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-006",
+      "award_family": "Oscars",
+      "award_year": 1992,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1992",
+        "https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)"
+      ],
+      "award_evidence": [
+        "The Silence of the Lambs",
+        "Ted Tally"
+      ],
+      "correct_answer": "Ted Tally",
+      "film": "The Silence of the Lambs|1991",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-007",
+      "award_family": "Oscars",
+      "award_year": 1994,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1994",
+        "https://en.wikipedia.org/wiki/Schindler%27s_List"
+      ],
+      "award_evidence": [
+        "Schindler's List",
+        "John Williams"
+      ],
+      "correct_answer": "John Williams",
+      "film": "Schindler's List|1993",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-008",
+      "award_family": "Oscars",
+      "award_year": 1995,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1995",
+        "https://en.wikipedia.org/wiki/Forrest_Gump"
+      ],
+      "award_evidence": [
+        "Forrest Gump",
+        "Eric Roth"
+      ],
+      "correct_answer": "Eric Roth",
+      "film": "Forrest Gump|1994",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-009",
+      "award_family": "Oscars",
+      "award_year": 1995,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1995",
+        "https://en.wikipedia.org/wiki/The_Lion_King_(1994_film)"
+      ],
+      "award_evidence": [
+        "The Lion King",
+        "Hans Zimmer"
+      ],
+      "correct_answer": "Hans Zimmer",
+      "film": "The Lion King|1994",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-010",
+      "award_family": "Oscars",
+      "award_year": 1998,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1998",
+        "https://en.wikipedia.org/wiki/Titanic_(1997_film)"
+      ],
+      "award_evidence": [
+        "Titanic",
+        "James Horner"
+      ],
+      "correct_answer": "James Horner",
+      "film": "Titanic|1997",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-011",
+      "award_family": "Oscars",
+      "award_year": 1998,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1998",
+        "https://en.wikipedia.org/wiki/Good_Will_Hunting"
+      ],
+      "award_evidence": [
+        "Good Will Hunting",
+        "Ben Affleck, Matt Damon"
+      ],
+      "correct_answer": "Ben Affleck, Matt Damon",
+      "film": "Good Will Hunting|1997",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-012",
+      "award_family": "Oscars",
+      "award_year": 2001,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2001",
+        "https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon"
+      ],
+      "award_evidence": [
+        "Crouching Tiger, Hidden Dragon",
+        "Tan Dun"
+      ],
+      "correct_answer": "Tan Dun",
+      "film": "Crouching Tiger, Hidden Dragon|2000",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-013",
+      "award_family": "Oscars",
+      "award_year": 2001,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2001",
+        "https://en.wikipedia.org/wiki/Almost_Famous"
+      ],
+      "award_evidence": [
+        "Almost Famous",
+        "Cameron Crowe"
+      ],
+      "correct_answer": "Cameron Crowe",
+      "film": "Almost Famous|2000",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-014",
+      "award_family": "Oscars",
+      "award_year": 2004,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2004",
+        "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King"
+      ],
+      "award_evidence": [
+        "The Lord of the Rings: The Return of the King",
+        "Howard Shore"
+      ],
+      "correct_answer": "Howard Shore",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-015",
+      "award_family": "Oscars",
+      "award_year": 2009,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2009",
+        "https://en.wikipedia.org/wiki/Slumdog_Millionaire"
+      ],
+      "award_evidence": [
+        "Slumdog Millionaire",
+        "A.R. Rahman"
+      ],
+      "correct_answer": "A.R. Rahman",
+      "film": "Slumdog Millionaire|2008",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-016",
+      "award_family": "Oscars",
+      "award_year": 2009,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2009",
+        "https://en.wikipedia.org/wiki/Slumdog_Millionaire"
+      ],
+      "award_evidence": [
+        "Slumdog Millionaire",
+        "Simon Beaufoy"
+      ],
+      "correct_answer": "Simon Beaufoy",
+      "film": "Slumdog Millionaire|2008",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-017",
+      "award_family": "Oscars",
+      "award_year": 2010,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2010",
+        "https://en.wikipedia.org/wiki/The_Hurt_Locker"
+      ],
+      "award_evidence": [
+        "The Hurt Locker",
+        "Mark Boal"
+      ],
+      "correct_answer": "Mark Boal",
+      "film": "The Hurt Locker|2008",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-018",
+      "award_family": "Oscars",
+      "award_year": 2015,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2015",
+        "https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel"
+      ],
+      "award_evidence": [
+        "The Grand Budapest Hotel",
+        "Alexandre Desplat"
+      ],
+      "correct_answer": "Alexandre Desplat",
+      "film": "The Grand Budapest Hotel|2014",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-019",
+      "award_family": "Oscars",
+      "award_year": 2015,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2015",
+        "https://en.wikipedia.org/wiki/The_Imitation_Game"
+      ],
+      "award_evidence": [
+        "The Imitation Game",
+        "Graham Moore"
+      ],
+      "correct_answer": "Graham Moore",
+      "film": "The Imitation Game|2014",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-020",
+      "award_family": "Oscars",
+      "award_year": 2017,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2017",
+        "https://en.wikipedia.org/wiki/La_La_Land"
+      ],
+      "award_evidence": [
+        "La La Land",
+        "Justin Hurwitz"
+      ],
+      "correct_answer": "Justin Hurwitz",
+      "film": "La La Land|2016",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-021",
+      "award_family": "Oscars",
+      "award_year": 2018,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2018",
+        "https://en.wikipedia.org/wiki/The_Shape_of_Water"
+      ],
+      "award_evidence": [
+        "The Shape of Water",
+        "Alexandre Desplat"
+      ],
+      "correct_answer": "Alexandre Desplat",
+      "film": "The Shape of Water|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-022",
+      "award_family": "Oscars",
+      "award_year": 2020,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2020",
+        "https://en.wikipedia.org/wiki/Joker_(2019_film)"
+      ],
+      "award_evidence": [
+        "Joker",
+        "Hildur Guðnadóttir"
+      ],
+      "correct_answer": "Hildur Guðnadóttir",
+      "film": "Joker|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-023",
+      "award_family": "Oscars",
+      "award_year": 2021,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2021",
+        "https://en.wikipedia.org/wiki/Promising_Young_Woman"
+      ],
+      "award_evidence": [
+        "Promising Young Woman",
+        "Emerald Fennell"
+      ],
+      "correct_answer": "Emerald Fennell",
+      "film": "Promising Young Woman|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-024",
+      "award_family": "Oscars",
+      "award_year": 2023,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2023",
+        "https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(2022_film)"
+      ],
+      "award_evidence": [
+        "All Quiet on the Western Front",
+        "Volker Bertelmann"
+      ],
+      "correct_answer": "Volker Bertelmann",
+      "film": "Im Westen nichts Neues|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-025",
+      "award_family": "Oscars",
+      "award_year": 2024,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2024",
+        "https://en.wikipedia.org/wiki/Oppenheimer_(film)"
+      ],
+      "award_evidence": [
+        "Oppenheimer",
+        "Ludwig Göransson"
+      ],
+      "correct_answer": "Ludwig Göransson",
+      "film": "Oppenheimer|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-001",
+      "award_family": "Oscars",
+      "award_year": 1940,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1940",
+        "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)"
+      ],
+      "award_evidence": [
+        "Gone with the Wind",
+        "Lyle Wheeler"
+      ],
+      "correct_answer": "Lyle Wheeler",
+      "film": "Gone with the Wind|1939",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-002",
+      "award_family": "Oscars",
+      "award_year": 1960,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1960",
+        "https://en.wikipedia.org/wiki/Ben-Hur_(1959_film)"
+      ],
+      "award_evidence": [
+        "Ben-Hur",
+        "Elizabeth Haffenden"
+      ],
+      "correct_answer": "Elizabeth Haffenden",
+      "film": "Ben-Hur|1959",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-003",
+      "award_family": "Oscars",
+      "award_year": 1973,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1973",
+        "https://en.wikipedia.org/wiki/Cabaret_(1972_film)"
+      ],
+      "award_evidence": [
+        "Cabaret",
+        "David Bretherton"
+      ],
+      "correct_answer": "David Bretherton",
+      "film": "Cabaret|1972",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-004",
+      "award_family": "Oscars",
+      "award_year": 1976,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1976",
+        "https://en.wikipedia.org/wiki/Barry_Lyndon"
+      ],
+      "award_evidence": [
+        "Barry Lyndon",
+        "John Alcott"
+      ],
+      "correct_answer": "John Alcott",
+      "film": "Barry Lyndon|1975",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-005",
+      "award_family": "Oscars",
+      "award_year": 1985,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1985",
+        "https://en.wikipedia.org/wiki/Amadeus_(film)"
+      ],
+      "award_evidence": [
+        "Amadeus",
+        "Theodor Pistek"
+      ],
+      "correct_answer": "Theodor Pistek",
+      "film": "Amadeus|1984",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-006",
+      "award_family": "Oscars",
+      "award_year": 1992,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1992",
+        "https://en.wikipedia.org/wiki/JFK_(film)"
+      ],
+      "award_evidence": [
+        "JFK",
+        "Robert Richardson"
+      ],
+      "correct_answer": "Robert Richardson",
+      "film": "JFK|1991",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-007",
+      "award_family": "Oscars",
+      "award_year": 1994,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1994",
+        "https://en.wikipedia.org/wiki/Schindler%27s_List"
+      ],
+      "award_evidence": [
+        "Schindler's List",
+        "Michael Kahn"
+      ],
+      "correct_answer": "Michael Kahn",
+      "film": "Schindler's List|1993",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-008",
+      "award_family": "Oscars",
+      "award_year": 1994,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1994",
+        "https://en.wikipedia.org/wiki/Schindler%27s_List"
+      ],
+      "award_evidence": [
+        "Schindler's List",
+        "Janusz Kaminski"
+      ],
+      "correct_answer": "Janusz Kaminski",
+      "film": "Schindler's List|1993",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-009",
+      "award_family": "Oscars",
+      "award_year": 1995,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1995",
+        "https://en.wikipedia.org/wiki/Forrest_Gump"
+      ],
+      "award_evidence": [
+        "Forrest Gump",
+        "Arthur Schmidt"
+      ],
+      "correct_answer": "Arthur Schmidt",
+      "film": "Forrest Gump|1994",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-010",
+      "award_family": "Oscars",
+      "award_year": 1998,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1998",
+        "https://en.wikipedia.org/wiki/Titanic_(1997_film)"
+      ],
+      "award_evidence": [
+        "Titanic",
+        "Russell Carpenter"
+      ],
+      "correct_answer": "Russell Carpenter",
+      "film": "Titanic|1997",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-011",
+      "award_family": "Oscars",
+      "award_year": 1998,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/1998",
+        "https://en.wikipedia.org/wiki/Titanic_(1997_film)"
+      ],
+      "award_evidence": [
+        "Titanic",
+        "Deborah L. Scott"
+      ],
+      "correct_answer": "Deborah L. Scott",
+      "film": "Titanic|1997",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-012",
+      "award_family": "Oscars",
+      "award_year": 2001,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2001",
+        "https://en.wikipedia.org/wiki/Gladiator_(2000_film)"
+      ],
+      "award_evidence": [
+        "Gladiator",
+        "Janty Yates"
+      ],
+      "correct_answer": "Janty Yates",
+      "film": "Gladiator|2000",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-013",
+      "award_family": "Oscars",
+      "award_year": 2004,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2004",
+        "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King"
+      ],
+      "award_evidence": [
+        "The Lord of the Rings: The Return of the King",
+        "Jamie Selkirk"
+      ],
+      "correct_answer": "Jamie Selkirk",
+      "film": "The Lord of the Rings: The Return of the King|2003",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-014",
+      "award_family": "Oscars",
+      "award_year": 2004,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2004",
+        "https://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World"
+      ],
+      "award_evidence": [
+        "Master and Commander: The Far Side of the World",
+        "Russell Boyd"
+      ],
+      "correct_answer": "Russell Boyd",
+      "film": "Master and Commander: The Far Side of the World|2003",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-015",
+      "award_family": "Oscars",
+      "award_year": 2009,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2009",
+        "https://en.wikipedia.org/wiki/Slumdog_Millionaire"
+      ],
+      "award_evidence": [
+        "Slumdog Millionaire",
+        "Anthony Dod Mantle"
+      ],
+      "correct_answer": "Anthony Dod Mantle",
+      "film": "Slumdog Millionaire|2008",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-016",
+      "award_family": "Oscars",
+      "award_year": 2009,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2009",
+        "https://en.wikipedia.org/wiki/Slumdog_Millionaire"
+      ],
+      "award_evidence": [
+        "Slumdog Millionaire",
+        "Chris Dickens"
+      ],
+      "correct_answer": "Chris Dickens",
+      "film": "Slumdog Millionaire|2008",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-017",
+      "award_family": "Oscars",
+      "award_year": 2010,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2010",
+        "https://en.wikipedia.org/wiki/Avatar_(2009_film)"
+      ],
+      "award_evidence": [
+        "Avatar",
+        "Mauro Fiore"
+      ],
+      "correct_answer": "Mauro Fiore",
+      "film": "Avatar|2009",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-018",
+      "award_family": "Oscars",
+      "award_year": 2010,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2010",
+        "https://en.wikipedia.org/wiki/The_Young_Victoria"
+      ],
+      "award_evidence": [
+        "The Young Victoria",
+        "Sandy Powell"
+      ],
+      "correct_answer": "Sandy Powell",
+      "film": "The Young Victoria|2009",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-019",
+      "award_family": "Oscars",
+      "award_year": 2015,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2015",
+        "https://en.wikipedia.org/wiki/Birdman_(film)"
+      ],
+      "award_evidence": [
+        "Birdman or (The Unexpected Virtue of Ignorance)",
+        "Emmanuel Lubezki"
+      ],
+      "correct_answer": "Emmanuel Lubezki",
+      "film": "Birdman or (The Unexpected Virtue of Ignorance)|2014",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-020",
+      "award_family": "Oscars",
+      "award_year": 2015,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2015",
+        "https://en.wikipedia.org/wiki/Whiplash_(2014_film)"
+      ],
+      "award_evidence": [
+        "Whiplash",
+        "Tom Cross"
+      ],
+      "correct_answer": "Tom Cross",
+      "film": "Whiplash|2014",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-021",
+      "award_family": "Oscars",
+      "award_year": 2017,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2017",
+        "https://en.wikipedia.org/wiki/La_La_Land"
+      ],
+      "award_evidence": [
+        "La La Land",
+        "Linus Sandgren"
+      ],
+      "correct_answer": "Linus Sandgren",
+      "film": "La La Land|2016",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-022",
+      "award_family": "Oscars",
+      "award_year": 2018,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2018",
+        "https://en.wikipedia.org/wiki/Dunkirk_(2017_film)"
+      ],
+      "award_evidence": [
+        "Dunkirk",
+        "Lee Smith"
+      ],
+      "correct_answer": "Lee Smith",
+      "film": "Dunkirk|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-023",
+      "award_family": "Oscars",
+      "award_year": 2021,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2021",
+        "https://en.wikipedia.org/wiki/Mank"
+      ],
+      "award_evidence": [
+        "Mank",
+        "Erik Messerschmidt"
+      ],
+      "correct_answer": "Erik Messerschmidt",
+      "film": "Mank|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-024",
+      "award_family": "Oscars",
+      "award_year": 2023,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2023",
+        "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once"
+      ],
+      "award_evidence": [
+        "Everything Everywhere All at Once",
+        "Paul Rogers"
+      ],
+      "correct_answer": "Paul Rogers",
+      "film": "Everything Everywhere All at Once|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-025",
+      "award_family": "Oscars",
+      "award_year": 2024,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2024",
+        "https://en.wikipedia.org/wiki/Oppenheimer_(film)"
+      ],
+      "award_evidence": [
+        "Oppenheimer",
+        "Jennifer Lame"
+      ],
+      "correct_answer": "Jennifer Lame",
+      "film": "Oppenheimer|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-026",
+      "award_family": "Cannes",
+      "award_year": 1955,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1955/awards/",
+        "https://en.wikipedia.org/wiki/Marty_(film)"
+      ],
+      "award_evidence": "Marty",
+      "correct_answer": "Marty",
+      "film": "Marty|1955",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-027",
+      "award_family": "Cannes",
+      "award_year": 1976,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1976/awards/",
+        "https://en.wikipedia.org/wiki/Taxi_Driver"
+      ],
+      "award_evidence": "Taxi Driver",
+      "correct_answer": "Taxi Driver",
+      "film": "Taxi Driver|1976",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-028",
+      "award_family": "Cannes",
+      "award_year": 1984,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1984/awards/",
+        "https://en.wikipedia.org/wiki/Paris,_Texas_(film)"
+      ],
+      "award_evidence": "Paris, Texas",
+      "correct_answer": "Paris, Texas",
+      "film": "Paris, Texas|1984",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-029",
+      "award_family": "Cannes",
+      "award_year": 1994,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1994/awards/",
+        "https://en.wikipedia.org/wiki/Pulp_Fiction",
+        "https://www.oscars.org/oscars/ceremonies/1995"
+      ],
+      "award_evidence": "Pulp Fiction",
+      "correct_answer": "Pulp Fiction",
+      "film": "Pulp Fiction|1994",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-030",
+      "award_family": "Cannes",
+      "award_year": 1996,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1996/awards/",
+        "https://en.wikipedia.org/wiki/Secrets_%26_Lies_(film)"
+      ],
+      "award_evidence": "Secrets & Lies",
+      "correct_answer": "Lügen und Geheimnisse",
+      "film": "Secrets & Lies|1996",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-031",
+      "award_family": "Cannes",
+      "award_year": 2000,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2000/awards/",
+        "https://en.wikipedia.org/wiki/Dancer_in_the_Dark"
+      ],
+      "award_evidence": "Dancer in the Dark",
+      "correct_answer": "Dancer in the Dark",
+      "film": "Dancer in the Dark|2000",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-032",
+      "award_family": "Cannes",
+      "award_year": 2002,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2002/awards/",
+        "https://en.wikipedia.org/wiki/The_Pianist_(2002_film)",
+        "https://www.oscars.org/oscars/ceremonies/2003"
+      ],
+      "award_evidence": "The Pianist",
+      "correct_answer": "Der Pianist",
+      "film": "The Pianist|2002",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-033",
+      "award_family": "Cannes",
+      "award_year": 2009,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2009/awards/",
+        "https://en.wikipedia.org/wiki/The_White_Ribbon"
+      ],
+      "award_evidence": "Das weiße Band",
+      "correct_answer": "Das weiße Band – Eine deutsche Kindergeschichte",
+      "film": "Das weiße Band – Eine deutsche Kindergeschichte|2009",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-034",
+      "award_family": "Cannes",
+      "award_year": 2011,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2011/awards/",
+        "https://en.wikipedia.org/wiki/The_Tree_of_Life_(film)"
+      ],
+      "award_evidence": "The Tree of Life",
+      "correct_answer": "The Tree of Life",
+      "film": "The Tree of Life|2011",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-035",
+      "award_family": "Cannes",
+      "award_year": 2012,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2012/awards/",
+        "https://en.wikipedia.org/wiki/Amour_(2012_film)"
+      ],
+      "award_evidence": "Amour",
+      "correct_answer": "Liebe",
+      "film": "Amour|2012",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-036",
+      "award_family": "Cannes",
+      "award_year": 2018,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2018/awards/",
+        "https://en.wikipedia.org/wiki/Shoplifters_(film)"
+      ],
+      "award_evidence": "Shoplifters – Familienbande",
+      "correct_answer": "Shoplifters – Familienbande",
+      "film": "Manbiki Kazoku|2018",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-037",
+      "award_family": "Cannes",
+      "award_year": 2019,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2019/awards/",
+        "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
+        "https://www.oscars.org/oscars/ceremonies/2020"
+      ],
+      "award_evidence": "Parasite",
+      "correct_answer": "Parasite",
+      "film": "Gisaengchung|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-038",
+      "award_family": "Cannes",
+      "award_year": 2023,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2023/awards/",
+        "https://en.wikipedia.org/wiki/Anatomy_of_a_Fall",
+        "https://www.oscars.org/oscars/ceremonies/2024"
+      ],
+      "award_evidence": "Anatomie eines Falls",
+      "correct_answer": "Anatomie eines Falls",
+      "film": "Anatomie d'une chute|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-026",
+      "award_family": "Cannes",
+      "award_year": 1993,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1993/awards/",
+        "https://en.wikipedia.org/wiki/The_Piano"
+      ],
+      "award_evidence": "Das Piano",
+      "correct_answer": "Das Piano",
+      "film": "The Piano|1993",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-027",
+      "award_family": "Cannes",
+      "award_year": 1999,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1999/awards/",
+        "https://en.wikipedia.org/wiki/Rosetta_(film)"
+      ],
+      "award_evidence": "Émilie Dequenne",
+      "correct_answer": "Émilie Dequenne",
+      "film": "Rosetta|1999",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-028",
+      "award_family": "Cannes",
+      "award_year": 2000,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2000/awards/",
+        "https://en.wikipedia.org/wiki/Dancer_in_the_Dark"
+      ],
+      "award_evidence": "Björk",
+      "correct_answer": "Björk",
+      "film": "Dancer in the Dark|2000",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-029",
+      "award_family": "Cannes",
+      "award_year": 2000,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2000/awards/",
+        "https://en.wikipedia.org/wiki/In_the_Mood_for_Love"
+      ],
+      "award_evidence": "In the Mood for Love",
+      "correct_answer": "In the Mood for Love",
+      "film": "Fa yeung nin wa|2000",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-030",
+      "award_family": "Cannes",
+      "award_year": 2003,
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2003",
+        "https://en.wikipedia.org/wiki/The_Pianist_(2002_film)",
+        "https://www.festival-cannes.com/en/retrospective/2002/awards/"
+      ],
+      "award_evidence": "Adrien Brody",
+      "correct_answer": "Adrien Brody",
+      "film": "The Pianist|2002",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-031",
+      "award_family": "Cannes",
+      "award_year": 2009,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2009/awards/",
+        "https://www.oscars.org/oscars/ceremonies/2010",
+        "https://en.wikipedia.org/wiki/Inglourious_Basterds"
+      ],
+      "award_evidence": "Christoph Waltz in Inglourious Basterds",
+      "correct_answer": "Christoph Waltz in Inglourious Basterds",
+      "film": "Inglourious Basterds|2009",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-032",
+      "award_family": "Cannes",
+      "award_year": 2011,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2011/awards/",
+        "https://en.wikipedia.org/wiki/The_Artist_(film)",
+        "https://www.oscars.org/oscars/ceremonies/2012"
+      ],
+      "award_evidence": "Jean Dujardin",
+      "correct_answer": "Jean Dujardin",
+      "film": "The Artist|2011",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-033",
+      "award_family": "Cannes",
+      "award_year": 2011,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2011/awards/",
+        "https://en.wikipedia.org/wiki/Melancholia_(2011_film)"
+      ],
+      "award_evidence": "Kirsten Dunst",
+      "correct_answer": "Kirsten Dunst",
+      "film": "Melancholia|2011",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-034",
+      "award_family": "Cannes",
+      "award_year": 2012,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2012/awards/",
+        "https://en.wikipedia.org/wiki/The_Hunt_(2012_film)"
+      ],
+      "award_evidence": "Mads Mikkelsen",
+      "correct_answer": "Mads Mikkelsen",
+      "film": "Jagten|2012",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-035",
+      "award_family": "Cannes",
+      "award_year": 2017,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2017/awards/",
+        "https://en.wikipedia.org/wiki/In_the_Fade"
+      ],
+      "award_evidence": "Diane Kruger",
+      "correct_answer": "Diane Kruger",
+      "film": "Aus dem Nichts|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-036",
+      "award_family": "Cannes",
+      "award_year": 2019,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2019/awards/",
+        "https://en.wikipedia.org/wiki/Pain_and_Glory"
+      ],
+      "award_evidence": "Antonio Banderas",
+      "correct_answer": "Antonio Banderas",
+      "film": "Dolor y gloria|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-037",
+      "award_family": "Cannes",
+      "award_year": 2023,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2023/awards/",
+        "https://en.wikipedia.org/wiki/Perfect_Days"
+      ],
+      "award_evidence": "Kōji Yakusho",
+      "correct_answer": "Kōji Yakusho",
+      "film": "Perfect Days|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-026",
+      "award_family": "Cannes",
+      "award_year": 1979,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1979/awards/",
+        "https://en.wikipedia.org/wiki/Apocalypse_Now"
+      ],
+      "award_evidence": "Die Blechtrommel",
+      "correct_answer": "Die Blechtrommel",
+      "film": "Apocalypse Now|1979",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-027",
+      "award_family": "Cannes",
+      "award_year": 1993,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1993/awards/",
+        "https://en.wikipedia.org/wiki/The_Piano"
+      ],
+      "award_evidence": "Lebewohl, meine Konkubine",
+      "correct_answer": "Lebewohl, meine Konkubine",
+      "film": "The Piano|1993",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-028",
+      "award_family": "Cannes",
+      "award_year": 1991,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1991/awards/",
+        "https://en.wikipedia.org/wiki/Barton_Fink"
+      ],
+      "award_evidence": "Palme, Regiepreis und männlicher Darstellerpreis",
+      "correct_answer": "Palme, Regiepreis und männlicher Darstellerpreis",
+      "film": "Barton Fink|1991",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-029",
+      "award_family": "Cannes",
+      "award_year": 2004,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2004/awards/",
+        "https://en.wikipedia.org/wiki/Fahrenheit_9/11"
+      ],
+      "award_evidence": "Fahrenheit 9/11",
+      "correct_answer": "Fahrenheit 9/11",
+      "film": "Fahrenheit 9/11|2004",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-030",
+      "award_family": "Cannes",
+      "award_year": 2006,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2006/awards/",
+        "https://en.wikipedia.org/wiki/Volver"
+      ],
+      "award_evidence": "Gemeinsam an sechs Darstellerinnen",
+      "correct_answer": "Gemeinsam an sechs Darstellerinnen",
+      "film": "Volver|2006",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-031",
+      "award_family": "Cannes",
+      "award_year": 2013,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2013/awards/",
+        "https://en.wikipedia.org/wiki/Blue_Is_the_Warmest_Colour"
+      ],
+      "award_evidence": "Abdellatif Kechiche, Adèle Exarchopoulos und Léa Seydoux",
+      "correct_answer": "Abdellatif Kechiche, Adèle Exarchopoulos und Léa Seydoux",
+      "film": "La Vie d'Adèle – Chapitres 1 & 2|2013",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-032",
+      "award_family": "Cannes",
+      "award_year": 2014,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2014/awards/",
+        "https://en.wikipedia.org/wiki/Mommy_(2014_film)"
+      ],
+      "award_evidence": "Adieu au langage",
+      "correct_answer": "Adieu au langage",
+      "film": "Mommy|2014",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-033",
+      "award_family": "Cannes",
+      "award_year": 2015,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2015/awards/",
+        "https://en.wikipedia.org/wiki/Son_of_Saul"
+      ],
+      "award_evidence": "Grand Prix",
+      "correct_answer": "Grand Prix",
+      "film": "Saul fia|2015",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-034",
+      "award_family": "Cannes",
+      "award_year": 2016,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2016/awards/",
+        "https://en.wikipedia.org/wiki/The_Salesman_(2016_film)"
+      ],
+      "award_evidence": "Drehbuchpreis und männlicher Darstellerpreis",
+      "correct_answer": "Drehbuchpreis und männlicher Darstellerpreis",
+      "film": "Forushande|2016",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-035",
+      "award_family": "Cannes",
+      "award_year": 2018,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2018/awards/",
+        "https://en.wikipedia.org/wiki/BlacKkKlansman"
+      ],
+      "award_evidence": "Grand Prix",
+      "correct_answer": "Grand Prix",
+      "film": "BlacKkKlansman|2018",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-036",
+      "award_family": "Cannes",
+      "award_year": 2019,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2019/awards/",
+        "https://en.wikipedia.org/wiki/Portrait_of_a_Lady_on_Fire"
+      ],
+      "award_evidence": "Das Drehbuch von Céline Sciamma",
+      "correct_answer": "Das Drehbuch von Céline Sciamma",
+      "film": "Portrait de la jeune fille en feu|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-037",
+      "award_family": "Cannes",
+      "award_year": 2022,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2022/awards/",
+        "https://www.festival-cannes.com/en/retrospective/2017/awards/",
+        "https://en.wikipedia.org/wiki/Triangle_of_Sadness"
+      ],
+      "award_evidence": "The Square und Triangle of Sadness",
+      "correct_answer": "The Square und Triangle of Sadness",
+      "film": "Triangle of Sadness|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-038",
+      "award_family": "Cannes",
+      "award_year": 2023,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2023/awards/",
+        "https://en.wikipedia.org/wiki/The_Zone_of_Interest_(film)"
+      ],
+      "award_evidence": "Grand Prix",
+      "correct_answer": "Grand Prix",
+      "film": "The Zone of Interest|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-026",
+      "award_family": "Cannes",
+      "award_year": 1979,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1979/juries/",
+        "https://en.wikipedia.org/wiki/Apocalypse_Now"
+      ],
+      "award_evidence": "Françoise Sagan",
+      "correct_answer": "Françoise Sagan",
+      "film": "Apocalypse Now|1979",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-027",
+      "award_family": "Cannes",
+      "award_year": 1994,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/1994/juries/",
+        "https://en.wikipedia.org/wiki/Pulp_Fiction"
+      ],
+      "award_evidence": "Clint Eastwood",
+      "correct_answer": "Clint Eastwood",
+      "film": "Pulp Fiction|1994",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-028",
+      "award_family": "Cannes",
+      "award_year": 2005,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2005/awards/",
+        "https://en.wikipedia.org/wiki/The_Three_Burials_of_Melquiades_Estrada"
+      ],
+      "award_evidence": "Darstellerpreis für Tommy Lee Jones und Drehbuchpreis für Guillermo Arriaga",
+      "correct_answer": "Darstellerpreis für Tommy Lee Jones und Drehbuchpreis für Guillermo Arriaga",
+      "film": "The Three Burials of Melquiades Estrada|2005",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-029",
+      "award_family": "Cannes",
+      "award_year": 2006,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2006/awards/",
+        "https://en.wikipedia.org/wiki/Days_of_Glory_(2006_film)"
+      ],
+      "award_evidence": "Einem Ensemble aus fünf Darstellern",
+      "correct_answer": "Einem Ensemble aus fünf Darstellern",
+      "film": "Indigènes|2006",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-030",
+      "award_family": "Cannes",
+      "award_year": 2011,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2011/awards/",
+        "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Anatolia"
+      ],
+      "award_evidence": "Der Junge mit dem Fahrrad",
+      "correct_answer": "Der Junge mit dem Fahrrad",
+      "film": "Bir Zamanlar Anadolu’da|2011",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-031",
+      "award_family": "Cannes",
+      "award_year": 2015,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2015/awards/",
+        "https://en.wikipedia.org/wiki/Carol_(film)"
+      ],
+      "award_evidence": "Emmanuelle Bercot für Mon roi",
+      "correct_answer": "Emmanuelle Bercot für Mon roi",
+      "film": "Carol|2015",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-032",
+      "award_family": "Cannes",
+      "award_year": 2016,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2016/awards/",
+        "https://en.wikipedia.org/wiki/Personal_Shopper"
+      ],
+      "award_evidence": "Cristian Mungiu für Bacalaureat",
+      "correct_answer": "Cristian Mungiu für Bacalaureat",
+      "film": "Personal Shopper|2016",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-033",
+      "award_family": "Cannes",
+      "award_year": 2017,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2017/awards/",
+        "https://en.wikipedia.org/wiki/The_Killing_of_a_Sacred_Deer"
+      ],
+      "award_evidence": "You Were Never Really Here",
+      "correct_answer": "You Were Never Really Here",
+      "film": "The Killing of a Sacred Deer|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-034",
+      "award_family": "Cannes",
+      "award_year": 2018,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2018/awards/",
+        "https://en.wikipedia.org/wiki/Happy_as_Lazzaro"
+      ],
+      "award_evidence": "Drei Gesichter",
+      "correct_answer": "Drei Gesichter",
+      "film": "Lazzaro felice|2018",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-035",
+      "award_family": "Cannes",
+      "award_year": 2021,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2021/awards/",
+        "https://en.wikipedia.org/wiki/Memoria_(2021_film)"
+      ],
+      "award_evidence": "Aheds Knie",
+      "correct_answer": "Aheds Knie",
+      "film": "Memoria|2021",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-036",
+      "award_family": "Cannes",
+      "award_year": 2022,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2022/awards/",
+        "https://en.wikipedia.org/wiki/Close_(2022_film)"
+      ],
+      "award_evidence": "Stars at Noon",
+      "correct_answer": "Stars at Noon",
+      "film": "Close|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-037",
+      "award_family": "Cannes",
+      "award_year": 2023,
+      "sources": [
+        "https://www.festival-cannes.com/en/retrospective/2023/awards/",
+        "https://en.wikipedia.org/wiki/Monster_(2023_Japanese_film)"
+      ],
+      "award_evidence": "Yūji Sakamoto",
+      "correct_answer": "Yūji Sakamoto",
+      "film": "Kaibutsu|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-039",
+      "award_family": "Venedig",
+      "award_year": 2017,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-74th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Shape_of_Water"
+      ],
+      "award_evidence": "The Shape of Water",
+      "correct_answer": "Shape of Water – Das Flüstern des Wassers",
+      "film": "The Shape of Water|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-040",
+      "award_family": "Venedig",
+      "award_year": 2018,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-75th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Roma_(2018_film)"
+      ],
+      "award_evidence": "Roma",
+      "correct_answer": "Roma",
+      "film": "Roma|2018",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-041",
+      "award_family": "Venedig",
+      "award_year": 2019,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-76th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Joker_(2019_film)"
+      ],
+      "award_evidence": "Joker",
+      "correct_answer": "Joker",
+      "film": "Joker|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-042",
+      "award_family": "Venedig",
+      "award_year": 2020,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-77th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Nomadland_(film)"
+      ],
+      "award_evidence": "Nomadland",
+      "correct_answer": "Nomadland",
+      "film": "Nomadland|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-043",
+      "award_family": "Venedig",
+      "award_year": 2021,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-78th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Happening_(film)"
+      ],
+      "award_evidence": "L'Événement",
+      "correct_answer": "Das Ereignis",
+      "film": "L'Événement|2021",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-044",
+      "award_family": "Venedig",
+      "award_year": 2022,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/All_the_Beauty_and_the_Bloodshed"
+      ],
+      "award_evidence": "All the Beauty and the Bloodshed",
+      "correct_answer": "All the Beauty and the Bloodshed",
+      "film": "All the Beauty and the Bloodshed|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-045",
+      "award_family": "Venedig",
+      "award_year": 2023,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-80th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Poor_Things_(film)"
+      ],
+      "award_evidence": "Poor Things",
+      "correct_answer": "Poor Things",
+      "film": "Poor Things|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-046",
+      "award_family": "Venedig",
+      "award_year": 2018,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-75th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Favourite_(2018_film)"
+      ],
+      "award_evidence": "Olivia Colman",
+      "correct_answer": "Olivia Colman",
+      "film": "The Favourite|2018",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-047",
+      "award_family": "Venedig",
+      "award_year": 2020,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-77th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Pieces_of_a_Woman"
+      ],
+      "award_evidence": "Vanessa Kirby",
+      "correct_answer": "Vanessa Kirby",
+      "film": "Pieces of a Woman|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-048",
+      "award_family": "Venedig",
+      "award_year": 2021,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-78th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Parallel_Mothers"
+      ],
+      "award_evidence": "Penélope Cruz",
+      "correct_answer": "Penélope Cruz",
+      "film": "Madres paralelas|2021",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-049",
+      "award_family": "Venedig",
+      "award_year": 2022,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Tár"
+      ],
+      "award_evidence": "Cate Blanchett",
+      "correct_answer": "Cate Blanchett",
+      "film": "Tár|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-L-050",
+      "award_family": "Venedig",
+      "award_year": 2022,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Banshees_of_Inisherin"
+      ],
+      "award_evidence": "Colin Farrell",
+      "correct_answer": "Colin Farrell",
+      "film": "The Banshees of Inisherin|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-038",
+      "award_family": "Venedig",
+      "award_year": 2017,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-74th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Hannah_(2017_film)"
+      ],
+      "award_evidence": "Charlotte Rampling",
+      "correct_answer": "Charlotte Rampling",
+      "film": "Hannah|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-039",
+      "award_family": "Venedig",
+      "award_year": 2017,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-74th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Insult_(film)"
+      ],
+      "award_evidence": "Kamel El Basha",
+      "correct_answer": "Kamel El Basha",
+      "film": "The Insult|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-040",
+      "award_family": "Venedig",
+      "award_year": 2018,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-75th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/At_Eternity's_Gate_(film)"
+      ],
+      "award_evidence": "Van Gogh – An der Schwelle zur Ewigkeit",
+      "correct_answer": "Van Gogh – An der Schwelle zur Ewigkeit",
+      "film": "At Eternity's Gate|2018",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-041",
+      "award_family": "Venedig",
+      "award_year": 2019,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-76th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Gloria_Mundi_(film)"
+      ],
+      "award_evidence": "Ariane Ascaride",
+      "correct_answer": "Ariane Ascaride",
+      "film": "Gloria Mundi|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-042",
+      "award_family": "Venedig",
+      "award_year": 2019,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-76th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Martin_Eden_(2019_film)",
+        "https://www.oscars.org/oscars/ceremonies/2020"
+      ],
+      "award_evidence": "Luca Marinelli",
+      "correct_answer": "Luca Marinelli",
+      "film": "Martin Eden|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-043",
+      "award_family": "Venedig",
+      "award_year": 2020,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-77th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Padrenostro"
+      ],
+      "award_evidence": "Pierfrancesco Favino",
+      "correct_answer": "Pierfrancesco Favino",
+      "film": "Padrenostro|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-044",
+      "award_family": "Venedig",
+      "award_year": 2021,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-78th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/On_the_Job:_The_Missing_8"
+      ],
+      "award_evidence": "John Arcilla",
+      "correct_answer": "John Arcilla",
+      "film": "On the Job: The Missing 8|2021",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-045",
+      "award_family": "Venedig",
+      "award_year": 2023,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-80th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Priscilla_(film)"
+      ],
+      "award_evidence": "Cailee Spaeny",
+      "correct_answer": "Cailee Spaeny",
+      "film": "Priscilla|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-046",
+      "award_family": "Venedig",
+      "award_year": 2023,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-80th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Memory_(2023_film)"
+      ],
+      "award_evidence": "Peter Sarsgaard",
+      "correct_answer": "Peter Sarsgaard",
+      "film": "Memory|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-047",
+      "award_family": "Venedig",
+      "award_year": 2019,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-76th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Babyteeth_(film)"
+      ],
+      "award_evidence": "Toby Wallace",
+      "correct_answer": "Toby Wallace",
+      "film": "Babyteeth|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-048",
+      "award_family": "Venedig",
+      "award_year": 2021,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-78th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Hand_of_God_(film)"
+      ],
+      "award_evidence": "Filippo Scotti",
+      "correct_answer": "Filippo Scotti",
+      "film": "È stata la mano di Dio|2021",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-049",
+      "award_family": "Venedig",
+      "award_year": 2022,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Bones_and_All"
+      ],
+      "award_evidence": "Taylor Russell",
+      "correct_answer": "Taylor Russell",
+      "film": "Bones and All|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-M-050",
+      "award_family": "Venedig",
+      "award_year": 2023,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-80th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Io_capitano"
+      ],
+      "award_evidence": "Seydou Sarr",
+      "correct_answer": "Seydou Sarr",
+      "film": "Io capitano|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-039",
+      "award_family": "Venedig",
+      "award_year": 2017,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-74th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Three_Billboards_Outside_Ebbing,_Missouri",
+        "https://www.oscars.org/oscars/ceremonies/2018"
+      ],
+      "award_evidence": "Das Drehbuch von Martin McDonagh",
+      "correct_answer": "Das Drehbuch von Martin McDonagh",
+      "film": "Three Billboards Outside Ebbing, Missouri|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-040",
+      "award_family": "Venedig",
+      "award_year": 2018,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-75th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Ballad_of_Buster_Scruggs"
+      ],
+      "award_evidence": "Joel und Ethan Coen",
+      "correct_answer": "Joel und Ethan Coen",
+      "film": "The Ballad of Buster Scruggs|2018",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-041",
+      "award_family": "Venedig",
+      "award_year": 2019,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-76th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/No._7_Cherry_Lane"
+      ],
+      "award_evidence": "Yonfan",
+      "correct_answer": "Yonfan",
+      "film": "Ji yuan tai qi hao|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-042",
+      "award_family": "Venedig",
+      "award_year": 2020,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-77th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Disciple_(2020_film)"
+      ],
+      "award_evidence": "Das Drehbuch von Chaitanya Tamhane",
+      "correct_answer": "Das Drehbuch von Chaitanya Tamhane",
+      "film": "The Disciple|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-043",
+      "award_family": "Venedig",
+      "award_year": 2021,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-78th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Lost_Daughter_(film)"
+      ],
+      "award_evidence": "Maggie Gyllenhaal",
+      "correct_answer": "Maggie Gyllenhaal",
+      "film": "The Lost Daughter|2021",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-044",
+      "award_family": "Venedig",
+      "award_year": 2022,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Banshees_of_Inisherin"
+      ],
+      "award_evidence": "Den Drehbuchpreis",
+      "correct_answer": "Den Drehbuchpreis",
+      "film": "The Banshees of Inisherin|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-045",
+      "award_family": "Venedig",
+      "award_year": 2023,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-80th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/El_Conde_(film)"
+      ],
+      "award_evidence": "Guillermo Calderón und Pablo Larraín",
+      "correct_answer": "Guillermo Calderón und Pablo Larraín",
+      "film": "El Conde|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-046",
+      "award_family": "Venedig",
+      "award_year": 2017,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-74th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Custody_(2017_film)"
+      ],
+      "award_evidence": "Nach dem Urteil",
+      "correct_answer": "Nach dem Urteil",
+      "film": "Jusqu'à la garde|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-047",
+      "award_family": "Venedig",
+      "award_year": 2018,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-75th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Sisters_Brothers_(film)",
+        "https://www.festival-cannes.com/en/retrospective/2015/awards/"
+      ],
+      "award_evidence": "The Sisters Brothers",
+      "correct_answer": "The Sisters Brothers",
+      "film": "The Sisters Brothers|2018",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-048",
+      "award_family": "Venedig",
+      "award_year": 2019,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-76th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/About_Endlessness"
+      ],
+      "award_evidence": "Über die Unendlichkeit",
+      "correct_answer": "Über die Unendlichkeit",
+      "film": "Om det oändliga|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-049",
+      "award_family": "Venedig",
+      "award_year": 2020,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-77th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Wife_of_a_Spy"
+      ],
+      "award_evidence": "Wife of a Spy",
+      "correct_answer": "Wife of a Spy",
+      "film": "Spy no tsuma|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-S-050",
+      "award_family": "Venedig",
+      "award_year": 2021,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-78th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Power_of_the_Dog_(film)",
+        "https://www.festival-cannes.com/en/retrospective/1993/awards/"
+      ],
+      "award_evidence": "The Power of the Dog",
+      "correct_answer": "The Power of the Dog",
+      "film": "The Power of the Dog|2021",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-038",
+      "award_family": "Venedig",
+      "award_year": 2017,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-74th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Foxtrot_(2017_film)"
+      ],
+      "award_evidence": "Den Großen Preis der Jury",
+      "correct_answer": "Den Großen Preis der Jury",
+      "film": "Foxtrot|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-039",
+      "award_family": "Venedig",
+      "award_year": 2018,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-75th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Favourite_(2018_film)"
+      ],
+      "award_evidence": "Den Großen Preis der Jury",
+      "correct_answer": "Den Großen Preis der Jury",
+      "film": "The Favourite|2018",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-040",
+      "award_family": "Venedig",
+      "award_year": 2019,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-76th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/An_Officer_and_a_Spy_(film)"
+      ],
+      "award_evidence": "Den Großen Preis der Jury",
+      "correct_answer": "Den Großen Preis der Jury",
+      "film": "J'accuse|2019",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-041",
+      "award_family": "Venedig",
+      "award_year": 2020,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-77th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/New_Order_(film)"
+      ],
+      "award_evidence": "Den Großen Preis der Jury",
+      "correct_answer": "Den Großen Preis der Jury",
+      "film": "Nuevo orden|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-042",
+      "award_family": "Venedig",
+      "award_year": 2021,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-78th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Hand_of_God_(film)"
+      ],
+      "award_evidence": "Den Großen Preis der Jury",
+      "correct_answer": "Den Großen Preis der Jury",
+      "film": "È stata la mano di Dio|2021",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-043",
+      "award_family": "Venedig",
+      "award_year": 2022,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Saint_Omer_(film)"
+      ],
+      "award_evidence": "Großer Preis der Jury und Preis für das beste Debüt",
+      "correct_answer": "Großer Preis der Jury und Preis für das beste Debüt",
+      "film": "Saint Omer|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-044",
+      "award_family": "Venedig",
+      "award_year": 2023,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-80th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Evil_Does_Not_Exist"
+      ],
+      "award_evidence": "Den Großen Preis der Jury",
+      "correct_answer": "Den Großen Preis der Jury",
+      "film": "Aku wa sonzai shinai|2023",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-045",
+      "award_family": "Venedig",
+      "award_year": 2017,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-74th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Sweet_Country_(2017_film)"
+      ],
+      "award_evidence": "Sweet Country",
+      "correct_answer": "Sweet Country",
+      "film": "Sweet Country|2017",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-046",
+      "award_family": "Venedig",
+      "award_year": 2018,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-75th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/The_Nightingale_(2018_film)"
+      ],
+      "award_evidence": "Spezialpreis der Jury und Nachwuchsdarstellerpreis für Baykali Ganambarr",
+      "correct_answer": "Spezialpreis der Jury und Nachwuchsdarstellerpreis für Baykali Ganambarr",
+      "film": "The Nightingale|2018",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-047",
+      "award_family": "Venedig",
+      "award_year": 2020,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-77th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Dear_Comrades!"
+      ],
+      "award_evidence": "Den Spezialpreis der Jury",
+      "correct_answer": "Den Spezialpreis der Jury",
+      "film": "Dorogie tovarishchi!|2020",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-048",
+      "award_family": "Venedig",
+      "award_year": 2021,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-78th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Il_buco"
+      ],
+      "award_evidence": "Den Spezialpreis der Jury",
+      "correct_answer": "Den Spezialpreis der Jury",
+      "film": "Il buco|2021",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-049",
+      "award_family": "Venedig",
+      "award_year": 2022,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/No_Bears"
+      ],
+      "award_evidence": "Den Spezialpreis der Jury",
+      "correct_answer": "Den Spezialpreis der Jury",
+      "film": "Khers nist|2022",
+      "checked_on": "2026-10-02"
+    },
+    {
+      "question_id": "PRZ-202610-P01-E-050",
+      "award_family": "Venedig",
+      "award_year": 2023,
+      "sources": [
+        "https://www.labiennale.org/en/news/official-awards-80th-venice-film-festival",
+        "https://en.wikipedia.org/wiki/Poor_Things_(film)"
+      ],
+      "award_evidence": "Damien Chazelle",
+      "correct_answer": "Damien Chazelle",
+      "film": "Poor Things|2023",
+      "checked_on": "2026-10-02"
+    }
+  ]
+}

@@ -57,18 +57,51 @@ export function Help() {
         </p>
       </details>
       <details>
-        <summary>Was sind Classics und Arthouse?</summary>
+        <summary>Was sind Classics, Arthouse und Preisträger?</summary>
         <p>
           Das sind kuratierte Auswahlen zusätzlich zu den Filmgenres. Classics
           versammelt ausgewählte Klassiker; Arthouse umfasst Autoren- und
           Programmkino einschließlich ausgewählter Genrefilme. Es gibt keine
-          automatische Altersgrenze oder Gleichsetzung mit Drama.
+          automatische Altersgrenze oder Gleichsetzung mit Drama. Preisträger
+          widmet sich Oscars, der Goldenen Palme und den Preisen des
+          Filmfestivals von Venedig.
         </p>
         <p>
-          Die Kategorien schränken Deine gewählten Genres ein. Wählst Du beide,
-          kommen Fragen aus Classics oder Arthouse vor. Eine Frage kann in
-          mehreren Auswahlen vorkommen, behält aber immer denselben Lernstand
-          und wird innerhalb einer Runde nicht doppelt ausgewählt.
+          Die Kategorien schränken Deine gewählten Genres ein. Wählst Du
+          mehrere, kommen Fragen aus jeder gewählten Kategorie vor. Eine Frage
+          kann in mehreren Auswahlen vorkommen, behält aber immer denselben
+          Lernstand und wird innerhalb einer Runde nicht doppelt ausgewählt.
+        </p>
+      </details>
+      <details>
+        <summary>Was bedeutet die Stufe Experte?</summary>
+        <p>
+          Expertenfragen verlangen vertieftes Film- und Preiswissen, etwa über
+          Filmhandwerk, geteilte Auszeichnungen und ungewöhnliche Preisverläufe.
+          Du kannst sie im Freien Spiel und in Rekordrunden auswählen; im
+          Fehlertraining wiederholst Du Deine Fehlantworten. Die Filmreise führt
+          weiterhin durch leicht, mittel und schwer. Eine sichere richtige
+          Expertenantwort bringt wie eine schwere Antwort 5 zusätzliche XP.
+        </p>
+      </details>
+      <details>
+        <summary>Was passiert bei „Keine Ahnung“?</summary>
+        <p>
+          Wähle „Keine Ahnung“, wenn Du keine Antwort weißt und bewusst nicht
+          raten möchtest. Zuerst siehst Du kurz nur die richtige Lösung, sanft
+          hervorgehoben. Danach folgen die normale Erklärung und der Merksatz.
+          Keine falsche Antwort wird als Deine Wahl markiert.
+        </p>
+        <p>
+          Wenn Du „Lösungen nach der Runde“ gewählt hast, siehst Du auch bei
+          „Keine Ahnung“ die Auflösung erst in Deinem eigenen Rundenrückblick.
+        </p>
+        <p>
+          Die Auswahl zählt in allen Modi als falsch, in der Rekordrunde gibt es
+          keine Punkte. Das Wissensziel kommt ins Fehlertraining und wird nach
+          zehn Minuten wieder fällig. Im Rückblick steht „Keine Ahnung“. Ein
+          Zeitablauf bleibt davon getrennt. Ton und Vibration verwenden Deine
+          bestehenden Optionen; reduzierte Animationen werden beachtet.
         </p>
       </details>
       <details>
@@ -111,6 +144,55 @@ export function Help() {
         </p>
       </details>
       <details>
+        <summary>Wie funktionieren die Duelle?</summary>
+        <p>
+          Unter Spielen öffnest Du Deine Duelle. Mit einem bestätigten Konto
+          kannst Du einen zufälligen Gegner finden oder jemanden per Link
+          einladen. Ihr bekommt dieselben Fragen: drei Runden mit je zehn Fragen
+          und 30 Sekunden pro Frage. Jeder Treffer zählt einen Punkt; nach allen
+          drei Runden entscheidet die Summe. Ein Gleichstand ist möglich.
+        </p>
+        <p>
+          Einer legt Runde 1 vor. Der andere beantwortet sie und legt Runde 2
+          vor. Danach beantwortet der erste Runde 2 und legt Runde 3 vor. Zum
+          Schluss beantwortet der andere Runde 3. Nach jeder Frage und jeder
+          Zehnerrunde kannst Du pausieren. Eine bereits gestartete Frage läuft
+          während der Pause weiter.
+        </p>
+        <p>
+          Deine Übersicht zeigt alle offenen Duelle, wer dran ist und die Frist.
+          Du kannst insgesamt fünf Spiele offen haben, davon höchstens eine
+          Herausforderung ohne Gegner. Für einen freigegebenen Spielblock
+          bleiben 72 Stunden; das gilt auch für die beiden Blöcke mit zwei
+          Runden. Ohne Gegner endet eine Herausforderung nach sieben Tagen.
+        </p>
+        <p>
+          Spielt jemand nicht weiter, endet das Duell. Habt Ihr schon eine Runde
+          beide abgeschlossen, gewinnt der Wartende durch Zeitablauf. Vorher
+          wird es ohne Sieg oder Niederlage beendet. Deine tatsächlich
+          gespielten Antworten bleiben für Dein Lernen erhalten. Für Duelle
+          brauchst Du Internet; das Solospiel bleibt offline verfügbar.
+        </p>
+      </details>
+      <details>
+        <summary>Wann sehe ich die Lösungen?</summary>
+        <p>
+          Vor einer Solo- oder Duellrunde wählst Du „Nach jeder Frage“ oder
+          „Nach der Runde“. Direkt nach jeder Frage ist der Standard. Bei der
+          gesammelten Anzeige bestätigst Du jede Antwort und startest die
+          nächste Frage selbst. Lösungen und Erklärungen erscheinen nach Deiner
+          eigenen Runde, auch wenn Dein Gegner noch nicht fertig ist. Die
+          Zeitgrenze und Deine Pausen bleiben gleich.
+        </p>
+        <p>
+          Bei gesammelten Lösungen kannst Du vor Deiner Antwort „Ich rate bei
+          dieser Frage“ markieren. Ein geratener Treffer zählt im Duell, gilt
+          aber nicht als sichere Lernantwort. Im Duell legt der Ersteller die
+          Lösungsanzeige für beide fest. Rekorde mit unterschiedlicher Anzeige
+          werden getrennt verglichen.
+        </p>
+      </details>
+      <details>
         <summary>Wie öffne ich neue Schwierigkeiten und Filmgruppen?</summary>
         <p>
           Die Filmreise beginnt je Genre mit Leicht und der bekanntesten
@@ -148,9 +230,27 @@ export function Help() {
       <details>
         <summary>Was bedeuten XP, Level und Abzeichen?</summary>
         <p>
-          Jede abgeschlossene Runde bringt zehn Erfahrungspunkte (XP). Je 100 XP
-          steigst Du ein Level auf. XP zeigen Deine Aktivität; sie sind keine
-          Rekordpunkte und ersetzen keine gefestigten Wissensziele.
+          Deine Filmkarriere wächst mit abgeschlossenen Runden: eine
+          beantwortete Frage bringt 1 XP, eine sichere richtige Antwort
+          zusätzlich 2 XP (leicht), 3 XP (mittel) oder 5 XP (schwer und
+          Experte). Auch „Keine Ahnung“ zählt als beantwortet; Zeitabläufe
+          bringen keine Antwort-XP, geratene Treffer keine sicheren Treffer-XP.
+        </p>
+        <p>
+          Erstmals sicher gelöst: +2 XP. Einen früheren Fehler erstmals sicher
+          korrigiert: +4 XP. Erstmals langfristig gefestigt: +8 XP. Diese Boni
+          gibt es jeweils einmal je Wissensziel; Varianten teilen das Ziel.
+          Antwort- und Treffer-XP zählen je Ziel einmal am Tag. Wiederholungen
+          am selben Tag können deshalb auch 0 XP bringen.
+        </p>
+        <p>
+          Der Aufstieg zu Level 2 braucht 100 XP, danach kostet jeder weitere
+          Aufstieg 50 XP mehr. Deine Titel wachsen mit: Kinogänger ab Level 1,
+          Filmfan ab 5, Cineast ab 10, Filmchronist ab 20 und Filmlegende ab 35.
+          Bisherige Level und ihr Fortschritt bleiben bei der Umstellung
+          erhalten. XP sind eigene Karrierepunkte; Rekordpunkte, gefestigte
+          Ziele und Filmreise-Freischaltungen verwenden weiterhin ihre eigenen
+          Regeln.
         </p>
         <p>
           Das derzeitige Sci-Fi-Abzeichen erhältst Du beim Rundenabschluss,

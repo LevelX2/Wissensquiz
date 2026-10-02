@@ -32,7 +32,10 @@ export function FilmDataPanel({ q }: { q: Question }) {
         </div>
         <div>
           <dt>Produktionsländer / -regionen</dt>
-          <dd>{data.countries.join(" · ")}</dd>
+          <dd>
+            {data.countries.join(" · ")}
+            {data.countryNote && <small>{data.countryNote}</small>}
+          </dd>
         </div>
         <div>
           <dt>Filmreihe</dt>

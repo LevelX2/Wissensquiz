@@ -1,5 +1,5 @@
 import { familiarities, familiarityLabel, ruleLabel } from "./familiarity";
-import { useEffect, useRef, useState, type ReactNode } from "react";
+import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import {
   answer,
   badgeEligible,
@@ -7,6 +7,7 @@ import {
   elapsed,
   guess,
   points,
+  rebuild,
   selectQuestions,
   startRound,
 } from "./engine";
@@ -14,6 +15,8 @@ import { importCsv } from "./importer";
 import {
   emptyState,
   uid,
+  hasAnswer,
+  type AnswerChoice,
   type AnswerEvent,
   type ImportReport,
   type Mode,
@@ -42,9 +45,13 @@ import { BadgeIcon, GenreArtwork } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
 import { RoundGuide } from "./RoundGuide";
+import { SolutionChoice } from "./SolutionChoice";
+import { DuelCenter } from "./DuelCenter";
 import { readRoundSetup } from "./roundSetup";
 import { errorTrainingContext } from "./errorTraining";
 import { roundSummary } from "./roundSummary";
+import { careerProgress, careerSummary } from "./career";
+import { CareerProgress, RoundExperience } from "./CareerProgress";
 import { answeredTopics } from "./collection";
 import { QuestionHistory } from "./QuestionHistoryPanel";
 import {
@@ -92,6 +99,7 @@ type Page =
   | "help"
   | "round"
   | "result";
+type DuelPage = "duels";
 type Mutate = (fn: (s: State) => void) => Promise<State | null>;
 const modeNames: Record<Mode, string> = {
   entdecken: "Filmreise",
@@ -100,12 +108,14 @@ const modeNames: Record<Mode, string> = {
   fehler: "Fehlertraining",
 };
 const historicalModeName = (round: Round) =>
-  round.ruleVersion === "1" &&
-  (round.mode === "entdecken" || round.mode === "ueben")
-    ? round.mode === "entdecken"
-      ? "Entdecken (frühere Runde)"
-      : "Besser werden (frühere Runde)"
-    : modeNames[round.mode];
+  round.duel
+    ? `Duell · Runde ${round.duel.number} von 3`
+    : round.ruleVersion === "1" &&
+        (round.mode === "entdecken" || round.mode === "ueben")
+      ? round.mode === "entdecken"
+        ? "Entdecken (frühere Runde)"
+        : "Besser werden (frühere Runde)"
+      : modeNames[round.mode];
 const formatDate = (at: number) =>
   new Date(at).toLocaleDateString("de-DE", { day: "numeric", month: "short" });
 function Pill({ children }: { children: ReactNode }) {
@@ -216,7 +226,9 @@ export function App({
   const update = (fn: (s: State) => void, initial?: State) =>
     updateStored(fn, initial, storageKey);
   const [state, setState] = useState<State | null>(null);
-  const [page, setPage] = useState<Page>("home");
+  const [page, setPage] = useState<Page | DuelPage>(
+    location.hash.startsWith("#duel=") ? "duels" : "home",
+  );
   const [answeredOnly, setAnsweredOnly] = useState(false);
   const [topicScope, setTopicScope] = useState<
     | { kind: "genre"; name: string }
@@ -226,7 +238,11 @@ export function App({
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
   const [pendingSetup, setPendingSetup] = useState<RoundSetup | null>(null);
+  const [pendingSolutions, setPendingSolutions] =
+    useState<State["settings"]["solutionDisplay"]>();
   const [roundId, setRoundId] = useState("");
+  const [justCompleted, setJustCompleted] = useState("");
+  const [duelPlaying, setDuelPlaying] = useState(false);
   const [index, setIndex] = useState(0);
   const [celebration, setCelebration] = useState<{
     roundId: string;
@@ -270,6 +286,7 @@ export function App({
             r.status = "aborted";
             r.finishedAt = Date.now();
           }
+        rebuild(s);
       }, initial);
       setState(loaded);
     })().catch((e) =>
@@ -281,6 +298,7 @@ export function App({
   useEffect(() => {
     heading.current?.focus();
     window.scrollTo(0, 0);
+    if (page !== "result") setJustCompleted("");
   }, [page, index, topicScope]);
   const mutate: Mutate = async (fn) => {
     if (inFlight.current) return null;
@@ -301,7 +319,7 @@ export function App({
       setBusy(false);
     }
   };
-  const nav = async (next: Page) => {
+  const nav = async (next: Page | DuelPage) => {
     if (next === "topics") setTopicScope(null);
     setCelebration(null);
     if (
@@ -319,6 +337,14 @@ export function App({
     }
     setPage(next);
   };
+  useEffect(() => {
+    const invitation = () => {
+      if (/^#duel=[a-f0-9]{64}$/.test(location.hash) && page !== "round")
+        setPage("duels");
+    };
+    window.addEventListener("hashchange", invitation);
+    return () => window.removeEventListener("hashchange", invitation);
+  }, [page]);
   if (!state)
     return (
       <main className="loading">
@@ -453,7 +479,9 @@ export function App({
     (p) => p.status === "gefestigt",
   ).length;
   return (
-    <div className={`app-shell ${page === "round" ? "is-playing" : ""}`}>
+    <div
+      className={`app-shell ${page === "round" || duelPlaying ? "is-playing" : ""}`}
+    >
       <aside className="sidebar">
         <a
           className="brand"
@@ -481,12 +509,16 @@ export function App({
             <button
               key={p}
               className={
-                page === p || (p === "account" && page === "settings")
+                page === p ||
+                (p === "home" && page === "duels") ||
+                (p === "account" && page === "settings")
                   ? "selected"
                   : ""
               }
               aria-current={
-                page === p || (p === "account" && page === "settings")
+                page === p ||
+                (p === "home" && page === "duels") ||
+                (p === "account" && page === "settings")
                   ? "page"
                   : undefined
               }
@@ -502,16 +534,7 @@ export function App({
           ))}
         </nav>
         <div className="sidebar-bottom">
-          <div className="level-dot">
-            {1 + Math.floor(state.experience / 100)}
-          </div>
-          <div>
-            <b>Neugier bringt Dich weiter.</b>
-            <small>
-              {state.experience} Erfahrung · Level{" "}
-              {1 + Math.floor(state.experience / 100)}
-            </small>
-          </div>
+          <CareerProgress experience={state.experience} compact />
         </div>
       </aside>
       <div className={`workspace ${page === "home" ? "cinema-home" : ""}`}>
@@ -525,20 +548,29 @@ export function App({
         <main
           ref={heading}
           tabIndex={-1}
-          className={`main-content ${page === "round" ? "playing" : ""}`}
+          className={`main-content ${page === "round" || duelPlaying ? "playing" : ""}`}
         >
+          {!["round", "result", "account", "album"].includes(page) &&
+            !duelPlaying && (
+              <div className="mobile-career">
+                <CareerProgress experience={state.experience} compact />
+              </div>
+            )}
           {error && (
             <div role="alert" className="notice error">
               {error}
             </div>
           )}
-          {offline.waiting && page !== "round" && page !== "settings" && (
-            <p className="notice" role="status">
-              Eine neue Quiz-Version ist bereit. Schließe nach Deiner Runde alle
-              Quiz-Tabs und gegebenenfalls die installierte Quiz-App. Öffne sie
-              danach erneut. Dein Fortschritt bleibt erhalten.
-            </p>
-          )}
+          {offline.waiting &&
+            !duelPlaying &&
+            page !== "round" &&
+            page !== "settings" && (
+              <p className="notice" role="status">
+                Eine neue Quiz-Version ist bereit. Schließe nach Deiner Runde
+                alle Quiz-Tabs und gegebenenfalls die installierte Quiz-App.
+                Öffne sie danach erneut. Dein Fortschritt bleibt erhalten.
+              </p>
+            )}
           {page === "home" && (
             <>
               <header className="play-heading">
@@ -634,6 +666,30 @@ export function App({
                     {roundTopic !== "Alle Themen" && " · " + roundTopic}
                   </p>
                 </div>
+                <SolutionChoice
+                  value={
+                    pendingSolutions ??
+                    state.settings.solutionDisplay ??
+                    "question"
+                  }
+                  disabled={busy || !!active}
+                  onChange={(value) => {
+                    setPendingSolutions(value);
+                    void mutate((s) => {
+                      s.settings.solutionDisplay = value;
+                    }).finally(() => setPendingSolutions(undefined));
+                  }}
+                />
+                <button
+                  className="duel-entry secondary"
+                  disabled={busy || !!active}
+                  onClick={() => void nav("duels")}
+                >
+                  <span aria-hidden="true">⚔</span> Duell · Gegen andere spielen
+                  <small>
+                    Drei Runden mit denselben Fragen · Deine offenen Spiele
+                  </small>
+                </button>
                 {active && (
                   <div className="resume notice">
                     <span>Deine begonnene Runde wartet auf Dich.</span>
@@ -737,9 +793,9 @@ export function App({
                       </label>
                     ))}
                     <p className="tiny muted">
-                      Kuratierte Auswahlen innerhalb Deiner Genres. Beide
-                      gewählt: Classics oder Arthouse. Gemeinsame Fragen zählen
-                      nur einmal.
+                      Kuratierte Auswahlen innerhalb Deiner Genres. Mehrere
+                      gewählte Kategorien werden kombiniert. Gemeinsame Fragen
+                      zählen nur einmal.
                     </p>
                   </fieldset>
                   {mode !== "entdecken" ? (
@@ -934,8 +990,9 @@ export function App({
                 Deine <em>Sammlung.</em>
               </h1>
               <p className="lead">
-                Erfahrung erzählt, wie oft Du spielst. Fachwissen wächst mit
-                sicheren Antworten über mehrere Tage.
+                Deine Filmkarriere wächst mit Deinen Antworten und
+                Lernfortschritten. Fachwissen festigt sich mit sicheren
+                Antworten über mehrere Tage.
               </p>
               <div className="stat-grid">
                 <div>
@@ -945,8 +1002,8 @@ export function App({
                     <small> XP</small>
                   </strong>
                   <p>
-                    Level {1 + Math.floor(state.experience / 100)} · 10 XP je
-                    abgeschlossener Runde
+                    Level {careerProgress(state.experience).level} ·{" "}
+                    {careerProgress(state.experience).title}
                   </p>
                 </div>
                 <div>
@@ -969,6 +1026,10 @@ export function App({
                   <p>Getrennt nach Thema, Stufe und Rundengröße</p>
                 </div>
               </div>
+              <CareerProgress
+                experience={state.experience}
+                legacyBonus={state.career?.legacyBonus}
+              />
               <div className="section-title">
                 <h2>Dein Expertenalbum</h2>
               </div>
@@ -1164,6 +1225,7 @@ export function App({
                     unlocks = newlyUnlocked(before, s);
                   });
                   if (next) {
+                    setJustCompleted(current.id);
                     if (unlocks.length)
                       setCelebration({ roundId: current.id, unlocks });
                     playFeedback(
@@ -1171,7 +1233,10 @@ export function App({
                         ? "unlock"
                         : next.badges.length > state.badges.length
                           ? "badge"
-                          : "complete",
+                          : careerProgress(next.experience).level >
+                              careerProgress(state.experience).level
+                            ? "level"
+                            : "complete",
                       next.settings,
                     );
                     setPage("result");
@@ -1183,6 +1248,18 @@ export function App({
               }}
             />
           )}
+          {page === "duels" && (
+            <DuelCenter
+              state={state}
+              mutate={mutate}
+              busy={busy}
+              onHome={() => void nav("home")}
+              onAccount={() => void nav("account")}
+              onRetry={(round) => void retryErrors(round)}
+              onLeaderboard={() => void nav("leaderboard")}
+              onPlaying={setDuelPlaying}
+            />
+          )}
           {page === "result" && current && (
             <Result
               round={current}
@@ -1191,10 +1268,15 @@ export function App({
               onLeaderboard={() => setPage("leaderboard")}
               onRetry={() => void retryErrors(current)}
               busy={busy}
+              celebrate={justCompleted === current.id}
             />
           )}
           {page === "account" && (
             <>
+              <CareerProgress
+                experience={state.experience}
+                legacyBonus={state.career?.legacyBonus}
+              />
               <div className="profile-tools">
                 <button
                   className="secondary"
@@ -1242,7 +1324,7 @@ export function App({
               }}
             />
           )}
-        <footer hidden={page === "round"}>
+        <footer hidden={page === "round" || duelPlaying}>
           <span>
             WISSENSQUIZ <span className="footer-star">✦</span> BLEIB NEUGIERIG.
           </span>
@@ -1252,7 +1334,7 @@ export function App({
     </div>
   );
 }
-function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
+export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
   const film = filmDetails(q);
   const director = directorExplanation(q);
@@ -1325,7 +1407,7 @@ function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
     </div>
   );
 }
-function QuestionScreen({
+export function QuestionScreen({
   round,
   index,
   state,
@@ -1334,6 +1416,10 @@ function QuestionScreen({
   onExit,
   onNext,
   sync,
+  onAnswer,
+  onReady,
+  onGuessed,
+  onGuess,
 }: {
   round: Round;
   index: number;
@@ -1343,36 +1429,56 @@ function QuestionScreen({
   onExit: () => void;
   onNext: () => void;
   sync?: SyncDisplay;
+  onAnswer?: (choice: AnswerChoice, elapsedMs: number) => Promise<State | null>;
+  onReady?: () => Promise<number>;
+  onGuessed?: boolean;
+  onGuess?: () => void;
 }) {
   const q = round.questions[index];
   const event = state.events.find((e) => e.id === round.events[index]);
+  const collected = round.solutionDisplay === "round";
+  const timed = round.mode === "rekord" || !!round.duel;
+  const [guessed, setGuessed] = useState(false);
   const [remaining, setRemaining] = useState(30_000);
   const [ready, setReady] = useState(false);
+  const [revealing, setRevealing] = useState(false);
+  const showReveal = !!event?.dontKnow && revealing && !collected;
   const start = useRef<{ wall: number; mono: number } | null>(null);
   const locked = useRef(false);
-  const chooseRef = useRef<(id: string | null) => void>(() => {});
+  const chooseRef = useRef<(choice: AnswerChoice) => void>(() => {});
   const feedback = useRef<HTMLDivElement>(null);
   const [reporting, setReporting] = useState(false);
   const [comment, setComment] = useState("");
   const [sent, setSent] = useState(false);
-  const choose = async (id: string | null) => {
+  const choose = async (choice: AnswerChoice) => {
     if (locked.current || event || !ready || round.status !== "active") return;
     locked.current = true;
-    if (id !== null) unlockSound(state.settings);
+    if (choice !== null) unlockSound(state.settings);
+    if (!collected && choice !== null && typeof choice === "object")
+      setRevealing(true);
     const ms = start.current ? elapsed(start.current) : 0;
-    const result = await mutate((s) => answer(s, round.id, q.id, id, ms));
-    if (!result) locked.current = false;
-    else {
+    const result = onAnswer
+      ? await onAnswer(choice, ms)
+      : await mutate((s) => {
+          answer(s, round.id, q.id, choice, ms);
+          if (collected && guessed) guess(s, `${round.id}:${q.knowledgeId}`);
+        });
+    if (!result) {
+      locked.current = false;
+      setRevealing(false);
+    } else {
       const saved = result.events.find(
         (e) => e.id === `${round.id}:${q.knowledgeId}`,
       );
-      if (saved)
+      if (saved && !collected)
         playFeedback(
-          saved.answerId === null
-            ? "timeout"
-            : saved.correct
-              ? "correct"
-              : "wrong",
+          saved.dontKnow
+            ? "reveal"
+            : saved.answerId === null
+              ? "timeout"
+              : saved.correct
+                ? "correct"
+                : "wrong",
           result.settings,
         );
     }
@@ -1381,12 +1487,29 @@ function QuestionScreen({
     void choose(id);
   };
   useEffect(() => {
+    if (!event || !revealing) return;
+    const timer = setTimeout(() => setRevealing(false), 1100);
+    return () => clearTimeout(timer);
+  }, [event?.id, revealing]);
+  useEffect(() => {
     if (event) return;
     let second = 0;
     const first = requestAnimationFrame(() => {
       second = requestAnimationFrame(() => {
-        start.current = { wall: Date.now(), mono: performance.now() };
-        setReady(true);
+        const prepare = async () => {
+          try {
+            const spent = onReady ? await onReady() : 0;
+            start.current = {
+              wall: Date.now() - spent,
+              mono: performance.now() - spent,
+            };
+            setRemaining(Math.max(0, 30_000 - spent));
+            setReady(true);
+          } catch {
+            setReady(false);
+          }
+        };
+        void prepare();
       });
     });
     return () => {
@@ -1395,7 +1518,7 @@ function QuestionScreen({
     };
   }, [q.id, !!event]);
   useEffect(() => {
-    if (event || round.mode !== "rekord" || !ready) return;
+    if (event || !timed || !ready) return;
     const tick = () => {
       if (!start.current) return;
       const left = Math.max(0, 30_000 - elapsed(start.current));
@@ -1410,7 +1533,7 @@ function QuestionScreen({
       document.removeEventListener("visibilitychange", tick);
       window.removeEventListener("focus", tick);
     };
-  }, [!!event, ready, round.mode]);
+  }, [!!event, ready, timed]);
   useEffect(() => {
     if (event) {
       feedback.current?.focus({ preventScroll: true });
@@ -1423,8 +1546,9 @@ function QuestionScreen({
     <div className="answers">
       {round.order[index].map((id, i) => {
         const a = q.answers.find((a) => a.id === id)!;
-        const correct = !!event && id === q.correctId;
-        const wrong = !!event && event.answerId === id && !event.correct;
+        const correct = !!event && !collected && id === q.correctId;
+        const wrong =
+          !!event && !collected && event.answerId === id && !event.correct;
         return (
           <button
             key={id}
@@ -1439,16 +1563,46 @@ function QuestionScreen({
           </button>
         );
       })}
+      {!event && (
+        <button
+          className="answer answer-unknown"
+          aria-describedby={`dont-know-${q.id}`}
+          disabled={busy || !ready || round.status !== "active"}
+          onClick={() => void choose({ dontKnow: true })}
+        >
+          <span className="answer-letter" aria-hidden="true">
+            ?
+          </span>
+          <span>Keine Ahnung</span>
+        </button>
+      )}
+      {!event && (
+        <p className="answer-unknown-hint" id={`dont-know-${q.id}`}>
+          Zählt als falsch.{" "}
+          {collected
+            ? "Die Lösung siehst Du nach der Runde."
+            : "Danach siehst Du die richtige Lösung."}
+        </p>
+      )}
     </div>
   );
   return (
     <div className={`question-wrap ${event ? "is-answered" : ""}`}>
       <div className="round-top">
-        <button className="text-button" onClick={onExit}>
-          ← {round.mode === "rekord" ? "Runde beenden" : "Pause & Startseite"}
+        <button className="text-button" disabled={busy} onClick={onExit}>
+          ←{" "}
+          {round.duel
+            ? "Pause & Duellübersicht"
+            : round.mode === "rekord"
+              ? "Runde beenden"
+              : "Pause & Startseite"}
         </button>
         <div className="round-status">
-          <Pill>{historicalModeName(round)}</Pill>
+          <Pill>
+            {round.duel
+              ? `Duell · Runde ${round.duel.number} von 3`
+              : historicalModeName(round)}
+          </Pill>
           {sync && <SyncIndicator sync={sync} />}
         </div>
       </div>
@@ -1463,12 +1617,15 @@ function QuestionScreen({
         >
           {round.questions.map((_, i) => {
             const result = state.events.find((e) => e.id === round.events[i]);
-            const status = result
-              ? result.correct
-                ? "correct"
-                : "wrong"
-              : "open";
-            const label = `Frage ${i + 1}: ${result ? (result.correct ? "richtig beantwortet" : result.answerId ? "falsch beantwortet" : "ohne Antwort") : "noch offen"}${i === index ? ", aktuell" : ""}`;
+            const status =
+              result && collected
+                ? "answered"
+                : result
+                  ? result.correct
+                    ? "correct"
+                    : "wrong"
+                  : "open";
+            const label = `Frage ${i + 1}: ${result && collected ? "Antwort gespeichert" : result ? (result.correct ? "richtig beantwortet" : result.dontKnow ? "keine Ahnung, als falsch gewertet" : result.answerId ? "falsch beantwortet" : "ohne Antwort") : "noch offen"}${i === index ? ", aktuell" : ""}`;
             return (
               <span
                 key={i}
@@ -1477,21 +1634,23 @@ function QuestionScreen({
                 title={label}
                 className={`progress-step ${status}${i === index ? " current" : ""}`}
               >
-                {result
-                  ? result.correct
-                    ? "✓"
-                    : result.answerId
-                      ? "×"
-                      : "–"
-                  : i === index
-                    ? "•"
-                    : ""}
+                {result && collected
+                  ? "•"
+                  : result
+                    ? result.correct
+                      ? "✓"
+                      : hasAnswer(result)
+                        ? "×"
+                        : "–"
+                    : i === index
+                      ? "•"
+                      : ""}
               </span>
             );
           })}
         </div>
       </div>
-      {round.mode === "rekord" && !event && (
+      {timed && !event && (
         <div
           className="timer"
           role="timer"
@@ -1500,8 +1659,9 @@ function QuestionScreen({
           <progress max={30_000} value={remaining} />
           <span>
             {Math.ceil(remaining / 1000)} s ·{" "}
-            {remaining > 0 ? 100 + 2 * Math.floor(remaining / 1000) : 0}{" "}
-            mögliche Punkte
+            {round.duel
+              ? "1 Punkt pro richtiger Antwort"
+              : `${remaining > 0 ? 100 + 2 * Math.floor(remaining / 1000) : 0} mögliche Punkte`}
           </span>
         </div>
       )}
@@ -1534,70 +1694,113 @@ function QuestionScreen({
             );
           })()}
         </h1>
-        {round.mode !== "rekord" &&
+        {!collected &&
+          !timed &&
           state.settings.questionHistory !== "hidden" &&
-          (state.settings.questionHistory === "always" || !!event) && (
+          (state.settings.questionHistory === "always" || !!event) &&
+          !showReveal && (
             <QuestionHistory key={q.id} events={state.events} question={q} />
           )}
-        {event ? (
-          <details className="answer-review">
-            <summary>Alle Antworten ansehen</summary>
-            {answerOptions}
-          </details>
-        ) : (
-          answerOptions
-        )}
+        {event
+          ? !showReveal &&
+            !collected && (
+              <details className="answer-review">
+                <summary>Alle Antworten ansehen</summary>
+                {answerOptions}
+              </details>
+            )
+          : answerOptions}
         {!event && round.mode === "rekord" && (
           <p className="quiet-note">Deine erste Antwort zählt.</p>
         )}
-        {event && (
+        {collected && !event && (
+          <label className="guess-choice">
+            <input
+              type="checkbox"
+              checked={onGuessed ?? guessed}
+              onChange={() => {
+                if (onGuess) onGuess();
+                else setGuessed(!guessed);
+              }}
+            />{" "}
+            Ich rate bei dieser Frage
+          </label>
+        )}
+        {event && collected && (
+          <p role="status" className="notice">
+            Antwort gespeichert. Die Lösungen siehst Du nach der Runde.
+          </p>
+        )}
+        {event && !collected && (
           <div ref={feedback} tabIndex={-1} className="feedback" role="status">
-            <div
-              className={`feedback-title ${event.correct ? "success" : "incorrect"}`}
-            >
-              <span>{event.correct ? "✓" : "↗"}</span>
-              <h2>
-                {event.correct
-                  ? "Genau richtig."
-                  : event.answerId === null
-                    ? "Die Zeit ist um."
-                    : "Eine neue Entdeckung."}
-              </h2>
-              {round.mode === "rekord" && (
-                <Pill>+{event.knowledgePoints + event.timeBonus} Punkte</Pill>
-              )}
-            </div>
-            <p className="chosen-answer">
-              Deine Antwort:{" "}
-              <strong>
-                {q.answers.find((a) => a.id === event.answerId)?.text ??
-                  "Keine Antwort gewählt"}
-              </strong>
-            </p>
-            {!event.correct && (
-              <p>
-                Die richtige Antwort:{" "}
-                <strong>
+            {showReveal ? (
+              <div className="solution-reveal">
+                <span className="eyebrow">DIE RICHTIGE ANTWORT</span>
+                <p>
+                  <span aria-hidden="true">✓</span>{" "}
                   {q.answers.find((a) => a.id === q.correctId)!.text}
-                </strong>
-              </p>
-            )}
-            <Explanation q={q} event={event} />
-            {event.guessed && (
-              <p className="tiny muted">
-                Deine Punkte bleiben. Dieses Wissensziel kommt früher wieder.
-              </p>
+                </p>
+                <span>Keine Ahnung gewählt · als falsch gewertet</span>
+              </div>
+            ) : (
+              <>
+                <div
+                  className={`feedback-title ${event.correct ? "success" : "incorrect"}`}
+                >
+                  <span>{event.correct ? "✓" : "↗"}</span>
+                  <h2>
+                    {event.correct
+                      ? "Genau richtig."
+                      : event.dontKnow
+                        ? "Die Lösung zum Merken."
+                        : event.answerId === null
+                          ? "Die Zeit ist um."
+                          : "Eine neue Entdeckung."}
+                  </h2>
+                  {round.mode === "rekord" && (
+                    <Pill>
+                      +{event.knowledgePoints + event.timeBonus} Punkte
+                    </Pill>
+                  )}
+                </div>
+                <p className="chosen-answer">
+                  Deine Antwort:{" "}
+                  <strong>
+                    {event.dontKnow
+                      ? "Keine Ahnung"
+                      : (q.answers.find((a) => a.id === event.answerId)?.text ??
+                        "Keine Antwort gewählt")}
+                  </strong>
+                </p>
+                {!event.correct && (
+                  <p>
+                    Die richtige Antwort:{" "}
+                    <strong>
+                      {q.answers.find((a) => a.id === q.correctId)!.text}
+                    </strong>
+                  </p>
+                )}
+                <Explanation q={q} event={event} />
+                {event.guessed && (
+                  <p className="tiny muted">
+                    Deine Punkte bleiben. Dieses Wissensziel kommt früher
+                    wieder.
+                  </p>
+                )}
+              </>
             )}
           </div>
         )}
-        {event && (
+        {event && !showReveal && (
           <div className="feedback-actions">
-            {event.correct && (
+            {!collected && event.correct && (
               <button
                 className="secondary"
                 aria-pressed={event.guessed}
                 disabled={event.guessed || busy}
-                onClick={() => void mutate((s) => guess(s, event.id))}
+                onClick={() =>
+                  onGuess ? onGuess() : void mutate((s) => guess(s, event.id))
+                }
               >
                 {event.guessed ? "✓ Als geraten markiert" : "War geraten"}
               </button>
@@ -1661,13 +1864,14 @@ function QuestionScreen({
     </div>
   );
 }
-function Result({
+export function Result({
   round,
   state,
   onHome,
   onLeaderboard,
   onRetry,
   busy,
+  celebrate,
 }: {
   round: Round;
   state: State;
@@ -1675,12 +1879,16 @@ function Result({
   onLeaderboard: () => void;
   onRetry: () => void;
   busy: boolean;
+  celebrate: boolean;
 }) {
   const [reviewFilter, setReviewFilter] = useState<"all" | "wrong" | "guessed">(
     "all",
   );
   useEffect(() => setReviewFilter("all"), [round.id]);
   const summary = roundSummary(state, round);
+  const career = useMemo(() => careerSummary(state), [state]);
+  const roundXp = career.rounds.get(round.id)!;
+  const roundProgress = career.progress.get(round.id)!;
   const { events, correct, improved, secured: secure } = summary;
   const retryContext = errorTrainingContext(state, round.id);
   const retryCount = selectQuestions(
@@ -1749,9 +1957,15 @@ function Result({
                 className={
                   e.guessed ? "guessed" : e.correct ? "correct" : "wrong"
                 }
-                aria-label={`Frage ${i + 1}: ${e.guessed ? "richtig, geraten" : e.correct ? "richtig" : e.answerId ? "falsch" : "Zeit abgelaufen"}`}
+                aria-label={`Frage ${i + 1}: ${e.guessed ? "richtig, geraten" : e.correct ? "richtig" : e.dontKnow ? "keine Ahnung, als falsch gewertet" : e.answerId ? "falsch" : "Zeit abgelaufen"}`}
               >
-                {e.guessed ? "?" : e.correct ? "✓" : e.answerId ? "×" : "–"}
+                {e.guessed || e.dontKnow
+                  ? "?"
+                  : e.correct
+                    ? "✓"
+                    : e.answerId
+                      ? "×"
+                      : "–"}
               </span>
             ))}
           </div>
@@ -1761,6 +1975,9 @@ function Result({
         <div>
           <strong>{summary.wrong}</strong>
           <span>Falsch beantwortet</span>
+          {summary.dontKnow > 0 && (
+            <small>davon {summary.dontKnow} × Keine Ahnung</small>
+          )}
         </div>
         <div>
           <strong>{summary.timedOut}</strong>
@@ -1789,7 +2006,13 @@ function Result({
         </div>
       )}
       <div className="result-progress">
-        <Pill>+10 Erfahrung · einmal pro Runde</Pill>
+        <RoundExperience
+          key={round.id}
+          xp={roundXp}
+          before={roundProgress.before}
+          after={roundProgress.after}
+          celebrate={celebrate}
+        />
         <div className="result-insights">
           <div>
             <strong>{summary.newGoals}</strong>
@@ -1930,8 +2153,10 @@ function Result({
                 {!e.correct && (
                   <p>
                     <strong>Deine Antwort:</strong>{" "}
-                    {q.answers.find((a) => a.id === e.answerId)?.text ??
-                      "Zeit abgelaufen – keine Antwort"}
+                    {e.dontKnow
+                      ? "Keine Ahnung"
+                      : (q.answers.find((a) => a.id === e.answerId)?.text ??
+                        "Zeit abgelaufen – keine Antwort")}
                   </p>
                 )}
                 <p>

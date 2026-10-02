@@ -50,6 +50,7 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
     ["Horror", "Conjuring"],
     ["Classics", "Casablanca"],
     ["Arthouse", "Die fabelhafte Welt der Amélie"],
+    ["Preisträger", "Nomadland"],
   ] as const) {
     await page.getByRole("button", { name: "Themen", exact: true }).click();
     const card = page
@@ -88,7 +89,7 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
         ).violations,
       ).toEqual([]);
       await page.getByRole("button", { name: "Zur Themenübersicht" }).click();
-      await expect(page.locator(".topic-card")).toHaveCount(14);
+      await expect(page.locator(".topic-card")).toHaveCount(15);
       await card
         .getByRole("button", { name: "Filme & Reihen ansehen" })
         .click();

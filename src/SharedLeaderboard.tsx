@@ -6,6 +6,7 @@ import { z } from "zod";
 import { genreLabel } from "./filters";
 import { genreSelectionKey } from "./leaderboard";
 import type { State } from "./model";
+import { CareerBadge } from "./CareerProgress";
 
 export const RankingContext = createContext<{
   client: SupabaseClient;
@@ -27,6 +28,7 @@ const entrySchema = z.object({
   finished_at: z.number(),
   place: z.number(),
   is_mine: z.boolean(),
+  experience: z.number().int().nonnegative(),
 });
 type Category = z.infer<typeof categorySchema>;
 type Entry = z.infer<typeof entrySchema>;
@@ -237,6 +239,7 @@ export function SharedLeaderboard({ state }: { state: State }) {
                   Platz {entry.place} · {entry.player_name}
                   {entry.is_mine ? " (Du)" : ""}
                 </strong>
+                <CareerBadge experience={entry.experience} />
                 <span>
                   {entry.points} Punkte · {entry.correct}/
                   {selected?.question_count} richtig ·{" "}

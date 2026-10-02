@@ -226,6 +226,6 @@ for (const width of [320, 1280]) {
     await expect(
       page.getByText(/Keine offenen Fehler in Deiner Auswahl/),
     ).toBeVisible();
-    expect((await readState(page)).experience).toBe(30);
+    expect((await readState(page)).experience).toBe(33);
   });
 }

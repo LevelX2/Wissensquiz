@@ -1,6 +1,10 @@
 # Fragenimport – Vertrag Version 1
 
-Aktuelle Ergänzung (29.09.2026): [Komödie-Paket](Komoedie-Ergaenzung.md) mit 360 gelieferten Fragen und 50 Filmdatensätzen integriert. 14 CSV-Pakete: 2.880 Fragen/2.400 Ziele; einschließlich 837 Jahres-/Regieergänzungen 3.717 Fragen/3.237 Ziele. Die folgenden Paketabschnitte dokumentieren ihren jeweiligen historischen Importstand.
+Für Duelle werden keine CSV-Felder geändert. `npm run prepare:duels` erzeugt aus den öffentlichen App-Paketen einen getrennten Betreiberkatalog mit eingefrorenen vollständigen Frageobjekten; keine privaten Importe oder Spielstände. Aktuell 4.827 zulässige Fragen/4.347 Ziele ohne Demo/Experte. Historische Duellinhalte mit inzwischen geänderter lokaler ID erhalten bei Lernübernahme eine `DUEL-…`-ID und `metadata.duel_question_id`, bewahren aber ihr Wissensziel. Bestehende Fragen werden nicht überschrieben. Optionale Rundenfelder `solutionDisplay` und `duel` sowie die entsprechende Einstellung bleiben in JSON und Kontokompaktformaten erhalten; Altstände ohne Felder sind gültig. [Duellvertrag](Asynchrone-Filmduelle.md).
+
+Aktueller lokaler Gesamtstand (02.10.2026): [Preisträger](Preistraeger.md) ergänzt 200 Fragen/200 Ziele, je 50 leicht/mittel/schwer/experte. 16 CSV-Pakete: 4.040 Fragen/3.560 Ziele; mit den 837 bisherigen Filmfragen 4.877 Fragen/4.397 Ziele. Der Import akzeptiert nun vier Schwierigkeiten; Kategorienauswahl und Sicherungen erlauben Preisträger zusätzlich zu Classics/Arthouse.
+
+Vorherige lokale Ergänzung (02.10.2026): [Alle-Genres-Paket](Alle-Genres-Ergaenzung.md) mit 960 gelieferten Fragen zu 120 Filmen integriert, darunter je 120 bereits enthaltene Regie- und Jahresfragen. Die nachgelieferte Filmdaten-JSON versorgt nun auch diese 120 Filme mit dem aufklappbaren Filmdatenbereich, ohne zusätzliche Fragen anzulegen. 15 CSV-Pakete: 3.840 Fragen/3.360 Ziele; einschließlich 837 älterer, separat generierter Jahres-/Regieergänzungen 4.677 Fragen/4.197 Ziele. Die folgenden Paketabschnitte dokumentieren ihren jeweiligen historischen Importstand.
 
 ## Tatsächlich gelieferte Quelle
 
@@ -23,7 +27,7 @@ Ebenfalls am 26.09.2026 geliefert: `Fantasy_Quiz_180_Fragen.csv`, 31 Spalten. Vo
 | `domain` | `domain`, original erhalten; fehlt es, „Importierte Inhalte“. |
 | `subdomain`, `franchise`, `film_title_de`, `film_title_original` | Thema: vorhandene Filmreihe → deutscher Filmtitel → Originaltitel → Untergebiet → Gebiet → „Importierte Fragen“. Nur vorhandene Informationen werden verwendet. |
 | `film_year` | Original in `metadata`, in den gelieferten Fragen bereits Teil des Fragetexts. |
-| `difficulty` | `leicht`, `mittel`, `schwer`; alternativ easy/medium/hard oder 1/2/3. Fehlend: vorläufig mittel mit Bericht. Unbekannte Werte werden ausgeschlossen. |
+| `difficulty` | `leicht`, `mittel`, `schwer`, `experte`; alternativ easy/medium/hard/expert oder 1/2/3/4. Fehlend: vorläufig mittel mit Bericht. Unbekannte Werte werden ausgeschlossen. |
 | `question_type` | Redaktionelle Kategorie, original in `metadata`. In dieser Datei z. B. Handlung, Technik und Filmgeschichte; **kein Interaktionstyp**. Vier Antworten und ein Lösungsfeld definieren die Einzelwahl. |
 | `topic_tags`, `badge_tags` | Listen, getrennt durch Pipe, Semikolon oder Komma; keine erfundenen Tags. |
 | `learning_objective` | Original in `metadata`; keine lösungsverratende Anzeige vor der Antwort. |
@@ -31,13 +35,15 @@ Ebenfalls am 26.09.2026 geliefert: `Fantasy_Quiz_180_Fragen.csv`, 31 Spalten. Vo
 | `answer_a` bis `answer_d` | Vier Antwortobjekte mit stabiler ID `<question_id>:a` bis `:d`. Leere oder gleiche Texte sind ungültig. |
 | `correct_answer` | `correctId`; A–D, answer_a–d oder eindeutiger exakter Antworttext. |
 | `feedback_a` bis `feedback_d` | Feedback am jeweiligen Antwortobjekt, bleibt beim Mischen erhalten. Fehlende Texte bleiben leer. |
-| `explanation_short` | `explanation`; verpflichtend, sofort nach der Antwort sichtbar. |
+| `explanation_short` | `explanation`; verpflichtend, nach der Antwort sichtbar. Bei „Keine Ahnung“ folgt die Erklärung auf die kurze Hervorhebung der richtigen Lösung. |
 | `explanation_context` | Optionale Vertiefung; fehlt sie, entfällt der Abschnitt. |
 | `memory_anchor` | Optionaler Merksatz. |
 | `spoiler_level` | Original in `metadata`; vor jeder Runde allgemeiner Spoilerhinweis. |
 | `source_urls` | HTTP-/HTTPS-URLs; Pipe, Semikolon oder Leerraum als Trenner. Ungültige/andere Protokolle schließen den Datensatz aus. |
 | `verification_status` | Unverändert in `metadata`. „redaktionell_geprueft“ wird nicht als eigene Faktenprüfung ausgegeben. „demo-redaktionell“ kennzeichnet das separate Beispielpaket. |
 | Unbekannte zusätzliche Spalten | Werden in `metadata` erhalten. |
+
+Die zusätzliche UI-Auswahl „Keine Ahnung“ gehört nicht zu `answer_a`–`answer_d`. Importierte und gespeicherte Fragen behalten genau vier Antworten und denselben Lösungsschlüssel; die ausdrückliche Nichtwissensantwort wird ausschließlich als Ereignis gespeichert. [Antwortvertrag](Lernregeln.md#keine-ahnung-als-antwortoption).
 
 ## Identität und Fehlerbehandlung
 

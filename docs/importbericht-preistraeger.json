@@ -1,0 +1,66 @@
+{
+  "filename": "Preistraeger_200_Fragen.csv",
+  "questions": 200,
+  "knowledgeGoals": 200,
+  "films": 135,
+  "supplementalFilmData": 114,
+  "difficulty": {
+    "leicht": 50,
+    "mittel": 50,
+    "schwer": 50,
+    "experte": 50
+  },
+  "answerLetters": {
+    "A": 50,
+    "B": 50,
+    "C": 50,
+    "D": 50
+  },
+  "sourceFamilies": {
+    "Oscars": 100,
+    "Cannes": 50,
+    "Venedig": 50
+  },
+  "questionTypes": {
+    "Gewinnerfilm": 45,
+    "Schauspielpreis": 55,
+    "Filmhandwerk": 54,
+    "Preisverbindungen": 43,
+    "Festivalgeschichte": 3
+  },
+  "contextWords": {
+    "min": 38,
+    "max": 83
+  },
+  "longPrompts": [],
+  "sha256": "6d8cceab02e9908862ba97815a7dc8f8a5979c9b11b4c88716a14bb604341138",
+  "parser": {
+    "accepted": 200,
+    "rejected": 0,
+    "duplicates": 0,
+    "warnings": [],
+    "issues": []
+  },
+  "genres": {
+    "Drama": 122,
+    "Abenteuer": 8,
+    "Musik": 15,
+    "Thriller": 17,
+    "Action": 8,
+    "Fantasy": 9,
+    "Komödie": 8,
+    "Science-Fiction": 5,
+    "Martial Arts & Asia-Film": 1,
+    "Western": 5,
+    "Horror": 2
+  },
+  "uniqueContexts": 200,
+  "combined": {
+    "packages": 16,
+    "questions": 4877,
+    "knowledgeGoals": 4397,
+    "topics": 604,
+    "classifiedFilms": 656
+  },
+  "primaryReferenceNote": "Passende Jahreslisten von Academy, Cannes und Biennale; festivalübergreifende Vertiefungen verlinken zusätzlich die andere Preisstation."
+}

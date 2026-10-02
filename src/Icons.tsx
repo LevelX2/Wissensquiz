@@ -39,7 +39,11 @@ export function GenreArtwork({
 
 export function GenreIcon({ genre }: { genre: string }) {
   const shape =
-    genre === "Science-Fiction" ? (
+    genre === "Preisträger" ? (
+      <>
+        <path d="M7 3h10v7a5 5 0 0 1-10 0ZM7 5H3v3a4 4 0 0 0 4 4m10-7h4v3a4 4 0 0 1-4 4M12 15v5m-4 1h8" />
+      </>
+    ) : genre === "Science-Fiction" ? (
       <>
         <path d="M9 15c0-7 4-11 11-11 0 7-4 11-11 11Z" />
         <circle cx="15" cy="9" r="2" />

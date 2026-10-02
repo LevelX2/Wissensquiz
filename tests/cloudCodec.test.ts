@@ -69,3 +69,11 @@ it("liest alte Vollsicherungen unverändert und verwirft kaputte Kompression ode
   packed.questions.data = "defekt!";
   await expect(decodeCloudState(packed)).rejects.toThrow();
 });
+it("liest frühere kompakte Kontostände, kennzeichnet neue Karriere-Sicherungen aber mit Format v2", async () => {
+  const packed = await encodeCloudState(state);
+  expect(packed).toHaveProperty("storageFormat", "quiz-cloud-compact-v2");
+  const legacy = { ...packed, storageFormat: "quiz-cloud-compact-v1" };
+  expect(validateBackup(await decodeCloudState(legacy))).toEqual(
+    validateBackup(state),
+  );
+});

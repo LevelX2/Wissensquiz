@@ -1,5 +1,11 @@
 # Spielmodi und Filmbekanntheit
 
+Lokal ergänzt am 02.10.2026: [Asynchrone Filmduelle](Asynchrone-Filmduelle.md) als eigener Einstieg unter Spielen, mit gemeinsamem serverseitigem Filmmix und drei Zehnerrunden auf Zeit. Keine Änderung der vier Solo-Modi oder ihrer Auswahl. Beide Spielarten bieten die gespeicherte Lösungsanzeige nach jeder Frage oder nach der eigenen Runde; Rekordkategorien unterscheiden die Anzeige über den Regelzusatz `.L`. Der Duellmix zieht pro Runde 3 Leicht/4 Mittel/3 Schwer, gewichtet bekannte/ikonische Filme höher und benötigt keine persönlichen Freischaltungen. Experte bleibt dort ausgeschlossen.
+
+Preisträger-Erweiterung 02.10.2026: [200 Preisfragen](Preistraeger.md), je 50 leicht/mittel/schwer/experte. 111 neue Filmidentitäten ergänzen die bisherigen 545 Zuordnungen auf 656. Bestehende Einordnungen und Filmreise-Ziele bleiben erhalten. Experte ist ausschließlich in den freien Modi und im Fehlertraining verfügbar; die Filmreise behält ihre drei Schwierigkeiten. Expertenantworten verändern keine festen Freischaltziele.
+
+Alle-Genres-Erweiterung 02.10.2026: [120 zusätzliche Filme](Alle-Genres-Ergaenzung.md) ergeben 545 redaktionell eingeordnete Filme mit Verteilung 84/254/166/41. Die gelieferten Filmdaten legen die Bekanntheitsstufe der neuen 120 Filme fest; 40 vorläufige CSV-Einordnungen wurden daran angepasst. Die bisherigen 425 Einstufungen bleiben erhalten. Thriller hat mit „Das Schweigen der Lämmer“ nun eine feste Gruppe-1-Einstiegsschwelle aus zwei leichten Zielen; bereits erworbener Gruppe-2-Zugang wird vor dem Import bewahrt. Weitere bisherige Schwellen bleiben unverändert. Die folgenden Bestandszahlen beschreiben frühere Einbindungsschritte.
+
 Komödie-Erweiterung 29.09.2026: [50 zusätzliche Komödien](Komoedie-Ergaenzung.md) ergeben 425 Filme mit Bekanntheitsverteilung 77/184/124/40. Bestehende Zuordnungen, feste Freischaltziele und erreichte Stufen unverändert. Die folgenden Angaben beschreiben frühere Einbindungsschritte.
 
 Erweiterung 29.09.2026: [50 zusätzliche Sci-Fi-Filme](SciFi-Ergaenzung.md) ergeben 375 Filme mit Bekanntheitsverteilung 72/152/112/39. Bestehende Zuordnungen, feste Freischaltziele und erreichte Stufen unverändert. Die folgenden Angaben beschreiben frühere Einbindungsschritte.
@@ -12,7 +18,7 @@ Musik-Erweiterung am selben Tag: 325 Filme, Bekanntheitsgruppen insgesamt 69/126
 
 Vier Gruppen: **1 Film-Ikonen**, **2 Bekannte Filme**, **3 Kennerfilme**, **4 Entdeckungen**. Bezugsrahmen: breites deutschsprachiges Kinopublikum. Redaktionelle Ersteinschätzung, keine repräsentative Bekanntheitsmessung, Qualitätswertung oder persönliche Vertrautheit. Fortsetzungen und Remakes separat beurteilt. Der Katalog enthält überwiegend bekannte Filme; eine Viertelquote wurde nicht erzwungen: 64 / 114 / 87 / 35 Filme (21,3 / 38,0 / 29,0 / 11,7 Prozent).
 
-`src/filmFamiliarity.json` ordnet alle 300 Filmfassungen über Originaltitel und Jahr zu. Fragen und Varianten verwenden dieselbe Gruppe; CSV, Texte, Genres und IDs bleiben unverändert. Classics und Arthouse bleiben unabhängige Zusatzkategorien. Unklassifizierte eigene Imports sind bei Auswahl aller vier Gruppen frei spielbar, werden nicht still Film-Ikonen.
+`src/filmFamiliarity.json` ordnet alle 300 Filmfassungen über Originaltitel und Jahr zu. Fragen und Varianten verwenden dieselbe Gruppe; CSV, Texte, Genres und IDs bleiben unverändert. Classics, Arthouse und Preisträger bleiben unabhängige Zusatzkategorien. Unklassifizierte eigene Imports sind bei Auswahl aller vier Gruppen frei spielbar, werden nicht still Film-Ikonen.
 
 ## Modi
 

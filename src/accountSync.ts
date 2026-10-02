@@ -2,7 +2,11 @@ import type { State } from "./model";
 import { validateBackup } from "./storage";
 import { CloudConflict, CloudSaveError, type SyncReceipt } from "./accounts";
 
-type Remote = { state: State; revision: number } | null;
+type Remote = {
+  state: State;
+  revision: number;
+  needsCareerSave?: boolean;
+} | null;
 export type SyncStatus =
   "loading" | "saved" | "saving" | "offline" | "conflict";
 export type SyncStore = {
@@ -71,6 +75,9 @@ export class AccountSync {
       this.revision = 0;
       this.saved = "";
     }
+    // Validation upgrades legacy saves in memory. Persist that upgrade even
+    // when its canonical fingerprint matches the loaded local snapshot.
+    if (remote?.needsCareerSave) this.saved = "";
     this.report("saved");
   }
   private async acknowledge(revision: number, hash: string) {

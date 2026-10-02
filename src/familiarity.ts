@@ -31,7 +31,7 @@ export function selectionRule(
 ) {
   const mix = new Map<string, number>();
   for (const q of questions) {
-    const key = `${["leicht", "mittel", "schwer"].indexOf(q.difficulty)}${familiarityOf(q) ?? 0}`;
+    const key = `${["leicht", "mittel", "schwer", "experte"].indexOf(q.difficulty)}${familiarityOf(q) ?? 0}`;
     mix.set(key, (mix.get(key) ?? 0) + 1);
   }
   return `2.B${[...levels].sort().join("")}.M${[...mix]
@@ -39,14 +39,16 @@ export function selectionRule(
     .map(([k, n]) => `${k}:${n}`)
     .join(",")}`;
 }
-export function ruleLabel(version: string) {
+export function ruleLabel(version: string): string {
+  if (version.endsWith(".L"))
+    return `${ruleLabel(version.slice(0, -2))} · Lösungen nach der Runde`;
   const match = /^2\.B([1-4]*)\.M([0-9:,]+)$/.exec(version);
   if (!match) return version;
   return `2 · Bekanntheit ${match[1].split("").join(" + ")} · Mischung ${match[2]
     .split(",")
     .map((part) => {
       const [cell, count] = part.split(":");
-      return `${count}× ${["Leicht", "Mittel", "Schwer"][Number(cell[0])]} / ${cell[1] === "0" ? "offen" : `Gruppe ${cell[1]}`}`;
+      return `${count}× ${["Leicht", "Mittel", "Schwer", "Experte"][Number(cell[0])]} / ${cell[1] === "0" ? "offen" : `Gruppe ${cell[1]}`}`;
     })
     .join(", ")}`;
 }

@@ -22,6 +22,7 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   });
   await levels.getByLabel("Leicht", { exact: true }).uncheck();
   await levels.getByLabel("Mittel", { exact: true }).uncheck();
+  await levels.getByLabel("Experte", { exact: true }).uncheck();
   const fame = page.getByRole("group", {
     name: "Bekanntheit der Filme",
     exact: true,

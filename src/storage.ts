@@ -30,9 +30,9 @@ const roundSchema = z.object({
       genres: z.array(id).min(1).max(20000),
       familiarities: familiarityList.optional(),
       difficulties: z
-        .array(z.enum(["leicht", "mittel", "schwer"]))
+        .array(z.enum(["leicht", "mittel", "schwer", "experte"]))
         .min(1)
-        .max(3),
+        .max(4),
     })
     .optional(),
   ruleVersion: id,
@@ -60,6 +60,10 @@ const roundSchema = z.object({
   finishedAt: time.nullable(),
   status: z.enum(["active", "completed", "aborted"]),
   before: z.record(z.string(), learningSchema),
+  solutionDisplay: z.enum(["question", "round"]).optional(),
+  duel: z
+    .object({ id: z.string().uuid(), number: z.number().int().min(1).max(3) })
+    .optional(),
 });
 const stateSchema = z.object({
   schemaVersion: z.literal(1),
@@ -74,6 +78,7 @@ const stateSchema = z.object({
         knowledgeId: id,
         version: id,
         answerId: id.nullable(),
+        dontKnow: z.literal(true).optional(),
         correct: z.boolean(),
         guessed: z.boolean(),
         at: time,
@@ -115,19 +120,30 @@ const stateSchema = z.object({
     showGenre: z.boolean().optional(),
     showDifficulty: z.boolean().optional(),
     questionHistory: z.enum(["after", "always", "hidden"]).optional(),
+    solutionDisplay: z.enum(["question", "round"]).optional(),
     learningPath: z.boolean().optional(),
     allDifficulties: z.boolean().optional(),
     roundSetup: z
       .object({
         mode: z.enum(["entdecken", "ueben", "rekord", "fehler"]),
         genres: z.array(id).max(20000).nullable(),
-        categories: z.array(z.enum(["Classics", "Arthouse"])).max(2),
-        difficulties: z.array(z.enum(["leicht", "mittel", "schwer"])).max(3),
+        categories: z
+          .array(z.enum(["Classics", "Arthouse", "Preisträger"]))
+          .max(3),
+        difficulties: z
+          .array(z.enum(["leicht", "mittel", "schwer", "experte"]))
+          .max(4),
         familiarities: familiarityList.optional(),
       })
       .optional(),
   }),
   experience: z.number().int().nonnegative(),
+  career: z
+    .object({
+      version: z.literal(1),
+      legacyBonus: z.number().int().nonnegative().max(2_500_750_000),
+    })
+    .optional(),
   journey: z
     .object({
       version: z.literal(1),
@@ -239,6 +255,9 @@ export function validateBackup(value: unknown): State {
     if (
       e.correct !== correct ||
       (e.guessed && !e.correct) ||
+      (e.dontKnow &&
+        (e.answerId !== null ||
+          (r.mode === "rekord" && e.elapsedMs >= 30000))) ||
       e.knowledgePoints !== base ||
       e.timeBonus !== bonus ||
       e.at < r.startedAt
