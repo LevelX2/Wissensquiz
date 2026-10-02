@@ -1,4 +1,4 @@
-import { rankingRequest } from "./rankingRequest";
+import { rankingRequest, RankingTimeout } from "./rankingRequest";
 import { useContext, useEffect, useState } from "react";
 import { z } from "zod";
 import { RankingContext } from "./SharedLeaderboard";
@@ -13,6 +13,25 @@ const rowSchema = z.object({
   place: z.number(),
   is_mine: z.boolean(),
 });
+function errorMessage(reason: unknown) {
+  const failure = reason && typeof reason === "object" ? reason : {};
+  const code = "code" in failure ? failure.code : undefined;
+  const status = "status" in failure ? failure.status : undefined;
+  if (reason instanceof RankingTimeout || code === "57014")
+    return "Das Laden der Spielerrangliste dauert zu lange. Bitte versuche es erneut.";
+  if (
+    status === 401 ||
+    status === 403 ||
+    code === "PGRST301" ||
+    ("message" in failure && failure.message === "authentication_required")
+  )
+    return "Deine Anmeldung konnte nicht bestätigt werden. Bitte melde Dich im Profil erneut an.";
+  if (reason instanceof z.ZodError)
+    return "Die Spielerwerte konnten nicht gelesen werden. Bitte versuche es erneut.";
+  if (typeof status === "number" && status >= 500)
+    return "Der Kontodienst konnte die Spielerwerte nicht bereitstellen. Bitte versuche es erneut.";
+  return "Die Spielerrangliste konnte nicht geladen werden. Prüfe Deine Verbindung und versuche es erneut.";
+}
 export function PlayerLeaderboard({ state }: { state: State }) {
   const connection = useContext(RankingContext);
   const [sort, setSort] = useState("correct"),
@@ -22,13 +41,13 @@ export function PlayerLeaderboard({ state }: { state: State }) {
   const [offset, setOffset] = useState(0),
     [refresh, setRefresh] = useState(0);
   const [loading, setLoading] = useState(false),
-    [error, setError] = useState(false);
+    [error, setError] = useState("");
   useEffect(() => {
     let active = true;
     const controller = new AbortController();
     if (!connection) return;
     setLoading(true);
-    setError(false);
+    setError("");
     setRows([]);
     void rankingRequest(
       (signal) =>
@@ -42,15 +61,15 @@ export function PlayerLeaderboard({ state }: { state: State }) {
           .abortSignal(signal),
       controller,
     )
-      .then(({ data, error }) => {
+      .then(({ data, error, status }) => {
         if (!active) return;
-        if (error) throw error;
+        if (error) throw { ...error, status };
         setRows(z.array(rowSchema).parse(data));
         setLoading(false);
       })
-      .catch(() => {
+      .catch((reason: unknown) => {
         if (active) {
-          setError(true);
+          setError(errorMessage(reason));
           setLoading(false);
         }
       });
@@ -67,7 +86,11 @@ export function PlayerLeaderboard({ state }: { state: State }) {
     );
   return (
     <div>
-      <p className="muted">Alle abgeschlossenen Runden zählen.</p>
+      <p className="muted">
+        Hier vergleichst Du gespeicherte Ergebnisse aller bestätigten
+        Quiz-Konten. Dein Konto gehört automatisch dazu, auch wenn sonst niemand
+        spielt.
+      </p>
       <div
         className="ranking-tabs ranking-metrics"
         role="group"
@@ -98,7 +121,7 @@ export function PlayerLeaderboard({ state }: { state: State }) {
         {difficulty
           ? difficultyLabel(difficulty as (typeof difficulties)[number])
           : "Alle Stufen"}
-        {sort === "accuracy" ? " · Ab 50 gewählten Antworten" : ""}
+        {sort === "accuracy" ? " · Ab 50 beantworteten Fragen" : ""}
       </p>
       <details className="ranking-details ranking-filter-details">
         <summary>
@@ -156,41 +179,58 @@ export function PlayerLeaderboard({ state }: { state: State }) {
         )}
       </details>
       <button className="text-button" onClick={() => setRefresh((n) => n + 1)}>
-        Spielerrangliste aktualisieren
+        {error ? "Erneut versuchen" : "Spielerrangliste aktualisieren"}
       </button>
       {loading ? (
         <p role="status">Spielerwerte werden geladen …</p>
       ) : error ? (
-        <p role="status">Die Spielerrangliste ist gerade nicht erreichbar.</p>
+        <p role="status">{error}</p>
       ) : !rows.length ? (
         <p>
-          Noch keine Spieler mit passenden Ergebnissen
-          {sort === "accuracy" ? " und mindestens 50 Antworten" : ""}.
+          {sort === "accuracy"
+            ? "Für die Trefferquote braucht es mindestens 50 beantwortete Fragen in dieser Auswahl. Unter „Richtige Antworten“ und „Runden“ siehst Du Dein Konto schon vorher."
+            : genre || difficulty
+              ? "Noch keine abgeschlossenen Runden für diese Auswahl. Setze die Filter zurück, um alle Spieler zu sehen."
+              : "Es wurden keine Spieler gefunden. Bitte aktualisiere die Rangliste."}
         </p>
       ) : (
-        <ol className="leaderboard-list">
-          {rows.map((r, i) => (
-            <li
-              key={i}
-              value={r.place}
-              className={r.is_mine ? "is-mine" : undefined}
-            >
-              <div className="leaderboard-entry">
-                <strong>
-                  Platz {r.place} · {r.player_name}
-                  {r.is_mine ? " (Du)" : ""}
-                </strong>
-                <span>
-                  {r.completed} Runden · {r.correct} von {r.answered} Antworten
-                  richtig ·{" "}
-                  {r.accuracy === null
-                    ? "Noch keine Trefferquote"
-                    : `${r.accuracy.toLocaleString("de-DE")} % Trefferquote`}
-                </span>
-              </div>
-            </li>
-          ))}
-        </ol>
+        <>
+          {offset === 0 && rows.length === 1 && rows[0].is_mine && (
+            <p role="status">
+              Du bist bisher der einzige Spieler in dieser Auswahl.
+            </p>
+          )}
+          <ol className="leaderboard-list" aria-label="Spielerrangliste">
+            {rows.map((r, i) => (
+              <li
+                key={i}
+                value={r.place}
+                className={r.is_mine ? "is-mine" : undefined}
+              >
+                <div className="leaderboard-entry">
+                  <strong>
+                    Platz {r.place} · {r.player_name}
+                    {r.is_mine ? " (Du)" : ""}
+                  </strong>
+                  <span>
+                    {r.completed} Runden · {r.correct} von {r.answered}{" "}
+                    Antworten richtig ·{" "}
+                    {r.accuracy === null
+                      ? "Noch keine Trefferquote"
+                      : `${r.accuracy.toLocaleString("de-DE")} % Trefferquote`}
+                  </span>
+                  {r.is_mine && r.completed === 0 && (
+                    <span>
+                      Dein Konto ist schon dabei. Nach Deiner ersten
+                      abgeschlossenen und online gespeicherten Runde erscheinen
+                      hier Deine Ergebnisse.
+                    </span>
+                  )}
+                </div>
+              </li>
+            ))}
+          </ol>
+        </>
       )}
       {(offset > 0 || rows.length === 50) && (
         <div className="account-actions">
@@ -212,7 +252,7 @@ export function PlayerLeaderboard({ state }: { state: State }) {
         <summary>Was zählt für den Vergleich?</summary>
         <p className="tiny muted">
           Alle Spielmodi, nur abgeschlossene Runden. Die Trefferquote vergleicht
-          erst ab 50 gewählten Antworten in der Auswahl; reine Zeitabläufe
+          erst ab 50 beantworteten Fragen in der Auswahl; reine Zeitabläufe
           zählen nicht als Antwort. Wiederholungen und geratene Treffer zählen
           hier mit. Bei gemischten Runden zählen nur passende Fragen, die Runde
           einmal.

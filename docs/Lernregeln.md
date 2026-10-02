@@ -9,7 +9,7 @@ Fragenvarianten teilen die explizite `knowledge_id`. Eine Runde verwendet jedes 
 | Erste sichere richtige Antwort | Stufe 1, „geübt“, nächste Wiederholung nach 24 Stunden. |
 | Sichere fällige Antwort an neuem lokalem Kalendertag | Stufe um eins erhöhen, maximal 4; Abstände der Stufen: 1, 3, 7, 21 Tage. |
 | Sichere Antwort am selben Tag oder vor Fälligkeit bei bestehender Stufe | Teilnahme zählen, Stufe und Termin nicht erhöhen. |
-| Falsch oder Zeit abgelaufen | Aktuelle Stufe 0, „entdeckt“, Wiederholung nach zehn Minuten. |
+| Falsch, „Keine Ahnung“ oder Zeit abgelaufen | Aktuelle Stufe 0, „entdeckt“, Wiederholung nach zehn Minuten. |
 | Richtige Antwort als geraten markiert | Punkte unverändert; Lernereignis mit demselben eindeutigen Schlüssel korrigieren, Fortschritt neu ableiten. Stufe 0, „entdeckt“, Wiederholung nach sechs Stunden. |
 
 „Gefestigt“ erfordert Stufe 4, sichere stufenwirksame Antworten an mindestens vier verschiedenen Tagen und mindestens sieben Tage seit der vorherigen Antwort auf dieses Wissensziel. Auch eine frühe Zwischenantwort setzt diesen tatsächlichen Abstand neu an, ohne Stufe oder Fälligkeit zu erhöhen. Beispiel ohne Zwischenantwort: Tag 0 → Tag 1 → Tag 4 → Tag 11; nächste Wiederholung Tag 32. Eine zusätzliche Antwort an Tag 10 verhindert die Festigung an Tag 11; nach ausreichendem Abstand kann die nächste fällige Antwort festigen. Ein einzelner Treffer, eine gelesene Erklärung oder sofortiges Wiederholen reichen nicht.
@@ -17,6 +17,18 @@ Fragenvarianten teilen die explizite `knowledge_id`. Eine Runde verwendet jedes 
 Nach einem Fehler kann bereits eine neue sichere Antwort wieder „geübt“ ergeben; am gleichen Tag darf aber keine zweite Erhöhung stattfinden, wenn an diesem Tag bereits eine sichere Stufe erreicht wurde. Die Grenze verwendet lokale Kalendertage. Lernintervalle verwenden Millisekunden seit dem Ereignis. Diese konfigurierbare Startheuristik steht in `RULES` in `src/engine.ts` und ist keine validierte Wissensdiagnostik.
 
 Eine einmal erreichte Festigung bleibt bei weiteren sicheren Antworten erhalten; erst falsch oder geraten setzt die aktuelle Stufe zurück. Frühe Zwischenantworten verhindern also eine erstmalige verfrühte Festigung, nehmen aber bestätigtes Wissen bei erneuter richtiger Antwort nicht zurück.
+
+## Keine Ahnung als Antwortoption
+
+Seit 02.10.2026 lokal umgesetzt: Unter den vier gemischten Antworten steht in allen Modi die zusätzliche Auswahl **Keine Ahnung**. Sie gehört nicht zum Frageninhalt und wird nicht mitgemischt. Nutzerziel ist, bewusstes Nichtwissen auszudrücken, ohne eine beliebige falsche Antwort als eigene Wahl zu sehen. Keine Änderung an CSV, Frageobjekten, Antwort-IDs oder Lösungsschlüsseln.
+
+Die Auswahl erzeugt genau ein normales Fehlereignis mit `answerId: null`, `dontKnow: true`, `correct: false`, `guessed: false` und null Rekordpunkten. Lernstufe 0, zehn Minuten Fälligkeit, offene Fehler, Tagesgrenzen und Abschluss-XP verwenden die bisherigen Regeln. In der Rekordrunde gilt die bestehende 30-Sekunden-Grenze weiter: eine verspätete Auswahl wird als Zeitablauf ohne `dontKnow` gespeichert. Nachträgliche Antwortwahl oder „War geraten“ machen daraus keinen Treffer.
+
+Erst nach erfolgreichem lokalem Speichern zeigt die Oberfläche für 1,1 Sekunden nur die richtige Lösung mit zwei sanften Leuchteffekten und einem optionalen leisen Zweiklang. Falsche Antwortmöglichkeiten, Erklärung und Weiter-Aktion erscheinen in dieser Phase nicht. Danach folgen normale Erklärung, Merksatz und aufklappbare Antworten; keine falsche Möglichkeit ist als gewählt markiert. Bei reduzierten Animationen bleibt die Lösung ruhig hervorgehoben. Neuladen/Wiederaufnahme zeigt unmittelbar die normale gespeicherte Antwortansicht, ohne erneute Animation oder erneutes Ereignis.
+
+Rundenauswertung zählt „Keine Ahnung“ unter falsch, mit sichtbarer Teilmenge; Zeitabläufe bleiben getrennt. Rückblick und Fortschrittsbeschriftung nennen die bewusste Auswahl. Fragenstatistik, Profilquote und Sammlung zählen sie als beantwortet und falsch. Das optionale Ereignisfeld bleibt in lokaler, JSON- und komprimierter Kontosicherung erhalten; widersprüchliche Markierungen werden abgewiesen. Ältere Sicherungen bleiben lesbar. Alte App-Tabs vor der Nutzung neuer Kontostände aktualisieren, damit sie die Kennzeichnung erhalten.
+
+Für die gemeinsame Spielerquote liegt Migration `202610020002_dont_know_rankings.sql` bereit: explizite Nichtwissensantworten zählen als falsche Antworten einschließlich der 50-Antworten-Schwelle, Zeitabläufe weiterhin nicht. Rekordprojektion und Zugriffsrechte bleiben erhalten. Vor der nächsten Veröffentlichung einmal im bestehenden Supabase-Projekt anwenden; aktuell nur lokal geprüft.
 
 ## Auswahl und Runden
 
@@ -145,7 +157,7 @@ In Filmreise und Freiem Spiel steht unter dem Fragetext eine kompakte, aufklappb
 
 Die Bilanz wird rein lesend aus vorhandenen Antwortereignissen abgeleitet, über sämtliche Spielmodi und Rundenstatus. Antworten aus aktiven oder abgebrochenen Runden zählen mit. Eine gewählte Antwort erhöht beantwortet und entweder richtig oder falsch. Zeitabläufe ohne Antwort zählen separat als ohne Antwort. Richtige geratene Treffer bleiben statistisch richtig; ihre Anzahl wird in der Detailansicht ausgewiesen, ohne die strengeren Lernregeln zu ändern.
 
-Die aufgeklappte Ansicht zeigt außerdem die gemeinsame Bilanz aller Formulierungen/Varianten desselben Wissensziels nach knowledgeId. Auch historische, nicht mehr im aktuellen Fragenbestand befindliche Varianten werden über ihre gespeicherten Ereignisse berücksichtigt. Genre-/Classics-Wechsel erzeugen keinen zweiten Zähler. Nur angezeigte Fragen ohne gespeicherte Antwort bzw. Zeitablauf lassen sich aus dem bisherigen Verlauf nicht verlässlich zählen und erhöhen diese Statistik nicht. Neuladen zählt nicht erneut.
+Die aufgeklappte Ansicht zeigt außerdem die gemeinsame Bilanz aller Formulierungen/Varianten desselben Wissensziels nach knowledgeId. Auch historische, nicht mehr im aktuellen Fragenbestand befindliche Varianten werden über ihre gespeicherten Ereignisse berücksichtigt. Genre-/Classics-Wechsel erzeugen keinen zweiten Zähler. „Keine Ahnung“ zählt als beantwortet/falsch; ohne Antwort bedeutet weiterhin Zeitablauf. Nur angezeigte Fragen ohne gespeicherte Antwort bzw. Zeitablauf lassen sich aus dem bisherigen Verlauf nicht verlässlich zählen und erhöhen diese Statistik nicht. Neuladen zählt nicht erneut.
 
 Keine neuen Statistikzähler, keine Migration und keine Änderung an Lernfortschritt oder Ereignissen. Die vorhandene lokale/automatische Kontosicherung und JSON-Sicherung enthalten bereits die benötigte Historie. Der allgemeine Ruhehinweis unter den Lernantworten entfällt zugunsten der kompakten Statistik; mobile Weiter-Aktion bleibt fest erreichbar.
 

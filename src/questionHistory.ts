@@ -1,7 +1,7 @@
-import type { AnswerEvent, Question } from "./model";
+import { hasAnswer, type AnswerEvent, type Question } from "./model";
 
 function countAnswers(events: AnswerEvent[]) {
-  const answered = events.filter((event) => event.answerId !== null);
+  const answered = events.filter(hasAnswer);
   const correct = answered.filter((event) => event.correct).length;
   return {
     answered: answered.length,

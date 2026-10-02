@@ -5,6 +5,7 @@ export type FeedbackKind =
   | "next"
   | "correct"
   | "wrong"
+  | "reveal"
   | "timeout"
   | "complete"
   | "badge"
@@ -14,6 +15,7 @@ const tones: Record<FeedbackKind, number[]> = {
   next: [440],
   correct: [659, 880],
   wrong: [277, 196],
+  reveal: [523, 659],
   timeout: [330, 262, 220],
   complete: [523, 659, 784],
   badge: [523, 659, 784, 1047],
@@ -24,6 +26,7 @@ const vibrations: Record<FeedbackKind, number | number[]> = {
   next: 10,
   correct: [20, 40, 25],
   wrong: 45,
+  reveal: [12, 40, 12],
   timeout: [35, 40, 35],
   complete: [25, 50, 25, 50, 40],
   badge: [30, 50, 30, 50, 60],
@@ -94,12 +97,21 @@ export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
               duration: 0.18,
               peak: 0.024,
             }
-          : {
-              type: (kind === "unlock" ? "triangle" : "sine") as OscillatorType,
-              spacing: kind === "unlock" ? 0.13 : 0.1,
-              duration: 0.15,
-              peak: 0.045,
-            };
+          : kind === "reveal"
+            ? {
+                type: "sine" as OscillatorType,
+                spacing: 0.12,
+                duration: 0.18,
+                peak: 0.026,
+              }
+            : {
+                type: (kind === "unlock"
+                  ? "triangle"
+                  : "sine") as OscillatorType,
+                spacing: kind === "unlock" ? 0.13 : 0.1,
+                duration: 0.15,
+                peak: 0.045,
+              };
     tones[kind].forEach((frequency, index) => {
       const oscillator = audio.createOscillator();
       const gain = audio.createGain();

@@ -1,4 +1,4 @@
-import type { Round, State } from "./model";
+import { hasAnswer, type Round, type State } from "./model";
 import { learn } from "./engine";
 import { genreOf } from "./filters";
 import { openMistakes } from "./errorTraining";
@@ -57,8 +57,9 @@ export function roundSummary(state: State, round: Round) {
     genres,
     bestStreak,
     accuracy: Math.round((100 * correct) / round.questions.length),
-    wrong: events.filter((e) => !e.correct && e.answerId !== null).length,
-    timedOut: events.filter((e) => !e.correct && e.answerId === null).length,
+    wrong: events.filter((e) => !e.correct && hasAnswer(e)).length,
+    dontKnow: events.filter((e) => e.dontKnow).length,
+    timedOut: events.filter((e) => !e.correct && !hasAnswer(e)).length,
     guessed: events.filter((e) => e.guessed).length,
     recovered: events.filter(
       (e) => e.correct && !e.guessed && mistakesBefore.has(e.knowledgeId),

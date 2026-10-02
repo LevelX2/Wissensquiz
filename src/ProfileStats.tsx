@@ -1,7 +1,7 @@
-import type { State } from "./model";
+import { hasAnswer, type State } from "./model";
 
 export function profileStats(state: State) {
-  const answered = state.events.filter((event) => event.answerId !== null);
+  const answered = state.events.filter(hasAnswer);
   const correct = answered.filter((event) => event.correct).length;
   return {
     played: state.rounds.length,

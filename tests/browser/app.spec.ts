@@ -135,7 +135,10 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Leicht",
   );
-  await expect(page.locator(".answer")).toHaveCount(4);
+  await expect(page.locator(".answer")).toHaveCount(5);
+  await expect(
+    page.getByRole("button", { name: "Keine Ahnung", exact: true }),
+  ).toBeEnabled();
   await expect(page.locator("footer")).not.toBeVisible();
   expect(
     await page.evaluate(

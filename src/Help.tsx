@@ -72,6 +72,22 @@ export function Help() {
         </p>
       </details>
       <details>
+        <summary>Was passiert bei „Keine Ahnung“?</summary>
+        <p>
+          Wähle „Keine Ahnung“, wenn Du keine Antwort weißt und bewusst nicht
+          raten möchtest. Zuerst siehst Du kurz nur die richtige Lösung, sanft
+          hervorgehoben. Danach folgen die normale Erklärung und der Merksatz.
+          Keine falsche Antwort wird als Deine Wahl markiert.
+        </p>
+        <p>
+          Die Auswahl zählt in allen Modi als falsch, in der Rekordrunde gibt es
+          keine Punkte. Das Wissensziel kommt ins Fehlertraining und wird nach
+          zehn Minuten wieder fällig. Im Rückblick steht „Keine Ahnung“. Ein
+          Zeitablauf bleibt davon getrennt. Ton und Vibration verwenden Deine
+          bestehenden Optionen; reduzierte Animationen werden beachtet.
+        </p>
+      </details>
+      <details>
         <summary>Welcher Spielmodus passt zu mir?</summary>
         <ul>
           <li>

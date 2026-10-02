@@ -37,8 +37,145 @@ beforeAll(async () => {
       "utf8",
     ),
   );
+  await db.exec(
+    readFileSync(
+      "supabase/migrations/202610020002_dont_know_rankings.sql",
+      "utf8",
+    ),
+  );
+  await db.exec(
+    readFileSync(
+      "supabase/migrations/202610020003_fast_player_rankings.sql",
+      "utf8",
+    ),
+  );
 }, 30000);
 afterAll(() => db.close());
+it("zeigt das einzige bestätigte Konto auch ohne Spielstand als eigenen Eintrag", async () => {
+  const id = "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa";
+  await db.exec("begin");
+  try {
+    await db.exec("delete from auth.users");
+    await db.query("insert into auth.users values($1,now(),false,$2)", [
+      id,
+      { display_name: "Allein" },
+    ]);
+    await as(id, async () => {
+      for (const sort of ["correct", "rounds"]) {
+        expect(
+          (await db.query("select * from quiz_players($1,'','',0)", [sort]))
+            .rows,
+        ).toEqual([
+          {
+            player_name: "Allein",
+            completed: 0,
+            answered: 0,
+            correct: 0,
+            accuracy: null,
+            place: 1,
+            is_mine: true,
+          },
+        ]);
+      }
+      expect(
+        (await db.query("select * from quiz_players('accuracy','','',0)")).rows,
+      ).toEqual([]);
+    });
+  } finally {
+    await db.exec("rollback");
+  }
+});
+it("wertet große Antwortgeschichten mit mehrfachen Ereignissen und fremden Runden unverändert aus", async () => {
+  const id = "bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbbbbbbb";
+  await db.exec("begin");
+  try {
+    await db.query("insert into auth.users values($1,now(),false,$2)", [
+      id,
+      { display_name: "Historie" },
+    ]);
+    const data = payload(600);
+    // A catalog is deliberately irrelevant to ranking projection.
+    Object.assign(data, {
+      questions: { encoding: "gzip-base64", data: "x".repeat(1024 * 1024) },
+    });
+    data.events.push(
+      { ...data.events[0], answerId: "b" },
+      { ...data.events[0], roundId: "unrelated" },
+    );
+    data.rounds[599].status = "aborted";
+    data.events[1].answerId = "b";
+    // Insert synthetic snapshots directly to isolate the player-ranking query.
+    await db.query(
+      "insert into quiz_saves(owner_id,state,revision) values($1,$2,1)",
+      [id, data],
+    );
+    await as(id, async () => {
+      for (const sort of ["rounds", "correct", "accuracy"]) {
+        const mine = (
+          await db.query<Record<string, unknown>>(
+            "select * from quiz_players($1,'Horror','leicht',0)",
+            [sort],
+          )
+        ).rows.find((row) => row.is_mine);
+        expect(mine).toMatchObject({
+          completed: 599,
+          answered: 599,
+          correct: 598,
+        });
+        expect(Number(mine?.accuracy)).toBe(99.8);
+      }
+      expect(
+        (await db.query("select * from quiz_players('correct','Action','',0)"))
+          .rows,
+      ).toEqual([]);
+    });
+  } finally {
+    await db.exec("rollback");
+  }
+});
+it("zählt Keine Ahnung in allen Modi als falsche Antwort für die Quote, ohne Zeitabläufe oder Abbrüche mitzuzählen", async () => {
+  const id = "99999999-9999-4999-8999-999999999999";
+  await db.exec("begin");
+  try {
+    await db.query("insert into auth.users values($1,now(),false,$2)", [
+      id,
+      { display_name: "Keine Ahnung" },
+    ]);
+    const data = payload(52);
+    data.rounds.forEach((round, i) => {
+      round.mode = ["entdecken", "ueben", "rekord", "fehler"][i % 4];
+    });
+    data.rounds[51].status = "aborted";
+    for (const event of data.events.slice(0, 4)) {
+      (event as { answerId: string | null }).answerId = null;
+      Object.assign(event, { dontKnow: true });
+    }
+    (data.events[4] as { answerId: string | null }).answerId = null;
+    await as(id, async () => {
+      await save(id, 0, data);
+      const mine = (
+        await db.query<Record<string, unknown>>(
+          "select * from quiz_players('accuracy','Horror','leicht',0)",
+        )
+      ).rows.find((row) => row.is_mine);
+      expect(mine).toMatchObject({
+        completed: 51,
+        answered: 50,
+        correct: 46,
+        accuracy: "92.0",
+      });
+      expect(
+        (
+          await db.query(
+            "select * from quiz_players('accuracy','Horror','schwer',0)",
+          )
+        ).rows,
+      ).toHaveLength(0);
+    });
+  } finally {
+    await db.exec("rollback");
+  }
+});
 async function as(id: string, fn: () => Promise<void>, role = "authenticated") {
   await db.exec(`set role ${role}`);
   await db.query<Record<string, unknown>>(

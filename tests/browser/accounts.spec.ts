@@ -512,7 +512,7 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   const otherContext = await browser.newContext({
     serviceWorkers: "block",
-    baseURL: "http://localhost:4173",
+    baseURL: new URL(page.url()).origin,
   });
   try {
     const other = await otherContext.newPage();
@@ -864,14 +864,163 @@ test("Ranglisten beenden hängende Anfragen und lassen sich erneut laden", async
   await expect(page.getByText("Spielerwerte werden geladen …")).toBeVisible();
   await page.clock.runFor(10001);
   await expect(
-    page.getByText("Die Spielerrangliste ist gerade nicht erreichbar."),
+    page.getByText(
+      "Das Laden der Spielerrangliste dauert zu lange. Bitte versuche es erneut.",
+    ),
   ).toBeVisible();
   hangPlayers = false;
   await page
-    .getByRole("button", { name: "Spielerrangliste aktualisieren" })
+    .getByRole("button", { name: "Erneut versuchen", exact: true })
     .click();
   await expect(
-    page.getByText("Noch keine Spieler mit passenden Ergebnissen."),
+    page.getByText(
+      "Es wurden keine Spieler gefunden. Bitte aktualisiere die Rangliste.",
+    ),
   ).toBeVisible();
   await expect(page.getByRole("checkbox", { name: /teilen/ })).toHaveCount(0);
 });
+
+test("das eigene Konto ist allein und ohne Runden sichtbar; Quote und Filter erklären fehlende Ergebnisse", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-02T10:00:00+02:00") });
+  await mockAccounts(page);
+  await page.route("**/rest/v1/rpc/quiz_players", (route) => {
+    const query = route.request().postDataJSON();
+    return route.fulfill({
+      json:
+        query.sort_by === "accuracy" || query.selected_genre
+          ? []
+          : [
+              {
+                player_name: "Alice",
+                completed: 0,
+                answered: 0,
+                correct: 0,
+                accuracy: null,
+                place: 1,
+                is_mine: true,
+              },
+            ],
+    });
+  });
+  await page.setViewportSize({ width: 320, height: 740 });
+  await page.goto("/");
+  await login(page);
+  await page.getByRole("button", { name: "Highscores", exact: true }).click();
+  await page
+    .getByRole("button", { name: "Spielervergleich", exact: true })
+    .click();
+  await expect(page.getByText("Platz 1 · Alice (Du)")).toBeVisible();
+  await expect(
+    page.getByText("Du bist bisher der einzige Spieler in dieser Auswahl."),
+  ).toBeVisible();
+  await expect(page.getByText(/Dein Konto ist schon dabei/)).toBeVisible();
+  await expect(
+    page.getByText(/0 Runden · 0 von 0 Antworten richtig/),
+  ).toBeVisible();
+  await page.getByRole("button", { name: "Trefferquote", exact: true }).click();
+  await expect(
+    page.getByText(/Für die Trefferquote braucht es mindestens 50/),
+  ).toBeVisible();
+  await page
+    .getByRole("button", { name: "Richtige Antworten", exact: true })
+    .click();
+  await expect(page.getByText("Platz 1 · Alice (Du)")).toBeVisible();
+  await page.getByText("Vergleich eingrenzen", { exact: true }).click();
+  await page.getByLabel("Spielerwertung Genre").selectOption("Science-Fiction");
+  await expect(
+    page.getByText(/Noch keine abgeschlossenen Runden für diese Auswahl/),
+  ).toBeVisible();
+  await page
+    .getByRole("button", { name: "Filter zurücksetzen", exact: true })
+    .click();
+  await expect(page.getByText("Platz 1 · Alice (Du)")).toBeVisible();
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([]);
+  await page.screenshot({
+    path: "test-results/player-ranking-own-mobile.png",
+    fullPage: true,
+  });
+});
+
+for (const failure of [
+  {
+    code: "57014",
+    status: 500,
+    text: "Das Laden der Spielerrangliste dauert zu lange. Bitte versuche es erneut.",
+  },
+  {
+    code: "PGRST301",
+    status: 401,
+    text: "Deine Anmeldung konnte nicht bestätigt werden. Bitte melde Dich im Profil erneut an.",
+  },
+  {
+    code: "XX000",
+    status: 500,
+    text: "Der Kontodienst konnte die Spielerwerte nicht bereitstellen. Bitte versuche es erneut.",
+  },
+]) {
+  test(`Spielervergleich erklärt ${failure.code} und lädt nach erneutem Versuch das eigene Ergebnis`, async ({
+    page,
+  }) => {
+    await page.clock.install({ time: new Date("2026-10-02T10:00:00+02:00") });
+    await mockAccounts(page);
+    let failed = true;
+    await page.route("**/rest/v1/rpc/quiz_players", (route) =>
+      route.fulfill(
+        failed
+          ? {
+              status: failure.status,
+              json: {
+                code: failure.code,
+                message: "Private interne Fehlerdetails",
+              },
+            }
+          : {
+              json: [
+                {
+                  player_name: "Alice",
+                  completed: 1,
+                  answered: 5,
+                  correct: 3,
+                  accuracy: 60,
+                  place: 1,
+                  is_mine: true,
+                },
+              ],
+            },
+      ),
+    );
+    await page.goto("/");
+    await login(page);
+    await page.getByRole("button", { name: "Highscores", exact: true }).click();
+    await page
+      .getByRole("button", { name: "Spielervergleich", exact: true })
+      .click();
+    await expect(
+      page.getByRole("status").filter({ hasText: failure.text }),
+    ).toBeVisible();
+    await expect(page.getByText("Private interne Fehlerdetails")).toHaveCount(
+      0,
+    );
+    failed = false;
+    await page
+      .getByRole("button", { name: "Erneut versuchen", exact: true })
+      .click();
+    await expect(page.getByText("Platz 1 · Alice (Du)")).toBeVisible();
+    await expect(
+      page.getByText(/1 Runden · 3 von 5 Antworten richtig · 60 %/),
+    ).toBeVisible();
+    await expect(
+      page.getByRole("button", {
+        name: "Spielerrangliste aktualisieren",
+        exact: true,
+      }),
+    ).toBeVisible();
+  });
+}

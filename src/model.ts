@@ -82,6 +82,7 @@ export interface AnswerEvent {
   knowledgeId: string;
   version: string;
   answerId: string | null;
+  dontKnow?: true;
   correct: boolean;
   guessed: boolean;
   at: number;
@@ -89,6 +90,9 @@ export interface AnswerEvent {
   timeBonus: number;
   elapsedMs: number;
 }
+export type AnswerChoice = string | null | { dontKnow: true };
+export const hasAnswer = (event: AnswerEvent) =>
+  event.answerId !== null || event.dontKnow === true;
 export interface Round {
   id: string;
   mode: Mode;

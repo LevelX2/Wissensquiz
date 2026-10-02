@@ -14,6 +14,8 @@ import { importCsv } from "./importer";
 import {
   emptyState,
   uid,
+  hasAnswer,
+  type AnswerChoice,
   type AnswerEvent,
   type ImportReport,
   type Mode,
@@ -1348,31 +1350,38 @@ function QuestionScreen({
   const event = state.events.find((e) => e.id === round.events[index]);
   const [remaining, setRemaining] = useState(30_000);
   const [ready, setReady] = useState(false);
+  const [revealing, setRevealing] = useState(false);
+  const showReveal = !!event?.dontKnow && revealing;
   const start = useRef<{ wall: number; mono: number } | null>(null);
   const locked = useRef(false);
-  const chooseRef = useRef<(id: string | null) => void>(() => {});
+  const chooseRef = useRef<(choice: AnswerChoice) => void>(() => {});
   const feedback = useRef<HTMLDivElement>(null);
   const [reporting, setReporting] = useState(false);
   const [comment, setComment] = useState("");
   const [sent, setSent] = useState(false);
-  const choose = async (id: string | null) => {
+  const choose = async (choice: AnswerChoice) => {
     if (locked.current || event || !ready || round.status !== "active") return;
     locked.current = true;
-    if (id !== null) unlockSound(state.settings);
+    if (choice !== null) unlockSound(state.settings);
+    if (choice !== null && typeof choice === "object") setRevealing(true);
     const ms = start.current ? elapsed(start.current) : 0;
-    const result = await mutate((s) => answer(s, round.id, q.id, id, ms));
-    if (!result) locked.current = false;
-    else {
+    const result = await mutate((s) => answer(s, round.id, q.id, choice, ms));
+    if (!result) {
+      locked.current = false;
+      setRevealing(false);
+    } else {
       const saved = result.events.find(
         (e) => e.id === `${round.id}:${q.knowledgeId}`,
       );
       if (saved)
         playFeedback(
-          saved.answerId === null
-            ? "timeout"
-            : saved.correct
-              ? "correct"
-              : "wrong",
+          saved.dontKnow
+            ? "reveal"
+            : saved.answerId === null
+              ? "timeout"
+              : saved.correct
+                ? "correct"
+                : "wrong",
           result.settings,
         );
     }
@@ -1380,6 +1389,11 @@ function QuestionScreen({
   chooseRef.current = (id) => {
     void choose(id);
   };
+  useEffect(() => {
+    if (!event || !revealing) return;
+    const timer = setTimeout(() => setRevealing(false), 1100);
+    return () => clearTimeout(timer);
+  }, [event?.id, revealing]);
   useEffect(() => {
     if (event) return;
     let second = 0;
@@ -1439,6 +1453,24 @@ function QuestionScreen({
           </button>
         );
       })}
+      {!event && (
+        <button
+          className="answer answer-unknown"
+          aria-describedby={`dont-know-${q.id}`}
+          disabled={busy || !ready || round.status !== "active"}
+          onClick={() => void choose({ dontKnow: true })}
+        >
+          <span className="answer-letter" aria-hidden="true">
+            ?
+          </span>
+          <span>Keine Ahnung</span>
+        </button>
+      )}
+      {!event && (
+        <p className="answer-unknown-hint" id={`dont-know-${q.id}`}>
+          Zählt als falsch. Danach siehst Du die richtige Lösung.
+        </p>
+      )}
     </div>
   );
   return (
@@ -1468,7 +1500,7 @@ function QuestionScreen({
                 ? "correct"
                 : "wrong"
               : "open";
-            const label = `Frage ${i + 1}: ${result ? (result.correct ? "richtig beantwortet" : result.answerId ? "falsch beantwortet" : "ohne Antwort") : "noch offen"}${i === index ? ", aktuell" : ""}`;
+            const label = `Frage ${i + 1}: ${result ? (result.correct ? "richtig beantwortet" : result.dontKnow ? "keine Ahnung, als falsch gewertet" : result.answerId ? "falsch beantwortet" : "ohne Antwort") : "noch offen"}${i === index ? ", aktuell" : ""}`;
             return (
               <span
                 key={i}
@@ -1480,7 +1512,7 @@ function QuestionScreen({
                 {result
                   ? result.correct
                     ? "✓"
-                    : result.answerId
+                    : hasAnswer(result)
                       ? "×"
                       : "–"
                   : i === index
@@ -1536,61 +1568,82 @@ function QuestionScreen({
         </h1>
         {round.mode !== "rekord" &&
           state.settings.questionHistory !== "hidden" &&
-          (state.settings.questionHistory === "always" || !!event) && (
+          (state.settings.questionHistory === "always" || !!event) &&
+          !showReveal && (
             <QuestionHistory key={q.id} events={state.events} question={q} />
           )}
-        {event ? (
-          <details className="answer-review">
-            <summary>Alle Antworten ansehen</summary>
-            {answerOptions}
-          </details>
-        ) : (
-          answerOptions
-        )}
+        {event
+          ? !showReveal && (
+              <details className="answer-review">
+                <summary>Alle Antworten ansehen</summary>
+                {answerOptions}
+              </details>
+            )
+          : answerOptions}
         {!event && round.mode === "rekord" && (
           <p className="quiet-note">Deine erste Antwort zählt.</p>
         )}
         {event && (
           <div ref={feedback} tabIndex={-1} className="feedback" role="status">
-            <div
-              className={`feedback-title ${event.correct ? "success" : "incorrect"}`}
-            >
-              <span>{event.correct ? "✓" : "↗"}</span>
-              <h2>
-                {event.correct
-                  ? "Genau richtig."
-                  : event.answerId === null
-                    ? "Die Zeit ist um."
-                    : "Eine neue Entdeckung."}
-              </h2>
-              {round.mode === "rekord" && (
-                <Pill>+{event.knowledgePoints + event.timeBonus} Punkte</Pill>
-              )}
-            </div>
-            <p className="chosen-answer">
-              Deine Antwort:{" "}
-              <strong>
-                {q.answers.find((a) => a.id === event.answerId)?.text ??
-                  "Keine Antwort gewählt"}
-              </strong>
-            </p>
-            {!event.correct && (
-              <p>
-                Die richtige Antwort:{" "}
-                <strong>
+            {showReveal ? (
+              <div className="solution-reveal">
+                <span className="eyebrow">DIE RICHTIGE ANTWORT</span>
+                <p>
+                  <span aria-hidden="true">✓</span>{" "}
                   {q.answers.find((a) => a.id === q.correctId)!.text}
-                </strong>
-              </p>
-            )}
-            <Explanation q={q} event={event} />
-            {event.guessed && (
-              <p className="tiny muted">
-                Deine Punkte bleiben. Dieses Wissensziel kommt früher wieder.
-              </p>
+                </p>
+                <span>Keine Ahnung gewählt · als falsch gewertet</span>
+              </div>
+            ) : (
+              <>
+                <div
+                  className={`feedback-title ${event.correct ? "success" : "incorrect"}`}
+                >
+                  <span>{event.correct ? "✓" : "↗"}</span>
+                  <h2>
+                    {event.correct
+                      ? "Genau richtig."
+                      : event.dontKnow
+                        ? "Die Lösung zum Merken."
+                        : event.answerId === null
+                          ? "Die Zeit ist um."
+                          : "Eine neue Entdeckung."}
+                  </h2>
+                  {round.mode === "rekord" && (
+                    <Pill>
+                      +{event.knowledgePoints + event.timeBonus} Punkte
+                    </Pill>
+                  )}
+                </div>
+                <p className="chosen-answer">
+                  Deine Antwort:{" "}
+                  <strong>
+                    {event.dontKnow
+                      ? "Keine Ahnung"
+                      : (q.answers.find((a) => a.id === event.answerId)?.text ??
+                        "Keine Antwort gewählt")}
+                  </strong>
+                </p>
+                {!event.correct && (
+                  <p>
+                    Die richtige Antwort:{" "}
+                    <strong>
+                      {q.answers.find((a) => a.id === q.correctId)!.text}
+                    </strong>
+                  </p>
+                )}
+                <Explanation q={q} event={event} />
+                {event.guessed && (
+                  <p className="tiny muted">
+                    Deine Punkte bleiben. Dieses Wissensziel kommt früher
+                    wieder.
+                  </p>
+                )}
+              </>
             )}
           </div>
         )}
-        {event && (
+        {event && !showReveal && (
           <div className="feedback-actions">
             {event.correct && (
               <button
@@ -1749,9 +1802,15 @@ function Result({
                 className={
                   e.guessed ? "guessed" : e.correct ? "correct" : "wrong"
                 }
-                aria-label={`Frage ${i + 1}: ${e.guessed ? "richtig, geraten" : e.correct ? "richtig" : e.answerId ? "falsch" : "Zeit abgelaufen"}`}
+                aria-label={`Frage ${i + 1}: ${e.guessed ? "richtig, geraten" : e.correct ? "richtig" : e.dontKnow ? "keine Ahnung, als falsch gewertet" : e.answerId ? "falsch" : "Zeit abgelaufen"}`}
               >
-                {e.guessed ? "?" : e.correct ? "✓" : e.answerId ? "×" : "–"}
+                {e.guessed || e.dontKnow
+                  ? "?"
+                  : e.correct
+                    ? "✓"
+                    : e.answerId
+                      ? "×"
+                      : "–"}
               </span>
             ))}
           </div>
@@ -1761,6 +1820,9 @@ function Result({
         <div>
           <strong>{summary.wrong}</strong>
           <span>Falsch beantwortet</span>
+          {summary.dontKnow > 0 && (
+            <small>davon {summary.dontKnow} × Keine Ahnung</small>
+          )}
         </div>
         <div>
           <strong>{summary.timedOut}</strong>
@@ -1930,8 +1992,10 @@ function Result({
                 {!e.correct && (
                   <p>
                     <strong>Deine Antwort:</strong>{" "}
-                    {q.answers.find((a) => a.id === e.answerId)?.text ??
-                      "Zeit abgelaufen – keine Antwort"}
+                    {e.dontKnow
+                      ? "Keine Ahnung"
+                      : (q.answers.find((a) => a.id === e.answerId)?.text ??
+                        "Zeit abgelaufen – keine Antwort")}
                   </p>
                 )}
                 <p>

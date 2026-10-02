@@ -74,6 +74,7 @@ const stateSchema = z.object({
         knowledgeId: id,
         version: id,
         answerId: id.nullable(),
+        dontKnow: z.literal(true).optional(),
         correct: z.boolean(),
         guessed: z.boolean(),
         at: time,
@@ -239,6 +240,9 @@ export function validateBackup(value: unknown): State {
     if (
       e.correct !== correct ||
       (e.guessed && !e.correct) ||
+      (e.dontKnow &&
+        (e.answerId !== null ||
+          (r.mode === "rekord" && e.elapsedMs >= 30000))) ||
       e.knowledgePoints !== base ||
       e.timeBonus !== bonus ||
       e.at < r.startedAt

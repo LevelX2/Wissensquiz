@@ -1,5 +1,6 @@
 import type {
   AnswerEvent,
+  AnswerChoice,
   Learning,
   Mode,
   Question,
@@ -333,7 +334,7 @@ export function answer(
   state: State,
   roundId: string,
   questionId: string,
-  answerId: string | null,
+  choice: AnswerChoice,
   elapsedMs: number,
   at = Date.now(),
 ) {
@@ -341,6 +342,8 @@ export function answer(
   if (!round || round.status !== "active") return;
   const q = round.questions[round.events.length];
   if (!q || q.id !== questionId) return; // transactional double-submit guard
+  const answerId = typeof choice === "string" ? choice : null;
+  const dontKnow = choice !== null && typeof choice === "object";
   if (answerId !== null && !q.answers.some((a) => a.id === answerId))
     throw new Error("Unbekannte Antwort.");
   const correct =
@@ -352,6 +355,9 @@ export function answer(
     knowledgeId: q.knowledgeId,
     version: q.version,
     answerId: round.mode === "rekord" && elapsedMs >= 30_000 ? null : answerId,
+    ...(dontKnow && (round.mode !== "rekord" || elapsedMs < 30_000)
+      ? { dontKnow: true as const }
+      : {}),
     correct,
     guessed: false,
     at,

@@ -31,13 +31,15 @@ Ebenfalls am 26.09.2026 geliefert: `Fantasy_Quiz_180_Fragen.csv`, 31 Spalten. Vo
 | `answer_a` bis `answer_d` | Vier Antwortobjekte mit stabiler ID `<question_id>:a` bis `:d`. Leere oder gleiche Texte sind ungültig. |
 | `correct_answer` | `correctId`; A–D, answer_a–d oder eindeutiger exakter Antworttext. |
 | `feedback_a` bis `feedback_d` | Feedback am jeweiligen Antwortobjekt, bleibt beim Mischen erhalten. Fehlende Texte bleiben leer. |
-| `explanation_short` | `explanation`; verpflichtend, sofort nach der Antwort sichtbar. |
+| `explanation_short` | `explanation`; verpflichtend, nach der Antwort sichtbar. Bei „Keine Ahnung“ folgt die Erklärung auf die kurze Hervorhebung der richtigen Lösung. |
 | `explanation_context` | Optionale Vertiefung; fehlt sie, entfällt der Abschnitt. |
 | `memory_anchor` | Optionaler Merksatz. |
 | `spoiler_level` | Original in `metadata`; vor jeder Runde allgemeiner Spoilerhinweis. |
 | `source_urls` | HTTP-/HTTPS-URLs; Pipe, Semikolon oder Leerraum als Trenner. Ungültige/andere Protokolle schließen den Datensatz aus. |
 | `verification_status` | Unverändert in `metadata`. „redaktionell_geprueft“ wird nicht als eigene Faktenprüfung ausgegeben. „demo-redaktionell“ kennzeichnet das separate Beispielpaket. |
 | Unbekannte zusätzliche Spalten | Werden in `metadata` erhalten. |
+
+Die zusätzliche UI-Auswahl „Keine Ahnung“ gehört nicht zu `answer_a`–`answer_d`. Importierte und gespeicherte Fragen behalten genau vier Antworten und denselben Lösungsschlüssel; die ausdrückliche Nichtwissensantwort wird ausschließlich als Ereignis gespeichert. [Antwortvertrag](Lernregeln.md#keine-ahnung-als-antwortoption).
 
 ## Identität und Fehlerbehandlung
 
