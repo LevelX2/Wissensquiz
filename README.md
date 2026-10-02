@@ -1,10 +1,10 @@
 # Wissensquiz · Dein Filmkosmos
 
-Lokal ergänzt am 02.10.2026: **asynchrone Duelle** mit drei gemeinsamen Zehnerrunden auf Zeit, Zufallsgegnern oder Linkeinladung, fünf offenen Spielplätzen und 72-Stunden-Fristen. Vor Solo-/Duellstart lassen sich Lösungen direkt oder nach der eigenen Runde anzeigen. Servermigration und öffentlicher Katalog mit 4.827 Fragen im vorhandenen Supabase-Projekt eingerichtet; App noch nicht veröffentlicht. [Spielvertrag](docs/Asynchrone-Filmduelle.md), [Katalog und Einrichtung](docs/Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026).
+Seit Sites-Version 36 am 02.10.2026 veröffentlicht: **asynchrone Duelle** mit drei gemeinsamen Zehnerrunden auf Zeit, Zufallsgegnern oder Linkeinladung, fünf offenen Spielplätzen und 72-Stunden-Fristen. Vor Solo-/Duellstart lassen sich Lösungen direkt oder nach der eigenen Runde anzeigen. Servermigration und öffentlicher Katalog mit 4.827 Fragen im vorhandenen Supabase-Projekt eingerichtet; App als Version 36 veröffentlicht. [Spielvertrag](docs/Asynchrone-Filmduelle.md), [Katalog und Einrichtung](docs/Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026).
 
 Spielbare deutsche React-/TypeScript-App für kurze Filmquizrunden mit dauerhaftem Lernfortschritt im Browser. Kein Konto, Backend oder KI-Dienst erforderlich.
 
-Aktueller lokaler Inhalt mit [Alle-Genres-Ergänzung](docs/Alle-Genres-Ergaenzung.md) und [Preisträger](docs/Preistraeger.md), 02.10.2026: **4.877 Fragen, 4.397 Wissensziele und 656 Filme**. 16 CSV-Pakete, Filmdaten zu allen Filmen und vier Bekanntheitsgruppen. Preisträger enthält 200 redaktionell erstellte Fragen, je 50 für Leicht/Mittel/Schwer/Experte; bestehende Fortschritte und Freischaltungen bleiben erhalten. Neue Ergänzungen noch nicht veröffentlicht. Paketabschnitte weiter unten dokumentieren historische Importstände.
+Aktueller veröffentlichter Inhalt mit [Alle-Genres-Ergänzung](docs/Alle-Genres-Ergaenzung.md) und [Preisträger](docs/Preistraeger.md), 02.10.2026: **4.877 Fragen, 4.397 Wissensziele und 656 Filme**. 16 CSV-Pakete, Filmdaten zu allen Filmen und vier Bekanntheitsgruppen. Preisträger enthält 200 redaktionell erstellte Fragen, je 50 für Leicht/Mittel/Schwer/Experte; bestehende Fortschritte und Freischaltungen bleiben erhalten. Filmkarriere, neue Pakete und Duelle sind als Version 36 veröffentlicht. Paketabschnitte weiter unten dokumentieren historische Importstände.
 
 ## Starten
 

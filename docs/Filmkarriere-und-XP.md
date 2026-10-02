@@ -1,8 +1,8 @@
 # Filmkarriere und Erfahrungspunkte
 
-Seit 02.10.2026 lokal umgesetzt: steigende Levelhürden, leistungsabhängige XP, fünf Karrieretitel und sichtbarer Fortschritt im Profil, in der Sammlung, auf den Hauptseiten und nach einer Runde. Spielerlevel erscheinen auch in beiden gemeinsamen Ranglisten. Karriereaufträge bleiben auf ausdrücklichen Nutzerwunsch für eine spätere Entscheidung offen.
+Seit Sites-Version 36 am 02.10.2026 veröffentlicht: steigende Levelhürden, leistungsabhängige XP, fünf Karrieretitel und sichtbarer Fortschritt im Profil, in der Sammlung, auf den Hauptseiten und nach einer Runde. Spielerlevel erscheinen auch in beiden gemeinsamen Ranglisten. Karriereaufträge bleiben auf ausdrücklichen Nutzerwunsch für eine spätere Entscheidung offen.
 
-Die [Migration 202610020004](../supabase/migrations/202610020004_film_career.sql) wurde am 02.10.2026 auf dem bestehenden Serverstand nach Migration 003 erfolgreich angewendet. Live geprüft: XP in beiden Ranglisten, neue und übertragene Karrierewerte, unveränderte Konto-Ausführung und gesperrte anonyme sowie direkte Helferrechte. Private Spielstände wurden nicht verändert. Die neue App wird im gemeinsamen Release veröffentlicht; [Betriebsstand](Sites-Betrieb.md).
+Die [Migration 202610020004](../supabase/migrations/202610020004_film_career.sql) wurde am 02.10.2026 auf dem bestehenden Serverstand nach Migration 003 erfolgreich angewendet. Live geprüft: XP in beiden Ranglisten, neue und übertragene Karrierewerte, unveränderte Konto-Ausführung und gesperrte anonyme sowie direkte Helferrechte. Private Spielstände wurden nicht verändert. Die neue App ist im gemeinsamen Release als Version 36 veröffentlicht; [Betriebsstand](Sites-Betrieb.md).
 
 ## XP aus abgeschlossenen Runden
 

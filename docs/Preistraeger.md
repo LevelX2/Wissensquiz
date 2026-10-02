@@ -1,6 +1,6 @@
 # Preisträger – 200 Filmfragen
 
-Am 02.10.2026 auf Nutzerauftrag redaktionell erstellt und lokal integriert. Neue Zusatzkategorie **Preisträger**, neben Classics und Arthouse, mit **je 50 Fragen für Leicht, Mittel, Schwer und Experte**. 200 neue Fragen und Wissensziele, keine Varianten. 100 Fragen im Oscar-Schwerpunkt, 50 zu Cannes und 50 zu Venedig; darunter Verbindungen zwischen den Veranstaltungen. Der Schwerpunkt umfasst historische Verleihungen von 1940 bis 2024, keine vollständige aktuelle Siegerchronik.
+Am 02.10.2026 auf Nutzerauftrag redaktionell erstellt, integriert und als Sites-Version 36 veröffentlicht. Neue Zusatzkategorie **Preisträger**, neben Classics und Arthouse, mit **je 50 Fragen für Leicht, Mittel, Schwer und Experte**. 200 neue Fragen und Wissensziele, keine Varianten. 100 Fragen im Oscar-Schwerpunkt, 50 zu Cannes und 50 zu Venedig; darunter Verbindungen zwischen den Veranstaltungen. Der Schwerpunkt umfasst historische Verleihungen von 1940 bis 2024, keine vollständige aktuelle Siegerchronik.
 
 ## Inhalt und Vertiefung
 
@@ -24,9 +24,9 @@ Die bisherige App hatte drei Schwierigkeiten. Für die gewünschten viermal 50 w
 
 Preisträger lässt sich mit Genres und anderen Zusatzkategorien kombinieren. Mehrere Kategorien bilden eine Vereinigung; dieselbe Frage und dasselbe Wissensziel zählen innerhalb einer Runde einmal. Das Paket kennzeichnet gezielt Preisfragen, nicht sämtliche bestehenden Fragen zu ausgezeichneten Filmen. Historische Classics-/Arthouse-Zuordnungen werden dadurch nicht erweitert. JSON- und kompakte Kontosicherungen erhalten vier Schwierigkeiten, die dritte Kategorie und Expertenrunden.
 
-Die neue CSV wird beim App-Start transaktional und idempotent ergänzt. Bisherige Fragen, IDs, Inhaltsversionen, Ereignisse, Runden, Einstellungen, Karriere- und Lernstände bleiben erhalten. Gesamtbestand lokal: **16 CSV-Pakete, 4.877 Fragen, 4.397 Wissensziele, 604 Film-/Reihenthemen und 656 eingeordnete Filme**; davon 837 schon zuvor generierte Filmfragen. Rohquelle und `public/preistraeger-fragen.csv` sind bytegleich und Bestandteil des Offline-Pakets.
+Die neue CSV wird beim App-Start transaktional und idempotent ergänzt. Bisherige Fragen, IDs, Inhaltsversionen, Ereignisse, Runden, Einstellungen, Karriere- und Lernstände bleiben erhalten. Gesamtbestand veröffentlicht: **16 CSV-Pakete, 4.877 Fragen, 4.397 Wissensziele, 604 Film-/Reihenthemen und 656 eingeordnete Filme**; davon 837 schon zuvor generierte Filmfragen. Rohquelle und `public/preistraeger-fragen.csv` sind bytegleich und Bestandteil des Offline-Pakets.
 
-[CSV-Rohquelle](../KI-Wissen-Wissensquiz/01%20Rohquellen/Preistraeger_200_Fragen.csv), [Importbericht](importbericht-preistraeger.json). Keine Veröffentlichung oder Main-Integration in diesem Auftrag.
+[CSV-Rohquelle](../KI-Wissen-Wissensquiz/01%20Rohquellen/Preistraeger_200_Fragen.csv), [Importbericht](importbericht-preistraeger.json). Gemeinsam mit Filmkarriere und Duellen als Version 36 veröffentlicht; keine Main-Integration.
 
 ## Prüfung
 

@@ -1,6 +1,6 @@
 # Asynchrone Filmduelle
 
-Stand: 02.10.2026. Auf Nutzerauftrag lokal umgesetzt; Servermigration und öffentlicher Duellkatalog mit 4.827 Fragen im bestehenden Supabase-Projekt eingerichtet. Die App ist noch nicht veröffentlicht. [Betriebsnachweis](Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026). Der [ursprüngliche Entwurf](Asynchrone-Filmduelle-Konzept.md) bleibt als historische Diskussionsgrundlage erhalten.
+Stand: 02.10.2026. Auf Nutzerauftrag umgesetzt und als Sites-Version 36 veröffentlicht; Servermigration und öffentlicher Duellkatalog mit 4.827 Fragen im bestehenden Supabase-Projekt eingerichtet. [Betriebsnachweis](Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026). Der [ursprüngliche Entwurf](Asynchrone-Filmduelle-Konzept.md) bleibt als historische Diskussionsgrundlage erhalten.
 
 ## Ablauf und Wertung
 

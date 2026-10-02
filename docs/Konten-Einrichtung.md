@@ -119,4 +119,4 @@ Lesender Live-Nachweis: vier RLS-Tabellen, null direkte Tabellenrechte für `ano
 
 Fristablauf wird bei jeder Duelloperation serverseitig ausgewertet, einschließlich Listenabruf und neuem Start; kein Cron-/Pushdienst erforderlich. Effektiver Abschlusszeitpunkt ist die Frist. E-Mail-Erinnerungen, Push und administrative Fristkorrektur sind nicht implementiert. [Spielvertrag](Asynchrone-Filmduelle.md).
 
-Die App mit Duelleinstieg ist noch nicht veröffentlicht. Beide Servermigrationen sind für das gemeinsame Release eingerichtet. Lokale SQL-/Browsertests ersetzen keinen Nutzertest mit zwei echten Konten und Mobilverbindungen; dieser bleibt nach Veröffentlichung offen.
+Die App mit Duelleinstieg und Filmkarriere ist als Sites-Version 36 veröffentlicht. Beide Servermigrationen sind live eingerichtet. Lokale SQL-/Browsertests ersetzen keinen Nutzertest mit zwei echten Konten und Mobilverbindungen; dieser bleibt nach Veröffentlichung offen.
