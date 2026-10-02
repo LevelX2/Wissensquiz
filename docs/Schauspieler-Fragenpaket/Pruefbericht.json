@@ -1,0 +1,69 @@
+{
+  "created_on": "2026-10-02",
+  "actors": 100,
+  "selection_groups": {
+    "Schauspieler": 50,
+    "Schauspielerinnen": 50
+  },
+  "questions": 800,
+  "questions_by_difficulty": {
+    "leicht": 200,
+    "mittel": 200,
+    "schwer": 200,
+    "außergewöhnlich": 200
+  },
+  "correct_answers": {
+    "A": 200,
+    "B": 200,
+    "C": 200,
+    "D": 200
+  },
+  "question_types": {
+    "Rollen und Werke": 453,
+    "Musik und Sprechrollen": 26,
+    "Produktion und Regie": 92,
+    "Auszeichnungen": 104,
+    "Bühne und Literatur": 16,
+    "Engagement und öffentliche Arbeit": 11,
+    "Ausbildung und frühe Arbeit": 35,
+    "Herkunft und Namen": 46,
+    "Sport und Interessen": 17
+  },
+  "actor_recognition_questions": 73,
+  "proposed_knowledge_ids": 800,
+  "variants": 0,
+  "unique_source_urls": 226,
+  "research_terms_located": 800,
+  "research_term_locator_gaps": {},
+  "over_60_words": [],
+  "checks": {
+    "json_roundtrip": true,
+    "eight_questions_each_actor": true,
+    "two_questions_each_actor_and_difficulty": true,
+    "four_distinct_answers": true,
+    "one_correct_answer_each_question": true,
+    "answer_distribution_each_difficulty": {
+      "A": 50,
+      "B": 50,
+      "C": 50,
+      "D": 50
+    },
+    "duplicate_ids": 0,
+    "duplicate_normalized_questions": 0,
+    "all_additional_info_present": true,
+    "all_questions_have_sources": true,
+    "recognition_heading_has_no_solution_name": true
+  },
+  "limits": [
+    "Schwierigkeiten sind redaktionell eingeschätzt, nicht mit Spielenden kalibriert.",
+    "Recherchebegriffe dienen der Auffindbarkeit; die Trefferzählung ist keine eigenständige Faktenprüfung.",
+    "Inhaltlich recherchiertes Erstpaket, keine zweite unabhängige Vollabnahme aller 800 Aussagen.",
+    "Provisorische Wissensziel-IDs: semantische Überschneidungen mit dem bestehenden Filmkatalog vor Integration abgleichen.",
+    "Eigenständiges JSON-Redaktionsformat; nicht mit dem aktuellen CSV- oder Spielstand-Importer importierbar."
+  ],
+  "hashes": {
+    "Schauspieler_100_Personen_Redaktion.txt": "40b86a24855ed5d543e965926c319b120db742f75d6b0c6d20963c8424694a82",
+    "Schauspieler_100_Personen_800_Fragen.json": "8588de53610bf411d1588fd06aa00c47d6862cb43c3be9889e67970ac7850df8",
+    "Schauspieler_800_Fragen_Lesefassung.md": "e7ef3afeac7d220b5046b313b0e8f3802b498c3b79f75a86a214e5b39c6d0907"
+  }
+}
