@@ -4,6 +4,50 @@ import { importCsv } from "../../src/importer";
 import { packages } from "../../src/packages";
 import { emptyState } from "../../src/model";
 import { answer, complete, startRound } from "../../src/engine";
+import AxeBuilder from "@axe-core/playwright";
+
+test("Leere Highscores führen zur Rekordauswahl und zur Anmeldung", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-02T12:00:00+02:00") });
+  await page.setViewportSize({ width: 320, height: 800 });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await page.getByRole("button", { name: "Highscores", exact: true }).click();
+  await expect(
+    page
+      .getByRole("group", { name: "Bestenlisten-Ansicht", exact: true })
+      .getByRole("button"),
+  ).toHaveCount(2);
+  await page
+    .getByRole("button", { name: "Rekordrunde vorbereiten" })
+    .press("Enter");
+  await expect(
+    page.getByRole("button", { name: /^Rekordrunde 30 Sekunden/ }),
+  ).toHaveAttribute("aria-pressed", "true");
+  await expect(page.locator(".question-card")).toHaveCount(0);
+  await page.reload();
+  await expect(
+    page.getByRole("button", { name: /^Rekordrunde 30 Sekunden/ }),
+  ).toHaveAttribute("aria-pressed", "true");
+  await page.getByRole("button", { name: "Highscores", exact: true }).click();
+  await page
+    .getByRole("button", { name: "Spielervergleich", exact: true })
+    .press("Enter");
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page.getByRole("button", { name: "Im Profil anmelden" }).press("Enter");
+  await expect(
+    page.getByRole("heading", { name: "Anmelden", exact: true }),
+  ).toBeVisible();
+});
 
 test("Genre und Schwierigkeit bleiben unabhängig einstellbar und über Neuladen erhalten", async ({
   page,
@@ -110,12 +154,29 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
   await page.reload();
   await page.getByRole("button", { name: "Rekordrunde", exact: false }).click();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
+  await expect(
+    page.getByRole("button", { name: "Meine Rekorde", exact: true }),
+  ).toHaveAttribute("aria-pressed", "true");
+  await expect(
+    page.getByLabel("Stufenauswahl", { exact: true }),
+  ).not.toBeVisible();
+  await expect(
+    page.getByRole("button", { name: "Rückblick ansehen" }),
+  ).toHaveCount(3);
   await expect(page.locator(".leaderboard-category")).toHaveCount(3);
   await expect(page.locator(".leaderboard-entry")).toHaveCount(4);
+  await page.screenshot({
+    path: "test-results/rekorde-desktop.png",
+    fullPage: true,
+  });
   await page
     .getByLabel("Genre-Auswahl", { exact: true })
     .selectOption({ label: "Horror" });
   await expect(page.locator(".leaderboard-entry")).toHaveCount(2);
+  await expect(page.locator(".record-best")).toContainText("790 Punkte");
+  await expect(page.locator(".leaderboard-entry").first()).not.toBeVisible();
+  await page.getByText("Alle Runden (2)", { exact: true }).click();
+  await expect(page.locator(".leaderboard-entry").first()).toBeVisible();
   await expect(page.locator(".leaderboard-entry").first()).toContainText(
     "Platz 1 · 790 Punkte",
   );
@@ -126,6 +187,12 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
     .getByLabel("Genre-Auswahl", { exact: true })
     .selectOption({ label: "Horror + Sci-Fi" });
   await expect(page.locator(".leaderboard-entry")).toHaveCount(1);
+  await page.getByText("Weitere Filter", { exact: true }).click();
+  await page.getByLabel("Rundengröße", { exact: true }).selectOption("5");
+  await expect(
+    page.getByText("Weitere Filter (1 aktiv)", { exact: true }),
+  ).toBeVisible();
+  await page.getByText("Weitere Filter (1 aktiv)", { exact: true }).click();
   await page.setViewportSize({ width: 320, height: 740 });
   expect(
     await page.evaluate(
@@ -136,7 +203,18 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
     path: "test-results/leaderboard-mobile.png",
     fullPage: true,
   });
-  await page.getByRole("button", { name: "Spiel ansehen" }).click();
+  await page
+    .getByRole("button", { name: "Filter zurücksetzen", exact: true })
+    .click();
+  await expect(page.locator(".leaderboard-category")).toHaveCount(3);
+  await expect(page.getByLabel("Genre-Auswahl", { exact: true })).toHaveValue(
+    "",
+  );
+  await expect(page.getByLabel("Rundengröße", { exact: true })).toHaveValue("");
+  await page
+    .getByLabel("Genre-Auswahl", { exact: true })
+    .selectOption({ label: "Horror + Sci-Fi" });
+  await page.getByRole("button", { name: "Rückblick ansehen" }).click();
   await expect(
     page.getByRole("heading", { name: "Dein Rundenrückblick" }),
   ).toBeVisible();

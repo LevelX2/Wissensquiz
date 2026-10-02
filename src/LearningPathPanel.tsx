@@ -17,8 +17,8 @@ export function LearningPath({
       <summary>Deine Stufenfortschritte</summary>
       <p className="tiny">
         Sichere richtige Antworten aus abgeschlossenen Runden zählen einmal pro
-        Wissensziel – in allen drei Modi. Geratene Treffer und Varianten erhöhen
-        den Zähler nicht. Deine erreichten Stufen bleiben erhalten.
+        Wissensziel – in allen Modi. Geratene Treffer und Varianten erhöhen den
+        Zähler nicht. Deine erreichten Stufen bleiben erhalten.
       </p>
       <div className="path-progress">
         {genres.map((genre) => {

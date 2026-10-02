@@ -34,6 +34,18 @@ Freies Spiel ersetzt Besser werden und zieht Ziele zufällig ohne Lernstandsgewi
 
 Die erste abgeschlossene Runde wird mit bis zu fünf Fragen vorbereitet, spätere mit bis zu zehn. Vorab steht die tatsächliche Größe fest. Nach einer Pause startet keine automatische Wiederholungswelle. Entspannte Runden dürfen über Startseite, Neuladen oder Browserneustart fortgesetzt werden; beim Wiederaufnehmen erscheint gegebenenfalls die zuletzt gespeicherte Erklärung.
 
+## Fehlertraining und Rundenauswertung
+
+Seit 02.10.2026 ergänzt `fehler` die drei bisherigen Modi. Offene Fehler werden ohne neue gespeicherte Zähler aus der chronologischen Ereignishistorie je Wissensziel abgeleitet: falsch/abgelaufen aufnehmen, sicher richtig entfernen, geraten richtig erhält nur einen schon vorhandenen Fehler. Ereignisse aller Modi und Rundenstatus zählen. Nach einer sicheren Antwort beginnt ein späterer Fehler eine neue offene Fehlerfolge.
+
+Fehlertraining wählt ausschließlich solche offenen Ziele innerhalb der gewählten Genres, Schwierigkeiten, Filmgruppen und Kategorien. Häufigere Fehler seit der letzten sicheren Antwort zuerst, bei Gleichstand jüngster Fehler zuerst, weitere Gleichstände zufällig. Die zuletzt falsch beantwortete konkrete Frage wird bevorzugt; passt sie nicht zur Auswahl, darf eine passende Variante desselben Ziels verwendet werden. Je Ziel ein Platz, erste Runde bis fünf, danach bis zehn; weniger offene Fehler ergeben kürzere Runden. Kein Auffüllen mit ungespielten oder sicheren Fragen. Startvorschau und Rundenstart verwenden denselben Ereigniskontext.
+
+Die Zehn-Minuten-Fälligkeit muss für dieses bewusst gestartete Training nicht abgewartet werden. Die bestehenden Lernintervalle, Tagesgrenzen, „War geraten“-Korrektur, Freischaltungen und einmaligen 10 Abschluss-XP gelten weiter. Sofort sicher gelöst bedeutet nicht langfristig gefestigt. Fehlerrunden sind entspannte, offline fortsetzbare Runden mit den üblichen Snapshots und Antwortreihenfolgen; keine Rekordpunkte.
+
+Die Ergebnisansicht zeigt Trefferquote (richtige Antworten einschließlich geratener Treffer / tatsächliche Fragenzahl), Antwortfolge, falsche Antworten, Zeitabläufe ohne Wahl, geratene Treffer und die längste Folge sicherer richtiger Antworten. Dazu neu kennengelernte Ziele (vor der Runde noch ohne Lernstand), in dieser Runde sicher gelöste frühere Fehler, neu geübte/gefestigte Ziele, damalige Freischaltungen und Treffer je Genre. Historische Zahlen beziehen sich auf den Rundensnapshot, seine Ereignisse und die vorherigen Runden; spätere Trainings ändern sie nicht.
+
+„Fehler dieser Runde üben“ startet unmittelbar eine neue Fehlerrunde mit den ursprünglichen Filtern und ausschließlich den aktuell noch offenen Fehlzielen der betrachteten abgeschlossenen Runde. Schon später sicher gelöste Ziele entfallen. Eine andere aktive Runde verhindert diesen Start mit Hinweis. Ohne verfügbare Fehler wird keine leere Runde erzeugt. Rückblickfilter „Alle“, „Fehler“ (einschließlich Zeitablauf) und „Geraten“ zeigen gezielt passende Erklärungen; bei Fehlern auch die damalige gewählte Antwort. Die Filter sind flüchtiger UI-Zustand.
+
 ## Rekorde und Zeit
 
 Zeitbasis: Maximum aus verstrichener `performance.now()`-Zeit und verstrichener `Date.now()`-Zeit. Die monotone Uhr schützt vor zurückgestellter Systemzeit, die Wandzeit erfasst Suspend-/Hintergrundzeit auch bei pausierter monotoner Uhr. Vorstellen der Systemuhr kann eine Trainingsfrage vorzeitig beenden; lokale Rekorde sind nicht manipulationssicher und kein Wettbewerb.
@@ -45,6 +57,8 @@ Punkte: richtig und innerhalb der Zeit = 100 + 2 × floor((30.000 − vergangene
 Für neue Runden beginnt der Rekordschlüssel mit `genres-v1`, gefolgt von der kanonischen Genre-/Stufenkombination, optionalem Einzelthema, Rundengröße und Regelversion. Die Klickreihenfolge ändert die Kategorie nicht. Neue Kategorien werden getrennt von den unveränderten historischen Rekordschlüsseln geführt.
 
 ## Persönliche Bestenliste
+
+Highscores startet für Gäste und Konten mit „Meine Rekorde“. Kurze Karten zeigen den Bestwert je exakter Vergleichskategorie; die jüngst gespielten Kategorien stehen zuerst. Innerhalb einer Kategorie bleiben Punkte, Gleichstände und die Reihenfolge der einzelnen Runden unverändert. „Alle Runden“ enthält die vollständige Liste, „Auswahl & Vergleich“ die ausführlichen Vergleichsmerkmale. Genre ist direkt filterbar; weitere Filter sind aufklappbar und gemeinsam zurücksetzbar. Der getrennte „Spielervergleich“ beginnt mit richtigen Antworten aller Spielmodi und bietet zusätzlich Runden, Trefferquote sowie passende Rekordpunkte. Keine neue Speicherung und keine Ranglistenmigration für diese Oberflächenvereinfachung.
 
 Aus sämtlichen abgeschlossenen Rekordrunden und ihren Antwortereignissen abgeleitet, ohne neue Datenablage oder Migration. Aktive, abgebrochene und entspannte Runden zählen nicht. Jede bestehende `recordKey`-Kategorie hat eine eigene Rangliste: Genre-/Stufenkombination, optionales Filmthema, tatsächliche Fragenzahl und Regelversion. Historische Themenkategorien bleiben separat. Die Genre-Auswahl filtert exakt die gespielte Kombination; „Alle Genre-Kombinationen“ zeigt alle Kategorien getrennt, nicht eine vermischte Gesamtwertung.
 
@@ -92,7 +106,7 @@ Die Filmreise öffnet je Genre Schwierigkeiten und vier Bekanntheitsgruppen. Fes
 
 ## Gemeinsame Spielerranglisten
 
-Zusätzlich zu einzelnen Rekordrunden: meiste abgeschlossene Runden, meiste richtige Antworten und beste Trefferquote. Alle drei Spielmodi zählen, ausschließlich abgeschlossene Runden. Filter: einzelnes Genre oder alle Genres, einzelne Schwierigkeit oder alle Stufen. Bei gemischten Runden zählen nur passende Fragen, die Runde einmal. Richtige Antworten umfassen auch Wiederholungen und nachträglich als geraten markierte Treffer; diese Leistungslisten verwenden nicht die strengere Lernpfaddefinition.
+Zusätzlich zu einzelnen Rekordrunden: meiste abgeschlossene Runden, meiste richtige Antworten und beste Trefferquote. Alle vier Spielmodi zählen, ausschließlich abgeschlossene Runden; Fehlertraining seit der am 02.10.2026 lokal geprüften und live angewendeten Migration `202610020001_error_training_rankings.sql` enthalten. Filter: einzelnes Genre oder alle Genres, einzelne Schwierigkeit oder alle Stufen. Bei gemischten Runden zählen nur passende Fragen, die Runde einmal. Richtige Antworten umfassen auch Wiederholungen und nachträglich als geraten markierte Treffer; diese Leistungslisten verwenden nicht die strengere Lernpfaddefinition.
 
 Trefferquote = richtige gewählte Antworten / alle gewählten Antworten; Zeitabläufe ohne Wahl zählen nicht. Mindestumfang für die Quotenrangliste: 50 Antworten innerhalb der ausgewählten Vergleichsgruppe. Anzeige mit einer Nachkommastelle und immer zusammen mit Runden-/Antwortanzahlen; Rang nach ungerundeter Quote. Gleiche Werte teilen den Rang, stabile Reihenfolge nach Name und internem Eigentümer, 50 Spieler pro Seite. Inaktivität, abgebrochene Runden und reine Anmeldungen ergeben keine Rundenpunkte. Keine zusätzliche E-Mail-/Identitätsfreigabe.
 

@@ -3,6 +3,7 @@ import { readFileSync } from "node:fs";
 import { emptyState } from "../../src/model";
 import { packages, addPackages } from "../../src/packages";
 import { startRound } from "../../src/engine";
+import facts from "../../src/filmFacts.json" with { type: "json" };
 
 test("Komödie-Ergänzung: Regiehintergrund erst nach Antwort und offline verfügbar", async ({
   page,
@@ -27,12 +28,12 @@ test("Komödie-Ergänzung: Regiehintergrund erst nach Antwort und offline verfü
       text: readFileSync(`public${p.path}`, "utf8"),
     })),
   );
-  const q = state.questions.find((q) => q.id === "KOM-202609-P02-L-001")!;
+  const q = state.questions.find((q) => q.id === "FF-376-DIRECTOR")!;
   const pool = state.questions;
   state.questions = [q];
   startRound(
     state,
-    { mode: "ueben", topic: q.topic, difficulty: "leicht" },
+    { mode: "ueben", topic: q.topic, difficulty: "Alle Stufen" },
     Date.parse("2026-09-29T11:59:00+02:00"),
   );
   state.questions = pool;
@@ -62,7 +63,17 @@ test("Komödie-Ergänzung: Regiehintergrund erst nach Antwort und offline verfü
   await expect(page.getByText("Über die Regie", { exact: true })).toHaveCount(
     0,
   );
-  await page.locator(".answer").filter({ hasText: "Will Ferrell" }).click();
+  await page.locator(".answer").filter({ hasText: "Adam McKay" }).click();
+  await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
+  const deepContext = page.locator(".explanation > details").filter({
+    has: page.getByText("Etwas tiefer eintauchen", { exact: true }),
+  });
+  await expect(deepContext.locator(":scope > p").first()).toHaveText(
+    facts.find((f) => f.id === "FF-376")!.directorContext!,
+  );
+  await expect(deepContext).not.toContainText("Gefragt ist die Regie");
+  await expect(deepContext).not.toContainText("Originaltitel:");
+  await expect(deepContext).not.toContainText("Erste Veröffentlichung:");
   await page.locator(".film-data > summary").click();
   await expect(page.locator(".film-data")).toContainText("Adam McKay");
   await expect(page.locator(".film-data")).toContainText("Teil 1");
@@ -78,6 +89,8 @@ test("Komödie-Ergänzung: Regiehintergrund erst nach Antwort und offline verfü
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".explanation")).toBeVisible();
+  await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
+  await expect(deepContext).not.toContainText("Gefragt ist die Regie");
   await page.locator(".film-data > summary").click();
   await expect(page.locator(".film-data")).toContainText(
     "Anchorman: The Legend of Ron Burgundy",

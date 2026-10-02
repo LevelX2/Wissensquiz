@@ -10,7 +10,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.goto("/");
   const start = page.getByRole("button", { name: "Losspielen" });
   await expect(start).toBeEnabled();
-  await expect(page.locator(".mode-artwork")).toHaveCount(3);
+  await expect(page.locator(".mode-artwork")).toHaveCount(4);
   for (const img of await page.locator(".mode-artwork").all())
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))

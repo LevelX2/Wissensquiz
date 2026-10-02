@@ -19,6 +19,7 @@ import { familiarityOf, familiarities, selectionRule } from "./familiarity";
 import { discoveryContext } from "./discovery";
 import { matchesTopic } from "./categories";
 import { prepareFactQuestion } from "./filmFacts";
+import { errorTrainingContext, type OpenMistake } from "./errorTraining";
 export const DAY = 86_400_000;
 export const RULES = {
   version: "1",
@@ -111,6 +112,7 @@ export function selectQuestions(
     now: number;
     recentKnowledgeIds?: Set<string>;
     introductoryQuestionIds?: Set<string>;
+    mistakes?: Map<string, OpenMistake>;
   },
   random = Math.random,
 ): Question[] {
@@ -131,6 +133,22 @@ export function selectQuestions(
   const unique = shuffle([...byGoal.values()], random).map(
     (qs) => qs[Math.min(qs.length - 1, Math.floor(random() * qs.length))],
   );
+  if (options.mode === "fehler") {
+    return unique
+      .filter((q) => options.mistakes?.has(q.knowledgeId))
+      .map((q) => {
+        const last = options.mistakes!.get(q.knowledgeId)!;
+        return (
+          byGoal.get(q.knowledgeId)!.find((v) => v.id === last.questionId) ?? q
+        );
+      })
+      .sort((a, b) => {
+        const ma = options.mistakes!.get(a.knowledgeId)!;
+        const mb = options.mistakes!.get(b.knowledgeId)!;
+        return mb.failures - ma.failures || mb.lastWrongAt - ma.lastWrongAt;
+      })
+      .slice(0, options.size);
+  }
   if (options.mode === "ueben") return unique.slice(0, options.size);
   if (options.mode === "rekord") {
     const cells = new Map<string, Question[]>();
@@ -256,6 +274,7 @@ export function startRound(
     topic: string;
     difficulty: string;
     filters?: QuizFilters;
+    sourceRoundId?: string;
   },
   now = Date.now(),
 ): Round {
@@ -269,6 +288,9 @@ export function startRound(
     {
       ...options,
       ...(options.mode === "entdecken" ? discoveryContext(state) : {}),
+      ...(options.mode === "fehler"
+        ? errorTrainingContext(state, options.sourceRoundId)
+        : {}),
       size: state.rounds.some((r) => r.status === "completed") ? 10 : 5,
       now,
     },
@@ -284,8 +306,9 @@ export function startRound(
   );
   if (!questions.length)
     throw new Error("Für diese Auswahl sind keine Fragen verfügbar.");
+  const { sourceRoundId: _sourceRoundId, ...roundOptions } = options;
   const round: Round = {
-    ...options,
+    ...roundOptions,
     ...(options.filters ? { filters: canonicalFilters(options.filters) } : {}),
     id: uid(),
     familiaritySnapshot: Object.fromEntries(

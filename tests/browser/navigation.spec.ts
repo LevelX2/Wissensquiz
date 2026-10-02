@@ -5,6 +5,7 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   page,
   context,
 }) => {
+  await page.clock.install({ time: new Date("2026-10-02T12:00:00+02:00") });
   await page.setViewportSize({ width: 320, height: 800 });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
@@ -43,10 +44,13 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   ).toBeVisible();
   await page.screenshot({ path: "test-results/highscores-navigation-320.png" });
   await page
-    .getByRole("button", { name: "Spielerleistungen", exact: true })
+    .getByRole("button", { name: "Spielervergleich", exact: true })
     .click();
   await expect(page.getByText(/Melde Dich/)).toBeVisible();
-  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Im Profil anmelden" }).click();
+  await expect(
+    page.getByRole("heading", { name: "Anmelden", exact: true }),
+  ).toBeVisible();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(page.getByLabel("Soundeffekte", { exact: true })).toBeVisible();
   await expect(

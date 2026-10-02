@@ -1,8 +1,12 @@
 # Qualitätsprüfung
 
-Aktueller Nachweis 29.09.2026: 141 Logik-/Datenbanktests, Build und alle 66 unterschiedlichen Browserfälle erfolgreich. Komödie-Upgrade erhält 3.257 alte Fragen, Fortschritt und Freischaltungen; 50 neue Filmreferenzen, Offlinepaket und Regie-Hintergrund geprüft. Details: [Prüfbericht](../../docs/Pruefbericht.md).
+Ergänzender Nachweis 02.10.2026 – Regienachsätze: **151 Logik-/Datenbanktests, Build und sieben gezielte Chromium-Browserfälle erfolgreich**. Bereinigte Anzeige der 100 neueren Regievertiefungen einschließlich Offline-Neuladen, unveränderte historische Frageobjekte und zwölf erhaltene Credithinweise geprüft. Die 312 älteren individuellen Regietexte erhalten; 13 vorhandene CSV-Regiefragen ohne diesen Standardsatz. Der folgende vollständige Browserlauf gehört zum vorherigen Stand. [Prüfbericht](../../docs/Pruefbericht.md).
 
-Aktueller Nachweis 29.09.2026: 136 Logik-/Datenbanktests, Build und alle 65 Browserfälle erfolgreich. Sci-Fi-Upgrade erhält 2.797 alte Fragen, Fortschritt und Freischaltungen; 50 neue Filmreferenzen, Offlinepaket und Regie-Hintergrund geprüft. Details: [Prüfbericht](../../docs/Pruefbericht.md).
+Aktueller Nachweis 02.10.2026: **151 Logik-/Datenbanktests, Build und vollständiger Lauf aller 73 Browserfälle erfolgreich** (68 Chromium, fünf WebKit), betroffene Highscore-Fälle nach finaler UI-Straffung erneut geprüft. Vereinfachte Rekordkarten, erste Rekordauswahl, Gast-Anmeldung, Filter, Rückblick, Kategorie-Vorauswahl anhand der SQL-Vergleichsfelder, Spielerwerte und Ladefehler. 320-Pixel-Ansichten ohne horizontalen Überlauf, WCAG-Prüfungen ohne Befund und Screenshots visuell geprüft. Fehlertraining einschließlich Sicherungen und bisheriger Tagesgrenzen; Rundenauswertung, direkte Fehlerrunde und Rückblickfilter ebenfalls geprüft. Chromium mit Offline-Neuladen; WebKit mit Wiederaufnahme und anschließendem Offline-Spielen, Offline-Navigation im Windows-Testbrowser nicht nachgewiesen. Neue Ranglistenmigration lokal geprüft und live erfolgreich angewendet; Fehlertraining aktiv, anonyme Ausführung und anonymer Zugriff auf private Spielstände gesperrt. [Prüfbericht](../../docs/Pruefbericht.md).
+
+Früherer Nachweis 29.09.2026: 141 Logik-/Datenbanktests, Build und alle 66 unterschiedlichen Browserfälle erfolgreich. Komödie-Upgrade erhält 3.257 alte Fragen, Fortschritt und Freischaltungen; 50 neue Filmreferenzen, Offlinepaket und Regie-Hintergrund geprüft. Details: [Prüfbericht](../../docs/Pruefbericht.md).
+
+Früherer Nachweis 29.09.2026: 136 Logik-/Datenbanktests, Build und alle 65 Browserfälle erfolgreich. Sci-Fi-Upgrade erhält 2.797 alte Fragen, Fortschritt und Freischaltungen; 50 neue Filmreferenzen, Offlinepaket und Regie-Hintergrund geprüft. Details: [Prüfbericht](../../docs/Pruefbericht.md).
 
 ## Prüfungen der Projektgrundstruktur
 

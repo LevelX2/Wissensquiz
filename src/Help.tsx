@@ -86,6 +86,14 @@ export function Help() {
             und ohne Zeitdruck.
           </li>
           <li>
+            <strong>Fehlertraining:</strong> Offene Fehlantworten und
+            Zeitabläufe gezielt ohne Zeitdruck wiederholen. Häufige Fehler
+            kommen zuerst. Nach einer sicheren richtigen Antwort fällt das
+            Wissensziel heraus; ein geratener Treffer reicht dafür nicht. Deine
+            Filter gelten weiter. Im Ergebnis kannst Du direkt die Fehler dieser
+            Runde üben.
+          </li>
+          <li>
             <strong>Rekordrunde:</strong> Pro Frage 30 Sekunden. Richtige
             Antworten geben 100 Punkte plus zwei Punkte je voller verbleibender
             Sekunde. Falsche oder verspätete Antworten geben keine Punkte. Beim
@@ -154,9 +162,12 @@ export function Help() {
       <details>
         <summary>Wie funktionieren Highscores und Spielerleistungen?</summary>
         <p>
-          Unter „Highscores“ findest Du Deine Rekordrunden, die Rekorde aller
-          Spieler und die Spielerleistungen. Rekorde werden nur innerhalb
-          gleicher Genre-/Stufenkombinationen, Bekanntheitsauswahl, Kategorien,
+          „Highscores“ startet mit „Meine Rekorde“: Dein Bestwert je Auswahl und
+          ein direkter Rückblick. Unter „Alle Runden“ findest Du frühere
+          Ergebnisse; „Weitere Filter“ grenzt Deine Liste ein. Im
+          „Spielervergleich“ wählst Du Leistungen aus allen Spielmodi oder
+          „Rekordrunden“. Rekorde werden nur innerhalb gleicher
+          Genre-/Stufenkombinationen, Bekanntheitsauswahl, Kategorien,
           Rundengrößen, tatsächlicher Mischung und Regeln verglichen. Gleiche
           Punkte teilen sich einen Platz.
         </p>

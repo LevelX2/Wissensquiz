@@ -6,7 +6,6 @@ import {
   complete,
   elapsed,
   guess,
-  learn,
   points,
   selectQuestions,
   startRound,
@@ -44,6 +43,8 @@ import { Leaderboard } from "./RecordLeaderboard";
 import { Help } from "./Help";
 import { RoundGuide } from "./RoundGuide";
 import { readRoundSetup } from "./roundSetup";
+import { errorTrainingContext } from "./errorTraining";
+import { roundSummary } from "./roundSummary";
 import { answeredTopics } from "./collection";
 import { QuestionHistory } from "./QuestionHistoryPanel";
 import {
@@ -96,9 +97,11 @@ const modeNames: Record<Mode, string> = {
   entdecken: "Filmreise",
   ueben: "Freies Spiel",
   rekord: "Rekordrunde",
+  fehler: "Fehlertraining",
 };
 const historicalModeName = (round: Round) =>
-  round.ruleVersion === "1" && round.mode !== "rekord"
+  round.ruleVersion === "1" &&
+  (round.mode === "entdecken" || round.mode === "ueben")
     ? round.mode === "entdecken"
       ? "Entdecken (frühere Runde)"
       : "Besser werden (frühere Runde)"
@@ -396,6 +399,7 @@ export function App({
       size: targetSize,
       now: Date.now(),
       ...(mode === "entdecken" ? discoveryContext(state) : {}),
+      ...(mode === "fehler" ? errorTrainingContext(state) : {}),
     },
     () => 0.5,
   );
@@ -423,6 +427,25 @@ export function App({
       unlockSound(state.settings);
       setRoundId(active.id);
       setIndex(Math.max(0, active.events.length - 1));
+      setPage("round");
+    }
+  };
+  const retryErrors = async (source: Round) => {
+    unlockSound(state.settings);
+    let id = "";
+    const next = await mutate((s) => {
+      id = startRound(s, {
+        mode: "fehler",
+        topic: source.topic,
+        difficulty: source.difficulty,
+        filters: source.filters,
+        sourceRoundId: source.id,
+      }).id;
+    });
+    if (next) {
+      playFeedback("start", next.settings);
+      setRoundId(id);
+      setIndex(0);
       setPage("round");
     }
   };
@@ -533,39 +556,46 @@ export function App({
                   <h2>Wie möchtest Du spielen?</h2>
                 </div>
                 <div className="mode-grid">
-                  {(["entdecken", "ueben", "rekord"] as Mode[]).map((m, i) => (
-                    <button
-                      key={m}
-                      className={`mode-card mode-${m} ${mode === m ? "active" : ""}`}
-                      aria-pressed={mode === m}
-                      disabled={busy}
-                      onClick={() => void changeSetup({ mode: m })}
-                    >
-                      <img
-                        className="mode-artwork"
-                        src={`/modes/${m}.png`}
-                        alt=""
-                        width={88}
-                        height={88}
-                        decoding="async"
-                      />
-                      <strong>{modeNames[m]}</strong>
-                      <small>
-                        {
-                          [
-                            "Filmwelten und Stufen freischalten",
-                            "Alle Stufen frei kombinieren",
-                            "30 Sekunden. Dein persönlicher Rekord.",
-                          ][i]
-                        }
-                      </small>
-                      {mode === m && (
-                        <span className="mode-check" aria-hidden="true">
-                          ✓
-                        </span>
-                      )}
-                    </button>
-                  ))}
+                  {(["entdecken", "ueben", "rekord", "fehler"] as Mode[]).map(
+                    (m, i) => (
+                      <button
+                        key={m}
+                        className={`mode-card mode-${m} ${mode === m ? "active" : ""}`}
+                        aria-pressed={mode === m}
+                        disabled={busy}
+                        onClick={() => void changeSetup({ mode: m })}
+                      >
+                        <img
+                          className="mode-artwork"
+                          src={
+                            m === "fehler"
+                              ? "/modes/fehler.svg"
+                              : `/modes/${m}.png`
+                          }
+                          alt=""
+                          width={88}
+                          height={88}
+                          decoding="async"
+                        />
+                        <strong>{modeNames[m]}</strong>
+                        <small>
+                          {
+                            [
+                              "Filmwelten und Stufen freischalten",
+                              "Alle Stufen frei kombinieren",
+                              "30 Sekunden. Dein persönlicher Rekord.",
+                              "Offene Fehler gezielt wiederholen",
+                            ][i]
+                          }
+                        </small>
+                        {mode === m && (
+                          <span className="mode-check" aria-hidden="true">
+                            ✓
+                          </span>
+                        )}
+                      </button>
+                    ),
+                  )}
                 </div>
 
                 <div className="round-start">
@@ -588,7 +618,9 @@ export function App({
                         ? filters.genres.map(genreLabel).join(" + ")
                         : "Kein Genre"}
                     {" · "}
-                    {selection.length} Fragen{" · "}
+                    {selection.length}{" "}
+                    {mode === "fehler" ? "offene Fehler" : "Fragen"}
+                    {" · "}
                     {mode !== "entdecken"
                       ? "Freie Auswahl: " +
                         (selectedDifficulties.length
@@ -626,7 +658,9 @@ export function App({
                   <p role="status" className="notice">
                     {mode === "entdecken"
                       ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Genres oder Kategorien, oder spiele frei."
-                      : "Wähle mindestens ein Genre, eine Schwierigkeitsstufe und eine Filmgruppe mit verfügbaren Fragen."}
+                      : mode === "fehler"
+                        ? "Keine offenen Fehler in Deiner Auswahl. Spiele eine neue Runde oder erweitere Deine Filter."
+                        : "Wähle mindestens ein Genre, eine Schwierigkeitsstufe und eine Filmgruppe mit verfügbaren Fragen."}
                     {mode === "entdecken" && (
                       <button
                         className="text-button"
@@ -1079,6 +1113,12 @@ export function App({
               </section>
               <Leaderboard
                 state={state}
+                onAccount={() => void nav("account")}
+                onPlay={() => {
+                  void changeSetup({ mode: "rekord" }).then((saved) => {
+                    if (saved) setPage("home");
+                  });
+                }}
                 onReview={(id) => {
                   setRoundId(id);
                   setPage("result");
@@ -1091,6 +1131,12 @@ export function App({
               <h1>Highscores</h1>
               <Leaderboard
                 state={state}
+                onAccount={() => void nav("account")}
+                onPlay={() => {
+                  void changeSetup({ mode: "rekord" }).then((saved) => {
+                    if (saved) setPage("home");
+                  });
+                }}
                 onReview={(id) => {
                   setRoundId(id);
                   setPage("result");
@@ -1143,6 +1189,8 @@ export function App({
               state={state}
               onHome={() => setPage("home")}
               onLeaderboard={() => setPage("leaderboard")}
+              onRetry={() => void retryErrors(current)}
+              busy={busy}
             />
           )}
           {page === "account" && (
@@ -1618,51 +1666,114 @@ function Result({
   state,
   onHome,
   onLeaderboard,
+  onRetry,
+  busy,
 }: {
   round: Round;
   state: State;
   onHome: () => void;
   onLeaderboard: () => void;
+  onRetry: () => void;
+  busy: boolean;
 }) {
-  const events = state.events.filter((e) => e.roundId === round.id);
-  const correct = events.filter((e) => e.correct).length;
-  const after = structuredClone(round.before);
-  for (const e of events) after[e.knowledgeId] = learn(after[e.knowledgeId], e);
-  const improved = round.questions.filter(
-    (q) =>
-      after[q.knowledgeId]?.status === "geübt" &&
-      round.before[q.knowledgeId]?.status !== "geübt" &&
-      round.before[q.knowledgeId]?.status !== "gefestigt",
+  const [reviewFilter, setReviewFilter] = useState<"all" | "wrong" | "guessed">(
+    "all",
+  );
+  useEffect(() => setReviewFilter("all"), [round.id]);
+  const summary = roundSummary(state, round);
+  const { events, correct, improved, secured: secure } = summary;
+  const retryContext = errorTrainingContext(state, round.id);
+  const retryCount = selectQuestions(
+    state.questions,
+    state.learning,
+    {
+      mode: "fehler",
+      topic: round.topic,
+      difficulty: round.difficulty,
+      filters: round.filters,
+      size: 10,
+      now: Date.now(),
+      ...retryContext,
+    },
+    () => 0.5,
   ).length;
-  const secure = round.questions.filter(
-    (q) =>
-      after[q.knowledgeId]?.status === "gefestigt" &&
-      round.before[q.knowledgeId]?.status !== "gefestigt",
-  ).length;
+  const active = state.rounds.some((r) => r.status === "active");
+  const headline =
+    summary.recovered > 0
+      ? `${summary.recovered} ${summary.recovered === 1 ? "früherer Fehler" : "frühere Fehler"} sicher gelöst. Das ist Fortschritt.`
+      : correct === round.questions.length
+        ? summary.guessed
+          ? "Alles richtig gewählt. Geratene Treffer kannst Du im Rückblick noch einmal nachlesen."
+          : "Alle Antworten sicher richtig. Starkes Filmwissen!"
+        : correct === 0
+          ? "Diese Runde hatte es in sich. Nimm Dir die Erklärungen mit und probiere die Fehler noch einmal."
+          : `${correct} richtige Antworten – und ${summary.wrong + summary.timedOut} Ansatzpunkte für Deine nächste Runde.`;
   const unlocked = (round.unlocks ?? []).map(
     (u) =>
       `${genreLabel(u.genre)} · ${"difficulty" in u ? difficultyLabel(u.difficulty) : familiarityLabel(u.familiarity)}`,
   );
   return (
     <div className="result">
-      <span className="eyebrow">ABSPANN? NOCH LANGE NICHT.</span>
-      <div className="result-orbit" aria-hidden="true">
-        ✦
-      </div>
+      <span className="eyebrow">
+        {historicalModeName(round)} · {formatDate(round.finishedAt!)}
+      </span>
       <h1>
         Eine Runde <em>weiter.</em>
       </h1>
-      <p className="lead">
-        {correct === round.questions.length
-          ? "Alle Antworten richtig. Lass das Wissen jetzt ein bisschen wirken."
-          : "Jede Frage ist eine Gelegenheit, etwas mitzunehmen."}
-      </p>
-      <div className="result-score">
-        <strong>
-          {correct}
-          <span> / {round.questions.length}</span>
-        </strong>
-        <p>richtig beantwortet</p>
+      <p className="lead">{headline}</p>
+      <div className="result-overview">
+        <div
+          className="result-ring"
+          style={{
+            background: `conic-gradient(#28674b ${summary.accuracy}%, #e6e9e2 0)`,
+          }}
+        >
+          <div>
+            <strong>{summary.accuracy}%</strong>
+            <span>Trefferquote</span>
+          </div>
+        </div>
+        <div className="result-score">
+          <strong>
+            {correct}
+            <span> / {round.questions.length}</span>
+          </strong>
+          <p>richtig beantwortet</p>
+          <div
+            className="result-answer-strip"
+            aria-label="Antworten dieser Runde"
+          >
+            {events.map((e, i) => (
+              <span
+                key={e.id}
+                className={
+                  e.guessed ? "guessed" : e.correct ? "correct" : "wrong"
+                }
+                aria-label={`Frage ${i + 1}: ${e.guessed ? "richtig, geraten" : e.correct ? "richtig" : e.answerId ? "falsch" : "Zeit abgelaufen"}`}
+              >
+                {e.guessed ? "?" : e.correct ? "✓" : e.answerId ? "×" : "–"}
+              </span>
+            ))}
+          </div>
+        </div>
+      </div>
+      <div className="result-metrics">
+        <div>
+          <strong>{summary.wrong}</strong>
+          <span>Falsch beantwortet</span>
+        </div>
+        <div>
+          <strong>{summary.timedOut}</strong>
+          <span>Zeit abgelaufen</span>
+        </div>
+        <div>
+          <strong>{summary.guessed}</strong>
+          <span>Richtig geraten</span>
+        </div>
+        <div>
+          <strong>{summary.bestStreak}</strong>
+          <span>Sicher richtig in Folge</span>
+        </div>
       </div>
       {round.mode === "rekord" && (
         <div className="score-breakdown">
@@ -1679,6 +1790,16 @@ function Result({
       )}
       <div className="result-progress">
         <Pill>+10 Erfahrung · einmal pro Runde</Pill>
+        <div className="result-insights">
+          <div>
+            <strong>{summary.newGoals}</strong>
+            <span>Neue Wissensziele entdeckt</span>
+          </div>
+          <div>
+            <strong>{summary.recovered}</strong>
+            <span>Frühere Fehler sicher gelöst</span>
+          </div>
+        </div>
         {!!unlocked.length && (
           <p className="notice" role="status">
             ✦ In der Filmreise neu freigeschaltet: {unlocked.join(" und ")}. Du
@@ -1704,30 +1825,115 @@ function Result({
           </p>
         )}
       </div>
+      <section className="result-genres" aria-label="Ergebnis nach Genre">
+        {[...summary.genres].map(([genre, tally]) => (
+          <div key={genre}>
+            <GenreArtwork genre={genre} compact />
+            <span>{genreLabel(genre)}</span>
+            <strong>
+              {tally.correct} / {tally.total} richtig
+            </strong>
+            <progress
+              value={tally.correct}
+              max={tally.total}
+              aria-label={`${genreLabel(genre)}: ${tally.correct} von ${tally.total} richtig`}
+            />
+          </div>
+        ))}
+      </section>
       {round.mode === "rekord" && (
         <button className="secondary" onClick={onLeaderboard}>
           Bestenliste ansehen →
         </button>
       )}
       <div className="result-actions">
-        <button className="primary" onClick={onHome}>
+        {retryCount > 0 && (
+          <button
+            className="primary"
+            onClick={onRetry}
+            disabled={busy || active}
+          >
+            Fehler dieser Runde üben ({retryCount}) →
+          </button>
+        )}
+        <button
+          className={retryCount ? "secondary" : "primary"}
+          onClick={onHome}
+        >
           Neue Runde wählen →
         </button>
       </div>
+      {retryCount > 0 && (
+        <p className="muted tiny">
+          {active
+            ? "Setze zuerst Deine begonnene Runde fort oder beende sie auf der Startseite."
+            : "Ohne Zeitdruck direkt wiederholen. Langfristige Festigung braucht weiterhin Abstand."}
+        </p>
+      )}
+      {!retryCount && events.some((e) => !e.correct) && (
+        <p className="muted tiny">
+          {retryContext.mistakes.size
+            ? "Die offenen Fehler dieser Runde sind in dieser Auswahl aktuell nicht verfügbar."
+            : "Die Fehler dieser Runde hast Du inzwischen sicher gelöst."}
+        </p>
+      )}
       <button className="text-button muted" onClick={onHome}>
         Zur Startseite · Für heute reicht’s
       </button>
       <section className="review">
         <h2>Dein Rundenrückblick</h2>
         <p className="muted">Die Erklärungen bleiben hier zum Nachlesen.</p>
+        <div
+          className="review-filters"
+          role="group"
+          aria-label="Rückblick filtern"
+        >
+          {(
+            [
+              ["all", `Alle (${events.length})`],
+              ["wrong", `Fehler (${summary.wrong + summary.timedOut})`],
+              ["guessed", `Geraten (${summary.guessed})`],
+            ] as const
+          ).map(([value, label]) => (
+            <button
+              key={value}
+              aria-pressed={reviewFilter === value}
+              onClick={() => setReviewFilter(value)}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
+        {reviewFilter === "wrong" && !events.some((e) => !e.correct) && (
+          <p className="muted">Keine Fehler in dieser Runde.</p>
+        )}
+        {reviewFilter === "guessed" && !summary.guessed && (
+          <p className="muted">Keine als geraten markierten Treffer.</p>
+        )}
         {round.questions.map((q) => {
           const e = events.find((e) => e.questionId === q.id);
           return (
-            e && (
+            e &&
+            (reviewFilter === "all" ||
+              (reviewFilter === "wrong" ? !e.correct : e.guessed)) && (
               <details key={q.id}>
                 <summary>
-                  <span>{e.correct ? "✓" : "○"}</span> {q.question}
+                  <span
+                    className={
+                      e.guessed ? "guessed" : e.correct ? "correct" : "wrong"
+                    }
+                  >
+                    {e.guessed ? "?" : e.correct ? "✓" : "×"}
+                  </span>{" "}
+                  {q.question}
                 </summary>
+                {!e.correct && (
+                  <p>
+                    <strong>Deine Antwort:</strong>{" "}
+                    {q.answers.find((a) => a.id === e.answerId)?.text ??
+                      "Zeit abgelaufen – keine Antwort"}
+                  </p>
+                )}
                 <p>
                   <strong>Lösung:</strong>{" "}
                   {q.answers.find((a) => a.id === q.correctId)?.text}

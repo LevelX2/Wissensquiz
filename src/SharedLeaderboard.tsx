@@ -4,6 +4,8 @@ import { createContext, useContext, useEffect, useState } from "react";
 import type { SupabaseClient } from "@supabase/supabase-js";
 import { z } from "zod";
 import { genreLabel } from "./filters";
+import { genreSelectionKey } from "./leaderboard";
+import type { State } from "./model";
 
 export const RankingContext = createContext<{
   client: SupabaseClient;
@@ -29,11 +31,21 @@ const entrySchema = z.object({
 type Category = z.infer<typeof categorySchema>;
 type Entry = z.infer<typeof entrySchema>;
 const levelLabel = (values: string[]) =>
-  values.map((v) => v[0].toUpperCase() + v.slice(1)).join(" + ");
+  values
+    .map((v) =>
+      v.startsWith("historisch:")
+        ? `Frühere Auswahl: ${v.slice(11)}`
+        : v[0].toUpperCase() + v.slice(1),
+    )
+    .join(" + ");
 const categoryLabel = (c: Category) =>
   `${c.genres.map(genreLabel).join(" + ")} · ${levelLabel(c.difficulties)} · ${c.question_count} Fragen${c.topic !== "Alle Themen" ? ` · ${c.topic}` : ""} · Regel ${ruleLabel(c.rule_version)}`;
 
-export function SharedLeaderboard() {
+const genreKey = (c: Category) => JSON.stringify([...c.genres].sort());
+const roundLabel = (c: Category) =>
+  `${levelLabel(c.difficulties)} · ${c.question_count} Fragen${c.topic !== "Alle Themen" ? ` · ${c.topic}` : ""}`;
+
+export function SharedLeaderboard({ state }: { state: State }) {
   const connection = useContext(RankingContext);
   const [categories, setCategories] = useState<Category[]>([]);
   const [category, setCategory] = useState("");
@@ -42,6 +54,13 @@ export function SharedLeaderboard() {
   const [refresh, setRefresh] = useState(0);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+  const [preferredRound] = useState(() => {
+    return state.rounds
+      .filter((r) => r.mode === "rekord" && r.status === "completed")
+      .sort(
+        (a, b) => (b.finishedAt ?? b.startedAt) - (a.finishedAt ?? a.startedAt),
+      )[0];
+  });
   useEffect(() => {
     let active = true;
     const controller = new AbortController();
@@ -58,11 +77,28 @@ export function SharedLeaderboard() {
         if (!active) return;
         if (error) throw error;
         const rows = z.array(categorySchema).parse(data);
+        // Server category IDs use a different format from local recordKey.
+        // Match all projected comparison fields, then keep the server ID.
+        const preferred =
+          preferredRound &&
+          rows.find(
+            (row) =>
+              genreKey(row) === genreSelectionKey(preferredRound) &&
+              JSON.stringify([...row.difficulties].sort()) ===
+                JSON.stringify(
+                  preferredRound.filters
+                    ? [...preferredRound.filters.difficulties].sort()
+                    : [`historisch:${preferredRound.difficulty}`],
+                ) &&
+              row.topic === preferredRound.topic &&
+              row.question_count === preferredRound.questions.length &&
+              row.rule_version === preferredRound.ruleVersion,
+          );
         setCategories(rows);
         setCategory((old) =>
           rows.some((row) => row.category === old)
             ? old
-            : (rows[0]?.category ?? ""),
+            : (preferred?.category ?? rows[0]?.category ?? ""),
         );
         setOffset(0);
         if (!rows.length) setLoading(false);
@@ -79,7 +115,7 @@ export function SharedLeaderboard() {
       active = false;
       controller.abort();
     };
-  }, [connection, refresh]);
+  }, [connection, refresh, preferredRound]);
   useEffect(() => {
     let active = true;
     const controller = new AbortController();
@@ -124,33 +160,63 @@ export function SharedLeaderboard() {
       </p>
     );
   const selected = categories.find((item) => item.category === category);
+  const genres = new Map(
+    categories.map((c) => [genreKey(c), c.genres.map(genreLabel).join(" + ")]),
+  );
+  const genreCategories = selected
+    ? categories.filter((c) => genreKey(c) === genreKey(selected))
+    : [];
   return (
     <div>
-      <p className="muted">
-        Rekordrunden aller angemeldeten Spieler. Verglichen werden gleiche
-        Genres, Stufen und Rundengrößen.
-      </p>
+      <p className="muted">Punkte aus vergleichbaren Rekordrunden.</p>
       <button className="text-button" onClick={() => setRefresh((n) => n + 1)}>
         Bestenliste aktualisieren
       </button>
       {!!categories.length && (
-        <label className="ranking-category">
-          Kategorie
-          <select
-            aria-label="Gemeinsame Kategorie"
-            value={category}
-            onChange={(e) => {
-              setOffset(0);
-              setCategory(e.target.value);
-            }}
-          >
-            {categories.map((c) => (
-              <option key={c.category} value={c.category}>
-                {categoryLabel(c)}
-              </option>
-            ))}
-          </select>
-        </label>
+        <div className="leaderboard-filters">
+          <label>
+            Genre
+            <select
+              aria-label="Gemeinsames Genre"
+              value={selected ? genreKey(selected) : ""}
+              onChange={(e) => {
+                const first = categories.find(
+                  (c) => genreKey(c) === e.target.value,
+                );
+                setOffset(0);
+                setCategory(first?.category ?? "");
+              }}
+            >
+              {[...genres].map(([key, label]) => (
+                <option key={key} value={key}>
+                  {label}
+                </option>
+              ))}
+            </select>
+          </label>
+          <label>
+            Runde
+            <select
+              aria-label="Gemeinsame Kategorie"
+              value={category}
+              onChange={(e) => {
+                setOffset(0);
+                setCategory(e.target.value);
+              }}
+            >
+              {genreCategories.map((c) => (
+                <option key={c.category} value={c.category}>
+                  {roundLabel(c)}
+                  {genreCategories.filter(
+                    (other) => roundLabel(other) === roundLabel(c),
+                  ).length > 1
+                    ? ` · ${ruleLabel(c.rule_version)}`
+                    : ""}
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
       )}
       {loading ? (
         <p role="status">Ergebnisse werden geladen …</p>
@@ -161,7 +227,11 @@ export function SharedLeaderboard() {
       ) : (
         <ol className="leaderboard-list shared-entries">
           {entries.map((entry, index) => (
-            <li key={`${offset}:${index}`} value={entry.place}>
+            <li
+              key={`${offset}:${index}`}
+              value={entry.place}
+              className={entry.is_mine ? "is-mine" : undefined}
+            >
               <div className="leaderboard-entry">
                 <strong>
                   Platz {entry.place} · {entry.player_name}
@@ -198,6 +268,16 @@ export function SharedLeaderboard() {
             Weitere Ergebnisse
           </button>
         </div>
+      )}
+      {selected && (
+        <details className="ranking-details">
+          <summary>Auswahl & Vergleich</summary>
+          <p className="tiny muted">{categoryLabel(selected)}</p>
+          <p className="tiny muted">
+            Nur gleiche Bekanntheitsauswahl, Fragenmischung und Regeln werden
+            zusammen gewertet. Gleiche Punkte teilen sich einen Platz.
+          </p>
+        </details>
       )}
       <p className="tiny muted">
         Gemeinsame Trainingsrangliste. Auch offline erspielte und importierte

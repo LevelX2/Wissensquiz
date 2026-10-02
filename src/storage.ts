@@ -22,7 +22,7 @@ const learningSchema = z.object({
 });
 const roundSchema = z.object({
   id,
-  mode: z.enum(["entdecken", "ueben", "rekord"]),
+  mode: z.enum(["entdecken", "ueben", "rekord", "fehler"]),
   topic: id,
   difficulty: id,
   filters: z
@@ -119,7 +119,7 @@ const stateSchema = z.object({
     allDifficulties: z.boolean().optional(),
     roundSetup: z
       .object({
-        mode: z.enum(["entdecken", "ueben", "rekord"]),
+        mode: z.enum(["entdecken", "ueben", "rekord", "fehler"]),
         genres: z.array(id).max(20000).nullable(),
         categories: z.array(z.enum(["Classics", "Arthouse"])).max(2),
         difficulties: z.array(z.enum(["leicht", "mittel", "schwer"])).max(3),

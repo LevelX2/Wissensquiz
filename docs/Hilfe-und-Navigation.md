@@ -1,12 +1,14 @@
 # Navigation und Hilfe
 
-Fünf dauerhafte Hauptpunkte, auf dem Handy in einer unteren Zeile: Spielen, Themen, Sammlung, Highscores und Profil. Highscores öffnet direkt die Ansichten „Meine Ergebnisse“, „Alle Spieler“ und „Spielerleistungen“. Für angemeldete Konten ist die gemeinsame Rekordansicht vorausgewählt; Gäste beginnen mit der lokalen persönlichen Liste.
+Fünf dauerhafte Hauptpunkte, auf dem Handy in einer unteren Zeile: Spielen, Themen, Sammlung, Highscores und Profil. Highscores beginnt für Gäste und Konten mit „Meine Rekorde“. Zwei Haupteinstiege: „Meine Rekorde“ und „Spielervergleich“. Eigene Bestwerte stehen in kurzen Genre-Karten mit Punkten, Antwortbilanz und direktem Rückblick; „Alle Runden“ enthält sämtliche früheren Ergebnisse. Genre ist direkt filterbar, Schwierigkeit, Filmbekanntheit und Rundengröße unter „Weitere Filter“. Ohne Rekorde führt „Rekordrunde vorbereiten“ zur gespeicherten Modusauswahl, ohne eine Runde zu starten.
+
+„Spielervergleich“ beginnt für angemeldete Konten mit „Alle Spielmodi“ und der Wertung „Richtige Antworten“. Runden und Trefferquote sind direkt wählbar; Genre-/Stufenfilter unter „Vergleich eingrenzen“. „Rekordrunden“ bietet getrennt den Punktevergleich mit Genre- und Rundenauswahl, zunächst passend zur jüngsten eigenen Rekordrunde, falls verfügbar. Vergleichsregeln bleiben aufklappbar. Gäste gelangen über „Im Profil anmelden“ direkt ins Profil. Alle früheren Ergebnisse und die exakte Trennung vergleichbarer Kategorien bleiben erhalten.
 
 Optionen sind ausschließlich über das Profil erreichbar, auch im Gastmodus. Der Kopfbereich und die Desktop-Seitenleiste enthalten keinen zusätzlichen Optionszugang. Die Einstellungsseite führt zurück zum Profil; ein ausdrücklich ausgeführtes Zurücksetzen führt zur Startseite.
 
 „So funktioniert’s“ ist im Profil und im Seitenfuß erreichbar. Die Seite ist im App-Bündel enthalten und offline verfügbar. Der erste Abschnitt zu „entdeckt“, „geübt“ und „gefestigt“ ist geöffnet und enthält das konkrete Wiederholungsbeispiel heute → morgen → drei Tage später → sieben Tage später. Weitere aufklappbare Abschnitte erklären Wissensziele, Modi, Filmreise/freie Auswahl, XP/Abzeichen, Highscores und Speicherung. Fachliche Grundlage sind [Lernregeln](Lernregeln.md) und [Konten und Spielstände](Konten-und-Spielstaende.md); Inhalte müssen bei Regeländerungen gemeinsam gepflegt werden.
 
-Filmreise ist der Fortschrittsmodus. Freies Spiel und Rekordrunde bieten alle Schwierigkeiten und Bekanntheitsgruppen; das frühere Freigabehäkchen ist entfernt. Alle Modi verwenden denselben Lernfortschritt aus abgeschlossenen Runden. Ein Moduswechsel löscht keine erworbenen Rechte.
+Filmreise ist der Fortschrittsmodus. Freies Spiel, Rekordrunde und Fehlertraining bieten alle Schwierigkeiten und Bekanntheitsgruppen; das frühere Freigabehäkchen ist entfernt. Alle Modi verwenden denselben Lernfortschritt aus abgeschlossenen Runden. Ein Moduswechsel löscht keine erworbenen Rechte.
 
 Für angekündigte asiatische Filmfragen ist „Asia-Kino“ vorläufig vorgeschlagen. Die endgültige Benennung, Abgrenzung und Illustration bleiben auf Nutzerwunsch offen, bis die Fragen vorliegen. Ein bereits gestarteter Bildentwurf wurde nicht in die App übernommen.
 
@@ -25,7 +27,7 @@ Der Kontoname steht im Profil, ausführliche Speicherhinweise unter „Konto & S
 
 ## Kompakter Spieleinstieg und Classics
 
-Der Einstieg verzichtet auf die große Werbefläche. „Losspielen“ steht direkt unter den drei Modi, mit einer kompakten Zusammenfassung der aktuellen Auswahl. Bei einer begonnenen Runde erscheint „Fortsetzen“ unmittelbar darunter. Genre-Felder bilden ein gleichmäßiges Raster. „Schwierigkeit selbst wählen“ sammelt die freie Auswahl und zeigt erst nach ihrer Aktivierung die einzelnen Stufen. Ohne freie Auswahl werden automatisch alle je Genre freigeschalteten Stufen berücksichtigt; eine vorherige manuelle Einschränkung bleibt dabei ohne Wirkung. Der gespeicherte Freigabeschalter bleibt erhalten. „Deine Stufenfortschritte“ ist unabhängig davon aufklappbar und nutzt dieselben Genreillustrationen.
+Der Einstieg verzichtet auf die große Werbefläche. „Losspielen“ steht direkt unter den vier Modi, mit einer kompakten Zusammenfassung der aktuellen Auswahl. Bei einer begonnenen Runde erscheint „Fortsetzen“ unmittelbar darunter. Genre-Felder bilden ein gleichmäßiges Raster. „Schwierigkeit selbst wählen“ sammelt die freie Auswahl und zeigt erst nach ihrer Aktivierung die einzelnen Stufen. Ohne freie Auswahl werden automatisch alle je Genre freigeschalteten Stufen berücksichtigt; eine vorherige manuelle Einschränkung bleibt dabei ohne Wirkung. Der gespeicherte Freigabeschalter bleibt erhalten. „Deine Stufenfortschritte“ ist unabhängig davon aufklappbar und nutzt dieselben Genreillustrationen.
 
 „Nur Classics“ schränkt die gewählten Genres auf die kuratierte Zusatzkategorie ein. Unter Themen gibt es zusätzlich eine Classics-Karte mit nach Wissensziel-ID deduplizierten Fortschrittszahlen. Kategorien überschneiden sich, erzeugen aber keine weiteren Fragen, Ereignisse oder Lernstände. Arthouse ist eine weitere kuratierte Zusatzkategorie.
 
@@ -58,8 +60,15 @@ Favoriten sind auf Nutzerwunsch entfernt. Die Sammlung zeigt Film-/Reihenblöcke
 
 ## Gespeicherte Auswahl
 
-Spielmodus, Genres, Classics/Arthouse und manuell gewählte Schwierigkeitsstufen werden schon bei der Auswahl gespeichert. „Alle Genres auswählen“ schließt später importierte Genres ein; eine ausdrücklich leere Auswahl bleibt leer. Ohne bisherige Auswahl gelten Filmreise, alle Genres, keine Zusatzkategorie und alle manuellen Stufen/Filmgruppen. Filmreise verwendet freigeschaltete Bereiche; Freies Spiel und Rekordrunde die gespeicherten manuellen Filter. Historische freie Einstellung ohne Rundenvorbereitung öffnet Freies Spiel.
+Spielmodus, Genres, Classics/Arthouse und manuell gewählte Schwierigkeitsstufen werden schon bei der Auswahl gespeichert. „Alle Genres auswählen“ schließt später importierte Genres ein; eine ausdrücklich leere Auswahl bleibt leer. Ohne bisherige Auswahl gelten Filmreise, alle Genres, keine Zusatzkategorie und alle manuellen Stufen/Filmgruppen. Filmreise verwendet freigeschaltete Bereiche; Freies Spiel, Rekordrunde und Fehlertraining die gespeicherten manuellen Filter. Historische freie Einstellung ohne Rundenvorbereitung öffnet Freies Spiel.
 
 Wie Ton, Vibration, Fragehinweise und Fragenstatistik liegen diese Werte im Gast-/Kontospielstand. Gäste speichern auf diesem Gerät; angemeldete Spieler sichern automatisch online. JSON-Sicherung und Wiederherstellung nehmen die Auswahl mit. Keine gesonderte Datenbankmigration; bestehende Runden und Lernfortschritte bleiben unverändert.
 
 Die Bekanntheitseinteilung, parallelen Freischaltungen und die Vergleichbarkeit der Rekordmischungen erklärt die Hilfe ebenfalls. Bei leerer Filmreise-Auswahl direkter Wechsel ins Freie Spiel; alle freien Filter sind gespeichert. Details: [Spielmodi und Bekanntheit](Spielmodi-und-Bekanntheit.md).
+
+
+## Fehlertraining und Ergebnisansicht
+
+Seit 02.10.2026 steht Fehlertraining als vierte Moduskarte bereit, mit offline verfügbarer SVG-Illustration. Desktop vier Karten nebeneinander, auf schmalen Bildschirmen zwei mal zwei. Der leere Zustand erklärt fehlende offene Fehler oder zu enge Filter. Die Rundenauswahl wird wie bisher unmittelbar gespeichert.
+
+Das Ergebnis zeigt eine Quote im Ring, die farbige Antwortfolge mit Symbolen, Fehler, Zeitabläufe, geratene Treffer und die längste sichere Serie. Neue Wissensziele und sicher gelöste frühere Fehler werden hervorgehoben; Treffer je Genre ergänzen die Lernfortschritte. Fehler dieser Runde lassen sich direkt ohne Zeitdruck trainieren. Der Rückblick ist nach Alle / Fehler / Geraten filterbar und zeigt bei Fehlern auch die damalige Antwort. Sicherungs- und Lernregeln: [Lernregeln](Lernregeln.md#fehlertraining-und-rundenauswertung).

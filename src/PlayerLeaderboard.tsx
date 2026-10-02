@@ -15,7 +15,7 @@ const rowSchema = z.object({
 });
 export function PlayerLeaderboard({ state }: { state: State }) {
   const connection = useContext(RankingContext);
-  const [sort, setSort] = useState("rounds"),
+  const [sort, setSort] = useState("correct"),
     [genre, setGenre] = useState(""),
     [difficulty, setDifficulty] = useState("");
   const [rows, setRows] = useState<z.infer<typeof rowSchema>[]>([]);
@@ -67,68 +67,94 @@ export function PlayerLeaderboard({ state }: { state: State }) {
     );
   return (
     <div>
-      <h3>Spielerranglisten</h3>
-      <div className="leaderboard-filters">
-        <label>
-          Leistung
-          <select
-            aria-label="Spielerwertung"
-            value={sort}
-            onChange={(e) => {
-              setSort(e.target.value);
+      <p className="muted">Alle abgeschlossenen Runden zählen.</p>
+      <div
+        className="ranking-tabs ranking-metrics"
+        role="group"
+        aria-label="Spielerwertung"
+      >
+        {(
+          [
+            ["correct", "Richtige Antworten"],
+            ["rounds", "Runden"],
+            ["accuracy", "Trefferquote"],
+          ] as const
+        ).map(([value, label]) => (
+          <button
+            key={value}
+            className={sort === value ? "primary" : "secondary"}
+            aria-pressed={sort === value}
+            onClick={() => {
+              setSort(value);
               setOffset(0);
             }}
           >
-            <option value="rounds">Meiste abgeschlossene Runden</option>
-            <option value="correct">Meiste richtige Antworten</option>
-            <option value="accuracy">
-              Beste Trefferquote (ab 50 Antworten)
-            </option>
-          </select>
-        </label>
-        <label>
-          Genre
-          <select
-            aria-label="Spielerwertung Genre"
-            value={genre}
-            onChange={(e) => {
-              setGenre(e.target.value);
-              setOffset(0);
-            }}
-          >
-            <option value="">Alle Genres</option>
-            {[...new Set(state.questions.map(genreOf))].sort().map((g) => (
-              <option value={g} key={g}>
-                {genreLabel(g)}
-              </option>
-            ))}
-          </select>
-        </label>
-        <label>
-          Schwierigkeit
-          <select
-            aria-label="Spielerwertung Schwierigkeit"
-            value={difficulty}
-            onChange={(e) => {
-              setDifficulty(e.target.value);
-              setOffset(0);
-            }}
-          >
-            <option value="">Alle Stufen</option>
-            {difficulties.map((d) => (
-              <option value={d} key={d}>
-                {difficultyLabel(d)}
-              </option>
-            ))}
-          </select>
-        </label>
+            {label}
+          </button>
+        ))}
       </div>
       <p className="tiny muted">
-        Alle Spielmodi, nur abgeschlossene Runden. Die Trefferquote vergleicht
-        erst ab 50 gewählten Antworten in der Auswahl; reine Zeitabläufe zählen
-        nicht als Antwort. Wiederholungen und geratene Treffer zählen hier mit.
-        Bei gemischten Runden zählen nur passende Fragen, die Runde einmal.
+        {genre ? genreLabel(genre) : "Alle Genres"} ·{" "}
+        {difficulty
+          ? difficultyLabel(difficulty as (typeof difficulties)[number])
+          : "Alle Stufen"}
+        {sort === "accuracy" ? " · Ab 50 gewählten Antworten" : ""}
       </p>
+      <details className="ranking-details ranking-filter-details">
+        <summary>
+          Vergleich eingrenzen{genre || difficulty ? " (Filter aktiv)" : ""}
+        </summary>
+        <div className="leaderboard-filters">
+          <label>
+            Genre
+            <select
+              aria-label="Spielerwertung Genre"
+              value={genre}
+              onChange={(e) => {
+                setGenre(e.target.value);
+                setOffset(0);
+              }}
+            >
+              <option value="">Alle Genres</option>
+              {[...new Set(state.questions.map(genreOf))].sort().map((g) => (
+                <option value={g} key={g}>
+                  {genreLabel(g)}
+                </option>
+              ))}
+            </select>
+          </label>
+          <label>
+            Schwierigkeit
+            <select
+              aria-label="Spielerwertung Schwierigkeit"
+              value={difficulty}
+              onChange={(e) => {
+                setDifficulty(e.target.value);
+                setOffset(0);
+              }}
+            >
+              <option value="">Alle Stufen</option>
+              {difficulties.map((d) => (
+                <option value={d} key={d}>
+                  {difficultyLabel(d)}
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
+        {(genre || difficulty) && (
+          <button
+            className="text-button"
+            onClick={() => {
+              setGenre("");
+              setDifficulty("");
+              setOffset(0);
+            }}
+          >
+            Filter zurücksetzen
+          </button>
+        )}
+      </details>
       <button className="text-button" onClick={() => setRefresh((n) => n + 1)}>
         Spielerrangliste aktualisieren
       </button>
@@ -144,7 +170,11 @@ export function PlayerLeaderboard({ state }: { state: State }) {
       ) : (
         <ol className="leaderboard-list">
           {rows.map((r, i) => (
-            <li key={i} value={r.place}>
+            <li
+              key={i}
+              value={r.place}
+              className={r.is_mine ? "is-mine" : undefined}
+            >
               <div className="leaderboard-entry">
                 <strong>
                   Platz {r.place} · {r.player_name}
@@ -178,6 +208,16 @@ export function PlayerLeaderboard({ state }: { state: State }) {
           </button>
         </div>
       )}
+      <details className="ranking-details">
+        <summary>Was zählt für den Vergleich?</summary>
+        <p className="tiny muted">
+          Alle Spielmodi, nur abgeschlossene Runden. Die Trefferquote vergleicht
+          erst ab 50 gewählten Antworten in der Auswahl; reine Zeitabläufe
+          zählen nicht als Antwort. Wiederholungen und geratene Treffer zählen
+          hier mit. Bei gemischten Runden zählen nur passende Fragen, die Runde
+          einmal.
+        </p>
+      </details>
       <p className="tiny muted">
         Gemeinsame Trainingswerte. Die Listen zeigen Aktivität und Treffer,
         keinen unabhängig geprüften Wissensstand.

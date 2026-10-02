@@ -42,7 +42,13 @@ export function directorExplanation(q: Question) {
   if (q.metadata.fact_kind !== "director") return undefined;
   const f = byFilm.get(filmKey(q));
   if (!f || q.id !== `${f.id}-DIRECTOR`) return undefined;
-  return directorBackgrounds[f.id];
+  const background = directorBackgrounds[f.id];
+  if (background) return background;
+  if (!f.directorContext) return undefined;
+  return {
+    text: [f.directorContext, f.directorNote].filter(Boolean).join(" "),
+    sources: [...new Set([f.source, ...(f.additionalSources ?? [])])],
+  };
 }
 
 function mix<T>(items: T[], random = Math.random) {

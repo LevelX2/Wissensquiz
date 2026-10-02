@@ -7,6 +7,8 @@ const introductions: Record<Mode, string> = {
     "Du wählst Genres, Schwierigkeit und Bekanntheit der Filme frei aus. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
   rekord:
     "Du wählst Genres, Schwierigkeit und Bekanntheit der Filme frei aus. Pro Frage hast Du 30 Sekunden; richtige und schnelle Antworten bringen Punkte für Deinen Rekord.",
+  fehler:
+    "Hier wiederholst Du gezielt falsch beantwortete Fragen und Zeitabläufe – ohne Zeitdruck. Sobald Du ein Wissensziel sicher richtig beantwortest, fällt es aus dem Fehlertraining heraus.",
 };
 
 export function RoundGuide({ mode }: { mode: Mode }) {
@@ -30,6 +32,16 @@ export function RoundGuide({ mode }: { mode: Mode }) {
               wird. Bekannte Inhalte kommen zum Wiederholen wieder vor; neue
               Fragen und neu freigeschaltete Stufen haben Vorrang.
             </p>
+          ) : mode === "fehler" ? (
+            <p>
+              <strong>Offene Fehler zuerst:</strong> Häufige Fehler haben
+              Vorrang, bei Gleichstand die zuletzt falsch beantworteten Fragen.
+              Deine Genre-, Stufen- und Filmgruppenfilter gelten weiterhin. Du
+              musst nicht auf den Wiederholungstermin warten. Ein geratener
+              Treffer löst einen früheren Fehler noch nicht; allein geratene
+              Fragen kommen aber nicht in das Fehlertraining. Jedes Wissensziel
+              kommt pro Runde höchstens einmal vor.
+            </p>
           ) : (
             <p>
               <strong>Zufällige Fragen:</strong> Dein bisheriger Lernstand
@@ -42,11 +54,11 @@ export function RoundGuide({ mode }: { mode: Mode }) {
           )}
           <p>
             <strong>Gemeinsamer Fortschritt:</strong> Richtige Antworten zählen
-            in allen drei Modi für Deine Filmreise, sobald Du die Runde
-            abschließt. Als geraten markierte Treffer zählen dafür nicht.
-            Mehrere Fragen zum selben Filmdetail teilen sich ein Wissensziel:
-            Für eine Freischaltung zählt es nur einmal, und pro Runde kommt
-            höchstens eine dieser Fragen vor.
+            in allen Modi für Deine Filmreise, sobald Du die Runde abschließt.
+            Als geraten markierte Treffer zählen dafür nicht. Mehrere Fragen zum
+            selben Filmdetail teilen sich ein Wissensziel: Für eine
+            Freischaltung zählt es nur einmal, und pro Runde kommt höchstens
+            eine dieser Fragen vor.
           </p>
           {mode === "rekord" && (
             <p>

@@ -31,6 +31,12 @@ beforeAll(async () => {
       "utf8",
     ),
   );
+  await db.exec(
+    readFileSync(
+      "supabase/migrations/202610020001_error_training_rankings.sql",
+      "utf8",
+    ),
+  );
 }, 30000);
 afterAll(() => db.close());
 async function as(id: string, fn: () => Promise<void>, role = "authenticated") {
@@ -327,6 +333,60 @@ it("kompakte Online-Sicherung liefert unveränderte Highscores und Spielerstatis
     await db.exec("rollback");
   }
 });
+it("zählt Fehlerrunden in Spielerleistungen einschließlich Quoten, aber nur Rekordrunden in Highscores", async () => {
+  const id = "88888888-8888-4888-8888-888888888888";
+  await db.exec("begin");
+  try {
+    await db.query("insert into auth.users values($1,now(),false,$2)", [
+      id,
+      { display_name: "Fehlertraining" },
+    ]);
+    const data = payload(52);
+    data.rounds.forEach((r, i) => {
+      r.mode = ["entdecken", "ueben", "rekord"][i] ?? "fehler";
+    });
+    data.rounds[51].status = "aborted";
+    data.events[4].answerId = "b";
+    (data.events[5] as { answerId: string | null }).answerId = null;
+    await as(id, async () => {
+      await save(id, 0, data);
+      for (const sort of ["rounds", "correct", "accuracy"]) {
+        const rows = (
+          await db.query<Record<string, unknown>>(
+            "select * from quiz_players($1,'Horror','leicht',0)",
+            [sort],
+          )
+        ).rows;
+        const mine = rows.find((row) => row.is_mine);
+        expect(mine).toMatchObject({
+          completed: 51,
+          answered: 50,
+          correct: 49,
+        });
+        expect(Number(mine?.accuracy)).toBe(98);
+      }
+      expect(
+        (await db.query("select * from quiz_players('rounds','Action','',0)"))
+          .rows,
+      ).toEqual([]);
+      const category = (
+        await db.query<{ category: string }>(
+          "select * from quiz_score_categories()",
+        )
+      ).rows[0].category;
+      const records = (
+        await db.query<{ is_mine: boolean }>(
+          "select * from quiz_rankings($1,0)",
+          [category],
+        )
+      ).rows;
+      expect(records.filter((r) => r.is_mine)).toHaveLength(1);
+    });
+  } finally {
+    await db.exec("rollback");
+  }
+});
+
 it("speichert getrennte Bekanntheitskategorien mit neuer Auswahlkennung ohne Änderung der SQL-Verträge", async () => {
   const id = "77777777-7777-4777-8777-777777777777";
   await db.exec("begin");

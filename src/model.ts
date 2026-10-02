@@ -50,7 +50,7 @@ export const questionSchema = z
     "Ungültige Antwort-IDs",
   );
 export type Question = z.infer<typeof questionSchema>;
-export type Mode = "entdecken" | "ueben" | "rekord";
+export type Mode = "entdecken" | "ueben" | "rekord" | "fehler";
 export type Difficulty = Question["difficulty"];
 export interface RoundSetup {
   mode: Mode;

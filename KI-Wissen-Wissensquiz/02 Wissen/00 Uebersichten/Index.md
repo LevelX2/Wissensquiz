@@ -17,9 +17,9 @@
 - [Musik-Ergänzung: 25 Filme, Import und erhaltener Fortschritt](../../../docs/Musik-Ergaenzung.md)
 - [Erklärungstiefe und geprüfte Darstellerergänzungen](../../../docs/Erklaerungstiefe.md)
 - [Fragenweiser Nachweis der Darstellerprüfung](../../../docs/Darstellerpruefung.json)
-- [Lernregeln, Auswahl, Punkte, Speicher- und Offlinevertrag](../../../docs/Lernregeln.md)
-- [Filmreise, freies Spiel und vier Bekanntheitsgruppen](../../../docs/Spielmodi-und-Bekanntheit.md)
-- [Konten, private Spielstände und automatische Trainingsrangliste](../../../docs/Konten-und-Spielstaende.md)
+- [Lernregeln, Fehlertraining, Rundenauswertung, Speicher- und Offlinevertrag](../../../docs/Lernregeln.md)
+- [Filmreise, freie Modi, Fehlertraining und vier Bekanntheitsgruppen](../../../docs/Spielmodi-und-Bekanntheit.md)
+- [Konten, private Spielstände, persönliche Rekorde und Spielervergleich](../../../docs/Konten-und-Spielstaende.md)
 - [Supabase-Einrichtung, Datenbankregeln und Mailvorlagen](../../../docs/Konten-Einrichtung.md)
 - [Tatsächliche Prüfungen und bekannte Grenzen](../../../docs/Pruefbericht.md)
 - [Maschineller Importbericht](../../../docs/importbericht.json)
@@ -42,7 +42,7 @@
 
 - [Genre- und Spielmodusillustrationen, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
 
-- [Navigation und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
+- [Navigation, zugängliche Highscores und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
 
 
 - [Classics-Rohquelle](../../01%20Rohquellen/Classics_Quiz_180_Fragen.csv)
@@ -61,4 +61,4 @@
 - [Arthouse-Bestandszuordnungen](../../01%20Rohquellen/Arthouse_Zuordnungen_Bestand.json)
 - [Arthouse-Zuordnungsbericht](../../../docs/arthouse-zuordnungsbericht.json)
 
-- [Jahres- und Regiefragen, variable Antworten und Filmdaten](../../../docs/Filmwissen-und-Filmdaten.md)
+- [Jahres- und Regiefragen, bereinigte Vertiefungen, variable Antworten und Filmdaten](../../../docs/Filmwissen-und-Filmdaten.md)

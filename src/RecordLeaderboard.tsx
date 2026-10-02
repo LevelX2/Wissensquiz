@@ -2,6 +2,7 @@ import { roundFamiliarities } from "./familiarity";
 import { useContext, useMemo, useState } from "react";
 import {
   categoryLabel,
+  genreSelection,
   genreSelectionKey,
   genreSelectionLabel,
   leaderboard,
@@ -9,19 +10,25 @@ import {
 } from "./leaderboard";
 import { roundDifficulties } from "./filters";
 import type { State } from "./model";
+import { GenreArtwork } from "./Icons";
 import { RankingContext, SharedLeaderboard } from "./SharedLeaderboard";
 import { PlayerLeaderboard } from "./PlayerLeaderboard";
 
 export function Leaderboard({
   state,
   onReview,
+  onAccount,
+  onPlay,
 }: {
   state: State;
   onReview?: (roundId: string) => void;
+  onAccount?: () => void;
+  onPlay?: () => void;
 }) {
   const connection = useContext(RankingContext);
-  const [scope, setScope] = useState<"mine" | "all" | "players">(
-    connection ? "all" : "mine",
+  const [scope, setScope] = useState<"mine" | "compare">("mine");
+  const [comparison, setComparison] = useState<"players" | "records">(
+    "players",
   );
   const [genre, setGenre] = useState("");
   const [level, setLevel] = useState("");
@@ -37,18 +44,41 @@ export function Leaderboard({
   const levels = new Map(
     groups.map((g) => [levelSelectionKey(g.round), roundDifficulties(g.round)]),
   );
-  const visible = groups.filter(
-    (g) =>
-      (!fame || roundFamiliarities(g.round) === fame) &&
-      (!genre || genreSelectionKey(g.round) === genre) &&
-      (!level || levelSelectionKey(g.round) === level) &&
-      (!size || String(g.round.questions.length) === size),
+  const visible = groups
+    .filter(
+      (g) =>
+        (!fame || roundFamiliarities(g.round) === fame) &&
+        (!genre || genreSelectionKey(g.round) === genre) &&
+        (!level || levelSelectionKey(g.round) === level) &&
+        (!size || String(g.round.questions.length) === size),
+    )
+    .sort(
+      (a, b) =>
+        Math.max(
+          ...b.entries.map((e) => e.round.finishedAt ?? e.round.startedAt),
+        ) -
+        Math.max(
+          ...a.entries.map((e) => e.round.finishedAt ?? e.round.startedAt),
+        ),
+    );
+  const extraFilters = [level, fame, size].filter(Boolean).length;
+  const resetFilters = () => {
+    setGenre("");
+    setLevel("");
+    setFame("");
+    setSize("");
+  };
+  const roundCount = groups.reduce(
+    (sum, group) => sum + group.entries.length,
+    0,
   );
   return (
     <section className="leaderboard" aria-labelledby="leaderboard-title">
-      <h2 id="leaderboard-title">Rekorde & Spielerleistungen</h2>
+      <h2 id="leaderboard-title" className="ranking-heading">
+        Rekorde und Spielervergleich
+      </h2>
       <div
-        className="ranking-tabs"
+        className="ranking-tabs ranking-main-switch"
         role="group"
         aria-label="Bestenlisten-Ansicht"
       >
@@ -57,62 +87,84 @@ export function Leaderboard({
           aria-pressed={scope === "mine"}
           onClick={() => setScope("mine")}
         >
-          Meine Ergebnisse
+          Meine Rekorde
         </button>
         <button
-          className={scope === "all" ? "primary" : "secondary"}
-          aria-pressed={scope === "all"}
-          onClick={() => setScope("all")}
+          className={scope === "compare" ? "primary" : "secondary"}
+          aria-pressed={scope === "compare"}
+          onClick={() => setScope("compare")}
         >
-          Alle Spieler
-        </button>
-        <button
-          className={scope === "players" ? "primary" : "secondary"}
-          aria-pressed={scope === "players"}
-          onClick={() => setScope("players")}
-        >
-          Spielerleistungen
+          Spielervergleich
         </button>
       </div>
-      {scope === "players" ? (
-        <PlayerLeaderboard state={state} />
-      ) : scope === "all" ? (
-        <SharedLeaderboard />
+      {scope === "compare" ? (
+        !connection ? (
+          <div className="ranking-empty">
+            <h3>Vergleiche Dich mit anderen</h3>
+            <p>
+              Melde Dich mit Deinem Quiz-Konto an, um die Spielerranglisten zu
+              sehen. Deine eigenen Rekorde findest Du unter „Meine Rekorde“.
+            </p>
+            {onAccount && (
+              <button className="primary" onClick={onAccount}>
+                Im Profil anmelden →
+              </button>
+            )}
+          </div>
+        ) : (
+          <>
+            <div
+              className="ranking-tabs ranking-comparison-switch"
+              role="group"
+              aria-label="Art des Spielervergleichs"
+            >
+              <button
+                className={comparison === "players" ? "primary" : "secondary"}
+                aria-pressed={comparison === "players"}
+                onClick={() => setComparison("players")}
+              >
+                Alle Spielmodi
+              </button>
+              <button
+                className={comparison === "records" ? "primary" : "secondary"}
+                aria-pressed={comparison === "records"}
+                onClick={() => setComparison("records")}
+              >
+                Rekordrunden
+              </button>
+            </div>
+            {comparison === "players" ? (
+              <PlayerLeaderboard state={state} />
+            ) : (
+              <SharedLeaderboard state={state} />
+            )}
+          </>
+        )
       ) : (
         <>
-          <p className="muted">
-            Deine abgeschlossenen Rekordrunden im aktuellen Spielstand. Jede
-            Genre-, Stufen- und Bekanntheitskombination, Kategorie, Mischung und
-            Rundengröße hat eine eigene Rangliste. Gleiche Punkte teilen sich
-            einen Platz.
-          </p>
           {groups.length === 0 ? (
-            <p>
-              Noch keine Rekordrunde abgeschlossen. Nach Deinem ersten Abschluss
-              erscheint hier Dein Ergebnis.
-            </p>
+            <div className="ranking-empty">
+              <h3>Dein erster Rekord wartet</h3>
+              <p>
+                Schließe eine Rekordrunde ab. Hier siehst Du danach Deinen
+                Bestwert und kannst die Antworten noch einmal ansehen.
+              </p>
+              {onPlay && (
+                <button className="primary" onClick={onPlay}>
+                  Rekordrunde vorbereiten →
+                </button>
+              )}
+            </div>
           ) : (
             <>
-              <div className="leaderboard-filters">
+              <p className="muted">
+                {roundCount} {roundCount === 1 ? "Rekordrunde" : "Rekordrunden"}{" "}
+                · {groups.length}{" "}
+                {groups.length === 1 ? "Bestwert" : "Bestwerte"}
+              </p>
+              <div className="record-filter-bar">
                 <label>
-                  Bekanntheitsauswahl
-                  <select
-                    aria-label="Bekanntheitsauswahl"
-                    value={fame}
-                    onChange={(e) => setFame(e.target.value)}
-                  >
-                    <option value="">Alle Bekanntheitskombinationen</option>
-                    {[
-                      ...new Set(
-                        groups.map((g) => roundFamiliarities(g.round)),
-                      ),
-                    ].map((label) => (
-                      <option key={label}>{label}</option>
-                    ))}
-                  </select>
-                </label>
-                <label>
-                  Genre-Auswahl
+                  Genre
                   <select
                     aria-label="Genre-Auswahl"
                     value={genre}
@@ -126,91 +178,191 @@ export function Leaderboard({
                     ))}
                   </select>
                 </label>
-                <label>
-                  Stufenauswahl
-                  <select
-                    aria-label="Stufenauswahl"
-                    value={level}
-                    onChange={(e) => setLevel(e.target.value)}
-                  >
-                    <option value="">Alle Stufenkombinationen</option>
-                    {[...levels].map(([key, label]) => (
-                      <option key={key} value={key}>
-                        {label}
-                      </option>
-                    ))}
-                  </select>
-                </label>
-                <label>
-                  Rundengröße
-                  <select
-                    aria-label="Rundengröße"
-                    value={size}
-                    onChange={(e) => setSize(e.target.value)}
-                  >
-                    <option value="">Alle Rundengrößen</option>
-                    {[...new Set(groups.map((g) => g.round.questions.length))]
-                      .sort((a, b) => a - b)
-                      .map((n) => (
-                        <option key={n} value={n}>
-                          {n} Fragen
+                {(genre || extraFilters > 0) && (
+                  <button className="text-button" onClick={resetFilters}>
+                    Filter zurücksetzen
+                  </button>
+                )}
+              </div>
+              <details className="ranking-details ranking-filter-details">
+                <summary>
+                  Weitere Filter
+                  {extraFilters > 0 ? ` (${extraFilters} aktiv)` : ""}
+                </summary>
+                <div className="leaderboard-filters">
+                  <label>
+                    Schwierigkeit
+                    <select
+                      aria-label="Stufenauswahl"
+                      value={level}
+                      onChange={(e) => setLevel(e.target.value)}
+                    >
+                      <option value="">Alle Stufenkombinationen</option>
+                      {[...levels].map(([key, label]) => (
+                        <option key={key} value={key}>
+                          {label}
                         </option>
                       ))}
-                  </select>
-                </label>
-              </div>
+                    </select>
+                  </label>
+                  <label>
+                    Filmbekanntheit
+                    <select
+                      aria-label="Bekanntheitsauswahl"
+                      value={fame}
+                      onChange={(e) => setFame(e.target.value)}
+                    >
+                      <option value="">Alle Bekanntheitskombinationen</option>
+                      {[
+                        ...new Set(
+                          groups.map((g) => roundFamiliarities(g.round)),
+                        ),
+                      ].map((label) => (
+                        <option key={label}>{label}</option>
+                      ))}
+                    </select>
+                  </label>
+                  <label>
+                    Rundengröße
+                    <select
+                      aria-label="Rundengröße"
+                      value={size}
+                      onChange={(e) => setSize(e.target.value)}
+                    >
+                      <option value="">Alle Rundengrößen</option>
+                      {[...new Set(groups.map((g) => g.round.questions.length))]
+                        .sort((a, b) => a - b)
+                        .map((n) => (
+                          <option key={n} value={n}>
+                            {n} Fragen
+                          </option>
+                        ))}
+                    </select>
+                  </label>
+                </div>
+              </details>
               {!visible.length && (
-                <p role="status">
-                  Keine abgeschlossenen Spiele für diese Filterkombination.
-                </p>
+                <div className="ranking-empty">
+                  <p role="status">Keine Rekordrunden für diese Auswahl.</p>
+                  <button className="secondary" onClick={resetFilters}>
+                    Alle Rekorde zeigen
+                  </button>
+                </div>
               )}
-              {visible.map((group) => (
-                <section
-                  className="leaderboard-category"
-                  key={group.key}
-                  aria-label={categoryLabel(group.round)}
-                >
-                  <h3>{categoryLabel(group.round)}</h3>
-                  <ol className="leaderboard-list">
-                    {group.entries.map((entry) => (
-                      <li key={entry.round.id} value={entry.rank}>
-                        <div className="leaderboard-entry">
-                          <strong>
-                            Platz {entry.rank} · {entry.points} Punkte
-                          </strong>
-                          <span>
-                            {entry.correct}/{entry.round.questions.length}{" "}
-                            richtig ·{" "}
-                            {(entry.elapsedMs / 1000).toLocaleString("de-DE", {
-                              maximumFractionDigits: 1,
-                            })}{" "}
-                            s Antwortzeit
-                          </span>
-                          <span className="muted">
-                            {new Date(
-                              entry.round.finishedAt ?? entry.round.startedAt,
-                            ).toLocaleString("de-DE")}
-                          </span>
-                          {onReview && (
-                            <button
-                              className="text-button"
-                              onClick={() => onReview(entry.round.id)}
-                            >
-                              Spiel ansehen →
-                            </button>
-                          )}
+              <div className="record-card-grid">
+                {visible.map((group) => {
+                  const best = group.entries[0];
+                  return (
+                    <section
+                      className="leaderboard-category"
+                      key={group.key}
+                      aria-label={categoryLabel(group.round)}
+                    >
+                      <div className="record-card-heading">
+                        <div className="record-genre-art">
+                          {genreSelection(group.round)
+                            .slice(0, 1)
+                            .map((g) => (
+                              <GenreArtwork key={g} genre={g} compact />
+                            ))}
                         </div>
-                      </li>
-                    ))}
-                  </ol>
-                </section>
-              ))}
+                        <div>
+                          <h3>{genreSelectionLabel(group.round)}</h3>
+                          <p className="muted">
+                            {roundDifficulties(group.round)} ·{" "}
+                            {group.round.questions.length} Fragen
+                            {group.round.topic !== "Alle Themen"
+                              ? ` · ${group.round.topic}`
+                              : ""}
+                          </p>
+                        </div>
+                      </div>
+                      <div className="record-best">
+                        <span className="tiny muted">Dein Bestwert</span>
+                        <strong>
+                          {best.points.toLocaleString("de-DE")}{" "}
+                          <span>Punkte</span>
+                        </strong>
+                        <span>
+                          {best.correct} von {best.round.questions.length}{" "}
+                          richtig
+                        </span>
+                        <span className="tiny muted">
+                          {new Date(
+                            best.round.finishedAt ?? best.round.startedAt,
+                          ).toLocaleDateString("de-DE")}
+                        </span>
+                      </div>
+                      {onReview && (
+                        <button
+                          className="text-button"
+                          onClick={() => onReview(best.round.id)}
+                        >
+                          Rückblick ansehen →
+                        </button>
+                      )}
+                      <details className="ranking-details record-history">
+                        <summary>Alle Runden ({group.entries.length})</summary>
+                        <ol className="leaderboard-list">
+                          {group.entries.map((entry) => (
+                            <li key={entry.round.id} value={entry.rank}>
+                              <div className="leaderboard-entry">
+                                <strong>
+                                  Platz {entry.rank} · {entry.points} Punkte
+                                </strong>
+                                <span>
+                                  {entry.correct}/{entry.round.questions.length}{" "}
+                                  richtig ·{" "}
+                                  {(entry.elapsedMs / 1000).toLocaleString(
+                                    "de-DE",
+                                    { maximumFractionDigits: 1 },
+                                  )}{" "}
+                                  s Antwortzeit
+                                </span>
+                                <span className="tiny muted">
+                                  {new Date(
+                                    entry.round.finishedAt ??
+                                      entry.round.startedAt,
+                                  ).toLocaleString("de-DE")}
+                                </span>
+                                {onReview && (
+                                  <button
+                                    className="text-button"
+                                    onClick={() => onReview(entry.round.id)}
+                                  >
+                                    Spiel ansehen →
+                                  </button>
+                                )}
+                              </div>
+                            </li>
+                          ))}
+                        </ol>
+                      </details>
+                      <details className="ranking-details record-selection">
+                        <summary>Auswahl & Vergleich</summary>
+                        <p className="tiny muted">
+                          {categoryLabel(group.round)}
+                        </p>
+                      </details>
+                    </section>
+                  );
+                })}
+              </div>
             </>
           )}
-          <p className="tiny muted">
-            Deine Ergebnisse bleiben im Spielstand erhalten. Mit einem
-            Quiz-Konto werden sie automatisch gesichert.
-          </p>
+          <details className="ranking-details">
+            <summary>Wie werden Rekorde verglichen?</summary>
+            <p>
+              Jede Genre-, Stufen- und Bekanntheitskombination, Kategorie,
+              Mischung und Rundengröße hat einen eigenen Bestwert. Gleiche
+              Punkte teilen sich einen Platz. Die Antwortzeit entscheidet nicht
+              über die Platzierung.
+            </p>
+            <p className="tiny muted">
+              Deine Ergebnisse bleiben im Spielstand erhalten. Mit einem
+              Quiz-Konto werden sie automatisch gesichert.
+            </p>
+          </details>
         </>
       )}
     </section>
