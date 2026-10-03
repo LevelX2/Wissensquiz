@@ -1,6 +1,6 @@
 # Rekordmodi und Zeitranglisten
 
-Stand: 03.10.2026. Rekordmodi aus dem eigenen Worktree sind im gemeinsamen Integrationsstand mit dem kompakten Einstieg, der ausgelagerten Oberfläche und dem Eintragskontospeicher vereinigt. Der ausdrücklich beauftragte Finale-Abschluss umfasst Main-Integration und Veröffentlichung nach den gemeinsamen Prüfungen.
+Stand: 03.10.2026. Rekordmodi aus dem eigenen Worktree sind im gemeinsamen Integrationsstand mit dem kompakten Einstieg, der ausgelagerten Oberfläche und dem Eintragskontospeicher vereinigt. Der Finale-Abschluss ist durchgeführt: alle lokalen Branchstände in `main`, als **Sites-Version 43** am 03.10.2026 um 15:46:07 Uhr deutscher Zeit veröffentlicht; nativ `succeeded`.
 
 ## Einstieg und Regeln
 
@@ -62,7 +62,7 @@ Sicherungsprüfung rekonstruiert Vorrat, Fragegrenzen, reguläres Ende, Pooldurc
 
 Live eingerichtet sind die Rekordmigration und die ergänzende [Ereigniszuordnung für lange Läufe](../supabase/migrations/20261003121600_record_statistics_event_lookup.sql). Migration: [20261003103026_record_modes_highscores.sql](../supabase/migrations/20261003103026_record_modes_highscores.sql). Sie ergänzt öffentliche, begrenzte Ergebnis-RPCs, private Duellhistorie, interne Statistikprojektion und die erweiterte Gastmeldungsgrenze. Direkter Tabellenzugriff bleibt gesperrt. Vorhandene Rekorde werden lokal im Migrationslauf neu projiziert, ohne Frage- oder Lerninhalte umzuschreiben. Alte RPCs und gesicherte Runden bleiben lesbar. Der Kontodienst benötigt die öffentliche Karriere/Gastaktivität. Bei vorhandenem Eintragsprotokoll erhält die Migration dessen kleine Statistikprojektionen: Antworten werden positionsgenau zugeordnet, wiederholte Fragen nur in Endlosmodi zugelassen, offizielle Katalog-IDs synchronisiert und öffentliche Karriere-XP aus den bestehenden Summen gelesen. Private Kontoeinträge und alte Sicherungen werden dabei nicht verändert.
 
-Bis zum beauftragten Serverrollout erklären die neuen gemeinsamen Listen fehlende Funktionen und bieten erneutes Laden; persönliche Läufe funktionieren vollständig offline. Der anschließende Finale-Auftrag autorisiert jetzt Main-Integration, Servermigration und Sites-Veröffentlichung.
+Der Serverrollout und die Veröffentlichung als Version 43 sind abgeschlossen. Die gemeinsamen Listen verwenden die eingerichteten Funktionen. Bei einem Dienstausfall bieten sie erneutes Laden; persönliche Läufe bleiben offline verfügbar.
 
 ## Quellen und Prüfung
 

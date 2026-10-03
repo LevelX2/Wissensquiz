@@ -38,6 +38,6 @@ Der Kontospeicher vermeidet zwei vollständige Katalogkopien je Antwort. Bei unv
 
 ## Veröffentlichung
 
-Der reguläre Sites-Workflow hat die bestehende öffentliche Site und ihren Quellstand geöffnet. Projekt-ID, Adresse und öffentlicher Zugriff bleiben erhalten. Integration nach `main` und Deployment folgen nach der Browserabnahme. Aktuell veröffentlicht bleibt Version 42. Finale Nachweise werden hier ergänzt.
+Der reguläre Sites-Workflow hat die bestehende öffentliche Site und ihren Quellstand geöffnet. Projekt-ID, Adresse und öffentlicher Zugriff bleiben erhalten. Alle Branchstände lokal nach `main` integriert und Sites-Version **43** am 03.10.2026 um **15:46:07 Uhr Europe/Berlin** veröffentlicht. Nativer Status `succeeded`; Quellcommit `aa8f22ad019fed488330096677fa35897016c983`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_e49ce6383b3c819197428ac790445391`, Deployment `appgdep_6ac1070c3c608191a0fff9cb2edd0d62`. Der tatsächliche Deploymentzeitpunkt ist in der öffentlichen Versionsabfrage hinterlegt. Der finale Produktionsbuild ist bytegleich zum geprüften Browserbuild. Offline `film-09f66dbdcdb2`, 59 Dateien. Archiv: 41656320 Bytes/62 Dateien, `sha256:8fe4e8cc38fdd8880edf0a559372f4ce3817dc7a2f0758fb6ef2bcbdb69b8d68`. [Betriebsnachweis](Sites-Betrieb.md).
 
 Langzeit-Spielgefühl, physische Geräte-/Hörabnahme und reale Zwei-Konten-/Zwei-Geräte-Prüfung bleiben die bereits dokumentierten Grenzen. Bekannte Hinweise zur Größe der Startdatei bleiben bestehen.

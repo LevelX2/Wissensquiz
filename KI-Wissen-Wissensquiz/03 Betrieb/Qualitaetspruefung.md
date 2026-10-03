@@ -4,6 +4,8 @@ Stand: 03.10.2026. Diese Seite beschreibt den Prüfprozess; konkrete Zahlen geh�
 
 ## Aktueller Nachweis
 
+[Finale vom 03.10.2026](../../docs/Gesamtintegration-2026-10-03.md): Sites-Version 43 mit nativem Status `succeeded`, alle lokalen Branchstände in `main`. 6.277 Fragen/5.734 Wissensziele, 1.400 Schauspielerfragen für 175 Personen, Rekordmodi und Profil-Versionsanzeige. 295 Tests in 50 Dateien, Produktionsbuild, 161 unterschiedliche Browserfälle erfolgreich und ein vorgesehener WebKit-Skip; Quellenprüfung, Diff, Dokumentlinks und Audit geprüft. Genaue Erstfehler, gezielte Nachprüfung und Grenzen im [Prüfbericht](../../docs/Pruefbericht.md).
+
 [Produktionsrollout vom 03.10.2026](../../docs/Speicher-und-Sync-Produktion.md): Version 42 mit nativem Status succeeded; vier Migrationen, vollständiger gemeinsamer Katalog und geprüfte private Sicherung. Zusammengeführter Stand mit 278 Tests und 143 unterschiedlichen erfolgreich abgedeckten Browserfällen; genaue Erstfehler und abschließender 18-Fälle-Nachweis im [Prüfbericht](../../docs/Pruefbericht.md).
 
 [Speicher-/Sync-Abnahme](../../docs/Speicher-und-Sync-Abnahme.md): nachfolgende lokale Eintragsmigration, vollständige Rekonstruktion, Rechte-/Wiederholungsprüfungen, native PostgreSQL-Belegung und Last mit 100 synthetischen Konten. [Betreiberablauf](../../docs/Speicher-und-Sync-Migration.md) und [Produktionsnachweis](../../docs/Speicher-und-Sync-Produktion.md) dokumentieren den inzwischen beauftragten Rollout, Sicherung und verbleibende Betreiberentscheidungen.

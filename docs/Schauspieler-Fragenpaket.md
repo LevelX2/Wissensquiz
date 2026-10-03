@@ -1,6 +1,6 @@
 # Schauspieler: 1.400 Fragen für 175 Personen
 
-Aktueller Integrationsstand vom 03.10.2026: [P02 mit 200 Fragen für 25 weitere Personen](Schauspieler-200-Ergaenzung.md) und [P03 mit 400 Fragen für 50 weitere Personen](Schauspieler-400-Ergaenzung.md) sind vollständig in der App spielbar. Der Personenbestand umfasst **1.400 Fragen für 175 Personen**, je zwei pro Person und Stufe. Namen, Erkennungsfragen, Vertiefungen und Film-Eckdaten beachten den bestehenden Anzeigevertrag. 13 Varianten teilen bestätigte Bestandsziele. Alte Fragen, Antworten und Lernstände werden erhalten. [Ableitung und Prüfsummen](Schauspieler-Ergaenzungen-Integration.json), [Finale](Gesamtintegration-2026-10-03.md).
+Veröffentlicht als **Sites-Version 43** am 03.10.2026. Aktueller Integrationsstand: [P02 mit 200 Fragen für 25 weitere Personen](Schauspieler-200-Ergaenzung.md) und [P03 mit 400 Fragen für 50 weitere Personen](Schauspieler-400-Ergaenzung.md) sind vollständig in der App spielbar. Der Personenbestand umfasst **1.400 Fragen für 175 Personen**, je zwei pro Person und Stufe. Namen, Erkennungsfragen, Vertiefungen und Film-Eckdaten beachten den bestehenden Anzeigevertrag. 13 Varianten teilen bestätigte Bestandsziele. Alte Fragen, Antworten und Lernstände werden erhalten. [Ableitung und Prüfsummen](Schauspieler-Ergaenzungen-Integration.json), [Finale](Gesamtintegration-2026-10-03.md).
 
 ## Bisheriges 800er-Paket und seine Veröffentlichungen
 

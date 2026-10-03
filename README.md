@@ -2,7 +2,7 @@
 
 Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Als Gast funktioniert es ohne Konto oder verpflichtendes Backend; ein eigenes Quiz-Konto ergänzt private Online-Sicherung und Duelle.
 
-Stand 03.10.2026: 17 Quellenpakete, **5.677 Fragen und 5.147 Wissensziele**, 656 eingeordnete Filme und 100 Personen. Aktuell nativ bestätigte Veröffentlichung: **Sites-Version 42**. [Strukturverbesserungen](docs/Strukturverbesserungen-Prozess.md) und die anschließende [Speicher-/Sync-Optimierung](docs/Speicher-und-Sync-Abnahme.md) liegen im eigenen Worktree auf `codex/speicher-sync-optimierung` und sind bis einschließlich `60ab29f` am 03.10.2026 lokal freigegeben; Produktionsmigrationen und öffentlicher Katalog sind anschließend ausdrücklich beauftragt und eingerichtet; der Gesamtstand ist als Version 42 erfolgreich öffentlich veröffentlicht. Keine Main-Integration. [Produktionsnachweis](docs/Speicher-und-Sync-Produktion.md). Frühere Meldungen bleiben in der [README-Historie](README-Historie-2026-10-03.md) erhalten.
+Stand 03.10.2026: **19 Quellenpakete, 6.277 Fragen und 5.734 Wissensziele**, 656 eingeordnete Filme und 175 Personen. Alle lokalen Branchstände und offenen Arbeitsstände sind in `main` integriert und als **Sites-Version 43** am 03.10.2026 um 15:46:07 Uhr deutscher Zeit öffentlich veröffentlicht. Kompakte Auswahl mit Lernen/Auf Zeit/Duell, 10 Fragen/Fehlerfrei/Zeitkonto und Einzellauf-Highscores; Struktur-, Antwort- und Speicher-/Sync-Optimierung bleiben gemeinsam erhalten. Die 600 zusätzlichen Schauspielerfragen sind vollständig spielbar. Version und Veröffentlichungszeit stehen im Profil. [Finale und Prüfnachweis](docs/Gesamtintegration-2026-10-03.md), [Betriebsnachweis](docs/Sites-Betrieb.md). Frühere Meldungen bleiben in der [README-Historie](README-Historie-2026-10-03.md) erhalten.
 
 ## Starten
 
@@ -22,11 +22,11 @@ Vorschau unter http://localhost:4173; Entwicklung mit `npm run dev` auf Port 517
 
 - **Filmreise:** neue Ziele bevorzugen und weitere Filmgruppen/Stufen je Genre freischalten. Erworbene Freischaltungen bleiben erhalten.
 - **Freies Spiel:** freie Auswahl ohne Zeitdruck und Lernstandsgewichtung.
-- **Rekordrunde:** 30 Sekunden pro Frage; Punkte und Rekordzeit bleiben von Lernfortschritt und Karriere-XP getrennt.
+- **Auf Zeit:** 10 Fragen mit 30 Sekunden je Frage; Fehlerfrei bis zum ersten Fehler; Zeitkonto mit 120 Sekunden, +15 je Treffer und −45 je Fehler zusätzlich zur Antwortzeit. Laufpunkte bleiben vom Lernfortschritt und den Karriere-XP getrennt.
 - **Fehlertraining:** offene Fehler gezielt wiederholen; auch direkt aus dem Rundenergebnis.
 - **Fragenbereiche:** Filmfragen, Preisträger und Schauspieler gemeinsam oder einzeln wählen. Genres, Filmgruppen und Classics/Arthouse begrenzen nur Filmfragen.
-- **Runden:** zuerst fünf, danach bis zu zehn unterschiedliche Wissensziele. „Keine Ahnung“ ist eine ausdrückliche Fehlantwort; Lösungen sind direkt oder nach der Runde verfügbar. Erklärungen, Quellen, Fragebilanz und Filmdaten stehen passend zum jeweiligen Fragenbereich bereit.
-- **Sammlung und Karriere:** Antwortfortschritt, gefestigte Ziele, Rundenrückblicke, Level und XP. Highscores starten mit persönlichen Rekorden; öffentliche Bestenliste und angemeldeter Spielervergleich bleiben getrennt.
+- **Runden:** Lernen zuerst mit fünf, danach bis zu zehn unterschiedlichen Wissenszielen; Auf Zeit mit zehn oder einer endlosen Folge. „Keine Ahnung“ ist eine ausdrückliche Fehlantwort; Lösungen sind direkt oder nach der Runde verfügbar. Erklärungen, Quellen, Fragebilanz und Filmdaten stehen passend zum jeweiligen Fragenbereich bereit.
+- **Sammlung und Karriere:** Antwortfortschritt, gefestigte Ziele, Rundenrückblicke, Level und XP. Highscores zeigen jeden abgeschlossenen Lauf einzeln, einschließlich Nullpunkten, für Woche/Monat/Jahr/Allzeit. Rekordspiele, Duelle und Karriere haben eigene Wertungen.
 - **Duell:** bestätigte Konten spielen drei gemeinsame Runden mit offenen Spielplätzen und serverseitigen Fristen. Eigene bestätigte Antworten gehen in den eigenen Lernstand ein.
 
 Die maßgeblichen Regeln stehen in [Lernregeln](docs/Lernregeln.md), [Fragenbereichen und Bekanntheit](docs/Spielmodi-und-Bekanntheit.md), [Filmkarriere](docs/Filmkarriere-und-XP.md) und [Filmduellen](docs/Asynchrone-Filmduelle.md). Profil → Optionen enthält Ton/Vibration, Hinweise, Lösungsausgabe, Datenexport, geprüfte Wiederherstellung und CSV-Import. [Importformat](docs/Importformat.md) beschreibt IDs, Varianten und Originalspalten; Rohquellen werden unverändert erhalten.

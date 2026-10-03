@@ -1,5 +1,17 @@
 # Sites-Veröffentlichung
 
+## Version 43: Finale, Rekordmodi und 600 Schauspielerfragen
+
+Am 03.10.2026 um **15:46:07 Uhr Europe/Berlin** als **Sites-Version 43 produktiv veröffentlicht**, nativer Status `succeeded`. Öffentliche URL: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. Quellcommit `aa8f22ad019fed488330096677fa35897016c983`, gespeicherte Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_e49ce6383b3c819197428ac790445391`, Deployment `appgdep_6ac1070c3c608191a0fff9cb2edd0d62`. Bestehende Projekt-ID und öffentlicher Besucherzugriff (`public`, Revision 2) erhalten.
+
+Alle 22 lokalen Branchstände einschließlich der offenen Änderungen in `main` integriert. Lernen/Auf Zeit/Duell mit kompakter Auswahl; 10 Fragen, Fehlerfrei und Zeitkonto; jeder abgeschlossene Lauf einzeln für Woche/Monat/Jahr/Allzeit. Struktur-, Antwort- und Eintrags-/Sync-Optimierung, unabhängige Personenreisen, Redaktion und Illustrationen gemeinsam erhalten. **600 zusätzliche Schauspielerfragen aus P02/P03 vollständig spielbar:** 1.400 Fragen für 175 Personen, insgesamt 6.277 Fragen und 5.734 Wissensziele. Originaldateien und bisherige CSV bytegleich; 13 bestätigte Bestandsbezüge als Varianten erhalten.
+
+Profil zeigt Version 43 und den tatsächlichen Veröffentlichungszeitpunkt aus dem nativ bestätigten Deployment. Die öffentlichen Metadaten sind danach serverseitig eingetragen und bleiben nach erfolgreichem Abruf offline sichtbar. Drei neue Migrationen und der vollständige offizielle 6.277-Fragen-Katalog sind live eingerichtet; frühere Katalogreferenzen und private Kontosicherungen bleiben erhalten.
+
+**295 Tests in 50 Dateien**, Produktionsbuild, Quellenprüfung, Diff, Dokumentlinks und `npm audit` (keine Schwachstellen) erfolgreich. **161 unterschiedliche Browserfälle erfolgreich abgedeckt**, ein vorgesehener Desktopfall im mobilen WebKit-Projekt ausgelassen. Der vollständige 162-Fälle-Lauf lieferte 152 erfolgreiche Fälle, 9 zunächst fehlgeschlagene Fälle und einen Skip. Acht veraltete Mengenerwartungen nach den 600 neuen Fragen/75 Personen korrigiert. Die Duellmessung verwendete zunächst die auch Bildtakte ersetzende Playwright-Testuhr; jetzt wird nur das Datum festgehalten und mit nativen Bildtakten gemessen. Anschließend alle betroffenen Fälle erfolgreich geprüft. Keine Produktassertion oder Antwortgeschwindigkeitsgrenze entfernt. Tests mit isolierten Profilen, kontrollierter Zeit und synthetischen Kontodiensten; keine echten Testspiele oder Gastmeldungen erzeugt.
+
+Offline-Paket `film-09f66dbdcdb2` mit 59 Dateien. Nativ gespeichertes Archiv: 41656320 Bytes, 62 Dateien, `sha256:8fe4e8cc38fdd8880edf0a559372f4ce3817dc7a2f0758fb6ef2bcbdb69b8d68`. Regulärer Sites-Workflow mit exakt gepushtem sauberem Quellcommit und lokalem Build-Archiv; nativ bestätigtes Deployment und Browserübergabe. Kein GitHub-Push, keine Branch- oder Worktree-Löschung. [Integrationsnachweis und Grenzen](Gesamtintegration-2026-10-03.md), [Rekordvertrag](Rekordmodi-und-Zeitranglisten.md).
+
 ## Version 42: Struktur-, Speicher- und Sync-Optimierung
 
 Am 03.10.2026 als **Sites-Version 42 produktiv veröffentlicht**, nativer Status `succeeded`, bestätigt um 12:57:24 Uhr Europe/Berlin. Öffentliche URL: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. Quellcommit `06765cbbc39e15a8490249c360ec119a4d8f9916`, gespeicherte Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_21bc6f8f5c748191b83fd0ee4e9e04a3`, Deployment `appgdep_6ac0df81fce4819194701736f609063f`. Bestehende Sites-Projekt-ID, öffentlicher Besucherzugriff (`public`, Revision 2) und Supabase-Anbindung erhalten.
@@ -61,7 +73,7 @@ Am 26.09.2026 waren der zuvor verwendete `sites-hosting`-Skill und `site-workflo
 
 Am 02.10.2026 war der zuvor gelesene Sites-Skill lokal verfügbar, der gebündelte Workflow anschließend jedoch nicht mehr vorhanden. Daher erneut den dokumentierten Ersatzablauf mit den nativen Sites-Werkzeugen verwenden; bestehender öffentlicher Zugriff bleibt erhalten.
 
-## Aktueller Veröffentlichungsstand
+## Historischer Veröffentlichungsstand vor Version 38
 
 Version 40 am 03.10.2026 erfolgreich veröffentlicht, nativer Status **succeeded**: Antwortoptimierung, Kontosicherung im Hintergrund, Solo-Lösungswahl unter Profil → Optionen und Duell als fünfte gleich gestaltete Startkachel. Auf ausdrücklichen Nutzerwunsch bisherige Zeitregeln erhalten. Die bereits veröffentlichten Erweiterungen der Versionen 38/39 bleiben enthalten: Schauspielerpaket, öffentliche Bestenliste/Gastaktivität, komprimierter lokaler Katalog und additive Fragenbereiche. Gesamt 5.677 Fragen/5.147 Ziele und Rohquellen unverändert. **229 Tests, Produktions-Build und 19 unterschiedliche abschließende Browserfälle erfolgreich**; vorherige betroffene Konto-/Duell-/Speicherfälle zusätzlich geprüft. [Prüfnachweis](Pruefbericht.md).
 
