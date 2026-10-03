@@ -24,7 +24,8 @@ export const canonicalFilters = (filters: QuizFilters): QuizFilters => ({
 export const matchesFilters = (q: Question, filters: QuizFilters) =>
   filters.genres.includes(genreOf(q)) &&
   filters.difficulties.includes(q.difficulty) &&
-  (!filters.familiarities ||
+  (!!q.metadata.person_id ||
+    !filters.familiarities ||
     (familiarityOf(q)
       ? filters.familiarities.includes(familiarityOf(q)!)
       : familiarities.every((f) => filters.familiarities!.includes(f))));

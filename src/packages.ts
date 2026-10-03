@@ -36,6 +36,10 @@ export const packages = [
     path: "/preistraeger-fragen.csv",
     filename: "Preistraeger_200_Fragen.csv",
   },
+  {
+    path: "/schauspieler-fragen.csv",
+    filename: "Schauspieler_800_Fragen_App.csv",
+  },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {
@@ -49,6 +53,9 @@ export function addPackages(state: State, incoming: PackageContent[]) {
   retainJourneyUnlocks(state);
   for (const pkg of incoming) {
     if (hasPackage(state, pkg.filename)) continue;
+    // Person questions may share generated director goals from the film catalog.
+    if (pkg.filename === "Schauspieler_800_Fragen_App.csv")
+      addFilmFacts(state.questions);
     const imported = importCsv(pkg.text, state.questions, pkg.filename);
     if (!imported.report.accepted && !imported.report.duplicates)
       throw new Error(`Fragenpaket ${pkg.filename} ist ungültig.`);

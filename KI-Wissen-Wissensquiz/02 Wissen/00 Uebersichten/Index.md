@@ -8,7 +8,8 @@
 
 ## Spielbare Testversion
 
-- [Schauspieler: vorbereitetes Paket mit 100 Personen und 800 individuellen Fragen](../../../docs/Schauspieler-Fragenpaket.md)
+- [Schauspieler: eigene App-Kategorie mit 100 Personen und 800 individuellen Fragen](../../../docs/Schauspieler-Fragenpaket.md)
+- [Schauspieler-Importbericht und 50 erhaltene Wissensziele](../../../docs/importbericht-schauspieler.json)
 
 - [Preisträger: 200 Fragen, vier Stufen, Quellen und Filmdaten](../../../docs/Preistraeger.md)
 - [Preisträger-Importbericht](../../../docs/importbericht-preistraeger.json)

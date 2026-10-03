@@ -1,5 +1,7 @@
 # Fragenimport – Vertrag Version 1
 
+Aktueller lokaler Gesamtstand (03.10.2026): [Schauspieler](Schauspieler-Fragenpaket.md) ergänzt 800 Fragen, davon 50 Varianten bestehender Wissensziele und 750 neue Ziele. 17 CSV-Pakete plus bestehende Filmfragen: 5.677 Fragen/5.147 Ziele. `person_name` hat für das Thema Vorrang vor Film-/Reihentiteln; `person_id` kennzeichnet die eigenständige Personenkategorie. `person_name_before_answer` und `source_difficulty` bleiben in den Metadaten erhalten. Außergewöhnlich aus der Redaktion wird in der App-CSV als `experte` geführt. Die ursprüngliche Redaktions-JSON ist weiterhin kein direkter CSV- oder Spielstandimport. Schauspieler ist als vierte Kategorie in Auswahl und Sicherungen erlaubt; Personenfragen benötigen keine Filmfelder und werden nicht in die Filmreise eingeordnet.
+
 Für Duelle werden keine CSV-Felder geändert. `npm run prepare:duels` erzeugt aus den öffentlichen App-Paketen einen getrennten Betreiberkatalog mit eingefrorenen vollständigen Frageobjekten; keine privaten Importe oder Spielstände. Aktuell 4.827 zulässige Fragen/4.347 Ziele ohne Demo/Experte. Historische Duellinhalte mit inzwischen geänderter lokaler ID erhalten bei Lernübernahme eine `DUEL-…`-ID und `metadata.duel_question_id`, bewahren aber ihr Wissensziel. Bestehende Fragen werden nicht überschrieben. Optionale Rundenfelder `solutionDisplay` und `duel` sowie die entsprechende Einstellung bleiben in JSON und Kontokompaktformaten erhalten; Altstände ohne Felder sind gültig. [Duellvertrag](Asynchrone-Filmduelle.md).
 
 Aktueller lokaler Gesamtstand (02.10.2026): [Preisträger](Preistraeger.md) ergänzt 200 Fragen/200 Ziele, je 50 leicht/mittel/schwer/experte. 16 CSV-Pakete: 4.040 Fragen/3.560 Ziele; mit den 837 bisherigen Filmfragen 4.877 Fragen/4.397 Ziele. Der Import akzeptiert nun vier Schwierigkeiten; Kategorienauswahl und Sicherungen erlauben Preisträger zusätzlich zu Classics/Arthouse.
@@ -55,7 +57,7 @@ Die zusätzliche UI-Auswahl „Keine Ahnung“ gehört nicht zu `answer_a`–`an
 - Varianten eines ausgeschlossenen Datensatzes werden ebenfalls ausgeschlossen, sofern kein gültiger bestehender Bezug existiert.
 - Jede Frage erhält eine deterministische Inhaltsversion `csv-<Fingerprint>` aus dem vollständigen normalisierten Datensatz. Dies ist eine Versionskennung, kein kryptografischer Integritätsnachweis.
 - Die CSV wird nur nach Vorschau und ausdrücklichem Import übernommen. Der Parser läuft in der Schreibtransaktion erneut gegen den aktuellen Bestand, damit parallele Importe keine IDs duplizieren.
-- Maximal 20 MB je UI-Datei; für die erste Version als synchroner Parser ausgelegt. Sehr große Bibliotheken benötigen künftig einen Worker.
+- Maximal 20 MB je CSV-Import und 64 MB je JSON-Sicherung im Dateiimport; für die erste Version als synchroner Parser ausgelegt. Sehr große Bibliotheken benötigen künftig einen Worker.
 - Kein Auto-Update bestehender Fragen: IDs werden weder überschrieben noch still dupliziert. Runden enthalten zusätzlich unveränderliche Inhaltssnapshots.
 
 Es wurden keine Filmplakate, externen Bilder oder Audiodateien eingebunden. Die Oberfläche verwendet eigene geometrische Grafiken und Systemschriften.

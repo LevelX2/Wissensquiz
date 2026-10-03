@@ -171,8 +171,17 @@ it("prüft Erreichbarkeit aller festen Ziele im vollständigen Katalog und leere
     })),
   );
   const progress = learningPathProgress(s);
-  expect(s.questions).toHaveLength(4877);
-  expect(s.questions.every((q) => familiarityOf(q))).toBe(true);
+  expect(s.questions).toHaveLength(5677);
+  expect(
+    s.questions
+      .filter((q) => !q.metadata.person_id)
+      .every((q) => familiarityOf(q)),
+  ).toBe(true);
+  expect(
+    s.questions
+      .filter((q) => q.metadata.person_id)
+      .every((q) => !familiarityOf(q)),
+  ).toBe(true);
   for (const [genre, plan] of Object.entries(curriculum.genres)) {
     const p = progress(genre);
     expect(p.first).toBe(plan.first);

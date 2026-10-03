@@ -7,3 +7,7 @@
 **/Musik_Ergaenzung_Filmdaten.json -text whitespace=cr-at-eol
 **/SciFi_Ergaenzung_Filmdaten.json -text whitespace=cr-at-eol
 **/Komoedie_Ergaenzung_Filmdaten.json -text whitespace=cr-at-eol
+
+# Preserve immutable raw sources and the original editorial actor package.
+"KI-Wissen-Wissensquiz/01 Rohquellen/*" -text whitespace=cr-at-eol
+docs/Schauspieler-Fragenpaket/* -text whitespace=cr-at-eol

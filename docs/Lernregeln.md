@@ -184,7 +184,7 @@ Fragenfortschritt: Grün mit Häkchen bedeutet richtig, Rot mit Kreuz falsch; oh
 
 ## Gespeicherte Rundenvorbereitung (27.09.2026)
 
-Optionales `settings.roundSetup`: `mode`, `genres` (null = alle einschließlich späterer Imports, [] = keine), `categories` (Classics/Arthouse/Preisträger) und `difficulties`. Defaults für fehlende Rundenvorbereitung: entdecken, alle Genres, keine Zusatzkategorie, alle vier manuellen Stufen. Bereits gespeicherte Dreistufen-Auswahlen bleiben erhalten; Experte kann ausdrücklich zugeschaltet werden. Nicht mehr vorhandene Genres werden bei der Anzeige entfernt; fallen alle früher gewählten Genres weg, gilt wieder alle. Eine absichtlich leere Auswahl bleibt leer. Keine einzelne Film-/Reihenauswahl in neuen Runden; historische Rundensnapshots und Themenfilter bleiben lesbar und fortsetzbar.
+Optionales `settings.roundSetup`: `mode`, `genres` (null = alle einschließlich späterer Imports, [] = keine), `categories` (Classics/Arthouse/Preisträger/Schauspieler) und `difficulties`. Defaults für fehlende Rundenvorbereitung: entdecken, alle Genres, keine Zusatzkategorie, alle vier manuellen Stufen. Bereits gespeicherte Dreistufen-Auswahlen bleiben erhalten; Experte kann ausdrücklich zugeschaltet werden. Nicht mehr vorhandene Genres werden bei der Anzeige entfernt; fallen alle früher gewählten Genres weg, gilt wieder alle. Eine absichtlich leere Auswahl bleibt leer. Keine einzelne Film-/Reihenauswahl in neuen Runden; historische Rundensnapshots und Themenfilter bleiben lesbar und fortsetzbar.
 
 Auswahländerungen werden transaktional gespeichert; die Oberfläche zeigt die Wahl sofort, Kontosynchronisierung erhält ausschließlich bestätigte Speicherstände. Speicherfehler nehmen die vorläufige Auswahl zurück und zeigen den vorhandenen Fehlerhinweis. Die Filmreise ignoriert manuelle Stufen-/Bekanntheitsfilter, erhält sie aber für den späteren Wechsel zurück. JSON- und Kontosicherungsvalidierung erhalten das optionale Objekt; Lernereignisse und IDs ändern sich nicht.
 
@@ -200,3 +200,8 @@ Richtig: heller aufsteigender Sinus-Zweiklang (659 → 880 Hz), insgesamt 250 ms
 ## Preisträger und Experte (02.10.2026)
 
 200 neue Fragen mit je 50 Zielen pro Schwierigkeit. Experte ist im Freien Spiel, in Rekordrunden und für offene Fehler frei auswählbar. Die Filmreise behält Leicht/Mittel/Schwer und ihre festen Freischaltziele; Expertenfragen sind dort ausgenommen. Sichere Expertenantworten bringen zusätzlich fünf Karriere-XP. Speicherung und Kategorievereinigung erhalten historische Ereignisse, Runden und verdiente Rechte. [Inhalts- und Quellenvertrag](Preistraeger.md).
+
+
+## Personenkategorie Schauspieler
+
+Seit 03.10.2026 stehen 800 Fragen zu 100 Personen in Freiem Spiel, Rekordrunden und Fehlertraining bereit. Personenmetadaten und Kategorieauswahl bleiben in JSON und kompakter Kontosicherung erhalten. Filmgenre- und Bekanntheitsfilter beschränken Personenfragen nicht; die Personenkategorie muss ausgewählt sein. Die vorhandenen Filmreise-Ziele zählen weiterhin Filmfragen aus abgeschlossenen Runden. Personenfragen erzeugen keine weiteren Stufenfreischaltungen, ihre Lernwirkung und Karriere-XP folgen den bestehenden Regeln. 50 Varianten teilen vorhandene Wissensziel-IDs; Antworten und Fortschritte bleiben zielbezogen. Erkennungsfragen zeigen den Namen erst in der Lösung; spätere Quellen und Vertiefungen gehören zum Antwortbereich. [Paketvertrag](Schauspieler-Fragenpaket.md).

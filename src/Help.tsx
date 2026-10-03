@@ -57,14 +57,25 @@ export function Help() {
         </p>
       </details>
       <details>
-        <summary>Was sind Classics, Arthouse und Preisträger?</summary>
+        <summary>
+          Was sind Classics, Arthouse, Preisträger und Schauspieler?
+        </summary>
         <p>
           Das sind kuratierte Auswahlen zusätzlich zu den Filmgenres. Classics
           versammelt ausgewählte Klassiker; Arthouse umfasst Autoren- und
           Programmkino einschließlich ausgewählter Genrefilme. Es gibt keine
           automatische Altersgrenze oder Gleichsetzung mit Drama. Preisträger
           widmet sich Oscars, der Goldenen Palme und den Preisen des
-          Filmfestivals von Venedig.
+          Filmfestivals von Venedig. Schauspieler enthält 800 Fragen zu 100
+          Schauspielerinnen und Schauspielern: Rollen, Karriere, Bühne, Musik,
+          Ausbildung und besondere Lebenswege.
+        </p>
+        <p>
+          Schauspieler ist eine eigenständige Personenkategorie. Du kannst sie
+          im Freien Spiel, in Rekordrunden und im Fehlertraining auswählen und
+          mit anderen Kategorien kombinieren. Filmgruppen gelten für Filmfragen;
+          Schauspielerfragen werden davon nicht eingeschränkt. Die Filmreise
+          bleibt auf ihre vorhandenen Filme ausgerichtet.
         </p>
         <p>
           Die Kategorien schränken Deine gewählten Genres ein. Wählst Du

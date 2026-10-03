@@ -67,9 +67,9 @@ for (const both of [false, true]) {
           };
         }),
     );
-    expect(saved.questions).toHaveLength(4877);
+    expect(saved.questions).toHaveLength(5677);
     expect(new Set(saved.questions.map((q: any) => q.knowledgeId)).size).toBe(
-      4397,
+      5147,
     );
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Arthouse")),

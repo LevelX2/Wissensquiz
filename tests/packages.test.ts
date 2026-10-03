@@ -239,9 +239,9 @@ it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13])(
       update((s) => addPackages(s, contents)),
     ]);
     const saved = (await read())!;
-    expect(saved.questions).toHaveLength(4877);
-    expect(saved.imports).toHaveLength(16);
-    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(4397);
+    expect(saved.questions).toHaveLength(5677);
+    expect(saved.imports).toHaveLength(17);
+    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(5147);
     expect(saved.questions.slice(0, previousQuestions.length)).toEqual(
       previousQuestions.map(withCategoryTags),
     );

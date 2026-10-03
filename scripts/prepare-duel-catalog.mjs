@@ -21,7 +21,11 @@ try {
   addPackages(state, input);
   const questions = state.questions
     .filter(
-      (q) => !q.demo && ["leicht", "mittel", "schwer"].includes(q.difficulty),
+      // Person names need their own server-side concealment before actor duels.
+      (q) =>
+        !q.demo &&
+        !q.metadata.person_id &&
+        ["leicht", "mittel", "schwer"].includes(q.difficulty),
     )
     .map((q) => questionSchema.parse(q));
   const quote = (value) => `'${String(value).replaceAll("'", "''")}'`;

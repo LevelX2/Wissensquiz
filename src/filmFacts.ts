@@ -27,6 +27,7 @@ const allGenresByFilm = new Map(
 
 // Read-only enrichment: also works for historical snapshots without modifying them.
 export function filmData(q: Question) {
+  if (q.metadata.person_id) return undefined;
   // Keep established film metadata when award questions reuse the same film.
   const f =
     byFilm.get(filmKey(q)) ??

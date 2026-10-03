@@ -6,12 +6,14 @@ import { normalizeGenre } from "./filters";
 export const CLASSICS = "Classics";
 export const ARTHOUSE = "Arthouse";
 export const AWARD_WINNERS = "Preisträger";
-export const categories = [CLASSICS, ARTHOUSE, AWARD_WINNERS] as const;
+export const ACTORS = "Schauspieler";
+export const categories = [CLASSICS, ARTHOUSE, AWARD_WINNERS, ACTORS] as const;
 export type Category = (typeof categories)[number];
 const additions = {
   [CLASSICS]: classics,
   [ARTHOUSE]: arthouse,
   [AWARD_WINNERS]: { entries: [] as typeof classics.entries },
+  [ACTORS]: { entries: [] as typeof classics.entries },
 };
 const references = new Map(
   categories.map((category) => [

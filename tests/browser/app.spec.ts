@@ -360,6 +360,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
                   "Arthouse_Quiz_180_Fragen.csv",
                   "Alle_Genres_120_Filme_960_Fragen.csv",
                   "Preistraeger_200_Fragen.csv",
+                  "Schauspieler_800_Fragen_App.csv",
                 ].includes(r.filename) &&
                 (packageCount >= 8 ||
                   r.filename !== "Classics_Quiz_180_Fragen.csv") &&
@@ -396,7 +397,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
-      page.getByText("4877 Fragen · 4397 Wissensziele · 0 Demo-Fragen"),
+      page.getByText("5677 Fragen · 5147 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
   });
 }
@@ -729,7 +730,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByText("4877 Fragen · 4397 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("5677 Fragen · 5147 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
@@ -896,7 +897,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Gültige Fragen importieren" })
     .click();
   await expect(
-    page.getByText("4889 Fragen · 4409 Wissensziele · 12 Demo-Fragen"),
+    page.getByText("5689 Fragen · 5159 Wissensziele · 12 Demo-Fragen"),
   ).toBeVisible();
   await expect(
     page.getByRole("button", {

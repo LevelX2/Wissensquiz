@@ -128,8 +128,10 @@ const stateSchema = z.object({
         mode: z.enum(["entdecken", "ueben", "rekord", "fehler"]),
         genres: z.array(id).max(20000).nullable(),
         categories: z
-          .array(z.enum(["Classics", "Arthouse", "Preisträger"]))
-          .max(3),
+          .array(
+            z.enum(["Classics", "Arthouse", "Preisträger", "Schauspieler"]),
+          )
+          .max(4),
         difficulties: z
           .array(z.enum(["leicht", "mittel", "schwer", "experte"]))
           .max(4),
@@ -193,6 +195,7 @@ export function validateBackup(value: unknown): State {
           !matchesTopic(q, r.topic) ||
           (r.familiaritySnapshot &&
             r.filters.familiarities &&
+            !q.metadata.person_id &&
             !(r.familiaritySnapshot[q.id] === 0
               ? r.filters.familiarities.length === 4
               : r.filters.familiarities.some(

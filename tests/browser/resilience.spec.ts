@@ -73,13 +73,16 @@ test("Tastatur, sichtbarer Fokus und automatisierte Barrierearmutsprüfung", asy
     ).violations,
   ).toEqual([]);
 });
-test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", async () => {
+test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", async ({
+  baseURL,
+}) => {
   const profile = await mkdtemp(join(tmpdir(), "wissensquiz-test-"));
   let context = await chromium.launchPersistentContext(profile, {
     headless: true,
   });
   let page = await context.newPage();
-  await page.goto("http://localhost:4173");
+  await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
+  await page.goto(baseURL!);
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".answer").first()).toBeEnabled();
   await page.locator(".answer").first().click();
@@ -88,7 +91,8 @@ test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", a
   await context.close();
   context = await chromium.launchPersistentContext(profile, { headless: true });
   page = await context.newPage();
-  await page.goto("http://localhost:4173");
+  await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
+  await page.goto(baseURL!);
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".question-card h1")).toHaveText(question);
   await expect(page.locator(".feedback")).toBeVisible();

@@ -56,7 +56,7 @@ export type SolutionDisplay = "question" | "round";
 export interface RoundSetup {
   mode: Mode;
   genres: string[] | null;
-  categories: ("Classics" | "Arthouse" | "Preisträger")[];
+  categories: ("Classics" | "Arthouse" | "Preisträger" | "Schauspieler")[];
   difficulties: Difficulty[];
   familiarities?: (1 | 2 | 3 | 4)[];
 }

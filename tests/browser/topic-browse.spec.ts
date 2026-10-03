@@ -89,7 +89,7 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
         ).violations,
       ).toEqual([]);
       await page.getByRole("button", { name: "Zur Themenübersicht" }).click();
-      await expect(page.locator(".topic-card")).toHaveCount(15);
+      await expect(page.locator(".topic-card")).toHaveCount(16);
       await card
         .getByRole("button", { name: "Filme & Reihen ansehen" })
         .click();

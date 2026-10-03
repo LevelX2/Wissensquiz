@@ -58,6 +58,7 @@ import {
   categories,
   type Category,
   categoryTopic,
+  ACTORS,
   matchesCategories,
   matchesTopic,
 } from "./categories";
@@ -204,7 +205,8 @@ function TopicCard({
         )}
         {onBrowse && (
           <button className="text-button" onClick={onBrowse}>
-            Filme & Reihen ansehen <span>↗</span>
+            {topic === ACTORS ? "Personen ansehen" : "Filme & Reihen ansehen"}{" "}
+            <span>↗</span>
           </button>
         )}
       </div>
@@ -383,7 +385,9 @@ export function App({
   const albumTopics = topics.filter(
     (t) => !answeredOnly || startedTopics.has(t),
   );
-  const genres = [...new Set(state.questions.map(genreOf))].sort();
+  const genres = [...new Set(state.questions.map(genreOf))]
+    .filter((genre) => genre !== ACTORS)
+    .sort();
   const browseQuestions =
     page === "topics" && topicScope
       ? state.questions.filter((q) =>
@@ -394,7 +398,9 @@ export function App({
       : [];
   const browseTopics = [...new Set(browseQuestions.map((q) => q.topic))].sort();
   const filters = {
-    genres: selectedGenres ?? genres,
+    genres: selectedCategories.includes(ACTORS)
+      ? [...new Set([...(selectedGenres ?? genres), ACTORS])]
+      : (selectedGenres ?? genres).filter((genre) => genre !== ACTORS),
     difficulties:
       mode === "entdecken" ? [...difficulties] : selectedDifficulties,
     familiarities:
@@ -785,6 +791,11 @@ export function App({
                                 : selectedCategories.filter(
                                     (c) => c !== category,
                                   ),
+                              ...(category === ACTORS &&
+                              e.target.checked &&
+                              mode === "entdecken"
+                                ? { mode: "ueben" }
+                                : {}),
                             });
                           }}
                         />
@@ -795,7 +806,8 @@ export function App({
                     <p className="tiny muted">
                       Kuratierte Auswahlen innerhalb Deiner Genres. Mehrere
                       gewählte Kategorien werden kombiniert. Gemeinsame Fragen
-                      zählen nur einmal.
+                      zählen nur einmal. Schauspieler ist unabhängig von
+                      Filmgenres und Filmgruppen im Freien Spiel verfügbar.
                     </p>
                   </fieldset>
                   {mode !== "entdecken" ? (
@@ -918,11 +930,15 @@ export function App({
                     {topicScope.kind === "genre"
                       ? genreLabel(topicScope.name)
                       : topicScope.name}
-                    : Filme & Reihen
+                    :{" "}
+                    {topicScope.name === ACTORS ? "Personen" : "Filme & Reihen"}
                   </h1>
                   <p className="lead">
-                    {browseTopics.length} Film- und Reihenblöcke mit Deinem
-                    Lernfortschritt.
+                    {browseTopics.length}{" "}
+                    {topicScope.name === ACTORS
+                      ? "Schauspielerinnen und Schauspieler"
+                      : "Film- und Reihenblöcke"}{" "}
+                    mit Deinem Lernfortschritt.
                   </p>
                   <div className="topic-grid">
                     {browseTopics.map((t) => (
@@ -942,8 +958,8 @@ export function App({
                     Welten zum <em>Entdecken.</em>
                   </h1>
                   <p className="lead">
-                    Wähle ein Filmgenre oder sieh Dir seine Filme und Reihen an.
-                    Auf der Startseite kannst Du mehrere Genres und
+                    Wähle ein Filmgenre oder eine Kategorie und entdecke ihre
+                    Themen. Auf der Startseite kannst Du mehrere Genres und
                     Schwierigkeitsstufen kombinieren.
                   </p>
                   <div className="topic-grid">
@@ -960,6 +976,7 @@ export function App({
                             await changeSetup({
                               categories: [category],
                               genres: null,
+                              ...(category === ACTORS ? { mode: "ueben" } : {}),
                             })
                           )
                             setPage("home");
@@ -1342,6 +1359,11 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   return (
     <div className="explanation">
       <span className="eyebrow">DIE IDEE DAHINTER</span>
+      {q.metadata.person_name && (
+        <p className="actor-name">
+          <strong>{q.metadata.person_name}</strong>
+        </p>
+      )}
       <p>{q.explanation}</p>
       {!event.correct && selected?.feedback && (
         <p className="specific-feedback">
@@ -2212,8 +2234,9 @@ function Settings({
   const readFile = async (file: File | undefined, kind: "csv" | "json") => {
     setMessage("");
     if (!file) return;
-    if (file.size > 20 * 1024 * 1024) {
-      setMessage("Datei ist zu groß. Höchstens 20 MB.");
+    const limitMb = kind === "json" ? 64 : 20;
+    if (file.size > limitMb * 1024 * 1024) {
+      setMessage(`Datei ist zu groß. Höchstens ${limitMb} MB.`);
       return;
     }
     try {

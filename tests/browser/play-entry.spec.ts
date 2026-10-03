@@ -138,8 +138,8 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
           q.tags.includes("Classics") && q.metadata.subdomain === "Western",
       ),
   ).toBe(true);
-  expect(stored.questions).toHaveLength(4877);
-  expect(new Set(stored.questions.map((q: any) => q.id)).size).toBe(4877);
+  expect(stored.questions).toHaveLength(5677);
+  expect(new Set(stored.questions.map((q: any) => q.id)).size).toBe(5677);
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();

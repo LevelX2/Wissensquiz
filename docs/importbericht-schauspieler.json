@@ -1,0 +1,279 @@
+{
+  "created_on": "2026-10-03",
+  "source": "docs/Schauspieler-Fragenpaket/Schauspieler_100_Personen_800_Fragen.json",
+  "source_sha256": "9125f15a2811c7e48a3ea875b96b0b67f1247fb40632157cf2da7fed157183fa",
+  "app_csv_sha256": "859b758429b9b4ea79841ddc0b6ab6e314774465bd6f3ec43ef16f8a24266182",
+  "people": 100,
+  "questions": 800,
+  "questions_by_difficulty": {
+    "leicht": 200,
+    "mittel": 200,
+    "schwer": 200,
+    "experte": 200
+  },
+  "reused_knowledge_ids": 50,
+  "new_knowledge_ids": 750,
+  "knowledge_links": [
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-001-L-1",
+      "knowledge_id": "K-DRA-03-01",
+      "variant_of": "DRA-L-005"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-004-L-2",
+      "knowledge_id": "K-FAN-25-edward-depp",
+      "variant_of": "FAN-L-049"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-005-L-1",
+      "knowledge_id": "K-DRA-24-01",
+      "variant_of": "DRA-L-047"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-005-M-1",
+      "knowledge_id": "K-DRA-25-01",
+      "variant_of": "DRA-L-049"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-007-L-1",
+      "knowledge_id": "K-HOR-09-jack-nicholson",
+      "variant_of": "HOR-L-018"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-007-M-1",
+      "knowledge_id": "K-DRA-09-01",
+      "variant_of": "DRA-L-017"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-007-S-1",
+      "knowledge_id": "K-PRZ-202610-P01-M-007",
+      "variant_of": "PRZ-202610-P01-M-007"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-009-L-2",
+      "knowledge_id": "K-KOM-202609-P02-L-012",
+      "variant_of": "KOM-202609-P02-L-012"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-009-M-2",
+      "knowledge_id": "K-FF-090-DIRECTOR",
+      "variant_of": "FF-090-DIRECTOR"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-010-S-2",
+      "knowledge_id": "K-WES-202610-P01-M-030",
+      "variant_of": "WES-202610-P01-M-030"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-011-L-2",
+      "knowledge_id": "K-ADV-202610-P01-L-001",
+      "variant_of": "ADV-202610-P01-L-001"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-012-L-1",
+      "knowledge_id": "K-ACT-21-ethan-darsteller",
+      "variant_of": "ACT-L-041"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-012-M-2",
+      "knowledge_id": "K-HOR-202610-P01-L-011",
+      "variant_of": "HOR-202610-P01-L-011"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-013-L-2",
+      "knowledge_id": "K-ACT-25-wick-reeves",
+      "variant_of": "ACT-L-049"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-014-L-1",
+      "knowledge_id": "K-ACT-01-mcclane-darsteller",
+      "variant_of": "ACT-L-001"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-016-L-2",
+      "knowledge_id": "K-ACT-15-rambo-stallone",
+      "variant_of": "ACT-L-029"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-018-L-1",
+      "knowledge_id": "K-THR-202610-P01-L-004",
+      "variant_of": "THR-202610-P01-L-004"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-019-L-1",
+      "knowledge_id": "K-DRA-202610-P01-L-001",
+      "variant_of": "DRA-202610-P01-L-001"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-022-M-2",
+      "knowledge_id": "K-PRZ-202610-P01-M-022",
+      "variant_of": "PRZ-202610-P01-M-022"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-023-M-2",
+      "knowledge_id": "K-ROM-13-04",
+      "variant_of": "ROM-M-026"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-023-S-1",
+      "knowledge_id": "K-PRZ-202610-P01-M-018",
+      "variant_of": "PRZ-202610-P01-M-018"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-024-L-1",
+      "knowledge_id": "K-KOM-202609-P02-L-013",
+      "variant_of": "KOM-202609-P02-L-013"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-024-M-2",
+      "knowledge_id": "K-PRZ-202610-P01-M-014",
+      "variant_of": "PRZ-202610-P01-M-014"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-024-S-1",
+      "knowledge_id": "K-DRA-07-01",
+      "variant_of": "DRA-L-013"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-025-L-1",
+      "knowledge_id": "K-KOM-202609-P02-L-007",
+      "variant_of": "KOM-202609-P02-L-007"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-025-M-1",
+      "knowledge_id": "K-SF-021-truman-darsteller",
+      "variant_of": "SF-L-021"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-026-L-2",
+      "knowledge_id": "K-SF-019-agent-j-darsteller",
+      "variant_of": "SF-L-019"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-027-L-1",
+      "knowledge_id": "K-ACT-23-bourne-damon",
+      "variant_of": "ACT-L-045"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-031-L-1",
+      "knowledge_id": "K-ACT-19-craig-debuet",
+      "variant_of": "ACT-L-037"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-038-L-1",
+      "knowledge_id": "K-KOM-202609-P02-L-089",
+      "variant_of": "KOM-202609-P02-L-089"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-046-S-2",
+      "knowledge_id": "K-FF-239-DIRECTOR",
+      "variant_of": "FF-239-DIRECTOR"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-050-M-1",
+      "knowledge_id": "K-CLA-07-03",
+      "variant_of": "CLA-M-013"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-051-L-2",
+      "knowledge_id": "K-MUS-202610-P01-L-004",
+      "variant_of": "MUS-202610-P01-L-004"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-052-L-1",
+      "knowledge_id": "K-ROM-02-01",
+      "variant_of": "ROM-L-003"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-053-L-1",
+      "knowledge_id": "K-ACT-06-annie-darstellerin",
+      "variant_of": "ACT-L-012"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-053-A-1",
+      "knowledge_id": "K-SF-202609-P02-M-072",
+      "variant_of": "SF-202609-P02-M-072"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-054-L-1",
+      "knowledge_id": "K-THR-202610-P01-L-003",
+      "variant_of": "THR-202610-P01-L-003"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-055-L-1",
+      "knowledge_id": "K-MUS-202609-P01-L-006",
+      "variant_of": "MUS-202609-P01-L-006"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-065-M-1",
+      "knowledge_id": "K-KOM-202609-P02-L-077",
+      "variant_of": "KOM-202609-P02-L-077"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-066-L-2",
+      "knowledge_id": "K-FF-062-DIRECTOR",
+      "variant_of": "FF-062-DIRECTOR"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-069-L-1",
+      "knowledge_id": "K-CLA-03-01",
+      "variant_of": "CLA-L-005"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-070-M-1",
+      "knowledge_id": "K-ROM-202610-P01-L-012",
+      "variant_of": "ROM-202610-P01-L-012"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-073-L-1",
+      "knowledge_id": "K-HOR-01-laurie-curtis",
+      "variant_of": "HOR-L-001"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-083-A-2",
+      "knowledge_id": "K-SF-202609-P02-L-093",
+      "variant_of": "SF-202609-P02-L-093"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-088-L-1",
+      "knowledge_id": "K-THR-202610-P01-L-005",
+      "variant_of": "THR-202610-P01-L-005"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-088-S-1",
+      "knowledge_id": "K-DRA-202610-P01-L-010",
+      "variant_of": "DRA-202610-P01-L-010"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-095-M-1",
+      "knowledge_id": "K-ACT-202610-P01-L-020",
+      "variant_of": "ACT-202610-P01-L-020"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-096-M-2",
+      "knowledge_id": "K-PRZ-202610-P01-M-024",
+      "variant_of": "PRZ-202610-P01-M-024"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-098-L-1",
+      "knowledge_id": "K-ART-24-01",
+      "variant_of": "ART-L-047"
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P01-099-M-1",
+      "knowledge_id": "K-PRZ-202610-P01-M-035",
+      "variant_of": "PRZ-202610-P01-M-035"
+    }
+  ],
+  "parser": {
+    "accepted": 800,
+    "rejected": 0,
+    "duplicates": 0,
+    "warnings": [],
+    "issues": []
+  },
+  "total_questions": 5677,
+  "total_knowledge_ids": 5147,
+  "old_questions_unchanged": true,
+  "note": "Eigenständige Personenkategorie. Keine verpflichtenden Filmdaten, keine Einordnung in die Filmreise. Quellen und redaktionelle Schwierigkeiten aus dem Originalpaket erhalten."
+}

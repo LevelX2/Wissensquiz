@@ -154,6 +154,7 @@ export function importCsv(
         language: "de",
         domain: row.domain || "Importierte Inhalte",
         topic:
+          row.person_name ||
           row.franchise ||
           row.film_title_de ||
           row.film_title_original ||

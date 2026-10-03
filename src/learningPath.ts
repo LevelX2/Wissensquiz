@@ -23,7 +23,7 @@ export function learningPathProgress(state: State) {
   for (const e of state.events) {
     if (!e.correct || e.guessed || e.answerId === null) continue;
     const q = snapshots.get(`${e.roundId}:${e.questionId}`);
-    if (!q) continue;
+    if (!q || q.metadata.person_id) continue;
     const genre = genreOf(q);
     for (const target of legacyRounds.has(e.roundId)
       ? [goals, legacy]
@@ -40,6 +40,7 @@ export function learningPathProgress(state: State) {
   }
   const available = new Map<string, Question[]>();
   for (const q of state.questions) {
+    if (q.metadata.person_id) continue;
     const g = genreOf(q);
     if (!available.has(g)) available.set(g, []);
     available.get(g)!.push(q);

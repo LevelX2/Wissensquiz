@@ -31,6 +31,7 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   });
   await levels.getByLabel("Leicht", { exact: true }).uncheck();
   await levels.getByLabel("Mittel", { exact: true }).uncheck();
+  await levels.getByLabel("Experte", { exact: true }).uncheck();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Schwer",
