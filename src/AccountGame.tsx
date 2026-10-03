@@ -49,11 +49,13 @@ export function AccountGame({
     onState: (state: State) => void,
     status: SyncStatus,
     message: string,
+    confirmedAt?: number,
   ) => ReactNode;
 }) {
   const ranking = useMemo(() => ({ client, owner }), [client, owner]);
   const [status, setStatus] = useState<SyncStatus>("loading");
   const [syncDetail, setSyncDetail] = useState("");
+  const [confirmedAt, setConfirmedAt] = useState<number>();
   const [ready, setReady] = useState(false);
   const [error, setError] = useState("");
   const [generation, setGeneration] = useState(0);
@@ -86,10 +88,11 @@ export function AccountGame({
           save: (state, revision, signal) =>
             cloudSave(client, state, revision, owner, signal),
         },
-        (value, detail) => {
+        (value, detail, lastConfirmation) => {
           if (alive) {
             setStatus(value);
             setSyncDetail(detail ?? "");
+            setConfirmedAt(lastConfirmation);
           }
         },
       );
@@ -105,6 +108,7 @@ export function AccountGame({
           await writeSyncReceipt(storageKey, {
             revision: remote.revision,
             fingerprint: await fingerprint(remote.state),
+            confirmedAt: Date.now(),
           });
           acceptRemote.current = false;
         }
@@ -242,6 +246,7 @@ export function AccountGame({
           onPersistedState={offer}
           sync={{
             status,
+            confirmedAt,
             text: `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
             retry: () => {
               void engine.current?.flush();
@@ -253,6 +258,7 @@ export function AccountGame({
               onState,
               status,
               `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
+              confirmedAt,
             )
           }
         />

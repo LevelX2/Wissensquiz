@@ -1,9 +1,11 @@
 import { useState } from "react";
 import type { SyncStatus } from "./accountSync";
+import { OnlineConfirmation } from "./OnlineConfirmation";
 
 export type SyncDisplay = {
   status: SyncStatus;
   text: string;
+  confirmedAt?: number;
   retry: () => void;
 };
 export function SyncSymbol({ status }: { status: SyncStatus }) {
@@ -36,6 +38,7 @@ export function SyncIndicator({ sync }: { sync: SyncDisplay }) {
       {open && (
         <div className="sync-popover">
           <p role="status">{sync.text}</p>
+          <OnlineConfirmation at={sync.confirmedAt} />
           {sync.status === "offline" && (
             <button type="button" onClick={sync.retry}>
               Erneut versuchen

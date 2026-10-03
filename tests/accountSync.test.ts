@@ -9,6 +9,46 @@ const changed = (sound: boolean) => ({
   settings: { spoilers: true, sound },
 });
 
+it("datiert nur bestätigte Stände und erhält die Bestätigung bei lokalem Fehler und Neuladen", async () => {
+  vi.useFakeTimers();
+  vi.setSystemTime(new Date("2026-10-03T10:00:00Z"));
+  const f = fixture(),
+    sync = new AccountSync(f.store, () => {});
+  try {
+    f.local = emptyState();
+    await sync.prepare();
+    expect(sync.confirmedAt).toBeUndefined();
+    sync.offer(f.local);
+    await sync.flush();
+    const first = sync.confirmedAt;
+    expect(first).toBe(Date.now());
+    vi.setSystemTime(Date.now() + 60_000);
+    const save = f.store.save;
+    f.store.save = async () => {
+      throw new Error("offline");
+    };
+    f.local = changed(false);
+    sync.offer(f.local);
+    await sync.flush();
+    expect(sync.status).toBe("offline");
+    expect(sync.confirmedAt).toBe(first);
+    f.store.save = save;
+    await sync.flush();
+    expect(sync.confirmedAt).toBe(Date.now());
+    expect(f.receipt!.confirmedAt).toBe(Date.now());
+    const second = sync.confirmedAt;
+    sync.stop();
+    vi.setSystemTime(Date.now() + 3_600_000);
+    const reloaded = new AccountSync(f.store, () => {});
+    await reloaded.prepare();
+    expect(reloaded.confirmedAt).toBe(second);
+    reloaded.stop();
+  } finally {
+    sync.stop();
+    vi.useRealTimers();
+  }
+});
+
 it("begrenzt einen hängenden Erstabruf und erhält den lokalen Stand", async () => {
   vi.useFakeTimers();
   const f = fixture();

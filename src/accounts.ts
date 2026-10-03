@@ -1,4 +1,5 @@
 import { validateBackup } from "./backupValidation";
+import { recoveryCopy } from "./recoveryCopies";
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 import { z } from "zod";
 import { openDatabase, read, restore } from "./storage";
@@ -135,7 +136,11 @@ export async function cloudSave(
 export class CloudConflict extends Error {}
 export class CloudSaveError extends Error {}
 
-export type SyncReceipt = { revision: number; fingerprint: string };
+export type SyncReceipt = {
+  revision: number;
+  fingerprint: string;
+  confirmedAt?: number;
+};
 export async function readSyncReceipt(
   key: string,
 ): Promise<SyncReceipt | undefined> {
@@ -213,7 +218,7 @@ export async function replaceAccountState(key: string, state: State) {
     await new Promise<void>((resolve, reject) => {
       const tx = db.transaction("state", "readwrite");
       tx.objectStore("state").put(
-        old,
+        recoveryCopy(old),
         `recovery:${key}:${crypto.randomUUID()}`,
       );
       tx.oncomplete = () => resolve();

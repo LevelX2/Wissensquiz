@@ -18,6 +18,8 @@ import { read } from "./storage";
 import type { State } from "./model";
 import { ActivityContext } from "./GuestActivity";
 import { requestWithin } from "./request";
+import { RecoveryCopies } from "./RecoveryCopiesPanel";
+import { OnlineConfirmation } from "./OnlineConfirmation";
 
 type Link = ReturnType<typeof parseAccountLink>;
 const recoveryMarker = {
@@ -93,6 +95,12 @@ export function AccountApp() {
   const [recovering, setRecovering] = useState(!!recoveryMarker.read());
   const [message, setMessage] = useState(linkError);
   const identity = useRef<string | null>(null);
+  const [configAttempt, setConfigAttempt] = useState(0);
+  const retryConfig = () => {
+    setup = undefined;
+    setPending(true);
+    setConfigAttempt((attempt) => attempt + 1);
+  };
   useEffect(() => {
     let alive = true,
       sequence = 0;
@@ -164,7 +172,7 @@ export function AccountApp() {
       sequence++;
       unsubscribe();
     };
-  }, []);
+  }, [configAttempt]);
   if (pending || !connection)
     return (
       <main className="loading">
@@ -213,7 +221,7 @@ export function AccountApp() {
         publicClient={connection.publicClient}
         owner={user.id}
         storageKey={key}
-        panel={(state, onState, syncStatus, syncMessage) => (
+        panel={(state, onState, syncStatus, syncMessage, confirmedAt) => (
           <AccountPanel
             client={connection.client}
             user={user}
@@ -222,7 +230,10 @@ export function AccountApp() {
             onState={onState}
             syncStatus={syncStatus}
             syncMessage={syncMessage}
+            confirmedAt={confirmedAt}
             initialMessage={connection.error || message}
+            serviceUnavailable={!!connection.error}
+            onRetryConfig={retryConfig}
           />
         )}
       />
@@ -240,6 +251,8 @@ export function AccountApp() {
             state={state}
             onState={onState}
             initialMessage={connection.error || message}
+            serviceUnavailable={!!connection.error}
+            onRetryConfig={retryConfig}
           />
         )}
       />
@@ -392,6 +405,9 @@ function AccountPanel({
   initialMessage,
   syncStatus,
   syncMessage,
+  confirmedAt,
+  serviceUnavailable = false,
+  onRetryConfig,
 }: {
   client: SupabaseClient | null;
   user: User | null;
@@ -401,6 +417,9 @@ function AccountPanel({
   initialMessage: string;
   syncStatus?: SyncStatus;
   syncMessage?: string;
+  confirmedAt?: number;
+  serviceUnavailable?: boolean;
+  onRetryConfig?: () => void;
 }) {
   const [mode, setMode] = useState<"login" | "register" | "forgot" | "resend">(
     "login",
@@ -434,15 +453,21 @@ function AccountPanel({
     return (
       <section className="account-page">
         <h1>Dein Profil</h1>
-        <p>
-          Die eigene Anmeldung wird vorbereitet. Bestätigungs- und Reset-Mails
-          sind noch nicht eingerichtet.
+        <p role={serviceUnavailable ? "status" : undefined}>
+          {serviceUnavailable
+            ? "Der Kontodienst konnte gerade nicht geladen werden. Prüfe Deine Internetverbindung und versuche es erneut."
+            : "Die eigene Anmeldung wird vorbereitet. Bestätigungs- und Reset-Mails sind noch nicht eingerichtet."}
         </p>
         <p>
           Du kannst weiterhin als Gast spielen. Dein bisheriger Spielstand
           bleibt auf diesem Gerät erhalten.
         </p>
-        {message && <p role="status">{message}</p>}
+        {message && !serviceUnavailable && <p role="status">{message}</p>}
+        {serviceUnavailable && (
+          <button className="secondary" onClick={onRetryConfig}>
+            Kontodienst erneut laden
+          </button>
+        )}
       </section>
     );
   if (!user)
@@ -618,6 +643,8 @@ function AccountPanel({
         <p className="tiny muted profile-sync-status" role="status">
           {syncMessage || (syncStatus && syncText[syncStatus])}
         </p>
+        <OnlineConfirmation at={confirmedAt} />
+        <RecoveryCopies key={storageKey} storageKey={storageKey} />
         <p role="status">{message}</p>
         <button
           className="secondary"

@@ -36,6 +36,7 @@ export async function fingerprint(state: State) {
 // the acknowledged snapshot, so reloads and lost responses never hide dirty data.
 export class AccountSync {
   status: SyncStatus = "loading";
+  confirmedAt: number | undefined;
   private revision = 0;
   private saved = "";
   private latest: State | null = null;
@@ -46,11 +47,15 @@ export class AccountSync {
   private controllers = new Set<AbortController>();
   constructor(
     private store: SyncStore,
-    private notify: (status: SyncStatus, detail?: string) => void,
+    private notify: (
+      status: SyncStatus,
+      detail?: string,
+      confirmedAt?: number,
+    ) => void,
   ) {}
   private report(status: SyncStatus, detail = "") {
     this.status = status;
-    if (!this.stopped) this.notify(status, detail);
+    if (!this.stopped) this.notify(status, detail, this.confirmedAt);
   }
   stop() {
     this.stopped = true;
@@ -77,6 +82,8 @@ export class AccountSync {
     ]);
     if (this.stopped) return;
     this.revision = receipt?.revision ?? (await this.store.legacyRevision());
+    this.saved = receipt?.fingerprint ?? "";
+    this.confirmedAt = receipt?.confirmedAt;
     const localHash = local ? await fingerprint(local) : "";
     const remoteHash = remote ? await fingerprint(remote.state) : "";
     if (remote && localHash === remoteHash) {
@@ -102,9 +109,16 @@ export class AccountSync {
   }
   private async acknowledge(revision: number, hash: string) {
     if (this.stopped) return;
-    await this.store.acknowledge({ revision, fingerprint: hash });
+    const confirmedAt =
+      this.revision === revision &&
+      this.saved === hash &&
+      this.confirmedAt !== undefined
+        ? this.confirmedAt
+        : Date.now();
+    await this.store.acknowledge({ revision, fingerprint: hash, confirmedAt });
     this.revision = revision;
     this.saved = hash;
+    this.confirmedAt = confirmedAt;
   }
   offer(state: State) {
     if (this.stopped || this.status === "conflict") return;

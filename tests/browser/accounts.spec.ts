@@ -1,4 +1,11 @@
-import { test, expect, testBaseUrl, type Page } from "./fixtures";
+import {
+  test,
+  expect,
+  testBaseUrl,
+  readStoredState,
+  type Page,
+} from "./fixtures";
+import { accountStorageKey } from "../../src/accounts";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -7,6 +14,106 @@ import { startRound, answer, complete } from "../../src/engine";
 // Auth HTTP responses must remain interceptable after reload; offline behavior
 // is covered separately against the real service worker.
 test.use({ serviceWorkers: "block" });
+
+test("ein fehlgeschlagener Kontodienst lässt sich erneut laden und erhält den Gaststand", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
+  await mockAccounts(page, new Map());
+  let failing = true;
+  await page.route("**/account-config.json", (route) =>
+    failing ? route.abort() : route.fallback(),
+  );
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const before = await readStoredState(page);
+  await account(page);
+  await expect(
+    page.getByText("Der Kontodienst konnte gerade nicht geladen werden.", {
+      exact: false,
+    }),
+  ).toBeVisible();
+  await expect(
+    page.getByText(
+      "Bestätigungs- und Reset-Mails sind noch nicht eingerichtet.",
+      { exact: false },
+    ),
+  ).toHaveCount(0);
+  failing = false;
+  await page.getByRole("button", { name: "Kontodienst erneut laden" }).click();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await account(page);
+  await expect(page.getByLabel("E-Mail-Adresse")).toBeVisible();
+  expect(await readStoredState(page)).toEqual(before);
+});
+
+test("Profil zeigt die Onlinebestätigung und exportiert den erhaltenen Kontostand nach Gastübernahme", async ({
+  page,
+}) => {
+  await mockAccounts(page, new Map());
+  await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
+  await page.goto("/");
+  await login(page);
+  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await account(page);
+  await page.getByText("Konto & Speicherung", { exact: true }).click();
+  await expect(page.locator(".profile-sync-status")).toHaveText(
+    "Spielstand online gespeichert",
+  );
+  await expect(page.locator(".online-confirmation")).toContainText(
+    "Zuletzt online bestätigt:",
+  );
+  const old = await readStoredState(
+    page,
+    accountStorageKey("https://quiz-test.supabase.co", alice),
+  );
+  await page
+    .getByText("Vorhandenen Gastspielstand übernehmen", { exact: true })
+    .click();
+  await page
+    .getByLabel(
+      "Meinen lokalen Kontospielstand durch den Gastspielstand ersetzen",
+    )
+    .check();
+  await page
+    .getByRole("button", { name: "Gastspielstand kopieren", exact: true })
+    .click();
+  await expect(
+    page.getByText("Gastspielstand kopiert.", { exact: false }),
+  ).toBeVisible();
+  await page.getByText("Lokale Rückfallkopien", { exact: true }).click();
+  await page
+    .getByRole("button", { name: "Kopien anzeigen / aktualisieren" })
+    .click();
+  const before = await readStoredState(
+    page,
+    accountStorageKey("https://quiz-test.supabase.co", alice),
+  );
+  const downloaded = page.waitForEvent("download");
+  await page
+    .getByRole("button", { name: "Rückfallkopie 1 als JSON exportieren" })
+    .click();
+  const file = await (await downloaded).path();
+  const exported = JSON.parse(readFileSync(file!, "utf8"));
+  expect(exported.settings.roundSetup.mode).toBe("ueben");
+  expect(exported).toEqual(old);
+  expect(
+    await readStoredState(
+      page,
+      accountStorageKey("https://quiz-test.supabase.co", alice),
+    ),
+  ).toEqual(before);
+  await page.setViewportSize({ width: 320, height: 800 });
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+});
 
 test("ein hängender Kontospielstand endet mit erneutem Versuch statt dauerhafter Ladeansicht", async ({
   page,

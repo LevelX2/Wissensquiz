@@ -12,7 +12,38 @@ import {
 } from "../src/accounts";
 import { emptyState } from "../src/model";
 import { read, update } from "../src/storage";
+import { openDatabase } from "../src/storage";
+import { listRecoveryCopies, readRecoveryCopy } from "../src/recoveryCopies";
 import type { SupabaseClient } from "@supabase/supabase-js";
+
+it("exportiert neue und alte Rückfallkopien nur für das ausgewählte Konto ohne aktive Stände zu verändern", async () => {
+  const key = accountStorageKey("https://one.supabase.co", "recovery-alice");
+  const other = accountStorageKey("https://one.supabase.co", "recovery-bob");
+  const old = { ...emptyState(), favorites: ["Vorher"] };
+  await update((s) => Object.assign(s, old), undefined, key);
+  await replaceAccountState(key, emptyState());
+  const db = await openDatabase();
+  await new Promise<void>((resolve, reject) => {
+    const tx = db.transaction("state", "readwrite");
+    tx.objectStore("state").put(old, `recovery:${key}:legacy`);
+    tx.objectStore("state").put(old, `recovery:${other}:foreign`);
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => reject(tx.error);
+  });
+  const copies = await listRecoveryCopies(key);
+  expect(copies).toHaveLength(2);
+  expect(copies[0].createdAt).toBeTypeOf("number");
+  expect(copies[1].createdAt).toBeNull();
+  for (const copy of copies)
+    expect((await readRecoveryCopy(key, copy.key)).favorites).toEqual([
+      "Vorher",
+    ]);
+  await expect(readRecoveryCopy(other, copies[0].key)).rejects.toThrow(
+    "gehört nicht",
+  );
+  await expect(listRecoveryCopies("current")).rejects.toThrow();
+  expect((await read(key))!.favorites).toEqual([]);
+});
 
 it("unterscheidet abgelehnte Anmeldung, zu große Sicherung, Überlastung und Serverfehler ohne private Servertexte anzuzeigen", async () => {
   for (const [status, expected] of [
