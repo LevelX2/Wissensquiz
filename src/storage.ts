@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { emptyState, questionSchema, type State } from "./model";
+import { emptyState, questionSchema, type State, type Question } from "./model";
 import { rebuild } from "./engine";
 import { matchesFilters } from "./filters";
 import { matchesTopic } from "./categories";
@@ -274,9 +274,89 @@ export function validateBackup(value: unknown): State {
   return s;
 }
 let database: Promise<IDBDatabase> | undefined;
+const catalogs = new Map<
+  string,
+  { serialized: string; questions: Question[]; revision?: string }
+>();
+const immutableCatalogs = new WeakSet<Question[]>();
+export const isImmutableCatalog = (questions: Question[]) =>
+  immutableCatalogs.has(questions);
+export type UpdateOptions = { reuseCatalog?: boolean };
+
+function freezeCatalog(questions: Question[]) {
+  if (immutableCatalogs.has(questions)) return questions;
+  function freeze(value: object) {
+    for (const child of Object.values(value))
+      if (child && typeof child === "object" && !Object.isFrozen(child))
+        freeze(child);
+    Object.freeze(value);
+  }
+  freeze(questions);
+  immutableCatalogs.add(questions);
+  return questions;
+}
+
+// Historical snapshots stay complete. Intern equal snapshots so IndexedDB's
+// structured clone stores shared objects once, even after hundreds of rounds.
+function compactRounds(state: State) {
+  const seen = new WeakMap<Question, Question>();
+  const content = new Map<string, Question>();
+  return state.rounds.map((round) => ({
+    ...round,
+    questions: round.questions.map((question) => {
+      const known = seen.get(question);
+      if (known) return known;
+      const signature = JSON.stringify(question);
+      const canonical = content.get(signature) ?? question;
+      content.set(signature, canonical);
+      seen.set(question, canonical);
+      return canonical;
+    }),
+  }));
+}
+
+function logicalState(
+  value: unknown,
+  serialized: unknown,
+  key: string,
+): State | undefined {
+  if (!value) return undefined;
+  const stored = value as State;
+  if (Array.isArray(stored.questions)) return stored;
+  const cached = catalogs.get(key);
+  // Full reads compare the exact persisted JSON string, including old clients.
+  // Keep version 38's compact layout and metadata references unchanged.
+  if (cached && cached.serialized === serialized) {
+    // Validate the actual catalog reference without parsing its large string again.
+    const raw = value as {
+      storageFormat: string;
+      questions: { key: string; encoding: string; revision?: string };
+    };
+    if (
+      raw.storageFormat !== "quiz-local-catalog-v1" ||
+      raw.questions.key !== catalogKey(key) ||
+      raw.questions.encoding !== "json-field-refs-v1"
+    )
+      throw new Error("Der lokale Fragenkatalog fehlt oder ist ungültig.");
+    cached.revision = raw.questions.revision;
+    const { storageFormat: _, ...fields } = value as State & {
+      storageFormat: string;
+    };
+    return { ...fields, questions: cached.questions };
+  }
+  const decoded = decodeLocalState(value as State, serialized, key);
+  if (decoded)
+    catalogs.set(key, {
+      serialized: serialized as string,
+      questions: freezeCatalog(decoded.questions),
+      revision: (value as { questions: { revision?: string } }).questions
+        .revision,
+    });
+  return decoded;
+}
+
 export function openDatabase() {
   return (database ??= new Promise<IDBDatabase>((resolve, reject) => {
-    // Old builds open version 1 and cannot write the separated catalog layout.
     const req = indexedDB.open("wissensquiz", 2);
     req.onupgradeneeded = () => {
       if (!req.result.objectStoreNames.contains("state"))
@@ -297,53 +377,135 @@ export function openDatabase() {
       reject(new Error("Bitte andere Wissensquiz-Fenster schließen."));
   }));
 }
+
 export async function update(
   mutator: (state: State) => void,
   initial?: State,
   key = "current",
+  options: UpdateOptions = {},
 ): Promise<State> {
   const db = await openDatabase();
   return new Promise((resolve, reject) => {
     const tx = db.transaction("state", "readwrite");
     const store = tx.objectStore("state");
     const req = store.get(key);
-    const catalog = store.get(catalogKey(key));
-    let result: State;
-    let failure: unknown;
-    catalog.onsuccess = () => {
+    let result: State, failure: unknown;
+    let nextCatalog:
+      | { serialized: string; questions: Question[]; revision?: string }
+      | undefined;
+    const apply = (loaded: State, currentSerialized: unknown) => {
       try {
-        result =
-          decodeLocalState(req.result, catalog.result, key) ??
-          initial ??
-          emptyState();
+        const prior = catalogs.get(key);
+        const questions = loaded.questions;
+        result = {
+          ...loaded,
+          questions: options.reuseCatalog
+            ? freezeCatalog(questions)
+            : structuredClone(questions),
+        };
         mutator(result);
-        // Compare exact content, not a hash: in-place edits and imports must be
-        // detected too. JSON avoids IndexedDB cloning thousands of nested objects.
-        const serialized = encodeQuestionCatalog(result.questions);
-        if (serialized !== catalog.result)
+        const reuse =
+          options.reuseCatalog && prior && result.questions === prior.questions;
+        const serialized = reuse
+          ? prior.serialized
+          : encodeQuestionCatalog(result.questions);
+        if (serialized !== currentSerialized)
           store.put(serialized, catalogKey(key));
-        store.put(encodeLocalState(result, key), key);
+        if (prior?.serialized === serialized)
+          result.questions = prior.questions;
+        const revision =
+          prior?.serialized === serialized
+            ? (prior.revision ?? crypto.randomUUID())
+            : crypto.randomUUID();
+        nextCatalog = { serialized, questions: result.questions, revision };
+        store.put(
+          encodeLocalState(
+            { ...result, rounds: compactRounds(result) },
+            key,
+            revision,
+          ),
+          key,
+        );
       } catch (error) {
         failure = error;
         tx.abort();
       }
     };
-    tx.oncomplete = () => resolve(result);
+    req.onsuccess = () => {
+      const cached = catalogs.get(key);
+      const raw = req.result as
+        | {
+            storageFormat?: string;
+            questions?: { key?: string; encoding?: string; revision?: string };
+          }
+        | undefined;
+      if (
+        options.reuseCatalog &&
+        cached?.revision &&
+        raw?.storageFormat === "quiz-local-catalog-v1" &&
+        raw.questions?.key === catalogKey(key) &&
+        raw.questions.encoding === "json-field-refs-v1" &&
+        raw.questions.revision === cached.revision
+      ) {
+        // Verify presence without cloning the multi-megabyte JSON string. An old
+        // client removes the optional revision and therefore takes the full read.
+        const present = store.getKey(catalogKey(key));
+        present.onsuccess = () => {
+          if (!present.result) {
+            failure = new Error(
+              "Der lokale Fragenkatalog fehlt oder ist ungültig.",
+            );
+            tx.abort();
+            return;
+          }
+          const { storageFormat: _, ...fields } = req.result;
+          apply({ ...fields, questions: cached.questions }, cached.serialized);
+        };
+      } else {
+        const catalog = store.get(catalogKey(key));
+        catalog.onsuccess = () => {
+          try {
+            apply(
+              logicalState(req.result, catalog.result, key) ??
+                initial ??
+                emptyState(),
+              catalog.result,
+            );
+          } catch (error) {
+            failure = error;
+            tx.abort();
+          }
+        };
+      }
+    };
+    tx.oncomplete = () => {
+      if (nextCatalog) {
+        freezeCatalog(nextCatalog.questions);
+        catalogs.set(key, nextCatalog);
+      }
+      resolve(result);
+    };
     tx.onerror = () => reject(failure ?? tx.error);
     tx.onabort = () =>
       reject(failure ?? tx.error ?? new Error("Speichern abgebrochen."));
   });
 }
+
 export async function read(key = "current"): Promise<State | undefined> {
   const db = await openDatabase();
   return new Promise((resolve, reject) => {
-    const tx = db.transaction("state");
-    const store = tx.objectStore("state");
-    const req = store.get(key);
-    const catalog = store.get(catalogKey(key));
+    const tx = db.transaction("state"),
+      store = tx.objectStore("state");
+    const req = store.get(key),
+      catalog = store.get(catalogKey(key));
     tx.oncomplete = () => {
       try {
-        resolve(decodeLocalState(req.result, catalog.result, key));
+        const result = logicalState(req.result, catalog.result, key);
+        resolve(
+          result
+            ? { ...result, questions: structuredClone(result.questions) }
+            : undefined,
+        );
       } catch (error) {
         reject(error);
       }

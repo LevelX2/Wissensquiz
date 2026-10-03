@@ -74,7 +74,9 @@ test("Tastatur, sichtbarer Fokus und automatisierte Barrierearmutsprüfung", asy
     ).violations,
   ).toEqual([]);
 });
-test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", async () => {
+test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", async ({
+  baseURL,
+}) => {
   const profile = await mkdtemp(join(tmpdir(), "wissensquiz-test-"));
   let context = await chromium.launchPersistentContext(profile, {
     headless: true,

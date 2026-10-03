@@ -2,7 +2,8 @@ import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 import { z } from "zod";
 import { openDatabase, read, restore, validateBackup } from "./storage";
 import type { State } from "./model";
-import { decodeCloudState, encodeCloudState } from "./cloudCodec";
+import { decodeCloudState } from "./cloudCodec";
+import { backgroundEncoding } from "./stateProcessing";
 
 const configSchema = z.object({
   enabled: z.boolean(),
@@ -102,9 +103,9 @@ export async function cloudSave(
   revision: number,
   ownerId: string,
 ) {
-  const checked = validateBackup(state);
+  const payload = await backgroundEncoding(state);
   const { data, error, status } = await client.rpc("quiz_save_state", {
-    payload: await encodeCloudState(checked),
+    payload,
     expected_revision: revision,
     expected_owner: ownerId,
   });
