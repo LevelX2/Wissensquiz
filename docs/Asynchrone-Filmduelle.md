@@ -1,5 +1,13 @@
 # Asynchrone Filmduelle
 
+## Private Übernahme in den neuen Kontopfad
+
+03.10.2026 lokal umgesetzt, noch nicht veröffentlicht: Eigene bestätigte Duellantworten gehen unverändert über `importDuelView` in den vollständigen privaten State ein. Der neue Eintragscompiler prüft bei diesen Importen auch Katalogänderungen; historische Duellfragen mit abweichenden Fassungen bleiben private Snapshotobjekte. Die tatsächlichen Antwortvarianten, Reihenfolgen und ursprünglichen before-Maps werden nicht gekürzt.
+
+Ein zusätzlicher Test übernimmt denselben Duellblock schrittweise mit drei, sechs und zehn Antworten, bewahrt eine alte before-Map mit 2.000 Zielen, bestehende Rate-Markierungen und historische Frageversionen und zählt Wiederholungen nicht doppelt. Getrennte Duell-RPCs, serverseitige Zeitprüfung, Gegnerprivatsphäre und Drei-Runden-Wertung bleiben bestehen. Der öffentliche Duellkatalog mit seinem früheren Umfang ersetzt nicht den vollständigen App-Katalog für Kontosicherungen.
+
+[Abnahme und neue Kontospeicherung](Speicher-und-Sync-Abnahme.md), [Übernahmeablauf](Speicher-und-Sync-Migration.md).
+
 Stand: 02.10.2026. Auf Nutzerauftrag umgesetzt und als Sites-Version 36 veröffentlicht; Servermigration und öffentlicher Duellkatalog mit 4.827 Fragen im bestehenden Supabase-Projekt eingerichtet. [Betriebsnachweis](Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026). Der [ursprüngliche Entwurf](Asynchrone-Filmduelle-Konzept.md) bleibt als historische Diskussionsgrundlage erhalten.
 
 ## Ablauf und Wertung

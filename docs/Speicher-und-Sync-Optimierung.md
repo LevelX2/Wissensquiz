@@ -1,5 +1,7 @@
 # Vorschläge zur Speicher- und Synchronisierungsoptimierung
 
+**Historische Ausgangsanalyse vom 03.10.2026.** Die vorgeschlagene Optimierung wurde anschließend vollständig lokal implementiert. Die ursprünglichen Messwerte und fachlichen Anforderungen bleiben hier unverändert erhalten. Aktueller Stand: [Abnahme](Speicher-und-Sync-Abnahme.md), [Migration](Speicher-und-Sync-Migration.md), [neuer physischer/Lastnachweis](Speicher-und-Sync-Messung.json). Produktion weiterhin unverändert.
+
 Stand: 03.10.2026. Analyse und Änderungsvorschläge; Anwendung, Produktionsdatenbank und veröffentlichte Site wurden nicht verändert. Die [Kapazitätsprüfung](Infrastruktur-und-Kapazitaet.md) beschreibt den bestehenden Betrieb.
 
 ## Ergebnis

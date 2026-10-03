@@ -8,15 +8,16 @@ Stand: 03.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 - **17 Quellenpakete, 5.677 Fragen, 5.147 Wissensziele, 530 Varianten**, 656 eingeordnete Filme und 100 Personen. Filmfragen, Preisträger und Schauspieler sind additive Fragenbereiche; Filmfilter begrenzen nur Filmfragen.
 - Filmreise, Freies Spiel, Rekordrunde und Fehlertraining; eigene Antwortwahl „Keine Ahnung“, direkte/gesammelte Lösungen, Karriere-XP, Rundenrückblicke und asynchrone Kontoduelle.
 - Gaststand lokal, bestätigte Kontostände automatisch privat online gesichert. Öffentliche Bestenliste/Gastaktivität und gemeinsame Trainingswertung sind dokumentiert; private Spielstände bleiben geschützt.
-- IndexedDB-Version 2 trennt Katalog und Fortschritt; JSON-Schema 1, IDs und historische Snapshots bleiben erhalten. Kein verpflichtendes Backend für Gastspiel.
-- **Strukturverbesserungen im eigenen Worktree `codex/strukturverbesserungen` umgesetzt; Freigabe ausstehend.** Acht sequenzielle Pakete, lokale Paketcommits, keine Main-Integration, Veröffentlichung oder Remote-Aktion. [Prozess](../docs/Strukturverbesserungen-Prozess.md), [Abnahme](../docs/Strukturverbesserungen-Abnahme.md), [ursprüngliche Prüfung](../docs/Strukturpruefung-2026-10-03.md).
+- Veröffentlichter Stand mit IndexedDB-Version 2; lokal Version 3 mit getrennten Kontoeinträgen und dauerhafter atomarer Outbox. JSON-Schema 1, IDs, große Ausgangslernstände und historische Snapshots bleiben erhalten. Kein verpflichtendes Backend für Gastspiel.
+- **Strukturverbesserungen und Speicher-/Sync-Optimierung im eigenen Worktree `codex/speicher-sync-optimierung` umgesetzt; Freigabe ausstehend.** Acht Strukturpakete, danach vier Speicher-/Sync-Pakete; lokale Paketcommits, keine Main-Integration, Veröffentlichung oder Remote-Aktion. [Strukturprozess](../docs/Strukturverbesserungen-Prozess.md), [neue Abnahme](../docs/Speicher-und-Sync-Abnahme.md), [ursprüngliche Prüfung](../docs/Strukturpruefung-2026-10-03.md).
+- Gemeinsame immutable offizielle Kataloge, private Abweichungen, gezielte Einträge/Paketbelege und kleine Ranglistenprojektionen lokal geprüft. 255 Tests in 42 Dateien, Build und 126 Browserfälle erfolgreich abgedeckt; ein bekannter WebKit-Fall ausgelassen. 100 synthetische Konten im nativen Lastlauf vollständig rekonstruiert, 64,1 % weniger physischer Anwendungsspeicher nach geprüfter Bereinigung. [Messdaten und Grenzen](../docs/Speicher-und-Sync-Messung.json).
 
 ## Offen
 
-- Nutzerfreigabe für die weitere Übernahme der Strukturverbesserungen; ein Hostingauftrag bleibt gesondert.
+- Nutzerfreigabe für den geprüften lokalen Gesamtstand. Produktionsmigration, Freigabe alter Ausgangskopien und Veröffentlichung benötigen eigene ausdrückliche Aufträge; [konkreter Ablauf](../docs/Speicher-und-Sync-Migration.md).
 - Echte Zwei-Konten-/Zwei-Geräte-Abnahme auf Mobilverbindungen, physische Geräte-/Hörprüfung und PWA-Installation auf dem Smartphone. Isolierte Browsernachweise ersetzen diese Abnahmen nicht.
 - Rückmeldungen zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und redaktioneller Bekanntheitseinteilung auswerten. Gelieferte Filmaussagen bei Bedarf einzeln fachlich prüfen; Quellenkennzeichnungen sind keine neue unabhängige Faktenprüfung.
-- Größere Katalog-Schreibpfade und öffentliche Statistikprojektionen erst bei belegtem Wachstumsbedarf mit eigener Messung/Vertragsprüfung optimieren. Die Startdatei bleibt trotz getrennt geladener Ansichten groß.
+- Produktionsquote, Migrationszwischenbedarf und reale API-/Mobilverbindungen nach einem beauftragten Rollout prüfen. Die lokale Messung garantiert keine Free-/Nano-Kapazität. Die Startdatei bleibt trotz getrennt geladener Ansichten groß.
 
 ## Einstieg und Verträge
 

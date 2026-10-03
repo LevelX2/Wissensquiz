@@ -1,5 +1,17 @@
 # Organisation der Fragedaten
 
+## Kontokatalog und Eintragsspeicherung – lokal vorbereitet am 03.10.2026
+
+Die aktuelle lokale Datenbankversion ist **3**. Gaststände behalten das getrennte v2-Kataloglayout im Store `state`; migrierte Konten erhalten `entryHeads`, `entryRows`, `entryObjects`, `syncOutbox`, `syncReleases` und `entryMigrations`. Speicherlayout und Protokoll haben eigene Versionen; vollständige JSON-Sicherung bleibt Schema 1.
+
+Offizielle Kataloge entstehen durch den vollständigen tatsächlichen App-Importer einschließlich generierter Fragen, Kategoriezuordnung und Metadaten. Exakt gleicher Inhalt bekommt eine unveränderliche SHA-256-Version. Ein Konto referenziert zusammenhängende Ausschnitte und seine privaten Ergänzungen statt tausender Zuordnungszeilen oder einer vollständigen Kopie. Fehlende/abweichende Inhalte bleiben private SHA-256-Objekte mit verlustfreiem Kodierungsvertrag; historische öffentliche Releases werden durch Kontoreferenzen erhalten.
+
+Rundensnapshots und tatsächliche Jahresalternativen bleiben eigenständige ursprüngliche Inhalte. Große alte `round.before`-Maps werden vollständig erhalten und immutable referenziert. Normale Antworten hashen/komprimieren nicht den ganzen Katalog oder Gesamtstand erneut. Die Schema-Normalisierung vor Inhaltsnachweisen verhindert künstliche Änderungen durch unterschiedliche JSON-Feldreihenfolge; Metadatenwerte und Antwortreihenfolge bleiben erhalten.
+
+`scripts/prepare-sync-catalog.mjs` erzeugt lokal geprüfte Operatorartefakte aus öffentlichen Quellen; keine Produktionsverbindung. Der vorhandene kleinere Duellkatalog ist kein Ersatz für diese 5.677 App-Fragen. Eigene Importe dürfen nicht in öffentliche Releases gelangen.
+
+[Implementierung und Messung](Speicher-und-Sync-Abnahme.md), [Migrationsvertrag](Speicher-und-Sync-Migration.md). Die nachfolgende Beschreibung und Größenmessung dokumentieren die bisherige v2-Organisation und bleiben als Ausgangsnachweis erhalten.
+
 Stand: 03.10.2026, lokal umgesetzt. Die Grundstruktur passt zum aktuellen Bestand: 17 Quellenpakete, 5.677 eindeutige Fragen, 5.147 Wissensziele und 530 ausdrücklich verknüpfte Varianten. Fragenidentität, Wissensziel, Genre, Zusatzkategorie und historische Inhaltsversion haben unterschiedliche Aufgaben und bleiben getrennt. Alle Pakete sind strukturell gültig und bytegleich mit ihren Rohquellen. Die Prüfung bewertet Organisation und Speicherung; sie bestätigt keine neuen fachlichen Filmaussagen.
 
 ## Quellen und Zuständigkeiten

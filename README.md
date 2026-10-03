@@ -2,7 +2,7 @@
 
 Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Als Gast funktioniert es ohne Konto oder verpflichtendes Backend; ein eigenes Quiz-Konto ergänzt private Online-Sicherung und Duelle.
 
-Stand 03.10.2026: 17 Quellenpakete, **5.677 Fragen und 5.147 Wissensziele**, 656 eingeordnete Filme und 100 Personen. Letzte dokumentierte Veröffentlichung: **Sites-Version 39**. Die [Strukturverbesserungen](docs/Strukturverbesserungen-Prozess.md) liegen im eigenen Worktree und warten auf Freigabe; sie sind noch nicht integriert oder veröffentlicht. Frühere Meldungen bleiben in der [README-Historie](README-Historie-2026-10-03.md) erhalten.
+Stand 03.10.2026: 17 Quellenpakete, **5.677 Fragen und 5.147 Wissensziele**, 656 eingeordnete Filme und 100 Personen. Letzte dokumentierte Veröffentlichung: **Sites-Version 39**. [Strukturverbesserungen](docs/Strukturverbesserungen-Prozess.md) und die anschließende [Speicher-/Sync-Optimierung](docs/Speicher-und-Sync-Abnahme.md) liegen im eigenen Worktree auf `codex/speicher-sync-optimierung` und warten auf Freigabe; noch nicht integriert oder veröffentlicht. Frühere Meldungen bleiben in der [README-Historie](README-Historie-2026-10-03.md) erhalten.
 
 ## Starten
 
@@ -33,9 +33,9 @@ Die maßgeblichen Regeln stehen in [Lernregeln](docs/Lernregeln.md), [Fragenbere
 
 ## Speicherung und Offlinebetrieb
 
-Der Gaststand bleibt lokal in IndexedDB. Angemeldete Konten werden nach lokaler Speicherung automatisch privat in Supabase gesichert; Revisionen verhindern stilles Überschreiben konkurrierender Stände. Konto und Gast bleiben getrennt. Vor Gerätewechsel die aktuelle Onlinebestätigung abwarten. Der Struktur-Worktree ergänzt Wartegrenzen, Datum der letzten Bestätigung, exportierbare Rückfallkopien und einen erneuten Kontodienstabruf; [Vertrag](docs/Konten-und-Spielstaende.md).
+Der Gaststand bleibt lokal in IndexedDB. Angemeldete Konten werden nach lokaler Speicherung automatisch privat in Supabase gesichert; Revisionen verhindern stilles Überschreiben konkurrierender Stände. Konto und Gast bleiben getrennt. Vor Gerätewechsel die aktuelle Onlinebestätigung abwarten. Lokal ergänzt: dauerhafte atomare Änderungswarteschlange, bestätigte Paketwiederholung, gezielter Revisionsabruf, Wartegrenzen, exportierbare Rückfallkopien und kleine Ranglistenprojektionen; [Vertrag](docs/Konten-und-Spielstaende.md).
 
-Lokaler Katalog und Fortschritt liegen getrennt in IndexedDB-Version 2; vollständige JSON-Sicherungen behalten Schema 1 und historische Rundensnapshots. Die PWA hält App-Dateien, Nebenansichten und Fragenpakete offline bereit. Ein neues Update aktiviert erst nach dem Schließen alter Quiz-Fenster. Private Spielstände sind kein Teil der Veröffentlichungsdateien. [Datenorganisation](docs/Fragedaten-Organisation.md).
+Die lokale Umsetzung verwendet IndexedDB-Version 3: Gaststände behalten das getrennte Kataloglayout, migrierte Konten getrennte Einträge und gemeinsame unveränderliche offizielle Kataloge. Private Importe und historische Snapshotinhalte bleiben kontogebunden. Vollständige JSON-Sicherungen behalten Schema 1. Die PWA hält App-Dateien, Nebenansichten und Fragenpakete offline bereit. Ein neues Update aktiviert erst nach dem Schließen alter Quiz-Fenster. Private Spielstände sind kein Teil der Veröffentlichungsdateien. [Datenorganisation](docs/Fragedaten-Organisation.md), [vorbereiteter Produktionsablauf](docs/Speicher-und-Sync-Migration.md).
 
 ## Projektaufbau
 
@@ -45,7 +45,8 @@ Lokaler Katalog und Fortschritt liegen getrennt in IndexedDB-Version 2; vollstä
 | `src/QuestionScreen.tsx`, `RoundResult.tsx`, `Explanation.tsx` | Gemeinsame Solo-/Duell-Spielansichten |
 | `src/engine.ts` und Fachmodule | Auswahl, Antworten, Lernen, Fehlertraining, Karriere und Freischaltungen |
 | `src/questionSchema.ts`, `backupSchema.ts`, `backupValidation.ts` | Gemeinsame Typ-/Sicherungsverträge und fachliche Validierung |
-| `src/storage.ts`, `localCatalog.ts`, `catalogCodec.ts` | Transaktionen und verlustfreie lokale Kodierung |
+| `src/storage.ts`, `database.ts`, `localCatalog.ts`, `catalogCodec.ts` | Speicherfassade, lokale Migration und verlustfreie Gastkodierung |
+| `src/syncCodec.ts`, `entryStorage.ts`, `entryRemote.ts`, `entrySync.ts` | Inhaltsnachweise, atomare Outbox, Konto-Einträge und Revisionsprotokoll |
 | `src/AccountApp.tsx`, `AccountPanel.tsx`, `AccountLinkPanel.tsx` | Kontosteuerung, Profil-/Anmeldeformular und Rückkehr aus Kontolinks |
 | `src/accounts.ts`, `accountSync.ts` | Kontodienst, privater Fortschritt und Revisionsschutz |
 | `src/style.css`, `src/styles/` | Dokumentierte CSS-Importfolge mit erhaltener Kaskade |
@@ -63,4 +64,4 @@ git diff --check
 
 Browserprüfungen verwenden isolierte Profile, kontrollierte Zeit und abgefangene Kontodienste. Bei Abhängigkeitsänderungen zusätzlich `npm audit`. Für Quellenorganisation: `npm run check:questions`; daraus erzeugte Berichte nur bei einem tatsächlichen Datenprüfauftrag übernehmen.
 
-Aktueller Nachweis und Grenzen: [Struktur-Abnahme](docs/Strukturverbesserungen-Abnahme.md), [Prüfbericht](docs/Pruefbericht.md), [Qualitätsprozess](KI-Wissen-Wissensquiz/03%20Betrieb/Qualitaetspruefung.md). Projektregeln: [AGENTS.md](AGENTS.md); Einstieg: [Projektstart](KI-Wissen-Wissensquiz/00%20Projektstart.md) und [Wissensindex](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md). Remote, Push, Integration und Veröffentlichung benötigen den jeweils ausdrücklichen Auftrag.
+Aktueller Nachweis und Grenzen: [Speicher-/Sync-Abnahme](docs/Speicher-und-Sync-Abnahme.md), [Messdaten](docs/Speicher-und-Sync-Messung.json), [Struktur-Abnahme](docs/Strukturverbesserungen-Abnahme.md), [Prüfbericht](docs/Pruefbericht.md), [Qualitätsprozess](KI-Wissen-Wissensquiz/03%20Betrieb/Qualitaetspruefung.md). Projektregeln: [AGENTS.md](AGENTS.md); Einstieg: [Projektstart](KI-Wissen-Wissensquiz/00%20Projektstart.md) und [Wissensindex](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md). Remote, Push, Integration und Veröffentlichung benötigen den jeweils ausdrücklichen Auftrag.

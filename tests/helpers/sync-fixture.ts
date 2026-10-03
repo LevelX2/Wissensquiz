@@ -20,6 +20,11 @@ export async function syncFixture(stopBefore?: string) {
     .filter((file) => !stopBefore || file < stopBefore))
     await db.exec(readFileSync(`supabase/migrations/${file}`, "utf8"));
   const argumentsByName: Record<string, string[]> = {};
+  argumentsByName.quiz_save_state = [
+    "payload",
+    "expected_revision",
+    "expected_owner",
+  ];
   for (const file of readdirSync("supabase/migrations")
     .filter((f) => f.endsWith(".sql"))
     .sort()) {

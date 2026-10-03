@@ -69,6 +69,14 @@ async function server() {
         body = route.request().postDataJSON() ?? {};
       if (path.endsWith("/token")) return route.fulfill({ json: session(id) });
       if (path.endsWith("/user")) return route.fulfill({ json: user(id) });
+      if (path.endsWith("/quiz_sync_metadata"))
+        return route.fulfill({
+          status: 404,
+          json: {
+            code: "PGRST202",
+            message: "Legacy fixture has no entry protocol",
+          },
+        });
       if (path.endsWith("/quiz_saves"))
         return route.fulfill({ json: saves.has(id) ? [saves.get(id)] : [] });
       if (path.endsWith("/quiz_save_state")) {

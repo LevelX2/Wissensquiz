@@ -1,5 +1,17 @@
 # Infrastruktur und Kapazität
 
+## Lokale Umsetzung und Messung am 03.10.2026
+
+Die Speicher-/Sync-Optimierung ist lokal implementiert und geprüft; Produktion und Tarif bleiben unverändert. [Abnahme](Speicher-und-Sync-Abnahme.md), [Betreiberablauf](Speicher-und-Sync-Migration.md) und [Messdaten](Speicher-und-Sync-Messung.json) ergänzen die nachfolgende ursprüngliche Betriebsanalyse.
+
+100 synthetische Konten mit vollständigem App-Katalog und je 30 historischen Runden: physische Anwendungsbelegung einschließlich TOAST und Indizes 357,0 → 128,1 MB, rund 64,1 % weniger. Während der Übernahme mit eingefrorenen Ausgangskopien waren 483,1 MB nötig. Erst geprüfte aktuelle Exporte und kontrollierte Betreiberfreigabe machen die alte Kopie entbehrlich. Reale Konten/Importe können einen anderen Zwischenbedarf erzeugen.
+
+Die normale Antwort braucht im geprüften Bereich von 0 bis 300 älteren Runden einen JSON-Anfragekörper von 3,9–6,0 KB. Einstellung 494 Bytes; unveränderter Wiederabruf nur Revisionsmetadaten. Neue Browser müssen Katalog und Historie vollständig beziehen. Bei langen Historien ist dieser Erstabruf nicht durchgehend kleiner als die alte komprimierte Vollsicherung.
+
+Die native PostgreSQL-17.11-Messung mit 100 gleichzeitigen lokalen SQL-Sitzungen ergab 87/411 ms Median/P95 für Schreiben gegenüber 21.801/66.640 ms zuvor; XP-Listen 100/114 ms gegenüber 336.819/336.922 ms. Je 1.100 Schreibtransaktionen ohne Fehler, alle 100 Endstände vollständig identisch rekonstruiert. Vorbereitete SQL-Nutzlasten schließen HTTP, Authentifizierung, JSON-Anfrageparsing und Supabase-Netz-/Poolgrenzen aus. WAL enthält Hintergrundarbeit im Clusterintervall. Eine zugesicherte Produktionskapazität oder Tarifänderung folgt daraus nicht.
+
+Die folgenden Größen und Ausbauempfehlungen sind die unveränderte Ausgangsanalyse des damaligen Produktionsstands.
+
 ## Einschätzung am 03.10.2026
 
 100 gleichzeitige Gastspiele sind wegen des überwiegend lokalen Spielablaufs plausibel. Für 100 gleichzeitig aktive, angemeldete Spieler ist der aktuelle kostenlose Datenbankbetrieb noch nicht ausreichend nachgewiesen. Kontosicherungen übertragen bei Änderungen den vollständigen komprimierten Stand; Ranglisten werten historische Antworten aus. Ein Lasttest mit 100 Spielern wurde nicht durchgeführt.

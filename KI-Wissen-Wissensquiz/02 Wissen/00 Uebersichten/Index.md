@@ -9,6 +9,10 @@
 
 ## Spielbare Testversion
 
+- [Abnahme der lokalen Speicher-/Sync-Optimierung](../../../docs/Speicher-und-Sync-Abnahme.md)
+- [Vorbereiteter Produktionsablauf mit Sicherung, Migration und Rückfall](../../../docs/Speicher-und-Sync-Migration.md)
+- [Native PostgreSQL- und Anfragegrößenmessung mit 100 synthetischen Konten](../../../docs/Speicher-und-Sync-Messung.json)
+
 - [Speicher- und Sync-Umsetzung: lokale Paketfolge, Migration und Prüfnachweise](../../../docs/Speicher-und-Sync-Umsetzung.md)
 - [Speicher- und Sync-Analyse: Ausgangsmessungen und vollständiger Zielvertrag](../../../docs/Speicher-und-Sync-Optimierung.md)
 - [Infrastruktur und Kapazität: bisherige Belegung und Grenzen](../../../docs/Infrastruktur-und-Kapazitaet.md)

@@ -22,6 +22,7 @@ export const metadataSchema = z.object({
   generation: z.string().uuid().nullable(),
   revision: z.number().int().nonnegative(),
   cursorFloor: z.number().int().nonnegative(),
+  paused: z.boolean().optional(),
 });
 export type SyncMetadata = z.infer<typeof metadataSchema>;
 export type SyncConfirmation = {
@@ -183,19 +184,17 @@ export async function downloadDocument(
     (hash) => !document.objects.has(hash),
   );
   for (let at = 0; at < missing.length; at += 100) {
-    const objects = z
-      .array(objectSchema)
-      .parse(
-        await api.call(
-          "quiz_sync_objects",
-          {
-            expected_owner: owner,
-            target_generation: generation,
-            object_hashes: missing.slice(at, at + 100),
-          },
-          30_000,
-        ),
-      );
+    const objects = z.array(objectSchema).parse(
+      await api.call(
+        "quiz_sync_objects",
+        {
+          expected_owner: owner,
+          target_generation: generation,
+          object_hashes: missing.slice(at, at + 100),
+        },
+        30_000,
+      ),
+    );
     for (const item of objects) {
       let text = item.text ?? "";
       if (item.text === null) {

@@ -549,6 +549,14 @@ async function mockAccounts(page: Page, server: Server = new Map()) {
     const path = new URL(request.url()).pathname;
     const body = request.postDataJSON() ?? {};
     requests.push({ path, body });
+    if (path.endsWith("/quiz_sync_metadata"))
+      return route.fulfill({
+        status: 404,
+        json: {
+          code: "PGRST202",
+          message: "Legacy fixture has no entry protocol",
+        },
+      });
     if (path.endsWith("/token")) {
       current = body.email === "bob@example.test" ? bob : alice;
       return route.fulfill({ json: session(current) });

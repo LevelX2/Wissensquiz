@@ -1,5 +1,11 @@
 # Filmkarriere und Erfahrungspunkte
 
+## Erhaltener XP-Vertrag bei Eintragssynchronisierung
+
+03.10.2026 lokal umgesetzt, noch nicht veröffentlicht: Karriere-XP werden weiterhin durch den bestehenden App-Replay berechnet. Die Speicher-/Ranglistenoptimierung vereinfacht sie nicht zu einem Zähler je Antwort. Tagesgrenzen, Varianten desselben Wissensziels, Erstlösung, Fehlerkorrektur, Festigung, ursprüngliche Lernstände und `career.legacyBonus` bleiben vollständig erhalten. Die kleine SQL-Projektion übernimmt bestätigte Karrierewerte nach dem bestehenden v1-Karrierevertrag; der frühere Legacy-Rückfall bleibt in der SQL-Ableitung berücksichtigt.
+
+Antworten und Runden bleiben mit Reihenfolge und historischen Snapshots rekonstruierbar; Vollsicherungen und Wiederherstellungen bewahren Karrieregutschriften und Freischaltungen. Vergleichstests prüfen App und bisherige/neue SQL-Ergebnisse sowie Rate-Korrekturen, Tagesgrenzen und Legacybonus. [Speicher-/Sync-Abnahme](Speicher-und-Sync-Abnahme.md). Die folgenden Fachregeln ändern sich nicht.
+
 Seit Sites-Version 36 am 02.10.2026 veröffentlicht: steigende Levelhürden, leistungsabhängige XP, fünf Karrieretitel und sichtbarer Fortschritt im Profil, in der Sammlung, auf den Hauptseiten und nach einer Runde. Spielerlevel erscheinen auch in beiden gemeinsamen Ranglisten. Karriereaufträge bleiben auf ausdrücklichen Nutzerwunsch für eine spätere Entscheidung offen.
 
 Die [Migration 202610020004](../supabase/migrations/202610020004_film_career.sql) wurde am 02.10.2026 auf dem bestehenden Serverstand nach Migration 003 erfolgreich angewendet. Live geprüft: XP in beiden Ranglisten, neue und übertragene Karrierewerte, unveränderte Konto-Ausführung und gesperrte anonyme sowie direkte Helferrechte. Private Spielstände wurden nicht verändert. Die neue App ist im gemeinsamen Release als Version 36 veröffentlicht; [Betriebsstand](Sites-Betrieb.md).

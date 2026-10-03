@@ -247,11 +247,17 @@ test("Neuladen während der Lösungsanzeige bewahrt die Wahl; Offline-Fortsetzen
   await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
   await expect(page.locator(".solution-reveal")).toBeVisible();
   await page.clock.runFor(1100);
-  // Flush the reveal effect before advancing to completion on WebKit as well.
-  await expect.poll(async () => {
-    await page.clock.runFor(100);
-    return page.locator(".solution-reveal").count();
-  }).toBe(0);
+  // The passive effect may register its timer after the first clock advance.
+  // Give it enough virtual time within the bounded poll, including on WebKit.
+  await expect
+    .poll(
+      async () => {
+        await page.clock.runFor(400);
+        return page.locator(".solution-reveal").count();
+      },
+      { intervals: [100] },
+    )
+    .toBe(0);
   await page.getByRole("button", { name: "Runde abschließen" }).click();
   expect(
     (await readState(page)).events.filter(

@@ -1,6 +1,13 @@
 import { test as base, type BrowserContext, type Page } from "@playwright/test";
 import { catalogKey, decodeLocalState } from "../../src/localCatalog";
 import type { State } from "../../src/model";
+import {
+  verifyRelease,
+  reconstructState,
+  type SyncRow,
+  type SyncObject,
+  type CatalogRelease,
+} from "../../src/syncCodec";
 export { expect, chromium, type Page } from "@playwright/test";
 export const testBaseUrl = `http://localhost:${process.env.WISSENSQUIZ_BROWSER_PORT ?? 4173}`;
 
@@ -9,6 +16,64 @@ export async function readStoredState(
   page: Page,
   key = "current",
 ): Promise<State> {
+  const entries = await page.evaluate(
+    (key) =>
+      new Promise<
+        | { rows: SyncRow[]; objects: SyncObject[]; releases: CatalogRelease[] }
+        | undefined
+      >((resolve, reject) => {
+        const request = indexedDB.open("wissensquiz");
+        request.onerror = () => reject(request.error);
+        request.onsuccess = () => {
+          const db = request.result;
+          if (!db.objectStoreNames.contains("entryHeads")) {
+            db.close();
+            resolve(undefined);
+            return;
+          }
+          const tx = db.transaction([
+              "entryHeads",
+              "entryRows",
+              "entryObjects",
+              "syncReleases",
+            ]),
+            head = tx.objectStore("entryHeads").get(key),
+            range = IDBKeyRange.bound([key], [key, []]);
+          const rows = tx.objectStore("entryRows").getAll(range),
+            objects = tx.objectStore("entryObjects").getAll(range),
+            releases = tx.objectStore("syncReleases").getAll();
+          tx.oncomplete = () => {
+            db.close();
+            resolve(
+              head.result
+                ? {
+                    rows: rows.result,
+                    objects: objects.result,
+                    releases: releases.result,
+                  }
+                : undefined,
+            );
+          };
+          tx.onerror = () => {
+            db.close();
+            reject(tx.error);
+          };
+        };
+      }),
+    key,
+  );
+  if (entries)
+    return reconstructState(
+      {
+        rows: new Map(
+          entries.rows.map((row) => [`${row.kind}:${row.id}`, row]),
+        ),
+        objects: new Map(
+          entries.objects.map((object) => [object.hash, object]),
+        ),
+      },
+      await Promise.all(entries.releases.map(verifyRelease)),
+    );
   const stored = await page.evaluate(
     ({ key, catalogKey }) =>
       new Promise<{ state: any; catalog: unknown }>((resolve, reject) => {

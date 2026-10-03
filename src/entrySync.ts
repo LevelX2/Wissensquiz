@@ -30,6 +30,8 @@ import {
   migrationPlan,
   readEntryDocument,
   readEntryHead,
+  rebaseLegacyGeneration,
+  updateEntries,
   readOutbox,
   rememberRelease,
   releaseHashes,
@@ -66,6 +68,10 @@ export async function createAccountSync(
 ): Promise<SyncController> {
   try {
     const metadata = await getMetadata(api, owner);
+    if (metadata.paused) {
+      api.stop();
+      return new AccountSync(legacy, notify);
+    }
     return new EntrySync(api, owner, key, legacy, notify, undefined, metadata);
   } catch (error) {
     // Only an explicitly absent protocol permits the controlled legacy rollout.
@@ -128,6 +134,28 @@ export class EntrySync implements SyncController {
     let metadata = this.metadata ?? (await getMetadata(this.api, this.owner));
     this.metadata = undefined;
     let head = await readEntryHead(this.key);
+    let resumedLegacy = false;
+    if (head?.generation && metadata.generation === null) {
+      const [remote, local] = await Promise.all([
+        requestWithin((signal) => this.legacy.remote(signal)),
+        this.legacy.local(),
+      ]);
+      if (
+        !remote ||
+        !local ||
+        !jsonEqual(validateBackup(local), validateBackup(remote.state))
+      ) {
+        this.report("conflict");
+        return;
+      }
+      await rebaseLegacyGeneration(
+        this.key,
+        remote.revision,
+        head.localVersion,
+      );
+      head = await readEntryHead(this.key);
+      resumedLegacy = true;
+    }
     if (!head) {
       const [local, receipt] = await Promise.all([
         this.legacy.local(),
@@ -191,6 +219,10 @@ export class EntrySync implements SyncController {
           ),
         ),
       );
+    if (resumedLegacy) {
+      await updateEntries(() => {}, this.key, { progressOnly: false });
+      head = await readEntryHead(this.key);
+    }
     const plan = await existingMigrationPlan(this.key);
     if (plan && metadata.generation === plan.target) {
       await finishMigration(this.key, plan, plan.revision + 1, Date.now());
@@ -227,13 +259,21 @@ export class EntrySync implements SyncController {
         head!.revision,
       );
       await this.useCatalogs(loaded.catalogs);
-      await acceptRemoteDocument(
-        this.key,
-        loaded.document,
-        loaded.metadata.generation!,
-        loaded.metadata.revision,
-        head!.localVersion,
-      );
+      try {
+        await acceptRemoteDocument(
+          this.key,
+          loaded.document,
+          loaded.metadata.generation!,
+          loaded.metadata.revision,
+          head!.localVersion,
+        );
+      } catch (error) {
+        if ((await readOutbox(this.key)).length) {
+          this.report("conflict");
+          return;
+        }
+        throw error;
+      }
     }
     if (pending.length) {
       this.report("saving");
@@ -337,9 +377,12 @@ export class EntrySync implements SyncController {
     const head = (await readEntryHead(this.key))!;
     if (!head.generation) throw new Error("Die Kontogeneration fehlt.");
     let text = item.packet;
+    const target = text
+      ? (JSON.parse(text) as SyncPacket).generation
+      : head.generation;
+    for (const object of item.delta.objects)
+      await uploadObject(this.api, this.owner, target, object);
     if (!text) {
-      for (const object of item.delta.objects)
-        await uploadObject(this.api, this.owner, head.generation, object);
       const packet: SyncPacket = {
         format: SYNC_FORMAT,
         protocol: SYNC_PROTOCOL,
@@ -454,6 +497,12 @@ export class EntrySync implements SyncController {
       );
       if (!remote) throw new Error("Online-Spielstand nicht gefunden.");
       await this.legacy.replace(remote.state);
+      if (head)
+        await rebaseLegacyGeneration(
+          this.key,
+          remote.revision,
+          head.localVersion + 1,
+        );
       await this.legacy.acknowledge({
         revision: remote.revision,
         fingerprint: await fingerprint(remote.state),

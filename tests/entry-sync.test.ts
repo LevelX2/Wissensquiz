@@ -22,6 +22,7 @@ import {
 } from "../src/entryStorage";
 import { getMetadata, MissingSyncProtocol } from "../src/entryRemote";
 import type { SyncStore } from "../src/accountSync";
+import { importDuelView, type DuelView } from "../src/duels";
 
 let fixture: Awaited<ReturnType<typeof syncFixture>>, release: PreparedRelease;
 const now = 1700000000000;
@@ -293,6 +294,254 @@ it("prüft große ursprüngliche before-Maps samt Unicode und privaten Katalogin
     Object.keys(before.rounds[0].before).length,
   );
   sync.stop();
+});
+
+it("übernimmt Duellteilimporte und Rate-Korrekturen ohne Kürzen ursprünglicher großer before-Maps", async () => {
+  const { key, engine } = await setup(),
+    duelId = crypto.randomUUID();
+  const view: DuelView = {
+    duel: {
+      id: duelId,
+      opponent: "Synthetisch",
+      status: "active",
+      kind: "invite",
+      solutionDisplay: "question",
+      round: 1,
+      myTurn: true,
+      dueAt: now + 86400000,
+      createdAt: now,
+      reason: null,
+      result: null,
+      invitation: null,
+      rounds: [1, 2, 3].map((number) => ({
+        number,
+        answered: 0,
+        mine: null,
+        opponent: null,
+      })),
+    },
+    number: 1,
+    answered: 10,
+    current: null,
+    serverNow: now + 10000,
+    items: [
+      ...new Map(
+        importCsv(readFileSync("public/fragen.csv", "utf8")).questions.map(
+          (q) => [q.knowledgeId, q],
+        ),
+      ).values(),
+    ]
+      .slice(0, 10)
+      .map((question, i) => ({
+        question: structuredClone(question),
+        order: question.answers.map((a) => a.id),
+        event: {
+          answerId: question.correctId,
+          dontKnow: false,
+          correct: true,
+          guessed: false,
+          at: now + i * 1000,
+          elapsedMs: 1000,
+        },
+      })),
+  };
+  view.items[9].question.version = "historisches-duell-v0";
+  await update(
+    (s) => {
+      for (let i = 0; i < 2000; i++)
+        s.learning[`alt-${i}`] = {
+          knowledgeId: `alt-${i}`,
+          stage: 0,
+          status: "entdeckt",
+          due: 0,
+          lastSecure: null,
+          lastSeenAt: null,
+          lastAdvancedDay: null,
+          secureDays: [],
+          seen: 0,
+        };
+      importDuelView(s, { ...view, items: view.items.slice(0, 3) });
+    },
+    undefined,
+    key,
+  );
+  const sync = engine();
+  await sync.prepare();
+  expect(sync.status).toBe("saved");
+  const before = structuredClone((await read(key))!.rounds[0].before);
+  expect(Object.keys(before)).toHaveLength(2000);
+  view.items[0].event.guessed = true;
+  await update(
+    (s) => importDuelView(s, { ...view, items: view.items.slice(0, 6) }),
+    undefined,
+    key,
+    { progressOnly: false },
+  );
+  await sync.flush();
+  expect(sync.status).toBe("saved");
+  expect((await read(key))!.events).toHaveLength(6);
+  expect((await read(key))!.events[0].guessed).toBe(true);
+  expect((await read(key))!.rounds[0].before).toEqual(before);
+  await update((s) => importDuelView(s, view), undefined, key, {
+    progressOnly: false,
+  });
+  await sync.flush();
+  expect(sync.status).toBe("saved");
+  const result = (await read(key))!;
+  expect(result.events).toHaveLength(10);
+  expect(result.rounds[0].status).toBe("completed");
+  expect(result.rounds[0].before).toEqual(before);
+  expect(result.rounds[0].questions[9].version).toBe("historisches-duell-v0");
+  await update((s) => importDuelView(s, view), undefined, key, {
+    progressOnly: false,
+  });
+  await sync.flush();
+  expect(await readOutbox(key)).toHaveLength(0);
+  sync.stop();
+});
+
+it("bestätigt mehrseitige Erstabrufe konsistent und erhält während eines Downloads neu entstandene lokale Änderungen", async () => {
+  const { owner, key, api, engine, legacy } = await setup();
+  await update(
+    (s) => {
+      s.questions = s.questions.slice(0, 1);
+      for (let i = 0; i < 210; i++) {
+        const r = startRound(
+          s,
+          { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+          now + i * 86400000,
+        );
+        answer(
+          s,
+          r.id,
+          r.questions[0].id,
+          r.questions[0].correctId,
+          1000,
+          r.startedAt + 1000,
+        );
+        r.status = "completed";
+        r.finishedAt = r.startedAt + 2000;
+      }
+    },
+    undefined,
+    key,
+  );
+  const sync = engine();
+  await sync.prepare();
+  expect(sync.status).toBe("saved");
+  sync.stop();
+  const foreign = async () => {
+    const meta = await getMetadata(api, owner);
+    return api.call("quiz_sync_apply", {
+      packet_text: stableStringify({
+        format: SYNC_FORMAT,
+        protocol: 1,
+        id: crypto.randomUUID(),
+        owner,
+        generation: meta.generation,
+        expectedRevision: meta.revision,
+        objects: [],
+        changes: [
+          {
+            op: "put",
+            row: {
+              kind: "field",
+              id: "settings",
+              position: 0,
+              value: { ...(await read(key))!.settings, sound: false },
+            },
+          },
+        ],
+      }),
+    });
+  };
+  api.calls.length = 0;
+  api.hook(async (name) => {
+    if (name === "quiz_sync_page") {
+      api.hook(undefined);
+      await foreign();
+    }
+  });
+  const secondKey = `${key}:new-device`,
+    newDevice = new EntrySync(
+      api,
+      owner,
+      secondKey,
+      { ...legacy, local: async () => undefined },
+      () => {},
+      async () => release,
+    );
+  await newDevice.prepare();
+  expect(newDevice.status).toBe("saved");
+  expect((await read(secondKey))!.events).toHaveLength(210);
+  expect((await read(secondKey))!.settings.sound).toBe(false);
+  expect(
+    api.calls.filter((c) => c.name === "quiz_sync_page").length,
+  ).toBeGreaterThan(3);
+  newDevice.stop();
+  api.hook(async (name) => {
+    if (name === "quiz_sync_page") {
+      api.hook(undefined);
+      await update(
+        (s) => {
+          s.settings.haptics = true;
+        },
+        undefined,
+        key,
+        { progressOnly: true },
+      );
+    }
+  });
+  const reopened = engine();
+  await reopened.prepare();
+  expect(reopened.status).toBe("conflict");
+  expect((await read(key))!.settings.haptics).toBe(true);
+  expect(await readOutbox(key)).toHaveLength(1);
+  reopened.stop();
+}, 15000);
+
+it("lässt bei Kontowechsel einen schon versandten Stand unverändert in dessen eigener Outbox", async () => {
+  const first = await setup(),
+    second = await setup(),
+    sync = first.engine();
+  await sync.prepare();
+  await update(
+    (s) => {
+      s.settings.sound = false;
+    },
+    undefined,
+    first.key,
+    { progressOnly: true },
+  );
+  let releaseCall!: () => void, entered!: () => void;
+  const gate = new Promise<void>((resolve) => (releaseCall = resolve)),
+    started = new Promise<void>((resolve) => (entered = resolve)),
+    original = first.api.call;
+  first.api.call = async (name, args, timeout) => {
+    if (name === "quiz_sync_apply") {
+      entered();
+      await gate;
+    }
+    return original(name, args, timeout);
+  };
+  const sending = sync.flush();
+  await started;
+  sync.stop();
+  const other = second.engine();
+  await other.prepare();
+  expect(other.status).toBe("saved");
+  releaseCall();
+  await sending;
+  expect(await readOutbox(first.key)).toHaveLength(1);
+  expect(await readOutbox(second.key)).toHaveLength(0);
+  expect((await read(second.key))!.settings.sound).toBe(true);
+  first.api.call = original;
+  const resumed = first.engine();
+  await resumed.prepare();
+  expect(resumed.status).toBe("saved");
+  expect(await readOutbox(first.key)).toHaveLength(0);
+  resumed.stop();
+  other.stop();
 });
 it("verwendet bei Netzwerkfehlern keinen alten Writer und begrenzt hängende Paketaufrufe", async () => {
   const { key, legacy, api, engine } = await setup();

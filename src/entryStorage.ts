@@ -430,6 +430,56 @@ export async function existingMigrationPlan(
   await done(tx);
   return request.result;
 }
+// Only after full equality with the operator-restored legacy snapshot, or an
+// explicit conflict choice. Stale generation packets can never be rebound.
+export async function rebaseLegacyGeneration(
+  key: string,
+  revision: number,
+  expectedVersion: number,
+) {
+  const db = await openDatabase(),
+    tx = db.transaction(
+      ["entryHeads", "syncOutbox", "entryMigrations"],
+      "readwrite",
+    );
+  const meta = tx.objectStore("entryHeads").get(key),
+    queue = tx.objectStore("syncOutbox").getAll(range(key));
+  let failure: unknown;
+  queue.onsuccess = () => {
+    const head = meta.result as EntryHead;
+    if (head.localVersion !== expectedVersion) {
+      failure = new Error(
+        "Lokale Änderungen dürfen bei der Wiederaufnahme nicht verschwinden.",
+      );
+      tx.abort();
+      return;
+    }
+    for (const item of queue.result as OutboxItem[])
+      tx.objectStore("syncOutbox").delete([key, item.sequence, item.id]);
+    const sequence = head.localVersion + 1,
+      item: OutboxItem = {
+        id: crypto.randomUUID(),
+        sequence,
+        generation: null,
+        reset: true,
+        delta: { objects: [], changes: [] },
+      };
+    tx.objectStore("syncOutbox").put(item, [key, sequence, item.id]);
+    tx.objectStore("entryHeads").put(
+      {
+        ...head,
+        localVersion: sequence,
+        generation: null,
+        revision,
+        resetPending: true,
+      },
+      key,
+    );
+    tx.objectStore("entryMigrations").delete(key);
+  };
+  await done(tx, () => failure);
+  cache.delete(key);
+}
 export async function finishMigration(
   key: string,
   plan: MigrationPlan,

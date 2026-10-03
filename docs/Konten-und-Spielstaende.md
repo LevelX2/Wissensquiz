@@ -1,5 +1,17 @@
 # Konten und gemeinsame Spielstände
 
+## Neuer lokaler Eintragsvertrag – noch nicht veröffentlicht
+
+Auf `codex/speicher-sync-optimierung` ist der Kontopfad jetzt mit gemeinsamem unveränderlichem Katalog, privaten Abweichungen und getrennten Fortschrittseinträgen umgesetzt. Lokale Änderungen und ihre Outbox-Beschreibung werden atomar in IndexedDB-Version 3 bestätigt. Die Warteschlange übersteht Reload und Abbruch und speichert keinen Vollstand je Antwort. Jeder eingefrorene Pakettext besitzt ID, Protokollversion, Generation und erwartete Revision; identische Wiederholung liefert denselben serverseitigen Beleg, geänderter Inhalt bei gleicher ID wird abgewiesen.
+
+„Online gespeichert“ gilt erst bei leerer aktueller Outbox nach bestätigter Speicherung. Beim normalen Upload stammt der Bestätigungszeitpunkt aus dem Serverbeleg; bei bestätigtem Abruf/Übernahme aus der Geräteuhr. Kontoöffnung beginnt mit kleinen Revisionsmetadaten: unverändert kein Download von Einträgen oder Katalogen, sonst Änderungen/Löschmarken und fehlende Inhaltsobjekte. Mehrseitige Abrufe bestätigen dieselbe Revision; neue Geräte und abgelaufene Cursor erhalten einen kontrollierten Vollabruf. Später lokal entstandene Absichten werden dabei erhalten.
+
+Anfragen bleiben zeitlich begrenzt. Web Locks, sichtbare Gerätekonflikte und exportierbare Rückfallkopien bleiben bestehen. Vollständige Wiederherstellung ersetzt auch entfernte Einträge durch eine neue Generation. Alte Clients/Queues dürfen eine aktivierte Generation serverseitig nicht zurückschreiben. Ein Betreiber kann nach aktuellem geprüftem Export ausdrücklich den neuen Pfad pausieren und mit größerer Revision auf den bisherigen v2-Writer zurückfallen; abweichende lokale Absichten bleiben Konflikte.
+
+Vollständiger logischer State und eigenständige Schema-1-JSON-Sicherung enthalten weiterhin Katalog, historische Fragen, Antwortvarianten, große Ausgangslernstände, Einstellungen und Legacyfelder. Voll-, v1- und v2-Sicherungen bleiben lesbar. Der folgende bisherige Fingerabdruck-/Vollsicherungspfad gilt für Veröffentlichung und Legacy-Rückfall; migrierte Konten verwenden den neuen Eintragsvertrag.
+
+[Abnahme und Messwerte](Speicher-und-Sync-Abnahme.md), [Migration und kontrollierter Rückfall](Speicher-und-Sync-Migration.md).
+
 ## Aktueller Stand
 
 03.10.2026 veröffentlicht: öffentliche Bestenliste bestätigter Quiz-Konten mit Level/Titel, XP, abgeschlossenen Spielen, Antworten und Trefferquote. Der Nutzer hat ihre Sichtbarkeit ausdrücklich auch für Gäste gewählt. Zusätzlich öffentliche Gastaktivität für sieben deutsche Kalendertage, ausschließlich neue gemeldete Spielereignisse. [Vertrag und Grenzen](Bestenliste-und-Gastaktivitaet.md). Migration 202610030001 wurde zur Sites-Version 38 live eingerichtet und lesend geprüft; der letzte dokumentierte App-Stand ist Version 39. [Betriebsnachweis](Sites-Betrieb.md). E-Mail, Konto-IDs und private Spielstände bleiben geschützt; gefilterte Spieler-/Rekordabfragen bleiben Konten vorbehalten. Die nachfolgenden Strukturverbesserungen sind nur im Worktree umgesetzt und noch nicht veröffentlicht.

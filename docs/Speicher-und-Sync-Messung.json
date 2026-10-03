@@ -1,0 +1,1178 @@
+{
+  "format": "storage-sync-measurement-v1",
+  "date": "2026-10-03",
+  "seed": 20261003,
+  "runId": "202610031110",
+  "scope": "Public full App catalog and synthetic states only. Physical PostgreSQL relations incl. TOAST and indexes. SQL transactions at 100 concurrent local sessions; no HTTP/auth-provider/network latency or guaranteed production capacity.",
+  "environment": {
+    "postgres": "PostgreSQL 17.11 on x86_64-windows, compiled by msvc-19.44.35228, 64-bit",
+    "cpu": "Intel(R) Core(TM) i5-14500",
+    "logicalCPUs": 20,
+    "memoryBytes": 34111000576,
+    "sharedBuffers": "64MB",
+    "maxConnections": "150",
+    "loopback": true
+  },
+  "questions": 5677,
+  "workload": {
+    "accounts": 100,
+    "completedRoundsPerAccount": 30,
+    "answerThenCompletionTransactions": 11,
+    "controlledFirstTime": 1764590400000,
+    "initialReconstructionChecks": 100,
+    "finalReconstructionChecks": 100,
+    "finalRevisions": 13,
+    "privateObjectProofs": 42,
+    "catalogProofs": [
+      "216e40469f00211de5280fd014bb64106967876a6211c92691280fd8fc43fb6a"
+    ]
+  },
+  "wire": [
+    {
+      "completedRounds": 0,
+      "oldFullBytes": 3057517,
+      "firstRead": {
+        "metadataBytes": 110,
+        "catalogBytes": 2899968,
+        "entryRowsBytes": 11140,
+        "privateObjectBytes": 2,
+        "fullBytes": 2911220
+      },
+      "actions": [
+        {
+          "action": "setting",
+          "oldFullBytes": 3057518,
+          "oldRpcRequestBytes": 3057608,
+          "packetBytes": 420,
+          "applyRpcRequestBytes": 494,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 494,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 1
+        },
+        {
+          "action": "round-start",
+          "oldFullBytes": 3059496,
+          "oldRpcRequestBytes": 3059586,
+          "packetBytes": 2713,
+          "applyRpcRequestBytes": 3033,
+          "objectRpcRequestBytes": 275,
+          "totalRpcRequestBytes": 3308,
+          "objectRequests": 1,
+          "preparedObjectBytes": 110,
+          "changedEntries": 1
+        },
+        {
+          "action": "answer",
+          "oldFullBytes": 3060107,
+          "oldRpcRequestBytes": 3060197,
+          "packetBytes": 3503,
+          "applyRpcRequestBytes": 3923,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 3923,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 3
+        },
+        {
+          "action": "guess-correction",
+          "oldFullBytes": 3060081,
+          "oldRpcRequestBytes": 3060171,
+          "packetBytes": 948,
+          "applyRpcRequestBytes": 1084,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 1084,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 2
+        },
+        {
+          "action": "round-complete",
+          "oldFullBytes": 3062822,
+          "oldRpcRequestBytes": 3062912,
+          "packetBytes": 3272,
+          "applyRpcRequestBytes": 3658,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 3658,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 3
+        }
+      ],
+      "unchangedRead": {
+        "metadataBytes": 110,
+        "catalogBytes": 0,
+        "entryRowsBytes": 0,
+        "privateObjectBytes": 0,
+        "totalBytes": 110
+      }
+    },
+    {
+      "completedRounds": 10,
+      "oldFullBytes": 3153215,
+      "firstRead": {
+        "metadataBytes": 110,
+        "catalogBytes": 2899968,
+        "entryRowsBytes": 126953,
+        "privateObjectBytes": 15528,
+        "fullBytes": 3042559
+      },
+      "actions": [
+        {
+          "action": "setting",
+          "oldFullBytes": 3153216,
+          "oldRpcRequestBytes": 3153306,
+          "packetBytes": 420,
+          "applyRpcRequestBytes": 494,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 494,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 1
+        },
+        {
+          "action": "round-start",
+          "oldFullBytes": 3156627,
+          "oldRpcRequestBytes": 3156717,
+          "packetBytes": 4484,
+          "applyRpcRequestBytes": 5024,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 5024,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 1
+        },
+        {
+          "action": "answer",
+          "oldFullBytes": 3157247,
+          "oldRpcRequestBytes": 3157337,
+          "packetBytes": 5284,
+          "applyRpcRequestBytes": 5924,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 5924,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 3
+        },
+        {
+          "action": "guess-correction",
+          "oldFullBytes": 3157221,
+          "oldRpcRequestBytes": 3157311,
+          "packetBytes": 957,
+          "applyRpcRequestBytes": 1093,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 1093,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 2
+        },
+        {
+          "action": "round-complete",
+          "oldFullBytes": 3162938,
+          "oldRpcRequestBytes": 3163028,
+          "packetBytes": 5310,
+          "applyRpcRequestBytes": 5926,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 5926,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 3
+        }
+      ],
+      "unchangedRead": {
+        "metadataBytes": 110,
+        "catalogBytes": 0,
+        "entryRowsBytes": 0,
+        "privateObjectBytes": 0,
+        "totalBytes": 110
+      }
+    },
+    {
+      "completedRounds": 30,
+      "oldFullBytes": 3349868,
+      "firstRead": {
+        "metadataBytes": 110,
+        "catalogBytes": 2899968,
+        "entryRowsBytes": 362424,
+        "privateObjectBytes": 38840,
+        "fullBytes": 3301342
+      },
+      "actions": [
+        {
+          "action": "setting",
+          "oldFullBytes": 3349869,
+          "oldRpcRequestBytes": 3349959,
+          "packetBytes": 420,
+          "applyRpcRequestBytes": 494,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 494,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 1
+        },
+        {
+          "action": "round-start",
+          "oldFullBytes": 3354812,
+          "oldRpcRequestBytes": 3354902,
+          "packetBytes": 4593,
+          "applyRpcRequestBytes": 5129,
+          "objectRpcRequestBytes": 4709,
+          "totalRpcRequestBytes": 9838,
+          "objectRequests": 3,
+          "preparedObjectBytes": 4212,
+          "changedEntries": 1
+        },
+        {
+          "action": "answer",
+          "oldFullBytes": 3355398,
+          "oldRpcRequestBytes": 3355488,
+          "packetBytes": 5359,
+          "applyRpcRequestBytes": 5995,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 5995,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 3
+        },
+        {
+          "action": "guess-correction",
+          "oldFullBytes": 3355372,
+          "oldRpcRequestBytes": 3355462,
+          "packetBytes": 925,
+          "applyRpcRequestBytes": 1061,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 1061,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 2
+        },
+        {
+          "action": "round-complete",
+          "oldFullBytes": 3360711,
+          "oldRpcRequestBytes": 3360801,
+          "packetBytes": 5413,
+          "applyRpcRequestBytes": 6025,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 6025,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 3
+        }
+      ],
+      "unchangedRead": {
+        "metadataBytes": 110,
+        "catalogBytes": 0,
+        "entryRowsBytes": 0,
+        "privateObjectBytes": 0,
+        "totalBytes": 110
+      }
+    },
+    {
+      "completedRounds": 100,
+      "oldFullBytes": 4044896,
+      "firstRead": {
+        "metadataBytes": 110,
+        "catalogBytes": 2899968,
+        "entryRowsBytes": 1160297,
+        "privateObjectBytes": 180573,
+        "fullBytes": 4240948
+      },
+      "actions": [
+        {
+          "action": "setting",
+          "oldFullBytes": 4044897,
+          "oldRpcRequestBytes": 4044987,
+          "packetBytes": 420,
+          "applyRpcRequestBytes": 494,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 494,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 1
+        },
+        {
+          "action": "round-start",
+          "oldFullBytes": 4050268,
+          "oldRpcRequestBytes": 4050358,
+          "packetBytes": 4564,
+          "applyRpcRequestBytes": 5100,
+          "objectRpcRequestBytes": 5074,
+          "totalRpcRequestBytes": 10174,
+          "objectRequests": 3,
+          "preparedObjectBytes": 4577,
+          "changedEntries": 1
+        },
+        {
+          "action": "answer",
+          "oldFullBytes": 4050663,
+          "oldRpcRequestBytes": 4050753,
+          "packetBytes": 5390,
+          "applyRpcRequestBytes": 6030,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 6030,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 3
+        },
+        {
+          "action": "guess-correction",
+          "oldFullBytes": 4050652,
+          "oldRpcRequestBytes": 4050742,
+          "packetBytes": 998,
+          "applyRpcRequestBytes": 1140,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 1140,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 2
+        },
+        {
+          "action": "round-complete",
+          "oldFullBytes": 4055700,
+          "oldRpcRequestBytes": 4055790,
+          "packetBytes": 5380,
+          "applyRpcRequestBytes": 5992,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 5992,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 3
+        }
+      ],
+      "unchangedRead": {
+        "metadataBytes": 110,
+        "catalogBytes": 0,
+        "entryRowsBytes": 0,
+        "privateObjectBytes": 0,
+        "totalBytes": 110
+      }
+    },
+    {
+      "completedRounds": 300,
+      "oldFullBytes": 6039724,
+      "firstRead": {
+        "metadataBytes": 110,
+        "catalogBytes": 2899968,
+        "entryRowsBytes": 3329361,
+        "privateObjectBytes": 659584,
+        "fullBytes": 6889023
+      },
+      "actions": [
+        {
+          "action": "setting",
+          "oldFullBytes": 6039725,
+          "oldRpcRequestBytes": 6039815,
+          "packetBytes": 420,
+          "applyRpcRequestBytes": 494,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 494,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 1
+        },
+        {
+          "action": "round-start",
+          "oldFullBytes": 6044660,
+          "oldRpcRequestBytes": 6044750,
+          "packetBytes": 4527,
+          "applyRpcRequestBytes": 5067,
+          "objectRpcRequestBytes": 1939,
+          "totalRpcRequestBytes": 7006,
+          "objectRequests": 1,
+          "preparedObjectBytes": 1774,
+          "changedEntries": 1
+        },
+        {
+          "action": "answer",
+          "oldFullBytes": 6045273,
+          "oldRpcRequestBytes": 6045363,
+          "packetBytes": 5323,
+          "applyRpcRequestBytes": 5963,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 5963,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 3
+        },
+        {
+          "action": "guess-correction",
+          "oldFullBytes": 6045247,
+          "oldRpcRequestBytes": 6045337,
+          "packetBytes": 954,
+          "applyRpcRequestBytes": 1090,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 1090,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 2
+        },
+        {
+          "action": "round-complete",
+          "oldFullBytes": 6049784,
+          "oldRpcRequestBytes": 6049874,
+          "packetBytes": 5377,
+          "applyRpcRequestBytes": 5993,
+          "objectRpcRequestBytes": 0,
+          "totalRpcRequestBytes": 5993,
+          "objectRequests": 0,
+          "preparedObjectBytes": 2,
+          "changedEntries": 3
+        }
+      ],
+      "unchangedRead": {
+        "metadataBytes": 110,
+        "catalogBytes": 0,
+        "entryRowsBytes": 0,
+        "privateObjectBytes": 0,
+        "totalBytes": 110
+      }
+    }
+  ],
+  "physical": {
+    "before": [
+      {
+        "table": "quiz_duel_answers",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_duel_catalog",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_duel_mutex",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_duels",
+        "indexBytes": 57344,
+        "totalBytes": 65536,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_guest_activity_config",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_guest_activity_events",
+        "indexBytes": 16384,
+        "totalBytes": 24576,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_saves",
+        "indexBytes": 16384,
+        "totalBytes": 354050048,
+        "tableAndToastBytes": 354033664
+      },
+      {
+        "table": "quiz_shared_scores",
+        "indexBytes": 1056768,
+        "totalBytes": 2744320,
+        "tableAndToastBytes": 1687552
+      },
+      {
+        "table": "quiz_sharing",
+        "indexBytes": 8192,
+        "totalBytes": 8192,
+        "tableAndToastBytes": 0
+      }
+    ],
+    "beforeTotalBytes": 357040128,
+    "beforeMigration": [
+      {
+        "table": "quiz_account_heads",
+        "indexBytes": 8192,
+        "totalBytes": 8192,
+        "tableAndToastBytes": 0
+      },
+      {
+        "table": "quiz_catalog_releases",
+        "indexBytes": 16384,
+        "totalBytes": 2605056,
+        "tableAndToastBytes": 2588672
+      },
+      {
+        "table": "quiz_duel_answers",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_duel_catalog",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_duel_mutex",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_duels",
+        "indexBytes": 57344,
+        "totalBytes": 65536,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_generation_catalog_refs",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_guest_activity_config",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_guest_activity_events",
+        "indexBytes": 16384,
+        "totalBytes": 24576,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_player_totals",
+        "indexBytes": 1589248,
+        "totalBytes": 5193728,
+        "tableAndToastBytes": 3604480
+      },
+      {
+        "table": "quiz_private_catalog_objects",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_round_contributions",
+        "indexBytes": 5390336,
+        "totalBytes": 11763712,
+        "tableAndToastBytes": 6373376
+      },
+      {
+        "table": "quiz_saves",
+        "indexBytes": 16384,
+        "totalBytes": 354050048,
+        "tableAndToastBytes": 354033664
+      },
+      {
+        "table": "quiz_shared_scores",
+        "indexBytes": 1056768,
+        "totalBytes": 2744320,
+        "tableAndToastBytes": 1687552
+      },
+      {
+        "table": "quiz_sharing",
+        "indexBytes": 8192,
+        "totalBytes": 8192,
+        "tableAndToastBytes": 0
+      },
+      {
+        "table": "quiz_sync_entries",
+        "indexBytes": 40960,
+        "totalBytes": 49152,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_sync_generations",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_sync_legacy_archives",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_sync_maintenance_receipts",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_sync_object_parts",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_sync_receipts",
+        "indexBytes": 16384,
+        "totalBytes": 24576,
+        "tableAndToastBytes": 8192
+      }
+    ],
+    "migrationPeak": [
+      {
+        "table": "quiz_account_heads",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_catalog_releases",
+        "indexBytes": 16384,
+        "totalBytes": 2605056,
+        "tableAndToastBytes": 2588672
+      },
+      {
+        "table": "quiz_duel_answers",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_duel_catalog",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_duel_mutex",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_duels",
+        "indexBytes": 57344,
+        "totalBytes": 65536,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_generation_catalog_refs",
+        "indexBytes": 32768,
+        "totalBytes": 81920,
+        "tableAndToastBytes": 49152
+      },
+      {
+        "table": "quiz_guest_activity_config",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_guest_activity_events",
+        "indexBytes": 16384,
+        "totalBytes": 24576,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_player_totals",
+        "indexBytes": 1687552,
+        "totalBytes": 5505024,
+        "tableAndToastBytes": 3817472
+      },
+      {
+        "table": "quiz_private_catalog_objects",
+        "indexBytes": 860160,
+        "totalBytes": 5275648,
+        "tableAndToastBytes": 4415488
+      },
+      {
+        "table": "quiz_round_contributions",
+        "indexBytes": 7888896,
+        "totalBytes": 18341888,
+        "tableAndToastBytes": 10452992
+      },
+      {
+        "table": "quiz_saves",
+        "indexBytes": 16384,
+        "totalBytes": 354050048,
+        "tableAndToastBytes": 354033664
+      },
+      {
+        "table": "quiz_shared_scores",
+        "indexBytes": 2121728,
+        "totalBytes": 4669440,
+        "tableAndToastBytes": 2547712
+      },
+      {
+        "table": "quiz_sharing",
+        "indexBytes": 8192,
+        "totalBytes": 8192,
+        "tableAndToastBytes": 0
+      },
+      {
+        "table": "quiz_sync_entries",
+        "indexBytes": 41058304,
+        "totalBytes": 90963968,
+        "tableAndToastBytes": 49905664
+      },
+      {
+        "table": "quiz_sync_generations",
+        "indexBytes": 16384,
+        "totalBytes": 65536,
+        "tableAndToastBytes": 49152
+      },
+      {
+        "table": "quiz_sync_legacy_archives",
+        "indexBytes": 16384,
+        "totalBytes": 32768,
+        "tableAndToastBytes": 16384
+      },
+      {
+        "table": "quiz_sync_maintenance_receipts",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_sync_object_parts",
+        "indexBytes": 81920,
+        "totalBytes": 1196032,
+        "tableAndToastBytes": 1114112
+      },
+      {
+        "table": "quiz_sync_receipts",
+        "indexBytes": 16384,
+        "totalBytes": 24576,
+        "tableAndToastBytes": 8192
+      }
+    ],
+    "migrationPeakTotalBytes": 483131392,
+    "afterCleanup": [
+      {
+        "table": "quiz_account_heads",
+        "indexBytes": 16384,
+        "totalBytes": 65536,
+        "tableAndToastBytes": 49152
+      },
+      {
+        "table": "quiz_catalog_releases",
+        "indexBytes": 16384,
+        "totalBytes": 2605056,
+        "tableAndToastBytes": 2588672
+      },
+      {
+        "table": "quiz_duel_answers",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_duel_catalog",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_duel_mutex",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_duels",
+        "indexBytes": 57344,
+        "totalBytes": 65536,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_generation_catalog_refs",
+        "indexBytes": 32768,
+        "totalBytes": 90112,
+        "tableAndToastBytes": 57344
+      },
+      {
+        "table": "quiz_guest_activity_config",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_guest_activity_events",
+        "indexBytes": 16384,
+        "totalBytes": 24576,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_player_totals",
+        "indexBytes": 1687552,
+        "totalBytes": 5505024,
+        "tableAndToastBytes": 3817472
+      },
+      {
+        "table": "quiz_private_catalog_objects",
+        "indexBytes": 860160,
+        "totalBytes": 5275648,
+        "tableAndToastBytes": 4415488
+      },
+      {
+        "table": "quiz_round_contributions",
+        "indexBytes": 7888896,
+        "totalBytes": 18341888,
+        "tableAndToastBytes": 10452992
+      },
+      {
+        "table": "quiz_saves",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_shared_scores",
+        "indexBytes": 2146304,
+        "totalBytes": 4694016,
+        "tableAndToastBytes": 2547712
+      },
+      {
+        "table": "quiz_sharing",
+        "indexBytes": 8192,
+        "totalBytes": 8192,
+        "tableAndToastBytes": 0
+      },
+      {
+        "table": "quiz_sync_entries",
+        "indexBytes": 41058304,
+        "totalBytes": 90972160,
+        "tableAndToastBytes": 49913856
+      },
+      {
+        "table": "quiz_sync_generations",
+        "indexBytes": 16384,
+        "totalBytes": 73728,
+        "tableAndToastBytes": 57344
+      },
+      {
+        "table": "quiz_sync_legacy_archives",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_sync_maintenance_receipts",
+        "indexBytes": 16384,
+        "totalBytes": 81920,
+        "tableAndToastBytes": 65536
+      },
+      {
+        "table": "quiz_sync_object_parts",
+        "indexBytes": 106496,
+        "totalBytes": 131072,
+        "tableAndToastBytes": 24576
+      },
+      {
+        "table": "quiz_sync_receipts",
+        "indexBytes": 16384,
+        "totalBytes": 24576,
+        "tableAndToastBytes": 8192
+      }
+    ],
+    "afterCleanupTotalBytes": 128139264,
+    "afterLoad": [
+      {
+        "table": "quiz_account_heads",
+        "indexBytes": 16384,
+        "totalBytes": 688128,
+        "tableAndToastBytes": 671744
+      },
+      {
+        "table": "quiz_catalog_releases",
+        "indexBytes": 16384,
+        "totalBytes": 2605056,
+        "tableAndToastBytes": 2588672
+      },
+      {
+        "table": "quiz_duel_answers",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_duel_catalog",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_duel_mutex",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_duels",
+        "indexBytes": 57344,
+        "totalBytes": 65536,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_generation_catalog_refs",
+        "indexBytes": 32768,
+        "totalBytes": 90112,
+        "tableAndToastBytes": 57344
+      },
+      {
+        "table": "quiz_guest_activity_config",
+        "indexBytes": 16384,
+        "totalBytes": 57344,
+        "tableAndToastBytes": 40960
+      },
+      {
+        "table": "quiz_guest_activity_events",
+        "indexBytes": 16384,
+        "totalBytes": 24576,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_player_totals",
+        "indexBytes": 1687552,
+        "totalBytes": 5505024,
+        "tableAndToastBytes": 3817472
+      },
+      {
+        "table": "quiz_private_catalog_objects",
+        "indexBytes": 860160,
+        "totalBytes": 5275648,
+        "tableAndToastBytes": 4415488
+      },
+      {
+        "table": "quiz_round_contributions",
+        "indexBytes": 7888896,
+        "totalBytes": 18341888,
+        "tableAndToastBytes": 10452992
+      },
+      {
+        "table": "quiz_saves",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_shared_scores",
+        "indexBytes": 2146304,
+        "totalBytes": 4694016,
+        "tableAndToastBytes": 2547712
+      },
+      {
+        "table": "quiz_sharing",
+        "indexBytes": 8192,
+        "totalBytes": 8192,
+        "tableAndToastBytes": 0
+      },
+      {
+        "table": "quiz_sync_entries",
+        "indexBytes": 41058304,
+        "totalBytes": 90972160,
+        "tableAndToastBytes": 49913856
+      },
+      {
+        "table": "quiz_sync_generations",
+        "indexBytes": 16384,
+        "totalBytes": 73728,
+        "tableAndToastBytes": 57344
+      },
+      {
+        "table": "quiz_sync_legacy_archives",
+        "indexBytes": 8192,
+        "totalBytes": 16384,
+        "tableAndToastBytes": 8192
+      },
+      {
+        "table": "quiz_sync_maintenance_receipts",
+        "indexBytes": 16384,
+        "totalBytes": 81920,
+        "tableAndToastBytes": 65536
+      },
+      {
+        "table": "quiz_sync_object_parts",
+        "indexBytes": 106496,
+        "totalBytes": 131072,
+        "tableAndToastBytes": 24576
+      },
+      {
+        "table": "quiz_sync_receipts",
+        "indexBytes": 188416,
+        "totalBytes": 909312,
+        "tableAndToastBytes": 720896
+      }
+    ]
+  },
+  "load": {
+    "writesBefore": {
+      "clients": 100,
+      "threads": 10,
+      "transactions": 1100,
+      "p50Ms": 21800.575,
+      "p95Ms": 66640.288,
+      "maxMs": 95409.632,
+      "walBytes": 7167549288,
+      "modifications": {
+        "deleted": 33000,
+        "updated": 1100,
+        "inserted": 33100
+      },
+      "output": "pgbench (17.11)\r\ntransaction type: writes-before.sql\r\nscaling factor: 1\r\nquery mode: prepared\r\nnumber of clients: 100\r\nnumber of threads: 10\r\nmaximum number of tries: 1\r\nnumber of transactions per client: 11\r\nnumber of transactions actually processed: 1100/1100\r\nnumber of failed transactions: 0 (0.000%)\r\nlatency average = 28386.325 ms\r\ninitial connection time = 534.033 ms\r\ntps = 3.522823 (without initial connection time)"
+    },
+    "writesAfter": {
+      "clients": 100,
+      "threads": 10,
+      "transactions": 1100,
+      "p50Ms": 87.364,
+      "p95Ms": 411.431,
+      "maxMs": 558.027,
+      "walBytes": 16237024,
+      "modifications": {
+        "deleted": 0,
+        "updated": 4400,
+        "inserted": 4900
+      },
+      "output": "pgbench (17.11)\r\ntransaction type: writes-after.sql\r\nscaling factor: 1\r\nquery mode: prepared\r\nnumber of clients: 100\r\nnumber of threads: 10\r\nmaximum number of tries: 1\r\nnumber of transactions per client: 11\r\nnumber of transactions actually processed: 1100/1100\r\nnumber of failed transactions: 0 (0.000%)\r\nlatency average = 138.551 ms\r\ninitial connection time = 608.292 ms\r\ntps = 721.753993 (without initial connection time)"
+    },
+    "listsBefore": {
+      "clients": 100,
+      "threads": 10,
+      "transactions": 100,
+      "p50Ms": 336818.533,
+      "p95Ms": 336921.925,
+      "maxMs": 336954.407,
+      "walBytes": 10057568,
+      "modifications": {
+        "deleted": 0,
+        "updated": 0,
+        "inserted": 0
+      },
+      "output": "pgbench (17.11)\r\ntransaction type: lists-before.sql\r\nscaling factor: 1\r\nquery mode: prepared\r\nnumber of clients: 100\r\nnumber of threads: 10\r\nmaximum number of tries: 1\r\nnumber of transactions per client: 1\r\nnumber of transactions actually processed: 100/100\r\nnumber of failed transactions: 0 (0.000%)\r\nlatency average = 336955.306 ms\r\ninitial connection time = 553.282 ms\r\ntps = 0.296775 (without initial connection time)"
+    },
+    "listsAfter": {
+      "clients": 100,
+      "threads": 10,
+      "transactions": 100,
+      "p50Ms": 100.048,
+      "p95Ms": 113.866,
+      "maxMs": 115.715,
+      "walBytes": 66352,
+      "modifications": {
+        "deleted": 0,
+        "updated": 0,
+        "inserted": 0
+      },
+      "output": "pgbench (17.11)\r\ntransaction type: lists-after.sql\r\nscaling factor: 1\r\nquery mode: prepared\r\nnumber of clients: 100\r\nnumber of threads: 10\r\nmaximum number of tries: 1\r\nnumber of transactions per client: 1\r\nnumber of transactions actually processed: 100/100\r\nnumber of failed transactions: 0 (0.000%)\r\nlatency average = 120.113 ms\r\ninitial connection time = 424.075 ms\r\ntps = 832.549349 (without initial connection time)"
+    }
+  },
+  "limitations": [
+    "Synthetic history and hardware are specified, not representative of every import or duel history.",
+    "pgbench payloads are prepared in isolated bench tables; HTTP byte counts are separately derived from actual client packets. SQL timings exclude JSON request decoding and HTTP transfers.",
+    "The peak includes the retained frozen legacy source and new data; cleanup requires verified current exports and exact generation/revision checks.",
+    "Allocated empty legacy tables were reclaimed by the guarded operator helper only after all synthetic fallbacks were verified and released.",
+    "100 local sessions prove this isolated workload; Free/Nano CPU, RAM, connection pool and network limits must be assessed separately.",
+    "WAL measures cluster LSN changes over each run, including background activity; nonzero read-run WAL is not evidence that list queries modify game data."
+  ],
+  "wireMethod": "UTF-8 JSON byte counts from actual App mutations, codec and uploadObject RPC argument builder; includes escaped packet_text and object-piece request bodies, excludes HTTP headers/auth/TLS/compression. First-read values are compact serialized object/row sums, without page envelope overhead.",
+  "downloads": {
+    "controlledAccountHistoryRounds": 30,
+    "finalRevision": 13,
+    "method": "Actual read-only RPC results from the isolated native PostgreSQL schema through the real downloadDocument client; UTF-8 JSON request/response bodies, including PostgreSQL base64 line breaks, page envelopes and private-object text escaping. Excludes HTTP headers, auth and transport compression. First read uses a fresh synthetic IndexedDB; subsequent reads reuse the verified catalog.",
+    "oldFullResponseBytes": 3359143,
+    "firstRead": {
+      "requests": 8,
+      "requestBytes": 4090,
+      "responseBytes": 3384906,
+      "byRpc": [
+        {
+          "name": "quiz_sync_metadata",
+          "requestBytes": 57,
+          "responseBytes": 111
+        },
+        {
+          "name": "quiz_sync_page",
+          "requestBytes": 192,
+          "responseBytes": 85647
+        },
+        {
+          "name": "quiz_sync_page",
+          "requestBytes": 241,
+          "responseBytes": 80107
+        },
+        {
+          "name": "quiz_sync_page",
+          "requestBytes": 214,
+          "responseBytes": 57963
+        },
+        {
+          "name": "quiz_sync_page",
+          "requestBytes": 298,
+          "responseBytes": 149573
+        },
+        {
+          "name": "quiz_sync_catalog",
+          "requestBytes": 83,
+          "responseBytes": 2966270
+        },
+        {
+          "name": "quiz_sync_objects",
+          "requestBytes": 2948,
+          "responseBytes": 45124
+        },
+        {
+          "name": "quiz_sync_metadata",
+          "requestBytes": 57,
+          "responseBytes": 111
+        }
+      ]
+    },
+    "unchangedRead": {
+      "requests": 1,
+      "requestBytes": 57,
+      "responseBytes": 111,
+      "byRpc": [
+        {
+          "name": "quiz_sync_metadata",
+          "requestBytes": 57,
+          "responseBytes": 111
+        }
+      ]
+    },
+    "changedRead": {
+      "requests": 3,
+      "requestBytes": 306,
+      "responseBytes": 5372,
+      "byRpc": [
+        {
+          "name": "quiz_sync_metadata",
+          "requestBytes": 57,
+          "responseBytes": 111
+        },
+        {
+          "name": "quiz_sync_page",
+          "requestBytes": 192,
+          "responseBytes": 5150
+        },
+        {
+          "name": "quiz_sync_metadata",
+          "requestBytes": 57,
+          "responseBytes": 111
+        }
+      ]
+    }
+  },
+  "migrationFileSha256": {
+    "202609260001_quiz_accounts.sql": "d213dc7026955587d5ef51ee8aeae9dbd5e9ec6845cb8434bc4e823a3d47bc58",
+    "202609260002_shared_records.sql": "88674f780b9116007670ad88806b2b51597d0f7bdc8642f9cc6977d17411d407",
+    "202609260003_player_rankings.sql": "8156300e3860e4b26f6ae0166c350b76fd84d85175bb257784c49fd9d2a1ae76",
+    "202609260004_automatic_rankings.sql": "fe03f1317538710d063442c46a92e6a02d8b0f82bd6acf5c1cdc8ae62fc620e6",
+    "202610020001_error_training_rankings.sql": "b90971ae43661f3e63fc2058ef10ec26b3f852f22d7db24155e91071c122de48",
+    "202610020002_dont_know_rankings.sql": "cc99cabf1396bd1c6cea8a5bde9c882f5d21f86612a12457cf004014a414525a",
+    "202610020003_fast_player_rankings.sql": "8212cddbf8b6d6faa65b09382e7c3aded177b5f89cfa97e2fa403909bd716963",
+    "202610020004_film_career.sql": "836d49b73b00ab0eb71304cbea8f1ed6e7204950ab9cb1faed0816fa70c19d5c",
+    "202610020005_async_duels.sql": "73518c4b4b530c3e78b1b2774a67196d4766983f45a5d70046090559b5f1ef40",
+    "202610030001_public_leaderboard_guest_activity.sql": "38655d7b6276d96e11f9de6dad08aa6bfe5356362832638cf1bbf07a43476d43",
+    "20261003081845_storage_entry_sync.sql": "c937d1e1292501e2694c7af7fc70a893b7b2333c789dc223b6041cf04e4ee6ea",
+    "20261003085256_storage_stat_projections.sql": "86a5bae6fe3a58f3d4597381145d63a003d5e1eb3c2b573620e87bf9fa4a943b",
+    "20261003090228_storage_sync_maintenance.sql": "5d749d0c48bdede91d92ebc2cb1a95030bf7c0f9facdaf4de98875d58179c066"
+  }
+}
