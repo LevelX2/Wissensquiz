@@ -55,6 +55,7 @@ test("Profil zeigt die Onlinebestätigung und exportiert den erhaltenen Kontosta
   await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
   await page.goto("/");
   await login(page);
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await account(page);
   await page.getByText("Konto & Speicherung", { exact: true }).click();
