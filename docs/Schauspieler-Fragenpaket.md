@@ -1,5 +1,7 @@
 # Schauspieler: Fragenpaket für 100 Personen
 
+Weitere Redaktion vom 03.10.2026: [P02 mit 200 Fragen für 25 weitere Personen](Schauspieler-200-Ergaenzung.md) und [P03 mit 400 Fragen für 50 weitere Personen](Schauspieler-400-Ergaenzung.md) sind vorbereitet. Damit liegen 1.400 redaktionelle Fragen für 175 Personen vor, davon 600 zusätzlich und noch nicht spielbar. Der veröffentlichte Personenbestand bleibt bei 800 Fragen für 100 Personen, Version 41.
+
 03.10.2026 – **Additiver Fragenbereich**: Preisträger und Schauspieler sind unabhängig von Filmgenres auswählbar und ergänzen den Filmfragenbereich. Alle drei Checkboxen bilden einen gemeinsamen Pool; reine Preis-/Personenrunden benötigen keine Filmgenres. Classics/Arthouse begrenzen nur die Filmfragen. Vorhandene Filmmetadaten erzeugen keine verpflichtende Genre- oder Filmgruppenbindung für Preisfragen. [Auswahlvertrag](Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
 
 Stand: 03.10.2026. **800 Fragen für 50 Schauspieler und 50 Schauspielerinnen**, mit jeweils zwei Fragen pro Person und Schwierigkeitsstufe. Das am 02.10.2026 vorbereitete Paket ist auf den anschließenden Veröffentlichungsauftrag als eigene App-Kategorie **Schauspieler** eingebaut. Als **Sites-Version 37** am 03.10.2026 erfolgreich veröffentlicht, nativer Status `succeeded`. [Veröffentlichungsnachweis](Sites-Betrieb.md).

@@ -9,6 +9,7 @@
 
 ## Vorbereitete Fragenpakete
 
+- [Schauspieler: 50 weitere Personen mit 400 Fragen vorbereitet, Vertiefungen, Quellen und Filmdaten](../../../docs/Schauspieler-400-Ergaenzung.md)
 - [Schauspieler: weitere 200 Fragen für 25 Personen vorbereitet, mit Vertiefungen, Quellen und Filmdaten](../../../docs/Schauspieler-200-Ergaenzung.md)
 
 ## Spielbare Testversion

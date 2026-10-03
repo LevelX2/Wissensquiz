@@ -1,0 +1,17 @@
+[
+  {
+    "film": "Courage Under Fire|1996",
+    "title": "Courage Under Fire",
+    "year": 1996,
+    "directors": ["Edward Zwick"],
+    "countries": ["United States"],
+    "source_url": "https://de.wikipedia.org/wiki/Mut_zur_Wahrheit_(Film)",
+    "checked_on": "2026-10-03",
+    "retrieval_method": "web_recherchewerkzeug_manuell_ausgewertet",
+    "sha256_html": null,
+    "release_evidence": "Erscheinungsjahr 1996; Originaltitel Courage Under Fire; Produktionsland USA; Regie Edward Zwick.",
+    "release_year_match": true,
+    "note": "Die Eckdaten wurden im Web-Recherchewerkzeug gelesen. Direkte Python-Abrufe lieferten HTTP 403; daher kein behaupteter HTML-Hash. Titel, Jahr und Regie wurden zusätzlich im AFI-Katalog geprüft.",
+    "additional_source_urls": ["https://catalog.afi.com/Film/60019-COURAGE-UNDER-FIRE"]
+  }
+]
