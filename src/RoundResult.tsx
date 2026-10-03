@@ -230,6 +230,7 @@ export function Result({
           <button
             className="primary"
             onClick={onRetry}
+            data-feedback="own"
             disabled={busy || active}
           >
             Fehler dieser Runde üben ({retryCount}) →

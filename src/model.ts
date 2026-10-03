@@ -21,6 +21,7 @@ export type Report = State["reports"][number];
 export type ImportReport = State["imports"][number];
 // favorites and settings.learningPath remain accepted legacy backup fields.
 export type State = z.infer<typeof stateSchema>;
+export const DEFAULT_ANSWER_REVEAL_MS = 1100;
 export const emptyState = (questions: Question[] = []): State => ({
   schemaVersion: 1,
   questions,

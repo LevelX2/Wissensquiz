@@ -43,7 +43,12 @@ import {
   type PathUnlock,
 } from "./learningPath";
 import { SyncSymbol, type SyncDisplay } from "./SyncIndicator";
-import { playFeedback, stopFeedback, unlockSound } from "./feedback";
+import {
+  playClickFeedback,
+  playFeedback,
+  stopFeedback,
+  unlockSound,
+} from "./feedback";
 import {
   addPackages,
   hasPackage,
@@ -177,6 +182,19 @@ export function App({
   useEffect(() => {
     if (state) onPersistedState?.(state);
   }, [state, onPersistedState]);
+  useEffect(() => {
+    if (state?.settings.sound === false) stopFeedback();
+  }, [state?.settings.sound]);
+  useEffect(() => {
+    const stopHidden = () => {
+      if (document.visibilityState === "hidden") stopFeedback();
+    };
+    document.addEventListener("visibilitychange", stopHidden);
+    return () => {
+      document.removeEventListener("visibilitychange", stopHidden);
+      stopFeedback();
+    };
+  }, []);
   useEffect(() => {
     if (booted.current) return;
     booted.current = true;
@@ -491,6 +509,7 @@ export function App({
   return (
     <div
       className={`app-shell ${page === "round" || duelPlaying ? "is-playing" : ""}`}
+      onClickCapture={(e) => playClickFeedback(e.target, state.settings)}
     >
       <aside className="sidebar">
         <a

@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { answer, elapsed, guess, points } from "./engine";
 import {
   uid,
+  DEFAULT_ANSWER_REVEAL_MS,
   hasAnswer,
   type AnswerChoice,
   type Round,
@@ -17,7 +18,7 @@ import {
 import { QuestionHistory } from "./QuestionHistoryPanel";
 import { SyncIndicator, type SyncDisplay } from "./SyncIndicator";
 import { questionTitleParts } from "./questionTitle";
-import { playFeedback, unlockSound } from "./feedback";
+import { playFeedback, stopFeedback, unlockSound } from "./feedback";
 import type { Mutate } from "./uiTypes";
 import { historicalModeName, Pill } from "./gameUi";
 import { presentedQuestion } from "./actorEditorial";
@@ -68,6 +69,7 @@ export function QuestionScreen({
   const [remaining, setRemaining] = useState(limit);
   const [ready, setReady] = useState(false);
   const [revealing, setRevealing] = useState(false);
+  const revealDuration = useRef(DEFAULT_ANSWER_REVEAL_MS);
   const showReveal =
     !!event &&
     (event.answerId !== null || !!event.dontKnow) &&
@@ -84,7 +86,11 @@ export function QuestionScreen({
     if (locked.current || event || !ready || round.status !== "active") return;
     locked.current = true;
     if (choice !== null) unlockSound(state.settings);
-    if (!collected && choice !== null) setRevealing(true);
+    if (!collected && choice !== null) {
+      revealDuration.current =
+        state.settings.answerRevealMs ?? DEFAULT_ANSWER_REVEAL_MS;
+      setRevealing(true);
+    }
     const ms = start.current ? elapsed(start.current) : 0;
     const result = onAnswer
       ? await onAnswer(choice, ms)
@@ -101,15 +107,17 @@ export function QuestionScreen({
       );
       if (result.rounds.find((r) => r.id === round.id)?.status === "completed")
         onCompleted?.(result);
-      if (saved && !collected)
+      if (saved)
         playFeedback(
-          saved.dontKnow
-            ? "reveal"
-            : saved.answerId === null
-              ? "timeout"
-              : saved.correct
-                ? "correct"
-                : "wrong",
+          collected
+            ? "click"
+            : saved.dontKnow
+              ? "reveal"
+              : saved.answerId === null
+                ? "timeout"
+                : saved.correct
+                  ? "correct"
+                  : "wrong",
           result.settings,
         );
     }
@@ -119,7 +127,7 @@ export function QuestionScreen({
   };
   useEffect(() => {
     if (!event || !revealing) return;
-    const timer = setTimeout(() => setRevealing(false), 1100);
+    const timer = setTimeout(() => setRevealing(false), revealDuration.current);
     return () => clearTimeout(timer);
   }, [event?.id, revealing]);
   useEffect(() => {
@@ -183,6 +191,7 @@ export function QuestionScreen({
         return (
           <button
             key={id}
+            data-feedback="own"
             className={`answer ${correct ? "correct" : ""} ${wrong ? "wrong" : ""}`}
             disabled={!!event || busy || !ready || round.status !== "active"}
             onClick={() => void choose(id)}
@@ -197,6 +206,7 @@ export function QuestionScreen({
       {!event && (
         <button
           className="answer answer-unknown"
+          data-feedback="own"
           aria-describedby={`dont-know-${q.id}`}
           disabled={busy || !ready || round.status !== "active"}
           onClick={() => void choose({ dontKnow: true })}
@@ -229,6 +239,28 @@ export function QuestionScreen({
               : "Pause & Startseite"}
         </button>
         <div className="round-status">
+          <button
+            className="sound-toggle text-button"
+            data-feedback="own"
+            aria-label={
+              state.settings.sound !== false
+                ? "Soundeffekte ausschalten"
+                : "Soundeffekte einschalten"
+            }
+            aria-pressed={state.settings.sound !== false}
+            disabled={busy}
+            onClick={async () => {
+              const enabled = state.settings.sound === false;
+              if (enabled) void unlockSound({ ...state.settings, sound: true });
+              else stopFeedback();
+              const saved = await mutate((s) => {
+                s.settings.sound = enabled;
+              });
+              if (saved && enabled) playFeedback("correct", saved.settings);
+            }}
+          >
+            ♪ Ton {state.settings.sound !== false ? "an" : "aus"}
+          </button>
           <Pill>
             {round.duel
               ? `Duell · Runde ${round.duel.number} von 3`
@@ -473,7 +505,12 @@ export function QuestionScreen({
                 {event.guessed ? "✓ Als geraten markiert" : "War geraten"}
               </button>
             )}
-            <button className="primary" disabled={busy} onClick={onNext}>
+            <button
+              className="primary"
+              data-feedback={round.duel ? undefined : "own"}
+              disabled={busy}
+              onClick={onNext}
+            >
               {index === round.questions.length - 1
                 ? "Runde abschließen"
                 : "Nächste Frage"}{" "}

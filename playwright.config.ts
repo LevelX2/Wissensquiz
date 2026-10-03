@@ -21,6 +21,8 @@ export default defineConfig({
     {
       name: "webkit-mobile",
       testMatch: [
+        "audio.spec.ts",
+        "answer-duration.spec.ts",
         "play-entry.spec.ts",
         "mobile-round.spec.ts",
         "error-training.spec.ts",

@@ -134,6 +134,11 @@ for (const scenario of [
     await page.reload();
     await context.setOffline(true);
     await page.getByRole("button", { name: "Fortsetzen" }).click();
+    const beforeAnswer = await page.evaluate(
+      () =>
+        (window as unknown as { unlockTest: { tones: number } }).unlockTest
+          .tones,
+    );
     await page
       .locator(".answer")
       .filter({ hasText: q.answers.find((a) => a.id === q.correctId)!.text })
@@ -175,7 +180,7 @@ for (const scenario of [
           }
         ).unlockTest,
     );
-    expect(counters.tones).toBe(quiet ? 0 : 10); // Two answer notes plus eight fanfare notes; no duplicate completion sound.
+    expect(counters.tones - beforeAnswer).toBe(quiet ? 0 : 10); // Two answer notes plus eight fanfare notes; no duplicate completion sound.
     if (quiet) {
       expect(counters.vibrations.filter((p) => p !== 0)).toEqual([]);
       await expect(dialog.locator(".firework").first()).not.toBeVisible();
@@ -223,7 +228,7 @@ for (const scenario of [
           (window as unknown as { unlockTest: { tones: number } }).unlockTest
             .tones,
       ),
-    ).toBe(counters.tones);
+    ).toBe(counters.tones + (quiet ? 0 : 2)); // Two neutral navigation clicks, no replay of the fanfare.
     await page.reload();
     await expect(dialog).toHaveCount(0);
   });

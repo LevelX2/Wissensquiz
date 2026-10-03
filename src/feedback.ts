@@ -1,6 +1,7 @@
 import type { State } from "./model";
 
 export type FeedbackKind =
+  | "click"
   | "start"
   | "next"
   | "correct"
@@ -12,6 +13,7 @@ export type FeedbackKind =
   | "level"
   | "unlock";
 const tones: Record<FeedbackKind, number[]> = {
+  click: [600],
   start: [392, 523],
   next: [440],
   correct: [659, 880],
@@ -24,6 +26,7 @@ const tones: Record<FeedbackKind, number[]> = {
   unlock: [523, 659, 784, 1047, 784, 1047, 1319, 1568],
 };
 const vibrations: Record<FeedbackKind, number | number[]> = {
+  click: 10,
   start: 15,
   next: 10,
   correct: [20, 40, 25],
@@ -36,26 +39,57 @@ const vibrations: Record<FeedbackKind, number | number[]> = {
   unlock: [35, 50, 35, 70, 75],
 };
 let context: AudioContext | undefined;
+let resuming: Promise<void> | undefined;
+let generation = 0;
 const active = new Set<OscillatorNode>();
 export const supportsHaptics = () =>
   typeof navigator !== "undefined" && typeof navigator.vibrate === "function";
 
 // Call in the user's click/keyboard gesture. Never request sound on page load.
-export async function unlockSound(settings: State["settings"]) {
-  if (settings.sound === false) return;
+export type SoundStatus = "off" | "unavailable" | "ready" | "blocked";
+export async function unlockSound(
+  settings: State["settings"],
+): Promise<SoundStatus> {
+  if (settings.sound === false) return "off";
   try {
     const Audio =
       window.AudioContext ||
       (window as unknown as { webkitAudioContext?: typeof AudioContext })
         .webkitAudioContext;
-    if (!Audio) return;
-    if (!context || context.state === "closed") context = new Audio();
-    if (context.state === "suspended") await context.resume().catch(() => {});
+    if (!Audio) return "unavailable";
+    if (!context || context.state === "closed") {
+      context = new Audio();
+      resuming = undefined;
+      generation++;
+    }
+    const audio = context;
+    // Safari also pauses audio as "interrupted" after leaving the app.
+    if (audio.state !== "running") {
+      if (!resuming) {
+        let timer: ReturnType<typeof setTimeout>;
+        const pending = Promise.race([
+          audio.resume(),
+          new Promise<void>((resolve) => {
+            timer = setTimeout(resolve, 1000);
+          }),
+        ])
+          .catch(() => {})
+          .finally(() => {
+            clearTimeout(timer);
+            if (resuming === pending) resuming = undefined;
+          });
+        resuming = pending;
+      }
+      await resuming;
+    }
+    return audio.state === "running" ? "ready" : "blocked";
   } catch {
     /* Sound support must never prevent an answer from being saved. */
+    return "blocked";
   }
 }
 export function stopFeedback() {
+  generation++;
   for (const oscillator of active) {
     try {
       oscillator.stop();
@@ -81,40 +115,67 @@ export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
   } catch {
     haptics = "blocked";
   }
-  if (settings.sound === false || context?.state !== "running") return haptics;
+  if (settings.sound === false || !context) return haptics;
+  const audio = context;
+  if (audio.state === "running") playTones(kind, audio);
+  else if (resuming) {
+    const requestedAt = performance.now(),
+      requestGeneration = generation;
+    // A save may finish before resume(). Keep its signal briefly, without
+    // delaying persistence or replaying stale sounds after mute/backgrounding.
+    void resuming.then(() => {
+      if (
+        requestGeneration === generation &&
+        performance.now() - requestedAt < 1000 &&
+        audio.state === "running" &&
+        document.visibilityState !== "hidden"
+      )
+        playTones(kind, audio);
+    });
+  }
+  return haptics;
+}
+
+function playTones(kind: FeedbackKind, audio: AudioContext) {
   try {
-    const audio = context;
     // Answers differ in register, direction and timbre, without a loud buzzer.
     const voice =
-      kind === "correct"
+      kind === "click"
         ? {
             type: "sine" as OscillatorType,
-            spacing: 0.09,
-            duration: 0.16,
-            peak: 0.035,
+            spacing: 0,
+            duration: 0.07,
+            peak: 0.03,
           }
-        : kind === "wrong"
+        : kind === "correct"
           ? {
-              type: "triangle" as OscillatorType,
-              spacing: 0.085,
-              duration: 0.18,
-              peak: 0.024,
+              type: "sine" as OscillatorType,
+              spacing: 0.09,
+              duration: 0.16,
+              peak: 0.035,
             }
-          : kind === "reveal"
+          : kind === "wrong"
             ? {
-                type: "sine" as OscillatorType,
-                spacing: 0.12,
+                type: "triangle" as OscillatorType,
+                spacing: 0.085,
                 duration: 0.18,
-                peak: 0.026,
+                peak: 0.024,
               }
-            : {
-                type: (kind === "unlock"
-                  ? "triangle"
-                  : "sine") as OscillatorType,
-                spacing: kind === "unlock" ? 0.13 : 0.1,
-                duration: 0.15,
-                peak: 0.045,
-              };
+            : kind === "reveal"
+              ? {
+                  type: "sine" as OscillatorType,
+                  spacing: 0.12,
+                  duration: 0.18,
+                  peak: 0.026,
+                }
+              : {
+                  type: (kind === "unlock"
+                    ? "triangle"
+                    : "sine") as OscillatorType,
+                  spacing: kind === "unlock" ? 0.13 : 0.1,
+                  duration: 0.15,
+                  peak: 0.045,
+                };
     tones[kind].forEach((frequency, index) => {
       const oscillator = audio.createOscillator();
       const gain = audio.createGain();
@@ -137,5 +198,22 @@ export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
   } catch {
     /* Optional sound; visible feedback remains available. */
   }
-  return haptics;
+}
+
+export function playClickFeedback(
+  target: EventTarget | null,
+  settings: State["settings"],
+) {
+  if (!(target instanceof Element)) return;
+  const control = target.closest(
+    "button, a[href], summary, input[type='checkbox'], input[type='radio'], [role='button']",
+  );
+  if (
+    !control ||
+    control.closest('[data-feedback="own"]') ||
+    control.matches(':disabled, [aria-disabled="true"]')
+  )
+    return;
+  void unlockSound(settings);
+  playFeedback("click", { ...settings, haptics: false });
 }

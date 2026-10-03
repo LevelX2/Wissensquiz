@@ -246,6 +246,7 @@ export function PlaySetup({
             <div className="round-start">
               <button
                 className="primary"
+                data-feedback="own"
                 disabled={busy || !selection.length || !!active}
                 onClick={() => void begin()}
                 aria-describedby="round-summary"

@@ -107,11 +107,11 @@ export function Help() {
         <p>
           Wähle „Keine Ahnung“, wenn Du keine Antwort weißt und bewusst nicht
           raten möchtest. Wie bei einer gewählten Antwort siehst Du alle vier
-          Möglichkeiten für 1,1 Sekunden. Die richtige Lösung ist grün mit
-          Häkchen markiert und sanft hervorgehoben. Danach folgen die Erklärung
-          und der Merksatz. Über „Alle Antworten ansehen“ kannst Du die
-          Möglichkeiten wieder öffnen. Keine falsche Antwort wird als Deine Wahl
-          markiert.
+          Möglichkeiten für die eingestellte Anzeigezeit, standardmäßig 1,1
+          Sekunden. Die richtige Lösung ist grün mit Häkchen markiert und sanft
+          hervorgehoben. Danach folgen die Erklärung und der Merksatz. Über
+          „Alle Antworten ansehen“ kannst Du die Möglichkeiten wieder öffnen.
+          Keine falsche Antwort wird als Deine Wahl markiert.
         </p>
         <p>
           Wenn Du „Lösungen nach der Runde“ gewählt hast, siehst Du auch bei
@@ -361,6 +361,20 @@ export function Help() {
           Unter „Profil → Optionen“ stellst Du Ton, Vibration sowie Genre- und
           Schwierigkeitsanzeige ein. Dort findest Du auch Import und
           JSON-Sicherung.
+        </p>
+        <p>
+          Im Spiel zeigt „Ton an“ bzw. „Ton aus“ den aktuellen Zustand und lässt
+          Dich direkt umschalten. Schaltflächen geben ein kurzes Klicksignal,
+          richtige und falsche Antworten unterschiedliche Töne. Bei „Nach der
+          Runde“ bleibt das Antwortsignal neutral. Unter „Ton & Vibration“
+          kannst Du das Signal ausprobieren. Bleibt es stumm, prüfe dort den
+          Tonhinweis sowie die Geräte- und Browserlautstärke.
+        </p>
+        <p>
+          Auf dem iPhone verwenden die Töne die Medienlautstärke und beachten
+          den Stummmodus. Schalte ihn aus, wenn Du Spieltöne hören möchtest. Die
+          Anzeigezeit der vier Antworten kannst Du unter „Profil → Optionen“
+          zwischen 0,5 und 4 Sekunden einstellen.
         </p>
         <p>
           Angemeldet wird Dein Fortschritt automatisch online gespeichert. Warte

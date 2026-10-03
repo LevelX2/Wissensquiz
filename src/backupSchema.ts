@@ -167,6 +167,13 @@ export const stateSchema = z.object({
     showDifficulty: z.boolean().optional(),
     questionHistory: z.enum(["after", "always", "hidden"]).optional(),
     solutionDisplay: z.enum(["question", "round"]).optional(),
+    answerRevealMs: z
+      .number()
+      .int()
+      .min(500)
+      .max(4000)
+      .multipleOf(100)
+      .optional(),
     learningPath: z.boolean().optional(),
     allDifficulties: z.boolean().optional(),
     roundSetup: z

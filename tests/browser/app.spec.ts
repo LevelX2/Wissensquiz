@@ -481,12 +481,12 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.getByLabel("Soundeffekte", { exact: true }).click();
   await expect.poll(async () => (await counters()).tones).toBeGreaterThan(0);
-  await page.getByRole("button", { name: "Spielen", exact: true }).click();
-  await page.getByRole("button", { name: "Fortsetzen" }).click();
   const positive = (await counters()).notes.slice(-2);
   expect(positive[1].frequency).toBeGreaterThan(positive[0].frequency);
   expect(positive.every((n) => n.type === "sine")).toBe(true);
   expect(positive[1].end - positive[0].start).toBeLessThanOrEqual(0.3);
+  await page.getByRole("button", { name: "Spielen", exact: true }).click();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
   await page.getByRole("button", { name: "Nächste Frage" }).click();
   const before = (await counters()).tones;
   await answerCurrent(page, false);

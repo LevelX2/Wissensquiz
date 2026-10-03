@@ -71,6 +71,35 @@
 }
 .round-top {
   margin-bottom: 4px;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+.round-status {
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+.round-status .sound-toggle {
+  padding: 6px 8px;
+}
+.answer-duration {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 8px 0;
+}
+.answer-duration input {
+  min-width: 0;
+  flex: 1;
+  min-height: 44px;
+  padding: 0;
+  accent-color: #4e8a61;
+}
+.answer-duration output {
+  flex-shrink: 0;
+  min-width: 100px;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
 }
 .round-progress {
   margin-bottom: 10px;

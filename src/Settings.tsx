@@ -1,8 +1,13 @@
 import { validateBackup } from "./backupValidation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { SolutionChoice } from "./SolutionChoice";
 import { importCsv } from "./importer";
-import { emptyState, type ImportReport, type State } from "./model";
+import {
+  DEFAULT_ANSWER_REVEAL_MS,
+  emptyState,
+  type ImportReport,
+  type State,
+} from "./model";
 import { download, restore as restoreStored } from "./storage";
 import { useOffline } from "./offline";
 import {
@@ -10,6 +15,7 @@ import {
   stopFeedback,
   supportsHaptics,
   unlockSound,
+  type SoundStatus,
 } from "./feedback";
 import type { Mutate } from "./uiTypes";
 import { formatDate } from "./gameUi";
@@ -35,6 +41,41 @@ export function Settings({
   const [pendingSolutions, setPendingSolutions] =
     useState<State["settings"]["solutionDisplay"]>();
   const [hapticMessage, setHapticMessage] = useState("");
+  const [soundMessage, setSoundMessage] = useState("");
+  const [pendingRevealMs, setPendingRevealMs] = useState<number | null>(null);
+  const revealMs =
+    pendingRevealMs ??
+    state.settings.answerRevealMs ??
+    DEFAULT_ANSWER_REVEAL_MS;
+  const revealSeconds = (revealMs / 1000).toLocaleString("de-DE", {
+    minimumFractionDigits: 1,
+    maximumFractionDigits: 1,
+  });
+  const saveRevealDuration = async (value: number) => {
+    const saved = await mutate((s) => {
+      s.settings.answerRevealMs = value;
+    });
+    if (saved)
+      setPendingRevealMs((pending) => (pending === value ? null : pending));
+    else setPendingRevealMs(null);
+  };
+  useEffect(() => {
+    if (pendingRevealMs === null || busy) return;
+    const timer = setTimeout(() => {
+      void saveRevealDuration(pendingRevealMs);
+    }, 300);
+    return () => clearTimeout(timer);
+  }, [pendingRevealMs, busy]);
+  const reportSound = (status: SoundStatus) =>
+    setSoundMessage(
+      status === "ready"
+        ? "Tonausgabe ist bereit. Falls Du das Probesignal nicht hörst, prüfe die Medienlautstärke und ob der Browser oder Tab stummgeschaltet ist. Auf dem iPhone muss auch der Stummmodus ausgeschaltet sein."
+        : status === "unavailable"
+          ? "Dieser Browser bietet keine Tonausgabe für die Soundeffekte."
+          : status === "blocked"
+            ? "Die Tonausgabe konnte nicht gestartet werden. Tippe erneut auf „Signal ausprobieren“ oder prüfe die Toneinstellungen des Browsers."
+            : "Soundeffekte sind ausgeschaltet.",
+    );
   const reportHaptics = (result: ReturnType<typeof playFeedback>) =>
     setHapticMessage(
       result === "blocked"
@@ -107,6 +148,38 @@ export function Settings({
             }).finally(() => setPendingSolutions(undefined));
           }}
         />
+        <label htmlFor="answer-reveal-duration">
+          Anzeigezeit der Antworten
+        </label>
+        <div className="answer-duration">
+          <input
+            id="answer-reveal-duration"
+            type="range"
+            min="0.5"
+            max="4"
+            step="0.1"
+            value={revealMs / 1000}
+            disabled={busy}
+            aria-valuetext={`${revealSeconds} Sekunden`}
+            aria-describedby="answer-duration-hint"
+            onChange={(e) =>
+              setPendingRevealMs(Math.round(Number(e.target.value) * 1000))
+            }
+            onBlur={() => {
+              if (pendingRevealMs !== null && !busy)
+                void saveRevealDuration(pendingRevealMs);
+            }}
+          />
+          <output htmlFor="answer-reveal-duration">
+            {revealSeconds} Sekunden
+          </output>
+        </div>
+        <p id="answer-duration-hint" className="tiny muted">
+          0,5 bis 4 Sekunden. So lange bleiben nach einer Antwort alle vier
+          Möglichkeiten sichtbar: richtige Lösung grün, falsche Auswahl rot.
+          Gilt auch für „Keine Ahnung“ bei direkter Lösungsanzeige. Danach folgt
+          die Erklärung. Deine Auswahl wird automatisch gespeichert.
+        </p>
       </section>
       <section className="settings-panel">
         <h2>Hinweise an der Frage</h2>
@@ -164,11 +237,12 @@ export function Settings({
           JSON-Sicherung enthalten.
         </p>
       </section>
-      <section className="settings-panel">
+      <section className="settings-panel" data-feedback="own">
         <h2>Ton & Vibration</h2>
         <p>
-          Kurze Signale für Rundenstart, Antworten, nächste Frage, Zeitablauf
-          und Abschluss. Alle Hinweise bleiben auch sichtbar.
+          Kurzes Klicksignal für Schaltflächen, unterschiedliche Töne für
+          richtige und falsche Antworten sowie Signale für Rundenstart, nächste
+          Frage, Zeitablauf und Abschluss. Alle Hinweise bleiben auch sichtbar.
         </p>
         <div className="filter-options">
           <label className="filter-choice">
@@ -178,12 +252,16 @@ export function Settings({
               disabled={busy}
               onChange={async (e) => {
                 const enabled = e.target.checked;
-                if (enabled) unlockSound({ ...state.settings, sound: true });
-                else stopFeedback();
+                setSoundMessage("");
+                const sound = enabled
+                  ? unlockSound({ ...state.settings, sound: true })
+                  : null;
+                if (!enabled) stopFeedback();
                 const saved = await mutate((s) => {
                   s.settings.sound = enabled;
                 });
                 if (saved && enabled) playFeedback("correct", saved.settings);
+                if (saved && sound) reportSound(await sound);
               }}
             />
             Soundeffekte
@@ -216,8 +294,9 @@ export function Settings({
           className="secondary"
           disabled={state.settings.sound === false && !state.settings.haptics}
           onClick={async () => {
-            await unlockSound(state.settings);
+            const status = await unlockSound(state.settings);
             reportHaptics(playFeedback("correct", state.settings));
+            reportSound(status);
           }}
         >
           Signal ausprobieren
@@ -232,6 +311,11 @@ export function Settings({
         {hapticMessage && (
           <p className="tiny" role="status">
             {hapticMessage}
+          </p>
+        )}
+        {soundMessage && (
+          <p className="tiny" role="status">
+            {soundMessage}
           </p>
         )}
       </section>
