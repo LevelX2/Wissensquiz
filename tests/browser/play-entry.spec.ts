@@ -1,3 +1,4 @@
+import { readSavedState } from "./saved-state";
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 
@@ -114,25 +115,11 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Leicht",
   );
-  const stored = await page.evaluate(
-    () =>
-      new Promise<any>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const r = db.transaction("state").objectStore("state").get("current");
-          r.onsuccess = () => {
-            db.close();
-            resolve(r.result);
-          };
-        };
-      }),
-  );
-  expect(stored.rounds.at(-1).topic).toBe("Classics");
+  const stored = await readSavedState(page);
+  expect(stored.rounds.at(-1)!.topic).toBe("Classics");
   expect(
     stored.rounds
-      .at(-1)
+      .at(-1)!
       .questions.every(
         (q: any) =>
           q.tags.includes("Classics") && q.metadata.subdomain === "Western",

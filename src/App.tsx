@@ -39,6 +39,7 @@ import {
   restore as restoreStored,
   update as updateStored,
   validateBackup,
+  type UpdateOptions,
 } from "./storage";
 import { useOffline } from "./offline";
 import { BadgeIcon, GenreArtwork } from "./Icons";
@@ -100,7 +101,10 @@ type Page =
   | "round"
   | "result";
 type DuelPage = "duels";
-type Mutate = (fn: (s: State) => void) => Promise<State | null>;
+type Mutate = (
+  fn: (s: State) => void,
+  options?: UpdateOptions,
+) => Promise<State | null>;
 const modeNames: Record<Mode, string> = {
   entdecken: "Filmreise",
   ueben: "Freies Spiel",
@@ -223,8 +227,11 @@ export function App({
   sync?: SyncDisplay;
 }) {
   const read = () => readStored(storageKey);
-  const update = (fn: (s: State) => void, initial?: State) =>
-    updateStored(fn, initial, storageKey);
+  const update = (
+    fn: (s: State) => void,
+    initial?: State,
+    options?: UpdateOptions,
+  ) => updateStored(fn, initial, storageKey, options);
   const [state, setState] = useState<State | null>(null);
   const [page, setPage] = useState<Page | DuelPage>(
     location.hash.startsWith("#duel=") ? "duels" : "home",
@@ -238,8 +245,6 @@ export function App({
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
   const [pendingSetup, setPendingSetup] = useState<RoundSetup | null>(null);
-  const [pendingSolutions, setPendingSolutions] =
-    useState<State["settings"]["solutionDisplay"]>();
   const [roundId, setRoundId] = useState("");
   const [justCompleted, setJustCompleted] = useState("");
   const [duelPlaying, setDuelPlaying] = useState(false);
@@ -252,6 +257,17 @@ export function App({
   const booted = useRef(false);
   const inFlight = useRef(false);
   const offline = useOffline();
+  const catalogNavigation = useMemo(
+    () => ({
+      topics: [...new Set(state?.questions.map((q) => q.topic) ?? [])].sort(),
+      genres: [...new Set(state?.questions.map(genreOf) ?? [])].sort(),
+    }),
+    [state?.questions],
+  );
+  const roundSetup = useMemo(
+    () => (state ? readRoundSetup(state) : null),
+    [state?.questions, state?.settings],
+  );
   useEffect(() => {
     if (state) onPersistedState?.(state);
   }, [state, onPersistedState]);
@@ -300,13 +316,13 @@ export function App({
     window.scrollTo(0, 0);
     if (page !== "result") setJustCompleted("");
   }, [page, index, topicScope]);
-  const mutate: Mutate = async (fn) => {
+  const mutate: Mutate = async (fn, options) => {
     if (inFlight.current) return null;
     inFlight.current = true;
     setBusy(true);
     setError("");
     try {
-      const next = await update(fn);
+      const next = await update(fn, undefined, options);
       setState(next);
       return next;
     } catch (e) {
@@ -364,7 +380,7 @@ export function App({
     categories: selectedCategories,
     difficulties: selectedDifficulties,
     familiarities: selectedFamiliarities = [...familiarities],
-  } = pendingSetup ?? readRoundSetup(state);
+  } = pendingSetup ?? roundSetup!;
   const changeSetup = async (patch: Partial<RoundSetup>) => {
     if (inFlight.current) return null;
     // Reflect the click immediately; only committed state reaches account sync.
@@ -377,13 +393,12 @@ export function App({
       setPendingSetup(null);
     }
   };
-  const topics = [...new Set(state.questions.map((q) => q.topic))].sort();
+  const { topics, genres } = catalogNavigation;
   const startedTopics =
     page === "album" ? answeredTopics(state) : new Set<string>();
   const albumTopics = topics.filter(
     (t) => !answeredOnly || startedTopics.has(t),
   );
-  const genres = [...new Set(state.questions.map(genreOf))].sort();
   const browseQuestions =
     page === "topics" && topicScope
       ? state.questions.filter((q) =>
@@ -414,21 +429,24 @@ export function App({
   const current = state.rounds.find((r) => r.id === roundId);
   const targetSize = completed.length ? 10 : 5;
   const roundTopic = categoryTopic("Alle Themen", selectedCategories);
-  const selection = selectQuestions(
-    pathQuestions(state, mode),
-    state.learning,
-    {
-      mode,
-      topic: roundTopic,
-      difficulty: "Alle Stufen",
-      filters,
-      size: targetSize,
-      now: Date.now(),
-      ...(mode === "entdecken" ? discoveryContext(state) : {}),
-      ...(mode === "fehler" ? errorTrainingContext(state) : {}),
-    },
-    () => 0.5,
-  );
+  const selection =
+    page === "home"
+      ? selectQuestions(
+          pathQuestions(state, mode),
+          state.learning,
+          {
+            mode,
+            topic: roundTopic,
+            difficulty: "Alle Stufen",
+            filters,
+            size: targetSize,
+            now: Date.now(),
+            ...(mode === "entdecken" ? discoveryContext(state) : {}),
+            ...(mode === "fehler" ? errorTrainingContext(state) : {}),
+          },
+          () => 0.5,
+        )
+      : [];
   const begin = async () => {
     unlockSound(state.settings);
     let id = "";
@@ -666,20 +684,6 @@ export function App({
                     {roundTopic !== "Alle Themen" && " · " + roundTopic}
                   </p>
                 </div>
-                <SolutionChoice
-                  value={
-                    pendingSolutions ??
-                    state.settings.solutionDisplay ??
-                    "question"
-                  }
-                  disabled={busy || !!active}
-                  onChange={(value) => {
-                    setPendingSolutions(value);
-                    void mutate((s) => {
-                      s.settings.solutionDisplay = value;
-                    }).finally(() => setPendingSolutions(undefined));
-                  }}
-                />
                 <button
                   className="duel-entry secondary"
                   disabled={busy || !!active}
@@ -1459,10 +1463,13 @@ export function QuestionScreen({
     const ms = start.current ? elapsed(start.current) : 0;
     const result = onAnswer
       ? await onAnswer(choice, ms)
-      : await mutate((s) => {
-          answer(s, round.id, q.id, choice, ms);
-          if (collected && guessed) guess(s, `${round.id}:${q.knowledgeId}`);
-        });
+      : await mutate(
+          (s) => {
+            answer(s, round.id, q.id, choice, ms);
+            if (collected && guessed) guess(s, `${round.id}:${q.knowledgeId}`);
+          },
+          { reuseCatalog: true },
+        );
     if (!result) {
       locked.current = false;
       setRevealing(false);
@@ -1799,7 +1806,11 @@ export function QuestionScreen({
                 aria-pressed={event.guessed}
                 disabled={event.guessed || busy}
                 onClick={() =>
-                  onGuess ? onGuess() : void mutate((s) => guess(s, event.id))
+                  onGuess
+                    ? onGuess()
+                    : void mutate((s) => guess(s, event.id), {
+                        reuseCatalog: true,
+                      })
                 }
               >
                 {event.guessed ? "✓ Als geraten markiert" : "War geraten"}
@@ -2191,6 +2202,8 @@ function Settings({
   onHome: () => void;
 }) {
   const [message, setMessage] = useState("");
+  const [pendingSolutions, setPendingSolutions] =
+    useState<State["settings"]["solutionDisplay"]>();
   const [hapticMessage, setHapticMessage] = useState("");
   const reportHaptics = (result: ReturnType<typeof playFeedback>) =>
     setHapticMessage(
@@ -2237,11 +2250,33 @@ function Settings({
         Einstellungen <em>& Daten.</em>
       </h1>
       <p className="lead">
-        Ton, Vibration und Fragehinweise stellst Du hier ein. Angemeldet wird
-        Dein Fortschritt automatisch online gespeichert; als Gast bleibt er auf
-        diesem Gerät. Eine JSON-Sicherung bietet Dir eine zusätzliche Kopie.
+        Ton, Vibration, Lösungsanzeige und Fragehinweise stellst Du hier ein.
+        Angemeldet wird Dein Fortschritt automatisch online gespeichert; als
+        Gast bleibt er auf diesem Gerät. Eine JSON-Sicherung bietet Dir eine
+        zusätzliche Kopie.
       </p>
       <div role="status">{message && <p className="notice">{message}</p>}</div>
+      <section className="settings-panel">
+        <h2>Lösungen in Solospielen</h2>
+        <p>
+          Sieh die Lösung und Zusatzinformationen nach jeder Antwort oder
+          gesammelt nach Deiner Runde. Gilt für neue Solorunden; eine begonnene
+          Runde behält ihre Einstellung. Den Ablauf eines Duells wählst Du beim
+          Anlegen.
+        </p>
+        <SolutionChoice
+          value={
+            pendingSolutions ?? state.settings.solutionDisplay ?? "question"
+          }
+          disabled={busy}
+          onChange={(value) => {
+            setPendingSolutions(value);
+            void mutate((s) => {
+              s.settings.solutionDisplay = value;
+            }).finally(() => setPendingSolutions(undefined));
+          }}
+        />
+      </section>
       <section className="settings-panel">
         <h2>Hinweise an der Frage</h2>
         <p>

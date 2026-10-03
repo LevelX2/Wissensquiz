@@ -1,3 +1,4 @@
+import { readSavedState } from "./saved-state";
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 
@@ -49,24 +50,7 @@ for (const both of [false, true]) {
     });
     await page.getByRole("button", { name: "Losspielen" }).click();
     await expect(page.locator(".question-genre")).toHaveText("Rom-Com");
-    const saved = await page.evaluate(
-      () =>
-        new Promise<any>((resolve, reject) => {
-          const req = indexedDB.open("wissensquiz");
-          req.onerror = () => reject(req.error);
-          req.onsuccess = () => {
-            const db = req.result;
-            const r = db
-              .transaction("state")
-              .objectStore("state")
-              .get("current");
-            r.onsuccess = () => {
-              db.close();
-              resolve(r.result);
-            };
-          };
-        }),
-    );
+    const saved = await readSavedState(page);
     expect(saved.questions).toHaveLength(4877);
     expect(new Set(saved.questions.map((q: any) => q.knowledgeId)).size).toBe(
       4397,
@@ -77,7 +61,7 @@ for (const both of [false, true]) {
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Classics")),
     ).toHaveLength(1209);
-    const round = saved.rounds.at(-1);
+    const round = saved.rounds.at(-1)!;
     expect(round.topic).toBe(both ? "Classics + Arthouse" : "Arthouse");
     expect(
       round.questions.every(

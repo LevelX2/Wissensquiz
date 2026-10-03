@@ -5,6 +5,7 @@ import { QuestionScreen, Result, Explanation } from "./App";
 import { SolutionChoice } from "./SolutionChoice";
 import type { AnswerChoice, Round, State, SolutionDisplay } from "./model";
 import { uid } from "./model";
+import type { UpdateOptions } from "./storage";
 import {
   duelSchema,
   duelViewSchema,
@@ -32,7 +33,10 @@ export function DuelCenter({
   onPlaying,
 }: {
   state: State;
-  mutate: (fn: (s: State) => void) => Promise<State | null>;
+  mutate: (
+    fn: (s: State) => void,
+    options?: UpdateOptions,
+  ) => Promise<State | null>;
   busy: boolean;
   onHome: () => void;
   onAccount: () => void;
@@ -46,9 +50,7 @@ export function DuelCenter({
   const [working, setWorking] = useState(false);
   const [error, setError] = useState("");
   const [notice, setNotice] = useState("");
-  const [display, setDisplay] = useState<SolutionDisplay>(
-    state.settings.solutionDisplay ?? "question",
-  );
+  const [display, setDisplay] = useState<SolutionDisplay>("question");
   const [view, setView] = useState<DuelView | null>(null);
   const [index, setIndex] = useState(0);
   const [review, setReview] = useState<DuelView | null>(null);
@@ -91,7 +93,7 @@ export function DuelCenter({
   async function accept(v: DuelView, finish = true): Promise<State | null> {
     if (!v.items.some((i) => i.event.correct !== null))
       return currentState.current;
-    return mutate((s) => importDuelView(s, v, finish));
+    return mutate((s) => importDuelView(s, v, finish), { reuseCatalog: true });
   }
   async function refresh() {
     const entries = await rpc(

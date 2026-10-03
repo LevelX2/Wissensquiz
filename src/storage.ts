@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { emptyState, questionSchema, type State } from "./model";
+import { emptyState, questionSchema, type State, type Question } from "./model";
 import { rebuild } from "./engine";
 import { matchesFilters } from "./filters";
 import { matchesTopic } from "./categories";
@@ -268,6 +268,81 @@ export function validateBackup(value: unknown): State {
   return s;
 }
 let database: Promise<IDBDatabase> | undefined;
+const CATALOG_FORMAT = "quiz-local-catalog-v1";
+type CatalogRef = { storageFormat: typeof CATALOG_FORMAT; key: string };
+type StoredState = Omit<State, "questions"> & {
+  questions: Question[] | CatalogRef;
+};
+const catalogs = new Map<string, { key: string; questions: Question[] }>();
+const immutableCatalogs = new WeakSet<Question[]>();
+export const isImmutableCatalog = (questions: Question[]) =>
+  immutableCatalogs.has(questions);
+export type UpdateOptions = { reuseCatalog?: boolean };
+
+function freezeCatalog(questions: Question[]) {
+  function freeze(value: object) {
+    for (const child of Object.values(value))
+      if (child && typeof child === "object" && !Object.isFrozen(child))
+        freeze(child);
+    Object.freeze(value);
+  }
+  freeze(questions);
+  immutableCatalogs.add(questions);
+  return questions;
+}
+
+// Historical snapshots stay complete. Intern equal snapshots so IndexedDB's
+// structured clone stores shared objects once, even after hundreds of rounds.
+function compactRounds(state: State) {
+  const seen = new WeakMap<Question, Question>();
+  const content = new Map<string, Question>();
+  return state.rounds.map((round) => ({
+    ...round,
+    questions: round.questions.map((question) => {
+      const known = seen.get(question);
+      if (known) return known;
+      const signature = JSON.stringify(question);
+      const canonical = content.get(signature) ?? question;
+      content.set(signature, canonical);
+      seen.set(question, canonical);
+      return canonical;
+    }),
+  }));
+}
+
+function loadCatalog(
+  store: IDBObjectStore,
+  key: string,
+  value: StoredState,
+  accept: (questions: Question[], ref?: CatalogRef) => void,
+) {
+  if (Array.isArray(value.questions)) {
+    accept(value.questions);
+    return;
+  }
+  const ref = value.questions;
+  if (
+    ref?.storageFormat !== CATALOG_FORMAT ||
+    !ref.key.startsWith(`catalog:${key}:`)
+  )
+    throw new Error("Ungültiger lokaler Fragenkatalog.");
+  const cached = catalogs.get(key);
+  if (cached?.key === ref.key) {
+    accept(cached.questions, ref);
+    return;
+  }
+  const request = store.get(ref.key);
+  request.onsuccess = () => {
+    // A missing catalog must never be replaced with an empty game state.
+    if (!Array.isArray(request.result)) {
+      store.transaction.abort();
+      return;
+    }
+    const questions = freezeCatalog(request.result as Question[]);
+    catalogs.set(key, { key: ref.key, questions });
+    accept(questions, ref);
+  };
+}
 export function openDatabase() {
   return (database ??= new Promise<IDBDatabase>((resolve, reject) => {
     const req = indexedDB.open("wissensquiz", 1);
@@ -291,6 +366,7 @@ export async function update(
   mutator: (state: State) => void,
   initial?: State,
   key = "current",
+  options: UpdateOptions = {},
 ): Promise<State> {
   const db = await openDatabase();
   return new Promise((resolve, reject) => {
@@ -299,17 +375,54 @@ export async function update(
     const req = store.get(key);
     let result: State;
     let failure: unknown;
+    let nextCatalog: { key: string; questions: Question[] } | undefined;
     req.onsuccess = () => {
       try {
-        result = req.result ?? initial ?? emptyState();
-        mutator(result);
-        store.put(result, key);
+        const stored: StoredState = req.result ?? initial ?? emptyState();
+        loadCatalog(store, key, stored, (catalog, prior) => {
+          try {
+            const questions =
+              options.reuseCatalog && prior
+                ? catalog
+                : structuredClone(catalog);
+            result = { ...stored, questions };
+            mutator(result);
+            // Reusing a frozen catalog is opt-in for answer/guess mutations.
+            // A duel with a new snapshot replaces its array and writes it atomically.
+            const reuse = prior && result.questions === catalog;
+            const ref: CatalogRef = reuse
+              ? prior
+              : {
+                  storageFormat: CATALOG_FORMAT,
+                  key: `catalog:${key}:${crypto.randomUUID()}`,
+                };
+            if (!reuse) {
+              store.put(result.questions, ref.key);
+              if (prior) store.delete(prior.key);
+            }
+            store.put(
+              { ...result, questions: ref, rounds: compactRounds(result) },
+              key,
+            );
+            if (!reuse)
+              nextCatalog = { key: ref.key, questions: result.questions };
+          } catch (error) {
+            failure = error;
+            tx.abort();
+          }
+        });
       } catch (error) {
         failure = error;
         tx.abort();
       }
     };
-    tx.oncomplete = () => resolve(result);
+    tx.oncomplete = () => {
+      if (nextCatalog) {
+        freezeCatalog(nextCatalog.questions);
+        catalogs.set(key, nextCatalog);
+      }
+      resolve(result);
+    };
     tx.onerror = () => reject(failure ?? tx.error);
     tx.onabort = () =>
       reject(failure ?? tx.error ?? new Error("Speichern abgebrochen."));
@@ -318,9 +431,29 @@ export async function update(
 export async function read(key = "current"): Promise<State | undefined> {
   const db = await openDatabase();
   return new Promise((resolve, reject) => {
-    const req = db.transaction("state").objectStore("state").get(key);
-    req.onsuccess = () => resolve(req.result);
-    req.onerror = () => reject(req.error);
+    const tx = db.transaction("state");
+    const store = tx.objectStore("state");
+    const req = store.get(key);
+    let result: State | undefined;
+    let failure: unknown;
+    req.onsuccess = () => {
+      try {
+        if (!req.result) return;
+        loadCatalog(store, key, req.result, (questions) => {
+          result = { ...req.result, questions: structuredClone(questions) };
+        });
+      } catch (error) {
+        failure = error;
+        tx.abort();
+      }
+    };
+    tx.oncomplete = () => resolve(result);
+    tx.onerror = tx.onabort = () =>
+      reject(
+        failure ??
+          tx.error ??
+          new Error("Fragenkatalog konnte nicht geladen werden."),
+      );
   });
 }
 export async function restore(value: unknown, key = "current") {

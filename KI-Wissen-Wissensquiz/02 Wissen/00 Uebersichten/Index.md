@@ -39,6 +39,8 @@
 - [Historischer Konzeptentwurf für asynchrone Filmduelle](../../../docs/Asynchrone-Filmduelle-Konzept.md)
 - [Supabase-Einrichtung, Datenbankregeln und Mailvorlagen](../../../docs/Konten-Einrichtung.md)
 - [Tatsächliche Prüfungen und bekannte Grenzen](../../../docs/Pruefbericht.md)
+- [Antwortreaktion nach Version 36: Katalogspeicher und Duell-Snapshotvergleich](../../../docs/Lernregeln.md#datenintegrität-und-sicherung)
+- [Solo-Lösungswahl unter Profil → Optionen](../../../docs/Lernregeln.md#asynchrone-duelle-und-lösungsanzeige)
 - [Maschineller Importbericht](../../../docs/importbericht.json)
 - [Unveränderte gelieferte Rohquelle](../../01%20Rohquellen/SciFi_Quiz_180_Fragen.csv)
 - [Action-Rohquelle](../../01%20Rohquellen/Action_Quiz_180_Fragen.csv)

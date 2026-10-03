@@ -606,7 +606,7 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   const otherContext = await browser.newContext({
     serviceWorkers: "block",
-    baseURL: "http://localhost:4173",
+    baseURL: new URL(page.url()).origin,
   });
   try {
     const other = await otherContext.newPage();

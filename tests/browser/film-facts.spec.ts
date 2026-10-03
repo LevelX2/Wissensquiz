@@ -1,3 +1,4 @@
+import { readSavedState } from "./saved-state";
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -96,7 +97,9 @@ for (const kind of ["year", "director", "original"] as const) {
       await expect(page.locator(".explanation")).not.toContainText(
         "Gefragt ist die Regie dieses Films",
       );
-      await expect(page.getByRole("link", { name: /Regiequelle:/ })).toBeVisible();
+      await expect(
+        page.getByRole("link", { name: /Regiequelle:/ }),
+      ).toBeVisible();
     }
     const film = page.locator(".film-data");
     await expect(film).not.toHaveAttribute("open", "");
@@ -117,21 +120,7 @@ for (const kind of ["year", "director", "original"] as const) {
       page.getByRole("button", { name: "Runde abschließen" }),
     ).toBeInViewport();
     await page.getByRole("button", { name: "Runde abschließen" }).click();
-    const saved = await page.evaluate(
-      () =>
-        new Promise<State>((resolve, reject) => {
-          const req = indexedDB.open("wissensquiz");
-          req.onerror = () => reject(req.error);
-          req.onsuccess = () => {
-            const db = req.result,
-              r = db.transaction("state").objectStore("state").get("current");
-            r.onsuccess = () => {
-              db.close();
-              resolve(r.result);
-            };
-          };
-        }),
-    );
+    const saved = await readSavedState(page);
     expect(validateBackup(saved).rounds.at(-1)?.questions[0]).toEqual(snapshot);
     expect(saved.events.at(-1)?.correct).toBe(true);
     expect(saved.learning[q.knowledgeId].seen).toBe(1);

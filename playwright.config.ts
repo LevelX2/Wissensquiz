@@ -15,6 +15,8 @@ export default defineConfig({
         "dont-know.spec.ts",
         "career.spec.ts",
         "duels.spec.ts",
+        "duel-performance.spec.ts",
+        "response-performance.spec.ts",
       ],
       use: { ...devices["iPhone 13"] },
     },

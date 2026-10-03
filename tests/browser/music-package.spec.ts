@@ -1,3 +1,4 @@
+import { readSavedState } from "./saved-state";
 import { test, expect } from "@playwright/test";
 
 test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben offline erhalten", async ({
@@ -30,35 +31,21 @@ test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben off
     "Schwierigkeit: Leicht",
   );
   await expect(page.locator(".film-data")).toHaveCount(0);
-  const saved = await page.evaluate(
-    () =>
-      new Promise<any>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const r = db.transaction("state").objectStore("state").get("current");
-          r.onsuccess = () => {
-            db.close();
-            resolve(r.result);
-          };
-        };
-      }),
-  );
+  const saved = await readSavedState(page);
   expect(
     saved.questions.filter((q: any) => q.metadata.subdomain === "Musik"),
   ).toHaveLength(333);
   expect(
     saved.imports.find(
       (r: any) => r.filename === "Musik_Ergaenzung_180_Fragen.csv",
-    ).accepted,
+    )!.accepted,
   ).toBe(180);
-  const round = saved.rounds.at(-1),
+  const round = saved.rounds.at(-1)!,
     q = round.questions[0];
-  expect(Object.values(round.familiaritySnapshot)).toEqual(
+  expect(Object.values(round.familiaritySnapshot!)).toEqual(
     Array(round.questions.length).fill(1),
   );
-  const correct = q.answers.find((a: any) => a.id === q.correctId).text;
+  const correct = q.answers.find((a: any) => a.id === q.correctId)!.text;
   await page.locator(".answer").filter({ hasText: correct }).click();
   await expect(page.locator(".explanation")).toBeVisible();
   await page.locator(".film-data > summary").click();

@@ -1,3 +1,4 @@
+import { readSavedState } from "./saved-state";
 import { test, expect, type Page } from "@playwright/test";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -13,24 +14,7 @@ async function launch(page: Page) {
 }
 // Historical single-film rounds remain resumable although new film selection is removed.
 async function resumeFilmFixture(page: Page, topic: string) {
-  const state = await page.evaluate(
-    () =>
-      new Promise<State>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const read = db
-            .transaction("state")
-            .objectStore("state")
-            .get("current");
-          read.onsuccess = () => {
-            db.close();
-            resolve(read.result);
-          };
-        };
-      }),
-  );
+  const state = await readSavedState(page);
   const round = startRound(state, {
     mode: "ueben",
     topic,
@@ -338,47 +322,51 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
           const read = store.get("current");
           read.onsuccess = () => {
             const state = read.result;
-            state.questions = state.questions.filter(
-              (q: { id: string }) =>
-                !q.id.includes("-202610-P01-") &&
-                !q.id.startsWith("MAR-") &&
-                !q.id.startsWith("ROM-") &&
-                !q.id.startsWith("ART-") &&
-                (packageCount >= 8 || !q.id.startsWith("CLA-")) &&
-                (packageCount >= 7 || !q.id.startsWith("DRA-")) &&
-                (packageCount >= 6 || !q.id.startsWith("WES-")) &&
-                (packageCount >= 5 || !q.id.startsWith("KOM-")) &&
-                (packageCount >= 4 || !q.id.startsWith("FAN-")) &&
-                (packageCount >= 3 || !q.id.startsWith("HOR-")) &&
-                (packageCount >= 2 || !q.id.startsWith("ACT-")),
-            );
-            state.imports = state.imports.filter(
-              (r: { filename: string }) =>
-                ![
-                  "MartialArts_Quiz_180_Fragen.csv",
-                  "RomCom_Quiz_180_Fragen.csv",
-                  "Arthouse_Quiz_180_Fragen.csv",
-                  "Alle_Genres_120_Filme_960_Fragen.csv",
-                  "Preistraeger_200_Fragen.csv",
-                ].includes(r.filename) &&
-                (packageCount >= 8 ||
-                  r.filename !== "Classics_Quiz_180_Fragen.csv") &&
-                (packageCount >= 7 ||
-                  r.filename !== "Drama_Quiz_180_Fragen.csv") &&
-                (packageCount >= 6 ||
-                  r.filename !== "Western_Quiz_180_Fragen.csv") &&
-                (packageCount >= 5 ||
-                  r.filename !== "Komoedie_Quiz_180_Fragen.csv") &&
-                (packageCount >= 5 ||
-                  r.filename !== "Komoedie_Ergaenzung_360_Fragen.csv") &&
-                (packageCount >= 4 ||
-                  r.filename !== "Fantasy_Quiz_180_Fragen.csv") &&
-                (packageCount >= 3 ||
-                  r.filename !== "Horror_Quiz_180_Fragen.csv") &&
-                (packageCount >= 2 ||
-                  r.filename !== "Action_Quiz_180_Fragen.csv"),
-            );
-            store.put(state, "current");
+            const catalog = store.get(state.questions.key);
+            catalog.onsuccess = () => {
+              state.questions = catalog.result;
+              state.questions = state.questions.filter(
+                (q: { id: string }) =>
+                  !q.id.includes("-202610-P01-") &&
+                  !q.id.startsWith("MAR-") &&
+                  !q.id.startsWith("ROM-") &&
+                  !q.id.startsWith("ART-") &&
+                  (packageCount >= 8 || !q.id.startsWith("CLA-")) &&
+                  (packageCount >= 7 || !q.id.startsWith("DRA-")) &&
+                  (packageCount >= 6 || !q.id.startsWith("WES-")) &&
+                  (packageCount >= 5 || !q.id.startsWith("KOM-")) &&
+                  (packageCount >= 4 || !q.id.startsWith("FAN-")) &&
+                  (packageCount >= 3 || !q.id.startsWith("HOR-")) &&
+                  (packageCount >= 2 || !q.id.startsWith("ACT-")),
+              );
+              state.imports = state.imports.filter(
+                (r: { filename: string }) =>
+                  ![
+                    "MartialArts_Quiz_180_Fragen.csv",
+                    "RomCom_Quiz_180_Fragen.csv",
+                    "Arthouse_Quiz_180_Fragen.csv",
+                    "Alle_Genres_120_Filme_960_Fragen.csv",
+                    "Preistraeger_200_Fragen.csv",
+                  ].includes(r.filename) &&
+                  (packageCount >= 8 ||
+                    r.filename !== "Classics_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 7 ||
+                    r.filename !== "Drama_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 6 ||
+                    r.filename !== "Western_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 5 ||
+                    r.filename !== "Komoedie_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 5 ||
+                    r.filename !== "Komoedie_Ergaenzung_360_Fragen.csv") &&
+                  (packageCount >= 4 ||
+                    r.filename !== "Fantasy_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 3 ||
+                    r.filename !== "Horror_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 2 ||
+                    r.filename !== "Action_Quiz_180_Fragen.csv"),
+              );
+              store.put(state, "current");
+            };
           };
           tx.oncomplete = () => {
             db.close();

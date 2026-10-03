@@ -1,5 +1,5 @@
 import type { State } from "./model";
-import { validateBackup } from "./storage";
+import { backgroundFingerprint } from "./stateProcessing";
 import { CloudConflict, CloudSaveError, type SyncReceipt } from "./accounts";
 
 type Remote = {
@@ -19,12 +19,7 @@ export type SyncStore = {
   save: (state: State, revision: number) => Promise<number>;
 };
 export async function fingerprint(state: State) {
-  const bytes = new TextEncoder().encode(JSON.stringify(validateBackup(state)));
-  return Array.from(
-    new Uint8Array(await crypto.subtle.digest("SHA-256", bytes)),
-  )
-    .map((n) => n.toString(16).padStart(2, "0"))
-    .join("");
+  return backgroundFingerprint(state);
 }
 
 // Local changes are durable before they reach this queue. A receipt records only

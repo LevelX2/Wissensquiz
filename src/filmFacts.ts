@@ -177,9 +177,25 @@ export function questionSnapshotMatches(stored: Question, snapshot: Question) {
       return false;
     comparable = { ...snapshot, answers: stored.answers };
   }
+  const base = withCategoryTags(stored),
+    target = withCategoryTags(comparable);
   return (
-    JSON.stringify(withCategoryTags(stored)) ===
-    JSON.stringify(withCategoryTags(comparable))
+    JSON.stringify(base) === JSON.stringify(target) ||
+    snapshotJson(base) === snapshotJson(target)
+  );
+}
+
+// PostgreSQL jsonb can reorder object keys. Snapshot identity depends on values
+// and array order, never the order of metadata keys received from the server.
+function snapshotJson(question: Question) {
+  return JSON.stringify(question, (_key, value) =>
+    value && typeof value === "object" && !Array.isArray(value)
+      ? Object.fromEntries(
+          Object.keys(value)
+            .sort()
+            .map((key) => [key, value[key]]),
+        )
+      : value,
   );
 }
 

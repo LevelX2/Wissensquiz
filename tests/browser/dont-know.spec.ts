@@ -1,3 +1,4 @@
+import { readSavedState } from "./saved-state";
 import { test, expect, type Page } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -17,25 +18,7 @@ const qs = [
   ).values(),
 ].slice(0, 2);
 async function readState(page: Page): Promise<State> {
-  return page.evaluate(
-    () =>
-      new Promise<State>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result;
-          const query = db
-            .transaction("state")
-            .objectStore("state")
-            .get("current");
-          query.onsuccess = () => {
-            db.close();
-            resolve(query.result);
-          };
-          query.onerror = () => reject(query.error);
-        };
-      }),
-  );
+  return readSavedState(page);
 }
 async function prepare(page: Page, mode: Mode = "ueben") {
   await page.clock.install({ time: now });
@@ -266,10 +249,12 @@ test("Neuladen während der Lösungsanzeige bewahrt die Wahl; Offline-Fortsetzen
   await expect(page.locator(".solution-reveal")).toBeVisible();
   await page.clock.runFor(1100);
   // Flush the reveal effect before advancing to completion on WebKit as well.
-  await expect.poll(async () => {
-    await page.clock.runFor(100);
-    return page.locator(".solution-reveal").count();
-  }).toBe(0);
+  await expect
+    .poll(async () => {
+      await page.clock.runFor(100);
+      return page.locator(".solution-reveal").count();
+    })
+    .toBe(0);
   await page.getByRole("button", { name: "Runde abschließen" }).click();
   expect(
     (await readState(page)).events.filter(
