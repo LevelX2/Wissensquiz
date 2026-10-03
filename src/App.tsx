@@ -91,6 +91,7 @@ import { directorExplanation } from "./filmFacts";
 import { FilmDataPanel } from "./FilmDataPanel";
 import { SyncIndicator, SyncSymbol, type SyncDisplay } from "./SyncIndicator";
 import { questionTitleParts } from "./questionTitle";
+import { actorPresentation, presentedQuestion } from "./actorEditorial";
 import {
   playFeedback,
   stopFeedback,
@@ -692,7 +693,6 @@ export function App({
                         onClick={() =>
                           void changeSetup({
                             mode: m,
-                            ...(m === "entdecken" ? { sources: ["film"] } : {}),
                           })
                         }
                       >
@@ -808,7 +808,7 @@ export function App({
                 {!selection.length ? (
                   <p role="status" className="notice">
                     {mode === "entdecken"
-                      ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Genres oder Kategorien, oder spiele frei."
+                      ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Fragenbereiche oder Filmgenres, oder spiele frei."
                       : mode === "fehler"
                         ? "Keine offenen Fehler in Deiner Auswahl. Spiele eine neue Runde oder erweitere Deine Filter."
                         : "Wähle einen Fragenbereich und eine Schwierigkeitsstufe mit verfügbaren Fragen. Für Filmfragen brauchst Du außerdem passende Genres und Filmgruppen."}
@@ -844,11 +844,6 @@ export function App({
                                 sources: e.target.checked
                                   ? [...selectedSources, source]
                                   : selectedSources.filter((s) => s !== source),
-                                ...(source !== "film" &&
-                                e.target.checked &&
-                                mode === "entdecken"
-                                  ? { mode: "ueben" }
-                                  : {}),
                               })
                             }
                           />
@@ -867,8 +862,8 @@ export function App({
                     <p className="tiny muted">
                       Gewählte Bereiche bilden einen gemeinsamen Zufallspool.
                       Genres, Filmgruppen und die Filmauswahl gelten nur für
-                      Filmfragen. Die Schwierigkeitsstufen gelten für alle
-                      Bereiche.
+                      Filmfragen. In der Filmreise gelten die freigeschalteten
+                      Stufen jedes Bereichs.
                     </p>
                   </fieldset>
                   <fieldset
@@ -1021,7 +1016,13 @@ export function App({
                       </fieldset>
                     </>
                   ) : null}
-                  <LearningPath state={state} genres={filters.genres} />
+                  <LearningPath
+                    state={state}
+                    genres={
+                      selectedSources.includes("film") ? filters.genres : []
+                    }
+                    sources={selectedSources}
+                  />
                 </div>
               </section>
               <section className="journey-strip">
@@ -1501,7 +1502,9 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
   const film = filmDetails(q);
   const director = directorExplanation(q);
-  const deepContext = director?.text ?? q.context;
+  const actor = actorPresentation(q);
+  const deepContext = actor?.text ?? director?.text ?? q.context;
+  const sources = [...new Set([...q.sources, ...(actor?.sources ?? [])])];
   return (
     <div className="explanation">
       <span className="eyebrow">DIE IDEE DAHINTER</span>
@@ -1558,11 +1561,11 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
           </p>
         </div>
       )}
-      {q.sources.length > 0 && (
+      {sources.length > 0 && (
         <details>
           <summary>Quellen ansehen</summary>
           <ul>
-            {q.sources.map((url) => (
+            {sources.map((url) => (
               <li key={url}>
                 <a href={url} target="_blank" rel="noreferrer">
                   {new URL(url).hostname} ↗
@@ -1841,7 +1844,9 @@ export function QuestionScreen({
           <div className="question-hints">
             {state.settings.showGenre !== false && (
               <span className="pill question-genre">
-                {genreLabel(genreOf(q))}
+                {questionSourceOf(q) === "film"
+                  ? genreLabel(genreOf(q))
+                  : sourceLabels[questionSourceOf(q)]}
               </span>
             )}
             {state.settings.showDifficulty !== false && (
@@ -1861,7 +1866,7 @@ export function QuestionScreen({
                 {parts.after}
               </>
             ) : (
-              q.question
+              presentedQuestion(q)
             );
           })()}
         </h1>
@@ -2323,7 +2328,7 @@ export function Result({
                   >
                     {e.guessed ? "?" : e.correct ? "✓" : "×"}
                   </span>{" "}
-                  {q.question}
+                  {presentedQuestion(q)}
                 </summary>
                 {!e.correct && (
                   <p>

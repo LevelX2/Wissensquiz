@@ -1,0 +1,604 @@
+{
+  "people": [
+    {
+      "actor": "Tom Hanks",
+      "url": "https://en.wikipedia.org/wiki/Tom_Hanks",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "c09bc607a8a6fec5023f45ad32301e1d7441d6038f02a8af73a50d349957e5cc"
+    },
+    {
+      "actor": "Leonardo DiCaprio",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "9c73d1f85a1de944e980b697ad857c9db99d38d53fa446bf1cc37d524a86bc2e"
+    },
+    {
+      "actor": "Brad Pitt",
+      "url": "https://en.wikipedia.org/wiki/Brad_Pitt",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "4a5d971558150751adc0dacf160cc51617d9332d45be886c3103cabff9a25964"
+    },
+    {
+      "actor": "Johnny Depp",
+      "url": "https://en.wikipedia.org/wiki/Johnny_Depp",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "0e4f2a28c563d08a20cb57f648d59841d7a1d42906b47b2a9867d61a49ab2a75"
+    },
+    {
+      "actor": "Robert De Niro",
+      "url": "https://en.wikipedia.org/wiki/Robert_De_Niro",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "005352fd5b15cfe108cd83bdb7127983b547a3f7d1c270e04271bd7f41da8cdc"
+    },
+    {
+      "actor": "Al Pacino",
+      "url": "https://en.wikipedia.org/wiki/Al_Pacino",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "099c2b55998d6656ba3b97d35b99049a8ea39068ebda37af442e4514172b6b79"
+    },
+    {
+      "actor": "Jack Nicholson",
+      "url": "https://en.wikipedia.org/wiki/Jack_Nicholson",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "16679c525199397518651bf3e2e87dff693c968da56897263514a7b72c7a5ef3"
+    },
+    {
+      "actor": "Denzel Washington",
+      "url": "https://en.wikipedia.org/wiki/Denzel_Washington",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "86240a5d447bde058f9c651c754d2b5c2b89ac005107cd8f530d4581a5b511c3"
+    },
+    {
+      "actor": "Morgan Freeman",
+      "url": "https://en.wikipedia.org/wiki/Morgan_Freeman",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "6f3b222f20e40691c32b8f0376e05f96359d0ab4e58764a2db9e28bb9bd1bfa2"
+    },
+    {
+      "actor": "Samuel L. Jackson",
+      "url": "https://en.wikipedia.org/wiki/Samuel_L._Jackson",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "723e8c1b8cdb33cbe41bddcecfad9ed77b612a798a4941fa7b2070eaf492250c"
+    },
+    {
+      "actor": "Harrison Ford",
+      "url": "https://en.wikipedia.org/wiki/Harrison_Ford",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "37eb06b731796f50cb7fe8592d8ade0b797359332253386fb1c68c4ae5f82ad5"
+    },
+    {
+      "actor": "Tom Cruise",
+      "url": "https://en.wikipedia.org/wiki/Tom_Cruise",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "2bae33cb5966a3a2a0fb0570bf1b11d05d0b8cc520a1cefa80bd551141a0db27"
+    },
+    {
+      "actor": "Keanu Reeves",
+      "url": "https://en.wikipedia.org/wiki/Keanu_Reeves",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "3443dce15cf2348ce1c40d188e164c076d45afa0d1ee3938a7db835ada90cf3f"
+    },
+    {
+      "actor": "Bruce Willis",
+      "url": "https://en.wikipedia.org/wiki/Bruce_Willis",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "eba75035768b1914771d9eecc6ddc80fbd5e6c8385bf19aa4388c71a76e926a3"
+    },
+    {
+      "actor": "Arnold Schwarzenegger",
+      "url": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "711be464c0e7c8baa771d4225292fbbd73e69bb5205816ce4fdda6787e2b996c"
+    },
+    {
+      "actor": "Sylvester Stallone",
+      "url": "https://en.wikipedia.org/wiki/Sylvester_Stallone",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "308c3b428855ac2724da2b69efcdbc1430f10067d1d9d7b091a4346e5a16f270"
+    },
+    {
+      "actor": "Clint Eastwood",
+      "url": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "0d5fe44be49a95d2aca418082c2c22fdeb38bcfeee00d960a17ec001ae21c92e"
+    },
+    {
+      "actor": "Anthony Hopkins",
+      "url": "https://en.wikipedia.org/wiki/Anthony_Hopkins",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "a1e135a000c439ab64b7a8d6400abe037c6454d33b343b4eb3e72cc0eba5fea6"
+    },
+    {
+      "actor": "Daniel Day-Lewis",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Day-Lewis",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "8dea75477ce43765c4b479fd1358fba2f6136ce98d8d3e81aa9e69a95f42d660"
+    },
+    {
+      "actor": "Gary Oldman",
+      "url": "https://en.wikipedia.org/wiki/Gary_Oldman",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "d41caf60810547ad61b43d01a97e6acdc5179924ba463f6be1c984114b4946fc"
+    },
+    {
+      "actor": "Christian Bale",
+      "url": "https://en.wikipedia.org/wiki/Christian_Bale",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "7b48a4ad958fbf2a1424fe83ffa1e573add8dd32e51bf3625265de4bd0a20729"
+    },
+    {
+      "actor": "Joaquin Phoenix",
+      "url": "https://en.wikipedia.org/wiki/Joaquin_Phoenix",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "b547bccf0944671f21197d3f69b49fdf0950bb0e188682fc241996d8b6cc68a1"
+    },
+    {
+      "actor": "Heath Ledger",
+      "url": "https://en.wikipedia.org/wiki/Heath_Ledger",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "0252af1336afda31da1ba0d546f7a2f9ff6a268d797b7dff2968a2ffdf265ee7"
+    },
+    {
+      "actor": "Robin Williams",
+      "url": "https://en.wikipedia.org/wiki/Robin_Williams",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "9e9476167940608eb3b7a335c6f757b771a258dee87ffaf507d4fac73b851304"
+    },
+    {
+      "actor": "Jim Carrey",
+      "url": "https://en.wikipedia.org/wiki/Jim_Carrey",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "a6b1c0fef71fe143f93af5c167bd1a912e8334073d540dff104fac0dc1f16896"
+    },
+    {
+      "actor": "Will Smith",
+      "url": "https://en.wikipedia.org/wiki/Will_Smith",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "f8c24f6e00b34a18a432b4ffd7d93c229f0e716a5131a296bc5d01db64fa0afe"
+    },
+    {
+      "actor": "Matt Damon",
+      "url": "https://en.wikipedia.org/wiki/Matt_Damon",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "1814e46608eef4ede6a354ed3218794a8ee94ad8b2d24d063f9edd9c5d84862e"
+    },
+    {
+      "actor": "Ben Affleck",
+      "url": "https://en.wikipedia.org/wiki/Ben_Affleck",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "41c0a37db1c3499529f63a1074bcceceb6d9edfdbd92c9da1f04ade3c72d74b0"
+    },
+    {
+      "actor": "George Clooney",
+      "url": "https://en.wikipedia.org/wiki/George_Clooney",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "ae76f128e988da39f0b36d16e14d0e383bfa6f167cfc4eb55f861c80a2d607ce"
+    },
+    {
+      "actor": "Sean Connery",
+      "url": "https://en.wikipedia.org/wiki/Sean_Connery",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "7516c0291d040c0c89f0de5c13a7472e263164585722765b8631f9d5b409e22d"
+    },
+    {
+      "actor": "Daniel Craig",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Craig",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "b2492f757f8e93e846eaa3f0ebf755644f3b4a35a213acc85b0716a1ec2d8250"
+    },
+    {
+      "actor": "Benedict Cumberbatch",
+      "url": "https://en.wikipedia.org/wiki/Benedict_Cumberbatch",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "d0a13cfbb43a606ef6d8425f3903fa2aaa5b730b3062a5c7487de48d0520cae2"
+    },
+    {
+      "actor": "Ian McKellen",
+      "url": "https://en.wikipedia.org/wiki/Ian_McKellen",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "ff0c6138890968f3a83e9006467a611b243f33d5ca021505a10f22509ab53892"
+    },
+    {
+      "actor": "Patrick Stewart",
+      "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "514f6330c5b0acd7fec4b3cc596dd79210511dc49c4406061bcdd27ecb91a15d"
+    },
+    {
+      "actor": "Michael Caine",
+      "url": "https://en.wikipedia.org/wiki/Michael_Caine",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "d06c020a9d31d165fefd0aeb1997ca1b3273a7a7a10a9ece94820c914482590e"
+    },
+    {
+      "actor": "Alan Rickman",
+      "url": "https://en.wikipedia.org/wiki/Alan_Rickman",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "9c9f0b3e362ec594dfad9ca6bc8a70555f14c36747365c258dc56c9d3f44883e"
+    },
+    {
+      "actor": "Christoph Waltz",
+      "url": "https://en.wikipedia.org/wiki/Christoph_Waltz",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "9cb4b7061bc3a4530fd9e2a8c611ee32872ce0748db829dd0e464575c99cd51c"
+    },
+    {
+      "actor": "Daniel Brühl",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Br%C3%BChl",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "adfe147c6be276c1b03ccde084af1aa478283471ab96b01353e9767923ebcdd0"
+    },
+    {
+      "actor": "Jürgen Vogel",
+      "url": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Vogel",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "53846fa9589f32ab27206c7231e73b7c6114eb0a28f4267d3c6eb3d277a9ded4"
+    },
+    {
+      "actor": "Moritz Bleibtreu",
+      "url": "https://en.wikipedia.org/wiki/Moritz_Bleibtreu",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "792beca868425ae09b0f1c4f808e7bb1bfb2c73ab72ba46717047c5c441024cd"
+    },
+    {
+      "actor": "Mario Adorf",
+      "url": "https://en.wikipedia.org/wiki/Mario_Adorf",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "165b617a90f5749167c13be7ac0c0cd934a4e15fc8cf402d63fccb201c7b310c"
+    },
+    {
+      "actor": "Bruno Ganz",
+      "url": "https://en.wikipedia.org/wiki/Bruno_Ganz",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "7e1df0718e5649aea96561a6dff93dc254c50118afc4612ee7f8e47b52d761e6"
+    },
+    {
+      "actor": "Bud Spencer",
+      "url": "https://en.wikipedia.org/wiki/Bud_Spencer",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "f67b05587cc7a21e552cffbd3f6b96e1243bb9907404a10753fbbd447a3486d6"
+    },
+    {
+      "actor": "Terence Hill",
+      "url": "https://en.wikipedia.org/wiki/Terence_Hill",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "3e20f87c0059f94aa01d13f3af1f312e88b5110f249a0fa3d2eaeaa5c0af1614"
+    },
+    {
+      "actor": "Jackie Chan",
+      "url": "https://en.wikipedia.org/wiki/Jackie_Chan",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "b149843424a5dc70db63bd08eb374e314ed524dc9619cd4ec3592a480bf5f01a"
+    },
+    {
+      "actor": "Bruce Lee",
+      "url": "https://en.wikipedia.org/wiki/Bruce_Lee",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "9cfa5750f66bb834e75ef17c52a51c5c4153a55571b276a85b65c7d228a0274c"
+    },
+    {
+      "actor": "Chow Yun-fat",
+      "url": "https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "e92f5c00e4e53d819b659c98ccd2c466dac51a13567978eacd5106f5541a1923"
+    },
+    {
+      "actor": "Shah Rukh Khan",
+      "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "c1b3bd3bb0c97e029651edf58204a82900269524fa438bd1ff7c40029cce14a3"
+    },
+    {
+      "actor": "Toshirō Mifune",
+      "url": "https://en.wikipedia.org/wiki/Toshiro_Mifune",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "36cccfc435d1e7d0127be287255eae0b8dac3a23584d4a6fcfd4ea73a09dc19c"
+    },
+    {
+      "actor": "Omar Sharif",
+      "url": "https://en.wikipedia.org/wiki/Omar_Sharif",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "6f9bdcbd37f505eae60fac715ba752070dad1629773c3410f471549ce1b7c503"
+    },
+    {
+      "actor": "Meryl Streep",
+      "url": "https://en.wikipedia.org/wiki/Meryl_Streep",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "784bf6a6abe1d0310a6686228abdad0446039779b6b596b4d4f61e9c16ac3225"
+    },
+    {
+      "actor": "Julia Roberts",
+      "url": "https://en.wikipedia.org/wiki/Julia_Roberts",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "21881e74b8611b845ab525cf4926e1ba07c9b25948996117ac0d5ce3ba506328"
+    },
+    {
+      "actor": "Sandra Bullock",
+      "url": "https://en.wikipedia.org/wiki/Sandra_Bullock",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "322e094d35651f30b2b289f3e43a92bebe52e0c282ba16dbd5da2d5bb761f4c7"
+    },
+    {
+      "actor": "Jodie Foster",
+      "url": "https://en.wikipedia.org/wiki/Jodie_Foster",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "0efd7c7c8affcdda9f1f6f7ce000f445a5658e68e591bbf625c262d3835952a2"
+    },
+    {
+      "actor": "Nicole Kidman",
+      "url": "https://en.wikipedia.org/wiki/Nicole_Kidman",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "38dea3ed6dc5bd1ff0fa95fa4de022525c5f542588e950b3ea95041280481d4a"
+    },
+    {
+      "actor": "Cate Blanchett",
+      "url": "https://en.wikipedia.org/wiki/Cate_Blanchett",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "75f8cab98415ddaa9b0cf2511cde7d5d3ac492c3c79558311df40195d714f1cc"
+    },
+    {
+      "actor": "Kate Winslet",
+      "url": "https://en.wikipedia.org/wiki/Kate_Winslet",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "1c1fef6818daf2d2d2a04e5e66b3def02bd183a823816a878a988fb2f0ec9415"
+    },
+    {
+      "actor": "Emma Thompson",
+      "url": "https://en.wikipedia.org/wiki/Emma_Thompson",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "7c6a434ba2abad428ae0c94798b0eb8111d01d5d128511c8e37ca2a4df5b8bdd"
+    },
+    {
+      "actor": "Helen Mirren",
+      "url": "https://en.wikipedia.org/wiki/Helen_Mirren",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "1217f69bdd2a56ef7563e761e997d0cac450d27d488176cb8e13abf4f4967a7e"
+    },
+    {
+      "actor": "Judi Dench",
+      "url": "https://en.wikipedia.org/wiki/Judi_Dench",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "960178447ba9387e9d93335b201a9308b6c13c76c35141a3c0c04caa365974bc"
+    },
+    {
+      "actor": "Maggie Smith",
+      "url": "https://en.wikipedia.org/wiki/Maggie_Smith",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "403813dace259a912e1d4795c969597105d16deaf1cdbd60af99997b461526b7"
+    },
+    {
+      "actor": "Audrey Hepburn",
+      "url": "https://en.wikipedia.org/wiki/Audrey_Hepburn",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "125ff537e46ef03b95fc529584173aae2e0925d2f9350200ed168bb8c0584ff6"
+    },
+    {
+      "actor": "Katharine Hepburn",
+      "url": "https://en.wikipedia.org/wiki/Katharine_Hepburn",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "b52afaaab3a9a5463b8c0199e3e4ba14de10f0045788ded4fee1ae7dd75a5436"
+    },
+    {
+      "actor": "Elizabeth Taylor",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Taylor",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "0a53d2b2ac483a6518f4bbedd98d2d05082832928819312a9d692606332a11eb"
+    },
+    {
+      "actor": "Marilyn Monroe",
+      "url": "https://en.wikipedia.org/wiki/Marilyn_Monroe",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "86d3f04134ea93baa7079d8dac890123209317e03f3cf2e9f6c1cbf18483fe2e"
+    },
+    {
+      "actor": "Grace Kelly",
+      "url": "https://en.wikipedia.org/wiki/Grace_Kelly",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "ba6f26de04a8e858da9ff8066c9753b2e9a93f17451b117480e9d1ac596fe356"
+    },
+    {
+      "actor": "Sophia Loren",
+      "url": "https://en.wikipedia.org/wiki/Sophia_Loren",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "66d50145cb38eea1f83e08861c4a990e8153ca1f8cfe0fd07332c98d490383c2"
+    },
+    {
+      "actor": "Ingrid Bergman",
+      "url": "https://en.wikipedia.org/wiki/Ingrid_Bergman",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "3ea8a9c05587acecf0ca6317448e11728e10504c686ad0c97688b78a8e5d0921"
+    },
+    {
+      "actor": "Bette Davis",
+      "url": "https://en.wikipedia.org/wiki/Bette_Davis",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "7ffaeffbe3a8880770f57fe4f312f9018d01b65cd1976c8a4b145724c716c37e"
+    },
+    {
+      "actor": "Diane Keaton",
+      "url": "https://en.wikipedia.org/wiki/Diane_Keaton",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "f46abfca1f8222402530554adc328ef409fd2d309774d39d35a69bbb147cc2d3"
+    },
+    {
+      "actor": "Susan Sarandon",
+      "url": "https://en.wikipedia.org/wiki/Susan_Sarandon",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "cb84a9ca1439c0f62fc6753bc75620157d0bfad533886e01e1778d61f9214ecc"
+    },
+    {
+      "actor": "Sigourney Weaver",
+      "url": "https://en.wikipedia.org/wiki/Sigourney_Weaver",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "90621cea13160ce351ef567d6a6a9f4b19ac0cbb3a176ad65ff2e3fa9c0d2efb"
+    },
+    {
+      "actor": "Jamie Lee Curtis",
+      "url": "https://en.wikipedia.org/wiki/Jamie_Lee_Curtis",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "d80cedf6a2ce37fbff5ad5be76b2de23552c4dbaabbe9a64d90e9efd967ac7cb"
+    },
+    {
+      "actor": "Michelle Pfeiffer",
+      "url": "https://en.wikipedia.org/wiki/Michelle_Pfeiffer",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "fd7721f8453402bf7dec5f1a8fd194d8003943433ce486885a4aa81977abf8c9"
+    },
+    {
+      "actor": "Julianne Moore",
+      "url": "https://en.wikipedia.org/wiki/Julianne_Moore",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "e148b3eae2cd8c582782ed455ae979dcafeb6bbdfd269dcc53cde9b75f995041"
+    },
+    {
+      "actor": "Natalie Portman",
+      "url": "https://en.wikipedia.org/wiki/Natalie_Portman",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "a558e4937093d0a0fcbf69f24514073399268f200dbfe6b1801c04e167a853ee"
+    },
+    {
+      "actor": "Angelina Jolie",
+      "url": "https://en.wikipedia.org/wiki/Angelina_Jolie",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "b4ede7dd6a9619dc7fff19e631601112d27d6cd96c5eb07389205e401768f044"
+    },
+    {
+      "actor": "Charlize Theron",
+      "url": "https://en.wikipedia.org/wiki/Charlize_Theron",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "7c56edef8f5cba16beb0fe3ec9fc8f4550b21c75ec1ca5ce3f07ad7d90187285"
+    },
+    {
+      "actor": "Halle Berry",
+      "url": "https://en.wikipedia.org/wiki/Halle_Berry",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "6c3895c8aea5dbf0c3ecd269a7e424cb4148d80f689c14bb274d1fbddabc7d39"
+    },
+    {
+      "actor": "Reese Witherspoon",
+      "url": "https://en.wikipedia.org/wiki/Reese_Witherspoon",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "b7e62af124c580cd0ffc5af4eb706e5ef4a8eb3f025657175ccc0604bb727f7f"
+    },
+    {
+      "actor": "Jennifer Lawrence",
+      "url": "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "77d36bc185170bb4b7aa7a30e171cbf4293ae9b3c01b678ecc868c95495cc90b"
+    },
+    {
+      "actor": "Emma Stone",
+      "url": "https://en.wikipedia.org/wiki/Emma_Stone",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "a6309c96e902945af372d3302fc345a94230c9b7dfa4c0797a44fd4325753695"
+    },
+    {
+      "actor": "Scarlett Johansson",
+      "url": "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "60754f17dfc1883eb84ae27883a2bc266970fdc8ff862c246bd66c4bde430c0e"
+    },
+    {
+      "actor": "Margot Robbie",
+      "url": "https://en.wikipedia.org/wiki/Margot_Robbie",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "2a9c550207c013f9bfc2ebd1fadc8beff957812772e6f3f16a6982fed6efe87b"
+    },
+    {
+      "actor": "Anne Hathaway",
+      "url": "https://en.wikipedia.org/wiki/Anne_Hathaway",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "7d35ca751c3a8b015f99e73f5f2b778580cb1fd7fdba454d88aa21e1aa39fa74"
+    },
+    {
+      "actor": "Amy Adams",
+      "url": "https://en.wikipedia.org/wiki/Amy_Adams",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "f26b1b0c1b71cec0c96b44f1b6d30e028cc1be35073c02416b5cb66bd02bb6a2"
+    },
+    {
+      "actor": "Jessica Chastain",
+      "url": "https://en.wikipedia.org/wiki/Jessica_Chastain",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "37c03fc74f41124ad1077b0499aced697c0e5b58ad6707d042a288b35cdd8855"
+    },
+    {
+      "actor": "Frances McDormand",
+      "url": "https://en.wikipedia.org/wiki/Frances_McDormand",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "875645fbb5f97c4f2bd43f5a375f9cb5c835aa337f41e0fc50e855e0a1bcfb06"
+    },
+    {
+      "actor": "Viola Davis",
+      "url": "https://en.wikipedia.org/wiki/Viola_Davis",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "759496c9bc2c458417f80a6abfb11d36727ccb1b83b0ea87e89e38bf283c7c4a"
+    },
+    {
+      "actor": "Angela Bassett",
+      "url": "https://en.wikipedia.org/wiki/Angela_Bassett",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "acf49b55dd9506a613bc11a9be6d55ceb840f778916ab9d4563b98ab516313ac"
+    },
+    {
+      "actor": "Whoopi Goldberg",
+      "url": "https://en.wikipedia.org/wiki/Whoopi_Goldberg",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "e8ff81f56d6933fa1be35c47e6a521524aaaf418986fc6f20993c66699fb3604"
+    },
+    {
+      "actor": "Drew Barrymore",
+      "url": "https://en.wikipedia.org/wiki/Drew_Barrymore",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "c426836eab4b4ebd064d5b41ff796420a7315678af17084bffcbab18e0f76943"
+    },
+    {
+      "actor": "Winona Ryder",
+      "url": "https://en.wikipedia.org/wiki/Winona_Ryder",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "3233292f7982e7f25ecbe88c1e85b63683434415ec551b6340e8b1fddc434604"
+    },
+    {
+      "actor": "Penélope Cruz",
+      "url": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "8c1743188cf57fe758daf37c0dcc784ced458b4a9c6f84378d0dbfd6e284c7f5"
+    },
+    {
+      "actor": "Salma Hayek",
+      "url": "https://en.wikipedia.org/wiki/Salma_Hayek",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "1b2e03ed2bb280926a1bd16a923a9fe491be5aff1c89249582bc0ad785529b7a"
+    },
+    {
+      "actor": "Michelle Yeoh",
+      "url": "https://en.wikipedia.org/wiki/Michelle_Yeoh",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "860746a635d380c8715e786c82752434ef2ce4b6a5cc70fbaa302385b30efd3b"
+    },
+    {
+      "actor": "Gong Li",
+      "url": "https://en.wikipedia.org/wiki/Gong_Li",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "f4e641031efbabe66b4ea9239921be72a27fd09db8989656be608571a767b8c1"
+    },
+    {
+      "actor": "Franka Potente",
+      "url": "https://en.wikipedia.org/wiki/Franka_Potente",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "a6aa00188f000fda97b6ac5352bda321e59fe71c247e2b00d0df03358554f981"
+    },
+    {
+      "actor": "Diane Kruger",
+      "url": "https://en.wikipedia.org/wiki/Diane_Kruger",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "242af92f3a8041d3956737244e5e634a51007fabd980ad7dc82f569aa40aa1b4"
+    },
+    {
+      "actor": "Romy Schneider",
+      "url": "https://en.wikipedia.org/wiki/Romy_Schneider",
+      "checkedOn": "2026-10-03",
+      "sha256_html": "e1205f85554ba57970dde98e0edb343620fcd132d10d408e614ddd73b8040f5f"
+    }
+  ]
+}

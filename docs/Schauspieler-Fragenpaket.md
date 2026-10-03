@@ -14,7 +14,16 @@ Stand: 03.10.2026. **800 Fragen für 50 Schauspieler und 50 Schauspielerinnen**,
 
 Die Fragen sind einzeln formuliert. Neben bekannten Figuren und Filmpartnerschaften behandeln sie Bühnenarbeit, Musik, Ausbildung, frühere Berufe, Produktion, Auszeichnungen, Sport und öffentliches Engagement. Die Zusatzinformationen erläutern jeweils den konkreten Umstand. Filmdaten sind kein Pflichtbestandteil. Die Auswahl umfasst Hollywood, europäisches Kino, deutschsprachige Darsteller und bekannte Gesichter des asiatischen Kinos; sie bildet keine Rangliste.
 
-## Dateien
+## Redaktionelle Überarbeitung vom 03.10.2026
+
+Alle 800 Vertiefungen wurden um konkrete Hintergründe ergänzt (26–53 Wörter, Median 35 statt bisher 13). Vorgegebene Personennamen stehen vollständig im Fragetext, einschließlich Fragen nach einer gespielten Rolle oder einem Film. Die ursprünglichen Dateien bleiben erhalten; die aktuelle Anzeige verwendet eine getrennte Redaktion, die auch frühere Rundensnapshots unterstützt. Die Filmreferenzen erzeugen keine neuen Fragen und ändern weder Genre noch Wissensziel. [Anzeige- und Fortschrittsvertrag](Filmreise-Personen-und-Vertiefungen.md).
+
+- [Aktuelle überarbeitete Lesefassung mit allen 800 Fragen](Schauspieler-Fragenpaket/Schauspieler_800_Fragen_Lesefassung_2026-10-03.md)
+- [Redaktionsbericht und Prüfsummen](Schauspieler-Fragenpaket/Redaktionsbericht-2026-10-03.json)
+- [Quellenabgleich der 100 Biografien](Schauspieler-Fragenpaket/Quellenpruefung-2026-10-03.json)
+- [Quellenabgleich der ergänzten Film-Eckdaten](Schauspieler-Fragenpaket/Filmquellenpruefung-2026-10-03.json)
+
+## Ursprüngliche Dateien
 
 - [Vollständige Lesefassung mit Personenübersicht, Antworten und Zusatzinformationen](Schauspieler-Fragenpaket/Schauspieler_800_Fragen_Lesefassung.md)
 - [Strukturiertes JSON-Paket](Schauspieler-Fragenpaket/Schauspieler_100_Personen_800_Fragen.json)
@@ -58,11 +67,11 @@ Die Schwierigkeiten sind redaktionelle Einschätzungen und noch nicht mit Spiele
 
 ## App-Kategorie
 
-**Themen → Schauspieler spielen** öffnet das Freie Spiel mit der ausgewählten Personenkategorie. **Personen ansehen** zeigt die 100 Personen und ihren Lernfortschritt. Unter „Fragenbereiche“ lässt sich Schauspieler zusätzlich zu Filmfragen und Preisträger auswählen. Classics und Arthouse begrenzen nur die Filmfragen. Beim Auswählen aus der Filmreise wechselt die App ins Freie Spiel. Rekordrunden und Fehlertraining unterstützen die Kategorie ebenfalls.
+**Themen → Schauspieler spielen** öffnet das Freie Spiel mit der ausgewählten Personenkategorie. **Personen ansehen** zeigt die 100 Personen und ihren Lernfortschritt. Unter „Fragenbereiche“ lässt sich Schauspieler zusätzlich zu Filmfragen und Preisträger auswählen. Classics und Arthouse begrenzen nur die Filmfragen. Die Filmreise erhält die Auswahl und entwickelt Schauspieler mit eigenen Stufen bis Experte. Je 20 sicher beantwortete Ziele der vorherigen Stufe aus abgeschlossenen Runden öffnen die nächste. Rekordrunden und Fehlertraining unterstützen die Kategorie ebenfalls.
 
-Die vierte Paketstufe **Außergewöhnlich** wird in der App als **Experte** geführt, jeweils mit 200 Fragen pro Stufe. Personenfragen sind unabhängig von Filmgenres und Filmgruppen; die Auswahl braucht keine Filmdaten. Bei Erkennungsfragen verraten Überschrift und Kategoriehinweis den Namen nicht. Nach der Antwort erscheinen Name, Lösung, die individuelle Vertiefung unter „Etwas tiefer eintauchen“ und die Quellen. Es erscheint kein künstlicher Filmdatenblock.
+Die vierte Paketstufe **Außergewöhnlich** wird in der App als **Experte** geführt, jeweils mit 200 Fragen pro Stufe. Personenfragen sind unabhängig von Filmgenres und Filmgruppen; die Auswahl braucht keine Filmdaten. Bei Erkennungsfragen verraten Überschrift und Kategoriehinweis den Namen nicht. Nach der Antwort erscheinen Name, Lösung, die individuelle Vertiefung unter „Etwas tiefer eintauchen“ und die Quellen. Bei 549 Fragen mit konkretem Filmbezug erscheint nach der Antwort der gleiche Filmdatenbereich wie bei Filmfragen; mehrere betroffene Filme werden getrennt aufgeführt. Biografische Fragen bleiben ohne erzwungene Filmverknüpfung.
 
-50 Fragen wurden redaktionell vorhandenen Rollen-, Regie-, Vorlagen- oder Preiszielen zugeordnet; diese Varianten nutzen dieselben Wissensziel-IDs. Die übrigen 750 ergänzen neue Ziele. Der Gesamtbestand umfasst nun **5.677 Fragen und 5.147 Wissensziele**. Bestehende Fragen, Versionen, Lernereignisse und Rundensnapshots bleiben erhalten. Schauspielerfragen verändern die festen Filmreise-Ziele und ihre Bekanntheitsgruppen nicht; Lernen, Fehlertraining, Karriere-XP und persönliche Rekordrunden funktionieren über die bestehenden Regeln.
+50 Fragen wurden redaktionell vorhandenen Rollen-, Regie-, Vorlagen- oder Preiszielen zugeordnet; diese Varianten nutzen dieselben Wissensziel-IDs. Die übrigen 750 ergänzen neue Ziele. Der Gesamtbestand umfasst nun **5.677 Fragen und 5.147 Wissensziele**. Bestehende Fragen, Versionen, Lernereignisse und Rundensnapshots bleiben erhalten. Schauspielerfragen haben eigene Filmreise-Freischaltungen und verändern die festen Filmgenre-Ziele und ihre Bekanntheitsgruppen nicht; Lernen, Fehlertraining, Karriere-XP und persönliche Rekordrunden funktionieren über die bestehenden Regeln.
 
 Die App-CSV wird mit `node scripts/prepare-actor-package.mjs` aus dem unveränderten JSON-Paket und den Bestandszuordnungen in `src/actorKnowledgeLinks.json` abgeleitet. Die ursprüngliche Redaktion, IDs, Texte, Antworten, Zusatzinformationen und Quellen bleiben erhalten. Nur für die App werden Stufennamen und die 50 Wissensziel-Zuordnungen aufgelöst. Der reguläre Paketimport läuft transaktional und idempotent, die CSV ist im Offline-Cache enthalten. Sicherungen erhalten die Personenmetadaten und alle vier Kategorieauswahlen. Die einzelne abgeleitete CSV benötigt für ihre Variantenverweise den bestehenden Filmkatalog; der automatische App-Paketimport stellt diese Reihenfolge sicher.
 

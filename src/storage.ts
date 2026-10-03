@@ -47,7 +47,10 @@ const roundSchema = z.object({
   unlocks: z
     .array(
       z.union([
-        z.object({ genre: id, difficulty: z.enum(["mittel", "schwer"]) }),
+        z.object({
+          genre: id,
+          difficulty: z.enum(["mittel", "schwer", "experte"]),
+        }),
         z.object({
           genre: id,
           familiarity: z.union([
@@ -158,10 +161,11 @@ const stateSchema = z.object({
   journey: z
     .object({
       version: z.literal(1),
+      independentAreas: z.literal(true).optional(),
       earned: z.record(
         id,
         z.object({
-          difficulty: z.number().int().min(0).max(2),
+          difficulty: z.number().int().min(0).max(3),
           familiarity: z.number().int().min(0).max(4),
         }),
       ),

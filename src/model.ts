@@ -106,7 +106,7 @@ export interface Round {
   ruleVersion: string;
   familiaritySnapshot?: Record<string, number>;
   unlocks?: (
-    | { genre: string; difficulty: "mittel" | "schwer" }
+    | { genre: string; difficulty: "mittel" | "schwer" | "experte" }
     | { genre: string; familiarity: 1 | 2 | 3 | 4 }
   )[];
   questions: Question[];
@@ -164,6 +164,7 @@ export interface State {
   records: Record<string, { points: number; roundId: string }>;
   journey?: {
     version: 1;
+    independentAreas?: true;
     earned: Record<string, { difficulty: number; familiarity: number }>;
   };
 }

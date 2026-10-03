@@ -9,6 +9,8 @@
 
 ## Spielbare Testversion
 
+- [Schauspieler und Preisträger in der Filmreise, vollständige Namen, Vertiefungen und Filmverweise](../../../docs/Filmreise-Personen-und-Vertiefungen.md)
+
 - [Fragedatenorganisation: getrennter lokaler Katalog, verlustfreie Metadatenverweise und schnellere Zuordnungen](../../../docs/Fragedaten-Organisation.md)
 - [Struktur- und Größenprüfung aller Fragenpakete](../../../docs/Fragedaten-Pruefung.json)
 

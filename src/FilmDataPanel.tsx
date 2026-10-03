@@ -1,21 +1,54 @@
 import { familiarityLabel, familiarityOf } from "./familiarity";
 import type { Question } from "./model";
 import { filmData } from "./filmFacts";
+import { actorPresentation } from "./actorEditorial";
 
 export function FilmDataPanel({ q }: { q: Question }) {
+  const references = actorPresentation(q)?.films;
+  if (references?.length)
+    return (
+      <details className="film-data">
+        <summary>Filmdaten</summary>
+        {references.map((reference) => (
+          <FilmDataContent key={reference} q={q} reference={reference} />
+        ))}
+      </details>
+    );
   const data = filmData(q);
   if (!data) return null;
   return (
     <details className="film-data">
       <summary>Filmdaten</summary>
+      <FilmDataContent q={q} />
+    </details>
+  );
+}
+function FilmDataContent({
+  q,
+  reference,
+}: {
+  q: Question;
+  reference?: string;
+}) {
+  const data = filmData(q, reference);
+  if (!data) return null;
+  return (
+    <>
+      {reference && (
+        <h3>
+          {data.originalTitle} ({data.year})
+        </h3>
+      )}
       <dl>
-        <div>
-          <dt>Bekanntheit</dt>
-          <dd>
-            {familiarityLabel(familiarityOf(q))}
-            <small>Redaktionelle Einordnung</small>
-          </dd>
-        </div>
+        {!reference && (
+          <div>
+            <dt>Bekanntheit</dt>
+            <dd>
+              {familiarityLabel(familiarityOf(q))}
+              <small>Redaktionelle Einordnung</small>
+            </dd>
+          </div>
+        )}
         <div>
           <dt>Originaltitel</dt>
           <dd>{data.originalTitle}</dd>
@@ -75,6 +108,6 @@ export function FilmDataPanel({ q }: { q: Question }) {
           </a>
         ))}
       </div>
-    </details>
+    </>
   );
 }

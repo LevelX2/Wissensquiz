@@ -76,7 +76,10 @@ export function Help() {
           alle Bereiche. Im Freien Spiel und in Rekordrunden erfolgt die Auswahl
           zufällig aus dem gemeinsamen Pool; feste Anteile je Bereich gibt es
           nicht. Im Fehlertraining werden Deine offenen Fehler wiederholt. Die
-          Filmreise bleibt auf ihre vorhandenen Filme ausgerichtet.
+          Filmreise unterstützt ebenfalls alle drei Bereiche. Schauspieler und
+          Preisträger öffnen ihre Stufen separat: je 20 sicher beantwortete
+          Ziele aus der vorherigen Stufe bis zu Experte. Bei Filmfragen bleiben
+          Genre- und Filmgruppenfortschritte erhalten.
         </p>
         <p>
           Classics und Arthouse sind kuratierte Filmauswahlen innerhalb Deiner
@@ -209,6 +212,12 @@ export function Help() {
       </details>
       <details>
         <summary>Wie öffne ich neue Schwierigkeiten und Filmgruppen?</summary>
+        <p>
+          Schauspieler und Preisträger beginnen jeweils mit Leicht. Je 20 sicher
+          beantwortete Wissensziele aus abgeschlossenen Runden öffnen Mittel,
+          danach Schwer und schließlich Experte. Jeder Bereich zählt getrennt;
+          diese Fragen sind unabhängig von Filmgruppen.
+        </p>
         <p>
           Die Filmreise beginnt je Genre mit Leicht und der bekanntesten
           vorhandenen Filmgruppe. Vier Gruppen unterscheiden Film-Ikonen,

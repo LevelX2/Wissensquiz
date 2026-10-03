@@ -1,14 +1,16 @@
 # Projektstart Wissensquiz
 
+## Aktueller Stand
+
+03.10.2026: Filmreise mit allen drei additiven Fragenbereichen umgesetzt; Schauspieler und Preisträger entwickeln sich separat bis Experte mit je 20 sicheren Zielen der vorherigen Stufe. 727 vorgegebene Personennamen vollständig im Fragetext, 73 Erkennungsfragen weiterhin verdeckt. Alle 800 Vertiefungen individuell ergänzt; 549 Fragen mit 493 Filmverweisen, 382 zusätzliche Eckdaten. Rohquellen, IDs, Lernstände und historische Rundensnapshots erhalten. 234 Tests, Produktions-Build und 31 abschließende Browserfälle erfolgreich; Veröffentlichung läuft. [Fachvertrag](../docs/Filmreise-Personen-und-Vertiefungen.md), [Prüfbericht](../docs/Pruefbericht.md).
+
+## Bisherige Entwicklungs- und Veröffentlichungsstände
+
 03.10.2026 **Sites-Version 39 veröffentlicht**, nativer Status `succeeded`: Filmfragen, Preisträger und Schauspieler als additive Fragenbereiche gemeinsam oder einzeln auswählbar. Genres, Filmgruppen und Classics/Arthouse begrenzen nur Filmfragen. Quellcommit `0db3262f4ff8cf41f72fa08e66e6abe8476c3180`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_e23c81f849748191b0c1c0a41f628987`, Deployment `appgdep_6ac09f20d34c81918c5c85d11c5585e1`. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich; mobile Ansichten, Axe, Sicherungsrücklauf und Offline-Wiederaufnahme geprüft. Offline-Paket `film-599e2f3a4db2`; Archiv mit 49 Dateien und Hash `sha256:056770347d4977e448e310cc6f70cf6aee8417470464e9b2e3b4884bd3390d6e` nativ gespeichert. Bestehende öffentliche URL, Projekt-ID, alle Inhalte, Frage-/Wissensziel-IDs, Lernstände und historische Runden erhalten. Keine Servermigration, Main-Integration oder GitHub-Veröffentlichung. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
 
 03.10.2026 **Additive Fragenbereiche als Version 39 veröffentlicht**: Filmfragen, Preisträger und Schauspieler gemeinsam oder einzeln auswählbar; Filmgenre-/Bekanntheits-/Classics-/Arthousefilter gelten nur für Filmfragen. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich. Veröffentlichung erfolgreich. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
 
-## Aktueller Stand
-
 03.10.2026: **Sites-Version 40 erfolgreich veröffentlicht**, nativer Status succeeded. Duell als fünfte gleich gestaltete Startkachel, schnellere Antwortverarbeitung, Kontosicherung im Hintergrund und Solo-Lösungswahl unter Profil → Optionen. Die bisherigen Zeitregeln bleiben erhalten. Schauspieler, öffentliche Bestenliste/Gastaktivität, komprimierter Katalog und additive Fragenbereiche aus Versionen 38/39 enthalten; 5.677 Fragen/5.147 Ziele und Rohquellen unverändert. 229 Tests, Build und 19 unterschiedliche finale Browserfälle erfolgreich. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md), [Prüfbericht](../docs/Pruefbericht.md).
-
-## Bisherige Entwicklungs- und Veröffentlichungsstände
 
 03.10.2026 **Additive Fragenbereiche lokal geprüft**: Filmfragen, Preisträger und Schauspieler gemeinsam oder einzeln auswählbar; Filmgenre-/Bekanntheits-/Classics-/Arthousefilter gelten nur für Filmfragen. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich. Zur Veröffentlichung vorbereitet. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
 
