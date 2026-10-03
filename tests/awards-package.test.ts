@@ -19,10 +19,13 @@ import { decodeCloudState, encodeCloudState } from "../src/cloudCodec";
 import sources from "../KI-Wissen-Wissensquiz/01 Rohquellen/Preistraeger_Quellennachweis.json";
 import films from "../KI-Wissen-Wissensquiz/01 Rohquellen/Preistraeger_Filmdaten.json";
 
-const contents = packages.map((p) => ({
-  filename: p.filename,
-  text: readFileSync(`public${p.path}`, "utf8"),
-}));
+// Keep this regression at the award package's original catalog stage.
+const contents = packages
+  .filter((p) => p.filename !== "Schauspieler_800_Fragen_App.csv")
+  .map((p) => ({
+    filename: p.filename,
+    text: readFileSync(`public${p.path}`, "utf8"),
+  }));
 const latest = contents.at(-1)!;
 const imported = importCsv(latest.text, [], latest.filename);
 const questions = imported.questions;

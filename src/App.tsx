@@ -1,5 +1,12 @@
 import { familiarities, familiarityLabel, ruleLabel } from "./familiarity";
-import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import {
+  useContext,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+  type ReactNode,
+} from "react";
 import {
   answer,
   badgeEligible,
@@ -32,6 +39,9 @@ import {
   genreLabel,
   roundGenres,
   roundDifficulties,
+  questionSources,
+  sourceLabels,
+  questionSourceOf,
 } from "./filters";
 import {
   download,
@@ -43,9 +53,12 @@ import {
 import { useOffline } from "./offline";
 import { BadgeIcon, GenreArtwork } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
+import { ActivityContext } from "./GuestActivity";
+import { GuestActivityReporter } from "./guestActivityDelivery";
 import { Help } from "./Help";
 import { RoundGuide } from "./RoundGuide";
 import { SolutionChoice } from "./SolutionChoice";
+import { SetupSection } from "./SetupSection";
 import { DuelCenter } from "./DuelCenter";
 import { readRoundSetup } from "./roundSetup";
 import { errorTrainingContext } from "./errorTraining";
@@ -57,7 +70,9 @@ import { QuestionHistory } from "./QuestionHistoryPanel";
 import {
   categories,
   type Category,
-  categoryTopic,
+  selectionTopic,
+  filmCategories,
+  ACTORS,
   matchesCategories,
   matchesTopic,
 } from "./categories";
@@ -148,7 +163,11 @@ function TopicCard({
   const ids = [
     ...new Set(
       questions
-        .filter((q) => (genre ? genreOf(q) === topic : matchesTopic(q, topic)))
+        .filter((q) =>
+          genre
+            ? questionSourceOf(q) === "film" && genreOf(q) === topic
+            : matchesTopic(q, topic),
+        )
         .map((q) => q.knowledgeId),
     ),
   ];
@@ -204,7 +223,8 @@ function TopicCard({
         )}
         {onBrowse && (
           <button className="text-button" onClick={onBrowse}>
-            Filme & Reihen ansehen <span>↗</span>
+            {topic === ACTORS ? "Personen ansehen" : "Filme & Reihen ansehen"}{" "}
+            <span>↗</span>
           </button>
         )}
       </div>
@@ -252,6 +272,39 @@ export function App({
   const booted = useRef(false);
   const inFlight = useRef(false);
   const offline = useOffline();
+  const activityClient = useContext(ActivityContext);
+  const guestReporter = useRef<GuestActivityReporter | null>(null);
+  useEffect(() => {
+    if (storageKey !== "current") return;
+    // This delivery queue is separate from the personal guest save.
+    let storage: Pick<Storage, "getItem" | "setItem">;
+    try {
+      storage = localStorage;
+    } catch {
+      storage = {
+        getItem: () => {
+          throw new Error();
+        },
+        setItem: () => {
+          throw new Error();
+        },
+      };
+    }
+    const reporter = new GuestActivityReporter(activityClient, storage);
+    guestReporter.current = reporter;
+    const flush = () => {
+      void reporter.flush();
+    };
+    flush();
+    const timer = window.setInterval(flush, 30000);
+    window.addEventListener("online", flush);
+    return () => {
+      guestReporter.current = null;
+      reporter.stop();
+      window.clearInterval(timer);
+      window.removeEventListener("online", flush);
+    };
+  }, [activityClient, storageKey]);
   useEffect(() => {
     if (state) onPersistedState?.(state);
   }, [state, onPersistedState]);
@@ -364,14 +417,24 @@ export function App({
     categories: selectedCategories,
     difficulties: selectedDifficulties,
     familiarities: selectedFamiliarities = [...familiarities],
+    sources: selectedSources = ["film"],
   } = pendingSetup ?? readRoundSetup(state);
   const changeSetup = async (patch: Partial<RoundSetup>) => {
     if (inFlight.current) return null;
     // Reflect the click immediately; only committed state reaches account sync.
-    setPendingSetup({ ...readRoundSetup(state), ...patch });
+    setPendingSetup(
+      readRoundSetup({
+        ...state,
+        settings: {
+          ...state.settings,
+          roundSetup: { ...readRoundSetup(state), ...patch },
+        },
+      }),
+    );
     try {
       return await mutate((s) => {
         s.settings.roundSetup = { ...readRoundSetup(s), ...patch };
+        s.settings.roundSetup = readRoundSetup(s);
       });
     } finally {
       setPendingSetup(null);
@@ -383,23 +446,48 @@ export function App({
   const albumTopics = topics.filter(
     (t) => !answeredOnly || startedTopics.has(t),
   );
-  const genres = [...new Set(state.questions.map(genreOf))].sort();
+  const genres = [
+    ...new Set(
+      state.questions
+        .filter((q) => questionSourceOf(q) === "film")
+        .map(genreOf),
+    ),
+  ]
+    .filter((genre) => genre !== ACTORS)
+    .sort();
   const browseQuestions =
     page === "topics" && topicScope
       ? state.questions.filter((q) =>
           topicScope.kind === "genre"
-            ? genreOf(q) === topicScope.name
+            ? questionSourceOf(q) === "film" && genreOf(q) === topicScope.name
             : matchesCategories(q, [topicScope.name]),
         )
       : [];
   const browseTopics = [...new Set(browseQuestions.map((q) => q.topic))].sort();
   const filters = {
-    genres: selectedGenres ?? genres,
+    genres: (selectedGenres ?? genres).filter((genre) => genre !== ACTORS),
+    sources: selectedSources,
     difficulties:
       mode === "entdecken" ? [...difficulties] : selectedDifficulties,
     familiarities:
       mode === "entdecken" ? [...familiarities] : selectedFamiliarities,
   };
+  const solutionDisplay =
+    pendingSolutions ?? state.settings.solutionDisplay ?? "question";
+  const genreSummary =
+    filters.genres.length === genres.length
+      ? "Alle Genres"
+      : filters.genres.length > 2
+        ? `${filters.genres.length} Genres`
+        : filters.genres.map(genreLabel).join(" + ") || "Keine Genres";
+  const difficultySummary =
+    selectedDifficulties.length === difficulties.length
+      ? "Alle Stufen"
+      : selectedDifficulties.map(difficultyLabel).join(" + ") || "Keine Stufe";
+  const familiaritySummary =
+    selectedFamiliarities.length === familiarities.length
+      ? "Alle Filmgruppen"
+      : `Filmgruppen ${selectedFamiliarities.join(" + ") || "keine"}`;
   const toggleGenre = (genre: string) =>
     void changeSetup({
       genres: filters.genres.includes(genre)
@@ -407,13 +495,16 @@ export function App({
         : [...filters.genres, genre],
     });
   const playGenre = async (genre: string) => {
-    if (await changeSetup({ categories: [], genres: [genre] })) setPage("home");
+    if (
+      await changeSetup({ categories: [], genres: [genre], sources: ["film"] })
+    )
+      setPage("home");
   };
   const completed = state.rounds.filter((r) => r.status === "completed");
   const active = state.rounds.find((r) => r.status === "active");
   const current = state.rounds.find((r) => r.id === roundId);
   const targetSize = completed.length ? 10 : 5;
-  const roundTopic = categoryTopic("Alle Themen", selectedCategories);
+  const roundTopic = selectionTopic(selectedCategories, selectedSources);
   const selection = selectQuestions(
     pathQuestions(state, mode),
     state.learning,
@@ -442,6 +533,7 @@ export function App({
       }).id;
     });
     if (next) {
+      guestReporter.current?.record(next, id, "started");
       playFeedback("start", next.settings);
       setRoundId(id);
       setIndex(0);
@@ -469,6 +561,7 @@ export function App({
       }).id;
     });
     if (next) {
+      guestReporter.current?.record(next, id, "started");
       playFeedback("start", next.settings);
       setRoundId(id);
       setIndex(0);
@@ -584,51 +677,57 @@ export function App({
                 )}
               </header>
               <section className="round-setup" aria-label="Runde vorbereiten">
-                <div className="section-title">
-                  <h2>Wie möchtest Du spielen?</h2>
-                </div>
-                <div className="mode-grid">
-                  {(["entdecken", "ueben", "rekord", "fehler"] as Mode[]).map(
-                    (m, i) => (
-                      <button
-                        key={m}
-                        className={`mode-card mode-${m} ${mode === m ? "active" : ""}`}
-                        aria-pressed={mode === m}
-                        disabled={busy}
-                        onClick={() => void changeSetup({ mode: m })}
-                      >
-                        <img
-                          className="mode-artwork"
-                          src={
-                            m === "fehler"
-                              ? "/modes/fehler.svg"
-                              : `/modes/${m}.png`
+                <SetupSection title="Spielmodus" selection={modeNames[mode]}>
+                  <div className="mode-grid">
+                    {(["entdecken", "ueben", "rekord", "fehler"] as Mode[]).map(
+                      (m, i) => (
+                        <button
+                          key={m}
+                          className={`mode-card mode-${m} ${mode === m ? "active" : ""}`}
+                          aria-pressed={mode === m}
+                          disabled={busy}
+                          onClick={() =>
+                            void changeSetup({
+                              mode: m,
+                              ...(m === "entdecken"
+                                ? { sources: ["film"] }
+                                : {}),
+                            })
                           }
-                          alt=""
-                          width={88}
-                          height={88}
-                          decoding="async"
-                        />
-                        <strong>{modeNames[m]}</strong>
-                        <small>
-                          {
-                            [
-                              "Filmwelten und Stufen freischalten",
-                              "Alle Stufen frei kombinieren",
-                              "30 Sekunden. Dein persönlicher Rekord.",
-                              "Offene Fehler gezielt wiederholen",
-                            ][i]
-                          }
-                        </small>
-                        {mode === m && (
-                          <span className="mode-check" aria-hidden="true">
-                            ✓
-                          </span>
-                        )}
-                      </button>
-                    ),
-                  )}
-                </div>
+                        >
+                          <img
+                            className="mode-artwork"
+                            src={
+                              m === "fehler"
+                                ? "/modes/fehler.svg"
+                                : `/modes/${m}.png`
+                            }
+                            alt=""
+                            width={88}
+                            height={88}
+                            decoding="async"
+                          />
+                          <strong>{modeNames[m]}</strong>
+                          <small>
+                            {
+                              [
+                                "Filmwelten und Stufen freischalten",
+                                "Alle Stufen frei kombinieren",
+                                "30 Sekunden. Dein persönlicher Rekord.",
+                                "Offene Fehler gezielt wiederholen",
+                              ][i]
+                            }
+                          </small>
+                          {mode === m && (
+                            <span className="mode-check" aria-hidden="true">
+                              ✓
+                            </span>
+                          )}
+                        </button>
+                      ),
+                    )}
+                  </div>
+                </SetupSection>
 
                 <div className="round-start">
                   <button
@@ -644,42 +743,27 @@ export function App({
                     className="tiny muted"
                     aria-live="polite"
                   >
-                    {filters.genres.length === genres.length
-                      ? "Alle Genres"
-                      : filters.genres.length
-                        ? filters.genres.map(genreLabel).join(" + ")
-                        : "Kein Genre"}
+                    {roundTopic}
+                    {selectedSources.includes("film") &&
+                      ` · ${
+                        filters.genres.length === genres.length
+                          ? "Alle Genres"
+                          : filters.genres.length
+                            ? filters.genres.map(genreLabel).join(" + ")
+                            : "Kein Filmgenre"
+                      }`}
                     {" · "}
                     {selection.length}{" "}
                     {mode === "fehler" ? "offene Fehler" : "Fragen"}
                     {" · "}
                     {mode !== "entdecken"
-                      ? "Freie Auswahl: " +
-                        (selectedDifficulties.length
-                          ? selectedDifficulties
-                              .map(difficultyLabel)
-                              .join(" + ")
-                          : "keine Stufe")
+                      ? `Freie Auswahl: ${difficultySummary}`
                       : "Filmreise · freigeschaltete Stufen"}
                     {mode !== "entdecken" &&
-                      ` · Filmgruppen ${selectedFamiliarities.join(" + ") || "keine"}`}
-                    {roundTopic !== "Alle Themen" && " · " + roundTopic}
+                      selectedSources.includes("film") &&
+                      ` · ${familiaritySummary}`}
                   </p>
                 </div>
-                <SolutionChoice
-                  value={
-                    pendingSolutions ??
-                    state.settings.solutionDisplay ??
-                    "question"
-                  }
-                  disabled={busy || !!active}
-                  onChange={(value) => {
-                    setPendingSolutions(value);
-                    void mutate((s) => {
-                      s.settings.solutionDisplay = value;
-                    }).finally(() => setPendingSolutions(undefined));
-                  }}
-                />
                 <button
                   className="duel-entry secondary"
                   disabled={busy || !!active}
@@ -716,7 +800,7 @@ export function App({
                       ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Genres oder Kategorien, oder spiele frei."
                       : mode === "fehler"
                         ? "Keine offenen Fehler in Deiner Auswahl. Spiele eine neue Runde oder erweitere Deine Filter."
-                        : "Wähle mindestens ein Genre, eine Schwierigkeitsstufe und eine Filmgruppe mit verfügbaren Fragen."}
+                        : "Wähle einen Fragenbereich und eine Schwierigkeitsstufe mit verfügbaren Fragen. Für Filmfragen brauchst Du außerdem passende Genres und Filmgruppen."}
                     {mode === "entdecken" && (
                       <button
                         className="text-button"
@@ -736,70 +820,139 @@ export function App({
                 )}
 
                 <div className="quiz-filters">
-                  <fieldset disabled={busy}>
-                    <legend>Filmgenres</legend>
-                    <p className="muted tiny">
-                      Ein oder mehrere Genres kombinieren.
-                    </p>
-                    <div className="filter-options genre-options">
-                      {genres.map((g) => (
-                        <label className="filter-choice" key={g}>
+                  <SetupSection
+                    title="Fragenbereiche"
+                    selection={
+                      selectedSources.map((s) => sourceLabels[s]).join(" + ") ||
+                      "Keine Bereiche"
+                    }
+                  >
+                    <fieldset disabled={busy}>
+                      <legend>Fragenbereiche</legend>
+                      <div className="filter-options">
+                        {questionSources.map((source) => (
+                          <label className="filter-choice" key={source}>
+                            <input
+                              type="checkbox"
+                              checked={selectedSources.includes(source)}
+                              onChange={(e) =>
+                                void changeSetup({
+                                  sources: e.target.checked
+                                    ? [...selectedSources, source]
+                                    : selectedSources.filter(
+                                        (s) => s !== source,
+                                      ),
+                                  ...(source !== "film" &&
+                                  e.target.checked &&
+                                  mode === "entdecken"
+                                    ? { mode: "ueben" }
+                                    : {}),
+                                })
+                              }
+                            />
+                            <GenreArtwork
+                              genre={
+                                source === "film"
+                                  ? "Classics"
+                                  : sourceLabels[source]
+                              }
+                              compact
+                            />
+                            {sourceLabels[source]}
+                          </label>
+                        ))}
+                      </div>
+                      <p className="tiny muted">
+                        Gewählte Bereiche bilden einen gemeinsamen Zufallspool.
+                        Genres, Filmgruppen und die Filmauswahl gelten nur für
+                        Filmfragen. Die Schwierigkeitsstufen gelten für alle
+                        Bereiche.
+                      </p>
+                    </fieldset>
+                  </SetupSection>
+                  <SetupSection
+                    title="Filmgenres & Filmauswahl"
+                    selection={
+                      selectedSources.includes("film")
+                        ? `${genreSummary} · ${selectedCategories.join(" + ") || "Alle Filme"}`
+                        : "Für Filmfragen · derzeit abgewählt"
+                    }
+                  >
+                    <fieldset
+                      disabled={busy || !selectedSources.includes("film")}
+                    >
+                      <legend>Filmgenres</legend>
+                      <p className="muted tiny">
+                        Ein oder mehrere Genres kombinieren.
+                      </p>
+                      <div className="filter-options genre-options">
+                        {genres.map((g) => (
+                          <label className="filter-choice" key={g}>
+                            <input
+                              type="checkbox"
+                              checked={filters.genres.includes(g)}
+                              onChange={() => toggleGenre(g)}
+                            />
+                            <GenreArtwork genre={g} compact />
+                            <span>{genreLabel(g)}</span>
+                          </label>
+                        ))}
+                      </div>
+                      <button
+                        className="text-button"
+                        onClick={() => {
+                          void changeSetup({ genres: null });
+                        }}
+                      >
+                        Alle Genres auswählen
+                      </button>
+                      <button
+                        className="text-button"
+                        onClick={() => {
+                          void changeSetup({ genres: [] });
+                        }}
+                      >
+                        Alle Genres abwählen
+                      </button>
+                    </fieldset>
+                    <fieldset
+                      disabled={busy || !selectedSources.includes("film")}
+                    >
+                      <legend>Filmauswahl</legend>
+                      {filmCategories.map((category) => (
+                        <label className="filter-choice" key={category}>
                           <input
                             type="checkbox"
-                            checked={filters.genres.includes(g)}
-                            onChange={() => toggleGenre(g)}
+                            checked={selectedCategories.includes(category)}
+                            onChange={(e) => {
+                              void changeSetup({
+                                categories: e.target.checked
+                                  ? [...selectedCategories, category]
+                                  : selectedCategories.filter(
+                                      (c) => c !== category,
+                                    ),
+                              });
+                            }}
                           />
-                          <GenreArtwork genre={g} compact />
-                          <span>{genreLabel(g)}</span>
+                          <GenreArtwork genre={category} compact />
+                          Nur {category}
                         </label>
                       ))}
-                    </div>
-                    <button
-                      className="text-button"
-                      onClick={() => {
-                        void changeSetup({ genres: null });
-                      }}
-                    >
-                      Alle Genres auswählen
-                    </button>
-                    <button
-                      className="text-button"
-                      onClick={() => {
-                        void changeSetup({ genres: [] });
-                      }}
-                    >
-                      Alle Genres abwählen
-                    </button>
-                  </fieldset>
-                  <fieldset disabled={busy}>
-                    <legend>Zusätzliche Kategorien</legend>
-                    {categories.map((category) => (
-                      <label className="filter-choice" key={category}>
-                        <input
-                          type="checkbox"
-                          checked={selectedCategories.includes(category)}
-                          onChange={(e) => {
-                            void changeSetup({
-                              categories: e.target.checked
-                                ? [...selectedCategories, category]
-                                : selectedCategories.filter(
-                                    (c) => c !== category,
-                                  ),
-                            });
-                          }}
-                        />
-                        <GenreArtwork genre={category} compact />
-                        Nur {category}
-                      </label>
-                    ))}
-                    <p className="tiny muted">
-                      Kuratierte Auswahlen innerhalb Deiner Genres. Mehrere
-                      gewählte Kategorien werden kombiniert. Gemeinsame Fragen
-                      zählen nur einmal.
-                    </p>
-                  </fieldset>
+                      <p className="tiny muted">
+                        Ohne Einschränkung kommen alle Filmfragen aus Deinen
+                        Genres infrage. Classics und Arthouse begrenzen nur
+                        diesen Bereich; zusammen bilden sie eine Vereinigung.
+                        Schauspieler und Preisträger bleiben zusätzlich im Pool,
+                        wenn Du sie oben auswählst. Gemeinsame Wissensziele
+                        zählen pro Runde einmal.
+                      </p>
+                    </fieldset>
+                  </SetupSection>
                   {mode !== "entdecken" ? (
-                    <>
+                    <SetupSection
+                      title="Schwierigkeit & Filmgruppen"
+                      selection={`${difficultySummary}${selectedSources.includes("film") ? ` · ${familiaritySummary}` : ""}`}
+                    >
                       <fieldset disabled={busy}>
                         <legend>Schwierigkeitsstufen</legend>
                         <div className="filter-options">
@@ -835,7 +988,9 @@ export function App({
                           Alle Stufen auswählen
                         </button>
                       </fieldset>
-                      <fieldset disabled={busy}>
+                      <fieldset
+                        disabled={busy || !selectedSources.includes("film")}
+                      >
                         <legend>Bekanntheit der Filme</legend>
                         <div className="filter-options">
                           {familiarities.map((level) => (
@@ -875,8 +1030,27 @@ export function App({
                           dabei.
                         </p>
                       </fieldset>
-                    </>
+                    </SetupSection>
                   ) : null}
+                  <SetupSection
+                    title="Lösungen anzeigen"
+                    selection={
+                      solutionDisplay === "round"
+                        ? "Nach der Runde"
+                        : "Nach jeder Frage"
+                    }
+                  >
+                    <SolutionChoice
+                      value={solutionDisplay}
+                      disabled={busy || !!active}
+                      onChange={(value) => {
+                        setPendingSolutions(value);
+                        void mutate((s) => {
+                          s.settings.solutionDisplay = value;
+                        }).finally(() => setPendingSolutions(undefined));
+                      }}
+                    />
+                  </SetupSection>
                   <LearningPath state={state} genres={filters.genres} />
                 </div>
               </section>
@@ -918,11 +1092,15 @@ export function App({
                     {topicScope.kind === "genre"
                       ? genreLabel(topicScope.name)
                       : topicScope.name}
-                    : Filme & Reihen
+                    :{" "}
+                    {topicScope.name === ACTORS ? "Personen" : "Filme & Reihen"}
                   </h1>
                   <p className="lead">
-                    {browseTopics.length} Film- und Reihenblöcke mit Deinem
-                    Lernfortschritt.
+                    {browseTopics.length}{" "}
+                    {topicScope.name === ACTORS
+                      ? "Schauspielerinnen und Schauspieler"
+                      : "Film- und Reihenblöcke"}{" "}
+                    mit Deinem Lernfortschritt.
                   </p>
                   <div className="topic-grid">
                     {browseTopics.map((t) => (
@@ -942,8 +1120,8 @@ export function App({
                     Welten zum <em>Entdecken.</em>
                   </h1>
                   <p className="lead">
-                    Wähle ein Filmgenre oder sieh Dir seine Filme und Reihen an.
-                    Auf der Startseite kannst Du mehrere Genres und
+                    Wähle ein Filmgenre oder eine Kategorie und entdecke ihre
+                    Themen. Auf der Startseite kannst Du mehrere Genres und
                     Schwierigkeitsstufen kombinieren.
                   </p>
                   <div className="topic-grid">
@@ -960,6 +1138,16 @@ export function App({
                             await changeSetup({
                               categories: [category],
                               genres: null,
+                              sources:
+                                category === ACTORS
+                                  ? ["actors"]
+                                  : category === "Preisträger"
+                                    ? ["awards"]
+                                    : ["film"],
+                              ...(category === ACTORS ||
+                              category === "Preisträger"
+                                ? { mode: "ueben", categories: [] }
+                                : {}),
                             })
                           )
                             setPage("home");
@@ -1225,6 +1413,11 @@ export function App({
                     unlocks = newlyUnlocked(before, s);
                   });
                   if (next) {
+                    guestReporter.current?.record(
+                      next,
+                      current.id,
+                      "completed",
+                    );
                     setJustCompleted(current.id);
                     if (unlocks.length)
                       setCelebration({ roundId: current.id, unlocks });
@@ -1342,6 +1535,11 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   return (
     <div className="explanation">
       <span className="eyebrow">DIE IDEE DAHINTER</span>
+      {q.metadata.person_name && (
+        <p className="actor-name">
+          <strong>{q.metadata.person_name}</strong>
+        </p>
+      )}
       <p>{q.explanation}</p>
       {!event.correct && selected?.feedback && (
         <p className="specific-feedback">
@@ -2212,8 +2410,9 @@ function Settings({
   const readFile = async (file: File | undefined, kind: "csv" | "json") => {
     setMessage("");
     if (!file) return;
-    if (file.size > 20 * 1024 * 1024) {
-      setMessage("Datei ist zu groß. Höchstens 20 MB.");
+    const maxMiB = kind === "json" ? 64 : 20;
+    if (file.size > maxMiB * 1024 * 1024) {
+      setMessage(`Datei ist zu groß. Höchstens ${maxMiB} MiB.`);
       return;
     }
     try {

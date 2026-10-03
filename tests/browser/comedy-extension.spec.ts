@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test, expect } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { emptyState } from "../../src/model";
 import { packages, addPackages } from "../../src/packages";

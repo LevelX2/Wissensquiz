@@ -57,20 +57,35 @@ export function Help() {
         </p>
       </details>
       <details>
-        <summary>Was sind Classics, Arthouse und Preisträger?</summary>
+        <summary>
+          Was sind Classics, Arthouse, Preisträger und Schauspieler?
+        </summary>
         <p>
-          Das sind kuratierte Auswahlen zusätzlich zu den Filmgenres. Classics
-          versammelt ausgewählte Klassiker; Arthouse umfasst Autoren- und
-          Programmkino einschließlich ausgewählter Genrefilme. Es gibt keine
-          automatische Altersgrenze oder Gleichsetzung mit Drama. Preisträger
-          widmet sich Oscars, der Goldenen Palme und den Preisen des
-          Filmfestivals von Venedig.
+          Filmfragen, Preisträger und Schauspieler sind unabhängig wählbare
+          Fragenbereiche. Alle gewählten Bereiche bilden einen gemeinsamen
+          Zufallspool. Preisträger widmet sich Oscars, der Goldenen Palme und
+          den Preisen des Filmfestivals von Venedig. Schauspieler enthält 800
+          Fragen zu 100 Schauspielerinnen und Schauspielern: Rollen, Karriere,
+          Bühne, Musik, Ausbildung und besondere Lebenswege.
         </p>
         <p>
-          Die Kategorien schränken Deine gewählten Genres ein. Wählst Du
-          mehrere, kommen Fragen aus jeder gewählten Kategorie vor. Eine Frage
-          kann in mehreren Auswahlen vorkommen, behält aber immer denselben
-          Lernstand und wird innerhalb einer Runde nicht doppelt ausgewählt.
+          Für eine Mischung aus allen Filmfragen, Schauspieler- und Preisfragen
+          wählst Du alle drei Bereiche und alle Filmgenres. Für eine reine
+          Schauspielerrunde wählst Du Filmfragen und Preisträger ab. Genres und
+          Filmgruppen gelten nur für Filmfragen, die Schwierigkeitsstufen für
+          alle Bereiche. Im Freien Spiel und in Rekordrunden erfolgt die Auswahl
+          zufällig aus dem gemeinsamen Pool; feste Anteile je Bereich gibt es
+          nicht. Im Fehlertraining werden Deine offenen Fehler wiederholt. Die
+          Filmreise bleibt auf ihre vorhandenen Filme ausgerichtet.
+        </p>
+        <p>
+          Classics und Arthouse sind kuratierte Filmauswahlen innerhalb Deiner
+          Genres: ausgewählte Klassiker sowie Autoren- und Programmkino. Sie
+          begrenzen nur den Bereich Filmfragen, zusammen als Vereinigung.
+          Zusätzlich ausgewählte Schauspieler- und Preisfragen bleiben im Pool.
+          Jede Frage behält ihren Lernstand; ein Wissensziel wird innerhalb
+          einer Runde einmal ausgewählt, auch wenn mehrere Varianten vorhanden
+          sind.
         </p>
       </details>
       <details>
@@ -264,9 +279,11 @@ export function Help() {
         <p>
           „Highscores“ startet mit „Meine Rekorde“: Dein Bestwert je Auswahl und
           ein direkter Rückblick. Unter „Alle Runden“ findest Du frühere
-          Ergebnisse; „Weitere Filter“ grenzt Deine Liste ein. Im
-          „Spielervergleich“ wählst Du Leistungen aus allen Spielmodi oder
-          „Rekordrunden“. Rekorde werden nur innerhalb gleicher
+          Ergebnisse; „Weitere Filter“ grenzt Deine Liste ein. Die öffentliche
+          „Bestenliste“ zeigt registrierte Spieler mit Level, Titel, XP,
+          abgeschlossenen Spielen, Antworten und Trefferquote. Sie startet mit
+          Level & XP. Im „Spielervergleich“ wählst Du Leistungen aus allen
+          Spielmodi oder „Rekordrunden“. Rekorde werden nur innerhalb gleicher
           Genre-/Stufenkombinationen, Bekanntheitsauswahl, Kategorien,
           Rundengrößen, tatsächlicher Mischung und Regeln verglichen. Gleiche
           Punkte teilen sich einen Platz.
@@ -279,15 +296,26 @@ export function Help() {
           Wiederholungen und geratene Treffer zählen mit.
         </p>
         <p>
-          Bestätigte Quiz-Konten nehmen automatisch teil. Spielername,
-          Rekordergebnisse, Spieldatum und Leistungsstatistik sind für
-          angemeldete Spieler sichtbar. Auch bisherige gesicherte Runden zählen.
-          E-Mail und vollständiger Spielstand bleiben privat. Als Gast führst Du
-          nur Deine persönliche Liste auf diesem Gerät.
+          Bestätigte Quiz-Konten nehmen automatisch teil. Spielername, Level, XP
+          und zusammengefasste Leistungsstatistik sind in der öffentlichen
+          Bestenliste auch für Gäste sichtbar. Einzelne Rekordergebnisse und
+          Spieldaten findest Du nach Anmeldung im Spielervergleich. Auch
+          bisherige gesicherte Runden zählen. E-Mail und vollständiger
+          Spielstand bleiben privat. Als Gast führst Du Deine persönliche
+          Rekordliste auf diesem Gerät.
         </p>
         <p>
           Die Listen sind Trainingsvergleiche auf Basis der gespeicherten
           Spiele, kein unabhängig kontrollierter Wettbewerb.
+        </p>
+        <p>
+          Unter den Listen steht die Gastaktivität für heute und die sechs
+          vorherigen Tage in deutscher Zeit: gemeldete Spielstarts, Abschlüsse
+          und Antworten aus abgeschlossenen Spielen. Das sind keine Besucher-
+          oder Personenzahlen. Nur eine zufällige Rundeneventkennung, Zeitpunkt
+          und Zählwerte werden übertragen, keine Fragen oder Gastspielstände.
+          Offline-Meldungen werden bis zu sieben Tage nachgereicht; frühere
+          Aktivitäten vor Beginn der Erfassung fehlen.
         </p>
       </details>
       <details>

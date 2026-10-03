@@ -1,29 +1,17 @@
-import { test, expect, type Page } from "@playwright/test";
+import {
+  openRoundSetup,
+  test,
+  expect,
+  readStoredState,
+  type Page,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { answer, complete, guess, startRound } from "../../src/engine";
 import type { State } from "../../src/model";
 
 const now = new Date("2026-10-02T12:00:00+02:00");
 async function readState(page: Page): Promise<State> {
-  return page.evaluate(
-    () =>
-      new Promise<State>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const query = db
-            .transaction("state")
-            .objectStore("state")
-            .get("current");
-          query.onsuccess = () => {
-            db.close();
-            resolve(query.result);
-          };
-          query.onerror = () => reject(query.error);
-        };
-      }),
-  );
+  return readStoredState(page);
 }
 async function writeState(page: Page, state: State) {
   await page.evaluate(
@@ -52,6 +40,7 @@ test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Mod
   await page.clock.install({ time: now });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await openRoundSetup(page);
   await page
     .getByRole("button", { name: /Fehlertraining Offene Fehler/ })
     .click();
@@ -63,6 +52,7 @@ test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Mod
     .poll(async () => (await readState(page)).settings.roundSetup?.mode)
     .toBe("fehler");
   await page.reload();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /Fehlertraining Offene Fehler/ }),
   ).toHaveAttribute("aria-pressed", "true");
@@ -217,6 +207,7 @@ for (const width of [320, 1280]) {
       page.getByRole("button", { name: /Fehler dieser Runde üben/ }),
     ).toHaveCount(0);
     await page.getByRole("button", { name: "Neue Runde wählen" }).click();
+    await openRoundSetup(page);
     await page
       .getByRole("button", { name: /Fehlertraining Offene Fehler/ })
       .click();

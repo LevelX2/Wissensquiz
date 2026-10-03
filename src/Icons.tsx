@@ -13,6 +13,8 @@ export const genreIllustrations: Record<string, string> = {
   "Rom-Com": "/genres/romcom.png",
   Arthouse: "/genres/arthouse.png",
   Classics: "/genres/classics.png",
+  Preisträger: "/genres/awards.png",
+  Schauspieler: "/genres/actors.png",
 };
 
 export function GenreArtwork({
@@ -39,7 +41,12 @@ export function GenreArtwork({
 
 export function GenreIcon({ genre }: { genre: string }) {
   const shape =
-    genre === "Preisträger" ? (
+    genre === "Schauspieler" ? (
+      <>
+        <circle cx="9" cy="8" r="3" />
+        <path d="M3 21v-3a6 6 0 0 1 12 0v3M16 5a3 3 0 0 1 0 6m2 4a5 5 0 0 1 3 5" />
+      </>
+    ) : genre === "Preisträger" ? (
       <>
         <path d="M7 3h10v7a5 5 0 0 1-10 0ZM7 5H3v3a4 4 0 0 0 4 4m10-7h4v3a4 4 0 0 1-4 4M12 15v5m-4 1h8" />
       </>

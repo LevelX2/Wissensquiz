@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 test("Genres gesammelt abwählen und Filmkarten mit Genreillustrationen anzeigen", async ({
@@ -8,6 +8,7 @@ test("Genres gesammelt abwählen und Filmkarten mit Genreillustrationen anzeigen
   await page.setViewportSize({ width: 320, height: 740 });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await openRoundSetup(page);
   const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
   await expect(genres.locator(".genre-thumbnail")).toHaveCount(12);
   await genres

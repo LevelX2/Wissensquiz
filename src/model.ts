@@ -53,17 +53,20 @@ export type Question = z.infer<typeof questionSchema>;
 export type Mode = "entdecken" | "ueben" | "rekord" | "fehler";
 export type Difficulty = Question["difficulty"];
 export type SolutionDisplay = "question" | "round";
+export type QuestionSource = "film" | "awards" | "actors";
 export interface RoundSetup {
   mode: Mode;
   genres: string[] | null;
-  categories: ("Classics" | "Arthouse" | "Preisträger")[];
+  categories: ("Classics" | "Arthouse" | "Preisträger" | "Schauspieler")[];
   difficulties: Difficulty[];
   familiarities?: (1 | 2 | 3 | 4)[];
+  sources?: QuestionSource[];
 }
 export interface QuizFilters {
   genres: string[];
   difficulties: Difficulty[];
   familiarities?: (1 | 2 | 3 | 4)[];
+  sources?: QuestionSource[];
 }
 export interface Learning {
   knowledgeId: string;
@@ -112,7 +115,7 @@ export interface Round {
   startedAt: number;
   finishedAt: number | null;
   status: "active" | "completed" | "aborted";
-  before: Record<string, Learning>;
+  before: Record<string, Learning>; // New solo rounds keep their targets; legacy/duel rounds may hold the full map.
   solutionDisplay?: SolutionDisplay;
   duel?: { id: string; number: number };
 }

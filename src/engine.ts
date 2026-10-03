@@ -191,8 +191,14 @@ export function rebuild(state: State, awardBadges = false) {
   migrateCareer(state, career.earned);
   state.experience = career.earned + state.career!.legacyBonus;
   state.records = {};
+  const pointsByRound = new Map<string, number>();
+  for (const e of state.events)
+    pointsByRound.set(
+      e.roundId,
+      (pointsByRound.get(e.roundId) ?? 0) + e.knowledgePoints + e.timeBonus,
+    );
   for (const r of done.filter((r) => r.mode === "rekord")) {
-    const value = points(state.events.filter((e) => e.roundId === r.id));
+    const value = pointsByRound.get(r.id) ?? 0;
     const key = recordKey(r);
     if (!state.records[key] || value > state.records[key].points)
       state.records[key] = { points: value, roundId: r.id };
@@ -237,16 +243,11 @@ export function startRound(
       now,
     },
   );
+  const previousById = new Map<string, Question>();
+  for (const r of state.rounds)
+    for (const q of r.questions) previousById.set(q.id, q);
   const questions = selected.map((q) =>
-    structuredClone(
-      prepareFactQuestion(
-        q,
-        [...state.rounds]
-          .reverse()
-          .flatMap((r) => r.questions)
-          .find((previous) => previous.id === q.id),
-      ),
-    ),
+    structuredClone(prepareFactQuestion(q, previousById.get(q.id))),
   );
   if (!questions.length)
     throw new Error("Für diese Auswahl sind keine Fragen verfügbar.");
@@ -267,9 +268,19 @@ export function startRound(
     ruleVersion:
       selectionRule(
         questions,
-        options.filters?.familiarities ?? familiarities,
+        options.filters?.sources && !options.filters.sources.includes("film")
+          ? []
+          : (options.filters?.familiarities ?? familiarities),
       ) + (state.settings.solutionDisplay === "round" ? ".L" : ""),
-    before: structuredClone(state.learning),
+    before: structuredClone(
+      Object.fromEntries(
+        questions.flatMap((q) =>
+          state.learning[q.knowledgeId]
+            ? [[q.knowledgeId, state.learning[q.knowledgeId]]]
+            : [],
+        ),
+      ),
+    ),
     ...(state.settings.solutionDisplay === "round"
       ? { solutionDisplay: "round" as const }
       : {}),

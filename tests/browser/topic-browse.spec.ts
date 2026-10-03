@@ -1,9 +1,9 @@
-import { test, expect } from "@playwright/test";
+import { test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { addPackages, packages } from "../../src/packages";
 import { emptyState, type State } from "../../src/model";
-import { genreOf } from "../../src/filters";
+import { genreOf, questionSourceOf } from "../../src/filters";
 import { isCategory, type Category } from "../../src/categories";
 
 test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzelne Filmauswahl", async ({
@@ -25,26 +25,7 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
       text: readFileSync(`public${p.path}`, "utf8"),
     })),
   );
-  const readState = () =>
-    page.evaluate(
-      () =>
-        new Promise<State>((resolve, reject) => {
-          const request = indexedDB.open("wissensquiz");
-          request.onerror = () => reject(request.error);
-          request.onsuccess = () => {
-            const db = request.result;
-            const query = db
-              .transaction("state")
-              .objectStore("state")
-              .get("current");
-            query.onsuccess = () => {
-              db.close();
-              resolve(query.result);
-            };
-            query.onerror = () => reject(query.error);
-          };
-        }),
-    );
+  const readState = () => readStoredState(page);
   const before = await readState();
   for (const [name, film] of [
     ["Horror", "Conjuring"],
@@ -61,7 +42,9 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
       `${name}: Filme & Reihen`,
     );
     const qs = state.questions.filter((q) =>
-      name === "Horror" ? genreOf(q) === name : isCategory(q, name as Category),
+      name === "Horror"
+        ? questionSourceOf(q) === "film" && genreOf(q) === name
+        : isCategory(q, name as Category),
     );
     const expectedTopics = [...new Set(qs.map((q) => q.topic))].sort();
     expect(await page.locator(".topic-card h3").allTextContents()).toEqual(
@@ -89,7 +72,7 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
         ).violations,
       ).toEqual([]);
       await page.getByRole("button", { name: "Zur Themenübersicht" }).click();
-      await expect(page.locator(".topic-card")).toHaveCount(15);
+      await expect(page.locator(".topic-card")).toHaveCount(16);
       await card
         .getByRole("button", { name: "Filme & Reihen ansehen" })
         .click();

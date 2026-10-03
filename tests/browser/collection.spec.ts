@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { emptyState } from "../../src/model";
@@ -21,7 +21,7 @@ test("Sammlung filtert gewählte Antworten einschließlich Fehlern, bietet leere
     page.getByText(/Noch keine Einträge mit beantworteten Fragen/),
   ).toBeVisible();
   await page.getByRole("button", { name: "Alle Einträge anzeigen" }).click();
-  await expect(page.locator(".topic-card")).toHaveCount(604);
+  await expect(page.locator(".topic-card")).toHaveCount(704);
 
   const questions = importCsv(
     readFileSync("public/horror-fragen.csv", "utf8"),
@@ -115,7 +115,7 @@ test("Sammlung filtert gewählte Antworten einschließlich Fehlern, bietet leere
   ).toEqual([]);
   await page.screenshot({ path: "test-results/sammlung-filter-320.png" });
   await filter.getByRole("button", { name: "Alle", exact: true }).click();
-  await expect(page.locator(".topic-card")).toHaveCount(604);
+  await expect(page.locator(".topic-card")).toHaveCount(704);
   expect(await readState()).toBe(before);
 });
 

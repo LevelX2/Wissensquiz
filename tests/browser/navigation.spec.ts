@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe sind im Profil erreichbar", async ({
@@ -9,12 +9,14 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   await page.setViewportSize({ width: 320, height: 800 });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /Filmreise Filmwelten/ }),
   ).toHaveAttribute("aria-pressed", "true");
   await expect(page.getByRole("button", { name: "Optionen" })).toHaveCount(0);
   await expect(page.getByRole("navigation").getByRole("button")).toHaveCount(5);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
   ).toHaveAttribute("aria-pressed", "true");
@@ -22,6 +24,7 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
     page.getByRole("button", { name: "Alle Genres auswählen" }),
   ).toBeEnabled();
   await page.reload();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
   ).toHaveAttribute("aria-pressed", "true");

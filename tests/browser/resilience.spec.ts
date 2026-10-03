@@ -1,8 +1,9 @@
-import { test, expect, chromium } from "@playwright/test";
+import { openRoundSetup, test, expect, chromium } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { mkdtemp } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
+import { isolateAccountService, testBaseUrl } from "./fixtures";
 test("Ein vorbereitetes Update unterbricht keine laufende Runde", async ({
   page,
 }) => {
@@ -78,8 +79,9 @@ test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", a
   let context = await chromium.launchPersistentContext(profile, {
     headless: true,
   });
+  await isolateAccountService(context);
   let page = await context.newPage();
-  await page.goto("http://localhost:4173");
+  await page.goto(testBaseUrl);
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".answer").first()).toBeEnabled();
   await page.locator(".answer").first().click();
@@ -87,8 +89,9 @@ test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", a
   const question = await page.locator(".question-card h1").innerText();
   await context.close();
   context = await chromium.launchPersistentContext(profile, { headless: true });
+  await isolateAccountService(context);
   page = await context.newPage();
-  await page.goto("http://localhost:4173");
+  await page.goto(testBaseUrl);
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".question-card h1")).toHaveText(question);
   await expect(page.locator(".feedback")).toBeVisible();
@@ -99,6 +102,7 @@ test("Hintergrundzeit und doppelte Klicks vergeben keine zweite Antwort", async 
 }) => {
   await page.clock.install();
   await page.goto("/");
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Rekordrunde" }).click();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await page.clock.runFor(100);
@@ -123,7 +127,7 @@ test("Hintergrundzeit und doppelte Klicks vergeben keine zweite Antwort", async 
   const counts = await page.evaluate(
     () =>
       new Promise<number[]>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz", 1);
+        const request = indexedDB.open("wissensquiz");
         request.onsuccess = () => {
           const query = request.result
             .transaction("state")

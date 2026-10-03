@@ -1,4 +1,4 @@
-import { test, expect, type Page } from "@playwright/test";
+import { openRoundSetup, test, expect, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { PGlite } from "@electric-sql/pglite";
 import { readFileSync } from "node:fs";
@@ -196,7 +196,8 @@ async function play(
 test("zwei getrennte Konten spielen die vier Blöcke, sehen offene Duelle und erhalten ein Unentschieden", async ({
   browser,
 }, testInfo) => {
-  test.setTimeout(120000);
+  // Two accounts complete 60 answers, including the feedback and save steps.
+  test.setTimeout(180000);
   const service = await server();
   const ac = await browser.newContext({ serviceWorkers: "block" }),
     bc = await browser.newContext({ serviceWorkers: "block" });
@@ -266,7 +267,9 @@ test("gesammelte Sololösungen bleiben neutral, lassen Pausen zu und erscheinen 
   await page.clock.install({ time: new Date("2026-10-02T12:00:00Z") });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await openRoundSetup(page);
   await page
     .getByRole("radio", { name: "Nach der Runde", exact: true })
     .check();
@@ -332,6 +335,7 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
   const page = await context.newPage();
   try {
     await service.setup(page, alice);
+    await openRoundSetup(page);
     await page
       .getByRole("radio", { name: "Nach der Runde", exact: true })
       .check();

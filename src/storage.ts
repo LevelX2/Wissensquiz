@@ -1,11 +1,14 @@
 import { z } from "zod";
 import { emptyState, questionSchema, type State } from "./model";
 import { rebuild } from "./engine";
-import { matchesFilters } from "./filters";
+import { matchesFilters, usesFilmFilters } from "./filters";
 import { matchesTopic } from "./categories";
 import { questionSnapshotMatches } from "./filmFacts";
+import { catalogKey, decodeLocalState, encodeLocalState } from "./localCatalog";
+import { encodeQuestionCatalog } from "./catalogCodec";
 const time = z.number().finite().nonnegative();
 const id = z.string().min(1).max(200);
+const sources = z.array(z.enum(["film", "awards", "actors"])).max(3);
 const familiarityList = z
   .array(z.union([z.literal(1), z.literal(2), z.literal(3), z.literal(4)]))
   .max(4);
@@ -27,13 +30,18 @@ const roundSchema = z.object({
   difficulty: id,
   filters: z
     .object({
-      genres: z.array(id).min(1).max(20000),
+      genres: z.array(id).max(20000),
+      sources: sources.optional(),
       familiarities: familiarityList.optional(),
       difficulties: z
         .array(z.enum(["leicht", "mittel", "schwer", "experte"]))
         .min(1)
         .max(4),
     })
+    .refine(
+      (f) => f.genres.length > 0 || f.sources?.some((s) => s !== "film"),
+      "Eine Runde braucht Filmgenres oder einen eigenständigen Fragenbereich.",
+    )
     .optional(),
   ruleVersion: id,
   unlocks: z
@@ -128,12 +136,15 @@ const stateSchema = z.object({
         mode: z.enum(["entdecken", "ueben", "rekord", "fehler"]),
         genres: z.array(id).max(20000).nullable(),
         categories: z
-          .array(z.enum(["Classics", "Arthouse", "Preisträger"]))
-          .max(3),
+          .array(
+            z.enum(["Classics", "Arthouse", "Preisträger", "Schauspieler"]),
+          )
+          .max(4),
         difficulties: z
           .array(z.enum(["leicht", "mittel", "schwer", "experte"]))
           .max(4),
         familiarities: familiarityList.optional(),
+        sources: sources.optional(),
       })
       .optional(),
   }),
@@ -174,6 +185,9 @@ export function validateBackup(value: unknown): State {
     throw new Error("Doppelte IDs in Sicherung.");
   if (s.rounds.filter((r) => r.status === "active").length > 1)
     throw new Error("Mehrere aktive Runden.");
+  const questionsById = new Map(s.questions.map((q) => [q.id, q]));
+  const roundsById = new Map(s.rounds.map((r) => [r.id, r]));
+  const eventsById = new Map(s.events.map((e) => [e.id, e]));
   for (const r of s.rounds) {
     if (
       !unique(r.questions.map((q) => q.knowledgeId)) ||
@@ -193,6 +207,7 @@ export function validateBackup(value: unknown): State {
           !matchesTopic(q, r.topic) ||
           (r.familiaritySnapshot &&
             r.filters.familiarities &&
+            usesFilmFilters(q, r.filters) &&
             !(r.familiaritySnapshot[q.id] === 0
               ? r.filters.familiarities.length === 4
               : r.filters.familiarities.some(
@@ -205,13 +220,11 @@ export function validateBackup(value: unknown): State {
         r.order[i].some((id) => !q.answers.some((a) => a.id === id))
       )
         throw new Error("Ungültige Antwortreihenfolge.");
+      const stored = questionsById.get(q.id);
       if (
-        !s.questions.some(
-          (stored) =>
-            stored.id === q.id &&
-            stored.version === q.version &&
-            questionSnapshotMatches(stored, q),
-        )
+        !stored ||
+        stored.version !== q.version ||
+        !questionSnapshotMatches(stored, q)
       )
         throw new Error(
           "Inhaltssnapshot stimmt nicht mit dem Fragenbestand überein.",
@@ -224,7 +237,7 @@ export function validateBackup(value: unknown): State {
     )
       throw new Error("Ungültiger Rundenabschluss.");
     r.events.forEach((eventId, i) => {
-      const e = s.events.find((e) => e.id === eventId);
+      const e = eventsById.get(eventId);
       const q = r.questions[i];
       if (
         !e ||
@@ -238,7 +251,7 @@ export function validateBackup(value: unknown): State {
     });
   }
   for (const e of s.events) {
-    const r = s.rounds.find((r) => r.id === e.roundId);
+    const r = roundsById.get(e.roundId);
     const q = r?.questions.find((q) => q.id === e.questionId);
     if (
       !r ||
@@ -270,8 +283,12 @@ export function validateBackup(value: unknown): State {
 let database: Promise<IDBDatabase> | undefined;
 export function openDatabase() {
   return (database ??= new Promise<IDBDatabase>((resolve, reject) => {
-    const req = indexedDB.open("wissensquiz", 1);
-    req.onupgradeneeded = () => req.result.createObjectStore("state");
+    // Old builds open version 1 and cannot write the separated catalog layout.
+    const req = indexedDB.open("wissensquiz", 2);
+    req.onupgradeneeded = () => {
+      if (!req.result.objectStoreNames.contains("state"))
+        req.result.createObjectStore("state");
+    };
     req.onsuccess = () => {
       req.result.onversionchange = () => {
         req.result.close();
@@ -297,13 +314,22 @@ export async function update(
     const tx = db.transaction("state", "readwrite");
     const store = tx.objectStore("state");
     const req = store.get(key);
+    const catalog = store.get(catalogKey(key));
     let result: State;
     let failure: unknown;
-    req.onsuccess = () => {
+    catalog.onsuccess = () => {
       try {
-        result = req.result ?? initial ?? emptyState();
+        result =
+          decodeLocalState(req.result, catalog.result, key) ??
+          initial ??
+          emptyState();
         mutator(result);
-        store.put(result, key);
+        // Compare exact content, not a hash: in-place edits and imports must be
+        // detected too. JSON avoids IndexedDB cloning thousands of nested objects.
+        const serialized = encodeQuestionCatalog(result.questions);
+        if (serialized !== catalog.result)
+          store.put(serialized, catalogKey(key));
+        store.put(encodeLocalState(result, key), key);
       } catch (error) {
         failure = error;
         tx.abort();
@@ -318,9 +344,19 @@ export async function update(
 export async function read(key = "current"): Promise<State | undefined> {
   const db = await openDatabase();
   return new Promise((resolve, reject) => {
-    const req = db.transaction("state").objectStore("state").get(key);
-    req.onsuccess = () => resolve(req.result);
-    req.onerror = () => reject(req.error);
+    const tx = db.transaction("state");
+    const store = tx.objectStore("state");
+    const req = store.get(key);
+    const catalog = store.get(catalogKey(key));
+    tx.oncomplete = () => {
+      try {
+        resolve(decodeLocalState(req.result, catalog.result, key));
+      } catch (error) {
+        reject(error);
+      }
+    };
+    tx.onerror = () => reject(tx.error);
+    tx.onabort = () => reject(tx.error ?? new Error("Lesen abgebrochen."));
   });
 }
 export async function restore(value: unknown, key = "current") {
