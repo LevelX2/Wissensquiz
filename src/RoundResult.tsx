@@ -1,3 +1,4 @@
+import { isRecordMode } from "./recordModes";
 import { familiarityLabel, ruleLabel } from "./familiarity";
 import { useEffect, useMemo, useState } from "react";
 import { points, selectQuestions } from "./engine";
@@ -145,7 +146,7 @@ export function Result({
           <span>Sicher richtig in Folge</span>
         </div>
       </div>
-      {round.mode === "rekord" && (
+      {isRecordMode(round.mode) && (
         <div className="score-breakdown">
           <strong>{points(events)} Punkte</strong>
           <span>
@@ -286,13 +287,13 @@ export function Result({
         {reviewFilter === "guessed" && !summary.guessed && (
           <p className="muted">Keine als geraten markierten Treffer.</p>
         )}
-        {round.questions.map((q) => {
-          const e = events.find((e) => e.questionId === q.id);
+        {round.questions.map((q, index) => {
+          const e = events.find((e) => e.id === round.events[index]);
           return (
             e &&
             (reviewFilter === "all" ||
               (reviewFilter === "wrong" ? !e.correct : e.guessed)) && (
-              <details key={q.id}>
+              <details key={`${q.id}:${index}`}>
                 <summary>
                   <span
                     className={

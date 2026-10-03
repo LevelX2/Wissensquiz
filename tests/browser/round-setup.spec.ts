@@ -7,7 +7,7 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await expect(page.getByLabel("Thema wählen")).toHaveCount(0);
-  await openRoundSetup(page);
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
@@ -15,6 +15,7 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
   await genres.getByLabel("Horror", { exact: true }).check();
   await page.getByLabel("Nur Classics", { exact: true }).check();
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await openRoundSetup(page);
   await expect(
@@ -47,6 +48,7 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   await expect(levels.getByLabel("Schwer", { exact: true })).toBeChecked();
   await expect(levels.locator("input:checked")).toHaveCount(1);
   await expect(fame.locator("input:checked")).toHaveCount(2);
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Filmreise Filmwelten/ }).click();
   await openRoundSetup(page);
   await expect(
@@ -56,7 +58,7 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
     page.getByRole("button", { name: "Alle Genres auswählen" }),
   ).toBeEnabled();
   await page.reload();
-  await openRoundSetup(page);
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await openRoundSetup(page);
   await expect(

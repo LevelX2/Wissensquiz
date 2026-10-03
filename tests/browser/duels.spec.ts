@@ -127,6 +127,7 @@ test("gesammelte Sololösungen bleiben neutral, lassen Pausen zu und erscheinen 
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await openRoundSetup(page);
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
     page.getByRole("radio", { name: "Nach der Runde", exact: true }),
@@ -229,11 +230,9 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
     );
     await page.reload();
     await expect(
-      page.getByRole("button", { name: /Duell Gegen andere spielen/ }),
+      page.getByRole("button", { name: "Duell", exact: true }),
     ).toBeEnabled();
-    await page
-      .getByRole("button", { name: /Duell Gegen andere spielen/ })
-      .click();
+    await page.getByRole("button", { name: "Duell", exact: true }).click();
     await page
       .getByRole("button", { name: "Weiterspielen", exact: false })
       .click();

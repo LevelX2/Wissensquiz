@@ -2,6 +2,8 @@
 
 ## Stand
 
+03.10.2026 lokal vorbereitet: [Rekordmodi und Zeitranglisten](Rekordmodi-und-Zeitranglisten.md) mit Migration `20261003103026_record_modes_highscores.sql`. Sie setzt die ebenfalls lokal vorbereitete Migration `202610030001_public_leaderboard_guest_activity.sql` voraus. Beide sind vor Veröffentlichung der neuen gemeinsamen Listen in dieser Reihenfolge anzuwenden; anschließend Rechte, öffentliche Kategorien/Einzelläufe, Duellrangliste, private Duellhistorie und Kontosicherung lesend prüfen. Der aktuelle Umsetzungsauftrag umfasst keine Live-Ausführung. Persönliche Rekordspiele sind offline nutzbar.
+
 Die App-Anbindung und das Supabase-Projekt sind eingerichtet. Brevo SMTP und deutsche Bestätigungs-/Reset-Vorlagen sind gespeichert. `public/account-config.json` enthält jetzt `enabled: true` mit Project URL und öffentlichem Publishable Key; private Veröffentlichung erfolgreich, echte Live-Registrierungsansicht geöffnet. Nach korrigiertem SMTP-Schlüsseltransfer wurde eine echte Bestätigungsmail zugestellt und das Konto erfolgreich aktiviert (Dashboard geprüft). Erfolgreicher Passwort-Reset und Anmeldung am Handy wurden danach vom Nutzer bestätigt. Echte Zwei-Konten- und geräteübergreifende Spielstandsabnahme stehen aus. Der Nutzer hat inzwischen öffentliche Erreichbarkeit ohne vorgeschaltete ChatGPT-Anmeldung beauftragt; aktueller Status unter Sites-Betrieb.md.
 
 ### Tatsächlich eingerichtet am 26.09.2026

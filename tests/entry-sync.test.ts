@@ -608,3 +608,118 @@ it("verwendet bei Netzwerkfehlern keinen alten Writer und begrenzt hängende Pak
   expect(sync.status).toBe("saved");
   sync.stop();
 });
+
+it("synchronisiert lange Rekordläufe und zählt wiederholte Wissensziele pro Antwortvorkommen", async () => {
+  const { owner, key, engine } = await setup();
+  await update(
+    (s) => {
+      s.questions = s.questions.slice(0, 1);
+      s.bundledQuestionIds = s.questions.map((q) => q.id);
+    },
+    undefined,
+    key,
+  );
+  const sync = engine();
+  await sync.prepare();
+  expect(sync.status).toBe("saved");
+  await update(
+    (s) => {
+      const r = startRound(
+        s,
+        {
+          mode: "fehlerfrei",
+          topic: "Alle Themen",
+          difficulty: "Alle Stufen",
+          recordPreset: "custom",
+        },
+        now,
+      );
+      for (let i = 0; i < 12; i++) {
+        const q = r.questions[r.events.length];
+        answer(s, r.id, q.id, q.correctId, 1000, now + i * 2000, i);
+      }
+      const q = r.questions[r.events.length];
+      answer(
+        s,
+        r.id,
+        q.id,
+        q.answers.find((a) => a.id !== q.correctId)!.id,
+        1000,
+        now + 26000,
+        12,
+      );
+      validateBackup(s);
+    },
+    undefined,
+    key,
+    { progressOnly: true },
+  );
+  await sync.flush();
+  expect(sync.status).toBe("saved");
+  const rows = await fixture.db.query<{
+    mode: string;
+    correct: number;
+    points: number;
+  }>(
+    "select mode,correct,points from public.quiz_shared_scores where owner_id=$1",
+    [owner],
+  );
+  expect(rows.rows).toEqual([
+    { mode: "fehlerfrei", correct: 12, points: 1896 },
+  ]);
+  const totals = await fixture.db.query<{
+    completed: number;
+    answered: number;
+    correct: number;
+  }>(
+    "select completed::int,answered::int,correct::int from public.quiz_player_totals where owner_id=$1 and genre='' and difficulty=''",
+    [owner],
+  );
+  expect(totals.rows).toEqual([{ completed: 1, answered: 13, correct: 12 }]);
+  await update(
+    (s) => {
+      const r = startRound(
+        s,
+        {
+          mode: "zeitkonto",
+          topic: "Alle Themen",
+          difficulty: "Alle Stufen",
+          recordPreset: "custom",
+        },
+        now + 30000,
+      );
+      for (let i = 0; r.status === "active"; i++) {
+        const q = r.questions[r.events.length];
+        answer(
+          s,
+          r.id,
+          q.id,
+          q.answers.find((a) => a.id !== q.correctId)!.id,
+          3000,
+          now + 33000 + i * 4000,
+          i,
+        );
+      }
+      validateBackup(s);
+    },
+    undefined,
+    key,
+    { progressOnly: true },
+  );
+  await sync.flush();
+  expect(sync.status).toBe("saved");
+  const all = await fixture.db.query<{ mode: string; points: number }>(
+    "select mode,points from public.quiz_shared_scores where owner_id=$1 order by mode",
+    [owner],
+  );
+  expect(all.rows).toEqual([
+    { mode: "fehlerfrei", points: 1896 },
+    { mode: "zeitkonto", points: 0 },
+  ]);
+  expect((await read(key))!.bundledQuestionIds).toHaveLength(1);
+  sync.stop();
+  const reopened = engine();
+  await reopened.prepare();
+  expect(reopened.status).toBe("saved");
+  reopened.stop();
+});

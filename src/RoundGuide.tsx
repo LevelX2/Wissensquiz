@@ -1,4 +1,5 @@
 import type { Mode } from "./model";
+import { isRecordMode, isEndlessMode } from "./recordModes";
 
 const introductions: Record<Mode, string> = {
   entdecken:
@@ -6,7 +7,11 @@ const introductions: Record<Mode, string> = {
   ueben:
     "Du kombinierst Filmfragen, Schauspieler und Preisträger zu einem gemeinsamen Pool. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
   rekord:
-    "Du kombinierst Fragenbereiche und Schwierigkeitsstufen. Genres und Filmgruppen begrenzen nur Filmfragen. Pro Frage hast Du 30 Sekunden; richtige und schnelle Antworten bringen Punkte für Deinen Rekord.",
+    "Du spielst zehn Fragen im Standardmix oder mit eigener Auswahl. Genres und Filmgruppen begrenzen nur Filmfragen. Pro Frage hast Du 30 Sekunden; richtige und schnelle Antworten bringen Punkte für Deinen Rekord.",
+  fehlerfrei:
+    "Pro Frage hast Du 30 Sekunden. Richtige Antworten verlängern die Serie; der erste Fehler, Keine Ahnung oder Zeitablauf beendet Deinen Lauf.",
+  zeitkonto:
+    "Du startest mit 120 Sekunden. Richtige Antworten geben 15 Sekunden, Fehler kosten 45 Sekunden. Deine Antwortzeit verbraucht zusätzlich Vorrat; je Frage hast Du höchstens 30 Sekunden.",
   fehler:
     "Hier wiederholst Du gezielt falsch beantwortete Fragen und Zeitabläufe – ohne Zeitdruck. Sobald Du ein Wissensziel sicher richtig beantwortest, fällt es aus dem Fehlertraining heraus.",
 };
@@ -21,8 +26,11 @@ export function RoundGuide({ mode }: { mode: Mode }) {
           <p>
             <strong>Deine Auswahl:</strong> Die Zeile unter Losspielen zeigt die
             gewählten Filter und die Anzahl der Fragen in Deiner nächsten Runde.
-            Die erste Runde umfasst bis zu fünf Fragen, danach sind es bis zu
-            zehn. Bei einer kleinen Auswahl können es weniger sein.
+            {isEndlessMode(mode)
+              ? "Der Lauf hat keine feste Fragenzahl; nach Ausschöpfen des Pools werden die Ziele neu gemischt."
+              : isRecordMode(mode)
+                ? "Die Rekordrunde umfasst zehn Fragen. Kleine eigene Auswahlen bleiben in einer getrennten Kategorie."
+                : "Die erste Runde umfasst bis zu fünf Fragen, danach sind es bis zu zehn. Bei einer kleinen Auswahl können es weniger sein."}
           </p>
           {mode === "entdecken" ? (
             <p>
@@ -51,7 +59,7 @@ export function RoundGuide({ mode }: { mode: Mode }) {
               Film-Ikonen bis zu selten bekannten Entdeckungen; sie beschreiben
               die Bekanntheit der Filme, nicht die Schwierigkeit der Fragen.
               {mode === "rekord" &&
-                " Die Runde mischt die gewählten Schwierigkeiten und Filmgruppen möglichst gleichmäßig."}
+                " Der Standardmix enthält drei leichte, vier mittlere und drei schwere Fragen. Eigene Filter bilden getrennte Rekordkategorien und mischen die gewählten Schwierigkeiten und Filmgruppen möglichst gleichmäßig."}
             </p>
           )}
           <p>
@@ -60,9 +68,9 @@ export function RoundGuide({ mode }: { mode: Mode }) {
             Filmreise, sobald Du die Runde abschließt. Als geraten markierte
             Treffer zählen dafür nicht. Mehrere Fragen zum selben Zusammenhang
             teilen sich ein Wissensziel: Für eine Freischaltung zählt es nur
-            einmal, und pro Runde kommt höchstens eine dieser Fragen vor.
+            einmal, und pro Runde kommt höchstens eine dieser Fragen vor. In Endlosläufen gilt das je vollständigem Pooldurchgang.
           </p>
-          {mode === "rekord" && (
+          {isRecordMode(mode) && (
             <p>
               <strong>Die Uhr läuft beim Tabwechsel weiter.</strong> Neuladen
               beendet die Rekordrunde. Nach jeder Antwort kannst Du die

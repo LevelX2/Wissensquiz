@@ -11,10 +11,11 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.goto("/");
   const start = page.getByRole("button", { name: "Losspielen" });
   await expect(start).toBeEnabled();
-  const tiles = page.locator(".mode-grid .mode-card");
-  const duel = page.getByRole("button", { name: /Duell Gegen andere spielen/ });
-  await expect(tiles).toHaveCount(5);
-  await expect(page.locator(".mode-artwork")).toHaveCount(5);
+  await openRoundSetup(page);
+  const tiles = page.locator(".mode-groups .mode-card");
+  const duel = page.getByRole("button", { name: "Duell", exact: true });
+  await expect(tiles).toHaveCount(3);
+  await expect(page.locator(".mode-artwork")).toHaveCount(2);
   for (const img of await page.locator(".mode-artwork").all())
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))
@@ -43,15 +44,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     const last = (await duel.boundingBox())!;
     expect(Math.abs(first.width - last.width)).toBeLessThan(1);
     expect(first.height).toBe(last.height);
-    if (width <= 1000) {
-      const grid = (await page.locator(".mode-grid").boundingBox())!;
-      expect(
-        Math.abs(last.x + last.width / 2 - grid.x - grid.width / 2),
-      ).toBeLessThan(1);
-      expect(last.y).toBeGreaterThan(first.y);
-    } else {
-      expect(last.y).toBe(first.y);
-    }
+    expect(last.y).toBe(first.y);
     expect(
       await page.evaluate(
         () => document.documentElement.scrollWidth <= innerWidth,
@@ -69,6 +62,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   ).toBeVisible();
   await page.getByRole("button", { name: "← Zurück zum Spielen" }).click();
   await expect(start).toBeEnabled();
+  await openRoundSetup(page);
   await page.setViewportSize({ width: 320, height: 740 });
   await page.evaluate(() => scrollTo(0, 0));
   const startBox = (await start.boundingBox())!;
@@ -111,13 +105,16 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
   await expect(page.locator(".path-progress .genre-thumbnail")).toHaveCount(12);
   await expect(page.locator(".path-progress .genre-icon")).toHaveCount(0);
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(guide).toContainText("zufällige Fragen ohne Zeitdruck");
   await more.click();
   await expect(
     guide.getByText("Zufällige Fragen:", { exact: true }),
   ).toBeVisible();
-  await page.getByRole("button", { name: /Rekordrunde 30 Sekunden/ }).click();
+  await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+  await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
+  await page.getByLabel(/Eigene Auswahl ·/).check();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await expect(guide).toContainText("Pro Frage hast Du 30 Sekunden");
   await more.click();
@@ -125,6 +122,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     guide.getByText("Die Uhr läuft beim Tabwechsel weiter.", { exact: true }),
   ).toBeVisible();
   await expect(guide).toContainText("Neuladen beendet die Rekordrunde");
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await expect(
@@ -141,6 +139,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await expect(page.locator("#round-summary")).toContainText(
     "Freie Auswahl: Schwer",
   );
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Filmreise Filmwelten/ }).click();
   await expect(
     page.getByRole("button", { name: /Filmreise Filmwelten/ }),

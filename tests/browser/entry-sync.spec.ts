@@ -1,4 +1,10 @@
-import { test, expect, readStoredState, type Page } from "./fixtures";
+import {
+  test,
+  expect,
+  openRoundSetup,
+  readStoredState,
+  type Page,
+} from "./fixtures";
 import { readFileSync } from "node:fs";
 import { syncFixture } from "../helpers/sync-fixture";
 import {
@@ -105,6 +111,7 @@ async function service() {
   return { ...fixture, api, setup };
 }
 async function start(page: Page) {
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".answers button").first()).toBeEnabled();

@@ -143,14 +143,13 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
     page.getByText("Etwas tiefer eintauchen", { exact: true }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await openRoundSetup(page);
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
-  await openRoundSetup(page);
-  await page.locator(".round-guide summary").click();
-  await expect(page.locator(".round-guide-details")).toBeVisible();
-  await expect(page.locator(".round-guide-details")).toContainText(
-    "zufällige Fragen ohne Zeitdruck",
-  );
+  await expect(
+    page.getByText(
+      "Du kombinierst Filmfragen, Schauspieler und Preisträger zu einem gemeinsamen Pool. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
+    ),
+  ).toBeVisible();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(page.getByLabel("Soundeffekte", { exact: true })).toBeVisible();
@@ -162,7 +161,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
   await page.setViewportSize({ width: 320, height: 740 });
   await launch(page);
-  await openRoundSetup(page);
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await openRoundSetup(page);
   await expect(
@@ -195,7 +194,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await genres.getByLabel("Horror", { exact: true }).uncheck();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
   await expect(page.getByRole("status")).toContainText(
-    "Für Filmfragen brauchst Du außerdem passende Genres und Filmgruppen.",
+    "Wähle einen Fragenbereich",
   );
   await genres.getByLabel("Horror", { exact: true }).check();
   await genres.getByLabel("Sci-Fi", { exact: true }).check();
@@ -518,6 +517,7 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
   await genres.getByLabel("Sci-Fi", { exact: true }).check();
   await genres.getByLabel("Horror", { exact: true }).check();
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await openRoundSetup(page);
   await expect(
@@ -531,13 +531,15 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
     .getByRole("group", { name: "Schwierigkeitsstufen", exact: true })
     .getByLabel("Experte", { exact: true })
     .uncheck();
-  await page.getByRole("button", { name: "Rekordrunde", exact: false }).click();
+  await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+  await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
+  await page.getByLabel(/Eigene Auswahl ·/).check();
   await page.getByRole("button", { name: "Losspielen" }).click();
-  for (let i = 0; i < 5; i++) {
+  for (let i = 0; i < 10; i++) {
     await answerCurrent(page);
     await page
       .getByRole("button", {
-        name: i === 4 ? "Runde abschließen" : "Nächste Frage",
+        name: i === 9 ? "Runde abschließen" : "Nächste Frage",
       })
       .click();
   }
@@ -545,11 +547,8 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
     page.getByRole("heading", { name: "Eine Runde weiter." }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
-  await expect(page.locator(".record-card-heading h3")).toHaveText(
-    "Horror + Sci-Fi",
-  );
-  await expect(page.locator(".record-card-heading p")).toHaveText(
-    "Leicht + Mittel · 5 Fragen · Filmfragen",
+  await expect(page.locator(".leaderboard-category")).toContainText(
+    "Horror + Sci-Fi · Filmfragen · Leicht + Mittel · Filmgruppen 1 + 2 + 3 + 4 · 10 Fragen",
   );
   await expect(page.locator(".badge-art.locked svg")).toBeVisible();
   await page
@@ -786,8 +785,9 @@ test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
 }) => {
   await page.clock.install();
   await launch(page);
-  await openRoundSetup(page);
-  await page.getByRole("button", { name: "Rekordrunde", exact: false }).click();
+  await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+  await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
+  await page.getByLabel(/Eigene Auswahl ·/).check();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await page.clock.runFor(100);
   await expect(page.locator(".answer").first()).toBeEnabled();
@@ -797,7 +797,7 @@ test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
   ).toBeVisible();
   await expect(page.getByText("+0 Punkte")).toBeVisible();
   await page.clock.fastForward(60000);
-  await expect(page.locator(".round-progress")).toContainText("FRAGE 1 VON 5");
+  await expect(page.locator(".round-progress")).toContainText("FRAGE 1 VON 10");
   await page.getByRole("button", { name: "Nächste Frage" }).click();
   await page.clock.runFor(100);
   await page.reload();

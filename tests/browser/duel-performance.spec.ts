@@ -1,3 +1,4 @@
+import { openRoundSetup } from "./fixtures";
 import { test, expect } from "@playwright/test";
 import { writeFileSync } from "node:fs";
 import { server, alice, qs } from "./duel-service";
@@ -108,12 +109,11 @@ test.describe("Duellreaktion", () => {
         1,
       );
       await page.reload();
+      await openRoundSetup(page);
       await expect(
-        page.getByRole("button", { name: /Duell Gegen andere spielen/ }),
+        page.getByRole("button", { name: "Duell", exact: true }),
       ).toBeEnabled();
-      await page
-        .getByRole("button", { name: /Duell Gegen andere spielen/ })
-        .click();
+      await page.getByRole("button", { name: "Duell", exact: true }).click();
       await page
         .getByRole("button", { name: "Weiterspielen", exact: false })
         .click();

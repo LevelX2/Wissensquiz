@@ -1,11 +1,15 @@
 import { z } from "zod";
 import { questionSchema, type Question, type State } from "./model";
 
-const FORMAT = "quiz-cloud-compact-v2";
+const FORMAT = "quiz-cloud-compact-v3";
 const MAX_CATALOG_BYTES = 64 * 1024 * 1024;
 const envelope = z
   .object({
-    storageFormat: z.enum(["quiz-cloud-compact-v1", FORMAT]),
+    storageFormat: z.enum([
+      "quiz-cloud-compact-v1",
+      "quiz-cloud-compact-v2",
+      FORMAT,
+    ]),
     questions: z.object({
       encoding: z.literal("gzip-base64"),
       data: z.string().max(20000000),
@@ -59,7 +63,10 @@ export async function encodeCloudState(state: State) {
   const byId = new Map(state.questions.map((q) => [q.id, q]));
   return {
     ...state,
-    storageFormat: FORMAT,
+    storageFormat:
+      state.rounds.some((r) => r.recordPreset) || state.settings.playGroup
+        ? FORMAT
+        : "quiz-cloud-compact-v2",
     // An old client rejects this object rather than silently dropping custom questions.
     questions: { encoding: "gzip-base64" as const, data: btoa(binary) },
     rounds: state.rounds.map((r) => ({

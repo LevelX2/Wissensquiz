@@ -4,9 +4,16 @@ import { rebuild } from "./engine";
 import { matchesFilters, usesFilmFilters } from "./filters";
 import { matchesTopic } from "./categories";
 import { questionSnapshotMatches } from "./filmFacts";
-
+import {
+  isRecordMode,
+  isEndlessMode,
+  BANK_START,
+  bankAfterAnswer,
+  eventIdFor,
+  runRule,
+} from "./recordModes";
 export function validateBackup(value: unknown): State {
-  const s = stateSchema.parse(value);
+  const s = stateSchema.parse(value) as State;
   const unique = (ids: string[]) => new Set(ids).size === ids.length;
   if (
     !unique(s.questions.map((q) => q.id)) ||
@@ -19,15 +26,89 @@ export function validateBackup(value: unknown): State {
   if (s.rounds.filter((r) => r.status === "active").length > 1)
     throw new Error("Mehrere aktive Runden.");
   const questionsById = new Map(s.questions.map((q) => [q.id, q]));
+  if (
+    s.bundledQuestionIds &&
+    (!unique(s.bundledQuestionIds) ||
+      s.bundledQuestionIds.some((id) => !questionsById.has(id)))
+  )
+    throw new Error("Ungültige Zuordnung der mitgelieferten Fragen.");
   const roundsById = new Map(s.rounds.map((r) => [r.id, r]));
   const eventsById = new Map(s.events.map((e) => [e.id, e]));
+  const questionByEvent = new Map<string, State["questions"][number]>();
+  const limitByEvent = new Map<string, number>();
   for (const r of s.rounds) {
     if (
-      !unique(r.questions.map((q) => q.knowledgeId)) ||
+      (!r.run && !unique(r.questions.map((q) => q.knowledgeId))) ||
       r.order.length !== r.questions.length ||
       r.events.length > r.questions.length
     )
       throw new Error("Ungültige Rundenzuordnung.");
+    if (
+      !!r.run !== isEndlessMode(r.mode) ||
+      (!r.run && r.questions.length > 10)
+    )
+      throw new Error("Ungültiger Endloslauf.");
+    if (
+      r.recordPreset &&
+      (!isRecordMode(r.mode) ||
+        (r.run && r.ruleVersion !== runRule(r.mode, r.recordPreset)))
+    )
+      throw new Error("Ungültiger Rekordmodus.");
+    if (
+      r.recordPreset &&
+      r.ruleVersion !== runRule(r.mode, r.recordPreset) &&
+      r.ruleVersion !== runRule(r.mode, r.recordPreset) + ".L"
+    )
+      throw new Error("Ungültige Rekordregel.");
+    if (r.run) {
+      const pool = new Set(r.run.pool);
+      const goals = new Set(
+        r.run.pool.map((id) => questionsById.get(id)?.knowledgeId),
+      );
+      if (
+        !r.recordPreset ||
+        r.solutionDisplay === "round" ||
+        goals.has(undefined) ||
+        r.run.pool.some((id) => {
+          const q = questionsById.get(id);
+          return (
+            !q ||
+            !matchesTopic(q, r.topic) ||
+            (r.filters && !matchesFilters(q, r.filters)) ||
+            (r.recordPreset === "standard" &&
+              s.bundledQuestionIds &&
+              !s.bundledQuestionIds.includes(id))
+          );
+        }) ||
+        pool.size !== r.run.pool.length ||
+        !unique(r.run.queue) ||
+        r.run.queue.some((id) => !pool.has(id)) ||
+        r.questions.some((q) => !pool.has(q.id)) ||
+        r.run.cycle !== Math.ceil(r.questions.length / goals.size)
+      )
+        throw new Error("Ungültiger Fragenpool im Lauf.");
+      for (let i = 0; i < r.questions.length; i += goals.size)
+        if (
+          !unique(
+            r.questions.slice(i, i + goals.size).map((q) => q.knowledgeId),
+          )
+        )
+          throw new Error("Wissensziel innerhalb eines Durchgangs wiederholt.");
+      const currentGoals = new Set(
+        r.questions
+          .slice((r.run.cycle - 1) * goals.size)
+          .map((q) => q.knowledgeId),
+      );
+      const queueGoals = r.run.queue.map(
+        (id) => questionsById.get(id)?.knowledgeId,
+      );
+      if (
+        !unique(queueGoals as string[]) ||
+        queueGoals.some((id) => currentGoals.has(id!)) ||
+        queueGoals.length + currentGoals.size !== goals.size
+      )
+        throw new Error("Ungültige Restfolge im Lauf.");
+    }
     r.questions.forEach((q, i) => {
       if (
         r.filters &&
@@ -78,14 +159,38 @@ export function validateBackup(value: unknown): State {
         e.questionId !== q.id ||
         e.knowledgeId !== q.knowledgeId ||
         e.version !== q.version ||
-        e.id !== `${r.id}:${q.knowledgeId}`
+        e.id !== eventIdFor(r, i)
       )
         throw new Error("Antwort gehört nicht zur Frage.");
+      questionByEvent.set(e.id, q);
     });
+    if (r.run) {
+      let bank = BANK_START;
+      let ended = false;
+      for (const eventId of r.events) {
+        const e = eventsById.get(eventId)!;
+        if (ended) throw new Error("Antwort nach beendetem Lauf.");
+        const limit = r.mode === "zeitkonto" ? Math.min(30000, bank) : 30000;
+        limitByEvent.set(e.id, limit);
+        if (e.elapsedMs > limit)
+          throw new Error("Antwortzeit über Laufgrenze.");
+        if (r.mode === "zeitkonto")
+          bank = bankAfterAnswer(bank, e.correct, e.elapsedMs);
+        ended = r.mode === "fehlerfrei" ? !e.correct : bank === 0;
+      }
+      if (
+        r.run.bankMs !== bank ||
+        r.run.ended !== ended ||
+        (r.status === "completed" && !ended) ||
+        (ended && r.events.length !== r.questions.length) ||
+        (!ended && r.questions.length !== r.events.length + 1)
+      )
+        throw new Error("Inkonsistenter Zeitvorrat oder Laufabschluss.");
+    }
   }
   for (const e of s.events) {
     const r = roundsById.get(e.roundId);
-    const q = r?.questions.find((q) => q.id === e.questionId);
+    const q = questionByEvent.get(e.id);
     if (
       !r ||
       !q ||
@@ -95,15 +200,17 @@ export function validateBackup(value: unknown): State {
       throw new Error("Verwaiste Antwort.");
     const correct =
       e.answerId === q.correctId &&
-      (r.mode !== "rekord" || e.elapsedMs < 30000);
-    const base = r.mode === "rekord" && correct ? 100 : 0;
+      (!isRecordMode(r.mode) ||
+        e.elapsedMs < (limitByEvent.get(e.id) ?? 30000));
+    const base = isRecordMode(r.mode) && correct ? 100 : 0;
     const bonus = base ? Math.floor((30000 - e.elapsedMs) / 1000) * 2 : 0;
     if (
       e.correct !== correct ||
       (e.guessed && !e.correct) ||
       (e.dontKnow &&
         (e.answerId !== null ||
-          (r.mode === "rekord" && e.elapsedMs >= 30000))) ||
+          (isRecordMode(r.mode) &&
+            e.elapsedMs >= (limitByEvent.get(e.id) ?? 30000)))) ||
       e.knowledgePoints !== base ||
       e.timeBonus !== bonus ||
       e.at < r.startedAt

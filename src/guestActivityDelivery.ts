@@ -8,8 +8,8 @@ const eventSchema = z.object({
   event_id: z.uuid(),
   kind: z.enum(["started", "completed"]),
   happened_at: z.iso.datetime(),
-  answered: z.number().int().min(0).max(100),
-  correct: z.number().int().min(0).max(100),
+  answered: z.number().int().min(0).max(100000),
+  correct: z.number().int().min(0).max(100000),
 });
 const receiptSchema = z.object({
   localKey: z.string(),

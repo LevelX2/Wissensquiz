@@ -145,19 +145,21 @@ export function Help() {
             Runde üben.
           </li>
           <li>
-            <strong>Rekordrunde:</strong> Pro Frage 30 Sekunden. Richtige
+            <strong>10 Fragen:</strong> Pro Frage 30 Sekunden. Richtige
             Antworten geben 100 Punkte plus zwei Punkte je voller verbleibender
             Sekunde. Falsche oder verspätete Antworten geben keine Punkte. Beim
-            Lesen der Erklärung läuft keine Uhr. Die Auswahl ist frei und
-            unabhängig von Deinem Lernstand; vorhandene Kombinationen aus
-            Schwierigkeit und Bekanntheit werden möglichst gleichmäßig gemischt.
+            Lesen der Erklärung läuft keine Uhr. Der Standardmix enthält drei
+            leichte, vier mittlere und drei schwere Fragen. Eigene Filter bilden
+            getrennte Rekordkategorien; die Auswahl ist unabhängig vom
+            Lernstand.
           </li>
         </ul>
         <p>
-          Die erste abgeschlossene Runde umfasst bis zu fünf Fragen, spätere bis
-          zu zehn. Je nach Auswahl und fälligen Wissenszielen können es weniger
-          sein. Entspannte Runden lassen sich fortsetzen. Eine Rekordrunde läuft
-          bei einem Wechsel in den Hintergrund weiter und wird beim Neuladen
+          Lernrunden umfassen zunächst bis zu fünf, später bis zu zehn Fragen.
+          Der Modus 10 Fragen startet sofort mit zehn; bei kleinen eigenen Pools
+          können es weniger sein. Endlosmodi haben keine feste Fragenzahl.
+          Entspannte Runden lassen sich fortsetzen. Eine Rekordrunde läuft bei
+          einem Wechsel in den Hintergrund weiter und wird beim Neuladen
           abgebrochen.
         </p>
       </details>
@@ -286,16 +288,28 @@ export function Help() {
       <details>
         <summary>Wie funktionieren Highscores und Spielerleistungen?</summary>
         <p>
-          „Highscores“ startet mit „Meine Rekorde“: Dein Bestwert je Auswahl und
-          ein direkter Rückblick. Unter „Alle Runden“ findest Du frühere
-          Ergebnisse; „Weitere Filter“ grenzt Deine Liste ein. Die öffentliche
-          „Bestenliste“ zeigt registrierte Spieler mit Level, Titel, XP,
-          abgeschlossenen Spielen, Antworten und Trefferquote. Sie startet mit
-          Level & XP. Im „Spielervergleich“ wählst Du Leistungen aus allen
-          Spielmodi oder „Rekordrunden“. Rekorde werden nur innerhalb gleicher
-          Genre-/Stufenkombinationen, Bekanntheitsauswahl, Kategorien,
-          Rundengrößen, tatsächlicher Mischung und Regeln verglichen. Gleiche
-          Punkte teilen sich einen Platz.
+          Die Spielauswahl gliedert sich in Lernen, Auf Zeit und Duell. Unter
+          Auf Zeit findest Du 10 Fragen, Fehlerfrei und Zeitkonto. Fehlerfrei
+          endet mit dem ersten Fehler, „Keine Ahnung“ oder Zeitablauf. Das
+          Zeitkonto beginnt mit 120 Sekunden und hat höchstens 120 Sekunden
+          Vorrat: richtig +15 Sekunden, falsch −45 Sekunden, zusätzlich
+          verbraucht die Antwortzeit Vorrat. Je Frage bleiben höchstens 30
+          Sekunden. Bei leerem Konto endet der Lauf. Erklärungen und der Wechsel
+          zur nächsten Frage verbrauchen keine Zeit. Bei durchschnittlich drei
+          Sekunden Antwortzeit halten 80 % richtige Antworten den Vorrat im
+          Mittel; mehr Treffer können ihn verlängern.
+        </p>
+        <p>
+          Highscores bietet Rekordspiele, Duelle und Karriere. Jeder
+          abgeschlossene Rekordlauf wird einzeln angezeigt, auch mit null
+          Punkten. Ein Spieler kann mehrere Plätze belegen. Die Listen
+          unterscheiden Woche, Monat, Jahr und Allzeit; Kalendergrenzen gelten
+          in Deutschland. Standardmix, eigene Auswahl, Modus und Regelversion
+          bleiben getrennt. Gleiche Punkte teilen sich einen Platz. Die Karriere
+          zeigt Level, XP und Lernleistungen. Duelle zählen pro vollständig
+          beendeter Begegnung 3 Punkte für einen Sieg, 1 für ein Unentschieden,
+          0 für eine Niederlage. Aufgabe und Fristablauf bleiben persönlich
+          sichtbar, ohne Ranglistenpunkte.
         </p>
         <p>
           Die Spielerleistungen vergleichen abgeschlossene Runden aller Modi,
@@ -307,11 +321,11 @@ export function Help() {
         <p>
           Bestätigte Quiz-Konten nehmen automatisch teil. Spielername, Level, XP
           und zusammengefasste Leistungsstatistik sind in der öffentlichen
-          Bestenliste auch für Gäste sichtbar. Einzelne Rekordergebnisse und
-          Spieldaten findest Du nach Anmeldung im Spielervergleich. Auch
-          bisherige gesicherte Runden zählen. E-Mail und vollständiger
-          Spielstand bleiben privat. Als Gast führst Du Deine persönliche
-          Rekordliste auf diesem Gerät.
+          Bestenliste auch für Gäste sichtbar. Gemeinsame Rekordläufe zeigen
+          Spielernamen und Ergebniswerte; Deine einzelnen Antworten und
+          persönlichen Duellergebnisse bleiben privat. Auch bisherige gesicherte
+          Runden zählen. E-Mail und vollständiger Spielstand bleiben privat. Als
+          Gast führst Du Deine persönliche Rekordliste auf diesem Gerät.
         </p>
         <p>
           Die Listen sind Trainingsvergleiche auf Basis der gespeicherten

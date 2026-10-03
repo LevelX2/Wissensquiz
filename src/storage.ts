@@ -1,3 +1,4 @@
+import { isRecordMode } from "./recordModes";
 import { validateBackup } from "./backupValidation";
 export { validateBackup } from "./backupValidation";
 import { emptyState, type State, type Question } from "./model";
@@ -235,7 +236,7 @@ export async function read(key = "current"): Promise<State | undefined> {
 export async function restore(value: unknown, key = "current") {
   const checked = validateBackup(value);
   for (const r of checked.rounds)
-    if (r.status === "active" && r.mode === "rekord") {
+    if (r.status === "active" && isRecordMode(r.mode)) {
       r.status = "aborted";
       r.finishedAt = Date.now();
     }

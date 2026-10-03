@@ -185,6 +185,17 @@ for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
     await expect(page.locator(".result-metrics")).toContainText(
       "davon 1 × Keine Ahnung",
     );
+    const completed = (await readState(page)).rounds.find(
+      (r) => r.id === round.id,
+    )!;
+    if (completed.unlocks?.length) {
+      const celebration = page.getByRole("button", {
+        name: "Weiter zum Ergebnis",
+        exact: true,
+      });
+      await expect(celebration).toBeVisible();
+      await celebration.click();
+    }
     await expect(
       page
         .locator(".result-answer-strip")
@@ -247,17 +258,10 @@ test("Neuladen während der Lösungsanzeige bewahrt die Wahl; Offline-Fortsetzen
   await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
   await expect(page.locator(".solution-reveal")).toBeVisible();
   await page.clock.runFor(1100);
-  // The passive effect may register its timer after the first clock advance.
-  // Give it enough virtual time within the bounded poll, including on WebKit.
-  await expect
-    .poll(
-      async () => {
-        await page.clock.runFor(400);
-        return page.locator(".solution-reveal").count();
-      },
-      { intervals: [100] },
-    )
-    .toBe(0);
+  // Let WebKit flush passive effects after the offline reload with the clock
+  // still anchored to the controlled test date.
+  await page.clock.resume();
+  await expect(page.locator(".solution-reveal")).toHaveCount(0);
   await page.getByRole("button", { name: "Runde abschließen" }).click();
   expect(
     (await readState(page)).events.filter(

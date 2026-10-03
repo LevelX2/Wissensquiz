@@ -16,26 +16,26 @@ test("Leere Highscores führen zur Rekordauswahl und zur Anmeldung", async ({
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await expect(
     page
-      .getByRole("group", { name: "Bestenlisten-Ansicht", exact: true })
+      .getByRole("group", { name: "Highscore-Bereiche", exact: true })
       .getByRole("button"),
   ).toHaveCount(3);
   await page
-    .getByRole("button", { name: "Rekordrunde vorbereiten" })
+    .getByRole("button", { name: "Rekordspiel vorbereiten" })
     .press("Enter");
   await expect(page.locator(".round-setup")).toBeVisible();
   await openRoundSetup(page);
   await expect(
-    page.getByRole("button", { name: /^Rekordrunde 30 Sekunden/ }),
+    page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }),
   ).toHaveAttribute("aria-pressed", "true");
   await expect(page.locator(".question-card")).toHaveCount(0);
   await page.reload();
   await openRoundSetup(page);
   await expect(
-    page.getByRole("button", { name: /^Rekordrunde 30 Sekunden/ }),
+    page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }),
   ).toHaveAttribute("aria-pressed", "true");
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await page
-    .getByRole("button", { name: "Spielervergleich", exact: true })
+    .getByRole("button", { name: "Duelle", exact: true })
     .press("Enter");
   expect(
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
@@ -88,13 +88,13 @@ test("Genre und Schwierigkeit bleiben unabhängig einstellbar und über Neuladen
   await expect(page.locator(".question-difficulty")).toHaveCount(0);
 });
 
-test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und auf schmalem Bildschirm", async ({
+test("Alle abgeschlossenen Läufe sind sichtbar, filterbar und offline im Rückblick erreichbar", async ({
   page,
   context,
 }) => {
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
   const questions = packages.flatMap(
-    (p) => importCsv(readFileSync(`public${p.path}`, "utf8")).questions,
+    (p) => importCsv(readFileSync("public" + p.path, "utf8")).questions,
   );
   const state = emptyState(questions);
   for (const [i, genres] of [
@@ -103,17 +103,17 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
     ["Horror", "Science-Fiction"],
     ["Fantasy"],
   ].entries()) {
-    const run = emptyState(questions);
-    const r = startRound(
-      run,
-      {
-        mode: "rekord",
-        topic: "Alle Themen",
-        difficulty: "Alle Stufen",
-        filters: { genres, difficulties: ["leicht"], familiarities: [1] },
-      },
-      1_790_416_800_000 + i * 100000,
-    );
+    const run = emptyState(questions),
+      r = startRound(
+        run,
+        {
+          mode: "rekord",
+          topic: "Alle Themen",
+          difficulty: "Alle Stufen",
+          filters: { genres, difficulties: ["leicht"], familiarities: [1] },
+        },
+        1790416800000 + i * 100000,
+      );
     r.questions.forEach((q, j) =>
       answer(
         run,
@@ -137,95 +137,58 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
       exact: false,
     }),
   ).toBeVisible({ timeout: 20000 });
-  await page.getByRole("button", { name: "Spielen", exact: true }).click();
-  await page.evaluate(async (state) => {
-    await new Promise<void>((resolve, reject) => {
-      const req = indexedDB.open("wissensquiz");
-      req.onsuccess = () => {
-        const db = req.result;
-        const tx = db.transaction("state", "readwrite");
-        tx.objectStore("state").put(state, "current");
-        tx.oncomplete = () => {
-          db.close();
-          resolve();
+  await page.evaluate(
+    (value) =>
+      new Promise<void>((resolve, reject) => {
+        const req = indexedDB.open("wissensquiz");
+        req.onsuccess = () => {
+          const db = req.result,
+            tx = db.transaction("state", "readwrite");
+          tx.objectStore("state").put(value, "current");
+          tx.oncomplete = () => {
+            db.close();
+            resolve();
+          };
+          tx.onerror = () => reject(tx.error);
         };
-        tx.onerror = () => reject(tx.error);
-      };
-      req.onerror = () => reject(req.error);
-    });
-  }, state);
+        req.onerror = () => reject(req.error);
+      }),
+    state,
+  );
   await page.reload();
-  await openRoundSetup(page);
-  await page.getByRole("button", { name: "Rekordrunde", exact: false }).click();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await expect(
-    page.getByRole("button", { name: "Meine Rekorde", exact: true }),
-  ).toHaveAttribute("aria-pressed", "true");
-  await expect(
-    page.getByLabel("Stufenauswahl", { exact: true }),
-  ).not.toBeVisible();
-  await expect(
-    page.getByRole("button", { name: "Rückblick ansehen" }),
-  ).toHaveCount(3);
   await expect(page.locator(".leaderboard-category")).toHaveCount(3);
   await expect(page.locator(".leaderboard-entry")).toHaveCount(4);
-  await page.screenshot({
-    path: "test-results/rekorde-desktop.png",
-    fullPage: true,
+  const category = page.getByLabel("Vergleichskategorie", { exact: true });
+  const options = await category.locator("option").allTextContents();
+  await category.selectOption({
+    label: options.find((o) => o.includes("Horror") && !o.includes("Sci-Fi"))!,
   });
-  await page
-    .getByLabel("Genre-Auswahl", { exact: true })
-    .selectOption({ label: "Horror" });
   await expect(page.locator(".leaderboard-entry")).toHaveCount(2);
-  await expect(page.locator(".record-best")).toContainText("790 Punkte");
-  await expect(page.locator(".leaderboard-entry").first()).not.toBeVisible();
-  await page.getByText("Alle Runden (2)", { exact: true }).click();
-  await expect(page.locator(".leaderboard-entry").first()).toBeVisible();
   await expect(page.locator(".leaderboard-entry").first()).toContainText(
     "Platz 1 · 790 Punkte",
   );
   await expect(page.locator(".leaderboard-entry").last()).toContainText(
     "Platz 2 · 0 Punkte",
   );
-  await page
-    .getByLabel("Genre-Auswahl", { exact: true })
-    .selectOption({ label: "Horror + Sci-Fi" });
-  await expect(page.locator(".leaderboard-entry")).toHaveCount(1);
-  await page.getByText("Weitere Filter", { exact: true }).click();
-  await page.getByLabel("Rundengröße", { exact: true }).selectOption("5");
-  await expect(
-    page.getByText("Weitere Filter (1 aktiv)", { exact: true }),
-  ).toBeVisible();
-  await page.getByText("Weitere Filter (1 aktiv)", { exact: true }).click();
+  await expect(page.locator(".leaderboard-entry").last()).toBeVisible();
   await page.setViewportSize({ width: 320, height: 740 });
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBe(true);
-  await page.screenshot({
-    path: "test-results/leaderboard-mobile.png",
-    fullPage: true,
-  });
-  await page
-    .getByRole("button", { name: "Filter zurücksetzen", exact: true })
-    .click();
-  await expect(page.locator(".leaderboard-category")).toHaveCount(3);
-  await expect(page.getByLabel("Genre-Auswahl", { exact: true })).toHaveValue(
-    "",
-  );
-  await expect(page.getByLabel("Rundengröße", { exact: true })).toHaveValue("");
-  await page
-    .getByLabel("Genre-Auswahl", { exact: true })
-    .selectOption({ label: "Horror + Sci-Fi" });
-  await page.getByRole("button", { name: "Rückblick ansehen" }).click();
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  await page.getByRole("button", { name: "Spiel ansehen" }).first().click();
   await expect(
     page.getByRole("heading", { name: "Dein Rundenrückblick" }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Bestenliste ansehen" }).click();
   await context.setOffline(true);
   await page.reload();
-  await page.getByRole("button", { name: "Sammlung", exact: true }).click();
+  await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await expect(page.locator(".leaderboard-entry")).toHaveCount(4);
-  await context.setOffline(false);
 });

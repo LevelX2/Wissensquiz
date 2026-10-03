@@ -6,6 +6,7 @@ import { emptyState } from "../src/model";
 import { importCsv } from "../src/importer";
 import { startRound, answer, complete } from "../src/engine";
 import { careerProgress } from "../src/career";
+import { inPeriod } from "../src/recordModes";
 const db = new PGlite();
 const alice = "11111111-1111-4111-8111-111111111111",
   bob = "22222222-2222-4222-8222-222222222222";
@@ -59,8 +60,282 @@ beforeAll(async () => {
       "utf8",
     ),
   );
+  await db.exec(
+    readFileSync("supabase/migrations/202610020005_async_duels.sql", "utf8"),
+  );
+  await db.exec(
+    readFileSync(
+      "supabase/migrations/20261003103026_record_modes_highscores.sql",
+      "utf8",
+    ),
+  );
 }, 30000);
 afterAll(() => db.close());
+it("ordnet Online-Läufe nach denselben deutschen Kalendergrenzen wie die lokale Liste ein", async () => {
+  await db.exec("begin");
+  try {
+    const starts = (
+      await db.query<{ period: "week" | "month" | "year"; at: number }>(
+        `select p as period,extract(epoch from public.quiz_period_start(p))*1000 as at from unnest(array['week','month','year']) p`,
+      )
+    ).rows;
+    const times = starts.flatMap(({ at }) => [Number(at) - 1, Number(at) + 1]);
+    const state = emptyState(
+      importCsv(
+        readFileSync("public/horror-fragen.csv", "utf8"),
+      ).questions.slice(0, 1),
+    );
+    for (const at of times) {
+      const r = startRound(
+        state,
+        {
+          mode: "fehlerfrei",
+          topic: "Alle Themen",
+          difficulty: "Alle Stufen",
+          recordPreset: "custom",
+          filters: {
+            genres: ["Horror"],
+            difficulties: ["leicht", "mittel", "schwer", "experte"],
+          },
+        },
+        at - 1000,
+      );
+      answer(state, r.id, r.questions[0].id, { dontKnow: true }, 500, at, 0);
+    }
+    await db.query("update quiz_saves set state=$1 where owner_id=$2", [
+      state,
+      alice,
+    ]);
+    await as(
+      "",
+      async () => {
+        const c = (
+          await db.query<{ category: string }>(
+            "select * from quiz_record_categories('fehlerfrei')",
+          )
+        ).rows[0].category;
+        for (const period of ["week", "month", "year", "all"] as const) {
+          expect(
+            (
+              await db.query("select * from quiz_record_runs($1,$2,0)", [
+                c,
+                period,
+              ])
+            ).rows,
+          ).toHaveLength(times.filter((at) => inPeriod(at, period)).length);
+        }
+      },
+      "anon",
+    );
+  } finally {
+    await db.exec("rollback");
+  }
+});
+it("trennt vollständige Duellwertungen von Aufgabe und liefert nur die eigene Einzelhistorie", async () => {
+  await db.exec("begin");
+  try {
+    const ids = [
+      "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa1",
+      "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa2",
+      "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaa3",
+    ];
+    for (const [i, id] of ids.entries()) {
+      await db.query(
+        `insert into quiz_duels(id,creator,opponent,kind,solution_display,request_id,questions,status,finished_at,winner)
+        values($1,$2,$3,'random','question',gen_random_uuid(),$4,$5,now()-interval '1 hour',$6)`,
+        [
+          id,
+          alice,
+          bob,
+          Array.from({ length: 30 }, () => ({})),
+          i === 2 ? "forfeit" : "completed",
+          i === 0 ? alice : i === 1 ? null : bob,
+        ],
+      );
+      if (i < 2)
+        await db.query(
+          `insert into quiz_duel_answers(duel_id,player,round_no,question_no,answered_at,correct)
+        select $1,p.id,r,n,now()-interval '1 hour',true from (values($2::uuid),($3::uuid)) p(id) cross join generate_series(1,3) r cross join generate_series(0,9) n`,
+          [id, alice, bob],
+        );
+    }
+    await as(
+      "",
+      async () => {
+        const rows = (
+          await db.query<Record<string,unknown>>("select * from quiz_duel_rankings('all',0)")
+        ).rows;
+        expect(rows).toHaveLength(2);
+        expect(rows[0]).toMatchObject({
+          player_name: "Alice",
+          points: 4,
+          wins: 1,
+          draws: 1,
+          losses: 0,
+          completed: 2,
+          place: 1,
+          is_mine: false,
+        });
+        expect(rows[1]).toMatchObject({
+          player_name: "Bob",
+          points: 1,
+          place: 2,
+        });
+        expect(Object.keys(rows[0])).not.toContain("player");
+        await deniedPublicQuery(
+          "select * from quiz_duel_answers",
+          /permission denied/,
+        );
+      },
+      "anon",
+    );
+    await as(alice, async () => {
+      const result = (
+        await db.query<{
+          quiz_duel_results: { id: string; finishedAt: number }[];
+        }>("select quiz_duel_results('all',0)")
+      ).rows[0].quiz_duel_results;
+      expect(result).toHaveLength(3);
+      expect(result.every((d) => ids.includes(d.id) && d.finishedAt > 0)).toBe(
+        true,
+      );
+    });
+  } finally {
+    await db.exec("rollback");
+  }
+});
+it("listet alle Endlosläufe einzeln, zählt wiederholte Antworten einmal und schützt private Details", async () => {
+  await db.exec("begin");
+  try {
+    const qs = importCsv(
+      readFileSync("public/horror-fragen.csv", "utf8"),
+    ).questions.slice(0, 1);
+    const state = emptyState(qs);
+    for (let i = 0; i < 53; i++) {
+      const r = startRound(
+        state,
+        {
+          mode: "fehlerfrei",
+          topic: "Alle Themen",
+          difficulty: "Alle Stufen",
+          recordPreset: "custom",
+          filters: {
+            genres: ["Horror"],
+            difficulties: ["leicht", "mittel", "schwer", "experte"],
+          },
+        },
+        Date.now() - 10000,
+      );
+      for (let j = 0; j < (i === 0 ? 12 : 0); j++)
+        answer(
+          state,
+          r.id,
+          r.questions[j].id,
+          r.questions[j].correctId,
+          1000,
+          Date.now() - 5000,
+          j,
+        );
+      const j = r.events.length;
+      answer(
+        state,
+        r.id,
+        r.questions[j].id,
+        { dontKnow: true },
+        1000,
+        Date.now() - 1000,
+        j,
+      );
+    }
+    await db.query("update public.quiz_saves set state=$1 where owner_id=$2", [
+      await encodeCloudState(state),
+      alice,
+    ]);
+    await as(
+      "",
+      async () => {
+        const categories = (
+          await db.query<{ category: string; question_count: number }>(
+            "select * from quiz_record_categories('fehlerfrei')",
+          )
+        ).rows;
+        expect(categories).toHaveLength(1);
+        expect(categories[0].question_count).toBe(0);
+        const first = (
+          await db.query<{
+            points: number;
+            answers: number;
+            is_mine: boolean;
+            place: number;
+          }>("select * from quiz_record_runs($1,'week',0)", [
+            categories[0].category,
+          ])
+        ).rows;
+        expect(first).toHaveLength(50);
+        expect(first[0]).toMatchObject({
+          points: 1896,
+          answers: 13,
+          is_mine: false,
+          place: 1,
+        });
+        expect(first[1]).toMatchObject({ points: 0, answers: 1, place: 2 });
+        expect(Object.keys(first[0])).not.toContain("owner_id");
+        const next = (
+          await db.query("select * from quiz_record_runs($1,'week',50)", [
+            categories[0].category,
+          ])
+        ).rows;
+        expect(next).toHaveLength(3);
+        await deniedPublicQuery(
+          "select * from quiz_duel_results('all',0)",
+          /permission denied/,
+        );
+        await deniedPublicQuery(
+          "select * from quiz_shared_scores",
+          /permission denied/,
+        );
+        await deniedPublicQuery(
+          "select * from quiz_training_totals('','')",
+          /permission denied/,
+        );
+        const player = (
+          await db.query<{
+            player_name: string;
+            completed: number;
+            answered: number;
+            correct: number;
+          }>("select * from quiz_public_players('rounds',0)")
+        ).rows.find((p) => p.player_name === "Alice");
+        expect(player).toMatchObject({
+          completed: 53,
+          answered: 65,
+          correct: 12,
+        });
+      },
+      "anon",
+    );
+    const projected = (
+      await db.query(
+        "select points,question_count,category from quiz_shared_scores where owner_id=$1 order by round_id",
+        [alice],
+      )
+    ).rows;
+    await db.query("update public.quiz_saves set state=$1 where owner_id=$2", [
+      state,
+      alice,
+    ]);
+    expect(
+      (
+        await db.query(
+          "select points,question_count,category from quiz_shared_scores where owner_id=$1 order by round_id",
+          [alice],
+        )
+      ).rows,
+    ).toEqual(projected);
+  } finally {
+    await db.exec("rollback");
+  }
+});
 async function deniedPublicQuery(query: string, pattern: RegExp) {
   await db.exec("savepoint rejected_call");
   try {

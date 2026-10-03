@@ -35,6 +35,7 @@ export default defineConfig({
         "journey-areas.spec.ts",
 
         "compact-home.spec.ts",
+        "record-modes.spec.ts",
       ],
       use: { ...devices["iPhone 13"] },
     },

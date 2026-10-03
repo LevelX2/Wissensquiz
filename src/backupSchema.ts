@@ -1,6 +1,6 @@
 import { z } from "zod";
 import { questionSchema } from "./questionSchema";
-
+import { BANK_START } from "./recordModes";
 const time = z.number().finite().nonnegative();
 const id = z.string().min(1).max(200);
 const sources = z.array(z.enum(["film", "awards", "actors"])).max(3);
@@ -20,7 +20,14 @@ export const learningSchema = z.object({
 });
 export const roundSchema = z.object({
   id,
-  mode: z.enum(["entdecken", "ueben", "rekord", "fehler"]),
+  mode: z.enum([
+    "entdecken",
+    "ueben",
+    "rekord",
+    "fehler",
+    "fehlerfrei",
+    "zeitkonto",
+  ]),
   topic: id,
   difficulty: id,
   filters: z
@@ -42,7 +49,10 @@ export const roundSchema = z.object({
   unlocks: z
     .array(
       z.union([
-        z.object({ genre: id, difficulty: z.enum(["mittel", "schwer", "experte"]) }),
+        z.object({
+          genre: id,
+          difficulty: z.enum(["mittel", "schwer", "experte"]),
+        }),
         z.object({
           genre: id,
           familiarity: z.union([
@@ -56,9 +66,20 @@ export const roundSchema = z.object({
     )
     .optional(),
   familiaritySnapshot: z.record(id, z.number().int().min(0).max(4)).optional(),
-  questions: z.array(questionSchema).min(1).max(10),
+  questions: z.array(questionSchema).min(1).max(100000),
   order: z.array(z.array(id).length(4)),
-  events: z.array(id).max(10),
+  events: z.array(z.string().min(1).max(500)).max(100000),
+  recordPreset: z.enum(["standard", "custom"]).optional(),
+  run: z
+    .object({
+      version: z.literal(1),
+      pool: z.array(id).min(1).max(20000),
+      queue: z.array(id).max(20000),
+      cycle: z.number().int().positive(),
+      bankMs: z.number().finite().min(0).max(BANK_START),
+      ended: z.boolean(),
+    })
+    .optional(),
   startedAt: time,
   finishedAt: time.nullable(),
   status: z.enum(["active", "completed", "aborted"]),
@@ -71,11 +92,12 @@ export const roundSchema = z.object({
 export const stateSchema = z.object({
   schemaVersion: z.literal(1),
   questions: z.array(questionSchema).max(20000),
+  bundledQuestionIds: z.array(id).max(20000).optional(),
   rounds: z.array(roundSchema).max(100000),
   events: z
     .array(
       z.object({
-        id,
+        id: z.string().min(1).max(500),
         roundId: id,
         questionId: id,
         knowledgeId: id,
@@ -117,6 +139,9 @@ export const stateSchema = z.object({
     }),
   ),
   settings: z.object({
+    playGroup: z.enum(["learn", "timed", "duel"]).optional(),
+    lastLearningMode: z.enum(["entdecken", "ueben", "fehler"]).optional(),
+    lastTimedMode: z.enum(["rekord", "fehlerfrei", "zeitkonto"]).optional(),
     spoilers: z.boolean(),
     sound: z.boolean().optional(),
     haptics: z.boolean().optional(),
@@ -128,7 +153,15 @@ export const stateSchema = z.object({
     allDifficulties: z.boolean().optional(),
     roundSetup: z
       .object({
-        mode: z.enum(["entdecken", "ueben", "rekord", "fehler"]),
+        mode: z.enum([
+          "entdecken",
+          "ueben",
+          "rekord",
+          "fehler",
+          "fehlerfrei",
+          "zeitkonto",
+        ]),
+        recordPreset: z.enum(["standard", "custom"]).optional(),
         genres: z.array(id).max(20000).nullable(),
         categories: z
           .array(

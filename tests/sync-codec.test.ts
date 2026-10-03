@@ -54,6 +54,9 @@ it("erhält private Abweichungen, ausgelassene Teile, Reihenfolge und historisch
   r.order = [variant.answers.map((a) => a.id)];
   state.questions[0].metadata.private_column = "privater Import";
   state.questions.splice(1, 3);
+  state.bundledQuestionIds = state.bundledQuestionIds?.filter((id) =>
+    state.questions.some((q) => q.id === id),
+  );
   state.questions.push({
     ...structuredClone(state.questions[0]),
     id: "PRIVATE-1",

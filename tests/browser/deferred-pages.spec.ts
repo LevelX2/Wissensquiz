@@ -1,4 +1,4 @@
-import { test, expect, readStoredState } from "./fixtures";
+import { test, expect, openRoundSetup, readStoredState } from "./fixtures";
 
 test("alle Nebenansichten öffnen nach Offlinevorbereitung auch ohne vorherigen Besuch", async ({
   page,
@@ -49,9 +49,8 @@ test("alle Nebenansichten öffnen nach Offlinevorbereitung auch ohne vorherigen 
     "Diese Ansicht konnte nicht geladen werden.",
   );
   await page.getByRole("button", { name: "Spielen", exact: true }).click();
-  await page
-    .getByRole("button", { name: /Duell Gegen andere spielen/ })
-    .click();
+  await openRoundSetup(page);
+  await page.getByRole("button", { name: "Duell", exact: true }).click();
   await expect(
     page.getByRole("heading", { name: /Duell/, level: 1 }),
   ).toBeVisible();

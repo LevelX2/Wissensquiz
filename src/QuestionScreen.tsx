@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { answer, elapsed, guess } from "./engine";
+import { answer, elapsed, guess, points } from "./engine";
 import {
   uid,
   hasAnswer,
@@ -23,6 +23,13 @@ import { historicalModeName, Pill } from "./gameUi";
 import { presentedQuestion } from "./actorEditorial";
 import { Explanation } from "./Explanation";
 
+import {
+  isRecordMode,
+  isEndlessMode,
+  questionLimit,
+  eventIdFor,
+  modeNames,
+} from "./recordModes";
 export function QuestionScreen({
   round,
   index,
@@ -36,6 +43,7 @@ export function QuestionScreen({
   onReady,
   onGuessed,
   onGuess,
+  onCompleted,
 }: {
   round: Round;
   index: number;
@@ -49,13 +57,15 @@ export function QuestionScreen({
   onReady?: () => Promise<number>;
   onGuessed?: boolean;
   onGuess?: () => void;
+  onCompleted?: (saved: State) => void;
 }) {
   const q = round.questions[index];
   const event = state.events.find((e) => e.id === round.events[index]);
   const collected = round.solutionDisplay === "round";
-  const timed = round.mode === "rekord" || !!round.duel;
+  const timed = isRecordMode(round.mode) || !!round.duel;
+  const limit = questionLimit(round);
   const [guessed, setGuessed] = useState(false);
-  const [remaining, setRemaining] = useState(30_000);
+  const [remaining, setRemaining] = useState(limit);
   const [ready, setReady] = useState(false);
   const [revealing, setRevealing] = useState(false);
   const showReveal = !!event?.dontKnow && revealing && !collected;
@@ -76,16 +86,18 @@ export function QuestionScreen({
     const result = onAnswer
       ? await onAnswer(choice, ms)
       : await mutate((s) => {
-          answer(s, round.id, q.id, choice, ms);
-          if (collected && guessed) guess(s, `${round.id}:${q.knowledgeId}`);
+          answer(s, round.id, q.id, choice, ms, Date.now(), index);
+          if (collected && guessed) guess(s, eventIdFor(round, index));
         });
     if (!result) {
       locked.current = false;
       setRevealing(false);
     } else {
       const saved = result.events.find(
-        (e) => e.id === `${round.id}:${q.knowledgeId}`,
+        (e) => e.id === eventIdFor(round, index),
       );
+      if (result.rounds.find((r) => r.id === round.id)?.status === "completed")
+        onCompleted?.(result);
       if (saved && !collected)
         playFeedback(
           saved.dontKnow
@@ -119,7 +131,7 @@ export function QuestionScreen({
               wall: Date.now() - spent,
               mono: performance.now() - spent,
             };
-            setRemaining(Math.max(0, 30_000 - spent));
+            setRemaining(Math.max(0, limit - spent));
             setReady(true);
           } catch {
             setReady(false);
@@ -137,7 +149,7 @@ export function QuestionScreen({
     if (event || !timed || !ready) return;
     const tick = () => {
       if (!start.current) return;
-      const left = Math.max(0, 30_000 - elapsed(start.current));
+      const left = Math.max(0, limit - elapsed(start.current));
       setRemaining(left);
       if (left === 0) chooseRef.current(null);
     };
@@ -209,7 +221,7 @@ export function QuestionScreen({
           ←{" "}
           {round.duel
             ? "Pause & Duellübersicht"
-            : round.mode === "rekord"
+            : isRecordMode(round.mode)
               ? "Runde beenden"
               : "Pause & Startseite"}
         </button>
@@ -224,46 +236,51 @@ export function QuestionScreen({
       </div>
       <div className="round-progress">
         <span>
-          FRAGE {index + 1} VON {round.questions.length}
+          {isEndlessMode(round.mode)
+            ? `FRAGE ${index + 1} · ENDLOS`
+            : `FRAGE ${index + 1} VON ${round.questions.length}`}
         </span>
         <div
           className="progress-dots"
           role="group"
           aria-label="Fragenfortschritt"
         >
-          {round.questions.map((_, i) => {
-            const result = state.events.find((e) => e.id === round.events[i]);
-            const status =
-              result && collected
-                ? "answered"
-                : result
-                  ? result.correct
-                    ? "correct"
-                    : "wrong"
-                  : "open";
-            const label = `Frage ${i + 1}: ${result && collected ? "Antwort gespeichert" : result ? (result.correct ? "richtig beantwortet" : result.dontKnow ? "keine Ahnung, als falsch gewertet" : result.answerId ? "falsch beantwortet" : "ohne Antwort") : "noch offen"}${i === index ? ", aktuell" : ""}`;
-            return (
-              <span
-                key={i}
-                role="img"
-                aria-label={label}
-                title={label}
-                className={`progress-step ${status}${i === index ? " current" : ""}`}
-              >
-                {result && collected
-                  ? "•"
+          {round.questions
+            .map((_, i) => i)
+            .slice(-20)
+            .map((i) => {
+              const result = state.events.find((e) => e.id === round.events[i]);
+              const status =
+                result && collected
+                  ? "answered"
                   : result
                     ? result.correct
-                      ? "✓"
-                      : hasAnswer(result)
-                        ? "×"
-                        : "–"
-                    : i === index
-                      ? "•"
-                      : ""}
-              </span>
-            );
-          })}
+                      ? "correct"
+                      : "wrong"
+                    : "open";
+              const label = `Frage ${i + 1}: ${result && collected ? "Antwort gespeichert" : result ? (result.correct ? "richtig beantwortet" : result.dontKnow ? "keine Ahnung, als falsch gewertet" : result.answerId ? "falsch beantwortet" : "ohne Antwort") : "noch offen"}${i === index ? ", aktuell" : ""}`;
+              return (
+                <span
+                  key={i}
+                  role="img"
+                  aria-label={label}
+                  title={label}
+                  className={`progress-step ${status}${i === index ? " current" : ""}`}
+                >
+                  {result && collected
+                    ? "•"
+                    : result
+                      ? result.correct
+                        ? "✓"
+                        : hasAnswer(result)
+                          ? "×"
+                          : "–"
+                      : i === index
+                        ? "•"
+                        : ""}
+                </span>
+              );
+            })}
         </div>
       </div>
       {timed && !event && (
@@ -272,13 +289,41 @@ export function QuestionScreen({
           role="timer"
           aria-label={`${Math.ceil(remaining / 1000)} Sekunden verbleibend`}
         >
-          <progress max={30_000} value={remaining} />
+          <progress max={limit} value={remaining} />
           <span>
             {Math.ceil(remaining / 1000)} s ·{" "}
             {round.duel
               ? "1 Punkt pro richtiger Antwort"
-              : `${remaining > 0 ? 100 + 2 * Math.floor(remaining / 1000) : 0} mögliche Punkte`}
+              : `${remaining > 0 ? 100 + 2 * Math.floor((30000 - limit + remaining) / 1000) : 0} mögliche Punkte`}
           </span>
+        </div>
+      )}
+      {round.run && (
+        <div className="run-status" role="status">
+          <strong>
+            {points(state.events.filter((e) => e.roundId === round.id))}{" "}
+            Laufpunkte
+          </strong>
+          <span>
+            {
+              state.events.filter((e) => e.roundId === round.id && e.correct)
+                .length
+            }{" "}
+            richtig
+          </span>
+          {round.mode === "zeitkonto" && (
+            <span>
+              Zeitkonto:{" "}
+              {Math.ceil(
+                Math.max(
+                  0,
+                  round.run.bankMs - (!event ? limit - remaining : 0),
+                ) / 1000,
+              )}{" "}
+              s{event && ` · ${event.correct ? "+15" : "−45"} Sekunden`}
+            </span>
+          )}
+          {round.run.ended && <strong>Lauf beendet</strong>}
         </div>
       )}
       <section className="question-card">
@@ -328,7 +373,7 @@ export function QuestionScreen({
               </details>
             )
           : answerOptions}
-        {!event && round.mode === "rekord" && (
+        {!event && isRecordMode(round.mode) && (
           <p className="quiet-note">Deine erste Antwort zählt.</p>
         )}
         {collected && !event && (
@@ -375,7 +420,7 @@ export function QuestionScreen({
                           ? "Die Zeit ist um."
                           : "Eine neue Entdeckung."}
                   </h2>
-                  {round.mode === "rekord" && (
+                  {isRecordMode(round.mode) && (
                     <Pill>
                       +{event.knowledgePoints + event.timeBonus} Punkte
                     </Pill>

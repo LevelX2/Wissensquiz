@@ -1,12 +1,8 @@
 import { type ReactNode } from "react";
 import { type Mode, type Round } from "./model";
 
-export const modeNames: Record<Mode, string> = {
-  entdecken: "Filmreise",
-  ueben: "Freies Spiel",
-  rekord: "Rekordrunde",
-  fehler: "Fehlertraining",
-};
+export { modeNames } from "./recordModes";
+import { modeNames } from "./recordModes";
 
 export const historicalModeName = (round: Round) =>
   round.duel

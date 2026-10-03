@@ -22,6 +22,15 @@ import { prepareFactQuestion } from "./filmFacts";
 import { errorTrainingContext, type OpenMistake } from "./errorTraining";
 import { RULES, learn } from "./learning";
 import { careerSummary, migrateCareer } from "./career";
+import {
+  isRecordMode,
+  isEndlessMode,
+  BANK_START,
+  bankAfterAnswer,
+  questionLimit,
+  eventIdFor,
+  runRule,
+} from "./recordModes";
 export { DAY, RULES, dayKey, learn } from "./learning";
 export function score(correct: boolean, elapsedMs: number) {
   const valid = correct && elapsedMs >= 0 && elapsedMs < 30_000;
@@ -58,6 +67,7 @@ export function selectQuestions(
     recentKnowledgeIds?: Set<string>;
     introductoryQuestionIds?: Set<string>;
     mistakes?: Map<string, OpenMistake>;
+    recordPreset?: "standard" | "custom";
   },
   random = Math.random,
 ): Question[] {
@@ -95,7 +105,26 @@ export function selectQuestions(
       .slice(0, options.size);
   }
   if (options.mode === "ueben") return unique.slice(0, options.size);
-  if (options.mode === "rekord") {
+  if (isRecordMode(options.mode)) {
+    if (options.recordPreset === "standard") {
+      const result: Question[] = [];
+      for (const [level, count] of [
+        ["leicht", 3],
+        ["mittel", 4],
+        ["schwer", 3],
+      ] as const)
+        result.push(
+          ...unique
+            .filter((q) => q.difficulty === level)
+            .slice(0, Math.min(count, options.size - result.length)),
+        );
+      result.push(
+        ...unique
+          .filter((q) => !result.includes(q))
+          .slice(0, options.size - result.length),
+      );
+      return shuffle(result, random);
+    }
     const cells = new Map<string, Question[]>();
     for (const q of unique) {
       const key = `${q.difficulty}:${familiarityOf(q) ?? 0}`;
@@ -163,20 +192,29 @@ export function selectQuestions(
   return shuffle(result, random);
 }
 export const recordKey = (r: Round) =>
-  r.filters
+  r.recordPreset
     ? JSON.stringify([
-        "genres-v1",
-        canonicalFilters(r.filters),
+        "records-v3",
+        r.mode,
+        r.filters ? canonicalFilters(r.filters) : null,
         r.topic,
-        r.questions.length,
+        r.run ? "endless" : r.questions.length,
         r.ruleVersion,
       ])
-    : JSON.stringify([
-        r.topic,
-        r.difficulty,
-        r.questions.length,
-        r.ruleVersion,
-      ]);
+    : r.filters
+      ? JSON.stringify([
+          "genres-v1",
+          canonicalFilters(r.filters),
+          r.topic,
+          r.questions.length,
+          r.ruleVersion,
+        ])
+      : JSON.stringify([
+          r.topic,
+          r.difficulty,
+          r.questions.length,
+          r.ruleVersion,
+        ]);
 export const points = (events: AnswerEvent[]) =>
   events.reduce((sum, e) => sum + e.knowledgePoints + e.timeBonus, 0);
 export const badgeEligible = (q: Question) =>
@@ -197,7 +235,7 @@ export function rebuild(state: State, awardBadges = false) {
       e.roundId,
       (pointsByRound.get(e.roundId) ?? 0) + e.knowledgePoints + e.timeBonus,
     );
-  for (const r of done.filter((r) => r.mode === "rekord")) {
+  for (const r of done.filter((r) => isRecordMode(r.mode))) {
     const value = pointsByRound.get(r.id) ?? 0;
     const key = recordKey(r);
     if (!state.records[key] || value > state.records[key].points)
@@ -242,6 +280,7 @@ export function startRound(
     difficulty: string;
     filters?: QuizFilters;
     sourceRoundId?: string;
+    recordPreset?: "standard" | "custom";
   },
   now = Date.now(),
 ): Round {
@@ -250,7 +289,12 @@ export function startRound(
       "Es läuft bereits eine Runde. Setze sie fort oder beende sie.",
     );
   const selected = selectQuestions(
-    pathQuestions(state, options.mode),
+    pathQuestions(state, options.mode).filter(
+      (q) =>
+        options.recordPreset !== "standard" ||
+        !state.bundledQuestionIds ||
+        state.bundledQuestionIds.includes(q.id),
+    ),
     state.learning,
     {
       ...options,
@@ -258,7 +302,13 @@ export function startRound(
       ...(options.mode === "fehler"
         ? errorTrainingContext(state, options.sourceRoundId)
         : {}),
-      size: state.rounds.some((r) => r.status === "completed") ? 10 : 5,
+      size: isEndlessMode(options.mode)
+        ? 1
+        : options.recordPreset
+          ? 10
+          : state.rounds.some((r) => r.status === "completed")
+            ? 10
+            : 5,
       now,
     },
   );
@@ -305,7 +355,116 @@ export function startRound(
       : {}),
   };
   state.rounds.push(round);
+  if (
+    isRecordMode(options.mode) &&
+    (options.recordPreset || isEndlessMode(options.mode))
+  ) {
+    round.recordPreset = options.recordPreset ?? "custom";
+    round.ruleVersion = runRule(options.mode, round.recordPreset);
+    if (
+      !isEndlessMode(options.mode) &&
+      state.settings.solutionDisplay === "round"
+    )
+      round.ruleVersion += ".L";
+    if (isEndlessMode(options.mode)) {
+      delete round.solutionDisplay;
+      const official =
+        state.bundledQuestionIds && new Set(state.bundledQuestionIds);
+      const pool = state.questions.filter(
+        (q) =>
+          (options.recordPreset !== "standard" ||
+            !official ||
+            official.has(q.id)) &&
+          matchesTopic(q, options.topic) &&
+          (!options.filters || matchesFilters(q, options.filters)),
+      );
+      round.run = {
+        version: 1,
+        pool: pool.map((q) => q.id),
+        queue: [],
+        cycle: 0,
+        bankMs: BANK_START,
+        ended: false,
+      };
+      round.questions = [];
+      round.order = [];
+      round.before = {};
+      appendRunQuestion(state, round);
+    }
+  }
   return round;
+}
+function appendRunQuestion(state: State, round: Round) {
+  const run = round.run!;
+  const byId = new Map(state.questions.map((q) => [q.id, q]));
+  if (!run.queue.length) {
+    const pool = run.pool
+      .map((id) => byId.get(id))
+      .filter((q): q is Question => !!q);
+    const goals = new Map<string, Question[]>();
+    for (const q of pool) {
+      const variants = goals.get(q.knowledgeId) ?? [];
+      variants.push(q);
+      goals.set(q.knowledgeId, variants);
+    }
+    const buckets = new Map<string, Question[]>();
+    for (const variants of shuffle([...goals.values()])) {
+      const q = shuffle(variants)[0];
+      const bucket = buckets.get(q.difficulty) ?? [];
+      bucket.push(q);
+      buckets.set(q.difficulty, bucket);
+    }
+    const queue: Question[] = [];
+    while ([...buckets.values()].some((b) => b.length)) {
+      const block: Question[] = [];
+      if (round.recordPreset === "standard") {
+        for (const [level, count] of [
+          ["leicht", 3],
+          ["mittel", 4],
+          ["schwer", 3],
+        ] as const)
+          for (let i = 0; i < count && block.length < 10; i++) {
+            const q = buckets.get(level)?.pop();
+            if (q) block.push(q);
+          }
+      } else {
+        const active = shuffle([...buckets.values()]);
+        while (block.length < 10 && active.some((b) => b.length))
+          for (const bucket of active) {
+            if (block.length === 10) break;
+            const q = bucket.pop();
+            if (q) block.push(q);
+          }
+      }
+      for (const bucket of buckets.values())
+        while (bucket.length && block.length < 10) block.push(bucket.pop()!);
+      queue.push(...shuffle(block));
+    }
+    const previous = round.questions.at(-1)?.knowledgeId;
+    if (queue.length > 1 && queue[0].knowledgeId === previous) {
+      const next = queue.findIndex((q) => q.knowledgeId !== previous);
+      if (next > 0) [queue[0], queue[next]] = [queue[next], queue[0]];
+    }
+    run.queue = queue.map((q) => q.id);
+    run.cycle++;
+  }
+  const source = byId.get(run.queue.shift()!);
+  if (!source)
+    throw new Error("Der Fragenpool dieses Laufs ist nicht mehr verfügbar.");
+  if (
+    !round.questions.some((q) => q.knowledgeId === source.knowledgeId) &&
+    state.learning[source.knowledgeId]
+  )
+    round.before[source.knowledgeId] = structuredClone(
+      state.learning[source.knowledgeId],
+    );
+  const previous = [...round.questions]
+    .reverse()
+    .find((q) => q.id === source.id);
+  const q = structuredClone(prepareFactQuestion(source, previous));
+  round.questions.push(q);
+  round.order.push(shuffle(q.answers.map((a) => a.id)));
+  round.familiaritySnapshot![q.id] = familiarityOf(q) ?? 0;
 }
 export function answer(
   state: State,
@@ -314,39 +473,52 @@ export function answer(
   choice: AnswerChoice,
   elapsedMs: number,
   at = Date.now(),
+  expectedIndex?: number,
 ) {
   const round = state.rounds.find((r) => r.id === roundId);
   if (!round || round.status !== "active") return;
+  if (expectedIndex !== undefined && round.events.length !== expectedIndex)
+    return;
   const q = round.questions[round.events.length];
   if (!q || q.id !== questionId) return; // transactional double-submit guard
   const answerId = typeof choice === "string" ? choice : null;
   const dontKnow = choice !== null && typeof choice === "object";
   if (answerId !== null && !q.answers.some((a) => a.id === answerId))
     throw new Error("Unbekannte Antwort.");
-  const correct =
-    answerId === q.correctId && (round.mode !== "rekord" || elapsedMs < 30_000);
+  if (!Number.isFinite(elapsedMs) || elapsedMs < 0)
+    throw new Error("Ungültige Antwortzeit.");
+  const timed = isRecordMode(round.mode);
+  const limit = questionLimit(round);
+  const spent = timed ? Math.min(elapsedMs, limit) : elapsedMs;
+  const correct = answerId === q.correctId && (!timed || elapsedMs < limit);
   const event: AnswerEvent = {
-    id: `${round.id}:${q.knowledgeId}`,
+    id: eventIdFor(round, round.events.length),
     roundId,
     questionId: q.id,
     knowledgeId: q.knowledgeId,
     version: q.version,
-    answerId: round.mode === "rekord" && elapsedMs >= 30_000 ? null : answerId,
-    ...(dontKnow && (round.mode !== "rekord" || elapsedMs < 30_000)
+    answerId: timed && elapsedMs >= limit ? null : answerId,
+    ...(dontKnow && (!timed || elapsedMs < limit)
       ? { dontKnow: true as const }
       : {}),
     correct,
     guessed: false,
     at,
-    elapsedMs,
-    ...(round.mode === "rekord"
-      ? score(correct, elapsedMs)
-      : { knowledgePoints: 0, timeBonus: 0 }),
+    elapsedMs: spent,
+    ...(timed ? score(correct, spent) : { knowledgePoints: 0, timeBonus: 0 }),
   };
   if (state.events.some((e) => e.id === event.id)) return;
   state.events.push(event);
   round.events.push(event.id);
   learnPending(state, [event]);
+  if (round.run) {
+    if (round.mode === "zeitkonto")
+      round.run.bankMs = bankAfterAnswer(round.run.bankMs, correct, spent);
+    round.run.ended =
+      round.mode === "fehlerfrei" ? !correct : round.run.bankMs === 0;
+    if (!round.run.ended) appendRunQuestion(state, round);
+    else complete(state, round.id, at);
+  }
 }
 export function guess(state: State, eventId: string) {
   const e = state.events.find((e) => e.id === eventId);

@@ -1,3 +1,5 @@
+import { isRecordMode, isEndlessMode } from "./recordModes";
+import type { PlayGroup } from "./ModePicker";
 import { familiarities } from "./familiarity";
 import {
   lazy,
@@ -10,8 +12,19 @@ import {
   type ReactNode,
 } from "react";
 import { complete, rebuild, startRound } from "./engine";
-import { emptyState, type Round, type State, type RoundSetup } from "./model";
-import { difficulties, genreOf, questionSourceOf } from "./filters";
+import {
+  emptyState,
+  type Round,
+  type State,
+  type RoundSetup,
+  type Difficulty,
+} from "./model";
+import {
+  difficulties,
+  genreOf,
+  questionSourceOf,
+  questionSources,
+} from "./filters";
 import { read as readStored, update as updateStored } from "./storage";
 import { useOffline } from "./offline";
 import { ActivityContext } from "./GuestActivity";
@@ -164,7 +177,8 @@ export function App({
       const initial = (await read()) ?? emptyState();
       const incoming: PackageContent[] = [];
       for (const pkg of packages) {
-        if (hasPackage(initial, pkg.filename)) continue;
+        if (initial.bundledQuestionIds && hasPackage(initial, pkg.filename))
+          continue;
         try {
           const response = await fetch(pkg.path);
           if (!response.ok) throw new Error("Download fehlgeschlagen");
@@ -184,7 +198,7 @@ export function App({
         addPackages(s, incoming);
         retainJourneyUnlocks(s);
         for (const r of s.rounds)
-          if (r.status === "active" && r.mode === "rekord") {
+          if (r.status === "active" && isRecordMode(r.mode)) {
             r.status = "aborted";
             r.finishedAt = Date.now();
           }
@@ -229,7 +243,7 @@ export function App({
     setCelebration(null);
     if (
       page === "round" &&
-      state?.rounds.find((r) => r.id === roundId)?.mode === "rekord"
+      state?.rounds.some((r) => r.id === roundId && isRecordMode(r.mode))
     ) {
       const saved = await mutate((s) => {
         const r = s.rounds.find((r) => r.id === roundId);
@@ -237,6 +251,14 @@ export function App({
           r.status = "aborted";
           r.finishedAt = Date.now();
         }
+      });
+      if (!saved) return;
+    }
+    if (next === "home" && state?.settings.playGroup === "duel") {
+      const saved = await mutate((s) => {
+        s.settings.playGroup = isRecordMode(readRoundSetup(s).mode)
+          ? "timed"
+          : "learn";
       });
       if (!saved) return;
     }
@@ -285,9 +307,20 @@ export function App({
     difficulties: selectedDifficulties,
     familiarities: selectedFamiliarities = [...familiarities],
     sources: selectedSources = ["film"],
+    recordPreset = "custom",
   } = pendingSetup ?? roundSetup!;
+  const playGroup: PlayGroup =
+    state.settings.playGroup ?? (isRecordMode(mode) ? "timed" : "learn");
+  const standard = isRecordMode(mode) && recordPreset === "standard";
   const changeSetup = async (patch: Partial<RoundSetup>) => {
     if (inFlight.current) return null;
+    if (
+      patch.mode &&
+      isRecordMode(patch.mode) &&
+      !readRoundSetup(state).recordPreset &&
+      !patch.recordPreset
+    )
+      patch = { ...patch, recordPreset: "standard" };
     // Reflect the click immediately; only committed state reaches account sync.
     setPendingSetup(
       readRoundSetup({
@@ -302,19 +335,40 @@ export function App({
       return await mutate((s) => {
         s.settings.roundSetup = { ...readRoundSetup(s), ...patch };
         s.settings.roundSetup = readRoundSetup(s);
+        if (patch.mode) {
+          s.settings.playGroup = isRecordMode(patch.mode) ? "timed" : "learn";
+          if (isRecordMode(patch.mode)) s.settings.lastTimedMode = patch.mode;
+          else s.settings.lastLearningMode = patch.mode;
+        }
       });
     } finally {
       setPendingSetup(null);
     }
   };
-  const filters = {
-    genres: (selectedGenres ?? genres).filter((genre) => genre !== ACTORS),
-    sources: selectedSources,
-    difficulties:
-      mode === "entdecken" ? [...difficulties] : selectedDifficulties,
-    familiarities:
-      mode === "entdecken" ? [...familiarities] : selectedFamiliarities,
-  };
+  const bundledIds = new Set(state.bundledQuestionIds ?? []);
+  const filters = standard
+    ? {
+        genres: [
+          ...new Set(
+            state.questions
+              .filter(
+                (q) => bundledIds.has(q.id) && questionSourceOf(q) === "film",
+              )
+              .map(genreOf),
+          ),
+        ].sort(),
+        sources: [...questionSources],
+        difficulties: ["leicht", "mittel", "schwer"] as Difficulty[],
+        familiarities: [...familiarities],
+      }
+    : {
+        genres: (selectedGenres ?? genres).filter((genre) => genre !== ACTORS),
+        sources: selectedSources,
+        difficulties:
+          mode === "entdecken" ? [...difficulties] : selectedDifficulties,
+        familiarities:
+          mode === "entdecken" ? [...familiarities] : selectedFamiliarities,
+      };
   const toggleGenre = (genre: string) =>
     void changeSetup({
       genres: filters.genres.includes(genre)
@@ -329,7 +383,9 @@ export function App({
   };
   const active = state.rounds.find((r) => r.status === "active");
   const current = state.rounds.find((r) => r.id === roundId);
-  const roundTopic = selectionTopic(selectedCategories, selectedSources);
+  const roundTopic = standard
+    ? "Alle Themen"
+    : selectionTopic(selectedCategories, selectedSources);
   const begin = async () => {
     unlockSound(state.settings);
     let id = "";
@@ -340,6 +396,7 @@ export function App({
         topic: roundTopic,
         difficulty: "Alle Stufen",
         filters,
+        ...(isRecordMode(mode) ? { recordPreset } : {}),
       }).id;
     });
     if (next) {
@@ -476,6 +533,9 @@ export function App({
               {page === "home" && (
                 <PlaySetup
                   mode={mode}
+                  playGroup={playGroup}
+                  standard={standard}
+                  recordPreset={recordPreset}
                   busy={busy}
                   changeSetup={changeSetup}
                   active={active}
@@ -544,6 +604,13 @@ export function App({
                   mutate={mutate}
                   busy={busy}
                   sync={sync}
+                  onCompleted={(saved) =>
+                    guestReporter.current?.record(
+                      saved,
+                      current.id,
+                      "completed",
+                    )
+                  }
                   onExit={() => void nav("home")}
                   onNext={async () => {
                     unlockSound(state.settings);
@@ -552,7 +619,9 @@ export function App({
                       const next = await mutate((s) => {
                         const before = learningPathProgress(s);
                         complete(s, current.id);
-                        unlocks = newlyUnlocked(before, s);
+                        unlocks = current.run?.ended
+                          ? (current.unlocks ?? [])
+                          : newlyUnlocked(before, s);
                       });
                       if (next) {
                         guestReporter.current?.record(

@@ -1,4 +1,4 @@
-import { expect, type Page } from "@playwright/test";
+import { expect, openRoundSetup, type Page } from "./fixtures";
 import { PGlite } from "@electric-sql/pglite";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -84,7 +84,13 @@ export async function server() {
       }
       // This fixture intentionally models the older duel/backup backend.
       if (path.endsWith("/quiz_sync_metadata"))
-        return route.fulfill({ status: 404, json: { code: "PGRST202", message: "quiz_sync_metadata is absent in the legacy test service" } });
+        return route.fulfill({
+          status: 404,
+          json: {
+            code: "PGRST202",
+            message: "quiz_sync_metadata is absent in the legacy test service",
+          },
+        });
       const name = path.split("/").at(-1)!;
       if (!name.startsWith("quiz_duel_")) return route.fulfill({ json: [] });
       const execute = tail.then(async () => {
@@ -136,12 +142,11 @@ export async function server() {
       page.getByRole("button", { name: "Spielen", exact: true }),
     ).toBeEnabled();
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
+    await openRoundSetup(page);
     await expect(
-      page.getByRole("button", { name: /Duell Gegen andere spielen/ }),
+      page.getByRole("button", { name: "Duell", exact: true }),
     ).toBeEnabled();
-    await page
-      .getByRole("button", { name: /Duell Gegen andere spielen/ })
-      .click();
+    await page.getByRole("button", { name: "Duell", exact: true }).click();
     await expect(
       page.getByRole("heading", { name: "Deine Duelle" }),
     ).toBeVisible();

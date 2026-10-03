@@ -1,5 +1,7 @@
 # Vorschlag für Spielmodi Zeitregeln und Highscores
 
+Historischer Konzeptstand. Der Nutzer hat die Umsetzung im Worktree beauftragt; die gültigen implementierten Regeln einschließlich Duellwertung und lokaler Rolloutgrenzen stehen in [Rekordmodi und Zeitranglisten](Rekordmodi-und-Zeitranglisten.md). Die unten genannten Umsetzungspunkte sind durch diesen Auftrag abgelöst; das Spielgefühl bleibt für spätere Nutzertests offen.
+
 Stand: 03.10.2026. Konkreter Entwurf auf Nutzerwunsch, noch nicht umgesetzt. Empfehlung: drei Einstiege **Lernen**, **Auf Zeit** und **Duell**. Unter Auf Zeit stehen drei Solo-Rekordvarianten. Endlosrekord und dynamisches Zeitkonto erhalten eigene Wochen-, Monats-, Jahres- und Allzeitlisten. Die vollständige Integration in Highscores und ein anspruchsvolles Zeitkonto sind Nutzeranforderungen; Namen, Werte und Bedienstruktur sind Vorschläge.
 
 Die ursprünglichen Nutzernachrichten bleiben unverändert erhalten: [Endlosrekord](../KI-Wissen-Wissensquiz/01%20Rohquellen/Endlos-Rekord-Idee-2026-10-03.md), [dynamische Zeit](../KI-Wissen-Wissensquiz/01%20Rohquellen/Dynamische-Zeit-Idee-2026-10-03.md), [Modusgruppen und gewünschter Schwierigkeitsgrad](../KI-Wissen-Wissensquiz/01%20Rohquellen/Modusgruppen-und-Zeitbalance-Idee-2026-10-03.md).
