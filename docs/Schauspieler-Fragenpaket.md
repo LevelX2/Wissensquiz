@@ -25,6 +25,10 @@ Alle 800 Vertiefungen wurden um konkrete Hintergründe ergänzt (26–53 Wörter
 - [Quellenabgleich der 100 Biografien](Schauspieler-Fragenpaket/Quellenpruefung-2026-10-03.json)
 - [Quellenabgleich der ergänzten Film-Eckdaten](Schauspieler-Fragenpaket/Filmquellenpruefung-2026-10-03.json)
 
+## Vorbereitete Ergänzung mit 200 Fragen
+
+Am 03.10.2026 auf Nutzerauftrag weitere 200 individuelle Fragen für 25 bisher nicht im Personenpaket enthaltene Schauspielerinnen und Schauspieler vorbereitet: je acht Fragen und zwei je Stufe. Das getrennte Paket P02 enthält vollständige vorgegebene Namen, konkrete Vertiefungen, frageweise Quellen und Filmreferenzen mit Eckdaten. Vier fachlich gleiche Bestandsziele sind als Varianten zugeordnet; weitere Zuordnungen bleiben vor Integration zu prüfen. Diese Erweiterung ist noch nicht spielbar oder veröffentlicht; der veröffentlichte Bestand von 800 Schauspielerfragen bleibt unverändert. [Ergänzung, Lesefassung und Prüfnachweis](Schauspieler-200-Ergaenzung.md).
+
 ## Ursprüngliche Dateien
 
 - [Vollständige Lesefassung mit Personenübersicht, Antworten und Zusatzinformationen](Schauspieler-Fragenpaket/Schauspieler_800_Fragen_Lesefassung.md)

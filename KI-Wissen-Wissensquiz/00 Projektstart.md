@@ -2,6 +2,8 @@
 
 ## Aktueller Stand
 
+03.10.2026: **Weitere 200 Schauspielerfragen als Redaktionspaket vorbereitet**, 25 zusätzliche Personen mit je zwei Fragen pro Stufe. Vollständige vorgegebene Namen, individuelle Vertiefungen von 40–50 Wörtern, 209 Quellenadressen und 127 Film-Eckdatensätze für 126 Fragen mit Filmbezug. Vier vorhandene Film-Wissensziele als Varianten zugeordnet. Noch nicht in App, Offline- oder Duellkatalog integriert; veröffentlichter Stand weiterhin Version 41 mit 800 Schauspielerfragen. [Paket, Lesefassung und Prüfgrenzen](../docs/Schauspieler-200-Ergaenzung.md).
+
 03.10.2026: Filmreise mit allen drei additiven Fragenbereichen umgesetzt; Schauspieler und Preisträger entwickeln sich separat bis Experte mit je 20 sicheren Zielen der vorherigen Stufe. 727 vorgegebene Personennamen vollständig im Fragetext, 73 Erkennungsfragen weiterhin verdeckt. Alle 800 Vertiefungen individuell ergänzt; 549 Fragen mit 493 Filmverweisen, 382 zusätzliche Eckdaten. Rohquellen, IDs, Lernstände und historische Rundensnapshots erhalten. Als Sites-Version 41 erfolgreich veröffentlicht, nativer Status succeeded. 234 Tests, Produktions-Build und 31 abschließende Browserfälle erfolgreich; mit fünf weiteren Film-Eckdatenfällen 36 unterschiedliche erfolgreiche Fälle. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md). [Fachvertrag](../docs/Filmreise-Personen-und-Vertiefungen.md), [Prüfbericht](../docs/Pruefbericht.md).
 
 ## Bisherige Entwicklungs- und Veröffentlichungsstände

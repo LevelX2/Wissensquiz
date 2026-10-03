@@ -1,0 +1,99 @@
+{
+  "created_on": "2026-10-03",
+  "old_actor_people": 100,
+  "new_actor_people": 25,
+  "exact_duplicate_questions": 0,
+  "question_id_collisions": 0,
+  "public_csv_rows": 4852,
+  "semantic_link_candidates": [
+    {
+      "question_id": "SCHAUSPIELER-202610-P02-102-L-1",
+      "correct_answer": "Russell Crowe",
+      "existing_candidates": [
+        {
+          "question_id": "PRZ-202610-P01-M-015",
+          "knowledge_id": "K-PRZ-202610-P01-M-015",
+          "question": "„Gladiator“ (2000): Wer nahm bei den Oscars 2001 die Trophäe als bester Hauptdarsteller mit?"
+        }
+      ],
+      "status": "anderes_wissensziel",
+      "reason": "Besetzung als Maximus und Gewinn eines Schauspiel-Oscars sind verschiedene Aussagen."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P02-104-L-2",
+      "correct_answer": "Klavier",
+      "existing_candidates": [
+        {
+          "question_id": "MUS-202609-P01-L-007",
+          "knowledge_id": "K-MUS-202609-P01-L-007",
+          "question": "„La La Land“ (2016): Welches Instrument spielt Sebastian beruflich?"
+        },
+        {
+          "question_id": "MUS-202609-P01-L-007-V1",
+          "knowledge_id": "K-MUS-202609-P01-L-007",
+          "question": "„La La Land“ (2016): An welchem Instrument tritt Sebastian als Jazzmusiker auf?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Sebastians Instrument in La La Land; dieselbe gesicherte Aussage."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P02-107-L-2",
+      "correct_answer": "Die amerikanische Unabhängigkeitserklärung",
+      "existing_candidates": [
+        {
+          "question_id": "ADV-202610-P01-L-018",
+          "knowledge_id": "K-ADV-202610-P01-L-018",
+          "question": "„Das Vermächtnis der Tempelritter“ (2004): Welches berühmte Dokument stiehlt Gates?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Das entwendete Dokument in National Treasure; dieselbe gesicherte Aussage."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P02-109-L-1",
+      "correct_answer": "Jeff Bridges",
+      "existing_candidates": [
+        {
+          "question_id": "KOM-L-001",
+          "knowledge_id": "K-KOM-01-01",
+          "question": "„The Big Lebowski“ (1998): Wer spielt den als „Dude“ bekannten Jeffrey Lebowski?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Jeff Bridges als Jeffrey Lebowski; dieselbe Besetzungsinformation."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P02-120-L-1",
+      "correct_answer": "Bellatrix Lestrange",
+      "existing_candidates": [
+        {
+          "question_id": "FAN-M-022",
+          "knowledge_id": "K-FAN-11-bellatrix-sirius",
+          "question": "„Harry Potter und der Orden des Phönix“ (2007): Wer tötet Sirius Black im Kampf im Ministerium?"
+        }
+      ],
+      "status": "anderes_wissensziel",
+      "reason": "Besetzung als Bellatrix und Tötung von Sirius sind verschiedene Aussagen."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P02-122-L-1",
+      "correct_answer": "Julie Andrews",
+      "existing_candidates": [
+        {
+          "question_id": "MUS-202609-P01-L-011",
+          "knowledge_id": "K-MUS-202609-P01-L-011",
+          "question": "„Mary Poppins“ (1964): Wer spielt das magische Kindermädchen?"
+        },
+        {
+          "question_id": "MUS-202609-P01-L-011-V1",
+          "knowledge_id": "K-MUS-202609-P01-L-011",
+          "question": "„Mary Poppins“ (1964): Wer ist in der Titelrolle als Kindermädchen zu sehen?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Julie Andrews als Mary Poppins 1964; dieselbe Besetzungsinformation."
+    }
+  ],
+  "limitation": "Gleiche Lösung und Film sind Kandidaten, kein Beweis eines gleichen Wissensziels. Vor App-Einbindung jeden Kandidaten und weitere sinngleiche Ziele redaktionell abgleichen."
+}
