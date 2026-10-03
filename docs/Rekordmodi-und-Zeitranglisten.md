@@ -1,10 +1,10 @@
 # Rekordmodi und Zeitranglisten
 
-Stand 03.10.2026: auf Nutzerauftrag im isolierten Worktree `codex/rekordmodi` umgesetzt. Die Änderungen sind lokal; die neue Servermigration ist nicht live angewendet und die App nicht veröffentlicht. Grundlage ist der veröffentlichte Quellstand `0db3262`. Andere Arbeiten im Hauptarbeitsordner wurden nicht übernommen.
+Stand: 03.10.2026. Rekordmodi aus dem eigenen Worktree sind im gemeinsamen Integrationsstand mit dem kompakten Einstieg, der ausgelagerten Oberfläche und dem Eintragskontospeicher vereinigt. Der ausdrücklich beauftragte Finale-Abschluss umfasst Main-Integration und Veröffentlichung nach den gemeinsamen Prüfungen.
 
 ## Einstieg und Regeln
 
-Die Startseite zeigt Lernen, Auf Zeit und Duell. Lernen bietet Filmreise, Freies Spiel und Fehlertraining. Auf Zeit bietet 10 Fragen, Fehlerfrei und Zeitkonto. Der Wechsel bleibt auf derselben Seite; jede Gruppe merkt ihre zuletzt gewählte Variante. Beim ersten Wechsel zu Auf Zeit gilt 10 Fragen im Standardmix. Duell behält seinen bestehenden Ablauf mit drei Zehnerrunden und 30 Sekunden je Frage.
+Die standardmäßig geschlossene Auswahlklappe „Spielmodus“ enthält Lernen, Auf Zeit und Duell. Die übrigen Auswahlklappen zeigen ihre gespeicherten Werte in der Zusammenfassung; Lösungen bleiben unter Profil → Optionen. Lernen bietet Filmreise, Freies Spiel und Fehlertraining. Auf Zeit bietet 10 Fragen, Fehlerfrei und Zeitkonto. Der Wechsel bleibt auf derselben Seite; jede Gruppe merkt ihre zuletzt gewählte Variante. Beim ersten Wechsel zu Auf Zeit gilt 10 Fragen im Standardmix. Duell behält seinen bestehenden Ablauf mit drei Zehnerrunden und 30 Sekunden je Frage.
 
 | Variante | Zeit | Ende |
 | --- | --- | --- |
@@ -52,7 +52,7 @@ Gemeinsame Solo-Listen sind auch Gästen zugänglich. Sie zeigen nur Spielername
 
 Die öffentliche Duellrangliste summiert je Zeitraum vollständig beendete, serverseitig gewertete Begegnungen: Sieg 3, Remis 1, Niederlage 0. Beide bestätigten Teilnehmer müssen ihre jeweils 30 Antworten abgegeben haben. Aufgabe, Fristablauf und ausgefallene Begegnungen liefern keine Ranglistenpunkte und bleiben in der privaten Einzelhistorie sichtbar. Diese Regel verhindert Punkte durch gegenseitige frühe Aufgabe. Die bestehende Trefferwertung innerhalb eines Duells bleibt erhalten.
 
-Karriere zeigt die bisherigen globalen XP-/Level- und Lernleistungslisten; angemeldete Konten können weiterhin nach Genre und Stufe vergleichen. Die neuen Modi zählen mit. Wiederholte Frage-IDs werden in der Serverstatistik nach Antwortvorkommen zugeordnet, ohne Mehrfachjoins. Gastaktivitätsmeldungen erlauben nun bis zu 100.000 Antworten pro Lauf; bereits zugestellte Meldungen bleiben idempotent.
+Karriere zeigt die bisherigen globalen XP-/Level- und Lernleistungslisten; angemeldete Konten können weiterhin nach Genre und Stufe vergleichen. Die neuen Modi zählen mit; ihre Ergebniskarten führen direkt zur Bestenliste. Wiederholte Frage-IDs werden in der Serverstatistik nach Antwortvorkommen zugeordnet, ohne Mehrfachjoins. Gastaktivitätsmeldungen erlauben nun bis zu 100.000 Antworten pro Lauf; bereits zugestellte Meldungen bleiben idempotent.
 
 ## Speicher und Server
 
@@ -60,9 +60,9 @@ Neue Regelkennungen: `solo-v1.<rekord|fehlerfrei|zeitkonto>.<standard|custom>`, 
 
 Sicherungsprüfung rekonstruiert Vorrat, Fragegrenzen, reguläres Ende, Pooldurchgänge und Ereigniszuordnung. Kompakte Kontosicherungen verwenden bei neuen Daten `quiz-cloud-compact-v3`; v1/v2 bleiben lesbar. Runden erlauben in der Sicherungsprüfung höchstens 100.000 Frageneinträge, der Gesamtkatalog höchstens 20.000 Fragen. Bestehende JSON-/Servergrößengrenzen gelten weiter; sehr lange Läufe können die Online-Sicherungsgrenze erreichen und bleiben dann lokal.
 
-Migration: [20261003103026_record_modes_highscores.sql](../supabase/migrations/20261003103026_record_modes_highscores.sql). Sie ergänzt öffentliche, begrenzte Ergebnis-RPCs, private Duellhistorie, interne Statistikprojektion und die erweiterte Gastmeldungsgrenze. Direkter Tabellenzugriff bleibt gesperrt. Vorhandene Rekorde werden lokal im Migrationslauf neu projiziert, ohne Frage- oder Lerninhalte umzuschreiben. Alte RPCs und gesicherte Runden bleiben lesbar. Der Kontodienst benötigt zunächst die schon vorbereitete Migration zur öffentlichen Karriere/Gastaktivität, danach diese Migration.
+Live eingerichtet sind die Rekordmigration und die ergänzende [Ereigniszuordnung für lange Läufe](../supabase/migrations/20261003121600_record_statistics_event_lookup.sql). Migration: [20261003103026_record_modes_highscores.sql](../supabase/migrations/20261003103026_record_modes_highscores.sql). Sie ergänzt öffentliche, begrenzte Ergebnis-RPCs, private Duellhistorie, interne Statistikprojektion und die erweiterte Gastmeldungsgrenze. Direkter Tabellenzugriff bleibt gesperrt. Vorhandene Rekorde werden lokal im Migrationslauf neu projiziert, ohne Frage- oder Lerninhalte umzuschreiben. Alte RPCs und gesicherte Runden bleiben lesbar. Der Kontodienst benötigt die öffentliche Karriere/Gastaktivität. Bei vorhandenem Eintragsprotokoll erhält die Migration dessen kleine Statistikprojektionen: Antworten werden positionsgenau zugeordnet, wiederholte Fragen nur in Endlosmodi zugelassen, offizielle Katalog-IDs synchronisiert und öffentliche Karriere-XP aus den bestehenden Summen gelesen. Private Kontoeinträge und alte Sicherungen werden dabei nicht verändert.
 
-Bis zum beauftragten Serverrollout erklären die neuen gemeinsamen Listen fehlende Funktionen und bieten erneutes Laden; persönliche Läufe funktionieren vollständig offline. Keine Live-Datenbankänderung, Veröffentlichung, Main-Integration oder Remote-Aktion gehört zu diesem Umsetzungsauftrag.
+Bis zum beauftragten Serverrollout erklären die neuen gemeinsamen Listen fehlende Funktionen und bieten erneutes Laden; persönliche Läufe funktionieren vollständig offline. Der anschließende Finale-Auftrag autorisiert jetzt Main-Integration, Servermigration und Sites-Veröffentlichung.
 
 ## Quellen und Prüfung
 

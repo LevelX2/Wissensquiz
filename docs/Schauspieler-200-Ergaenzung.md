@@ -1,4 +1,10 @@
-# Schauspieler: 200 weitere Fragen vorbereitet
+# Schauspieler: 200 weitere Fragen (P02)
+
+Aktueller Integrationsstand vom 03.10.2026: **vollständig in der App spielbar**, einschließlich Namen, Vertiefungen, Quellen und Filmbezügen. Beide Ergänzungen ergeben mit dem bisherigen Paket **1.400 Fragen für 175 Personen**; der App-Gesamtbestand umfasst **6.277 Fragen und 5.734 Wissensziele**. Originalredaktion, Rohdateien und Recherchebelege bleiben unverändert. Die 13 bereits fachlich bestätigten Bestandsbezüge werden als Varianten übernommen. Veröffentlichung folgt nach der vollständigen Browserabnahme.
+
+Ableitung mit `node scripts/integrate-actor-supplements.mjs`; [Prüfsummen und Integrationsnachweis](Schauspieler-Ergaenzungen-Integration.json), [Gesamtintegration und Veröffentlichung](Gesamtintegration-2026-10-03.md). Die sichtbare Personenauswahl, Erkennungsfragen und Film-Eckdaten sind in Chromium und mobilem WebKit geprüft. Offizielle Rekordpools und vollständige Sicherungen enthalten beide Pakete.
+
+## Ursprünglicher Vorbereitungsstand
 
 Stand: 03.10.2026. Paket `SCHAUSPIELER-202610-P02` ergänzt **25 bisher nicht im Personenpaket enthaltene Schauspielerinnen und Schauspieler** mit je acht Fragen. Je Person gibt es zwei Fragen in Leicht, Mittel, Schwer und Außergewöhnlich, insgesamt 50 je Stufe. Außergewöhnlich entspricht Experte in der App. Die Ergänzung ist als fertiges Redaktionspaket vorbereitet, noch nicht in die App integriert oder veröffentlicht. Der veröffentlichte Stand bleibt Version 41 mit 800 Schauspielerfragen.
 

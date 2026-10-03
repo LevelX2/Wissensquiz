@@ -7,12 +7,15 @@
 - [Log](../../03%20Betrieb/Log.md)
 - [Qualitätsprüfung](../../03%20Betrieb/Qualitaetspruefung.md)
 
-## Vorbereitete Fragenpakete
+## Schauspieler-Ergänzungen
 
-- [Schauspieler: 50 weitere Personen mit 400 Fragen vorbereitet, Vertiefungen, Quellen und Filmdaten](../../../docs/Schauspieler-400-Ergaenzung.md)
-- [Schauspieler: weitere 200 Fragen für 25 Personen vorbereitet, mit Vertiefungen, Quellen und Filmdaten](../../../docs/Schauspieler-200-Ergaenzung.md)
+- [Schauspieler: 400 weitere Fragen für 50 Personen](../../../docs/Schauspieler-400-Ergaenzung.md)
+- [Schauspieler: 200 weitere Fragen für 25 Personen](../../../docs/Schauspieler-200-Ergaenzung.md)
 
 ## Spielbare Testversion
+
+- [Finale: Gesamtintegration und Veröffentlichung](../../../docs/Gesamtintegration-2026-10-03.md)
+- [Rekordmodi: Regeln, Einzellauf-Highscores und Kontospeicher](../../../docs/Rekordmodi-und-Zeitranglisten.md)
 
 - [Abnahme der lokalen Speicher-/Sync-Optimierung](../../../docs/Speicher-und-Sync-Abnahme.md)
 - [Produktionsrollout Version 42: Sicherung, Migrationen, Veröffentlichung und erste Kontoübernahme](../../../docs/Speicher-und-Sync-Produktion.md)
@@ -89,3 +92,25 @@
 
 - [Genre- und Spielmodusillustrationen, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
 - [Preisträger- und Schauspielerillustrationen: Originalprompts, Dateien und Prüfung](../../../docs/Kategorie-Illustrationen.json)
+- [Genre- und Spielmodusillustrationen mit Duellmotiv, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
+
+- [Kompakte Startseite mit Auswahlklappen, Navigation, Highscores und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
+
+
+- [Classics-Rohquelle](../../01%20Rohquellen/Classics_Quiz_180_Fragen.csv)
+- [Classics-Bestandszuordnungen](../../01%20Rohquellen/Classics_Zuordnungen_Bestand.json)
+- [Classics-Importbericht](../../../docs/importbericht-classics.json)
+- [Classics-Zuordnungsbericht und fehlende Referenzen](../../../docs/classics-zuordnungsbericht.json)
+
+- [MartialArts-Rohquelle](../../01%20Rohquellen/MartialArts_Quiz_180_Fragen.csv)
+- [MartialArts-Importbericht](../../../docs/importbericht-martialarts.json)
+
+- [RomCom-Rohquelle](../../01%20Rohquellen/RomCom_Quiz_180_Fragen.csv)
+- [RomCom-Importbericht](../../../docs/importbericht-romcom.json)
+
+- [Arthouse-Rohquelle](../../01%20Rohquellen/Arthouse_Quiz_180_Fragen.csv)
+- [Arthouse-Importbericht](../../../docs/importbericht-arthouse.json)
+- [Arthouse-Bestandszuordnungen](../../01%20Rohquellen/Arthouse_Zuordnungen_Bestand.json)
+- [Arthouse-Zuordnungsbericht](../../../docs/arthouse-zuordnungsbericht.json)
+
+- [Jahres- und Regiefragen, bereinigte Vertiefungen, variable Antworten und Filmdaten](../../../docs/Filmwissen-und-Filmdaten.md)

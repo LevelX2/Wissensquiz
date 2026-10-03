@@ -1,5 +1,13 @@
 # Organisation der Fragedaten
 
+## Schauspieler-Ergänzungen und offizieller Rekordpool – 03.10.2026
+
+Der aktuelle Gesamtbestand umfasst **19 Pakete, 6.277 Fragen, 5.734 Wissensziele und 543 Varianten**. Darunter sind **1.400 Schauspielerfragen für 175 Personen** einschließlich P02/P03. Die ursprünglichen 17 Paket-CSV bleiben bytegleich mit ihren Rohquellen. Die beiden neuen App-CSV werden reproduzierbar aus den erhaltenen Redaktions-JSONs abgeleitet; Original- und Ableitungsprüfsummen stehen im [Integrationsbericht](Schauspieler-Ergaenzungen-Integration.json). Sie werden ausdrücklich als Ableitungen geprüft, ohne sie als gelieferte Roh-CSV auszugeben.
+
+`npm run check:questions` prüft beide Quellentypen, eindeutige IDs, fehlerfreie Importe und den exakten Sicherungs-/Katalogrücklauf. Der aktuelle [Prüfbericht](Fragedaten-Pruefung.json) verwendet dafür `question-organization-audit-v2`. Offizielle Rekordpools enthalten auch Varianten mit Bezug auf Fragen aus anderen Paketen. Beim Upgrade werden die Paketquellen einmal vollständig zur Zuordnung geprüft; abweichende eigene Fragen mit gleichen IDs bleiben erhalten.
+
+Der Serverkatalog `c976df8caf9146bb7bc6903ff94ce07382ea15596785b65116e3c57d13cc9fa2` umfasst den vollständigen neuen Bestand. Frühere Releases bleiben für die Inhaltsreferenzen bereits gespeicherter Runden verfügbar. [Gesamtintegration](Gesamtintegration-2026-10-03.md).
+
 ## Kontokatalog und Eintragsspeicherung – Rollout am 03.10.2026
 
 Die aktuelle lokale Datenbankversion ist **3**. Gaststände behalten das getrennte v2-Kataloglayout im Store `state`; migrierte Konten erhalten `entryHeads`, `entryRows`, `entryObjects`, `syncOutbox`, `syncReleases` und `entryMigrations`. Speicherlayout und Protokoll haben eigene Versionen; vollständige JSON-Sicherung bleibt Schema 1.
@@ -8,7 +16,7 @@ Offizielle Kataloge entstehen durch den vollständigen tatsächlichen App-Import
 
 Rundensnapshots und tatsächliche Jahresalternativen bleiben eigenständige ursprüngliche Inhalte. Große alte `round.before`-Maps werden vollständig erhalten und immutable referenziert. Normale Antworten hashen/komprimieren nicht den ganzen Katalog oder Gesamtstand erneut. Die Schema-Normalisierung vor Inhaltsnachweisen verhindert künstliche Änderungen durch unterschiedliche JSON-Feldreihenfolge; Metadatenwerte und Antwortreihenfolge bleiben erhalten.
 
-`scripts/prepare-sync-catalog.mjs` erzeugt lokal geprüfte Operatorartefakte aus öffentlichen Quellen; keine Produktionsverbindung. Der vorhandene kleinere Duellkatalog ist kein Ersatz für diese 5.677 App-Fragen. Eigene Importe dürfen nicht in öffentliche Releases gelangen.
+`scripts/prepare-sync-catalog.mjs` erzeugt lokal geprüfte Operatorartefakte aus öffentlichen Quellen; keine Produktionsverbindung. Der vorhandene kleinere Duellkatalog ist kein Ersatz für den vollständigen App-Katalog. Eigene Importe dürfen nicht in öffentliche Releases gelangen.
 
 [Implementierung und Messung](Speicher-und-Sync-Abnahme.md), [Migrationsvertrag](Speicher-und-Sync-Migration.md), [Produktionsnachweis](Speicher-und-Sync-Produktion.md). Die nachfolgende Beschreibung und Größenmessung dokumentieren die bisherige v2-Organisation und bleiben als Ausgangsnachweis erhalten.
 
