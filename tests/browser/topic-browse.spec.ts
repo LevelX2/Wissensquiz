@@ -3,7 +3,7 @@ import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { addPackages, packages } from "../../src/packages";
 import { emptyState, type State } from "../../src/model";
-import { genreOf } from "../../src/filters";
+import { genreOf, questionSourceOf } from "../../src/filters";
 import { isCategory, type Category } from "../../src/categories";
 
 test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzelne Filmauswahl", async ({
@@ -42,7 +42,9 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
       `${name}: Filme & Reihen`,
     );
     const qs = state.questions.filter((q) =>
-      name === "Horror" ? genreOf(q) === name : isCategory(q, name as Category),
+      name === "Horror"
+        ? questionSourceOf(q) === "film" && genreOf(q) === name
+        : isCategory(q, name as Category),
     );
     const expectedTopics = [...new Set(qs.map((q) => q.topic))].sort();
     expect(await page.locator(".topic-card h3").allTextContents()).toEqual(

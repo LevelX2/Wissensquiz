@@ -13,8 +13,8 @@ Worktree: `wissensquiz-strukturverbesserungen/Wissensquiz`, Branch `codex/strukt
 | Paket | Ziel | Prüfung und Abschlusskriterium | Status |
 | --- | --- | --- | --- |
 | P1 | Begrenzte Kontoanfragen und sichere Nachsicherung bei unklarem Ausgang | Konto-/Sync-Tests, hängende Anfrage und verlorene Antwort; bestehende Revisionen erhalten | Erledigt |
-| P2 | Gemeinsame Spielansichten und große Seiten aus der App lösen | Build, kein App-/Duell-Importkreis, betroffene Spiel-/Navigationstests | Aktiv |
-| P3 | Auswertungen nach sichtbarer Seite und Katalogstand berechnen | Auswahl-/Lernpfadtests, relevante Themen-/Auswahlbrowserfälle, Fälligkeit bei Rückkehr | Offen |
+| P2 | Gemeinsame Spielansichten und große Seiten aus der App lösen | Build, kein App-/Duell-Importkreis, betroffene Spiel-/Navigationstests | Erledigt |
+| P3 | Auswertungen nach sichtbarer Seite und Katalogstand berechnen | Auswahl-/Lernpfadtests, relevante Themen-/Auswahlbrowserfälle, Fälligkeit bei Rückkehr | Aktiv |
 | P4 | Styles in geordnete Zuständigkeitsbereiche aufteilen | Gleichbleibende CSS-Reihenfolge, Build, mobile Ansichten und Barrierearmut | Offen |
 | P5 | Selten benötigte Ansichten getrennt laden | Buildgrößen, Ladefehlerbehandlung, vorbereiteter Offlinezugriff auf die Ansichten | Offen |
 | P6 | Gemeinsame Sicherungsschemas und getrennte Validierung | Typprüfung, Sicherungs-/Katalog-/Cloudtests, Altstände und SQL-Projektionen erhalten | Offen |
@@ -30,3 +30,5 @@ Pro Paket nur direkt betroffene Tests und Checks. Für Änderungen an Oberfläch
 Die Ausgangsbasis wurde isoliert übernommen; Abhängigkeiten aus dem vorhandenen Lockfile installiert. Der bisherige Nachweis umfasst 214 Tests, Build und 30 gezielte Browserfälle. Die neuen Paketänderungen werden jeweils gesondert geprüft.
 
 P1: Allgemeine Anfragehilfe mit Abbruch und Wartegrenze, zehn Sekunden für Kontoabrufe und 30 Sekunden für Uploads. Unbestätigte Uploads werden vor neuen Änderungen abgeglichen. 26 direkte Konto-/Sync-/Duell-/Gastaktivitätstests, Produktions-Build und vier gezielte Kontobrowserfälle erfolgreich. Neue Fehlerfälle prüfen hängenden Erstabruf, Upload mit und ohne Servercommit, verlorene Antwort mit neueren lokalen Änderungen und zusätzliche fremde Revision. Keine Migration oder Änderung am Sicherungsschema. Der bekannte Hinweis zur großen JavaScript-Datei bleibt für P5 offen.
+
+P2: Spiel-, Ergebnis-, Erklärungs-, Optionen-, Start-, Themen- und Sammlungsansichten liegen in eigenen Modulen. `App.tsx` sinkt von 2.806 auf 674 Zeilen; der Laufzeit-Importkreis mit der Duellansicht ist aufgelöst. Die ausgelagerten gemeinsamen Funktionskörper wurden gegen den vorherigen Commit verglichen und sind unverändert. Build und elf Browserfälle einschließlich Chromium-/WebKit-Duellen, Sammlung, Navigation und Themen erfolgreich. Eine bereits im Ausgangsstand unpassende Themen-Testannahme wurde korrigiert: Horror umfasst dort Filmfragen, nicht zusätzliche Preisträgerfragen. Keine Änderung dieser Auswahlregel.

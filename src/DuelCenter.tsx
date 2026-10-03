@@ -1,7 +1,9 @@
 import { useContext, useEffect, useRef, useState } from "react";
 import { z } from "zod";
 import { RankingContext } from "./SharedLeaderboard";
-import { QuestionScreen, Result, Explanation } from "./App";
+import { QuestionScreen } from "./QuestionScreen";
+import { Result } from "./RoundResult";
+import { Explanation } from "./Explanation";
 import { SolutionChoice } from "./SolutionChoice";
 import type { AnswerChoice, Round, State, SolutionDisplay } from "./model";
 import { uid } from "./model";
