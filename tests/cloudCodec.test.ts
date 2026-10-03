@@ -59,7 +59,7 @@ it("komprimiert den vollständigen Katalog und Rundensnapshots verlustfrei, inkl
   console.info(
     `Cloud-Größe: ${originalBytes} -> ${compactBytes} Bytes (${((100 * compactBytes) / originalBytes).toFixed(1)} %)`,
   );
-});
+}, 15000);
 
 it("liest alte Vollsicherungen unverändert und verwirft kaputte Kompression oder widersprüchliche Ergebnisverweise", async () => {
   expect(await decodeCloudState(state)).toBe(state);

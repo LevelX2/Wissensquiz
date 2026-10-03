@@ -113,6 +113,7 @@ test.describe("Duellreaktion", () => {
       await expect(
         page.getByRole("button", { name: "Duell", exact: true }),
       ).toBeEnabled();
+      await openRoundSetup(page);
       await page.getByRole("button", { name: "Duell", exact: true }).click();
       await page
         .getByRole("button", { name: "Weiterspielen", exact: false })

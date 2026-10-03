@@ -171,7 +171,7 @@ it("prüft Erreichbarkeit aller festen Ziele im vollständigen Katalog und leere
     })),
   );
   const progress = learningPathProgress(s);
-  expect(s.questions).toHaveLength(5677);
+  expect(s.questions).toHaveLength(6277);
   expect(
     s.questions
       .filter((q) => !q.metadata.person_id)

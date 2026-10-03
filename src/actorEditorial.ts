@@ -1,5 +1,6 @@
 import type { Question } from "./model";
 import editorial from "./actorEditorial.json" with { type: "json" };
+import supplements from "./actorSupplementEditorial.json" with { type: "json" };
 
 type Entry = {
   personId: string;
@@ -10,10 +11,14 @@ type Entry = {
   films: string[];
   sources: string[];
 };
+const entries: Record<string, Entry> = {
+  ...editorial.questions,
+  ...supplements.questions,
+};
 // Presentation only: imported content, question versions, scoring and historical
 // snapshots remain unchanged. Custom questions with reused IDs are not rewritten.
 export function actorPresentation(q: Question) {
-  const entry = (editorial.questions as Record<string, Entry>)[q.id];
+  const entry = entries[q.id];
   if (
     !entry ||
     q.metadata.person_id !== entry.personId ||

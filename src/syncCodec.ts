@@ -192,6 +192,7 @@ export async function compileState(
   releases: PreparedRelease[] = [],
   previous?: SyncDocument,
   catalogUnchanged = false,
+  roundSnapshotsUnchanged = catalogUnchanged,
 ): Promise<SyncDocument> {
   const rows = new Map<string, SyncRow>(),
     objects = new Map(previous?.objects);
@@ -269,8 +270,12 @@ export async function compileState(
   for (let position = 0; position < state.rounds.length; position++) {
     const { questions, before, ...header } = state.rounds[position];
     const old = previous?.rows.get(rowKey("round", header.id))?.value as
-      { questions: unknown; beforeObject: string } | undefined;
-    if (old && catalogUnchanged) {
+      { questions: unknown[]; beforeObject: string } | undefined;
+    if (
+      old &&
+      roundSnapshotsUnchanged &&
+      old.questions.length === questions.length
+    ) {
       row("round", header.id, position, {
         ...header,
         questions: old.questions,

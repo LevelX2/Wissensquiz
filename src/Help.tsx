@@ -64,8 +64,8 @@ export function Help() {
           Filmfragen, Preisträger und Schauspieler sind unabhängig wählbare
           Fragenbereiche. Alle gewählten Bereiche bilden einen gemeinsamen
           Zufallspool. Preisträger widmet sich Oscars, der Goldenen Palme und
-          den Preisen des Filmfestivals von Venedig. Schauspieler enthält 800
-          Fragen zu 100 Schauspielerinnen und Schauspielern: Rollen, Karriere,
+          den Preisen des Filmfestivals von Venedig. Schauspieler enthält 1.400
+          Fragen zu 175 Schauspielerinnen und Schauspielern: Rollen, Karriere,
           Bühne, Musik, Ausbildung und besondere Lebenswege.
         </p>
         <p>

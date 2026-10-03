@@ -3,6 +3,7 @@ import type { State } from "./model";
 import { applyCategoryTags } from "./categories";
 import { addFilmFacts } from "./filmFacts";
 import { retainJourneyUnlocks } from "./learningPath";
+import Papa from "papaparse";
 
 export const packages = [
   { path: "/fragen.csv", filename: "SciFi_Quiz_180_Fragen.csv" },
@@ -40,6 +41,14 @@ export const packages = [
     path: "/schauspieler-fragen.csv",
     filename: "Schauspieler_800_Fragen_App.csv",
   },
+  {
+    path: "/schauspieler-p02-fragen.csv",
+    filename: "Schauspieler_Ergaenzung_P02_200_Fragen_App.csv",
+  },
+  {
+    path: "/schauspieler-p03-fragen.csv",
+    filename: "Schauspieler_Ergaenzung_P03_400_Fragen_App.csv",
+  },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {
@@ -68,13 +77,36 @@ export function addPackages(state: State, incoming: PackageContent[]) {
   if (incoming.length) {
     const official = incoming
       .filter((pkg) => packages.some((p) => p.filename === pkg.filename))
-      .flatMap((pkg) => importCsv(pkg.text, [], pkg.filename).questions);
+      .flatMap((pkg) => {
+        // Validate every bundled row again, including variants whose target is
+        // in another package. Existing user questions with the same ID are
+        // retained and only recognized as bundled if their version matches.
+        const rows = Papa.parse<Record<string, string>>(pkg.text, {
+          header: true,
+          skipEmptyLines: "greedy",
+          transformHeader: (h) => h.trim().toLowerCase(),
+        }).data;
+        const ids = new Set(rows.map((row) => row.question_id?.trim()));
+        return importCsv(
+          pkg.text,
+          state.questions.filter((q) => !ids.has(q.id)),
+          pkg.filename,
+        ).questions;
+      });
     addFilmFacts(official);
-    const existing = new Set(state.questions.map((q) => q.id));
+    const existing = new Map(state.questions.map((q) => [q.id, q]));
     state.bundledQuestionIds = [
       ...new Set([
         ...(state.bundledQuestionIds ?? []),
-        ...official.map((q) => q.id),
+        ...official
+          .filter((q) => {
+            const actual = existing.get(q.id);
+            return (
+              actual?.version === q.version &&
+              actual.knowledgeId === q.knowledgeId
+            );
+          })
+          .map((q) => q.id),
       ]),
     ].filter((id) => existing.has(id));
   }

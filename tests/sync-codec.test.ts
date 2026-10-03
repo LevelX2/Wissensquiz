@@ -32,11 +32,11 @@ beforeAll(async () => {
   release = await prepareRelease(base.questions);
 }, 30000);
 it("bildet den vollständigen App-Katalog einschließlich generierter Fragen und Kategorien unveränderlich ab", async () => {
-  expect(release.questions).toHaveLength(5677);
+  expect(release.questions).toHaveLength(6277);
   expect((await verifyRelease(release)).questions).toEqual(base.questions);
   const doc = await compileState(validateBackup(base), [release]);
   expect(doc.rows.get(rowKey("field", "catalog"))!.value).toEqual({
-    parts: [{ release: release.hash, start: 0, count: 5677 }],
+    parts: [{ release: release.hash, start: 0, count: 6277 }],
   });
   expect(doc.objects.size).toBe(0);
   expect(reconstructState(doc, [release])).toEqual(validateBackup(base));

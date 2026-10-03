@@ -128,6 +128,7 @@ test("gesammelte Sololösungen bleiben neutral, lassen Pausen zu und erscheinen 
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
     page.getByRole("radio", { name: "Nach der Runde", exact: true }),
@@ -206,7 +207,6 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
   const page = await context.newPage();
   try {
     await service.setup(page, alice);
-    await openRoundSetup(page);
     await page
       .getByRole("radio", { name: "Nach der Runde", exact: true })
       .check();
@@ -229,9 +229,11 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
       [duel],
     );
     await page.reload();
+    await openRoundSetup(page);
     await expect(
       page.getByRole("button", { name: "Duell", exact: true }),
     ).toBeEnabled();
+    await openRoundSetup(page);
     await page.getByRole("button", { name: "Duell", exact: true }).click();
     await page
       .getByRole("button", { name: "Weiterspielen", exact: false })

@@ -15,6 +15,7 @@ export const testBaseUrl = `http://localhost:${process.env.WISSENSQUIZ_BROWSER_P
 // Compact-home checks deliberately leave the default collapsed state intact.
 export async function openRoundSetup(page: Page) {
   await base.expect(page.locator(".loading")).toHaveCount(0);
+  await base.expect(page.locator(".round-setup")).toBeVisible();
   for (const summary of await page
     .locator(".round-setup .setup-section > summary")
     .all()) {

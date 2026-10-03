@@ -54,7 +54,10 @@ test("alle Nebenansichten öffnen nach Offlinevorbereitung auch ohne vorherigen 
   await expect(
     page.getByRole("heading", { name: /Duell/, level: 1 }),
   ).toBeVisible();
-  expect(await readStoredState(page)).toEqual(before);
+  expect(await readStoredState(page)).toEqual({
+    ...before,
+    settings: { ...before.settings, playGroup: "duel" },
+  });
 });
 
 test("fehlgeschlagene Nebenansicht zeigt eine Wiederherstellung und lässt Navigation zu", async ({

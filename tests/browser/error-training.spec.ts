@@ -208,6 +208,7 @@ for (const width of [320, 1280]) {
     ).toHaveCount(0);
     await page.getByRole("button", { name: "Neue Runde wählen" }).click();
     await openRoundSetup(page);
+    await openRoundSetup(page);
     await page
       .getByRole("button", { name: /Fehlertraining Offene Fehler/ })
       .click();

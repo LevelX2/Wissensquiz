@@ -5,6 +5,8 @@ import { emptyState, type State, type Question } from "./model";
 import { catalogKey, decodeLocalState, encodeLocalState } from "./localCatalog";
 import { encodeQuestionCatalog } from "./catalogCodec";
 import { openDatabase } from "./database";
+import { freezeCatalog } from "./immutableCatalog";
+export { isImmutableCatalog } from "./immutableCatalog";
 export { openDatabase } from "./database";
 import {
   readEntryHead,
@@ -17,23 +19,6 @@ const catalogs = new Map<
   string,
   { serialized: string; questions: Question[]; revision?: string }
 >();
-const immutableCatalogs = new WeakSet<Question[]>();
-export const isImmutableCatalog = (questions: Question[]) =>
-  immutableCatalogs.has(questions);
-
-function freezeCatalog(questions: Question[]) {
-  if (immutableCatalogs.has(questions)) return questions;
-  function freeze(value: object) {
-    for (const child of Object.values(value))
-      if (child && typeof child === "object" && !Object.isFrozen(child))
-        freeze(child);
-    Object.freeze(value);
-  }
-  freeze(questions);
-  immutableCatalogs.add(questions);
-  return questions;
-}
-
 // Historical snapshots stay complete. Intern equal snapshots so IndexedDB's
 // structured clone stores shared objects once, even after hundreds of rounds.
 function compactRounds(state: State) {

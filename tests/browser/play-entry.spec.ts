@@ -66,7 +66,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.setViewportSize({ width: 320, height: 740 });
   await page.evaluate(() => scrollTo(0, 0));
   const startBox = (await start.boundingBox())!;
-  const gridBox = (await page.locator(".mode-grid").boundingBox())!;
+  const gridBox = (await page.locator(".setup-section").first().boundingBox())!;
   expect(startBox.y - gridBox.y - gridBox.height).toBeLessThan(32);
   const guide = page.locator(".round-guide");
   const more = guide.locator("summary");
@@ -105,14 +105,18 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
   await expect(page.locator(".path-progress .genre-thumbnail")).toHaveCount(12);
   await expect(page.locator(".path-progress .genre-icon")).toHaveCount(0);
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(guide).toContainText("zufällige Fragen ohne Zeitdruck");
   await more.click();
   await expect(
     guide.getByText("Zufällige Fragen:", { exact: true }),
   ).toBeVisible();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
   await page.getByLabel(/Eigene Auswahl ·/).check();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
@@ -122,7 +126,9 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     guide.getByText("Die Uhr läuft beim Tabwechsel weiter.", { exact: true }),
   ).toBeVisible();
   await expect(guide).toContainText("Neuladen beendet die Rekordrunde");
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await expect(
@@ -139,7 +145,9 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await expect(page.locator("#round-summary")).toContainText(
     "Freie Auswahl: Schwer",
   );
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Filmreise Filmwelten/ }).click();
   await expect(
     page.getByRole("button", { name: /Filmreise Filmwelten/ }),
@@ -186,11 +194,11 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     }),
   ).toBeVisible();
   // Windows WebKit cannot navigate offline; it checks the setup online.
-  // Chromium verifies the full offline reload and all five cached motifs.
+  // Chromium verifies the full offline reload and the cached group artwork.
   if (browserName === "chromium") await context.setOffline(true);
   await page.reload();
   await openRoundSetup(page);
-  await expect(page.locator(".mode-artwork")).toHaveCount(5);
+  await expect(page.locator(".mode-artwork")).toHaveCount(2);
   for (const img of await page.locator(".mode-artwork").all())
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))

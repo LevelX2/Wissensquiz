@@ -26,7 +26,7 @@ const contents = packages.map((pkg) => ({
 const actorPackage = contents.find(
   (pkg) => pkg.filename === "Schauspieler_800_Fragen_App.csv",
 )!;
-const baseContents = contents.filter((pkg) => pkg !== actorPackage);
+const baseContents = contents.filter((pkg) => !pkg.filename.startsWith("Schauspieler_"));
 const base = emptyState();
 addPackages(base, baseContents);
 const imported = importCsv(

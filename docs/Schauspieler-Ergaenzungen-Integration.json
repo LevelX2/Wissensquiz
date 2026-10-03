@@ -1,0 +1,26 @@
+{
+  "packages": [
+    {
+      "package": "P02",
+      "source_sha256": "95a120826a38310b61913ce5a707891961d6813b9c7ccd4156907493ce71347b",
+      "csv_sha256": "adb92b7bda7e1094d10ceaaec80cc065c0fab03d74633a23c8a55c3615792a97",
+      "people": 25,
+      "accepted": 200,
+      "linked_goals": 4,
+      "new_goals": 196
+    },
+    {
+      "package": "P03",
+      "source_sha256": "fa193f232083b28a682bece30300286b32808ac20fa46043763775d8b3bff478",
+      "csv_sha256": "bff7323e56d049b14b84373b6028b6a30b4a914d5b54be713cd4db57b39f6656",
+      "people": 50,
+      "accepted": 400,
+      "linked_goals": 9,
+      "new_goals": 391
+    }
+  ],
+  "total_questions": 6277,
+  "total_knowledge_ids": 5734,
+  "total_people": 175,
+  "original_questions_unchanged": true
+}

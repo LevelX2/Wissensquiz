@@ -1,5 +1,6 @@
 import { openDatabase, ENTRY_STORES } from "./database";
 import type { State } from "./model";
+import { freezeCatalog, isImmutableCatalog } from "./immutableCatalog";
 import {
   compileState,
   reconstructState,
@@ -50,6 +51,15 @@ const cache = new Map<
   { version: number; document: SyncDocument; state: State }
 >();
 const writers = new Map<string, Promise<unknown>>();
+function copyForCache(state: State): State {
+  const { questions, ...game } = state;
+  return {
+    ...structuredClone(game),
+    questions: isImmutableCatalog(questions)
+      ? questions
+      : freezeCatalog(structuredClone(questions)),
+  };
+}
 const range = (key: string) => IDBKeyRange.bound([key], [key, []]);
 const validKey = (key: string) => {
   if (!key.startsWith("account:"))
@@ -167,7 +177,11 @@ export async function readEntryDocument(
     }),
   );
   const state = reconstructState(document, prepared);
-  cache.set(key, { version: head.result.localVersion, document, state });
+  cache.set(key, {
+    version: head.result.localVersion,
+    document,
+    state: copyForCache(state),
+  });
   return { head: head.result, document };
 }
 export async function readEntryState(key: string) {
@@ -222,7 +236,7 @@ export async function initializeEntries(
     tx.objectStore("syncOutbox").put(item, [key, item.sequence, item.id]);
   };
   await done(tx, () => failure);
-  cache.set(key, { version: 0, document, state: structuredClone(state) });
+  cache.set(key, { version: 0, document, state: copyForCache(state) });
   return state;
 }
 async function writeEntryMutation(
@@ -233,13 +247,20 @@ async function writeEntryMutation(
   for (let retry = 0; retry < 5; retry++) {
     const current = await readEntryDocument(key);
     if (!current) throw new Error("Kontospeicher fehlt.");
-    const result = structuredClone(cache.get(key)!.state);
+    const prior = cache.get(key)!.state;
+    const { questions, ...game } = prior;
+    const result = options.reuseCatalog
+      ? { ...structuredClone(game), questions }
+      : structuredClone(prior);
     mutator(result);
     const document = await compileState(
       result,
       contexts.get(key),
       current.document,
-      options.progressOnly && !options.replace,
+      !options.replace &&
+        (options.progressOnly ||
+          (options.reuseCatalog && result.questions === questions)),
+      options.progressOnly === true && !options.replace,
     );
     const delta = difference(current.document, document);
     if (!delta.changes.length && !options.replace) return result;
@@ -325,7 +346,7 @@ async function writeEntryMutation(
     cache.set(key, {
       version: next.localVersion,
       document,
-      state: structuredClone(result),
+      state: copyForCache(result),
     });
     return result;
   }
@@ -617,6 +638,6 @@ export async function acceptRemoteDocument(
     }
   };
   await done(tx, () => failure);
-  cache.set(key, { version, document, state });
+  cache.set(key, { version, document, state: copyForCache(state) });
   return state;
 }

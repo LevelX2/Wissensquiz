@@ -67,6 +67,92 @@ async function setup(active = false) {
     );
   return { owner, api, key, engine, legacy };
 }
+it("verwendet den unveränderlichen Kontokatalog wieder und speichert neue Endlospositionen nach jeder Antwort", async () => {
+  const { key, engine } = await setup();
+  await update(
+    (s) => {
+      s.questions = s.questions.slice(0, 1);
+    },
+    undefined,
+    key,
+  );
+  const sync = engine();
+  await sync.prepare();
+  const initial = await update(
+    (s) => {
+      startRound(
+        s,
+        {
+          mode: "fehlerfrei",
+          topic: "Alle Themen",
+          difficulty: "Alle Stufen",
+          recordPreset: "custom",
+        },
+        now,
+      );
+    },
+    undefined,
+    key,
+    { progressOnly: true, reuseCatalog: true },
+  );
+  const correct = await update(
+    (s) => {
+      const r = s.rounds.at(-1)!;
+      answer(
+        s,
+        r.id,
+        r.questions[0].id,
+        r.questions[0].correctId,
+        1000,
+        now + 1000,
+        0,
+      );
+    },
+    undefined,
+    key,
+    { progressOnly: true, reuseCatalog: true },
+  );
+  expect(correct.questions).toBe(initial.questions);
+  expect((await read(key))!.rounds.at(-1)!.questions).toHaveLength(2);
+  await expect(
+    update(
+      (s) => {
+        s.questions[0].question = "Darf den Katalog nicht ändern";
+      },
+      undefined,
+      key,
+      { reuseCatalog: true },
+    ),
+  ).rejects.toThrow();
+  expect((await read(key))!.questions[0].question).toBe(
+    initial.questions[0].question,
+  );
+  await update(
+    (s) => {
+      const r = s.rounds.at(-1)!,
+        q = r.questions[1];
+      answer(
+        s,
+        r.id,
+        q.id,
+        q.answers.find((a) => a.id !== q.correctId)!.id,
+        1000,
+        now + 3000,
+        1,
+      );
+    },
+    undefined,
+    key,
+    { progressOnly: true, reuseCatalog: true },
+  );
+  await sync.flush();
+  expect(sync.status).toBe("saved");
+  expect((await read(key))!.rounds.at(-1)!).toMatchObject({
+    status: "completed",
+    events: expect.arrayContaining([expect.any(String), expect.any(String)]),
+  });
+  sync.stop();
+});
 it("übernimmt den lokalen Stand nach geprüftem Rücklesen und öffnet unveränderte Konten nur über Metadaten", async () => {
   const { api, key, engine } = await setup(true),
     sync = engine();
@@ -716,7 +802,21 @@ it("synchronisiert lange Rekordläufe und zählt wiederholte Wissensziele pro An
     { mode: "fehlerfrei", points: 1896 },
     { mode: "zeitkonto", points: 0 },
   ]);
-  expect((await read(key))!.bundledQuestionIds).toHaveLength(1);
+  const saved = (await read(key))!;
+  expect(saved.bundledQuestionIds).toHaveLength(1);
+  const category = (
+    await fixture.db.query<{ category: string }>(
+      "select category from public.quiz_shared_scores where owner_id=$1 and mode='fehlerfrei'",
+      [owner],
+    )
+  ).rows[0].category;
+  const publicRun = (
+    await fixture.db.query<{ points: number; experience: number }>(
+      "select points,experience::int from public.quiz_record_runs($1,'all',0) where points=1896",
+      [category],
+    )
+  ).rows;
+  expect(publicRun).toEqual([{ points: 1896, experience: saved.experience }]);
   sync.stop();
   const reopened = engine();
   await reopened.prepare();

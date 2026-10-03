@@ -17,9 +17,10 @@ addPackages(
 );
 const actors = state.questions.filter((q) => q.metadata.person_id);
 it("nennt bei allen vorgegebenen Personen den vollen Namen und schützt die Erkennungsfragen", () => {
-  expect(actors).toHaveLength(800);
+  const originalActors = actors.filter(q => q.id.startsWith("SCHAUSPIELER-202610-P01-"));
+  expect(originalActors).toHaveLength(800);
   expect(Object.keys(editorial.questions)).toHaveLength(800);
-  for (const q of actors) {
+  for (const q of originalActors) {
     const source = original.questions.find(
       (source) => source.question_id === q.id,
     )!;

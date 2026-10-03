@@ -65,6 +65,7 @@ test("Fehlerfrei sichert den ersten Fehler sofort, bleibt nach Neuladen und steh
     .poll(() => reports.filter((r) => r.event_kind === "completed"))
     .toEqual([expect.objectContaining({ answers: 1, hits: 0 })]);
   await page.reload();
+  await page.clock.resume();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await expect(
     page.getByRole("button", { name: "Fehlerfrei", exact: true }),
@@ -121,7 +122,14 @@ test("Zeitkonto verbraucht Antwortzeit, pausiert Erklärungen und beendet den La
   await page.getByRole("button", { name: /^Nächste Frage/ }).click();
   await readyQuestion(page);
   await expect(page.locator(".timer")).toContainText(/2[34] s/);
+  await page.clock.runFor(100);
   await page.clock.fastForward(30000);
+  // A suspended WebKit clock dispatches the next interval after the jump.
+  await page.clock.runFor(200);
+  await expect(page.locator(".feedback")).toBeVisible();
+  await expect
+    .poll(async () => (await readStoredState(page)).rounds.at(-1)!.status)
+    .toBe("completed");
   const last = (await readStoredState(page)).rounds.at(-1)!;
   expect(last.run!.bankMs).toBe(0);
   expect(last.status).toBe("completed");
@@ -145,7 +153,9 @@ test("Gruppen merken Varianten, Standardmix ist fest und laufende Endlosspiele w
     page.getByRole("group", { name: "Schwierigkeitsstufen", exact: true }),
   ).toHaveCount(0);
   await page.getByRole("button", { name: /^Zeitkonto / }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
@@ -164,6 +174,7 @@ test("Gruppen merken Varianten, Standardmix ist fest und laufende Endlosspiele w
   await expect
     .poll(async () => (await readStoredState(page)).rounds.at(-1)!.status)
     .toBe("aborted");
+  await page.clock.resume();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await page.getByRole("button", { name: "Zeitkonto", exact: true }).click();
   await expect(page.locator(".leaderboard-entry")).toHaveCount(0);

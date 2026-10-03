@@ -143,8 +143,11 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
     page.getByText("Etwas tiefer eintauchen", { exact: true }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await page.locator(".round-guide summary").click();
   await expect(
     page.getByText(
       "Du kombinierst Filmfragen, Schauspieler und Preisträger zu einem gemeinsamen Pool. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
@@ -161,7 +164,9 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
   await page.setViewportSize({ width: 320, height: 740 });
   await launch(page);
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await openRoundSetup(page);
   await expect(
@@ -374,7 +379,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
-      page.getByText("5677 Fragen · 5147 Wissensziele · 0 Demo-Fragen"),
+      page.getByText("6277 Fragen · 5734 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
   });
 }
@@ -517,7 +522,9 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
   await genres.getByLabel("Sci-Fi", { exact: true }).check();
   await genres.getByLabel("Horror", { exact: true }).check();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await openRoundSetup(page);
   await expect(
@@ -531,7 +538,9 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
     .getByRole("group", { name: "Schwierigkeitsstufen", exact: true })
     .getByLabel("Experte", { exact: true })
     .uncheck();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
   await page.getByLabel(/Eigene Auswahl ·/).check();
   await page.getByRole("button", { name: "Losspielen" }).click();
@@ -713,7 +722,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByText("5677 Fragen · 5147 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("6277 Fragen · 5734 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
@@ -785,7 +794,9 @@ test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
 }) => {
   await page.clock.install();
   await launch(page);
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
   await page.getByLabel(/Eigene Auswahl ·/).check();
   await page.getByRole("button", { name: "Losspielen" }).click();

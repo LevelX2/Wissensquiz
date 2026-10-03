@@ -21,7 +21,7 @@ import films from "../KI-Wissen-Wissensquiz/01 Rohquellen/Preistraeger_Filmdaten
 
 // Keep this regression at the award package's original catalog stage.
 const contents = packages
-  .filter((p) => p.filename !== "Schauspieler_800_Fragen_App.csv")
+  .filter((p) => !p.filename.startsWith("Schauspieler_"))
   .map((p) => ({
     filename: p.filename,
     text: readFileSync(`public${p.path}`, "utf8"),

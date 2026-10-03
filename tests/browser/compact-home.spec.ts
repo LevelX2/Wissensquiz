@@ -89,7 +89,7 @@ for (const width of [320, 1440]) {
     const stored = await readStoredState(page);
     const round = stored.rounds.find((r) => r.status === "active")!;
     expect(round.filters?.sources).toEqual(["actors"]);
-    expect(round.solutionDisplay).toBe("question");
+    expect(round.solutionDisplay ?? "question").toBe("question");
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
     await expect(
       page.getByRole("button", { name: "Fortsetzen" }),

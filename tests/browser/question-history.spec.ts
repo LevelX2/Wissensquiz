@@ -142,7 +142,9 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     await expect(stats.locator("summary")).toContainText("4× beantwortet");
     await page.getByRole("button", { name: "Runde abschließen" }).click();
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
+    await openRoundSetup(page);
     await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+    await openRoundSetup(page);
     await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
     await page.getByRole("button", { name: "Losspielen" }).click();
     await expect(stats).toHaveCount(0);

@@ -104,7 +104,9 @@ test("Hintergrundzeit und doppelte Klicks vergeben keine zweite Antwort", async 
 }) => {
   await page.clock.install();
   await page.goto("/");
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
   await page.getByLabel(/Eigene Auswahl ·/).check();
   await page.getByRole("button", { name: "Losspielen" }).click();

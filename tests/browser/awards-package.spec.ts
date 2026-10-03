@@ -21,7 +21,9 @@ test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und ble
   await expect(
     page.getByRole("checkbox", { name: "Preisträger", exact: true }),
   ).toBeChecked();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await openRoundSetup(page);
   const levels = page.getByRole("group", {

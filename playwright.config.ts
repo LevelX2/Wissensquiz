@@ -36,6 +36,7 @@ export default defineConfig({
 
         "compact-home.spec.ts",
         "record-modes.spec.ts",
+        "release-info.spec.ts",
       ],
       use: { ...devices["iPhone 13"] },
     },

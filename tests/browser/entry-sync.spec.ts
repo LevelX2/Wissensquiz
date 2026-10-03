@@ -156,7 +156,7 @@ test("Eintragskonto wiederholt verlorene Bestätigungen nach Neuladen, exportier
     await expect(page.locator(".sync-symbol.saved").first()).toBeVisible();
     expect(await queued(page)).toHaveLength(0);
     const state = await readStoredState(page, key);
-    expect(state.questions).toHaveLength(5677);
+    expect(state.questions).toHaveLength(6277);
     expect(state.events).toHaveLength(1);
     expect(
       backend.api.calls.filter(
@@ -186,7 +186,7 @@ test("Eintragskonto wiederholt verlorene Bestätigungen nach Neuladen, exportier
     const file = await (await downloaded).path();
     const exported = JSON.parse(readFileSync(file!, "utf8"));
     expect(exported.events).toHaveLength(1);
-    expect(exported.questions).toHaveLength(5677);
+    expect(exported.questions).toHaveLength(6277);
     expect(exported).not.toHaveProperty("storageFormat");
   } finally {
     await backend.db.close();

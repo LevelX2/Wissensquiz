@@ -218,7 +218,7 @@ export function Result({
           </div>
         ))}
       </section>
-      {round.mode === "rekord" && (
+      {isRecordMode(round.mode) && (
         <button className="secondary" onClick={onLeaderboard}>
           Bestenliste ansehen →
         </button>

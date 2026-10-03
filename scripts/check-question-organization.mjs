@@ -14,8 +14,35 @@ try {
     await server.ssrLoadModule("/src/catalogCodec.ts");
   const { validateBackup } = await server.ssrLoadModule("/src/storage.ts");
   const state = emptyState();
+  const supplements = JSON.parse(
+    await readFile("docs/Schauspieler-Ergaenzungen-Integration.json", "utf8"),
+  );
+  const sha256 = (value) => createHash("sha256").update(value).digest("hex");
   const sources = await Promise.all(
     packages.map(async (pkg) => {
+      const supplement = /Ergaenzung_(P0[23])_/.exec(pkg.filename)?.[1];
+      if (supplement) {
+        const entry = supplements.packages.find(
+          (p) => p.package === supplement,
+        );
+        const [app, original] = await Promise.all([
+          readFile(join("public", pkg.path.slice(1))),
+          readFile(
+            `docs/Schauspieler-Ergaenzung-${supplement}/${supplement === "P02" ? "Schauspieler_25_Personen_200_Fragen.json" : "Schauspieler_50_Personen_400_Fragen.json"}`,
+          ),
+        ]);
+        assert.equal(
+          sha256(app),
+          entry.csv_sha256,
+          `Ableitungsabweichung: ${pkg.filename}`,
+        );
+        assert.equal(
+          sha256(original),
+          entry.source_sha256,
+          `Redaktionsabweichung: ${pkg.filename}`,
+        );
+        return { filename: pkg.filename, text: app.toString("utf8") };
+      }
       const [app, original] = await Promise.all([
         readFile(join("public", pkg.path.slice(1))),
         readFile(join("KI-Wissen-Wissensquiz/01 Rohquellen", pkg.filename)),
@@ -40,7 +67,7 @@ try {
   const packedQuestions = JSON.parse(packed);
   const bytes = (value) => Buffer.byteLength(value, "utf8");
   const report = {
-    format: "question-organization-audit-v1",
+    format: "question-organization-audit-v2",
     scope:
       "Öffentliche App-Pakete, Kategoriezuordnungen und generierte Filmfragen; keine Spielerdaten. Größen sind UTF-8-JSON-Nutzdaten, keine Messung der Browser-Speicherquote.",
     catalogSha256: createHash("sha256").update(full).digest("hex"),
@@ -60,7 +87,10 @@ try {
       ).length,
     },
     checks: {
-      publicSourcesByteIdentical: true,
+      originalCsvSourcesByteIdentical:
+        packages.length - supplements.packages.length,
+      derivedActorPackagesSourceAndCsvHashesVerified:
+        supplements.packages.length,
       rejectedImports: 0,
       duplicateImports: 0,
       fullBackupValidated: true,

@@ -1,4 +1,4 @@
-import { test, expect, readStoredState } from "./fixtures";
+import { test, expect, openRoundSetup, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { packages, addPackages } from "../../src/packages";
@@ -35,6 +35,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
   await page.setViewportSize({ width: 320, height: 820 });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await openRoundSetup(page);
   const sources = page.getByRole("group", {
     name: "Fragenbereiche",
     exact: true,
@@ -81,6 +82,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
         ).length,
     )
     .toBe(0);
+  await openRoundSetup(page);
   await sources.getByLabel("Filmfragen", { exact: true }).uncheck();
   await expect
     .poll(
@@ -94,6 +96,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
     )
     .toEqual(["actors"]);
   await page.reload();
+  await openRoundSetup(page);
   await expect(page.getByRole("button", { name: /Filmreise/ })).toHaveAttribute(
     "aria-pressed",
     "true",

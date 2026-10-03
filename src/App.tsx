@@ -55,6 +55,7 @@ import { PlaySetup } from "./PlaySetup";
 import type { WriteOptions } from "./entryStorage";
 
 import { PageBoundary } from "./PageBoundary";
+import { ReleaseInfo } from "./ReleaseInfo";
 
 const Leaderboard = lazy(() =>
   import("./RecordLeaderboard").then((m) => ({ default: m.Leaderboard })),
@@ -176,9 +177,13 @@ export function App({
     (async () => {
       const initial = (await read()) ?? emptyState();
       const incoming: PackageContent[] = [];
+      // Revalidate all bundled IDs once on a catalog upgrade, so variants
+      // referring across packages are also included in the official pool.
+      const completeCatalog =
+        initial.bundledQuestionIds &&
+        packages.every((pkg) => hasPackage(initial, pkg.filename));
       for (const pkg of packages) {
-        if (initial.bundledQuestionIds && hasPackage(initial, pkg.filename))
-          continue;
+        if (completeCatalog) continue;
         try {
           const response = await fetch(pkg.path);
           if (!response.ok) throw new Error("Download fehlgeschlagen");
@@ -696,6 +701,7 @@ export function App({
                     </button>
                   </div>
                   {accountPanel?.(state, setState)}
+                  <ReleaseInfo />
                 </>
               )}
               {page === "help" && <Help />}

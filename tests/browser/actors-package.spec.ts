@@ -1,4 +1,10 @@
-import { openRoundSetup, test, expect, readStoredState, type Page } from "./fixtures";
+import {
+  openRoundSetup,
+  test,
+  expect,
+  readStoredState,
+  type Page,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { packages, addPackages } from "../../src/packages";
@@ -28,7 +34,7 @@ async function writeState(page: Page, value: State) {
   );
 }
 
-test("Schauspieler öffnet 100 Personen und spielt Expertenfragen unabhängig von Filmgruppen mobil und offline", async ({
+test("Schauspieler öffnet 175 Personen und spielt Expertenfragen unabhängig von Filmgruppen mobil und offline", async ({
   page,
   context,
   browserName,
@@ -42,7 +48,7 @@ test("Schauspieler öffnet 100 Personen und spielt Expertenfragen unabhängig vo
   await expect(page.getByRole("heading", { level: 1 })).toHaveText(
     "Schauspieler: Personen",
   );
-  await expect(page.locator(".topic-card")).toHaveCount(100);
+  await expect(page.locator(".topic-card")).toHaveCount(175);
   await expect(
     page.getByRole("heading", { name: "Tom Hanks", exact: true }),
   ).toBeVisible();
@@ -117,48 +123,51 @@ test("Schauspieler öffnet 100 Personen und spielt Expertenfragen unabhängig vo
   await expect(page.locator(".film-data")).toHaveCount(linked);
 });
 
-test("Erkennungsfragen verraten die Person nicht in Überschrift oder Hinweis und zeigen Zusatzinfos erst nach der Antwort", async ({
-  page,
-}) => {
-  await page.clock.install({ time: now });
-  await page.goto("/");
-  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
-  const state = emptyState();
-  addPackages(
-    state,
-    packages.map((p) => ({
-      filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
-    })),
-  );
-  const q = state.questions.find(
-    (q) => q.id === "SCHAUSPIELER-202610-P01-001-L-1",
-  )!;
-  const catalog = state.questions;
-  state.questions = [q];
-  startRound(
-    state,
-    { mode: "ueben", topic: "Schauspieler", difficulty: "leicht" },
-    now.getTime(),
-  );
-  state.questions = catalog;
-  await writeState(page, state);
-  await page.reload();
-  await page.getByRole("button", { name: "Fortsetzen" }).click();
-  await expect(page.locator(".question-card h1")).not.toContainText(
-    "Tom Hanks",
-  );
-  await expect(page.locator(".question-hints")).not.toContainText("Tom Hanks");
-  await expect(page.locator(".actor-name")).toHaveCount(0);
-  await expect(page.locator(".explanation")).toHaveCount(0);
-  await page.locator(".answer").filter({ hasText: "Tom Hanks" }).click();
-  await expect(page.locator(".actor-name")).toHaveText("Tom Hanks");
-  await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
-  await expect(page.locator(".explanation")).toContainText(q.context);
-  await expect(page.locator(".film-data")).toHaveCount(1);
-  await page.getByText("Filmdaten", { exact: true }).click();
-  await expect(page.locator(".film-data")).toContainText("Forrest Gump");
-});
+for (const [questionId, person, film] of [
+  ["SCHAUSPIELER-202610-P01-001-L-1", "Tom Hanks", "Forrest Gump"],
+  ["SCHAUSPIELER-202610-P02-102-L-1", "Russell Crowe", "Gladiator"],
+  ["SCHAUSPIELER-202610-P03-136-L-1", "Willem Dafoe", "Spider-Man"],
+])
+  test(`Erkennungsfrage ${questionId} verbirgt die Person und zeigt Zusatzinfos erst nach der Antwort`, async ({
+    page,
+  }) => {
+    await page.clock.install({ time: now });
+    await page.goto("/");
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeEnabled();
+    const state = emptyState();
+    addPackages(
+      state,
+      packages.map((p) => ({
+        filename: p.filename,
+        text: readFileSync(`public${p.path}`, "utf8"),
+      })),
+    );
+    const q = state.questions.find((q) => q.id === questionId)!;
+    const catalog = state.questions;
+    state.questions = [q];
+    startRound(
+      state,
+      { mode: "ueben", topic: "Schauspieler", difficulty: "leicht" },
+      now.getTime(),
+    );
+    state.questions = catalog;
+    await writeState(page, state);
+    await page.reload();
+    await page.getByRole("button", { name: "Fortsetzen" }).click();
+    await expect(page.locator(".question-card h1")).not.toContainText(person);
+    await expect(page.locator(".question-hints")).not.toContainText(person);
+    await expect(page.locator(".actor-name")).toHaveCount(0);
+    await expect(page.locator(".explanation")).toHaveCount(0);
+    await page.locator(".answer").filter({ hasText: person }).click();
+    await expect(page.locator(".actor-name")).toHaveText(person);
+    await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
+    await expect(page.locator(".explanation")).toContainText(q.context);
+    await expect(page.locator(".film-data")).toHaveCount(1);
+    await page.getByText("Filmdaten", { exact: true }).click();
+    await expect(page.locator(".film-data")).toContainText(film);
+  });
 
 test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und vollständig sichern", async ({
   page,
