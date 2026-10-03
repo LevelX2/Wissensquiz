@@ -8,7 +8,7 @@ import {
 } from "../../src/entryRemote";
 import type { PreparedRelease } from "../../src/syncCodec";
 
-export async function syncFixture() {
+export async function syncFixture(stopBefore?: string) {
   const db = new PGlite();
   await db.exec(`create role anon;create role authenticated;create schema auth;
     create table auth.users(id uuid primary key,email_confirmed_at timestamptz,is_anonymous boolean default false,raw_user_meta_data jsonb);
@@ -16,7 +16,8 @@ export async function syncFixture() {
     grant usage on schema auth,public to anon,authenticated;grant execute on function auth.uid() to anon,authenticated;`);
   for (const file of readdirSync("supabase/migrations")
     .filter((f) => f.endsWith(".sql"))
-    .sort())
+    .sort()
+    .filter((file) => !stopBefore || file < stopBefore))
     await db.exec(readFileSync(`supabase/migrations/${file}`, "utf8"));
   const argumentsByName: Record<string, string[]> = {};
   for (const file of readdirSync("supabase/migrations")
@@ -122,6 +123,8 @@ export async function syncFixture() {
             if (message.includes("download_changed"))
               throw new DownloadChanged();
             if (message.includes("cursor_expired")) throw new CursorExpired();
+            if (process.env.SYNC_TEST_DEBUG)
+              process.stderr.write(message + "\n");
             throw error;
           } finally {
             await db.exec("reset role");

@@ -32,7 +32,7 @@ beforeAll(async () => {
   );
   await fixture.seed(release);
 }, 30000);
-afterAll(() => fixture.db.close());
+afterAll(() => fixture?.db.close());
 async function setup(active = false) {
   const { owner, api } = await fixture.client(),
     key = `account:test:${owner}`,
