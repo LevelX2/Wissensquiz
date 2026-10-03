@@ -16,6 +16,7 @@ Stand: 03.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 - Main-Integration und Freigabe alter Ausgangskopien benötigen weiterhin eigene ausdrückliche Aufträge; Produktionsmigration und Veröffentlichung sind inzwischen erfolgreich abgeschlossen; [konkreter Ablauf](../docs/Speicher-und-Sync-Migration.md).
 - Echte Zwei-Konten-/Zwei-Geräte-Abnahme auf Mobilverbindungen, physische Geräte-/Hörprüfung und PWA-Installation auf dem Smartphone. Isolierte Browsernachweise ersetzen diese Abnahmen nicht.
+- Erste reale Kontoübernahme am 03.10.2026 erfolgreich aktiviert; allgemeine Speicheranzeige wirkte während der längeren Erstübertragung wie ein Hänger. Verständliche Übernahmephasen und weniger einzelne Objektanfragen als Folgeverbesserung prüfen. Reale Wiederabrufdauer auf dem betroffenen Desktop noch nicht gemessen; [Befund](../docs/Speicher-und-Sync-Produktion.md#erste-beobachtete-kontoübernahme).
 - Rückmeldungen zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und redaktioneller Bekanntheitseinteilung auswerten. Gelieferte Filmaussagen bei Bedarf einzeln fachlich prüfen; Quellenkennzeichnungen sind keine neue unabhängige Faktenprüfung.
 - Produktionsquote, Migrationszwischenbedarf und reale API-/Mobilverbindungen während des beauftragten Rollouts beobachten. Die lokale Messung garantiert keine Free-/Nano-Kapazität. Die Startdatei bleibt trotz getrennt geladener Ansichten groß.
 

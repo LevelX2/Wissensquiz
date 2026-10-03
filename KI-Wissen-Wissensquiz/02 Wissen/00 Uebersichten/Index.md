@@ -10,7 +10,7 @@
 ## Spielbare Testversion
 
 - [Abnahme der lokalen Speicher-/Sync-Optimierung](../../../docs/Speicher-und-Sync-Abnahme.md)
-- [Produktionsrollout Version 42: Sicherung, angewendete Migrationen und erfolgreiche Veröffentlichung](../../../docs/Speicher-und-Sync-Produktion.md)
+- [Produktionsrollout Version 42: Sicherung, Migrationen, Veröffentlichung und erste Kontoübernahme](../../../docs/Speicher-und-Sync-Produktion.md)
 - [Produktionsablauf mit Sicherung, Migration und Rückfall](../../../docs/Speicher-und-Sync-Migration.md)
 - [Native PostgreSQL- und Anfragegrößenmessung mit 100 synthetischen Konten](../../../docs/Speicher-und-Sync-Messung.json)
 

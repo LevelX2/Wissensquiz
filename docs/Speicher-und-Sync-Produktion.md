@@ -52,6 +52,16 @@ Alle 21 öffentlichen Quiztabellen haben RLS. Private Synchronisierungsfunktione
 
 ## Übernahme und weiterer Betrieb
 
+### Erste beobachtete Kontoübernahme
+
+Am 03.10.2026 meldete der Nutzer auf dem Desktop nach ausdrücklicher Auswahl des Online-Stands zunächst eine dauerhaft wirkende Anzeige „Spielstand wird online gespeichert …“, kurz darauf jedoch erfolgreichen Abschluss nach seiner Schätzung etwa einer Minute. Ausschließlich lesende Produktionsdiagnose bestätigt eine vollständig aktivierte Generation um 13:31:35 Uhr Europe/Berlin. Keine Kontodaten wurden zur Diagnose verändert.
+
+Die Servermessung umfasst die gesamte Übernahme ab 13:28:41 Uhr und damit rund 174 Sekunden: 2.792 erfolgreiche Objektteilanfragen von 13:28:42 bis 13:31:21 Uhr, anschließend begrenztes Eintragsstaging, Versiegelung, vollständiges Prüfrücklesen und Aktivierung. Die betrachteten Sync-Endpunkte lieferten HTTP 200/204. Die Nutzerschätzung bezieht sich auf die wahrgenommene Wartephase; sie ist nicht dieselbe Messgrenze wie der komplette Serverablauf. Historische oder abweichende Inhalte verursachen bei der ersten Übernahme zusätzliche private Objektübertragung.
+
+Eine unveränderte spätere Öffnung auf demselben Gerät verwendet den geprüften Metadatenpfad und wiederholt diese Übernahme nicht. Neue Geräte und ausdrückliche Auswahl eines abweichenden Online-Stands benötigen weiterhin einen vollständigen kontrollierten Abruf. Eine reale Wiederabrufdauer auf dem betroffenen Desktop wurde hier nicht gemessen.
+
+Die allgemeine Speicheranzeige unterscheidet die einzelnen Übernahmephasen bisher nicht. Sinnvolle Folgeverbesserung: verständliche Phasen-/Fortschrittsanzeige für die erste Übernahme sowie begrenzte Bündelung der vielen kleinen Objektanfragen mit unverändertem Inhalts-, Eigentümer- und Generationsschutz. Keine neue App- oder Datenbankänderung innerhalb dieser Diagnose; erfolgreiche Übernahme und vorhandene Sicherungen bleiben erhalten.
+
 Der zusammengeführte Stand besteht 278 Tests in 48 Dateien und den Produktionsbuild. 143 unterschiedliche Browserfälle sind erfolgreich abgedeckt; ein Desktopfall ist im mobilen WebKit-Projekt bewusst ausgelassen. Der breite Lauf hatte zunächst fünf Fehler; nach Anpassung zweier veralteter Testannahmen und Erhalt der Katalog-Wiederverwendung beim Duellimport bestanden alle 18 gezielten Abschlussfälle gegen den abschließenden Build. Vollständige Ergebnisse und Grenzen im [Prüfbericht](Pruefbericht.md). Keine Abhängigkeiten geändert. Offline-Paket: `film-04304f456bc1`, 56 Dateien.
 
 Vor Veröffentlichung bestehen ein unveränderter Legacy-Kontostand und noch keine aktivierte Eintragsgeneration. Nach Aktualisierung übernimmt der neue Client beim Öffnen des Kontos automatisch und revisionsgeschützt: bereitstellen, versiegeln, vollständig zurücklesen, logische Gleichheit prüfen, erst dann aktivieren. Alte Clients und Warteschlangen können eine aktivierte Generation serverseitig nicht zurückschreiben. Vollständiges Schließen aller alten Quiz-Fenster ermöglicht Service-Worker-/IndexedDB-Aktualisierung; Browserdaten nicht löschen.
