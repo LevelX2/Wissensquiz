@@ -1,6 +1,6 @@
 # Rekordmodi und Zeitranglisten
 
-Stand: 03.10.2026. Die nachfolgende Auswahl- und Archivregel ist für Version 46 lokal umgesetzt. Der bisherige veröffentlichte Stand ist Version 45; tatsächlichen Veröffentlichungsnachweis führt [Sites-Betrieb](Sites-Betrieb.md). Ältere Veröffentlichungen und ihre Prüfungen bleiben dort erhalten.
+Stand: 03.10.2026. Die nachfolgende Auswahl- und Archivregel ist als Version 46 am 03.10.2026 um 18:12:06 Uhr Europe/Berlin öffentlich veröffentlicht, in `main` integriert und mit GitHub synchronisiert; tatsächlichen Veröffentlichungsnachweis führt [Sites-Betrieb](Sites-Betrieb.md). Ältere Veröffentlichungen und ihre Prüfungen bleiben dort erhalten.
 
 ## Einstieg und Regeln
 
