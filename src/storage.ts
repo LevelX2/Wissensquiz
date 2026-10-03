@@ -1,11 +1,6 @@
 import { validateBackup } from "./backupValidation";
 export { validateBackup } from "./backupValidation";
-import { z } from "zod";
 import { emptyState, type State } from "./model";
-import { rebuild } from "./engine";
-import { matchesFilters, usesFilmFilters } from "./filters";
-import { matchesTopic } from "./categories";
-import { questionSnapshotMatches } from "./filmFacts";
 import { catalogKey, decodeLocalState, encodeLocalState } from "./localCatalog";
 import { encodeQuestionCatalog } from "./catalogCodec";
 let database: Promise<IDBDatabase> | undefined;

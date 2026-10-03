@@ -138,7 +138,7 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
     page.getByText(
-      "Du wählst Genres, Schwierigkeit und Bekanntheit der Filme frei aus. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
+      "Du kombinierst Filmfragen, Schauspieler und Preisträger zu einem gemeinsamen Pool. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
     ),
   ).toBeVisible();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
@@ -182,7 +182,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await genres.getByLabel("Horror", { exact: true }).uncheck();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
   await expect(page.getByRole("status")).toContainText(
-    "Wähle mindestens ein Genre",
+    "Für Filmfragen brauchst Du außerdem passende Genres und Filmgruppen.",
   );
   await genres.getByLabel("Horror", { exact: true }).check();
   await genres.getByLabel("Sci-Fi", { exact: true }).check();
@@ -223,6 +223,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   const before = await readRound();
   expect(before.filters).toEqual({
     genres: ["Horror", "Science-Fiction"],
+    sources: ["film"],
     difficulties: ["leicht", "mittel"],
     familiarities: [1, 2, 3, 4],
   });
@@ -252,7 +253,7 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie aus de
     }),
   ).toBeVisible({ timeout: 20000 });
   await page.getByRole("button", { name: "Themen", exact: true }).click();
-  await expect(page.locator(".genre-illustration")).toHaveCount(14);
+  await expect(page.locator(".genre-illustration")).toHaveCount(16);
   for (const img of await page.locator(".genre-illustration").all()) {
     await img.scrollIntoViewIfNeeded();
     await expect
@@ -551,8 +552,11 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
     page.getByRole("heading", { name: "Eine Runde weiter." }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
-  await expect(page.locator(".leaderboard-category")).toContainText(
-    "Horror + Sci-Fi · Leicht + Mittel · 5 Fragen",
+  await expect(page.locator(".record-card-heading h3")).toHaveText(
+    "Horror + Sci-Fi",
+  );
+  await expect(page.locator(".record-card-heading p")).toHaveText(
+    "Leicht + Mittel · 5 Fragen · Filmfragen",
   );
   await expect(page.locator(".badge-art.locked svg")).toBeVisible();
   await page

@@ -1,0 +1,135 @@
+# Historische Statusfassung vom 03.10.2026
+
+Unveränderte Momentaufnahme vor der Verdichtung im Struktur-Worktree. Aussagen mit „aktuell“, frühere Veröffentlichungsstände und Testzahlen beziehen sich auf ihre jeweiligen historischen Abschnitte. Den heutigen Snapshot findest Du auf der ursprünglichen Einstiegsseite; diese Historie ersetzt keinen neuen Prüfnachweis.
+
+---
+
+# Projektstart Wissensquiz
+
+Die [Strukturprüfung vom 03.10.2026](../docs/Strukturpruefung-2026-10-03.md) empfiehlt vorrangig eine Wartegrenze für Kontosicherungen, das Auflösen des Importkreises zwischen App und Duellansicht und gezielte Berechnungen pro sichtbarer Seite. Weitere Vorschläge betreffen Styles, Ladeumfang, Speicherverträge und zugängliche Rückfallkopien. Die Vorschläge sind noch nicht umgesetzt; Anwendungscode und Funktionalität wurden bei der Prüfung nicht geändert.
+
+03.10.2026 **Sites-Version 39 veröffentlicht**, nativer Status `succeeded`: Filmfragen, Preisträger und Schauspieler als additive Fragenbereiche gemeinsam oder einzeln auswählbar. Genres, Filmgruppen und Classics/Arthouse begrenzen nur Filmfragen. Quellcommit `0db3262f4ff8cf41f72fa08e66e6abe8476c3180`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_e23c81f849748191b0c1c0a41f628987`, Deployment `appgdep_6ac09f20d34c81918c5c85d11c5585e1`. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich; mobile Ansichten, Axe, Sicherungsrücklauf und Offline-Wiederaufnahme geprüft. Offline-Paket `film-599e2f3a4db2`; Archiv mit 49 Dateien und Hash `sha256:056770347d4977e448e310cc6f70cf6aee8417470464e9b2e3b4884bd3390d6e` nativ gespeichert. Bestehende öffentliche URL, Projekt-ID, alle Inhalte, Frage-/Wissensziel-IDs, Lernstände und historische Runden erhalten. Keine Servermigration, Main-Integration oder GitHub-Veröffentlichung. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
+
+03.10.2026 **Additive Fragenbereiche als Version 39 veröffentlicht**: Filmfragen, Preisträger und Schauspieler gemeinsam oder einzeln auswählbar; Filmgenre-/Bekanntheits-/Classics-/Arthousefilter gelten nur für Filmfragen. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich. Veröffentlichung erfolgreich. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
+
+**Sites-Version 38 veröffentlicht**, nativer Status `succeeded` am 03.10.2026. Gesamter aktueller App-Stand einschließlich Fragedatenorganisation, öffentlicher Bestenliste/Gastaktivität und Kategorieillustrationen. Migration 202610030001 live eingerichtet und Rechte lesend geprüft. Öffentlicher Besucherzugriff und Projekt-ID erhalten. 208 Tests und Produktions-Build erneut erfolgreich; 19 gezielte Browserfälle gegen das veröffentlichte Artefakt zusätzlich bestanden. Der breite Nachweis umfasst weiterhin 116 unterschiedliche Browserfälle. Keine echten Spielstände oder Gaststatistiken für Tests verändert, keine Main-Integration oder GitHub-Veröffentlichung. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md).
+
+## Aktueller Stand
+
+03.10.2026 **Kategorieillustrationen für Preisträger und Schauspieler als Version 38 veröffentlicht**, nativer Status `succeeded`. Goldene Preis-/Lorbeerskulptur und Porträtbüsten mit Filmklappe ergänzen das bestehende Set; große Themenkarten und kleine Kategorieauswahl verwenden dieselben transparenten PNGs. 193 Logik-/Datenbanktests, Build und drei gezielte Browserfälle erfolgreich. Bildstand auf `codex/kategorie-illustrationen` geprüft; die parallel erfolgte Veröffentlichung des App-Gesamtstands enthält exakt dieselben PNGs und dieselbe Bildzuordnung. [Illustrationen und Prompts](../docs/Kategorie-Illustrationen.json).
+
+03.10.2026 **Sites-Version 37 veröffentlicht**, nativer Status `succeeded`: Schauspieler als eigene Personenkategorie mit 100 Personen und 800 individuellen Fragen, vier Stufen, Quellen und Vertiefungen. Gesamt 5.677 Fragen/5.147 Ziele. 193 Logik-/Datenbanktests, Produktions-Build und 111 unterschiedliche Browserfälle erfolgreich. Geprüfter isolierter Release auf `codex/schauspieler-release`; laufende Änderungen im Hauptarbeitsordner bleiben lokal. Duellkatalog unverändert, keine SQL-Migration oder Main-Integration. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md).
+
+03.10.2026 in Version 38 veröffentlicht: **Organisation der Fragedaten** mit getrenntem IndexedDB-Katalog und Fortschritt, verlustfreien Metadatenverweisen und Maps für Sicherungsprüfung, Filmzuordnungen und Rekordberechnung. 5.677 Fragen/5.147 Ziele erhalten; Katalognutzdaten 18,06 → 13,25 MB (−26,64 %). Neue Solorunden kopieren höchstens zehn Ausgangslernstände. Datenbankversion 2, logisches Sicherungsschema weiterhin 1; Altstände werden bei erfolgreichem Schreiben überführt. **208 Logik-/Persistenz-/Datenbanktests, Produktions-Build und alle 116 Browserfälle erfolgreich.** [Struktur, Prüfung und Betriebsgrenzen](../docs/Fragedaten-Organisation.md). Als Version 38 veröffentlicht.
+
+03.10.2026 in Version 38 veröffentlicht: **öffentliche Bestenliste und Gastaktivität**. Eigener Highscores-Reiter mit Level/Titel, XP, abgeschlossenen Spielen, Antworten und Trefferquote; auf ausdrückliche Auswahl des Nutzers auch für Gäste sichtbar. Neue Gastübersicht für sieben deutsche Kalendertage mit anonymen Spielereignissen, idempotenter Nachmeldung und erkennbarem Erfassungsbeginn. Private Kontostände und bisheriger gefilterter Vergleich bleiben geschützt. **208 Logik-/Persistenz-/Datenbanktests, Build und 116 unterschiedliche Browserfälle erfolgreich**, einschließlich gezielter finaler Nachprüfungen. Migration 202610030001 live eingerichtet; diese Erweiterung als Version 38 veröffentlicht. [Vertrag und Betriebsgrenzen](../docs/Bestenliste-und-Gastaktivitaet.md), [Prüfnachweis](../docs/Pruefbericht.md).
+
+02.10.2026 **Sites-Version 36 veröffentlicht**, nativer Status `succeeded`: gesamter offener App-Stand mit Duellen, Lösungswahl, Filmkarriere und neuen Alle-Genres-/Preisträger-Fragen. Aktuell 4.877 Fragen/4.397 Ziele/656 Filme. Servermigrationen 004 und 005 live, Rechte geprüft. 189 Logik-/Datenbanktests, Produktions-Build und 105 unterschiedliche Browserfälle erfolgreich. Keine Main-Integration. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md).
+
+02.10.2026 lokal umgesetzt: **asynchrone Filmduelle** mit drei gemeinsamen Zehnerrunden auf Zeit, vier Spielblöcken, Zufallspaarung oder Linkeinladung, fünf offenen Spielplätzen und Fristen von 72 Stunden bzw. sieben Tagen ohne Gegner. Lösung nach jeder Frage oder nach der eigenen Runde auch für Solo; vertraute Frage-/Erklärungs-/Ergebnisansichten bleiben erhalten. Servermigration 005 und Katalog mit 4.827 Fragen/4.347 Zielen live eingerichtet; Rechte und zurückgerollter Funktionslauf geprüft. App als Version 36 veröffentlicht; keine Main-Integration. [Fachvertrag](../docs/Asynchrone-Filmduelle.md), [Einrichtung](../docs/Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026), [Prüfnachweis](../docs/Pruefbericht.md).
+
+02.10.2026 lokal ergänzt: **Preisträger** mit 200 redaktionell erstellten Fragen/200 Zielen, je 50 Leicht/Mittel/Schwer/Experte. Oscar-Schwerpunkt, Cannes und Venedig, fünf Fragesysteme, individuelle Vertiefungen und Quellen. Filmdaten zu allen 135 Preisfilmen; 111 neue Filmidentitäten. Gesamt 4.877 Fragen/4.397 Ziele, 604 Themen und 656 eingeordnete Filme. Experte ist in freien Modi/Fehlertraining wählbar, Filmreise behält ihre bisherigen Stufen und Ziele. **182 Logik-/Datenbanktests und 99 unterschiedliche Browserfälle erfolgreich**; abschließender Produktions-Build des aktuellen Arbeitsstands erfolgreich. Als Version 36 veröffentlicht; keine Main-Integration. [Fachstand](../docs/Preistraeger.md), [Prüfnachweis](../docs/Pruefbericht.md).
+
+
+Schauspieler ist als Version 37 veröffentlicht: 50 vorhandene Ziele erhalten, 750 neue Ziele ergänzt. Personenfragen bleiben unabhängig von Filmgenres und Filmgruppen; Außergewöhnlich aus dem Paket heißt in der App Experte. [Kategorie, Quellen und Prüfgrenzen](../docs/Schauspieler-Fragenpaket.md).
+
+02.10.2026 lokal umgesetzt: **Filmkarriere** mit steigenden Levelhürden (100 XP, danach je Aufstieg +50), Antwort-/Treffer-XP und einmaligen Boni für neue sichere Ziele, erste Fehlerkorrektur und Festigung. Fünf Titel, Filmklappe, Fortschrittsbalken, XP-Aufschlüsselung und einmaliger Aufstieg; globale Level/Titel in beiden gemeinsamen Ranglisten und neue Wertung Level & XP. Alte Level samt Teilfortschritt durch einmalige Gutschrift erhalten; Kontoumstufung wird automatisch einmal gesichert. Karriereaufträge auf Nutzerwunsch offen. **174 Logik-/Datenbanktests, Build und insgesamt 96 unterschiedliche Browserfälle erfolgreich** (82 Chromium, 14 WebKit; vollständiger Erstlauf mit gezielten finalen Nachprüfungen). Migration `202610020004_film_career.sql` lokal geprüft und vor dem Release live angewendet. Als Version 36 veröffentlicht; keine Main-Integration. [Fachvertrag](../docs/Filmkarriere-und-XP.md).
+
+02.10.2026 **Sites-Version 35 veröffentlicht**, nativer Status `succeeded`: Keine-Ahnung-Option und verständlicher Spielervergleich live. Geprüften Quellstand getrennt von laufender Filmkarriere-Arbeit veröffentlicht; öffentlicher Zugang erhalten. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md). Keine Main-Integration.
+
+02.10.2026 **Spielervergleich live korrigiert**: Die Datenbankabfrage entpackt Antwortgeschichten einmal statt je Frage erneut. Nach zurückgerollten Live-Prüfungen Migration 003 angewendet; zuletzt rund 932 ms, eigener Eintrag in allen drei Wertungen, Rechte erhalten. Eigene Nullrunden-Einträge und verständlichere Filter-/Quoten-/Fehlerhinweise lokal geprüft. 161 Logik-/Datenbanktests, Build und alle 89 Browserfälle erfolgreich (78 Chromium, elf WebKit). Oberflächenänderungen als Sites-Version 35 veröffentlicht. Migration 002 nicht nachträglich einzeln ausführen. [Diagnose und Nachweis](../docs/Spielervergleich-Stoerung.md).
+
+02.10.2026 lokal ergänzt: **Keine Ahnung** als fünfte Antwortauswahl in allen Modi. Bewusstes Nichtwissen zählt als falsch und als beantwortet, bringt keine Rekordpunkte und bleibt im Rückblick erkennbar. Nach Speichern zunächst 1,1 Sekunden nur die richtige Lösung sanft hervorheben, danach normale Erklärung; reduzierte Animationen ruhig. Sicherungen erhalten die ausdrückliche Wahl, Zeitabläufe bleiben getrennt. 159 Logik-/Datenbanktests, Build und alle 85 Browserfälle im damaligen Lauf erfolgreich (74 Chromium, elf WebKit). Die gemeinsame Zählung ist inzwischen in der live angewendeten Migration 003 enthalten; Migration 002 nicht nachträglich einzeln ausführen. Die App-Option ist als Sites-Version 35 veröffentlicht. [Antwortvertrag](../docs/Lernregeln.md#keine-ahnung-als-antwortoption).
+
+02.10.2026 als **Sites-Version 34 veröffentlicht**, nativer Status `succeeded`. Fehlertraining, Rundenauswertung, vereinfachte Highscores und bereinigte Regietexte gemeinsam live. Bestehender öffentlicher Zugang erhalten; Datenbankmigration erfolgreich und Rechte bestätigt. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md). Keine Main-Integration.
+
+02.10.2026 lokal bereinigt: Regievertiefungen der 100 neueren Sci-Fi-/Komödie-Fragen ohne den bei 88 Fragen wiederholten allgemeinen Standardsatz und ohne angehängte Originaltitel-/Jahreswiederholung. Individuelle Hintergründe, zwölf konkrete Regiehinweise und die Angaben unter „Filmdaten“ erhalten. Reine Anzeigeauflösung auch für gespeicherte Runden; keine Änderung an Frageversionen oder Lernständen. [Fachstand](../docs/Filmwissen-und-Filmdaten.md). Veröffentlicht als Version 34.
+
+02.10.2026 lokal vereinfacht: Highscores mit zwei Haupteinstiegen „Meine Rekorde“ und „Spielervergleich“. Eigene Bestwerte stehen zuerst; frühere Runden, weitere Filter und Vergleichsdetails sind aufklappbar. Spielervergleich beginnt mit richtigen Antworten aus allen Modi, passende Rekordpunkte separat. Direkte Aktionen zur ersten Rekordauswahl und zur Anmeldung. Rangregeln und Spielstände unverändert. 151 Logik-/Datenbanktests, Build und alle 73 Browserfälle erfolgreich; betroffene Fälle abschließend erneut geprüft. [Bedienung](../docs/Hilfe-und-Navigation.md). Veröffentlicht als Version 34.
+
+02.10.2026 lokal ergänzt: **Fehlertraining** als vierter Modus für offene Fehlantworten und Zeitabläufe, mit direkter Wiederholung aus dem Rundenergebnis. Auswertung mit Trefferquote, Antwortbilanz, sicherer Serie, gelösten früheren Fehlern, neuen Wissenszielen, Genrevergleich und Rückblickfiltern. 151 Logik-/Datenbanktests, Build und alle 72 Browserfälle erfolgreich; WebKit-Offlinenavigation im Windows-Testbrowser nicht nachgewiesen. Historische Lernstände und Rohquellen bleiben erhalten. [Fachvertrag](../docs/Lernregeln.md#fehlertraining-und-rundenauswertung). Veröffentlicht als Version 34; Migration `202610020001_error_training_rankings.sql` erfolgreich live angewendet, bestehende Zugriffsrechte lesend bestätigt.
+
+Alle-Genres-Ergänzung vom 02.10.2026: aktueller lokaler Gesamtbestand **4.677 Fragen, 4.197 Ziele, 545 Filme und 493 Film-/Reihenthemen**. 15 CSV-Pakete mit 3.840 Einträgen und 3.360 Zielen; zusätzlich 837 ältere, separat generierte Jahres-/Regiefragen. Die neue CSV ergänzt 960 Fragen zu 120 Filmen in zwölf Genres, darunter bereits je 120 Regie- und Jahresfragen; die nachgelieferte Filmdaten-JSON versorgt sie nun ebenfalls mit dem aufklappbaren Filmdatenbereich. Fragen, Lernstände und bisherige Freischaltungen bleiben erhalten. [Details und Quellenstatus](../docs/Alle-Genres-Ergaenzung.md). Die nachfolgenden Bestandszahlen dokumentieren frühere Umsetzungsschritte.
+
+Regievertiefungen vom 29.09.2026: 312 ältere generierte Regiefragen haben statt des allgemeinen Standardsatzes individuelle Regisseurinformationen mit Quellen. Bestehende CSV-Regiefragen und die 50 neuen Sci-Fi-Texte bleiben erhalten; frühere Rundensnapshots und Lernstände ändern sich nicht. [Fachstand](../docs/Filmwissen-und-Filmdaten.md).
+
+- Spielbare deutsche React-/TypeScript-Testversion mit Filmreise, Freiem Spiel und Rekordrunde umgesetzt.
+- Filmgenres als Mehrfachauswahl; manuelle Schwierigkeitsstufen nur bei freier Auswahl; ohne Auswahl einzelner Filme/Reihen. Alte Runden und Spielstände bleiben erhalten.
+- Genre und Schwierigkeit jeder Frage sichtbar, unabhängig abschaltbar und gespeichert. Die bisherigen 720 Vertiefungen auf Darstellernamen geprüft; 627 Ergänzungen zu 125 Filmen, mit Quellen und versionsgenauer Zuordnung. Rohfragen und Spielstände erhalten.
+- Persönliche Bestenliste aller abgeschlossenen Rekordspiele, filterbar nach Genre-Kombination, Stufen und Rundengröße; vergleichbare Kategorien getrennt, Spiele mit Rückblick. Persönliche Liste offline; automatische gemeinsame Trainingsrangliste für bestätigte Konten implementiert. Profil mit Spiel-/Antwortstatistik, Trefferquote, Level und XP.
+- Kurze abschaltbare Soundeffekte, optionale Vibration, Genre-Icons und deutlicher gesperrter/erworbener Zustand des vorhandenen Sci-Fi-Abzeichens. Weitere Genre-Abzeichen noch offen.
+- 2.880 gelieferte Fragen aus 14 Paketen, 2.400 Wissensziele und 480 Varianten; 378 Film-/Reihenthemen und zwölf Genres. Einschließlich Jahres-/Regieergänzungen Classics: 929 Fragen/799 Ziele/101 Filme; Arthouse: 461/405/52. Alle 258 Classics- und 126 Arthouse-Bestandsreferenzen passend aufgelöst; neue Musik-Tags aus der Quelle. Sämtliche Datensätze strukturell akzeptiert.
+- Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
+- Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
+- Lokales Git mit GitHub-Remote `origin`: [LevelX2/Wissensquiz](https://github.com/LevelX2/Wissensquiz), eingerichtet am 03.10.2026. Integrationsbranch und GitHub-Standardbranch `main`; Push und Pull Requests nur nach ausdrücklichem Auftrag. Am 03.10.2026 auf Nutzerauftrag `main` und `codex/schauspieler-veroeffentlichung` gepusht, passende Upstreams eingerichtet und mit `git pull --ff-only` abgeglichen. Offene, uncommittete Arbeiten bleiben lokal; keine zusätzliche Main-Integration.
+- Getestete Umsetzung auf `codex/spielbare-testversion`; nach Freigabe des Nutzers lokal in `main` integriert.
+- Codex-Projektregistrierung noch offen; Ordner in der App hinzufügen.
+
+## Offen
+
+- Filmduelle: als Version 36 veröffentlicht; echte Zwei-Konten-Abnahme auf Mobilverbindungen offen. Servermigration und öffentlicher Katalog eingerichtet, lokale Umsetzung und Tests dokumentiert. [Aktueller Vertrag](../docs/Asynchrone-Filmduelle.md); der frühere [Konzeptentwurf](../docs/Asynchrone-Filmduelle-Konzept.md) bleibt historisch erhalten.
+
+- Filmreise, Freies Spiel und freie Rekordauswahl mit vier Bekanntheitsgruppen umgesetzt. 425 Filme redaktionell eingeordnet; feste erreichbare Ziele je Genre, erworbene Freischaltungen und Altstände erhalten. Einteilung anhand Nutzerfeedback weiter prüfen. [Fachvertrag](../docs/Spielmodi-und-Bekanntheit.md).
+- Nutzerfeedback zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und freiwilligen Folgerunden sammeln.
+- Öffentliche Sites-Adresse ohne ChatGPT-Zugangsschranke verfügbar: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. PWA-Installation auf dem Smartphone noch prüfen.
+- Aktuelle Veröffentlichung: Sites-Version 36, App-Commit `017ac65`, Status `succeeded`: Filmduelle, Lösungswahl, Filmkarriere und neue Fragenpakete. Nachweis unter docs/Sites-Betrieb.md. Physische Geräte-/Hörabnahme und Feedback zur redaktionellen Einordnung offen.
+- Fachliche Einzelprüfung der gelieferten Filmaussagen bei Bedarf; „redaktionell_geprueft“ ist eine Quellenangabe.
+- Eigene Konten mit Supabase Free/Frankfurt, Brevo SMTP und deutschen Mailvorlagen aktiv. Bestätigungsmail zugestellt und Kontoaktivierung verifiziert. Nach zunächst abgelehntem Smartphone-Login hat der Nutzer erfolgreichen Passwort-Reset und Anmeldung am Handy bestätigt. Reale Zwei-Konten-/Geräte-Spielstandsabnahme noch offen. Passwortfelder mit Auge zum Anzeigen/Verbergen. Automatische Kontosicherung mit Revisionsschutz umgesetzt; Gaststand bleibt auf diesem Gerät und wird nur ausdrücklich übernommen. Gemeinsame Trainingsrangliste mit automatischer Teilnahme bestätigter Konten umgesetzt; serverseitige Duelle veröffentlicht, echte Zwei-Spieler-Abnahme offen. Öffentlicher Site-Zugang ohne ChatGPT-Schranke eingerichtet und durch anonymen Live-Abruf nachgewiesen; Details unter docs/Sites-Betrieb.md.
+
+## Einstieg
+
+- [Wissensindex](02%20Wissen/00%20Uebersichten/Index.md)
+- [Startanleitung und Architektur](../README.md)
+- [Importvertrag](../docs/Importformat.md)
+- [Lern- und Speichervertrag](../docs/Lernregeln.md)
+- [Qualitätsprüfung](03%20Betrieb/Qualitaetspruefung.md)
+- [Log](03%20Betrieb/Log.md)
+
+## Daten und Sicherung
+
+Spielstände liegen im Browser, nicht im Repository. JSON-Exporte über Einstellungen nach wichtigen Sitzungen und vor Browserbereinigung oder Adresswechsel erstellen, mindestens die letzten drei Sicherungen an einem sicheren persönlichen Ablageort erhalten. Validierter Wiederimport ersetzt nach Bestätigung den lokalen Stand. Browserneustart und Wiederherstellung wurden in getrennten Testprofilen geprüft. Angemeldete Konten sichern automatisch in Supabase; Gaststände bleiben lokal. Kontosicherung ersetzt keine unabhängige JSON-Rückfallkopie. `AGENTS.local.md` enthält nur rekonstruierbare lokale Pfadauflösung; lokale Git-Historie ersetzt kein externes Backup.
+
+## Aktuelle Bedienung und Fortschritt
+
+Fünf Hauptpunkte: Spielen, Themen, Sammlung, Highscores und Profil. Optionen ausschließlich im Profil; Hilfe „So funktioniert’s“ im Profil und Seitenfuß. Die Hilfe erklärt insbesondere geübt/gefestigt mit Wiederholungsbeispiel sowie Lernpfad, Punkte und Speicherregeln.
+
+Filmreise ist der Fortschrittsmodus; Freies Spiel und Rekordrunde bieten alle Stufen und Bekanntheitsgruppen. Die zwei Freischaltachsen gelten je Genre, zählen sichere Ziele abgeschlossener Runden aus allen Modi und erhalten erworbene Rechte. Das frühere Freigabehäkchen entfällt; seine gespeicherte Einstellung bleibt zur Sicherungskompatibilität lesbar.
+
+Bestätigte Konten erscheinen automatisch in Highscores/Spielerleistungen; keine Abwahl. Registrierung und Profil erklären Spielername und sichtbare Leistungswerte, private Spielstände/E-Mail bleiben geschützt. SQL-Migration 004 im bestehenden Projekt erfolgreich ausgeführt und Rechte geprüft. 79 Logik-/Datenbanktests, Build und 37 unterschiedliche Browserprüfungen erfolgreich. Als Version 13 veröffentlicht, nativer Status `succeeded`. Aktueller Veröffentlichungsnachweis unter docs/Sites-Betrieb.md.
+
+Martial Arts & Asia-Film und Rom-Com sind als neue Genres eingebunden. Die breite Asia-Bezeichnung folgt dem gelieferten Paket mit Kampfkunst, Actionkomödien und Polizeifilmen. Drei neue transparente Illustrationen für diese Genres und Arthouse sind integriert.
+
+Neue Schwierigkeits-/Filmgruppen-Freischaltungen erhalten eine einmalige animierte Feier mit Schloss, Feuerwerk, Fanfare und optionaler Vibration. Offlinefähig, reduzierte Bewegung berücksichtigt; alte Runden spielen die Feier nicht erneut ab. 79 Logik-/Datenbanktests, Build und 41 Browserprüfungen erfolgreich. Veröffentlichungsnachweis unter docs/Sites-Betrieb.md.
+
+Sammlung: Filter „Alle“ / „Mit beantworteten Fragen“, inklusive falscher Antworten, mit leerem Zustand. Vibration unabhängig von Browserunterstützung schaltbar und im Spielstand gespeichert; fehlende oder abgelehnte Ausgabe verständlich erklärt. Keine Migration und keine Fortschrittsänderung.
+
+Entdecken bevorzugt auf Nutzerwunsch tatsächlich neue Ziele; zuletzt beantwortete Ziele aus drei Runden werden möglichst zurückgestellt. Die höchste erworbene Stufe wird in den ersten fünf bearbeiteten Zielen gezielt eingeführt. Diese Auswahl gilt jetzt für Filmreise; freie Modi sind unabhängig vom Lernstand. Mobile Antwortansicht mit aufklappbaren Antwortmöglichkeiten und fest erreichbarer Weiter-Aktion.
+
+Aktuelle Bedienungsverbesserungen: alle Genres gesammelt abwählbar; Genre-Bilder auch in kleinen Auswahlfeldern und Filmkarten. Kontoname und ausführliche Speicherhinweise im Profil; feste farbige Statusmarkierung am Profil und in der Runde, ohne springende Meldungszeile. Schnelle Änderungen werden innerhalb von 800 ms für die Online-Sicherung gebündelt. Ranglisten laden höchstens zehn Sekunden, Fehler erlauben erneuten Versuch. Nutzer bestätigte nach Schließen alter Tabs die aktuelle Version mit eigener Highscores-Navigation; alte freiwillige Freigabe gehörte zur überholten Offline-Oberfläche.
+
+
+Spieleinstieg ohne große Werbefläche, Losspielen direkt unter der Moduswahl. Gleichmäßiges Genre-Raster; freie Schwierigkeit und Stufenfortschritte separat aufklappbar, gemeinsame Genre-Bilder. Normaler Lernpfad berücksichtigt automatisch alle freigeschalteten Stufen. Classics lässt sich mit Genres kombinieren, ohne doppelte Fragen oder Lernstände. Arthouse ist als weitere kuratierte Zusatzkategorie einzeln und gemeinsam mit Classics wählbar (Vereinigung, keine Doppelzählung). Kleine Genres verwenden erreichbare Ziele und überspringen leere Filmgruppen.
+
+Unter Losspielen erklärt ein kurzer Hinweis den gewählten Modus. „Mehr zu Auswahl und Ablauf“ erläutert bei Bedarf Filter, Rundengröße, gemeinsame Wissensziele und Fortschrittswertung; in der Rekordrunde zusätzlich das Zeitverhalten. Der Hinweis auf mögliche Handlungsauflösungen bleibt sichtbar.
+
+
+Fragenstatistik in Entdecken/Besser werden: konkrete Frage-ID mit beantwortet/richtig/falsch; aufklappbar Zeitabläufe, geratene Treffer und gemeinsame Variantenbilanz nach Wissensziel-ID. Rein aus bestehenden Ereignissen aller Modi/Rundenstatus abgeleitet, keine Speicherung oder Migration zusätzlicher Zähler.
+
+Die Fragenstatistik erscheint standardmäßig erst nach der Antwort. Unter Profil → Optionen lässt sie sich auf „Immer anzeigen“ umstellen oder ausblenden. Die Auswahl wird mit dem Spielstand gesichert; ältere Spielstände verwenden „Nach der Antwort“.
+
+Spielmodi mit eigenen transparenten Illustrationen: Filmreise (Lupe mit Stern), Freies Spiel (Stufen mit Stern), Rekordrunde (Pokal mit Stoppuhr). Die Startseite erhält eine helle Kino-Kulisse; Spielansicht und Daten bleiben unverändert. Losspielen bleibt direkt unter den Moduskarten. Alle neuen Bilder sind im Offline-Paket enthalten; die Auswahl ist weiterhin per Tastatur und mit sichtbarer Markierung bedienbar.
+
+## Jahresfragen, Regiefragen und Filmdaten
+
+Auf Nutzerauftrag direkt in den bisherigen Genres: 300 Jahresfragen und 287 zusätzliche Regiefragen. 13 passende vorhandene Regiefragen behalten ihre IDs und Fortschritte. Zusammen mit den unveränderten 1.980 CSV-Einträgen umfasst die App 2.567 Fragen und 2.237 Wissensziele; Classics jetzt 557 Fragen/479 Ziele, Arthouse 389/341. Keine eigene Filmwissen-Kategorie. Falsche Jahresalternativen variieren zwischen Runden, bleiben innerhalb der Runde einschließlich Offline-Fortsetzen und Sicherung stabil. Vor der Antwort kein Lösungshinweis durch die Jahreszahl im Titel.
+
+Nach Beantwortung neuer und bestehender Fragen: geschlossene Klappe „Filmdaten“ mit Originaltitel, erster Veröffentlichung, Regie, Produktionsländern/-regionen und bekannter Filmreihenposition. Quellen und Ausnahmen im [Fachvertrag](../docs/Filmwissen-und-Filmdaten.md). 300 Filmfassungen abgeglichen, 111 konkrete Reihenpositionen; keine unabhängige Vollprüfung aller Filmaussagen.
+
+Rundenfortschritt farbig und mit Symbolen: richtig grün/✓, falsch rot/×, Zeitablauf rot/–, offen grau. Aktuelle Frage mit deutlicher Umrandung und zusätzlichem Punkt, solange unbeantwortet. Beschriftungen für Screenreader; keine Änderung von Ereignissen oder Lernständen.
+
+Themen und Filmblöcke: Die doppelte große Genreübersicht am Ende von Spielen ist entfernt. Themenkarten öffnen über „Filme & Reihen ansehen“ eine passende Fortschrittsübersicht mit Rückweg. Auswahl einzelner Filme/Reihen und Favoritenfunktion sind auf aktualisierten Nutzerwunsch entfernt. Historische Runden und Sicherungen bleiben lesbar.
+
+Spielmodus, Genres, Zusatzkategorien und manuelle Stufen werden schon beim Auswählen gespeichert, als Gast lokal und angemeldet über die bestehende automatische Kontosicherung. Bisherige Einstellungen (Ton, Vibration, Genre-/Schwierigkeitshinweise, Fragenstatistik, historische freie Stufenwahl) bleiben ebenfalls erhalten. Keine Migration von Lernfortschritten oder Änderung der Rohquellen.
+
+
+Online-Speicherung kompakt: vollständiger Fragenkatalog gzip/base64, Runden mit ID-/Versionsverweisen und erhaltenen Antwortvarianten. Synthetischer Katalog von 8,0 auf 1,54 MB reduziert (80,8 %). Gemeinsame Highscores speichern bereits nur Ergebniswerte; vorhandener Index und 50er-Seiten bleiben erhalten. Persönliche Ranglisten verwenden ihre Berechnung bei Filterwechseln erneut. Keine SQL-Migration; lokale Stände und JSON-Exporte bleiben vollständig. Alte App-Tabs für das Lesen neuer kompakter Online-Stände aktualisieren.

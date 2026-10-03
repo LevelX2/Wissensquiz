@@ -1,145 +1,66 @@
 # Wissensquiz · Dein Filmkosmos
 
-Seit Sites-Version 36 am 02.10.2026 veröffentlicht: **asynchrone Duelle** mit drei gemeinsamen Zehnerrunden auf Zeit, Zufallsgegnern oder Linkeinladung, fünf offenen Spielplätzen und 72-Stunden-Fristen. Vor Solo-/Duellstart lassen sich Lösungen direkt oder nach der eigenen Runde anzeigen. Servermigration und öffentlicher Katalog mit 4.827 Fragen im vorhandenen Supabase-Projekt eingerichtet; App als Version 36 veröffentlicht. [Spielvertrag](docs/Asynchrone-Filmduelle.md), [Katalog und Einrichtung](docs/Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026).
+Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Als Gast funktioniert es ohne Konto oder verpflichtendes Backend; ein eigenes Quiz-Konto ergänzt private Online-Sicherung und Duelle.
 
-Spielbare deutsche React-/TypeScript-App für kurze Filmquizrunden mit dauerhaftem Lernfortschritt im Browser. Kein Konto, Backend oder KI-Dienst erforderlich.
-
-03.10.2026 als Sites-Version 37 veröffentlicht: [Schauspieler](docs/Schauspieler-Fragenpaket.md) als eigene Personenkategorie mit 800 Fragen zu 100 Personen, je 200 Leicht/Mittel/Schwer/Experte. Unter **Themen → Schauspieler spielen** oder den zusätzlichen Kategorien auswählbar. Personenübersicht, individuelle Vertiefungen und Quellen; unabhängig von Filmgenres und Filmgruppen, ohne verpflichtende Filmdaten. 50 vorhandene Wissensziele erhalten, 750 neue Ziele. Gesamt **5.677 Fragen/5.147 Ziele**, weiterhin 656 eingeordnete Filme. [Importnachweis](docs/importbericht-schauspieler.json). Veröffentlichung unter [Sites-Betrieb](docs/Sites-Betrieb.md).
-
-Aktueller veröffentlichter Inhalt mit [Alle-Genres-Ergänzung](docs/Alle-Genres-Ergaenzung.md) und [Preisträger](docs/Preistraeger.md), 02.10.2026: **4.877 Fragen, 4.397 Wissensziele und 656 Filme**. 16 CSV-Pakete, Filmdaten zu allen Filmen und vier Bekanntheitsgruppen. Preisträger enthält 200 redaktionell erstellte Fragen, je 50 für Leicht/Mittel/Schwer/Experte; bestehende Fortschritte und Freischaltungen bleiben erhalten. Filmkarriere, neue Pakete und Duelle sind als Version 36 veröffentlicht. Paketabschnitte weiter unten dokumentieren historische Importstände.
+Stand 03.10.2026: 17 Quellenpakete, **5.677 Fragen und 5.147 Wissensziele**, 656 eingeordnete Filme und 100 Personen. Letzte dokumentierte Veröffentlichung: **Sites-Version 39**. Die [Strukturverbesserungen](docs/Strukturverbesserungen-Prozess.md) liegen im eigenen Worktree und warten auf Freigabe; sie sind noch nicht integriert oder veröffentlicht. Frühere Meldungen bleiben in der [README-Historie](README-Historie-2026-10-03.md) erhalten.
 
 ## Starten
 
-**Online testen:** [Wissensquiz – Dein Filmkosmos](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Öffentlich erreichbar, ohne ChatGPT-Anmeldung. Für Online-Fortschritt ein eigenes Quiz-Konto verwenden; Gastspiel bleibt möglich. Der lokale Rechner muss dafür nicht laufen.
+[Öffentliches Quiz](https://wissensquiz-filmkosmos.levelx2.chatgpt.site) ohne vorgeschaltete ChatGPT-Anmeldung. Veröffentlichten Stand und Betriebsablauf dokumentiert [Sites-Betrieb](docs/Sites-Betrieb.md).
 
-Voraussetzung: Node.js 22.12+ (geprüft mit 24.19), npm. In PowerShell:
+Lokal: Node.js 22.12+ und npm. Im Projektordner in PowerShell:
 
 ```powershell
-Set-Location C:\Projekte\Wissensquiz
 npm ci
 npm run build
 npm run preview
 ```
 
-- Rechner: **http://localhost:4173**
-- Smartphone im selben Heimnetz: **http://192.168.178.141:4173** (am 26.09.2026 ermittelte Rechneradresse; sie kann sich ändern).
-- Rechner und Vorschauprozess müssen laufen. Die Windows-Firewall muss den Netzwerkzugriff erlauben; ihre Einstellungen wurden nicht verändert.
-- Entwicklung mit Hot Reload: `npm run dev`, Port 5173. Offlinebetrieb ist für den Produktions-Build vorgesehen.
-- **Immer dieselbe Adresse verwenden:** Browserdaten sind an Gerät, Browser, Protokoll, Host und Port gebunden. `localhost`, Heimnetz-IP und eine spätere HTTPS-Adresse haben getrennte Speicher. Zum Wechsel JSON exportieren und wieder importieren.
+Vorschau unter http://localhost:4173; Entwicklung mit `npm run dev` auf Port 5173. Die Vorschau kann im selben Netz über die aktuelle Netzwerkadresse des Rechners geöffnet werden; Rechner und Prozess müssen laufen. Offlinebetrieb benötigt Produktions-Build, HTTPS oder localhost und einen vollständig vorbereiteten Cache. Browserdaten sind an Gerät, Browser, Protokoll, Host und Port gebunden. Für einen Adresswechsel den Spielstand als JSON sichern und ausdrücklich wiederherstellen.
 
-## Spielen
+## Spielen und Fortschritt
 
-- **Filmgenres kombinieren:** Sci-Fi, Action, Horror, Fantasy, Komödie, Western, Drama, Abenteuer, Musik und Thriller können gemeinsam oder einzeln ausgewählt werden. „Alle Genres abwählen“ erleichtert die Einzelwahl. Vorhandene Genre-Bilder erscheinen auch in der Auswahl und den Filmkarten. Neue importierte Genres erscheinen automatisch. Einzelne Filme und Reihen dienen nur der Fortschrittsübersicht. Spielmodus, Genres, Zusatzkategorien und manuelle Schwierigkeitsstufen bleiben im Spielstand gespeichert.
-- **Schwierigkeit und Bekanntheit:** Filmreise öffnet je Genre weitere Stufen und Filmgruppen. Im Freien Spiel und der Rekordrunde sind alle Stufen und vier Bekanntheitsgruppen sofort frei kombinierbar; Auswahl und erreichte Freischaltungen bleiben gespeichert. Sichere Antworten abgeschlossener Runden aus allen Modi zählen. [Regeln und redaktionelle Einordnung der Filme](docs/Spielmodi-und-Bekanntheit.md).
-- Jede Frage zeigt ihr Genre und ihre Schwierigkeit, auch nach der Antwort. Unter Einstellungen & Daten → Hinweise an der Frage sind beide Angaben unabhängig abschaltbar; die Auswahl bleibt gespeichert.
-- **Ton & Vibration:** kurze Soundeffekte für Start, Antworten, nächste Frage, Zeitablauf und Abschluss. Ton, optionale Vibration und ein Probesignal gesammelt unter Profil → Optionen → Ton & Vibration. Kein Ton beim bloßen Seitenladen. Einstellungen bleiben im Spielstand erhalten, bei Konten auch online; Signale funktionieren auch offline. Vibration lässt sich unabhängig von der Geräteunterstützung speichern. Fehlende Schnittstellen und abgelehnte Ausgabe werden erklärt.
-- Genre-Icons zeigen Rakete (Sci-Fi), Blitz (Action), Geist (Horror) und Zauberstab (Fantasy), lächelndes Gesicht (Komödie) Cowboyhut (Western) und Theatermaske (Drama). Das vorhandene Sci-Fi-Wissensabzeichen zeigt gesperrten und erworbenen Zustand; weitere Genre-Abzeichen sind noch nicht umgesetzt.
+- **Filmreise:** neue Ziele bevorzugen und weitere Filmgruppen/Stufen je Genre freischalten. Erworbene Freischaltungen bleiben erhalten.
+- **Freies Spiel:** freie Auswahl ohne Zeitdruck und Lernstandsgewichtung.
+- **Rekordrunde:** 30 Sekunden pro Frage; Punkte und Rekordzeit bleiben von Lernfortschritt und Karriere-XP getrennt.
+- **Fehlertraining:** offene Fehler gezielt wiederholen; auch direkt aus dem Rundenergebnis.
+- **Fragenbereiche:** Filmfragen, Preisträger und Schauspieler gemeinsam oder einzeln wählen. Genres, Filmgruppen und Classics/Arthouse begrenzen nur Filmfragen.
+- **Runden:** zuerst fünf, danach bis zu zehn unterschiedliche Wissensziele. „Keine Ahnung“ ist eine ausdrückliche Fehlantwort; Lösungen sind direkt oder nach der Runde verfügbar. Erklärungen, Quellen, Fragebilanz und Filmdaten stehen passend zum jeweiligen Fragenbereich bereit.
+- **Sammlung und Karriere:** Antwortfortschritt, gefestigte Ziele, Rundenrückblicke, Level und XP. Highscores starten mit persönlichen Rekorden; öffentliche Bestenliste und angemeldeter Spielervergleich bleiben getrennt.
+- **Duell:** bestätigte Konten spielen drei gemeinsame Runden mit offenen Spielplätzen und serverseitigen Fristen. Eigene bestätigte Antworten gehen in den eigenen Lernstand ein.
 
-- Erste Runde standardmäßig fünf, weitere zehn unterschiedliche Wissensziele; kleinere Bestände verkürzen die Runde transparent.
-- **Filmreise:** tatsächlich neue Wissensziele zuerst; Wiederholungen aus den letzten drei Runden möglichst vermeiden. Neu freigeschaltete Stufen erhalten einen gezielten Einstieg. Bei kleinen Beständen sind Wiederholungen weiterhin möglich.
-- **Freies Spiel:** zufällige Wissensziele ohne Lernstandsgewichtung und Zeitdruck.
-- **Fehlertraining:** offene Fehlantworten und Zeitabläufe gezielt wiederholen, ohne Zeitdruck. Häufige und jüngste Fehler zuerst; nach einer sicheren richtigen Antwort fällt das Ziel heraus. Im Rundenergebnis direkt die Fehler dieser Runde üben.
-- **Keine Ahnung:** fünfte Auswahl in allen Modi, bewusst ohne Raten. Zählt als falsch; zunächst nur die richtige Lösung sanft hervorheben, danach Erklärung. Die bewusste Wahl bleibt in Statistik, Rückblick und Sicherungen erkennbar; Zeitabläufe bleiben getrennt.
-- **Rundenergebnis:** Trefferquote mit Antwortfolge, Fehler-/Zeitablauf-/Ratebilanz, sichere Serie, neu entdeckte Ziele, gelöste frühere Fehler und Treffer je Genre. Rückblick nach Fehlern und geratenen Treffern filterbar.
-- **Rekordrunde:** 30 Sekunden pro Frage; 100 Punkte für richtig plus 2 je vollständig verbleibender Sekunde. 25 volle Sekunden = 150 Punkte. Lokale Rekorde getrennt nach Thema, Schwierigkeit, tatsächlicher Rundengröße und Regelversion.
-- **Highscores:** startet mit „Meine Rekorde“ und kurzen Bestwert-Karten samt direktem Rückblick. Alle früheren Runden, weitere Filter und Vergleichsdetails sind aufklappbar. „Spielervergleich“ zeigt richtige Antworten, Runden oder Trefferquote aller Modi; passende Rekordpunkte separat unter „Rekordrunden“. Direkte Aktionen zur ersten Rekordauswahl und zur Anmeldung. Bestätigte Konten nehmen automatisch teil, mit Hinweis bei Registrierung und im Profil. Kategorien und Rangregeln bleiben getrennt. Browser-/Offline-Ergebnisse sind kein manipulationsgeschützter Wettbewerb.
-- Nach jeder Antwort Erklärung, optional Vertiefung, spezifisches Fehlerfeedback, Merksatz und Quellen. „War geraten“ verändert nur das Lernen, keine Punkte. Bewusster Wechsel zur nächsten Frage.
-- Alle 720 Vertiefungen auf fehlende Darstellernamen geprüft; bei 627 Fragen passende Ergänzungen mit Besetzungsquellen. Originalstimmen, Puppenspiel und Darstellerwechsel sind berücksichtigt. Rohdaten und Spielstände bleiben erhalten; [Umfang und Erklärungstiefe](docs/Erklaerungstiefe.md).
-- Sammlung mit Filter „Alle“ / „Mit beantworteten Fragen“ (richtige und falsche Antworten zählen), exklusiven Statuszahlen, maximal drei Lieblingsthemen, begrenztem Fachabzeichen und Rundenrückblick. Filmkarriere mit Leistungs-XP, steigenden Levelhürden, fünf Titeln, sichtbarem XP-Balken und erhaltenen Altständen; Karriereaufträge bleiben offen. [Regeln](docs/Filmkarriere-und-XP.md).
-- Meldungen werden nur lokal gespeichert und können exportiert werden.
+Die maßgeblichen Regeln stehen in [Lernregeln](docs/Lernregeln.md), [Fragenbereichen und Bekanntheit](docs/Spielmodi-und-Bekanntheit.md), [Filmkarriere](docs/Filmkarriere-und-XP.md) und [Filmduellen](docs/Asynchrone-Filmduelle.md). Profil → Optionen enthält Ton/Vibration, Hinweise, Lösungsausgabe, Datenexport, geprüfte Wiederherstellung und CSV-Import. [Importformat](docs/Importformat.md) beschreibt IDs, Varianten und Originalspalten; Rohquellen werden unverändert erhalten.
 
-## Enthaltene Fragen
+## Speicherung und Offlinebetrieb
 
-Die gelieferte **SciFi_Quiz_180_Fragen.csv** ist das Standardpaket: **180 Fragen, 150 Wissensziele, 30 Varianten, 39 Themen**. **180 akzeptiert, 0 ausgeschlossen, 0 doppelte IDs.** Alle Erklärungen und Quellenangaben stammen aus dieser CSV. Die Originaldatei liegt unverändert unter `KI-Wissen-Wissensquiz/01 Rohquellen/`; das ausgelieferte Paket unter `public/fragen.csv` ist bytegleich.
+Der Gaststand bleibt lokal in IndexedDB. Angemeldete Konten werden nach lokaler Speicherung automatisch privat in Supabase gesichert; Revisionen verhindern stilles Überschreiben konkurrierender Stände. Konto und Gast bleiben getrennt. Vor Gerätewechsel die aktuelle Onlinebestätigung abwarten. Der Struktur-Worktree ergänzt Wartegrenzen, Datum der letzten Bestätigung, exportierbare Rückfallkopien und einen erneuten Kontodienstabruf; [Vertrag](docs/Konten-und-Spielstaende.md).
 
-Zusätzlich enthalten: **Action_Quiz_180_Fragen.csv**, ebenfalls unverändert, mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 17 Themen**. Keine Ausschlüsse oder ID-Konflikte. Zusammen **360 Fragen, 300 Wissensziele und 56 Themen**. Das Action-Paket wird bei vorhandenen Sci-Fi-Spielständen beim nächsten App-Start ergänzt; Runden und Lernstände bleiben erhalten. [Action-Importbericht](docs/importbericht-action.json).
-
-Neu enthalten: **Horror_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 20 Themen**. Keine Ausschlüsse, Warnungen oder ID-Konflikte mit den bisherigen Paketen. Insgesamt **540 Fragen, 450 Wissensziele und 76 Themen**. Das Horror-Paket ergänzt bestehende Sci-Fi-/Action-Spielstände beim App-Start transaktional und gehört zum Offline-Paket. [Horror-Importbericht](docs/importbericht-horror.json). Seit 26.09.2026 als private Sites-Version 3 live. Für ein wartendes App-Update alle bisherigen Quiz-Fenster schließen und die Adresse neu öffnen.
-
-Zusätzlich enthalten: **Fantasy_Quiz_180_Fragen.csv**, unverändert mit **180 Fragen, 150 Wissenszielen, 30 Varianten und 12 Themen**, darunter Der Herr der Ringe, Harry Potter und Die Chroniken von Narnia. Keine Ausschlüsse, Warnungen oder ID-Konflikte. Mit Fantasy umfasst der Bestand **720 Fragen, 600 Wissensziele und 88 Themen**. Fantasy ist als eigenes Genre mit anderen Genres kombinierbar und offline verfügbar. Bestehende Fragen, Runden, Lernstände und Einstellungen bleiben erhalten. [Fantasy-Importbericht](docs/importbericht-fantasy.json).
-
-Neu hinzugekommen sind **Komoedie_Quiz_180_Fragen.csv** und **Western_Quiz_180_Fragen.csv**, jeweils mit 180 Fragen, 150 Wissenszielen, 30 Varianten und 25 Themen. Beide Quellen sind unverändert; alle Datensätze strukturell akzeptiert, ohne Warnungen oder ID-Konflikte. Gesamtbestand: **1.080 Fragen, 900 Wissensziele, 180 Varianten und 138 Themen**. Automatische Ergänzung bestehender Stände und Offline-Cache sind eingebunden. Die redaktionelle Darstellerprüfung der bisherigen 720 Fragen wird dadurch nicht auf die neuen 360 Fragen ausgeweitet. [Komödie-Bericht](docs/importbericht-komoedie.json), [Western-Bericht](docs/importbericht-western.json).
-
-Neu enthalten: **Drama_Quiz_180_Fragen.csv** mit 180 Fragen, 150 Wissenszielen, 30 Varianten und 25 Themen. Vollständig ohne Warnungen oder ID-Konflikte importiert; Rohquelle unverändert. Aktueller Gesamtbestand: **1.260 Fragen, 1.050 Wissensziele, 210 Varianten und 163 Themen**. Drama erscheint in Genreauswahl, Lernpfad und Spielerlisten und ist offline verfügbar. Bestehende Spielstände werden automatisch um das Paket ergänzt. [Drama-Bericht](docs/importbericht-drama.json). Keine unabhängige fachliche Prüfung der neuen Inhalte.
-
-`verification_status=redaktionell_geprueft` ist eine Angabe der gelieferten Datei. Eine unabhängige Prüfung aller Filmaussagen oder verlinkten Seiten wurde nicht durchgeführt. Darstellerergänzungen werden getrennt von den Rohfragen gepflegt; Fehlererklärungen bleiben unverändert.
-
-Die separat herunterladbare `public/demo-fragen.csv` enthält zwölf selbst verfasste und gekennzeichnete Demo-Fragen als Formatbeispiel. **Diese sind im Standardbestand nicht aktiviert.** Bei manuellem Import bleibt ihre Demo-Kennzeichnung erhalten.
-
-Details: [Importformat und Feldzuordnung](docs/Importformat.md), [maschineller Importbericht](docs/importbericht.json).
-
-## Weitere CSV-Dateien
-
-Unter **Einstellungen & Daten → Fragen hinzufügen** Datei auswählen, Vorschau prüfen und gültige Fragen übernehmen. UTF-8/BOM, Komma, Semikolon, Tabulator und Pipe werden erkannt; gequotete Trennzeichen, doppelte Anführungszeichen und mehrzeilige Felder unterstützt.
-
-Pflichtspalten: `question_id, question, answer_a, answer_b, answer_c, answer_d, correct_answer, explanation_short`. `correct_answer` akzeptiert A–D, `answer_a`–`answer_d` oder den exakten eindeutigen Antworttext. `knowledge_id` und `variant_of` werden ausgewertet; ohne belastbare Zuordnung entstehen stabile Ziele `question:<question_id>`.
-
-Vorhandene Fragen-IDs werden mit Bericht übersprungen, niemals automatisch überschrieben. Eine Inhaltserneuerung mit derselben ID ist in Version 1 bewusst kein Importmodus. Sicherheitskopie und gezielte Migration sind dafür erforderlich.
-
-## Lernen, Speicherung und Offline
-
-Sichere fällige Antworten erhöhen die Lernstufe höchstens einmal pro lokalem Kalendertag. Abstände: **1, 3, 7, 21 Tage**. „Gefestigt“ erfordert mindestens vier sichere Lerntage und eine sichere Wiederholung nach mindestens sieben Tagen seit der letzten Antwort auf dieses Wissensziel, einschließlich früher Zwischenantworten. Falsch: Wiederholung nach zehn Minuten. Geraten: sechs Stunden. Beides setzt die aktuelle Stufe auf „entdeckt“ zurück; erworbene Abzeichen bleiben erhalten. Details: [Lern- und Speichervertrag](docs/Lernregeln.md).
-
-IndexedDB speichert Fragen, Inhaltsversionen, Rundensnapshots, eindeutige Antwort-/Lernereignisse, Fortschritt, Termine, XP, Rekorde, Abzeichen, Einstellungen und Meldungen atomar. Schreibfehler werden angezeigt. **Regelmäßig JSON exportieren**, besonders vor Browserbereinigung oder einem Adresswechsel. Der validierte Wiederimport ersetzt erst nach ausdrücklicher Bestätigung den Stand; Zurücksetzen erfordert `LÖSCHEN`.
-
-Der lokale Fragenkatalog liegt getrennt vom Fortschritt und wird bei Antworten nicht erneut geschrieben. Verlustfreie Metadatenverweise reduzieren seine JSON-Nutzdaten um 26,64 %. Neue Solorunden speichern nur ihre benötigten Ausgangslernstände. `npm run check:questions` prüft Quellen, IDs, Rekonstruktion und Größen; [Speicherlayout und Nachweise](docs/Fragedaten-Organisation.md).
-
-Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach bestätigtem Paketdownload sind Oberfläche, Fragen und Erklärungen offline verfügbar. Updates warten auf das Schließen aller alten App-Fenster. Aktive Rekordrunden werden nach Neuladen/Browserneustart als abgebrochen behandelt; unbeantwortete Fragen erhalten keine neue Zeit. Entspannte Runden sind fortsetzbar.
-
-**PWA/Offline auf Smartphones benötigt HTTPS.** Die Sites-Adresse bietet HTTPS. Die HTTP-Heimnetzvorschau unterstützt Spielen und Fortschritt, aber keine Service-Worker-Installation. Auf `localhost` ist Offlinebetrieb getestet; die Installation auf einem physischen Smartphone und unter der Sites-Adresse ist noch zu prüfen. Externe Quellenlinks benötigen weiterhin Netz.
-
-**Sites:** Die App ist über `.openai/hosting.json` mit der öffentlich erreichbaren Site „Wissensquiz – Dein Filmkosmos“ verknüpft. Die erste Veröffentlichung wurde am 26.09.2026 von Sites als erfolgreich bestätigt. Veröffentlicht wird der statische Produktions-Build aus `dist/`; keine Nutzerspielstände werden übertragen. Die aktivierte Supabase-Anbindung sichert Kontostände automatisch; Gaststände werden beim Adresswechsel per JSON übertragen. [Veröffentlichungsablauf](docs/Sites-Betrieb.md).
+Lokaler Katalog und Fortschritt liegen getrennt in IndexedDB-Version 2; vollständige JSON-Sicherungen behalten Schema 1 und historische Rundensnapshots. Die PWA hält App-Dateien, Nebenansichten und Fragenpakete offline bereit. Ein neues Update aktiviert erst nach dem Schließen alter Quiz-Fenster. Private Spielstände sind kein Teil der Veröffentlichungsdateien. [Datenorganisation](docs/Fragedaten-Organisation.md).
 
 ## Projektaufbau
 
-| Ort | Aufgabe |
+| Bereich | Zuständigkeit |
 | --- | --- |
-| `src/model.ts` | Datenmodell und Fragenvalidierung |
-| `src/importer.ts` | CSV, ID-/Variantenauflösung, Importbericht |
-| `src/engine.ts` | Auswahl, Lernregeln, Punkte und idempotente Rundenaktionen |
-| `src/storage.ts` | IndexedDB-Transaktionen, Sicherungsvalidierung, Export/Import |
-| `src/App.tsx`, `src/style.css` | Oberfläche und responsive Gestaltung |
-| `src/AccountApp.tsx`, `src/AccountGame.tsx`, `src/accountSync.ts`, `src/accounts.ts`, `supabase/` | Optionale Konten, getrennte Speicher, Datenbankregeln und Mailvorlagen |
-| `src/offline.ts`, `scripts/build-sw.mjs` | Paketstatus und sicher wartende App-Updates |
-| `public/fragen.csv`, `public/action-fragen.csv`, `src/packages.ts` | Gelieferte Standardpakete und transaktionale Ergänzung |
-| `public/horror-fragen.csv` | Unverändertes Horror-Paket, ebenfalls automatisch ergänzt und offline verfügbar |
-| `public/fantasy-fragen.csv` | Unverändertes Fantasy-Paket, automatisch ergänzt und offline verfügbar |
-| `public/komoedie-fragen.csv`, `public/western-fragen.csv` | Unveränderte Zusatzpakete, automatisch ergänzt und offline verfügbar |
-| `public/drama-fragen.csv` | Unverändertes Drama-Paket mit automatischer Ergänzung und Offline-Unterstützung |
-| `tests/` | Logik-, Persistenz- und Browserprüfungen |
+| `src/App.tsx` und Seitenkomponenten | Navigation, lokaler Zustand und sichtbare Ansichten |
+| `src/QuestionScreen.tsx`, `RoundResult.tsx`, `Explanation.tsx` | Gemeinsame Solo-/Duell-Spielansichten |
+| `src/engine.ts` und Fachmodule | Auswahl, Antworten, Lernen, Fehlertraining, Karriere und Freischaltungen |
+| `src/questionSchema.ts`, `backupSchema.ts`, `backupValidation.ts` | Gemeinsame Typ-/Sicherungsverträge und fachliche Validierung |
+| `src/storage.ts`, `localCatalog.ts`, `catalogCodec.ts` | Transaktionen und verlustfreie lokale Kodierung |
+| `src/AccountApp.tsx`, `AccountPanel.tsx`, `AccountLinkPanel.tsx` | Kontosteuerung, Profil-/Anmeldeformular und Rückkehr aus Kontolinks |
+| `src/accounts.ts`, `accountSync.ts` | Kontodienst, privater Fortschritt und Revisionsschutz |
+| `src/style.css`, `src/styles/` | Dokumentierte CSS-Importfolge mit erhaltener Kaskade |
+| `public/`, `scripts/build-sw.mjs` | Auslieferbare Fragen/Assets und vollständiges Offline-Paket |
+| `docs/`, `KI-Wissen-Wissensquiz/` | Fachverträge, Quellen, Wissen und datierte Nachweise |
 
-## Prüfen
+## Prüfen und weiterarbeiten
 
 ```powershell
 npm test
 npm run build
-npx playwright install chromium webkit
 npm run test:browser
-npm audit
+git diff --check
 ```
 
-Tests verwenden isolierte Browserprofile und kontrollierte Testzeiten. Produktive Nutzerstände werden nicht verwendet. Tatsächliche Ergebnisse und Grenzen: [Prüfbericht](docs/Pruefbericht.md).
+Browserprüfungen verwenden isolierte Profile, kontrollierte Zeit und abgefangene Kontodienste. Bei Abhängigkeitsänderungen zusätzlich `npm audit`. Für Quellenorganisation: `npm run check:questions`; daraus erzeugte Berichte nur bei einem tatsächlichen Datenprüfauftrag übernehmen.
 
-Git: lokales Repository mit GitHub-Remote `origin` ([LevelX2/Wissensquiz](https://github.com/LevelX2/Wissensquiz)); Integrationsbranch `main`. Push und Pull Requests nur nach ausdrücklichem Auftrag. [Projektwissen](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md).
-
-Die optionale [Kontenanbindung](docs/Konten-und-Spielstaende.md) bietet Spielername, E-Mail/Passwort, Bestätigung, Reset und automatisches Online-Sichern/Laden über Supabase. Supabase Free in Frankfurt, Brevo SMTP und deutsche Mailvorlagen sind eingerichtet. **Konten aktiviert.** Echte Bestätigungsmail und Kontoaktivierung erfolgreich geprüft; Passwort-Reset und Anmeldung am Handy vom Nutzer erfolgreich bestätigt; echte geräteübergreifende Spielstandsabnahme weiterhin offen. Alle Passwortfelder besitzen eine Anzeigeoption mit Auge. Angemeldete Spieler laden bei Anmeldung/Neuladen automatisch ihren Stand; lokale Änderungen werden automatisch gesichert. Vor Gerätewechsel auf die Speicherbestätigung warten. Konflikte zwischen Geräten werden ohne stilles Überschreiben angezeigt. Bisherige Gastspielstände bleiben lokal erhalten; keine automatische Übertragung. [Einrichtung mit SQL und Mailvorlagen](docs/Konten-Einrichtung.md). Das Profil zeigt Spiel- und Antwortstatistiken, Trefferquote, Level und XP. Zusätzliche Spielerranglisten vergleichen abgeschlossene Runden, richtige Antworten und Trefferquote (ab 50 Antworten), filterbar nach Genre und Schwierigkeit. Die gemeinsame Trainingsrangliste umfasst automatisch bestätigte Konten; ein serverseitig kontrollierter Wettbewerb bleibt offen.
-
-Die Oberfläche verwendet helle Leseflächen mit dunkler Schrift. Während einer Runde sind Abstände und Antworten kompakter; Erklärungen, Vertiefungen, Merksätze und Quellen bleiben erhalten. Die mobile Navigation hat fünf Einträge in einer Zeile, darunter Highscores und Profil. „Profil → Optionen“ öffnet die zentrale Einstellungsseite; die dauernde Online-Anzeige entfällt. Offlinezustand und Kontosynchronisierung bleiben erkennbar, ausführlicher Paketstatus steht unter Einstellungen.
-
-Filmtitel in Fragen werden mit dunkler Akzentfarbe auf hellem Gold hervorgehoben; die umschließenden Anführungszeichen entfallen nur in der Anzeige. Jahr und Frage bleiben im selben Textfluss. Sieben freigestellte [Genreillustrationen](docs/Genreillustrationen.md) verbessern die Erkennbarkeit der großen Themenkarten und sind im Offline-Paket enthalten. Kleine Auswahl-Icons bleiben SVG-Symbole.
-
-Die offline verfügbare Hilfe „So funktioniert’s“ ist im Profil und im Seitenfuß erreichbar. Sie erklärt Lernstufen mit Zeitbeispiel, Wissensziele, Modi, Lernpfad, Punkte, Abzeichen, Highscores und Speicherung. [Navigation und Hilfekonzept](docs/Hilfe-und-Navigation.md).
-
-Neue Lernpfad-Stufen werden beim Rundenabschluss mit einer kurzen Freischaltfeier ausgezeichnet: aufspringendes Schloss, Feuerwerk, große Stufenanzeige und Fanfare. Ton/Vibration bleiben einstellbar; reduzierte Bewegung wird respektiert. Alte Rundenergebnisse spielen die Feier nicht erneut ab.
-
-
-Der kompakte Spieleinstieg bietet „Losspielen“ direkt unter der Moduswahl. Classics und Arthouse sind kuratierte Zusatzkategorien innerhalb der gewählten Genres; beide zusammen bilden eine Vereinigung ohne Fragekopien. Aktuell: elf Pakete, 1.980 Fragen und 1.650 Wissensziele. Die neuen Genres heißen Martial Arts & Asia-Film und Rom-Com. Alle gelieferten Bestandszuordnungen sind aufgelöst. Details unter [Importformat](docs/Importformat.md).
-
-
-In Filmreise und Freiem Spiel zeigt jede Frage ihre persönliche Antwortbilanz (beantwortet, richtig, falsch). Aufklappbar: Zeitabläufe, geratene Treffer und gemeinsame Statistik mit Wiederholungsvarianten. Bestehende Antworten zählen automatisch mit.
-
-Die Fragenstatistik erscheint standardmäßig erst nach der Antwort. Unter Profil → Optionen lässt sie sich auf „Immer anzeigen“ umstellen oder ausblenden. Die Auswahl wird mit dem Spielstand gesichert; ältere Spielstände verwenden „Nach der Antwort“.
-
-Spielmodi mit eigenen transparenten Illustrationen: Filmreise (Lupe mit Stern), Freies Spiel (Stufen mit Stern), Rekordrunde (Pokal mit Stoppuhr). Die Startseite erhält eine helle Kino-Kulisse; Spielansicht und Daten bleiben unverändert. Losspielen bleibt direkt unter den Moduskarten. Alle neuen Bilder sind im Offline-Paket enthalten; die Auswahl ist weiterhin per Tastatur und mit sichtbarer Markierung bedienbar.
-
-Zusätzlich 587 Jahres-/Regiefragen direkt in den vorhandenen Genres: insgesamt 2.567 Fragen und 2.237 Wissensziele. Jahresfragen ohne verratende Jahresangabe, wechselnde plausible Alternativen zwischen Runden und stabile Antworten beim Fortsetzen. Nach der Antwort aufklappbare Filmdaten für alle 300 Filme mit Regie, Originaltitel, Jahr, Produktionsländern und gegebenenfalls Teilnummer. Fortschrittsanzeige mit Grün/Häkchen, Rot/Kreuz, grauen offenen Fragen und markierter aktueller Frage. [Details und Quellen](docs/Filmwissen-und-Filmdaten.md).
+Aktueller Nachweis und Grenzen: [Struktur-Abnahme](docs/Strukturverbesserungen-Abnahme.md), [Prüfbericht](docs/Pruefbericht.md), [Qualitätsprozess](KI-Wissen-Wissensquiz/03%20Betrieb/Qualitaetspruefung.md). Projektregeln: [AGENTS.md](AGENTS.md); Einstieg: [Projektstart](KI-Wissen-Wissensquiz/00%20Projektstart.md) und [Wissensindex](KI-Wissen-Wissensquiz/02%20Wissen/00%20Uebersichten/Index.md). Remote, Push, Integration und Veröffentlichung benötigen den jeweils ausdrücklichen Auftrag.

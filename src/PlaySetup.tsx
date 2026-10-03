@@ -4,13 +4,7 @@ import { discoveryContext } from "./discovery";
 import { errorTrainingContext } from "./errorTraining";
 import { useForegroundTime } from "./useForegroundTime";
 import { familiarities, familiarityLabel } from "./familiarity";
-import {
-  type Mode,
-  type Question,
-  type Round,
-  type State,
-  type RoundSetup,
-} from "./model";
+import { type Mode, type Round, type State, type RoundSetup } from "./model";
 import {
   difficulties,
   difficultyLabel,
@@ -21,7 +15,7 @@ import {
 import { GenreArtwork } from "./Icons";
 import { RoundGuide } from "./RoundGuide";
 import { SolutionChoice } from "./SolutionChoice";
-import { categories, filmCategories } from "./categories";
+import { filmCategories } from "./categories";
 import { LearningPath } from "./LearningPathPanel";
 import type { QuestionSource, SolutionDisplay } from "./model";
 import type { Page, DuelPage, Mutate } from "./uiTypes";

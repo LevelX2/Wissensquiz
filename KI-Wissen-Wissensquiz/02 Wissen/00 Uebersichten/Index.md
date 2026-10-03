@@ -9,6 +9,8 @@
 
 ## Spielbare Testversion
 
+- [Strukturverbesserungen: Pakete, Grenzen und Freigabestatus](../../../docs/Strukturverbesserungen-Prozess.md)
+- [Abnahmebericht der umgesetzten Strukturverbesserungen](../../../docs/Strukturverbesserungen-Abnahme.md)
 - [Strukturprüfung vom 03.10.2026: Modulgrenzen, Kontosicherung und priorisierte Verbesserungen](../../../docs/Strukturpruefung-2026-10-03.md)
 
 - [Fragedatenorganisation: getrennter lokaler Katalog, verlustfreie Metadatenverweise und schnellere Zuordnungen](../../../docs/Fragedaten-Organisation.md)

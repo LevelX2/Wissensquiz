@@ -2,7 +2,7 @@ import { useMemo } from "react";
 import { catalogIndex } from "./catalogIndex";
 import { answeredTopics } from "./collection";
 import { badgeEligible } from "./engine";
-import { type Round, type State, type RoundSetup } from "./model";
+import { type State, type RoundSetup } from "./model";
 import { roundGenres, roundDifficulties } from "./filters";
 import { BadgeIcon } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";

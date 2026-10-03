@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { catalogIndex } from "./catalogIndex";
-import { type Question, type State, type RoundSetup } from "./model";
+import { type State, type RoundSetup } from "./model";
 import { genreLabel } from "./filters";
 import { categories, type Category, ACTORS } from "./categories";
 import type { Page } from "./uiTypes";
