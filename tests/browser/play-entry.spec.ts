@@ -115,7 +115,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     "Schwierigkeit: Leicht",
   );
   const stored = await readStoredState(page);
-  expect(stored.rounds.at(-1)!.topic).toBe("Classics");
+  expect(stored.rounds.at(-1)!.topic).toBe("Filmfragen + Classics");
   expect(
     stored.rounds
       .at(-1)!

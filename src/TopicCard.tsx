@@ -1,43 +1,29 @@
 import { type Question, type State } from "./model";
-import { genreOf, genreLabel, questionSourceOf } from "./filters";
+import { genreOf, genreLabel } from "./filters";
 import { GenreArtwork } from "./Icons";
-import { categories, type Category, ACTORS, matchesTopic } from "./categories";
+import { categories, type Category, ACTORS } from "./categories";
 
 export function TopicCard({
   topic,
   state,
   onPlay,
   onBrowse,
-  questions = state.questions,
+  questions,
   genre = false,
 }: {
   topic: string;
   state: State;
   onPlay?: () => void;
   onBrowse?: () => void;
-  questions?: Question[];
+  questions: Question[];
   genre?: boolean;
 }) {
   const cardGenres = categories.includes(topic as Category)
     ? [topic]
     : genre
       ? [topic]
-      : [
-          ...new Set(
-            questions.filter((q) => matchesTopic(q, topic)).map(genreOf),
-          ),
-        ].sort();
-  const ids = [
-    ...new Set(
-      questions
-        .filter((q) =>
-          genre
-            ? questionSourceOf(q) === "film" && genreOf(q) === topic
-            : matchesTopic(q, topic),
-        )
-        .map((q) => q.knowledgeId),
-    ),
-  ];
+      : [...new Set(questions.map(genreOf))].sort();
+  const ids = [...new Set(questions.map((q) => q.knowledgeId))];
   const counts = ["entdeckt", "geübt", "gefestigt"].map(
     (status) =>
       ids.filter((id) => state.learning[id]?.status === status).length,

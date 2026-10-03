@@ -1,3 +1,8 @@
+import { selectQuestions } from "./engine";
+import { pathQuestions } from "./learningPath";
+import { discoveryContext } from "./discovery";
+import { errorTrainingContext } from "./errorTraining";
+import { useForegroundTime } from "./useForegroundTime";
 import { familiarities, familiarityLabel } from "./familiarity";
 import {
   type Mode,
@@ -24,11 +29,9 @@ import { modeNames } from "./gameUi";
 import type * as React from "react";
 
 export function PlaySetup({
-  completed,
   mode,
   busy,
   changeSetup,
-  selection,
   active,
   begin,
   roundTopic,
@@ -43,17 +46,13 @@ export function PlaySetup({
   mutate,
   nav,
   resume,
-  targetSize,
   toggleGenre,
   selectedCategories,
-  mastered,
   setPage,
 }: {
-  completed: Round[];
   mode: Mode;
   busy: boolean;
   changeSetup: (patch: Partial<RoundSetup>) => Promise<State | null>;
-  selection: Question[];
   active: Round | undefined;
   begin: () => Promise<void>;
   roundTopic: string;
@@ -75,14 +74,33 @@ export function PlaySetup({
   mutate: Mutate;
   nav: (next: Page | DuelPage) => Promise<void>;
   resume: () => void;
-  targetSize: 10 | 5;
   toggleGenre: (genre: string) => undefined;
   selectedCategories: (
     "Classics" | "Arthouse" | "Preisträger" | "Schauspieler"
   )[];
-  mastered: number;
   setPage: React.Dispatch<React.SetStateAction<Page | "duels">>;
 }) {
+  const completed = state.rounds.filter((r) => r.status === "completed");
+  const targetSize = completed.length ? 10 : 5;
+  const mastered = Object.values(state.learning).filter(
+    (p) => p.status === "gefestigt",
+  ).length;
+  const now = useForegroundTime();
+  const selection = selectQuestions(
+    pathQuestions(state, mode),
+    state.learning,
+    {
+      mode,
+      topic: roundTopic,
+      difficulty: "Alle Stufen",
+      filters,
+      size: targetSize,
+      now,
+      ...(mode === "entdecken" ? discoveryContext(state) : {}),
+      ...(mode === "fehler" ? errorTrainingContext(state) : {}),
+    },
+    () => 0.5,
+  );
   return (
     <>
       <header className="play-heading">

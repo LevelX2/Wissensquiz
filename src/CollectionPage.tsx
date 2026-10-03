@@ -1,3 +1,6 @@
+import { useMemo } from "react";
+import { catalogIndex } from "./catalogIndex";
+import { answeredTopics } from "./collection";
 import { badgeEligible } from "./engine";
 import { type Round, type State, type RoundSetup } from "./model";
 import { roundGenres, roundDifficulties } from "./filters";
@@ -12,29 +15,36 @@ import type * as React from "react";
 
 export function CollectionPage({
   state,
-  mastered,
   answeredOnly,
   setAnsweredOnly,
-  albumTopics,
-  topics,
-  completed,
   setRoundId,
   setPage,
   nav,
   changeSetup,
 }: {
   state: State;
-  mastered: number;
   answeredOnly: boolean;
   setAnsweredOnly: React.Dispatch<React.SetStateAction<boolean>>;
-  albumTopics: string[];
-  topics: string[];
-  completed: Round[];
   setRoundId: React.Dispatch<React.SetStateAction<string>>;
   setPage: React.Dispatch<React.SetStateAction<Page | "duels">>;
   nav: (next: Page | DuelPage) => Promise<void>;
   changeSetup: (patch: Partial<RoundSetup>) => Promise<State | null>;
 }) {
+  const catalog = useMemo(
+    () => catalogIndex(state.questions),
+    [state.questions],
+  );
+  const topics = catalog.topics;
+  const startedTopics = answeredOnly
+    ? answeredTopics(state)
+    : new Set<string>();
+  const albumTopics = topics.filter(
+    (t) => !answeredOnly || startedTopics.has(t),
+  );
+  const completed = state.rounds.filter((r) => r.status === "completed");
+  const mastered = Object.values(state.learning).filter(
+    (p) => p.status === "gefestigt",
+  ).length;
   return (
     <>
       <span className="eyebrow">DAS BLEIBT BEI DIR</span>
@@ -120,7 +130,12 @@ export function CollectionPage({
       )}
       <div className="topic-grid">
         {albumTopics.map((t) => (
-          <TopicCard key={t} topic={t} state={state} />
+          <TopicCard
+            key={t}
+            topic={t}
+            state={state}
+            questions={catalog.forTopic(t)}
+          />
         ))}
       </div>
       {(new Set(state.questions.filter(badgeEligible).map((q) => q.knowledgeId))

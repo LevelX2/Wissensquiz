@@ -1,6 +1,13 @@
 import { familiarities } from "./familiarity";
-import { useContext, useEffect, useRef, useState, type ReactNode } from "react";
-import { complete, rebuild, selectQuestions, startRound } from "./engine";
+import {
+  useContext,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+  type ReactNode,
+} from "react";
+import { complete, rebuild, startRound } from "./engine";
 import { emptyState, type Round, type State, type RoundSetup } from "./model";
 import { difficulties, genreOf, questionSourceOf } from "./filters";
 import { read as readStored, update as updateStored } from "./storage";
@@ -11,22 +18,12 @@ import { GuestActivityReporter } from "./guestActivityDelivery";
 import { Help } from "./Help";
 import { DuelCenter } from "./DuelCenter";
 import { readRoundSetup } from "./roundSetup";
-import { errorTrainingContext } from "./errorTraining";
 import { careerProgress } from "./career";
 import { CareerProgress } from "./CareerProgress";
-import { answeredTopics } from "./collection";
-import {
-  categories,
-  type Category,
-  selectionTopic,
-  ACTORS,
-  matchesCategories,
-} from "./categories";
-import { discoveryContext } from "./discovery";
+import { type Category, selectionTopic, ACTORS } from "./categories";
 import { UnlockCelebration } from "./UnlockCelebration";
 import {
   learningPathProgress,
-  pathQuestions,
   retainJourneyUnlocks,
   newlyUnlocked,
   type PathUnlock,
@@ -214,6 +211,21 @@ export function App({
     window.addEventListener("hashchange", invitation);
     return () => window.removeEventListener("hashchange", invitation);
   }, [page]);
+  const genres = useMemo(
+    () =>
+      state
+        ? [
+            ...new Set(
+              state.questions
+                .filter((q) => questionSourceOf(q) === "film")
+                .map(genreOf),
+            ),
+          ]
+            .filter((genre) => genre !== ACTORS)
+            .sort()
+        : [],
+    [state?.questions],
+  );
   if (!state)
     return (
       <main className="loading">
@@ -256,30 +268,6 @@ export function App({
       setPendingSetup(null);
     }
   };
-  const topics = [...new Set(state.questions.map((q) => q.topic))].sort();
-  const startedTopics =
-    page === "album" ? answeredTopics(state) : new Set<string>();
-  const albumTopics = topics.filter(
-    (t) => !answeredOnly || startedTopics.has(t),
-  );
-  const genres = [
-    ...new Set(
-      state.questions
-        .filter((q) => questionSourceOf(q) === "film")
-        .map(genreOf),
-    ),
-  ]
-    .filter((genre) => genre !== ACTORS)
-    .sort();
-  const browseQuestions =
-    page === "topics" && topicScope
-      ? state.questions.filter((q) =>
-          topicScope.kind === "genre"
-            ? questionSourceOf(q) === "film" && genreOf(q) === topicScope.name
-            : matchesCategories(q, [topicScope.name]),
-        )
-      : [];
-  const browseTopics = [...new Set(browseQuestions.map((q) => q.topic))].sort();
   const filters = {
     genres: (selectedGenres ?? genres).filter((genre) => genre !== ACTORS),
     sources: selectedSources,
@@ -300,26 +288,9 @@ export function App({
     )
       setPage("home");
   };
-  const completed = state.rounds.filter((r) => r.status === "completed");
   const active = state.rounds.find((r) => r.status === "active");
   const current = state.rounds.find((r) => r.id === roundId);
-  const targetSize = completed.length ? 10 : 5;
   const roundTopic = selectionTopic(selectedCategories, selectedSources);
-  const selection = selectQuestions(
-    pathQuestions(state, mode),
-    state.learning,
-    {
-      mode,
-      topic: roundTopic,
-      difficulty: "Alle Stufen",
-      filters,
-      size: targetSize,
-      now: Date.now(),
-      ...(mode === "entdecken" ? discoveryContext(state) : {}),
-      ...(mode === "fehler" ? errorTrainingContext(state) : {}),
-    },
-    () => 0.5,
-  );
   const begin = async () => {
     unlockSound(state.settings);
     let id = "";
@@ -368,9 +339,6 @@ export function App({
       setPage("round");
     }
   };
-  const mastered = Object.values(state.learning).filter(
-    (p) => p.status === "gefestigt",
-  ).length;
   return (
     <div
       className={`app-shell ${page === "round" || duelPlaying ? "is-playing" : ""}`}
@@ -466,11 +434,9 @@ export function App({
             )}
           {page === "home" && (
             <PlaySetup
-              completed={completed}
               mode={mode}
               busy={busy}
               changeSetup={changeSetup}
-              selection={selection}
               active={active}
               begin={begin}
               roundTopic={roundTopic}
@@ -485,10 +451,8 @@ export function App({
               mutate={mutate}
               nav={nav}
               resume={resume}
-              targetSize={targetSize}
               toggleGenre={toggleGenre}
               selectedCategories={selectedCategories}
-              mastered={mastered}
               setPage={setPage}
             />
           )}
@@ -496,9 +460,7 @@ export function App({
             <TopicsPage
               topicScope={topicScope}
               setTopicScope={setTopicScope}
-              browseTopics={browseTopics}
               state={state}
-              browseQuestions={browseQuestions}
               changeSetup={changeSetup}
               setPage={setPage}
               genres={genres}
@@ -508,12 +470,8 @@ export function App({
           {page === "album" && (
             <CollectionPage
               state={state}
-              mastered={mastered}
               answeredOnly={answeredOnly}
               setAnsweredOnly={setAnsweredOnly}
-              albumTopics={albumTopics}
-              topics={topics}
-              completed={completed}
               setRoundId={setRoundId}
               setPage={setPage}
               nav={nav}

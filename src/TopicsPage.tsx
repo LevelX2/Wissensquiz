@@ -1,3 +1,5 @@
+import { useMemo } from "react";
+import { catalogIndex } from "./catalogIndex";
 import { type Question, type State, type RoundSetup } from "./model";
 import { genreLabel } from "./filters";
 import { categories, type Category, ACTORS } from "./categories";
@@ -8,9 +10,7 @@ import type * as React from "react";
 export function TopicsPage({
   topicScope,
   setTopicScope,
-  browseTopics,
   state,
-  browseQuestions,
   changeSetup,
   setPage,
   genres,
@@ -27,14 +27,26 @@ export function TopicsPage({
       | null
     >
   >;
-  browseTopics: string[];
   state: State;
-  browseQuestions: Question[];
   changeSetup: (patch: Partial<RoundSetup>) => Promise<State | null>;
   setPage: React.Dispatch<React.SetStateAction<Page | "duels">>;
   genres: string[];
   playGenre: (genre: string) => Promise<void>;
 }) {
+  const catalog = useMemo(
+    () => catalogIndex(state.questions),
+    [state.questions],
+  );
+  const browseQuestions = topicScope
+    ? ((topicScope.kind === "genre" ? catalog.genres : catalog.curated).get(
+        topicScope.name,
+      ) ?? [])
+    : [];
+  const scoped = useMemo(
+    () => catalogIndex(browseQuestions),
+    [browseQuestions],
+  );
+  const browseTopics = scoped.topics;
   return (
     <>
       {topicScope ? (
@@ -61,7 +73,7 @@ export function TopicsPage({
                 key={t}
                 topic={t}
                 state={state}
-                questions={browseQuestions}
+                questions={scoped.forTopic(t)}
               />
             ))}
           </div>
@@ -83,6 +95,7 @@ export function TopicsPage({
                 key={category}
                 topic={category}
                 state={state}
+                questions={catalog.curated.get(category) ?? []}
                 onBrowse={() =>
                   setTopicScope({ kind: "category", name: category })
                 }
@@ -112,6 +125,7 @@ export function TopicsPage({
                 topic={t}
                 genre
                 state={state}
+                questions={catalog.genres.get(t) ?? []}
                 onPlay={() => playGenre(t)}
                 onBrowse={() => setTopicScope({ kind: "genre", name: t })}
               />
