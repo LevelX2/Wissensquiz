@@ -9,8 +9,10 @@ import {
   duelViewSchema,
   duelRoundId,
   duelScreen,
+  duelReviewRound,
 } from "../src/duels";
 import { validateBackup } from "../src/storage";
+import { archiveClosedRounds } from "../src/roundArchive";
 const db = new PGlite();
 const alice = "11111111-1111-4111-8111-111111111111",
   bob = "22222222-2222-4222-8222-222222222222",
@@ -189,6 +191,24 @@ it("hält gesammelte Lösungen bis zur eigenen zehnten Frage zurück und überni
   expect(unfinished.rounds[0].status).toBe("completed");
   expect(unfinished.events[9].guessed).toBe(true);
   expect(unfinished.experience).toBeGreaterThan(0);
+  const resumed = emptyState(questions);
+  const partial = { ...v, items: v.items.slice(0, 3) };
+  importDuelView(resumed, partial, false);
+  archiveClosedRounds(resumed);
+  expect(resumed.rounds[0].archive?.questions).toHaveLength(3);
+  importDuelView(resumed, lastGuess, false);
+  expect(resumed.rounds[0].archive?.questions).toHaveLength(10);
+  expect(resumed.rounds[0].questions).toHaveLength(0);
+  expect(resumed.experience).toBe(0);
+  importDuelView(resumed, lastGuess);
+  expect(resumed.experience).toBe(unfinished.experience);
+  expect(validateBackup(resumed).events).toEqual(unfinished.events);
+  expect(duelReviewRound(lastGuess, resumed.rounds[0]).questions).toHaveLength(
+    10,
+  );
+  importDuelView(resumed, lastGuess);
+  expect(resumed.events).toHaveLength(10);
+  expect(resumed.rounds[0].questions).toHaveLength(0);
   importDuelView(state, v);
   expect(state.questions).toHaveLength(questions.length);
   const xp = state.experience;

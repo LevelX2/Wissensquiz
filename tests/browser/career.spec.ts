@@ -115,9 +115,10 @@ for (const width of [320, 1280]) {
     });
     await page.getByRole("button", { name: "Neue Runde wählen" }).click();
     await page.getByRole("button", { name: "Sammlung", exact: true }).click();
-    await page.locator(".history button").first().click();
+    await expect(page.locator(".history article").first()).toBeVisible();
+    await expect(page.locator(".history button")).toHaveCount(0);
     await expect(page.locator(".career-level-up")).toHaveCount(0);
-    await expect(reward).toContainText("Level 2 erreicht!");
+    expect((await readState(page)).experience).toBe(100);
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await expect(
       page.getByRole("main").getByRole("progressbar"),

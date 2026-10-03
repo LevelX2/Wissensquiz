@@ -100,23 +100,24 @@ test("zwei getrennte Konten spielen die vier Blöcke, sehen offene Duelle und er
       .getByRole("button", { name: "Weiterspielen", exact: false })
       .click();
     await play(b);
-    await b
+    await a
       .getByRole("button", { name: "Zur Duellübersicht", exact: false })
       .click();
-    await expect(b.getByText("0 von 5 Spielplätzen belegt")).toBeVisible();
-    await b.getByText("Abgeschlossene Duelle (1)").click();
-    await expect(b.getByText("Unentschieden.")).toBeVisible();
-    await expect(b.getByText("30 : 30", { exact: true })).toBeVisible();
-    expect((await new AxeBuilder({ page: b }).analyze()).violations).toEqual(
+    await a.getByRole("button", { name: "Aktualisieren", exact: true }).click();
+    await expect(a.getByText("0 von 5 Spielplätzen belegt")).toBeVisible();
+    await a.getByText("Abgeschlossene Duelle (1)").click();
+    await expect(a.getByText("Unentschieden.")).toBeVisible();
+    await expect(a.getByText("30 : 30", { exact: true })).toBeVisible();
+    expect((await new AxeBuilder({ page: a }).analyze()).violations).toEqual(
       [],
     );
-    await b.setViewportSize({ width: 320, height: 740 });
+    await a.setViewportSize({ width: 320, height: 740 });
     expect(
-      await b.evaluate(
+      await a.evaluate(
         () => document.documentElement.scrollWidth <= innerWidth,
       ),
     ).toBe(true);
-    await b.screenshot({
+    await a.screenshot({
       path: testInfo.outputPath("duel-overview-mobile.png"),
       fullPage: true,
     });
@@ -141,10 +142,10 @@ test("zwei getrennte Konten spielen die vier Blöcke, sehen offene Duelle und er
         ],
       });
     });
-    await b
-      .getByRole("button", { name: "Runde 3 ansehen", exact: true })
-      .click();
-    await b.getByRole("button", { name: "Bestenliste ansehen" }).click();
+    await expect(
+      a.getByRole("button", { name: /Runde \d ansehen/ }),
+    ).toHaveCount(0);
+    await b.getByRole("button", { name: "Duell-Bestenliste ansehen" }).click();
     await expect(
       b.getByRole("button", { name: "Duelle", exact: true }),
     ).toHaveAttribute("aria-pressed", "true");
@@ -277,6 +278,8 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
     ).toBeEnabled();
     await openRoundSetup(page);
     await page.getByRole("button", { name: "Duell", exact: true }).click();
+    await page.getByRole("button", { name: /^Duell Drei Runden/ }).click();
+    await page.getByRole("button", { name: "Losspielen" }).click();
     await page
       .getByRole("button", { name: "Weiterspielen", exact: false })
       .click();

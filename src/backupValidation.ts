@@ -4,6 +4,7 @@ import { rebuild } from "./engine";
 import { matchesFilters, usesFilmFilters } from "./filters";
 import { matchesTopic } from "./categories";
 import { questionSnapshotMatches } from "./filmFacts";
+import { roundFacts } from "./roundArchive";
 import {
   isRecordMode,
   isEndlessMode,
@@ -34,19 +35,45 @@ export function validateBackup(value: unknown): State {
     throw new Error("Ungültige Zuordnung der mitgelieferten Fragen.");
   const roundsById = new Map(s.rounds.map((r) => [r.id, r]));
   const eventsById = new Map(s.events.map((e) => [e.id, e]));
-  const questionByEvent = new Map<string, State["questions"][number]>();
+  const questionByEvent = new Map<
+    string,
+    ReturnType<typeof roundFacts>[number]
+  >();
   const limitByEvent = new Map<string, number>();
   for (const r of s.rounds) {
+    const facts = roundFacts(r);
     if (
-      (!r.run && !unique(r.questions.map((q) => q.knowledgeId))) ||
-      r.order.length !== r.questions.length ||
-      r.events.length > r.questions.length
+      r.recordPreset === "genre" &&
+      (!r.filters ||
+        r.filters.genres.length !== 1 ||
+        r.topic !== "Alle Themen" ||
+        JSON.stringify(r.filters.sources) !== '["film"]' ||
+        JSON.stringify([...r.filters.difficulties].sort()) !==
+          '["leicht","mittel","schwer"]' ||
+        JSON.stringify(r.filters.familiarities) !== "[1,2,3,4]")
+    )
+      throw new Error(
+        "Genre-Rekorde brauchen genau ein Genre und den festen Schwierigkeitsmix.",
+      );
+    if (
+      !facts.length ||
+      (r.archive &&
+        (r.status === "active" ||
+          r.questions.length ||
+          r.order.length ||
+          Object.keys(r.before).length ||
+          r.familiaritySnapshot ||
+          r.run?.pool.length ||
+          r.run?.queue.length))
+    )
+      throw new Error("Ungültiges Ergebnisarchiv.");
+    if (
+      (!r.run && !unique(facts.map((q) => q.knowledgeId))) ||
+      (!r.archive && r.order.length !== facts.length) ||
+      r.events.length > facts.length
     )
       throw new Error("Ungültige Rundenzuordnung.");
-    if (
-      !!r.run !== isEndlessMode(r.mode) ||
-      (!r.run && r.questions.length > 10)
-    )
+    if (!!r.run !== isEndlessMode(r.mode) || (!r.run && facts.length > 10))
       throw new Error("Ungültiger Endloslauf.");
     if (
       r.recordPreset &&
@@ -60,13 +87,14 @@ export function validateBackup(value: unknown): State {
       r.ruleVersion !== runRule(r.mode, r.recordPreset) + ".L"
     )
       throw new Error("Ungültige Rekordregel.");
-    if (r.run) {
+    if (r.run && !r.archive) {
       const pool = new Set(r.run.pool);
       const goals = new Set(
         r.run.pool.map((id) => questionsById.get(id)?.knowledgeId),
       );
       if (
         !r.recordPreset ||
+        !pool.size ||
         r.solutionDisplay === "round" ||
         goals.has(undefined) ||
         r.run.pool.some((id) => {
@@ -145,21 +173,34 @@ export function validateBackup(value: unknown): State {
         );
     });
     if (
+      r.archive &&
+      facts.some(
+        (q) =>
+          !("answerIds" in q) ||
+          !unique(q.answerIds) ||
+          !q.answerIds.includes(q.correctId),
+      )
+    )
+      throw new Error("Ungültige Wertungsdaten im Ergebnisarchiv.");
+    if (
       (r.status === "completed" &&
-        (r.events.length !== r.questions.length || r.finishedAt === null)) ||
+        (r.events.length !== facts.length || r.finishedAt === null)) ||
       (r.status === "active" && r.finishedAt !== null)
     )
       throw new Error("Ungültiger Rundenabschluss.");
     r.events.forEach((eventId, i) => {
       const e = eventsById.get(eventId);
-      const q = r.questions[i];
+      const q = facts[i];
       if (
         !e ||
         e.roundId !== r.id ||
         e.questionId !== q.id ||
         e.knowledgeId !== q.knowledgeId ||
         e.version !== q.version ||
-        e.id !== eventIdFor(r, i)
+        e.id !==
+          (r.archive
+            ? `${r.id}:${q.knowledgeId}${r.run ? `:${i}` : ""}`
+            : eventIdFor(r, i))
       )
         throw new Error("Antwort gehört nicht zur Frage.");
       questionByEvent.set(e.id, q);
@@ -182,8 +223,8 @@ export function validateBackup(value: unknown): State {
         r.run.bankMs !== bank ||
         r.run.ended !== ended ||
         (r.status === "completed" && !ended) ||
-        (ended && r.events.length !== r.questions.length) ||
-        (!ended && r.questions.length !== r.events.length + 1)
+        (ended && r.events.length !== facts.length) ||
+        (!ended && facts.length !== r.events.length + 1)
       )
         throw new Error("Inkonsistenter Zeitvorrat oder Laufabschluss.");
     }
@@ -195,7 +236,10 @@ export function validateBackup(value: unknown): State {
       !r ||
       !q ||
       !r.events.includes(e.id) ||
-      (e.answerId !== null && !q.answers.some((a) => a.id === e.answerId))
+      (e.answerId !== null &&
+        !("answerIds" in q
+          ? q.answerIds.includes(e.answerId)
+          : q.answers.some((a) => a.id === e.answerId)))
     )
       throw new Error("Verwaiste Antwort.");
     const correct =

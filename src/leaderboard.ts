@@ -8,6 +8,7 @@ import {
   sourceLabels,
 } from "./filters";
 import type { Round, State } from "./model";
+import { roundFacts, roundQuestionCount } from "./roundArchive";
 import {
   isRecordMode,
   isEndlessMode,
@@ -30,7 +31,7 @@ export const genreSelection = (r: Round) =>
               .filter((s) => s !== "film")
               .map((s) => sourceLabels[s]),
           ]
-        : (r.filters?.genres ?? r.questions.map(genreOf)),
+        : (r.filters?.genres ?? roundFacts(r).map(genreOf)),
     ),
   ].sort();
 export const genreSelectionKey = (r: Round) =>
@@ -42,7 +43,7 @@ export const levelSelectionKey = (r: Round) =>
     ? JSON.stringify(canonicalFilters(r.filters).difficulties)
     : `historisch:${r.difficulty}`;
 export const categoryLabel = (r: Round) =>
-  `${modeNames[r.mode]} · ${genreSelectionLabel(r)}${r.topic !== "Alle Themen" ? ` · ${r.topic}` : ""} · ${roundDifficulties(r)}${r.filters?.familiarities?.length ? ` · Filmgruppen ${r.filters.familiarities.join(" + ")}` : ""} · ${isEndlessMode(r.mode) ? "Endlos" : `${r.questions.length} Fragen`} · Regel ${ruleLabel(r.ruleVersion)}${r.filters ? "" : " · frühere Themenauswahl"}`;
+  `${modeNames[r.mode]} · ${genreSelectionLabel(r)}${r.topic !== "Alle Themen" ? ` · ${r.topic}` : ""} · ${roundDifficulties(r)}${r.filters?.familiarities?.length ? ` · Filmgruppen ${r.filters.familiarities.join(" + ")}` : ""} · ${isEndlessMode(r.mode) ? "Endlos" : `${roundQuestionCount(r)} Fragen`} · Regel ${ruleLabel(r.ruleVersion)}${r.filters ? "" : " · frühere Themenauswahl"}`;
 
 export function leaderboard(
   state: State,

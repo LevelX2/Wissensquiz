@@ -214,10 +214,8 @@ for (const scenario of [
     await expect(dialog).toHaveCount(0);
     await expect(page.locator("main")).toBeFocused();
     await page.getByRole("button", { name: "Sammlung", exact: true }).click();
-    await page.locator(".history button").first().click();
-    await expect(
-      page.getByRole("heading", { name: "Dein Rundenrückblick" }),
-    ).toBeVisible();
+    await expect(page.locator(".history article").first()).toBeVisible();
+    await expect(page.locator(".history button")).toHaveCount(0);
     await expect(dialog).toHaveCount(0);
     expect(
       await page.evaluate(

@@ -3,7 +3,8 @@ import { expect, it, vi } from "vitest";
 import { readFileSync } from "node:fs";
 import { emptyState } from "../src/model";
 import { importCsv } from "../src/importer";
-import { answer, startRound } from "../src/engine";
+import { answer, complete, startRound } from "../src/engine";
+import { archiveClosedRounds } from "../src/roundArchive";
 import { validateBackup } from "../src/backupValidation";
 import { read, update, restore, openDatabase } from "../src/storage";
 import { prepareRelease, compileState } from "../src/syncCodec";
@@ -181,4 +182,71 @@ it("behandelt vollständige Wiederherstellungen als neue Generation und entfernt
   expect(queue).toHaveLength(1);
   expect(queue[0].reset).toBe(true);
   expect(queue[0].delta).toEqual({ changes: [], objects: [] });
+});
+
+it("behält alte Inhaltsobjekte für ausstehende Offlinepakete und entfernt sie erst nach vollständiger Bestätigung", async () => {
+  const { key, generation } = await initialized("archive-gc", true);
+  const finish = (s: ReturnType<typeof emptyState>, at: number) => {
+    const r = s.rounds.at(-1)!;
+    for (const q of r.questions)
+      answer(
+        s,
+        r.id,
+        q.id,
+        q.correctId,
+        1000,
+        at + 1000 * (r.events.length + 1),
+      );
+    complete(s, r.id, at + 20000);
+  };
+  await update(
+    (s) => {
+      finish(s, now);
+      startRound(
+        s,
+        { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+        now + 100000,
+      );
+    },
+    undefined,
+    key,
+  );
+  const first = (await readOutbox(key))[0];
+  const roundRow = first.delta.changes.find(
+    (c) =>
+      c.op === "put" &&
+      c.row.kind === "round" &&
+      (c.row.value as Record<string, unknown>).status === "active",
+  );
+  if (!roundRow || roundRow.op !== "put")
+    throw new Error("Aktive Runde fehlt.");
+  const priorHash = (roundRow.row.value as Record<string, unknown>)
+    .beforeObject as string;
+  expect(first.delta.objects.some((o) => o.hash === priorHash)).toBe(true);
+  await update(
+    (s) => {
+      finish(s, now + 100000);
+      archiveClosedRounds(s);
+    },
+    undefined,
+    key,
+  );
+  const saved = (await read(key))!,
+    queue = await readOutbox(key);
+  expect(queue).toHaveLength(2);
+  const objectPresent = async () => {
+    const db = await openDatabase(),
+      tx = db.transaction("entryObjects"),
+      request = tx.objectStore("entryObjects").get([key, priorHash]);
+    await new Promise((resolve) => {
+      tx.oncomplete = resolve;
+    });
+    return !!request.result;
+  };
+  await acknowledgeOutbox(key, first, generation, 2, now + 200000);
+  expect(await objectPresent()).toBe(true);
+  await acknowledgeOutbox(key, queue[1], generation, 3, now + 200001);
+  expect(await objectPresent()).toBe(false);
+  expect(await readOutbox(key)).toHaveLength(0);
+  expect(validateBackup(await read(key))).toEqual(saved);
 });

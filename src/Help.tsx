@@ -126,9 +126,9 @@ export function Help() {
         <summary>Welcher Spielmodus passt zu mir?</summary>
         <p>
           Die Kachel auf der Startseite zeigt Deinen ausgewählten Modus mit
-          großem Motiv. „Modus ändern“ öffnet die Spielauswahl; dort starten die
-          illustrierten Kacheln direkt mit Deinen eingestellten Filtern.
-          „Auswahl anpassen“ wählt nur den Modus zur Vorbereitung.
+          großem Motiv. „Modus ändern“ öffnet die Spielauswahl. Eine
+          illustrierte Kachel wählt den Modus und schließt die Auswahl. Erst
+          „Losspielen“ startet die Runde oder öffnet Deine Duellübersicht.
         </p>
         <ul>
           <li>
@@ -154,19 +154,24 @@ export function Help() {
             <strong>10 Fragen:</strong> Pro Frage 30 Sekunden. Richtige
             Antworten geben 100 Punkte plus zwei Punkte je voller verbleibender
             Sekunde. Falsche oder verspätete Antworten geben keine Punkte. Beim
-            Lesen der Erklärung läuft keine Uhr. Der Standardmix enthält drei
-            leichte, vier mittlere und drei schwere Fragen. Eigene Filter bilden
-            getrennte Rekordkategorien; die Auswahl ist unabhängig vom
-            Lernstand.
+            Lesen der Erklärung läuft keine Uhr. Der feste Mix enthält drei
+            leichte, vier mittlere und drei schwere Fragen. Für Rekorde wählst
+            Du die Königsklasse mit allen Bereichen oder genau ein Filmgenre.
+            Zusätzliche Themen-, Stufen- und Filmgruppenfilter entfallen.
           </li>
         </ul>
         <p>
+          Die Fragen und Deine Antworten siehst Du in der unmittelbaren
+          Auswertung. Nach deren Verlassen bleiben Ergebnis, XP und
+          Lernfortschritt erhalten; einen späteren Fragenrückblick gibt es
+          nicht.
+        </p>
+        <p>
           Lernrunden umfassen zunächst bis zu fünf, später bis zu zehn Fragen.
-          Der Modus 10 Fragen startet sofort mit zehn; bei kleinen eigenen Pools
-          können es weniger sein. Endlosmodi haben keine feste Fragenzahl.
-          Entspannte Runden lassen sich fortsetzen. Eine Rekordrunde läuft bei
-          einem Wechsel in den Hintergrund weiter und wird beim Neuladen
-          abgebrochen.
+          Der Modus 10 Fragen umfasst zehn Fragen. Endlosmodi haben keine feste
+          Fragenzahl. Entspannte Runden lassen sich fortsetzen. Eine Rekordrunde
+          läuft bei einem Wechsel in den Hintergrund weiter und wird beim
+          Neuladen abgebrochen.
         </p>
       </details>
       <details>

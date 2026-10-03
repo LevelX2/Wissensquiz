@@ -1,5 +1,9 @@
 # Qualitätsprüfung
 
+## Prüfung Version 46, 03.10.2026
+
+300 Tests in 51 Dateien und finaler Produktionsbuild erfolgreich; die nachfolgende Optimierung der serverseitigen Referenzbereinigung zusätzlich mit 24 betroffenen Datenbank-/Sync-/Archivtests geprüft. Der vollständige Browserlauf umfasst 174 Fälle: 171 erfolgreich, zwei veraltete Testannahmen und ein vorgesehener Skip. Nach Korrektur der Genre-Beschriftung und Abwarten des tatsächlich gespeicherten Moduswechsels bestanden alle drei gezielten Chromium-/WebKit-Fälle. Damit 173 unterschiedliche Browserfälle erfolgreich gegen denselben unveränderten Produktionsbuild. Alle 63 Dateien bytegleich; [Prüfbericht](../../docs/Pruefbericht.md). Version 46 ist zur Veröffentlichung vorbereitet; der aktuelle native Veröffentlichungsnachweis steht in [Sites-Betrieb](../../docs/Sites-Betrieb.md).
+
 Stand: 03.10.2026. Diese Seite beschreibt den Prüfprozess; konkrete Zahlen gehören zu datierten Nachweisen. Die vorherige Fassung ist vollständig in der [Qualitäts-Historie](Qualitaetspruefung-Historie-2026-10-03.md) erhalten.
 
 ## Aktueller Nachweis

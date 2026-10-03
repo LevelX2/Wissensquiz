@@ -1,4 +1,4 @@
-import type { ReactNode } from "react";
+import type { ReactNode, Ref } from "react";
 
 export function SetupSection({
   title,
@@ -7,6 +7,7 @@ export function SetupSection({
   actionLabel,
   className = "",
   children,
+  detailsRef,
 }: {
   title: string;
   selection: ReactNode;
@@ -14,9 +15,10 @@ export function SetupSection({
   actionLabel?: string;
   className?: string;
   children: ReactNode;
+  detailsRef?: Ref<HTMLDetailsElement>;
 }) {
   return (
-    <details className={`setup-section ${className}`}>
+    <details ref={detailsRef} className={`setup-section ${className}`}>
       <summary>
         {illustration}
         <span className="setup-section-title">{title}</span>

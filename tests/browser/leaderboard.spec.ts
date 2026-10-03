@@ -90,7 +90,7 @@ test("Genre und Schwierigkeit bleiben unabhängig einstellbar und über Neuladen
   await expect(page.locator(".question-difficulty")).toHaveCount(0);
 });
 
-test("Alle abgeschlossenen Läufe sind sichtbar, filterbar und offline im Rückblick erreichbar", async ({
+test("Alle abgeschlossenen Ergebnisse sind filterbar und offline erhalten, ohne späteren Fragenrückblick", async ({
   page,
   context,
 }) => {
@@ -184,11 +184,9 @@ test("Alle abgeschlossenen Läufe sind sichtbar, filterbar und offline im Rückb
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
       .violations,
   ).toEqual([]);
-  await page.getByRole("button", { name: "Spiel ansehen" }).first().click();
-  await expect(
-    page.getByRole("heading", { name: "Dein Rundenrückblick" }),
-  ).toBeVisible();
-  await page.getByRole("button", { name: "Bestenliste ansehen" }).click();
+  await expect(page.getByRole("button", { name: "Spiel ansehen" })).toHaveCount(
+    0,
+  );
   await context.setOffline(true);
   await page.reload();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();

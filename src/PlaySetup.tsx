@@ -2,7 +2,6 @@ import {
   ModePicker,
   ModeArtwork,
   modeDescriptions,
-  modesForGroup,
   type PlayGroup,
 } from "./ModePicker";
 import { isRecordMode, isEndlessMode } from "./recordModes";
@@ -31,13 +30,14 @@ import { LearningPath } from "./LearningPathPanel";
 import type { QuestionSource } from "./model";
 import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { modeNames } from "./gameUi";
-import type * as React from "react";
+import { useRef, useState, type Dispatch, type SetStateAction } from "react";
 
 export function PlaySetup({
   mode,
   playGroup,
   standard,
   recordPreset,
+  recordGenre,
   busy,
   changeSetup,
   active,
@@ -59,7 +59,8 @@ export function PlaySetup({
   mode: Mode;
   playGroup: PlayGroup;
   standard: boolean;
-  recordPreset: "standard" | "custom";
+  recordPreset: "standard" | "genre" | "custom";
+  recordGenre?: string;
   busy: boolean;
   changeSetup: (patch: Partial<RoundSetup>) => Promise<State | null>;
   active: Round | undefined;
@@ -83,8 +84,17 @@ export function PlaySetup({
   selectedCategories: (
     "Classics" | "Arthouse" | "Preisträger" | "Schauspieler"
   )[];
-  setPage: React.Dispatch<React.SetStateAction<Page | "duels">>;
+  setPage: Dispatch<SetStateAction<Page | "duels">>;
 }) {
+  const modePanel = useRef<HTMLDetailsElement>(null);
+  const [browsingGroup, setBrowsingGroup] = useState<PlayGroup>();
+  const closeSelection = () => {
+    setBrowsingGroup(undefined);
+    if (modePanel.current) {
+      modePanel.current.open = false;
+      modePanel.current.querySelector("summary")?.focus();
+    }
+  };
   const completed = state.rounds.filter((r) => r.status === "completed");
   const targetSize = isRecordMode(mode) ? 10 : completed.length ? 10 : 5;
   const officialIds =
@@ -120,43 +130,6 @@ export function PlaySetup({
     },
     () => 0.5,
   );
-  const availableModes = new Set(
-    modesForGroup(playGroup).filter((nextMode) => {
-      if (nextMode === mode) return selection.length > 0;
-      return (
-        selectQuestions(
-          pathQuestions(state, nextMode).filter(
-            (q) => !standard || (standardReady && officialIds?.has(q.id)),
-          ),
-          state.learning,
-          {
-            mode: nextMode,
-            topic: roundTopic,
-            difficulty: "Alle Stufen",
-            filters: {
-              ...filters,
-              difficulties: standard
-                ? filters.difficulties
-                : nextMode === "entdecken"
-                  ? [...difficulties]
-                  : selectedDifficulties,
-              familiarities: standard
-                ? filters.familiarities
-                : nextMode === "entdecken"
-                  ? [...familiarities]
-                  : selectedFamiliarities,
-            },
-            ...(isRecordMode(nextMode) ? { recordPreset } : {}),
-            size: targetSize,
-            now,
-            ...(nextMode === "entdecken" ? discoveryContext(state) : {}),
-            ...(nextMode === "fehler" ? errorTrainingContext(state) : {}),
-          },
-          () => 0.5,
-        ).length > 0
-      );
-    }),
-  );
   const genreSummary =
     filters.genres.length === genres.length
       ? "Alle Genres"
@@ -186,6 +159,7 @@ export function PlaySetup({
         <SetupSection
           title="Spielmodus"
           className="mode-selection"
+          detailsRef={modePanel}
           illustration={<ModeArtwork mode={mode} duel={playGroup === "duel"} />}
           selection={
             <>
@@ -202,44 +176,60 @@ export function PlaySetup({
           actionLabel="Modus ändern"
         >
           <ModePicker
-            mode={mode}
-            group={playGroup}
+            mode={
+              browsingGroup === "timed"
+                ? (state.settings.lastTimedMode ?? "rekord")
+                : browsingGroup === "learn"
+                  ? (state.settings.lastLearningMode ?? "entdecken")
+                  : mode
+            }
+            group={browsingGroup ?? playGroup}
             busy={busy}
-            startDisabled={!!active}
-            available={(item) => availableModes.has(item)}
-            onStart={(next) => void begin(next)}
             onMode={(next) =>
               void changeSetup({
                 mode: next,
+                ...(isRecordMode(next) && !state.settings.lastTimedMode
+                  ? { recordPreset: "standard" }
+                  : {}),
+              }).then((saved) => {
+                if (saved) closeSelection();
               })
             }
-            onGroup={(group) => {
-              if (group === "duel")
-                void mutate((s) => {
-                  s.settings.playGroup = "duel";
-                }).then((saved) => {
-                  if (saved) void nav("duels");
-                });
-              else
-                void changeSetup({
-                  mode:
-                    group === "learn"
-                      ? (state.settings.lastLearningMode ?? "entdecken")
-                      : (state.settings.lastTimedMode ?? "rekord"),
-                  ...(group === "timed" && !state.settings.lastTimedMode
-                    ? { recordPreset: "standard" }
-                    : {}),
-                });
-            }}
+            onGroup={setBrowsingGroup}
+            onDuel={() =>
+              void mutate((s) => {
+                s.settings.playGroup = "duel";
+              }).then((saved) => {
+                if (saved) closeSelection();
+              })
+            }
           />
         </SetupSection>
+        {active && (
+          <div className="resume notice">
+            <span>Deine begonnene Runde wartet auf Dich.</span>
+            <button onClick={resume}>Fortsetzen →</button>
+            <button
+              className="text-button"
+              onClick={() =>
+                void mutate((s) => {
+                  const r = s.rounds.find((r) => r.id === active.id)!;
+                  r.status = "aborted";
+                  r.finishedAt = Date.now();
+                })
+              }
+            >
+              Runde beenden
+            </button>
+          </div>
+        )}
         {playGroup === "duel" ? (
           <button
             className="primary"
             disabled={busy || !!active}
             onClick={() => void nav("duels")}
           >
-            Duell öffnen
+            Losspielen <span>→</span>
           </button>
         ) : (
           <>
@@ -268,7 +258,7 @@ export function PlaySetup({
                   : `${selection.length} ${mode === "fehler" ? "offene Fehler" : "Fragen"}`}
                 {" · "}
                 {standard
-                  ? "Standardmix · 3 leicht / 4 mittel / 3 schwer"
+                  ? `${recordPreset === "genre" ? "Genre-Rekord" : "Königsklasse"} · 3 leicht / 4 mittel / 3 schwer`
                   : mode !== "entdecken"
                     ? "Freie Auswahl: " + difficultySummary
                     : "Filmreise · freigeschaltete Stufen"}
@@ -277,24 +267,6 @@ export function PlaySetup({
                   ` · ${standard ? "Alle Filmgruppen" : familiaritySummary}`}
               </p>
             </div>
-            {active && (
-              <div className="resume notice">
-                <span>Deine begonnene Runde wartet auf Dich.</span>
-                <button onClick={resume}>Fortsetzen →</button>
-                <button
-                  className="text-button"
-                  onClick={() =>
-                    void mutate((s) => {
-                      const r = s.rounds.find((r) => r.id === active.id)!;
-                      r.status = "aborted";
-                      r.finishedAt = Date.now();
-                    })
-                  }
-                >
-                  Runde beenden
-                </button>
-              </div>
-            )}
 
             <RoundGuide mode={mode} />
             {!selection.length ? (
@@ -332,14 +304,14 @@ export function PlaySetup({
                   <input
                     type="radio"
                     name="record-preset"
-                    aria-label="Standardmix · alle Bereiche · 3 leicht / 4 mittel / 3 schwer"
-                    checked={standard}
+                    aria-label="Königsklasse · alle Bereiche · 3 leicht / 4 mittel / 3 schwer"
+                    checked={recordPreset === "standard"}
                     onChange={() =>
                       void changeSetup({ recordPreset: "standard" })
                     }
                   />
                   <span>
-                    <strong>Standardmix</strong>
+                    <strong>Königsklasse</strong>
                     <small>
                       Alle Bereiche · 3 leicht / 4 mittel / 3 schwer
                     </small>
@@ -349,21 +321,44 @@ export function PlaySetup({
                   <input
                     type="radio"
                     name="record-preset"
-                    aria-label="Eigene Auswahl · eigene Vergleichskategorie"
-                    checked={!standard}
-                    onChange={() =>
-                      void changeSetup({ recordPreset: "custom" })
-                    }
+                    aria-label="Ein Genre · fester Schwierigkeitsmix"
+                    checked={recordPreset === "genre"}
+                    onChange={() => void changeSetup({ recordPreset: "genre" })}
                   />
                   <span>
-                    <strong>Eigene Auswahl</strong>
-                    <small>Deine Filter · eigene Vergleichskategorie</small>
+                    <strong>Ein Genre</strong>
+                    <small>
+                      Nur Filmfragen · 3 leicht / 4 mittel / 3 schwer
+                    </small>
                   </span>
                 </label>
+                {recordPreset === "genre" && (
+                  <label className="record-genre-filter">
+                    Filmgenre
+                    <select
+                      aria-label="Genre für den Rekord"
+                      value={recordGenre ?? ""}
+                      onChange={(e) =>
+                        void changeSetup({ recordGenre: e.target.value })
+                      }
+                    >
+                      {genres.map((g) => (
+                        <option key={g} value={g}>
+                          {genreLabel(g)}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                )}
+                <p className="tiny muted">
+                  Rekorde vergleichen die Königsklasse oder genau ein Genre.
+                  Themen, Filmgruppen und Schwierigkeiten sind dafür fest
+                  vorgegeben. Freie Filter gibt es in den Lernmodi.
+                </p>
               </fieldset>
             )}
 
-            {(!standard || !isRecordMode(mode)) && (
+            {!isRecordMode(mode) && (
               <div className="quiz-filters">
                 <SetupSection
                   title="Fragenbereiche"

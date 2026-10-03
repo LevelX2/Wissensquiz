@@ -1,4 +1,10 @@
-import { modePreparation, test, expect, readStoredState } from "./fixtures";
+import {
+  openRoundSetup,
+  modePreparation,
+  test,
+  expect,
+  readStoredState,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 for (const width of [320, 1440]) {
@@ -37,15 +43,15 @@ for (const width of [320, 1440]) {
     await expect(mode).not.toHaveAttribute("open", "");
     expect(await readStoredState(page)).toEqual(before);
     await modeSummary.click();
+    await openRoundSetup(page);
     await modePreparation(page, /Freies Spiel Alle Stufen/).click();
-    await modeSummary.click();
+    await expect(mode).not.toHaveAttribute("open", "");
     await expect(modeSummary).toContainText("Freies Spiel");
     const films = page.locator(".setup-section").filter({
       has: page.locator(".setup-section-title", {
         hasText: /^Filmgenres & Filmauswahl$/,
       }),
     });
-    await films.locator("summary").click();
     await films.getByRole("button", { name: "Alle Genres abwählen" }).click();
     await films.getByLabel("Western", { exact: true }).check();
     await films.getByLabel("Nur Classics", { exact: true }).check();

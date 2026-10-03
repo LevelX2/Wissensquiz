@@ -147,6 +147,8 @@ export async function server() {
       page.getByRole("button", { name: "Duell", exact: true }),
     ).toBeEnabled();
     await page.getByRole("button", { name: "Duell", exact: true }).click();
+    await page.getByRole("button", { name: /^Duell Drei Runden/ }).click();
+    await page.getByRole("button", { name: "Losspielen" }).click();
     await expect(
       page.getByRole("heading", { name: "Deine Duelle" }),
     ).toBeVisible();

@@ -11,14 +11,11 @@ import {
 export { expect, chromium, type Page } from "@playwright/test";
 export const testBaseUrl = `http://localhost:${process.env.WISSENSQUIZ_BROWSER_PORT ?? 4173}`;
 
-// Preparing is a separate, visible action; the illustrated tile starts directly.
+// Illustrated variants select the mode; only Losspielen starts a game.
 export function modePreparation(page: Page, name: string | RegExp) {
   return page
-    .locator(".mode-tile")
-    .filter({
-      has: page.getByRole("button", { name }).and(page.locator(".mode-card")),
-    })
-    .locator(".mode-configure");
+    .getByRole("button", { name, includeHidden: true })
+    .and(page.locator(".mode-card"));
 }
 
 // Performance cases need native timers and rendering frames. Playwright's
@@ -52,6 +49,9 @@ export async function fixCalendarTime(page: Page, time: Date) {
 export async function openRoundSetup(page: Page) {
   await base.expect(page.locator(".loading")).toHaveCount(0);
   await base.expect(page.locator(".round-setup")).toBeVisible();
+  // A selection saves asynchronously and closes its panel after the write.
+  // Wait for that write before opening the preparation again.
+  await base.expect(page.locator(".mode-group").first()).toBeEnabled();
   for (const summary of await page
     .locator(".round-setup .setup-section > summary")
     .all()) {

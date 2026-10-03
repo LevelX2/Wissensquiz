@@ -7,7 +7,7 @@ const introductions: Record<Mode, string> = {
   ueben:
     "Du kombinierst Filmfragen, Schauspieler und Preisträger zu einem gemeinsamen Pool. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
   rekord:
-    "Du spielst zehn Fragen im Standardmix oder mit eigener Auswahl. Genres und Filmgruppen begrenzen nur Filmfragen. Pro Frage hast Du 30 Sekunden; richtige und schnelle Antworten bringen Punkte für Deinen Rekord.",
+    "Du spielst zehn Fragen in der Königsklasse oder aus genau einem Genre. Der Schwierigkeitsmix ist fest. Pro Frage hast Du 30 Sekunden; richtige und schnelle Antworten bringen Punkte für Deinen Rekord.",
   fehlerfrei:
     "Pro Frage hast Du 30 Sekunden. Richtige Antworten verlängern die Serie; der erste Fehler, Keine Ahnung oder Zeitablauf beendet Deinen Lauf.",
   zeitkonto:
@@ -29,7 +29,7 @@ export function RoundGuide({ mode }: { mode: Mode }) {
             {isEndlessMode(mode)
               ? "Der Lauf hat keine feste Fragenzahl; nach Ausschöpfen des Pools werden die Ziele neu gemischt."
               : isRecordMode(mode)
-                ? "Die Rekordrunde umfasst zehn Fragen. Kleine eigene Auswahlen bleiben in einer getrennten Kategorie."
+                ? "Die Rekordrunde umfasst zehn Fragen. Die Königsklasse und jedes einzelne Genre haben getrennte Kategorien."
                 : "Die erste Runde umfasst bis zu fünf Fragen, danach sind es bis zu zehn. Bei einer kleinen Auswahl können es weniger sein."}
           </p>
           {mode === "entdecken" ? (
@@ -59,7 +59,7 @@ export function RoundGuide({ mode }: { mode: Mode }) {
               Film-Ikonen bis zu selten bekannten Entdeckungen; sie beschreiben
               die Bekanntheit der Filme, nicht die Schwierigkeit der Fragen.
               {mode === "rekord" &&
-                " Der Standardmix enthält drei leichte, vier mittlere und drei schwere Fragen. Eigene Filter bilden getrennte Rekordkategorien und mischen die gewählten Schwierigkeiten und Filmgruppen möglichst gleichmäßig."}
+                " Der feste Mix enthält drei leichte, vier mittlere und drei schwere Fragen je Zehnerblock. Weitere Themen-, Stufen- oder Filmgruppenfilter sind für Rekorde nicht möglich."}
             </p>
           )}
           <p>
@@ -68,7 +68,8 @@ export function RoundGuide({ mode }: { mode: Mode }) {
             Filmreise, sobald Du die Runde abschließt. Als geraten markierte
             Treffer zählen dafür nicht. Mehrere Fragen zum selben Zusammenhang
             teilen sich ein Wissensziel: Für eine Freischaltung zählt es nur
-            einmal, und pro Runde kommt höchstens eine dieser Fragen vor. In Endlosläufen gilt das je vollständigem Pooldurchgang.
+            einmal, und pro Runde kommt höchstens eine dieser Fragen vor. In
+            Endlosläufen gilt das je vollständigem Pooldurchgang.
           </p>
           {isRecordMode(mode) && (
             <p>

@@ -208,6 +208,7 @@ for (const width of [320, 1280]) {
     await page.getByRole("button", { name: "Neue Runde wählen" }).click();
     await openRoundSetup(page);
     await openRoundSetup(page);
+    await openRoundSetup(page);
     await modePreparation(page, /Fehlertraining Offene Fehler/).click();
     await expect(
       page.getByRole("button", { name: "Losspielen" }),

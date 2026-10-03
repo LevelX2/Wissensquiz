@@ -28,6 +28,14 @@ export function readRoundSetup(state: State): RoundSetup {
       : [...new Set(saved.genres)].filter((g) => available.has(g));
   return {
     ...saved,
+    // Free combinations remain in historical runs, never in new record setup.
+    ...(saved.recordPreset === "custom"
+      ? { recordPreset: "standard" as const }
+      : {}),
+    recordGenre:
+      saved.recordGenre && available.has(saved.recordGenre)
+        ? saved.recordGenre
+        : [...available].sort()[0],
     // An intentionally empty selection stays empty; obsolete imports fall back to all.
     genres: saved.genres?.length && !genres?.length ? null : genres,
     categories: saved.categories.filter((c) =>

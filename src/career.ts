@@ -1,5 +1,6 @@
 import { hasAnswer, type Learning, type State } from "./model";
 import { dayKey, learn } from "./learning";
+import { roundFacts } from "./roundArchive";
 
 export const careerTitles = [
   { level: 1, title: "Kinogänger" },
@@ -57,7 +58,7 @@ export function careerSummary(state: State) {
   const rounds = new Map(completed.map((r) => [r.id, emptyXp()]));
   const questions = new Map(
     completed.flatMap((r) =>
-      r.questions.map((q) => [`${r.id}:${q.id}`, q] as const),
+      roundFacts(r).map((q) => [`${r.id}:${q.id}`, q] as const),
     ),
   );
   const learning: Record<string, Learning> = {};

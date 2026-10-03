@@ -511,7 +511,7 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
   ).toBeDisabled();
 });
 
-test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehler", async ({
+test("Rekordübersicht zeigt Einzelgenre und festen Stufenmix ohne Darstellungsfehler", async ({
   page,
 }) => {
   const errors: string[] = [];
@@ -545,7 +545,8 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await openRoundSetup(page);
   await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
-  await page.getByLabel(/Eigene Auswahl ·/).check();
+  await page.getByLabel(/Ein Genre ·/).check();
+  await page.getByLabel("Genre für den Rekord").selectOption("Horror");
   await page.getByRole("button", { name: "Losspielen" }).click();
   for (let i = 0; i < 10; i++) {
     await answerCurrent(page);
@@ -560,7 +561,7 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   ).toBeVisible();
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
   await expect(page.locator(".leaderboard-category")).toContainText(
-    "Horror + Sci-Fi · Filmfragen · Leicht + Mittel · Filmgruppen 1 + 2 + 3 + 4 · 10 Fragen",
+    "Horror · Leicht + Mittel + Schwer · Filmgruppen 1 + 2 + 3 + 4 · 10 Fragen",
   );
   await expect(page.locator(".badge-art.locked svg")).toBeVisible();
   await page
@@ -801,7 +802,7 @@ test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await openRoundSetup(page);
   await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
-  await page.getByLabel(/Eigene Auswahl ·/).check();
+  await page.getByLabel(/Ein Genre ·/).check();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await page.clock.runFor(100);
   await expect(page.locator(".answer").first()).toBeEnabled();

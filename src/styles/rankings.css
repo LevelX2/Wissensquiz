@@ -189,3 +189,10 @@
   font-weight: 600;
   font-size: 13px;
 }
+.record-preset .record-genre-filter {
+  grid-template-columns: 1fr;
+}
+.record-genre-filter select {
+  width: 100%;
+  min-width: 0;
+}

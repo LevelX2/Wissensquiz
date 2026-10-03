@@ -123,7 +123,7 @@ export function releaseHashes(document: SyncDocument): Set<string> {
       });
     } else if (row.kind === "round") {
       (value.questions as { ref: { release?: string } }[]).forEach((q) => {
-        if (q.ref.release) result.add(q.ref.release);
+        if (q.ref?.release) result.add(q.ref.release);
       });
     }
   }
@@ -141,7 +141,7 @@ export function objectHashes(document: SyncDocument): Set<string> {
     } else if (row.kind === "round") {
       result.add(value.beforeObject as string);
       (value.questions as { ref: { object?: string } }[]).forEach((q) => {
-        if (q.ref.object) result.add(q.ref.object);
+        if (q.ref?.object) result.add(q.ref.object);
       });
     }
   }
@@ -391,6 +391,38 @@ export async function freezeOutbox(
   };
   await done(tx, () => failure);
 }
+// Only after all outgoing packets are acknowledged and no migration is staged.
+// An offline packet can still need a now-unreferenced historical object.
+async function pruneAcknowledgedObjects(key: string) {
+  const db = await openDatabase();
+  const tx = db.transaction(
+    ["entryRows", "entryObjects", "syncOutbox", "entryMigrations"],
+    "readwrite",
+  );
+  const rows = tx.objectStore("entryRows").getAll(range(key));
+  const objects = tx.objectStore("entryObjects").getAllKeys(range(key));
+  const migration = tx.objectStore("entryMigrations").get(key);
+  const queue = tx.objectStore("syncOutbox").getAll(range(key));
+  let removed = false;
+  queue.onsuccess = () => {
+    if (queue.result.length || migration.result) return;
+    const live = objectHashes({
+      rows: new Map(
+        (rows.result as SyncRow[]).map((r) => [rowKey(r.kind, r.id), r]),
+      ),
+      objects: new Map(),
+    });
+    for (const id of objects.result) {
+      const hash = (id as string[])[1];
+      if (!live.has(hash)) {
+        tx.objectStore("entryObjects").delete(id);
+        removed = true;
+      }
+    }
+  };
+  await done(tx);
+  if (removed) cache.delete(key);
+}
 export async function acknowledgeOutbox(
   key: string,
   item: OutboxItem,
@@ -413,6 +445,7 @@ export async function acknowledgeOutbox(
     tx.objectStore("entryHeads").put({ ...head, revision, confirmedAt }, key);
   };
   await done(tx, () => failure);
+  await pruneAcknowledgedObjects(key);
 }
 export async function migrationPlan(key: string): Promise<MigrationPlan> {
   const db = await openDatabase(),

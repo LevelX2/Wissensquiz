@@ -60,6 +60,8 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   }
   await duel.focus();
   await page.keyboard.press("Enter");
+  await page.getByRole("button", { name: /^Duell Drei Runden/ }).click();
+  await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(
     page.getByRole("heading", { name: "Duell", exact: true }),
   ).toBeVisible();
@@ -68,6 +70,9 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   ).toBeVisible();
   await page.getByRole("button", { name: "← Zurück zum Spielen" }).click();
   await expect(start).toBeEnabled();
+  await openRoundSetup(page);
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
+  await modePreparation(page, /Filmreise Filmwelten/).click();
   await openRoundSetup(page);
   await page.setViewportSize({ width: 320, height: 740 });
   await page.evaluate(() => scrollTo(0, 0));
@@ -124,7 +129,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await openRoundSetup(page);
   await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
-  await page.getByLabel(/Eigene Auswahl ·/).check();
+  await page.getByLabel(/Ein Genre ·/).check();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await expect(guide).toContainText("Pro Frage hast Du 30 Sekunden");
   await more.click();

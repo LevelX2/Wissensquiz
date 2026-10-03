@@ -6,7 +6,11 @@ Der aktuelle Gesamtbestand umfasst **19 Pakete, 6.277 Fragen, 5.734 Wissensziele
 
 `npm run check:questions` prüft beide Quellentypen, eindeutige IDs, fehlerfreie Importe und den exakten Sicherungs-/Katalogrücklauf. Der aktuelle [Prüfbericht](Fragedaten-Pruefung.json) verwendet dafür `question-organization-audit-v2`. Offizielle Rekordpools enthalten auch Varianten mit Bezug auf Fragen aus anderen Paketen. Beim Upgrade werden die Paketquellen einmal vollständig zur Zuordnung geprüft; abweichende eigene Fragen mit gleichen IDs bleiben erhalten.
 
-Der Serverkatalog `c976df8caf9146bb7bc6903ff94ce07382ea15596785b65116e3c57d13cc9fa2` umfasst den vollständigen neuen Bestand. Frühere Releases bleiben für die Inhaltsreferenzen bereits gespeicherter Runden verfügbar. [Gesamtintegration](Gesamtintegration-2026-10-03.md).
+Der Serverkatalog `c976df8caf9146bb7bc6903ff94ce07382ea15596785b65116e3c57d13cc9fa2` umfasst den vollständigen neuen Bestand. Frühere Releases bleiben verfügbar, solange Kataloge oder noch vollständige Runden sie referenzieren. Archivierte Runden benötigen nur ihre Wertungsfakten und keine alten Fragentexte. [Gesamtintegration](Gesamtintegration-2026-10-03.md).
+
+## Verkürzte Rundenergebnisse – Version 46
+
+Der unmittelbare Ergebnisrückblick enthält weiterhin Fragen und Erklärungen. Danach werden geschlossene lokale Runden auf Wertungs- und Lernfakten verkürzt; spätere Fragenrückblicke entfallen. Aktive Runden, Ergebnispunkte, XP, Lernstände und Ereignis-IDs bleiben erhalten. Kontosynchronisierung und JSON-Sicherungen tragen den optionalen Archivvertrag; Details und Objektfreigaben unter [Rekordmodi](Rekordmodi-und-Zeitranglisten.md#ergebnisarchive-statt-späterer-fragenrückblicke). Die nachfolgende Rolloutbeschreibung dokumentiert den Ausgangsstand bis Version 45 mit vollständigen Rundensnapshots; für geschlossene Live-Runden hat die neue Regel Vorrang.
 
 ## Kontokatalog und Eintragsspeicherung – Rollout am 03.10.2026
 

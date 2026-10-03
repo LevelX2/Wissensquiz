@@ -19,6 +19,7 @@ import {
   invitationUrl,
   importDuelView,
   duelScreen,
+  duelReviewRound,
   duelRoundId,
   type Duel,
   type DuelView,
@@ -363,9 +364,10 @@ export function DuelCenter({
     );
   }
   if (review) {
-    const local = state.rounds.find(
+    const stored = state.rounds.find(
       (r) => r.id === duelRoundId(review.duel.id, review.number),
     );
+    const local = stored && duelReviewRound(review, stored);
     return (
       <div className="duel-review">
         <button
@@ -561,18 +563,6 @@ export function DuelCenter({
                           Weiterspielen →
                         </button>
                       )}
-                      {d.rounds
-                        .filter((r) => r.answered === 10)
-                        .map((r) => (
-                          <button
-                            key={r.number}
-                            className="secondary"
-                            disabled={unavailable}
-                            onClick={() => void run(() => load(d, r.number))}
-                          >
-                            Runde {r.number} ansehen
-                          </button>
-                        ))}
                       {d.invitation && (
                         <button
                           className="secondary"
@@ -687,18 +677,6 @@ export function DuelCenter({
                     {d.rounds.reduce((s, r) => s + (r.opponent ?? 0), 0)}
                   </strong>
                 )}
-                {d.rounds
-                  .filter((r) => r.answered > 0)
-                  .map((r) => (
-                    <button
-                      key={r.number}
-                      className="text-button"
-                      disabled={unavailable}
-                      onClick={() => void run(() => load(d, r.number))}
-                    >
-                      Runde {r.number} ansehen
-                    </button>
-                  ))}
               </article>
             ))}
             {!past.length && <p>Noch kein Duell abgeschlossen.</p>}

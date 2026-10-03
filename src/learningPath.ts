@@ -2,10 +2,13 @@ import type { Difficulty, Mode, Question, State } from "./model";
 import { genreOf, questionSourceOf, sourceLabels } from "./filters";
 import { familiarityOf, type Familiarity } from "./familiarity";
 import curriculum from "./journeyCurriculum.json" with { type: "json" };
+import { roundFacts } from "./roundArchive";
 
 export const PATH_TARGET = 20; // Historical rule, retained only for earned legacy unlocks.
 export const AREA_TARGET = 20;
-export const pathAreaOf = (q: Question) => {
+export const pathAreaOf = (
+  q: Pick<Question, "metadata" | "tags" | "domain">,
+) => {
   const source = questionSourceOf(q);
   return source === "film" ? genreOf(q) : sourceLabels[source];
 };
@@ -16,12 +19,12 @@ type Plan = (typeof curriculum.genres)[keyof typeof curriculum.genres];
 const plans = curriculum.genres as Record<string, Plan>;
 export function learningPathProgress(state: State, legacyFilmAwards = false) {
   const retained = structuredClone(state.journey?.earned ?? {});
-  const snapshots = new Map<string, Question>();
+  const snapshots = new Map<string, ReturnType<typeof roundFacts>[number]>();
   const legacyRounds = new Set<string>();
   for (const round of state.rounds) {
     if (round.status !== "completed") continue;
     if (round.ruleVersion === "1") legacyRounds.add(round.id);
-    for (const q of round.questions) snapshots.set(`${round.id}:${q.id}`, q);
+    for (const q of roundFacts(round)) snapshots.set(`${round.id}:${q.id}`, q);
   }
   const goals = new Map<string, Record<Difficulty, Set<string>>>();
   const legacy = new Map<string, Record<Difficulty, Set<string>>>();

@@ -18,6 +18,18 @@ export const learningSchema = z.object({
   secureDays: z.array(z.string()),
   seen: z.number().int().nonnegative(),
 });
+// Technical scoring/learning facts, without question text, choices or explanations.
+export const roundFactSchema = z.object({
+  id,
+  knowledgeId: id,
+  version: id,
+  domain: id,
+  difficulty: z.enum(["leicht", "mittel", "schwer", "experte"]),
+  correctId: id,
+  answerIds: z.array(id).length(4),
+  metadata: z.object({ subdomain: id.optional(), person_id: id.optional() }),
+  tags: z.array(z.literal("Preisträger")).max(1),
+});
 export const roundSchema = z.object({
   id,
   mode: z.enum([
@@ -66,14 +78,20 @@ export const roundSchema = z.object({
     )
     .optional(),
   familiaritySnapshot: z.record(id, z.number().int().min(0).max(4)).optional(),
-  questions: z.array(questionSchema).min(1).max(100000),
+  questions: z.array(questionSchema).max(100000),
+  archive: z
+    .object({
+      version: z.literal(1),
+      questions: z.array(roundFactSchema).min(1).max(100000),
+    })
+    .optional(),
   order: z.array(z.array(id).length(4)),
   events: z.array(z.string().min(1).max(500)).max(100000),
-  recordPreset: z.enum(["standard", "custom"]).optional(),
+  recordPreset: z.enum(["standard", "genre", "custom"]).optional(),
   run: z
     .object({
       version: z.literal(1),
-      pool: z.array(id).min(1).max(20000),
+      pool: z.array(id).max(20000),
       queue: z.array(id).max(20000),
       cycle: z.number().int().positive(),
       bankMs: z.number().finite().min(0).max(BANK_START),
@@ -161,7 +179,8 @@ export const stateSchema = z.object({
           "fehlerfrei",
           "zeitkonto",
         ]),
-        recordPreset: z.enum(["standard", "custom"]).optional(),
+        recordPreset: z.enum(["standard", "genre", "custom"]).optional(),
+        recordGenre: id.optional(),
         genres: z.array(id).max(20000).nullable(),
         categories: z
           .array(

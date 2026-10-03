@@ -69,21 +69,29 @@ export async function encodeCloudState(state: State) {
         : "quiz-cloud-compact-v2",
     // An old client rejects this object rather than silently dropping custom questions.
     questions: { encoding: "gzip-base64" as const, data: btoa(binary) },
-    rounds: state.rounds.map((r) => ({
-      ...r,
-      questions: r.questions.map((q) => {
-        const base = byId.get(q.id);
-        if (!base || base.version !== q.version) return q;
-        const changes = Object.fromEntries(
-          Object.entries(q).filter(
-            ([key, value]) =>
-              JSON.stringify(value) !==
-              JSON.stringify(base[key as keyof Question]),
-          ),
-        );
-        return { reference: true as const, ...scoreFields(q), changes };
-      }),
-    })),
+    rounds: state.rounds.map((r) =>
+      r.archive
+        ? {
+            ...r,
+            archive: { version: 1 },
+            questions: r.archive.questions,
+          }
+        : {
+            ...r,
+            questions: r.questions.map((q) => {
+              const base = byId.get(q.id);
+              if (!base || base.version !== q.version) return q;
+              const changes = Object.fromEntries(
+                Object.entries(q).filter(
+                  ([key, value]) =>
+                    JSON.stringify(value) !==
+                    JSON.stringify(base[key as keyof Question]),
+                ),
+              );
+              return { reference: true as const, ...scoreFields(q), changes };
+            }),
+          },
+    ),
   };
 }
 
@@ -128,24 +136,34 @@ export async function decodeCloudState(value: unknown): Promise<unknown> {
     .max(20000)
     .parse(JSON.parse(new TextDecoder().decode(catalogBytes)));
   const byId = new Map(questions.map((q) => [q.id, q]));
-  const rounds = packed.rounds.map((r) => ({
-    ...r,
-    questions: r.questions.map((item) => {
-      if (!item || typeof item !== "object" || !("reference" in item))
-        return item;
-      const ref = reference.parse(item);
-      const base = byId.get(ref.id);
-      if (!base || base.version !== ref.version)
-        throw new Error("Ein Fragenverweis der Sicherung ist ungültig.");
-      const q = questionSchema.parse({ ...base, ...ref.changes });
-      if (
-        JSON.stringify(scoreFields(q)) !==
-        JSON.stringify(scoreFields(ref as unknown as Question))
-      )
-        throw new Error("Die Ergebnisdaten passen nicht zum Fragenverweis.");
-      return q;
-    }),
-  }));
+  const rounds = packed.rounds.map((r) =>
+    r.archive
+      ? {
+          ...r,
+          archive: { version: 1, questions: r.questions },
+          questions: [],
+        }
+      : {
+          ...r,
+          questions: r.questions.map((item) => {
+            if (!item || typeof item !== "object" || !("reference" in item))
+              return item;
+            const ref = reference.parse(item);
+            const base = byId.get(ref.id);
+            if (!base || base.version !== ref.version)
+              throw new Error("Ein Fragenverweis der Sicherung ist ungültig.");
+            const q = questionSchema.parse({ ...base, ...ref.changes });
+            if (
+              JSON.stringify(scoreFields(q)) !==
+              JSON.stringify(scoreFields(ref as unknown as Question))
+            )
+              throw new Error(
+                "Die Ergebnisdaten passen nicht zum Fragenverweis.",
+              );
+            return q;
+          }),
+        },
+  );
   const { storageFormat: _, ...state } = packed;
   return { ...state, questions, rounds };
 }

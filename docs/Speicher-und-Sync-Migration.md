@@ -2,6 +2,12 @@
 
 Stand: 03.10.2026. Nach ausdrücklichem Produktionsauftrag sind die nachfolgenden Migrationen und der öffentliche Katalog erfolgreich eingerichtet. Der [Produktionsnachweis](Speicher-und-Sync-Produktion.md) dokumentiert Sicherung, tatsächlichen Verlauf und Veröffentlichung. Der Ablauf bleibt für weitere Übernahmen und kontrollierten Rückfall gültig. Die Freigabe alter Ausgangskopien ist weiterhin gesondert zu beauftragen.
 
+## Ergänzung für Version 46
+
+Vor `20261003150524_compact_round_results.sql` aktuelle vollständige logische Sicherung und Funktionsdefinitionen außerhalb von Git und Veröffentlichungsartefakten erhalten. Danach `20261003155030_archive_object_gc_references.sql` anwenden. Nach Anwendung unveränderte Kontoköpfe, Einträge, Objekte und Ergebnisprojektionen sowie die gesperrten internen Helfer prüfen; erst danach Version 46 veröffentlichen. Die Migrationen verändern nur Funktionen. Die ergänzende Objektfreigabe berechnet live benötigte Referenzen einmal; sie wiederholt keine Katalog-/Rundensuche je altem Objekt. Geschlossene Runden werden erst durch eine normale bestätigte Clientspeicherung verkürzt. Ausstehende Offlinepakete und noch nicht abgeschlossene Duell-Lernübernahmen bleiben erhalten. Einzelne Genre-Rekorde verwenden die neue `genre`-Kennung; frühere `custom`-Ergebnisse bleiben getrennt lesbar. [Aktueller Archiv- und Freigabevertrag](Rekordmodi-und-Zeitranglisten.md#ergebnisarchive-statt-späterer-fragenrückblicke).
+
+Neue vollständige Schema-1-Exporte können verkürzte Ergebnisarchive enthalten. Die unten beschriebene vollständige historische Sicherung gehört zum ursprünglichen Rolloutstand. Gefrorene Legacy-Ausgangskopien bleiben bis zu ihrer gesondert freigegebenen Wartung erhalten; die neue Objektfreigabe löscht sie nicht.
+
 ## Rollout-Reihenfolge
 
 1. Aktuellen Produktions-Migrationsverlauf und freie Clusterquote lesend prüfen. Vorhandene Projekt-ID, Kontokonfiguration und öffentlichen Sites-Zugang erhalten. Eine vollständige Datenbanksicherung außerhalb der Veröffentlichungsdateien anlegen. Die vier folgenden neuen Dateien gehören gemeinsam zum Rollout; S2 allein enthält noch keinen fertigen Statistik-Hook.

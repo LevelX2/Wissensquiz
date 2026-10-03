@@ -37,8 +37,14 @@ export const bankAfterAnswer = (
 };
 export const eventIdFor = (round: Round, index: number) =>
   `${round.id}:${round.questions[index].knowledgeId}${round.run ? `:${index}` : ""}`;
-export const runRule = (mode: Mode, preset: "standard" | "custom") =>
+export const runRule = (mode: Mode, preset: "standard" | "genre" | "custom") =>
   `solo-v1.${mode}.${preset}`;
+export const recordSelectionLabel = (round: Round) =>
+  round.recordPreset === "standard"
+    ? "Königsklasse"
+    : round.recordPreset === "genre"
+      ? `Genre · ${round.filters?.genres[0] ?? "Filmfragen"}`
+      : "Frühere eigene Auswahl";
 
 export type RecordPeriod = "week" | "month" | "year" | "all";
 export const periodNames: Record<RecordPeriod, string> = {

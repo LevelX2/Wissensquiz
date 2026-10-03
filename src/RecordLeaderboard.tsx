@@ -4,8 +4,9 @@ import {
   leaderboard,
   type LeaderboardTarget,
 } from "./leaderboard";
-import { recordKey } from "./engine";
 import type { State } from "./model";
+import { recordKey } from "./engine";
+import { roundQuestionCount } from "./roundArchive";
 import { RankingContext } from "./SharedLeaderboard";
 import { PlayerLeaderboard } from "./PlayerLeaderboard";
 import { GuestActivity } from "./GuestActivity";
@@ -15,6 +16,7 @@ import {
   modeNames,
   periodNames,
   recordModes,
+  recordSelectionLabel,
   type RecordMode,
   type RecordPeriod,
 } from "./recordModes";
@@ -22,13 +24,11 @@ import {
 export function Leaderboard({
   state,
   initialTarget,
-  onReview,
   onAccount,
   onPlay,
 }: {
   state: State;
   initialTarget?: LeaderboardTarget;
-  onReview?: (id: string) => void;
   onAccount?: () => void;
   onPlay?: () => void;
 }) {
@@ -215,6 +215,17 @@ export function Leaderboard({
                   </select>
                 </label>
               )}
+              {category && groups.some((g) => g.key !== category) && (
+                <p className="notice">
+                  Weitere Läufe gehören zu anderen Vergleichskategorien.
+                  <button
+                    className="text-button"
+                    onClick={() => setCategory("")}
+                  >
+                    Alle Kategorien anzeigen
+                  </button>
+                </p>
+              )}
               {!visible.length && (
                 <div className="ranking-empty">
                   <h3>Noch kein abgeschlossener Lauf</h3>
@@ -232,11 +243,7 @@ export function Leaderboard({
                   key={group.key}
                   aria-label={categoryLabel(group.round)}
                 >
-                  <h3>
-                    {group.round.recordPreset === "standard"
-                      ? "Standardmix"
-                      : "Eigene Auswahl"}
-                  </h3>
+                  <h3>{recordSelectionLabel(group.round)}</h3>
                   <p className="tiny muted">{categoryLabel(group.round)}</p>
                   <ol
                     className="leaderboard-list"
@@ -271,7 +278,7 @@ export function Leaderboard({
                             Punkte
                           </strong>
                           <span>
-                            {e.correct}/{e.round.questions.length} richtig ·{" "}
+                            {e.correct}/{roundQuestionCount(e.round)} richtig ·{" "}
                             {(e.elapsedMs / 1000).toLocaleString("de-DE", {
                               maximumFractionDigits: 1,
                             })}{" "}
@@ -283,14 +290,6 @@ export function Leaderboard({
                               { timeZone: "Europe/Berlin" },
                             )}
                           </span>
-                          {onReview && (
-                            <button
-                              className="text-button"
-                              onClick={() => onReview(e.round.id)}
-                            >
-                              Spiel ansehen →
-                            </button>
-                          )}
                         </div>
                       </li>
                     ))}

@@ -268,7 +268,16 @@ export async function compileState(
     if (!["questions", "rounds", "events", "learning", "records"].includes(id))
       row("field", id, 0, value);
   for (let position = 0; position < state.rounds.length; position++) {
-    const { questions, before, ...header } = state.rounds[position];
+    const { questions, before, archive, ...header } = state.rounds[position];
+    if (archive) {
+      row("round", header.id, position, {
+        ...header,
+        archive: { version: 1 },
+        questions: archive.questions,
+        beforeObject: await object("json-v1", "{}"),
+      });
+      continue;
+    }
     const old = previous?.rows.get(rowKey("round", header.id))?.value as
       { questions: unknown[]; beforeObject: string } | undefined;
     if (
@@ -402,6 +411,13 @@ export function reconstructState(
     };
     const { beforeObject, questions: refs, ...header } = value;
     if (row.id !== header.id) throw new Error("Rundenidentität passt nicht.");
+    if (header.archive)
+      return {
+        ...header,
+        archive: { version: 1, questions: refs },
+        questions: [],
+        before: JSON.parse(object(beforeObject, "json-v1")),
+      };
     return {
       ...header,
       before: JSON.parse(object(beforeObject, "json-v1")),

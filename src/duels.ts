@@ -11,6 +11,7 @@ import { rebuild, learnPending } from "./engine";
 import { questionSnapshotMatches } from "./filmFacts";
 import { learningPathProgress, newlyUnlocked } from "./learningPath";
 import { rankingRequest } from "./rankingRequest";
+import { roundFact } from "./roundArchive";
 
 export const duelSchema = z.object({
   id: z.string().uuid(),
@@ -228,6 +229,7 @@ export function importDuelView(s: State, v: DuelView, finish = true) {
   const available = v.items.filter((item) => item.event.correct !== null);
   if (!available.length) return;
   let r = s.rounds.find((r) => r.id === id);
+  if (r?.archive && r.status === "completed") return;
   if (!r) {
     r = {
       id,
@@ -267,8 +269,12 @@ export function importDuelView(s: State, v: DuelView, finish = true) {
       // the server's validated year choices stay in the historical snapshot.
       q = { ...structuredClone(existing), answers: q.answers };
     const prior = r.questions.find((old) => old.knowledgeId === q.knowledgeId);
+    const fact = r.archive?.questions.find(
+      (old) => old.knowledgeId === q.knowledgeId,
+    );
     if (prior) q = prior;
-    if (!s.questions.some((base) => base.id === q.id)) {
+    else if (fact) q = { ...q, id: fact.id };
+    if (!r.archive && !s.questions.some((base) => base.id === q.id)) {
       s.questions = [...s.questions, structuredClone(q)];
       catalogChanged = true;
     }
@@ -281,8 +287,11 @@ export function importDuelView(s: State, v: DuelView, finish = true) {
       }
       continue;
     }
-    r.questions.push(q);
-    r.order.push(item.order);
+    if (r.archive) r.archive.questions.push(roundFact(q));
+    else {
+      r.questions.push(q);
+      r.order.push(item.order);
+    }
     r.events.push(event.id);
     s.events.push(event);
     added.push(event);
@@ -296,6 +305,27 @@ export function importDuelView(s: State, v: DuelView, finish = true) {
   } else if (changedGuess || catalogChanged || r.status === "completed") {
     if (added.length || changedGuess || catalogChanged) rebuild(s);
   } else learnPending(s, added);
+}
+// An unfinished duel can continue after its local results were compacted.
+// Only the immediate review uses the server's revealed text, held in memory.
+export function duelReviewRound(v: DuelView, round: Round): Round {
+  if (!round.archive) return round;
+  const items = new Map(
+    v.items.map((item) => [item.question.knowledgeId, item]),
+  );
+  return {
+    ...round,
+    archive: undefined,
+    questions: round.archive.questions.map((fact) => {
+      const item = items.get(fact.knowledgeId);
+      if (!item || item.event.correct === null)
+        throw new Error("Die Duelllösung fehlt.");
+      return { ...viewQuestion(item.question), id: fact.id };
+    }),
+    order: round.archive.questions.map(
+      (fact) => items.get(fact.knowledgeId)!.order,
+    ),
+  };
 }
 export function duelScreen(
   v: DuelView,

@@ -45,7 +45,7 @@ export function ruleLabel(version: string): string {
   if (version.endsWith(".L"))
     return `${ruleLabel(version.slice(0, -2))} · Lösungen nach der Runde`;
   if (version.startsWith("solo-v1."))
-    return `1 · ${version.endsWith(".standard") ? "Standardmix 3 / 4 / 3" : "Eigene Auswahl"}`;
+    return `1 · ${version.endsWith(".standard") ? "Standardmix 3 / 4 / 3" : version.endsWith(".genre") ? "Genre-Rekord · Standardmix 3 / 4 / 3" : "Eigene Auswahl"}`;
   const match = /^2\.B([1-4]*)\.M([0-9:,]+)$/.exec(version);
   if (!match) return version;
   return `2 · Bekanntheit ${match[1].split("").join(" + ")} · Mischung ${match[2]

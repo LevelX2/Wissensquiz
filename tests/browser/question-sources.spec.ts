@@ -34,6 +34,7 @@ for (const width of [1440, 320]) {
     await sources.getByLabel("Schauspieler", { exact: true }).check();
     await sources.getByLabel("Preisträger", { exact: true }).check();
     await openRoundSetup(page);
+    await openRoundSetup(page);
     await modePreparation(page, /Freies Spiel Alle Stufen/).click();
     await expect(
       sources.getByLabel("Filmfragen", { exact: true }),

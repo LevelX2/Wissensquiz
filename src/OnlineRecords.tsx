@@ -53,6 +53,11 @@ const dateLabel = (at: number) =>
   new Date(at).toLocaleString("de-DE", { timeZone: "Europe/Berlin" });
 const label = (c: z.infer<typeof categorySchema>) =>
   [
+    c.rule_version.includes(".standard")
+      ? "Königsklasse"
+      : c.rule_version.includes(".genre")
+        ? "Genre-Rekord"
+        : "Frühere eigene Auswahl",
     c.selection?.sources?.map((s) => sourceLabels[s]).join(" + "),
     c.genres.map(genreLabel).join(" + "),
     c.difficulties.map((d) => d[0].toUpperCase() + d.slice(1)).join(" + "),

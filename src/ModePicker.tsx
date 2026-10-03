@@ -46,20 +46,16 @@ export function ModePicker({
   mode,
   group,
   busy,
-  startDisabled,
-  available,
   onGroup,
   onMode,
-  onStart,
+  onDuel,
 }: {
   mode: Mode;
   group: PlayGroup;
   busy: boolean;
-  startDisabled: boolean;
-  available: (mode: Mode) => boolean;
   onGroup: (group: PlayGroup) => void;
   onMode: (mode: Mode) => void;
-  onStart: (mode: Mode) => void;
+  onDuel: () => void;
 }) {
   const variants = modesForGroup(group);
   return (
@@ -92,16 +88,16 @@ export function ModePicker({
           {variants.map((item) => (
             <div className="mode-tile" key={item}>
               <button
-                disabled={busy || startDisabled || !available(item)}
+                disabled={busy}
                 className={`mode-card mode-variant ${mode === item ? "active" : ""}`}
-                onClick={() => onStart(item)}
+                aria-pressed={mode === item}
+                onClick={() => onMode(item)}
               >
                 <ModeArtwork mode={item} />
                 <strong>{modeNames[item]}</strong>
                 <small>{modeDescriptions[item]}</small>
                 <span className="mode-play">
-                  {available(item) ? "Spielen" : "Keine passenden Fragen"}{" "}
-                  <span aria-hidden="true">→</span>
+                  Auswählen <span aria-hidden="true">→</span>
                 </span>
                 {mode === item && (
                   <span className="mode-check" aria-hidden="true">
@@ -109,17 +105,28 @@ export function ModePicker({
                   </span>
                 )}
               </button>
-              <button
-                className="mode-configure text-button"
-                aria-label={`Auswahl für ${modeNames[item]} anpassen`}
-                aria-pressed={mode === item}
-                disabled={busy}
-                onClick={() => onMode(item)}
-              >
-                Auswahl anpassen
-              </button>
             </div>
           ))}
+        </div>
+      )}
+      {group === "duel" && (
+        <div
+          className="mode-grid mode-variants"
+          role="group"
+          aria-label="Spielvarianten"
+        >
+          <button
+            className="mode-card mode-variant"
+            disabled={busy}
+            onClick={onDuel}
+          >
+            <ModeArtwork mode={mode} duel />
+            <strong>Duell</strong>
+            <small>Drei Runden gegen einen Mitspieler</small>
+            <span className="mode-play">
+              Auswählen <span aria-hidden="true">→</span>
+            </span>
+          </button>
         </div>
       )}
     </>

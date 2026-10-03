@@ -198,7 +198,7 @@ footer button {
 .history {
   border-top: 1px solid var(--line);
 }
-.history button,
+.history article,
 .record-row {
   display: flex;
   align-items: center;
@@ -219,7 +219,7 @@ footer button {
   margin-top: 7px;
   font-size: 11px;
 }
-.history button > span {
+.history article > span {
   color: var(--accent);
   font-size: 12px;
 }

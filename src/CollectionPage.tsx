@@ -12,12 +12,12 @@ import type { Page, DuelPage } from "./uiTypes";
 import { historicalModeName, formatDate } from "./gameUi";
 import { TopicCard } from "./TopicCard";
 import type * as React from "react";
+import { roundQuestionCount } from "./roundArchive";
 
 export function CollectionPage({
   state,
   answeredOnly,
   setAnsweredOnly,
-  setRoundId,
   setPage,
   nav,
   changeSetup,
@@ -25,7 +25,6 @@ export function CollectionPage({
   state: State;
   answeredOnly: boolean;
   setAnsweredOnly: React.Dispatch<React.SetStateAction<boolean>>;
-  setRoundId: React.Dispatch<React.SetStateAction<string>>;
   setPage: React.Dispatch<React.SetStateAction<Page | "duels">>;
   nav: (next: Page | DuelPage) => Promise<void>;
   changeSetup: (patch: Partial<RoundSetup>) => Promise<State | null>;
@@ -188,7 +187,7 @@ export function CollectionPage({
         <h2>Deine letzten Runden</h2>
         {completed.length === 0 ? (
           <p className="muted">
-            Hier erscheinen Deine abgeschlossenen Runden und ihre Erklärungen.
+            Hier erscheinen die Ergebnisse Deiner abgeschlossenen Runden.
           </p>
         ) : (
           <div className="history">
@@ -196,20 +195,14 @@ export function CollectionPage({
               .reverse()
               .slice(0, 20)
               .map((r) => (
-                <button
-                  key={r.id}
-                  onClick={() => {
-                    setRoundId(r.id);
-                    setPage("result");
-                  }}
-                >
+                <article key={r.id}>
                   <div>
                     <b>
                       {historicalModeName(r)} · {roundGenres(r)}
                     </b>
                     <small>
-                      {formatDate(r.finishedAt!)} · {r.questions.length} Fragen
-                      · {roundDifficulties(r)}
+                      {formatDate(r.finishedAt!)} · {roundQuestionCount(r)}{" "}
+                      Fragen · {roundDifficulties(r)}
                     </small>
                   </div>
                   <span>
@@ -218,9 +211,9 @@ export function CollectionPage({
                         (e) => e.roundId === r.id && e.correct,
                       ).length
                     }
-                    /{r.questions.length} richtig ↗
+                    /{roundQuestionCount(r)} richtig
                   </span>
-                </button>
+                </article>
               ))}
           </div>
         )}
@@ -232,10 +225,6 @@ export function CollectionPage({
           void changeSetup({ mode: "rekord" }).then((saved) => {
             if (saved) setPage("home");
           });
-        }}
-        onReview={(id) => {
-          setRoundId(id);
-          setPage("result");
         }}
       />{" "}
     </>

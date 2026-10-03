@@ -8,7 +8,9 @@ export const sourceLabels: Record<QuestionSource, string> = {
   awards: "Preisträger",
   actors: "Schauspieler",
 };
-export const questionSourceOf = (q: Question): QuestionSource =>
+export const questionSourceOf = (
+  q: Pick<Question, "metadata" | "tags">,
+): QuestionSource =>
   q.metadata.person_id
     ? "actors"
     : q.tags.includes("Preisträger")
@@ -22,7 +24,7 @@ export const normalizeGenre = (genre: string) =>
     : genre === "RomCom"
       ? "Rom-Com"
       : genre;
-export const genreOf = (q: Question) =>
+export const genreOf = (q: Pick<Question, "metadata" | "domain">) =>
   q.metadata.subdomain?.trim() || q.domain;
 export const genreLabel = (genre: string) =>
   genre === "Science-Fiction" ? "Sci-Fi" : genre;

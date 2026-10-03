@@ -58,6 +58,7 @@ import type { WriteOptions } from "./entryStorage";
 
 import { PageBoundary } from "./PageBoundary";
 import { ReleaseInfo } from "./ReleaseInfo";
+import { archiveClosedRounds } from "./roundArchive";
 
 const Leaderboard = lazy(() =>
   import("./RecordLeaderboard").then((m) => ({ default: m.Leaderboard })),
@@ -108,6 +109,7 @@ export function App({
   const [pendingSetup, setPendingSetup] = useState<RoundSetup | null>(null);
   const [roundId, setRoundId] = useState("");
   const [justCompleted, setJustCompleted] = useState("");
+  const immediateResult = useRef<Round | undefined>(undefined);
   const [leaderboardTarget, setLeaderboardTarget] =
     useState<LeaderboardTarget>();
   const [duelPlaying, setDuelPlaying] = useState(false);
@@ -212,6 +214,7 @@ export function App({
             r.finishedAt = Date.now();
           }
         rebuild(s);
+        archiveClosedRounds(s);
       }, initial);
       setState(loaded);
     })().catch((e) =>
@@ -223,7 +226,10 @@ export function App({
   useEffect(() => {
     heading.current?.focus();
     window.scrollTo(0, 0);
-    if (page !== "result") setJustCompleted("");
+    if (page !== "result") {
+      setJustCompleted("");
+      immediateResult.current = undefined;
+    }
   }, [page, index, topicScope]);
   const mutate: Mutate = async (fn, options = { progressOnly: true }) => {
     if (inFlight.current) return null;
@@ -248,6 +254,13 @@ export function App({
     }
   };
   const nav = async (next: Page | DuelPage, target?: LeaderboardTarget) => {
+    if (page === "result" || page === "duels") {
+      const saved = await mutate(archiveClosedRounds, {
+        progressOnly: false,
+        reuseCatalog: true,
+      });
+      if (!saved) return;
+    }
     if (next === "topics") setTopicScope(null);
     setCelebration(null);
     if (
@@ -260,14 +273,6 @@ export function App({
           r.status = "aborted";
           r.finishedAt = Date.now();
         }
-      });
-      if (!saved) return;
-    }
-    if (next === "home" && state?.settings.playGroup === "duel") {
-      const saved = await mutate((s) => {
-        s.settings.playGroup = isRecordMode(readRoundSetup(s).mode)
-          ? "timed"
-          : "learn";
       });
       if (!saved) return;
     }
@@ -318,10 +323,11 @@ export function App({
     familiarities: selectedFamiliarities = [...familiarities],
     sources: selectedSources = ["film"],
     recordPreset = "custom",
+    recordGenre: savedRecordGenre,
   } = pendingSetup ?? roundSetup!;
   const playGroup: PlayGroup =
     state.settings.playGroup ?? (isRecordMode(mode) ? "timed" : "learn");
-  const standard = isRecordMode(mode) && recordPreset === "standard";
+  const standard = isRecordMode(mode);
   const changeSetup = async (patch: Partial<RoundSetup>) => {
     if (inFlight.current) return null;
     if (
@@ -356,18 +362,27 @@ export function App({
     }
   };
   const bundledIds = new Set(state.bundledQuestionIds ?? []);
+  const recordGenres = [
+    ...new Set(
+      state.questions
+        .filter((q) => bundledIds.has(q.id) && questionSourceOf(q) === "film")
+        .map(genreOf),
+    ),
+  ].sort();
+  const recordGenre =
+    savedRecordGenre && recordGenres.includes(savedRecordGenre)
+      ? savedRecordGenre
+      : recordGenres[0];
   const filters = standard
     ? {
-        genres: [
-          ...new Set(
-            state.questions
-              .filter(
-                (q) => bundledIds.has(q.id) && questionSourceOf(q) === "film",
-              )
-              .map(genreOf),
-          ),
-        ].sort(),
-        sources: [...questionSources],
+        genres:
+          recordPreset === "genre"
+            ? recordGenre
+              ? [recordGenre]
+              : []
+            : recordGenres,
+        sources:
+          recordPreset === "genre" ? ["film" as const] : [...questionSources],
         difficulties: ["leicht", "mittel", "schwer"] as Difficulty[],
         familiarities: [...familiarities],
       }
@@ -574,6 +589,7 @@ export function App({
                   playGroup={playGroup}
                   standard={standard}
                   recordPreset={recordPreset}
+                  recordGenre={recordGenre}
                   busy={busy}
                   changeSetup={changeSetup}
                   active={active}
@@ -581,7 +597,7 @@ export function App({
                   roundTopic={roundTopic}
                   selectedSources={selectedSources}
                   filters={filters}
-                  genres={genres}
+                  genres={standard ? recordGenres : genres}
                   selectedDifficulties={selectedDifficulties}
                   selectedFamiliarities={selectedFamiliarities}
                   state={state}
@@ -609,7 +625,6 @@ export function App({
                   state={state}
                   answeredOnly={answeredOnly}
                   setAnsweredOnly={setAnsweredOnly}
-                  setRoundId={setRoundId}
                   setPage={setPage}
                   nav={nav}
                   changeSetup={changeSetup}
@@ -626,10 +641,6 @@ export function App({
                       void changeSetup({ mode: "rekord" }).then((saved) => {
                         if (saved) setPage("home");
                       });
-                    }}
-                    onReview={(id) => {
-                      setRoundId(id);
-                      setPage("result");
                     }}
                   />
                 </>
@@ -669,6 +680,9 @@ export function App({
                           "completed",
                         );
                         setJustCompleted(current.id);
+                        immediateResult.current = next.rounds.find(
+                          (r) => r.id === current.id,
+                        );
                         if (unlocks.length)
                           setCelebration({ roundId: current.id, unlocks });
                         playFeedback(
@@ -707,9 +721,9 @@ export function App({
               )}
               {page === "result" && current && (
                 <Result
-                  round={current}
+                  round={immediateResult.current ?? current}
                   state={state}
-                  onHome={() => setPage("home")}
+                  onHome={() => void nav("home")}
                   onLeaderboard={() =>
                     void nav("leaderboard", {
                       kind: "record",
