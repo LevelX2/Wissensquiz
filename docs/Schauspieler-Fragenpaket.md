@@ -1,5 +1,7 @@
 # Schauspieler: Fragenpaket für 100 Personen
 
+03.10.2026 – **Additiver Fragenbereich**: Preisträger und Schauspieler sind unabhängig von Filmgenres auswählbar und ergänzen den Filmfragenbereich. Alle drei Checkboxen bilden einen gemeinsamen Pool; reine Preis-/Personenrunden benötigen keine Filmgenres. Classics/Arthouse begrenzen nur die Filmfragen. Vorhandene Filmmetadaten erzeugen keine verpflichtende Genre- oder Filmgruppenbindung für Preisfragen. [Auswahlvertrag](Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
+
 Stand: 03.10.2026. **800 Fragen für 50 Schauspieler und 50 Schauspielerinnen**, mit jeweils zwei Fragen pro Person und Schwierigkeitsstufe. Das am 02.10.2026 vorbereitete Paket ist auf den anschließenden Veröffentlichungsauftrag als eigene App-Kategorie **Schauspieler** eingebaut. Als **Sites-Version 37** am 03.10.2026 erfolgreich veröffentlicht, nativer Status `succeeded`. [Veröffentlichungsnachweis](Sites-Betrieb.md).
 
 | Stufe im Paket | Pro Person | Insgesamt |
@@ -56,7 +58,7 @@ Die Schwierigkeiten sind redaktionelle Einschätzungen und noch nicht mit Spiele
 
 ## App-Kategorie
 
-**Themen → Schauspieler spielen** öffnet das Freie Spiel mit der ausgewählten Personenkategorie. **Personen ansehen** zeigt die 100 Personen und ihren Lernfortschritt. Auch unter „Zusätzliche Kategorien“ lässt sich Schauspieler auswählen, gemeinsam mit Classics, Arthouse oder Preisträger. Beim Auswählen aus der Filmreise wechselt die App ins Freie Spiel. Rekordrunden und Fehlertraining unterstützen die Kategorie ebenfalls.
+**Themen → Schauspieler spielen** öffnet das Freie Spiel mit der ausgewählten Personenkategorie. **Personen ansehen** zeigt die 100 Personen und ihren Lernfortschritt. Unter „Fragenbereiche“ lässt sich Schauspieler zusätzlich zu Filmfragen und Preisträger auswählen. Classics und Arthouse begrenzen nur die Filmfragen. Beim Auswählen aus der Filmreise wechselt die App ins Freie Spiel. Rekordrunden und Fehlertraining unterstützen die Kategorie ebenfalls.
 
 Die vierte Paketstufe **Außergewöhnlich** wird in der App als **Experte** geführt, jeweils mit 200 Fragen pro Stufe. Personenfragen sind unabhängig von Filmgenres und Filmgruppen; die Auswahl braucht keine Filmdaten. Bei Erkennungsfragen verraten Überschrift und Kategoriehinweis den Namen nicht. Nach der Antwort erscheinen Name, Lösung, die individuelle Vertiefung unter „Etwas tiefer eintauchen“ und die Quellen. Es erscheint kein künstlicher Filmdatenblock.
 

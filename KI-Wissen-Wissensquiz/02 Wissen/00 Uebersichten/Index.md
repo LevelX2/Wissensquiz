@@ -37,7 +37,7 @@
 - [Lernregeln, Fehlertraining, Rundenauswertung, Speicher- und Offlinevertrag](../../../docs/Lernregeln.md)
 - [Filmkarriere, steigende Level, Leistungs-XP und erhaltene Altstände](../../../docs/Filmkarriere-und-XP.md)
 - [Keine Ahnung: bewusste Antwortwahl und Hervorhebung der Lösung](../../../docs/Lernregeln.md#keine-ahnung-als-antwortoption)
-- [Filmreise, freie Modi, Fehlertraining und vier Bekanntheitsgruppen](../../../docs/Spielmodi-und-Bekanntheit.md)
+- [Additive Fragenbereiche, Filmreise, freie Modi und Bekanntheitsgruppen](../../../docs/Spielmodi-und-Bekanntheit.md)
 - [Konten, private Spielstände, persönliche Rekorde und Spielervergleich](../../../docs/Konten-und-Spielstaende.md)
 - [Öffentliche Bestenliste und Gastaktivität der letzten sieben Tage](../../../docs/Bestenliste-und-Gastaktivitaet.md)
 - [Spielervergleich: Timeout-Ursache und Live-Datenbankkorrektur](../../../docs/Spielervergleich-Stoerung.md)

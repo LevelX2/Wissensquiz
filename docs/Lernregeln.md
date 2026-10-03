@@ -1,5 +1,15 @@
 # Lern-, Runden- und Speichervertrag
 
+## Additive Fragenbereiche – 03.10.2026
+
+**Filmfragen, Preisträger und Schauspieler sind drei unabhängig wählbare Bereiche.** Alle gewählten Bereiche bilden einen gemeinsamen Pool. Für die Mischung aus dem gesamten Bestand: alle drei Bereiche, alle Filmgenres und die gewünschten Stufen auswählen. Für reine Schauspielerfragen: nur Schauspieler auswählen. Ohne Filmfragen sind Filmgenres und Filmgruppen inaktiv; die gespeicherte Filmauswahl bleibt für die spätere Zuschaltung erhalten. Beim Zuschalten von Schauspieler oder Preisträger aus der Filmreise wechselt die App ins Freie Spiel; der Wechsel zurück zur Filmreise wählt Filmfragen.
+
+Genres, Bekanntheitsgruppen sowie Classics/Arthouse begrenzen nur den Bereich Filmfragen. Classics und Arthouse sind weiterhin kuratierte Filmfilter, zusammen als Vereinigung. Preis- und Personenfragen werden zusätzlich aufgenommen, unabhängig von vorhandenen Filmmetadaten. Die manuell gewählten Schwierigkeitsstufen gelten für alle Bereiche. Der Gesamtpool umfasst 4.677 Filmfragen, 200 Preisfragen und 800 Personenfragen; alle drei zusammen ergeben 5.677 Fragen und 5.147 eindeutige Wissensziele. Freies Spiel zieht zufällig aus den eindeutigen Zielen; Varianten erhalten keine zusätzlichen Lose. Kein fester Anteil pro Fragenbereich und keine Garantie, dass in einer kurzen Runde jeder Bereich vorkommt. Rekordrunden behalten ihre bestehende Mischung nach Schwierigkeit und Filmgruppe; Fehlertraining seine offenen Fehler.
+
+Die frühere Beschriftung „Nur Preisträger“/„Nur Schauspieler“ entfällt. Themenkarten starten weiterhin gezielt einen einzelnen Bereich; zusätzliche Bereiche lassen sich danach zuschalten. Filmgenre-Karten und ihre Themen-/Fortschrittszahlen zeigen den Filmfragenbereich. Inhaltsdaten, Frage-/Wissensziel-IDs, frühere Rundensnapshots und Lernstände werden nicht umgeschrieben.
+
+Optionales `sources` in Rundenvorbereitung und Rundenfiltern verwendet `film`, `awards`, `actors`. Neue Rundenvorbereitungen wählen standardmäßig `film`; ein vorhandenes `sources: []` bleibt bewusst leer. Alte Kategorieauswahlen werden beim Lesen ohne Mutation in ihre bisherigen reinen/kuratierten Bereiche übersetzt. Historische Runden ohne `sources` behalten die bisherigen Auswahlregeln. Neue gemischte Themen heißen etwa `Filmfragen + Classics + Preisträger + Schauspieler`. In reinen Zusatzrunden werden irrelevante Genre-/Bekanntheitsfilter im Rundensnapshot weggelassen. JSON, IndexedDB und kompakte Kontosicherungen erhalten die Auswahl; Rekordschlüssel unterscheiden die Bereiche.
+
 ## Asynchrone Duelle und Lösungsanzeige
 
 Seit 02.10.2026 lokal ergänzt: drei gemeinsame Zehnerrunden mit 30 Sekunden pro Frage, vier Spielblöcken und serverseitiger Wertung von einem Punkt pro Treffer. Eigenes Antwortlernen bleibt erhalten; eine komplett selbst gespielte Runde erhält normale Abschluss-XP, auch bei späterem Gegnerausfall. Duellpunkte sind keine Rekordpunkte. Der Server friert Fragen und Reihenfolgen ein und bewahrt die erste Startzeit auch bei Pause und Wiederaufnahme. [Vollständiger Duellvertrag](Asynchrone-Filmduelle.md).
@@ -40,7 +50,7 @@ Für die gemeinsame Spielerquote liegt Migration `202610020002_dont_know_ranking
 
 ## Auswahl und Runden
 
-Die Hauptauswahl kombiniert mehrere Filmgenres und Schwierigkeitsstufen. Ein Genre stammt unverändert aus `metadata.subdomain`, ersatzweise aus `domain`; `Science-Fiction` wird als „Sci-Fi“ angezeigt. Innerhalb einer Gruppe gilt ODER, zwischen Genre und Stufe UND. Genres werden aus den vorhandenen Fragen abgeleitet. Classics, Arthouse und Preisträger schränken zusätzlich ein; keine neue Auswahl einzelner Filme/Reihen. Leere Auswahl liefert keine Runde. Die gewählten Genres werden nicht künstlich gleichverteilt; die bestehenden Lernregeln wählen aus dem passenden Gesamtbestand.
+Die Hauptauswahl kombiniert mehrere Filmgenres und Schwierigkeitsstufen. Ein Genre stammt unverändert aus `metadata.subdomain`, ersatzweise aus `domain`; `Science-Fiction` wird als „Sci-Fi“ angezeigt. Innerhalb einer Gruppe gilt ODER, zwischen Genre und Stufe UND. Genres werden aus den vorhandenen Fragen abgeleitet. Classics und Arthouse schränken den Filmfragenbereich zusätzlich ein; Preisträger und Schauspieler ergänzen ihn unabhängig von Genres; keine neue Auswahl einzelner Filme/Reihen. Leere Auswahl liefert keine Runde. Die gewählten Genres werden nicht künstlich gleichverteilt; die bestehenden Lernregeln wählen aus dem passenden Gesamtbestand.
 
 Neue Runden speichern `filters.genres`, `filters.difficulties` und `filters.familiarities` als sortierte, duplikatfreie Listen. Sicherungen behalten diese Felder und prüfen, dass die Rundensnapshots zur Auswahl passen. Alte Runden ohne `filters` verwenden weiterhin ihre bisherigen `topic`-/`difficulty`-Felder; keine Migration von Fragen oder Lernereignissen nötig.
 
@@ -173,7 +183,7 @@ Keine neuen Statistikzähler, keine Migration und keine Änderung an Lernfortsch
 
 ## Arthouse und gemeinsame Kategorienauswahl
 
-Classics, Arthouse und Preisträger sind unabhängig wählbare kuratierte Zusatzkategorien innerhalb der ausgewählten Genres. Mehrere gewählt bedeuten eine Vereinigung (ODER), keine Schnittmenge. Die Rundenkategorie wird kanonisch als Classics + Arthouse und optional mit „: Film/Reihe“ gespeichert; frühere Classics-Runden bleiben gültig. Globale Summen, Auswahl und Fortschritt bleiben nach Frage-/Wissensziel-ID eindeutig. RomCom und Rom-Com werden beim neuen Import zum Genre Rom-Com zusammengeführt, Quellwert bleibt erhalten. Details und vollständige Zahlen im Importvertrag.
+Classics und Arthouse sind unabhängig wählbare kuratierte Filmfilter innerhalb der ausgewählten Genres. Preisträger und Schauspieler sind additive Fragenbereiche. Mehrere gewählt bedeuten eine Vereinigung (ODER), keine Schnittmenge. Die Rundenkategorie wird kanonisch als Classics + Arthouse und optional mit „: Film/Reihe“ gespeichert; frühere Classics-Runden bleiben gültig. Globale Summen, Auswahl und Fortschritt bleiben nach Frage-/Wissensziel-ID eindeutig. RomCom und Rom-Com werden beim neuen Import zum Genre Rom-Com zusammengeführt, Quellwert bleibt erhalten. Details und vollständige Zahlen im Importvertrag.
 
 ## Jahresfragen, Regie und Filmdaten (26.09.2026)
 

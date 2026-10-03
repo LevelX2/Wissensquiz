@@ -28,6 +28,7 @@ export default defineConfig({
         "duels.spec.ts",
         "actors-package.spec.ts",
         "question-organization.spec.ts",
+        "question-sources.spec.ts",
       ],
       use: { ...devices["iPhone 13"] },
     },

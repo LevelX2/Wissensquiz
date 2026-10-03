@@ -48,7 +48,7 @@ test("Schauspieler öffnet 100 Personen und spielt Expertenfragen unabhängig vo
   await page.getByRole("button", { name: "Zur Themenübersicht" }).click();
   await page.getByRole("button", { name: "Schauspieler spielen" }).click();
   await expect(
-    page.getByLabel("Nur Schauspieler", { exact: true }),
+    page.getByRole("checkbox", { name: "Schauspieler", exact: true }),
   ).toBeChecked();
   await expect(
     page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
@@ -63,8 +63,7 @@ test("Schauspieler öffnet 100 Personen und spielt Expertenfragen unabhängig vo
     name: "Bekanntheit der Filme",
     exact: true,
   });
-  for (const label of ["Bekannte Filme", "Kennerfilme", "Entdeckungen"])
-    await groups.getByLabel(new RegExp(label)).uncheck();
+  await expect(groups.getByRole("checkbox").first()).toBeDisabled();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await expect(page.locator("#round-summary")).toContainText("Schauspieler");
   expect(
@@ -157,7 +156,9 @@ test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und voll
   await page.clock.install({ time: now });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
-  await page.getByLabel("Nur Schauspieler", { exact: true }).check();
+  await page
+    .getByRole("checkbox", { name: "Schauspieler", exact: true })
+    .check();
   await expect(
     page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
   ).toHaveAttribute("aria-pressed", "true");
@@ -165,7 +166,7 @@ test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und voll
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.reload();
   await expect(
-    page.getByLabel("Nur Schauspieler", { exact: true }),
+    page.getByRole("checkbox", { name: "Schauspieler", exact: true }),
   ).toBeChecked();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.getByRole("button", { name: "Losspielen" }).click();

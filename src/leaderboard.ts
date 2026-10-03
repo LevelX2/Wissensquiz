@@ -6,11 +6,23 @@ import {
   genreLabel,
   roundDifficulties,
   roundGenres,
+  sourceLabels,
 } from "./filters";
 import type { Round, State } from "./model";
 
 export const genreSelection = (r: Round) =>
-  [...new Set(r.filters?.genres ?? r.questions.map(genreOf))].sort();
+  [
+    ...new Set(
+      r.filters?.sources
+        ? [
+            ...(r.filters.sources.includes("film") ? r.filters.genres : []),
+            ...r.filters.sources
+              .filter((s) => s !== "film")
+              .map((s) => sourceLabels[s]),
+          ]
+        : (r.filters?.genres ?? r.questions.map(genreOf)),
+    ),
+  ].sort();
 export const genreSelectionKey = (r: Round) =>
   JSON.stringify(genreSelection(r));
 export const genreSelectionLabel = (r: Round) =>

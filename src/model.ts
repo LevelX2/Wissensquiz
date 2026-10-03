@@ -53,17 +53,20 @@ export type Question = z.infer<typeof questionSchema>;
 export type Mode = "entdecken" | "ueben" | "rekord" | "fehler";
 export type Difficulty = Question["difficulty"];
 export type SolutionDisplay = "question" | "round";
+export type QuestionSource = "film" | "awards" | "actors";
 export interface RoundSetup {
   mode: Mode;
   genres: string[] | null;
   categories: ("Classics" | "Arthouse" | "Preisträger" | "Schauspieler")[];
   difficulties: Difficulty[];
   familiarities?: (1 | 2 | 3 | 4)[];
+  sources?: QuestionSource[];
 }
 export interface QuizFilters {
   genres: string[];
   difficulties: Difficulty[];
   familiarities?: (1 | 2 | 3 | 4)[];
+  sources?: QuestionSource[];
 }
 export interface Learning {
   knowledgeId: string;

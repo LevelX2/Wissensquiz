@@ -39,6 +39,9 @@ import {
   genreLabel,
   roundGenres,
   roundDifficulties,
+  questionSources,
+  sourceLabels,
+  questionSourceOf,
 } from "./filters";
 import {
   download,
@@ -66,7 +69,8 @@ import { QuestionHistory } from "./QuestionHistoryPanel";
 import {
   categories,
   type Category,
-  categoryTopic,
+  selectionTopic,
+  filmCategories,
   ACTORS,
   matchesCategories,
   matchesTopic,
@@ -158,7 +162,11 @@ function TopicCard({
   const ids = [
     ...new Set(
       questions
-        .filter((q) => (genre ? genreOf(q) === topic : matchesTopic(q, topic)))
+        .filter((q) =>
+          genre
+            ? questionSourceOf(q) === "film" && genreOf(q) === topic
+            : matchesTopic(q, topic),
+        )
         .map((q) => q.knowledgeId),
     ),
   ];
@@ -408,14 +416,24 @@ export function App({
     categories: selectedCategories,
     difficulties: selectedDifficulties,
     familiarities: selectedFamiliarities = [...familiarities],
+    sources: selectedSources = ["film"],
   } = pendingSetup ?? readRoundSetup(state);
   const changeSetup = async (patch: Partial<RoundSetup>) => {
     if (inFlight.current) return null;
     // Reflect the click immediately; only committed state reaches account sync.
-    setPendingSetup({ ...readRoundSetup(state), ...patch });
+    setPendingSetup(
+      readRoundSetup({
+        ...state,
+        settings: {
+          ...state.settings,
+          roundSetup: { ...readRoundSetup(state), ...patch },
+        },
+      }),
+    );
     try {
       return await mutate((s) => {
         s.settings.roundSetup = { ...readRoundSetup(s), ...patch };
+        s.settings.roundSetup = readRoundSetup(s);
       });
     } finally {
       setPendingSetup(null);
@@ -427,22 +445,27 @@ export function App({
   const albumTopics = topics.filter(
     (t) => !answeredOnly || startedTopics.has(t),
   );
-  const genres = [...new Set(state.questions.map(genreOf))]
+  const genres = [
+    ...new Set(
+      state.questions
+        .filter((q) => questionSourceOf(q) === "film")
+        .map(genreOf),
+    ),
+  ]
     .filter((genre) => genre !== ACTORS)
     .sort();
   const browseQuestions =
     page === "topics" && topicScope
       ? state.questions.filter((q) =>
           topicScope.kind === "genre"
-            ? genreOf(q) === topicScope.name
+            ? questionSourceOf(q) === "film" && genreOf(q) === topicScope.name
             : matchesCategories(q, [topicScope.name]),
         )
       : [];
   const browseTopics = [...new Set(browseQuestions.map((q) => q.topic))].sort();
   const filters = {
-    genres: selectedCategories.includes(ACTORS)
-      ? [...new Set([...(selectedGenres ?? genres), ACTORS])]
-      : (selectedGenres ?? genres).filter((genre) => genre !== ACTORS),
+    genres: (selectedGenres ?? genres).filter((genre) => genre !== ACTORS),
+    sources: selectedSources,
     difficulties:
       mode === "entdecken" ? [...difficulties] : selectedDifficulties,
     familiarities:
@@ -455,13 +478,16 @@ export function App({
         : [...filters.genres, genre],
     });
   const playGenre = async (genre: string) => {
-    if (await changeSetup({ categories: [], genres: [genre] })) setPage("home");
+    if (
+      await changeSetup({ categories: [], genres: [genre], sources: ["film"] })
+    )
+      setPage("home");
   };
   const completed = state.rounds.filter((r) => r.status === "completed");
   const active = state.rounds.find((r) => r.status === "active");
   const current = state.rounds.find((r) => r.id === roundId);
   const targetSize = completed.length ? 10 : 5;
-  const roundTopic = categoryTopic("Alle Themen", selectedCategories);
+  const roundTopic = selectionTopic(selectedCategories, selectedSources);
   const selection = selectQuestions(
     pathQuestions(state, mode),
     state.learning,
@@ -645,7 +671,12 @@ export function App({
                         className={`mode-card mode-${m} ${mode === m ? "active" : ""}`}
                         aria-pressed={mode === m}
                         disabled={busy}
-                        onClick={() => void changeSetup({ mode: m })}
+                        onClick={() =>
+                          void changeSetup({
+                            mode: m,
+                            ...(m === "entdecken" ? { sources: ["film"] } : {}),
+                          })
+                        }
                       >
                         <img
                           className="mode-artwork"
@@ -694,11 +725,15 @@ export function App({
                     className="tiny muted"
                     aria-live="polite"
                   >
-                    {filters.genres.length === genres.length
-                      ? "Alle Genres"
-                      : filters.genres.length
-                        ? filters.genres.map(genreLabel).join(" + ")
-                        : "Kein Genre"}
+                    {roundTopic}
+                    {selectedSources.includes("film") &&
+                      ` · ${
+                        filters.genres.length === genres.length
+                          ? "Alle Genres"
+                          : filters.genres.length
+                            ? filters.genres.map(genreLabel).join(" + ")
+                            : "Kein Filmgenre"
+                      }`}
                     {" · "}
                     {selection.length}{" "}
                     {mode === "fehler" ? "offene Fehler" : "Fragen"}
@@ -712,8 +747,8 @@ export function App({
                           : "keine Stufe")
                       : "Filmreise · freigeschaltete Stufen"}
                     {mode !== "entdecken" &&
+                      selectedSources.includes("film") &&
                       ` · Filmgruppen ${selectedFamiliarities.join(" + ") || "keine"}`}
-                    {roundTopic !== "Alle Themen" && " · " + roundTopic}
                   </p>
                 </div>
                 <SolutionChoice
@@ -766,7 +801,7 @@ export function App({
                       ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Genres oder Kategorien, oder spiele frei."
                       : mode === "fehler"
                         ? "Keine offenen Fehler in Deiner Auswahl. Spiele eine neue Runde oder erweitere Deine Filter."
-                        : "Wähle mindestens ein Genre, eine Schwierigkeitsstufe und eine Filmgruppe mit verfügbaren Fragen."}
+                        : "Wähle einen Fragenbereich und eine Schwierigkeitsstufe mit verfügbaren Fragen. Für Filmfragen brauchst Du außerdem passende Genres und Filmgruppen."}
                     {mode === "entdecken" && (
                       <button
                         className="text-button"
@@ -787,6 +822,48 @@ export function App({
 
                 <div className="quiz-filters">
                   <fieldset disabled={busy}>
+                    <legend>Fragenbereiche</legend>
+                    <div className="filter-options">
+                      {questionSources.map((source) => (
+                        <label className="filter-choice" key={source}>
+                          <input
+                            type="checkbox"
+                            checked={selectedSources.includes(source)}
+                            onChange={(e) =>
+                              void changeSetup({
+                                sources: e.target.checked
+                                  ? [...selectedSources, source]
+                                  : selectedSources.filter((s) => s !== source),
+                                ...(source !== "film" &&
+                                e.target.checked &&
+                                mode === "entdecken"
+                                  ? { mode: "ueben" }
+                                  : {}),
+                              })
+                            }
+                          />
+                          <GenreArtwork
+                            genre={
+                              source === "film"
+                                ? "Classics"
+                                : sourceLabels[source]
+                            }
+                            compact
+                          />
+                          {sourceLabels[source]}
+                        </label>
+                      ))}
+                    </div>
+                    <p className="tiny muted">
+                      Gewählte Bereiche bilden einen gemeinsamen Zufallspool.
+                      Genres, Filmgruppen und die Filmauswahl gelten nur für
+                      Filmfragen. Die Schwierigkeitsstufen gelten für alle
+                      Bereiche.
+                    </p>
+                  </fieldset>
+                  <fieldset
+                    disabled={busy || !selectedSources.includes("film")}
+                  >
                     <legend>Filmgenres</legend>
                     <p className="muted tiny">
                       Ein oder mehrere Genres kombinieren.
@@ -821,9 +898,11 @@ export function App({
                       Alle Genres abwählen
                     </button>
                   </fieldset>
-                  <fieldset disabled={busy}>
-                    <legend>Zusätzliche Kategorien</legend>
-                    {categories.map((category) => (
+                  <fieldset
+                    disabled={busy || !selectedSources.includes("film")}
+                  >
+                    <legend>Filmauswahl</legend>
+                    {filmCategories.map((category) => (
                       <label className="filter-choice" key={category}>
                         <input
                           type="checkbox"
@@ -835,11 +914,6 @@ export function App({
                                 : selectedCategories.filter(
                                     (c) => c !== category,
                                   ),
-                              ...(category === ACTORS &&
-                              e.target.checked &&
-                              mode === "entdecken"
-                                ? { mode: "ueben" }
-                                : {}),
                             });
                           }}
                         />
@@ -848,10 +922,12 @@ export function App({
                       </label>
                     ))}
                     <p className="tiny muted">
-                      Kuratierte Auswahlen innerhalb Deiner Genres. Mehrere
-                      gewählte Kategorien werden kombiniert. Gemeinsame Fragen
-                      zählen nur einmal. Schauspieler ist unabhängig von
-                      Filmgenres und Filmgruppen im Freien Spiel verfügbar.
+                      Ohne Einschränkung kommen alle Filmfragen aus Deinen
+                      Genres infrage. Classics und Arthouse begrenzen nur diesen
+                      Bereich; zusammen bilden sie eine Vereinigung.
+                      Schauspieler und Preisträger bleiben zusätzlich im Pool,
+                      wenn Du sie oben auswählst. Gemeinsame Wissensziele zählen
+                      pro Runde einmal.
                     </p>
                   </fieldset>
                   {mode !== "entdecken" ? (
@@ -891,7 +967,9 @@ export function App({
                           Alle Stufen auswählen
                         </button>
                       </fieldset>
-                      <fieldset disabled={busy}>
+                      <fieldset
+                        disabled={busy || !selectedSources.includes("film")}
+                      >
                         <legend>Bekanntheit der Filme</legend>
                         <div className="filter-options">
                           {familiarities.map((level) => (
@@ -1020,7 +1098,16 @@ export function App({
                             await changeSetup({
                               categories: [category],
                               genres: null,
-                              ...(category === ACTORS ? { mode: "ueben" } : {}),
+                              sources:
+                                category === ACTORS
+                                  ? ["actors"]
+                                  : category === "Preisträger"
+                                    ? ["awards"]
+                                    : ["film"],
+                              ...(category === ACTORS ||
+                              category === "Preisträger"
+                                ? { mode: "ueben", categories: [] }
+                                : {}),
                             })
                           )
                             setPage("home");

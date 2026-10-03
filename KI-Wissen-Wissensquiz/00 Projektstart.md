@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+03.10.2026 **Additive Fragenbereiche lokal geprüft**: Filmfragen, Preisträger und Schauspieler gemeinsam oder einzeln auswählbar; Filmgenre-/Bekanntheits-/Classics-/Arthousefilter gelten nur für Filmfragen. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich. Zur Veröffentlichung vorbereitet. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
+
 ## Aktueller Stand
 
 03.10.2026 **Sites-Version 37 veröffentlicht**, nativer Status `succeeded`: Schauspieler als eigene Personenkategorie mit 100 Personen und 800 individuellen Fragen, vier Stufen, Quellen und Vertiefungen. Gesamt 5.677 Fragen/5.147 Ziele. 193 Logik-/Datenbanktests, Produktions-Build und 111 unterschiedliche Browserfälle erfolgreich. Geprüfter isolierter Release auf `codex/schauspieler-release`; laufende Änderungen im Hauptarbeitsordner bleiben lokal. Duellkatalog unverändert, keine SQL-Migration oder Main-Integration. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md).
