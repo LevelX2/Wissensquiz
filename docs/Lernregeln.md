@@ -1,5 +1,9 @@
 # Lern-, Runden- und Speichervertrag
 
+## Neue Rekordmodi – 03.10.2026
+
+Lokal im beauftragten Worktree umgesetzt: Gruppen Lernen/Auf Zeit/Duell, feste Zehnerrunde, Fehlerfrei und Zeitkonto (120 / +15 / −45). Jeder abgeschlossene Lauf wird einzeln nach Modus, Auswahl und deutschem Kalenderzeitraum gelistet. Endlosziele dürfen nach einem vollständigen Pooldurchgang erneut erscheinen; Laufpunkte, Antwortstatistik und begrenzte Lern-XP bleiben getrennt. Gemeinsame Soloergebnisse und vollständige Duellranglisten sind öffentlich, persönliche Duellhistorie privat. Neue Migration noch nicht live angewendet. Der ergänzende Vertrag [Rekordmodi und Zeitranglisten](Rekordmodi-und-Zeitranglisten.md) hat für die neuen Modi Vorrang vor den unten dokumentierten historischen Rekordschlüsseln.
+
 ## Additive Fragenbereiche – 03.10.2026
 
 **Filmfragen, Preisträger und Schauspieler sind drei unabhängig wählbare Bereiche.** Alle gewählten Bereiche bilden einen gemeinsamen Pool. Für die Mischung aus dem gesamten Bestand: alle drei Bereiche, alle Filmgenres und die gewünschten Stufen auswählen. Für reine Schauspielerfragen: nur Schauspieler auswählen. Ohne Filmfragen sind Filmgenres und Filmgruppen inaktiv; die gespeicherte Filmauswahl bleibt für die spätere Zuschaltung erhalten. Beim Zuschalten von Schauspieler oder Preisträger aus der Filmreise wechselt die App ins Freie Spiel; der Wechsel zurück zur Filmreise wählt Filmfragen.
@@ -20,7 +24,7 @@ Duell-Lernereignisse werden nach serverseitiger Freigabe eigener Lösungen über
 
 ## Lernzustand pro Wissensziel
 
-Fragenvarianten teilen die explizite `knowledge_id`. Eine Runde verwendet jedes Wissensziel höchstens einmal. Noch ungesehene Ziele besitzen keinen Lernzustand. Jede beantwortete oder abgelaufene Frage erzeugt ein Ereignis.
+Fragenvarianten teilen die explizite `knowledge_id`. Eine feste Runde verwendet jedes Wissensziel höchstens einmal; in Endlosläufen gilt diese Grenze je vollständigem Pooldurchgang. Noch ungesehene Ziele besitzen keinen Lernzustand. Jede beantwortete oder abgelaufene Frage erzeugt ein Ereignis.
 
 | Antwort | Wirkung |
 | --- | --- |
@@ -86,9 +90,9 @@ Punkte: richtig und innerhalb der Zeit = 100 + 2 × floor((30.000 − vergangene
 
 Für neue Runden beginnt der Rekordschlüssel mit `genres-v1`, gefolgt von der kanonischen Genre-/Stufenkombination, optionalem Einzelthema, Rundengröße und Regelversion. Die Klickreihenfolge ändert die Kategorie nicht. Neue Kategorien werden getrennt von den unveränderten historischen Rekordschlüsseln geführt.
 
-## Persönliche Bestenliste
+## Persönliche Bestenliste (aktualisiert 03.10.2026)
 
-Highscores startet für Gäste und Konten mit „Meine Rekorde“. Kurze Karten zeigen den Bestwert je exakter Vergleichskategorie; die jüngst gespielten Kategorien stehen zuerst. Innerhalb einer Kategorie bleiben Punkte, Gleichstände und die Reihenfolge der einzelnen Runden unverändert. „Alle Runden“ enthält die vollständige Liste, „Auswahl & Vergleich“ die ausführlichen Vergleichsmerkmale. Genre ist direkt filterbar; weitere Filter sind aufklappbar und gemeinsam zurücksetzbar. Der getrennte „Spielervergleich“ beginnt mit richtigen Antworten aller Spielmodi und bietet zusätzlich Runden, Trefferquote sowie passende Rekordpunkte. Keine neue Speicherung und keine Ranglistenmigration für diese Oberflächenvereinfachung.
+Highscores startet mit Rekordspiele → Meine Läufe. Alle abgeschlossenen Einzelergebnisse stehen sichtbar in ihren Vergleichskategorien; Modus, Zeitraum und Kategorie sind auswählbar. Weitere Bereiche sind Duelle und Karriere. Gemeinsame Rekordläufe sind öffentlich; Filter für Karriereleistungen bleiben bei Anmeldung erreichbar. Die genauen neuen Auswahl- und Rangregeln stehen in [Rekordmodi und Zeitranglisten](Rekordmodi-und-Zeitranglisten.md).
 
 Aus sämtlichen abgeschlossenen Rekordrunden und ihren Antwortereignissen abgeleitet, ohne neue Datenablage oder Migration. Aktive, abgebrochene und entspannte Runden zählen nicht. Jede bestehende `recordKey`-Kategorie hat eine eigene Rangliste: Genre-/Stufenkombination, optionales Filmthema, tatsächliche Fragenzahl und Regelversion. Historische Themenkategorien bleiben separat. Die Genre-Auswahl filtert exakt die gespielte Kombination; „Alle Genre-Kombinationen“ zeigt alle Kategorien getrennt, nicht eine vermischte Gesamtwertung.
 

@@ -1,5 +1,9 @@
 # Spielmodi und Filmbekanntheit
 
+## Gruppen und neue Zeitmodi – 03.10.2026
+
+Lernen enthält Filmreise/Freies Spiel/Fehlertraining; Auf Zeit enthält 10 Fragen/Fehlerfrei/Zeitkonto. Duell bildet eine eigene Gruppe. Standardmix: offizielle Pakete aller drei Bereiche, alle Filmgenres/-gruppen, 3 leicht/4 mittel/3 schwer je Zehnerblock, ohne Experte und eigene Importe. Eigene Auswahl bleibt getrennt und unterstützt Experte. Letzte Variante je Gruppe gespeichert. Zeiten, Endloszyklen und Ranglisten: [Rekordmodi und Zeitranglisten](Rekordmodi-und-Zeitranglisten.md). Lokal umgesetzt, noch nicht veröffentlicht.
+
 ## Additive Fragenbereiche – 03.10.2026
 
 **Filmfragen, Preisträger und Schauspieler sind drei unabhängig wählbare Bereiche.** Alle gewählten Bereiche bilden einen gemeinsamen Pool. Für die Mischung aus dem gesamten Bestand: alle drei Bereiche, alle Filmgenres und die gewünschten Stufen auswählen. Für reine Schauspielerfragen: nur Schauspieler auswählen. Ohne Filmfragen sind Filmgenres und Filmgruppen inaktiv; die gespeicherte Filmauswahl bleibt für die spätere Zuschaltung erhalten. Beim Zuschalten von Schauspieler oder Preisträger aus der Filmreise wechselt die App ins Freie Spiel; der Wechsel zurück zur Filmreise wählt Filmfragen.
@@ -38,10 +42,12 @@ Vier Gruppen: **1 Film-Ikonen**, **2 Bekannte Filme**, **3 Kennerfilme**, **4 En
 |---|---|---|
 | Filmreise (`entdecken`) | Genres/Kategorien und automatisch freigeschaltete Schwierigkeiten/Filmgruppen | Neue Ziele zuerst; zuletzt beantwortete Ziele aus drei Runden zurückstellen |
 | Freies Spiel (`ueben`) | Alle Filter frei, ohne Uhr | Keine Lernstandsgewichtung |
-| Rekordrunde (`rekord`) | Alle Filter frei, vorhandene Schwierigkeit/Filmgruppen möglichst gleichmäßig mischen | Keine Lernstandsgewichtung |
+| 10 Fragen (`rekord`) | Standardmix 3/4/3 oder eigene Auswahl; 30 Sekunden je Frage | Keine Lernstandsgewichtung |
+| Fehlerfrei (`fehlerfrei`) | Standardmix oder eigene Auswahl; Ende beim ersten Fehler | Wiederholung erst nach vollständigem Pooldurchgang |
+| Zeitkonto (`zeitkonto`) | Standardmix oder eigene Auswahl; 120 Sekunden, +15/−45 und Antwortzeit | Wiederholung erst nach vollständigem Pooldurchgang |
 | Fehlertraining (`fehler`) | Alle Filter frei, ohne Uhr | Nur offene Fehlantworten und Zeitabläufe; häufige Fehler zuerst, dann jüngste Fehler |
 
-In Filmreise, Freiem Spiel und Rekordrunde zuerst Wissensziele zufällig mischen, dann eine passende Fragevariante wählen. Zusätzliche Varianten bringen keine zusätzlichen Lose. Pro Runde jedes Ziel höchstens einmal; unabhängige freie Runden können sich wiederholen. Erste Runde bis fünf, danach bis zehn Fragen. Die Filmreise begrenzt fällige Wiederholungen auf fünf. Eine neue höchste Schwierigkeit wird bis zu fünf gesehenen Zielen mit bis zu einer halben Runde eingeführt; andernfalls die neueste Filmgruppe. Mehrere Genres teilen dieses Kontingent.
+In Filmreise, Freiem Spiel und Rekordrunde zuerst Wissensziele zufällig mischen, dann eine passende Fragevariante wählen. Zusätzliche Varianten bringen keine zusätzlichen Lose. Pro Runde jedes Ziel höchstens einmal; unabhängige freie Runden können sich wiederholen. Lernmodi: erste Runde bis fünf, danach bis zehn Fragen. Neue feste Rekordrunden: bis zehn; Endlosmodi ohne feste Fragenzahl. Die Filmreise begrenzt fällige Wiederholungen auf fünf. Eine neue höchste Schwierigkeit wird bis zu fünf gesehenen Zielen mit bis zu einer halben Runde eingeführt; andernfalls die neueste Filmgruppe. Mehrere Genres teilen dieses Kontingent.
 
 Fehlertraining seit 02.10.2026: Die Ereignishistorie aller Modi einschließlich aktiver/abgebrochener Runden bestimmt offene Fehler je Wissensziel. Falsch und Zeitablauf nehmen ein Ziel auf; sicher richtig entfernt es, ein geratener Treffer erhält einen bestehenden Fehler. Allein geraten erzeugt keinen Fehler. Anzahl der Fehler seit der letzten sicheren Antwort absteigend, dann letzter Fehler absteigend; Gleichstände zufällig. Bevorzugt wird die zuletzt falsch beantwortete konkrete Frage, ersatzweise eine passende Variante desselben Ziels. Alle Filter gelten; keine Freischaltbindung, kein Auffüllen mit neuen oder richtigen Zielen und kein Warten auf Fälligkeit. Direkte Wiederholung aus dem Ergebnis beschränkt sich auf noch offene Fehler dieser abgeschlossenen Runde. [Auswahl- und Ergebnisvertrag](Lernregeln.md#fehlertraining-und-rundenauswertung).
 

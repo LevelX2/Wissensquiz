@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+03.10.2026 **Rekordmodi im eigenen Worktree umgesetzt und geprüft**: Gruppen Lernen/Auf Zeit/Duell, 10 Fragen/Fehlerfrei/Zeitkonto, Einzellauf-Highscores mit Woche/Monat/Jahr/Allzeit und separate Duellwertung. 226 Logik-/Datenbanktests, Produktions-Build und alle 127 ausgeführten Browserfälle erfolgreich abgedeckt. Private Spielstände und Quellen erhalten. App und neue Migration sind lokal; keine Veröffentlichung oder Integration durch diesen Auftrag. [Aktueller Vertrag](../docs/Rekordmodi-und-Zeitranglisten.md), [Prüfnachweis](../docs/Pruefbericht.md).
+
 03.10.2026 **Additive Fragenbereiche lokal geprüft**: Filmfragen, Preisträger und Schauspieler gemeinsam oder einzeln auswählbar; Filmgenre-/Bekanntheits-/Classics-/Arthousefilter gelten nur für Filmfragen. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich. Zur Veröffentlichung vorbereitet. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
 
 ## Aktueller Stand

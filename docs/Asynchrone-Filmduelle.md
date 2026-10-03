@@ -1,5 +1,7 @@
 # Asynchrone Filmduelle
 
+03.10.2026 lokal ergänzt: Highscores → Duelle zeigt Woche, Monat, Jahr und Allzeit. Öffentliche Wertung: 3 Punkte pro Sieg, 1 pro Remis, 0 pro Niederlage, ausschließlich für vollständig beendete Begegnungen mit jeweils 30 Antworten beider bestätigten Teilnehmer. Aufgabe und Fristablauf bleiben in der privaten Einzelhistorie sichtbar, liefern keine öffentlichen Ranglistenpunkte. Die Trefferwertung innerhalb der Begegnung bleibt erhalten. Neue Servermigration noch nicht live; [Vertrag und Grenzen](Rekordmodi-und-Zeitranglisten.md).
+
 Stand: 02.10.2026. Auf Nutzerauftrag umgesetzt und als Sites-Version 36 veröffentlicht; Servermigration und öffentlicher Duellkatalog mit 4.827 Fragen im bestehenden Supabase-Projekt eingerichtet. [Betriebsnachweis](Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026). Der [ursprüngliche Entwurf](Asynchrone-Filmduelle-Konzept.md) bleibt als historische Diskussionsgrundlage erhalten.
 
 ## Ablauf und Wertung

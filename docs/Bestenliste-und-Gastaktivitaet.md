@@ -1,5 +1,9 @@
 # Öffentliche Bestenliste und Gastaktivität
 
+## Ergänzung Rekordspiele und Duelle – 03.10.2026
+
+Die bisherige öffentliche Spielerwertung liegt jetzt unter Karriere. Rekordspiele zeigt jeden abgeschlossenen Solo-Lauf einzeln, persönlich oder öffentlich aus bestätigten Kontoständen. Duelle bietet eine öffentliche Summenwertung vollständig beendeter Matches (3/1/0) und eine private Einzelhistorie. Woche/Monat/Jahr/Allzeit folgen Europe/Berlin. Aufgabe und Fristablauf sind ungewertet. Gastmeldungen erlauben 100.000 Antworten pro Lauf. Diese Ergänzung benötigt zusätzlich die lokal vorbereitete Migration 20261003103026; kein Live-Rollout erfolgt. [Rekordmodi und Zeitranglisten](Rekordmodi-und-Zeitranglisten.md) ersetzt die älteren Aussagen über den Highscore-Einstieg und ausschließlich angemeldete Einzelrekorde.
+
 ## Stand am 03.10.2026
 
 Auf Nutzerauftrag lokal ergänzt. Der Nutzer hat ausdrücklich die Sichtbarkeit auch für Gäste gewählt. App und neue Servermigration sind vorbereitet; diese Erweiterung ist noch nicht veröffentlicht und die neue Migration noch nicht live angewendet. Bestehende private Kontospielstände werden nicht umgestellt.

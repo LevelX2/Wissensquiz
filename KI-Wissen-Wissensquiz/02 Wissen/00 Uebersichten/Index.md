@@ -9,6 +9,9 @@
 
 ## Spielbare Testversion
 
+- [Neue Rekordmodi, Zeitkonto-Balance, Einzellauf-Highscores und Duellwertung](../../../docs/Rekordmodi-und-Zeitranglisten.md)
+- [Historischer Vorschlag mit unveränderten Ideenquellen](../../../docs/Endlos-Rekord-Konzept.md)
+
 - [Fragedatenorganisation: getrennter lokaler Katalog, verlustfreie Metadatenverweise und schnellere Zuordnungen](../../../docs/Fragedaten-Organisation.md)
 - [Struktur- und Größenprüfung aller Fragenpakete](../../../docs/Fragedaten-Pruefung.json)
 
