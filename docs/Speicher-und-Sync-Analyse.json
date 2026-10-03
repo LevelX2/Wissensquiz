@@ -1,0 +1,162 @@
+{
+  "format": "storage-sync-analysis-v1",
+  "date": "2026-10-03",
+  "scope": "Public catalog and synthetic games only; JSON payload measurements, not PostgreSQL disk or a server load test.",
+  "questions": 5677,
+  "assumptions": "Deterministic random selection; fixed synthetic times; five questions in first round, ten subsequently; controlled mistakes and guess corrections.",
+  "proposedDeltaLimitations": "Entity replacement delta, including the entire affected compact round. No SQL endpoint, persistent outbox, idempotency receipt, read cursor, authentication, or wire protocol has been implemented. Catalog imports and full restores need separate protocols.",
+  "checks": {
+    "cloudRoundtrip": true,
+    "catalogRoundtrip": true,
+    "exactDeltaReconstruction": true,
+    "backupValidation": true
+  },
+  "samples": [
+    {
+      "completedRounds": 0,
+      "events": 0,
+      "fullCloudBytes": 3057517,
+      "catalogBase64Bytes": 3046892,
+      "compactCatalogBase64Bytes": 2519480,
+      "progressWithReferenceBytes": 10665,
+      "progressFieldsBytes": {
+        "schemaVersion": 1,
+        "rounds": 2,
+        "events": 2,
+        "learning": 2,
+        "badges": 2,
+        "favorites": 2,
+        "reports": 2,
+        "imports": 10237,
+        "settings": 112,
+        "experience": 1,
+        "career": 29,
+        "records": 2
+      },
+      "deltas": [
+        {
+          "action": "setting",
+          "bytes": 450
+        },
+        {
+          "action": "answer",
+          "bytes": 2758
+        },
+        {
+          "action": "guess-correction",
+          "bytes": 803
+        }
+      ]
+    },
+    {
+      "completedRounds": 10,
+      "events": 95,
+      "fullCloudBytes": 3149358,
+      "catalogBase64Bytes": 3046892,
+      "compactCatalogBase64Bytes": 2519480,
+      "progressWithReferenceBytes": 102506,
+      "progressFieldsBytes": {
+        "schemaVersion": 1,
+        "rounds": 39998,
+        "events": 30347,
+        "learning": 20018,
+        "badges": 2,
+        "favorites": 2,
+        "reports": 2,
+        "imports": 10237,
+        "settings": 112,
+        "experience": 3,
+        "career": 29,
+        "records": 1484
+      },
+      "deltas": [
+        {
+          "action": "setting",
+          "bytes": 450
+        },
+        {
+          "action": "answer",
+          "bytes": 4670
+        },
+        {
+          "action": "guess-correction",
+          "bytes": 935
+        }
+      ]
+    },
+    {
+      "completedRounds": 100,
+      "events": 995,
+      "fullCloudBytes": 4034754,
+      "catalogBase64Bytes": 3046892,
+      "compactCatalogBase64Bytes": 2519480,
+      "progressWithReferenceBytes": 987902,
+      "progressFieldsBytes": {
+        "schemaVersion": 1,
+        "rounds": 475338,
+        "events": 319254,
+        "learning": 167264,
+        "badges": 2,
+        "favorites": 2,
+        "reports": 2,
+        "imports": 10237,
+        "settings": 112,
+        "experience": 4,
+        "career": 29,
+        "journey": 301,
+        "records": 15074
+      },
+      "deltas": [
+        {
+          "action": "setting",
+          "bytes": 450
+        },
+        {
+          "action": "answer",
+          "bytes": 4692
+        },
+        {
+          "action": "guess-correction",
+          "bytes": 803
+        }
+      ]
+    },
+    {
+      "completedRounds": 300,
+      "events": 2995,
+      "fullCloudBytes": 6024262,
+      "catalogBase64Bytes": 3046892,
+      "compactCatalogBase64Bytes": 2519480,
+      "progressWithReferenceBytes": 2977410,
+      "progressFieldsBytes": {
+        "schemaVersion": 1,
+        "rounds": 1545943,
+        "events": 962182,
+        "learning": 412927,
+        "badges": 2,
+        "favorites": 2,
+        "reports": 2,
+        "imports": 10237,
+        "settings": 112,
+        "experience": 5,
+        "career": 29,
+        "journey": 563,
+        "records": 45123
+      },
+      "deltas": [
+        {
+          "action": "setting",
+          "bytes": 450
+        },
+        {
+          "action": "answer",
+          "bytes": 6067
+        },
+        {
+          "action": "guess-correction",
+          "bytes": 869
+        }
+      ]
+    }
+  ]
+}

@@ -4,6 +4,8 @@ Seit Sites-Version 36 am 02.10.2026 veröffentlicht: **asynchrone Duelle** mit d
 
 Spielbare deutsche React-/TypeScript-App für kurze Filmquizrunden mit dauerhaftem Lernfortschritt im Browser. Kein Konto, Backend oder KI-Dienst erforderlich.
 
+03.10.2026 als Sites-Version 37 veröffentlicht: [Schauspieler](docs/Schauspieler-Fragenpaket.md) als eigene Personenkategorie mit 800 Fragen zu 100 Personen, je 200 Leicht/Mittel/Schwer/Experte. Unter **Themen → Schauspieler spielen** oder den zusätzlichen Kategorien auswählbar. Personenübersicht, individuelle Vertiefungen und Quellen; unabhängig von Filmgenres und Filmgruppen, ohne verpflichtende Filmdaten. 50 vorhandene Wissensziele erhalten, 750 neue Ziele. Gesamt **5.677 Fragen/5.147 Ziele**, weiterhin 656 eingeordnete Filme. [Importnachweis](docs/importbericht-schauspieler.json). Veröffentlichung unter [Sites-Betrieb](docs/Sites-Betrieb.md).
+
 Aktueller veröffentlichter Inhalt mit [Alle-Genres-Ergänzung](docs/Alle-Genres-Ergaenzung.md) und [Preisträger](docs/Preistraeger.md), 02.10.2026: **4.877 Fragen, 4.397 Wissensziele und 656 Filme**. 16 CSV-Pakete, Filmdaten zu allen Filmen und vier Bekanntheitsgruppen. Preisträger enthält 200 redaktionell erstellte Fragen, je 50 für Leicht/Mittel/Schwer/Experte; bestehende Fortschritte und Freischaltungen bleiben erhalten. Filmkarriere, neue Pakete und Duelle sind als Version 36 veröffentlicht. Paketabschnitte weiter unten dokumentieren historische Importstände.
 
 ## Starten
@@ -79,6 +81,8 @@ Vorhandene Fragen-IDs werden mit Bericht übersprungen, niemals automatisch übe
 Sichere fällige Antworten erhöhen die Lernstufe höchstens einmal pro lokalem Kalendertag. Abstände: **1, 3, 7, 21 Tage**. „Gefestigt“ erfordert mindestens vier sichere Lerntage und eine sichere Wiederholung nach mindestens sieben Tagen seit der letzten Antwort auf dieses Wissensziel, einschließlich früher Zwischenantworten. Falsch: Wiederholung nach zehn Minuten. Geraten: sechs Stunden. Beides setzt die aktuelle Stufe auf „entdeckt“ zurück; erworbene Abzeichen bleiben erhalten. Details: [Lern- und Speichervertrag](docs/Lernregeln.md).
 
 IndexedDB speichert Fragen, Inhaltsversionen, Rundensnapshots, eindeutige Antwort-/Lernereignisse, Fortschritt, Termine, XP, Rekorde, Abzeichen, Einstellungen und Meldungen atomar. Schreibfehler werden angezeigt. **Regelmäßig JSON exportieren**, besonders vor Browserbereinigung oder einem Adresswechsel. Der validierte Wiederimport ersetzt erst nach ausdrücklicher Bestätigung den Stand; Zurücksetzen erfordert `LÖSCHEN`.
+
+Der lokale Fragenkatalog liegt getrennt vom Fortschritt und wird bei Antworten nicht erneut geschrieben. Verlustfreie Metadatenverweise reduzieren seine JSON-Nutzdaten um 26,64 %. Neue Solorunden speichern nur ihre benötigten Ausgangslernstände. `npm run check:questions` prüft Quellen, IDs, Rekonstruktion und Größen; [Speicherlayout und Nachweise](docs/Fragedaten-Organisation.md).
 
 Der Produktions-Build enthält Manifest, eigene Icons und Service Worker. Nach bestätigtem Paketdownload sind Oberfläche, Fragen und Erklärungen offline verfügbar. Updates warten auf das Schließen aller alten App-Fenster. Aktive Rekordrunden werden nach Neuladen/Browserneustart als abgebrochen behandelt; unbeantwortete Fragen erhalten keine neue Zeit. Entspannte Runden sind fortsetzbar.
 

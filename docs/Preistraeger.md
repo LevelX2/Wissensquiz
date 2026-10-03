@@ -1,5 +1,7 @@
 # Preisträger – 200 Filmfragen
 
+03.10.2026 – **Additiver Fragenbereich**: Preisträger und Schauspieler sind unabhängig von Filmgenres auswählbar und ergänzen den Filmfragenbereich. Alle drei Checkboxen bilden einen gemeinsamen Pool; reine Preis-/Personenrunden benötigen keine Filmgenres. Classics/Arthouse begrenzen nur die Filmfragen. Vorhandene Filmmetadaten erzeugen keine verpflichtende Genre- oder Filmgruppenbindung für Preisfragen. [Auswahlvertrag](Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
+
 Am 02.10.2026 auf Nutzerauftrag redaktionell erstellt, integriert und als Sites-Version 36 veröffentlicht. Neue Zusatzkategorie **Preisträger**, neben Classics und Arthouse, mit **je 50 Fragen für Leicht, Mittel, Schwer und Experte**. 200 neue Fragen und Wissensziele, keine Varianten. 100 Fragen im Oscar-Schwerpunkt, 50 zu Cannes und 50 zu Venedig; darunter Verbindungen zwischen den Veranstaltungen. Der Schwerpunkt umfasst historische Verleihungen von 1940 bis 2024, keine vollständige aktuelle Siegerchronik.
 
 ## Inhalt und Vertiefung
@@ -22,7 +24,7 @@ Die Preiszuordnungen und konkreten Preisangaben der Vertiefungen wurden mit den 
 
 Die bisherige App hatte drei Schwierigkeiten. Für die gewünschten viermal 50 wurde **Experte** ergänzt. Im Freien Spiel und in Rekordrunden frei wählbar; im Fehlertraining für offene Expertenfehler verfügbar. Die Filmreise behält ihre drei Stufen Leicht/Mittel/Schwer und festen Ziele. Expertenantworten erzeugen keinen vierten Filmreise-Gate. Eine sichere Expertenantwort bringt wie Schwer zusätzlich fünf Karriere-XP; die bestehenden Tagesgrenzen und Lernboni gelten weiter.
 
-Preisträger lässt sich mit Genres und anderen Zusatzkategorien kombinieren. Mehrere Kategorien bilden eine Vereinigung; dieselbe Frage und dasselbe Wissensziel zählen innerhalb einer Runde einmal. Das Paket kennzeichnet gezielt Preisfragen, nicht sämtliche bestehenden Fragen zu ausgezeichneten Filmen. Historische Classics-/Arthouse-Zuordnungen werden dadurch nicht erweitert. JSON- und kompakte Kontosicherungen erhalten vier Schwierigkeiten, die dritte Kategorie und Expertenrunden.
+Preisträger ergänzt Filmfragen und Schauspieler als eigenständiger Fragenbereich. Filmgenres und Classics/Arthouse begrenzen nur Filmfragen; die gewählten Bereiche bilden eine Vereinigung. Dasselbe Wissensziel zählt innerhalb einer Runde einmal. Das Paket kennzeichnet gezielt Preisfragen, nicht sämtliche bestehenden Fragen zu ausgezeichneten Filmen. Historische Classics-/Arthouse-Zuordnungen werden dadurch nicht erweitert. JSON- und kompakte Kontosicherungen erhalten vier Schwierigkeiten, die dritte Kategorie und Expertenrunden.
 
 Die neue CSV wird beim App-Start transaktional und idempotent ergänzt. Bisherige Fragen, IDs, Inhaltsversionen, Ereignisse, Runden, Einstellungen, Karriere- und Lernstände bleiben erhalten. Gesamtbestand veröffentlicht: **16 CSV-Pakete, 4.877 Fragen, 4.397 Wissensziele, 604 Film-/Reihenthemen und 656 eingeordnete Filme**; davon 837 schon zuvor generierte Filmfragen. Rohquelle und `public/preistraeger-fragen.csv` sind bytegleich und Bestandteil des Offline-Pakets.
 
