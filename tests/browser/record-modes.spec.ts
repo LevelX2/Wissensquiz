@@ -1,4 +1,5 @@
 import {
+  modePreparation,
   test,
   expect,
   readStoredState,
@@ -25,7 +26,6 @@ async function timedMode(page: Page, mode: "Fehlerfrei" | "Zeitkonto") {
   await page
     .getByRole("button", { name: new RegExp("^" + mode + " ") })
     .click();
-  await page.getByRole("button", { name: "Losspielen" }).click();
   await readyQuestion(page);
 }
 async function respond(page: Page, correct: boolean) {
@@ -152,21 +152,23 @@ test("Gruppen merken Varianten, Standardmix ist fest und laufende Endlosspiele w
   await expect(
     page.getByRole("group", { name: "Schwierigkeitsstufen", exact: true }),
   ).toHaveCount(0);
-  await page.getByRole("button", { name: /^Zeitkonto / }).click();
+  await modePreparation(page, /^Zeitkonto /).click();
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
-  await expect(
-    page.getByRole("button", { name: /^Zeitkonto / }),
-  ).toHaveAttribute("aria-pressed", "true");
+  await expect(modePreparation(page, /^Zeitkonto /)).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
   await page.reload();
   await openRoundSetup(page);
-  await expect(
-    page.getByRole("button", { name: /^Zeitkonto / }),
-  ).toHaveAttribute("aria-pressed", "true");
+  await expect(modePreparation(page, /^Zeitkonto /)).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
   await page.getByRole("button", { name: "Losspielen" }).click();
   await page.clock.runFor(100);
   await respond(page, true);

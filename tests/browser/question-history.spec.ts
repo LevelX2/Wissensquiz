@@ -1,4 +1,4 @@
-import { openRoundSetup, test, expect } from "./fixtures";
+import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -145,7 +145,7 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     await openRoundSetup(page);
     await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
     await openRoundSetup(page);
-    await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
+    await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
     await page.getByRole("button", { name: "Losspielen" }).click();
     await expect(stats).toHaveCount(0);
   });

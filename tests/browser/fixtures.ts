@@ -11,6 +11,16 @@ import {
 export { expect, chromium, type Page } from "@playwright/test";
 export const testBaseUrl = `http://localhost:${process.env.WISSENSQUIZ_BROWSER_PORT ?? 4173}`;
 
+// Preparing is a separate, visible action; the illustrated tile starts directly.
+export function modePreparation(page: Page, name: string | RegExp) {
+  return page
+    .locator(".mode-tile")
+    .filter({
+      has: page.getByRole("button", { name }).and(page.locator(".mode-card")),
+    })
+    .locator(".mode-configure");
+}
+
 // Performance cases need native timers and rendering frames. Playwright's
 // setFixedTime also installs its timer/RAF scheduler, adding measurement jitter.
 // Keep only the calendar date fixed, including after navigation and reload.

@@ -18,6 +18,7 @@ import {
   type State,
   type RoundSetup,
   type Difficulty,
+  type Mode,
 } from "./model";
 import {
   difficulties,
@@ -391,17 +392,45 @@ export function App({
   const roundTopic = standard
     ? "Alle Themen"
     : selectionTopic(selectedCategories, selectedSources);
-  const begin = async () => {
+  const begin = async (requestedMode: Mode = mode) => {
     unlockSound(state.settings);
     let id = "";
     const next = await mutate((s) => {
+      if (s.rounds.some((r) => r.status === "active"))
+        throw new Error(
+          "Beende zuerst Deine begonnene Runde oder setze sie fort.",
+        );
+      // Select and start in one transaction: the clicked tile must not use the
+      // previously rendered mode, and a failed save must not change the setup.
+      s.settings.roundSetup = readRoundSetup({
+        ...s,
+        settings: {
+          ...s.settings,
+          roundSetup: { ...readRoundSetup(s), mode: requestedMode },
+        },
+      });
+      s.settings.playGroup = isRecordMode(requestedMode) ? "timed" : "learn";
+      if (isRecordMode(requestedMode)) s.settings.lastTimedMode = requestedMode;
+      else s.settings.lastLearningMode = requestedMode;
       s.settings.spoilers = true;
       id = startRound(s, {
-        mode,
+        mode: requestedMode,
         topic: roundTopic,
         difficulty: "Alle Stufen",
-        filters,
-        ...(isRecordMode(mode) ? { recordPreset } : {}),
+        filters: {
+          ...filters,
+          difficulties: standard
+            ? filters.difficulties
+            : requestedMode === "entdecken"
+              ? [...difficulties]
+              : selectedDifficulties,
+          familiarities: standard
+            ? filters.familiarities
+            : requestedMode === "entdecken"
+              ? [...familiarities]
+              : selectedFamiliarities,
+        },
+        ...(isRecordMode(requestedMode) ? { recordPreset } : {}),
       }).id;
     });
     if (next) {

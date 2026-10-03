@@ -1,4 +1,10 @@
-import { test, expect, readStoredState, openRoundSetup } from "./fixtures";
+import {
+  modePreparation,
+  test,
+  expect,
+  readStoredState,
+  openRoundSetup,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinierbar", async ({
@@ -12,10 +18,10 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   const start = page.getByRole("button", { name: "Losspielen" });
   await expect(start).toBeEnabled();
   await openRoundSetup(page);
-  const tiles = page.locator(".mode-groups .mode-card");
+  const tiles = page.locator(".mode-groups .mode-group");
   const duel = page.getByRole("button", { name: "Duell", exact: true });
   await expect(tiles).toHaveCount(3);
-  await expect(page.locator(".mode-artwork")).toHaveCount(2);
+  await expect(page.locator(".mode-artwork")).toHaveCount(3);
   for (const img of await page.locator(".mode-artwork").all())
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))
@@ -108,7 +114,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await expect(guide).toContainText("zufällige Fragen ohne Zeitdruck");
   await more.click();
   await expect(
@@ -117,7 +123,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
+  await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
   await page.getByLabel(/Eigene Auswahl ·/).check();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await expect(guide).toContainText("Pro Frage hast Du 30 Sekunden");
@@ -129,10 +135,10 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await expect(
-    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+    modePreparation(page, /Freies Spiel Alle Stufen/),
   ).toHaveAttribute("aria-pressed", "true");
   await openRoundSetup(page);
   const levels = page.getByRole("group", {
@@ -148,10 +154,11 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Filmreise Filmwelten/ }).click();
-  await expect(
-    page.getByRole("button", { name: /Filmreise Filmwelten/ }),
-  ).toHaveAttribute("aria-pressed", "true");
+  await modePreparation(page, /Filmreise Filmwelten/).click();
+  await expect(modePreparation(page, /Filmreise Filmwelten/)).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
   await expect(start).toBeEnabled();
   await expect(levels).toHaveCount(0);
   await expect(page.locator("#round-summary")).toContainText("Filmreise");
@@ -198,7 +205,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   if (browserName === "chromium") await context.setOffline(true);
   await page.reload();
   await openRoundSetup(page);
-  await expect(page.locator(".mode-artwork")).toHaveCount(2);
+  await expect(page.locator(".mode-artwork")).toHaveCount(3);
   for (const img of await page.locator(".mode-artwork").all())
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))

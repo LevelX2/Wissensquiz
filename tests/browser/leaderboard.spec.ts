@@ -1,4 +1,4 @@
-import { openRoundSetup, test, expect } from "./fixtures";
+import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
 import { packages } from "../../src/packages";
@@ -24,15 +24,17 @@ test("Leere Highscores führen zur Rekordauswahl und zur Anmeldung", async ({
     .press("Enter");
   await expect(page.locator(".round-setup")).toBeVisible();
   await openRoundSetup(page);
-  await expect(
-    page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }),
-  ).toHaveAttribute("aria-pressed", "true");
+  await expect(modePreparation(page, /^10 Fragen 30 Sekunden/)).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
   await expect(page.locator(".question-card")).toHaveCount(0);
   await page.reload();
   await openRoundSetup(page);
-  await expect(
-    page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }),
-  ).toHaveAttribute("aria-pressed", "true");
+  await expect(modePreparation(page, /^10 Fragen 30 Sekunden/)).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await page
     .getByRole("button", { name: "Duelle", exact: true })

@@ -1,4 +1,5 @@
 import {
+  modePreparation,
   openRoundSetup,
   test,
   expect,
@@ -41,9 +42,7 @@ test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Mod
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await openRoundSetup(page);
-  await page
-    .getByRole("button", { name: /Fehlertraining Offene Fehler/ })
-    .click();
+  await modePreparation(page, /Fehlertraining Offene Fehler/).click();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
   await expect(
     page.getByText(/Keine offenen Fehler in Deiner Auswahl/),
@@ -54,7 +53,7 @@ test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Mod
   await page.reload();
   await openRoundSetup(page);
   await expect(
-    page.getByRole("button", { name: /Fehlertraining Offene Fehler/ }),
+    modePreparation(page, /Fehlertraining Offene Fehler/),
   ).toHaveAttribute("aria-pressed", "true");
   await expect(page.locator(".round-guide")).toContainText(
     "fällt es aus dem Fehlertraining heraus",
@@ -209,9 +208,7 @@ for (const width of [320, 1280]) {
     await page.getByRole("button", { name: "Neue Runde wählen" }).click();
     await openRoundSetup(page);
     await openRoundSetup(page);
-    await page
-      .getByRole("button", { name: /Fehlertraining Offene Fehler/ })
-      .click();
+    await modePreparation(page, /Fehlertraining Offene Fehler/).click();
     await expect(
       page.getByRole("button", { name: "Losspielen" }),
     ).toBeDisabled();

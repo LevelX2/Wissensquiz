@@ -1,4 +1,5 @@
 import {
+  modePreparation,
   openRoundSetup,
   test,
   expect,
@@ -60,7 +61,7 @@ test("Schauspieler öffnet 175 Personen und spielt Expertenfragen unabhängig vo
     page.getByRole("checkbox", { name: "Schauspieler", exact: true }),
   ).toBeChecked();
   await expect(
-    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+    modePreparation(page, /Freies Spiel Alle Stufen/),
   ).toHaveAttribute("aria-pressed", "true");
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",
@@ -180,7 +181,7 @@ test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und voll
     .getByRole("checkbox", { name: "Schauspieler", exact: true })
     .check();
   await openRoundSetup(page);
-  await expect(page.getByRole("button", { name: /Filmreise/ })).toHaveAttribute(
+  await expect(modePreparation(page, /Filmreise/)).toHaveAttribute(
     "aria-pressed",
     "true",
   );

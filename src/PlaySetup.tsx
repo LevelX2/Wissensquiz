@@ -1,4 +1,4 @@
-import { ModePicker, type PlayGroup } from "./ModePicker";
+import { ModePicker, modesForGroup, type PlayGroup } from "./ModePicker";
 import { isRecordMode, isEndlessMode } from "./recordModes";
 import { hasPackage, packages } from "./packages";
 import { matchesTopic } from "./categories";
@@ -57,7 +57,7 @@ export function PlaySetup({
   busy: boolean;
   changeSetup: (patch: Partial<RoundSetup>) => Promise<State | null>;
   active: Round | undefined;
-  begin: () => Promise<void>;
+  begin: (mode?: Mode) => Promise<void>;
   roundTopic: string;
   selectedSources: QuestionSource[];
   filters: {
@@ -114,6 +114,43 @@ export function PlaySetup({
     },
     () => 0.5,
   );
+  const availableModes = new Set(
+    modesForGroup(playGroup).filter((nextMode) => {
+      if (nextMode === mode) return selection.length > 0;
+      return (
+        selectQuestions(
+          pathQuestions(state, nextMode).filter(
+            (q) => !standard || (standardReady && officialIds?.has(q.id)),
+          ),
+          state.learning,
+          {
+            mode: nextMode,
+            topic: roundTopic,
+            difficulty: "Alle Stufen",
+            filters: {
+              ...filters,
+              difficulties: standard
+                ? filters.difficulties
+                : nextMode === "entdecken"
+                  ? [...difficulties]
+                  : selectedDifficulties,
+              familiarities: standard
+                ? filters.familiarities
+                : nextMode === "entdecken"
+                  ? [...familiarities]
+                  : selectedFamiliarities,
+            },
+            ...(isRecordMode(nextMode) ? { recordPreset } : {}),
+            size: targetSize,
+            now,
+            ...(nextMode === "entdecken" ? discoveryContext(state) : {}),
+            ...(nextMode === "fehler" ? errorTrainingContext(state) : {}),
+          },
+          () => 0.5,
+        ).length > 0
+      );
+    }),
+  );
   const genreSummary =
     filters.genres.length === genres.length
       ? "Alle Genres"
@@ -145,6 +182,9 @@ export function PlaySetup({
             mode={mode}
             group={playGroup}
             busy={busy}
+            startDisabled={!!active}
+            available={(item) => availableModes.has(item)}
+            onStart={(next) => void begin(next)}
             onMode={(next) =>
               void changeSetup({
                 mode: next,
@@ -269,23 +309,33 @@ export function PlaySetup({
                   <input
                     type="radio"
                     name="record-preset"
+                    aria-label="Standardmix · alle Bereiche · 3 leicht / 4 mittel / 3 schwer"
                     checked={standard}
                     onChange={() =>
                       void changeSetup({ recordPreset: "standard" })
                     }
-                  />{" "}
-                  Standardmix · alle Bereiche · 3 leicht / 4 mittel / 3 schwer
+                  />
+                  <span>
+                    <strong>Standardmix</strong>
+                    <small>
+                      Alle Bereiche · 3 leicht / 4 mittel / 3 schwer
+                    </small>
+                  </span>
                 </label>
                 <label>
                   <input
                     type="radio"
                     name="record-preset"
+                    aria-label="Eigene Auswahl · eigene Vergleichskategorie"
                     checked={!standard}
                     onChange={() =>
                       void changeSetup({ recordPreset: "custom" })
                     }
-                  />{" "}
-                  Eigene Auswahl · eigene Vergleichskategorie
+                  />
+                  <span>
+                    <strong>Eigene Auswahl</strong>
+                    <small>Deine Filter · eigene Vergleichskategorie</small>
+                  </span>
                 </label>
               </fieldset>
             )}

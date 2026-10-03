@@ -1,4 +1,10 @@
-import { openRoundSetup, test, expect, type Page } from "./fixtures";
+import {
+  modePreparation,
+  openRoundSetup,
+  test,
+  expect,
+  type Page,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { server, alice, bob, qs } from "./duel-service";
 test.use({ serviceWorkers: "block" });
@@ -129,7 +135,7 @@ test("gesammelte Sololösungen bleiben neutral, lassen Pausen zu und erscheinen 
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await expect(
     page.getByRole("radio", { name: "Nach der Runde", exact: true }),
   ).toHaveCount(0);

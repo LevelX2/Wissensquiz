@@ -35,6 +35,7 @@ export default defineConfig({
         "journey-areas.spec.ts",
 
         "compact-home.spec.ts",
+        "game-cards.spec.ts",
         "record-modes.spec.ts",
         "release-info.spec.ts",
       ],

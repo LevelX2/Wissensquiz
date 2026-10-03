@@ -1,4 +1,10 @@
-import { openRoundSetup, test, expect, readStoredState } from "./fixtures";
+import {
+  modePreparation,
+  openRoundSetup,
+  test,
+  expect,
+  readStoredState,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 for (const width of [1440, 320]) {
   test(`Filmfragen, Schauspieler und Preisträger bilden einen additiven Pool bei ${width} Pixeln`, async ({
@@ -28,14 +34,12 @@ for (const width of [1440, 320]) {
     await sources.getByLabel("Schauspieler", { exact: true }).check();
     await sources.getByLabel("Preisträger", { exact: true }).check();
     await openRoundSetup(page);
-    await page
-      .getByRole("button", { name: /Freies Spiel Alle Stufen/ })
-      .click();
+    await modePreparation(page, /Freies Spiel Alle Stufen/).click();
     await expect(
       sources.getByLabel("Filmfragen", { exact: true }),
     ).toBeChecked();
     await expect(
-      page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+      modePreparation(page, /Freies Spiel Alle Stufen/),
     ).toHaveAttribute("aria-pressed", "true");
     await expect(page.locator("#round-summary")).toContainText(
       "Filmfragen + Preisträger + Schauspieler",

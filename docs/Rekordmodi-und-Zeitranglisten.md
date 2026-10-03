@@ -6,6 +6,8 @@ Stand: 03.10.2026. Rekordmodi aus dem eigenen Worktree sind im gemeinsamen Integ
 
 Die standardmäßig geschlossene Auswahlklappe „Spielmodus“ enthält Lernen, Auf Zeit und Duell. Die übrigen Auswahlklappen zeigen ihre gespeicherten Werte in der Zusammenfassung; Lösungen bleiben unter Profil → Optionen. Lernen bietet Filmreise, Freies Spiel und Fehlertraining. Auf Zeit bietet 10 Fragen, Fehlerfrei und Zeitkonto. Der Wechsel bleibt auf derselben Seite; jede Gruppe merkt ihre zuletzt gewählte Variante. Beim ersten Wechsel zu Auf Zeit gilt 10 Fragen im Standardmix. Duell behält seinen bestehenden Ablauf mit drei Zehnerrunden und 30 Sekunden je Frage.
 
+Die Gruppen sind Textschalter; jede konkrete Solo-Variante hat eine eigene illustrierte Spielkachel. Ein Klick auf die Kachel startet diese Variante direkt mit den eingestellten Filtern, einschließlich der gewählten Rekordauswahl. „Auswahl anpassen“ bereitet nur vor; „Losspielen“ bleibt erreichbar. Moduswahl und Start sind eine gemeinsame Speichertransaktion. Eine laufende Runde blockiert weitere Starts, leere Varianten sind gesperrt. Die Radiobuttons Standardmix/Eigene Auswahl bleiben mit festen Maßen und umbrechenden Beschreibungen innerhalb ihrer Box. [Bedienung und Gestaltung](Hilfe-und-Navigation.md#spielkacheln-und-rekordauswahl--03102026).
+
 | Variante | Zeit | Ende |
 | --- | --- | --- |
 | 10 Fragen | 30 Sekunden je Frage | Nach zehn beantworteten Fragen; Fehler beenden die Runde nicht. Kleine eigene Pools können weniger Fragen liefern. |

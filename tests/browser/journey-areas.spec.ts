@@ -1,4 +1,10 @@
-import { test, expect, openRoundSetup, readStoredState } from "./fixtures";
+import {
+  modePreparation,
+  test,
+  expect,
+  openRoundSetup,
+  readStoredState,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { packages, addPackages } from "../../src/packages";
@@ -42,7 +48,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
   });
   await sources.getByLabel("Schauspieler", { exact: true }).check();
   await sources.getByLabel("Preisträger", { exact: true }).check();
-  await expect(page.getByRole("button", { name: /Filmreise/ })).toHaveAttribute(
+  await expect(modePreparation(page, /Filmreise/)).toHaveAttribute(
     "aria-pressed",
     "true",
   );
@@ -97,7 +103,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und spielt 
     .toEqual(["actors"]);
   await page.reload();
   await openRoundSetup(page);
-  await expect(page.getByRole("button", { name: /Filmreise/ })).toHaveAttribute(
+  await expect(modePreparation(page, /Filmreise/)).toHaveAttribute(
     "aria-pressed",
     "true",
   );

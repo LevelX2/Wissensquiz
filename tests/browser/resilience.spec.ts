@@ -1,4 +1,10 @@
-import { openRoundSetup, test, expect, chromium } from "./fixtures";
+import {
+  modePreparation,
+  openRoundSetup,
+  test,
+  expect,
+  chromium,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { mkdtemp } from "node:fs/promises";
 import { tmpdir } from "node:os";
@@ -107,7 +113,7 @@ test("Hintergrundzeit und doppelte Klicks vergeben keine zweite Antwort", async 
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
+  await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
   await page.getByLabel(/Eigene Auswahl ·/).check();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await page.clock.runFor(100);

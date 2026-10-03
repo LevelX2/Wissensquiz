@@ -1,4 +1,4 @@
-import { openRoundSetup, test, expect } from "./fixtures";
+import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 
 test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und manuelle Stufen", async ({
   page,
@@ -10,7 +10,7 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
   await openRoundSetup(page);
@@ -20,10 +20,10 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await openRoundSetup(page);
   await expect(
-    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+    modePreparation(page, /Freies Spiel Alle Stufen/),
   ).toHaveAttribute("aria-pressed", "true");
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",
@@ -44,7 +44,7 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   await page.reload();
   await openRoundSetup(page);
   await expect(
-    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+    modePreparation(page, /Freies Spiel Alle Stufen/),
   ).toHaveAttribute("aria-pressed", "true");
   await expect(genres.locator("input:checked")).toHaveCount(1);
   await expect(genres.getByLabel("Horror", { exact: true })).toBeChecked();
@@ -55,11 +55,12 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Filmreise Filmwelten/ }).click();
+  await modePreparation(page, /Filmreise Filmwelten/).click();
   await openRoundSetup(page);
-  await expect(
-    page.getByRole("button", { name: /Filmreise Filmwelten/ }),
-  ).toHaveAttribute("aria-pressed", "true");
+  await expect(modePreparation(page, /Filmreise Filmwelten/)).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
   await expect(
     page.getByRole("button", { name: "Alle Genres auswählen" }),
   ).toBeEnabled();
@@ -67,10 +68,10 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await openRoundSetup(page);
   await expect(
-    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+    modePreparation(page, /Freies Spiel Alle Stufen/),
   ).toHaveAttribute("aria-pressed", "true");
   await expect(levels.locator("input:checked")).toHaveCount(1);
   await expect(fame.locator("input:checked")).toHaveCount(2);

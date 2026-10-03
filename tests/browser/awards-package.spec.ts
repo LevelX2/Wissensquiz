@@ -1,4 +1,4 @@
-import { openRoundSetup, test, expect } from "./fixtures";
+import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -24,7 +24,7 @@ test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und ble
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await openRoundSetup(page);
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",

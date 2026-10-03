@@ -1,4 +1,5 @@
 import {
+  modePreparation,
   openRoundSetup,
   test,
   expect,
@@ -56,7 +57,7 @@ test("Profil zeigt die Onlinebestätigung und exportiert den erhaltenen Kontosta
   await page.goto("/");
   await login(page);
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await account(page);
   await page.getByText("Konto & Speicherung", { exact: true }).click();
   await expect(page.locator(".profile-sync-status")).toHaveText(

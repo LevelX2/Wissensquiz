@@ -1,4 +1,4 @@
-import { openRoundSetup, test, expect } from "./fixtures";
+import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe sind im Profil erreichbar", async ({
@@ -10,18 +10,19 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await openRoundSetup(page);
-  await expect(
-    page.getByRole("button", { name: /Filmreise Filmwelten/ }),
-  ).toHaveAttribute("aria-pressed", "true");
+  await expect(modePreparation(page, /Filmreise Filmwelten/)).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
   await expect(page.getByRole("button", { name: "Optionen" })).toHaveCount(0);
   await expect(page.getByRole("navigation").getByRole("button")).toHaveCount(5);
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await openRoundSetup(page);
   await expect(
-    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+    modePreparation(page, /Freies Spiel Alle Stufen/),
   ).toHaveAttribute("aria-pressed", "true");
   await expect(
     page.getByRole("button", { name: "Alle Genres auswählen" }),
@@ -29,7 +30,7 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   await page.reload();
   await openRoundSetup(page);
   await expect(
-    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+    modePreparation(page, /Freies Spiel Alle Stufen/),
   ).toHaveAttribute("aria-pressed", "true");
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",

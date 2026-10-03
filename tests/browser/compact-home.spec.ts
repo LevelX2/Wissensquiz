@@ -1,4 +1,4 @@
-import { test, expect, readStoredState } from "./fixtures";
+import { modePreparation, test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 for (const width of [320, 1440]) {
@@ -35,9 +35,7 @@ for (const width of [320, 1440]) {
     await expect(mode).not.toHaveAttribute("open", "");
     expect(await readStoredState(page)).toEqual(before);
     await modeSummary.click();
-    await mode
-      .getByRole("button", { name: /Freies Spiel Alle Stufen/ })
-      .click();
+    await modePreparation(page, /Freies Spiel Alle Stufen/).click();
     await modeSummary.click();
     await expect(modeSummary).toContainText("Freies Spiel");
     const films = page.locator(".setup-section").filter({

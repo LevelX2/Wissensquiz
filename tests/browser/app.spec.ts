@@ -1,4 +1,5 @@
 import {
+  modePreparation,
   openRoundSetup,
   test,
   expect,
@@ -111,17 +112,19 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
     page.getByRole("button", { name: "Ton an", exact: true }),
   ).toHaveCount(0);
   await openRoundSetup(page);
-  await expect(
-    page.getByRole("button", { name: /Filmreise Filmwelten/ }),
-  ).toHaveAttribute("aria-pressed", "true");
+  await expect(modePreparation(page, /Filmreise Filmwelten/)).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
   await expect(
     page.getByText(/Mittel gesperrt · 0 \/ \d+ leichte Ziele/),
   ).toHaveCount(12);
   await page.reload();
   await openRoundSetup(page);
-  await expect(
-    page.getByRole("button", { name: /Filmreise Filmwelten/ }),
-  ).toHaveAttribute("aria-pressed", "true");
+  await expect(modePreparation(page, /Filmreise Filmwelten/)).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Leicht",
@@ -146,7 +149,7 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await page.locator(".round-guide summary").click();
   await expect(
     page.getByText(
@@ -167,10 +170,10 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await openRoundSetup(page);
   await expect(
-    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+    modePreparation(page, /Freies Spiel Alle Stufen/),
   ).toHaveAttribute("aria-pressed", "true");
   const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
   const levels = page.getByRole("group", {
@@ -525,10 +528,10 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await openRoundSetup(page);
   await expect(
-    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
+    modePreparation(page, /Freies Spiel Alle Stufen/),
   ).toHaveAttribute("aria-pressed", "true");
   await page
     .getByRole("group", { name: "Schwierigkeitsstufen", exact: true })
@@ -541,7 +544,7 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
+  await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
   await page.getByLabel(/Eigene Auswahl ·/).check();
   await page.getByRole("button", { name: "Losspielen" }).click();
   for (let i = 0; i < 10; i++) {
@@ -797,7 +800,7 @@ test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
+  await modePreparation(page, /^10 Fragen 30 Sekunden/).click();
   await page.getByLabel(/Eigene Auswahl ·/).check();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await page.clock.runFor(100);

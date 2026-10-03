@@ -1,4 +1,5 @@
 import {
+  modePreparation,
   test,
   expect,
   openRoundSetup,
@@ -112,7 +113,7 @@ async function service() {
 }
 async function start(page: Page) {
   await openRoundSetup(page);
-  await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".answers button").first()).toBeEnabled();
   await expect(page.locator(".sync-symbol.saved").first()).toBeVisible();

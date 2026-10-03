@@ -10,53 +10,52 @@ const descriptions: Record<Mode, string> = {
   fehlerfrei: "30 Sekunden je Frage · erster Fehler beendet den Lauf",
   zeitkonto: "120 Sekunden Start · richtig +15 · falsch −45",
 };
+const artwork: Record<Mode, string> = {
+  entdecken: "entdecken.png",
+  ueben: "ueben.png",
+  fehler: "fehler.svg",
+  rekord: "rekord.png",
+  fehlerfrei: "fehlerfrei.svg",
+  zeitkonto: "zeitkonto.svg",
+};
+export function modesForGroup(group: PlayGroup): Mode[] {
+  return group === "learn"
+    ? ["entdecken", "ueben", "fehler"]
+    : group === "timed"
+      ? ["rekord", "fehlerfrei", "zeitkonto"]
+      : [];
+}
 export function ModePicker({
   mode,
   group,
   busy,
+  startDisabled,
+  available,
   onGroup,
   onMode,
+  onStart,
 }: {
   mode: Mode;
   group: PlayGroup;
   busy: boolean;
+  startDisabled: boolean;
+  available: (mode: Mode) => boolean;
   onGroup: (group: PlayGroup) => void;
   onMode: (mode: Mode) => void;
+  onStart: (mode: Mode) => void;
 }) {
-  const variants: Mode[] =
-    group === "learn"
-      ? ["entdecken", "ueben", "fehler"]
-      : group === "timed"
-        ? ["rekord", "fehlerfrei", "zeitkonto"]
-        : [];
+  const variants = modesForGroup(group);
   return (
     <>
-      <div
-        className="mode-grid mode-groups"
-        role="group"
-        aria-label="Spielgruppen"
-      >
+      <div className="mode-groups" role="group" aria-label="Spielgruppen">
         {(["learn", "timed", "duel"] as const).map((item) => (
           <button
             key={item}
-            className={`mode-card ${group === item ? "active" : ""}`}
+            className={`mode-group ${group === item ? "active" : ""}`}
             aria-pressed={group === item}
             disabled={busy}
             onClick={() => onGroup(item)}
           >
-            {item === "duel" ? (
-              <span className="mode-swords" aria-hidden="true">
-                ⚔
-              </span>
-            ) : (
-              <img
-                className="mode-artwork"
-                src={`/modes/${item === "learn" ? "entdecken" : "rekord"}.png`}
-                alt=""
-                width={88}
-                height={88}
-              />
-            )}
             <strong>
               {item === "learn"
                 ? "Lernen"
@@ -68,18 +67,47 @@ export function ModePicker({
         ))}
       </div>
       {!!variants.length && (
-        <div className="mode-variants" role="group" aria-label="Spielvarianten">
+        <div
+          className="mode-grid mode-variants"
+          role="group"
+          aria-label="Spielvarianten"
+        >
           {variants.map((item) => (
-            <button
-              key={item}
-              disabled={busy}
-              aria-pressed={mode === item}
-              className={`mode-variant ${mode === item ? "active" : ""}`}
-              onClick={() => onMode(item)}
-            >
-              <strong>{modeNames[item]}</strong>
-              <small>{descriptions[item]}</small>
-            </button>
+            <div className="mode-tile" key={item}>
+              <button
+                disabled={busy || startDisabled || !available(item)}
+                className={`mode-card mode-variant ${mode === item ? "active" : ""}`}
+                onClick={() => onStart(item)}
+              >
+                <img
+                  className="mode-artwork"
+                  src={`/modes/${artwork[item]}`}
+                  alt=""
+                  width={88}
+                  height={88}
+                />
+                <strong>{modeNames[item]}</strong>
+                <small>{descriptions[item]}</small>
+                <span className="mode-play">
+                  {available(item) ? "Spielen" : "Keine passenden Fragen"}{" "}
+                  <span aria-hidden="true">→</span>
+                </span>
+                {mode === item && (
+                  <span className="mode-check" aria-hidden="true">
+                    ✓
+                  </span>
+                )}
+              </button>
+              <button
+                className="mode-configure text-button"
+                aria-label={`Auswahl für ${modeNames[item]} anpassen`}
+                aria-pressed={mode === item}
+                disabled={busy}
+                onClick={() => onMode(item)}
+              >
+                Auswahl anpassen
+              </button>
+            </div>
           ))}
         </div>
       )}
