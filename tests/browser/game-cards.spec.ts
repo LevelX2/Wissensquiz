@@ -16,6 +16,8 @@ test("Große Moduskachel: Auswahl schließt sich, speichert den Modus und starte
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const tile = page.locator(".mode-selection > summary");
+  await expect(page.locator(".mode-card")).toHaveCount(0);
+  await expect(tile).toHaveAttribute("aria-expanded", "false");
   for (const width of [320, 390, 768, 1024, 1440]) {
     await page.setViewportSize({ width, height: 850 });
     const image = tile.locator("img"),
@@ -32,13 +34,31 @@ test("Große Moduskachel: Auswahl schließt sich, speichert den Modus und starte
   }
   await tile.focus();
   await page.keyboard.press("Enter");
+  await expect(page.locator(".mode-card")).toHaveCount(3);
   await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await expect(page.locator(".mode-selection")).not.toHaveAttribute("open", "");
+  await expect(page.locator(".mode-card")).toHaveCount(0);
+  await expect(tile).toHaveAttribute("aria-expanded", "false");
   await expect(tile).toContainText("Freies Spiel");
   await expect(tile.locator("img")).toHaveAttribute("src", "/modes/ueben.png");
+  await tile.click();
+  await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+  await modePreparation(page, /^Fehlerfrei /).click();
+  await expect(tile).toContainText("Fehlerfrei");
+  await expect(page.locator(".mode-card")).toHaveCount(0);
+  expect((await readStoredState(page)).rounds).toHaveLength(0);
+  await page.getByRole("button", { name: "Themen", exact: true }).click();
+  await page.getByRole("button", { name: "Spielen", exact: true }).click();
+  await expect(tile).toContainText("Fehlerfrei");
+  await expect(page.locator(".mode-card")).toHaveCount(0);
+  await expect(tile.locator("img")).toHaveAttribute(
+    "src",
+    "/modes/fehlerfrei.svg",
+  );
   expect((await readStoredState(page)).rounds).toHaveLength(0);
   await page.reload();
-  await expect(tile).toContainText("Freies Spiel");
+  await expect(tile).toContainText("Fehlerfrei");
+  await expect(page.locator(".mode-card")).toHaveCount(0);
   expect(
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
       .violations,

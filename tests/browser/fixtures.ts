@@ -51,7 +51,9 @@ export async function openRoundSetup(page: Page) {
   await base.expect(page.locator(".round-setup")).toBeVisible();
   // A selection saves asynchronously and closes its panel after the write.
   // Wait for that write before opening the preparation again.
-  await base.expect(page.locator(".mode-group").first()).toBeEnabled();
+  await base
+    .expect(page.locator(".round-setup"))
+    .toHaveAttribute("aria-busy", "false");
   for (const summary of await page
     .locator(".round-setup .setup-section > summary")
     .all()) {

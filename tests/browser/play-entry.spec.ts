@@ -142,9 +142,10 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await openRoundSetup(page);
   await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
-  await expect(
-    modePreparation(page, /Freies Spiel Alle Stufen/),
-  ).toHaveAttribute("aria-pressed", "true");
+  await expect(page.locator(".mode-selection > summary")).toContainText(
+    "Freies Spiel",
+  );
+  await expect(page.locator(".mode-card")).toHaveCount(0);
   await openRoundSetup(page);
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",
@@ -160,10 +161,10 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await openRoundSetup(page);
   await modePreparation(page, /Filmreise Filmwelten/).click();
-  await expect(modePreparation(page, /Filmreise Filmwelten/)).toHaveAttribute(
-    "aria-pressed",
-    "true",
+  await expect(page.locator(".mode-selection > summary")).toContainText(
+    "Filmreise",
   );
+  await expect(page.locator(".mode-card")).toHaveCount(0);
   await expect(start).toBeEnabled();
   await expect(levels).toHaveCount(0);
   await expect(page.locator("#round-summary")).toContainText("Filmreise");

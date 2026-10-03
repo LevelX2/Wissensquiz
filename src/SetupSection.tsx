@@ -8,6 +8,8 @@ export function SetupSection({
   className = "",
   children,
   detailsRef,
+  open,
+  onOpenChange,
 }: {
   title: string;
   selection: ReactNode;
@@ -16,10 +18,26 @@ export function SetupSection({
   className?: string;
   children: ReactNode;
   detailsRef?: Ref<HTMLDetailsElement>;
+  open?: boolean;
+  onOpenChange?: (open: boolean) => void;
 }) {
   return (
-    <details ref={detailsRef} className={`setup-section ${className}`}>
-      <summary>
+    <details
+      ref={detailsRef}
+      open={open}
+      className={`setup-section ${className}`}
+    >
+      <summary
+        aria-expanded={open}
+        onClick={
+          onOpenChange
+            ? (event) => {
+                event.preventDefault();
+                onOpenChange(!open);
+              }
+            : undefined
+        }
+      >
         {illustration}
         <span className="setup-section-title">{title}</span>
         <span className="setup-section-selection">{selection}</span>
@@ -27,7 +45,9 @@ export function SetupSection({
           <span className="setup-section-action">{actionLabel} →</span>
         )}
       </summary>
-      <div className="setup-section-content">{children}</div>
+      {open !== false && (
+        <div className="setup-section-content">{children}</div>
+      )}
     </details>
   );
 }

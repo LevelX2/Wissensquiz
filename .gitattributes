@@ -1,6 +1,9 @@
 # Preserve supplied CSV bytes, including their original line endings.
 *.csv -text whitespace=cr-at-eol
 
+# SQL function patches match PostgreSQL's normalized function definitions.
+supabase/migrations/*.sql text eol=lf
+
 # Preserve the supplied category assignment source byte-for-byte.
 **/Classics_Zuordnungen_Bestand.json -text whitespace=cr-at-eol
 **/Arthouse_Zuordnungen_Bestand.json -text whitespace=cr-at-eol

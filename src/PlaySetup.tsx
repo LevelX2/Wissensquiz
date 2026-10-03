@@ -87,11 +87,12 @@ export function PlaySetup({
   setPage: Dispatch<SetStateAction<Page | "duels">>;
 }) {
   const modePanel = useRef<HTMLDetailsElement>(null);
+  const [selectionOpen, setSelectionOpen] = useState(false);
   const [browsingGroup, setBrowsingGroup] = useState<PlayGroup>();
   const closeSelection = () => {
+    setSelectionOpen(false);
     setBrowsingGroup(undefined);
     if (modePanel.current) {
-      modePanel.current.open = false;
       modePanel.current.querySelector("summary")?.focus();
     }
   };
@@ -152,7 +153,11 @@ export function PlaySetup({
           <p className="muted">Entdecke Filmwissen – in Deinem Tempo.</p>
         )}
       </header>
-      <section className="round-setup" aria-label="Runde vorbereiten">
+      <section
+        className="round-setup"
+        aria-label="Runde vorbereiten"
+        aria-busy={busy}
+      >
         <div className="section-title">
           <h2>Wie möchtest Du spielen?</h2>
         </div>
@@ -160,6 +165,11 @@ export function PlaySetup({
           title="Spielmodus"
           className="mode-selection"
           detailsRef={modePanel}
+          open={selectionOpen}
+          onOpenChange={(open) => {
+            setSelectionOpen(open);
+            if (!open) setBrowsingGroup(undefined);
+          }}
           illustration={<ModeArtwork mode={mode} duel={playGroup === "duel"} />}
           selection={
             <>
