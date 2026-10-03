@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none">
+  <defs>
+    <linearGradient id="blade" x1="43" y1="12" x2="53" y2="57" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fffdf6"/>
+      <stop offset="1" stop-color="#e5dbc5"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="35" y1="57" x2="61" y2="65" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d8b466"/>
+      <stop offset=".5" stop-color="#f5de9f"/>
+      <stop offset="1" stop-color="#af8037"/>
+    </linearGradient>
+    <g id="sword" stroke="#926528" stroke-width="1.8" stroke-linejoin="round">
+      <path d="m48 10 6 9v38H42V19Z" fill="url(#blade)"/>
+      <path d="M48 13v42" stroke="#fffdf6" stroke-width="2"/>
+      <rect x="44" y="63" width="8" height="15" rx="2" fill="currentColor"/>
+      <path d="M45 68h6m-6 5h6" stroke="#f5de9f" stroke-width="1.4"/>
+      <path d="M35 57h26v6l-5-1H40l-5 1Z" fill="url(#gold)"/>
+      <rect x="43" y="78" width="10" height="5" rx="2" fill="url(#gold)"/>
+    </g>
+  </defs>
+  <circle cx="48" cy="48" r="34" fill="#f5e8ca"/>
+  <use href="#sword" transform="rotate(-43 48 48)" color="#7d3644"/>
+  <use href="#sword" transform="rotate(43 48 48)" color="#28674b"/>
+</svg>

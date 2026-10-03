@@ -1,12 +1,12 @@
 # Öffentliche Bestenliste und Gastaktivität
 
-## Kleine Statistikprojektionen – lokal umgesetzt am 03.10.2026
+## Kleine Statistikprojektionen – produktiv eingerichtet am 03.10.2026
 
 Die neue Migration `20261003085256_storage_stat_projections.sql` ersetzt das wiederholte Lesen aller privaten Spielhistorien bei Listenabfragen durch `quiz_round_contributions` und `quiz_player_totals`. Gesamtwerte, angemeldete Genre-/Stufenfilter und kombinierte Auswahl bleiben fachlich gleich. Bestehende Konten erhalten einen einmaligen Legacy-Backfill; später werden ausschließlich betroffene Rundenbeiträge geändert. Gemeinsame Rekorde prüfen nur betroffene Runden mit der bisherigen SQL-Wertung. Sound-/Anzeigeeinstellungen lösen keine Statistik-/Rekordprojektion aus.
 
 Gleichstände, mindestens 50 Antworten für Quotenwertung, Nullrunden, Keine Ahnung, Zeitabläufe, geratene Antworten und Abschlussstatus bleiben erhalten. Vergleiche führen denselben synthetischen Stand zuerst mit den bisherigen App-/SQL-Ableitungen und danach mit Backfill bzw. Eintragsgeneration aus. Öffentliche Ausgaben bleiben auf Namen und zusammengefasste Werte beschränkt; keine privaten Fragen, Antworten, Konto-IDs oder E-Mails. Die Gastmeldungen und ihr Siebentagesvertrag ändern sich nicht.
 
-[Abnahme und lokale Lastmessung](Speicher-und-Sync-Abnahme.md). Noch keine Produktionsmigration oder Veröffentlichung; die folgenden sichtbaren Regeln gelten weiterhin.
+[Abnahme und lokale Lastmessung](Speicher-und-Sync-Abnahme.md). Die Migration ist nach ausdrücklichem Auftrag produktiv angewendet; unveränderte öffentliche Spielerwerte wurden lesend nachgeprüft. [Produktionsnachweis](Speicher-und-Sync-Produktion.md). Die folgenden sichtbaren Regeln gelten weiterhin.
 
 ## Stand am 03.10.2026
 

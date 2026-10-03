@@ -1,0 +1,55 @@
+# Speicher- und Sync-Optimierung: Produktionsrollout
+
+Stand: 03.10.2026. Nach der lokalen Freigabe bis einschließlich `60ab29f` hat der Nutzer ausdrücklich „Dann Bitte produktiv setzen“ beauftragt. Datenbankmigrationen und öffentlicher Katalog sind erfolgreich eingerichtet; die Veröffentlichung der zusammengeführten App wird vorbereitet. Bestehende Supabase- und Sites-Projekt-IDs sowie der öffentliche Besucherzugriff bleiben erhalten.
+
+## Quellstand und Sicherung
+
+Die während der lokalen Paketarbeit veröffentlichten Sites-Versionen 40 und 41 wurden unmittelbar aus dem nativen Quellrepository übernommen. Ihr aktueller Quellcommit ist `73368e025a8e1ea321ecdf9da9aca99e664384a1`. Die Antwortoptimierung mit Hintergrund-Worker, fünfte Duellkachel, Solo-Lösungswahl in den Optionen, getrennte Personen-/Preis-Filmreise bis Experte und Schauspielerredaktion bleiben zusammen mit der freigegebenen Struktur-/Eintragsoptimierung erhalten. Keine Main-Integration und keine GitHub-Veröffentlichung; fremde Arbeitsstände wurden nicht verändert.
+
+Vor den Migrationen wurde eine vollständige logische Momentaufnahme in einem MVCC-Statement erstellt: Daten aller 48 vorhandenen Basistabellen aus den sechs Anwendung-/Dienstschemas einschließlich Auth, dazu Spalten, Constraints, Indizes, RLS-Regeln, Funktionen, Trigger und Berechtigungen; Ansichten und Sequenzen ergänzend gesichert. Der private JSON-Snapshot umfasst 25.101.715 Bytes, SHA-256 `a1cd3f13c82183dbc51901780c3a3f446a5fedde5179a95536ab5bb8a20d2223`. Er liegt mit Zugriff ausschließlich für den lokalen Eigentümer und SYSTEM außerhalb von Git und Veröffentlichungsartefakten. Dies ist eine logische Sicherung mit Metadaten, kein physisches Clusterabbild oder neuer PITR-Tarif.
+
+Der vorhandene Kontostand wurde ausschließlich lesend vollständig rekonstruiert und über v2 sowie das neue Eintragsformat geprüft. Die bereits veröffentlichte Filmreise-Normalisierung ergänzt `journey.independentAreas`; sämtliche bisherigen Felder und Spielfortschritte bleiben erhalten. Kein Testfortschritt wurde in ein echtes Konto geschrieben. Hash und Revision der vorhandenen Online-Sicherung sowie die öffentlichen Spielerwerte blieben vor und nach den Migrationen identisch.
+
+## Angewendete Migrationen
+
+| Lokale SQL-Datei | Tatsächlicher Produktionsverlauf |
+| --- | --- |
+| `20261003081845_storage_entry_sync.sql` | `20261003103258_storage_entry_sync` |
+| `20261003085256_storage_stat_projections.sql` | `20261003103259_storage_stat_projections` |
+| `20261003090228_storage_sync_maintenance.sql` | `20261003103301_storage_sync_maintenance` |
+| `20261003103617_storage_catalog_publication.sql` | `20261003103837_storage_catalog_publication` |
+
+Die native Managementschnittstelle vergibt eigene Zeitkennungen. Vorhandene ältere manuell eingerichtete Migrationen wurden nicht erneut ausgeführt. Supabase-Projekt: `nadhixddmpshndqpmzqi`.
+
+SHA-256 der angewendeten SQL-Dateien in dieser Reihenfolge:
+
+1. `c937d1e1292501e2694c7af7fc70a893b7b2333c789dc223b6041cf04e4ee6ea`
+2. `86a5bae6fe3a58f3d4597381145d63a003d5e1eb3c2b573620e87bf9fa4a943b`
+3. `5d749d0c48bdede91d92ebc2cb1a95030bf7c0f9facdaf4de98875d58179c066`
+4. `86722932b83ffb18574b9b9616b124acec62c3676f8911dc4a72a815ba690a2e`
+
+Die zusätzliche vierte Migration behebt die unmittelbar gemessene Größenbegrenzung der Managementschnittstelle: Das vollständige Operator-Seed-SQL von 7.657.905 Bytes wurde vor Ausführung zurückgewiesen. Der Katalog wird deshalb in begrenzten Betreiberteilen bereitgestellt und erst nach vollständiger SHA-256-Prüfung in einer Transaktion öffentlich freigegeben. Teilbereitstellung und Abschlussfunktion sind für `PUBLIC`, `anon` und `authenticated` gesperrt; die Tabelle hat RLS ohne Clientpolicy. Unvollständige oder geänderte Teile können keinen öffentlichen Release erzeugen. Bereits vorhandene Releases müssen exakt übereinstimmen. Die katalogbezogene Sperre blockiert keine Spielertransaktionen.
+
+`scripts/prepare-sync-catalog.mjs` erstellt neben dem bisherigen Direkt-SQL reproduzierbare Teil-SQLs, Manifestnachweis und Abschluss-SQL. Sämtliche Betreiberartefakte bleiben ignoriert. Die zusätzliche Migration ist mit synthetischen SQL-Tests einschließlich Unvollständigkeit, Inhaltsänderung, Wiederholung und Rollenprüfung abgedeckt.
+
+## Öffentlich freigegebener Katalog
+
+- Vollständiger tatsächlicher App-Importer: **5.677 Fragen**, ebenso viele Inhaltsnachweise und Bewertungsfelder; Protokoll 1.
+- Katalogkennung: `216e40469f00211de5280fd014bb64106967876a6211c92691280fd8fc43fb6a`.
+- Komprimierter Nutzinhalt: 1.889.610 Bytes, SHA-256 `1b99775b8f3300d0b0bc5ecf3b67a7ef3d689b1bd2f8e8a2f9a87867320d9f49`.
+- Betreiber-Manifest: 3.828.815 Bytes in 240 Teilen, SHA-256 `6d7d094ba786393229de1c4fb7bada7b8349f46bd53a45c7396c7df40623ae68`.
+- Native SQL-Prüfung bestätigt genau einen Release, korrekte Fragen-/Nachweiszahlen und keine verbliebenen Bereitstellungsteile. Keine eigenen Kontoinhalte wurden veröffentlicht.
+
+Alle 21 öffentlichen Quiztabellen haben RLS. Private Synchronisierungsfunktionen sind nur für angemeldete Konten verfügbar; öffentliche Kataloglesefunktion und bereits öffentliche Statistikfunktionen bleiben bewusst lesbar. Betreiberabschluss und Teilbereitstellung sind für Clientrollen gesperrt. Die statischen Advisor-Hinweise für RPC-interne Tabellen ohne direkte Policy entsprechen dieser Sperre; bestehende unabhängige Hinweise wurden nicht als Teil dieses Auftrags umkonfiguriert.
+
+## Übernahme und weiterer Betrieb
+
+Der zusammengeführte Stand besteht 278 Tests in 48 Dateien und den Produktionsbuild. 143 unterschiedliche Browserfälle sind erfolgreich abgedeckt; ein Desktopfall ist im mobilen WebKit-Projekt bewusst ausgelassen. Der breite Lauf hatte zunächst fünf Fehler; nach Anpassung zweier veralteter Testannahmen und Erhalt der Katalog-Wiederverwendung beim Duellimport bestanden alle 18 gezielten Abschlussfälle gegen den abschließenden Build. Vollständige Ergebnisse und Grenzen im [Prüfbericht](Pruefbericht.md). Keine Abhängigkeiten geändert. Offline-Paket: `film-04304f456bc1`, 56 Dateien.
+
+Vor Veröffentlichung bestehen ein unveränderter Legacy-Kontostand und noch keine aktivierte Eintragsgeneration. Nach Aktualisierung übernimmt der neue Client beim Öffnen des Kontos automatisch und revisionsgeschützt: bereitstellen, versiegeln, vollständig zurücklesen, logische Gleichheit prüfen, erst dann aktivieren. Alte Clients und Warteschlangen können eine aktivierte Generation serverseitig nicht zurückschreiben. Vollständiges Schließen aller alten Quiz-Fenster ermöglicht Service-Worker-/IndexedDB-Aktualisierung; Browserdaten nicht löschen.
+
+Eingefrorene Legacy-Ausgangskopien und historische Inhalte wurden nicht gelöscht. Ihre Freigabe und physische Bereinigung bleiben eine gesonderte Betreiberentscheidung nach fachlicher Abnahme und aktuellen vollständigen Exporten; siehe [Migrations- und Rückfallablauf](Speicher-und-Sync-Migration.md). Die momentane Datenbankbelegung steigt durch neuen Katalog, Migration und Rückfallkopien. Die lokale Messung von 64,1 % weniger Anwendungsspeicher beschreibt die isolierte Prüfung **nach Bereinigung**, keine bereits erzielte Produktionsreduktion oder Kapazitätsgarantie.
+
+Produktionsdatenbank vor dem Rollout: 36.023.443 Bytes; nach Migrationen und Katalogfreigabe: 39.865.491 Bytes. Beide Werte sind lesende Momentaufnahmen einschließlich Indizes und TOAST; laufende Auth-/Hintergrundarbeit kann sie verändern. Tarif unverändert.
+
+[Lokale Abnahme und Messwerte](Speicher-und-Sync-Abnahme.md), [Sites-Betrieb](Sites-Betrieb.md), [Prüfbericht](Pruefbericht.md).

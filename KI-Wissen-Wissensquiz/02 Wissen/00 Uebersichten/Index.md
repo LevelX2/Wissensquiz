@@ -10,7 +10,8 @@
 ## Spielbare Testversion
 
 - [Abnahme der lokalen Speicher-/Sync-Optimierung](../../../docs/Speicher-und-Sync-Abnahme.md)
-- [Vorbereiteter Produktionsablauf mit Sicherung, Migration und Rückfall](../../../docs/Speicher-und-Sync-Migration.md)
+- [Produktionsrollout: Sicherung, angewendete Migrationen und Veröffentlichung](../../../docs/Speicher-und-Sync-Produktion.md)
+- [Produktionsablauf mit Sicherung, Migration und Rückfall](../../../docs/Speicher-und-Sync-Migration.md)
 - [Native PostgreSQL- und Anfragegrößenmessung mit 100 synthetischen Konten](../../../docs/Speicher-und-Sync-Messung.json)
 
 - [Speicher- und Sync-Umsetzung: lokale Paketfolge, Migration und Prüfnachweise](../../../docs/Speicher-und-Sync-Umsetzung.md)
@@ -19,6 +20,7 @@
 - [Strukturverbesserungen: Pakete, Grenzen und Freigabestatus](../../../docs/Strukturverbesserungen-Prozess.md)
 - [Abnahmebericht der umgesetzten Strukturverbesserungen](../../../docs/Strukturverbesserungen-Abnahme.md)
 - [Strukturprüfung vom 03.10.2026: Modulgrenzen, Kontosicherung und priorisierte Verbesserungen](../../../docs/Strukturpruefung-2026-10-03.md)
+- [Schauspieler und Preisträger in der Filmreise, vollständige Namen, Vertiefungen und Filmverweise](../../../docs/Filmreise-Personen-und-Vertiefungen.md)
 
 - [Fragedatenorganisation: getrennter lokaler Katalog, verlustfreie Metadatenverweise und schnellere Zuordnungen](../../../docs/Fragedaten-Organisation.md)
 - [Struktur- und Größenprüfung aller Fragenpakete](../../../docs/Fragedaten-Pruefung.json)
@@ -56,6 +58,8 @@
 - [Historischer Konzeptentwurf für asynchrone Filmduelle](../../../docs/Asynchrone-Filmduelle-Konzept.md)
 - [Supabase-Einrichtung, Datenbankregeln und Mailvorlagen](../../../docs/Konten-Einrichtung.md)
 - [Tatsächliche Prüfungen und bekannte Grenzen](../../../docs/Pruefbericht.md)
+- [Antwortreaktion nach Version 36: Katalogspeicher und Duell-Snapshotvergleich](../../../docs/Lernregeln.md#datenintegrität-und-sicherung)
+- [Solo-Lösungswahl unter Profil → Optionen](../../../docs/Lernregeln.md#asynchrone-duelle-und-lösungsanzeige)
 - [Maschineller Importbericht](../../../docs/importbericht.json)
 - [Unveränderte gelieferte Rohquelle](../../01%20Rohquellen/SciFi_Quiz_180_Fragen.csv)
 - [Action-Rohquelle](../../01%20Rohquellen/Action_Quiz_180_Fragen.csv)
@@ -76,8 +80,9 @@
 
 - [Genre- und Spielmodusillustrationen, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
 - [Preisträger- und Schauspielerillustrationen: Originalprompts, Dateien und Prüfung](../../../docs/Kategorie-Illustrationen.json)
+- [Genre- und Spielmodusillustrationen mit Duellmotiv, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
 
-- [Navigation, zugängliche Highscores und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
+- [Navigation, fünf Spielkacheln, zugängliche Highscores und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
 
 
 - [Classics-Rohquelle](../../01%20Rohquellen/Classics_Quiz_180_Fragen.csv)

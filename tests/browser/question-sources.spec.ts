@@ -26,6 +26,9 @@ for (const width of [1440, 320]) {
     ).toBeChecked();
     await sources.getByLabel("Schauspieler", { exact: true }).check();
     await sources.getByLabel("Preisträger", { exact: true }).check();
+    await page
+      .getByRole("button", { name: /Freies Spiel Alle Stufen/ })
+      .click();
     await expect(
       sources.getByLabel("Filmfragen", { exact: true }),
     ).toBeChecked();

@@ -72,8 +72,11 @@ export function App({
   sync?: SyncDisplay;
 }) {
   const read = () => readStored(storageKey);
-  const update = (fn: (s: State) => void, initial?: State, options?: WriteOptions) =>
-    updateStored(fn, initial, storageKey, options);
+  const update = (
+    fn: (s: State) => void,
+    initial?: State,
+    options?: WriteOptions,
+  ) => updateStored(fn, initial, storageKey, options);
   const [state, setState] = useState<State | null>(null);
   const [page, setPage] = useState<Page | DuelPage>(
     location.hash.startsWith("#duel=") ? "duels" : "home",
@@ -87,8 +90,6 @@ export function App({
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
   const [pendingSetup, setPendingSetup] = useState<RoundSetup | null>(null);
-  const [pendingSolutions, setPendingSolutions] =
-    useState<State["settings"]["solutionDisplay"]>();
   const [roundId, setRoundId] = useState("");
   const [justCompleted, setJustCompleted] = useState("");
   const [duelPlaying, setDuelPlaying] = useState(false);
@@ -134,6 +135,25 @@ export function App({
       window.removeEventListener("online", flush);
     };
   }, [activityClient, storageKey]);
+  const catalogNavigation = useMemo(
+    () => ({
+      topics: [...new Set(state?.questions.map((q) => q.topic) ?? [])].sort(),
+      genres: [
+        ...new Set(
+          state?.questions
+            .filter((q) => questionSourceOf(q) === "film")
+            .map(genreOf) ?? [],
+        ),
+      ]
+        .filter((genre) => genre !== ACTORS)
+        .sort(),
+    }),
+    [state?.questions],
+  );
+  const roundSetup = useMemo(
+    () => (state ? readRoundSetup(state) : null),
+    [state?.questions, state?.settings],
+  );
   useEffect(() => {
     if (state) onPersistedState?.(state);
   }, [state, onPersistedState]);
@@ -188,7 +208,10 @@ export function App({
     setBusy(true);
     setError("");
     try {
-      const next = await update(fn, undefined, options);
+      const next = await update(fn, undefined, {
+        ...options,
+        reuseCatalog: options.reuseCatalog ?? options.progressOnly === true,
+      });
       setState(next);
       return next;
     } catch (e) {
@@ -262,7 +285,7 @@ export function App({
     difficulties: selectedDifficulties,
     familiarities: selectedFamiliarities = [...familiarities],
     sources: selectedSources = ["film"],
-  } = pendingSetup ?? readRoundSetup(state);
+  } = pendingSetup ?? roundSetup!;
   const changeSetup = async (patch: Partial<RoundSetup>) => {
     if (inFlight.current) return null;
     // Reflect the click immediately; only committed state reaches account sync.
@@ -463,9 +486,7 @@ export function App({
                   genres={genres}
                   selectedDifficulties={selectedDifficulties}
                   selectedFamiliarities={selectedFamiliarities}
-                  pendingSolutions={pendingSolutions}
                   state={state}
-                  setPendingSolutions={setPendingSolutions}
                   mutate={mutate}
                   nav={nav}
                   resume={resume}

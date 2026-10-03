@@ -1,15 +1,20 @@
 import type { Difficulty, Mode, Question, State } from "./model";
-import { genreOf } from "./filters";
+import { genreOf, questionSourceOf, sourceLabels } from "./filters";
 import { familiarityOf, type Familiarity } from "./familiarity";
 import curriculum from "./journeyCurriculum.json" with { type: "json" };
 
 export const PATH_TARGET = 20; // Historical rule, retained only for earned legacy unlocks.
+export const AREA_TARGET = 20;
+export const pathAreaOf = (q: Question) => {
+  const source = questionSourceOf(q);
+  return source === "film" ? genreOf(q) : sourceLabels[source];
+};
 export type PathUnlock =
-  | { genre: string; difficulty: "mittel" | "schwer" }
+  | { genre: string; difficulty: "mittel" | "schwer" | "experte" }
   | { genre: string; familiarity: Familiarity };
 type Plan = (typeof curriculum.genres)[keyof typeof curriculum.genres];
 const plans = curriculum.genres as Record<string, Plan>;
-export function learningPathProgress(state: State) {
+export function learningPathProgress(state: State, legacyFilmAwards = false) {
   const retained = structuredClone(state.journey?.earned ?? {});
   const snapshots = new Map<string, Question>();
   const legacyRounds = new Set<string>();
@@ -23,8 +28,8 @@ export function learningPathProgress(state: State) {
   for (const e of state.events) {
     if (!e.correct || e.guessed || e.answerId === null) continue;
     const q = snapshots.get(`${e.roundId}:${e.questionId}`);
-    if (!q || q.metadata.person_id) continue;
-    const genre = genreOf(q);
+    if (!q || (legacyFilmAwards && q.metadata.person_id)) continue;
+    const genre = legacyFilmAwards ? genreOf(q) : pathAreaOf(q);
     for (const target of legacyRounds.has(e.roundId)
       ? [goals, legacy]
       : [goals]) {
@@ -40,8 +45,8 @@ export function learningPathProgress(state: State) {
   }
   const available = new Map<string, Question[]>();
   for (const q of state.questions) {
-    if (q.metadata.person_id) continue;
-    const g = genreOf(q);
+    if (legacyFilmAwards && q.metadata.person_id) continue;
+    const g = legacyFilmAwards ? genreOf(q) : pathAreaOf(q);
     if (!available.has(g)) available.set(g, []);
     available.get(g)!.push(q);
   }
@@ -49,24 +54,36 @@ export function learningPathProgress(state: State) {
   function calculate(genre: string) {
     const qs = available.get(genre) ?? [];
     const plan = plans[genre];
-    const levels = [
-      ...new Set(qs.map(familiarityOf).filter((x): x is Familiarity => !!x)),
-    ].sort();
+    const independent =
+      !legacyFilmAwards &&
+      (genre === sourceLabels.actors || genre === sourceLabels.awards);
+    const levels = independent
+      ? []
+      : [
+          ...new Set(
+            qs.map(familiarityOf).filter((x): x is Familiarity => !!x),
+          ),
+        ].sort();
     const first = levels[0] ?? 0;
     const easy = goals.get(genre)?.leicht.size ?? 0;
     const medium = goals.get(genre)?.mittel.size ?? 0;
+    const hard = goals.get(genre)?.schwer.size ?? 0;
     const earned = retained[genre];
     const target = (d: Difficulty, index: number) => {
       const present = new Set(
         qs.filter((q) => q.difficulty === d).map((q) => q.knowledgeId),
       ).size;
       return Math.min(
-        plan?.difficultyTargets[index] ?? Math.max(1, Math.ceil(present * 0.6)),
+        independent
+          ? AREA_TARGET
+          : (plan?.difficultyTargets[index] ??
+              Math.max(1, Math.ceil(present * 0.6))),
         present,
       );
     };
     const easyTarget = target("leicht", 0),
-      mediumTarget = target("mittel", 1);
+      mediumTarget = target("mittel", 1),
+      hardTarget = independent ? target("schwer", 2) : 0;
     const legacyEasy = legacy.get(genre)?.leicht.size ?? 0,
       legacyMedium = legacy.get(genre)?.mittel.size ?? 0;
     const mediumUnlocked =
@@ -77,6 +94,10 @@ export function learningPathProgress(state: State) {
       (earned?.difficulty ?? 0) >= 2 ||
       (legacyEasy >= PATH_TARGET && legacyMedium >= PATH_TARGET) ||
       (mediumUnlocked && mediumTarget > 0 && medium >= mediumTarget);
+    const expertUnlocked =
+      independent &&
+      ((earned?.difficulty ?? 0) >= 3 ||
+        (hardUnlocked && hardTarget > 0 && hard >= hardTarget));
     let max = Math.max(first, earned?.familiarity ?? 0);
     const groups = levels.map((level, index) => {
       const defined = plan?.groups.find((g) => g.level === level);
@@ -114,10 +135,14 @@ export function learningPathProgress(state: State) {
     return {
       easy,
       medium,
+      hard,
       easyTarget,
       mediumTarget,
+      hardTarget,
       mediumUnlocked,
       hardUnlocked,
+      expertUnlocked,
+      independent,
       first,
       familiarity: max,
       groups,
@@ -130,9 +155,29 @@ export function learningPathProgress(state: State) {
 }
 
 export function retainJourneyUnlocks(state: State) {
-  const progress = learningPathProgress(state);
   const earned = { ...state.journey?.earned };
-  for (const genre of new Set(state.questions.map(genreOf))) {
+  // Older releases counted award answers towards film genres. Preserve those
+  // earned rights once before separating the areas; future award answers do not.
+  const hasAreas = state.questions.some((q) => questionSourceOf(q) !== "film");
+  if (hasAreas && !state.journey?.independentAreas) {
+    const previous = learningPathProgress(state, true);
+    for (const genre of new Set(
+      state.questions.filter((q) => !q.metadata.person_id).map(genreOf),
+    )) {
+      const p = previous(genre);
+      if (p.mediumUnlocked || p.familiarity > p.first || earned[genre])
+        earned[genre] = {
+          difficulty: Math.max(
+            earned[genre]?.difficulty ?? 0,
+            p.hardUnlocked ? 2 : p.mediumUnlocked ? 1 : 0,
+          ),
+          familiarity: Math.max(earned[genre]?.familiarity ?? 0, p.familiarity),
+        };
+    }
+    state.journey = { version: 1, earned, independentAreas: true };
+  }
+  const progress = learningPathProgress(state);
+  for (const genre of new Set(state.questions.map(pathAreaOf))) {
     const p = progress(genre);
     if (
       p.first > 1 ||
@@ -141,18 +186,31 @@ export function retainJourneyUnlocks(state: State) {
       earned[genre]
     )
       earned[genre] = {
-        difficulty: p.hardUnlocked ? 2 : p.mediumUnlocked ? 1 : 0,
+        difficulty: p.expertUnlocked
+          ? 3
+          : p.hardUnlocked
+            ? 2
+            : p.mediumUnlocked
+              ? 1
+              : 0,
         familiarity: p.familiarity,
       };
   }
-  if (Object.keys(earned).length) state.journey = { version: 1, earned };
+  if (Object.keys(earned).length || hasAreas)
+    state.journey = {
+      version: 1,
+      earned,
+      ...(hasAreas || state.journey?.independentAreas
+        ? { independentAreas: true as const }
+        : {}),
+    };
 }
 export function newlyUnlocked(
   before: ReturnType<typeof learningPathProgress>,
   state: State,
 ): PathUnlock[] {
   const after = learningPathProgress(state);
-  return [...new Set(state.questions.map(genreOf))].flatMap((genre) => {
+  return [...new Set(state.questions.map(pathAreaOf))].flatMap((genre) => {
     const old = before(genre),
       current = after(genre);
     const unlocked: PathUnlock[] = [];
@@ -160,6 +218,8 @@ export function newlyUnlocked(
       unlocked.push({ genre, difficulty: "mittel" });
     if (!old.hardUnlocked && current.hardUnlocked)
       unlocked.push({ genre, difficulty: "schwer" });
+    if (!old.expertUnlocked && current.expertUnlocked)
+      unlocked.push({ genre, difficulty: "experte" });
     for (const group of current.groups)
       if (group.level > old.familiarity && group.level <= current.familiarity)
         unlocked.push({ genre, familiarity: group.level });
@@ -173,7 +233,16 @@ export function pathQuestions(
   if (mode !== "entdecken") return state.questions;
   const progress = learningPathProgress(state);
   return state.questions.filter((q) => {
-    const p = progress(genreOf(q));
+    const p = progress(pathAreaOf(q));
+    if (p.independent)
+      return (
+        q.difficulty === "leicht" ||
+        (q.difficulty === "mittel"
+          ? p.mediumUnlocked
+          : q.difficulty === "schwer"
+            ? p.hardUnlocked
+            : p.expertUnlocked)
+      );
     const fame = familiarityOf(q);
     return (
       !!fame &&

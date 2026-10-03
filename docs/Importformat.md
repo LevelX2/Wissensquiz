@@ -119,3 +119,10 @@ Die zugestellte Martial-Arts-Datei hatte den Dateinamenszusatz „1“; sie ist 
 ## Jahres- und Regieergänzung (26.09.2026)
 
 587 redaktionelle Zusatzfragen aus 300 referenzgeprüften Filmwerken ergänzen die elf unveränderten CSV-Pakete: 300 Jahresfragen und 287 Regiefragen. 13 vorhandene Regieziele werden weiterverwendet. Gesamt 2.567 Fragen/2.237 Ziele, gleiche Genres und Themen. Idempotente Ergänzung, feste Lernidentitäten und geprüfte variable Jahresantworten; historische Inhalte und Lernstände bleiben erhalten. Details: [Filmwissen und Filmdaten](Filmwissen-und-Filmdaten.md).
+
+
+## Eigenständige Filmreise-Bereiche und Personenredaktion (03.10.2026)
+
+Optionales `journey.independentAreas: true` markiert die einmalige Trennung historischer Preisantworten von Filmgenre-Zählern. Vorher erworbene Filmrechte werden zuvor abgeleitet und erhalten. `journey.earned[Bereich].difficulty` erlaubt 0–3; 3 bezeichnet Experte für Schauspieler/Preisträger. `round.unlocks` unterstützt dort ebenfalls `difficulty: experte`. Sicherungen ohne diese Felder bleiben lesbar; Schema 1 und Frageidentitäten bleiben erhalten. Frühere App-Versionen mit maximal zwei gespeicherten Freischaltstufen können neue Expertenrechte nicht prüfen; für solche Sicherungen ist der aktuelle App-Stand erforderlich.
+
+Die Schauspielerredaktion wird anhand Frage-ID, Personen-ID sowie ursprünglichem Frage- und Vertiefungstext ausschließlich für die Anzeige aufgelöst. 727 Fragen nennen die vorgegebene Person mit vollem Namen; 73 Erkennungsfragen behalten den verdeckten Namen bis zur Lösung. Alle 800 Vertiefungen erhalten individuelle Ergänzungen; 549 Fragen verweisen auf 493 konkrete Filme. Filmdaten erscheinen ausschließlich nach der Antwort. Bestehende CSV, Frageversionen, Lernereignisse und Rundensnapshots bleiben unverändert. Eigene Fragen mit abweichendem Inhalt werden nicht überschrieben. [Fachvertrag](Filmreise-Personen-und-Vertiefungen.md).

@@ -2,6 +2,7 @@ import { createServer } from "vite";
 import { readFile, mkdir, writeFile } from "node:fs/promises";
 import { resolve, join } from "node:path";
 import { strict as assert } from "node:assert";
+import { createHash } from "node:crypto";
 
 // Operator preparation only. Never connects to a database or reads user data.
 const output = resolve(process.argv[2] ?? "tmp-sync/catalog");
@@ -51,6 +52,41 @@ try {
   await mkdir(output, { recursive: true });
   await writeFile(join(output, "release.json"), JSON.stringify(release));
   await writeFile(join(output, "operator-seed.sql"), sql);
+  // Management APIs may cap request bodies; stage only operator-approved data.
+  const manifest = JSON.stringify({
+    ...release,
+    protocol: 1,
+    scoreFields: scores,
+    questionCount: questions.length,
+  });
+  const manifestHash = createHash("sha256").update(manifest).digest("hex");
+  const parts = [];
+  for (let at = 0; at < manifest.length;) {
+    let end = Math.min(at + 16000, manifest.length);
+    if (end < manifest.length && /[\uD800-\uDBFF]/.test(manifest[end - 1]))
+      end--;
+    parts.push(manifest.slice(at, end));
+    at = end;
+  }
+  await mkdir(join(output, "publication-parts"), { recursive: true });
+  for (let part = 0; part < parts.length; part++)
+    await writeFile(
+      join(output, "publication-parts", `${String(part).padStart(4, "0")}.sql`),
+      `insert into quiz_sync_internal.catalog_publication_parts(manifest_sha256,part,total,content) values(${literal(manifestHash)},${part},${parts.length},${literal(parts[part])}) on conflict do nothing;\n`,
+    );
+  await writeFile(
+    join(output, "operator-publish.sql"),
+    `select quiz_sync_internal.publish_catalog(${literal(manifestHash)});\n`,
+  );
+  await writeFile(
+    join(output, "publication.json"),
+    JSON.stringify({
+      manifestHash,
+      parts: parts.length,
+      bytes: Buffer.byteLength(manifest),
+      releaseHash: release.hash,
+    }),
+  );
   console.log(
     JSON.stringify({
       hash: release.hash,

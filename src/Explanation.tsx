@@ -1,13 +1,16 @@
 import { type AnswerEvent, type Question } from "./model";
 import { filmDetails } from "./filmDetails";
 import { directorExplanation } from "./filmFacts";
+import { actorPresentation } from "./actorEditorial";
 import { FilmDataPanel } from "./FilmDataPanel";
 
 export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
   const film = filmDetails(q);
   const director = directorExplanation(q);
-  const deepContext = director?.text ?? q.context;
+  const actor = actorPresentation(q);
+  const deepContext = actor?.text ?? director?.text ?? q.context;
+  const sources = [...new Set([...q.sources, ...(actor?.sources ?? [])])];
   return (
     <div className="explanation">
       <span className="eyebrow">DIE IDEE DAHINTER</span>
@@ -64,11 +67,11 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
           </p>
         </div>
       )}
-      {q.sources.length > 0 && (
+      {sources.length > 0 && (
         <details>
           <summary>Quellen ansehen</summary>
           <ul>
-            {q.sources.map((url) => (
+            {sources.map((url) => (
               <li key={url}>
                 <a href={url} target="_blank" rel="noreferrer">
                   {new URL(url).hostname} ↗

@@ -7,7 +7,7 @@ import {
   type State,
   type AnswerEvent,
 } from "./model";
-import { rebuild } from "./engine";
+import { rebuild, learnPending } from "./engine";
 import { questionSnapshotMatches } from "./filmFacts";
 import { learningPathProgress, newlyUnlocked } from "./learningPath";
 import { rankingRequest } from "./rankingRequest";
@@ -247,6 +247,9 @@ export function importDuelView(s: State, v: DuelView, finish = true) {
     };
     s.rounds.push(r);
   }
+  const added: AnswerEvent[] = [];
+  let changedGuess = false;
+  let catalogChanged = false;
   for (const item of available) {
     let q = questionSchema.parse(viewQuestion(item.question));
     const existing = s.questions.find((base) => base.id === q.id);
@@ -259,20 +262,30 @@ export function importDuelView(s: State, v: DuelView, finish = true) {
         id: `DUEL-${v.duel.id}-${v.number}-${r.events.length}`,
         metadata: { ...q.metadata, duel_question_id: q.id },
       };
+    else if (existing)
+      // Keep canonical metadata after a value-identical jsonb round trip;
+      // the server's validated year choices stay in the historical snapshot.
+      q = { ...structuredClone(existing), answers: q.answers };
     const prior = r.questions.find((old) => old.knowledgeId === q.knowledgeId);
     if (prior) q = prior;
-    if (!s.questions.some((base) => base.id === q.id))
-      s.questions.push(structuredClone(q));
+    if (!s.questions.some((base) => base.id === q.id)) {
+      s.questions = [...s.questions, structuredClone(q)];
+      catalogChanged = true;
+    }
     const event = duelEvent(item, id, q);
     const saved = s.events.find((e) => e.id === event.id);
     if (saved) {
-      if (event.guessed) saved.guessed = true;
+      if (event.guessed && !saved.guessed) {
+        saved.guessed = true;
+        changedGuess = true;
+      }
       continue;
     }
     r.questions.push(q);
     r.order.push(item.order);
     r.events.push(event.id);
     s.events.push(event);
+    added.push(event);
     r.finishedAt = event.at;
   }
   if (finish && r.events.length === 10 && r.status !== "completed") {
@@ -280,7 +293,9 @@ export function importDuelView(s: State, v: DuelView, finish = true) {
     r.status = "completed";
     rebuild(s, true);
     r.unlocks = newlyUnlocked(before, s);
-  } else rebuild(s);
+  } else if (changedGuess || catalogChanged || r.status === "completed") {
+    if (added.length || changedGuess || catalogChanged) rebuild(s);
+  } else learnPending(s, added);
 }
 export function duelScreen(
   v: DuelView,

@@ -76,6 +76,8 @@ Noch nicht umgestellte Online-Stände liefern zunächst den übertragenen alten 
 
 ## Implementierung und Nachweis
 
+Lokale Optimierung vom 03.10.2026: Eine neue Antwort in einer noch offenen Runde aktualisiert das betreffende Wissensziel, ohne die gesamte Karrierehistorie erneut abzuspielen. XP, Rekorde und Freischaltungen bleiben bis zum Abschluss unverändert. Bei rückdatierten Antworten oder einer Rate-Korrektur vor späteren Ereignissen erfolgt weiterhin der vollständige Replay. Abschluss und Sicherungsprüfung verwenden ebenfalls die vollständige Berechnung; Rekordpunkte werden dabei einmal je Runde aufsummiert. Vergleichstests prüfen identische Zustände nach beiden Wegen. Der lokale Katalog wird getrennt gespeichert; [Speichervertrag](Lernregeln.md#datenintegrität-und-sicherung).
+
 - Berechnung und Umstellung: [career.ts](../src/career.ts); bestehende Lernregeln zentral in [learning.ts](../src/learning.ts), über engine weiterhin exportiert.
 - Anzeige, Füllung und Aufstieg: [CareerProgress.tsx](../src/CareerProgress.tsx).
 - Transport und Synchronisierung: [cloudCodec.ts](../src/cloudCodec.ts), [accounts.ts](../src/accounts.ts), [accountSync.ts](../src/accountSync.ts).

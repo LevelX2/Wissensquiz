@@ -14,7 +14,11 @@ import {
   type SyncRow,
 } from "./syncCodec";
 
-export type WriteOptions = { progressOnly?: boolean; replace?: boolean };
+export type WriteOptions = {
+  progressOnly?: boolean;
+  replace?: boolean;
+  reuseCatalog?: boolean;
+};
 export type EntryHead = {
   format: "quiz-local-entries-v1";
   localVersion: number;

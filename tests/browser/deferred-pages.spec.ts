@@ -50,7 +50,7 @@ test("alle Nebenansichten öffnen nach Offlinevorbereitung auch ohne vorherigen 
   );
   await page.getByRole("button", { name: "Spielen", exact: true }).click();
   await page
-    .getByRole("button", { name: /Duell · Gegen andere spielen/ })
+    .getByRole("button", { name: /Duell Gegen andere spielen/ })
     .click();
   await expect(
     page.getByRole("heading", { name: /Duell/, level: 1 }),

@@ -82,7 +82,8 @@ it("erzeugt für Laufzeitsnapshots nach Geräteabruf keine künstlichen Änderun
   ];
   r.order = [variant.answers.map((a) => a.id)];
   // Internal App mutations need not pass through backup validation first.
-  const document = await compileState(state, [release]);
+  const checked = validateBackup(state);
+  const document = await compileState(checked, [release]);
   const rebuilt = reconstructState(document, [release]);
   const next = await compileState(rebuilt, [release], document, false);
   expect(difference(document, next)).toEqual({ changes: [], objects: [] });
@@ -198,4 +199,30 @@ it("verweigert beschädigte Inhalte, fehlende historische Releases und falsche E
   (row.value as { questions: { correctId: string }[] }).questions[0].correctId =
     "falsch";
   expect(() => reconstructState(doc, [release])).toThrow("Ergebnisfelder");
+});
+
+it("erhält eigenständige Expertenrechte der produktiven Fragenbereiche im Eintrags- und v2-Rücklauf", async () => {
+  const state = validateBackup({
+    ...structuredClone(base),
+    journey: {
+      version: 1,
+      independentAreas: true,
+      earned: {
+        Schauspieler: { difficulty: 3, familiarity: 0 },
+        Preisträger: { difficulty: 3, familiarity: 0 },
+      },
+    },
+  });
+  const document = await compileState(state, [release]);
+  const rebuilt = reconstructState(document, [release]);
+  expect(rebuilt).toEqual(state);
+  expect(
+    difference(
+      document,
+      await compileState(rebuilt, [release], document, false),
+    ),
+  ).toEqual({ changes: [], objects: [] });
+  expect(await decodeCloudState(await encodeCloudState(rebuilt))).toEqual(
+    state,
+  );
 });

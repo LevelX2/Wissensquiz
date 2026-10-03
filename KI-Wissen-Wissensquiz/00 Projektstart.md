@@ -4,20 +4,20 @@ Stand: 03.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
-- Öffentliche statische React-/TypeScript-PWA ohne ChatGPT-Zugangsschranke. Letzte dokumentierte Veröffentlichung: **Sites-Version 39**, erfolgreich am 03.10.2026; [Betriebsnachweis](../docs/Sites-Betrieb.md).
+- Öffentliche statische React-/TypeScript-PWA ohne ChatGPT-Zugangsschranke. Aktuell nativ bestätigte Veröffentlichung: **Sites-Version 41**, erfolgreich am 03.10.2026; [Betriebsnachweis](../docs/Sites-Betrieb.md).
 - **17 Quellenpakete, 5.677 Fragen, 5.147 Wissensziele, 530 Varianten**, 656 eingeordnete Filme und 100 Personen. Filmfragen, Preisträger und Schauspieler sind additive Fragenbereiche; Filmfilter begrenzen nur Filmfragen.
 - Filmreise, Freies Spiel, Rekordrunde und Fehlertraining; eigene Antwortwahl „Keine Ahnung“, direkte/gesammelte Lösungen, Karriere-XP, Rundenrückblicke und asynchrone Kontoduelle.
 - Gaststand lokal, bestätigte Kontostände automatisch privat online gesichert. Öffentliche Bestenliste/Gastaktivität und gemeinsame Trainingswertung sind dokumentiert; private Spielstände bleiben geschützt.
-- Veröffentlichter Stand mit IndexedDB-Version 2; lokal Version 3 mit getrennten Kontoeinträgen und dauerhafter atomarer Outbox. JSON-Schema 1, IDs, große Ausgangslernstände und historische Snapshots bleiben erhalten. Kein verpflichtendes Backend für Gastspiel.
-- **Strukturverbesserungen und Speicher-/Sync-Optimierung im eigenen Worktree `codex/speicher-sync-optimierung` umgesetzt und bis einschließlich `60ab29f` am 03.10.2026 lokal freigegeben.** Acht Strukturpakete, danach vier Speicher-/Sync-Pakete; lokale Paketcommits, keine Main-Integration, Veröffentlichung oder Remote-Aktion. [Strukturprozess](../docs/Strukturverbesserungen-Prozess.md), [neue Abnahme](../docs/Speicher-und-Sync-Abnahme.md), [ursprüngliche Prüfung](../docs/Strukturpruefung-2026-10-03.md).
+- Veröffentlichter Stand mit IndexedDB-Version 2; geprüfter Rollout mit Version 3, getrennten Kontoeinträgen und dauerhafter atomarer Outbox. JSON-Schema 1, IDs, große Ausgangslernstände und historische Snapshots bleiben erhalten. Kein verpflichtendes Backend für Gastspiel.
+- **Strukturverbesserungen und Speicher-/Sync-Optimierung im eigenen Worktree `codex/speicher-sync-optimierung` umgesetzt und bis einschließlich `60ab29f` am 03.10.2026 lokal freigegeben.** Acht Strukturpakete, danach vier Speicher-/Sync-Pakete; lokale Paketcommits; anschließend ausdrücklich beauftragter Produktionsrollout mit Übernahme der zwischenzeitlichen Versionen 40/41. Datenbank und Katalog sind eingerichtet, App-Veröffentlichung wird vorbereitet. Keine Main-Integration oder GitHub-Aktion. [Produktionsnachweis](../docs/Speicher-und-Sync-Produktion.md). [Strukturprozess](../docs/Strukturverbesserungen-Prozess.md), [neue Abnahme](../docs/Speicher-und-Sync-Abnahme.md), [ursprüngliche Prüfung](../docs/Strukturpruefung-2026-10-03.md).
 - Gemeinsame immutable offizielle Kataloge, private Abweichungen, gezielte Einträge/Paketbelege und kleine Ranglistenprojektionen lokal geprüft. 255 Tests in 42 Dateien, Build und 126 Browserfälle erfolgreich abgedeckt; ein bekannter WebKit-Fall ausgelassen. 100 synthetische Konten im nativen Lastlauf vollständig rekonstruiert, 64,1 % weniger physischer Anwendungsspeicher nach geprüfter Bereinigung. [Messdaten und Grenzen](../docs/Speicher-und-Sync-Messung.json).
 
 ## Offen
 
-- Main-Integration, Produktionsmigration, Freigabe alter Ausgangskopien und Veröffentlichung benötigen eigene ausdrückliche Aufträge; [konkreter Ablauf](../docs/Speicher-und-Sync-Migration.md).
+- Main-Integration und Freigabe alter Ausgangskopien benötigen weiterhin eigene ausdrückliche Aufträge; Produktionsmigration und Veröffentlichung sind inzwischen beauftragt; [konkreter Ablauf](../docs/Speicher-und-Sync-Migration.md).
 - Echte Zwei-Konten-/Zwei-Geräte-Abnahme auf Mobilverbindungen, physische Geräte-/Hörprüfung und PWA-Installation auf dem Smartphone. Isolierte Browsernachweise ersetzen diese Abnahmen nicht.
 - Rückmeldungen zu Spielspaß, Erklärungstiefe, verständlichem Fortschritt und redaktioneller Bekanntheitseinteilung auswerten. Gelieferte Filmaussagen bei Bedarf einzeln fachlich prüfen; Quellenkennzeichnungen sind keine neue unabhängige Faktenprüfung.
-- Produktionsquote, Migrationszwischenbedarf und reale API-/Mobilverbindungen nach einem beauftragten Rollout prüfen. Die lokale Messung garantiert keine Free-/Nano-Kapazität. Die Startdatei bleibt trotz getrennt geladener Ansichten groß.
+- Produktionsquote, Migrationszwischenbedarf und reale API-/Mobilverbindungen während des beauftragten Rollouts beobachten. Die lokale Messung garantiert keine Free-/Nano-Kapazität. Die Startdatei bleibt trotz getrennt geladener Ansichten groß.
 
 ## Einstieg und Verträge
 

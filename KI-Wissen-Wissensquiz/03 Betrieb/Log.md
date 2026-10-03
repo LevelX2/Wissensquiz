@@ -534,3 +534,55 @@ Betroffene Fachseiten, aktueller Snapshot und Wissensindex gepflegt. Hauptarbeit
 Der Nutzer hat den im Abnahmebericht dokumentierten lokalen Gesamtstand bis einschließlich Implementierungscommit `60ab29f` auf `codex/speicher-sync-optimierung` ausdrücklich mit „Lokalen Stand freigeben“ abgenommen. Die Freigabe umfasst die acht Strukturpakete und die vier anschließenden Speicher-/Sync-Pakete. Abnahmeberichte und aktuelle Statusseiten nachgeführt; frühere Prüf- und Logeinträge bleiben erhalten. Keine Anwendung, Datenbank oder echten Spielstände für diese Dokumentation geändert.
 
 Main-Integration, Remote-Aktionen, Produktionsmigration, Freigabe alter Ausgangskopien und Veröffentlichung bleiben ohne eigenen Auftrag offen. Der Worktree bleibt erhalten. [Freigegebener Stand und Prüfgrenzen](../../docs/Speicher-und-Sync-Abnahme.md), [vorbereiteter Betreiberablauf](../../docs/Speicher-und-Sync-Migration.md).
+
+## 03.10.2026 – Antwortreaktion nach Version 36 und Solo-Lösungswahl
+
+Auf Nutzerfeedback zur trägen Antwortanzeige in Solo und Duell den veröffentlichten Quellstand isoliert geprüft, um andere laufende Arbeiten zu erhalten. Katalogkopie/-schreiben, vollständiger Karriere-Replay und unnötige Rundenauswahl waren wiederkehrende Kosten. Zusätzlich führte die andere Objektschlüsselreihenfolge aus PostgreSQL `jsonb` zu unnötigen Duell-Fragenfassungen. Lokalen Katalog getrennt und atomar gespeichert, chronologische Teilantworten inkrementell gelernt, unveränderte Duell-Snapshots nach Inhalt verglichen und vollständige historische Fassungen erhalten. Gleiche Rundensnapshots intern wiederverwendet; XP, Rekorde, Freischaltungen und rückdatierte Änderungen vollständig abgesichert.
+
+Weitere Ausreißer bei gleichzeitigem Kontoupload auf Validierung, Serialisierung und Kompression im Oberflächenthread zurückgeführt. Diese Arbeit in einen Modul-Worker verlegt, mit unverändertem Fingerabdruck, Validierung und Kompaktformat. Nur vom Speicher vollständig gesperrte Kataloge wiederverwenden; Kontowechsel, mutable Eingaben und Ladefehler geprüft. Das Offline-Paket enthält das zusätzliche Worker-Skript. Keine neuen Abhängigkeiten, Datenbankmigrationen oder realen Testspielstände.
+
+Auf ergänzenden Nutzerwunsch Solo-Lösungswahl vom Startbildschirm nach Profil → Optionen verschoben; gilt für neue Runden, laufende Snapshots bleiben erhalten. Gemeinsame Duellwahl beim Anlegen unabhängig von der Solo-Option. Der Nutzer entschied ausdrücklich, die bisherige Duell-Zeitregel vorerst zu behalten; kein Fünf-Minuten-Limit ergänzt.
+
+203 Logik-/Datenbanktests, Produktions-Build und insgesamt 113 unterschiedliche Browserfälle erfolgreich abgesichert. Vollständiger Erstlauf plus gezielte Nachprüfungen; nach Worker/Optionsänderung 29 betroffene Fälle und gegen den abschließenden Build alle acht Duell-/Lösungs-/Reaktionsfälle geprüft. Neue Duell-Prüferwartungen an Speicherstatus und Wiederaufnahme korrigiert. Bei vierfach gedrosseltem Chromium-Hauptthread Solo 120/153/221 ms für 0/100/500 vergangene Runden, Referenz 619/557/668 ms. Finale lokale Duellverarbeitung nach Serverantwort 240 ms in Chromium, 125 ms in WebKit; tatsächliche mobile Netzlaufzeit nicht vermessen. [Vollständiger Prüfnachweis](../../docs/Pruefbericht.md).
+
+Bytegleiche Alle-Genres-Filmdaten durch ergänzte Git-Attributregel auch in neuen Windows-Checkouts erhalten; reine Berichtzeitstempel zurückgesetzt. Fachverträge, Index und Status nachgezogen. Lokal auf `codex/antwortreaktion-optimieren` gesichert, keine Veröffentlichung oder Main-Integration. Andere laufende Arbeitsstände erhalten.
+
+
+
+## 03.10.2026 – Duell als fünfte Spielkachel
+
+Auf Nutzerwunsch den breiten Duelleinstieg durch eine fünfte Kachel im gemeinsamen Modusraster ersetzt. Gleiche Größe, Bildfläche und Kartengestaltung; gekreuzte Schwerter als zusätzliches offline verfügbares SVG. Auf großen Bildschirmen fünf Karten nebeneinander, auf schmalen zwei pro Zeile mit mittiger fünfter Karte. Der Einstieg führt direkt zu neuen und offenen Duellen; Solorundenauswahl und bestehende Sperre während einer laufenden Solorunde erhalten.
+
+203 Logik-/Datenbanktests, Produktions-Build und acht gezielte Browserfälle in Chromium/WebKit bestanden. Raster auf fünf Bildschirmbreiten visuell und auf Überlauf geprüft, Tastaturzugang, Kontoanforderung, kompletter Duellablauf, Lösungswahl und Offline-Bilder abgesichert; Axe ohne Befund. Fachseiten und Status nachgezogen. Bisherige Zeitregeln erhalten. Lokal auf codex/antwortreaktion-optimieren, keine Veröffentlichung oder Main-Integration; andere laufende Arbeitsstände erhalten. [Prüfnachweis](../../docs/Pruefbericht.md).
+
+
+
+## 03.10.2026 – Additive Fragenbereiche als Version 39 veröffentlicht
+
+03.10.2026 **Sites-Version 39 veröffentlicht**, nativer Status `succeeded`: Filmfragen, Preisträger und Schauspieler als additive Fragenbereiche gemeinsam oder einzeln auswählbar. Genres, Filmgruppen und Classics/Arthouse begrenzen nur Filmfragen. Quellcommit `0db3262f4ff8cf41f72fa08e66e6abe8476c3180`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_e23c81f849748191b0c1c0a41f628987`, Deployment `appgdep_6ac09f20d34c81918c5c85d11c5585e1`. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich; mobile Ansichten, Axe, Sicherungsrücklauf und Offline-Wiederaufnahme geprüft. Offline-Paket `film-599e2f3a4db2`; Archiv mit 49 Dateien und Hash `sha256:056770347d4977e448e310cc6f70cf6aee8417470464e9b2e3b4884bd3390d6e` nativ gespeichert. Bestehende öffentliche URL, Projekt-ID, alle Inhalte, Frage-/Wissensziel-IDs, Lernstände und historische Runden erhalten. Keine Servermigration, Main-Integration oder GitHub-Veröffentlichung. [Auswahlvertrag](../../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
+
+Die zusätzliche Bildnachprüfung bestätigte geladene Icons in Chromium und WebKit. Nach bestandenem WebKit-Test hing der Zusatzlauf im Teardown; ausschließlich seine verifizierten Testprozesse beendet. Der zuvor vollständige 24-Fälle-Lauf war bereits sauber abgeschlossen.
+
+## 03.10.2026 – Veröffentlichung der Antwortoptimierung vorbereitet
+
+Auf ausdrücklichen Veröffentlichungsauftrag den bereits live veröffentlichten Quellstand der Versionen 38/39 mit der lokalen Antwortoptimierung, Worker-Sicherung, Optionsverlagerung und fünften Duellkachel zusammengeführt. Eigenen Sites-Checkout verwendet; andere aktive Arbeitsstände nicht verändert. Kompaktes Speicherformat und additive Fragenbereiche erhalten. Optionale Katalogrevision vermeidet die erneute Übertragung der großen JSON-Zeichenfolge im Antwortpfad; alte Clients ohne Revision lösen weiterhin die vollständige Inhaltsprüfung aus. Eine zunächst überschrittene Duell-Reaktionsgrenze damit behoben und nachgeprüft. 229 Tests, Build und 19 unterschiedliche finale Browserfälle erfolgreich; ein Desktop-WebKit-Fall absichtlich ausgelassen. Testtitel an die bereits veröffentlichte Quellenbezeichnung angepasst, beide Einstiegsfälle erneut geprüft. Bisherige Zeitregeln, Rohquellen, Fragen und private Spielstände erhalten. Keine neue Migration oder Main-Integration. [Prüfbericht](../../docs/Pruefbericht.md).
+
+
+## 03.10.2026 – Sites-Version 40 veröffentlicht
+
+Antwortoptimierung, Worker-Sicherung, Solo-Lösungswahl im Profil und fünfte Duellkachel gemeinsam mit den bereits veröffentlichten Ständen 38/39 erfolgreich live veröffentlicht. App-Commit 1a48d5965b20a986a6d157e7420781f6b145e473, gespeicherte Version appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_d20c610122e881919484a6117fb2a75f, Deployment appgdep_6ac0a5fdd2d48191b1bb4669ef1b6059, nativer Status succeeded. Bestehenden öffentlichen Zugriff und Adresse erhalten; geprüften Quellcommit und Archiv mit 51 Pfaden über den regulären Workflow übertragen. Native Browserübergabe angefordert. Eigener Arbeitsbranch fast-forward auf den Release übernommen; andere laufende Arbeitsstände erhalten. Keine Main-Integration oder GitHub-Veröffentlichung. [Veröffentlichungsnachweis](../../docs/Sites-Betrieb.md).
+
+Während der Veröffentlichung meldete der Nutzer einen Fehler beim Online-Laden. Lesende Diagnose: Anmeldung und Abruf vom Server erfolgreich (HTTP 200); unveränderte Online-Sicherung lässt sich sowohl mit dem Programmstand der Version 39 als auch mit Version 40 decodieren und vollständig prüfen. Keine realen Spielstände geändert; temporäre Diagnosedaten entfernt. Ursache auf dem konkreten Gerät noch nicht abschließend bestätigt. Vollständiges Schließen aller alten Quiz-Tabs/App-Fenster und erneutes Öffnen empfohlen, um den neuen Worker zu aktivieren. [Prüfgrenzen](../../docs/Konten-und-Spielstaende.md#ladefehlermeldung-nach-veröffentlichung-03102026).
+
+
+
+## 03.10.2026 – Filmreise und Schauspielerredaktion überarbeitet
+
+Auf erneuten Nutzerhinweis Filmreise für Schauspieler/Preisträger geöffnet, getrennte Stufen bis Experte umgesetzt und bisherige Filmrechte einmalig erhalten. Vorgaben präzisiert: voller Schauspielername im Fragetext bei vorgegebener Identität, konkrete Vertiefung sowie Filmdaten bei Filmbezug. 800 redaktionelle Ergänzungen mit 549 verknüpften Fragen/493 Filmen und 382 neuen Eckdatensätzen. Auf Quellstand der veröffentlichten Version 40 aufgebaut; Originalfragen, CSV, IDs und Lernstände nicht umgeschrieben. 234 Tests und Produktions-Build erfolgreich, Browserabnahme läuft. [Vertrag](../../docs/Filmreise-Personen-und-Vertiefungen.md).
+
+Abschließende Abnahme: 31 Browserfälle bestanden (17 Chromium, 14 WebKit), ein Desktop-WebKit-Fall absichtlich ausgelassen; mit fünf weiteren Film-Eckdatenfällen 36 unterschiedliche erfolgreiche Fälle. Neue Filmreise-Tests nach Synchronisierung mit bestätigten Schreibständen erfolgreich. Volle Namen, Vertiefung, Mehrfilmreferenzen, Biografie ohne Filmblock, Alt-Snapshots, Offline, getrennte Fortschritte, gespeicherte Quellenwahl und bisherige Antwortreaktion geprüft. Veröffentlichung des geprüften Builds wird angestoßen.
+
+
+## 03.10.2026 – Produktionsrollout der Speicher-/Sync-Optimierung
+
+Nach lokaler Freigabe ausdrücklichen Produktionsauftrag erhalten. Den freigegebenen Worktree mit den zwischenzeitlich veröffentlichten Sites-Versionen 40/41 zusammengeführt; bestehende Antwortoptimierung, UI und Personen-Filmreise erhalten. Hauptarbeitsordner und fremde Änderungen nicht verändert. Vollständige private logische Datenbankmomentaufnahme mit Metadaten außerhalb Git/Artefakt gesichert; bestehenden Kontostand ausschließlich lesend vollständig rekonstruiert. Drei freigegebene Migrationen und zusätzliche getestete Betreiber-Teilpublikation angewendet. Vollständigen 5.677-Fragen-Katalog nach SHA-Prüfung atomar freigegeben; Rollen, RLS und Grants geprüft. Bestehende Online-Sicherung samt Revision und öffentliche Spielerwerte unverändert; keine echten Spielstände für Tests verändert. Alte Ausgangskopien nicht freigegeben. App-Veröffentlichung wird nach abschließender Browserprüfung angestoßen. [Nachweis](../../docs/Speicher-und-Sync-Produktion.md).

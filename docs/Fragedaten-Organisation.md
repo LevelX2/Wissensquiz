@@ -1,6 +1,6 @@
 # Organisation der Fragedaten
 
-## Kontokatalog und Eintragsspeicherung – lokal vorbereitet am 03.10.2026
+## Kontokatalog und Eintragsspeicherung – Rollout am 03.10.2026
 
 Die aktuelle lokale Datenbankversion ist **3**. Gaststände behalten das getrennte v2-Kataloglayout im Store `state`; migrierte Konten erhalten `entryHeads`, `entryRows`, `entryObjects`, `syncOutbox`, `syncReleases` und `entryMigrations`. Speicherlayout und Protokoll haben eigene Versionen; vollständige JSON-Sicherung bleibt Schema 1.
 
@@ -10,7 +10,7 @@ Rundensnapshots und tatsächliche Jahresalternativen bleiben eigenständige ursp
 
 `scripts/prepare-sync-catalog.mjs` erzeugt lokal geprüfte Operatorartefakte aus öffentlichen Quellen; keine Produktionsverbindung. Der vorhandene kleinere Duellkatalog ist kein Ersatz für diese 5.677 App-Fragen. Eigene Importe dürfen nicht in öffentliche Releases gelangen.
 
-[Implementierung und Messung](Speicher-und-Sync-Abnahme.md), [Migrationsvertrag](Speicher-und-Sync-Migration.md). Die nachfolgende Beschreibung und Größenmessung dokumentieren die bisherige v2-Organisation und bleiben als Ausgangsnachweis erhalten.
+[Implementierung und Messung](Speicher-und-Sync-Abnahme.md), [Migrationsvertrag](Speicher-und-Sync-Migration.md), [Produktionsnachweis](Speicher-und-Sync-Produktion.md). Die nachfolgende Beschreibung und Größenmessung dokumentieren die bisherige v2-Organisation und bleiben als Ausgangsnachweis erhalten.
 
 Stand: 03.10.2026, lokal umgesetzt. Die Grundstruktur passt zum aktuellen Bestand: 17 Quellenpakete, 5.677 eindeutige Fragen, 5.147 Wissensziele und 530 ausdrücklich verknüpfte Varianten. Fragenidentität, Wissensziel, Genre, Zusatzkategorie und historische Inhaltsversion haben unterschiedliche Aufgaben und bleiben getrennt. Alle Pakete sind strukturell gültig und bytegleich mit ihren Rohquellen. Die Prüfung bewertet Organisation und Speicherung; sie bestätigt keine neuen fachlichen Filmaussagen.
 
@@ -29,7 +29,7 @@ Die IndexedDB-Datenbank `wissensquiz` verwendet jetzt Datenbankversion **2** und
 
 Der Katalog wird beim Lesen vollständig rekonstruiert. Exakt gleiche Metadatenwerte verweisen auf bereits vorhandene Fragefelder; etwa ein nochmals enthaltenes `explanation_short` auf die normalisierte Erklärung. Abweichende Originalwerte, eigene Importspalten, leere Felder, Zahlen als Text und die Reihenfolge der Metadaten bleiben erhalten. Die Werte und ihre Feldpositionen bilden einen versionierten Kodierungsvertrag. IDs, Versionsfingerabdrücke und fachliche Originaldaten ändern sich dadurch nicht.
 
-Schreibtransaktionen lesen Fortschritt und Katalog gemeinsam, wenden die Änderung an und vergleichen den exakten kodierten Kataloginhalt. Nur ein veränderter Katalog wird erneut geschrieben. Die Fortschrittsänderung und eine gegebenenfalls erforderliche Katalogänderung werden in derselben Transaktion bestätigt oder gemeinsam zurückgerollt. Es gibt keinen dauerhaften Cache, der Änderungen aus einem anderen Fenster übersehen könnte.
+Schreibtransaktionen lesen Fortschritt und Katalog gemeinsam, wenden die Änderung an und vergleichen den exakten kodierten Kataloginhalt. Nur ein veränderter Katalog wird erneut geschrieben. Die Fortschrittsänderung und eine gegebenenfalls erforderliche Katalogänderung werden in derselben Transaktion bestätigt oder gemeinsam zurückgerollt. Für die zusammengeführte Antwortoptimierung gibt es zusätzlich einen schreibgeschützten Katalogcache. Eine optionale Revision im Katalogverweis erlaubt bestätigten Antworten, nur Fortschritt und Existenz des Katalogschlüssels zu lesen. Inhaltsänderungen vergeben atomar eine neue Revision; ältere Clients ohne Revision lösen eine vollständige Inhaltsprüfung aus. Vollständige Lesevorgänge vergleichen weiterhin die exakte JSON-Zeichenfolge. Das vorhandene Speicherformat und die Metadatenkodierung bleiben erhalten.
 
 Bestehende Vollstände bleiben lesbar und werden erst bei einer erfolgreichen Schreibtransaktion in das neue Layout überführt. Ein fehlender oder unlesbarer referenzierter Katalog führt zu einem Fehler, nicht zu einem leeren Ersatzstand. Bestehende Synchronisierungsbelege und Rückfallkopien bleiben erhalten. Datenbankversion 2 verhindert, dass ältere Builds, die ausdrücklich Version 1 öffnen, das neue Layout schreiben. Vor der Nutzung eines veröffentlichten Updates müssen alte Quiz-Fenster geschlossen werden. Die aktuellen JSON-Exporte und Online-Sicherungen enthalten weiterhin den vollständigen logischen Zustand und alle historischen Inhalte.
 

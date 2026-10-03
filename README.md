@@ -2,7 +2,7 @@
 
 Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Als Gast funktioniert es ohne Konto oder verpflichtendes Backend; ein eigenes Quiz-Konto ergänzt private Online-Sicherung und Duelle.
 
-Stand 03.10.2026: 17 Quellenpakete, **5.677 Fragen und 5.147 Wissensziele**, 656 eingeordnete Filme und 100 Personen. Letzte dokumentierte Veröffentlichung: **Sites-Version 39**. [Strukturverbesserungen](docs/Strukturverbesserungen-Prozess.md) und die anschließende [Speicher-/Sync-Optimierung](docs/Speicher-und-Sync-Abnahme.md) liegen im eigenen Worktree auf `codex/speicher-sync-optimierung` und sind bis einschließlich `60ab29f` am 03.10.2026 lokal freigegeben; noch nicht integriert oder veröffentlicht. Frühere Meldungen bleiben in der [README-Historie](README-Historie-2026-10-03.md) erhalten.
+Stand 03.10.2026: 17 Quellenpakete, **5.677 Fragen und 5.147 Wissensziele**, 656 eingeordnete Filme und 100 Personen. Aktuell nativ bestätigte Veröffentlichung: **Sites-Version 41**. [Strukturverbesserungen](docs/Strukturverbesserungen-Prozess.md) und die anschließende [Speicher-/Sync-Optimierung](docs/Speicher-und-Sync-Abnahme.md) liegen im eigenen Worktree auf `codex/speicher-sync-optimierung` und sind bis einschließlich `60ab29f` am 03.10.2026 lokal freigegeben; Produktionsmigrationen und öffentlicher Katalog sind anschließend ausdrücklich beauftragt und eingerichtet; App-Veröffentlichung wird vorbereitet. Keine Main-Integration. [Produktionsnachweis](docs/Speicher-und-Sync-Produktion.md). Frühere Meldungen bleiben in der [README-Historie](README-Historie-2026-10-03.md) erhalten.
 
 ## Starten
 

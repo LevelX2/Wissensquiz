@@ -1,6 +1,5 @@
 import type { State } from "./model";
-import { genreOf } from "./filters";
-import { learningPathProgress } from "./learningPath";
+import { learningPathProgress, pathAreaOf } from "./learningPath";
 import { familiarityOf } from "./familiarity";
 
 /** Derived from existing history; no migration or extra progress fields. */
@@ -18,18 +17,20 @@ export function discoveryContext(state: State) {
   );
   const progress = learningPathProgress(state);
   const introductoryQuestionIds = new Set<string>();
-  for (const genre of new Set(state.questions.map(genreOf))) {
+  for (const genre of new Set(state.questions.map(pathAreaOf))) {
     const p = progress(genre);
-    const difficulty = p.hardUnlocked
-      ? "schwer"
-      : p.mediumUnlocked
-        ? "mittel"
-        : null;
+    const difficulty = p.expertUnlocked
+      ? "experte"
+      : p.hardUnlocked
+        ? "schwer"
+        : p.mediumUnlocked
+          ? "mittel"
+          : null;
     const stage = state.questions.filter(
-      (q) => genreOf(q) === genre && q.difficulty === difficulty,
+      (q) => pathAreaOf(q) === genre && q.difficulty === difficulty,
     );
     const newFilms = state.questions.filter(
-      (q) => genreOf(q) === genre && familiarityOf(q) === p.familiarity,
+      (q) => pathAreaOf(q) === genre && familiarityOf(q) === p.familiarity,
     );
     const seen = new Set(
       stage

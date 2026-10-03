@@ -157,13 +157,13 @@ it("ergänzt Bestandsstände idempotent und erhält Ereignisse, Rundensnapshots 
     rounds: state.rounds,
     events: state.events,
     learning: state.learning,
-    journey: state.journey,
   }).toEqual({
     rounds: before.rounds,
     events: before.events,
     learning: before.learning,
-    journey: before.journey,
   });
+  expect(state.journey?.earned ?? {}).toEqual(before.journey?.earned ?? {});
+  expect(state.journey?.independentAreas).toBe(true);
   expect(state.imports).toHaveLength(16);
   expect(() => validateBackup(state)).not.toThrow();
 });

@@ -109,13 +109,12 @@ it("erhält bestehende Fragen, Ereignisse und Lernstände und nutzt 50 vorhanden
     events: state.events,
     rounds: state.rounds,
     learning: state.learning,
-    journey: state.journey,
   }).toEqual({
     events: before.events,
     rounds: before.rounds,
     learning: before.learning,
-    journey: before.journey,
   });
+  expect(state.journey?.earned ?? {}).toEqual(before.journey?.earned ?? {});
   expect(state.imports).toHaveLength(17);
   for (const [questionId, oldId] of Object.entries(links)) {
     const q = state.questions.find((q) => q.id === questionId)!;
@@ -139,7 +138,14 @@ it("spielt Personen unabhängig von Filmgruppen und erhält Filmreise sowie getr
   const beforePath = pathQuestions(state).map((q) => q.id);
   const progress = learningPathProgress(state);
   addPackages(state, [actorPackage]);
-  expect(pathQuestions(state).map((q) => q.id)).toEqual(beforePath);
+  expect(
+    pathQuestions(state)
+      .filter((q) => !q.metadata.person_id)
+      .map((q) => q.id),
+  ).toEqual(beforePath);
+  expect(pathQuestions(state).filter((q) => q.metadata.person_id)).toHaveLength(
+    200,
+  );
   const q = imported.questions.find((q) => q.difficulty === "experte")!;
   expect(
     matchesFilters(q, {

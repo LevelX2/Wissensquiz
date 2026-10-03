@@ -4,7 +4,7 @@ Stand: 03.10.2026. Diese Seite beschreibt den Prüfprozess; konkrete Zahlen geh�
 
 ## Aktueller Nachweis
 
-[Speicher-/Sync-Abnahme](../../docs/Speicher-und-Sync-Abnahme.md): nachfolgende lokale Eintragsmigration, vollständige Rekonstruktion, Rechte-/Wiederholungsprüfungen, native PostgreSQL-Belegung und Last mit 100 synthetischen Konten. [Betreiberablauf](../../docs/Speicher-und-Sync-Migration.md) trennt die vorbereitete Umsetzung vom noch nicht beauftragten Produktionsrollout.
+[Speicher-/Sync-Abnahme](../../docs/Speicher-und-Sync-Abnahme.md): nachfolgende lokale Eintragsmigration, vollständige Rekonstruktion, Rechte-/Wiederholungsprüfungen, native PostgreSQL-Belegung und Last mit 100 synthetischen Konten. [Betreiberablauf](../../docs/Speicher-und-Sync-Migration.md) und [Produktionsnachweis](../../docs/Speicher-und-Sync-Produktion.md) dokumentieren den inzwischen beauftragten Rollout, Sicherung und verbleibende Betreiberentscheidungen.
 
 [Abnahme der Strukturverbesserungen](../../docs/Strukturverbesserungen-Abnahme.md): aktueller Worktree, Paketabschlüsse und Schlussprüfungen. Die ursprüngliche [Strukturprüfung](../../docs/Strukturpruefung-2026-10-03.md) beschreibt die damaligen Befunde. Veröffentlichungsnachweise stehen in [Sites-Betrieb](../../docs/Sites-Betrieb.md), weitere datierte technische Nachweise im [Prüfbericht](../../docs/Pruefbericht.md).
 

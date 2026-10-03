@@ -124,3 +124,8 @@ Use case: stylized-concept. Asset type: square transparent PNG game-mode icon, t
 ### public/cinema/lobby.png
 
 Use case: stylized-concept. Asset type: opaque cinematic background image for a bright movie-quiz web app, landscape 16:9. Primary request: an empty elegant art-deco movie theater atmosphere, refined photographic/digital cinematic illustration. Burgundy velvet curtains at the far left and far right edges, subtle warm gold projector-light beams at the upper outer edges, faint out-of-focus theater seat silhouettes only in the bottom outer edges. Bright pearl/ivory illuminated screen area occupies the central 70 percent of the picture. Center and top-middle are almost white, extremely uncluttered and softly illuminated to support dark UI text overlaid later. Warm gold details, soft atmospheric glow, premium tasteful cinema aesthetic. Preserve a broad bright readable center, no huge black or dark areas, no defined objects in central UI area. No people, text, letters, numbers, logos, watermark, UI, buttons or interface elements. Opaque background, landscape 16:9 composition.
+
+
+## Duell als fünfte Spielkachel (03.10.2026, lokal)
+
+Die zusätzliche Illustration public/modes/duell.svg ist eine im Repository erstellte Vektorgrafik mit gekreuzten Schwertern, transparentem Außenbereich und Gold-, Grün- und Bordeauxfarben. Sie ergänzt das vorhandene SVG des Fehlertrainings und verwendet dieselbe Bildfläche wie alle Spielkacheln (88 px, auf dem Handy 56 px). Keine neuen PNG-Originale oder externen Downloads. Der Build nimmt das SVG automatisch in das Offline-Paket auf. Einheitliche Kartengestaltung und Raster siehe [Navigation und Hilfe](Hilfe-und-Navigation.md).

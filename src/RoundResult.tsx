@@ -14,6 +14,7 @@ import { roundSummary } from "./roundSummary";
 import { careerSummary } from "./career";
 import { RoundExperience } from "./CareerProgress";
 import { historicalModeName, formatDate } from "./gameUi";
+import { presentedQuestion } from "./actorEditorial";
 import { Explanation } from "./Explanation";
 
 export function Result({
@@ -300,7 +301,7 @@ export function Result({
                   >
                     {e.guessed ? "?" : e.correct ? "✓" : "×"}
                   </span>{" "}
-                  {q.question}
+                  {presentedQuestion(q)}
                 </summary>
                 {!e.correct && (
                   <p>

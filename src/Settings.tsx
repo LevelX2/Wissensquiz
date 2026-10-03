@@ -1,5 +1,6 @@
 import { validateBackup } from "./backupValidation";
 import { useState } from "react";
+import { SolutionChoice } from "./SolutionChoice";
 import { importCsv } from "./importer";
 import { emptyState, type ImportReport, type State } from "./model";
 import { download, restore as restoreStored } from "./storage";
@@ -31,6 +32,8 @@ export function Settings({
   onHome: () => void;
 }) {
   const [message, setMessage] = useState("");
+  const [pendingSolutions, setPendingSolutions] =
+    useState<State["settings"]["solutionDisplay"]>();
   const [hapticMessage, setHapticMessage] = useState("");
   const reportHaptics = (result: ReturnType<typeof playFeedback>) =>
     setHapticMessage(
@@ -78,11 +81,33 @@ export function Settings({
         Einstellungen <em>& Daten.</em>
       </h1>
       <p className="lead">
-        Ton, Vibration und Fragehinweise stellst Du hier ein. Angemeldet wird
-        Dein Fortschritt automatisch online gespeichert; als Gast bleibt er auf
-        diesem Gerät. Eine JSON-Sicherung bietet Dir eine zusätzliche Kopie.
+        Ton, Vibration, Lösungsanzeige und Fragehinweise stellst Du hier ein.
+        Angemeldet wird Dein Fortschritt automatisch online gespeichert; als
+        Gast bleibt er auf diesem Gerät. Eine JSON-Sicherung bietet Dir eine
+        zusätzliche Kopie.
       </p>
       <div role="status">{message && <p className="notice">{message}</p>}</div>
+      <section className="settings-panel">
+        <h2>Lösungen in Solospielen</h2>
+        <p>
+          Sieh die Lösung und Zusatzinformationen nach jeder Antwort oder
+          gesammelt nach Deiner Runde. Gilt für neue Solorunden; eine begonnene
+          Runde behält ihre Einstellung. Den Ablauf eines Duells wählst Du beim
+          Anlegen.
+        </p>
+        <SolutionChoice
+          value={
+            pendingSolutions ?? state.settings.solutionDisplay ?? "question"
+          }
+          disabled={busy}
+          onChange={(value) => {
+            setPendingSolutions(value);
+            void mutate((s) => {
+              s.settings.solutionDisplay = value;
+            }).finally(() => setPendingSolutions(undefined));
+          }}
+        />
+      </section>
       <section className="settings-panel">
         <h2>Hinweise an der Frage</h2>
         <p>

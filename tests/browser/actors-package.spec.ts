@@ -1,9 +1,10 @@
-import { test, expect, type Page } from "./fixtures";
+import { test, expect, readStoredState, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { packages, addPackages } from "../../src/packages";
 import { emptyState, type State } from "../../src/model";
 import { startRound } from "../../src/engine";
+import { actorPresentation } from "../../src/actorEditorial";
 
 const now = new Date("2026-10-03T12:00:00+02:00");
 async function writeState(page: Page, value: State) {
@@ -76,9 +77,14 @@ test("Schauspieler öffnet 100 Personen und spielt Expertenfragen unabhängig vo
   );
   await expect(page.locator(".question-genre")).toHaveText("Schauspieler");
   await page.locator(".answer").first().click();
+  const active = (await readStoredState(page)).rounds.find(
+    (r) => r.status === "active",
+  )!;
+  const linked =
+    actorPresentation(active.questions[0])!.films.length > 0 ? 1 : 0;
   await expect(page.locator(".explanation .actor-name")).toBeVisible();
   await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
-  await expect(page.locator(".film-data")).toHaveCount(0);
+  await expect(page.locator(".film-data")).toHaveCount(linked);
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,
@@ -106,7 +112,7 @@ test("Schauspieler öffnet 100 Personen und spielt Expertenfragen unabhängig vo
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Experte",
   );
-  await expect(page.locator(".film-data")).toHaveCount(0);
+  await expect(page.locator(".film-data")).toHaveCount(linked);
 });
 
 test("Erkennungsfragen verraten die Person nicht in Überschrift oder Hinweis und zeigen Zusatzinfos erst nach der Antwort", async ({
@@ -147,7 +153,9 @@ test("Erkennungsfragen verraten die Person nicht in Überschrift oder Hinweis un
   await expect(page.locator(".actor-name")).toHaveText("Tom Hanks");
   await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
   await expect(page.locator(".explanation")).toContainText(q.context);
-  await expect(page.locator(".film-data")).toHaveCount(0);
+  await expect(page.locator(".film-data")).toHaveCount(1);
+  await page.getByText("Filmdaten", { exact: true }).click();
+  await expect(page.locator(".film-data")).toContainText("Forrest Gump");
 });
 
 test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und vollständig sichern", async ({
@@ -159,9 +167,10 @@ test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und voll
   await page
     .getByRole("checkbox", { name: "Schauspieler", exact: true })
     .check();
-  await expect(
-    page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
-  ).toHaveAttribute("aria-pressed", "true");
+  await expect(page.getByRole("button", { name: /Filmreise/ })).toHaveAttribute(
+    "aria-pressed",
+    "true",
+  );
   await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.reload();

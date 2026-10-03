@@ -2,7 +2,7 @@
 
 ## Lokale Umsetzung und Messung am 03.10.2026
 
-Die Speicher-/Sync-Optimierung ist lokal implementiert und geprüft; Produktion und Tarif bleiben unverändert. [Abnahme](Speicher-und-Sync-Abnahme.md), [Betreiberablauf](Speicher-und-Sync-Migration.md) und [Messdaten](Speicher-und-Sync-Messung.json) ergänzen die nachfolgende ursprüngliche Betriebsanalyse.
+Die Speicher-/Sync-Optimierung ist lokal implementiert und geprüft; Datenbankmigrationen und gemeinsamer Katalog sind nach ausdrücklichem Auftrag produktiv eingerichtet. Der Tarif bleibt unverändert. Der [Produktionsnachweis](Speicher-und-Sync-Produktion.md) trennt die tatsächliche aktuelle Belegung vom synthetischen Einsparungsnachweis. [Abnahme](Speicher-und-Sync-Abnahme.md), [Betreiberablauf](Speicher-und-Sync-Migration.md) und [Messdaten](Speicher-und-Sync-Messung.json) ergänzen die nachfolgende ursprüngliche Betriebsanalyse.
 
 100 synthetische Konten mit vollständigem App-Katalog und je 30 historischen Runden: physische Anwendungsbelegung einschließlich TOAST und Indizes 357,0 → 128,1 MB, rund 64,1 % weniger. Während der Übernahme mit eingefrorenen Ausgangskopien waren 483,1 MB nötig. Erst geprüfte aktuelle Exporte und kontrollierte Betreiberfreigabe machen die alte Kopie entbehrlich. Reale Konten/Importe können einen anderen Zwischenbedarf erzeugen.
 

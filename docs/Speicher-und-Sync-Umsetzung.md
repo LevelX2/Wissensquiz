@@ -1,5 +1,7 @@
 # Lokale Speicher- und Synchronisierungsoptimierung
 
+Nachtrag 03.10.2026: Nach der lokalen Freigabe wurde der Produktionsrollout ausdrücklich beauftragt. Der [Produktionsnachweis](Speicher-und-Sync-Produktion.md) dokumentiert den aktuellen Stand; die nachfolgenden Paket- und Messnachweise bleiben historische lokale Abnahme.
+
 Stand: 03.10.2026. Auf Nutzerauftrag tatsächliche Umsetzung, aufbauend auf den acht Strukturpaketen. Branch `codex/speicher-sync-optimierung`, Ausgangspunkt `bac3c40`. Der lokale Gesamtstand bis einschließlich `60ab29f` wurde am 03.10.2026 vom Nutzer freigegeben. Keine Main-Integration, Remote-Aktion, Produktionsmigration oder Veröffentlichung.
 
 ## Fachliche Pakete

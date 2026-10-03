@@ -49,9 +49,7 @@ export function DuelCenter({
   const [working, setWorking] = useState(false);
   const [error, setError] = useState("");
   const [notice, setNotice] = useState("");
-  const [display, setDisplay] = useState<SolutionDisplay>(
-    state.settings.solutionDisplay ?? "question",
-  );
+  const [display, setDisplay] = useState<SolutionDisplay>("question");
   const [view, setView] = useState<DuelView | null>(null);
   const [index, setIndex] = useState(0);
   const [review, setReview] = useState<DuelView | null>(null);
@@ -94,7 +92,10 @@ export function DuelCenter({
   async function accept(v: DuelView, finish = true): Promise<State | null> {
     if (!v.items.some((i) => i.event.correct !== null))
       return currentState.current;
-    return mutate((s) => importDuelView(s, v, finish), { progressOnly: false });
+    return mutate((s) => importDuelView(s, v, finish), {
+      progressOnly: false,
+      reuseCatalog: true,
+    });
   }
   async function refresh() {
     const entries = await rpc(

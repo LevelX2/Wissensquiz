@@ -1,5 +1,6 @@
 import facts from "./filmFacts.json" with { type: "json" };
 import awardFacts from "./awardFilmFacts.json" with { type: "json" };
+import actorFacts from "./actorFilmFacts.json" with { type: "json" };
 import directorContexts from "./directorContexts.json" with { type: "json" };
 import allGenres from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json" with { type: "json" };
 import allGenresDirectorContexts from "./allGenresDirectorContexts.json" with { type: "json" };
@@ -21,21 +22,30 @@ const filmKey = (q: Question) =>
   `${q.metadata.film_title_original}|${q.metadata.film_year}`;
 const byFilm = new Map(facts.map((f) => [f.film, f]));
 const awardData = new Map(awardFacts.map((f) => [f.film, f]));
+const actorData = new Map(
+  (actorFacts as typeof awardFacts).map((f) => [f.film, f]),
+);
 const allGenresByFilm = new Map(
   allGenres.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
 );
 
 // Read-only enrichment: also works for historical snapshots without modifying them.
-export function filmData(q: Question) {
-  if (q.metadata.person_id) return undefined;
+export function filmData(q: Question, reference?: string) {
+  if (q.metadata.person_id && !reference) return undefined;
+  const key = reference ?? filmKey(q);
   // Keep established film metadata when award questions reuse the same film.
   const f =
-    byFilm.get(filmKey(q)) ??
-    (allGenresByFilm.has(filmKey(q)) ? undefined : awardData.get(filmKey(q)));
+    byFilm.get(key) ??
+    (allGenresByFilm.has(key)
+      ? undefined
+      : (awardData.get(key) ?? actorData.get(key)));
   if (f) {
     const background = directorBackgrounds[f.id];
     return {
-      originalTitle: q.metadata.film_title_original,
+      originalTitle:
+        "originalTitle" in f && typeof f.originalTitle === "string"
+          ? f.originalTitle
+          : key.slice(0, key.lastIndexOf("|")),
       year: f.year,
       directors: names(f.directors),
       countries: f.productionCountries,
@@ -48,9 +58,8 @@ export function filmData(q: Question) {
       sources: [...new Set([f.source, ...(f.additionalSources ?? [])])],
     };
   }
-  const newer = allGenresByFilm.get(filmKey(q));
+  const newer = allGenresByFilm.get(key);
   if (!newer) return undefined;
-  const key = filmKey(q);
   const background = (
     allGenresDirectorContexts as Record<
       string,
@@ -178,9 +187,25 @@ export function questionSnapshotMatches(stored: Question, snapshot: Question) {
       return false;
     comparable = { ...snapshot, answers: stored.answers };
   }
+  const base = withCategoryTags(stored),
+    target = withCategoryTags(comparable);
   return (
-    JSON.stringify(withCategoryTags(stored)) ===
-    JSON.stringify(withCategoryTags(comparable))
+    JSON.stringify(base) === JSON.stringify(target) ||
+    snapshotJson(base) === snapshotJson(target)
+  );
+}
+
+// PostgreSQL jsonb can reorder object keys. Snapshot identity depends on values
+// and array order, never the order of metadata keys received from the server.
+function snapshotJson(question: Question) {
+  return JSON.stringify(question, (_key, value) =>
+    value && typeof value === "object" && !Array.isArray(value)
+      ? Object.fromEntries(
+          Object.keys(value)
+            .sort()
+            .map((key) => [key, value[key]]),
+        )
+      : value,
   );
 }
 

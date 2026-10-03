@@ -7,13 +7,20 @@ import {
   type Round,
   type State,
 } from "./model";
-import { difficultyLabel, genreOf, genreLabel } from "./filters";
+import {
+  difficultyLabel,
+  genreOf,
+  genreLabel,
+  questionSourceOf,
+  sourceLabels,
+} from "./filters";
 import { QuestionHistory } from "./QuestionHistoryPanel";
 import { SyncIndicator, type SyncDisplay } from "./SyncIndicator";
 import { questionTitleParts } from "./questionTitle";
 import { playFeedback, unlockSound } from "./feedback";
 import type { Mutate } from "./uiTypes";
 import { historicalModeName, Pill } from "./gameUi";
+import { presentedQuestion } from "./actorEditorial";
 import { Explanation } from "./Explanation";
 
 export function QuestionScreen({
@@ -279,7 +286,9 @@ export function QuestionScreen({
           <div className="question-hints">
             {state.settings.showGenre !== false && (
               <span className="pill question-genre">
-                {genreLabel(genreOf(q))}
+                {questionSourceOf(q) === "film"
+                  ? genreLabel(genreOf(q))
+                  : sourceLabels[questionSourceOf(q)]}
               </span>
             )}
             {state.settings.showDifficulty !== false && (
@@ -299,7 +308,7 @@ export function QuestionScreen({
                 {parts.after}
               </>
             ) : (
-              q.question
+              presentedQuestion(q)
             );
           })()}
         </h1>

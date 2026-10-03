@@ -2,7 +2,7 @@ import type { Mode } from "./model";
 
 const introductions: Record<Mode, string> = {
   entdecken:
-    "Die Filmreise wählt bevorzugt neue Fragen aus Deinen freigeschalteten Stufen. Mit sicheren richtigen Antworten schaltest Du je Genre schwierigere Fragen und weniger bekannte Filme frei.",
+    "Die Filmreise mischt Deine gewählten Fragenbereiche und bevorzugt neue Fragen aus den freigeschalteten Stufen. Filmgenres, Schauspieler und Preisträger haben jeweils ihren eigenen Fortschritt.",
   ueben:
     "Du kombinierst Filmfragen, Schauspieler und Preisträger zu einem gemeinsamen Pool. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
   rekord:
@@ -27,7 +27,9 @@ export function RoundGuide({ mode }: { mode: Mode }) {
           {mode === "entdecken" ? (
             <p>
               <strong>Schritt für Schritt:</strong> Du beginnst je Genre mit
-              leichten Fragen zu den bekanntesten verfügbaren Filmen. Deine
+              leichten Fragen zu den bekanntesten verfügbaren Filmen. Bei
+              Schauspielern und Preisträgern beginnst Du mit Leicht; je 20
+              sichere Ziele öffnen Mittel, Schwer und Experte. Deine
               Stufenfortschritte unten zeigen, was als Nächstes freigeschaltet
               wird. Bekannte Inhalte kommen zum Wiederholen wieder vor; neue
               Fragen und neu freigeschaltete Stufen haben Vorrang.
@@ -54,11 +56,11 @@ export function RoundGuide({ mode }: { mode: Mode }) {
           )}
           <p>
             <strong>Gemeinsamer Fortschritt:</strong> Richtige Antworten auf
-            Filmfragen zählen in allen Modi für Deine Filmreise, sobald Du die
-            Runde abschließt. Als geraten markierte Treffer zählen dafür nicht.
-            Mehrere Fragen zum selben Filmdetail teilen sich ein Wissensziel:
-            Für eine Freischaltung zählt es nur einmal, und pro Runde kommt
-            höchstens eine dieser Fragen vor.
+            Fragen zählen in allen Modi für den jeweiligen Bereich der
+            Filmreise, sobald Du die Runde abschließt. Als geraten markierte
+            Treffer zählen dafür nicht. Mehrere Fragen zum selben Zusammenhang
+            teilen sich ein Wissensziel: Für eine Freischaltung zählt es nur
+            einmal, und pro Runde kommt höchstens eine dieser Fragen vor.
           </p>
           {mode === "rekord" && (
             <p>

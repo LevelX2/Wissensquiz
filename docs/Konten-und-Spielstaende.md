@@ -1,6 +1,6 @@
 # Konten und gemeinsame Spielstände
 
-## Neuer lokaler Eintragsvertrag – noch nicht veröffentlicht
+## Neuer Eintragsvertrag – Produktionsrollout am 03.10.2026
 
 Auf `codex/speicher-sync-optimierung` ist der Kontopfad jetzt mit gemeinsamem unveränderlichem Katalog, privaten Abweichungen und getrennten Fortschrittseinträgen umgesetzt. Lokale Änderungen und ihre Outbox-Beschreibung werden atomar in IndexedDB-Version 3 bestätigt. Die Warteschlange übersteht Reload und Abbruch und speichert keinen Vollstand je Antwort. Jeder eingefrorene Pakettext besitzt ID, Protokollversion, Generation und erwartete Revision; identische Wiederholung liefert denselben serverseitigen Beleg, geänderter Inhalt bei gleicher ID wird abgewiesen.
 
@@ -8,9 +8,9 @@ Auf `codex/speicher-sync-optimierung` ist der Kontopfad jetzt mit gemeinsamem un
 
 Anfragen bleiben zeitlich begrenzt. Web Locks, sichtbare Gerätekonflikte und exportierbare Rückfallkopien bleiben bestehen. Vollständige Wiederherstellung ersetzt auch entfernte Einträge durch eine neue Generation. Alte Clients/Queues dürfen eine aktivierte Generation serverseitig nicht zurückschreiben. Ein Betreiber kann nach aktuellem geprüftem Export ausdrücklich den neuen Pfad pausieren und mit größerer Revision auf den bisherigen v2-Writer zurückfallen; abweichende lokale Absichten bleiben Konflikte.
 
-Vollständiger logischer State und eigenständige Schema-1-JSON-Sicherung enthalten weiterhin Katalog, historische Fragen, Antwortvarianten, große Ausgangslernstände, Einstellungen und Legacyfelder. Voll-, v1- und v2-Sicherungen bleiben lesbar. Der folgende bisherige Fingerabdruck-/Vollsicherungspfad gilt für Veröffentlichung und Legacy-Rückfall; migrierte Konten verwenden den neuen Eintragsvertrag.
+Vollständiger logischer State und eigenständige Schema-1-JSON-Sicherung enthalten weiterhin Katalog, historische Fragen, Antwortvarianten, große Ausgangslernstände, Einstellungen und Legacyfelder. Voll-, v1- und v2-Sicherungen bleiben lesbar. Der folgende bisherige Fingerabdruck-/Vollsicherungspfad gilt für noch nicht übernommene Konten und Legacy-Rückfall; migrierte Konten verwenden den neuen Eintragsvertrag.
 
-[Abnahme und Messwerte](Speicher-und-Sync-Abnahme.md), [Migration und kontrollierter Rückfall](Speicher-und-Sync-Migration.md).
+[Abnahme und Messwerte](Speicher-und-Sync-Abnahme.md), [Migration und kontrollierter Rückfall](Speicher-und-Sync-Migration.md), [Produktionsnachweis](Speicher-und-Sync-Produktion.md).
 
 ## Aktueller Stand
 
@@ -96,4 +96,12 @@ Die öffentliche Highscore-Tabelle enthält weiterhin nur Ergebniswerte. Ihre Ab
 
 Seit Sites-Version 36 veröffentlicht: private Karrierekennung mit einmaliger Altgutschrift; öffentliche globale XP und daraus berechnete Level/Titel in beiden Ranglisten sowie die neue Wertung Level & XP. [Migration 202610020004](../supabase/migrations/202610020004_film_career.sql) nach lokaler Prüfung am 02.10.2026 auf dem bestehenden Stand nach 003 live angewendet. Die schnellen Ereignisverknüpfungen und Rechte aus 003 bleiben erhalten; Live-Prüfungen bestätigen Rückgaben und Zugriffsbeschränkungen. Alte Konten liefern bis zur Umstellung den übertragenen früheren Levelstand; beim ersten Öffnen wird die neue Berechnung automatisch einmal mit Revisionsschutz gesichert.
 
-Neue kompakte Online-Stände verwenden Format v2, damit ältere Apps sie nicht mit alten Karriere-/XP-Regeln lesen und zurückschreiben. Die neue App liest weiterhin v1 und Vollsicherungen. IndexedDB und JSON behalten Schema 1 mit optionaler Karrierekennung. Private Inhalte, unabhängige Sicherungen und Gast-/Kontotrennung bleiben erhalten. [Vollständiger Fachvertrag](Filmkarriere-und-XP.md).
+Neue kompakte Online-Stände verwenden Format v2, damit ältere Apps sie nicht mit alten Karriere-/XP-Regeln lesen und zurückschreiben. Die neue App liest weiterhin v1 und Vollsicherungen. Das öffentliche Spielstandsmodell und JSON behalten Schema 1 mit optionaler Karrierekennung. IndexedDB trennt intern seit der lokalen Antwortoptimierung vom 03.10.2026 den Katalog vom Spielstand; der Speicherzugriff und Online-Upload erhalten vollständige Zustände. Bestehende Vollstände werden beim Schreiben atomar übernommen. Private Inhalte, unabhängige Sicherungen und Gast-/Kontotrennung bleiben erhalten. [Karrierevertrag](Filmkarriere-und-XP.md), [lokaler Speichervertrag](Lernregeln.md#datenintegrität-und-sicherung).
+
+Seit der lokalen Optimierung vom 03.10.2026 berechnet ein Modul-Worker den unveränderten kanonischen Fingerabdruck und prüft/komprimiert die Kontosicherung im Hintergrund. Nur der vom lokalen Speicher vollständig gesperrte Katalog darf dort wiederverwendet werden; mutable Kataloge werden erneut übertragen. Jede Operation erfasst den zugehörigen Katalog vor asynchroner Arbeit, damit Kontowechsel und neue Importe keine Inhalte vermischen. Validierung, Kompaktformat v2, Revisionsschutz und bestätigte Speicherquittungen bleiben erhalten. Der Worker erhält ausschließlich Spielstandsdaten, keine Zugangsdaten, und führt keine Netzwerkaufrufe aus. Sein JavaScript gehört zum Offline-Paket. Browser ohne verfügbaren Modul-Worker verwenden den bisherigen geprüften Pfad.
+
+## Ladefehlermeldung nach Veröffentlichung, 03.10.2026
+
+Der Nutzer meldete „Dein Online-Spielstand konnte nicht geladen werden“ während der Vorbereitung von Version 40. Lesende Diagnose im entsprechenden Zeitfenster bestätigt erfolgreiche Anmeldung und Abruf vom Server (HTTP 200). Die vorhandene Online-Sicherung wurde ohne Änderungen mit den Decodern und der vollständigen Validierung der Versionsstände 39 und 40 geprüft; beide akzeptieren sie. Diese Prüfung lief in Node und belegt keine erfolgreiche Anmeldung im konkret betroffenen Browser. Die Ursache auf dem Gerät ist weiterhin offen. Temporäre Diagnosedaten entfernt; keine privaten Sicherungsinhalte oder Spielerwerte in Git/Deployment übernommen.
+
+Die Anzeige in AccountGame fängt auch lokale Lese-/Validierungsfehler pauschal als Online-Ladefehler ab; der Hinweis auf die Internetverbindung ist daher kein belastbarer Befund. Seit Version 38 verwendet IndexedDB Version 2. Ein alter Client mit ausdrücklich angeforderter Version 1 wird nach erfolgreicher Umstellung blockiert. Der Service Worker aktiviert Updates erst nach dem Schließen aller alten Quiz-Tabs bzw. App-Fenster. Vollständiges Schließen und erneutes Öffnen empfohlen; Nutzerrückmeldung zur Wirkung steht noch aus. Bei weiter bestehendem Fehler Abruf, Browser-Unterstützung und lokale Datenbank getrennt untersuchen. Spielstände nicht löschen oder ungeprüft überschreiben.

@@ -14,10 +14,9 @@ import {
 } from "./filters";
 import { GenreArtwork } from "./Icons";
 import { RoundGuide } from "./RoundGuide";
-import { SolutionChoice } from "./SolutionChoice";
 import { filmCategories } from "./categories";
 import { LearningPath } from "./LearningPathPanel";
-import type { QuestionSource, SolutionDisplay } from "./model";
+import type { QuestionSource } from "./model";
 import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { modeNames } from "./gameUi";
 import type * as React from "react";
@@ -34,9 +33,7 @@ export function PlaySetup({
   genres,
   selectedDifficulties,
   selectedFamiliarities,
-  pendingSolutions,
   state,
-  setPendingSolutions,
   mutate,
   nav,
   resume,
@@ -60,11 +57,7 @@ export function PlaySetup({
   genres: string[];
   selectedDifficulties: ("leicht" | "mittel" | "schwer" | "experte")[];
   selectedFamiliarities: (2 | 1 | 4 | 3)[];
-  pendingSolutions: SolutionDisplay | undefined;
   state: State;
-  setPendingSolutions: React.Dispatch<
-    React.SetStateAction<SolutionDisplay | undefined>
-  >;
   mutate: Mutate;
   nav: (next: Page | DuelPage) => Promise<void>;
   resume: () => void;
@@ -118,7 +111,6 @@ export function PlaySetup({
                 onClick={() =>
                   void changeSetup({
                     mode: m,
-                    ...(m === "entdecken" ? { sources: ["film"] } : {}),
                   })
                 }
               >
@@ -149,6 +141,22 @@ export function PlaySetup({
               </button>
             ),
           )}
+          <button
+            className="mode-card mode-duell"
+            disabled={busy || !!active}
+            onClick={() => void nav("duels")}
+          >
+            <img
+              className="mode-artwork"
+              src="/modes/duell.svg"
+              alt=""
+              width={88}
+              height={88}
+              decoding="async"
+            />
+            <strong>Duell</strong>
+            <small>Gegen andere spielen · 3 × 10 Fragen</small>
+          </button>
         </div>
 
         <div className="round-start">
@@ -184,26 +192,6 @@ export function PlaySetup({
               ` · Filmgruppen ${selectedFamiliarities.join(" + ") || "keine"}`}
           </p>
         </div>
-        <SolutionChoice
-          value={
-            pendingSolutions ?? state.settings.solutionDisplay ?? "question"
-          }
-          disabled={busy || !!active}
-          onChange={(value) => {
-            setPendingSolutions(value);
-            void mutate((s) => {
-              s.settings.solutionDisplay = value;
-            }).finally(() => setPendingSolutions(undefined));
-          }}
-        />
-        <button
-          className="duel-entry secondary"
-          disabled={busy || !!active}
-          onClick={() => void nav("duels")}
-        >
-          <span aria-hidden="true">⚔</span> Duell · Gegen andere spielen
-          <small>Drei Runden mit denselben Fragen · Deine offenen Spiele</small>
-        </button>
         {active && (
           <div className="resume notice">
             <span>Deine begonnene Runde wartet auf Dich.</span>
@@ -227,7 +215,7 @@ export function PlaySetup({
         {!selection.length ? (
           <p role="status" className="notice">
             {mode === "entdecken"
-              ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Genres oder Kategorien, oder spiele frei."
+              ? "Für diese Auswahl sind noch keine Fragen freigeschaltet. Wähle andere Fragenbereiche oder Filmgenres, oder spiele frei."
               : mode === "fehler"
                 ? "Keine offenen Fehler in Deiner Auswahl. Spiele eine neue Runde oder erweitere Deine Filter."
                 : "Wähle einen Fragenbereich und eine Schwierigkeitsstufe mit verfügbaren Fragen. Für Filmfragen brauchst Du außerdem passende Genres und Filmgruppen."}
@@ -263,11 +251,6 @@ export function PlaySetup({
                         sources: e.target.checked
                           ? [...selectedSources, source]
                           : selectedSources.filter((s) => s !== source),
-                        ...(source !== "film" &&
-                        e.target.checked &&
-                        mode === "entdecken"
-                          ? { mode: "ueben" }
-                          : {}),
                       })
                     }
                   />
@@ -283,8 +266,8 @@ export function PlaySetup({
             </div>
             <p className="tiny muted">
               Gewählte Bereiche bilden einen gemeinsamen Zufallspool. Genres,
-              Filmgruppen und die Filmauswahl gelten nur für Filmfragen. Die
-              Schwierigkeitsstufen gelten für alle Bereiche.
+              Filmgruppen und die Filmauswahl gelten nur für Filmfragen. In der
+              Filmreise gelten die freigeschalteten Stufen jedes Bereichs.
             </p>
           </fieldset>
           <fieldset disabled={busy || !selectedSources.includes("film")}>
@@ -418,7 +401,11 @@ export function PlaySetup({
               </fieldset>
             </>
           ) : null}
-          <LearningPath state={state} genres={filters.genres} />
+          <LearningPath
+            state={state}
+            genres={selectedSources.includes("film") ? filters.genres : []}
+            sources={selectedSources}
+          />
         </div>
       </section>
       <section className="journey-strip">
