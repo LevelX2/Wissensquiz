@@ -1,6 +1,8 @@
 # Projektstart Wissensquiz
 
-03.10.2026 **Additive Fragenbereiche lokal geprüft**: Filmfragen, Preisträger und Schauspieler gemeinsam oder einzeln auswählbar; Filmgenre-/Bekanntheits-/Classics-/Arthousefilter gelten nur für Filmfragen. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich. Zur Veröffentlichung vorbereitet. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
+03.10.2026 **Sites-Version 39 veröffentlicht**, nativer Status `succeeded`: Filmfragen, Preisträger und Schauspieler als additive Fragenbereiche gemeinsam oder einzeln auswählbar. Genres, Filmgruppen und Classics/Arthouse begrenzen nur Filmfragen. Quellcommit `0db3262f4ff8cf41f72fa08e66e6abe8476c3180`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_e23c81f849748191b0c1c0a41f628987`, Deployment `appgdep_6ac09f20d34c81918c5c85d11c5585e1`. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich; mobile Ansichten, Axe, Sicherungsrücklauf und Offline-Wiederaufnahme geprüft. Offline-Paket `film-599e2f3a4db2`; Archiv mit 49 Dateien und Hash `sha256:056770347d4977e448e310cc6f70cf6aee8417470464e9b2e3b4884bd3390d6e` nativ gespeichert. Bestehende öffentliche URL, Projekt-ID, alle Inhalte, Frage-/Wissensziel-IDs, Lernstände und historische Runden erhalten. Keine Servermigration, Main-Integration oder GitHub-Veröffentlichung. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
+
+03.10.2026 **Additive Fragenbereiche als Version 39 veröffentlicht**: Filmfragen, Preisträger und Schauspieler gemeinsam oder einzeln auswählbar; Filmgenre-/Bekanntheits-/Classics-/Arthousefilter gelten nur für Filmfragen. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich. Veröffentlichung erfolgreich. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
 
 ## Aktueller Stand
 
