@@ -20,7 +20,7 @@ import { discoveryContext } from "./discovery";
 import { matchesTopic } from "./categories";
 import { prepareFactQuestion } from "./filmFacts";
 import { errorTrainingContext, type OpenMistake } from "./errorTraining";
-import { RULES } from "./learning";
+import { RULES, learn } from "./learning";
 import { careerSummary, migrateCareer } from "./career";
 export { DAY, RULES, dayKey, learn } from "./learning";
 export function score(correct: boolean, elapsedMs: number) {
@@ -215,6 +215,25 @@ export function rebuild(state: State, awardBadges = false) {
     state.badges.push("sci-fi-10-v1");
   retainJourneyUnlocks(state);
 }
+// Pending rounds cannot change earned XP, records or journey unlocks. Update
+// only their learning; old/backdated imports still use the complete replay.
+export function learnPending(state: State, events: AnswerEvent[]) {
+  if (!events.length) return;
+  const first = events.reduce((at, event) => Math.min(at, event.at), Infinity);
+  const pending = new Set(events.map((e) => e.id));
+  if (
+    !state.career ||
+    state.events.some((e) => !pending.has(e.id) && e.at > first)
+  ) {
+    rebuild(state);
+    return;
+  }
+  for (const event of [...events].sort((a, b) => a.at - b.at))
+    state.learning[event.knowledgeId] = learn(
+      state.learning[event.knowledgeId],
+      event,
+    );
+}
 export function startRound(
   state: State,
   options: {
@@ -327,14 +346,31 @@ export function answer(
   if (state.events.some((e) => e.id === event.id)) return;
   state.events.push(event);
   round.events.push(event.id);
-  rebuild(state);
+  learnPending(state, [event]);
 }
 export function guess(state: State, eventId: string) {
   const e = state.events.find((e) => e.id === eventId);
   const r = state.rounds.find((r) => r.id === e?.roundId);
   if (e?.correct && !e.guessed && r?.status === "active") {
     e.guessed = true;
-    rebuild(state);
+    const position = state.events.indexOf(e);
+    if (
+      !state.career ||
+      state.events.some(
+        (event, index) =>
+          event.at > e.at || (index > position && event.at === e.at),
+      )
+    ) {
+      rebuild(state);
+      return;
+    }
+    // Only this goal changed; XP for the active round are still unearned.
+    let learned;
+    for (const event of state.events
+      .filter((event) => event.knowledgeId === e.knowledgeId)
+      .sort((a, b) => a.at - b.at))
+      learned = learn(learned, event);
+    state.learning[e.knowledgeId] = learned!;
   }
 }
 export function complete(state: State, roundId: string, now = Date.now()) {

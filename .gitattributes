@@ -11,3 +11,4 @@
 # Preserve immutable raw sources and the original editorial actor package.
 "KI-Wissen-Wissensquiz/01 Rohquellen/*" -text whitespace=cr-at-eol
 docs/Schauspieler-Fragenpaket/* -text whitespace=cr-at-eol
+**/Alle_Genres_120_Filme_Filmdaten.json -text whitespace=cr-at-eol

@@ -30,7 +30,7 @@ Abruf und Bestätigung benötigen Internet. Serverlaufzeit und Rückweg der Star
 | Nach jeder Frage | Standard: sofortige Rückmeldung mit Lösung und Erklärung; selbst weitergehen. |
 | Nach der Runde | Neutrale Speicherbestätigung pro Antwort; Lösungen und Erklärungen im eigenen Ergebnis und Rückblick. |
 
-Die Auswahl gibt es vor Solo- und Duellrunden. „Nach der Runde“ bedeutet die eigene Zehnerrunde im Duell bzw. die tatsächliche Rundengröße im Solospiel; die Lösungen warten niemals auf den Gegner. Die Option verändert weder Fragezeit noch Pausen und erzeugt keinen Blocktimer oder Zeitdruck in entspannten Solomodi. Die nächste Frage wird immer ausdrücklich gestartet.
+Die Auswahl steht beim Anlegen eines Duells und für neue Solorunden unter **Profil → Optionen**; seit der lokalen Änderung vom 03.10.2026 entfällt sie vom Solo-Spieleinstieg. Die Solo-Einstellung bestimmt keine gemeinsame Duellregel. „Nach der Runde“ bedeutet die eigene Zehnerrunde im Duell bzw. die tatsächliche Rundengröße im Solospiel; die Lösungen warten niemals auf den Gegner. Die Option verändert weder Fragezeit noch Pausen und erzeugt keinen Blocktimer oder Zeitdruck in entspannten Solomodi. Die nächste Frage wird immer ausdrücklich gestartet. Nutzerentscheidung vom 03.10.2026: vorerst ausschließlich die Lösungswahl verschieben, die bisherige Duell-Zeitregel beibehalten.
 
 Gesammelte Anzeige verbirgt Antwortfarben, Richtig-/Falsch-Töne, laufende Trefferwerte, Fragehistorie und Erklärung. Vor der Antwort lässt sich „Ich rate bei dieser Frage“ markieren. Nur ein tatsächlich richtiger Treffer wird als geratenes Lernereignis behandelt; falsche Antworten bleiben Fehler. Im Standard bleibt „War geraten“ nach einem Treffer möglich. Duellpunkte ändern sich dadurch nicht.
 
@@ -38,7 +38,7 @@ Der Ersteller legt die Anzeige für beide fest. Sie bleibt im Duell unverändert
 
 ## Gegner, Einladungen und offene Spiele
 
-Unter **Spielen → Duell** stehen „Zufälligen Gegner finden“ und „Per Link einladen“. Duelle benötigen ein bestätigtes Quiz-Konto. Zufälliger Start übernimmt die älteste offene Herausforderung mit gleicher Lösungsanzeige. Gibt es keine, legt der Spieler selbst Runde 1 vor. Erst nach diesen zehn Fragen ist die Herausforderung für Gegner freigegeben. Linkeinladungen bleiben vom öffentlichen Pool getrennt.
+Unter **Spielen → Duell** stehen „Zufälligen Gegner finden“ und „Per Link einladen“. Seit der lokalen Änderung vom 03.10.2026 führt die fünfte Spielkachel im gemeinsamen Raster direkt in diese Übersicht; der separate breite Einstieg entfällt. Neue und offene Duelle bleiben gemeinsam erreichbar. Duelle benötigen ein bestätigtes Quiz-Konto. Zufälliger Start übernimmt die älteste offene Herausforderung mit gleicher Lösungsanzeige. Gibt es keine, legt der Spieler selbst Runde 1 vor. Erst nach diesen zehn Fragen ist die Herausforderung für Gegner freigegeben. Linkeinladungen bleiben vom öffentlichen Pool getrennt.
 
 Pro Konto sind **fünf offene Spiele insgesamt** erlaubt, darin höchstens eine noch nicht angenommene Herausforderung. Sie belegt einen der fünf Plätze. Abgeschlossene, zurückgenommene und abgelaufene Spiele belegen keinen Platz. Trotz eigener wartender Herausforderung darf ein Konto eine fremde passende Herausforderung übernehmen, sofern ein Platz frei ist. Slotgrenzen und Zuordnung werden gemeinsam serverseitig gesperrt und geprüft.
 
@@ -75,6 +75,8 @@ Stabile Rundenschlüssel `duel-<Duell-ID>-<Runde>` und Ereignisschlüssel `<Rund
 Der gemeinsame Spielzustand liegt in getrennten Supabase-Tabellen. Das persönliche Kontobackup enthält nur die eigene bestätigte Lernkopie. Der bestehende Revisionsschutz und ausdrücklich zu lösende Gerätekonflikte bleiben bestehen. Alle Duelltabellen haben RLS und keine direkten Rechte für Gäste oder Konten. Acht freigegebene RPCs prüfen bestätigte Identität und Zugehörigkeit; interne Funktionen sind nicht direkt ausführbar.
 
 ## Betrieb und Ausbau
+
+Lokale Antwortoptimierung vom 03.10.2026: Bereits bestätigte Teilantworten aktualisieren das betroffene Wissen ohne vollständigen Karriere-Replay. Unveränderte Wiederholungen erzeugen keine erneute Ableitungsberechnung. Neue historische Fragenfassungen, Rate-Korrekturen und Abschlüsse werden weiterhin vollständig berücksichtigt. PostgreSQL `jsonb` kann Objektschlüssel anders anordnen: Der Snapshotvergleich prüft die Inhalte unabhängig von dieser Reihenfolge, erhält aber die Reihenfolge von Arrays und lehnt tatsächliche Inhaltsänderungen weiterhin ab. Identische Serverfragen erzeugen damit keine unnötige `DUEL-…`-Fassung und Katalogkopie. Die bestätigte Frage erhält einen unabhängigen historischen Snapshot; geprüfte Jahresalternativen bleiben erhalten. Der persönliche Fragenkatalog wird beim normalen Antwortimport wiederverwendet; neue Fassungen ersetzen ihn atomar. Die sichtbare Lösung wartet weiterhin auf die Serverbestätigung und erfolgreiche lokale Speicherung. Der [Prüfbericht](Pruefbericht.md) unterscheidet die lokale Verarbeitungszeit von der tatsächlichen Netzlaufzeit.
 
 [Konten-Einrichtung](Konten-Einrichtung.md#asynchrone-filmduelle-eingerichtet-02102026) beschreibt Migration und Katalog. [Prüfbericht](Pruefbericht.md) trennt lokale SQL-/Browsertests von echter Dienstabnahme. Bestehende Kontokonfiguration und Site-ID werden weiterverwendet; Solo-/Gastspiel bleiben offline verfügbar.
 

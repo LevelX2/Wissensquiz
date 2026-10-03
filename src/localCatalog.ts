@@ -5,16 +5,24 @@ const FORMAT = "quiz-local-catalog-v1";
 export const catalogKey = (stateKey: string) => `catalog:${stateKey}`;
 export type StoredState = Omit<State, "questions"> & {
   storageFormat: typeof FORMAT;
-  questions: { key: string; encoding: "json-field-refs-v1" };
+  questions: { key: string; encoding: "json-field-refs-v1"; revision?: string };
 };
 
 // Keep the public State/backup contract complete. Only the IndexedDB layout
 // separates the rarely changed catalog from progress and historical snapshots.
-export function encodeLocalState(state: State, key: string): StoredState {
+export function encodeLocalState(
+  state: State,
+  key: string,
+  revision?: string,
+): StoredState {
   return {
     ...state,
     storageFormat: FORMAT,
-    questions: { key: catalogKey(key), encoding: "json-field-refs-v1" },
+    questions: {
+      key: catalogKey(key),
+      encoding: "json-field-refs-v1",
+      ...(revision ? { revision } : {}),
+    },
   };
 }
 

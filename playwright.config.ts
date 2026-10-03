@@ -21,6 +21,7 @@ export default defineConfig({
     {
       name: "webkit-mobile",
       testMatch: [
+        "play-entry.spec.ts",
         "mobile-round.spec.ts",
         "error-training.spec.ts",
         "dont-know.spec.ts",
@@ -28,6 +29,8 @@ export default defineConfig({
         "duels.spec.ts",
         "actors-package.spec.ts",
         "question-organization.spec.ts",
+        "duel-performance.spec.ts",
+        "response-performance.spec.ts",
         "question-sources.spec.ts",
       ],
       use: { ...devices["iPhone 13"] },

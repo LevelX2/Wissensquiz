@@ -190,6 +190,7 @@ it("hält gesammelte Lösungen bis zur eigenen zehnten Frage zurück und überni
   expect(unfinished.events[9].guessed).toBe(true);
   expect(unfinished.experience).toBeGreaterThan(0);
   importDuelView(state, v);
+  expect(state.questions).toHaveLength(questions.length);
   const xp = state.experience;
   importDuelView(state, v);
   expect(state.events).toHaveLength(10);

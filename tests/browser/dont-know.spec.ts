@@ -248,10 +248,12 @@ test("Neuladen während der Lösungsanzeige bewahrt die Wahl; Offline-Fortsetzen
   await expect(page.locator(".solution-reveal")).toBeVisible();
   await page.clock.runFor(1100);
   // Flush the reveal effect before advancing to completion on WebKit as well.
-  await expect.poll(async () => {
-    await page.clock.runFor(100);
-    return page.locator(".solution-reveal").count();
-  }).toBe(0);
+  await expect
+    .poll(async () => {
+      await page.clock.runFor(100);
+      return page.locator(".solution-reveal").count();
+    })
+    .toBe(0);
   await page.getByRole("button", { name: "Runde abschließen" }).click();
   expect(
     (await readState(page)).events.filter(
