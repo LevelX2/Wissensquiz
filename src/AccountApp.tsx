@@ -10,11 +10,13 @@ import {
   accountStorageKey,
   authError,
   createAccountClient,
+  createPublicActivityClient,
   parseAccountLink,
   replaceAccountState,
 } from "./accounts";
 import { read } from "./storage";
 import type { State } from "./model";
+import { ActivityContext } from "./GuestActivity";
 
 type Link = ReturnType<typeof parseAccountLink>;
 const recoveryMarker = {
@@ -46,7 +48,12 @@ if (location.hash.startsWith("#auth?")) {
   history.replaceState(null, "", location.pathname + location.search);
 }
 let setup:
-  | Promise<{ client: SupabaseClient | null; url: string; error: string }>
+  | Promise<{
+      client: SupabaseClient | null;
+      publicClient: SupabaseClient | null;
+      url: string;
+      error: string;
+    }>
   | undefined;
 function setupAccounts() {
   return (setup ??= (async () => {
@@ -59,12 +66,14 @@ function setupAccounts() {
       const config = accountConfig(await response.json());
       return {
         client: config ? createAccountClient(config) : null,
+        publicClient: config ? createPublicActivityClient(config) : null,
         url: config?.supabaseUrl ?? "",
         error: "",
       };
     } catch {
       return {
         client: null,
+        publicClient: null,
         url: "",
         error:
           "Der Kontodienst ist nicht verfügbar. Dein Gastspielstand bleibt nutzbar.",
@@ -191,6 +200,7 @@ export function AccountApp() {
       <AccountGame
         key={key}
         client={connection.client}
+        publicClient={connection.publicClient}
         owner={user.id}
         storageKey={key}
         panel={(state, onState, syncStatus, syncMessage) => (
@@ -208,20 +218,22 @@ export function AccountApp() {
       />
     );
   return (
-    <App
-      key={key}
-      storageKey={key}
-      accountPanel={(state, onState) => (
-        <AccountPanel
-          client={connection.client}
-          user={user}
-          storageKey={key}
-          state={state}
-          onState={onState}
-          initialMessage={connection.error || message}
-        />
-      )}
-    />
+    <ActivityContext.Provider value={connection.publicClient}>
+      <App
+        key={key}
+        storageKey={key}
+        accountPanel={(state, onState) => (
+          <AccountPanel
+            client={connection.client}
+            user={user}
+            storageKey={key}
+            state={state}
+            onState={onState}
+            initialMessage={connection.error || message}
+          />
+        )}
+      />
+    </ActivityContext.Provider>
   );
 }
 
@@ -535,10 +547,11 @@ function AccountPanel({
           {mode === "register" && (
             <p className="tiny muted">
               Mindestens zwölf Zeichen. Dein Spielername darf ein Pseudonym
-              sein. Dein Spielername, Rekordergebnisse und Spielerstatistik sind
-              für angemeldete Spieler in den Highscores sichtbar. Die Teilnahme
-              gehört zum Quiz-Konto. E-Mail und privater Spielstand bleiben
-              verborgen.
+              sein. Dein Spielername, Level, XP und zusammengefasste
+              Spielerstatistik sind in der öffentlichen Bestenliste sichtbar,
+              auch für Gäste. Die einzelnen Rekordergebnisse stehen im
+              Spielervergleich für angemeldete Spieler. Die Teilnahme gehört zum
+              Quiz-Konto. E-Mail und privater Spielstand bleiben verborgen.
             </p>
           )}
           <button className="primary" disabled={busy}>
@@ -586,8 +599,8 @@ function AccountPanel({
       </p>
       <ProfileStats state={state} />
       <p className="tiny muted">
-        Dein Spielername und Deine Leistungswerte erscheinen automatisch in den
-        Highscores für angemeldete Spieler. E-Mail und privater Spielstand
+        Dein Spielername und Deine Leistungswerte erscheinen automatisch in der
+        öffentlichen Bestenliste, auch für Gäste. E-Mail und privater Spielstand
         bleiben verborgen.
       </p>
       <details className="account-help">

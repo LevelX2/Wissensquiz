@@ -1,6 +1,8 @@
 # Schauspieler: Fragenpaket für 100 Personen
 
-Stand: 02.10.2026. Auf Nutzerauftrag als eigenständiges Paket vorbereitet: **800 Fragen für 50 Schauspieler und 50 Schauspielerinnen**, mit jeweils zwei Fragen pro Person und Schwierigkeitsstufe. Die Kategorie ist noch nicht in die App eingebaut.
+03.10.2026 – **Additiver Fragenbereich**: Preisträger und Schauspieler sind unabhängig von Filmgenres auswählbar und ergänzen den Filmfragenbereich. Alle drei Checkboxen bilden einen gemeinsamen Pool; reine Preis-/Personenrunden benötigen keine Filmgenres. Classics/Arthouse begrenzen nur die Filmfragen. Vorhandene Filmmetadaten erzeugen keine verpflichtende Genre- oder Filmgruppenbindung für Preisfragen. [Auswahlvertrag](Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
+
+Stand: 03.10.2026. **800 Fragen für 50 Schauspieler und 50 Schauspielerinnen**, mit jeweils zwei Fragen pro Person und Schwierigkeitsstufe. Das am 02.10.2026 vorbereitete Paket ist auf den anschließenden Veröffentlichungsauftrag als eigene App-Kategorie **Schauspieler** eingebaut. Als **Sites-Version 37** am 03.10.2026 erfolgreich veröffentlicht, nativer Status `succeeded`. [Veröffentlichungsnachweis](Sites-Betrieb.md).
 
 | Stufe im Paket | Pro Person | Insgesamt |
 | --- | ---: | ---: |
@@ -17,6 +19,8 @@ Die Fragen sind einzeln formuliert. Neben bekannten Figuren und Filmpartnerschaf
 - [Vollständige Lesefassung mit Personenübersicht, Antworten und Zusatzinformationen](Schauspieler-Fragenpaket/Schauspieler_800_Fragen_Lesefassung.md)
 - [Strukturiertes JSON-Paket](Schauspieler-Fragenpaket/Schauspieler_100_Personen_800_Fragen.json)
 - [Maschineller Prüfnachweis](Schauspieler-Fragenpaket/Pruefbericht.json)
+- [Abgeleitete CSV im App-Format](../KI-Wissen-Wissensquiz/01%20Rohquellen/Schauspieler_800_Fragen_App.csv)
+- [App-Importbericht und Zuordnung vorhandener Wissensziele](importbericht-schauspieler.json)
 - [Eigene redaktionelle Ausgangsfassung](../KI-Wissen-Wissensquiz/01%20Rohquellen/Schauspieler_100_Personen_Redaktion.txt)
 - [Quellenstand mit Abrufdatum und Recherchebegriffen](../KI-Wissen-Wissensquiz/01%20Rohquellen/Schauspieler_Quellenstand_2026-10-02.json)
 
@@ -52,8 +56,16 @@ Die Strukturprüfung bestätigt 100 Personen, acht Fragen pro Person und genau z
 
 Die Schwierigkeiten sind redaktionelle Einschätzungen und noch nicht mit Spielenden kalibriert. Das Paket wurde inhaltlich recherchiert und bei der Durchsicht korrigiert; eine zweite unabhängige Vollabnahme aller 800 Aussagen liegt nicht vor. Die 800 vorgeschlagenen Wissensziel-IDs bedeuten noch nicht, dass es gegenüber dem bestehenden Filmkatalog 800 neue Lernziele gibt.
 
-## Späterer Einbau
+## App-Kategorie
 
-Die App unterstützt inzwischen die vierte Stufe `experte`. Beim Einbau ist die Zuordnung der Paketstufe `außergewöhnlich` festzulegen. Zusätzlich sind die Personenkategorie und eine passende Anzeige beziehungsweise Übernahme in das App-Format erforderlich. Wissensüberschneidungen mit vorhandenen Rollen-, Preis- oder Filmfragen müssen die bestehenden Wissensziel-IDs und Lernstände erhalten.
+**Themen → Schauspieler spielen** öffnet das Freie Spiel mit der ausgewählten Personenkategorie. **Personen ansehen** zeigt die 100 Personen und ihren Lernfortschritt. Unter „Fragenbereiche“ lässt sich Schauspieler zusätzlich zu Filmfragen und Preisträger auswählen. Classics und Arthouse begrenzen nur die Filmfragen. Beim Auswählen aus der Filmreise wechselt die App ins Freie Spiel. Rekordrunden und Fehlertraining unterstützen die Kategorie ebenfalls.
 
-Für diesen Auftrag wurden keine App-Dateien geändert und keine Fragebestände oder Spielstände übernommen. Der Prüfnachweis betrifft das Fragenpaket; ein App-Build oder Browserlauf ist keine Abnahme dieser noch nicht eingebauten Kategorie.
+Die vierte Paketstufe **Außergewöhnlich** wird in der App als **Experte** geführt, jeweils mit 200 Fragen pro Stufe. Personenfragen sind unabhängig von Filmgenres und Filmgruppen; die Auswahl braucht keine Filmdaten. Bei Erkennungsfragen verraten Überschrift und Kategoriehinweis den Namen nicht. Nach der Antwort erscheinen Name, Lösung, die individuelle Vertiefung unter „Etwas tiefer eintauchen“ und die Quellen. Es erscheint kein künstlicher Filmdatenblock.
+
+50 Fragen wurden redaktionell vorhandenen Rollen-, Regie-, Vorlagen- oder Preiszielen zugeordnet; diese Varianten nutzen dieselben Wissensziel-IDs. Die übrigen 750 ergänzen neue Ziele. Der Gesamtbestand umfasst nun **5.677 Fragen und 5.147 Wissensziele**. Bestehende Fragen, Versionen, Lernereignisse und Rundensnapshots bleiben erhalten. Schauspielerfragen verändern die festen Filmreise-Ziele und ihre Bekanntheitsgruppen nicht; Lernen, Fehlertraining, Karriere-XP und persönliche Rekordrunden funktionieren über die bestehenden Regeln.
+
+Die App-CSV wird mit `node scripts/prepare-actor-package.mjs` aus dem unveränderten JSON-Paket und den Bestandszuordnungen in `src/actorKnowledgeLinks.json` abgeleitet. Die ursprüngliche Redaktion, IDs, Texte, Antworten, Zusatzinformationen und Quellen bleiben erhalten. Nur für die App werden Stufennamen und die 50 Wissensziel-Zuordnungen aufgelöst. Der reguläre Paketimport läuft transaktional und idempotent, die CSV ist im Offline-Cache enthalten. Sicherungen erhalten die Personenmetadaten und alle vier Kategorieauswahlen. Die einzelne abgeleitete CSV benötigt für ihre Variantenverweise den bestehenden Filmkatalog; der automatische App-Paketimport stellt diese Reihenfolge sicher.
+
+Die Kategorie wird für die Solomodi veröffentlicht. Der eingerichtete Filmduell-Katalog bleibt bei seinen 4.827 Fragen; die Vorbereitung schließt Personenfragen ausdrücklich aus. Schauspielerduelle benötigen eine eigene serverseitige Freigabe und das Verbergen von Personennamen vor der Antwort.
+
+193 Logik-/Datenbanktests und der Produktions-Build erfolgreich. Paketimport, bytegleiche App-Kopie, 50 Bestandszuordnungen, unveränderte ältere Fragen und Lernstände, Kategorievereinigung, Filmreise-Erhalt sowie JSON- und Kontokompaktsicherungen geprüft. Die Browserabnahme wird im [Prüfbericht](Pruefbericht.md) dokumentiert. Schwierigkeiten und fachliche Prüfgrenzen der Redaktion gelten weiterhin.

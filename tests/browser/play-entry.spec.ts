@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinierbar", async ({
@@ -114,32 +114,18 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Leicht",
   );
-  const stored = await page.evaluate(
-    () =>
-      new Promise<any>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const r = db.transaction("state").objectStore("state").get("current");
-          r.onsuccess = () => {
-            db.close();
-            resolve(r.result);
-          };
-        };
-      }),
-  );
-  expect(stored.rounds.at(-1).topic).toBe("Classics");
+  const stored = await readStoredState(page);
+  expect(stored.rounds.at(-1)!.topic).toBe("Classics");
   expect(
     stored.rounds
-      .at(-1)
+      .at(-1)!
       .questions.every(
         (q: any) =>
           q.tags.includes("Classics") && q.metadata.subdomain === "Western",
       ),
   ).toBe(true);
-  expect(stored.questions).toHaveLength(4877);
-  expect(new Set(stored.questions.map((q: any) => q.id)).size).toBe(4877);
+  expect(stored.questions).toHaveLength(5677);
+  expect(new Set(stored.questions.map((q: any) => q.id)).size).toBe(5677);
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();

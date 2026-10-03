@@ -20,6 +20,7 @@ import {
 } from "./accounts";
 import { download, read } from "./storage";
 import type { State } from "./model";
+import { ActivityContext } from "./GuestActivity";
 
 export const syncText: Record<SyncStatus, string> = {
   loading: "Dein Spielstand wird geladen …",
@@ -33,11 +34,13 @@ export const syncText: Record<SyncStatus, string> = {
 
 export function AccountGame({
   client,
+  publicClient,
   owner,
   storageKey,
   panel,
 }: {
   client: SupabaseClient;
+  publicClient: SupabaseClient | null;
   owner: string;
   storageKey: string;
   panel: (
@@ -228,26 +231,28 @@ export function AccountGame({
     );
   return (
     <RankingContext.Provider value={ranking}>
-      <App
-        key={`${storageKey}:${generation}`}
-        storageKey={storageKey}
-        onPersistedState={offer}
-        sync={{
-          status,
-          text: `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
-          retry: () => {
-            void engine.current?.flush();
-          },
-        }}
-        accountPanel={(state, onState) =>
-          panel(
-            state,
-            onState,
+      <ActivityContext.Provider value={publicClient}>
+        <App
+          key={`${storageKey}:${generation}`}
+          storageKey={storageKey}
+          onPersistedState={offer}
+          sync={{
             status,
-            `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
-          )
-        }
-      />
+            text: `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
+            retry: () => {
+              void engine.current?.flush();
+            },
+          }}
+          accountPanel={(state, onState) =>
+            panel(
+              state,
+              onState,
+              status,
+              `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
+            )
+          }
+        />
+      </ActivityContext.Provider>
     </RankingContext.Provider>
   );
 }

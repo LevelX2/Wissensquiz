@@ -1,4 +1,4 @@
-import { test, expect, type Page } from "@playwright/test";
+import { test, expect, testBaseUrl, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -40,6 +40,305 @@ type Server = Map<
   string,
   { state: unknown; revision: number; updated_at: string }
 >;
+
+const guestDays = () =>
+  Array.from({ length: 7 }, (_, i) => ({
+    activity_day: new Date(Date.UTC(2026, 9, 3 - i)).toISOString().slice(0, 10),
+    started: i === 0 ? 8 : 0,
+    completed: i === 0 ? 5 : 0,
+    answered: i === 0 ? 50 : 0,
+    correct: i === 0 ? 40 : 0,
+    collection_started_at: "2026-10-01T10:00:00+00:00",
+  }));
+test("die öffentliche Bestenliste zeigt Gästen Level und Spielbilanz, Gasttage und verständliche Quoten ohne Anmeldung", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
+  const requests = await mockAccounts(page);
+  await page.addInitScript(
+    (value) =>
+      localStorage.setItem(
+        "wissensquiz-auth:quiz-test.supabase.co",
+        JSON.stringify(value),
+      ),
+    { ...session(), expires_at: 2000000000 },
+  );
+  await page.route("**/auth/v1/user", (r) =>
+    r.fulfill({
+      status: 401,
+      json: { code: "bad_jwt", message: "invalid token" },
+    }),
+  );
+  await page.route("**/rest/v1/rpc/quiz_guest_activity", (r) =>
+    r.fulfill({ json: guestDays() }),
+  );
+  let fail = false;
+  const queries: Record<string, unknown>[] = [];
+  await page.route("**/rest/v1/rpc/quiz_public_players", (r) => {
+    expect(r.request().headers().authorization).not.toBe(
+      `Bearer ${session().access_token}`,
+    );
+    const query = r.request().postDataJSON();
+    queries.push(query);
+    return fail
+      ? r.fulfill({ status: 500, json: { code: "XX000" } })
+      : r.fulfill({
+          json:
+            query.sort_by === "accuracy"
+              ? []
+              : [
+                  {
+                    player_name: "Bob",
+                    completed: 12,
+                    answered: 100,
+                    correct: 85,
+                    accuracy: 85,
+                    place: 1,
+                    is_mine: false,
+                    experience: 2950,
+                  },
+                  {
+                    player_name: "Neuer Spieler",
+                    completed: 0,
+                    answered: 0,
+                    correct: 0,
+                    accuracy: null,
+                    place: 2,
+                    is_mine: false,
+                    experience: 0,
+                  },
+                ],
+        });
+  });
+  await page.setViewportSize({ width: 320, height: 800 });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await page.getByRole("button", { name: "Highscores", exact: true }).click();
+  await page.getByRole("button", { name: "Bestenliste", exact: true }).click();
+  await expect(
+    page.getByRole("list", { name: "Spielerrangliste" }),
+  ).toContainText("Level 10 · Cineast");
+  await expect(
+    page.getByRole("list", { name: "Spielerrangliste" }),
+  ).toContainText(
+    "12 abgeschlossene Spiele · 85 von 100 Antworten richtig · 85 % Trefferquote",
+  );
+  await expect(
+    page.getByRole("list", { name: "Spielerrangliste" }),
+  ).toContainText("Neuer Spieler");
+  expect(queries[0]).toEqual({ sort_by: "experience", page_offset: 0 });
+  await expect(page.getByLabel("Spielerwertung Genre")).toHaveCount(0);
+  await expect(page.locator(".guest-activity .profile-stats dd")).toHaveText([
+    "8",
+    "5",
+    "50",
+  ]);
+  await page.getByText("Aktivität pro Tag", { exact: true }).click();
+  await expect(
+    page
+      .getByRole("list", { name: "Tägliche Gastaktivität" })
+      .getByRole("listitem"),
+  ).toHaveCount(7);
+  await expect(
+    page.getByText("Noch nicht erfasst", { exact: true }),
+  ).toHaveCount(4);
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  await page.screenshot({
+    path: "test-results/oeffentliche-bestenliste-320.png",
+    fullPage: true,
+  });
+  await page.getByRole("button", { name: "Trefferquote", exact: true }).click();
+  await expect(
+    page.getByText(/mindestens 50 beantwortete Fragen in dieser Auswahl/),
+  ).toBeVisible();
+  fail = true;
+  await page.getByRole("button", { name: "Runden", exact: true }).click();
+  await expect(
+    page.getByText(/Kontodienst konnte die Spielerwerte nicht bereitstellen/),
+  ).toBeVisible();
+  fail = false;
+  await page
+    .getByRole("button", { name: "Erneut versuchen", exact: true })
+    .click();
+  await expect(
+    page.getByRole("list", { name: "Spielerrangliste" }),
+  ).toBeVisible();
+  expect(
+    requests.some(
+      (r) =>
+        r.path.endsWith("quiz_save_state") || r.path.endsWith("quiz_players"),
+    ),
+  ).toBe(false);
+});
+
+test("öffentliche Spielerlisten wechseln begrenzte Seiten und markieren nach Anmeldung das eigene Konto", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
+  await mockAccounts(page);
+  await page.route("**/rest/v1/rpc/quiz_guest_activity", (r) =>
+    r.fulfill({ json: guestDays() }),
+  );
+  const queries: Record<string, unknown>[] = [];
+  await page.route("**/rest/v1/rpc/quiz_public_players", (r) => {
+    const body = r.request().postDataJSON();
+    queries.push(body);
+    return r.fulfill({
+      json: Array.from({ length: body.page_offset === 0 ? 50 : 1 }, (_, i) => ({
+        player_name:
+          i === 0 && body.page_offset === 0
+            ? "Alice"
+            : `Spieler ${body.page_offset + i + 1}`,
+        completed: 0,
+        answered: 0,
+        correct: 0,
+        accuracy: null,
+        place: 1,
+        is_mine: i === 0 && body.page_offset === 0,
+        experience: 0,
+      })),
+    });
+  });
+  await page.goto("/");
+  await login(page);
+  await page.getByRole("button", { name: "Highscores", exact: true }).click();
+  await page.getByRole("button", { name: "Bestenliste", exact: true }).click();
+  await expect(page.locator(".leaderboard-list > .is-mine")).toContainText(
+    "Alice (Du)",
+  );
+  await expect(page.locator(".leaderboard-list > li")).toHaveCount(50);
+  await page.getByRole("button", { name: "Weitere Spieler" }).click();
+  await expect(page.locator(".leaderboard-list > li")).toHaveCount(1);
+  expect(queries.at(-1)).toEqual({ sort_by: "experience", page_offset: 50 });
+  await page.getByRole("button", { name: "Vorherige Spieler" }).click();
+  await expect(page.locator(".leaderboard-list > li")).toHaveCount(50);
+});
+
+test("Gastspielmeldungen überstehen einen Fehler und Neuladen, zählen keine Importe und keine Kontospiele", async ({
+  page,
+}) => {
+  const time = new Date("2026-10-03T12:00:00+02:00");
+  await page.clock.install({ time });
+  await mockAccounts(page);
+  const events: Record<string, unknown>[] = [];
+  let failed = false;
+  await page.route("**/rest/v1/rpc/quiz_report_guest_activity", (r) => {
+    events.push(r.request().postDataJSON());
+    if (!failed) {
+      failed = true;
+      return r.fulfill({ status: 500, json: { code: "XX000" } });
+    }
+    return r.fulfill({ json: null });
+  });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  expect(events).toHaveLength(0);
+  const state = emptyState(
+    [
+      ...new Map(
+        importCsv(readFileSync("public/fragen.csv", "utf8")).questions.map(
+          (q) => [q.knowledgeId, q],
+        ),
+      ).values(),
+    ].slice(0, 3),
+  );
+  state.settings.roundSetup = {
+    mode: "ueben",
+    genres: null,
+    categories: [],
+    difficulties: ["leicht", "mittel", "schwer", "experte"],
+  };
+  await page.evaluate(async (state) => {
+    await new Promise<void>((resolve, reject) => {
+      const req = indexedDB.open("wissensquiz");
+      req.onsuccess = () => {
+        const db = req.result;
+        const tx = db.transaction("state", "readwrite");
+        tx.objectStore("state").put(state, "current");
+        tx.oncomplete = () => {
+          db.close();
+          resolve();
+        };
+        tx.onerror = () => reject(tx.error);
+      };
+    });
+  }, state);
+  await page.reload();
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect.poll(() => events.length).toBe(1);
+  const privateRoundId = await page.evaluate(
+    () =>
+      new Promise<string>((resolve, reject) => {
+        const req = indexedDB.open("wissensquiz");
+        req.onerror = () => reject(req.error);
+        req.onsuccess = () => {
+          const db = req.result;
+          const read = db
+            .transaction("state")
+            .objectStore("state")
+            .get("current");
+          read.onsuccess = () => {
+            db.close();
+            resolve(
+              read.result.rounds.find(
+                (r: { status: string }) => r.status === "active",
+              ).id,
+            );
+          };
+          read.onerror = () => reject(read.error);
+        };
+      }),
+  );
+  expect(events[0].event_id).not.toBe(privateRoundId);
+  await page.reload();
+  await expect(page.getByRole("button", { name: "Fortsetzen" })).toBeEnabled();
+  await expect.poll(() => events.length).toBe(2);
+  expect(events[0]).toEqual(events[1]);
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  for (let i = 0; i < 5; i++) {
+    await page
+      .getByRole("button", { name: "Keine Ahnung", exact: true })
+      .click();
+    await expect(page.locator(".solution-reveal")).toBeVisible();
+    await page.clock.runFor(1200);
+    await expect
+      .poll(async () => {
+        await page.clock.runFor(100);
+        return page.locator(".solution-reveal").count();
+      })
+      .toBe(0);
+    await page
+      .getByRole("button", {
+        name: i === 4 ? "Runde abschließen" : "Nächste Frage",
+      })
+      .click();
+  }
+  await expect.poll(() => events.length).toBe(3);
+  expect(events[2]).toMatchObject({
+    event_id: events[0].event_id,
+    event_kind: "completed",
+    answers: 5,
+    hits: 0,
+  });
+  expect(Object.keys(events[2]).sort()).toEqual(
+    ["event_id", "event_kind", "happened_at", "answers", "hits"].sort(),
+  );
+  await page.reload();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  expect(events).toHaveLength(3);
+  await login(page);
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await expect(page.locator(".question-card")).toBeVisible();
+  expect(events).toHaveLength(3);
+});
 test("eine alte Kontokarriere wird nach dem Anmelden automatisch einmal gesichert und beim Neuladen erhalten", async ({
   page,
 }) => {
@@ -606,7 +905,7 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   const otherContext = await browser.newContext({
     serviceWorkers: "block",
-    baseURL: "http://localhost:4173",
+    baseURL: testBaseUrl,
   });
   try {
     const other = await otherContext.newPage();

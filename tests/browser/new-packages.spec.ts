@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 for (const both of [false, true]) {
@@ -32,7 +32,7 @@ for (const both of [false, true]) {
       .getByRole("button", { name: "Zum Freien Spiel wechseln" })
       .click();
     const imgs = page
-      .getByRole("group", { name: "Zusätzliche Kategorien" })
+      .getByRole("group", { name: "Filmauswahl" })
       .locator("img");
     for (const img of await imgs.all()) {
       await img.scrollIntoViewIfNeeded();
@@ -49,27 +49,10 @@ for (const both of [false, true]) {
     });
     await page.getByRole("button", { name: "Losspielen" }).click();
     await expect(page.locator(".question-genre")).toHaveText("Rom-Com");
-    const saved = await page.evaluate(
-      () =>
-        new Promise<any>((resolve, reject) => {
-          const req = indexedDB.open("wissensquiz");
-          req.onerror = () => reject(req.error);
-          req.onsuccess = () => {
-            const db = req.result;
-            const r = db
-              .transaction("state")
-              .objectStore("state")
-              .get("current");
-            r.onsuccess = () => {
-              db.close();
-              resolve(r.result);
-            };
-          };
-        }),
-    );
-    expect(saved.questions).toHaveLength(4877);
+    const saved = await readStoredState(page);
+    expect(saved.questions).toHaveLength(5677);
     expect(new Set(saved.questions.map((q: any) => q.knowledgeId)).size).toBe(
-      4397,
+      5147,
     );
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Arthouse")),
@@ -77,8 +60,10 @@ for (const both of [false, true]) {
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Classics")),
     ).toHaveLength(1209);
-    const round = saved.rounds.at(-1);
-    expect(round.topic).toBe(both ? "Classics + Arthouse" : "Arthouse");
+    const round = saved.rounds.at(-1)!;
+    expect(round.topic).toBe(
+      both ? "Filmfragen + Classics + Arthouse" : "Filmfragen + Arthouse",
+    );
     expect(
       round.questions.every(
         (q: any) =>

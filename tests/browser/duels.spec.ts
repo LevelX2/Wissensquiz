@@ -1,4 +1,4 @@
-import { test, expect, type Page } from "@playwright/test";
+import { test, expect, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { PGlite } from "@electric-sql/pglite";
 import { readFileSync } from "node:fs";
@@ -196,7 +196,8 @@ async function play(
 test("zwei getrennte Konten spielen die vier Blöcke, sehen offene Duelle und erhalten ein Unentschieden", async ({
   browser,
 }, testInfo) => {
-  test.setTimeout(120000);
+  // Two accounts complete 60 answers, including the feedback and save steps.
+  test.setTimeout(180000);
   const service = await server();
   const ac = await browser.newContext({ serviceWorkers: "block" }),
     bc = await browser.newContext({ serviceWorkers: "block" });

@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test, expect } from "./fixtures";
 
 test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und manuelle Stufen", async ({
   page,

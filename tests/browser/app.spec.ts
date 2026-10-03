@@ -1,4 +1,4 @@
-import { test, expect, type Page } from "@playwright/test";
+import { test, expect, readStoredState, type Page } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
 import { packages } from "../../src/packages";
@@ -13,24 +13,7 @@ async function launch(page: Page) {
 }
 // Historical single-film rounds remain resumable although new film selection is removed.
 async function resumeFilmFixture(page: Page, topic: string) {
-  const state = await page.evaluate(
-    () =>
-      new Promise<State>((resolve, reject) => {
-        const req = indexedDB.open("wissensquiz");
-        req.onerror = () => reject(req.error);
-        req.onsuccess = () => {
-          const db = req.result;
-          const read = db
-            .transaction("state")
-            .objectStore("state")
-            .get("current");
-          read.onsuccess = () => {
-            db.close();
-            resolve(read.result);
-          };
-        };
-      }),
-  );
+  const state = await readStoredState(page);
   const round = startRound(state, {
     mode: "ueben",
     topic,
@@ -217,7 +200,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
           filters: { genres: string[]; difficulties: string[] };
           questions: { difficulty: string; metadata: { subdomain: string } }[];
         }>((resolve, reject) => {
-          const req = indexedDB.open("wissensquiz", 1);
+          const req = indexedDB.open("wissensquiz");
           req.onerror = () => reject(req.error);
           req.onsuccess = () => {
             const db = req.result;
@@ -328,67 +311,72 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
     await page.getByRole("button", { name: "Losspielen" }).click();
     await answerCurrent(page, true);
     await page.getByRole("button", { name: "Pause & Startseite" }).click();
-    await page.evaluate(async (packageCount) => {
-      await new Promise<void>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz", 1);
-        request.onsuccess = () => {
-          const db = request.result;
-          const tx = db.transaction("state", "readwrite");
-          const store = tx.objectStore("state");
-          const read = store.get("current");
-          read.onsuccess = () => {
-            const state = read.result;
-            state.questions = state.questions.filter(
-              (q: { id: string }) =>
-                !q.id.includes("-202610-P01-") &&
-                !q.id.startsWith("MAR-") &&
-                !q.id.startsWith("ROM-") &&
-                !q.id.startsWith("ART-") &&
-                (packageCount >= 8 || !q.id.startsWith("CLA-")) &&
-                (packageCount >= 7 || !q.id.startsWith("DRA-")) &&
-                (packageCount >= 6 || !q.id.startsWith("WES-")) &&
-                (packageCount >= 5 || !q.id.startsWith("KOM-")) &&
-                (packageCount >= 4 || !q.id.startsWith("FAN-")) &&
-                (packageCount >= 3 || !q.id.startsWith("HOR-")) &&
-                (packageCount >= 2 || !q.id.startsWith("ACT-")),
-            );
-            state.imports = state.imports.filter(
-              (r: { filename: string }) =>
-                ![
-                  "MartialArts_Quiz_180_Fragen.csv",
-                  "RomCom_Quiz_180_Fragen.csv",
-                  "Arthouse_Quiz_180_Fragen.csv",
-                  "Alle_Genres_120_Filme_960_Fragen.csv",
-                  "Preistraeger_200_Fragen.csv",
-                ].includes(r.filename) &&
-                (packageCount >= 8 ||
-                  r.filename !== "Classics_Quiz_180_Fragen.csv") &&
-                (packageCount >= 7 ||
-                  r.filename !== "Drama_Quiz_180_Fragen.csv") &&
-                (packageCount >= 6 ||
-                  r.filename !== "Western_Quiz_180_Fragen.csv") &&
-                (packageCount >= 5 ||
-                  r.filename !== "Komoedie_Quiz_180_Fragen.csv") &&
-                (packageCount >= 5 ||
-                  r.filename !== "Komoedie_Ergaenzung_360_Fragen.csv") &&
-                (packageCount >= 4 ||
-                  r.filename !== "Fantasy_Quiz_180_Fragen.csv") &&
-                (packageCount >= 3 ||
-                  r.filename !== "Horror_Quiz_180_Fragen.csv") &&
-                (packageCount >= 2 ||
-                  r.filename !== "Action_Quiz_180_Fragen.csv"),
-            );
-            store.put(state, "current");
+    const legacyState = await readStoredState(page);
+    await page.evaluate(
+      async ({ packageCount, legacyState }) => {
+        await new Promise<void>((resolve, reject) => {
+          const request = indexedDB.open("wissensquiz");
+          request.onsuccess = () => {
+            const db = request.result;
+            const tx = db.transaction("state", "readwrite");
+            const store = tx.objectStore("state");
+            const read = store.get("current");
+            read.onsuccess = () => {
+              const state = legacyState;
+              state.questions = state.questions.filter(
+                (q: { id: string }) =>
+                  !q.id.includes("-202610-P01-") &&
+                  !q.id.startsWith("MAR-") &&
+                  !q.id.startsWith("ROM-") &&
+                  !q.id.startsWith("ART-") &&
+                  (packageCount >= 8 || !q.id.startsWith("CLA-")) &&
+                  (packageCount >= 7 || !q.id.startsWith("DRA-")) &&
+                  (packageCount >= 6 || !q.id.startsWith("WES-")) &&
+                  (packageCount >= 5 || !q.id.startsWith("KOM-")) &&
+                  (packageCount >= 4 || !q.id.startsWith("FAN-")) &&
+                  (packageCount >= 3 || !q.id.startsWith("HOR-")) &&
+                  (packageCount >= 2 || !q.id.startsWith("ACT-")),
+              );
+              state.imports = state.imports.filter(
+                (r: { filename: string }) =>
+                  ![
+                    "MartialArts_Quiz_180_Fragen.csv",
+                    "RomCom_Quiz_180_Fragen.csv",
+                    "Arthouse_Quiz_180_Fragen.csv",
+                    "Alle_Genres_120_Filme_960_Fragen.csv",
+                    "Preistraeger_200_Fragen.csv",
+                    "Schauspieler_800_Fragen_App.csv",
+                  ].includes(r.filename) &&
+                  (packageCount >= 8 ||
+                    r.filename !== "Classics_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 7 ||
+                    r.filename !== "Drama_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 6 ||
+                    r.filename !== "Western_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 5 ||
+                    r.filename !== "Komoedie_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 5 ||
+                    r.filename !== "Komoedie_Ergaenzung_360_Fragen.csv") &&
+                  (packageCount >= 4 ||
+                    r.filename !== "Fantasy_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 3 ||
+                    r.filename !== "Horror_Quiz_180_Fragen.csv") &&
+                  (packageCount >= 2 ||
+                    r.filename !== "Action_Quiz_180_Fragen.csv"),
+              );
+              store.put(state, "current");
+            };
+            tx.oncomplete = () => {
+              db.close();
+              resolve();
+            };
+            tx.onerror = () => reject(tx.error);
           };
-          tx.oncomplete = () => {
-            db.close();
-            resolve();
-          };
-          tx.onerror = () => reject(tx.error);
-        };
-        request.onerror = () => reject(request.error);
-      });
-    }, oldPackageCount);
+          request.onerror = () => reject(request.error);
+        });
+      },
+      { packageCount: oldPackageCount, legacyState },
+    );
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     await expect(page.locator(".feedback")).toBeVisible();
@@ -396,7 +384,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
-      page.getByText("4877 Fragen · 4397 Wissensziele · 0 Demo-Fragen"),
+      page.getByText("5677 Fragen · 5147 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
   });
 }
@@ -677,7 +665,7 @@ test("Fehlende Audio- und Vibrationsschnittstellen verhindern keine Spielrunde",
 });
 test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async ({
   page,
-}) => {
+}, testInfo) => {
   const errors: string[] = [];
   page.on("pageerror", (e) => errors.push(e.message));
   await launch(page);
@@ -729,15 +717,14 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByText("4877 Fragen · 4397 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("5677 Fragen · 5147 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();
   const file = await download;
-  await file.saveAs("test-results/backup.json");
-  await page
-    .getByLabel("Sicherung auswählen")
-    .setInputFiles("test-results/backup.json");
+  const backupPath = testInfo.outputPath("backup.json");
+  await file.saveAs(backupPath);
+  await page.getByLabel("Sicherung auswählen").setInputFiles(backupPath);
   await page
     .getByRole("button", { name: "Lokalen Stand durch Sicherung ersetzen" })
     .click();
@@ -896,7 +883,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Gültige Fragen importieren" })
     .click();
   await expect(
-    page.getByText("4889 Fragen · 4409 Wissensziele · 12 Demo-Fragen"),
+    page.getByText("5689 Fragen · 5159 Wissensziele · 12 Demo-Fragen"),
   ).toBeVisible();
   await expect(
     page.getByRole("button", {

@@ -1,5 +1,15 @@
 # Lern-, Runden- und Speichervertrag
 
+## Additive Fragenbereiche – 03.10.2026
+
+**Filmfragen, Preisträger und Schauspieler sind drei unabhängig wählbare Bereiche.** Alle gewählten Bereiche bilden einen gemeinsamen Pool. Für die Mischung aus dem gesamten Bestand: alle drei Bereiche, alle Filmgenres und die gewünschten Stufen auswählen. Für reine Schauspielerfragen: nur Schauspieler auswählen. Ohne Filmfragen sind Filmgenres und Filmgruppen inaktiv; die gespeicherte Filmauswahl bleibt für die spätere Zuschaltung erhalten. Beim Zuschalten von Schauspieler oder Preisträger aus der Filmreise wechselt die App ins Freie Spiel; der Wechsel zurück zur Filmreise wählt Filmfragen.
+
+Genres, Bekanntheitsgruppen sowie Classics/Arthouse begrenzen nur den Bereich Filmfragen. Classics und Arthouse sind weiterhin kuratierte Filmfilter, zusammen als Vereinigung. Preis- und Personenfragen werden zusätzlich aufgenommen, unabhängig von vorhandenen Filmmetadaten. Die manuell gewählten Schwierigkeitsstufen gelten für alle Bereiche. Der Gesamtpool umfasst 4.677 Filmfragen, 200 Preisfragen und 800 Personenfragen; alle drei zusammen ergeben 5.677 Fragen und 5.147 eindeutige Wissensziele. Freies Spiel zieht zufällig aus den eindeutigen Zielen; Varianten erhalten keine zusätzlichen Lose. Kein fester Anteil pro Fragenbereich und keine Garantie, dass in einer kurzen Runde jeder Bereich vorkommt. Rekordrunden behalten ihre bestehende Mischung nach Schwierigkeit und Filmgruppe; Fehlertraining seine offenen Fehler.
+
+Die frühere Beschriftung „Nur Preisträger“/„Nur Schauspieler“ entfällt. Themenkarten starten weiterhin gezielt einen einzelnen Bereich; zusätzliche Bereiche lassen sich danach zuschalten. Filmgenre-Karten und ihre Themen-/Fortschrittszahlen zeigen den Filmfragenbereich. Inhaltsdaten, Frage-/Wissensziel-IDs, frühere Rundensnapshots und Lernstände werden nicht umgeschrieben.
+
+Optionales `sources` in Rundenvorbereitung und Rundenfiltern verwendet `film`, `awards`, `actors`. Neue Rundenvorbereitungen wählen standardmäßig `film`; ein vorhandenes `sources: []` bleibt bewusst leer. Alte Kategorieauswahlen werden beim Lesen ohne Mutation in ihre bisherigen reinen/kuratierten Bereiche übersetzt. Historische Runden ohne `sources` behalten die bisherigen Auswahlregeln. Neue gemischte Themen heißen etwa `Filmfragen + Classics + Preisträger + Schauspieler`. In reinen Zusatzrunden werden irrelevante Genre-/Bekanntheitsfilter im Rundensnapshot weggelassen. JSON, IndexedDB und kompakte Kontosicherungen erhalten die Auswahl; Rekordschlüssel unterscheiden die Bereiche.
+
 ## Asynchrone Duelle und Lösungsanzeige
 
 Seit 02.10.2026 lokal ergänzt: drei gemeinsame Zehnerrunden mit 30 Sekunden pro Frage, vier Spielblöcken und serverseitiger Wertung von einem Punkt pro Treffer. Eigenes Antwortlernen bleibt erhalten; eine komplett selbst gespielte Runde erhält normale Abschluss-XP, auch bei späterem Gegnerausfall. Duellpunkte sind keine Rekordpunkte. Der Server friert Fragen und Reihenfolgen ein und bewahrt die erste Startzeit auch bei Pause und Wiederaufnahme. [Vollständiger Duellvertrag](Asynchrone-Filmduelle.md).
@@ -40,7 +50,7 @@ Für die gemeinsame Spielerquote liegt Migration `202610020002_dont_know_ranking
 
 ## Auswahl und Runden
 
-Die Hauptauswahl kombiniert mehrere Filmgenres und Schwierigkeitsstufen. Ein Genre stammt unverändert aus `metadata.subdomain`, ersatzweise aus `domain`; `Science-Fiction` wird als „Sci-Fi“ angezeigt. Innerhalb einer Gruppe gilt ODER, zwischen Genre und Stufe UND. Genres werden aus den vorhandenen Fragen abgeleitet. Classics, Arthouse und Preisträger schränken zusätzlich ein; keine neue Auswahl einzelner Filme/Reihen. Leere Auswahl liefert keine Runde. Die gewählten Genres werden nicht künstlich gleichverteilt; die bestehenden Lernregeln wählen aus dem passenden Gesamtbestand.
+Die Hauptauswahl kombiniert mehrere Filmgenres und Schwierigkeitsstufen. Ein Genre stammt unverändert aus `metadata.subdomain`, ersatzweise aus `domain`; `Science-Fiction` wird als „Sci-Fi“ angezeigt. Innerhalb einer Gruppe gilt ODER, zwischen Genre und Stufe UND. Genres werden aus den vorhandenen Fragen abgeleitet. Classics und Arthouse schränken den Filmfragenbereich zusätzlich ein; Preisträger und Schauspieler ergänzen ihn unabhängig von Genres; keine neue Auswahl einzelner Filme/Reihen. Leere Auswahl liefert keine Runde. Die gewählten Genres werden nicht künstlich gleichverteilt; die bestehenden Lernregeln wählen aus dem passenden Gesamtbestand.
 
 Neue Runden speichern `filters.genres`, `filters.difficulties` und `filters.familiarities` als sortierte, duplikatfreie Listen. Sicherungen behalten diese Felder und prüfen, dass die Rundensnapshots zur Auswahl passen. Alte Runden ohne `filters` verwenden weiterhin ihre bisherigen `topic`-/`difficulty`-Felder; keine Migration von Fragen oder Lernereignissen nötig.
 
@@ -96,7 +106,7 @@ Die Auszeichnung **„Sci-Fi – 10 leichte Wissensziele gefestigt“** wird nur
 
 ## Datenintegrität und Sicherung
 
-IndexedDB-Datenbank `wissensquiz`, Store `state`, Gastschlüssel `current`, Schema 1. Optionale Konten verwenden `account:<Supabase-Host>:<Benutzer-ID>` im selben Store; bestehende Gastdaten bleiben unverändert. Der Zustand enthält Fragen inklusive Themen-/Wissenszielzuordnung, Inhaltsversionen, Runden mit vollständigen Fragensnapshots und Antwortreihenfolge, Ereignisse, Lernstände, Termine, XP, Rekorde, Abzeichen, historische Favoritenwerte, Einstellungen, Importberichte und lokale Meldungen.
+IndexedDB-Datenbank `wissensquiz`, Datenbankversion 2, Store `state`, Gastschlüssel `current`; das logische Spielstand-/JSON-Schema bleibt 1. Optionale Konten verwenden `account:<Supabase-Host>:<Benutzer-ID>` im selben Store. Der Fragenkatalog liegt getrennt unter `catalog:<Spielstandschlüssel>` und wird beim Lesen verlustfrei rekonstruiert. Fortschritt und Katalogänderungen werden gemeinsam atomar gespeichert; ein unveränderter Katalog wird nicht erneut geschrieben. Alte Vollstände werden bei erfolgreichem Speichern überführt. Der logische Zustand enthält weiterhin Fragen inklusive Themen-/Wissenszielzuordnung, Inhaltsversionen, Runden mit vollständigen Fragensnapshots und Antwortreihenfolge, Ereignisse, Lernstände, Termine, XP, Rekorde, Abzeichen, historische Favoritenwerte, Einstellungen, Importberichte und lokale Meldungen. Neue Solorunden speichern in `before` nur vorhandene Lernstände ihrer höchstens zehn Wissensziele; alte Rundensnapshots bleiben erhalten. [Speicherlayout, Messungen und Prüfung](Fragedaten-Organisation.md).
 
 Jede Änderung liest den aktuellen Zustand innerhalb einer einzigen Readwrite-Transaktion und schreibt ihn vollständig zurück. Antwort-ID = Runden-ID + Wissensziel-ID. Eine Frage akzeptiert nur die erste Antwort an der erwarteten Rundenposition. Transaktionsabbruch hinterlässt keinen Teilstand. Lernstände werden deterministisch aus Ereignissen neu aufgebaut; XP aus den Antworten und Lernfortschritten abgeschlossener Runden einschließlich einmaliger Altgutschrift, Rekorde aus abgeschlossenen Rekordrunden. Für den Testbestand ist dieser schlanke Ansatz ausreichend, bei großen Ereignisarchiven wäre inkrementelle Verarbeitung sinnvoll.
 
@@ -173,7 +183,7 @@ Keine neuen Statistikzähler, keine Migration und keine Änderung an Lernfortsch
 
 ## Arthouse und gemeinsame Kategorienauswahl
 
-Classics, Arthouse und Preisträger sind unabhängig wählbare kuratierte Zusatzkategorien innerhalb der ausgewählten Genres. Mehrere gewählt bedeuten eine Vereinigung (ODER), keine Schnittmenge. Die Rundenkategorie wird kanonisch als Classics + Arthouse und optional mit „: Film/Reihe“ gespeichert; frühere Classics-Runden bleiben gültig. Globale Summen, Auswahl und Fortschritt bleiben nach Frage-/Wissensziel-ID eindeutig. RomCom und Rom-Com werden beim neuen Import zum Genre Rom-Com zusammengeführt, Quellwert bleibt erhalten. Details und vollständige Zahlen im Importvertrag.
+Classics und Arthouse sind unabhängig wählbare kuratierte Filmfilter innerhalb der ausgewählten Genres. Preisträger und Schauspieler sind additive Fragenbereiche. Mehrere gewählt bedeuten eine Vereinigung (ODER), keine Schnittmenge. Die Rundenkategorie wird kanonisch als Classics + Arthouse und optional mit „: Film/Reihe“ gespeichert; frühere Classics-Runden bleiben gültig. Globale Summen, Auswahl und Fortschritt bleiben nach Frage-/Wissensziel-ID eindeutig. RomCom und Rom-Com werden beim neuen Import zum Genre Rom-Com zusammengeführt, Quellwert bleibt erhalten. Details und vollständige Zahlen im Importvertrag.
 
 ## Jahresfragen, Regie und Filmdaten (26.09.2026)
 
@@ -184,12 +194,12 @@ Fragenfortschritt: Grün mit Häkchen bedeutet richtig, Rot mit Kreuz falsch; oh
 
 ## Gespeicherte Rundenvorbereitung (27.09.2026)
 
-Optionales `settings.roundSetup`: `mode`, `genres` (null = alle einschließlich späterer Imports, [] = keine), `categories` (Classics/Arthouse/Preisträger) und `difficulties`. Defaults für fehlende Rundenvorbereitung: entdecken, alle Genres, keine Zusatzkategorie, alle vier manuellen Stufen. Bereits gespeicherte Dreistufen-Auswahlen bleiben erhalten; Experte kann ausdrücklich zugeschaltet werden. Nicht mehr vorhandene Genres werden bei der Anzeige entfernt; fallen alle früher gewählten Genres weg, gilt wieder alle. Eine absichtlich leere Auswahl bleibt leer. Keine einzelne Film-/Reihenauswahl in neuen Runden; historische Rundensnapshots und Themenfilter bleiben lesbar und fortsetzbar.
+Optionales `settings.roundSetup`: `mode`, `genres` (null = alle einschließlich späterer Imports, [] = keine), `categories` (Classics/Arthouse/Preisträger/Schauspieler) und `difficulties`. Defaults für fehlende Rundenvorbereitung: entdecken, alle Genres, keine Zusatzkategorie, alle vier manuellen Stufen. Bereits gespeicherte Dreistufen-Auswahlen bleiben erhalten; Experte kann ausdrücklich zugeschaltet werden. Nicht mehr vorhandene Genres werden bei der Anzeige entfernt; fallen alle früher gewählten Genres weg, gilt wieder alle. Eine absichtlich leere Auswahl bleibt leer. Keine einzelne Film-/Reihenauswahl in neuen Runden; historische Rundensnapshots und Themenfilter bleiben lesbar und fortsetzbar.
 
 Auswahländerungen werden transaktional gespeichert; die Oberfläche zeigt die Wahl sofort, Kontosynchronisierung erhält ausschließlich bestätigte Speicherstände. Speicherfehler nehmen die vorläufige Auswahl zurück und zeigen den vorhandenen Fehlerhinweis. Die Filmreise ignoriert manuelle Stufen-/Bekanntheitsfilter, erhält sie aber für den späteren Wechsel zurück. JSON- und Kontosicherungsvalidierung erhalten das optionale Objekt; Lernereignisse und IDs ändern sich nicht.
 
 
-Online-Sicherungen verwenden zusätzlich eine verlustfreie Kompaktkodierung des Fragenkatalogs und versionsgebundene Rundenverweise. Nach dem Lesen entsteht derselbe vollständige Zustand; die bisherigen Sicherungs-, Lern- und Ranglistenregeln gelten unverändert. IndexedDB und JSON-Export behalten das bisherige Vollformat. Details und Größenmessung unter [Konten und Spielstände](Konten-und-Spielstaende.md#kompakte-online-sicherung-27092026).
+Online-Sicherungen verwenden zusätzlich eine verlustfreie Kompaktkodierung des Fragenkatalogs und versionsgebundene Rundenverweise. Nach dem Lesen entsteht derselbe vollständige Zustand; die bisherigen Sicherungs-, Lern- und Ranglistenregeln gelten unverändert. Der JSON-Export behält das vollständige Format. IndexedDB verwendet seit 03.10.2026 das [getrennte lokale Kataloglayout](Fragedaten-Organisation.md). Details zur Onlinekodierung und ihrer Größenmessung unter [Konten und Spielstände](Konten-und-Spielstaende.md#kompakte-online-sicherung-27092026).
 
 
 ## Antwortsignale (27.09.2026)
@@ -200,3 +210,8 @@ Richtig: heller aufsteigender Sinus-Zweiklang (659 → 880 Hz), insgesamt 250 ms
 ## Preisträger und Experte (02.10.2026)
 
 200 neue Fragen mit je 50 Zielen pro Schwierigkeit. Experte ist im Freien Spiel, in Rekordrunden und für offene Fehler frei auswählbar. Die Filmreise behält Leicht/Mittel/Schwer und ihre festen Freischaltziele; Expertenfragen sind dort ausgenommen. Sichere Expertenantworten bringen zusätzlich fünf Karriere-XP. Speicherung und Kategorievereinigung erhalten historische Ereignisse, Runden und verdiente Rechte. [Inhalts- und Quellenvertrag](Preistraeger.md).
+
+
+## Personenkategorie Schauspieler
+
+Seit 03.10.2026 stehen 800 Fragen zu 100 Personen in Freiem Spiel, Rekordrunden und Fehlertraining bereit. Personenmetadaten und Kategorieauswahl bleiben in JSON und kompakter Kontosicherung erhalten. Filmgenre- und Bekanntheitsfilter beschränken Personenfragen nicht; die Personenkategorie muss ausgewählt sein. Die vorhandenen Filmreise-Ziele zählen weiterhin Filmfragen aus abgeschlossenen Runden. Personenfragen erzeugen keine weiteren Stufenfreischaltungen, ihre Lernwirkung und Karriere-XP folgen den bestehenden Regeln. 50 Varianten teilen vorhandene Wissensziel-IDs; Antworten und Fortschritte bleiben zielbezogen. Erkennungsfragen zeigen den Namen erst in der Lösung; spätere Quellen und Vertiefungen gehören zum Antwortbereich. [Paketvertrag](Schauspieler-Fragenpaket.md).

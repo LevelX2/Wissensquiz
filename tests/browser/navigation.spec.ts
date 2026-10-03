@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe sind im Profil erreichbar", async ({
