@@ -53,9 +53,9 @@ for (const both of [false, true]) {
     await page.getByRole("button", { name: "Losspielen" }).click();
     await expect(page.locator(".question-genre")).toHaveText("Rom-Com");
     const saved = await readStoredState(page);
-    expect(saved.questions).toHaveLength(5677);
+    expect(saved.questions).toHaveLength(6277);
     expect(new Set(saved.questions.map((q: any) => q.knowledgeId)).size).toBe(
-      5147,
+      5734,
     );
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Arthouse")),

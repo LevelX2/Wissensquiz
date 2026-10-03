@@ -1,4 +1,5 @@
 import { readSavedState } from "./saved-state";
+import { fixCalendarTime } from "./fixtures";
 import { test, expect } from "@playwright/test";
 import { readFileSync, writeFileSync } from "node:fs";
 import {
@@ -95,8 +96,11 @@ for (const history of [0, 100, 500])
     await page.route("**/account-config.json", (r) =>
       r.fulfill({ json: { enabled: false } }),
     );
-    await page.clock.setFixedTime(new Date("2026-10-03T12:00:00+02:00"));
+    await fixCalendarTime(page, new Date("2026-10-03T12:00:00+02:00"));
     await page.goto("/");
+    expect(
+      await page.evaluate(() => requestAnimationFrame.toString()),
+    ).toContain("[native code]");
     await expect(
       page.getByRole("button", { name: /^Losspielen/ }),
     ).toBeEnabled();

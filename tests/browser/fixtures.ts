@@ -11,6 +11,32 @@ import {
 export { expect, chromium, type Page } from "@playwright/test";
 export const testBaseUrl = `http://localhost:${process.env.WISSENSQUIZ_BROWSER_PORT ?? 4173}`;
 
+// Performance cases need native timers and rendering frames. Playwright's
+// setFixedTime also installs its timer/RAF scheduler, adding measurement jitter.
+// Keep only the calendar date fixed, including after navigation and reload.
+export async function fixCalendarTime(page: Page, time: Date) {
+  await page.addInitScript((fixedTime) => {
+    const NativeDate = Date;
+    window.Date = new Proxy(NativeDate, {
+      apply() {
+        return new NativeDate(fixedTime).toString();
+      },
+      construct(target, args, newTarget) {
+        return Reflect.construct(
+          target,
+          args.length ? args : [fixedTime],
+          newTarget,
+        );
+      },
+      get(target, key, receiver) {
+        return key === "now"
+          ? () => fixedTime
+          : Reflect.get(target, key, receiver);
+      },
+    });
+  }, time.getTime());
+}
+
 // Existing filter/game checks open the preparation panels through their UI.
 // Compact-home checks deliberately leave the default collapsed state intact.
 export async function openRoundSetup(page: Page) {

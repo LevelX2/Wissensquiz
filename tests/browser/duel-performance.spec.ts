@@ -13,6 +13,9 @@ test.describe("Duellreaktion", () => {
     const service = await server();
     try {
       await service.setup(page, alice, true);
+      expect(
+        await page.evaluate(() => requestAnimationFrame.toString()),
+      ).toContain("[native code]");
       await expect.poll(() => page.workers().length).toBe(1);
       await page
         .getByRole("button", { name: "Zufälligen Gegner finden" })

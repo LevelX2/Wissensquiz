@@ -1,4 +1,4 @@
-import { expect, openRoundSetup, type Page } from "./fixtures";
+import { expect, openRoundSetup, fixCalendarTime, type Page } from "./fixtures";
 import { PGlite } from "@electric-sql/pglite";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -55,7 +55,7 @@ export async function server() {
   let tail = Promise.resolve();
   async function setup(page: Page, id: string, realTimers = false) {
     if (realTimers)
-      await page.clock.setFixedTime(new Date("2026-10-03T12:00:00Z"));
+      await fixCalendarTime(page, new Date("2026-10-03T12:00:00Z"));
     else await page.clock.install({ time: new Date("2026-10-02T12:00:00Z") });
     await page.route("**/account-config.json", (r) =>
       r.fulfill({

@@ -894,7 +894,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
     .getByRole("button", { name: "Gültige Fragen importieren" })
     .click();
   await expect(
-    page.getByText("5689 Fragen · 5159 Wissensziele · 12 Demo-Fragen"),
+    page.getByText("6289 Fragen · 5746 Wissensziele · 12 Demo-Fragen"),
   ).toBeVisible();
   await expect(
     page.getByRole("button", {
