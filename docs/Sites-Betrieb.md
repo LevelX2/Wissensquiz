@@ -1,5 +1,9 @@
 # Sites-Veröffentlichung
 
+## Kategorieillustrationen – Version 38
+
+**Preisträger- und Schauspielerillustrationen sind als Sites-Version 38 veröffentlicht**, nativer Status `succeeded` am 03.10.2026. Quellcommit `8685fb2f806e3b1d99b17243e423b9a64042fcc8`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_0428664725408191a082da1232cb64fb`, Deployment `appgdep_6ac09868ec8c8191b66857b1c71a30fe`. Beide PNGs und die gemeinsame Bildzuordnung sind bytegleich zum hier geprüften Bildstand. Der parallel veröffentlichte App-Gesamtstand enthält bereits die im Hauptarbeitsordner bereitgestellten Motive. Öffentliche URL und Zugriff erhalten; kein weiterer Deployment erforderlich. [Originalprompts und Bildprüfungen](Kategorie-Illustrationen.json).
+
 Öffentliche Site: https://wissensquiz-filmkosmos.levelx2.chatgpt.site
 
 Projekt-ID aus `.openai/hosting.json` wiederverwenden: `appgprj_6ab78f6468648191a8895f7a1d9dbf23`. Besucherzugriff ist seit 26.09.2026 auf ausdrücklichen Nutzerauftrag öffentlich (`access_mode: public`, Revision 2). Kein vorgeschaltetes ChatGPT-Konto erforderlich. Bearbeitungsrechte wurden nicht erweitert; private Kontospielstände schützt Supabase Auth/RLS.

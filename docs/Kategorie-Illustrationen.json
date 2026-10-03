@@ -36,5 +36,16 @@
     }
   },
   "integration": "Gemeinsame GenreArtwork-Bildzuordnung: Themenkarten, Kategorieauswahl und sonstige vorhandene Verwendungen. Große Motive mit object-fit: contain, Auswahlminiaturen mit 40 × 40 Pixeln. Dekorative Bilder mit leerem alt; Kategoriennamen bleiben in Text und ARIA erhalten.",
-  "verification": "193 bestehende Logik-/Datenbanktests und Produktions-Build erfolgreich. Drei gezielte Browserfälle erfolgreich: Chromium bei 1440 und 320 Pixeln, WebKit bei 320 Pixeln. Große Themenkarten und 40-Pixel-Auswahlbilder visuell geprüft; Bilder vollständig geladen, keine horizontale Überbreite und Axe ohne Befund. Kategorieauswahl über Neuladen erhalten. Beide PNGs im Offline-Cache; echtes Offline-Neuladen in Chromium, Offline-Fortsetzung in WebKit geprüft. Offline-Paket film-5ebf95afc9f3 mit 46 Cache-Einträgen. Keine Veränderungen an Fragen, Lernständen oder Serververträgen."
+  "verification": "Prüfung des isolierten Bildstands auf Basis von Version 37: 193 bestehende Logik-/Datenbanktests und Produktions-Build erfolgreich. Drei gezielte Browserfälle erfolgreich: Chromium bei 1440 und 320 Pixeln, WebKit bei 320 Pixeln. Große Themenkarten und 40-Pixel-Auswahlbilder visuell geprüft; Bilder vollständig geladen, keine horizontale Überbreite und Axe ohne Befund. Kategorieauswahl über Neuladen erhalten. Beide PNGs im Offline-Cache; echtes Offline-Neuladen in Chromium, Offline-Fortsetzung in WebKit geprüft. Offline-Paket film-5ebf95afc9f3 mit 46 Cache-Einträgen. Keine Veränderungen an Fragen, Lernständen oder Serververträgen.",
+  "publication": {
+    "version_number": 38,
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_0428664725408191a082da1232cb64fb",
+    "source_commit": "8685fb2f806e3b1d99b17243e423b9a64042fcc8",
+    "deployment_id": "appgdep_6ac09868ec8c8191b66857b1c71a30fe",
+    "deployment_status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "archive_sha256": "sha256:e84d10953f7156607ec1a513ae580df90b93b5bee3eed80177f1bded797bd349",
+    "archive_file_count": 49,
+    "asset_and_mapping_comparison": "Beide PNGs und src/Icons.tsx sind bytegleich zwischen dem geprüften Bildstand und dem veröffentlichten Quellcommit. Die parallel erfolgte Veröffentlichung des aktuellen App-Gesamtstands hat die bereits im Hauptarbeitsordner bereitgestellten Illustrationen aufgenommen. Kein weiterer Deployment erforderlich."
+  }
 }
