@@ -1,5 +1,7 @@
 # Navigation und Hilfe
 
+Der einheitliche Antwortablauf mit vier sichtbaren Möglichkeiten für 1,1 Sekunden ist seit Sites-Version 49 vom 03.10.2026 veröffentlicht. Die folgenden lokalen Ergänzungen sind damit produktiv. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-49-einheitliche-antwortauflösung-für-11-sekunden).
+
 ## Spielkacheln und Rekordauswahl – 03.10.2026
 
 Der aktuell gewählte Modus bleibt auf der Startseite auch bei geschlossener Auswahl als große illustrierte Kachel sichtbar. Sie zeigt Modusname, kurze Spielregel und „Modus ändern“; ein Klick öffnet die Auswahl. Die Motive nehmen einen wesentlichen Teil der Kachel ein, auch auf dem Handy. Die Kachel zum Ändern startet selbst keine Runde. „Losspielen“ startet den sichtbaren Modus mit der gespeicherten Auswahl. Alle Spielkacheln in der geöffneten Auswahl verwenden ebenfalls größere Motive.

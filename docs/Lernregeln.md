@@ -32,6 +32,8 @@ Duell-Lernereignisse werden nach serverseitiger Freigabe eigener Lösungen über
 
 ## Direkt sichtbare Antwortfarben
 
+Mit Sites-Version 49 am 03.10.2026 um 20:24:08 Uhr Europe/Berlin veröffentlicht; die unten beschriebene lokale Präzisierung ist damit produktiv. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-49-einheitliche-antwortauflösung-für-11-sekunden).
+
 03.10.2026 lokal ergänzt und auf Nutzerpräzisierung vereinheitlicht: Bei direkter Lösungsanzeige zeigen richtige Auswahl, falsche Auswahl und „Keine Ahnung“ nach erfolgreichem Speichern **dieselbe Auflösungsansicht für 1,1 Sekunden**. Alle vier Antwortmöglichkeiten bleiben sichtbar und gesperrt. Die richtige Antwort ist grün mit „✓ Richtig“, eine falsch gewählte Antwort rot mit „× Deine Antwort“ unterlegt. Die übrigen Möglichkeiten bleiben neutral; „Keine Ahnung“ markiert keine falsche Möglichkeit als gewählt. Die richtige Lösung erhält in allen drei Fällen dieselben zwei sanften Leuchteffekte, bei reduzierten Animationen bleibt sie ruhig.
 
 Während dieser kurzen Phase erscheinen noch keine Erklärung, Fragenstatistik oder Weiter-Aktion. Danach folgen die normale Erklärung, der Merksatz und der Weiter-Knopf; „Alle Antworten ansehen“ ist geschlossen und kann manuell geöffnet werden. Neuladen/Wiederaufnahme zeigt unmittelbar diese gespeicherte Antwortansicht ohne erneute Animation oder neues Ereignis. Der Screenreader-Fokus bleibt beim Antwortfeedback. Der Timer der Frage ist während der Auflösung bereits angehalten; Wertung und Antwortzeit enthalten die Anzeigephase nicht.
