@@ -13,6 +13,8 @@ export const genreIllustrations: Record<string, string> = {
   "Rom-Com": "/genres/romcom.png",
   Arthouse: "/genres/arthouse.png",
   Classics: "/genres/classics.png",
+  Preisträger: "/genres/awards.png",
+  Schauspieler: "/genres/actors.png",
 };
 
 export function GenreArtwork({

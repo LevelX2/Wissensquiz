@@ -1,5 +1,9 @@
 # Navigation und Hilfe
 
+## Kategorieillustrationen – 03.10.2026
+
+**Preisträger** verwendet einen goldenen Filmpreis mit Lorbeerzweigen und Filmstreifen; **Schauspieler** zwei anonyme Porträtbüsten mit Filmklappe. Beide Motive wurden mit dem eingebauten Imagegen im Gold-/Elfenbein-/Petrol-Stil der bestehenden Illustrationen erzeugt und unverändert als transparente RGBA-PNGs mit 1254 × 1254 Pixeln übernommen. Die gemeinsame Bildzuordnung in `GenreArtwork` versorgt große Themenkarten und kleine Kategorie-Auswahlfelder. Kategoriennamen bleiben als Text und ARIA erhalten, die Bilder sind dekorativ. Beide Dateien werden offline zwischengespeichert. [Originalprompts, Dateihashes und Prüfungen](Kategorie-Illustrationen.json).
+
 Seit 02.10.2026 lokal: **Spielen → Duell** mit den Gruppen „Du bist dran“, „Warten auf Gegner“ und „Gegner wird gesucht“, fünf gemeinsamen Spielplätzen, Rundenergebnissen, Fristen und Historie. Konto erforderlich; Gäste gelangen zum Profil. Zufallspaarung und Linkeinladung verwenden drei vertraute Zehnerrunden auf Zeit. Die Hilfe erklärt Ablauf, Gegnerausfall und Slotgrenzen. Vor Solo-/Duellstart steht „Lösungen anzeigen“; gesammeltes Feedback bleibt bis zur eigenen Rundenauswertung neutral und erlaubt vorher eine Rate-Kennzeichnung. Auf dem Handy unterdrückt die Duellfrage wie die Solofrage den zusätzlichen Karrierekopf. Neue Linkfragmente werden auch in einer bereits geöffneten App erkannt. [Fachvertrag und Betriebsgrenzen](Asynchrone-Filmduelle.md).
 
 Seit 02.10.2026 lokal: dritte Zusatzkategorie **Preisträger** und vierte manuelle Stufe **Experte**. 200 Preisfragen, je 50 pro Stufe, in Themenübersicht und Rundenvorbereitung eingebunden. Kategorien sind mit Genres und miteinander kombinierbar. Die Hilfe erläutert Preise, Kategorievereinigung und die Beschränkung von Experte auf freie Modi/Fehlertraining. Die Filmreise führt weiterhin durch drei Stufen. [Inhalt und Quellen](Preistraeger.md).

@@ -59,6 +59,7 @@
 - [Drama-Importbericht](../../../docs/importbericht-drama.json)
 
 - [Genre- und Spielmodusillustrationen, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
+- [Preisträger- und Schauspielerillustrationen: Originalprompts, Dateien und Prüfung](../../../docs/Kategorie-Illustrationen.json)
 
 - [Navigation, zugängliche Highscores und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
 

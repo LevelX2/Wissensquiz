@@ -2,6 +2,8 @@
 
 ## Aktueller Stand
 
+03.10.2026 **Kategorieillustrationen für Preisträger und Schauspieler geprüft**, Veröffentlichung vorbereitet. Goldene Preis-/Lorbeerskulptur und Porträtbüsten mit Filmklappe ergänzen das bestehende Set; große Themenkarten und kleine Kategorieauswahl verwenden dieselben transparenten PNGs. 193 Logik-/Datenbanktests, Build und drei gezielte Browserfälle erfolgreich. Isolierter Release auf `codex/kategorie-illustrationen`, parallel entstehende Änderungen im Hauptarbeitsordner erhalten. [Illustrationen und Prompts](../docs/Kategorie-Illustrationen.json).
+
 03.10.2026 **Sites-Version 37 veröffentlicht**, nativer Status `succeeded`: Schauspieler als eigene Personenkategorie mit 100 Personen und 800 individuellen Fragen, vier Stufen, Quellen und Vertiefungen. Gesamt 5.677 Fragen/5.147 Ziele. 193 Logik-/Datenbanktests, Produktions-Build und 111 unterschiedliche Browserfälle erfolgreich. Geprüfter isolierter Release auf `codex/schauspieler-release`; laufende Änderungen im Hauptarbeitsordner bleiben lokal. Duellkatalog unverändert, keine SQL-Migration oder Main-Integration. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md).
 
 02.10.2026 **Sites-Version 36 veröffentlicht**, nativer Status `succeeded`: gesamter offener App-Stand mit Duellen, Lösungswahl, Filmkarriere und neuen Alle-Genres-/Preisträger-Fragen. Aktuell 4.877 Fragen/4.397 Ziele/656 Filme. Servermigrationen 004 und 005 live, Rechte geprüft. 189 Logik-/Datenbanktests, Produktions-Build und 105 unterschiedliche Browserfälle erfolgreich. Keine Main-Integration. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md).

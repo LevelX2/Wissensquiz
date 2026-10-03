@@ -1,0 +1,40 @@
+{
+  "created_on": "2026-10-03",
+  "generator": "builtin image_gen.imagegen",
+  "style": "Freigestellte 3D-Objekte mit poliertem und gebürstetem Gold, Elfenbein und tiefem Petrol. Weiches Studiolicht, plastische Details, konsistent zu Classics, Arthouse und Musik.",
+  "unchanged_style_references": [
+    "public/genres/classics.png",
+    "public/genres/arthouse.png",
+    "public/genres/music.png"
+  ],
+  "assets": {
+    "awards": {
+      "file": "public/genres/awards.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "RGBA PNG",
+      "bytes": 1887626,
+      "sha256": "8e2fbe5252a400604edc2e3516a858302171eabb02dd78abd0cbfb63d33c65a2",
+      "transparent_pixels": 763200,
+      "partial_alpha_pixels": 808895,
+      "opaque_pixels": 421,
+      "corner_alpha": [0, 0, 1, 0],
+      "prompt": "Use case: stylized-concept.\nAsset type: premium square category icon for a cinema quiz website, matching a cohesive set of polished 3D collectible objects. Create one production-ready icon, NOT a page or mockup.\nSubject: a distinguished cinema award trophy, a substantial five-point gold star sculpted atop a short ivory-and-deep-teal enamel pedestal. Two beautifully modeled gold laurel branches rise around the star, framing it as a film festival prize. A short elegant curved strip of teal film with gold perforated edges is integrated around the base. One coherent, compact sculptural object with a clear silhouette.\nStyle: high-end photorealistic 3D studio render, tactile ivory porcelain, richly brushed and polished warm gold, deep teal lacquer, finely crafted beveled edges, realistic metal grain and specular highlights. Sophisticated, substantial, highly detailed, matching luxurious ivory and gold vintage film projectors and teal-and-gold cinema emblems.\nComposition: entire object centered on a square canvas, frontal three-quarter view, approximately 85 percent of canvas height, balanced broad silhouette, generous transparent margin on every edge. Readable as an award even at 40 pixels; polished sculptural quality at 160 pixels.\nLighting: soft warm studio key from upper left, subtle rim light and realistic self-shading; no ground plane, no backdrop, no cast shadow outside the object.\nConstraints: real transparent RGBA background with clean alpha edges, no opaque rectangular background, no text, letters, logos, watermark, caption or border. No stopwatch, no trophy cup, no human statuette, no real award logo. One icon only."
+    },
+    "actors": {
+      "file": "public/genres/actors.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "RGBA PNG",
+      "bytes": 2193468,
+      "sha256": "a1fe00791242f440bb6ffe644960fde61b2b937defad42ef2f3d2b81ee55f946",
+      "transparent_pixels": 581429,
+      "partial_alpha_pixels": 990784,
+      "opaque_pixels": 303,
+      "corner_alpha": [0, 0, 0, 0],
+      "prompt": "Use case: stylized-concept.\nAsset type: premium square category icon for a cinema quiz website, matching a cohesive set of polished 3D collectible objects. Create one production-ready icon, NOT a page or mockup.\nSubject: two beautifully crafted anonymous performer portrait busts, a woman and a man, shown together as one balanced cinema emblem. Heads and shoulders with expressive, well-sculpted realistic facial features and confidently composed expressions, subtly turned toward the viewer. Ivory porcelain faces, warm gold sculpted hair and tailored collar details, refined deep teal enamel clothing. A small elegant ivory-and-gold film clapperboard rests at their shared lower edge, clearly connecting the portraits to cinema, with a few bold diagonal gold stripes and no writing.\nStyle: high-end photorealistic 3D studio render, tactile ivory porcelain, richly brushed and polished warm gold, deep teal lacquer, beautifully rounded sculpted surfaces, realistic metal grain and specular highlights. Sophisticated, substantial, highly detailed, matching luxurious ivory and gold vintage film projectors and teal-and-gold cinema emblems. These are decorative sculpted portraits, not photographs of living people.\nComposition: entire cohesive object centered on a square canvas, frontal three-quarter view, approximately 85 percent of canvas height, heads have equal visual importance; broad compact silhouette, generous transparent margin on every edge. Faces remain clearly identifiable at 40 pixels; polished sculptural quality at 160 pixels. No thin-line stick figures.\nLighting: soft warm studio key from upper left, subtle rim light and realistic self-shading; no ground plane, no backdrop, no cast shadow outside the object.\nConstraints: real transparent RGBA background with clean alpha edges, no opaque rectangular background, no text, letters, logos, watermark, caption or border. No recognizable celebrity likeness, no theatrical masks, no laurel wreath, trophy or star award. One icon only."
+    }
+  },
+  "integration": "Gemeinsame GenreArtwork-Bildzuordnung: Themenkarten, Kategorieauswahl und sonstige vorhandene Verwendungen. Große Motive mit object-fit: contain, Auswahlminiaturen mit 40 × 40 Pixeln. Dekorative Bilder mit leerem alt; Kategoriennamen bleiben in Text und ARIA erhalten.",
+  "verification": "193 bestehende Logik-/Datenbanktests und Produktions-Build erfolgreich. Drei gezielte Browserfälle erfolgreich: Chromium bei 1440 und 320 Pixeln, WebKit bei 320 Pixeln. Große Themenkarten und 40-Pixel-Auswahlbilder visuell geprüft; Bilder vollständig geladen, keine horizontale Überbreite und Axe ohne Befund. Kategorieauswahl über Neuladen erhalten. Beide PNGs im Offline-Cache; echtes Offline-Neuladen in Chromium, Offline-Fortsetzung in WebKit geprüft. Offline-Paket film-5ebf95afc9f3 mit 46 Cache-Einträgen. Keine Veränderungen an Fragen, Lernständen oder Serververträgen."
+}
