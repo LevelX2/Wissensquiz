@@ -792,6 +792,7 @@ test("Mobile Bedienung bei 390 und 320 Pixeln ohne horizontalen Überlauf", asyn
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".feedback")).toBeVisible();
+  await expect(page.locator(".answer-review")).not.toHaveAttribute("open");
 });
 test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
   page,

@@ -68,7 +68,11 @@ export function QuestionScreen({
   const [remaining, setRemaining] = useState(limit);
   const [ready, setReady] = useState(false);
   const [revealing, setRevealing] = useState(false);
-  const showReveal = !!event?.dontKnow && revealing && !collected;
+  const showReveal =
+    !!event &&
+    (event.answerId !== null || !!event.dontKnow) &&
+    revealing &&
+    !collected;
   const start = useRef<{ wall: number; mono: number } | null>(null);
   const locked = useRef(false);
   const chooseRef = useRef<(choice: AnswerChoice) => void>(() => {});
@@ -80,8 +84,7 @@ export function QuestionScreen({
     if (locked.current || event || !ready || round.status !== "active") return;
     locked.current = true;
     if (choice !== null) unlockSound(state.settings);
-    if (!collected && choice !== null && typeof choice === "object")
-      setRevealing(true);
+    if (!collected && choice !== null) setRevealing(true);
     const ms = start.current ? elapsed(start.current) : 0;
     const result = onAnswer
       ? await onAnswer(choice, ms)
@@ -398,12 +401,14 @@ export function QuestionScreen({
           <div ref={feedback} tabIndex={-1} className="feedback" role="status">
             {showReveal ? (
               <div className="solution-reveal">
-                <span className="eyebrow">DIE RICHTIGE ANTWORT</span>
-                <p>
-                  <span aria-hidden="true">✓</span>{" "}
-                  {q.answers.find((a) => a.id === q.correctId)!.text}
-                </p>
-                <span>Keine Ahnung gewählt · als falsch gewertet</span>
+                {answerOptions}
+                <span>
+                  {event.dontKnow
+                    ? "Keine Ahnung gewählt · als falsch gewertet"
+                    : event.correct
+                      ? "Richtig gewählt"
+                      : "Falsch gewählt · die richtige Antwort ist grün"}
+                </span>
               </div>
             ) : (
               <>

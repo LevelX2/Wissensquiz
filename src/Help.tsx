@@ -106,9 +106,12 @@ export function Help() {
         <summary>Was passiert bei „Keine Ahnung“?</summary>
         <p>
           Wähle „Keine Ahnung“, wenn Du keine Antwort weißt und bewusst nicht
-          raten möchtest. Zuerst siehst Du kurz nur die richtige Lösung, sanft
-          hervorgehoben. Danach folgen die normale Erklärung und der Merksatz.
-          Keine falsche Antwort wird als Deine Wahl markiert.
+          raten möchtest. Wie bei einer gewählten Antwort siehst Du alle vier
+          Möglichkeiten für 1,1 Sekunden. Die richtige Lösung ist grün mit
+          Häkchen markiert und sanft hervorgehoben. Danach folgen die Erklärung
+          und der Merksatz. Über „Alle Antworten ansehen“ kannst Du die
+          Möglichkeiten wieder öffnen. Keine falsche Antwort wird als Deine Wahl
+          markiert.
         </p>
         <p>
           Wenn Du „Lösungen nach der Runde“ gewählt hast, siehst Du auch bei

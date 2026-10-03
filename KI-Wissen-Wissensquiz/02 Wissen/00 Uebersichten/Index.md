@@ -62,6 +62,7 @@
 - [Filmkarriere, steigende Level, Leistungs-XP und erhaltene Altstände](../../../docs/Filmkarriere-und-XP.md)
 - [Modusvorschlag und Zeitkonto: alle abgeschlossenen Läufe einzeln in den Rekordlisten](../../../docs/Endlos-Rekord-Konzept.md)
 - [Keine Ahnung: bewusste Antwortwahl und Hervorhebung der Lösung](../../../docs/Lernregeln.md#keine-ahnung-als-antwortoption)
+- [Einheitliche Antwortauflösung: vier Antworten für 1,1 Sekunden, richtige Lösung grün und falsche Auswahl rot](../../../docs/Lernregeln.md#direkt-sichtbare-antwortfarben)
 - [Additive Fragenbereiche, Filmreise, freie Modi und Bekanntheitsgruppen](../../../docs/Spielmodi-und-Bekanntheit.md)
 - [Konten, private Spielstände, persönliche Rekorde und Spielervergleich](../../../docs/Konten-und-Spielstaende.md)
 - [Öffentliche Bestenliste und Gastaktivität der letzten sieben Tage](../../../docs/Bestenliste-und-Gastaktivitaet.md)

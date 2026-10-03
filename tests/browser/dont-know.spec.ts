@@ -96,7 +96,7 @@ async function prepare(page: Page, mode: Mode = "ueben") {
 }
 
 for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
-  test(`Keine Ahnung in ${mode}: nur die Lösung hervorheben, falsch werten und im Rückblick erhalten`, async ({
+  test(`Keine Ahnung in ${mode}: vier Antworten gleich lang zeigen, Lösung hervorheben und falsch werten`, async ({
     page,
     browserName,
   }, info) => {
@@ -113,13 +113,21 @@ for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
     await unknown.focus();
     await page.keyboard.press("Enter");
     await expect(page.locator(".solution-reveal")).toBeVisible();
-    await expect(page.locator(".solution-reveal p")).toContainText(
+    await expect(
+      page.locator(".solution-reveal .answer.correct"),
+    ).toContainText(
       round.questions[0].answers.find(
         (a) => a.id === round.questions[0].correctId,
       )!.text,
     );
     await expect(page.locator(".feedback")).toBeFocused();
-    await expect(page.locator(".answer")).toHaveCount(0);
+    await expect(page.locator(".answer")).toHaveCount(4);
+    await expect(page.locator(".answer.correct")).toBeVisible();
+    await expect(page.locator(".answer.wrong")).toHaveCount(0);
+    await expect(page.locator(".answer.correct")).toHaveCSS(
+      "background-color",
+      "rgb(227, 242, 231)",
+    );
     await expect(page.locator(".explanation")).toHaveCount(0);
     await expect(page.locator(".specific-feedback")).toHaveCount(0);
     await expect(page.locator(".feedback-actions")).toHaveCount(0);
@@ -138,6 +146,8 @@ for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
     });
     await page.clock.runFor(1000);
     await expect(page.locator(".solution-reveal")).toBeVisible();
+    await expect(page.locator(".answer")).toHaveCount(4);
+    await expect(page.locator(".feedback-actions")).toHaveCount(0);
     await page.clock.runFor(100);
     await expect(page.locator(".solution-reveal")).toHaveCount(0);
     await expect(page.locator(".chosen-answer")).toContainText("Keine Ahnung");
@@ -146,6 +156,7 @@ for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
     );
     await expect(page.locator(".explanation")).toBeVisible();
     await expect(page.locator(".feedback")).toBeFocused();
+    await expect(page.locator(".answer-review")).not.toHaveAttribute("open");
     await page.getByText("Alle Antworten ansehen", { exact: true }).click();
     await expect(page.locator(".answer.correct")).toHaveCount(1);
     await expect(page.locator(".answer.wrong")).toHaveCount(0);
@@ -171,8 +182,15 @@ for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
       await page.clock.runFor(50);
       await page
         .locator(".answer")
-        .filter({ hasText: q.answers.find((a) => a.id === q.correctId)!.text })
+        .filter({
+          has: page.getByText(
+            q.answers.find((a) => a.id === q.correctId)!.text,
+            { exact: true },
+          ),
+        })
         .click();
+      await expect(page.locator(".solution-reveal")).toBeVisible();
+      await page.clock.runFor(1100);
       await page
         .getByRole("button", {
           name:
@@ -224,7 +242,7 @@ test("Reduzierte Animationen zeigen die richtige Lösung ruhig und erhalten die 
   await expect(page.locator(".solution-reveal")).toBeVisible();
   expect(
     await page
-      .locator(".solution-reveal")
+      .locator(".solution-reveal .answer.correct")
       .evaluate((el) => getComputedStyle(el).animationName),
   ).toBe("none");
   await page.clock.runFor(1100);

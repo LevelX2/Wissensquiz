@@ -83,10 +83,47 @@ for (const viewport of [
       const selected = q.answers.find((a) =>
         i === 1 ? a.id !== q.correctId : a.id === q.correctId,
       )!;
-      await page.locator(".answer").filter({ hasText: selected.text }).click();
-      await expect(page.locator(".chosen-answer")).toContainText(selected.text);
+      const selectedButton = page.locator(".answer").filter({
+        has: page.getByText(selected.text, { exact: true }),
+      });
+      await expect(selectedButton).toBeEnabled();
+      await page.clock.pauseAt(
+        new Date((await page.evaluate(() => Date.now())) + 1000),
+      );
+      await selectedButton.click();
+      await expect(page.locator(".solution-reveal")).toBeVisible();
       await expect(page.locator(".feedback")).toBeFocused();
+      await expect(page.locator(".answer-review")).toHaveCount(0);
+      await expect(page.locator(".answer")).toHaveCount(4);
+      const correct = page.locator(".answer.correct");
+      await expect(correct).toBeVisible();
+      await expect(correct).toContainText(
+        q.answers.find((a) => a.id === q.correctId)!.text,
+      );
+      await expect(correct).toHaveCSS("background-color", "rgb(227, 242, 231)");
+      await expect(correct).toBeDisabled();
+      const wrong = page.locator(".answer.wrong");
+      await expect(wrong).toHaveCount(i === 1 ? 1 : 0);
+      if (i === 1) {
+        await expect(wrong).toBeVisible();
+        await expect(wrong).toContainText(selected.text);
+        await expect(wrong).toHaveCSS("background-color", "rgb(251, 229, 223)");
+        await expect(wrong).toBeDisabled();
+      }
+      await expect(page.locator(".feedback-actions")).toHaveCount(0);
+      await expect(page.locator(".explanation")).toHaveCount(0);
+      if (i < 2)
+        await page.screenshot({
+          path: `test-results/antwortphase-${i === 1 ? "falsch" : "richtig"}-${info.project.name}-${viewport.width}.png`,
+        });
+      await page.clock.runFor(1000);
+      await expect(page.locator(".solution-reveal")).toBeVisible();
+      await page.clock.runFor(100);
+      await expect(page.locator(".solution-reveal")).toHaveCount(0);
+      await expect(page.locator(".chosen-answer")).toContainText(selected.text);
       await expect(page.locator(".answer-review")).not.toHaveAttribute("open");
+      await expect(correct).not.toBeVisible();
+      await page.clock.resume();
       await visibleAction(page);
       expect(
         await page.evaluate(

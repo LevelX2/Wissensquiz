@@ -43,6 +43,8 @@ async function respond(page: Page, correct: boolean) {
     .filter({ has: page.getByText(a.text, { exact: true }) })
     .click();
   await expect(page.locator(".feedback")).toBeVisible();
+  await expect(page.locator(".solution-reveal")).toBeVisible();
+  await page.clock.runFor(1100);
 }
 test("Fehlerfrei sichert den ersten Fehler sofort, bleibt nach Neuladen und steht einzeln in allen Zeiträumen", async ({
   page,
