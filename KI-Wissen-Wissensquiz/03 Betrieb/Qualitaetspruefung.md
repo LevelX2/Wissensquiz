@@ -4,6 +4,8 @@ Stand: 03.10.2026. Diese Seite beschreibt den Prüfprozess; konkrete Zahlen geh�
 
 ## Aktueller Nachweis
 
+[Produktionsrollout vom 03.10.2026](../../docs/Speicher-und-Sync-Produktion.md): Version 42 mit nativem Status succeeded; vier Migrationen, vollständiger gemeinsamer Katalog und geprüfte private Sicherung. Zusammengeführter Stand mit 278 Tests und 143 unterschiedlichen erfolgreich abgedeckten Browserfällen; genaue Erstfehler und abschließender 18-Fälle-Nachweis im [Prüfbericht](../../docs/Pruefbericht.md).
+
 [Speicher-/Sync-Abnahme](../../docs/Speicher-und-Sync-Abnahme.md): nachfolgende lokale Eintragsmigration, vollständige Rekonstruktion, Rechte-/Wiederholungsprüfungen, native PostgreSQL-Belegung und Last mit 100 synthetischen Konten. [Betreiberablauf](../../docs/Speicher-und-Sync-Migration.md) und [Produktionsnachweis](../../docs/Speicher-und-Sync-Produktion.md) dokumentieren den inzwischen beauftragten Rollout, Sicherung und verbleibende Betreiberentscheidungen.
 
 [Abnahme der Strukturverbesserungen](../../docs/Strukturverbesserungen-Abnahme.md): aktueller Worktree, Paketabschlüsse und Schlussprüfungen. Die ursprüngliche [Strukturprüfung](../../docs/Strukturpruefung-2026-10-03.md) beschreibt die damaligen Befunde. Veröffentlichungsnachweise stehen in [Sites-Betrieb](../../docs/Sites-Betrieb.md), weitere datierte technische Nachweise im [Prüfbericht](../../docs/Pruefbericht.md).

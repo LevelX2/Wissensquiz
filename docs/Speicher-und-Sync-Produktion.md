@@ -1,6 +1,14 @@
 # Speicher- und Sync-Optimierung: Produktionsrollout
 
-Stand: 03.10.2026. Nach der lokalen Freigabe bis einschließlich `60ab29f` hat der Nutzer ausdrücklich „Dann Bitte produktiv setzen“ beauftragt. Datenbankmigrationen und öffentlicher Katalog sind erfolgreich eingerichtet; die Veröffentlichung der zusammengeführten App wird vorbereitet. Bestehende Supabase- und Sites-Projekt-IDs sowie der öffentliche Besucherzugriff bleiben erhalten.
+Stand: 03.10.2026. Nach der lokalen Freigabe bis einschließlich `60ab29f` hat der Nutzer ausdrücklich „Dann Bitte produktiv setzen“ beauftragt. Datenbankmigrationen und öffentlicher Katalog sind erfolgreich eingerichtet; die zusammengeführte App ist als **Sites-Version 42 produktiv veröffentlicht**. Bestehende Supabase- und Sites-Projekt-IDs sowie der öffentliche Besucherzugriff bleiben erhalten.
+
+## Veröffentlichung
+
+Am 03.10.2026 als **Sites-Version 42 produktiv veröffentlicht**, nativer Status `succeeded`, bestätigt um 12:57:24 Uhr Europe/Berlin. Öffentliche URL: https://wissensquiz-filmkosmos.levelx2.chatgpt.site. Quellcommit `06765cbbc39e15a8490249c360ec119a4d8f9916`, gespeicherte Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_21bc6f8f5c748191b83fd0ee4e9e04a3`, Deployment `appgdep_6ac0df81fce4819194701736f609063f`. Bestehende Sites-Projekt-ID, öffentlicher Besucherzugriff (`public`, Revision 2) und Supabase-Anbindung erhalten.
+
+Regulärer gebündelter Sites-Workflow mit eigenem Quellcheckout, normalem Fast-forward-Push des geprüften Quellcommits und exakt kopiertem finalem Build. Die Build-Kopie umfasst 58 Dateien und ist dateiweise SHA-256-identisch; das Paket enthält ausschließlich die statische Ausgabe und das Hostingmanifest. Keine privaten Sicherungen, Zugangsdaten oder Prüfarbeitsdateien im Archiv.
+
+Lokales gzip-Archiv: 31.255.460 Bytes, SHA-256 `86810cc5bfeddeb9c9f8e6294ea799566cc967313e305f7838119d48e2c0592a`. Separater nativer Archivnachweis: 39.956.480 Bytes, 59 Dateien, `sha256:13f5e4b1270931cfe66b2aa6ee264e47f999f7273908776cca723050e182a809`. Lokale Komprimat-/Tarbytes und der nativ gespeicherte Archivnachweis werden getrennt dokumentiert. Native Speicherung bestätigt den exakten Quellcommit; Deployment und anschließende Site-Metadaten bestätigen Version 42 und öffentlichen Zugriff. Native Browserübergabe angefordert; keine zusätzliche Live-Browser- oder physische Geräteprüfung.
 
 ## Quellstand und Sicherung
 
