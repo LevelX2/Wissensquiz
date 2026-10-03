@@ -50,7 +50,8 @@ export const questionSchema = z
     "Ungültige Antwort-IDs",
   );
 export type Question = z.infer<typeof questionSchema>;
-export type Mode = "entdecken" | "ueben" | "rekord" | "fehler";
+export type Mode =
+  "entdecken" | "ueben" | "rekord" | "fehler" | "fehlerfrei" | "zeitkonto";
 export type Difficulty = Question["difficulty"];
 export type SolutionDisplay = "question" | "round";
 export type QuestionSource = "film" | "awards" | "actors";
@@ -61,6 +62,7 @@ export interface RoundSetup {
   difficulties: Difficulty[];
   familiarities?: (1 | 2 | 3 | 4)[];
   sources?: QuestionSource[];
+  recordPreset?: "standard" | "custom";
 }
 export interface QuizFilters {
   genres: string[];
@@ -118,6 +120,15 @@ export interface Round {
   before: Record<string, Learning>; // New solo rounds keep their targets; legacy/duel rounds may hold the full map.
   solutionDisplay?: SolutionDisplay;
   duel?: { id: string; number: number };
+  recordPreset?: "standard" | "custom";
+  run?: {
+    version: 1;
+    pool: string[];
+    queue: string[];
+    cycle: number;
+    bankMs: number;
+    ended: boolean;
+  };
 }
 export interface Report {
   id: string;
@@ -140,6 +151,7 @@ export interface ImportReport {
 export interface State {
   schemaVersion: 1;
   questions: Question[];
+  bundledQuestionIds?: string[];
   rounds: Round[];
   events: AnswerEvent[];
   learning: Record<string, Learning>;
@@ -158,6 +170,9 @@ export interface State {
     allDifficulties?: boolean;
     roundSetup?: RoundSetup;
     solutionDisplay?: SolutionDisplay;
+    playGroup?: "learn" | "timed" | "duel";
+    lastLearningMode?: "entdecken" | "ueben" | "fehler";
+    lastTimedMode?: "rekord" | "fehlerfrei" | "zeitkonto";
   };
   experience: number;
   career?: { version: 1; legacyBonus: number };

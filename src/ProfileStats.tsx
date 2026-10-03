@@ -1,5 +1,6 @@
 import { hasAnswer, type State } from "./model";
 import { careerProgress } from "./career";
+import { isRecordMode } from "./recordModes";
 
 export function profileStats(state: State) {
   const answered = state.events.filter(hasAnswer);
@@ -14,7 +15,7 @@ export function profileStats(state: State) {
       ? Math.round((correct / answered.length) * 100)
       : null,
     recordRounds: state.rounds.filter(
-      (round) => round.mode === "rekord" && round.status === "completed",
+      (round) => isRecordMode(round.mode) && round.status === "completed",
     ).length,
     mastered: Object.values(state.learning).filter(
       (goal) => goal.status === "gefestigt",

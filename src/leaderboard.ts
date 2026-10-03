@@ -5,10 +5,17 @@ import {
   genreOf,
   genreLabel,
   roundDifficulties,
-  roundGenres,
   sourceLabels,
 } from "./filters";
 import type { Round, State } from "./model";
+import {
+  isRecordMode,
+  isEndlessMode,
+  modeNames,
+  inPeriod,
+  type RecordMode,
+  type RecordPeriod,
+} from "./recordModes";
 
 export const genreSelection = (r: Round) =>
   [
@@ -32,9 +39,14 @@ export const levelSelectionKey = (r: Round) =>
     ? JSON.stringify(canonicalFilters(r.filters).difficulties)
     : `historisch:${r.difficulty}`;
 export const categoryLabel = (r: Round) =>
-  `${roundGenres(r)} · ${roundDifficulties(r)} · ${r.questions.length} Fragen · Regel ${ruleLabel(r.ruleVersion)}${r.filters ? "" : " · frühere Themenauswahl"}`;
+  `${modeNames[r.mode]} · ${genreSelectionLabel(r)}${r.topic !== "Alle Themen" ? ` · ${r.topic}` : ""} · ${roundDifficulties(r)}${r.filters?.familiarities?.length ? ` · Filmgruppen ${r.filters.familiarities.join(" + ")}` : ""} · ${isEndlessMode(r.mode) ? "Endlos" : `${r.questions.length} Fragen`} · Regel ${ruleLabel(r.ruleVersion)}${r.filters ? "" : " · frühere Themenauswahl"}`;
 
-export function leaderboard(state: State) {
+export function leaderboard(
+  state: State,
+  mode?: RecordMode,
+  period: RecordPeriod = "all",
+  now = Date.now(),
+) {
   const groups = new Map<
     string,
     {
@@ -56,7 +68,13 @@ export function leaderboard(state: State) {
     byRound.set(event.roundId, events);
   }
   for (const round of state.rounds) {
-    if (round.mode !== "rekord" || round.status !== "completed") continue;
+    if (
+      !isRecordMode(round.mode) ||
+      round.status !== "completed" ||
+      (mode && round.mode !== mode) ||
+      !inPeriod(round.finishedAt ?? round.startedAt, period, now)
+    )
+      continue;
     const key = recordKey(round);
     const group = groups.get(key) ?? { key, round, entries: [] };
     const events = byRound.get(round.id) ?? [];

@@ -29,6 +29,7 @@ export default defineConfig({
         "actors-package.spec.ts",
         "question-organization.spec.ts",
         "question-sources.spec.ts",
+        "record-modes.spec.ts",
       ],
       use: { ...devices["iPhone 13"] },
     },

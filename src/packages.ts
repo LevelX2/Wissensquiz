@@ -49,6 +49,7 @@ export function hasPackage(state: State, filename: string) {
 }
 // Apply inside the IndexedDB transaction: concurrent tabs must not import twice.
 export function addPackages(state: State, incoming: PackageContent[]) {
+  state.bundledQuestionIds ??= [];
   // Freeze rights from the old catalog before adding earlier/new film groups.
   retainJourneyUnlocks(state);
   for (const pkg of incoming) {
@@ -64,4 +65,17 @@ export function addPackages(state: State, incoming: PackageContent[]) {
   }
   applyCategoryTags(state.questions);
   addFilmFacts(state.questions);
+  if (incoming.length) {
+    const official = incoming
+      .filter((pkg) => packages.some((p) => p.filename === pkg.filename))
+      .flatMap((pkg) => importCsv(pkg.text, [], pkg.filename).questions);
+    addFilmFacts(official);
+    const existing = new Set(state.questions.map((q) => q.id));
+    state.bundledQuestionIds = [
+      ...new Set([
+        ...(state.bundledQuestionIds ?? []),
+        ...official.map((q) => q.id),
+      ]),
+    ].filter((id) => existing.has(id));
+  }
 }

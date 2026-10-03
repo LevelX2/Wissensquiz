@@ -10,7 +10,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.goto("/");
   const start = page.getByRole("button", { name: "Losspielen" });
   await expect(start).toBeEnabled();
-  await expect(page.locator(".mode-artwork")).toHaveCount(4);
+  await expect(page.locator(".mode-artwork")).toHaveCount(2);
   for (const img of await page.locator(".mode-artwork").all())
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))
@@ -60,13 +60,16 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
   await expect(page.locator(".path-progress .genre-thumbnail")).toHaveCount(12);
   await expect(page.locator(".path-progress .genre-icon")).toHaveCount(0);
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(guide).toContainText("zufällige Fragen ohne Zeitdruck");
   await more.click();
   await expect(
     guide.getByText("Zufällige Fragen:", { exact: true }),
   ).toBeVisible();
-  await page.getByRole("button", { name: /Rekordrunde 30 Sekunden/ }).click();
+  await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+  await page.getByRole("button", { name: /^10 Fragen 30 Sekunden/ }).click();
+  await page.getByLabel(/Eigene Auswahl ·/).check();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await expect(guide).toContainText("Pro Frage hast Du 30 Sekunden");
   await more.click();
@@ -74,6 +77,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     guide.getByText("Die Uhr läuft beim Tabwechsel weiter.", { exact: true }),
   ).toBeVisible();
   await expect(guide).toContainText("Neuladen beendet die Rekordrunde");
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(guide.locator(".round-guide-details")).not.toBeVisible();
   await expect(
@@ -89,6 +93,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await expect(page.locator("#round-summary")).toContainText(
     "Freie Auswahl: Schwer",
   );
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Filmreise Filmwelten/ }).click();
   await expect(
     page.getByRole("button", { name: /Filmreise Filmwelten/ }),
@@ -115,7 +120,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     "Schwierigkeit: Leicht",
   );
   const stored = await readStoredState(page);
-  expect(stored.rounds.at(-1)!.topic).toBe("Classics");
+  expect(stored.rounds.at(-1)!.topic).toBe("Filmfragen + Classics");
   expect(
     stored.rounds
       .at(-1)!

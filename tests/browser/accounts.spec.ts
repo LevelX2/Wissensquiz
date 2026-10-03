@@ -7,6 +7,20 @@ import { startRound, answer, complete } from "../../src/engine";
 // Auth HTTP responses must remain interceptable after reload; offline behavior
 // is covered separately against the real service worker.
 test.use({ serviceWorkers: "block" });
+async function comparePlayers(page: Page) {
+  await page.getByRole("button", { name: "Karriere", exact: true }).click();
+  const filtered = page.getByRole("button", {
+    name: "Spielervergleich mit Filtern",
+    exact: true,
+  });
+  if (await filtered.isVisible()) await filtered.click();
+}
+async function compareRecords(page: Page) {
+  await page.getByRole("button", { name: "Rekordspiele", exact: true }).click();
+  await page
+    .getByRole("button", { name: "Gemeinsame Rangliste", exact: true })
+    .click();
+}
 const alice = "11111111-1111-4111-8111-111111111111",
   bob = "22222222-2222-4222-8222-222222222222";
 const user = (id = alice) => ({
@@ -114,7 +128,7 @@ test("die öffentliche Bestenliste zeigt Gästen Level und Spielbilanz, Gasttage
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await page.getByRole("button", { name: "Bestenliste", exact: true }).click();
+  await page.getByRole("button", { name: "Karriere", exact: true }).click();
   await expect(
     page.getByRole("list", { name: "Spielerrangliste" }),
   ).toContainText("Level 10 · Cineast");
@@ -210,7 +224,7 @@ test("öffentliche Spielerlisten wechseln begrenzte Seiten und markieren nach An
   await page.goto("/");
   await login(page);
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await page.getByRole("button", { name: "Bestenliste", exact: true }).click();
+  await page.getByRole("button", { name: "Karriere", exact: true }).click();
   await expect(page.locator(".leaderboard-list > .is-mine")).toContainText(
     "Alice (Du)",
   );
@@ -539,7 +553,7 @@ test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehme
     changes.push(participating);
     return r.fulfill({ json: participating });
   });
-  await page.route("**/rest/v1/rpc/quiz_score_categories", (r) =>
+  await page.route("**/rest/v1/rpc/quiz_record_categories", (r) =>
     r.fulfill({
       json: [
         { ...category, category: "horror-5", genres: ["Horror"] },
@@ -566,13 +580,14 @@ test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehme
       ],
     });
   });
-  await page.route("**/rest/v1/rpc/quiz_rankings", (r) =>
+  await page.route("**/rest/v1/rpc/quiz_record_runs", (r) =>
     r.fulfill({
       json: [
         {
           player_name: "Bob",
           points: 750,
           correct: 5,
+          answers: 5,
           elapsed_ms: 25000,
           finished_at: 1700000010000,
           place: 1,
@@ -585,6 +600,7 @@ test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehme
                 player_name: "Alice",
                 points: 700,
                 correct: 5,
+                answers: 5,
                 elapsed_ms: 50000,
                 finished_at: 1700000010000,
                 place: 2,
@@ -630,44 +646,24 @@ test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehme
   ).toHaveCount(0);
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await expect(
-    page.getByRole("button", { name: "Meine Rekorde", exact: true }),
+    page.getByRole("button", { name: "Meine Läufe", exact: true }),
   ).toHaveAttribute("aria-pressed", "true");
   expect(playerQueries).toEqual([]);
-  await page
-    .getByRole("button", { name: "Spielervergleich", exact: true })
-    .click();
+  await comparePlayers(page);
   await expect
     .poll(() => playerQueries.at(-1))
-    .toMatchObject({ sort_by: "correct" });
-  await page.getByRole("button", { name: "Rekordrunden", exact: true }).click();
-  await expect(
-    page.getByLabel("Gemeinsames Genre", { exact: true }),
-  ).toHaveValue('["Science-Fiction"]');
-  await expect(
-    page.getByLabel("Gemeinsame Kategorie", { exact: true }),
-  ).toHaveValue(category.category);
+    .toMatchObject({ sort_by: "experience" });
+  await compareRecords(page);
   await page
-    .getByLabel("Gemeinsames Genre", { exact: true })
-    .selectOption('["Horror"]');
-  await expect(
-    page.getByLabel("Gemeinsame Kategorie", { exact: true }),
-  ).toHaveValue("horror-5");
-  await page
-    .getByLabel("Gemeinsames Genre", { exact: true })
-    .selectOption('["Science-Fiction"]');
-  await page
-    .getByLabel("Gemeinsame Kategorie", { exact: true })
+    .getByLabel("Gemeinsame Vergleichskategorie", { exact: true })
     .selectOption(category.category);
   await expect(page.getByText("Platz 1 · Bob", { exact: true })).toBeVisible();
   await expect(
-    page.locator(".shared-entries .career-badge").first(),
+    page.locator(".leaderboard-list .career-badge").first(),
   ).toContainText("Level 10 · Cineast");
   await expect(
-    page.getByText("Platz 2 · Alice (Du)", { exact: true }),
+    page.getByText("Platz 2 · Alice · Du", { exact: true }),
   ).toBeVisible();
-  await expect(page.locator(".shared-entries > .is-mine")).toContainText(
-    "Alice (Du)",
-  );
   await page.setViewportSize({ width: 320, height: 800 });
   expect(
     await page.evaluate(
@@ -682,10 +678,10 @@ test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehme
     path: "test-results/rekordvergleich-320.png",
     fullPage: true,
   });
-  await page
-    .getByRole("button", { name: "Meine Rekorde", exact: true })
-    .click();
-  await expect(page.locator(".record-best > strong")).toHaveText("790 Punkte");
+  await page.getByRole("button", { name: "Meine Läufe", exact: true }).click();
+  await expect(page.locator(".leaderboard-entry strong")).toHaveText(
+    "Platz 1 · 790 Punkte",
+  );
   expect(changes).toEqual([]);
   await page.setViewportSize({ width: 320, height: 800 });
   expect(
@@ -698,12 +694,8 @@ test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehme
       .violations,
   ).toEqual([]);
   await page.screenshot({ path: "test-results/highscores-320.png" });
-  await page
-    .getByRole("button", { name: "Spielervergleich", exact: true })
-    .click();
-  await page
-    .getByRole("button", { name: "Alle Spielmodi", exact: true })
-    .click();
+  await comparePlayers(page);
+  await comparePlayers(page);
   await expect(
     page.getByText(
       "12 Runden · 85 von 100 Antworten richtig · 85 % Trefferquote",
@@ -770,18 +762,18 @@ test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehme
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
       .violations,
   ).toEqual([]);
-  await page.getByRole("button", { name: "Rekordrunden", exact: true }).click();
-  await page.route("**/rest/v1/rpc/quiz_rankings", (r) =>
+  await compareRecords(page);
+  await page.route("**/rest/v1/rpc/quiz_record_runs", (r) =>
     r.fulfill({ status: 503, json: { message: "offline" } }),
   );
-  await page.getByRole("button", { name: "Bestenliste aktualisieren" }).click();
+  await page.getByRole("button", { name: "Rangliste erneut laden" }).click();
   await expect(
     page.getByRole("status").filter({ hasText: "Ergebnisse konnten nicht" }),
   ).toBeVisible();
-  await page
-    .getByRole("button", { name: "Meine Rekorde", exact: true })
-    .click();
-  await expect(page.locator(".record-best > strong")).toHaveText("790 Punkte");
+  await page.getByRole("button", { name: "Meine Läufe", exact: true }).click();
+  await expect(page.locator(".leaderboard-entry strong")).toHaveText(
+    "Platz 1 · 790 Punkte",
+  );
 });
 test("Bestätigungsansicht erklärt die Aktivierung und verbraucht den Link erst nach ausdrücklichem Klick", async ({
   page,
@@ -1218,10 +1210,10 @@ test("Ranglisten beenden hängende Anfragen und lassen sich erneut laden", async
     question_count: 5,
     rule_version: "1",
   };
-  await page.route("**/rest/v1/rpc/quiz_score_categories", (r) => {
+  await page.route("**/rest/v1/rpc/quiz_record_categories", (r) => {
     if (!hangCategories) return r.fulfill({ json: [category] });
   });
-  await page.route("**/rest/v1/rpc/quiz_rankings", (r) => {
+  await page.route("**/rest/v1/rpc/quiz_record_runs", (r) => {
     if (!hangEntries) return r.fulfill({ json: [] });
   });
   await page.route("**/rest/v1/rpc/quiz_players", (r) => {
@@ -1230,30 +1222,26 @@ test("Ranglisten beenden hängende Anfragen und lassen sich erneut laden", async
   await page.goto("/");
   await login(page);
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await page
-    .getByRole("button", { name: "Spielervergleich", exact: true })
-    .click();
-  await page.getByRole("button", { name: "Rekordrunden", exact: true }).click();
-  await expect(page.getByText("Ergebnisse werden geladen …")).toBeVisible();
+  await comparePlayers(page);
+  await compareRecords(page);
+  await expect(page.getByText("Rekordläufe werden geladen …")).toBeVisible();
   await page.clock.runFor(10001);
   await expect(
-    page.getByText(/Die gemeinsame Bestenliste ist gerade nicht erreichbar/),
+    page.getByText(/Die Ergebnisse konnten nicht geladen werden/),
   ).toBeVisible();
   hangCategories = false;
-  await page.getByRole("button", { name: "Bestenliste aktualisieren" }).click();
-  await expect(page.getByLabel("Gemeinsame Kategorie")).toBeVisible();
+  await page.getByRole("button", { name: "Rangliste erneut laden" }).click();
+  await expect(page.getByLabel("Gemeinsame Vergleichskategorie")).toBeVisible();
   await page.clock.runFor(10001);
   await expect(
     page.getByText(/Die Ergebnisse konnten nicht geladen werden/),
   ).toBeVisible();
   hangEntries = false;
-  await page.getByRole("button", { name: "Bestenliste aktualisieren" }).click();
+  await page.getByRole("button", { name: "Rangliste erneut laden" }).click();
   await expect(
-    page.getByText("Noch keine Rekordrunden in dieser Auswahl."),
+    page.getByText("Noch keine abgeschlossenen Läufe in dieser Auswahl."),
   ).toBeVisible();
-  await page
-    .getByRole("button", { name: "Alle Spielmodi", exact: true })
-    .click();
+  await comparePlayers(page);
   await expect(page.getByText("Spielerwerte werden geladen …")).toBeVisible();
   await page.clock.runFor(10001);
   await expect(
@@ -1302,9 +1290,7 @@ test("das eigene Konto ist allein und ohne Runden sichtbar; Quote und Filter erk
   await page.goto("/");
   await login(page);
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await page
-    .getByRole("button", { name: "Spielervergleich", exact: true })
-    .click();
+  await comparePlayers(page);
   await expect(page.getByText("Platz 1 · Alice (Du)")).toBeVisible();
   await expect(
     page.getByText("Du bist bisher der einzige Spieler in dieser Auswahl."),
@@ -1394,9 +1380,7 @@ for (const failure of [
     await page.goto("/");
     await login(page);
     await page.getByRole("button", { name: "Highscores", exact: true }).click();
-    await page
-      .getByRole("button", { name: "Spielervergleich", exact: true })
-      .click();
+    await comparePlayers(page);
     await expect(
       page.getByRole("status").filter({ hasText: failure.text }),
     ).toBeVisible();

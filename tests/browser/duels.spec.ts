@@ -132,11 +132,9 @@ async function server() {
     ).toBeEnabled();
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
     await expect(
-      page.getByRole("button", { name: /Duell · Gegen andere spielen/ }),
+      page.getByRole("button", { name: "Duell", exact: true }),
     ).toBeEnabled();
-    await page
-      .getByRole("button", { name: /Duell · Gegen andere spielen/ })
-      .click();
+    await page.getByRole("button", { name: "Duell", exact: true }).click();
     await expect(
       page.getByRole("heading", { name: "Deine Duelle" }),
     ).toBeVisible();
@@ -267,6 +265,7 @@ test("gesammelte Sololösungen bleiben neutral, lassen Pausen zu und erscheinen 
   await page.clock.install({ time: new Date("2026-10-02T12:00:00Z") });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await page
     .getByRole("radio", { name: "Nach der Runde", exact: true })
@@ -356,11 +355,9 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
     );
     await page.reload();
     await expect(
-      page.getByRole("button", { name: /Duell · Gegen andere spielen/ }),
+      page.getByRole("button", { name: "Duell", exact: true }),
     ).toBeEnabled();
-    await page
-      .getByRole("button", { name: /Duell · Gegen andere spielen/ })
-      .click();
+    await page.getByRole("button", { name: "Duell", exact: true }).click();
     await page
       .getByRole("button", { name: "Weiterspielen", exact: false })
       .click();

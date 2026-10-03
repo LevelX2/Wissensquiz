@@ -30,21 +30,24 @@ export function roundSummary(state: State, round: Round) {
     bestStreak = Math.max(bestStreak, streak);
   }
   const genres = new Map<string, { total: number; correct: number }>();
-  for (const q of round.questions) {
+  for (const [i, q] of round.questions.entries()) {
     const genre = genreOf(q);
     const tally = genres.get(genre) ?? { total: 0, correct: 0 };
     tally.total++;
-    if (events.some((e) => e.questionId === q.id && e.correct)) tally.correct++;
+    if (byId.get(round.events[i])?.correct) tally.correct++;
     genres.set(genre, tally);
   }
   const correct = events.filter((e) => e.correct).length;
-  const improved = round.questions.filter(
+  const goals = [
+    ...new Map(round.questions.map((q) => [q.knowledgeId, q])).values(),
+  ];
+  const improved = goals.filter(
     (q) =>
       after[q.knowledgeId]?.status === "geübt" &&
       (!round.before[q.knowledgeId] ||
         round.before[q.knowledgeId].status === "entdeckt"),
   ).length;
-  const secured = round.questions.filter(
+  const secured = goals.filter(
     (q) =>
       after[q.knowledgeId]?.status === "gefestigt" &&
       round.before[q.knowledgeId]?.status !== "gefestigt",
@@ -61,10 +64,13 @@ export function roundSummary(state: State, round: Round) {
     dontKnow: events.filter((e) => e.dontKnow).length,
     timedOut: events.filter((e) => !e.correct && !hasAnswer(e)).length,
     guessed: events.filter((e) => e.guessed).length,
-    recovered: events.filter(
-      (e) => e.correct && !e.guessed && mistakesBefore.has(e.knowledgeId),
-    ).length,
-    newGoals: round.questions.filter((q) => !round.before[q.knowledgeId])
-      .length,
+    recovered: new Set(
+      events
+        .filter(
+          (e) => e.correct && !e.guessed && mistakesBefore.has(e.knowledgeId),
+        )
+        .map((e) => e.knowledgeId),
+    ).size,
+    newGoals: goals.filter((q) => !round.before[q.knowledgeId]).length,
   };
 }

@@ -14,6 +14,7 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   ).toHaveAttribute("aria-pressed", "true");
   await expect(page.getByRole("button", { name: "Optionen" })).toHaveCount(0);
   await expect(page.getByRole("navigation").getByRole("button")).toHaveCount(5);
+  await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
     page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
@@ -43,9 +44,7 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
     page.getByRole("heading", { name: "Highscores", exact: true }),
   ).toBeVisible();
   await page.screenshot({ path: "test-results/highscores-navigation-320.png" });
-  await page
-    .getByRole("button", { name: "Spielervergleich", exact: true })
-    .click();
+  await page.getByRole("button", { name: "Duelle", exact: true }).click();
   await expect(page.getByText(/Melde Dich/)).toBeVisible();
   await page.getByRole("button", { name: "Im Profil anmelden" }).click();
   await expect(

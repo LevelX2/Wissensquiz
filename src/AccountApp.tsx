@@ -549,9 +549,10 @@ function AccountPanel({
               Mindestens zwölf Zeichen. Dein Spielername darf ein Pseudonym
               sein. Dein Spielername, Level, XP und zusammengefasste
               Spielerstatistik sind in der öffentlichen Bestenliste sichtbar,
-              auch für Gäste. Die einzelnen Rekordergebnisse stehen im
-              Spielervergleich für angemeldete Spieler. Die Teilnahme gehört zum
-              Quiz-Konto. E-Mail und privater Spielstand bleiben verborgen.
+              auch für Gäste. Einzelne Rekordläufe und die Duellrangliste sind
+              ebenfalls öffentlich; Deine Antworten und Duellhistorie bleiben
+              privat. Die Teilnahme gehört zum Quiz-Konto. E-Mail und privater
+              Spielstand bleiben verborgen.
             </p>
           )}
           <button className="primary" disabled={busy}>
@@ -600,8 +601,9 @@ function AccountPanel({
       <ProfileStats state={state} />
       <p className="tiny muted">
         Dein Spielername und Deine Leistungswerte erscheinen automatisch in der
-        öffentlichen Bestenliste, auch für Gäste. E-Mail und privater Spielstand
-        bleiben verborgen.
+        öffentlichen Bestenliste, auch für Gäste. Dazu gehören einzelne
+        Rekordläufe und die Duellrangliste. E-Mail, Einzelantworten und privater
+        Spielstand bleiben verborgen.
       </p>
       <details className="account-help">
         <summary>Konto & Speicherung</summary>
