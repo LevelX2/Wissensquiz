@@ -1,6 +1,6 @@
 # Qualitätsprüfung
 
-Version 47: 301 Tests in 51 Dateien, TypeScript und Produktionsbuild erfolgreich. Lokale/serverseitige Entfernung früherer Sonderwertungen, Erhalt gültiger aktueller Rekorde, unveränderte private Spielstände und XP sowie Schutz vor Wiederauftauchen alter Wertungen geprüft. 25 unterschiedliche Browserfälle in Chromium/WebKit erfolgreich; drei anfänglich veraltete Testannahmen gezielt korrigiert und erfolgreich wiederholt, Produktbuild unverändert. Alle 63 Produktionsdateien bytegleich. Details und Veröffentlichung unter [Prüfbericht](../../docs/Pruefbericht.md) und [Sites-Betrieb](../../docs/Sites-Betrieb.md).
+Version 47 am 03.10.2026 um 18:32:06 Uhr Europe/Berlin nativ `succeeded`, in `main` und GitHub: 301 Tests in 51 Dateien, TypeScript und Produktionsbuild erfolgreich. Lokale/serverseitige Entfernung früherer Sonderwertungen, Erhalt gültiger aktueller Rekorde, unveränderte private Spielstände und XP sowie Schutz vor Wiederauftauchen alter Wertungen geprüft. 25 unterschiedliche Browserfälle in Chromium/WebKit erfolgreich; drei anfänglich veraltete Testannahmen gezielt korrigiert und erfolgreich wiederholt, Produktbuild unverändert. Alle 63 Produktionsdateien bytegleich. Details und Veröffentlichung unter [Prüfbericht](../../docs/Pruefbericht.md) und [Sites-Betrieb](../../docs/Sites-Betrieb.md).
 
 ## Prüfung Version 46, 03.10.2026
 

@@ -1,6 +1,6 @@
 # Rekordmodi und Zeitranglisten
 
-Stand: 03.10.2026. **Version 47 entfernt die früheren Sonderwertungen auf ausdrücklichen Nutzerauftrag; lokal geprüft und zur Veröffentlichung vorbereitet.** Die Serverbereinigung ist angewendet. Frühere Erhaltungsaussagen aus Version 46 sind damit abgelöst. Die nachfolgende Auswahl- und Archivregel ist als Version 46 am 03.10.2026 um 18:12:06 Uhr Europe/Berlin öffentlich veröffentlicht, in `main` integriert und mit GitHub synchronisiert; tatsächlichen Veröffentlichungsnachweis führt [Sites-Betrieb](Sites-Betrieb.md). Ältere Veröffentlichungen und ihre Prüfungen bleiben dort erhalten.
+Stand: 03.10.2026. **Version 47 entfernt die früheren Sonderwertungen auf ausdrücklichen Nutzerauftrag; am 03.10.2026 um 18:32:06 Uhr Europe/Berlin öffentlich veröffentlicht, in `main` integriert und mit GitHub synchronisiert.** Die Serverbereinigung ist angewendet. Frühere Erhaltungsaussagen aus Version 46 sind damit abgelöst. Die nachfolgende Auswahl- und Archivregel ist als Version 46 am 03.10.2026 um 18:12:06 Uhr Europe/Berlin öffentlich veröffentlicht, in `main` integriert und mit GitHub synchronisiert; tatsächlichen Veröffentlichungsnachweis führt [Sites-Betrieb](Sites-Betrieb.md). Ältere Veröffentlichungen und ihre Prüfungen bleiben dort erhalten.
 
 ## Einstieg und Regeln
 
