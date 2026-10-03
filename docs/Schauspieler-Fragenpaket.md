@@ -1,6 +1,6 @@
 # Schauspieler: Fragenpaket für 100 Personen
 
-Stand: 03.10.2026. **800 Fragen für 50 Schauspieler und 50 Schauspielerinnen**, mit jeweils zwei Fragen pro Person und Schwierigkeitsstufe. Das am 02.10.2026 vorbereitete Paket ist auf den anschließenden Veröffentlichungsauftrag als eigene App-Kategorie **Schauspieler** eingebaut. Die Veröffentlichung wird im [Sites-Betrieb](Sites-Betrieb.md) nachgewiesen.
+Stand: 03.10.2026. **800 Fragen für 50 Schauspieler und 50 Schauspielerinnen**, mit jeweils zwei Fragen pro Person und Schwierigkeitsstufe. Das am 02.10.2026 vorbereitete Paket ist auf den anschließenden Veröffentlichungsauftrag als eigene App-Kategorie **Schauspieler** eingebaut. Als **Sites-Version 37** am 03.10.2026 erfolgreich veröffentlicht, nativer Status `succeeded`. [Veröffentlichungsnachweis](Sites-Betrieb.md).
 
 | Stufe im Paket | Pro Person | Insgesamt |
 | --- | ---: | ---: |
