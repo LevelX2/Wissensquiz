@@ -33,6 +33,8 @@ export default defineConfig({
         "response-performance.spec.ts",
         "question-sources.spec.ts",
         "journey-areas.spec.ts",
+
+        "compact-home.spec.ts",
       ],
       use: { ...devices["iPhone 13"] },
     },

@@ -13,6 +13,7 @@ import {
   sourceLabels,
 } from "./filters";
 import { GenreArtwork } from "./Icons";
+import { SetupSection } from "./SetupSection";
 import { RoundGuide } from "./RoundGuide";
 import { filmCategories } from "./categories";
 import { LearningPath } from "./LearningPathPanel";
@@ -88,6 +89,20 @@ export function PlaySetup({
     },
     () => 0.5,
   );
+  const genreSummary =
+    filters.genres.length === genres.length
+      ? "Alle Genres"
+      : filters.genres.length > 2
+        ? `${filters.genres.length} Genres`
+        : filters.genres.map(genreLabel).join(" + ") || "Keine Genres";
+  const difficultySummary =
+    selectedDifficulties.length === difficulties.length
+      ? "Alle Stufen"
+      : selectedDifficulties.map(difficultyLabel).join(" + ") || "Keine Stufe";
+  const familiaritySummary =
+    selectedFamiliarities.length === familiarities.length
+      ? "Alle Filmgruppen"
+      : `Filmgruppen ${selectedFamiliarities.join(" + ") || "keine"}`;
   return (
     <>
       <header className="play-heading">
@@ -100,65 +115,68 @@ export function PlaySetup({
         <div className="section-title">
           <h2>Wie möchtest Du spielen?</h2>
         </div>
-        <div className="mode-grid">
-          {(["entdecken", "ueben", "rekord", "fehler"] as Mode[]).map(
-            (m, i) => (
-              <button
-                key={m}
-                className={`mode-card mode-${m} ${mode === m ? "active" : ""}`}
-                aria-pressed={mode === m}
-                disabled={busy}
-                onClick={() =>
-                  void changeSetup({
-                    mode: m,
-                  })
-                }
-              >
-                <img
-                  className="mode-artwork"
-                  src={m === "fehler" ? "/modes/fehler.svg" : `/modes/${m}.png`}
-                  alt=""
-                  width={88}
-                  height={88}
-                  decoding="async"
-                />
-                <strong>{modeNames[m]}</strong>
-                <small>
-                  {
-                    [
-                      "Filmwelten und Stufen freischalten",
-                      "Alle Stufen frei kombinieren",
-                      "30 Sekunden. Dein persönlicher Rekord.",
-                      "Offene Fehler gezielt wiederholen",
-                    ][i]
+        <SetupSection title="Spielmodus" selection={modeNames[mode]}>
+          <div className="mode-grid">
+            {(["entdecken", "ueben", "rekord", "fehler"] as Mode[]).map(
+              (m, i) => (
+                <button
+                  key={m}
+                  className={`mode-card mode-${m} ${mode === m ? "active" : ""}`}
+                  aria-pressed={mode === m}
+                  disabled={busy}
+                  onClick={() =>
+                    void changeSetup({
+                      mode: m,
+                    })
                   }
-                </small>
-                {mode === m && (
-                  <span className="mode-check" aria-hidden="true">
-                    ✓
-                  </span>
-                )}
-              </button>
-            ),
-          )}
-          <button
-            className="mode-card mode-duell"
-            disabled={busy || !!active}
-            onClick={() => void nav("duels")}
-          >
-            <img
-              className="mode-artwork"
-              src="/modes/duell.svg"
-              alt=""
-              width={88}
-              height={88}
-              decoding="async"
-            />
-            <strong>Duell</strong>
-            <small>Gegen andere spielen · 3 × 10 Fragen</small>
-          </button>
-        </div>
-
+                >
+                  <img
+                    className="mode-artwork"
+                    src={
+                      m === "fehler" ? "/modes/fehler.svg" : `/modes/${m}.png`
+                    }
+                    alt=""
+                    width={88}
+                    height={88}
+                    decoding="async"
+                  />
+                  <strong>{modeNames[m]}</strong>
+                  <small>
+                    {
+                      [
+                        "Filmwelten und Stufen freischalten",
+                        "Alle Stufen frei kombinieren",
+                        "30 Sekunden. Dein persönlicher Rekord.",
+                        "Offene Fehler gezielt wiederholen",
+                      ][i]
+                    }
+                  </small>
+                  {mode === m && (
+                    <span className="mode-check" aria-hidden="true">
+                      ✓
+                    </span>
+                  )}
+                </button>
+              ),
+            )}
+            <button
+              className="mode-card mode-duell"
+              disabled={busy || !!active}
+              onClick={() => void nav("duels")}
+            >
+              <img
+                className="mode-artwork"
+                src="/modes/duell.svg"
+                alt=""
+                width={88}
+                height={88}
+                decoding="async"
+              />
+              <strong>Duell</strong>
+              <small>Gegen andere spielen · 3 × 10 Fragen</small>
+            </button>
+          </div>
+        </SetupSection>
         <div className="round-start">
           <button
             className="primary"
@@ -238,100 +256,120 @@ export function PlaySetup({
         )}
 
         <div className="quiz-filters">
-          <fieldset disabled={busy}>
-            <legend>Fragenbereiche</legend>
-            <div className="filter-options">
-              {questionSources.map((source) => (
-                <label className="filter-choice" key={source}>
+          <SetupSection
+            title="Fragenbereiche"
+            selection={
+              selectedSources.map((s) => sourceLabels[s]).join(" + ") ||
+              "Keine Bereiche"
+            }
+          >
+            <fieldset disabled={busy}>
+              <legend>Fragenbereiche</legend>
+              <div className="filter-options">
+                {questionSources.map((source) => (
+                  <label className="filter-choice" key={source}>
+                    <input
+                      type="checkbox"
+                      checked={selectedSources.includes(source)}
+                      onChange={(e) =>
+                        void changeSetup({
+                          sources: e.target.checked
+                            ? [...selectedSources, source]
+                            : selectedSources.filter((s) => s !== source),
+                        })
+                      }
+                    />
+                    <GenreArtwork
+                      genre={
+                        source === "film" ? "Classics" : sourceLabels[source]
+                      }
+                      compact
+                    />
+                    {sourceLabels[source]}
+                  </label>
+                ))}
+              </div>
+              <p className="tiny muted">
+                Gewählte Bereiche bilden einen gemeinsamen Zufallspool. Genres,
+                Filmgruppen und die Filmauswahl gelten nur für Filmfragen. In
+                der Filmreise gelten die freigeschalteten Stufen jedes Bereichs.
+              </p>
+            </fieldset>
+          </SetupSection>
+          <SetupSection
+            title="Filmgenres & Filmauswahl"
+            selection={
+              selectedSources.includes("film")
+                ? [genreSummary, ...selectedCategories].join(" · ")
+                : "Filmfragen derzeit abgewählt"
+            }
+          >
+            <fieldset disabled={busy || !selectedSources.includes("film")}>
+              <legend>Filmgenres</legend>
+              <p className="muted tiny">Ein oder mehrere Genres kombinieren.</p>
+              <div className="filter-options genre-options">
+                {genres.map((g) => (
+                  <label className="filter-choice" key={g}>
+                    <input
+                      type="checkbox"
+                      checked={filters.genres.includes(g)}
+                      onChange={() => toggleGenre(g)}
+                    />
+                    <GenreArtwork genre={g} compact />
+                    <span>{genreLabel(g)}</span>
+                  </label>
+                ))}
+              </div>
+              <button
+                className="text-button"
+                onClick={() => {
+                  void changeSetup({ genres: null });
+                }}
+              >
+                Alle Genres auswählen
+              </button>
+              <button
+                className="text-button"
+                onClick={() => {
+                  void changeSetup({ genres: [] });
+                }}
+              >
+                Alle Genres abwählen
+              </button>
+            </fieldset>
+            <fieldset disabled={busy || !selectedSources.includes("film")}>
+              <legend>Filmauswahl</legend>
+              {filmCategories.map((category) => (
+                <label className="filter-choice" key={category}>
                   <input
                     type="checkbox"
-                    checked={selectedSources.includes(source)}
-                    onChange={(e) =>
+                    checked={selectedCategories.includes(category)}
+                    onChange={(e) => {
                       void changeSetup({
-                        sources: e.target.checked
-                          ? [...selectedSources, source]
-                          : selectedSources.filter((s) => s !== source),
-                      })
-                    }
+                        categories: e.target.checked
+                          ? [...selectedCategories, category]
+                          : selectedCategories.filter((c) => c !== category),
+                      });
+                    }}
                   />
-                  <GenreArtwork
-                    genre={
-                      source === "film" ? "Classics" : sourceLabels[source]
-                    }
-                    compact
-                  />
-                  {sourceLabels[source]}
+                  <GenreArtwork genre={category} compact />
+                  Nur {category}
                 </label>
               ))}
-            </div>
-            <p className="tiny muted">
-              Gewählte Bereiche bilden einen gemeinsamen Zufallspool. Genres,
-              Filmgruppen und die Filmauswahl gelten nur für Filmfragen. In der
-              Filmreise gelten die freigeschalteten Stufen jedes Bereichs.
-            </p>
-          </fieldset>
-          <fieldset disabled={busy || !selectedSources.includes("film")}>
-            <legend>Filmgenres</legend>
-            <p className="muted tiny">Ein oder mehrere Genres kombinieren.</p>
-            <div className="filter-options genre-options">
-              {genres.map((g) => (
-                <label className="filter-choice" key={g}>
-                  <input
-                    type="checkbox"
-                    checked={filters.genres.includes(g)}
-                    onChange={() => toggleGenre(g)}
-                  />
-                  <GenreArtwork genre={g} compact />
-                  <span>{genreLabel(g)}</span>
-                </label>
-              ))}
-            </div>
-            <button
-              className="text-button"
-              onClick={() => {
-                void changeSetup({ genres: null });
-              }}
-            >
-              Alle Genres auswählen
-            </button>
-            <button
-              className="text-button"
-              onClick={() => {
-                void changeSetup({ genres: [] });
-              }}
-            >
-              Alle Genres abwählen
-            </button>
-          </fieldset>
-          <fieldset disabled={busy || !selectedSources.includes("film")}>
-            <legend>Filmauswahl</legend>
-            {filmCategories.map((category) => (
-              <label className="filter-choice" key={category}>
-                <input
-                  type="checkbox"
-                  checked={selectedCategories.includes(category)}
-                  onChange={(e) => {
-                    void changeSetup({
-                      categories: e.target.checked
-                        ? [...selectedCategories, category]
-                        : selectedCategories.filter((c) => c !== category),
-                    });
-                  }}
-                />
-                <GenreArtwork genre={category} compact />
-                Nur {category}
-              </label>
-            ))}
-            <p className="tiny muted">
-              Ohne Einschränkung kommen alle Filmfragen aus Deinen Genres
-              infrage. Classics und Arthouse begrenzen nur diesen Bereich;
-              zusammen bilden sie eine Vereinigung. Schauspieler und Preisträger
-              bleiben zusätzlich im Pool, wenn Du sie oben auswählst. Gemeinsame
-              Wissensziele zählen pro Runde einmal.
-            </p>
-          </fieldset>
+              <p className="tiny muted">
+                Ohne Einschränkung kommen alle Filmfragen aus Deinen Genres
+                infrage. Classics und Arthouse begrenzen nur diesen Bereich;
+                zusammen bilden sie eine Vereinigung. Schauspieler und
+                Preisträger bleiben zusätzlich im Pool, wenn Du sie oben
+                auswählst. Gemeinsame Wissensziele zählen pro Runde einmal.
+              </p>
+            </fieldset>
+          </SetupSection>
           {mode !== "entdecken" ? (
-            <>
+            <SetupSection
+              title="Schwierigkeit & Filmgruppen"
+              selection={`${difficultySummary} · ${familiaritySummary}`}
+            >
               <fieldset disabled={busy}>
                 <legend>Schwierigkeitsstufen</legend>
                 <div className="filter-options">
@@ -399,7 +437,7 @@ export function PlaySetup({
                   Auswahl aller Gruppen dabei.
                 </p>
               </fieldset>
-            </>
+            </SetupSection>
           ) : null}
           <LearningPath
             state={state}

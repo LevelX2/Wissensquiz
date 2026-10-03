@@ -1,4 +1,4 @@
-import { test, expect, readStoredState, type Page } from "./fixtures";
+import { openRoundSetup, test, expect, readStoredState, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { packages, addPackages } from "../../src/packages";
@@ -48,6 +48,8 @@ test("Schauspieler öffnet 100 Personen und spielt Expertenfragen unabhängig vo
   ).toBeVisible();
   await page.getByRole("button", { name: "Zur Themenübersicht" }).click();
   await page.getByRole("button", { name: "Schauspieler spielen" }).click();
+  await expect(page.locator(".round-setup")).toBeVisible();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("checkbox", { name: "Schauspieler", exact: true }),
   ).toBeChecked();
@@ -164,9 +166,11 @@ test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und voll
   await page.clock.install({ time: now });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await openRoundSetup(page);
   await page
     .getByRole("checkbox", { name: "Schauspieler", exact: true })
     .check();
+  await openRoundSetup(page);
   await expect(page.getByRole("button", { name: /Filmreise/ })).toHaveAttribute(
     "aria-pressed",
     "true",
@@ -174,6 +178,7 @@ test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und voll
   await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.reload();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("checkbox", { name: "Schauspieler", exact: true }),
   ).toBeChecked();

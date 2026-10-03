@@ -1,4 +1,4 @@
-import { test, expect, readStoredState } from "./fixtures";
+import { openRoundSetup, test, expect, readStoredState } from "./fixtures";
 
 test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben offline erhalten", async ({
   page,
@@ -8,9 +8,11 @@ test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben off
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await openRoundSetup(page);
   await page
     .getByRole("button", { name: "Alle Genres abwählen", exact: true })
     .click();
+  await openRoundSetup(page);
   await page
     .getByRole("group", { name: "Filmgenres", exact: true })
     .getByLabel("Musik", { exact: true })

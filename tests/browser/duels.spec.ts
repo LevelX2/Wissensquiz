@@ -1,4 +1,4 @@
-import { test, expect, type Page } from "./fixtures";
+import { openRoundSetup, test, expect, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { server, alice, bob, qs } from "./duel-service";
 test.use({ serviceWorkers: "block" });
@@ -126,6 +126,7 @@ test("gesammelte Sololösungen bleiben neutral, lassen Pausen zu und erscheinen 
   await page.clock.install({ time: new Date("2026-10-02T12:00:00Z") });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
   await expect(
     page.getByRole("radio", { name: "Nach der Runde", exact: true }),
@@ -204,6 +205,7 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
   const page = await context.newPage();
   try {
     await service.setup(page, alice);
+    await openRoundSetup(page);
     await page
       .getByRole("radio", { name: "Nach der Runde", exact: true })
       .check();

@@ -1,4 +1,5 @@
 import {
+  openRoundSetup,
   test,
   expect,
   testBaseUrl,
@@ -784,6 +785,7 @@ test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehme
   await expect
     .poll(() => playerQueries.at(-1))
     .toMatchObject({ sort_by: "correct" });
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Rekordrunden", exact: true }).click();
   await expect(
     page.getByLabel("Gemeinsames Genre", { exact: true }),
@@ -915,6 +917,7 @@ test("Profil zeigt Statistik; Highscores sind direkt erreichbar und Konten nehme
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
       .violations,
   ).toEqual([]);
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Rekordrunden", exact: true }).click();
   await page.route("**/rest/v1/rpc/quiz_rankings", (r) =>
     r.fulfill({ status: 503, json: { message: "offline" } }),
@@ -968,7 +971,9 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
   await page.setViewportSize({ width: 320, height: 740 });
   await page.goto("/");
   await login(page);
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
+  await openRoundSetup(page);
   await page
     .getByRole("group", { name: "Filmgenres", exact: true })
     .getByLabel("Horror", { exact: true })
@@ -1065,6 +1070,7 @@ test("Kontofortschritt wird auf einem zweiten Gerät automatisch geladen und nac
     await expect(
       other.getByRole("button", { name: "Fortsetzen" }),
     ).toBeVisible();
+    await openRoundSetup(other);
     await expect(
       other
         .getByRole("group", { name: "Filmgenres", exact: true })
@@ -1378,6 +1384,7 @@ test("Ranglisten beenden hängende Anfragen und lassen sich erneut laden", async
   await page
     .getByRole("button", { name: "Spielervergleich", exact: true })
     .click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Rekordrunden", exact: true }).click();
   await expect(page.getByText("Ergebnisse werden geladen …")).toBeVisible();
   await page.clock.runFor(10001);
@@ -1393,6 +1400,7 @@ test("Ranglisten beenden hängende Anfragen und lassen sich erneut laden", async
   ).toBeVisible();
   hangEntries = false;
   await page.getByRole("button", { name: "Bestenliste aktualisieren" }).click();
+  await openRoundSetup(page);
   await expect(
     page.getByText("Noch keine Rekordrunden in dieser Auswahl."),
   ).toBeVisible();

@@ -1,4 +1,4 @@
-import { test, expect } from "./fixtures";
+import { openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -142,6 +142,7 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     await expect(stats.locator("summary")).toContainText("4× beantwortet");
     await page.getByRole("button", { name: "Runde abschließen" }).click();
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
+    await openRoundSetup(page);
     await page
       .getByRole("button", { name: "Rekordrunde", exact: false })
       .click();

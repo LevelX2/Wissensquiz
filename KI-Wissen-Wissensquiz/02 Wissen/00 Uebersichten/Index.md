@@ -19,6 +19,9 @@
 - [Infrastruktur und Kapazität: bisherige Belegung und Grenzen](../../../docs/Infrastruktur-und-Kapazitaet.md)
 - [Strukturverbesserungen: Pakete, Grenzen und Freigabestatus](../../../docs/Strukturverbesserungen-Prozess.md)
 - [Abnahmebericht der umgesetzten Strukturverbesserungen](../../../docs/Strukturverbesserungen-Abnahme.md)
+- [Infrastruktur und Kapazität: Sites, Supabase-Free, Speicherreserve und Grenzen bei 100 Spielern](../../../docs/Infrastruktur-und-Kapazitaet.md)
+- [Optimierungsvorschläge für Speicher und Synchronisierung: gemeinsame Kataloge, Änderungsübertragung und Ranglistenprojektionen](../../../docs/Speicher-und-Sync-Optimierung.md)
+
 - [Strukturprüfung vom 03.10.2026: Modulgrenzen, Kontosicherung und priorisierte Verbesserungen](../../../docs/Strukturpruefung-2026-10-03.md)
 - [Schauspieler und Preisträger in der Filmreise, vollständige Namen, Vertiefungen und Filmverweise](../../../docs/Filmreise-Personen-und-Vertiefungen.md)
 
@@ -49,6 +52,7 @@
 - [Fragenweiser Nachweis der Darstellerprüfung](../../../docs/Darstellerpruefung.json)
 - [Lernregeln, Fehlertraining, Rundenauswertung, Speicher- und Offlinevertrag](../../../docs/Lernregeln.md)
 - [Filmkarriere, steigende Level, Leistungs-XP und erhaltene Altstände](../../../docs/Filmkarriere-und-XP.md)
+- [Modusvorschlag und Zeitkonto: alle abgeschlossenen Läufe einzeln in den Rekordlisten](../../../docs/Endlos-Rekord-Konzept.md)
 - [Keine Ahnung: bewusste Antwortwahl und Hervorhebung der Lösung](../../../docs/Lernregeln.md#keine-ahnung-als-antwortoption)
 - [Additive Fragenbereiche, Filmreise, freie Modi und Bekanntheitsgruppen](../../../docs/Spielmodi-und-Bekanntheit.md)
 - [Konten, private Spielstände, persönliche Rekorde und Spielervergleich](../../../docs/Konten-und-Spielstaende.md)
@@ -82,7 +86,7 @@
 - [Preisträger- und Schauspielerillustrationen: Originalprompts, Dateien und Prüfung](../../../docs/Kategorie-Illustrationen.json)
 - [Genre- und Spielmodusillustrationen mit Duellmotiv, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
 
-- [Navigation, fünf Spielkacheln, zugängliche Highscores und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
+- [Kompakte Startseite mit Auswahlklappen, Navigation, Highscores und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
 
 
 - [Classics-Rohquelle](../../01%20Rohquellen/Classics_Quiz_180_Fragen.csv)

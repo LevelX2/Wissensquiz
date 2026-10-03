@@ -8,6 +8,9 @@ Gleichstände, mindestens 50 Antworten für Quotenwertung, Nullrunden, Keine Ahn
 
 [Abnahme und lokale Lastmessung](Speicher-und-Sync-Abnahme.md). Die Migration ist nach ausdrücklichem Auftrag produktiv angewendet; unveränderte öffentliche Spielerwerte wurden lesend nachgeprüft. [Produktionsnachweis](Speicher-und-Sync-Produktion.md). Die folgenden sichtbaren Regeln gelten weiterhin.
 
+
+**Vorschlag vom 03.10.2026, noch nicht umgesetzt:** vollständige Highscore-Einbindung von 10 Fragen, Fehlerfrei und dynamischem Zeitkonto mit separaten Wochen-, Monats-, Jahres- und Allzeitlisten. Vom Nutzer festgelegt: jeder abgeschlossene Lauf erscheint einzeln, auch mehrere Ergebnisse desselben Spielers. Eigener Duellbereich und Karrierebereich vorgeschlagen; neue Wertungen ersetzen keine historische Ranglistenregel. [Modus- und Rekordkonzept](Endlos-Rekord-Konzept.md). Die folgenden Abschnitte dokumentieren den vorhandenen Stand.
+
 ## Stand am 03.10.2026
 
 Auf Nutzerauftrag ergänzt und am 03.10.2026 als Sites-Version 38 veröffentlicht. Der Nutzer hat ausdrücklich die Sichtbarkeit auch für Gäste gewählt. Migration 202610030001 live angewendet; Erfassungsbeginn 03.10.2026, 07:52:57 Uhr Europe/Berlin. Öffentliche RPCs, sieben Tagessummen und gesperrte Einzelmeldungen lesend geprüft. Private Kontospielstände bleiben geschützt. [Veröffentlichungsnachweis](Sites-Betrieb.md).

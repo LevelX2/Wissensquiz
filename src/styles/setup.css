@@ -233,3 +233,64 @@ textarea {
   color: #4c5b60;
   font-size: 11px;
 }
+
+.round-setup > .quiz-filters {
+  margin-top: 16px;
+  gap: 8px;
+}
+.setup-section {
+  margin: 0;
+  border: 1px solid #b8c5bd;
+  border-radius: 10px;
+  background: #fffdf8;
+}
+.setup-section > summary {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2px 12px;
+  align-items: center;
+  min-height: 60px;
+  padding: 10px 14px;
+  list-style: none;
+}
+.setup-section > summary::-webkit-details-marker {
+  display: none;
+}
+.setup-section > summary::after {
+  content: "+";
+  grid-column: 2;
+  grid-row: 1 / 3;
+  color: #715224;
+  font-size: 22px;
+}
+.setup-section[open] > summary::after {
+  content: "−";
+}
+.setup-section-title {
+  color: #24313b;
+  font-size: 13px;
+  font-weight: 600;
+}
+.setup-section-selection {
+  grid-column: 1;
+  color: #4c5b60;
+  font-size: 12px;
+  overflow-wrap: anywhere;
+}
+.setup-section-content {
+  display: grid;
+  gap: 16px;
+  padding: 6px 14px 14px;
+}
+.setup-section-content .solution-choice {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.round-setup .learning-path {
+  margin: 0;
+}
+.round-setup .learning-path > summary {
+  min-height: 44px;
+  align-content: center;
+}

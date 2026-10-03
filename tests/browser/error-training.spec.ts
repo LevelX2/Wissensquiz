@@ -1,4 +1,10 @@
-import { test, expect, readStoredState, type Page } from "./fixtures";
+import {
+  openRoundSetup,
+  test,
+  expect,
+  readStoredState,
+  type Page,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { answer, complete, guess, startRound } from "../../src/engine";
 import type { State } from "../../src/model";
@@ -34,6 +40,7 @@ test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Mod
   await page.clock.install({ time: now });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await openRoundSetup(page);
   await page
     .getByRole("button", { name: /Fehlertraining Offene Fehler/ })
     .click();
@@ -45,6 +52,7 @@ test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Mod
     .poll(async () => (await readState(page)).settings.roundSetup?.mode)
     .toBe("fehler");
   await page.reload();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /Fehlertraining Offene Fehler/ }),
   ).toHaveAttribute("aria-pressed", "true");
@@ -199,6 +207,7 @@ for (const width of [320, 1280]) {
       page.getByRole("button", { name: /Fehler dieser Runde üben/ }),
     ).toHaveCount(0);
     await page.getByRole("button", { name: "Neue Runde wählen" }).click();
+    await openRoundSetup(page);
     await page
       .getByRole("button", { name: /Fehlertraining Offene Fehler/ })
       .click();

@@ -1,4 +1,4 @@
-import { test, expect, readStoredState } from "./fixtures";
+import { test, expect, readStoredState, openRoundSetup } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinierbar", async ({
@@ -102,6 +102,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await expect(
     page.getByRole("group", { name: "Schwierigkeitsstufen", exact: true }),
   ).toHaveCount(0);
+  await openRoundSetup(page);
   const widths = await page
     .locator(".genre-options .filter-choice")
     .evaluateAll((els) => els.map((el) => el.getBoundingClientRect().width));
@@ -129,6 +130,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await expect(
     page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
   ).toHaveAttribute("aria-pressed", "true");
+  await openRoundSetup(page);
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",
     exact: true,
@@ -188,6 +190,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   // Chromium verifies the full offline reload and all five cached motifs.
   if (browserName === "chromium") await context.setOffline(true);
   await page.reload();
+  await openRoundSetup(page);
   await expect(page.locator(".mode-artwork")).toHaveCount(5);
   for (const img of await page.locator(".mode-artwork").all())
     await expect

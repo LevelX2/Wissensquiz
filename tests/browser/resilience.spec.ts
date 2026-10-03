@@ -1,4 +1,4 @@
-import { test, expect, chromium } from "./fixtures";
+import { openRoundSetup, test, expect, chromium } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { mkdtemp } from "node:fs/promises";
 import { tmpdir } from "node:os";
@@ -104,6 +104,7 @@ test("Hintergrundzeit und doppelte Klicks vergeben keine zweite Antwort", async 
 }) => {
   await page.clock.install();
   await page.goto("/");
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Rekordrunde" }).click();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await page.clock.runFor(100);

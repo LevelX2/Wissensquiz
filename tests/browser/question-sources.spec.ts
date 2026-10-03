@@ -1,4 +1,4 @@
-import { test, expect, readStoredState } from "./fixtures";
+import { openRoundSetup, test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 for (const width of [1440, 320]) {
   test(`Filmfragen, Schauspieler und Preisträger bilden einen additiven Pool bei ${width} Pixeln`, async ({
@@ -16,6 +16,7 @@ for (const width of [1440, 320]) {
     await expect(
       page.getByRole("button", { name: "Losspielen" }),
     ).toBeEnabled();
+    await openRoundSetup(page);
     const sources = page.getByRole("group", {
       name: "Fragenbereiche",
       exact: true,
@@ -40,6 +41,7 @@ for (const width of [1440, 320]) {
     );
     await expect(page.locator("#round-summary")).toContainText("Alle Genres");
     await page.reload();
+    await openRoundSetup(page);
     for (const label of ["Filmfragen", "Preisträger", "Schauspieler"])
       await expect(sources.getByLabel(label, { exact: true })).toBeChecked();
     const setup = (await readStoredState(page)).settings.roundSetup!;
@@ -73,6 +75,7 @@ for (const width of [1440, 320]) {
     ).toBe(true);
     // Film filters narrow only their own branch of the common pool.
     await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
+    await openRoundSetup(page);
     await genres.getByLabel("Sci-Fi", { exact: true }).check();
     await page.getByLabel("Nur Classics", { exact: true }).check();
     await page.getByRole("button", { name: "Losspielen" }).click();
@@ -98,6 +101,7 @@ for (const width of [1440, 320]) {
     await page
       .getByRole("button", { name: "Runde beenden", exact: true })
       .click();
+    await openRoundSetup(page);
     await sources.getByLabel("Filmfragen", { exact: true }).uncheck();
     await expect(genres.getByRole("checkbox").first()).toBeDisabled();
     await expect(page.locator("#round-summary")).toContainText(
@@ -112,6 +116,7 @@ for (const width of [1440, 320]) {
       )
       .toEqual(["awards", "actors"]);
     await page.reload();
+    await openRoundSetup(page);
     await expect(
       sources.getByLabel("Filmfragen", { exact: true }),
     ).not.toBeChecked();

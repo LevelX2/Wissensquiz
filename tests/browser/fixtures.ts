@@ -11,6 +11,22 @@ import {
 export { expect, chromium, type Page } from "@playwright/test";
 export const testBaseUrl = `http://localhost:${process.env.WISSENSQUIZ_BROWSER_PORT ?? 4173}`;
 
+// Existing filter/game checks open the preparation panels through their UI.
+// Compact-home checks deliberately leave the default collapsed state intact.
+export async function openRoundSetup(page: Page) {
+  await base.expect(page.locator(".loading")).toHaveCount(0);
+  for (const summary of await page
+    .locator(".round-setup .setup-section > summary")
+    .all()) {
+    if (
+      !(await summary.evaluate(
+        (node) => (node.parentElement as HTMLDetailsElement).open,
+      ))
+    )
+      await summary.click();
+  }
+}
+
 // Inspect the logical state, independently of its IndexedDB storage layout.
 export async function readStoredState(
   page: Page,

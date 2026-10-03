@@ -1,0 +1,5 @@
+# Nutzeranforderungen an Modusgruppen Highscores und Zeitbalance
+
+Quelle: Ergänzende Nutzernachricht im Projekt Wissensquiz vom 03.10.2026. Der folgende Absatz ist unverändert erhalten.
+
+Das soll dann aber auch sauber in den Highscores mit abgebildet werden. Und ich bin halt immer überlegen, ob man gleich am Anfang alle unterschiedlichen Varianten als Karten zeigt oder ob man da noch mal erst mal sozusagen, den Karren drückt hier auf Zeit und dann die Untermöglichkeiten sieht: Einzelrekord so, Einzelrekord so, die zehn Fragen oder Duell, ne, dass ja theoretisch alle, die unter mit Zeitvorgabe sind. Weil Duell könnte auch noch eine eigene Gruppe sein, da bin ich jetzt sicher. Und mach mal einen konkreten Vorschlag, wie die Modi ausgestattet wären von Zeiten, so dass du mal noch mal überlegst, was macht Sinn. Es muss schon herausfordernd sein, sozusagen. Aber nicht so, dass wenn man sagt, ja, antworte ich schnell, und wenn ich mehr als 50 Prozent weiß, dann habe ich das endlos. Das darf halt nicht so sein. Das muss schon ein bisschen besser sein. Du musst schon 70, 80 Prozent wissen mindestens, damit du auf Dauer eine Verlängerung kriegst.

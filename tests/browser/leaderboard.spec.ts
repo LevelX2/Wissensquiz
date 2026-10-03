@@ -1,4 +1,4 @@
-import { test, expect } from "./fixtures";
+import { openRoundSetup, test, expect } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
 import { packages } from "../../src/packages";
@@ -22,11 +22,14 @@ test("Leere Highscores führen zur Rekordauswahl und zur Anmeldung", async ({
   await page
     .getByRole("button", { name: "Rekordrunde vorbereiten" })
     .press("Enter");
+  await expect(page.locator(".round-setup")).toBeVisible();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /^Rekordrunde 30 Sekunden/ }),
   ).toHaveAttribute("aria-pressed", "true");
   await expect(page.locator(".question-card")).toHaveCount(0);
   await page.reload();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /^Rekordrunde 30 Sekunden/ }),
   ).toHaveAttribute("aria-pressed", "true");
@@ -152,6 +155,7 @@ test("Bestenliste zeigt Kategorien, alle Spiele und Rückblick, auch offline und
     });
   }, state);
   await page.reload();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Rekordrunde", exact: false }).click();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await expect(

@@ -1,4 +1,4 @@
-import { test, expect, readStoredState } from "./fixtures";
+import { openRoundSetup, test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 for (const both of [false, true]) {
@@ -14,12 +14,15 @@ for (const both of [false, true]) {
     ).toBeEnabled();
     await page.getByRole("button", { name: "Themen", exact: true }).click();
     await page.getByRole("button", { name: "Arthouse spielen" }).click();
+    await expect(page.locator(".round-setup")).toBeVisible();
+    await openRoundSetup(page);
     await expect(
       page.getByLabel("Nur Arthouse", { exact: true }),
     ).toBeChecked();
     await page
       .getByRole("button", { name: "Alle Genres abwählen", exact: true })
       .click();
+    await openRoundSetup(page);
     await page
       .getByRole("group", { name: "Filmgenres", exact: true })
       .getByLabel("Rom-Com", { exact: true })

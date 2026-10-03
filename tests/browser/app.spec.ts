@@ -1,4 +1,10 @@
-import { test, expect, readStoredState, type Page } from "./fixtures";
+import {
+  openRoundSetup,
+  test,
+  expect,
+  readStoredState,
+  type Page,
+} from "./fixtures";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
 import { packages } from "../../src/packages";
@@ -104,6 +110,7 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
   await expect(
     page.getByRole("button", { name: "Ton an", exact: true }),
   ).toHaveCount(0);
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /Filmreise Filmwelten/ }),
   ).toHaveAttribute("aria-pressed", "true");
@@ -111,6 +118,7 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
     page.getByText(/Mittel gesperrt · 0 \/ \d+ leichte Ziele/),
   ).toHaveCount(12);
   await page.reload();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /Filmreise Filmwelten/ }),
   ).toHaveAttribute("aria-pressed", "true");
@@ -135,12 +143,14 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
     page.getByText("Etwas tiefer eintauchen", { exact: true }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
-  await expect(
-    page.getByText(
-      "Du kombinierst Filmfragen, Schauspieler und Preisträger zu einem gemeinsamen Pool. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
-    ),
-  ).toBeVisible();
+  await openRoundSetup(page);
+  await page.locator(".round-guide summary").click();
+  await expect(page.locator(".round-guide-details")).toBeVisible();
+  await expect(page.locator(".round-guide-details")).toContainText(
+    "zufällige Fragen ohne Zeitdruck",
+  );
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(page.getByLabel("Soundeffekte", { exact: true })).toBeVisible();
@@ -152,7 +162,9 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
   await page.setViewportSize({ width: 320, height: 740 });
   await launch(page);
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
   ).toHaveAttribute("aria-pressed", "true");
@@ -166,6 +178,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await page
     .getByRole("button", { name: "Alle Genres abwählen", exact: true })
     .click();
+  await openRoundSetup(page);
   await genres.getByLabel("Sci-Fi", { exact: true }).check();
   await genres.getByLabel("Horror", { exact: true }).check();
   await levels.getByLabel("Schwer", { exact: true }).uncheck();
@@ -193,33 +206,8 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await levels.getByLabel("Mittel", { exact: true }).check();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await answerCurrent(page);
-  const readRound = () =>
-    page.evaluate(
-      () =>
-        new Promise<{
-          filters: { genres: string[]; difficulties: string[] };
-          questions: { difficulty: string; metadata: { subdomain: string } }[];
-        }>((resolve, reject) => {
-          const req = indexedDB.open("wissensquiz");
-          req.onerror = () => reject(req.error);
-          req.onsuccess = () => {
-            const db = req.result;
-            const query = db
-              .transaction("state")
-              .objectStore("state")
-              .get("current");
-            query.onsuccess = () => {
-              resolve(
-                query.result.rounds.find(
-                  (r: { status: string }) => r.status === "active",
-                ),
-              );
-              db.close();
-            };
-            query.onerror = () => reject(query.error);
-          };
-        }),
-    );
+  const readRound = async () =>
+    (await readStoredState(page)).rounds.find((r) => r.status === "active")!;
   const before = await readRound();
   expect(before.filters).toEqual({
     genres: ["Horror", "Science-Fiction"],
@@ -304,7 +292,9 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
   }) => {
     await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
     await launch(page);
+    await openRoundSetup(page);
     await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
+    await openRoundSetup(page);
     await page
       .getByRole("group", { name: "Filmgenres", exact: true })
       .getByLabel("Sci-Fi", { exact: true })
@@ -520,13 +510,16 @@ test("Rekordübersicht zeigt kombinierte Genres und Stufen ohne Darstellungsfehl
   const errors: string[] = [];
   page.on("pageerror", (e) => errors.push(e.message));
   await launch(page);
+  await openRoundSetup(page);
   await page
     .getByRole("button", { name: "Alle Genres abwählen", exact: true })
     .click();
+  await openRoundSetup(page);
   const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
   await genres.getByLabel("Sci-Fi", { exact: true }).check();
   await genres.getByLabel("Horror", { exact: true }).check();
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }),
   ).toHaveAttribute("aria-pressed", "true");
@@ -793,6 +786,7 @@ test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
 }) => {
   await page.clock.install();
   await launch(page);
+  await openRoundSetup(page);
   await page.getByRole("button", { name: "Rekordrunde", exact: false }).click();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await page.clock.runFor(100);
@@ -838,11 +832,13 @@ for (const offlinePackage of [
       }),
     ).toBeVisible({ timeout: 20000 });
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
+    await openRoundSetup(page);
     const genreChoices = page.getByRole("group", {
       name: "Filmgenres",
       exact: true,
     });
     await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
+    await openRoundSetup(page);
     await genreChoices
       .getByLabel(offlinePackage.genre, { exact: true })
       .check();

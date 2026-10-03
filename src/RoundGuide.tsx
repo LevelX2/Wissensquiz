@@ -14,10 +14,10 @@ const introductions: Record<Mode, string> = {
 export function RoundGuide({ mode }: { mode: Mode }) {
   return (
     <div className="round-guide">
-      <p>{introductions[mode]}</p>
       <details key={mode}>
         <summary>Mehr zu Auswahl und Ablauf</summary>
         <div className="round-guide-details">
+          <p>{introductions[mode]}</p>
           <p>
             <strong>Deine Auswahl:</strong> Die Zeile unter Losspielen zeigt die
             gewählten Filter und die Anzahl der Fragen in Deiner nächsten Runde.

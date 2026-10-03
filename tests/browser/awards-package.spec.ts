@@ -1,4 +1,4 @@
-import { test, expect } from "./fixtures";
+import { openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -16,10 +16,14 @@ test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und ble
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.getByRole("button", { name: "Themen", exact: true }).click();
   await page.getByRole("button", { name: "Preisträger spielen" }).click();
+  await expect(page.locator(".round-setup")).toBeVisible();
+  await openRoundSetup(page);
   await expect(
     page.getByRole("checkbox", { name: "Preisträger", exact: true }),
   ).toBeChecked();
+  await openRoundSetup(page);
   await page.getByRole("button", { name: /Freies Spiel Alle Stufen/ }).click();
+  await openRoundSetup(page);
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",
     exact: true,
