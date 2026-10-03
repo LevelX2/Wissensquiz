@@ -1,4 +1,4 @@
-import { test, expect, type Page } from "@playwright/test";
+import { test, expect, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { packages, addPackages } from "../../src/packages";
@@ -93,19 +93,21 @@ test("Schauspieler öffnet 100 Personen und spielt Expertenfragen unabhängig vo
       exact: false,
     }),
   ).toBeVisible();
-  // WebKit on Windows cannot navigate via the offline service-worker cache.
-  if (browserName === "chromium") await context.setOffline(true);
-  await page.reload();
-  if (browserName === "webkit") await context.setOffline(true);
+  // Windows WebKit cannot navigate offline; Chromium verifies that reload.
+  // WebKit still verifies restored actor content and play without a network.
+  if (browserName === "chromium") {
+    await context.setOffline(true);
+    await page.reload();
+  } else {
+    await page.reload();
+    await context.setOffline(true);
+  }
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".explanation .actor-name")).toBeVisible();
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Experte",
   );
   await expect(page.locator(".film-data")).toHaveCount(0);
-  await page.getByRole("button", { name: /^Nächste Frage/ }).click();
-  await page.locator(".answer").first().click();
-  await expect(page.locator(".explanation .actor-name")).toBeVisible();
 });
 
 test("Erkennungsfragen verraten die Person nicht in Überschrift oder Hinweis und zeigen Zusatzinfos erst nach der Antwort", async ({

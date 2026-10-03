@@ -1,12 +1,16 @@
 # Wissensindex
 
 - [Projektstart und offene Entscheidungen](../../00%20Projektstart.md)
+- [GitHub-Repository (Remote origin)](https://github.com/LevelX2/Wissensquiz)
 - [Regeldatei KI-Wissenspflege](../../00%20Steuerung/Regeldatei%20KI-Wissenspflege.md)
 - [Arbeitsworkflow](../Prozesse/Arbeitsworkflow%20Wissenspflege%20und%20Projektanfragen.md)
 - [Log](../../03%20Betrieb/Log.md)
 - [Qualitätsprüfung](../../03%20Betrieb/Qualitaetspruefung.md)
 
 ## Spielbare Testversion
+
+- [Fragedatenorganisation: getrennter lokaler Katalog, verlustfreie Metadatenverweise und schnellere Zuordnungen](../../../docs/Fragedaten-Organisation.md)
+- [Struktur- und Größenprüfung aller Fragenpakete](../../../docs/Fragedaten-Pruefung.json)
 
 - [Schauspieler: eigene App-Kategorie mit 100 Personen und 800 individuellen Fragen](../../../docs/Schauspieler-Fragenpaket.md)
 - [Schauspieler-Importbericht und 50 erhaltene Wissensziele](../../../docs/importbericht-schauspieler.json)
@@ -35,6 +39,7 @@
 - [Keine Ahnung: bewusste Antwortwahl und Hervorhebung der Lösung](../../../docs/Lernregeln.md#keine-ahnung-als-antwortoption)
 - [Filmreise, freie Modi, Fehlertraining und vier Bekanntheitsgruppen](../../../docs/Spielmodi-und-Bekanntheit.md)
 - [Konten, private Spielstände, persönliche Rekorde und Spielervergleich](../../../docs/Konten-und-Spielstaende.md)
+- [Öffentliche Bestenliste und Gastaktivität der letzten sieben Tage](../../../docs/Bestenliste-und-Gastaktivitaet.md)
 - [Spielervergleich: Timeout-Ursache und Live-Datenbankkorrektur](../../../docs/Spielervergleich-Stoerung.md)
 - [Asynchrone Filmduelle: Ablauf, Lösungen, offene Spiele, Fristen und Speicherung](../../../docs/Asynchrone-Filmduelle.md)
 - [Historischer Konzeptentwurf für asynchrone Filmduelle](../../../docs/Asynchrone-Filmduelle-Konzept.md)

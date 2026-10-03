@@ -112,7 +112,7 @@ export interface Round {
   startedAt: number;
   finishedAt: number | null;
   status: "active" | "completed" | "aborted";
-  before: Record<string, Learning>;
+  before: Record<string, Learning>; // New solo rounds keep their targets; legacy/duel rounds may hold the full map.
   solutionDisplay?: SolutionDisplay;
   duel?: { id: string; number: number };
 }

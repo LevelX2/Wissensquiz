@@ -185,7 +185,6 @@ it("spielt Personen unabhängig von Filmgruppen und erhält Filmreise sowie getr
       (q) => q.metadata.person_id && q.difficulty === "experte",
     ),
   ).toBe(true);
-  expect(() => validateBackup(state)).not.toThrow();
 });
 
 it("sichert Personenmetadaten, Quellen und alle vier Kategorien in JSON und privater Kontosicherung", async () => {

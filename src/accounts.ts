@@ -44,6 +44,19 @@ export function createAccountClient(
     },
   });
 }
+// Public reads and anonymous activity never inherit a stale account token.
+export function createPublicActivityClient(
+  config: NonNullable<ReturnType<typeof accountConfig>>,
+) {
+  return createClient(config.supabaseUrl, config.publishableKey, {
+    auth: {
+      persistSession: false,
+      autoRefreshToken: false,
+      detectSessionInUrl: false,
+      storageKey: `wissensquiz-public:${new URL(config.supabaseUrl).hostname}`,
+    },
+  });
+}
 export function parseAccountLink(hash: string) {
   if (!hash.startsWith("#auth?")) return null;
   const params = new URLSearchParams(hash.slice(6));

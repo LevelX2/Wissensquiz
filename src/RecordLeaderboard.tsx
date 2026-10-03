@@ -13,6 +13,7 @@ import type { State } from "./model";
 import { GenreArtwork } from "./Icons";
 import { RankingContext, SharedLeaderboard } from "./SharedLeaderboard";
 import { PlayerLeaderboard } from "./PlayerLeaderboard";
+import { GuestActivity } from "./GuestActivity";
 
 export function Leaderboard({
   state,
@@ -26,7 +27,7 @@ export function Leaderboard({
   onPlay?: () => void;
 }) {
   const connection = useContext(RankingContext);
-  const [scope, setScope] = useState<"mine" | "compare">("mine");
+  const [scope, setScope] = useState<"mine" | "best" | "compare">("mine");
   const [comparison, setComparison] = useState<"players" | "records">(
     "players",
   );
@@ -90,6 +91,13 @@ export function Leaderboard({
           Meine Rekorde
         </button>
         <button
+          className={scope === "best" ? "primary" : "secondary"}
+          aria-pressed={scope === "best"}
+          onClick={() => setScope("best")}
+        >
+          Bestenliste
+        </button>
+        <button
           className={scope === "compare" ? "primary" : "secondary"}
           aria-pressed={scope === "compare"}
           onClick={() => setScope("compare")}
@@ -97,8 +105,18 @@ export function Leaderboard({
           Spielervergleich
         </button>
       </div>
-      {scope === "compare" ? (
-        !connection ? (
+      {scope !== "mine" ? (
+        scope === "best" ? (
+          <>
+            <h3>Bestenliste der Spieler</h3>
+            <PlayerLeaderboard
+              key="best"
+              state={state}
+              initialSort="experience"
+              publicList
+            />
+          </>
+        ) : !connection ? (
           <div className="ranking-empty">
             <h3>Vergleiche Dich mit anderen</h3>
             <p>
@@ -134,7 +152,7 @@ export function Leaderboard({
               </button>
             </div>
             {comparison === "players" ? (
-              <PlayerLeaderboard state={state} />
+              <PlayerLeaderboard key="compare" state={state} />
             ) : (
               <SharedLeaderboard state={state} />
             )}
@@ -365,6 +383,7 @@ export function Leaderboard({
           </details>
         </>
       )}
+      <GuestActivity />
     </section>
   );
 }

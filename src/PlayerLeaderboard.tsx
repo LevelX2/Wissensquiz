@@ -5,6 +5,7 @@ import { RankingContext } from "./SharedLeaderboard";
 import { difficulties, difficultyLabel, genreLabel, genreOf } from "./filters";
 import type { State } from "./model";
 import { CareerBadge } from "./CareerProgress";
+import { ActivityContext } from "./GuestActivity";
 const rowSchema = z.object({
   player_name: z.string(),
   completed: z.number(),
@@ -19,6 +20,8 @@ function errorMessage(reason: unknown) {
   const failure = reason && typeof reason === "object" ? reason : {};
   const code = "code" in failure ? failure.code : undefined;
   const status = "status" in failure ? failure.status : undefined;
+  if (code === "PGRST202")
+    return "Die Bestenliste ist auf dem Kontodienst noch nicht eingerichtet.";
   if (reason instanceof RankingTimeout || code === "57014")
     return "Das Laden der Spielerrangliste dauert zu lange. Bitte versuche es erneut.";
   if (
@@ -34,9 +37,21 @@ function errorMessage(reason: unknown) {
     return "Der Kontodienst konnte die Spielerwerte nicht bereitstellen. Bitte versuche es erneut.";
   return "Die Spielerrangliste konnte nicht geladen werden. Prüfe Deine Verbindung und versuche es erneut.";
 }
-export function PlayerLeaderboard({ state }: { state: State }) {
+export function PlayerLeaderboard({
+  state,
+  initialSort = "correct",
+  publicList = false,
+}: {
+  state: State;
+  initialSort?: "correct" | "experience";
+  publicList?: boolean;
+}) {
   const connection = useContext(RankingContext);
-  const [sort, setSort] = useState("correct"),
+  const activityClient = useContext(ActivityContext);
+  const client = publicList
+    ? (connection?.client ?? activityClient)
+    : connection?.client;
+  const [sort, setSort] = useState<string>(initialSort),
     [genre, setGenre] = useState(""),
     [difficulty, setDifficulty] = useState("");
   const [rows, setRows] = useState<z.infer<typeof rowSchema>[]>([]);
@@ -47,19 +62,27 @@ export function PlayerLeaderboard({ state }: { state: State }) {
   useEffect(() => {
     let active = true;
     const controller = new AbortController();
-    if (!connection) return;
+    if (!client) return;
     setLoading(true);
     setError("");
     setRows([]);
     void rankingRequest(
       (signal) =>
-        connection.client
-          .rpc("quiz_players", {
-            sort_by: sort,
-            selected_genre: sort === "experience" ? "" : genre,
-            selected_difficulty: sort === "experience" ? "" : difficulty,
-            page_offset: offset,
-          })
+        client
+          .rpc(
+            publicList ? "quiz_public_players" : "quiz_players",
+            publicList
+              ? {
+                  sort_by: sort,
+                  page_offset: offset,
+                }
+              : {
+                  sort_by: sort,
+                  selected_genre: sort === "experience" ? "" : genre,
+                  selected_difficulty: sort === "experience" ? "" : difficulty,
+                  page_offset: offset,
+                },
+          )
           .abortSignal(signal),
       controller,
     )
@@ -79,19 +102,23 @@ export function PlayerLeaderboard({ state }: { state: State }) {
       active = false;
       controller.abort();
     };
-  }, [connection, sort, genre, difficulty, offset, refresh]);
-  if (!connection)
+  }, [client, publicList, sort, genre, difficulty, offset, refresh]);
+  if (!client)
     return (
       <p>
-        Melde Dich mit Deinem Quiz-Konto an, um die Spielerranglisten zu sehen.
+        {publicList
+          ? "Die Bestenliste ist ohne Kontodienst nicht verfügbar."
+          : "Melde Dich mit Deinem Quiz-Konto an, um die Spielerranglisten zu sehen."}
       </p>
     );
   return (
     <div>
       <p className="muted">
         Hier vergleichst Du gespeicherte Ergebnisse aller bestätigten
-        Quiz-Konten. Dein Konto gehört automatisch dazu, auch wenn sonst niemand
-        spielt.
+        Quiz-Konten.
+        {publicList
+          ? " Die Bestenliste ist öffentlich sichtbar, auch ohne Anmeldung."
+          : " Dein Konto gehört automatisch dazu, auch wenn sonst niemand spielt."}
       </p>
       <div
         className="ranking-tabs ranking-metrics"
@@ -124,15 +151,15 @@ export function PlayerLeaderboard({ state }: { state: State }) {
           "Gesamte Filmkarriere · Alle Genres · Alle Stufen"
         ) : (
           <>
-            {genre ? genreLabel(genre) : "Alle Genres"} ·{" "}
-            {difficulty
+            {!publicList && genre ? genreLabel(genre) : "Alle Genres"} ·{" "}
+            {!publicList && difficulty
               ? difficultyLabel(difficulty as (typeof difficulties)[number])
               : "Alle Stufen"}
             {sort === "accuracy" ? " · Ab 50 beantworteten Fragen" : ""}
           </>
         )}
       </p>
-      {sort !== "experience" && (
+      {!publicList && sort !== "experience" && (
         <details className="ranking-details ranking-filter-details">
           <summary>
             Vergleich eingrenzen{genre || difficulty ? " (Filter aktiv)" : ""}
@@ -224,14 +251,14 @@ export function PlayerLeaderboard({ state }: { state: State }) {
                     {r.is_mine ? " (Du)" : ""}
                   </strong>
                   <CareerBadge experience={r.experience} />
-                  {sort === "experience" && (
-                    <span>
-                      {r.experience.toLocaleString("de-DE")} XP insgesamt
-                    </span>
-                  )}
                   <span>
-                    {r.completed} Runden · {r.correct} von {r.answered}{" "}
-                    Antworten richtig ·{" "}
+                    {r.experience.toLocaleString("de-DE")} XP insgesamt
+                  </span>
+                  <span>
+                    {r.completed.toLocaleString("de-DE")}{" "}
+                    {publicList ? "abgeschlossene Spiele" : "Runden"} ·{" "}
+                    {r.correct.toLocaleString("de-DE")} von{" "}
+                    {r.answered.toLocaleString("de-DE")} Antworten richtig ·{" "}
                     {r.accuracy === null
                       ? "Noch keine Trefferquote"
                       : `${r.accuracy.toLocaleString("de-DE")} % Trefferquote`}
@@ -276,6 +303,14 @@ export function PlayerLeaderboard({ state }: { state: State }) {
           Treffer zählen hier mit. Bei gemischten Runden zählen nur passende
           Fragen, die Runde einmal.
         </p>
+        {publicList && (
+          <p className="tiny muted">
+            Die öffentliche Bestenliste vergleicht die gesamte Karriere und alle
+            abgeschlossenen Spiele. Namen dürfen gleich sein; jeder Eintrag
+            gehört zu einem eigenen bestätigten Konto. Spieler ohne
+            abgeschlossene Spiele sind ebenfalls dabei.
+          </p>
+        )}
       </details>
       <p className="tiny muted">
         Gemeinsame Trainingswerte. Die Listen zeigen Aktivität und Treffer,

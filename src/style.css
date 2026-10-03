@@ -2182,6 +2182,22 @@ details p {
   min-width: 0;
   padding-inline: 0.5rem;
 }
+.guest-activity {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+}
+.guest-days {
+  list-style: none;
+  padding: 0;
+}
+.guest-days li {
+  display: grid;
+  gap: 0.25rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--line);
+  overflow-wrap: anywhere;
+}
 .ranking-comparison-switch button,
 .ranking-metrics button {
   flex: 1 1 120px;

@@ -1,4 +1,4 @@
-import { test, expect, type Page } from "@playwright/test";
+import { test, expect, readStoredState, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
@@ -17,25 +17,7 @@ const qs = [
   ).values(),
 ].slice(0, 2);
 async function readState(page: Page): Promise<State> {
-  return page.evaluate(
-    () =>
-      new Promise<State>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz");
-        request.onerror = () => reject(request.error);
-        request.onsuccess = () => {
-          const db = request.result;
-          const query = db
-            .transaction("state")
-            .objectStore("state")
-            .get("current");
-          query.onsuccess = () => {
-            db.close();
-            resolve(query.result);
-          };
-          query.onerror = () => reject(query.error);
-        };
-      }),
-  );
+  return readStoredState(page);
 }
 async function prepare(page: Page, mode: Mode = "ueben") {
   await page.clock.install({ time: now });

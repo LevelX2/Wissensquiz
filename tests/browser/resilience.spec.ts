@@ -1,8 +1,9 @@
-import { test, expect, chromium } from "@playwright/test";
+import { test, expect, chromium } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { mkdtemp } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
+import { isolateAccountService, testBaseUrl } from "./fixtures";
 test("Ein vorbereitetes Update unterbricht keine laufende Runde", async ({
   page,
 }) => {
@@ -73,16 +74,14 @@ test("Tastatur, sichtbarer Fokus und automatisierte Barrierearmutsprüfung", asy
     ).violations,
   ).toEqual([]);
 });
-test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", async ({
-  baseURL,
-}) => {
+test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", async () => {
   const profile = await mkdtemp(join(tmpdir(), "wissensquiz-test-"));
   let context = await chromium.launchPersistentContext(profile, {
     headless: true,
   });
+  await isolateAccountService(context);
   let page = await context.newPage();
-  await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
-  await page.goto(baseURL!);
+  await page.goto(testBaseUrl);
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".answer").first()).toBeEnabled();
   await page.locator(".answer").first().click();
@@ -90,9 +89,9 @@ test("Fortschritt bleibt über einen vollständigen Browserneustart erhalten", a
   const question = await page.locator(".question-card h1").innerText();
   await context.close();
   context = await chromium.launchPersistentContext(profile, { headless: true });
+  await isolateAccountService(context);
   page = await context.newPage();
-  await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
-  await page.goto(baseURL!);
+  await page.goto(testBaseUrl);
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".question-card h1")).toHaveText(question);
   await expect(page.locator(".feedback")).toBeVisible();
@@ -127,7 +126,7 @@ test("Hintergrundzeit und doppelte Klicks vergeben keine zweite Antwort", async 
   const counts = await page.evaluate(
     () =>
       new Promise<number[]>((resolve, reject) => {
-        const request = indexedDB.open("wissensquiz", 1);
+        const request = indexedDB.open("wissensquiz");
         request.onsuccess = () => {
           const query = request.result
             .transaction("state")

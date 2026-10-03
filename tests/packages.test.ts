@@ -1,5 +1,6 @@
 import { expect, it } from "vitest";
-import { readFileSync, writeFileSync } from "node:fs";
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { join } from "node:path";
 import "fake-indexeddb/auto";
 import { importCsv } from "../src/importer";
 import { addPackages, packages } from "../src/packages";
@@ -7,6 +8,9 @@ import { emptyState } from "../src/model";
 import { answer, shuffle, startRound } from "../src/engine";
 import { read, update } from "../src/storage";
 import { withCategoryTags } from "../src/categories";
+
+const reportDir = process.env.WISSENSQUIZ_TEST_REPORT_DIR ?? "docs";
+mkdirSync(reportDir, { recursive: true });
 
 const contents = packages.map((p) => ({
   filename: p.filename,
@@ -134,7 +138,7 @@ it.each([
     }
     const combined = [...previous, ...imported.questions];
     writeFileSync(
-      `docs/importbericht-${path}.json`,
+      join(reportDir, `importbericht-${path}.json`),
       JSON.stringify(
         {
           ...imported.report,
@@ -177,7 +181,7 @@ it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedbac
       );
   }
   writeFileSync(
-    "docs/importbericht-action.json",
+    join(reportDir, "importbericht-action.json"),
     JSON.stringify(
       {
         ...action.report,

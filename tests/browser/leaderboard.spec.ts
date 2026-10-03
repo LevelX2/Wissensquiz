@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test, expect } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
 import { packages } from "../../src/packages";
@@ -18,7 +18,7 @@ test("Leere Highscores führen zur Rekordauswahl und zur Anmeldung", async ({
     page
       .getByRole("group", { name: "Bestenlisten-Ansicht", exact: true })
       .getByRole("button"),
-  ).toHaveCount(2);
+  ).toHaveCount(3);
   await page
     .getByRole("button", { name: "Rekordrunde vorbereiten" })
     .press("Enter");

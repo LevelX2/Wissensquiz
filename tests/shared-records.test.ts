@@ -53,8 +53,84 @@ beforeAll(async () => {
   await db.exec(
     readFileSync("supabase/migrations/202610020004_film_career.sql", "utf8"),
   );
+  await db.exec(
+    readFileSync(
+      "supabase/migrations/202610030001_public_leaderboard_guest_activity.sql",
+      "utf8",
+    ),
+  );
 }, 30000);
 afterAll(() => db.close());
+async function deniedPublicQuery(query: string, pattern: RegExp) {
+  await db.exec("savepoint rejected_call");
+  try {
+    await expect(db.query(query)).rejects.toThrow(pattern);
+  } finally {
+    await db.exec("rollback to rejected_call; release rejected_call");
+  }
+}
+it("gibt Gästen ausschließlich freigegebene Spielerwerte mit denselben Summen, Gleichständen und Quotengrenzen", async () => {
+  await db.exec("begin");
+  try {
+    await db.exec(
+      `insert into auth.users values('33333333-3333-4333-8333-333333333333',null,false,'{"display_name":"Unbestätigt"}'),('44444444-4444-4444-8444-444444444444',now(),true,'{"display_name":"Anonym"}')`,
+    );
+    await as(alice, async () => {
+      for (const sort of ["experience", "rounds", "correct", "accuracy"]) {
+        const privateRows = (
+          await db.query("select * from quiz_players($1,'','',0)", [sort])
+        ).rows;
+        const publicRows = (
+          await db.query("select * from quiz_public_players($1,0)", [sort])
+        ).rows;
+        expect(publicRows).toEqual(privateRows);
+      }
+    });
+    await as(
+      "",
+      async () => {
+        const rows = (
+          await db.query<Record<string, unknown>>(
+            "select * from quiz_public_players('experience',0)",
+          )
+        ).rows;
+        expect(rows).toHaveLength(2);
+        expect(rows.every((r) => r.is_mine === false)).toBe(true);
+        expect(Object.keys(rows[0]).sort()).toEqual(
+          [
+            "player_name",
+            "completed",
+            "answered",
+            "correct",
+            "accuracy",
+            "place",
+            "is_mine",
+            "experience",
+          ].sort(),
+        );
+        expect(
+          (await db.query("select * from quiz_public_players('experience',50)"))
+            .rows,
+        ).toEqual([]);
+        await deniedPublicQuery(
+          "select * from quiz_saves",
+          /permission denied/,
+        );
+        await deniedPublicQuery(
+          "select * from quiz_players()",
+          /permission denied/,
+        );
+        await deniedPublicQuery(
+          "select * from quiz_public_players('invalid',0)",
+          /invalid_sort/,
+        );
+      },
+      "anon",
+    );
+  } finally {
+    await db.exec("rollback");
+  }
+});
 it("zeigt globale Karriere-XP in beiden Ranglisten, erhält Gleichstände und ignoriert Genre-/Stufenfilter bei XP", async () => {
   await db.exec("begin");
   try {
@@ -99,6 +175,10 @@ it("zeigt globale Karriere-XP in beiden Ranglisten, erhält Gleichstände und ig
           (row) => row.experience === state.experience && row.place === 1,
         ),
       ).toBe(true);
+      expect(
+        (await db.query("select * from quiz_public_players('experience',0)"))
+          .rows,
+      ).toEqual(rows);
       const category = (
         await db.query<{ category: string }>(
           "select * from quiz_score_categories()",

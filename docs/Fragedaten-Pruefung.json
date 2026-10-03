@@ -1,0 +1,32 @@
+{
+  "format": "question-organization-audit-v1",
+  "scope": "Öffentliche App-Pakete, Kategoriezuordnungen und generierte Filmfragen; keine Spielerdaten. Größen sind UTF-8-JSON-Nutzdaten, keine Messung der Browser-Speicherquote.",
+  "catalogSha256": "de010cd0b9003953f05bdb5a85a458fcd55fdc65a8a145f446117757726ba388",
+  "counts": {
+    "packages": 17,
+    "questions": 5677,
+    "knowledgeGoals": 5147,
+    "duplicateQuestionIds": 0,
+    "questionsWithVariantReference": 530,
+    "generatedFilmQuestions": 837
+  },
+  "checks": {
+    "publicSourcesByteIdentical": true,
+    "rejectedImports": 0,
+    "duplicateImports": 0,
+    "fullBackupValidated": true,
+    "exactJsonRoundtrip": true
+  },
+  "localCatalog": {
+    "encoding": "json-field-refs-v1",
+    "fullJsonBytes": 18058574,
+    "compactJsonBytes": 13248306,
+    "savedBytes": 4810268,
+    "savedPercent": 26.64,
+    "referencedMetadataValues": 82963
+  },
+  "roundBefore": {
+    "previousBehavior": "Jede neue Solorunde kopierte alle vorhandenen Lernstände.",
+    "currentBehavior": "Nur bereits vorhandene Lernstände der höchstens zehn ausgewählten Wissensziele werden kopiert; historische Runden bleiben unverändert."
+  }
+}

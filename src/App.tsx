@@ -1,5 +1,12 @@
 import { familiarities, familiarityLabel, ruleLabel } from "./familiarity";
-import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import {
+  useContext,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+  type ReactNode,
+} from "react";
 import {
   answer,
   badgeEligible,
@@ -43,6 +50,8 @@ import {
 import { useOffline } from "./offline";
 import { BadgeIcon, GenreArtwork } from "./Icons";
 import { Leaderboard } from "./RecordLeaderboard";
+import { ActivityContext } from "./GuestActivity";
+import { GuestActivityReporter } from "./guestActivityDelivery";
 import { Help } from "./Help";
 import { RoundGuide } from "./RoundGuide";
 import { SolutionChoice } from "./SolutionChoice";
@@ -254,6 +263,39 @@ export function App({
   const booted = useRef(false);
   const inFlight = useRef(false);
   const offline = useOffline();
+  const activityClient = useContext(ActivityContext);
+  const guestReporter = useRef<GuestActivityReporter | null>(null);
+  useEffect(() => {
+    if (storageKey !== "current") return;
+    // This delivery queue is separate from the personal guest save.
+    let storage: Pick<Storage, "getItem" | "setItem">;
+    try {
+      storage = localStorage;
+    } catch {
+      storage = {
+        getItem: () => {
+          throw new Error();
+        },
+        setItem: () => {
+          throw new Error();
+        },
+      };
+    }
+    const reporter = new GuestActivityReporter(activityClient, storage);
+    guestReporter.current = reporter;
+    const flush = () => {
+      void reporter.flush();
+    };
+    flush();
+    const timer = window.setInterval(flush, 30000);
+    window.addEventListener("online", flush);
+    return () => {
+      guestReporter.current = null;
+      reporter.stop();
+      window.clearInterval(timer);
+      window.removeEventListener("online", flush);
+    };
+  }, [activityClient, storageKey]);
   useEffect(() => {
     if (state) onPersistedState?.(state);
   }, [state, onPersistedState]);
@@ -448,6 +490,7 @@ export function App({
       }).id;
     });
     if (next) {
+      guestReporter.current?.record(next, id, "started");
       playFeedback("start", next.settings);
       setRoundId(id);
       setIndex(0);
@@ -475,6 +518,7 @@ export function App({
       }).id;
     });
     if (next) {
+      guestReporter.current?.record(next, id, "started");
       playFeedback("start", next.settings);
       setRoundId(id);
       setIndex(0);
@@ -1242,6 +1286,11 @@ export function App({
                     unlocks = newlyUnlocked(before, s);
                   });
                   if (next) {
+                    guestReporter.current?.record(
+                      next,
+                      current.id,
+                      "completed",
+                    );
                     setJustCompleted(current.id);
                     if (unlocks.length)
                       setCelebration({ roundId: current.id, unlocks });
@@ -2234,9 +2283,9 @@ function Settings({
   const readFile = async (file: File | undefined, kind: "csv" | "json") => {
     setMessage("");
     if (!file) return;
-    const limitMb = kind === "json" ? 64 : 20;
-    if (file.size > limitMb * 1024 * 1024) {
-      setMessage(`Datei ist zu groß. Höchstens ${limitMb} MB.`);
+    const maxMiB = kind === "json" ? 64 : 20;
+    if (file.size > maxMiB * 1024 * 1024) {
+      setMessage(`Datei ist zu groß. Höchstens ${maxMiB} MiB.`);
       return;
     }
     try {

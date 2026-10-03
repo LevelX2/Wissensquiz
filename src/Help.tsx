@@ -275,9 +275,11 @@ export function Help() {
         <p>
           „Highscores“ startet mit „Meine Rekorde“: Dein Bestwert je Auswahl und
           ein direkter Rückblick. Unter „Alle Runden“ findest Du frühere
-          Ergebnisse; „Weitere Filter“ grenzt Deine Liste ein. Im
-          „Spielervergleich“ wählst Du Leistungen aus allen Spielmodi oder
-          „Rekordrunden“. Rekorde werden nur innerhalb gleicher
+          Ergebnisse; „Weitere Filter“ grenzt Deine Liste ein. Die öffentliche
+          „Bestenliste“ zeigt registrierte Spieler mit Level, Titel, XP,
+          abgeschlossenen Spielen, Antworten und Trefferquote. Sie startet mit
+          Level & XP. Im „Spielervergleich“ wählst Du Leistungen aus allen
+          Spielmodi oder „Rekordrunden“. Rekorde werden nur innerhalb gleicher
           Genre-/Stufenkombinationen, Bekanntheitsauswahl, Kategorien,
           Rundengrößen, tatsächlicher Mischung und Regeln verglichen. Gleiche
           Punkte teilen sich einen Platz.
@@ -290,15 +292,26 @@ export function Help() {
           Wiederholungen und geratene Treffer zählen mit.
         </p>
         <p>
-          Bestätigte Quiz-Konten nehmen automatisch teil. Spielername,
-          Rekordergebnisse, Spieldatum und Leistungsstatistik sind für
-          angemeldete Spieler sichtbar. Auch bisherige gesicherte Runden zählen.
-          E-Mail und vollständiger Spielstand bleiben privat. Als Gast führst Du
-          nur Deine persönliche Liste auf diesem Gerät.
+          Bestätigte Quiz-Konten nehmen automatisch teil. Spielername, Level, XP
+          und zusammengefasste Leistungsstatistik sind in der öffentlichen
+          Bestenliste auch für Gäste sichtbar. Einzelne Rekordergebnisse und
+          Spieldaten findest Du nach Anmeldung im Spielervergleich. Auch
+          bisherige gesicherte Runden zählen. E-Mail und vollständiger
+          Spielstand bleiben privat. Als Gast führst Du Deine persönliche
+          Rekordliste auf diesem Gerät.
         </p>
         <p>
           Die Listen sind Trainingsvergleiche auf Basis der gespeicherten
           Spiele, kein unabhängig kontrollierter Wettbewerb.
+        </p>
+        <p>
+          Unter den Listen steht die Gastaktivität für heute und die sechs
+          vorherigen Tage in deutscher Zeit: gemeldete Spielstarts, Abschlüsse
+          und Antworten aus abgeschlossenen Spielen. Das sind keine Besucher-
+          oder Personenzahlen. Nur eine zufällige Rundeneventkennung, Zeitpunkt
+          und Zählwerte werden übertragen, keine Fragen oder Gastspielstände.
+          Offline-Meldungen werden bis zu sieben Tage nachgereicht; frühere
+          Aktivitäten vor Beginn der Erfassung fehlen.
         </p>
       </details>
       <details>

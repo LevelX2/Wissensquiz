@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { addPackages, packages } from "../../src/packages";
@@ -25,26 +25,7 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
       text: readFileSync(`public${p.path}`, "utf8"),
     })),
   );
-  const readState = () =>
-    page.evaluate(
-      () =>
-        new Promise<State>((resolve, reject) => {
-          const request = indexedDB.open("wissensquiz");
-          request.onerror = () => reject(request.error);
-          request.onsuccess = () => {
-            const db = request.result;
-            const query = db
-              .transaction("state")
-              .objectStore("state")
-              .get("current");
-            query.onsuccess = () => {
-              db.close();
-              resolve(query.result);
-            };
-            query.onerror = () => reject(query.error);
-          };
-        }),
-    );
+  const readState = () => readStoredState(page);
   const before = await readState();
   for (const [name, film] of [
     ["Horror", "Conjuring"],

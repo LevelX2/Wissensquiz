@@ -1,4 +1,4 @@
-import { test, expect } from "@playwright/test";
+import { test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
 test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe sind im Profil erreichbar", async ({
@@ -31,7 +31,6 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   });
   await levels.getByLabel("Leicht", { exact: true }).uncheck();
   await levels.getByLabel("Mittel", { exact: true }).uncheck();
-  await levels.getByLabel("Experte", { exact: true }).uncheck();
   await page.getByRole("button", { name: "Losspielen" }).click();
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Schwer",

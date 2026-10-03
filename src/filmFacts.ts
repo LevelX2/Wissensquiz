@@ -228,6 +228,12 @@ function directorOptions(
 export function addFilmFacts(questions: Question[]) {
   const existing = new Set(questions.map((q) => q.id));
   const references = new Map(questions.map((q) => [q.id, q]));
+  const byFilm = new Map<string, Question[]>();
+  for (const q of questions) {
+    const key = filmKey(q);
+    if (!byFilm.has(key)) byFilm.set(key, []);
+    byFilm.get(key)!.push(q);
+  }
   const genres = new Map(facts.map((f) => [f.film, normalizeGenre(f.genre)]));
   const added: string[] = [],
     missing: string[] = [];
@@ -237,7 +243,7 @@ export function addFilmFacts(questions: Question[]) {
       missing.push(f.id);
       continue;
     }
-    const siblings = questions.filter((q) => filmKey(q) === f.film);
+    const siblings = byFilm.get(f.film) ?? [];
     const tags = categories
       .filter((c) => c !== "Preisträger")
       .filter((c) => siblings.some((q) => isCategory(q, c)));
