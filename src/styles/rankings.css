@@ -1,0 +1,179 @@
+.leaderboard {
+  margin-top: 1rem;
+}
+.ranking-heading {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.leaderboard-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.leaderboard-filters label {
+  flex: 1 1 180px;
+  min-width: 0;
+}
+.leaderboard-filters select {
+  display: block;
+  width: 100%;
+  margin-top: 0.4rem;
+}
+.leaderboard-category {
+  margin: 0;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+}
+.leaderboard-category h3 {
+  overflow-wrap: anywhere;
+}
+.leaderboard-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.leaderboard-list li + li {
+  border-top: 1px solid var(--line);
+}
+.leaderboard-entry {
+  display: grid;
+  gap: 0.35rem;
+  padding: 1rem 0;
+}
+.leaderboard-entry button {
+  justify-self: start;
+}
+.ranking-main-switch button {
+  flex: 1 1 120px;
+  min-width: 0;
+  padding-inline: 0.5rem;
+}
+.guest-activity {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+}
+.guest-days {
+  list-style: none;
+  padding: 0;
+}
+.guest-days li {
+  display: grid;
+  gap: 0.25rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--line);
+  overflow-wrap: anywhere;
+}
+.ranking-comparison-switch button,
+.ranking-metrics button {
+  flex: 1 1 120px;
+}
+.ranking-comparison-switch button {
+  min-width: 0;
+  padding-inline: 0.65rem;
+}
+.ranking-metrics button {
+  min-width: 0;
+  padding: 0.5rem 0.25rem;
+  font-size: 0.9rem;
+}
+.ranking-empty {
+  padding: 1.25rem;
+  margin: 1rem 0;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fff;
+}
+.record-filter-bar {
+  display: flex;
+  align-items: end;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin: 1rem 0 0.5rem;
+}
+.record-filter-bar label {
+  display: grid;
+  gap: 0.4rem;
+  flex: 1 1 240px;
+  min-width: 0;
+}
+.record-filter-bar select {
+  width: 100%;
+  min-width: 0;
+}
+.ranking-details {
+  margin: 0.6rem 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+.ranking-details > summary {
+  padding: 0.7rem 0;
+  min-height: 44px;
+}
+.ranking-details p {
+  overflow-wrap: anywhere;
+}
+.ranking-filter-details .leaderboard-filters {
+  margin: 0.5rem 0 1rem;
+}
+.record-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.record-card-heading {
+  display: flex;
+  align-items: start;
+  gap: 0.75rem;
+}
+.record-card-heading > div:last-child {
+  min-width: 0;
+}
+.record-card-heading h3 {
+  margin: 0 0 0.35rem;
+}
+.record-card-heading p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+.record-genre-art {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+  flex: 0 0 44px;
+}
+.record-genre-art .genre-icon {
+  width: 40px;
+  height: 40px;
+}
+.record-best {
+  display: grid;
+  gap: 0.3rem;
+  margin: 1.25rem 0 0.5rem;
+}
+.record-best > strong {
+  font-size: 2rem;
+  color: var(--accent);
+}
+.record-best > strong > span {
+  font-size: 1rem;
+}
+.record-history {
+  border-top: 1px solid var(--line);
+}
+.record-selection {
+  margin-bottom: 0;
+}
+.leaderboard-list > .is-mine {
+  padding: 0 0.75rem;
+  border-left: 4px solid var(--green);
+  background: #edf5ef;
+}

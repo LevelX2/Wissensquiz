@@ -1,0 +1,72 @@
+/* Storage feedback keeps its geometry through every network state. */
+.nav-symbol {
+  position: relative;
+}
+.sync-symbol {
+  display: inline-grid;
+  place-items: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1;
+  background: #175b83;
+  color: #fff;
+}
+.sync-symbol.saved {
+  background: #216640;
+}
+.sync-symbol.offline {
+  background: #8b5309;
+}
+.nav-symbol .sync-symbol {
+  position: absolute;
+  right: -12px;
+  top: -4px;
+  width: 16px;
+  height: 16px;
+  font-size: 12px;
+}
+.round-status {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.sync-indicator {
+  position: relative;
+  flex-shrink: 0;
+}
+.sync-toggle {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 44px;
+  min-height: 44px;
+  padding: 0;
+  border-color: transparent;
+  background: transparent;
+}
+.sync-popover {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 30;
+  width: min(280px, 85vw);
+  max-height: 65dvh;
+  overflow: auto;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 5px 20px #24313b30;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.sync-popover p {
+  margin: 0 0 8px;
+}
+.sync-popover button {
+  font-size: 14px;
+}
+

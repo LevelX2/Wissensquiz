@@ -1,0 +1,272 @@
+.help-page {
+  max-width: 820px;
+}
+.help-page details {
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 16px 20px;
+}
+.help-page summary {
+  font-weight: 650;
+  color: var(--text);
+}
+.help-page p,
+.help-page li {
+  line-height: 1.7;
+}
+.learning-steps {
+  display: grid;
+  gap: 12px;
+  padding-left: 24px;
+}
+.help-example {
+  background: #f3e6c9;
+  padding: 14px 18px;
+  border-radius: 8px;
+  color: #624116;
+}
+
+.unlock-celebration {
+  border: 1px solid #d0b16b;
+  border-radius: 24px;
+  padding: 0;
+  width: min(540px, calc(100vw - 28px));
+  max-height: calc(100dvh - 40px);
+  overflow: auto;
+  color: #fff4d6;
+  background: #203b3b;
+  box-shadow: 0 24px 90px #102b3566;
+  text-align: center;
+  animation: unlock-arrive 400ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.unlock-celebration::backdrop {
+  background: #122529b8;
+}
+.unlock-scene {
+  position: relative;
+  height: 195px;
+  overflow: hidden;
+  background: radial-gradient(ellipse at bottom, #526247, #203b3b 75%);
+}
+.unlock-medal {
+  position: relative;
+  margin: 42px auto 0;
+  width: 130px;
+  height: 130px;
+  border: 2px solid #efd297;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 25%, #617652, #294443 70%);
+  color: #ffe3a1;
+  box-shadow:
+    0 0 0 9px #f2d49715,
+    0 0 50px #ffe3a12b;
+  animation: unlock-medal 850ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.unlock-medal svg {
+  width: 92px;
+  height: 105px;
+  margin-top: 7px;
+}
+.unlock-shackle {
+  transform-origin: 34px 46px;
+  animation: unlock-open 600ms 500ms ease-out forwards;
+}
+.unlock-copy {
+  padding: 10px 28px 28px;
+}
+.unlock-copy .eyebrow {
+  color: #d8d8bf;
+  font-size: 10px;
+  letter-spacing: 1.8px;
+}
+.unlock-copy h2 {
+  font-size: clamp(27px, 5vw, 38px);
+  line-height: 1.12;
+  margin: 16px 0 20px;
+  color: #fff4d6;
+}
+.unlock-copy p {
+  font-size: 14px;
+  line-height: 1.65;
+  color: #e0e7dc;
+}
+.unlock-copy .primary {
+  width: 100%;
+  margin-top: 12px;
+}
+.unlock-levels {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+}
+.unlock-levels li {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  gap: 8px 16px;
+  border: 1px solid #b8aa7680;
+  background: #fff4d610;
+  border-radius: 12px;
+  padding: 12px;
+}
+.unlock-levels strong {
+  color: #ffe3a1;
+  font-size: 25px;
+}
+.firework {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+}
+.firework-0 {
+  left: 18%;
+  top: 40%;
+}
+.firework-1 {
+  left: 82%;
+  top: 38%;
+}
+.firework-2 {
+  left: 50%;
+  top: 24%;
+}
+.firework i {
+  position: absolute;
+  width: 5px;
+  height: 9px;
+  border-radius: 2px;
+  background: var(--spark);
+  opacity: 0;
+  animation: unlock-spark 1.55s var(--delay) ease-out both;
+}
+.firework-trail {
+  position: absolute;
+  width: 3px;
+  height: 28px;
+  border-radius: 100%;
+  background: linear-gradient(transparent, #ffe3a1);
+  opacity: 0;
+  animation: unlock-trail 500ms both;
+}
+.firework-1 .firework-trail {
+  animation-delay: 450ms;
+}
+.firework-2 .firework-trail {
+  animation-delay: 900ms;
+}
+@keyframes unlock-arrive {
+  from {
+    opacity: 0;
+    transform: translateY(18px) scale(0.94);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@keyframes unlock-medal {
+  from {
+    opacity: 0;
+    transform: scale(0.35) rotate(-25deg);
+  }
+  65% {
+    opacity: 1;
+    transform: scale(1.08) rotate(4deg);
+  }
+  to {
+    transform: scale(1) rotate(0);
+  }
+}
+@keyframes unlock-open {
+  to {
+    transform: translateY(-7px) rotate(-26deg);
+  }
+}
+@keyframes unlock-trail {
+  0% {
+    opacity: 0;
+    transform: translateY(190px) scaleY(1.5);
+  }
+  30% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(0) scaleY(0.2);
+  }
+}
+@keyframes unlock-spark {
+  0% {
+    opacity: 0;
+    transform: translate(0, 0) scale(0.2);
+  }
+  12% {
+    opacity: 1;
+  }
+  75% {
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 0;
+    transform: translate(var(--x), var(--y)) rotate(var(--spin)) scale(0.5);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .unlock-celebration,
+  .unlock-medal,
+  .unlock-shackle {
+    animation: none;
+  }
+  .unlock-shackle {
+    transform: translateY(-7px) rotate(-26deg);
+  }
+  .firework {
+    display: none;
+  }
+}
+
+.film-data dl {
+  margin: 16px 0;
+}
+.film-data dl > div {
+  display: grid;
+  grid-template-columns: 165px minmax(0, 1fr);
+  gap: 8px 16px;
+  padding: 9px 0;
+  border-bottom: 1px solid #d5dcd7;
+}
+.film-data dt {
+  font-size: 14px;
+  font-weight: 600;
+}
+.film-data dd {
+  margin: 0;
+  font-size: 16px;
+  overflow-wrap: anywhere;
+}
+.film-data dd small {
+  display: block;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-top: 5px;
+}
+.film-data-note {
+  font-size: 14px;
+}
+.film-data-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  font-size: 14px;
+}
+@media (max-width: 480px) {
+  .film-data dl > div {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+}
+

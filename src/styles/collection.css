@@ -1,0 +1,232 @@
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  margin: 15px 0 32px;
+}
+.topic-card {
+  border: 1px solid #c7cfcd;
+  border-radius: 11px;
+  background: #ffffff;
+  overflow: hidden;
+  min-width: 0;
+}
+.topic-art {
+  height: 127px;
+  position: relative;
+  overflow: hidden;
+  background: radial-gradient(ellipse at center, #4f4a3b, #292c29 70%);
+  display: grid;
+  place-items: center;
+}
+.topic-art > span {
+  font-family: Georgia, serif;
+  color: #f7deb0;
+  font-size: 66px;
+  z-index: 1;
+  text-shadow: 0 0 24px #e4d5ab30;
+}
+.topic-art:has(.genre-illustration) {
+  min-height: 160px;
+}
+.topic-art:has(.genre-illustration) > span {
+  display: grid;
+  place-items: center;
+  width: 100%;
+}
+.genre-illustration {
+  width: min(88%, 150px);
+  height: 150px;
+  object-fit: contain;
+  filter: drop-shadow(0 6px 9px #00000030);
+}
+.topic-card:nth-child(3n + 2) .topic-art {
+  background: radial-gradient(ellipse at center, #39494a, #232c2f 75%);
+}
+.topic-card:nth-child(3n + 2) .topic-art > span {
+  color: #bde6e6;
+}
+.topic-card:nth-child(3n + 3) .topic-art {
+  background: radial-gradient(ellipse at center, #524238, #302a26 75%);
+}
+.topic-card:nth-child(3n + 3) .topic-art > span {
+  color: #ffdbbf;
+}
+.art-lines {
+  position: absolute;
+  width: 230px;
+  height: 230px;
+  border: 1px solid #b9bdac15;
+  border-radius: 50%;
+  transform: rotate(-25deg) scaleY(0.45);
+}
+.art-lines:after,
+.art-lines:before {
+  content: "";
+  position: absolute;
+  inset: 25px;
+  border: 1px solid #b9bdac25;
+  border-radius: 50%;
+}
+.art-lines:before {
+  inset: -25px;
+}
+.topic-body {
+  padding: 20px 17px 12px;
+}
+.topic-body .eyebrow {
+  font-size: 8px;
+  color: #4c5b60;
+  letter-spacing: 1.5px;
+}
+.topic-body h3 {
+  margin: 8px 0 17px;
+  font-size: 17px;
+}
+.mini-stats {
+  display: flex;
+  justify-content: space-between;
+  gap: 7px;
+  color: #4c5b60;
+  font-size: 9px;
+}
+.mini-stats b {
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  color: #4c5b60;
+  margin-bottom: 4px;
+}
+.topic-body progress {
+  height: 4px;
+  margin: 17px 0 3px;
+}
+.topic-body .tiny {
+  font-size: 9px;
+  margin-bottom: 8px;
+}
+.topic-body .text-button {
+  width: 100%;
+  border-top: 1px solid #343737;
+  border-radius: 0;
+  font-size: 11px;
+}
+.topic-body .text-button span {
+  float: right;
+}
+.demo-label {
+  font-size: 10px;
+  color: #4c5b60;
+  border-top: 1px solid #303335;
+  padding-top: 18px;
+  line-height: 1.8;
+}
+footer {
+  padding: 25px 5.2%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #4c5b60;
+  font-size: 8px;
+  letter-spacing: 1.3px;
+  gap: 12px;
+}
+footer button {
+  font-size: 9px;
+  border: 0;
+  background: none !important;
+  color: #4c5b60;
+  padding: 0;
+  min-height: 30px;
+  letter-spacing: 0;
+}
+.footer-star {
+  color: var(--accent);
+  padding: 0 9px;
+}
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin: 30px 0 36px;
+}
+.stat-grid > div {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 23px;
+  background: #ffffff;
+}
+.stat-grid > div > span {
+  font-size: 12px;
+  color: #4c5b60;
+}
+.stat-grid strong {
+  display: block;
+  font-size: 35px;
+  color: var(--accent);
+  font-weight: 500;
+  margin: 15px 0 10px;
+}
+.stat-grid strong small {
+  font-size: 14px;
+}
+.stat-grid p {
+  font-size: 11px;
+  color: var(--muted);
+  margin: 0;
+}
+.badge-panel {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 28px;
+  border: 1px solid #766041;
+  border-radius: 12px;
+  background: linear-gradient(110deg, #353124, #232626);
+}
+.badge-art {
+  font-size: 66px;
+  color: var(--accent);
+}
+.badge-panel h2 {
+  margin: 10px 0;
+}
+.badge-panel p {
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+.history {
+  border-top: 1px solid var(--line);
+}
+.history button,
+.record-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  width: 100%;
+  text-align: left;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  border-radius: 0;
+  background: none;
+  padding: 19px 5px;
+  font-size: 13px;
+}
+.history small {
+  display: block;
+  color: var(--muted);
+  margin-top: 7px;
+  font-size: 11px;
+}
+.history button > span {
+  color: var(--accent);
+  font-size: 12px;
+}
+.record-row span {
+  color: var(--muted);
+}
+.record-row b {
+  color: var(--accent);
+  white-space: nowrap;
+}

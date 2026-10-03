@@ -1,0 +1,80 @@
+.duel-entry {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.duel-entry small {
+  flex-basis: 100%;
+  font-weight: 400;
+}
+.duel-group,
+.duel-new {
+  margin-top: 1.5rem;
+}
+.duel-card,
+.duel-round-result {
+  border: 1px solid #cdd9d8;
+  border-radius: 16px;
+  padding: 1rem;
+  margin: 0.8rem 0;
+  background: #f7faf9;
+}
+.duel-card h3 {
+  margin: 0 0 0.4rem;
+  overflow-wrap: anywhere;
+}
+.duel-actions,
+.duel-rounds {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.8rem;
+}
+.duel-rounds span {
+  background: #e8efed;
+  border-radius: 7px;
+  padding: 0.35rem 0.6rem;
+}
+.duel-opponent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.4rem;
+  padding: 0.6rem 0;
+  color: #214f50;
+}
+.duel-opponent span {
+  font-size: 0.8rem;
+}
+.duel-history {
+  margin-top: 1.5rem;
+}
+.duel-history .duel-card > strong {
+  display: block;
+  margin-top: 0.75rem;
+}
+.duel-history .duel-card > .text-button {
+  margin-right: 1rem;
+}
+.guess-choice {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.7rem 0;
+}
+.progress-step.answered {
+  background: #e7ece8;
+  color: #485d51;
+}
+@media (max-width: 500px) {
+  .duel-actions > button {
+    flex: 1 1 auto;
+  }
+  .duel-card {
+    padding: 0.8rem;
+  }
+}

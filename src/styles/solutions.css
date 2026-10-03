@@ -1,0 +1,28 @@
+.solution-choice {
+  margin: 1rem 0;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--line, #d8dfd3);
+  border-radius: 12px;
+}
+.solution-choice legend {
+  font-weight: 700;
+}
+.solution-choice label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0.3rem 1.2rem 0.3rem 0;
+  min-height: 44px;
+  font-size: 14px;
+  white-space: nowrap;
+}
+.solution-choice input,
+.guess-choice input {
+  accent-color: #28674b;
+  flex: 0 0 18px;
+  width: 18px;
+  height: 18px;
+  min-height: 18px;
+  padding: 0;
+  margin: 0;
+}
