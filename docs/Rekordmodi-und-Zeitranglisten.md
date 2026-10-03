@@ -8,6 +8,8 @@ Die standardmäßig geschlossene Auswahlklappe „Spielmodus“ enthält Lernen,
 
 Die Gruppen sind Textschalter; jede konkrete Solo-Variante hat eine eigene illustrierte Spielkachel. Ein Klick auf die Kachel startet diese Variante direkt mit den eingestellten Filtern, einschließlich der gewählten Rekordauswahl. „Auswahl anpassen“ bereitet nur vor; „Losspielen“ bleibt erreichbar. Moduswahl und Start sind eine gemeinsame Speichertransaktion. Eine laufende Runde blockiert weitere Starts, leere Varianten sind gesperrt. Die Radiobuttons Standardmix/Eigene Auswahl bleiben mit festen Maßen und umbrechenden Beschreibungen innerhalb ihrer Box. [Bedienung und Gestaltung](Hilfe-und-Navigation.md#spielkacheln-und-rekordauswahl--03102026).
 
+Auch bei geschlossener Auswahl zeigt eine Kachel den gewählten Modus mit großem Motiv und seiner kurzen Spielregel. „Modus ändern“ öffnet die Varianten, ohne eine Runde zu starten. Die ausgewählte Kachel und die direkten Spielkacheln verwenden dieselbe Bildzuordnung; die Motive sind auf kleinen Geräten ebenfalls deutlich größer.
+
 | Variante | Zeit | Ende |
 | --- | --- | --- |
 | 10 Fragen | 30 Sekunden je Frage | Nach zehn beantworteten Fragen; Fehler beenden die Runde nicht. Kleine eigene Pools können weniger Fragen liefern. |
@@ -43,6 +45,8 @@ Alle drei Solo-Rekordmodi vergeben pro rechtzeitigem Treffer `100 + 2 × floor((
 ## Highscores
 
 Rekordspiele, Duelle und Karriere bilden getrennte Bereiche. Rekordspiele unterscheiden die drei Modi sowie Meine Läufe/Gemeinsame Rangliste. **Jeder abgeschlossene Lauf wird einzeln aufgelistet**, auch mit null Punkten. Derselbe Spieler kann mehrere Plätze belegen. Es gibt keine Reduktion auf den besten Lauf je Spieler und keine Summenwertung der Solo-Läufe.
+
+Die Ergebnisaktion „Bestenliste ansehen“ übergibt die konkrete Runde. Meine Läufe/Allzeit öffnet dadurch mit dem tatsächlichen Modus und ihrem vollständigen kanonischen `recordKey`, einschließlich Filter, Thema, Größe und Regelversion. „Dieser Lauf“ markiert genau den übergebenen Eintrag; Scrollen und Tastaturfokus machen ihn auch unter vielen besseren Ergebnissen sichtbar. Das gilt ebenso für ältere Rückblicke und frühere Regelversionen. Allgemeine Navigation über Highscores bleibt die Übersicht; ein früherer Ergebnisbezug wird dabei nicht übernommen. Duellrückblicke übergeben stattdessen die Begegnung und öffnen den Bereich Duelle mit den eigenen Allzeit-Ergebnissen. Die geladenen eigenen Ergebnisse markieren das passende Duell; die bestehende Begrenzung auf 50 Einträge je Seite bleibt erhalten.
 
 Woche beginnt Montag, Monat und Jahr sind aktuelle Kalenderzeiträume in Europe/Berlin. Allzeit umfasst alle gültigen Ergebnisse. Maßgeblich ist der gespeicherte Abschlusszeitpunkt, auch bei späterer Offline-Sicherung. Zeitraumwechsel löschen keine Ergebnisse.
 

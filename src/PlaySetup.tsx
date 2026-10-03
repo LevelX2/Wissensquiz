@@ -1,4 +1,10 @@
-import { ModePicker, modesForGroup, type PlayGroup } from "./ModePicker";
+import {
+  ModePicker,
+  ModeArtwork,
+  modeDescriptions,
+  modesForGroup,
+  type PlayGroup,
+} from "./ModePicker";
 import { isRecordMode, isEndlessMode } from "./recordModes";
 import { hasPackage, packages } from "./packages";
 import { matchesTopic } from "./categories";
@@ -177,7 +183,24 @@ export function PlaySetup({
         <div className="section-title">
           <h2>Wie möchtest Du spielen?</h2>
         </div>
-        <SetupSection title="Spielmodus" selection={modeNames[mode]}>
+        <SetupSection
+          title="Spielmodus"
+          className="mode-selection"
+          illustration={<ModeArtwork mode={mode} duel={playGroup === "duel"} />}
+          selection={
+            <>
+              <strong>
+                {playGroup === "duel" ? "Duell" : modeNames[mode]}
+              </strong>
+              <small>
+                {playGroup === "duel"
+                  ? "Drei Runden gegen einen Mitspieler"
+                  : modeDescriptions[mode]}
+              </small>
+            </>
+          }
+          actionLabel="Modus ändern"
+        >
           <ModePicker
             mode={mode}
             group={playGroup}

@@ -23,6 +23,7 @@ export function Result({
   state,
   onHome,
   onLeaderboard,
+  leaderboardLabel,
   onRetry,
   busy,
   celebrate,
@@ -31,6 +32,7 @@ export function Result({
   state: State;
   onHome: () => void;
   onLeaderboard: () => void;
+  leaderboardLabel?: string;
   onRetry: () => void;
   busy: boolean;
   celebrate: boolean;
@@ -218,9 +220,9 @@ export function Result({
           </div>
         ))}
       </section>
-      {isRecordMode(round.mode) && (
+      {(isRecordMode(round.mode) || leaderboardLabel) && (
         <button className="secondary" onClick={onLeaderboard}>
-          Bestenliste ansehen →
+          {leaderboardLabel ?? "Bestenliste ansehen"} →
         </button>
       )}
       <div className="result-actions">

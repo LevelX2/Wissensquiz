@@ -177,3 +177,15 @@
   border-left: 4px solid var(--green);
   background: #edf5ef;
 }
+.leaderboard-list > .is-current-run {
+  padding: 12px;
+  border: 2px solid #926528;
+  border-radius: 10px;
+  background: #fff5df;
+  scroll-margin-block: 100px;
+}
+.current-run-label {
+  color: #715224;
+  font-weight: 600;
+  font-size: 13px;
+}

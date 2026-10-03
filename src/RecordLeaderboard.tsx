@@ -1,5 +1,10 @@
-import { useContext, useMemo, useState } from "react";
-import { categoryLabel, leaderboard } from "./leaderboard";
+import { useContext, useEffect, useMemo, useRef, useState } from "react";
+import {
+  categoryLabel,
+  leaderboard,
+  type LeaderboardTarget,
+} from "./leaderboard";
+import { recordKey } from "./engine";
 import type { State } from "./model";
 import { RankingContext } from "./SharedLeaderboard";
 import { PlayerLeaderboard } from "./PlayerLeaderboard";
@@ -16,26 +21,55 @@ import {
 
 export function Leaderboard({
   state,
+  initialTarget,
   onReview,
   onAccount,
   onPlay,
 }: {
   state: State;
+  initialTarget?: LeaderboardTarget;
   onReview?: (id: string) => void;
   onAccount?: () => void;
   onPlay?: () => void;
 }) {
   const connection = useContext(RankingContext);
+  const targetRound =
+    initialTarget?.kind === "record"
+      ? state.rounds.find(
+          (r) =>
+            r.id === initialTarget.roundId &&
+            r.status === "completed" &&
+            isRecordMode(r.mode),
+        )
+      : undefined;
   const latest = [...state.rounds]
     .reverse()
     .find((r) => isRecordMode(r.mode) && r.status === "completed");
-  const [area, setArea] = useState<"records" | "duels" | "career">("records");
+  const [area, setArea] = useState<"records" | "duels" | "career">(
+    initialTarget?.kind === "duel" ? "duels" : "records",
+  );
   const [mode, setMode] = useState<RecordMode>(
-    latest && isRecordMode(latest.mode) ? latest.mode : "rekord",
+    targetRound && isRecordMode(targetRound.mode)
+      ? targetRound.mode
+      : latest && isRecordMode(latest.mode)
+        ? latest.mode
+        : "rekord",
   );
   const [scope, setScope] = useState<"mine" | "shared">("mine");
   const [period, setPeriod] = useState<RecordPeriod>("all");
-  const [category, setCategory] = useState("");
+  const [category, setCategory] = useState(
+    targetRound ? recordKey(targetRound) : "",
+  );
+  const targetEntry = useRef<HTMLLIElement>(null);
+  useEffect(() => {
+    if (!targetRound) return;
+    // Run after the page-level heading focus and scroll reset.
+    const frame = requestAnimationFrame(() => {
+      targetEntry.current?.scrollIntoView({ block: "center" });
+      targetEntry.current?.focus({ preventScroll: true });
+    });
+    return () => cancelAnimationFrame(frame);
+  }, [targetRound?.id]);
   const [filteredCareer, setFilteredCareer] = useState(false);
   const categories = useMemo(() => leaderboard(state, mode), [state, mode]);
   const groups = useMemo(
@@ -154,6 +188,11 @@ export function Leaderboard({
               period={period}
               mine={scope === "mine"}
               onAccount={onAccount}
+              initialDuelId={
+                initialTarget?.kind === "duel"
+                  ? initialTarget.duelId
+                  : undefined
+              }
             />
           ) : scope === "shared" ? (
             <OnlineRecords key={mode + period} mode={mode} period={period} />
@@ -204,8 +243,29 @@ export function Leaderboard({
                     aria-label="Abgeschlossene Läufe"
                   >
                     {group.entries.map((e) => (
-                      <li key={e.round.id} value={e.rank}>
+                      <li
+                        key={e.round.id}
+                        value={e.rank}
+                        className={
+                          e.round.id === targetRound?.id
+                            ? "is-current-run"
+                            : undefined
+                        }
+                        ref={
+                          e.round.id === targetRound?.id
+                            ? targetEntry
+                            : undefined
+                        }
+                        tabIndex={
+                          e.round.id === targetRound?.id ? -1 : undefined
+                        }
+                      >
                         <div className="leaderboard-entry">
+                          {e.round.id === targetRound?.id && (
+                            <span className="current-run-label">
+                              Dieser Lauf
+                            </span>
+                          )}
                           <strong>
                             Platz {e.rank} · {e.points.toLocaleString("de-DE")}{" "}
                             Punkte

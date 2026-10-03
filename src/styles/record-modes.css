@@ -1,3 +1,62 @@
+.mode-selection {
+  border-color: #926528;
+  border-radius: 16px;
+  box-shadow: 0 4px 14px #76501d18;
+  overflow: hidden;
+}
+.mode-selection > summary {
+  grid-template-columns: 128px minmax(0, 1fr);
+  gap: 4px 20px;
+  min-height: 160px;
+  padding: 16px 20px;
+  background: linear-gradient(145deg, #fff9ed, #f5e8ca);
+}
+.mode-selection > summary::after {
+  display: none;
+}
+.mode-selection > summary .mode-artwork {
+  grid-column: 1;
+  grid-row: 1 / 4;
+  width: 128px;
+  height: 128px;
+  margin: 0;
+}
+.mode-selection .setup-section-selection,
+.mode-selection .setup-section-title,
+.mode-selection .setup-section-action {
+  grid-column: 2;
+}
+.mode-selection .setup-section-selection strong {
+  display: block;
+  color: #24313b;
+  font-size: 20px;
+}
+.mode-selection .setup-section-selection small {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.setup-section-action {
+  color: #715224;
+  font-size: 13px;
+  font-weight: 600;
+}
+@media (max-width: 500px) {
+  .mode-selection > summary {
+    grid-template-columns: 104px minmax(0, 1fr);
+    min-height: 136px;
+    gap: 3px 12px;
+    padding: 12px;
+  }
+  .mode-selection > summary .mode-artwork {
+    width: 104px;
+    height: 104px;
+  }
+  .mode-selection .setup-section-selection strong {
+    font-size: 18px;
+  }
+}
 .mode-groups {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

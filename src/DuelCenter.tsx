@@ -40,7 +40,7 @@ export function DuelCenter({
   onHome: () => void;
   onAccount: () => void;
   onRetry: (r: Round) => void;
-  onLeaderboard: () => void;
+  onLeaderboard: (duelId: string) => void;
   onPlaying: (playing: boolean) => void;
 }) {
   const connection = useContext(RankingContext);
@@ -414,7 +414,8 @@ export function DuelCenter({
               setReview(null);
               void run(refresh);
             }}
-            onLeaderboard={onLeaderboard}
+            onLeaderboard={() => onLeaderboard(review.duel.id)}
+            leaderboardLabel="Duell-Bestenliste ansehen"
             onRetry={() => onRetry(local)}
             busy={unavailable}
             celebrate={false}

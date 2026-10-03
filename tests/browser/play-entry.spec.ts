@@ -21,7 +21,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   const tiles = page.locator(".mode-groups .mode-group");
   const duel = page.getByRole("button", { name: "Duell", exact: true });
   await expect(tiles).toHaveCount(3);
-  await expect(page.locator(".mode-artwork")).toHaveCount(3);
+  await expect(page.locator(".mode-artwork")).toHaveCount(4);
   for (const img of await page.locator(".mode-artwork").all())
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))
@@ -205,7 +205,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   if (browserName === "chromium") await context.setOffline(true);
   await page.reload();
   await openRoundSetup(page);
-  await expect(page.locator(".mode-artwork")).toHaveCount(3);
+  await expect(page.locator(".mode-artwork")).toHaveCount(4);
   for (const img of await page.locator(".mode-artwork").all())
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))

@@ -1,4 +1,4 @@
-import { useContext, useEffect, useState } from "react";
+import { useContext, useEffect, useRef, useState } from "react";
 import { z } from "zod";
 import { RankingContext } from "./SharedLeaderboard";
 import { ActivityContext } from "./GuestActivity";
@@ -274,10 +274,12 @@ export function DuelRankings({
   period,
   mine,
   onAccount,
+  initialDuelId,
 }: {
   period: RecordPeriod;
   mine: boolean;
   onAccount?: () => void;
+  initialDuelId?: string;
 }) {
   const connection = useContext(RankingContext),
     publicClient = useContext(ActivityContext);
@@ -286,6 +288,15 @@ export function DuelRankings({
     : (connection?.client ?? publicClient);
   const [ranks, setRanks] = useState<z.infer<typeof duelRankSchema>[]>([]);
   const [results, setResults] = useState<z.infer<typeof resultSchema>[]>([]);
+  const targetEntry = useRef<HTMLLIElement>(null);
+  useEffect(() => {
+    if (!initialDuelId || !mine) return;
+    const frame = requestAnimationFrame(() => {
+      targetEntry.current?.scrollIntoView({ block: "center" });
+      targetEntry.current?.focus({ preventScroll: true });
+    });
+    return () => cancelAnimationFrame(frame);
+  }, [initialDuelId, mine, results]);
   const [offset, setOffset] = useState(0),
     [refresh, setRefresh] = useState(0);
   const [loading, setLoading] = useState(true),
@@ -357,8 +368,16 @@ export function DuelRankings({
       ) : mine ? (
         <ul className="leaderboard-list">
           {results.map((d) => (
-            <li key={d.id}>
+            <li
+              key={d.id}
+              className={d.id === initialDuelId ? "is-current-run" : undefined}
+              ref={d.id === initialDuelId ? targetEntry : undefined}
+              tabIndex={d.id === initialDuelId ? -1 : undefined}
+            >
               <div className="leaderboard-entry">
+                {d.id === initialDuelId && (
+                  <span className="current-run-label">Dieses Duell</span>
+                )}
                 <strong>
                   {d.opponent} ·{" "}
                   {d.result === "win"

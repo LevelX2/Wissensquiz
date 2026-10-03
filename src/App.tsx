@@ -1,5 +1,6 @@
 import { isRecordMode, isEndlessMode } from "./recordModes";
 import type { PlayGroup } from "./ModePicker";
+import type { LeaderboardTarget } from "./leaderboard";
 import { familiarities } from "./familiarity";
 import {
   lazy,
@@ -107,6 +108,8 @@ export function App({
   const [pendingSetup, setPendingSetup] = useState<RoundSetup | null>(null);
   const [roundId, setRoundId] = useState("");
   const [justCompleted, setJustCompleted] = useState("");
+  const [leaderboardTarget, setLeaderboardTarget] =
+    useState<LeaderboardTarget>();
   const [duelPlaying, setDuelPlaying] = useState(false);
   const [index, setIndex] = useState(0);
   const [celebration, setCelebration] = useState<{
@@ -244,7 +247,7 @@ export function App({
       setBusy(false);
     }
   };
-  const nav = async (next: Page | DuelPage) => {
+  const nav = async (next: Page | DuelPage, target?: LeaderboardTarget) => {
     if (next === "topics") setTopicScope(null);
     setCelebration(null);
     if (
@@ -268,6 +271,7 @@ export function App({
       });
       if (!saved) return;
     }
+    if (next === "leaderboard") setLeaderboardTarget(target);
     setPage(next);
   };
   useEffect(() => {
@@ -616,6 +620,7 @@ export function App({
                   <h1>Highscores</h1>
                   <Leaderboard
                     state={state}
+                    initialTarget={leaderboardTarget}
                     onAccount={() => void nav("account")}
                     onPlay={() => {
                       void changeSetup({ mode: "rekord" }).then((saved) => {
@@ -694,7 +699,9 @@ export function App({
                   onHome={() => void nav("home")}
                   onAccount={() => void nav("account")}
                   onRetry={(round) => void retryErrors(round)}
-                  onLeaderboard={() => void nav("leaderboard")}
+                  onLeaderboard={(duelId) =>
+                    void nav("leaderboard", { kind: "duel", duelId })
+                  }
                   onPlaying={setDuelPlaying}
                 />
               )}
@@ -703,7 +710,12 @@ export function App({
                   round={current}
                   state={state}
                   onHome={() => setPage("home")}
-                  onLeaderboard={() => setPage("leaderboard")}
+                  onLeaderboard={() =>
+                    void nav("leaderboard", {
+                      kind: "record",
+                      roundId: current.id,
+                    })
+                  }
                   onRetry={() => void retryErrors(current)}
                   busy={busy}
                   celebrate={justCompleted === current.id}

@@ -120,6 +120,42 @@ test("zwei getrennte Konten spielen die vier Blöcke, sehen offene Duelle und er
       path: testInfo.outputPath("duel-overview-mobile.png"),
       fullPage: true,
     });
+    // This fixture's older backend has no rankings RPC. Return the actual
+    // completed synthetic duel in the current private-results response shape.
+    const result = await service.db.query<{
+      summary: object;
+      finished: number;
+    }>(
+      "select public.quiz_duel_summary(d,$1::uuid) as summary, floor(extract(epoch from d.finished_at)*1000)::double precision as finished from public.quiz_duels d where status='completed'",
+      [bob],
+    );
+    expect(result.rows).toHaveLength(1);
+    await b.route("**/rpc/quiz_duel_results", (route) => {
+      expect(route.request().postDataJSON()).toEqual({
+        selected_period: "all",
+        page_offset: 0,
+      });
+      return route.fulfill({
+        json: [
+          { ...result.rows[0].summary, finishedAt: result.rows[0].finished },
+        ],
+      });
+    });
+    await b
+      .getByRole("button", { name: "Runde 3 ansehen", exact: true })
+      .click();
+    await b.getByRole("button", { name: "Bestenliste ansehen" }).click();
+    await expect(
+      b.getByRole("button", { name: "Duelle", exact: true }),
+    ).toHaveAttribute("aria-pressed", "true");
+    await expect(
+      b.getByRole("button", { name: "Meine Läufe", exact: true }),
+    ).toHaveAttribute("aria-pressed", "true");
+    await expect(b.locator(".is-current-run")).toContainText("Dieses Duell");
+    await expect(b.locator(".is-current-run")).toContainText(
+      "1 Ranglistenpunkte",
+    );
+    await expect(b.locator(".is-current-run")).toBeInViewport();
   } finally {
     await ac.close();
     await bc.close();

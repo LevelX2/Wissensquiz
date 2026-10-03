@@ -2,7 +2,7 @@ import type { Mode } from "./model";
 import { modeNames } from "./recordModes";
 
 export type PlayGroup = "learn" | "timed" | "duel";
-const descriptions: Record<Mode, string> = {
+export const modeDescriptions: Record<Mode, string> = {
   entdecken: "Filmwelten und Stufen freischalten",
   ueben: "Alle Stufen frei kombinieren",
   fehler: "Offene Fehler gezielt wiederholen",
@@ -18,6 +18,23 @@ const artwork: Record<Mode, string> = {
   fehlerfrei: "fehlerfrei.svg",
   zeitkonto: "zeitkonto.svg",
 };
+export function ModeArtwork({
+  mode,
+  duel = false,
+}: {
+  mode: Mode;
+  duel?: boolean;
+}) {
+  return (
+    <img
+      className="mode-artwork"
+      src={`/modes/${duel ? "duell.svg" : artwork[mode]}`}
+      alt=""
+      width={128}
+      height={128}
+    />
+  );
+}
 export function modesForGroup(group: PlayGroup): Mode[] {
   return group === "learn"
     ? ["entdecken", "ueben", "fehler"]
@@ -79,15 +96,9 @@ export function ModePicker({
                 className={`mode-card mode-variant ${mode === item ? "active" : ""}`}
                 onClick={() => onStart(item)}
               >
-                <img
-                  className="mode-artwork"
-                  src={`/modes/${artwork[item]}`}
-                  alt=""
-                  width={88}
-                  height={88}
-                />
+                <ModeArtwork mode={item} />
                 <strong>{modeNames[item]}</strong>
-                <small>{descriptions[item]}</small>
+                <small>{modeDescriptions[item]}</small>
                 <span className="mode-play">
                   {available(item) ? "Spielen" : "Keine passenden Fragen"}{" "}
                   <span aria-hidden="true">→</span>

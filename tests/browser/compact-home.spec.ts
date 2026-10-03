@@ -13,7 +13,9 @@ for (const width of [320, 1440]) {
     await expect(page.locator(".setup-section[open]")).toHaveCount(0);
     await expect(page.locator(".mode-card").first()).not.toBeVisible();
     const startBox = (await start.boundingBox())!;
-    expect(startBox.y + startBox.height).toBeLessThan(400);
+    // The selected mode now has a large illustrated tile; the start action
+    // still stays in the upper part of the first viewport.
+    expect(startBox.y + startBox.height).toBeLessThan(500);
     await page.screenshot({
       path: `test-results/kompakte-startseite-standard-${width}.png`,
       fullPage: true,

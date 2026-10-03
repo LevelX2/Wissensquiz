@@ -17,6 +17,9 @@ import {
   type RecordPeriod,
 } from "./recordModes";
 
+export type LeaderboardTarget =
+  { kind: "record"; roundId: string } | { kind: "duel"; duelId: string };
+
 export const genreSelection = (r: Round) =>
   [
     ...new Set(

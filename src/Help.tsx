@@ -124,6 +124,12 @@ export function Help() {
       </details>
       <details>
         <summary>Welcher Spielmodus passt zu mir?</summary>
+        <p>
+          Die Kachel auf der Startseite zeigt Deinen ausgewählten Modus mit
+          großem Motiv. „Modus ändern“ öffnet die Spielauswahl; dort starten die
+          illustrierten Kacheln direkt mit Deinen eingestellten Filtern.
+          „Auswahl anpassen“ wählt nur den Modus zur Vorbereitung.
+        </p>
         <ul>
           <li>
             <strong>Filmreise:</strong> Unbeantwortete Wissensziele zuerst

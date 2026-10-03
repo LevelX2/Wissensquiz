@@ -81,6 +81,9 @@ test("Fehlerfrei sichert den ersten Fehler sofort, bleibt nach Neuladen und steh
   await page.getByRole("button", { name: /^Runde abschließen/ }).click();
   await page.getByRole("button", { name: "Bestenliste ansehen" }).click();
   await expect(page.locator(".leaderboard-entry")).toHaveCount(2);
+  await expect(page.locator(".is-current-run")).toHaveCount(1);
+  await expect(page.locator(".is-current-run")).toContainText("Dieser Lauf");
+  await expect(page.locator(".is-current-run")).toBeInViewport();
   await expect(page.locator(".leaderboard-entry").last()).toContainText(
     "Platz 1",
   );
