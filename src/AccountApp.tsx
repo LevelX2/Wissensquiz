@@ -17,6 +17,7 @@ import {
 import { read } from "./storage";
 import type { State } from "./model";
 import { ActivityContext } from "./GuestActivity";
+import { requestWithin } from "./request";
 
 type Link = ReturnType<typeof parseAccountLink>;
 const recoveryMarker = {
@@ -118,7 +119,12 @@ export function AccountApp() {
           setPending(true);
           setUser(null);
         }
-        const { data, error } = await client.auth.getUser();
+        const { data, error } = await requestWithin(() =>
+          client.auth.getUser(),
+        ).catch(() => ({
+          data: { user: null },
+          error: true,
+        }));
         if (!alive || ticket !== sequence) return;
         const verified =
           !error && data.user?.email_confirmed_at ? data.user : null;
@@ -146,7 +152,11 @@ export function AccountApp() {
         });
       });
       unsubscribe = () => subscription.data.subscription.unsubscribe();
-      const { data } = await client.auth.getSession();
+      const { data } = await requestWithin(() =>
+        client.auth.getSession(),
+      ).catch(() => ({
+        data: { session: null },
+      }));
       if (alive) await verify(data.session);
     });
     return () => {

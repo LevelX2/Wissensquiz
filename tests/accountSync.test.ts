@@ -2,10 +2,90 @@ import { expect, it, vi } from "vitest";
 import { AccountSync, fingerprint, type SyncStore } from "../src/accountSync";
 import { CloudConflict, type SyncReceipt } from "../src/accounts";
 import { emptyState, type State } from "../src/model";
+import { RequestTimeout } from "../src/request";
 
 const changed = (sound: boolean) => ({
   ...emptyState(),
   settings: { spoilers: true, sound },
+});
+
+it("begrenzt einen hängenden Erstabruf und erhält den lokalen Stand", async () => {
+  vi.useFakeTimers();
+  const f = fixture();
+  f.local = changed(false);
+  f.store.remote = () => new Promise(() => {});
+  const sync = new AccountSync(f.store, () => {});
+  try {
+    const result = sync.prepare().catch((error) => error);
+    await vi.advanceTimersByTimeAsync(10_000);
+    expect(await result).toBeInstanceOf(RequestTimeout);
+    expect(f.local.settings.sound).toBe(false);
+    expect(f.receipt).toBeUndefined();
+  } finally {
+    sync.stop();
+    vi.useRealTimers();
+  }
+});
+
+it.each([false, true])(
+  "holt nach hängendem Upload neue lokale Änderungen nach, Servercommit=%s",
+  async (committed) => {
+    vi.useFakeTimers();
+    const f = fixture();
+    const save = f.store.save;
+    let started!: () => void;
+    const gate = new Promise<void>((resolve) => {
+      started = resolve;
+    });
+    let signal: AbortSignal | undefined;
+    f.store.save = async (state, revision, incomingSignal) => {
+      signal = incomingSignal;
+      if (committed) await save(state, revision);
+      started();
+      return new Promise(() => {});
+    };
+    const sync = new AccountSync(f.store, () => {});
+    try {
+      await sync.prepare();
+      sync.offer(changed(false));
+      const pending = sync.flush();
+      await gate;
+      f.local = changed(true);
+      sync.offer(f.local);
+      await vi.advanceTimersByTimeAsync(30_000);
+      await pending;
+      expect(sync.status).toBe("offline");
+      expect(signal?.aborted).toBe(true);
+      f.store.save = save;
+      await sync.flush();
+      expect(sync.status).toBe("saved");
+      expect(f.remote?.state.settings.sound).toBe(true);
+      expect(f.remote?.revision).toBe(committed ? 2 : 1);
+      expect(f.receipt?.revision).toBe(f.remote?.revision);
+    } finally {
+      sync.stop();
+      vi.useRealTimers();
+    }
+  },
+);
+
+it("überschreibt nach unbestätigtem Upload keine zusätzlich geänderte Serverrevision", async () => {
+  const f = fixture();
+  const save = f.store.save;
+  const sync = new AccountSync(f.store, () => {});
+  await sync.prepare();
+  f.store.save = async (state, revision) => {
+    await save(state, revision);
+    throw new Error("Antwort verloren");
+  };
+  sync.offer(changed(false));
+  await sync.flush();
+  f.remote = { state: changed(true), revision: 2 };
+  f.store.save = save;
+  await sync.flush();
+  expect(sync.status).toBe("conflict");
+  expect(f.remote.revision).toBe(2);
+  sync.stop();
 });
 function fixture() {
   let local: State | undefined;

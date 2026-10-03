@@ -1,0 +1,32 @@
+# Strukturverbesserungen und Abnahme
+
+Stand: 03.10.2026. Auftrag: Empfehlungen der [Strukturprüfung](Strukturpruefung-2026-10-03.md) sequenziell in einem eigenen Worktree umsetzen, Status liefern und anschließend eine Freigabe anfordern.
+
+## Ziel und Grenzen
+
+Die Umsetzung erhält Frage- und Wissensziel-IDs, Spielregeln, historische Snapshots, lokale Sicherungsschemata und Offlinebetrieb. Kleine Verbesserungen an Sicherung und Fehlerrückmeldung gehören zum Auftrag. Die nur für späteres Wachstum vorgeschlagenen Katalog-Schreibpfade und serverseitigen Statistikprojektionen werden ohne belegten Bedarf nicht eingeführt. Keine SQL-Migration oder Live-Datenänderung.
+
+Worktree: `wissensquiz-strukturverbesserungen/Wissensquiz`, Branch `codex/strukturverbesserungen`. Der geprüfte Gesamtarbeitsstand liegt als separater Ausgangscommit `708bf19` vor. Bereits vorhandene Änderungen im Hauptordner bleiben erhalten. Genau ein Paket wird aktiv bearbeitet. Jeder Paketabschluss enthält passende Prüfungen, Diffprüfung und einen lokalen Commit. Integration, Veröffentlichung, Push und Worktree-Cleanup folgen erst auf einen entsprechenden Nutzerauftrag; insbesondere ersetzt dieser Prozess die abschließend gewünschte Freigabe nicht.
+
+## Paketfolge
+
+| Paket | Ziel | Prüfung und Abschlusskriterium | Status |
+| --- | --- | --- | --- |
+| P1 | Begrenzte Kontoanfragen und sichere Nachsicherung bei unklarem Ausgang | Konto-/Sync-Tests, hängende Anfrage und verlorene Antwort; bestehende Revisionen erhalten | Erledigt |
+| P2 | Gemeinsame Spielansichten und große Seiten aus der App lösen | Build, kein App-/Duell-Importkreis, betroffene Spiel-/Navigationstests | Aktiv |
+| P3 | Auswertungen nach sichtbarer Seite und Katalogstand berechnen | Auswahl-/Lernpfadtests, relevante Themen-/Auswahlbrowserfälle, Fälligkeit bei Rückkehr | Offen |
+| P4 | Styles in geordnete Zuständigkeitsbereiche aufteilen | Gleichbleibende CSS-Reihenfolge, Build, mobile Ansichten und Barrierearmut | Offen |
+| P5 | Selten benötigte Ansichten getrennt laden | Buildgrößen, Ladefehlerbehandlung, vorbereiteter Offlinezugriff auf die Ansichten | Offen |
+| P6 | Gemeinsame Sicherungsschemas und getrennte Validierung | Typprüfung, Sicherungs-/Katalog-/Cloudtests, Altstände und SQL-Projektionen erhalten | Offen |
+| P7 | Rückfallkopien exportieren, Kontodienst erneut laden, letzte Onlinebestätigung anzeigen | Konto-/Speichertests, isolierte Browserprüfung, keine stillen Übernahmen oder Löschungen | Offen |
+| P8 | Aktuelle Statusseiten verdichten und Freigabe vorbereiten | Quellen-/Linkprüfung, betroffene Schlusschecks, saubere Paketcommits und Abnahmebericht | Offen |
+
+## Prüfregeln
+
+Pro Paket nur direkt betroffene Tests und Checks. Für Änderungen an Oberfläche, Persistenz und Offlineverhalten gelten die Browserchecks des Projekts. Ein Build ist bei betroffenen Modul- oder Ladegrenzen erforderlich. Neue Tests decken neue Fehler- und Speicherverträge ab; reine Datei-Auslagerungen verwenden vorhandene Regressionen. Testergebnisse und Grenzen werden am Paketabschluss ergänzt. Ungeklärte fachliche Änderungen blockieren das betreffende Paket und werden nicht durch einen technischen Ersatz entschieden.
+
+## Fortschritt
+
+Die Ausgangsbasis wurde isoliert übernommen; Abhängigkeiten aus dem vorhandenen Lockfile installiert. Der bisherige Nachweis umfasst 214 Tests, Build und 30 gezielte Browserfälle. Die neuen Paketänderungen werden jeweils gesondert geprüft.
+
+P1: Allgemeine Anfragehilfe mit Abbruch und Wartegrenze, zehn Sekunden für Kontoabrufe und 30 Sekunden für Uploads. Unbestätigte Uploads werden vor neuen Änderungen abgeglichen. 26 direkte Konto-/Sync-/Duell-/Gastaktivitätstests, Produktions-Build und vier gezielte Kontobrowserfälle erfolgreich. Neue Fehlerfälle prüfen hängenden Erstabruf, Upload mit und ohne Servercommit, verlorene Antwort mit neueren lokalen Änderungen und zusätzliche fremde Revision. Keine Migration oder Änderung am Sicherungsschema. Der bekannte Hinweis zur großen JavaScript-Datei bleibt für P5 offen.

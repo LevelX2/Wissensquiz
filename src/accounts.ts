@@ -101,13 +101,18 @@ export async function cloudSave(
   state: State,
   revision: number,
   ownerId: string,
+  signal?: AbortSignal,
 ) {
   const checked = validateBackup(state);
-  const { data, error, status } = await client.rpc("quiz_save_state", {
-    payload: await encodeCloudState(checked),
+  const payload = await encodeCloudState(checked);
+  signal?.throwIfAborted();
+  let request = client.rpc("quiz_save_state", {
+    payload,
     expected_revision: revision,
     expected_owner: ownerId,
   });
+  if (signal) request = request.abortSignal(signal);
+  const { data, error, status } = await request;
   if (error?.message.includes("revision_conflict"))
     throw new CloudConflict(
       "Auf einem anderen Gerät wurde bereits gespeichert. Lade zuerst den Online-Stand; Dein lokaler Stand bleibt erhalten.",
@@ -151,12 +156,17 @@ export async function writeSyncReceipt(key: string, receipt: SyncReceipt) {
     tx.onabort = () => reject(tx.error);
   });
 }
-export async function cloudRead(client: SupabaseClient, ownerId: string) {
-  const { data, error } = await client
+export async function cloudRead(
+  client: SupabaseClient,
+  ownerId: string,
+  signal?: AbortSignal,
+) {
+  let request = client
     .from("quiz_saves")
     .select("state,revision,updated_at")
-    .eq("owner_id", ownerId)
-    .maybeSingle();
+    .eq("owner_id", ownerId);
+  if (signal) request = request.abortSignal(signal);
+  const { data, error } = await request.maybeSingle();
   if (error)
     throw new Error("Der Online-Spielstand konnte nicht geladen werden.");
   if (!data) return null;

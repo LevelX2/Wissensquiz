@@ -21,6 +21,7 @@ import {
 import { download, read } from "./storage";
 import type { State } from "./model";
 import { ActivityContext } from "./GuestActivity";
+import { requestWithin } from "./request";
 
 export const syncText: Record<SyncStatus, string> = {
   loading: "Dein Spielstand wird geladen …",
@@ -79,10 +80,11 @@ export function AccountGame({
           local: () => read(storageKey),
           receipt: () => readSyncReceipt(storageKey),
           legacyRevision: () => cloudRevision(storageKey),
-          remote: () => cloudRead(client, owner),
+          remote: (signal) => cloudRead(client, owner, signal),
           replace: (state) => replaceAccountState(storageKey, state),
           acknowledge: (receipt) => writeSyncReceipt(storageKey, receipt),
-          save: (state, revision) => cloudSave(client, state, revision, owner),
+          save: (state, revision, signal) =>
+            cloudSave(client, state, revision, owner, signal),
         },
         (value, detail) => {
           if (alive) {
@@ -94,7 +96,9 @@ export function AccountGame({
       engine.current = sync;
       try {
         if (acceptRemote.current) {
-          const remote = await cloudRead(client, owner);
+          const remote = await requestWithin((signal) =>
+            cloudRead(client, owner, signal),
+          );
           if (!remote) throw new Error("Online-Spielstand nicht gefunden.");
           if (!alive) return;
           await replaceAccountState(storageKey, remote.state);

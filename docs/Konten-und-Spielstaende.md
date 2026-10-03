@@ -12,6 +12,8 @@ Alle Passwortfelder bieten ein Auge zum Ein- und Ausblenden; der Wert wird dabei
 
 ## Spielstände und Gerätewechsel
 
+Im Struktur-Worktree am 03.10.2026 ergänzt, noch nicht veröffentlicht: Sitzungsprüfung und Onlineabruf enden nach zehn Sekunden mit einem behandelbaren Fehler; Uploads sind auf 30 Sekunden begrenzt. Lokale Änderungen bleiben erhalten. Nach unbestätigtem Upload gleicht die laufende Warteschlange den tatsächlich versuchten Stand mit Serverrevision und Inhaltsfingerabdruck ab, bevor sie neuere lokale Änderungen hochlädt. Zusätzliche fremde Serveränderungen führen weiter zum ausdrücklich aufzulösenden Konflikt. Abbruch und Wartegrenze behaupten keine Rücknahme einer bereits serverseitig ausgeführten Speicherung.
+
 - Angemeldete Spieler laden beim Anmelden oder Neuladen automatisch ihren Online-Stand. Lokal gespeicherte Änderungen werden anschließend automatisch online gesichert; Aktionen innerhalb eines festen 800-ms-Fensters werden zum neuesten Stand gebündelt. Lokale Speicherung wartet nicht auf diesen Upload. Die bisherigen manuellen Sichern-/Prüfen-/Laden-Schaltflächen entfallen. Vor Gerätewechsel auf „Spielstand online gespeichert“ warten.
 - Der Gaststand bleibt ausschließlich auf diesem Gerät und unter seinem bisherigen IndexedDB-Schlüssel erhalten. Jedes Konto hat einen eigenen, zusätzlich nach Supabase-Projekt getrennten Schlüssel. Der Gaststand wird nur auf ausdrücklichen Wunsch ins Konto kopiert; das Original bleibt erhalten.
 - Eine gespeicherte Bestätigung aus Revision und Inhaltsfingerabdruck erkennt noch nicht hochgeladene Änderungen auch nach Neuladen. Fehlgeschlagene Uploads werden bei Netzrückkehr bzw. alle zehn Sekunden wiederholt. Lokale Änderungen bleiben erhalten.

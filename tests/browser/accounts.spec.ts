@@ -7,6 +7,36 @@ import { startRound, answer, complete } from "../../src/engine";
 // Auth HTTP responses must remain interceptable after reload; offline behavior
 // is covered separately against the real service worker.
 test.use({ serviceWorkers: "block" });
+
+test("ein hängender Kontospielstand endet mit erneutem Versuch statt dauerhafter Ladeansicht", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
+  await mockAccounts(page);
+  let hang = true;
+  let requested = false;
+  await page.route("**/rest/v1/quiz_saves*", (route) => {
+    requested = true;
+    if (!hang) return route.fulfill({ json: [] });
+  });
+  await page.goto("/");
+  await account(page);
+  await page.getByLabel("E-Mail-Adresse").fill("alice@example.test");
+  await page
+    .getByLabel("Passwort", { exact: true })
+    .fill("nur-ein-test-passwort");
+  await page.getByRole("button", { name: "Anmelden", exact: true }).click();
+  await expect.poll(() => requested).toBe(true);
+  await page.clock.runFor(10_001);
+  await expect(
+    page.getByText(/Dein Online-Spielstand konnte nicht geladen werden/),
+  ).toBeVisible();
+  hang = false;
+  await page
+    .getByRole("button", { name: "Erneut versuchen", exact: true })
+    .click();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+});
 const alice = "11111111-1111-4111-8111-111111111111",
   bob = "22222222-2222-4222-8222-222222222222";
 const user = (id = alice) => ({

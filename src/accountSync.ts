@@ -1,6 +1,7 @@
 import type { State } from "./model";
 import { validateBackup } from "./storage";
 import { CloudConflict, CloudSaveError, type SyncReceipt } from "./accounts";
+import { requestWithin, RequestTimeout } from "./request";
 
 type Remote = {
   state: State;
@@ -13,10 +14,14 @@ export type SyncStore = {
   local: () => Promise<State | undefined>;
   receipt: () => Promise<SyncReceipt | undefined>;
   legacyRevision: () => Promise<number>;
-  remote: () => Promise<Remote>;
+  remote: (signal?: AbortSignal) => Promise<Remote>;
   replace: (state: State) => Promise<State>;
   acknowledge: (receipt: SyncReceipt) => Promise<void>;
-  save: (state: State, revision: number) => Promise<number>;
+  save: (
+    state: State,
+    revision: number,
+    signal?: AbortSignal,
+  ) => Promise<number>;
 };
 export async function fingerprint(state: State) {
   const bytes = new TextEncoder().encode(JSON.stringify(validateBackup(state)));
@@ -37,6 +42,8 @@ export class AccountSync {
   private running: Promise<void> | null = null;
   private stopped = false;
   private timer: ReturnType<typeof setTimeout> | undefined;
+  private unconfirmed: { revision: number; fingerprint: string } | null = null;
+  private controllers = new Set<AbortController>();
   constructor(
     private store: SyncStore,
     private notify: (status: SyncStatus, detail?: string) => void,
@@ -48,12 +55,25 @@ export class AccountSync {
   stop() {
     this.stopped = true;
     clearTimeout(this.timer);
+    for (const controller of this.controllers) controller.abort();
+  }
+  private async request<T>(
+    fn: (signal: AbortSignal) => Promise<T>,
+    timeout = 10_000,
+  ) {
+    const controller = new AbortController();
+    this.controllers.add(controller);
+    try {
+      return await requestWithin(fn, timeout, controller);
+    } finally {
+      this.controllers.delete(controller);
+    }
   }
   async prepare() {
     const [local, receipt, remote] = await Promise.all([
       this.store.local(),
       this.store.receipt(),
-      this.store.remote(),
+      this.request((signal) => this.store.remote(signal)),
     ]);
     if (this.stopped) return;
     this.revision = receipt?.revision ?? (await this.store.legacyRevision());
@@ -116,18 +136,48 @@ export class AccountSync {
     while (this.latest && !this.stopped && this.status !== "conflict") {
       const snapshot = this.latest;
       try {
+        // A deadline can expire after the server committed. Reconcile that exact
+        // attempted snapshot before uploading newer queued local changes.
+        if (this.unconfirmed) {
+          const attempted = this.unconfirmed;
+          const remote = await this.request((signal) =>
+            this.store.remote(signal),
+          );
+          if (this.stopped) return;
+          if ((remote?.revision ?? 0) === attempted.revision) {
+            this.unconfirmed = null;
+          } else if (
+            remote?.revision === attempted.revision + 1 &&
+            (await fingerprint(remote.state)) === attempted.fingerprint
+          ) {
+            await this.acknowledge(remote.revision, attempted.fingerprint);
+            this.unconfirmed = null;
+          } else {
+            this.report("conflict");
+            return;
+          }
+        }
         const hash = await fingerprint(snapshot);
         if (this.stopped) return;
         if (hash !== this.saved) {
           this.report("saving");
           try {
-            const revision = await this.store.save(snapshot, this.revision);
+            const attempted = { revision: this.revision, fingerprint: hash };
+            this.unconfirmed = attempted;
+            const revision = await this.request(
+              (signal) => this.store.save(snapshot, attempted.revision, signal),
+              30_000,
+            );
             await this.acknowledge(revision, hash);
+            this.unconfirmed = null;
           } catch (error) {
             if (!(error instanceof CloudConflict)) throw error;
-            const remote = await this.store.remote();
+            const remote = await this.request((signal) =>
+              this.store.remote(signal),
+            );
             if (remote && (await fingerprint(remote.state)) === hash) {
               await this.acknowledge(remote.revision, hash);
+              this.unconfirmed = null;
             } else {
               this.report("conflict");
               return;
@@ -141,9 +191,11 @@ export class AccountSync {
       } catch (error) {
         this.report(
           "offline",
-          error instanceof CloudSaveError
-            ? error.message
-            : "Die Sicherung konnte nicht bestätigt werden. Bei wiederholten Fehlern melde das bitte.",
+          error instanceof RequestTimeout
+            ? "Der Kontodienst hat nicht rechtzeitig geantwortet. Dein Fortschritt bleibt lokal erhalten; wir versuchen die Sicherung erneut."
+            : error instanceof CloudSaveError
+              ? error.message
+              : "Die Sicherung konnte nicht bestätigt werden. Bei wiederholten Fehlern melde das bitte.",
         );
         return;
       }
