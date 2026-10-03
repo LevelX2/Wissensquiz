@@ -115,4 +115,4 @@
 - [Arthouse-Bestandszuordnungen](../../01%20Rohquellen/Arthouse_Zuordnungen_Bestand.json)
 - [Arthouse-Zuordnungsbericht](../../../docs/arthouse-zuordnungsbericht.json)
 
-- [Jahres- und Regiefragen, bereinigte Vertiefungen, variable Antworten und Filmdaten](../../../docs/Filmwissen-und-Filmdaten.md)
+- [Jahres- und Regiefragen, variable Antworten, geprüfte Häufung mittlerer Jahreswerte und Filmdaten](../../../docs/Filmwissen-und-Filmdaten.md)
