@@ -134,10 +134,10 @@ export async function server() {
     ).toBeEnabled();
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
     await expect(
-      page.getByRole("button", { name: /Duell · Gegen andere spielen/ }),
+      page.getByRole("button", { name: /Duell Gegen andere spielen/ }),
     ).toBeEnabled();
     await page
-      .getByRole("button", { name: /Duell · Gegen andere spielen/ })
+      .getByRole("button", { name: /Duell Gegen andere spielen/ })
       .click();
     await expect(
       page.getByRole("heading", { name: "Deine Duelle" }),

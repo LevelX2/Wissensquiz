@@ -466,3 +466,10 @@ Auf ergänzenden Nutzerwunsch Solo-Lösungswahl vom Startbildschirm nach Profil 
 203 Logik-/Datenbanktests, Produktions-Build und insgesamt 113 unterschiedliche Browserfälle erfolgreich abgesichert. Vollständiger Erstlauf plus gezielte Nachprüfungen; nach Worker/Optionsänderung 29 betroffene Fälle und gegen den abschließenden Build alle acht Duell-/Lösungs-/Reaktionsfälle geprüft. Neue Duell-Prüferwartungen an Speicherstatus und Wiederaufnahme korrigiert. Bei vierfach gedrosseltem Chromium-Hauptthread Solo 120/153/221 ms für 0/100/500 vergangene Runden, Referenz 619/557/668 ms. Finale lokale Duellverarbeitung nach Serverantwort 240 ms in Chromium, 125 ms in WebKit; tatsächliche mobile Netzlaufzeit nicht vermessen. [Vollständiger Prüfnachweis](../../docs/Pruefbericht.md).
 
 Bytegleiche Alle-Genres-Filmdaten durch ergänzte Git-Attributregel auch in neuen Windows-Checkouts erhalten; reine Berichtzeitstempel zurückgesetzt. Fachverträge, Index und Status nachgezogen. Lokal auf `codex/antwortreaktion-optimieren` gesichert, keine Veröffentlichung oder Main-Integration. Andere laufende Arbeitsstände erhalten.
+
+
+## 03.10.2026 – Duell als fünfte Spielkachel
+
+Auf Nutzerwunsch den breiten Duelleinstieg durch eine fünfte Kachel im gemeinsamen Modusraster ersetzt. Gleiche Größe, Bildfläche und Kartengestaltung; gekreuzte Schwerter als zusätzliches offline verfügbares SVG. Auf großen Bildschirmen fünf Karten nebeneinander, auf schmalen zwei pro Zeile mit mittiger fünfter Karte. Der Einstieg führt direkt zu neuen und offenen Duellen; Solorundenauswahl und bestehende Sperre während einer laufenden Solorunde erhalten.
+
+203 Logik-/Datenbanktests, Produktions-Build und acht gezielte Browserfälle in Chromium/WebKit bestanden. Raster auf fünf Bildschirmbreiten visuell und auf Überlauf geprüft, Tastaturzugang, Kontoanforderung, kompletter Duellablauf, Lösungswahl und Offline-Bilder abgesichert; Axe ohne Befund. Fachseiten und Status nachgezogen. Bisherige Zeitregeln erhalten. Lokal auf codex/antwortreaktion-optimieren, keine Veröffentlichung oder Main-Integration; andere laufende Arbeitsstände erhalten. [Prüfnachweis](../../docs/Pruefbericht.md).

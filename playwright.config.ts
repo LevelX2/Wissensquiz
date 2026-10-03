@@ -10,6 +10,7 @@ export default defineConfig({
     {
       name: "webkit-mobile",
       testMatch: [
+        "play-entry.spec.ts",
         "mobile-round.spec.ts",
         "error-training.spec.ts",
         "dont-know.spec.ts",

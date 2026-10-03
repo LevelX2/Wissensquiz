@@ -5,13 +5,17 @@ import AxeBuilder from "@axe-core/playwright";
 test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinierbar", async ({
   page,
   context,
+  browserName,
 }) => {
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
   await page.setViewportSize({ width: 320, height: 740 });
   await page.goto("/");
   const start = page.getByRole("button", { name: "Losspielen" });
   await expect(start).toBeEnabled();
-  await expect(page.locator(".mode-artwork")).toHaveCount(4);
+  const tiles = page.locator(".mode-grid .mode-card");
+  const duel = page.getByRole("button", { name: /Duell Gegen andere spielen/ });
+  await expect(tiles).toHaveCount(5);
+  await expect(page.locator(".mode-artwork")).toHaveCount(5);
   for (const img of await page.locator(".mode-artwork").all())
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))
@@ -21,10 +25,56 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     /cinema\/lobby\.png/,
   );
   await page.setViewportSize({ width: 1440, height: 900 });
+  const desktopTiles = await tiles.evaluateAll((els) =>
+    els.map((el) => {
+      const { x, y, width, height } = el.getBoundingClientRect();
+      return { x, y, width, height };
+    }),
+  );
+  expect(new Set(desktopTiles.map((box) => box.y)).size).toBe(1);
+  expect(
+    Math.max(...desktopTiles.map((box) => box.width)) -
+      Math.min(...desktopTiles.map((box) => box.width)),
+  ).toBeLessThan(1);
+  expect(new Set(desktopTiles.map((box) => box.height)).size).toBe(1);
   await page.screenshot({ path: "test-results/kinostart-desktop.png" });
+  for (const width of [320, 390, 768, 1024]) {
+    await page.setViewportSize({ width, height: 900 });
+    const first = (await tiles.first().boundingBox())!;
+    const last = (await duel.boundingBox())!;
+    expect(Math.abs(first.width - last.width)).toBeLessThan(1);
+    expect(first.height).toBe(last.height);
+    if (width <= 1000) {
+      const grid = (await page.locator(".mode-grid").boundingBox())!;
+      expect(
+        Math.abs(last.x + last.width / 2 - grid.x - grid.width / 2),
+      ).toBeLessThan(1);
+      expect(last.y).toBeGreaterThan(first.y);
+    } else {
+      expect(last.y).toBe(first.y);
+    }
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth,
+      ),
+    ).toBe(true);
+    await page.screenshot({ path: `test-results/spielkacheln-${width}.png` });
+  }
+  await duel.focus();
+  await page.keyboard.press("Enter");
+  await expect(
+    page.getByRole("heading", { name: "Duell", exact: true }),
+  ).toBeVisible();
+  await expect(
+    page.getByRole("button", { name: "Zum Profil und anmelden" }),
+  ).toBeVisible();
+  await page.getByRole("button", { name: "← Zurück zum Spielen" }).click();
+  await expect(start).toBeEnabled();
   await page.setViewportSize({ width: 320, height: 740 });
+  await page.evaluate(() => scrollTo(0, 0));
   const startBox = (await start.boundingBox())!;
-  expect(startBox.y + startBox.height).toBeLessThan(600);
+  const gridBox = (await page.locator(".mode-grid").boundingBox())!;
+  expect(startBox.y - gridBox.y - gridBox.height).toBeLessThan(32);
   const guide = page.locator(".round-guide");
   const more = guide.locator("summary");
   await expect(guide).toContainText("bevorzugt neue Fragen");
@@ -135,8 +185,11 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
       exact: false,
     }),
   ).toBeVisible();
-  await context.setOffline(true);
+  // Windows WebKit cannot navigate offline; it checks the setup online.
+  // Chromium verifies the full offline reload and all five cached motifs.
+  if (browserName === "chromium") await context.setOffline(true);
   await page.reload();
+  await expect(page.locator(".mode-artwork")).toHaveCount(5);
   for (const img of await page.locator(".mode-artwork").all())
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))

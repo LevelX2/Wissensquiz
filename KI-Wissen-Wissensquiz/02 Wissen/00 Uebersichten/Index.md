@@ -59,9 +59,9 @@
 - [Drama-Rohquelle](../../01%20Rohquellen/Drama_Quiz_180_Fragen.csv)
 - [Drama-Importbericht](../../../docs/importbericht-drama.json)
 
-- [Genre- und Spielmodusillustrationen, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
+- [Genre- und Spielmodusillustrationen mit Duellmotiv, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
 
-- [Navigation, zugängliche Highscores und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
+- [Navigation, fünf Spielkacheln, zugängliche Highscores und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
 
 
 - [Classics-Rohquelle](../../01%20Rohquellen/Classics_Quiz_180_Fragen.csv)

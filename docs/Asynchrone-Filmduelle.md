@@ -38,7 +38,7 @@ Der Ersteller legt die Anzeige für beide fest. Sie bleibt im Duell unverändert
 
 ## Gegner, Einladungen und offene Spiele
 
-Unter **Spielen → Duell** stehen „Zufälligen Gegner finden“ und „Per Link einladen“. Duelle benötigen ein bestätigtes Quiz-Konto. Zufälliger Start übernimmt die älteste offene Herausforderung mit gleicher Lösungsanzeige. Gibt es keine, legt der Spieler selbst Runde 1 vor. Erst nach diesen zehn Fragen ist die Herausforderung für Gegner freigegeben. Linkeinladungen bleiben vom öffentlichen Pool getrennt.
+Unter **Spielen → Duell** stehen „Zufälligen Gegner finden“ und „Per Link einladen“. Seit der lokalen Änderung vom 03.10.2026 führt die fünfte Spielkachel im gemeinsamen Raster direkt in diese Übersicht; der separate breite Einstieg entfällt. Neue und offene Duelle bleiben gemeinsam erreichbar. Duelle benötigen ein bestätigtes Quiz-Konto. Zufälliger Start übernimmt die älteste offene Herausforderung mit gleicher Lösungsanzeige. Gibt es keine, legt der Spieler selbst Runde 1 vor. Erst nach diesen zehn Fragen ist die Herausforderung für Gegner freigegeben. Linkeinladungen bleiben vom öffentlichen Pool getrennt.
 
 Pro Konto sind **fünf offene Spiele insgesamt** erlaubt, darin höchstens eine noch nicht angenommene Herausforderung. Sie belegt einen der fünf Plätze. Abgeschlossene, zurückgenommene und abgelaufene Spiele belegen keinen Platz. Trotz eigener wartender Herausforderung darf ein Konto eine fremde passende Herausforderung übernehmen, sofern ein Platz frei ist. Slotgrenzen und Zuordnung werden gemeinsam serverseitig gesperrt und geprüft.
 

@@ -109,10 +109,10 @@ test.describe("Duellreaktion", () => {
       );
       await page.reload();
       await expect(
-        page.getByRole("button", { name: /Duell · Gegen andere spielen/ }),
+        page.getByRole("button", { name: /Duell Gegen andere spielen/ }),
       ).toBeEnabled();
       await page
-        .getByRole("button", { name: /Duell · Gegen andere spielen/ })
+        .getByRole("button", { name: /Duell Gegen andere spielen/ })
         .click();
       await page
         .getByRole("button", { name: "Weiterspielen", exact: false })

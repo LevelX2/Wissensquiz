@@ -646,6 +646,22 @@ export function App({
                       </button>
                     ),
                   )}
+                  <button
+                    className="mode-card mode-duell"
+                    disabled={busy || !!active}
+                    onClick={() => void nav("duels")}
+                  >
+                    <img
+                      className="mode-artwork"
+                      src="/modes/duell.svg"
+                      alt=""
+                      width={88}
+                      height={88}
+                      decoding="async"
+                    />
+                    <strong>Duell</strong>
+                    <small>Gegen andere spielen · 3 × 10 Fragen</small>
+                  </button>
                 </div>
 
                 <div className="round-start">
@@ -684,16 +700,6 @@ export function App({
                     {roundTopic !== "Alle Themen" && " · " + roundTopic}
                   </p>
                 </div>
-                <button
-                  className="duel-entry secondary"
-                  disabled={busy || !!active}
-                  onClick={() => void nav("duels")}
-                >
-                  <span aria-hidden="true">⚔</span> Duell · Gegen andere spielen
-                  <small>
-                    Drei Runden mit denselben Fragen · Deine offenen Spiele
-                  </small>
-                </button>
                 {active && (
                   <div className="resume notice">
                     <span>Deine begonnene Runde wartet auf Dich.</span>
