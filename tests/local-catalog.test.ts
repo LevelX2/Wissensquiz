@@ -55,7 +55,7 @@ it("hebt die Datenbankversion mit erhaltenen Altständen an und sperrt schreiben
     };
     request.onerror = () => reject(request.error);
   });
-  expect((await openDatabase()).version).toBe(2);
+  expect((await openDatabase()).version).toBe(3);
   expect(await read("database-v1")).toEqual(legacy);
   expect(await raw("sync:database-v1")).toEqual({
     revision: 7,

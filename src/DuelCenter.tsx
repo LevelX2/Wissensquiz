@@ -7,6 +7,7 @@ import { Explanation } from "./Explanation";
 import { SolutionChoice } from "./SolutionChoice";
 import type { AnswerChoice, Round, State, SolutionDisplay } from "./model";
 import { uid } from "./model";
+import type { Mutate } from "./uiTypes";
 import {
   duelSchema,
   duelViewSchema,
@@ -34,7 +35,7 @@ export function DuelCenter({
   onPlaying,
 }: {
   state: State;
-  mutate: (fn: (s: State) => void) => Promise<State | null>;
+  mutate: Mutate;
   busy: boolean;
   onHome: () => void;
   onAccount: () => void;
@@ -93,7 +94,7 @@ export function DuelCenter({
   async function accept(v: DuelView, finish = true): Promise<State | null> {
     if (!v.items.some((i) => i.event.correct !== null))
       return currentState.current;
-    return mutate((s) => importDuelView(s, v, finish));
+    return mutate((s) => importDuelView(s, v, finish), { progressOnly: false });
   }
   async function refresh() {
     const entries = await rpc(

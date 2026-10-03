@@ -3,35 +3,22 @@ export { validateBackup } from "./backupValidation";
 import { emptyState, type State } from "./model";
 import { catalogKey, decodeLocalState, encodeLocalState } from "./localCatalog";
 import { encodeQuestionCatalog } from "./catalogCodec";
-let database: Promise<IDBDatabase> | undefined;
-export function openDatabase() {
-  return (database ??= new Promise<IDBDatabase>((resolve, reject) => {
-    // Old builds open version 1 and cannot write the separated catalog layout.
-    const req = indexedDB.open("wissensquiz", 2);
-    req.onupgradeneeded = () => {
-      if (!req.result.objectStoreNames.contains("state"))
-        req.result.createObjectStore("state");
-    };
-    req.onsuccess = () => {
-      req.result.onversionchange = () => {
-        req.result.close();
-        database = undefined;
-      };
-      resolve(req.result);
-    };
-    req.onerror = () => {
-      database = undefined;
-      reject(req.error);
-    };
-    req.onblocked = () =>
-      reject(new Error("Bitte andere Wissensquiz-Fenster schließen."));
-  }));
-}
+import { openDatabase } from "./database";
+export { openDatabase } from "./database";
+import {
+  readEntryHead,
+  readEntryState,
+  updateEntries,
+  type WriteOptions,
+} from "./entryStorage";
 export async function update(
   mutator: (state: State) => void,
   initial?: State,
   key = "current",
+  options: WriteOptions = {},
 ): Promise<State> {
+  if (key.startsWith("account:") && (await readEntryHead(key)))
+    return updateEntries(mutator, key, options);
   const db = await openDatabase();
   return new Promise((resolve, reject) => {
     const tx = db.transaction("state", "readwrite");
@@ -65,6 +52,8 @@ export async function update(
   });
 }
 export async function read(key = "current"): Promise<State | undefined> {
+  if (key.startsWith("account:") && (await readEntryHead(key)))
+    return readEntryState(key);
   const db = await openDatabase();
   return new Promise((resolve, reject) => {
     const tx = db.transaction("state");
@@ -89,7 +78,16 @@ export async function restore(value: unknown, key = "current") {
       r.status = "aborted";
       r.finishedAt = Date.now();
     }
-  return update((s) => Object.assign(s, checked), undefined, key);
+  return update(
+    (s) => {
+      for (const name of Object.keys(s))
+        delete (s as unknown as Record<string, unknown>)[name];
+      Object.assign(s, checked);
+    },
+    undefined,
+    key,
+    { replace: true },
+  );
 }
 export function download(filename: string, value: unknown) {
   const url = URL.createObjectURL(

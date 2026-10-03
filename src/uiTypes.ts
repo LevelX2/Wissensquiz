@@ -1,4 +1,5 @@
 import { type State } from "./model";
+import type { WriteOptions } from "./entryStorage";
 
 export type Page =
   | "account"
@@ -13,4 +14,7 @@ export type Page =
 
 export type DuelPage = "duels";
 
-export type Mutate = (fn: (s: State) => void) => Promise<State | null>;
+export type Mutate = (
+  fn: (s: State) => void,
+  options?: WriteOptions,
+) => Promise<State | null>;

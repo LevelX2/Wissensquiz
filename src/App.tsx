@@ -39,6 +39,7 @@ import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { QuestionScreen } from "./QuestionScreen";
 import { Result } from "./RoundResult";
 import { PlaySetup } from "./PlaySetup";
+import type { WriteOptions } from "./entryStorage";
 
 import { PageBoundary } from "./PageBoundary";
 
@@ -71,8 +72,8 @@ export function App({
   sync?: SyncDisplay;
 }) {
   const read = () => readStored(storageKey);
-  const update = (fn: (s: State) => void, initial?: State) =>
-    updateStored(fn, initial, storageKey);
+  const update = (fn: (s: State) => void, initial?: State, options?: WriteOptions) =>
+    updateStored(fn, initial, storageKey, options);
   const [state, setState] = useState<State | null>(null);
   const [page, setPage] = useState<Page | DuelPage>(
     location.hash.startsWith("#duel=") ? "duels" : "home",
@@ -181,13 +182,13 @@ export function App({
     window.scrollTo(0, 0);
     if (page !== "result") setJustCompleted("");
   }, [page, index, topicScope]);
-  const mutate: Mutate = async (fn) => {
+  const mutate: Mutate = async (fn, options = { progressOnly: true }) => {
     if (inFlight.current) return null;
     inFlight.current = true;
     setBusy(true);
     setError("");
     try {
-      const next = await update(fn);
+      const next = await update(fn, undefined, options);
       setState(next);
       return next;
     } catch (e) {

@@ -286,11 +286,14 @@ export function Settings({
                 state.rounds.some((r) => r.status === "active")
               }
               onClick={async () => {
-                const saved = await mutate((s) => {
-                  const incoming = importCsv(csv.text, s.questions, csv.name);
-                  s.questions.push(...incoming.questions);
-                  s.imports.push(incoming.report);
-                });
+                const saved = await mutate(
+                  (s) => {
+                    const incoming = importCsv(csv.text, s.questions, csv.name);
+                    s.questions.push(...incoming.questions);
+                    s.imports.push(incoming.report);
+                  },
+                  { progressOnly: false },
+                );
                 if (saved) {
                   setCsv(null);
                   setMessage(
@@ -433,12 +436,17 @@ export function Settings({
           className="danger-button"
           disabled={reset !== "LÖSCHEN" || busy}
           onClick={async () => {
-            const saved = await mutate((s) => {
-              const questions = s.questions,
-                imports = s.imports;
-              Object.assign(s, emptyState(questions));
-              s.imports = imports;
-            });
+            const saved = await mutate(
+              (s) => {
+                const questions = s.questions,
+                  imports = s.imports;
+                for (const key of Object.keys(s))
+                  delete (s as unknown as Record<string, unknown>)[key];
+                Object.assign(s, emptyState(questions));
+                s.imports = imports;
+              },
+              { replace: true },
+            );
             if (saved) onHome();
           }}
         >

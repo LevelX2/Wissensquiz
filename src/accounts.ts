@@ -212,6 +212,12 @@ export async function replaceAccountState(key: string, state: State) {
   if (!key.startsWith("account:"))
     throw new Error("Kein Kontospielstand ausgewählt.");
   const checked = validateBackup(state);
+  await keepAccountRecovery(key);
+  return restore(checked, key);
+}
+export async function keepAccountRecovery(key: string) {
+  if (!key.startsWith("account:"))
+    throw new Error("Kein Kontospielstand ausgewählt.");
   const old = await read(key);
   if (old) {
     const db = await openDatabase();
@@ -226,5 +232,4 @@ export async function replaceAccountState(key: string, state: State) {
       tx.onabort = () => reject(tx.error);
     });
   }
-  return restore(checked, key);
 }

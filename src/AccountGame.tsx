@@ -9,7 +9,9 @@ import {
 import type { SupabaseClient } from "@supabase/supabase-js";
 import { App } from "./App";
 import { RankingContext } from "./SharedLeaderboard";
-import { AccountSync, fingerprint, type SyncStatus } from "./accountSync";
+import { fingerprint, type SyncStatus } from "./accountSync";
+import { createAccountSync, type SyncController } from "./entrySync";
+import { SupabaseEntryRemote } from "./entryRemote";
 import {
   cloudRead,
   cloudRevision,
@@ -59,7 +61,7 @@ export function AccountGame({
   const [ready, setReady] = useState(false);
   const [error, setError] = useState("");
   const [generation, setGeneration] = useState(0);
-  const engine = useRef<AccountSync | null>(null);
+  const engine = useRef<SyncController | null>(null);
   const lockTask = useRef<Promise<void>>(Promise.resolve());
   const statusRef = useRef(status);
   statusRef.current = status;
@@ -68,7 +70,8 @@ export function AccountGame({
   useEffect(() => {
     let alive = true;
     let release: (() => void) | undefined;
-    let sync: AccountSync | undefined;
+    let sync: SyncController | undefined;
+    const lifecycle = new AbortController();
     const hold = new Promise<void>((resolve) => {
       release = resolve;
     });
@@ -77,39 +80,49 @@ export function AccountGame({
     setStatus("loading");
     const run = async () => {
       if (!alive) return;
-      sync = new AccountSync(
-        {
-          local: () => read(storageKey),
-          receipt: () => readSyncReceipt(storageKey),
-          legacyRevision: () => cloudRevision(storageKey),
-          remote: (signal) => cloudRead(client, owner, signal),
-          replace: (state) => replaceAccountState(storageKey, state),
-          acknowledge: (receipt) => writeSyncReceipt(storageKey, receipt),
-          save: (state, revision, signal) =>
-            cloudSave(client, state, revision, owner, signal),
-        },
-        (value, detail, lastConfirmation) => {
-          if (alive) {
-            setStatus(value);
-            setSyncDetail(detail ?? "");
-            setConfirmedAt(lastConfirmation);
-          }
-        },
-      );
-      engine.current = sync;
       try {
+        sync = await createAccountSync(
+          new SupabaseEntryRemote(client, lifecycle.signal),
+          owner,
+          storageKey,
+          {
+            local: () => read(storageKey),
+            receipt: () => readSyncReceipt(storageKey),
+            legacyRevision: () => cloudRevision(storageKey),
+            remote: (signal) => cloudRead(client, owner, signal),
+            replace: (state) => replaceAccountState(storageKey, state),
+            acknowledge: (receipt) => writeSyncReceipt(storageKey, receipt),
+            save: (state, revision, signal) =>
+              cloudSave(client, state, revision, owner, signal),
+          },
+          (value, detail, lastConfirmation) => {
+            if (alive) {
+              setStatus(value);
+              setSyncDetail(detail ?? "");
+              setConfirmedAt(lastConfirmation);
+            }
+          },
+        );
+        if (!alive) {
+          sync.stop();
+          return;
+        }
+        engine.current = sync;
         if (acceptRemote.current) {
-          const remote = await requestWithin((signal) =>
-            cloudRead(client, owner, signal),
-          );
-          if (!remote) throw new Error("Online-Spielstand nicht gefunden.");
-          if (!alive) return;
-          await replaceAccountState(storageKey, remote.state);
-          await writeSyncReceipt(storageKey, {
-            revision: remote.revision,
-            fingerprint: await fingerprint(remote.state),
-            confirmedAt: Date.now(),
-          });
+          if (sync.acceptRemote) await sync.acceptRemote();
+          else {
+            const remote = await requestWithin((signal) =>
+              cloudRead(client, owner, signal),
+            );
+            if (!remote) throw new Error("Online-Spielstand nicht gefunden.");
+            if (!alive) return;
+            await replaceAccountState(storageKey, remote.state);
+            await writeSyncReceipt(storageKey, {
+              revision: remote.revision,
+              fingerprint: await fingerprint(remote.state),
+              confirmedAt: Date.now(),
+            });
+          }
           acceptRemote.current = false;
         }
         await sync.prepare();
@@ -169,6 +182,7 @@ export function AccountGame({
     window.addEventListener("beforeunload", beforeUnload);
     return () => {
       alive = false;
+      lifecycle.abort();
       sync?.stop();
       engine.current = null;
       release?.();
