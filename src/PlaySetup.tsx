@@ -59,7 +59,7 @@ export function PlaySetup({
   mode: Mode;
   playGroup: PlayGroup;
   standard: boolean;
-  recordPreset: "standard" | "genre" | "custom";
+  recordPreset: "standard" | "genre";
   recordGenre?: string;
   busy: boolean;
   changeSetup: (patch: Partial<RoundSetup>) => Promise<State | null>;

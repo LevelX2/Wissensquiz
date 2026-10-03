@@ -92,7 +92,7 @@ it("ordnet Online-Läufe nach denselben deutschen Kalendergrenzen wie die lokale
           mode: "fehlerfrei",
           topic: "Alle Themen",
           difficulty: "Alle Stufen",
-          recordPreset: "custom",
+          recordPreset: "standard",
           filters: {
             genres: ["Horror"],
             difficulties: ["leicht", "mittel", "schwer", "experte"],
@@ -163,7 +163,9 @@ it("trennt vollständige Duellwertungen von Aufgabe und liefert nur die eigene E
       "",
       async () => {
         const rows = (
-          await db.query<Record<string,unknown>>("select * from quiz_duel_rankings('all',0)")
+          await db.query<Record<string, unknown>>(
+            "select * from quiz_duel_rankings('all',0)",
+          )
         ).rows;
         expect(rows).toHaveLength(2);
         expect(rows[0]).toMatchObject({
@@ -218,7 +220,7 @@ it("listet alle Endlosläufe einzeln, zählt wiederholte Antworten einmal und sc
           mode: "fehlerfrei",
           topic: "Alle Themen",
           difficulty: "Alle Stufen",
-          recordPreset: "custom",
+          recordPreset: "standard",
           filters: {
             genres: ["Horror"],
             difficulties: ["leicht", "mittel", "schwer", "experte"],

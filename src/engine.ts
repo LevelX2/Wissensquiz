@@ -8,7 +8,12 @@ import type {
   QuizFilters,
 } from "./model";
 import { uid } from "./model";
-import { canonicalFilters, matchesFilters } from "./filters";
+import {
+  canonicalFilters,
+  matchesFilters,
+  genreOf,
+  questionSources,
+} from "./filters";
 import {
   pathQuestions,
   retainJourneyUnlocks,
@@ -25,6 +30,7 @@ import { careerSummary, migrateCareer } from "./career";
 import { roundQuestionCount } from "./roundArchive";
 import {
   isRecordMode,
+  isRankedRecord,
   isEndlessMode,
   BANK_START,
   bankAfterAnswer,
@@ -68,7 +74,7 @@ export function selectQuestions(
     recentKnowledgeIds?: Set<string>;
     introductoryQuestionIds?: Set<string>;
     mistakes?: Map<string, OpenMistake>;
-    recordPreset?: "standard" | "genre" | "custom";
+    recordPreset?: "standard" | "genre";
   },
   random = Math.random,
 ): Question[] {
@@ -196,29 +202,14 @@ export function selectQuestions(
   return shuffle(result, random);
 }
 export const recordKey = (r: Round) =>
-  r.recordPreset
-    ? JSON.stringify([
-        "records-v3",
-        r.mode,
-        r.filters ? canonicalFilters(r.filters) : null,
-        r.topic,
-        r.run ? "endless" : roundQuestionCount(r),
-        r.ruleVersion,
-      ])
-    : r.filters
-      ? JSON.stringify([
-          "genres-v1",
-          canonicalFilters(r.filters),
-          r.topic,
-          roundQuestionCount(r),
-          r.ruleVersion,
-        ])
-      : JSON.stringify([
-          r.topic,
-          r.difficulty,
-          roundQuestionCount(r),
-          r.ruleVersion,
-        ]);
+  JSON.stringify([
+    "records-v3",
+    r.mode,
+    r.filters ? canonicalFilters(r.filters) : null,
+    r.topic,
+    r.run ? "endless" : roundQuestionCount(r),
+    r.ruleVersion,
+  ]);
 export const points = (events: AnswerEvent[]) =>
   events.reduce((sum, e) => sum + e.knowledgePoints + e.timeBonus, 0);
 export const badgeEligible = (q: Question) =>
@@ -239,7 +230,7 @@ export function rebuild(state: State, awardBadges = false) {
       e.roundId,
       (pointsByRound.get(e.roundId) ?? 0) + e.knowledgePoints + e.timeBonus,
     );
-  for (const r of done.filter((r) => isRecordMode(r.mode))) {
+  for (const r of done.filter(isRankedRecord)) {
     const value = pointsByRound.get(r.id) ?? 0;
     const key = recordKey(r);
     if (!state.records[key] || value > state.records[key].points)
@@ -284,7 +275,7 @@ export function startRound(
     difficulty: string;
     filters?: QuizFilters;
     sourceRoundId?: string;
-    recordPreset?: "standard" | "genre" | "custom";
+    recordPreset?: "standard" | "genre";
   },
   now = Date.now(),
 ): Round {
@@ -292,6 +283,31 @@ export function startRound(
     throw new Error(
       "Es läuft bereits eine Runde. Setze sie fort oder beende sie.",
     );
+  if (
+    isEndlessMode(options.mode) ||
+    (isRecordMode(options.mode) && options.recordPreset)
+  ) {
+    options = {
+      ...options,
+      recordPreset: options.recordPreset ?? "standard",
+      filters: options.filters ?? {
+        genres: [
+          ...new Set(
+            state.questions
+              .filter(
+                (q) =>
+                  !state.bundledQuestionIds ||
+                  state.bundledQuestionIds.includes(q.id),
+              )
+              .map(genreOf),
+          ),
+        ].sort(),
+        sources: [...questionSources],
+        difficulties: ["leicht", "mittel", "schwer"],
+        familiarities: [...familiarities],
+      },
+    };
+  }
   const selected = selectQuestions(
     pathQuestions(state, options.mode).filter(
       (q) =>
@@ -364,7 +380,7 @@ export function startRound(
     isRecordMode(options.mode) &&
     (options.recordPreset || isEndlessMode(options.mode))
   ) {
-    round.recordPreset = options.recordPreset ?? "custom";
+    round.recordPreset = options.recordPreset ?? "standard";
     round.ruleVersion = runRule(options.mode, round.recordPreset);
     if (isEndlessMode(options.mode)) {
       delete round.solutionDisplay;

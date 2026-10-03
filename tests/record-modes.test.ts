@@ -100,7 +100,7 @@ it("ordnet Standardfragen zu und verhindert doppelte Antworten auch in einem Poo
   expect(r.questions).toHaveLength(2);
   expect(validateBackup(s).rounds[0].events).toHaveLength(1);
 });
-it("bezieht Experten in eigene Zehnerrunden ein und deckelt Wiederholungs-XP", () => {
+it("bezieht Experten im freien Spiel ein und deckelt Wiederholungs-XP", () => {
   const s = runState();
   for (let i = 0; i < 6; i++)
     s.questions.push({
@@ -111,10 +111,9 @@ it("bezieht Experten in eigene Zehnerrunden ein und deckelt Wiederholungs-XP", (
     });
   expect(
     selectQuestions(s.questions, s.learning, {
-      mode: "rekord",
+      mode: "ueben",
       topic: "Alle Themen",
       difficulty: "Alle Stufen",
-      recordPreset: "custom",
       size: 10,
       now: Date.now(),
     }).some((q) => q.difficulty === "experte"),

@@ -12,17 +12,19 @@ const options = {
   mode: "rekord" as const,
   topic: "Alle Themen",
   difficulty: "Alle Stufen",
+  recordPreset: "genre" as const,
   filters: {
     genres: ["Horror"],
-    difficulties: ["leicht" as const],
-    familiarities: [1 as const],
+    sources: ["film" as const],
+    difficulties: ["leicht" as const, "mittel" as const, "schwer" as const],
+    familiarities: [1 as const, 2 as const, 3 as const, 4 as const],
   },
 };
 it("zeigt alle abgeschlossenen Rekordspiele, gleiche Punktzahlen teilen den Rang; Sicherung erhält die Liste", () => {
   const state = emptyState(questions);
   const rounds: Round[] = [];
   for (let i = 0; i < 4; i++) {
-    // Force equal five-question rounds with separate fresh states, then combine valid history.
+    // Equal ten-question rounds; combine their valid histories.
     const run = emptyState(questions);
     const r = startRound(run, options, 1000 + i * 100000);
     r.questions.forEach((q, j) =>
@@ -47,12 +49,12 @@ it("zeigt alle abgeschlossenen Rekordspiele, gleiche Punktzahlen teilen den Rang
   const groups = leaderboard(state);
   expect(groups).toHaveLength(1);
   expect(groups[0].entries.map((e) => e.rank)).toEqual([1, 1, 3]);
-  expect(groups[0].entries[2].correct).toBe(4);
-  expect(groups[0].entries[0].elapsedMs).toBe(5000);
+  expect(groups[0].entries[2].correct).toBe(9);
+  expect(groups[0].entries[0].elapsedMs).toBe(10000);
   expect(JSON.stringify(state)).toBe(before);
   expect(leaderboard(validateBackup(JSON.parse(before)))).toEqual(groups);
 });
-it("trennt Rundengröße, Regelversion, Genre-/Stufenkombination, Thema und historische Kategorien", () => {
+it("verwirft alte Regeln, freie Mischungen und Rundengrößen aus den Rekordlisten", () => {
   const state = emptyState(questions);
   const base = startRound(state, options, 1000);
   base.status = "completed";
@@ -96,11 +98,8 @@ it("trennt Rundengröße, Regelversion, Genre-/Stufenkombination, Thema und hist
     id: "relaxed",
     mode: "entdecken",
   });
-  expect(leaderboard(state)).toHaveLength(7);
-  expect(
-    leaderboard(state)
-      .find((g) => g.entries.length === 2)
-      ?.entries.map((e) => e.round.id)
-      .sort(),
-  ).toEqual(["changed2", "reverse"]);
+  expect(leaderboard(state)).toHaveLength(1);
+  expect(leaderboard(state)[0].entries.map((e) => e.round.id)).toEqual([
+    base.id,
+  ]);
 });

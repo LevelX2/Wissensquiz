@@ -1,5 +1,7 @@
 # Lern-, Runden- und Speichervertrag
 
+03.10.2026 – Version 47: Auf ausdrücklichen Auftrag keine Erhaltung früherer Rekord-Sonderwertungen. Nur aktuelle Königsklasse-/Einzelgenre-Läufe nach festem Vertrag zählen. Alte Filterkombinationen, `.L`-Zusatzwertungen und Fünferrunden entfallen; Antwortfakten, Lernstand und Karriere-XP bleiben davon getrennt erhalten. Frühere Aussagen zur Erhaltung historischer Rekordkategorien sind abgelöst. [Vertrag](Rekordmodi-und-Zeitranglisten.md).
+
 ## Aktuelle Auswahl und Ergebnisarchive – Version 46
 
 Spielkacheln wählen eine Variante, schließen die Auswahl und zeigen den gewählten Modus auf der Startseite; erst „Losspielen“ startet. Zeitrekorde erlauben Königsklasse oder genau ein offizielles Filmgenre, immer 3 leicht / 4 mittel / 3 schwer und alle Filmgruppen. Lernfilter bleiben frei. Neue Rekordschlüssel unterscheiden keine Lösungsanzeige mehr; historische `.L`- und eigene Kategorien bleiben getrennt erhalten.

@@ -1,4 +1,5 @@
 import type { Mode, Round } from "./model";
+import { roundQuestionCount } from "./roundArchive";
 
 export const recordModes = ["rekord", "fehlerfrei", "zeitkonto"] as const;
 export type RecordMode = (typeof recordModes)[number];
@@ -39,12 +40,30 @@ export const eventIdFor = (round: Round, index: number) =>
   `${round.id}:${round.questions[index].knowledgeId}${round.run ? `:${index}` : ""}`;
 export const runRule = (mode: Mode, preset: "standard" | "genre" | "custom") =>
   `solo-v1.${mode}.${preset}`;
+export const isRankedRecord = (round: Round) => {
+  const preset = round.recordPreset,
+    filters = round.filters;
+  return (
+    isRecordMode(round.mode) &&
+    (preset === "standard" || preset === "genre") &&
+    round.ruleVersion === runRule(round.mode, preset) &&
+    round.topic === "Alle Themen" &&
+    !!filters &&
+    JSON.stringify([...filters.difficulties].sort()) ===
+      '["leicht","mittel","schwer"]' &&
+    JSON.stringify(filters.familiarities) === "[1,2,3,4]" &&
+    JSON.stringify(filters.sources) ===
+      (preset === "genre" ? '["film"]' : '["film","awards","actors"]') &&
+    (preset === "genre"
+      ? filters.genres.length === 1
+      : filters.genres.length > 0) &&
+    (round.mode !== "rekord" || roundQuestionCount(round) === 10)
+  );
+};
 export const recordSelectionLabel = (round: Round) =>
-  round.recordPreset === "standard"
-    ? "Königsklasse"
-    : round.recordPreset === "genre"
-      ? `Genre · ${round.filters?.genres[0] ?? "Filmfragen"}`
-      : "Frühere eigene Auswahl";
+  round.recordPreset === "genre"
+    ? `Genre · ${round.filters?.genres[0] ?? "Filmfragen"}`
+    : "Königsklasse";
 
 export type RecordPeriod = "week" | "month" | "year" | "all";
 export const periodNames: Record<RecordPeriod, string> = {

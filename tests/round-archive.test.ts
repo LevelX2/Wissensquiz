@@ -153,7 +153,7 @@ it("preserves an active round and rejects corrupted archived scores and relation
   expect(() => validateBackup(state)).toThrow(/Ergebnisarchiv/);
 });
 
-it("limits genre records to one genre with the fixed mix and keeps old custom records readable", () => {
+it("limits genre records to one genre and removes custom scores without changing learning", () => {
   const state = history(),
     round = state.rounds[1];
   expect(round.questions.filter((q) => q.difficulty === "leicht")).toHaveLength(
@@ -168,9 +168,131 @@ it("limits genre records to one genre with the fixed mix and keeps old custom re
   const invalid = structuredClone(state);
   invalid.rounds[1].filters!.genres.push("Fantasy");
   expect(() => validateBackup(invalid)).toThrow(/genau ein Genre/);
+  const learning = structuredClone(state.learning),
+    xp = state.experience;
   round.recordPreset = "custom";
   round.ruleVersion = "solo-v1.rekord.custom";
-  expect(validateBackup(state).rounds[1].recordPreset).toBe("custom");
+  const cleaned = validateBackup(state);
+  expect(leaderboard(cleaned, "rekord")).toEqual([]);
+  expect(Object.keys(cleaned.records)).toHaveLength(2);
+  expect(cleaned.learning).toEqual(learning);
+  expect(cleaned.experience).toBe(xp);
+});
+
+it("purges obsolete server scores and prevents replay without changing private saves or XP", async () => {
+  const migration = "20261003161636_current_record_categories_only.sql";
+  const fixture = await syncFixture(migration);
+  try {
+    const { owner } = await fixture.client(),
+      state = history();
+    const old = startRound(
+      state,
+      {
+        mode: "fehlerfrei",
+        topic: "Alle Themen",
+        difficulty: "Alle Stufen",
+        recordPreset: "genre",
+        filters: {
+          genres: ["Horror"],
+          sources: ["film"],
+          difficulties: ["leicht", "mittel", "schwer"],
+          familiarities: [1, 2, 3, 4],
+        },
+      },
+      now + 100000,
+    );
+    const q = old.questions[0];
+    answer(
+      state,
+      old.id,
+      q.id,
+      q.answers.find((a) => a.id !== q.correctId)!.id,
+      1000,
+      now + 101000,
+      0,
+    );
+    old.recordPreset = "custom";
+    old.ruleVersion = "solo-v1.fehlerfrei.custom";
+    await fixture.db.query(
+      "insert into public.quiz_saves(owner_id,state,revision) values($1,$2,1)",
+      [owner, state],
+    );
+    await fixture.db.query("select public.quiz_project_scores($1)", [owner]);
+    expect(
+      (await fixture.db.query("select round_id from public.quiz_shared_scores"))
+        .rows,
+    ).toHaveLength(4);
+    const before = (
+      await fixture.db.query("select state from public.quiz_saves")
+    ).rows;
+    const xp = (
+      await fixture.db.query(
+        "select experience from public.quiz_player_totals where genre='' and difficulty=''",
+      )
+    ).rows;
+    await fixture.db.exec(
+      readFileSync(`supabase/migrations/${migration}`, "utf8"),
+    );
+    expect(
+      (
+        await fixture.db.query<{ round_id: string }>(
+          "select round_id from public.quiz_shared_scores",
+        )
+      ).rows
+        .map((row) => row.round_id)
+        .sort(),
+    ).toEqual(
+      state.rounds
+        .slice(1, 4)
+        .map((round) => round.id)
+        .sort(),
+    );
+    expect(
+      (await fixture.db.query("select state from public.quiz_saves")).rows,
+    ).toEqual(before);
+    expect(
+      (
+        await fixture.db.query(
+          "select experience from public.quiz_player_totals where genre='' and difficulty=''",
+        )
+      ).rows,
+    ).toEqual(xp);
+    await fixture.db.query("select public.quiz_project_scores($1)", [owner]);
+    expect(
+      (await fixture.db.query("select round_id from public.quiz_shared_scores"))
+        .rows,
+    ).toHaveLength(3);
+    for (const change of [
+      { ruleVersion: "solo-v1.rekord.genre.L" },
+      { recordPreset: "custom" },
+      { questions: state.rounds[1].questions.slice(0, 5) },
+    ]) {
+      expect(
+        (
+          await fixture.db.query<{ eligible: boolean }>(
+            "select quiz_sync_internal.ranked_record($1) as eligible",
+            [{ ...state.rounds[1], ...change }],
+          )
+        ).rows[0].eligible,
+      ).toBe(false);
+    }
+    expect(
+      (
+        await fixture.db.query<{ exists: boolean }>(
+          "select to_regprocedure('quiz_sync_internal.project_legacy_record(uuid,jsonb,jsonb)') is not null as exists",
+        )
+      ).rows[0].exists,
+    ).toBe(false);
+    expect(
+      (
+        await fixture.db.query<{ allowed: boolean }>(
+          "select has_function_privilege('anon','quiz_sync_internal.ranked_record(jsonb)','EXECUTE') as allowed",
+        )
+      ).rows[0].allowed,
+    ).toBe(false);
+  } finally {
+    await fixture.db.close();
+  }
 });
 
 it("synchronizes archived rounds and new genre scores with unchanged server totals and private grants", async () => {

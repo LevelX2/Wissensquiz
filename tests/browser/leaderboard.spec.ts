@@ -112,7 +112,13 @@ test("Alle abgeschlossenen Ergebnisse sind filterbar und offline erhalten, ohne 
           mode: "rekord",
           topic: "Alle Themen",
           difficulty: "Alle Stufen",
-          filters: { genres, difficulties: ["leicht"], familiarities: [1] },
+          recordPreset: "genre",
+          filters: {
+            genres: [genres[0]],
+            sources: ["film"],
+            difficulties: ["leicht", "mittel", "schwer"],
+            familiarities: [1, 2, 3, 4],
+          },
         },
         1790416800000 + i * 100000,
       );
@@ -127,6 +133,11 @@ test("Alle abgeschlossenen Ergebnisse sind filterbar und offline erhalten, ohne 
       ),
     );
     complete(run, r.id, r.startedAt + 20000);
+    if (genres.length > 1) {
+      r.recordPreset = "custom";
+      r.ruleVersion = "solo-v1.rekord.custom";
+      r.filters!.genres = genres;
+    }
     state.rounds.push(r);
     state.events.push(...run.events);
   }
@@ -159,8 +170,8 @@ test("Alle abgeschlossenen Ergebnisse sind filterbar und offline erhalten, ohne 
   );
   await page.reload();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await expect(page.locator(".leaderboard-category")).toHaveCount(3);
-  await expect(page.locator(".leaderboard-entry")).toHaveCount(4);
+  await expect(page.locator(".leaderboard-category")).toHaveCount(2);
+  await expect(page.locator(".leaderboard-entry")).toHaveCount(3);
   const category = page.getByLabel("Vergleichskategorie", { exact: true });
   const options = await category.locator("option").allTextContents();
   await category.selectOption({
@@ -168,7 +179,7 @@ test("Alle abgeschlossenen Ergebnisse sind filterbar und offline erhalten, ohne 
   });
   await expect(page.locator(".leaderboard-entry")).toHaveCount(2);
   await expect(page.locator(".leaderboard-entry").first()).toContainText(
-    "Platz 1 · 790 Punkte",
+    "Platz 1 · 1.580 Punkte",
   );
   await expect(page.locator(".leaderboard-entry").last()).toContainText(
     "Platz 2 · 0 Punkte",
@@ -190,5 +201,5 @@ test("Alle abgeschlossenen Ergebnisse sind filterbar und offline erhalten, ohne 
   await context.setOffline(true);
   await page.reload();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await expect(page.locator(".leaderboard-entry")).toHaveCount(4);
+  await expect(page.locator(".leaderboard-entry")).toHaveCount(3);
 });

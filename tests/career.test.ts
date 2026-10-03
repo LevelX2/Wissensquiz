@@ -120,7 +120,10 @@ describe("Filmkarriere", () => {
       const state = emptyState([q]);
       const round = play(state, q, "correct", now, "rekord");
       expect(state.experience).toBe(xp);
-      expect(Object.values(state.records)[0].points).toBe(158);
+      expect(state.events[0].knowledgePoints + state.events[0].timeBonus).toBe(
+        158,
+      );
+      expect(state.records).toEqual({});
       complete(state, round.id, now + 3);
       rebuild(state);
       expect(state.experience).toBe(xp);

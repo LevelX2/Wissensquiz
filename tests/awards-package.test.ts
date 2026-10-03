@@ -205,7 +205,7 @@ it("erhält Expertenrunden und alle drei Kategorien in JSON und privater Kontosi
   expect(cloud).toEqual(state);
 });
 
-it("vereinigt Kategorien eindeutig und speichert Preisträger-Rekorde getrennt nach Stufe", () => {
+it("vereinigt Kategorien eindeutig und erlaubt Preisträger-Expertentraining im freien Spiel", () => {
   const state = emptyState();
   addPackages(state, contents);
   const union = state.questions.filter((q) => matchesCategories(q, categories));
@@ -213,7 +213,7 @@ it("vereinigt Kategorien eindeutig und speichert Preisträger-Rekorde getrennt n
   expect(union.filter((q) => q.tags.includes("Preisträger"))).toHaveLength(200);
   const round = startRound(
     state,
-    { mode: "rekord", topic: "Preisträger", difficulty: "experte" },
+    { mode: "ueben", topic: "Preisträger", difficulty: "experte" },
     now,
   );
   expect(round.questions).toHaveLength(5);

@@ -13,6 +13,7 @@ import { GuestActivity } from "./GuestActivity";
 import { OnlineRecords, DuelRankings } from "./OnlineRecords";
 import {
   isRecordMode,
+  isRankedRecord,
   modeNames,
   periodNames,
   recordModes,
@@ -39,12 +40,12 @@ export function Leaderboard({
           (r) =>
             r.id === initialTarget.roundId &&
             r.status === "completed" &&
-            isRecordMode(r.mode),
+            isRankedRecord(r),
         )
       : undefined;
   const latest = [...state.rounds]
     .reverse()
-    .find((r) => isRecordMode(r.mode) && r.status === "completed");
+    .find((r) => isRankedRecord(r) && r.status === "completed");
   const [area, setArea] = useState<"records" | "duels" | "career">(
     initialTarget?.kind === "duel" ? "duels" : "records",
   );

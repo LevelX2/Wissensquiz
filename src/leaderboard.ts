@@ -11,6 +11,7 @@ import type { Round, State } from "./model";
 import { roundFacts, roundQuestionCount } from "./roundArchive";
 import {
   isRecordMode,
+  isRankedRecord,
   isEndlessMode,
   modeNames,
   inPeriod,
@@ -73,7 +74,7 @@ export function leaderboard(
   }
   for (const round of state.rounds) {
     if (
-      !isRecordMode(round.mode) ||
+      !isRankedRecord(round) ||
       round.status !== "completed" ||
       (mode && round.mode !== mode) ||
       !inPeriod(round.finishedAt ?? round.startedAt, period, now)

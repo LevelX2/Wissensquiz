@@ -105,8 +105,10 @@ it("speichert die Auswahl unabhängig von Klickreihenfolge und trennt Rekorde", 
   const { filters: _filters, ...legacy } = r;
   expect(recordKey(legacy)).toBe(
     JSON.stringify([
+      "records-v3",
+      legacy.mode,
+      null,
       legacy.topic,
-      legacy.difficulty,
       legacy.questions.length,
       legacy.ruleVersion,
     ]),

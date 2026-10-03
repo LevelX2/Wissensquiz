@@ -86,7 +86,7 @@ it("verwendet den unveränderlichen Kontokatalog wieder und speichert neue Endlo
           mode: "fehlerfrei",
           topic: "Alle Themen",
           difficulty: "Alle Stufen",
-          recordPreset: "custom",
+          recordPreset: "standard",
         },
         now,
       );
@@ -716,7 +716,7 @@ it("synchronisiert lange Rekordläufe und zählt wiederholte Wissensziele pro An
           mode: "fehlerfrei",
           topic: "Alle Themen",
           difficulty: "Alle Stufen",
-          recordPreset: "custom",
+          recordPreset: "standard",
         },
         now,
       );
@@ -770,7 +770,7 @@ it("synchronisiert lange Rekordläufe und zählt wiederholte Wissensziele pro An
           mode: "zeitkonto",
           topic: "Alle Themen",
           difficulty: "Alle Stufen",
-          recordPreset: "custom",
+          recordPreset: "standard",
         },
         now + 30000,
       );

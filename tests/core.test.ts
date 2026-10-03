@@ -328,7 +328,7 @@ describe("Runden und Persistenz", () => {
     complete(s, r.id, now + 6000);
     complete(s, r.id, now + 6001);
     expect(s.experience).toBe(1);
-    expect(s.records[recordKey(r)].points).toBe(150);
+    expect(s.records).toEqual({});
   });
   it("lehnt verspätete Rekordantwort ab", () => {
     const s = emptyState(questions.slice(0, 1));

@@ -179,7 +179,10 @@ export const stateSchema = z.object({
           "fehlerfrei",
           "zeitkonto",
         ]),
-        recordPreset: z.enum(["standard", "genre", "custom"]).optional(),
+        recordPreset: z
+          .enum(["standard", "genre"])
+          .optional()
+          .catch("standard"),
         recordGenre: id.optional(),
         genres: z.array(id).max(20000).nullable(),
         categories: z

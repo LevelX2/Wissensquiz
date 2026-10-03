@@ -217,7 +217,7 @@ test("Alle drei Zeitvarianten warten nach Auswahl auf Losspielen", async ({
   }
 });
 
-test("Aktueller Fragenrückblick wird zum Ergebnis ohne Details; ältere Läufe bleiben samt passender Kategorie", async ({
+test("Aktueller Fragenrückblick bleibt, Sonderwertungen entfallen ohne Verlust des Lernfortschritts", async ({
   page,
 }) => {
   await page.clock.install({ time: new Date("2026-10-03T16:00:00+02:00") });
@@ -234,9 +234,9 @@ test("Aktueller Fragenrückblick wird zum Ergebnis ohne Details; ältere Läufe 
           mode: "fehlerfrei",
           topic: "Alle Themen",
           difficulty: "Alle Stufen",
-          recordPreset: i === 24 ? "custom" : "genre",
+          recordPreset: "genre",
           filters: {
-            genres: [i === 24 ? "Fantasy" : "Horror"],
+            genres: [i >= 23 ? "Fantasy" : "Horror"],
             sources: ["film"],
             difficulties: ["leicht", "mittel", "schwer"],
             familiarities: [1, 2, 3, 4],
@@ -256,6 +256,10 @@ test("Aktueller Fragenrückblick wird zum Ergebnis ohne Details; ältere Läufe 
       r.startedAt + 4000,
     );
     complete(run, r.id, r.startedAt + 10000);
+    if (i === 24) {
+      r.recordPreset = "custom";
+      r.ruleVersion = "solo-v1.fehlerfrei.custom";
+    }
     state.rounds.push(r);
     state.events.push(...run.events);
   }
@@ -302,7 +306,7 @@ test("Aktueller Fragenrückblick wird zum Ergebnis ohne Details; ältere Läufe 
     page.getByLabel("Vergleichskategorie", { exact: true }),
   ).toHaveValue(recordKey(current));
   const highlighted = page.locator(".is-current-run");
-  await expect(highlighted).toContainText("Platz 25 · 0 Punkte");
+  await expect(highlighted).toContainText("Platz 24 · 0 Punkte");
   await expect(highlighted).toBeInViewport({ ratio: 0.5 });
   await expect(highlighted).toBeFocused();
   await expect(page.getByRole("button", { name: "Spiel ansehen" })).toHaveCount(
@@ -315,16 +319,19 @@ test("Aktueller Fragenrückblick wird zum Ergebnis ohne Details; ältere Läufe 
     true,
   );
   await page.getByRole("button", { name: "Alle Kategorien anzeigen" }).click();
-  await expect(page.locator(".leaderboard-entry")).toHaveCount(26);
+  await expect(page.locator(".leaderboard-entry")).toHaveCount(25);
   await expect(
     page.getByRole("heading", { name: "Genre · Horror", exact: true }),
   ).toBeVisible();
   await expect(
     page.getByRole("heading", { name: "Frühere eigene Auswahl", exact: true }),
+  ).toHaveCount(0);
+  await expect(
+    page.getByRole("heading", { name: "Genre · Fantasy", exact: true }),
   ).toBeVisible();
   await page.reload();
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
-  await expect(page.locator(".leaderboard-entry")).toHaveCount(26);
+  await expect(page.locator(".leaderboard-entry")).toHaveCount(25);
   expect((await readStoredState(page)).experience).toBe(xp);
   await page.screenshot({
     path: `test-results/archivierte-rekorde-${test.info().project.name}.png`,

@@ -322,7 +322,7 @@ export function App({
     difficulties: selectedDifficulties,
     familiarities: selectedFamiliarities = [...familiarities],
     sources: selectedSources = ["film"],
-    recordPreset = "custom",
+    recordPreset = "standard",
     recordGenre: savedRecordGenre,
   } = pendingSetup ?? roundSetup!;
   const playGroup: PlayGroup =
