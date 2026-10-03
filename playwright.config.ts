@@ -23,6 +23,7 @@ export default defineConfig({
       testMatch: [
         "audio.spec.ts",
         "answer-duration.spec.ts",
+        "year-answers.spec.ts",
         "play-entry.spec.ts",
         "mobile-round.spec.ts",
         "error-training.spec.ts",

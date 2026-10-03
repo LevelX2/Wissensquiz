@@ -14,6 +14,8 @@ Stand: 02.10.2026. Auf Nutzerauftrag umgesetzt und als Sites-Version 36 veröffe
 
 Drei Runden mit je zehn Fragen. Beide erhalten dieselben konkreten Fragen, Inhaltsversionen, Fragenfolgen, Antworten und Antwortreihenfolgen. Ein Punkt pro Treffer, null bei falsch, „Keine Ahnung“ oder Zeitablauf. Die Summe entscheidet, Gleichstände sind Unentschieden. Keine Zeitboni oder Rekordpunkte.
 
+Neue Duelle ziehen bei Jahresfragen zuerst den zeitlichen Rang der richtigen Lösung ausgewogen und danach die drei passenden falschen Jahre: Leicht 8–25, Mittel 3–10, Schwer 3–8 Jahre Abstand. Beide Spieler erhalten denselben einmal gespeicherten Satz; vorhandene Duelle und idempotente Wiederholungen behalten ihre Antworten. Alle CSV-Antwort-IDs bleiben erhalten und verraten durch ihre Form keine Lösung. [Jahresvertrag und Nachweis](Filmwissen-und-Filmdaten.md#korrektur-und-verteilungsnachweis--version-51).
+
 | Spielblock | Spieler A | Spieler B |
 | --- | --- | --- |
 | 1 | Legt Runde 1 vor. | Noch nicht zugeordnet. |

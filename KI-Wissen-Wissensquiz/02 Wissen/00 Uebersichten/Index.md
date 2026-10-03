@@ -115,4 +115,5 @@
 - [Arthouse-Bestandszuordnungen](../../01%20Rohquellen/Arthouse_Zuordnungen_Bestand.json)
 - [Arthouse-Zuordnungsbericht](../../../docs/arthouse-zuordnungsbericht.json)
 
-- [Jahres- und Regiefragen, variable Antworten, geprüfte Häufung mittlerer Jahreswerte und Filmdaten](../../../docs/Filmwissen-und-Filmdaten.md)
+- [Jahres- und Regiefragen: ausgeglichene Jahresränge, größere Abstände und Filmdaten](../../../docs/Filmwissen-und-Filmdaten.md)
+- [Maschinelle Jahresantwortprüfung: 550.000 Ziehungen, Abstände und Grenzfall](../../../docs/Jahresantworten-Pruefung-2026-10-03.json)
