@@ -2,7 +2,7 @@
 
 ## Aktueller Stand
 
-03.10.2026: Antwortoptimierung, Kontosicherung im Hintergrund, Solo-Lösungswahl unter Profil → Optionen und Duell als fünfte Spielkachel sind mit der bereits veröffentlichten Sites-Version 39 zusammengeführt. Schauspieler, öffentliche Bestenliste/Gastaktivität, komprimierter Katalog und additive Fragenbereiche erhalten. Bisherige Zeitregeln bleiben auf Nutzerwunsch bestehen; alle 5.677 Fragen/5.147 Ziele und Rohquellen unverändert. 229 Tests, Produktions-Build und 19 abschließende Browserfälle erfolgreich. Veröffentlichung vorbereitet; Nachweis unter [Sites-Betrieb](../docs/Sites-Betrieb.md), [Prüfbericht](../docs/Pruefbericht.md).
+03.10.2026: **Sites-Version 40 erfolgreich veröffentlicht**, nativer Status succeeded. Duell als fünfte gleich gestaltete Startkachel, schnellere Antwortverarbeitung, Kontosicherung im Hintergrund und Solo-Lösungswahl unter Profil → Optionen. Die bisherigen Zeitregeln bleiben erhalten. Schauspieler, öffentliche Bestenliste/Gastaktivität, komprimierter Katalog und additive Fragenbereiche aus Versionen 38/39 enthalten; 5.677 Fragen/5.147 Ziele und Rohquellen unverändert. 229 Tests, Build und 19 unterschiedliche finale Browserfälle erfolgreich. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md), [Prüfbericht](../docs/Pruefbericht.md).
 
 ## Bisherige Entwicklungs- und Veröffentlichungsstände
 
