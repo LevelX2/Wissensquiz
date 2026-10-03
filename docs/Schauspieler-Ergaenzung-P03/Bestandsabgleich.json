@@ -1,0 +1,168 @@
+{
+  "created_on": "2026-10-03",
+  "old_actor_people": 125,
+  "new_actor_people": 50,
+  "exact_duplicate_questions": 0,
+  "question_id_collisions": 0,
+  "public_csv_rows": 4852,
+  "prior_prepared_questions": 200,
+  "semantic_link_candidates": [
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-126-M-2",
+      "correct_answer": "Kathleen Turner",
+      "existing_candidates": [
+        {
+          "question_id": "ADV-202610-P01-L-007",
+          "knowledge_id": "K-ADV-202610-P01-L-007",
+          "question": "„Auf der Jagd nach dem grünen Diamanten“ (1984): Wer spielt Joan Wilder?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Beide Fragen prüfen Kathleen Turner als Joan Wilder im selben Film."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-126-S-1",
+      "correct_answer": "Einer flog über das Kuckucksnest",
+      "existing_candidates": [
+        {
+          "question_id": "PRZ-202610-P01-L-004",
+          "knowledge_id": "K-PRZ-202610-P01-L-004",
+          "question": "Welcher Film gewann bei der Oscarverleihung 1976 die Auszeichnung „bester Film“?"
+        }
+      ],
+      "status": "anderes_wissensziel",
+      "reason": "Michael Douglas als Produzent und der Gewinn des Oscars für den besten Film sind verschiedene Aussagen."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-127-L-1",
+      "correct_answer": "Julia Roberts",
+      "existing_candidates": [
+        {
+          "question_id": "ROM-L-003",
+          "knowledge_id": "K-ROM-02-01",
+          "question": "„Pretty Woman“ (1990): Wer spielt Vivian Ward?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Beide Fragen prüfen Julia Roberts als weibliche Hauptdarstellerin beziehungsweise Vivian Ward im selben Film."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-127-L-2",
+      "correct_answer": "Strafverteidiger",
+      "existing_candidates": [
+        {
+          "question_id": "MUS-202609-P01-L-010",
+          "knowledge_id": "K-MUS-202609-P01-L-010",
+          "question": "„Chicago“ (2002): Welchen Beruf hat Billy Flynn?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Beide Fragen prüfen Billy Flynns Beruf als Strafverteidiger in Chicago."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-129-A-2",
+      "correct_answer": "Pork-Chop Express",
+      "existing_candidates": [
+        {
+          "question_id": "FAN-202610-P01-S-023",
+          "knowledge_id": "K-FAN-202610-P01-S-023",
+          "question": "„Big Trouble in Little China“ (1986): Wie heißt Jack Burtons Lastwagen?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Beide Fragen prüfen den Namen von Jack Burtons Lastwagen im selben Film."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-133-M-1",
+      "correct_answer": "Eishockey",
+      "existing_candidates": [
+        {
+          "question_id": "KOM-202609-P02-L-048",
+          "knowledge_id": "K-KOM-202609-P02-L-048",
+          "question": "„Happy Gilmore“ (1996): Aus welcher Sportart stammt Happy ursprünglich?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Beide Fragen prüfen Happy Gilmores frühere Sportart Eishockey."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-133-M-2",
+      "correct_answer": "Drew Barrymore",
+      "existing_candidates": [
+        {
+          "question_id": "ROM-L-023",
+          "knowledge_id": "K-ROM-12-01",
+          "question": "„50 erste Dates“ (2004): Wer spielt Lucy Whitmore?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Beide Fragen prüfen Drew Barrymore als Lucy in 50 erste Dates."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-140-M-2",
+      "correct_answer": "Aslan",
+      "existing_candidates": [
+        {
+          "question_id": "FAN-L-030-V1",
+          "knowledge_id": "K-FAN-15-aslan-loewe",
+          "question": "„Die Chroniken von Narnia: Der König von Narnia“ (2005): Welche Figur ist der sprechende Löwe, auf dessen Rückkehr viele Narniaken hoffen?"
+        }
+      ],
+      "status": "anderes_wissensziel",
+      "reason": "Liam Neesons englische Sprechrolle und Aslans Gestalt als Löwe sind verschiedene Aussagen."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-156-L-1",
+      "correct_answer": "Meg Ryan",
+      "existing_candidates": [
+        {
+          "question_id": "ROM-L-001",
+          "knowledge_id": "K-ROM-01-01",
+          "question": "„Harry & Sally“ (1989): Wer spielt Sally Albright?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Beide Fragen prüfen Meg Ryan als Sally Albright im selben Film."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-158-L-1",
+      "correct_answer": "Bridget Jones",
+      "existing_candidates": [
+        {
+          "question_id": "ROM-L-013-V1",
+          "knowledge_id": "K-ROM-07-01",
+          "question": "„Bridget Jones – Schokolade zum Frühstück“ (2001): Welche Figur verkörpert Renée Zellweger?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Beide Fragen prüfen Renée Zellwegers Darstellung von Bridget Jones."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-161-S-2",
+      "correct_answer": "Richard Curtis",
+      "existing_candidates": [
+        {
+          "question_id": "ROM-202610-P01-M-030",
+          "knowledge_id": "K-ROM-202610-P01-M-030",
+          "question": "„Alles eine Frage der Zeit“ (2013): Wer führte bei dieser Fassung Regie?"
+        }
+      ],
+      "status": "bestandsziel_redaktionell_zugeordnet",
+      "reason": "Beide Fragen prüfen Richard Curtis als Regisseur desselben Films."
+    },
+    {
+      "question_id": "SCHAUSPIELER-202610-P03-165-L-1",
+      "correct_answer": "Dolores Umbridge",
+      "existing_candidates": [
+        {
+          "question_id": "FAN-L-021",
+          "knowledge_id": "K-FAN-11-umbridge",
+          "question": "„Harry Potter und der Orden des Phönix“ (2007): Welche Lehrerin übernimmt im Auftrag des Ministeriums zunehmend die Kontrolle über Hogwarts?"
+        }
+      ],
+      "status": "anderes_wissensziel",
+      "reason": "Imelda Stauntons Besetzung als Dolores Umbridge und Umbridges ministerielle Übernahme der Schule sind verschiedene Aussagen."
+    }
+  ],
+  "limitation": "Gleiche Lösung und Film sind Kandidaten, kein Beweis eines gleichen Wissensziels. Vor App-Einbindung jeden Kandidaten und weitere sinngleiche Ziele redaktionell abgleichen."
+}

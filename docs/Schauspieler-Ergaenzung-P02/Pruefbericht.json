@@ -1,0 +1,118 @@
+{
+  "created_on": "2026-10-03",
+  "package_id": "SCHAUSPIELER-202610-P02",
+  "status": "vorbereitet_nicht_in_app_integriert",
+  "actors": 25,
+  "questions": 200,
+  "questions_by_difficulty": {
+    "leicht": 50,
+    "mittel": 50,
+    "schwer": 50,
+    "außergewöhnlich": 50
+  },
+  "correct_answers": {
+    "A": 50,
+    "B": 50,
+    "C": 50,
+    "D": 50
+  },
+  "answer_distribution_each_difficulty": {
+    "leicht": {
+      "A": 13,
+      "B": 13,
+      "C": 12,
+      "D": 12
+    },
+    "mittel": {
+      "A": 12,
+      "B": 13,
+      "C": 13,
+      "D": 12
+    },
+    "schwer": {
+      "A": 12,
+      "B": 12,
+      "C": 13,
+      "D": 13
+    },
+    "außergewöhnlich": {
+      "A": 13,
+      "B": 12,
+      "C": 12,
+      "D": 13
+    }
+  },
+  "question_types": {
+    "Rollen und Werke": 96,
+    "Musik und Sprechrollen": 17,
+    "Produktion und Regie": 17,
+    "Ausbildung und frühe Arbeit": 15,
+    "Sport und Interessen": 3,
+    "Herkunft und Namen": 8,
+    "Bühne und Literatur": 23,
+    "Engagement und öffentliche Arbeit": 10,
+    "Auszeichnungen": 11
+  },
+  "recognition_questions": 5,
+  "questions_with_film_refs": 126,
+  "questions_without_film_refs": 74,
+  "questions_with_multiple_films": 8,
+  "films": 127,
+  "additional_info_words": {
+    "min": 40,
+    "median": 44.5,
+    "max": 50
+  },
+  "unique_source_urls": 209,
+  "semantic_link_candidates": 6,
+  "reused_knowledge_ids": 4,
+  "proposed_additional_knowledge_ids": 196,
+  "checks": {
+    "eight_questions_each_actor": true,
+    "two_each_difficulty_per_actor": true,
+    "four_distinct_answers": true,
+    "all_given_names_complete": true,
+    "recognition_name_hidden": true,
+    "all_film_refs_resolved": true,
+    "all_film_years_match_source": true,
+    "all_questions_have_sources": true,
+    "question_and_options_at_most_60_words": true,
+    "known_knowledge_links_valid": true,
+    "json_roundtrip": true,
+    "exact_duplicate_questions": 0,
+    "existing_question_id_collisions": 0,
+    "original_800_package_unchanged": true
+  },
+  "hashes": {
+    "raw_sha256": "7bf94b4206119ac71339977760b7f40d5e19886adaa34fe7a7f34221b0780800",
+    "package_sha256": "95a120826a38310b61913ce5a707891961d6813b9c7ccd4156907493ce71347b",
+    "reading_version_sha256": "50ea7d9d6482953c4a4ec4a6920d693dff1d75231d30b117023fe870f20dca41",
+    "original_800_package_sha256": "8588de53610bf411d1588fd06aa00c47d6862cb43c3be9889e67970ac7850df8"
+  },
+  "unchanged_public_csv_sha256": {
+    "action-fragen.csv": "a96725f37c330014f5424a4552f2963b79c485debb5b88a559dfc35082fb8163",
+    "alle-genres-120-filme-fragen.csv": "84d105796e4fc87f337eda9fd187c65673d48357458a788dbabcd3815dc7fbe1",
+    "arthouse-fragen.csv": "84274af394d4bdc1952ea47716abd62331d45bd768ece7e72b17051b5a52af91",
+    "classics-fragen.csv": "35a1a4cd6abfc74823af08d6113d8d984689c63a0ccf12b08a2211e7f1f1c944",
+    "demo-fragen.csv": "7e1a295cc04def3dfa58b9129c221dc2fb001d41779c78e611d7f7466265a021",
+    "drama-fragen.csv": "62262f8338959dc79b9714c7bc9480005ae56de4ee21f780813c1150d599fc4f",
+    "fantasy-fragen.csv": "1245252ad7cdbcfcd2954e7752906e1b2f350a8d6f0110e58da96165d5cc1796",
+    "fragen.csv": "e928647423f3781bdbcc6e17b2ab0c35fad38d76483e3470ddc312f7d8bdf968",
+    "horror-fragen.csv": "dd3d2c14fa779dc08e0ba87a89cb8f0112fd0ac33f8ff496ec5b43b3249a6e1d",
+    "komoedie-ergaenzung-fragen.csv": "3e267acea78956d1179207a644a31be5d6151cb230dc1272206177b5cf12a96d",
+    "komoedie-fragen.csv": "d29175f15adab894008837d94de0cc63f76986c62ac8e1f042fccf235f225871",
+    "martialarts-fragen.csv": "ebc619048ce638866e2f40679200b3ee6e1d3e4c234805264d4687830d13961b",
+    "musik-fragen.csv": "d8c47f7931d31ba0bf1108bf1b860e001170a44c7fa21449f514d03e1baab132",
+    "preistraeger-fragen.csv": "6d8cceab02e9908862ba97815a7dc8f8a5979c9b11b4c88716a14bb604341138",
+    "romcom-fragen.csv": "b8d1fe55b82369a24c1d1b30ac801fd9a4131d2130d8f116819695a827a3d3ae",
+    "schauspieler-fragen.csv": "859b758429b9b4ea79841ddc0b6ab6e314774465bd6f3ec43ef16f8a24266182",
+    "scifi-ergaenzung-fragen.csv": "c5af33b206ed17443fc1283e7dbf5e028f3514ddd4d95db056de0799c6726af8",
+    "western-fragen.csv": "3e60cfd8cf5cf1e4ae58c08db2cd086a7fda45fe1c15869a0f8c38fc1ea944af"
+  },
+  "limits": [
+    "Redaktionell recherchiert und durchgesehen; keine zweite unabhängige Vollabnahme aller 200 Aussagen.",
+    "Schwierigkeitsstufen sind redaktionell eingeschätzt, nicht mit Spielenden kalibriert.",
+    "Vier Ziele sind zugeordnet; 196 Wissensziel-IDs bleiben vorgeschlagen. Weitere sinngleiche Bestandsziele vor Integration abgleichen.",
+    "Keine Änderung an App-Katalog, Fortschritt, Duellkatalog oder veröffentlichter Site."
+  ]
+}

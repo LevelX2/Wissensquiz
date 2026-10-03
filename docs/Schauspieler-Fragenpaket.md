@@ -1,5 +1,7 @@
 # Schauspieler: Fragenpaket für 100 Personen
 
+Weitere Redaktion vom 03.10.2026: [P02 mit 200 Fragen für 25 weitere Personen](Schauspieler-200-Ergaenzung.md) und [P03 mit 400 Fragen für 50 weitere Personen](Schauspieler-400-Ergaenzung.md) sind vorbereitet. Damit liegen 1.400 redaktionelle Fragen für 175 Personen vor, davon 600 zusätzlich und noch nicht spielbar. Der veröffentlichte Personenbestand bleibt bei 800 Fragen für 100 Personen, Version 41.
+
 03.10.2026 – **Additiver Fragenbereich**: Preisträger und Schauspieler sind unabhängig von Filmgenres auswählbar und ergänzen den Filmfragenbereich. Alle drei Checkboxen bilden einen gemeinsamen Pool; reine Preis-/Personenrunden benötigen keine Filmgenres. Classics/Arthouse begrenzen nur die Filmfragen. Vorhandene Filmmetadaten erzeugen keine verpflichtende Genre- oder Filmgruppenbindung für Preisfragen. [Auswahlvertrag](Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
 
 Stand: 03.10.2026. **800 Fragen für 50 Schauspieler und 50 Schauspielerinnen**, mit jeweils zwei Fragen pro Person und Schwierigkeitsstufe. Das am 02.10.2026 vorbereitete Paket ist auf den anschließenden Veröffentlichungsauftrag als eigene App-Kategorie **Schauspieler** eingebaut. Als **Sites-Version 37** am 03.10.2026 erfolgreich veröffentlicht, nativer Status `succeeded`. [Veröffentlichungsnachweis](Sites-Betrieb.md).
@@ -16,12 +18,18 @@ Die Fragen sind einzeln formuliert. Neben bekannten Figuren und Filmpartnerschaf
 
 ## Redaktionelle Überarbeitung vom 03.10.2026
 
+Als Sites-Version 41 erfolgreich veröffentlicht, einschließlich Schauspieler/Preisträger in der Filmreise und der Filmdaten bei konkretem Filmbezug. [Veröffentlichungsnachweis](Sites-Betrieb.md).
+
 Alle 800 Vertiefungen wurden um konkrete Hintergründe ergänzt (26–53 Wörter, Median 35 statt bisher 13). Vorgegebene Personennamen stehen vollständig im Fragetext, einschließlich Fragen nach einer gespielten Rolle oder einem Film. Die ursprünglichen Dateien bleiben erhalten; die aktuelle Anzeige verwendet eine getrennte Redaktion, die auch frühere Rundensnapshots unterstützt. Die Filmreferenzen erzeugen keine neuen Fragen und ändern weder Genre noch Wissensziel. [Anzeige- und Fortschrittsvertrag](Filmreise-Personen-und-Vertiefungen.md).
 
 - [Aktuelle überarbeitete Lesefassung mit allen 800 Fragen](Schauspieler-Fragenpaket/Schauspieler_800_Fragen_Lesefassung_2026-10-03.md)
 - [Redaktionsbericht und Prüfsummen](Schauspieler-Fragenpaket/Redaktionsbericht-2026-10-03.json)
 - [Quellenabgleich der 100 Biografien](Schauspieler-Fragenpaket/Quellenpruefung-2026-10-03.json)
 - [Quellenabgleich der ergänzten Film-Eckdaten](Schauspieler-Fragenpaket/Filmquellenpruefung-2026-10-03.json)
+
+## Vorbereitete Ergänzung mit 200 Fragen
+
+Am 03.10.2026 auf Nutzerauftrag weitere 200 individuelle Fragen für 25 bisher nicht im Personenpaket enthaltene Schauspielerinnen und Schauspieler vorbereitet: je acht Fragen und zwei je Stufe. Das getrennte Paket P02 enthält vollständige vorgegebene Namen, konkrete Vertiefungen, frageweise Quellen und Filmreferenzen mit Eckdaten. Vier fachlich gleiche Bestandsziele sind als Varianten zugeordnet; weitere Zuordnungen bleiben vor Integration zu prüfen. Diese Erweiterung ist noch nicht spielbar oder veröffentlicht; der veröffentlichte Bestand von 800 Schauspielerfragen bleibt unverändert. [Ergänzung, Lesefassung und Prüfnachweis](Schauspieler-200-Ergaenzung.md).
 
 ## Ursprüngliche Dateien
 
