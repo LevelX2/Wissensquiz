@@ -458,3 +458,7 @@ Offene Änderungen in fachlichen lokalen Commits gesichert: Schauspielerredaktio
 ## 03.10.2026 – GitHub-Remote verbunden
 
 Auf Nutzerauftrag das neu angelegte Repository `https://github.com/LevelX2/Wissensquiz.git` als dauerhaften Remote `origin` für Fetch und Push eingerichtet. Verbindung mit `git ls-remote --symref origin` erfolgreich lesend geprüft; das GitHub-Repository ist noch leer. Integrationsbranch bleibt `main`; Projektanweisungen, README, Projektstart und Index auf das neue Git-Modell angepasst. Push und Pull Requests benötigen weiterhin einen ausdrücklichen Auftrag. Bestehenden Arbeitsbranch und offene Änderungen erhalten; kein Commit, Merge, GitHub-Push oder Upstream-Branch eingerichtet.
+
+## 03.10.2026 – Erster GitHub-Push und Pull-Abgleich
+
+Auf ausdrücklichen Push/Pull-Auftrag die abgeschlossene Remote-Dokumentation separat als `adfa561` committet; laufende App-/Fragenänderungen nicht mit aufgenommen. Vor dem öffentlichen Erstupload 1.035 historische Git-Blobs auf erkennbare Zugangsschlüssel und private Konfigurationsdateien geprüft, ohne Befund. `main` (`56c12c2`) und `codex/schauspieler-veroeffentlichung` (`adfa561`) ohne Force-Push nach `origin` übertragen und beide Upstreams eingerichtet. GitHub-Standardbranch ist `main`. Anschließender Pull mit `--ff-only` meldet „Already up to date“; beide lokalen Branches und ihre Remote-Branches haben jeweils keine abweichenden Commits. Projektstart auf den erfolgreichen Abgleich aktualisiert. Keine neue Main-Integration, PR oder Sites-Veröffentlichung; bestehende offene Arbeiten erhalten.
