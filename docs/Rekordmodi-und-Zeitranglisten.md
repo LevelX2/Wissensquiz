@@ -1,6 +1,6 @@
 # Rekordmodi und Zeitranglisten
 
-Stand: 03.10.2026. Rekordmodi aus dem eigenen Worktree sind im gemeinsamen Integrationsstand mit dem kompakten Einstieg, der ausgelagerten Oberfläche und dem Eintragskontospeicher vereinigt. Der Finale-Abschluss ist durchgeführt: alle lokalen Branchstände in `main`, als **Sites-Version 43** am 03.10.2026 um 15:46:07 Uhr deutscher Zeit veröffentlicht; nativ `succeeded`.
+Stand: 03.10.2026. Rekordmodi aus dem eigenen Worktree sind im gemeinsamen Integrationsstand mit dem kompakten Einstieg, der ausgelagerten Oberfläche und dem Eintragskontospeicher vereinigt. Der Finale-Abschluss ist durchgeführt: alle lokalen Branchstände in `main`, als **Sites-Version 43** am 03.10.2026 um 15:46:07 Uhr deutscher Zeit veröffentlicht; nativ `succeeded`. Die illustrierten Direktstart-Kacheln und die korrigierte Rekordauswahl sind als **Sites-Version 44** um 16:11:12 Uhr veröffentlicht und ebenfalls in `main` integriert.
 
 ## Einstieg und Regeln
 
