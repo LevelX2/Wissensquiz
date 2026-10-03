@@ -20,7 +20,7 @@
 
 ## Git, Checks und Sicherheit
 
-- Git-Modell: lokales Git ohne dauerhaft konfigurierten Remote; Sites-Quellveröffentlichung nach ausdrücklichem Hostingauftrag. Integrationsbranch: `main`.
+- Git-Modell: lokales Git mit GitHub-Remote `origin` (`https://github.com/LevelX2/Wissensquiz.git`); Sites-Quellveröffentlichung nach ausdrücklichem Hostingauftrag. Integrationsbranch: `main`.
 - Vor Arbeitsänderungen auf `main` einen passenden `codex/`-Arbeitsbranch anlegen. Die initiale Projektanlage erfolgt auf `codex/projektanlage`; `main` erhält denselben Initialstand.
 - Remote, Push, PR und Veröffentlichung nur nach ausdrücklichem Auftrag.
 - Sites ist über `.openai/hosting.json` verknüpft; bestehende Projekt-ID erhalten. Der Nutzer hat inzwischen öffentlichen Besucherzugriff ohne vorgeschaltete ChatGPT-Anmeldung beauftragt; umgesetzt am 26.09.2026. Veröffentlichungen und spätere Site-Änderungen nach `sites-hosting` bzw. dokumentiertem Ersatzablauf in `docs/Sites-Betrieb.md` ausführen; bestehenden Zugriff erhalten. Gastspielstände bleiben im Browser; angemeldete Kontostände werden automatisch privat in Supabase gesichert. Keine Nutzerdaten in Veröffentlichungsartefakte aufnehmen.
@@ -36,6 +36,6 @@
 Für `Finito`, `Ende`, `Finale`, `Endfinale` und sinngleiche ausdrückliche Abschlusswünsche den persönlichen Skill `abschlusskommandos` verwenden.
 
 - `Finito`/`Ende`: offene und ungetrackte Änderungen einordnen, Wissen und passende Checks prüfen, abgeschlossene zugehörige Teile in fachlichen Blöcken lokal committen. Kein automatischer Merge oder Push.
-- `Finale`: zuerst lokaler Abschluss; bei erfüllten Gates lokal nach `main` integrieren und schnelle Checks erneut ausführen. Kein Push bei diesem Git-Modell.
+- `Finale`: zuerst lokaler Abschluss; bei erfüllten Gates lokal nach `main` integrieren und schnelle Checks erneut ausführen. Push nur nach ausdrücklichem Auftrag.
 - `Endfinale`: zuvor erweiterten Verify-Lauf sowie Wissens-, Risiko- und Restpunkteprüfung ausführen.
 - Fremde, unfertige, private oder unklare Änderungen erhalten und benennen; nicht blind committen oder verwerfen. Relevante Konflikte, fehlgeschlagene Pflichtchecks und ungeklärte Entscheidungen vor Integration lösen.

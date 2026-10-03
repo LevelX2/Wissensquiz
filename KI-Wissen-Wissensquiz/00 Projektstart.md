@@ -39,8 +39,8 @@ Regievertiefungen vom 29.09.2026: 312 ältere generierte Regiefragen haben statt
 - 2.880 gelieferte Fragen aus 14 Paketen, 2.400 Wissensziele und 480 Varianten; 378 Film-/Reihenthemen und zwölf Genres. Einschließlich Jahres-/Regieergänzungen Classics: 929 Fragen/799 Ziele/101 Filme; Arthouse: 461/405/52. Alle 258 Classics- und 126 Arthouse-Bestandsreferenzen passend aufgelöst; neue Musik-Tags aus der Quelle. Sämtliche Datensätze strukturell akzeptiert.
 - Fortschritt, Runden, Rekorde und Inhalte in IndexedDB; CSV-Import, JSON-Sicherung, lokale Meldungen und Expertenalbum vorhanden.
 - Produktions-Build mit Offline-Cache und PWA-Manifest; Offline-Neuladen auf localhost geprüft.
-- Lokales Git ohne Remote; Integrationsbranch `main`.
-- Getestete Umsetzung auf `codex/spielbare-testversion`; nach Freigabe des Nutzers lokal in `main` integriert. Kein GitHub-Remote eingerichtet.
+- Lokales Git mit GitHub-Remote `origin`: [LevelX2/Wissensquiz](https://github.com/LevelX2/Wissensquiz), eingerichtet am 03.10.2026. Integrationsbranch `main`; Push und Pull Requests nur nach ausdrücklichem Auftrag. Remote-Verbindung lesend geprüft, Repository zu diesem Zeitpunkt leer; noch kein GitHub-Push und kein Upstream-Branch eingerichtet.
+- Getestete Umsetzung auf `codex/spielbare-testversion`; nach Freigabe des Nutzers lokal in `main` integriert.
 - Codex-Projektregistrierung noch offen; Ordner in der App hinzufügen.
 
 ## Offen
