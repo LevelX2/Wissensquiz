@@ -1,5 +1,7 @@
 import { familiarities } from "./familiarity";
 import {
+  lazy,
+  Suspense,
   useContext,
   useEffect,
   useMemo,
@@ -12,11 +14,8 @@ import { emptyState, type Round, type State, type RoundSetup } from "./model";
 import { difficulties, genreOf, questionSourceOf } from "./filters";
 import { read as readStored, update as updateStored } from "./storage";
 import { useOffline } from "./offline";
-import { Leaderboard } from "./RecordLeaderboard";
 import { ActivityContext } from "./GuestActivity";
 import { GuestActivityReporter } from "./guestActivityDelivery";
-import { Help } from "./Help";
-import { DuelCenter } from "./DuelCenter";
 import { readRoundSetup } from "./roundSetup";
 import { careerProgress } from "./career";
 import { CareerProgress } from "./CareerProgress";
@@ -39,10 +38,26 @@ import {
 import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { QuestionScreen } from "./QuestionScreen";
 import { Result } from "./RoundResult";
-import { Settings } from "./Settings";
 import { PlaySetup } from "./PlaySetup";
-import { TopicsPage } from "./TopicsPage";
-import { CollectionPage } from "./CollectionPage";
+
+import { PageBoundary } from "./PageBoundary";
+
+const Leaderboard = lazy(() =>
+  import("./RecordLeaderboard").then((m) => ({ default: m.Leaderboard })),
+);
+const Help = lazy(() => import("./Help").then((m) => ({ default: m.Help })));
+const DuelCenter = lazy(() =>
+  import("./DuelCenter").then((m) => ({ default: m.DuelCenter })),
+);
+const Settings = lazy(() =>
+  import("./Settings").then((m) => ({ default: m.Settings })),
+);
+const TopicsPage = lazy(() =>
+  import("./TopicsPage").then((m) => ({ default: m.TopicsPage })),
+);
+const CollectionPage = lazy(() =>
+  import("./CollectionPage").then((m) => ({ default: m.CollectionPage })),
+);
 
 export function App({
   storageKey = "current",
@@ -432,181 +447,188 @@ export function App({
                 Öffne sie danach erneut. Dein Fortschritt bleibt erhalten.
               </p>
             )}
-          {page === "home" && (
-            <PlaySetup
-              mode={mode}
-              busy={busy}
-              changeSetup={changeSetup}
-              active={active}
-              begin={begin}
-              roundTopic={roundTopic}
-              selectedSources={selectedSources}
-              filters={filters}
-              genres={genres}
-              selectedDifficulties={selectedDifficulties}
-              selectedFamiliarities={selectedFamiliarities}
-              pendingSolutions={pendingSolutions}
-              state={state}
-              setPendingSolutions={setPendingSolutions}
-              mutate={mutate}
-              nav={nav}
-              resume={resume}
-              toggleGenre={toggleGenre}
-              selectedCategories={selectedCategories}
-              setPage={setPage}
-            />
-          )}
-          {page === "topics" && (
-            <TopicsPage
-              topicScope={topicScope}
-              setTopicScope={setTopicScope}
-              state={state}
-              changeSetup={changeSetup}
-              setPage={setPage}
-              genres={genres}
-              playGenre={playGenre}
-            />
-          )}
-          {page === "album" && (
-            <CollectionPage
-              state={state}
-              answeredOnly={answeredOnly}
-              setAnsweredOnly={setAnsweredOnly}
-              setRoundId={setRoundId}
-              setPage={setPage}
-              nav={nav}
-              changeSetup={changeSetup}
-            />
-          )}
-          {page === "leaderboard" && (
-            <>
-              <h1>Highscores</h1>
-              <Leaderboard
-                state={state}
-                onAccount={() => void nav("account")}
-                onPlay={() => {
-                  void changeSetup({ mode: "rekord" }).then((saved) => {
-                    if (saved) setPage("home");
-                  });
-                }}
-                onReview={(id) => {
-                  setRoundId(id);
-                  setPage("result");
-                }}
-              />
-            </>
-          )}
-          {page === "round" && current && (
-            <QuestionScreen
-              key={`${current.id}:${index}`}
-              round={current}
-              index={index}
-              state={state}
-              mutate={mutate}
-              busy={busy}
-              sync={sync}
-              onExit={() => void nav("home")}
-              onNext={async () => {
-                unlockSound(state.settings);
-                if (index === current.questions.length - 1) {
-                  let unlocks: PathUnlock[] = [];
-                  const next = await mutate((s) => {
-                    const before = learningPathProgress(s);
-                    complete(s, current.id);
-                    unlocks = newlyUnlocked(before, s);
-                  });
-                  if (next) {
-                    guestReporter.current?.record(
-                      next,
-                      current.id,
-                      "completed",
-                    );
-                    setJustCompleted(current.id);
-                    if (unlocks.length)
-                      setCelebration({ roundId: current.id, unlocks });
-                    playFeedback(
-                      unlocks.length
-                        ? "unlock"
-                        : next.badges.length > state.badges.length
-                          ? "badge"
-                          : careerProgress(next.experience).level >
-                              careerProgress(state.experience).level
-                            ? "level"
-                            : "complete",
-                      next.settings,
-                    );
-                    setPage("result");
-                  }
-                } else {
-                  playFeedback("next", state.settings);
-                  setIndex(index + 1);
-                }
-              }}
-            />
-          )}
-          {page === "duels" && (
-            <DuelCenter
-              state={state}
-              mutate={mutate}
-              busy={busy}
-              onHome={() => void nav("home")}
-              onAccount={() => void nav("account")}
-              onRetry={(round) => void retryErrors(round)}
-              onLeaderboard={() => void nav("leaderboard")}
-              onPlaying={setDuelPlaying}
-            />
-          )}
-          {page === "result" && current && (
-            <Result
-              round={current}
-              state={state}
-              onHome={() => setPage("home")}
-              onLeaderboard={() => setPage("leaderboard")}
-              onRetry={() => void retryErrors(current)}
-              busy={busy}
-              celebrate={justCompleted === current.id}
-            />
-          )}
-          {page === "account" && (
-            <>
-              <CareerProgress
-                experience={state.experience}
-                legacyBonus={state.career?.legacyBonus}
-              />
-              <div className="profile-tools">
-                <button
-                  className="secondary"
-                  onClick={() => void nav("settings")}
-                >
-                  ⚙ Optionen
-                </button>
-                <button className="secondary" onClick={() => void nav("help")}>
-                  ? So funktioniert’s
-                </button>
-              </div>
-              {accountPanel?.(state, setState)}
-            </>
-          )}
-          {page === "help" && <Help />}
-          {page === "settings" && (
-            <>
-              <button
-                className="text-button"
-                onClick={() => void nav("account")}
-              >
-                ← Zurück zum Profil
-              </button>
-              <Settings
-                storageKey={storageKey}
-                state={state}
-                mutate={mutate}
-                setState={setState}
-                busy={busy}
-                offline={offline}
-                onHome={() => setPage("home")}
-              />
-            </>
-          )}
+          <PageBoundary key={page}>
+            <Suspense fallback={<p role="status">Ansicht wird geladen …</p>}>
+              {page === "home" && (
+                <PlaySetup
+                  mode={mode}
+                  busy={busy}
+                  changeSetup={changeSetup}
+                  active={active}
+                  begin={begin}
+                  roundTopic={roundTopic}
+                  selectedSources={selectedSources}
+                  filters={filters}
+                  genres={genres}
+                  selectedDifficulties={selectedDifficulties}
+                  selectedFamiliarities={selectedFamiliarities}
+                  pendingSolutions={pendingSolutions}
+                  state={state}
+                  setPendingSolutions={setPendingSolutions}
+                  mutate={mutate}
+                  nav={nav}
+                  resume={resume}
+                  toggleGenre={toggleGenre}
+                  selectedCategories={selectedCategories}
+                  setPage={setPage}
+                />
+              )}
+              {page === "topics" && (
+                <TopicsPage
+                  topicScope={topicScope}
+                  setTopicScope={setTopicScope}
+                  state={state}
+                  changeSetup={changeSetup}
+                  setPage={setPage}
+                  genres={genres}
+                  playGenre={playGenre}
+                />
+              )}
+              {page === "album" && (
+                <CollectionPage
+                  state={state}
+                  answeredOnly={answeredOnly}
+                  setAnsweredOnly={setAnsweredOnly}
+                  setRoundId={setRoundId}
+                  setPage={setPage}
+                  nav={nav}
+                  changeSetup={changeSetup}
+                />
+              )}
+              {page === "leaderboard" && (
+                <>
+                  <h1>Highscores</h1>
+                  <Leaderboard
+                    state={state}
+                    onAccount={() => void nav("account")}
+                    onPlay={() => {
+                      void changeSetup({ mode: "rekord" }).then((saved) => {
+                        if (saved) setPage("home");
+                      });
+                    }}
+                    onReview={(id) => {
+                      setRoundId(id);
+                      setPage("result");
+                    }}
+                  />
+                </>
+              )}
+              {page === "round" && current && (
+                <QuestionScreen
+                  key={`${current.id}:${index}`}
+                  round={current}
+                  index={index}
+                  state={state}
+                  mutate={mutate}
+                  busy={busy}
+                  sync={sync}
+                  onExit={() => void nav("home")}
+                  onNext={async () => {
+                    unlockSound(state.settings);
+                    if (index === current.questions.length - 1) {
+                      let unlocks: PathUnlock[] = [];
+                      const next = await mutate((s) => {
+                        const before = learningPathProgress(s);
+                        complete(s, current.id);
+                        unlocks = newlyUnlocked(before, s);
+                      });
+                      if (next) {
+                        guestReporter.current?.record(
+                          next,
+                          current.id,
+                          "completed",
+                        );
+                        setJustCompleted(current.id);
+                        if (unlocks.length)
+                          setCelebration({ roundId: current.id, unlocks });
+                        playFeedback(
+                          unlocks.length
+                            ? "unlock"
+                            : next.badges.length > state.badges.length
+                              ? "badge"
+                              : careerProgress(next.experience).level >
+                                  careerProgress(state.experience).level
+                                ? "level"
+                                : "complete",
+                          next.settings,
+                        );
+                        setPage("result");
+                      }
+                    } else {
+                      playFeedback("next", state.settings);
+                      setIndex(index + 1);
+                    }
+                  }}
+                />
+              )}
+              {page === "duels" && (
+                <DuelCenter
+                  state={state}
+                  mutate={mutate}
+                  busy={busy}
+                  onHome={() => void nav("home")}
+                  onAccount={() => void nav("account")}
+                  onRetry={(round) => void retryErrors(round)}
+                  onLeaderboard={() => void nav("leaderboard")}
+                  onPlaying={setDuelPlaying}
+                />
+              )}
+              {page === "result" && current && (
+                <Result
+                  round={current}
+                  state={state}
+                  onHome={() => setPage("home")}
+                  onLeaderboard={() => setPage("leaderboard")}
+                  onRetry={() => void retryErrors(current)}
+                  busy={busy}
+                  celebrate={justCompleted === current.id}
+                />
+              )}
+              {page === "account" && (
+                <>
+                  <CareerProgress
+                    experience={state.experience}
+                    legacyBonus={state.career?.legacyBonus}
+                  />
+                  <div className="profile-tools">
+                    <button
+                      className="secondary"
+                      onClick={() => void nav("settings")}
+                    >
+                      ⚙ Optionen
+                    </button>
+                    <button
+                      className="secondary"
+                      onClick={() => void nav("help")}
+                    >
+                      ? So funktioniert’s
+                    </button>
+                  </div>
+                  {accountPanel?.(state, setState)}
+                </>
+              )}
+              {page === "help" && <Help />}
+              {page === "settings" && (
+                <>
+                  <button
+                    className="text-button"
+                    onClick={() => void nav("account")}
+                  >
+                    ← Zurück zum Profil
+                  </button>
+                  <Settings
+                    storageKey={storageKey}
+                    state={state}
+                    mutate={mutate}
+                    setState={setState}
+                    busy={busy}
+                    offline={offline}
+                    onHome={() => setPage("home")}
+                  />
+                </>
+              )}
+            </Suspense>
+          </PageBoundary>
         </main>
         {page === "result" &&
           celebration &&
