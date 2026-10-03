@@ -1,6 +1,7 @@
+import { validateBackup } from "./backupValidation";
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 import { z } from "zod";
-import { openDatabase, read, restore, validateBackup } from "./storage";
+import { openDatabase, read, restore } from "./storage";
 import type { State } from "./model";
 import { decodeCloudState, encodeCloudState } from "./cloudCodec";
 

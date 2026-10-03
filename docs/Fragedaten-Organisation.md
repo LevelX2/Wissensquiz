@@ -9,6 +9,7 @@ Stand: 03.10.2026, lokal umgesetzt. Die Grundstruktur passt zum aktuellen Bestan
 - `src/packages.ts` führt die Pakete und den gemeinsamen Katalogaufbau. `src/importer.ts` prüft Querverweise, erhält Originalspalten und überschreibt keine bestehenden IDs.
 - Filmwissen und redaktionelle Anzeigen bleiben separat nach stabiler Film-/Fragenidentität zugeordnet. Laufende und historische Runden behalten vollständige Snapshots.
 - `src/catalogCodec.ts` kodiert den lokalen Katalog verlustfrei; `src/localCatalog.ts` übersetzt zwischen Speicherlayout und vollständigem App-Zustand. Die Speichertransaktionen liegen weiterhin in `src/storage.ts`.
+- `src/questionSchema.ts` und `src/backupSchema.ts` definieren die Laufzeitverträge. Die öffentlichen TypeScript-Typen in `src/model.ts` werden daraus abgeleitet; `src/backupValidation.ts` prüft fachliche Zuordnungen und historische Wertungen unabhängig vom Speicherzugriff. `storage.ts` exportiert den bisherigen Validator weiterhin für bestehende Verbraucher. Grenzwerte, Standardwerte und Sicherungsschema 1 bleiben unverändert.
 
 ## Lokales Speicherlayout
 

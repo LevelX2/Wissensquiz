@@ -17,8 +17,8 @@ Worktree: `wissensquiz-strukturverbesserungen/Wissensquiz`, Branch `codex/strukt
 | P3 | Auswertungen nach sichtbarer Seite und Katalogstand berechnen | Auswahl-/Lernpfadtests, relevante Themen-/Auswahlbrowserfälle, Fälligkeit bei Rückkehr | Erledigt |
 | P4 | Styles in geordnete Zuständigkeitsbereiche aufteilen | Gleichbleibende CSS-Reihenfolge, Build, mobile Ansichten und Barrierearmut | Erledigt |
 | P5 | Selten benötigte Ansichten getrennt laden | Buildgrößen, Ladefehlerbehandlung, vorbereiteter Offlinezugriff auf die Ansichten | Erledigt |
-| P6 | Gemeinsame Sicherungsschemas und getrennte Validierung | Typprüfung, Sicherungs-/Katalog-/Cloudtests, Altstände und SQL-Projektionen erhalten | Aktiv |
-| P7 | Rückfallkopien exportieren, Kontodienst erneut laden, letzte Onlinebestätigung anzeigen | Konto-/Speichertests, isolierte Browserprüfung, keine stillen Übernahmen oder Löschungen | Offen |
+| P6 | Gemeinsame Sicherungsschemas und getrennte Validierung | Typprüfung, Sicherungs-/Katalog-/Cloudtests, Altstände und SQL-Projektionen erhalten | Erledigt |
+| P7 | Rückfallkopien exportieren, Kontodienst erneut laden, letzte Onlinebestätigung anzeigen | Konto-/Speichertests, isolierte Browserprüfung, keine stillen Übernahmen oder Löschungen | Aktiv |
 | P8 | Aktuelle Statusseiten verdichten und Freigabe vorbereiten | Quellen-/Linkprüfung, betroffene Schlusschecks, saubere Paketcommits und Abnahmebericht | Offen |
 
 ## Prüfregeln
@@ -38,3 +38,5 @@ P3: Startvorschau, Sammlungsstatistik und Themenkarten werden nur auf ihrer jewe
 P4: 15 Stylebereiche mit dokumentierter Importreihenfolge. Die zusammengefügten Quelldateien sind bytegleich zum bisherigen Stylesheet; der Produktions-Build erzeugt denselben CSS-Hash und dieselbe Größe. Sieben Browserfälle für mobile Runden in Chromium/WebKit, Navigation, Themen und Tastatur/Barrierearmut erfolgreich. Keine gestalterische Änderung.
 
 P5: Hilfe, Optionen, Duelle, Ranglisten, Themen und Sammlung werden getrennt geladen. Ein Ladezustand und eine Fehlergrenze mit erneutem App-Laden halten Fehler verständlich; die Navigation bleibt erreichbar. Das vorhandene Offline-Buildskript nimmt alle neuen Dateien auf. Fünf Browserfälle erfolgreich: zuvor unbesuchte Nebenansichten offline, absichtlicher Dateiladefehler mit erfolgreicher Wiederherstellung, Navigation, Update während einer Runde und Browserneustart. Zwischenstand: Start-JavaScript 1.756,23 kB / gzip 403,55 kB statt 1.820,58 / 422,65 unmittelbar vor P5; 53 Offline-Dateien statt 46. Statische Zuordnungsdaten bleiben Teil der Startdatei, weshalb der Größenhinweis weiter besteht.
+
+P6: Gemeinsame Laufzeitschemas liefern die öffentlichen Typen; fachliche Sicherungsvalidierung und Browserpersistenz sind getrennt. Die bisherigen Validatorimporte bleiben kompatibel. Der Vergleich der Schemaausdrücke bestätigt unveränderte Grenzen und Standardwerte; der Validierungskörper ist bis auf den entfallenen unsicheren Type-Cast identisch. Typprüfung, 77 direkte Sicherungs-/Cloud-/Katalog-/Datenbanktests, Build und zwei Import-/Wiederherstellungsbrowserfälle erfolgreich. Keine Formatänderung und keine SQL-Migration.

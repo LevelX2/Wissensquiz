@@ -1,5 +1,5 @@
 import type { State } from "./model";
-import { validateBackup } from "./storage";
+import { validateBackup } from "./backupValidation";
 import { CloudConflict, CloudSaveError, type SyncReceipt } from "./accounts";
 import { requestWithin, RequestTimeout } from "./request";
 

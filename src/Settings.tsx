@@ -1,7 +1,8 @@
+import { validateBackup } from "./backupValidation";
 import { useState } from "react";
 import { importCsv } from "./importer";
 import { emptyState, type ImportReport, type State } from "./model";
-import { download, restore as restoreStored, validateBackup } from "./storage";
+import { download, restore as restoreStored } from "./storage";
 import { useOffline } from "./offline";
 import {
   playFeedback,
