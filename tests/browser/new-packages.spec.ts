@@ -32,7 +32,7 @@ for (const both of [false, true]) {
       .getByRole("button", { name: "Zum Freien Spiel wechseln" })
       .click();
     const imgs = page
-      .getByRole("group", { name: "Zusätzliche Kategorien" })
+      .getByRole("group", { name: "Filmauswahl" })
       .locator("img");
     for (const img of await imgs.all()) {
       await img.scrollIntoViewIfNeeded();
@@ -61,7 +61,9 @@ for (const both of [false, true]) {
       saved.questions.filter((q: any) => q.tags.includes("Classics")),
     ).toHaveLength(1209);
     const round = saved.rounds.at(-1)!;
-    expect(round.topic).toBe(both ? "Classics + Arthouse" : "Arthouse");
+    expect(round.topic).toBe(
+      both ? "Filmfragen + Classics + Arthouse" : "Filmfragen + Arthouse",
+    );
     expect(
       round.questions.every(
         (q: any) =>

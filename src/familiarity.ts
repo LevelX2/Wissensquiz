@@ -22,7 +22,9 @@ export const familiarityLabel = (level: number | undefined) =>
     ? `${level} · ${familiarityNames[level as Familiarity]}`
     : "Noch nicht eingeordnet";
 export const roundFamiliarities = (r: Round) =>
-  r.filters?.familiarities?.map(familiarityLabel).join(" + ") ??
+  (r.filters?.sources && !r.filters.sources.includes("film")
+    ? "Keine Filmfragen"
+    : r.filters?.familiarities?.map(familiarityLabel).join(" + ")) ??
   "Frühere Auswahl";
 
 export function selectionRule(

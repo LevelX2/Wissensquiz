@@ -2,7 +2,11 @@
 
 ## Aktueller Stand
 
-03.10.2026: Die bereits veröffentlichte Sites-Version 38 mit Schauspielerpaket, öffentlicher Bestenliste/Gastaktivität, Kategorieillustrationen und kompaktem lokalen Katalog bildet die Basis dieser Veröffentlichung. Antwortoptimierung, Hintergrundsicherung, Solo-Lösungswahl im Profil und fünfte Duellkachel werden damit zusammengeführt; bestehende Zeitregeln und alle 5.677 Fragen erhalten. Veröffentlichung läuft; abschließender Nachweis folgt unter [Sites-Betrieb](../docs/Sites-Betrieb.md).
+03.10.2026: Antwortoptimierung, Kontosicherung im Hintergrund, Solo-Lösungswahl unter Profil → Optionen und Duell als fünfte Spielkachel sind mit der bereits veröffentlichten Sites-Version 39 zusammengeführt. Schauspieler, öffentliche Bestenliste/Gastaktivität, komprimierter Katalog und additive Fragenbereiche erhalten. Bisherige Zeitregeln bleiben auf Nutzerwunsch bestehen; alle 5.677 Fragen/5.147 Ziele und Rohquellen unverändert. 229 Tests, Produktions-Build und 19 abschließende Browserfälle erfolgreich. Veröffentlichung vorbereitet; Nachweis unter [Sites-Betrieb](../docs/Sites-Betrieb.md), [Prüfbericht](../docs/Pruefbericht.md).
+
+## Bisherige Entwicklungs- und Veröffentlichungsstände
+
+03.10.2026 **Additive Fragenbereiche lokal geprüft**: Filmfragen, Preisträger und Schauspieler gemeinsam oder einzeln auswählbar; Filmgenre-/Bekanntheits-/Classics-/Arthousefilter gelten nur für Filmfragen. 214 Tests, Produktions-Build und 24 gezielte Browserfälle erfolgreich. Zur Veröffentlichung vorbereitet. [Auswahlvertrag](../docs/Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
 
 03.10.2026 **Sites-Version 37 veröffentlicht**, nativer Status `succeeded`: Schauspieler als eigene Personenkategorie mit 100 Personen und 800 individuellen Fragen, vier Stufen, Quellen und Vertiefungen. Gesamt 5.677 Fragen/5.147 Ziele. 193 Logik-/Datenbanktests, Produktions-Build und 111 unterschiedliche Browserfälle erfolgreich. Geprüfter isolierter Release auf `codex/schauspieler-release`; laufende Änderungen im Hauptarbeitsordner bleiben lokal. Duellkatalog unverändert, keine SQL-Migration oder Main-Integration. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md).
 

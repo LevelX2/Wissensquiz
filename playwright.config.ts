@@ -31,6 +31,7 @@ export default defineConfig({
         "question-organization.spec.ts",
         "duel-performance.spec.ts",
         "response-performance.spec.ts",
+        "question-sources.spec.ts",
       ],
       use: { ...devices["iPhone 13"] },
     },

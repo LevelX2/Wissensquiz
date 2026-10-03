@@ -1,13 +1,14 @@
 import { z } from "zod";
 import { emptyState, questionSchema, type State, type Question } from "./model";
 import { rebuild } from "./engine";
-import { matchesFilters } from "./filters";
+import { matchesFilters, usesFilmFilters } from "./filters";
 import { matchesTopic } from "./categories";
 import { questionSnapshotMatches } from "./filmFacts";
 import { catalogKey, decodeLocalState, encodeLocalState } from "./localCatalog";
 import { encodeQuestionCatalog } from "./catalogCodec";
 const time = z.number().finite().nonnegative();
 const id = z.string().min(1).max(200);
+const sources = z.array(z.enum(["film", "awards", "actors"])).max(3);
 const familiarityList = z
   .array(z.union([z.literal(1), z.literal(2), z.literal(3), z.literal(4)]))
   .max(4);
@@ -29,13 +30,18 @@ const roundSchema = z.object({
   difficulty: id,
   filters: z
     .object({
-      genres: z.array(id).min(1).max(20000),
+      genres: z.array(id).max(20000),
+      sources: sources.optional(),
       familiarities: familiarityList.optional(),
       difficulties: z
         .array(z.enum(["leicht", "mittel", "schwer", "experte"]))
         .min(1)
         .max(4),
     })
+    .refine(
+      (f) => f.genres.length > 0 || f.sources?.some((s) => s !== "film"),
+      "Eine Runde braucht Filmgenres oder einen eigenständigen Fragenbereich.",
+    )
     .optional(),
   ruleVersion: id,
   unlocks: z
@@ -138,6 +144,7 @@ const stateSchema = z.object({
           .array(z.enum(["leicht", "mittel", "schwer", "experte"]))
           .max(4),
         familiarities: familiarityList.optional(),
+        sources: sources.optional(),
       })
       .optional(),
   }),
@@ -200,7 +207,7 @@ export function validateBackup(value: unknown): State {
           !matchesTopic(q, r.topic) ||
           (r.familiaritySnapshot &&
             r.filters.familiarities &&
-            !q.metadata.person_id &&
+            usesFilmFilters(q, r.filters) &&
             !(r.familiaritySnapshot[q.id] === 0
               ? r.filters.familiarities.length === 4
               : r.filters.familiarities.some(

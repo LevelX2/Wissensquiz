@@ -287,7 +287,9 @@ export function startRound(
     ruleVersion:
       selectionRule(
         questions,
-        options.filters?.familiarities ?? familiarities,
+        options.filters?.sources && !options.filters.sources.includes("film")
+          ? []
+          : (options.filters?.familiarities ?? familiarities),
       ) + (state.settings.solutionDisplay === "round" ? ".L" : ""),
     before: structuredClone(
       Object.fromEntries(

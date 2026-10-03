@@ -4,9 +4,9 @@ const introductions: Record<Mode, string> = {
   entdecken:
     "Die Filmreise wählt bevorzugt neue Fragen aus Deinen freigeschalteten Stufen. Mit sicheren richtigen Antworten schaltest Du je Genre schwierigere Fragen und weniger bekannte Filme frei.",
   ueben:
-    "Du wählst Genres, Schwierigkeit und Bekanntheit der Filme frei aus. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
+    "Du kombinierst Filmfragen, Schauspieler und Preisträger zu einem gemeinsamen Pool. Daraus bekommst Du zufällige Fragen ohne Zeitdruck – auch bereits beantwortete können dabei sein.",
   rekord:
-    "Du wählst Genres, Schwierigkeit und Bekanntheit der Filme frei aus. Pro Frage hast Du 30 Sekunden; richtige und schnelle Antworten bringen Punkte für Deinen Rekord.",
+    "Du kombinierst Fragenbereiche und Schwierigkeitsstufen. Genres und Filmgruppen begrenzen nur Filmfragen. Pro Frage hast Du 30 Sekunden; richtige und schnelle Antworten bringen Punkte für Deinen Rekord.",
   fehler:
     "Hier wiederholst Du gezielt falsch beantwortete Fragen und Zeitabläufe – ohne Zeitdruck. Sobald Du ein Wissensziel sicher richtig beantwortest, fällt es aus dem Fehlertraining heraus.",
 };
@@ -53,12 +53,12 @@ export function RoundGuide({ mode }: { mode: Mode }) {
             </p>
           )}
           <p>
-            <strong>Gemeinsamer Fortschritt:</strong> Richtige Antworten zählen
-            in allen Modi für Deine Filmreise, sobald Du die Runde abschließt.
-            Als geraten markierte Treffer zählen dafür nicht. Mehrere Fragen zum
-            selben Filmdetail teilen sich ein Wissensziel: Für eine
-            Freischaltung zählt es nur einmal, und pro Runde kommt höchstens
-            eine dieser Fragen vor.
+            <strong>Gemeinsamer Fortschritt:</strong> Richtige Antworten auf
+            Filmfragen zählen in allen Modi für Deine Filmreise, sobald Du die
+            Runde abschließt. Als geraten markierte Treffer zählen dafür nicht.
+            Mehrere Fragen zum selben Filmdetail teilen sich ein Wissensziel:
+            Für eine Freischaltung zählt es nur einmal, und pro Runde kommt
+            höchstens eine dieser Fragen vor.
           </p>
           {mode === "rekord" && (
             <p>

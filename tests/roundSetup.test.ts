@@ -14,6 +14,7 @@ it("liest alte Sicherungen ohne Rundenauswahl und erhält historische Favoriten"
     genres: null,
     categories: [],
     difficulties: [...difficulties],
+    sources: ["film"],
   });
   expect(state).toEqual(before);
   expect(validateBackup(state).favorites).toEqual(["Alien"]);
@@ -30,7 +31,7 @@ it("erhält leere Auswahl, Modus, Kategorien und manuelle Stufen durch die Siche
   };
   expect(
     readRoundSetup(validateBackup(JSON.parse(JSON.stringify(state)))),
-  ).toEqual(state.settings.roundSetup);
+  ).toEqual({ ...state.settings.roundSetup, sources: ["film"] });
   state.settings.roundSetup.genres = ["Nicht mehr importiert"];
   expect(readRoundSetup(state).genres).toBeNull();
   state.settings.roundSetup.difficulties = ["schwer"];

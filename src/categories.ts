@@ -1,7 +1,7 @@
 import classics from "../KI-Wissen-Wissensquiz/01 Rohquellen/Classics_Zuordnungen_Bestand.json" with { type: "json" };
 import arthouse from "../KI-Wissen-Wissensquiz/01 Rohquellen/Arthouse_Zuordnungen_Bestand.json" with { type: "json" };
-import type { Question } from "./model";
-import { normalizeGenre } from "./filters";
+import type { Question, QuestionSource } from "./model";
+import { normalizeGenre, questionSourceOf, sourceLabels } from "./filters";
 
 export const CLASSICS = "Classics";
 export const ARTHOUSE = "Arthouse";
@@ -9,6 +9,25 @@ export const AWARD_WINNERS = "Preisträger";
 export const ACTORS = "Schauspieler";
 export const categories = [CLASSICS, ARTHOUSE, AWARD_WINNERS, ACTORS] as const;
 export type Category = (typeof categories)[number];
+export const filmCategories = [CLASSICS, ARTHOUSE] as const;
+export function selectionTopic(
+  selected: readonly Category[],
+  sources: readonly QuestionSource[],
+) {
+  return (
+    [
+      ...(sources.includes("film")
+        ? [
+            sourceLabels.film,
+            ...filmCategories.filter((c) => selected.includes(c)),
+          ]
+        : []),
+      ...(["awards", "actors"] as const)
+        .filter((s) => sources.includes(s))
+        .map((s) => sourceLabels[s]),
+    ].join(" + ") || "Alle Themen"
+  );
+}
 const additions = {
   [CLASSICS]: classics,
   [ARTHOUSE]: arthouse,
@@ -100,6 +119,21 @@ export const categoryTopic = (
 export function matchesTopic(q: Question, topic: string) {
   const [prefix, ...rest] = topic.split(": ");
   const selected = prefix.split(" + ");
+  if (
+    selected[0] === sourceLabels.film &&
+    selected.every(
+      (c) => c === sourceLabels.film || categories.includes(c as Category),
+    )
+  ) {
+    const source = questionSourceOf(q);
+    const curated = filmCategories.filter((c) => selected.includes(c));
+    return (
+      (source === "film"
+        ? matchesCategories(q, curated)
+        : selected.includes(sourceLabels[source])) &&
+      (!rest.length || q.topic === rest.join(": "))
+    );
+  }
   if (
     selected.length &&
     selected.every((c) => categories.includes(c as Category))
