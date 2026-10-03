@@ -16,6 +16,8 @@ Die Fragen sind einzeln formuliert. Neben bekannten Figuren und Filmpartnerschaf
 
 ## Redaktionelle Überarbeitung vom 03.10.2026
 
+Als Sites-Version 41 erfolgreich veröffentlicht, einschließlich Schauspieler/Preisträger in der Filmreise und der Filmdaten bei konkretem Filmbezug. [Veröffentlichungsnachweis](Sites-Betrieb.md).
+
 Alle 800 Vertiefungen wurden um konkrete Hintergründe ergänzt (26–53 Wörter, Median 35 statt bisher 13). Vorgegebene Personennamen stehen vollständig im Fragetext, einschließlich Fragen nach einer gespielten Rolle oder einem Film. Die ursprünglichen Dateien bleiben erhalten; die aktuelle Anzeige verwendet eine getrennte Redaktion, die auch frühere Rundensnapshots unterstützt. Die Filmreferenzen erzeugen keine neuen Fragen und ändern weder Genre noch Wissensziel. [Anzeige- und Fortschrittsvertrag](Filmreise-Personen-und-Vertiefungen.md).
 
 - [Aktuelle überarbeitete Lesefassung mit allen 800 Fragen](Schauspieler-Fragenpaket/Schauspieler_800_Fragen_Lesefassung_2026-10-03.md)

@@ -2,7 +2,7 @@
 
 ## Aktueller Stand
 
-03.10.2026: Filmreise mit allen drei additiven Fragenbereichen umgesetzt; Schauspieler und Preisträger entwickeln sich separat bis Experte mit je 20 sicheren Zielen der vorherigen Stufe. 727 vorgegebene Personennamen vollständig im Fragetext, 73 Erkennungsfragen weiterhin verdeckt. Alle 800 Vertiefungen individuell ergänzt; 549 Fragen mit 493 Filmverweisen, 382 zusätzliche Eckdaten. Rohquellen, IDs, Lernstände und historische Rundensnapshots erhalten. 234 Tests, Produktions-Build und 31 abschließende Browserfälle erfolgreich; Veröffentlichung läuft. [Fachvertrag](../docs/Filmreise-Personen-und-Vertiefungen.md), [Prüfbericht](../docs/Pruefbericht.md).
+03.10.2026: Filmreise mit allen drei additiven Fragenbereichen umgesetzt; Schauspieler und Preisträger entwickeln sich separat bis Experte mit je 20 sicheren Zielen der vorherigen Stufe. 727 vorgegebene Personennamen vollständig im Fragetext, 73 Erkennungsfragen weiterhin verdeckt. Alle 800 Vertiefungen individuell ergänzt; 549 Fragen mit 493 Filmverweisen, 382 zusätzliche Eckdaten. Rohquellen, IDs, Lernstände und historische Rundensnapshots erhalten. Als Sites-Version 41 erfolgreich veröffentlicht, nativer Status succeeded. 234 Tests, Produktions-Build und 31 abschließende Browserfälle erfolgreich; mit fünf weiteren Film-Eckdatenfällen 36 unterschiedliche erfolgreiche Fälle. [Veröffentlichungsnachweis](../docs/Sites-Betrieb.md). [Fachvertrag](../docs/Filmreise-Personen-und-Vertiefungen.md), [Prüfbericht](../docs/Pruefbericht.md).
 
 ## Bisherige Entwicklungs- und Veröffentlichungsstände
 

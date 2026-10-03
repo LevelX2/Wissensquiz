@@ -1,6 +1,6 @@
 # Filmreise mit Schauspielern und Preisträgern
 
-Stand 03.10.2026. Die drei Fragenbereiche Filmfragen, Schauspieler und Preisträger bilden auch in der Filmreise einen gemeinsamen Auswahlpool. Jeder Bereich kann allein oder zusammen mit den anderen gespielt werden. Der Modus wechselt beim Zuschalten nicht mehr automatisch. Filmgenres, Classics/Arthouse und Bekanntheit gelten für Filmfragen; Personen- und Preisfragen erhalten dadurch keine künstliche Genrebindung.
+Stand 03.10.2026, als Sites-Version 41 erfolgreich veröffentlicht. Die drei Fragenbereiche Filmfragen, Schauspieler und Preisträger bilden auch in der Filmreise einen gemeinsamen Auswahlpool. Jeder Bereich kann allein oder zusammen mit den anderen gespielt werden. Der Modus wechselt beim Zuschalten nicht mehr automatisch. Filmgenres, Classics/Arthouse und Bekanntheit gelten für Filmfragen; Personen- und Preisfragen erhalten dadurch keine künstliche Genrebindung.
 
 ## Fortschritt
 
