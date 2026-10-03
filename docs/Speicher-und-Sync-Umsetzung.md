@@ -1,6 +1,6 @@
 # Lokale Speicher- und Synchronisierungsoptimierung
 
-Stand: 03.10.2026. Auf Nutzerauftrag tatsächliche Umsetzung, aufbauend auf den acht Strukturpaketen. Branch `codex/speicher-sync-optimierung`, Ausgangspunkt `bac3c40`. Die bisherige Freigabe wartet bis zum Abschluss dieses zusätzlichen Auftrags. Keine Main-Integration, Remote-Aktion, Produktionsmigration oder Veröffentlichung.
+Stand: 03.10.2026. Auf Nutzerauftrag tatsächliche Umsetzung, aufbauend auf den acht Strukturpaketen. Branch `codex/speicher-sync-optimierung`, Ausgangspunkt `bac3c40`. Der lokale Gesamtstand bis einschließlich `60ab29f` wurde am 03.10.2026 vom Nutzer freigegeben. Keine Main-Integration, Remote-Aktion, Produktionsmigration oder Veröffentlichung.
 
 ## Fachliche Pakete
 
@@ -39,6 +39,6 @@ Der abschließende Unit-Lauf besteht mit **255 Tests in 42 Dateien**, `npm test 
 
 Der tatsächliche native Erstabruf nach dem Lastlauf wurde zusätzlich über den realen Client-Downloader geprüft: 3.384.906 Bytes in acht Leseanfragen, unveränderter Wiederabruf 111 Bytes in einer Anfrage und gezielter Abschlussabruf 5.372 Bytes in drei Anfragen. Vollständige Rekonstruktion und Revisionsabschluss erfolgreich; HTTP/Auth und Transportkompression nicht mitgezählt.
 
-126 Browserfälle erfolgreich abgedeckt: vollständiger Lauf mit 125 bestandenen Fällen, einem bekannten Auslassfall und einem WebKit-Testuhrfehler; nach gezielter Korrektur alle sechs betroffenen WebKit-Fälle bestanden. Kein Produktverhalten dafür geändert. Finale Diff-Prüfung und relative Wissenslinks ohne Befund. Freigabe des lokalen Gesamtstands ausstehend.
+126 Browserfälle erfolgreich abgedeckt: vollständiger Lauf mit 125 bestandenen Fällen, einem bekannten Auslassfall und einem WebKit-Testuhrfehler; nach gezielter Korrektur alle sechs betroffenen WebKit-Fälle bestanden. Kein Produktverhalten dafür geändert. Finale Diff-Prüfung und relative Wissenslinks ohne Befund. Freigabe des lokalen Gesamtstands am 03.10.2026 erteilt; Integration und Produktionsrollout benötigen eigene ausdrückliche Aufträge.
 
 [Konkrete Abnahme und verbleibender Rollout](Speicher-und-Sync-Abnahme.md), [Betreiberablauf und Rückfall](Speicher-und-Sync-Migration.md), [Messdaten einschließlich Grenzen](Speicher-und-Sync-Messung.json). Keine Zusage der Produktionskapazität.

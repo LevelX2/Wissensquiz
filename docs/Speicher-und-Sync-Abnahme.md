@@ -1,6 +1,6 @@
 # Abnahme der lokalen Speicher- und Sync-Optimierung
 
-Stand: 03.10.2026. Vier aufeinander aufbauende Pakete im eigenen Worktree auf `codex/speicher-sync-optimierung`, auf den zuvor umgesetzten Strukturverbesserungen. Lokal fertig vorbereitet; Freigabe ausstehend. Keine Main-Integration, kein Push, keine PR, keine Produktionsmigration oder Veröffentlichung. Hauptarbeitsordner und fremde Änderungen erhalten.
+Stand: 03.10.2026. Vier aufeinander aufbauende Pakete im eigenen Worktree auf `codex/speicher-sync-optimierung`, auf den zuvor umgesetzten Strukturverbesserungen. Der Nutzer hat den lokalen Gesamtstand bis einschließlich Implementierungscommit `60ab29f` am 03.10.2026 ausdrücklich mit „Lokalen Stand freigeben“ abgenommen. Die Freigabe umfasst die Strukturpakete und die vier anschließenden Speicher-/Sync-Pakete. Keine Main-Integration, kein Push, keine PR, keine Produktionsmigration oder Veröffentlichung. Hauptarbeitsordner und fremde Änderungen erhalten.
 
 ## Ergebnis
 

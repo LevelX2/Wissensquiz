@@ -1,6 +1,6 @@
 # Abnahme der Strukturverbesserungen
 
-Stand: 03.10.2026. Umsetzung auf Nutzerauftrag in einem eigenen Worktree, sequenziell und mit lokalem Commit je Paket. **Freigabe für die weitere Übernahme ausstehend.** Der Worktree ist noch nicht nach `main` integriert oder veröffentlicht; keine Remote-Aktion.
+Stand: 03.10.2026. Umsetzung auf Nutzerauftrag in einem eigenen Worktree, sequenziell und mit lokalem Commit je Paket. **Am 03.10.2026 als Teil des lokalen Gesamtstands bis einschließlich `60ab29f` auf `codex/speicher-sync-optimierung` freigegeben.** Der Worktree ist noch nicht nach `main` integriert oder veröffentlicht; keine Remote-Aktion.
 
 ## Prüfbarer Änderungsumfang
 
@@ -46,8 +46,8 @@ README, Projektstart und Qualitätsseite sind aktuelle Snapshots. Ihre vorherige
 
 Testgenerierte Importberichte mit ausschließlich geändertem Zeitstempel werden auf ihren vorherigen Stand zurückgeführt; fachliche Berichte werden dadurch nicht umgeschrieben. Index und chronologisches Log verweisen auf Umsetzung und Abnahme.
 
-## Grenzen und nächste Freigabe
+## Grenzen und weiterer Auftrag
 
 Reale Konten-/Geräteabnahme, Mobilnetz, physische Hörprüfung und PWA-Installation am Smartphone bleiben offen. Der bekannte Windows-WebKit-Offline-Neuladefall wird getrennt behandelt; Chromium weist den echten Offline-Neustart nach. Zeitangaben der Onlinebestätigung verwenden die Geräteuhr und ersetzen den aktuellen Sicherungsstatus nicht. Rückfallkopien bleiben lokal erhalten, können Speicher belegen und werden nicht automatisch gelöscht.
 
-Die nur für weiteres Wachstum vorgeschlagenen größeren Speicherpfade und Statistikprojektionen bleiben zurückgestellt; dafür sind eigene Messungen und ein eigener Vertrag nötig. Ein Freigabewunsch sollte konkret benennen, ob der geprüfte Stand lokal übernommen werden soll. Push, GitHub-PR und Sites-Veröffentlichung brauchen weiterhin einen ausdrücklichen Auftrag. Bis dahin bleibt der Worktree für die Prüfung erhalten.
+Die zunächst zurückgestellten größeren Speicherpfade und Statistikprojektionen wurden anschließend auf ergänzenden Nutzerauftrag umgesetzt und gemessen; [Abnahme des lokalen Gesamtstands](Speicher-und-Sync-Abnahme.md). Dieser Gesamtstand ist lokal freigegeben. Main-Integration, Push, GitHub-PR, Produktionsmigration und Sites-Veröffentlichung brauchen weiterhin einen ausdrücklichen Auftrag. Der Worktree bleibt erhalten.
