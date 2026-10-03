@@ -10,7 +10,8 @@
     "test": "vitest run",
     "test:browser": "playwright test",
     "prepare:duels": "node scripts/prepare-duel-catalog.mjs",
-    "check:questions": "node scripts/check-question-organization.mjs"
+    "check:questions": "node scripts/check-question-organization.mjs",
+    "prepare:sync-catalog": "node scripts/prepare-sync-catalog.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.117.2",

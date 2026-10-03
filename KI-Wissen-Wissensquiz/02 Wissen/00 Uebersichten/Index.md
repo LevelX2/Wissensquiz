@@ -9,6 +9,9 @@
 
 ## Spielbare Testversion
 
+- [Speicher- und Sync-Umsetzung: lokale Paketfolge, Migration und Prüfnachweise](../../../docs/Speicher-und-Sync-Umsetzung.md)
+- [Speicher- und Sync-Analyse: Ausgangsmessungen und vollständiger Zielvertrag](../../../docs/Speicher-und-Sync-Optimierung.md)
+- [Infrastruktur und Kapazität: bisherige Belegung und Grenzen](../../../docs/Infrastruktur-und-Kapazitaet.md)
 - [Strukturverbesserungen: Pakete, Grenzen und Freigabestatus](../../../docs/Strukturverbesserungen-Prozess.md)
 - [Abnahmebericht der umgesetzten Strukturverbesserungen](../../../docs/Strukturverbesserungen-Abnahme.md)
 - [Strukturprüfung vom 03.10.2026: Modulgrenzen, Kontosicherung und priorisierte Verbesserungen](../../../docs/Strukturpruefung-2026-10-03.md)
