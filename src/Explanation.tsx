@@ -3,6 +3,7 @@ import { filmDetails } from "./filmDetails";
 import { directorExplanation } from "./filmFacts";
 import { actorPresentation } from "./actorEditorial";
 import { FilmDataPanel } from "./FilmDataPanel";
+import { ActorPortrait } from "./ActorPortrait";
 
 export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
@@ -19,6 +20,7 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
           <strong>{q.metadata.person_name}</strong>
         </p>
       )}
+      <ActorPortrait q={q} />
       <p>{q.explanation}</p>
       {!event.correct && selected?.feedback && (
         <p className="specific-feedback">

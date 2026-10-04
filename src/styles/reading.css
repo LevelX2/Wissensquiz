@@ -161,6 +161,37 @@
   font-size: 14px;
   margin: 8px 0;
 }
+.actor-portrait {
+  display: grid;
+  justify-items: start;
+  gap: 4px;
+  margin: 12px 0 16px;
+}
+.actor-portrait img {
+  width: auto;
+  height: auto;
+  max-width: min(100%, 160px);
+  max-height: 190px;
+  border-radius: 10px;
+}
+.actor-portrait figcaption {
+  min-width: 0;
+  max-width: 100%;
+  color: var(--muted);
+  overflow-wrap: anywhere;
+}
+.actor-portrait summary {
+  display: list-item;
+  padding-block: 10px;
+  cursor: pointer;
+}
+.explanation .actor-portrait p {
+  font-size: 12px;
+  margin: 6px 0;
+}
+.portrait-title {
+  overflow-wrap: anywhere;
+}
 .memory-anchor {
   margin: 12px 0;
   padding: 10px 12px;

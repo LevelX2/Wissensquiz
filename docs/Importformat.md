@@ -70,7 +70,7 @@ Die zusätzliche UI-Auswahl „Keine Ahnung“ gehört nicht zu `answer_a`–`an
 - JSON-Spielstandsicherungen dürfen seit der lokalen Korrektur vom 03.10.2026 bis zu 64 MiB groß sein, passend zur entpackten Online-Sicherung: der aktuelle vollständige Fragenbestand überschreitet bereits die frühere gemeinsame 20-MiB-Grenze. Inhaltsvalidierung und ausdrückliche Wiederherstellungsbestätigung bleiben erforderlich. Der Parser arbeitet synchron; sehr große Bibliotheken benötigen künftig einen Worker.
 - Kein Auto-Update bestehender Fragen: IDs werden weder überschrieben noch still dupliziert. Runden enthalten zusätzlich unveränderliche Inhaltssnapshots.
 
-Es wurden keine Filmplakate, externen Bilder oder Audiodateien eingebunden. Die Oberfläche verwendet eigene geometrische Grafiken und Systemschriften.
+Seit 04.10.2026 ergänzt ein getrennter statischer Bildkatalog 25 Schauspielerporträts in der Antwortauflösung. Die vorhandenen Personenfelder bestimmen die Zuordnung; CSV-Felder, Frageobjekte und Importschema bleiben gleich. Bilddateien werden mit der App ausgeliefert und offline gespeichert; Urheber- und Lizenzangaben sind bei jedem Foto erreichbar. [Bildvertrag und Quellen](Schauspielerportraets.md). Filmplakate, Filmstills und Audiodateien sind weiterhin nicht eingebunden. Die Oberfläche verwendet außerdem eigene Grafiken und Systemschriften.
 
 ## Redaktionelle Vertiefung
 

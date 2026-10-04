@@ -1,5 +1,7 @@
 # Lern-, Runden- und Speichervertrag
 
+04.10.2026 – 25 ausgewählte Schauspielerporträts ergänzen die Antwortauflösung als Auflockerung: nach jeder Antwort einschließlich Fehler und „Keine Ahnung“, vor der Erklärung und auch im unmittelbaren Rundenrückblick. Vor der Antwort bleiben die Fotos verborgen. Lernregeln und Bewertung unverändert; Bilder samt erreichbarem Bildnachweis offline verfügbar. [Anzeige, Zuordnung und Bildrechte](Schauspielerportraets.md).
+
 03.10.2026 – Version 47: Auf ausdrücklichen Auftrag keine Erhaltung früherer Rekord-Sonderwertungen. Nur aktuelle Königsklasse-/Einzelgenre-Läufe nach festem Vertrag zählen. Alte Filterkombinationen, `.L`-Zusatzwertungen und Fünferrunden entfallen; Antwortfakten, Lernstand und Karriere-XP bleiben davon getrennt erhalten. Frühere Aussagen zur Erhaltung historischer Rekordkategorien sind abgelöst. [Vertrag](Rekordmodi-und-Zeitranglisten.md).
 
 ## Aktuelle Auswahl und Ergebnisarchive – Version 46
