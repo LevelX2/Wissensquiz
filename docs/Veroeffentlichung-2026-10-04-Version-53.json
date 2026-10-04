@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "siteVersion": 53,
+  "status": "succeeded",
+  "siteProjectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "siteVersionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_67b8e424f43c81918768b75be4aaf04a",
+  "deploymentId": "appgdep_6ac26f298a0c8191b0f120762884c590",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-10-04T15:22:39.675088+00:00",
+  "publishedAtEuropeBerlin": "04.10.2026 17:22:39 Europe/Berlin",
+  "sourceCommit": "29925c285bcccf38da7be4622ab1663d10fc8943",
+  "access": {
+    "mode": "public",
+    "revision": 2,
+    "preserved": true
+  },
+  "archive": {
+    "format": "tar",
+    "sha256": "sha256:0f5a73fff159933f21122b204de142e7c19e621ef0b63405971265c41a6c7cc4",
+    "bytes": 42168320,
+    "files": 64
+  },
+  "checks": {
+    "logic": {
+      "tests": 341,
+      "files": 57,
+      "reusedMatchingSource": true
+    },
+    "typescript": true,
+    "productionBuild": true,
+    "browser": {
+      "newlyRun": 2,
+      "engines": [
+        "Chromium",
+        "WebKit mobile"
+      ],
+      "releaseTime": true,
+      "reload": true,
+      "offlineContinuation": true,
+      "syntheticAccounts": true,
+      "priorLearningStageCasesReused": 8
+    },
+    "buildFilesUnchangedAfterPackaging": true
+  },
+  "catalog": {
+    "questions": 6277,
+    "knowledgeGoals": 5734,
+    "variants": 543,
+    "changedRawQuestions": 762,
+    "editoriallyRevisedUniqueQuestions": 1099,
+    "manifestHash": "00e7cce46eb267453b6f62321ddf7d4a17344b7c586a7630f2b58798c81b060e",
+    "releaseHash": "fb8615bdb752106dbaf9d8979854a106586cfde4959043024f289bc439c5a759",
+    "publishedParts": 275,
+    "verifiedDigests": 6277,
+    "verifiedScoreFields": 6277,
+    "remainingParts": 0
+  },
+  "duel": {
+    "total": 4827,
+    "expected": 711,
+    "matching": 711,
+    "unchanged_md5": "ca20658ecb4589866b2a1d1a4cf23fd3",
+    "untouchedQuestions": 4116,
+    "questionIdsAndKnowledgeGoalsPreserved": true,
+    "beforeEncodingCorrection": {
+      "id": "PRZ-202610-P01-L-031",
+      "field": "metadata.explanation_short",
+      "oldCorruptWord": "f��r",
+      "fixedWord": "für",
+      "otherBeforeFieldsMatchedPublishedVersion52": true
+    }
+  },
+  "releaseMetadata": {
+    "persisted": true,
+    "separateReadVerified": true,
+    "anonymousRpcVerified": true,
+    "anonymousDirectTableRead": false,
+    "authenticatedDirectTableRead": false
+  },
+  "limits": [
+    "Kein vollständiger neuer Faktencheck sämtlicher Altfragen.",
+    "Keine zusätzliche Live-Browser- oder physische Geräteabnahme.",
+    "Das 320-Fragen-Ergänzungspaket liegt als Redaktion auf Main und bleibt außerhalb des spielbaren App-Katalogs.",
+    "Parallel offene Änderungen sind erhalten und nicht Teil dieses Quellstands.",
+    "Kein GitHub-Push."
+  ],
+  "build": {
+    "sourceCommit": "29925c285bcccf38da7be4622ab1663d10fc8943",
+    "siteVersion": 53,
+    "files": [
+      {
+        "file": "dist/account-config.json",
+        "bytes": 158,
+        "sha256": "bb1575f959d4c0dbde10adde0eb6ec64aa1d0f20e63f44a6ba1f11b81e65cd7b"
+      },
+      {
+        "file": "dist/action-fragen.csv",
+        "bytes": 257264,
+        "sha256": "65d8c19beab0bfb26d6c28773ea114740efbdc18348415bea53e8e0718f05ffb"
+      },
+      {
+        "file": "dist/alle-genres-120-filme-fragen.csv",
+        "bytes": 1662701,
+        "sha256": "00f32a122beb04cb0e9aa6a0c84507ed0254ac6aa192f25cdc45526427ed4502"
+      },
+      {
+        "file": "dist/arthouse-fragen.csv",
+        "bytes": 227942,
+        "sha256": "0df1e274c9fed8cb3d3639a5e7881f79dae955b854b543253a4d1b5cc8d5bc87"
+      },
+      {
+        "file": "dist/assets/CollectionPage-D4KlVn2b.js",
+        "bytes": 5116,
+        "sha256": "3d8c1003c692fcae074674d30f8e191ea66c3a5dd60019df235333874267f957"
+      },
+      {
+        "file": "dist/assets/DuelCenter-Dp5_scmQ.js",
+        "bytes": 11117,
+        "sha256": "ebd6de8e32741a41a66a1fea011a9ef0cf4ab942f4086f3bbdb7657c50b82e49"
+      },
+      {
+        "file": "dist/assets/duels-DiK2mktI.js",
+        "bytes": 7010,
+        "sha256": "c1d8aa15932cc97abe81e33bdc9363d1a0dd431f0c29b82aa8fe331864f2b0b0"
+      },
+      {
+        "file": "dist/assets/Help-D1YgQMfn.js",
+        "bytes": 19380,
+        "sha256": "6c88ce056d8087d50bb7088bcf28390e14c7d048d3fa609b82b425dcbed54d9e"
+      },
+      {
+        "file": "dist/assets/index-BtDKOoMZ.js",
+        "bytes": 3855725,
+        "sha256": "52db2dc63770b348d2c209047359d0b57656d20da358a62fa71ee50c2c818f68"
+      },
+      {
+        "file": "dist/assets/index-wc-fSqcm.css",
+        "bytes": 56399,
+        "sha256": "4c5dd9ce8c51a266d5a9ed0f51a62203c3d1d6b7e3b34ca1bf80a7f576301cb7"
+      },
+      {
+        "file": "dist/assets/RecordLeaderboard-C9-MKXhh.js",
+        "bytes": 20870,
+        "sha256": "59248a5d946af415411bbe23affa3d297a7d267f880c83458016ac9bc8a61798"
+      },
+      {
+        "file": "dist/assets/Settings-Jct1xiE2.js",
+        "bytes": 14300,
+        "sha256": "9d7f79dabc46dc45a3ba958acbe7bf85ecfe8760462b22db01b6ab8ba2aba455"
+      },
+      {
+        "file": "dist/assets/SolutionChoice-e1O_XuB2.js",
+        "bytes": 658,
+        "sha256": "139a0e891f82ce24921e994cc5e01bb1f527c8cbd3fcf10d8a9dcf8c72811e3d"
+      },
+      {
+        "file": "dist/assets/stateProcessing.worker-CI9xmpa4.js",
+        "bytes": 1481745,
+        "sha256": "9e659d8000b2617cad9222c07dadf3795e0ae7d8f57566e2ca8fecd881dacc03"
+      },
+      {
+        "file": "dist/assets/TopicCard-oc1yqoQR.js",
+        "bytes": 2141,
+        "sha256": "71aecdb48f48c10c8d31f8abf97f5bf89cd908430343b74fa78dd1301de0cc72"
+      },
+      {
+        "file": "dist/assets/TopicsPage-BIldzMAH.js",
+        "bytes": 1778,
+        "sha256": "a91ba27a71e1f333bad188f79ceeff5b88e4f239b2d245472c4277adc125fd11"
+      },
+      {
+        "file": "dist/cinema/lobby.png",
+        "bytes": 1317102,
+        "sha256": "74cdb1ba25c95653e90e9b11fb363530e47a0614530da3bc25bfb818783fca6b"
+      },
+      {
+        "file": "dist/classics-fragen.csv",
+        "bytes": 265296,
+        "sha256": "d0b774681bd60bf80c3d2b4fe24c98465a1ef3d35058c60f220a043b92f3d605"
+      },
+      {
+        "file": "dist/demo-fragen.csv",
+        "bytes": 6568,
+        "sha256": "7e1a295cc04def3dfa58b9129c221dc2fb001d41779c78e611d7f7466265a021"
+      },
+      {
+        "file": "dist/drama-fragen.csv",
+        "bytes": 271304,
+        "sha256": "533bd19be90ab2856862cacc4137c3a41f3f210968be64e6d41b8b78438f86ae"
+      },
+      {
+        "file": "dist/fantasy-fragen.csv",
+        "bytes": 254419,
+        "sha256": "1245252ad7cdbcfcd2954e7752906e1b2f350a8d6f0110e58da96165d5cc1796"
+      },
+      {
+        "file": "dist/fragen.csv",
+        "bytes": 285825,
+        "sha256": "e928647423f3781bdbcc6e17b2ab0c35fad38d76483e3470ddc312f7d8bdf968"
+      },
+      {
+        "file": "dist/genres/action.png",
+        "bytes": 1066751,
+        "sha256": "fe306510fa4d2dda1cf37b77c800b98026fec6d2a82f77c15670d6cde73ce1f6"
+      },
+      {
+        "file": "dist/genres/actors.png",
+        "bytes": 2193468,
+        "sha256": "a1fe00791242f440bb6ffe644960fde61b2b937defad42ef2f3d2b81ee55f946"
+      },
+      {
+        "file": "dist/genres/adventure.png",
+        "bytes": 1933391,
+        "sha256": "257d2c73ce3fe26b19c6fac9b455533177f78541f00f2c44154e8ebd4f158639"
+      },
+      {
+        "file": "dist/genres/arthouse.png",
+        "bytes": 1271695,
+        "sha256": "b333090f9f6cad8c984c6522149c59c795800bf5f21fa815fee0d56f9d2e2b2c"
+      },
+      {
+        "file": "dist/genres/awards.png",
+        "bytes": 1887626,
+        "sha256": "8e2fbe5252a400604edc2e3516a858302171eabb02dd78abd0cbfb63d33c65a2"
+      },
+      {
+        "file": "dist/genres/classics.png",
+        "bytes": 1749684,
+        "sha256": "347f9721240311d890cdcade1c4a6a7930f833510407e7d53dec4f8088c7f8a8"
+      },
+      {
+        "file": "dist/genres/comedy.png",
+        "bytes": 1675713,
+        "sha256": "d388ab6b1ed07bd5700c3ca14cbb195d1c6a4a5ecb5a9951b807342a971f3c56"
+      },
+      {
+        "file": "dist/genres/drama.png",
+        "bytes": 1520079,
+        "sha256": "6f06fe5e3de9e7277b107eb95df81fc0dce5c386d0a6b3c245cb251255808d6e"
+      },
+      {
+        "file": "dist/genres/fantasy.png",
+        "bytes": 1630452,
+        "sha256": "8c152619bba1a57992c4fc78834e63a316933b70dca38bcb53496d9fdd9a1e45"
+      },
+      {
+        "file": "dist/genres/horror.png",
+        "bytes": 1348235,
+        "sha256": "d61d7dd5ff2b02f25695b83579e5906e175ae0ef76334fe15e7e42c043cbb1e3"
+      },
+      {
+        "file": "dist/genres/martialarts.png",
+        "bytes": 1157288,
+        "sha256": "29dee2140159430196a4ad43a269689161551d14fa5d6b1131eeb6fbad7a5d23"
+      },
+      {
+        "file": "dist/genres/music.png",
+        "bytes": 1442797,
+        "sha256": "310c7f618303638326b088a9ab0dab46c7d79d835cbd8cbf37bd722b3d7cdc53"
+      },
+      {
+        "file": "dist/genres/romcom.png",
+        "bytes": 1486271,
+        "sha256": "ca2fd43dd97e64c128284385a66c5dd573200084c9926be53f3059693c988c0e"
+      },
+      {
+        "file": "dist/genres/scifi.png",
+        "bytes": 1257919,
+        "sha256": "72460fe3d0301701658aac34b710798782ab6e743594342fbd6ba4c028600882"
+      },
+      {
+        "file": "dist/genres/thriller.png",
+        "bytes": 1374221,
+        "sha256": "10a5f2450fc1c7e1abc45d65870fcbd659025b3fbe78110d7770660ae62f7fa3"
+      },
+      {
+        "file": "dist/genres/western.png",
+        "bytes": 1525704,
+        "sha256": "0c3dc3d17179f0f6f35e6613a3952d3ebf1a88c53b512c7d4889d46bb08d9bd5"
+      },
+      {
+        "file": "dist/horror-fragen.csv",
+        "bytes": 239456,
+        "sha256": "59208f8d8632cdfb2b46da60807e86f0b7d6c8b9b225753ebc8e5eec5851e7a4"
+      },
+      {
+        "file": "dist/icon-192.png",
+        "bytes": 1623,
+        "sha256": "f242b8da5ad429e1f8bca71d4de7c6ca277c26371663b05d985ee68bdcb93708"
+      },
+      {
+        "file": "dist/icon-512.png",
+        "bytes": 5827,
+        "sha256": "8e91e1bcfc50d8cff9f55a92cc16ba04eb60bbe1e815733073df8b1bf6e1e558"
+      },
+      {
+        "file": "dist/icon.svg",
+        "bytes": 367,
+        "sha256": "57e90fddf2ccfbbaff8da945b2cddd826812201eb617bb325a788099e107da44"
+      },
+      {
+        "file": "dist/index.html",
+        "bytes": 777,
+        "sha256": "8efb620216a6907a4f5ec4294b9382437a34833a6650ecb1cf97083aba4cc0a6"
+      },
+      {
+        "file": "dist/komoedie-ergaenzung-fragen.csv",
+        "bytes": 502347,
+        "sha256": "7c2505c77602a659a26d7ca631a1724caf264396ca3f0c56b73c6e3bf735d4ae"
+      },
+      {
+        "file": "dist/komoedie-fragen.csv",
+        "bytes": 279156,
+        "sha256": "1b8a8cff72059a60c830de69ca2f60d05143ec52ef35894e5315935f8dcca474"
+      },
+      {
+        "file": "dist/manifest.webmanifest",
+        "bytes": 525,
+        "sha256": "0ef478224d925470fd65803f347b30f1e51e8eda7de46c8e0f97df6dfa0645b1"
+      },
+      {
+        "file": "dist/martialarts-fragen.csv",
+        "bytes": 283394,
+        "sha256": "49a993a274c8603f367588d6f556799541059f029b4e4dba1d644b284bc343fc"
+      },
+      {
+        "file": "dist/modes/duell.svg",
+        "bytes": 1244,
+        "sha256": "7f9050a7fb1b1c9983a916572dd34b2e2e2a099d4d673c00549a8e1e1e02aa60"
+      },
+      {
+        "file": "dist/modes/entdecken.png",
+        "bytes": 1065110,
+        "sha256": "a1b5877f71644ee80d4753301139819565f6be746730253a9750f4b5e8ec6e90"
+      },
+      {
+        "file": "dist/modes/fehler.svg",
+        "bytes": 613,
+        "sha256": "85a08abbc0c384bb080147cee8da35486e224cb03564308936ed91eabe9b7a91"
+      },
+      {
+        "file": "dist/modes/fehlerfrei.svg",
+        "bytes": 602,
+        "sha256": "1753e5301108487940ec02bdd43c751dc22106f324bece0e548a499fec295519"
+      },
+      {
+        "file": "dist/modes/rekord.png",
+        "bytes": 1419558,
+        "sha256": "8cbfeb2e9cf1c6bf2361f5ab49527560507832a7a99fdf1fd323d3d6c9f4011f"
+      },
+      {
+        "file": "dist/modes/ueben.png",
+        "bytes": 998815,
+        "sha256": "36d97fea0558c3bf68148e6493959211a2165de189b25db6aeaf5f12429ffdb0"
+      },
+      {
+        "file": "dist/modes/zeitkonto.svg",
+        "bytes": 956,
+        "sha256": "b1850307664359e2203c6675242409b788fdab616be8477a9815d8d51365fb3a"
+      },
+      {
+        "file": "dist/musik-fragen.csv",
+        "bytes": 287400,
+        "sha256": "d8c47f7931d31ba0bf1108bf1b860e001170a44c7fa21449f514d03e1baab132"
+      },
+      {
+        "file": "dist/preistraeger-fragen.csv",
+        "bytes": 323777,
+        "sha256": "898cc869cb2c0af879d662a129e23e5cec94eb64276caa55fa65e0584029c09f"
+      },
+      {
+        "file": "dist/romcom-fragen.csv",
+        "bytes": 271328,
+        "sha256": "6aced6bd4c649a0e80f2cd8dd0b4b784ff5c626834835d1a3f4f901bc09d9384"
+      },
+      {
+        "file": "dist/schauspieler-fragen.csv",
+        "bytes": 496937,
+        "sha256": "8a1c23ad8aec5fcd6a9ba6e0eba90ac05aba43206932a26a6dea5640538b5f45"
+      },
+      {
+        "file": "dist/schauspieler-p02-fragen.csv",
+        "bytes": 194202,
+        "sha256": "adb92b7bda7e1094d10ceaaec80cc065c0fab03d74633a23c8a55c3615792a97"
+      },
+      {
+        "file": "dist/schauspieler-p03-fragen.csv",
+        "bytes": 393749,
+        "sha256": "bff7323e56d049b14b84373b6028b6a30b4a914d5b54be713cd4db57b39f6656"
+      },
+      {
+        "file": "dist/scifi-ergaenzung-fragen.csv",
+        "bytes": 543104,
+        "sha256": "0bb6ab71112411b46d85ec31d4d012e4c60a565ab0bf4ef1f0bebad4af3be6fe"
+      },
+      {
+        "file": "dist/sw.js",
+        "bytes": 2624,
+        "sha256": "3a9ba6b828998a30739b17448d91ff0beb02a9b18a564583be2e5d07ecac8d8a"
+      },
+      {
+        "file": "dist/western-fragen.csv",
+        "bytes": 253581,
+        "sha256": "62451b9e866e78f87b97daeda3978abca0b41d806ef85a39635e90580fe8cfc0"
+      }
+    ],
+    "bytes": 42113184,
+    "offlinePackage": "film-b530ffcd47ef",
+    "offlineEntries": 61
+  },
+  "documentedAnswerChanges": [
+    {
+      "id": "WES-L-022",
+      "before": "Einem Wolf",
+      "after": "Two Socks",
+      "reason": "Dasselbe Figurenwissen aus der Gegenrichtung gefragt; Titel verrät den gesuchten Namen nicht."
+    }
+  ]
+}

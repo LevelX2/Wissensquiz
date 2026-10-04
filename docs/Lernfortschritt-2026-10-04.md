@@ -1,6 +1,6 @@
 # Sichtbarer Lernfortschritt
 
-Stand: 04.10.2026. Grundfunktion mit Sites-Version 52 veröffentlicht; die folgende Anordnungspräzisierung ist lokal umgesetzt und noch nicht veröffentlicht.
+Stand: 04.10.2026. Grundfunktion seit Sites-Version 52 veröffentlicht; die folgende Anordnungspräzisierung ist seit Sites-Version 54 ebenfalls veröffentlicht. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-54-gesamter-main-stand-mit-individuellen-fragenvertiefungen).
 
 ## Anlass und Entscheidung
 

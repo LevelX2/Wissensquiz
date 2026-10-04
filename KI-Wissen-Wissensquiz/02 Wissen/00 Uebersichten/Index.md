@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Version 54 veröffentlicht: gesamte Main-Änderungen, 1.099 überarbeitete Fragen und Online-/Duellkatalog](../../../docs/Sites-Betrieb.md#version-54-gesamter-main-stand-mit-individuellen-fragenvertiefungen)
+- [Version 54: native Veröffentlichungsdaten, Inhalts- und Buildnachweise](../../../docs/Veroeffentlichung-2026-10-04-Version-54.json)
+
 - [Profiloptionen ohne CSV-Import; vorhandene lokale Fragenmeldungen und Vorschlag für automatische GitHub-Issues](../../../docs/Hilfe-und-Navigation.md#profiloptionen-und-meldeweg--04102026)
 
 - [Bestandsredaktion abgeschlossen: Jahres-/Regievertiefungen und vier Blocknachweise](../../../docs/Fragenkorrekturen.md#bestandsredaktion-block-4--04102026)

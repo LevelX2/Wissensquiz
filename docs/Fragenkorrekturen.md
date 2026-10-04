@@ -1,5 +1,7 @@
 # Bestätigte Fragenkorrekturen
 
+**Aktueller Veröffentlichungsstand:** Alle vier Bestandsredaktionsblöcke mit insgesamt 1.099 überarbeiteten bestehenden Fragen sind seit **Sites-Version 54 vom 04.10.2026, 17:28:21 Uhr Europe/Berlin** veröffentlicht. Öffentlichen Online-Katalog vollständig und 711 betroffene Duellfragen geprüft aktualisiert. Die nachstehenden lokalen Blockstände dokumentieren ihre damalige Abnahme. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-54-gesamter-main-stand-mit-individuellen-fragenvertiefungen).
+
 Die drei Korrekturen sind seit Sites-Version 52 (04.10.2026) veröffentlicht, auch im öffentlichen Katalog für neue Duelle. Laufende Duellsnapshots bleiben erhalten. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-52-gesamter-main-stand-mit-sichtbarem-lernfortschritt).
 
 ## Bestandsredaktion, Block 4 – 04.10.2026

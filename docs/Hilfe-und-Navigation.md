@@ -2,7 +2,7 @@
 
 ## Profiloptionen und Meldeweg – 04.10.2026
 
-Lokal auf Nutzerwunsch entfernt: „Fragen hinzufügen“ einschließlich CSV-Auswahl, Demo-Download, Importvorschau, Importberichte und deren separatem Export. Neue Fragen kommen über die eigene Paket-/Update-Logik. Hilfe und README nennen nur noch die JSON-Sicherung und geprüfte Wiederherstellung. Parser, automatische Paketversorgung und gespeicherte Importberichte bleiben erhalten. Die Gastspielstand-Übernahme bleibt als bewusst bestätigter Kontoübergang bestehen: Sie kopiert den Gastfortschritt, ersetzt den lokalen Kontostand und synchronisiert diesen anschließend online; sie führt zwei Fortschritte nicht zusammen. Noch nicht veröffentlicht.
+Lokal auf Nutzerwunsch entfernt: „Fragen hinzufügen“ einschließlich CSV-Auswahl, Demo-Download, Importvorschau, Importberichte und deren separatem Export. Neue Fragen kommen über die eigene Paket-/Update-Logik. Hilfe und README nennen nur noch die JSON-Sicherung und geprüfte Wiederherstellung. Parser, automatische Paketversorgung und gespeicherte Importberichte bleiben erhalten. Die Gastspielstand-Übernahme bleibt als bewusst bestätigter Kontoübergang bestehen: Sie kopiert den Gastfortschritt, ersetzt den lokalen Kontostand und synchronisiert diesen anschließend online; sie führt zwei Fortschritte nicht zusammen. Seit Sites-Version 54 veröffentlicht.
 
 **Bestehender Meldeweg:** „Frage melden“ in `QuestionScreen` speichert Kommentar, Fragen-ID und Inhaltsversion im eigenen Spielstand. Es erfolgt kein Versand an die Redaktion oder GitHub; die Oberfläche nennt diesen Zustand ausdrücklich. Angemeldete Spielstände können die Meldungen mit ihrer privaten Kontosicherung enthalten.
 
