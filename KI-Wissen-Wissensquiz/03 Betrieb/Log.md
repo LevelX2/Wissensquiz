@@ -852,3 +852,7 @@ Auf Nutzerauftrag die bestätigten Lösungshinweise und schwachen Deep Dives sch
 ## 04.10.2026 – iPad-Spielstand nach Aktualisieren wieder ladbar
 
 Nutzer meldet Online-Ladefehler im iPad-Browser und bestätigt während der lesenden Diagnose die Behebung durch Aktualisieren. Anmeldung, Metadaten und beobachtete Spielstandsseiten serverseitig mit HTTP 200; separate vollständige Seitenprüfung erfolgreich. Die konkrete Browserausnahme und Versionsstände bleiben unbekannt, deshalb keine bestimmte Ursache behauptet. Diagnose beendet; keine Code-, Datenbank- oder Spielstandsänderung, kein Push und keine Veröffentlichung. [Befund und erster Hilfeschritt](../../docs/Konten-und-Spielstaende.md#ipad-ladefehler-durch-aktualisieren-behoben-04102026).
+
+## 04.10.2026 – Online-Ladefehlermeldung nennt Aktualisieren
+
+Auf Nutzerwunsch den Hinweistext ergänzt: zuerst Seite aktualisieren, bei Bedarf alle Quiz-Tabs oder App-Fenster schließen und das Quiz neu öffnen; außerdem Verbindung prüfen und erneut versuchen. 339 Tests/57 Dateien, Build und zwei vorhandene Browserfälle in Chromium/WebKit mit isoliertem iPad-Profil erfolgreich. Nur Textänderung; Spielstands- und Konfliktverhalten erhalten. Fremde Arbeitsstände einschließlich Importberichten erhalten; kein Push und keine Veröffentlichung. [Meldung](../../docs/Konten-und-Spielstaende.md#ipad-ladefehler-durch-aktualisieren-behoben-04102026), [Prüfnachweis](../../docs/Pruefbericht.md#04102026--aktualisieren-als-hilfeschritt-bei-online-ladefehler).

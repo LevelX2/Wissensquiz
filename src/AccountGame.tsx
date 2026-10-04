@@ -130,7 +130,7 @@ export function AccountGame({
       } catch {
         if (alive)
           setError(
-            "Dein Online-Spielstand konnte nicht geladen werden. Bitte prüfe Deine Internetverbindung und versuche es erneut. Deine vorhandenen Spielstände bleiben erhalten.",
+            "Dein Online-Spielstand konnte nicht geladen werden. Bitte aktualisiere zuerst die Seite. Hilft das nicht, schließe alle Quiz-Tabs oder App-Fenster und öffne das Quiz erneut. Prüfe auch Deine Internetverbindung und versuche es erneut. Deine vorhandenen Spielstände bleiben erhalten.",
           );
       }
       await hold;
