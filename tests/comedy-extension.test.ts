@@ -19,6 +19,15 @@ const hash = (value: string | Buffer) =>
 
 it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Filmdaten und Kategorien", () => {
   expect(hash(readFileSync("public/komoedie-ergaenzung-fragen.csv"))).toBe(
+    "da0a3e4870e4a3f6611b91d50361d3f51d6ee26e2fa44cb1e85582aa29253c60",
+  );
+  expect(
+    hash(
+      readFileSync(
+        "KI-Wissen-Wissensquiz/01 Rohquellen/Komoedie_Ergaenzung_360_Fragen.csv",
+      ),
+    ),
+  ).toBe(
     "3e267acea78956d1179207a644a31be5d6151cb230dc1272206177b5cf12a96d",
   );
   expect(
