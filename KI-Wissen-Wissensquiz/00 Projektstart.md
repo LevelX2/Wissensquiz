@@ -4,6 +4,8 @@ Stand: 04.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- Lokal am 04.10.2026 den Lernfortschritt transparenter gemacht: alle vier Stufen, nächster Lerntermin, Zwischenaufstiege und sofortige Fehlerkorrektur sichtbar; Sammlung und Karten zählen bereits Teilfortschritt. Frühe sichere Wiederholungen verschieben die erstmalige Festigung nicht mehr; Abstand zählt ab letztem Stufenaufstieg. Noch nicht veröffentlicht. [Vertrag und Umsetzung](../docs/Lernfortschritt-2026-10-04.md).
+
 - Lokal am 04.10.2026 die vorab graugrün markierte Antwort auf dem Handy korrigiert: Ursache war der allgemeine, von der Richtigkeit unabhängige Hover-Effekt. Dieser gilt nun nur bei hoverfähigem, präzisem Zeiger; auf Touchgeräten bleiben alle vier Antworten vor der Auswahl gleich hinterlegt. Eigentliche Lösungsfarben folgen weiterhin erst nach dem Speichern. Noch nicht veröffentlicht. [Oberflächenbefund](../docs/Hilfe-und-Navigation.md#neutrale-antworten-auf-touchgeräten--04102026), [Prüfnachweis](../docs/Pruefbericht.md#04102026--neutrale-antworten-auf-touchgeräten).
 
 - Lokal am 04.10.2026 zwei bestätigte leichte Fragen direkt in den öffentlichen CSV korrigiert: „Hangover“ fragt ohne vorweggenannte Suchende nach dem verschwundenen Freund; die Zusätze hinter den Namen bleiben erhalten. „Planet der Affen“ fragt nach der Stellung der Menschen statt einer bereits im Titel genannten Spezies. Ursprüngliche Lieferungen erhalten; keine neue Kompatibilitätslogik oder Migration, noch nicht veröffentlicht. [Fragenkorrekturen](../docs/Fragenkorrekturen.md).

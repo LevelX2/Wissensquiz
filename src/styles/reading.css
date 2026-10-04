@@ -312,6 +312,40 @@ footer[hidden] {
 .chosen-answer {
   margin: 8px 0;
 }
+.learning-progress {
+  margin: 14px 0;
+  padding: 12px;
+  border: 1px solid #bac7bd;
+  border-radius: 10px;
+  background: #f0f5ef;
+  text-align: left;
+  font-size: 13px;
+}
+.learning-stage-track {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+  margin: 10px 0;
+}
+.learning-stage-track span {
+  padding: 4px;
+  border-radius: 4px;
+  background: #dce3dc;
+  color: #465248;
+  text-align: center;
+}
+.learning-stage-track .earned {
+  color: #fff;
+  background: #28674b;
+}
+.learning-progress p {
+  margin: 6px 0 0;
+  line-height: 1.5;
+}
+.learning-next,
+.learning-error-resolved {
+  font-weight: 600;
+}
 .answer-unknown {
   grid-column: 1 / -1;
   background: #f4f6f4;

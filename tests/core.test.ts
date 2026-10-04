@@ -175,14 +175,16 @@ describe("Lernfortschritt mit kontrollierter Testzeit", () => {
     expect(same.due).toBe(p.due);
     expect(same.secureDays).toHaveLength(1);
   });
-  it("eine frühe Zwischenantwort verhindert eine scheinbare Sieben-Tage-Festigung", () => {
+  it("frühe richtige Zwischenantworten verschieben die Festigung nicht", () => {
     let p = learn(undefined, event(now));
     p = learn(p, event(now + DAY));
     p = learn(p, event(now + 4 * DAY));
     p = learn(p, event(now + 10 * DAY));
     expect(p.stage).toBe(3);
+    expect(p.lastSecure).toBe(now + 4 * DAY);
+    expect(p.due).toBe(now + 11 * DAY);
     p = learn(p, event(now + 11 * DAY));
-    expect(p.status).toBe("geübt");
+    expect(p.status).toBe("gefestigt");
     p = learn(p, event(now + 32 * DAY));
     expect(p.status).toBe("gefestigt");
     p = learn(p, event(now + 52 * DAY));

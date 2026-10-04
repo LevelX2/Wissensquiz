@@ -13,6 +13,7 @@ import { historicalModeName, formatDate } from "./gameUi";
 import { TopicCard } from "./TopicCard";
 import type * as React from "react";
 import { roundQuestionCount } from "./roundArchive";
+import { learningOverview } from "./learningProgress";
 
 export function CollectionPage({
   state,
@@ -41,9 +42,10 @@ export function CollectionPage({
     (t) => !answeredOnly || startedTopics.has(t),
   );
   const completed = state.rounds.filter((r) => r.status === "completed");
-  const mastered = Object.values(state.learning).filter(
-    (p) => p.status === "gefestigt",
-  ).length;
+  const learning = learningOverview(
+    state.questions.map((q) => q.knowledgeId),
+    state.learning,
+  );
   return (
     <>
       <span className="eyebrow">DAS BLEIBT BEI DIR</span>
@@ -67,14 +69,20 @@ export function CollectionPage({
           </p>
         </div>
         <div>
-          <span>Fachwissen</span>
+          <span>Lernfortschritt</span>
           <strong>
-            {mastered}
-            <small> gefestigt</small>
+            {learning.steps}
+            <small> Lernstufen</small>
           </strong>
           <p>
-            {Object.keys(state.learning).length} unterschiedliche Ziele gesehen
+            {learning.steps} von {learning.maximum} Lernstufen erreicht ·{" "}
+            {learning.mastered} Wissensziele gefestigt
           </p>
+          <progress
+            value={learning.steps}
+            max={Math.max(1, learning.maximum)}
+            aria-label="Lernfortschritt im aktuellen Fragenbestand"
+          />
         </div>
         <div>
           <span>Lokale Trainingsrekorde</span>
@@ -93,8 +101,9 @@ export function CollectionPage({
         <h2>Dein Expertenalbum</h2>
       </div>
       <p className="muted">
-        Die drei Status zählen getrennt. Gefestigt heißt: mehrfach sicher, an
-        verschiedenen Tagen und nach mindestens sieben Tagen erneut bestätigt.
+        Jede der vier Lernstufen zählt zum Fortschrittsbalken. Stufe 1 heißt:
+        einmal sicher gelöst. Weitere Stufen erreichst Du mit fälligen
+        Wiederholungen. Vier Stufen ergeben im normalen Ablauf „gefestigt“.
       </p>
       <div className="ranking-tabs" role="group" aria-label="Sammlungsfilter">
         <button

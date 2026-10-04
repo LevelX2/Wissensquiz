@@ -3,6 +3,7 @@ import { describe, expect, it } from "vitest";
 import {
   answer,
   complete,
+  DAY,
   guess,
   selectQuestions,
   startRound,
@@ -231,6 +232,38 @@ describe("Fehlertraining", () => {
 });
 
 describe("Rundenauswertung", () => {
+  it("zählt die Zwischenaufstiege 1 auf 2 und 2 auf 3 trotz unverändertem Status", () => {
+    const state = emptyState(qs);
+    const first = played(state, [qs[0]], ["correct"]);
+    const second = played(state, [qs[0]], ["correct"], now + DAY);
+    const third = played(state, [qs[0]], ["correct"], now + 4 * DAY);
+    expect(roundSummary(state, first)).toMatchObject({
+      firstSolved: 1,
+      advanced: 1,
+    });
+    expect(roundSummary(state, second)).toMatchObject({
+      firstSolved: 0,
+      advanced: 1,
+      improved: 0,
+      secured: 0,
+    });
+    expect(roundSummary(state, third)).toMatchObject({
+      firstSolved: 0,
+      advanced: 1,
+      improved: 0,
+      secured: 0,
+    });
+    const early = played(state, [qs[0]], ["correct"], now + 10 * DAY);
+    expect(roundSummary(state, early)).toMatchObject({
+      advanced: 0,
+      firstSolved: 0,
+    });
+    const last = played(state, [qs[0]], ["correct"], now + 11 * DAY);
+    expect(roundSummary(state, last)).toMatchObject({
+      advanced: 1,
+      secured: 1,
+    });
+  });
   it("trennt Treffer, geratene Antworten, Fehler und Zeitabläufe und bleibt bei späteren Runden historisch stabil", () => {
     const state = emptyState(qs);
     played(state, [qs[0]], ["wrong"]);
@@ -252,6 +285,8 @@ describe("Rundenauswertung", () => {
       bestStreak: 1,
       improved: 2,
       secured: 0,
+      advanced: 2,
+      firstSolved: 2,
     });
     expect(summary.genres.get("Science-Fiction")).toEqual({
       correct: 3,

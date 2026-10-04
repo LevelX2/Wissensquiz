@@ -31,7 +31,6 @@ export function learn(
         secureDays: [],
         seen: 0,
       };
-  const previousSeenAt = p.lastSeenAt ?? p.lastSecure;
   p.lastSeenAt = event.at;
   p.seen++;
   if (!event.correct || event.guessed) {
@@ -42,7 +41,8 @@ export function learn(
   }
   const day = dayKey(event.at);
   if (p.lastAdvancedDay === day || (p.stage > 0 && event.at < p.due)) return p;
-  const gap = previousSeenAt === null ? 0 : event.at - previousSeenAt;
+  // Extra practice keeps the interval anchored to the last earned stage.
+  const gap = p.lastSecure === null ? 0 : event.at - p.lastSecure;
   p.secureDays = [...new Set([...p.secureDays, day])];
   p.stage = Math.min(4, p.stage + 1);
   p.status =

@@ -97,6 +97,20 @@
   color: #4c5b60;
   margin-bottom: 4px;
 }
+.learning-stage-counts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px 8px;
+  font-size: 11px;
+}
+.learning-stage-counts span {
+  min-width: 0;
+}
+.stat-grid progress {
+  width: 100%;
+  height: 6px;
+  margin: 12px 0 0;
+}
 .topic-body progress {
   height: 4px;
   margin: 17px 0 3px;

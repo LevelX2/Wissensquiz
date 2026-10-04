@@ -7,7 +7,7 @@ import {
   type Page,
 } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
-import { answer, complete, guess, startRound } from "../../src/engine";
+import { answer, complete, DAY, guess, startRound } from "../../src/engine";
 import type { State } from "../../src/model";
 
 const now = new Date("2026-10-02T12:00:00+02:00");
@@ -34,6 +34,264 @@ async function writeState(page: Page, state: State) {
     state,
   );
 }
+
+test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch nach Neuladen offline", async ({
+  page,
+  context,
+  browserName,
+}) => {
+  const time = new Date("2026-10-14T12:00:00+02:00");
+  const at = time.getTime();
+  await page.clock.install({ time });
+  await page.setViewportSize({ width: 320, height: 850 });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readState(page);
+  state.settings.sound = false;
+  const qs = [
+    ...new Map(
+      state.questions
+        .filter((q) => !q.id.startsWith("FACT-"))
+        .map((q) => [q.knowledgeId, q]),
+    ).values(),
+  ].slice(0, 5);
+  const play = (questions: typeof qs, date: number, wrong = false) => {
+    const r = startRound(
+      state,
+      { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      date,
+    );
+    r.questions = structuredClone(questions);
+    r.order = questions.map((q) => q.answers.map((a) => a.id));
+    r.before = Object.fromEntries(
+      questions
+        .filter((q) => state.learning[q.knowledgeId])
+        .map((q) => [
+          q.knowledgeId,
+          structuredClone(state.learning[q.knowledgeId]),
+        ]),
+    );
+    r.familiaritySnapshot = undefined;
+    questions.forEach((q, i) =>
+      answer(
+        state,
+        r.id,
+        q.id,
+        wrong && i === questions.length - 1
+          ? q.answers.find((a) => a.id !== q.correctId)!.id
+          : q.correctId,
+        1000,
+        date + i,
+      ),
+    );
+    complete(state, r.id, date + questions.length);
+  };
+  play([qs[2]], at - 11 * DAY);
+  play([qs[2]], at - 10 * DAY);
+  play([qs[2]], at - 7 * DAY);
+  play([qs[1]], at - 4 * DAY);
+  play([qs[1]], at - 3 * DAY);
+  play([qs[0], qs[2], qs[3]], at - DAY, true);
+  const r = startRound(
+    state,
+    { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    at,
+  );
+  r.questions = structuredClone(qs);
+  r.order = qs.map((q) => q.answers.map((a) => a.id));
+  r.before = Object.fromEntries(
+    qs
+      .filter((q) => state.learning[q.knowledgeId])
+      .map((q) => [
+        q.knowledgeId,
+        structuredClone(state.learning[q.knowledgeId]),
+      ]),
+  );
+  r.familiaritySnapshot = undefined;
+  await writeState(page, state);
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  const feedback = page.getByLabel("Lernfortschritt dieses Wissensziels");
+  for (const [i, stage] of [2, 3, 4, 1, 1].entries()) {
+    await page
+      .locator(".answer")
+      .filter({
+        has: page.getByText(
+          qs[i].answers.find((a) => a.id === qs[i].correctId)!.text,
+          { exact: true },
+        ),
+      })
+      .click();
+    await expect(feedback).toContainText(`Lernstufe ${stage} von 4`);
+    await expect(feedback.locator(".earned")).toHaveCount(stage);
+    if (i === 0)
+      await expect(feedback).toContainText("Nächste Lernstufe: in 3 Tagen");
+    if (i === 1)
+      await expect(feedback).toContainText("Nächste Lernstufe: in 7 Tagen");
+    if (i === 2) await expect(feedback).toContainText("Gefestigt");
+    if (i === 3)
+      await expect(feedback).toContainText("aus dem Fehlertraining entfernt");
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth,
+      ),
+    ).toBe(true);
+    if (i === 0) {
+      const saved = await readState(page);
+      await page.evaluate(() =>
+        navigator.serviceWorker.ready.then(() => undefined),
+      );
+      if (browserName === "chromium") await context.setOffline(true);
+      await page.reload();
+      await page.getByRole("button", { name: "Fortsetzen" }).click();
+      if (browserName === "webkit") await context.setOffline(true);
+      await expect(feedback).toContainText("Lernstufe 2 von 4");
+      expect((await readState(page)).events.length).toBe(saved.events.length);
+      await page.screenshot({
+        path: `test-results/lernstufe-2-${browserName}.png`,
+        fullPage: true,
+      });
+    }
+    await page
+      .getByRole("button", {
+        name: i === qs.length - 1 ? "Runde abschließen" : "Nächste Frage",
+      })
+      .click();
+  }
+  const insights = page.locator(".result-insights");
+  await expect(
+    insights.locator("div").filter({ hasText: "Erstmals sicher gelöst" }),
+  ).toContainText("2");
+  await expect(
+    insights.locator("div").filter({ hasText: "Lernstufen verbessert" }),
+  ).toContainText("5");
+  await expect(
+    insights.locator("div").filter({ hasText: "Frühere Fehler sicher gelöst" }),
+  ).toContainText("1");
+  await expect(
+    insights.locator("div").filter({ hasText: "Neue Wissensziele entdeckt" }),
+  ).toContainText("1");
+  await expect(page.locator(".result-progress")).toContainText(
+    "2 Wissensziele in dieser Runde neu geübt",
+  );
+  await expect(page.locator(".result-progress")).toContainText(
+    "1 Wissensziel nach Abstand gefestigt",
+  );
+  expect((await readState(page)).learning[qs[2].knowledgeId].status).toBe(
+    "gefestigt",
+  );
+  await page.screenshot({
+    path: `test-results/lernstufen-ergebnis-${browserName}.png`,
+    fullPage: true,
+  });
+  // Windows WebKit cannot fetch a previously unopened lazy view offline.
+  // Offline answers/persistence are verified above; inspect collection online.
+  await context.setOffline(false);
+  await page.getByRole("button", { name: "Sammlung", exact: true }).click();
+  await page
+    .getByRole("button", { name: "Mit beantworteten Fragen", exact: true })
+    .click();
+  const card = page.locator(".topic-card").filter({
+    has: page.getByRole("heading", { name: qs[0].topic, exact: true }),
+  });
+  await expect(card).toContainText("Stufe 2/4");
+  expect(
+    Number(await card.locator("progress").getAttribute("value")),
+  ).toBeGreaterThan(0);
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  await page.screenshot({
+    path: `test-results/lernstufen-sammlung-${browserName}.png`,
+    fullPage: true,
+  });
+});
+
+test("frühe sichere Wiederholung erklärt die unveränderte Stufe und erhält den Termin", async ({
+  page,
+}) => {
+  await page.clock.install({ time: now });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readState(page);
+  const q = state.questions.find((q) => !q.id.startsWith("FACT-"))!;
+  const at = now.getTime();
+  for (const time of [at - 1000, at]) {
+    const r = startRound(
+      state,
+      { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      time,
+    );
+    r.questions = [q];
+    r.order = [q.answers.map((a) => a.id)];
+    r.familiaritySnapshot = undefined;
+    if (time < at) {
+      answer(state, r.id, q.id, q.correctId, 100, time);
+      complete(state, r.id, time);
+    }
+  }
+  const due = state.learning[q.knowledgeId].due;
+  await writeState(page, state);
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  await page
+    .locator(".answer")
+    .filter({
+      has: page.getByText(q.answers.find((a) => a.id === q.correctId)!.text, {
+        exact: true,
+      }),
+    })
+    .click();
+  const progress = page.getByLabel("Lernfortschritt dieses Wissensziels");
+  await expect(progress).toContainText("Lernstufe 1 von 4");
+  await expect(progress).toContainText(
+    "Heute hast Du bereits eine Lernstufe erreicht",
+  );
+  expect((await readState(page)).learning[q.knowledgeId].due).toBe(due);
+});
+
+test("gesammelte Lösungen zeigen den Lernfortschritt erst im Rundenrückblick", async ({
+  page,
+}) => {
+  await page.clock.install({ time: now });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readState(page);
+  state.settings.sound = false;
+  const q = state.questions.find((q) => !q.id.startsWith("FACT-"))!;
+  const r = startRound(
+    state,
+    { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    now.getTime(),
+  );
+  r.questions = [q];
+  r.order = [q.answers.map((a) => a.id)];
+  r.familiaritySnapshot = undefined;
+  r.solutionDisplay = "round";
+  await writeState(page, state);
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  await page
+    .locator(".answer")
+    .filter({
+      has: page.getByText(q.answers.find((a) => a.id === q.correctId)!.text, {
+        exact: true,
+      }),
+    })
+    .click();
+  await expect(page.locator(".learning-progress")).toHaveCount(0);
+  await page.getByRole("button", { name: "Runde abschließen" }).click();
+  await page.locator(".review > details > summary").first().click();
+  await expect(
+    page.getByLabel("Lernfortschritt dieses Wissensziels"),
+  ).toContainText("Lernstufe 1 von 4");
+});
 
 test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Modus gespeichert", async ({
   page,

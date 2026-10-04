@@ -17,6 +17,7 @@ import { RoundExperience } from "./CareerProgress";
 import { historicalModeName, formatDate } from "./gameUi";
 import { presentedQuestion } from "./actorEditorial";
 import { Explanation } from "./Explanation";
+import { LearningProgress } from "./LearningProgressPanel";
 
 export function Result({
   round,
@@ -171,6 +172,14 @@ export function Result({
         />
         <div className="result-insights">
           <div>
+            <strong>{summary.firstSolved}</strong>
+            <span>Erstmals sicher gelöst</span>
+          </div>
+          <div>
+            <strong>{summary.advanced}</strong>
+            <span>Lernstufen verbessert</span>
+          </div>
+          <div>
             <strong>{summary.newGoals}</strong>
             <span>Neue Wissensziele entdeckt</span>
           </div>
@@ -197,10 +206,10 @@ export function Result({
             gefestigt.
           </p>
         )}
-        {!improved && !secure && (
+        {!summary.advanced && !secure && (
           <p>
-            Du hast Dir Zeit für {events.length} Wissensziele genommen.
-            Festigung braucht Abstand.
+            Deine Antworten zählen. Für die nächste Lernstufe muss die
+            Wiederholung fällig sein; pro Tag zählt eine neue Stufe.
           </p>
         )}
       </div>
@@ -320,6 +329,11 @@ export function Result({
                   <strong>Lösung:</strong>{" "}
                   {q.answers.find((a) => a.id === q.correctId)?.text}
                 </p>
+                <LearningProgress
+                  events={state.events}
+                  event={e}
+                  now={Date.now()}
+                />
                 <Explanation q={q} event={e} />
                 {e.guessed && <p className="muted">Als geraten markiert.</p>}
               </details>

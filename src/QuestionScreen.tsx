@@ -23,6 +23,7 @@ import type { Mutate } from "./uiTypes";
 import { historicalModeName, Pill } from "./gameUi";
 import { presentedQuestion } from "./actorEditorial";
 import { Explanation } from "./Explanation";
+import { LearningProgress } from "./LearningProgressPanel";
 
 import {
   isRecordMode,
@@ -480,6 +481,11 @@ export function QuestionScreen({
                     </strong>
                   </p>
                 )}
+                <LearningProgress
+                  events={state.events}
+                  event={event}
+                  now={Date.now()}
+                />
                 <Explanation q={q} event={event} />
                 {event.guessed && (
                   <p className="tiny muted">

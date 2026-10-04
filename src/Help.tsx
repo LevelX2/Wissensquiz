@@ -15,12 +15,14 @@ export function Help() {
           </li>
           <li>
             <strong>Geübt:</strong> Du hast sicher richtig geantwortet. Jetzt
-            helfen Wiederholungen mit Abstand.
+            helfen Wiederholungen mit Abstand. Die Anzeige zeigt Deinen
+            Zwischenstand als Lernstufe 1, 2 oder 3 von 4.
           </li>
           <li>
             <strong>Gefestigt:</strong> Du hast vier Lernstufen erreicht – mit
             sicheren Antworten an mindestens vier verschiedenen Tagen und
-            zuletzt mindestens sieben Tagen Abstand zur vorherigen Antwort.
+            zuletzt mindestens sieben Tagen Abstand zur vorherigen erreichten
+            Lernstufe.
           </li>
         </ol>
         <p>
@@ -35,9 +37,10 @@ export function Help() {
           21 Tagen.
         </p>
         <p>
-          Wiederholst Du früher, steigt die Stufe noch nicht. Vor der ersten
-          Festigung zählen die sieben Tage ab Deiner tatsächlich letzten Antwort
-          – auch eine zusätzliche Zwischenantwort setzt diesen Abstand neu an.
+          Wiederholst Du früher, steigt die Stufe noch nicht. Zusätzliche
+          richtige Antworten verschieben Deinen Wiederholungstermin und die
+          Festigung nicht nach hinten. Der Abstand zählt ab Deiner letzten
+          erreichten Lernstufe. Nach der Antwort siehst Du den nächsten Termin.
           In der Filmreise kommen fällige Ziele wieder, sobald keine neuen
           passenden Ziele mehr verfügbar sind.
         </p>
@@ -45,6 +48,20 @@ export function Help() {
           Ein Fehler oder Zeitablauf setzt das Ziel auf „entdeckt“ zurück; es
           wird nach zehn Minuten wieder fällig. Bei „War geraten“ sind es sechs
           Stunden. Bereits erworbene Abzeichen bleiben Dir erhalten.
+        </p>
+        <p>
+          Fehlertraining und Festigung sind getrennt: Ein sicherer richtiger
+          Treffer entfernt das Wissensziel sofort aus dem Fehlertraining, auch
+          am selben Tag. Weitere Lernstufen brauchen fällige Wiederholungen. Ein
+          späterer Fehler nimmt das Ziel wieder auf. Fragenvarianten teilen
+          denselben Lernstand. Gefestigte Ziele können weiterhin vorkommen.
+        </p>
+        <p>
+          Der Lernfortschritt zählt die erreichten Stufen im aktuellen Bestand:
+          Stufe 1 trägt einen von vier Schritten bei, Stufe 2 zwei und Stufe 3
+          drei. Stufe 4 trägt alle vier bei. Nach einer Runde siehst Du auch
+          Zwischenaufstiege, erstmals sicher gelöste Ziele und korrigierte
+          Fehler.
         </p>
       </details>
       <details>

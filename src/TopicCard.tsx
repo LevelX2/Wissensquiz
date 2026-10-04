@@ -2,6 +2,7 @@ import { type Question, type State } from "./model";
 import { genreOf, genreLabel } from "./filters";
 import { GenreArtwork } from "./Icons";
 import { categories, type Category, ACTORS } from "./categories";
+import { learningOverview } from "./learningProgress";
 
 export function TopicCard({
   topic,
@@ -24,10 +25,16 @@ export function TopicCard({
       ? [topic]
       : [...new Set(questions.map(genreOf))].sort();
   const ids = [...new Set(questions.map((q) => q.knowledgeId))];
-  const counts = ["entdeckt", "geübt", "gefestigt"].map(
-    (status) =>
-      ids.filter((id) => state.learning[id]?.status === status).length,
-  );
+  const progress = learningOverview(ids, state.learning);
+  const counts = [progress.unseen, progress.discovered, ...progress.stages];
+  const labels = [
+    "Ungesehen",
+    "Entdeckt",
+    "Stufe 1/4",
+    "Stufe 2/4",
+    "Stufe 3/4",
+    "Stufe 4/4",
+  ];
   return (
     <article className="topic-card">
       <div className="topic-art">
@@ -45,24 +52,24 @@ export function TopicCard({
       <div className="topic-body">
         <span className="eyebrow">{ids.length} Wissensziele</span>
         <h3>{genre ? genreLabel(topic) : topic}</h3>
-        <div className="mini-stats">
-          <span>
-            <b>{counts[0]}</b> entdeckt
-          </span>
-          <span>
-            <b>{counts[1]}</b> geübt
-          </span>
-          <span>
-            <b>{counts[2]}</b> gefestigt
-          </span>
+        <div
+          className="mini-stats learning-stage-counts"
+          aria-label="Wissensziele nach Lernstufe"
+        >
+          {labels.map((label, i) => (
+            <span key={label}>
+              <b>{counts[i]}</b> {label}
+            </span>
+          ))}
         </div>
         <progress
-          value={counts[2]}
-          max={ids.length}
-          aria-label={`${counts[2]} von ${ids.length} Wissenszielen gefestigt`}
+          value={progress.steps}
+          max={Math.max(1, progress.maximum)}
+          aria-label={`${progress.steps} von ${progress.maximum} Lernstufen erreicht`}
         />
         <p className="muted tiny">
-          Ziel: {ids.length} vorhandene Wissensziele festigen
+          {progress.percent.toLocaleString("de-DE")} % Lernfortschritt ·{" "}
+          {progress.mastered} von {ids.length} gefestigt
         </p>
         {onPlay && (
           <button className="text-button" onClick={onPlay}>

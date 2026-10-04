@@ -10,7 +10,13 @@ export function roundSummary(state: State, round: Round) {
     return event ? [event] : [];
   });
   const after = structuredClone(round.before);
-  for (const e of events) after[e.knowledgeId] = learn(after[e.knowledgeId], e);
+  const advanced = new Set<string>();
+  for (const e of events) {
+    const previous = after[e.knowledgeId];
+    const next = learn(previous, e);
+    if (next.stage > (previous?.stage ?? 0)) advanced.add(e.knowledgeId);
+    after[e.knowledgeId] = next;
+  }
   // Round order distinguishes immediate repeats started at the same test time.
   const earlierRounds = new Set(
     state.rounds
@@ -22,6 +28,11 @@ export function roundSummary(state: State, round: Round) {
   );
   const mistakesBefore = openMistakes(
     state.events.filter((e) => earlierRounds.has(e.roundId)),
+  );
+  const solvedBefore = new Set(
+    state.events
+      .filter((e) => earlierRounds.has(e.roundId) && e.correct && !e.guessed)
+      .map((e) => e.knowledgeId),
   );
   let streak = 0,
     bestStreak = 0;
@@ -57,6 +68,14 @@ export function roundSummary(state: State, round: Round) {
     correct,
     improved,
     secured,
+    advanced: advanced.size,
+    firstSolved: new Set(
+      events
+        .filter(
+          (e) => e.correct && !e.guessed && !solvedBefore.has(e.knowledgeId),
+        )
+        .map((e) => e.knowledgeId),
+    ).size,
     genres,
     bestStreak,
     accuracy: Math.round((100 * correct) / round.questions.length),

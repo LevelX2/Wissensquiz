@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Sichtbare Lernstufen, Wiederholungstermine, Zwischenfortschritt und sofortige Fehlerkorrektur – 04.10.2026](../../../docs/Lernfortschritt-2026-10-04.md)
+
 - [Vorab grün wirkende Antwort auf dem Handy: Hover-Ursache und lokale Korrektur](../../../docs/Hilfe-und-Navigation.md#neutrale-antworten-auf-touchgeräten--04102026)
 
 - [Bestätigte Fragenkorrekturen: Planet der Affen, Quellen und Schutz älterer Spiele](../../../docs/Fragenkorrekturen.md)
