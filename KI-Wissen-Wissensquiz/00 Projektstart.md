@@ -6,6 +6,8 @@ Stand: 04.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- Lokal am 04.10.2026 die Antworttöne kürzer und weicher abgestimmt: Treffer als heller, aufsteigender Zweiklang über 185 ms; Fehler als leiserer, tieferer und absteigender Zweiklang über 170 ms. Vorhandene Antwortfarben und übrige Signale erhalten. Physische Hörabnahme offen; noch nicht veröffentlicht. [Tonvertrag](../docs/Lernregeln.md#akustisches-und-haptisches-feedback).
+
 - Lokal am 04.10.2026 die Lösungsanzeige nach Spielart korrigiert: Filmreise/Fehlertraining immer direkt; 10 Fragen, Fehlerfrei, Zeitkonto und Freies Spiel nach Profiloption; neue Duelle immer gesammelt nach der eigenen Zehnerrunde. Gesammelte Anzeige startet nach dem Speichern automatisch weiter und öffnet am Ende den Rückblick. Bestehende Schnittstellen verwendet, keine Migration oder Veröffentlichung. [Zuordnung und Ablauf](../docs/Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026).
 
 - Lokal am 04.10.2026 25 frei lizenzierte Schauspielerporträts als Auflockerung nach der Antwort ergänzt, darunter Tom Hanks, Meryl Streep, Jackie Chan und Franka Potente. 200 vorhandene Personenfragen erhalten ein Foto; Bildnachweise sind direkt erreichbar und alle Bilder gehören zum Offline-Paket. Noch nicht veröffentlicht. [Anzeige, Bildrechte und Quellen](../docs/Schauspielerportraets.md).

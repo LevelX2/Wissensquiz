@@ -16,8 +16,8 @@ const tones: Record<FeedbackKind, number[]> = {
   click: [600],
   start: [392, 523],
   next: [440],
-  correct: [659, 880],
-  wrong: [277, 196],
+  correct: [659, 831],
+  wrong: [349, 294],
   reveal: [523, 659],
   timeout: [330, 262, 220],
   complete: [523, 659, 784],
@@ -138,7 +138,8 @@ export function playFeedback(kind: FeedbackKind, settings: State["settings"]) {
 
 function playTones(kind: FeedbackKind, audio: AudioContext) {
   try {
-    // Answers differ in register, direction and timbre, without a loud buzzer.
+    // Brief, soft answer tones: an ascending major third for success and a
+    // quieter descending pair for a miss, distinct by register and direction.
     const voice =
       kind === "click"
         ? {
@@ -150,16 +151,16 @@ function playTones(kind: FeedbackKind, audio: AudioContext) {
         : kind === "correct"
           ? {
               type: "sine" as OscillatorType,
-              spacing: 0.09,
-              duration: 0.16,
-              peak: 0.035,
+              spacing: 0.065,
+              duration: 0.12,
+              peak: 0.032,
             }
           : kind === "wrong"
             ? {
-                type: "triangle" as OscillatorType,
-                spacing: 0.085,
-                duration: 0.18,
-                peak: 0.024,
+                type: "sine" as OscillatorType,
+                spacing: 0.065,
+                duration: 0.105,
+                peak: 0.018,
               }
             : kind === "reveal"
               ? {

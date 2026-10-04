@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Kurze, weiche Antworttöne: Treffer 185 ms, Fehler leiser und 170 ms – 04.10.2026](../../../docs/Lernregeln.md#akustisches-und-haptisches-feedback)
+
 - [Korrigierte Lösungsanzeige: Zeitspiele und Freies Spiel wählbar, Lernmodi direkt, neue Duelle immer gesammelt](../../../docs/Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026)
 
 - [25 Schauspielerporträts nach der Antwort: Anzeige, Offlinebetrieb, Bildrechte und vollständige Nachweise](../../../docs/Schauspielerportraets.md)

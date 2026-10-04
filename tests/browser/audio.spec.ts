@@ -189,7 +189,7 @@ test("Klicksignale, verschiedene Antworttöne und gespeicherter Tonschalter im S
   const wrong = await respond(page, false);
   expect(wrong).toHaveLength(2);
   expect(wrong[1].frequency).toBeLessThan(wrong[0].frequency);
-  expect(wrong.every((note) => note.type === "triangle")).toBe(true);
+  expect(wrong.every((note) => note.type === "sine")).toBe(true);
   await page.getByRole("button", { name: "Soundeffekte ausschalten" }).click();
   const quiet = (await notes(page)).length;
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
