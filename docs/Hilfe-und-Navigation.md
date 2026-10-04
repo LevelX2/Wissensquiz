@@ -1,5 +1,17 @@
 # Navigation und Hilfe
 
+## Mobile Menüleiste am Bildschirmrand – 04.10.2026
+
+Auf [Nutzerwunsch](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerhinweis%20Menueleiste%20ganz%20unten.txt) bleibt die mobile Hauptnavigation fest am unteren Bildschirmrand. Sie endet mit ihrem Hintergrund an der Bildschirmkante; auf dem iPhone berücksichtigt sie die untere Sicherheitszone für den Home-Indikator. `viewport-fit=cover` aktiviert die vorhandenen Sicherheitsabstände. Der reservierte Platz am Seitenende wächst nun zusammen mit dieser Zone, damit der letzte Inhalt und „So funktioniert’s“ über der Leiste erreichbar bleiben. Der Seiteninhalt berücksichtigt zusätzlich die obere Sicherheitszone, die Schaltflächen auch seitliche Aussparungen. Während einer mobilen Quizfrage bleibt die Hauptnavigation wie bisher ausgeblendet.
+
+Die Ausgangsmessung bestätigte bereits die feste Position am sichtbaren Browserrand. Ein Ganzseiten-Screenshot stellt zusätzlich den außerhalb dieses Ausschnitts liegenden Seiteninhalt dar und kann die Leiste deshalb oberhalb des Bildendes zeigen. Positionsprüfungen und visuelle Abnahme verwenden dafür den tatsächlichen Bildschirmausschnitt. Lokale Umsetzung; [Prüfnachweis](Pruefbericht.md).
+
+## Vereinfachte Spielen-Seite – 04.10.2026
+
+Auf [Nutzerwunsch](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerhinweis%20einfache%20Spielen-Seite.txt) entfällt der grüne Kasten „Jede Entdeckung ist ein Anfang.“ einschließlich der Zahlen für entdeckte und gefestigte Wissensziele, abgeschlossene Runden und des zusätzlichen Sammlungszugangs. Unter der Rundenvorbereitung steht nur eine kleine, ungefüllte Bestandszeile: „6.277 Fragen in 14 Gebieten“ beim aktuellen offiziellen Bestand. Die Zahlen werden aus allen vorhandenen Fragen berechnet; Gebiete entsprechen den Filmgenres sowie den eigenständigen Bereichen Schauspieler und Preisträger. Die Zeile ist unabhängig von Lernfortschritt und Rundenfiltern.
+
+Die bisherigen Bezeichnungen „importierte Fragen“, „Wissensziele“, „Demo-Fragen“ und „Details unter Profil → Optionen“ entfallen aus dieser Bestandsanzeige. Sammlung und Profil bleiben über die Hauptnavigation erreichbar. Die Änderung ist zunächst lokal umgesetzt; [Prüfnachweis](Pruefbericht.md).
+
 Der einheitliche Antwortablauf mit vier sichtbaren Möglichkeiten für 1,1 Sekunden ist seit Sites-Version 49 vom 03.10.2026 veröffentlicht. Die folgenden lokalen Ergänzungen sind damit produktiv. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-49-einheitliche-antwortauflösung-für-11-sekunden).
 
 ## Spielkacheln und Rekordauswahl – 03.10.2026

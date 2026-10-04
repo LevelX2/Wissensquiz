@@ -625,7 +625,6 @@ export function App({
                   resume={resume}
                   toggleGenre={toggleGenre}
                   selectedCategories={selectedCategories}
-                  setPage={setPage}
                 />
               )}
               {page === "topics" && (

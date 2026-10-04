@@ -205,33 +205,11 @@ textarea {
   font-size: 12px;
   margin: 0;
 }
-.journey-strip {
-  border: 1px solid #343a36;
-  border-radius: 11px;
-  background: #e5eee6;
-  display: flex;
-  align-items: center;
-  gap: 19px;
-  padding: 22px;
-}
-.journey-icon {
+.question-stock {
+  margin: 18px 0 0;
   color: #4c5b60;
-  font-size: 37px;
-}
-.journey-strip h3 {
-  font-size: 13px;
-  margin-bottom: 5px;
-}
-.journey-strip p {
-  margin: 0;
-  color: #4c5b60;
-  font-size: 11px;
-}
-.journey-strip > .text-button {
-  margin-left: auto;
-  white-space: nowrap;
-  color: #4c5b60;
-  font-size: 11px;
+  font-size: 12px;
+  line-height: 1.5;
 }
 
 .round-setup > .quiz-filters {

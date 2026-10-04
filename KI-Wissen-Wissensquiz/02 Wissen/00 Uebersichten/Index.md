@@ -96,7 +96,7 @@
 - [Preisträger- und Schauspielerillustrationen: Originalprompts, Dateien und Prüfung](../../../docs/Kategorie-Illustrationen.json)
 - [Genre- und Spielmodusillustrationen mit Duellmotiv, Kino-Kulisse und Prompts](../../../docs/Genreillustrationen.md)
 
-- [Kompakte Startseite mit Auswahlklappen, Navigation, Highscores und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
+- [Kompakte Spielen-Seite, Fragen-/Gebietszeile, mobile Menüleiste am Bildschirmrand, Navigation und Hilfe „So funktioniert’s“](../../../docs/Hilfe-und-Navigation.md)
 - [Nutzerhinweis: nur die gewählte Startmoduskachel anzeigen](../../01%20Rohquellen/2026-10-03%20Nutzerhinweis%20einzelne%20Startmoduskachel.txt)
 
 

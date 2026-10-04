@@ -9,7 +9,7 @@ import { hasPackage, packages } from "./packages";
 import { matchesTopic } from "./categories";
 import { matchesFilters } from "./filters";
 import { selectQuestions } from "./engine";
-import { pathQuestions } from "./learningPath";
+import { pathAreaOf, pathQuestions } from "./learningPath";
 import { discoveryContext } from "./discovery";
 import { errorTrainingContext } from "./errorTraining";
 import { useForegroundTime } from "./useForegroundTime";
@@ -30,7 +30,7 @@ import { LearningPath } from "./LearningPathPanel";
 import type { QuestionSource } from "./model";
 import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { modeNames } from "./gameUi";
-import { useRef, useState, type Dispatch, type SetStateAction } from "react";
+import { useRef, useState } from "react";
 
 export function PlaySetup({
   mode,
@@ -54,7 +54,6 @@ export function PlaySetup({
   resume,
   toggleGenre,
   selectedCategories,
-  setPage,
 }: {
   mode: Mode;
   playGroup: PlayGroup;
@@ -84,7 +83,6 @@ export function PlaySetup({
   selectedCategories: (
     "Classics" | "Arthouse" | "Preisträger" | "Schauspieler"
   )[];
-  setPage: Dispatch<SetStateAction<Page | "duels">>;
 }) {
   const modePanel = useRef<HTMLDetailsElement>(null);
   const [selectionOpen, setSelectionOpen] = useState(false);
@@ -111,9 +109,7 @@ export function PlaySetup({
       .filter((q) => matchesTopic(q, roundTopic) && matchesFilters(q, filters))
       .map((q) => q.knowledgeId),
   ).size;
-  const mastered = Object.values(state.learning).filter(
-    (p) => p.status === "gefestigt",
-  ).length;
+  const areaCount = new Set(state.questions.map(pathAreaOf)).size;
   const now = useForegroundTime();
   const selection = selectQuestions(
     selectable,
@@ -586,23 +582,10 @@ export function PlaySetup({
           </>
         )}
       </section>
-      <section className="journey-strip">
-        <span className="journey-icon">✺</span>
-        <div>
-          <h3>Jede Entdeckung ist ein Anfang.</h3>
-          <p>
-            {Object.keys(state.learning).length} Wissensziele entdeckt ·{" "}
-            {mastered} gefestigt · {completed.length} Runden abgeschlossen
-          </p>
-        </div>
-        <button className="text-button" onClick={() => setPage("album")}>
-          Deine Sammlung <span>↗</span>
-        </button>
-      </section>
-      <p className="demo-label">
-        {state.questions.every((q) => q.demo)
-          ? "TESTAUSGABE · Gekennzeichnete Demo-Fragen zu Filmhandwerk und Science-Fiction-Ideen."
-          : `${state.questions.filter((q) => !q.demo).length} importierte Fragen · ${new Set(state.questions.map((q) => q.knowledgeId)).size} Wissensziele · ${state.questions.filter((q) => q.demo).length} Demo-Fragen. Details unter Profil → Optionen.`}
+      <p className="question-stock">
+        {state.questions.length.toLocaleString("de-DE")}{" "}
+        {state.questions.length === 1 ? "Frage" : "Fragen"} in {areaCount}{" "}
+        {areaCount === 1 ? "Gebiet" : "Gebieten"}
       </p>
     </>
   );

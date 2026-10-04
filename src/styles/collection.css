@@ -114,13 +114,6 @@
 .topic-body .text-button span {
   float: right;
 }
-.demo-label {
-  font-size: 10px;
-  color: #4c5b60;
-  border-top: 1px solid #303335;
-  padding-top: 18px;
-  line-height: 1.8;
-}
 footer {
   padding: 25px 5.2%;
   display: flex;
