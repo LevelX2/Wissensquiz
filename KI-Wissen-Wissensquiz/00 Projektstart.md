@@ -4,6 +4,8 @@ Stand: 04.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- Lokal am 04.10.2026 auf Nutzerwunsch die Lernstufe ganz ans Ende der Antwortauflösung und des unmittelbaren Rundenrückblicks verschoben: hinter Erklärung, Vertiefungen, Merksatz, Quellen und Ratehinweisen. 339 Tests, Build und acht gezielte Browserfälle erfolgreich; noch nicht veröffentlicht. [Anordnung und Prüfung](../docs/Lernfortschritt-2026-10-04.md#implementierung-und-grenzen).
+
 - Bestandsredaktion am 04.10.2026: erster Block mit 21 bestehenden Fragen lokal auf main überarbeitet. Alle zehn bestätigten starken Lösungshinweise, Thelma-&-Louise-Auswahl und sechs konkrete Vertiefungsschwächen behoben; passende Darstellerangaben und Varianten gepflegt. 339 Tests/57 Dateien, Build und Quellen-/Katalogprüfung erfolgreich. Weiterhin 6.277 Fragen/5.734 Ziele; weitere Preis-, Jahr-/Regie- und ältere Film-/Personentexte offen. Noch nicht veröffentlicht. [Block und Grenzen](../docs/Fragenkorrekturen.md#bestandsredaktion-block-1--04102026).
 - Redaktionell am 04.10.2026 mit drei Subagenten 40 zusätzliche Filmblöcke und 320 Fragen erstellt: zwei eigenständige Inhalte je leicht/mittel/schwer plus Jahr und Regie. 316 neue globale Ziele, vier Bestandsvarianten; Filmdaten und Bekanntheiten separat. Zentrale Redaktion, Quellenstichproben, vollständiges Rücklesen und isolierte App-Parser-Prüfung erfolgreich. Noch nicht in die App eingebunden. [Fragenlesefassung](../docs/Filmfragen-Ergaenzung-2026-10-04/Fragenlesefassung.md), [Lieferung und Prüfung](../docs/Filmfragen-Ergaenzung-2026-10-04/Pruefbericht.md).
 

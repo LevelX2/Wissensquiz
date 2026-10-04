@@ -62,6 +62,8 @@ Eine einmal erreichte Festigung bleibt bei weiteren sicheren Antworten erhalten;
 
 ## Sichtbare Lernstufen – 04.10.2026
 
+Lokale Anordnungspräzisierung auf Nutzerwunsch: Die Lernstufe steht ganz am Ende der Antwortauflösung, nach Erklärung, Vertiefungen, Filmdaten, Merksatz, Quellen und gegebenenfalls dem Ratehinweis. Danach folgen die Weiter-/Abschlussaktionen. Im unmittelbaren Rundenrückblick steht die Lernstufe ebenfalls zuletzt unter dem jeweiligen Antwortinhalt. [Nutzerhinweis](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerhinweis%20Lernstufe%20am%20Ende.txt).
+
 Lokal auf bestätigten Nutzerauftrag umgesetzt: Nach der Antwortauflösung und im unmittelbaren Rundenrückblick zeigt jedes Wissensziel seine Lernstufe 0–4, vier gefüllte/ungefüllte Schritte und den nächsten möglichen Lerntermin mit Abstand und Datum/Uhrzeit. Bei früher Wiederholung oder ausgeschöpfter Tagesgrenze wird erklärt, warum die Stufe gleich bleibt. Die Anzeige berücksichtigt die Tagesgrenze auch nach einem Fehler und einer sicheren Korrektur am selben Tag: frühestens der nächste lokale Kalendertag statt einer bereits abgelaufenen Zehn-Minuten-Fälligkeit. Gesammelte Lösungen zeigen diesen Lernhinweis erst im Rückblick.
 
 Fehlerpool und Lernstufen bleiben getrennt. Ein sicherer Treffer entfernt das Wissensziel sofort aus dem Fehlertraining, auch wenn die Tagesgrenze seine Lernstufe noch bei 0 hält. Die Antwortanzeige bestätigt die Fehlerkorrektur ausdrücklich; geratene Treffer entfernen vorhandene Fehler nicht. Ein späterer Fehler nimmt das Ziel wieder auf. Die Wiederholungsvarianten teilen weiterhin dieselbe `knowledgeId`.

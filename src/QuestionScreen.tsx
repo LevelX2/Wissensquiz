@@ -481,11 +481,6 @@ export function QuestionScreen({
                     </strong>
                   </p>
                 )}
-                <LearningProgress
-                  events={state.events}
-                  event={event}
-                  now={Date.now()}
-                />
                 <Explanation q={q} event={event} />
                 {event.guessed && (
                   <p className="tiny muted">
@@ -493,6 +488,11 @@ export function QuestionScreen({
                     wieder.
                   </p>
                 )}
+                <LearningProgress
+                  events={state.events}
+                  event={event}
+                  now={Date.now()}
+                />
               </>
             )}
           </div>

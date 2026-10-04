@@ -1,6 +1,6 @@
 # Sichtbarer Lernfortschritt
 
-Stand: 04.10.2026, mit Sites-Version 52 veröffentlicht.
+Stand: 04.10.2026. Grundfunktion mit Sites-Version 52 veröffentlicht; die folgende Anordnungspräzisierung ist lokal umgesetzt und noch nicht veröffentlicht.
 
 ## Anlass und Entscheidung
 
@@ -15,6 +15,8 @@ Der Nutzer konnte Fehlerpool und langfristige Festigung nicht klar unterscheiden
 - Die Sieben-Tage-Grenze zählt ab dem letzten Stufenaufstieg. Tag 0→1→4→11 festigt auch dann, wenn an Tag 10 zusätzlich sicher wiederholt wurde. Tagesgrenzen, Fehler-/Rate-Rücksetzung und die vier Intervalle bleiben erhalten.
 
 ## Implementierung und Grenzen
+
+Auf [Nutzerhinweis](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerhinweis%20Lernstufe%20am%20Ende.txt) steht die Lernstufe nun ganz am Ende der Antwortauflösung: hinter Erklärung, Vertiefungen, Filmdaten, Merksatz, Quellen und einem eventuellen Ratehinweis, unmittelbar vor den Weiter-/Abschlussaktionen. Dieselbe Reihenfolge gilt im unmittelbaren Rundenrückblick. Es wird ausschließlich die Anordnung verändert.
 
 Die vorhandenen Ereignisse, `stage`, `lastSecure`, `due` und `lastAdvancedDay` reichen aus. Keine neue Speicherung, Migration, Abhängigkeit oder Kompatibilitätslogik. Die normale Neuberechnung verwendet die korrigierte Lernregel auch für vorhandene Ereignisse und deren Lern-XP. Technische Zähler beziehen sich auf eindeutige Wissensziele; Varianten erzeugen keinen zusätzlichen Fortschritt. Der Balken misst erreichte App-Lernstufen und keine diagnostische Wissenssicherheit. Eine falsche oder geratene Antwort kann ihn entsprechend der vorhandenen Rücksetzungsregel verringern.
 

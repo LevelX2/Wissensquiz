@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 04.10.2026 – Lernstufe am Ende der Antwortauflösung
+
+Auf Nutzerwunsch die Lernstufenanzeige hinter Erklärung, Vertiefungen, Filmdaten, Merksatz, Quellen und gegebenenfalls Ratehinweisen angeordnet. Dasselbe gilt für den unmittelbaren Rundenrückblick. Nur die Reihenfolge geändert; Lernregeln und Antwortauflösung unverändert.
+
+**339 Tests in 57 Dateien**, TypeScript und Produktionsbuild sowie alle **acht gezielten Browserfälle** erfolgreich (vier Chromium, vier WebKit/iPhone-Profil): Lernstufen/Rückblick, gesammelte Lösungen, 320/390-Pixel-Ansichten mit erreichbarer Weiter-Aktion, Details, Neuladen, Offline-Fortsetzen und bestehende Axe-/Überlaufprüfungen. Gegen eingefrorenen Build auf eigenem Port geprüft. Aktuelle Antwortansichten in beiden Browsern visuell geprüft. Isolierte Profile, kontrollierte Zeit und synthetische Kontodienste; keine echten Nutzerdaten verändert. Alle 14 testbedingt geänderten Importberichte nach Vergleich ohne Zeitstempel bytegleich auf den vorgefundenen Stand zurückgeführt. 135 relative Dokumentlinks und Diff erfolgreich geprüft. Lokal auf main abgeschlossen; noch nicht veröffentlicht. [Anordnung](Lernfortschritt-2026-10-04.md#implementierung-und-grenzen).
+
 ## 04.10.2026 – Bestandsredaktion, Block 1 lokal geprüft
 
 21 bestehende Fragen redigiert, davon 17 CSV-Zeilen und vier vorhandene Personen-Anzeigen. Alle zehn bestätigten starken Antwortnamen-/Titelhinweise und die Thelma-&-Louise-Auswahl behoben; sechs konkrete Deep-Dive-Schwächen sowie passende Varianten überarbeitet. Darstellerkontext unterstützt die Handlung, gesuchte Schauspieler bleiben vor der Antwort verborgen. Zwei Preisfragen erhalten zeitgenössische Mitnominierte als Ablenker. [Redaktion und Grenzen](Fragenkorrekturen.md#bestandsredaktion-block-1--04102026), [21 vollständige Änderungsnachweise](Bestandsredaktion-2026-10-04/Block-01.json).

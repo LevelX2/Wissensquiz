@@ -329,13 +329,13 @@ export function Result({
                   <strong>Lösung:</strong>{" "}
                   {q.answers.find((a) => a.id === q.correctId)?.text}
                 </p>
+                <Explanation q={q} event={e} />
+                {e.guessed && <p className="muted">Als geraten markiert.</p>}
                 <LearningProgress
                   events={state.events}
                   event={e}
                   now={Date.now()}
                 />
-                <Explanation q={q} event={e} />
-                {e.guessed && <p className="muted">Als geraten markiert.</p>}
               </details>
             )
           );
