@@ -20,6 +20,14 @@ Alle 800 Vertiefungen wurden einzeln ergänzt. Die aktuelle Lesefassung enthält
 
 Bestehende Film-Eckdaten werden wiederverwendet und haben Vorrang; 382 zusätzliche Datensätze ergänzen bisher fehlende Filme. Die Quellenprüfung dokumentiert Abrufdatum, HTML-Hash und gelesene Eckdaten. Besondere Jahresfälle unterscheiden etwa Magnolias begrenzten Start 1999 vom breiten Start 2000 sowie die Festivalpremiere von „Nach Fünf im Urwald“ 1995 vom Kinostart 1996. Daraus entstehen keine weiteren Jahres- oder Regiefragen.
 
+## Black-Panther-Reihe: Basisdatenkorrektur
+
+Am 04.10.2026 anhand eines Nutzer-Screenshots und der lokalen Daten geprüft: Die Frage `SCHAUSPIELER-202610-P01-090-L-1` verknüpft korrekt beide Filme `Black Panther|2018` und `Black Panther: Wakanda Forever|2022`. Ihre Vertiefung wechselt ausdrücklich zur Fortsetzung. Die darunter zuerst angezeigten Filmdaten von 2018 sind daher keine falsche Filmzuordnung; der zweite Datenblock folgt im selben Abschnitt.
+
+Beide Einträge in `src/actorFilmFacts.json` enthielten `series: null`. Deshalb zeigte `src/FilmDataPanel.tsx` „Keine Reihe hinterlegt“. Diese Datenlücke ist auf Nutzerauftrag am 04.10.2026 lokal korrigiert: Black-Panther-Reihe, Teil 1 für 2018 und Teil 2 für 2022; die Teilposition bezieht sich auf diese Reihe, nicht auf sämtliche MCU-Filme. Die beiden Datensätze enthalten ergänzende offizielle Quellen: [Marvel bestätigt die Fortsetzung](https://www.marvel.com/articles/movies/black-panther-wakanda-forever-title), [Disney bestätigt Erscheinungsjahr 2022 und Handlung nach T’Challas Tod](https://movies.disney.com/black-panther-wakanda-forever).
+
+Umfang nach Nutzerpräzisierung: ausschließlich zwei Film-Basisdatensätze und ihre Quellen. Keine Migration oder Bearbeitung laufender Spiele und keine Änderung am Recherchewerkzeug. Die bestehende Filmdatenanzeige übernimmt die ergänzte Reihe. Die Korrektur ist noch nicht veröffentlicht; der veröffentlichte Stand bleibt Version 51. [Lokaler Prüfnachweis](Pruefbericht.md).
+
 ## Erhalt und Nachweise
 
 Die Redaktion wird anhand Frage-ID, Personen-ID sowie ursprünglichem Frage- und Vertiefungstext rein für die Anzeige aufgelöst. CSV, Rohquellen, Frageversionen, Wissensergebnisse und Rundensnapshots bleiben erhalten. Alte gespeicherte Runden zeigen ebenfalls die verbesserte Redaktion; eigene Fragen mit wiederverwendeter ID und abweichendem Inhalt bleiben unangetastet. Das logische Sicherungsformat bleibt Schema 1.

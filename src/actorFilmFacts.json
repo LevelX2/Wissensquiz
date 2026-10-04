@@ -815,11 +815,18 @@
     "productionCountries": [
       "USA"
     ],
-    "series": null,
+    "series": {
+      "name": "Black-Panther-Reihe",
+      "position": 2,
+      "note": "Reihenfolge der veröffentlichten Black-Panther-Kinofilme."
+    },
     "releaseNote": "",
     "directorNote": "",
     "source": "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever",
-    "additionalSources": [],
+    "additionalSources": [
+      "https://www.marvel.com/articles/movies/black-panther-wakanda-forever-title",
+      "https://movies.disney.com/black-panther-wakanda-forever"
+    ],
     "directorContext": "",
     "checkedOn": "2026-10-03",
     "releaseEvidence": "October | 26, | 2022 | ( | 2022-10-26 | ) | ( | Hollywood, Los Angeles | ) | November | 11, | 2022 | ( | 2022-11-11 | ) | (United States)",
@@ -837,11 +844,17 @@
     "productionCountries": [
       "USA"
     ],
-    "series": null,
+    "series": {
+      "name": "Black-Panther-Reihe",
+      "position": 1,
+      "note": "Reihenfolge der veröffentlichten Black-Panther-Kinofilme."
+    },
     "releaseNote": "",
     "directorNote": "",
     "source": "https://en.wikipedia.org/wiki/Black_Panther_(film)",
-    "additionalSources": [],
+    "additionalSources": [
+      "https://www.marvel.com/articles/movies/black-panther-wakanda-forever-title"
+    ],
     "directorContext": "",
     "checkedOn": "2026-10-03",
     "releaseEvidence": "January | 29, | 2018 | ( | 2018-01-29 | ) | ( | Dolby Theatre | ) | February | 16, | 2018 | ( | 2018-02-16 | ) | (United States)",

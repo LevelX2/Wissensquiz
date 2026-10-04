@@ -31,7 +31,7 @@
 - [Optimierungsvorschläge für Speicher und Synchronisierung: gemeinsame Kataloge, Änderungsübertragung und Ranglistenprojektionen](../../../docs/Speicher-und-Sync-Optimierung.md)
 
 - [Strukturprüfung vom 03.10.2026: Modulgrenzen, Kontosicherung und priorisierte Verbesserungen](../../../docs/Strukturpruefung-2026-10-03.md)
-- [Schauspieler und Preisträger in der Filmreise, vollständige Namen, Vertiefungen und Filmverweise](../../../docs/Filmreise-Personen-und-Vertiefungen.md)
+- [Schauspieler und Preisträger in der Filmreise, vollständige Namen, Vertiefungen und Filmverweise; lokale Basisdatenkorrektur der Black-Panther-Reihe](../../../docs/Filmreise-Personen-und-Vertiefungen.md)
 
 - [Fragedatenorganisation: getrennter lokaler Katalog, verlustfreie Metadatenverweise und schnellere Zuordnungen](../../../docs/Fragedaten-Organisation.md)
 - [Struktur- und Größenprüfung aller Fragenpakete](../../../docs/Fragedaten-Pruefung.json)
