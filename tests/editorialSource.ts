@@ -12,7 +12,7 @@ export type EditorialChange = {
   knowledgeId: string;
   before: Row;
   after: Row;
-  checkedSources: { url: string; supports: string }[];
+  checkedSources?: { url: string; supports: string }[];
 };
 export const editorialRevisions = index.blocks.map(
   (file) =>
@@ -31,7 +31,10 @@ export const editorialCsvIds = (file?: string) => [
       .map((entry) => entry.id),
   ),
 ];
-export const latestCsvRevision = (file: string, id: string) =>
+export const latestCsvRevision = (
+  file: string,
+  id: string,
+): EditorialChange | undefined =>
   csvChanges.filter((entry) => entry.file === file && entry.id === id).at(-1);
 
 // Verify editorial exceptions against their complete documented rows. All other

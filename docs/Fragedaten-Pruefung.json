@@ -1,7 +1,7 @@
 {
   "format": "question-organization-audit-v2",
   "scope": "Öffentliche App-Pakete, Kategoriezuordnungen und generierte Filmfragen; keine Spielerdaten. Größen sind UTF-8-JSON-Nutzdaten, keine Messung der Browser-Speicherquote.",
-  "catalogSha256": "c01231ef3dcc7e8f5784b68cf02ad1f3c7b2ecb82aed1d2bebbcb3afd05d4120",
+  "catalogSha256": "dbe751096dafc1066809c5ceebe8c44880649b2577f13ae3e01dedfbf5e47b14",
   "counts": {
     "packages": 19,
     "questions": 6277,
@@ -11,8 +11,8 @@
     "generatedFilmQuestions": 837
   },
   "checks": {
-    "originalCsvSourcesByteIdentical": 6,
-    "editoriallyChangedRowsVerified": 218,
+    "originalCsvSourcesByteIdentical": 3,
+    "editoriallyChangedRowsVerified": 238,
     "derivedActorPackagesSourceAndCsvHashesVerified": 2,
     "rejectedImports": 0,
     "duplicateImports": 0,
@@ -21,9 +21,9 @@
   },
   "localCatalog": {
     "encoding": "json-field-refs-v1",
-    "fullJsonBytes": 19757413,
-    "compactJsonBytes": 14537530,
-    "savedBytes": 5219883,
+    "fullJsonBytes": 19760358,
+    "compactJsonBytes": 14538954,
+    "savedBytes": 5221404,
     "savedPercent": 26.42,
     "referencedMetadataValues": 91815
   },

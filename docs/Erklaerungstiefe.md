@@ -4,6 +4,10 @@
 
 „Etwas tiefer eintauchen“ soll über die kurze Lösung hinausgehen. Figuren, die in Frage, Lösung oder Vertiefung im Mittelpunkt stehen, werden mit ihren Darstellern verbunden. Ergänzungen bleiben knapp und beziehen sich auf den jeweiligen Film und das Erscheinungsjahr. Reine Orts-, Technik-, Kreaturen- oder Regiefragen erhalten keine beliebige komplette Besetzungsliste.
 
+## Überarbeitung, Block 3 – 04.10.2026
+
+73 Bestandsfragen gezielt geprüft, 60 überarbeitet und 13 brauchbare Texte erhalten. 19 Filmzeilen, 41 vorhandene Schauspieler-Anzeigetexte und eine zusätzlich korrigierte Altersphasen-Auswahl; die Foster-Frage zählt in beiden Änderungsarten, in der Fragenzahl einmal. Konkrete Handlungsschritte, Casting- und Namensgeschichten ersetzen allgemeine Karriere-/Imagehinweise. Figuren stehen bei ihren Darstellern; englische Originalstimmen sind ausdrücklich benannt. 340 Tests in 57 Dateien, TypeScript, Build und vollständige Quellen-/Katalogprüfung erfolgreich. Weiterhin 6.277 Fragen / 5.734 Ziele / 543 Varianten; 238 dokumentierte CSV-Zeilenabweichungen. Kein vollständiger neuer Faktencheck aller älteren Texte behauptet. Lokal auf main abgeschlossen; noch nicht veröffentlicht. Die Auswahl folgt Abstraktions- und Wiederholungshinweisen, nicht einer Mindestwortzahl. Das konkrete kurze Dracula-Produktionsbeispiel bleibt erhalten. [Einzelnachweise und Prüfgrenzen](Bestandsredaktion-2026-10-04/Block-03.json).
+
 ## Überarbeitung, Block 2 – 04.10.2026
 
 Alle 200 Preisfragen geprüft: 198 überarbeitet, zwei gute Block-1-Fragen erhalten. Individuelle Handlungs-, Besetzungs- und Produktionsgeschichten ersetzen allgemeine Schlussbausteine. Filmjahr und Preisjahr getrennt; Hauptjury-/Kategorieabgrenzungen präzisiert, historische Drehbuchkategorie berichtigt, falsche Optionen und Rückmeldungen verbessert. Vier Stufen mit je 50 Fragen, IDs, Wissensziele, richtige Antworten und Lösungsschlüssel erhalten.

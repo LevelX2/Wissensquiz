@@ -18,6 +18,11 @@ import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
 import source from "../docs/Schauspieler-Fragenpaket/Schauspieler_100_Personen_800_Fragen.json";
 import links from "../src/actorKnowledgeLinks.json";
 import proof from "../docs/importbericht-schauspieler.json";
+import {
+  assertEditorialSource,
+  editorialCsvIds,
+  latestCsvRevision,
+} from "./editorialSource";
 
 const contents = packages.map((pkg) => ({
   filename: pkg.filename,
@@ -26,7 +31,9 @@ const contents = packages.map((pkg) => ({
 const actorPackage = contents.find(
   (pkg) => pkg.filename === "Schauspieler_800_Fragen_App.csv",
 )!;
-const baseContents = contents.filter((pkg) => !pkg.filename.startsWith("Schauspieler_"));
+const baseContents = contents.filter(
+  (pkg) => !pkg.filename.startsWith("Schauspieler_"),
+);
 const base = emptyState();
 addPackages(base, baseContents);
 const imported = importCsv(
@@ -36,7 +43,7 @@ const imported = importCsv(
 );
 const now = Date.parse("2026-10-03T12:00:00+02:00");
 
-it("übernimmt alle 800 individuellen Fragen unverändert mit 100 Personen und vier Stufen", () => {
+it("übernimmt alle 800 Fragen mit genau dokumentierter Redaktion, 100 Personen und vier Stufen", () => {
   expect(imported.report).toMatchObject({
     accepted: 800,
     rejected: 0,
@@ -44,12 +51,17 @@ it("übernimmt alle 800 individuellen Fragen unverändert mit 100 Personen und v
     warnings: [],
     issues: [],
   });
-  expect(Buffer.from(actorPackage.text)).toEqual(
-    readFileSync(
-      `KI-Wissen-Wissensquiz/01 Rohquellen/${actorPackage.filename}`,
-    ),
+  const raw = readFileSync(
+    `KI-Wissen-Wissensquiz/01 Rohquellen/${actorPackage.filename}`,
   );
-  expect(createHash("sha256").update(actorPackage.text).digest("hex")).toBe(
+  expect(
+    assertEditorialSource(
+      actorPackage.text,
+      raw.toString("utf8"),
+      "public/schauspieler-fragen.csv",
+    ).changes.sort(),
+  ).toEqual(editorialCsvIds("public/schauspieler-fragen.csv").sort());
+  expect(createHash("sha256").update(raw).digest("hex")).toBe(
     proof.app_csv_sha256,
   );
   const persons = new Set(imported.questions.map((q) => q.metadata.person_id));
@@ -66,9 +78,14 @@ it("übernimmt alle 800 individuellen Fragen unverändert mit 100 Personen und v
     const q = imported.questions.find((q) => q.id === original.question_id)!;
     expect(q.question).toBe(original.question);
     expect(q.context).toBe(original.additional_info);
-    expect(q.sources).toEqual(original.source_urls);
+    const edited = latestCsvRevision("public/schauspieler-fragen.csv", q.id);
+    expect(q.sources).toEqual(
+      edited ? edited.after.source_urls.split("|") : original.source_urls,
+    );
     expect(q.answers.map((a) => a.text)).toEqual(
-      original.answers.map((a) => a.text),
+      edited
+        ? ["a", "b", "c", "d"].map((letter) => edited.after[`answer_${letter}`])
+        : original.answers.map((a) => a.text),
     );
     expect(q.answers.find((a) => a.id === q.correctId)!.text).toBe(
       original.answers.find((a) => a.id === original.correct_answer)!.text,

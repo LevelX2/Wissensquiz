@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Bestandsredaktion, Block 3: 60 ältere Fragen konkretisiert, 13 gute Texte erhalten](../../../docs/Fragenkorrekturen.md#bestandsredaktion-block-3--04102026)
+- [Block 3: Texte, Quellen und Prüfgrenzen](../../../docs/Bestandsredaktion-2026-10-04/Block-03.json)
+
 - [Bestandsredaktion, Block 2: alle 200 Preisfragen geprüft, 198 individuell überarbeitet](../../../docs/Fragenkorrekturen.md#bestandsredaktion-block-2--04102026)
 - [Block 2: Vorher/Nachher, Quellen und Prüfungen](../../../docs/Bestandsredaktion-2026-10-04/Block-02.json)
 

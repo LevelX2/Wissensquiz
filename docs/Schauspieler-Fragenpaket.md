@@ -1,5 +1,7 @@
 # Schauspieler: 1.400 Fragen für 175 Personen
 
+04.10.2026 – **Gezielte Bestandsredaktion:** 53 ältere Personenfragen vollständig gelesen; 41 Anzeigetexte konkretisiert, zwölf erhalten. Fosters sachfremde Ablenker durch vergleichbare Altersphasen ersetzt. Ursprungstexte und native Lieferung erhalten, vorhandene Anzeige-Schlüssel unverändert. 340 Tests in 57 Dateien, TypeScript, Build und vollständige Quellen-/Katalogprüfung erfolgreich. Weiterhin 6.277 Fragen / 5.734 Ziele / 543 Varianten; 238 dokumentierte CSV-Zeilenabweichungen. Kein vollständiger neuer Faktencheck aller älteren Texte behauptet. Lokal auf main abgeschlossen; noch nicht veröffentlicht. [Einzelnachweise](Bestandsredaktion-2026-10-04/Block-03.json).
+
 Veröffentlicht als **Sites-Version 43** am 03.10.2026. Aktueller Integrationsstand: [P02 mit 200 Fragen für 25 weitere Personen](Schauspieler-200-Ergaenzung.md) und [P03 mit 400 Fragen für 50 weitere Personen](Schauspieler-400-Ergaenzung.md) sind vollständig in der App spielbar. Der Personenbestand umfasst **1.400 Fragen für 175 Personen**, je zwei pro Person und Stufe. Namen, Erkennungsfragen, Vertiefungen und Film-Eckdaten beachten den bestehenden Anzeigevertrag. 13 Varianten teilen bestätigte Bestandsziele. Alte Fragen, Antworten und Lernstände werden erhalten. [Ableitung und Prüfsummen](Schauspieler-Ergaenzungen-Integration.json), [Finale](Gesamtintegration-2026-10-03.md).
 
 ## Bisheriges 800er-Paket und seine Veröffentlichungen

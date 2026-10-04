@@ -2,6 +2,12 @@
 
 Die drei Korrekturen sind seit Sites-Version 52 (04.10.2026) veröffentlicht, auch im öffentlichen Katalog für neue Duelle. Laufende Duellsnapshots bleiben erhalten. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-52-gesamter-main-stand-mit-sichtbarem-lernfortschritt).
 
+## Bestandsredaktion, Block 3 – 04.10.2026
+
+73 Bestandsfragen gezielt geprüft, 60 überarbeitet und 13 brauchbare Texte erhalten. 19 Filmzeilen, 41 vorhandene Schauspieler-Anzeigetexte und eine zusätzlich korrigierte Altersphasen-Auswahl; die Foster-Frage zählt in beiden Änderungsarten, in der Fragenzahl einmal. Konkrete Handlungsschritte, Casting- und Namensgeschichten ersetzen allgemeine Karriere-/Imagehinweise. Figuren stehen bei ihren Darstellern; englische Originalstimmen sind ausdrücklich benannt.
+
+Beispiele sind der Altartrick in „Freitag der 13. – Teil 2“, die Vertuschung in „Scream“, das vergessene Kind in „Kevin – Allein zu Haus“, die Entwicklung des Sorgerechtskonflikts in „Kramer gegen Kramer“ und Michael Caines Namenswahl anhand eines Kinoplakats. Mistral Airs Gründung 1981 wurde an der offiziellen Unternehmensgeschichte statt der abweichenden Biografieangabe geprüft. Vier vorhandene Besetzungsprüfungen nachgeführt, doppelte Zusätze entfernt. 340 Tests in 57 Dateien, TypeScript, Build und vollständige Quellen-/Katalogprüfung erfolgreich. Weiterhin 6.277 Fragen / 5.734 Ziele / 543 Varianten; 238 dokumentierte CSV-Zeilenabweichungen. Kein vollständiger neuer Faktencheck aller älteren Texte behauptet. Lokal auf main abgeschlossen; noch nicht veröffentlicht. [Vollständige Vorher-/Nachher-Texte, Quellen und erhaltene Fragen](Bestandsredaktion-2026-10-04/Block-03.json).
+
 ## Bestandsredaktion, Block 2 – 04.10.2026
 
 Alle 200 Preisfragen geprüft: 198 überarbeitet, zwei gute Block-1-Fragen erhalten. Individuelle Handlungs-, Besetzungs- und Produktionsgeschichten ersetzen allgemeine Schlussbausteine. Filmjahr und Preisjahr getrennt; Hauptjury-/Kategorieabgrenzungen präzisiert, historische Drehbuchkategorie berichtigt, falsche Optionen und Rückmeldungen verbessert. Vier Stufen mit je 50 Fragen, IDs, Wissensziele, richtige Antworten und Lösungsschlüssel erhalten.

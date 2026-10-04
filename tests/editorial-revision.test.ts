@@ -5,7 +5,11 @@ import { emptyState } from "../src/model";
 import { actorPresentation, presentedQuestion } from "../src/actorEditorial";
 import { questionTitleParts } from "../src/questionTitle";
 import revision from "../docs/Bestandsredaktion-2026-10-04/Block-01.json";
-import { assertEditorialSource, editorialCsvIds } from "./editorialSource";
+import {
+  assertEditorialSource,
+  editorialCsvIds,
+  editorialRevisions,
+} from "./editorialSource";
 
 it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen Darstellertexten", () => {
   const state = emptyState();
@@ -48,4 +52,27 @@ it("erlaubt in den öffentlichen CSVs genau die dokumentierten Zeilenänderungen
     ).changes.length;
   }
   expect(changed).toBe(editorialCsvIds().length);
+});
+
+it("zeigt alle registrierten Personenredaktionen und erhält ihre ursprünglichen Schutzschlüssel", () => {
+  const state = emptyState();
+  addPackages(
+    state,
+    packages.map((p) => ({
+      filename: p.filename,
+      text: readFileSync(`public${p.path}`, "utf8"),
+    })),
+  );
+  const changes = editorialRevisions
+    .flatMap((block) => block.changes)
+    .filter((c) => c.kind === "actor_presentation");
+  for (const c of changes) {
+    const q = state.questions.find((q) => q.id === c.id)!;
+    expect(q.knowledgeId, c.id).toBe(c.knowledgeId);
+    expect(actorPresentation(q), c.id).toEqual(c.after);
+    expect(q.question, c.id).toBe(c.before.originalQuestion);
+    expect(q.context, c.id).toBe(c.before.originalContext);
+    expect(c.after.originalQuestion, c.id).toBe(c.before.originalQuestion);
+    expect(c.after.originalContext, c.id).toBe(c.before.originalContext);
+  }
 });
