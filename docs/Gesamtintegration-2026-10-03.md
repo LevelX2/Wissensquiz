@@ -41,3 +41,44 @@ Der Kontospeicher vermeidet zwei vollständige Katalogkopien je Antwort. Bei unv
 Der reguläre Sites-Workflow hat die bestehende öffentliche Site und ihren Quellstand geöffnet. Projekt-ID, Adresse und öffentlicher Zugriff bleiben erhalten. Alle Branchstände lokal nach `main` integriert und Sites-Version **43** am 03.10.2026 um **15:46:07 Uhr Europe/Berlin** veröffentlicht. Nativer Status `succeeded`; Quellcommit `aa8f22ad019fed488330096677fa35897016c983`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_e49ce6383b3c819197428ac790445391`, Deployment `appgdep_6ac1070c3c608191a0fff9cb2edd0d62`. Der tatsächliche Deploymentzeitpunkt ist in der öffentlichen Versionsabfrage hinterlegt. Der finale Produktionsbuild ist bytegleich zum geprüften Browserbuild. Offline `film-09f66dbdcdb2`, 59 Dateien. Archiv: 41656320 Bytes/62 Dateien, `sha256:8fe4e8cc38fdd8880edf0a559372f4ce3817dc7a2f0758fb6ef2bcbdb69b8d68`. [Betriebsnachweis](Sites-Betrieb.md).
 
 Langzeit-Spielgefühl, physische Geräte-/Hörabnahme und reale Zwei-Konten-/Zwei-Geräte-Prüfung bleiben die bereits dokumentierten Grenzen. Bekannte Hinweise zur Größe der Startdatei bleiben bestehen.
+
+## Nachabgleich und Branchbereinigung am 04.10.2026
+
+Auf erneuten ausdrücklichen Nutzerauftrag alle lokalen Änderungen zusammengeführt und entbehrliche, vollständig integrierte Branches bereinigt. `main` enthält sämtliche 27 vorherigen Arbeitsbranchköpfe einschließlich der Versionen 49–51 und der lokalen Black-Panther-Basisdatenkorrektur. Korrekturcommit `5f35b7f`; Abgleich von `main` in den Arbeitsbranch mit Mergecommit `d7fa9a5`, danach Fast-Forward nach `main`. Vier ausschließlich dokumentarische Konflikte in Projektstart, Log, Prüfbericht und Sites-Betrieb aufgelöst: aktueller Snapshot Version 51, frühere Version-48-Nachweise vollständig erhalten; beide chronologischen Logfolgen textlich unverändert zusammengeführt. App-Code während der Konfliktauflösung unverändert.
+
+26 lokale Arbeitsbranches mit `git branch -d` nach vollständigem Vorfahrennachweis entfernt, einschließlich des bisherigen Arbeitsbranches nach der letzten Main-Integration. Auch jüngere Branches auf ausdrücklichen aktuellen Aufräumauftrag berücksichtigt; keine neue generische Regel. Alle Commits bleiben in `main` erreichbar. Fünf saubere Worktrees auf ihrem bisherigen Commit ohne Branchzuordnung erhalten; keine Worktree-Dateien oder lokalen Laufzeitartefakte gelöscht. Die bisherigen Worktree-Branches waren `codex/antwortreaktion-optimieren`, `codex/komoedie-ergaenzung`, `codex/schauspieler-400-ergaenzung`, `codex/rekordmodi` und `codex/speicher-sync-optimierung`.
+
+`codex/schauspieler-veroeffentlichung` bleibt gemäß Abschlussregel erhalten: drei lokale Commits mehr als sein Remote-Branch. Auch dieser lokale Kopf `11b53c11613e` ist vollständig in `main` enthalten. Lesende Prüfung ergab keine offenen GitHub-PRs. Remote-Branches und `origin/main` unverändert; kein Push, keine Veröffentlichung oder produktive Datenbankänderung. Veröffentlichter Stand weiterhin Version 51, die Black-Panther-Korrektur bleibt lokal.
+
+Die 14 bereits vorhandenen offenen Importberichte enthalten ausschließlich abweichende Prüfzeitstempel. Ihre Bytes und ihr offener Status blieben beim Abgleich erhalten; nicht mit dem fachlichen Abschluss committen. Keine unklaren ungetrackten Dateien. Frühere 333 Tests in 55 Dateien, Produktionsbuild und acht Browserfälle für exakt denselben App-Code wiederverwendet; nach dem Main-Fast-Forward alle zehn gezielten Film-/Personenredaktionstests erneut erfolgreich. Diff- und Vorfahrenprüfungen bestanden.
+
+Die folgenden Köpfe wurden zum Abschluss vollständig integriert und ihre lokalen Branchnamen entfernt; der abschließende Dokumentcommit des aktuellen Arbeitsbranches ist zusätzlich in `main` enthalten.
+
+| Entfernter lokaler Branch | Gesicherter Kopf vor Bereinigung |
+| --- | --- |
+| codex/additive-fragenauswahl | `40d58cd73ade` |
+| codex/antwortreaktion-optimieren | `b33c3973cb32` |
+| codex/eine-moduskachel | `d7fa9a5d1900` |
+| codex/eine-moduskachel-release | `119f0bd2cc57` |
+| codex/fehlertraining-rundenauswertung | `577782448a75` |
+| codex/filmkarriere-level-xp | `577782448a75` |
+| codex/filmreise-personen-vertiefung | `fbb0bfc91fef` |
+| codex/fragedaten-gesamtveroeffentlichung | `8685fb2f806e` |
+| codex/gesamtintegration-20261003 | `796816893022` |
+| codex/kategorie-illustrationen | `bd0536c691af` |
+| codex/keine-ahnung-antwort | `577782448a75` |
+| codex/komoedie-ergaenzung | `24b64b03c13c` |
+| codex/modusauswahl-laufhistorie | `1d7add42b82e` |
+| codex/moduskachel-und-ergebnis-highscores | `e57a37141ac1` |
+| codex/preistraeger-fragen | `9c828d36878a` |
+| codex/projektanlage | `fe5bc228cd0b` |
+| codex/rekord-altwertungen-entfernen | `c3b81505aaf6` |
+| codex/rekordmodi | `0c9b3498d16b` |
+| codex/schauspieler-200-ergaenzung | `83c936fe5fe6` |
+| codex/schauspieler-400-ergaenzung | `09bf31df54a8` |
+| codex/schauspieler-release | `f5c66aec3c4d` |
+| codex/speicher-sync-optimierung | `c080a378088d` |
+| codex/spielbare-testversion | `56c12c282e4d` |
+| codex/spielkacheln-und-rekordauswahl | `780c9030362b` |
+| codex/strukturverbesserungen | `bac3c4009037` |
+| codex/veroeffentlichung-keine-ahnung-spielervergleich | `cfff2b5ae27b` |
