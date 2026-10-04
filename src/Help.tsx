@@ -374,6 +374,30 @@ export function Help() {
         </p>
       </details>
       <details>
+        <summary>Wie melde ich einen Fehler oder eine Verbesserung?</summary>
+        <p>
+          Mit „Frage melden“ kannst Du direkt im Spiel eine Meldung zu dieser
+          Frage senden. Allgemeine Probleme meldest Du unter „Profil → Problem
+          oder Verbesserung melden“. Wähle den Typ, gib einen kurzen Titel und
+          eine Beschreibung ein und bestätige die öffentliche Veröffentlichung.
+        </p>
+        <p>
+          Du brauchst ein bestätigtes Quiz-Konto. Die Meldung erscheint als
+          öffentliches GitHub-Issue; ein GitHub-Konto ist dafür nicht nötig.
+          App-Version und gegebenenfalls Fragen-ID und Inhaltsversion werden
+          automatisch ergänzt. Dein Spielstand und Deine E-Mail-Adresse werden
+          nicht mitgesendet. Pro Konto sind fünf Meldungen innerhalb von 24
+          Stunden möglich, mit mindestens einer Minute Abstand.
+        </p>
+        <p>
+          Erst die angezeigte Issue-Nummer bestätigt den Versand. Falls die
+          Bestätigung ausbleibt, kannst Du „Versand erneut prüfen“ wählen. Der
+          erneute Versuch verwendet dieselbe Meldungs-ID. Frühere lokale
+          Fragenmeldungen kannst Du weiterhin unter „Profil → Optionen“
+          exportieren.
+        </p>
+      </details>
+      <details>
         <summary>Wo finde ich Optionen und meinen Spielstand?</summary>
         <p>
           Unter „Profil → Optionen“ stellst Du Ton, Vibration sowie Genre- und

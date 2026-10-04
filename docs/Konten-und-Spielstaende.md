@@ -1,5 +1,11 @@
 # Konten und gemeinsame Spielstände
 
+## Öffentliche GitHub-Meldungen – 04.10.2026
+
+Lokal umgesetzt: Bestätigte Quiz-Konten können über „Frage melden“ oder das Profil ein öffentliches GitHub-Issue erstellen. Die Serverfunktion prüft den aktuellen Auth-Benutzer und die bestätigte E-Mail; anonyme Konten und Gäste erhalten keine Versandberechtigung. Kontoname, E-Mail-Adresse und Spielstand werden nicht ins Issue übernommen. Die Veröffentlichung erfordert eine ausdrückliche Zustimmung im Formular.
+
+Meldungsentwürfe mit unveränderlicher Versand-ID liegen im Sitzungsspeicher des Tabs getrennt nach Konto und Frage, außerhalb der privaten Spielstandsicherung. Die nur serverseitig zugängliche Versandtabelle enthält Kontobezug, Hash, Status und Beleg; keine Kommentare oder Spielstände. Frühere lokale Meldungen bleiben exportierbar, ohne automatischen Versand. Servererweiterung eingerichtet; GitHub-Schlüssel und Veröffentlichung noch offen. [Führender Meldevertrag](GitHub-Meldungen.md).
+
 ## Katalogerweiterung und Rekordpositionen – 03.10.2026
 
 Der gemeinsame App-Katalog umfasst jetzt 6.277 Fragen und 5.734 Wissensziele einschließlich der 600 Schauspielerergänzungen. Neue Pakete werden additiv übernommen; alte Frage-IDs, Lernstände, Antworten und Rundensnapshots bleiben erhalten. Gespeicherte Runden referenzieren ihre damaligen unveränderlichen Katalogversionen; diese bleiben zur Rekonstruktion verfügbar. Neu gestartete Runden verwenden den erweiterten Bestand. Beim Paketupgrade werden offizielle Fragen einschließlich paketübergreifender Varianten erneut zugeordnet; fremde Frageinhalte mit derselben ID werden nicht überschrieben oder als offizieller Inhalt umdeklariert.

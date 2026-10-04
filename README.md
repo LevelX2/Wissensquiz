@@ -31,6 +31,8 @@ Vorschau unter http://localhost:4173; Entwicklung mit `npm run dev` auf Port 517
 
 Die maßgeblichen Regeln stehen in [Lernregeln](docs/Lernregeln.md), [Fragenbereichen und Bekanntheit](docs/Spielmodi-und-Bekanntheit.md), [Filmkarriere](docs/Filmkarriere-und-XP.md) und [Filmduellen](docs/Asynchrone-Filmduelle.md). Profil → Optionen enthält Ton/Vibration, Hinweise, Lösungsausgabe, Datenexport und geprüfte Wiederherstellung. Neue Fragen werden über die eigene Paket-/Update-Logik bereitgestellt; der manuelle CSV-Import ist seit der lokalen Bereinigung vom 04.10.2026 entfernt. [Importformat](docs/Importformat.md) beschreibt IDs, Varianten und Originalspalten; Rohquellen werden unverändert erhalten.
 
+Lokal ergänzt: Bestätigte Quiz-Konten können aus einer Frage oder dem Profil technische Fehler, falsche Inhalte, Textverbesserungen und Sonstiges als öffentliches GitHub-Issue melden. Der Versand läuft über eine geschützte Supabase Function; private Spielstände werden nicht mitgesendet. Servererweiterung eingerichtet, GitHub-Schlüssel und Sites-Veröffentlichung noch offen. [Meldevertrag und Einrichtung](docs/GitHub-Meldungen.md).
+
 ## Speicherung und Offlinebetrieb
 
 Der Gaststand bleibt lokal in IndexedDB. Angemeldete Konten werden nach lokaler Speicherung automatisch privat in Supabase gesichert; Revisionen verhindern stilles Überschreiben konkurrierender Stände. Konto und Gast bleiben getrennt. Vor Gerätewechsel die aktuelle Onlinebestätigung abwarten. Lokal ergänzt: dauerhafte atomare Änderungswarteschlange, bestätigte Paketwiederholung, gezielter Revisionsabruf, Wartegrenzen, exportierbare Rückfallkopien und kleine Ranglistenprojektionen; [Vertrag](docs/Konten-und-Spielstaende.md).

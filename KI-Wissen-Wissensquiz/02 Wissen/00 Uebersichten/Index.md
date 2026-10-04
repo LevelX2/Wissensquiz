@@ -9,7 +9,8 @@
 - [Version 54 veröffentlicht: gesamte Main-Änderungen, 1.099 überarbeitete Fragen und Online-/Duellkatalog](../../../docs/Sites-Betrieb.md#version-54-gesamter-main-stand-mit-individuellen-fragenvertiefungen)
 - [Version 54: native Veröffentlichungsdaten, Inhalts- und Buildnachweise](../../../docs/Veroeffentlichung-2026-10-04-Version-54.json)
 
-- [Profiloptionen ohne CSV-Import; vorhandene lokale Fragenmeldungen und Vorschlag für automatische GitHub-Issues](../../../docs/Hilfe-und-Navigation.md#profiloptionen-und-meldeweg--04102026)
+- [Profiloptionen ohne CSV-Import und neuer Meldeweg](../../../docs/Hilfe-und-Navigation.md#profiloptionen-und-meldeweg--04102026)
+- [GitHub-Meldungen: Typen, öffentlicher Versand, Servereinrichtung und noch fehlender Schlüssel](../../../docs/GitHub-Meldungen.md)
 
 - [Bestandsredaktion abgeschlossen: Jahres-/Regievertiefungen und vier Blocknachweise](../../../docs/Fragenkorrekturen.md#bestandsredaktion-block-4--04102026)
 - [Alle 425 Jahres- und 412 Regietexte: Quellen, Änderungen und Prüfgrenzen](../../../docs/Bestandsredaktion-2026-10-04/Block-04.json)

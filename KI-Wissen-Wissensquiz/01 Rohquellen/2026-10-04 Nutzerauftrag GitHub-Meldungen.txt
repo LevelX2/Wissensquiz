@@ -1,0 +1,6 @@
+Herkunft: Nutzer im Projektchat Wissensquiz, 04.10.2026.
+Grenze: Wortlaut des Vorschlags und anschließender Umsetzungsauftrag; keine Freigabe für GitHub-Push oder Sites-Veröffentlichung.
+
+Wir haben auf der Profilseite noch so ein paar Sachen wie Import von Fragen, der keinen Sinn macht. Machen wir ja nur über unsere eigene Update-Logik. Das gehört da also gar nicht hin. Und diese Umwandlung weiß ich nicht, ob wir die unbedingt brauchen von dem Browser-Stand in Benutzerstand für, wenn es gut funktioniert, vielleicht. Aber was mich mehr interessieren würde: Könnten wir die Logik einbauen, dass jemand sozusagen im Spiel eine Meldung machen kann und daraus machen wir in GitHub eine, weiß gar nicht, wie heißt das in GitHub, ein Ticket oder ein Issue, dann automatisch auf, vielleicht noch nach Typen sortiert, dass er da auswählen kann: Fehler oder Textverbesserung oder sonst was. Ist das machbar? Und wie würde das technisch vonstatten gehen?
+
+Okay, dann so wie vorgeschlagen umsetzen.

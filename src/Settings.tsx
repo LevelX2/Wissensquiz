@@ -406,10 +406,11 @@ export function Settings({
         )}
       </section>
       <section className="settings-panel">
-        <h2>Lokale Fragenmeldungen</h2>
+        <h2>Bisherige lokale Fragenmeldungen</h2>
         <p>
-          {state.reports.length} Meldungen auf diesem Gerät gespeichert. Es
-          wurde nichts an eine Redaktion gesendet.
+          {state.reports.length} frühere Meldungen im Spielstand gespeichert.
+          Diese Meldungen wurden nicht an GitHub gesendet. Neue Meldungen
+          sendest Du direkt bei der Frage oder im Profil.
         </p>
         <button
           className="secondary"

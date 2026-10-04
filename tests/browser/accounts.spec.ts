@@ -550,6 +550,166 @@ test("eine alte Kontokarriere wird nach dem Anmelden automatisch einmal gesicher
   );
   expect(server.get(alice)?.revision).toBe(8);
 });
+test("GitHub-Meldung im Profil zeigt Typen, öffentliche Zustimmung und bestätigten Issue-Link ohne Spielstandänderung", async ({
+  page,
+}, testInfo) => {
+  await mockAccounts(page);
+  await page.clock.install({ time: new Date("2026-10-04T12:00:00+02:00") });
+  const reports: Record<string, unknown>[] = [];
+  await page.route(
+    "https://quiz-test.supabase.co/functions/v1/quiz-report",
+    async (route) => {
+      reports.push(route.request().postDataJSON());
+      expect(route.request().headers().authorization).toMatch(/^Bearer /);
+      await route.fulfill({
+        json: {
+          number: 42,
+          url: "https://github.com/LevelX2/Wissensquiz/issues/42",
+        },
+      });
+    },
+  );
+  await page.goto("/");
+  await login(page);
+  await account(page);
+  const before = await readStoredState(
+    page,
+    accountStorageKey("https://quiz-test.supabase.co", alice),
+  );
+  await page
+    .getByText("Problem oder Verbesserung melden", { exact: true })
+    .click();
+  await expect(page.getByLabel("Meldungstyp").locator("option")).toHaveText([
+    "Technischer Fehler",
+    "Inhalt falsch",
+    "Textverbesserung",
+    "Sonstiges",
+  ]);
+  await page.getByLabel("Meldungstyp").selectOption("wording");
+  await page
+    .getByLabel("Kurztitel")
+    .fill("Text auf dem Handy verständlicher machen");
+  await page
+    .getByLabel("Was ist Dir aufgefallen?")
+    .fill("Die Anleitung zur Auswahl könnte verständlicher sein.");
+  await expect(
+    page.getByRole("button", { name: "Meldung senden", exact: true }),
+  ).toBeDisabled();
+  await page
+    .getByLabel("Meine Meldung darf öffentlich auf GitHub erscheinen.")
+    .check();
+  await page.setViewportSize({ width: 320, height: 800 });
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  await page.screenshot({
+    path: testInfo.outputPath("issue-report-form.png"),
+    fullPage: true,
+  });
+  await page
+    .getByRole("button", { name: "Meldung senden", exact: true })
+    .click();
+  await expect(
+    page.getByRole("link", { name: "GitHub-Issue #42", exact: true }),
+  ).toHaveAttribute("href", "https://github.com/LevelX2/Wissensquiz/issues/42");
+  expect(reports).toHaveLength(1);
+  expect(Object.keys(reports[0]).sort()).toEqual([
+    "appVersion",
+    "comment",
+    "id",
+    "title",
+    "type",
+  ]);
+  expect(reports[0].type).toBe("wording");
+  expect(
+    await readStoredState(
+      page,
+      accountStorageKey("https://quiz-test.supabase.co", alice),
+    ),
+  ).toEqual(before);
+});
+
+test("GitHub-Fragenmeldung behält Kontext und Meldungs-ID nach unklarem Versand und Neuladen", async ({
+  page,
+}) => {
+  await mockAccounts(page);
+  await page.clock.install({ time: new Date("2026-10-04T12:00:00+02:00") });
+  const reports: Record<string, unknown>[] = [];
+  await page.route(
+    "https://quiz-test.supabase.co/functions/v1/quiz-report",
+    async (route) => {
+      reports.push(route.request().postDataJSON());
+      await route.fulfill(
+        reports.length === 1
+          ? { status: 409, json: { code: "report_uncertain" } }
+          : {
+              json: {
+                number: 43,
+                url: "https://github.com/LevelX2/Wissensquiz/issues/43",
+              },
+            },
+      );
+    },
+  );
+  await page.goto("/");
+  await login(page);
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  const questionId = await page
+    .locator(".question-card h1")
+    .getAttribute("data-question-id");
+  await page.getByRole("button", { name: "Frage melden" }).click();
+  await page.getByLabel("Meldungstyp").selectOption("content");
+  await page
+    .getByLabel("Was ist Dir aufgefallen?")
+    .fill("Die Erklärung zur Frage sollte redaktionell geprüft werden.");
+  await page
+    .getByLabel("Meine Meldung darf öffentlich auf GitHub erscheinen.")
+    .check();
+  await page
+    .getByRole("button", { name: "Meldung senden", exact: true })
+    .click();
+  await expect(page.getByRole("alert")).toContainText(
+    "GitHub hat den Versand noch nicht bestätigt",
+  );
+  await expect(page.getByRole("link", { name: /GitHub-Issue/ })).toHaveCount(0);
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  await page.getByRole("button", { name: "Frage melden" }).click();
+  await expect(page.getByLabel("Was ist Dir aufgefallen?")).toHaveValue(
+    "Die Erklärung zur Frage sollte redaktionell geprüft werden.",
+  );
+  await expect(page.getByLabel("Kurztitel")).toBeDisabled();
+  await page
+    .getByRole("button", { name: "Versand erneut prüfen", exact: true })
+    .click();
+  await expect(
+    page.getByRole("link", { name: "GitHub-Issue #43", exact: true }),
+  ).toBeVisible();
+  expect(reports).toHaveLength(2);
+  expect(reports[1]).toEqual(reports[0]);
+  expect(reports[0].question).toMatchObject({ id: questionId });
+  expect(
+    (
+      await readStoredState(
+        page,
+        accountStorageKey("https://quiz-test.supabase.co", alice),
+      )
+    ).reports,
+  ).toEqual([]);
+  await page.getByRole("button", { name: "Frage melden" }).click();
+  await page.getByRole("button", { name: "Frage melden" }).click();
+  await expect(
+    page.getByRole("link", { name: "GitHub-Issue #43", exact: true }),
+  ).toBeVisible();
+  expect(reports).toHaveLength(2);
+});
+
 async function mockAccounts(page: Page, server: Server = new Map()) {
   const requests: { path: string; body: Record<string, unknown> }[] = [];
   let current = alice;

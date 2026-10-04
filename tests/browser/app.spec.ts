@@ -691,13 +691,14 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
     page.getByRole("button", { name: "Als geraten markiert" }),
   ).toBeDisabled();
   await page.getByRole("button", { name: "Frage melden" }).click();
-  await page
-    .getByLabel("Was ist Dir aufgefallen?")
-    .fill("Testmeldung im isolierten Browserprofil");
-  await page.getByRole("button", { name: "Meldung lokal speichern" }).click();
   await expect(
-    page.getByText("Lokal gespeichert. Nicht versendet."),
+    page.getByText("Zum Melden bitte mit Deinem bestätigten Quiz-Konto", {
+      exact: false,
+    }),
   ).toBeVisible();
+  await expect(
+    page.getByRole("button", { name: "Meldung senden", exact: true }),
+  ).toHaveCount(0);
   await page.getByRole("button", { name: "Nächste Frage" }).click();
   await answerCurrent(page, false);
   await expect(

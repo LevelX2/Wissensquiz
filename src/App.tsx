@@ -63,6 +63,7 @@ import type { WriteOptions } from "./entryStorage";
 
 import { PageBoundary } from "./PageBoundary";
 import { ReleaseInfo } from "./ReleaseInfo";
+import { IssueReportForm } from "./IssueReportForm";
 import { archiveClosedRounds } from "./roundArchive";
 
 const Leaderboard = lazy(() =>
@@ -774,6 +775,10 @@ export function App({
                     </button>
                   </div>
                   {accountPanel?.(state, setState)}
+                  <details className="settings-panel">
+                    <summary>Problem oder Verbesserung melden</summary>
+                    <IssueReportForm />
+                  </details>
                   <ReleaseInfo />
                 </>
               )}

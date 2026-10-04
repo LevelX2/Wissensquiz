@@ -24,6 +24,7 @@ import { download, read } from "./storage";
 import type { State } from "./model";
 import { ActivityContext } from "./GuestActivity";
 import { requestWithin } from "./request";
+import { ReportContext } from "./issueReports";
 
 export const syncText: Record<SyncStatus, string> = {
   loading: "Dein Spielstand wird geladen …",
@@ -252,31 +253,33 @@ export function AccountGame({
       </main>
     );
   return (
-    <RankingContext.Provider value={ranking}>
-      <ActivityContext.Provider value={publicClient}>
-        <App
-          key={`${storageKey}:${generation}`}
-          storageKey={storageKey}
-          onPersistedState={offer}
-          sync={{
-            status,
-            confirmedAt,
-            text: `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
-            retry: () => {
-              void engine.current?.flush();
-            },
-          }}
-          accountPanel={(state, onState) =>
-            panel(
-              state,
-              onState,
+    <ReportContext.Provider value={{ client, storageKey }}>
+      <RankingContext.Provider value={ranking}>
+        <ActivityContext.Provider value={publicClient}>
+          <App
+            key={`${storageKey}:${generation}`}
+            storageKey={storageKey}
+            onPersistedState={offer}
+            sync={{
               status,
-              `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
               confirmedAt,
-            )
-          }
-        />
-      </ActivityContext.Provider>
-    </RankingContext.Provider>
+              text: `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
+              retry: () => {
+                void engine.current?.flush();
+              },
+            }}
+            accountPanel={(state, onState) =>
+              panel(
+                state,
+                onState,
+                status,
+                `${syncText[status]}${syncDetail ? ` ${syncDetail}` : ""}`,
+                confirmedAt,
+              )
+            }
+          />
+        </ActivityContext.Provider>
+      </RankingContext.Provider>
+    </ReportContext.Provider>
   );
 }

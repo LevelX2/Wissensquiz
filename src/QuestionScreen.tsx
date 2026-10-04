@@ -1,7 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { answer, elapsed, guess, points } from "./engine";
 import {
-  uid,
   DEFAULT_ANSWER_REVEAL_MS,
   hasAnswer,
   type AnswerChoice,
@@ -24,6 +23,7 @@ import { historicalModeName, Pill } from "./gameUi";
 import { presentedQuestion } from "./actorEditorial";
 import { Explanation } from "./Explanation";
 import { LearningProgress } from "./LearningProgressPanel";
+import { IssueReportForm } from "./IssueReportForm";
 
 import {
   isRecordMode,
@@ -87,8 +87,6 @@ export function QuestionScreen({
   const chooseRef = useRef<(choice: AnswerChoice) => void>(() => {});
   const feedback = useRef<HTMLDivElement>(null);
   const [reporting, setReporting] = useState(false);
-  const [comment, setComment] = useState("");
-  const [sent, setSent] = useState(false);
   const choose = async (choice: AnswerChoice) => {
     if (locked.current || event || !ready || round.status !== "active") return;
     locked.current = true;
@@ -551,45 +549,12 @@ export function QuestionScreen({
           >
             ⚑ Frage melden
           </button>
-          {sent && (
-            <span role="status">Lokal gespeichert. Nicht versendet.</span>
-          )}
-          {reporting && !sent && (
-            <form
-              onSubmit={async (e) => {
-                e.preventDefault();
-                const saved = await mutate((s) =>
-                  s.reports.push({
-                    id: uid(),
-                    questionId: q.id,
-                    version: q.version,
-                    comment,
-                    at: Date.now(),
-                  }),
-                );
-                if (saved) {
-                  setSent(true);
-                  setReporting(false);
-                }
-              }}
-            >
-              <label>
-                Was ist Dir aufgefallen? (optional)
-                <textarea
-                  value={comment}
-                  maxLength={4000}
-                  onChange={(e) => setComment(e.target.value)}
-                />
-              </label>
-              <p className="tiny muted">
-                Fragen-ID und Inhaltsversion werden lokal gespeichert. Export
-                unter Einstellungen.
-              </p>
-              <button className="secondary" disabled={busy}>
-                Meldung lokal speichern
-              </button>
-            </form>
-          )}
+          <div hidden={!reporting}>
+            <IssueReportForm
+              key={`${q.id}:${index}`}
+              question={{ id: q.id, version: q.version }}
+            />
+          </div>
         </div>
       </section>
     </div>
