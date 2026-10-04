@@ -1,5 +1,7 @@
 # Fragenimport – Vertrag Version 1
 
+04.10.2026 – **Preisredaktion vollständig:** 198 weitere öffentliche Preiszeilen redigiert; insgesamt 218 dokumentierte CSV-Zeilenabweichungen. Prüfungen verfolgen die lückenlose Folge registrierter Redaktionsblöcke ab Rohquelle. Importverhalten und IDs unverändert. [Block 2](Bestandsredaktion-2026-10-04/Block-02.json).
+
 04.10.2026 – **Dokumentierte Bestandsredaktion:** 17 öffentliche CSV-Zeilen im ersten Überarbeitungsblock korrigiert; zusammen mit drei zuvor veröffentlichten Korrekturen 20 erklärte Abweichungen von erhaltenen Rohquellen. Vier vorhandene Personen-Anzeigen getrennt redigiert. Quellenchecks vergleichen vollständige dokumentierte Vorher-/Nachher-Zeilen und alle übrigen Datensätze mit ihren Originalen. Die historischen Bytegleichheitsangaben unten beschreiben den jeweiligen Importzeitpunkt. Fragen- und Wissensziel-IDs erhalten; keine neue Migration oder Änderung der vorhandenen Nichtüberschreiben-Regel. [Umfang und Grenzen](Fragenkorrekturen.md#bestandsredaktion-block-1--04102026).
 
 Lokale Speicherorganisation seit 03.10.2026: Originalspalten bleiben vollständig im logischen Frageobjekt und in JSON-Sicherungen erhalten. Im getrennten IndexedDB-Katalog verweisen exakt doppelte Metadatenwerte verlustfrei auf normalisierte Fragefelder; Versionen und Importformat bleiben gleich. `npm run check:questions` prüft alle Pakete einschließlich Rohquellenvergleich und exakter Rekonstruktion. [Organisation und Nachweis](Fragedaten-Organisation.md).

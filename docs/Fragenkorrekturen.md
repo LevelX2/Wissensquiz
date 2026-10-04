@@ -2,6 +2,12 @@
 
 Die drei Korrekturen sind seit Sites-Version 52 (04.10.2026) veröffentlicht, auch im öffentlichen Katalog für neue Duelle. Laufende Duellsnapshots bleiben erhalten. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-52-gesamter-main-stand-mit-sichtbarem-lernfortschritt).
 
+## Bestandsredaktion, Block 2 – 04.10.2026
+
+Alle 200 Preisfragen geprüft: 198 überarbeitet, zwei gute Block-1-Fragen erhalten. Individuelle Handlungs-, Besetzungs- und Produktionsgeschichten ersetzen allgemeine Schlussbausteine. Filmjahr und Preisjahr getrennt; Hauptjury-/Kategorieabgrenzungen präzisiert, historische Drehbuchkategorie berichtigt, falsche Optionen und Rückmeldungen verbessert. Vier Stufen mit je 50 Fragen, IDs, Wissensziele, richtige Antworten und Lösungsschlüssel erhalten.
+
+339 Tests in 57 Dateien, TypeScript, Produktionsbuild und vollständige Quellen-/Katalogprüfung erfolgreich. 6.277 Fragen / 5.734 Ziele / 543 Varianten; 218 dokumentierte CSV-Zeilenabweichungen einschließlich der früheren Korrekturen. Rohquellen erhalten. Lokaler Main-Stand; noch nicht veröffentlicht. [Vorher/Nachher, Einzelquellen und erhaltene Fragen](Bestandsredaktion-2026-10-04/Block-02.json). Jahres-/Regie- und ältere Personen-/Filmtexte folgen ohne Zwischenstopp.
+
 ## Bestandsredaktion, Block 1 – 04.10.2026
 
 **21 bestehende Fragen überarbeitet:** 17 öffentliche CSV-Zeilen und vier bereits vorhandene Schauspieler-Anzeigetexte. Alle zehn im Ausgangsaudit bestätigten starken Titel-/Namenshinweise und die schwache Thelma-&-Louise-Auswahl behoben. Die sechs konkret benannten schwachen Vertiefungen ersetzt; passende Varianten und Rollenfragen im selben Block mitgezogen. [Vollständiger Vorher-/Nachher-Nachweis mit Quellen](Bestandsredaktion-2026-10-04/Block-01.json).
@@ -18,7 +24,7 @@ Darsteller stehen neben vollständigen Figurennamen, wo sie das Verständnis unt
 
 **Grenzen:** Der vollständige App-Aufbau bleibt bei 6.277 Fragen, 5.734 Wissenszielen und 543 Varianten. IDs und Verweise erhalten; Rohquellen unverändert. Bestehende importierte Fragen und laufende Rundensnapshots werden vom vorhandenen Import nicht überschrieben. Vier passende Personen-Anzeigen greifen nach einem App-Update auch bei bestehenden Rohfragen. Für die CSV-Redaktion wurde keine Migration, Rückwärtsanpassung oder neue Sonderlogik eingebaut. Der geänderte Build und Katalog sind lokal geprüft und noch nicht veröffentlicht.
 
-**Weiter offen:** 198 der 200 Preisfragen wurden in diesem Block noch nicht redigiert; das erneute Screening markiert dort 77 Texte mit einem wörtlich wiederkehrenden Satz über mindestens zehn verschiedene Entitäten. Das ist ein Suchsignal, keine Fehlerquote. Danach folgen generierte Jahres-/Regietexte sowie die selektive Überarbeitung älterer Schauspieler- und Filmtexte. Die Prüfung vom selben Tag bleibt als unveränderter Ausgangsnachweis erhalten.
+**Stand nach Block 1:** 198 der 200 Preisfragen wurden in diesem Block noch nicht redigiert; das erneute Screening markiert dort 77 Texte mit einem wörtlich wiederkehrenden Satz über mindestens zehn verschiedene Entitäten. Das ist ein Suchsignal, keine Fehlerquote. Danach folgen generierte Jahres-/Regietexte sowie die selektive Überarbeitung älterer Schauspieler- und Filmtexte. Die Prüfung vom selben Tag bleibt als unveränderter Ausgangsnachweis erhalten.
 
 ## Redaktionelle Folgerungen
 

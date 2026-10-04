@@ -5,7 +5,7 @@ import { emptyState } from "../src/model";
 import { actorPresentation, presentedQuestion } from "../src/actorEditorial";
 import { questionTitleParts } from "../src/questionTitle";
 import revision from "../docs/Bestandsredaktion-2026-10-04/Block-01.json";
-import { assertEditorialSource } from "./editorialSource";
+import { assertEditorialSource, editorialCsvIds } from "./editorialSource";
 
 it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen Darstellertexten", () => {
   const state = emptyState();
@@ -47,5 +47,5 @@ it("erlaubt in den öffentlichen CSVs genau die dokumentierten Zeilenänderungen
       `public${pkg.path}`,
     ).changes.length;
   }
-  expect(changed).toBe(20); // 17 in this block and three previously published corrections.
+  expect(changed).toBe(editorialCsvIds().length);
 });

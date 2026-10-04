@@ -4,6 +4,12 @@
 
 „Etwas tiefer eintauchen“ soll über die kurze Lösung hinausgehen. Figuren, die in Frage, Lösung oder Vertiefung im Mittelpunkt stehen, werden mit ihren Darstellern verbunden. Ergänzungen bleiben knapp und beziehen sich auf den jeweiligen Film und das Erscheinungsjahr. Reine Orts-, Technik-, Kreaturen- oder Regiefragen erhalten keine beliebige komplette Besetzungsliste.
 
+## Überarbeitung, Block 2 – 04.10.2026
+
+Alle 200 Preisfragen geprüft: 198 überarbeitet, zwei gute Block-1-Fragen erhalten. Individuelle Handlungs-, Besetzungs- und Produktionsgeschichten ersetzen allgemeine Schlussbausteine. Filmjahr und Preisjahr getrennt; Hauptjury-/Kategorieabgrenzungen präzisiert, historische Drehbuchkategorie berichtigt, falsche Optionen und Rückmeldungen verbessert. Vier Stufen mit je 50 Fragen, IDs, Wissensziele, richtige Antworten und Lösungsschlüssel erhalten.
+
+Beispiele sind der Entwurf der ersten Goldenen Palme, die mehrsprachige Besetzung von Hans Landa, besondere Kameraaufbauten und konkrete Vorgänge in ausgezeichneten Rollen. Schauspieler stehen bei verständnisrelevanten Figuren; gesuchte Darsteller erst nach der Antwort. Englische Originalstimmen werden ausdrücklich benannt. 339 Tests in 57 Dateien, TypeScript, Produktionsbuild und vollständige Quellen-/Katalogprüfung erfolgreich. 6.277 Fragen / 5.734 Ziele / 543 Varianten; 218 dokumentierte CSV-Zeilenabweichungen einschließlich der früheren Korrekturen. Rohquellen erhalten. Lokaler Main-Stand; noch nicht veröffentlicht. [Prüfnachweis](Bestandsredaktion-2026-10-04/Block-02.json).
+
 ## Überarbeitung, Block 1 – 04.10.2026
 
 Nach der Bestandsdiagnose auf Nutzerauftrag 21 Fragen schrittweise redigiert: alle zehn bestätigten starken Lösungshinweise, die Thelma-&-Louise-Auswahl, sämtliche sechs konkret benannten Vertiefungsschwächen und passende Varianten. Darsteller neben vollständigen Figuren-/Rollennamen nennen, wenn dies zum Verständnis beiträgt; gesuchte Namen erst nach der Antwort. [Änderungen, Grenzen und nächste Bereiche](Fragenkorrekturen.md#bestandsredaktion-block-1--04102026), [Vorher/Nachher und tatsächlich gelesene Quellen](Bestandsredaktion-2026-10-04/Block-01.json).

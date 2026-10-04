@@ -9,7 +9,7 @@ import { pathQuestions } from "../src/learningPath";
 import { validateBackup } from "../src/storage";
 import { filmData } from "../src/filmFacts";
 import filmSource from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json";
-import { assertEditorialSource } from "./editorialSource";
+import { assertEditorialSource, editorialCsvIds } from "./editorialSource";
 
 const packageIndex = packages.findIndex(
   (p) => p.filename === "Alle_Genres_120_Filme_960_Fragen.csv",
@@ -27,9 +27,12 @@ it("erhält die Rohquelle, prüft dokumentierte Redaktion und importiert alle 96
     `KI-Wissen-Wissensquiz/01 Rohquellen/${latest.filename}`,
   );
   expect(
-    assertEditorialSource(text, raw.toString("utf8"), `public${latest.path}`)
-      .changes,
-  ).toEqual(["ACT-202610-P01-S-025"]);
+    assertEditorialSource(
+      text,
+      raw.toString("utf8"),
+      `public${latest.path}`,
+    ).changes.sort(),
+  ).toEqual(editorialCsvIds(`public${latest.path}`).sort());
   expect(createHash("sha256").update(raw).digest("hex")).toBe(
     "84d105796e4fc87f337eda9fd187c65673d48357458a788dbabcd3815dc7fbe1",
   );

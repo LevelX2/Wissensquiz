@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 04.10.2026 – Bestandsredaktion, Block 2
+
+Alle 200 Preisfragen geprüft: 198 überarbeitet, zwei gute Block-1-Fragen erhalten. Individuelle Handlungs-, Besetzungs- und Produktionsgeschichten ersetzen allgemeine Schlussbausteine. Filmjahr und Preisjahr getrennt; Hauptjury-/Kategorieabgrenzungen präzisiert, historische Drehbuchkategorie berichtigt, falsche Optionen und Rückmeldungen verbessert. Vier Stufen mit je 50 Fragen, IDs, Wissensziele, richtige Antworten und Lösungsschlüssel erhalten.
+
+339 Tests in 57 Dateien, TypeScript, Produktionsbuild und vollständige Quellen-/Katalogprüfung erfolgreich. 6.277 Fragen / 5.734 Ziele / 543 Varianten; 218 dokumentierte CSV-Zeilenabweichungen einschließlich der früheren Korrekturen. Rohquellen erhalten. Lokaler Main-Stand; noch nicht veröffentlicht. Die Testhilfe prüft mehrere redaktionelle Blöcke in Reihenfolge gegen vollständige Vorher-/Nachher-Zeilen; übrige Quellenzeilen bleiben exakt erhalten. Alle vier Rückmeldungen jeder Preisfrage enthalten ihre vollständige eigene Antwortoption. [Nachweis und Beleggrenzen](Bestandsredaktion-2026-10-04/Block-02.json).
+
 ## 04.10.2026 – Lernstufe am Ende der Antwortauflösung
 
 Auf Nutzerwunsch die Lernstufenanzeige hinter Erklärung, Vertiefungen, Filmdaten, Merksatz, Quellen und gegebenenfalls Ratehinweisen angeordnet. Dasselbe gilt für den unmittelbaren Rundenrückblick. Nur die Reihenfolge geändert; Lernregeln und Antwortauflösung unverändert.

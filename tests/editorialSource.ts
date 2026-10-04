@@ -1,7 +1,38 @@
 import { strict as assert } from "node:assert";
+import { readFileSync } from "node:fs";
 import Papa from "papaparse";
-import revision from "../docs/Bestandsredaktion-2026-10-04/Block-01.json";
+import index from "../docs/Bestandsredaktion-2026-10-04/Index.json";
 import published from "../docs/Bestandsredaktion-2026-10-04/Veroeffentlichte-Korrekturen.json";
+
+type Row = Record<string, string>;
+export type EditorialChange = {
+  kind: string;
+  file: string;
+  id: string;
+  knowledgeId: string;
+  before: Row;
+  after: Row;
+  checkedSources: { url: string; supports: string }[];
+};
+export const editorialRevisions = index.blocks.map(
+  (file) =>
+    JSON.parse(
+      readFileSync(`docs/Bestandsredaktion-2026-10-04/${file}`, "utf8"),
+    ) as { changes: EditorialChange[] },
+);
+const csvChanges = [
+  ...published.changes.map((entry) => ({ ...entry, kind: "csv" })),
+  ...editorialRevisions.flatMap((block) => block.changes),
+].filter((entry) => entry.kind === "csv");
+export const editorialCsvIds = (file?: string) => [
+  ...new Set(
+    csvChanges
+      .filter((entry) => !file || entry.file === file)
+      .map((entry) => entry.id),
+  ),
+];
+export const latestCsvRevision = (file: string, id: string) =>
+  csvChanges.filter((entry) => entry.file === file && entry.id === id).at(-1);
 
 // Verify editorial exceptions against their complete documented rows. All other
 // rows, their order and the CSV header must still match the preserved source.
@@ -29,28 +60,20 @@ export function assertEditorialSource(
     assert.equal(id, before.question_id, publicPath);
     assert.equal(row.knowledge_id, before.knowledge_id, id);
     assert.equal(row.variant_of, before.variant_of, id);
-    const proof = revision.changes.find(
-      (entry) =>
-        entry.kind === "csv" && entry.file === publicPath && entry.id === id,
+    let expected = before;
+    const proofs = csvChanges.filter(
+      (entry) => entry.file === publicPath && entry.id === id,
     );
-    if (proof) {
-      assert.deepEqual(before, proof.before, `${id}: Rohquelle`);
-      assert.deepEqual(row, proof.after, `${id}: freigegebene Redaktion`);
-      changes.push(id);
-    } else if (
-      published.changes.some(
-        (entry) => entry.file === publicPath && entry.id === id,
-      )
-    ) {
-      const previous = published.changes.find(
-        (entry) => entry.file === publicPath && entry.id === id,
-      )!;
-      assert.deepEqual(before, previous.before, `${id}: frühere Rohquelle`);
-      assert.deepEqual(row, previous.after, `${id}: veröffentlichte Korrektur`);
-      changes.push(id);
-    } else {
-      assert.deepEqual(row, before, `${id}: nicht beauftragte Abweichung`);
+    for (const proof of proofs) {
+      assert.deepEqual(
+        expected,
+        proof.before,
+        `${id}: lückenlose Redaktionskette`,
+      );
+      expected = proof.after;
     }
+    assert.deepEqual(row, expected, `${id}: dokumentierter Endstand`);
+    if (proofs.length) changes.push(id);
   }
   return { questions: edited.data.length, changes };
 }
