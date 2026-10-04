@@ -1,5 +1,11 @@
 # Bestätigte Fragenkorrekturen
 
+## Redaktionelle Folgerungen
+
+Im persönlichen Skill `wissensquiz-fragen-redigieren` sind beide Fehlerfälle ausdrücklich verankert: Fragetext, Titel und Antwortoptionen gemeinsam auf verratene Lösungen beziehungsweise eindeutigen Ausschluss durch die Formulierung prüfen. Eine leichte Frage benötigt weiterhin eigenes Wissen.
+
+Neuentwicklung, Überarbeitung und Prüfung orientieren sich an Spielspaß, verständlichem Kontext und Wissensfestigung. Bei handelnden Filmfiguren den Originaldarsteller häufig schon im Fragetext nennen; dies ist eine Empfehlung, kein Zwang. Bei sehr bekannten Filmen und Figuren darf die Angabe bewusst entfallen. Bei schwierigeren Fragen und spezielleren Themen ist Kontext besonders hilfreich. Gesuchte Schauspielernamen bleiben vor der Antwort verborgen. Skill-Quelle und lokale Installation sind synchron und formal validiert.
+
 ## Hangover (2009) – 04.10.2026
 
 Die Variante `KOM-L-026-V1` wurde direkt in `public/komoedie-fragen.csv` korrigiert. Die alte Frage nannte Phil, Stu und Alan bereits als Suchende und schloss damit drei Antwortoptionen aus. Bestätigte neue Fassung:
