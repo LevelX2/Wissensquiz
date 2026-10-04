@@ -11,6 +11,15 @@ import { validateBackup } from "../src/storage";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/Komoedie_Ergaenzung_Filmdaten.json";
 import { assertEditorialSource } from "./editorialSource";
 
+const editorial = JSON.parse(
+  readFileSync("docs/Bestandsredaktion-2026-10-04/Block-04.json", "utf8"),
+) as {
+  generatedChanges: {
+    before: { film: string; directorContext: string };
+    after: { directorContext: string };
+  }[];
+};
+
 const contents = packages.slice(0, 14).map((p) => ({
   filename: p.filename,
   text: readFileSync(`public${p.path}`, "utf8"),
@@ -49,12 +58,18 @@ it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Film
   expect(new Set(qs.map(filmIdentity)).size).toBe(79);
   for (const f of source.films) {
     const q = qs.find((q) => q.id === f.reference_question_id)!;
+    const revision = editorial.generatedChanges.find(
+      (entry) =>
+        entry.before.film === `${f.film_title_original}|${f.film_year}`,
+    )!;
+    expect(revision).toBeDefined();
+    expect(revision.before.directorContext).toBe(f.director_context);
     expect(filmIdentity(q)).toBe(`${f.film_title_original}|${f.film_year}`);
     expect(familiarityOf(q)).toBe(f.familiarity_level);
     expect(filmData(q)).toMatchObject({
       year: f.film_year,
       countries: f.production_countries,
-      directorContext: f.director_context,
+      directorContext: revision.after.directorContext,
     });
     if (f.series) expect(filmData(q)?.series).toEqual(f.series);
     expect(
@@ -65,7 +80,7 @@ it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Film
         filmIdentity(n) === filmIdentity(q) &&
         n.metadata.fact_kind === "director",
     )!;
-    expect(director.context).toContain(f.director_context);
+    expect(director.context).toContain(revision.after.directorContext);
     expect(director.metadata.verification_status).toBe(
       "Redaktionelle Quelle 2026-09-29",
     );
@@ -89,7 +104,7 @@ it("bewahrt alle 3.257 bisherigen Fragen und ergänzt neue Einträge nur einmal"
   const old = emptyState();
   addPackages(old, contents.slice(0, 13));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "28be979f19094cabb0f32e8d70a5f286686f4c6224960286ff69b8dae655bd58",
+    "a503a069e3b293c5b737f8052f523731215e74c7ff2e98311d51d0aa7d674170",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);

@@ -2,6 +2,12 @@
 
 Die drei Korrekturen sind seit Sites-Version 52 (04.10.2026) veröffentlicht, auch im öffentlichen Katalog für neue Duelle. Laufende Duellsnapshots bleiben erhalten. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-52-gesamter-main-stand-mit-sichtbarem-lernfortschritt).
 
+## Bestandsredaktion, Block 4 – 04.10.2026
+
+425 Jahresvertiefungen neu erzählt und alle 412 generierten Regievertiefungen geprüft: 395 überarbeitet, 17 passende Texte erhalten. Die 13 bereits vorhandenen CSV-Regieziele bleiben in diesem Block unverändert. Casting, Kulissen, Trickverfahren, Adaption und konkrete Handlung ersetzen pauschale Filmografien. Rollen und Darsteller stehen sinnvoll beieinander; Originalstimmen sind gekennzeichnet.
+
+341 Tests in 57 Dateien, TypeScript, Build und vollständige Quellen-/Katalogprüfung erfolgreich. Weiterhin 6.277 Fragen / 5.734 Ziele / 543 Varianten; 238 dokumentierte CSV-Zeilenabweichungen. Die 381 verbliebenen häufigen Standardsatz-Vorkommen der Jahresvertiefungen sind beseitigt; das Screening findet keine identischen Vertiefungen verschiedener Wissensziele und keine wörtlichen Sätze über mindestens zehn Film-/Personenidentitäten hinweg. Vier Bestandsblöcke abgeschlossen, 1099 unterschiedliche bestehende Fragen überarbeitet. Alle 200 Preisfragen sowie 73 gezielt ausgewählte ältere Film-/Personenfragen geprüft. Die restlichen Altfragen wurden mechanisch gesichtet; eine vollständige neue Faktenprüfung aller 6.277 Fragen ist damit nicht behauptet. Lokal auf main abgeschlossen; dieser Redaktionsstand ist noch nicht veröffentlicht. [Vorher-/Nachher-Texte, gelesene Quellen, erhaltene Texte und Prüfgrenzen](Bestandsredaktion-2026-10-04/Block-04.json).
+
 ## Bestandsredaktion, Block 3 – 04.10.2026
 
 73 Bestandsfragen gezielt geprüft, 60 überarbeitet und 13 brauchbare Texte erhalten. 19 Filmzeilen, 41 vorhandene Schauspieler-Anzeigetexte und eine zusätzlich korrigierte Altersphasen-Auswahl; die Foster-Frage zählt in beiden Änderungsarten, in der Fragenzahl einmal. Konkrete Handlungsschritte, Casting- und Namensgeschichten ersetzen allgemeine Karriere-/Imagehinweise. Figuren stehen bei ihren Darstellern; englische Originalstimmen sind ausdrücklich benannt.

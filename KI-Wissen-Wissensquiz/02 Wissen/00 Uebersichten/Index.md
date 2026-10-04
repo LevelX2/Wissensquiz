@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Bestandsredaktion abgeschlossen: Jahres-/Regievertiefungen und vier Blocknachweise](../../../docs/Fragenkorrekturen.md#bestandsredaktion-block-4--04102026)
+- [Alle 425 Jahres- und 412 Regietexte: Quellen, Änderungen und Prüfgrenzen](../../../docs/Bestandsredaktion-2026-10-04/Block-04.json)
+
 - [Bestandsredaktion, Block 3: 60 ältere Fragen konkretisiert, 13 gute Texte erhalten](../../../docs/Fragenkorrekturen.md#bestandsredaktion-block-3--04102026)
 - [Block 3: Texte, Quellen und Prüfgrenzen](../../../docs/Bestandsredaktion-2026-10-04/Block-03.json)
 

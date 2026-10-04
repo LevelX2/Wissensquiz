@@ -11,6 +11,15 @@ import { validateBackup } from "../src/storage";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/SciFi_Ergaenzung_Filmdaten.json";
 import { assertEditorialSource } from "./editorialSource";
 
+const editorial = JSON.parse(
+  readFileSync("docs/Bestandsredaktion-2026-10-04/Block-04.json", "utf8"),
+) as {
+  generatedChanges: {
+    before: { film: string; directorContext: string };
+    after: { directorContext: string };
+  }[];
+};
+
 const contents = packages.slice(0, 14).map((p) => ({
   filename: p.filename,
   text: readFileSync(`public${p.path}`, "utf8"),
@@ -51,12 +60,18 @@ it("erhält Sci-Fi-Rohquellen und bindet alle 50 Filme samt Zusatztexten, Bekann
   expect(new Set(qs.map(filmIdentity)).size).toBe(103);
   for (const f of source.films) {
     const q = qs.find((q) => q.id === f.reference_question_id)!;
+    const revision = editorial.generatedChanges.find(
+      (entry) =>
+        entry.before.film === `${f.film_title_original}|${f.film_year}`,
+    )!;
+    expect(revision).toBeDefined();
+    expect(revision.before.directorContext).toBe(f.director_context);
     expect(filmIdentity(q)).toBe(`${f.film_title_original}|${f.film_year}`);
     expect(familiarityOf(q)).toBe(f.familiarity_level);
     expect(filmData(q)).toMatchObject({
       year: f.film_year,
       countries: f.production_countries,
-      directorContext: f.director_context,
+      directorContext: revision.after.directorContext,
     });
     if (f.series) expect(filmData(q)?.series).toEqual(f.series);
     expect(
@@ -67,7 +82,7 @@ it("erhält Sci-Fi-Rohquellen und bindet alle 50 Filme samt Zusatztexten, Bekann
         filmIdentity(n) === filmIdentity(q) &&
         n.metadata.fact_kind === "director",
     )!;
-    expect(director.context).toContain(f.director_context);
+    expect(director.context).toContain(revision.after.directorContext);
     expect(director.metadata.verification_status).toBe(
       "Redaktionelle Quelle 2026-09-29",
     );
@@ -84,7 +99,7 @@ it("erhält alle 2.797 bisherigen Fragen einschließlich Regiealternativen und e
   const old = emptyState();
   addPackages(old, contents.slice(0, 12));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "2b31e9c4816878e69c8cfa46e802dc138b1b405414e0691a28c6b66bee383693",
+    "d3418b06feb55ef67e82070d18d3e2767028ece3214d8b8dd7df0ef758b06d9b",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);

@@ -4,6 +4,10 @@
 
 „Etwas tiefer eintauchen“ soll über die kurze Lösung hinausgehen. Figuren, die in Frage, Lösung oder Vertiefung im Mittelpunkt stehen, werden mit ihren Darstellern verbunden. Ergänzungen bleiben knapp und beziehen sich auf den jeweiligen Film und das Erscheinungsjahr. Reine Orts-, Technik-, Kreaturen- oder Regiefragen erhalten keine beliebige komplette Besetzungsliste.
 
+## Überarbeitung, Block 4 – 04.10.2026
+
+425 Jahresvertiefungen neu erzählt und alle 412 generierten Regievertiefungen geprüft: 395 überarbeitet, 17 passende Texte erhalten. Die 13 bereits vorhandenen CSV-Regieziele bleiben in diesem Block unverändert. Casting, Kulissen, Trickverfahren, Adaption und konkrete Handlung ersetzen pauschale Filmografien. Rollen und Darsteller stehen sinnvoll beieinander; Originalstimmen sind gekennzeichnet. Die Jahres- und Regietexte eines Films erzählen nach Möglichkeit unterschiedliche Einzelheiten. Die Zentralredaktion entfernt auch Dopplungen innerhalb eines Films. 341 Tests in 57 Dateien, TypeScript, Build und vollständige Quellen-/Katalogprüfung erfolgreich. Weiterhin 6.277 Fragen / 5.734 Ziele / 543 Varianten; 238 dokumentierte CSV-Zeilenabweichungen. Die 381 verbliebenen häufigen Standardsatz-Vorkommen der Jahresvertiefungen sind beseitigt; das Screening findet keine identischen Vertiefungen verschiedener Wissensziele und keine wörtlichen Sätze über mindestens zehn Film-/Personenidentitäten hinweg. Vier Bestandsblöcke abgeschlossen, 1099 unterschiedliche bestehende Fragen überarbeitet. Alle 200 Preisfragen sowie 73 gezielt ausgewählte ältere Film-/Personenfragen geprüft. Die restlichen Altfragen wurden mechanisch gesichtet; eine vollständige neue Faktenprüfung aller 6.277 Fragen ist damit nicht behauptet. Lokal auf main abgeschlossen; dieser Redaktionsstand ist noch nicht veröffentlicht. [Einzelnachweise](Bestandsredaktion-2026-10-04/Block-04.json).
+
 ## Überarbeitung, Block 3 – 04.10.2026
 
 73 Bestandsfragen gezielt geprüft, 60 überarbeitet und 13 brauchbare Texte erhalten. 19 Filmzeilen, 41 vorhandene Schauspieler-Anzeigetexte und eine zusätzlich korrigierte Altersphasen-Auswahl; die Foster-Frage zählt in beiden Änderungsarten, in der Fragenzahl einmal. Konkrete Handlungsschritte, Casting- und Namensgeschichten ersetzen allgemeine Karriere-/Imagehinweise. Figuren stehen bei ihren Darstellern; englische Originalstimmen sind ausdrücklich benannt. 340 Tests in 57 Dateien, TypeScript, Build und vollständige Quellen-/Katalogprüfung erfolgreich. Weiterhin 6.277 Fragen / 5.734 Ziele / 543 Varianten; 238 dokumentierte CSV-Zeilenabweichungen. Kein vollständiger neuer Faktencheck aller älteren Texte behauptet. Lokal auf main abgeschlossen; noch nicht veröffentlicht. Die Auswahl folgt Abstraktions- und Wiederholungshinweisen, nicht einer Mindestwortzahl. Das konkrete kurze Dracula-Produktionsbeispiel bleibt erhalten. [Einzelnachweise und Prüfgrenzen](Bestandsredaktion-2026-10-04/Block-03.json).
@@ -59,7 +63,7 @@ Bei `PRZ-202610-P01-E-004` zu „Barry Lyndon“ fehlen die Besonderheiten der K
 3. Generierte Jahr-/Regievertiefungen individuell anreichern.
 4. Ältere Schauspieler- und Filmtexte selektiv überarbeiten: konkrete Handlungsschritte, Figurenwissen oder belegte Produktionsgeschichten ergänzen; gute Texte erhalten.
 
-Die damalige Statusprüfung änderte und veröffentlichte keine Fragen. Die anschließende Überarbeitung ist oben als Block 1 dokumentiert.
+Die damalige Statusprüfung änderte und veröffentlichte keine Fragen. Die anschließende Überarbeitung ist oben in vier abgeschlossenen Blöcken dokumentiert.
 
 ## Prüfung am 26.09.2026
 

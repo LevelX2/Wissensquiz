@@ -289,3 +289,64 @@ it("bewahrt historische Runden und Fortschritt beim Ergänzen eines vollständig
   );
   expect(() => validateBackup(JSON.parse(JSON.stringify(s)))).not.toThrow();
 });
+
+it("prüft alle redigierten Jahres- und Regietexte gegen den Quellen- und Identitätsnachweis", () => {
+  const revision = JSON.parse(
+    readFileSync("docs/Bestandsredaktion-2026-10-04/Block-04.json", "utf8"),
+  );
+  expect(revision.generatedChanges).toHaveLength(425);
+  expect(revision.counts.directorTextsReviewed).toBe(412);
+  expect(
+    revision.counts.directorTextsRevised + revision.counts.directorTextsKept,
+  ).toBe(412);
+  const texts = new Set<string>();
+  for (const f of facts) {
+    const entry = revision.generatedChanges.find(
+      (c: { id: string }) => c.id === f.id,
+    );
+    expect(entry, f.id).toBeDefined();
+    expect(entry.after, f.id).toEqual(f);
+    const stable = (value: Record<string, unknown>) =>
+      Object.fromEntries(
+        Object.entries(value).filter(
+          ([key]) =>
+            !["yearContext", "directorContext", "additionalSources"].includes(
+              key,
+            ),
+        ),
+      );
+    expect(stable(entry.after), f.id).toEqual(stable(entry.before));
+    const year = extra.find((q) => q.id === f.id + "-YEAR")!;
+    expect(year.context, f.id).toBe(f.yearContext);
+    expect(year.context, f.id).toContain(String(f.year));
+    expect(year.answers.find((a) => a.id === year.correctId)?.text, f.id).toBe(
+      String(f.year),
+    );
+    texts.add(year.context);
+    for (const source of entry.yearCheckedSources) {
+      expect(source.supports, f.id).toBeTruthy();
+      expect(source.readOn, f.id).toBeTruthy();
+      expect(year.sources, f.id).toContain(source.url);
+    }
+    if (entry.directorAction === "existing_csv") {
+      expect(f.existingDirectorId, f.id).toBeTruthy();
+      continue;
+    }
+    const director = extra.find((q) => q.id === f.id + "-DIRECTOR")!;
+    const background = directorExplanation(director)!;
+    expect(background.text, f.id).toBeTruthy();
+    if (entry.directorAction === "keep") {
+      expect(
+        entry.directorBackgroundAfter ?? entry.after.directorContext,
+        f.id,
+      ).toEqual(entry.directorBackgroundBefore ?? entry.before.directorContext);
+    } else {
+      for (const source of entry.directorCheckedSources) {
+        expect(source.supports, f.id).toBeTruthy();
+        expect(source.readOn, f.id).toBeTruthy();
+        expect(background.sources, f.id).toContain(source.url);
+      }
+    }
+  }
+  expect(texts.size).toBe(425);
+});
