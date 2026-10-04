@@ -1,5 +1,6 @@
 # Wissensindex
 
+- [Bestätigte Fragenkorrekturen: Planet der Affen, Quellen und Schutz älterer Spiele](../../../docs/Fragenkorrekturen.md)
 - [Projektstart und offene Entscheidungen](../../00%20Projektstart.md)
 - [GitHub-Repository (Remote origin)](https://github.com/LevelX2/Wissensquiz)
 - [Regeldatei KI-Wissenspflege](../../00%20Steuerung/Regeldatei%20KI-Wissenspflege.md)

@@ -70,7 +70,7 @@ it("ändert keine der 2.567 bestehenden Fragen oder Antwortvorlagen durch die Er
   const old = emptyState();
   addPackages(old, contents.slice(0, 11));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "8c464c37df4670df982019e8a608b2f4fe3d0367efeb1f1692525b713bf2ed9a",
+    "abe1864cb4ad9417d4ff4f77975db64f64c393d164a8177721eb7f5afe6305eb",
   );
   const oldQuestions = structuredClone(old.questions);
   addPackages(old, contents);

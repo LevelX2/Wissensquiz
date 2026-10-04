@@ -522,3 +522,11 @@ Richtig jetzt als heller aufsteigender Sinus-Zweiklang (250 ms), falsch als tief
 Der vorhandene Browsertest kontrolliert zusätzlich Frequenzrichtung, Register, Wellenform und Gesamtdauer unter 300 ms. Weiterhin geprüft: kein Ton beim Laden, gespeichertes Stummschalten, Antwortfeedback und fehlende Schnittstellen. Kein Hörtest auf einem physischen Smartphone; die tatsächliche Lautstärke hängt von Gerät und Systempegel ab.
 
 125 Logik-/Datenbanktests, Produktions-Build, alle 63 Browserprüfungen und `git diff --check` erfolgreich. Keine Datenbank-, Lernstands- oder Rohquellenänderung.
+
+## 04.10.2026 – Zwei direkte Fragenkorrekturen und Arbeitsregeln
+
+Die bestätigten Fragen `KOM-L-026-V1` (Hangover) und `SF-202609-P02-L-014` (Planet der Affen) direkt in den öffentlichen CSV korrigiert. Je Datei genau eine Zeile verändert, ursprüngliche Lieferungen erhalten. Fragetexte, Lösungen und passende Antwortfeedbacks mit dem App-Parser geprüft; Quellen, Erklärung und Vertiefung der Planet-der-Affen-Frage ergänzt. Keine neue Laufzeit-, Kompatibilitäts- oder Migrationslogik.
+
+333 Tests insgesamt erfolgreich: 332 im vollständigen Lauf, der wegen einer Windows-Dateisperre beim Schreiben des Action-Testberichts fehlgeschlagene Fall anschließend isoliert erfolgreich. Produktionsbuild erfolgreich; 6.277 Fragen unverändert. Prüffingerabdrücke und Quellenabgleich an die zwei bestätigten Basisdatenkorrekturen angepasst. Keine Browserprüfung erforderlich, da Oberfläche und Persistenzcode unverändert sind. Fremde Importberichte nach inhaltlichem Vergleich bytegleich wiederhergestellt.
+
+AGENTS, Projekteinstieg und Arbeitsworkflow auf direkte Arbeit und kurze lokale Abschlusscommits auf `main` ausgerichtet; neue Worktrees nur auf Nutzerauftrag beziehungsweise nach vorgeschlagener und bestätigter Auslagerung. Neue oder erweiterte Kompatibilitätsmaßnahmen benötigen vor Umsetzung ausdrückliche Nutzerfreigabe. Kein Push und keine Veröffentlichung. [Fragenkorrekturen](Fragenkorrekturen.md).

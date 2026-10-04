@@ -19,8 +19,15 @@ const hash = (value: string | Buffer) =>
 
 it("erhält Sci-Fi-Rohquellen und bindet alle 50 Filme samt Zusatztexten, Bekanntheit und Kategorien ein", () => {
   expect(hash(readFileSync("public/scifi-ergaenzung-fragen.csv"))).toBe(
-    "c5af33b206ed17443fc1283e7dbf5e028f3514ddd4d95db056de0799c6726af8",
+    "59fabe3a3df4be371731a5ed265d8afc6b4e41c1c06f480d85a4179124b05b9c",
   );
+  expect(
+    hash(
+      readFileSync(
+        "KI-Wissen-Wissensquiz/01 Rohquellen/SciFi_Ergaenzung_360_Fragen.csv",
+      ),
+    ),
+  ).toBe("c5af33b206ed17443fc1283e7dbf5e028f3514ddd4d95db056de0799c6726af8");
   expect(
     hash(
       readFileSync(
@@ -71,7 +78,7 @@ it("erhält alle 2.797 bisherigen Fragen einschließlich Regiealternativen und e
   const old = emptyState();
   addPackages(old, contents.slice(0, 12));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "825ce93bee9da74a64963b2f7fbd3dc2c5d5835fb2f91cb694b528b750185152",
+    "937de6d7a549482b078498dd5ed83a1d00a43912ca9c971750e277c6df588ff0",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);

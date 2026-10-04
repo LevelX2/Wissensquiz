@@ -53,7 +53,13 @@ it("prüft alle Classics-Zuordnungen, erhält Texte/IDs und ergänzt Tags idempo
       filename: ref.filename,
       available: !!pkg,
       matches: pkg
-        ? createHash("sha256").update(pkg.text).digest("hex") === ref.sha256
+        ? createHash("sha256")
+            .update(
+              readFileSync(
+                `KI-Wissen-Wissensquiz/01 Rohquellen/${ref.filename}`,
+              ),
+            )
+            .digest("hex") === ref.sha256
         : null,
     };
   });
@@ -172,10 +178,13 @@ it("prüft Arthouse-Referenzen samt Quellhashes, Überschneidung und fehlenden I
   expect(JSON.stringify(questions) === first).toBe(true);
   applyCategoryTags(questions);
   for (const ref of artReferences.source_files) {
-    const pkg = contents.find((p) => p.filename === ref.filename)!;
-    expect(createHash("sha256").update(pkg.text).digest("hex")).toBe(
-      ref.sha256,
-    );
+    expect(
+      createHash("sha256")
+        .update(
+          readFileSync(`KI-Wissen-Wissensquiz/01 Rohquellen/${ref.filename}`),
+        )
+        .digest("hex"),
+    ).toBe(ref.sha256);
   }
   const art = questions.filter((q) => isCategory(q, ARTHOUSE));
   expect(art).toHaveLength(362);

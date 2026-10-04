@@ -117,11 +117,27 @@ it.each([
     expect(
       imported.questions.filter((q) => q.metadata.variant_of),
     ).toHaveLength(size / 6);
-    expect(readFileSync(`public/${path}-fragen.csv`)).toEqual(
-      readFileSync(
-        `KI-Wissen-Wissensquiz/01 Rohquellen/${imported.report.filename}`,
-      ),
+    const raw = readFileSync(
+      `KI-Wissen-Wissensquiz/01 Rohquellen/${imported.report.filename}`,
     );
+    if (["scifi-ergaenzung", "komoedie"].includes(path)) {
+      const original = importCsv(raw.toString("utf8")).questions;
+      const changes = imported.questions.filter(
+        (q, index) => JSON.stringify(q) !== JSON.stringify(original[index]),
+      );
+      expect(changes.map((q) => q.id)).toEqual([
+        path === "scifi-ergaenzung" ? "SF-202609-P02-L-014" : "KOM-L-026-V1",
+      ]);
+      expect(
+        changes[0].answers.find((a) => a.id === changes[0].correctId)?.text,
+      ).toBe(
+        path === "scifi-ergaenzung"
+          ? "Als wilde Tiere"
+          : "Doug – der Bräutigam",
+      );
+    } else {
+      expect(readFileSync(`public/${path}-fragen.csv`)).toEqual(raw);
+    }
     for (const q of imported.questions) {
       const mixed = shuffle(q.answers, () => 0.4);
       expect(mixed.find((a) => a.id === q.correctId)?.text).toBe(

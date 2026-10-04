@@ -21,7 +21,10 @@
 ## Git, Checks und Sicherheit
 
 - Git-Modell: lokales Git mit GitHub-Remote `origin` (`https://github.com/LevelX2/Wissensquiz.git`); Sites-Quellveröffentlichung nach ausdrücklichem Hostingauftrag. Integrationsbranch: `main`.
-- Vor Arbeitsänderungen auf `main` einen passenden `codex/`-Arbeitsbranch anlegen. Die initiale Projektanlage erfolgt auf `codex/projektanlage`; `main` erhält denselben Initialstand.
+- Standardmäßig direkt auf `main` im bestehenden Arbeitsordner arbeiten. Für normale, überschaubare Änderungen keinen neuen Arbeitsbranch oder Worktree anlegen.
+- Sobald ein beauftragter Änderungsblock abgeschlossen und passend geprüft ist, ihn selbstständig mit einer kurzen, aussagekräftigen Commit-Nachricht lokal auf `main` committen. Nur zugehörige Änderungen aufnehmen; fremde oder unfertige Arbeitsstände erhalten.
+- Einen neuen Worktree anlegen, wenn der Nutzer ihn ausdrücklich beauftragt. Bei größeren, umfassenden Änderungen einen Worktree vorschlagen und vor seiner Anlage nachfragen; Umfang allein ist keine automatische Freigabe.
+- Das Projekt befindet sich in der Entwicklung. Beauftragte Korrekturen direkt und möglichst einfach umsetzen. Neue Kompatibilitätsmaßnahmen für Altstände, historische Daten oder frühere Versionen müssen vor ihrer Umsetzung ausdrücklich vom Nutzer genehmigt werden. Dazu zählen insbesondere Migrationen, Adapter, Fallbacks und zusätzliche Schutz- oder Sonderlogik zum Erhalt früheren Verhaltens; sie sind kein automatischer Teil einer Korrektur. Bestehende Kompatibilitätslogik ohne gesonderten Auftrag nicht erweitern.
 - Remote, Push, PR und Veröffentlichung nur nach ausdrücklichem Auftrag.
 - Sites ist über `.openai/hosting.json` verknüpft; bestehende Projekt-ID erhalten. Der Nutzer hat inzwischen öffentlichen Besucherzugriff ohne vorgeschaltete ChatGPT-Anmeldung beauftragt; umgesetzt am 26.09.2026. Veröffentlichungen und spätere Site-Änderungen nach `sites-hosting` bzw. dokumentiertem Ersatzablauf in `docs/Sites-Betrieb.md` ausführen; bestehenden Zugriff erhalten. Gastspielstände bleiben im Browser; angemeldete Kontostände werden automatisch privat in Supabase gesichert. Keine Nutzerdaten in Veröffentlichungsartefakte aufnehmen.
 - Keine Secrets, privaten Pfade, lokalen Nutzdaten oder reproduzierbaren Build-Artefakte versionieren.

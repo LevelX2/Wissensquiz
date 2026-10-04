@@ -76,7 +76,7 @@ it("bewahrt alle 3.257 bisherigen Fragen und ergänzt neue Einträge nur einmal"
   const old = emptyState();
   addPackages(old, contents.slice(0, 13));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "51acda154453813d5d5ba2ff5cb5b505ce927081ace7262e2d91ab6a4a1f848a",
+    "a6f48d30e15bb0f8a3951661b8931993d7fd87357340304ba1ea215d70879428",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);
