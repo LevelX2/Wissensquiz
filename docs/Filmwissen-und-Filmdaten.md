@@ -30,6 +30,8 @@ Genres und Themen stammen aus der vorhandenen Filmreferenz. Classics und Arthous
 
 ## Jahresfragen
 
+Aktueller Vertiefungsmaßstab seit 04.10.2026: Alle 545 aktiven Film-Jahresfragen zeigen nach der Antwort einen individuellen zeitlichen Anker aus Geschichte, Biografie, Wissenschaft, Technik, Musik, Literatur oder einer passenden Filmverbindung. Der Anker nennt das gemeinsame Jahr oder beide Jahre mit verständlichem Abstand. Die unten beschriebene Abgrenzung der ersten Veröffentlichung bleibt für die richtige Lösung maßgeblich; spätere Länderstarts sind nicht mehr der Schwerpunkt der Vertiefung. `src/yearEditorial.json` und `src/yearEditorial.ts` lösen die Ergänzungen rein für die Anzeige auf; Rohfragen, Versionen und Lernstände bleiben erhalten. [Redaktions- und Prüfnachweis](Jahresanker-2026-10-04/Pruefbericht.md).
+
 Gemeint ist die erste Veröffentlichung einschließlich Premiere/Festival, nicht zwingend der deutsche oder breite reguläre Kinostart. Die Jahreszahlen sämtlicher 300 Quellenreferenzen stimmen mit der ersten in der jeweiligen Filmquelle angegebenen Veröffentlichung überein. Bei abweichenden späteren Länderstarts steht ein Hinweis in der Vertiefung und in Filmdaten. Die Regie im Fragetext grenzt Fassungen und Remakes ein.
 
 Vor der Antwort steht die gesuchte Jahreszahl nicht im Fragetext. Für die Orwell-Verfilmung „1984“ identifizieren John Hurt und Richard Burton die Fassung, damit auch der Titel die Lösung nicht verrät. Quellen, Merksatz, Erklärung und Filmdaten erscheinen erst nach der Antwort. Die Jahreszahlen in den vier Antwortoptionen sind natürlich sichtbar.

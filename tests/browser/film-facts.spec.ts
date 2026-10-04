@@ -6,7 +6,7 @@ import { addPackages, packages } from "../../src/packages";
 import { answer, startRound } from "../../src/engine";
 import { validateBackup } from "../../src/storage";
 
-for (const kind of ["year", "director", "original"] as const) {
+for (const kind of ["year", "csv-year", "director", "original"] as const) {
   test(`${kind}: Filmfrage ohne Lösungshinweis, gespeicherte Antworten und Offline-Fortsetzen`, async ({
     page,
     context,
@@ -26,10 +26,12 @@ for (const kind of ["year", "director", "original"] as const) {
       })),
     );
     const q = state.questions.find((q) =>
-      kind === "original"
-        ? q.metadata.film_title_original === "Star Trek: First Contact" &&
-          !q.metadata.fact_kind
-        : q.id === `FF-001-${kind === "year" ? "YEAR" : "DIRECTOR"}`,
+      kind === "csv-year"
+        ? q.id === "ACT-202610-P01-S-009"
+        : kind === "original"
+          ? q.metadata.film_title_original === "Star Trek: First Contact" &&
+            !q.metadata.fact_kind
+          : q.id === `FF-001-${kind === "year" ? "YEAR" : "DIRECTOR"}`,
     )!;
     const pool = state.questions;
     state.questions = [q];
@@ -62,7 +64,8 @@ for (const kind of ["year", "director", "original"] as const) {
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     const heading = page.locator(".question-card h1");
-    if (kind === "year") await expect(heading).not.toContainText("1988");
+    if (kind === "year" || kind === "csv-year")
+      await expect(heading).not.toContainText(snapshot.metadata.film_year);
     else if (kind === "director")
       await expect(heading).not.toContainText("John McTiernan");
     await expect(page.locator(".question-genre")).toHaveText(
@@ -92,13 +95,31 @@ for (const kind of ["year", "director", "original"] as const) {
     await expect(page.locator(".feedback")).toBeVisible();
     if (kind === "director") {
       await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
-      await expect(page.locator(".explanation")).toContainText("Predator");
+      await expect(page.locator(".explanation")).toContainText("Fox Plaza");
       await expect(page.locator(".explanation")).not.toContainText(
         "Gefragt ist die Regie dieses Films",
       );
       await expect(
         page.getByRole("link", { name: /Regiequelle:/ }),
       ).toBeVisible();
+    }
+    if (kind === "year" || kind === "csv-year") {
+      await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
+      await expect(page.locator(".explanation")).toContainText(
+        kind === "year" ? "Rain Man" : "Windows 95",
+      );
+      await expect(page.locator(".memory-anchor")).toContainText(
+        kind === "year" ? "1988" : "1995",
+      );
+      await page.getByText("Quellen ansehen", { exact: true }).click();
+      await expect(
+        page.locator(
+          `.explanation a[href="${kind === "year" ? "https://en.wikipedia.org/wiki/Rain_Man" : "https://blogs.windows.com/windows-insider/2020/08/24/looking-back-the-25th-anniversary-of-windows-95/"}"]`,
+        ),
+      ).toBeVisible();
+      await page.locator(".explanation").screenshot({
+        path: `test-results/jahresanker-${kind}-320.png`,
+      });
     }
     const film = page.locator(".film-data");
     await expect(film).not.toHaveAttribute("open", "");
@@ -107,7 +128,11 @@ for (const kind of ["year", "director", "original"] as const) {
     await expect(film).toContainText(snapshot.metadata.film_year);
     await expect(film).toContainText("USA");
     await expect(film).toContainText(
-      kind === "original" ? "Jonathan Frakes" : "John McTiernan",
+      kind === "original"
+        ? "Jonathan Frakes"
+        : kind === "csv-year"
+          ? "Michael Bay"
+          : "John McTiernan",
     );
     await expect(film).toContainText(kind === "original" ? "Teil 8" : "Teil 1");
     if (kind === "original")

@@ -2,6 +2,7 @@ import { type AnswerEvent, type Question } from "./model";
 import { filmDetails } from "./filmDetails";
 import { directorExplanation } from "./filmFacts";
 import { actorPresentation } from "./actorEditorial";
+import { yearPresentation } from "./yearEditorial";
 import { FilmDataPanel } from "./FilmDataPanel";
 import { ActorPortrait } from "./ActorPortrait";
 
@@ -10,8 +11,16 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const film = filmDetails(q);
   const director = directorExplanation(q);
   const actor = actorPresentation(q);
-  const deepContext = actor?.text ?? director?.text ?? q.context;
-  const sources = [...new Set([...q.sources, ...(actor?.sources ?? [])])];
+  const year = yearPresentation(q);
+  const deepContext = year?.text ?? actor?.text ?? director?.text ?? q.context;
+  const anchor = year?.anchor ?? q.anchor;
+  const sources = [
+    ...new Set([
+      ...q.sources,
+      ...(year?.sources ?? []),
+      ...(actor?.sources ?? []),
+    ]),
+  ];
   return (
     <div className="explanation">
       <span className="eyebrow">DIE IDEE DAHINTER</span>
@@ -60,12 +69,12 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
         </details>
       )}
       <FilmDataPanel q={q} />
-      {q.anchor && (
+      {anchor && (
         <div className="memory-anchor">
           <span>✦</span>
           <p>
             <small>DEIN MERKSATZ</small>
-            {q.anchor}
+            {anchor}
           </p>
         </div>
       )}

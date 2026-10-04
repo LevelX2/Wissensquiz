@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 04.10.2026 – Alle Film-Jahresfragen mit zeitlichen Ankern
+
+545 bestehende Film-Jahresfragen mit individuellen Vertiefungen, Merksätzen und Ereignisquellen ergänzt: 425 generierte und 120 CSV-Fragen. 447 Anker verbinden dasselbe Jahr, 98 nennen beide Jahre und ihren Abstand; 294 führen über weitere Filme hinaus. Die Auflösung erfolgt erst nach der Antwort. Rohfragen, IDs, Versionen, richtige Antworten, Lernstände und Kataloghash bleiben unverändert. [Maßstab, Beispiele, Quellen und vollständiger Vorher-/Nachher-Nachweis](Jahresanker-2026-10-04/Pruefbericht.md).
+
+367 Tests in 61 Dateien, TypeScript und Produktionsbuild erfolgreich. Ein Sicherungstest nach Zeitüberschreitung beim parallelen Build zunächst gezielt und anschließend im vollständigen Lauf mit zwei Workern erfolgreich. 20 unterschiedliche Browserfälle in Chromium/mobilem WebKit bestanden: Jahresantworten, alte Rundensnapshots, Lösungsschutz, Quellen, Offline-Fortsetzen und gespeicherte Lernstände. Eine veraltete Erwartung im Regietest auf den bereits vorhandenen Text abgeglichen; Rücklauf aller fünf Filmfälle erfolgreich. Isolierte Profile, kontrollierte Testzeit, zwei schmale Jahresvertiefungen visuell geprüft, Axe und Diff-Prüfung erfolgreich. Bekannter Buildgrößenhinweis; keine vollständige neue Faktenprüfung des gesamten Katalogs oder physische Geräteabnahme. Lokal auf main abgeschlossen, noch nicht veröffentlicht; fremde Änderungen erhalten.
+
 ## 04.10.2026 – Lösungsanzeige den passenden Spielarten zugeordnet
 
 Filmreise und Fehlertraining zeigen Lösungen und Vertiefungen immer direkt. 10 Fragen, Fehlerfrei, Zeitkonto und Freies Spiel verwenden die Profiloption; neue Duelle verwenden zwingend gesammelte Lösungen. Bei „Nach der Runde“ werden nach bestätigtem Speichern automatisch die nächste Frage und am Ende der unmittelbare Rückblick geöffnet. Trefferfarben, Lernfortschritt, Antworttöne und Laufpunkte bleiben vorher verborgen beziehungsweise neutral. Die kurze einstellbare Antwortauflösung und manuelles Lesen im direkten Ablauf bleiben erhalten. Keine neue Migration, Abhängigkeit oder Veränderung echter Spielstände; vorhandene Duellsnapshots nicht umgeschrieben. [Vertrag und Nutzerhinweis](Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026).

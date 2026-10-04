@@ -161,3 +161,6 @@
 
 - [Jahres- und Regiefragen: ausgeglichene Jahresränge, größere Abstände und Filmdaten](../../../docs/Filmwissen-und-Filmdaten.md)
 - [Maschinelle Jahresantwortprüfung: 550.000 Ziehungen, Abstände und Grenzfall](../../../docs/Jahresantworten-Pruefung-2026-10-03.json)
+
+- [545 neue Jahresvertiefungen als zeitliches Merkgitter: Maßstab, Quellen und Prüfung](../../../docs/Jahresanker-2026-10-04/Pruefbericht.md)
+- [Nutzerauftrag: Jahresfragen mit interessanten zeitlichen Ankern verbinden](../../01%20Rohquellen/2026-10-04%20Nutzerauftrag%20Jahresanker.txt)
