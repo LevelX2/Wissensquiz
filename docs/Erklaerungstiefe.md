@@ -4,6 +4,45 @@
 
 „Etwas tiefer eintauchen“ soll über die kurze Lösung hinausgehen. Figuren, die in Frage, Lösung oder Vertiefung im Mittelpunkt stehen, werden mit ihren Darstellern verbunden. Ergänzungen bleiben knapp und beziehen sich auf den jeweiligen Film und das Erscheinungsjahr. Reine Orts-, Technik-, Kreaturen- oder Regiefragen erhalten keine beliebige komplette Besetzungsliste.
 
+## Bestandsprüfung am 04.10.2026
+
+**Status: gezielte Überarbeitung sinnvoll.** Vollständige automatische Sichtung der **6.277 bestehenden App-Fragen / 5.734 Wissensziele**, anschließend **164 Fragen samt Antworten und Hauptvertiefung redaktionell gelesen**. Die Auswahl deckt alle 19 Pakete, vorhandene Schwierigkeiten und generierte Jahr-/Regiefragen ab; zusätzlich wurden Verdachtsfälle gelesen. Aktuelle Schauspieler- und Regie-Anzeigetexte sowie Besetzungsergänzungen berücksichtigt. Das neue 320-Fragen-Paket ist noch nicht eingebunden und bleibt außerhalb dieser Prüfung. Basis: Main-Commit `6ee3c89`, App-Inhalt der Veröffentlichung 52.
+
+[Prüfnachweis mit IDs, Originalstellen, angezeigten Texten, Suchregeln und Quellenfingerabdrücken](Bestandsredaktion-Pruefung-2026-10-04.json). Das ist eine redaktionelle Bestandsdiagnose mit gezielter Lesestichprobe, keine vollständige Faktenprüfung oder statistisch repräsentative Fehlerquote. Die ältere Besetzungsprüfung vom 26.09.2026 beantwortet eine andere Qualitätsfrage.
+
+### Frage und Antwortauswahl
+
+Mindestens **zehn starke Titel- oder Namenshinweise** bestätigt: Alcatraz in `ACT-L-013`, James Bond und John Wick in zwei Actionvarianten, Bridget Jones, Saint-Tropez, Rosa Parks in einer Expertenfrage, Chaplin, Zamunda, Wolf und Fliege. Beispiele: [The Rock](../public/action-fragen.csv), [Die Fliege](../public/scifi-ergaenzung-fragen.csv), [Rosa Parks](../public/schauspieler-fragen.csv). Filmkennzeichnung und Wissensziel müssen gemeinsam überarbeitet werden.
+
+Ein weiterer automatischer Treffer ist **kein eindeutiger Lösungsverrat**: Bei `SCHAUSPIELER-202610-P03-155-L-1` stehen Thelma und Louise beide im Titel. Allerdings scheiden Maggie und Darcy durch die Frage nach einer der beiden Titelheldinnen bereits aus; zwei Ablenker funktionieren deshalb nicht. Die Phrasensuche fand neun Kandidaten, acht davon als starke Hinweise bestätigt; zwei weitere Fälle wurden beim Lesen erkannt. Die Zahl zehn ist eine Mindestmenge.
+
+### Was die Vertiefungen leisten
+
+| Bereich | Befund | Einordnung |
+| --- | --- | --- |
+| Preise, 200 Fragen | 82 Texte enthalten mindestens einen wörtlich wiederkehrenden allgemeinen Satz; ein Schlusssatz kommt 30-mal vor. | Höchste Priorität für individuelle Vertiefungen. Kategorienabgrenzung oder allgemeine Betrachtungsanweisungen erzählen oft wenig über die ausgezeichnete Leistung. |
+| Generierte Jahresfragen, 425 | 381 teilen dieselbe Erklärung des Begriffs erste Veröffentlichung. | Nützliche Definition; als Deep Dive fehlt häufig eine individuelle Veröffentlichungs- oder Filmgeschichte. |
+| Generierte Regiefragen, 412 | 311 Haupttexte unter 35 Wörtern. | Suchsignal, kein Fehlernachweis. Knappes Filmografiewissen kann sinnvoll sein; filmbezogene Entstehungsgeschichten gezielt prüfen. |
+| Älteres Schauspielerpaket, 800 | 341 Haupttexte unter 35 Wörtern. | Einige gelesene Texte bleiben bei allgemeinen Karriereabgrenzungen. Die neueren 600 Schauspielerfragen wirken in der Stichprobe konkreter. |
+| Filmtexte | Unterschiedliche Qualität; 114 von 960 Alle-Genres-Texten unter 35 Wörtern. | Mehrere ältere Texte wechseln schnell von der Lösung zu einer allgemeinen Deutung. Andere liefern bereits klare Szenenfolgen und interessante Produktionsinformationen. |
+
+Keine vollständige wortgleiche Hauptvertiefung über unterschiedliche Wissensziele gefunden. Das Problem besteht vor allem aus wiederkehrenden Schlussbausteinen und ähnlichen Deutungsmustern. Die Wortzahl ist kein Qualitätsmaß: Auch ein kurzer Text kann einen guten konkreten Zusammenhang erklären.
+
+**Beispiele für Überarbeitung:** `ACT-202610-P01-S-025` zu „Gefährliche Brandung“ spricht von Pappas’ nebensächlichen Beobachtungen, benennt aber keine und erklärt nicht, wie daraus die Surfer-Theorie entsteht. `ART-M-033` zu „Only Lovers Left Alive“ deutet die Beziehung über Detroit/Tanger, nennt aber keine konkrete Gewohnheit oder Szene. `PRZ-202610-P01-M-004` zu „Ben Hur“ endet mit „Er ist keine Gesamtwertung der Karriere“ ohne klaren unmittelbaren Bezug.
+
+Bei `PRZ-202610-P01-E-004` zu „Barry Lyndon“ fehlen die Besonderheiten der Kameraarbeit; stattdessen stehen wiederkehrende Kategorien- und Betrachtungssätze. Ein ergiebigerer Ansatz wäre die Geschichte der Kerzenlichtaufnahmen, der lichtstarken Objektive, des Kameraumbaus und der schwierigen Schärfenführung. Dafür wurde das [ASC-Interview mit John Alcott](https://theasc.com/article/flashback-barry-lyndon/) als Primärquelle gelesen. Das ist ein belegter Vorschlag, noch keine Textkorrektur.
+
+**Erhaltenswerte Beispiele:** `SF-S-033` („RoboCop“) verbindet die vierte Direktive, Jones’ Entlassung und den entfallenden Schutz kausal. `MUS-202609-P01-M-008` („La La Land“) führt vom Kinofilm über die Projektorpanne zum Griffith Observatory und zur Tanzfantasie. Die Gosling-Frage `SCHAUSPIELER-202610-P02-104-A-2` erzählt eine konkrete Gemini-8-Episode vor Apollo 11. Der kurze „Her“-Text `SFI-202610-P01-M-007` enthält eine individuelle Produktionsinformation. Diese Bewertungen betreffen die Textqualität; sie ersetzen keine erneute Belegprüfung.
+
+### Empfohlene Reihenfolge
+
+1. Zehn bestätigte starke Lösungshinweise und die Thelma-&-Louise-Auswahl korrigieren.
+2. Preisvertiefungen anhand konkreter ausgezeichneter Leistungen überarbeiten; Ablenker dabei mitlesen.
+3. Generierte Jahr-/Regievertiefungen individuell anreichern.
+4. Ältere Schauspieler- und Filmtexte selektiv überarbeiten: konkrete Handlungsschritte, Figurenwissen oder belegte Produktionsgeschichten ergänzen; gute Texte erhalten.
+
+Keine Fragen geändert oder veröffentlicht. Nur Bestandsnachweis und Projektwissen gepflegt.
+
 ## Prüfung am 26.09.2026
 
 Alle **720 Fragen einschließlich Varianten** aus Sci-Fi, Action, Horror und Fantasy wurden auf diesen Aspekt geprüft: **125 Filme**, **627 Fragen mit ergänzter Vertiefung**, **64 bereits mit den betreffenden Darstellern versehene Fragen**, **29 ohne zusätzliche einzelne gespielte Figur im Mittelpunkt**. Varianten werden einzeln gegen ihren Originalinhalt geprüft, auch wenn sie denselben Kontext teilen.

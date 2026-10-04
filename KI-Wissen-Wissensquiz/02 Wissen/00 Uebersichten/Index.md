@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Bestehende Fragen und Deep Dives: Lösungshinweise, wiederkehrende Narrative und Überarbeitungsprioritäten – 04.10.2026](../../../docs/Erklaerungstiefe.md#bestandsprüfung-am-04102026)
+- [Prüfnachweis: 6.277 Fragen gesichtet, 164 redaktionell gelesen](../../../docs/Bestandsredaktion-Pruefung-2026-10-04.json)
+
 - [Sichtbare Lernstufen, Wiederholungstermine, Zwischenfortschritt und sofortige Fehlerkorrektur – 04.10.2026](../../../docs/Lernfortschritt-2026-10-04.md)
 
 - [Vorab grün wirkende Antwort auf dem Handy: Hover-Ursache und lokale Korrektur](../../../docs/Hilfe-und-Navigation.md#neutrale-antworten-auf-touchgeräten--04102026)

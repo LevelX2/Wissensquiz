@@ -4,6 +4,7 @@ Stand: 04.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- Bestehende Fragen am 04.10.2026 redaktionell gesichtet: 6.277 automatisch, 164 gezielt gelesen; mindestens zehn starke Lösungshinweise, wiederkehrende allgemeine Preisvertiefungen und wenig individuelle Jahreskontexte. Priorisierte Überarbeitung empfohlen; Fragen unverändert. [Befunde und Grenzen](../docs/Erklaerungstiefe.md#bestandsprüfung-am-04102026).
 - Redaktionell am 04.10.2026 mit drei Subagenten 40 zusätzliche Filmblöcke und 320 Fragen erstellt: zwei eigenständige Inhalte je leicht/mittel/schwer plus Jahr und Regie. 316 neue globale Ziele, vier Bestandsvarianten; Filmdaten und Bekanntheiten separat. Zentrale Redaktion, Quellenstichproben, vollständiges Rücklesen und isolierte App-Parser-Prüfung erfolgreich. Noch nicht in die App eingebunden. [Fragenlesefassung](../docs/Filmfragen-Ergaenzung-2026-10-04/Fragenlesefassung.md), [Lieferung und Prüfung](../docs/Filmfragen-Ergaenzung-2026-10-04/Pruefbericht.md).
 
 - Lokal am 04.10.2026 den Lernfortschritt transparenter gemacht: alle vier Stufen, nächster Lerntermin, Zwischenaufstiege und sofortige Fehlerkorrektur sichtbar; Sammlung und Karten zählen bereits Teilfortschritt. Frühe sichere Wiederholungen verschieben die erstmalige Festigung nicht mehr; Abstand zählt ab letztem Stufenaufstieg. Als Version 52 veröffentlicht. [Vertrag und Umsetzung](../docs/Lernfortschritt-2026-10-04.md).

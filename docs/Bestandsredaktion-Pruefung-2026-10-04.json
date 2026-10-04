@@ -1,0 +1,2045 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-10-04",
+  "sourceCommit": "6ee3c8975675de0794ae5efc94086d4eb75cf95a",
+  "scope": {
+    "description": "Tatsächlicher gebündelter App-Bestand, 19 Pakete plus Generierung und Anzeige-Redaktion; keine Spielstände; 320 neue Redaktionsfragen ausgeschlossen.",
+    "questions": 6277,
+    "knowledgeGoals": 5734,
+    "sourceCounts": {
+      "film": 4677,
+      "actors": 1400,
+      "awards": 200
+    },
+    "generatedFacts": {
+      "year": 425,
+      "director": 412
+    },
+    "displayOverlays": {
+      "actor": 1400,
+      "director": 412,
+      "raw": 4465
+    },
+    "castSupplements": 627,
+    "excluded": "Das neue 40-Filme-Paket mit 320 Fragen ist nicht im App-Bestand und wurde nicht mitgezählt."
+  },
+  "method": {
+    "extraction": "Gebündelte CSV-Pakete mit addPackages/emptyState im isolierten Arbeitsspeicher geladen. questionTitleParts/presentedQuestion und actorPresentation, directorExplanation, filmDetails wie in der Anzeige angewendet. Keine Datenbank, Konten oder Spielstände geöffnet.",
+    "screening": "Alle 6.277 Texte auf normalisierte Lösungsphrase im Fragetext, Antwortdubletten, kurze Vertiefungen sowie wiederkehrende Sätze und Achtwortfolgen untersucht. Wiederholungsschwelle: mindestens acht Wörter, zehn Wissensziele und zehn verschiedene Filme/Personen. Erwartete Kontextgleichheit von Varianten desselben Ziels zählt nicht als unabhängige Doppelung.",
+    "manualSelection": "154 eindeutige Fragen: deterministische Auswahl über jedes Paket und Schwierigkeit, sechs Jahres- und sechs Regiefragen, alle neun direkten Phrasenfundstellen und zusätzliche Preismuster. Anschließend acht kurze Alle-Genres-Texte und zwei weitere Titelhinweise gelesen.",
+    "manualQuestions": 164,
+    "manualSourceCounts": {
+      "film": 117,
+      "actors": 28,
+      "awards": 19
+    },
+    "manualIds": [
+      "SF-L-008",
+      "SF-L-033",
+      "SF-M-008",
+      "SF-M-033",
+      "SF-S-008",
+      "SF-S-033",
+      "ACT-L-008",
+      "ACT-L-033",
+      "ACT-M-008",
+      "ACT-M-033",
+      "ACT-S-008",
+      "ACT-S-033",
+      "HOR-L-008",
+      "HOR-L-033",
+      "HOR-M-008",
+      "HOR-M-033",
+      "HOR-S-008",
+      "HOR-S-033",
+      "FAN-L-008",
+      "FAN-L-033",
+      "FAN-M-008",
+      "FAN-M-033",
+      "FAN-S-008",
+      "FAN-S-033",
+      "KOM-L-008",
+      "KOM-L-033",
+      "KOM-M-008",
+      "KOM-M-033",
+      "KOM-S-008",
+      "KOM-S-033",
+      "WES-L-008",
+      "WES-L-033",
+      "WES-M-008",
+      "WES-M-033",
+      "WES-S-008",
+      "WES-S-033",
+      "DRA-L-008",
+      "DRA-L-033",
+      "DRA-M-008",
+      "DRA-M-033",
+      "DRA-S-008",
+      "DRA-S-033",
+      "CLA-L-008",
+      "CLA-L-033",
+      "CLA-M-008",
+      "CLA-M-033",
+      "CLA-S-008",
+      "CLA-S-033",
+      "MAR-L-008",
+      "MAR-L-033",
+      "MAR-M-008",
+      "MAR-M-033",
+      "MAR-S-008",
+      "MAR-S-033",
+      "ROM-L-008",
+      "ROM-L-033",
+      "ROM-M-008",
+      "ROM-M-033",
+      "ROM-S-008",
+      "ROM-S-033",
+      "ART-L-008",
+      "ART-L-033",
+      "ART-M-008",
+      "ART-M-033",
+      "ART-S-008",
+      "ART-S-033",
+      "MUS-202609-P01-L-008",
+      "MUS-202609-P01-L-033",
+      "MUS-202609-P01-M-008",
+      "MUS-202609-P01-M-033",
+      "MUS-202609-P01-S-008",
+      "MUS-202609-P01-S-033",
+      "SF-202609-P02-L-016",
+      "SF-202609-P02-L-066",
+      "SF-202609-P02-M-016",
+      "SF-202609-P02-M-066",
+      "SF-202609-P02-S-016",
+      "SF-202609-P02-S-066",
+      "KOM-202609-P02-L-016",
+      "KOM-202609-P02-L-066",
+      "KOM-202609-P02-M-016",
+      "KOM-202609-P02-M-066",
+      "KOM-202609-P02-S-016",
+      "KOM-202609-P02-S-066",
+      "ACT-202610-P01-L-017",
+      "DRA-202610-P01-L-017",
+      "ACT-202610-P01-M-025",
+      "DRA-202610-P01-M-025",
+      "ACT-202610-P01-S-025",
+      "DRA-202610-P01-S-025",
+      "PRZ-202610-P01-L-004",
+      "PRZ-202610-P01-L-017",
+      "PRZ-202610-P01-L-029",
+      "PRZ-202610-P01-L-042",
+      "PRZ-202610-P01-M-004",
+      "PRZ-202610-P01-M-017",
+      "PRZ-202610-P01-M-029",
+      "PRZ-202610-P01-M-042",
+      "PRZ-202610-P01-S-004",
+      "PRZ-202610-P01-S-017",
+      "PRZ-202610-P01-S-029",
+      "PRZ-202610-P01-S-042",
+      "PRZ-202610-P01-E-004",
+      "PRZ-202610-P01-E-017",
+      "PRZ-202610-P01-E-029",
+      "PRZ-202610-P01-E-042",
+      "FF-022-YEAR",
+      "FF-093-YEAR",
+      "FF-163-YEAR",
+      "FF-234-YEAR",
+      "FF-305-YEAR",
+      "FF-376-YEAR",
+      "FF-023-DIRECTOR",
+      "FF-096-DIRECTOR",
+      "FF-166-DIRECTOR",
+      "FF-239-DIRECTOR",
+      "FF-309-DIRECTOR",
+      "FF-377-DIRECTOR",
+      "SCHAUSPIELER-202610-P01-016-L-1",
+      "SCHAUSPIELER-202610-P01-066-L-1",
+      "SCHAUSPIELER-202610-P01-016-M-1",
+      "SCHAUSPIELER-202610-P01-066-M-1",
+      "SCHAUSPIELER-202610-P01-016-S-1",
+      "SCHAUSPIELER-202610-P01-066-S-1",
+      "SCHAUSPIELER-202610-P01-016-A-1",
+      "SCHAUSPIELER-202610-P01-066-A-1",
+      "SCHAUSPIELER-202610-P02-104-L-2",
+      "SCHAUSPIELER-202610-P02-117-L-1",
+      "SCHAUSPIELER-202610-P02-104-M-2",
+      "SCHAUSPIELER-202610-P02-117-M-1",
+      "SCHAUSPIELER-202610-P02-104-S-2",
+      "SCHAUSPIELER-202610-P02-117-S-1",
+      "SCHAUSPIELER-202610-P02-104-A-2",
+      "SCHAUSPIELER-202610-P02-117-A-1",
+      "SCHAUSPIELER-202610-P03-133-L-2",
+      "SCHAUSPIELER-202610-P03-158-L-2",
+      "SCHAUSPIELER-202610-P03-133-M-2",
+      "SCHAUSPIELER-202610-P03-158-M-2",
+      "SCHAUSPIELER-202610-P03-133-S-2",
+      "SCHAUSPIELER-202610-P03-158-S-2",
+      "SCHAUSPIELER-202610-P03-133-A-2",
+      "SCHAUSPIELER-202610-P03-158-A-2",
+      "ACT-L-013",
+      "ACT-L-033-V1",
+      "ACT-L-049-V1",
+      "ROM-L-013-V1",
+      "KOM-202609-P02-L-064",
+      "SCHAUSPIELER-202610-P01-090-A-1",
+      "SCHAUSPIELER-202610-P02-105-M-1",
+      "SCHAUSPIELER-202610-P03-132-M-1",
+      "SCHAUSPIELER-202610-P03-155-L-1",
+      "PRZ-202610-P01-M-006",
+      "PRZ-202610-P01-S-001",
+      "PRZ-202610-P01-L-026",
+      "SFI-202610-P01-L-001",
+      "SFI-202610-P01-M-001",
+      "SFI-202610-P01-S-001",
+      "SFI-202610-P01-L-004",
+      "SFI-202610-P01-S-004",
+      "SFI-202610-P01-L-005",
+      "SFI-202610-P01-M-007",
+      "SFI-202610-P01-M-008",
+      "WES-L-022",
+      "SF-202609-P02-M-028"
+    ],
+    "limitations": [
+      "Gezielte Paket-/Schwierigkeitsstichprobe; keine statistisch repräsentative Fehlerquote.",
+      "Keine vollständige fachliche Neuverifikation aller Film-, Biografie- und Preisaussagen. Vor Überarbeitung betroffene Belege neu lesen.",
+      "Unter 35 Wörter ist lediglich ein Suchsignal und kein Qualitätsurteil.",
+      "Direkte Phrasensuche findet keine vollständige Menge semantischer Lösungshinweise. Zehn bestätigte starke Hinweise sind eine Mindestmenge.",
+      "Die Prüfung der Vertiefung richtet sich auf den Haupttext; vorhandene Besetzungsergänzungen wurden berücksichtigt, aber nicht erneut vollständig quellengeprüft.",
+      "Statische Jahresantworten sind nicht die während einer Runde erzeugten Jahresablenker; deren Verteilung wurde hier nicht bewertet."
+    ]
+  },
+  "mechanicalResults": {
+    "flags": {
+      "correct_answer_in_question": 9,
+      "deep_under_35_words": 1190,
+      "verbatim_sentence_across_10_entities": 463
+    },
+    "duplicateNormalizedAnswerSets": 0,
+    "threeWrongOptionsExplicitlyNamed": 0,
+    "deepEqualsShortExplanation": 0,
+    "identicalCompleteDeepDivesAcrossDifferentGoals": 0,
+    "skippedActorQuestionOverlays": 0,
+    "groups": [
+      {
+        "package": "SciFi_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 52,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "Action_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 52,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 3
+      },
+      {
+        "package": "Horror_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 53,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "Fantasy_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 50,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "Komoedie_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 56,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "Western_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 55,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "Drama_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 57,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "Classics_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 56,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "MartialArts_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 55,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "RomCom_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 59,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 1
+      },
+      {
+        "package": "Arthouse_Quiz_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 53,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "Musik_Ergaenzung_180_Fragen.csv",
+        "questions": 180,
+        "goals": 150,
+        "meanWords": 58,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "SciFi_Ergaenzung_360_Fragen.csv",
+        "questions": 360,
+        "goals": 300,
+        "meanWords": 61,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "Komoedie_Ergaenzung_360_Fragen.csv",
+        "questions": 360,
+        "goals": 300,
+        "meanWords": 53,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 1
+      },
+      {
+        "package": "Alle_Genres_120_Filme_960_Fragen.csv",
+        "questions": 960,
+        "goals": 960,
+        "meanWords": 40,
+        "under35Words": 114,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "Preistraeger_200_Fragen.csv",
+        "questions": 200,
+        "goals": 200,
+        "meanWords": 54,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 82,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "generated_facts",
+        "questions": 837,
+        "goals": 837,
+        "meanWords": 26,
+        "under35Words": 735,
+        "repeatedSentenceCandidates": 381,
+        "answerMentionCandidates": 0
+      },
+      {
+        "package": "Schauspieler_800_Fragen_App.csv",
+        "questions": 800,
+        "goals": 800,
+        "meanWords": 36,
+        "under35Words": 341,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 1
+      },
+      {
+        "package": "Schauspieler_Ergaenzung_P02_200_Fragen_App.csv",
+        "questions": 200,
+        "goals": 200,
+        "meanWords": 45,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 1
+      },
+      {
+        "package": "Schauspieler_Ergaenzung_P03_400_Fragen_App.csv",
+        "questions": 400,
+        "goals": 400,
+        "meanWords": 48,
+        "under35Words": 0,
+        "repeatedSentenceCandidates": 0,
+        "answerMentionCandidates": 2
+      }
+    ],
+    "repeatedSentences": [
+      {
+        "text": "Gemeint ist die erste Veröffentlichung, einschließlich einer Premiere oder Festivalaufführung, nicht ein späterer deutscher Kinostart.",
+        "questions": 381,
+        "goals": 381,
+        "entities": 381,
+        "packages": [
+          "generated_facts"
+        ],
+        "ids": [
+          "FF-001-YEAR",
+          "FF-002-YEAR",
+          "FF-003-YEAR",
+          "FF-004-YEAR",
+          "FF-005-YEAR",
+          "FF-006-YEAR",
+          "FF-007-YEAR",
+          "FF-008-YEAR",
+          "FF-009-YEAR",
+          "FF-010-YEAR",
+          "FF-011-YEAR",
+          "FF-012-YEAR",
+          "FF-013-YEAR",
+          "FF-014-YEAR",
+          "FF-015-YEAR",
+          "FF-016-YEAR",
+          "FF-017-YEAR",
+          "FF-018-YEAR",
+          "FF-019-YEAR",
+          "FF-020-YEAR",
+          "FF-021-YEAR",
+          "FF-022-YEAR",
+          "FF-023-YEAR",
+          "FF-024-YEAR",
+          "FF-025-YEAR",
+          "FF-027-YEAR",
+          "FF-028-YEAR",
+          "FF-029-YEAR",
+          "FF-030-YEAR",
+          "FF-031-YEAR",
+          "FF-032-YEAR",
+          "FF-033-YEAR",
+          "FF-034-YEAR",
+          "FF-035-YEAR",
+          "FF-036-YEAR",
+          "FF-037-YEAR",
+          "FF-039-YEAR",
+          "FF-040-YEAR",
+          "FF-041-YEAR",
+          "FF-043-YEAR",
+          "FF-044-YEAR",
+          "FF-046-YEAR",
+          "FF-048-YEAR",
+          "FF-049-YEAR",
+          "FF-050-YEAR",
+          "FF-052-YEAR",
+          "FF-053-YEAR",
+          "FF-054-YEAR",
+          "FF-055-YEAR",
+          "FF-056-YEAR",
+          "FF-057-YEAR",
+          "FF-058-YEAR",
+          "FF-059-YEAR",
+          "FF-060-YEAR",
+          "FF-061-YEAR",
+          "FF-062-YEAR",
+          "FF-063-YEAR",
+          "FF-064-YEAR",
+          "FF-065-YEAR",
+          "FF-066-YEAR",
+          "FF-067-YEAR",
+          "FF-068-YEAR",
+          "FF-069-YEAR",
+          "FF-070-YEAR",
+          "FF-071-YEAR",
+          "FF-072-YEAR",
+          "FF-073-YEAR",
+          "FF-074-YEAR",
+          "FF-075-YEAR",
+          "FF-076-YEAR",
+          "FF-077-YEAR",
+          "FF-078-YEAR",
+          "FF-079-YEAR",
+          "FF-081-YEAR",
+          "FF-082-YEAR",
+          "FF-083-YEAR",
+          "FF-084-YEAR",
+          "FF-086-YEAR",
+          "FF-087-YEAR",
+          "FF-088-YEAR",
+          "FF-089-YEAR",
+          "FF-091-YEAR",
+          "FF-092-YEAR",
+          "FF-093-YEAR",
+          "FF-094-YEAR",
+          "FF-095-YEAR",
+          "FF-096-YEAR",
+          "FF-097-YEAR",
+          "FF-098-YEAR",
+          "FF-099-YEAR",
+          "FF-100-YEAR",
+          "FF-101-YEAR",
+          "FF-102-YEAR",
+          "FF-103-YEAR",
+          "FF-104-YEAR",
+          "FF-105-YEAR",
+          "FF-106-YEAR",
+          "FF-107-YEAR",
+          "FF-108-YEAR",
+          "FF-109-YEAR",
+          "FF-110-YEAR",
+          "FF-111-YEAR",
+          "FF-112-YEAR",
+          "FF-113-YEAR",
+          "FF-114-YEAR",
+          "FF-115-YEAR",
+          "FF-116-YEAR",
+          "FF-117-YEAR",
+          "FF-118-YEAR",
+          "FF-120-YEAR",
+          "FF-121-YEAR",
+          "FF-123-YEAR",
+          "FF-124-YEAR",
+          "FF-125-YEAR",
+          "FF-126-YEAR",
+          "FF-127-YEAR",
+          "FF-128-YEAR",
+          "FF-129-YEAR",
+          "FF-130-YEAR",
+          "FF-131-YEAR",
+          "FF-132-YEAR",
+          "FF-133-YEAR",
+          "FF-134-YEAR",
+          "FF-135-YEAR",
+          "FF-136-YEAR",
+          "FF-137-YEAR",
+          "FF-138-YEAR",
+          "FF-139-YEAR",
+          "FF-140-YEAR",
+          "FF-141-YEAR",
+          "FF-142-YEAR",
+          "FF-143-YEAR",
+          "FF-144-YEAR",
+          "FF-145-YEAR",
+          "FF-146-YEAR",
+          "FF-147-YEAR",
+          "FF-148-YEAR",
+          "FF-149-YEAR",
+          "FF-150-YEAR",
+          "FF-151-YEAR",
+          "FF-152-YEAR",
+          "FF-153-YEAR",
+          "FF-154-YEAR",
+          "FF-156-YEAR",
+          "FF-157-YEAR",
+          "FF-158-YEAR",
+          "FF-159-YEAR",
+          "FF-160-YEAR",
+          "FF-161-YEAR",
+          "FF-162-YEAR",
+          "FF-163-YEAR",
+          "FF-164-YEAR",
+          "FF-165-YEAR",
+          "FF-166-YEAR",
+          "FF-167-YEAR",
+          "FF-168-YEAR",
+          "FF-169-YEAR",
+          "FF-171-YEAR",
+          "FF-172-YEAR",
+          "FF-173-YEAR",
+          "FF-174-YEAR",
+          "FF-175-YEAR",
+          "FF-176-YEAR",
+          "FF-177-YEAR",
+          "FF-178-YEAR",
+          "FF-179-YEAR",
+          "FF-180-YEAR",
+          "FF-181-YEAR",
+          "FF-182-YEAR",
+          "FF-183-YEAR",
+          "FF-184-YEAR",
+          "FF-185-YEAR",
+          "FF-186-YEAR",
+          "FF-187-YEAR",
+          "FF-188-YEAR",
+          "FF-189-YEAR",
+          "FF-190-YEAR",
+          "FF-191-YEAR",
+          "FF-193-YEAR",
+          "FF-194-YEAR",
+          "FF-195-YEAR",
+          "FF-196-YEAR",
+          "FF-197-YEAR",
+          "FF-198-YEAR",
+          "FF-199-YEAR",
+          "FF-200-YEAR",
+          "FF-201-YEAR",
+          "FF-202-YEAR",
+          "FF-203-YEAR",
+          "FF-204-YEAR",
+          "FF-205-YEAR",
+          "FF-206-YEAR",
+          "FF-207-YEAR",
+          "FF-208-YEAR",
+          "FF-209-YEAR",
+          "FF-210-YEAR",
+          "FF-211-YEAR",
+          "FF-212-YEAR",
+          "FF-213-YEAR",
+          "FF-214-YEAR",
+          "FF-215-YEAR",
+          "FF-216-YEAR",
+          "FF-217-YEAR",
+          "FF-218-YEAR",
+          "FF-219-YEAR",
+          "FF-220-YEAR",
+          "FF-221-YEAR",
+          "FF-222-YEAR",
+          "FF-223-YEAR",
+          "FF-224-YEAR",
+          "FF-225-YEAR",
+          "FF-226-YEAR",
+          "FF-227-YEAR",
+          "FF-228-YEAR",
+          "FF-229-YEAR",
+          "FF-230-YEAR",
+          "FF-231-YEAR",
+          "FF-234-YEAR",
+          "FF-235-YEAR",
+          "FF-236-YEAR",
+          "FF-237-YEAR",
+          "FF-238-YEAR",
+          "FF-239-YEAR",
+          "FF-240-YEAR",
+          "FF-241-YEAR",
+          "FF-242-YEAR",
+          "FF-243-YEAR",
+          "FF-244-YEAR",
+          "FF-245-YEAR",
+          "FF-246-YEAR",
+          "FF-247-YEAR",
+          "FF-248-YEAR",
+          "FF-249-YEAR",
+          "FF-250-YEAR",
+          "FF-251-YEAR",
+          "FF-252-YEAR",
+          "FF-253-YEAR",
+          "FF-254-YEAR",
+          "FF-255-YEAR",
+          "FF-256-YEAR",
+          "FF-257-YEAR",
+          "FF-258-YEAR",
+          "FF-259-YEAR",
+          "FF-260-YEAR",
+          "FF-261-YEAR",
+          "FF-262-YEAR",
+          "FF-263-YEAR",
+          "FF-264-YEAR",
+          "FF-265-YEAR",
+          "FF-266-YEAR",
+          "FF-267-YEAR",
+          "FF-268-YEAR",
+          "FF-269-YEAR",
+          "FF-270-YEAR",
+          "FF-271-YEAR",
+          "FF-272-YEAR",
+          "FF-273-YEAR",
+          "FF-274-YEAR",
+          "FF-275-YEAR",
+          "FF-277-YEAR",
+          "FF-278-YEAR",
+          "FF-282-YEAR",
+          "FF-283-YEAR",
+          "FF-284-YEAR",
+          "FF-285-YEAR",
+          "FF-286-YEAR",
+          "FF-287-YEAR",
+          "FF-288-YEAR",
+          "FF-289-YEAR",
+          "FF-290-YEAR",
+          "FF-291-YEAR",
+          "FF-292-YEAR",
+          "FF-293-YEAR",
+          "FF-294-YEAR",
+          "FF-296-YEAR",
+          "FF-297-YEAR",
+          "FF-298-YEAR",
+          "FF-299-YEAR",
+          "FF-301-YEAR",
+          "FF-302-YEAR",
+          "FF-307-YEAR",
+          "FF-308-YEAR",
+          "FF-309-YEAR",
+          "FF-310-YEAR",
+          "FF-312-YEAR",
+          "FF-316-YEAR",
+          "FF-318-YEAR",
+          "FF-322-YEAR",
+          "FF-323-YEAR",
+          "FF-325-YEAR",
+          "FF-326-YEAR",
+          "FF-327-YEAR",
+          "FF-328-YEAR",
+          "FF-329-YEAR",
+          "FF-330-YEAR",
+          "FF-331-YEAR",
+          "FF-332-YEAR",
+          "FF-333-YEAR",
+          "FF-334-YEAR",
+          "FF-335-YEAR",
+          "FF-336-YEAR",
+          "FF-337-YEAR",
+          "FF-338-YEAR",
+          "FF-339-YEAR",
+          "FF-340-YEAR",
+          "FF-341-YEAR",
+          "FF-343-YEAR",
+          "FF-344-YEAR",
+          "FF-345-YEAR",
+          "FF-346-YEAR",
+          "FF-347-YEAR",
+          "FF-348-YEAR",
+          "FF-349-YEAR",
+          "FF-350-YEAR",
+          "FF-351-YEAR",
+          "FF-352-YEAR",
+          "FF-353-YEAR",
+          "FF-354-YEAR",
+          "FF-356-YEAR",
+          "FF-357-YEAR",
+          "FF-358-YEAR",
+          "FF-359-YEAR",
+          "FF-361-YEAR",
+          "FF-362-YEAR",
+          "FF-363-YEAR",
+          "FF-364-YEAR",
+          "FF-365-YEAR",
+          "FF-366-YEAR",
+          "FF-367-YEAR",
+          "FF-368-YEAR",
+          "FF-369-YEAR",
+          "FF-370-YEAR",
+          "FF-371-YEAR",
+          "FF-373-YEAR",
+          "FF-374-YEAR",
+          "FF-375-YEAR",
+          "FF-376-YEAR",
+          "FF-377-YEAR",
+          "FF-378-YEAR",
+          "FF-379-YEAR",
+          "FF-380-YEAR",
+          "FF-381-YEAR",
+          "FF-382-YEAR",
+          "FF-383-YEAR",
+          "FF-384-YEAR",
+          "FF-385-YEAR",
+          "FF-386-YEAR",
+          "FF-387-YEAR",
+          "FF-388-YEAR",
+          "FF-389-YEAR",
+          "FF-390-YEAR",
+          "FF-391-YEAR",
+          "FF-392-YEAR",
+          "FF-393-YEAR",
+          "FF-394-YEAR",
+          "FF-395-YEAR",
+          "FF-396-YEAR",
+          "FF-397-YEAR",
+          "FF-398-YEAR",
+          "FF-399-YEAR",
+          "FF-400-YEAR",
+          "FF-401-YEAR",
+          "FF-402-YEAR",
+          "FF-403-YEAR",
+          "FF-405-YEAR",
+          "FF-406-YEAR",
+          "FF-407-YEAR",
+          "FF-409-YEAR",
+          "FF-410-YEAR",
+          "FF-411-YEAR",
+          "FF-412-YEAR",
+          "FF-414-YEAR",
+          "FF-415-YEAR",
+          "FF-416-YEAR",
+          "FF-417-YEAR",
+          "FF-419-YEAR",
+          "FF-420-YEAR",
+          "FF-421-YEAR",
+          "FF-422-YEAR",
+          "FF-423-YEAR",
+          "FF-424-YEAR"
+        ],
+        "interpretation": "Sachlich nützliche Definition des Jahresbegriffs, aber kaum individuelle Filmvertiefung."
+      },
+      {
+        "text": "Diese getrennte Zuordnung zeigt, dass die Preisvergabe mehrere unterschiedliche Filmleistungen nebeneinander würdigt.",
+        "questions": 30,
+        "goals": 30,
+        "entities": 25,
+        "packages": [
+          "Preistraeger_200_Fragen.csv"
+        ],
+        "ids": [
+          "PRZ-202610-P01-M-006",
+          "PRZ-202610-P01-M-011",
+          "PRZ-202610-P01-M-012",
+          "PRZ-202610-P01-M-014",
+          "PRZ-202610-P01-M-016",
+          "PRZ-202610-P01-M-017",
+          "PRZ-202610-P01-M-018",
+          "PRZ-202610-P01-M-019",
+          "PRZ-202610-P01-M-020",
+          "PRZ-202610-P01-M-022",
+          "PRZ-202610-P01-S-009",
+          "PRZ-202610-P01-S-011",
+          "PRZ-202610-P01-S-012",
+          "PRZ-202610-P01-S-013",
+          "PRZ-202610-P01-S-018",
+          "PRZ-202610-P01-S-019",
+          "PRZ-202610-P01-S-020",
+          "PRZ-202610-P01-S-022",
+          "PRZ-202610-P01-S-023",
+          "PRZ-202610-P01-S-024",
+          "PRZ-202610-P01-E-003",
+          "PRZ-202610-P01-E-004",
+          "PRZ-202610-P01-E-006",
+          "PRZ-202610-P01-E-014",
+          "PRZ-202610-P01-E-017",
+          "PRZ-202610-P01-E-018",
+          "PRZ-202610-P01-E-020",
+          "PRZ-202610-P01-E-021",
+          "PRZ-202610-P01-E-022",
+          "PRZ-202610-P01-E-023"
+        ],
+        "interpretation": "Wiederkehrender allgemeiner Satz; konkreten Mehrwert des gesamten Texts redaktionell prüfen."
+      },
+      {
+        "text": "Für die Einordnung lohnt es sich, die Gewinner der übrigen Kategorien desselben Abends daneben zu betrachten; sie können auf ganz andere Filme verteilt sein.",
+        "questions": 20,
+        "goals": 20,
+        "entities": 20,
+        "packages": [
+          "Preistraeger_200_Fragen.csv"
+        ],
+        "ids": [
+          "PRZ-202610-P01-L-001",
+          "PRZ-202610-P01-L-002",
+          "PRZ-202610-P01-L-003",
+          "PRZ-202610-P01-L-004",
+          "PRZ-202610-P01-L-005",
+          "PRZ-202610-P01-L-006",
+          "PRZ-202610-P01-L-007",
+          "PRZ-202610-P01-L-008",
+          "PRZ-202610-P01-L-009",
+          "PRZ-202610-P01-L-010",
+          "PRZ-202610-P01-L-011",
+          "PRZ-202610-P01-L-012",
+          "PRZ-202610-P01-L-013",
+          "PRZ-202610-P01-L-014",
+          "PRZ-202610-P01-L-015",
+          "PRZ-202610-P01-L-016",
+          "PRZ-202610-P01-L-017",
+          "PRZ-202610-P01-L-018",
+          "PRZ-202610-P01-L-019",
+          "PRZ-202610-P01-L-020"
+        ],
+        "interpretation": "Wiederkehrender allgemeiner Satz; konkreten Mehrwert des gesamten Texts redaktionell prüfen."
+      },
+      {
+        "text": "Beim Wiedersehen lohnt ein kurzer Hörversuch: Welche Passage trägt bereits ohne Bild eine Stimmung, und welche erhält ihre Bedeutung erst durch die Verbindung mit der Szene?",
+        "questions": 13,
+        "goals": 13,
+        "entities": 13,
+        "packages": [
+          "Preistraeger_200_Fragen.csv"
+        ],
+        "ids": [
+          "PRZ-202610-P01-S-002",
+          "PRZ-202610-P01-S-007",
+          "PRZ-202610-P01-S-009",
+          "PRZ-202610-P01-S-010",
+          "PRZ-202610-P01-S-012",
+          "PRZ-202610-P01-S-014",
+          "PRZ-202610-P01-S-015",
+          "PRZ-202610-P01-S-018",
+          "PRZ-202610-P01-S-020",
+          "PRZ-202610-P01-S-021",
+          "PRZ-202610-P01-S-022",
+          "PRZ-202610-P01-S-024",
+          "PRZ-202610-P01-S-025"
+        ],
+        "interpretation": "Wiederkehrender allgemeiner Satz; konkreten Mehrwert des gesamten Texts redaktionell prüfen."
+      },
+      {
+        "text": "Eine Festivaljury entscheidet über den Wettbewerb ihrer Ausgabe.",
+        "questions": 13,
+        "goals": 13,
+        "entities": 13,
+        "packages": [
+          "Preistraeger_200_Fragen.csv"
+        ],
+        "ids": [
+          "PRZ-202610-P01-L-026",
+          "PRZ-202610-P01-L-027",
+          "PRZ-202610-P01-L-028",
+          "PRZ-202610-P01-L-029",
+          "PRZ-202610-P01-L-030",
+          "PRZ-202610-P01-L-031",
+          "PRZ-202610-P01-L-032",
+          "PRZ-202610-P01-L-033",
+          "PRZ-202610-P01-L-034",
+          "PRZ-202610-P01-L-035",
+          "PRZ-202610-P01-L-036",
+          "PRZ-202610-P01-L-037",
+          "PRZ-202610-P01-L-038"
+        ],
+        "interpretation": "Wiederkehrender allgemeiner Satz; konkreten Mehrwert des gesamten Texts redaktionell prüfen."
+      },
+      {
+        "text": "Der Preis bezeichnet deshalb eine konkrete Auswahl in einem bestimmten Jahr, keine allgemeingültige Rangliste der Filmgeschichte.",
+        "questions": 13,
+        "goals": 13,
+        "entities": 13,
+        "packages": [
+          "Preistraeger_200_Fragen.csv"
+        ],
+        "ids": [
+          "PRZ-202610-P01-L-026",
+          "PRZ-202610-P01-L-027",
+          "PRZ-202610-P01-L-028",
+          "PRZ-202610-P01-L-029",
+          "PRZ-202610-P01-L-030",
+          "PRZ-202610-P01-L-031",
+          "PRZ-202610-P01-L-032",
+          "PRZ-202610-P01-L-033",
+          "PRZ-202610-P01-L-034",
+          "PRZ-202610-P01-L-035",
+          "PRZ-202610-P01-L-036",
+          "PRZ-202610-P01-L-037",
+          "PRZ-202610-P01-L-038"
+        ],
+        "interpretation": "Wiederkehrender allgemeiner Satz; konkreten Mehrwert des gesamten Texts redaktionell prüfen."
+      },
+      {
+        "text": "Die Oscarunterscheidung zwischen Original und Adaption betrifft die Herkunft des Stoffes; sie beschreibt keine unterschiedliche Qualitätsstufe und verrät allein noch wenig über die Nähe zum Ausgangswerk.",
+        "questions": 12,
+        "goals": 12,
+        "entities": 12,
+        "packages": [
+          "Preistraeger_200_Fragen.csv"
+        ],
+        "ids": [
+          "PRZ-202610-P01-S-001",
+          "PRZ-202610-P01-S-003",
+          "PRZ-202610-P01-S-004",
+          "PRZ-202610-P01-S-005",
+          "PRZ-202610-P01-S-006",
+          "PRZ-202610-P01-S-008",
+          "PRZ-202610-P01-S-011",
+          "PRZ-202610-P01-S-013",
+          "PRZ-202610-P01-S-016",
+          "PRZ-202610-P01-S-017",
+          "PRZ-202610-P01-S-019",
+          "PRZ-202610-P01-S-023"
+        ],
+        "interpretation": "Wiederkehrender allgemeiner Satz; konkreten Mehrwert des gesamten Texts redaktionell prüfen."
+      },
+      {
+        "text": "Beim Wiedersehen kannst Du auf eine einzelne Einstellung achten: Was liegt im Licht, was bleibt außerhalb des Bildes, und von welchem Standort aus erleben wir die Szene?",
+        "questions": 10,
+        "goals": 10,
+        "entities": 10,
+        "packages": [
+          "Preistraeger_200_Fragen.csv"
+        ],
+        "ids": [
+          "PRZ-202610-P01-E-004",
+          "PRZ-202610-P01-E-006",
+          "PRZ-202610-P01-E-008",
+          "PRZ-202610-P01-E-010",
+          "PRZ-202610-P01-E-014",
+          "PRZ-202610-P01-E-015",
+          "PRZ-202610-P01-E-017",
+          "PRZ-202610-P01-E-019",
+          "PRZ-202610-P01-E-021",
+          "PRZ-202610-P01-E-023"
+        ],
+        "interpretation": "Wiederkehrender allgemeiner Satz; konkreten Mehrwert des gesamten Texts redaktionell prüfen."
+      }
+    ]
+  },
+  "findings": {
+    "strongAnswerHints": [
+      {
+        "id": "ACT-L-013",
+        "knowledgeId": "K-ACT-07-alcatraz",
+        "origin": {
+          "file": "public/action-fragen.csv",
+          "line": 38,
+          "package": "Action_Quiz_180_Fragen.csv"
+        },
+        "difficulty": "leicht",
+        "question": "The Rock – Entscheidung auf Alcatraz (1996): Welche ehemalige Gefängnisinsel besetzen die Täter?",
+        "answers": [
+          {
+            "text": "Alcatraz",
+            "correct": true
+          },
+          {
+            "text": "Rikers Island",
+            "correct": false
+          },
+          {
+            "text": "Robben Island",
+            "correct": false
+          },
+          {
+            "text": "Devil's Island",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Das frühere Gefängnis ist zugleich Touristenort und abgeschlossener Raum mit schwierigen Zugängen. Die Besetzer können Besucher als Geiseln nehmen und ihre Waffen von der Insel aus einsetzen. Für die Retter reicht deshalb nicht gewöhnliche Ortskenntnis. Der Schauplatz begründet, warum ein Mann mit einer außergewöhnlichen Verbindung zur Vergangenheit des Gefängnisses benötigt wird.",
+        "castSupplement": "General Francis Hummel wird von Ed Harris gespielt. John Mason wird von Sean Connery gespielt.",
+        "displayOverlay": "raw",
+        "displaySha256": "060e0026d9e230a2690c25674575c7093ed2b06fd60230dc52657c4e55805d6c",
+        "category": "confirmed_strong_answer_hint",
+        "assessment": "Der Fragetitel nennt Alcatraz bereits; gefragt ist die besetzte Gefängnisinsel."
+      },
+      {
+        "id": "ACT-L-033-V1",
+        "knowledgeId": "K-ACT-17-bond-connery",
+        "origin": {
+          "file": "public/action-fragen.csv",
+          "line": 164,
+          "package": "Action_Quiz_180_Fragen.csv"
+        },
+        "difficulty": "leicht",
+        "question": "James Bond 007 – Goldfinger (1964): Welche Figur spielt Sean Connery in diesem Film?",
+        "answers": [
+          {
+            "text": "Felix Leiter",
+            "correct": false
+          },
+          {
+            "text": "Oddjob",
+            "correct": false
+          },
+          {
+            "text": "James Bond",
+            "correct": true
+          },
+          {
+            "text": "Auric Goldfinger",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Connerys Bond kombiniert höfisches Auftreten mit körperlicher Entschlossenheit. Der Film führt ihn von scheinbar harmlosen Spielen zu einer Bedrohung der Goldreserven. Gerade die Übergänge zwischen Eleganz und Gewalt prägen diese Darstellung. Für die Zuordnung innerhalb der Reihe ist wichtig, dass Goldfinger zur frühen Bond-Phase gehört und nicht zu den späteren Neuinterpretationen der Figur.",
+        "castSupplement": "Auric Goldfinger wird von Gert Fröbe gespielt.",
+        "displayOverlay": "raw",
+        "displaySha256": "826e22f4d179cbaf1a7542ab1cd34560477a9ebcf5af788cc7331b2669c51b44",
+        "category": "confirmed_strong_answer_hint",
+        "assessment": "Der Fragetitel nennt James Bond; gefragt ist die von Sean Connery gespielte Figur."
+      },
+      {
+        "id": "ACT-L-049-V1",
+        "knowledgeId": "K-ACT-25-wick-reeves",
+        "origin": {
+          "file": "public/action-fragen.csv",
+          "line": 176,
+          "package": "Action_Quiz_180_Fragen.csv"
+        },
+        "difficulty": "leicht",
+        "question": "John Wick (2014): Welche Figur spielt Keanu Reeves?",
+        "answers": [
+          {
+            "text": "Viggo Tarasov",
+            "correct": false
+          },
+          {
+            "text": "Winston",
+            "correct": false
+          },
+          {
+            "text": "John Wick",
+            "correct": true
+          },
+          {
+            "text": "Marcus",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "John lebt zu Beginn zurückgezogen und trauert um seine Frau. Keanu Reeves verbindet die wortkarge Figur mit einer Vergangenheit, die andere Menschen sofort ernst nehmen, sobald sie seinen Namen hören. Der Film entfaltet diesen Ruf schrittweise. Die Wirkung entsteht nicht nur durch Johns eigenes Handeln, sondern auch durch die Reaktionen erfahrener Mitglieder der Unterwelt.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "276ce6632fca83e91c2a6b900af297edd979babe90ff2ce588a910ddfff766cb",
+        "category": "confirmed_strong_answer_hint",
+        "assessment": "Der Fragetitel nennt John Wick; gefragt ist die von Keanu Reeves gespielte Figur."
+      },
+      {
+        "id": "ROM-L-013-V1",
+        "knowledgeId": "K-ROM-07-01",
+        "origin": {
+          "file": "public/romcom-fragen.csv",
+          "line": 164,
+          "package": "RomCom_Quiz_180_Fragen.csv"
+        },
+        "difficulty": "leicht",
+        "question": "Bridget Jones – Schokolade zum Frühstück (2001): Welche Figur verkörpert Renée Zellweger?",
+        "answers": [
+          {
+            "text": "Natasha Glenville",
+            "correct": false
+          },
+          {
+            "text": "Pamela Jones",
+            "correct": false
+          },
+          {
+            "text": "Bridget Jones",
+            "correct": true
+          },
+          {
+            "text": "Lara",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Bridget (Renée Zellweger) beobachtet sich selbst oft mit härteren Maßstäben als ihre Mitmenschen. Renée Zellweger verbindet diese Unsicherheit mit körperlicher Komik und ehrlichen Gefühlsreaktionen. So wird die Figur nicht einfach zur Ansammlung von Missgeschicken. Ihr Wunsch nach einem anderen Leben steht neben der wichtigeren Frage, ob sie sich dafür vollständig verändern muss oder auch mit ihren Eigenheiten liebenswert ist.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "d9983ef01c48dc2133cae8d626b88fc8bb450feb8ace417c66e23a6f7f1a3ed6",
+        "category": "confirmed_strong_answer_hint",
+        "assessment": "Der Fragetitel nennt Bridget Jones; gefragt ist die von Renée Zellweger gespielte Figur."
+      },
+      {
+        "id": "KOM-202609-P02-L-064",
+        "knowledgeId": "K-KOM-202609-P02-L-064",
+        "origin": {
+          "file": "public/komoedie-ergaenzung-fragen.csv",
+          "line": 189,
+          "package": "Komoedie_Ergaenzung_360_Fragen.csv"
+        },
+        "difficulty": "leicht",
+        "question": "Der Gendarm von Saint Tropez (1964): In welchen südfranzösischen Ferienort wird Cruchot versetzt?",
+        "answers": [
+          {
+            "text": "Antibes",
+            "correct": false
+          },
+          {
+            "text": "Nizza",
+            "correct": false
+          },
+          {
+            "text": "Cannes",
+            "correct": false
+          },
+          {
+            "text": "Saint-Tropez",
+            "correct": true
+          }
+        ],
+        "effectiveDeepDive": "Saint-Tropez bietet Ludovic Cruchot (Louis de Funès) eine Umgebung, in der Feriengäste und Jugendliche andere Freiheiten erwarten als sein bisheriger Dienstalltag. Hafen, Strand und Straßen erweitern den Spielraum der Handlung. Die Ordnungsvorstellung des neuen Gendarmen stößt dadurch nicht nur auf einzelne Regelverstöße, sondern auf einen ganzen Ort, dessen soziale Gewohnheiten er erst kennenlernen muss.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "573b926c3c3de490e7a49c97a8d03ac16628293a7343bdba69fddba1ecf41490",
+        "category": "confirmed_strong_answer_hint",
+        "assessment": "Der Fragetitel nennt Saint Tropez; gefragt ist der Ferienort."
+      },
+      {
+        "id": "SCHAUSPIELER-202610-P01-090-A-1",
+        "knowledgeId": "K-SCHAUSPIELER-202610-P01-090-A-1",
+        "origin": {
+          "file": "public/schauspieler-fragen.csv",
+          "line": 720,
+          "package": "Schauspieler_800_Fragen_App.csv"
+        },
+        "difficulty": "experte",
+        "question": "Welche historische Bürgerrechtlerin spielte Angela Bassett in „The Rosa Parks Story“?",
+        "answers": [
+          {
+            "text": "Harriet Tubman",
+            "correct": false
+          },
+          {
+            "text": "Shirley Chisholm",
+            "correct": false
+          },
+          {
+            "text": "Ida B. Wells",
+            "correct": false
+          },
+          {
+            "text": "Rosa Parks",
+            "correct": true
+          }
+        ],
+        "effectiveDeepDive": "Der Fernsehfilm behandelt mehr als den einzelnen bekannten Protestmoment im Bus. Der Film von 2002 verfolgt Rosa Parks' Leben bis zum Busboykott von Montgomery. Ihr langjähriges Engagement für Bürgerrechte bildet den Hintergrund; die Weigerung, den Sitzplatz aufzugeben, war keine isolierte spontane Episode.",
+        "castSupplement": "",
+        "displayOverlay": "actor",
+        "displaySha256": "bda6aa477c65acbab61d569fe16f5d03f49e6419a9a1a82d0042aaff96f237b3",
+        "category": "confirmed_strong_answer_hint",
+        "assessment": "The Rosa Parks Story nennt die gesuchte Rosa Parks bereits; als Experte eingeordnet."
+      },
+      {
+        "id": "SCHAUSPIELER-202610-P02-105-M-1",
+        "knowledgeId": "K-SCHAUSPIELER-202610-P02-105-M-1",
+        "origin": {
+          "file": "public/schauspieler-p02-fragen.csv",
+          "line": 36,
+          "package": "Schauspieler_Ergaenzung_P02_200_Fragen_App.csv"
+        },
+        "difficulty": "mittel",
+        "question": "In welchem Film spielt Robert Downey Jr. den Stummfilmstar Charlie Chaplin?",
+        "answers": [
+          {
+            "text": "Hugo Cabret",
+            "correct": false
+          },
+          {
+            "text": "Ed Wood",
+            "correct": false
+          },
+          {
+            "text": "The Artist",
+            "correct": false
+          },
+          {
+            "text": "Chaplin",
+            "correct": true
+          }
+        ],
+        "effectiveDeepDive": "Richard Attenboroughs Biografie begleitet Chaplins Weg von schwierigen Londoner Anfängen zum internationalen Filmstar. Robert Downey Jr. rekonstruierte dafür körperliche Ausdrucksweisen und erhielt eine Oscar-Nominierung. Geraldine Chaplin, die Tochter des historischen Vorbilds, spielt im Film dessen Mutter Hannah; Familiengeschichte und filmische Darstellung berühren sich dadurch unmittelbar.",
+        "castSupplement": "",
+        "displayOverlay": "actor",
+        "displaySha256": "eece391eaa185202916c6fe46b141019b21fa4e1349c9448198b808788a34511",
+        "category": "confirmed_strong_answer_hint",
+        "assessment": "Der im Fragetext genannte Charlie Chaplin ist zugleich ein starker Namenshinweis auf die Filmantwort Chaplin."
+      },
+      {
+        "id": "SCHAUSPIELER-202610-P03-132-M-1",
+        "knowledgeId": "K-SCHAUSPIELER-202610-P03-132-M-1",
+        "origin": {
+          "file": "public/schauspieler-p03-fragen.csv",
+          "line": 52,
+          "package": "Schauspieler_Ergaenzung_P03_400_Fragen_App.csv"
+        },
+        "difficulty": "mittel",
+        "question": "Aus welchem erfundenen afrikanischen Königreich reist Eddie Murphys Prinz Akeem in „Der Prinz aus Zamunda“ nach New York?",
+        "answers": [
+          {
+            "text": "Genovia",
+            "correct": false
+          },
+          {
+            "text": "Zamunda",
+            "correct": true
+          },
+          {
+            "text": "Wakanda",
+            "correct": false
+          },
+          {
+            "text": "Latveria",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Akeem möchte eine Partnerin finden, die ihn nicht nur wegen seines königlichen Status liebt. Eddie Murphy spielt neben dem Prinzen weitere Figuren mit aufwendigen Verwandlungen. Die Komödie verbindet den Wechsel zwischen höfischer Welt und New Yorker Alltag mit einer Geschichte über Erwartungen an Ehe, Herkunft und gesellschaftliche Rollen.",
+        "castSupplement": "",
+        "displayOverlay": "actor",
+        "displaySha256": "27eae89314d3ab363db2bd93eddd62739d130befc6e8eec34d7a2a595a5af13c",
+        "category": "confirmed_strong_answer_hint",
+        "assessment": "Der Prinz aus Zamunda nennt das gesuchte Königreich Zamunda bereits."
+      },
+      {
+        "id": "WES-L-022",
+        "knowledgeId": "K-WES-11-02",
+        "origin": {
+          "file": "public/western-fragen.csv",
+          "line": 63,
+          "package": "Western_Quiz_180_Fragen.csv"
+        },
+        "difficulty": "leicht",
+        "question": "Der mit dem Wolf tanzt (1990): Welchem Tier gibt Dunbar den Namen „Socke“, im Original „Two Socks“?",
+        "answers": [
+          {
+            "text": "Einem Bison",
+            "correct": false
+          },
+          {
+            "text": "Einem Wolf",
+            "correct": true
+          },
+          {
+            "text": "Einem Kojoten",
+            "correct": false
+          },
+          {
+            "text": "Einem Pferd",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Dunbars (Kevin Costner) Beziehung zum Wolf entsteht durch vorsichtige Annäherung. Das Tier lässt sich nicht einfach befehlen und spiegelt dadurch eine andere Art von Kontakt als die militärische Hierarchie. Die wiederholten Begegnungen geben der Einsamkeit am Außenposten ein Gegenüber. Vertrauen wird als Prozess sichtbar, der Zeit benötigt und nicht vollständig kontrolliert werden kann.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "ed21623d3e45d08c0a9afb109f96fcbf6170e1ef308085761647e95ba19224c7",
+        "category": "confirmed_strong_answer_hint",
+        "assessment": "Der mit dem Wolf tanzt gibt einen starken Hinweis auf die gesuchte Tierart Wolf."
+      },
+      {
+        "id": "SF-202609-P02-M-028",
+        "knowledgeId": "K-SF-202609-P02-M-028",
+        "origin": {
+          "file": "public/scifi-ergaenzung-fragen.csv",
+          "line": 83,
+          "package": "SciFi_Ergaenzung_360_Fragen.csv"
+        },
+        "difficulty": "mittel",
+        "question": "Die Fliege (1986): Was gerät unbemerkt mit Brundle in den Telepod?",
+        "answers": [
+          {
+            "text": "Eine Wespe",
+            "correct": false
+          },
+          {
+            "text": "Eine Motte",
+            "correct": false
+          },
+          {
+            "text": "Eine Spinne",
+            "correct": false
+          },
+          {
+            "text": "Eine Fliege",
+            "correct": true
+          }
+        ],
+        "effectiveDeepDive": "Seth Brundle (Jeff Goldblum) bemerkt den zweiten Organismus beim Selbstversuch nicht. Die Maschine behandelt den unerwarteten Inhalt deshalb nicht nach menschlicher Absicht, sondern entsprechend ihrer Verarbeitung. Der Fehler ist räumlich winzig und in seinen Folgen gewaltig. Diese Größenverschiebung macht den Versuch besonders beklemmend: Nicht ein spektakulärer Sabotageakt, sondern ein übersehener Bestandteil der unmittelbaren Umgebung setzt die Veränderung in Gang.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "b68b7ca60ed6e3c5f84f0b04e8ef04a114cf6efd4be96ef75839c2f5d7fcce1d",
+        "category": "confirmed_strong_answer_hint",
+        "assessment": "Die Fliege gibt einen starken Hinweis auf das gesuchte Insekt Fliege."
+      }
+    ],
+    "weakOptions": {
+      "id": "SCHAUSPIELER-202610-P03-155-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-155-L-1",
+      "origin": {
+        "file": "public/schauspieler-p03-fragen.csv",
+        "line": 234,
+        "package": "Schauspieler_Ergaenzung_P03_400_Fragen_App.csv"
+      },
+      "difficulty": "leicht",
+      "question": "Welche der beiden Titelheldinnen spielt Geena Davis in „Thelma & Louise“?",
+      "answers": [
+        {
+          "text": "Maggie",
+          "correct": false
+        },
+        {
+          "text": "Louise",
+          "correct": false
+        },
+        {
+          "text": "Thelma",
+          "correct": true
+        },
+        {
+          "text": "Darcy",
+          "correct": false
+        }
+      ],
+      "effectiveDeepDive": "Thelma beginnt die Reise als verheiratete Frau mit wenig eigener Entscheidungsfreiheit. Geena Davis spielt sie neben Susan Sarandons Louise. Ridley Scotts Film entwickelt den Ausflug zu einer Flucht, auf der beide neue Grenzen erfahren; Thelmas Veränderung verbindet die Freundschaft mit einem zunehmend eigenständigen Umgang mit Gefahr und gesellschaftlichen Erwartungen.",
+      "castSupplement": "",
+      "displayOverlay": "actor",
+      "displaySha256": "27b2a8b77861e081f132a22451b01df287ee4d13dc3dd819d690a77af0160839",
+      "assessment": "Kein eindeutiger Lösungsverrat: Thelma und Louise stehen beide im Titel. Die Frage nach einer der beiden Titelheldinnen schließt Maggie und Darcy jedoch bereits aus und reduziert die Auswahl auf zwei plausible Antworten."
+    },
+    "deepDiveWeaknesses": [
+      {
+        "id": "ACT-202610-P01-S-025",
+        "knowledgeId": "K-ACT-202610-P01-S-025",
+        "origin": {
+          "file": "public/alle-genres-120-filme-fragen.csv",
+          "line": 150,
+          "package": "Alle_Genres_120_Filme_960_Fragen.csv"
+        },
+        "difficulty": "schwer",
+        "question": "Gefährliche Brandung (1991): Welcher Agent entwickelt die entscheidende Surfer-Theorie?",
+        "answers": [
+          {
+            "text": "Angelo Pappas",
+            "correct": true
+          },
+          {
+            "text": "Johnny Utah",
+            "correct": false
+          },
+          {
+            "text": "Ben Harp",
+            "correct": false
+          },
+          {
+            "text": "Deets",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Angelo Pappas (Gary Busey) kombiniert scheinbar nebensächliche Beobachtungen zu einer Ermittlungsrichtung. Sein Wissen wirkt weniger glatt als die Erwartungen der Vorgesetzten. Die Zusammenarbeit zeigt, weshalb Johnny Utahs (Keanu Reeves) körperlicher Einsatz allein nicht genügt.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "4cec29cea5614b81270d6d88244be3d10710feaea6fdc9c871923ba95ef04ef0",
+        "assessment": "Die Vertiefung nennt scheinbar nebensächliche Beobachtungen, erzählt aber weder welche noch wie daraus Pappas’ Surfer-Theorie entsteht. Der interessante Ermittlungszusammenhang bleibt offen."
+      },
+      {
+        "id": "ART-M-033",
+        "knowledgeId": "K-ART-17-03",
+        "origin": {
+          "file": "public/arthouse-fragen.csv",
+          "line": 100,
+          "package": "Arthouse_Quiz_180_Fragen.csv"
+        },
+        "difficulty": "mittel",
+        "question": "Only Lovers Left Alive (2013): In welchen beiden Städten leben Adam und Eve anfangs getrennt?",
+        "answers": [
+          {
+            "text": "Detroit und Tanger",
+            "correct": true
+          },
+          {
+            "text": "Berlin und Rom",
+            "correct": false
+          },
+          {
+            "text": "Paris und Prag",
+            "correct": false
+          },
+          {
+            "text": "London und Tokio",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Detroit und Tanger geben Adam (Tom Hiddleston) und Eve (Tilda Swinton) unterschiedliche Lebensräume. Die räumliche Trennung hebt ihre Beziehung nicht auf, macht aber verschiedene Gewohnheiten sichtbar. Man kann die Orte als Gegenüber lesen, ohne sie auf feste Symbole zu reduzieren: Nähe entsteht hier nicht nur durch denselben Wohnort, sondern auch durch Aufmerksamkeit über eine Entfernung hinweg.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "6969fa802f764e4ba1b060b642c89e176e38c0f2cd24adf0bc11dd6319b1ed04",
+        "assessment": "Nach der Lösung Detroit/Tanger folgt eine allgemeine Beziehungsdeutung ohne konkrete Gewohnheit oder Szene aus einem der beiden Orte."
+      },
+      {
+        "id": "HOR-S-033",
+        "knowledgeId": "K-HOR-17-bruecke",
+        "origin": {
+          "file": "public/horror-fragen.csv",
+          "line": 102,
+          "package": "Horror_Quiz_180_Fragen.csv"
+        },
+        "difficulty": "schwer",
+        "question": "Tanz der Teufel (1981): Was verhindert die einfache Rückfahrt aus dem Wald?",
+        "answers": [
+          {
+            "text": "Ein umgestürzter Reisebus blockiert das Auto.",
+            "correct": false
+          },
+          {
+            "text": "Ein Hochwasser hat die Hütte vollständig umschlossen.",
+            "correct": false
+          },
+          {
+            "text": "Eine Polizeisperre hält sämtliche Besucher fest.",
+            "correct": false
+          },
+          {
+            "text": "Die Brücke auf der Zufahrt ist zerstört.",
+            "correct": true
+          }
+        ],
+        "effectiveDeepDive": "Der Weg, auf dem die Gruppe ankam, steht nicht mehr als verlässliche Möglichkeit zur Verfügung. Das ist für die Handlung mehr als ein Hindernis für das Auto: Die Hoffnung, die Situation durch bloßes Wegfahren zu beenden, bricht zusammen. Die Figuren müssen sich nun stärker mit den Vorgängen an der Hütte auseinandersetzen, statt nur den Ort zu wechseln.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "f687b16224add7214f9883c7cbbfc643e2676a0082c71099cf5871b3b5d21bd6",
+        "assessment": "Die gesperrte Rückfahrt wird verständlich eingeordnet. Der Text erweitert aber vor allem die offensichtliche Fluchtwirkung; für einen Deep Dive wären konkretere Handlungsschritte ergiebiger."
+      },
+      {
+        "id": "MAR-L-033",
+        "knowledgeId": "K-MAR-17-01",
+        "origin": {
+          "file": "public/martialarts-fragen.csv",
+          "line": 98,
+          "package": "MartialArts_Quiz_180_Fragen.csv"
+        },
+        "difficulty": "leicht",
+        "question": "Fearless (2006): Wer verkörpert den Kampfkünstler Huo Yuanjia?",
+        "answers": [
+          {
+            "text": "Jet Li",
+            "correct": true
+          },
+          {
+            "text": "Vincent Zhao",
+            "correct": false
+          },
+          {
+            "text": "Donnie Yen",
+            "correct": false
+          },
+          {
+            "text": "Jackie Chan",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Huo Yuanjia wird in dieser dramatisierten Geschichte nicht als von Beginn an weiser Meister gezeigt. Jet Lis Figur muss erst erfahren, welchen Schaden Ehrgeiz ohne Selbstbegrenzung anrichten kann. Der Film interessiert sich deshalb ebenso für den Umgang mit Können wie für das Können selbst. Stärke erhält ihren Wert durch die Entscheidung, wofür sie eingesetzt wird.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "ed64eb796737b60df4932400056558e27cee01f0d39a18497066b6f898d2c1e3",
+        "assessment": "Ehrgeiz, Selbstprüfung und verantwortlicher Krafteinsatz bleiben allgemeine Themen; eine konkrete Entwicklung oder Szene würde die Vertiefung individueller machen."
+      },
+      {
+        "id": "PRZ-202610-P01-E-004",
+        "knowledgeId": "K-PRZ-202610-P01-E-004",
+        "origin": {
+          "file": "public/preistraeger-fragen.csv",
+          "line": 80,
+          "package": "Preistraeger_200_Fragen.csv"
+        },
+        "difficulty": "experte",
+        "question": "Ein Oscar für den Blick durch die Kamera: Wer wurde 1976 für Barry Lyndon (1975) ausgezeichnet?",
+        "answers": [
+          {
+            "text": "Janusz Kaminski",
+            "correct": false
+          },
+          {
+            "text": "Roger Deakins",
+            "correct": false
+          },
+          {
+            "text": "John Alcott",
+            "correct": true
+          },
+          {
+            "text": "Emmanuel Lubezki",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Die Academy zeichnete John Alcott 1976 für „Barry Lyndon“ in der Kategorie „beste Kamera“ aus. Im selben Jahr gewann „Einer flog über das Kuckucksnest“ in der Kategorie „bester Film“. Diese getrennte Zuordnung zeigt, dass die Preisvergabe mehrere unterschiedliche Filmleistungen nebeneinander würdigt. Beim Wiedersehen kannst Du auf eine einzelne Einstellung achten: Was liegt im Licht, was bleibt außerhalb des Bildes, und von welchem Standort aus erleben wir die Szene? Solche Entscheidungen lenken unsere Wahrnehmung.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "36e229e95bcf4a593e1290115be4cea7d6aec33790132d65f3102a602fdc4656",
+        "assessment": "Allgemeine Kategorienzuordnung und mehrfach verwendete Betrachtungsanweisung verdrängen das Besondere von John Alcotts Kameraarbeit bei Barry Lyndon."
+      },
+      {
+        "id": "PRZ-202610-P01-M-004",
+        "knowledgeId": "K-PRZ-202610-P01-M-004",
+        "origin": {
+          "file": "public/preistraeger-fragen.csv",
+          "line": 30,
+          "package": "Preistraeger_200_Fragen.csv"
+        },
+        "difficulty": "mittel",
+        "question": "Oscar 1960, Ben Hur (1959): Welche Person gewann als bester Nebendarsteller?",
+        "answers": [
+          {
+            "text": "Hugh Griffith",
+            "correct": true
+          },
+          {
+            "text": "Russell Crowe",
+            "correct": false
+          },
+          {
+            "text": "Sean Penn",
+            "correct": false
+          },
+          {
+            "text": "Christoph Waltz",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Die Academy zeichnete Hugh Griffith 1960 für „Ben Hur“ in der Kategorie „bester Nebendarsteller“ aus. Charlton Heston erhielt den Hauptrollenpreis, Hugh Griffith den Nebenrollenpreis. Die Filmwürdigung wurde hier also von zwei konkreten Schauspielauszeichnungen begleitet. Er ist keine Gesamtwertung der Karriere.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "5be669cc612d2639e4360246360783ac6a8c48f10b5204c99b581882c18086b5",
+        "assessment": "Der Abschluss Er ist keine Gesamtwertung der Karriere hat keinen klaren unmittelbaren grammatischen Bezug. Die Preisabgrenzung ist zudem allgemein statt filmspezifisch."
+      }
+    ],
+    "deepDiveStrengths": [
+      {
+        "id": "SF-S-033",
+        "knowledgeId": "K-SF-033-jones-entlassung",
+        "origin": {
+          "file": "public/fragen.csv",
+          "line": 164,
+          "package": "SciFi_Quiz_180_Fragen.csv"
+        },
+        "difficulty": "schwer",
+        "question": "RoboCop (1987): Warum kann RoboCop Dick Jones im Finale schließlich erschießen?",
+        "answers": [
+          {
+            "text": "Die Polizei übernimmt zuvor sämtliche OCP-Anteile.",
+            "correct": false
+          },
+          {
+            "text": "Murphy entfernt eigenhändig seinen Steuerchip.",
+            "correct": false
+          },
+          {
+            "text": "Jones erklärt den Konzernvertrag für ungültig.",
+            "correct": false
+          },
+          {
+            "text": "Jones wird unmittelbar zuvor von OCP entlassen.",
+            "correct": true
+          }
+        ],
+        "effectiveDeepDive": "Die geheime vierte Direktive hindert RoboCop daran, gegen leitende OCP-Mitarbeiter vorzugehen. Dick Jones nutzt diesen eingebauten Schutz aus. Als der Konzernchef ihn im Finale entlässt, ist er jedoch kein geschützter Mitarbeiter mehr. Die Lösung folgt damit genau der Unternehmenslogik, die Murphy zuvor handlungsunfähig gemacht hat, und eröffnet ihm die Möglichkeit einzugreifen.",
+        "castSupplement": "Alex Murphy / RoboCop wird von Peter Weller gespielt. Dick Jones wird von Ronny Cox gespielt. Der OCP-Chef wird von Dan O’Herlihy gespielt.",
+        "displayOverlay": "raw",
+        "displaySha256": "87e4a06d78877884e1d153de217b163a26a2d1a872434fc6d33bfede360d98fd",
+        "assessment": "Die Direktive schützt OCP-Führungskräfte; Jones’ Entlassung hebt den Schutz auf. Die Vertiefung erklärt eine konkrete Ursache und ihre Folge im Finale."
+      },
+      {
+        "id": "MUS-202609-P01-M-008",
+        "knowledgeId": "K-MUS-202609-P01-M-008",
+        "origin": {
+          "file": "public/musik-fragen.csv",
+          "line": 23,
+          "package": "Musik_Ergaenzung_180_Fragen.csv"
+        },
+        "difficulty": "mittel",
+        "question": "La La Land (2016): Welches Gebäude besuchen Mia und Sebastian nach dem abgebrochenen Kinobesuch?",
+        "answers": [
+          {
+            "text": "Die Walt Disney Concert Hall",
+            "correct": false
+          },
+          {
+            "text": "Das Bradbury Building",
+            "correct": false
+          },
+          {
+            "text": "Das Getty Center",
+            "correct": false
+          },
+          {
+            "text": "Das Griffith Observatory",
+            "correct": true
+          }
+        ],
+        "effectiveDeepDive": "Mia (Emma Stone) und Sebastian (Ryan Gosling) sehen zunächst „… denn sie wissen nicht, was sie tun“. Nach einer Projektorpanne besuchen sie das Griffith Observatory, das auch in diesem älteren Film vorkommt. Das Rendezvous setzt also einen Kinobesuch im Stadtraum fort. Im Planetarium löst sich die Szene schließlich von der Schwerkraft und verwandelt sich in eine Tanzfantasie.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "fc7814f3c57c8821ba4e75e3f2837de4d9f89efef821d1c56344272e6228b4b8",
+        "assessment": "Kinofilm, Projektorpanne, Wechsel zum Griffith Observatory und Tanzfantasie ergeben eine konkrete zusammenhängende Szene."
+      },
+      {
+        "id": "MUS-202609-P01-S-008",
+        "knowledgeId": "K-MUS-202609-P01-S-008",
+        "origin": {
+          "file": "public/musik-fragen.csv",
+          "line": 25,
+          "package": "Musik_Ergaenzung_180_Fragen.csv"
+        },
+        "difficulty": "schwer",
+        "question": "La La Land (2016): Was zeigt die lange musikalische Fantasie im Epilog?",
+        "answers": [
+          {
+            "text": "Eine Rückblende auf Sebastians Kindheit",
+            "correct": false
+          },
+          {
+            "text": "Eine Probe für Mias nächsten Kinofilm",
+            "correct": false
+          },
+          {
+            "text": "Ein tatsächlich nachgeholtes gemeinsames Jahr",
+            "correct": false
+          },
+          {
+            "text": "Ein mögliches gemeinsames Leben des Paares",
+            "correct": true
+          }
+        ],
+        "effectiveDeepDive": "Als Mia (Emma Stone) Jahre später Sebastians (Ryan Gosling) Club besucht, setzt sein Klavierspiel eine Bildfolge in Gang. Bekannte Situationen erscheinen mit verändertem Ausgang; daraus entsteht ein mögliches gemeinsames Leben. Anschließend kehrt der Film in den Club zurück. Diese Rückkehr macht klar, dass die musikalische Montage keine nachträglich enthüllte Realität war, sondern eine Vorstellung vom verpassten Weg.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "be73a8ba8ccda4a89403c37b7ea878f30086a06225c541273311764b7c2132f2",
+        "assessment": "Die Schlussmontage wird durch den Wechsel zwischen vorgestelltem Lebenslauf und Rückkehr zum Club verständlich eingeordnet."
+      },
+      {
+        "id": "SCHAUSPIELER-202610-P02-104-A-2",
+        "knowledgeId": "K-SCHAUSPIELER-202610-P02-104-A-2",
+        "origin": {
+          "file": "public/schauspieler-p02-fragen.csv",
+          "line": 33,
+          "package": "Schauspieler_Ergaenzung_P02_200_Fragen_App.csv"
+        },
+        "difficulty": "experte",
+        "question": "Ryan Gosling stellt in „Aufbruch zum Mond“ Neil Armstrong dar. Welche frühere Weltraummission bildet eine zentrale Station vor Apollo 11?",
+        "answers": [
+          {
+            "text": "Gemini 8",
+            "correct": true
+          },
+          {
+            "text": "Mercury-Redstone 3",
+            "correct": false
+          },
+          {
+            "text": "Gemini 12",
+            "correct": false
+          },
+          {
+            "text": "Apollo 13",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Armstrong kommandierte Gemini 8 zusammen mit David Scott. Nach dem Andocken an ein anderes Raumfahrzeug geriet die Mission durch eine Fehlfunktion in eine gefährliche Drehbewegung. Damien Chazelles Film nutzt diese Episode, um technische Risiken und Armstrongs Handeln unter Druck vor der Mondlandung zu zeigen.",
+        "castSupplement": "",
+        "displayOverlay": "actor",
+        "displaySha256": "40b42ddab3024689ca612060a5a2691da74149917a7a47fb6b384f505d69a9d3",
+        "assessment": "Gemini 8, Andocken, Fehlfunktion und Gefahr erzählen eine konkrete Episode vor Apollo 11."
+      },
+      {
+        "id": "SFI-202610-P01-M-007",
+        "knowledgeId": "K-SFI-202610-P01-M-007",
+        "origin": {
+          "file": "public/alle-genres-120-filme-fragen.csv",
+          "line": 20,
+          "package": "Alle_Genres_120_Filme_960_Fragen.csv"
+        },
+        "difficulty": "mittel",
+        "question": "Her (2013): Wer spricht Samantha in der englischen Originalfassung?",
+        "answers": [
+          {
+            "text": "Scarlett Johansson",
+            "correct": true
+          },
+          {
+            "text": "Samantha Morton",
+            "correct": false
+          },
+          {
+            "text": "Rooney Mara",
+            "correct": false
+          },
+          {
+            "text": "Amy Adams",
+            "correct": false
+          }
+        ],
+        "effectiveDeepDive": "Samantha (Originalstimme: Scarlett Johansson) wurde zunächst mit Samantha Morton aufgenommen. Erst in der Nachproduktion ersetzte Johansson die Stimme. Die Veränderung betrifft keine sichtbare Rolle, prägt aber die gesamte emotionale Wirkung der Beziehung.",
+        "castSupplement": "",
+        "displayOverlay": "raw",
+        "displaySha256": "bb4eb99b120c4752b25e6b79f14872dc2dc77c1ebe6fd5b3346f3666da7fabb5",
+        "assessment": "Trotz 32 Wörtern enthält der Text eine individuelle Produktionsinformation zum Austausch der Stimme in Her. Kürze allein ist kein Qualitätsmangel."
+      }
+    ],
+    "awardRepeatedSentenceQuestions": [
+      "PRZ-202610-P01-M-006",
+      "PRZ-202610-P01-M-011",
+      "PRZ-202610-P01-M-012",
+      "PRZ-202610-P01-M-014",
+      "PRZ-202610-P01-M-016",
+      "PRZ-202610-P01-M-017",
+      "PRZ-202610-P01-M-018",
+      "PRZ-202610-P01-M-019",
+      "PRZ-202610-P01-M-020",
+      "PRZ-202610-P01-M-022",
+      "PRZ-202610-P01-S-009",
+      "PRZ-202610-P01-S-011",
+      "PRZ-202610-P01-S-012",
+      "PRZ-202610-P01-S-013",
+      "PRZ-202610-P01-S-018",
+      "PRZ-202610-P01-S-019",
+      "PRZ-202610-P01-S-020",
+      "PRZ-202610-P01-S-022",
+      "PRZ-202610-P01-S-023",
+      "PRZ-202610-P01-S-024",
+      "PRZ-202610-P01-E-003",
+      "PRZ-202610-P01-E-004",
+      "PRZ-202610-P01-E-006",
+      "PRZ-202610-P01-E-014",
+      "PRZ-202610-P01-E-017",
+      "PRZ-202610-P01-E-018",
+      "PRZ-202610-P01-E-020",
+      "PRZ-202610-P01-E-021",
+      "PRZ-202610-P01-E-022",
+      "PRZ-202610-P01-E-023",
+      "PRZ-202610-P01-L-001",
+      "PRZ-202610-P01-L-002",
+      "PRZ-202610-P01-L-003",
+      "PRZ-202610-P01-L-004",
+      "PRZ-202610-P01-L-005",
+      "PRZ-202610-P01-L-006",
+      "PRZ-202610-P01-L-007",
+      "PRZ-202610-P01-L-008",
+      "PRZ-202610-P01-L-009",
+      "PRZ-202610-P01-L-010",
+      "PRZ-202610-P01-L-011",
+      "PRZ-202610-P01-L-012",
+      "PRZ-202610-P01-L-013",
+      "PRZ-202610-P01-L-014",
+      "PRZ-202610-P01-L-015",
+      "PRZ-202610-P01-L-016",
+      "PRZ-202610-P01-L-017",
+      "PRZ-202610-P01-L-018",
+      "PRZ-202610-P01-L-019",
+      "PRZ-202610-P01-L-020",
+      "PRZ-202610-P01-S-002",
+      "PRZ-202610-P01-S-007",
+      "PRZ-202610-P01-S-010",
+      "PRZ-202610-P01-S-014",
+      "PRZ-202610-P01-S-015",
+      "PRZ-202610-P01-S-021",
+      "PRZ-202610-P01-S-025",
+      "PRZ-202610-P01-L-026",
+      "PRZ-202610-P01-L-027",
+      "PRZ-202610-P01-L-028",
+      "PRZ-202610-P01-L-029",
+      "PRZ-202610-P01-L-030",
+      "PRZ-202610-P01-L-031",
+      "PRZ-202610-P01-L-032",
+      "PRZ-202610-P01-L-033",
+      "PRZ-202610-P01-L-034",
+      "PRZ-202610-P01-L-035",
+      "PRZ-202610-P01-L-036",
+      "PRZ-202610-P01-L-037",
+      "PRZ-202610-P01-L-038",
+      "PRZ-202610-P01-S-001",
+      "PRZ-202610-P01-S-003",
+      "PRZ-202610-P01-S-004",
+      "PRZ-202610-P01-S-005",
+      "PRZ-202610-P01-S-006",
+      "PRZ-202610-P01-S-008",
+      "PRZ-202610-P01-S-016",
+      "PRZ-202610-P01-S-017",
+      "PRZ-202610-P01-E-008",
+      "PRZ-202610-P01-E-010",
+      "PRZ-202610-P01-E-015",
+      "PRZ-202610-P01-E-019"
+    ]
+  },
+  "priorities": [
+    {
+      "rank": 1,
+      "scope": "Zehn bestätigte starke Lösungshinweise und die Thelma-&-Louise-Antwortauswahl",
+      "action": "Frage beziehungsweise Wissensziel so formulieren, dass Filmkennzeichnung und Antwortauswahl die Lösung nicht vorgeben."
+    },
+    {
+      "rank": 2,
+      "scope": "200 Preisfragen, darunter 82 mit wörtlich wiederkehrenden allgemeinen Sätzen",
+      "action": "Auszeichnung an konkreter Leistung, Entstehung, Wettbewerb oder nachvollziehbarer Wirkung erzählen; Frage und Ablenker gemeinsam lesen."
+    },
+    {
+      "rank": 3,
+      "scope": "425 generierte Jahresfragen und 412 Regiefragen",
+      "action": "Definition des Jahresbegriffs und allgemeine Filmografie um eine passende filmbezogene Geschichte ergänzen. 381 Jahresfragen teilen denselben Definitionssatz; 311 Regievertiefungen liegen unter 35 Wörtern."
+    },
+    {
+      "rank": 4,
+      "scope": "Älteres 800-Fragen-Schauspielerpaket und einzelne Filmtexte",
+      "action": "Kurze beziehungsweise abstrakte Texte zuerst sichten. 341 kurze Schauspielertexte und 114 kurze Alle-Genres-Texte sind Prüfkandidaten, keine bestätigte Fehlerzahl. Gute bestehende Geschichten erhalten."
+    }
+  ],
+  "researchedImprovementExample": {
+    "questionId": "PRZ-202610-P01-E-004",
+    "status": "Vorschlag, nicht umgesetzt",
+    "topic": "Barry Lyndon: Kerzenlichtaufnahmen, besonders lichtstarke Objektive, Kameraumbau und schwierige Schärfenführung als konkrete Geschichte der Kameraarbeit.",
+    "source": {
+      "title": "ASC: Photographing Barry Lyndon – Interview mit John Alcott",
+      "url": "https://theasc.com/article/flashback-barry-lyndon/",
+      "readOn": "2026-10-04",
+      "type": "Primärquelle: Interview mit dem Kameramann"
+    }
+  },
+  "sourceFiles": [
+    {
+      "file": "public/fragen.csv",
+      "sha256": "e928647423f3781bdbcc6e17b2ab0c35fad38d76483e3470ddc312f7d8bdf968"
+    },
+    {
+      "file": "public/action-fragen.csv",
+      "sha256": "a96725f37c330014f5424a4552f2963b79c485debb5b88a559dfc35082fb8163"
+    },
+    {
+      "file": "public/horror-fragen.csv",
+      "sha256": "dd3d2c14fa779dc08e0ba87a89cb8f0112fd0ac33f8ff496ec5b43b3249a6e1d"
+    },
+    {
+      "file": "public/fantasy-fragen.csv",
+      "sha256": "1245252ad7cdbcfcd2954e7752906e1b2f350a8d6f0110e58da96165d5cc1796"
+    },
+    {
+      "file": "public/komoedie-fragen.csv",
+      "sha256": "ced66b481bcce01ed54d39fabc890027db0f7feb70012e2649555ed4bdb00d6a"
+    },
+    {
+      "file": "public/western-fragen.csv",
+      "sha256": "3e60cfd8cf5cf1e4ae58c08db2cd086a7fda45fe1c15869a0f8c38fc1ea944af"
+    },
+    {
+      "file": "public/drama-fragen.csv",
+      "sha256": "62262f8338959dc79b9714c7bc9480005ae56de4ee21f780813c1150d599fc4f"
+    },
+    {
+      "file": "public/classics-fragen.csv",
+      "sha256": "35a1a4cd6abfc74823af08d6113d8d984689c63a0ccf12b08a2211e7f1f1c944"
+    },
+    {
+      "file": "public/martialarts-fragen.csv",
+      "sha256": "ebc619048ce638866e2f40679200b3ee6e1d3e4c234805264d4687830d13961b"
+    },
+    {
+      "file": "public/romcom-fragen.csv",
+      "sha256": "b8d1fe55b82369a24c1d1b30ac801fd9a4131d2130d8f116819695a827a3d3ae"
+    },
+    {
+      "file": "public/arthouse-fragen.csv",
+      "sha256": "84274af394d4bdc1952ea47716abd62331d45bd768ece7e72b17051b5a52af91"
+    },
+    {
+      "file": "public/musik-fragen.csv",
+      "sha256": "d8c47f7931d31ba0bf1108bf1b860e001170a44c7fa21449f514d03e1baab132"
+    },
+    {
+      "file": "public/scifi-ergaenzung-fragen.csv",
+      "sha256": "59fabe3a3df4be371731a5ed265d8afc6b4e41c1c06f480d85a4179124b05b9c"
+    },
+    {
+      "file": "public/komoedie-ergaenzung-fragen.csv",
+      "sha256": "da0a3e4870e4a3f6611b91d50361d3f51d6ee26e2fa44cb1e85582aa29253c60"
+    },
+    {
+      "file": "public/alle-genres-120-filme-fragen.csv",
+      "sha256": "84d105796e4fc87f337eda9fd187c65673d48357458a788dbabcd3815dc7fbe1"
+    },
+    {
+      "file": "public/preistraeger-fragen.csv",
+      "sha256": "6d8cceab02e9908862ba97815a7dc8f8a5979c9b11b4c88716a14bb604341138"
+    },
+    {
+      "file": "public/schauspieler-fragen.csv",
+      "sha256": "859b758429b9b4ea79841ddc0b6ab6e314774465bd6f3ec43ef16f8a24266182"
+    },
+    {
+      "file": "public/schauspieler-p02-fragen.csv",
+      "sha256": "adb92b7bda7e1094d10ceaaec80cc065c0fab03d74633a23c8a55c3615792a97"
+    },
+    {
+      "file": "public/schauspieler-p03-fragen.csv",
+      "sha256": "bff7323e56d049b14b84373b6028b6a30b4a914d5b54be713cd4db57b39f6656"
+    },
+    {
+      "file": "src/packages.ts",
+      "sha256": "229fe4334631d5f2a77fe46fe0f16dec0026c0dc57f1323d3e2ab57d02933845"
+    },
+    {
+      "file": "src/importer.ts",
+      "sha256": "713abdd29bbfb005671d5d94b1a96504e436c298c69e7f2d2661c3630bf7631a"
+    },
+    {
+      "file": "src/model.ts",
+      "sha256": "fccaf4e0b7cc38b2440d6a316771c146a6a3d209b0538449051744f94edc87ef"
+    },
+    {
+      "file": "src/categories.ts",
+      "sha256": "1931b4680e4ea8e483662bc80de79f47b22743d65ac78f03e575c275e5c716b7"
+    },
+    {
+      "file": "src/filters.ts",
+      "sha256": "3624ed585444749ffbe7b67c90d330ddabb3ac2b663d202719aea21ae5b159af"
+    },
+    {
+      "file": "src/actorEditorial.ts",
+      "sha256": "81eb30652b17c5dc3ee90ec6d0a657de88b98a16a96b7298219470c32afffc4d"
+    },
+    {
+      "file": "src/actorEditorial.json",
+      "sha256": "669310766d3a7995384669f12db735f0126ff6bc8f70b3d4d98f89261902ee77"
+    },
+    {
+      "file": "src/actorSupplementEditorial.json",
+      "sha256": "22bcfe7474e2165c8027fcab00d011f3a30bfe1ec34df68d39d0e87d561a8ec7"
+    },
+    {
+      "file": "src/filmFacts.ts",
+      "sha256": "0171607d46819fe38c3d66388e9e38d4e7f98ca467741e68f6e0f1acec7cfa36"
+    },
+    {
+      "file": "src/filmFacts.json",
+      "sha256": "bc3e802afae1960c87357d8b333f8077487b47b81a9b91f11d37d525f81ccaa2"
+    },
+    {
+      "file": "src/awardFilmFacts.json",
+      "sha256": "be66b3f12cc928dcc51c445cd4b8a908db4c2510c61eab17edd8416fb642cae9"
+    },
+    {
+      "file": "src/actorFilmFacts.json",
+      "sha256": "d21ed7807d6bbcd4a7bddc20bf00aed84103e3116f907245c08f690ceaa78725"
+    },
+    {
+      "file": "src/actorSupplementFilmFacts.json",
+      "sha256": "15515d9cb17a163e9e699643078e3ba0a07cd86c6963ae0af099272eda17947f"
+    },
+    {
+      "file": "src/directorContexts.json",
+      "sha256": "1828edf2518dffcade68b0614618f57bf3ab550ea7777d499aea281d5e8a64b3"
+    },
+    {
+      "file": "src/allGenresDirectorContexts.json",
+      "sha256": "f7942b427723529833e8cc22aa0ba14e1d204b6c1372e37bc8f5d0b118d3443d"
+    },
+    {
+      "file": "src/allGenresCountryNotes.json",
+      "sha256": "1657c6f6ba676c9a17392db2f71789e4ecea4929cef7f617e4f7148dfe7d6596"
+    },
+    {
+      "file": "src/filmDetails.ts",
+      "sha256": "29106203c45dd12cf577c3ab0248c82fc93c69571dd631fab8acb0544eb32820"
+    },
+    {
+      "file": "src/castEditorial.json",
+      "sha256": "66d27e82f3c37a3bfc09650808f60b4b2dccf70b0ecf0a636f79e06077d1667e"
+    },
+    {
+      "file": "src/questionTitle.ts",
+      "sha256": "f6514a35852a832a32595cc58914360d1bf8a4c3adeca37176a8b96505188787"
+    },
+    {
+      "file": "src/QuestionScreen.tsx",
+      "sha256": "b64c0213e3d7ccdbcd26837ed2c9d62de82b3cf93ba8ae0ddff27eca9852ebdc"
+    },
+    {
+      "file": "src/Explanation.tsx",
+      "sha256": "c7330ef6d8e57a7d7ccfd2225134c5ea7bf85305e4678ac4c85f6d209d8b7b48"
+    },
+    {
+      "file": "KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json",
+      "sha256": "7ede93c5f4f8e435eab7c114ccd3843175a3c37010d37da552d641e1244ceb7a"
+    }
+  ],
+  "changes": "Nur Prüfnachweis und Projektwissen; keine Frage, CSV, App-Logik oder Nutzerdaten geändert."
+}
