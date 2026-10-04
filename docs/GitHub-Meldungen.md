@@ -4,7 +4,7 @@
 
 Auf [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20GitHub-Meldungen.txt) umgesetzt: „Frage melden“ öffnet das gemeinsame Meldeformular mit Fragenbezug. Profil → „Problem oder Verbesserung melden“ bietet dasselbe Formular für allgemeine Rückmeldungen. Angemeldete, bestätigte Quiz-Konten können ein öffentliches Issue in [LevelX2/Wissensquiz](https://github.com/LevelX2/Wissensquiz/issues) erstellen; ein eigenes GitHub-Konto ist nicht erforderlich. Gäste erhalten einen Anmeldehinweis.
 
-Die Oberfläche ist lokal geprüft und noch nicht als Sites-Version veröffentlicht. Die neue Datenbankerweiterung und Edge Function sind in Supabase eingerichtet. **Der GitHub-Schlüssel fehlt noch:** Im Dashboard waren am 04.10.2026 keine benutzerdefinierten Function-Secrets hinterlegt. Ein echter Versand bis zum GitHub-Issue wurde deshalb noch nicht abgenommen.
+Die Oberfläche ist seit **Sites-Version 55** am 04.10.2026 um 18:41:47 Uhr Europe/Berlin veröffentlicht. Die neue Datenbankerweiterung und Edge Function sind in Supabase eingerichtet. **Der GitHub-Schlüssel fehlt noch:** Im Dashboard waren am 04.10.2026 keine benutzerdefinierten Function-Secrets hinterlegt. Ein echter Versand bis zum GitHub-Issue wurde deshalb noch nicht abgenommen. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-55-porträts-lösungsanzeige-antworttöne-und-github-meldeformulare).
 
 ## Formular und veröffentlichte Angaben
 

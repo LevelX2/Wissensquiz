@@ -1,6 +1,6 @@
 # Schauspielerporträts nach der Antwort
 
-Stand: 04.10.2026. Auf Nutzerwunsch 25 vorhandene Schauspielerpersonen mit Fotos als Auflockerung ergänzt. Lokal umgesetzt; noch nicht veröffentlicht.
+Stand: 04.10.2026. Auf Nutzerwunsch 25 vorhandene Schauspielerpersonen mit Fotos als Auflockerung ergänzt. Seit Sites-Version 55 veröffentlicht; [Betriebsnachweis](Sites-Betrieb.md#version-55-porträts-lösungsanzeige-antworttöne-und-github-meldeformulare).
 
 ## Anzeige und Zuordnung
 

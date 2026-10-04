@@ -2,9 +2,9 @@
 
 ## Öffentliche GitHub-Meldungen – 04.10.2026
 
-Lokal umgesetzt: Bestätigte Quiz-Konten können über „Frage melden“ oder das Profil ein öffentliches GitHub-Issue erstellen. Die Serverfunktion prüft den aktuellen Auth-Benutzer und die bestätigte E-Mail; anonyme Konten und Gäste erhalten keine Versandberechtigung. Kontoname, E-Mail-Adresse und Spielstand werden nicht ins Issue übernommen. Die Veröffentlichung erfordert eine ausdrückliche Zustimmung im Formular.
+Seit Sites-Version 55: Bestätigte Quiz-Konten können über „Frage melden“ oder das Profil ein öffentliches GitHub-Issue erstellen. Die Serverfunktion prüft den aktuellen Auth-Benutzer und die bestätigte E-Mail; anonyme Konten und Gäste erhalten keine Versandberechtigung. Kontoname, E-Mail-Adresse und Spielstand werden nicht ins Issue übernommen. Die Veröffentlichung erfordert eine ausdrückliche Zustimmung im Formular.
 
-Meldungsentwürfe mit unveränderlicher Versand-ID liegen im Sitzungsspeicher des Tabs getrennt nach Konto und Frage, außerhalb der privaten Spielstandsicherung. Die nur serverseitig zugängliche Versandtabelle enthält Kontobezug, Hash, Status und Beleg; keine Kommentare oder Spielstände. Frühere lokale Meldungen bleiben exportierbar, ohne automatischen Versand. Servererweiterung eingerichtet; GitHub-Schlüssel und Veröffentlichung noch offen. [Führender Meldevertrag](GitHub-Meldungen.md).
+Meldungsentwürfe mit unveränderlicher Versand-ID liegen im Sitzungsspeicher des Tabs getrennt nach Konto und Frage, außerhalb der privaten Spielstandsicherung. Die nur serverseitig zugängliche Versandtabelle enthält Kontobezug, Hash, Status und Beleg; keine Kommentare oder Spielstände. Frühere lokale Meldungen bleiben exportierbar, ohne automatischen Versand. Servererweiterung eingerichtet und Oberfläche seit Sites-Version 55 veröffentlicht; GitHub-Schlüssel weiterhin offen. [Führender Meldevertrag](GitHub-Meldungen.md).
 
 ## Katalogerweiterung und Rekordpositionen – 03.10.2026
 

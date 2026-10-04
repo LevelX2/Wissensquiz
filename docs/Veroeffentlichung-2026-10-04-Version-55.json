@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "siteVersion": 55,
+  "status": "succeeded",
+  "siteProjectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "siteVersionId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_2df4674cd31081919c9c8a8629b07f75",
+  "deploymentId": "appgdep_6ac281b80ca88191b1f337ec384102a6",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-10-04T16:41:47.703547+00:00",
+  "publishedAtEuropeBerlin": "04.10.2026 18:41:47 Europe/Berlin",
+  "sourceCommit": "94c23f6fa3e9d1e1d8622c9279954f6d73437426",
+  "access": {
+    "mode": "public",
+    "revision": 2,
+    "preserved": true
+  },
+  "archive": {
+    "format": "tar",
+    "sha256": "sha256:b179720dd0fde42b6ffcf54e0a377ffe491efc363776522ed74111f34486416e",
+    "bytes": 44011520,
+    "files": 88
+  },
+  "checks": {
+    "logic": {
+      "tests": 363,
+      "files": 60,
+      "reusedMatchingSource": true
+    },
+    "typescript": true,
+    "productionBuild": true,
+    "browser": {
+      "newlyRun": 2,
+      "engines": [
+        "Chromium",
+        "WebKit mobile"
+      ],
+      "releaseTime": true,
+      "reload": true,
+      "offlineContinuation": true,
+      "syntheticAccounts": true,
+      "priorReportCasesReused": 11,
+      "priorSolutionCasesReused": 34,
+      "priorAudioCasesReused": 8,
+      "priorPortraitCasesReused": 10
+    },
+    "buildFilesUnchangedAfterPackaging": 87
+  },
+  "build": {
+    "files": 87,
+    "bytes": 43939978,
+    "offlinePackage": "film-5979ee669a64",
+    "offlineEntries": 86
+  },
+  "catalog": {
+    "questions": 6277,
+    "knowledgeGoals": 5734,
+    "variants": 543,
+    "releaseHash": "fb8615bdb752106dbaf9d8979854a106586cfde4959043024f289bc439c5a759",
+    "liveDigests": 6277,
+    "liveScoreFields": 6277,
+    "reusedUnchanged": true
+  },
+  "releaseMetadata": {
+    "persisted": true,
+    "separateReadVerified": true,
+    "anonymousRpcVerified": true,
+    "anonymousDirectTableRead": false,
+    "authenticatedDirectTableRead": false
+  },
+  "limits": [
+    "GitHub-Schlüssel GITHUB_REPORT_TOKEN noch nicht hinterlegt; echter Issue-Versand nicht abgenommen.",
+    "Keine zusätzliche Live-Browser- oder physische Geräte-/Hörprüfung.",
+    "Das 320-Fragen-Ergänzungspaket liegt als Redaktion auf Main und bleibt außerhalb des spielbaren App-Katalogs."
+  ],
+  "preservedExistingFiles": 17,
+  "githubPush": false
+}

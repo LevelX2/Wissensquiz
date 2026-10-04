@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Version 55 veröffentlicht: gesamter Main-Stand mit Porträts, Lösungsanzeige, Antworttönen und Meldeformularen](../../../docs/Sites-Betrieb.md#version-55-porträts-lösungsanzeige-antworttöne-und-github-meldeformulare)
+- [Version 55: native Veröffentlichungsdaten und Prüfnachweise](../../../docs/Veroeffentlichung-2026-10-04-Version-55.json)
+
 - [Kurze, weiche Antworttöne: Treffer 185 ms, Fehler leiser und 170 ms – 04.10.2026](../../../docs/Lernregeln.md#akustisches-und-haptisches-feedback)
 
 - [Korrigierte Lösungsanzeige: Zeitspiele und Freies Spiel wählbar, Lernmodi direkt, neue Duelle immer gesammelt](../../../docs/Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026)
