@@ -675,6 +675,7 @@ test("Fehlende Audio- und Vibrationsschnittstellen verhindern keine Spielrunde",
 test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async ({
   page,
 }, testInfo) => {
+  await page.clock.install({ time: new Date("2026-10-04T12:00:00+02:00") });
   const errors: string[] = [];
   page.on("pageerror", (e) => errors.push(e.message));
   await launch(page);
@@ -740,13 +741,14 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await expect(
     page.getByText("Sicherung vollständig wiederhergestellt."),
   ).toBeVisible();
-  await page.getByLabel("CSV auswählen").setInputFiles("public/fragen.csv");
-  await expect(page.locator(".import-preview")).toContainText(
-    "180 vorhandene IDs übersprungen",
-  );
+  await expect(page.getByLabel("CSV auswählen")).toHaveCount(0);
   await expect(
-    page.getByRole("button", { name: "Gültige Fragen importieren" }),
-  ).toBeDisabled();
+    page.getByRole("heading", { name: "Fragen hinzufügen" }),
+  ).toHaveCount(0);
+  await expect(page.getByText(/Bisherige Importberichte/)).toHaveCount(0);
+  await expect(
+    page.getByRole("button", { name: "Importberichte exportieren" }),
+  ).toHaveCount(0);
   expect(errors).toEqual([]);
 });
 test("Mobile Bedienung bei 390 und 320 Pixeln ohne horizontalen Überlauf", async ({
@@ -839,6 +841,7 @@ for (const offlinePackage of [
     page,
     context,
   }) => {
+    await page.clock.install({ time: new Date("2026-10-04T12:00:00+02:00") });
     await launch(page);
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
@@ -877,9 +880,10 @@ for (const offlinePackage of [
     await context.setOffline(false);
   });
 }
-test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurücksetzen", async ({
+test("Ungültige Sicherung und ausdrückliches Zurücksetzen erhalten den offiziellen Fragenbestand", async ({
   page,
 }) => {
+  await page.clock.install({ time: new Date("2026-10-04T12:00:00+02:00") });
   await launch(page);
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
@@ -891,16 +895,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
   await expect(
     page.getByText("Datei abgelehnt:", { exact: false }),
   ).toBeVisible();
-  await page
-    .getByLabel("CSV auswählen")
-    .setInputFiles("public/demo-fragen.csv");
-  await expect(page.locator(".import-preview")).toContainText("12 gültig");
-  await page
-    .getByRole("button", { name: "Gültige Fragen importieren" })
-    .click();
-  await expect(
-    page.getByText("6289 Fragen · 5746 Wissensziele · 12 Demo-Fragen"),
-  ).toBeVisible();
+  const beforeReset = await readStoredState(page);
   await expect(
     page.getByRole("button", {
       name: "Fortschritt jetzt endgültig zurücksetzen",
@@ -913,4 +908,7 @@ test("Ungültige Sicherung, gültiger Zusatzimport und ausdrückliches Zurückse
   await expect(
     page.getByRole("heading", { name: "Dein Filmquiz" }),
   ).toBeVisible();
+  const afterReset = await readStoredState(page);
+  expect(afterReset.questions).toEqual(beforeReset.questions);
+  expect(afterReset.imports).toEqual(beforeReset.imports);
 });

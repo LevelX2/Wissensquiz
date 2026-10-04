@@ -376,8 +376,9 @@ export function Help() {
         <summary>Wo finde ich Optionen und meinen Spielstand?</summary>
         <p>
           Unter „Profil → Optionen“ stellst Du Ton, Vibration sowie Genre- und
-          Schwierigkeitsanzeige ein. Dort findest Du auch Import und
-          JSON-Sicherung.
+          Schwierigkeitsanzeige ein. Dort kannst Du Deinen Spielstand als JSON
+          sichern und eine Sicherung wiederherstellen. Neue Fragen erhältst Du
+          automatisch mit den Quiz-Updates.
         </p>
         <p>
           Im Spiel zeigt „Ton an“ bzw. „Ton aus“ den aktuellen Zustand und lässt

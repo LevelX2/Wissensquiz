@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Profiloptionen ohne CSV-Import; vorhandene lokale Fragenmeldungen und Vorschlag für automatische GitHub-Issues](../../../docs/Hilfe-und-Navigation.md#profiloptionen-und-meldeweg--04102026)
+
 - [Bestandsredaktion abgeschlossen: Jahres-/Regievertiefungen und vier Blocknachweise](../../../docs/Fragenkorrekturen.md#bestandsredaktion-block-4--04102026)
 - [Alle 425 Jahres- und 412 Regietexte: Quellen, Änderungen und Prüfgrenzen](../../../docs/Bestandsredaktion-2026-10-04/Block-04.json)
 

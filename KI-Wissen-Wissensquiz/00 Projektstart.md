@@ -6,6 +6,8 @@ Stand: 04.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
+- Lokal am 04.10.2026 den manuellen Fragenimport samt Vorschau, Demo-Download und Importberichten aus Profil → Optionen entfernt. Offizielle Fragenversorgung bleibt über die eigene Update-Logik; JSON-Sicherung und Wiederherstellung bleiben verfügbar. 341 Tests, Build und zehn gezielte Browserfälle erfolgreich, einschließlich Gastübernahme und Offlinebetrieb. Automatischer GitHub-Issue-Versand als technischer Vorschlag dokumentiert, noch nicht umgesetzt. Noch nicht veröffentlicht. [Profil und Meldeweg](../docs/Hilfe-und-Navigation.md#profiloptionen-und-meldeweg--04102026).
+
 - Lokal am 04.10.2026 auf Nutzerwunsch die Lernstufe ganz ans Ende der Antwortauflösung und des unmittelbaren Rundenrückblicks verschoben: hinter Erklärung, Vertiefungen, Merksatz, Quellen und Ratehinweisen. 339 Tests, Build und acht gezielte Browserfälle erfolgreich; noch nicht veröffentlicht. [Anordnung und Prüfung](../docs/Lernfortschritt-2026-10-04.md#implementierung-und-grenzen).
 
 - Bestandsredaktion am 04.10.2026 in vier Blöcken lokal abgeschlossen: alle 200 Preisfragen geprüft, 425 Jahresvertiefungen neu erzählt, 395 von 412 Regievertiefungen überarbeitet und 17 gute Texte erhalten. 73 ältere Film-/Personenfragen gezielt geprüft; Lösungshinweise und schwache Antwortauswahlen korrigiert, passende Darstellerangaben ergänzt. Weitere Altfragen wurden mechanisch gesichtet; keine vollständige neue Faktenprüfung aller 6.277 Fragen. Noch nicht veröffentlicht. [Texte und Nachweise](../docs/Fragenkorrekturen.md#bestandsredaktion-block-4--04102026).

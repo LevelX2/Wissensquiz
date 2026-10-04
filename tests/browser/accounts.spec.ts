@@ -1252,6 +1252,7 @@ test("E-Mail-Link wird erst nach Klick verbraucht, Recovery setzt Passwort und m
 test("Zwei Konten und Gast bleiben getrennt; Kontofortschritt wird automatisch gesichert", async ({
   page,
 }) => {
+  await page.clock.install({ time: new Date("2026-10-04T12:00:00+02:00") });
   const requests = await mockAccounts(page);
   await page.goto("/");
   await page.getByRole("button", { name: "Losspielen" }).click();

@@ -126,20 +126,6 @@ details p {
   padding: 8px 12px;
   margin-right: 12px;
 }
-.import-preview,
-.import-report {
-  padding: 20px;
-  border: 1px solid #4c5048;
-  border-radius: 8px;
-  margin: 20px 0;
-}
-.import-report ul,
-.import-preview ul {
-  font-size: 12px;
-  line-height: 1.8;
-  overflow-wrap: anywhere;
-  padding-left: 20px;
-}
 .mono {
   font:
     11px/1.8 ui-monospace,
@@ -571,10 +557,6 @@ details p {
   }
   .file-label input {
     font-size: 10px;
-  }
-  .import-preview,
-  .import-report {
-    padding: 15px 12px;
   }
   footer {
     padding: 24px 20px;

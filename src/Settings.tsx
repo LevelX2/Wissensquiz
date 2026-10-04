@@ -1,13 +1,7 @@
 import { validateBackup } from "./backupValidation";
 import { useEffect, useState } from "react";
 import { SolutionChoice } from "./SolutionChoice";
-import { importCsv } from "./importer";
-import {
-  DEFAULT_ANSWER_REVEAL_MS,
-  emptyState,
-  type ImportReport,
-  type State,
-} from "./model";
+import { DEFAULT_ANSWER_REVEAL_MS, emptyState, type State } from "./model";
 import { download, restore as restoreStored } from "./storage";
 import { useOffline } from "./offline";
 import {
@@ -18,7 +12,6 @@ import {
   type SoundStatus,
 } from "./feedback";
 import type { Mutate } from "./uiTypes";
-import { formatDate } from "./gameUi";
 
 export function Settings({
   storageKey,
@@ -86,29 +79,19 @@ export function Settings({
             ? "Vibration ist eingeschaltet und gespeichert. Dieser Browser bietet keine Vibrationsfunktion; hier wird deshalb keine Vibration ausgegeben."
             : "",
     );
-  const [csv, setCsv] = useState<{
-    text: string;
-    name: string;
-    report: ImportReport;
-  } | null>(null);
   const [backup, setBackup] = useState<State | null>(null);
   const [reset, setReset] = useState("");
-  const readFile = async (file: File | undefined, kind: "csv" | "json") => {
+  const readBackup = async (file: File | undefined) => {
     setMessage("");
     if (!file) return;
-    const maxMiB = kind === "json" ? 64 : 20;
+    const maxMiB = 64;
     if (file.size > maxMiB * 1024 * 1024) {
       setMessage(`Datei ist zu groß. Höchstens ${maxMiB} MiB.`);
       return;
     }
     try {
       const text = await file.text();
-      if (kind === "csv") {
-        const imported = importCsv(text, state.questions, file.name);
-        setCsv({ text, name: file.name, report: imported.report });
-      } else {
-        setBackup(validateBackup(JSON.parse(text)));
-      }
+      setBackup(validateBackup(JSON.parse(text)));
     } catch (e) {
       setMessage(
         `Datei abgelehnt: ${e instanceof Error ? e.message : String(e)}`,
@@ -367,78 +350,6 @@ export function Settings({
         </button>
       </section>
       <section className="settings-panel">
-        <h2>Fragen hinzufügen</h2>
-        <p>
-          CSV mit UTF-8, Komma, Semikolon oder Tabulator. Vorhandene IDs werden
-          übersprungen. Dein Fortschritt bleibt erhalten.
-        </p>
-        <label className="file-label">
-          CSV auswählen
-          <input
-            type="file"
-            accept=".csv,text/csv,text/tab-separated-values"
-            onChange={(e) => void readFile(e.target.files?.[0], "csv")}
-          />
-        </label>
-        <a className="text-button" href="/demo-fragen.csv" download>
-          Demo-CSV als Formatbeispiel ↓
-        </a>
-        {csv && (
-          <div className="import-preview">
-            <h3>Importvorschau: {csv.name}</h3>
-            <ImportSummary report={csv.report} />
-            <button
-              className="primary"
-              disabled={
-                busy ||
-                csv.report.accepted === 0 ||
-                state.rounds.some((r) => r.status === "active")
-              }
-              onClick={async () => {
-                const saved = await mutate(
-                  (s) => {
-                    const incoming = importCsv(csv.text, s.questions, csv.name);
-                    s.questions.push(...incoming.questions);
-                    s.imports.push(incoming.report);
-                  },
-                  { progressOnly: false },
-                );
-                if (saved) {
-                  setCsv(null);
-                  setMessage(
-                    "Fragenpaket gespeichert. Den vollständigen Bericht findest Du unten.",
-                  );
-                }
-              }}
-            >
-              Gültige Fragen importieren
-            </button>
-            {state.rounds.some((r) => r.status === "active") && (
-              <p>Beende zuerst Deine laufende Runde.</p>
-            )}
-          </div>
-        )}
-        <details>
-          <summary>Bisherige Importberichte ({state.imports.length})</summary>
-          {state.imports.map((r, i) => (
-            <div className="import-report" key={`${r.at}:${i}`}>
-              <h3>
-                {r.filename} · {formatDate(r.at)}
-              </h3>
-              <ImportSummary report={r} />
-            </div>
-          ))}
-        </details>
-        <button
-          className="text-button"
-          onClick={() =>
-            download("wissensquiz-importberichte.json", state.imports)
-          }
-        >
-          Importberichte exportieren ↓
-        </button>
-      </section>
-      <section className="settings-panel">
         <h2>Fortschritt sichern & wiederherstellen</h2>
         <p>
           Der Export enthält auch Fragen, Inhaltsversionen, Runden und lokale
@@ -461,7 +372,7 @@ export function Settings({
           <input
             type="file"
             accept=".json,application/json"
-            onChange={(e) => void readFile(e.target.files?.[0], "json")}
+            onChange={(e) => void readBackup(e.target.files?.[0])}
           />
         </label>
         {backup && (
@@ -562,45 +473,6 @@ export function Settings({
           Fortschritt jetzt endgültig zurücksetzen
         </button>
       </section>
-    </>
-  );
-}
-
-export function ImportSummary({ report: r }: { report: ImportReport }) {
-  return (
-    <>
-      <p>
-        <b>{r.accepted}</b> gültig · <b>{r.rejected}</b> ausgeschlossen ·{" "}
-        <b>{r.duplicates}</b> vorhandene IDs übersprungen
-      </p>
-      <p className="tiny muted">
-        Trennzeichen: {r.delimiter === "\t" ? "Tabulator" : r.delimiter} ·{" "}
-        {r.columns.length} Spalten erkannt
-      </p>
-      {r.issues.length > 0 && (
-        <details open>
-          <summary>Hinweise zu ausgeschlossenen Daten</summary>
-          <ul>
-            {r.issues.map((x, i) => (
-              <li key={i}>{x}</li>
-            ))}
-          </ul>
-        </details>
-      )}
-      {r.warnings.length > 0 && (
-        <details>
-          <summary>Annahmen und Einschränkungen ({r.warnings.length})</summary>
-          <ul>
-            {r.warnings.map((x, i) => (
-              <li key={i}>{x}</li>
-            ))}
-          </ul>
-        </details>
-      )}
-      <details>
-        <summary>Erkannte Spalten</summary>
-        <p className="mono">{r.columns.join(", ")}</p>
-      </details>
     </>
   );
 }
