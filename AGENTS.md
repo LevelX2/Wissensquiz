@@ -5,6 +5,7 @@
 - Projektwissen liegt in `KI-Wissen-Wissensquiz/`.
 - Bei unbekanntem Kontext: `KI-Wissen-Wissensquiz/00 Projektstart.md`.
 - Projektfragen: zuerst `KI-Wissen-Wissensquiz/02 Wissen/00 Uebersichten/Index.md` oder die bekannte aktuelle Fachseite lesen (`wiki-first`).
+- Neue oder überarbeitete Fragenpakete: persönlichen Skill `wissensquiz-fragen-redigieren` verwenden; führender Redaktionsvertrag ist `docs/Fragenredaktion.md`. Filmfragen benötigen mindestens zwei eigenständige Inhaltsziele je leicht/mittel/schwer plus Jahr und Regie; Personen-/Preisfragen haben zusätzlich Experte. Bekanntheit und Schwierigkeit getrennt behandeln.
 - Codeänderungen: betroffene Verträge, Implementierung und passende Checks unmittelbar prüfen. Unveränderten Kontext wiederverwenden.
 - Wissenspflege: Prozessseite `KI-Wissen-Wissensquiz/02 Wissen/Prozesse/Arbeitsworkflow Wissenspflege und Projektanfragen.md` und `KI-Wissen-Wissensquiz/00 Steuerung/Regeldatei KI-Wissenspflege.md` lesen.
 - Für relevante lokale Pfadauflösung `AGENTS.local.md` ausdrücklich lesen, falls vorhanden; sie wird nicht automatisch geladen.

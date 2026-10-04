@@ -5,6 +5,13 @@
 - [Vorab grün wirkende Antwort auf dem Handy: Hover-Ursache und lokale Korrektur](../../../docs/Hilfe-und-Navigation.md#neutrale-antworten-auf-touchgeräten--04102026)
 
 - [Bestätigte Fragenkorrekturen: Planet der Affen, Quellen und Schutz älterer Spiele](../../../docs/Fragenkorrekturen.md)
+- [Fragenredaktion und Skill: interessante individuelle Fragen, drei Filmschwierigkeiten, vier Filmgruppen, Inhaltsziele plus Jahr und Regie](../../../docs/Fragenredaktion.md)
+
+- [Aktuelle Filmabdeckung und Lernkurven: Genre, Bekanntheit, Schwierigkeit und Ergänzungsprioritäten – 04.10.2026](../../../docs/Filmabdeckung-2026-10-04.md)
+- [Erste Fragen-Ergänzung: 40 Filme, 320 individuelle Fragen, Filmdaten und geprüfte CSV – 04.10.2026](../../../docs/Filmfragen-Ergaenzung-2026-10-04/Pruefbericht.md)
+- [Vollständige Fragenlesefassung der 40-Filme-Ergänzung](../../../docs/Filmfragen-Ergaenzung-2026-10-04/Fragenlesefassung.md)
+- [Vollständiger Bestandsnachweis und Filmliste – 04.10.2026](../../../docs/Filmabdeckung-2026-10-04.json)
+
 - [Projektstart und offene Entscheidungen](../../00%20Projektstart.md)
 - [GitHub-Repository (Remote origin)](https://github.com/LevelX2/Wissensquiz)
 - [Regeldatei KI-Wissenspflege](../../00%20Steuerung/Regeldatei%20KI-Wissenspflege.md)

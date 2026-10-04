@@ -1,0 +1,1724 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "as_of": "2026-10-04",
+  "integration_route": "explicit_csv_year_and_director",
+  "films": [
+    {
+      "film_title_de": "Fluch der Karibik",
+      "film_title_original": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "film_year": 2003,
+      "subdomain": "Abenteuer",
+      "reference_question_id": "F40-001-L1",
+      "familiarity_level": 1,
+      "familiarity_reason": "Piratengeschichte als bekannter Einstieg; klar unterscheidbare Figuren, Gegenstände und Wendungen.",
+      "directors": [
+        "Gore Verbinski"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": "Pirates of the Caribbean",
+      "release_note": "Erstveröffentlichung 2003; US-Kinostart am 9. Juli. Die Fassung ist der erste Kinofilm der Reihe.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "leicht",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-001-Y",
+      "director_question_id": "F40-001-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/520913/fluch-der-karibik",
+          "supports": "Filmdaten, Hauptregie und Besetzung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://movies.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+          "supports": "Offizielle Disney-Synopsis: Elizabeth, Will, Jack, Black Pearl und verfluchte Besatzung; Veröffentlichung und Regie.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+          "supports": "Gelesene ausführliche Handlung: Schmied, Deckname Turner, Rumsignal und Aufhebung des Fluchs.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://disneyparksblog.com/disney-experiences/yo-ho-yo-ho-the-pirates-conquest-from-disneyland-to-the-big-screen/",
+          "supports": "Offizieller Disney-Beitrag über die Herkunft des Films aus der Themenparkattraktion.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Die Mumie",
+      "film_title_original": "The Mummy",
+      "film_year": 1999,
+      "subdomain": "Abenteuer",
+      "reference_question_id": "F40-002-L1",
+      "familiarity_level": 2,
+      "familiarity_reason": "Archäologie und Expedition als Einstieg; ausdrücklich die Fassung von Stephen Sommers.",
+      "directors": [
+        "Stephen Sommers"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": "Die Mumie",
+      "release_note": "Erstveröffentlichung 1999; ausdrücklich die Stephen-Sommers-Fassung mit Brendan Fraser und Rachel Weisz, nicht der Film von 2017.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "leicht",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-002-Y",
+      "director_question_id": "F40-002-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/510801/die-mumie-1999",
+          "supports": "Credits, Besetzung und Produktionsland der Fassung von 1999.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.universalpicturesathome.com/movies/the-mummy-1999",
+          "supports": "Offizielle Universal-Filmseite: Evelyns Beruf, Rick, Imhotep, Regie und Filmjahr.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Mummy_(1999_film)",
+          "supports": "Gelesene vollständige Handlung: Bücher, Medjai, kanopische Gefäße und Entmachtung Imhoteps.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Uncharted",
+      "film_title_original": "Uncharted",
+      "film_year": 2022,
+      "subdomain": "Abenteuer",
+      "reference_question_id": "F40-003-L1",
+      "familiarity_level": 2,
+      "familiarity_reason": "Neuere Schatzsuche; verbindet bekannte Figuren mit einer klaren Abfolge von Rätseln und Orten.",
+      "directors": [
+        "Ruben Fleischer"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": "Uncharted",
+      "release_note": "Erstveröffentlichung 2022. Filmdienst führt 2021 als Produktionsjahr; das Veröffentlichungsjahr wird damit nicht ersetzt.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-003-Y",
+      "director_question_id": "F40-003-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/618379/uncharted",
+          "supports": "Filmdaten und Credits; dort ausgewiesenes Produktionsjahr wird von Veröffentlichung unterschieden.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.sonypictures.com/movies/uncharted",
+          "supports": "Offizielle Sony-Synopsis: Nate, Sully, Magellan-Schatz und verschwundener Bruder; Filmjahr.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://blog.playstation.com/2021/10/21/world-premiere-of-uncharted-movie-trailer/",
+          "supports": "Offizieller PlayStation-Beitrag: Ruben Fleischer und Kinostart 2022; Herkunft aus den Naughty-Dog-Spielen.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Uncharted_(film)",
+          "supports": "Gelesene vollständige Handlung: Barkeeper, Kreuzschlüssel, Postkarten, fliegende Schiffe und Entscheidung Sullys.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "20.000 Meilen unter dem Meer",
+      "film_title_original": "20,000 Leagues Under the Sea",
+      "film_year": 1954,
+      "subdomain": "Abenteuer",
+      "reference_question_id": "F40-004-L1",
+      "familiarity_level": 2,
+      "familiarity_reason": "Klassische Seereise und Jules Verne; Zugang zu älterem Abenteuerkino.",
+      "directors": [
+        "Richard Fleischer"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 1954; AFI nennt den 23. Dezember. Disneys Realverfilmung mit James Mason und Kirk Douglas.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "year_question_id": "F40-004-Y",
+      "director_question_id": "F40-004-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/38246/20000-meilen-unter-dem-meer-1954",
+          "supports": "Credits und Identität der Disney-Fassung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://catalog.afi.com/Catalog/moviedetails/51389",
+          "supports": "Gelesene ausführliche Synopsis, Hauptregie, Veröffentlichung und Produktionsnotizen; Atomenergie und Nemos Motive.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://d23.com/when-squids-attack/",
+          "supports": "Disney-Archivbeitrag über die umgestaltete Riesenkalmar-Szene.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Cast Away – Verschollen",
+      "film_title_original": "Cast Away",
+      "film_year": 2000,
+      "subdomain": "Abenteuer",
+      "reference_question_id": "F40-005-L1",
+      "familiarity_level": 1,
+      "familiarity_reason": "Bekannter Überlebensstoff mit wenigen Figuren; Einstieg über Isolation und Überlebensentscheidungen.",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 2000; AFI nennt den US-Kinostart am 22. Dezember.",
+      "director_note": "Robert Zemeckis ist Hauptregisseur. Steve Starkey ist in den detaillierten AFI-Credits ausdrücklich als Second-Unit-Regisseur ausgewiesen.",
+      "year_difficulty": "leicht",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-005-Y",
+      "director_question_id": "F40-005-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/514225/cast-away-verschollen",
+          "supports": "Filmdaten zur eindeutig gewählten Fassung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://catalog.afi.com/Film/61089-CAST-AWAY",
+          "supports": "Gelesene ausführliche Handlung und Produktionsgeschichte: FedEx, Wilson, Fluchtmaterial, Drehpause und Broyles-Recherche.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Master and Commander – Bis ans Ende der Welt",
+      "film_title_original": "Master and Commander: The Far Side of the World",
+      "film_year": 2003,
+      "subdomain": "Abenteuer",
+      "reference_question_id": "F40-006-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Historisches Seeabenteuer; später Navigation, Rollen an Bord und Konflikte zwischen Auftrag und Verantwortung.",
+      "directors": [
+        "Peter Weir"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 2003; Oscarverleihung 2004 ist davon getrennt.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-006-Y",
+      "director_question_id": "F40-006-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/521491/master-and-commander-bis-ans-ende-der-welt",
+          "supports": "Gelesene Filmkritik und Credits: Peter Weir, Aubrey, Maturin, Surprise und Galápagos-Konflikt.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World",
+          "supports": "Gelesene vollständige Handlung: Maturins Selbstoperation und Tarnung als Walfänger nach einer Stabheuschrecke.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://cinema.com/articles/2504/master-and-commander-production-notes.phtml",
+          "supports": "Gelesene veröffentlichte Produktionsnotizen: Hauptregie, britische Fregatte, Rollen und O’Brian-Adaption.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.oscars.org/oscars/ceremonies/2004",
+          "supports": "Offizielle Gewinnerliste: Oscar für Kamera 2004 an Russell Boyd.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Die Reise zum Mittelpunkt der Erde",
+      "film_title_original": "Journey to the Center of the Earth",
+      "film_year": 1959,
+      "subdomain": "Abenteuer",
+      "reference_question_id": "F40-007-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Expeditionskino und Literaturadaption; die ältere Fassung ergänzt Uncharted und Die Mumie.",
+      "directors": [
+        "Henry Levin"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 1959; AFI verzeichnet die New Yorker Eröffnung im Dezember. Ausdrücklich die Fassung mit James Mason und Pat Boone.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "year_question_id": "F40-007-Y",
+      "director_question_id": "F40-007-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/9699/die-reise-zum-mittelpunkt-der-erde-1959",
+          "supports": "Filmdaten und Credits der Fassung von 1959.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH",
+          "supports": "Gelesene ausführliche Synopsis und Produktionsgeschichte: Verne, Island, Papierbeschwerer, Carla, Stromboli und Carlsbad-Dreh.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "In 80 Tagen um die Welt",
+      "film_title_original": "Around the World in 80 Days",
+      "film_year": 1956,
+      "subdomain": "Abenteuer",
+      "reference_question_id": "F40-008-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Reiseroute und Wettlauf gegen die Zeit; klarer Stoff für aufeinander aufbauende Fragen.",
+      "directors": [
+        "Michael Anderson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 1956; New Yorker Premiere am 17. Oktober. AFI schreibt den Originaltitel als Around the World in Eighty Days aus; die Auswahlform mit Ziffer 80 wird konsistent bewahrt.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "year_question_id": "F40-008-Y",
+      "director_question_id": "F40-008-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/21238/in-80-tagen-um-die-welt-1956",
+          "supports": "Credits der Fassung mit David Niven und Cantinflas.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://catalog.afi.com/Catalog/moviedetails/51739",
+          "supports": "Gelesene ausführliche Handlung, Veröffentlichung und Produktionsgeschichte: Passepartout, Ballon, Fix, Aouda, Datumsgrenze und Méliès-Prolog.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Abenteuer in Rio",
+      "film_title_original": "L'homme de Rio",
+      "film_year": 1964,
+      "subdomain": "Abenteuer",
+      "reference_question_id": "F40-009-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Französisches Abenteuerkino mit komischen Elementen; erweitert die bisher starke US-Prägung.",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Italien"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 1964. Filmdienst weist 1963 als Produktionsjahr aus; die Frage verwendet die Veröffentlichung der fertigen Fassung.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "year_question_id": "F40-009-Y",
+      "director_question_id": "F40-009-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/7416/abenteuer-in-rio",
+          "supports": "Gelesene Synopsis und Credits: Adrien, Agnès, Brasilien, Hauptregie und Produktionsländer.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/That_Man_from_Rio",
+          "supports": "Gelesene vollständige Handlung und Besetzung: Soldat, Entführung, Sir Winston, Brasília, Catalan und Statuetten; Veröffentlichung 1964.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Die Abenteurer",
+      "film_title_original": "Les aventuriers",
+      "film_year": 1967,
+      "subdomain": "Abenteuer",
+      "reference_question_id": "F40-010-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Selteneres französisches Schatzsucher- und Freundschaftskino für die Entdeckungsstufe.",
+      "directors": [
+        "Robert Enrico"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Italien"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 1967; französischer Kinostart am 12. April. Filmdienst und ADRC führen die Produktion unter 1966.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "year_question_id": "F40-010-Y",
+      "director_question_id": "F40-010-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/7357/die-abenteurer",
+          "supports": "Gelesene Synopsis und Credits: Schatzflugzeug im Kongo, Regie und Produktionsländer.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://adrc-asso.org/patrimoine/diffusion/films-et-cycles/les-aventuriers",
+          "supports": "Gelesener französischer Filmkulturbeitrag: Romanadaption, zweiter Film La Loi du survivant und Außenaufnahmen.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://boutique.arte.tv/detail/les-aventuriers",
+          "supports": "Offizielle ARTE-Verleihseite: Filmjahr 1967, Robert Enrico und Grundhandlung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Last_Adventure_(1967_film)",
+          "supports": "Gelesene ausführliche Synopsis und Besetzung: Künstlerträume, Seebestattung, Fort Boyard und Finale.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Les_Aventuriers_(film,_1967)",
+          "supports": "Gelesene französische Handlung mit Manús Flugprojekt, Fortumbau und Veröffentlichungsdaten.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Basic Instinct",
+      "film_title_original": "Basic Instinct",
+      "film_year": 1992,
+      "subdomain": "Thriller",
+      "reference_question_id": "F40-011-L1",
+      "familiarity_level": 1,
+      "familiarity_reason": "Bekannter Bezugspunkt des Erotikthrillers; Einstieg über Ermittler und Verdächtige, Vertiefung über Indizien.",
+      "directors": [
+        "Paul Verhoeven"
+      ],
+      "production_countries": [
+        "USA",
+        "Frankreich"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 1992. Filmdienst nennt das Produktionsjahr 1991; dieses ist nicht die Jahreslösung. Länder nach BFI USA/Frankreich; abweichende Länderlisten anderer Kataloge werden nicht kumuliert.",
+      "director_note": "",
+      "year_difficulty": "leicht",
+      "director_difficulty": "leicht",
+      "year_question_id": "F40-011-Y",
+      "director_question_id": "F40-011-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.paramountpictures.com/movies/basic-instinct",
+          "supports": "Veröffentlichungsjahr 1992; Ausgangsmord, Nick Curran, Catherine Tramell und ihre Romane; Besetzung; Regie, Drehbuch und Musik.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.bfi.org.uk/film/dfd273d9-dfcf-51e5-a607-fefa5f025511/basic-instinct",
+          "supports": "Filmjahr 1992 und Länderkatalog USA/Frankreich.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.filmdienst.de/film/details/46681/basic-instinct",
+          "supports": "Produktionseinordnung 1991, Regie Paul Verhoeven, Kamera Jan de Bont und Musik Jerry Goldsmith; deutschsprachiger Kinostart 1992.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Basic_Instinct",
+          "supports": "Erstveröffentlichung im März 1992; Romanfigur nach Nick Curran; Beth-Verdacht und abschließender versteckter Eispickel.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Shutter Island",
+      "film_title_original": "Shutter Island",
+      "film_year": 2010,
+      "subdomain": "Thriller",
+      "reference_question_id": "F40-012-L1",
+      "familiarity_level": 2,
+      "familiarity_reason": "Psychothriller als bekannter Einstieg; Perspektive und Wahrnehmung erlauben weitere Stufen.",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste öffentliche Veröffentlichung 2010 (Berlinale und US-Kinostart im Februar). Filmdienst nennt das Produktionsjahr 2009; die Frage bezieht sich auf 2010.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "leicht",
+      "year_question_id": "F40-012-Y",
+      "director_question_id": "F40-012-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.paramountpictures.com/movies/shutter-island",
+          "supports": "Filmjahr 2010; verschwundene Patientin in Inselanstalt; Regie Martin Scorsese, Drehbuch Laeta Kalogridis, Roman Dennis Lehane und Besetzung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.filmdienst.de/film/details/534059/shutter-island",
+          "supports": "Psychiatrie auf einer Insel, Ermittlungsauftrag, Regie und Produktionseinordnung 2009.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shutter_Island_(film)",
+          "supports": "Premiere und Kinostart 2010; Handlung 1954, Dachau-Erinnerungen, Hurrikan, reale Identität und therapeutisches Rollenspiel.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "The Game",
+      "film_title_original": "The Game",
+      "film_year": 1997,
+      "subdomain": "Thriller",
+      "reference_question_id": "F40-013-L1",
+      "familiarity_level": 2,
+      "familiarity_reason": "Paranoia und Manipulation; gut als Übergang von Handlungserkennung zu Rückschlüssen geeignet.",
+      "directors": [
+        "David Fincher"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 1997. Behandelt wird David Finchers Film mit Michael Douglas und Sean Penn.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-013-Y",
+      "director_question_id": "F40-013-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.criterion.com/films/28058-the-game",
+          "supports": "USA 1997, Regie und vollständige Hauptcredits; Investmentbanker Nicholas, Geburtstagsgeschenk des Bruders, Besetzung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/2484-all-in-the-game",
+          "supports": "Direkte Fernsehanrede; Vatertrauma und Geburtstag; mexikanischer Sarg; von Fincher genannter Bezug zu A Christmas Carol.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.filmdienst.de/film/details/507454/the-game",
+          "supports": "Veröffentlichungsjahr 1997, David Fincher und Wechsel von Spiel zu Bedrohung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Game_(1997_film)",
+          "supports": "Handlungsfolge des CRS-Spiels, Fernsehanrede, Sarg in Mexiko und Geburtstagsalter im Verhältnis zum Vater.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Nightcrawler – Jede Nacht hat ihren Preis",
+      "film_title_original": "Nightcrawler",
+      "film_year": 2014,
+      "subdomain": "Thriller",
+      "reference_question_id": "F40-014-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Medien und moralische Grenzüberschreitung; ergänzt psychologische Spannung ohne klassischen Ermittler.",
+      "directors": [
+        "Dan Gilroy"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2014. Behandelt wird Dan Gilroys Film Nightcrawler mit Jake Gyllenhaal.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-014-Y",
+      "director_question_id": "F40-014-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/544687/nightcrawler-jede-nacht-hat-ihren-preis",
+          "supports": "USA 2014; Regie Dan Gilroy, Lou Blooms Verkauf von Unfall- und Verbrechensaufnahmen an das Fernsehen.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.filmcomment.com/interview-dan-gilroy-nightcrawler-dan-gilroy/",
+          "supports": "Dan Gilroys Aussagen zu Los Angeles, wirtschaftlichem Sprachstil, Antiheld-Erfolgsgeschichte, subjektiv triumphaler Musik und digitaler Nacht-/analoger Tagesaufnahme.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://time.com/3547813/jake-gyllenhaal-nightcrawler/",
+          "supports": "Lou verschiebt eine Leiche in das Licht von Autoscheinwerfern, um sie besser filmen zu können; Jake Gyllenhaal als Lou.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://theasc.com/article/breaking-news-nightcrawler/",
+          "supports": "Primärinterview mit Robert Elswit: Alexa für Nacht, Kodak-35-mm-Material für Tag; Filmjahr und Dan Gilroys Regiedebüt; Los Angeles als Schauplatz.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://theplaylist.net/interview-nightcrawler-director-dan-gilroy-talks-jake-gyllenhaal-robert-elswit-sociopaths-20141029/",
+          "supports": "Primärinterview Dan Gilroy: Schönheit und nächtliche Weite von Los Angeles; Selbsthilfe- und Corporate-HR-Wortschatz Lous.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.slashfilm.com/534616/dan-gilroy-interview/",
+          "supports": "Primärinterview Dan Gilroy: Regie, Hauptbesetzung und Aufstieg Lous ohne Läuterung als Kritik an einer Umwelt, die ihn belohnt.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nightcrawler_(film)",
+          "supports": "Lou verschiebt einen Körper für ein besseres Bild; Release-Abschnitt nennt Weltpremiere in Toronto 2014.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Der Dialog",
+      "film_title_original": "The Conversation",
+      "film_year": 1974,
+      "subdomain": "Thriller",
+      "reference_question_id": "F40-015-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Abhör- und Paranoiakino; Hörverständnis, Perspektive und moralische Verantwortung bieten Vertiefungen.",
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 1974. Filmdienst nennt das Produktionsjahr 1973; dieses wird nicht als erste Veröffentlichung übernommen.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-015-Y",
+      "director_question_id": "F40-015-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/22987/der-dialog",
+          "supports": "Regie Francis Ford Coppola, USA, Produktionseinordnung 1973, Abhörexperte Harry Caul und moralischer Konflikt.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.bfi.org.uk/sight-and-sound/features/stolen-privacy-coppolas-conversation",
+          "supports": "Weiträumige Eröffnung und kontinuierlicher Zoom über Union Square; mehrere Mikrofonperspektiven und auf Harry begrenzte Wahrnehmung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/conversation.pdf",
+          "supports": "Harry Caul, Abhörauftrag, Berufsethik und Walter Murchs Gestaltung des aufgenommenen Tons; Essay von Peter Keough im National Film Registry.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Conversation",
+          "supports": "Erstveröffentlichung 1974; Saxophon, Betonungswechsel der aufgezeichneten Aussage, Schlussanruf und zerlegte Wohnung; Regie, Musik und Schnittcredits.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Blow Out – Der Tod löscht alle Spuren",
+      "film_title_original": "Blow Out",
+      "film_year": 1981,
+      "subdomain": "Thriller",
+      "reference_question_id": "F40-016-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Tonaufnahme als Beweis; sinnvoller Vergleich mit Der Dialog, bei getrennten Wissenszielen.",
+      "directors": [
+        "Brian De Palma"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 1981; der deutsche Kinostart 1982 ist nicht die Jahreslösung.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-016-Y",
+      "director_question_id": "F40-016-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.criterion.com/films/27561-blow-out",
+          "supports": "USA 1981; Regie Brian De Palma; Tonmann Jack Terry, politische Verschwörung, Hauptbesetzung und Gewerkecredits.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.filmdienst.de/film/details/26450/blow-out-der-tod-loscht-alle-spuren",
+          "supports": "US-Film 1981; Politiker stirbt bei nächtlichem Autounfall, Tonaufnahme als Hinweis auf Mord; deutscher Kinostart 1982.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/1830-blow-out-portrait-of-the-artist-as-a-young-gadgeteer",
+          "supports": "Pauline Kaels zeitgenössische Besprechung: Gouverneur im Unfallwagen, Verbindung von Tonband und Unfallfotografien, Bezug zu Antonionis Blow-Up.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/1829-blow-out-american-scream",
+          "supports": "Jack Terry als Filmtontechniker; Sally und abschließende Verwendung ihres wirklichen Todesschreis im Horrorfilm.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.interviewmagazine.com/film/blow-out",
+          "supports": "Eröffnungssequenz als Film-im-Film Co Ed Frenzy mit misslungenem Schrei; Jack als Filmtontechniker; Besetzung.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Parasite",
+      "film_title_original": "Gisaengchung",
+      "film_year": 2019,
+      "subdomain": "Thriller",
+      "reference_question_id": "F40-017-L1",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter südkoreanischer Zugang; Klassenkonflikt und zunehmende Bedrohung erweitern Herkunft und Erzählweise.",
+      "directors": [
+        "Bong Joon Ho"
+      ],
+      "production_countries": [
+        "Südkorea"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2019 (Cannes-Premiere; südkoreanischer Kinostart ebenfalls 2019). Kanonischer Originaltitel Gisaengchung; vorhandener Alias Parasite|2019 bleibt dokumentiert. Bestehende Metadaten werden nicht geändert.",
+      "director_note": "",
+      "year_difficulty": "leicht",
+      "director_difficulty": "leicht",
+      "year_question_id": "F40-017-Y",
+      "director_question_id": "F40-017-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.festival-cannes.com/en/f/gisaengchung/",
+          "supports": "Originaltitel Gisaengchung, internationaler Titel Parasite; Südkorea 2019, Regie Bong Joon Ho, Tutoren-Ausgangssituation und Hauptbesetzung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/films/30619-parasite",
+          "supports": "Filmjahr und Produktionsland, vollständige Regie- und Hauptdarstellercredits.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/6391-bong-joon-ho-s-parasite",
+          "supports": "Kim-Familie im Halbkeller, Ki-Woo als Englisch-Nachhilfelehrer, nachrückende Familienmitglieder mit verheimlichter Verwandtschaft.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/7158-parasite-notes-from-the-underground",
+          "supports": "Wohnlagen, Sturm- und Flutkontrast, Moon-Gwang und ihr im Bunker verborgener Ehemann.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
+          "supports": "Cannes-Premiere 2019; Pfirsichallergie der Haushälterin und Täuschung; Morse-Nachricht des im Haus versteckten Vaters.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Atemlos vor Angst",
+      "film_title_original": "Sorcerer",
+      "film_year": 1977,
+      "subdomain": "Thriller",
+      "reference_question_id": "F40-018-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Physische Spannung und gefährlicher Transport; seltener Titel mit Verbindung zu Lohn der Angst.",
+      "directors": [
+        "William Friedkin"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 1977. Bezug der Inhaltsfragen ist die 121-minütige Original-Langfassung. Filmdienst beschreibt eine kürzere europäische Fassung und führt die Produktion als 1976/77.",
+      "director_note": "William Friedkin als alleiniger Regisseur der bezeichneten Spielfilmfassung.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-018-Y",
+      "director_question_id": "F40-018-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.criterion.com/films/34370-sorcerer",
+          "supports": "USA 1977, Langfassung 121 Minuten; vier Flüchtige, gefährlicher Sprengstofftransport, Regie William Friedkin; Roman Georges Arnaud, Musik Tangerine Dream und vollständige Besetzung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/8845-sorcerer-bleak-magic",
+          "supports": "Erneute Adaption von Georges Arnauds The Wages of Fear nach Clouzot; internationale Flüchtige, Lateinamerika, Brückendreh und Schauplätze.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.filmdienst.de/film/details/47211/atemlos-vor-angst",
+          "supports": "USA 1976/77, kürzere europäische Fassung; zwei Lastwagen mit gefährlichem Sprengstoff für einen Ölbrand; William Friedkin.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.bfi.org.uk/film/c534c25c-106a-530d-8161-24cea1b1b082/sorcerer",
+          "supports": "Filmjahr 1977, USA und Regie William Friedkin.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sorcerer_(film)",
+          "supports": "Erstveröffentlichung 1977; überaltertes Dynamit mit austretendem Nitroglycerin; Ölbrand, Hängebrücke und kontrollierte Explosion am versperrenden Baum.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Memories of Murder",
+      "film_title_original": "Memories of Murder",
+      "film_year": 2003,
+      "subdomain": "Thriller",
+      "reference_question_id": "F40-019-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Südkoreanischer Ermittlungsfilm; unterschiedliche Ermittlungsansätze und Unsicherheit als Vertiefung.",
+      "directors": [
+        "Bong Joon Ho"
+      ],
+      "production_countries": [
+        "Südkorea"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2003. Der bestehende Katalogschlüssel Memories of Murder|2003 wird für diese Redaktion erhalten. Der koreanische Titel wird häufig als Salinui chueok transliteriert; eine Aliasnormalisierung ist ein gesonderter Metadatenschritt.",
+      "director_note": "",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-019-Y",
+      "director_question_id": "F40-019-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.criterion.com/films/31458-memories-of-murder",
+          "supports": "Südkorea 2003; Bong Joon Ho; historische Mordserie in ländlicher Region, lokale Ermittler und Seouler Kollege; Besetzung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/7361-memories-of-murder-in-the-killing-jar",
+          "supports": "Ermittlungsmethoden Park/Seo, beschädigte Tatortspuren, Hwaseong-Mordserie, unaufgelöste Ermittlung im Film.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/7362-10-things-i-learned-memories-of-murder",
+          "supports": "Bleach-Bypass und ausgenommene Eröffnungs-/Schlussbilder; unbekannter Mörder in Teilansichten mit verschiedenen Darstellern; keine nachträgliche Fallauflösung im Werk.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Kleine Morde unter Freunden",
+      "film_title_original": "Shallow Grave",
+      "film_year": 1994,
+      "subdomain": "Thriller",
+      "reference_question_id": "F40-020-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Schwarzer Humor, Geldfund und Misstrauen; stärkerer Entdeckungsbaustein außerhalb des US-Kinos.",
+      "directors": [
+        "Danny Boyle"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 1994; der reguläre britische Kinostart 1995 ist ein späterer Termin. Ausschließlich Danny Boyles Shallow Grave, kein Bezug zum gleichnamigen Film von 1987.",
+      "director_note": "",
+      "year_difficulty": "schwer",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-020-Y",
+      "director_question_id": "F40-020-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.criterion.com/films/27981-shallow-grave",
+          "supports": "Großbritannien 1994, erste Kinoregie Danny Boyle, Edinburgh-WG, Geldfund nach dem Tod eines neuen Mieters, Besetzung und Drehbuch John Hodge.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/2338-shallow-grave-a-film-called-cruel",
+          "supports": "Berufe der drei Bewohner, Entscheidung zur Leichenbeseitigung, Davids Dachbodenbeobachtung; gemeinsame Wohnvorbereitung der Schauspieler und Wohnungskulisse in Glasgow.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shallow_Grave_(1994_film)",
+          "supports": "Veröffentlichung 1994, späterer britischer Kinostart 1995; Leichenzergliederung, Geldversteck auf Dachboden, Beobachtungslöcher; Filmfassung und Drehorte.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.filmdienst.de/film/details/66051/kleine-morde-unter-freunden",
+          "supports": "Großbritannien 1994, Originaltitel Shallow Grave, Regie Danny Boyle, drei schottische Mitbewohner, Geldfund und eskalierendes Misstrauen.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Free Fire",
+      "film_title_original": "Free Fire",
+      "film_year": 2016,
+      "subdomain": "Action",
+      "reference_question_id": "F40-021-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Seltener britischer Ensemble-Actionfilm; überschaubarer Schauplatz und wechselnde Allianzen. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Ben Wheatley"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Frankreich"
+      ],
+      "series": null,
+      "release_note": "Erste Festivalveröffentlichung 2016 in Toronto; der deutsche Kinostart folgte 2017.",
+      "director_note": "Ben Wheatley führte Regie und schrieb mit Amy Jump; beide waren auch am Schnitt beteiligt.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-021-Y",
+      "director_question_id": "F40-021-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/549476/free-fire",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis nennt den verpatzten Waffendeal. Deutscher Kinostart 06.04.2017. Regie-, Buch- und Schnittcredits.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/free-fire-first-look",
+          "supports": "IRA-Käufer, Waffenhändler und vermittelnde Justine werden konkret benannt. Beschreibt den nahezu einzigen Schauplatz als verlassene Beton-Lagerhalle und den theaterähnlichen Raum. Justine brokered den Deal zwischen Chris/Frank und Vernon/Ord. Persönliche Fehde zwischen den Begleitern löst die Schießerei aus. Besprechung vom November 2016 führt den Film als UK 2016.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.interviewmagazine.com/film/ben-wheatley-free-fire",
+          "supports": "Wheatley nennt ballistische Berichte und FBI-Berichte über reale Schusswechsel sowie sein Interesse am Chaos. Interview April 2017 bezeichnet Toronto im vorherigen September als Premiere. Wheatley erläutert Rollenumschreibungen nach der Besetzung, besonders für Sharlto Copley.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.wired.com/2017/04/free-fire-minecraft-shootout-design/",
+          "supports": "Interviewbericht nennt Minecraft-Simulation, gemeinsames Begehen, Storyboards und physisches Modell.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "The Way of the Gun",
+      "film_title_original": "The Way of the Gun",
+      "film_year": 2000,
+      "subdomain": "Action",
+      "reference_question_id": "F40-022-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Entführung und taktische Verfolgung; erweitert Action um einen Gangsterstoff. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Christopher McQuarrie"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2000.",
+      "director_note": "Christopher McQuarrie ist sowohl Regisseur als auch Drehbuchautor dieses Films.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-022-Y",
+      "director_question_id": "F40-022-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/514362/way-of-the-gun",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis benennt die Entführung der hochschwangeren Leihmutter. Die Synopsis beschreibt die beabsichtigte Erpressung des Millionärs. Regie und Drehbuch Christopher McQuarrie.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Way_of_the_Gun",
+          "supports": "Plot und Besetzung verknüpfen Robin, Parker und Longbaugh. Leihmutterschaft für Hale und Francesca Chidduck; jeweilige Besetzung Wilson und Lehman. Plot: Francescas Embryo implantierte nicht; Painter ist der Vater; Besetzung Dylan Kussman. Painter ist Hales Sohn und Vater von Robins Kind; Francescas Embryo implantierte nicht; Cast. Plot beschreibt abgelehntes Angebot, anschließenden Kaffee und Gespräch über Kriminalität. Sarno als Chidducks bagman, abgelehntes Angebot, Kaffee, Gespräch und anschließende Beobachtung. Erstveröffentlichung 2000 und Filmidentität.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://cinema.com/articles/303/way-of-the-gun-the-interview-with-christopher-mcquarrie.phtml",
+          "supports": "McQuarrie erläutert professionelle Logik der Figuren statt emotionaler Rache. Interviewer nennt die realen Namen von Butch Cassidy/Sundance Kid; McQuarrie bestätigt den bewussten Bezug. McQuarrie nennt Doug als Navy SEAL, Lageplan, Plastikfiguren, taktische Gegenbewegungen und Storyboardzeichner. Bestätigter Western-Namensbezug. Professionelle Logik und taktische Vorbereitung im Regisseurinterview.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Bunraku",
+      "film_title_original": "Bunraku",
+      "film_year": 2010,
+      "subdomain": "Action",
+      "reference_question_id": "F40-023-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Stilisierte Action mit Samurai- und Westernmotiven; eigener visueller Bezugspunkt für Entdeckungen. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Guy Moshe"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Weltpremiere am 11. September 2010 bei TIFF Midnight Madness; reguläre Kinostarts folgten später, unter anderem 2011.",
+      "director_note": "Guy Moshe führte Regie und schrieb das Drehbuch.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-023-Y",
+      "director_question_id": "F40-023-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/538787/bunraku",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis: Welt ohne Feuerwaffen, weiterhin Gewalt, Fremder/Samurai/Barkeeper. Zusammenschluss gegen despotischen Holzfäller und Besetzung Nicola. Regie und Buch Guy Moshe.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bunraku_(film)",
+          "supports": "Feuerwaffen nach globalem Konflikt verboten; Fäuste und Klingen bleiben. Plot: letzter Wunsch des Vaters und zurückzuholendes gestohlenes Medaillon. Finale: Drifter offenbart Nicola, sein Motiv sei die Rache für den von Nicola getöteten Vater. Titel des Films nach japanischem Puppentheater und stilisierter Gestaltung. Spätere Kinostarts 2011.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.bunka.go.jp/prmagazine/english/publications/theatre/theatre_002.html",
+          "supports": "Offizielle Kulturseite erklärt Bunraku als traditionelles japanisches Puppentheater mit Erzähler und Musik.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://tiffmidnightmadness.blogspot.com/2010/09/fighting-words-from-bunrakus-men-of.html?m=1",
+          "supports": "Barber nennt Toshiro Mifune als Beispiel eigener Stuntarbeit, physicality und Ziel für die principals; Training Hartnett/Gackt vor Drehbeginn. Zeitgenössischer TIFF-Beitrag vom 06.09.2010 nennt Weltpremiere am Samstag 11. September. Moshes Beteiligung an Bewegungen und individuellen Kampfgeschichten.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Surviving the Game",
+      "film_title_original": "Surviving the Game",
+      "film_year": 1994,
+      "subdomain": "Action",
+      "reference_question_id": "F40-024-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Menschenjagd als klarer Ausgangspunkt; seltenere Genrevariante mit einem Überlebenskonflikt. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Ernest R. Dickerson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 1994; Filmdienst nennt als Produktionsjahr 1993. AFI dokumentiert den US-Start im April 1994.",
+      "director_note": "Ernest Dickerson ist der Regiecredit; Ernest R. Dickerson ist seine vollständige öffentliche Namensform.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-024-Y",
+      "director_question_id": "F40-024-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/64863/surviving-the-game",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis: wohlhabende Männer engagieren Obdachlosen als vermeintlichen Jagdhelfer. Synopsis bestätigt Mason als Beute der wohlhabenden Männer. Filmdienst nennt Produktionsjahr 1993. Ausgangslage und Regiecredit.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Surviving_the_Game",
+          "supports": "Burns bietet Mason den Job; Figuren und Besetzung. Plot nennt Trophäenraum mit präparierten Köpfen vorheriger Opfer. Nächtliches Gespräch, Tod von Griffins Tochter durch Obdachlosen, Masons eigene Familie und Griffins Ausstieg. Griffins Tochter getötet; Missverständnis über Mason, Familie starb bei Brand, Griffin beendet Jagd. Plot: jüngerer Wolfe entsetzt über Mord, von Vater gedrängt; Besetzung William McNamara/F. Murray Abraham. Finale: Mason schießt nicht, geht; manipulierte Pistole backfires und tötet Burns.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://catalog.afi.com/Film/60250-SURVIVING-THE-GAME",
+          "supports": "AFI nennt 1994 und Los-Angeles-Start 15.04.1994. Regie Ernest Dickerson, Drehbuch Eric Bernt und Hauptbesetzung.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Shoot ’Em Up",
+      "film_title_original": "Shoot 'Em Up",
+      "film_year": 2007,
+      "subdomain": "Action",
+      "reference_question_id": "F40-025-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Überzeichnete Action als Brücke zwischen bekannteren Genreformen und den selteneren Kandidaten. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Michael Davis"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2007.",
+      "director_note": "Michael Davis schrieb das Drehbuch und führte Regie; sein Hintergrund im Storyboarding prägte die Vorbereitung.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-025-Y",
+      "director_question_id": "F40-025-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/529628/shoot-em-up",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis nennt Mann und Prostituierte als Beschützer eines Babys; Besetzung Smith/DQ. Filmidentität 2007. Michael Davis als Regisseur und Drehbuchautor.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+          "supports": "Beginn: Smith hilft bei Geburt, Mutter getötet, Baby gerettet, DQ als Helferin. Karottenessen und improvisierte tödliche Karottenverwendung. Baby verstummt bei Heavy Metal; Smith folgert Clubnähe und findet medizinische Wohnung. Plot erläutert künstliche Befruchtung, passende Knochenmarkspender für Rutledge und Besetzung Daniel Pilon.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.awn.com/vfxworld/drawing-board-screen-shoot-em-previs",
+          "supports": "Davis erläutert Karottenmotiv und Cartoon-Bezug. Davis erklärt den Karotten-Gag zusammen mit seiner Bugs-Bunny/Elmer-Fudd-Orientierung. Davis nennt ausdrücklich Looney Tune, Bugs-Bunny-Karotten und Giamatti als Elmer Fudd. Davis-Interview beschreibt animierte Storyboards als Präsentation und abteilungsübergreifende Produktionsvorbereitung. Zeitgenössischer Artikel vom September 2007 nennt Kinostart und längere Entstehung des Projekts. Eigene Zeichnungen und Animationen, Cartoon-Bezug und Produktionsvorbereitung.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Excalibur",
+      "film_title_original": "Excalibur",
+      "film_year": 1981,
+      "subdomain": "Fantasy",
+      "reference_question_id": "F40-026-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Artussage, Magie und Ritterwelt; Verbindung zwischen bekannter Sage und älterem Fantasykino.",
+      "directors": [
+        "John Boorman"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 1981; AFI nennt den 10. April. Produktionsland nach AFI/Filmdienst USA; Drehorte in der Republik Irland werden davon getrennt.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "year_question_id": "F40-026-Y",
+      "director_question_id": "F40-026-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/24547/excalibur",
+          "supports": "Credits und Produktionsland.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://catalog.afi.com/Film/56592-EXCALIBUR",
+          "supports": "Gelesene ausführliche Synopsis, vollständige Credits und Veröffentlichung; Schwertbruch, Gral, Mordreds Schutzzauber und O Fortuna aus Carmina Burana.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Die Abenteuer des Baron Münchhausen",
+      "film_title_original": "The Adventures of Baron Munchausen",
+      "film_year": 1988,
+      "subdomain": "Fantasy",
+      "reference_question_id": "F40-027-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Erzählfantasie und unzuverlässiger Erzähler; erweitert Fantasy jenseits großer Franchise-Reihen.",
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA",
+        "Deutschland"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 1988; Filmdienst nennt den deutschen Kinostart am 8. Dezember. Spätere Starts 1989 ändern dieses Jahr nicht. Produktionsländer nach ausführlicher Koproduktionsangabe; Criterion führt den Film knapp unter Großbritannien.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "year_question_id": "F40-027-Y",
+      "director_question_id": "F40-027-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/3403/die-abenteuer-des-baron-munchhausen",
+          "supports": "Gelesene Credits, deutsches Veröffentlichungsdatum und Produktionsangabe 1987/88.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/films/29570-the-adventures-of-baron-munchausen",
+          "supports": "Offizielle Edition mit Regie, Filmjahr und Besetzung; Robin Williams ist als Ray D. Tutto kreditiert.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/8025-the-adventures-of-baron-munchausen-a-reason-to-believe",
+          "supports": "Gelesener Criterion-Essay: Bühnenrahmen, Auftritt des Barons, Sally und Rolle der Fantasie.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen",
+          "supports": "Gelesene vollständige Handlung: Unterwäscheballon, Mondkönig, Jacksons Hinrichtung und Niesflucht; Koproduktionsländer.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Krull",
+      "film_title_original": "Krull",
+      "film_year": 1983,
+      "subdomain": "Fantasy",
+      "reference_question_id": "F40-028-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Weniger bekannter Mix aus Fantasy und Science-Fiction; zentrale Quest und besondere Waffe.",
+      "directors": [
+        "Peter Yates"
+      ],
+      "production_countries": [
+        "Großbritannien"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 1983; US-Kinostart am 29. Juli. Filmdienst führt die Produktionsspanne 1982/83, die Veröffentlichung ist 1983.",
+      "director_note": "Vollständiger Hauptregiecredit; Second-Unit-Credits werden nicht als zusätzliche Hauptregie geführt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "year_question_id": "F40-028-Y",
+      "director_question_id": "F40-028-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/27987/krull",
+          "supports": "Gelesene Credits und britisches Produktionsland; Produktionsspanne 1982/83.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.sonypictures.com/movies/krull",
+          "supports": "Offizielle Sony-Synopsis: Colwyn, entführte Braut und Glaive; Copyright 1983.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Krull_(film)",
+          "supports": "Gelesene vollständige Handlung und Besetzung: Ortswechsel der Festung, Ergo, Ynyrs Sand und Hochzeitsritual.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Dungeons & Dragons: Ehre unter Dieben",
+      "film_title_original": "Dungeons & Dragons: Honor Among Thieves",
+      "film_year": 2023,
+      "subdomain": "Fantasy",
+      "reference_question_id": "F40-029-L1",
+      "familiarity_level": 2,
+      "familiarity_reason": "Neuerer Einstieg mit Gruppe, Magie und Quest; verbessert zugleich die schwache Abdeckung der 2020er.",
+      "directors": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": "Dungeons & Dragons",
+      "release_note": "Erstveröffentlichung 2023; Festivalpremiere bei SXSW im März. Filmdienst führt 2022 als Produktionsjahr. Produktionsland USA gemäß Filmdienst; Drehorte werden nicht als zusätzliche Produktionsländer übernommen.",
+      "director_note": "Gemeinsame Hauptregie: Jonathan Goldstein und John Francis Daley. Beide Namen sind in jeder Regieantwort zusammen enthalten.",
+      "year_difficulty": "leicht",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-029-Y",
+      "director_question_id": "F40-029-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/620553/dungeons-dragons-ehre-unter-dieben",
+          "supports": "Gelesene Filmdaten mit beiden Regisseuren, Produktionsjahr 2022 und deutschem Kinostart 2023.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.paramountpictures.com/movies/dungeons-&-dragons-honor-among-thieves",
+          "supports": "Gelesene offizielle Paramount-Credits: Jonathan Goldstein und John Francis Daley; Originaltitel und Besetzung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves",
+          "supports": "Gelesene vollständige Handlung: Kira, Doric, Simon, Goldumleitung, Zauberblockade und Entscheidung für Holga; Premiere 2023.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Solomon Kane",
+      "film_title_original": "Solomon Kane",
+      "film_year": 2009,
+      "subdomain": "Fantasy",
+      "reference_question_id": "F40-030-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Dunkle Fantasy und Erlösung; zusätzlicher seltener Stoff mit klarer Hauptfigur.",
+      "directors": [
+        "Michael J. Bassett"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Frankreich",
+        "Tschechien"
+      ],
+      "series": null,
+      "release_note": "Erstveröffentlichung 2009 bei Filmfestivals; spätere allgemeine Kinostarts 2010 in mehreren Ländern ändern das Jahr nicht.",
+      "director_note": "Historischer Filmcredit im Pressebuch und in Filmdienst: Michael J. Bassett; die Person ist heute auch als M. J. Bassett bekannt.",
+      "year_difficulty": "schwer",
+      "director_difficulty": "schwer",
+      "year_question_id": "F40-030-Y",
+      "director_question_id": "F40-030-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/536362/solomon-kane",
+          "supports": "Gelesene Credits, Filmjahr 2009 und Produktionsländer.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://pad.mymovies.it/filmclub/2009/07/266/mymovies.pdf",
+          "supports": "Gelesenes Eagle-Pictures-Pressebuch: Anfangshandlung, Seelenanspruch, Gewaltverzicht, Meredith und Hauptregie; Robert E. Howards Figur.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Solomon_Kane_(film)",
+          "supports": "Gelesene vollständige Handlung: Kreuzigung, Merediths Stimme, Marcus und Familiengeheimnis; Festivalveröffentlichung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.denofgeek.com/movies/solomon-kane-james-purefoy-interview/",
+          "supports": "Gelesenes Primärinterview mit James Purefoy zur eigens entwickelten Vorgeschichte der Howard-Figur.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Dänische Delikatessen",
+      "film_title_original": "De grønne slagtere",
+      "film_year": 2003,
+      "subdomain": "Komödie",
+      "reference_question_id": "F40-031-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Dänischer schwarzer Humor; eigenständiger Entdeckungsfilm statt weiterer US-Mainstreamkomödie. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Anders Thomas Jensen"
+      ],
+      "production_countries": [
+        "Dänemark"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2003; dänischer Kinostart 21.03.2003 laut Cineuropa. Die Filmdienst-Angabe Produktionsjahr 2004 widerspricht dieser Veröffentlichungsdatierung und wird dafür nicht übernommen.",
+      "director_note": "Anders Thomas Jensen schrieb und inszenierte die schwarze Komödie.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-031-Y",
+      "director_question_id": "F40-031-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/522827/danische-delikatessen",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis: Metzgergesellen lösen sich vom Meister und eröffnen eigenes Geschäft. Synopsis nennt Erfolg durch verarbeitete Menschen. Credit Nikolaj Lie Kaas als Bjarne/Egil. Gelesener Kritikauftakt: vorherige Dogma-Arbeit, Regeln verlassen, Kulissen und Perspektiven ausgetüftelt. Abweichendes Produktionsjahr 2004 und Titelanzeige 2003. Regie/Buch Jensen und gelesener Kritikauftakt zur stilisierten Gestaltung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://cineuropa.org/en/film/20016/",
+          "supports": "Svend und Bjarne eröffnen eigenen Laden, um dem bösartigen Chef zu entkommen. Land Dänemark, Jahr 2003 und dänischer Start 21.03.2003.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Green_Butchers",
+          "supports": "Plot: Elektriker versehentlich eingesperrt, Bein verarbeitet und verkauft. Elektriker im Kühlraum, Verkauf an Holger, Kundenandrang und Bjarne stimmt Weiterverarbeitung zu; Cast Thestrup. Zwillingsbeziehung, Doppelrolle, Erwachen und vegetarischer Eigil. Doppelrolle, vegetarischer Eigil, Koma, tote Hühner zum Friedhof und Astrid; Besetzung Kruse. Finale: Hühnerfleisch verkauft; Bjarne erklärt Erfolg mit Marinade statt Menschenfleisch. Veröffentlichung Dänemark März 2003 und USA Dezember 2004.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Four Lions",
+      "film_title_original": "Four Lions",
+      "film_year": 2010,
+      "subdomain": "Komödie",
+      "reference_question_id": "F40-032-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Britische Satire; erweitert die komischen Formen um Farce und politisch geprägten schwarzen Humor. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Chris Morris"
+      ],
+      "production_countries": [
+        "Großbritannien"
+      ],
+      "series": null,
+      "release_note": "Erste Festivalveröffentlichung 2010 beim Sundance Film Festival; britischer Kinostart im selben Jahr.",
+      "director_note": "Chris Morris, auch als Christopher Morris geführt, ist der Regisseur und schrieb mit Sam Bain und Jesse Armstrong.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-032-Y",
+      "director_question_id": "F40-032-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/537268/four-lions",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis nennt islamistische Möchtegern-Selbstmordattentäter und Farce. Synopsis: Gruppe im englischen Sheffield. Gelesene Vollkritik: Wahl des kostümierten Londoner Marathonlaufs. Gelesene Vollkritik nennt ständiges Kopfschütteln aus Angst vor scharfen Satellitenfotos. Regie Chris Morris; Buch Armstrong/Bain/Christopher Morris.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.comingsoon.net/movies/features/70945-exclusive-four-lions-director-chris-morris",
+          "supports": "Interviewauftakt nennt Omar/Riz Ahmed und inkompetente britische Extremisten. Ausgangsgruppe britisch; Omar und Waj reisen nach Pakistan und kehren zurück. Interview nennt Marathon, Kostüme und Herstellung der Marathonszenen. Morris berichtet von achtmonatigem Prozess mit umfangreichem Überwachungsmaterial und alltäglichen Gesprächen. Morris erläutert längerfristige Recherche. Regieinterview über Recherche und Entwicklung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Four_Lions",
+          "supports": "Plot: Beschreibung Honey Monster, Schütze tötet unbeteiligten Wookie-Träger. Sundance-Premiere 23.01.2010 und britischer Start 07.05.2010.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Die Zeit nach Mitternacht",
+      "film_title_original": "After Hours",
+      "film_year": 1985,
+      "subdomain": "Komödie",
+      "reference_question_id": "F40-033-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Nächtliche Katastrophenkette; weniger bekannter Scorsese-Film mit gut nachvollziehbarer Figurenfolge. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 1985; die Cannes-Auszeichnung für die Regie erfolgte erst 1986.",
+      "director_note": "Martin Scorsese führte Regie; Michael Ballhaus gestaltete die Kameraarbeit, Joseph Minion schrieb das Drehbuch.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-033-Y",
+      "director_question_id": "F40-033-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/1600/die-zeit-nach-mitternacht",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/films/29632-after-hours",
+          "supports": "Synopsis beschreibt durch Ereignisse verhinderte Heimkehr von Paul Hackett. Manhattan-Büro, Downtown/SoHo und New Yorker Nachtwelt. Filmidentität After Hours, USA 1985, Scorsese und Restaurierungsangaben. Regie, Drehbuch, Kamera und Produzent/Hauptdarsteller Dunne.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/8197-after-hours-no-exit",
+          "supports": "Taxifahrt: letzter Geldschein wird aus Fenster gesogen; Gegenstände/Geld als zentrale Motive. Criterion benennt Türsteherdialog als Übernahme aus der Türhüterparabel nahe Ende von The Trial. Erste Zusammenarbeit Scorsese/Ballhaus, Kamera bewegt Blick und Orientierung; spätere Kooperationen genannt. Bewegte Kamera und räumliche Verunsicherung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/After_Hours_(film)",
+          "supports": "Plot: June bedeckt Paul mit Papiermaché; Diebe nehmen vermeintliche Skulptur mit. Paul für Einbrecher gehalten, Junes Papiermaché-Skulpturtarnung, Diebe nehmen Kunstwerk mit.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Black Dynamite",
+      "film_title_original": "Black Dynamite",
+      "film_year": 2009,
+      "subdomain": "Komödie",
+      "reference_question_id": "F40-034-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Blaxploitation-Parodie; eröffnet Fragen zu Genremotiven und deren komischer Brechung. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Scott Sanders"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2009 beim Sundance Film Festival; späterer Kinostart im selben Jahr.",
+      "director_note": "Scott Sanders führte Regie und schrieb mit Michael Jai White und Byron Minns.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-034-Y",
+      "director_question_id": "F40-034-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/535599/black-dynamite",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis nennt ermordeten jüngeren Bruder, Drogenkampf und Weg ins Weiße Haus. Regie und drei Buchcredits.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.sonypictures.com/movies/blackdynamite",
+          "supports": "Offizieller Verleih nennt 1970s-style blaxploitation action film. Offizielle Beschreibung 1970er-Blaxploitation-Stil.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://asitecalledfred.com/2009/10/30/black-dynamite-trailer-park/",
+          "supports": "Sanders/White beschreiben liebevolle Rekonstruktion des 1970er-Stils. Sanders erklärt Trailer für Jon Steingart und Zustimmung, bevor das Drehbuch geschrieben war. Sanders/White erläutern Figurenidee und Stilabsicht.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Black_Dynamite",
+          "supports": "Plot: Anaconda malt liquor trägt Formel des Regierungsplans; Gruppe entschlüsselt Code. Plot: Nixon als Drahtzieher und Kung-Fu-Gegner; Besetzung James McManus. Production: bewusst eingebautes Boom-Mikrofon als Hommage an low production values/one take style. Sundance-Premiere 2009.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Adams Äpfel",
+      "film_title_original": "Adams æbler",
+      "film_year": 2005,
+      "subdomain": "Komödie",
+      "reference_question_id": "F40-035-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Dänische schwarze Komödie als Brücke zu Dänische Delikatessen; Glauben und Weltbilder als Vertiefung. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Anders Thomas Jensen"
+      ],
+      "production_countries": [
+        "Dänemark",
+        "Deutschland"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2005 in Dänemark; deutscher Kinostart 2006.",
+      "director_note": "Anders Thomas Jensen schrieb und inszenierte den Film.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-035-Y",
+      "director_question_id": "F40-035-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/527200/adams-apfel-gott-ist-auf-meiner-seite",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis und gelesene Kritik: Haftentlassung, Resozialisierung, Figuren. Gelesene Kritik: pädagogische Zielfrage, Apfelkuchen, Ivan führt Adam zum Baum. Gelesene Kritik: Heile-Welt-Fassade, Verdrängung, Sohn gesund fantasiert, Rückfälle ausgeblendet. Gelesene Vollkritik: Reue, Mitgefühl und Verantwortung für verwahrlosende Mitbewohner nach Ivans Selbstaufgabe. Kritik nennt biblische Hiob-Erzählung ausdrücklich. Reflexion märchenhafter Wendungen und wundersamer Heilung. Filmidentität 2005 und biblische Fabel. Regie/Drehbuch, Besetzung, märchenhafte Inszenierung und biblische Fabel.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Adam%27s_Apples",
+          "supports": "Film dreht sich um Book of Job; Adam zitiert es im Glaubenskonflikt. Finale: Arzt erklärt Tumor durch Kugel entfernt und Genesung. Veröffentlichung Dänemark 15.04.2005, Deutschland 31.08.2006; Countries Dänemark/Deutschland. Artikelkopf ergänzt Deutschland zu Dänemark als Produktionsland.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Ruby Sparks – Meine fabelhafte Freundin",
+      "film_title_original": "Ruby Sparks",
+      "film_year": 2012,
+      "subdomain": "Rom-Com",
+      "reference_question_id": "F40-036-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Romantische Beziehung mit fantastischer Prämisse; verbindet leichte Ausgangsfragen mit Fragen zu Selbstbestimmung. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Jonathan Dayton",
+        "Valerie Faris"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2012; US-Kinostart im Juli dieses Jahres.",
+      "director_note": "Jonathan Dayton und Valerie Faris teilen sich den offiziellen Regiecredit; Zoe Kazan schrieb das Drehbuch.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-036-Y",
+      "director_question_id": "F40-036-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/540856/ruby-sparks-meine-fabelhafte-freundin",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis: junger Schriftsteller mit Schreibblockade erfindet Traumfrau. Synopsis: Traumfrau wird Fleisch und Blut. Detaillierte Regiecredits nennen Dayton und Faris gemeinsam.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.celluloidportraits.com/documenti/pressbook/Ruby%20Sparks.pdf",
+          "supports": "Offizielle Produktionsnotizen: Schriftsteller Calvin, Paul Dano und Zoe Kazan/Ruby. Offizielle Credits: written by Zoe Kazan; Besetzung Kazan als Ruby. Offizielle Produktionsnotizen: 2012, Regieduo und vorherige Little-Miss-Sunshine-Zusammenarbeit. Vollständiger Regiecredit Jonathan Dayton und Valerie Faris sowie Kazan als Autorin/Ruby und Dano als Calvin.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ruby_Sparks",
+          "supports": "Plot: Ruby ist real und für andere sichtbar. Plot: Harry erlebt, dass Manuskriptänderungen Ruby direkt beeinflussen. Plot: Selbstständigkeit und Job, anschließend Umschreibung in needy/dependent Ruby; weitere Stimmungsänderungen. US-Veröffentlichung 25.07.2012.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.interviewmagazine.com/film/zoe-kazan-ruby-sparks",
+          "supports": "Kazan erläutert Veränderungen durch Schreiben, etwa Sprache und Stimmung. Interview mit Kazan als Autorin und Hauptdarstellerin; Interesse an Kreativität und Beziehungen. Kazan nennt Pygmalion ausdrücklich und erläutert Kreativität sowie Männer-/Frauenbeziehungen.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Miss Pettigrews großer Tag",
+      "film_title_original": "Miss Pettigrew Lives for a Day",
+      "film_year": 2008,
+      "subdomain": "Rom-Com",
+      "reference_question_id": "F40-037-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Romantische Gesellschaftskomödie; mehrere Beziehungen und unterschiedliche soziale Rollen. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Bharat Nalluri"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2008; US-Kinostart am 7. März, nicht zu verwechseln mit der Handlungszeit 1939.",
+      "director_note": "Bharat Nalluri führte Regie; David Magee und Simon Beaufoy schrieben das Drehbuch nach Winifred Watson.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-037-Y",
+      "director_question_id": "F40-037-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/531398/miss-pettigrews-grosser-tag",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Regie Nalluri, Autoren Magee/Beaufoy und Hauptbesetzung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.focusfeatures.com/miss_pettigrew_lives_for_a_day",
+          "supports": "Offizielle Synopsis nennt unerwartete Rolle als social secretary. Offizieller Veröffentlichungstermin 07.03.2008.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.focusfeatures.com/article/production_notes___miss_pettigrew_lives_for_a_day",
+          "supports": "Produktionsnotizen: frühere Gouvernante, neue Aufgabe bei Delysia und Besetzung. Produktionsnotizen setzen Handlung ausdrücklich in London 1939 vor Kriegsausbruch. Produktionsnotizen unterscheiden Michael/Pianist, Nick/Club und Wohnung, Phil/Produzent und Rolle sowie Joe/Modeschöpfer. Michael als mittelloser aufrichtig Liebender; London 1939 und Krieg als ernster Untergrund der Entscheidungen. Produktionsnotizen: Roman 1938, Persephone-Neuauflage 2000, wiedergewonnenes Interesse und Garretts Lektüre. Produktionsnotizen bestätigen ausdrücklich Adams eigenen Gesang in Delysias Nachtclubauftritt. Handlungszeit 1939 und ursprüngliche Romanveröffentlichung 1938. Romanadaption, Regie und auf einen Tag konzentrierte Handlung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Miss_Pettigrew_Lives_for_a_Day",
+          "supports": "Plot: Pettigrew verlor Verlobten im Ersten Weltkrieg, warnt Delysia vor späteren Bedauern. Artikelkopf nennt Großbritannien und USA als Produktionsländer.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Ariane – Liebe am Nachmittag",
+      "film_title_original": "Love in the Afternoon",
+      "film_year": 1957,
+      "subdomain": "Rom-Com",
+      "reference_question_id": "F40-038-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Klassische romantische Komödie; älteres Kino als Brücke zu den selteneren modernen Titeln. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Billy Wilder"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Weltpremiere 1957 in Paris; US-Eröffnungen folgten im selben Jahr.",
+      "director_note": "Billy Wilder führte Regie und schrieb mit I. A. L. Diamond; hier begann ihre langjährige Zusammenarbeit.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-038-Y",
+      "director_question_id": "F40-038-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/47113/ariane-liebe-am-nachmittag",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis: scheinbar weltgewandte junge Frau erobert Millionär. Regie Wilder, Buch Wilder/Diamond, Anet-Vorlage und Besetzung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://catalog.afi.com/Film/52269-LOVE-IN-THE-AFTERNOON?cxt=filmography",
+          "supports": "Synopsis: Ariane erfindet zahlreiche Liebhaber und verunsichert Flannagan. Synopsis: Privatdetektiv Claude Chavasse, Besetzung Chevalier/Hepburn. Synopsis nennt Ariane als Cellostudentin und Konservatoriumsbesuch. Synopsis: Ariane nutzt Informationen aus Claudes Affärenakten für ihre erfundenen Beziehungen. Notes: erste Wilder-Diamond-Zusammenarbeit und später zahlreiche gemeinsame Drehbücher; Credits beide Autoren. Notes vergleichen Pressbook mit American Cinematographer August 1957: Oper wegen Drehschwierigkeiten im Studio rekonstruiert. Weltpremiere Paris 29.05.1957; US-Eröffnungen 1957; Hauptbesetzung und Beginn Wilder/Diamond. Regie-/Autorencredits sowie konkrete Figurenbeziehungen.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "Wie schreibt man Liebe?",
+      "film_title_original": "The Rewrite",
+      "film_year": 2014,
+      "subdomain": "Rom-Com",
+      "reference_question_id": "F40-039-L1",
+      "familiarity_level": 4,
+      "familiarity_reason": "Wenig bekannter Titel mit bekanntem Hauptdarsteller; Beziehung, Lebenskrise und zweite Chancen. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Marc Lawrence"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2014; spätere Kinostarts in einzelnen Ländern, darunter USA 2015, ändern dieses Filmjahr nicht.",
+      "director_note": "Marc Lawrence ist Regisseur und Drehbuchautor.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-039-Y",
+      "director_question_id": "F40-039-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/544686/wie-schreibt-man-liebe",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Synopsis: früherer erfolgreicher Drehbuchautor unterrichtet kreatives Schreiben. Synopsis: Hollywood-Karriere stockt, finanziell klamm, Lehrstelle in Provinz. Regie/Buch Marc Lawrence, Besetzung Grant/Tomei.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.binghamton.edu/news/blog/story/5621/10-really-cool-things-you-didnt-know-binghamton-was-famous-for",
+          "supports": "Offizielle Universitätsseite: Hauptfigur lehrt Drehbuchschreiben an Binghamton University. Offizielle Binghamton-Seite: Lawrence alumnus class of 1981; Filmsetting und ausgewählte örtliche Aufnahmen. Film The Rewrite (2014), Handlungsort Binghamton. Lawrence als Binghamton-Absolvent und Regisseur.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Rewrite",
+          "supports": "Plot: keine weiteren Hits, pleite, Unterrichtsangebot durch Agentin. Plot: Keith selects mostly attractive young women for his class, zwei Männer. Plot: Holly als arbeitende Mutter, Konflikt mit Keiths Behauptung Schreiben sei nicht lehrbar; Diskussion und Entwicklung. Finale: Hollywood-Angebot, Entscheidung an Hochschule zu bleiben, Kontakt zu Sohn. Erste Veröffentlichung Shanghai 15.06.2014; amerikanischer Start 13.02.2015.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "film_title_de": "The Big Sick",
+      "film_title_original": "The Big Sick",
+      "film_year": 2017,
+      "subdomain": "Rom-Com",
+      "reference_question_id": "F40-040-L1",
+      "familiarity_level": 3,
+      "familiarity_reason": "Neuere Rom-Com mit kulturellem und familiärem Konflikt; klarere Genrezuordnung als manche reine Romanze. Redaktionelle Einschätzung für ein breites deutschsprachiges Kinopublikum.",
+      "directors": [
+        "Michael Showalter"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "series": null,
+      "release_note": "Erste Veröffentlichung 2017 beim Sundance Film Festival; US-Kinostart im Juni 2017.",
+      "director_note": "Michael Showalter führte Regie. Kumail Nanjiani und Emily V. Gordon schrieben; Judd Apatow und Barry Mendel produzierten.",
+      "year_difficulty": "mittel",
+      "director_difficulty": "mittel",
+      "year_question_id": "F40-040-Y",
+      "director_question_id": "F40-040-D",
+      "category_reasons": [],
+      "sources": [
+        {
+          "url": "https://www.filmdienst.de/film/details/550204/the-big-sick",
+          "supports": "Originaltitel, detaillierte Regiecredits, Besetzung und Produktionsangaben; Veröffentlichungsjahr gesondert geprüft. Gelesene Kritik: Familienbesuche mit potenziellen Ehefrauen und gesammelte Fotos; Konflikt mit Emily. Gelesene Vollkritik: Koma und Annäherung des Expartners mit Emilys Eltern. Regie- und Hauptbesetzungscredits.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://app.powster.com/lionsgateus/the-big-sick/us/synopsis/",
+          "supports": "Offizielle Synopsis: Pakistan-born aspiring comedian, Treffen nach Stand-up-Set, Nanjiani und Kazan. Offizielle Synopsis: Emilys Krankheit verbindet Kumail mit Beth und Terry. Offiziell: based on real-life courtship between Nanjiani and Gordon; beide Autoren, Rollen Nanjiani/Kazan. US-Veröffentlichung 23.06. und biografische Grundlage. Offizielle vollständige Zuordnung Regie Showalter, Buch Gordon/Nanjiani, Produktion Apatow/Mendel und Besetzung.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Big_Sick",
+          "supports": "Plot: Eltern erwarten arranged marriage, Emily entdeckt Fotos. Plot: Emily wakes, wishes not to reconnect romantically despite Kumails bond with parents; späteres Wiedersehen. Premiere Sundance 20.01.2017.",
+          "checked_on": "2026-10-04"
+        },
+        {
+          "url": "https://www.savethecat.com/wp-content/uploads/2018/02/THE-BIG-SICK-IN-WRITTEN-BY.pdf",
+          "supports": "Writers-Guild-Interview beschreibt reale Beziehung, Erkrankung und Entwicklung des Drehbuchs. Interview: zunächst Leserfeedback Gordons, then different perspective on events; Nanjiani erkennt Geschichte nicht allein schreibbar und lädt Gordon als Mitautorin ein.",
+          "checked_on": "2026-10-04"
+        }
+      ]
+    }
+  ]
+}

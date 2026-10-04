@@ -1,0 +1,796 @@
+{
+  "schema_version": "wissensquiz-film40-formalprüfung-v1",
+  "as_of": "2026-10-04",
+  "catalog_baseline": {
+    "questions": 6277,
+    "goals": 5734
+  },
+  "scope": "Formal editorial file checks and CSV reread only. Does not constitute source verification or app import.",
+  "films": 40,
+  "questions": 320,
+  "contentGoals": 240,
+  "yearGoals": 40,
+  "directorGoals": 40,
+  "distinctGoals": 320,
+  "existingGoals": 4,
+  "newGoals": 316,
+  "variantRows": 4,
+  "difficulty": {
+    "leicht": 89,
+    "mittel": 131,
+    "schwer": 100
+  },
+  "correctAnswers": {
+    "A": 80,
+    "B": 80,
+    "C": 80,
+    "D": 80
+  },
+  "familiarity": {
+    "1": 3,
+    "2": 7,
+    "3": 14,
+    "4": 16
+  },
+  "genres": {
+    "Abenteuer": 10,
+    "Thriller": 10,
+    "Action": 5,
+    "Fantasy": 5,
+    "Komödie": 5,
+    "Rom-Com": 5
+  },
+  "filmChecks": [
+    {
+      "rank": 1,
+      "title": "Fluch der Karibik",
+      "year": 2003,
+      "genre": "Abenteuer",
+      "familiarity": 1,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-001-Y",
+      "directorGoal": "K-F40-001-D",
+      "goals": 8,
+      "existingGoals": 1,
+      "newGoals": 7,
+      "variants": 1
+    },
+    {
+      "rank": 2,
+      "title": "Die Mumie",
+      "year": 1999,
+      "genre": "Abenteuer",
+      "familiarity": 2,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-002-Y",
+      "directorGoal": "K-F40-002-D",
+      "goals": 8,
+      "existingGoals": 1,
+      "newGoals": 7,
+      "variants": 1
+    },
+    {
+      "rank": 3,
+      "title": "Uncharted",
+      "year": 2022,
+      "genre": "Abenteuer",
+      "familiarity": 2,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-003-Y",
+      "directorGoal": "K-F40-003-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 4,
+      "title": "20.000 Meilen unter dem Meer",
+      "year": 1954,
+      "genre": "Abenteuer",
+      "familiarity": 2,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-004-Y",
+      "directorGoal": "K-F40-004-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 5,
+      "title": "Cast Away – Verschollen",
+      "year": 2000,
+      "genre": "Abenteuer",
+      "familiarity": 1,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-005-Y",
+      "directorGoal": "K-F40-005-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 6,
+      "title": "Master and Commander – Bis ans Ende der Welt",
+      "year": 2003,
+      "genre": "Abenteuer",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-006-Y",
+      "directorGoal": "K-F40-006-D",
+      "goals": 8,
+      "existingGoals": 1,
+      "newGoals": 7,
+      "variants": 1
+    },
+    {
+      "rank": 7,
+      "title": "Die Reise zum Mittelpunkt der Erde",
+      "year": 1959,
+      "genre": "Abenteuer",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-007-Y",
+      "directorGoal": "K-F40-007-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 8,
+      "title": "In 80 Tagen um die Welt",
+      "year": 1956,
+      "genre": "Abenteuer",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-008-Y",
+      "directorGoal": "K-F40-008-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 9,
+      "title": "Abenteuer in Rio",
+      "year": 1964,
+      "genre": "Abenteuer",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-009-Y",
+      "directorGoal": "K-F40-009-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 10,
+      "title": "Die Abenteurer",
+      "year": 1967,
+      "genre": "Abenteuer",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-010-Y",
+      "directorGoal": "K-F40-010-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 11,
+      "title": "Basic Instinct",
+      "year": 1992,
+      "genre": "Thriller",
+      "familiarity": 1,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-011-Y",
+      "directorGoal": "K-F40-011-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 12,
+      "title": "Shutter Island",
+      "year": 2010,
+      "genre": "Thriller",
+      "familiarity": 2,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-012-Y",
+      "directorGoal": "K-F40-012-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 13,
+      "title": "The Game",
+      "year": 1997,
+      "genre": "Thriller",
+      "familiarity": 2,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-013-Y",
+      "directorGoal": "K-F40-013-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 14,
+      "title": "Nightcrawler – Jede Nacht hat ihren Preis",
+      "year": 2014,
+      "genre": "Thriller",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-014-Y",
+      "directorGoal": "K-F40-014-D",
+      "goals": 8,
+      "existingGoals": 1,
+      "newGoals": 7,
+      "variants": 1
+    },
+    {
+      "rank": 15,
+      "title": "Der Dialog",
+      "year": 1974,
+      "genre": "Thriller",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-015-Y",
+      "directorGoal": "K-F40-015-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 16,
+      "title": "Blow Out – Der Tod löscht alle Spuren",
+      "year": 1981,
+      "genre": "Thriller",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-016-Y",
+      "directorGoal": "K-F40-016-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 17,
+      "title": "Parasite",
+      "year": 2019,
+      "genre": "Thriller",
+      "familiarity": 2,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-017-Y",
+      "directorGoal": "K-F40-017-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 18,
+      "title": "Atemlos vor Angst",
+      "year": 1977,
+      "genre": "Thriller",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-018-Y",
+      "directorGoal": "K-F40-018-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 19,
+      "title": "Memories of Murder",
+      "year": 2003,
+      "genre": "Thriller",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-019-Y",
+      "directorGoal": "K-F40-019-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 20,
+      "title": "Kleine Morde unter Freunden",
+      "year": 1994,
+      "genre": "Thriller",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-020-Y",
+      "directorGoal": "K-F40-020-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 21,
+      "title": "Free Fire",
+      "year": 2016,
+      "genre": "Action",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-021-Y",
+      "directorGoal": "K-F40-021-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 22,
+      "title": "The Way of the Gun",
+      "year": 2000,
+      "genre": "Action",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-022-Y",
+      "directorGoal": "K-F40-022-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bunraku",
+      "year": 2010,
+      "genre": "Action",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-023-Y",
+      "directorGoal": "K-F40-023-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 24,
+      "title": "Surviving the Game",
+      "year": 1994,
+      "genre": "Action",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-024-Y",
+      "directorGoal": "K-F40-024-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 25,
+      "title": "Shoot ’Em Up",
+      "year": 2007,
+      "genre": "Action",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-025-Y",
+      "directorGoal": "K-F40-025-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 26,
+      "title": "Excalibur",
+      "year": 1981,
+      "genre": "Fantasy",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-026-Y",
+      "directorGoal": "K-F40-026-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 27,
+      "title": "Die Abenteuer des Baron Münchhausen",
+      "year": 1988,
+      "genre": "Fantasy",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-027-Y",
+      "directorGoal": "K-F40-027-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 28,
+      "title": "Krull",
+      "year": 1983,
+      "genre": "Fantasy",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-028-Y",
+      "directorGoal": "K-F40-028-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 29,
+      "title": "Dungeons & Dragons: Ehre unter Dieben",
+      "year": 2023,
+      "genre": "Fantasy",
+      "familiarity": 2,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-029-Y",
+      "directorGoal": "K-F40-029-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 30,
+      "title": "Solomon Kane",
+      "year": 2009,
+      "genre": "Fantasy",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-030-Y",
+      "directorGoal": "K-F40-030-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 31,
+      "title": "Dänische Delikatessen",
+      "year": 2003,
+      "genre": "Komödie",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-031-Y",
+      "directorGoal": "K-F40-031-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 32,
+      "title": "Four Lions",
+      "year": 2010,
+      "genre": "Komödie",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-032-Y",
+      "directorGoal": "K-F40-032-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 33,
+      "title": "Die Zeit nach Mitternacht",
+      "year": 1985,
+      "genre": "Komödie",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-033-Y",
+      "directorGoal": "K-F40-033-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 34,
+      "title": "Black Dynamite",
+      "year": 2009,
+      "genre": "Komödie",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-034-Y",
+      "directorGoal": "K-F40-034-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 35,
+      "title": "Adams Äpfel",
+      "year": 2005,
+      "genre": "Komödie",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-035-Y",
+      "directorGoal": "K-F40-035-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 36,
+      "title": "Ruby Sparks – Meine fabelhafte Freundin",
+      "year": 2012,
+      "genre": "Rom-Com",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-036-Y",
+      "directorGoal": "K-F40-036-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 37,
+      "title": "Miss Pettigrews großer Tag",
+      "year": 2008,
+      "genre": "Rom-Com",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-037-Y",
+      "directorGoal": "K-F40-037-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 38,
+      "title": "Ariane – Liebe am Nachmittag",
+      "year": 1957,
+      "genre": "Rom-Com",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-038-Y",
+      "directorGoal": "K-F40-038-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 39,
+      "title": "Wie schreibt man Liebe?",
+      "year": 2014,
+      "genre": "Rom-Com",
+      "familiarity": 4,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-039-Y",
+      "directorGoal": "K-F40-039-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 40,
+      "title": "The Big Sick",
+      "year": 2017,
+      "genre": "Rom-Com",
+      "familiarity": 3,
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F40-040-Y",
+      "directorGoal": "K-F40-040-D",
+      "goals": 8,
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    }
+  ],
+  "warnings": [],
+  "checks": {
+    "fieldTypes": true,
+    "ids": true,
+    "contentCoverage": true,
+    "yearDirectorCoverage": true,
+    "sourceReferences": true,
+    "existingVariantReferences": true,
+    "fourAnswers": true,
+    "feedbackPositionIndependent": true,
+    "csvRereadExact": true,
+    "baselineCsvUnchanged": true
+  },
+  "outputHashes": [
+    {
+      "path": "Filmfragen_40_Filme_320_Fragen.csv",
+      "sha256": "89ecbebcba36b214edd642418e4af34ca565b72cf55254937bd4513e6dafad42"
+    },
+    {
+      "path": "Filmdaten.json",
+      "sha256": "251de126f193f0b2235065b92fcbe15cac0ae5b486fcc5cdbee6ec32541c31a7"
+    },
+    {
+      "path": "Quellennachweis.json",
+      "sha256": "0e6dafae97741b0694f1225a50701eed6c15d471bc4fa08016004fb014ec1f64"
+    },
+    {
+      "path": "Fragenlesefassung.md",
+      "sha256": "8079fd699fd060ee4f073ebd834d1780d0b058b73be2e7624c501b8bfbc81511"
+    }
+  ]
+}

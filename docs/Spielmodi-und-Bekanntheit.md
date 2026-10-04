@@ -1,5 +1,11 @@
 # Spielmodi und Filmbekanntheit
 
+## Aktuelle Abdeckung und Kurvenprüfung – 04.10.2026
+
+Der aktuelle Genrepool umfasst **545 Filme, 4.677 Filmfragen und 4.197 eindeutige Filmziele**, verteilt auf 84 Film-Ikonen, 254 bekannte Filme, 166 Kennerfilme und 41 Entdeckungen. Alle 545 Werke besitzen Inhalte auf Leicht, Mittel und Schwer. Abenteuer (16 Filme) und Thriller (22) haben den kleinsten Bestand; Action und Rom-Com haben keine Entdeckungen, Fantasy eine und Komödie zwei. Feste Freischaltanker sind erreichbar, bleiben aber teilweise auf sehr kleine frühere Bestände begrenzt. Mengen, Grenzen und Vorschläge: [Filmabdeckung und Lernkurven](Filmabdeckung-2026-10-04.md), [vollständiger Nachweis](Filmabdeckung-2026-10-04.json). Keine Inhalts- oder Regeländerung durch diese Prüfung.
+
+Der Gesamtkatalog umfasst inzwischen **6.277 Fragen und 5.734 Ziele** einschließlich 200 Preisfragen und 1.400 Schauspielerfragen. Ziele können bereichsübergreifend geteilt sein. Die 656 eingeordneten Filmfassungen einschließlich Preisträgern sind vom 545-Filme-Genrepool zu unterscheiden. Ältere Zahlen und Einbindungsschritte weiter unten bleiben historisch erhalten. Seltene Filme gehören zur Bekanntheitsgruppe 4; das ist keine zusätzliche Experte-Schwierigkeit für Filmfragen.
+
 ## Gruppen und neue Zeitmodi – 03.10.2026
 
 Lernen enthält Filmreise/Freies Spiel/Fehlertraining; Auf Zeit enthält 10 Fragen/Fehlerfrei/Zeitkonto. Duell bildet eine eigene Gruppe. Standardmix: offizielle Pakete aller drei Bereiche, alle Filmgenres/-gruppen, 3 leicht/4 mittel/3 schwer je Zehnerblock, ohne Experte und eigene Importe. Eigene Auswahl bleibt getrennt und unterstützt Experte. Letzte Variante je Gruppe gespeichert. Zeiten, Endloszyklen und Ranglisten: [Rekordmodi und Zeitranglisten](Rekordmodi-und-Zeitranglisten.md). Lokal umgesetzt, noch nicht veröffentlicht.

@@ -1,0 +1,505 @@
+{
+  "date": "2026-10-04",
+  "films": [
+    {
+      "rank": 1,
+      "title": "Fluch der Karibik",
+      "year": 2003,
+      "originalTitle": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "genre": "Abenteuer",
+      "familiarity": 1,
+      "reason": "Piratengeschichte als bekannter Einstieg; klar unterscheidbare Figuren, Gegenstände und Wendungen.",
+      "source": "https://www.filmdienst.de/film/details/520913/fluch-der-karibik",
+      "additionalSources": [],
+      "existingMetadata": [
+        "Pirates of the Caribbean: The Curse of the Black Pearl|2003"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Die Mumie",
+      "year": 1999,
+      "originalTitle": "The Mummy",
+      "genre": "Abenteuer",
+      "familiarity": 2,
+      "reason": "Archäologie und Expedition als Einstieg; ausdrücklich die Fassung von Stephen Sommers.",
+      "source": "https://www.filmdienst.de/film/details/510801/die-mumie-1999",
+      "additionalSources": [],
+      "existingMetadata": [
+        "The Mummy|1999"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Uncharted",
+      "year": 2022,
+      "originalTitle": "Uncharted",
+      "genre": "Abenteuer",
+      "familiarity": 2,
+      "reason": "Neuere Schatzsuche; verbindet bekannte Figuren mit einer klaren Abfolge von Rätseln und Orten.",
+      "source": "https://www.filmdienst.de/film/details/618379/uncharted",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 4,
+      "title": "20.000 Meilen unter dem Meer",
+      "year": 1954,
+      "originalTitle": "20,000 Leagues Under the Sea",
+      "genre": "Abenteuer",
+      "familiarity": 2,
+      "reason": "Klassische Seereise und Jules Verne; Zugang zu älterem Abenteuerkino.",
+      "source": "https://www.filmdienst.de/film/details/38246/20000-meilen-unter-dem-meer-1954",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 5,
+      "title": "Cast Away – Verschollen",
+      "year": 2000,
+      "originalTitle": "Cast Away",
+      "genre": "Abenteuer",
+      "familiarity": 1,
+      "reason": "Bekannter Überlebensstoff mit wenigen Figuren; Einstieg über Isolation und Überlebensentscheidungen.",
+      "source": "https://www.filmdienst.de/film/details/514225/cast-away-verschollen",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 6,
+      "title": "Master and Commander – Bis ans Ende der Welt",
+      "year": 2003,
+      "originalTitle": "Master and Commander: The Far Side of the World",
+      "genre": "Abenteuer",
+      "familiarity": 3,
+      "reason": "Historisches Seeabenteuer; später Navigation, Rollen an Bord und Konflikte zwischen Auftrag und Verantwortung.",
+      "source": "https://www.filmdienst.de/film/details/521491/master-and-commander-bis-ans-ende-der-welt",
+      "additionalSources": [],
+      "existingMetadata": [
+        "Master and Commander: The Far Side of the World|2003"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Die Reise zum Mittelpunkt der Erde",
+      "year": 1959,
+      "originalTitle": "Journey to the Center of the Earth",
+      "genre": "Abenteuer",
+      "familiarity": 3,
+      "reason": "Expeditionskino und Literaturadaption; die ältere Fassung ergänzt Uncharted und Die Mumie.",
+      "source": "https://www.filmdienst.de/film/details/9699/die-reise-zum-mittelpunkt-der-erde-1959",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 8,
+      "title": "In 80 Tagen um die Welt",
+      "year": 1956,
+      "originalTitle": "Around the World in 80 Days",
+      "genre": "Abenteuer",
+      "familiarity": 3,
+      "reason": "Reiseroute und Wettlauf gegen die Zeit; klarer Stoff für aufeinander aufbauende Fragen.",
+      "source": "https://www.filmdienst.de/film/details/21238/in-80-tagen-um-die-welt-1956",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 9,
+      "title": "Abenteuer in Rio",
+      "year": 1964,
+      "originalTitle": "L'homme de Rio",
+      "genre": "Abenteuer",
+      "familiarity": 3,
+      "reason": "Französisches Abenteuerkino mit komischen Elementen; erweitert die bisher starke US-Prägung.",
+      "source": "https://www.filmdienst.de/film/details/7416/abenteuer-in-rio",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 10,
+      "title": "Die Abenteurer",
+      "year": 1967,
+      "originalTitle": "Les aventuriers",
+      "genre": "Abenteuer",
+      "familiarity": 4,
+      "reason": "Selteneres französisches Schatzsucher- und Freundschaftskino für die Entdeckungsstufe.",
+      "source": "https://www.filmdienst.de/film/details/7357/die-abenteurer",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 11,
+      "title": "Basic Instinct",
+      "year": 1992,
+      "originalTitle": "Basic Instinct",
+      "genre": "Thriller",
+      "familiarity": 1,
+      "reason": "Bekannter Bezugspunkt des Erotikthrillers; Einstieg über Ermittler und Verdächtige, Vertiefung über Indizien.",
+      "source": "https://www.filmdienst.de/film/details/46681/basic-instinct",
+      "additionalSources": [],
+      "existingMetadata": [
+        "Basic Instinct|1992"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Shutter Island",
+      "year": 2010,
+      "originalTitle": "Shutter Island",
+      "genre": "Thriller",
+      "familiarity": 2,
+      "reason": "Psychothriller als bekannter Einstieg; Perspektive und Wahrnehmung erlauben weitere Stufen.",
+      "source": "https://www.filmdienst.de/film/details/534059/shutter-island",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 13,
+      "title": "The Game",
+      "year": 1997,
+      "originalTitle": "The Game",
+      "genre": "Thriller",
+      "familiarity": 2,
+      "reason": "Paranoia und Manipulation; gut als Übergang von Handlungserkennung zu Rückschlüssen geeignet.",
+      "source": "https://www.filmdienst.de/film/details/507454/the-game",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 14,
+      "title": "Nightcrawler – Jede Nacht hat ihren Preis",
+      "year": 2014,
+      "originalTitle": "Nightcrawler",
+      "genre": "Thriller",
+      "familiarity": 3,
+      "reason": "Medien und moralische Grenzüberschreitung; ergänzt psychologische Spannung ohne klassischen Ermittler.",
+      "source": "https://www.filmdienst.de/film/details/544687/nightcrawler-jede-nacht-hat-ihren-preis",
+      "additionalSources": [],
+      "existingMetadata": [
+        "Nightcrawler|2014"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Der Dialog",
+      "year": 1974,
+      "originalTitle": "The Conversation",
+      "genre": "Thriller",
+      "familiarity": 3,
+      "reason": "Abhör- und Paranoiakino; Hörverständnis, Perspektive und moralische Verantwortung bieten Vertiefungen.",
+      "source": "https://www.filmdienst.de/film/details/22987/der-dialog",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 16,
+      "title": "Blow Out – Der Tod löscht alle Spuren",
+      "year": 1981,
+      "originalTitle": "Blow Out",
+      "genre": "Thriller",
+      "familiarity": 3,
+      "reason": "Tonaufnahme als Beweis; sinnvoller Vergleich mit Der Dialog, bei getrennten Wissenszielen.",
+      "source": "https://www.filmdienst.de/film/details/26450/blow-out-der-tod-loscht-alle-spuren",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 17,
+      "title": "Parasite",
+      "year": 2019,
+      "originalTitle": "Parasite",
+      "genre": "Thriller",
+      "familiarity": 2,
+      "reason": "Bekannter südkoreanischer Zugang; Klassenkonflikt und zunehmende Bedrohung erweitern Herkunft und Erzählweise.",
+      "source": "https://www.criterion.com/films/30619-parasite",
+      "additionalSources": [],
+      "existingMetadata": [
+        "Gisaengchung|2019",
+        "Parasite|2019"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Atemlos vor Angst",
+      "year": 1977,
+      "originalTitle": "Sorcerer",
+      "genre": "Thriller",
+      "familiarity": 4,
+      "reason": "Physische Spannung und gefährlicher Transport; seltener Titel mit Verbindung zu Lohn der Angst.",
+      "source": "https://www.filmdienst.de/film/details/47211/atemlos-vor-angst",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 19,
+      "title": "Memories of Murder",
+      "year": 2003,
+      "originalTitle": "Memories of Murder",
+      "genre": "Thriller",
+      "familiarity": 3,
+      "reason": "Südkoreanischer Ermittlungsfilm; unterschiedliche Ermittlungsansätze und Unsicherheit als Vertiefung.",
+      "source": "https://www.criterion.com/films/31458-memories-of-murder",
+      "additionalSources": [],
+      "existingMetadata": [
+        "Memories of Murder|2003"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Kleine Morde unter Freunden",
+      "year": 1994,
+      "originalTitle": "Shallow Grave",
+      "genre": "Thriller",
+      "familiarity": 4,
+      "reason": "Schwarzer Humor, Geldfund und Misstrauen; stärkerer Entdeckungsbaustein außerhalb des US-Kinos.",
+      "source": "https://www.filmdienst.de/film/details/66051/kleine-morde-unter-freunden",
+      "additionalSources": [
+        "https://www.criterion.com/films/27981"
+      ],
+      "existingMetadata": []
+    },
+    {
+      "rank": 21,
+      "title": "Free Fire",
+      "year": 2016,
+      "originalTitle": "Free Fire",
+      "genre": "Action",
+      "familiarity": 4,
+      "reason": "Seltener britischer Ensemble-Actionfilm; überschaubarer Schauplatz und wechselnde Allianzen.",
+      "source": "https://www.filmdienst.de/film/details/549476/free-fire",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 22,
+      "title": "The Way of the Gun",
+      "year": 2000,
+      "originalTitle": "The Way of the Gun",
+      "genre": "Action",
+      "familiarity": 4,
+      "reason": "Entführung und taktische Verfolgung; erweitert Action um einen Gangsterstoff.",
+      "source": "https://www.filmdienst.de/film/details/514362/way-of-the-gun",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 23,
+      "title": "Bunraku",
+      "year": 2010,
+      "originalTitle": "Bunraku",
+      "genre": "Action",
+      "familiarity": 4,
+      "reason": "Stilisierte Action mit Samurai- und Westernmotiven; eigener visueller Bezugspunkt für Entdeckungen.",
+      "source": "https://www.filmdienst.de/film/details/538787/bunraku",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 24,
+      "title": "Surviving the Game",
+      "year": 1994,
+      "originalTitle": "Surviving the Game",
+      "genre": "Action",
+      "familiarity": 4,
+      "reason": "Menschenjagd als klarer Ausgangspunkt; seltenere Genrevariante mit einem Überlebenskonflikt.",
+      "source": "https://www.filmdienst.de/film/details/64863/surviving-the-game",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 25,
+      "title": "Shoot ’Em Up",
+      "year": 2007,
+      "originalTitle": "Shoot 'Em Up",
+      "genre": "Action",
+      "familiarity": 3,
+      "reason": "Überzeichnete Action als Brücke zwischen bekannteren Genreformen und den selteneren Kandidaten.",
+      "source": "https://www.filmdienst.de/film/details/529628/shoot-em-up",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 26,
+      "title": "Excalibur",
+      "year": 1981,
+      "originalTitle": "Excalibur",
+      "genre": "Fantasy",
+      "familiarity": 3,
+      "reason": "Artussage, Magie und Ritterwelt; Verbindung zwischen bekannter Sage und älterem Fantasykino.",
+      "source": "https://www.filmdienst.de/film/details/24547/excalibur",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 27,
+      "title": "Die Abenteuer des Baron Münchhausen",
+      "year": 1988,
+      "originalTitle": "The Adventures of Baron Munchausen",
+      "genre": "Fantasy",
+      "familiarity": 3,
+      "reason": "Erzählfantasie und unzuverlässiger Erzähler; erweitert Fantasy jenseits großer Franchise-Reihen.",
+      "source": "https://www.filmdienst.de/film/details/3403/die-abenteuer-des-baron-munchhausen",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 28,
+      "title": "Krull",
+      "year": 1983,
+      "originalTitle": "Krull",
+      "genre": "Fantasy",
+      "familiarity": 4,
+      "reason": "Weniger bekannter Mix aus Fantasy und Science-Fiction; zentrale Quest und besondere Waffe.",
+      "source": "https://www.filmdienst.de/film/details/27987/krull",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 29,
+      "title": "Dungeons & Dragons: Ehre unter Dieben",
+      "year": 2023,
+      "originalTitle": "Dungeons & Dragons: Honor Among Thieves",
+      "genre": "Fantasy",
+      "familiarity": 2,
+      "reason": "Neuerer Einstieg mit Gruppe, Magie und Quest; verbessert zugleich die schwache Abdeckung der 2020er.",
+      "source": "https://www.filmdienst.de/film/details/620553/dungeons-dragons-ehre-unter-dieben",
+      "additionalSources": [
+        "https://www.paramountpictures.com/movies/dungeons-&-dragons-honor-among-thieves"
+      ],
+      "existingMetadata": []
+    },
+    {
+      "rank": 30,
+      "title": "Solomon Kane",
+      "year": 2009,
+      "originalTitle": "Solomon Kane",
+      "genre": "Fantasy",
+      "familiarity": 4,
+      "reason": "Dunkle Fantasy und Erlösung; zusätzlicher seltener Stoff mit klarer Hauptfigur.",
+      "source": "https://www.filmdienst.de/film/details/536362/solomon-kane",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 31,
+      "title": "Dänische Delikatessen",
+      "year": 2003,
+      "originalTitle": "De grønne slagtere",
+      "genre": "Komödie",
+      "familiarity": 4,
+      "reason": "Dänischer schwarzer Humor; eigenständiger Entdeckungsfilm statt weiterer US-Mainstreamkomödie.",
+      "source": "https://www.filmdienst.de/film/details/522827/danische-delikatessen",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 32,
+      "title": "Four Lions",
+      "year": 2010,
+      "originalTitle": "Four Lions",
+      "genre": "Komödie",
+      "familiarity": 4,
+      "reason": "Britische Satire; erweitert die komischen Formen um Farce und politisch geprägten schwarzen Humor.",
+      "source": "https://www.filmdienst.de/film/details/537268/four-lions",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 33,
+      "title": "Die Zeit nach Mitternacht",
+      "year": 1985,
+      "originalTitle": "After Hours",
+      "genre": "Komödie",
+      "familiarity": 4,
+      "reason": "Nächtliche Katastrophenkette; weniger bekannter Scorsese-Film mit gut nachvollziehbarer Figurenfolge.",
+      "source": "https://www.filmdienst.de/film/details/1600/die-zeit-nach-mitternacht",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 34,
+      "title": "Black Dynamite",
+      "year": 2009,
+      "originalTitle": "Black Dynamite",
+      "genre": "Komödie",
+      "familiarity": 4,
+      "reason": "Blaxploitation-Parodie; eröffnet Fragen zu Genremotiven und deren komischer Brechung.",
+      "source": "https://www.filmdienst.de/film/details/535599/black-dynamite",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 35,
+      "title": "Adams Äpfel",
+      "year": 2005,
+      "originalTitle": "Adams æbler",
+      "genre": "Komödie",
+      "familiarity": 3,
+      "reason": "Dänische schwarze Komödie als Brücke zu Dänische Delikatessen; Glauben und Weltbilder als Vertiefung.",
+      "source": "https://www.filmdienst.de/film/details/527200/adams-apfel-gott-ist-auf-meiner-seite",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 36,
+      "title": "Ruby Sparks – Meine fabelhafte Freundin",
+      "year": 2012,
+      "originalTitle": "Ruby Sparks",
+      "genre": "Rom-Com",
+      "familiarity": 4,
+      "reason": "Romantische Beziehung mit fantastischer Prämisse; verbindet leichte Ausgangsfragen mit Fragen zu Selbstbestimmung.",
+      "source": "https://www.filmdienst.de/film/details/540856/ruby-sparks-meine-fabelhafte-freundin",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 37,
+      "title": "Miss Pettigrews großer Tag",
+      "year": 2008,
+      "originalTitle": "Miss Pettigrew Lives for a Day",
+      "genre": "Rom-Com",
+      "familiarity": 4,
+      "reason": "Romantische Gesellschaftskomödie; mehrere Beziehungen und unterschiedliche soziale Rollen.",
+      "source": "https://www.filmdienst.de/film/details/531398/miss-pettigrews-grosser-tag",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 38,
+      "title": "Ariane – Liebe am Nachmittag",
+      "year": 1957,
+      "originalTitle": "Love in the Afternoon",
+      "genre": "Rom-Com",
+      "familiarity": 3,
+      "reason": "Klassische romantische Komödie; älteres Kino als Brücke zu den selteneren modernen Titeln.",
+      "source": "https://www.filmdienst.de/film/details/47113/ariane-liebe-am-nachmittag",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 39,
+      "title": "Wie schreibt man Liebe?",
+      "year": 2014,
+      "originalTitle": "The Rewrite",
+      "genre": "Rom-Com",
+      "familiarity": 4,
+      "reason": "Wenig bekannter Titel mit bekanntem Hauptdarsteller; Beziehung, Lebenskrise und zweite Chancen.",
+      "source": "https://www.filmdienst.de/film/details/544686/wie-schreibt-man-liebe",
+      "additionalSources": [],
+      "existingMetadata": []
+    },
+    {
+      "rank": 40,
+      "title": "The Big Sick",
+      "year": 2017,
+      "originalTitle": "The Big Sick",
+      "genre": "Rom-Com",
+      "familiarity": 3,
+      "reason": "Neuere Rom-Com mit kulturellem und familiärem Konflikt; klarere Genrezuordnung als manche reine Romanze.",
+      "source": "https://www.filmdienst.de/film/details/550204/the-big-sick",
+      "additionalSources": [],
+      "existingMetadata": []
+    }
+  ],
+  "schema_version": "wissensquiz-film-auswahl-v1"
+}
