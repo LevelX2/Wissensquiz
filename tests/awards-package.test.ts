@@ -18,6 +18,8 @@ import { validateBackup } from "../src/storage";
 import { decodeCloudState, encodeCloudState } from "../src/cloudCodec";
 import sources from "../KI-Wissen-Wissensquiz/01 Rohquellen/Preistraeger_Quellennachweis.json";
 import films from "../KI-Wissen-Wissensquiz/01 Rohquellen/Preistraeger_Filmdaten.json";
+import revision from "../docs/Bestandsredaktion-2026-10-04/Block-01.json";
+import { assertEditorialSource } from "./editorialSource";
 
 // Keep this regression at the award package's original catalog stage.
 const contents = packages
@@ -42,7 +44,13 @@ it("importiert 200 belegte Preisfragen mit vier gleich großen Stufen und vollst
   const raw = readFileSync(
     `KI-Wissen-Wissensquiz/01 Rohquellen/${latest.filename}`,
   );
-  expect(Buffer.from(latest.text)).toEqual(raw);
+  expect(
+    assertEditorialSource(
+      latest.text,
+      raw.toString("utf8"),
+      "public/preistraeger-fragen.csv",
+    ).changes,
+  ).toEqual(["PRZ-202610-P01-M-004", "PRZ-202610-P01-E-004"]);
   expect(new Set(questions.map((q) => q.knowledgeId)).size).toBe(200);
   expect(new Set(questions.map(filmIdentity)).size).toBe(135);
   for (const difficulty of ["leicht", "mittel", "schwer", "experte"])
@@ -62,7 +70,12 @@ it("importiert 200 belegte Preisfragen mit vier gleich großen Stufen und vollst
     expect(q.answers.find((a) => a.id === q.correctId)!.text).toBe(
       proof.correct_answer,
     );
-    expect(q.sources).toEqual(proof.sources);
+    const edited = revision.changes.find((entry) => entry.id === q.id);
+    expect(q.sources).toEqual(
+      edited
+        ? edited.checkedSources.map((source) => source.url)
+        : proof.sources,
+    );
     expect(
       q.sources.some((url) =>
         /oscars\.org|festival-cannes\.com|labiennale\.org/.test(url),

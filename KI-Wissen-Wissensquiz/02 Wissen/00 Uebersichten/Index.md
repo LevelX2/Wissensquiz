@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Bestandsredaktion, Block 1: 21 Fragen mit Lösungsschutz, Darstellerkontext und konkreten Vertiefungen](../../../docs/Fragenkorrekturen.md#bestandsredaktion-block-1--04102026)
+- [Block 1: Vorher/Nachher, Quellen und 339 erfolgreiche Tests](../../../docs/Bestandsredaktion-2026-10-04/Block-01.json)
+
 - [Bestehende Fragen und Deep Dives: Lösungshinweise, wiederkehrende Narrative und Überarbeitungsprioritäten – 04.10.2026](../../../docs/Erklaerungstiefe.md#bestandsprüfung-am-04102026)
 - [Prüfnachweis: 6.277 Fragen gesichtet, 164 redaktionell gelesen](../../../docs/Bestandsredaktion-Pruefung-2026-10-04.json)
 

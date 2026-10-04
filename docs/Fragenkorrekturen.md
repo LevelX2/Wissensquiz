@@ -2,6 +2,24 @@
 
 Die drei Korrekturen sind seit Sites-Version 52 (04.10.2026) veröffentlicht, auch im öffentlichen Katalog für neue Duelle. Laufende Duellsnapshots bleiben erhalten. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-52-gesamter-main-stand-mit-sichtbarem-lernfortschritt).
 
+## Bestandsredaktion, Block 1 – 04.10.2026
+
+**21 bestehende Fragen überarbeitet:** 17 öffentliche CSV-Zeilen und vier bereits vorhandene Schauspieler-Anzeigetexte. Alle zehn im Ausgangsaudit bestätigten starken Titel-/Namenshinweise und die schwache Thelma-&-Louise-Auswahl behoben. Die sechs konkret benannten schwachen Vertiefungen ersetzt; passende Varianten und Rollenfragen im selben Block mitgezogen. [Vollständiger Vorher-/Nachher-Nachweis mit Quellen](Bestandsredaktion-2026-10-04/Block-01.json).
+
+| Bereich | Änderung |
+| --- | --- |
+| The Rock, Goldfinger, John Wick, Bridget Jones, Der Gendarm von Saint Tropez | Gesuchte Namen/Orte aus der Filmkennzeichnung entfernt; passende Film-, Jahres- oder Handlungshinweise erhalten. Vier Varianten teilen weiterhin ihre bisherigen Wissensziele. Bridget Jones als vollständigen Namen sauber mit Renée Zellweger verbunden. |
+| Der mit dem Wolf tanzt, Die Fliege | Wolf-Frage aus der Gegenrichtung gestellt: Dunbar benennt Two Socks; passende Tierzuordnung bleibt als Variante. Bei der Fliege identifizieren Regie und Jahr den Film. Konkrete Begegnung beziehungsweise Teleportationsfolge erklärt. |
+| Rosa Parks, Chaplin, Der Prinz aus Zamunda, Thelma & Louise | Vorhandene Personen-Anzeige redigiert; Lösung nicht durch Film-/Personentitel vorweggenommen. Thelma-Frage fragt nach Geena Davis’ Figur, ohne zwei der vier Optionen schon durch „Titelheldinnen“ auszuschließen. |
+| Gefährliche Brandung, Only Lovers Left Alive, Tanz der Teufel, Fearless | Beobachtungen, Alltag, gescheiterte Flucht und Figurenentwicklung anhand konkreter Handlungsabschnitte erzählt. Rollen werden mit passenden Darstellern verbunden. |
+| Ben Hur, Barry Lyndon | Ausgezeichnete Rolle beziehungsweise Kameraarbeit konkret erklärt. Als falsche Antworten echte Mitnominierte desselben Oscarjahrs eingesetzt. Preisjahr und Filmjahr bleiben getrennt. |
+
+Darsteller stehen neben vollständigen Figurennamen, wo sie das Verständnis unterstützen. Ein gesuchter Schauspieler bleibt vor der Antwort verborgen und wird erst in Lösung oder Vertiefung genannt. Eine Darstellerliste ersetzt keine Handlungsgeschichte. Sechs betroffene Einträge des bestehenden Besetzungsnachweises versionsgenau nachgeführt; drei nun überflüssige Zusatztexte sind leer, weil die Namen bereits im Haupttext stehen.
+
+**Grenzen:** Der vollständige App-Aufbau bleibt bei 6.277 Fragen, 5.734 Wissenszielen und 543 Varianten. IDs und Verweise erhalten; Rohquellen unverändert. Bestehende importierte Fragen und laufende Rundensnapshots werden vom vorhandenen Import nicht überschrieben. Vier passende Personen-Anzeigen greifen nach einem App-Update auch bei bestehenden Rohfragen. Für die CSV-Redaktion wurde keine Migration, Rückwärtsanpassung oder neue Sonderlogik eingebaut. Der geänderte Build und Katalog sind lokal geprüft und noch nicht veröffentlicht.
+
+**Weiter offen:** 198 der 200 Preisfragen wurden in diesem Block noch nicht redigiert; das erneute Screening markiert dort 77 Texte mit einem wörtlich wiederkehrenden Satz über mindestens zehn verschiedene Entitäten. Das ist ein Suchsignal, keine Fehlerquote. Danach folgen generierte Jahres-/Regietexte sowie die selektive Überarbeitung älterer Schauspieler- und Filmtexte. Die Prüfung vom selben Tag bleibt als unveränderter Ausgangsnachweis erhalten.
+
 ## Redaktionelle Folgerungen
 
 Im persönlichen Skill `wissensquiz-fragen-redigieren` sind beide Fehlerfälle ausdrücklich verankert: Fragetext, Titel und Antwortoptionen gemeinsam auf verratene Lösungen beziehungsweise eindeutigen Ausschluss durch die Formulierung prüfen. Eine leichte Frage benötigt weiterhin eigenes Wissen.

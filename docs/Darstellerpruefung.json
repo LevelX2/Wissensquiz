@@ -2848,15 +2848,17 @@
       "decision": "ergänzt"
     },
     "ACT-L-013": {
-      "version": "csv-8ba8b0b4",
+      "version": "csv-b9b1a7f7",
       "film": "The Rock|1996",
-      "content": "66d88053",
+      "content": "b42dd35b",
       "roles": [
         "General Francis Hummel: Ed Harris",
+        "Stanley Goodspeed: Nicolas Cage",
         "John Mason: Sean Connery"
       ],
-      "text": "General Francis Hummel wird von Ed Harris gespielt. John Mason wird von Sean Connery gespielt.",
-      "decision": "ergänzt"
+      "text": "",
+      "decision": "Darsteller im überarbeiteten Haupttext genannt",
+      "reviewedAt": "2026-10-04"
     },
     "ACT-L-014": {
       "version": "csv-fa76f557",
@@ -3489,15 +3491,16 @@
       "decision": "ergänzt"
     },
     "ACT-L-033": {
-      "version": "csv-bdabb791",
+      "version": "csv-98f30afc",
       "film": "Goldfinger|1964",
-      "content": "f7db63aa",
+      "content": "27759b31",
       "roles": [
         "James Bond: Sean Connery",
         "Auric Goldfinger: Gert Fröbe"
       ],
-      "text": "Auric Goldfinger wird von Gert Fröbe gespielt.",
-      "decision": "ergänzt"
+      "text": "",
+      "decision": "Darsteller im überarbeiteten Haupttext genannt",
+      "reviewedAt": "2026-10-04"
     },
     "ACT-L-034": {
       "version": "csv-c20e3f8",
@@ -3557,15 +3560,16 @@
       "decision": "ergänzt"
     },
     "ACT-L-033-V1": {
-      "version": "csv-c8f2aa8e",
+      "version": "csv-2c37759a",
       "film": "Goldfinger|1964",
-      "content": "d03f31ee",
+      "content": "49d6d0a4",
       "roles": [
         "James Bond: Sean Connery",
         "Auric Goldfinger: Gert Fröbe"
       ],
-      "text": "Auric Goldfinger wird von Gert Fröbe gespielt.",
-      "decision": "ergänzt"
+      "text": "",
+      "decision": "Darsteller im überarbeiteten Haupttext genannt",
+      "reviewedAt": "2026-10-04"
     },
     "ACT-L-034-V1": {
       "version": "csv-a0ada1d9",
@@ -4148,14 +4152,16 @@
       "decision": "ergänzt"
     },
     "ACT-L-049": {
-      "version": "csv-31ed615a",
+      "version": "csv-3e11795b",
       "film": "John Wick|2014",
-      "content": "94c4dd30",
+      "content": "29bbe403",
       "roles": [
-        "John Wick: Keanu Reeves"
+        "John Wick: Keanu Reeves",
+        "Viggo Tarasov: Michael Nyqvist"
       ],
       "text": "",
-      "decision": "bereits genannt"
+      "decision": "Darsteller im überarbeiteten Haupttext genannt",
+      "reviewedAt": "2026-10-04"
     },
     "ACT-L-050": {
       "version": "csv-8565df66",
@@ -4212,14 +4218,16 @@
       "decision": "ergänzt"
     },
     "ACT-L-049-V1": {
-      "version": "csv-f9797097",
+      "version": "csv-1bf948fc",
       "film": "John Wick|2014",
-      "content": "b62c18b2",
+      "content": "b60ef5bb",
       "roles": [
-        "John Wick: Keanu Reeves"
+        "John Wick: Keanu Reeves",
+        "Viggo Tarasov: Michael Nyqvist"
       ],
       "text": "",
-      "decision": "bereits genannt"
+      "decision": "Darsteller im überarbeiteten Haupttext genannt",
+      "reviewedAt": "2026-10-04"
     },
     "ACT-L-050-V1": {
       "version": "csv-2c0ffc2d",
@@ -5562,12 +5570,16 @@
       "decision": "ergänzt"
     },
     "HOR-S-033": {
-      "version": "csv-e976cef2",
+      "version": "csv-cd19ca7b",
       "film": "The Evil Dead|1981",
-      "content": "c1998cff",
-      "roles": [],
+      "content": "8943850",
+      "roles": [
+        "Ash: Bruce Campbell",
+        "Cheryl: Ellen Sandweiss"
+      ],
       "text": "",
-      "decision": "keine einzelne gespielte Figur im Mittelpunkt"
+      "decision": "Darsteller im überarbeiteten Haupttext genannt",
+      "reviewedAt": "2026-10-04"
     },
     "HOR-S-034": {
       "version": "csv-46d4d713",

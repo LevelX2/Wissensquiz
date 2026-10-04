@@ -9,6 +9,7 @@ import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { answer, complete, startRound } from "../src/engine";
 import { validateBackup } from "../src/storage";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/Komoedie_Ergaenzung_Filmdaten.json";
+import { assertEditorialSource } from "./editorialSource";
 
 const contents = packages.slice(0, 14).map((p) => ({
   filename: p.filename,
@@ -18,8 +19,13 @@ const hash = (value: string | Buffer) =>
   createHash("sha256").update(value).digest("hex");
 
 it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Filmdaten und Kategorien", () => {
-  expect(hash(readFileSync("public/komoedie-ergaenzung-fragen.csv"))).toBe(
-    "da0a3e4870e4a3f6611b91d50361d3f51d6ee26e2fa44cb1e85582aa29253c60",
+  assertEditorialSource(
+    readFileSync("public/komoedie-ergaenzung-fragen.csv", "utf8"),
+    readFileSync(
+      "KI-Wissen-Wissensquiz/01 Rohquellen/Komoedie_Ergaenzung_360_Fragen.csv",
+      "utf8",
+    ),
+    "public/komoedie-ergaenzung-fragen.csv",
   );
   expect(
     hash(
@@ -27,9 +33,7 @@ it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Film
         "KI-Wissen-Wissensquiz/01 Rohquellen/Komoedie_Ergaenzung_360_Fragen.csv",
       ),
     ),
-  ).toBe(
-    "3e267acea78956d1179207a644a31be5d6151cb230dc1272206177b5cf12a96d",
-  );
+  ).toBe("3e267acea78956d1179207a644a31be5d6151cb230dc1272206177b5cf12a96d");
   expect(
     hash(
       readFileSync(
@@ -85,7 +89,7 @@ it("bewahrt alle 3.257 bisherigen Fragen und ergänzt neue Einträge nur einmal"
   const old = emptyState();
   addPackages(old, contents.slice(0, 13));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "a6f48d30e15bb0f8a3951661b8931993d7fd87357340304ba1ea215d70879428",
+    "1fe122f0403a0d9dc24fc290af39865e3bab90a76cf43c246d025bb5be1927b3",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);

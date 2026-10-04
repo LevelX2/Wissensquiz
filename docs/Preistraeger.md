@@ -4,6 +4,8 @@
 
 Am 02.10.2026 auf Nutzerauftrag redaktionell erstellt, integriert und als Sites-Version 36 veröffentlicht. Neue Zusatzkategorie **Preisträger**, neben Classics und Arthouse, mit **je 50 Fragen für Leicht, Mittel, Schwer und Experte**. 200 neue Fragen und Wissensziele, keine Varianten. 100 Fragen im Oscar-Schwerpunkt, 50 zu Cannes und 50 zu Venedig; darunter Verbindungen zwischen den Veranstaltungen. Der Schwerpunkt umfasst historische Verleihungen von 1940 bis 2024, keine vollständige aktuelle Siegerchronik.
 
+04.10.2026 – **Erster Überarbeitungsblock:** Zwei Preisfragen zu Ben Hur und Barry Lyndon lokal redigiert, konkrete Rollen-/Produktionsgeschichte ergänzt und als Ablenker echte Mitnominierte desselben Oscarjahrs verwendet. Die übrigen 198 Preisfragen in diesem Block noch nicht überarbeitet. Rohquelle erhalten; diese zwei öffentlichen Datensätze weichen nun dokumentiert davon ab. [Nachweis und nächste Bereiche](Fragenkorrekturen.md#bestandsredaktion-block-1--04102026).
+
 ## Inhalt und Vertiefung
 
 Fünf wiederkehrende Fragesysteme: 45 Gewinnerfilme, 55 Schauspielpreise, 54 Filmhandwerk, 43 Preisverbindungen und drei Festivalgeschichte. Neben Jahresgewinnern geht es um konkrete Darstellungen, Musik, Kamera, Schnitt, Kostüme, Schreiben, geteilte Preise, Ensembles, Juryvorsitz und ungewöhnliche Preisverläufe. Die Schwierigkeitszuordnung ist redaktionell, nicht empirisch gemessen. Fachcredits und weniger präsente Preisverbindungen liegen überwiegend auf Schwer und Experte.
@@ -26,7 +28,7 @@ Die bisherige App hatte drei Schwierigkeiten. Für die gewünschten viermal 50 w
 
 Preisträger ergänzt Filmfragen und Schauspieler als eigenständiger Fragenbereich. Filmgenres und Classics/Arthouse begrenzen nur Filmfragen; die gewählten Bereiche bilden eine Vereinigung. Dasselbe Wissensziel zählt innerhalb einer Runde einmal. Das Paket kennzeichnet gezielt Preisfragen, nicht sämtliche bestehenden Fragen zu ausgezeichneten Filmen. Historische Classics-/Arthouse-Zuordnungen werden dadurch nicht erweitert. JSON- und kompakte Kontosicherungen erhalten vier Schwierigkeiten, die dritte Kategorie und Expertenrunden.
 
-Die neue CSV wird beim App-Start transaktional und idempotent ergänzt. Bisherige Fragen, IDs, Inhaltsversionen, Ereignisse, Runden, Einstellungen, Karriere- und Lernstände bleiben erhalten. Gesamtbestand veröffentlicht: **16 CSV-Pakete, 4.877 Fragen, 4.397 Wissensziele, 604 Film-/Reihenthemen und 656 eingeordnete Filme**; davon 837 schon zuvor generierte Filmfragen. Rohquelle und `public/preistraeger-fragen.csv` sind bytegleich und Bestandteil des Offline-Pakets.
+Die neue CSV wird beim App-Start transaktional und idempotent ergänzt. Bisherige Fragen, IDs, Inhaltsversionen, Ereignisse, Runden, Einstellungen, Karriere- und Lernstände bleiben erhalten. Gesamtbestand veröffentlicht: **16 CSV-Pakete, 4.877 Fragen, 4.397 Wissensziele, 604 Film-/Reihenthemen und 656 eingeordnete Filme**; davon 837 schon zuvor generierte Filmfragen. Beim ursprünglichen Import waren Rohquelle und `public/preistraeger-fragen.csv` bytegleich und Bestandteil des Offline-Pakets; die zwei späteren redaktionellen Abweichungen sind oben dokumentiert.
 
 [CSV-Rohquelle](../KI-Wissen-Wissensquiz/01%20Rohquellen/Preistraeger_200_Fragen.csv), [Importbericht](importbericht-preistraeger.json). Gemeinsam mit Filmkarriere und Duellen als Version 36 veröffentlicht; keine Main-Integration.
 

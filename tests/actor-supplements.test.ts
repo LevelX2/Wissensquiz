@@ -7,6 +7,7 @@ import { filmData } from "../src/filmFacts";
 import { validateBackup } from "../src/backupValidation";
 import { startRound, answer } from "../src/engine";
 import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
+import revision from "../docs/Bestandsredaktion-2026-10-04/Block-01.json";
 
 const contents = packages.map((p) => ({
   filename: p.filename,
@@ -54,7 +55,9 @@ for (const [code, file, count] of [
         );
       const display = actorPresentation(q)!;
       expect(display.films).toEqual(row.film_refs);
-      expect(display.text).toBe(row.additional_info);
+      const edited = revision.changes.find((entry) => entry.id === q.id);
+      if (edited) expect(display).toEqual(edited.after);
+      else expect(display.text).toBe(row.additional_info);
       if (row.actor_name_before_answer)
         expect(display.question).toContain(q.metadata.person_name);
       else expect(display.question).not.toContain(q.metadata.person_name);

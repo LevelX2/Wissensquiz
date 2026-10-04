@@ -8,6 +8,7 @@ import { emptyState } from "../src/model";
 import { answer, shuffle, startRound } from "../src/engine";
 import { read, update } from "../src/storage";
 import { withCategoryTags } from "../src/categories";
+import { assertEditorialSource } from "./editorialSource";
 
 const reportDir = process.env.WISSENSQUIZ_TEST_REPORT_DIR ?? "docs";
 mkdirSync(reportDir, { recursive: true });
@@ -120,30 +121,11 @@ it.each([
     const raw = readFileSync(
       `KI-Wissen-Wissensquiz/01 Rohquellen/${imported.report.filename}`,
     );
-    if (["scifi-ergaenzung", "komoedie", "komoedie-ergaenzung"].includes(path)) {
-      const original = importCsv(raw.toString("utf8")).questions;
-      const changes = imported.questions.filter(
-        (q, index) => JSON.stringify(q) !== JSON.stringify(original[index]),
-      );
-      expect(changes.map((q) => q.id)).toEqual([
-        path === "scifi-ergaenzung"
-          ? "SF-202609-P02-L-014"
-          : path === "komoedie"
-            ? "KOM-L-026-V1"
-            : "KOM-202609-P02-L-074",
-      ]);
-      expect(
-        changes[0].answers.find((a) => a.id === changes[0].correctId)?.text,
-      ).toBe(
-        path === "scifi-ergaenzung"
-          ? "Als wilde Tiere"
-          : path === "komoedie"
-            ? "Doug – der Bräutigam"
-            : "Friseur",
-      );
-    } else {
-      expect(readFileSync(`public/${path}-fragen.csv`)).toEqual(raw);
-    }
+    assertEditorialSource(
+      readFileSync(`public/${path}-fragen.csv`, "utf8"),
+      raw.toString("utf8"),
+      `public/${path}-fragen.csv`,
+    );
     for (const q of imported.questions) {
       const mixed = shuffle(q.answers, () => 0.4);
       expect(mixed.find((a) => a.id === q.correctId)?.text).toBe(
@@ -184,6 +166,14 @@ it.each([
 );
 
 it("importiert Action vollständig ohne Konflikte und erhält Lösungen, Feedback und Varianten", () => {
+  assertEditorialSource(
+    contents[1].text,
+    readFileSync(
+      `KI-Wissen-Wissensquiz/01 Rohquellen/${contents[1].filename}`,
+      "utf8",
+    ),
+    "public/action-fragen.csv",
+  );
   expect(action.report.accepted).toBe(180);
   expect(action.report.rejected).toBe(0);
   expect(action.report.duplicates).toBe(0);

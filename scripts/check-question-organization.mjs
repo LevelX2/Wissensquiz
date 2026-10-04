@@ -5,7 +5,10 @@ import { join } from "node:path";
 import { strict as assert } from "node:assert";
 
 // Reproducible inspection of public sources only; no personal browser data.
-const server = await createServer({ server: { middlewareMode: true } });
+const server = await createServer({
+  server: { middlewareMode: true },
+  optimizeDeps: { noDiscovery: true, entries: [] },
+});
 try {
   const { packages, addPackages } =
     await server.ssrLoadModule("/src/packages.ts");
@@ -13,6 +16,11 @@ try {
   const { encodeQuestionCatalog, decodeQuestionCatalog } =
     await server.ssrLoadModule("/src/catalogCodec.ts");
   const { validateBackup } = await server.ssrLoadModule("/src/storage.ts");
+  const { assertEditorialSource } = await server.ssrLoadModule(
+    "/tests/editorialSource.ts",
+  );
+  let editoriallyChangedRows = 0;
+  let byteIdenticalPackages = 0;
   const state = emptyState();
   const supplements = JSON.parse(
     await readFile("docs/Schauspieler-Ergaenzungen-Integration.json", "utf8"),
@@ -47,7 +55,13 @@ try {
         readFile(join("public", pkg.path.slice(1))),
         readFile(join("KI-Wissen-Wissensquiz/01 Rohquellen", pkg.filename)),
       ]);
-      assert(app.equals(original), `Quellabweichung: ${pkg.filename}`);
+      const checked = assertEditorialSource(
+        app.toString("utf8"),
+        original.toString("utf8"),
+        join("public", pkg.path.slice(1)).replaceAll("\\", "/"),
+      );
+      editoriallyChangedRows += checked.changes.length;
+      if (app.equals(original)) byteIdenticalPackages++;
       return { filename: pkg.filename, text: app.toString("utf8") };
     }),
   );
@@ -87,8 +101,8 @@ try {
       ).length,
     },
     checks: {
-      originalCsvSourcesByteIdentical:
-        packages.length - supplements.packages.length,
+      originalCsvSourcesByteIdentical: byteIdenticalPackages,
+      editoriallyChangedRowsVerified: editoriallyChangedRows,
       derivedActorPackagesSourceAndCsvHashesVerified:
         supplements.packages.length,
       rejectedImports: 0,

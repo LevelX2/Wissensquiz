@@ -9,6 +9,7 @@ import { pathQuestions } from "../src/learningPath";
 import { validateBackup } from "../src/storage";
 import { filmData } from "../src/filmFacts";
 import filmSource from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json";
+import { assertEditorialSource } from "./editorialSource";
 
 const packageIndex = packages.findIndex(
   (p) => p.filename === "Alle_Genres_120_Filme_960_Fragen.csv",
@@ -20,12 +21,15 @@ const contents = packages.slice(0, packageIndex + 1).map((pkg) => ({
   text: readFileSync(`public${pkg.path}`, "utf8"),
 }));
 
-it("übernimmt die gelieferte CSV bytegleich und importiert alle 960 Fragen", () => {
+it("erhält die Rohquelle, prüft dokumentierte Redaktion und importiert alle 960 Fragen", () => {
   expect(latest.filename).toBe("Alle_Genres_120_Filme_960_Fragen.csv");
   const raw = readFileSync(
     `KI-Wissen-Wissensquiz/01 Rohquellen/${latest.filename}`,
   );
-  expect(readFileSync(`public${latest.path}`)).toEqual(raw);
+  expect(
+    assertEditorialSource(text, raw.toString("utf8"), `public${latest.path}`)
+      .changes,
+  ).toEqual(["ACT-202610-P01-S-025"]);
   expect(createHash("sha256").update(raw).digest("hex")).toBe(
     "84d105796e4fc87f337eda9fd187c65673d48357458a788dbabcd3815dc7fbe1",
   );

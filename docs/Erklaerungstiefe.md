@@ -4,9 +4,17 @@
 
 „Etwas tiefer eintauchen“ soll über die kurze Lösung hinausgehen. Figuren, die in Frage, Lösung oder Vertiefung im Mittelpunkt stehen, werden mit ihren Darstellern verbunden. Ergänzungen bleiben knapp und beziehen sich auf den jeweiligen Film und das Erscheinungsjahr. Reine Orts-, Technik-, Kreaturen- oder Regiefragen erhalten keine beliebige komplette Besetzungsliste.
 
+## Überarbeitung, Block 1 – 04.10.2026
+
+Nach der Bestandsdiagnose auf Nutzerauftrag 21 Fragen schrittweise redigiert: alle zehn bestätigten starken Lösungshinweise, die Thelma-&-Louise-Auswahl, sämtliche sechs konkret benannten Vertiefungsschwächen und passende Varianten. Darsteller neben vollständigen Figuren-/Rollennamen nennen, wenn dies zum Verständnis beiträgt; gesuchte Namen erst nach der Antwort. [Änderungen, Grenzen und nächste Bereiche](Fragenkorrekturen.md#bestandsredaktion-block-1--04102026), [Vorher/Nachher und tatsächlich gelesene Quellen](Bestandsredaktion-2026-10-04/Block-01.json).
+
+Beispiele: „Gefährliche Brandung“ führt von Surfboardwachs und Sommerüberfällen zur verdeckten Surfer-Ermittlung. „Die Fliege“ erzählt Selbstversuch, anfängliche Fehleinschätzung, Haaruntersuchung und Erkenntnis. „Barry Lyndon“ erläutert Kerzenlicht, Objektiv, Kameraumbau und Schärfenführung. Die Vertiefungen tragen damit mehr konkretes Wissen zur jeweiligen Frage bei. Die Figuren haben dabei passende Darstellerangaben.
+
+339 Tests, Produktionsbuild und vollständige Quellen-/Katalogprüfung erfolgreich. Unverändert 6.277 Fragen / 5.734 Ziele. Keine wörtliche Nennung der kompletten richtigen Antwort in der angezeigten Frage im mechanischen Nachtest; dies ersetzt keine vollständige manuelle Prüfung. Weitere Preis-, Jahres-, Regie- und ältere Film-/Personentexte offen. Nur lokal abgeschlossen; Veröffentlichung 52 enthält noch den Ausgangsstand.
+
 ## Bestandsprüfung am 04.10.2026
 
-**Status: gezielte Überarbeitung sinnvoll.** Vollständige automatische Sichtung der **6.277 bestehenden App-Fragen / 5.734 Wissensziele**, anschließend **164 Fragen samt Antworten und Hauptvertiefung redaktionell gelesen**. Die Auswahl deckt alle 19 Pakete, vorhandene Schwierigkeiten und generierte Jahr-/Regiefragen ab; zusätzlich wurden Verdachtsfälle gelesen. Aktuelle Schauspieler- und Regie-Anzeigetexte sowie Besetzungsergänzungen berücksichtigt. Das neue 320-Fragen-Paket ist noch nicht eingebunden und bleibt außerhalb dieser Prüfung. Basis: Main-Commit `6ee3c89`, App-Inhalt der Veröffentlichung 52.
+**Ausgangsbefund vor Block 1: gezielte Überarbeitung sinnvoll.** Vollständige automatische Sichtung der **6.277 bestehenden App-Fragen / 5.734 Wissensziele**, anschließend **164 Fragen samt Antworten und Hauptvertiefung redaktionell gelesen**. Die Auswahl deckt alle 19 Pakete, vorhandene Schwierigkeiten und generierte Jahr-/Regiefragen ab; zusätzlich wurden Verdachtsfälle gelesen. Aktuelle Schauspieler- und Regie-Anzeigetexte sowie Besetzungsergänzungen berücksichtigt. Das neue 320-Fragen-Paket ist noch nicht eingebunden und bleibt außerhalb dieser Prüfung. Basis: Main-Commit `6ee3c89`, App-Inhalt der Veröffentlichung 52.
 
 [Prüfnachweis mit IDs, Originalstellen, angezeigten Texten, Suchregeln und Quellenfingerabdrücken](Bestandsredaktion-Pruefung-2026-10-04.json). Das ist eine redaktionelle Bestandsdiagnose mit gezielter Lesestichprobe, keine vollständige Faktenprüfung oder statistisch repräsentative Fehlerquote. Die ältere Besetzungsprüfung vom 26.09.2026 beantwortet eine andere Qualitätsfrage.
 
@@ -41,7 +49,7 @@ Bei `PRZ-202610-P01-E-004` zu „Barry Lyndon“ fehlen die Besonderheiten der K
 3. Generierte Jahr-/Regievertiefungen individuell anreichern.
 4. Ältere Schauspieler- und Filmtexte selektiv überarbeiten: konkrete Handlungsschritte, Figurenwissen oder belegte Produktionsgeschichten ergänzen; gute Texte erhalten.
 
-Keine Fragen geändert oder veröffentlicht. Nur Bestandsnachweis und Projektwissen gepflegt.
+Die damalige Statusprüfung änderte und veröffentlichte keine Fragen. Die anschließende Überarbeitung ist oben als Block 1 dokumentiert.
 
 ## Prüfung am 26.09.2026
 

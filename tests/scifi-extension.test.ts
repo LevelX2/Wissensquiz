@@ -9,6 +9,7 @@ import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { answer, complete, startRound } from "../src/engine";
 import { validateBackup } from "../src/storage";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/SciFi_Ergaenzung_Filmdaten.json";
+import { assertEditorialSource } from "./editorialSource";
 
 const contents = packages.slice(0, 14).map((p) => ({
   filename: p.filename,
@@ -18,8 +19,13 @@ const hash = (value: string | Buffer) =>
   createHash("sha256").update(value).digest("hex");
 
 it("erhält Sci-Fi-Rohquellen und bindet alle 50 Filme samt Zusatztexten, Bekanntheit und Kategorien ein", () => {
-  expect(hash(readFileSync("public/scifi-ergaenzung-fragen.csv"))).toBe(
-    "59fabe3a3df4be371731a5ed265d8afc6b4e41c1c06f480d85a4179124b05b9c",
+  assertEditorialSource(
+    readFileSync("public/scifi-ergaenzung-fragen.csv", "utf8"),
+    readFileSync(
+      "KI-Wissen-Wissensquiz/01 Rohquellen/SciFi_Ergaenzung_360_Fragen.csv",
+      "utf8",
+    ),
+    "public/scifi-ergaenzung-fragen.csv",
   );
   expect(
     hash(
@@ -78,7 +84,7 @@ it("erhält alle 2.797 bisherigen Fragen einschließlich Regiealternativen und e
   const old = emptyState();
   addPackages(old, contents.slice(0, 12));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "937de6d7a549482b078498dd5ed83a1d00a43912ca9c971750e277c6df588ff0",
+    "375e4140dd9137c0abd2319920895ff081b7e83981336c1cd60adacdd8901876",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);
