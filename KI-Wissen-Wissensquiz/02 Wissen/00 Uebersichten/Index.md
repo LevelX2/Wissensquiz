@@ -84,6 +84,7 @@
 - [Tonausgabe: Klickfeedback, unterschiedliche Antwortsignale, Tonstatus und Wiederaufnahme nach Unterbrechung](../../../docs/Lernregeln.md#akustisches-und-haptisches-feedback)
 - [Additive Fragenbereiche, Filmreise, freie Modi und Bekanntheitsgruppen](../../../docs/Spielmodi-und-Bekanntheit.md)
 - [Konten, private Spielstände, persönliche Rekorde und Spielervergleich](../../../docs/Konten-und-Spielstaende.md)
+- [iPad: Online-Spielstand nach Aktualisieren wieder ladbar – 04.10.2026](../../../docs/Konten-und-Spielstaende.md#ipad-ladefehler-durch-aktualisieren-behoben-04102026)
 - [Öffentliche Bestenliste und Gastaktivität der letzten sieben Tage](../../../docs/Bestenliste-und-Gastaktivitaet.md)
 - [Spielervergleich: Timeout-Ursache und Live-Datenbankkorrektur](../../../docs/Spielervergleich-Stoerung.md)
 - [Asynchrone Filmduelle: Ablauf, Lösungen, offene Spiele, Fristen und Speicherung](../../../docs/Asynchrone-Filmduelle.md)
