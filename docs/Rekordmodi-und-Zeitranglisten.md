@@ -18,7 +18,7 @@ Auch bei geschlossener Auswahl zeigt eine Kachel den gewählten Modus mit große
 
 Die Uhr startet nach dem Rendern der bedienbaren Frage. Erklärungen, Speichern und der Weiterknopf verbrauchen keine Antwortzeit. Ein Tabwechsel pausiert die laufende Frage nicht. Bei leerem Vorrat gibt es keinen nachträglichen Bonus. Die Antwort wird bei Erreichen der Grenze als Zeitablauf gespeichert. Laufende Rekordspiele werden bei Neuladen oder Verlassen abgebrochen. Ein reguläres Endlosende wird mit der letzten Antwort atomar als abgeschlossen gesichert, auch wenn der Nutzer vor der Ergebnisansicht neu lädt.
 
-Endlosmodi zeigen Lösungen direkt je Frage. 10 Fragen und Duelle behalten die bestehende Wahl zwischen sofortigen und gesammelten Lösungen. Neue Zehnerrekorde verwenden unabhängig davon dieselbe Wertungskategorie; `.L`-Zusatzwertungen und frühere eigene Filterwertungen werden nicht mehr geführt.
+Korrektur vom 04.10.2026: Alle drei Zeitmodi verwenden die Lösungswahl unter Profil → Optionen. Direktes Feedback erlaubt Lesen und manuelles Weitergehen ohne laufende Frageuhr. Bei gesammelten Lösungen folgen die Fragen nach dem Speichern automatisch aufeinander; der unmittelbare Rundenrückblick öffnet sich am Laufende. Neue Duelle verwenden zwingend gesammelte Lösungen nach der eigenen Zehnerrunde. Neue Zehnerrekorde verwenden unabhängig davon dieselbe Wertungskategorie; `.L`-Zusatzwertungen und frühere eigene Filterwertungen werden nicht mehr geführt. [Vollständige Zuordnung](Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026).
 
 ## Zeitkonto-Balance
 

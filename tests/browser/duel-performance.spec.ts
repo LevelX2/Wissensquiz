@@ -40,7 +40,7 @@ test.describe("Duellreaktion", () => {
           await cdp.send("Profiler.start");
         }
       }
-      await page.evaluate(() => {
+      await page.evaluate((questionId) => {
         const metrics = { start: 0, confirmed: 0, latency: 0, put: 0 };
         (window as any).__duelResponse = metrics;
         const fetch = window.fetch;
@@ -68,7 +68,9 @@ test.describe("Duellreaktion", () => {
         const observer = new MutationObserver(() => {
           if (
             metrics.start &&
-            document.querySelector(".question-wrap.is-answered")
+            document
+              .querySelector("h1[data-question-id]")
+              ?.getAttribute("data-question-id") !== questionId
           ) {
             observer.disconnect();
             requestAnimationFrame(() =>
@@ -83,11 +85,10 @@ test.describe("Duellreaktion", () => {
           attributes: true,
           childList: true,
         });
-      });
+      }, id);
       await choice.click();
-      await expect(
-        page.getByRole("heading", { name: "Genau richtig." }),
-      ).toBeVisible();
+      await expect(page.locator(`h1[data-question-id="${id}"]`)).toHaveCount(0);
+      await expect(page.locator(".explanation")).toHaveCount(0);
       await expect
         .poll(() => page.evaluate(() => (window as any).__duelResponse.latency))
         .toBeGreaterThan(0);
@@ -124,7 +125,7 @@ test.describe("Duellreaktion", () => {
         .getByRole("button", { name: "Weiterspielen", exact: false })
         .click();
       await expect(
-        page.getByLabel("Frage 1: richtig beantwortet", { exact: true }),
+        page.getByLabel("Frage 1: Antwort gespeichert", { exact: true }),
       ).toBeVisible();
       await expect(
         page.getByLabel("Frage 2: noch offen, aktuell", { exact: true }),
@@ -133,8 +134,7 @@ test.describe("Duellreaktion", () => {
         page,
         `account:quiz-test.supabase.co:${alice}`,
       );
-      expect(saved.events).toHaveLength(1);
-      expect(saved.events[0].correct).toBe(true);
+      expect(saved.events).toHaveLength(0);
     } finally {
       await service.db.close();
     }

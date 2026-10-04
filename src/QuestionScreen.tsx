@@ -28,6 +28,7 @@ import { LearningProgress } from "./LearningProgressPanel";
 import {
   isRecordMode,
   isEndlessMode,
+  allowsSolutionChoice,
   questionLimit,
   eventIdFor,
   modeNames,
@@ -63,7 +64,9 @@ export function QuestionScreen({
 }) {
   const q = round.questions[index];
   const event = state.events.find((e) => e.id === round.events[index]);
-  const collected = round.solutionDisplay === "round";
+  const collected =
+    round.solutionDisplay === "round" &&
+    (!!round.duel || allowsSolutionChoice(round.mode));
   const timed = isRecordMode(round.mode) || !!round.duel;
   const limit = questionLimit(round);
   const [guessed, setGuessed] = useState(false);
@@ -78,6 +81,9 @@ export function QuestionScreen({
     !collected;
   const start = useRef<{ wall: number; mono: number } | null>(null);
   const locked = useRef(false);
+  const advanced = useRef(false);
+  const nextAction = useRef(onNext);
+  nextAction.current = onNext;
   const chooseRef = useRef<(choice: AnswerChoice) => void>(() => {});
   const feedback = useRef<HTMLDivElement>(null);
   const [reporting, setReporting] = useState(false);
@@ -131,6 +137,11 @@ export function QuestionScreen({
     const timer = setTimeout(() => setRevealing(false), revealDuration.current);
     return () => clearTimeout(timer);
   }, [event?.id, revealing]);
+  useEffect(() => {
+    if (!event || !collected || busy || advanced.current) return;
+    advanced.current = true;
+    nextAction.current();
+  }, [event?.id, collected, busy]);
   useEffect(() => {
     if (event) return;
     let second = 0;
@@ -334,34 +345,43 @@ export function QuestionScreen({
           </span>
         </div>
       )}
-      {round.run && (
-        <div className="run-status" role="status">
-          <strong>
-            {points(state.events.filter((e) => e.roundId === round.id))}{" "}
-            Laufpunkte
-          </strong>
-          <span>
-            {
-              state.events.filter((e) => e.roundId === round.id && e.correct)
-                .length
-            }{" "}
-            richtig
-          </span>
-          {round.mode === "zeitkonto" && (
-            <span>
-              Zeitkonto:{" "}
-              {Math.ceil(
-                Math.max(
-                  0,
-                  round.run.bankMs - (!event ? limit - remaining : 0),
-                ) / 1000,
-              )}{" "}
-              s{event && ` · ${event.correct ? "+15" : "−45"} Sekunden`}
-            </span>
-          )}
-          {round.run.ended && <strong>Lauf beendet</strong>}
-        </div>
-      )}
+      {round.run &&
+        (!collected || round.mode === "zeitkonto" || round.run.ended) && (
+          <div className="run-status" role="status">
+            {!collected && (
+              <strong>
+                {points(state.events.filter((e) => e.roundId === round.id))}{" "}
+                Laufpunkte
+              </strong>
+            )}
+            {!collected && (
+              <span>
+                {
+                  state.events.filter(
+                    (e) => e.roundId === round.id && e.correct,
+                  ).length
+                }{" "}
+                richtig
+              </span>
+            )}
+            {round.mode === "zeitkonto" && (
+              <span>
+                Zeitkonto:{" "}
+                {Math.ceil(
+                  Math.max(
+                    0,
+                    round.run.bankMs - (!event ? limit - remaining : 0),
+                  ) / 1000,
+                )}{" "}
+                s
+                {event &&
+                  !collected &&
+                  ` · ${event.correct ? "+15" : "−45"} Sekunden`}
+              </span>
+            )}
+            {round.run.ended && <strong>Lauf beendet</strong>}
+          </div>
+        )}
       <section className="question-card">
         <div className="question-heading">
           <div className="question-hints">

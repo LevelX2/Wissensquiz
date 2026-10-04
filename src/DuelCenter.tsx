@@ -4,8 +4,7 @@ import { RankingContext } from "./SharedLeaderboard";
 import { QuestionScreen } from "./QuestionScreen";
 import { Result } from "./RoundResult";
 import { Explanation } from "./Explanation";
-import { SolutionChoice } from "./SolutionChoice";
-import type { AnswerChoice, Round, State, SolutionDisplay } from "./model";
+import type { AnswerChoice, Round, State } from "./model";
 import { uid } from "./model";
 import type { Mutate } from "./uiTypes";
 import {
@@ -50,7 +49,6 @@ export function DuelCenter({
   const [working, setWorking] = useState(false);
   const [error, setError] = useState("");
   const [notice, setNotice] = useState("");
-  const [display, setDisplay] = useState<SolutionDisplay>("question");
   const [view, setView] = useState<DuelView | null>(null);
   const [index, setIndex] = useState(0);
   const [review, setReview] = useState<DuelView | null>(null);
@@ -63,7 +61,6 @@ export function DuelCenter({
   currentState.current = state;
   const request = useRef<{
     kind: boolean;
-    display: SolutionDisplay;
     id: string;
   } | null>(null);
   const mounted = useRef(true);
@@ -199,15 +196,11 @@ export function DuelCenter({
     window.scrollTo(0, 0);
   }
   async function create(invited: boolean) {
-    if (
-      !request.current ||
-      request.current.kind !== invited ||
-      request.current.display !== display
-    )
-      request.current = { kind: invited, display, id: uid() };
+    if (!request.current || request.current.kind !== invited)
+      request.current = { kind: invited, id: uid() };
     const d = await rpc(
       "quiz_duel_create",
-      { display, invited, request: request.current.id },
+      { display: "round", invited, request: request.current.id },
       duelSchema,
     );
     request.current = null;
@@ -631,11 +624,10 @@ export function DuelCenter({
           })}
           <section className="duel-new">
             <h2>Neues Duell</h2>
-            <SolutionChoice
-              value={display}
-              disabled={unavailable}
-              onChange={setDisplay}
-            />
+            <p>
+              Die zehn Fragen folgen direkt aufeinander. Lösungen und
+              Vertiefungen siehst Du immer nach Deiner eigenen Runde.
+            </p>
             <div className="duel-actions">
               <button
                 className="primary"

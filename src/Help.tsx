@@ -206,9 +206,10 @@ export function Help() {
         <p>
           Einer legt Runde 1 vor. Der andere beantwortet sie und legt Runde 2
           vor. Danach beantwortet der erste Runde 2 und legt Runde 3 vor. Zum
-          Schluss beantwortet der andere Runde 3. Nach jeder Frage und jeder
-          Zehnerrunde kannst Du pausieren. Eine bereits gestartete Frage läuft
-          während der Pause weiter.
+          Schluss beantwortet der andere Runde 3. Die Fragen folgen direkt
+          aufeinander; Lösungen und Vertiefungen siehst Du nach Deiner eigenen
+          Zehnerrunde. Du kannst eine Runde unterbrechen. Eine bereits
+          gestartete Frage läuft während der Pause weiter.
         </p>
         <p>
           Deine Übersicht zeigt alle offenen Duelle, wer dran ist und die Frist.
@@ -228,19 +229,19 @@ export function Help() {
       <details>
         <summary>Wann sehe ich die Lösungen?</summary>
         <p>
-          Vor einer Solo- oder Duellrunde wählst Du „Nach jeder Frage“ oder
-          „Nach der Runde“. Direkt nach jeder Frage ist der Standard. Bei der
-          gesammelten Anzeige bestätigst Du jede Antwort und startest die
-          nächste Frage selbst. Lösungen und Erklärungen erscheinen nach Deiner
-          eigenen Runde, auch wenn Dein Gegner noch nicht fertig ist. Die
-          Zeitgrenze und Deine Pausen bleiben gleich.
+          Unter Profil → Optionen wählst Du für 10 Fragen, Fehlerfrei, Zeitkonto
+          und das Freie Spiel „Nach jeder Frage“ oder „Nach der Runde“. Nach
+          jeder Frage liest Du Antwort und Vertiefung in Ruhe und gehst selbst
+          weiter. Bei gesammelten Lösungen startet die nächste Frage direkt nach
+          dem Speichern Deiner Antwort. Filmreise und Fehlertraining zeigen
+          Lösungen immer direkt; im Duell erscheinen sie immer nach Deiner
+          eigenen Runde, auch wenn Dein Gegner noch nicht gespielt hat.
         </p>
         <p>
           Bei gesammelten Lösungen kannst Du vor Deiner Antwort „Ich rate bei
           dieser Frage“ markieren. Ein geratener Treffer zählt im Duell, gilt
-          aber nicht als sichere Lernantwort. Im Duell legt der Ersteller die
-          Lösungsanzeige für beide fest. Rekorde mit unterschiedlicher Anzeige
-          werden getrennt verglichen.
+          aber nicht als sichere Lernantwort. Die Lösungsanzeige verändert weder
+          die Zeitgrenze noch die Rekordkategorie.
         </p>
       </details>
       <details>

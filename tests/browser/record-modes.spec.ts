@@ -20,7 +20,10 @@ async function readyQuestion(page: Page) {
     })
     .toBe(true);
 }
-async function timedMode(page: Page, mode: "Fehlerfrei" | "Zeitkonto") {
+async function timedMode(
+  page: Page,
+  mode: "10 Fragen" | "Fehlerfrei" | "Zeitkonto",
+) {
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await page
@@ -45,6 +48,86 @@ async function respond(page: Page, correct: boolean) {
   await expect(page.locator(".feedback")).toBeVisible();
   await expect(page.locator(".solution-reveal")).toBeVisible();
   await page.clock.runFor(1100);
+}
+for (const mode of ["10 Fragen", "Fehlerfrei", "Zeitkonto"] as const) {
+  test(`${mode}: gesammelte Lösungen starten automatisch weiter und erscheinen erst nach Laufende`, async ({
+    page,
+  }) => {
+    await page.clock.install({ time: new Date("2026-10-04T12:00:00+02:00") });
+    await page.goto("/");
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeEnabled();
+    await page.getByRole("button", { name: "Profil", exact: true }).click();
+    await page.getByRole("button", { name: /Optionen/ }).click();
+    await page
+      .getByRole("radio", { name: "Nach der Runde", exact: true })
+      .check();
+    await page.getByRole("button", { name: "Spielen", exact: true }).click();
+    await page.clock.pauseAt(
+      new Date((await page.evaluate(() => Date.now())) + 1000),
+    );
+    await timedMode(page, mode);
+    const count = mode === "10 Fragen" ? 10 : mode === "Fehlerfrei" ? 2 : 4;
+    for (let i = 0; i < count; i++) {
+      await readyQuestion(page);
+      const s = await readStoredState(page),
+        r = s.rounds.at(-1)!;
+      expect(r.solutionDisplay).toBe("round");
+      const q = r.questions[r.events.length];
+      if (i === 0) {
+        await page
+          .getByLabel("Ich rate bei dieser Frage", { exact: true })
+          .check();
+        await page
+          .locator(".answer")
+          .filter({
+            has: page.getByText(
+              q.answers.find((a) => a.id === q.correctId)!.text,
+              { exact: true },
+            ),
+          })
+          .click();
+      } else
+        await page
+          .getByRole("button", { name: "Keine Ahnung", exact: false })
+          .click();
+      await expect(page.locator(`h1[data-question-id="${q.id}"]`)).toHaveCount(
+        0,
+      );
+      await expect(
+        page.getByRole("button", { name: /Nächste Frage|Runde abschließen/ }),
+      ).toHaveCount(0);
+      if (i < count - 1) {
+        await expect(
+          page.locator(
+            ".solution-reveal,.explanation,.learning-progress,.answer.correct,.answer.wrong",
+          ),
+        ).toHaveCount(0);
+        await expect(
+          page.locator(".progress-step.correct,.progress-step.wrong"),
+        ).toHaveCount(0);
+        if (mode === "Fehlerfrei")
+          await expect(page.locator(".run-status")).toHaveCount(0);
+        else if (mode === "Zeitkonto")
+          await expect(page.locator(".run-status")).not.toContainText(
+            "Laufpunkte",
+          );
+      }
+    }
+    await expect(
+      page.getByRole("heading", { name: "Dein Rundenrückblick" }),
+    ).toBeVisible();
+    const stored = await readStoredState(page);
+    expect(stored.rounds.at(-1)!.status).toBe("completed");
+    expect(stored.rounds.at(-1)!.events).toHaveLength(count);
+    expect(
+      stored.events.find((e) => e.id === stored.rounds.at(-1)!.events[0])!
+        .guessed,
+    ).toBe(true);
+    await page.locator(".review > details > summary").first().click();
+    await expect(page.locator(".review .explanation").first()).toBeVisible();
+  });
 }
 test("Fehlerfrei sichert den ersten Fehler sofort, bleibt nach Neuladen und steht einzeln in allen Zeiträumen", async ({
   page,

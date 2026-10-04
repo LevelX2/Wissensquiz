@@ -1,5 +1,9 @@
 # Navigation und Hilfe
 
+## Lösungsanzeige nach Spielart – 04.10.2026
+
+Profil → Optionen nennt ausdrücklich „Lösungen in Zeitspielen und im Freien Spiel“: 10 Fragen, Fehlerfrei, Zeitkonto und Freies Spiel sind wählbar. Filmreise und Fehlertraining zeigen Antwort und Vertiefung immer direkt; neue Duelle immer nach der eigenen Zehnerrunde. Bei „Nach der Runde“ entfällt der zusätzliche Weiter-Klick: Nach bestätigtem Speichern startet die nächste Frage automatisch. Direktes Feedback erlaubt weiterhin Lesen in Ruhe und manuelles Weitergehen. Die Duellübersicht erklärt den festen Ablauf statt einer Lösungswahl. Hilfe und Modusverträge sind entsprechend korrigiert; frühere Beschreibungen der pauschalen Solo-/freien Duellwahl sind abgelöst. [Führender Vertrag](Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026).
+
 ## Profiloptionen und Meldeweg – 04.10.2026
 
 Lokal auf Nutzerwunsch entfernt: „Fragen hinzufügen“ einschließlich CSV-Auswahl, Demo-Download, Importvorschau, Importberichte und deren separatem Export. Neue Fragen kommen über die eigene Paket-/Update-Logik. Hilfe und README nennen nur noch die JSON-Sicherung und geprüfte Wiederherstellung. Parser, automatische Paketversorgung und gespeicherte Importberichte bleiben erhalten. Die Gastspielstand-Übernahme bleibt als bewusst bestätigter Kontoübergang bestehen: Sie kopiert den Gastfortschritt, ersetzt den lokalen Kontostand und synchronisiert diesen anschließend online; sie führt zwei Fortschritte nicht zusammen. Seit Sites-Version 54 veröffentlicht.

@@ -8,17 +8,16 @@ import {
 import AxeBuilder from "@axe-core/playwright";
 import { server, alice, bob, qs } from "./duel-service";
 test.use({ serviceWorkers: "block" });
-async function play(
-  page: Page,
-  count = 10,
-  collected = false,
-  guessLast = false,
-) {
+async function play(page: Page, count = 10, guessLast = false) {
   for (let i = 0; i < count; i++) {
     const heading = page.locator("h1[data-question-id]");
     await expect(heading).toBeVisible();
     const id = await heading.getAttribute("data-question-id");
     const question = qs.find((q) => q.id === id)!;
+    if (guessLast && i === count - 1)
+      await page
+        .getByLabel("Ich rate bei dieser Frage", { exact: true })
+        .check();
     await expect(
       page.getByRole("button", {
         name: question.answers.find((a) => a.id === question.correctId)!.text,
@@ -31,31 +30,13 @@ async function play(
         exact: false,
       })
       .click();
-    if (collected) {
-      await expect(
-        page.getByText(
-          "Antwort gespeichert. Die Lösungen siehst Du nach der Runde.",
-        ),
-      ).toBeVisible();
-      await expect(page.getByText("Genau richtig.")).toHaveCount(0);
-    } else
-      await expect(
-        page.getByRole("heading", { name: "Genau richtig." }),
-      ).toBeVisible();
-    if (guessLast && i === count - 1) {
-      await page
-        .getByRole("button", { name: "War geraten", exact: true })
-        .click();
-      await expect(
-        page.getByRole("button", {
-          name: "✓ Als geraten markiert",
-          exact: true,
-        }),
-      ).toBeDisabled();
-    }
-    await page
-      .getByRole("button", { name: /Nächste Frage|Runde abschließen/ })
-      .click();
+    await expect(page.locator(`h1[data-question-id="${id}"]`)).toHaveCount(0);
+    await expect(
+      page.getByRole("heading", { name: "Genau richtig." }),
+    ).toHaveCount(0);
+    await expect(
+      page.getByRole("button", { name: /Nächste Frage|Runde abschließen/ }),
+    ).toHaveCount(0);
   }
 }
 test("zwei getrennte Konten spielen die vier Blöcke, sehen offene Duelle und erhalten ein Unentschieden", async ({
@@ -71,7 +52,10 @@ test("zwei getrennte Konten spielen die vier Blöcke, sehen offene Duelle und er
   try {
     await service.setup(a, alice);
     await a.getByRole("button", { name: "Zufälligen Gegner finden" }).click();
-    await play(a, 10, false, true);
+    await expect(
+      a.getByRole("group", { name: "Lösungen anzeigen" }),
+    ).toHaveCount(0);
+    await play(a, 10, true);
     await a
       .getByRole("button", { name: "Zur Duellübersicht", exact: false })
       .click();
@@ -163,7 +147,7 @@ test("zwei getrennte Konten spielen die vier Blöcke, sehen offene Duelle und er
     await service.db.close();
   }
 });
-test("gesammelte Sololösungen bleiben neutral, lassen Pausen zu und erscheinen im eigenen Rückblick", async ({
+test("Freies Spiel fragt ohne Unterbrechung ab und zeigt gesammelte Lösungen im eigenen Rückblick", async ({
   page,
 }, testInfo) => {
   await page.clock.install({ time: new Date("2026-10-02T12:00:00Z") });
@@ -179,7 +163,9 @@ test("gesammelte Sololösungen bleiben neutral, lassen Pausen zu und erscheinen 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: /Optionen/ }).click();
   await expect(
-    page.getByRole("heading", { name: "Lösungen in Solospielen" }),
+    page.getByRole("heading", {
+      name: "Lösungen in Zeitspielen und im Freien Spiel",
+    }),
   ).toBeVisible();
   await page
     .getByRole("radio", { name: "Nach der Runde", exact: true })
@@ -190,21 +176,22 @@ test("gesammelte Sololösungen bleiben neutral, lassen Pausen zu und erscheinen 
   ).toHaveCount(0);
   await page.getByRole("button", { name: "Losspielen" }).click();
   for (let i = 0; i < 5; i++) {
+    const id = await page
+      .locator("h1[data-question-id]")
+      .getAttribute("data-question-id");
     await expect(
       page.getByRole("button", { name: "Keine Ahnung", exact: false }),
     ).toBeEnabled();
     await page
       .getByRole("button", { name: "Keine Ahnung", exact: false })
       .click();
-    await expect(
-      page.getByText(
-        "Antwort gespeichert. Die Lösungen siehst Du nach der Runde.",
-      ),
-    ).toBeVisible();
-    await expect(page.locator(".explanation")).toHaveCount(0);
-    await expect(
-      page.locator(".progress-step.correct,.progress-step.wrong"),
-    ).toHaveCount(0);
+    await expect(page.locator(`h1[data-question-id="${id}"]`)).toHaveCount(0);
+    if (i < 4) {
+      await expect(page.locator(".explanation")).toHaveCount(0);
+      await expect(
+        page.locator(".progress-step.correct,.progress-step.wrong"),
+      ).toHaveCount(0);
+    }
     if (i === 0) {
       await page.screenshot({
         path: testInfo.outputPath("collected-answer.png"),
@@ -218,17 +205,9 @@ test("gesammelte Sololösungen bleiben neutral, lassen Pausen zu und erscheinen 
         .getByRole("button", { name: "Fortsetzen", exact: false })
         .click();
       await expect(
-        page.getByText(
-          "Antwort gespeichert. Die Lösungen siehst Du nach der Runde.",
-        ),
+        page.getByLabel("Frage 1: Antwort gespeichert", { exact: true }),
       ).toBeVisible();
     }
-    await page
-      .getByRole("button", {
-        name: i === 4 ? "Runde abschließen" : "Nächste Frage",
-        exact: false,
-      })
-      .click();
   }
   await expect(
     page.getByRole("heading", { name: "Dein Rundenrückblick" }),
@@ -250,13 +229,13 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
   const page = await context.newPage();
   try {
     await service.setup(page, alice);
-    await page
-      .getByRole("radio", { name: "Nach der Runde", exact: true })
-      .check();
+    await expect(
+      page.getByRole("radio", { name: "Nach der Runde", exact: true }),
+    ).toHaveCount(0);
     await page
       .getByRole("button", { name: "Per Link einladen", exact: true })
       .click();
-    await play(page, 1, true);
+    await play(page, 1);
     await expect(page.locator(".answer").first()).toBeEnabled();
     await page
       .getByRole("button", { name: "Pause & Duellübersicht", exact: false })
@@ -284,9 +263,7 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
       .getByRole("button", { name: "Weiterspielen", exact: false })
       .click();
     await expect(
-      page.getByText(
-        "Antwort gespeichert. Die Lösungen siehst Du nach der Runde.",
-      ),
+      page.getByLabel("Frage 3: noch offen, aktuell", { exact: true }),
     ).toBeVisible();
     await expect(
       page.locator(".progress-step.correct,.progress-step.wrong"),
@@ -301,10 +278,7 @@ test("gesammelte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den 
         () => document.documentElement.scrollWidth <= innerWidth,
       ),
     ).toBe(true);
-    await page
-      .getByRole("button", { name: "Nächste Frage", exact: false })
-      .click();
-    await play(page, 8, true);
+    await play(page, 8);
     await expect(page.locator(".result-score")).toContainText("9");
     await page
       .getByRole("button", { name: "Zur Duellübersicht", exact: false })

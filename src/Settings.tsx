@@ -112,12 +112,13 @@ export function Settings({
       </p>
       <div role="status">{message && <p className="notice">{message}</p>}</div>
       <section className="settings-panel">
-        <h2>Lösungen in Solospielen</h2>
+        <h2>Lösungen in Zeitspielen und im Freien Spiel</h2>
         <p>
           Sieh die Lösung und Zusatzinformationen nach jeder Antwort oder
-          gesammelt nach Deiner Runde. Gilt für neue Solorunden; eine begonnene
-          Runde behält ihre Einstellung. Den Ablauf eines Duells wählst Du beim
-          Anlegen.
+          gesammelt nach Deiner Runde. Gilt für 10 Fragen, Fehlerfrei, Zeitkonto
+          und das Freie Spiel. Filmreise und Fehlertraining zeigen Lösungen
+          immer direkt. Duelle zeigen sie immer nach der eigenen Zehnerrunde.
+          Eine begonnene Runde behält ihre Einstellung.
         </p>
         <SolutionChoice
           value={

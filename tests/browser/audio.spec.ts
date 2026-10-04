@@ -3,6 +3,8 @@ import {
   expect,
   readStoredState,
   fixCalendarTime,
+  openRoundSetup,
+  modePreparation,
   type Page,
 } from "./fixtures";
 
@@ -114,11 +116,9 @@ async function respond(page: Page, correct: boolean) {
   await expect(control).toBeEnabled();
   const before = (await notes(page)).length;
   await control.click();
-  await expect(
-    round.solutionDisplay === "round"
-      ? page.getByRole("status").filter({ hasText: "Antwort gespeichert" })
-      : page.locator(".feedback"),
-  ).toBeVisible();
+  if (round.solutionDisplay === "round")
+    await expect(page.locator(`h1[data-question-id="${id}"]`)).toHaveCount(0);
+  else await expect(page.locator(".feedback")).toBeVisible();
   await expect
     .poll(async () => (await notes(page)).length)
     .toBeGreaterThan(before);
@@ -239,19 +239,15 @@ test("Gesammelte Lösungen bestätigen richtige und falsche Auswahl mit demselbe
     page.getByLabel("Nach der Runde", { exact: true }),
   ).toBeChecked();
   await page.getByRole("button", { name: "Spielen", exact: true }).click();
+  await openRoundSetup(page);
+  await modePreparation(page, /Freies Spiel Alle Stufen/).click();
   await page.getByRole("button", { name: "Losspielen" }).click();
   const correct = await respond(page, true);
-  await expect(
-    page.getByRole("status").filter({ hasText: "Antwort gespeichert" }),
-  ).toBeVisible();
   await expect(page.locator(".answer.correct, .answer.wrong")).toHaveCount(0);
-  await page.getByRole("button", { name: "Nächste Frage" }).click();
   const wrong = await respond(page, false);
-  expect(correct).toHaveLength(1);
+  expect(correct).toHaveLength(2);
   expect(wrong).toEqual(correct);
-  await expect(
-    page.getByRole("status").filter({ hasText: "Antwort gespeichert" }),
-  ).toBeVisible();
+  await expect(page.locator(".answer.correct, .answer.wrong")).toHaveCount(0);
 });
 
 test("Fehlende Tonausgabe wird beim Probesignal erklärt und verhindert keine Antwort", async ({

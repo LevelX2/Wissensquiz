@@ -32,6 +32,7 @@ import {
   isRecordMode,
   isRankedRecord,
   isEndlessMode,
+  allowsSolutionChoice,
   BANK_START,
   bankAfterAnswer,
   questionLimit,
@@ -361,7 +362,11 @@ export function startRound(
         options.filters?.sources && !options.filters.sources.includes("film")
           ? []
           : (options.filters?.familiarities ?? familiarities),
-      ) + (state.settings.solutionDisplay === "round" ? ".L" : ""),
+      ) +
+      (allowsSolutionChoice(options.mode) &&
+      state.settings.solutionDisplay === "round"
+        ? ".L"
+        : ""),
     before: structuredClone(
       Object.fromEntries(
         questions.flatMap((q) =>
@@ -371,7 +376,8 @@ export function startRound(
         ),
       ),
     ),
-    ...(state.settings.solutionDisplay === "round"
+    ...(allowsSolutionChoice(options.mode) &&
+    state.settings.solutionDisplay === "round"
       ? { solutionDisplay: "round" as const }
       : {}),
   };
@@ -383,7 +389,6 @@ export function startRound(
     round.recordPreset = options.recordPreset ?? "standard";
     round.ruleVersion = runRule(options.mode, round.recordPreset);
     if (isEndlessMode(options.mode)) {
-      delete round.solutionDisplay;
       const official =
         state.bundledQuestionIds && new Set(state.bundledQuestionIds);
       const pool = state.questions.filter(

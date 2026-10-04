@@ -7,6 +7,8 @@ export const isRecordMode = (mode: Mode): mode is RecordMode =>
   (recordModes as readonly string[]).includes(mode);
 export const isEndlessMode = (mode: Mode) =>
   mode === "fehlerfrei" || mode === "zeitkonto";
+export const allowsSolutionChoice = (mode: Mode) =>
+  isRecordMode(mode) || mode === "ueben";
 export const modeNames: Record<Mode, string> = {
   entdecken: "Filmreise",
   ueben: "Freies Spiel",

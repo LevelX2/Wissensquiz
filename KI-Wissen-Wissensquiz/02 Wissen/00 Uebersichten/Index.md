@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Korrigierte Lösungsanzeige: Zeitspiele und Freies Spiel wählbar, Lernmodi direkt, neue Duelle immer gesammelt](../../../docs/Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026)
+
 - [25 Schauspielerporträts nach der Antwort: Anzeige, Offlinebetrieb, Bildrechte und vollständige Nachweise](../../../docs/Schauspielerportraets.md)
 
 - [Version 54 veröffentlicht: gesamte Main-Änderungen, 1.099 überarbeitete Fragen und Online-/Duellkatalog](../../../docs/Sites-Betrieb.md#version-54-gesamter-main-stand-mit-individuellen-fragenvertiefungen)
@@ -108,7 +110,7 @@
 - [Supabase-Einrichtung, Datenbankregeln und Mailvorlagen](../../../docs/Konten-Einrichtung.md)
 - [Tatsächliche Prüfungen und bekannte Grenzen](../../../docs/Pruefbericht.md)
 - [Antwortreaktion nach Version 36: Katalogspeicher und Duell-Snapshotvergleich](../../../docs/Lernregeln.md#datenintegrität-und-sicherung)
-- [Solo-Lösungswahl unter Profil → Optionen](../../../docs/Lernregeln.md#asynchrone-duelle-und-lösungsanzeige)
+- [Lösungswahl für Zeitspiele und Freies Spiel unter Profil → Optionen](../../../docs/Lernregeln.md#asynchrone-duelle-und-lösungsanzeige)
 - [Maschineller Importbericht](../../../docs/importbericht.json)
 - [Unveränderte gelieferte Rohquelle](../../01%20Rohquellen/SciFi_Quiz_180_Fragen.csv)
 - [Action-Rohquelle](../../01%20Rohquellen/Action_Quiz_180_Fragen.csv)

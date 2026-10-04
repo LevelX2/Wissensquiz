@@ -27,7 +27,7 @@ Nach jeder Zehnerrunde erscheinen das eigene Ergebnis und der Rückblick. Die n�
 
 ## Vertraute Runde auf Zeit
 
-Duell und Solospiel verwenden dieselbe Frage-, Erklärungs- und Ergebnisansicht. Vier gemischte Antworten, „Keine Ahnung“, Anzeigeoptionen, Weiter-Aktion und Fehlertraining bleiben erhalten. Duelle haben 30 Sekunden pro Frage. Erklärungen und die Zeit vor der nächsten Frage haben keine Frageuhr; Pausen sind zwischen Fragen und Runden möglich.
+Duell und Solospiel verwenden dieselbe Frage-, Erklärungs- und Ergebnisansicht. Vier gemischte Antworten, „Keine Ahnung“, Fragehinweise und Fehlertraining bleiben erhalten. Duelle haben 30 Sekunden pro Frage. Neue Duelle spielen die Fragen automatisch hintereinander; Erklärungen und Vertiefungen stehen nach der eigenen Zehnerrunde ohne Frageuhr bereit. Eine Runde lässt sich über die Duellübersicht unterbrechen; die gestartete Frage läuft währenddessen weiter.
 
 Nach sichtbarer Frage und zwei Animationsframes fordert die App den Serverstart an. Erst nach Bestätigung werden Antworten bedienbar. Der Server speichert die erste Startzeit; Pause, Tabwechsel, Wiederholung, Gerätewechsel und Neuladen setzen sie nicht zurück. Die App zeigt bei Wiederaufnahme die verstrichene Zeit. Ab 30 Sekunden gilt eine noch nicht bestätigte Antwort als Zeitablauf. Die serverseitige Uhr entscheidet; der Browser kann keine eigene Antwortzeit behaupten.
 
@@ -37,12 +37,11 @@ Abruf und Bestätigung benötigen Internet. Serverlaufzeit und Rückweg der Star
 
 | Auswahl | Ablauf |
 | --- | --- |
-| Nach jeder Frage | Standard: sofortige Rückmeldung mit Lösung und Erklärung; selbst weitergehen. |
-| Nach der Runde | Neutrale Speicherbestätigung pro Antwort; Lösungen und Erklärungen im eigenen Ergebnis und Rückblick. |
+| Nach der Runde | Verbindlich für neue Duelle: Fragen folgen nach dem Speichern direkt aufeinander; Lösungen und Vertiefungen im eigenen Ergebnis und Rückblick. |
 
-Die Auswahl steht beim Anlegen eines Duells und für neue Solorunden unter **Profil → Optionen**; seit der lokalen Änderung vom 03.10.2026 entfällt sie vom Solo-Spieleinstieg. Die Solo-Einstellung bestimmt keine gemeinsame Duellregel. „Nach der Runde“ bedeutet die eigene Zehnerrunde im Duell bzw. die tatsächliche Rundengröße im Solospiel; die Lösungen warten niemals auf den Gegner. Die Option verändert weder Fragezeit noch Pausen und erzeugt keinen Blocktimer oder Zeitdruck in entspannten Solomodi. Die nächste Frage wird immer ausdrücklich gestartet. Nutzerentscheidung vom 03.10.2026: vorerst ausschließlich die Lösungswahl verschieben, die bisherige Duell-Zeitregel beibehalten.
+Nutzerkorrektur vom 04.10.2026: Beim Anlegen eines Duells entfällt die Lösungswahl. Der Client verwendet den vorhandenen Parameter `display: "round"` für Zufallsgegner und Linkeinladung. „Nach der Runde“ bedeutet immer die eigene Zehnerrunde; die Lösungen warten niemals auf den Gegner. Nach der Antwort wird automatisch weitergespielt und nach Antwort zehn der Rückblick geöffnet. Die 30 Sekunden je Frage und die serverseitige Startzeit bleiben erhalten. Bereits gespeicherte Duellsnapshots werden nicht umgeschrieben. Für Zeitspiele und Freies Spiel bleibt die persönliche Wahl unter Profil → Optionen; Filmreise und Fehlertraining zeigen Lösungen immer direkt. Die frühere freie Duellwahl und die manuelle Weiter-Bestätigung bei gesammelten Lösungen sind abgelöst. [Führender Lösungsvertrag](Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026).
 
-Gesammelte Anzeige verbirgt Antwortfarben, Richtig-/Falsch-Töne, laufende Trefferwerte, Fragehistorie und Erklärung. Vor der Antwort lässt sich „Ich rate bei dieser Frage“ markieren. Nur ein tatsächlich richtiger Treffer wird als geratenes Lernereignis behandelt; falsche Antworten bleiben Fehler. Im Standard bleibt „War geraten“ nach einem Treffer möglich. Duellpunkte ändern sich dadurch nicht.
+Gesammelte Anzeige verbirgt Antwortfarben, Richtig-/Falsch-Töne, laufende Trefferwerte, Fragehistorie und Erklärung. Vor der Antwort lässt sich „Ich rate bei dieser Frage“ markieren. Nur ein tatsächlich richtiger Treffer wird als geratenes Lernereignis behandelt; falsche Antworten bleiben Fehler. Duellpunkte ändern sich dadurch nicht.
 
 Der Ersteller legt die Anzeige für beide fest. Sie bleibt im Duell unverändert und gehört zum zufälligen Paarungspool. Solo speichert die Einstellung und friert sie beim Rundenstart ein. Alte Sicherungen ohne Feld verwenden direktes Feedback. Gesammelte Rekordrunden erhalten den Regelzusatz `.L` und werden separat verglichen.
 

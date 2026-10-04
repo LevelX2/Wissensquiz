@@ -285,13 +285,58 @@ test("gesammelte Lösungen zeigen den Lernfortschritt erst im Rundenrückblick",
       }),
     })
     .click();
-  await expect(page.locator(".learning-progress")).toHaveCount(0);
-  await page.getByRole("button", { name: "Runde abschließen" }).click();
+  await expect(page.locator(".question-card .learning-progress")).toHaveCount(
+    0,
+  );
+  await expect(
+    page.getByRole("heading", { name: "Dein Rundenrückblick" }),
+  ).toBeVisible();
   await page.locator(".review > details > summary").first().click();
   await expect(
     page.getByLabel("Lernfortschritt dieses Wissensziels"),
   ).toContainText("Lernstufe 1 von 4");
 });
+
+for (const mode of ["entdecken", "fehler"] as const) {
+  test(`${mode}: die globale Lösungswahl lässt Antwort und Vertiefung immer direkt lesen`, async ({
+    page,
+  }) => {
+    await page.clock.install({ time: now });
+    await page.goto("/");
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeEnabled();
+    const state = await readState(page);
+    const seed = startRound(
+      state,
+      { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      now.getTime(),
+    );
+    for (const q of seed.questions)
+      answer(state, seed.id, q.id, { dontKnow: true }, 1000, now.getTime());
+    complete(state, seed.id, now.getTime());
+    state.settings.solutionDisplay = "round";
+    const round = startRound(
+      state,
+      { mode, topic: "Alle Themen", difficulty: "Alle Stufen" },
+      now.getTime(),
+    );
+    expect(round.solutionDisplay).toBeUndefined();
+    const id = round.questions[0].id;
+    await writeState(page, state);
+    await page.reload();
+    await page.getByRole("button", { name: "Fortsetzen" }).click();
+    await page
+      .getByRole("button", { name: "Keine Ahnung", exact: false })
+      .click();
+    await expect(page.locator(".explanation")).toBeVisible();
+    await page.clock.runFor(5000);
+    await expect(page.locator(`h1[data-question-id="${id}"]`)).toBeVisible();
+    await expect(
+      page.getByRole("button", { name: "Nächste Frage", exact: false }),
+    ).toBeVisible();
+  });
+}
 
 test("Fehlertraining hat einen verständlichen leeren Zustand und bleibt als Modus gespeichert", async ({
   page,

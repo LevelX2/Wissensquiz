@@ -31,8 +31,10 @@ export function SolutionChoice({
         Nach der Runde
       </label>
       <p className="tiny muted">
-        Du bestimmst das Tempo vor der nächsten Frage. Die Zeitgrenze bleibt
-        gleich.
+        Nach jeder Frage kannst Du Antwort und Vertiefung in Ruhe lesen und
+        selbst weitergehen. Nach der Runde folgen die Fragen direkt aufeinander;
+        Lösungen und Vertiefungen erscheinen im Rundenrückblick. Die Zeitgrenze
+        bleibt gleich.
       </p>
     </fieldset>
   );

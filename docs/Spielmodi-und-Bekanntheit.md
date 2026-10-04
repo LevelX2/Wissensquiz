@@ -8,6 +8,8 @@ Der Gesamtkatalog umfasst inzwischen **6.277 Fragen und 5.734 Ziele** einschlie�
 
 ## Gruppen und neue Zeitmodi – 03.10.2026
 
+Korrektur vom 04.10.2026: Filmreise und Fehlertraining zeigen Lösungen und Vertiefungen immer direkt. 10 Fragen, Fehlerfrei, Zeitkonto und Freies Spiel verwenden die persönliche Wahl zwischen Lesen nach jeder Frage und unterbrechungsfreier Abfrage mit Rückblick am Ende. Neue Duelle verwenden immer den Rückblick nach der eigenen Zehnerrunde. Frühere Aussagen zur freien Duellwahl und zum erzwungenen direkten Endlosfeedback sind abgelöst. [Zuordnung und Ablauf](Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026).
+
 Lernen enthält Filmreise/Freies Spiel/Fehlertraining; Auf Zeit enthält 10 Fragen/Fehlerfrei/Zeitkonto. Duell bildet eine eigene Gruppe. Standardmix: offizielle Pakete aller drei Bereiche, alle Filmgenres/-gruppen, 3 leicht/4 mittel/3 schwer je Zehnerblock, ohne Experte und eigene Importe. Eigene Auswahl bleibt getrennt und unterstützt Experte. Letzte Variante je Gruppe gespeichert. Zeiten, Endloszyklen und Ranglisten: [Rekordmodi und Zeitranglisten](Rekordmodi-und-Zeitranglisten.md). Lokal umgesetzt, noch nicht veröffentlicht.
 
 ## Additive Fragenbereiche – 03.10.2026
