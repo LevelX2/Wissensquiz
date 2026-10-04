@@ -1,6 +1,6 @@
 # Sichtbarer Lernfortschritt
 
-Stand: 04.10.2026, lokale Umsetzung; noch nicht veröffentlicht.
+Stand: 04.10.2026, mit Sites-Version 52 veröffentlicht.
 
 ## Anlass und Entscheidung
 

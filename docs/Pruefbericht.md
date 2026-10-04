@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 04.10.2026 – Main integriert und Version 52 veröffentlicht
+
+Alle lokalen Branchköpfe nach Fast-Forward in `main` enthalten. Gesamten App-Stand aus sauberer Kopie von `700978f9e4da4ba23daf591440286e9cea84bdc5` geprüft und veröffentlicht: **337 Tests in 56 Dateien**, TypeScript, Produktionsbuild mit Version 52 und zwei abschließende Browserprüfungen für tatsächliche Versionszeit, Neuladen und Offline-Fortsetzung (Chromium/WebKit) erfolgreich. App-Code gegenüber `c679fa1` unverändert; 19 vorhandene Browsernachweise des Lernstufen-Standes wiederverwendet. Alle 63 Produktionsdateien vor/nach Paketierung bytegleich.
+
+Natives Deployment um 10:43:36 Uhr Europe/Berlin `succeeded`; Version 52, bestehende URL und öffentlicher Zugriff Revision 2 getrennt bestätigt. Veröffentlichungsmetadaten dauerhaft gespeichert, separat zurückgelesen und anonym per RPC geprüft; direkter Tabellenzugriff gesperrt. Öffentlichen Katalog mit 6.277 Fragen/Nachweisen vollständig freigegeben. Drei Fragen im Duellkatalog aktualisiert; die übrigen 4.824 Fragen nach Fingerabdruck unverändert. Keine private Spielstandänderung oder neue Migration.
+
+17 vorgefundene Dateien beim Merge bytegleich erhalten; Veröffentlichungsdokumentation getrennt staged. Das 320-Fragen-Paket ist redaktionell in Main enthalten, noch nicht im App-Katalog. Physische Geräteabnahme und bekannte Windows-WebKit-Prüfgrenzen gelten weiter. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-52-gesamter-main-stand-mit-sichtbarem-lernfortschritt).
+
 ## 04.10.2026 – Sichtbare Lernstufen und Zwischenfortschritt
 
 Nach bestätigtem Nutzerauftrag die vier vorhandenen Lernstufen, den nächsten möglichen Lerntermin und die Erklärung für frühe Wiederholungen sichtbar gemacht. Fehlerkorrekturen werden sofort bestätigt; Lernstufen und Fehlerpool bleiben getrennt. Sammlung und Themen-/Genrekarten zählen bereits Stufen 1/2/3 zum Balken. Kleine Themenfortschritte erscheinen mit bis zu zwei Nachkommastellen; die Sammlung nennt die absoluten Lernschritte. Die Rundenauswertung zählt erstmals sicher gelöste Ziele und Zwischenaufstiege trotz unverändertem Status „geübt“. Gesammelte Lösungen zeigen diese Hinweise erst im Rückblick.

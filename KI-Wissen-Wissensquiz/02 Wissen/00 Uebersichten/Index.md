@@ -94,7 +94,7 @@
 - [Horror-Importbericht](../../../docs/importbericht-horror.json)
 - [Fantasy-Rohquelle](../../01%20Rohquellen/Fantasy_Quiz_180_Fragen.csv)
 - [Fantasy-Importbericht](../../../docs/importbericht-fantasy.json)
-- [Sites-Veröffentlichung, öffentlicher Zugang und Windows-Ablauf](../../../docs/Sites-Betrieb.md)
+- [Sites-Version 52: gesamter Main-Stand, öffentlicher Zugang und Veröffentlichungsnachweis](../../../docs/Sites-Betrieb.md#version-52-gesamter-main-stand-mit-sichtbarem-lernfortschritt)
 
 - [Komödie-Rohquelle](../../01%20Rohquellen/Komoedie_Quiz_180_Fragen.csv)
 - [Komödie-Importbericht](../../../docs/importbericht-komoedie.json)

@@ -26,7 +26,7 @@ Am 04.10.2026 anhand eines Nutzer-Screenshots und der lokalen Daten geprüft: Di
 
 Beide Einträge in `src/actorFilmFacts.json` enthielten `series: null`. Deshalb zeigte `src/FilmDataPanel.tsx` „Keine Reihe hinterlegt“. Diese Datenlücke ist auf Nutzerauftrag am 04.10.2026 lokal korrigiert: Black-Panther-Reihe, Teil 1 für 2018 und Teil 2 für 2022; die Teilposition bezieht sich auf diese Reihe, nicht auf sämtliche MCU-Filme. Die beiden Datensätze enthalten ergänzende offizielle Quellen: [Marvel bestätigt die Fortsetzung](https://www.marvel.com/articles/movies/black-panther-wakanda-forever-title), [Disney bestätigt Erscheinungsjahr 2022 und Handlung nach T’Challas Tod](https://movies.disney.com/black-panther-wakanda-forever).
 
-Umfang nach Nutzerpräzisierung: ausschließlich zwei Film-Basisdatensätze und ihre Quellen. Keine Migration oder Bearbeitung laufender Spiele und keine Änderung am Recherchewerkzeug. Die bestehende Filmdatenanzeige übernimmt die ergänzte Reihe. Die Korrektur ist noch nicht veröffentlicht; der veröffentlichte Stand bleibt Version 51. [Lokaler Prüfnachweis](Pruefbericht.md).
+Umfang nach Nutzerpräzisierung: ausschließlich zwei Film-Basisdatensätze und ihre Quellen. Keine Migration oder Bearbeitung laufender Spiele und keine Änderung am Recherchewerkzeug. Die bestehende Filmdatenanzeige übernimmt die ergänzte Reihe. Die Korrektur ist mit dem Gesamtstand als Version 52 veröffentlicht. [Lokaler Prüfnachweis](Pruefbericht.md).
 
 ## Erhalt und Nachweise
 

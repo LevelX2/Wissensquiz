@@ -1,5 +1,7 @@
 # Bestätigte Fragenkorrekturen
 
+Die drei Korrekturen sind seit Sites-Version 52 (04.10.2026) veröffentlicht, auch im öffentlichen Katalog für neue Duelle. Laufende Duellsnapshots bleiben erhalten. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-52-gesamter-main-stand-mit-sichtbarem-lernfortschritt).
+
 ## Redaktionelle Folgerungen
 
 Im persönlichen Skill `wissensquiz-fragen-redigieren` sind beide Fehlerfälle ausdrücklich verankert: Fragetext, Titel und Antwortoptionen gemeinsam auf verratene Lösungen beziehungsweise eindeutigen Ausschluss durch die Formulierung prüfen. Eine leichte Frage benötigt weiterhin eigenes Wissen.
@@ -38,7 +40,7 @@ Die Frage `SF-202609-P02-L-014` wurde direkt in `public/scifi-ergaenzung-fragen.
 
 Die ursprüngliche Lieferung unter `KI-Wissen-Wissensquiz/01 Rohquellen/SciFi_Ergaenzung_360_Fragen.csv` bleibt als Rohquelle erhalten. Die öffentliche Basisdatei ist seit dieser ausdrücklich bestätigten Redaktion für genau einen Datensatz eine bearbeitete Fassung. Die vorhandenen Prüfungen berücksichtigen diese konkrete Abweichung und den aktualisierten Katalogfingerabdruck.
 
-Auf ausdrückliche Nutzerpräzisierung erfolgt die Korrektur ohne neue Kompatibilitätslogik, Adapter, Migration oder Sonderbehandlung älterer Spiele. Es handelt sich um eine lokale Basisdatenkorrektur; die Site wurde durch diesen Auftrag nicht veröffentlicht.
+Auf ausdrückliche Nutzerpräzisierung erfolgt die Korrektur ohne neue Kompatibilitätslogik, Adapter, Migration oder Sonderbehandlung älterer Spiele. Die damalige Basisdatenkorrektur wurde zunächst lokal abgeschlossen und im anschließenden Gesamtauftrag als Version 52 veröffentlicht.
 
 Prüfnachweis: [Prüfbericht](Pruefbericht.md).
 

@@ -40,7 +40,13 @@ Die zusätzliche vierte Migration behebt die unmittelbar gemessene Größenbegre
 
 `scripts/prepare-sync-catalog.mjs` erstellt neben dem bisherigen Direkt-SQL reproduzierbare Teil-SQLs, Manifestnachweis und Abschluss-SQL. Sämtliche Betreiberartefakte bleiben ignoriert. Die zusätzliche Migration ist mit synthetischen SQL-Tests einschließlich Unvollständigkeit, Inhaltsänderung, Wiederholung und Rollenprüfung abgedeckt.
 
-## Öffentlich freigegebener Katalog
+## Katalogupdate mit Version 52 – 04.10.2026
+
+Der zur Veröffentlichung gehörende öffentliche App-Katalog enthält **6.277 Fragen**, Inhaltsnachweise und Bewertungsfelder. Kennung `34e62ea0970bf0cd42f091579c3be3c1f70360eb6fe943b3a2d5e3debd59f20f`; Betreiber-Manifest `f43998f61b76be8a724d0d664c508f2ad06816924288ccc8912c1ff6dce8de15`, 4.243.519 Bytes in 266 Teilen. Über die vorhandene Abschlussfunktion vollständig geprüft, transaktional freigegeben und alle Teile entfernt; native lesende Nachprüfung bestätigt 6.277 Fragen und 6.277 Nachweise. Keine Schemaänderung oder private Kontodaten im Release.
+
+Die bestätigten CSV-Korrekturen zu „Hangover“, „Planet der Affen“ und „Der große Diktator“ stehen auch für neue Duelle bereit. Erwarteten vorherigen Fragetext und IDs vor der Transaktion geprüft. Die übrigen 4.824 Duellfragen bleiben byteinhaltlich unverändert (Fingerprint `66f80619fdc6ba85f16dbddb3a1dbe15`); bestehende Duellsnapshots nicht verändert. Das neue 320-Fragen-Redaktionspaket gehört noch nicht zum spielbaren Katalog. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-52-gesamter-main-stand-mit-sichtbarem-lernfortschritt).
+
+## Erstveröffentlichter Katalog mit Version 42
 
 - Vollständiger tatsächlicher App-Importer: **5.677 Fragen**, ebenso viele Inhaltsnachweise und Bewertungsfelder; Protokoll 1.
 - Katalogkennung: `216e40469f00211de5280fd014bb64106967876a6211c92691280fd8fc43fb6a`.
