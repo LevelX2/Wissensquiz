@@ -49,8 +49,10 @@ button {
     background 0.18s,
     transform 0.18s;
 }
-button:hover:not(:disabled) {
-  background: #dfe7e2;
+@media (hover: hover) and (pointer: fine) {
+  button:hover:not(:disabled) {
+    background: #dfe7e2;
+  }
 }
 button:disabled {
   cursor: default;

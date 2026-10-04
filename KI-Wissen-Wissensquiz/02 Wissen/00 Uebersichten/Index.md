@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Vorab grün wirkende Antwort auf dem Handy: Hover-Ursache und lokale Korrektur](../../../docs/Hilfe-und-Navigation.md#neutrale-antworten-auf-touchgeräten--04102026)
+
 - [Bestätigte Fragenkorrekturen: Planet der Affen, Quellen und Schutz älterer Spiele](../../../docs/Fragenkorrekturen.md)
 - [Projektstart und offene Entscheidungen](../../00%20Projektstart.md)
 - [GitHub-Repository (Remote origin)](https://github.com/LevelX2/Wissensquiz)

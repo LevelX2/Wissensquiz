@@ -87,6 +87,26 @@ for (const viewport of [
         has: page.getByText(selected.text, { exact: true }),
       });
       await expect(selectedButton).toBeEnabled();
+      await expect(page.locator(".answer.correct, .answer.wrong")).toHaveCount(
+        0,
+      );
+      await selectedButton.hover();
+      const canHover = await page.evaluate(
+        () => matchMedia("(hover: hover) and (pointer: fine)").matches,
+      );
+      await expect(selectedButton).toHaveCSS(
+        "background-color",
+        canHover ? "rgb(223, 231, 226)" : "rgb(246, 247, 243)",
+      );
+      if (!canHover) {
+        for (const option of await page
+          .locator(".answer:not(.answer-unknown)")
+          .all())
+          await expect(option).toHaveCSS(
+            "background-color",
+            "rgb(246, 247, 243)",
+          );
+      }
       await page.clock.pauseAt(
         new Date((await page.evaluate(() => Date.now())) + 1000),
       );

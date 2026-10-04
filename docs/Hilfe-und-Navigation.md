@@ -1,5 +1,9 @@
 # Navigation und Hilfe
 
+## Neutrale Antworten auf Touchgeräten – 04.10.2026
+
+Auf [Nutzerhinweis](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerhinweis%20vorab%20gruene%20Antwort.txt) geprüft: Vor der Auswahl bleiben alle vier Antworten auf Touchgeräten gleich hinterlegt. Der allgemeine graugrüne Hover-Hintergrund für Schaltflächen gilt nur bei einem hoverfähigen, präzisen Zeiger (`hover: hover` und `pointer: fine`). Damit kann ein auf dem Handy stehen gebliebener Hover-Zustand keine Antwort vorab hervorheben. Die bisherige Farbe war ein Zeigereffekt, kein Hinweis auf die richtige Lösung; sie war unabhängig von Antwortwahl und Richtigkeit. Tastaturfokus bleibt sichtbar. Nach der Auswahl gelten weiterhin die grünen beziehungsweise roten Antwortmarkierungen aus dem [Lernvertrag](Lernregeln.md#keine-ahnung-als-antwortoption). Lokal korrigiert, noch nicht veröffentlicht; [Prüfnachweis](Pruefbericht.md#04102026--neutrale-antworten-auf-touchgeräten).
+
 ## Mobile Menüleiste am Bildschirmrand – 04.10.2026
 
 Auf [Nutzerwunsch](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerhinweis%20Menueleiste%20ganz%20unten.txt) bleibt die mobile Hauptnavigation fest am unteren Bildschirmrand. Sie endet mit ihrem Hintergrund an der Bildschirmkante; auf dem iPhone berücksichtigt sie die untere Sicherheitszone für den Home-Indikator. `viewport-fit=cover` aktiviert die vorhandenen Sicherheitsabstände. Der reservierte Platz am Seitenende wächst nun zusammen mit dieser Zone, damit der letzte Inhalt und „So funktioniert’s“ über der Leiste erreichbar bleiben. Der Seiteninhalt berücksichtigt zusätzlich die obere Sicherheitszone, die Schaltflächen auch seitliche Aussparungen. Während einer mobilen Quizfrage bleibt die Hauptnavigation wie bisher ausgeblendet.

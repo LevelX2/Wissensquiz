@@ -62,6 +62,8 @@ Eine einmal erreichte Festigung bleibt bei weiteren sicheren Antworten erhalten;
 
 ## Keine Ahnung als Antwortoption
 
+Vor der Antwortwahl sind die vier Möglichkeiten auf Touchgeräten gleich hinterlegt. Der graugrüne allgemeine Hover-Effekt ist auf Geräte mit hoverfähigem, präzisem Zeiger begrenzt; er gibt keine Richtigkeit an. Auf dem Handy kann er daher keine nach einem Tippen stehen gebliebene Hervorhebung mehr erzeugen. Die eigentliche Lösungsmarkierung folgt erst nach einer gespeicherten Antwort. [Oberflächenbefund und lokale Korrektur vom 04.10.2026](Hilfe-und-Navigation.md#neutrale-antworten-auf-touchgeräten--04102026).
+
 Seit 02.10.2026 lokal umgesetzt: Unter den vier gemischten Antworten steht in allen Modi die zusätzliche Auswahl **Keine Ahnung**. Sie gehört nicht zum Frageninhalt und wird nicht mitgemischt. Nutzerziel ist, bewusstes Nichtwissen auszudrücken, ohne eine beliebige falsche Antwort als eigene Wahl zu sehen. Keine Änderung an CSV, Frageobjekten, Antwort-IDs oder Lösungsschlüsseln.
 
 Die Auswahl erzeugt genau ein normales Fehlereignis mit `answerId: null`, `dontKnow: true`, `correct: false`, `guessed: false` und null Rekordpunkten. Lernstufe 0, zehn Minuten Fälligkeit, offene Fehler, Tagesgrenzen und die nur beim Abschluss vergebenen Karriere-XP verwenden ihre jeweiligen Fachregeln. In der Rekordrunde gilt die bestehende 30-Sekunden-Grenze weiter: eine verspätete Auswahl wird als Zeitablauf ohne `dontKnow` gespeichert. Nachträgliche Antwortwahl oder „War geraten“ machen daraus keinen Treffer.
