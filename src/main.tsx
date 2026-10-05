@@ -1,9 +1,12 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 import { AccountApp } from "./AccountApp";
+import { OfflineProvider } from "./offline";
 import "./style.css";
 createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <AccountApp />
+    <OfflineProvider>
+      <AccountApp />
+    </OfflineProvider>
   </React.StrictMode>,
 );

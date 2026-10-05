@@ -1,5 +1,15 @@
 # Konten und gemeinsame Spielstände
 
+## Update-Aktion beim Kontoladen, 05.10.2026
+
+Lokal nach dem Firefox-Vorfall verbessert: Die gemeinsame Offline-/Update-Erkennung startet vor der Kontoöffnung. Ein Fehler beim Laden verhindert damit nicht mehr die Registrierung und Erkennung eines bereitstehenden App-Updates. Die Fehlerseite bietet „Nach Update suchen“ beziehungsweise „Quiz aktualisieren“. In den Optionen steht dieselbe Aktion bereit; außerhalb der Spielansicht erscheint ein erkanntes Update ebenfalls.
+
+Die Aktivierung erfolgt ausdrücklich, erst nach erfolgreicher Installation und ohne weitere offene Quiz-Tabs oder installierte App-Fenster. Im normalen Spielbetrieb bleibt die Schaltfläche bei aktiver oder unterbrochener Runde, laufender lokaler Speicherung sowie noch nicht bestätigter Kontosicherung gesperrt. Der Worker prüft das einzige anfordernde Fenster selbst; bei weiteren Fenstern erhält der Nutzer einen Hinweis und kann nach deren Schließen dieselbe Aktion erneut nutzen. Ein bestätigter Controllerwechsel löst das Neuladen aus. CacheStorage wird erst bei Aktivierung bereinigt; IndexedDB-Spielstände und Outbox werden weder gelöscht noch migriert. Auf der Konto-Ladefehlerseite findet kein neues Spiel statt; vorhandene lokale Sicherungen und Absichten bleiben beim Neuladen in ihrer bestehenden Ablage erhalten.
+
+Die allgemeine Ladefehlermeldung lautet jetzt „Dein Spielstand konnte nicht geöffnet werden“ und bietet Update-Prüfung sowie erneuten Versuch. Eine abgelaufene Anfrage nennt ausdrücklich die fehlende rechtzeitige Serverantwort. Ein beliebiger Lese- oder Validierungsfehler wird damit nicht mehr als Internetstörung dargestellt. Keine Rohfehler, Token oder Spielstandinhalte werden angezeigt.
+
+Bereits im Browser geladener älterer Code erhält die neue Aktion erst nach dem einmaligen Wechsel auf diese Version. Alte Datenformate werden nicht durch neue Adapter oder Fallbacks erhalten. Lokale Umsetzung; noch nicht veröffentlicht. [Updatevertrag](Lernregeln.md#offline-und-updates).
+
 ## Öffentliche GitHub-Meldungen – 04.10.2026
 
 Seit Sites-Version 55: Bestätigte Quiz-Konten können über „Frage melden“ oder das Profil ein öffentliches GitHub-Issue erstellen. Die Serverfunktion prüft den aktuellen Auth-Benutzer und die bestätigte E-Mail; anonyme Konten und Gäste erhalten keine Versandberechtigung. Kontoname, E-Mail-Adresse und Spielstand werden nicht ins Issue übernommen. Die Veröffentlichung erfordert eine ausdrückliche Zustimmung im Formular.

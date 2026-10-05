@@ -29,6 +29,7 @@ import {
 } from "./filters";
 import { read as readStored, update as updateStored } from "./storage";
 import { useOffline } from "./offline";
+import { UpdateNotice } from "./UpdateNotice";
 import { ActivityContext } from "./GuestActivity";
 import { GuestActivityReporter } from "./guestActivityDelivery";
 import { readRoundSetup } from "./roundSetup";
@@ -507,6 +508,15 @@ export function App({
       setPage("round");
     }
   };
+  const updateDisabledReason = state.rounds.some(
+    (round) => round.status === "active",
+  )
+    ? "Beende zuerst Deine laufende Runde."
+    : busy
+      ? "Dein Spielstand wird gerade gespeichert."
+      : sync && sync.status !== "saved"
+        ? "Warte, bis Dein Spielstand online gespeichert ist."
+        : undefined;
   return (
     <div
       className={`app-shell ${page === "round" || duelPlaying ? "is-playing" : ""}`}
@@ -595,11 +605,7 @@ export function App({
             !duelPlaying &&
             page !== "round" &&
             page !== "settings" && (
-              <p className="notice" role="status">
-                Eine neue Quiz-Version ist bereit. Schließe nach Deiner Runde
-                alle Quiz-Tabs und gegebenenfalls die installierte Quiz-App.
-                Öffne sie danach erneut. Dein Fortschritt bleibt erhalten.
-              </p>
+              <UpdateNotice disabledReason={updateDisabledReason} />
             )}
           <PageBoundary key={page}>
             <Suspense fallback={<p role="status">Ansicht wird geladen …</p>}>
@@ -798,6 +804,7 @@ export function App({
                     setState={setState}
                     busy={busy}
                     offline={offline}
+                    updateDisabledReason={updateDisabledReason}
                     onHome={() => setPage("home")}
                   />
                 </>

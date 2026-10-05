@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Update-Aktion vor der Kontoöffnung: sichere Aktivierung und Firefox-Nachweis – 05.10.2026](../../../docs/Konten-und-Spielstaende.md#update-aktion-beim-kontoladen-05102026)
+- [Updatevertrag: Prüfung am App-Start, aktive Runden, unbestätigte Sicherung und weitere Fenster](../../../docs/Lernregeln.md#offline-und-updates)
+
 - [Firefox-Ladefehler: erfolgreiche Serverabrufe und reproduzierter Archivfehler älterer App-Versionen – 05.10.2026](../../../docs/Konten-und-Spielstaende.md#firefox-ladefehler-und-ältere-app-versionen-05102026)
 
 - [Version 55 veröffentlicht: gesamter Main-Stand mit Porträts, Lösungsanzeige, Antworttönen und Meldeformularen](../../../docs/Sites-Betrieb.md#version-55-porträts-lösungsanzeige-antworttöne-und-github-meldeformulare)

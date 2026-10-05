@@ -23,8 +23,9 @@ import {
 import { download, read } from "./storage";
 import type { State } from "./model";
 import { ActivityContext } from "./GuestActivity";
-import { requestWithin } from "./request";
+import { requestWithin, RequestTimeout } from "./request";
 import { ReportContext } from "./issueReports";
+import { UpdateNotice } from "./UpdateNotice";
 
 export const syncText: Record<SyncStatus, string> = {
   loading: "Dein Spielstand wird geladen …",
@@ -128,10 +129,12 @@ export function AccountGame({
         }
         await sync.prepare();
         if (alive && sync.status !== "conflict") setReady(true);
-      } catch {
+      } catch (failure) {
         if (alive)
           setError(
-            "Dein Online-Spielstand konnte nicht geladen werden. Bitte aktualisiere zuerst die Seite. Hilft das nicht, schließe alle Quiz-Tabs oder App-Fenster und öffne das Quiz erneut. Prüfe auch Deine Internetverbindung und versuche es erneut. Deine vorhandenen Spielstände bleiben erhalten.",
+            failure instanceof RequestTimeout
+              ? "Dein Online-Spielstand konnte nicht geladen werden: Der Kontodienst hat nicht rechtzeitig geantwortet. Versuche es erneut. Deine vorhandenen Spielstände bleiben erhalten."
+              : "Dein Spielstand konnte nicht geöffnet werden. Prüfe, ob eine neue Quiz-Version bereitsteht, und versuche es erneut. Deine vorhandenen Spielstände bleiben erhalten.",
           );
       }
       await hold;
@@ -202,6 +205,7 @@ export function AccountGame({
             : "Dein Quiz-Spielstand"}
         </h1>
         <p role="status">{error || syncText[status]}</p>
+        {error && <UpdateNotice always />}
         {status === "conflict" ? (
           <>
             <p>

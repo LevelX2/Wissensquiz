@@ -4,6 +4,7 @@ import { SolutionChoice } from "./SolutionChoice";
 import { DEFAULT_ANSWER_REVEAL_MS, emptyState, type State } from "./model";
 import { download, restore as restoreStored } from "./storage";
 import { useOffline } from "./offline";
+import { UpdateNotice } from "./UpdateNotice";
 import {
   playFeedback,
   stopFeedback,
@@ -20,6 +21,7 @@ export function Settings({
   setState,
   busy,
   offline,
+  updateDisabledReason,
   onHome,
 }: {
   state: State;
@@ -28,6 +30,7 @@ export function Settings({
   setState: (s: State) => void;
   busy: boolean;
   offline: ReturnType<typeof useOffline>;
+  updateDisabledReason?: string;
   onHome: () => void;
 }) {
   const [message, setMessage] = useState("");
@@ -325,12 +328,7 @@ export function Settings({
             speichern.
           </p>
         )}
-        {offline.waiting && (
-          <p className="notice">
-            Ein Update ist bereit. Schließe nach Deiner Runde alle App-Fenster
-            und öffne die App erneut. Dein Fortschritt bleibt erhalten.
-          </p>
-        )}
+        <UpdateNotice always disabledReason={updateDisabledReason} />
         <p className="muted">
           Auf unterstützten Geräten findest Du „Installieren“ oder „Zum
           Home-Bildschirm“ im Browsermenü. Der Offline-Status wird erst nach

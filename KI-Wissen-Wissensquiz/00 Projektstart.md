@@ -2,9 +2,11 @@
 
 04.10.2026 – **Bestandsredaktion abgeschlossen:** Vier Blöcke mit insgesamt 1.099 überarbeiteten bestehenden Fragen. 341 Tests in 57 Dateien, Build und Quellen-/Katalogprüfung erfolgreich. Seit Sites-Version 54 veröffentlicht. [Texte, Quellen und Prüfgrenzen](../docs/Bestandsredaktion-2026-10-04/Index.json).
 
-Stand: 04.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten Stand von der lokalen Umsetzung. Historische Meldungen und frühere Zahlen sind vollständig in der [Projektstart-Historie](00%20Projektstart-Historie-2026-10-03.md) und chronologisch im [Log](03%20Betrieb/Log.md) erhalten.
+Stand: 05.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten Stand von der lokalen Umsetzung. Historische Meldungen und frühere Zahlen sind vollständig in der [Projektstart-Historie](00%20Projektstart-Historie-2026-10-03.md) und chronologisch im [Log](03%20Betrieb/Log.md) erhalten.
 
 ## Aktueller Stand
+
+- Lokal am 05.10.2026 die Update-Erkennung vor die Kontoöffnung gezogen. Konto-Ladefehler und Optionen bieten „Nach Update suchen“ beziehungsweise „Quiz aktualisieren“. Aktive Runden, laufende Speicherung und unbestätigter Kontofortschritt sperren den Wechsel; weitere Quiz-Fenster müssen geschlossen sein. Spielstände und Outbox bleiben erhalten. Allgemeine Ladefehler werden nicht mehr pauschal als Internetstörung bezeichnet. 367 Tests, TypeScript/Build und 16 gezielte Browserprüfungen einschließlich Firefox erfolgreich. Noch nicht veröffentlicht. [Updatevertrag](../docs/Lernregeln.md#offline-und-updates), [Kontoladen und Grenzen](../docs/Konten-und-Spielstaende.md#update-aktion-beim-kontoladen-05102026).
 
 - Lokal am 04.10.2026 GitHub-Meldungen aus Frage und Profil umgesetzt: vier Typen mit festen Labels, öffentliche Zustimmung, bestätigtes Quiz-Konto, Issue-Link und Wiederaufnahme mit derselben Meldungs-ID. Private Spielstände werden nicht mitgesendet. Neue Servererweiterung in Supabase eingerichtet und Oberfläche seit Sites-Version 55 veröffentlicht; GitHub-Secret noch offen. Frühere lokale Meldungen bleiben exportierbar. [Meldevertrag und Einrichtung](../docs/GitHub-Meldungen.md).
 

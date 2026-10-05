@@ -19,6 +19,11 @@ export default defineConfig({
   projects: [
     { name: "chromium", use: { ...devices["Desktop Chrome"] } },
     {
+      name: "firefox",
+      testMatch: ["updates.spec.ts", "entry-sync.spec.ts"],
+      use: { ...devices["Desktop Firefox"] },
+    },
+    {
       name: "webkit-mobile",
       testMatch: [
         "audio.spec.ts",
