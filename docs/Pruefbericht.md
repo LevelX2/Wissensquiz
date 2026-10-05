@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 05.10.2026 – Firefox-Kontoabruf und synthetische Archivprüfung
+
+Zwei vorhandene Eintragskonto-Browserfälle in einem isolierten Firefox 155 erfolgreich (37,9 Sekunden): verlorene Bestätigung nach Reload wiederholen, vollständige JSON-Sicherung, unveränderten Stand ohne erneuten Inhaltsabruf öffnen, Offlineabsichten vor Fremdänderungen schützen sowie beim ausdrücklich gewählten Online-Stand eine Rückfallkopie erhalten. Kontrollierte Testzeit und ausschließlich synthetische Kontodienste; Service Worker in diesen Fällen gesperrt. Temporäre Firefox-Konfiguration, keine neue Projektabhängigkeit und keine Änderung am Pflichtprüfumfang.
+
+Separater isolierter Firefox-Vergleich desselben synthetischen Ergebnisarchivs mit den tatsächlichen `releaseHashes`-Funktionen aus `06765cb` und `4aac751`: alter Stand scheitert an fehlendem `q.ref`, veröffentlichter aktueller Stand akzeptiert das Archiv. Lesende Produktionsdiagnose bestätigt erfolgreiche Anmelde-/Abrufantworten, vollständige serverseitige Pagination und gültiges aktuelles Seitenschema. Das öffentliche Produktionsbundle enthält bereits den erweiterten Aktualisierungshinweis. Keine echten Spielstände für Tests geändert; temporäre private Seitendaten nach Auswertung entfernt. Kein App-Code geändert, daher keine erneute Veröffentlichung, Migration, vollständiger Test- oder Buildlauf. Diff-Prüfung und Wissenslinks geprüft. [Befund, Prüfgrenzen und Handlung](Konten-und-Spielstaende.md#firefox-ladefehler-und-ältere-app-versionen-05102026).
+
 ## 04.10.2026 – Alle Film-Jahresfragen mit zeitlichen Ankern
 
 545 bestehende Film-Jahresfragen mit individuellen Vertiefungen, Merksätzen und Ereignisquellen ergänzt: 425 generierte und 120 CSV-Fragen. 447 Anker verbinden dasselbe Jahr, 98 nennen beide Jahre und ihren Abstand; 294 führen über weitere Filme hinaus. Die Auflösung erfolgt erst nach der Antwort. Rohfragen, IDs, Versionen, richtige Antworten, Lernstände und Kataloghash bleiben unverändert. [Maßstab, Beispiele, Quellen und vollständiger Vorher-/Nachher-Nachweis](Jahresanker-2026-10-04/Pruefbericht.md).
