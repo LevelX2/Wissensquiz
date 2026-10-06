@@ -1,0 +1,68 @@
+{
+  "asOf": "2026-10-06",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 56,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_c694a9b67ab08191b834c30ad387a6c0",
+  "deployment_id": "appgdep_6ac535523f108191b2f3e3ee78b96bff",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-06T17:52:40.216116+00:00",
+  "source_commit": "981158869dc8641b3cd6cadeb5e271bcf442812e",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_0000000039b0820aa2358d12cb16a154",
+    "content_hash": "sha256:10397f4b35d197ac5eaf6f6c675929902a40b5e43f19e5a97f21db1c2f1e528d",
+    "size_bytes": 47216640,
+    "file_count": 89
+  },
+  "access": {
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "latestVersion": 56,
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "packages": 20,
+  "catalog": {
+    "questions": 8197,
+    "knowledgeGoals": 7653,
+    "filmWorks": 785,
+    "newFilms": 240,
+    "newQuestions": 1920,
+    "newGoals": 1919,
+    "sharedGoalVariants": 1,
+    "releaseHash": "628460bcd19115a855850aa7ff1953cd5989387c358edd1616085a09e26c5adb",
+    "scoreFields": 8197,
+    "digests": 8197,
+    "duelQuestions": 6747,
+    "newDuelQuestions": 1920,
+    "priorReleasesRetained": 4,
+    "pendingPublicationParts": 0
+  },
+  "checks": {
+    "testFiles": 62,
+    "tests": 371,
+    "chromiumBrowserCases": 5,
+    "sourceOrganization": true,
+    "build": true,
+    "diff": true,
+    "testedBuildFiles": 88,
+    "publishedBuildUnchanged": true,
+    "foreignFilesPreserved": 17,
+    "githubPush": false,
+    "privatePlayerDataTouched": false,
+    "liveBrowserQa": false,
+    "releaseMetadataPersistedAndRead": true,
+    "anonymousReleaseRpc": true,
+    "directReleaseTableAccess": false
+  },
+  "offline": {
+    "package": "film-fafbd1bb215a",
+    "cacheFiles": 86
+  },
+  "limits": [
+    "Browsernachweis dieser Integration nur Chromium; bestehende Nachweise anderer Browser nicht erneut vollständig ausgeführt.",
+    "Redaktionelle Schwierigkeit und Bekanntheit sind nicht empirisch kalibriert.",
+    "Frühere 40-Filme-Ergänzung bleibt außerhalb dieses Veröffentlichungsauftrags."
+  ]
+}

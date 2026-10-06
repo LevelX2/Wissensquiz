@@ -94,6 +94,6 @@ Das Quellenrecherche-Skript legt seine Downloads ausschließlich im ignorierten 
 
 ## Übergabestand
 
-Die Fragen sind als redaktionelles Paket fertiggestellt und lokal auf `main` gesichert. **Sie sind noch nicht in den aktiven App-Katalog übernommen oder veröffentlicht.** Bekanntheit, Produktionsländer und Regienotizen liegen in der getrennten Filmdatenübergabe; der CSV-Parser aktiviert diese Angaben nicht automatisch. Für eine spätere Übernahme müssen die bereits enthaltenen Jahres-/Regiezeilen erhalten und eine zusätzliche Faktenerzeugung für diese neuen Filme vermieden werden.
+Die Fragen sind als redaktionelles Paket fertiggestellt und lokal auf `main` gesichert. Auf den anschließenden Nutzerauftrag „Dann bitte veröffentlichen“ wurden **alle 240 Filme und 1.920 Fragen in die App übernommen und als Sites-Version 56 öffentlich veröffentlicht**. Bekanntheit, Produktionsländer und Regienotizen sind gesondert angebunden; die enthaltenen Jahres-/Regiezeilen bleiben erhalten und zusätzliche Faktenerzeugung für diese Filme wurde vermieden. [Aktueller Integrations- und Veröffentlichungsnachweis](Integration.md).
 
-Vorgefundene fremde Änderungen bleiben außerhalb dieses Änderungsblocks erhalten. Push und Veröffentlichung wurden nicht ausgeführt.
+Vorgefundene fremde Änderungen bleiben außerhalb der eigenen Commits erhalten. Quellcode wurde ausschließlich in das Sites-Quellrepository übertragen; kein GitHub-Push. Die obigen redaktionellen Parsernachweise beschreiben den Prüfstand vor der anschließenden App-Integration.

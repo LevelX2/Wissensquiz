@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Version 56 veröffentlicht: 240 zusätzliche Filme und 1.920 Fragen](../../../docs/Sites-Betrieb.md#version-56-240-zusätzliche-filme-und-1920-fragen)
+- [Version 56: native Veröffentlichungsdaten und Prüfnachweise](../../../docs/Veroeffentlichung-2026-10-06-Version-56.json)
+
 - [Integration und Veröffentlichung der 240-Filme-Ergänzung – 06.10.2026](../../../docs/Filmfragen-Ergaenzung-2026-10-06/Integration.md)
 
 - [Fragen-Ergänzung: 20 zusätzliche Filme je Genre, 240 Filme und 1.920 Fragen – 06.10.2026](../../../docs/Filmfragen-Ergaenzung-2026-10-06/Pruefbericht.md)

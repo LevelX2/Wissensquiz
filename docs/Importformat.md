@@ -1,5 +1,7 @@
 # Fragenimport – Vertrag Version 1
 
+06.10.2026 – **240-Filme-Ergänzung veröffentlicht:** 1.920 Fragen im bestehenden 31-Spalten-CSV-Vertrag, bytegleich zur Redaktionsquelle als zwanzigstes App-Paket eingebunden. Jahr und Regie sind ausdrücklich enthalten; keine weitere Faktenerzeugung für diese neuen Filme. Eine Nomadland-Regievariante referenziert das vorhandene Personen-Wissensziel, deshalb steht das Paket am Ende. Gesamt 8.197 Fragen / 7.653 Ziele; gesonderte Filmdaten und Bekanntheit sind angebunden. [Integration und Quellen](Filmfragen-Ergaenzung-2026-10-06/Integration.md).
+
 04.10.2026 – **Selektive ältere Redaktion:** 20 weitere öffentliche CSV-Zeilen, davon 19 Filmfragen und eine Personen-Auswahl; insgesamt 238 dokumentierte Zeilenabweichungen. 41 Personen-Anzeigen mit bestehenden Schutzschlüsseln redigiert. Rohquellen, IDs und Importverhalten erhalten. [Block 3](Bestandsredaktion-2026-10-04/Block-03.json).
 
 04.10.2026 – **Preisredaktion vollständig:** 198 weitere öffentliche Preiszeilen redigiert; insgesamt 218 dokumentierte CSV-Zeilenabweichungen. Prüfungen verfolgen die lückenlose Folge registrierter Redaktionsblöcke ab Rohquelle. Importverhalten und IDs unverändert. [Block 2](Bestandsredaktion-2026-10-04/Block-02.json).

@@ -1,12 +1,18 @@
 # Organisation der Fragedaten
 
+## Aktueller Bestand – 06.10.2026, Version 56
+
+**20 Pakete, 8.197 Fragen, 7.653 Wissensziele und 544 Variantenbezüge.** Die 240-Filme-Ergänzung ist das letzte Paket und verwendet eine bestehende Nomadland-Regieidentität aus dem Personenpaket. Ihr App-CSV ist bytegleich zur gesonderten Redaktionsquelle; die Quellenprüfung löst diesen Pfad ausdrücklich auf. [Integration, Filmdaten und Abgrenzungen](Filmfragen-Ergaenzung-2026-10-06/Integration.md).
+
+Aktueller öffentlicher Serverkatalog: `628460bcd19115a855850aa7ff1953cd5989387c358edd1616085a09e26c5adb`, 8.197 Fragen/Nachweise/Bewertungsfelder. Vier frühere Releases bleiben erhalten. Verlustfreier Katalogrücklauf und Sicherungsprüfung bestanden; der [aktuelle Organisationsnachweis](Fragedaten-Pruefung.json) umfasst alle 20 Pakete. Vollständiges Frage-JSON 25.909.209 Bytes, kompakter Katalog 18.826.672 Bytes, Einsparung 27,34 Prozent. Dies sind Nutzdatenmengen, keine Browser-Speicherquoten oder allgemeine Zeitmessung. Die folgenden Abschnitte dokumentieren frühere Rolloutstände.
+
 ## Schauspieler-Ergänzungen und offizieller Rekordpool – 03.10.2026
 
-Der aktuelle Gesamtbestand umfasst **19 Pakete, 6.277 Fragen, 5.734 Wissensziele und 543 Varianten**. Darunter sind **1.400 Schauspielerfragen für 175 Personen** einschließlich P02/P03. Die ursprünglichen 17 Paket-CSV waren beim Import bytegleich mit ihren Rohquellen. Am 04.10.2026 sind 20 ausdrücklich dokumentierte Datensätze redigiert (drei bereits veröffentlichte Korrekturen plus 17 in Block 1); die Rohquellen bleiben erhalten. [Redaktion und Grenzen](Fragenkorrekturen.md#bestandsredaktion-block-1--04102026). Die beiden neuen App-CSV werden reproduzierbar aus den erhaltenen Redaktions-JSONs abgeleitet; Original- und Ableitungsprüfsummen stehen im [Integrationsbericht](Schauspieler-Ergaenzungen-Integration.json). Sie werden ausdrücklich als Ableitungen geprüft, ohne sie als gelieferte Roh-CSV auszugeben.
+Der damalige Gesamtbestand umfasst **19 Pakete, 6.277 Fragen, 5.734 Wissensziele und 543 Varianten**. Darunter sind **1.400 Schauspielerfragen für 175 Personen** einschließlich P02/P03. Die ursprünglichen 17 Paket-CSV waren beim Import bytegleich mit ihren Rohquellen. Am 04.10.2026 sind 20 ausdrücklich dokumentierte Datensätze redigiert (drei bereits veröffentlichte Korrekturen plus 17 in Block 1); die Rohquellen bleiben erhalten. [Redaktion und Grenzen](Fragenkorrekturen.md#bestandsredaktion-block-1--04102026). Die beiden neuen App-CSV werden reproduzierbar aus den erhaltenen Redaktions-JSONs abgeleitet; Original- und Ableitungsprüfsummen stehen im [Integrationsbericht](Schauspieler-Ergaenzungen-Integration.json). Sie werden ausdrücklich als Ableitungen geprüft, ohne sie als gelieferte Roh-CSV auszugeben.
 
 `npm run check:questions` prüft beide Quellentypen, eindeutige IDs, fehlerfreie Importe und den exakten Sicherungs-/Katalogrücklauf. Der aktuelle [Prüfbericht](Fragedaten-Pruefung.json) verwendet dafür `question-organization-audit-v2`. Offizielle Rekordpools enthalten auch Varianten mit Bezug auf Fragen aus anderen Paketen. Beim Upgrade werden die Paketquellen einmal vollständig zur Zuordnung geprüft; abweichende eigene Fragen mit gleichen IDs bleiben erhalten.
 
-Der Serverkatalog `c976df8caf9146bb7bc6903ff94ce07382ea15596785b65116e3c57d13cc9fa2` umfasst den vollständigen neuen Bestand. Frühere Releases bleiben verfügbar, solange Kataloge oder noch vollständige Runden sie referenzieren. Archivierte Runden benötigen nur ihre Wertungsfakten und keine alten Fragentexte. [Gesamtintegration](Gesamtintegration-2026-10-03.md).
+Der Serverkatalog `c976df8caf9146bb7bc6903ff94ce07382ea15596785b65116e3c57d13cc9fa2` umfasst den vollständigen damaligen Bestand. Frühere Releases bleiben verfügbar, solange Kataloge oder noch vollständige Runden sie referenzieren. Archivierte Runden benötigen nur ihre Wertungsfakten und keine alten Fragentexte. [Gesamtintegration](Gesamtintegration-2026-10-03.md).
 
 ## Verkürzte Rundenergebnisse – Version 46
 
