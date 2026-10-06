@@ -52,7 +52,7 @@ function atRank(q: Question, index: number, previous?: Question) {
 
 it("erreicht alle vier zeitlichen Ränge bei generierten und CSV-Jahresfragen ohne die Lösung oder Frageidentität zu ändern", () => {
   expect(generated).toHaveLength(425);
-  expect(fixed).toHaveLength(125);
+  expect(fixed).toHaveLength(365);
   for (const q of [...generated, ...fixed]) {
     const before = structuredClone(q),
       year = correctYear(q),

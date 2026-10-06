@@ -69,7 +69,7 @@ it("erzeugt serverseitig für alle Jahresfragen gültige, clientlesbare Snapshot
     "select jsonb_agg(public.quiz_year_question(q)) as variants from jsonb_array_elements($1) q",
     [years],
   );
-  expect(result.rows[0].variants).toHaveLength(550);
+  expect(result.rows[0].variants).toHaveLength(790);
   for (const [i, q] of result.rows[0].variants.entries()) {
     expect(questionSnapshotMatches(years[i], q)).toBe(true);
     if (!q.metadata.fact_kind)

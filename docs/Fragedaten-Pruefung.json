@@ -1,17 +1,17 @@
 {
   "format": "question-organization-audit-v2",
   "scope": "Öffentliche App-Pakete, Kategoriezuordnungen und generierte Filmfragen; keine Spielerdaten. Größen sind UTF-8-JSON-Nutzdaten, keine Messung der Browser-Speicherquote.",
-  "catalogSha256": "8ec6bc51d4b3af3a69132de2338072b96e623167538558b20d1fc6bae7d77c14",
+  "catalogSha256": "72f162271b73dd0bda69caa2aa44b671d395c053dbd04c10bc001ab7ec553f8a",
   "counts": {
-    "packages": 19,
-    "questions": 6277,
-    "knowledgeGoals": 5734,
+    "packages": 20,
+    "questions": 8197,
+    "knowledgeGoals": 7653,
     "duplicateQuestionIds": 0,
-    "questionsWithVariantReference": 543,
+    "questionsWithVariantReference": 544,
     "generatedFilmQuestions": 837
   },
   "checks": {
-    "originalCsvSourcesByteIdentical": 3,
+    "originalCsvSourcesByteIdentical": 4,
     "editoriallyChangedRowsVerified": 238,
     "derivedActorPackagesSourceAndCsvHashesVerified": 2,
     "rejectedImports": 0,
@@ -21,11 +21,11 @@
   },
   "localCatalog": {
     "encoding": "json-field-refs-v1",
-    "fullJsonBytes": 19848296,
-    "compactJsonBytes": 14626892,
-    "savedBytes": 5221404,
-    "savedPercent": 26.31,
-    "referencedMetadataValues": 91815
+    "fullJsonBytes": 25909209,
+    "compactJsonBytes": 18826672,
+    "savedBytes": 7082537,
+    "savedPercent": 27.34,
+    "referencedMetadataValues": 127020
   },
   "roundBefore": {
     "previousBehavior": "Jede neue Solorunde kopierte alle vorhandenen Lernstände.",

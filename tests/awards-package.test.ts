@@ -26,7 +26,11 @@ import {
 
 // Keep this regression at the award package's original catalog stage.
 const contents = packages
-  .filter((p) => !p.filename.startsWith("Schauspieler_"))
+  .filter(
+    (p) =>
+      !p.filename.startsWith("Schauspieler_") &&
+      p.filename !== "Filmfragen_240_Filme_1920_Fragen.csv",
+  )
   .map((p) => ({
     filename: p.filename,
     text: readFileSync(`public${p.path}`, "utf8"),

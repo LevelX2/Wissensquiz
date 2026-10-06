@@ -39,8 +39,8 @@ it("vereint alle Film-, Preis- und Personenfragen ohne Kategorien als Einschrän
   const pool = catalog.questions.filter(
     (q) => matchesTopic(q, topic) && matchesFilters(q, all),
   );
-  expect(pool).toHaveLength(6277);
-  expect(pool.filter((q) => questionSourceOf(q) === "film")).toHaveLength(4677);
+  expect(pool).toHaveLength(8197);
+  expect(pool.filter((q) => questionSourceOf(q) === "film")).toHaveLength(6597);
   expect(pool.filter((q) => questionSourceOf(q) === "awards")).toHaveLength(
     200,
   );
@@ -55,12 +55,12 @@ it("vereint alle Film-, Preis- und Personenfragen ohne Kategorien als Einschrän
       topic,
       difficulty: "Alle Stufen",
       filters: all,
-      size: 6000,
+      size: 8000,
       now,
     },
     () => 0.5,
   );
-  expect(drawn).toHaveLength(5734);
+  expect(drawn).toHaveLength(7653);
   expect(new Set(drawn.map((q) => q.knowledgeId)).size).toBe(drawn.length);
 });
 it("wendet Genre, Classics und Filmgruppen nur auf Filmfragen und die Schwierigkeit auf alle Bereiche an", () => {

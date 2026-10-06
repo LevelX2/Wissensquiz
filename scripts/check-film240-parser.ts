@@ -12,7 +12,7 @@ const output='docs/Filmfragen-Ergaenzung-2026-10-06';
 const filename='Filmfragen_240_Filme_1920_Fragen.csv';
 Date.now=()=>Date.UTC(2026,9,6,8);
 const state=emptyState();
-const inputs=packages.map(p=>({filename:p.filename,text:readFileSync(`public${p.path}`,'utf8')}));
+const inputs=packages.filter(p=>p.filename!==filename).map(p=>({filename:p.filename,text:readFileSync(`public${p.path}`,'utf8')}));
 addPackages(state,inputs);
 const csv=readFileSync(`${output}/${filename}`,'utf8');
 const formal=JSON.parse(readFileSync(`${output}/Formale-Pruefung.json`,'utf8'));

@@ -6,6 +6,7 @@ import directorContexts from "./directorContexts.json" with { type: "json" };
 import allGenres from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json" with { type: "json" };
 import allGenresDirectorContexts from "./allGenresDirectorContexts.json" with { type: "json" };
 import allGenresCountryNotes from "./allGenresCountryNotes.json" with { type: "json" };
+import film240 from "./film240Metadata.json" with { type: "json" };
 import type { Difficulty, Question } from "./model";
 import { fingerprint } from "./importer";
 import { categories, isCategory, withCategoryTags } from "./categories";
@@ -29,6 +30,9 @@ const actorData = new Map(
 const allGenresByFilm = new Map(
   allGenres.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
 );
+const film240ByFilm = new Map(
+  film240.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
+);
 
 // Read-only enrichment: also works for historical snapshots without modifying them.
 export function filmData(q: Question, reference?: string) {
@@ -37,7 +41,7 @@ export function filmData(q: Question, reference?: string) {
   // Keep established film metadata when award questions reuse the same film.
   const f =
     byFilm.get(key) ??
-    (allGenresByFilm.has(key)
+    (allGenresByFilm.has(key) || film240ByFilm.has(key)
       ? undefined
       : (awardData.get(key) ?? actorData.get(key)));
   if (f) {
@@ -59,7 +63,7 @@ export function filmData(q: Question, reference?: string) {
       sources: [...new Set([f.source, ...(f.additionalSources ?? [])])],
     };
   }
-  const newer = allGenresByFilm.get(key);
+  const newer = film240ByFilm.get(key) ?? allGenresByFilm.get(key);
   if (!newer) return undefined;
   const background = (
     allGenresDirectorContexts as Record<
@@ -72,7 +76,9 @@ export function filmData(q: Question, reference?: string) {
     year: newer.film_year,
     directors: names(newer.directors),
     countries: newer.production_countries,
-    countryNote: (allGenresCountryNotes as Record<string, string>)[key] ?? "",
+    countryNote: "country_note" in newer
+      ? newer.country_note
+      : (allGenresCountryNotes as Record<string, string>)[key] ?? "",
     series: newer.series,
     releaseNote: newer.release_note,
     directorNote: newer.director_note,

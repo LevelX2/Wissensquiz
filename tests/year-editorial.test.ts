@@ -15,12 +15,12 @@ addPackages(
   })),
 );
 
-it("erreicht alle 545 Film-Jahresfragen und lässt die fünf sonstigen Jahresziele unverändert", () => {
+it("erreicht alle 545 Bestands-Jahresfragen und lässt die 240 neuen Filmfragen sowie fünf sonstigen Jahresziele unverändert", () => {
   const texts = new Set<string>();
   const numericYears = state.questions.filter((q) =>
     q.answers.every((answer) => /^\d{4}$/.test(answer.text)),
   );
-  expect(numericYears).toHaveLength(550);
+  expect(numericYears).toHaveLength(790);
   expect(Object.keys(editorial)).toHaveLength(545);
   const before = JSON.stringify(state);
   const revised = state.questions.filter((q) => yearPresentation(q));
@@ -44,7 +44,7 @@ it("erreicht alle 545 Film-Jahresfragen und lässt die fünf sonstigen Jahreszie
   }
   expect(texts.size).toBe(545);
   expect(JSON.stringify(state)).toBe(before);
-  expect(numericYears.filter((q) => !yearPresentation(q))).toHaveLength(5);
+  expect(numericYears.filter((q) => !yearPresentation(q))).toHaveLength(245);
 });
 
 it("liefert konkrete historische und wissenschaftliche Anker sowie Ergänzungen für CSV-Jahresfragen", () => {

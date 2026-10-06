@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Integration und Veröffentlichung der 240-Filme-Ergänzung – 06.10.2026](../../../docs/Filmfragen-Ergaenzung-2026-10-06/Integration.md)
+
 - [Fragen-Ergänzung: 20 zusätzliche Filme je Genre, 240 Filme und 1.920 Fragen – 06.10.2026](../../../docs/Filmfragen-Ergaenzung-2026-10-06/Pruefbericht.md)
 - [Lesefassung der 240-Filme-Ergänzung mit Lösungen und Quellen](../../../docs/Filmfragen-Ergaenzung-2026-10-06/Fragenlesefassung.md)
 - [Nutzerauftrag: 20 Filme je Kategorie und parallele Redaktionsagenten](../../01%20Rohquellen/2026-10-06%20Nutzerauftrag%2020%20Filme%20je%20Kategorie.txt)

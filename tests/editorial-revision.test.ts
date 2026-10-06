@@ -20,8 +20,8 @@ it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen 
       text: readFileSync(`public${p.path}`, "utf8"),
     })),
   );
-  expect(state.questions).toHaveLength(6277);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(5734);
+  expect(state.questions).toHaveLength(8197);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7653);
   for (const entry of revision.changes) {
     const q = state.questions.find((q) => q.id === entry.id)!;
     expect(q.knowledgeId, q.id).toBe(entry.knowledgeId);
@@ -45,7 +45,9 @@ it("erlaubt in den öffentlichen CSVs genau die dokumentierten Zeilenänderungen
     changed += assertEditorialSource(
       readFileSync(`public${pkg.path}`, "utf8"),
       readFileSync(
-        `KI-Wissen-Wissensquiz/01 Rohquellen/${pkg.filename}`,
+        pkg.filename === "Filmfragen_240_Filme_1920_Fragen.csv"
+          ? `docs/Filmfragen-Ergaenzung-2026-10-06/${pkg.filename}`
+          : `KI-Wissen-Wissensquiz/01 Rohquellen/${pkg.filename}`,
         "utf8",
       ),
       `public${pkg.path}`,

@@ -24,10 +24,13 @@ import {
   latestCsvRevision,
 } from "./editorialSource";
 
-const contents = packages.map((pkg) => ({
-  filename: pkg.filename,
-  text: readFileSync(`public${pkg.path}`, "utf8"),
-}));
+// Keep this regression at the actor package's original catalog stage.
+const contents = packages
+  .filter((pkg) => pkg.filename !== "Filmfragen_240_Filme_1920_Fragen.csv")
+  .map((pkg) => ({
+    filename: pkg.filename,
+    text: readFileSync(`public${pkg.path}`, "utf8"),
+  }));
 const actorPackage = contents.find(
   (pkg) => pkg.filename === "Schauspieler_800_Fragen_App.csv",
 )!;
