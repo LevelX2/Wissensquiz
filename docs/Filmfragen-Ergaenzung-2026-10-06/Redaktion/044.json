@@ -1,0 +1,216 @@
+{
+  "rank": 44,
+  "directors": [
+    "Lee Isaac Chung"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Prämiertes koreanisch-amerikanisches Familienkino mit begrenzterer Breitenbekanntheit; Kennerfilm.",
+  "release_note": "Sundance-Premiere 26. Januar 2020; A24 listet den breiten Start 2021.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Minari_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://a24films.com/films/minari",
+      "supports": "Regie, Besetzung, Arkansas und Sundance-Auszeichnungen 2020; das Studiojahr 2021 bezeichnet den breiten Start."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Womit möchte Jacob (Steven Yeun) in @ seiner Familie eine neue Existenz aufbauen?",
+      "answers": [
+        "Mit einer Gemüsefarm",
+        "Mit einem Hotel",
+        "Mit einer Autowerkstatt",
+        "Mit einem Fischrestaurant"
+      ],
+      "feedback": [
+        "Jacob baut eine Gemüsefarm auf.",
+        "Ein Hotel ist nicht sein Plan.",
+        "Eine Werkstatt bildet nicht sein Projekt.",
+        "Ein Restaurant eröffnet er nicht."
+      ],
+      "short": "Jacob baut eine Gemüsefarm auf.",
+      "context": "Jacob (Steven Yeun) baut eine Gemüsefarm auf. Er möchte koreanische Erzeugnisse verkaufen; die eigenständige Landwirtschaft belastet jedoch die knappen Mittel und die Beziehung zu Monica (Han Ye-ri).",
+      "anchor": "Jacobs Selbstständigkeit soll auf dem Feld wachsen.",
+      "interest": "Jacobs Selbstständigkeit soll auf dem Feld wachsen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "In welchen US-Bundesstaat zieht die Familie in @?",
+      "answers": [
+        "Arkansas",
+        "Alaska",
+        "Florida",
+        "Massachusetts"
+      ],
+      "feedback": [
+        "Die Familie zieht nach Arkansas.",
+        "Alaska bietet nicht den gezeigten Farmstandort.",
+        "Florida ist nicht die neue Heimat.",
+        "Massachusetts ist nicht der Zielstaat."
+      ],
+      "short": "Die Familie zieht nach Arkansas.",
+      "context": "Die Familie zieht nach Arkansas. Der Umzug aus Kalifornien führt sie in ein ländliches Umfeld; die Entfernung zu gewohnten Einrichtungen verunsichert Monica (Han Ye-ri).",
+      "anchor": "Der Neuanfang liegt im ländlichen Arkansas.",
+      "interest": "Der Neuanfang liegt im ländlichen Arkansas.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum fremdelt David (Alan Kim) zunächst mit Soon-ja (Youn Yuh-jung) in @?",
+      "answers": [
+        "Sie entspricht nicht seinem Bild einer Großmutter.",
+        "Sie behandelt ihn wie einen erwachsenen Farmarbeiter.",
+        "Sie besteht auf strengem Schulunterricht im Haus.",
+        "Sie spricht grundsätzlich nicht mit ihm."
+      ],
+      "feedback": [
+        "Soon-ja entspricht nicht Davids Großmutterbild.",
+        "Die Irritation betrifft seine Großmuttervorstellung.",
+        "Ein strenger Unterricht ist nicht der Grund.",
+        "Soon-ja sucht gerade Kontakt zu David."
+      ],
+      "short": "Soon-ja entspricht nicht Davids Großmutterbild.",
+      "context": "Soon-ja (Youn Yuh-jung) entspricht nicht Davids Großmutterbild. Ihr Verhalten irritiert ihn zunächst; Spiel, Pflege und gemeinsame Zeit am Bach schaffen später eine eigene Beziehung zwischen ihnen.",
+      "anchor": "David lernt eine Großmutter jenseits seiner Erwartungen kennen.",
+      "interest": "David lernt eine Großmutter jenseits seiner Erwartungen kennen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie unterstützt Soon-ja (Youn Yuh-jung) David (Alan Kim) in @ im Umgang mit seiner Herzschwäche?",
+      "answers": [
+        "Sie ermutigt ihn zu mehr Bewegung.",
+        "Sie hält ihn konsequent vom Spielen fern.",
+        "Sie behandelt die Herzschwäche als Faulheit.",
+        "Sie erklärt, nur der Vater dürfe über seine Bewegung entscheiden."
+      ],
+      "feedback": [
+        "Soon-ja ermutigt David, sich mehr zuzutrauen.",
+        "Soon-ja ermutigt ihn zur Bewegung.",
+        "Sie verurteilt seine Erkrankung nicht als Faulheit.",
+        "Sie unterstützt ihn selbst."
+      ],
+      "short": "Soon-ja ermutigt David, sich mehr zuzutrauen.",
+      "context": "Soon-ja (Youn Yuh-jung) ermutigt David (Alan Kim), sich mehr zuzutrauen. Während die Eltern häufig vor dem Laufen warnen, vermittelt sie ihm Zuversicht; ihre Nähe verändert seine Angst vor dem eigenen Körper.",
+      "anchor": "Soon-ja stärkt Davids Vertrauen in sich selbst.",
+      "interest": "Soon-ja stärkt Davids Vertrauen in sich selbst.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche gemeinsame Handlung folgt in @, als die Scheune brennt?",
+      "answers": [
+        "Jacob und Monica retten schließlich einander.",
+        "Jacob rettet ausschließlich die Ernte und bleibt allein zurück.",
+        "Monica verlässt den Hof sofort mit den Kindern.",
+        "Beide warten draußen, ohne die Scheune zu betreten."
+      ],
+      "feedback": [
+        "Jacob (Steven Yeun) und Monica (Han Ye-ri) retten schließlich einander.",
+        "Die Ernte verliert gegenüber der gegenseitigen Rettung ihre Vorrangstellung.",
+        "Monica hilft Jacob im Brand.",
+        "Sie greifen beide ein."
+      ],
+      "short": "Jacob (Steven Yeun) und Monica (Han Ye-ri) retten schließlich einander.",
+      "context": "Jacob (Steven Yeun) und Monica (Han Ye-ri) retten schließlich einander. Der Versuch, die Ernte zu bewahren, scheitert; die unmittelbare Lebensgefahr stellt ihre Bindung vor den wirtschaftlichen Traum.",
+      "anchor": "Beim Brand zählt das Gegenüber mehr als die Ernte.",
+      "interest": "Beim Brand zählt das Gegenüber mehr als die Ernte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entscheidung am Schluss von @ zeigt Jacobs (Steven Yeun) veränderten Umgang mit Hilfe?",
+      "answers": [
+        "Er lässt einen Wünschelrutengänger den Brunnenplatz suchen.",
+        "Er will den neuen Brunnen wieder ausschließlich selbst bestimmen.",
+        "Er stellt die Bewässerung vollständig ein.",
+        "Er verlässt den Hof endgültig."
+      ],
+      "feedback": [
+        "Jacob nimmt die zuvor abgelehnte Hilfe bei der Wassersuche an.",
+        "Die Hinzuziehung eines Helfers zeigt die Veränderung.",
+        "Die Farmarbeit wird nicht vollständig aufgegeben.",
+        "Ein endgültiger Wegzug wird nicht gezeigt."
+      ],
+      "short": "Jacob nimmt die zuvor abgelehnte Hilfe bei der Wassersuche an.",
+      "context": "Jacob (Steven Yeun) nimmt die zuvor abgelehnte Hilfe bei der Wassersuche an. Damit ändert sich sein Anspruch, alles allein zu bestimmen; der Schluss zeigt einen weiteren Versuch, auf dem Land zu bleiben.",
+      "anchor": "Der neue Brunnen beginnt mit angenommener Hilfe.",
+      "interest": "Der neue Brunnen beginnt mit angenommener Hilfe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2020",
+        "2018",
+        "2015",
+        "2021"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2020.",
+        "2018 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2015 liegt fünf Jahre davor.",
+        "2021 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2020 erstmals veröffentlicht.",
+      "context": "2020 feierte der Film in Sundance Premiere. Die Geschichte spielt 1983 und beruht auf Erinnerungen des Regisseurs an seine Kindheit. Zwischen dargestelltem Neuanfang und Festivalfilm liegen somit 37 Jahre.",
+      "anchor": "Die 1983 angesiedelte Kindheit wurde 37 Jahre später, 2020, zum Film.",
+      "interest": "Die 1983 angesiedelte Kindheit wurde 37 Jahre später, 2020, zum Film.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Lee Isaac Chung",
+        "Lulu Wang",
+        "Kogonada",
+        "Wayne Wang"
+      ],
+      "feedback": [
+        "Lee Isaac Chung führte Regie.",
+        "Lulu Wang führte bei diesem Film nicht Regie.",
+        "Kogonada führte bei diesem Film nicht Regie.",
+        "Wayne Wang führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Lee Isaac Chung.",
+      "context": "Chung schrieb aus Erinnerungen an seine Kindheit in Arkansas. Obwohl viel Koreanisch gesprochen wird, ist der Film eine US-Produktion; Sprache, Herkunft der Familie und Produktionsland beschreiben unterschiedliche Ebenen.",
+      "anchor": "Chung schrieb aus Erinnerungen an seine Kindheit in Arkansas.",
+      "interest": "Chung schrieb aus Erinnerungen an seine Kindheit in Arkansas.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

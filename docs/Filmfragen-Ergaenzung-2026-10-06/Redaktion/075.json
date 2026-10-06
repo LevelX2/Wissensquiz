@@ -1,0 +1,217 @@
+{
+  "rank": 75,
+  "directors": [
+    "David Lowery"
+  ],
+  "production_countries": [
+    "USA",
+    "Kanada"
+  ],
+  "familiarity_reason": "Neuinterpretation des Artusstoffs, vor allem für Genre- und Autorenfilmkenner.",
+  "release_note": "US-Start 30. Juli 2021; geplante Premiere 2020 entfiel.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Green_Knight_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://a24films.com/films/the-green-knight",
+      "supports": "Offizieller Regiecredit, 2021 und Artus-Neuinterpretation."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Gegenleistung verlangt der Grüne Ritter für einen Schlag in @?",
+      "answers": [
+        "Ein Jahr später denselben Schlag zurückzugeben",
+        "Sofort einen zweiten Schlag im Gegenzug zu dulden",
+        "Ein Jahr lang seinem Hof zu dienen",
+        "Am nächsten Morgen dieselbe Waffe zurückzugeben"
+      ],
+      "feedback": [
+        "Der Grüne Ritter (Ralph Ineson) fordert den gleichen Schlag nach einem Jahr.",
+        "Die Gegenleistung ist um ein Jahr verschoben.",
+        "Ein Hofdienst wird nicht vereinbart.",
+        "Die Waffenrückgabe ersetzt den späteren Gegenschlag nicht."
+      ],
+      "short": "Der Grüne Ritter (Ralph Ineson) fordert den gleichen Schlag nach einem Jahr.",
+      "context": "Der Grüne Ritter (Ralph Ineson) fordert den gleichen Schlag nach einem Jahr. Gawain (Dev Patel) gewinnt zunächst einen scheinbar leichten Triumph, bindet sich aber an eine spätere Gegenleistung.",
+      "anchor": "Der heutige Schlag wird zur Verpflichtung des nächsten Jahres.",
+      "interest": "Der heutige Schlag wird zur Verpflichtung des nächsten Jahres.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Gegenstand soll Gawain (Dev Patel) in @ vor Verletzungen schützen?",
+      "answers": [
+        "Ein grüner Gürtel",
+        "Ein goldener Helm",
+        "Eine silberne Krone",
+        "Ein eiserner Ring"
+      ],
+      "feedback": [
+        "Der grüne Gürtel soll Gawain schützen.",
+        "Der Helm ist nicht der behauptete Schutz.",
+        "Eine Krone liefert ihn nicht.",
+        "Ein Ring ist nicht das Versprechen."
+      ],
+      "short": "Der grüne Gürtel soll Gawain schützen.",
+      "context": "Der grüne Gürtel soll Gawain (Dev Patel) schützen. Das angebotene Sicherheitsversprechen verändert seine Entscheidungen, obwohl die Reise gerade seinen Mut und seine Wahrhaftigkeit prüfen soll.",
+      "anchor": "Der Gürtel verspricht Sicherheit innerhalb einer Mutprobe.",
+      "interest": "Der Gürtel verspricht Sicherheit innerhalb einer Mutprobe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was holt Gawain für Winifred (Erin Kellyman) in @ aus dem Wasser?",
+      "answers": [
+        "Ihren abgetrennten Kopf",
+        "Eine verlorene Krone",
+        "Ein gestohlenes Schwert",
+        "Einen Brief ihres Vaters"
+      ],
+      "feedback": [
+        "Gawain (Dev Patel) holt Winifreds Kopf zurück.",
+        "Eine Krone ist nicht ihr Anliegen.",
+        "Ein Schwert wird dort nicht gesucht.",
+        "Ein Brief befindet sich nicht im Wasser."
+      ],
+      "short": "Gawain (Dev Patel) holt Winifreds Kopf zurück.",
+      "context": "Gawain (Dev Patel) holt den Kopf von Winifred (Erin Kellyman) zurück. Seine Frage nach einer Gegenleistung wird zurückgewiesen; die Begegnung fordert Hilfe, die nicht als Tauschgeschäft verstanden wird.",
+      "anchor": "Winifreds Bitte prüft Hilfe ohne Belohnung.",
+      "interest": "Winifreds Bitte prüft Hilfe ohne Belohnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Worin besteht das Tauschversprechen zwischen Gawain und dem Burgherrn in @?",
+      "answers": [
+        "Jagdbeute gegen das im Schloss Erhaltene",
+        "Gastfreundschaft gegen einen künftigen Kampfdienst",
+        "Jagdbeute gegen Gawains eigenes Pferd",
+        "Ein Schlossaufenthalt gegen die Rückgabe des Gürtels"
+      ],
+      "feedback": [
+        "Der Burgherr (Joel Edgerton) bietet seine Jagdbeute gegen Gawains Erwerb im Schloss.",
+        "Der vereinbarte Tausch betrifft jeweils die Erwerbungen.",
+        "Das Pferd ist nicht die Gegenleistung.",
+        "Der Gürtel wird zunächst gerade heimlich behalten."
+      ],
+      "short": "Der Burgherr (Joel Edgerton) bietet seine Jagdbeute gegen Gawains Erwerb im Schloss.",
+      "context": "Der Burgherr (Joel Edgerton) bietet seine Jagdbeute gegen Gawains Erwerb im Schloss. Gawain (Dev Patel) behält den Gürtel jedoch zurück; das Versprechen legt damit seine Unehrlichkeit offen.",
+      "anchor": "Der Gürtel bleibt von dem versprochenen Tausch ausgenommen.",
+      "interest": "Der Gürtel bleibt von dem versprochenen Tausch ausgenommen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie ist Gawains lange Rückkehr als späterer König kurz vor dem Schluss von @ eingeordnet?",
+      "answers": [
+        "Als vorgestellte Zukunft seiner Flucht",
+        "Als Bericht des Grünen Ritters über eine sichere Zukunft",
+        "Als Erinnerung an eine frühere Königszeit",
+        "Als Traum der wartenden Mutter"
+      ],
+      "feedback": [
+        "Die Königsjahre sind eine vorgestellte Zukunft.",
+        "Die Vision zeigt Gawains mögliche Fluchtfolgen.",
+        "Es ist keine bereits erlebte Königszeit.",
+        "Die Perspektive gehört Gawain in der Kapelle."
+      ],
+      "short": "Die Königsjahre sind eine vorgestellte Zukunft.",
+      "context": "Die Königsjahre sind eine vorgestellte Zukunft. Gawain (Dev Patel) sieht die Folgen einer Flucht vor dem Schlag; danach kehrt die Erzählung zu seiner noch offenen Entscheidung zurück.",
+      "anchor": "Die düstere Königszeit ist die mögliche Zukunft einer Flucht.",
+      "interest": "Die düstere Königszeit ist die mögliche Zukunft einer Flucht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entscheidung trifft Gawain (Dev Patel) nach dieser Zukunftsvision in @?",
+      "answers": [
+        "Er legt den Schutzgürtel ab und stellt sich dem Schlag.",
+        "Er bittet darum, mit dem Gürtel weiterleben zu dürfen.",
+        "Er gesteht den Gürtel, behält ihn aber zur Prüfung an.",
+        "Er wartet weiter auf die Rückkehr des Fuchses."
+      ],
+      "feedback": [
+        "Gawain nimmt den Gürtel ab.",
+        "Er entscheidet sich gerade gegen den Schutz.",
+        "Er legt den Gürtel ab.",
+        "Die Entscheidung wird nicht vom Fuchs abhängig gemacht."
+      ],
+      "short": "Gawain nimmt den Gürtel ab.",
+      "context": "Gawain (Dev Patel) nimmt den Gürtel ab. Der Grüne Ritter (Ralph Ineson) lobt den Mut; der Film schließt, ohne das weitere Schicksal in einer vollständig eindeutigen Hinrichtungsszene festzulegen.",
+      "anchor": "Der abgelegte Gürtel macht die Bereitschaft zur Prüfung sichtbar.",
+      "interest": "Der abgelegte Gürtel macht die Bereitschaft zur Prüfung sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2021",
+        "2019",
+        "2016",
+        "2022"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2021.",
+        "2019 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2016 liegt fünf Jahre davor.",
+        "2022 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2021 erstmals veröffentlicht.",
+      "context": "2021 erschien Lowerys Artusfilm. Als gestalterischen Einfluss nennt er Bram Stoker’s Dracula von 1992, der 29 Jahre früher erschien; praktische Effekte und ältere Filmtricks halfen ihm, die mittelalterliche Welt als sichtbare Filmmagie zu gestalten.",
+      "anchor": "Lowerys Artusfilm von 2021 greift gestalterisch auf Dracula von 1992 zurück, 29 Jahre früher.",
+      "interest": "Lowerys Artusfilm von 2021 greift gestalterisch auf Dracula von 1992 zurück, 29 Jahre früher.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "David Lowery",
+        "Robert Eggers",
+        "Guillermo del Toro",
+        "Justin Kurzel"
+      ],
+      "feedback": [
+        "David Lowery führte Regie.",
+        "Robert Eggers führte bei diesem Film nicht Regie.",
+        "Guillermo del Toro führte bei diesem Film nicht Regie.",
+        "Justin Kurzel führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: David Lowery.",
+      "context": "Lowery schrieb, inszenierte und montierte die Adaption. Die Mutterrolle wurde gegenüber der Vorlage erweitert; ihre Beschwörung verknüpft Gawains Familie mit der Herausforderung durch den fremden Ritter.",
+      "anchor": "Lowery schrieb, inszenierte und montierte die Adaption.",
+      "interest": "Lowery schrieb, inszenierte und montierte die Adaption.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

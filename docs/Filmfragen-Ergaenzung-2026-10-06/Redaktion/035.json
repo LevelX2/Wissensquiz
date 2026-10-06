@@ -1,0 +1,217 @@
+{
+  "rank": 35,
+  "directors": [
+    "Peter Yates"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekannter Steve-McQueen-Polizeiklassiker mit einer der berühmtesten Verfolgungsfahrten des Kinos.",
+  "release_note": "US-Erstveröffentlichung 17. Oktober 1968.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Bullitt",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "katalog": {
+      "url": "https://catalog.afi.com/Film/23455-BULLITT",
+      "supports": "17. Oktober 1968, Yates, Vorlage 1963, Auftrag nach Robbery; einzelne AFI-Handlungsdetails werden zugunsten der ausführlichen Handlung differenziert."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufgabe erhält Frank Bullitt zu Beginn von @?",
+      "answers": [
+        "Einen Kronzeugen für eine Senatsanhörung bewachen",
+        "Eine Erpresserübergabe persönlich durchführen",
+        "Einen entführten Politiker befreien",
+        "Den Überfall auf eine Bank nachstellen"
+      ],
+      "feedback": [
+        "Bullitt (Steve McQueen) soll für Chalmers (Robert Vaughn) einen Zeugen schützen.",
+        "Eine Geldübergabe bildet nicht den Auftrag.",
+        "Chalmers beauftragt Zeugenschutz statt seiner eigenen Befreiung.",
+        "Eine Bankrekonstruktion ist nicht Bullitts Aufgabe."
+      ],
+      "short": "Bullitt (Steve McQueen) soll für Chalmers (Robert Vaughn) einen Zeugen schützen.",
+      "context": "Bullitt (Steve McQueen) soll für Chalmers (Robert Vaughn) einen Zeugen schützen. Der begrenzte Wochenendauftrag bringt den Ermittler in einen Konflikt zwischen tatsächlicher Aufklärung und politischem Erfolgsdruck.",
+      "anchor": "Die Bewachung verbindet Polizeiarbeit mit einem politischen Auftritt.",
+      "interest": "Die Bewachung verbindet Polizeiarbeit mit einem politischen Auftritt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Durch welche Stadt führt die zentrale Autoverfolgung in @?",
+      "answers": [
+        "San Francisco",
+        "Los Angeles",
+        "Chicago",
+        "Seattle"
+      ],
+      "feedback": [
+        "Bullitt (Steve McQueen) fährt durch San Franciscos Straßen.",
+        "Los Angeles ist nicht der Schauplatz der Hügelfahrt.",
+        "Chicago gehört zur Vorgeschichte des Flüchtigen.",
+        "Seattle ist nicht die Stadt der Verfolgung."
+      ],
+      "short": "Bullitt (Steve McQueen) fährt durch San Franciscos Straßen.",
+      "context": "Bullitt (Steve McQueen) fährt durch San Franciscos Straßen. Die Steigungen und Gefälle prägen die Verfolgung körperlich; das Stadtbild wird zu einem aktiven Bestandteil der Aktion.",
+      "anchor": "Die Hügel San Franciscos bestimmen die Verfolgungsfahrt.",
+      "interest": "Die Hügel San Franciscos bestimmen die Verfolgungsfahrt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum lässt Bullitt in @ den Tod des bewachten Mannes zunächst verschleiern?",
+      "answers": [
+        "Er möchte die Untersuchung fortsetzen, bevor Chalmers sie beendet.",
+        "Er will den Mann unerkannt an seine Familie übergeben.",
+        "Er versucht einen eigenen tödlichen Schuss zu vertuschen.",
+        "Er muss einen Austausch mit der Staatsanwaltschaft abwarten."
+      ],
+      "feedback": [
+        "Bullitt (Steve McQueen) lässt den Toten als Unbekannten registrieren.",
+        "Eine Familienübergabe ist nicht sein Plan.",
+        "Bullitt hat den Mann nicht selbst erschossen.",
+        "Die Täuschung dient seinem Ermittlungszeitraum, nicht einer verabredeten Übergabe."
+      ],
+      "short": "Bullitt (Steve McQueen) lässt den Toten als Unbekannten registrieren.",
+      "context": "Bullitt (Steve McQueen) lässt den Toten als Unbekannten registrieren. Damit gewinnt er Zeit gegen Chalmers’ (Robert Vaughn) Druck; die eigene Dienstregelverletzung soll eine manipulierte Geschichte hinter dem Schutzauftrag aufdecken.",
+      "anchor": "Die verschleierte Todesmeldung hält den Fall gegen politischen Druck offen.",
+      "interest": "Die verschleierte Todesmeldung hält den Fall gegen politischen Druck offen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wodurch erkennt Bullitt in @, dass er einen falschen Johnny Ross bewacht hat?",
+      "answers": [
+        "Passunterlagen identifizieren den Toten als Albert Renick.",
+        "Die Fingerabdrücke beweisen, dass der Tote ein Polizist war.",
+        "Chalmers nennt ihm sofort den echten Namen.",
+        "Der verletzte Stanton erkennt den Mann als alten Kollegen."
+      ],
+      "feedback": [
+        "Die Passunterlagen zeigen Albert Renick (Felice Orlandi) statt Johnny Ross.",
+        "Der Tote wird als Renick identifiziert, nicht als Polizist.",
+        "Bullitt löst die Identität durch Unterlagen statt eine sofortige Auskunft Chalmers’.",
+        "Stantons Wiedererkennung führt nicht zur Aufklärung."
+      ],
+      "short": "Die Passunterlagen zeigen Albert Renick (Felice Orlandi) statt Johnny Ross.",
+      "context": "Die Passunterlagen zeigen Albert Renick (Felice Orlandi) statt Johnny Ross. Bullitt (Steve McQueen) erkennt, dass der gesuchte Ross (Pat Renella) den Politiker und dessen Bewacher mit einem Doppelgänger getäuscht hat.",
+      "anchor": "Der Passabgleich entlarvt die falsche Identität des vermeintlichen Zeugen.",
+      "interest": "Der Passabgleich entlarvt die falsche Identität des vermeintlichen Zeugen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was erschüttert Cathy in @ bei ihrer Fahrt mit Bullitt nach San Mateo?",
+      "answers": [
+        "Sie sieht die ermordete Frau im Hotelzimmer.",
+        "Sie erfährt, dass Bullitt selbst Geld von Ross angenommen hat.",
+        "Sie findet eine Waffe in Bullitts Wohnung.",
+        "Sie erlebt Chalmers’ Verhaftung auf offener Straße."
+      ],
+      "feedback": [
+        "Cathy (Jacqueline Bisset) sieht die tote Dorothy Renick (Brandy Carroll).",
+        "Bullitt wird nicht durch eine Geldannahme entlarvt.",
+        "Eine Wohnungswaffe löst dieses Gespräch nicht aus.",
+        "Chalmers wird nicht in ihrer Anwesenheit verhaftet."
+      ],
+      "short": "Cathy (Jacqueline Bisset) sieht die tote Dorothy Renick (Brandy Carroll).",
+      "context": "Cathy (Jacqueline Bisset) sieht die tote Dorothy Renick (Brandy Carroll). Bullitts (Steve McQueen) beruflicher Umgang mit Gewalt wird damit auch für ihre Beziehung spürbar; sie fragt, welchen Platz ihr gemeinsames Leben darin noch hat.",
+      "anchor": "Der Anblick des Opfers bringt den Polizeiberuf in die private Beziehung.",
+      "interest": "Der Anblick des Opfers bringt den Polizeiberuf in die private Beziehung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie vereitelt Ross in @ zunächst Bullitts Suche am Flughafen?",
+      "answers": [
+        "Er hat statt des erwarteten Romflugs einen früheren Londonflug genommen.",
+        "Er reist mit dem persönlichen Flugzeug von Chalmers ab.",
+        "Er verkleidet sich als Mitglied der Flugzeugbesatzung.",
+        "Er lässt einen zweiten Doppelgänger am Abflugschalter auftreten."
+      ],
+      "feedback": [
+        "Ross (Pat Renella) benutzt Renicks Pass für einen früheren Londonflug.",
+        "Chalmers’ Privatflugzeug ist nicht sein Fluchtmittel.",
+        "Ross nutzt einen falschen Pass statt einer Crewverkleidung.",
+        "Ein zweiter Doppelgänger führt die Flughafenflucht nicht aus."
+      ],
+      "short": "Ross (Pat Renella) benutzt Renicks Pass für einen früheren Londonflug.",
+      "context": "Ross (Pat Renella) benutzt Renicks Pass für einen früheren Londonflug. Bullitt (Steve McQueen) lässt das Flugzeug zurückrufen; die veränderte Buchung erklärt, warum die anfängliche Überwachung des Romgates ihn verfehlt.",
+      "anchor": "Die falsche Identität wird mit einem geänderten Flugziel verbunden.",
+      "interest": "Die falsche Identität wird mit einem geänderten Flugziel verbunden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1968",
+        "1966",
+        "1963",
+        "1969"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 1968.",
+        "1966 liegt zwei Jahre vor der ersten Veröffentlichung.",
+        "1963 liegt fünf Jahre vor der Erstveröffentlichung.",
+        "1969 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1968 erstmals veröffentlicht.",
+      "context": "1968 erschien die freie Bearbeitung von Mute Witness. Robert L. Fish veröffentlichte den Roman unter dem Namen Robert L. Pike 1963, fünf Jahre zuvor; die Filmfassung verlegt den Stoff nach San Francisco.",
+      "anchor": "Mute Witness von 1963 wurde fünf Jahre später, 1968, für San Francisco bearbeitet.",
+      "interest": "Mute Witness von 1963 wurde fünf Jahre später, 1968, für San Francisco bearbeitet.",
+      "sources": [
+        "katalog",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Peter Yates",
+        "William Friedkin",
+        "Don Siegel",
+        "Sidney Lumet"
+      ],
+      "feedback": [
+        "Peter Yates führte Regie.",
+        "William Friedkin hat hier keinen Regiecredit.",
+        "Don Siegel hat hier keinen Regiecredit.",
+        "Sidney Lumet hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Peter Yates.",
+      "context": "Yates erhielt den Auftrag, nachdem McQueen seinen britischen Film Robbery gesehen hatte. Dessen Autoverfolgung machte ihn für Bullitt interessant; es wurde Yates’ erster amerikanischer Spielfilm.",
+      "anchor": "Yates’ Verfolgungsfahrt in Robbery überzeugte McQueen für seinen ersten US-Film.",
+      "interest": "Yates’ Verfolgungsfahrt in Robbery überzeugte McQueen für seinen ersten US-Film.",
+      "sources": [
+        "katalog",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

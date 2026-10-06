@@ -1,0 +1,211 @@
+{
+  "rank": 59,
+  "directors": [
+    "John Cassavetes"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Einflussreiches unabhängiges Schauspielkino; für breites Publikum eher Entdeckung.",
+  "release_note": "New-York-Filmfestival-Premiere 1974 vor breitem Start 18. November.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/A_Woman_Under_the_Influence",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Beziehung haben Mabel und Nick in @?",
+      "answers": [
+        "Sie sind verheiratet und haben Kinder.",
+        "Sie sind Geschwister.",
+        "Sie sind Arzt und Patientin.",
+        "Sie kennen sich erst seit einem Tag."
+      ],
+      "feedback": [
+        "Mabel (Gena Rowlands) und Nick (Peter Falk) sind ein Ehepaar mit drei Kindern.",
+        "Sie sind kein Geschwisterpaar.",
+        "Nick behandelt sie nicht als Arzt.",
+        "Sie haben eine gemeinsame Familiengeschichte."
+      ],
+      "short": "Mabel (Gena Rowlands) und Nick (Peter Falk) sind ein Ehepaar mit drei Kindern.",
+      "context": "Mabel (Gena Rowlands) und Nick (Peter Falk) sind ein Ehepaar mit drei Kindern. Ihr Wunsch nach Nähe steht neben Erwartungen, Druck und verletzendem Verhalten im gemeinsamen Haushalt.",
+      "anchor": "Die Krise entsteht innerhalb einer bestehenden Familie.",
+      "interest": "Die Krise entsteht innerhalb einer bestehenden Familie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum fällt der geplante gemeinsame Abend von Mabel und Nick in @ aus?",
+      "answers": [
+        "Nick muss einen Wasserrohrbruch reparieren.",
+        "Nick muss unerwartet einen erkrankten Kollegen begleiten.",
+        "Nick wird für eine zusätzliche Arbeitsschicht festgehalten.",
+        "Mabel sagt den Abend wegen einer Familienreise ab."
+      ],
+      "feedback": [
+        "Nick (Peter Falk) muss einen Rohrbruch reparieren.",
+        "Der konkrete Einsatz gilt dem Wasserrohrbruch.",
+        "Eine allgemeine Zusatzschicht ersetzt nicht diesen Anlass.",
+        "Eine Reise sagt Mabel nicht ab."
+      ],
+      "short": "Nick (Peter Falk) muss einen Rohrbruch reparieren.",
+      "context": "Nick (Peter Falk) muss einen Rohrbruch reparieren. Mabel (Gena Rowlands) bleibt allein; die Arbeit des Mannes und ihre Erwartung an den Abend laufen damit unmittelbar auseinander.",
+      "anchor": "Nicks Arbeit verhindert den gemeinsamen Abend.",
+      "interest": "Nicks Arbeit verhindert den gemeinsamen Abend.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche unvorhergesehene Belastung bringt Nick (Peter Falk) nach der Nachtschicht in @ mit nach Hause?",
+      "answers": [
+        "Seine Arbeitskollegen zum Frühstück",
+        "Die Eltern beider Eheleute",
+        "Mehrere unerwartete Gäste aus der Nachbarschaft",
+        "Den Arzt mit einem neuen Behandlungsvorschlag"
+      ],
+      "feedback": [
+        "Nick bringt seine Kollegen zum Frühstück.",
+        "Die Belastung entsteht durch Nicks Arbeitskollegen.",
+        "Nachbarn sind nicht die Frühstücksgruppe.",
+        "Dr Zepp erscheint nicht für diesen gemeinsamen Morgen."
+      ],
+      "short": "Nick bringt seine Kollegen zum Frühstück.",
+      "context": "Nick (Peter Falk) bringt seine Kollegen zum Frühstück. Mabel (Gena Rowlands) muss die Gruppe bewirten; Nicks Reaktion auf ihre freundliche Nähe macht aus dem Essen eine angespannte Situation.",
+      "anchor": "Das Familienhaus wird unvermittelt zum Frühstücksort der Kollegen.",
+      "interest": "Das Familienhaus wird unvermittelt zum Frühstücksort der Kollegen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Folge hat die Untersuchung von Mabel (Gena Rowlands) durch Dr. Zepp in @?",
+      "answers": [
+        "Sie wird gegen ihren Willen eingewiesen.",
+        "Sie beginnt freiwillig eine ambulante Behandlung.",
+        "Sie entscheidet sich allein für einen Kururlaub.",
+        "Sie zieht ohne weitere Behandlung zur Mutter."
+      ],
+      "feedback": [
+        "Mabel wird gegen ihren Willen eingewiesen.",
+        "Die Einweisung erfolgt gegen ihren Willen.",
+        "Ein selbstbestimmter Urlaub ist es nicht.",
+        "Sie wird in eine Einrichtung gebracht."
+      ],
+      "short": "Mabel wird gegen ihren Willen eingewiesen.",
+      "context": "Mabel (Gena Rowlands) wird gegen ihren Willen eingewiesen. Die eskalierende Szene bindet medizinische Entscheidung und familiären Druck zusammen; Nick (Peter Falk) bleibt mit den Kindern zurück.",
+      "anchor": "Der familiäre Konflikt endet zunächst in der Einweisung.",
+      "interest": "Der familiäre Konflikt endet zunächst in der Einweisung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum verkleinert Nick (Peter Falk) die geplante Feier zu Mabels Rückkehr in @?",
+      "answers": [
+        "Seine Mutter warnt vor Überforderung durch viele Gäste.",
+        "Mabel hat ausdrücklich jede Feier verboten.",
+        "Der Arzt kündigt eine Verspätung von mehreren Tagen an.",
+        "Nick will die Feier auf einen öffentlichen Saal verlegen."
+      ],
+      "feedback": [
+        "Nicks Mutter Margaret (Katherine Cassavetes) warnt vor Überforderung.",
+        "Die Warnung kommt von Nicks Mutter.",
+        "Eine solche Verspätung bestimmt die Gästezahl nicht.",
+        "Ein öffentlicher Ersatzsaal wird nicht geplant."
+      ],
+      "short": "Nicks Mutter Margaret (Katherine Cassavetes) warnt vor Überforderung.",
+      "context": "Nicks Mutter Margaret (Katherine Cassavetes) warnt vor Überforderung. Die großen Erwartungen an Mabels (Gena Rowlands) Rückkehr werden deshalb zunächst reduziert; die Familie findet trotzdem keinen einfachen Umgang miteinander.",
+      "anchor": "Die Rückkehrfeier muss auf Mabels Belastbarkeit reagieren.",
+      "interest": "Die Rückkehrfeier muss auf Mabels Belastbarkeit reagieren.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche gemeinsame Tätigkeit bildet den Schluss von @ nach der erneuten Eskalation?",
+      "answers": [
+        "Mabel und Nick räumen auf und bereiten sich auf die Nacht vor.",
+        "Mabel wird sofort erneut eingewiesen.",
+        "Nick geht wieder zu einer Nachtschicht.",
+        "Die Familie feiert mit allen Gästen weiter."
+      ],
+      "feedback": [
+        "Mabel (Gena Rowlands) und Nick (Peter Falk) räumen auf.",
+        "Der Schluss bleibt bei ihrem häuslichen Aufräumen.",
+        "Nick verlässt sie nicht für diese Schicht.",
+        "Die große Feier ist nicht die Schlussgestaltung."
+      ],
+      "short": "Mabel (Gena Rowlands) und Nick (Peter Falk) räumen auf.",
+      "context": "Mabel (Gena Rowlands) und Nick (Peter Falk) räumen auf. Der gewöhnliche Abschluss des Abends folgt auf Gewalt und Verletzung; alltägliche Fortsetzung ersetzt keine eindeutig gezeigte Heilung.",
+      "anchor": "Nach der Krise kehrt die Familie zum gewöhnlichen Abend zurück.",
+      "interest": "Nach der Krise kehrt die Familie zum gewöhnlichen Abend zurück.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1974",
+        "1972",
+        "1969",
+        "1975"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1974.",
+        "1972 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1969 liegt fünf Jahre davor.",
+        "1975 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1974 erstmals veröffentlicht.",
+      "context": "1974 erschien Cassavetes’ Familiendrama. Die Bibliothek des US-Kongresses nahm es 1990 in das National Film Registry auf, sechzehn Jahre später. Damit lässt sich der ursprüngliche Kinofilm von seiner späteren Anerkennung als erhaltenswertes Filmwerk unterscheiden.",
+      "anchor": "Der Film von 1974 wurde sechzehn Jahre später, 1990, ins National Film Registry aufgenommen.",
+      "interest": "Der Film von 1974 wurde sechzehn Jahre später, 1990, ins National Film Registry aufgenommen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Cassavetes",
+        "Sidney Lumet",
+        "Bob Rafelson",
+        "Robert Altman"
+      ],
+      "feedback": [
+        "John Cassavetes führte Regie.",
+        "Sidney Lumet führte bei diesem Film nicht Regie.",
+        "Bob Rafelson führte bei diesem Film nicht Regie.",
+        "Robert Altman führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: John Cassavetes.",
+      "context": "Cassavetes schrieb die intensive Geschichte zunächst als Bühnenstoff für Gena Rowlands. Sie hielt regelmäßige Theateraufführungen für zu belastend; daraus entstand ein unabhängig finanzierter Film mit ihr und Peter Falk.",
+      "anchor": "Cassavetes schrieb die intensive Geschichte zunächst als Bühnenstoff für Gena Rowlands.",
+      "interest": "Cassavetes schrieb die intensive Geschichte zunächst als Bühnenstoff für Gena Rowlands.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "rank": 24,
+  "directors": [
+    "Joseph Kosinski"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Sehr reichweitenstarke Fortsetzung einer etablierten Reihe, deren Detailhandlung trotzdem weniger selbstverständlich ist als der Name Top Gun.",
+  "release_note": "Erste Vorführung bei CinemaCon am 28. April 2022; US-Kinostart am 27. Mai 2022.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Top_Gun:_Maverick",
+    "primaer": "https://www.paramountpictures.com/movies/top-gun-maverick"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufgabe erhält Maverick (Tom Cruise) in @ nach seiner Versetzung zu Top Gun?",
+      "answers": [
+        "Er soll erfahrene Absolventen für eine besondere Mission ausbilden",
+        "Er soll neue Rekruten nur für den ersten Alleinflug auswählen",
+        "Er soll eine zivile Fluggesellschaft gründen",
+        "Er soll als Flugzeugmechaniker auf einem Träger arbeiten"
+      ],
+      "feedback": [
+        "Die Gruppe hat Top Gun bereits absolviert und wird auf einen Spezialauftrag vorbereitet.",
+        "Es geht um eine Spezialmission erfahrener Piloten, nicht nur erste Alleinflüge.",
+        "Maverick gründet keine Fluggesellschaft.",
+        "Seine Aufgabe ist fliegerische Ausbildung, nicht die eines Mechanikers."
+      ],
+      "short": "Maverick trainiert ausgewählte Absolventen für einen schwierigen Einsatz.",
+      "context": "Maverick ist inzwischen ein erfahrener Testpilot. Seine neue Aufgabe verlangt, andere Piloten auf eine enge und gefährliche Angriffsroute vorzubereiten. Der Konflikt entsteht auch daraus, dass er zunächst unterrichten soll, statt den Einsatz nach seinen eigenen Vorstellungen selbst anzuführen.",
+      "anchor": "Der erfahrene Testpilot muss andere auf die Spezialmission vorbereiten.",
+      "interest": "Die Ausgangsaufgabe lässt sich von der späteren Missionsführung unterscheiden.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Verbindung hat Rooster (Miles Teller) in @ zu Mavericks verstorbenem Freund Goose?",
+      "answers": [
+        "Er ist Gooses Sohn",
+        "Er ist Gooses jüngerer Bruder",
+        "Er war Gooses Kommandant",
+        "Er ist Gooses Neffe"
+      ],
+      "feedback": [
+        "Rooster ist Bradley Bradshaw, Gooses Sohn.",
+        "Er gehört zur nächsten Generation und ist kein Bruder.",
+        "Er war nicht der Vorgesetzte seines Vaters.",
+        "Die Beziehung ist Vater und Sohn, nicht Onkel und Neffe."
+      ],
+      "short": "Rooster ist der Sohn von Goose.",
+      "context": "Goose (Anthony Edwards) starb im ersten Top Gun als Mavericks Flugpartner. Sein Sohn kehrt nun als erwachsener Pilot zurück. Damit ist Rooster für Maverick (Tom Cruise) nicht nur ein Kandidat der Mission, sondern verbindet die neue Verantwortung mit einem persönlichen Verlust aus der Vergangenheit.",
+      "anchor": "Gooses Sohn Rooster bringt Mavericks Vergangenheit in die neue Ausbildung.",
+      "interest": "Das Verhältnis erklärt den emotionalen Kern der Fortsetzung.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum nimmt Rooster (Miles Teller) Maverick (Tom Cruise) in @ seine verzögerte Laufbahn übel?",
+      "answers": [
+        "Maverick hat seine Bewerbung für die Naval Academy blockiert",
+        "Maverick hat seine Abschlussprüfung gefälscht",
+        "Maverick hat ihn aus dem ersten Kampfeinsatz desertieren lassen",
+        "Maverick hat seine Fluglizenz an einen Rivalen verkauft"
+      ],
+      "feedback": [
+        "Mavericks Eingriff hat Roosters Ausbildungsweg verzögert.",
+        "Eine gefälschte Abschlussprüfung ist nicht die Ursache.",
+        "Die Vorgeschichte betrifft den Zugang zur Ausbildung.",
+        "Eine verkaufte Fluglizenz ist nicht der Konflikt."
+      ],
+      "short": "Maverick hielt Roosters Bewerbung zurück.",
+      "context": "Maverick hatte Roosters sterbender Mutter versprochen, ihren Sohn nicht zum Piloten werden zu lassen. Rooster kennt dieses Versprechen zunächst nicht und deutet den Eingriff als persönliche Blockade. Die Fürsorge aus Mavericks Sicht erscheint für den Betroffenen dadurch als ungerechtfertigte Kontrolle seiner eigenen Zukunft.",
+      "anchor": "Ein verborgenes Versprechen macht Mavericks Schutzversuch zu Roosters Kränkung.",
+      "interest": "Die Motivation zeigt, warum beide dieselbe Handlung unterschiedlich beurteilen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie überzeugt Maverick (Tom Cruise) in @ die Führung, dass seine Missionsroute ausführbar ist?",
+      "answers": [
+        "Er fliegt sie selbst unerlaubt innerhalb der geforderten Zeit",
+        "Er lässt die Route ausschließlich von einem Computer simulieren",
+        "Er legt ein gefälschtes Protokoll einer fremden Einheit vor",
+        "Er verschiebt das Ziel auf eine unbewachte Ersatzanlage"
+      ],
+      "feedback": [
+        "Sein eigener Demonstrationsflug beweist die Durchführbarkeit.",
+        "Eine reine Simulation ersetzt diesen Flug nicht.",
+        "Er überzeugt mit tatsächlicher Leistung, nicht einer Protokollfälschung.",
+        "Das Angriffsziel wird nicht durch eine Ersatzanlage ausgetauscht."
+      ],
+      "short": "Maverick demonstriert den schwierigen Flug selbst.",
+      "context": "Cyclone (Jon Hamm) hat ihn zuvor als Ausbilder abgelöst und will die Parameter ändern. Maverick zeigt mit einem nicht genehmigten Flug, dass sein anspruchsvollerer Plan gelingt. Das praktische Ergebnis verschiebt die Entscheidung: Er wird schließlich zum Anführer der Mission gemacht.",
+      "anchor": "Der unerlaubte Demonstrationsflug macht Mavericks Plan glaubwürdig.",
+      "interest": "Die Szene verbindet Regelbruch mit dem konkreten Nachweis der Machbarkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Mit welchem erbeuteten Flugzeug entkommen Maverick und Rooster in @ zunächst vom feindlichen Stützpunkt?",
+      "answers": [
+        "Mit einer F-14 Tomcat",
+        "Mit einer F-35 Lightning II",
+        "Mit einer Su-57",
+        "Mit einem Mi-24-Hubschrauber"
+      ],
+      "feedback": [
+        "Maverick nutzt den alten F-14-Typ, den er bereits aus seiner früheren Laufbahn kennt.",
+        "Sie erbeuten keine F-35.",
+        "Die Su-57 ist ein späterer Gegner in der Luft.",
+        "Der Hubschrauber bedroht Maverick und ist nicht ihr Fluchtgerät."
+      ],
+      "short": "Die beiden starten mit einer F-14 Tomcat.",
+      "context": "Nach dem Verlust ihrer eigenen Flugzeuge treffen Maverick (Tom Cruise) und Rooster (Miles Teller) am Boden wieder zusammen. Auf dem angegriffenen Stützpunkt finden sie eine F-14. Der ältere Flugzeugtyp verbindet die improvisierte Flucht mit Mavericks Erfahrung aus der Zeit des ersten Films.",
+      "anchor": "Die Flucht gelingt zunächst in Mavericks altem Flugzeugtyp, der F-14.",
+      "interest": "Die Technik schafft eine konkrete Verbindung zwischen beiden Filmen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wer rettet Maverick und Rooster in @ vor dem letzten gegnerischen Jagdflugzeug?",
+      "answers": [
+        "Hangman",
+        "Iceman",
+        "Cyclone",
+        "Penny"
+      ],
+      "feedback": [
+        "Hangman greift mit seiner Super Hornet ein.",
+        "Iceman ist bereits gestorben und fliegt diesen Einsatz nicht.",
+        "Cyclone führt die Entscheidungsebene, nicht den rettenden Angriff.",
+        "Penny ist keine Kampfpilotin der Mission."
+      ],
+      "short": "Hangman schießt den letzten Verfolger ab.",
+      "context": "Hangman (Glen Powell) wartet zunächst als Reserve für einen Notfalleinsatz. Als Maverick (Tom Cruise) und Rooster (Miles Teller) keine Munition und Gegenmaßnahmen mehr haben, erreicht er sie rechtzeitig. Der anfangs provozierende Konkurrent trägt damit entscheidend zur Rückkehr seiner Kameraden bei.",
+      "anchor": "Der zurückgehaltene Hangman wird zum rettenden Reservepiloten.",
+      "interest": "Die Rettung löst die Rivalität in tatsächliche Zusammenarbeit auf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2022",
+        "2018",
+        "2020",
+        "2024"
+      ],
+      "feedback": [
+        "Diese Filmfassung wurde 2022 erstmals veröffentlicht.",
+        "2018 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2022.",
+        "2020 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2022.",
+        "2024 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2022."
+      ],
+      "short": "Das erste Veröffentlichungsjahr ist 2022.",
+      "context": "Die erste Vorführung der Fortsetzung fand 2022 statt. Zwischen dem ersten Top Gun von 1986 und diesem Film liegen sechsunddreißig Jahre. Tom Cruise kehrt in derselben Rolle zurück, während mit Rooster auch die nächste Generation der Bradshaw-Familie in das Pilotenmilieu eintritt.",
+      "anchor": "Von Top Gun 1986 bis Maverick 2022 vergehen 36 Jahre.",
+      "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Joseph Kosinski",
+        "Doug Liman",
+        "Christopher Nolan",
+        "James Mangold"
+      ],
+      "feedback": [
+        "Joseph Kosinski verantwortet die hier gefragte Regie.",
+        "Doug Liman führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Christopher Nolan führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "James Mangold führte bei dieser Filmfassung nicht die gefragte Regie."
+      ],
+      "short": "Die gesuchte Regie stammt von Joseph Kosinski.",
+      "context": "Joseph Kosinski inszenierte die Fortsetzung. Die Handlung verbindet Mavericks Testpilotenrolle mit der Verantwortung als Lehrer und dem späteren gemeinsamen Einsatz. Tony Scott führte beim ersten Top Gun Regie; die beiden Filme teilen Hauptfigur und Darsteller, aber nicht denselben Regisseur.",
+      "anchor": "Joseph Kosinski inszenierte diese Filmfassung.",
+      "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

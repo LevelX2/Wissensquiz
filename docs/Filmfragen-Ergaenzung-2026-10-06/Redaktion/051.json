@@ -1,0 +1,222 @@
+{
+  "rank": 51,
+  "directors": [
+    "Hirokazu Kore-eda"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Goldene-Palme-Gewinner im japanischen Autorenkino; Kennerfilm.",
+  "release_note": "Cannes-Premiere 15. Mai 2018.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Shoplifters_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "festival": {
+      "url": "https://www.festival-cannes.com/en/f/manbiki-kazoku/",
+      "supports": "Offizielle Filmidentität, Regie, Japan und Auswahljahr 2018."
+    },
+    "familie": {
+      "url": "https://www.festival-cannes.com/en/2018/kore-eda-focuses-his-family-kaleidoscope/",
+      "supports": "Familienaufnahme des misshandelten Kindes und Bezug zu Like Father, Like Son 2013."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt lebt der Haushalt in @?",
+      "answers": [
+        "Tokio",
+        "Kyoto",
+        "Osaka",
+        "Sapporo"
+      ],
+      "feedback": [
+        "Der Haushalt lebt in Tokio.",
+        "Kyoto ist nicht ihr Wohnort.",
+        "Osaka ist nicht der gezeigte Ort.",
+        "Sapporo ist nicht Schauplatz."
+      ],
+      "short": "Der Haushalt lebt in Tokio.",
+      "context": "Der Haushalt lebt in Tokio. Die enge Wohnung verbindet Menschen in Armut; die Großstadtgeschichte stellt alltägliche Nähe neben die Unsicherheit ihrer Lebensgrundlagen. Osamu (Lily Franky) und Nobuyo (Sakura Ando) halten die Gemeinschaft trotz unsicherer Einnahmen zusammen.",
+      "anchor": "Die Familiengemeinschaft lebt im engen Tokioer Haus.",
+      "interest": "Die Familiengemeinschaft lebt im engen Tokioer Haus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum nehmen Osamu (Lily Franky) und Nobuyo (Sakura Ando) das kleine Mädchen in @ bei sich auf?",
+      "answers": [
+        "Sie finden es ausgesperrt und erkennen Misshandlung.",
+        "Sie halten das Mädchen für ein verirrtes Verwandtenkind.",
+        "Die Mutter bittet sie ausdrücklich um dauerhafte Betreuung.",
+        "Eine Schule vermittelt ihnen das Pflegekind."
+      ],
+      "feedback": [
+        "Das ausgesperrte Kind zeigt Spuren von Misshandlung.",
+        "Eine angenommene Verwandtschaft ist nicht der Anlass.",
+        "Die Aufnahme erfolgt ohne diesen Auftrag der Mutter.",
+        "Eine offizielle Schulvermittlung gibt es nicht."
+      ],
+      "short": "Das ausgesperrte Kind zeigt Spuren von Misshandlung.",
+      "context": "Das ausgesperrte Kind zeigt Spuren von Misshandlung. Yuri (Miyu Sasaki) bleibt daher im Haushalt; aus einer kurzfristigen Hilfe wird eine nicht offiziell geregelte Familienbindung.",
+      "anchor": "Ein ausgesperrtes Kind erhält einen Platz im Haushalt.",
+      "interest": "Ein ausgesperrtes Kind erhält einen Platz im Haushalt.",
+      "sources": [
+        "familie",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Einnahme stützt Hatsue (Kirin Kiki) im Haushalt von @?",
+      "answers": [
+        "Die Rente ihres verstorbenen Mannes",
+        "Ihre Einnahmen aus einer Reinigungstätigkeit",
+        "Ihre Ersparnisse aus einem Hausverkauf",
+        "Ihr Lohn als Verkäuferin"
+      ],
+      "feedback": [
+        "Hatsues Rente unterstützt den Haushalt.",
+        "Die gemeinsame Grundlage ist die Rente.",
+        "Ein Hausverkauf finanziert den Alltag nicht.",
+        "Hatsue arbeitet nicht als Verkäuferin."
+      ],
+      "short": "Hatsues Rente unterstützt den Haushalt.",
+      "context": "Hatsues (Kirin Kiki) Rente unterstützt den Haushalt. Damit verbindet sich ihre alltägliche Fürsorge mit einem konkreten wirtschaftlichen Fundament, auf das die übrigen Bewohner angewiesen sind.",
+      "anchor": "Die Rente trägt zum gemeinsamen Überleben bei.",
+      "interest": "Die Rente trägt zum gemeinsamen Überleben bei.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum wird Shota (Kairi Jō) beim Ladendiebstahl in @ absichtlich auffällig?",
+      "answers": [
+        "Er will Yuri vom Stehlen abhalten.",
+        "Er will Osamu einen größeren Beuteanteil abnehmen.",
+        "Er will einen anderen Dieb als Täter erscheinen lassen.",
+        "Er will dem Ladenbesitzer seine Unschuld beweisen."
+      ],
+      "feedback": [
+        "Shota wird absichtlich auffällig, um Yuris Diebstahl zu unterbrechen.",
+        "Ein Anteilskonflikt ist nicht sein Anlass.",
+        "Eine falsche Beschuldigung plant er nicht.",
+        "Er macht sich gerade selbst auffällig."
+      ],
+      "short": "Shota wird absichtlich auffällig, um Yuris Diebstahl zu unterbrechen.",
+      "context": "Shota (Kairi Jō) wird absichtlich auffällig, um Yuris (Miyu Sasaki) Diebstahl zu unterbrechen. Seine wachsenden Skrupel führen damit zu einer Handlung, die schließlich die gesamte verborgene Haushaltsordnung gefährdet.",
+      "anchor": "Shotas Gewissen bringt den Haushalt ans Licht.",
+      "interest": "Shotas Gewissen bringt den Haushalt ans Licht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie reagieren Osamu und Nobuyo nach Hatsues Tod in @?",
+      "answers": [
+        "Sie verbergen den Tod, um die Rente weiterzuerhalten.",
+        "Sie melden den Tod und suchen sofort neue Arbeit.",
+        "Sie informieren nur die Behörde und behalten die Wohnung.",
+        "Sie übergeben Hatsues Geld und Haus an deren Verwandte."
+      ],
+      "feedback": [
+        "Osamu (Lily Franky) und Nobuyo (Sakura Ando) verbergen Hatsues Tod.",
+        "Die Rentenabhängigkeit führt zur Geheimhaltung.",
+        "Auch die Behörde wird nicht informiert.",
+        "Eine solche Übergabe erfolgt nicht."
+      ],
+      "short": "Osamu (Lily Franky) und Nobuyo (Sakura Ando) verbergen Hatsues Tod.",
+      "context": "Osamu (Lily Franky) und Nobuyo (Sakura Ando) verbergen Hatsues Tod. Die fortgesetzte Rentenzahlung zeigt, wie Fürsorge und finanzielle Abhängigkeit miteinander verknüpft sind.",
+      "anchor": "Hatsues Tod bleibt für die Rentenzahlung verborgen.",
+      "interest": "Hatsues Tod bleibt für die Rentenzahlung verborgen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Eingeständnis macht Osamu (Lily Franky) Shota am Ende von @?",
+      "answers": [
+        "Der Haushalt wollte ohne ihn fliehen.",
+        "Er habe die Flucht ausschließlich zu Shotas Rettung geplant.",
+        "Er habe von keinem Fluchtplan gewusst.",
+        "Er habe allein ohne den übrigen Haushalt fliehen wollen."
+      ],
+      "feedback": [
+        "Osamu bestätigt die geplante Flucht ohne Shota (Kairi Jō).",
+        "Der Junge sollte gerade zurückgelassen werden.",
+        "Osamu räumt den Plan ein.",
+        "Der Plan betraf den Haushalt ohne Shota."
+      ],
+      "short": "Osamu bestätigt die geplante Flucht ohne Shota (Kairi Jō).",
+      "context": "Osamu (Lily Franky) bestätigt die geplante Flucht ohne Shota (Kairi Jō). Der schmerzliche Bruch lässt ihre gelebte Nähe nicht verschwinden, zerstört aber den einfachen Anspruch, ihm ein verlässlicher Vater zu sein.",
+      "anchor": "Nähe schützt Shota nicht vor dem geplanten Verlassenwerden.",
+      "interest": "Nähe schützt Shota nicht vor dem geplanten Verlassenwerden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2016",
+        "2013",
+        "2019"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2018.",
+        "2016 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2013 liegt fünf Jahre davor.",
+        "2019 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2018 erstmals veröffentlicht.",
+      "context": "2018 wurde der Film in Cannes vorgestellt. Kore-eda hatte Familienbindungen bereits in Like Father, Like Son untersucht, der 2013 in Cannes ausgezeichnet wurde. Fünf Jahre später verschiebt sich sein Blick auf einen Haushalt, dessen Zugehörigkeit nicht durch Abstammung gesichert ist.",
+      "anchor": "Nach Like Father, Like Son von 2013 folgte fünf Jahre später, 2018, eine andere Familiengeschichte.",
+      "interest": "Nach Like Father, Like Son von 2013 folgte fünf Jahre später, 2018, eine andere Familiengeschichte.",
+      "sources": [
+        "festival",
+        "familie"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Hirokazu Kore-eda",
+        "Ryusuke Hamaguchi",
+        "Naomi Kawase",
+        "Kiyoshi Kurosawa"
+      ],
+      "feedback": [
+        "Hirokazu Kore-eda führte Regie.",
+        "Ryusuke Hamaguchi führte bei diesem Film nicht Regie.",
+        "Naomi Kawase führte bei diesem Film nicht Regie.",
+        "Kiyoshi Kurosawa führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Hirokazu Kore-eda.",
+      "context": "Kore-eda schrieb, inszenierte und montierte den Film. Die Aufnahme eines misshandelten Kindes erweitert seine wiederkehrende Frage nach Familie; die Gesellschaft und die prekäre Lebenslage bleiben dabei Teil des Haushaltsbildes.",
+      "anchor": "Kore-eda schrieb, inszenierte und montierte den Film.",
+      "interest": "Kore-eda schrieb, inszenierte und montierte den Film.",
+      "sources": [
+        "familie",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

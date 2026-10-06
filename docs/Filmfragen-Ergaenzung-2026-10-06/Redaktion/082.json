@@ -1,0 +1,225 @@
+{
+  "rank": 82,
+  "directors": [
+    "Ari Aster"
+  ],
+  "production_countries": [
+    "USA",
+    "Schweden"
+  ],
+  "familiarity_reason": "Bekannter Folk-Horrorfilm mit markantem Tageslichtbild.",
+  "release_note": "Erste Vorführung 18. Juni 2019, US-Start 3. Juli 2019.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Midsommar",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://a24films.com/films/midsommar",
+      "supports": "2019, Ari Aster, Familienverlust, Beziehungskrise und schwedische Festreise."
+    },
+    "zeitvergleich81": {
+      "url": "https://en.wikipedia.org/wiki/Hereditary_(film)",
+      "supports": "Gelesene Erstveröffentlichung des konkret verglichenen Films."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welches Land reist Danis Gruppe in @ zum Fest?",
+      "answers": [
+        "Schweden",
+        "Norwegen",
+        "Finnland",
+        "Island"
+      ],
+      "feedback": [
+        "Die Gruppe reist nach Schweden.",
+        "Norwegen ist nicht das Reiseziel.",
+        "Finnland ist es nicht.",
+        "Island ist es ebenfalls nicht."
+      ],
+      "short": "Die Gruppe reist nach Schweden.",
+      "context": "Die Gruppe reist nach Schweden. Dani (Florence Pugh) begleitet Christian (Jack Reynor) zu die Gemeinschaft von Pelle (Vilhelm Blomgren); das freundliche Sommerfest entwickelt sich zu einer bedrohlichen Bindung an den Ort.",
+      "anchor": "Die Schwedenreise führt in Pelles abgeschlossene Gemeinschaft.",
+      "interest": "Die Schwedenreise führt in Pelles abgeschlossene Gemeinschaft.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was belastet Dani (Florence Pugh) vor der Reise in @ besonders?",
+      "answers": [
+        "Der Tod ihrer Eltern und ihrer Schwester",
+        "Der Verlust ihres eigenen Kindes",
+        "Die Verhaftung ihres Bruders",
+        "Die Krankheit ihrer Großmutter"
+      ],
+      "feedback": [
+        "Dani hat ihre Eltern und Schwester verloren.",
+        "Ein eigenes Kind verliert sie nicht.",
+        "Ein verhafteter Bruder ist nicht der Ausgangspunkt.",
+        "Eine Großmutterkrankheit steht nicht am Anfang."
+      ],
+      "short": "Dani hat ihre Eltern und Schwester verloren.",
+      "context": "Dani (Florence Pugh) hat ihre Eltern und Schwester verloren. Ihr Bedürfnis nach Halt verstärkt die Abhängigkeit von Christian (Jack Reynor), dessen Distanz die Beziehung bereits vor der Reise belastet.",
+      "anchor": "Der Familienverlust erhöht Danis Bedürfnis nach Zugehörigkeit.",
+      "interest": "Der Familienverlust erhöht Danis Bedürfnis nach Zugehörigkeit.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wodurch wird Dani in @ zur Maikönigin?",
+      "answers": [
+        "Sie gewinnt den Tanz um den Maibaum.",
+        "Sie wird von den Ältesten nach einer Befragung ausgewählt.",
+        "Sie übernimmt den Titel nach Pelles Vorschlag.",
+        "Sie erhält ihn durch die Teilnahme am Sexualritual."
+      ],
+      "feedback": [
+        "Dani (Florence Pugh) hält beim Tanz am längsten durch.",
+        "Der ausdauernde Tanz entscheidet.",
+        "Pelles Vorschlag ist nicht das Auswahlverfahren.",
+        "Das Sexualritual betrifft Christian."
+      ],
+      "short": "Dani (Florence Pugh) hält beim Tanz am längsten durch.",
+      "context": "Dani (Florence Pugh) hält beim Tanz am längsten durch. Der Titel führt von scheinbarer Festfreude zu konkreter Macht, weil sie später über das letzte Opfer entscheiden soll.",
+      "anchor": "Der Tanzsieg wird später zur Entscheidungsgewalt.",
+      "interest": "Der Tanzsieg wird später zur Entscheidungsgewalt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum gerät Josh in @ beim nächtlichen Fotografieren in Gefahr?",
+      "answers": [
+        "Er missachtet das Verbot, die heiligen Texte aufzunehmen.",
+        "Er betritt den Tempel, obwohl nur Frauen hinein dürfen.",
+        "Er entfernt einen Kultgegenstand zur Untersuchung.",
+        "Er unterbricht eine Opferzeremonie mit Fragen."
+      ],
+      "feedback": [
+        "Josh (William Jackson Harper) fotografiert verbotenerweise die Texte.",
+        "Das entscheidende Verbot betrifft die Fotos des Buches.",
+        "Josh nimmt das Buch nicht mit.",
+        "Seine nächtliche Aufnahme unterbricht keine laufende Opferzeremonie."
+      ],
+      "short": "Josh (William Jackson Harper) fotografiert verbotenerweise die Texte.",
+      "context": "Josh (William Jackson Harper) fotografiert verbotenerweise die Texte. Seine wissenschaftliche Neugier überschreitet die gesetzte Grenze; die Gemeinschaft beantwortet den Regelbruch mit tödlicher Gewalt.",
+      "anchor": "Die verbotene Aufnahme macht Forschung zum Regelbruch.",
+      "interest": "Die verbotene Aufnahme macht Forschung zum Regelbruch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie reagieren die Frauen in @ auf Danis Zusammenbruch nach dem Sexualritual?",
+      "answers": [
+        "Sie stimmen in ihr Weinen und ihre Atembewegungen ein.",
+        "Sie beruhigen sie mit gleichmäßigem Gesang.",
+        "Sie begleiten sie schweigend aus dem Schlafhaus.",
+        "Sie drängen sie zur unmittelbaren Versöhnung mit Christian."
+      ],
+      "feedback": [
+        "Die Frauen spiegeln Danis Weinen körperlich.",
+        "Sie spiegeln konkret Danis Weinen und Atmen.",
+        "Die Reaktion ist hörbar und körperlich, nicht schweigend.",
+        "Eine Versöhnung mit Christian fordern sie nicht."
+      ],
+      "short": "Die Frauen spiegeln Danis Weinen körperlich.",
+      "context": "Die Frauen spiegeln Danis Weinen körperlich. Dani (Florence Pugh) erfährt dadurch gemeinschaftliche Anteilnahme, die Christian (Jack Reynor) ihr nicht gibt; zugleich vertieft sich ihre Bindung an die opfernde Gruppe.",
+      "anchor": "Das gemeinsame Weinen bietet Halt innerhalb einer gefährlichen Gemeinschaft.",
+      "interest": "Das gemeinsame Weinen bietet Halt innerhalb einer gefährlichen Gemeinschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entscheidung trifft Dani als Maikönigin am Ende von @?",
+      "answers": [
+        "Sie wählt Christian als letztes Opfer.",
+        "Sie wählt sich selbst als letztes Opfer.",
+        "Sie bestimmt Pelle zum letzten Opfer.",
+        "Sie lässt den ausgelosten Dorfbewohner opfern."
+      ],
+      "feedback": [
+        "Dani (Florence Pugh) wählt Christian (Jack Reynor).",
+        "Dani setzt sich nicht selbst an Christians Stelle.",
+        "Pelle wird nicht ihr letztes Opfer.",
+        "Sie entscheidet sich gegen die angebotene Alternative aus der Gemeinschaft."
+      ],
+      "short": "Dani (Florence Pugh) wählt Christian (Jack Reynor).",
+      "context": "Dani (Florence Pugh) wählt Christian (Jack Reynor). Der paralysierte Mann wird in einen Bärenkörper gelegt; die letzte Zeremonie verbindet ihre Trennung mit der Gewalt der neuen Gemeinschaft.",
+      "anchor": "Die Trennungsentscheidung erhält die Form eines Menschenopfers.",
+      "interest": "Die Trennungsentscheidung erhält die Form eines Menschenopfers.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2019",
+        "2017",
+        "2014",
+        "2020"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2019.",
+        "2017 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2014 liegt fünf Jahre davor.",
+        "2020 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2019 erstmals veröffentlicht.",
+      "context": "2019 erschien der Film, ein Jahr nach Asters Langfilmdebüt Hereditary von 2018. Die zweite Arbeit verbindet erneut Verlust mit einer Familie, verlagert den Horror aber aus dem dunklen Wohnhaus in eine sommerlich helle Gemeinschaft.",
+      "anchor": "2019 kam der Tageslichthorror ein Jahr nach Asters Familienhorror Hereditary von 2018.",
+      "interest": "2019 kam der Tageslichthorror ein Jahr nach Asters Familienhorror Hereditary von 2018.",
+      "sources": [
+        "studio",
+        "handlung",
+        "zeitvergleich81"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Ari Aster",
+        "Robert Eggers",
+        "Ben Wheatley",
+        "David Robert Mitchell"
+      ],
+      "feedback": [
+        "Ari Aster führte Regie.",
+        "Robert Eggers hat hier keinen Regiecredit.",
+        "Ben Wheatley hat hier keinen Regiecredit.",
+        "David Robert Mitchell hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Ari Aster.",
+      "context": "Aster machte aus dem Angebot eines schwedischen Slasherfilms eine Trennungsgeschichte. Die Rituale und die Beziehung von Dani (Florence Pugh) und Christian (Jack Reynor) wurden zusammen entwickelt; große Teile des schwedischen Schauplatzes entstanden in Ungarn.",
+      "anchor": "Aster machte aus dem Angebot eines schwedischen Slasherfilms eine Trennungsgeschichte.",
+      "interest": "Aster machte aus dem Angebot eines schwedischen Slasherfilms eine Trennungsgeschichte.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

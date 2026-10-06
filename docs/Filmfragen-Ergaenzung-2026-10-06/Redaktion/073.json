@@ -1,0 +1,214 @@
+{
+  "rank": 73,
+  "directors": [
+    "Tarsem Singh"
+  ],
+  "production_countries": [
+    "Indien",
+    "USA",
+    "Vereinigtes Königreich"
+  ],
+  "familiarity_reason": "Aufwendiges, aber begrenzt verbreitetes Fantasykino; Entdeckung.",
+  "release_note": "Toronto-Premiere 9. September 2006; reguläre Starts 2008.",
+  "director_note": "Filmcredit Tarsem; vollständiger öffentlich geführter Name Tarsem Singh.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Fall_(2006_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo lernen Roy und Alexandria sich in @ kennen?",
+      "answers": [
+        "In einem Krankenhaus",
+        "In einer Filmschule",
+        "In einem Gästehaus",
+        "Bei einem Filmdreh"
+      ],
+      "feedback": [
+        "Roy (Lee Pace) und Alexandria (Catinca Untaru) sind Krankenhauspatienten.",
+        "Beide sind Krankenhauspatienten.",
+        "Ein Gästehaus ist nicht der reale Treffpunkt.",
+        "Ein gemeinsamer Dreh bringt sie nicht zusammen."
+      ],
+      "short": "Roy (Lee Pace) und Alexandria (Catinca Untaru) sind Krankenhauspatienten.",
+      "context": "Roy (Lee Pace) und Alexandria (Catinca Untaru) sind Krankenhauspatienten. Ein bewegungsunfähiger Stuntman und ein Kind mit gebrochenem Arm teilen dort eine Zeit des Wartens.",
+      "anchor": "Zwei verletzte Menschen finden im Krankenhaus eine Geschichte.",
+      "interest": "Zwei verletzte Menschen finden im Krankenhaus eine Geschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Berufserfahrung hat Roy (Lee Pace) in @?",
+      "answers": [
+        "Er ist Stuntman.",
+        "Er ist Filmschauspieler ohne Stuntarbeit.",
+        "Er ist Kameramann.",
+        "Er ist Filmregisseur."
+      ],
+      "feedback": [
+        "Roy ist Stuntman und wurde bei einem Filmstunt verletzt.",
+        "Die Verletzung stammt aus seiner Stuntarbeit.",
+        "Die Kamera führt er nicht.",
+        "Eine eigene Regiearbeit ist nicht sein Beruf."
+      ],
+      "short": "Roy ist Stuntman und wurde bei einem Filmstunt verletzt.",
+      "context": "Roy (Lee Pace) ist Stuntman und wurde bei einem Filmstunt verletzt. Seine körperliche Krise verbindet sich mit einer enttäuschten Liebesbeziehung; das Erzählen wird dadurch auch zu einem Versuch, Alexandria (Catinca Untaru) zu beeinflussen.",
+      "anchor": "Roys Filmverletzung führt ihn ins Krankenhaus.",
+      "interest": "Roys Filmverletzung führt ihn ins Krankenhaus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum erzählt Roy (Lee Pace) Alexandria in @ zunächst die Abenteuer?",
+      "answers": [
+        "Er will sie zum Beschaffen von Morphium bewegen.",
+        "Er will sie zum Verschweigen seiner Verletzung bewegen.",
+        "Er will ihr als Krankengymnast Übungen beibringen.",
+        "Er will ihr Geld für einen privaten Arztbesuch entlocken."
+      ],
+      "feedback": [
+        "Roy will durch die Geschichte Morphium erhalten.",
+        "Die verdeckte Absicht gilt dem Morphium.",
+        "Eine Behandlung leitet er nicht.",
+        "Geld sammelt er bei ihr nicht."
+      ],
+      "short": "Roy will durch die Geschichte Morphium erhalten.",
+      "context": "Roy (Lee Pace) will durch die Geschichte Morphium erhalten. Alexandria (Catinca Untaru) soll es beschaffen; die entstehende Nähe beginnt deshalb mit einer gefährlichen Manipulation.",
+      "anchor": "Die Märchengeschichte verbirgt Roys Morphiumabsicht.",
+      "interest": "Die Märchengeschichte verbirgt Roys Morphiumabsicht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie verbindet die Inszenierung von @ Krankenhaus und Abenteuerwelt?",
+      "answers": [
+        "Menschen aus Alexandrias Umfeld erscheinen als Erzählfiguren.",
+        "Roy bestimmt sämtliche sichtbaren Figuren nach seinen eigenen Fotos.",
+        "Die Abenteuer bleiben ohne Verbindung zu Alexandrias Alltag.",
+        "Die Fantasie zeigt ausschließlich Personen aus echten historischen Filmen."
+      ],
+      "feedback": [
+        "Alexandria (Catinca Untaru) stellt sich bekannte Menschen als Abenteuerfiguren vor.",
+        "Alexandrias Wahrnehmung prägt die sichtbare Besetzung.",
+        "Ihre Umgebung wird gerade in Rollen umgesetzt.",
+        "Die Figuren stammen nicht ausschließlich aus historischen Filmbildern."
+      ],
+      "short": "Alexandria (Catinca Untaru) stellt sich bekannte Menschen als Abenteuerfiguren vor.",
+      "context": "Alexandria (Catinca Untaru) stellt sich bekannte Menschen als Abenteuerfiguren vor. Die wechselnden Rollen zeigen ihre bildliche Mitarbeit an einer Erzählung, die Roy (Lee Pace) sprachlich vorgibt.",
+      "anchor": "Die Fantasiewelt wird mit Alexandrias Umgebung besetzt.",
+      "interest": "Die Fantasiewelt wird mit Alexandrias Umgebung besetzt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum bekommt Roy in @ zunächst nur drei Morphiumtabletten?",
+      "answers": [
+        "Alexandria liest ein geschriebenes E als 3.",
+        "Die Schwester gibt ihr absichtlich nur drei.",
+        "Alexandria behält die übrigen für sich.",
+        "Roy verlangt ausdrücklich eine Dosis von drei."
+      ],
+      "feedback": [
+        "Alexandria (Catinca Untaru) missliest ein E als 3.",
+        "Das Misslesen bestimmt die Zahl.",
+        "Einen geheimen Vorrat behält sie nicht.",
+        "Roy wollte nicht nur diese drei Tabletten."
+      ],
+      "short": "Alexandria (Catinca Untaru) missliest ein E als 3.",
+      "context": "Alexandria (Catinca Untaru) missliest ein E als 3. Das kindliche Missverständnis wird zur konkreten Störung von Roys (Lee Pace) Plan und zeigt den Abstand zwischen seiner Absicht und ihrem Verständnis.",
+      "anchor": "Ein falsch gelesenes E begrenzt die Tablettenmenge.",
+      "interest": "Ein falsch gelesenes E begrenzt die Tablettenmenge.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Womit verändert Alexandria (Catinca Untaru) das Ende der Erzählung in @?",
+      "answers": [
+        "Sie beansprucht die Geschichte mit und bittet um das Überleben des Banditen.",
+        "Sie bittet um eine Rückkehr aller Helden zur ersten Szene.",
+        "Sie akzeptiert das Sterben, verlangt aber einen neuen Erzähler.",
+        "Sie erklärt, nur Roy dürfe noch das Ende bestimmen."
+      ],
+      "feedback": [
+        "Alexandria erklärt die Geschichte auch zu ihrer eigenen.",
+        "Sie greift gezielt für das Überleben des Banditen ein.",
+        "Sie akzeptiert gerade nicht Roys zerstörerisches Ende.",
+        "Sie beansprucht die Geschichte selbst mit."
+      ],
+      "short": "Alexandria erklärt die Geschichte auch zu ihrer eigenen.",
+      "context": "Alexandria (Catinca Untaru) erklärt die Geschichte auch zu ihrer eigenen. Roy (Lee Pace) lässt den Banditen leben; die Zuhörerin wehrt sich damit gegen ein Ende, das nur seine Verzweiflung fortschreibt.",
+      "anchor": "Alexandria fordert als Miterzählerin ein anderes Ende.",
+      "interest": "Alexandria fordert als Miterzählerin ein anderes Ende.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2006",
+        "2004",
+        "2001",
+        "2007"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2006.",
+        "2004 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2001 liegt fünf Jahre davor.",
+        "2007 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2006 erstmals veröffentlicht.",
+      "context": "2006 wurde der Film in Toronto vorgestellt. Er geht auf den bulgarischen Film Yo Ho Ho von 1981 zurück, der 25 Jahre älter ist. Das Premierenjahr liegt außerdem zwei Jahre vor den regulären englischsprachigen Kinostarts.",
+      "anchor": "Der bulgarische Film Yo Ho Ho von 1981 wurde 25 Jahre später, 2006, neu bearbeitet.",
+      "interest": "Der bulgarische Film Yo Ho Ho von 1981 wurde 25 Jahre später, 2006, neu bearbeitet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Tarsem Singh",
+        "Guillermo del Toro",
+        "Terry Gilliam",
+        "Michel Gondry"
+      ],
+      "feedback": [
+        "Tarsem Singh führte Regie.",
+        "Guillermo del Toro führte bei diesem Film nicht Regie.",
+        "Terry Gilliam führte bei diesem Film nicht Regie.",
+        "Michel Gondry führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Tarsem Singh.",
+      "context": "Tarsem finanzierte die über Jahre realisierte Produktion selbst. Für die Szenen zwischen Roy (Lee Pace) und Alexandria (Catinca Untaru) wurden spontane Reaktionen des Kindes in die Erzählung aufgenommen.",
+      "anchor": "Tarsem finanzierte die über Jahre realisierte Produktion selbst.",
+      "interest": "Tarsem finanzierte die über Jahre realisierte Produktion selbst.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

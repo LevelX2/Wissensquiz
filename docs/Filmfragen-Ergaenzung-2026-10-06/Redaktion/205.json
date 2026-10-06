@@ -1,0 +1,223 @@
+{
+  "rank": 205,
+  "directors": [
+    "Carol Reed"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "familiarity_reason": "Ein berühmter europäischer Nachkriegsthriller mit markanter Musik und Wiener Schauplätzen.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1949; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Third_Man",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Third_Man",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "credits": {
+      "url": "https://www.criterion.com/films/236-the-third-man",
+      "supports": "Gelesene offizielle Filmseite: Regie, Filmjahr, Besetzung und Werkbeschreibung."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum reist Holly Martins (Joseph Cotten) in @ nach Wien?",
+      "answers": [
+        "Ein alter Freund hat ihm Arbeit angeboten.",
+        "Er soll für einen Zeitungsartikel den Schwarzmarkt besuchen.",
+        "Er möchte einen früheren Roman vor Gericht verteidigen.",
+        "Er soll eine Filmadaption seines Buches betreuen."
+      ],
+      "feedback": [
+        "Holly kommt auf Harry Limes (Orson Welles) Arbeitsangebot hin.",
+        "Lime hat ihm Arbeit angeboten.",
+        "Ein Romanprozess führt ihn nicht nach Wien.",
+        "Eine Filmproduktion ist nicht der Anlass."
+      ],
+      "short": "Holly kommt auf Harry Limes (Orson Welles) Arbeitsangebot hin.",
+      "context": "Holly kommt auf Harry Limes (Orson Welles) Arbeitsangebot hin. Er erfährt bei seiner Ankunft von dessen angeblichem Tod; der vertraute Freund wird damit zum Mittelpunkt einer Untersuchung über widersprüchliche Berichte.",
+      "anchor": "Das Arbeitsangebot führt Holly in den vermeintlichen Todesfall.",
+      "interest": "Das Arbeitsangebot führt Holly in den vermeintlichen Todesfall.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie ist Wien in der Welt von @ politisch geprägt?",
+      "answers": [
+        "Durch alliierte Besatzungszonen",
+        "Durch eine vollständig sowjetische Stadtverwaltung",
+        "Durch eine abgeschlossene amerikanische Militärverwaltung",
+        "Durch die unveränderte österreichische Alleinherrschaft"
+      ],
+      "feedback": [
+        "Wien ist in alliierte Besatzungszonen geteilt.",
+        "Mehrere alliierte Zonen prägen die Stadt.",
+        "Die Kontrolle liegt nicht allein bei den Amerikanern.",
+        "Die Besatzungsaufteilung ist entscheidend."
+      ],
+      "short": "Wien ist in alliierte Besatzungszonen geteilt.",
+      "context": "Wien ist in alliierte Besatzungszonen geteilt. Grenzen und unterschiedliche Zuständigkeiten erleichtern das Verbergen und erschweren Ermittlungen; die Nachkriegslage ist daher ein aktiver Bestandteil des Kriminalfalls.",
+      "anchor": "Die geteilte Stadt schafft Räume für das Verbergen.",
+      "interest": "Die geteilte Stadt schafft Räume für das Verbergen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Womit verdient Harry Lime (Orson Welles) in @ sein Geld auf dem Schwarzmarkt?",
+      "answers": [
+        "Mit verdünntem Penicillin",
+        "Mit gefälschten Opernkarten",
+        "Mit restaurierten Musikinstrumenten",
+        "Mit gestohlenen Postkutschen"
+      ],
+      "feedback": [
+        "Lime verdünnt gestohlenes Penicillin und verkauft es weiter.",
+        "Opernkarten sind nicht sein zentrales Geschäft.",
+        "Musikinstrumente erklärt der Fall nicht.",
+        "Postkutschen gehören nicht zum Handel."
+      ],
+      "short": "Lime verdünnt gestohlenes Penicillin und verkauft es weiter.",
+      "context": "Lime verdünnt gestohlenes Penicillin und verkauft es weiter. Die Folgen treffen Schwerkranke und Kinder; Holly Martins (Joseph Cotten) muss deshalb die Loyalität zum Freund gegen die konkrete Schädigung anderer abwägen.",
+      "anchor": "Das gestreckte Heilmittel richtet tödlichen Schaden an.",
+      "interest": "Das gestreckte Heilmittel richtet tödlichen Schaden an.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wo zeigt Harry Lime (Orson Welles) Holly (Joseph Cotten) seine zynische Sicht auf die Opfer in @?",
+      "answers": [
+        "Im Wiener Riesenrad",
+        "In einer U-Bahn-Werkstatt",
+        "Auf einer Schweizer Skipiste",
+        "Im Parlamentssaal"
+      ],
+      "feedback": [
+        "Lime spricht im Wiener Riesenrad über die Menschen unten als unbedeutende Punkte.",
+        "Eine Werkstatt ist nicht die Gesprächskulisse.",
+        "Die beiden fahren nicht Ski.",
+        "Ein Parlamentssaal beherbergt dieses Gespräch nicht."
+      ],
+      "short": "Lime spricht im Wiener Riesenrad über die Menschen unten als unbedeutende Punkte.",
+      "context": "Lime spricht im Wiener Riesenrad über die Menschen unten als unbedeutende Punkte. Die erhöhte Perspektive macht seine moralische Distanz körperlich sichtbar; Holly erkennt den alten Freund als bewussten Nutznießer fremden Leids.",
+      "anchor": "Der Blick von oben verkleinert die Opfer zu Punkten.",
+      "interest": "Der Blick von oben verkleinert die Opfer zu Punkten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum stimmt Holly (Joseph Cotten) in @ nach erneutem Zögern doch der Falle für Lime zu?",
+      "answers": [
+        "Er sieht im Krankenhaus die Folgen des gestreckten Penicillins.",
+        "Er erfährt, dass Anna für die Polizei arbeitet.",
+        "Er erhält von Lime einen persönlichen Mordauftrag.",
+        "Er entdeckt, dass Lime seine Romane verkauft hat."
+      ],
+      "feedback": [
+        "Calloway (Trevor Howard) zeigt Holly die kranken Kinder.",
+        "Der Krankenhausbesuch zeigt ihm die Opfer.",
+        "Kein neuer Auftrag begründet sein Einlenken.",
+        "Die Folgen des Penicillinhandels überzeugen ihn."
+      ],
+      "short": "Calloway (Trevor Howard) zeigt Holly die kranken Kinder.",
+      "context": "Calloway (Trevor Howard) zeigt Holly die kranken Kinder. Holly kann Limes (Orson Welles) Opfer nun nicht mehr abstrakt halten; die konkrete Begegnung entscheidet den Konflikt zwischen alter Freundschaft und Verantwortung.",
+      "anchor": "Die sichtbaren Opfer überwinden Hollys Loyalitätsrest.",
+      "interest": "Die sichtbaren Opfer überwinden Hollys Loyalitätsrest.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie begegnet Anna (Alida Valli) Holly (Joseph Cotten) nach dem zweiten Begräbnis am Ende von @?",
+      "answers": [
+        "Sie geht ohne Zuwendung an ihm vorbei.",
+        "Sie bleibt stehen und bittet ihn zu warten.",
+        "Sie erklärt ihm öffentlich ihren Abschied.",
+        "Sie nimmt seinen Arm und verlässt mit ihm den Friedhof."
+      ],
+      "feedback": [
+        "Anna geht an dem wartenden Holly vorbei.",
+        "Anna geht ohne Zuwendung vorbei.",
+        "Die Szene verweigert gerade ein erklärendes Gespräch.",
+        "Sie geht allein an ihm vorbei."
+      ],
+      "short": "Anna geht an dem wartenden Holly vorbei.",
+      "context": "Anna geht an dem wartenden Holly vorbei. Der Film belohnt seine Entscheidung gegen Lime (Orson Welles) nicht mit einer neuen Liebesbeziehung; das moralisch nötige Handeln bleibt von persönlichem Verlust begleitet.",
+      "anchor": "Die richtige Entscheidung erhält keine romantische Belohnung.",
+      "interest": "Die richtige Entscheidung erhält keine romantische Belohnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1949",
+        "1946",
+        "1942",
+        "1951"
+      ],
+      "feedback": [
+        "1949 erschien der Film in Großbritannien, der US-Start folgte 1950.",
+        "1946 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1949 wird im zeitlichen Hintergrund erklärt.",
+        "1942 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1949 wird im zeitlichen Hintergrund erklärt.",
+        "1951 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1949 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1949 erschien der Film in Großbritannien, der US-Start folgte 1950.",
+      "context": "1949 erschien der Film in Großbritannien, der US-Start folgte 1950. Graham Greene entwickelte zunächst eine Prosafassung als Arbeitsgrundlage, die später veröffentlicht wurde. Die Geschichte stammt also nicht einfach aus einem lange vorher populären Roman, sondern aus einer für den Film erschlossenen Nachkriegswelt.",
+      "anchor": "1949 entsteht Der dritte Mann für die Nachkriegswelt Wiens; Greenes Prosatext ist eine Film-Arbeitsgrundlage, keine lange vorher berühmte Vorlage.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Carol Reed",
+        "William Friedkin",
+        "John Schlesinger",
+        "Roman Polanski"
+      ],
+      "feedback": [
+        "Carol Reed führte Regie.",
+        "William Friedkin wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Carol Reed.",
+        "John Schlesinger wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Carol Reed.",
+        "Roman Polanski wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Carol Reed."
+      ],
+      "short": "Carol Reed führte Regie.",
+      "context": "Carol Reed führte Regie. Graham Greene entwickelte den Stoff; Joseph Cotten spielt Holly Martins und Orson Welles Harry Lime. Robert Kraskers Kamera und Anton Karas’ Zithermusik prägen das Wienbild ebenso wie die Geschichte eines moralisch beschädigten Freundes.",
+      "anchor": "Carol Reed führte Regie.",
+      "interest": "Carol Reed führte Regie.",
+      "sources": [
+        "eckdaten",
+        "credits"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

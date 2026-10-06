@@ -1,0 +1,217 @@
+{
+  "rank": 172,
+  "directors": [
+    "Gregory La Cava"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine Depression-Komödie mit sozialem Biss; außerhalb der Klassikrezeption eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1936; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/My_Man_Godfrey",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/My_Man_Godfrey",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Stelle erhält Godfrey (William Powell) bei der Familie Bullock in @?",
+      "answers": [
+        "Butler",
+        "Hausarzt",
+        "Privatpilot",
+        "Musiklehrer"
+      ],
+      "feedback": [
+        "Godfrey wird Butler der Bullocks.",
+        "Er behandelt die Familie nicht.",
+        "Er fliegt keine Privatmaschine.",
+        "Er unterrichtet keine Musik."
+      ],
+      "short": "Godfrey wird Butler der Bullocks.",
+      "context": "Godfrey wird Butler der Bullocks. Irene (Carole Lombard) engagiert ihn nach einer Begegnung an einer Müllkippe; bald ist der neue Diener der besonnenste Mensch im Haushalt.",
+      "anchor": "Der neue Butler bringt Ordnung in den reichen Haushalt.",
+      "interest": "Der neue Butler bringt Ordnung in den reichen Haushalt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wobei begegnet Irene (Carole Lombard) Godfrey (William Powell) in @ erstmals?",
+      "answers": [
+        "Bei einer gesellschaftlichen Suchspiel-Aufgabe",
+        "Bei einer Gerichtsverhandlung",
+        "Bei einer Segelregatta",
+        "Bei einer Opernprobe"
+      ],
+      "feedback": [
+        "Die Gesellschaft sucht für ein Spiel einen „vergessenen Mann“.",
+        "Ein Prozess führt sie nicht zusammen.",
+        "Sie treffen sich nicht bei einer Regatta.",
+        "Eine Opernprobe ist nicht der Anlass."
+      ],
+      "short": "Die Gesellschaft sucht für ein Spiel einen „vergessenen Mann“.",
+      "context": "Die Gesellschaft sucht für ein Spiel einen „vergessenen Mann“. Irene trifft dadurch Godfrey an der Müllkippe; der als Spaß gedachte Auftrag offenbart die Geringschätzung für arme Menschen.",
+      "anchor": "Das Suchspiel macht soziale Kälte sichtbar.",
+      "interest": "Das Suchspiel macht soziale Kälte sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie versucht Cornelia (Gail Patrick) in @, Godfrey (William Powell) eines Diebstahls zu überführen?",
+      "answers": [
+        "Sie versteckt ihre Perlen bei ihm.",
+        "Sie fälscht einen Lottoschein.",
+        "Sie ersetzt sein Gehalt durch Falschgeld.",
+        "Sie lässt seinen Pass verschwinden."
+      ],
+      "feedback": [
+        "Cornelia versteckt ihre Perlen unter Godfreys Matratze und meldet sie als gestohlen.",
+        "Ein Lottoschein gehört nicht zum Plan.",
+        "Das Gehalt wird nicht so gefälscht.",
+        "Ein verschwundener Pass belegt keinen Perlenschmuckdiebstahl."
+      ],
+      "short": "Cornelia versteckt ihre Perlen unter Godfreys Matratze und meldet sie als gestohlen.",
+      "context": "Cornelia versteckt ihre Perlen unter Godfreys Matratze und meldet sie als gestohlen. Sie konstruiert einen Beweis, weil sie ihn loswerden möchte; ihr Plan misslingt jedoch.",
+      "anchor": "Cornelia legt selbst den vermeintlichen Diebstahlsbeweis.",
+      "interest": "Cornelia legt selbst den vermeintlichen Diebstahlsbeweis.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was enthüllt Godfreys (William Powell) Freund Tommy (Alan Mowbray) in @ über seine Herkunft?",
+      "answers": [
+        "Er stammt selbst aus einer reichen Familie.",
+        "Er war früher der Verwalter der Bullocks.",
+        "Er ist ein verarmter ehemaliger Börsenmakler.",
+        "Er ist ein ehemaliger Angestellter von Tommy."
+      ],
+      "feedback": [
+        "Godfrey stammt selbst aus einer wohlhabenden Bostoner Familie.",
+        "Tommy kennt ihn aus einer eigenen reichen Familie.",
+        "Seine Herkunft, nicht dieser Beruf, wird enthüllt.",
+        "Tommy erkennt in ihm einen Freund aus begütertem Umfeld."
+      ],
+      "short": "Godfrey stammt selbst aus einer wohlhabenden Bostoner Familie.",
+      "context": "Godfrey stammt selbst aus einer wohlhabenden Bostoner Familie. Nach einer persönlichen Krise lebte er bei den Obdachlosen; deren Lebenswillen hat ihm geholfen. Seine Armut erzählt daher keine einfache soziale Herkunft.",
+      "anchor": "Godfreys Obdachlosigkeit verbirgt eine vermögende Herkunft.",
+      "interest": "Godfreys Obdachlosigkeit verbirgt eine vermögende Herkunft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie rettet Godfrey (William Powell) in @ das gefährdete Vermögen der Bullocks?",
+      "answers": [
+        "Er kauft mit dem Erlös der verpfändeten Perlen Aktien zurück.",
+        "Er leiht das Geld von seinem reichen Freund.",
+        "Er verkauft das Anwesen und mietet es zurück.",
+        "Er lässt den Vater seine Gläubiger betrügen."
+      ],
+      "feedback": [
+        "Godfrey verpfändet Cornelias Perlen und kauft die benötigten Aktien zurück.",
+        "Godfrey finanziert den Aktienkauf über Cornelias Perlen.",
+        "Die Vermögensrettung erfolgt über Aktien, nicht Immobilienverkauf.",
+        "Godfrey nutzt einen finanziellen Plan, keine neue Täuschung der Gläubiger."
+      ],
+      "short": "Godfrey verpfändet Cornelias Perlen und kauft die benötigten Aktien zurück.",
+      "context": "Godfrey verpfändet Cornelias Perlen und kauft die benötigten Aktien zurück. Er gibt Schmuck und Vermögen schließlich zurück; aus dem geplanten Beweis gegen ihn entsteht das Werkzeug ihrer Rettung.",
+      "anchor": "Die falsche Diebstahlsfalle finanziert die echte Rettung.",
+      "interest": "Die falsche Diebstahlsfalle finanziert die echte Rettung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wozu wird die frühere Müllkippe am Ende von @?",
+      "answers": [
+        "Zu einem Nachtclub mit Arbeit für Obdachlose",
+        "Zu einem luxuriösen Wohnhaus ohne Arbeitsplätze",
+        "Zu einem öffentlichen Park",
+        "Zu einem neuen Geschäftshaus der Bullocks"
+      ],
+      "feedback": [
+        "Godfrey (William Powell) und Tommy (Alan Mowbray) machen aus der Müllkippe einen Nachtclub.",
+        "Die neue Einrichtung ist ein Nachtclub, der früheren Obdachlosen Arbeit gibt.",
+        "Die Fläche wird geschäftlich und sozial als Nachtclub genutzt.",
+        "Godfrey verwirklicht dort ein eigenes Projekt."
+      ],
+      "short": "Godfrey (William Powell) und Tommy (Alan Mowbray) machen aus der Müllkippe einen Nachtclub.",
+      "context": "Godfrey (William Powell) und Tommy (Alan Mowbray) machen aus der Müllkippe einen Nachtclub. Die Männer, die Godfrey einst aufgenommen hatten, erhalten Arbeit; sein Erfolg wird als Gemeinschaftsprojekt weitergegeben.",
+      "anchor": "Aus dem Ort der Ausgrenzung entsteht Beschäftigung.",
+      "interest": "Aus dem Ort der Ausgrenzung entsteht Beschäftigung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1936",
+        "1933",
+        "1929",
+        "1938"
+      ],
+      "feedback": [
+        "1936 erschien der Film nach Eric Hatchs Roman „1101 Park Avenue“ von 1935.",
+        "1933 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1936 wird im zeitlichen Hintergrund erklärt.",
+        "1929 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1936 wird im zeitlichen Hintergrund erklärt.",
+        "1938 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1936 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1936 erschien der Film nach Eric Hatchs Roman „1101 Park Avenue“ von 1935.",
+      "context": "1936 erschien der Film nach Eric Hatchs Roman „1101 Park Avenue“ von 1935. Ein Jahr Abstand verbindet die Vorlage mit einer Komödie, die ausdrücklich im Milieu der Weltwirtschaftskrise spielt. Obdachlosigkeit und verschwenderische Gesellschaftsspiele stehen nebeneinander.",
+      "anchor": "Roman 1935, Film 1936: Ein Jahr später bringt die Komödie Armut und verschwenderische Gesellschaftsspiele zusammen.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Gregory La Cava",
+        "George Cukor",
+        "Preston Sturges",
+        "Leo McCarey"
+      ],
+      "feedback": [
+        "Gregory La Cava inszenierte William Powell und Carole Lombard.",
+        "George Cukor wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Gregory La Cava.",
+        "Preston Sturges wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Gregory La Cava.",
+        "Leo McCarey wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Gregory La Cava."
+      ],
+      "short": "Gregory La Cava inszenierte William Powell und Carole Lombard.",
+      "context": "Gregory La Cava inszenierte William Powell und Carole Lombard. Powell spielt den vermeintlich mittellosen Godfrey, Lombard die impulsive Irene. Die Besetzung trägt eine Komödie, die die Abhängigkeit der wohlhabenden Familie von ihrem neuen Butler sichtbar macht.",
+      "anchor": "Gregory La Cava inszenierte William Powell und Carole Lombard.",
+      "interest": "Gregory La Cava inszenierte William Powell und Carole Lombard.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

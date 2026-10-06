@@ -1,0 +1,218 @@
+{
+  "rank": 32,
+  "directors": [
+    "Denis Villeneuve"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Cannes-Wettbewerbsfilm mit bekannten Hauptdarstellern und internationaler Fortsetzung; für breite Filmkenner vertraut.",
+  "release_note": "Wettbewerbsvorführung in Cannes am 19. Mai 2015; US-Start später im September.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Sicario_(2015_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "festival": {
+      "url": "https://www.festival-cannes.com/en/f/sicario/",
+      "supports": "Wettbewerb 2015, USA, Regie, Drehbuch, Kamera, Musik und Grenzoperation."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was entdeckt Kates FBI-Team beim ersten großen Einsatz in @ in den Hauswänden?",
+      "answers": [
+        "Zahlreiche Leichen",
+        "Versteckte Waffenlager",
+        "Eingemauerte Drogengelder",
+        "Eine Gruppe lebender Geiseln"
+      ],
+      "feedback": [
+        "Kate Macer (Emily Blunt) findet mit ihrem Team eingemauerte Leichen.",
+        "Waffen sind nicht der erschütternde Wandfund.",
+        "Der Fund sind Tote, keine Geldbestände.",
+        "Die Menschen in den Wänden sind bereits gestorben."
+      ],
+      "short": "Kate Macer (Emily Blunt) findet mit ihrem Team eingemauerte Leichen.",
+      "context": "Kate Macer (Emily Blunt) findet mit ihrem Team eingemauerte Leichen. Der Einsatz macht die Gewalt des Kartells sichtbar; eine nachfolgende Sprengfalle erweitert die unmittelbare Gefahr für die Ermittler.",
+      "anchor": "Die scheinbare Hausdurchsuchung legt eine Massentötung offen.",
+      "interest": "Die scheinbare Hausdurchsuchung legt eine Massentötung offen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Grenze überschreitet das Einsatzteam in @ bei der Gefangenenabholung?",
+      "answers": [
+        "Die Grenze zwischen USA und Mexiko",
+        "Die Grenze zwischen USA und Kanada",
+        "Die Grenze zwischen Mexiko und Guatemala",
+        "Die Grenze zwischen Kolumbien und Venezuela"
+      ],
+      "feedback": [
+        "Kate (Emily Blunt), Matt Graver (Josh Brolin) und Alejandro (Benicio del Toro) fahren nach Ciudad Juárez.",
+        "Die Operation führt nach Ciudad Juárez, nicht nach Kanada.",
+        "Guatemala liegt nicht an diesem Einsatzweg.",
+        "Das Team operiert an der US-mexikanischen Grenze."
+      ],
+      "short": "Kate (Emily Blunt), Matt Graver (Josh Brolin) und Alejandro (Benicio del Toro) fahren nach Ciudad Juárez.",
+      "context": "Kate (Emily Blunt), Matt Graver (Josh Brolin) und Alejandro (Benicio del Toro) fahren nach Ciudad Juárez. Die Rückkehr über den Grenzübergang wird zum bewaffneten Konflikt; Kate erlebt dort Methoden, die ihren Regeln widersprechen.",
+      "anchor": "Der Grenzübergang macht den Regelkonflikt der Operation sichtbar.",
+      "interest": "Der Grenzübergang macht den Regelkonflikt der Operation sichtbar.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum ist Kates Beteiligung an der Tunneloperation in @ für Matt notwendig?",
+      "answers": [
+        "Eine FBI-Beteiligung legitimiert die CIA-Aktivität auf US-Gebiet.",
+        "Kate muss den Tunnel als zuständige Bauprüferin freigeben.",
+        "Nur Kate besitzt die Vollmacht zur Auslieferung des Gefangenen.",
+        "Matt braucht Kate als Zeugin für einen internationalen Haftbefehl."
+      ],
+      "feedback": [
+        "Matt Graver (Josh Brolin) erklärt Kate (Emily Blunt) die juristische Hilfsfunktion ihrer Anwesenheit.",
+        "Eine bauliche Prüfung ist nicht ihr Auftrag.",
+        "Die Tunneloperation dient nicht bloß einer Auslieferung.",
+        "Ein internationaler Haftbefehl begründet ihre Mitnahme nicht."
+      ],
+      "short": "Matt Graver (Josh Brolin) erklärt Kate (Emily Blunt) die juristische Hilfsfunktion ihrer Anwesenheit.",
+      "context": "Matt Graver (Josh Brolin) erklärt Kate (Emily Blunt) die juristische Hilfsfunktion ihrer Anwesenheit. Ihr Mitwirken schafft einen behördlichen Rahmen, während sie über Ziel und Ablauf nur unvollständig informiert wird.",
+      "anchor": "Die Agentin liefert die formale Legitimation ohne entsprechende Kontrolle.",
+      "interest": "Die Agentin liefert die formale Legitimation ohne entsprechende Kontrolle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welches übergeordnete Ziel verfolgt Matt in @ mit der Beseitigung Alarcóns?",
+      "answers": [
+        "Das Geschäft unter einem besser kontrollierbaren kolumbianischen Kartell bündeln",
+        "Sämtliche Drogengeschäfte durch eine gleichzeitige Verhaftung beenden",
+        "Die gesamte Grenze dauerhaft militärisch schließen",
+        "Das Kartellgeschäft an eine Gruppe unabhängiger kleiner Händler verteilen"
+      ],
+      "feedback": [
+        "Matt strebt eine kontrollierbare Bündelung des Drogengeschäfts an.",
+        "Eine vollständige Beseitigung aller Geschäfte ist nicht das erklärte Ziel.",
+        "Ein dauerhaft geschlossener Grenzraum ist nicht seine Strategie.",
+        "Er will die Geschäfte bündeln statt sie unter vielen kleinen Gruppen verteilen."
+      ],
+      "short": "Matt strebt eine kontrollierbare Bündelung des Drogengeschäfts an.",
+      "context": "Matt Graver (Josh Brolin) erklärt Kate (Emily Blunt), dass ein einziges kolumbianisch geführtes Geschäft für die USA leichter zu kontrollieren wäre. Die Beseitigung Alarcóns soll deshalb eine Machtordnung verändern, statt den Drogenhandel vollständig zu beenden.",
+      "anchor": "Der Zugriff soll das Geschäft kontrollierbarer machen statt es vollständig beenden.",
+      "interest": "Der Zugriff soll das Geschäft kontrollierbarer machen statt es vollständig beenden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welches persönliche Motiv treibt Alejandro in @ gegen Alarcón an?",
+      "answers": [
+        "Alarcón ließ seine Frau und Tochter ermorden.",
+        "Alarcón hat seine verdeckte Polizeikarriere öffentlich verraten.",
+        "Alarcón ließ ihn für einen Bankraub verurteilen.",
+        "Alarcón hält seinen Bruder als Geisel fest."
+      ],
+      "feedback": [
+        "Alejandro (Benicio del Toro) verfolgt den Mörder seiner Frau und Tochter.",
+        "Der Film erklärt das Motiv durch den Verlust seiner Familie.",
+        "Eine Bankraubverurteilung steht nicht hinter seiner Rache.",
+        "Eine aktuelle Bruderbefreiung ist nicht das Ziel."
+      ],
+      "short": "Alejandro (Benicio del Toro) verfolgt den Mörder seiner Frau und Tochter.",
+      "context": "Alejandro (Benicio del Toro) verfolgt den Mörder seiner Frau und Tochter. Matt (Josh Brolin) benutzt diese Rache zugleich für eine geplante Neuordnung der Kartelle; das persönliche und das strategische Motiv fallen zusammen.",
+      "anchor": "Alejandros Familienverlust dient zugleich Matts Machtstrategie.",
+      "interest": "Alejandros Familienverlust dient zugleich Matts Machtstrategie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was erzwingt Alejandro bei seinem letzten Besuch bei Kate in @?",
+      "answers": [
+        "Ihre Unterschrift unter eine Erklärung zur Legalität der Operation",
+        "Ihre Kündigung beim FBI",
+        "Ihre schriftliche Zustimmung zur nächsten Mexikooperation",
+        "Ihr Geständnis einer Zusammenarbeit mit dem Kartell"
+      ],
+      "feedback": [
+        "Alejandro (Benicio del Toro) bedroht Kate (Emily Blunt) mit einer Waffe.",
+        "Er braucht ihre nachträgliche Bestätigung, keine Kündigung.",
+        "Ein künftiger Einsatz wird nicht vereinbart.",
+        "Kate soll die Operation legitimieren, nicht eigene Kartellhilfe gestehen."
+      ],
+      "short": "Alejandro (Benicio del Toro) bedroht Kate (Emily Blunt) mit einer Waffe.",
+      "context": "Alejandro (Benicio del Toro) bedroht Kate (Emily Blunt) mit einer Waffe. Ihre Unterschrift liefert die nachträgliche Bestätigung einer Operation, deren Ablauf sie zuvor gerade nicht selbst bestimmen durfte.",
+      "anchor": "Die erzwungene Unterschrift vollendet die Instrumentalisierung der Agentin.",
+      "interest": "Die erzwungene Unterschrift vollendet die Instrumentalisierung der Agentin.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2015",
+        "2013",
+        "2010",
+        "2016"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 2015.",
+        "2013 liegt zwei Jahre vor der ersten Veröffentlichung.",
+        "2010 liegt fünf Jahre vor der Erstveröffentlichung.",
+        "2016 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2015 erstmals veröffentlicht.",
+      "context": "2015 erschien der erste Film. Sicario: Day of the Soldado folgte 2018, drei Jahre später, unter Stefano Sollimas Regie; Villeneuves Film und die Fortsetzung sind daher bei Regie und Jahr getrennt zuzuordnen.",
+      "anchor": "Auf Sicario von 2015 folgte 2018, drei Jahre später, Soldado mit einem anderen Regisseur.",
+      "interest": "Auf Sicario von 2015 folgte 2018, drei Jahre später, Soldado mit einem anderen Regisseur.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Denis Villeneuve",
+        "David Fincher",
+        "Kathryn Bigelow",
+        "Michael Mann"
+      ],
+      "feedback": [
+        "Denis Villeneuve führte Regie.",
+        "David Fincher hat hier keinen Regiecredit.",
+        "Kathryn Bigelow hat hier keinen Regiecredit.",
+        "Michael Mann hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Denis Villeneuve.",
+      "context": "Villeneuve inszenierte Taylor Sheridans Drehbuch mit Roger Deakins an der Kamera und Jóhann Jóhannssons Musik. Der eingeschränkte Blick der FBI-Agentin verbindet eine militärische Operation mit wachsendem Zweifel an deren Rechtfertigung.",
+      "anchor": "Villeneuve macht die Grenzoperation über Kates eingeschränkten Informationsstand erfahrbar.",
+      "interest": "Villeneuve macht die Grenzoperation über Kates eingeschränkten Informationsstand erfahrbar.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

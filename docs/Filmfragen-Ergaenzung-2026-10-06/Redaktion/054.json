@@ -1,0 +1,212 @@
+{
+  "rank": 54,
+  "directors": [
+    "Walter Salles"
+  ],
+  "production_countries": [
+    "Brasilien",
+    "Frankreich"
+  ],
+  "familiarity_reason": "Brasilianischer Festivalerfolg mit Fernanda Montenegro; Kennerfilm.",
+  "release_note": "Erste belegte Veröffentlichung 16. Januar 1998 in der Schweiz.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Central_Station_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Womit verdient Dora (Fernanda Montenegro) am Bahnhof in @ Geld?",
+      "answers": [
+        "Sie schreibt Briefe für andere.",
+        "Sie verkauft Fahrkarten.",
+        "Sie verkauft Speisen.",
+        "Sie liest Zeitungen gegen Bezahlung vor."
+      ],
+      "feedback": [
+        "Dora schreibt Briefe für Menschen, die nicht selbst schreiben können.",
+        "Die Fahrkarten verkauft sie nicht als Hauptarbeit.",
+        "Ein Essensstand ist nicht ihr Gewerbe.",
+        "Sie schreibt Briefe für Menschen, die nicht schreiben können."
+      ],
+      "short": "Dora schreibt Briefe für Menschen, die nicht selbst schreiben können.",
+      "context": "Dora (Fernanda Montenegro) schreibt Briefe für Menschen, die nicht selbst schreiben können. Die bezahlte Vermittlung fremder Worte wird später zu einer persönlichen Verbindung mit Josué (Vinícius de Oliveira).",
+      "anchor": "Fremde Briefe sind Doras Geschäft am Bahnhof.",
+      "interest": "Fremde Briefe sind Doras Geschäft am Bahnhof.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wen suchen Dora und Josué auf ihrer Reise in @?",
+      "answers": [
+        "Josués Vater",
+        "Josués Großmutter",
+        "Doras Bruder",
+        "Anas frühere Arbeitgeberin"
+      ],
+      "feedback": [
+        "Die Reise gilt Josués Vater.",
+        "Die Reise gilt dem Vater.",
+        "Ein Bruder Doras ist nicht das Ziel.",
+        "Eine Arbeitgeberin suchen sie nicht."
+      ],
+      "short": "Die Reise gilt Josués Vater.",
+      "context": "Die Reise gilt Josués Vater. Nach dem Tod seiner Mutter Ana (Soia Lira) begleitet Dora (Fernanda Montenegro) den Jungen in den Nordosten Brasiliens.",
+      "anchor": "Die gemeinsame Reise gilt dem abwesenden Vater.",
+      "interest": "Die gemeinsame Reise gilt dem abwesenden Vater.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welches Versäumnis prägt Doras (Fernanda Montenegro) Briefarbeit am Anfang von @?",
+      "answers": [
+        "Sie verschickt viele Briefe nicht.",
+        "Sie unterschreibt alle Briefe mit ihrem eigenen Namen.",
+        "Sie berechnet Geld, ohne einen Text zu schreiben.",
+        "Sie schickt die Briefe systematisch an falsche Adressen."
+      ],
+      "feedback": [
+        "Dora schickt viele der bezahlten Briefe nicht ab.",
+        "Ihre eigene Unterschrift ist nicht das Versäumnis.",
+        "Texte entstehen durchaus.",
+        "Das Problem ist das Zurückhalten vieler Briefe."
+      ],
+      "short": "Dora schickt viele der bezahlten Briefe nicht ab.",
+      "context": "Dora (Fernanda Montenegro) schickt viele der bezahlten Briefe nicht ab. Die Absender vertrauen ihr Gefühle und Anliegen an, die dadurch nicht ankommen; ihre spätere Beziehung zu Josué (Vinícius de Oliveira) verändert diesen Umgang.",
+      "anchor": "Dora verdient an Botschaften, die oft nie ankommen.",
+      "interest": "Dora verdient an Botschaften, die oft nie ankommen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie verschaffen Dora und Josué sich in @ nach dem Geldverlust neue Einnahmen?",
+      "answers": [
+        "Sie schreiben für Pilger Briefe.",
+        "Sie arbeiten vorübergehend in einer Bahnhofsküche.",
+        "Sie verkaufen Doras letzte Schmuckstücke.",
+        "Sie lassen Josué als Straßenmusiker auftreten."
+      ],
+      "feedback": [
+        "Josué (Vinícius de Oliveira) schlägt Briefarbeit für Pilger vor.",
+        "Die Einnahmen entstehen durch das Briefeschreiben.",
+        "Ein Schmuckverkauf ist nicht diese neue Einnahme.",
+        "Josué sammelt keine Musikgage."
+      ],
+      "short": "Josué (Vinícius de Oliveira) schlägt Briefarbeit für Pilger vor.",
+      "context": "Josué (Vinícius de Oliveira) schlägt Briefarbeit für Pilger vor. Dora (Fernanda Montenegro) nutzt damit ihre vorhandene Fähigkeit außerhalb des Bahnhofs; der Junge wird selbst zum praktischen Helfer.",
+      "anchor": "Josués Idee macht Doras Können auf der Reise nutzbar.",
+      "interest": "Josués Idee macht Doras Können auf der Reise nutzbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche frühere Handlung muss Dora (Fernanda Montenegro) in @ aus Schuldgefühl rückgängig machen?",
+      "answers": [
+        "Sie hat Josué an ein korruptes Paar verkauft.",
+        "Sie hat Josué allein in einen falschen Zug gesetzt.",
+        "Sie hat ihn ohne Essen am Bahnhof versteckt.",
+        "Sie hat ihn gegen Geld als Arbeitskraft vermittelt."
+      ],
+      "feedback": [
+        "Dora holt Josué (Vinícius de Oliveira) nach einem Verkauf zurück.",
+        "Die betreffende Rückholung gilt dem verkauften Kind.",
+        "Ein Bahnhofsversteck ist nicht die abgewickelte Tat.",
+        "Die Übergabe an das Paar ist nicht bloß ein Arbeitsvertrag."
+      ],
+      "short": "Dora holt Josué (Vinícius de Oliveira) nach einem Verkauf zurück.",
+      "context": "Dora (Fernanda Montenegro) holt Josué (Vinícius de Oliveira) nach einem Verkauf zurück. Diese schwere Grenzüberschreitung bleibt Teil ihrer Geschichte; die spätere Fürsorge wird dadurch keine von Anfang an selbstlose Rettung.",
+      "anchor": "Dora rettet den Jungen auch vor ihrer eigenen früheren Entscheidung.",
+      "interest": "Dora rettet den Jungen auch vor ihrer eigenen früheren Entscheidung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was erfahren Dora und Josué in @ aus dem Brief des gesuchten Vaters?",
+      "answers": [
+        "Er ist nach Rio gegangen, um Ana zu finden.",
+        "Er wartet bei seinen älteren Söhnen auf Ana.",
+        "Er arbeitet dauerhaft in São Paulo.",
+        "Er plant eine gemeinsame Reise mit Dora."
+      ],
+      "feedback": [
+        "Der Vater ist nach Rio gegangen, um Ana zu suchen.",
+        "Er war gerade aufgebrochen, um Ana in Rio zu suchen.",
+        "São Paulo ist nicht der Briefauftrag.",
+        "Dora gehört nicht zu seinem Reiseplan."
+      ],
+      "short": "Der Vater ist nach Rio gegangen, um Ana zu suchen.",
+      "context": "Der Vater ist nach Rio gegangen, um Ana (Soia Lira) zu suchen. Während Josué (Vinícius de Oliveira) ihn im Landesinneren sucht, liegt sein Weg in Gegenrichtung; der Brief zeigt verpasste Verbindung statt einfacher Abwesenheit.",
+      "anchor": "Vater und Sohn suchen auf entgegengesetzten Wegen.",
+      "interest": "Vater und Sohn suchen auf entgegengesetzten Wegen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1998",
+        "1996",
+        "1993",
+        "1999"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1998.",
+        "1996 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1993 liegt fünf Jahre davor.",
+        "1999 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1998 erstmals veröffentlicht.",
+      "context": "1998 erschien der Film und gewann in Berlin den Goldenen Bären. Fernanda Montenegros Oscar-Nominierung folgte bei der Verleihung 1999. Der Filmstart und die spätere amerikanische Auszeichnungssaison liegen somit in aufeinanderfolgenden Jahren.",
+      "anchor": "Der Berliner Film von 1998 führte 1999, ein Jahr später, zur Oscar-Nominierung Montenegros.",
+      "interest": "Der Berliner Film von 1998 führte 1999, ein Jahr später, zur Oscar-Nominierung Montenegros.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Walter Salles",
+        "Fernando Meirelles",
+        "Héctor Babenco",
+        "Carlos Diegues"
+      ],
+      "feedback": [
+        "Walter Salles führte Regie.",
+        "Fernando Meirelles führte bei diesem Film nicht Regie.",
+        "Héctor Babenco führte bei diesem Film nicht Regie.",
+        "Carlos Diegues führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Walter Salles.",
+      "context": "Salles entwickelte die Geschichte, João Emanuel Carneiro und Marcos Bernstein schrieben das Drehbuch. Die Reise aus Rio verbindet einen konkreten Dienst am Bahnhof mit einer allmählich veränderten Beziehung zwischen Frau und Kind.",
+      "anchor": "Salles entwickelte die Geschichte, João Emanuel Carneiro und Marcos Bernstein schrieben das Drehbuch.",
+      "interest": "Salles entwickelte die Geschichte, João Emanuel Carneiro und Marcos Bernstein schrieben das Drehbuch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

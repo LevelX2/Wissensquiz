@@ -1,0 +1,211 @@
+{
+  "rank": 89,
+  "directors": [
+    "Roman Polanski"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Weithin bekannter Horror-Klassiker mit starkem Einfluss auf das Genre.",
+  "release_note": "US-Veröffentlichung 12. Juni 1968.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Rosemary's_Baby_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wohin ziehen Rosemary und Guy am Anfang von @?",
+      "answers": [
+        "In ein New Yorker Apartmenthaus",
+        "In eine New Yorker Vorstadtvilla",
+        "In ein Apartmenthaus in Boston",
+        "In ein ländliches Haus nahe New York"
+      ],
+      "feedback": [
+        "Rosemary (Mia Farrow) und Guy (John Cassavetes) ziehen ins Bramford.",
+        "Die enge Nachbarschaft entsteht in einem städtischen Apartmenthaus.",
+        "Die Geschichte spielt in New York.",
+        "Ein abgelegenes Landhaus ist nicht ihr neuer Wohnort."
+      ],
+      "short": "Rosemary (Mia Farrow) und Guy (John Cassavetes) ziehen ins Bramford.",
+      "context": "Rosemary (Mia Farrow) und Guy (John Cassavetes) ziehen ins Bramford. Der neue Wohnraum bringt sie unmittelbar mit den Castevets zusammen; die räumliche Nähe erleichtert deren Einmischung.",
+      "anchor": "Das neue Apartment schafft die gefährliche Nachbarschaft.",
+      "interest": "Das neue Apartment schafft die gefährliche Nachbarschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was will Rosemary in @ vor den Nachbarn geschützt wissen?",
+      "answers": [
+        "Ihr ungeborenes Kind",
+        "Den neuen beruflichen Erfolg ihres Mannes",
+        "Die Erinnerung an ihren verstorbenen Bruder",
+        "Ihre Ersparnisse für den Wohnungskauf"
+      ],
+      "feedback": [
+        "Rosemary (Mia Farrow) fürchtet um ihr Kind.",
+        "Im Zentrum ihrer Sorge steht die Schwangerschaft.",
+        "Eine Brudertrauer bildet ihren Verdacht nicht.",
+        "Die Nachbarn bedrohen in ihrer Wahrnehmung das Kind, nicht bloß Geld."
+      ],
+      "short": "Rosemary (Mia Farrow) fürchtet um ihr Kind.",
+      "context": "Rosemary (Mia Farrow) fürchtet um ihr Kind. Die Schwangerschaft wird zunehmend von anderen geregelt; der Verlust von eigener Entscheidungsmacht macht die private Fürsorge zum Konflikt.",
+      "anchor": "Das Kind wird zum Mittelpunkt eines Kontrollkampfs.",
+      "interest": "Das Kind wird zum Mittelpunkt eines Kontrollkampfs.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum bekommt Guy in @ eine wichtige Theaterrolle?",
+      "answers": [
+        "Der ursprünglich vorgesehene Schauspieler erblindet.",
+        "Der vorgesehene Darsteller wird plötzlich verhaftet.",
+        "Der vorgesehene Darsteller bricht sich ein Bein.",
+        "Der vorgesehene Darsteller zieht sich nach einem Streit zurück."
+      ],
+      "feedback": [
+        "Der andere Schauspieler erblindet.",
+        "Die unerklärliche Erblindung macht die Rolle frei.",
+        "Ein Beinbruch ist nicht das Geschehen.",
+        "Ein freiwilliger Rückzug erklärt Guys Aufstieg nicht."
+      ],
+      "short": "Der andere Schauspieler erblindet.",
+      "context": "Der andere Schauspieler erblindet. Guy (John Cassavetes) profitiert davon; Rosemary (Mia Farrow) verbindet den beruflichen Aufstieg später mit dem Verdacht eines Handelns auf Kosten anderer.",
+      "anchor": "Guys Erfolg folgt auf die unerklärliche Schädigung eines Konkurrenten.",
+      "interest": "Guys Erfolg folgt auf die unerklärliche Schädigung eines Konkurrenten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welcher Hinweis aus Hutchs Buch führt Rosemary in @ zu Roman Castevets Vergangenheit?",
+      "answers": [
+        "Sein Name ist ein Anagramm eines anderen Namens.",
+        "Seine Adresse stimmt mit dem Geburtsort des Autors überein.",
+        "Ein Foto zeigt ihn unter dem Namen eines Arztes.",
+        "Sein Familienwappen erscheint auf dem Bucheinband."
+      ],
+      "feedback": [
+        "Roman Castevet lässt sich zu Steven Marcato umstellen.",
+        "Hutchs Spur betrifft umstellbare Buchstaben.",
+        "Die Entdeckung erfolgt durch das Namensanagramm, nicht ein Arztfoto.",
+        "Ein Wappen verbindet ihn nicht mit Marcato."
+      ],
+      "short": "Roman Castevet lässt sich zu Steven Marcato umstellen.",
+      "context": "Roman Castevet (Sidney Blackmer) lässt sich zu Steven Marcato umstellen. Rosemary (Mia Farrow) erkennt damit die Verbindung zur früheren satanistischen Geschichte; Hutchs (Maurice Evans) Hinweis wird zu einer überprüfbaren Namensspur.",
+      "anchor": "Die umgestellten Buchstaben offenbaren die Herkunft.",
+      "interest": "Die umgestellten Buchstaben offenbaren die Herkunft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum scheitert Rosemarys Flucht zu Dr Hill in @?",
+      "answers": [
+        "Er hält sie für wahnhaft und ruft die verdächtigten Männer.",
+        "Er vermittelt sie direkt an ein vom Zirkel kontrolliertes Krankenhaus.",
+        "Er schickt sie wegen fehlender Unterlagen nach Hause.",
+        "Er hält sie bis zur nächsten Untersuchung im Wartezimmer fest."
+      ],
+      "feedback": [
+        "Dr Hill (Charles Grodin) ruft Guy und Dr Sapirstein.",
+        "Hill ruft die Männer zu sich; kein neuer Klinikwechsel ist entscheidend.",
+        "Rosemarys Bericht wird als Wahn gedeutet.",
+        "Der Verrat entsteht durch die Verständigung ihrer Gegner."
+      ],
+      "short": "Dr Hill (Charles Grodin) ruft Guy und Dr Sapirstein.",
+      "context": "Dr Hill (Charles Grodin) ruft Guy (John Cassavetes) und Dr Sapirstein (Ralph Bellamy). Rosemarys (Mia Farrow) Versuch, unabhängige Hilfe zu finden, führt dadurch zurück zu genau den Personen, vor denen sie Schutz sucht.",
+      "anchor": "Der vermeintliche Helfer liefert Rosemary an ihre Gegner zurück.",
+      "interest": "Der vermeintliche Helfer liefert Rosemary an ihre Gegner zurück.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie findet Rosemary im Schluss von @ das lebende Baby?",
+      "answers": [
+        "Durch einen verborgenen Durchgang zur Nachbarwohnung",
+        "Durch eine Nachricht aus dem Krankenhaus",
+        "Durch Guys freiwilliges Geständnis",
+        "Durch einen Besuch der Polizei"
+      ],
+      "feedback": [
+        "Ein verborgener Durchgang führt zu den Castevets.",
+        "Das Krankenhaus schickt keine befreiende Nachricht.",
+        "Guy führt sie nicht freiwillig hin.",
+        "Die Polizei entdeckt es nicht."
+      ],
+      "short": "Ein verborgener Durchgang führt zu den Castevets.",
+      "context": "Ein verborgener Durchgang führt zu den Castevets. Rosemary (Mia Farrow) entdeckt die Versammlung um die Wiege selbst; die zuvor behauptete Totgeburt wird als gezielte Täuschung erkennbar.",
+      "anchor": "Die geheime Verbindung der Wohnungen führt hinter die Totgeburtslüge.",
+      "interest": "Die geheime Verbindung der Wohnungen führt hinter die Totgeburtslüge.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1968",
+        "1966",
+        "1963",
+        "1969"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1968.",
+        "1966 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1963 liegt fünf Jahre davor.",
+        "1969 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1968 erstmals veröffentlicht.",
+      "context": "1968 erschien der Film, nur ein Jahr nach Ira Levins Roman von 1967. Die schnelle Adaption bewahrt den New Yorker Wohnalltag als Grundlage eines Horrors, der über Nachbarn, Ehe und medizinische Betreuung entsteht.",
+      "anchor": "Levins Roman von 1967 wurde nur ein Jahr später, 1968, verfilmt.",
+      "interest": "Levins Roman von 1967 wurde nur ein Jahr später, 1968, verfilmt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Roman Polanski",
+        "William Friedkin",
+        "Brian De Palma",
+        "William Castle"
+      ],
+      "feedback": [
+        "Roman Polanski führte Regie.",
+        "William Friedkin hat hier keinen Regiecredit.",
+        "Brian De Palma hat hier keinen Regiecredit.",
+        "William Castle hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Roman Polanski.",
+      "context": "Polanski schrieb auch die Romanadaption. Die Kamera bleibt an Rosemarys begrenzter Sicht orientiert; vertrauenswürdig wirkende Eheleute und Ärzte können deshalb lange zugleich Hilfe oder Bedrohung bedeuten.",
+      "anchor": "Polanski schrieb auch die Romanadaption.",
+      "interest": "Polanski schrieb auch die Romanadaption.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

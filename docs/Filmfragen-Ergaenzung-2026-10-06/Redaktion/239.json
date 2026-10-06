@@ -1,0 +1,218 @@
+{
+  "rank": 239,
+  "directors": [
+    "Tommy Lee Jones"
+  ],
+  "production_countries": [
+    "USA",
+    "Frankreich"
+  ],
+  "familiarity_reason": "Bekannter ungewöhnlicher Western mit Hilary Swank und Tommy Lee Jones über die Kosten des Siedlerlebens.",
+  "release_note": "Erste Veröffentlichung 2014 bei den Filmfestspielen von Cannes; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Homesman",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Homesman",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wen soll Mary Bee Cuddy in @ nach Iowa begleiten?",
+      "answers": [
+        "Drei psychisch erkrankte Frauen",
+        "Drei zum Tod verurteilte Männer",
+        "Eine Gruppe verwundeter Soldaten",
+        "Drei neu angeworbene Lehrerinnen"
+      ],
+      "feedback": [
+        "Mary Bee Cuddy (Hilary Swank) übernimmt die Begleitung dreier erkrankter Frauen nach Iowa.",
+        "Es handelt sich nicht um Verurteilte.",
+        "Soldaten sind nicht die Reisegruppe.",
+        "Die Frauen reisen nicht als neue Lehrkräfte."
+      ],
+      "short": "Mary Bee Cuddy (Hilary Swank) übernimmt die Begleitung dreier erkrankter Frauen nach Iowa.",
+      "context": "Mary Bee Cuddy (Hilary Swank) übernimmt die Begleitung dreier erkrankter Frauen nach Iowa. Eine kirchliche Einrichtung soll sich ihrer annehmen, weil die kleine Siedlung sie nicht versorgen kann.",
+      "anchor": "Die Reise dient Versorgung statt Landgewinn oder Verfolgung.",
+      "interest": "Die Reise dient Versorgung statt Landgewinn oder Verfolgung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie gewinnt Cuddy in @ George Briggs als Begleiter?",
+      "answers": [
+        "Sie rettet ihn vor dem Strang und verlangt seine Hilfe",
+        "Sie wirbt ihn als früheren Soldaten offiziell an",
+        "Sie heiratet ihn vor der Abreise",
+        "Sie lässt ihn durch den Sheriff verpflichten"
+      ],
+      "feedback": [
+        "Cuddy (Hilary Swank) befreit Briggs (Tommy Lee Jones), der mit einer Schlinge um den Hals auf einem Pferd sitzt.",
+        "Ein offizieller Soldatenauftrag liegt nicht vor.",
+        "Die beiden heiraten nicht.",
+        "Ein Sheriff verpflichtet ihn nicht."
+      ],
+      "short": "Cuddy (Hilary Swank) befreit Briggs (Tommy Lee Jones), der mit einer Schlinge um den Hals auf einem Pferd sitzt.",
+      "context": "Cuddy (Hilary Swank) befreit Briggs (Tommy Lee Jones), der mit einer Schlinge um den Hals auf einem Pferd sitzt. Die Rettung bindet sie an seine Hilfe, die er dennoch als jederzeit kündbar betrachtet.",
+      "anchor": "Cuddy tauscht die Rettung vor dem Strang gegen eine unsichere Hilfe.",
+      "interest": "Cuddy tauscht die Rettung vor dem Strang gegen eine unsichere Hilfe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum bleibt Cuddy in @ zeitweise hinter der Reisegruppe zurück?",
+      "answers": [
+        "Sie richtet das von Wölfen gestörte Grab eines Kindes wieder her",
+        "Sie sucht eine vermisste Geldtasche",
+        "Sie wartet auf ein Telegramm aus New York",
+        "Sie besucht eine angebotene neue Farm"
+      ],
+      "feedback": [
+        "Cuddy (Hilary Swank) will das gestörte Kindergrab wiederherstellen.",
+        "Eine Geldtasche sucht sie nicht.",
+        "Ein Telegramm hält sie nicht auf.",
+        "Ein Farmangebot nimmt sie nicht wahr."
+      ],
+      "short": "Cuddy (Hilary Swank) will das gestörte Kindergrab wiederherstellen.",
+      "context": "Cuddy (Hilary Swank) will das gestörte Kindergrab wiederherstellen. Briggs (Tommy Lee Jones) zieht weiter; ihre Fürsorge führt zu einer einsamen Nacht, in der sie den Weg verliert.",
+      "anchor": "Die Sorge um das fremde Grab setzt Cuddy eigener Hilflosigkeit aus.",
+      "interest": "Die Sorge um das fremde Grab setzt Cuddy eigener Hilflosigkeit aus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum setzt Briggs in @ die Reise nach Cuddys Tod schließlich doch fort?",
+      "answers": [
+        "Die Frauen folgen ihm, und er rettet eine von ihnen aus dem Fluss",
+        "Er erhält einen neuen Befehl des Sheriffs",
+        "Er findet eine erhöhte Belohnung im Reisevertrag",
+        "Cuddys Bruder übernimmt die Führung"
+      ],
+      "feedback": [
+        "Briggs (Tommy Lee Jones) will zunächst mit dem Geld gehen.",
+        "Ein Sheriff befiehlt ihm die Weiterreise nicht.",
+        "Eine höhere Belohnung wird nicht angeboten.",
+        "Ein Bruder übernimmt nicht."
+      ],
+      "short": "Briggs (Tommy Lee Jones) will zunächst mit dem Geld gehen.",
+      "context": "Briggs (Tommy Lee Jones) will zunächst mit dem Geld gehen. Als die Frauen ihm folgen und Arabella (Grace Gummer) im Fluss fast ertrinkt, rettet er sie und übernimmt die weiterbestehende Verantwortung.",
+      "anchor": "Die unmittelbare Hilfsbedürftigkeit macht aus dem Fluchtversuch erneute Verantwortung.",
+      "interest": "Die unmittelbare Hilfsbedürftigkeit macht aus dem Fluchtversuch erneute Verantwortung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum erweist sich Briggs’ Bezahlung in @ am Ziel als wertlos?",
+      "answers": [
+        "Die Bank der Herkunftssiedlung ist inzwischen gescheitert",
+        "Cuddy hat absichtlich falsche Scheine eingepackt",
+        "Ein Gericht beschlagnahmt das Geld",
+        "Die Kirche verlangt es als Aufnahmegebühr"
+      ],
+      "feedback": [
+        "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist.",
+        "Cuddy fälscht das Geld nicht.",
+        "Ein Gericht nimmt es nicht.",
+        "Die Kirche kassiert keine entsprechende Gebühr."
+      ],
+      "short": "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist.",
+      "context": "Briggs (Tommy Lee Jones) erfährt, dass die Bank von Loup ausgefallen ist. Die mitgeführten 300 Dollar haben damit ihren Wert verloren; die materielle Grundlage seiner Motivation bricht nach vollendetem Auftrag weg.",
+      "anchor": "Der Bankzusammenbruch entwertet die Belohnung erst nach der erfüllten Aufgabe.",
+      "interest": "Der Bankzusammenbruch entwertet die Belohnung erst nach der erfüllten Aufgabe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Was geschieht in @ mit dem für Cuddy angefertigten Grabzeichen?",
+      "answers": [
+        "Es wird unbemerkt von der Fähre in den Fluss gestoßen",
+        "Briggs stellt es am Ziel auf dem Kirchhof auf",
+        "Die Frauen tragen es gemeinsam zurück",
+        "Es verbrennt im von Briggs angezündeten Hotel"
+      ],
+      "feedback": [
+        "Ein Mann stößt Cuddys Grabzeichen von der Fähre, während Briggs (Tommy Lee Jones) abgelenkt ist.",
+        "Es erreicht keinen Kirchhof.",
+        "Die Frauen bleiben in der Einrichtung.",
+        "Das Hotel brannte schon vorher."
+      ],
+      "short": "Ein Mann stößt Cuddys Grabzeichen von der Fähre, während Briggs (Tommy Lee Jones) abgelenkt ist.",
+      "context": "Ein Mann stößt Cuddys Grabzeichen von der Fähre, während Briggs (Tommy Lee Jones) abgelenkt ist. Das gedachte Erinnerungszeichen treibt davon; ihre Leistung erhält damit nicht einmal die geplante dauerhafte Markierung.",
+      "anchor": "Das verlorene Grabzeichen macht die ausbleibende Erinnerung sichtbar.",
+      "interest": "Das verlorene Grabzeichen macht die ausbleibende Erinnerung sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2014",
+        "2011",
+        "2007",
+        "2016"
+      ],
+      "feedback": [
+        "2014 erschien der Film.",
+        "2011 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2014 wird im zeitlichen Hintergrund erklärt.",
+        "2007 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2014 wird im zeitlichen Hintergrund erklärt.",
+        "2016 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2014 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2014 erschien der Film.",
+      "context": "2014 erschien der Film. Die Handlung setzt 1854 ein, 160 Jahre zuvor; die Reise führt gegen die übliche Westernerzählung nach Osten, weil das Leben an der Siedlungsgrenze die Frauen krank gemacht hat.",
+      "anchor": "Handlung 1854, Film 2014: 160 Jahre später wird die Reise nach Osten zum Gegenbild der üblichen Westernausdehnung.",
+      "interest": "Der Abstand zwischen erzählter Zeit und Veröffentlichung macht den rückblickenden Blick des Films sichtbar.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Tommy Lee Jones",
+        "John Hillcoat",
+        "Andrew Dominik",
+        "Jane Campion"
+      ],
+      "feedback": [
+        "Tommy Lee Jones führte Regie, spielte Briggs und schrieb mit Kieran Fitzgerald und Wesley Oliver das Drehbuch.",
+        "John Hillcoat wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Tommy Lee Jones.",
+        "Andrew Dominik wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Tommy Lee Jones.",
+        "Jane Campion wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Tommy Lee Jones."
+      ],
+      "short": "Tommy Lee Jones führte Regie, spielte Briggs und schrieb mit Kieran Fitzgerald und Wesley Oliver das Drehbuch.",
+      "context": "Tommy Lee Jones führte Regie, spielte Briggs und schrieb mit Kieran Fitzgerald und Wesley Oliver das Drehbuch. Der Western richtet seine Reise auf die Versorgung leidender Frauen und entzieht dem männlichen Begleiter die einfache Heldenrolle.",
+      "anchor": "Tommy Lee Jones führte Regie, spielte Briggs und schrieb mit Kieran Fitzgerald und Wesley Oliver das Drehbuch.",
+      "interest": "Tommy Lee Jones führte Regie, spielte Briggs und schrieb mit Kieran Fitzgerald und Wesley Oliver das Drehbuch.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 226,
+  "directors": [
+    "Howard Hawks"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekannter später John-Wayne-Western und Howard Hawks’ letzter Film.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1970; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Rio_Lobo",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Rio_Lobo",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was wird zu Beginn von @ von konföderierten Soldaten überfallen?",
+      "answers": [
+        "Ein Zug mit Soldzahlungen",
+        "Ein Lazarettschiff",
+        "Eine Kavallerieschule",
+        "Ein Munitionslager im Fort"
+      ],
+      "feedback": [
+        "Konföderierte überfallen einen Zug mit Soldzahlungen der Union.",
+        "Ein Schiff ist nicht das Ziel.",
+        "Eine Schule wird nicht angegriffen.",
+        "Die Aktion richtet sich gegen den Zug."
+      ],
+      "short": "Konföderierte überfallen einen Zug mit Soldzahlungen der Union.",
+      "context": "Konföderierte überfallen einen Zug mit Soldzahlungen der Union. Colonel McNally (John Wayne) erkennt später, dass verräterische Unionssoldaten die Informationen für den Überfall geliefert haben müssen.",
+      "anchor": "Der Soldzugüberfall eröffnet die spätere Suche nach Verrätern.",
+      "interest": "Der Soldzugüberfall eröffnet die spätere Suche nach Verrätern.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wer wird nach dem Krieg in @ zu McNallys Verbündeten?",
+      "answers": [
+        "Zwei frühere konföderierte Gegner",
+        "Zwei entlaufene Bankangestellte",
+        "Zwei verdeckte Bundesagenten",
+        "Zwei ehemalige Gefängniswärter"
+      ],
+      "feedback": [
+        "Pierre Cordona (Jorge Rivero) und Tuscarora Phillips (Christopher Mitchum) waren McNallys Gegner im Krieg.",
+        "Bankangestellte sind nicht seine Verbündeten.",
+        "Sie sind keine Bundesagenten.",
+        "Eine Arbeit als Gefängniswärter verbindet sie nicht."
+      ],
+      "short": "Pierre Cordona (Jorge Rivero) und Tuscarora Phillips (Christopher Mitchum) waren McNallys Gegner im Krieg.",
+      "context": "Pierre Cordona (Jorge Rivero) und Tuscarora Phillips (Christopher Mitchum) waren McNallys Gegner im Krieg. Gegenseitiger Respekt führt sie nach Kriegsende zusammen, als die Suche nach den Informanten weitergeht.",
+      "anchor": "Die frühere Feindschaft schließt späteres Vertrauen nicht aus.",
+      "interest": "Die frühere Feindschaft schließt späteres Vertrauen nicht aus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum macht McNally in @ einen Unterschied zwischen Cordona und den gesuchten Informanten?",
+      "answers": [
+        "Er unterscheidet Kriegshandlungen von Verrat",
+        "Er kennt Cordona bereits als Verwandten",
+        "Er hält die Informanten für ausländische Spione",
+        "Er hat mit Cordona einen geheimen Geldvertrag"
+      ],
+      "feedback": [
+        "McNally (John Wayne) respektiert Cordona (Jorge Rivero) als früheren Gegner, obwohl bei dessen Angriff ein Freund starb.",
+        "Die Männer sind nicht verwandt.",
+        "Die Informanten gehören zur Union.",
+        "Ein Geldvertrag begründet seinen Respekt nicht."
+      ],
+      "short": "McNally (John Wayne) respektiert Cordona (Jorge Rivero) als früheren Gegner, obwohl bei dessen Angriff ein Freund starb.",
+      "context": "McNally (John Wayne) respektiert Cordona (Jorge Rivero) als früheren Gegner, obwohl bei dessen Angriff ein Freund starb. Die eigenen Soldaten, die Informationen verkauften, betrachtet er dagegen als Verräter.",
+      "anchor": "Ehrenhafter Gegner und eigener Verräter sind für McNally verschieden.",
+      "interest": "Ehrenhafter Gegner und eigener Verräter sind für McNally verschieden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Herrschaft finden McNally und seine Helfer in @ in Rio Lobo vor?",
+      "answers": [
+        "Ein Rancher nutzt einen korrupten Sheriff zum Landraub",
+        "Die Armee hat die Stadt unter Quarantäne gestellt",
+        "Ein Bankier hat sämtliche Einwohner verschuldet",
+        "Ein Eisenbahnkonzern verbietet die Viehzucht"
+      ],
+      "feedback": [
+        "Ketcham (Victor French) lässt durch Sheriff Hendricks (Mike Henry) Rancher einschüchtern und ihr Land nehmen.",
+        "Eine Quarantäne ist nicht das Problem.",
+        "Ein Bankier beherrscht die Stadt nicht auf diese Weise.",
+        "Die Eisenbahn ist nicht der Unterdrücker."
+      ],
+      "short": "Ketcham (Victor French) lässt durch Sheriff Hendricks (Mike Henry) Rancher einschüchtern und ihr Land nehmen.",
+      "context": "Ketcham (Victor French) lässt durch Sheriff Hendricks (Mike Henry) Rancher einschüchtern und ihr Land nehmen. McNallys (John Wayne) persönliche Suche verbindet sich mit dem Widerstand gegen diese Machtordnung.",
+      "anchor": "Die Verrätersuche stößt auf ein System des Landraubs.",
+      "interest": "Die Verrätersuche stößt auf ein System des Landraubs.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was erzwingt McNally in @ von dem als Ketcham auftretenden Verräter?",
+      "answers": [
+        "Die Rückübertragung der gestohlenen Grundstücke",
+        "Eine schriftliche Aussage über seine Informanten.",
+        "Die Entlassung sämtlicher Deputys des Sheriffs.",
+        "Die Übergabe der für den Zugraub erhaltenen Bezahlung."
+      ],
+      "feedback": [
+        "McNally (John Wayne) zwingt Ketcham (Victor French), die Grundstücke ihren Eigentümern zurückzuübertragen.",
+        "Die konkrete Forderung betrifft die Rückgabe des geraubten Landes.",
+        "McNally erzwingt die Rückübertragung der Grundstücke.",
+        "Die Bewohner erhalten durch die erzwungene Erklärung ihr Land zurück."
+      ],
+      "short": "McNally (John Wayne) zwingt Ketcham (Victor French), die Grundstücke ihren Eigentümern zurückzuübertragen.",
+      "context": "McNally (John Wayne) zwingt Ketcham (Victor French), die Grundstücke ihren Eigentümern zurückzuübertragen. Damit verliert der Mann einen wesentlichen Nutzen für den Sheriff, der ihn später selbst erschießt.",
+      "anchor": "Die zurückgegebenen Urkunden zerstören Ketchams Machtgrundlage.",
+      "interest": "Die zurückgegebenen Urkunden zerstören Ketchams Machtgrundlage.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie wird Amelitas Ankündigung in @ am Schluss eingelöst?",
+      "answers": [
+        "Sie erschießt den Sheriff, der sie entstellt hat",
+        "Sie verlässt die Stadt mit dem gestohlenen Gold",
+        "Sie übernimmt das Amt des Sheriffs",
+        "Sie bringt Ketcham vor ein Armeegericht"
+      ],
+      "feedback": [
+        "Amelita (Sherry Lansing) erschießt Hendricks (Mike Henry), der sie mit einem Messer entstellt hat.",
+        "Ein Goldraub ist nicht ihre Ankündigung.",
+        "Sie wird nicht Sheriff.",
+        "Ketcham ist bereits tot."
+      ],
+      "short": "Amelita (Sherry Lansing) erschießt Hendricks (Mike Henry), der sie mit einem Messer entstellt hat.",
+      "context": "Amelita (Sherry Lansing) erschießt Hendricks (Mike Henry), der sie mit einem Messer entstellt hat. Ihre angekündigte Vergeltung erfolgt nach dem gemeinsamen Kampf, als der verletzte Sheriff fliehen will.",
+      "anchor": "Amelita vollzieht die zuvor angekündigte persönliche Vergeltung.",
+      "interest": "Amelita vollzieht die zuvor angekündigte persönliche Vergeltung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1970",
+        "1967",
+        "1963",
+        "1972"
+      ],
+      "feedback": [
+        "1970 erschien der Film.",
+        "1967 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1970 wird im zeitlichen Hintergrund erklärt.",
+        "1963 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1970 wird im zeitlichen Hintergrund erklärt.",
+        "1972 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1970 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1970 erschien der Film.",
+      "context": "1970 erschien der Film. Nach Rio Bravo von 1959 greift Hawks elf Jahre später erneut eine Belagerung und ein ungleiches Helferteam auf; die frühere Kriegspartnerschaft gibt der Gruppe hier einen anderen Ursprung.",
+      "anchor": "Rio Bravo 1959, Rio Lobo 1970: Elf Jahre später entsteht das Helferteam aus ehemaligen Kriegsgegnern.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Howard Hawks",
+        "Anthony Mann",
+        "George Stevens",
+        "Sam Peckinpah"
+      ],
+      "feedback": [
+        "Howard Hawks führte bei seinem letzten Film Regie.",
+        "Anthony Mann wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks.",
+        "George Stevens wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks.",
+        "Sam Peckinpah wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks."
+      ],
+      "short": "Howard Hawks führte bei seinem letzten Film Regie.",
+      "context": "Howard Hawks führte bei seinem letzten Film Regie. Ehemalige Kriegsgegner werden nach dem Bürgerkrieg zu Verbündeten gegen Verrat und eine korrupte örtliche Herrschaft.",
+      "anchor": "Howard Hawks führte bei seinem letzten Film Regie.",
+      "interest": "Howard Hawks führte bei seinem letzten Film Regie.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

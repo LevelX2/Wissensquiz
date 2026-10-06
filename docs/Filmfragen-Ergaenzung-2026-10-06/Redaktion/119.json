@@ -1,0 +1,224 @@
+{
+  "rank": 119,
+  "directors": [
+    "Mel Brooks"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Früher Brooks-Kultfilm, als Originalfassung für Filmkenner vertrauter als für das breite Publikum; Gruppe 3.",
+  "release_note": "AFI verzeichnet die Weltpremiere in Philadelphia im November 1967, den Pittsburgh-Start am 22. November 1967 und den New Yorker Start am 18. März 1968. Das Veröffentlichungsjahr ist deshalb 1967.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Producers_(1967_film)",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/1016819-producers",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/19896-THE-PRODUCERS",
+      "supports": "Gelesene Credit-, History- und Details-Abschnitte: Mel Brooks Regie; erste öffentliche Starts 1967, New York 1968, Broadway-Musical 2001 und dessen Verfilmung 2005."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Ergebnis hoffen Max und Leo (Zero Mostel und Gene Wilder) in @ mit ihrer Theaterproduktion zu erzielen?",
+      "answers": [
+        "Einen möglichst sicheren Flop",
+        "Einen Publikumserfolg bei bewusst niedrigen Eintrittspreisen",
+        "Eine schnelle Weiterveräußerung der Aufführungsrechte",
+        "Eine vorab abgesagte Premiere mit Versicherungszahlung"
+      ],
+      "feedback": [
+        "Die Produktion soll scheitern, damit der Betrug verborgen bleibt.",
+        "Sie wollen nach einem Flop die zu vielen verkauften Anteile behalten.",
+        "Eine Weiterveräußerung ist nicht das Betrugsprinzip.",
+        "Sie planen eine tatsächliche, möglichst erfolglose Aufführung."
+      ],
+      "short": "Die Produktion soll scheitern, damit der Betrug verborgen bleibt.",
+      "context": "Max Bialystock (Zero Mostel) und Leo Bloom (Gene Wilder) verkaufen mehr Anteile am Stück, als sie bei einem Erfolg bedienen könnten. Nur ein Verlust scheint ihnen den Zugriff auf das eingesammelte Geld zu sichern. Deshalb behandeln sie schlechte Qualität nicht als Problem, sondern als Voraussetzung ihres Geschäfts.",
+      "anchor": "Der sichere Misserfolg soll den finanziellen Erfolg des Betrugs schaffen.",
+      "interest": "Der sichere Misserfolg soll den finanziellen Erfolg des Betrugs schaffen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche berufliche Funktion hat Leo Bloom (Gene Wilder) in @, bevor er Max’ Partner wird?",
+      "answers": [
+        "Buchhalter",
+        "Theaterkritiker",
+        "Bühnentänzer",
+        "Polizeiermittler"
+      ],
+      "feedback": [
+        "Leo kommt als Buchhalter zur Prüfung von Max’ Unterlagen.",
+        "Ein Kritikerbesuch ist nicht Leos Ausgangsfunktion.",
+        "Als Tänzer kommt er nicht.",
+        "Ein Polizeiauftrag führt ihn nicht zu Max."
+      ],
+      "short": "Leo kommt als Buchhalter zur Prüfung von Max’ Unterlagen.",
+      "context": "Leo Bloom (Gene Wilder) entdeckt Unregelmäßigkeiten bei Max Bialystock (Zero Mostel). Seine sachliche Rechnung zeigt dann, wie sich mit einem Flop mehr verdienen ließe als mit einem Erfolg. Die Idee entsteht also aus der Perspektive des Prüfers, der anschließend die Grenze zwischen Buchhaltung und aktiver Beteiligung am Betrug überschreitet.",
+      "anchor": "Der Prüfer wird durch seine eigene Rechnung zum Komplizen.",
+      "interest": "Der Prüfer wird durch seine eigene Rechnung zum Komplizen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum scheitert Max’ und Leos Betrugsplan in @ gerade am Publikumserfolg?",
+      "answers": [
+        "Die Zuschauer verstehen die Hitler-Verehrung als komische Satire.",
+        "Ein Kritikerlob führt trotz leerer Säle zu hohen Nachzahlungen.",
+        "Die Darsteller verlangen vor der Premiere neue Gewinnanteile.",
+        "Ein Investor fordert seine Einlage noch vor der Eröffnung zurück."
+      ],
+      "feedback": [
+        "Der groteske Auftritt wird als Satire gefeiert und macht das Stück zum Hit.",
+        "Der tatsächliche Publikumshit macht die überverkauften Anteile unbezahlbar.",
+        "Neue Darstelleranteile sind nicht der Auslöser des gescheiterten Plans.",
+        "Eine vorzeitige Rückforderung erklärt den Hit als Problem nicht."
+      ],
+      "short": "Der groteske Auftritt wird als Satire gefeiert und macht das Stück zum Hit.",
+      "context": "Max Bialystock (Zero Mostel) und Leo Bloom (Gene Wilder) wollen mit einem geschmacklosen Stück das Publikum vertreiben. Doch die Inszenierung und der exzentrische Hauptdarsteller L.S.D. (Dick Shawn) verkehren die Verehrung in Komik. Das Publikum lacht, während die Produzenten erschrocken verstehen, dass sie die vielen verkauften Gewinnanteile nun auszahlen müssten.",
+      "anchor": "Das Publikum rettet den Abend und ruiniert den Flopplan.",
+      "interest": "Das Publikum rettet den Abend und ruiniert den Flopplan.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Wie beschafft Max Bialystock (Zero Mostel) in @ einen großen Teil des Produktionsgeldes?",
+      "answers": [
+        "Er umwirbt wohlhabende ältere Frauen.",
+        "Er bittet einen Mäzen um ein einmaliges Stipendium.",
+        "Er nimmt einen gesicherten Bankkredit auf.",
+        "Er verpfändet sämtliche Kostüme des Theaters."
+      ],
+      "feedback": [
+        "Max verkauft die Beteiligungen an wohlhabende Frauen, die er umwirbt.",
+        "Max verteilt über seine Beziehungen zu älteren Frauen sehr viele Beteiligungen.",
+        "Ein normaler gesicherter Bankkredit ist nicht die gezeigte Hauptfinanzierung.",
+        "Eine Kostümverpfändung liefert nicht die entscheidenden Anlegergelder."
+      ],
+      "short": "Max verkauft die Beteiligungen an wohlhabende Frauen, die er umwirbt.",
+      "context": "Max Bialystock (Zero Mostel) setzt persönliche Zuwendung als Mittel der Finanzierung ein. Die Anteile, die er seinen Geldgeberinnen anbietet, übersteigen zusammen die mögliche reale Beteiligung bei weitem. Die Farce verbindet so sein Privatverhalten mit der Geschäftsidee: Beziehungspflege und Betrug sind Teile desselben Systems.",
+      "anchor": "Max macht seine Verehrerinnen zu überzähligen Geldgeberinnen.",
+      "interest": "Max macht seine Verehrerinnen zu überzähligen Geldgeberinnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum bietet Max Bialystock (Zero Mostel) in @ vor der Premiere einem Kritiker scheinbar Bestechungsgeld an?",
+      "answers": [
+        "Er will den Kritiker empören und eine schlechte Rezension provozieren.",
+        "Er will eine gute Rezension vorab kaufen.",
+        "Er will dessen Namen als offiziellen Produzenten gewinnen.",
+        "Er will die Identität eines Geldgebers überprüfen."
+      ],
+      "feedback": [
+        "Max versucht absichtlich, den Kritiker gegen die Produktion aufzubringen.",
+        "Ein Lob wäre für den geplanten Flop unerwünscht.",
+        "Eine offizielle Produzentenrolle will er dem Kritiker nicht geben.",
+        "Die Begegnung dient keiner Identitätsprüfung eines Anlegers."
+      ],
+      "short": "Die scheinbare Bestechung soll eine negative Kritik auslösen.",
+      "context": "Max Bialystock (Zero Mostel) und Leo Bloom (Gene Wilder) brauchen einen Misserfolg. Max verhält sich vor der Premiere gegenüber dem Kritiker absichtlich anstößig. Eine normalerweise erfolgsorientierte Einflussnahme wird umgedreht: Er möchte gerade dessen Empörung und einen Verriss erreichen.",
+      "anchor": "Max provoziert den Kritiker, weil ein Verriss seinem Flopplan helfen soll.",
+      "interest": "Der Betrugsplan kehrt selbst die gewöhnliche Beziehung von Produzent und Kritik um.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Was zeigt die Schlusssequenz von @ über die angebliche Reue der Produzenten?",
+      "answers": [
+        "Sie verkaufen auch im Gefängnis zu viele Anteile an einem neuen Stück.",
+        "Sie setzen im Gefängnis mit einem neuen Stück auf einen ehrlichen Erfolg.",
+        "Sie erklären ihre neuen Anteile als bloße Spenden für die Mitgefangenen.",
+        "Sie übertragen die ganze Gefängnisproduktion einem unbeteiligten Partner."
+      ],
+      "feedback": [
+        "Die Männer wiederholen das Modell mit Prisoners of Love.",
+        "Sie verkaufen erneut zu viele Gewinnanteile und wiederholen ihren Betrug.",
+        "Die Anteile versprechen Gewinn; es sind keine offen erklärten Spenden.",
+        "Max und Leo selbst führen das alte Prinzip weiter."
+      ],
+      "short": "Die Männer wiederholen das Modell mit Prisoners of Love.",
+      "context": "Max Bialystock (Zero Mostel), Leo Bloom (Gene Wilder) und Franz Liebkind (Kenneth Mars) landen im Gefängnis. Dort produzieren sie ein neues Musical und nehmen erneut überzählige Beteiligungen an. Die vorherige Beteuerung, aus dem Fehler gelernt zu haben, wird durch das konkrete Handeln widerlegt; die Farce endet mit der Wiederkehr ihres Geschäftsmodells.",
+      "anchor": "Das Gefängnis stoppt den Theaterbetrug nicht, sondern liefert neue Anleger.",
+      "interest": "Das Gefängnis stoppt den Theaterbetrug nicht, sondern liefert neue Anleger.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1967",
+        "1963",
+        "1966",
+        "1970"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1967.",
+        "1963 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1966 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1970 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1967.",
+      "context": "Das Original wurde schon im November 1967 öffentlich gezeigt; der New Yorker Start folgte im März 1968. AFI unterscheidet diese Starttermine ausdrücklich. Die neue Musicalverfilmung von 2005 erschien 38 Jahre nach dem Original. Damit lassen sich das oft genannte Kinojahr 1968 und die spätere musikalische Fassung vom ersten Veröffentlichungsjahr trennen.",
+      "anchor": "Original 1967, New Yorker Start 1968, Musicalverfilmung 2005: 38 Jahre nach dem Original.",
+      "interest": "Die erste öffentliche Veröffentlichung von späterem Kinoerfolg und neuer Musicalfassung unterscheiden.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Mel Brooks",
+        "Carl Reiner",
+        "Billy Wilder",
+        "Blake Edwards"
+      ],
+      "feedback": [
+        "Mel Brooks führte Regie.",
+        "Carl Reiner gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Billy Wilder gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Blake Edwards gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Mel Brooks.",
+      "context": "Mel Brooks schrieb und inszenierte den Film als sein Kinoregiedebüt. Zero Mostel spielt den Produzenten Max Bialystock, Gene Wilder den Buchhalter Leo Bloom. Brooks macht aus der Produktionswirtschaft selbst eine Farce: Künstlerische Entscheidungen sind zunächst Mittel eines Betrugs und erzeugen dann einen ungewollten Erfolg.",
+      "anchor": "Mel Brooks: Zero Mostel spielt den Produzenten Max Bialystock, Gene Wilder den Buchhalter Leo Bloom.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt",
+        "afi"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

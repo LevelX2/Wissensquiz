@@ -1,0 +1,217 @@
+{
+  "rank": 173,
+  "directors": [
+    "Leo McCarey"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine einflussreiche Wiederverheiratungskomödie mit Grant und Dunne; für breite heutige Zuschauer eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1937; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Awful_Truth",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Awful_Truth",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was wollen Jerry (Cary Grant) und Lucy (Irene Dunne) zu Beginn von @ rechtlich erreichen?",
+      "answers": [
+        "Ihre Scheidung",
+        "Die förmliche Trennung ohne Scheidung",
+        "Die Annullierung einer nie gültigen Ehe",
+        "Die Erneuerung ihres Eheversprechens"
+      ],
+      "feedback": [
+        "Jerry und Lucy beginnen ein Scheidungsverfahren.",
+        "Sie wollen die Ehe rechtlich scheiden lassen.",
+        "Ihre bestehende Ehe soll geschieden, nicht rückwirkend annulliert werden.",
+        "Am Anfang streben sie die Scheidung an."
+      ],
+      "short": "Jerry und Lucy beginnen ein Scheidungsverfahren.",
+      "context": "Jerry und Lucy beginnen ein Scheidungsverfahren. Gegenseitiger Verdacht treibt sie auseinander; ihre anschließenden neuen Beziehungen zeigen jedoch, dass beide emotional weiterhin aneinander gebunden sind.",
+      "anchor": "Die geplante Trennung legt die fortbestehende Bindung offen.",
+      "interest": "Die geplante Trennung legt die fortbestehende Bindung offen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Um welches gemeinsame Wesen streiten Jerry (Cary Grant) und Lucy (Irene Dunne) bei Gericht in @?",
+      "answers": [
+        "Um ihren Hund",
+        "Um ein Pferd",
+        "Um einen Papagei",
+        "Um eine Schildkröte"
+      ],
+      "feedback": [
+        "Sie streiten um ihren Hund Mr.",
+        "Das Verfahren betrifft kein Pferd.",
+        "Ein Papagei ist nicht das gemeinsame Tier.",
+        "Eine Schildkröte wird nicht zugeteilt."
+      ],
+      "short": "Sie streiten um ihren Hund Mr.",
+      "context": "Sie streiten um ihren Hund Mr. Smith. Das gerichtliche Besuchsrecht gibt Jerry einen Anlass, Lucy weiter zu sehen; die vermeintliche Trennung enthält damit eine regelmäßige Verbindung.",
+      "anchor": "Das Hundebesuchsrecht hält das Paar zusammen.",
+      "interest": "Das Hundebesuchsrecht hält das Paar zusammen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Woran erkennt Lucy (Irene Dunne) in @, dass Jerrys (Cary Grant) Florida-Reise eine Lüge war?",
+      "answers": [
+        "Seine Orangen sind als kalifornisch gekennzeichnet.",
+        "Sein Koffer trägt den Anhänger eines anderen Hotels.",
+        "Seine Sonnenbräune lässt sich abwaschen.",
+        "Sein Reisebegleiter erzählt von einem anderen Urlaub."
+      ],
+      "feedback": [
+        "Die angeblich aus Florida mitgebrachten Orangen tragen eine kalifornische Herkunftsangabe.",
+        "Die Herkunftskennzeichnung der Orangen verrät ihn.",
+        "Die konkrete Entdeckung betrifft kalifornische statt Florida-Orangen.",
+        "Ein Zeugenbericht liefert diesen Beweis nicht."
+      ],
+      "short": "Die angeblich aus Florida mitgebrachten Orangen tragen eine kalifornische Herkunftsangabe.",
+      "context": "Die angeblich aus Florida mitgebrachten Orangen tragen eine kalifornische Herkunftsangabe. Lucy entdeckt daran Jerrys Lüge; ihre eigene verdächtige Nacht und sein falsches Alibi verstärken das gegenseitige Misstrauen.",
+      "anchor": "Die Herkunft der Orangen widerlegt den Reisebericht.",
+      "interest": "Die Herkunft der Orangen widerlegt den Reisebericht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Als Jerry (Cary Grant) in @ den Gesangslehrer überrascht, was findet er tatsächlich vor?",
+      "answers": [
+        "Lucys öffentliches Gesangsrecital",
+        "Eine heimliche Trauung",
+        "Eine Geldübergabe an Erpresser",
+        "Eine leergeräumte Wohnung"
+      ],
+      "feedback": [
+        "Jerry platzt in Lucys Gesangsrecital.",
+        "Es findet keine Trauung statt.",
+        "Erpresser werden nicht bezahlt.",
+        "Die Wohnung ist voller Zuhörer."
+      ],
+      "short": "Jerry platzt in Lucys Gesangsrecital.",
+      "context": "Jerry platzt in Lucys Gesangsrecital. Lucy (Irene Dunne) ist wirklich Schülerin Armand Duvalle (Alexander D’Arcy); sein Eifersuchtsverdacht führt somit zu einer peinlichen Störung einer öffentlichen Aufführung.",
+      "anchor": "Die vermeintliche Affäre entpuppt sich als Gesangsunterricht.",
+      "interest": "Die vermeintliche Affäre entpuppt sich als Gesangsunterricht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie sabotiert Lucy (Irene Dunne) in @ Jerrys Verhältnis zur vornehmen Barbara?",
+      "answers": [
+        "Sie gibt sich als seine peinliche Schwester aus.",
+        "Sie tritt als seine frühere Verlobte auf.",
+        "Sie behauptet, Barbara sei ihre heimliche Schwester.",
+        "Sie gibt sich als unangemeldet eingeladene Sängerin aus."
+      ],
+      "feedback": [
+        "Lucy spielt auf einer Gesellschaftsfeier Jerrys angebliche Schwester und benimmt sich demonstrativ anstößig.",
+        "Lucy spielt die peinliche Schwester.",
+        "Die vorgetäuschte Verwandtschaft betrifft Jerry.",
+        "Ihr Auftritt erhält seine Wirkung durch die behauptete Familienzugehörigkeit."
+      ],
+      "short": "Lucy spielt auf einer Gesellschaftsfeier Jerrys angebliche Schwester und benimmt sich demonstrativ anstößig.",
+      "context": "Lucy spielt auf einer Gesellschaftsfeier Jerrys angebliche Schwester und benimmt sich demonstrativ anstößig. So beschädigt sie sein sorgfältiges Auftreten vor der vornehmen Familie, ohne offen als seine Noch-Ehefrau aufzutreten.",
+      "anchor": "Lucys gespielte Verwandtschaft zerstört Jerrys Gesellschaftsbild.",
+      "interest": "Lucys gespielte Verwandtschaft zerstört Jerrys Gesellschaftsbild.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche zeitliche Grenze macht die letzte Annäherung in @ entscheidend?",
+      "answers": [
+        "Um Mitternacht würde die Scheidung endgültig.",
+        "Am Morgen findet Jerrys neue Verlobungsfeier statt.",
+        "Am nächsten Tag soll Lucy mit Dan wegziehen.",
+        "Um Mitternacht endet der Mietvertrag des Hauses."
+      ],
+      "feedback": [
+        "Das Paar versöhnt sich kurz vor Mitternacht, ehe die Scheidung endgültig wird.",
+        "Die verbindliche Grenze ist die Scheidungsfrist um Mitternacht.",
+        "Die letzte Gelegenheit hängt am rechtlichen Scheidungszeitpunkt.",
+        "Das Rechtsverhältnis der Ehe, nicht der Wohnung, endet."
+      ],
+      "short": "Das Paar versöhnt sich kurz vor Mitternacht, ehe die Scheidung endgültig wird.",
+      "context": "Das Paar versöhnt sich kurz vor Mitternacht, ehe die Scheidung endgültig wird. Jerry (Cary Grant) und Lucy (Irene Dunne) überwinden ihre gekränkte Eitelkeit; die juristische Frist bündelt den emotionalen Schluss.",
+      "anchor": "Die Versöhnung kommt vor dem endgültigen Scheidungstermin.",
+      "interest": "Die Versöhnung kommt vor dem endgültigen Scheidungstermin.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1937",
+        "1934",
+        "1930",
+        "1939"
+      ],
+      "feedback": [
+        "1937 erschien die Komödie.",
+        "1934 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1937 wird im zeitlichen Hintergrund erklärt.",
+        "1930 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1937 wird im zeitlichen Hintergrund erklärt.",
+        "1939 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1937 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1937 erschien die Komödie.",
+      "context": "1937 erschien die Komödie. Ihre Bühnenvorlage war 1922 veröffentlicht worden, also fünfzehn Jahre zuvor. Der Stoff erhielt im Tonfilm neue Wirkung durch Irene Dunnes und Cary Grants Dialog- und Körperspiel, während der Ehekonflikt im Mittelpunkt blieb.",
+      "anchor": "Bühnenvorlage 1922, Film 1937: Nach fünfzehn Jahren gewinnt der Ehekonflikt durch das Tonfilmspiel neue Gestalt.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Leo McCarey",
+        "Ernst Lubitsch",
+        "George Cukor",
+        "Preston Sturges"
+      ],
+      "feedback": [
+        "Leo McCarey führte Regie, Viña Delmar schrieb das Drehbuch.",
+        "Ernst Lubitsch wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Leo McCarey.",
+        "George Cukor wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Leo McCarey.",
+        "Preston Sturges wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Leo McCarey."
+      ],
+      "short": "Leo McCarey führte Regie, Viña Delmar schrieb das Drehbuch.",
+      "context": "Leo McCarey führte Regie, Viña Delmar schrieb das Drehbuch. Irene Dunne und Cary Grant spielen ein Paar, das seine Scheidung betreibt und zugleich neue Beziehungen gegenseitig sabotiert. Der Hund hält beide auch praktisch in Kontakt.",
+      "anchor": "Leo McCarey führte Regie, Viña Delmar schrieb das Drehbuch.",
+      "interest": "Leo McCarey führte Regie, Viña Delmar schrieb das Drehbuch.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

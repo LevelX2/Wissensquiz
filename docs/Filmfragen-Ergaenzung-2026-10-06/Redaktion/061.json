@@ -1,0 +1,216 @@
+{
+  "rank": 61,
+  "directors": [
+    "Hayao Miyazaki"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Weithin bekannter Ghibli-Erfolg mit Oscar; Gruppe bekannte Filme.",
+  "release_note": "Japanischer Kinostart 20. Juli 2001.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Spirited_Away",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://www.ghibli.jp/works/chihiro/",
+      "supports": "Offizielle japanische Filmidentität, Veröffentlichung und alleiniger Hauptregiecredit."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was geschieht mit Chihiros Eltern nach dem Essen in @?",
+      "answers": [
+        "Sie werden zu Schweinen.",
+        "Sie schrumpfen zu Mäusen.",
+        "Sie verwandeln sich in Bäume.",
+        "Sie werden unsichtbar."
+      ],
+      "feedback": [
+        "Die Eltern verwandeln sich in Schweine.",
+        "Eine Mausverwandlung betrifft eine andere Figur.",
+        "Die Eltern werden keine Bäume.",
+        "Sie sind weiterhin sichtbar."
+      ],
+      "short": "Die Eltern verwandeln sich in Schweine.",
+      "context": "Die Eltern verwandeln sich in Schweine. Chihiro (Originalstimme Rumi Hiiragi) muss dadurch ohne ihre gewohnte Unterstützung in der fremden Welt handeln.",
+      "anchor": "Das unerlaubte Essen verwandelt die Eltern in Schweine.",
+      "interest": "Das unerlaubte Essen verwandelt die Eltern in Schweine.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "An welchem Ort arbeitet Chihiro in @?",
+      "answers": [
+        "In einem Badehaus",
+        "In einem Gasthaus",
+        "In einem Palast",
+        "In einem Handelshaus"
+      ],
+      "feedback": [
+        "Chihiro (Originalstimme Rumi Hiiragi) arbeitet in einem Badehaus.",
+        "Das Badehaus ist ihre Arbeitsstätte.",
+        "Ein Palast ist nicht der Betrieb.",
+        "Der Dienst gilt den Badegästen, nicht einem Handelshaus."
+      ],
+      "short": "Chihiro (Originalstimme Rumi Hiiragi) arbeitet in einem Badehaus.",
+      "context": "Chihiro (Originalstimme Rumi Hiiragi) arbeitet in einem Badehaus. Sie muss für ihren Aufenthalt einen Vertrag eingehen; alltägliche Arbeit wird zum Weg, sich in der Geisterwelt zu behaupten.",
+      "anchor": "Arbeit im Badehaus eröffnet Chihiro eine Chance.",
+      "interest": "Arbeit im Badehaus eröffnet Chihiro eine Chance.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie bindet Yubaba in @ ihre Beschäftigten an sich?",
+      "answers": [
+        "Sie nimmt ihnen ihre Namen.",
+        "Sie verkauft ihre Schatten.",
+        "Sie entfernt ihre Spiegelbilder.",
+        "Sie schenkt ihnen ewige Jugend."
+      ],
+      "feedback": [
+        "Yubaba (Originalstimme Mari Natsuki) nimmt Namen weg.",
+        "Schatten werden nicht verkauft.",
+        "Spiegelbilder sind nicht der Vertragsmechanismus.",
+        "Ewige Jugend ist kein Geschenk an alle."
+      ],
+      "short": "Yubaba (Originalstimme Mari Natsuki) nimmt Namen weg.",
+      "context": "Yubaba (Originalstimme Mari Natsuki) nimmt Namen weg. Chihiro (Originalstimme Rumi Hiiragi) heißt fortan Sen; das Erinnern des eigenen Namens erhält deshalb eine praktische Bedeutung für die Rückkehr.",
+      "anchor": "Den eigenen Namen zu behalten bedeutet, einen Rückweg zu behalten.",
+      "interest": "Den eigenen Namen zu behalten bedeutet, einen Rückweg zu behalten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was steckt hinter dem vermeintlichen Faulgott, den Chihiro in @ reinigt?",
+      "answers": [
+        "Ein verschmutzter Flussgeist",
+        "Ein verwundeter Berggeist",
+        "Ein verstoßener Meeresgott",
+        "Ein verkleideter Froschgeist"
+      ],
+      "feedback": [
+        "Der Gast ist ein verschmutzter Flussgeist.",
+        "Die Verschmutzung betrifft einen Flussgeist.",
+        "Ein Meeresgott ist nicht der gereinigte Gast.",
+        "Ein Froschgeist verbirgt sich nicht unter dem Abfall."
+      ],
+      "short": "Der Gast ist ein verschmutzter Flussgeist.",
+      "context": "Der Gast ist ein verschmutzter Flussgeist. Chihiro (Originalstimme Rumi Hiiragi) entdeckt Müll in seinem Körper; die Reinigung stellt den Zusammenhang zwischen Geistergestalt und Umweltverschmutzung konkret dar.",
+      "anchor": "Der Gestank verbirgt einen zugemüllten Fluss.",
+      "interest": "Der Gestank verbirgt einen zugemüllten Fluss.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wodurch erinnert sich Haku in @ an seine wahre Identität?",
+      "answers": [
+        "Chihiro erkennt in ihm den Geist ihres früheren Flusses.",
+        "Zeniba stellt ihm seinen alten Namen wieder her.",
+        "Er liest seinen Namen auf dem Arbeitsvertrag.",
+        "Yubaba nennt ihn versehentlich bei seinem Flussnamen."
+      ],
+      "feedback": [
+        "Chihiro erinnert sich an den Kohaku-Fluss, der sie einst rettete.",
+        "Chihiros Erinnerung weckt die Identität.",
+        "Der Vertrag liefert nicht die entscheidende Erinnerung.",
+        "Yubaba verrät den Namen nicht versehentlich."
+      ],
+      "short": "Chihiro erinnert sich an den Kohaku-Fluss, der sie einst rettete.",
+      "context": "Chihiro erinnert sich an den Kohaku-Fluss, der sie einst rettete. Haku (Originalstimme Miyu Irino) gewinnt dadurch seinen verlorenen Namen zurück; eine persönliche Erinnerung löst die Bindung an das Badehaus.",
+      "anchor": "Chihiros Flusserinnerung gibt Haku seinen Namen zurück.",
+      "interest": "Chihiros Flusserinnerung gibt Haku seinen Namen zurück.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Antwort besteht Chihiros letzte Prüfung in @?",
+      "answers": [
+        "Keines der gezeigten Schweine ist ein Elternteil.",
+        "Das größte Schwein ist ihr Vater.",
+        "Das kleinste Schwein ist ihre Mutter.",
+        "Alle Schweine sind ihre Eltern."
+      ],
+      "feedback": [
+        "Chihiro (Originalstimme Rumi Hiiragi) erkennt, dass ihre Eltern nicht unter den gezeigten Schweinen sind.",
+        "Der Vater steht nicht unter den gezeigten Tieren.",
+        "Auch die Mutter ist nicht darunter.",
+        "Die gesamte Gruppe bildet nicht die Eltern."
+      ],
+      "short": "Chihiro (Originalstimme Rumi Hiiragi) erkennt, dass ihre Eltern nicht unter den gezeigten Schweinen sind.",
+      "context": "Chihiro (Originalstimme Rumi Hiiragi) erkennt, dass ihre Eltern nicht unter den gezeigten Schweinen sind. Sie akzeptiert damit nicht die von Yubaba (Originalstimme Mari Natsuki) vorgegebene falsche Auswahl.",
+      "anchor": "Die richtige Wahl lautet: Keines von ihnen.",
+      "interest": "Die richtige Wahl lautet: Keines von ihnen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2001",
+        "1999",
+        "1996",
+        "2002"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2001.",
+        "1999 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1996 liegt fünf Jahre davor.",
+        "2002 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2001 erstmals veröffentlicht.",
+      "context": "2001 erschien der Film in Japan. Der Goldene Bär folgte 2002, der Animations-Oscar 2003. Die drei aufeinanderfolgenden Jahre bilden einen Anker vom ursprünglichen Kinoereignis zur internationalen Anerkennung.",
+      "anchor": "Auf den Filmstart 2001 folgten der Goldene Bär 2002 und der Animations-Oscar 2003.",
+      "interest": "Auf den Filmstart 2001 folgten der Goldene Bär 2002 und der Animations-Oscar 2003.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Hayao Miyazaki",
+        "Isao Takahata",
+        "Satoshi Kon",
+        "Mamoru Hosoda"
+      ],
+      "feedback": [
+        "Hayao Miyazaki führte Regie.",
+        "Isao Takahata führte bei diesem Film nicht Regie.",
+        "Satoshi Kon führte bei diesem Film nicht Regie.",
+        "Mamoru Hosoda führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Hayao Miyazaki.",
+      "context": "Miyazaki wollte eine Heldin für etwa zehnjährige Mädchen schaffen. Chihiro (Originalstimme Rumi Hiiragi) erhält ihre Stärke nicht als neue Superkraft, sondern zeigt sie in Arbeit, Aufmerksamkeit und eigenständigen Entscheidungen.",
+      "anchor": "Miyazaki wollte eine Heldin für etwa zehnjährige Mädchen schaffen.",
+      "interest": "Miyazaki wollte eine Heldin für etwa zehnjährige Mädchen schaffen.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

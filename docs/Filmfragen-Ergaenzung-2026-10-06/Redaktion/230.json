@@ -1,0 +1,224 @@
+{
+  "rank": 230,
+  "directors": [
+    "John Farrow",
+    "John Ford"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekannter John-Wayne-Western, ursprünglich in 3D präsentiert, mit Geraldine Pages prägender Frauenrolle.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1953; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Hondo_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Hondo_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "studio": {
+      "url": "https://www.paramountpictures.com/movies/hondo",
+      "supports": "Gelesene offizielle Filmseite: 1953, John Farrow als Hauptregisseur, Besetzung und Herkunft aus The Gift of Cochise."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum erreicht Hondo in @ die Farm zunächst zu Fuß?",
+      "answers": [
+        "Er hat bei einer Begegnung mit Apachen sein Pferd verloren",
+        "Er hat sein Pferd für Verpflegung verkauft",
+        "Er folgt einer Kavallerieeinheit als Gefangener",
+        "Er will als unbewaffneter Prediger auftreten"
+      ],
+      "feedback": [
+        "Hondo Lane (John Wayne) hat bei einer Begegnung mit Apachen sein Pferd verloren.",
+        "Er hat es nicht verkauft.",
+        "Er kommt nicht als Gefangener.",
+        "Er gibt sich nicht als Prediger aus."
+      ],
+      "short": "Hondo Lane (John Wayne) hat bei einer Begegnung mit Apachen sein Pferd verloren.",
+      "context": "Hondo Lane (John Wayne) hat bei einer Begegnung mit Apachen sein Pferd verloren. Bei Angie Lowe (Geraldine Page) bietet er Arbeit gegen ein neues Pferd an und begegnet einer ungeschützten Familie.",
+      "anchor": "Der verlorene Transport führt Hondo in Angies häusliche Welt.",
+      "interest": "Der verlorene Transport führt Hondo in Angies häusliche Welt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum hält Angie in @ einen Verbleib auf ihrer Farm zunächst für sicher?",
+      "answers": [
+        "Sie vertraut auf ihr gutes Verhältnis zu den Apachen",
+        "Sie glaubt an die Stärke einer Garnison neben dem Haus",
+        "Sie besitzt eine schriftliche Zusage des Gouverneurs",
+        "Sie hält das Gebiet für außerhalb des Krieges"
+      ],
+      "feedback": [
+        "Angie (Geraldine Page) vertraut auf ihre bisher freundlichen Beziehungen zu den Apachen.",
+        "Eine Garnison schützt nicht direkt ihre Farm.",
+        "Eine Gouverneurszusage hat sie nicht.",
+        "Sie leugnet nicht einfach die Lage des Gebiets."
+      ],
+      "short": "Angie (Geraldine Page) vertraut auf ihre bisher freundlichen Beziehungen zu den Apachen.",
+      "context": "Angie (Geraldine Page) vertraut auf ihre bisher freundlichen Beziehungen zu den Apachen. Hondo (John Wayne) warnt, dass der gebrochene Vertrag die Lage verändert und die Familie gefährdet.",
+      "anchor": "Persönliches Vertrauen kollidiert mit einem veränderten Kriegskonflikt.",
+      "interest": "Persönliches Vertrauen kollidiert mit einem veränderten Kriegskonflikt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum nimmt Vittorio in @ Johnny als Blutsbruder an?",
+      "answers": [
+        "Er bewundert, dass der Junge seine Mutter verteidigt",
+        "Er hält ihn für den Sohn eines früheren Verbündeten",
+        "Er verlangt ihn als Pfand für einen Vertrag",
+        "Er will ihn zum Dolmetscher ausbilden"
+      ],
+      "feedback": [
+        "Johnny (Lee Aaker) schießt zum Schutz Angies (Geraldine Page), als Silva sie bedrängt.",
+        "Eine angenommene Abstammung ist nicht das Motiv.",
+        "Johnny wird nicht als Vertragspfand genommen.",
+        "Dolmetscherausbildung ist nicht das Ziel."
+      ],
+      "short": "Johnny (Lee Aaker) schießt zum Schutz Angies (Geraldine Page), als Silva sie bedrängt.",
+      "context": "Johnny (Lee Aaker) schießt zum Schutz Angies (Geraldine Page), als Silva (Rodolfo Acosta) sie bedrängt. Vittorio (Michael Pate) bewundert seinen Mut und nennt ihn Kleiner Krieger; die Anerkennung schützt vorerst die Familie.",
+      "anchor": "Der Schutz der Mutter wird von Vittorio als Mut anerkannt.",
+      "interest": "Der Schutz der Mutter wird von Vittorio als Mut anerkannt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welches Wissen belastet Hondos Annäherung an Angie in @?",
+      "answers": [
+        "Er hat ihren Mann bei dessen Angriff getötet",
+        "Er hat die Farm an die Armee verkauft",
+        "Er hat Johnny für eine Belohnung gemeldet",
+        "Er hat Vittorios Schutzversprechen erfunden"
+      ],
+      "feedback": [
+        "Hondo (John Wayne) tötet Ed Lowe (Leo Gordon), als dieser ihn angreift.",
+        "Er besitzt keine Verkaufsvollmacht für die Farm.",
+        "Johnny wird nicht gemeldet.",
+        "Vittorio erklärt seinen Schutz tatsächlich."
+      ],
+      "short": "Hondo (John Wayne) tötet Ed Lowe (Leo Gordon), als dieser ihn angreift.",
+      "context": "Hondo (John Wayne) tötet Ed Lowe (Leo Gordon), als dieser ihn angreift. Erst danach wird die Nähe zu Angie (Geraldine Page) zur Frage, wann und wem er diese Wahrheit offenlegen muss.",
+      "anchor": "Die entstehende Familie beruht zunächst auf einer verschwiegenen Gewalttat.",
+      "interest": "Die entstehende Familie beruht zunächst auf einer verschwiegenen Gewalttat.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie entscheidet Hondo in @ den von Vittorio verlangten Kampf gegen Silva?",
+      "answers": [
+        "Er besiegt Silva, lässt ihn aber am Leben",
+        "Er verweigert den Kampf und wird freigelassen",
+        "Er gewinnt durch Vittorios Eingriff",
+        "Er flieht während eines überraschenden Kavallerieangriffs"
+      ],
+      "feedback": [
+        "Hondo (John Wayne) besiegt Silva (Rodolfo Acosta) im Zweikampf, verschont ihn jedoch.",
+        "Er kämpft tatsächlich.",
+        "Vittorio muss den Kampf nicht für ihn entscheiden.",
+        "Die Freilassung folgt nicht auf einen Kavallerieangriff."
+      ],
+      "short": "Hondo (John Wayne) besiegt Silva (Rodolfo Acosta) im Zweikampf, verschont ihn jedoch.",
+      "context": "Hondo (John Wayne) besiegt Silva (Rodolfo Acosta) im Zweikampf, verschont ihn jedoch. Der Sieg genügt zur Freilassung; Silva tötet später Hondos Hund und bleibt sein Gegner.",
+      "anchor": "Der gewonnene Zweikampf verlangt für Hondo keinen tödlichen Abschluss.",
+      "interest": "Der gewonnene Zweikampf verlangt für Hondo keinen tödlichen Abschluss.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Warum bittet Angie in @ darum, Johnny vorerst nichts über den Tod seines Vaters zu sagen?",
+      "answers": [
+        "Sie will ihn vor einer grausamen Wahrheit schützen",
+        "Sie fürchtet, Johnny werde Hondo verlassen und zur Stadt fliehen.",
+        "Sie will erst eine Bestätigung der Armee abwarten.",
+        "Sie möchte den Tod allein erklären, sobald Hondo weitergezogen ist."
+      ],
+      "feedback": [
+        "Angie (Geraldine Page) weiß, wie ihr Mann lebte, und akzeptiert Hondos (John Wayne) Erklärung.",
+        "Sie will den Jungen vor der grausamen Wahrheit über seinen Vater schützen.",
+        "Sie akzeptiert Hondos Erklärung und hält die sofortige Mitteilung für unnötig grausam.",
+        "Ihre Bitte gehört zur Möglichkeit einer gemeinsamen Zukunft, nicht zu Hondos Abreise."
+      ],
+      "short": "Angie (Geraldine Page) weiß, wie ihr Mann lebte, und akzeptiert Hondos (John Wayne) Erklärung.",
+      "context": "Angie (Geraldine Page) weiß, wie ihr Mann lebte, und akzeptiert Hondos (John Wayne) Erklärung. Sie hält die sofortige Mitteilung an Johnny für unnötig grausam und denkt an eine gemeinsame Zukunft anderswo.",
+      "anchor": "Angie trennt notwendige Wahrheit für sich von Schonung des Kindes.",
+      "interest": "Angie trennt notwendige Wahrheit für sich von Schonung des Kindes.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1953",
+        "1950",
+        "1946",
+        "1955"
+      ],
+      "feedback": [
+        "1953 erschien der Film.",
+        "1950 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1953 wird im zeitlichen Hintergrund erklärt.",
+        "1946 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1953 wird im zeitlichen Hintergrund erklärt.",
+        "1955 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1953 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1953 erschien der Film.",
+      "context": "1953 erschien der Film. Louis L’Amours Erzählung The Gift of Cochise wurde 1952 veröffentlicht; nur ein Jahr später kam die 3D-Verfilmung ins Kino.",
+      "anchor": "Erzählung 1952, Film 1953: Ein Jahr führt von L’Amours Stoff zum 3D-Western.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Welche beiden Regisseure arbeiteten an @, einschließlich der letzten Szenen ohne Namensnennung?",
+      "answers": [
+        "John Farrow und John Ford",
+        "Howard Hawks und Arthur Rosson",
+        "George Stevens und Anthony Mann",
+        "Budd Boetticher und Henry King"
+      ],
+      "feedback": [
+        "John Farrow führte die Hauptregie; John Ford übernahm die letzten Angriffsszenen ohne Namensnennung.",
+        "Howard Hawks und Arthur Rosson ist nicht das beteiligte Team: Farrow führte die Hauptregie, Ford übernahm den Abschluss.",
+        "George Stevens und Anthony Mann ist nicht das beteiligte Team: Farrow führte die Hauptregie, Ford übernahm den Abschluss.",
+        "Budd Boetticher und Henry King ist nicht das beteiligte Team: Farrow führte die Hauptregie, Ford übernahm den Abschluss."
+      ],
+      "short": "John Farrow führte die Hauptregie; John Ford übernahm die letzten Angriffsszenen ohne Namensnennung.",
+      "context": "John Farrow führte die Hauptregie. Weil sich der Dreh verzögerte und Farrow bereits zu einem anderen Film verpflichtet war, übernahm John Ford die letzten Szenen des Wagenzugangriffs ohne Namensnennung.",
+      "anchor": "Hauptregie Farrow, letzte Szenen Ford ohne Namensnennung.",
+      "interest": "Die Regiearbeit am Abschluss ergänzt den im Vorspann sichtbaren Hauptcredit.",
+      "sources": [
+        "eckdaten",
+        "studio"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ],
+  "director_note": "Hauptregie John Farrow; John Ford übernahm ohne Vorspanncredit die letzten Szenen."
+}

@@ -1,0 +1,211 @@
+{
+  "rank": 64,
+  "directors": [
+    "Hayao Miyazaki"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Bekannter Ghibli-Film nach einer international verbreiteten Romanvorlage.",
+  "release_note": "Venedig-Premiere 5. September 2004.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Howl's_Moving_Castle_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Fluch trifft Sophie in @?",
+      "answers": [
+        "Sie erhält den Körper einer alten Frau.",
+        "Sie wird zu einem Vogel.",
+        "Sie verliert ihren Schatten.",
+        "Sie verwandelt sich in Stein."
+      ],
+      "feedback": [
+        "Sophie (Originalstimme Chieko Baisho) erscheint als alte Frau.",
+        "Eine Vogelgestalt betrifft Howl.",
+        "Der Schatten ist nicht der Fluch.",
+        "Sophie wird nicht dauerhaft versteinert."
+      ],
+      "short": "Sophie (Originalstimme Chieko Baisho) erscheint als alte Frau.",
+      "context": "Sophie (Originalstimme Chieko Baisho) erscheint als alte Frau. Sie verlässt daraufhin ihr bisheriges Leben und gelangt in einen Haushalt, dessen Bewohner eigene Bindungen und Geheimnisse tragen.",
+      "anchor": "Sophies plötzliche Alterung setzt die Reise in Gang.",
+      "interest": "Sophies plötzliche Alterung setzt die Reise in Gang.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wer liefert in @ die magische Energie für das Schloss?",
+      "answers": [
+        "Der Feuerdämon Calcifer",
+        "Der Hund Heen",
+        "Die Vogelscheuche Rübe",
+        "Die Hutverkäuferin Lettie"
+      ],
+      "feedback": [
+        "Calcifer (Originalstimme Tatsuya Gashūin) liefert die Schlossmagie.",
+        "Heen treibt das Schloss nicht an.",
+        "Die Vogelscheuche ist kein Antrieb.",
+        "Lettie liefert nicht die Schlossmagie."
+      ],
+      "short": "Calcifer (Originalstimme Tatsuya Gashūin) liefert die Schlossmagie.",
+      "context": "Calcifer (Originalstimme Tatsuya Gashūin) liefert die Schlossmagie. Sein Feuer ist an Howls Leben gebunden; der häusliche Herd steht somit im Zentrum einer gefährlichen persönlichen Verbindung.",
+      "anchor": "Calcifers Feuer hält das Schloss in Bewegung.",
+      "interest": "Calcifers Feuer hält das Schloss in Bewegung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Als wen tritt Sophie bei Suliman in @ auf, um Howl zu vertreten?",
+      "answers": [
+        "Als Howls Mutter",
+        "Als seine Königin",
+        "Als seine Lehrerin",
+        "Als seine kleine Schwester"
+      ],
+      "feedback": [
+        "Sophie (Originalstimme Chieko Baisho) gibt sich als Howls Mutter aus.",
+        "Eine Königin behauptet sie nicht zu sein.",
+        "Eine Lehrerin ist nicht die Tarnung.",
+        "Die alte Gestalt wird nicht als kleine Schwester ausgegeben."
+      ],
+      "short": "Sophie (Originalstimme Chieko Baisho) gibt sich als Howls Mutter aus.",
+      "context": "Sophie (Originalstimme Chieko Baisho) gibt sich als Howls Mutter aus. Howl (Originalstimme Takuya Kimura) will seiner Verpflichtung zum Kriegsdienst entgehen und schickt sie zunächst an seiner Stelle.",
+      "anchor": "Die alte Sophie vertritt Howl als angebliche Mutter.",
+      "interest": "Die alte Sophie vertritt Howl als angebliche Mutter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Fähigkeit besitzt die Tür des Schlosses in @?",
+      "answers": [
+        "Sie verbindet unterschiedliche Orte.",
+        "Sie öffnet ausschließlich einen Weg in die Vergangenheit.",
+        "Sie führt immer zum gleichen Hof.",
+        "Sie versetzt nur Howl, aber keine Gäste."
+      ],
+      "feedback": [
+        "Die Tür führt je nach Einstellung zu verschiedenen Orten.",
+        "Die Tür verbindet verschiedene Orte, nicht nur eine frühere Zeit.",
+        "Ihr Ziel lässt sich wechseln.",
+        "Auch andere können sie benutzen."
+      ],
+      "short": "Die Tür führt je nach Einstellung zu verschiedenen Orten.",
+      "context": "Die Tür führt je nach Einstellung zu verschiedenen Orten. Howl (Originalstimme Takuya Kimura) nutzt damit getrennte Erscheinungsorte desselben Hauses; der Innenraum hat mehrere äußere Anschlüsse.",
+      "anchor": "Eine Tür gehört zu mehreren Orten.",
+      "interest": "Eine Tür gehört zu mehreren Orten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was erkennt Sophie in der Vergangenheitsszene von @ über Howl und Calcifer?",
+      "answers": [
+        "Howl gab einem fallenden Stern sein Herz.",
+        "Calcifer gab Howl seine gesamte Magie gegen dessen Namen.",
+        "Howl fing den Stern in der Schlosslampe ein.",
+        "Calcifer nahm Howls Herz ohne dessen Beteiligung."
+      ],
+      "feedback": [
+        "Howl (Originalstimme Takuya Kimura) gab dem fallenden Stern Calcifer (Originalstimme Tatsuya Gashūin) sein Herz.",
+        "Die Bindung entsteht durch Howls Herzgabe.",
+        "Eine Lampe ist nicht der entscheidende Behälter.",
+        "Howl bietet dem fallenden Stern sein Herz selbst an."
+      ],
+      "short": "Howl (Originalstimme Takuya Kimura) gab dem fallenden Stern Calcifer (Originalstimme Tatsuya Gashūin) sein Herz.",
+      "context": "Howl (Originalstimme Takuya Kimura) gab dem fallenden Stern Calcifer (Originalstimme Tatsuya Gashūin) sein Herz. Sophie (Originalstimme Chieko Baisho) versteht dadurch, was zur Befreiung beider zurückgegeben werden muss.",
+      "anchor": "Howls Herz bindet ihn an den geretteten Stern.",
+      "interest": "Howls Herz bindet ihn an den geretteten Stern.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Identität erhält die Vogelscheuche nach Sophies Kuss in @ zurück?",
+      "answers": [
+        "Die des verschwundenen Prinzen",
+        "Die von Howls Vater",
+        "Die eines bestraften Soldaten",
+        "Die von Sulimans Lehrmeister"
+      ],
+      "feedback": [
+        "Die Vogelscheuche wird zum vermissten Prinzen Justin (Originalstimme Yō Ōizumi).",
+        "Howls Vater steckt nicht dahinter.",
+        "Ein gewöhnlicher Soldat ist nicht die Auflösung.",
+        "Sulimans Lehrer wird nicht enthüllt."
+      ],
+      "short": "Die Vogelscheuche wird zum vermissten Prinzen Justin (Originalstimme Yō Ōizumi).",
+      "context": "Die Vogelscheuche wird zum vermissten Prinzen Justin (Originalstimme Yō Ōizumi). Seine Rückkehr ermöglicht eine politische Wende im Krieg; eine persönliche Erlösung verändert damit auch den größeren Konflikt.",
+      "anchor": "Die Vogelscheuche verbirgt den vermissten Prinzen.",
+      "interest": "Die Vogelscheuche verbirgt den vermissten Prinzen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2004",
+        "2002",
+        "1999",
+        "2005"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2004.",
+        "2002 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1999 liegt fünf Jahre davor.",
+        "2005 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2004 erstmals veröffentlicht.",
+      "context": "2004 wurde der Film in Venedig erstmals gezeigt. Diana Wynne Jones’ Roman erschien 1986, achtzehn Jahre zuvor. Die Filmfassung behält die bewegliche Behausung, erweitert aber den Krieg zu einem deutlich stärkeren Handlungsschwerpunkt.",
+      "anchor": "Jones’ Roman von 1986 wurde achtzehn Jahre später, 2004, verfilmt.",
+      "interest": "Jones’ Roman von 1986 wurde achtzehn Jahre später, 2004, verfilmt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Hayao Miyazaki",
+        "Hiromasa Yonebayashi",
+        "Gorō Miyazaki",
+        "Isao Takahata"
+      ],
+      "feedback": [
+        "Hayao Miyazaki führte Regie.",
+        "Hiromasa Yonebayashi führte bei diesem Film nicht Regie.",
+        "Gorō Miyazaki führte bei diesem Film nicht Regie.",
+        "Isao Takahata führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Hayao Miyazaki.",
+      "context": "Miyazaki übernahm das Projekt nach Mamoru Hosodas Ausscheiden. Er entwickelte die Bildidee eines laufenden Schlosses und verband die Adaption mit seiner kritischen Haltung zum Krieg.",
+      "anchor": "Miyazaki übernahm das Projekt nach Mamoru Hosodas Ausscheiden.",
+      "interest": "Miyazaki übernahm das Projekt nach Mamoru Hosodas Ausscheiden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 208,
+  "directors": [
+    "Alan J. Pakula"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein düsterer politischer Pakula-Thriller, für breite Zuschauer weniger vertraut; eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1974; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Parallax_View",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Parallax_View",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Arbeit geht Joe Frady (Warren Beatty) in @ nach?",
+      "answers": [
+        "Investigativer Zeitungsreporter",
+        "Militärpilot",
+        "Schiffskapitän",
+        "Konzertpianist"
+      ],
+      "feedback": [
+        "Frady ist investigativer Reporter.",
+        "Er fliegt nicht beruflich Militärmaschinen.",
+        "Er führt kein Schiff.",
+        "Pianospiel ist nicht sein Beruf."
+      ],
+      "short": "Frady ist investigativer Reporter.",
+      "context": "Frady ist investigativer Reporter. Eine frühere Bekannte warnt ihn vor Todesfällen unter Zeugen eines Attentats; ihre zunächst abgewiesene Bitte führt ihn nach ihrem Tod selbst in die Recherche.",
+      "anchor": "Die abgewiesene Warnung wird zum eigenen Rechercheauftrag.",
+      "interest": "Die abgewiesene Warnung wird zum eigenen Rechercheauftrag.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Zusammenhang vermutet Lee Carter (Paula Prentiss) in @ zwischen mehreren Todesfällen?",
+      "answers": [
+        "Die Toten waren Zeugen desselben Attentats.",
+        "Die Toten wurden alle von derselben Versicherung bezahlt.",
+        "Die Toten arbeiteten alle in Fradys Redaktion.",
+        "Die Toten waren Angehörige derselben Familie."
+      ],
+      "feedback": [
+        "Lee Carter erkennt die Betroffenen als Zeugen eines Senatorenattentats.",
+        "Die gemeinsame Verbindung ist ihre Zeugenschaft beim Attentat.",
+        "Sie gehören nicht sämtlich seiner Zeitung an.",
+        "Ihr gemeinsames Erlebnis, nicht Verwandtschaft, verbindet sie."
+      ],
+      "short": "Lee Carter erkennt die Betroffenen als Zeugen eines Senatorenattentats.",
+      "context": "Lee Carter erkennt die Betroffenen als Zeugen eines Senatorenattentats. Die amtliche Einzeltätererklärung wirkt dadurch fragwürdig; ihre Angst bezieht sich auf eine systematische Beseitigung möglicher Gegenaussagen.",
+      "anchor": "Die Zeugenliste wird zur Todesliste.",
+      "interest": "Die Zeugenliste wird zur Todesliste.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Eigenschaften sucht die Parallax Corporation laut Testanalyse in @?",
+      "answers": [
+        "Tötungsbereite psychische Dispositionen",
+        "Außergewöhnliche musikalische Begabung",
+        "Perfekte Fremdsprachenkenntnisse",
+        "Langjährige Gartenbauerfahrung"
+      ],
+      "feedback": [
+        "Der Test sucht nach zu Gewalt bereiten Persönlichkeiten.",
+        "Musik ist nicht das Auswahlziel.",
+        "Sprachen entscheiden den Test nicht.",
+        "Gartenbau wird nicht gesucht."
+      ],
+      "short": "Der Test sucht nach zu Gewalt bereiten Persönlichkeiten.",
+      "context": "Der Test sucht nach zu Gewalt bereiten Persönlichkeiten. Frady (Warren Beatty) lässt passende Antworten ermitteln, um die Organisation zu betreten; seine scheinbare Qualifikation dient der verdeckten Recherche.",
+      "anchor": "Der Einstellungstest sucht potenzielle Täter.",
+      "interest": "Der Einstellungstest sucht potenzielle Täter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie nutzt Frady (Warren Beatty) in @ die Explosion der Yacht für seine Recherche?",
+      "answers": [
+        "Er lässt seine vermutete Todesmeldung zur Tarnung werden.",
+        "Er meldet sich öffentlich als einziger Überlebender.",
+        "Er nutzt die Yacht als unauffälliges Versteck.",
+        "Er bestreitet jede Verbindung zu den Passagieren in einem Artikel."
+      ],
+      "feedback": [
+        "Frady überlebt die Explosion und gilt zunächst als tot.",
+        "Frady lässt die vermeintliche Todesmeldung bestehen.",
+        "Die Yacht ist zerstört; die Tarnung nutzt seine gemeldete Abwesenheit.",
+        "Er agiert verdeckt statt mit einem solchen Artikel."
+      ],
+      "short": "Frady überlebt die Explosion und gilt zunächst als tot.",
+      "context": "Frady überlebt die Explosion und gilt zunächst als tot. Er benutzt diese Annahme und einen neuen Namen zur Infiltration; die Bedrohung liefert ihm zugleich einen kurzzeitigen Schutz vor der üblichen Identifizierung.",
+      "anchor": "Der vermutete Tod ermöglicht eine verdeckte neue Identität.",
+      "interest": "Der vermutete Tod ermöglicht eine verdeckte neue Identität.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Bilderfolge benutzt die Organisation in @ zur Prüfung Fradys?",
+      "answers": [
+        "Eine manipulative Montage patriotischer und gewalttätiger Motive",
+        "Eine reine kriminalistische Bildbeschreibung",
+        "Eine Folge von Firmenbilanzen",
+        "Eine wissenschaftliche Vorlesung über Waffen"
+      ],
+      "feedback": [
+        "Frady (Warren Beatty) betrachtet eine psychologisch manipulative Bildmontage.",
+        "Die Montage arbeitet mit patriotischen und gewalttätigen Reizen.",
+        "Es ist ein psychologisch manipulierender Bildertest.",
+        "Die schnelle Montage ersetzt eine erklärende Vorlesung."
+      ],
+      "short": "Frady (Warren Beatty) betrachtet eine psychologisch manipulative Bildmontage.",
+      "context": "Frady (Warren Beatty) betrachtet eine psychologisch manipulative Bildmontage. Vertraute politische und persönliche Motive werden mit Gewalt verbunden; das Auswahlverfahren untersucht nicht sachliche Kenntnis, sondern lenkbare emotionale Reaktionen.",
+      "anchor": "Die Montage prüft und formt Reaktionen statt Wissen.",
+      "interest": "Die Montage prüft und formt Reaktionen statt Wissen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie wird Frady (Warren Beatty) nach seinem Tod am Ende von @ offiziell dargestellt?",
+      "answers": [
+        "Als paranoider Einzeltäter",
+        "Als unbeteiligtes Zufallsopfer",
+        "Als verschwundener wichtiger Zeuge",
+        "Als rehabilitierter Mitarbeiter der Organisation"
+      ],
+      "feedback": [
+        "Die Untersuchung erklärt Frady zum paranoiden Einzeltäter.",
+        "Die offizielle Geschichte macht ihn zum Einzeltäter.",
+        "Sein Tod wird in eine Schuldzuweisung umgedeutet.",
+        "Eine Rehabilitation findet nicht statt."
+      ],
+      "short": "Die Untersuchung erklärt Frady zum paranoiden Einzeltäter.",
+      "context": "Die Untersuchung erklärt Frady zum paranoiden Einzeltäter. Seine Recherche hat ihn an den Ort der geplanten Schuldzuweisung geführt; die Organisation kontrolliert damit nicht nur den Mord, sondern auch dessen amtliche Nachgeschichte.",
+      "anchor": "Die Verschwörung macht den Ermittler zu ihrer offiziellen Täterfigur.",
+      "interest": "Die Verschwörung macht den Ermittler zu ihrer offiziellen Täterfigur.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1974",
+        "1971",
+        "1967",
+        "1976"
+      ],
+      "feedback": [
+        "1974 erschien der Film, vier Jahre nach Loren Singers Roman von 1970.",
+        "1971 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1974 wird im zeitlichen Hintergrund erklärt.",
+        "1967 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1974 wird im zeitlichen Hintergrund erklärt.",
+        "1976 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1974 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1974 erschien der Film, vier Jahre nach Loren Singers Roman von 1970.",
+      "context": "1974 erschien der Film, vier Jahre nach Loren Singers Roman von 1970. Im selben Filmjahr erschien auch „Chinatown“: Beide fragen, wie viel ein einzelner Ermittler gegen organisierte Macht ausrichten kann. Die Parallelität ist eine zeitliche und thematische Merkhilfe.",
+      "anchor": "Roman 1970, Film 1974: Vier Jahre später trifft Pakulas Verschwörung auf das gleiche Filmjahr wie Chinatown.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Alan J. Pakula",
+        "John Schlesinger",
+        "Roman Polanski",
+        "David Cronenberg"
+      ],
+      "feedback": [
+        "Alan J.",
+        "John Schlesinger wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alan J. Pakula.",
+        "Roman Polanski wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alan J. Pakula.",
+        "David Cronenberg wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alan J. Pakula."
+      ],
+      "short": "Alan J.",
+      "context": "Alan J. Pakula inszenierte Warren Beatty als Reporter Joe Frady. Gordon Willis’ Kamera setzt ihn häufig in weitläufige institutionelle Räume. Die Recherche verspricht zunächst Erkenntnis, führt aber in eine Organisation, die bereits die öffentliche Erklärung ihrer Taten kontrolliert.",
+      "anchor": "Alan J.",
+      "interest": "Alan J.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 210,
+  "directors": [
+    "John Schlesinger"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein bekannter Spannungsklassiker mit Hoffman und Olivier, vor allem Genrekennern vertraut.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1976; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Marathon_Man_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Marathon_Man_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was ist Babe Levy (Dustin Hoffman) in @ zu Beginn?",
+      "answers": [
+        "Ein Geschichtsstudent und Langstreckenläufer",
+        "Ein Pensionär und Schiffskapitän",
+        "Ein Arzt und Opernsänger",
+        "Ein Polizist und Flugzeugbauer"
+      ],
+      "feedback": [
+        "Babe ist Geschichtsstudent und Läufer.",
+        "Er ist kein pensionierter Kapitän.",
+        "Er übt weder Medizin noch Operngesang beruflich aus.",
+        "Polizei und Flugzeugbau sind nicht seine Tätigkeiten."
+      ],
+      "short": "Babe ist Geschichtsstudent und Läufer.",
+      "context": "Babe ist Geschichtsstudent und Läufer. Er möchte die Erinnerung an seinen Vater rehabilitieren; über seinen Bruder gerät er zugleich in einen geheimen Konflikt, für den sein normaler Alltag ihn nicht vorbereitet hat.",
+      "anchor": "Der Student gerät aus seinem Alltag in einen Geheimkonflikt.",
+      "interest": "Der Student gerät aus seinem Alltag in einen Geheimkonflikt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche berufliche Fertigkeit missbraucht Szell (Laurence Olivier) in @ zur Folter?",
+      "answers": [
+        "Zahnmedizin",
+        "Schneiderei",
+        "Fotografie",
+        "Gartenbau"
+      ],
+      "feedback": [
+        "Szell benutzt seine zahnmedizinischen Kenntnisse zur Folter.",
+        "Schneiderwerkzeuge sind nicht das prägende Verfahren.",
+        "Fotografie foltert ihn nicht.",
+        "Gartenbau ist nicht Szells Fach."
+      ],
+      "short": "Szell benutzt seine zahnmedizinischen Kenntnisse zur Folter.",
+      "context": "Szell benutzt seine zahnmedizinischen Kenntnisse zur Folter. Ein eigentlich heilender Beruf wird zum Instrument der Gewalt; die konkrete Bedrohung sitzt dadurch im verletzlichen Körper des völlig unvorbereiteten Babe (Dustin Hoffman).",
+      "anchor": "Die Heilfertigkeit wird zur Foltermethode.",
+      "interest": "Die Heilfertigkeit wird zur Foltermethode.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche geheime Tätigkeit verbirgt Babes Bruder Doc (Roy Scheider) in @?",
+      "answers": [
+        "Er ist Kurier einer verdeckten Regierungsorganisation.",
+        "Er ist ein verdeckter Diamantenhändler ohne Staatskontakt.",
+        "Er arbeitet als Privatdetektiv gegen Szell.",
+        "Er überwacht Babe als Informant der Universität."
+      ],
+      "feedback": [
+        "Doc arbeitet für eine verdeckte Regierungsorganisation und transportiert Diamanten.",
+        "Doc arbeitet als Kurier für eine Regierungsorganisation.",
+        "Die verdeckte Rolle ist an die Organisation gebunden.",
+        "Die Universität ist nicht Docs Auftraggeber."
+      ],
+      "short": "Doc arbeitet für eine verdeckte Regierungsorganisation und transportiert Diamanten.",
+      "context": "Doc arbeitet für eine verdeckte Regierungsorganisation und transportiert Diamanten. Babe (Dustin Hoffman) hält ihn zunächst für einen Firmenangestellten; die falsche Berufsannahme verschleiert die Gefahr, die der Bruder in seine Wohnung trägt.",
+      "anchor": "Der gewöhnliche Berufsbericht verdeckt den geheimen Kurier.",
+      "interest": "Der gewöhnliche Berufsbericht verdeckt den geheimen Kurier.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum wird Babe (Dustin Hoffman) in @ trotz seiner Unwissenheit entführt?",
+      "answers": [
+        "Szell vermutet, Doc habe ihm ein Geheimnis verraten.",
+        "Babe hat Szells Praxis gekauft.",
+        "Babe ist der gesuchte Diamantenschleifer.",
+        "Babe hat selbst Szells Bruder getötet."
+      ],
+      "feedback": [
+        "Szell glaubt, der sterbende Doc (Roy Scheider) habe Babe Informationen gegeben.",
+        "Eine Praxis besitzt Babe nicht.",
+        "Diamantenschleifer ist er nicht.",
+        "Er tötete Szells Bruder nicht."
+      ],
+      "short": "Szell glaubt, der sterbende Doc (Roy Scheider) habe Babe Informationen gegeben.",
+      "context": "Szell glaubt, der sterbende Doc (Roy Scheider) habe Babe Informationen gegeben. Tatsächlich kann Babe nichts erklären; die Folter beruht damit auf einer falschen Wissensannahme, die ihn gerade nicht zum nützlichen Beteiligten macht.",
+      "anchor": "Die vermutete Mitteilung macht den Unwissenden zum Opfer.",
+      "interest": "Die vermutete Mitteilung macht den Unwissenden zum Opfer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was erkennt Babe (Dustin Hoffman) über seinen vermeintlichen Retter Janeway in @?",
+      "answers": [
+        "Er arbeitet auch für Szell.",
+        "Er ist ein unabhängiger Ermittler ohne Kontakt zu Szell.",
+        "Er will Babe nur als offiziellen Zeugen übernehmen.",
+        "Er warnt Szell ohne jeden eigenen Kontakt nur versehentlich."
+      ],
+      "feedback": [
+        "Janeway (William Devane) gibt sich als rettender Kollege Docs aus, arbeitet aber als Doppelagent.",
+        "Janeway ist mit Szell verbunden.",
+        "Die vorgegebene Hilfe verdeckt seine zweite Loyalität.",
+        "Die Verbindung ist mehr als ein Zufall."
+      ],
+      "short": "Janeway (William Devane) gibt sich als rettender Kollege Docs aus, arbeitet aber als Doppelagent.",
+      "context": "Janeway (William Devane) gibt sich als rettender Kollege Docs aus, arbeitet aber als Doppelagent. Die scheinbare Befreiung dient erneut dem Verhör; Babe kann nicht allein aus behördlich klingender Zugehörigkeit Vertrauen ableiten.",
+      "anchor": "Die erste Rettung ist Teil der weiteren Gefangenschaft.",
+      "interest": "Die erste Rettung ist Teil der weiteren Gefangenschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie endet Szells (Laurence Olivier) Zugriff auf die Diamanten in @?",
+      "answers": [
+        "Er stürzt bei der Jagd danach auf seine eigene Klinge.",
+        "Er entkommt mit einem kleinen Teil der Steine.",
+        "Er wird beim Verlassen von der Polizei festgenommen.",
+        "Er tauscht die Steine gegen Babes Freiheit."
+      ],
+      "feedback": [
+        "Babe (Dustin Hoffman) wirft den Diamantenkoffer Richtung Wasser.",
+        "Szell stürzt auf seine Klinge.",
+        "Ein Polizeizugriff beendet die Konfrontation nicht.",
+        "Der Zugriff endet tödlich, nicht in einem Handel."
+      ],
+      "short": "Babe (Dustin Hoffman) wirft den Diamantenkoffer Richtung Wasser.",
+      "context": "Babe (Dustin Hoffman) wirft den Diamantenkoffer Richtung Wasser. Szell greift danach, stürzt und verletzt sich tödlich an seiner eigenen Klinge; seine Gier und sein verstecktes Gewaltmittel bestimmen gemeinsam den letzten Moment.",
+      "anchor": "Der Griff nach dem Schatz endet an der eigenen Waffe.",
+      "interest": "Der Griff nach dem Schatz endet an der eigenen Waffe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1976",
+        "1973",
+        "1969",
+        "1978"
+      ],
+      "feedback": [
+        "1976 erschien der Film, zwei Jahre nach William Goldmans Roman von 1974.",
+        "1973 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1976 wird im zeitlichen Hintergrund erklärt.",
+        "1969 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1976 wird im zeitlichen Hintergrund erklärt.",
+        "1978 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1976 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1976 erschien der Film, zwei Jahre nach William Goldmans Roman von 1974.",
+      "context": "1976 erschien der Film, zwei Jahre nach William Goldmans Roman von 1974. Goldman adaptierte sein eigenes Buch. Im selben Veröffentlichungsjahr lief auch seine Drehbucharbeit „Die Unbestechlichen“ an; Dustin Hoffman spielte in beiden Filmen.",
+      "anchor": "Roman 1974, Film 1976: Zwei Jahre später steht Goldman im selben Filmjahr auch hinter Die Unbestechlichen mit Hoffman.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Schlesinger",
+        "David Cronenberg",
+        "David Fincher",
+        "Michael Mann"
+      ],
+      "feedback": [
+        "John Schlesinger inszenierte William Goldmans Adaption.",
+        "David Cronenberg wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Schlesinger.",
+        "David Fincher wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Schlesinger.",
+        "Michael Mann wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Schlesinger."
+      ],
+      "short": "John Schlesinger inszenierte William Goldmans Adaption.",
+      "context": "John Schlesinger inszenierte William Goldmans Adaption. Dustin Hoffman spielt den Studenten Babe, Laurence Olivier den ehemaligen KZ-Arzt Szell und Roy Scheider Babes Bruder. Die Regie verbindet körperliche Flucht mit einem politischen Verbrechen, dessen Ursprung lange vor Babes Alltag liegt.",
+      "anchor": "John Schlesinger inszenierte William Goldmans Adaption.",
+      "interest": "John Schlesinger inszenierte William Goldmans Adaption.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

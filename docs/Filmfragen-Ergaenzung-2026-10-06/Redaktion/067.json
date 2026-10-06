@@ -1,0 +1,217 @@
+{
+  "rank": 67,
+  "directors": [
+    "David Hand",
+    "Perce Pearce",
+    "William Cottrell",
+    "Larry Morey",
+    "Wilfred Jackson",
+    "Ben Sharpsteen"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Disneys erster Langfilm und vielfach wiederveröffentlichtes Märchen; Film-Ikone.",
+  "release_note": "Premiere 21. Dezember 1937; breiter US-Start Februar 1938.",
+  "director_note": "Gesamtregie: David Hand; fünf Sequenzregisseure vollständig aufgeführt. Lange Teamantwort als begründete 60-Wörter-Ausnahme.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum verfolgt die Königin Schneewittchen in Disneys @?",
+      "answers": [
+        "Sie ist eifersüchtig auf ihre Schönheit.",
+        "Sie befürchtet eine rechtmäßige Thronübernahme.",
+        "Sie will Schneewittchens Besitz als Erbe erhalten.",
+        "Sie hält Schneewittchen für eine gegnerische Spionin."
+      ],
+      "feedback": [
+        "Die Königin (Originalstimme Lucille La Verne) ist eifersüchtig auf Schneewittchens Schönheit.",
+        "Die Spiegelantwort über Schönheit löst den Neid aus.",
+        "Ein Erbgeschäft ist nicht das Motiv.",
+        "Spionage wirft sie Schneewittchen nicht vor."
+      ],
+      "short": "Die Königin (Originalstimme Lucille La Verne) ist eifersüchtig auf Schneewittchens Schönheit.",
+      "context": "Die Königin (Originalstimme Lucille La Verne) ist eifersüchtig auf Schneewittchens Schönheit. Ihr Spiegel macht aus dem Vergleich eine Bedrohung ihrer eigenen Stellung.",
+      "anchor": "Die Königin kann den Vorrang einer anderen Schönheit nicht ertragen.",
+      "interest": "Die Königin kann den Vorrang einer anderen Schönheit nicht ertragen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wodurch fällt Schneewittchen in Disneys @ in den todesähnlichen Schlaf?",
+      "answers": [
+        "Durch einen vergifteten Apfel",
+        "Durch einen verzauberten Schuh",
+        "Durch eine vergiftete Rose",
+        "Durch eine brennende Spindel"
+      ],
+      "feedback": [
+        "Schneewittchen (Originalstimme Adriana Caselotti) beißt in einen vergifteten Apfel.",
+        "Ein Schuh ist nicht das Giftmittel.",
+        "Eine Rose wird nicht dafür verwendet.",
+        "Eine Spindel gehört zu einem anderen Märchen."
+      ],
+      "short": "Schneewittchen (Originalstimme Adriana Caselotti) beißt in einen vergifteten Apfel.",
+      "context": "Schneewittchen (Originalstimme Adriana Caselotti) beißt in einen vergifteten Apfel. Die Königin (Originalstimme Lucille La Verne) nutzt eine harmlose Verkaufsfigur, um ihre tödliche Absicht zu verbergen.",
+      "anchor": "Der Apfel verbindet Verlockung und Gift.",
+      "interest": "Der Apfel verbindet Verlockung und Gift.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie weist der Jäger den Mordauftrag in Disneys @ faktisch zurück?",
+      "answers": [
+        "Er warnt Schneewittchen und lässt sie fliehen.",
+        "Er meldet den Mord wahrheitsgemäß als unerfüllt.",
+        "Er versteckt Schneewittchen in seinem eigenen Haus.",
+        "Er bringt sie heimlich zu einer anderen Königin."
+      ],
+      "feedback": [
+        "Der Jäger (Originalstimme Stuart Buchanan) warnt Schneewittchen (Originalstimme Adriana Caselotti).",
+        "Der Jäger verbirgt die Nichterfüllung zunächst.",
+        "Er schickt sie zur Flucht in den Wald.",
+        "Eine andere Königin nimmt sie nicht auf."
+      ],
+      "short": "Der Jäger (Originalstimme Stuart Buchanan) warnt Schneewittchen (Originalstimme Adriana Caselotti).",
+      "context": "Der Jäger (Originalstimme Stuart Buchanan) warnt Schneewittchen (Originalstimme Adriana Caselotti). Sein Mitleid setzt die Flucht in Gang; die Königin erhält damit zunächst einen falschen Eindruck vom ausgeführten Auftrag.",
+      "anchor": "Der Jäger entscheidet sich gegen die Tötung.",
+      "interest": "Der Jäger entscheidet sich gegen die Tötung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum sind die Zwerge bei ihrer Heimkehr in Disneys @ zunächst misstrauisch?",
+      "answers": [
+        "Ihr Haus ist unerwartet sauber und bewohnt.",
+        "Ihre Lebensmittel sind vollständig gestohlen.",
+        "Das Haus ist verwüstet und leer.",
+        "Eine Nachricht der Königin liegt auf dem Tisch."
+      ],
+      "feedback": [
+        "Die Zwerge finden ein gereinigtes und verändertes Haus.",
+        "Die überraschende Sauberkeit macht sie misstrauisch.",
+        "Verwüstung ist das Gegenteil des gezeigten Zustands.",
+        "Eine Königinnenbotschaft ist nicht der Anlass."
+      ],
+      "short": "Die Zwerge finden ein gereinigtes und verändertes Haus.",
+      "context": "Die Zwerge finden ein gereinigtes und verändertes Haus. Schneewittchen (Originalstimme Adriana Caselotti) hat es für ein Kinderhaus gehalten; zwei verschiedene Annahmen treffen beim ersten Kennenlernen aufeinander.",
+      "anchor": "Die hilfreiche Reinigung wirkt zunächst wie ein fremder Eingriff.",
+      "interest": "Die hilfreiche Reinigung wirkt zunächst wie ein fremder Eingriff.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was verhindert in Disneys @, dass Schneewittchen lebendig begraben wird?",
+      "answers": [
+        "Die Zwerge legen sie in einen Glassarg.",
+        "Die Zwerge wecken sie vor dem Begräbnis.",
+        "Die Königin verbietet selbst jede Bestattung.",
+        "Der Prinz trifft sofort vor einer Sarglegung ein."
+      ],
+      "feedback": [
+        "Die Zwerge legen Schneewittchen (Originalstimme Adriana Caselotti) in einen Glassarg.",
+        "Sie erwacht nicht durch die Zwerge.",
+        "Ein Bestattungsverbot der Königin besteht nicht.",
+        "Der Glassarg geht dem Prinzenbesuch voraus."
+      ],
+      "short": "Die Zwerge legen Schneewittchen (Originalstimme Adriana Caselotti) in einen Glassarg.",
+      "context": "Die Zwerge legen Schneewittchen (Originalstimme Adriana Caselotti) in einen Glassarg. So bleibt sie sichtbar und zugänglich; die Befürchtung der Königin über eine schnelle Beerdigung trifft nicht ein.",
+      "anchor": "Der Glassarg erhält die Möglichkeit der späteren Rettung.",
+      "interest": "Der Glassarg erhält die Möglichkeit der späteren Rettung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Ereignisfolge beendet die Verfolgung der Königin in Disneys @?",
+      "answers": [
+        "Ein Blitz trifft die Klippe, und sie stürzt hinab.",
+        "Der Prinz besiegt sie in einem Schwertkampf.",
+        "Die Zwerge vergiften ihren Wein.",
+        "Der Jäger verhaftet sie im Wald."
+      ],
+      "feedback": [
+        "Ein Blitz trifft die Klippe und die Königin (Originalstimme Lucille La Verne) stürzt ab.",
+        "Ein Schwertkampf mit dem Prinzen findet nicht statt.",
+        "Ein vergifteter Wein ist nicht die Ursache.",
+        "Der Jäger nimmt sie nicht fest."
+      ],
+      "short": "Ein Blitz trifft die Klippe und die Königin (Originalstimme Lucille La Verne) stürzt ab.",
+      "context": "Ein Blitz trifft die Klippe und die Königin (Originalstimme Lucille La Verne) stürzt ab. Ihr Versuch, einen Felsen auf die Verfolger zu rollen, scheitert an der zerstörten eigenen Standfläche.",
+      "anchor": "Der Blitz nimmt der Königin den Boden unter den Füßen.",
+      "interest": "Der Blitz nimmt der Königin den Boden unter den Füßen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde Disneys klassische Zeichentrickfassung von @ erstmals gezeigt?",
+      "answers": [
+        "1937",
+        "1935",
+        "1932",
+        "1938"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1937.",
+        "1935 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1932 liegt fünf Jahre davor.",
+        "1938 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1937 erstmals veröffentlicht.",
+      "context": "1937 wurde der Film erstmals gezeigt. 1939 erhielt Walt Disney dafür einen besonderen Ehren-Oscar mit einer großen und sieben kleinen Figuren. Zwei Jahre trennen Premiere und diesen auf die Zwergenwelt bezogenen Preis.",
+      "anchor": "Dem Film von 1937 folgte 1939, zwei Jahre später, der besondere Oscar mit sieben kleinen Figuren.",
+      "interest": "Dem Film von 1937 folgte 1939, zwei Jahre später, der besondere Oscar mit sieben kleinen Figuren.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Welches vollständige Team aus Gesamt- und Sequenzregie ist für Disneys Zeichentrickfassung von @ genannt?",
+      "answers": [
+        "David Hand und Perce Pearce und William Cottrell und Larry Morey und Wilfred Jackson und Ben Sharpsteen",
+        "John Musker und Ron Clements und Gary Trousdale und Kirk Wise und Roger Allers und Rob Minkoff",
+        "Don Bluth und Gary Goldman und Chris Sanders und Dean DeBlois und Eric Darnell und Tom McGrath",
+        "Pete Docter und Bob Peterson und Lee Unkrich und Andrew Stanton und Brad Bird und John Lasseter"
+      ],
+      "feedback": [
+        "David Hand und Perce Pearce und William Cottrell und Larry Morey und Wilfred Jackson und Ben Sharpsteen führten Regie.",
+        "Musker, Clements und die übrigen hier genannten Regisseure gehören nicht zum geführten Team dieses Films.",
+        "Bluth, Goldman und die weiteren vorgeschlagenen Namen ergeben hier kein zutreffendes Regieteam.",
+        "Docter, Peterson und die weiteren modernen Animationsregisseure sind hier nicht als Regieteam genannt."
+      ],
+      "short": "Regie: David Hand und Perce Pearce und William Cottrell und Larry Morey und Wilfred Jackson und Ben Sharpsteen.",
+      "context": "David Hand führte die Gesamtregie; Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson und Ben Sharpsteen inszenierten Sequenzen. Das arbeitsteilige Team übertrug einen zuvor kurzfilmgeprägten Studiobetrieb auf die Langfilmform.",
+      "anchor": "David Hand führte die Gesamtregie; Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson und Ben Sharpsteen inszenierten Sequenzen.",
+      "interest": "David Hand führte die Gesamtregie; Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson und Ben Sharpsteen inszenierten Sequenzen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

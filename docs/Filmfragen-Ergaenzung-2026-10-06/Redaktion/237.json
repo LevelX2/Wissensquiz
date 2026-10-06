@@ -1,0 +1,221 @@
+{
+  "rank": 237,
+  "directors": [
+    "Jane Campion"
+  ],
+  "production_countries": [
+    "Neuseeland",
+    "Australien",
+    "Vereinigtes Königreich",
+    "USA",
+    "Kanada"
+  ],
+  "familiarity_reason": "Sehr bekannter moderner Western mit Benedict Cumberbatch und prägendem psychologischem Konflikt.",
+  "release_note": "Erste Veröffentlichung 2021 bei den Filmfestspielen von Venedig; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Power_of_the_Dog_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Power_of_the_Dog_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Veränderung des Haushalts setzt Phil in @ besonders unter Druck?",
+      "answers": [
+        "Sein Bruder heiratet eine Witwe und nimmt sie auf die Ranch",
+        "Sein Bruder verkauft die Ranch an einen Konzern",
+        "Seine Mutter bringt einen neuen Verwalter mit",
+        "Ein Richter ordnet die Aufteilung der Herde an"
+      ],
+      "feedback": [
+        "George (Jesse Plemons) heiratet Rose (Kirsten Dunst) und bringt sie auf die Ranch.",
+        "Die Ranch wird nicht verkauft.",
+        "Eine neue Verwaltung ist nicht der Auslöser.",
+        "Ein Richterspruch teilt die Herde nicht."
+      ],
+      "short": "George (Jesse Plemons) heiratet Rose (Kirsten Dunst) und bringt sie auf die Ranch.",
+      "context": "George (Jesse Plemons) heiratet Rose (Kirsten Dunst) und bringt sie auf die Ranch. Phil (Benedict Cumberbatch) reagiert auf den Verlust seiner bisherigen Nähe und Kontrolle mit Demütigungen.",
+      "anchor": "Die Heirat verändert die Macht und Nähe im Brüderhaushalt.",
+      "interest": "Die Heirat verändert die Macht und Nähe im Brüderhaushalt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was studiert Roses Sohn Peter in @?",
+      "answers": [
+        "Medizin",
+        "Rechtswissenschaft",
+        "Theologie",
+        "Architektur"
+      ],
+      "feedback": [
+        "Peter (Kodi Smit-McPhee) studiert Medizin und seziert ein Kaninchen.",
+        "Er bereitet sich nicht auf einen juristischen Beruf vor.",
+        "Er ist kein Theologiestudent.",
+        "Architektur ist nicht sein Studienfach."
+      ],
+      "short": "Peter (Kodi Smit-McPhee) studiert Medizin und seziert ein Kaninchen.",
+      "context": "Peter (Kodi Smit-McPhee) studiert Medizin und seziert ein Kaninchen. Sein Interesse an Körpern wirkt auf Phil fremd, wird aber später entscheidend für seinen überlegten Umgang mit gefährlichem Material.",
+      "anchor": "Die medizinische Genauigkeit ergänzt Peters unterschätzte Entschlossenheit.",
+      "interest": "Die medizinische Genauigkeit ergänzt Peters unterschätzte Entschlossenheit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie untergräbt Phil in @ Roses geplanten Klavierauftritt?",
+      "answers": [
+        "Er verspottet ihr Üben und spielt die Melodie selbst auf dem Banjo",
+        "Er verkauft das Klavier vor dem Besuch",
+        "Er vertauscht alle Notenblätter",
+        "Er lässt den Governor absichtlich zu spät eintreffen"
+      ],
+      "feedback": [
+        "Phil (Benedict Cumberbatch) verspottet Rose (Kirsten Dunst) und demonstriert die Melodie auf dem Banjo.",
+        "Das Klavier bleibt im Haus.",
+        "Ein Notentausch wird nicht eingesetzt.",
+        "Der Zeitpunkt des Besuchs ist nicht der Trick."
+      ],
+      "short": "Phil (Benedict Cumberbatch) verspottet Rose (Kirsten Dunst) und demonstriert die Melodie auf dem Banjo.",
+      "context": "Phil (Benedict Cumberbatch) verspottet Rose (Kirsten Dunst) und demonstriert die Melodie auf dem Banjo. Bei Georges Gesellschaft kann sie schließlich nicht spielen; die private Einschüchterung wirkt im öffentlichen Moment weiter.",
+      "anchor": "Phils musikalische Demonstration verwandelt Üben in Demütigung.",
+      "interest": "Phils musikalische Demonstration verwandelt Üben in Demütigung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche gemeinsame Arbeit bietet Phil Peter in @ als Annäherung an?",
+      "answers": [
+        "Ein Seil aus Rohhaut zu flechten",
+        "Einen neuen Pferdestall zu bauen",
+        "Ein Jagdgewehr zu reparieren",
+        "Einen Brunnen auszuheben"
+      ],
+      "feedback": [
+        "Phil (Benedict Cumberbatch) bietet Peter (Kodi Smit-McPhee) ein geflochtenes Rohhautseil an und zeigt ihm Ranchfähigkeiten.",
+        "Ein Stallbau verbindet sie nicht.",
+        "Ein Gewehr wird nicht gemeinsam repariert.",
+        "Sie graben keinen Brunnen."
+      ],
+      "short": "Phil (Benedict Cumberbatch) bietet Peter (Kodi Smit-McPhee) ein geflochtenes Rohhautseil an und zeigt ihm Ranchfähigkeiten.",
+      "context": "Phil (Benedict Cumberbatch) bietet Peter (Kodi Smit-McPhee) ein geflochtenes Rohhautseil an und zeigt ihm Ranchfähigkeiten. Die scheinbar freundliche Annäherung liefert Peter zugleich den Weg zu einem tödlichen Eingriff.",
+      "anchor": "Das geplante Seil verbindet Annäherung mit verborgener Gefahr.",
+      "interest": "Das geplante Seil verbindet Annäherung mit verborgener Gefahr.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum ist Peters Rohhautangebot an Phil in @ gefährlich?",
+      "answers": [
+        "Die Haut stammt von einer kranken Kuh und Phil hat eine offene Wunde",
+        "Die Hautstreifen sind vollständig verfault.",
+        "Peter hat die Streifen mit einem giftigen Pflanzensaft behandelt.",
+        "Phil arbeitet mit einem verseuchten Messer."
+      ],
+      "feedback": [
+        "Peter (Kodi Smit-McPhee) schneidet mit Schutzhandschuhen Haut von einer toten Kuh.",
+        "Entscheidend ist die mögliche Milzbrandkontamination und Phils offene Handwunde.",
+        "Der Film zeigt den Fund an der kranken toten Kuh.",
+        "Das gefährliche Material ist die Haut selbst, nicht ein anderes Werkzeug."
+      ],
+      "short": "Peter (Kodi Smit-McPhee) schneidet mit Schutzhandschuhen Haut von einer toten Kuh.",
+      "context": "Peter (Kodi Smit-McPhee) schneidet mit Schutzhandschuhen Haut von einer toten Kuh. Phil (Benedict Cumberbatch) verarbeitet die Streifen mit einer offenen Handwunde und stirbt später vermutlich an Milzbrand.",
+      "anchor": "Peters Schutz und Phils offene Wunde erklären die ungleiche Wirkung.",
+      "interest": "Peters Schutz und Phils offene Wunde erklären die ungleiche Wirkung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was tut Peter in @ mit dem fertig geflochtenen Seil nach Phils Tod?",
+      "answers": [
+        "Er verstaut es mit Handschuhen unter dem Bett",
+        "Er verbrennt es vor den Rancharbeitern",
+        "Er schenkt es George als Versöhnungszeichen",
+        "Er legt es sichtbar auf Phils Sarg"
+      ],
+      "feedback": [
+        "Peter (Kodi Smit-McPhee) fasst das Seil mit Handschuhen an und verstaut es unter dem Bett.",
+        "Er verbrennt es nicht.",
+        "George bekommt es nicht.",
+        "Es liegt nicht als öffentliches Symbol auf dem Sarg."
+      ],
+      "short": "Peter (Kodi Smit-McPhee) fasst das Seil mit Handschuhen an und verstaut es unter dem Bett.",
+      "context": "Peter (Kodi Smit-McPhee) fasst das Seil mit Handschuhen an und verstaut es unter dem Bett. Die Vorsicht bestätigt die verborgene Gefahr, während der Blick auf Rose und George sein Schutzmotiv erkennen lässt.",
+      "anchor": "Der vorsichtige Umgang bestätigt Peters Wissen um das gefährliche Seil.",
+      "interest": "Der vorsichtige Umgang bestätigt Peters Wissen um das gefährliche Seil.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2021",
+        "2018",
+        "2014",
+        "2023"
+      ],
+      "feedback": [
+        "2021 erschien der Film.",
+        "2018 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2021 wird im zeitlichen Hintergrund erklärt.",
+        "2014 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2021 wird im zeitlichen Hintergrund erklärt.",
+        "2023 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2021 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2021 erschien der Film.",
+      "context": "2021 erschien der Film. Die Handlung spielt 1925, also 96 Jahre zuvor; die spätere Perspektive untersucht die Abhängigkeiten, die unter der rauen öffentlichen Männlichkeit der Ranch verborgen bleiben.",
+      "anchor": "Handlung 1925, Film 2021: 96 Jahre trennen Ranchwelt und Campions Untersuchung ihrer versteckten Abhängigkeiten.",
+      "interest": "Der Abstand zwischen erzählter Zeit und Veröffentlichung macht den rückblickenden Blick des Films sichtbar.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jane Campion",
+        "Don Siegel",
+        "Robert Altman",
+        "John Hillcoat"
+      ],
+      "feedback": [
+        "Jane Campion schrieb und inszenierte die Romanadaption.",
+        "Don Siegel wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jane Campion.",
+        "Robert Altman wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jane Campion.",
+        "John Hillcoat wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jane Campion."
+      ],
+      "short": "Jane Campion schrieb und inszenierte die Romanadaption.",
+      "context": "Jane Campion schrieb und inszenierte die Romanadaption. Ari Wegners Kamera beobachtet Körper, Räume und kleine Gesten, durch die Macht und Verwundbarkeit der Figuren sichtbar werden.",
+      "anchor": "Jane Campion schrieb und inszenierte die Romanadaption.",
+      "interest": "Jane Campion schrieb und inszenierte die Romanadaption.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

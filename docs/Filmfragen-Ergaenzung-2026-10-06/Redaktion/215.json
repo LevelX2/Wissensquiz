@@ -1,0 +1,223 @@
+{
+  "rank": 215,
+  "directors": [
+    "David Cronenberg"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "Kanada"
+  ],
+  "familiarity_reason": "Bekannter Cronenberg-Thriller mit markanter Badeszene und Viggo Mortensens verdeckter Identität.",
+  "release_note": "Erste Veröffentlichung 2007 beim Toronto International Film Festival; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Eastern_Promises",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Eastern_Promises",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "zeitbezug": {
+      "url": "https://en.wikipedia.org/wiki/A_History_of_Violence",
+      "supports": "Gelesener Artikel des ebenfalls redigierten Rangs 214: Filmjahr und konkrete Gegenstandsverbindung im Jahreskontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Fund bringt Anna in @ auf die Spur der Londoner Unterwelt?",
+      "answers": [
+        "Das Tagebuch einer verstorbenen jungen Mutter",
+        "Ein Foto aus einem Banküberfall",
+        "Ein gestohlener Reisepass ihres Bruders",
+        "Eine Kassette mit einem Polizeiverhör"
+      ],
+      "feedback": [
+        "Anna (Naomi Watts) findet das russischsprachige Tagebuch der bei der Geburt verstorbenen Tatiana.",
+        "Ein Bankfoto ist nicht ihr Ausgangspunkt.",
+        "Der Fund betrifft Tatiana, nicht Annas Bruder.",
+        "Sie findet kein Polizeiverhör."
+      ],
+      "short": "Anna (Naomi Watts) findet das russischsprachige Tagebuch der bei der Geburt verstorbenen Tatiana.",
+      "context": "Anna (Naomi Watts) findet das russischsprachige Tagebuch der bei der Geburt verstorbenen Tatiana. Eine Restaurantvisitenkarte darin führt sie zu Semyon (Armin Mueller-Stahl) und einem gefährlichen Familiengeheimnis.",
+      "anchor": "Ein Tagebuch macht die Herkunft des Babys zur gefährlichen Suche.",
+      "interest": "Ein Tagebuch macht die Herkunft des Babys zur gefährlichen Suche.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche äußeren Merkmale erzählen in @ von Nikolais krimineller Vergangenheit?",
+      "answers": [
+        "Seine Tätowierungen",
+        "Seine militärischen Orden",
+        "Seine teuren Uhren",
+        "Seine Gesichtsmasken"
+      ],
+      "feedback": [
+        "Nikolai (Viggo Mortensen) zeigt bei seiner Aufnahme in die Organisation seine Tätowierungen.",
+        "Er weist keinen Rang durch Orden nach.",
+        "Uhren erzählen nicht seine Haftbiografie.",
+        "Er trägt keine entsprechenden Masken."
+      ],
+      "short": "Nikolai (Viggo Mortensen) zeigt bei seiner Aufnahme in die Organisation seine Tätowierungen.",
+      "context": "Nikolai (Viggo Mortensen) zeigt bei seiner Aufnahme in die Organisation seine Tätowierungen. Die Zeichen vermitteln Haftgeschichte und Rang; neue Sterne markieren den Aufstieg, der seine verdeckte Mission ermöglicht.",
+      "anchor": "Tattoos bilden eine lesbare Biografie und Rangordnung.",
+      "interest": "Tattoos bilden eine lesbare Biografie und Rangordnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum wird Nikolai im Badehaus von @ angegriffen?",
+      "answers": [
+        "Die Angreifer halten ihn absichtlich für Kirill",
+        "Er hat den Badehausbesitzer bestohlen",
+        "Er wurde beim Kopieren des Tagebuchs ertappt",
+        "Er schützt dort einen Polizeizeugen"
+      ],
+      "feedback": [
+        "Semyon (Armin Mueller-Stahl) lässt die rachsüchtigen Brüder eines Ermordeten Nikolai (Viggo Mortensen) für Kirill halten.",
+        "Ein Diebstahl im Badehaus ist kein Grund.",
+        "Das Kopieren des Tagebuchs löst die Attacke nicht aus.",
+        "Nikolai bewacht dort keinen Zeugen."
+      ],
+      "short": "Semyon (Armin Mueller-Stahl) lässt die rachsüchtigen Brüder eines Ermordeten Nikolai (Viggo Mortensen) für Kirill halten.",
+      "context": "Semyon (Armin Mueller-Stahl) lässt die rachsüchtigen Brüder eines Ermordeten Nikolai (Viggo Mortensen) für Kirill halten. Der Aufstieg in der Organisation wird zugleich zur Gelegenheit, ihn zu opfern.",
+      "anchor": "Der neue Rang schützt Nikolai nicht vor der eigenen Organisation.",
+      "interest": "Der neue Rang schützt Nikolai nicht vor der eigenen Organisation.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Untersuchung soll Semyon in @ strafrechtlich belasten?",
+      "answers": [
+        "Ein Vaterschaftstest des Babys",
+        "Eine Haaranalyse des Restaurantpersonals",
+        "Eine Altersbestimmung seiner Tätowierungen",
+        "Ein Stimmvergleich mit einem Erpresseranruf"
+      ],
+      "feedback": [
+        "Nikolai (Viggo Mortensen) schlägt einen Vaterschaftstest vor.",
+        "Restaurantangestellte liefern nicht den entscheidenden Nachweis.",
+        "Tattooalter beweist die Tat nicht.",
+        "Es gibt keinen maßgeblichen Erpresseranruf."
+      ],
+      "short": "Nikolai (Viggo Mortensen) schlägt einen Vaterschaftstest vor.",
+      "context": "Nikolai (Viggo Mortensen) schlägt einen Vaterschaftstest vor. Die Abstammung von Tatianas Baby kann Semyons (Armin Mueller-Stahl) Vergewaltigung der Minderjährigen belegen und die Machtposition des Bosses brechen.",
+      "anchor": "Die Vaterschaft macht das Kind zum Beweis gegen den Boss.",
+      "interest": "Die Vaterschaft macht das Kind zum Beweis gegen den Boss.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was erfährt Anna in @ über den scheinbar verschwundenen Onkel?",
+      "answers": [
+        "Nikolai hat ihn zum Schutz in Edinburgh untergebracht",
+        "Er ist heimlich nach Moskau zurückgekehrt",
+        "Er wurde mit der Themseleiche verwechselt",
+        "Er arbeitet inzwischen für Semyon"
+      ],
+      "feedback": [
+        "Anna (Naomi Watts) fürchtet, Nikolai (Viggo Mortensen) habe ihren Onkel Stepan getötet.",
+        "Nikolai nennt Edinburgh, nicht Moskau.",
+        "Stepan ist nicht die zuvor entsorgte Leiche.",
+        "Er wechselt nicht in Semyons Dienste."
+      ],
+      "short": "Anna (Naomi Watts) fürchtet, Nikolai (Viggo Mortensen) habe ihren Onkel Stepan getötet.",
+      "context": "Anna (Naomi Watts) fürchtet, Nikolai (Viggo Mortensen) habe ihren Onkel Stepan getötet. Tatsächlich hält er ihn zu dessen Schutz in einem Hotel in Edinburgh verborgen.",
+      "anchor": "Eine vermeintliche Mordtat erweist sich als Schutzmaßnahme.",
+      "interest": "Eine vermeintliche Mordtat erweist sich als Schutzmaßnahme.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie verändern sich Annas und Nikolais Lebenswege am Ende von @?",
+      "answers": [
+        "Sie übernimmt das Kind, er die Organisation",
+        "Beide verlassen gemeinsam London",
+        "Sie tritt in die Polizei ein, er ins Zeugenschutzprogramm",
+        "Beide übernehmen das Restaurant als legales Paar"
+      ],
+      "feedback": [
+        "Anna (Naomi Watts) adoptiert Tatianas Tochter.",
+        "Die beiden reisen nicht gemeinsam ab.",
+        "Ihre neuen Rollen sind weder Polizei noch Zeugenschutz.",
+        "Sie führen das Restaurant nicht als Paar."
+      ],
+      "short": "Anna (Naomi Watts) adoptiert Tatianas Tochter.",
+      "context": "Anna (Naomi Watts) adoptiert Tatianas Tochter. Nikolai (Viggo Mortensen) übernimmt Semyons Machtposition; die Schlussbilder trennen die gerettete familiäre Zukunft von seiner fortgesetzten gefährlichen Rolle.",
+      "anchor": "Die Rettung des Kindes führt nicht zu einer gemeinsamen Zukunft.",
+      "interest": "Die Rettung des Kindes führt nicht zu einer gemeinsamen Zukunft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "2004",
+        "2000",
+        "2009"
+      ],
+      "feedback": [
+        "2007 erschien der Film.",
+        "2004 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt.",
+        "2000 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt.",
+        "2009 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2007 erschien der Film.",
+      "context": "2007 erschien der Film. Er folgte zwei Jahre nach A History of Violence von 2005; Cronenberg und Mortensen erkunden erneut, wie ein Körper eine versteckte Vergangenheit verrät.",
+      "anchor": "A History of Violence 2005, Tödliche Versprechen 2007: Zwei Jahre verbinden das Duo und seine Körper als Identitätsspuren.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten",
+        "zeitbezug"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "David Cronenberg",
+        "Roman Polanski",
+        "David Fincher",
+        "Michael Mann"
+      ],
+      "feedback": [
+        "David Cronenberg führte Regie, Steven Knight schrieb das Drehbuch.",
+        "Roman Polanski wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet David Cronenberg.",
+        "David Fincher wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet David Cronenberg.",
+        "Michael Mann wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet David Cronenberg."
+      ],
+      "short": "David Cronenberg führte Regie, Steven Knight schrieb das Drehbuch.",
+      "context": "David Cronenberg führte Regie, Steven Knight schrieb das Drehbuch. Tattoos, Gewalt und die Fürsorge für ein Kind verbinden die Londoner Unterwelt mit Fragen nach Herkunft und Zugehörigkeit.",
+      "anchor": "David Cronenberg führte Regie, Steven Knight schrieb das Drehbuch.",
+      "interest": "David Cronenberg führte Regie, Steven Knight schrieb das Drehbuch.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

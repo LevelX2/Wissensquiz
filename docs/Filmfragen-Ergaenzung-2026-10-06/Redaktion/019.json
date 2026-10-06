@@ -1,0 +1,221 @@
+{
+  "rank": 19,
+  "directors": [
+    "Joachim Rønning",
+    "Espen Sandberg"
+  ],
+  "production_countries": [
+    "Norwegen",
+    "Dänemark",
+    "Deutschland",
+    "Schweden",
+    "Vereinigtes Königreich"
+  ],
+  "familiarity_reason": "Ein Kennerfilm über eine berühmte Expedition; die Spielfilmfassung ist weniger geläufig als der Name Kon-Tiki.",
+  "release_note": "Oslo-Festpremiere laut norwegischem Königshaus am 23. August 2012, vor dem regulären Start am 24. August.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Kon-Tiki_(2012_film)",
+    "studie": "https://nfstatic01.z16.web.core.windows.net/skolekino/Kon_Tiki.pdf",
+    "premiere": "https://www.kongehuset.no/nyheter/premiere-pa-kon-tiki"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Mit welcher Art von Fahrzeug beginnt Thor Heyerdahl (Pål Sverre Hagen) in der Spielfilmfassung von @ seine Pazifikreise?",
+      "answers": [
+        "Mit einem Balsaholzfloß",
+        "Mit einer Segelyacht",
+        "Mit einem Schilffloß",
+        "Mit einem hölzernen Motorboot"
+      ],
+      "feedback": [
+        "Die Expedition nutzt ein Floß aus Balsaholz.",
+        "Die Expedition benutzt ein Floß, keine Segelyacht.",
+        "Dieses Floß besteht aus Balsaholz, nicht aus Schilf.",
+        "Ein Motorboot würde nicht die gesuchte historische Bauweise erproben."
+      ],
+      "short": "Die Männer reisen auf einem Balsaholzfloß.",
+      "context": "Der einfache Bau soll eine frühere Seeverbindung als technisch möglich erproben. Heyerdahl will bewusst kein modernes Schiff als Beleg einsetzen. Die Bauweise gehört damit zum Zweck der Reise.",
+      "anchor": "Das Balsafloß ist Teil des Versuchs, nicht nur ein ungewöhnliches Fahrzeug.",
+      "interest": "Das Transportmittel erklärt die Versuchsidee.",
+      "sources": [
+        "premiere",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Von welchem Kontinent startet Heyerdahls (Pål Sverre Hagen) Expedition in @ in Richtung Polynesien?",
+      "answers": [
+        "Südamerika",
+        "Afrika",
+        "Europa",
+        "Australien"
+      ],
+      "feedback": [
+        "Die Reise beginnt an der peruanischen Küste Südamerikas.",
+        "Afrika ist nicht der Ausgangskontinent.",
+        "Norwegen gehört zur Vorgeschichte, nicht zum Floßstart.",
+        "Australien ist nicht der Abfahrtsort."
+      ],
+      "short": "Die Floßfahrt beginnt in Südamerika.",
+      "context": "Heyerdahl verfolgt eine Verbindung von Osten über den Pazifik. Die gewählte Fahrtrichtung gehört zu seiner These über frühere Kontakte. Der Film zeigt die Reise als Versuch, gegen vorherrschende Annahmen anzutreten.",
+      "anchor": "Von Südamerika führt das Floß über den Pazifik nach Polynesien.",
+      "interest": "Der Startort macht die Richtung des Versuchs verständlich.",
+      "sources": [
+        "handlung",
+        "premiere"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum verwirft Heyerdahl (Pål Sverre Hagen) in @ Watzingers Vorschlag, Stahlseile einzusetzen?",
+      "answers": [
+        "Die Fahrt soll mit der ursprünglichen Bauweise auskommen.",
+        "Er hält die Stahlseile für zu schwer für die Ladung.",
+        "Er befürchtet, Rost werde die Trinkwasservorräte verschmutzen.",
+        "Er will das mitgebrachte Metall für Reparaturen aufsparen."
+      ],
+      "feedback": [
+        "Die moderne Verstärkung würde den Versuch verändern.",
+        "Der Verzicht dient der ursprünglichen Bauweise, nicht nur dem Gewicht.",
+        "Die Entscheidung begründet sich nicht mit einer Verschmutzung des Trinkwassers.",
+        "Es geht um die Bauweise des Versuchs, nicht um das Aufsparen von Ersatzmaterial."
+      ],
+      "short": "Heyerdahl hält an der ursprünglichen Floßbauweise fest.",
+      "context": "Herman Watzinger (Anders Baasmo Christiansen) sorgt sich im Film um die Verbindungen. Heyerdahl lehnt die Verstärkung ab. Das Filmstudienblatt kennzeichnet diesen Konflikt als dramatische Zuspitzung; er ist kein unveränderter historischer Dialog.",
+      "anchor": "Der Stahlseilstreit im Film betrifft Sicherheit gegen unveränderten Versuch.",
+      "interest": "Ein zentraler Konflikt wird mit seinem Darstellungsstatus erklärt.",
+      "sources": [
+        "studie",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie soll das Floß in @ das gefährliche Riff vor Raroia überwinden?",
+      "answers": [
+        "Es soll auf einer passenden großen Welle darübergetragen werden.",
+        "Es soll vor dem Riff zerlegt und stückweise hinübergetragen werden.",
+        "Es soll an einem Motorboot über eine freie Rinne gezogen werden.",
+        "Es soll mit einem Ankerseil seitlich um die Insel geführt werden."
+      ],
+      "feedback": [
+        "Die Männer warten auf die Welle, die das Floß über das Riff trägt.",
+        "Die Mannschaft setzt auf eine passende große Welle, nicht auf eine Zerlegung.",
+        "Die Überquerung gelingt nicht durch den Schlepp eines Motorboots.",
+        "Der Plan ist das Übertragen durch die Welle, keine Umfahrung am Ankerseil."
+      ],
+      "short": "Eine große Welle soll das Floß über das Riff tragen.",
+      "context": "Die Mannschaft hält das Floß zurück, bis die richtige Welle kommt. Der Wechsel zwischen wartenden Männern und beanspruchtem Tau steigert die Spannung. Das letzte Hindernis verlangt gemeinsames Timing.",
+      "anchor": "Vor Raroia muss die Mannschaft den richtigen Wellenmoment treffen.",
+      "interest": "Die finale Passage verbindet Naturbeobachtung und Zusammenarbeit.",
+      "sources": [
+        "studie"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche persönliche Grenze macht die Pazifikfahrt im Film für Heyerdahl (Pål Sverre Hagen) besonders riskant?",
+      "answers": [
+        "Er kann nicht schwimmen.",
+        "Er leidet an einer unheilbaren Seekrankheit.",
+        "Er kann wegen einer Augenverletzung kaum sehen.",
+        "Er hat eine schwere Verletzung an beiden Händen."
+      ],
+      "feedback": [
+        "Der Film betont seine fehlenden Schwimmfähigkeiten.",
+        "Der Film betont seine Unfähigkeit zu schwimmen.",
+        "Eine Augenverletzung ist nicht die gezeigte persönliche Grenze.",
+        "Die hervorgehobene Gefahr ist sein fehlendes Schwimmvermögen."
+      ],
+      "short": "Heyerdahl kann im Film nicht schwimmen.",
+      "context": "Der Auftakt zeigt ein Kindheitserlebnis im Wasser. Die spätere Floßfahrt führt diese Angst in einen viel größeren Raum. Die Gestaltungsverbindung betrifft die Filmfigur und erklärt die Bedeutung späterer Wasserszenen.",
+      "anchor": "Die Kindheitsangst vor Wasser kehrt auf dem Pazifik zurück.",
+      "interest": "Ein Auftaktmotiv wird mit dem späteren Abenteuer verknüpft.",
+      "sources": [
+        "studie"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Art von Material unterscheidet die Spielfilmfassung von @ von der früheren Expeditionsdokumentation?",
+      "answers": [
+        "Schauspieler stellen Ereignisse mit dramatisierten Figuren nach.",
+        "Die gesamte Handlung wird ausschließlich aus historischen Expeditionaufnahmen montiert.",
+        "Die damaligen Teilnehmer berichten ohne nachgespielte Szenen vor der Kamera.",
+        "Neue Dokumentaraufnahmen zeigen nur die heutige wissenschaftliche Prüfung der Fahrt."
+      ],
+      "feedback": [
+        "Der Spielfilm inszeniert die Geschichte mit Schauspielern.",
+        "Die neue Spielfilmfassung benutzt Darsteller und nachgespielte Ereignisse.",
+        "Sie ist kein ausschließliches Interviewporträt der damaligen Teilnehmer.",
+        "Sie erzählt die damalige Expedition dramatisch und ist keine rein heutige Untersuchung."
+      ],
+      "short": "Die neue Fassung ist eine dramatisierte Spielfilmerzählung.",
+      "context": "Das Filmstudienblatt beschreibt bewusst dokumentarisch wirkende Passagen. Sie verweisen auf die ältere Dokumentation, bleiben aber Teil einer inszenierten Erzählung. Historische Namen allein machen gespielte Konflikte nicht zu Originalaufnahmen.",
+      "anchor": "Kon-Tiki als Spielfilm stellt nach; die ältere Dokumentation zeigt Expeditionsaufnahmen.",
+      "interest": "Die Darstellungsform wird von ihrer historischen Grundlage unterschieden.",
+      "sources": [
+        "studie",
+        "premiere"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde die Spielfilmfassung von @ mit Pål Sverre Hagen erstmals veröffentlicht?",
+      "answers": [
+        "2012",
+        "1947",
+        "1951",
+        "2002"
+      ],
+      "feedback": [
+        "Die Oslo-Premiere lag 2012.",
+        "1947 fand die Expedition statt.",
+        "1951 erhielt die frühere Dokumentation ihren Oscar.",
+        "2002 liegt vor dieser Filmveröffentlichung."
+      ],
+      "short": "Die Spielfilmfassung erschien 2012.",
+      "context": "Die Pazifikexpedition fand 1947 statt. Die neue Spielfilmfassung erschien 2012, fünfundsechzig Jahre später. Die historische Reise und ihre spätere Inszenierung lassen sich über diesen Abstand klar auseinanderhalten.",
+      "anchor": "1947 die Floßfahrt, 2012 der Spielfilm: fünfundsechzig Jahre Abstand.",
+      "interest": "Das historische Ereignis liefert einen konkreten Zeitanker.",
+      "sources": [
+        "premiere",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Welches Team führte bei der Spielfilmfassung von @ mit Pål Sverre Hagen Regie?",
+      "answers": [
+        "Joachim Rønning und Espen Sandberg",
+        "Morten Tyldum und Erik Poppe",
+        "Nicolas Winding Refn und Lars von Trier",
+        "Thomas Vinterberg und Susanne Bier"
+      ],
+      "feedback": [
+        "Rønning und Sandberg sind die beiden Regisseure.",
+        "Tyldum und Poppe sind nicht dieses Team.",
+        "Refn und von Trier führten hier nicht Regie.",
+        "Vinterberg und Bier inszenierten diese Fassung nicht."
+      ],
+      "short": "Joachim Rønning und Espen Sandberg führten gemeinsam Regie.",
+      "context": "Die norwegische Festpremiere stellte beide Regisseure zusammen mit Drehbuchautor Petter Skavlan vor. Das Team erzählt die Expedition mit gespielten Konflikten; Skavlans Autorenarbeit gehört zu einer anderen Aufgabe als die gemeinsame Inszenierung.",
+      "anchor": "Rønning und Sandberg inszenieren; Petter Skavlan schreibt.",
+      "interest": "Das vollständige Team wird mit der Autorenarbeit abgegrenzt.",
+      "sources": [
+        "premiere",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

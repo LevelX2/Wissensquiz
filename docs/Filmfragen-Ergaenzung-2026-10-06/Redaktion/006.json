@@ -1,0 +1,213 @@
+{
+  "rank": 6,
+  "directors": [
+    "Ronald Neame"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein älterer Publikumserfolg des Katastrophenkinos, heute vor allem für Genrekenner vertraut.",
+  "release_note": "Erstveröffentlichung Dezember 1972; gemeint ist die Fassung mit Gene Hackman und Shelley Winters, nicht das spätere Remake.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Poseidon_Adventure_(1972_film)",
+    "afi": "https://catalog.afi.com/Film/53859-THE-POSEIDON-ADVENTURE",
+    "inferno": "https://catalog.afi.com/Film/54398-THE-TOWERING-INFERNO"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was geschieht mit dem Passagierschiff in @ mit Gene Hackman kurz nach dem Jahreswechsel?",
+      "answers": [
+        "Eine riesige Welle bringt es zum Kentern.",
+        "Ein Eisberg reißt den Bug ab.",
+        "Ein U-Boot torpediert die Maschinenräume.",
+        "Eine Mine zerstört die Kommandobrücke."
+      ],
+      "feedback": [
+        "Die Welle dreht das Schiff auf den Kopf.",
+        "Es handelt sich nicht um eine Eisbergkollision.",
+        "Kein U-Boot verursacht die Katastrophe.",
+        "Eine Mine ist nicht der Auslöser."
+      ],
+      "short": "Das Schiff kentert nach einer gewaltigen Welle.",
+      "context": "Die Silvesterfeier wird abrupt zum Überlebenskampf. Nach dem Kentern liegt das Schiff kopfüber im Wasser: Decken werden zu Böden, Ausgänge führen in falsche Richtungen. Die Ausgangskatastrophe verändert damit die räumlichen Regeln für jede weitere Entscheidung der Passagiere.",
+      "anchor": "Die Welle dreht die Poseidon und ihre Fluchtwege auf den Kopf.",
+      "interest": "Die Katastrophe erklärt die besondere räumliche Aufgabe des Films.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Beruf hat Frank Scott (Gene Hackman), der in @ eine Gruppe zur Flucht anführt?",
+      "answers": [
+        "Geistlicher",
+        "Schiffsingenieur",
+        "Polizeidetektiv",
+        "Schiffskapitän"
+      ],
+      "feedback": [
+        "Scott ist ein Geistlicher mit eigenwilligen Ansichten.",
+        "Er ist nicht der Ingenieur des Schiffes.",
+        "Der Polizeidetektiv ist Mike Rogo, nicht Scott.",
+        "Scott gehört nicht als Kapitän zur Besatzung."
+      ],
+      "short": "Frank Scott ist ein Geistlicher.",
+      "context": "Frank Scott (Gene Hackman) fordert seine Mitreisenden zum eigenen Handeln auf. Sein Beruf macht diesen Aufruf besonders: Hilfe bedeutet für ihn keine passive Erwartung eines Wunders. Mike Rogo (Ernest Borgnine) begegnet seiner Führung skeptisch; die gemeinsame Flucht muss deshalb auch unterschiedliche Überzeugungen zusammenführen.",
+      "anchor": "Der Geistliche Scott setzt auf Handeln statt bloßes Warten.",
+      "interest": "Der Beruf eröffnet das Verständnis des Führungskonflikts.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welchen Gegenstand benutzt Scotts Gruppe in @ als Aufstiegshilfe aus dem umgedrehten Speisesaal?",
+      "answers": [
+        "Den Weihnachtsbaum",
+        "Den Flügel der Kapelle",
+        "Eine Rettungsinsel",
+        "Den Kronleuchter"
+      ],
+      "feedback": [
+        "Der Baum wird zur improvisierten Leiter.",
+        "Der Flügel dient nicht als Aufstiegshilfe.",
+        "Eine Rettungsinsel bringt die Gruppe nicht durch den Saal.",
+        "Der Kronleuchter ist nicht ihr gewählter Weg."
+      ],
+      "short": "Die Gruppe klettert über den Weihnachtsbaum nach oben.",
+      "context": "Nach dem Kentern liegt der Zugang zur nächsten Schiffsebene hoch über den Überlebenden. Frank Scott (Gene Hackman) verwendet den Weihnachtsbaum als Leiter. Ein Festgegenstand erhält so eine völlig andere Funktion. Wer rechtzeitig hinaufsteigt, entkommt dem Saal, bevor das eindringende Wasser die Wartenden einschließt.",
+      "anchor": "Der Weihnachtsbaum wird im gekenterten Schiff zur Leiter.",
+      "interest": "Ein ungewöhnlicher Gegenstand macht die veränderte Raumlage anschaulich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Fähigkeit ermöglicht Belle Rosen (Shelley Winters) in @, Scott aus einem überfluteten Gang zu retten?",
+      "answers": [
+        "Ihre Erfahrung als Wettkampfschwimmerin",
+        "Ihre Ausbildung als Schiffselektrikerin",
+        "Ihre Erfahrung als U-Boot-Steuerfrau",
+        "Ihre Ausbildung als Bergsteigerin"
+      ],
+      "feedback": [
+        "Belle kann die gefährliche Unterwasserstrecke schwimmen.",
+        "Eine Elektroausbildung erklärt diese Rettung nicht.",
+        "Sie führt kein U-Boot durch den Gang.",
+        "Bergsteigerkenntnisse sind nicht der entscheidende Hintergrund."
+      ],
+      "short": "Belle hat Erfahrung als Wettkampfschwimmerin und rettet Scott unter Wasser.",
+      "context": "Belle Rosen (Shelley Winters) bietet zunächst an, den überfluteten Weg zu erkunden. Frank Scott (Gene Hackman) versucht es selbst und wird eingeklemmt. Nun schwimmt Belle hinterher und befreit ihn. Die Umkehr zeigt, dass eine leicht unterschätzte Mitreisende die Fähigkeit besitzt, von der der Anführer selbst abhängig wird.",
+      "anchor": "Belles Schwimmkönnen rettet den Anführer.",
+      "interest": "Der Zusammenhang von Vorgeschichte und Rettung widerlegt ein vorschnelles Figurenbild.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie öffnet Frank Scott (Gene Hackman) in @ den letzten durch heißen Dampf versperrten Fluchtweg?",
+      "answers": [
+        "Er schließt das Ventil, während er daran hängt.",
+        "Er trennt eine Zuleitung mit einem Beil.",
+        "Er lässt die Maschinenräume weiter fluten.",
+        "Er startet den stillstehenden Schiffsmotor neu."
+      ],
+      "feedback": [
+        "Scott erreicht das heiße Ventil und stoppt den Dampf.",
+        "Scott erreicht das Ventil und schließt es; er durchtrennt keine Zuleitung.",
+        "Weiteres Fluten öffnet den letzten versperrten Weg nicht.",
+        "Der Motor wird dafür nicht neu gestartet."
+      ],
+      "short": "Scott schließt das Ventil und opfert dabei sein Leben.",
+      "context": "Frank Scott (Gene Hackman) hängt an dem heißen Ventilrad, um den Dampf abzustellen. Er kann sich anschließend nicht mehr halten. Mike Rogo (Ernest Borgnine) muss die übrigen Menschen weiterführen. Der letzte Weg zur Rettung entsteht damit aus einer konkreten Tat, die Scotts früheren Aufruf zum Handeln bis zur äußersten Konsequenz führt.",
+      "anchor": "Scott stoppt den Dampf; Rogo führt die Überlebenden weiter.",
+      "interest": "Die technische Handlung verbindet das Finale mit dem Führungsthema.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Auf welchem wirklichen Ozeandampfer entstanden Außen- und Innenaufnahmen für @ mit Gene Hackman?",
+      "answers": [
+        "Queen Mary",
+        "Queen Elizabeth 2",
+        "United States",
+        "France"
+      ],
+      "feedback": [
+        "Die Produktion nutzte die in Long Beach liegende Queen Mary.",
+        "Nicht die Queen Elizabeth 2 war dieser Drehort.",
+        "Die United States lieferte nicht den genannten Drehort.",
+        "Die France war nicht das verwendete Schiff."
+      ],
+      "short": "Teile des Films wurden auf der Queen Mary in Long Beach gedreht.",
+      "context": "Die Queen Mary lieferte reale Schiffsräume für den Anfang. Nach dem Kentern benötigte die Produktion jedoch umgedrehte Räume, die im Studio nachgebaut wurden. Der Wechsel erklärt das Zusammenspiel von Drehort und Kulisse: Ein echtes Schiff kann die normale Raumwirkung liefern, ohne selbst für die Katastrophe umgedreht werden zu müssen.",
+      "anchor": "Echte Queen Mary vor dem Kentern, umgedrehte Studiokulissen danach.",
+      "interest": "Die Produktionsentscheidung erklärt, wie eine scheinbar unmögliche Raumwelt entsteht.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Gene Hackman erstmals veröffentlicht?",
+      "answers": [
+        "1972",
+        "1966",
+        "1978",
+        "1984"
+      ],
+      "feedback": [
+        "Die Originalfassung erschien 1972.",
+        "1966 liegt vor dem Film.",
+        "1978 ist für die Erstveröffentlichung zu spät.",
+        "1984 gehört nicht zum ersten Kinostart."
+      ],
+      "short": "Der Film wurde 1972 erstmals veröffentlicht.",
+      "context": "1972 kam das Schiffsabenteuer ins Kino; 1974 folgte „Flammendes Inferno“ aus Irwin Allens Produktion. Der Abstand von zwei Jahren verbindet zwei große Katastrophenfilme: Erst müssen Menschen aus einem gekenterten Schiff, dann aus einem brennenden Hochhaus entkommen. Diese Reihenfolge bildet einen konkreten Filmanker für das Jahr.",
+      "anchor": "1972 kentert die Poseidon, 1974 brennt das Hochhaus.",
+      "interest": "Zwei verwandte Filme machen Veröffentlichung und Reihenfolge merkbar.",
+      "sources": [
+        "afi",
+        "inferno"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Gene Hackman und Shelley Winters Regie?",
+      "answers": [
+        "Ronald Neame",
+        "John Guillermin",
+        "John Sturges",
+        "John Boorman"
+      ],
+      "feedback": [
+        "Neame führte die ausgewiesene Hauptregie.",
+        "Guillermin inszenierte später Flammendes Inferno.",
+        "Sturges hat hier keinen Hauptregiecredit.",
+        "Boorman führte diese Schiffsverfilmung nicht als Regisseur."
+      ],
+      "short": "Ronald Neame führte Regie; Irwin Allen produzierte.",
+      "context": "Ronald Neame musste das Fortschreiten einer Gruppe durch immer schwierigere Schiffsräume inszenieren. Irwin Allen ist als Produzent eng mit dem Katastrophenfilm verbunden, ersetzt aber nicht den Regiecredit. Die unterschiedlichen Aufgaben helfen, den Film präzise zuzuordnen, gerade im Vergleich mit Allens späteren großen Produktionen.",
+      "anchor": "Neame inszeniert die Poseidon, Allen produziert sie.",
+      "interest": "Der bekannte Produzentenname wird vom tatsächlichen Hauptregiecredit getrennt.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

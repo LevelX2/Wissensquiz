@@ -1,0 +1,216 @@
+{
+  "rank": 71,
+  "directors": [
+    "Tim Burton"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekanntes Burton-Fantasykino mit prominentem Ensemble.",
+  "release_note": "Manhattan-Premiere 4. Dezember 2003; breiter Start Januar 2004.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Big_Fish",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://www.sonypictures.com/movies/bigfish",
+      "supports": "Vater-Sohn-Konflikt und Besetzung."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Worüber streiten Edward und sein Sohn Will in @?",
+      "answers": [
+        "Über Edwards fantastische Lebensgeschichten",
+        "Über Wills geplante Rückkehr nach Alabama",
+        "Über eine Erbschaft für Joséphine",
+        "Über Edwards Umgang mit seiner Krankheit"
+      ],
+      "feedback": [
+        "Will (Billy Crudup) hält Edwards Geschichten für Lügen.",
+        "Die Entfremdung beruht auf den fantastischen Lebensgeschichten.",
+        "Eine Erbschaft ist nicht der alte Streit.",
+        "Die Krankheit führt zur Rückkehr, beginnt aber nicht den langjährigen Konflikt."
+      ],
+      "short": "Will (Billy Crudup) hält Edwards Geschichten für Lügen.",
+      "context": "Will (Billy Crudup) hält Edwards Geschichten für Lügen. Edward (Albert Finney) erzählt sein Leben weiterhin fantastisch; der Sohn sucht hinter den Übertreibungen einen Zugang zu seinem wirklichen Vater.",
+      "anchor": "Der Streit gilt dem Verhältnis von Lebensgeschichte und Wahrheit.",
+      "interest": "Der Streit gilt dem Verhältnis von Lebensgeschichte und Wahrheit.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum kommt Will (Billy Crudup) nach der langen Entfremdung in @ zurück?",
+      "answers": [
+        "Sein Vater ist schwer an Krebs erkrankt.",
+        "Seine Mutter bittet ihn um Hilfe beim Hausverkauf.",
+        "Edward will seine bisher geheimgehaltene Biografie vorlesen.",
+        "Will möchte sein Kind dort zur Schule anmelden."
+      ],
+      "feedback": [
+        "Edward (Albert Finney) ist an Krebs erkrankt.",
+        "Die schwere Krankheit des Vaters macht den Besuch dringlich.",
+        "Eine neue Vorlesung ist nicht der Anlass.",
+        "Ein Schulumzug ist nicht geplant."
+      ],
+      "short": "Edward (Albert Finney) ist an Krebs erkrankt.",
+      "context": "Edward (Albert Finney) ist an Krebs erkrankt. Will (Billy Crudup) und seine Frau Joséphine (Marion Cotillard) kommen nach Alabama; die begrenzte gemeinsame Zeit verändert die Auseinandersetzung über die alten Geschichten.",
+      "anchor": "Die schwere Krankheit macht Verständigung dringlich.",
+      "interest": "Die schwere Krankheit macht Verständigung dringlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie erfährt der junge Edward (Ewan McGregor) in @ schrittweise mehr über seine spätere Frau?",
+      "answers": [
+        "Der Zirkusdirektor verrät ihm jeden Monat ein Detail.",
+        "Er findet ihre vollständige Biografie.",
+        "Sie schreibt ihm täglich einen Brief.",
+        "Die Hexe nennt ihm alle Daten."
+      ],
+      "feedback": [
+        "Amos Calloway (Danny DeVito) verrät monatlich ein Detail.",
+        "Eine vollständige Biografie liegt ihm nicht vor.",
+        "Tägliche Briefe bekommt er nicht.",
+        "Die Hexe gibt nicht diese Auskunft."
+      ],
+      "short": "Amos Calloway (Danny DeVito) verrät monatlich ein Detail.",
+      "context": "Amos Calloway (Danny DeVito) verrät monatlich ein Detail. Edwards Arbeit im Zirkus wird damit an ein langsames Versprechen gebunden, statt ihm die gesuchte Frau sofort zugänglich zu machen.",
+      "anchor": "Die Zirkusarbeit bezahlt sich zunächst in einzelnen Informationen.",
+      "interest": "Die Zirkusarbeit bezahlt sich zunächst in einzelnen Informationen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was erfährt Will (Billy Crudup) durch Jenny (Helena Bonham Carter) über Spectre in @?",
+      "answers": [
+        "Edward rettete den Ort vor dem wirtschaftlichen Ruin.",
+        "Edward hat den Ort für eine eigene Firma gekauft.",
+        "Edward hat dort ausschließlich als Bürgermeister gearbeitet.",
+        "Edward hat Jenny zum Verkauf sämtlicher Häuser gezwungen."
+      ],
+      "feedback": [
+        "Edward rettete Spectre vor dem Ruin.",
+        "Er rettete den Ort vor dem Ruin, statt nur ein eigenes Geschäft zu erwerben.",
+        "Ein Bürgermeisteramt ist nicht Jennys Enthüllung.",
+        "Eine erzwungene Veräußerung erklärt die Hilfe nicht."
+      ],
+      "short": "Edward rettete Spectre vor dem Ruin.",
+      "context": "Edward (Albert Finney) rettete Spectre vor dem Ruin. Jennys Bericht gibt einem märchenhaft erzählten Ort einen überprüfbaren Kern; Will (Billy Crudup) entdeckt damit Handlungen seines Vaters hinter dessen Selbstinszenierung.",
+      "anchor": "Hinter der Spectre-Geschichte liegt eine tatsächliche Hilfeleistung.",
+      "interest": "Hinter der Spectre-Geschichte liegt eine tatsächliche Hilfeleistung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Aufgabe übernimmt Will (Billy Crudup) am Sterbebett in @?",
+      "answers": [
+        "Er erzählt selbst eine fantastische Abschiedsgeschichte.",
+        "Er liest Edwards letzte schriftliche Chronik vor.",
+        "Er bittet einen Arzt, die Lebensgeschichte zu bestätigen.",
+        "Er verspricht Edward eine spätere vollständige Widerlegung."
+      ],
+      "feedback": [
+        "Will erzählt Edwards (Albert Finney) fantastisches Ende.",
+        "Will erfindet selbst den fantastischen Abschied.",
+        "Ein ärztliches Gutachten ist nicht die Verständigung.",
+        "Eine angekündigte Widerlegung beendet die Beziehung nicht."
+      ],
+      "short": "Will erzählt Edwards (Albert Finney) fantastisches Ende.",
+      "context": "Will (Billy Crudup) erzählt Edwards (Albert Finney) fantastisches Ende. Der zuvor ablehnende Sohn übernimmt die erzählerische Form; die Geschichte erlaubt ihnen eine Verständigung, die bloße Tatsachenprüfung nicht erreicht hatte.",
+      "anchor": "Will wird beim Abschied selbst zum Erzähler.",
+      "interest": "Will wird beim Abschied selbst zum Erzähler.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was entdeckt Will bei Edwards Beerdigung in @?",
+      "answers": [
+        "Menschen aus den Geschichten erscheinen in weniger fantastischer Gestalt.",
+        "Die Gäste bestätigen jede Übertreibung wortwörtlich.",
+        "Nur Jenny kennt den Vater tatsächlich.",
+        "Alle behaupten, Edward erst am Sterbetag kennengelernt zu haben."
+      ],
+      "feedback": [
+        "Menschen aus Edwards Geschichten erscheinen wirklich.",
+        "Die Menschen sind real, die fantastische Gestalt ist ausgeschmückt.",
+        "Mehrere Bekannte erscheinen.",
+        "Die Beziehungen reichen in Edwards Leben zurück."
+      ],
+      "short": "Menschen aus Edwards Geschichten erscheinen wirklich.",
+      "context": "Menschen aus Edwards Geschichten erscheinen wirklich. Will (Billy Crudup) erkennt zugleich die Übertreibungen; Wahrheit und Ausschmückung stehen damit nicht mehr als vollständig unvereinbare Möglichkeiten nebeneinander.",
+      "anchor": "Die Beerdigung zeigt die realen Menschen hinter den Übertreibungen.",
+      "interest": "Die Beerdigung zeigt die realen Menschen hinter den Übertreibungen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2003",
+        "2001",
+        "1998",
+        "2004"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2003.",
+        "2001 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1998 liegt fünf Jahre davor.",
+        "2004 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2003 erstmals veröffentlicht.",
+      "context": "2003 wurde der Film erstmals gezeigt. Daniel Wallaces Roman erschien 1998, fünf Jahre früher. Der breite Kinostart 2004 darf nicht an die Stelle der Dezemberpremiere treten.",
+      "anchor": "Wallaces Roman von 1998 wurde fünf Jahre später, 2003, erstmals als Film gezeigt.",
+      "interest": "Wallaces Roman von 1998 wurde fünf Jahre später, 2003, erstmals als Film gezeigt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Tim Burton",
+        "Terry Gilliam",
+        "Robert Zemeckis",
+        "Jean-Pierre Jeunet"
+      ],
+      "feedback": [
+        "Tim Burton führte Regie.",
+        "Terry Gilliam führte bei diesem Film nicht Regie.",
+        "Robert Zemeckis führte bei diesem Film nicht Regie.",
+        "Jean-Pierre Jeunet führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Tim Burton.",
+      "context": "Burton übernahm nach Steven Spielbergs Ausscheiden. Die Vater-Sohn-Versöhnung hatte für ihn nach dem Tod seines eigenen Vaters besondere Bedeutung; John August formte die episodische Vorlage zum Drehbuch.",
+      "anchor": "Burton übernahm nach Steven Spielbergs Ausscheiden.",
+      "interest": "Burton übernahm nach Steven Spielbergs Ausscheiden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

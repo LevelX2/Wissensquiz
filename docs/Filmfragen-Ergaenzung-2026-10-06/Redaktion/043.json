@@ -1,0 +1,213 @@
+{
+  "rank": 43,
+  "directors": [
+    "Chloé Zhao"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Mehrfacher Oscar-Gewinner mit Frances McDormand; Gruppe bekannte Filme.",
+  "release_note": "Venedig-Premiere 11. September 2020; breiter Kinostart 2021.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Nomadland_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie wohnt Fern (Frances McDormand) auf ihren Reisen in @?",
+      "answers": [
+        "In einem Van",
+        "In wechselnden Motelzimmern",
+        "In einem dauerhaft gemieteten Wohnwagen",
+        "Bei einer festen Gastfamilie"
+      ],
+      "feedback": [
+        "Fern wohnt in einem Van.",
+        "Motels sind nicht Ferns gewöhnliches Zuhause unterwegs.",
+        "Fern nutzt einen fahrbaren Van.",
+        "Eine feste Gastfamilie begleitet ihre Reise nicht."
+      ],
+      "short": "Fern wohnt in einem Van.",
+      "context": "Fern (Frances McDormand) wohnt in einem Van. Der Wagen ist zugleich Unterkunft und Verkehrsmittel; Reparaturen werden dadurch zu einer Bedrohung für Mobilität und Zuhause.",
+      "anchor": "Ferns Van ist Wohnung und Fahrzeug zugleich.",
+      "interest": "Ferns Van ist Wohnung und Fahrzeug zugleich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Veränderung steht am Anfang von Ferns (Frances McDormand) Reise in @?",
+      "answers": [
+        "Ihr Arbeitgeber schließt den Betrieb in Empire.",
+        "Ihr Arbeitsplatz wird in eine andere Stadt versetzt.",
+        "Sie kündigt für eine besser bezahlte Reisebeschäftigung.",
+        "Sie zieht nach dem Verkauf eines gut laufenden Betriebs weiter."
+      ],
+      "feedback": [
+        "Das Werk in Empire schließt und Fern verliert ihre Arbeit.",
+        "Der Betrieb schließt, statt Fern zu versetzen.",
+        "Ein sicherer neuer Job ist nicht der Ausgangspunkt.",
+        "Die Schließung ist kein erfolgreicher Geschäftsverkauf."
+      ],
+      "short": "Das Werk in Empire schließt und Fern verliert ihre Arbeit.",
+      "context": "Das Werk in Empire schließt und Fern (Frances McDormand) verliert ihre Arbeit. Der Tod ihres Mannes verstärkt den Verlust fester Bindungen; unterwegs sucht sie saisonale Beschäftigungen.",
+      "anchor": "Werksschließung und Trauer lösen Ferns Aufbruch aus.",
+      "interest": "Werksschließung und Trauer lösen Ferns Aufbruch aus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was bietet Bob Wells’ Zusammenkunft Fern in @ außer einem Stellplatz?",
+      "answers": [
+        "Gemeinschaft und praktische Kenntnisse für das Leben unterwegs",
+        "Eine feste Stelle in seiner Werkstatt",
+        "Eine geplante Rückkehr nach Empire",
+        "Eine langfristige Unterkunft in seinem Haus"
+      ],
+      "feedback": [
+        "Die Zusammenkunft bietet Gemeinschaft und praktische Hilfe.",
+        "Die Zusammenkunft vermittelt praktische Lebenskenntnisse.",
+        "Eine organisierte Heimkehr ist nicht ihr Angebot.",
+        "Es geht um eine Gemeinschaft unterwegs, nicht einen festen Hauseinzug."
+      ],
+      "short": "Die Zusammenkunft bietet Gemeinschaft und praktische Hilfe.",
+      "context": "Die Zusammenkunft bietet Gemeinschaft und praktische Hilfe. Bob Wells (als fiktionalisierte Version seiner selbst) versammelt Menschen, die voneinander Kenntnisse und Erfahrungen für den Alltag auf der Straße lernen.",
+      "anchor": "Unterwegssein braucht gegenseitige Hilfe.",
+      "interest": "Unterwegssein braucht gegenseitige Hilfe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wofür benötigt Fern (Frances McDormand) in @ die finanzielle Hilfe ihrer Schwester?",
+      "answers": [
+        "Für die Reparatur ihres Vans",
+        "Für eine neue Unterkunft",
+        "Für die Rückzahlung von Daves Schulden",
+        "Für eine Ausbildung zur Fahrerin"
+      ],
+      "feedback": [
+        "Fern braucht Geld für eine Van-Reparatur.",
+        "Der unmittelbare Bedarf ist die Vanreparatur.",
+        "Daves Schulden werden nicht beglichen.",
+        "Eine Fahrausbildung ist nicht der Finanzierungszweck."
+      ],
+      "short": "Fern braucht Geld für eine Van-Reparatur.",
+      "context": "Fern (Frances McDormand) braucht Geld für eine Van-Reparatur. Dolly (Melissa Smith) hilft ihr; gerade die Rückkehr zur sesshaften Familie zeigt, dass Ferns Unabhängigkeit auch auf Unterstützung angewiesen ist.",
+      "anchor": "Ein kaputter Van führt Fern zurück zur Schwester.",
+      "interest": "Ein kaputter Van führt Fern zurück zur Schwester.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie entscheidet sich Fern (Frances McDormand), als Dave (David Strathairn) ihr in @ ein dauerhaftes Zuhause anbietet?",
+      "answers": [
+        "Sie zieht nach wenigen Tagen wieder weiter.",
+        "Sie bleibt dauerhaft bei seiner Familie.",
+        "Sie zieht mit Dave in eine gemeinsame Stadtwohnung.",
+        "Sie stellt ihren Van dauerhaft vor seinem Haus ab."
+      ],
+      "feedback": [
+        "Fern entscheidet sich für die Weiterreise.",
+        "Fern verlässt das Haus wieder.",
+        "Eine Stadtwohnung beziehen sie nicht.",
+        "Der Van wird wieder Reisemittel."
+      ],
+      "short": "Fern entscheidet sich für die Weiterreise.",
+      "context": "Fern (Frances McDormand) entscheidet sich für die Weiterreise. Daves Nähe und das Gästehaus sind echte Möglichkeiten, die sie dennoch verlässt; der Film macht Sesshaftigkeit nicht zur zwangsläufigen Lösung ihrer Trauer.",
+      "anchor": "Ein angebotenes Zuhause beendet Ferns Weg nicht.",
+      "interest": "Ein angebotenes Zuhause beendet Ferns Weg nicht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Handlung markiert Ferns Rückkehr nach Empire am Ende von @?",
+      "answers": [
+        "Sie löst ihre eingelagerten Besitztümer auf.",
+        "Sie holt ihre alten Möbel für Daves Haus ab.",
+        "Sie richtet sich im verlassenen Haus wieder ein.",
+        "Sie mietet ihre frühere Wohnung langfristig neu."
+      ],
+      "feedback": [
+        "Fern löst die eingelagerten Besitztümer auf.",
+        "Sie nutzt die Möbel nicht für ein Bleiben bei Dave.",
+        "Das Haus wird besucht, nicht neu bezogen.",
+        "Eine neue dauerhafte Miete folgt nicht."
+      ],
+      "short": "Fern löst die eingelagerten Besitztümer auf.",
+      "context": "Fern (Frances McDormand) löst die eingelagerten Besitztümer auf. Sie besucht das ehemalige Werk und ihr früheres Zuhause, bevor sie weiterfährt; der Abschied verbindet die äußere Reise mit der gemeinsamen Vergangenheit.",
+      "anchor": "Empire wird besucht und schließlich losgelassen.",
+      "interest": "Empire wird besucht und schließlich losgelassen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2020",
+        "2018",
+        "2015",
+        "2021"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2020.",
+        "2018 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2015 liegt fünf Jahre davor.",
+        "2021 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2020 erstmals veröffentlicht.",
+      "context": "2020 wurde der Film in Venedig uraufgeführt. Jessica Bruders Sachbuch erschien 2017, drei Jahre davor. Der Kinofilm verbindet daraus übernommene Lebensrealitäten mit einer erfundenen Hauptfigur; sein breiter Start 2021 ändert das Premierenjahr nicht.",
+      "anchor": "Bruders Buch von 2017 wurde drei Jahre später, 2020, zum Festivalfilm.",
+      "interest": "Bruders Buch von 2017 wurde drei Jahre später, 2020, zum Festivalfilm.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Chloé Zhao",
+        "Kelly Reichardt",
+        "Debra Granik",
+        "Andrea Arnold"
+      ],
+      "feedback": [
+        "Chloé Zhao führte Regie.",
+        "Kelly Reichardt führte bei diesem Film nicht Regie.",
+        "Debra Granik führte bei diesem Film nicht Regie.",
+        "Andrea Arnold führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Chloé Zhao.",
+      "context": "Zhao schrieb, inszenierte und montierte den Film. Frances McDormand spielt Fern (Frances McDormand); echte Nomaden wie Linda May, Swankie und Bob Wells erscheinen daneben als fiktionalisierte Fassungen ihrer selbst.",
+      "anchor": "Zhao schrieb, inszenierte und montierte den Film.",
+      "interest": "Zhao schrieb, inszenierte und montierte den Film.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-088-S-2",
+      "variant_of": "SCHAUSPIELER-202610-P01-088-S-2"
+    }
+  ]
+}

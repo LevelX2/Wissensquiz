@@ -1,0 +1,218 @@
+{
+  "rank": 184,
+  "directors": [
+    "Christopher Nolan"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "familiarity_reason": "Nolans große Zeitkonstruktion erhielt breite Kinowahrnehmung; redaktionell ein bekannter Film.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 2020; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Tenet_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Tenet_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Besonderheit besitzen die invertierten Objekte in @?",
+      "answers": [
+        "Sie bewegen sich rückwärts durch die Zeit.",
+        "Sie wechseln zwischen parallelen Universen.",
+        "Sie bewegen sich nur während der Beobachtung.",
+        "Sie wiederholen eine kurze Zeitspanne automatisch."
+      ],
+      "feedback": [
+        "Invertierte Objekte haben umgekehrte Entropie und bewegen sich rückwärts durch die Zeit.",
+        "Die Bewegung betrifft die Zeitrichtung in derselben Welt.",
+        "Beobachtung aktiviert die Inversion nicht.",
+        "Die Gegenstände bewegen sich rückwärts, ohne bloße Schleifenwiederholung."
+      ],
+      "short": "Invertierte Objekte haben umgekehrte Entropie und bewegen sich rückwärts durch die Zeit.",
+      "context": "Invertierte Objekte haben umgekehrte Entropie und bewegen sich rückwärts durch die Zeit. Der Protagonist (John David Washington) muss diese Erfahrung praktisch erlernen; gewöhnliche Ursachen und sichtbare Wirkungen erscheinen aus seiner Perspektive vertauscht.",
+      "anchor": "Inversion kehrt die zeitliche Bewegungsrichtung um.",
+      "interest": "Inversion kehrt die zeitliche Bewegungsrichtung um.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Womit hält Sator (Kenneth Branagh) Kat (Elizabeth Debicki) in @ in Abhängigkeit?",
+      "answers": [
+        "Mit einem von ihr bestätigten gefälschten Gemälde",
+        "Mit einer von ihr gefälschten Reisevollmacht",
+        "Mit unterschlagenen Kundengeldern ihrer Galerie",
+        "Mit dem von ihr absichtlich beschädigten Boot"
+      ],
+      "feedback": [
+        "Sator besitzt ein gefälschtes Gemälde, das Kat als echt bestätigt hat.",
+        "Die Erpressung beruht auf ihrer Bestätigung eines gefälschten Gemäldes.",
+        "Eine solche Unterschlagung ist nicht das Druckmittel.",
+        "Der kompromittierende Kunstbefund hält sie abhängig."
+      ],
+      "short": "Sator besitzt ein gefälschtes Gemälde, das Kat als echt bestätigt hat.",
+      "context": "Sator besitzt ein gefälschtes Gemälde, das Kat als echt bestätigt hat. Er benutzt diesen belastenden Zusammenhang zur Erpressung; ihre Ehe ist so nicht nur emotional, sondern durch eine konkrete rechtliche Bedrohung eingeschränkt.",
+      "anchor": "Der gefälschte Kunstwert wird zum echten Druckmittel.",
+      "interest": "Der gefälschte Kunstwert wird zum echten Druckmittel.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum sieht der Protagonist (John David Washington) in @ beim Oslo-Freihafen zwei maskierte Kämpfer?",
+      "answers": [
+        "Es ist dieselbe Person in entgegengesetzten Zeitrichtungen.",
+        "Es sind zwei Klone aus einem Labor.",
+        "Es sind Zwillinge von Sator.",
+        "Es sind ausschließlich projizierte Trainingsbilder."
+      ],
+      "feedback": [
+        "Die beiden Erscheinungen gehören derselben Person vor und nach der Inversion.",
+        "Ein Klonlabor erklärt sie nicht.",
+        "Sators Zwillinge sind es nicht.",
+        "Der Kampf ist körperlich, keine bloße Projektion."
+      ],
+      "short": "Die beiden Erscheinungen gehören derselben Person vor und nach der Inversion.",
+      "context": "Die beiden Erscheinungen gehören derselben Person vor und nach der Inversion. Später erkennt der Protagonist seinen eigenen Anteil am Kampf; eine scheinbare Verdoppelung ist tatsächlich das Zusammentreffen verschiedener zeitlicher Zustände.",
+      "anchor": "Zwei Kämpferansichten gehören zu einem Menschen.",
+      "interest": "Zwei Kämpferansichten gehören zu einem Menschen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Warum muss die Gruppe in @ Kat (Elizabeth Debicki) selbst invertieren?",
+      "answers": [
+        "Sie wurde von einer invertierten Kugel getroffen.",
+        "Sie muss Sators nächste Zukunftsbotschaft lesen.",
+        "Sie soll ihre frühere Aussage korrigieren.",
+        "Sie kann sonst den Freihafen nicht betreten."
+      ],
+      "feedback": [
+        "Kat wird mit einer invertierten Kugel verletzt.",
+        "Die Inversion dient der Behandlung der invertierten Schussverletzung.",
+        "Keine Aussagekorrektur begründet den Eingriff.",
+        "Der Grund ist ihre Verwundung, nicht ein Zugangsrecht."
+      ],
+      "short": "Kat wird mit einer invertierten Kugel verletzt.",
+      "context": "Kat wird mit einer invertierten Kugel verletzt. Die Gruppe invertiert mit ihr, um ihre Genesung zu ermöglichen, und muss später einen weiteren Zugang zur Maschine nutzen, um wieder vorwärts zu leben.",
+      "anchor": "Die invertierte Verletzung verlangt eine invertierte Rettung.",
+      "interest": "Die invertierte Verletzung verlangt eine invertierte Rettung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was bedeutet die „zeitliche Zange“ im Finale von @?",
+      "answers": [
+        "Zwei Truppen erleben denselben Einsatz in entgegengesetzten Zeitrichtungen.",
+        "Eine Truppe greift ausschließlich nachts an.",
+        "Der Angriff findet ohne jede Kommunikation statt.",
+        "Alle Soldaten wechseln ihre Identität."
+      ],
+      "feedback": [
+        "Zwei Truppen durchlaufen den Einsatz vorwärts und rückwärts.",
+        "Nachtkampf ist nicht die Definition.",
+        "Informationstransfer gehört zum Verfahren.",
+        "Identitätswechsel ist nicht der Mechanismus."
+      ],
+      "short": "Zwei Truppen durchlaufen den Einsatz vorwärts und rückwärts.",
+      "context": "Zwei Truppen durchlaufen den Einsatz vorwärts und rückwärts. Ihre unterschiedlichen Informationen sollen denselben Ablauf absichern; der taktische Vorteil entsteht aus der zeitlichen Ergänzung, nicht aus zwei völlig getrennten Schlachten.",
+      "anchor": "Eine Schlacht wird aus beiden zeitlichen Richtungen bearbeitet.",
+      "interest": "Eine Schlacht wird aus beiden zeitlichen Richtungen bearbeitet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was erkennt der Protagonist (John David Washington) über seine Beziehung zu Neil (Robert Pattinson) am Ende von @?",
+      "answers": [
+        "Für Neil liegt ihre lange Zusammenarbeit bereits in der Vergangenheit.",
+        "Neil hat erst seit dem Osloeinsatz mit ihm gearbeitet.",
+        "Der Protagonist hat Neil zufällig ohne Vorwissen angeworben.",
+        "Neil erinnert sich an eine Zusammenarbeit mit einem Doppelgänger."
+      ],
+      "feedback": [
+        "Neil kennt den Protagonisten schon lange, weil dessen spätere Zukunft Neils frühere Vergangenheit enthält.",
+        "Neils eigene Vergangenheit umfasst bereits lange gemeinsame Arbeit.",
+        "Das Verhältnis ist durch die spätere Vergangenheit des Protagonisten vorbereitet.",
+        "Es geht um dieselben beiden Personen in unterschiedlichen zeitlichen Abschnitten."
+      ],
+      "short": "Neil kennt den Protagonisten schon lange, weil dessen spätere Zukunft Neils frühere Vergangenheit enthält.",
+      "context": "Neil kennt den Protagonisten schon lange, weil dessen spätere Zukunft Neils frühere Vergangenheit enthält. Für den Protagonisten beginnt die Beziehung, während Neil ihr Ende erlebt; dieselbe Freundschaft hat für beide unterschiedliche zeitliche Positionen.",
+      "anchor": "Der eine erlebt den Anfang einer Freundschaft, der andere ihr Ende.",
+      "interest": "Der eine erlebt den Anfang einer Freundschaft, der andere ihr Ende.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2020",
+        "2017",
+        "2013",
+        "2022"
+      ],
+      "feedback": [
+        "2020 erschien der Film.",
+        "2017 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2020 wird im zeitlichen Hintergrund erklärt.",
+        "2013 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2020 wird im zeitlichen Hintergrund erklärt.",
+        "2022 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2020 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2020 erschien der Film.",
+      "context": "2020 erschien der Film. Christopher Nolans „Inception“ stammt von 2010, genau zehn Jahre zuvor. Beide Werke verbinden einen Heist- beziehungsweise Agentenplot mit ungewöhnlichen Regeln von Wahrnehmung und Zeit; diese Dekadenverbindung ist eine Merkhilfe, keine Gleichsetzung ihrer Mechanismen.",
+      "anchor": "Inception 2010, Tenet 2020: Eine Dekade trennt Nolans zwei unterschiedlich regelgebundene Wahrnehmungswelten.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Christopher Nolan",
+        "Steven Soderbergh",
+        "Gareth Edwards",
+        "Duncan Jones"
+      ],
+      "feedback": [
+        "Christopher Nolan schrieb und inszenierte den Film.",
+        "Steven Soderbergh wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Christopher Nolan.",
+        "Gareth Edwards wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Christopher Nolan.",
+        "Duncan Jones wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Christopher Nolan."
+      ],
+      "short": "Christopher Nolan schrieb und inszenierte den Film.",
+      "context": "Christopher Nolan schrieb und inszenierte den Film. John David Washington spielt den Protagonisten, Robert Pattinson Neil. Die Handlung verbindet vorwärts und rückwärts erlebte Ereignisse; Begegnungen erhalten ihre vollständige Bedeutung häufig erst durch eine spätere zweite Perspektive.",
+      "anchor": "Christopher Nolan schrieb und inszenierte den Film.",
+      "interest": "Christopher Nolan schrieb und inszenierte den Film.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

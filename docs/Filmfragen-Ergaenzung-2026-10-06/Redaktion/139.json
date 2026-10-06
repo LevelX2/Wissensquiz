@@ -1,0 +1,216 @@
+{
+  "rank": 139,
+  "directors": [
+    "Andrew Lau",
+    "Alan Mak"
+  ],
+  "production_countries": [
+    "Hongkong"
+  ],
+  "familiarity_reason": "International einflussreicher Hongkong-Thriller, im deutschsprachigen Gesamtpublikum eher Kennerfilm.",
+  "release_note": "Hongkonger Kinostart am 12. Dezember 2002.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Infernal_Affairs",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/infernal_affairs",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher gegensätzliche Doppelauftrag prägt @?",
+      "answers": [
+        "Ein Polizist arbeitet in der Gang, ein Gangster in der Polizei.",
+        "Zwei Polizisten ermitteln unerkannt gegeneinander in derselben Gang.",
+        "Zwei Gangster versuchen unabhängig voneinander die Akademie zu übernehmen.",
+        "Ein Ermittler und sein Bruder tauschen ihre offiziellen Dienststellen."
+      ],
+      "feedback": [
+        "Beide Organisationen sind durch einen Mann der Gegenseite infiltriert.",
+        "Die Rollen sind gegensätzlich: Polizeimann in der Gang und Gangstermann in der Polizei.",
+        "Es geht nicht um zwei gleichartige Gangsteraufträge zur Akademieübernahme.",
+        "Ein bloßer Dienststellentausch beschreibt die verdeckten Identitäten nicht."
+      ],
+      "short": "Beide Organisationen sind durch einen Mann der Gegenseite infiltriert.",
+      "context": "Chan Wing-yan (Tony Leung) trägt eine Gangsteridentität für die Polizei. Lau Kin-ming (Andy Lau) trägt eine Polizeidentität für die Gangster. Das spiegelnde Konzept macht die Suche nach Verrätern wechselseitig: Beide Männer müssen die eigene Tarnung bewahren und zugleich den unsichtbaren Gegenpart finden.",
+      "anchor": "Die beiden Gegenseiten suchen den Mann, den sie selbst eingeschleust haben.",
+      "interest": "Die beiden Gegenseiten suchen den Mann, den sie selbst eingeschleust haben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie wird Chan Wing-yan (Tony Leung) in @ offiziell aus der Polizeiakademie entfernt?",
+      "answers": [
+        "Sein scheinbarer Ausschluss ist Teil des verdeckten Auftrags.",
+        "Er verlässt die Akademie nach einem freiwilligen Disziplinargeständnis.",
+        "Er wird wegen einer echten Straftat dauerhaft aus dem Dienst entlassen.",
+        "Er bricht die Ausbildung ab, um sich ohne Auftrag der Gang anzuschließen."
+      ],
+      "feedback": [
+        "Der Ausschluss schafft eine glaubhafte kriminelle Biografie.",
+        "Der Ausschluss ist nach außen inszeniert, damit Chan verdeckt arbeiten kann.",
+        "Chan bleibt tatsächlich Polizist unter geheimer Identität.",
+        "Sein Gangsterleben beginnt im Auftrag der Polizei."
+      ],
+      "short": "Der Ausschluss schafft eine glaubhafte kriminelle Biografie.",
+      "context": "Chan Wing-yan (Tony Leung) verliert nach außen seinen Platz in der Akademie, bleibt aber verdeckter Polizist. Superintendent Wong (Anthony Wong) kennt den Zusammenhang. Das ist keine gewöhnliche Berufsaufgabe; der amtlich wirkende Ausschluss schützt eine Identität, deren Bestätigung später existentiell wichtig wird.",
+      "anchor": "Der sichtbare Polizeiausschluss begründet die geheime Polizeiarbeit.",
+      "interest": "Der sichtbare Polizeiausschluss begründet die geheime Polizeiarbeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum misslingt der Polizei in @ der Zugriff bei der Drogentransaktion?",
+      "answers": [
+        "Lau warnt Hon rechtzeitig, sodass Beweise beseitigt werden.",
+        "Ein korrupter Richter verweigert im letzten Moment den Zugriff.",
+        "Der Handel wird ohne Hinweis spontan an einen anderen Hafen verlegt.",
+        "Chan wird vor der vereinbarten Nachricht festgenommen."
+      ],
+      "feedback": [
+        "Der Polizeiinfiltrator gibt die bevorstehende Aktion an den Gangchef weiter.",
+        "Die Gegenseite wird von Lau gewarnt und entfernt rechtzeitig Beweise.",
+        "Eine spontan unbekannte Hafenänderung erklärt das Scheitern nicht.",
+        "Eine vorherige Festnahme Chans ist nicht die Ursache."
+      ],
+      "short": "Der Polizeiinfiltrator gibt die bevorstehende Aktion an den Gangchef weiter.",
+      "context": "Chan (Tony Leung) meldet die Transaktion an Wong (Anthony Wong). Lau (Andy Lau) sitzt jedoch in der Polizei und kann Hon (Eric Tsang) warnen. Der Informationsweg wird damit von beiden Seiten genutzt. Gerade das Scheitern macht sichtbar, dass jede Organisation einen Verräter in den eigenen Reihen haben muss.",
+      "anchor": "Ein polizeilicher Informationsvorsprung wird über Lau wieder zum Gangstervorsprung.",
+      "interest": "Ein polizeilicher Informationsvorsprung wird über Lau wieder zum Gangstervorsprung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum ist Superintendent Wongs (Anthony Wong) Tod in @ für Chan besonders gefährlich?",
+      "answers": [
+        "Ein wichtiger Garant seiner wahren Polizeidentität geht verloren.",
+        "Chan muss nun vorläufig selbst die Polizeiaktion leiten.",
+        "Seine nächste geplante Aussage wird automatisch als Geständnis gewertet.",
+        "Hon kennt dadurch sofort Chans gesamte Personalakte."
+      ],
+      "feedback": [
+        "Wong kennt Chans wirkliche Funktion und kann für ihn einstehen.",
+        "Chan verliert einen entscheidenden Bestätiger seiner Identität, wird nicht zum Einsatzleiter.",
+        "Es gibt keine automatische Umwertung jeder Aussage zum Geständnis.",
+        "Eine sofortige Aktenübergabe an Hon ist nicht die gezeigte Folge."
+      ],
+      "short": "Wong kennt Chans wirkliche Funktion und kann für ihn einstehen.",
+      "context": "Chan Wing-yan (Tony Leung) hat jahrelang als Krimineller gelebt. Wong (Anthony Wong) ist die zentrale Verbindung zu seinem echten Auftrag. Sein Tod macht die spätere Rückkehr zur Polizei unsicher, weil die außen sichtbare Lebensgeschichte allein das Gegenteil beweist. Identität braucht hier auch eine verlässliche bezeugende Person.",
+      "anchor": "Mit Wong verliert Chan einen Menschen, der seine wahre Zugehörigkeit bestätigen kann.",
+      "interest": "Mit Wong verliert Chan einen Menschen, der seine wahre Zugehörigkeit bestätigen kann.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche neue Lebensentscheidung will Lau (Andy Lau) in @ nach dem Tod Hons erreichen?",
+      "answers": [
+        "Er möchte als guter Polizist gelten und seine Gangstervergangenheit auslöschen.",
+        "Er möchte seine Vergangenheit durch ein öffentliches Geständnis bereinigen.",
+        "Er möchte als verdeckter Ermittler in eine zweite Gang wechseln.",
+        "Er möchte die Polizeiarbeit ganz verlassen und Hon legal beerben."
+      ],
+      "feedback": [
+        "Lau sucht einen neuen moralischen Status, ohne die Vergangenheit offenzulegen.",
+        "Lau will weiter als guter Polizist gelten und die Vergangenheit verbergen, nicht offen gestehen.",
+        "Ein neuer Gangauftrag ist nicht sein Ziel.",
+        "Er möchte seine Polizeidentität behalten."
+      ],
+      "short": "Lau sucht einen neuen moralischen Status, ohne die Vergangenheit offenzulegen.",
+      "context": "Lau Kin-ming (Andy Lau) tötet Hon (Eric Tsang) und möchte die geheime Bindung beenden. Chan (Tony Leung) soll ihm einen Neuanfang ermöglichen, verweigert aber die Vertuschung. Der Konflikt unterscheidet den Wunsch, anders zu leben, von der Bereitschaft, Verantwortung für das bisherige Handeln anzunehmen.",
+      "anchor": "Lau will ein neuer Mensch sein, ohne die alte Schuld öffentlich zu tragen.",
+      "interest": "Lau will ein neuer Mensch sein, ohne die alte Schuld öffentlich zu tragen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche zusätzliche Enthüllung zerstört Chans (Tony Leung) vermeintliche Sicherheit im Aufzug von @?",
+      "answers": [
+        "Der eintreffende Inspektor ist ebenfalls ein Gangster-Maulwurf.",
+        "Der Inspektor hält Chan aufgrund einer gefälschten Einsatzmeldung für den Täter.",
+        "Lau hat bereits vor Chans Ankunft die Flucht des Inspektors organisiert.",
+        "Der Inspektor ist ein Privatdetektiv, der sich als Polizist ausgibt."
+      ],
+      "feedback": [
+        "Inspektor B ist ein weiterer von Hon eingeschleuster Mann.",
+        "Die zusätzliche Gefahr ist ein weiterer tatsächlicher Maulwurf in der Polizei.",
+        "Eine vorher geplante Flucht ist nicht die Enthüllung im Aufzug.",
+        "Der Mann ist nicht bloß ein verkleideter Privatdetektiv."
+      ],
+      "short": "Inspektor B ist ein weiterer von Hon eingeschleuster Mann.",
+      "context": "Chan (Tony Leung) versucht Lau (Andy Lau) unter Kontrolle zu halten, als Inspektor B (Gordon Lam) erscheint. Dessen scheinbare Polizeizugehörigkeit bietet keine Rettung: Er tötet Chan und offenbart seine eigene Gangsterbindung. Das Spiegelmodell des Films ist damit größer als das zunächst sichtbare Paar.",
+      "anchor": "Die zweite Polizeiuniform verbirgt einen weiteren Gegner.",
+      "interest": "Die zweite Polizeiuniform verbirgt einen weiteren Gegner.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2002",
+        "1998",
+        "2001",
+        "2005"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 2002.",
+        "1998 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "2001 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2005 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 2002.",
+      "context": "Infernal Affairs erschien 2002. Martin Scorseses US-Neubearbeitung Departed kam 2006 heraus, vier Jahre später. Der Vergleich hält Original und Remake auseinander: Das Konzept gegensätzlicher verdeckter Identitäten stammt hier aus dem Hongkonger Film, nicht aus einer nachträglichen Übertragung des amerikanischen Werkes.",
+      "anchor": "Infernal Affairs 2002, Departed 2006: vier Jahre vom Hongkonger Original zum US-Remake.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Infernal Affairs 2002, Departed 2006: vier Jahre vom Hongkonger Original zum US-Remake.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Andrew Lau und Alan Mak",
+        "Johnnie To und Wai Ka-fai",
+        "John Woo und Tsui Hark",
+        "Wong Kar-wai und Christopher Doyle"
+      ],
+      "feedback": [
+        "Andrew Lau und Alan Mak führten Regie.",
+        "Johnnie To und Wai Ka-fai gehören nicht zum Regiecredit dieser Filmfassung.",
+        "John Woo und Tsui Hark gehören nicht zum Regiecredit dieser Filmfassung.",
+        "Wong Kar-wai und Christopher Doyle gehören nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Andrew Lau und Alan Mak.",
+      "context": "Andrew Lau und Alan Mak führten gemeinsam Regie. Tony Leung spielt den verdeckten Polizisten Chan, Andy Lau den kriminellen Polizeiinfiltrator Lau. Die gemeinsame Regie ist als Teamcredit zu führen; die prominente Namensgleichheit des Regisseurs Andrew Lau mit dem Darsteller Andy Lau ersetzt keine zweite Regiezuständigkeit.",
+      "anchor": "Andrew Lau und Alan Mak: Tony Leung spielt den verdeckten Polizisten Chan, Andy Lau den kriminellen Polizeiinfiltrator Lau.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

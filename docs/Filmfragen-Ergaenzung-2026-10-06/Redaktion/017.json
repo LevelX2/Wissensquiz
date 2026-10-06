@@ -1,0 +1,214 @@
+{
+  "rank": 17,
+  "directors": [
+    "Baltasar Kormákur"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA",
+    "Island"
+  ],
+  "familiarity_reason": "Ein bekannter Katastrophenfilm mit großem Ensemble; die genauen Entscheidungen am Berg sind weniger geläufig.",
+  "release_note": "Erste Veröffentlichung als Eröffnungsfilm in Venedig am 2. September 2015.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Everest_(2015_film)",
+    "universal": "https://corporate.comcast.com/news-information/news-feed/universal-reaches-the-peak-of-extreme-filmmaking-with-everest"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufgabe hat Rob Hall (Jason Clarke) in @ gegenüber seinen zahlenden Kunden?",
+      "answers": [
+        "Er führt ihre Bergexpedition.",
+        "Er überwacht als Arzt die Gesundheit mehrerer Teams.",
+        "Er begleitet die Gruppe als Wetterreporter.",
+        "Er liefert Ausrüstung und bleibt im Basislager."
+      ],
+      "feedback": [
+        "Hall führt die kommerzielle Bergexpedition.",
+        "Hall leitet die Expedition, statt nur ihre medizinische Versorgung zu übernehmen.",
+        "Er ist der Bergführer, nicht der begleitende Wetterreporter.",
+        "Er führt die Kunden am Berg und ist nicht ausschließlich Ausrüstungslieferant."
+      ],
+      "short": "Rob Hall ist der Leiter einer kommerziellen Bergexpedition.",
+      "context": "Die Kunden bringen unterschiedliche Erfahrung und persönliche Wünsche mit. Hall muss ihre Ziele mit den Bedingungen am Berg verbinden. Führung bedeutet hier zugleich Begleitung und Verantwortung für sichere Entscheidungen.",
+      "anchor": "Hall führt Kunden zum Gipfel und trägt Verantwortung für den Rückweg.",
+      "interest": "Die Ausgangsrolle erklärt den Entscheidungskonflikt.",
+      "sources": [
+        "handlung",
+        "universal"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Wetterereignis macht den Abstieg in @ zur Katastrophe?",
+      "answers": [
+        "Ein heftiger Schneesturm",
+        "Ein anhaltender Starkregen",
+        "Eine ungewöhnlich lange Hitzeperiode",
+        "Ein kurzer Hagelschauer"
+      ],
+      "feedback": [
+        "Der Schneesturm verschlechtert Sicht und Überlebenschancen.",
+        "Der heftige Schneesturm ist die entscheidende Wetterkatastrophe.",
+        "Eine Hitzeperiode macht den Abstieg hier nicht zur Katastrophe.",
+        "Ein kurzer Hagelschauer erklärt die lebensbedrohliche Lage nicht."
+      ],
+      "short": "Ein heftiger Schneesturm trifft die Bergsteiger.",
+      "context": "Der Gipfel ist nur die Hälfte der Aufgabe. Der Sturm trifft erschöpfte Menschen, die wieder in tiefere Lager gelangen müssen. Die Bedingungen verschärfen dadurch die Folgen bereits entstandener Verzögerungen.",
+      "anchor": "Der Gipfelweg endet nicht oben: Im Sturm wird der Rückweg lebensentscheidend.",
+      "interest": "Das Ereignis erschließt den zentralen Überlebenskonflikt.",
+      "sources": [
+        "universal",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Entscheidung trifft Rob Hall (Jason Clarke) in @ trotz der überschrittenen sicheren Rückkehrzeit?",
+      "answers": [
+        "Er begleitet Doug Hansen noch zum Gipfel.",
+        "Er schickt alle Kunden sofort ins Basislager zurück.",
+        "Er beendet jede weitere Gipfelbewegung.",
+        "Er lässt die Touristen mit einem Helikopter starten."
+      ],
+      "feedback": [
+        "Doug Hansen setzt seinen Gipfelversuch mit Hall fort.",
+        "Die Entscheidung ist gerade nicht der sofortige gemeinsame Rückzug.",
+        "Hall bricht diesen Gipfelversuch nicht rechtzeitig ab.",
+        "Ein Helikopter übernimmt den Gipfelaufstieg nicht."
+      ],
+      "short": "Hall steigt mit Doug Hansen trotz der späten Stunde weiter.",
+      "context": "Doug Hansen (John Hawkes) fürchtet, keine weitere Chance zu bekommen. Hall lässt sich auf den späteren Aufstieg ein. Der persönliche Wunsch kollidiert mit dem Zeitplan, der für den Abstieg vor Dunkelheit vorgesehen war.",
+      "anchor": "Dougs Gipfelwunsch überschreitet Halls sicheren Zeitplan.",
+      "interest": "Die Entscheidung verbindet menschlichen Wunsch und konkrete Gefahr.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum vereinbaren Rob Hall (Jason Clarke) und Scott Fischer (Jake Gyllenhaal) in @ Zusammenarbeit?",
+      "answers": [
+        "Sie wollen Verzögerungen durch zu viele Kletterer verringern.",
+        "Sie müssen auf behördliche Anweisung ihre Unternehmen zusammenlegen.",
+        "Sie wollen sämtliche Kosten auf eine gemeinsame Abrechnung verlagern.",
+        "Sie wollen eine gemeinsame Expedition für einen Sponsor veranstalten."
+      ],
+      "feedback": [
+        "Die Überfüllung auf dem Aufstiegsweg gefährdet den Zeitplan.",
+        "Die Zusammenarbeit soll den Andrang und Verzögerungen am Berg begrenzen.",
+        "Die Lösung zielt auf den Ablauf am Berg, nicht auf eine neue gemeinsame Abrechnung.",
+        "Ein gemeinsamer Sponsorenauftrag ist nicht der Grund der Absprache."
+      ],
+      "short": "Zusammenarbeit soll die Folgen der Überfüllung am Berg mindern.",
+      "context": "Die beiden kommerziellen Expeditionen konkurrieren zunächst miteinander. An engen Stellen kann Konkurrenz jedoch zusätzliche Verzögerungen bedeuten. Der gemeinsame Weg zwingt die Leiter, die Sicherheitslage über die Trennung ihrer Unternehmen zu stellen.",
+      "anchor": "Konkurrenten müssen auf einem überfüllten Berg zusammenarbeiten.",
+      "interest": "Der Zusammenhang erklärt ein praktisches Problem kommerzieller Expeditionen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie wird Rob Hall (Jason Clarke) in @ in seiner letzten Verbindung zu Hause unterstützt?",
+      "answers": [
+        "Das Basislager stellt eine Verbindung zu seiner Frau Jan her.",
+        "Ein mitreisender Journalist ruft Jan über sein eigenes Satellitentelefon an.",
+        "Die Rettungsmannschaft nimmt eine Nachricht auf und spielt sie Jan später vor.",
+        "Hall erhält über Funk eine bereits aufgezeichnete Nachricht von Jan."
+      ],
+      "feedback": [
+        "Helen ermöglicht über die Kommunikation des Lagers das Gespräch.",
+        "Die Verbindung wird vom Basislager vermittelt, nicht durch einen Journalisten vor Ort.",
+        "Es handelt sich um eine direkte Verbindung, keine spätere Wiedergabe einer Aufnahme.",
+        "Jan spricht über die vermittelte Verbindung, nicht über eine vorher aufgezeichnete Nachricht."
+      ],
+      "short": "Die Kommunikation des Basislagers verbindet Hall mit Jan.",
+      "context": "Helen Wilton (Emily Watson) versucht, Rob über Jans Stimme zum Weiterkämpfen zu bewegen. Jan (Keira Knightley) ist schwanger und wartet zu Hause. Die Technik überbrückt die Entfernung, kann die körperliche Isolation am Berg aber nicht aufheben.",
+      "anchor": "Halls letzter Kontakt zu Jan führt über das Basislager.",
+      "interest": "Die Szene verknüpft Kommunikationshilfe und persönliche Grenze einer Rettung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie entstand die extreme Bergwelt für @ laut Universal?",
+      "answers": [
+        "Aus Nepalaufnahmen, italienischen Gebirgsorten und einem englischen Studio",
+        "Aus ausschließlich am Everest gedrehten Originalaufnahmen",
+        "Aus norwegischen Außenaufnahmen ohne ergänzende Studioarbeit",
+        "Aus einem englischen Studio ohne Bergaufnahmen vor Ort"
+      ],
+      "feedback": [
+        "Die Produktion verband diese realen und kontrollierten Schauplätze.",
+        "Die Produktion kombinierte mehrere reale Regionen mit Studioarbeit.",
+        "Universal nennt Nepal, italienische Gebirgsorte und Studioaufnahmen, nicht ausschließlich Norwegen.",
+        "Der Film nutzte reale Berglandschaften zusätzlich zur englischen Studioarbeit."
+      ],
+      "short": "Die Produktion kombinierte Nepal, Italien und ein Studio in England.",
+      "context": "Die Darsteller und das Team arbeiteten zunächst in Nepal und anschließend in italienischen Hochgebirgsorten. Pinewood ermöglichte kontrollierbare Bedingungen für weitere Szenen. Mehrere Drehumgebungen tragen so den Eindruck einer einzigen gefährlichen Expedition.",
+      "anchor": "Nepal, italienische Berge und Pinewood bilden gemeinsam die Filmexpedition.",
+      "interest": "Die Herstellung erklärt den Unterschied zwischen dargestellter Gefahr und Drehumgebung.",
+      "sources": [
+        "universal"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Jason Clarke als Rob Hall erstmals veröffentlicht?",
+      "answers": [
+        "2015",
+        "1996",
+        "2005",
+        "2020"
+      ],
+      "feedback": [
+        "Die Venedig-Premiere lag 2015.",
+        "1996 ist das Jahr der dargestellten Katastrophe.",
+        "2005 liegt vor der Filmveröffentlichung.",
+        "2020 ist nach dem ersten Filmstart."
+      ],
+      "short": "Der Film wurde 2015 erstmals veröffentlicht.",
+      "context": "Die dargestellte Katastrophe ereignete sich 1996. Der Spielfilm erschien 2015, neunzehn Jahre später. Ereignisjahr und Filmjahr werden dadurch als zwei verschiedene Zeitpunkte verständlich.",
+      "anchor": "1996 die Katastrophe, 2015 der Film: neunzehn Jahre Abstand.",
+      "interest": "Der historische Anlass liefert einen präzisen Zeitanker.",
+      "sources": [
+        "handlung",
+        "universal"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Jason Clarke und Jake Gyllenhaal Regie?",
+      "answers": [
+        "Baltasar Kormákur",
+        "Renny Harlin",
+        "Nicolas Winding Refn",
+        "Thomas Vinterberg"
+      ],
+      "feedback": [
+        "Kormákur führte Regie.",
+        "Harlin inszenierte diesen Film nicht.",
+        "Refn ist nicht der Regisseur dieser Fassung.",
+        "Vinterberg führte hier nicht Regie."
+      ],
+      "short": "Baltasar Kormákur führte Regie.",
+      "context": "Kormákur war auch als Produzent beteiligt. William Nicholson und Simon Beaufoy schrieben das Drehbuch. Die Verantwortung für die Inszenierung ist damit von der gemeinsamen Autorenarbeit zu unterscheiden.",
+      "anchor": "Kormákur inszeniert; Nicholson und Beaufoy schreiben.",
+      "interest": "Die Creditzuordnung wird durch konkrete Filmaufgaben erklärt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

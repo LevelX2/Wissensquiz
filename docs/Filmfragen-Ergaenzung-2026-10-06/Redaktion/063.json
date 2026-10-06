@@ -1,0 +1,221 @@
+{
+  "rank": 63,
+  "directors": [
+    "Hayao Miyazaki"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Bekannter Ghibli-Fantasyfilm mit breiter internationaler Präsenz.",
+  "release_note": "Japanischer Kinostart 12. Juli 1997.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Princess_Mononoke",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://www.ghibli.jp/works/mononoke/",
+      "supports": "Offizielle japanische Filmidentität, Veröffentlichung und alleiniger Hauptregiecredit."
+    },
+    "chronik": {
+      "url": "https://www.ghibli.jp/chronology/",
+      "supports": "Japanischer Verleiheinnahmenerfolg Oktober 1997."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was treibt Ashitaka in @ auf die Reise?",
+      "answers": [
+        "Ein tödlicher Fluch an seinem Arm",
+        "Ein königlicher Auftrag zur Eisenstadt",
+        "Die Suche nach seiner entführten Schwester",
+        "Ein freiwilliger Beitritt zu Eboshis Heer"
+      ],
+      "feedback": [
+        "Ashitaka (Originalstimme Yōji Matsuda) trägt nach dem Kampf einen Fluch am Arm.",
+        "Sein Fluch erzwingt die Reise.",
+        "Eine entführte Schwester sucht er nicht.",
+        "Ein Heeresbeitritt ist nicht sein Ausgangsziel."
+      ],
+      "short": "Ashitaka (Originalstimme Yōji Matsuda) trägt nach dem Kampf einen Fluch am Arm.",
+      "context": "Ashitaka (Originalstimme Yōji Matsuda) trägt nach dem Kampf einen Fluch am Arm. Er reist nach Westen, um dessen Ursprung zu verstehen und eine Heilung zu suchen.",
+      "anchor": "Der verletzte Arm treibt Ashitaka nach Westen.",
+      "interest": "Der verletzte Arm treibt Ashitaka nach Westen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Tiere haben San in @ großgezogen?",
+      "answers": [
+        "Wölfe",
+        "Bären",
+        "Hirsche",
+        "Falken"
+      ],
+      "feedback": [
+        "San (Originalstimme Yuriko Ishida) wurde von Wölfen großgezogen.",
+        "Bären sind nicht ihre Familie.",
+        "Hirsche haben sie nicht aufgezogen.",
+        "Falken übernehmen diese Rolle nicht."
+      ],
+      "short": "San (Originalstimme Yuriko Ishida) wurde von Wölfen großgezogen.",
+      "context": "San (Originalstimme Yuriko Ishida) wurde von Wölfen großgezogen. Ihre Verbundenheit mit dem Wald steht gegen die Eisenstadt, obwohl sie selbst ein Mensch ist.",
+      "anchor": "Die menschliche San gehört zur Wolfsfamilie.",
+      "interest": "Die menschliche San gehört zur Wolfsfamilie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was gibt Eboshi in @ gesellschaftlich ausgegrenzten Menschen?",
+      "answers": [
+        "Arbeit und Schutz in der Eisenstadt",
+        "Ein eigenes Gebiet außerhalb der Stadt",
+        "Einen Platz allein bei den Waldgöttern",
+        "Eine Rückkehr zu ihren früheren Arbeitgebern"
+      ],
+      "feedback": [
+        "Eboshi (Originalstimme Yūko Tanaka) bietet Frauen und an Lepra Erkrankten Arbeit und Schutz.",
+        "Eboshi integriert sie in die Eisenstadt.",
+        "Die Hilfe erfolgt in menschlicher Arbeit und Schutz.",
+        "Sie schickt die Menschen nicht bloß zu früheren Arbeitgebern zurück."
+      ],
+      "short": "Eboshi (Originalstimme Yūko Tanaka) bietet Frauen und an Lepra Erkrankten Arbeit und Schutz.",
+      "context": "Eboshi (Originalstimme Yūko Tanaka) bietet Frauen und an Lepra Erkrankten Arbeit und Schutz. Die zerstörerische Gegnerin des Waldes besitzt damit zugleich eine fürsorgliche soziale Seite.",
+      "anchor": "Die Eisenstadt zerstört Wald und bietet Menschen Zuflucht.",
+      "interest": "Die Eisenstadt zerstört Wald und bietet Menschen Zuflucht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Verbindung hat Eboshi zu dem Eber, dessen Angriff Ashitaka verflucht, in @?",
+      "answers": [
+        "Ihre Kugel steckt in seinem Körper.",
+        "Sie hat ihn mit einem Eisenkäfig gefangen.",
+        "Sie hat ihn durch San in die Stadt gelockt.",
+        "Sie hat ihn als Schutzgott ihrer Siedlung gehalten."
+      ],
+      "feedback": [
+        "Eboshi (Originalstimme Yūko Tanaka) hat den Eber angeschossen.",
+        "Die Kugel verbindet sie mit seiner Verletzung.",
+        "San lockt ihn nicht in ihrem Auftrag.",
+        "Ein städtischer Schutzgott war er nicht."
+      ],
+      "short": "Eboshi (Originalstimme Yūko Tanaka) hat den Eber angeschossen.",
+      "context": "Eboshi (Originalstimme Yūko Tanaka) hat den Eber angeschossen. Das Eisen in seinem Körper verbindet den Fluch Ashitakas (Originalstimme Yōji Matsuda) mit den Waffen der Eisenstadt.",
+      "anchor": "Die Eisenkugel verbindet Ashitakas Fluch mit Eboshis Stadt.",
+      "interest": "Die Eisenkugel verbindet Ashitakas Fluch mit Eboshis Stadt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum will Jigo in @ den Kopf des Waldgottes erlangen?",
+      "answers": [
+        "Der Kaiser erhofft sich davon Unsterblichkeit.",
+        "Er möchte Eboshis Stadt vom Fluch befreien.",
+        "Er will San für eine Gefangene austauschen.",
+        "Er braucht den Kopf als Zeichen für einen Friedensvertrag."
+      ],
+      "feedback": [
+        "Jigo (Originalstimme Kaoru Kobayashi) will den Kopf für den Kaiser.",
+        "Der kaiserliche Unsterblichkeitswunsch bestimmt den Auftrag.",
+        "Ein Gefangenenaustausch ist nicht der Zweck.",
+        "Der Kopf ist keine friedliche Vertragsbedingung."
+      ],
+      "short": "Jigo (Originalstimme Kaoru Kobayashi) will den Kopf für den Kaiser.",
+      "context": "Jigo (Originalstimme Kaoru Kobayashi) will den Kopf für den Kaiser. Die erhoffte Unsterblichkeit macht ein lebendes Naturwesen zur begehrten Beute mit katastrophalen Folgen.",
+      "anchor": "Der Unsterblichkeitswunsch führt zur Enthauptung des Waldgottes.",
+      "interest": "Der Unsterblichkeitswunsch führt zur Enthauptung des Waldgottes.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie gestalten San und Ashitaka ihre Zukunft am Ende von @?",
+      "answers": [
+        "Sie bleiben in verschiedenen Lebenswelten und wollen sich besuchen.",
+        "San zieht dauerhaft in die Eisenstadt.",
+        "Ashitaka trennt sich endgültig von San.",
+        "Beide bleiben gemeinsam ohne Kontakt zu den Menschen im Wald."
+      ],
+      "feedback": [
+        "San (Originalstimme Yuriko Ishida) bleibt im Wald, Ashitaka (Originalstimme Yōji Matsuda) hilft beim Wiederaufbau der Stadt.",
+        "San bleibt im Wald.",
+        "Weitere Besuche sind vereinbart.",
+        "Ashitaka hilft beim Wiederaufbau der Stadt."
+      ],
+      "short": "San (Originalstimme Yuriko Ishida) bleibt im Wald, Ashitaka (Originalstimme Yōji Matsuda) hilft beim Wiederaufbau der Stadt.",
+      "context": "San (Originalstimme Yuriko Ishida) bleibt im Wald, Ashitaka (Originalstimme Yōji Matsuda) hilft beim Wiederaufbau der Stadt. Ihre Zuneigung beseitigt die unterschiedlichen Bindungen nicht; sie wollen sich weiterhin treffen.",
+      "anchor": "Zuneigung bedeutet hier nicht denselben Wohnort.",
+      "interest": "Zuneigung bedeutet hier nicht denselben Wohnort.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1997",
+        "1995",
+        "1992",
+        "1998"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1997.",
+        "1995 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1992 liegt fünf Jahre davor.",
+        "1998 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1997 erstmals veröffentlicht.",
+      "context": "1997 erschien der Film in Japan und übertraf dort noch im selben Jahr die bisherigen Verleiheinnahmen von E.T. Die Studiogeschichte nennt diesen Durchbruch ausdrücklich für Oktober 1997; Kinostart und Erfolg gehören somit zum selben Jahr.",
+      "anchor": "1997 erschien der Film und übertraf noch im selben Jahr die japanischen E.T.-Verleiheinnahmen.",
+      "interest": "1997 erschien der Film und übertraf noch im selben Jahr die japanischen E.T.-Verleiheinnahmen.",
+      "sources": [
+        "studio",
+        "chronik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Hayao Miyazaki",
+        "Isao Takahata",
+        "Mamoru Oshii",
+        "Satoshi Kon"
+      ],
+      "feedback": [
+        "Hayao Miyazaki führte Regie.",
+        "Isao Takahata führte bei diesem Film nicht Regie.",
+        "Mamoru Oshii führte bei diesem Film nicht Regie.",
+        "Satoshi Kon führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Hayao Miyazaki.",
+      "context": "Miyazaki stellt Waldgötter und Eisenstadt gegeneinander, ohne alle Bewohner einer Seite gleich zu beurteilen. Ashitaka (Originalstimme Yōji Matsuda) versucht zwischen Lebensgrundlage, sozialer Fürsorge und Naturzerstörung zu vermitteln.",
+      "anchor": "Miyazaki stellt Waldgötter und Eisenstadt gegeneinander, ohne alle Bewohner einer Seite gleich zu beurteilen.",
+      "interest": "Miyazaki stellt Waldgötter und Eisenstadt gegeneinander, ohne alle Bewohner einer Seite gleich zu beurteilen.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

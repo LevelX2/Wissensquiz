@@ -1,0 +1,217 @@
+{
+  "rank": 234,
+  "directors": [
+    "Andrew Dominik"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekannter später Jesse-James-Western mit Brad Pitt, Casey Affleck und Roger Deakins’ markanter Kamera.",
+  "release_note": "Erste Veröffentlichung 2007 bei den Filmfestspielen von Venedig; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Assassination_of_Jesse_James_by_the_Coward_Robert_Ford",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Assassination_of_Jesse_James_by_the_Coward_Robert_Ford",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie begegnet der junge Robert Ford Jesse James in @ zunächst?",
+      "answers": [
+        "Als begeisterter Bewunderer",
+        "Als beauftragter Polizeivernehmer",
+        "Als bekannter Familienanwalt",
+        "Als konkurrierender Bandenführer"
+      ],
+      "feedback": [
+        "Robert Ford (Casey Affleck) bewundert Jesse James (Brad Pitt) und möchte in seine Nähe kommen.",
+        "Er beginnt nicht als Vernehmer.",
+        "Er ist kein Anwalt.",
+        "Er führt keine Konkurrenzbande."
+      ],
+      "short": "Robert Ford (Casey Affleck) bewundert Jesse James (Brad Pitt) und möchte in seine Nähe kommen.",
+      "context": "Robert Ford (Casey Affleck) bewundert Jesse James (Brad Pitt) und möchte in seine Nähe kommen. Das ungleiche Verhältnis zwischen Idol und Anhänger prägt die spätere Entwicklung von Kränkung und Verrat.",
+      "anchor": "Die Verehrung macht die spätere Kränkung besonders wirksam.",
+      "interest": "Die Verehrung macht die spätere Kränkung besonders wirksam.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wobei hilft Ford Jesse in @ nach dem Zugraub zunächst im privaten Alltag?",
+      "answers": [
+        "Beim Umzug und Möbeltragen",
+        "Bei einer ärztlichen Behandlung",
+        "Bei der Ernte auf dessen Farm",
+        "Bei einer öffentlichen Wahlkampfrede"
+      ],
+      "feedback": [
+        "Jesse (Brad Pitt) behält Robert Ford (Casey Affleck) zunächst bei sich, um beim Umzug zu helfen.",
+        "Eine Behandlung ist nicht die Aufgabe.",
+        "Die Farmarbeit ist nicht der Anlass.",
+        "Jesse führt keine öffentliche Wahlkampagne."
+      ],
+      "short": "Jesse (Brad Pitt) behält Robert Ford (Casey Affleck) zunächst bei sich, um beim Umzug zu helfen.",
+      "context": "Jesse (Brad Pitt) behält Robert Ford (Casey Affleck) zunächst bei sich, um beim Umzug zu helfen. Die unspektakuläre Nähe verstärkt Fords Wunsch, am Leben seines Idols teilzuhaben.",
+      "anchor": "Das Möbeltragen gibt dem Bewunderer Zugang zum privaten Idol.",
+      "interest": "Das Möbeltragen gibt dem Bewunderer Zugang zum privaten Idol.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche frühere Tötung muss Robert Ford in @ vor Jesse verbergen?",
+      "answers": [
+        "Die von Jesses Cousin Wood Hite",
+        "Die von Jesses Frau",
+        "Die des Gouverneurs von Missouri",
+        "Die von Jesses Bruder Frank"
+      ],
+      "feedback": [
+        "Robert Ford (Casey Affleck) erschießt Wood Hite (Jeremy Renner) bei einem Konflikt mit Dick Liddil.",
+        "Jesses Frau lebt.",
+        "Der Gouverneur wird nicht getötet.",
+        "Frank wird nicht von Robert erschossen."
+      ],
+      "short": "Robert Ford (Casey Affleck) erschießt Wood Hite (Jeremy Renner) bei einem Konflikt mit Dick Liddil.",
+      "context": "Robert Ford (Casey Affleck) erschießt Wood Hite (Jeremy Renner) bei einem Konflikt mit Dick Liddil (Paul Schneider). Die verborgene Tat verschärft die Angst vor Jesse (Brad Pitt) und macht eine Begnadigung attraktiv.",
+      "anchor": "Der versteckte Mord macht die Nähe zum Idol gefährlich.",
+      "interest": "Der versteckte Mord macht die Nähe zum Idol gefährlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was verspricht der Gouverneur Ford in @ für die Auslieferung oder Tötung Jesses?",
+      "answers": [
+        "Eine Belohnung und Begnadigung",
+        "Eine verdeckte Anstellung bei der Bahnpolizei.",
+        "Den Straferlass allein für seinen Bruder Charley.",
+        "Freies Geleit außer Landes ohne Geldzahlung."
+      ],
+      "feedback": [
+        "Ford (Casey Affleck) erhält die Aussicht auf Geld und Begnadigung für den Mord an Wood Hite.",
+        "Die konkrete Zusage lautet Belohnung und Begnadigung.",
+        "Robert soll für den Mord an Wood Hite begnadigt und für Jesse belohnt werden.",
+        "Der Handel umfasst eine Belohnung und eine Begnadigung."
+      ],
+      "short": "Ford (Casey Affleck) erhält die Aussicht auf Geld und Begnadigung für den Mord an Wood Hite.",
+      "context": "Ford (Casey Affleck) erhält die Aussicht auf Geld und Begnadigung für den Mord an Wood Hite. Der Handel mit der Staatsmacht bietet einen Ausweg aus der eigenen Schuld und der Furcht vor Jesse.",
+      "anchor": "Die Begnadigung verknüpft den geplanten Verrat mit eigener Straflosigkeit.",
+      "interest": "Die Begnadigung verknüpft den geplanten Verrat mit eigener Straflosigkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welchen Gegenstand benutzt Ford in @ bei der Tötung Jesses?",
+      "answers": [
+        "Den Revolver, den Jesse ihm selbst geschenkt hat",
+        "Ein Gewehr aus dem letzten Zugraub",
+        "Eine gestohlene Dienstwaffe des Sheriffs",
+        "Ein Messer aus Jesses Küche"
+      ],
+      "feedback": [
+        "Ford (Casey Affleck) schießt mit dem Revolver, den Jesse (Brad Pitt) ihm als Geste der Annäherung geschenkt hat.",
+        "Ein geraubtes Gewehr ist nicht die Waffe.",
+        "Sie stammt nicht vom Sheriff.",
+        "Ein Küchenmesser verwendet er nicht."
+      ],
+      "short": "Ford (Casey Affleck) schießt mit dem Revolver, den Jesse (Brad Pitt) ihm als Geste der Annäherung geschenkt hat.",
+      "context": "Ford (Casey Affleck) schießt mit dem Revolver, den Jesse (Brad Pitt) ihm als Geste der Annäherung geschenkt hat. Das Geschenk wird zum Werkzeug des Verrats, während Jesse unbewaffnet ein Bild säubert.",
+      "anchor": "Das Vertrauensgeschenk wird zur Mordwaffe.",
+      "interest": "Das Vertrauensgeschenk wird zur Mordwaffe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie versuchen die Ford-Brüder in @ später, mit dem Mord Geld zu verdienen?",
+      "answers": [
+        "Sie spielen die Tat auf Theaterbühnen nach",
+        "Sie verkaufen Erinnerungsstücke auf Vortragsreisen.",
+        "Sie verkaufen ihre Aussage exklusiv an eine Zeitung.",
+        "Sie lassen einen Jahrmarkt mit Jesses Wachsfigur errichten."
+      ],
+      "feedback": [
+        "Robert (Casey Affleck) und Charley Ford (Sam Rockwell) führen den Mord im Theater vor.",
+        "Die Brüder stellen den Mord auf Theaterbühnen nach.",
+        "Die szenische Wiederholung der Tat ist ihre Einnahmequelle.",
+        "Sie führen die Tat selbst vor Publikum auf."
+      ],
+      "short": "Robert (Casey Affleck) und Charley Ford (Sam Rockwell) führen den Mord im Theater vor.",
+      "context": "Robert (Casey Affleck) und Charley Ford (Sam Rockwell) führen den Mord im Theater vor. Der zunächst lukrative Ruhm kippt in öffentliche Verachtung; Jesse wird zum Mythos und Robert zum beschimpften Feigling.",
+      "anchor": "Die wiederholte Tat vermarktet den Ruhm, verstetigt aber auch die Schande.",
+      "interest": "Die wiederholte Tat vermarktet den Ruhm, verstetigt aber auch die Schande.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "2004",
+        "2000",
+        "2009"
+      ],
+      "feedback": [
+        "2007 erschien der Film.",
+        "2004 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt.",
+        "2000 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt.",
+        "2009 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2007 erschien der Film.",
+      "context": "2007 erschien der Film. Jesse James starb 1882; 125 Jahre später untersucht diese Darstellung, wie der bekannte Mord und seine Wiederaufführungen aus Täter und Opfer gegensätzliche öffentliche Bilder machen.",
+      "anchor": "Jesse James’ Tod 1882, Film 2007: 125 Jahre später untersucht Dominik den öffentlichen Mythos des Mordes.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Andrew Dominik",
+        "John Hillcoat",
+        "Tommy Lee Jones",
+        "Jane Campion"
+      ],
+      "feedback": [
+        "Andrew Dominik schrieb und inszenierte die Romanadaption.",
+        "John Hillcoat wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Andrew Dominik.",
+        "Tommy Lee Jones wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Andrew Dominik.",
+        "Jane Campion wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Andrew Dominik."
+      ],
+      "short": "Andrew Dominik schrieb und inszenierte die Romanadaption.",
+      "context": "Andrew Dominik schrieb und inszenierte die Romanadaption. Der Film beobachtet lange den Abstand zwischen Fords Bewunderung und James’ Misstrauen, statt nur auf den im Titel angekündigten Mord zuzusteuern.",
+      "anchor": "Andrew Dominik schrieb und inszenierte die Romanadaption.",
+      "interest": "Andrew Dominik schrieb und inszenierte die Romanadaption.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

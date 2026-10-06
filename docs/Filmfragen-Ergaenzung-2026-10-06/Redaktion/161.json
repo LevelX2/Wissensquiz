@@ -1,0 +1,217 @@
+{
+  "rank": 161,
+  "directors": [
+    "Howard Hawks"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein Schlüsselwerk der Screwball-Komödie; außerhalb eines an Klassikern interessierten Publikums weniger präsent.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1938; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Bringing_Up_Baby",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Bringing_Up_Baby",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was erforscht David Huxley (Cary Grant) in @ beruflich?",
+      "answers": [
+        "Fossile Tiere",
+        "Sternbewegungen",
+        "Meeresströmungen",
+        "Alte Sprachen"
+      ],
+      "feedback": [
+        "David Huxley arbeitet als Paläontologe.",
+        "Er ist kein Astronom.",
+        "Er betreibt keine Meereskunde.",
+        "Er ist kein Sprachforscher."
+      ],
+      "short": "David Huxley arbeitet als Paläontologe.",
+      "context": "David Huxley arbeitet als Paläontologe. Er setzt im Museum ein Dinosaurierskelett zusammen; ausgerechnet der noch fehlende Knochen gerät später in das Chaos um Susan Vance (Katharine Hepburn). Seine wissenschaftliche Ordnung steht ihrer Spontaneität gegenüber.",
+      "anchor": "Das geordnete Fossilprojekt trifft auf Susans Unordnung.",
+      "interest": "Das geordnete Fossilprojekt trifft auf Susans Unordnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was plant David Huxley (Cary Grant) unmittelbar vor seinen turbulenten Begegnungen in @?",
+      "answers": [
+        "Seine Hochzeit",
+        "Eine Forschungsreise",
+        "Einen Museumsumzug",
+        "Eine Pensionierung"
+      ],
+      "feedback": [
+        "David steht kurz vor seiner Hochzeit mit Alice Swallow (Virginia Walker).",
+        "Die Begegnungen liegen kurz vor seiner Hochzeit, nicht vor einer neuen Expedition.",
+        "Das Museum ist nicht vor einem Umzug; David erwartet eine Hochzeit.",
+        "David steht weiterhin mitten im Beruf und plant seine Heirat."
+      ],
+      "short": "David steht kurz vor seiner Hochzeit mit Alice Swallow (Virginia Walker).",
+      "context": "David steht kurz vor seiner Hochzeit mit Alice Swallow (Virginia Walker). Susan Vance (Katharine Hepburn) hält ihn mit immer neuen Verwicklungen bei sich. Deshalb gefährdet das Abenteuer zugleich seinen fest geplanten privaten Lebensweg.",
+      "anchor": "Susan unterbricht Davids geplante Hochzeit.",
+      "interest": "Susan unterbricht Davids geplante Hochzeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie beruhigen Susan (Katharine Hepburn) und David (Cary Grant) den zahmen Baby in @?",
+      "answers": [
+        "Sie singen ein bestimmtes Lied.",
+        "Sie spielen eine Trommel.",
+        "Sie geben ihm Schlafmittel.",
+        "Sie verbinden ihm die Augen."
+      ],
+      "feedback": [
+        "Das Lied „I Can’t Give You Anything but Love, Baby“ hilft, den Leoparden zu beruhigen.",
+        "Eine Trommel ist nicht das Beruhigungsmittel.",
+        "Sie verabreichen dafür kein Schlafmittel.",
+        "Eine Augenbinde beruhigt Baby nicht."
+      ],
+      "short": "Das Lied „I Can’t Give You Anything but Love, Baby“ hilft, den Leoparden zu beruhigen.",
+      "context": "Das Lied „I Can’t Give You Anything but Love, Baby“ hilft, den Leoparden zu beruhigen. Die beiden müssen damit eine ganz andere Fähigkeit einsetzen als wissenschaftliche Sachkenntnis. Gesang verbindet ihre gemeinsame Improvisation mit dem Tierabenteuer.",
+      "anchor": "Baby reagiert auf das Liebeslied.",
+      "interest": "Baby reagiert auf das Liebeslied.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wieso müssen Susan (Katharine Hepburn) und David (Cary Grant) in @ einem Hund hinterherlaufen?",
+      "answers": [
+        "Er hat den Dinosaurierknochen vergraben.",
+        "Er hat Susans Handtasche versteckt.",
+        "Er hat den neuen Haustürschlüssel vergraben.",
+        "Er hat Baby in eine Scheune gelockt."
+      ],
+      "feedback": [
+        "Der Terrier George vergräbt den fehlenden Dinosaurierknochen.",
+        "George trägt keinen Handtaschendiebstahl aus; gesucht wird der vergrabene Knochen.",
+        "Nicht der Schlüssel, sondern der für das Skelett wichtige Knochen verschwindet.",
+        "Der Hund wird wegen des Knochenverstecks verfolgt."
+      ],
+      "short": "Der Terrier George vergräbt den fehlenden Dinosaurierknochen.",
+      "context": "Der Terrier George vergräbt den fehlenden Dinosaurierknochen. David Huxley (Cary Grant) braucht dieses Stück für sein Museumsprojekt; Susan Vance (Katharine Hepburn) sucht deshalb mit ihm nach dem Hund. Fossilienarbeit und Tierjagd greifen unmittelbar ineinander.",
+      "anchor": "George vergräbt die fehlende Skelettkomponente.",
+      "interest": "George vergräbt die fehlende Skelettkomponente.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Verwechslung verschärft die Leopardenjagd in @?",
+      "answers": [
+        "Ein gefährliches Zirkustier wird für Baby gehalten.",
+        "Baby wird für das gefährliche Zirkustier gehalten.",
+        "Der Zirkusbesitzer hält David für einen Tierpfleger.",
+        "Susan hält den Zirkuskäfig für Babys Transportkiste."
+      ],
+      "feedback": [
+        "Susan Vance (Katharine Hepburn) und David Huxley (Cary Grant) verwechseln Baby mit einem gefährlichen Zirkusleoparden.",
+        "Die entscheidende Gefahr entsteht umgekehrt durch das Zirkustier, das für Baby gehalten wird.",
+        "Eine berufliche Verwechslung erklärt die gefährliche Leopardenjagd nicht.",
+        "Nicht eine Kiste, sondern die ähnliche Erscheinung zweier Tiere löst die Gefahr aus."
+      ],
+      "short": "Susan Vance (Katharine Hepburn) und David Huxley (Cary Grant) verwechseln Baby mit einem gefährlichen Zirkusleoparden.",
+      "context": "Susan Vance (Katharine Hepburn) und David Huxley (Cary Grant) verwechseln Baby mit einem gefährlichen Zirkusleoparden. Die Ähnlichkeit der Tiere macht ihre vertraute Vorgehensweise riskant. Im Gefängnis muss David die Situation schließlich mit einem Stuhl beherrschen.",
+      "anchor": "Zwei ähnlich aussehende Leoparden sind verschieden gefährlich.",
+      "interest": "Zwei ähnlich aussehende Leoparden sind verschieden gefährlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was geschieht beim Liebesgeständnis im Museum am Ende von @?",
+      "answers": [
+        "Das Dinosaurierskelett stürzt zusammen.",
+        "David weist Susan endgültig zurück.",
+        "Susan zerstört nur den gesuchten Knochen.",
+        "Das Museum wird wegen fehlender Spenden geschlossen."
+      ],
+      "feedback": [
+        "Susan Vance (Katharine Hepburn) bringt das Skelett zum Einsturz, während David Huxley (Cary Grant) sie auffängt.",
+        "Trotz des Skelettsturzes gesteht David seine Gefühle.",
+        "Die Konstruktion des ganzen Skeletts stürzt zusammen.",
+        "Eine Schließung bildet nicht den Schluss; Susans Bewegung bringt das Skelett zum Einsturz."
+      ],
+      "short": "Susan Vance (Katharine Hepburn) bringt das Skelett zum Einsturz, während David Huxley (Cary Grant) sie auffängt.",
+      "context": "Susan Vance (Katharine Hepburn) bringt das Skelett zum Einsturz, während David Huxley (Cary Grant) sie auffängt. Die Wiederherstellung wissenschaftlicher Ordnung endet erneut im Chaos. Dennoch entscheidet sich David für Nähe zu Susan statt für seine bisherige Lebensplanung.",
+      "anchor": "Die Liebe beginnt auf den Trümmern von Davids Ordnung.",
+      "interest": "Die Liebe beginnt auf den Trümmern von Davids Ordnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1938",
+        "1935",
+        "1931",
+        "1940"
+      ],
+      "feedback": [
+        "1938 erschien der Film.",
+        "1935 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1938 wird im zeitlichen Hintergrund erklärt.",
+        "1931 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1938 wird im zeitlichen Hintergrund erklärt.",
+        "1940 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1938 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1938 erschien der Film.",
+      "context": "1938 erschien der Film. Hagar Wildes zugrunde liegende Kurzgeschichte war erst 1937 veröffentlicht worden; die Verfilmung fügte ihr das Museum und den Dinosaurier hinzu. Aus der Tiergeschichte wurde so innerhalb eines Jahres eine Komödie über wissenschaftliche Ordnung und Liebeschaos.",
+      "anchor": "Kurzgeschichte 1937, Film 1938: Innerhalb eines Jahres wurde die Tiergeschichte zur Museumskomödie.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Howard Hawks",
+        "Ernst Lubitsch",
+        "George Cukor",
+        "Preston Sturges"
+      ],
+      "feedback": [
+        "Howard Hawks inszenierte die Komödie.",
+        "Ernst Lubitsch wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks.",
+        "George Cukor wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks.",
+        "Preston Sturges wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks."
+      ],
+      "short": "Howard Hawks inszenierte die Komödie.",
+      "context": "Howard Hawks inszenierte die Komödie. Für das Drehbuch arbeiteten Hagar Wilde und Dudley Nichols zusammen; die Filmfassung erweitert die Kurzgeschichte um David Huxleys Museumsarbeit. Das sachliche Spiel Cary Grants steht dabei Katharine Hepburns impulsiver Susan gegenüber.",
+      "anchor": "Howard Hawks inszenierte die Komödie.",
+      "interest": "Howard Hawks inszenierte die Komödie.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

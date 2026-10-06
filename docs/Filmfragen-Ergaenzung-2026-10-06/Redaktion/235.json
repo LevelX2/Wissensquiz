@@ -1,0 +1,218 @@
+{
+  "rank": 235,
+  "directors": [
+    "John Hillcoat"
+  ],
+  "production_countries": [
+    "Australien",
+    "Vereinigtes Königreich"
+  ],
+  "familiarity_reason": "Bekannter australischer Western mit Nick Caves Drehbuch und düsterer Kolonialgeschichte.",
+  "release_note": "Erste Veröffentlichung 2005 beim Toronto International Film Festival; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Proposition_(2005_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Proposition_(2005_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Handel bietet Captain Stanley Charlie in @ an?",
+      "answers": [
+        "Er soll den älteren Bruder töten, um den jüngeren zu retten",
+        "Er soll eine Goldmine finden, um frei zu kommen",
+        "Er soll als Soldat nach England reisen",
+        "Er soll die Polizei durch die Wüste führen"
+      ],
+      "feedback": [
+        "Stanley (Ray Winstone) fordert Charlie Burns (Guy Pearce) auf, den älteren Bruder Arthur zu töten.",
+        "Gold ist nicht die Bedingung.",
+        "England ist nicht sein Ziel.",
+        "Eine Wüstenführung allein würde den Handel nicht erfüllen."
+      ],
+      "short": "Stanley (Ray Winstone) fordert Charlie Burns (Guy Pearce) auf, den älteren Bruder Arthur zu töten.",
+      "context": "Stanley (Ray Winstone) fordert Charlie Burns (Guy Pearce) auf, den älteren Bruder Arthur (Danny Huston) zu töten. Dafür sollen Charlie und der jüngere Mikey (Richard Wilson) freikommen; der Handel zwingt ihn zu einer familiären Entscheidung.",
+      "anchor": "Der Rettungshandel verlangt den Tod eines anderen Bruders.",
+      "interest": "Der Rettungshandel verlangt den Tod eines anderen Bruders.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Frist setzt Stanley in @ für seinen Handel?",
+      "answers": [
+        "Bis Weihnachten",
+        "Bis Ostern",
+        "Bis zum Neujahrstag",
+        "Bis zum Erntedankfest"
+      ],
+      "feedback": [
+        "Mikey Burns soll an Weihnachten gehängt werden, neun Tage nach dem Angebot.",
+        "Ostern ist nicht der gesetzte Termin.",
+        "Neujahr wäre später als die Frist.",
+        "Erntedank wird nicht genannt."
+      ],
+      "short": "Mikey Burns soll an Weihnachten gehängt werden, neun Tage nach dem Angebot.",
+      "context": "Mikey Burns (Richard Wilson) soll an Weihnachten gehängt werden, neun Tage nach dem Angebot. Die kurze Frist macht aus der Reise zu Arthur (Danny Huston) eine Suche unter drohender Hinrichtung.",
+      "anchor": "Weihnachten wird vom Familienfest zum Hinrichtungstermin.",
+      "interest": "Weihnachten wird vom Familienfest zum Hinrichtungstermin.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum widerspricht Stanley in @ der angeordneten Auspeitschung Mikeys?",
+      "answers": [
+        "Sie könnte den Jungen töten und den Handel zerstören",
+        "Sie würde Charlies vereinbarte Aussage vor Gericht ungültig machen.",
+        "Sie gefährdet einen stillschweigenden Austausch mit Arthur.",
+        "Sie macht Mikey als Zeugen gegen eine andere Bande unbrauchbar."
+      ],
+      "feedback": [
+        "Stanley (Ray Winstone) fürchtet, hundert Peitschenhiebe könnten Mikey töten und Charlie zu Rache bewegen.",
+        "Stanley fürchtet Mikeys Tod und die damit ausgelöste Rache.",
+        "Sein eigener Handel mit Charlie wird durch die tödliche Strafe untergraben.",
+        "Stanley will den Jungen am Leben halten, um Charlies Auftrag zu ermöglichen."
+      ],
+      "short": "Stanley (Ray Winstone) fürchtet, hundert Peitschenhiebe könnten Mikey töten und Charlie zu Rache bewegen.",
+      "context": "Stanley (Ray Winstone) fürchtet, hundert Peitschenhiebe könnten Mikey (Richard Wilson) töten und Charlie zu Rache bewegen. Die demonstrative Strafgewalt untergräbt damit seinen eigenen Versuch, die Lage durch einen Handel zu beherrschen.",
+      "anchor": "Die öffentliche Strafgewalt zerstört die Grundlage des Rettungsversprechens.",
+      "interest": "Die öffentliche Strafgewalt zerstört die Grundlage des Rettungsversprechens.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie gelangt die Gruppe um Arthur in @ in die Stadt, um Mikey zu befreien?",
+      "answers": [
+        "In Polizeiuniformen mit einem vorgeblichen Gefangenen",
+        "Als reisende Händler mit Stoffballen",
+        "Als Geistliche bei einer Beerdigung",
+        "Als neu angeworbene Minenarbeiter"
+      ],
+      "feedback": [
+        "Arthur (Danny Huston), Charlie (Guy Pearce) und Samuel tragen Polizeiuniformen; Two-Bob (Tom E.",
+        "Stoffhändler sind nicht ihre Tarnung.",
+        "Eine Beerdigung dient nicht dazu.",
+        "Sie melden sich nicht als Minenarbeiter."
+      ],
+      "short": "Arthur (Danny Huston), Charlie (Guy Pearce) und Samuel tragen Polizeiuniformen; Two-Bob (Tom E.",
+      "context": "Arthur (Danny Huston), Charlie (Guy Pearce) und Samuel (Tom Budge) tragen Polizeiuniformen; Two-Bob (Tom E. Lewis) stellt den Gefangenen dar. Die Tarnung nutzt staatliche Autorität als Deckung für den Gefängniszugang.",
+      "anchor": "Die Bande übernimmt das Erscheinungsbild ihrer staatlichen Gegner.",
+      "interest": "Die Bande übernimmt das Erscheinungsbild ihrer staatlichen Gegner.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum gelingt Charlies Rettung Mikeys in @ trotz der Befreiung aus dem Gefängnis nicht?",
+      "answers": [
+        "Mikey stirbt an den Folgen der Auspeitschung",
+        "Mikey wird unmittelbar von Stanley erschossen",
+        "Mikey weigert sich, das Gefängnis zu verlassen",
+        "Mikey wird bei einem Pferdesturz getötet"
+      ],
+      "feedback": [
+        "Charlie (Guy Pearce) holt Mikey aus dem Gefängnis, doch dessen schwere Verletzungen sind tödlich.",
+        "Stanley schießt Mikey nicht.",
+        "Der Junge wird tatsächlich herausgebracht.",
+        "Kein Pferdesturz verursacht seinen Tod."
+      ],
+      "short": "Charlie (Guy Pearce) holt Mikey aus dem Gefängnis, doch dessen schwere Verletzungen sind tödlich.",
+      "context": "Charlie (Guy Pearce) holt Mikey (Richard Wilson) aus dem Gefängnis, doch dessen schwere Verletzungen sind tödlich. Der ursprüngliche Handel ist damit sinnlos geworden, bevor die letzte Begegnung mit Arthur beginnt.",
+      "anchor": "Die Befreiung kommt zu spät, um das versprochene Leben zu retten.",
+      "interest": "Die Befreiung kommt zu spät, um das versprochene Leben zu retten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum schießt Charlie in @ schließlich auf Arthur?",
+      "answers": [
+        "Er stoppt dessen Gewalt gegen Stanley und Martha",
+        "Er folgt einer erneuerten Geldzusage Stanleys",
+        "Er entdeckt, dass Arthur Mikey erschossen hat",
+        "Er verteidigt die Goldbeute vor seinem Bruder"
+      ],
+      "feedback": [
+        "Charlie (Guy Pearce) greift ein, als Arthur (Danny Huston) und Samuel Stanley und Martha (Emily Watson) brutal misshandeln.",
+        "Eine neue Geldzusage motiviert ihn nicht.",
+        "Arthur hat Mikey nicht erschossen.",
+        "Goldbeute ist nicht der Konflikt."
+      ],
+      "short": "Charlie (Guy Pearce) greift ein, als Arthur (Danny Huston) und Samuel Stanley und Martha (Emily Watson) brutal misshandeln.",
+      "context": "Charlie (Guy Pearce) greift ein, als Arthur (Danny Huston) und Samuel (Tom Budge) Stanley (Ray Winstone) und Martha (Emily Watson) brutal misshandeln. Die Entscheidung folgt nun dem beobachteten Unrecht, nachdem die versprochene Rettung Mikeys gescheitert ist.",
+      "anchor": "Charlies letzte Entscheidung stoppt die Gewalt statt einen Handel zu erfüllen.",
+      "interest": "Charlies letzte Entscheidung stoppt die Gewalt statt einen Handel zu erfüllen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2005",
+        "2002",
+        "1998",
+        "2007"
+      ],
+      "feedback": [
+        "2005 erschien der Film.",
+        "2002 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2005 wird im zeitlichen Hintergrund erklärt.",
+        "1998 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2005 wird im zeitlichen Hintergrund erklärt.",
+        "2007 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2005 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2005 erschien der Film.",
+      "context": "2005 erschien der Film. Seine Handlung liegt im Australien der 1880er Jahre; der Abstand von mehr als einem Jahrhundert eröffnet den Blick auf koloniale Gewalt hinter der behaupteten Herstellung von Ordnung.",
+      "anchor": "Handlung in den 1880ern, Film 2005: Mehr als ein Jahrhundert Abstand legt die koloniale Gewalt hinter der Ordnung frei.",
+      "interest": "Der Abstand zwischen erzählter Zeit und Veröffentlichung macht den rückblickenden Blick des Films sichtbar.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Hillcoat",
+        "Tommy Lee Jones",
+        "Jane Campion",
+        "Jacques Audiard"
+      ],
+      "feedback": [
+        "John Hillcoat führte Regie, Nick Cave schrieb das Drehbuch und komponierte mit Warren Ellis die Musik.",
+        "Tommy Lee Jones wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Hillcoat.",
+        "Jane Campion wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Hillcoat.",
+        "Jacques Audiard wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Hillcoat."
+      ],
+      "short": "John Hillcoat führte Regie, Nick Cave schrieb das Drehbuch und komponierte mit Warren Ellis die Musik.",
+      "context": "John Hillcoat führte Regie, Nick Cave schrieb das Drehbuch und komponierte mit Warren Ellis die Musik. Der Rettungsauftrag innerhalb einer Familie macht das staatliche Versprechen selbst zu einer Quelle neuer Gewalt.",
+      "anchor": "John Hillcoat führte Regie, Nick Cave schrieb das Drehbuch und komponierte mit Warren Ellis die Musik.",
+      "interest": "John Hillcoat führte Regie, Nick Cave schrieb das Drehbuch und komponierte mit Warren Ellis die Musik.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

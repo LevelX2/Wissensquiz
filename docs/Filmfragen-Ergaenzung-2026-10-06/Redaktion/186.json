@@ -1,0 +1,218 @@
+{
+  "rank": 186,
+  "directors": [
+    "Alex Garland"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "familiarity_reason": "Eine ungewöhnliche Literaturadaption für Science-Fiction-Interessierte; redaktionell ein Kennerfilm.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 2018; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Annihilation_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Annihilation_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum schließt sich Lena (Natalie Portman) in @ der Expedition an?",
+      "answers": [
+        "Sie will verstehen, was ihrem zurückgekehrten Mann geschehen ist.",
+        "Sie will die Expedition ihrer Schwester wiederholen.",
+        "Sie will für die Armee ein Pflanzenmittel entwickeln.",
+        "Sie will eine gegen sie geführte Strafuntersuchung beenden."
+      ],
+      "feedback": [
+        "Lenas Mann Kane (Oscar Isaac) kehrt nach langer Abwesenheit schwer krank zurück.",
+        "Ihr Motiv betrifft den zurückgekehrten Kane.",
+        "Die Untersuchung ihres Mannes ist ihr persönlicher Anlass.",
+        "Ein Strafverfahren ist nicht ihr Ausgangspunkt."
+      ],
+      "short": "Lenas Mann Kane (Oscar Isaac) kehrt nach langer Abwesenheit schwer krank zurück.",
+      "context": "Lenas Mann Kane (Oscar Isaac) kehrt nach langer Abwesenheit schwer krank zurück. Seine unerklärliche Veränderung führt sie in die Zone; der wissenschaftliche Auftrag ist dadurch zugleich eine persönliche Suche.",
+      "anchor": "Die Suche nach Kane führt Lena in die Zone.",
+      "interest": "Die Suche nach Kane führt Lena in die Zone.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wo liegt der Ursprung des Schimmers in @?",
+      "answers": [
+        "Bei einem Leuchtturm",
+        "In einem Hochhausbüro",
+        "Unter einem Flughafen",
+        "In einer Raumstation"
+      ],
+      "feedback": [
+        "Ein Meteorit trifft einen Leuchtturm und setzt dort den Schimmer in Gang.",
+        "Das Büro ist nicht der Ursprung.",
+        "Ein Flughafen liegt nicht am Ausgangspunkt.",
+        "Die Expedition führt nicht zu einer Raumstation."
+      ],
+      "short": "Ein Meteorit trifft einen Leuchtturm und setzt dort den Schimmer in Gang.",
+      "context": "Ein Meteorit trifft einen Leuchtturm und setzt dort den Schimmer in Gang. Das Gebäude wird zum räumlichen Ziel der Expedition; die ungewöhnlichen Veränderungen führen von seiner Umgebung zurück zum Ausgangspunkt.",
+      "anchor": "Der Leuchtturm bildet Ursprung und Ziel.",
+      "interest": "Der Leuchtturm bildet Ursprung und Ziel.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Beobachtung macht den mutierten Bären in @ besonders verstörend?",
+      "answers": [
+        "Er trägt Cassies letzte Hilferufe in seiner Stimme.",
+        "Er erkennt jede Forscherin an ihrem Geruch.",
+        "Er imitiert den Klang sämtlicher Funkgeräte.",
+        "Er trägt ausschließlich menschliche Gesichtszüge."
+      ],
+      "feedback": [
+        "Der Bär lockt mit Cassies (Tuva Novotny) Hilferufen.",
+        "Die besondere Verstörung ist Cassies nachgebildeter Hilferuf.",
+        "Die Stimme einer getöteten Frau ist das entscheidende Merkmal.",
+        "Das akustische Weiterleben Cassies ist die gesuchte Beobachtung."
+      ],
+      "short": "Der Bär lockt mit Cassies (Tuva Novotny) Hilferufen.",
+      "context": "Der Bär lockt mit Cassies (Tuva Novotny) Hilferufen. Die Zone hat offenbar Elemente ihres sterbenden Bewusstseins übernommen; das Tier gefährdet die Gruppe deshalb auch über ein vertrautes menschliches Signal.",
+      "anchor": "Das Hilfesignal der Toten wird zur Falle.",
+      "interest": "Das Hilfesignal der Toten wird zur Falle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Mit welchem physikalischen Vergleich erklärt Josie (Tessa Thompson) die Veränderungen in @?",
+      "answers": [
+        "Mit einem Prisma, das Licht bricht",
+        "Mit einem Magneten, der nur Eisen anzieht",
+        "Mit einer Waage, die Gewicht addiert",
+        "Mit einem Vakuum, das alles unverändert hält"
+      ],
+      "feedback": [
+        "Josie beschreibt den Schimmer als brechendes Medium, ähnlich einem Prisma.",
+        "Reine Eisenanziehung erklärt die biologische Mischung nicht.",
+        "Eine Gewichtsaddition ist nicht ihr Modell.",
+        "Die Zone hält Lebewesen gerade nicht unverändert."
+      ],
+      "short": "Josie beschreibt den Schimmer als brechendes Medium, ähnlich einem Prisma.",
+      "context": "Josie beschreibt den Schimmer als brechendes Medium, ähnlich einem Prisma. Auch DNA wird vermischt; Pflanzen, Tiere und Menschen behalten deshalb nicht mehr ihre gewohnten biologischen Abgrenzungen.",
+      "anchor": "Die Zone bricht und vermischt nicht nur Licht.",
+      "interest": "Die Zone bricht und vermischt nicht nur Licht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was enthüllt die Aufnahme im Leuchtturm über Kane (Oscar Isaac) in @?",
+      "answers": [
+        "Der ursprüngliche Kane starb, ein Doppelgänger übernahm seine Gestalt.",
+        "Kane hat die Station absichtlich als Unterkunft verlassen.",
+        "Kane ist von einem anderen Menschen im Team getötet worden.",
+        "Kane hat die Zone vor der Aufnahme nie betreten."
+      ],
+      "feedback": [
+        "Die Aufnahme zeigt Kanes Selbsttötung und anschließend seinen Doppelgänger.",
+        "Die Aufnahme zeigt Tod und nachfolgende Übernahme seiner Gestalt.",
+        "Der ursprüngliche Kane beendet dort sein Leben selbst.",
+        "Er ist im Leuchtturm auf der Aufnahme anwesend."
+      ],
+      "short": "Die Aufnahme zeigt Kanes Selbsttötung und anschließend seinen Doppelgänger.",
+      "context": "Die Aufnahme zeigt Kanes Selbsttötung und anschließend seinen Doppelgänger. Lena (Natalie Portman) muss ihre vermeintliche Wiedervereinigung neu bewerten: Der zurückgekehrte Mann ist nicht einfach der unveränderte Überlebende ihrer Erinnerung.",
+      "anchor": "Kanes Rückkehr verdeckt den Tod des ursprünglichen Menschen.",
+      "interest": "Kanes Rückkehr verdeckt den Tod des ursprünglichen Menschen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie besiegt Lena (Natalie Portman) in @ ihr nachahmendes Gegenüber?",
+      "answers": [
+        "Sie nutzt dessen Nachahmung, um ihm eine brennende Granate zu überlassen.",
+        "Sie lässt es bei einem Spiegel zurück.",
+        "Sie zwingt es mit Schüssen an die Wand.",
+        "Sie ruft Kane über Funk als Ablenkung."
+      ],
+      "feedback": [
+        "Das Gegenüber übernimmt Lenas Bewegungen.",
+        "Ein Spiegel allein besiegt die Nachahmung nicht.",
+        "Sie nutzt das Imitieren, um die brennende Granate zu übergeben.",
+        "Die Lösung entsteht aus der körperlichen Nachahmung."
+      ],
+      "short": "Das Gegenüber übernimmt Lenas Bewegungen.",
+      "context": "Das Gegenüber übernimmt Lenas Bewegungen. Sie nutzt diese Bindung, um ihm eine entzündete Phosphorgranate zu geben; seine eigene Nachahmungsfähigkeit führt damit zur Zerstörung des Leuchtturms und des Schimmers.",
+      "anchor": "Die Nachahmung wird zum Werkzeug seiner Zerstörung.",
+      "interest": "Die Nachahmung wird zum Werkzeug seiner Zerstörung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2015",
+        "2011",
+        "2020"
+      ],
+      "feedback": [
+        "2018 erschien die Verfilmung, vier Jahre nach Jeff VanderMeers Roman von 2014.",
+        "2015 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2011 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2020 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2018 erschien die Verfilmung, vier Jahre nach Jeff VanderMeers Roman von 2014.",
+      "context": "2018 erschien die Verfilmung, vier Jahre nach Jeff VanderMeers Roman von 2014. Garland übernimmt dessen rätselhafte Zone, entwickelt die Filmgeschichte aber als eigene Adaption. Der Abstand von vier Jahren verbindet die literarische Vorlage mit der visuellen Erforschung veränderter Lebewesen.",
+      "anchor": "Roman 2014, Film 2018: Vier Jahre führen von VanderMeers Zone zu Garlands eigenständiger Bildwelt.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Alex Garland",
+        "Christopher Nolan",
+        "Steven Soderbergh",
+        "Gareth Edwards"
+      ],
+      "feedback": [
+        "Alex Garland schrieb und inszenierte die Adaption.",
+        "Christopher Nolan wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alex Garland.",
+        "Steven Soderbergh wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alex Garland.",
+        "Gareth Edwards wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alex Garland."
+      ],
+      "short": "Alex Garland schrieb und inszenierte die Adaption.",
+      "context": "Alex Garland schrieb und inszenierte die Adaption. Natalie Portman spielt Lena, Oscar Isaac ihren Mann Kane. Die Expedition verbindet ihre persönliche Suche mit einer Welt, in der biologische Grenzen zwischen Menschen, Pflanzen und Tieren instabil werden.",
+      "anchor": "Alex Garland schrieb und inszenierte die Adaption.",
+      "interest": "Alex Garland schrieb und inszenierte die Adaption.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

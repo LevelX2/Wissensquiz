@@ -1,0 +1,218 @@
+{
+  "rank": 195,
+  "directors": [
+    "Jean-Luc Godard"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Italien"
+  ],
+  "familiarity_reason": "Ein Godard-Klassiker an der Grenze von Noir und Science-Fiction; redaktionell ein Kennerfilm.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1965; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Alphaville_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Alphaville_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was beherrscht die Stadtgesellschaft in @?",
+      "answers": [
+        "Ein Computersystem",
+        "Eine militärische Regierung ohne technische Kontrolle",
+        "Eine wissenschaftliche Geheimgesellschaft",
+        "Ein Konzern aus privaten Sicherheitsfirmen"
+      ],
+      "feedback": [
+        "Alpha 60 beherrscht die Gesellschaft.",
+        "Alpha 60 ist das beherrschende Computersystem.",
+        "Die Kontrollmacht wird als Computer organisiert.",
+        "Nicht ein solcher Firmenverbund regiert Alphaville."
+      ],
+      "short": "Alpha 60 beherrscht die Gesellschaft.",
+      "context": "Alpha 60 beherrscht die Gesellschaft. Freies Denken und Gefühle gelten als störend; Lemmy Caution (Eddie Constantine) bringt eine Haltung in die Stadt, die sich diesen Regeln nicht vollständig unterordnet.",
+      "anchor": "Die Herrschaft reduziert Menschen auf angebliche Logik.",
+      "interest": "Die Herrschaft reduziert Menschen auf angebliche Logik.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche menschliche Regung verbietet die Ordnung von @ besonders?",
+      "answers": [
+        "Liebe",
+        "Hunger",
+        "Müdigkeit",
+        "Durst"
+      ],
+      "feedback": [
+        "Die Ordnung unterdrückt Liebe und andere emotionale Begriffe.",
+        "Biologischer Hunger ist nicht die zentrale Verbotsidee.",
+        "Schlafbedürfnis ersetzt nicht den emotionalen Konflikt.",
+        "Durst ist nicht das gesuchte Gefühl."
+      ],
+      "short": "Die Ordnung unterdrückt Liebe und andere emotionale Begriffe.",
+      "context": "Die Ordnung unterdrückt Liebe und andere emotionale Begriffe. Natacha (Anna Karina) kennt ihre Bedeutung zunächst kaum; Lemmy Cautions (Eddie Constantine) Begegnung eröffnet ihr eine Sprache für persönliche Wünsche.",
+      "anchor": "Natacha muss die Sprache der Gefühle wiederfinden.",
+      "interest": "Natacha muss die Sprache der Gefühle wiederfinden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wozu dient die „Bibel“ in den Hotelzimmern von @ tatsächlich?",
+      "answers": [
+        "Als laufend bereinigtes Wörterbuch",
+        "Als Stadtplan für Fluchtwege",
+        "Als Laborprotokoll der Impfungen",
+        "Als Gästeliste des Hotels"
+      ],
+      "feedback": [
+        "Die angebliche Bibel ist ein Wörterbuch, aus dem unerwünschte emotionale Begriffe entfernt werden.",
+        "Es ist kein Fluchtplan.",
+        "Impfprotokolle sind nicht der Inhalt.",
+        "Hotelgäste werden darin nicht registriert."
+      ],
+      "short": "Die angebliche Bibel ist ein Wörterbuch, aus dem unerwünschte emotionale Begriffe entfernt werden.",
+      "context": "Die angebliche Bibel ist ein Wörterbuch, aus dem unerwünschte emotionale Begriffe entfernt werden. Die Herrschaft kontrolliert damit nicht nur Handlungen, sondern die sprachlichen Möglichkeiten, in denen Menschen ihre Erfahrungen überhaupt ausdrücken können.",
+      "anchor": "Das bereinigte Wörterbuch verkleinert das Denkbare.",
+      "interest": "Das bereinigte Wörterbuch verkleinert das Denkbare.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie wird die futuristische Stadt in @ überwiegend sichtbar gemacht?",
+      "answers": [
+        "Durch vorhandene moderne Gebäude in Paris",
+        "Durch großflächige Studiobauten einer neuen Metropole",
+        "Durch Modelle einer künstlichen Stadt",
+        "Durch verlassene Fabriken außerhalb Frankreichs"
+      ],
+      "feedback": [
+        "Godard drehte in vorhandenen Pariser Gebäuden ohne eigens gebaute Zukunftswelt.",
+        "Vorhandene moderne Pariser Architektur erzeugt die Zukunft.",
+        "Modelle sind nicht die hauptsächliche Gestaltung.",
+        "Die gefilmte Gegenwartsstadt Paris ist wesentlich."
+      ],
+      "short": "Godard drehte in vorhandenen Pariser Gebäuden ohne eigens gebaute Zukunftswelt.",
+      "context": "Godard drehte in vorhandenen Pariser Gebäuden ohne eigens gebaute Zukunftswelt. Bürohäuser und Hotels wirken durch Bild, Ton und Handlung fremd; das Bedrohliche wird damit aus der bereits bestehenden Gegenwart entwickelt.",
+      "anchor": "Die fremde Zukunft steckt in der vorhandenen Architektur.",
+      "interest": "Die fremde Zukunft steckt in der vorhandenen Architektur.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S1",
+      "question": "Womit bringt Lemmy Caution (Eddie Constantine) Alpha 60 in @ an seine Grenze?",
+      "answers": [
+        "Mit einem Rätsel, das poetisches Selbstverständnis verlangt",
+        "Mit einem technischen Virus im Hauptspeicher",
+        "Mit der Unterbrechung seiner gesamten Stromversorgung",
+        "Mit der Preisgabe des Namens seines Konstrukteurs"
+      ],
+      "feedback": [
+        "Caution konfrontiert Alpha 60 mit einem poetischen Rätsel über das individuelle Selbst.",
+        "Lemmys Herausforderung ist ein poetisches Rätsel.",
+        "Der Konflikt wird nicht bloß elektrisch gelöst.",
+        "Ein Erfindername bildet nicht die Grenze des Rechners."
+      ],
+      "short": "Caution konfrontiert Alpha 60 mit einem poetischen Rätsel über das individuelle Selbst.",
+      "context": "Caution konfrontiert Alpha 60 mit einem poetischen Rätsel über das individuelle Selbst. Der Computer kann diesen Zugang nicht in seine Regeln fassen; der Widerstand beruht auf etwas, das seine Ordnung zuvor aus dem Denken verbannt hatte.",
+      "anchor": "Poetisches Selbstverständnis widersteht der totalen Rechenordnung.",
+      "interest": "Poetisches Selbstverständnis widersteht der totalen Rechenordnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was macht Natachas (Anna Karina) letzten Satz in @ für ihre Entwicklung entscheidend?",
+      "answers": [
+        "Sie kann ihre Liebe selbst ausdrücken.",
+        "Sie bestätigt ihre Rückkehr zur Computerherrschaft.",
+        "Sie liest nur ihre Dienstnummer vor.",
+        "Sie erklärt jedes Gefühl für bedeutungslos."
+      ],
+      "feedback": [
+        "Natacha sagt „Ich liebe Sie“.",
+        "Sie kehrt nicht freiwillig zur alten Ordnung zurück.",
+        "Der Satz ist keine Dienstnummer.",
+        "Er bekräftigt gerade ein Gefühl."
+      ],
+      "short": "Natacha sagt „Ich liebe Sie“.",
+      "context": "Natacha sagt „Ich liebe Sie“. Sie findet damit Worte für eine eigene emotionale Beziehung; die Flucht bedeutet nicht nur das Verlassen einer Stadt, sondern das Wiedergewinnen eines persönlichen Ausdrucks.",
+      "anchor": "Der eigene Liebessatz beendet die sprachliche Fremdbestimmung.",
+      "interest": "Der eigene Liebessatz beendet die sprachliche Fremdbestimmung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1965",
+        "1962",
+        "1958",
+        "1967"
+      ],
+      "feedback": [
+        "1965 erschien der Film.",
+        "1962 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1965 wird im zeitlichen Hintergrund erklärt.",
+        "1958 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1965 wird im zeitlichen Hintergrund erklärt.",
+        "1967 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1965 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1965 erschien der Film.",
+      "context": "1965 erschien der Film. Lemmy Caution war zuvor bereits in konventionellen Kriminalfilmen als Figur bekannt; Godard versetzte ihn nun in eine von einem Computer beherrschte Welt. Das bestehende Paris wurde dabei ohne futuristische Spezialbauten zum Schauplatz der Zukunft.",
+      "anchor": "1965 versetzt Godard den bekannten Kriminalhelden Lemmy Caution in ein bestehendes Paris als Computerzukunft.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jean-Luc Godard",
+        "Chris Marker",
+        "Alain Resnais",
+        "François Truffaut"
+      ],
+      "feedback": [
+        "Jean-Luc Godard schrieb und inszenierte den Film.",
+        "Chris Marker führte nicht bei dieser Fassung Regie; genannt ist Jean-Luc Godard.",
+        "Alain Resnais führte nicht bei dieser Fassung Regie; genannt ist Jean-Luc Godard.",
+        "François Truffaut führte nicht bei dieser Fassung Regie; genannt ist Jean-Luc Godard."
+      ],
+      "short": "Jean-Luc Godard schrieb und inszenierte den Film.",
+      "context": "Jean-Luc Godard schrieb und inszenierte den Film. Eddie Constantine spielt seinen bekannten Lemmy Caution, Anna Karina Natacha. Godard verwendet moderne Pariser Architektur statt gebauter Zukunftskulissen und setzt Sprache und Gefühle gegen die behauptete reine Logik des Systems.",
+      "anchor": "Jean-Luc Godard schrieb und inszenierte den Film.",
+      "interest": "Jean-Luc Godard schrieb und inszenierte den Film.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

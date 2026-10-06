@@ -1,0 +1,216 @@
+{
+  "rank": 53,
+  "directors": [
+    "Fernando Meirelles",
+    "Kátia Lund"
+  ],
+  "production_countries": [
+    "Brasilien",
+    "Frankreich",
+    "Deutschland",
+    "USA"
+  ],
+  "familiarity_reason": "International bekannter brasilianischer Film mit starker Genre- und Kinopräsenz.",
+  "release_note": "Cannes-Premiere 18. Mai 2002; Oscar-Nominierungen 2004.",
+  "director_note": "Fernando Meirelles: Regie; Kátia Lund: offizielle Co-Regie.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/City_of_God_(2002_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Tätigkeit bietet Buscapé (Alexandre Rodrigues) in @ einen anderen Weg als den Bandenkrieg?",
+      "answers": [
+        "Fotografie",
+        "Profiboxen",
+        "Medizin",
+        "Politik"
+      ],
+      "feedback": [
+        "Buscapé möchte Fotograf werden.",
+        "Er wird kein Profiboxer.",
+        "Ein Medizinstudium ist nicht sein Weg.",
+        "Eine politische Laufbahn steht nicht im Mittelpunkt."
+      ],
+      "short": "Buscapé möchte Fotograf werden.",
+      "context": "Buscapé (Alexandre Rodrigues) möchte Fotograf werden. Die Kamera verbindet ihn mit dem Viertel, erlaubt aber einen anderen beruflichen Zugang als das bewaffnete Geschäft der Banden.",
+      "anchor": "Buscapés Kamera eröffnet einen anderen Lebensweg.",
+      "interest": "Buscapés Kamera eröffnet einen anderen Lebensweg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Bei welcher brasilianischen Stadt liegt das Viertel in @?",
+      "answers": [
+        "Rio de Janeiro",
+        "Salvador",
+        "Brasília",
+        "Recife"
+      ],
+      "feedback": [
+        "Das Viertel liegt in Rio de Janeiro.",
+        "Salvador ist nicht der Schauplatz.",
+        "Die Hauptstadt liegt nicht dem Viertel zugrunde.",
+        "Recife ist nicht der Ort."
+      ],
+      "short": "Das Viertel liegt in Rio de Janeiro.",
+      "context": "Das Viertel liegt in Rio de Janeiro. Über mehrere Lebensphasen verfolgt die Erzählung dort wachsende organisierte Gewalt, während Buscapé (Alexandre Rodrigues) nach einer eigenen Perspektive sucht.",
+      "anchor": "Die Cidade de Deus liegt in Rio de Janeiro.",
+      "interest": "Die Cidade de Deus liegt in Rio de Janeiro.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was geschieht beim frühen Motelüberfall in @ gegen den Plan der älteren Räuber?",
+      "answers": [
+        "Der junge Dadinho tötet die Gäste.",
+        "Die Gäste werden von den Räubern als Geiseln mitgenommen.",
+        "Dadinho warnt vorab die Polizei.",
+        "Die Räuber brechen den Überfall ohne Beute ab."
+      ],
+      "feedback": [
+        "Dadinho (Douglas Silva) tötet die Gäste, obwohl die älteren Räuber niemanden töten wollen.",
+        "Das Massaker durch Dadinho überschreitet den Plan.",
+        "Eine Polizeiwarnung ist nicht seine Handlung.",
+        "Der Überfall wird nicht einfach abgebrochen."
+      ],
+      "short": "Dadinho (Douglas Silva) tötet die Gäste, obwohl die älteren Räuber niemanden töten wollen.",
+      "context": "Dadinho (Douglas Silva) tötet die Gäste, obwohl die älteren Räuber niemanden töten wollen. Der spätere Zé Pequeno (Leandro Firmino) etabliert so früh eine Gewalt, die nicht nur Mittel zur Beute ist.",
+      "anchor": "Der Motelüberfall zeigt Dadinhos eigenständige Grausamkeit.",
+      "interest": "Der Motelüberfall zeigt Dadinhos eigenständige Grausamkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Warum gerät Benés Abschiedsparty in @ zum Wendepunkt?",
+      "answers": [
+        "Bené wird versehentlich statt Zé erschossen.",
+        "Bené wird beim Verlassen der Stadt von der Polizei erschossen.",
+        "Zé verliert dort seine Führung nach einer Abstimmung.",
+        "Bené erklärt der gesamten Bande öffentlich den Krieg."
+      ],
+      "feedback": [
+        "Bené (Phellipe Haagensen) wird versehentlich erschossen.",
+        "Der tödliche Schuss fällt auf der Party.",
+        "Eine Abstimmung entmachtet Zé nicht.",
+        "Bené will sich zurückziehen, nicht den Krieg erklären."
+      ],
+      "short": "Bené (Phellipe Haagensen) wird versehentlich erschossen.",
+      "context": "Bené (Phellipe Haagensen) wird versehentlich erschossen. Sein geplanter Ausstieg endet damit; Zé Pequeno (Leandro Firmino) verliert zugleich einen Partner, der sein Verhalten begrenzen konnte.",
+      "anchor": "Benés Ausstieg endet tödlich und verschärft Zés Herrschaft.",
+      "interest": "Benés Ausstieg endet tödlich und verschärft Zés Herrschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum schließt sich Knockout Ned (Seu Jorge) in @ dem bewaffneten Konflikt an?",
+      "answers": [
+        "Zé misshandelt seine Freundin und bedroht seine Familie.",
+        "Er erhält einen bezahlten Auftrag der gegnerischen Bande.",
+        "Er wird wegen eines begangenen Überfalls erpresst.",
+        "Er will Zés Stellung als Alleinherrscher übernehmen."
+      ],
+      "feedback": [
+        "Zés Gewalt trifft Ned und dessen Familie.",
+        "Der Angriff auf Freundin und Familie treibt ihn in den Konflikt.",
+        "Eine Erpressung wegen eines Überfalls ist nicht der Anlass.",
+        "Anfangs sucht er keine Alleinherrschaft."
+      ],
+      "short": "Zés Gewalt trifft Ned und dessen Familie.",
+      "context": "Zés Gewalt trifft Ned (Seu Jorge) und dessen Familie. Der zunächst friedliche Mann schließt sich aus Rache der Gegenseite an; der Konflikt zieht dadurch weitere Menschen in Gewalt und Gegengewalt.",
+      "anchor": "Neds Rache führt ihn in denselben Gewaltkreislauf.",
+      "interest": "Neds Rache führt ihn in denselben Gewaltkreislauf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Foto wählt Buscapé (Alexandre Rodrigues) am Ende von @ zur Veröffentlichung?",
+      "answers": [
+        "Zé Pequenos Leiche",
+        "Eine Aufnahme der neuen Kinderbande",
+        "Ein Porträt des lebenden Zé",
+        "Eine Aufnahme von Benés Abschiedsparty"
+      ],
+      "feedback": [
+        "Buscapé wählt das Foto von Zé Pequenos Leiche.",
+        "Das gewählte Bild zeigt Zés Leiche.",
+        "Zé lebt auf dem veröffentlichten Schlussfoto nicht mehr.",
+        "Das ältere Partybild ist nicht seine Schlusswahl."
+      ],
+      "short": "Buscapé wählt das Foto von Zé Pequenos Leiche.",
+      "context": "Buscapé (Alexandre Rodrigues) wählt das Foto von Zé Pequenos Leiche. Die Aufnahme bringt ihm eine Chance bei der Zeitung; das riskante Bild der korrupten Polizei behält er zurück.",
+      "anchor": "Das veröffentlichte Leichenfoto eröffnet die Zeitungsarbeit.",
+      "interest": "Das veröffentlichte Leichenfoto eröffnet die Zeitungsarbeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2002",
+        "2000",
+        "1997",
+        "2003"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2002.",
+        "2000 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1997 liegt fünf Jahre davor.",
+        "2003 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2002 erstmals veröffentlicht.",
+      "context": "2002 feierte der Film Premiere. Paulo Lins veröffentlichte den zugrunde liegenden Roman 1997, fünf Jahre zuvor. Der Film verdichtet die ausgedehnte Buchwelt über die Entwicklung eines Viertels und den Blick eines jungen Fotografen.",
+      "anchor": "Paulo Lins’ Roman von 1997 wurde fünf Jahre später, 2002, zum Film.",
+      "interest": "Paulo Lins’ Roman von 1997 wurde fünf Jahre später, 2002, zum Film.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Fernando Meirelles und Kátia Lund",
+        "Walter Salles und Daniela Thomas",
+        "Anna Boden und Ryan Fleck",
+        "Joel Coen und Ethan Coen"
+      ],
+      "feedback": [
+        "Fernando Meirelles und Kátia Lund führten Regie.",
+        "Walter Salles und Daniela Thomas bilden hier nicht das Regieteam.",
+        "Anna Boden und Ryan Fleck bilden hier nicht das Regieteam.",
+        "Joel Coen und Ethan Coen bilden hier nicht das Regieteam."
+      ],
+      "short": "Regie: Fernando Meirelles und Kátia Lund.",
+      "context": "Meirelles führte Regie mit Kátia Lund als Co-Regisseurin. Die Arbeit mit jungen Darstellern aus Favela-Umfeldern umfasste Workshops und improvisierte Situationen; der einzelne Regie-Oscar-Nominierungscredit ändert das Filmteam nicht.",
+      "anchor": "Meirelles führte Regie mit Kátia Lund als Co-Regisseurin.",
+      "interest": "Meirelles führte Regie mit Kátia Lund als Co-Regisseurin.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

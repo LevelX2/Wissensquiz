@@ -1,0 +1,217 @@
+{
+  "rank": 225,
+  "directors": [
+    "Howard Hawks"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Sehr bekannter Belagerungswestern mit John Wayne, Dean Martin und musikalischen Ruhepunkten.",
+  "release_note": "AFI nennt New Yorker Eröffnung am 18.03.1959 und allgemeines US-Veröffentlichungsdatum 04.04.1959. Das Ursprungs-Cacheobjekt 225 ist irrtümlich der Rio-Grande-Flussartikel und wurde für keine Filmangabe verwendet.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Rio_Bravo_(film)",
+      "supports": "Gelesener vollständiger Film-Handlungsabschnitt und Besetzung; besonders Blutspur im Saloon und Dynamitfinale."
+    },
+    "eckdaten": {
+      "url": "https://catalog.afi.com/Film/53001-RIO-BRAVO",
+      "supports": "Gelesene Credits, US-Land, Release 04.04.1959, New York opening 18.03.1959, history zur Zusammenarbeit 1948/1959 und Synopsis."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum wird der Bruder eines mächtigen Ranchers in @ eingesperrt?",
+      "answers": [
+        "Er erschießt einen unbewaffneten Mann",
+        "Er stiehlt die Stadtkasse",
+        "Er fälscht einen Landvertrag",
+        "Er beraubt eine Postkutsche"
+      ],
+      "feedback": [
+        "Joe Burdette (Claude Akins) erschießt einen unbewaffneten Mann.",
+        "Die Festnahme folgt keinem Kassenraub.",
+        "Ein gefälschter Vertrag ist nicht die Tat.",
+        "Joe wird nicht wegen eines Postraubs festgehalten."
+      ],
+      "short": "Joe Burdette (Claude Akins) erschießt einen unbewaffneten Mann.",
+      "context": "Joe Burdette (Claude Akins) erschießt einen unbewaffneten Mann. Sheriff Chance (John Wayne) nimmt ihn fest und muss ihn gegen dessen mächtigen Bruder im Gefängnis halten.",
+      "anchor": "Ein beobachteter Mord begründet den Widerstand des Sheriffs.",
+      "interest": "Ein beobachteter Mord begründet den Widerstand des Sheriffs.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche persönliche Schwäche versucht Dude in @ zu überwinden?",
+      "answers": [
+        "Seine Alkoholabhängigkeit",
+        "Seine Spielsucht",
+        "Seine Angst vor Pferden",
+        "Seinen Verlust des Augenlichts"
+      ],
+      "feedback": [
+        "Dude (Dean Martin) war ein guter Deputy und wurde zum Trinker.",
+        "Das Glücksspiel ist nicht sein Hauptproblem.",
+        "Pferdeangst prägt ihn nicht.",
+        "Er ist nicht blind."
+      ],
+      "short": "Dude (Dean Martin) war ein guter Deputy und wurde zum Trinker.",
+      "context": "Dude (Dean Martin) war ein guter Deputy und wurde zum Trinker. Seine Rückkehr in Chances (John Wayne) Gruppe hängt davon ab, wieder verlässlich handeln zu können.",
+      "anchor": "Dudes Rückkehr verlangt mehr als bloße Schießkunst.",
+      "interest": "Dudes Rückkehr verlangt mehr als bloße Schießkunst.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Spur entdeckt Dude in @ beim Verfolgen eines Mörders im Saloon?",
+      "answers": [
+        "Blut tropft von der Empore in ein Glas",
+        "Ein Stiefelabdruck führt hinter den Tresen",
+        "Ein Spiegel zeigt einen Mann unter dem Tisch",
+        "Eine Patronenhülse liegt in der Klaviertastatur"
+      ],
+      "feedback": [
+        "Dude (Dean Martin) sieht Blut in ein Glas tropfen und erkennt den Verfolger auf der Empore.",
+        "Ein Stiefelabdruck ist nicht die Entdeckung.",
+        "Der Mann sitzt nicht unter einem Tisch.",
+        "Eine Hülse im Klavier liefert keine Spur."
+      ],
+      "short": "Dude (Dean Martin) sieht Blut in ein Glas tropfen und erkennt den Verfolger auf der Empore.",
+      "context": "Dude (Dean Martin) sieht Blut in ein Glas tropfen und erkennt den Verfolger auf der Empore. Die aufmerksame Beobachtung erlaubt ihm, den Schützen zu töten und seine Fähigkeiten wieder zu beweisen.",
+      "anchor": "Die Blutspur lässt Dude seine frühere Sicherheit zurückgewinnen.",
+      "interest": "Die Blutspur lässt Dude seine frühere Sicherheit zurückgewinnen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was bedeutet die ständig gespielte Melodie El Deguello in @?",
+      "answers": [
+        "Die Belagerer kündigen an, keine Gnade zu gewähren",
+        "Die Armee meldet ihre baldige Ankunft",
+        "Die Stadt feiert die Freilassung des Gefangenen",
+        "Der Sheriff ruft zum Waffenstillstand"
+      ],
+      "feedback": [
+        "Nathan Burdettes Musiker spielen El Deguello als Drohung.",
+        "Sie ist kein Armeesignal.",
+        "Der Gefangene ist nicht frei.",
+        "Chance hat keinen Waffenstillstand bestellt."
+      ],
+      "short": "Nathan Burdettes Musiker spielen El Deguello als Drohung.",
+      "context": "Nathan Burdettes Musiker spielen El Deguello als Drohung. Colorado (Ricky Nelson) erklärt den Bezug zur Belagerung des Alamo: Die Melodie kündigt Gnadenlosigkeit an.",
+      "anchor": "Die Melodie macht die Belagerung auch akustisch bedrohlich.",
+      "interest": "Die Melodie macht die Belagerung auch akustisch bedrohlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum lehnt Chance in @ die Unterstützung wohlmeinender ungeübter Bürger ab?",
+      "answers": [
+        "Er will ihre Leben nicht in einem Profikampf riskieren",
+        "Er fürchtet, sie könnten den Gefangenen begnadigen",
+        "Er darf nur Verwandte als Deputys ernennen",
+        "Er hat mit Nathan heimlich eine Übergabe vereinbart"
+      ],
+      "feedback": [
+        "Chance (John Wayne) verweigert ungeübten Helfern den gefährlichen Dienst.",
+        "Eine Begnadigung dürfen die Bürger nicht aussprechen.",
+        "Die Helfer müssen nicht verwandt sein.",
+        "Eine geheime Übergabe ist nicht sein Motiv."
+      ],
+      "short": "Chance (John Wayne) verweigert ungeübten Helfern den gefährlichen Dienst.",
+      "context": "Chance (John Wayne) verweigert ungeübten Helfern den gefährlichen Dienst. Er bevorzugt eine kleine Gruppe verlässlicher Männer gegenüber Unterstützung, die er gegen bewaffnete Profis nicht schützen könnte.",
+      "anchor": "Verlässliche Fähigkeit wiegt für Chance mehr als die Zahl der Helfer.",
+      "interest": "Verlässliche Fähigkeit wiegt für Chance mehr als die Zahl der Helfer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie bricht die Gruppe in @ zuletzt den Widerstand der Belagerer?",
+      "answers": [
+        "Stumpy wirft Dynamit, Chance schießt darauf",
+        "Colorado und Dude zwingen die Gegner durch einen Angriff von hinten.",
+        "Dude zündet den Wagen vor dem Versteck der Gegner an.",
+        "Chance droht, Joe vor den Augen seines Bruders zu erschießen."
+      ],
+      "feedback": [
+        "Stumpy (Walter Brennan) wirft Dynamit, Chance (John Wayne) entzündet es durch Schüsse.",
+        "Die entscheidende Waffe ist geworfenes und durch Schüsse entzündetes Dynamit.",
+        "Stumpys Dynamit bringt die Gegner zur Aufgabe.",
+        "Das Finale wird durch Stumpys Hilfe und die Explosionen entschieden."
+      ],
+      "short": "Stumpy (Walter Brennan) wirft Dynamit, Chance (John Wayne) entzündet es durch Schüsse.",
+      "context": "Stumpy (Walter Brennan) wirft Dynamit, Chance (John Wayne) entzündet es durch Schüsse. Die Explosionen zwingen Nathan zur Aufgabe; der ältere Helfer erweist sich erneut als entscheidend.",
+      "anchor": "Das Finale macht abgestimmte Zusammenarbeit zum Vorteil.",
+      "interest": "Das Finale macht abgestimmte Zusammenarbeit zum Vorteil.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1959",
+        "1956",
+        "1952",
+        "1961"
+      ],
+      "feedback": [
+        "1959 erschien der Film.",
+        "1956 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1959 wird im zeitlichen Hintergrund erklärt.",
+        "1952 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1959 wird im zeitlichen Hintergrund erklärt.",
+        "1961 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1959 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1959 erschien der Film.",
+      "context": "1959 erschien der Film. Hawks und Wayne hatten zuletzt 1948 Red River gedreht: Elf Jahre später steht statt eines zerfallenden Trecks die belastbare Zusammenarbeit einer kleinen Gruppe im Zentrum.",
+      "anchor": "Red River 1948, Rio Bravo 1959: Elf Jahre trennen Hawks’ und Waynes Treckkonflikt von der verlässlichen Belagerungsgruppe.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Howard Hawks",
+        "John Ford",
+        "Anthony Mann",
+        "George Stevens"
+      ],
+      "feedback": [
+        "Howard Hawks führte Regie.",
+        "John Ford wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks.",
+        "Anthony Mann wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks.",
+        "George Stevens wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks."
+      ],
+      "short": "Howard Hawks führte Regie.",
+      "context": "Howard Hawks führte Regie. Zwischen Belagerung und Schießerei zeigen Gespräche, Gesang und Dudes Rückkehr zur Selbstachtung, wie aus ungleichen Männern eine verlässliche Gruppe wird.",
+      "anchor": "Howard Hawks führte Regie.",
+      "interest": "Howard Hawks führte Regie.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 181,
+  "directors": [
+    "Denis Villeneuve"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Groß angelegte aktuelle Romanverfilmung mit breiter Kinowahrnehmung; redaktionell ein bekannter Film.",
+  "release_note": "Erste Veröffentlichung 2021 bei den Filmfestspielen von Venedig; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Dune_(2021_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche natürliche Gefahr bedroht bei der Spiceernte in @ mit Timothée Chalamet die Arbeiter?",
+      "answers": [
+        "Ein herannahender Sandwurm",
+        "Eine unterirdische Explosion",
+        "Ein Zusammenbruch des Bodens",
+        "Eine tödliche Staubwolke"
+      ],
+      "feedback": [
+        "Ein riesiger Sandwurm nähert sich dem gestrandeten Erntegerät.",
+        "Eine unterirdische Explosion bedroht diese Mannschaft nicht.",
+        "Der Bodenbruch ist nicht die herannahende Gefahr.",
+        "Eine giftige Staubwolke ist nicht der Grund der Rettung."
+      ],
+      "short": "Ein riesiger Sandwurm nähert sich dem gestrandeten Erntegerät.",
+      "context": "Ein riesiger Sandwurm nähert sich dem gestrandeten Erntegerät. Leto (Oscar Isaac) und Paul (Timothée Chalamet) helfen bei der Rettung der Arbeiter; die Gewinnung des begehrten Rohstoffs bleibt körperlich gefährlich.",
+      "anchor": "Der Sandwurm zwingt zum Abbruch der Spiceernte.",
+      "interest": "Der Sandwurm zwingt zum Abbruch der Spiceernte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Auftrag erhält Haus Atreides zu Beginn von @ mit Timothée Chalamet?",
+      "answers": [
+        "Die Herrschaft über Arrakis zu übernehmen",
+        "Den Harkonnenhof militärisch zu besetzen",
+        "Die Handelsrechte auf Caladan abzutreten",
+        "Die Raumfahrergilde allein zu finanzieren"
+      ],
+      "feedback": [
+        "Herzog Leto (Oscar Isaac) soll Arrakis übernehmen.",
+        "Das übertragene Lehen ist Arrakis.",
+        "Leto erhält die Herrschaft über Arrakis.",
+        "Eine solche Finanzierung ist nicht der neue Auftrag."
+      ],
+      "short": "Herzog Leto (Oscar Isaac) soll Arrakis übernehmen.",
+      "context": "Herzog Leto (Oscar Isaac) soll Arrakis übernehmen. Hinter der Auszeichnung steckt jedoch ein gegen sein Haus gerichteter Plan; die neue politische Aufgabe führt die Familie in eine gefährliche Abhängigkeit.",
+      "anchor": "Der neue Herrschaftsauftrag ist zugleich eine Falle.",
+      "interest": "Der neue Herrschaftsauftrag ist zugleich eine Falle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Worauf zielt der schmerzhafte Kastentest für Paul (Timothée Chalamet) in @?",
+      "answers": [
+        "Seine Selbstbeherrschung trotz körperlicher Angst",
+        "Seine Widerstandskraft gegen eine echte Vergiftung",
+        "Seine Gabe, die Zukunft genau vorherzusagen",
+        "Seine Fähigkeit, mit der Stimme Befehle zu geben"
+      ],
+      "feedback": [
+        "Der Test prüft, ob Paul unter Schmerz und Todesdrohung seine Impulse kontrolliert.",
+        "Der Kasten erzeugt Schmerz, während die Nadel nur bei einem Rückzug töten soll.",
+        "Seine Reaktion auf Schmerz und Angst wird geprüft.",
+        "Der Test betrifft Kontrolle, nicht die Stimmtechnik."
+      ],
+      "short": "Der Test prüft, ob Paul unter Schmerz und Todesdrohung seine Impulse kontrolliert.",
+      "context": "Der Test prüft, ob Paul unter Schmerz und Todesdrohung seine Impulse kontrolliert. Die ehrwürdige Mutter (Charlotte Rampling) unterscheidet so zwischen bloßem Fluchtreflex und bewusster Selbstbeherrschung.",
+      "anchor": "Paul muss den Fluchtimpuls beherrschen.",
+      "interest": "Paul muss den Fluchtimpuls beherrschen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum verrät Dr. Yueh (Chang Chen) in @ die Atreides?",
+      "answers": [
+        "Er hofft, seine gefangene Frau zurückzubekommen.",
+        "Er hält Leto für den Verantwortlichen an ihrem Verschwinden.",
+        "Er will Paul als Gefangenen gegen sie austauschen.",
+        "Er hofft auf eine Begnadigung seiner Familie durch den Imperator."
+      ],
+      "feedback": [
+        "Yueh hofft auf die Freigabe seiner vom Baron festgehaltenen Frau.",
+        "Die Harkonnen nutzen die gefangene Frau als Druckmittel.",
+        "Der Verrat folgt der Hoffnung auf die Rückgabe seiner Frau, nicht diesem ausgehandelten Austausch.",
+        "Die konkrete Erpressung betrifft seine gefangene Frau."
+      ],
+      "short": "Yueh hofft auf die Freigabe seiner vom Baron festgehaltenen Frau.",
+      "context": "Yueh hofft auf die Freigabe seiner vom Baron festgehaltenen Frau. Er legt die Schutzschilde lahm und macht den Angriff möglich; zugleich gibt er Leto (Oscar Isaac) eine Giftwaffe gegen den Baron.",
+      "anchor": "Yuehs erpresste Loyalität öffnet die Festung.",
+      "interest": "Yuehs erpresste Loyalität öffnet die Festung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum können die Fremen in @ Paul und Jessica bereits als mögliche Heilsfiguren deuten?",
+      "answers": [
+        "Die Bene Gesserit haben entsprechende Glaubensvorstellungen verbreitet.",
+        "Leto hat die Fremen vorab über einen militärischen Plan informiert.",
+        "Ein Fremenrat hat Paul schon als Kind ausgebildet.",
+        "Die Raumfahrergilde hat Paul zum religiösen Führer ernannt."
+      ],
+      "feedback": [
+        "Die Bene Gesserit haben auf Arrakis Glaubensvorstellungen vorbereitet.",
+        "Die Deutung entsteht durch zuvor verbreitete religiöse Vorstellungen.",
+        "Paul wächst auf Caladan auf.",
+        "Die Bene Gesserit haben den Glaubensrahmen vorbereitet."
+      ],
+      "short": "Die Bene Gesserit haben auf Arrakis Glaubensvorstellungen vorbereitet.",
+      "context": "Die Bene Gesserit haben auf Arrakis Glaubensvorstellungen vorbereitet. Jessica (Rebecca Ferguson) erkennt darin eine nutzbare Schutzstrategie; die religiöse Erwartung entsteht also nicht erst durch Pauls (Timothée Chalamet) Ankunft.",
+      "anchor": "Die Prophezeiung wurde vor Pauls Ankunft angelegt.",
+      "interest": "Die Prophezeiung wurde vor Pauls Ankunft angelegt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Folge hat Pauls Duell mit Jamis (Babs Olusanmokun) am Ende von @?",
+      "answers": [
+        "Er tötet erstmals einen Menschen und erhält Zugang zur Fremenwelt.",
+        "Er übernimmt sofort den Thron des Imperators.",
+        "Er gewinnt die Kontrolle über alle Raumschiffe.",
+        "Er kehrt endgültig nach Caladan zurück."
+      ],
+      "feedback": [
+        "Paul (Timothée Chalamet) tötet Jamis im rituellen Duell.",
+        "Der Imperatorenthron wird hier nicht erobert.",
+        "Alle Schiffe kontrolliert er noch nicht.",
+        "Er verlässt die Fremen nicht nach Caladan."
+      ],
+      "short": "Paul (Timothée Chalamet) tötet Jamis im rituellen Duell.",
+      "context": "Paul (Timothée Chalamet) tötet Jamis im rituellen Duell. Der Sieg beendet seine bisherige Rolle als bloß behüteter Erbe und erlaubt ihm, bei den Fremen zu bleiben; die größere politische Entwicklung liegt noch vor ihm.",
+      "anchor": "Das erste tödliche Duell führt Paul in eine neue Gemeinschaft.",
+      "interest": "Das erste tödliche Duell führt Paul in eine neue Gemeinschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Timothée Chalamet erstmals?",
+      "answers": [
+        "2021",
+        "2018",
+        "2014",
+        "2023"
+      ],
+      "feedback": [
+        "2021 wurde die Fassung in Venedig erstmals gezeigt.",
+        "2018 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2021 wird im zeitlichen Hintergrund erklärt.",
+        "2014 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2021 wird im zeitlichen Hintergrund erklärt.",
+        "2023 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2021 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2021 wurde die Fassung in Venedig erstmals gezeigt.",
+      "context": "2021 wurde die Fassung in Venedig erstmals gezeigt. Frank Herberts Roman erschien 1965, 56 Jahre zuvor; David Lynchs frühere Verfilmung stammt von 1984. Die lange Adaptionsgeschichte hilft, Villeneuves Werk von der älteren Filmfassung abzugrenzen.",
+      "anchor": "Roman 1965, Lynch-Film 1984, Villeneuve-Film 2021: 56 Jahre führen von der Vorlage zur neuen Fassung.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Timothée Chalamet Regie?",
+      "answers": [
+        "Denis Villeneuve",
+        "Steven Soderbergh",
+        "Gareth Edwards",
+        "Duncan Jones"
+      ],
+      "feedback": [
+        "Denis Villeneuve inszenierte und schrieb gemeinsam mit Jon Spaihts und Eric Roth die Adaption.",
+        "Steven Soderbergh wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Denis Villeneuve.",
+        "Gareth Edwards wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Denis Villeneuve.",
+        "Duncan Jones wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Denis Villeneuve."
+      ],
+      "short": "Denis Villeneuve inszenierte und schrieb gemeinsam mit Jon Spaihts und Eric Roth die Adaption.",
+      "context": "Denis Villeneuve inszenierte und schrieb gemeinsam mit Jon Spaihts und Eric Roth die Adaption. Timothée Chalamet spielt Paul Atreides, Rebecca Ferguson seine Mutter Jessica. Der Film behandelt den ersten Teil des Romans und endet mit Pauls Aufnahme in die Fremenwelt.",
+      "anchor": "Denis Villeneuve inszenierte und schrieb gemeinsam mit Jon Spaihts und Eric Roth die Adaption.",
+      "interest": "Denis Villeneuve inszenierte und schrieb gemeinsam mit Jon Spaihts und Eric Roth die Adaption.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

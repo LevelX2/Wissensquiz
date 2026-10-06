@@ -1,0 +1,216 @@
+{
+  "rank": 150,
+  "directors": [
+    "John Carney"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekannte Musikkomödie mit prominenter Besetzung, besonders vertraut unter Musik- und Filmfans.",
+  "release_note": "Weltpremiere am 7. September 2013 in Toronto unter Can a Song Save Your Life?; Kinostart 2014.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Begin_Again_(film)",
+    "credits_rt": {
+      "url": "http://www.rottentomatoes.com/m/begin_again_2013/",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo nehmen Gretta und Dan (Keira Knightley und Mark Ruffalo) in @ ihr Album auf?",
+      "answers": [
+        "An verschiedenen öffentlichen Orten in New York",
+        "In einem abgeschlossenen Landhaus in Wales",
+        "Ausschließlich in Dans Tonstudio",
+        "Auf einem Konzertschiff"
+      ],
+      "feedback": [
+        "Sie nutzen New Yorks Straßen und andere öffentliche Orte als Aufnahmeorte.",
+        "Ein walisisches Landhaus ist nicht die Kulisse.",
+        "Die Aufnahme bleibt nicht in einem Tonstudio.",
+        "Ein Konzertschiff ist nicht das Projekt."
+      ],
+      "short": "Sie nutzen New Yorks Straßen und andere öffentliche Orte als Aufnahmeorte.",
+      "context": "Gretta James (Keira Knightley) und Dan Mulligan (Mark Ruffalo) finden zunächst kein Label für ihre Zusammenarbeit. Sie entwickeln stattdessen eine mobile Aufnahme. Die Stadt liefert Räume und Nebengeräusche, sodass fehlende Studioressourcen zum künstlerischen Konzept werden.",
+      "anchor": "New York wird zum verteilten Studio.",
+      "interest": "New York wird zum verteilten Studio.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was ist Dan Mulligans (Mark Ruffalo) Beruf in @?",
+      "answers": [
+        "Musikproduzent und Mitgründer eines Plattenlabels",
+        "Musiklehrer an einer Grundschule",
+        "Gitarrist in Grettas Band",
+        "Journalist einer Musikzeitschrift"
+      ],
+      "feedback": [
+        "Dan arbeitet als Musikproduzent und Labelmanager.",
+        "Eine Grundschule ist nicht sein Arbeitsplatz.",
+        "Er ist nicht zunächst Grettas Bandgitarrist.",
+        "Musikjournalismus ist nicht sein Beruf."
+      ],
+      "short": "Dan arbeitet als Musikproduzent und Labelmanager.",
+      "context": "Dan Mulligan (Mark Ruffalo) hat seinen Platz im Musikgeschäft verloren. Gretta James (Keira Knightley) hört er an einem schlechten Abend in einer Bar. Sein Blick auf ihr Lied eröffnet beiden eine Zusammenarbeit, obwohl er weder Geld noch eine gesicherte berufliche Position anbieten kann.",
+      "anchor": "Dans verlorene Karriere beginnt mit neuem Zuhören.",
+      "interest": "Dans verlorene Karriere beginnt mit neuem Zuhören.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie zeigt @ beim ersten Auftritt Grettas Dans besondere Art zuzuhören?",
+      "answers": [
+        "Er stellt sich ein vollständiges Arrangement um ihren einfachen Vortrag vor.",
+        "Er erinnert sich an eine frühere Studioaufnahme desselben Liedes.",
+        "Er stellt sich nur den Gesang ohne begleitende Gitarre vor.",
+        "Er hört innerlich ausschließlich den möglichen Publikumsapplaus."
+      ],
+      "feedback": [
+        "Dan hört in seiner Vorstellung bereits die mögliche Bandfassung.",
+        "Dan ergänzt Grettas Vortrag in seiner Vorstellung durch ein ganzes Arrangement.",
+        "Die Vorstellung erweitert die Instrumentierung statt sie zu entfernen.",
+        "Die vorgestellten Instrumente zeigen sein musikalisches Hören."
+      ],
+      "short": "Dan hört in seiner Vorstellung bereits die mögliche Bandfassung.",
+      "context": "Gretta James (Keira Knightley) singt mit Gitarre. Für Dan Mulligan (Mark Ruffalo) treten imaginierte Instrumente hinzu. Die Szene macht seine schöpferische Produzentenarbeit sichtbar: Er erkennt im unfertigen Vortrag musikalische Möglichkeiten, die andere in der Bar überhören.",
+      "anchor": "Dans Fantasie hört die Band, bevor sie zusammengestellt ist.",
+      "interest": "Dans Fantasie hört die Band, bevor sie zusammengestellt ist.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie beteiligt sich Dans Tochter Violet (Hailee Steinfeld) in @ am Musikprojekt?",
+      "answers": [
+        "Sie spielt Gitarre bei den Aufnahmen.",
+        "Sie entwirft sämtliche Plattencover.",
+        "Sie übersetzt Grettas Texte.",
+        "Sie übernimmt das Schlagzeugsolo."
+      ],
+      "feedback": [
+        "Violet wird als Gitarristin einbezogen.",
+        "Das Coverdesign ist nicht ihre gezeigte Aufgabe.",
+        "Textübersetzungen übernimmt sie nicht.",
+        "Sie ist nicht die Schlagzeugsolistin."
+      ],
+      "short": "Violet wird als Gitarristin einbezogen.",
+      "context": "Gretta James (Keira Knightley) ermutigt Violet Mulligan (Hailee Steinfeld), ihre Musik ernst zu nehmen. Der Platz bei den Aufnahmen verändert auch die Beziehung zu Dan (Mark Ruffalo). Seine Tochter bleibt dadurch nicht nur Zuschauerin seiner Krise, sondern wird Teil einer gemeinsamen Tätigkeit.",
+      "anchor": "Violets Gitarre verbindet Familienbeziehung und musikalische Arbeit.",
+      "interest": "Violets Gitarre verbindet Familienbeziehung und musikalische Arbeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum stört Gretta (Keira Knightley) sich in @ an Daves neuer Fassung von „Lost Stars“?",
+      "answers": [
+        "Die kommerzielle Inszenierung verdrängt für sie die persönliche Bedeutung.",
+        "Er hat den persönlichen Song als Duett mit seiner neuen Partnerin verändert.",
+        "Er veröffentlicht das Lied unter einem fremden Autorennamen.",
+        "Er kürzt alle persönlichen Textzeilen aus der Studioversion."
+      ],
+      "feedback": [
+        "Gretta erlebt die kommerzielle Bearbeitung als Verlust ihres ursprünglichen Lieds.",
+        "Ihr Einwand betrifft den kommerziellen Auftritt und die verlorene persönliche Bedeutung.",
+        "Ein fremder Autorenname ist nicht ihr Konflikt mit der Fassung.",
+        "Die Kommerzialisierung der Musik, nicht das vollständige Streichen dieser Textzeilen, beschäftigt sie."
+      ],
+      "short": "Gretta erlebt die kommerzielle Bearbeitung als Verlust ihres ursprünglichen Lieds.",
+      "context": "Dave Kohl (Adam Levine) sieht die Publikumsenergie als Teil der Musik. Gretta James (Keira Knightley) hört dagegen ein privates Geschenk in einem veränderten Verkaufskonzept. Der Streit betrifft deshalb nicht nur Tempo oder Lautstärke, sondern auch die Frage, wem die Bedeutung eines Songs gehört.",
+      "anchor": "Gretta hört ihr Geschenk; Dave hört den Erfolg vor Publikum.",
+      "interest": "Gretta hört ihr Geschenk; Dave hört den Erfolg vor Publikum.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie entscheidet Gretta (Keira Knightley) in @ am Ende über die Veröffentlichung ihres Albums?",
+      "answers": [
+        "Sie verkauft es online für einen Dollar.",
+        "Sie veröffentlicht es allein über Dans früheres Label.",
+        "Sie überlässt Dave den Vertrieb als Teil seiner neuen Platte.",
+        "Sie wartet auf ein höheres Angebot und hält die Platte zurück."
+      ],
+      "feedback": [
+        "Gretta entscheidet sich für den günstigen direkten Onlineverkauf.",
+        "Gretta wählt einen direkten Onlineverkauf für einen Dollar.",
+        "Dave übernimmt nicht den Vertrieb ihres Albums.",
+        "Sie veröffentlicht selbst zu einem bewusst niedrigen Preis."
+      ],
+      "short": "Gretta entscheidet sich für den günstigen direkten Onlineverkauf.",
+      "context": "Das Label zeigt inzwischen Interesse. Gretta James (Keira Knightley) wählt dennoch einen eigenen Vertriebsweg; Dan Mulligan (Mark Ruffalo) hilft bei der Werbung. Die Entscheidung führt ihre künstlerische Selbstständigkeit bis zur Veröffentlichung fort, statt sie mit einem bloßen Vertragsabschluss enden zu lassen.",
+      "anchor": "Gretta bestimmt auch den Weg ihrer Musik zum Publikum.",
+      "interest": "Gretta bestimmt auch den Weg ihrer Musik zum Publikum.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2013",
+        "2009",
+        "2012",
+        "2016"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 2013.",
+        "2009 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "2012 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2016 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 2013.",
+      "context": "Begin Again wurde 2013 in Toronto vorgestellt, ein Jahr vor dem Kinostart 2014. John Carneys Once erschien 2007, sechs Jahre zuvor. Beide Filme erzählen Musik als gemeinsame Arbeit; Begin Again vergrößert diesen Ansatz vom Dubliner Straßen- und Studioumfeld zu einer durch New York verteilten Albumaufnahme.",
+      "anchor": "Once 2007, Begin-Again-Premiere 2013, Kino 2014: Musikzusammenarbeit wächst sechs Jahre später zur New-York-Aufnahme.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Once 2007, Begin-Again-Premiere 2013, Kino 2014: Musikzusammenarbeit wächst sechs Jahre später zur New-York-Aufnahme.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Carney",
+        "Cameron Crowe",
+        "Damien Chazelle",
+        "Richard Curtis"
+      ],
+      "feedback": [
+        "John Carney führte Regie.",
+        "Cameron Crowe gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Damien Chazelle gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Richard Curtis gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet John Carney.",
+      "context": "John Carney schrieb und führte Regie. Die Aufnahmeidee macht New York selbst zu einem Bestandteil der Musik. Keira Knightley spielt eine Songwriterin statt einen bereits etablierten Star; Carney verknüpft die Produktion eines Albums mit der persönlichen Neuorientierung zweier beruflich enttäuschter Menschen.",
+      "anchor": "John Carney: Die Aufnahmeidee macht New York selbst zu einem Bestandteil der Musik.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

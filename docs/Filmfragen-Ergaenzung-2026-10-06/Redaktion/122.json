@@ -1,0 +1,222 @@
+{
+  "rank": 122,
+  "directors": [
+    "Akira Kurosawa"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Prägender Kurosawa-Film für Western- und Samuraikenner, im Gesamtpublikum als eigenständiges Werk weniger vertraut; Gruppe 3.",
+  "release_note": "Japanische Veröffentlichung am 25. April 1961.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Yojimbo",
+    "criterion": "https://www.criterion.com/films/597-yojimbo",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/yojimbo",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Lage findet der wandernde Krieger in @ in der Stadt vor?",
+      "answers": [
+        "Zwei kriminelle Gruppen kämpfen um die Vorherrschaft.",
+        "Ein Clan bereitet die Vertreibung aller wandernden Krieger vor.",
+        "Ein Kaufmann versucht, eine staatliche Belagerung zu beenden.",
+        "Eine Händlergruppe organisiert gemeinschaftliche Selbstverteidigung."
+      ],
+      "feedback": [
+        "Zwei verfeindete Banden beherrschen und bedrohen die Stadt.",
+        "Die konkrete Lage ist ein Machtkampf zweier krimineller Gruppen.",
+        "Eine staatliche Belagerung ist nicht der Ausgangskonflikt.",
+        "Es gibt keine einheitliche friedliche Händlerverteidigung als Ausgangslage."
+      ],
+      "short": "Zwei verfeindete Banden beherrschen und bedrohen die Stadt.",
+      "context": "Sanjuro (Toshirō Mifune) erfährt vom Wirt Gonji (Eijirō Tōno), wie die Gegner die Stadt unter sich aufteilen. Keine Seite bietet einen verlässlichen guten Auftrag. Seine Freiheit als Fremder ermöglicht ihm, das Kräfteverhältnis zu verschieben und beide Gruppen gegeneinander auszuspielen.",
+      "anchor": "Sanjuro kommt in eine Stadt zwischen zwei gewalttätigen Machtblöcken.",
+      "interest": "Sanjuro kommt in eine Stadt zwischen zwei gewalttätigen Machtblöcken.",
+      "sources": [
+        "handlung",
+        "criterion",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen gesellschaftlichen Status hat Sanjuro (Toshirō Mifune) in @?",
+      "answers": [
+        "Er ist ein herrenloser wandernder Samurai.",
+        "Er ist ein Samurai im festen Dienst eines Fürsten.",
+        "Er ist ein lokaler Amtsträger mit eigener Wache.",
+        "Er ist ein Kaufmann mit früherer militärischer Ausbildung."
+      ],
+      "feedback": [
+        "Sanjuro ist ein Rōnin, ein Samurai ohne Herrn.",
+        "Er reist ohne Herrn und festen Dienst als Rōnin.",
+        "Er hat kein lokales Amt und keine eigene Wache.",
+        "Der Film stellt ihn als herrenlosen Samurai vor."
+      ],
+      "short": "Sanjuro ist ein Rōnin, ein Samurai ohne Herrn.",
+      "context": "Sanjuro (Toshirō Mifune) kann seine Dienste anbieten und wieder entziehen. Ein fester Herr bestimmt seine Entscheidungen nicht. Diese Beweglichkeit erklärt seine Position im Konflikt: Beide Banden wollen ihn für sich gewinnen, doch sein eigenes Urteil über die Stadt bleibt der Antrieb seines Spiels.",
+      "anchor": "Ohne festen Herrn kann Sanjuro zwischen den Lagern handeln.",
+      "interest": "Ohne festen Herrn kann Sanjuro zwischen den Lagern handeln.",
+      "sources": [
+        "handlung",
+        "criterion",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was unterscheidet Unosuke (Tatsuya Nakadai) in @ im Kampf besonders von den anderen Männern?",
+      "answers": [
+        "Er trägt eine Pistole.",
+        "Er führt einen besonders langen Speer.",
+        "Er trägt zwei Schwerter gleichzeitig.",
+        "Er verwendet einen versteckten Wurfmessermechanismus."
+      ],
+      "feedback": [
+        "Unosukes Pistole bedroht die Überlegenheit des Schwertkämpfers.",
+        "Die entscheidende Überlegenheit ist die Pistole, nicht ein längerer Speer.",
+        "Zwei Schwerter sind nicht sein besonderes Überraschungsmittel.",
+        "Ein Wurfmessermechanismus ersetzt die Feuerwaffe nicht."
+      ],
+      "short": "Unosukes Pistole bedroht die Überlegenheit des Schwertkämpfers.",
+      "context": "Unosuke (Tatsuya Nakadai) hat eine Schusswaffe, während Sanjuro (Toshirō Mifune) sich auf sein Schwert verlässt. Der technische Unterschied verändert die Gefahr im direkten Kampf. Die lässige Erscheinung des Gegners täuscht daher nicht nur über seine Grausamkeit hinweg; sie verbirgt auch einen Vorsprung, den Sanjuro taktisch ausgleichen muss.",
+      "anchor": "Unosukes Pistole setzt dem Schwert eine andere Reichweite entgegen.",
+      "interest": "Unosukes Pistole setzt dem Schwert eine andere Reichweite entgegen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was macht Sanjuro (Toshirō Mifune) in @ mit der gefangenen Nui (Yōko Tsukasa)?",
+      "answers": [
+        "Er befreit sie und schickt sie mit Mann und Kind fort.",
+        "Er übergibt sie an einen neutralen Beamten zur Befragung.",
+        "Er verlangt für ihre Freilassung eine eigene Belohnung.",
+        "Er verspricht ihr Schutz, hält sie aber beim Wirt fest."
+      ],
+      "feedback": [
+        "Sanjuro ermöglicht Nui und ihrer Familie die Flucht.",
+        "Sanjuro lässt die Familie fliehen, statt Nui einem Beamten auszuliefern.",
+        "Er verfolgt keinen Lösegeldgewinn aus ihrer Freilassung.",
+        "Er schickt sie fort, statt sie dauerhaft zurückzuhalten."
+      ],
+      "short": "Sanjuro ermöglicht Nui und ihrer Familie die Flucht.",
+      "context": "Nui (Yōko Tsukasa) wurde durch Spielschulden ihres Mannes von ihrer Familie getrennt. Sanjuro (Toshirō Mifune) tötet die Bewacher und gibt der Familie Geld zur Flucht. Die Tat passt nicht zu seinem scheinbar reinen Geschäftsdenken; sie zeigt eine Grenze seiner zynischen Strategie, weil die Opfer nicht ebenso behandelt werden wie die Banden.",
+      "anchor": "Die Familie erhält Freiheit statt einen Platz in Sanjuros Machtspiel.",
+      "interest": "Die Familie erhält Freiheit statt einen Platz in Sanjuros Machtspiel.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie wird der schwer misshandelte Sanjuro (Toshirō Mifune) in @ aus der Stadt gebracht?",
+      "answers": [
+        "In einem Sarg",
+        "Unter den Waren auf einem Handkarren",
+        "In der leeren Lade eines Händlers",
+        "Versteckt in einem Wagen mit Säcken"
+      ],
+      "feedback": [
+        "Gonji lässt Sanjuro in einem Sarg hinaustragen.",
+        "Der Sarg ermöglicht das Herausschaffen des misshandelten Kriegers.",
+        "Der Transport erfolgt in einem Sarg.",
+        "Er wird nicht unter Säcken, sondern als vermeintlicher Toter transportiert."
+      ],
+      "short": "Gonji lässt Sanjuro in einem Sarg hinaustragen.",
+      "context": "Nach der Entdeckung seines Verrats ist Sanjuro (Toshirō Mifune) körperlich kaum kampffähig. Gonji (Eijirō Tōno) organisiert den Weg aus der Stadt mit Hilfe des Sargmachers. Ein Gegenstand, der vom gewaltsamen Alltag profitiert hat, wird nun zum Rettungsmittel; erst außerhalb kann der Krieger seine Kräfte zurückgewinnen.",
+      "anchor": "Der Sarg schafft dem noch Lebenden einen Weg zur Erholung.",
+      "interest": "Der Sarg schafft dem noch Lebenden einen Weg zur Erholung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie entsteht Sanjuros (Toshirō Mifune) angenommener Familienname in @?",
+      "answers": [
+        "Er benennt sich nach einem gerade sichtbaren Maulbeerfeld.",
+        "Er übernimmt den Namen eines gerade verstorbenen Kriegers.",
+        "Er nennt den Namen des Dorfes, aus dem er zu kommen behauptet.",
+        "Er entleiht den Namen des Wirts, bei dem er unterkommt."
+      ],
+      "feedback": [
+        "Kuwabatake wird aus dem Blick auf ein Maulbeerfeld gewählt.",
+        "Er sieht die Maulbeerfelder und erfindet daraus Kuwabatake.",
+        "Der angenommene Name verweist auf das sichtbare Feld, nicht auf ein Herkunftsdorf.",
+        "Er übernimmt nicht den Namen des Wirts."
+      ],
+      "short": "Kuwabatake wird aus dem Blick auf ein Maulbeerfeld gewählt.",
+      "context": "Als man den Fremden nach dem Namen fragt, blickt Sanjuro (Toshirō Mifune) hinaus und antwortet nach der Landschaft. Die Auskunft ist eine spontane Selbstbezeichnung. Der Film bindet ihn damit nicht an eine ausführlich erklärte Vergangenheit; was ihn definiert, sind sein Verhalten und seine Entscheidungen in der vorgefundenen Stadt.",
+      "anchor": "Der Name kommt aus dem Blick, die Person aus dem Handeln.",
+      "interest": "Der Name kommt aus dem Blick, die Person aus dem Handeln.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1961",
+        "1957",
+        "1960",
+        "1964"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1961.",
+        "1957 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1960 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1964 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1961.",
+      "context": "Yojimbo wurde 1961 in Japan veröffentlicht. Sanjuro folgte bereits 1962 mit Toshirō Mifune in der verwandten Hauptfigur. Die Geschichte dieses ersten Films liegt 1860, gegen Ende der Edo-Zeit. Der zeitliche Abstand innerhalb der Filmproduktion ist deshalb von der historischen Umgebung der Handlung zu unterscheiden. Die filmische Rückkehr folgte ein Jahr später.",
+      "anchor": "Yojimbo 1961, Sanjuro 1962: ein Jahr bis zu Mifunes Rückkehr in der verwandten Figur.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Yojimbo 1961, Sanjuro 1962: ein Jahr bis zu Mifunes Rückkehr in der verwandten Figur.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Akira Kurosawa",
+        "Masaki Kobayashi",
+        "Hideo Gosha",
+        "Seijun Suzuki"
+      ],
+      "feedback": [
+        "Akira Kurosawa führte Regie.",
+        "Masaki Kobayashi gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Hideo Gosha gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Seijun Suzuki gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Akira Kurosawa.",
+      "context": "Akira Kurosawa führte Regie und schrieb mit Ryūzō Kikushima das Drehbuch. Toshirō Mifune spielt den wandernden Sanjuro. Die Inszenierung verbindet seine körperliche Lässigkeit mit einer Strategie, die gegnerische Machtblöcke gegeneinander richtet, statt einen klaren Auftraggeber zur moralisch guten Seite zu machen.",
+      "anchor": "Akira Kurosawa: Toshirō Mifune spielt den wandernden Sanjuro.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "criterion",
+        "credits_rt",
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

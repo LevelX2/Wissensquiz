@@ -1,0 +1,217 @@
+{
+  "rank": 165,
+  "directors": [
+    "Ernst Lubitsch"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein leiser Lubitsch-Klassiker mit James Stewart und Margaret Sullavan, für das breite heutige Publikum eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1940; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Shop_Around_the_Corner",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Shop_Around_the_Corner",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt arbeiten die beiden Hauptfiguren von @?",
+      "answers": [
+        "Budapest",
+        "Paris",
+        "Wien",
+        "Prag"
+      ],
+      "feedback": [
+        "Die Handlung spielt in Budapest.",
+        "Der Laden steht nicht in Paris.",
+        "Wien ist nicht der angegebene Handlungsort.",
+        "Die Geschichte ist nicht in Prag angesiedelt."
+      ],
+      "short": "Die Handlung spielt in Budapest.",
+      "context": "Die Handlung spielt in Budapest. Alfred Kralik (James Stewart) und Klara Novak (Margaret Sullavan) arbeiten im selben Geschäft. Der überschaubare Laden und sein Mitarbeiterkreis bilden den sozialen Raum, in dem wirtschaftliche Sorgen, Liebeshoffnungen und Missverständnisse zusammenkommen.",
+      "anchor": "Die Briefromanze entsteht im Budapester Laden.",
+      "interest": "Die Briefromanze entsteht im Budapester Laden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie verlieben sich Alfred (James Stewart) und Klara (Margaret Sullavan) in @, ohne ihre Identität zu kennen?",
+      "answers": [
+        "Durch anonyme Briefe",
+        "Durch einen telefonischen Kontakt unter falschen Namen",
+        "Durch Nachrichten eines gemeinsamen Vermittlers",
+        "Durch täglich ausgetauschte Gedichte in einer Zeitung"
+      ],
+      "feedback": [
+        "Alfred und Klara führen eine anonyme Briefkorrespondenz.",
+        "Die Liebesbindung entsteht schriftlich.",
+        "Sie schreiben unmittelbar anonym miteinander.",
+        "Die Texte sind persönliche Briefe, keine Zeitungsrubrik."
+      ],
+      "short": "Alfred und Klara führen eine anonyme Briefkorrespondenz.",
+      "context": "Alfred und Klara führen eine anonyme Briefkorrespondenz. Im Laden streiten sie miteinander, während sie den unbekannten Briefpartner idealisieren. Gerade diese Gleichzeitigkeit erzeugt die romantische Spannung: Die geschätzte Person befindet sich längst in ihrem unmittelbaren Alltag.",
+      "anchor": "Briefliebe und Arbeitsstreit betreffen dasselbe Paar.",
+      "interest": "Briefliebe und Arbeitsstreit betreffen dasselbe Paar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wodurch gewinnt Klara (Margaret Sullavan) in @ trotz anfänglicher Ablehnung eine Stelle?",
+      "answers": [
+        "Sie verkauft eine Musik-Zigarettendose als Bonbondose.",
+        "Sie gewinnt einen besonders wichtigen Stammkunden zurück.",
+        "Sie verkauft einen teuren Mantel an eine Touristin.",
+        "Sie überzeugt Alfred mit einem Empfehlungsschreiben."
+      ],
+      "feedback": [
+        "Klara verkauft eine musikalische Zigarettendose als Behälter für Süßigkeiten.",
+        "Die Stelle erhält sie durch den ungewöhnlichen Verkauf einer Musikdose.",
+        "Der erfolgreiche Verkauf betrifft die als Bonbondose angebotene Zigarettendose.",
+        "Nicht eine Empfehlung, sondern ihr Verkaufsgeschick überzeugt den Chef."
+      ],
+      "short": "Klara verkauft eine musikalische Zigarettendose als Behälter für Süßigkeiten.",
+      "context": "Klara verkauft eine musikalische Zigarettendose als Behälter für Süßigkeiten. Sie zeigt damit Verkaufstalent und überzeugt Hugo Matuschek (Frank Morgan), sie einzustellen. Der Streit um das Produkt führt zugleich ihre Gegensätze mit Alfred Kralik (James Stewart) ein.",
+      "anchor": "Eine neue Produktidee verschafft Klara die Stelle.",
+      "interest": "Eine neue Produktidee verschafft Klara die Stelle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum entlässt Matuschek (Frank Morgan) in @ ausgerechnet seinen vertrauten Alfred (James Stewart)?",
+      "answers": [
+        "Er vermutet eine Affäre mit seiner Frau.",
+        "Er vermutet, Alfred plane ein Konkurrenzgeschäft.",
+        "Er verdächtigt ihn, Warenbestellungen zu unterschlagen.",
+        "Er glaubt, Alfred schreibe beleidigende Briefe an Kunden."
+      ],
+      "feedback": [
+        "Matuschek vermutet, Alfred habe eine Affäre mit seiner Frau.",
+        "Matuschek hält Alfred für den Liebhaber seiner Frau.",
+        "Die persönliche Affärenvermutung, nicht ein Warenbetrug, führt zur Entlassung.",
+        "Liebesverdacht im eigenen Haushalt ist der Auslöser."
+      ],
+      "short": "Matuschek vermutet, Alfred habe eine Affäre mit seiner Frau.",
+      "context": "Matuschek vermutet, Alfred habe eine Affäre mit seiner Frau. Der Verdacht erklärt die sonst rätselhafte Härte gegenüber seinem bewährten Mitarbeiter. Erst ein Ermittlungsbericht nennt den tatsächlichen Beteiligten und ermöglicht die Korrektur dieser ungerechtfertigten Entlassung.",
+      "anchor": "Privater Verdacht zerstört zunächst berufliches Vertrauen.",
+      "interest": "Privater Verdacht zerstört zunächst berufliches Vertrauen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was weiß Alfred (James Stewart) nach dem Cafébesuch in @, Klara (Margaret Sullavan) aber noch nicht?",
+      "answers": [
+        "Die Kollegin ist seine Briefpartnerin.",
+        "Der Laden wird am nächsten Tag verkauft.",
+        "Klara hat seine Briefe nur abgeschrieben.",
+        "Der Chef hat die Liebesbriefe verfasst."
+      ],
+      "feedback": [
+        "Alfred erkennt Klara als seine Briefpartnerin, verrät seine Identität jedoch zunächst nicht.",
+        "Ein Ladenverkauf ist nicht diese Enthüllung.",
+        "Klara schreibt die Briefe selbst.",
+        "Matuschek ist nicht der Briefautor."
+      ],
+      "short": "Alfred erkennt Klara als seine Briefpartnerin, verrät seine Identität jedoch zunächst nicht.",
+      "context": "Alfred erkennt Klara als seine Briefpartnerin, verrät seine Identität jedoch zunächst nicht. Klara wartet weiter auf den idealisierten Unbekannten und behandelt Alfred kühl. Der Wissensvorsprung verändert ihre Begegnungen: Für ihn gehören beide Seiten nun zusammen, für sie bleiben sie getrennt.",
+      "anchor": "Alfred erkennt die Einheit von Kollegin und Briefpartnerin.",
+      "interest": "Alfred erkennt die Einheit von Kollegin und Briefpartnerin.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie legt Alfred (James Stewart) in @ seine Identität als Briefpartner endgültig offen?",
+      "answers": [
+        "Er zitiert ihren Brief und trägt eine rote Nelke.",
+        "Er nennt das gemeinsam vereinbarte Erkennungswort.",
+        "Er zeigt den Poststempel sämtlicher Briefe.",
+        "Er lässt einen Kollegen seine Handschrift bestätigen."
+      ],
+      "feedback": [
+        "Alfred zitiert Klaras Brief und steckt eine rote Nelke an.",
+        "Die Auflösung verbindet Briefzitat und rote Nelke.",
+        "Poststempel allein offenbaren seine Rolle nicht.",
+        "Er zeigt Klara die Identität selbst mit Brief und Erkennungsblume."
+      ],
+      "short": "Alfred zitiert Klaras Brief und steckt eine rote Nelke an.",
+      "context": "Alfred zitiert Klaras Brief und steckt eine rote Nelke an. Klara Novak (Margaret Sullavan) erkennt daran den erwarteten Briefpartner. Die Enthüllung erfolgt im vertrauten Geschäft: Der ersehnte Fremde ist der Kollege, dessen tatsächliche Persönlichkeit sie neu beurteilen muss.",
+      "anchor": "Briefzitat und Nelke machen den Unbekannten sichtbar.",
+      "interest": "Briefzitat und Nelke machen den Unbekannten sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1940",
+        "1937",
+        "1933",
+        "1942"
+      ],
+      "feedback": [
+        "1940 erschien der Film.",
+        "1937 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1940 wird im zeitlichen Hintergrund erklärt.",
+        "1933 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1940 wird im zeitlichen Hintergrund erklärt.",
+        "1942 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1940 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1940 erschien der Film.",
+      "context": "1940 erschien der Film. Miklós Lászlós Bühnenstück „Parfumerie“ war 1937 entstanden; drei Jahre später wurde aus diesem Stoff die Budapester Ladenromanze. Der Film nutzt handgeschriebene Briefe als Liebesmedium, lange vor der digitalen Neuinterpretation „E-m@il für Dich“ von 1998.",
+      "anchor": "Parfumerie 1937, Film 1940, E-m@il für Dich 1998: Drei Jahre zur ersten Adaption, danach 58 Jahre bis zur digitalen Liebespost.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Ernst Lubitsch",
+        "George Cukor",
+        "Preston Sturges",
+        "Leo McCarey"
+      ],
+      "feedback": [
+        "Ernst Lubitsch inszenierte das Drehbuch von Samson Raphaelson nach Miklós László.",
+        "George Cukor wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Ernst Lubitsch.",
+        "Preston Sturges wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Ernst Lubitsch.",
+        "Leo McCarey wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Ernst Lubitsch."
+      ],
+      "short": "Ernst Lubitsch inszenierte das Drehbuch von Samson Raphaelson nach Miklós László.",
+      "context": "Ernst Lubitsch inszenierte das Drehbuch von Samson Raphaelson nach Miklós László. James Stewart und Margaret Sullavan spielen Kollegen, die ihre gemeinsame Briefbeziehung nicht erkennen. Die Regie stellt alltäglichen Streit und idealisierte private Sprache unmittelbar nebeneinander.",
+      "anchor": "Ernst Lubitsch inszenierte das Drehbuch von Samson Raphaelson nach Miklós László.",
+      "interest": "Ernst Lubitsch inszenierte das Drehbuch von Samson Raphaelson nach Miklós László.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

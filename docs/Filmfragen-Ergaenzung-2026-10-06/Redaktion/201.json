@@ -1,0 +1,222 @@
+{
+  "rank": 201,
+  "directors": [
+    "Roman Polanski"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein breit rezipierter Noir-Klassiker mit Nicholson; redaktionell ein bekannter Film.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1974; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Chinatown_(1974_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Chinatown_(1974_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "credits": {
+      "url": "https://www.paramountpictures.com/movies/chinatown",
+      "supports": "Gelesene offizielle Filmseite: Regie, Filmjahr, Besetzung und Werkbeschreibung."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen scheinbaren Auftrag erhält Jake Gittes (Jack Nicholson) am Anfang von @?",
+      "answers": [
+        "Den Ehebruch eines Mannes zu beobachten",
+        "Die Herkunft unterschlagener Wassergebühren zu prüfen",
+        "Einen vermissten Stadtbeamten zu finden",
+        "Eine politische Bestechung zu dokumentieren"
+      ],
+      "feedback": [
+        "Gittes soll einen angeblichen Ehebruch dokumentieren.",
+        "Die erste Auftraggeberin behauptet einen Ehebruch.",
+        "Der spätere Todesfall ist nicht der ursprüngliche Auftrag.",
+        "Er beginnt mit der Beobachtung vermeintlicher Untreue."
+      ],
+      "short": "Gittes soll einen angeblichen Ehebruch dokumentieren.",
+      "context": "Gittes soll einen angeblichen Ehebruch dokumentieren. Die Auftraggeberin gibt sich als Evelyn Mulwray aus; das übliche Detektivgeschäft wird dadurch zum Werkzeug einer fremden Kampagne gegen ihren vermeintlichen Ehemann.",
+      "anchor": "Der Routineauftrag ist bereits Teil einer Inszenierung.",
+      "interest": "Der Routineauftrag ist bereits Teil einer Inszenierung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Stadt bildet den politischen und räumlichen Hintergrund von @?",
+      "answers": [
+        "Los Angeles",
+        "Boston",
+        "New Orleans",
+        "San Francisco"
+      ],
+      "feedback": [
+        "Die Geschichte spielt in Los Angeles.",
+        "Boston ist nicht der Ort.",
+        "New Orleans ist nicht die Stadt.",
+        "San Francisco bildet nicht den Hintergrund."
+      ],
+      "short": "Die Geschichte spielt in Los Angeles.",
+      "context": "Die Geschichte spielt in Los Angeles. Die Wasserverwaltung und die Erweiterung des Umlands verbinden den Kriminalfall mit der Entwicklung der Stadt; der Schauplatz trägt damit eine konkrete wirtschaftliche Funktion.",
+      "anchor": "Los Angeles wächst auf einem umkämpften Wassersystem.",
+      "interest": "Los Angeles wächst auf einem umkämpften Wassersystem.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche nächtliche Beobachtung widerspricht in @ der behaupteten Wasserknappheit?",
+      "answers": [
+        "Aus den Reservoirs wird absichtlich Wasser abgelassen.",
+        "Die Reservoirs sind nachts vollständig trocken.",
+        "Private Felder werden mit neuem Trinkwasser bewässert.",
+        "Der Bürgermeister lässt die öffentlichen Brunnen öffnen."
+      ],
+      "feedback": [
+        "Gittes (Jack Nicholson) entdeckt nächtliche Wasserablässe trotz Trockenheit.",
+        "Gittes sieht das gezielte Ablassen von Wasser.",
+        "Die konkrete Nachtbeobachtung betrifft den Wasserabfluss.",
+        "Keine solche Brunnenaktion ist die Spur."
+      ],
+      "short": "Gittes (Jack Nicholson) entdeckt nächtliche Wasserablässe trotz Trockenheit.",
+      "context": "Gittes (Jack Nicholson) entdeckt nächtliche Wasserablässe trotz Trockenheit. Die künstliche Knappheit macht Landgeschäfte möglich; eine scheinbar natürliche Krise erweist sich damit als Teil einer gezielten wirtschaftlichen Strategie.",
+      "anchor": "Die Knappheit wird durch absichtliche Ablässe erzeugt.",
+      "interest": "Die Knappheit wird durch absichtliche Ablässe erzeugt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was fällt Gittes (Jack Nicholson) bei den Käufern der Grundstücke in @ auf?",
+      "answers": [
+        "Darunter sind Tote und ahnungslose Heimresidenten.",
+        "Die Käufer sind sämtlich Wasserwerksbeamte.",
+        "Die Käufer haben ihre Namen offen als Firmen angegeben.",
+        "Die Käufer wohnen selbst schon auf den Grundstücken."
+      ],
+      "feedback": [
+        "Grundstücke werden im Namen Verstorbener und ahnungsloser Heimresidenten gekauft.",
+        "Die Liste enthält Tote und nichtsahnende Heimbewohner.",
+        "Gerade fremde Privatnamen verdecken das Geschäft.",
+        "Die eingetragenen Personen kennen die Käufe teils gar nicht."
+      ],
+      "short": "Grundstücke werden im Namen Verstorbener und ahnungsloser Heimresidenten gekauft.",
+      "context": "Grundstücke werden im Namen Verstorbener und ahnungsloser Heimresidenten gekauft. Gittes verfolgt einen Namen aus der Todesanzeige; die bürokratische Spur enthüllt, wie die tatsächlichen Interessenten hinter scheinbaren Eigentümern verschwinden.",
+      "anchor": "Die Käuferlisten verschleiern die eigentlichen Landinteressen.",
+      "interest": "Die Käuferlisten verschleiern die eigentlichen Landinteressen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum ist Salz im Wasser von Hollis Mulwrays Lunge in @ entscheidend?",
+      "answers": [
+        "Er kann nicht im Süßwasserreservoir ertrunken sein.",
+        "Er muss kurz vorher aus dem Meer gerettet worden sein.",
+        "Er kann nicht durch eine vergiftete Mahlzeit gestorben sein.",
+        "Es beweist einen natürlichen Tod durch Krankheit."
+      ],
+      "feedback": [
+        "Salzwasser in Hollis’ Lunge widerspricht dem Fundort im Süßwasserreservoir.",
+        "Das Salzwasser weist auf einen anderen Ertrinkungsort, keine Rettung.",
+        "Das Salz grenzt den Wasserort ein.",
+        "Der Befund widerspricht dem behaupteten Süßwasserreservoir."
+      ],
+      "short": "Salzwasser in Hollis’ Lunge widerspricht dem Fundort im Süßwasserreservoir.",
+      "context": "Salzwasser in Hollis’ Lunge widerspricht dem Fundort im Süßwasserreservoir. Gittes (Jack Nicholson) untersucht deshalb den Salzwasserteich der Mulwrays; der Körper wurde an einen anderen Ort gebracht, um die Todesumstände zu verschleiern.",
+      "anchor": "Das Lungenwasser widerspricht dem scheinbaren Tatort.",
+      "interest": "Das Lungenwasser widerspricht dem scheinbaren Tatort.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Rolle spielen die im Teich gefundenen Bifokalgläser in @?",
+      "answers": [
+        "Sie weisen auf Noah Cross statt auf Hollis Mulwray.",
+        "Sie bestätigen Hollis als Besitzer des Teiches.",
+        "Sie weisen auf Evelyns heimlichen Besuch hin.",
+        "Sie belegen nur eine Begegnung zwischen Hollis und Gittes."
+      ],
+      "feedback": [
+        "Evelyn (Faye Dunaway) erklärt, Hollis trage keine Bifokalgläser.",
+        "Hollis trägt keine Bifokalgläser; die Spur führt zu Cross.",
+        "Die Brille ist ein Hinweis auf Noah Cross.",
+        "Der Besitzer der Gläser, nicht Gittes’ Besuch, ist entscheidend."
+      ],
+      "short": "Evelyn (Faye Dunaway) erklärt, Hollis trage keine Bifokalgläser.",
+      "context": "Evelyn (Faye Dunaway) erklärt, Hollis trage keine Bifokalgläser. Die gefundene Brille führt deshalb zu Noah Cross (John Huston); ein vertrauter Gegenstand verbindet die private Teichszene mit dem politischen Machtträger.",
+      "anchor": "Die falsche Brillenart weist auf den anderen Mann.",
+      "interest": "Die falsche Brillenart weist auf den anderen Mann.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1974",
+        "1971",
+        "1967",
+        "1976"
+      ],
+      "feedback": [
+        "1974 erschien der Film, seine Handlung liegt 1937.",
+        "1971 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1974 wird im zeitlichen Hintergrund erklärt.",
+        "1967 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1974 wird im zeitlichen Hintergrund erklärt.",
+        "1976 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1974 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1974 erschien der Film, seine Handlung liegt 1937.",
+      "context": "1974 erschien der Film, seine Handlung liegt 1937. Der Abstand von 37 Jahren macht ihn zu einem rückblickenden Neo-Noir: Ein moderner Film rekonstruiert eine ältere Stadtwelt, in der Wasserpolitik und private Gewalt zusammenwirken.",
+      "anchor": "Handlung 1937, Film 1974: 37 Jahre Abstand machen die Los-Angeles-Geschichte zum rückblickenden Neo-Noir.",
+      "interest": "Der Abstand zwischen erzählter Zeit und Veröffentlichung macht den rückblickenden Blick des Films sichtbar.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Roman Polanski",
+        "Alan J. Pakula",
+        "Sidney Lumet",
+        "William Friedkin"
+      ],
+      "feedback": [
+        "Roman Polanski inszenierte nach Robert Townes Drehbuch.",
+        "Alan J. Pakula wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Roman Polanski.",
+        "Sidney Lumet wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Roman Polanski.",
+        "William Friedkin wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Roman Polanski."
+      ],
+      "short": "Roman Polanski inszenierte nach Robert Townes Drehbuch.",
+      "context": "Roman Polanski inszenierte nach Robert Townes Drehbuch. Jack Nicholson spielt Jake Gittes, Faye Dunaway Evelyn Mulwray. Die Ermittlung weitet einen vermeintlichen Ehebruch zum politischen und familiären Machtkomplex aus; der begrenzte Blick des Detektivs verhindert eine allwissende Übersicht.",
+      "anchor": "Roman Polanski inszenierte nach Robert Townes Drehbuch.",
+      "interest": "Roman Polanski inszenierte nach Robert Townes Drehbuch.",
+      "sources": [
+        "eckdaten",
+        "credits"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

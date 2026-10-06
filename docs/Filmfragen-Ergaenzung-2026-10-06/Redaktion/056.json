@@ -1,0 +1,214 @@
+{
+  "rank": 56,
+  "directors": [
+    "Ritesh Batra"
+  ],
+  "production_countries": [
+    "Indien",
+    "USA",
+    "Deutschland",
+    "Frankreich"
+  ],
+  "familiarity_reason": "Bekanntes indisches Arthouse-Kino mit Irrfan Khan; Kennerfilm.",
+  "release_note": "Cannes-Premiere 19. Mai 2013.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Lunchbox",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was bringt Ila und Saajan in @ erstmals miteinander in Kontakt?",
+      "answers": [
+        "Eine falsch zugestellte Mahlzeit",
+        "Eine absichtlich bestellte erste Mahlzeit",
+        "Eine Verabredung durch ihre Nachbarin",
+        "Ein gemeinsamer Besuch beim Lieferdienst"
+      ],
+      "feedback": [
+        "Ilas Mahlzeit landet irrtümlich bei Saajan.",
+        "Die Zustellung ist ein Irrtum.",
+        "Die Nachbarin stellt nicht die erste Verbindung her.",
+        "Sie treffen sich zunächst gar nicht persönlich."
+      ],
+      "short": "Ilas Mahlzeit landet irrtümlich bei Saajan.",
+      "context": "Ilas Mahlzeit landet irrtümlich bei Saajan (Irrfan Khan). Ila (Nimrat Kaur) will eigentlich ihren Mann erreichen; Saajan (Irrfan Khan) wird dadurch zum unerwarteten Empfänger ihrer Aufmerksamkeit.",
+      "anchor": "Eine Fehlzustellung eröffnet eine neue Verbindung.",
+      "interest": "Eine Fehlzustellung eröffnet eine neue Verbindung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie führen Ila (Nimrat Kaur) und Saajan (Irrfan Khan) zunächst ihr persönliches Gespräch in @?",
+      "answers": [
+        "Mit Briefen in der Essensbox",
+        "Mit nächtlichen Radioanrufen",
+        "Mit täglichen Videochats",
+        "Mit Zeitungsanzeigen"
+      ],
+      "feedback": [
+        "Die beiden tauschen Briefe in der Essensbox aus.",
+        "Radioanrufe sind nicht ihr Medium.",
+        "Sie verwenden keine Videochats.",
+        "Anzeigen ersetzen nicht die privaten Briefe."
+      ],
+      "short": "Die beiden tauschen Briefe in der Essensbox aus.",
+      "context": "Die beiden tauschen Briefe in der Essensbox aus. Das alltägliche Liefersystem transportiert damit nicht nur Nahrung, sondern vertrauliche Gedanken und Erinnerungen.",
+      "anchor": "Die Essensbox trägt auch Briefe.",
+      "interest": "Die Essensbox trägt auch Briefe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche berufliche Veränderung steht Saajan (Irrfan Khan) in @ bevor?",
+      "answers": [
+        "Seine Pensionierung",
+        "Eine Versetzung in eine andere Stadt",
+        "Eine Beförderung zum Abteilungsleiter",
+        "Eine Kündigung nach einem Fehler"
+      ],
+      "feedback": [
+        "Saajan steht vor der Pensionierung.",
+        "Saajan bereitet seinen Ruhestand vor.",
+        "Eine Beförderung steht nicht an.",
+        "Eine Fehlerkündigung ist nicht der Anlass."
+      ],
+      "short": "Saajan steht vor der Pensionierung.",
+      "context": "Saajan (Irrfan Khan) steht vor der Pensionierung. Er soll seinen Nachfolger Shaikh (Nawazuddin Siddiqui) einarbeiten; der bevorstehende Abschied aus dem Arbeitsalltag verstärkt seine zunächst abweisende Haltung.",
+      "anchor": "Saajan soll vor dem Ruhestand einen Nachfolger einarbeiten.",
+      "interest": "Saajan soll vor dem Ruhestand einen Nachfolger einarbeiten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum spricht Saajan (Irrfan Khan) Ila beim vereinbarten Restauranttreffen in @ nicht an?",
+      "answers": [
+        "Er fühlt sich zu alt für sie.",
+        "Er fürchtet eine Entdeckung durch Ilas Mann.",
+        "Er glaubt, sie sei gar nicht erschienen.",
+        "Er möchte erst ihre Mutter kennenlernen."
+      ],
+      "feedback": [
+        "Saajan sieht Ila (Nimrat Kaur), fühlt sich aber zu alt für sie.",
+        "Er erklärt die Distanz mit seinem Alter.",
+        "Er sieht Ila tatsächlich.",
+        "Ein Muttertreffen ist nicht die Voraussetzung."
+      ],
+      "short": "Saajan sieht Ila (Nimrat Kaur), fühlt sich aber zu alt für sie.",
+      "context": "Saajan (Irrfan Khan) sieht Ila (Nimrat Kaur), fühlt sich aber zu alt für sie. Sein Ausbleiben ist deshalb keine fehlende Einladung, sondern eine Entscheidung aus Unsicherheit.",
+      "anchor": "Saajan kommt zum Treffpunkt und bleibt auf Abstand.",
+      "interest": "Saajan kommt zum Treffpunkt und bleibt auf Abstand.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welcher Unterschied prägt die Darstellung von Ilas Nachbarin in @?",
+      "answers": [
+        "Sie ist zu hören, bleibt aber unsichtbar.",
+        "Sie ist nur in kurzen Rückblenden sichtbar.",
+        "Sie wird ausschließlich durch Saajans Erzählung vorgestellt.",
+        "Sie schreibt Ila nur Briefe."
+      ],
+      "feedback": [
+        "Die Nachbarin wird von Bharti Achrekar als Stimme gespielt.",
+        "Die Nachbarin bleibt als Stimme präsent.",
+        "Saajan vermittelt ihre Stimme nicht.",
+        "Die Kommunikation erfolgt hörbar, nicht ausschließlich schriftlich."
+      ],
+      "short": "Die Nachbarin wird von Bharti Achrekar als Stimme gespielt.",
+      "context": "Die Nachbarin wird von Bharti Achrekar als Stimme gespielt. Ihre Ratschläge kommen aus der Wohnung darüber; räumliche Nähe entsteht hier ohne eine sichtbare Begegnung im Bild.",
+      "anchor": "Die Nachbarin ist eine hörbare Präsenz über Ila.",
+      "interest": "Die Nachbarin ist eine hörbare Präsenz über Ila.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Richtungsänderung vollzieht Saajan (Irrfan Khan) am Ende von @?",
+      "answers": [
+        "Er kehrt nach Mumbai zurück und sucht Ilas Adresse.",
+        "Er wartet in Nashik auf einen Brief Ilas.",
+        "Er lädt Ila sofort in seinen Zug ein.",
+        "Er kündigt seine bisherige Adresse ohne Rückkehr."
+      ],
+      "feedback": [
+        "Saajan kehrt nach Mumbai zurück und sucht Ila (Nimrat Kaur).",
+        "Er bricht die Entfernung ab und kehrt zurück.",
+        "Eine gemeinsame Zugfahrt wird nicht hergestellt.",
+        "Die Adresssuche zeigt seine neue Hinwendung."
+      ],
+      "short": "Saajan kehrt nach Mumbai zurück und sucht Ila (Nimrat Kaur).",
+      "context": "Saajan (Irrfan Khan) kehrt nach Mumbai zurück und sucht Ila (Nimrat Kaur). Die letzte Bewegung korrigiert seinen Rückzug, zeigt aber noch kein sicher vollzogenes gemeinsames Leben.",
+      "anchor": "Saajan wendet sich vom Rückzug zurück zur Begegnung.",
+      "interest": "Saajan wendet sich vom Rückzug zurück zur Begegnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2013",
+        "2011",
+        "2008",
+        "2014"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2013.",
+        "2011 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2008 liegt fünf Jahre davor.",
+        "2014 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2013 erstmals veröffentlicht.",
+      "context": "2013 wurde der Film in Cannes gezeigt. Batra begann 2007 mit Recherchen für einen Dokumentarfilm über Mumbais Essenslieferanten. Sechs Jahre später erschien aus dieser Beschäftigung eine fiktionale Geschichte über eine Fehlzustellung.",
+      "anchor": "Aus Batras Lieferdienstrecherche von 2007 entstand sechs Jahre später, 2013, die Briefgeschichte.",
+      "interest": "Aus Batras Lieferdienstrecherche von 2007 entstand sechs Jahre später, 2013, die Briefgeschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Ritesh Batra",
+        "Mira Nair",
+        "Shoojit Sircar",
+        "Anurag Kashyap"
+      ],
+      "feedback": [
+        "Ritesh Batra führte Regie.",
+        "Mira Nair führte bei diesem Film nicht Regie.",
+        "Shoojit Sircar führte bei diesem Film nicht Regie.",
+        "Anurag Kashyap führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Ritesh Batra.",
+      "context": "Batra wollte zunächst die Dabbawalas dokumentieren. Geschichten aus ihrer Arbeit führten ihn zur fiktionalen Briefbeziehung; einige der während der Recherche kennengelernten Lieferanten übernahmen kleine Rollen.",
+      "anchor": "Batra wollte zunächst die Dabbawalas dokumentieren.",
+      "interest": "Batra wollte zunächst die Dabbawalas dokumentieren.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

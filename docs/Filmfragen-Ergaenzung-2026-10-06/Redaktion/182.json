@@ -1,0 +1,217 @@
+{
+  "rank": 182,
+  "directors": [
+    "Denis Villeneuve"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Die Fortsetzung einer breit wahrgenommenen aktuellen Kinoadaption; redaktionell ein bekannter Film.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 2024; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Dune:_Part_Two",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Dune:_Part_Two",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Bei welcher Gemeinschaft lebt Paul (Timothée Chalamet) in @ nach dem Untergang seines Hauses?",
+      "answers": [
+        "Bei den Fremen",
+        "Bei der Raumfahrergilde",
+        "Bei einer irdischen Kolonie",
+        "Bei der Harkonnen-Hofgarde"
+      ],
+      "feedback": [
+        "Paul lebt bei den Fremen auf Arrakis.",
+        "Er wird nicht Mitglied der Raumfahrergilde.",
+        "Eine Erdkolonie ist nicht sein Zufluchtsort.",
+        "Die Harkonnen sind seine Gegner."
+      ],
+      "short": "Paul lebt bei den Fremen auf Arrakis.",
+      "context": "Paul lebt bei den Fremen auf Arrakis. Er lernt ihre Sprache, Kampfweisen und Überlebenstechniken; seine Aufnahme eröffnet ihm eine neue Machtbasis, wirft aber auch Fragen nach seiner Rolle als Außenstehender auf.",
+      "anchor": "Die Wüstengemeinschaft wird Pauls neue Heimat und Machtbasis.",
+      "interest": "Die Wüstengemeinschaft wird Pauls neue Heimat und Machtbasis.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche besondere Fortbewegung erlernt Paul (Timothée Chalamet) in @?",
+      "answers": [
+        "Das Reiten eines Sandwurms",
+        "Das Lenken eines Wüstenflugzeugs ohne Instrumente",
+        "Das Steuern eines Ernters im Sandsturm",
+        "Das Führen einer Karawane nach den Sternen"
+      ],
+      "feedback": [
+        "Paul lernt, einen Sandwurm zu reiten.",
+        "Die besonders gezeigte neue Fähigkeit ist das Sandwurmreiten.",
+        "Paul lernt, den Sandwurm als Transportmittel zu benutzen.",
+        "Die Herausforderung ist sein erster Ritt auf einem Sandwurm."
+      ],
+      "short": "Paul lernt, einen Sandwurm zu reiten.",
+      "context": "Paul lernt, einen Sandwurm zu reiten. Die gefährliche Aufgabe gehört zur Fremenpraxis und zeigt seine wachsende Einbindung in ihre Welt; sie ist mehr als ein spektakulärer persönlicher Mutbeweis.",
+      "anchor": "Die Wurmpraxis macht Pauls Einbindung sichtbar.",
+      "interest": "Die Wurmpraxis macht Pauls Einbindung sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was verändert das Wasser des Lebens bei Jessica (Rebecca Ferguson) in @?",
+      "answers": [
+        "Es eröffnet ihr die Erinnerungen früherer ehrwürdiger Mütter.",
+        "Es nimmt ihr die Fähigkeit zur Stimme.",
+        "Es verleiht ihr die Erinnerungen aller Männer.",
+        "Es trennt sie vollständig von ihrem ungeborenen Kind."
+      ],
+      "feedback": [
+        "Jessica überlebt die giftige Flüssigkeit und erhält Erinnerungen ihrer Vorgängerinnen.",
+        "Sie gewinnt Zugang zu den Erinnerungen früherer Frauen.",
+        "Der geöffnete Erinnerungsschatz betrifft frühere ehrwürdige Mütter.",
+        "Das Kind wird vielmehr von ihrer Veränderung mitbetroffen."
+      ],
+      "short": "Jessica überlebt die giftige Flüssigkeit und erhält Erinnerungen ihrer Vorgängerinnen.",
+      "context": "Jessica überlebt die giftige Flüssigkeit und erhält Erinnerungen ihrer Vorgängerinnen. Auch das Bewusstsein ihrer ungeborenen Tochter wird geweckt; ihre neue religiöse Position beeinflusst deshalb zugleich ihre Familienbeziehung.",
+      "anchor": "Das Ritual überträgt vergangene Erinnerungen.",
+      "interest": "Das Ritual überträgt vergangene Erinnerungen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was findet Gurney Halleck (Josh Brolin) mit Paul in @ wieder?",
+      "answers": [
+        "Die versteckten Atomwaffen des Hauses Atreides",
+        "Die versteckten Raumschiffe der Fremen",
+        "Ein Lager mit dem Wasser des Lebens",
+        "Die Siegelringe sämtlicher Großen Häuser"
+      ],
+      "feedback": [
+        "Gurney zeigt Paul (Timothée Chalamet) die versteckten Atomwaffen der Atreides.",
+        "Gurney kennt das Arsenal der Atreides.",
+        "Der Fund ist ein Waffenarsenal.",
+        "Die Atomwaffen sind der entscheidende wiedergewonnene Bestand."
+      ],
+      "short": "Gurney zeigt Paul (Timothée Chalamet) die versteckten Atomwaffen der Atreides.",
+      "context": "Gurney zeigt Paul (Timothée Chalamet) die versteckten Atomwaffen der Atreides. Die familiäre Hinterlassenschaft erhält nun strategische Wirkung; sie ermöglicht eine entscheidende Veränderung der militärischen Lage auf Arrakis.",
+      "anchor": "Das Familienarsenal wird zum strategischen Hebel.",
+      "interest": "Das Familienarsenal wird zum strategischen Hebel.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum lehnt Chani (Zendaya) Pauls Aufstieg in @ zunehmend ab?",
+      "answers": [
+        "Sie misstraut der religiösen Manipulation der Fremen.",
+        "Sie verlangt, die Fremen sollten den Imperator retten.",
+        "Sie will den alten Spicevertrag der Harkonnen erhalten.",
+        "Sie hält eine Heirat mit Irulan für die einzige Befreiung."
+      ],
+      "feedback": [
+        "Chani erkennt die Prophezeiung als von den Bene Gesserit verbreitetes Machtmittel.",
+        "Ihr Widerstand gilt Pauls religiöser Machtübernahme.",
+        "Chani unterstützt keine solche Fortführung.",
+        "Die politische Heirat entfernt Paul gerade von Chani."
+      ],
+      "short": "Chani erkennt die Prophezeiung als von den Bene Gesserit verbreitetes Machtmittel.",
+      "context": "Chani erkennt die Prophezeiung als von den Bene Gesserit verbreitetes Machtmittel. Als Paul (Timothée Chalamet) die messianische Rolle annimmt, entfernt er sich von der anfänglichen Zusage, gleichberechtigt an ihrer Seite zu kämpfen.",
+      "anchor": "Pauls Heilsrolle untergräbt Chanis Vorstellung von gemeinsamer Freiheit.",
+      "interest": "Pauls Heilsrolle untergräbt Chanis Vorstellung von gemeinsamer Freiheit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entwicklung folgt in @ trotz Pauls Sieg über den Imperator?",
+      "answers": [
+        "Ein Krieg gegen die Großen Häuser beginnt.",
+        "Die Großen Häuser erkennen ihn sofort an.",
+        "Paul überträgt die Herrschaft vollständig an Chani.",
+        "Die Fremen geben ihre militärische Macht auf."
+      ],
+      "feedback": [
+        "Die Großen Häuser erkennen Pauls (Timothée Chalamet) Anspruch nicht an.",
+        "Sie widersetzen sich und werden zum Kriegsziel.",
+        "Er ruft seine Anhänger zum Krieg auf.",
+        "Sie tragen die Auseinandersetzung gegen die Häuser weiter."
+      ],
+      "short": "Die Großen Häuser erkennen Pauls (Timothée Chalamet) Anspruch nicht an.",
+      "context": "Die Großen Häuser erkennen Pauls (Timothée Chalamet) Anspruch nicht an. Er lässt die Fremen gegen sie ausziehen; sein lokaler Sieg beendet den Konflikt daher nicht, sondern eröffnet den gefürchteten größeren Krieg.",
+      "anchor": "Der errungene Thron eröffnet den vorausgesehenen Krieg.",
+      "interest": "Der errungene Thron eröffnet den vorausgesehenen Krieg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2024",
+        "2021",
+        "2017",
+        "2026"
+      ],
+      "feedback": [
+        "2024 wurde die Fortsetzung erstmals gezeigt, drei Jahre nach „Dune“ von 2021.",
+        "2021 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2024 wird im zeitlichen Hintergrund erklärt.",
+        "2017 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2024 wird im zeitlichen Hintergrund erklärt.",
+        "2026 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2024 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2024 wurde die Fortsetzung erstmals gezeigt, drei Jahre nach „Dune“ von 2021.",
+      "context": "2024 wurde die Fortsetzung erstmals gezeigt, drei Jahre nach „Dune“ von 2021. Beide Filme adaptieren gemeinsam Frank Herberts ersten Roman. Der Abstand ordnet die Fortsetzung als zweite Hälfte dieser Adaption ein, nicht als Verfilmung des zweiten Romans.",
+      "anchor": "Dune 2021, Dune: Part Two 2024: Drei Jahre trennen die zwei Hälften der Adaption des ersten Romans.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Denis Villeneuve",
+        "Christopher Nolan",
+        "Alex Garland",
+        "Steven Soderbergh"
+      ],
+      "feedback": [
+        "Denis Villeneuve führte erneut Regie und schrieb mit Jon Spaihts.",
+        "Christopher Nolan wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Denis Villeneuve.",
+        "Alex Garland wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Denis Villeneuve.",
+        "Steven Soderbergh wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Denis Villeneuve."
+      ],
+      "short": "Denis Villeneuve führte erneut Regie und schrieb mit Jon Spaihts.",
+      "context": "Denis Villeneuve führte erneut Regie und schrieb mit Jon Spaihts. Zendayas Chani erhält gegenüber dem ersten Film eine umfangreichere aktive Rolle; ihre Perspektive begleitet Pauls (Timothée Chalamet) Entwicklung vom Flüchtling zum religiösen und politischen Anführer.",
+      "anchor": "Denis Villeneuve führte erneut Regie und schrieb mit Jon Spaihts.",
+      "interest": "Denis Villeneuve führte erneut Regie und schrieb mit Jon Spaihts.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

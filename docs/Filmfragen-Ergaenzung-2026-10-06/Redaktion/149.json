@@ -1,0 +1,227 @@
+{
+  "rank": 149,
+  "directors": [
+    "John Carney"
+  ],
+  "production_countries": [
+    "Irland"
+  ],
+  "familiarity_reason": "International erfolgreicher kleiner Musikfilm, besonders bekannt unter Indie- und Musicalfans.",
+  "release_note": "Erste öffentliche Festivalvorführung als Rohschnitt am 15. Juli 2006 beim Galway Film Fleadh; die offizielle Broschüre bezeichnet sie als World Première. Die fertige Fassung folgte 2007 in Sundance und im Kino. Das Filmjahr 2006 bezeichnet die erste öffentliche Vorführung derselben Filmidentität; die sechs Inhaltsfragen beziehen sich auf die regulär veröffentlichte Fassung.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Once_(film)",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/once",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    },
+    "galway": {
+      "url": "https://www.galwayfilmfleadh.com/wp-content/uploads/2020/06/2006-gff-programme.pdf",
+      "supports": "PDF-Seite 71 direkt als Bild gelesen: öffentliche World Première, Samstag 15. Juli 2006 um 19:00, John Carney, Hansard/Irglová, 85 Minuten, Dublin und Musikprojekt."
+    },
+    "academy": {
+      "url": "https://www.oscars.org/oscars/ceremonies/2008",
+      "supports": "Gelesene Kategorie Music (Original Song): Falling Slowly aus Once gewinnt 2008, Musik und Text Glen Hansard und Markéta Irglová."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt begegnen sich die beiden Musiker in @?",
+      "answers": [
+        "Dublin",
+        "Belfast",
+        "Edinburgh",
+        "London"
+      ],
+      "feedback": [
+        "Die Geschichte spielt in Dublin.",
+        "Belfast ist nicht der zentrale Schauplatz.",
+        "Edinburgh ist nicht der Ort der Begegnung.",
+        "London ist erst ein späteres Ziel."
+      ],
+      "short": "Die Geschichte spielt in Dublin.",
+      "context": "Der Straßenmusiker (Glen Hansard) tritt auf der Grafton Street auf. Die junge tschechische Frau (Markéta Irglová) kommt durch seine Musik mit ihm ins Gespräch. Die Stadt ist keine austauschbare Konzertkulisse: Geschäfte, Wege und Wohnungen prägen ihren kurzen gemeinsamen Alltag.",
+      "anchor": "Dublins Straßen führen vom Zuhören zum gemeinsamen Spielen.",
+      "interest": "Dublins Straßen führen vom Zuhören zum gemeinsamen Spielen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Reparatur bringt die junge Frau (Markéta Irglová) dem Musiker in @?",
+      "answers": [
+        "Einen defekten Staubsauger",
+        "Ein kaputtes Radio",
+        "Eine beschädigte Geige",
+        "Einen gerissenen Plattenspielerriemen"
+      ],
+      "feedback": [
+        "Sie bittet ihn um eine Staubsaugerreparatur.",
+        "Ein Radio ist nicht der mitgebrachte Gegenstand.",
+        "Sie bringt keine Geige.",
+        "Ein Plattenspielerriemen ist nicht die Reparatur."
+      ],
+      "short": "Sie bittet ihn um eine Staubsaugerreparatur.",
+      "context": "Der Musiker (Glen Hansard) arbeitet im Reparaturgeschäft seines Vaters. Die junge Frau (Markéta Irglová) knüpft an diese Tätigkeit an. Das alltägliche Problem schafft einen zweiten Anlass zur Begegnung neben der Musik, bevor beide im Instrumentengeschäft zusammen spielen.",
+      "anchor": "Der Staubsauger verlängert die Begegnung über den Straßenauftritt hinaus.",
+      "interest": "Der Staubsauger verlängert die Begegnung über den Straßenauftritt hinaus.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie finanzieren die Musiker in @ ihre Studioaufnahme?",
+      "answers": [
+        "Sie erhalten einen Bankkredit.",
+        "Ein großer Verlag bezahlt im Voraus.",
+        "Ein Konzertpreis stellt das Studio.",
+        "Ein Fernsehcasting übernimmt die Kosten."
+      ],
+      "feedback": [
+        "Ein Bankkredit ermöglicht die Aufnahme.",
+        "Ein Verlag hat sie nicht vorab unter Vertrag genommen.",
+        "Ein Konzertpreis finanziert das Studio nicht.",
+        "Ein Fernsehcasting übernimmt die Kosten nicht."
+      ],
+      "short": "Ein Bankkredit ermöglicht die Aufnahme.",
+      "context": "Der Musiker (Glen Hansard) möchte mit einer Demoaufnahme nach London gehen. Die junge Frau (Markéta Irglová) hilft bei der Vorbereitung. Die Finanzierung bleibt Teil der praktischen Arbeit: Für ihre Musik müssen sie Zeit, Mitspieler und Geld organisieren, bevor das Studio zum Ort gemeinsamer Konzentration wird.",
+      "anchor": "Das gemeinsame Album braucht neben Talent einen Kredit und Mitspieler.",
+      "interest": "Das gemeinsame Album braucht neben Talent einen Kredit und Mitspieler.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was bedeutet die tschechische Antwort der Frau in @ auf die Frage nach ihrer Liebe zu ihrem Mann?",
+      "answers": [
+        "„Dich liebe ich.“",
+        "„Ich habe ihn vergessen.“",
+        "„Er kommt morgen an.“",
+        "„Liebe braucht Zeit.“"
+      ],
+      "feedback": [
+        "Sie sagt auf Tschechisch, dass sie den fragenden Musiker liebt.",
+        "Sie sagt nicht, dass sie ihren Mann vergessen habe.",
+        "Die Antwort kündigt keine Ankunft an.",
+        "Ein allgemeiner Satz über Zeit ist es nicht."
+      ],
+      "short": "Sie sagt auf Tschechisch, dass sie den fragenden Musiker liebt.",
+      "context": "Die junge Frau (Markéta Irglová) antwortet dem Musiker (Glen Hansard) in ihrer Sprache, übersetzt aber nicht. Für ihn bleibt ihre Aussage unzugänglich. Die Szene gibt dem Publikum einen Wissensvorsprung und bewahrt zugleich die Unsicherheit ihrer Beziehung.",
+      "anchor": "Ein Liebesbekenntnis bleibt für seinen Empfänger unübersetzt.",
+      "interest": "Ein Liebesbekenntnis bleibt für seinen Empfänger unübersetzt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum beeindruckt die Band den zunächst gelangweilten Toningenieur in @?",
+      "answers": [
+        "Ihre erste gemeinsame Aufnahme verändert seine Haltung.",
+        "Sie bezahlt ihm ein hohes Trinkgeld.",
+        "Sie nennt den Namen eines berühmten Produzenten.",
+        "Sie droht, in ein anderes Studio zu wechseln."
+      ],
+      "feedback": [
+        "Die Musik selbst gewinnt den Toningenieur für die Aufnahme.",
+        "Ein Trinkgeld bewirkt den Wechsel nicht.",
+        "Ein Produzentenname ist nicht der entscheidende Anstoß.",
+        "Eine Drohung mit Studiowechsel wird nicht benötigt."
+      ],
+      "short": "Die Musik selbst gewinnt den Toningenieur für die Aufnahme.",
+      "context": "Éamon (Geoff Minogue) begegnet der Gruppe zunächst ohne besondere Erwartungen. Bei When Your Mind’s Made Up hört er konzentriert zu und beginnt mitzuarbeiten. Die Wendung entsteht durch das tatsächlich gespielte Stück; der Film setzt kreative Überzeugungskraft an die Stelle eines großen Karriereversprechens.",
+      "anchor": "Eine gespielte Nummer verwandelt Routine in Aufmerksamkeit.",
+      "interest": "Eine gespielte Nummer verwandelt Routine in Aufmerksamkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Geschenk lässt der Musiker (Glen Hansard) der Frau am Ende von @ liefern?",
+      "answers": [
+        "Ein Klavier",
+        "Seine Gitarre",
+        "Eine Flugkarte nach London",
+        "Ein signiertes Plattenalbum"
+      ],
+      "feedback": [
+        "Er kauft ihr ein Klavier.",
+        "Seine Gitarre ist nicht das Geschenk.",
+        "Sie erhält keine Londonflugkarte von ihm.",
+        "Ein signiertes Album ersetzt das Klavier nicht."
+      ],
+      "short": "Er kauft ihr ein Klavier.",
+      "context": "Der Musiker (Glen Hansard) reist nach London, während die junge Frau (Markéta Irglová) ihre Familie in Dublin wieder zusammenführt. Das Klavier bleibt als Erinnerung und als Möglichkeit eigener Musik. Die Trennung hebt ihre künstlerische Verbindung damit nicht auf.",
+      "anchor": "Das Klavier bleibt, obwohl der gemeinsame Weg endet.",
+      "interest": "Das Klavier bleibt, obwohl der gemeinsame Weg endet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals öffentlich vorgeführt, einschließlich der Festivalvorführung des Rohschnitts?",
+      "answers": [
+        "2006",
+        "2003",
+        "2007",
+        "2010"
+      ],
+      "feedback": [
+        "Die offizielle Galway-Broschüre kündigt die öffentliche Weltpremiere für den 15. Juli 2006 an.",
+        "2003 liegt drei Jahre vor der öffentlichen Festivalvorführung.",
+        "2007 ist das Jahr der fertigen Sundance- und Kinofassung; der öffentliche Rohschnitt wurde schon 2006 gezeigt.",
+        "2010 liegt vier Jahre nach der ersten öffentlichen Vorführung."
+      ],
+      "short": "Der öffentliche Rohschnitt wurde 2006 in Galway gezeigt; die fertige Fassung folgte 2007.",
+      "context": "Once wurde am 15. Juli 2006 in Galway als öffentlicher Rohschnitt vorgeführt. Die Festivalbroschüre nennt dies ausdrücklich die Weltpremiere; die fertige Sundance- und Kinofassung folgte 2007. Im Jahr 2008 gewannen Glen Hansard und Markéta Irglová für Falling Slowly den Song-Oscar, zwei Jahre nach der ersten öffentlichen Vorführung und ein Jahr nach der fertigen Festivalfassung.",
+      "anchor": "Galway-Rohschnitt 2006, fertige Fassung 2007, Song-Oscar 2008: zwei Jahre von der ersten Vorführung zum Preis.",
+      "interest": "Der Festivalbeginn und die spätere Anerkennung des Songs bilden eine konkrete, fassungsbewusste Zeitleiste.",
+      "sources": [
+        "handlung",
+        "galway",
+        "academy"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Carney",
+        "Jim Sheridan",
+        "Lenny Abrahamson",
+        "Damien Chazelle"
+      ],
+      "feedback": [
+        "John Carney führte Regie.",
+        "Jim Sheridan gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Lenny Abrahamson gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Damien Chazelle gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet John Carney.",
+      "context": "John Carney schrieb und inszenierte. Seine Hauptdarsteller Glen Hansard und Markéta Irglová sind Musiker und entwickelten die Songs. Carney hatte selbst in Hansards Band The Frames gespielt; die Musikbeziehungen hinter der Produktion stützen den Eindruck unmittelbarer gemeinsamer Arbeit im Film.",
+      "anchor": "John Carney: Seine Hauptdarsteller Glen Hansard und Markéta Irglová sind Musiker und entwickelten die Songs.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt",
+        "galway"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "rank": 213,
+  "directors": [
+    "Anthony Minghella"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Weithin bekannte Highsmith-Verfilmung mit Matt Damon und Jude Law.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1999; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Talented_Mr._Ripley_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Talented_Mr._Ripley_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "drehbuch": {
+      "url": "https://www.dailyscript.com/scripts/mr-ripley_shooting.html",
+      "supports": "Gelesene Anfangsszenen der Shooting-Fassung Anthony Minghellas vom 01.11.1999: Herbert nennt Dickies Jazzinteresse; Tom trainiert das Erkennen von Jazzplatten."
+    },
+    "studio": {
+      "url": "https://www.paramountpictures.com/movies/the-talented-mr-ripley",
+      "supports": "Gelesene offizielle Filmseite: 1999, Minghella Regie und Drehbuch, Hauptbesetzung, vorangegangene Fassung Purple Noon von 1960."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Mit welchem Auftrag reist Tom in @ nach Italien?",
+      "answers": [
+        "Er soll den Sohn eines Industriellen heimholen",
+        "Er soll ein gestohlenes Gemälde finden",
+        "Er soll ein Hotel eröffnen",
+        "Er soll einen Mordfall untersuchen"
+      ],
+      "feedback": [
+        "Herbert Greenleaf (James Rebhorn) schickt Tom Ripley (Matt Damon) nach Italien, um Dickie (Jude Law) zur Rückkehr zu bewegen.",
+        "Eine Gemäldesuche gehört nicht zu seinem Auftrag.",
+        "Tom soll kein Hotel leiten.",
+        "Er reist nicht als Ermittler an."
+      ],
+      "short": "Herbert Greenleaf (James Rebhorn) schickt Tom Ripley (Matt Damon) nach Italien, um Dickie (Jude Law) zur Rückkehr zu bewegen.",
+      "context": "Herbert Greenleaf (James Rebhorn) schickt Tom Ripley (Matt Damon) nach Italien, um Dickie (Jude Law) zur Rückkehr zu bewegen. Er hält Tom irrtümlich für einen früheren Studienfreund seines Sohnes.",
+      "anchor": "Ein vermeintlicher Studienfreund erhält Zugang zu Dickies Leben.",
+      "interest": "Ein vermeintlicher Studienfreund erhält Zugang zu Dickies Leben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Musikrichtung prägt Dickies Freizeit und Toms Annäherung in @?",
+      "answers": [
+        "Jazz",
+        "Operette",
+        "Country",
+        "Punk"
+      ],
+      "feedback": [
+        "Dickie Greenleaf (Jude Law) begeistert sich für Jazz.",
+        "Operette ist nicht ihre gemeinsame musikalische Welt.",
+        "Country steht nicht im Mittelpunkt.",
+        "Punk passt weder zur dargestellten Zeit noch zu Dickies Vorlieben."
+      ],
+      "short": "Dickie Greenleaf (Jude Law) begeistert sich für Jazz.",
+      "context": "Dickie Greenleaf (Jude Law) begeistert sich für Jazz. Tom Ripley (Matt Damon) beschäftigt sich damit, um Gemeinsamkeiten herzustellen und in Dickies privilegierten Alltag einzudringen.",
+      "anchor": "Jazz wird für Tom zur Eintrittskarte in Dickies Welt.",
+      "interest": "Jazz wird für Tom zur Eintrittskarte in Dickies Welt.",
+      "sources": [
+        "drehbuch"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie erzeugt Tom in @ nach Dickies Tod den Eindruck zweier lebender Personen?",
+      "answers": [
+        "Er belegt Hotels unter beiden Namen und fingiert Briefe",
+        "Er engagiert einen Doppelgänger für öffentliche Auftritte",
+        "Er verschickt alte Filmaufnahmen an die Polizei",
+        "Er lässt Dickies Pass durch einen Anwalt verlängern"
+      ],
+      "feedback": [
+        "Tom Ripley (Matt Damon) tritt wechselnd als er selbst und als Dickie auf.",
+        "Er engagiert keinen Doppelgänger.",
+        "Alte Filme tragen die Täuschung nicht.",
+        "Eine Passverlängerung ist nicht sein Verfahren."
+      ],
+      "short": "Tom Ripley (Matt Damon) tritt wechselnd als er selbst und als Dickie auf.",
+      "context": "Tom Ripley (Matt Damon) tritt wechselnd als er selbst und als Dickie auf. Getrennte Hotelaufenthalte und fingierte Korrespondenz sollen die beiden Identitäten unabhängig erscheinen lassen.",
+      "anchor": "Zwei Hotelidentitäten und Briefe halten den Toten scheinbar am Leben.",
+      "interest": "Zwei Hotelidentitäten und Briefe halten den Toten scheinbar am Leben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Entdeckung macht Freddie in @ für Tom gefährlich?",
+      "answers": [
+        "Die Vermieterin spricht Tom mit Dickies Namen an",
+        "Er findet das gesunkene Boot",
+        "Er erkennt Dickies Stimme auf einem Tonband",
+        "Er liest einen Bericht von Toms Psychiater"
+      ],
+      "feedback": [
+        "Als die Vermieterin Tom (Matt Damon) als Dickie anspricht, durchschaut Freddie Miles (Philip Seymour Hoffman) den Betrug.",
+        "Freddie findet das Boot nicht.",
+        "Ein Tonband enthüllt die Täuschung nicht.",
+        "Ein psychiatrischer Bericht ist nicht beteiligt."
+      ],
+      "short": "Als die Vermieterin Tom (Matt Damon) als Dickie anspricht, durchschaut Freddie Miles (Philip Seymour Hoffman) den Betrug.",
+      "context": "Als die Vermieterin Tom (Matt Damon) als Dickie anspricht, durchschaut Freddie Miles (Philip Seymour Hoffman) den Betrug. Tom tötet ihn, um die übernommene Identität zu schützen.",
+      "anchor": "Die Anrede der Vermieterin gefährdet Toms Doppelrolle.",
+      "interest": "Die Anrede der Vermieterin gefährdet Toms Doppelrolle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum weist Herbert Greenleaf in @ Marges Verdacht gegen Tom zurück?",
+      "answers": [
+        "Er vertraut einer Erklärung, die Dickie selbst belastet",
+        "Er besitzt ein zweifelsfreies Alibi für Tom",
+        "Er weiß bereits von allen Morden",
+        "Er glaubt, Marge habe Dickie nie gekannt"
+      ],
+      "feedback": [
+        "Der Ermittler Alvin MacCarron (Philip Baker Hall) hält Dickie für Freddies Mörder.",
+        "Tom hat kein zweifelsfreies Alibi für sämtliche Taten.",
+        "Herbert kennt den wahren Ablauf nicht.",
+        "Marge war Dickies Partnerin."
+      ],
+      "short": "Der Ermittler Alvin MacCarron (Philip Baker Hall) hält Dickie für Freddies Mörder.",
+      "context": "Der Ermittler Alvin MacCarron (Philip Baker Hall) hält Dickie für Freddies Mörder. Herbert (James Rebhorn) akzeptiert dieses Bild und belohnt Tom (Matt Damon), während Marge (Gwyneth Paltrow) misstrauisch bleibt.",
+      "anchor": "Eine bequeme Erklärung schützt Tom vor Marges Verdacht.",
+      "interest": "Eine bequeme Erklärung schützt Tom vor Marges Verdacht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Begegnung gefährdet auf dem Schiff am Ende von @ Toms neues Leben mit Peter?",
+      "answers": [
+        "Meredith kennt ihn weiterhin als Dickie",
+        "Marge erkennt ihn und will ihn vor Peter zur Rede stellen.",
+        "Dickies Vater trifft ihn mit einem neuen Ermittler.",
+        "Peter hört einen Polizeifunk über Freddies Tod."
+      ],
+      "feedback": [
+        "Meredith Logue (Cate Blanchett) begegnet Tom (Matt Damon) auf dem Schiff und kennt ihn als Dickie.",
+        "Die konkrete gefährliche Begegnung ist die mit Meredith, die ihn als Dickie kennt.",
+        "Auf dem Schiff begegnet ihm Meredith und gefährdet die Trennung seiner Identitäten.",
+        "Peter kennt Toms Namen; der Konflikt entsteht durch Merediths gegensätzliche Namenskenntnis."
+      ],
+      "short": "Meredith Logue (Cate Blanchett) begegnet Tom (Matt Damon) auf dem Schiff und kennt ihn als Dickie.",
+      "context": "Meredith Logue (Cate Blanchett) begegnet Tom (Matt Damon) auf dem Schiff und kennt ihn als Dickie. Peter (Jack Davenport) kennt seinen wirklichen Namen; beide Beziehungen lassen sich nicht zusammenhalten.",
+      "anchor": "Zwei unvereinbare Identitäten zerstören Toms vermeintlichen Neuanfang.",
+      "interest": "Zwei unvereinbare Identitäten zerstören Toms vermeintlichen Neuanfang.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1999",
+        "1996",
+        "1992",
+        "2001"
+      ],
+      "feedback": [
+        "1999 erschien diese Verfilmung.",
+        "1996 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1999 wird im zeitlichen Hintergrund erklärt.",
+        "1992 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1999 wird im zeitlichen Hintergrund erklärt.",
+        "2001 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1999 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1999 erschien diese Verfilmung.",
+      "context": "1999 erschien diese Verfilmung. Schon 1960 hatte René Clément denselben Roman als Nur die Sonne war Zeuge verfilmt; zwischen den beiden Kinofassungen liegen 39 Jahre.",
+      "anchor": "Nur die Sonne war Zeuge 1960, Der talentierte Mr. Ripley 1999: 39 Jahre trennen zwei Highsmith-Fassungen.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten",
+        "studio"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Anthony Minghella",
+        "Roman Polanski",
+        "David Cronenberg",
+        "David Fincher"
+      ],
+      "feedback": [
+        "Anthony Minghella schrieb das Drehbuch und führte Regie.",
+        "Roman Polanski wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Anthony Minghella.",
+        "David Cronenberg wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Anthony Minghella.",
+        "David Fincher wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Anthony Minghella."
+      ],
+      "short": "Anthony Minghella schrieb das Drehbuch und führte Regie.",
+      "context": "Anthony Minghella schrieb das Drehbuch und führte Regie. Seine Fassung zeigt Ripley als unsicheren Außenseiter, dessen Sehnsucht nach Dickies Leben sich zur mörderischen Identitätsübernahme steigert.",
+      "anchor": "Anthony Minghella schrieb das Drehbuch und führte Regie.",
+      "interest": "Anthony Minghella schrieb das Drehbuch und führte Regie.",
+      "sources": [
+        "eckdaten",
+        "studio"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

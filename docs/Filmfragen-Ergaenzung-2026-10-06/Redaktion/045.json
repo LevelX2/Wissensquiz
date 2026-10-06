@@ -1,0 +1,212 @@
+{
+  "rank": 45,
+  "directors": [
+    "Florian Zeller"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Vereinigtes Königreich"
+  ],
+  "familiarity_reason": "Bekanntes Demenzdrama mit Anthony Hopkins und Olivia Colman; durch Oscars breiter wahrgenommen.",
+  "release_note": "Sundance-Premiere 27. Januar 2020; breite Länderstarts 2021.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Father_(2020_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Erkrankung prägt Anthonys (Anthony Hopkins) Wahrnehmung in @?",
+      "answers": [
+        "Demenz",
+        "Eine akute Psychose",
+        "Eine depressive Episode",
+        "Eine bleibende Sehstörung"
+      ],
+      "feedback": [
+        "Anthony lebt mit Demenz.",
+        "Der Film folgt einem fortschreitenden Verlust der Orientierung.",
+        "Eine Depression allein erklärt die Erinnerungsausfälle nicht.",
+        "Die Verunsicherung beruht nicht nur auf dem Sehen."
+      ],
+      "short": "Anthony lebt mit Demenz.",
+      "context": "Anthony (Anthony Hopkins) lebt mit Demenz. Vertraute Menschen und Räume werden für ihn widersprüchlich; die Erzählung lässt das Publikum diese Unsicherheit unmittelbar miterleben.",
+      "anchor": "Die Wirklichkeit wird aus Anthonys Demenz erlebt.",
+      "interest": "Die Wirklichkeit wird aus Anthonys Demenz erlebt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was versucht Anne (Olivia Colman) für ihren Vater in @ zu organisieren?",
+      "answers": [
+        "Unterstützung durch eine Pflegekraft",
+        "Einen begleiteten Umzug in eine Ferienwohnung",
+        "Eine Wiederaufnahme seiner früheren Arbeit",
+        "Eine gemeinsame Rundreise"
+      ],
+      "feedback": [
+        "Anne versucht Pflege für ihren Vater zu organisieren.",
+        "Die Organisation betrifft Betreuung im Alltag.",
+        "Eine neue Arbeitsstelle sucht sie nicht.",
+        "Eine Rundreise ist nicht die geplante Unterstützung."
+      ],
+      "short": "Anne versucht Pflege für ihren Vater zu organisieren.",
+      "context": "Anne (Olivia Colman) versucht Pflege für ihren Vater zu organisieren. Anthony (Anthony Hopkins) weist Hilfe wiederholt zurück; sein Wunsch nach Selbstständigkeit erschwert damit auch ihren Alltag.",
+      "anchor": "Anne sucht Hilfe, Anthony wehrt sie ab.",
+      "interest": "Anne sucht Hilfe, Anthony wehrt sie ab.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welchen Verdacht verbindet Anthony (Anthony Hopkins) in @ mit seiner vermissten Uhr?",
+      "answers": [
+        "Eine Pflegekraft habe sie gestohlen.",
+        "Anne habe sie verschenkt.",
+        "Er habe sie bei einem Spaziergang verloren.",
+        "Sie sei bei einer Reparatur verschwunden."
+      ],
+      "feedback": [
+        "Anthony verdächtigt eine Pflegekraft des Diebstahls.",
+        "Er beschuldigt die Pflegekraft des Diebstahls.",
+        "Ein Spaziergangsverlust ist nicht sein Verdacht.",
+        "Eine Reparatur führt er nicht als Ursache an."
+      ],
+      "short": "Anthony verdächtigt eine Pflegekraft des Diebstahls.",
+      "context": "Anthony (Anthony Hopkins) verdächtigt eine Pflegekraft des Diebstahls. Der verlorene Gegenstand gibt seiner Verunsicherung eine greifbare Ursache; die Anschuldigung zeigt, wie er Erinnerungslücken auf andere Menschen zurückführt.",
+      "anchor": "Die fehlende Uhr wird zum vermeintlichen Diebstahl.",
+      "interest": "Die fehlende Uhr wird zum vermeintlichen Diebstahl.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Woran erinnert die Pflegekraft Laura (Imogen Poots) Anthony in @?",
+      "answers": [
+        "An seine andere Tochter Lucy",
+        "An seine frühere Lehrerin",
+        "An seine Mutter",
+        "An seine verstorbene Ehefrau"
+      ],
+      "feedback": [
+        "Laura erinnert Anthony (Anthony Hopkins) an Lucy.",
+        "Eine Lehrerin ist nicht die genannte Ähnlichkeit.",
+        "Seine Mutter ist nicht Lauras Vergleichsperson.",
+        "Laura wird nicht mit seiner Ehefrau verglichen."
+      ],
+      "short": "Laura erinnert Anthony (Anthony Hopkins) an Lucy.",
+      "context": "Laura (Imogen Poots) erinnert Anthony (Anthony Hopkins) an Lucy. Seine zweite Tochter ist in seiner Erinnerung präsent, obwohl er ihr Unfallgeschehen nicht zuverlässig einordnen kann; Gegenwart und Verlust überlagern sich.",
+      "anchor": "Laura ruft die Erinnerung an Lucy wach.",
+      "interest": "Laura ruft die Erinnerung an Lucy wach.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie entsteht in @ Unsicherheit über vertraute Personen?",
+      "answers": [
+        "Dieselben Rollen erscheinen mit verschiedenen Gesichtern.",
+        "Vertraute Personen nennen plötzlich andere Familienbeziehungen.",
+        "Die Rollen werden ausschließlich durch Stimmen dargestellt.",
+        "Dieselben Gesichter spielen sichtbar sämtliche Figuren."
+      ],
+      "feedback": [
+        "Vertraute Rollen erscheinen mit wechselnden Gesichtern.",
+        "Der konkrete Wechsel betrifft verschiedene Gesichter derselben Rollen.",
+        "Die Darsteller bleiben sichtbar.",
+        "Nicht ein einziges Gesicht übernimmt alle Rollen."
+      ],
+      "short": "Vertraute Rollen erscheinen mit wechselnden Gesichtern.",
+      "context": "Vertraute Rollen erscheinen mit wechselnden Gesichtern. Olivia Colman und Olivia Williams wirken etwa beide zeitweise wie Anthonys Tochter; der Film vermittelt damit seine Perspektive statt einen stabilen Überblick.",
+      "anchor": "Wechselnde Gesichter lösen die vertraute Ordnung auf.",
+      "interest": "Wechselnde Gesichter lösen die vertraute Ordnung auf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche tatsächliche Umgebung wird am Ende von @ erkennbar?",
+      "answers": [
+        "Ein Pflegeheim",
+        "Annes Wohnung",
+        "Anthonys frühere Wohnung",
+        "Ein vorübergehendes Hotelzimmer"
+      ],
+      "feedback": [
+        "Anthony (Anthony Hopkins) lebt in einem Pflegeheim.",
+        "Der Schluss offenbart die Pflegeeinrichtung.",
+        "Die frühere Wohnung ist nicht die tatsächliche Schlussumgebung.",
+        "Ein Hotel ist nicht der gezeigte Betreuungsort."
+      ],
+      "short": "Anthony (Anthony Hopkins) lebt in einem Pflegeheim.",
+      "context": "Anthony (Anthony Hopkins) lebt in einem Pflegeheim. Catherine (Olivia Williams) erklärt ihm Annes Aufenthalt in Paris und tröstet ihn; der erkennbare Ort beendet seine emotionale Orientierungslosigkeit nicht.",
+      "anchor": "Am Ende wird das Pflegeheim sichtbar.",
+      "interest": "Am Ende wird das Pflegeheim sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2020",
+        "2018",
+        "2015",
+        "2021"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2020.",
+        "2018 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2015 liegt fünf Jahre davor.",
+        "2021 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2020 erstmals veröffentlicht.",
+      "context": "2020 wurde das Drama erstmals in Sundance gezeigt. Zellers Theaterstück Le Père stammt von 2012; die Verfilmung folgt acht Jahre später. Der pandemiebedingt spätere breite Kinostart gehört zu 2021, nicht zur ersten Veröffentlichung.",
+      "anchor": "Das Theaterstück von 2012 wurde acht Jahre später, 2020, erstmals als Film gezeigt.",
+      "interest": "Das Theaterstück von 2012 wurde acht Jahre später, 2020, erstmals als Film gezeigt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Florian Zeller",
+        "Michael Haneke",
+        "Florian Henckel von Donnersmarck",
+        "Christopher Hampton"
+      ],
+      "feedback": [
+        "Florian Zeller führte Regie.",
+        "Michael Haneke führte bei diesem Film nicht Regie.",
+        "Florian Henckel von Donnersmarck führte bei diesem Film nicht Regie.",
+        "Christopher Hampton führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Florian Zeller.",
+      "context": "Zeller verfilmte sein eigenes Theaterstück als Regiedebüt. Christopher Hampton arbeitete am Drehbuch mit; wechselnde Darsteller und Veränderungen der Wohnung versetzen das Publikum in eine unsichere Wahrnehmung.",
+      "anchor": "Zeller verfilmte sein eigenes Theaterstück als Regiedebüt.",
+      "interest": "Zeller verfilmte sein eigenes Theaterstück als Regiedebüt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

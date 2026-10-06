@@ -1,0 +1,220 @@
+{
+  "rank": 77,
+  "directors": [
+    "Tomm Moore"
+  ],
+  "production_countries": [
+    "Irland",
+    "Belgien",
+    "Dänemark",
+    "Frankreich",
+    "Luxemburg"
+  ],
+  "familiarity_reason": "Visuell markante irische Animation, überwiegend Kennern bekannt.",
+  "release_note": "Toronto-Premiere 6. September 2014; weitere Kinostarts 2015.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Song_of_the_Sea_(2014_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "zeitvergleich78": {
+      "url": "https://en.wikipedia.org/wiki/The_Secret_of_Kells",
+      "supports": "Gelesene Erstveröffentlichung des konkret verglichenen Films."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Fähigkeit besitzt Saoirse in @?",
+      "answers": [
+        "Sie kann sich in eine Robbe verwandeln.",
+        "Sie kann sich in einen Seevogel verwandeln.",
+        "Sie kann sich in einen Fisch verwandeln.",
+        "Sie kann sich in einen Otter verwandeln."
+      ],
+      "feedback": [
+        "Saoirse (Originalstimme: Lucy O’Connell) ist eine Selkie.",
+        "Die Selkiefähigkeit betrifft die Robbe.",
+        "Eine Fischgestalt nimmt sie nicht an.",
+        "Ein Otter ist nicht ihre andere Gestalt."
+      ],
+      "short": "Saoirse (Originalstimme: Lucy O’Connell) ist eine Selkie.",
+      "context": "Saoirse (Originalstimme: Lucy O’Connell) ist eine Selkie. Ihr weißer Mantel ermöglicht die Robbengestalt; die lange verschwiegene Herkunft verbindet sie mit ihrer Mutter Bronagh (Originalstimme: Lisa Hannigan).",
+      "anchor": "Der weiße Mantel verbindet Mädchen und Robbe.",
+      "interest": "Der weiße Mantel verbindet Mädchen und Robbe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wo lebt die Familie zu Beginn von @?",
+      "answers": [
+        "An einem Leuchtturm",
+        "In einem Haus im Fischerdorf",
+        "In einem abgelegenen Bauernhof",
+        "In einem Gästehaus an der Küste"
+      ],
+      "feedback": [
+        "Die Familie lebt am Leuchtturm.",
+        "Die Familie bewohnt den Leuchtturm.",
+        "Ein Bauernhof ist nicht ihr Zuhause.",
+        "Ein Gästehaus betreiben sie nicht."
+      ],
+      "short": "Die Familie lebt am Leuchtturm.",
+      "context": "Die Familie lebt am Leuchtturm. Conor (Originalstimme: Brendan Gleeson) zieht dort Ben (Originalstimme: David Rawle) und Saoirse (Originalstimme: Lucy O’Connell) auf; das Meer bleibt zugleich Lebensraum und Erinnerung an Bronagh (Originalstimme: Lisa Hannigan).",
+      "anchor": "Der Leuchtturm liegt zwischen Familienalltag und Selkiewelt.",
+      "interest": "Der Leuchtturm liegt zwischen Familienalltag und Selkiewelt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum versucht Ben in @ zunächst, vom Haus der Großmutter zurückzukehren?",
+      "answers": [
+        "Er will zu seinem Hund Cú zurück.",
+        "Er möchte den Selkiemantel ohne Saoirse holen.",
+        "Er will den Schulbeginn am Leuchtturm nicht verpassen.",
+        "Er möchte der Großmutter seinen Vater zurückbringen."
+      ],
+      "feedback": [
+        "Ben (Originalstimme: David Rawle) möchte zu Cú zurück.",
+        "Der zurückgelassene Hund ist sein erster konkreter Anlass.",
+        "Ein Schulbeginn setzt die Flucht nicht in Gang.",
+        "Eine Vaterabholung ist nicht der Plan."
+      ],
+      "short": "Ben (Originalstimme: David Rawle) möchte zu Cú zurück.",
+      "context": "Ben (Originalstimme: David Rawle) möchte zu Cú zurück. Das konkrete Vermissen des Hundes setzt die Reise in Gang, auf der seine zunächst abgelehnte Schwester immer stärker auf ihn angewiesen ist.",
+      "anchor": "Die Rückreise beginnt mit Bens Sehnsucht nach Cú.",
+      "interest": "Die Rückreise beginnt mit Bens Sehnsucht nach Cú.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was soll Saoirses Lied für die bedrohten Feenwesen in @ bewirken?",
+      "answers": [
+        "Ihre Rückkehr in die andere Welt ermöglichen",
+        "Die Feenwesen dauerhaft in Steingestalt schützen",
+        "Allen Wesen den menschlichen Alltag ermöglichen",
+        "Die verlorenen Gefühle in Machas Gefäße zurückführen"
+      ],
+      "feedback": [
+        "Saoirses Lied soll die Wesen befreien und heimführen.",
+        "Das Lied befreit statt zu versteinern.",
+        "Es eröffnet die Rückkehr in ihre Welt.",
+        "Die Gefühle sollen nicht erneut eingesperrt werden."
+      ],
+      "short": "Saoirses Lied soll die Wesen befreien und heimführen.",
+      "context": "Saoirses Lied soll die Wesen befreien und heimführen. Saoirse (Originalstimme: Lucy O’Connell) muss dazu ihre Stimme finden; ihre persönliche Entwicklung trägt deshalb auch die Zukunft der magischen Gemeinschaft.",
+      "anchor": "Die gefundene Stimme öffnet den Wesen den Heimweg.",
+      "interest": "Die gefundene Stimme öffnet den Wesen den Heimweg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum sammelt Macha in @ Gefühle in Gefäßen?",
+      "answers": [
+        "Sie möchte den Schmerz durch Gefühllosigkeit verhindern.",
+        "Sie will sämtliche Freude für sich selbst behalten.",
+        "Sie möchte die Wesen unabhängig von ihren Erinnerungen machen.",
+        "Sie will Mac Lir dadurch zusätzliche Stärke geben."
+      ],
+      "feedback": [
+        "Macha (Originalstimme: Fionnula Flanagan) will Schmerz ausschließen.",
+        "Ihr Ausgangsmotiv ist die Verhinderung von Schmerz.",
+        "Die Gefühlsentnahme erstarrt, statt bloß Erinnerungen zu entfernen.",
+        "Mac Lir wird versteinert, nicht gestärkt."
+      ],
+      "short": "Macha (Originalstimme: Fionnula Flanagan) will Schmerz ausschließen.",
+      "context": "Macha (Originalstimme: Fionnula Flanagan) will Schmerz ausschließen. Die Geschichte ihres trauernden Sohnes Mac Lir (Originalstimme: Brendan Gleeson) zeigt jedoch, dass die geraubten Gefühle zu Versteinerung führen und auch Freude unmöglich machen.",
+      "anchor": "Machas Schutz vor Trauer erstarrt das Leben.",
+      "interest": "Machas Schutz vor Trauer erstarrt das Leben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Wahl trifft Saoirse in @ beim Abschied von ihrer Mutter?",
+      "answers": [
+        "Sie bleibt bei ihrer menschlichen Familie.",
+        "Sie geht endgültig mit Bronagh in die andere Welt.",
+        "Sie bleibt nur unter der Bedingung eines neuen Selkiemantels.",
+        "Sie verlangt, dass Bronagh als Mensch bei allen bleibt."
+      ],
+      "feedback": [
+        "Saoirse bleibt bei Ben und Conor.",
+        "Sie entscheidet sich fürs Bleiben.",
+        "Der Mantel wird zurückgenommen.",
+        "Bronagh verabschiedet sich trotzdem."
+      ],
+      "short": "Saoirse bleibt bei Ben und Conor.",
+      "context": "Saoirse (Originalstimme: Lucy O’Connell) bleibt bei Ben (Originalstimme: David Rawle) und Conor (Originalstimme: Brendan Gleeson). Bronagh (Originalstimme: Lisa Hannigan) nimmt den Selkiemantel zurück; Saoirses (Originalstimme: Lucy O’Connell) Entscheidung ermöglicht Nähe zu den Lebenden trotz des erneuten Abschieds von der Mutter.",
+      "anchor": "Das Bleiben schließt einen bewussten Abschied ein.",
+      "interest": "Das Bleiben schließt einen bewussten Abschied ein.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2014",
+        "2012",
+        "2009",
+        "2015"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2014.",
+        "2012 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2009 liegt fünf Jahre davor.",
+        "2015 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2014 erstmals veröffentlicht.",
+      "context": "2014 wurde der Film in Toronto vorgestellt, fünf Jahre nach Das Geheimnis von Kells von 2009. Die spätere irische Sprachfassung erschien 2015; sie verändert nicht das Erstveröffentlichungsjahr der englischen Originalfassung.",
+      "anchor": "Fünf Jahre nach Kells von 2009 wurde 2014 die Selkiefamilie zum Film.",
+      "interest": "Fünf Jahre nach Kells von 2009 wurde 2014 die Selkiefamilie zum Film.",
+      "sources": [
+        "handlung",
+        "zeitvergleich78"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Tomm Moore",
+        "Nora Twomey",
+        "Hayao Miyazaki",
+        "Sylvain Chomet"
+      ],
+      "feedback": [
+        "Tomm Moore führte Regie.",
+        "Nora Twomey hat hier keinen Regiecredit.",
+        "Hayao Miyazaki hat hier keinen Regiecredit.",
+        "Sylvain Chomet hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Tomm Moore.",
+      "context": "Moore verknüpft Selkie-Erzählungen mit dem Verlust innerhalb einer Familie. Die Sage betrifft nicht nur eine ferne Vergangenheit: Ben (Originalstimme: David Rawle) muss über sie das Verschwinden seiner Mutter und seine Beziehung zu Saoirse (Originalstimme: Lucy O’Connell) neu verstehen.",
+      "anchor": "Moore verknüpft Selkie-Erzählungen mit dem Verlust innerhalb einer Familie.",
+      "interest": "Moore verknüpft Selkie-Erzählungen mit dem Verlust innerhalb einer Familie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "rank": 203,
+  "directors": [
+    "Bryan Singer"
+  ],
+  "production_countries": [
+    "USA",
+    "Deutschland"
+  ],
+  "familiarity_reason": "Ein weithin bekannter Rätselthriller mit markantem Schluss; redaktionell ein bekannter Film.",
+  "release_note": "Erste Veröffentlichung 1995 beim Sundance-Festival; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Usual_Suspects",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Usual_Suspects",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "academy": {
+      "url": "https://www.oscars.org/oscars/ceremonies/1996",
+      "supports": "Gelesene Gewinnerangaben: 1996 Kevin Spacey Nebenrolle und Christopher McQuarrie Originaldrehbuch für The Usual Suspects; Filme des Jahres 1995."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Situation erzählt Verbal Kint (Kevin Spacey) den größten Teil der Vorgeschichte in @?",
+      "answers": [
+        "Während eines Verhörs",
+        "Während einer Zeugenaussage im Gericht",
+        "Während eines vertraulichen Gesprächs mit einem Anwalt",
+        "Während eines Interviews mit einem Journalisten"
+      ],
+      "feedback": [
+        "Verbal berichtet in einem Verhör über die Vorgeschichte eines tödlichen Schiffsereignisses.",
+        "Die Rahmenhandlung ist das polizeiliche Verhör.",
+        "Kint erzählt dem Ermittler.",
+        "Keine Pressebefragung bildet den Rahmen."
+      ],
+      "short": "Verbal berichtet in einem Verhör über die Vorgeschichte eines tödlichen Schiffsereignisses.",
+      "context": "Verbal berichtet in einem Verhör über die Vorgeschichte eines tödlichen Schiffsereignisses. Kujan (Chazz Palminteri) versucht, seinen Bericht logisch zu ordnen; die Abhängigkeit vom Erzähler wird zur zentralen Schwachstelle der Untersuchung.",
+      "anchor": "Der Ermittler ist auf die Geschichte seines Zeugen angewiesen.",
+      "interest": "Der Ermittler ist auf die Geschichte seines Zeugen angewiesen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche gemeinsame Erfahrung führt die fünf Männer in @ zunächst zusammen?",
+      "answers": [
+        "Eine polizeiliche Gegenüberstellung",
+        "Ein gemeinsam verbüßter Gefängnisaufenthalt",
+        "Eine zufällige Festnahme am Hafen",
+        "Ein bereits geplanter Banküberfall"
+      ],
+      "feedback": [
+        "Die Männer begegnen sich bei einer polizeilichen Gegenüberstellung.",
+        "Die Gegenüberstellung bringt sie zusammen.",
+        "Die gemeinsame Polizeiaktion ist eine Gegenüberstellung.",
+        "Die Gruppe entsteht erst durch die polizeiliche Zusammenführung."
+      ],
+      "short": "Die Männer begegnen sich bei einer polizeilichen Gegenüberstellung.",
+      "context": "Die Männer begegnen sich bei einer polizeilichen Gegenüberstellung. Ihr gemeinsamer Ärger über die Polizei führt zum Plan eines Raubs; aus der kurzfristigen Zwangsgemeinschaft wird so eine kriminelle Zusammenarbeit.",
+      "anchor": "Die Gegenüberstellung schafft die spätere Tätergruppe.",
+      "interest": "Die Gegenüberstellung schafft die spätere Tätergruppe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum sollen die Männer nach Kobayashis (Pete Postlethwaite) Darstellung den Schiffsauftrag annehmen?",
+      "answers": [
+        "Sie haben unwissentlich Keyser Söze bestohlen und sollen so verschont werden.",
+        "Sie erhalten Straffreiheit von der Bundespolizei.",
+        "Sie wollen ein eigenes Drogenlager auflösen.",
+        "Sie suchen eine gemeinsame Entführung als Rückversicherung."
+      ],
+      "feedback": [
+        "Kobayashi stellt den Auftrag als Ausgleich für vorherige Diebstähle an Söze dar.",
+        "Kobayashi vermittelt Sözes Drohung und ein Angebot der Verschonung.",
+        "Der Auftrag folgt ihrem unwissentlichen Zugriff auf Sözes Eigentum.",
+        "Eine solche Entführung ist nicht der angebotene Handel."
+      ],
+      "short": "Kobayashi stellt den Auftrag als Ausgleich für vorherige Diebstähle an Söze dar.",
+      "context": "Kobayashi stellt den Auftrag als Ausgleich für vorherige Diebstähle an Söze dar. Die Männer handeln damit unter einer behaupteten Todesdrohung; die unklare Macht des Auftraggebers wirkt bereits, bevor sie ihn sicher identifizieren können.",
+      "anchor": "Die Söze-Legende verwandelt den Auftrag in Zwang.",
+      "interest": "Die Söze-Legende verwandelt den Auftrag in Zwang.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Abweichung vom angekündigten Auftrag entdeckt die Ermittlung in @?",
+      "answers": [
+        "Auf dem Schiff war gar kein Kokain.",
+        "Die Ladung war bereits vollständig an Land gebracht.",
+        "Die Ladung bestand nur aus Falschgeld.",
+        "Die Ladung gehörte offiziell der Polizei."
+      ],
+      "feedback": [
+        "Das angeblich anzugreifende Kokain befindet sich nicht auf dem Schiff.",
+        "Die Ermittlung findet gar kein Kokain auf dem Schiff.",
+        "Eine solche Ersatzladung erklärt den Auftrag nicht.",
+        "Der zentrale Widerspruch ist das fehlende Kokain."
+      ],
+      "short": "Das angeblich anzugreifende Kokain befindet sich nicht auf dem Schiff.",
+      "context": "Das angeblich anzugreifende Kokain befindet sich nicht auf dem Schiff. Die Ermittlungen verweisen auf einen Menschen, der Söze identifizieren könnte; der Warenauftrag verdeckt somit einen anderen Zweck.",
+      "anchor": "Der fehlende Drogeninhalt entlarvt die falsche Auftragsgeschichte.",
+      "interest": "Der fehlende Drogeninhalt entlarvt die falsche Auftragsgeschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Quelle benutzt Verbal (Kevin Spacey) für Teile seiner Erzählung in @?",
+      "answers": [
+        "Bezeichnungen und Gegenstände im Verhörbüro",
+        "Einen Bericht aus der Akte seines Anwalts",
+        "Ein zuvor vereinbartes Manuskript der fünf Männer",
+        "Eine amtliche Liste aller verschwundenen Seeleute"
+      ],
+      "feedback": [
+        "Verbal greift auf sichtbare Details des Büros zurück.",
+        "Kint greift Namen und Dinge im Büro auf.",
+        "Kein solches Gruppenmanuskript liefert die auffälligen Begriffe.",
+        "Die sichtbare Büroumgebung enthält die später wiedererkannten Anregungen."
+      ],
+      "short": "Verbal greift auf sichtbare Details des Büros zurück.",
+      "context": "Verbal greift auf sichtbare Details des Büros zurück. Kujan (Chazz Palminteri) erkennt die Übereinstimmungen erst nach seiner Freilassung; der vermeintliche Erinnerungsbericht war aus dem unmittelbaren Raum zusammengesetzt.",
+      "anchor": "Die scheinbare Vergangenheit entsteht aus der Einrichtung des Gegenwartsraums.",
+      "interest": "Die scheinbare Vergangenheit entsteht aus der Einrichtung des Gegenwartsraums.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was verändert Verbal (Kevin Spacey) beim Verlassen des Reviers in @?",
+      "answers": [
+        "Sein Hinken und die vermeintliche Handlähmung verschwinden.",
+        "Er beginnt deutlich stärker zu hinken.",
+        "Er nimmt außerhalb des Reviers sofort eine Gehhilfe.",
+        "Er verdeckt die angeblich gelähmte Hand mit einem Verband."
+      ],
+      "feedback": [
+        "Verbal richtet seinen Gang und die Hand wieder auf.",
+        "Die scheinbare Behinderung verschwindet.",
+        "Er bewegt sich ohne das zuvor gezeigte Hinken.",
+        "Die Hand wird wieder normal beweglich."
+      ],
+      "short": "Verbal richtet seinen Gang und die Hand wieder auf.",
+      "context": "Verbal richtet seinen Gang und die Hand wieder auf. Gleichzeitig trifft das Täterbild ein; seine zur Schau gestellte Behinderung gehörte zur Täuschung, die den Ermittler zum Unterschätzen seines Gegenübers brachte.",
+      "anchor": "Die gespielte körperliche Schwäche endet mit dem Verhör.",
+      "interest": "Die gespielte körperliche Schwäche endet mit dem Verhör.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1995",
+        "1992",
+        "1988",
+        "1997"
+      ],
+      "feedback": [
+        "1995 wurde der Film bei Sundance erstmals gezeigt.",
+        "1992 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1995 wird im zeitlichen Hintergrund erklärt.",
+        "1988 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1995 wird im zeitlichen Hintergrund erklärt.",
+        "1997 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1995 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1995 wurde der Film bei Sundance erstmals gezeigt.",
+      "context": "1995 wurde der Film bei Sundance erstmals gezeigt. Christopher McQuarries Drehbuch und Kevin Spaceys Nebenrolle wurden bei den Oscars 1996 ausgezeichnet. Das Jahrpaar verbindet die erste Veröffentlichung mit der späteren Anerkennung seiner Konstruktion aus Verhör und unzuverlässiger Erzählung.",
+      "anchor": "Film 1995, Oscars 1996: Im Folgejahr werden Drehbuch und Nebenrolle ausgezeichnet.",
+      "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
+      "sources": [
+        "eckdaten",
+        "academy"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Bryan Singer",
+        "Alan J. Pakula",
+        "Sidney Lumet",
+        "William Friedkin"
+      ],
+      "feedback": [
+        "Bryan Singer inszenierte Christopher McQuarries Drehbuch.",
+        "Alan J. Pakula wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Bryan Singer.",
+        "Sidney Lumet wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Bryan Singer.",
+        "William Friedkin wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Bryan Singer."
+      ],
+      "short": "Bryan Singer inszenierte Christopher McQuarries Drehbuch.",
+      "context": "Bryan Singer inszenierte Christopher McQuarries Drehbuch. Kevin Spacey spielt Verbal Kint, Chazz Palminteri den Ermittler Kujan. Das Verhör ordnet scheinbar eine frühere Verbrechensfolge; der Film verlangt schließlich, diese Ordnung und ihre Informationsquelle neu zu beurteilen.",
+      "anchor": "Bryan Singer inszenierte Christopher McQuarries Drehbuch.",
+      "interest": "Bryan Singer inszenierte Christopher McQuarries Drehbuch.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

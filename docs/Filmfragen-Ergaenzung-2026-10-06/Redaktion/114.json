@@ -1,0 +1,216 @@
+{
+  "rank": 114,
+  "directors": [
+    "Shane Black"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Markante Buddy-Komödie mit prominenten Stars, als eigenständiger Film eher im Kennerpublikum verankert.",
+  "release_note": "Erste Premiere am 10. Mai 2016 in Los Angeles; US-Kinostart am 20. Mai 2016.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Nice_Guys",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/the_nice_guys/",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt ermitteln die beiden Männer in @?",
+      "answers": [
+        "Los Angeles",
+        "New York",
+        "Chicago",
+        "Miami"
+      ],
+      "feedback": [
+        "Die Geschichte spielt im Los Angeles des Jahres 1977.",
+        "New York ist nicht die Ermittlungsstadt.",
+        "Chicago ist nicht der zentrale Schauplatz.",
+        "Miami ist nicht der Ort dieser Geschichte."
+      ],
+      "short": "Die Geschichte spielt im Los Angeles des Jahres 1977.",
+      "context": "Holland March (Ryan Gosling) und Jackson Healy (Russell Crowe) suchen in Los Angeles nach Amelia Kuttner (Margaret Qualley). Nachtclubs, Filmproduktionen und die Autoindustrie bilden das Umfeld. Die Stadt verbindet scheinbar getrennte Milieus, sodass der private Suchauftrag allmählich auf eine größere wirtschaftliche Vertuschung trifft.",
+      "anchor": "Los Angeles verbindet den Filmfall mit der Autoindustrie.",
+      "interest": "Los Angeles verbindet den Filmfall mit der Autoindustrie.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie beginnt die Zusammenarbeit von Holland March (Ryan Gosling) und Jackson Healy (Russell Crowe) in @?",
+      "answers": [
+        "Healy bricht March zunächst den Arm, um ihn von einer Suche abzuhalten.",
+        "Sie treffen sich beim selben Auftrag und streiten über dessen Honorar.",
+        "Healy schützt March zunächst vor zwei bewaffneten Männern.",
+        "March erpresst Healy mit einem früheren Polizeibericht."
+      ],
+      "feedback": [
+        "Healy soll March einschüchtern und verletzt ihn, bevor beide Partner werden.",
+        "Healy soll March einschüchtern und bricht ihm den Arm; ein Honorarstreit ist nicht der Beginn.",
+        "Die erste Begegnung ist ein Angriff Healys, keine Rettung.",
+        "Ein Polizeibericht setzt die Zusammenarbeit nicht in Gang."
+      ],
+      "short": "Healy soll March einschüchtern und verletzt ihn, bevor beide Partner werden.",
+      "context": "Jackson Healy (Russell Crowe) wurde von Amelia Kuttner (Margaret Qualley) engagiert, Holland March (Ryan Gosling) fernzuhalten. Als Healy selbst bedroht wird, braucht er den Mann wieder, den er gerade verletzt hat. Die Partnerschaft entsteht somit aus einem Wechsel der Interessen, nicht aus einer langjährigen harmonischen Freundschaft.",
+      "anchor": "Der spätere Partner beginnt als gewalttätiger Gegenspieler.",
+      "interest": "Der spätere Partner beginnt als gewalttätiger Gegenspieler.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche ungewöhnliche Verbindung steckt in @ hinter dem gesuchten experimentellen Film?",
+      "answers": [
+        "Pornografie und investigativer Journalismus",
+        "Musikperformance und heimliche Polizeiaufnahmen",
+        "Werbefilm und politischer Wahlaufruf",
+        "Kriminalfilm und dokumentarische Gerichtsaufnahmen"
+      ],
+      "feedback": [
+        "Der Film verbindet erotische Szenen mit der Enthüllung eines Skandals.",
+        "Die ungewöhnliche Mischung ist Pornografie mit einer Recherche über einen Skandal.",
+        "Eine Werbe-Wahlfilm-Mischung ist nicht die Filmidee.",
+        "Gerichtsaufnahmen bilden nicht das investigative Material der Pornoproduktion."
+      ],
+      "short": "Der Film verbindet erotische Szenen mit der Enthüllung eines Skandals.",
+      "context": "Amelia Kuttner (Margaret Qualley) und ihre Mitstreiter wollen Informationen über die Autoindustrie verbreiten. Das Material wird in einen pornografischen Film eingebaut. Deshalb ist eine Filmkopie im Kriminalfall nicht bloß Unterhaltung oder Beweismittel für einen Nebenstreit, sondern das Ziel derjenigen, die eine öffentliche Enthüllung verhindern wollen.",
+      "anchor": "Der erotische Film soll einen wirtschaftlichen Skandal sichtbar machen.",
+      "interest": "Der erotische Film soll einen wirtschaftlichen Skandal sichtbar machen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum erweist sich die Geldkofferfahrt für March und Healy in @ als Falle?",
+      "answers": [
+        "Sie soll die Männer von der bedrohten Amelia weglocken.",
+        "Sie bringt beide an einen echten Banküberfall.",
+        "Sie soll Marchs Tochter zu einer Erbschaft verhelfen.",
+        "Sie liefert den Männern den Täter freiwillig aus."
+      ],
+      "feedback": [
+        "Der Koffer mit Papierschnipseln dient als Ablenkung.",
+        "Ein realer Bankraub ist nicht das Ziel.",
+        "Eine Erbschaft für Holly wird nicht transportiert.",
+        "Der Täter stellt sich durch den Koffer nicht freiwillig."
+      ],
+      "short": "Der Koffer mit Papierschnipseln dient als Ablenkung.",
+      "context": "Holland March (Ryan Gosling) und Jackson Healy (Russell Crowe) sollen Geld überbringen. Als der Koffer aufgeht, enthält er nur geschreddertes Papier. Der angebliche Auftrag hat sie vom Haus ferngehalten, wo Amelia Kuttner (Margaret Qualley) einen Schutz braucht. Ein klassischer Detektivjob wird zum Werkzeug des Gegners.",
+      "anchor": "Der wertlose Koffer lenkt die Beschützer vom eigentlichen Ziel weg.",
+      "interest": "Der wertlose Koffer lenkt die Beschützer vom eigentlichen Ziel weg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welches technische Bauteil steht in @ im Mittelpunkt der Vertuschung durch Autounternehmen?",
+      "answers": [
+        "Der Katalysator",
+        "Der Airbag",
+        "Die Servolenkung",
+        "Der Scheibenwischer"
+      ],
+      "feedback": [
+        "Die Unternehmen wollen die Einführung des Katalysators unterdrücken.",
+        "Ein Airbag ist nicht das umkämpfte Bauteil.",
+        "Servolenkung erklärt den Skandal nicht.",
+        "Scheibenwischer sind nicht das wirtschaftliche Ziel."
+      ],
+      "short": "Die Unternehmen wollen die Einführung des Katalysators unterdrücken.",
+      "context": "Amelia Kuttner (Margaret Qualley) beschuldigt ihre Mutter Judith (Kim Basinger), mit Autoherstellern zusammenzuarbeiten. Es geht um den Katalysator zur Verringerung von Abgasen. Der Zusammenhang führt die Ermittler aus einem scheinbaren Milieufall in einen Konflikt um industrielle Interessen, Regulierung und öffentliche Information.",
+      "anchor": "Hinter der Filmkopie steckt der Streit um saubere Autoabgase.",
+      "interest": "Hinter der Filmkopie steckt der Streit um saubere Autoabgase.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie können March und Healy in @ die belastende Filmkopie am Ende wiederfinden?",
+      "answers": [
+        "Sie erkennen, dass sie in die Vorführung der Autoschau eingebaut werden soll.",
+        "Sie finden sie in Marchs früherem Polizeirevier.",
+        "Sie entdecken sie in einem öffentlichen Schließfach der Bibliothek.",
+        "Sie erhalten sie anonym vom Kinokassenpersonal."
+      ],
+      "feedback": [
+        "Die Spur führt zur Projektion bei der Los Angeles Auto Show.",
+        "Ein Polizeirevier ist nicht der Fundort.",
+        "Ein Bibliotheksschließfach liefert die Kopie nicht.",
+        "Das Kinokassenpersonal übergibt sie nicht."
+      ],
+      "short": "Die Spur führt zur Projektion bei der Los Angeles Auto Show.",
+      "context": "Holland March (Ryan Gosling) erkennt zuvor, dass eine Zeugin die vermeintlich lebende Misty nur als Projektion gesehen hat. Die Suche nach der Kopie führt dann zum Vorführer Chet (Jack Kilmer) und zur Autoschau. Bildquelle und Vorführtechnik helfen also beim Denken, bevor der körperliche Kampf um das Material beginnt.",
+      "anchor": "Eine Projektion erklärt das Wiedersehen und weist den Weg zur Autoschau.",
+      "interest": "Eine Projektion erklärt das Wiedersehen und weist den Weg zur Autoschau.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2016",
+        "2012",
+        "2015",
+        "2019"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 2016.",
+        "2012 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "2015 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2019 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 2016.",
+      "context": "The Nice Guys wurde 2016 in Los Angeles erstmals präsentiert und wenige Tage später auch in Cannes gezeigt. Der US-Kinostart folgte im Mai desselben Jahres. Die Geschichte selbst spielt 1977: Der historische Autoskandal im Film darf daher nicht mit seinem tatsächlichen Erscheinungsjahr verwechselt werden.",
+      "anchor": "Handlung 1977, Film 2016: 39 Jahre trennen den Autoskandal von seiner Filmkomödie.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Handlung 1977, Film 2016: 39 Jahre trennen den Autoskandal von seiner Filmkomödie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Shane Black",
+        "Guy Ritchie",
+        "David Ayer",
+        "Adam McKay"
+      ],
+      "feedback": [
+        "Shane Black führte Regie.",
+        "Guy Ritchie gehört nicht zum Regiecredit dieser Filmfassung.",
+        "David Ayer gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Adam McKay gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Shane Black.",
+      "context": "Shane Black inszenierte den Film und schrieb das Drehbuch mit Anthony Bagarozzi. Russell Crowe spielt den gewaltsamen Problemlöser Jackson Healy, Ryan Gosling den Privatdetektiv Holland March. Ihre gegensätzlichen Arbeitsweisen prägen einen Kriminalfall, dessen Aufklärung immer wieder durch ihre eigene Ungeschicklichkeit erschwert wird.",
+      "anchor": "Shane Black: Russell Crowe spielt den gewaltsamen Problemlöser Jackson Healy, Ryan Gosling den Privatdetektiv Holland March.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

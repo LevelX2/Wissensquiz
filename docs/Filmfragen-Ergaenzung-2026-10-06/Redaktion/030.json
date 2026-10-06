@@ -1,0 +1,211 @@
+{
+  "rank": 30,
+  "directors": [
+    "David Leitch"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein bekannter Genrebeitrag mit Charlize Theron, dessen Berliner Spionagegeschichte eher bei Actionfans als im gesamten Publikum präsent ist.",
+  "release_note": "Weltpremiere bei SXSW am 12. März 2017, US-Kinostart am 28. Juli 2017.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Atomic_Blonde",
+    "primaer": "https://www.universalpictures.com/movies/atomic-blonde"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt soll Lorraine Broughton (Charlize Theron) in @ eine gestohlene Agentenliste wiederfinden?",
+      "answers": [
+        "Berlin",
+        "Wien",
+        "Prag",
+        "Budapest"
+      ],
+      "feedback": [
+        "Die zentrale Mission führt ins geteilte Berlin.",
+        "Wien ist nicht der Ort dieser Hauptmission.",
+        "Die gesuchte Liste wird nicht im zentralen Prager Einsatz verfolgt.",
+        "Budapest ist kein Handlungsort dieser Hauptmission."
+      ],
+      "short": "Lorraine wird nach Berlin geschickt.",
+      "context": "Die Mission spielt kurz vor dem Fall der Berliner Mauer. Lorraine soll den Mord an einem Kollegen untersuchen und die kompromittierende Agentenliste zurückholen. Die Teilung der Stadt macht Übergänge, gegnerische Dienste und unsichere Kontakte zu unmittelbaren Bestandteilen ihres Auftrags.",
+      "anchor": "Lorraines Mission führt ins Berlin kurz vor dem Mauerfall.",
+      "interest": "Der Ort verknüpft den Agentenauftrag mit dem politischen Umfeld.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "In welchem Gegenstand wird die gesuchte Agentenliste in @ zunächst versteckt?",
+      "answers": [
+        "In einer Armbanduhr",
+        "In einem Zigarettenetui",
+        "In einer Kameralinse",
+        "In einer Musikkassette"
+      ],
+      "feedback": [
+        "Die Uhr enthält die Liste auf Mikrofilm.",
+        "Ein Zigarettenetui ist nicht das Versteck.",
+        "Die Liste steckt nicht in der genannten Kameralinse.",
+        "Eine Musikkassette ist nicht ihr ursprünglicher Behälter."
+      ],
+      "short": "Die Liste befindet sich auf Mikrofilm in einer Uhr.",
+      "context": "Nach dem Mord an James Gascoigne (Sam Hargrave) gerät seine Uhr in den Besitz eines gegnerischen Agenten. Ihr Inhalt ist gefährlich, weil er Identitäten aktiver Nachrichtendienstmitarbeiter offenlegen kann. Lorraine (Charlize Theron) verfolgt deshalb einen kleinen Gegenstand, dessen Besitz den Konflikt zwischen mehreren Diensten verändert.",
+      "anchor": "Eine unscheinbare Uhr birgt die gefährliche Agentenliste.",
+      "interest": "Das Versteck erklärt den konkreten Gegenstand der Suche.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum ist Spyglass (Eddie Marsan) in @ auch ohne die Uhr für Lorraine wertvoll?",
+      "answers": [
+        "Er hat die Agentenliste auswendig gelernt",
+        "Er kann jede Grenzkontrolle offiziell aufheben",
+        "Er besitzt allein den Schlüssel zu Percivals Wohnung",
+        "Er leitet die Londoner MI6-Abteilung"
+      ],
+      "feedback": [
+        "Sein Gedächtnis macht ihn selbst zu einer Quelle des Listeninhalts.",
+        "Er kann Grenzkontrollen nicht allgemein aufheben.",
+        "Ein Wohnungsschlüssel erklärt seinen Wert nicht.",
+        "Er ist kein Leiter der Londoner Abteilung."
+      ],
+      "short": "Spyglass kennt den Inhalt der Liste auswendig.",
+      "context": "Spyglass ist der Stasi-Mitarbeiter, der die Liste weitergegeben hat. Lorraine (Charlize Theron) will ihn mit seiner Familie in Sicherheit bringen, weil sein Wissen auch nach dem Verlust des Mikrofilms genutzt werden kann. Der Schutz eines Menschen wird damit zu einer zweiten Form der Informationssicherung.",
+      "anchor": "Spyglass trägt die Liste im Gedächtnis und wird selbst zum Ziel.",
+      "interest": "Seine Fähigkeit erklärt, weshalb die Rettung neben der Gegenstandssuche wichtig ist.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Handlung Percivals (James McAvoy) gefährdet in @ die geplante Flucht von Spyglass?",
+      "answers": [
+        "Er verrät den Fluchtplan an Bremovych und schießt auf Spyglass",
+        "Er leitet die Familie ohne Absprache durch einen anderen Grenzübergang",
+        "Er weigert sich, die vereinbarten falschen Papiere zu beschaffen",
+        "Er bringt Spyglass vorzeitig allein in ein fremdes Schutzhaus"
+      ],
+      "feedback": [
+        "Percivals Verrat und Schuss wirken gegen die von ihm mitvorbereitete Flucht.",
+        "Ein eigenmächtig gewechselter Grenzübergang ist nicht die gesuchte Handlung.",
+        "Die Eskalation entsteht durch Verrat und Angriff, nicht nur durch fehlende Papiere.",
+        "Er bringt Spyglass nicht auf diese Weise in ein Schutzhaus."
+      ],
+      "short": "Percival gibt den Plan weiter und verwundet Spyglass.",
+      "context": "Lorraine (Charlize Theron) plant die Ausreise mit Percival, ihrem vermeintlichen Partner. Er informiert jedoch Bremovych (Roland Møller) und greift Spyglass während der Durchführung an. Dadurch liegt die Gefahr nicht nur bei offen erkennbaren Gegnern, sondern auch in der Zusammenarbeit innerhalb des eigenen Netzwerks.",
+      "anchor": "Der vermeintliche Helfer Percival verrät die Rettungsroute.",
+      "interest": "Die Handlung konkretisiert das Misstrauen zwischen den Agenten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Belege Delphines findet Lorraine in @ nach deren Tod?",
+      "answers": [
+        "Fotos eines Treffens von Percival mit Bremovych",
+        "Eine heimliche Aufnahme von Gascoignes Ermordung",
+        "Eine Kopie der Agentenliste in Delphines Pass",
+        "Eine quittierte Geldübergabe von Spyglass an Percival"
+      ],
+      "feedback": [
+        "Delphine hat Percivals Treffen mit Bremovych fotografiert.",
+        "Die gefundenen Bilder zeigen nicht Gascoignes Ermordung.",
+        "Lorraine findet nicht diese Passkopie der Liste.",
+        "Die Belege dokumentieren den Kontakt zu Bremovych, nicht die genannte Geldübergabe."
+      ],
+      "short": "Delphines Fotos zeigen Percivals Treffen mit Bremovych.",
+      "context": "Delphine (Sofia Boutella) hat das geheime Treffen beobachtet und fotografiert. Nach ihrer Ermordung entdeckt Lorraine (Charlize Theron) die Bilder und erkennt Percivals Beteiligung. Später setzt sie die Fotos im Abschlussgespräch zusammen mit bearbeiteten Tonaufnahmen ein, um eine bestimmte Deutung der Ereignisse durchzusetzen.",
+      "anchor": "Delphines Fotos belegen Percivals geheimen Kontakt zu Bremovych.",
+      "interest": "Die Bilder verbinden die persönliche Beziehung mit der späteren Beweisführung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Für welchen Dienst arbeitet Lorraine (Charlize Theron) nach der letzten Enthüllung in @ tatsächlich?",
+      "answers": [
+        "Für die CIA",
+        "Ausschließlich für den KGB",
+        "Ausschließlich für die Stasi",
+        "Für keinen Dienst als freie Händlerin"
+      ],
+      "feedback": [
+        "Das Ende zeigt ihre tatsächliche Verbindung zur CIA.",
+        "Die Satchel-Identität erschöpft ihre Loyalität nicht.",
+        "Die Stasi ist nicht ihr endgültig offenbarter Auftraggeber.",
+        "Sie kehrt mit dem CIA-Mann Kurzfeld in die USA zurück."
+      ],
+      "short": "Lorraine arbeitet tatsächlich für die CIA.",
+      "context": "Lorraine wird zunächst als MI6-Agentin eingeführt und später von Bremovych (Roland Møller) als Satchel angesprochen. Sie erklärt, den KGB mit Fehlinformationen manipuliert zu haben. Die abschließende Rückreise mit Kurzfeld (John Goodman) in die USA ergänzt diese Tarnungen um ihre tatsächliche amerikanische Verbindung.",
+      "anchor": "Hinter MI6-Auftrag und Satchel-Tarnung steht Lorraines CIA-Verbindung.",
+      "interest": "Die letzte Enthüllung verändert das Verständnis ihrer zuvor gezeigten Rollen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2017",
+        "1989",
+        "2007",
+        "2012"
+      ],
+      "feedback": [
+        "Diese Filmfassung wurde 2017 erstmals veröffentlicht.",
+        "1989 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2017.",
+        "2007 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2017.",
+        "2012 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2017."
+      ],
+      "short": "Das erste Veröffentlichungsjahr ist 2017.",
+      "context": "Atomic Blonde wurde 2017 erstmals gezeigt, spielt aber im Berlin des Jahres 1989 kurz vor dem Mauerfall. Zwischen historischem Handlungshintergrund und Filmveröffentlichung liegen achtundzwanzig Jahre. Die Musik und die geteilte Stadt erzeugen die Atmosphäre der früheren Zeit, ohne dass dies das Veröffentlichungsjahr wäre.",
+      "anchor": "Die Handlung führt nach Berlin 1989; der Film erschien 2017, 28 Jahre später.",
+      "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "David Leitch",
+        "Chad Stahelski",
+        "Gareth Evans",
+        "Nicolas Winding Refn"
+      ],
+      "feedback": [
+        "David Leitch verantwortet die hier gefragte Regie.",
+        "Chad Stahelski führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Gareth Evans führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Nicolas Winding Refn führte bei dieser Filmfassung nicht die gefragte Regie."
+      ],
+      "short": "Die gesuchte Regie stammt von David Leitch.",
+      "context": "David Leitch inszenierte Atomic Blonde; Charlize Theron spielt Lorraine und produzierte mit. Die Vorlage ist die Graphic Novel The Coldest City von Antony Johnston und Sam Hart. Die Regiezuordnung verbindet so die körperlich geprägte Action mit einer konkreten Comicadaption und unterscheidet sie von Hauptrolle und Vorlage.",
+      "anchor": "David Leitch inszenierte diese Filmfassung.",
+      "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

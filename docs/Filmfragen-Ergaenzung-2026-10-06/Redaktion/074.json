@@ -1,0 +1,218 @@
+{
+  "rank": 74,
+  "directors": [
+    "David Lowery"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Experimentelles kleines Geisterdrama; Entdeckung für das breite Publikum.",
+  "release_note": "Sundance-Premiere 22. Januar 2017.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/A_Ghost_Story",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://a24films.com/films/a-ghost-story",
+      "supports": "Regie, Jahr, weiße Geistergestalt, Hausbindung und zeitliche Reise."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was bindet den verstorbenen Mann in @ zunächst an den Ort seines Lebens?",
+      "answers": [
+        "Er bleibt im früheren gemeinsamen Haus.",
+        "Er folgt M unmittelbar zu ihrem neuen Wohnort.",
+        "Er wartet am Krankenhaus auf die Rückkehr ins Leben.",
+        "Er sucht ausschließlich den Verursacher seines Todes."
+      ],
+      "feedback": [
+        "C (Casey Affleck) bleibt als Geist im früheren Haus.",
+        "Der Geist bleibt im bisherigen Haus.",
+        "Das Krankenhaus verlässt er.",
+        "Eine Tätersuche ist nicht seine Bindung."
+      ],
+      "short": "C (Casey Affleck) bleibt als Geist im früheren Haus.",
+      "context": "C (Casey Affleck) bleibt als Geist im früheren Haus. M (Rooney Mara) trauert dort und lebt weiter; seine Nähe ermöglicht keinen gewöhnlichen gemeinsamen Alltag mehr.",
+      "anchor": "Der Geist bleibt dort, wo das gemeinsame Leben war.",
+      "interest": "Der Geist bleibt dort, wo das gemeinsame Leben war.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie erscheint der Geist in @?",
+      "answers": [
+        "Unter einem weißen Tuch mit Augenöffnungen",
+        "Als durchsichtiges Abbild seines Körpers",
+        "Als unveränderte Person mit bleichem Gesicht",
+        "Als körperloser Lichtschein"
+      ],
+      "feedback": [
+        "Der Geist trägt ein weißes Tuch.",
+        "Die sichtbare Form ist das Tuchgespenst.",
+        "Sein Gesicht bleibt unter dem Tuch verborgen.",
+        "Die Hauptgestalt ist kein bloßer Lichtschein."
+      ],
+      "short": "Der Geist trägt ein weißes Tuch.",
+      "context": "Der Geist trägt ein weißes Tuch. C (Casey Affleck) verliert dadurch individuelle Gesichtszüge; langsame Haltung und Bewegung ersetzen den gewöhnlichen Ausdruck eines Gesichts.",
+      "anchor": "Ein einfaches Tuch macht den Menschen zur wartenden Gestalt.",
+      "interest": "Ein einfaches Tuch macht den Menschen zur wartenden Gestalt.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was versteckt M (Rooney Mara) beim Auszug in @ in einer Wandfuge?",
+      "answers": [
+        "Einen Zettel",
+        "Einen Schlüsselbund",
+        "Einen Ehering",
+        "Eine Kassette"
+      ],
+      "feedback": [
+        "M versteckt einen Zettel in der Wand.",
+        "Ein Schlüsselbund liegt nicht in der Fuge.",
+        "Ein Ring wird dort nicht versteckt.",
+        "Eine Kassette ist es nicht."
+      ],
+      "short": "M versteckt einen Zettel in der Wand.",
+      "context": "M (Rooney Mara) versteckt einen Zettel in der Wand. C (Casey Affleck) versucht später, ihn freizulegen; ein kleines schriftliches Zeichen bindet ihn über den Auszug hinaus an den Ort.",
+      "anchor": "Der Zettel bleibt im Haus, nachdem M gegangen ist.",
+      "interest": "Der Zettel bleibt im Haus, nachdem M gegangen ist.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Veränderung kann der Geist in @ trotz seines Verbleibens nicht verhindern?",
+      "answers": [
+        "Das Haus wird abgerissen.",
+        "Alle späteren Bewohner ziehen sofort wieder aus.",
+        "M kehrt dauerhaft in das Haus zurück.",
+        "Das Haus bleibt über alle gezeigten Zeiten unverändert."
+      ],
+      "feedback": [
+        "Das Haus wird abgerissen.",
+        "Mehrere Menschen nutzen das Haus nach M.",
+        "Eine dauerhafte Rückkehr wird nicht gezeigt.",
+        "Der Abriss beendet die unveränderte Gebäudeform."
+      ],
+      "short": "Das Haus wird abgerissen.",
+      "context": "Das Haus wird abgerissen. C (Casey Affleck) bleibt dennoch am Ort; seine Bindung überdauert damit selbst das Gebäude, an das seine Erinnerung geknüpft war.",
+      "anchor": "Der Ort bleibt, obwohl das Haus verschwindet.",
+      "interest": "Der Ort bleibt, obwohl das Haus verschwindet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wodurch erklärt @ nachträglich den lauten Schlag, den das Paar anfangs hört?",
+      "answers": [
+        "Der später zurückgekehrte Geist setzt sich ans Klavier.",
+        "Der Geist im Nachbarhaus klopft durch die Wand.",
+        "Ein früherer Bewohner wirft eine Tür zu.",
+        "M lässt in einer Rückblende einen Stuhl fallen."
+      ],
+      "feedback": [
+        "C (Casey Affleck) erzeugt als späterer Geist den Schlag am Klavier.",
+        "C erzeugt den Schlag selbst am Klavier.",
+        "Die Rückführung gilt nicht einem früheren Türschlag.",
+        "Ein Stuhl erklärt die Zeitschleife nicht."
+      ],
+      "short": "C (Casey Affleck) erzeugt als späterer Geist den Schlag am Klavier.",
+      "context": "C (Casey Affleck) erzeugt als späterer Geist den Schlag am Klavier. Die zeitliche Schleife verbindet ein früher unerklärliches Geräusch mit seiner eigenen späteren Anwesenheit.",
+      "anchor": "Das frühe Geräusch stammt aus der späteren Geisterschleife.",
+      "interest": "Das frühe Geräusch stammt aus der späteren Geisterschleife.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was geschieht in @, nachdem der Geist den verborgenen Zettel endlich liest?",
+      "answers": [
+        "Er verschwindet und das Tuch fällt zusammen.",
+        "Er bleibt trotz des Lesens unverändert im Haus.",
+        "Er folgt M erstmals sichtbar durch die Stadt.",
+        "Er ersetzt den Zettel durch seine eigene Antwort."
+      ],
+      "feedback": [
+        "C (Casey Affleck) verschwindet nach dem Lesen.",
+        "Das Tuch fällt nach seinem Verschwinden zusammen.",
+        "Ein sichtbares Folgen ist nicht das Ende.",
+        "Eine Antwortbotschaft schreibt er nicht."
+      ],
+      "short": "C (Casey Affleck) verschwindet nach dem Lesen.",
+      "context": "C (Casey Affleck) verschwindet nach dem Lesen. Der Inhalt des Zettels bleibt dem Publikum verborgen; das Ende zeigt das Loslassen, ohne die private Botschaft als allgemeine Erklärung preiszugeben.",
+      "anchor": "Der gelesene Zettel beendet das Warten.",
+      "interest": "Der gelesene Zettel beendet das Warten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2017",
+        "2015",
+        "2012",
+        "2018"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2017.",
+        "2015 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2012 liegt fünf Jahre davor.",
+        "2018 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2017 erstmals veröffentlicht.",
+      "context": "2017 wurde das Geisterdrama in Sundance gezeigt. 2016, ein Jahr zuvor, kam Lowerys Disney-Film Elliot, der Drache heraus. Der Gegensatz zwischen größerer Studioproduktion und kleinem Geisterfilm verankert die benachbarten Filmjahre.",
+      "anchor": "Auf Lowerys Elliot, der Drache von 2016 folgte ein Jahr später, 2017, das kleine Geisterdrama.",
+      "interest": "Auf Lowerys Elliot, der Drache von 2016 folgte ein Jahr später, 2017, das kleine Geisterdrama.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "David Lowery",
+        "Shane Carruth",
+        "Andrew Dominik",
+        "Terrence Malick"
+      ],
+      "feedback": [
+        "David Lowery führte Regie.",
+        "Shane Carruth führte bei diesem Film nicht Regie.",
+        "Andrew Dominik führte bei diesem Film nicht Regie.",
+        "Terrence Malick führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: David Lowery.",
+      "context": "Lowery verband die Idee eines einfachen Gespensterkostüms mit eigener Bindung an Wohnorte. Das nahezu quadratische Bildformat verstärkt nach seiner Erklärung den Eindruck, im Raum festgehalten zu sein.",
+      "anchor": "Lowery verband die Idee eines einfachen Gespensterkostüms mit eigener Bindung an Wohnorte.",
+      "interest": "Lowery verband die Idee eines einfachen Gespensterkostüms mit eigener Bindung an Wohnorte.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

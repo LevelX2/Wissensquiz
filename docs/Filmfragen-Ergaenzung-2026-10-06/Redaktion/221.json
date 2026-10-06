@@ -1,0 +1,217 @@
+{
+  "rank": 221,
+  "directors": [
+    "John Ford"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Zentraler Westernklassiker mit John Wayne und einer häufig zitierten Schlussaufnahme.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1956; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Searchers",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Searchers",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wen suchen Ethan und Martin in @ über Jahre?",
+      "answers": [
+        "Eine von Comanchen entführte Verwandte",
+        "Einen geflohenen Bankräuber",
+        "Eine verschollene Kavallerieeinheit",
+        "Den Käufer einer gestohlenen Herde"
+      ],
+      "feedback": [
+        "Ethan Edwards (John Wayne) und Martin Pawley (Jeffrey Hunter) suchen Debbie.",
+        "Ihr Hauptziel ist kein Bankräuber.",
+        "Sie suchen keine Einheit.",
+        "Eine Herde lockt die Männer zunächst fort, ist aber nicht ihr jahrelanges Ziel."
+      ],
+      "short": "Ethan Edwards (John Wayne) und Martin Pawley (Jeffrey Hunter) suchen Debbie.",
+      "context": "Ethan Edwards (John Wayne) und Martin Pawley (Jeffrey Hunter) suchen Debbie. Nach dem Angriff auf das Familienhaus zieht sich die Suche über mehrere Jahre hin.",
+      "anchor": "Die Suche nach Debbie wird zum jahrelangen Lebensinhalt.",
+      "interest": "Die Suche nach Debbie wird zum jahrelangen Lebensinhalt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was finden die Männer nach dem zunächst verfolgten Viehdiebstahl in @ zu Hause vor?",
+      "answers": [
+        "Das verbrannte Haus und getötete Angehörige",
+        "Ein verlassenes Haus mit einem Abschiedsbrief",
+        "Eine von Soldaten besetzte Farm",
+        "Eine verkaufte Ranch mit neuen Eigentümern"
+      ],
+      "feedback": [
+        "Ethan (John Wayne) erkennt, dass der Viehdiebstahl die Männer von ihren Familien weglocken sollte.",
+        "Die Familie ist nicht freiwillig abgereist.",
+        "Soldaten besetzen die Farm nicht.",
+        "Ein Verkauf erklärt die Zerstörung nicht."
+      ],
+      "short": "Ethan (John Wayne) erkennt, dass der Viehdiebstahl die Männer von ihren Familien weglocken sollte.",
+      "context": "Ethan (John Wayne) erkennt, dass der Viehdiebstahl die Männer von ihren Familien weglocken sollte. Bei ihrer Rückkehr ist das Haus verbrannt, mehrere Angehörige sind tot und die Mädchen entführt.",
+      "anchor": "Der Viehdiebstahl erweist sich als Ablenkungsmanöver.",
+      "interest": "Der Viehdiebstahl erweist sich als Ablenkungsmanöver.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum stellt sich Martin in @ zeitweise gegen Ethan?",
+      "answers": [
+        "Ethan will Debbie töten, nachdem sie bei den Comanchen gelebt hat",
+        "Ethan will Debbie als Pfand für einen Austausch benutzen.",
+        "Ethan will sie ohne Rücksprache der Armee überlassen.",
+        "Ethan hält die im Lager gefundene Frau für eine andere Person."
+      ],
+      "feedback": [
+        "Martin (Jeffrey Hunter) schützt Debbie (Natalie Wood), als Ethan (John Wayne) auf sie schießen will.",
+        "Martin verhindert Ethans Versuch, Debbie zu töten.",
+        "Die unmittelbare Gefahr ist Ethans eigener Schuss auf sie.",
+        "Er erkennt Debbie, bewertet ihr Leben bei den Comanchen aber als unerträglich."
+      ],
+      "short": "Martin (Jeffrey Hunter) schützt Debbie (Natalie Wood), als Ethan (John Wayne) auf sie schießen will.",
+      "context": "Martin (Jeffrey Hunter) schützt Debbie (Natalie Wood), als Ethan (John Wayne) auf sie schießen will. Ethan bewertet ihre Zugehörigkeit zu den Comanchen als schlimmer als den Tod; Martin hält am Rettungsziel fest.",
+      "anchor": "Rettungswille und rassistischer Vernichtungswille trennen die Suchenden.",
+      "interest": "Rettungswille und rassistischer Vernichtungswille trennen die Suchenden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Wie erreicht Martin in @ Debbie beim letzten Angriff?",
+      "answers": [
+        "Er schleicht vor dem Angriff in das Lager",
+        "Er kauft ihre Freiheit bei einem Händler",
+        "Er lockt sie mit einer falschen Nachricht aus dem Lager",
+        "Er wartet auf eine Übergabe durch Soldaten"
+      ],
+      "feedback": [
+        "Martin (Jeffrey Hunter) geht vor dem offenen Angriff heimlich ins Lager.",
+        "Er kauft sie nicht frei.",
+        "Eine fingierte Nachricht ist nicht seine Methode.",
+        "Soldaten übergeben sie ihm nicht."
+      ],
+      "short": "Martin (Jeffrey Hunter) geht vor dem offenen Angriff heimlich ins Lager.",
+      "context": "Martin (Jeffrey Hunter) geht vor dem offenen Angriff heimlich ins Lager. Er findet Debbie (Natalie Wood) und tötet Scar, um sie zu schützen; Ethan erscheint erst danach am Leichnam.",
+      "anchor": "Martins heimlicher Vorstoß hält die Rettung vor der Vergeltung fest.",
+      "interest": "Martins heimlicher Vorstoß hält die Rettung vor der Vergeltung fest.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Entscheidung trifft Ethan in @, als er Debbie schließlich einholt?",
+      "answers": [
+        "Er nimmt sie in die Arme und bringt sie heim",
+        "Er zwingt sie, im Lager zu bleiben",
+        "Er übergibt sie einem Armeegericht",
+        "Er schickt sie allein nach Mexiko"
+      ],
+      "feedback": [
+        "Ethan (John Wayne) hebt Debbie (Natalie Wood) hoch und bringt sie zur Ranch der Jorgensens.",
+        "Er lässt sie nicht zurück.",
+        "Ein Armeegericht erhält sie nicht.",
+        "Sie reist nicht allein nach Mexiko."
+      ],
+      "short": "Ethan (John Wayne) hebt Debbie (Natalie Wood) hoch und bringt sie zur Ranch der Jorgensens.",
+      "context": "Ethan (John Wayne) hebt Debbie (Natalie Wood) hoch und bringt sie zur Ranch der Jorgensens. Der erwartete Mord bleibt aus; seine letzte Handlung korrigiert seinen zuvor erklärten Vernichtungswillen.",
+      "anchor": "Ethans letzte Entscheidung lässt Rettung über Hass siegen.",
+      "interest": "Ethans letzte Entscheidung lässt Rettung über Hass siegen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was zeigt die letzte Türrahmenaufnahme von @?",
+      "answers": [
+        "Die anderen gehen ins Haus, Ethan bleibt draußen und geht fort",
+        "Ethan verriegelt das Haus gegen die Rückkehrenden",
+        "Martin verlässt die Familie, Ethan nimmt seinen Platz ein",
+        "Debbie bleibt allein vor dem Haus zurück"
+      ],
+      "feedback": [
+        "Die Heimkehrenden betreten das Haus, Ethan (John Wayne) bleibt draußen und zieht weiter.",
+        "Er verriegelt das Haus nicht.",
+        "Martin bleibt bei Laurie.",
+        "Debbie wird im Haus aufgenommen."
+      ],
+      "short": "Die Heimkehrenden betreten das Haus, Ethan (John Wayne) bleibt draußen und zieht weiter.",
+      "context": "Die Heimkehrenden betreten das Haus, Ethan (John Wayne) bleibt draußen und zieht weiter. Die gerettete häusliche Gemeinschaft findet für ihren gewaltsamen Retter keinen selbstverständlichen Platz.",
+      "anchor": "Der Retter ermöglicht das Zuhause, bleibt aber außerhalb.",
+      "interest": "Der Retter ermöglicht das Zuhause, bleibt aber außerhalb.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1956",
+        "1953",
+        "1949",
+        "1958"
+      ],
+      "feedback": [
+        "1956 erschien der Film.",
+        "1953 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1956 wird im zeitlichen Hintergrund erklärt.",
+        "1949 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1956 wird im zeitlichen Hintergrund erklärt.",
+        "1958 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1956 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1956 erschien der Film.",
+      "context": "1956 erschien der Film. Alan Le Mays Roman wurde 1954 veröffentlicht; die Verfilmung folgte zwei Jahre später und machte aus der Suche zugleich eine Untersuchung rassistischer Gewalt.",
+      "anchor": "Roman 1954, Film 1956: Nach zwei Jahren wird die Entführungssuche auch zum Konflikt um rassistische Gewalt.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Ford",
+        "Howard Hawks",
+        "Anthony Mann",
+        "George Stevens"
+      ],
+      "feedback": [
+        "John Ford führte Regie.",
+        "Howard Hawks wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Ford.",
+        "Anthony Mann wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Ford.",
+        "George Stevens wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Ford."
+      ],
+      "short": "John Ford führte Regie.",
+      "context": "John Ford führte Regie. Die weiten Landschaften von Monument Valley stehen den Türrahmen gegenüber, die Ethans Abstand zur häuslichen Gemeinschaft sichtbar machen.",
+      "anchor": "John Ford führte Regie.",
+      "interest": "John Ford führte Regie.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

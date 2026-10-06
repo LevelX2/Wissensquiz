@@ -1,0 +1,225 @@
+{
+  "rank": 136,
+  "directors": [
+    "Stephen Chow"
+  ],
+  "production_countries": [
+    "China",
+    "Hongkong"
+  ],
+  "familiarity_reason": "International verbreitete fantastische Sportkomödie, vorwiegend für Comedy- und Genrefans ein Kennerfilm.",
+  "release_note": "Hongkonger Veröffentlichung am 12. Juli 2001.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Shaolin_Soccer",
+    "miramax": {
+      "url": "https://www.miramax.com/movie/shaolin-soccer/",
+      "supports": "Offizieller Regiecredit Stephen Chow, Jahr 2001 und Synopsis über Sing, seine Brüder und den Wettbewerb."
+    },
+    "hkfilmarchive": {
+      "url": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Stephen-CHOW_e.pdf",
+      "supports": "Archivbiografie: Chow Regisseur und Hauptdarsteller von Shaolin Soccer 2001, Kung Fu Hustle 2004; vorherige gemeinsame Regiearbeiten mit Lee Lik-chee werden separat benannt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Wunsch will Sing (Stephen Chow) durch das Mannschaftsprojekt in @ verwirklichen?",
+      "answers": [
+        "Er will Kung Fu im Alltag bekannt und nützlich machen.",
+        "Er möchte alleiniger Trainer einer professionellen Ligamannschaft werden.",
+        "Er will ausschließlich Geld für einen neuen Tempel sammeln.",
+        "Er möchte sich als Filmstar in Kampfszenen etablieren."
+      ],
+      "feedback": [
+        "Sing möchte die praktischen Möglichkeiten seiner Kampfkunst zeigen.",
+        "Sing will Kung Fu im alltäglichen Leben verbreiten, nicht nur Trainer werden.",
+        "Eine reine Tempelfinanzierung ist nicht sein umfassender Wunsch.",
+        "Eine Filmkarriere steht nicht im Zentrum seines Projekts."
+      ],
+      "short": "Sing möchte die praktischen Möglichkeiten seiner Kampfkunst zeigen.",
+      "context": "Sing (Stephen Chow) findet zunächst keine Schüler für sein Kung Fu. Die Begegnung mit Fung (Ng Man-tat) gibt ihm einen neuen Weg, die Fähigkeiten sichtbar zu machen. Der Mannschaftserfolg ist deshalb nicht nur persönlicher Ruhm; Sing hofft, dass andere Menschen die Kunst für ihr eigenes tägliches Leben entdecken.",
+      "anchor": "Sings Spielfeld soll Kung Fu in die gewöhnliche Welt tragen.",
+      "interest": "Sings Spielfeld soll Kung Fu in die gewöhnliche Welt tragen.",
+      "sources": [
+        "handlung",
+        "miramax"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wozu verwendet Mui (Zhao Wei) ihre Tai-Chi-Fähigkeiten zu Beginn von @?",
+      "answers": [
+        "Zum Zubereiten von Teig",
+        "Zum Reparieren von Autos",
+        "Zum Malen von Hausfassaden",
+        "Zum Schneidern von Uniformen"
+      ],
+      "feedback": [
+        "Mui benutzt die Bewegungen bei ihrer Arbeit als Bäckerin.",
+        "Autos repariert sie nicht damit.",
+        "Hausfassaden sind nicht ihr Einsatzgebiet.",
+        "Uniformen näht sie nicht."
+      ],
+      "short": "Mui benutzt die Bewegungen bei ihrer Arbeit als Bäckerin.",
+      "context": "Mui (Zhao Wei) kann Dinge mit Tai Chi bewegen und verarbeitet damit Teig. Die Szene führt ihre Fähigkeit lange vor dem großen Spiel ein. Der Film zeigt so bereits im Alltag das, was Sing (Stephen Chow) später allgemein verbreiten möchte: Kampfkunst muss nicht auf einen Kampf beschränkt bleiben.",
+      "anchor": "Muis Teigarbeit zeigt die alltägliche Seite des Tai Chi.",
+      "interest": "Muis Teigarbeit zeigt die alltägliche Seite des Tai Chi.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum läuft der frühere Star Fung (Ng Man-tat) in @ mit einem verletzten Bein?",
+      "answers": [
+        "Nach einem manipulierten Spiel wurde er von bezahlten Angreifern verletzt.",
+        "Er wurde bei einem früheren Endspiel durch einen echten Gegnerfoul verletzt.",
+        "Er brach sich das Bein während einer nächtlichen Flucht vor Hung.",
+        "Er erlitt nach dem Karriereende einen Unfall bei der Arbeit."
+      ],
+      "feedback": [
+        "Hung ließ die Gewalt nach dem absichtlich verlorenen Spiel organisieren.",
+        "Hung organisiert nach dem manipulierten Spiel den Angriff; ein gewöhnliches Foul ist nicht die Ursache.",
+        "Die Verletzung entsteht nicht bei einer persönlichen nächtlichen Flucht.",
+        "Ein späterer Arbeitsunfall erklärt sie nicht."
+      ],
+      "short": "Hung ließ die Gewalt nach dem absichtlich verlorenen Spiel organisieren.",
+      "context": "Fung (Ng Man-tat) verfehlt auf Hungs (Patrick Tse) Betreiben einen Elfmeter. Der versprochene Gewinn ist wertlos, die anschließende Gewalt zerstört seine Karriere. Die später scheinbar zufällige Gegnerbeziehung hat somit eine lange Betrugsgeschichte, die das Mannschaftsprojekt zu einer möglichen Wiedergewinnung von Würde macht.",
+      "anchor": "Hungs Betrug nimmt Fung Karriere und Gesundheit.",
+      "interest": "Hungs Betrug nimmt Fung Karriere und Gesundheit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wodurch besitzt Hungs Mannschaft in @ ihre übermenschliche Kraft?",
+      "answers": [
+        "Durch ein leistungssteigerndes Mittel",
+        "Durch eine heimliche Zusammenarbeit mit Sings früherem Meister",
+        "Durch manipulierte Bälle mit verborgenen technischen Hilfen",
+        "Durch ein besonders hartes Training unter Fung"
+      ],
+      "feedback": [
+        "Team Evil wird durch eine Droge leistungsfähig gemacht.",
+        "Hung verwendet ein leistungssteigerndes Mittel, keine Meisterausbildung als Erklärung.",
+        "Die übersteigerte Körperkraft kommt nicht aus einem speziell präparierten Ball.",
+        "Fung trainiert nicht diese gegnerische Mannschaft."
+      ],
+      "short": "Team Evil wird durch eine Droge leistungsfähig gemacht.",
+      "context": "Hung (Patrick Tse) setzt nicht auf das lange erlernte Kung Fu, sondern auf manipulierte Leistung und einen gekauften Schiedsrichter. Die äußerlich ähnlichen übermenschlichen Effekte haben daher verschiedene Grundlagen. Der Gegner bildet ein Gegenmodell zur neu geeinten Gruppe: Die Spielstärke ist Produkt von Betrug statt gemeinsam wiedergefundener Fähigkeiten.",
+      "anchor": "Team Evils Kraft wird gekauft und gedopt.",
+      "interest": "Team Evils Kraft wird gekauft und gedopt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie wendet Mui (Zhao Wei) in @ die fast verlorene Finalpartie?",
+      "answers": [
+        "Sie übernimmt das Tor und verbindet Tai Chi mit Sings Schuss.",
+        "Sie übernimmt den Sturm und erzielt ohne Sing den Siegtreffer.",
+        "Sie ersetzt Fung als Trainer und verändert die Aufstellung.",
+        "Sie nutzt Tai Chi, um den Gegner beim Elfmeter selbst zu treffen."
+      ],
+      "feedback": [
+        "Muis Abwehr und Sings Angriff wirken im entscheidenden Moment zusammen.",
+        "Mui geht ins Tor, nimmt den gefährlichen Ball auf und ermöglicht Sings Abschluss.",
+        "Ihre entscheidende Rolle findet auf dem Feld im Tor statt.",
+        "Sie lenkt den Ball mit Tai Chi für Sings Schuss, statt den Gegner persönlich zu treffen."
+      ],
+      "short": "Muis Abwehr und Sings Angriff wirken im entscheidenden Moment zusammen.",
+      "context": "Die Gegner verletzen die Torhüter, sodass Sing (Stephen Chow) kaum noch eine vollständige Mannschaft hat. Mui (Zhao Wei) kehrt zurück und lenkt den gewaltigen Angriff mit Tai Chi ab. Ihre Fähigkeit ergänzt Sings Schusskraft; der Sieg beruht damit auf einer Verbindung verschiedener Begabungen und nicht bloß auf einem stärkeren Einzelhelden.",
+      "anchor": "Muis weiche Umlenkung und Sings Kraft ergeben den entscheidenden Angriff.",
+      "interest": "Muis weiche Umlenkung und Sings Kraft ergeben den entscheidenden Angriff.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was zeigt die Schlussbeobachtung von Sing (Stephen Chow) in @ über seinen ursprünglichen Wunsch?",
+      "answers": [
+        "Menschen verwenden Kung Fu nun bei gewöhnlichen Tätigkeiten.",
+        "Der Erfolg bleibt auf seine eigenen Mannschaftsmitglieder begrenzt.",
+        "Er eröffnet eine Schule nur für angehende Torhüter.",
+        "Die Stadt nimmt Kung Fu ausschließlich als neue Bühnenshow wahr."
+      ],
+      "feedback": [
+        "Die Kampfkunst hat Eingang in den Alltag gefunden.",
+        "Die Schlussbilder zeigen die Techniken außerhalb der Mannschaft im Alltag.",
+        "Die Wirkung beschränkt sich nicht auf eine Torhüterschule.",
+        "Die Kunst wird praktisch angewandt und nicht nur als Show betrachtet."
+      ],
+      "short": "Die Kampfkunst hat Eingang in den Alltag gefunden.",
+      "context": "Nach dem Erfolg sieht Sing (Stephen Chow), wie die Menschen ihre Fähigkeiten bei alltäglichen Bewegungen einsetzen. Die Pointe beantwortet damit den Wunsch aus dem Beginn. Das Turnier war ein Mittel zur Verbreitung und nicht das letzte Ziel: Die praktische Welt hat sich durch den öffentlich sichtbaren Erfolg verändert.",
+      "anchor": "Der Sieg wird zum Alltag, den Sing am Anfang erhofft hat.",
+      "interest": "Der Sieg wird zum Alltag, den Sing am Anfang erhofft hat.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2001",
+        "1997",
+        "2000",
+        "2004"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 2001.",
+        "1997 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "2000 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2004 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 2001.",
+      "context": "Shaolin Soccer erschien 2001, drei Jahre vor Stephen Chows Kung Fu Hustle von 2004. Beide Filme verbinden Kampfkunst mit übersteigerter Komik, doch das Fußballteam gehört zum früheren Werk. Der Vergleich ist eine zeitliche Merkhilfe, keine Behauptung, dass die spätere Handlung daraus unmittelbar folgt.",
+      "anchor": "Shaolin Soccer 2001, Kung Fu Hustle 2004: drei Jahre zwischen Chows Kampfkunstkomödien.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Shaolin Soccer 2001, Kung Fu Hustle 2004: drei Jahre zwischen Chows Kampfkunstkomödien.",
+      "sources": [
+        "handlung",
+        "miramax",
+        "hkfilmarchive"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Stephen Chow",
+        "Jackie Chan",
+        "Tsui Hark",
+        "Wong Jing"
+      ],
+      "feedback": [
+        "Stephen Chow führte Regie.",
+        "Jackie Chan gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Tsui Hark gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Wong Jing gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Stephen Chow.",
+      "context": "Stephen Chow führte Regie und spielt Sing. Ng Man-tat verkörpert den ehemaligen Fußballer Fung, Zhao Wei die Bäckerin Mui. Die fantastischen Fähigkeiten erhalten ihre komische Form durch sehr praktische Wünsche: eine Mannschaft gewinnen lassen, Kung Fu bekannt machen und in einer gewöhnlichen Arbeitswelt Anerkennung finden.",
+      "anchor": "Stephen Chow: Ng Man-tat verkörpert den ehemaligen Fußballer Fung, Zhao Wei die Bäckerin Mui.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "miramax",
+        "hkfilmarchive"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ],
+  "director_note": "Der führende Regiecredit folgt Miramax und Hong Kong Film Archive: Stephen Chow. Rotten Tomatoes führt zusätzlich Lee Lik-chi; diese abweichende Datenbankangabe wird nicht als offizieller Gesamtregiecredit übernommen."
+}

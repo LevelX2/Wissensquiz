@@ -1,0 +1,217 @@
+{
+  "rank": 168,
+  "directors": [
+    "Stanley Donen"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Die Verbindung von Liebeskomödie und Kriminalspiel mit Hepburn und Grant ist ein anerkannter Kennerklassiker.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1963; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Charade_(1963_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Charade_(1963_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt sucht Reggie Lampert (Audrey Hepburn) in @ nach der Wahrheit über ihren verstorbenen Mann?",
+      "answers": [
+        "Paris",
+        "Rom",
+        "Madrid",
+        "Brüssel"
+      ],
+      "feedback": [
+        "Reggie kehrt nach Paris zurück und erfährt, dass ihr Mann ermordet wurde.",
+        "Die Hauptsuche findet nicht in Rom statt.",
+        "Madrid ist nicht der Schauplatz.",
+        "Brüssel bildet nicht das Zentrum des Rätsels."
+      ],
+      "short": "Reggie kehrt nach Paris zurück und erfährt, dass ihr Mann ermordet wurde.",
+      "context": "Reggie kehrt nach Paris zurück und erfährt, dass ihr Mann ermordet wurde. Ihre Wohnung ist leergeräumt, und mehrere Männer suchen nach einem verschwundenen Vermögen. Die vertraute Stadt wird dadurch zur Umgebung eines persönlichen Rätsels und wechselnder Bedrohungen.",
+      "anchor": "Reggies Pariser Alltag wird zur gefährlichen Geldsuche.",
+      "interest": "Reggies Pariser Alltag wird zur gefährlichen Geldsuche.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was macht Reggies neuen Helfer (Cary Grant) in @ so schwer einzuschätzen?",
+      "answers": [
+        "Er nennt ihr wiederholt andere Identitäten.",
+        "Er verschweigt ihr, ob er ihren Mann gekannt hat.",
+        "Er weigert sich, mit ihr die Polizei aufzusuchen.",
+        "Er behauptet, alle Verdächtigen seien unschuldig."
+      ],
+      "feedback": [
+        "Der Helfer gibt Reggie Lampert (Audrey Hepburn) mehrfach einen anderen Namen und Hintergrund.",
+        "Entscheidend ist sein wiederholter Wechsel von Namen und Identitäten.",
+        "Sein Geheimnis ergibt sich nicht nur aus einem Polizeiverzicht.",
+        "Er übernimmt mehrfach andere Rollen, statt pauschal alle zu entlasten."
+      ],
+      "short": "Der Helfer gibt Reggie Lampert (Audrey Hepburn) mehrfach einen anderen Namen und Hintergrund.",
+      "context": "Der Helfer gibt Reggie Lampert (Audrey Hepburn) mehrfach einen anderen Namen und Hintergrund. Seine Hilfe wirkt überzeugend, seine Selbstauskunft bleibt unzuverlässig. Der romantische Reiz und die Gefahr entstehen daher aus derselben Unsicherheit über seine tatsächliche Rolle.",
+      "anchor": "Hilfe und wechselnde Identität gehören zu derselben Person.",
+      "interest": "Hilfe und wechselnde Identität gehören zu derselben Person.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche ursprüngliche Bestimmung hatte das gestohlene Gold in @?",
+      "answers": [
+        "Unterstützung der französischen Résistance",
+        "Finanzierung einer alliierten Evakuierung",
+        "Bezahlung eines geheimen Waffenhandels nach dem Krieg",
+        "Rückerstattung beschlagnahmter Familienvermögen"
+      ],
+      "feedback": [
+        "Das Gold sollte die französische Résistance im Zweiten Weltkrieg unterstützen.",
+        "Das Gold sollte die französische Résistance unterstützen.",
+        "Die ursprüngliche Bestimmung lag in der Unterstützung des Widerstands.",
+        "Das Gold war keine allgemeine Vermögensrückgabe."
+      ],
+      "short": "Das Gold sollte die französische Résistance im Zweiten Weltkrieg unterstützen.",
+      "context": "Das Gold sollte die französische Résistance im Zweiten Weltkrieg unterstützen. Die Beteiligten unterschlagen es stattdessen, und Charles Lampert hintergeht später seine Komplizen. Reggie (Audrey Hepburn) gerät somit in eine Auseinandersetzung, deren eigentlicher Ursprung lange vor ihrer Suche liegt.",
+      "anchor": "Der private Schatz stammt aus unterschlagenem Widerstandsgeld.",
+      "interest": "Der private Schatz stammt aus unterschlagenem Widerstandsgeld.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "In welcher unscheinbaren Form steckt das gesuchte Vermögen in @?",
+      "answers": [
+        "In seltenen Briefmarken",
+        "In Knöpfen aus reinem Gold",
+        "In einer Schallplatte",
+        "In einem verschlüsselten Bankbuch"
+      ],
+      "feedback": [
+        "Das Vermögen steckt in seltenen Briefmarken auf einem Umschlag.",
+        "Goldknöpfe enthalten den Schatz nicht.",
+        "Die Schallplatte ist nicht der Wertträger.",
+        "Ein Bankbuch löst die Geldsuche nicht."
+      ],
+      "short": "Das Vermögen steckt in seltenen Briefmarken auf einem Umschlag.",
+      "context": "Das Vermögen steckt in seltenen Briefmarken auf einem Umschlag. Reggie Lampert (Audrey Hepburn) hat sie einem Kind gegeben, ohne ihren Wert zu erkennen. Der entscheidende Gegenstand war also sichtbar, aber seine Bedeutung blieb hinter seinem alltäglichen Erscheinungsbild verborgen.",
+      "anchor": "Der Schatz klebt auf einem alltäglichen Umschlag.",
+      "interest": "Der Schatz klebt auf einem alltäglichen Umschlag.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Identität entlarvt @ hinter dem vermeintlichen CIA-Mann Hamilton Bartholomew (Walter Matthau)?",
+      "answers": [
+        "Den überlebenden Carson Dyle",
+        "Charles Lamperts Vater",
+        "Einen französischen Briefmarkenhändler",
+        "Reggies verschollenen Bruder"
+      ],
+      "feedback": [
+        "Hamilton Bartholomew ist in Wahrheit Carson Dyle.",
+        "Er wird nicht als Charles’ Vater enthüllt.",
+        "Der Briefmarkenhändler ist eine andere Person.",
+        "Er ist nicht Reggies Bruder."
+      ],
+      "short": "Hamilton Bartholomew ist in Wahrheit Carson Dyle.",
+      "context": "Hamilton Bartholomew ist in Wahrheit Carson Dyle. Der totgeglaubte Beteiligte am Goldraub benutzt eine behördliche Tarnung, um Reggie Lampert (Audrey Hepburn) zu lenken. Die scheinbar verlässlichste Autorität entpuppt sich dadurch als Teil der alten Bedrohung.",
+      "anchor": "Die Behördenfassade verbirgt den alten Komplizen.",
+      "interest": "Die Behördenfassade verbirgt den alten Komplizen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie rettet Grants Figur Reggie (Audrey Hepburn) beim Finale von @?",
+      "answers": [
+        "Er öffnet eine Bühnenfalltür unter ihrem Verfolger.",
+        "Er schaltet die Theaterbeleuchtung aus und führt sie heraus.",
+        "Er stellt den Verfolger mit einer ungeladenen Pistole.",
+        "Er verriegelt den einzigen Ausgang des Theaters."
+      ],
+      "feedback": [
+        "Grants Figur betätigt im Theater eine Falltür unter Carson Dyle (Walter Matthau).",
+        "Der entscheidende Eingriff ist die geöffnete Falltür.",
+        "Eine solche Bluffwaffe löst die Rettung nicht.",
+        "Die Falltür, nicht eine Ausgangssperre, stoppt den Mann."
+      ],
+      "short": "Grants Figur betätigt im Theater eine Falltür unter Carson Dyle (Walter Matthau).",
+      "context": "Grants Figur betätigt im Theater eine Falltür unter Carson Dyle (Walter Matthau). Reggie Lampert (Audrey Hepburn) versteckt sich im Souffleurkasten. Das Bühnengebäude liefert also keine bloße Kulisse: Seine Vorrichtungen ermöglichen die konkrete Rettung und beenden die Verfolgung.",
+      "anchor": "Die Theatertechnik entscheidet die Verfolgung.",
+      "interest": "Die Theatertechnik entscheidet die Verfolgung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1963",
+        "1960",
+        "1956",
+        "1965"
+      ],
+      "feedback": [
+        "1963 wurde der Film erstmals gezeigt.",
+        "1960 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1963 wird im zeitlichen Hintergrund erklärt.",
+        "1956 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1963 wird im zeitlichen Hintergrund erklärt.",
+        "1965 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1963 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1963 wurde der Film erstmals gezeigt.",
+      "context": "1963 wurde der Film erstmals gezeigt. Das Rätsel verweist innerhalb der Handlung auf während des Zweiten Weltkriegs gestohlenes Gold: Die Gegenwartskomödie öffnet so einen Konflikt aus einer früheren Epoche. Die Benefizvorführung im September geht dem regulären Dezemberstart desselben Jahres voraus.",
+      "anchor": "1963 wird in Paris um Gold aus dem Zweiten Weltkrieg gestritten: Der Gegenwartsfall hat eine ältere Kriegsursache.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Stanley Donen",
+        "Preston Sturges",
+        "Leo McCarey",
+        "Frank Capra"
+      ],
+      "feedback": [
+        "Stanley Donen inszenierte das Drehbuch von Peter Stone.",
+        "Preston Sturges wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Stanley Donen.",
+        "Leo McCarey wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Stanley Donen.",
+        "Frank Capra wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Stanley Donen."
+      ],
+      "short": "Stanley Donen inszenierte das Drehbuch von Peter Stone.",
+      "context": "Stanley Donen inszenierte das Drehbuch von Peter Stone. Audrey Hepburn und Cary Grant verbinden romantische Annäherung mit wechselnden Identitäten und einer Geldsuche. Henry Mancinis Musik gehört zum eleganten Ton, während die Hauptfigur wiederholt prüfen muss, wem sie überhaupt vertrauen kann.",
+      "anchor": "Stanley Donen inszenierte das Drehbuch von Peter Stone.",
+      "interest": "Stanley Donen inszenierte das Drehbuch von Peter Stone.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

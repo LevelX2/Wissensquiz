@@ -1,0 +1,211 @@
+{
+  "rank": 95,
+  "directors": [
+    "Mario Bava"
+  ],
+  "production_countries": [
+    "Italien"
+  ],
+  "familiarity_reason": "Prägender italienischer Gothic-Horror, im breiten Publikum eher Entdeckung.",
+  "release_note": "Italienischer Start 11. August 1960.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Black_Sunday_(1960_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Verbindung besteht zwischen Asa und Katia in @?",
+      "answers": [
+        "Sie gleichen einander äußerlich und gehören zur selben Familienlinie.",
+        "Sie sind Schwestern, die zur selben Zeit aufwuchsen.",
+        "Sie sind Mutter und Tochter mit unterschiedlicher Erscheinung.",
+        "Sie sind nicht verwandte Frauen, die durch einen Fluch verbunden werden."
+      ],
+      "feedback": [
+        "Asa und Katia gehören zur selben Familienlinie und gleichen einander.",
+        "Zwischen ihnen liegen Generationen derselben Familie.",
+        "Die Ähnlichkeit besteht über eine längere Familienlinie.",
+        "Die familiäre Abstammung ist für Asas Rache wichtig."
+      ],
+      "short": "Asa und Katia gehören zur selben Familienlinie und gleichen einander.",
+      "context": "Asa und Katia gehören zur selben Familienlinie und gleichen einander. Barbara Steele spielt beide Frauen; diese Ähnlichkeit ermöglicht später Asas Versuch, Katias Lebenskraft zu rauben und als sie aufzutreten.",
+      "anchor": "Die gleiche Erscheinung bereitet den Austauschversuch vor.",
+      "interest": "Die gleiche Erscheinung bereitet den Austauschversuch vor.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was sollen die mit Spitzen besetzten Masken am Anfang von @ bewirken?",
+      "answers": [
+        "Die Verurteilten grausam töten",
+        "Die Gesichter der Opfer für die Ewigkeit bewahren",
+        "Die Verurteilten am Sprechen eines weiteren Fluchs hindern",
+        "Die Wiederkehr der Toten durch bloßes Bedecken verhindern"
+      ],
+      "feedback": [
+        "Die Masken werden als Hinrichtungswerkzeug eingeschlagen.",
+        "Die Spitzen machen die Maske zum Tötungswerkzeug.",
+        "Das Einschlagen tötet statt nur Sprache zu verhindern.",
+        "Die Hinrichtung geht über bloßes Bedecken hinaus."
+      ],
+      "short": "Die Masken werden als Hinrichtungswerkzeug eingeschlagen.",
+      "context": "Die Masken werden als Hinrichtungswerkzeug eingeschlagen. Asa (Barbara Steele) verflucht ihre Familie; die körperliche Strafe eröffnet damit die spätere Rachegeschichte.",
+      "anchor": "Die Maske verbindet Hinrichtung und Fluch.",
+      "interest": "Die Maske verbindet Hinrichtung und Fluch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wie wird Asa in @ unbeabsichtigt wiederbelebt?",
+      "answers": [
+        "Blut eines verletzten Arztes tropft auf ihren Körper.",
+        "Katia spricht bewusst einen Zauber.",
+        "Die Dorfbewohner öffnen gemeinsam das Grab.",
+        "Ein Priester tauft ihre Gebeine."
+      ],
+      "feedback": [
+        "Kruvajans (Andrea Checchi) Blut trifft den Körper.",
+        "Katia führt diese Wiederbelebung nicht herbei.",
+        "Eine gemeinsame Dorföffnung ist nicht die Ursache.",
+        "Eine Taufe belebt sie nicht."
+      ],
+      "short": "Kruvajans (Andrea Checchi) Blut trifft den Körper.",
+      "context": "Kruvajans (Andrea Checchi) Blut trifft den Körper. Der Arzt hatte Schutzglas und Kreuz beschädigt; seine Untersuchung schafft dadurch den Zugang, den er als medizinisch neugieriger Besucher nicht beabsichtigt.",
+      "anchor": "Die unbedachte Untersuchung liefert Asa Blut und Zugang.",
+      "interest": "Die unbedachte Untersuchung liefert Asa Blut und Zugang.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum lässt Kruvajan in @ das Kreuz aus dem Zimmer des Fürsten entfernen?",
+      "answers": [
+        "Als Asas Diener ermöglicht er den erneuten Angriff.",
+        "Er glaubt, das Kreuz verschlimmere die Krankheit.",
+        "Er bringt das Kreuz zu einem Priester für eine neue Weihe.",
+        "Er will es Asa zum Vertreiben der Geister entgegenhalten."
+      ],
+      "feedback": [
+        "Der verwandelte Kruvajan (Andrea Checchi) beseitigt das schützende Kreuz.",
+        "Die medizinische Begründung tarnt seinen Dienst für Asa.",
+        "Keine Weihe erklärt die Beseitigung.",
+        "Er entfernt Asas Hindernis statt es gegen sie einzusetzen."
+      ],
+      "short": "Der verwandelte Kruvajan (Andrea Checchi) beseitigt das schützende Kreuz.",
+      "context": "Der verwandelte Kruvajan (Andrea Checchi) beseitigt das schützende Kreuz. Er tarnt den Eingriff als Sorge um den Kranken; die scheinbare ärztliche Hilfe bereitet dessen Ermordung vor.",
+      "anchor": "Die medizinisch begründete Entfernung beseitigt den Schutz.",
+      "interest": "Die medizinisch begründete Entfernung beseitigt den Schutz.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum will Asa in @ Katias Lebenskraft entziehen?",
+      "answers": [
+        "Sie will über Katias Jugend wieder einen lebendigen Körper gewinnen.",
+        "Sie will Katia dauerhaft zu ihrer Dienerin machen.",
+        "Sie will durch Katias Tod nur den Fürsten bestrafen.",
+        "Sie will Katias Körper ihrem toten Gefährten überlassen."
+      ],
+      "feedback": [
+        "Asa (Barbara Steele) beansprucht Katias Jugend.",
+        "Asa will selbst Katias Jugend und Erscheinung übernehmen.",
+        "Die Rache ist mit eigenem Lebensraub verbunden, nicht nur der Bestrafung des Fürsten.",
+        "Sie beansprucht den Körper selbst."
+      ],
+      "short": "Asa (Barbara Steele) beansprucht Katias Jugend.",
+      "context": "Asa (Barbara Steele) beansprucht Katias Jugend. Katia (ebenfalls Steele) ist deshalb mehr als eine zufällige Gegnerin: Ihre Ähnlichkeit macht sie zum passenden Träger eines geraubten Lebens.",
+      "anchor": "Die Ähnlichkeit bestimmt das Opfer für Asas Körpererneuerung.",
+      "interest": "Die Ähnlichkeit bestimmt das Opfer für Asas Körpererneuerung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Woran scheitert Asas Täuschung als Katia im Schluss von @ zunächst?",
+      "answers": [
+        "Das Kreuz verletzt die wirkliche Katia nicht.",
+        "Die wirkliche Katia trägt keinen Familienschmuck.",
+        "Gorobec erkennt die Täuschung an den Stimmen.",
+        "Asa nennt einen falschen Namen des Vaters."
+      ],
+      "feedback": [
+        "Katia trägt das Kreuz ohne Schaden.",
+        "Das schützende Kreuz ist der entscheidende Widerspruch.",
+        "Die Stimme ist nicht der anfängliche Test.",
+        "Ein Vatername löst die Verwechslung nicht."
+      ],
+      "short": "Katia trägt das Kreuz ohne Schaden.",
+      "context": "Katia (Barbara Steele) trägt das Kreuz ohne Schaden. Gorobec (John Richardson) erkennt dadurch den Widerspruch in Asas Behauptung; erst anschließend enthüllt er Asas skelettartigen Körper unter dem Gewand.",
+      "anchor": "Der Kreuztest widerspricht der behaupteten Rollenvertauschung.",
+      "interest": "Der Kreuztest widerspricht der behaupteten Rollenvertauschung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1960",
+        "1958",
+        "1955",
+        "1961"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1960.",
+        "1958 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1955 liegt fünf Jahre davor.",
+        "1961 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1960 erstmals veröffentlicht.",
+      "context": "1960 erschien Bavas offizielles Regiedebüt. Gogols Erzählung Wij von 1835 liegt 125 Jahre davor; Bava übernahm sie frei und machte die Wiederkehr einer hingerichteten Hexe zum Zentrum der Filmhandlung.",
+      "anchor": "Gogols Erzählung von 1835 wurde 125 Jahre später, 1960, frei als Bavas Regiedebüt bearbeitet.",
+      "interest": "Gogols Erzählung von 1835 wurde 125 Jahre später, 1960, frei als Bavas Regiedebüt bearbeitet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Mario Bava",
+        "Dario Argento",
+        "Terence Fisher",
+        "Riccardo Freda"
+      ],
+      "feedback": [
+        "Mario Bava führte Regie.",
+        "Dario Argento hat hier keinen Regiecredit.",
+        "Terence Fisher hat hier keinen Regiecredit.",
+        "Riccardo Freda hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Mario Bava.",
+      "context": "Bava führte Regie und verantwortete auch die Kamera. Barbara Steele spielt die verfluchte Asa und die bedrohte Katia; die doppelte Besetzung macht die beanspruchte Ähnlichkeit der Frauen unmittelbar sichtbar.",
+      "anchor": "Bava führte Regie und verantwortete auch die Kamera.",
+      "interest": "Bava führte Regie und verantwortete auch die Kamera.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

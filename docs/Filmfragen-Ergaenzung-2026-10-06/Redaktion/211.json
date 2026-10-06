@@ -1,0 +1,217 @@
+{
+  "rank": 211,
+  "directors": [
+    "Alan J. Pakula"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Kanonischer amerikanischer Paranoia-Thriller mit Jane Fondas markanter Bree-Figur.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1971; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Klute",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Klute",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Spur führt den Ermittler in @ zu Bree?",
+      "answers": [
+        "Ein obszöner Brief an sie",
+        "Eine Lebensversicherung auf ihren Namen",
+        "Ein gestohlenes Auto vor ihrem Haus",
+        "Eine Hotelrechnung mit ihrer Unterschrift"
+      ],
+      "feedback": [
+        "Ein obszöner Brief im Büro des verschwundenen Tom Gruneman führt zu Bree Daniels (Jane Fonda).",
+        "Eine Versicherung löst die Suche nicht aus.",
+        "Ein Auto ist nicht die Verbindung zu Bree.",
+        "Der Brief, keine Hotelrechnung, liefert die Spur."
+      ],
+      "short": "Ein obszöner Brief im Büro des verschwundenen Tom Gruneman führt zu Bree Daniels (Jane Fonda).",
+      "context": "Ein obszöner Brief im Büro des verschwundenen Tom Gruneman führt zu Bree Daniels (Jane Fonda). Sie hat mehrere solche Schreiben erhalten; die vermeintliche Verbindung eröffnet die Untersuchung.",
+      "anchor": "Ein Brief verbindet Vermisstenfall und bedrohte Frau.",
+      "interest": "Ein Brief verbindet Vermisstenfall und bedrohte Frau.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche berufliche Hoffnung verfolgt Bree neben ihrer Arbeit als Callgirl in @?",
+      "answers": [
+        "Schauspiel- und Modelaufträge",
+        "Eine Anstellung als Anwältin",
+        "Die Leitung eines Restaurants",
+        "Eine Stelle als Polizeibeamtin"
+      ],
+      "feedback": [
+        "Bree Daniels (Jane Fonda) bewirbt sich um Schauspiel- und Modelaufträge.",
+        "Sie absolviert keine juristische Ausbildung.",
+        "Ein Restaurant ist nicht ihr angestrebter Beruf.",
+        "Sie sucht keine Polizeistelle."
+      ],
+      "short": "Bree Daniels (Jane Fonda) bewirbt sich um Schauspiel- und Modelaufträge.",
+      "context": "Bree Daniels (Jane Fonda) bewirbt sich um Schauspiel- und Modelaufträge. Die Vorsprechen zeigen ihre Suche nach einer anderen Existenz, während sie weiterhin von Freiern lebt.",
+      "anchor": "Brees Vorsprechen zeigen ihre Hoffnung auf einen anderen Alltag.",
+      "interest": "Brees Vorsprechen zeigen ihre Hoffnung auf einen anderen Alltag.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum belastet die wachsende Nähe zum Ermittler Bree in @?",
+      "answers": [
+        "Sie fürchtet den Verlust ihrer Kontrolle",
+        "Sie glaubt, er wolle sie nur als Informantin benutzen.",
+        "Sie befürchtet, er werde sie wegen ihrer Arbeit anzeigen.",
+        "Sie will eine Beziehung mit ihrem früheren Zuhälter erhalten."
+      ],
+      "feedback": [
+        "Bree Daniels (Jane Fonda) erklärt ihrer Therapeutin, dass sie sich beim Umgang mit Freiern kontrollierter fühlt.",
+        "Sie beschreibt vor allem ihre Angst vor emotionalem Kontrollverlust.",
+        "Die Therapieszenen betonen die Verletzlichkeit echter Nähe.",
+        "Ihre Reaktion erklärt sich durch die Angst vor Kontrollverlust, nicht durch Treue zu einem anderen Mann."
+      ],
+      "short": "Bree Daniels (Jane Fonda) erklärt ihrer Therapeutin, dass sie sich beim Umgang mit Freiern kontrollierter fühlt.",
+      "context": "Bree Daniels (Jane Fonda) erklärt ihrer Therapeutin, dass sie sich beim Umgang mit Freiern kontrollierter fühlt. Die Nähe zu John Klute (Donald Sutherland) macht sie emotional verletzlich.",
+      "anchor": "Berufliche Distanz bietet Bree eine Kontrolle, die Nähe gefährdet.",
+      "interest": "Berufliche Distanz bietet Bree eine Kontrolle, die Nähe gefährdet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was lässt den Ermittler in @ die Todesfälle zweier Frauen neu bewerten?",
+      "answers": [
+        "Beide kannten denselben gewalttätigen Kunden",
+        "Beide hatten denselben Erben",
+        "Beide starben in derselben Wohnung",
+        "Beide arbeiteten für die Chemiefirma"
+      ],
+      "feedback": [
+        "Jane McKenna und Arlyn Page (Dorothy Tristan) führen zu demselben gewalttätigen Freier.",
+        "Ein gemeinsamer Erbe ist keine entscheidende Spur.",
+        "Die Frauen sterben nicht in derselben Wohnung.",
+        "Ihre Verbindung ist der Kunde, nicht eine Firmenanstellung."
+      ],
+      "short": "Jane McKenna und Arlyn Page (Dorothy Tristan) führen zu demselben gewalttätigen Freier.",
+      "context": "Jane McKenna und Arlyn Page (Dorothy Tristan) führen zu demselben gewalttätigen Freier. Die scheinbaren Selbsttötungen erscheinen John Klute (Donald Sutherland) deshalb als zusammenhängende Morde.",
+      "anchor": "Der gemeinsame Kunde macht aus getrennten Todesfällen eine Mordserie.",
+      "interest": "Der gemeinsame Kunde macht aus getrennten Todesfällen eine Mordserie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wodurch wird der Verfasser der obszönen Briefe in @ eingegrenzt?",
+      "answers": [
+        "Durch einen Vergleich der Schreibmaschinenschrift",
+        "Durch eine fremdsprachige Redewendung",
+        "Durch einen Fingerabdruck auf einer Briefmarke",
+        "Durch den Poststempel eines Hotels"
+      ],
+      "feedback": [
+        "Ein Vergleich der Schreibmaschinenschrift führt zu Peter Cable (Charles Cioffi).",
+        "Eine Redewendung identifiziert den Absender nicht.",
+        "Der entscheidende Vergleich betrifft die Schrift.",
+        "Ein Hotelstempel entlarvt Cable nicht."
+      ],
+      "short": "Ein Vergleich der Schreibmaschinenschrift führt zu Peter Cable (Charles Cioffi).",
+      "context": "Ein Vergleich der Schreibmaschinenschrift führt zu Peter Cable (Charles Cioffi). Ausgerechnet der Auftraggeber des Ermittlers hat die Spur gelegt, die den verschwundenen Kollegen belasten soll.",
+      "anchor": "Die Briefe führen zum Auftraggeber selbst.",
+      "interest": "Die Briefe führen zum Auftraggeber selbst.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was will der Täter Bree gegen Ende von @ mit einer Tonaufnahme vermitteln?",
+      "answers": [
+        "Dass er eine andere Frau getötet hat",
+        "Dass Gruneman freiwillig verschwunden ist",
+        "Dass Klute ihre Gespräche verkauft hat",
+        "Dass ihr Vorsprechen angenommen wurde"
+      ],
+      "feedback": [
+        "Peter Cable (Charles Cioffi) spielt Bree (Jane Fonda) eine Aufnahme vor, die er bei Arlyn Pages Ermordung gemacht hat.",
+        "Die Aufnahme belegt keinen freiwilligen Fortzug.",
+        "Klute verkauft ihre Gespräche nicht.",
+        "Eine berufliche Zusage ist nicht ihr Inhalt."
+      ],
+      "short": "Peter Cable (Charles Cioffi) spielt Bree (Jane Fonda) eine Aufnahme vor, die er bei Arlyn Pages Ermordung gemacht hat.",
+      "context": "Peter Cable (Charles Cioffi) spielt Bree (Jane Fonda) eine Aufnahme vor, die er bei Arlyn Pages Ermordung gemacht hat. Sein Kontrollbedürfnis wird zur unmittelbaren Bedrohung, bevor Klute eingreift.",
+      "anchor": "Die Mordaufnahme setzt akustische Kontrolle in direkte Gewalt um.",
+      "interest": "Die Mordaufnahme setzt akustische Kontrolle in direkte Gewalt um.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1971",
+        "1968",
+        "1964",
+        "1973"
+      ],
+      "feedback": [
+        "1971 erschien der Film.",
+        "1968 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1971 wird im zeitlichen Hintergrund erklärt.",
+        "1964 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1971 wird im zeitlichen Hintergrund erklärt.",
+        "1973 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1971 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1971 erschien der Film.",
+      "context": "1971 erschien der Film. Er bildet den Auftakt zu Pakulas Paranoia-Trilogie, auf die 1974 The Parallax View und 1976 Die Unbestechlichen folgten.",
+      "anchor": "Klute 1971, Parallax View 1974, Die Unbestechlichen 1976: Drei und anschließend zwei Jahre ordnen Pakulas Paranoiafilme.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Alan J. Pakula",
+        "Sidney Lumet",
+        "William Friedkin",
+        "John Schlesinger"
+      ],
+      "feedback": [
+        "Alan J.",
+        "Sidney Lumet wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alan J. Pakula.",
+        "William Friedkin wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alan J. Pakula.",
+        "John Schlesinger wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alan J. Pakula."
+      ],
+      "short": "Alan J.",
+      "context": "Alan J. Pakula führte Regie. Gordon Willis setzt die Figuren in dunkle Räume; Brees Therapiesitzungen geben ihrer Selbstbeobachtung mehr Gewicht als einer bloßen Ermittlerperspektive.",
+      "anchor": "Alan J.",
+      "interest": "Alan J.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

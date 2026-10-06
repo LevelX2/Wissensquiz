@@ -1,0 +1,222 @@
+{
+  "rank": 187,
+  "directors": [
+    "James Ward Byrkit"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein kleines, anspruchsvolles Parallelrealitäten-Kammerspiel; redaktionell eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung 2013 beim Fantastic Fest; der reguläre US-Kinostart folgte 2014.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Coherence_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Coherence_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "primer": {
+      "url": "https://en.wikipedia.org/wiki/Primer_(film)",
+      "supports": "Gelesener Filmartikel des zusätzlich redigierten Rangs 188: 2004, kleine unabhängige Produktion und Garagen-Zeitexperiment."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher astronomische Anlass begleitet das Abendessen in @?",
+      "answers": [
+        "Der Vorbeiflug eines Kometen",
+        "Eine besonders helle Mondfinsternis",
+        "Eine unerwartete Meteorschauerwarnung",
+        "Eine geplante Raumsondenlandung"
+      ],
+      "feedback": [
+        "Ein Komet fliegt an der Erde vorbei.",
+        "Ein vorbeiziehender Komet ist der Anlass.",
+        "Die Figuren sprechen über den Kometen.",
+        "Eine Landung begleitet das Essen nicht."
+      ],
+      "short": "Ein Komet fliegt an der Erde vorbei.",
+      "context": "Ein Komet fliegt an der Erde vorbei. Während des Abendessens häufen sich Strom- und Telefonprobleme; die Gäste verbinden später die ungewöhnlichen Erscheinungen mit einem möglichen Zerfall paralleler Wirklichkeiten.",
+      "anchor": "Der Komet begleitet den brüchigen Abend.",
+      "interest": "Der Komet begleitet den brüchigen Abend.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was fällt den Gästen von @ draußen nach dem Stromausfall auf?",
+      "answers": [
+        "Ein einziges Haus hat noch Licht.",
+        "Sämtliche Nachbarhäuser haben Strom, nur ihres nicht.",
+        "Die Straßenbeleuchtung funktioniert ohne die Häuser.",
+        "Ihr eigenes Haus ist von außen noch hell."
+      ],
+      "feedback": [
+        "Nur ein Haus in der dunklen Umgebung ist beleuchtet.",
+        "Gerade das eine erleuchtete Haus fällt in der dunklen Umgebung auf.",
+        "Das auffällige Ziel ist das Haus mit Licht.",
+        "Die Gäste sehen ein anderes, einzig erleuchtetes Haus."
+      ],
+      "short": "Nur ein Haus in der dunklen Umgebung ist beleuchtet.",
+      "context": "Nur ein Haus in der dunklen Umgebung ist beleuchtet. Die Suche nach Hilfe führt die Gäste dorthin; der scheinbar sichere Nachbarort erweist sich als verwirrend ähnlich zu ihrem eigenen Abendessen.",
+      "anchor": "Das helle Nachbarhaus führt zu den anderen Versionen.",
+      "interest": "Das helle Nachbarhaus führt zu den anderen Versionen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Womit markieren die Gäste in @ ihre Gruppe beim Verlassen des Hauses?",
+      "answers": [
+        "Mit farbigen Leuchtstäben",
+        "Mit nummerierten Regenmänteln",
+        "Mit Tiermasken",
+        "Mit identischen Briefmarken"
+      ],
+      "feedback": [
+        "Die Gäste tragen farbige Leuchtstäbe.",
+        "Nummernmäntel werden nicht benutzt.",
+        "Tiermasken tragen sie nicht zur Markierung.",
+        "Briefmarken dienen nicht als Gruppensignal."
+      ],
+      "short": "Die Gäste tragen farbige Leuchtstäbe.",
+      "context": "Die Gäste tragen farbige Leuchtstäbe. Als sie scheinbar dieselben Personen mit anderen Farben sehen, wird die Vermutung paralleler Gruppen anschaulich; das Orientierungsmittel macht die Identitätsunsicherheit sichtbar.",
+      "anchor": "Andere Leuchtfarben weisen auf andere Gruppen hin.",
+      "interest": "Andere Leuchtfarben weisen auf andere Gruppen hin.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wozu legen die Gäste von @ nummerierte Fotos und einen zufälligen Gegenstand in eine Schachtel?",
+      "answers": [
+        "Um ihre jeweilige Realität zu kennzeichnen",
+        "Um ihre Plätze für das nächste Essen auszulosen",
+        "Um die verschwundenen Fotos vollständig zu ersetzen",
+        "Um ein gemeinsames Kennwort zu verschlüsseln"
+      ],
+      "feedback": [
+        "Die Schachtel soll die jeweilige Hausversion eindeutig markieren.",
+        "Die Gegenstände kennzeichnen unterschiedliche Realitäten.",
+        "Die Schachtel dient nicht einer Fotosammlung, sondern einem Unterscheidungssystem.",
+        "Die Zufallskombination wird als physischer Realitätsmarker benutzt."
+      ],
+      "short": "Die Schachtel soll die jeweilige Hausversion eindeutig markieren.",
+      "context": "Die Schachtel soll die jeweilige Hausversion eindeutig markieren. Zufällige Zahlen und Gegenstände schaffen ein Erkennungsmerkmal; die Gruppe versucht damit, die äußerlich kaum unterscheidbaren Wirklichkeiten kontrollierbar zu machen.",
+      "anchor": "Zufällige Kennzeichen sollen ähnliche Wirklichkeiten unterscheiden.",
+      "interest": "Zufällige Kennzeichen sollen ähnliche Wirklichkeiten unterscheiden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was begreift Emily (Emily Baldoni) über die Gäste ihres Hauses in @?",
+      "answers": [
+        "Sie stammen inzwischen aus mehreren verschiedenen Realitäten.",
+        "Alle stammen noch aus ihrer ersten gemeinsamen Realität.",
+        "Nur die draußen gebliebenen Gäste haben gewechselt.",
+        "Die Häuser sind identisch, die Bewohner wechseln aber nie."
+      ],
+      "feedback": [
+        "Emily erkennt, dass nicht mehr alle Gäste aus derselben Wirklichkeit stammen.",
+        "Die Gruppe ist inzwischen gemischt.",
+        "Der Wechsel beschränkt sich nicht auf diese einfache Aufteilung.",
+        "Auch Menschen geraten zwischen den Realitäten durcheinander."
+      ],
+      "short": "Emily erkennt, dass nicht mehr alle Gäste aus derselben Wirklichkeit stammen.",
+      "context": "Emily erkennt, dass nicht mehr alle Gäste aus derselben Wirklichkeit stammen. Kurze Wege durch die Dunkelheit haben verschiedene Gruppen vermischt; Vertrautheit der Gesichter ist deshalb kein zuverlässiger Beweis gemeinsamer Vergangenheit.",
+      "anchor": "Vertraute Gesichter garantieren keine gemeinsame Realität.",
+      "interest": "Vertraute Gesichter garantieren keine gemeinsame Realität.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum bleibt Emilys (Emily Baldoni) Austauschplan am Schluss von @ gefährdet?",
+      "answers": [
+        "Eine andere Emily kann Kevin noch anrufen.",
+        "Kevin erkennt sie sofort anhand ihrer Kleidung.",
+        "Die andere Emily ist sichtbar am Frühstückstisch.",
+        "Mike gesteht allen Gästen einen geplanten Identitätstausch."
+      ],
+      "feedback": [
+        "Emily versucht, eine andere Version ihrer selbst zu ersetzen.",
+        "Die entscheidende Störung ist der Anruf der anderen Emily.",
+        "Sie ist nicht dort, kann aber Kevin anrufen.",
+        "Ein solches Geständnis löst den Schluss nicht aus."
+      ],
+      "short": "Emily versucht, eine andere Version ihrer selbst zu ersetzen.",
+      "context": "Emily versucht, eine andere Version ihrer selbst zu ersetzen. Am Morgen erhält Kevin (Maury Sterling) einen Anruf von Emily; der Kontakt zeigt, dass die verdrängte Identität nicht vollständig beseitigt wurde.",
+      "anchor": "Der Anruf durchkreuzt die erhoffte eindeutige Ersetzung.",
+      "interest": "Der Anruf durchkreuzt die erhoffte eindeutige Ersetzung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2013",
+        "2010",
+        "2006",
+        "2015"
+      ],
+      "feedback": [
+        "2013 wurde der Film beim Fantastic Fest gezeigt, der reguläre US-Kinostart folgte 2014.",
+        "2010 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2013 wird im zeitlichen Hintergrund erklärt.",
+        "2006 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2013 wird im zeitlichen Hintergrund erklärt.",
+        "2015 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2013 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2013 wurde der Film beim Fantastic Fest gezeigt, der reguläre US-Kinostart folgte 2014.",
+      "context": "2013 wurde Coherence beim Fantastic Fest gezeigt. Primer von 2004 entstand ebenfalls als kleine unabhängige Produktion, die vertraute Räume mit fantastischen Regeln auflädt. Neun Jahre trennen die beiden Filme; Byrkits Abendessenshaus setzt die Irritation stärker sozial als technisch um.",
+      "anchor": "Primer 2004, Coherence 2013: Neun Jahre trennen zwei kleine Produktionen, deren vertraute Räume fantastische Regeln verbergen.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten",
+        "primer"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "James Ward Byrkit",
+        "Alex Garland",
+        "Steven Soderbergh",
+        "Gareth Edwards"
+      ],
+      "feedback": [
+        "James Ward Byrkit schrieb und inszenierte das Kammerspiel nach einer mit Alex Manugian entwickelten Geschichte.",
+        "Alex Garland wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet James Ward Byrkit.",
+        "Steven Soderbergh wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet James Ward Byrkit.",
+        "Gareth Edwards wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet James Ward Byrkit."
+      ],
+      "short": "James Ward Byrkit schrieb und inszenierte das Kammerspiel nach einer mit Alex Manugian entwickelten Geschichte.",
+      "context": "James Ward Byrkit schrieb und inszenierte das Kammerspiel nach einer mit Alex Manugian entwickelten Geschichte. Emily Baldoni, damals Emily Foxler, spielt Emily. Ein gemeinsames Abendessen wird durch mehrfache Versionen derselben Gäste in einen Konflikt um Identität und Zugehörigkeit verwandelt.",
+      "anchor": "James Ward Byrkit schrieb und inszenierte das Kammerspiel nach einer mit Alex Manugian entwickelten Geschichte.",
+      "interest": "James Ward Byrkit schrieb und inszenierte das Kammerspiel nach einer mit Alex Manugian entwickelten Geschichte.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

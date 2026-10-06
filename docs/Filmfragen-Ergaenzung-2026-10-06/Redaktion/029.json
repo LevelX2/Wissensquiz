@@ -1,0 +1,211 @@
+{
+  "rank": 29,
+  "directors": [
+    "Edgar Wright"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "familiarity_reason": "Bei einem breiten jüngeren Kino- und Streamingpublikum bekannt, besonders durch die Verbindung von Musik und Fluchtfahrten.",
+  "release_note": "Weltpremiere bei SXSW am 11. März 2017, US- und britischer Kinostart am 28. Juni 2017.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Baby_Driver",
+    "primaer": "https://www.sonypictures.com/movies/babydriver"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufgabe übernimmt Baby (Ansel Elgort) in @ für Docs Raubüberfälle?",
+      "answers": [
+        "Er fährt das Fluchtauto",
+        "Er knackt die Tresore",
+        "Er verhandelt mit den Versicherungen",
+        "Er verkauft die Beute im Ausland"
+      ],
+      "feedback": [
+        "Baby ist der Fahrer, der die Gruppe vom Tatort wegbringt.",
+        "Das Tresorknacken ist nicht seine zentrale Aufgabe.",
+        "Er verhandelt nicht mit Versicherern.",
+        "Der Verkauf der Beute ist nicht seine Rolle."
+      ],
+      "short": "Baby ist der Fluchtfahrer.",
+      "context": "Doc (Kevin Spacey) stellt die Teams für die Überfälle zusammen, während Baby das präzise Entkommen organisiert. Seine Musik strukturiert die Fahrten und andere Bewegungen. Die Aufgabe bindet sein außergewöhnliches Können an ein kriminelles Geschäft, aus dem er sich später mit Debora (Lily James) lösen möchte.",
+      "anchor": "Baby liefert das fahrerische Können für Docs Fluchtpläne.",
+      "interest": "Die Funktion ordnet die Hauptfigur innerhalb des Raubteams ein.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum hört Baby (Ansel Elgort) in @ so häufig Musik über Kopfhörer?",
+      "answers": [
+        "Sie hilft ihm, seinen Tinnitus zu überdecken",
+        "Er bekommt darüber ständig Polizeibefehle",
+        "Er muss einen verborgenen Radiosender bewachen",
+        "Er lernt damit eine fremde Sprache für Doc"
+      ],
+      "feedback": [
+        "Die Musik hilft ihm mit den Ohrgeräuschen seit dem Unfall.",
+        "Er arbeitet nicht mit laufenden Polizeibefehlen.",
+        "Er bewacht keinen Radiosender.",
+        "Sprachunterricht ist nicht der Grund."
+      ],
+      "short": "Baby nutzt Musik gegen seinen Tinnitus.",
+      "context": "Bei dem Unfall, bei dem seine Eltern starben, erlitt Baby einen bleibenden Tinnitus. Musik verschafft ihm einen Umgang mit den Ohrgeräuschen und wird zugleich zum Rhythmus seines Alltags. Die Kopfhörer sind damit sowohl Teil seiner Vorgeschichte als auch ein Element der filmischen Gestaltung.",
+      "anchor": "Musik überdeckt Babys Tinnitus und gibt seinen Bewegungen Rhythmus.",
+      "interest": "Der körperliche Hintergrund erklärt das auffällige Verhalten der Hauptfigur.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum arbeitet Baby (Ansel Elgort) in @ zunächst für Doc (Kevin Spacey)?",
+      "answers": [
+        "Er muss eine Schuld aus dem Diebstahl eines mit Docs Ware beladenen Autos abtragen",
+        "Doc droht ihm mit einer belastenden Videoaufnahme seiner Familie",
+        "Er will heimlich Docs Anteil am Raubgeld an sich bringen",
+        "Er sammelt als Polizeianwärter Beweise"
+      ],
+      "feedback": [
+        "Der frühere Autodiebstahl bindet Baby durch eine Schuld an Doc.",
+        "Die ursprüngliche Bindung entsteht aus der Schuld, nicht aus einer solchen Familienaufnahme.",
+        "Baby arbeitet zur Schuldentilgung und verfolgt nicht den genannten Diebstahlplan.",
+        "Baby arbeitet nicht als Polizeianwärter verdeckt."
+      ],
+      "short": "Baby trägt eine Schuld bei Doc durch Fluchtfahrten ab.",
+      "context": "Baby hat ein Auto gestohlen, das Docs illegale Ware enthielt. Der Verlust wird zur Verpflichtung, für dessen Raubteams zu fahren. Nachdem Baby die Schuld beglichen hat, versucht er auszusteigen; Docs spätere Drohung zeigt jedoch, dass die scheinbar klare Grenze des Geschäfts nicht respektiert wird.",
+      "anchor": "Der Autodiebstahl macht Baby zu Docs Schuldner und Fahrer.",
+      "interest": "Die Verpflichtung erklärt sowohl seine Mitarbeit als auch seinen Wunsch auszusteigen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum verdächtigen Buddy und Bats Baby in @ zeitweise, für die Polizei zu arbeiten?",
+      "answers": [
+        "Sie entdecken seine aufgezeichneten Gespräche",
+        "Sie finden einen gefälschten Polizeiausweis",
+        "Sie sehen ihn in einem Streifenwagen zur Arbeit kommen",
+        "Sie erkennen ihn auf einem Fahndungsplakat der Polizei"
+      ],
+      "feedback": [
+        "Die Gesprächsmitschnitte erscheinen ihnen zunächst als Beweis für Verrat.",
+        "Ein Polizeiausweis wird nicht als dieser Anlass entdeckt.",
+        "Ein solcher Arbeitsweg ist nicht der Auslöser.",
+        "Ein Fahndungsplakat ist nicht die Grundlage des Verdachts."
+      ],
+      "short": "Seine Mitschnitte lösen den Spitzelverdacht aus.",
+      "context": "Baby (Ansel Elgort) nimmt Gesprächsfetzen auf und verarbeitet sie zu Musik. Buddy (Jon Hamm) und Bats (Jamie Foxx) deuten die Aufnahmen zunächst als heimliche Informationssammlung. Erst beim Anhören der daraus gebauten Stücke wird die künstlerische Verwendung deutlich und dieser Verdacht ausgeräumt.",
+      "anchor": "Babys Tonaufnahmen wirken wie Beweise, sind aber Material für seine Musik.",
+      "interest": "Die Szene zeigt den Konflikt zwischen persönlicher Eigenheit und Misstrauen im Team.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie beendet Baby (Ansel Elgort) in @ Bats’ Gewalt beim missglückten Postraub?",
+      "answers": [
+        "Er rammt den Wagen in eine Armierungsstange, die Bats trifft",
+        "Er lässt ihn absichtlich an einer Polizeisperre aussteigen",
+        "Er tauscht dessen Munition gegen Platzpatronen",
+        "Er sperrt ihn im Tresor des Postamts ein"
+      ],
+      "feedback": [
+        "Baby lenkt den Wagen gegen die Stange und tötet Bats.",
+        "Die Szene endet nicht mit einem geplanten Ausstieg an einer Sperre.",
+        "Ein Munitionstausch ist nicht seine Handlung.",
+        "Bats wird nicht in einen Tresor eingeschlossen."
+      ],
+      "short": "Baby lenkt das Fahrzeug gezielt gegen eine Armierungsstange.",
+      "context": "Bats (Jamie Foxx) erschießt einen Wachmann und schlägt auf Baby ein, als dieser nicht weiterfahren will. Baby reagiert mit dem Fahrzeug selbst. Der gewaltsame Bruch mit dem Team verhindert den üblichen Fluchtablauf und setzt die anschließende Verfolgung zu Fuß und Buddys Rache in Gang.",
+      "anchor": "Baby benutzt den Wagen, um Bats zu stoppen, und zerstört dabei den Fluchtplan.",
+      "interest": "Die Handlung erklärt den Wendepunkt vom gelenkten Überfall zur offenen Flucht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was tut Baby (Ansel Elgort) in @ an der Polizeisperre während seiner Flucht mit Debora?",
+      "answers": [
+        "Er ergibt sich",
+        "Er versucht, die Sperre mit dem Wagen zu durchbrechen",
+        "Er lässt Debora allein im Wagen und flieht zu Fuß",
+        "Er benutzt einen falschen Polizeiausweis zur Weiterfahrt"
+      ],
+      "feedback": [
+        "Baby entscheidet sich gegen eine weitere gefährliche Flucht.",
+        "Er durchbricht die Sperre nicht gewaltsam.",
+        "Er flieht nicht allein und lässt Debora zurück.",
+        "Er setzt an der Sperre keinen falschen Polizeiausweis ein."
+      ],
+      "short": "Baby ergibt sich an der Sperre.",
+      "context": "Nach der letzten Konfrontation fahren Baby und Debora (Lily James) zunächst gemeinsam fort. Die Polizeisperre beendet die Vorstellung einer unmittelbaren Flucht vor allen Folgen. Babys Entscheidung führt zum Prozess; Aussagen der von ihm geschützten Menschen spielen anschließend bei der Beurteilung seiner Taten eine Rolle.",
+      "anchor": "An der Sperre übernimmt Baby die Folgen, statt Debora weiter in Gefahr zu bringen.",
+      "interest": "Die Entscheidung unterscheidet den Schluss von einer folgenlosen romantischen Flucht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2017",
+        "2003",
+        "2010",
+        "2014"
+      ],
+      "feedback": [
+        "Diese Filmfassung wurde 2017 erstmals veröffentlicht.",
+        "2003 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2017.",
+        "2010 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2017.",
+        "2014 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2017."
+      ],
+      "short": "Das erste Veröffentlichungsjahr ist 2017.",
+      "context": "Baby Driver wurde 2017 erstmals vorgeführt. Edgar Wright erprobte eine verwandte Idee bereits 2003 im Musikvideo Blue Song von Mint Royale, also vierzehn Jahre vorher. Der wartende Fahrer und die musikalische Struktur wurden damit lange vor dem späteren Spielfilm als kurzer visueller Entwurf ausprobiert.",
+      "anchor": "Vom Blue-Song-Video 2003 bis Baby Driver 2017 vergingen vierzehn Jahre.",
+      "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Edgar Wright",
+        "Nicolas Winding Refn",
+        "Guy Ritchie",
+        "Matthew Vaughn"
+      ],
+      "feedback": [
+        "Edgar Wright verantwortet die hier gefragte Regie.",
+        "Nicolas Winding Refn führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Guy Ritchie führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Matthew Vaughn führte bei dieser Filmfassung nicht die gefragte Regie."
+      ],
+      "short": "Die gesuchte Regie stammt von Edgar Wright.",
+      "context": "Edgar Wright schrieb und inszenierte Baby Driver. Die Musik gehört zum Verhalten der Hauptfigur und strukturiert zugleich Montage und Bewegungen. Der Film verbindet das persönliche Verhältnis von Baby zu seinem Soundtrack mit der äußeren Präzision der Fluchtfahrten.",
+      "anchor": "Edgar Wright inszenierte diese Filmfassung.",
+      "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

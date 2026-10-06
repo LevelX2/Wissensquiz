@@ -1,0 +1,217 @@
+{
+  "rank": 209,
+  "directors": [
+    "Alan J. Pakula"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein bekannter Journalismusklassiker über Watergate, mit Redford und Hoffman.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1976; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/All_the_President's_Men_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/All_the_President's_Men_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Für welche Zeitung recherchieren Woodward (Robert Redford) und Bernstein (Dustin Hoffman) in @?",
+      "answers": [
+        "The Washington Post",
+        "The New York Times",
+        "Los Angeles Times",
+        "Chicago Tribune"
+      ],
+      "feedback": [
+        "Beide arbeiten für die Washington Post.",
+        "Die New York Times ist nicht ihr Arbeitgeber.",
+        "Sie arbeiten nicht bei der Los Angeles Times.",
+        "Die Chicago Tribune ist nicht ihre Redaktion."
+      ],
+      "short": "Beide arbeiten für die Washington Post.",
+      "context": "Beide arbeiten für die Washington Post. Die Redaktion hält ihre Arbeit zunächst für eine kleine Lokalgeschichte; die wachsende Verknüpfung der Quellen macht daraus eine Recherche mit nationalen politischen Folgen.",
+      "anchor": "Die Lokalgeschichte wächst innerhalb der Washington Post.",
+      "interest": "Die Lokalgeschichte wächst innerhalb der Washington Post.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Ereignis bildet den Ausgangspunkt der Untersuchung in @?",
+      "answers": [
+        "Ein Einbruch im Watergate-Komplex",
+        "Eine geheime Geldübergabe im Weißen Haus",
+        "Ein Brand im Wahlkampfbüro",
+        "Ein gefälschter Brief an den Kongress"
+      ],
+      "feedback": [
+        "Ein Einbruch in die Parteibüros im Watergate-Komplex eröffnet die Recherche.",
+        "Der Einbruch im Watergate-Komplex eröffnet den Fall.",
+        "Ein Brand ist nicht der Ausgangspunkt.",
+        "Die Reporter beginnen mit dem Einbruch."
+      ],
+      "short": "Ein Einbruch in die Parteibüros im Watergate-Komplex eröffnet die Recherche.",
+      "context": "Ein Einbruch in die Parteibüros im Watergate-Komplex eröffnet die Recherche. Die zunächst kleinen Auffälligkeiten bei Tätern und Rechtsvertretung führen Woodward (Robert Redford) und Bernstein (Dustin Hoffman) über den einzelnen Tatort hinaus.",
+      "anchor": "Der Einbruch öffnet die Verbindung zu größerer politischer Macht.",
+      "interest": "Der Einbruch öffnet die Verbindung zu größerer politischer Macht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie begegnet Woodward (Robert Redford) seinem vertraulichen Hinweisgeber in @?",
+      "answers": [
+        "Nachts in einer Tiefgarage",
+        "Tagsüber auf einer Pressekonferenz",
+        "Im geöffneten Fernsehstudio",
+        "Während einer öffentlichen Gerichtsverhandlung"
+      ],
+      "feedback": [
+        "Woodward trifft Deep Throat (Hal Holbrook) nachts in einer Tiefgarage.",
+        "Die Quelle tritt nicht auf einer Pressekonferenz auf.",
+        "Ein Fernsehstudio wäre öffentlich.",
+        "Die Hinweise werden nicht im Gericht vorgetragen."
+      ],
+      "short": "Woodward trifft Deep Throat (Hal Holbrook) nachts in einer Tiefgarage.",
+      "context": "Woodward trifft Deep Throat (Hal Holbrook) nachts in einer Tiefgarage. Die heimliche Form schützt die Quelle; ihre Andeutungen ersetzen jedoch nicht die zusätzlichen Belege, die die Redaktion für eine Veröffentlichung verlangt.",
+      "anchor": "Die vertrauliche Quelle weist den Weg, ersetzt aber keine Bestätigung.",
+      "interest": "Die vertrauliche Quelle weist den Weg, ersetzt aber keine Bestätigung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was fordert Chefredakteur Bradlee (Jason Robards) in @ vor weitreichenden Behauptungen?",
+      "answers": [
+        "Weitere unabhängige Quellenbestätigung",
+        "Ein öffentliches Schuldeingeständnis jedes Gesprächspartners",
+        "Nur eine einzelne hochrangige Quelle",
+        "Die Zustimmung der betroffenen Wahlkampforganisation"
+      ],
+      "feedback": [
+        "Bradlee verlangt belastbare Bestätigung.",
+        "Bradlee verlangt unabhängige Bestätigung, keine unrealistische Selbstbezichtigung.",
+        "Eine einzelne Aussage reicht gerade nicht.",
+        "Die Redaktion braucht verifizierte Belege statt gegnerischer Erlaubnis."
+      ],
+      "short": "Bradlee verlangt belastbare Bestätigung.",
+      "context": "Bradlee verlangt belastbare Bestätigung. Die Recherche darf nicht allein von einer geheimen Quelle abhängen; die mühsame Suche nach zusätzlichen Aussagen macht journalistische Sorgfalt zu einem wesentlichen Konflikt des Films.",
+      "anchor": "Die große Behauptung braucht mehr als den einzelnen vertraulichen Hinweis.",
+      "interest": "Die große Behauptung braucht mehr als den einzelnen vertraulichen Hinweis.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Spur weitet die Ermittlung in @ vom Einbruch zur Wahlkampforganisation aus?",
+      "answers": [
+        "Geldflüsse über Wahlkampfmittel",
+        "Eine gemeinsame Hotelbuchung der Reporter",
+        "Eine Liste identischer Reiseziele",
+        "Ein abgefangener offizieller Ernennungsbrief"
+      ],
+      "feedback": [
+        "Woodward (Robert Redford) und Bernstein (Dustin Hoffman) verfolgen Geldflüsse zu Wahlkampfmitteln.",
+        "Wahlkampfgelder verbinden Täter und Organisation.",
+        "Die entscheidende Spur sind Geldflüsse.",
+        "Ein Ernennungsbrief ist nicht die Finanzspur."
+      ],
+      "short": "Woodward (Robert Redford) und Bernstein (Dustin Hoffman) verfolgen Geldflüsse zu Wahlkampfmitteln.",
+      "context": "Woodward (Robert Redford) und Bernstein (Dustin Hoffman) verfolgen Geldflüsse zu Wahlkampfmitteln. Die Zahlungen verbinden scheinbar getrennte Täter und Einrichtungen; finanzielle Dokumente machen die organisatorische Struktur hinter einzelnen Aussagen überprüfbar.",
+      "anchor": "Die Geldspur verbindet Tat und Wahlkampfapparat.",
+      "interest": "Die Geldspur verbindet Tat und Wahlkampfapparat.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie setzt @ am Schluss die Arbeit der Reporter zu Nixons Amtseinführung in Beziehung?",
+      "answers": [
+        "Sie schreiben weiter, während im Hintergrund die Amtseinführung läuft.",
+        "Sie stellen ihre Recherche während der Feier ein.",
+        "Sie nehmen selbst an der Feier teil.",
+        "Sie veröffentlichen in derselben Szene Nixons Rücktritt."
+      ],
+      "feedback": [
+        "Die Reporter arbeiten weiter, während Nixons zweite Amtseinführung im Fernsehen läuft.",
+        "Die Reporter schreiben trotz der sichtbaren Amtseinführung weiter.",
+        "Sie arbeiten in der Redaktion.",
+        "Der Rücktritt liegt später; die Szene zeigt die weitere Arbeit bei der Amtseinführung."
+      ],
+      "short": "Die Reporter arbeiten weiter, während Nixons zweite Amtseinführung im Fernsehen läuft.",
+      "context": "Die Reporter arbeiten weiter, während Nixons zweite Amtseinführung im Fernsehen läuft. Spätere Fernschreiber-Schlagzeilen führen bis zum Rücktritt; der Film trennt den langen Rechercheprozess von einem einzelnen triumphalen Konfrontationsmoment.",
+      "anchor": "Die laufende Recherche steht neben dem sichtbaren politischen Erfolg.",
+      "interest": "Die laufende Recherche steht neben dem sichtbaren politischen Erfolg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Robert Redford und Dustin Hoffman erstmals veröffentlicht?",
+      "answers": [
+        "1976",
+        "1973",
+        "1969",
+        "1978"
+      ],
+      "feedback": [
+        "1976 erschien die Verfilmung.",
+        "1973 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1976 wird im zeitlichen Hintergrund erklärt.",
+        "1969 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1976 wird im zeitlichen Hintergrund erklärt.",
+        "1978 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1976 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1976 erschien die Verfilmung.",
+      "context": "1976 erschien die Verfilmung. Woodward und Bernsteins Buch war 1974 veröffentlicht worden, im Jahr von Nixons Rücktritt. Zwei Jahre trennen Bericht und Film; der auslösende Einbruch liegt bereits 1972 und gehört zur recherchierten Vergangenheit.",
+      "anchor": "Einbruch 1972, Buch und Nixons Rücktritt 1974, Film 1976: Zwei Zweijahresschritte ordnen Recherche und Rückblick.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Robert Redford und Dustin Hoffman Regie?",
+      "answers": [
+        "Alan J. Pakula",
+        "Roman Polanski",
+        "David Cronenberg",
+        "David Fincher"
+      ],
+      "feedback": [
+        "Alan J.",
+        "Roman Polanski wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alan J. Pakula.",
+        "David Cronenberg wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alan J. Pakula.",
+        "David Fincher wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Alan J. Pakula."
+      ],
+      "short": "Alan J.",
+      "context": "Alan J. Pakula inszenierte William Goldmans Drehbuch. Robert Redford spielt Bob Woodward, Dustin Hoffman Carl Bernstein. Die Regie macht Telefonate, Akten und Quellenbestätigung zur dramatischen Handlung, statt die Aufklärung allein durch einen spektakulären persönlichen Zugriff zu erzählen.",
+      "anchor": "Alan J.",
+      "interest": "Alan J.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

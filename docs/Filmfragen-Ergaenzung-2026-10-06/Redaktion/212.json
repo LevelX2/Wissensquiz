@@ -1,0 +1,217 @@
+{
+  "rank": 212,
+  "directors": [
+    "Lawrence Kasdan"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekannter Neo-Noir mit Kathleen Turners Durchbruch und klassischer Verführungskonstellation.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1981; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Body_Heat",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Body_Heat",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf hat Ned Racine in @?",
+      "answers": [
+        "Anwalt",
+        "Versicherungsdetektiv",
+        "Immobilienmakler",
+        "Staatsanwalt"
+      ],
+      "feedback": [
+        "Ned Racine (William Hurt) ist ein wenig erfolgreicher Anwalt.",
+        "Er arbeitet nicht als Versicherungsdetektiv.",
+        "Ein Hauskauf dient nur als Vorwand.",
+        "Staatsanwalt ist sein Bekannter Lowenstein."
+      ],
+      "short": "Ned Racine (William Hurt) ist ein wenig erfolgreicher Anwalt.",
+      "context": "Ned Racine (William Hurt) ist ein wenig erfolgreicher Anwalt. Seine juristischen Kenntnisse bieten Matty Walker (Kathleen Turner) einen Ansatzpunkt für einen Mordplan mit erbrechtlichen Folgen.",
+      "anchor": "Neds juristische Rolle wird Teil des Verbrechens.",
+      "interest": "Neds juristische Rolle wird Teil des Verbrechens.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was hält Matty in @ nach eigener Darstellung von einer Scheidung ab?",
+      "answers": [
+        "Ein Ehevertrag beschränkt ihren Vermögensanspruch",
+        "Ihr Mann hält ihren Pass versteckt",
+        "Sie verliert dadurch das Sorgerecht",
+        "Eine Scheidung ist rechtlich ausgeschlossen"
+      ],
+      "feedback": [
+        "Matty Walker (Kathleen Turner) behauptet, der Ehevertrag würde ihr bei einer Scheidung Edmunds Vermögen vorenthalten.",
+        "Ein versteckter Pass ist nicht ihr Argument.",
+        "Ein Sorgerechtsstreit steht nicht im Zentrum.",
+        "Eine Scheidung wäre möglich, finanziell aber ungünstig."
+      ],
+      "short": "Matty Walker (Kathleen Turner) behauptet, der Ehevertrag würde ihr bei einer Scheidung Edmunds Vermögen vorenthalten.",
+      "context": "Matty Walker (Kathleen Turner) behauptet, der Ehevertrag würde ihr bei einer Scheidung Edmunds Vermögen vorenthalten. Das verschiebt ihre Gespräche mit Ned (William Hurt) in Richtung Mord.",
+      "anchor": "Der Ehevertrag macht das Erbe zum Motiv.",
+      "interest": "Der Ehevertrag macht das Erbe zum Motiv.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum fährt Ned in @ vor dem Mord nach Miami?",
+      "answers": [
+        "Er will mit einer Hotelbuchung ein Alibi schaffen",
+        "Er will die Tatwaffe dort entsorgen",
+        "Er will Mattys Familie informieren",
+        "Er will Edmund zu einer Reise überreden"
+      ],
+      "feedback": [
+        "Ned Racine (William Hurt) checkt in Miami in ein Hotel ein und fährt nachts zurück.",
+        "Die Reise dient nicht dem Entsorgen einer Waffe.",
+        "Er informiert keine Familie.",
+        "Er plant keinen gemeinsamen Ausflug mit Edmund."
+      ],
+      "short": "Ned Racine (William Hurt) checkt in Miami in ein Hotel ein und fährt nachts zurück.",
+      "context": "Ned Racine (William Hurt) checkt in Miami in ein Hotel ein und fährt nachts zurück. Die scheinbare Entfernung vom Tatort soll ihn schützen, doch sein Alibi hält der Untersuchung nicht stand.",
+      "anchor": "Das Hotelalibi beruht auf einer heimlichen Rückfahrt.",
+      "interest": "Das Hotelalibi beruht auf einer heimlichen Rückfahrt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welcher Gegenstand lässt die Polizei in @ am angeblichen Brandtatort zweifeln?",
+      "answers": [
+        "Edmunds fehlende Brille",
+        "Eine unversehrte Armbanduhr",
+        "Mattys zurückgelassener Schlüssel",
+        "Ein nasser Mantel"
+      ],
+      "feedback": [
+        "Edmund Walkers (Richard Crenna) Brille fehlt am Brandort.",
+        "Die Uhr ist nicht die ausschlaggebende Spur.",
+        "Mattys Schlüssel begründet diesen Schluss nicht.",
+        "Ein Mantel spielt dabei keine Rolle."
+      ],
+      "short": "Edmund Walkers (Richard Crenna) Brille fehlt am Brandort.",
+      "context": "Edmund Walkers (Richard Crenna) Brille fehlt am Brandort. Die Polizei folgert daraus, dass der Mord anderswo geschah und der Brand den wirklichen Ablauf verschleiern soll.",
+      "anchor": "Die fehlende Brille trennt Mordort und Brandort.",
+      "interest": "Die fehlende Brille trennt Mordort und Brandort.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum nützt das fehlerhafte Testament Matty in @?",
+      "answers": [
+        "Seine Aufhebung lässt sie allein erben",
+        "Es gibt ihr einen größeren Anteil, lässt der Nichte aber den Rest.",
+        "Es setzt einen vorgeschobenen Vermögensverwalter ein.",
+        "Es zwingt Ned, auf das gemeinsame Vermögen zu verzichten."
+      ],
+      "feedback": [
+        "Das bewusst fehlerhafte Testament wird aufgehoben und Edmunds Nichte damit vom Erbe ausgeschlossen.",
+        "Die Aufhebung schließt die Nichte vollständig vom Erbe aus.",
+        "Der Nutzen ist Mattys Alleinerbschaft nach der Aufhebung.",
+        "Neds Ruf macht den Fehler glaubwürdig; seine eigene Erbberechtigung ist nicht der Kern."
+      ],
+      "short": "Das bewusst fehlerhafte Testament wird aufgehoben und Edmunds Nichte damit vom Erbe ausgeschlossen.",
+      "context": "Das bewusst fehlerhafte Testament wird aufgehoben und Edmunds Nichte damit vom Erbe ausgeschlossen. Matty Walker (Kathleen Turner) nutzt Neds Ruf als schlechter Anwalt, damit der Fehler glaubwürdig erscheint.",
+      "anchor": "Ein scheinbarer Rechtsfehler ist Mattys berechneter Vorteil.",
+      "interest": "Ein scheinbarer Rechtsfehler ist Mattys berechneter Vorteil.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was bestätigt Ned im Gefängnis in @ seinen Verdacht eines Identitätstauschs?",
+      "answers": [
+        "Ein altes Schuljahrbuch",
+        "Eine neue Geburtsurkunde",
+        "Ein anonymes Tonband",
+        "Eine Liste von Hotelgästen"
+      ],
+      "feedback": [
+        "Ein Schuljahrbuch zeigt Ned (William Hurt), dass die Frau, die er als Matty kennt, Mary Ann Simpson ist.",
+        "Eine neue Urkunde ist nicht seine Entdeckung.",
+        "Ein Tonband liefert diesen Beleg nicht.",
+        "Hotelgäste bestätigen den früheren Namen nicht."
+      ],
+      "short": "Ein Schuljahrbuch zeigt Ned (William Hurt), dass die Frau, die er als Matty kennt, Mary Ann Simpson ist.",
+      "context": "Ein Schuljahrbuch zeigt Ned (William Hurt), dass die Frau, die er als Matty kennt, Mary Ann Simpson ist. Die fremde Identität hat den Plan erleichtert, am Ende reich zu entkommen.",
+      "anchor": "Das Jahrbuch entlarvt die gestohlene Identität.",
+      "interest": "Das Jahrbuch entlarvt die gestohlene Identität.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1981",
+        "1978",
+        "1974",
+        "1983"
+      ],
+      "feedback": [
+        "1981 erschien der Film.",
+        "1978 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1981 wird im zeitlichen Hintergrund erklärt.",
+        "1974 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1981 wird im zeitlichen Hintergrund erklärt.",
+        "1983 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1981 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1981 erschien der Film.",
+      "context": "1981 erschien der Film. Im selben Jahr kam Jäger des verlorenen Schatzes heraus, dessen Drehbuch ebenfalls Lawrence Kasdan verfasste: Abenteuerfilm und Regiedebüt lagen zeitlich nebeneinander.",
+      "anchor": "1981: Kasdans Abenteuerdrehbuch Jäger des verlorenen Schatzes und sein Neo-Noir-Regiedebüt erscheinen im selben Jahr.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Lawrence Kasdan",
+        "John Schlesinger",
+        "Roman Polanski",
+        "David Cronenberg"
+      ],
+      "feedback": [
+        "Lawrence Kasdan schrieb und inszenierte den Film als sein Regiedebüt.",
+        "John Schlesinger wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Lawrence Kasdan.",
+        "Roman Polanski wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Lawrence Kasdan.",
+        "David Cronenberg wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Lawrence Kasdan."
+      ],
+      "short": "Lawrence Kasdan schrieb und inszenierte den Film als sein Regiedebüt.",
+      "context": "Lawrence Kasdan schrieb und inszenierte den Film als sein Regiedebüt. Die schwüle Umgebung Floridas verbindet körperliche Anziehung mit der moralischen Orientierungslosigkeit des Anwalts.",
+      "anchor": "Lawrence Kasdan schrieb und inszenierte den Film als sein Regiedebüt.",
+      "interest": "Lawrence Kasdan schrieb und inszenierte den Film als sein Regiedebüt.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

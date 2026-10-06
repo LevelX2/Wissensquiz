@@ -1,0 +1,220 @@
+{
+  "rank": 37,
+  "directors": [
+    "John Frankenheimer",
+    "Bernard Farrel"
+  ],
+  "production_countries": [
+    "USA",
+    "Frankreich",
+    "Italien"
+  ],
+  "familiarity_reason": "Burt-Lancaster-Kriegsfilmklassiker über Kunstraub und Widerstand, für jüngeres breites Publikum eher Entdeckung.",
+  "release_note": "Französische Erstveröffentlichung 1964, danach britischer Start; AFI nennt für den späteren US-Start 17. März 1965.",
+  "director_note": "John Frankenheimer ist der führende Regisseur. Bernard Farrel besitzt laut AFI einen Co-Regiecredit auf französischsprachigen Kopien aufgrund französischer Fördervorgaben; sein Regieanteil war strittig. Arthur Penn begann die Produktion, wurde jedoch ersetzt und ist kein übernommener offizieller Filmcredit.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Train_(1964_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "katalog": {
+      "url": "https://catalog.afi.com/Film/22310-THE-TRAIN",
+      "supports": "Erstveröffentlichung Frankreich 1964 versus USA 1965; Buch 1961; Regiewechsel, französischer Farrel-Co-Credit; Länder Frankreich, Italien, USA."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Ladung will von Waldheim in @ nach Deutschland bringen?",
+      "answers": [
+        "Geraubte französische Kunstwerke",
+        "Die Goldreserven der französischen Zentralbank",
+        "Beschlagnahmte Forschungsunterlagen",
+        "Die Archive des französischen Widerstands"
+      ],
+      "feedback": [
+        "Von Waldheim (Paul Scofield) lässt Gemälde aus Paris verladen.",
+        "Goldreserven sind nicht der Inhalt der Kisten.",
+        "Forschungsakten bilden nicht den Kunsttransport.",
+        "Widerstandsarchive gehören nicht zu dieser Ladung."
+      ],
+      "short": "Von Waldheim (Paul Scofield) lässt Gemälde aus Paris verladen.",
+      "context": "Von Waldheim (Paul Scofield) lässt Gemälde aus Paris verladen. Labiche (Burt Lancaster) und die Eisenbahner sollen den Abtransport verhindern; der Wert der Kunst steht dabei gegen das Risiko für Menschenleben.",
+      "anchor": "Der Kunstraub macht die Eisenbahn zum Schauplatz eines Wertkonflikts.",
+      "interest": "Der Kunstraub macht die Eisenbahn zum Schauplatz eines Wertkonflikts.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum lehnt Labiche in @ die erste Bitte um Rettung der Gemälde ab?",
+      "answers": [
+        "Er will keine Menschen für Bilder opfern.",
+        "Er hält die Bilder für geschickte Fälschungen.",
+        "Er hat von Waldheim freies Geleit für sich zugesagt bekommen.",
+        "Er hält die Befreiung von Paris für ausgeschlossen."
+      ],
+      "feedback": [
+        "Labiche (Burt Lancaster) weigert sich zunächst, Leben für Gemälde einzusetzen.",
+        "Eine Fälschungserkenntnis begründet seine Weigerung nicht.",
+        "Ein persönlicher Geleitvertrag ist nicht sein Motiv.",
+        "Die nahe Befreiung bildet gerade den zeitlichen Hintergrund."
+      ],
+      "short": "Labiche (Burt Lancaster) weigert sich zunächst, Leben für Gemälde einzusetzen.",
+      "context": "Labiche (Burt Lancaster) weigert sich zunächst, Leben für Gemälde einzusetzen. Villard (Suzanne Flon) bewertet die Werke als nationales Kulturgut; der Widerstand muss damit nicht nur Technik, sondern unterschiedliche Schutzgüter gegeneinander abwägen.",
+      "anchor": "Labiche stellt Menschenleben vor den Besitz der Kunstwerke.",
+      "interest": "Labiche stellt Menschenleben vor den Besitz der Kunstwerke.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie lassen die Eisenbahner in @ den Kunstzug scheinbar nach Deutschland fahren?",
+      "answers": [
+        "Sie verändern Stationsschilder und führen ihn tatsächlich im Kreis.",
+        "Sie lassen ihn in einen unterirdischen Pariser Bahnhof fahren.",
+        "Sie kuppeln alle Kunstwagen heimlich ab.",
+        "Sie tauschen sämtliche deutschen Begleiter gegen französische Helfer aus."
+      ],
+      "feedback": [
+        "Labiche (Burt Lancaster) und seine Helfer organisieren falsche Stationsbezeichnungen.",
+        "Der Trick beruht auf einer vorgetäuschten Strecke, nicht einem unterirdischen Endpunkt.",
+        "Die Ladung bleibt am Zug.",
+        "Die deutschen Begleiter werden durch falsche Ortsangaben getäuscht statt vollständig ersetzt."
+      ],
+      "short": "Labiche (Burt Lancaster) und seine Helfer organisieren falsche Stationsbezeichnungen.",
+      "context": "Labiche (Burt Lancaster) und seine Helfer organisieren falsche Stationsbezeichnungen. Der deutsche Begleitschutz erkennt den Rundkurs zunächst nicht; die Täuschung gewinnt Zeit, ohne die Gemälde bei einem offenen Angriff zu zerstören.",
+      "anchor": "Veränderte Ortsnamen machen einen Rundkurs zur scheinbaren Ausreise.",
+      "interest": "Veränderte Ortsnamen machen einen Rundkurs zur scheinbaren Ausreise.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum streichen die Helfer in @ mehrere Wagendächer weiß?",
+      "answers": [
+        "Alliierte Flugzeuge sollen den Kunstzug erkennen und verschonen.",
+        "Der Anstrich soll die Hitze von den Gemälden fernhalten.",
+        "Die weißen Dächer sollen die deutschen Begleiter bei Nacht blenden.",
+        "Die Farbe soll die Zugnummer vor Luftaufnahmen verbergen."
+      ],
+      "feedback": [
+        "Didont (Albert Rémy) und Robert (Christian Fuin) helfen, die Dächer zu markieren.",
+        "Die Aktion dient der Luftangriffsabwehr, nicht bloß der Temperatur.",
+        "Die Farbe ist ein Signal an Flugzeuge, kein Blendmittel.",
+        "Die Wagen sollen erkennbar statt unkenntlich werden."
+      ],
+      "short": "Didont (Albert Rémy) und Robert (Christian Fuin) helfen, die Dächer zu markieren.",
+      "context": "Didont (Albert Rémy) und Robert (Christian Fuin) helfen, die Dächer zu markieren. Die Sicherung gegen deutsche Abfahrt genügt nicht: Auch ein alliierter Angriff könnte die zu rettende Ladung vernichten.",
+      "anchor": "Der Widerstand muss die Kunst zugleich vor Abtransport und eigener Seite schützen.",
+      "interest": "Der Widerstand muss die Kunst zugleich vor Abtransport und eigener Seite schützen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum sprengt Labiche in @ die Gleise vorzeitig statt die ankommende Lokomotive?",
+      "answers": [
+        "Er entdeckt französische Geiseln auf dem Zug.",
+        "Er erkennt, dass die Gemälde bereits abgeladen wurden.",
+        "Er will das Zugpersonal mit einem bloßen Warnsignal verschonen.",
+        "Er sieht einen zweiten alliierten Zug hinter der Lokomotive."
+      ],
+      "feedback": [
+        "Labiche (Burt Lancaster) erkennt die von den Deutschen mitgeführten Geiseln.",
+        "Die Kunstwerke sind noch Teil des Transports.",
+        "Die konkrete Änderung entsteht aus dem Blick auf Geiseln.",
+        "Ein alliierter Folgezug ist nicht die Ursache."
+      ],
+      "short": "Labiche (Burt Lancaster) erkennt die von den Deutschen mitgeführten Geiseln.",
+      "context": "Labiche (Burt Lancaster) erkennt die von den Deutschen mitgeführten Geiseln. Er verlegt die Wirkung auf die Strecke; der Schutz von Menschen zwingt ihn erneut, eine wirksame Sabotageform zu begrenzen.",
+      "anchor": "Die Geiseln verändern den Angriff vom Zug auf die vorausliegenden Gleise.",
+      "interest": "Die Geiseln verändern den Angriff vom Zug auf die vorausliegenden Gleise.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Worauf blickt Labiche in @ unmittelbar vor seinem tödlichen Angriff auf von Waldheim?",
+      "answers": [
+        "Auf die ermordeten französischen Geiseln",
+        "Auf ein von ihm geliebtes zerstörtes Gemälde",
+        "Auf Christines brennendes Hotel",
+        "Auf den Schriftzug seines eigenen Bahnhofs"
+      ],
+      "feedback": [
+        "Von Waldheim (Paul Scofield) fordert eine Erklärung für Labiches (Burt Lancaster) Kunstrettung.",
+        "Der Film bindet seine Reaktion an die menschlichen Opfer.",
+        "Das Hotel ist nicht der entscheidende Blickpunkt.",
+        "Ein Stationsname löst die letzte Tat nicht aus."
+      ],
+      "short": "Von Waldheim (Paul Scofield) fordert eine Erklärung für Labiches (Burt Lancaster) Kunstrettung.",
+      "context": "Von Waldheim (Paul Scofield) fordert eine Erklärung für Labiches (Burt Lancaster) Kunstrettung. Labiche blickt auf die getöteten Geiseln und erschießt ihn; die wortlose Antwort führt zum ursprünglichen Konflikt um den Wert von Leben zurück.",
+      "anchor": "Der letzte Blick gilt den Menschen statt den geretteten Bildern.",
+      "interest": "Der letzte Blick gilt den Menschen statt den geretteten Bildern.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1964",
+        "1962",
+        "1959",
+        "1965"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 1964.",
+        "1962 liegt zwei Jahre vor der ersten Veröffentlichung.",
+        "1959 liegt fünf Jahre vor der Erstveröffentlichung.",
+        "1965 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1964 erstmals veröffentlicht.",
+      "context": "1964 erschien die Bearbeitung von Rose Vallands Sachbuch Le front de l’art aus dem Jahr 1961, drei Jahre nach dem Buch. Vallands Dokumentation des NS-Kunstraubs wurde zu einer Handlung über den Preis der Rettung von Gemälden verdichtet.",
+      "anchor": "Vallands Dokumentation von 1961 wurde drei Jahre später, 1964, zum Widerstandsthriller.",
+      "interest": "Vallands Dokumentation von 1961 wurde drei Jahre später, 1964, zum Widerstandsthriller.",
+      "sources": [
+        "katalog",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Welche beiden Namen tragen bei @ Regiecredits, wenn die französischsprachigen Kopien einbezogen werden?",
+      "answers": [
+        "John Frankenheimer und Bernard Farrel",
+        "Sidney Lumet und Richard Fleischer",
+        "William Wyler und Stanley Kramer",
+        "John Sturges und Don Siegel"
+      ],
+      "feedback": [
+        "John Frankenheimer und Bernard Farrel führten Regie.",
+        "Sidney Lumet und Richard Fleischer bilden hier nicht das Regieteam.",
+        "William Wyler und Stanley Kramer bilden hier nicht das Regieteam.",
+        "John Sturges und Don Siegel bilden hier nicht das Regieteam."
+      ],
+      "short": "Regie: John Frankenheimer und Bernard Farrel.",
+      "context": "Frankenheimer ersetzte Arthur Penn während der Produktion. Bernard Farrel erhielt in französischsprachigen Kopien einen Co-Regiecredit aufgrund der Förderbestimmungen; Frankenheimer bestritt dessen eigenständigen Regieanteil. Der Credit und die tatsächliche Produktionsrolle sind deshalb ausdrücklich zu unterscheiden.",
+      "anchor": "Frankenheimer übernahm die Produktion; Farrels zusätzlicher französischer Credit folgte Fördervorgaben.",
+      "interest": "Frankenheimer übernahm die Produktion; Farrels zusätzlicher französischer Credit folgte Fördervorgaben.",
+      "sources": [
+        "katalog"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

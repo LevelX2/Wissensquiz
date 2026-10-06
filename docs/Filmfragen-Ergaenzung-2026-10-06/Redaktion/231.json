@@ -1,0 +1,217 @@
+{
+  "rank": 231,
+  "directors": [
+    "Don Siegel"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "John Waynes bekannter letzter Kinofilm, dessen alternder Revolverheld eng mit seinem Starbild verbunden ist.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1976; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Shootist",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Shootist",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Diagnose erhält Books in @?",
+      "answers": [
+        "Unheilbaren Krebs",
+        "Eine heilbare Schussverletzung",
+        "Eine schwere Lungenentzündung",
+        "Eine beginnende Erblindung"
+      ],
+      "feedback": [
+        "J.",
+        "Die tödliche Gefahr ist nicht eine aktuelle Schusswunde.",
+        "Eine behandelbare Entzündung erklärt die Diagnose nicht.",
+        "Erblindung wird nicht festgestellt."
+      ],
+      "short": "J.",
+      "context": "J. B. Books (John Wayne) erfährt von Dr. Hostetler (James Stewart), dass sein Krebs unheilbar ist. Die geringe verbleibende Lebenszeit bestimmt seine Entscheidung über das Ende als Revolverheld.",
+      "anchor": "Der sterbende Schütze muss sein Ende wählen.",
+      "interest": "Der sterbende Schütze muss sein Ende wählen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wo wohnt Books in @ während seiner letzten Tage?",
+      "answers": [
+        "In der Pension einer Witwe",
+        "In einer Kavalleriekaserne",
+        "Im Büro des Marshals",
+        "In einem verlassenen Bergwerk"
+      ],
+      "feedback": [
+        "Books (John Wayne) wohnt in Bond Rogers’ (Lauren Bacall) Pension.",
+        "Eine Kaserne beherbergt ihn nicht.",
+        "Er wohnt nicht beim Marshal.",
+        "Ein Bergwerk ist nicht sein Rückzugsort."
+      ],
+      "short": "Books (John Wayne) wohnt in Bond Rogers’ (Lauren Bacall) Pension.",
+      "context": "Books (John Wayne) wohnt in Bond Rogers’ (Lauren Bacall) Pension. Ihr Sohn Gillom (Ron Howard) erkennt den berühmten Gast und entwickelt eine Bewunderung, die der Mutter Sorge bereitet.",
+      "anchor": "Die Pension bringt den sterbenden Helden in eine familiäre Umgebung.",
+      "interest": "Die Pension bringt den sterbenden Helden in eine familiäre Umgebung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum lehnt Books in @ das kostenlose Begräbnis des Bestatters ab?",
+      "answers": [
+        "Er vermutet, dass dieser Geld mit seiner Leiche verdienen will",
+        "Er hat schon ein Grab in Mexiko bezahlt",
+        "Er will auf seiner Ranch beerdigt werden",
+        "Er misstraut dem Arzt als Vertragspartner"
+      ],
+      "feedback": [
+        "Books (John Wayne) vermutet, der Bestatter werde Eintritt für den Anblick seiner Leiche nehmen.",
+        "Ein bezahltes Grab in Mexiko ist nicht der Anlass.",
+        "Eine Ranchbestattung nennt er nicht als Grund.",
+        "Der Arzt schließt keinen solchen Vertrag."
+      ],
+      "short": "Books (John Wayne) vermutet, der Bestatter werde Eintritt für den Anblick seiner Leiche nehmen.",
+      "context": "Books (John Wayne) vermutet, der Bestatter werde Eintritt für den Anblick seiner Leiche nehmen. Auch andere Besucher wollen seinen Ruhm vermarkten; selbst im Sterben soll er zur Ware werden.",
+      "anchor": "Der Ruhm droht den eigenen Tod zum Geschäft anderer zu machen.",
+      "interest": "Der Ruhm droht den eigenen Tod zum Geschäft anderer zu machen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum schickt Books in @ Gillom zu drei gefährlichen Männern?",
+      "answers": [
+        "Er bestellt sie zu einer gemeinsamen Begegnung im Saloon",
+        "Er will sie als Begleitschutz bezahlen",
+        "Er lässt sie seine Pferde verkaufen",
+        "Er fordert drei Zeugenaussagen für ein Gericht"
+      ],
+      "feedback": [
+        "Books (John Wayne) lässt Gillom (Ron Howard) drei Gegner für seinen Geburtstag in den Saloon bestellen.",
+        "Begleitschutz ist nicht sein Ziel.",
+        "Die Pferde werden nicht von ihnen verkauft.",
+        "Ein Gerichtsverfahren bereitet er nicht vor."
+      ],
+      "short": "Books (John Wayne) lässt Gillom (Ron Howard) drei Gegner für seinen Geburtstag in den Saloon bestellen.",
+      "context": "Books (John Wayne) lässt Gillom (Ron Howard) drei Gegner für seinen Geburtstag in den Saloon bestellen. Er bereitet damit eine Begegnung vor, bei der sein Leben durch Waffen statt durch den fortschreitenden Krebs enden kann.",
+      "anchor": "Die Einladungen organisieren ein selbst gewähltes gefährliches Ende.",
+      "interest": "Die Einladungen organisieren ein selbst gewähltes gefährliches Ende.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wer verletzt Books in @ nach dem Sieg über die drei Gegner tödlich?",
+      "answers": [
+        "Der Barkeeper schießt ihm in den Rücken",
+        "Gillom schießt ihm auf seinen Wunsch in die Brust",
+        "Der Marshal erschießt ihn am Eingang",
+        "Der Arzt verabreicht ihm eine tödliche Dosis"
+      ],
+      "feedback": [
+        "Der Barkeeper schießt Books (John Wayne) in den Rücken.",
+        "Gillom tötet Books in der Romanvorlage, nicht in dieser Filmfassung.",
+        "Der Marshal feuert nicht den letzten Schuss.",
+        "Der Arzt gibt ihm nicht die Todesdosis."
+      ],
+      "short": "Der Barkeeper schießt Books (John Wayne) in den Rücken.",
+      "context": "Der Barkeeper (Charles G. Martin) schießt Books (John Wayne) in den Rücken. Gillom (Ron Howard) tötet den Angreifer mit Books’ Waffe; der Sieg über die eingeladenen Gegner hat den alten Schützen nicht gerettet.",
+      "anchor": "Der Hinterhalt beendet das Leben nach dem offenen Kampf.",
+      "interest": "Der Hinterhalt beendet das Leben nach dem offenen Kampf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Handlung Gilloms billigt Books in der letzten Szene von @?",
+      "answers": [
+        "Er wirft die Waffe nach dem Schuss weg",
+        "Er übernimmt Books’ Revolvergurt",
+        "Er fordert den Marshal zum Duell",
+        "Er durchsucht den Barkeeper nach Geld"
+      ],
+      "feedback": [
+        "Gillom (Ron Howard) wirft die Waffe weg, nachdem er den Barkeeper getötet hat.",
+        "Ein Revolvergurt wird nicht als Vermächtnis angenommen.",
+        "Gillom fordert niemanden heraus.",
+        "Er sucht kein Geld."
+      ],
+      "short": "Gillom (Ron Howard) wirft die Waffe weg, nachdem er den Barkeeper getötet hat.",
+      "context": "Gillom (Ron Howard) wirft die Waffe weg, nachdem er den Barkeeper getötet hat. Books (John Wayne) lächelt zustimmend: Der Junge soll sein Leben nicht als Nachfolger des Schützen verbringen.",
+      "anchor": "Der weggeworfene Revolver beendet die mögliche Nachfolge.",
+      "interest": "Der weggeworfene Revolver beendet die mögliche Nachfolge.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1976",
+        "1973",
+        "1969",
+        "1978"
+      ],
+      "feedback": [
+        "1976 erschien John Waynes letzter Kinofilm.",
+        "1973 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1976 wird im zeitlichen Hintergrund erklärt.",
+        "1969 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1976 wird im zeitlichen Hintergrund erklärt.",
+        "1978 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1976 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1976 erschien John Waynes letzter Kinofilm.",
+      "context": "1976 erschien John Waynes letzter Kinofilm. Seine Filmkarriere begann 1926; fünfzig Jahre später zeigt dieser Abschluss einen Revolverhelden, der seine verbleibende Zeit selbst gestalten will.",
+      "anchor": "Karrierebeginn 1926, letzter Film 1976: Fünfzig Jahre münden in Waynes sterbenden Revolverhelden.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Don Siegel",
+        "Clint Eastwood",
+        "Robert Altman",
+        "John Hillcoat"
+      ],
+      "feedback": [
+        "Don Siegel führte Regie.",
+        "Clint Eastwood wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Don Siegel.",
+        "Robert Altman wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Don Siegel.",
+        "John Hillcoat wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Don Siegel."
+      ],
+      "short": "Don Siegel führte Regie.",
+      "context": "Don Siegel führte Regie. Wayne wirkte an Änderungen gegenüber dem Roman mit; insbesondere tötet Gillom im Film den Barkeeper und verwirft danach die Waffe, statt Books selbst zu töten.",
+      "anchor": "Don Siegel führte Regie.",
+      "interest": "Don Siegel führte Regie.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

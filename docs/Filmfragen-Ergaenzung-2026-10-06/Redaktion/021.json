@@ -1,0 +1,211 @@
+{
+  "rank": 21,
+  "directors": [
+    "George Miller"
+  ],
+  "production_countries": [
+    "Australien"
+  ],
+  "familiarity_reason": "Als prägender Teil der Mad-Max-Reihe vielen Actionfans vertraut, aber weniger allgemein präsent als neuere Fortsetzungen.",
+  "release_note": "Australischer Kinostart am 24. Dezember 1981; in den USA als The Road Warrior veröffentlicht.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Mad_Max_2",
+    "primaer": "https://www.festival-cannes.com/en/p/george-miller/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher knappe Rohstoff steht im Zentrum des Konflikts in @?",
+      "answers": [
+        "Benzin",
+        "Trinkwasser",
+        "Kupfererz",
+        "Medikamente"
+      ],
+      "feedback": [
+        "Treibstoff hält Fahrzeuge und damit Macht und Fluchtmöglichkeiten in Gang.",
+        "Wasser wird nicht als der umkämpfte Raffinerie-Rohstoff gesucht.",
+        "Es geht nicht um den Abbau von Kupfer.",
+        "Medikamente sind nicht der zentrale Gegenstand der Belagerung."
+      ],
+      "short": "Die Parteien kämpfen um Benzin.",
+      "context": "Max (Mel Gibson) bewegt sich durch eine zusammengebrochene Gesellschaft, in der Treibstoff über Mobilität entscheidet. Eine funktionierende Raffinerie wird deshalb zum Ziel bewaffneter Angreifer. Der Rohstoff verbindet die Suche des Einzelgängers mit der Notlage der Siedler.",
+      "anchor": "Benzin bedeutet Bewegung und Macht in der zerstörten Welt.",
+      "interest": "Der Rohstoff erklärt unmittelbar, warum die Raffinerie umkämpft ist.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Fluggerät benutzt der Gyro Captain (Bruce Spence) in @?",
+      "answers": [
+        "Einen Tragschrauber",
+        "Einen kleinen Hubschrauber",
+        "Ein Propellerflugzeug",
+        "Einen Heißluftballon"
+      ],
+      "feedback": [
+        "Sein offener Tragschrauber ist das markante Fluggerät.",
+        "Der Tragschrauber ist technisch kein gewöhnlicher Hubschrauber.",
+        "Er benutzt kein Flugzeug mit festen Tragflächen.",
+        "Ein Ballon ist nicht sein Fortbewegungsmittel."
+      ],
+      "short": "Er fliegt einen Tragschrauber.",
+      "context": "Der Gyro Captain kann das Gelände aus der Luft beobachten und weist Max (Mel Gibson) auf die Raffinerie hin. Sein improvisiert wirkendes Fluggerät erweitert die sonst von Autos und Motorrädern beherrschte Welt. Später ermöglicht es auch Max’ Rettung nach dem Unfall.",
+      "anchor": "Der Gyro Captain verschafft sich mit dem Tragschrauber Überblick.",
+      "interest": "Das Fahrzeug macht die Funktion eines wichtigen Verbündeten anschaulich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was bietet Max (Mel Gibson) den Siedlern in @ an, damit sie fliehen können?",
+      "answers": [
+        "Eine Zugmaschine für ihren Tankauflieger heranzuschaffen",
+        "Einen Tunnel unter der Raffinerie zu graben",
+        "Die Angreifer mit einem Friedensvertrag zum Abzug zu bewegen",
+        "Den Tragschrauber für alle Fliehenden umzubauen"
+      ],
+      "feedback": [
+        "Die Zugmaschine soll den Tankauflieger aus dem belagerten Gelände ziehen.",
+        "Der vereinbarte Plan ist kein Tunnelbau.",
+        "Max verspricht eine Transportlösung, keinen Friedensvertrag.",
+        "Die Gemeinschaft wird nicht geschlossen mit dem Tragschrauber evakuiert."
+      ],
+      "short": "Max besorgt eine Zugmaschine für den Tankauflieger.",
+      "context": "Max hat zuvor einen liegen gebliebenen Lastwagen entdeckt. Er bietet Pappagallo (Mike Preston) an, ihn zurückzuholen, verlangt dafür aber sein Auto und Treibstoff. Die Zusammenarbeit beginnt als Tauschgeschäft; erst nach dem Verlust seines eigenen Fahrzeugs übernimmt Max selbst die Fluchtfahrt.",
+      "anchor": "Max tauscht die benötigte Zugmaschine gegen Auto und Treibstoff.",
+      "interest": "Das Geschäft erklärt den Übergang vom Einzelgänger zum Helfer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was löst beim Versuch eines Angreifers, Benzin aus Max’ Wagen abzuzapfen, in @ die Explosion aus?",
+      "answers": [
+        "Eine Sprengfalle am Fahrzeug",
+        "Ein zufälliger Blitzeinschlag",
+        "Eine Granate des Gyro Captain",
+        "Ein Schuss aus Pappagallos Wagen"
+      ],
+      "feedback": [
+        "Der Wagen ist gegen das Abzapfen mit einer Sprengfalle gesichert.",
+        "Ein Blitz verursacht die Explosion nicht.",
+        "Der Gyro Captain rettet Max, wirft aber nicht die auslösende Granate.",
+        "Pappagallo verursacht die Explosion nicht mit einem Schuss."
+      ],
+      "short": "Der Benzindieb aktiviert die Sprengfalle.",
+      "context": "Nach Max’ Unfall wollen die Verfolger den Treibstoff seines zerstörten Autos nutzen. Der Zugriff aktiviert dessen Sicherung und vernichtet das Fahrzeug endgültig. Der Gyro Captain (Bruce Spence) bringt den verletzten Max (Mel Gibson) zurück, sodass eine unabhängige Flucht für ihn nun kaum möglich ist.",
+      "anchor": "Der Griff nach Max’ Benzin aktiviert die Sprengfalle.",
+      "interest": "Die Szene verändert Max’ Möglichkeiten und erklärt seine Rückkehr zur Gemeinschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was befindet sich am Ende von @ tatsächlich im von Max gefahrenen Tankauflieger?",
+      "answers": [
+        "Sand",
+        "Benzin",
+        "Wasser",
+        "Leere Fässer"
+      ],
+      "feedback": [
+        "Der Sand zeigt, dass der Tankzug nur als Ablenkung diente.",
+        "Das Benzin wurde in Fässern auf anderen Fahrzeugen fortgebracht.",
+        "Der Auflieger enthält Sand, kein Wasser.",
+        "Die Fässer mit Treibstoff fahren mit der übrigen Gemeinschaft."
+      ],
+      "short": "Der Tankauflieger ist mit Sand gefüllt.",
+      "context": "Die Angreifer konzentrieren sich auf den vermeintlichen Treibstofftransport. Während sie Max (Mel Gibson) verfolgen, entkommen die übrigen Siedler mit dem Benzin in ihren Fahrzeugen. Erst am umgestürzten Tankzug erkennt Max an der herausrieselnden Ladung, dass auch er über die Täuschung nicht informiert war.",
+      "anchor": "Sand im Tankzug verdeckt die wirkliche Flucht mit dem Benzin.",
+      "interest": "Die Enthüllung verändert rückwirkend den Sinn der langen Verfolgung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wer erzählt in der Rahmenhandlung von @ als erwachsener Mann von Max?",
+      "answers": [
+        "Der einstige wilde Junge aus der Raffinerie",
+        "Der Gyro Captain",
+        "Pappagallo",
+        "Wez"
+      ],
+      "feedback": [
+        "Der erwachsene Junge erinnert sich an den Road Warrior.",
+        "Der Gyro Captain führt die Siedler, ist aber nicht der erwachsene Erzähler.",
+        "Pappagallo überlebt die Flucht nicht.",
+        "Wez gehört zu den Angreifern und ist nicht der spätere Erzähler."
+      ],
+      "short": "Der erwachsene Feral Kid erzählt die Geschichte.",
+      "context": "Der Junge (Emil Minty) begleitet Max bei der Fahrt und überlebt den Unfall. Die spätere Erzählerstimme macht aus der Begegnung eine Erinnerung der neuen Gemeinschaft. Max bleibt für sie eine legendäre Gestalt, obwohl der Erzähler ausdrücklich sagt, ihn danach nie wieder gesehen zu haben.",
+      "anchor": "Aus dem wilden Jungen wird der Erzähler der Road-Warrior-Legende.",
+      "interest": "Die Erzählperspektive erklärt, warum Max zugleich realer Helfer und Legende erscheint.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1981",
+        "1979",
+        "1983",
+        "1985"
+      ],
+      "feedback": [
+        "Diese Filmfassung wurde 1981 erstmals veröffentlicht.",
+        "1979 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 1981.",
+        "1983 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 1981.",
+        "1985 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 1981."
+      ],
+      "short": "Das erste Veröffentlichungsjahr ist 1981.",
+      "context": "Der zweite Film erschien 1981, zwei Jahre nach Mad Max von 1979. Mel Gibson kehrt als Max zurück, doch die Welt hat sich von der noch bestehenden Polizeigesellschaft des ersten Films zur offenen Wüstenanarchie verändert. Die kurze Veröffentlichungsfolge begleitet damit einen deutlichen Wandel des Szenarios.",
+      "anchor": "1979 begann Mad Max; zwei Jahre später folgte 1981 der zweite Film.",
+      "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "George Miller",
+        "John Carpenter",
+        "Walter Hill",
+        "Peter Weir"
+      ],
+      "feedback": [
+        "George Miller verantwortet die hier gefragte Regie.",
+        "John Carpenter führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Walter Hill führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Peter Weir führte bei dieser Filmfassung nicht die gefragte Regie."
+      ],
+      "short": "Die gesuchte Regie stammt von George Miller.",
+      "context": "George Miller kehrte nach dem ersten Mad Max zur Figur zurück und schrieb auch am Drehbuch mit. Die Inszenierung erweitert die Straßenkämpfe zur Belagerung und langen Tankzugverfolgung. Der US-Titel The Road Warrior betont den einsamen Helfer, obwohl es sich um den zweiten Film der Reihe handelt.",
+      "anchor": "George Miller inszenierte diese Filmfassung.",
+      "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "rank": 66,
+  "directors": [
+    "Ben Sharpsteen",
+    "Hamilton Luske",
+    "Bill Roberts",
+    "Norman Ferguson",
+    "Jack Kinney",
+    "Wilfred Jackson",
+    "T. Hee"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Disneys vielfach neu veröffentlichtes Märchen gehört zu den Film-Ikonen.",
+  "release_note": "New-York-Premiere 7. Februar 1940.",
+  "director_note": "Gesamtleitung: Sharpsteen/Luske; Sequenzregie: Roberts/Ferguson/Kinney/Jackson/Hee. Lange Teamantwort als begründete 60-Wörter-Ausnahme.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Pinocchio_(1940_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufgabe erhält Jiminy Cricket in Disneys @?",
+      "answers": [
+        "Er soll Pinocchios Gewissen sein.",
+        "Er soll Pinocchios Bühnenauftritte organisieren.",
+        "Er soll Geppetto beim Schnitzen helfen.",
+        "Er soll Pinocchio vor allen Lehrern verstecken."
+      ],
+      "feedback": [
+        "Jiminy Cricket (Originalstimme Cliff Edwards) wird Pinocchios Gewissen.",
+        "Jiminy soll Gewissensberater sein.",
+        "Eine Werkstattassistenz ist nicht seine Aufgabe.",
+        "Der Weg zur Schule soll nicht verhindert werden."
+      ],
+      "short": "Jiminy Cricket (Originalstimme Cliff Edwards) wird Pinocchios Gewissen.",
+      "context": "Jiminy Cricket (Originalstimme Cliff Edwards) wird Pinocchios Gewissen. Er soll den lebendig gewordenen Jungen begleiten, kann dessen Entscheidungen aber nicht einfach kontrollieren.",
+      "anchor": "Jiminy soll beraten, entscheiden muss Pinocchio.",
+      "interest": "Jiminy soll beraten, entscheiden muss Pinocchio.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Eigenschaften soll Pinocchio beweisen, um in Disneys @ ein echter Junge zu werden?",
+      "answers": [
+        "Mut, Ehrlichkeit und Selbstlosigkeit",
+        "Reichtum, Berühmtheit und Eleganz",
+        "Kraft, Schnelligkeit und Größe",
+        "Gehorsam, Schweigen und Besitz"
+      ],
+      "feedback": [
+        "Pinocchio (Originalstimme Dickie Jones) soll mutig, ehrlich und selbstlos handeln.",
+        "Reichtum ist keine Bedingung der Fee.",
+        "Körpermaße machen ihn nicht menschlich.",
+        "Schweigen und Besitz sind nicht der Maßstab."
+      ],
+      "short": "Pinocchio (Originalstimme Dickie Jones) soll mutig, ehrlich und selbstlos handeln.",
+      "context": "Pinocchio (Originalstimme Dickie Jones) soll mutig, ehrlich und selbstlos handeln. Die Verwandlung hängt somit an seinen Entscheidungen, nicht allein am ursprünglichen Zauber der Blauen Fee (Originalstimme Evelyn Venable).",
+      "anchor": "Ein echter Junge braucht mehr als einen lebendigen Körper.",
+      "interest": "Ein echter Junge braucht mehr als einen lebendigen Körper.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie reagiert Stromboli in Disneys @, als Pinocchio nach dem Auftritt nach Hause möchte?",
+      "answers": [
+        "Er sperrt ihn in einen Käfig.",
+        "Er lässt ihn nur gegen einen neuen Vertrag gehen.",
+        "Er übergibt ihn sofort an Honest John.",
+        "Er gestattet ihm jeden Abend die Heimkehr."
+      ],
+      "feedback": [
+        "Stromboli (Originalstimme Charles Judels) sperrt Pinocchio (Originalstimme Dickie Jones) ein.",
+        "Stromboli sperrt ihn statt einer freien Vertragswahl ein.",
+        "Er übergibt Pinocchio nicht sofort weiter.",
+        "Freie Heimkehr wird ausdrücklich verhindert."
+      ],
+      "short": "Stromboli (Originalstimme Charles Judels) sperrt Pinocchio (Originalstimme Dickie Jones) ein.",
+      "context": "Stromboli (Originalstimme Charles Judels) sperrt Pinocchio (Originalstimme Dickie Jones) ein. Die versprochene Künstlerkarriere wird zur Ausbeutung; seine Besonderheit dient nun dem Gewinn eines anderen.",
+      "anchor": "Der Bühnenruhm endet zunächst im Käfig.",
+      "interest": "Der Bühnenruhm endet zunächst im Käfig.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Gefahr verbirgt die Vergnügungsinsel in Disneys @?",
+      "answers": [
+        "Die Jungen werden zu Eseln und verkauft.",
+        "Die Jungen müssen lebenslang im Theater auftreten.",
+        "Die Jungen verlieren ihr Gedächtnis und dienen als Wächter.",
+        "Die Jungen werden ohne Verwandlung als Matrosen angeworben."
+      ],
+      "feedback": [
+        "Die Jungen verwandeln sich in Esel und werden verkauft.",
+        "Die Verwertung folgt auf die Eselverwandlung.",
+        "Ein bloßer Gedächtnisverlust ist nicht die Inselgefahr.",
+        "Es geht nicht nur um eine menschliche Anwerbung."
+      ],
+      "short": "Die Jungen verwandeln sich in Esel und werden verkauft.",
+      "context": "Die Jungen verwandeln sich in Esel und werden verkauft. Pinocchio (Originalstimme Dickie Jones) entkommt vor der vollständigen Verwandlung; das regellose Vergnügen verbirgt ein Geschäft mit Zwangsarbeit.",
+      "anchor": "Die Insel macht aus ihren Gästen verkaufbare Esel.",
+      "interest": "Die Insel macht aus ihren Gästen verkaufbare Esel.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie wollen Pinocchio und Geppetto in Disneys @ aus Monstros Bauch entkommen?",
+      "answers": [
+        "Sie erzeugen Rauch, damit der Wal niest.",
+        "Sie brechen mit dem Floß durch seine Zähne.",
+        "Sie warten auf das nächste Öffnen des Mauls zum Fressen.",
+        "Sie locken ihn mit Licht zum Auftauchen."
+      ],
+      "feedback": [
+        "Pinocchio (Originalstimme Dickie Jones) erzeugt Rauch, damit Monstro niest.",
+        "Der Rauch soll ein Niesen auslösen.",
+        "Sie warten nicht passiv auf eine Mahlzeit.",
+        "Licht bildet nicht die Fluchtstrategie."
+      ],
+      "short": "Pinocchio (Originalstimme Dickie Jones) erzeugt Rauch, damit Monstro niest.",
+      "context": "Pinocchio (Originalstimme Dickie Jones) erzeugt Rauch, damit Monstro niest. Die improvisierte Flucht rettet Geppetto (Originalstimme Christian Rub) zunächst aus dem Bauch, beendet aber die Verfolgung durch den Wal noch nicht.",
+      "anchor": "Rauch verwandelt den Walbauch in einen Fluchtweg.",
+      "interest": "Rauch verwandelt den Walbauch in einen Fluchtweg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welcher Entschluss erfüllt im Finale von Disneys @ die Bedingung der Selbstlosigkeit?",
+      "answers": [
+        "Pinocchio rettet Geppetto unter Lebensgefahr.",
+        "Er gibt Stromboli freiwillig seine Einnahmen zurück.",
+        "Er verlangt von Geppetto ein Versprechen vor der Rettung.",
+        "Er rettet sich allein und wartet auf Hilfe für Geppetto."
+      ],
+      "feedback": [
+        "Pinocchio (Originalstimme Dickie Jones) rettet Geppetto (Originalstimme Christian Rub) und riskiert dabei sein Leben.",
+        "Die Selbstlosigkeit zeigt sich bei der Rettung.",
+        "Eine Gegenleistung verlangt er nicht.",
+        "Er lässt Geppetto gerade nicht zurück."
+      ],
+      "short": "Pinocchio (Originalstimme Dickie Jones) rettet Geppetto (Originalstimme Christian Rub) und riskiert dabei sein Leben.",
+      "context": "Pinocchio (Originalstimme Dickie Jones) rettet Geppetto (Originalstimme Christian Rub) und riskiert dabei sein Leben. Die abschließende Verwandlung folgt auf dieses Handeln, statt eine beliebige Belohnung ohne Prüfung zu sein.",
+      "anchor": "Die Rettung des Vaters macht Pinocchio zum echten Jungen.",
+      "interest": "Die Rettung des Vaters macht Pinocchio zum echten Jungen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde Disneys klassische Zeichentrickfassung von @ erstmals veröffentlicht?",
+      "answers": [
+        "1940",
+        "1938",
+        "1935",
+        "1941"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1940.",
+        "1938 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1935 liegt fünf Jahre davor.",
+        "1941 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1940 erstmals veröffentlicht.",
+      "context": "1940 erschien Disneys zweiter abendfüllender Animationsfilm. Carlo Collodis Buch war 1883 veröffentlicht worden, 57 Jahre zuvor. Der Film verbindet den älteren Stoff mit neuen Figuren und dem Lied When You Wish Upon a Star.",
+      "anchor": "Collodis Buch von 1883 wurde 57 Jahre später, 1940, Disneys zweiter langer Animationsfilm.",
+      "interest": "Collodis Buch von 1883 wurde 57 Jahre später, 1940, Disneys zweiter langer Animationsfilm.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Welches vollständige Team aus Gesamt- und Sequenzregie ist für Disneys Zeichentrickfassung von @ genannt?",
+      "answers": [
+        "Ben Sharpsteen und Hamilton Luske und Bill Roberts und Norman Ferguson und Jack Kinney und Wilfred Jackson und T. Hee",
+        "John Musker und Ron Clements und Gary Trousdale und Kirk Wise und Roger Allers und Rob Minkoff und Kevin Lima",
+        "Don Bluth und Gary Goldman und Chris Sanders und Dean DeBlois und Eric Darnell und Tom McGrath und Andrew Adamson",
+        "Pete Docter und Bob Peterson und Lee Unkrich und Andrew Stanton und Brad Bird und John Lasseter und Dan Scanlon"
+      ],
+      "feedback": [
+        "Ben Sharpsteen und Hamilton Luske und Bill Roberts und Norman Ferguson und Jack Kinney und Wilfred Jackson und T. Hee führten Regie.",
+        "Musker, Clements und die übrigen hier genannten Regisseure gehören nicht zum geführten Team dieses Films.",
+        "Bluth, Goldman und die weiteren vorgeschlagenen Namen ergeben hier kein zutreffendes Regieteam.",
+        "Docter, Peterson und die weiteren modernen Animationsregisseure sind hier nicht als Regieteam genannt."
+      ],
+      "short": "Regie: Ben Sharpsteen und Hamilton Luske und Bill Roberts und Norman Ferguson und Jack Kinney und Wilfred Jackson und T. Hee.",
+      "context": "Ben Sharpsteen und Hamilton Luske leiteten die Gesamtproduktion; Bill Roberts, Norman Ferguson, Jack Kinney, Wilfred Jackson und T. Hee verantworteten Sequenzen. Walt Disney produzierte, steht aber nicht anstelle dieses Regieteams.",
+      "anchor": "Ben Sharpsteen und Hamilton Luske leiteten die Gesamtproduktion; Bill Roberts, Norman Ferguson, Jack Kinney, Wilfred Jackson und T.",
+      "interest": "Ben Sharpsteen und Hamilton Luske leiteten die Gesamtproduktion; Bill Roberts, Norman Ferguson, Jack Kinney, Wilfred Jackson und T.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

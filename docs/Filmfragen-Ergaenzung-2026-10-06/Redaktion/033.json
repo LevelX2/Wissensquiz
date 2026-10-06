@@ -1,0 +1,219 @@
+{
+  "rank": 33,
+  "directors": [
+    "Justin Lin"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Erfolgreicher fünfter Teil einer weithin bekannten Actionreihe mit über 600 Millionen Dollar weltweitem Einspiel.",
+  "release_note": "Premiere in Rio de Janeiro 15. April 2011; US-Kinostart 29. April 2011.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Fast_Five",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://www.universalpicturesathome.com/movies/fast-five",
+      "supports": "2011, Justin Lin, Rio, Hauptdarsteller und 100-Millionen-Dollar-Raub."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt plant Doms Gruppe den großen Raubzug in @?",
+      "answers": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Buenos Aires",
+        "Mexico City"
+      ],
+      "feedback": [
+        "Dom (Vin Diesel), Brian (Paul Walker) und Mia (Jordana Brewster) verstecken sich in Rio de Janeiro.",
+        "São Paulo ist nicht der Schauplatz des Plans.",
+        "Die Gruppe flieht nach Brasilien, nicht Argentinien.",
+        "Mexico City ist nicht ihre neue Basis."
+      ],
+      "short": "Dom (Vin Diesel), Brian (Paul Walker) und Mia (Jordana Brewster) verstecken sich in Rio de Janeiro.",
+      "context": "Dom (Vin Diesel), Brian (Paul Walker) und Mia (Jordana Brewster) verstecken sich in Rio de Janeiro. Der neue Ort bringt sie mit dem kriminellen System von Reyes (Joaquim de Almeida) und der Verfolgung durch Hobbs (Dwayne Johnson) zugleich in Konflikt.",
+      "anchor": "Der Zufluchtsort wird zum Schauplatz von Verfolgung und Raub.",
+      "interest": "Der Zufluchtsort wird zum Schauplatz von Verfolgung und Raub.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was möchte das Team in @ Hernan Reyes abnehmen?",
+      "answers": [
+        "Sein kriminelles Bargeldvermögen",
+        "Eine geheime Waffenlieferung",
+        "Seine Diamantensammlung",
+        "Das gesamte Archiv seiner Erpressungsfotos"
+      ],
+      "feedback": [
+        "Dom (Vin Diesel) schlägt den Raub von Reyes’ (Joaquim de Almeida) Geld vor.",
+        "Waffen sind nicht die gemeinsame Beute.",
+        "Diamanten ersetzen nicht die 100 Millionen Dollar.",
+        "Ein Fotoarchiv ist nicht das Raubziel."
+      ],
+      "short": "Dom (Vin Diesel) schlägt den Raub von Reyes’ (Joaquim de Almeida) Geld vor.",
+      "context": "Dom (Vin Diesel) schlägt den Raub von Reyes’ (Joaquim de Almeida) Geld vor. Mia (Jordana Brewster) hat ihre Schwangerschaft bekannt gegeben; das Vermögen soll den gemeinsamen Neuanfang ermöglichen.",
+      "anchor": "Die Schwangerschaft gibt dem Geldraub ein gemeinsames Zukunftsziel.",
+      "interest": "Die Schwangerschaft gibt dem Geldraub ein gemeinsames Zukunftsziel.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum ist der Computerchip aus dem gestohlenen Auto in @ für Reyes so wichtig?",
+      "answers": [
+        "Er enthält die Finanzdaten und Bargeldverstecke seines Imperiums.",
+        "Er steuert eine versteckte Sprengladung im Wagen.",
+        "Er enthält die Namen sämtlicher amerikanischer Ermittler.",
+        "Er ist der einzige elektronische Schlüssel zu Reyes’ Wohnung."
+      ],
+      "feedback": [
+        "Brian (Paul Walker) entschlüsselt Finanzdaten auf dem Chip.",
+        "Eine Sprengladung erklärt sein Interesse nicht.",
+        "Die Daten betreffen seine eigenen Finanzgeschäfte.",
+        "Ein Wohnungsschlüssel ist nicht die Funktion des Chips."
+      ],
+      "short": "Brian (Paul Walker) entschlüsselt Finanzdaten auf dem Chip.",
+      "context": "Brian (Paul Walker) entschlüsselt Finanzdaten auf dem Chip. Reyes (Joaquim de Almeida) sucht dadurch nicht bloß ein wertvolles Auto; das enthaltene Wissen macht seine verstreuten Geldbestände angreifbar.",
+      "anchor": "Das Fahrzeug ist nur die Hülle für entscheidende Finanzinformationen.",
+      "interest": "Das Fahrzeug ist nur die Hülle für entscheidende Finanzinformationen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum verbrennt Doms Team in @ einen Teil von Reyes’ Bargeld öffentlich vor seinen Leuten?",
+      "answers": [
+        "Reyes soll das übrige Geld an einem Ort zusammenziehen.",
+        "Reyes soll eine verabredete Lösegeldzahlung abbrechen.",
+        "Die Brandspuren sollen der Polizei ein Unfallgeschehen vortäuschen.",
+        "Das Team will die Beute absichtlich wertlos machen."
+      ],
+      "feedback": [
+        "Das Team verbrennt einen Geldbestand vor Reyes’ Leuten.",
+        "Eine Lösegeldzahlung ist nicht der Zweck.",
+        "Der Brand soll Reyes beeinflussen, nicht der Polizei einen Unfall erklären.",
+        "Die Vernichtung eines Teils bereitet den Raub des übrigen Geldes vor."
+      ],
+      "short": "Das Team verbrennt einen Geldbestand vor Reyes’ Leuten.",
+      "context": "Das Team verbrennt einen Geldbestand vor Reyes’ Leuten. Reyes (Joaquim de Almeida) bündelt daraufhin die übrigen Millionen im Polizeirevier; aus verstreuter Beute entsteht ein einzelnes geplantes Ziel.",
+      "anchor": "Der Verlust eines Geldlagers zwingt Reyes zur für den Raub nützlichen Bündelung.",
+      "interest": "Der Verlust eines Geldlagers zwingt Reyes zur für den Raub nützlichen Bündelung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum unterstützt Hobbs Doms Team in @ schließlich beim Raub?",
+      "answers": [
+        "Reyes’ Männer haben Hobbs’ Team im Hinterhalt getötet.",
+        "Sein Vorgesetzter erklärt Dom offiziell zum verdeckten Ermittler.",
+        "Reyes bietet ihm einen Anteil am Tresorinhalt an.",
+        "Dom übergibt ihm zuvor alle gesuchten Verdächtigen."
+      ],
+      "feedback": [
+        "Hobbs (Dwayne Johnson) verliert seine Leute bei Reyes’ Angriff.",
+        "Die Zusammenarbeit entsteht aus dem Hinterhalt, nicht einer neuen Behördenrolle Doms.",
+        "Hobbs nimmt kein Angebot von Reyes an.",
+        "Die Gruppe wurde selbst gerade von Hobbs festgenommen."
+      ],
+      "short": "Hobbs (Dwayne Johnson) verliert seine Leute bei Reyes’ Angriff.",
+      "context": "Hobbs (Dwayne Johnson) verliert seine Leute bei Reyes’ Angriff. Dom (Vin Diesel) und Brian (Paul Walker) helfen ihm und Elena (Elsa Pataky); der gemeinsame Gegner verändert das bisherige Verfolgerverhältnis.",
+      "anchor": "Die gemeinsame Rettung nach dem Hinterhalt macht aus dem Verfolger einen Verbündeten.",
+      "interest": "Die gemeinsame Rettung nach dem Hinterhalt macht aus dem Verfolger einen Verbündeten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum erhält Hobbs am Ende von @ nur einen leeren Tresor?",
+      "answers": [
+        "Das Team hat ihn während der Flucht gegen einen anderen ausgetauscht.",
+        "Reyes hat das Geld schon vor dem Einbruch abtransportiert.",
+        "Hobbs hat den Inhalt an die örtliche Polizei verschenkt.",
+        "Der Tresor enthielt von Beginn an ausschließlich Falschgeld."
+      ],
+      "feedback": [
+        "Der Tresor wurde mithilfe eines Müllwagens ausgetauscht.",
+        "Reyes’ Geld war im geraubten Tresor vorhanden.",
+        "Eine Geldübergabe durch Hobbs erklärt die Leere nicht.",
+        "Die Beute ist echtes Geld, das später verteilt wird."
+      ],
+      "short": "Der Tresor wurde mithilfe eines Müllwagens ausgetauscht.",
+      "context": "Der Tresor wurde mithilfe eines Müllwagens ausgetauscht. Hobbs (Dwayne Johnson) gibt Dom (Vin Diesel) und Brian (Paul Walker) einen Vorsprung, während er das zurückgelassene Stück sichert; die eigentliche Beute ist längst bei deren Team.",
+      "anchor": "Der sichtbare Fluchttresor lenkt vom zuvor ausgetauschten Geld ab.",
+      "interest": "Der sichtbare Fluchttresor lenkt vom zuvor ausgetauschten Geld ab.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2011",
+        "2009",
+        "2006",
+        "2012"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 2011.",
+        "2009 liegt zwei Jahre vor der ersten Veröffentlichung.",
+        "2006 liegt fünf Jahre vor der Erstveröffentlichung.",
+        "2012 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2011 erstmals veröffentlicht.",
+      "context": "2011 erschien der fünfte Reihenfilm, zwei Jahre nach Fast & Furious von 2009. Die zentralen Figuren wurden nun für einen großen Raubzug zusammengebracht; Fahrkönnen dient damit einem neuen Schwerpunkt statt ausschließlich Straßenrennen.",
+      "anchor": "Fast Five von 2011 folgt zwei Jahre nach Fast & Furious von 2009 und erweitert die Reihe zum Teamraub.",
+      "interest": "Fast Five von 2011 folgt zwei Jahre nach Fast & Furious von 2009 und erweitert die Reihe zum Teamraub.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Justin Lin",
+        "Rob Cohen",
+        "John Singleton",
+        "James Wan"
+      ],
+      "feedback": [
+        "Justin Lin führte Regie.",
+        "Rob Cohen hat hier keinen Regiecredit.",
+        "John Singleton hat hier keinen Regiecredit.",
+        "James Wan hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Justin Lin.",
+      "context": "Lin entwickelte mit Chris Morgan den Übergang vom Straßenrennen zum Raubzug. Frühere Figuren werden als Team zusammengeführt; die fahrerischen Fähigkeiten bestimmen weiterhin die Aktion, dienen aber einem gemeinsam geplanten Geldraub.",
+      "anchor": "Lin stellt das Fahrkönnen früherer Figuren in den Dienst eines gemeinsamen Raubzugs.",
+      "interest": "Lin stellt das Fahrkönnen früherer Figuren in den Dienst eines gemeinsamen Raubzugs.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

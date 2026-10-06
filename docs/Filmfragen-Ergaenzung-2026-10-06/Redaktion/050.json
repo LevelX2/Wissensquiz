@@ -1,0 +1,212 @@
+{
+  "rank": 50,
+  "directors": [
+    "Wim Wenders"
+  ],
+  "production_countries": [
+    "Japan",
+    "Deutschland"
+  ],
+  "familiarity_reason": "Bekannter Wenders-Film mit erfolgreichem Kino- und Festivalnachlauf; Gruppe bekannte Filme.",
+  "release_note": "Erste Cannes-Vorführung 25. Mai 2023; die Lead-Zeile des Wikipedia-Auszugs nennt widersprüchlich 23. Mai, deshalb keine Tagesangabe als Frage.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Perfect_Days",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Arbeit verrichtet Hirayama (Kōji Yakusho) in @?",
+      "answers": [
+        "Er reinigt öffentliche Toiletten.",
+        "Er repariert Aufzüge.",
+        "Er verkauft Konzertkarten.",
+        "Er überwacht ein Parkhaus."
+      ],
+      "feedback": [
+        "Hirayama reinigt öffentliche Toiletten in Tokio.",
+        "Aufzüge sind nicht sein Arbeitsbereich.",
+        "Konzertkarten verkauft er nicht.",
+        "Eine Parkhausaufsicht ist nicht sein Beruf."
+      ],
+      "short": "Hirayama reinigt öffentliche Toiletten in Tokio.",
+      "context": "Hirayama (Kōji Yakusho) reinigt öffentliche Toiletten in Tokio. Er arbeitet sorgfältig und wiederholt feste Abläufe; der Film beobachtet gerade in dieser alltäglichen Arbeit seine Aufmerksamkeit.",
+      "anchor": "Hirayamas Alltag beginnt mit sorgfältiger Reinigungsarbeit.",
+      "interest": "Hirayamas Alltag beginnt mit sorgfältiger Reinigungsarbeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Auf welchem Tonträger hört Hirayama (Kōji Yakusho) unterwegs Musik in @?",
+      "answers": [
+        "Kassetten",
+        "CDs",
+        "MiniDiscs",
+        "Ein Smartphone"
+      ],
+      "feedback": [
+        "Hirayama hört Musik von Kassetten.",
+        "Er legt Kassetten ein.",
+        "MiniDiscs sind nicht das verwendete Medium.",
+        "Die Musik kommt nicht aus einem Smartphone."
+      ],
+      "short": "Hirayama hört Musik von Kassetten.",
+      "context": "Hirayama (Kōji Yakusho) hört Musik von Kassetten. Die Sammlung begleitet seine Fahrten; einzelne Lieder erhalten dadurch einen Platz innerhalb des immer wiederkehrenden Tagesablaufs.",
+      "anchor": "Die Fahrt klingt nach Hirayamas Kassetten.",
+      "interest": "Die Fahrt klingt nach Hirayamas Kassetten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was fotografiert Hirayama (Kōji Yakusho) während seiner Mittagspausen in @?",
+      "answers": [
+        "Baumkronen und Licht zwischen Blättern",
+        "Kennzeichen fremder Autos",
+        "Werbeplakate",
+        "Nur die Toilettenschilder"
+      ],
+      "feedback": [
+        "Hirayama fotografiert Bäume und das durch Blätter fallende Licht.",
+        "Autokennzeichen sammelt er nicht.",
+        "Werbung ist nicht sein fotografisches Motiv.",
+        "Seine Mittagspausenfotos gelten den Bäumen."
+      ],
+      "short": "Hirayama fotografiert Bäume und das durch Blätter fallende Licht.",
+      "context": "Hirayama (Kōji Yakusho) fotografiert Bäume und das durch Blätter fallende Licht. Er verwendet analogen Film; die kleinen Unterschiede einer wiederkehrenden Aussicht werden damit zu einer eigenen Sammlung.",
+      "anchor": "Die Mittagspause bewahrt wechselndes Licht im Baum.",
+      "interest": "Die Mittagspause bewahrt wechselndes Licht im Baum.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum bleibt Niko (Arisa Nakano) unerwartet bei Hirayama in @?",
+      "answers": [
+        "Sie ist von ihrer Mutter weggelaufen.",
+        "Sie hat mit ihrer Mutter einen festen Ferienbesuch vereinbart.",
+        "Sie hat in Tokio eine neue Stelle gefunden.",
+        "Sie wird von ihrer Mutter für eine Ausbildung geschickt."
+      ],
+      "feedback": [
+        "Niko ist von ihrer Mutter Keiko (Yumi Asō) weggelaufen.",
+        "Der Aufenthalt beginnt ohne diese feste Absprache.",
+        "Eine neue Stelle ist nicht der Anlass.",
+        "Sie ist von zu Hause weggelaufen."
+      ],
+      "short": "Niko ist von ihrer Mutter Keiko (Yumi Asō) weggelaufen.",
+      "context": "Niko (Arisa Nakano) ist von ihrer Mutter Keiko (Yumi Asō) weggelaufen. Bei ihrem Onkel Hirayama (Kōji Yakusho) erlebt sie seinen Tagesablauf mit; ihr Besuch öffnet zugleich einen Blick auf die getrennten Familienwelten.",
+      "anchor": "Die Nichte bringt Familie in den geregelten Alltag.",
+      "interest": "Die Nichte bringt Familie in den geregelten Alltag.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie entsteht in @ ein stiller Kontakt zu einem unbekannten Toilettenbesucher?",
+      "answers": [
+        "Durch ein fortgesetztes Tic-Tac-Toe-Spiel auf Papier",
+        "Durch Briefe in einer gemeinsamen Postbox",
+        "Durch kurze Nachrichten im Gästebuch",
+        "Durch Antwortzeichnungen im Fotoalbum"
+      ],
+      "feedback": [
+        "Ein Papier mit Tic-Tac-Toe-Zügen vermittelt den Kontakt.",
+        "Das Blatt mit Tic-Tac-Toe stellt die Verbindung her.",
+        "Ein Gästebuch wird nicht für diesen Kontakt genutzt.",
+        "Ein gemeinsames Fotoalbum gibt es nicht."
+      ],
+      "short": "Ein Papier mit Tic-Tac-Toe-Zügen vermittelt den Kontakt.",
+      "context": "Ein Papier mit Tic-Tac-Toe-Zügen vermittelt den Kontakt. Hirayama (Kōji Yakusho) und ein unbekannter Mensch ergänzen abwechselnd das Spiel; Begegnung entsteht ohne sichtbares Gespräch.",
+      "anchor": "Papier und Spielzüge ersetzen ein Gespräch.",
+      "interest": "Papier und Spielzüge ersetzen ein Gespräch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Musik begleitet Hirayamas (Kōji Yakusho) letzte gezeigte Fahrt in @?",
+      "answers": [
+        "Nina Simones „Feeling Good“",
+        "Patti Smiths „Because the Night“",
+        "Otis Reddings „Dock of the Bay“",
+        "Van Morrisons „Brown Eyed Girl“"
+      ],
+      "feedback": [
+        "Feeling Good begleitet die Schlussfahrt.",
+        "Patti Smiths Kassette ist wichtig, begleitet aber nicht die Schlussfahrt.",
+        "Dieses Lied gehört nicht zur letzten Szene.",
+        "Morrison ist hier nicht der Schlussinterpret."
+      ],
+      "short": "Feeling Good begleitet die Schlussfahrt.",
+      "context": "Feeling Good begleitet die Schlussfahrt. Hirayamas Gesicht zeigt nacheinander verschiedene Gefühle; die musikalische Zuversicht erzeugt deshalb keinen einfach gleichförmig glücklichen Abschluss.",
+      "anchor": "Die letzte Fahrt verbindet „Feeling Good“ mit wechselnden Gefühlen.",
+      "interest": "Die letzte Fahrt verbindet „Feeling Good“ mit wechselnden Gefühlen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2023",
+        "2021",
+        "2018",
+        "2024"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2023.",
+        "2021 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2018 liegt fünf Jahre davor.",
+        "2024 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2023 erstmals veröffentlicht.",
+      "context": "2023 erschien der Film, nachdem Wenders eine Einladung zum Projekt The Tokyo Toilet erhalten hatte. Die zunächst angedachten Kurzfilme wurden zu einem Spielfilm über den Alltag eines Reinigers. Das reale Architekturprojekt ist der konkrete Hintergrund seiner Veröffentlichung.",
+      "anchor": "2023 wurde aus dem realen Architekturprojekt The Tokyo Toilet ein Spielfilm über einen Reiniger.",
+      "interest": "2023 wurde aus dem realen Architekturprojekt The Tokyo Toilet ein Spielfilm über einen Reiniger.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Wim Wenders",
+        "Jim Jarmusch",
+        "Aki Kaurismäki",
+        "Hirokazu Kore-eda"
+      ],
+      "feedback": [
+        "Wim Wenders führte Regie.",
+        "Jim Jarmusch führte bei diesem Film nicht Regie.",
+        "Aki Kaurismäki führte bei diesem Film nicht Regie.",
+        "Hirokazu Kore-eda führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Wim Wenders.",
+      "context": "Wenders und Takuma Takasaki entwickelten statt einzelner Kurzfilme über Toilettenanlagen eine Figurengeschichte. Die realen Anlagen des Tokyo-Toilet-Projekts bilden den Arbeitsort von Hirayama (Kōji Yakusho).",
+      "anchor": "Wenders und Takuma Takasaki entwickelten statt einzelner Kurzfilme über Toilettenanlagen eine Figurengeschichte.",
+      "interest": "Wenders und Takuma Takasaki entwickelten statt einzelner Kurzfilme über Toilettenanlagen eine Figurengeschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

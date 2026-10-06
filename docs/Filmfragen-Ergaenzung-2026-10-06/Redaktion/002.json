@@ -1,0 +1,220 @@
+{
+  "rank": 2,
+  "directors": [
+    "Merian C. Cooper",
+    "Ernest B. Schoedsack"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "series": "King Kong",
+  "familiarity_reason": "Die Figur ist eine Film-Ikone; die ursprüngliche Schwarzweißfassung ist gegenüber modernen Fassungen weniger breit vertraut.",
+  "release_note": "Erstveröffentlichung 1933. Das genaue New Yorker Premierendatum weicht zwischen Wikipedia (2. März) und AFI (7. März) ab; kein Tagesdatum wird abgefragt.",
+  "sources": {
+    "afi": "https://catalog.afi.com/Film/4005-KING-KONG",
+    "handlung": "https://en.wikipedia.org/wiki/King_Kong_(1933_film)",
+    "technik": "https://www.bfi.org.uk/lists/50-films-see-age-15",
+    "musik": "https://blogs.loc.gov/nls-music-notes/2023/02/lets-go-to-the-movies-max-steiner/",
+    "team": "https://www.bfi.org.uk/lists/10-great-films-set-jungle",
+    "folge": "https://www.bfi.org.uk/film/a4648fbb-dc66-555e-85d7-d6501e6555f1/the-son-of-kong"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Auf welches New Yorker Gebäude klettert Kong im Finale von @ mit Fay Wray?",
+      "answers": [
+        "Empire State Building",
+        "Chrysler Building",
+        "Flatiron Building",
+        "Woolworth Building"
+      ],
+      "feedback": [
+        "Das Finale findet auf dem Empire State Building statt.",
+        "Die markante Chrysler-Spitze ist nicht der Schauplatz.",
+        "Das keilförmige Flatiron Building wird nicht zum letzten Zufluchtsort.",
+        "Kong klettert nicht auf den Woolworth-Turm."
+      ],
+      "short": "Kong trägt Ann Darrow auf das Empire State Building.",
+      "context": "Nach seiner Flucht aus dem Theater sucht Kong mit Ann Darrow (Fay Wray) Schutz in großer Höhe. Das Empire State Building wird zum Schauplatz des Luftangriffs. Das berühmte Bild stellt das riesige Tier einer noch größeren Stadt gegenüber; auf dem Gipfel findet es keinen Ausweg.",
+      "anchor": "Kongs letzter Zufluchtsort ist das Empire State Building.",
+      "interest": "Das zentrale Filmbild verbindet den Schauplatz mit dem tragischen Ende.",
+      "sources": [
+        "afi",
+        "technik"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "L2",
+      "question": "Mit welchem ursprünglichen beruflichen Vorhaben fährt Carl Denham (Robert Armstrong) in @ zur geheimnisvollen Insel?",
+      "answers": [
+        "Er will einen Abenteuerfilm drehen.",
+        "Er will eine Handelsstation gründen.",
+        "Er will eine Forschungsstation bauen.",
+        "Er will ein Passagierschiff erproben."
+      ],
+      "feedback": [
+        "Denham sucht ein spektakuläres Motiv für einen Film.",
+        "Sein ursprünglicher Auftrag ist kein Handelsposten.",
+        "Er führt kein wissenschaftliches Stationsbauprojekt.",
+        "Die Fahrt soll Aufnahmen ermöglichen, keinen Schiffstest."
+      ],
+      "short": "Denham führt die Expedition als Filmemacher an.",
+      "context": "Carl Denham (Robert Armstrong) sucht für sein Filmprojekt eine Darstellerin und nimmt Ann Darrow (Fay Wray) mit. Auf der Insel trifft sein Wunsch nach außergewöhnlichen Bildern auf eine echte Gefahr. Die spätere Schaustellung Kongs folgt demselben Geschäftsdenken: Ein lebendes Wesen soll zum verkäuflichen Spektakel werden.",
+      "anchor": "Denhams Filmexpedition wird zur Jagd nach einem Schaustück.",
+      "interest": "Der Ausgangsberuf erklärt das Motiv hinter Expedition und späterer Ausbeutung.",
+      "sources": [
+        "handlung",
+        "team"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wie gelingt es Carl Denham (Robert Armstrong) in @, Kong für den Transport nach New York zu überwältigen?",
+      "answers": [
+        "Er setzt eine Gasbombe ein.",
+        "Er wirft ihn mit einer Kanone um.",
+        "Er vergiftet dessen Trinkwasser.",
+        "Er lässt die Felswand auf ihn stürzen."
+      ],
+      "feedback": [
+        "Die Gasbombe macht Kong bewusstlos und ermöglicht die Gefangennahme.",
+        "Ein Kanonenschuss bringt nicht die entscheidende Betäubung.",
+        "Vergiftetes Wasser ist nicht Denhams Fangmethode.",
+        "Ein Felssturz fängt Kong nicht für den Schiffstransport."
+      ],
+      "short": "Denham schlägt Kong mit einer Gasbombe bewusstlos.",
+      "context": "Kong verfolgt Ann Darrow (Fay Wray) bis zum Dorf. Carl Denham (Robert Armstrong) benutzt die Gasbombe, statt das Tier zu töten. Die Entscheidung ermöglicht den Ortswechsel nach New York: Aus dem gefährlichen Inselbewohner wird ein gefesseltes Ausstellungsobjekt. Gerade der Wunsch, ihn lebend zu besitzen, bereitet das Unglück vor.",
+      "anchor": "Gas betäubt Kong; Denham macht aus der Gefahr ein Geschäft.",
+      "interest": "Die Fangmethode erklärt, warum der Film von der Insel in die Stadt wechselt.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was löst in @ während Kongs Theaterpräsentation unmittelbar seinen Ausbruch aus?",
+      "answers": [
+        "Die Blitzlichter der Pressefotografen",
+        "Ein Brand hinter der Bühne",
+        "Das Geräusch einer Sirene",
+        "Ein Schuss aus dem Zuschauerraum"
+      ],
+      "feedback": [
+        "Die Blitzlichter reizen Kong, während Ann vor ihm steht.",
+        "Ein Bühnenbrand löst diesen Ausbruch nicht aus.",
+        "Keine Sirene verursacht Kongs unmittelbare Reaktion.",
+        "Der Ausbruch folgt den Blitzlichtern, nicht einem Schuss."
+      ],
+      "short": "Die Blitzlichter führen dazu, dass Kong seine Ketten sprengt.",
+      "context": "Auf der Bühne wird Kong als Weltwunder vorgeführt. Ann Darrow (Fay Wray) und Jack Driscoll (Bruce Cabot) stehen bei ihm, als die Presse zu fotografieren beginnt. Kong reagiert auf das Blitzen und bricht aus. Die geplante kontrollierte Werbung kippt damit in genau jene Gewalt, die die Veranstalter verkaufen wollten.",
+      "anchor": "Die Presseblitze machen aus der Kong-Schau einen Ausbruch.",
+      "interest": "Ein konkreter Auslöser verknüpft Vermarktung und Katastrophe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welches Verfahren bringt Kongs bewegte Modelle in der ursprünglichen Fassung von @ zum Leben?",
+      "answers": [
+        "Stop-Motion-Animation",
+        "Handgezeichnete Zeichentrickfolien",
+        "Mechanische Figuren mit ferngesteuerten Gelenken",
+        "Ein durchgehend getragenes Ganzkörperkostüm"
+      ],
+      "feedback": [
+        "Die Modelle werden für einzelne Bilder schrittweise bewegt.",
+        "Die bewegten Kong-Modelle entstehen nicht als reine Zeichentrickfolien.",
+        "Die Modelle werden Bild für Bild bewegt, nicht durch ferngesteuerte Gelenke im laufenden Bild.",
+        "Ein getragenes Ganzkörperkostüm ist nicht das Verfahren der bewegten Modelle."
+      ],
+      "short": "Kongs Modelle werden in Stop Motion animiert und mit Realaufnahmen kombiniert.",
+      "context": "Stop Motion erzeugt Bewegung aus vielen einzeln aufgenommenen Modellposen. Die Filmtechnik verbindet diese Aufnahmen mit den realen Darstellern, sodass kleine Modelle riesig erscheinen. Der Effekt erklärt die besondere Körperlichkeit des ursprünglichen Kong: Die Kreatur besitzt keine natürliche Bewegung vor der Kamera, sondern erhält sie Bild für Bild.",
+      "anchor": "Ein Modell, viele Einzelbilder: Kongs Bewegung entsteht in Stop Motion.",
+      "interest": "Die Frage macht das zentrale Trickverfahren nachvollziehbar.",
+      "sources": [
+        "technik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Wer komponierte die eigenständige Orchestermusik zur ursprünglichen Fassung von @?",
+      "answers": [
+        "Max Steiner",
+        "Erich Wolfgang Korngold",
+        "Franz Waxman",
+        "Dimitri Tiomkin"
+      ],
+      "feedback": [
+        "Steiner komponierte die Musik zu diesem Kong-Film.",
+        "Korngold ist nicht der Komponist dieser Filmmusik.",
+        "Waxman schrieb nicht die Musik zu diesem Kong-Film.",
+        "Tiomkin ist hier nicht der ausgewiesene Komponist."
+      ],
+      "short": "Max Steiner schrieb die Musik zu „King Kong“.",
+      "context": "Nicht nur die sichtbaren Tricks geben Kong Gewicht. Max Steiners Musik begleitet Spannung und Tragik und gehört zu seinen frühen großen Hollywood-Erfolgen. Der Zusammenhang von Bild und komponierter Begleitung macht den Film zu einem Zugang zur Geschichte der Filmmusik; gesucht ist der Originalkomponist, nicht der einer späteren Neuverfilmung.",
+      "anchor": "Zum ursprünglichen Kong gehört Max Steiners Orchestermusik.",
+      "interest": "Ein prägender musikalischer Beitrag erweitert die Sicht auf einen bekannten Trickfilm.",
+      "sources": [
+        "musik",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Fay Wray erstmals veröffentlicht?",
+      "answers": [
+        "1933",
+        "1926",
+        "1939",
+        "1947"
+      ],
+      "feedback": [
+        "Der ursprüngliche Kong-Film erschien 1933.",
+        "1926 ist vor dieser Veröffentlichung.",
+        "1939 ist für den ursprünglichen Film zu spät.",
+        "1947 liegt lange nach der ersten Kong-Fassung."
+      ],
+      "short": "„King Kong“ mit Fay Wray wurde 1933 erstmals veröffentlicht.",
+      "context": "1933 erschien nicht nur der ursprüngliche „King Kong“, sondern auch „The Son of Kong“. Die schnelle Fortsetzung kehrte im selben Jahr zur Insel zurück. Das ist ein konkreter Zeitanker für den ersten Film: Der Erfolg führte unmittelbar zu weiterem Material, lange bevor die späteren großen Neuverfilmungen entstanden.",
+      "anchor": "1933: King Kong und schon im selben Jahr Son of Kong.",
+      "interest": "Die frühe Fortsetzung bildet einen klaren zeitlichen Merkhaken.",
+      "sources": [
+        "afi",
+        "folge"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Welches Team führte bei @ mit Fay Wray Regie?",
+      "answers": [
+        "Merian C. Cooper und Ernest B. Schoedsack",
+        "James Whale und Tod Browning",
+        "Fritz Lang und F. W. Murnau",
+        "Victor Fleming und George Cukor"
+      ],
+      "feedback": [
+        "Cooper und Schoedsack sind gemeinsam als Regisseure ausgewiesen.",
+        "Dieses Horrorfilm-Team gehört nicht zum Regiecredit.",
+        "Die beiden deutschen Regisseure inszenierten diesen Film nicht.",
+        "Fleming und Cukor bilden nicht das Kong-Regieteam."
+      ],
+      "short": "Merian C. Cooper und Ernest B. Schoedsack führten gemeinsam Regie.",
+      "context": "Cooper und Schoedsack hatten zuvor gemeinsam Expeditionsfilme wie „Chang“ geschaffen. Für „King Kong“ verwandelten sie den Stoff einer Filmexpedition in ein fantastisches Spektakel. Die Herkunft aus Arbeiten in fremden Landschaften verbindet ihre Karriere mit Denhams Ausgangsprojekt. Der Regiecredit umfasst beide Namen, nicht nur den bekannteren Cooper.",
+      "anchor": "Cooper und Schoedsack: Expeditionsfilmer als gemeinsames Kong-Regieteam.",
+      "interest": "Der vollständige Teamcredit wird durch den gemeinsamen beruflichen Hintergrund merkbar.",
+      "sources": [
+        "team",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

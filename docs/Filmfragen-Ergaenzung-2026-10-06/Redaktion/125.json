@@ -1,0 +1,220 @@
+{
+  "rank": 125,
+  "directors": [
+    "Masaki Kobayashi"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Anspruchsvoller Klassiker des Samurai-Kinos mit starker kritischer Wirkung, im Breitenpublikum eine Entdeckung.",
+  "release_note": "Japanische Veröffentlichung am 16. September 1962, Cannes-Präsentation im Folgejahr.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Harakiri_(1962_film)",
+    "criterion": "https://www.criterion.com/films/743-harakiri",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/harakiri",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was vermuten die Männer des Clans in @ zunächst hinter dem Todeswunsch des fremden Rōnin?",
+      "answers": [
+        "Er wolle mit einer Drohung eine Unterstützung erzwingen.",
+        "Er wolle den Clan durch einen fingierten Ehrenprozess öffentlich anklagen.",
+        "Er wolle als Söldner für einen Rivalen den Hof auskundschaften.",
+        "Er wolle den Verwalter zum Duell herausfordern."
+      ],
+      "feedback": [
+        "Sie halten die Bitte für einen Bluff mit dem Ziel einer materiellen Hilfe.",
+        "Die anfängliche Unterstellung lautet Erpressung einer Hilfeleistung durch den Todeswunsch.",
+        "Spionage für einen Rivalen ist nicht die erste Vermutung.",
+        "Eine bloße Duellforderung erklärt die angenommene Masche nicht."
+      ],
+      "short": "Sie halten die Bitte für einen Bluff mit dem Ziel einer materiellen Hilfe.",
+      "context": "Hanshirō Tsugumo (Tatsuya Nakadai) erscheint am Anwesen des Iyi-Clans. Die Verantwortlichen denken an verarmte Rōnin, die mit einer Selbsttötungsdrohung Geld erbitten. Diese vorgefertigte Deutung verhindert zunächst die Frage nach seiner konkreten Lage; der Clan verwechselt die Sicherung des Ansehens mit gerechtem Handeln.",
+      "anchor": "Das Clanurteil beginnt mit einem Misstrauensschema statt einer menschlichen Prüfung.",
+      "interest": "Das Clanurteil beginnt mit einem Misstrauensschema statt einer menschlichen Prüfung.",
+      "sources": [
+        "handlung",
+        "criterion",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Lage haben Hanshirō (Tatsuya Nakadai) und Motome (Akira Ishihama) in @ nach der Auflösung ihres früheren Clans?",
+      "answers": [
+        "Sie müssen ohne bisherigen Herrn in Armut leben.",
+        "Sie behalten trotz Herrenlosigkeit eine staatliche Pension.",
+        "Sie leben als gut bezahlte Kämpfer bei einem rivalisierenden Clan.",
+        "Sie sind als Gefangene an die Arbeit auf dem Clangut gebunden."
+      ],
+      "feedback": [
+        "Die Auflösung nimmt ihnen Stellung und Lebensgrundlage.",
+        "Die Auflösung ihres Clans nimmt ihnen den Lebensunterhalt; eine Pension hilft ihnen nicht.",
+        "Sie finden keinen solchen gut bezahlten neuen Dienst.",
+        "Ihre Not ist die Armut herrenloser Samurai, keine Gefangenschaft auf dem Gut."
+      ],
+      "short": "Die Auflösung nimmt ihnen Stellung und Lebensgrundlage.",
+      "context": "Hanshirō (Tatsuya Nakadai) unterstützt Motome (Akira Ishihama) und seine eigene Tochter mit einfacher Handarbeit. Der Verlust des Clans bedeutet nicht nur eine abstrakte Standesfrage. Die wirtschaftliche Not führt später zu Entscheidungen, die Außenstehende vorschnell als Verrat an der Ehre beurteilen, ohne die bedrohte Familie zu kennen.",
+      "anchor": "Verlorene Dienstverhältnisse werden zur familiären Existenznot.",
+      "interest": "Verlorene Dienstverhältnisse werden zur familiären Existenznot.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum besitzt Motome (Akira Ishihama) in @ nur noch Bambusklingen?",
+      "answers": [
+        "Er hat die echten Schwerter für die kranke Familie verkauft.",
+        "Sein früherer Herr hatte die Metallwaffen beim Clanausschluss eingezogen.",
+        "Er wollte mit Holz die Riten des Clans bewusst verspotten.",
+        "Er hatte seine Schwerter bei einem verlorenen Duell abgeben müssen."
+      ],
+      "feedback": [
+        "Die Familie braucht Geld für medizinische Hilfe.",
+        "Motome verkaufte die echten Klingen wegen der kranken Familie.",
+        "Die Bambusklingen sind ein Zeichen der Not, keine bloße geplante Verspottung.",
+        "Ein verlorenes Duell ist nicht der Grund des Verkaufs."
+      ],
+      "short": "Die Familie braucht Geld für medizinische Hilfe.",
+      "context": "Motome (Akira Ishihama) kann die Behandlung seiner Frau Miho (Shima Iwashita) und des Kindes nicht bezahlen. Er gibt deshalb selbst die Schwerter auf, die seinen Stand repräsentieren. Der Clan sieht darin nur Ehrverlust und zwingt ihn mit den Bambusersatzklingen zum Tod; wirtschaftliche Not wird durch die starre Regel zur grausamen Strafe.",
+      "anchor": "Die verkauften Schwerter sollen Leben retten und werden zum Vorwand für den Tod.",
+      "interest": "Die verkauften Schwerter sollen Leben retten und werden zum Vorwand für den Tod.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Welche persönliche Verbindung erklärt Hanshirōs (Tatsuya Nakadai) Interesse an Motomes Tod in @?",
+      "answers": [
+        "Motome war sein Pflegesohn und Schwiegersohn.",
+        "Motome war sein früherer Schwertlehrer.",
+        "Motome war sein im Kampf verschollener Bruder.",
+        "Motome war sein ehemaliger Vorgesetzter."
+      ],
+      "feedback": [
+        "Hanshirō hatte Motome aufgezogen und mit seiner Tochter verheiratet.",
+        "Hanshirō nahm Motome auf und gab ihm seine Tochter zur Frau.",
+        "Motome ist Pflegesohn und Schwiegersohn, kein Bruder.",
+        "Er ist nicht Hanshirōs ehemaliger Vorgesetzter."
+      ],
+      "short": "Hanshirō hatte Motome aufgezogen und mit seiner Tochter verheiratet.",
+      "context": "Hanshirō (Tatsuya Nakadai) übernimmt nach dem Tod eines Freundes Verantwortung für dessen Sohn Motome (Akira Ishihama). Später heiratet Motome Hanshirōs Tochter Miho (Shima Iwashita). Die zunächst als fremder Fall erzählte Grausamkeit betrifft deshalb seine eigene Familie; der Abstand einer formellen Anhörung wird durch einen persönlichen Zusammenhang aufgehoben.",
+      "anchor": "Der fremde Rōnin trägt die Geschichte seiner eigenen Familie vor.",
+      "interest": "Der fremde Rōnin trägt die Geschichte seiner eigenen Familie vor.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was beweist Hanshirō (Tatsuya Nakadai) in @ mit den abgeschnittenen Haarzöpfen der drei Clan-Samurai?",
+      "answers": [
+        "Die Männer verstecken ihre eigene Schande hinter vorgetäuschter Krankheit.",
+        "Die Männer hatten sich zum Schutz vor einer Krankheit freiwillig scheren lassen.",
+        "Sie wollten den Clan unerkannt verlassen.",
+        "Sie waren nach dem Kampf in ein Kloster eingetreten."
+      ],
+      "feedback": [
+        "Ihre angebliche Krankheit verbirgt die Demütigung durch Hanshirō.",
+        "Die entfernten Zöpfe beweisen ihre Niederlage und erklären die vorgetäuschte Krankheit.",
+        "Die Zöpfe dienen nicht einem geplanten unerkannten Austritt.",
+        "Ein Klostereintritt ist nicht der Hintergrund der versteckten Schande."
+      ],
+      "short": "Ihre angebliche Krankheit verbirgt die Demütigung durch Hanshirō.",
+      "context": "Hanshirō (Tatsuya Nakadai) hat den Männern die Topknots abgeschnitten, sichtbare Zeichen ihrer Standesehre. Nun meiden sie die Öffentlichkeit. Während sie Motome (Akira Ishihama) ohne Rücksicht zum Tod zwangen, schützen sie die eigene Bloßstellung durch Ausreden. Der Beweis macht den Widerspruch zwischen geforderter Härte und eigener Schonung konkret.",
+      "anchor": "Der Kodex gilt streng für den Armen und nachsichtig für seine Richter.",
+      "interest": "Der Kodex gilt streng für den Armen und nachsichtig für seine Richter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie behandelt die offizielle Chronik des Clans am Ende von @ die Opfer des Kampfes?",
+      "answers": [
+        "Sie verschweigt die Gewalt und gibt Krankheit als Todesursache aus.",
+        "Sie erwähnt nur Hanshirō und erklärt die übrigen Opfer für unbekannt.",
+        "Sie schreibt den Kampf einem nächtlichen Überfall fremder Räuber zu.",
+        "Sie dokumentiert die Gewalt, legt aber alle Schuld Hanshirō zur Last."
+      ],
+      "feedback": [
+        "Die Geschichte wird umgeschrieben, um das Clan-Ansehen zu erhalten.",
+        "Die Chronik ersetzt die gewaltsamen Todesfälle durch eine behauptete Krankheit.",
+        "Sie erfindet keinen fremden Räuberangriff als Erklärung.",
+        "Selbst die Gewalt wird aus der offiziellen Chronik getilgt."
+      ],
+      "short": "Die Geschichte wird umgeschrieben, um das Clan-Ansehen zu erhalten.",
+      "context": "Nach dem Kampf von Hanshirō (Tatsuya Nakadai) werden die Opfer amtlich als krank beschrieben. Die beschädigte Ehrenrüstung wird wieder aufgestellt, Blut wird entfernt. Der sichtbare Schauplatz und die offizielle Aufzeichnung kehren gemeinsam zur Ordnung zurück, obwohl das Publikum den Widerspruch kennt. Erinnerung wird hier zum Mittel institutioneller Selbstrechtfertigung.",
+      "anchor": "Gereinigter Hof und falsche Chronik stellen den Anschein von Ehre wieder her.",
+      "interest": "Gereinigter Hof und falsche Chronik stellen den Anschein von Ehre wieder her.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1962",
+        "1958",
+        "1961",
+        "1965"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1962.",
+        "1958 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1961 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1965 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1962.",
+      "context": "Harakiri erschien 1962 in Japan. Der Preis der Jury in Cannes folgte 1963. Die Handlung setzt 1630 in Edo ein und blickt innerhalb der Erzählung auf frühere familiäre Ereignisse zurück. Filmjahr, Preisjahr und historische Zeitebene bezeichnen daher drei verschiedene Zusammenhänge. Der Preis folgte ein Jahr nach dem Filmstart.",
+      "anchor": "Harakiri 1962, Cannes-Jurypreis 1963: die Auszeichnung folgt im nächsten Jahr.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Harakiri 1962, Cannes-Jurypreis 1963: die Auszeichnung folgt im nächsten Jahr.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Masaki Kobayashi",
+        "Akira Kurosawa",
+        "Hideo Gosha",
+        "Kihachi Okamoto"
+      ],
+      "feedback": [
+        "Masaki Kobayashi führte Regie.",
+        "Akira Kurosawa gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Hideo Gosha gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Kihachi Okamoto gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Masaki Kobayashi.",
+      "context": "Masaki Kobayashi inszenierte Shinobu Hashimotos Drehbuch nach einer Geschichte von Yasuhiko Takiguchi. Tatsuya Nakadai spielt den Rōnin Hanshirō. Die ruhige räumliche Ordnung des Clan-Anwesens steht gegen die langsam erzählte persönliche Not, sodass ein vorzeigbarer Ehrenkodex Schritt für Schritt an konkreten menschlichen Folgen geprüft wird.",
+      "anchor": "Masaki Kobayashi: Tatsuya Nakadai spielt den Rōnin Hanshirō.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "criterion",
+        "credits_rt",
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

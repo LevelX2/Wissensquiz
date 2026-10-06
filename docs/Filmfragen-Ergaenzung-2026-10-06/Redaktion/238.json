@@ -1,0 +1,218 @@
+{
+  "rank": 238,
+  "directors": [
+    "John Maclean"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "Neuseeland"
+  ],
+  "familiarity_reason": "Bekannter moderner Western mit Michael Fassbender und ungewöhnlich knappem, schwarzhumorigem Erzählton.",
+  "release_note": "Erste Veröffentlichung 2015 beim Sundance-Festival; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Slow_West",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Slow_West",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was bringt Jay in @ aus Schottland in den amerikanischen Westen?",
+      "answers": [
+        "Er sucht seine geliebte Rose",
+        "Er will eine geerbte Mine übernehmen",
+        "Er folgt einer Kavallerieeinberufung",
+        "Er muss einen verurteilten Vater heimholen"
+      ],
+      "feedback": [
+        "Jay Cavendish (Kodi Smit-McPhee) reist Rose Ross (Caren Pistorius) nach.",
+        "Eine Mine hat er nicht geerbt.",
+        "Er wird nicht einberufen.",
+        "Ein Gefangenentransport ist nicht sein Auftrag."
+      ],
+      "short": "Jay Cavendish (Kodi Smit-McPhee) reist Rose Ross (Caren Pistorius) nach.",
+      "context": "Jay Cavendish (Kodi Smit-McPhee) reist Rose Ross (Caren Pistorius) nach. Seine romantische Hoffnung bestimmt den Weg, obwohl Rose seine Liebe nicht in gleicher Weise erwidert.",
+      "anchor": "Jays Reise folgt einer Liebe, deren Gegenseitigkeit er überschätzt.",
+      "interest": "Jays Reise folgt einer Liebe, deren Gegenseitigkeit er überschätzt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Rolle übernimmt Silas in @ zunächst für Jay?",
+      "answers": [
+        "Bezahlter Beschützer",
+        "Amtlicher Vormund",
+        "Privater Sprachlehrer",
+        "Beauftragter Bankier"
+      ],
+      "feedback": [
+        "Jay (Kodi Smit-McPhee) engagiert Silas Selleck (Michael Fassbender) als Beschützer.",
+        "Silas ist nicht gerichtlich eingesetzt.",
+        "Sprachunterricht ist nicht sein Auftrag.",
+        "Er verwaltet keine Bankgeschäfte für Jay."
+      ],
+      "short": "Jay (Kodi Smit-McPhee) engagiert Silas Selleck (Michael Fassbender) als Beschützer.",
+      "context": "Jay (Kodi Smit-McPhee) engagiert Silas Selleck (Michael Fassbender) als Beschützer. Dessen Erfahrung bietet Sicherheit, aber ein eigener finanzieller Plan macht die Begleitung zunächst unehrlich.",
+      "anchor": "Der bezahlte Schutz verbirgt ein zweites Interesse.",
+      "interest": "Der bezahlte Schutz verbirgt ein zweites Interesse.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welches Wissen verschweigt Silas Jay in @ zunächst?",
+      "answers": [
+        "Auf Rose und ihren Vater ist eine Belohnung ausgesetzt",
+        "Rose ist schon nach Schottland zurückgereist",
+        "Rose hat ihn als ihren Ehemann engagiert",
+        "Jays Familie hat die Reise bezahlt"
+      ],
+      "feedback": [
+        "Silas (Michael Fassbender) sieht den Steckbrief für Rose und ihren Vater und will Jay (Kodi Smit-McPhee) als Wegweiser zur Belohnung nutzen.",
+        "Rose lebt noch im Westen.",
+        "Sie hat Silas nicht als Ehemann bestellt.",
+        "Jays Familie finanziert Silas’ Plan nicht."
+      ],
+      "short": "Silas (Michael Fassbender) sieht den Steckbrief für Rose und ihren Vater und will Jay (Kodi Smit-McPhee) als Wegweiser zur Belohnung nutzen.",
+      "context": "Silas (Michael Fassbender) sieht den Steckbrief für Rose und ihren Vater und will Jay (Kodi Smit-McPhee) als Wegweiser zur Belohnung nutzen. Die Schutzbeziehung ist damit zugleich ein verdeckter Zugriff auf die Gesuchten.",
+      "anchor": "Der Steckbrief verwandelt Jays Liebessuche in eine fremde Jagd.",
+      "interest": "Der Steckbrief verwandelt Jays Liebessuche in eine fremde Jagd.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was bewirkt Jays Vertrauen in den reisenden Schriftsteller in @?",
+      "answers": [
+        "Er verliert über Nacht Pferd und Ausrüstung",
+        "Er erhält den genauen Weg zu Rose",
+        "Er wird vom Sheriff verhaftet",
+        "Er gewinnt einen Vertrag über seine Reisegeschichte"
+      ],
+      "feedback": [
+        "Der Schriftsteller Werner (Andrew Robertt) verschwindet mit Jays (Kodi Smit-McPhee) Pferd und Ausrüstung.",
+        "Werner liefert keine zuverlässige Wegbeschreibung.",
+        "Ein Sheriff greift nicht zu.",
+        "Ein Buchvertrag entsteht nicht."
+      ],
+      "short": "Der Schriftsteller Werner (Andrew Robertt) verschwindet mit Jays (Kodi Smit-McPhee) Pferd und Ausrüstung.",
+      "context": "Der Schriftsteller Werner (Andrew Robertt) verschwindet mit Jays (Kodi Smit-McPhee) Pferd und Ausrüstung. Silas (Michael Fassbender) bringt beides zurück; Jays Urteil über verlässliche Begleiter wird erneut korrigiert.",
+      "anchor": "Der höfliche Begleiter erweist sich als Dieb, der raue als Helfer.",
+      "interest": "Der höfliche Begleiter erweist sich als Dieb, der raue als Helfer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum bindet Silas Jay in @ vor der letzten Schießerei an einen Baum?",
+      "answers": [
+        "Er will ihn aus der bevorstehenden Gefahr heraushalten",
+        "Er will ihn gegen die Belohnung eintauschen",
+        "Er wartet auf Jays Festnahme wegen Viehdiebstahls",
+        "Er verhindert eine geplante Brandstiftung durch Jay"
+      ],
+      "feedback": [
+        "Silas (Michael Fassbender) bindet Jay (Kodi Smit-McPhee) fest, um ihn zu schützen, während er Rose warnen will.",
+        "Jay ist nicht das Ziel des Steckbriefs.",
+        "Ein Viehdiebstahl wird nicht verfolgt.",
+        "Er plant keinen Brand."
+      ],
+      "short": "Silas (Michael Fassbender) bindet Jay (Kodi Smit-McPhee) fest, um ihn zu schützen, während er Rose warnen will.",
+      "context": "Silas (Michael Fassbender) bindet Jay (Kodi Smit-McPhee) fest, um ihn zu schützen, während er Rose warnen will. Jay befreit sich und gerät gerade dadurch in die tödliche Verwirrung des Kampfes.",
+      "anchor": "Die gewaltsame Schutzmaßnahme scheitert an Jays eigener Befreiung.",
+      "interest": "Die gewaltsame Schutzmaßnahme scheitert an Jays eigener Befreiung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche neue Gemeinschaft bleibt am Ende von @ zurück?",
+      "answers": [
+        "Silas, Rose und die verwaisten schwedischen Kinder",
+        "Jay und Rose auf einer eigenen Ranch",
+        "Silas und Payne als neue Geschäftspartner",
+        "Rose und ihr Vater auf dem Weg nach Schottland"
+      ],
+      "feedback": [
+        "Silas (Michael Fassbender) bleibt bei Rose (Caren Pistorius) und den verwaisten Kindern.",
+        "Jay überlebt den Kampf nicht.",
+        "Payne ist tot.",
+        "Auch Roses Vater wurde getötet."
+      ],
+      "short": "Silas (Michael Fassbender) bleibt bei Rose (Caren Pistorius) und den verwaisten Kindern.",
+      "context": "Silas (Michael Fassbender) bleibt bei Rose (Caren Pistorius) und den verwaisten Kindern. Jay stirbt; sein romantisches Ziel erfüllt sich nicht, während aus den Überlebenden eine unerwartete Familie entsteht.",
+      "anchor": "Die verlorene Liebesreise hinterlässt eine andere Form von Familie.",
+      "interest": "Die verlorene Liebesreise hinterlässt eine andere Form von Familie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2015",
+        "2012",
+        "2008",
+        "2017"
+      ],
+      "feedback": [
+        "2015 erschien der Film.",
+        "2012 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2015 wird im zeitlichen Hintergrund erklärt.",
+        "2008 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2015 wird im zeitlichen Hintergrund erklärt.",
+        "2017 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2015 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2015 erschien der Film.",
+      "context": "2015 erschien der Film. Die Dreharbeiten begannen 2013 in Neuseeland, das für Colorado steht; zwei Jahre später war der amerikanische Westen aus Landschaften am anderen Ende der Welt gestaltet.",
+      "anchor": "Drehbeginn 2013, Film 2015: Zwei Jahre später steht Neuseeland als amerikanischer Westen im Kino.",
+      "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Maclean",
+        "Tommy Lee Jones",
+        "Jane Campion",
+        "Jacques Audiard"
+      ],
+      "feedback": [
+        "John Maclean schrieb und inszenierte sein Langfilmdebüt.",
+        "Tommy Lee Jones wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Maclean.",
+        "Jane Campion wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Maclean.",
+        "Jacques Audiard wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Maclean."
+      ],
+      "short": "John Maclean schrieb und inszenierte sein Langfilmdebüt.",
+      "context": "John Maclean schrieb und inszenierte sein Langfilmdebüt. Die Reise eines naiven Liebenden trifft auf einen erfahrenen Kopfgeldjäger; kurze Gewaltausbrüche unterlaufen die romantische Vorstellung vom Westen.",
+      "anchor": "John Maclean schrieb und inszenierte sein Langfilmdebüt.",
+      "interest": "John Maclean schrieb und inszenierte sein Langfilmdebüt.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

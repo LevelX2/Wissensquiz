@@ -1,0 +1,218 @@
+{
+  "rank": 207,
+  "directors": [
+    "Fred Zinnemann"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "Frankreich"
+  ],
+  "familiarity_reason": "Ein sorgfältig gebauter klassischer Attentatsthriller; ein Kennerfilm.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1973; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Day_of_the_Jackal_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Day_of_the_Jackal_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Gegen wen richtet sich der geplante Anschlag in @ mit Edward Fox?",
+      "answers": [
+        "Gegen Charles de Gaulle",
+        "Gegen Winston Churchill",
+        "Gegen John F. Kennedy",
+        "Gegen Francisco Franco"
+      ],
+      "feedback": [
+        "Die OAS beauftragt den Schakal (Edward Fox), Charles de Gaulle zu töten.",
+        "Churchill ist nicht das Ziel.",
+        "Kennedy steht nicht im Mittelpunkt dieses Auftrags.",
+        "Franco ist nicht das Ziel."
+      ],
+      "short": "Die OAS beauftragt den Schakal (Edward Fox), Charles de Gaulle zu töten.",
+      "context": "Die OAS beauftragt den Schakal (Edward Fox), Charles de Gaulle zu töten. Ihre Gegnerschaft hängt mit der algerischen Unabhängigkeit zusammen; der beauftragte Attentäter handelt dagegen aus beruflichem Gewinninteresse.",
+      "anchor": "Politische Gegner engagieren einen unpolitischen Berufskiller.",
+      "interest": "Politische Gegner engagieren einen unpolitischen Berufskiller.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum wählt die Organisation in @ einen ausländischen Auftragskiller?",
+      "answers": [
+        "Er ist für die französischen Sicherheitskräfte kein bereits bekannter OAS-Täter.",
+        "Er kann ein offizielles diplomatisches Visum verlangen.",
+        "Er besitzt eine persönliche Einladung zur Zeremonie.",
+        "Er ist bereits als französischer Polizist registriert."
+      ],
+      "feedback": [
+        "Der britische Schakal (Edward Fox) gehört nicht zu den bekannten OAS-Mitgliedern.",
+        "Der Vorteil ist seine fehlende Erfassung als OAS-Täter.",
+        "Eine persönliche Einladung hat er nicht.",
+        "Gerade seine Unbekanntheit bei den Behörden macht ihn geeignet."
+      ],
+      "short": "Der britische Schakal (Edward Fox) gehört nicht zu den bekannten OAS-Mitgliedern.",
+      "context": "Der britische Schakal (Edward Fox) gehört nicht zu den bekannten OAS-Mitgliedern. Die Auftraggeber suchen eine außerhalb ihrer überwachten Strukturen stehende Person; Anonymität wird zu seiner wichtigsten Anfangsressource.",
+      "anchor": "Der fremde Täter umgeht bekannte OAS-Spuren.",
+      "interest": "Der fremde Täter umgeht bekannte OAS-Spuren.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie verbirgt der Schakal (Edward Fox) in @ sein Gewehr beim letzten Zugang zur Zeremonie?",
+      "answers": [
+        "In Krücken",
+        "In einem Klavier",
+        "In einer Filmkamera",
+        "In einem Kinderwagen"
+      ],
+      "feedback": [
+        "Der Schakal tritt als älterer Veteran auf und verbirgt das zerlegbare Gewehr in Krücken.",
+        "Ein Klavier bringt er nicht hinein.",
+        "Eine Kamera ist nicht das letzte Versteck.",
+        "Ein Kinderwagen transportiert die Waffe nicht."
+      ],
+      "short": "Der Schakal tritt als älterer Veteran auf und verbirgt das zerlegbare Gewehr in Krücken.",
+      "context": "Der Schakal tritt als älterer Veteran auf und verbirgt das zerlegbare Gewehr in Krücken. Die Tarnung nutzt ein plausibles Hilfsmittel, um die Sicherheitskontrolle einer öffentlichen Ehrung zu passieren.",
+      "anchor": "Die Veteranenrolle tarnt Waffe und Zugang.",
+      "interest": "Die Veteranenrolle tarnt Waffe und Zugang.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie erhält die OAS in @ Informationen aus den vertraulichen Sicherheitsbesprechungen?",
+      "answers": [
+        "Die Geliebte eines Offiziers arbeitet für sie.",
+        "Ein Journalist wird offiziell zu jeder Besprechung eingeladen.",
+        "Ein getarnter Killer nimmt selbst an den Sitzungen teil.",
+        "Die Organisation fängt nur die Presseankündigungen ab."
+      ],
+      "feedback": [
+        "Denise (Olga Georges-Picot) gewinnt als Geliebte von Colonel St Clair vertrauliche Informationen.",
+        "Die undichte Stelle ist die Geliebte eines Offiziers.",
+        "Der Schakal sitzt nicht in der Sicherheitsrunde.",
+        "Sie erhält vertrauliche Informationen aus einer persönlichen Verbindung."
+      ],
+      "short": "Denise (Olga Georges-Picot) gewinnt als Geliebte von Colonel St Clair vertrauliche Informationen.",
+      "context": "Denise (Olga Georges-Picot) gewinnt als Geliebte von Colonel St Clair vertrauliche Informationen. Die Sicherheitsarbeit wird durch eine private Beziehung und deren unbedachte Offenheit unterlaufen; der Attentäter erfährt so von der Suche.",
+      "anchor": "Eine private Indiskretion öffnet die geheime Ermittlung.",
+      "interest": "Eine private Indiskretion öffnet die geheime Ermittlung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum verfehlt der Schakal (Edward Fox) in @ de Gaulle mit seinem ersten Schuss?",
+      "answers": [
+        "De Gaulle beugt sich bei der Ehrung überraschend vor.",
+        "Das Gewehr ist nur eine Attrappe.",
+        "Lebel schießt vorher auf den Lauf.",
+        "Der Schakal zielt absichtlich auf den Himmel."
+      ],
+      "feedback": [
+        "De Gaulle beugt sich beim Überreichen einer Auszeichnung vor.",
+        "Die Waffe funktioniert.",
+        "Lebel trifft nicht vorher den Lauf.",
+        "Der Täter will den Präsidenten treffen."
+      ],
+      "short": "De Gaulle beugt sich beim Überreichen einer Auszeichnung vor.",
+      "context": "De Gaulle beugt sich beim Überreichen einer Auszeichnung vor. Diese kleine ungeplante Bewegung lässt den Schuss vorbeigehen; die lange Vorbereitung scheitert an einem unmittelbaren körperlichen Moment des öffentlichen Rituals.",
+      "anchor": "Eine kleine Bewegung durchkreuzt die minutiöse Planung.",
+      "interest": "Eine kleine Bewegung durchkreuzt die minutiöse Planung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche letzte Enthüllung verhindert in @ eine eindeutige Benennung des Schakals?",
+      "answers": [
+        "Der vermeintlich identifizierte Charles Calthrop lebt und ist ein anderer Mann.",
+        "Die Akte nennt ausschließlich einen längst verstorbenen Diplomaten.",
+        "Der Wissenschaftler erkennt den Täter als ehemaligen Kollegen.",
+        "Der Passname stimmt mit Lebels eigener Identität überein."
+      ],
+      "feedback": [
+        "Der echte Charles Calthrop erscheint in seiner Wohnung.",
+        "Der gefundene Calthrop erscheint lebend als anderer Mensch.",
+        "Es gibt keine solche endgültige Identifikation.",
+        "Lebel ist nicht der Träger des vermuteten Namens."
+      ],
+      "short": "Der echte Charles Calthrop erscheint in seiner Wohnung.",
+      "context": "Der echte Charles Calthrop erscheint in seiner Wohnung. Die vermutete Identität erweist sich damit als falsche Spur; der tote Schakal (Edward Fox) bleibt trotz erfolgreicher Verhinderung des Anschlags namenlos.",
+      "anchor": "Der vereitelte Anschlag löst nicht die wahre Identität.",
+      "interest": "Der vereitelte Anschlag löst nicht die wahre Identität.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Edward Fox erstmals veröffentlicht?",
+      "answers": [
+        "1973",
+        "1970",
+        "1966",
+        "1975"
+      ],
+      "feedback": [
+        "1973 erschien die Edward-Fox-Fassung.",
+        "1970 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1973 wird im zeitlichen Hintergrund erklärt.",
+        "1966 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1973 wird im zeitlichen Hintergrund erklärt.",
+        "1975 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1973 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1973 erschien die Edward-Fox-Fassung.",
+      "context": "1973 erschien die Edward-Fox-Fassung. Frederick Forsyths Roman war 1971 veröffentlicht worden; zwei Jahre später wurde die minutiöse Planung als Film rekonstruiert. Die Handlung selbst beginnt mit dem politischen Attentatskontext von 1962.",
+      "anchor": "Roman 1971, Film 1973: Zwei Jahre führen zur Rekonstruktion eines im Attentatskontext von 1962 beginnenden Plans.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Edward Fox Regie?",
+      "answers": [
+        "Fred Zinnemann",
+        "Roman Polanski",
+        "David Cronenberg",
+        "David Fincher"
+      ],
+      "feedback": [
+        "Fred Zinnemann inszenierte Kenneth Ross’ Adaption.",
+        "Roman Polanski wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Fred Zinnemann.",
+        "David Cronenberg wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Fred Zinnemann.",
+        "David Fincher wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Fred Zinnemann."
+      ],
+      "short": "Fred Zinnemann inszenierte Kenneth Ross’ Adaption.",
+      "context": "Fred Zinnemann inszenierte Kenneth Ross’ Adaption. Edward Fox spielt den Schakal, Michael Lonsdale den Ermittler Lebel. Der Film verfolgt Vorbereitung und Gegenrecherche parallel und nutzt bewusst keinen großen amerikanischen Star für den anonym bleiben wollenden Attentäter.",
+      "anchor": "Fred Zinnemann inszenierte Kenneth Ross’ Adaption.",
+      "interest": "Fred Zinnemann inszenierte Kenneth Ross’ Adaption.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

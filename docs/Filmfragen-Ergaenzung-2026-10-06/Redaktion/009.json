@@ -1,0 +1,217 @@
+{
+  "rank": 9,
+  "directors": [
+    "Steven Spielberg"
+  ],
+  "production_countries": [
+    "Neuseeland",
+    "USA"
+  ],
+  "familiarity_reason": "Tim und Struppi sind sehr bekannt; die konkrete animierte Schatzsuche ist weniger selbstverständlich als die Comicfiguren.",
+  "release_note": "Premiere am 22. Oktober 2011 in Brüssel; erste Veröffentlichung 2011.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Adventures_of_Tintin_(film)",
+    "weta": "https://www.wetafx.co.nz/films/filmography/the-adventures-of-tintin",
+    "autodesk": "https://investors.autodesk.com/node/12851/pdf"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Kauf setzt die Schatzsuche in @ in Gang?",
+      "answers": [
+        "Ein Modell des Schiffs Einhorn",
+        "Eine goldene Armbanduhr",
+        "Ein gestohlener Reisepass",
+        "Ein antikes Fernrohr"
+      ],
+      "feedback": [
+        "Das gekaufte Schiffsmodell enthält einen verborgenen Hinweis.",
+        "Eine Armbanduhr löst die Suche nicht aus.",
+        "Der Reisepass ist nicht Tims Marktkauf.",
+        "Ein Fernrohr ist nicht der entscheidende Gegenstand."
+      ],
+      "short": "Tim kauft auf dem Markt ein Modell der Einhorn.",
+      "context": "Tim (Jamie Bell) entdeckt zunächst nur ein schönes Sammlerstück. Dass andere es sofort erwerben wollen, weckt seinen Verdacht. Das Modell verbindet den alltäglichen Marktbummel mit einer viel älteren Schiffsgeschichte.",
+      "anchor": "Die Schatzsuche beginnt mit einem Schiffsmodell vom Markt.",
+      "interest": "Der Auslöser führt verständlich in das Abenteuer ein.",
+      "sources": [
+        "handlung",
+        "weta"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Beruf hat Tim (Originalstimme Jamie Bell) in @?",
+      "answers": [
+        "Reporter",
+        "Marineoffizier",
+        "Opernsänger",
+        "Architekt"
+      ],
+      "feedback": [
+        "Tim ist der junge Reporter.",
+        "Haddock ist der Seemann des Duos.",
+        "Der Gesang gehört anderen Figuren.",
+        "Tim entwirft keine Gebäude."
+      ],
+      "short": "Tim ist Reporter.",
+      "context": "Die Neugier des Reporters macht aus widersprüchlichen Beobachtungen eine Untersuchung. Kapitän Haddock (Andy Serkis) bringt dagegen eine persönliche Verbindung zur alten Schiffsgeschichte ein. Beide Zugänge helfen der Suche.",
+      "anchor": "Tim untersucht als Reporter, Haddock kennt die Familiengeschichte.",
+      "interest": "Der Beruf erklärt die Rolle der Hauptfigur in der Ermittlung.",
+      "sources": [
+        "weta",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie ergeben die drei Pergamente in @ ihren entscheidenden Hinweis?",
+      "answers": [
+        "Übereinandergelegt zeigen sie die Koordinaten.",
+        "Nebeneinander bilden sie die Silhouette einer Küstenlinie.",
+        "Eine chemische Behandlung macht einen vierten Text sichtbar.",
+        "Die Anfangsbuchstaben ergeben den Namen eines Hafens."
+      ],
+      "feedback": [
+        "Erst die überlagerten Texte und Zeichen ergeben die Position.",
+        "Der Hinweis entsteht durch Übereinanderlegen, nicht durch eine Küstensilhouette.",
+        "Die Lösung braucht keine chemische Behandlung.",
+        "Die Pergamente liefern Koordinaten, keinen Hafennamen aus Anfangsbuchstaben."
+      ],
+      "short": "Die Pergamente müssen übereinandergelegt werden.",
+      "context": "Jedes Modell der Einhorn enthält nur einen Teil des Hinweises. Das Zusammenlegen verlangt, die getrennten Funde als zusammengehörig zu erkennen. Ein einzelnes Blatt führt deshalb noch nicht zur gesuchten Position.",
+      "anchor": "Drei getrennte Hinweise ergeben gemeinsam die Koordinaten.",
+      "interest": "Die Lösung verbindet Sammeln und räumliches Lesen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wodurch geht das Glas vor dem dritten Schiffsmodell in @ zu Bruch?",
+      "answers": [
+        "Durch Bianca Castafiores hohen Gesangston",
+        "Durch Haddocks Pistolenschuss",
+        "Durch einen Blitz im Ausstellungssaal",
+        "Durch einen versteckten Sprengsatz im Modell"
+      ],
+      "feedback": [
+        "Castafiores Gesang lässt das Glas brechen.",
+        "Haddock schießt das Glas nicht auf.",
+        "Ein Blitz ist nicht der Auslöser.",
+        "Im Modell steckt kein Sprengsatz."
+      ],
+      "short": "Der hohe Ton der Sängerin bringt das Glas zum Zerbrechen.",
+      "context": "Bei dem Konzert wird die Sängerin Bianca Castafiore (Sprechstimme Kim Stengel, Gesang Renée Fleming) Teil eines Diebstahlplans. Sakharin (Daniel Craig) nutzt den zerbrochenen Schutz, um an das dritte Modell zu gelangen.",
+      "anchor": "Castafiores Gesang öffnet den gläsernen Schutz des dritten Modells.",
+      "interest": "Die Szene verbindet eine Comicfigur und ihre Stimme unmittelbar mit der Handlung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Art von Produktion ist @ trotz der aufgezeichneten Schauspielerleistungen?",
+      "answers": [
+        "Ein vollständig computeranimierter Spielfilm",
+        "Ein Realfilm mit digital ergänzten Kreaturen",
+        "Ein handgezeichneter Film mit eingefügten Realfilm-Darstellern",
+        "Ein Stop-Motion-Film mit manuell bewegten Puppen"
+      ],
+      "feedback": [
+        "Die fertigen Figuren und Räume sind computeranimiert.",
+        "Die Menschen und die Welt sind ebenfalls animiert, nicht als Realfilm aufgenommen.",
+        "Die fertige Welt ist computeranimiert; es handelt sich nicht um die Verbindung von Zeichnungen und Realfilm-Darstellern.",
+        "Das fertige Bild entsteht nicht durch Stop-Motion-Puppen."
+      ],
+      "short": "Es handelt sich um einen vollständig computeranimierten Film.",
+      "context": "Wētā entwickelte aus Hergés zweidimensionalen Zeichnungen dreidimensionale Figuren. Aufgezeichnete Schauspielerleistungen halfen der Animation, machten das fertige Werk aber nicht zum Realfilm. Der Film war Wētās erster vollständig animierter Langfilm.",
+      "anchor": "Schauspieler spielen vor; Wētā gestaltet den vollständigen Animationsfilm.",
+      "interest": "Die Unterscheidung erklärt die Verbindung zwischen Darstellung und Animation.",
+      "sources": [
+        "weta",
+        "autodesk"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Autorenteam schrieb das Drehbuch von @?",
+      "answers": [
+        "Steven Moffat, Edgar Wright und Joe Cornish",
+        "Fran Walsh, Philippa Boyens und Peter Jackson",
+        "Ted Elliott, Terry Rossio und Stuart Beattie",
+        "Lawrence Kasdan, Jonathan Kasdan und George Lucas"
+      ],
+      "feedback": [
+        "Moffat, Wright und Cornish sind die drei Drehbuchautoren.",
+        "Dieses Team ist hier nicht für das Drehbuch ausgewiesen.",
+        "Diese Autoren bilden nicht das gesuchte Team.",
+        "Die Kasdans und Lucas schrieben dieses Drehbuch nicht."
+      ],
+      "short": "Das Drehbuch stammt von Steven Moffat, Edgar Wright und Joe Cornish.",
+      "context": "Der Film verbindet Material aus mehreren Hergé-Alben zu einer durchgehenden Suche. Regie, Produktion und Drehbuch verteilen sich auf unterschiedliche Personen. Das Autorentrio erklärt, warum Spielbergs Film nicht allein als von ihm geschriebene Comicadaption einzuordnen ist.",
+      "anchor": "Moffat, Wright und Cornish verbinden die Comicstoffe im Drehbuch.",
+      "interest": "Ein vollständiges Autorenteam wird von Regie und Produktion unterschieden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde der animierte Abenteuerfilm @ erstmals veröffentlicht?",
+      "answers": [
+        "2011",
+        "2001",
+        "2005",
+        "2018"
+      ],
+      "feedback": [
+        "Die Brüsseler Premiere fand 2011 statt.",
+        "2001 liegt vor dieser Produktion.",
+        "2005 erschien Jacksons King Kong, nicht dieser Film.",
+        "2018 ist nach der Erstveröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung lag 2011.",
+      "context": "Wētā hatte an der virtuellen Produktion von „Avatar“ gearbeitet. „Avatar“ erschien 2009, „Tim und Struppi“ folgte 2011 als vollständig animierter Film. Der Abstand von zwei Jahren verbindet zwei unterschiedliche Anwendungen verwandter Technik.",
+      "anchor": "2009 Avatar, 2011 Tim und Struppi: zwei Jahre, zwei Anwendungen virtueller Produktion.",
+      "interest": "Ein konkreter technischer Filmbezug hilft bei der zeitlichen Einordnung.",
+      "sources": [
+        "handlung",
+        "weta",
+        "autodesk"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte beim animierten Film @ mit Jamie Bell als Tim Regie?",
+      "answers": [
+        "Steven Spielberg",
+        "Peter Jackson",
+        "Robert Zemeckis",
+        "James Cameron"
+      ],
+      "feedback": [
+        "Spielberg ist der Regisseur dieser Fassung.",
+        "Jackson gehört zu den Produzenten.",
+        "Zemeckis führte bei diesem Film nicht Regie.",
+        "Cameron ist nicht der Regisseur dieses Films."
+      ],
+      "short": "Steven Spielberg führte Regie.",
+      "context": "Spielberg inszenierte die Darstellerleistungen innerhalb einer virtuellen Produktionsumgebung. Peter Jackson war Mitproduzent, und Wētā führte die Bildwelt aus. Diese Zusammenarbeit verteilt die Aufgaben zwischen Inszenierung, Produktion und Animation.",
+      "anchor": "Spielberg inszeniert; Jackson produziert mit; Wētā animiert.",
+      "interest": "Die Rollen der bekannten Beteiligten werden sauber zugeordnet.",
+      "sources": [
+        "weta",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

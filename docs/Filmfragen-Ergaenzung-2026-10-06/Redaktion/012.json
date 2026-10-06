@@ -1,0 +1,217 @@
+{
+  "rank": 12,
+  "directors": [
+    "Pete Docter",
+    "Bob Peterson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein bekannter Pixar-Film mit der ikonischen Ballonhaus-Idee; die genaue Erzählgestaltung bleibt anspruchsvoller.",
+  "release_note": "Weltpremiere als Cannes-Eröffnungsfilm am 13. Mai 2009.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Up_(2009_film)",
+    "presse": "https://cdn-media.festival-cannes.com/film_film/0002/26/4c8a0697b30e62839bc1239690a229084e7cbeb4.pdf",
+    "cannes": "https://www.festival-cannes.com/en/2009/the-official-selection/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie macht Carl Fredricksen (Originalstimme Ed Asner) sein Haus in @ reisefähig?",
+      "answers": [
+        "Er befestigt zahlreiche Heliumballons daran.",
+        "Er montiert Flugzeugpropeller an den Dachbalken.",
+        "Er baut das Haus auf einen fahrbaren Anhänger.",
+        "Er befestigt es an einem großen Luftschiff."
+      ],
+      "feedback": [
+        "Die Ballons heben das Haus in die Luft.",
+        "Keine Propeller tragen das Haus.",
+        "Das Haus fliegt durch Ballons und fährt nicht auf einem Anhänger.",
+        "Es hängt nicht an einem Luftschiff, sondern an vielen Ballons."
+      ],
+      "short": "Viele Heliumballons lassen das Haus fliegen.",
+      "context": "Carl hat früher Ballons verkauft. Nun nutzt er sie für eine Reise, die er mit seiner Frau Ellie geplant hatte. Ellie wird nur als Kind von Elie Docter gesprochen; als Erwachsene ist sie in der weitgehend wortlosen Lebensmontage zu sehen. Carls vertraute Berufswelt liefert das fantastische Transportmittel.",
+      "anchor": "Der frühere Ballonverkäufer hebt sein Haus mit Ballons an.",
+      "interest": "Die zentrale Bildidee ist mit der Biografie der Figur verbunden.",
+      "sources": [
+        "presse",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wer reist in @ unbeabsichtigt auf Carls (Originalstimme Ed Asner) Veranda mit?",
+      "answers": [
+        "Der junge Pfadfinder Russell",
+        "Ein Arbeiter von der benachbarten Baustelle",
+        "Ein Mitarbeiter des Seniorenheims",
+        "Ein Besucher von Charles Muntz"
+      ],
+      "feedback": [
+        "Russell bleibt auf der Veranda und wird mitgenommen.",
+        "Kein Bauarbeiter wird als unerwarteter Mitreisender mitgenommen.",
+        "Russell ist kein Mitarbeiter des Seniorenheims.",
+        "Der Junge besucht Carl für sein Hilfsabzeichen, nicht im Auftrag von Muntz."
+      ],
+      "short": "Der junge Pfadfinder Russell wird zum unerwarteten Mitreisenden.",
+      "context": "Russell (Jordan Nagai) möchte einem älteren Menschen helfen, um sein letztes Abzeichen zu verdienen. Sein kleiner Hilfsauftrag führt ihn plötzlich nach Südamerika. Carl erhält einen Begleiter, den er nicht eingeplant hat.",
+      "anchor": "Russells Hilfsabzeichen führt ihn auf eine unerwartete Reise.",
+      "interest": "Ein einfacher Auftrag wird zur Verbindung der Hauptfiguren.",
+      "sources": [
+        "presse",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wodurch können Dug und die anderen Hunde in @ mit Menschen sprechen?",
+      "answers": [
+        "Durch technische Übersetzer in ihren Halsbändern",
+        "Durch ein Gerät im Haus, das Bellen übersetzt",
+        "Durch langes Training im Nachahmen menschlicher Wörter",
+        "Durch eine nur für das Publikum hörbare Gedankenstimme"
+      ],
+      "feedback": [
+        "Die Halsbänder übersetzen Gedanken in Sprache.",
+        "Die Übersetzer befinden sich an den Halsbändern, nicht im Haus.",
+        "Die Hunde sprechen mithilfe technischer Geräte, nicht durch Sprachtraining.",
+        "Auch die Menschen hören die durch die Halsbänder erzeugte Sprache."
+      ],
+      "short": "Ihre Halsbänder übersetzen Gedanken in menschliche Sprache.",
+      "context": "Dug (Bob Peterson) gehört zu einer Suchmeute. Die Geräte machen sowohl Befehle als auch spontane Ablenkungen hörbar. Seine Freundlichkeit steht dadurch unmittelbar neben dem strengen Verhalten der anderen Hunde.",
+      "anchor": "Dugs Halsband macht seine Gedanken hörbar.",
+      "interest": "Eine konkrete technische Idee trägt Humor und Figurenbeziehung.",
+      "sources": [
+        "presse",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was erkennt Carl (Originalstimme Ed Asner) beim erneuten Lesen von Ellies Abenteuerbuch in @?",
+      "answers": [
+        "Ihr gemeinsames Alltagsleben war für sie bereits das Abenteuer.",
+        "Ellie plante die Südamerikareise heimlich mit einem anderen Begleiter.",
+        "Ellie wollte die früheren gemeinsamen Erlebnisse vergessen.",
+        "Ellie betrachtete erst die Reise als Beginn ihres wirklichen Lebens."
+      ],
+      "feedback": [
+        "Die gemeinsamen Lebensbilder verändern seinen Blick auf die unerfüllte Reise.",
+        "Die Erinnerungsseiten belegen die Bedeutung ihres gemeinsamen Lebens.",
+        "Ellie bewahrt und würdigt die Erinnerungen, statt sie zu verwerfen.",
+        "Gerade das bereits gelebte gemeinsame Leben zählt für sie als Abenteuer."
+      ],
+      "short": "Ellies Buch würdigt ihr gemeinsames Leben als erfülltes Abenteuer.",
+      "context": "Carl hatte das ausgebliebene Reiseziel als unerfülltes Versprechen verstanden. Ellies Erinnerungsseiten setzen dem die Bedeutung des Zusammenlebens entgegen. Danach kann er sich stärker auf Russell (Jordan Nagai) und die gegenwärtige Rettungsaufgabe einlassen.",
+      "anchor": "Ellies Abenteuerbuch öffnet Carl für ein neues Abenteuer.",
+      "interest": "Ein Gegenstand löst die zentrale Veränderung der Hauptfigur aus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie erzählt @ zu Beginn den Großteil von Carls und Ellies gemeinsamem Erwachsenenleben?",
+      "answers": [
+        "Als weitgehend wortlose Montage mit Musik",
+        "Als von Ellie vorgelesene Brieffolge",
+        "Als Folge ausführlicher Gespräche über jeden Lebensabschnitt",
+        "Als kommentierten Dokumentarbericht von Russell"
+      ],
+      "feedback": [
+        "Bilder und Musik verdichten die Lebensjahre.",
+        "Die Montage wird nicht hauptsächlich durch vorgelesene Briefe erzählt.",
+        "Bilder und Musik ersetzen die ausführliche Dialogfolge.",
+        "Russell kommentiert diese gemeinsame Lebensgeschichte nicht als Dokumentarbericht."
+      ],
+      "short": "Eine weitgehend wortlose Montage verdichtet ihre gemeinsame Lebenszeit.",
+      "context": "Carl (Ed Asner) und Ellie (Elie Docter als Kind) wachsen aus den ersten Begegnungen in ein gemeinsames Leben. Wiederkehrende Bilder zeigen Hoffnungen und Unterbrechungen. Die Musik trägt den Übergang durch die Jahre.",
+      "anchor": "Bilder und Musik erzählen eine Ehe ohne lange Dialoge.",
+      "interest": "Die Frage erschließt die prägende Erzählform des Auftakts.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wozu will Charles Muntz (Originalstimme Christopher Plummer) in @ den seltenen Vogel lebend fangen?",
+      "answers": [
+        "Er will seinen angezweifelten Fund wissenschaftlich bestätigen.",
+        "Er will ihn als besonderes Ausstellungsstück an einen Zoo verkaufen.",
+        "Er will die Art in seinem eigenen Tierpark züchten.",
+        "Er will einen neuen Rekord für seine Flugexpedition aufstellen."
+      ],
+      "feedback": [
+        "Ein lebendes Exemplar soll seine frühere Entdeckung bestätigen.",
+        "Ein Verkaufsauftrag an einen Zoo ist nicht der entscheidende Antrieb.",
+        "Die Rehabilitierung seiner früheren Entdeckung treibt die Jagd an.",
+        "Ein Flugrekord erklärt seine Fixierung auf den lebenden Vogel nicht."
+      ],
+      "short": "Muntz will nach der Zurückweisung seines früheren Fundes rehabilitiert werden.",
+      "context": "Ein Vogelskelett hatte ihm statt Anerkennung den Verdacht einer Fälschung eingebracht. Die Suche nach einem lebenden Beweis bestimmt sein weiteres Leben. Carls (Ed Asner) Jugendidol wird dadurch zum gefährlichen Gegner.",
+      "anchor": "Muntz jagt den Vogel als Beweis für seine angezweifelte Entdeckung.",
+      "interest": "Die Vorgeschichte erklärt den Wandel vom Vorbild zum Gegner.",
+      "sources": [
+        "presse"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde Pixars @ mit dem fliegenden Haus erstmals veröffentlicht?",
+      "answers": [
+        "2009",
+        "1999",
+        "2004",
+        "2015"
+      ],
+      "feedback": [
+        "Der Film eröffnete Cannes 2009.",
+        "1999 liegt vor dieser Produktion.",
+        "2004 ist das frühe Entwicklungsjahr, nicht die Veröffentlichung.",
+        "2015 ist nach dem Kinostart."
+      ],
+      "short": "Die Weltpremiere lag 2009.",
+      "context": "„Oben“ eröffnete 2009 die Filmfestspiele von Cannes. Der Ballonhaus-Film ist damit zugleich ein Festival-Eröffnungsfilm. Dieser konkrete Festivalbezug verbindet die fantastische Reise mit einem gut erinnerbaren Ereignis im Veröffentlichungsjahr.",
+      "anchor": "2009 hebt das Ballonhaus zur Cannes-Eröffnung ab.",
+      "interest": "Die Premiere selbst wird über ihre besondere Festivalrolle eingeordnet.",
+      "sources": [
+        "cannes",
+        "presse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Welches Team ist für Regie und Co-Regie bei Pixars @ ausgewiesen?",
+      "answers": [
+        "Pete Docter und Bob Peterson",
+        "Andrew Stanton und Lee Unkrich",
+        "Brad Bird und Jan Pinkava",
+        "John Lasseter und Ash Brannon"
+      ],
+      "feedback": [
+        "Docter führte Regie, Peterson war Co-Regisseur.",
+        "Dieses Duo ist nicht das Regieteam von Oben.",
+        "Bird und Pinkava sind nicht dieses Team.",
+        "Lasseter und Brannon führten hier nicht Regie."
+      ],
+      "short": "Pete Docter führte Regie; Bob Peterson war Co-Regisseur.",
+      "context": "Das Presseheft führt die beiden Aufgaben ausdrücklich getrennt auf. Docter und Peterson schrieben auch gemeinsam das Drehbuch. Peterson sprach außerdem Dug im Original und verband damit Erzählentwicklung mit einer Figurenstimme.",
+      "anchor": "Docter und Peterson inszenieren und schreiben; Peterson spricht außerdem Dug.",
+      "interest": "Das vollständige Team wird durch seine weiteren Filmaufgaben eingeordnet.",
+      "sources": [
+        "presse",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "director_note": "Pete Docter ist Regisseur, Bob Peterson offiziell Co-Regisseur. Beide stehen in der Teamantwort; die Rollenunterscheidung bleibt dokumentiert."
+}

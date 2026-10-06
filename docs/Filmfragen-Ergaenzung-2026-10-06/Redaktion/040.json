@@ -1,0 +1,224 @@
+{
+  "rank": 40,
+  "directors": [
+    "Joe Wright"
+  ],
+  "production_countries": [
+    "Deutschland",
+    "Großbritannien",
+    "USA"
+  ],
+  "familiarity_reason": "Bekannter internationaler Actionthriller mit Saoirse Ronan und Cate Blanchett sowie eigenständiger späterer Serienadaption.",
+  "release_note": "US-Erstveröffentlichung 8. April 2011; europäische Kinostarts im Mai 2011.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Hanna_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://www.focusfeatures.com/hanna",
+      "supports": "2011, Wright, finnischer Ausgangsort, Hauptdarsteller und europäische Flucht."
+    },
+    "musik": {
+      "url": "https://www.focusfeatures.com/article/legacy_hanna_6-year-anniversary",
+      "supports": "Wright und Chemical Brothers, Verbindung von Score und Geräuschwelt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Land beginnt Hannas abgeschiedenes Leben in @?",
+      "answers": [
+        "Finnland",
+        "Norwegen",
+        "Schweden",
+        "Russland"
+      ],
+      "feedback": [
+        "Hanna (Saoirse Ronan) lebt mit Erik (Eric Bana) im Norden Finnlands.",
+        "Die verschneite Ausgangslandschaft liegt in Finnland.",
+        "Schweden ist nicht ihr anfänglicher Lebensort.",
+        "Die Hütte befindet sich nicht in Russland."
+      ],
+      "short": "Hanna (Saoirse Ronan) lebt mit Erik (Eric Bana) im Norden Finnlands.",
+      "context": "Hanna (Saoirse Ronan) lebt mit Erik (Eric Bana) im Norden Finnlands. Ihre spätere Reise führt aus dieser vertrauten Umgebung in eine Welt, deren Alltagsreize sie kaum kennt.",
+      "anchor": "Die finnische Abgeschiedenheit steht am Anfang der Begegnung mit der Außenwelt.",
+      "interest": "Die finnische Abgeschiedenheit steht am Anfang der Begegnung mit der Außenwelt.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie beendet Hanna in @ bewusst die heimliche Abgeschiedenheit?",
+      "answers": [
+        "Sie aktiviert den Sender, der die CIA alarmiert.",
+        "Sie meldet sich öffentlich bei einer Polizeistation.",
+        "Sie reist mit ihrem richtigen Namen zum US-Konsulat.",
+        "Sie ruft Marissa von einem öffentlichen Telefon an."
+      ],
+      "feedback": [
+        "Hanna (Saoirse Ronan) aktiviert den von Erik (Eric Bana) bereitgelegten Sender.",
+        "Sie wählt den vorhandenen Sender statt einer Polizeimeldung.",
+        "Ein Konsulatsbesuch eröffnet die Jagd nicht.",
+        "Ein persönlicher Anruf ist nicht das Signal."
+      ],
+      "short": "Hanna (Saoirse Ronan) aktiviert den von Erik (Eric Bana) bereitgelegten Sender.",
+      "context": "Hanna (Saoirse Ronan) aktiviert den von Erik (Eric Bana) bereitgelegten Sender. Erik hatte ihr die Entscheidung überlassen; das Signal lässt die bisherige Vorbereitung in eine tatsächliche Verfolgung umschlagen.",
+      "anchor": "Die eigene Senderentscheidung ruft den vorbereiteten Konflikt herbei.",
+      "interest": "Die eigene Senderentscheidung ruft den vorbereiteten Konflikt herbei.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum tötet Hanna in @ beim ersten Verhör nicht die echte Marissa?",
+      "answers": [
+        "Marissa hat eine andere Frau als Stellvertreterin geschickt.",
+        "Hanna verfehlt Marissa absichtlich.",
+        "Marissa hat ihre Stimme durch eine Tonaufnahme ersetzt.",
+        "Erik hat Marissa vorher aus der Anlage befreit."
+      ],
+      "feedback": [
+        "Marissa (Cate Blanchett) schickt eine Stellvertreterin (Michelle Dockery) zum Verhör.",
+        "Hanna greift die vor ihr stehende Frau tatsächlich an.",
+        "Es handelt sich um eine körperlich anwesende Stellvertreterin.",
+        "Erik befreit Marissa nicht aus der CIA-Anlage."
+      ],
+      "short": "Marissa (Cate Blanchett) schickt eine Stellvertreterin (Michelle Dockery) zum Verhör.",
+      "context": "Marissa (Cate Blanchett) schickt eine Stellvertreterin (Michelle Dockery) zum Verhör. Hanna (Saoirse Ronan) glaubt zunächst, die richtige Gegnerin erreicht zu haben; die Täuschung verlängert den Konflikt trotz ihrer erfolgreichen Flucht.",
+      "anchor": "Der besiegte Verhörgegner ersetzt die eigentliche Zielperson.",
+      "interest": "Der besiegte Verhörgegner ersetzt die eigentliche Zielperson.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie schafft Hanna in @ den Weg von Marokko nach Spanien?",
+      "answers": [
+        "Sie versteckt sich im Wohnmobil einer Urlauberfamilie auf der Fähre.",
+        "Sie nimmt mit einem gestohlenen Pass ein Linienflugzeug.",
+        "Sie überquert die Meerenge allein in einem Fischerboot.",
+        "Sie lässt sich von einem CIA-Flug ausfliegen."
+      ],
+      "feedback": [
+        "Hanna (Saoirse Ronan) schließt sich der reisenden Familie von Rachel (Olivia Williams) und Sebastian (Jason Flemyng) an.",
+        "Ein Flug mit gestohlenem Pass ist nicht die Reise.",
+        "Sie fährt als versteckte Mitreisende statt allein im Fischerboot.",
+        "Die CIA transportiert sie nach der Flucht nicht weiter."
+      ],
+      "short": "Hanna (Saoirse Ronan) schließt sich der reisenden Familie von Rachel (Olivia Williams) und Sebastian (Jason Flemyng) an.",
+      "context": "Hanna (Saoirse Ronan) schließt sich der reisenden Familie von Rachel (Olivia Williams) und Sebastian (Jason Flemyng) an. Im Campingfahrzeug erreicht sie die Fähre; die Freundschaft mit Sophie (Jessica Barden) verbindet den Fluchtweg mit einer ersten gleichaltrigen Nähe.",
+      "anchor": "Die versteckte Mitreise bringt Flucht und erste Alltagsfreundschaft zusammen.",
+      "interest": "Die versteckte Mitreise bringt Flucht und erste Alltagsfreundschaft zusammen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Erklärung gibt Erik in @ für Hannas Herkunft?",
+      "answers": [
+        "Sie ist die Überlebende eines CIA-Projekts mit genetisch veränderten Kindern.",
+        "Sie wurde als Tochter Marissas aus einer Pflegefamilie entführt.",
+        "Sie wurde erst als Kleinkind durch eine schwere Vergiftung verändert.",
+        "Sie ist ein ohne staatliche Beteiligung geborenes Versuchskind eines Krankenhauses."
+      ],
+      "feedback": [
+        "Erik (Eric Bana) erklärt Hanna (Saoirse Ronan), dass er werdende Mütter für ein CIA-Programm anwarb.",
+        "Marissa ist nicht ihre Mutter.",
+        "Ein später Vergiftungsunfall erklärt ihre Fähigkeiten nicht.",
+        "Erik berichtet von einem CIA-Programm und seiner eigenen Rolle."
+      ],
+      "short": "Erik (Eric Bana) erklärt Hanna (Saoirse Ronan), dass er werdende Mütter für ein CIA-Programm anwarb.",
+      "context": "Erik (Eric Bana) erklärt Hanna (Saoirse Ronan), dass er werdende Mütter für ein CIA-Programm anwarb. Er ist nicht ihr biologischer Vater; seine Schutzbeziehung entstand aus der Flucht vor der Beseitigung der Versuchspersonen.",
+      "anchor": "Die genetische Vorgeschichte trennt biologische Herkunft und gelebte Vaterbindung.",
+      "interest": "Die genetische Vorgeschichte trennt biologische Herkunft und gelebte Vaterbindung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Handlung wiederholt Hanna beim tödlichen Schluss von @ aus der ersten Jagdszene?",
+      "answers": [
+        "Sie tötet ihr verwundetes Gegenüber mit zwei Schüssen.",
+        "Sie bindet das Opfer an einen Baum.",
+        "Sie ruft Erik herbei, um den letzten Schuss abzugeben.",
+        "Sie lässt das verwundete Gegenüber unbeobachtet zurück."
+      ],
+      "feedback": [
+        "Hanna (Saoirse Ronan) verletzt Marissa (Cate Blanchett) zunächst mit einem Pfeil.",
+        "Eine Fesselung verbindet Anfang und Ende nicht.",
+        "Erik kann im Finale nicht eingreifen.",
+        "Hanna vollendet die tödliche Handlung selbst."
+      ],
+      "short": "Hanna (Saoirse Ronan) verletzt Marissa (Cate Blanchett) zunächst mit einem Pfeil.",
+      "context": "Hanna (Saoirse Ronan) verletzt Marissa (Cate Blanchett) zunächst mit einem Pfeil. Die anschließenden Schüsse greifen den Ablauf der anfänglichen Hirschjagd auf; das Jagdwissen kehrt in einer menschlichen Konfrontation wieder.",
+      "anchor": "Der Abschluss gegen Marissa wiederholt die zu Beginn gezeigte Hirschjagd.",
+      "interest": "Der Abschluss gegen Marissa wiederholt die zu Beginn gezeigte Hirschjagd.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2011",
+        "2009",
+        "2006",
+        "2012"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 2011.",
+        "2009 liegt zwei Jahre vor der ersten Veröffentlichung.",
+        "2006 liegt fünf Jahre vor der Erstveröffentlichung.",
+        "2012 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2011 erstmals veröffentlicht.",
+      "context": "2011 erschien Wrights Film. Die Serienadaption begann 2019, acht Jahre später, mit einer anderen Besetzung; David Farr, bereits Mitautor des Filmdrehbuchs, arbeitete auch an der neuen Serienfassung.",
+      "anchor": "Hanna erschien 2011; die Serienadaption mit anderer Besetzung begann 2019, acht Jahre später.",
+      "interest": "Hanna erschien 2011; die Serienadaption mit anderer Besetzung begann 2019, acht Jahre später.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Joe Wright",
+        "Danny Boyle",
+        "Alfonso Cuarón",
+        "Doug Liman"
+      ],
+      "feedback": [
+        "Joe Wright führte Regie.",
+        "Danny Boyle hat hier keinen Regiecredit.",
+        "Alfonso Cuarón hat hier keinen Regiecredit.",
+        "Doug Liman hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Joe Wright.",
+      "context": "Wright arbeitete für den elektronischen Score mit den Chemical Brothers, die er seit seinen Clubjahren kannte. Musik und Alltagsgeräusche wurden bewusst verbunden; die fremde Außenwelt erreicht Hanna dadurch auch als neue und überwältigende Klangerfahrung.",
+      "anchor": "Wright und die Chemical Brothers verbinden die erste Außenwelterfahrung mit Musik und Geräuschen.",
+      "interest": "Wright und die Chemical Brothers verbinden die erste Außenwelterfahrung mit Musik und Geräuschen.",
+      "sources": [
+        "studio",
+        "musik"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

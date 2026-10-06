@@ -1,0 +1,222 @@
+{
+  "rank": 164,
+  "directors": [
+    "Frank Capra"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein zentraler früher Rom-Com-Klassiker, dessen konkrete Handlung heute vor allem Klassikliebhaber kennen.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1934; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/It_Happened_One_Night",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/It_Happened_One_Night",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "academy": {
+      "url": "https://www.oscars.org/oscars/ceremonies/1935/T",
+      "supports": "Gelesene Academy-Gewinnerliste: fünf große Gewinne 1935 für den Film von 1934."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Womit reist Ellie Andrews (Claudette Colbert) in @ nach ihrer Flucht zunächst Richtung New York?",
+      "answers": [
+        "Mit einem Linienbus",
+        "Mit einem Privatflugzeug",
+        "Mit einer Yacht",
+        "Mit einem Sonderzug"
+      ],
+      "feedback": [
+        "Ellie besteigt einen Linienbus nach New York.",
+        "Sie nimmt kein Privatflugzeug.",
+        "Von der Yacht flieht sie zunächst.",
+        "Die Begegnung mit Peter beginnt im Bus."
+      ],
+      "short": "Ellie besteigt einen Linienbus nach New York.",
+      "context": "Ellie besteigt einen Linienbus nach New York. Ihr Vater versucht, ihre Verbindung zu King Westley (Jameson Thomas) zu verhindern. Die ungewohnte Reise bringt sie mit Peter Warne (Clark Gable) zusammen und fordert praktische Fähigkeiten, die ihr bisheriger Alltag kaum verlangt hat.",
+      "anchor": "Die Busreise führt die Erbin aus ihrer geschützten Welt.",
+      "interest": "Die Busreise führt die Erbin aus ihrer geschützten Welt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen beruflichen Nutzen erwartet Peter Warne (Clark Gable) zunächst von Ellie (Claudette Colbert) in @?",
+      "answers": [
+        "Eine exklusive Zeitungsgeschichte",
+        "Einen Interviewtermin mit Ellies Vater",
+        "Eine feste Stelle bei der Familie",
+        "Eine Beteiligung an Ellies Vermögen"
+      ],
+      "feedback": [
+        "Peter möchte Ellies Geschichte exklusiv für eine Zeitung verwerten.",
+        "Peter will Ellies Fluchtgeschichte exklusiv erzählen.",
+        "Er strebt zunächst eine Zeitungsgeschichte an.",
+        "Sein ursprüngliches Interesse gilt dem journalistischen Nutzen."
+      ],
+      "short": "Peter möchte Ellies Geschichte exklusiv für eine Zeitung verwerten.",
+      "context": "Peter möchte Ellies Geschichte exklusiv für eine Zeitung verwerten. Als arbeitsloser Reporter verspricht er ihr Unterstützung und erwartet dafür Informationen. Aus dieser Zweckgemeinschaft entwickelt sich eine Beziehung, die den anfänglichen Geschäftsgedanken verdrängt.",
+      "anchor": "Aus dem geplanten Scoop entsteht persönliche Nähe.",
+      "interest": "Aus dem geplanten Scoop entsteht persönliche Nähe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was bezeichnet Peter (Clark Gable) in @ scherzhaft als „Mauern von Jericho“?",
+      "answers": [
+        "Eine Decke zwischen den Betten",
+        "Die verschlossene Tür des Motelzimmers",
+        "Eine Reihe von Koffern vor Ellies Bett",
+        "Einen Sichtschutz vor dem gemeinsamen Fenster"
+      ],
+      "feedback": [
+        "Peter hängt eine Decke zwischen die Betten des gemeinsamen Motelzimmers.",
+        "Die Decke trennt die Schlafplätze innerhalb eines Zimmers.",
+        "Das Bild bezeichnet die aufgehängte Decke.",
+        "Der Sichtschutz steht zwischen den Betten, nicht am Fenster."
+      ],
+      "short": "Peter hängt eine Decke zwischen die Betten des gemeinsamen Motelzimmers.",
+      "context": "Peter hängt eine Decke zwischen die Betten des gemeinsamen Motelzimmers. Er nennt sie die „Mauern von Jericho“ und schafft damit eine vorläufige Grenze. Der Film kann so Nähe und sexuelle Zurückhaltung über einen sichtbaren Gegenstand erzählen.",
+      "anchor": "Die Decke trennt die Betten und markiert eine Grenze.",
+      "interest": "Die Decke trennt die Betten und markiert eine Grenze.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie erreicht Ellie (Claudette Colbert) in @ beim Trampen, dass ein Wagen hält?",
+      "answers": [
+        "Sie zeigt ihr Bein.",
+        "Sie bietet einen Preis für Benzin.",
+        "Sie verkleidet sich als Polizistin.",
+        "Sie blockiert die Straße mit Gepäck."
+      ],
+      "feedback": [
+        "Ellie zeigt ihr Bein und bringt einen Autofahrer zum Halten.",
+        "Ein Benzinpreis ist nicht ihr Lockmittel.",
+        "Sie trägt keine Polizeiverkleidung.",
+        "Sie sperrt die Straße nicht mit Koffern."
+      ],
+      "short": "Ellie zeigt ihr Bein und bringt einen Autofahrer zum Halten.",
+      "context": "Ellie zeigt ihr Bein und bringt einen Autofahrer zum Halten. Peter Warne (Clark Gable) hatte ihr zuvor seine angeblich überlegene Technik vorgeführt. Die Szene dreht das Lehrer-Schülerin-Verhältnis um: Ellie löst das Problem auf ihre eigene Weise.",
+      "anchor": "Ellie übertrifft Peters demonstrierte Tramp-Technik.",
+      "interest": "Ellie übertrifft Peters demonstrierte Tramp-Technik.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum glaubt Ellie (Claudette Colbert) in @ zeitweise, Peter (Clark Gable) habe sie verlassen?",
+      "answers": [
+        "Er fährt heimlich los, um die Geschichte zu verkaufen.",
+        "Er hat ihren Vater heimlich um die Belohnung gebeten.",
+        "Er kehrt zur Redaktion zurück, ohne seine Adresse zu hinterlassen.",
+        "Er hat ihre Flucht sofort veröffentlicht."
+      ],
+      "feedback": [
+        "Peter fährt zur Zeitung, um Geld für eine gemeinsame Zukunft zu verdienen.",
+        "Peter sucht Geld aus dem Verkauf der Geschichte, nicht die Belohnung.",
+        "Seine Abwesenheit dient der Finanzierung ihrer Zukunft, nicht einem endgültigen Abschied.",
+        "Die Deutung entsteht durch sein Weggehen, nicht durch einen veröffentlichten Bericht."
+      ],
+      "short": "Peter fährt zur Zeitung, um Geld für eine gemeinsame Zukunft zu verdienen.",
+      "context": "Peter fährt zur Zeitung, um Geld für eine gemeinsame Zukunft zu verdienen. Ellie kennt seinen Grund nicht und wird aus dem Motel gewiesen. Derselbe Aufbruch, der ihre Beziehung ermöglichen soll, wirkt aus ihrer Perspektive wie ein endgültiger Verrat.",
+      "anchor": "Peters Zukunftsplan sieht für Ellie wie Verlassenwerden aus.",
+      "interest": "Peters Zukunftsplan sieht für Ellie wie Verlassenwerden aus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was verlangt Peter (Clark Gable) in @ von Ellies Vater anstelle der hohen Belohnung?",
+      "answers": [
+        "Nur die Erstattung seiner Reiseausgaben",
+        "Die ganze ausgesetzte Belohnung",
+        "Die Hälfte der ausgesetzten Belohnung",
+        "Ein zinsloses Darlehen"
+      ],
+      "feedback": [
+        "Peter verlangt lediglich die Erstattung seiner Reiseausgaben.",
+        "Peter will nur seine konkreten Ausgaben ersetzt haben.",
+        "Auch einen Teil der Belohnung verlangt er nicht.",
+        "Er fordert Erstattung statt eines neuen Kredits."
+      ],
+      "short": "Peter verlangt lediglich die Erstattung seiner Reiseausgaben.",
+      "context": "Peter verlangt lediglich die Erstattung seiner Reiseausgaben. Ellies Vater erkennt dadurch, dass er kein Kopfgeldjäger ist. Dieser Geldbetrag bekommt eine andere Bedeutung als die hohe Belohnung: Er belegt Peters Aufrichtigkeit und erleichtert die Zustimmung zur Beziehung.",
+      "anchor": "Die kleine Spesenforderung entkräftet den Verdacht der Geldgier.",
+      "interest": "Die kleine Spesenforderung entkräftet den Verdacht der Geldgier.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1934",
+        "1931",
+        "1927",
+        "1936"
+      ],
+      "feedback": [
+        "1934 erschien die Komödie nach Samuel Hopkins Adams’ Erzählung „Night Bus“ von 1933.",
+        "1931 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1934 wird im zeitlichen Hintergrund erklärt.",
+        "1927 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1934 wird im zeitlichen Hintergrund erklärt.",
+        "1936 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1934 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1934 erschien die Komödie nach Samuel Hopkins Adams’ Erzählung „Night Bus“ von 1933.",
+      "context": "1934 erschien die Komödie nach Samuel Hopkins Adams’ Erzählung „Night Bus“ von 1933. Bereits im folgenden Jahr erhielt sie bei den Oscars die fünf großen Auszeichnungen. Der kurze Weg vom Zeitschriftenstoff zum prämierten Kinofilm verbindet 1933, 1934 und 1935 zu einer klaren Folge.",
+      "anchor": "Erzählung 1933, Film 1934, fünf große Oscars 1935: Stoff, Verfilmung und Anerkennung folgen jährlich.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten",
+        "academy"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Frank Capra",
+        "Leo McCarey",
+        "Howard Hawks",
+        "Billy Wilder"
+      ],
+      "feedback": [
+        "Frank Capra führte Regie, Robert Riskin schrieb das Drehbuch.",
+        "Leo McCarey wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Frank Capra.",
+        "Howard Hawks wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Frank Capra.",
+        "Billy Wilder wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Frank Capra."
+      ],
+      "short": "Frank Capra führte Regie, Robert Riskin schrieb das Drehbuch.",
+      "context": "Frank Capra führte Regie, Robert Riskin schrieb das Drehbuch. Clark Gable spielt den arbeitslosen Reporter Peter Warne, Claudette Colbert die aus ihrer privilegierten Umgebung fliehende Ellie Andrews. Ihre gemeinsame Busreise führt die beiden sozialen Welten zusammen.",
+      "anchor": "Frank Capra führte Regie, Robert Riskin schrieb das Drehbuch.",
+      "interest": "Frank Capra führte Regie, Robert Riskin schrieb das Drehbuch.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

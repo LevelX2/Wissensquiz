@@ -1,0 +1,215 @@
+{
+  "rank": 86,
+  "directors": [
+    "Jennifer Kent"
+  ],
+  "production_countries": [
+    "Australien"
+  ],
+  "familiarity_reason": "International bekannter australischer Horrorfilm mit psychologischer Familiengeschichte.",
+  "release_note": "Sundance-Premiere 17. Januar 2014.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Babadook",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "archiv": {
+      "url": "https://www.nfsa.gov.au/collection/item/babadook",
+      "supports": "Jennifer Kent, Mutter-Kind-Konflikt und australischer Film 2014."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Gegenstand bringt Sam in @ die Gestalt des Monsters näher?",
+      "answers": [
+        "Ein aufklappbares Bilderbuch",
+        "Ein altes Tonband",
+        "Eine Spieluhr",
+        "Ein Familienfoto"
+      ],
+      "feedback": [
+        "Sam (Noah Wiseman) entdeckt ein Pop-up-Buch.",
+        "Ein Tonband ist nicht die Einführung.",
+        "Eine Spieluhr stellt es nicht vor.",
+        "Ein Foto erzeugt nicht die Gestalt."
+      ],
+      "short": "Sam (Noah Wiseman) entdeckt ein Pop-up-Buch.",
+      "context": "Sam (Noah Wiseman) entdeckt ein Pop-up-Buch. Amelia (Essie Davis) liest daraus vor; die harmlose Vorlesesituation verwandelt sich mit jeder Seite in eine bedrohlichere Begegnung.",
+      "anchor": "Das Vorlesebuch lässt die Gefahr Seite für Seite wachsen.",
+      "interest": "Das Vorlesebuch lässt die Gefahr Seite für Seite wachsen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Verlust verbindet sich für Amelia in @ mit Sams Geburt?",
+      "answers": [
+        "Ihr Mann starb auf der Fahrt ins Krankenhaus.",
+        "Ihr Mann verließ sie kurz nach der Geburt.",
+        "Ihre Mutter starb während der Entbindung.",
+        "Sam verlor bei der Geburt seinen Zwillingsbruder."
+      ],
+      "feedback": [
+        "Oskar (Ben Winspear) starb auf der Fahrt zur Geburt.",
+        "Oskar stirbt bei einem Verkehrsunfall vor der Entbindung.",
+        "Der Tod der Mutter ist nicht mit Sams Geburt verbunden.",
+        "Ein Zwillingsbruder bildet nicht die Verlustgeschichte."
+      ],
+      "short": "Oskar (Ben Winspear) starb auf der Fahrt zur Geburt.",
+      "context": "Oskar (Ben Winspear) starb auf der Fahrt zur Geburt. Amelia (Essie Davis) erlebt Sams (Noah Wiseman) Geburtstag deshalb zugleich als Erinnerung an den Tod ihres Mannes.",
+      "anchor": "Geburtstag und Todestag sind in Amelias Erinnerung verbunden.",
+      "interest": "Geburtstag und Todestag sind in Amelias Erinnerung verbunden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was geschieht in @ mit dem zerrissenen und weggeworfenen Buch?",
+      "answers": [
+        "Es kehrt ergänzt und wieder zusammengesetzt zurück.",
+        "Es liegt unverändert wieder vor der Haustür.",
+        "Es kehrt mit einem harmlosen neuen Ende zurück.",
+        "Es liegt verbrannt im Schlafzimmer."
+      ],
+      "feedback": [
+        "Das Buch kommt mit neuen Bildern zurück.",
+        "Die neuen bedrohlichen Bilder sind entscheidend.",
+        "Die Ergänzungen steigern die Gefahr statt sie aufzulösen.",
+        "Das wiederkehrende Buch ist nicht bereits verbrannt."
+      ],
+      "short": "Das Buch kommt mit neuen Bildern zurück.",
+      "context": "Das Buch kommt mit neuen Bildern zurück. Amelia (Essie Davis) sieht darin ihre eigene Gewalt gegen Sam (Noah Wiseman); der Versuch, die Bedrohung zu beseitigen, verschärft ihre persönliche Verstrickung.",
+      "anchor": "Das wiederkehrende Buch macht Amelia selbst zur bedrohlichen Figur.",
+      "interest": "Das wiederkehrende Buch macht Amelia selbst zur bedrohlichen Figur.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Strategie nutzt Sam in @ gegen die besessene Mutter?",
+      "answers": [
+        "Er setzt seine selbstgebauten Fallen ein.",
+        "Er versteckt sich im Keller, bis Amelia einschläft.",
+        "Er lenkt Amelia durch eine nachgeahmte Stimme des Vaters ab.",
+        "Er führt Amelia zu einer vorbereiteten Falle im Garten."
+      ],
+      "feedback": [
+        "Sam (Noah Wiseman) nutzt seine Konstruktionen gegen Amelia (Essie Davis).",
+        "Sam verteidigt sich aktiv mit seinen Vorrichtungen.",
+        "Eine nachgeahmte Vaterstimme ist nicht seine Strategie.",
+        "Seine Konstruktionen kommen im Haus zum Einsatz."
+      ],
+      "short": "Sam (Noah Wiseman) nutzt seine Konstruktionen gegen Amelia (Essie Davis).",
+      "context": "Sam (Noah Wiseman) nutzt seine Konstruktionen gegen Amelia (Essie Davis). Seine zuvor störend wirkende Beschäftigung mit dem Monster wird so zu einer praktischen Verteidigung gegen die reale Gewalt.",
+      "anchor": "Die als Problem betrachteten Erfindungen dienen plötzlich dem Schutz.",
+      "interest": "Die als Problem betrachteten Erfindungen dienen plötzlich dem Schutz.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum lässt sich Amelia in @ nicht auf die Erscheinung ihres Mannes ein?",
+      "answers": [
+        "Sie erkennt, dass das Wesen dafür Sam haben will.",
+        "Sie erkennt, dass Oskar selbst das Wesen gerufen hatte.",
+        "Sie bemerkt, dass die Erscheinung Sams Stimme benutzt.",
+        "Sie erkennt die Gestalt als ein Bild aus dem Buch."
+      ],
+      "feedback": [
+        "Die Erscheinung fordert den Jungen als Preis.",
+        "Die verlangte Übergabe Sams entlarvt das Angebot.",
+        "Die Täuschung wird nicht durch Sams Stimme gelöst.",
+        "Das entscheidende Kriterium ist der geforderte Preis, nicht allein eine Bildähnlichkeit."
+      ],
+      "short": "Die Erscheinung fordert den Jungen als Preis.",
+      "context": "Die Erscheinung fordert den Jungen als Preis. Amelia (Essie Davis) erkennt das Angebot als Täuschung; die ersehnte Wiederkehr von Oskar (Ben Winspear) würde Sams (Noah Wiseman) Leben gefährden.",
+      "anchor": "Das Wiederkehrversprechen verlangt das Kind als Preis.",
+      "interest": "Das Wiederkehrversprechen verlangt das Kind als Preis.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie gestaltet Amelia am Ende von @ den Umgang mit dem Wesen?",
+      "answers": [
+        "Sie hält es im Keller und versorgt es mit Würmern.",
+        "Sie mauert den Keller zu und lässt das Wesen ohne Nahrung.",
+        "Sie zieht aus und überlässt dem Wesen das leere Haus.",
+        "Sie gibt dem Wesen Sams Spielsachen statt Nahrung."
+      ],
+      "feedback": [
+        "Amelia (Essie Davis) versorgt das Wesen im Keller.",
+        "Amelia geht in den Keller und versorgt es.",
+        "Sie findet einen begrenzten Umgang im eigenen Haus.",
+        "Die Versorgung mit Würmern ist konkret, keine Spielzeugübergabe."
+      ],
+      "short": "Amelia (Essie Davis) versorgt das Wesen im Keller.",
+      "context": "Amelia (Essie Davis) versorgt das Wesen im Keller. Während Sam (Noah Wiseman) Geburtstag feiern kann, bleibt die Bedrohung in einem begrenzten Bereich bestehen; der Alltag wird durch Umgang statt völlige Vernichtung möglich.",
+      "anchor": "Das begrenzte Versorgen ermöglicht wieder Familienalltag.",
+      "interest": "Das begrenzte Versorgen ermöglicht wieder Familienalltag.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2014",
+        "2012",
+        "2009",
+        "2015"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2014.",
+        "2012 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2009 liegt fünf Jahre davor.",
+        "2015 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2014 erstmals veröffentlicht.",
+      "context": "2014 erschien Kents erster Langfilm. Er erweitert ihren Kurzfilm Monster von 2005, der neun Jahre früher entstand; die bedrohte Mutter-Kind-Beziehung wurde damit aus einer kurzen Form zu einer ganzen Familiengeschichte.",
+      "anchor": "Kents Kurzfilm Monster von 2005 wurde neun Jahre später, 2014, zum Langfilm erweitert.",
+      "interest": "Kents Kurzfilm Monster von 2005 wurde neun Jahre später, 2014, zum Langfilm erweitert.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jennifer Kent",
+        "Natalie Erika James",
+        "Julia Ducournau",
+        "Rose Glass"
+      ],
+      "feedback": [
+        "Jennifer Kent führte Regie.",
+        "Natalie Erika James hat hier keinen Regiecredit.",
+        "Julia Ducournau hat hier keinen Regiecredit.",
+        "Rose Glass hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Jennifer Kent.",
+      "context": "Kent schrieb und inszenierte die Erweiterung ihres Kurzfilms Monster. Der Schauplatz verbindet das Auftauchen des Wesens mit Erschöpfung und nicht bewältigter Trauer, ohne den Konflikt allein durch einen äußeren Gegner zu lösen.",
+      "anchor": "Kent schrieb und inszenierte die Erweiterung ihres Kurzfilms Monster.",
+      "interest": "Kent schrieb und inszenierte die Erweiterung ihres Kurzfilms Monster.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

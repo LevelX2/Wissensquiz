@@ -1,0 +1,222 @@
+{
+  "rank": 121,
+  "directors": [
+    "Akira Kurosawa"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Weltweit einflussreicher Klassiker, als Titel auch außerhalb von Filmkennerkreisen bekannt; Gruppe 2.",
+  "release_note": "Japanischer Kinostart am 26. April 1954.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Seven_Samurai",
+    "criterion": "https://www.criterion.com/films/165-seven-samurai",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/seven_samurai_1956",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was können die Bauern in @ den angeworbenen Kämpfern als Gegenleistung bieten?",
+      "answers": [
+        "Vor allem Essen",
+        "Einen Anteil am Land nach erfolgreicher Verteidigung",
+        "Regelmäßige Steuerzahlungen aus den Ernteerlösen",
+        "Den Erlass einer alten Schuld"
+      ],
+      "feedback": [
+        "Die armen Dorfbewohner bieten Nahrung statt einer reichen Bezahlung.",
+        "Die armen Bauern können zunächst vor allem Nahrung bieten.",
+        "Eine feste Steuerleistung ist nicht der angebotene Lohn.",
+        "Ein Schuldenerlass ist nicht die Grundlage der Anwerbung."
+      ],
+      "short": "Die armen Dorfbewohner bieten Nahrung statt einer reichen Bezahlung.",
+      "context": "Kambei (Takashi Shimura) nimmt den Auftrag der Bauern an, obwohl sie kaum Geld haben. Ihre Not ist wichtiger als ein üblicher Lohn. Die Essensversorgung macht den sozialen Abstand der Gruppen greifbar: Die Menschen brauchen Hilfe, können sie aber nur mit demjenigen bezahlen, das die Banditen ihnen ohnehin nehmen wollen.",
+      "anchor": "Die Verteidiger kämpfen für die Nahrung, die das Dorf schützen muss.",
+      "interest": "Die Verteidiger kämpfen für die Nahrung, die das Dorf schützen muss.",
+      "sources": [
+        "handlung",
+        "criterion",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Vor welcher Gefahr soll die neu gebildete Gruppe das Dorf in @ schützen?",
+      "answers": [
+        "Vor plündernden Banditen",
+        "Vor der Zwangsräumung durch einen benachbarten Clan",
+        "Vor einer Fehde mit einem anderen Bauerndorf",
+        "Vor einer gewaltsamen Einziehung der gesamten Ernte durch Beamte"
+      ],
+      "feedback": [
+        "Die Banditen wollen nach der Ernte wiederkommen.",
+        "Die Bauern erwarten den nächsten Angriff der Banditen.",
+        "Die Bedrohung stammt nicht von einem rivalisierenden Dorf.",
+        "Die Angreifer sind plündernde Banditen, keine Beamten."
+      ],
+      "short": "Die Banditen wollen nach der Ernte wiederkommen.",
+      "context": "Die Bauern erfahren, dass eine Bande ihre Ernte rauben will. Kambei (Takashi Shimura) stellt deshalb eine Verteidigergruppe zusammen und trainiert die Dorfbewohner. Der Film zeigt Schutz als gemeinsame Aufgabe: Auch die angeworbenen Krieger können ohne Beteiligung und Vertrauen der Bauern keine dauerhafte Sicherheit herstellen.",
+      "anchor": "Die Ernte zieht die Banditen an und zwingt das Dorf zur Zusammenarbeit.",
+      "interest": "Die Ernte zieht die Banditen an und zwingt das Dorf zur Zusammenarbeit.",
+      "sources": [
+        "handlung",
+        "criterion",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum versteht Kikuchiyo (Toshirō Mifune) in @ die Bauern anders als die übrigen Kämpfer?",
+      "answers": [
+        "Er stammt selbst aus einer Bauernfamilie.",
+        "Er hat als Steuereintreiber jahrelang im Dorf gearbeitet.",
+        "Er ist mit einer Tochter des Dorfältesten verlobt.",
+        "Er lebt schon seit Jahren als einziger Samurai unter ihnen."
+      ],
+      "feedback": [
+        "Kikuchiyo kennt die Lage der Bauern aus eigener Herkunft.",
+        "Seine eigene bäuerliche Herkunft erklärt die andere Perspektive.",
+        "Eine Verlobung ist nicht der Grund seines Verständnisses.",
+        "Er gehört nicht schon vorher als ansässiger Samurai zum Dorf."
+      ],
+      "short": "Kikuchiyo kennt die Lage der Bauern aus eigener Herkunft.",
+      "context": "Kikuchiyo (Toshirō Mifune) tritt als Samurai auf, stammt aber aus der bäuerlichen Welt. Als die Krieger über gestohlene Waffen empört sind, hält er ihnen die Gewalt entgegen, die Bauern von Samurai erfahren. Seine Stellung zwischen den Gruppen gibt ihm eine Vermittlungsfunktion, ohne den vorhandenen Hass einfach verschwinden zu lassen.",
+      "anchor": "Kikuchiyo kennt beide Seiten der Standesgrenze.",
+      "interest": "Kikuchiyo kennt beide Seiten der Standesgrenze.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum verlangt Kambei (Takashi Shimura) in @ die Räumung abgelegener Häuser?",
+      "answers": [
+        "Die Kräfte müssen das Dorf gemeinsam statt jedes einzelne Haus verteidigen.",
+        "Die Häuser sollen als Köder mit Vorräten gefüllt werden.",
+        "Die Gruppe braucht das Holz für einen Angriff auf das Banditenlager.",
+        "Die Bauern sollen während der Ernte vollständig umgesiedelt werden."
+      ],
+      "feedback": [
+        "Kambei ordnet individuelle Besitzinteressen der gemeinsamen Verteidigung unter.",
+        "Kambei konzentriert die Verteidigung, statt die Häuser als Nahrungsköder zu verwenden.",
+        "Ein geplanter Lagerangriff erklärt die Räumung nicht.",
+        "Die Maßnahme dient dem begrenzten Schutzraum, nicht einer dauerhaften Ernteumsiedlung."
+      ],
+      "short": "Kambei ordnet individuelle Besitzinteressen der gemeinsamen Verteidigung unter.",
+      "context": "Die Bewohner der außerhalb liegenden Häuser wollen nicht weichen. Kambei (Takashi Shimura) erklärt, dass sie durch ihre Einzelinteressen alle gefährden. Die räumliche Organisation ist deshalb zugleich eine soziale Aufgabe: Eine Verteidigung funktioniert erst, wenn die Gemeinschaft Verluste an einzelnen Orten zugunsten der übrigen Menschen akzeptiert.",
+      "anchor": "Gemeinsamer Schutz verlangt den Verzicht auf jedes einzelne Haus.",
+      "interest": "Gemeinsamer Schutz verlangt den Verzicht auf jedes einzelne Haus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was zeigt der Tod des meisterhaften Kyūzō (Seiji Miyaguchi) im Finale von @ über die Grenzen seiner Fähigkeiten?",
+      "answers": [
+        "Ein Musketenschuss kann ihn trotz seiner Schwertkunst töten.",
+        "Ein Angriff mehrerer Gegner bricht erst sein Schwert.",
+        "Ein Verrat seiner Gefährten liefert ihn unbewaffnet aus.",
+        "Ein Fehler beim Überqueren des Dorfbachs bringt ihn zu Fall."
+      ],
+      "feedback": [
+        "Der Banditenführer tötet Kyūzō mit einer Schusswaffe.",
+        "Der Musketenschuss überwindet die persönliche Schwertkunst.",
+        "Die Ursache ist kein Verrat eines Samurai.",
+        "Kyūzō wird durch eine Schusswaffe getötet, nicht durch einen Sturz im Bach."
+      ],
+      "short": "Der Banditenführer tötet Kyūzō mit einer Schusswaffe.",
+      "context": "Kyūzō (Seiji Miyaguchi) wirkt zuvor als konzentrierter Meister des Schwertes. Im letzten Kampf genügt dennoch ein Schuss, um ihn zu töten. Der Film löst kämpferische Überlegenheit damit vom sicheren Überleben: Ein einzelner geschickter Krieger bleibt in einem unübersichtlichen Gefecht verletzlich, auch wenn er im direkten Duell überlegen wäre.",
+      "anchor": "Die Meisterschaft mit dem Schwert macht Kyūzō nicht kugelsicher.",
+      "interest": "Die Meisterschaft mit dem Schwert macht Kyūzō nicht kugelsicher.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wen bezeichnet Kambei (Takashi Shimura) am Ende von @ als die eigentlichen Sieger?",
+      "answers": [
+        "Die Bauern, die ihre Felder wieder bestellen",
+        "Die überlebenden Samurai als neue Dorfherren",
+        "Die Händler, die neue Waffen liefern",
+        "Den Shōgun als obersten Befehlshaber"
+      ],
+      "feedback": [
+        "Die Bauern setzen ihr Leben fort, während die Krieger Verluste und Abschied tragen.",
+        "Die Samurai übernehmen das Dorf nicht als Herrscher.",
+        "Waffenhändler werden nicht zu den eigentlichen Siegern erklärt.",
+        "Ein persönlicher Sieg des Shōgun ist nicht Kambeis Bilanz."
+      ],
+      "short": "Die Bauern setzen ihr Leben fort, während die Krieger Verluste und Abschied tragen.",
+      "context": "Kambei (Takashi Shimura) steht bei den Gräbern der Gefallenen. Die Bauern singen und pflanzen wieder. Seine Bilanz unterscheidet den gewonnenen Kampf vom Lebensgewinn: Das Dorf kann in seinen Rhythmus zurückkehren, die Samurai gehören dort nicht dauerhaft hinein. Der Sieg schützt eine Gemeinschaft, die ihre Retter anschließend nicht mehr braucht.",
+      "anchor": "Die Bauern bleiben, die Samurai ziehen weiter.",
+      "interest": "Die Bauern bleiben, die Samurai ziehen weiter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1954",
+        "1950",
+        "1953",
+        "1957"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1954.",
+        "1950 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1953 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1957 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1954.",
+      "context": "Die sieben Samurai erschien 1954 in Japan. Die Geschichte spielt dagegen im 16. Jahrhundert. Die spätere Westernbearbeitung Die glorreichen Sieben wurde 1960 veröffentlicht. Die unterschiedlichen Jahreszahlen betreffen also Handlungszeit, Original und Neuinterpretation; der japanische Film gehört ins Jahr 1954.",
+      "anchor": "Sieben Samurai 1954, Glorreiche Sieben 1960: sechs Jahre bis zur Westernübertragung.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Sieben Samurai 1954, Glorreiche Sieben 1960: sechs Jahre bis zur Westernübertragung.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Akira Kurosawa",
+        "Masaki Kobayashi",
+        "Kenji Mizoguchi",
+        "Yasujirō Ozu"
+      ],
+      "feedback": [
+        "Akira Kurosawa führte Regie.",
+        "Masaki Kobayashi gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Kenji Mizoguchi gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Yasujirō Ozu gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Akira Kurosawa.",
+      "context": "Akira Kurosawa inszenierte das Drehbuch, das er mit Shinobu Hashimoto und Hideo Oguni schrieb. Takashi Shimura spielt den erfahrenen Kambei, Toshirō Mifune den impulsiven Kikuchiyo. Das lange Werk verbindet die schrittweise Bildung einer Gruppe mit einer genau organisierten Verteidigung und den sozialen Spannungen innerhalb des Dorfes.",
+      "anchor": "Akira Kurosawa: Takashi Shimura spielt den erfahrenen Kambei, Toshirō Mifune den impulsiven Kikuchiyo.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "criterion",
+        "credits_rt",
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

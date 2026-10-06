@@ -1,0 +1,214 @@
+{
+  "rank": 8,
+  "directors": [
+    "John Sturges"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein bekannter Kriegs- und Fluchtfilm mit Steve McQueen; Stunt- und Produktionswissen verlangt genauere Beschäftigung.",
+  "release_note": "Erste Veröffentlichung bei der Londoner Premiere 1963.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Great_Escape_(film)",
+    "afi": "https://catalog.afi.com/Film/23871-THE-GREATESCAPE"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Aus welchem Ort wollen die alliierten Soldaten in @ gemeinsam fliehen?",
+      "answers": [
+        "Aus einem deutschen Kriegsgefangenenlager",
+        "Aus einem besetzten Rathaus",
+        "Aus einem zivilen Gefängnis in London",
+        "Aus einer amerikanischen Marinebasis"
+      ],
+      "feedback": [
+        "Die Soldaten sind Kriegsgefangene im deutschen Lager.",
+        "Ein Rathaus ist nicht der Schauplatz ihrer Gefangenschaft.",
+        "Sie sitzen nicht als zivile Straftäter in London ein.",
+        "Die amerikanische Marine hält sie nicht gefangen."
+      ],
+      "short": "Die Männer planen die Flucht aus einem deutschen Kriegsgefangenenlager.",
+      "context": "Das Lager bündelt Männer, die bereits Fluchten versucht haben. Die Bewacher hoffen, sie gemeinsam besser kontrollieren zu können. Roger Bartlett (Richard Attenborough) organisiert gerade dort einen größeren Ausbruch.",
+      "anchor": "Ein Lager voller Ausbrecher wird zum Ausgangspunkt einer gemeinsamen Flucht.",
+      "interest": "Die Ausgangslage erklärt die Konzentration von Fluchterfahrung.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Womit beschäftigt sich Hilts (Steve McQueen) in @ immer wieder in seiner Einzelzelle?",
+      "answers": [
+        "Mit einem Baseball, den er gegen die Wand wirft",
+        "Mit dem Stimmen einer Geige",
+        "Mit dem Bau eines Radios",
+        "Mit dem Zeichnen von Schachfiguren"
+      ],
+      "feedback": [
+        "Ball und Handschuh prägen seine Zeit im Arrest.",
+        "Hilts spielt dort keine Geige.",
+        "Das Radio ist nicht seine wiederkehrende Beschäftigung.",
+        "Gezeichnete Schachfiguren bilden nicht dieses Motiv."
+      ],
+      "short": "Hilts wirft einen Baseball gegen die Zellenwand und fängt ihn wieder.",
+      "context": "Hilts kehrt nach gescheiterten Versuchen mehrfach in den Arrest zurück. Das wiederholte Ballspiel verbindet diese Episoden und ist auch am Ende zu hören. Seine Beharrlichkeit bekommt damit ein einfaches sichtbares und hörbares Zeichen.",
+      "anchor": "Hilts, Einzelzelle, Baseball: Der Widerstand geht weiter.",
+      "interest": "Ein wiederkehrendes Motiv charakterisiert die Figur.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum wird in @ nach der Entdeckung von „Tom“ an „Harry“ weitergearbeitet?",
+      "answers": [
+        "Mehrere vorbereitete Tunnel bieten einen Ersatzweg.",
+        "Harry war für einen größeren Querschnitt vorgesehen.",
+        "Harry führt direkt in einen unbewachten Güterbahnhof.",
+        "Harry lässt sich als genehmigter Abwasserkanal tarnen."
+      ],
+      "feedback": [
+        "Harry gehört zu den bereits vorbereiteten Fluchttunneln.",
+        "Der Ersatz ist durch die parallele Vorbereitung möglich, nicht durch einen größeren Querschnitt.",
+        "Ein direkter Bahnhofszugang erklärt den Wechsel nicht.",
+        "Harry wird nicht als genehmigter Abwasserkanal weitergebaut."
+      ],
+      "short": "Die parallel vorbereiteten Tunnel machen einen Ersatz nach der Entdeckung möglich.",
+      "context": "Bartlett (Richard Attenborough) lässt zunächst an Tom, Dick und Harry arbeiten. Nach dem Fund von Tom wird Harry wieder geöffnet. Die Arbeitsteilung schafft Reserven, obwohl Entdeckung und knappe Zeit den Plan gefährden.",
+      "anchor": "Drei Tunnel schaffen Reserven; nach Tom bleibt Harry.",
+      "interest": "Der konkrete Plan zeigt den Nutzen mehrerer Fluchtwege.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Weshalb bietet Hendley (James Garner) in @ an, Blythe (Donald Pleasence) auf der Flucht zu begleiten?",
+      "answers": [
+        "Blythes Sehvermögen verschlechtert sich stark.",
+        "Blythe hat die gefälschten Papiere verloren.",
+        "Blythe versteht die vereinbarten deutschen Antworten nicht.",
+        "Blythe kann nach einer Verletzung kaum laufen."
+      ],
+      "feedback": [
+        "Blythe kann sich wegen seiner Augen kaum allein orientieren.",
+        "Das Problem ist sein nachlassendes Sehvermögen, nicht der Verlust seiner Papiere.",
+        "Mangelnde Deutschkenntnisse begründen Hendleys Hilfe hier nicht.",
+        "Die Einschränkung betrifft seine Augen, nicht seine Beine."
+      ],
+      "short": "Hendley will den zunehmend sehbehinderten Blythe führen.",
+      "context": "Blythe fälscht Dokumente für die anderen. Als seine schlechte Sicht bekannt wird, hält Bartlett (Richard Attenborough) seine Teilnahme für zu gefährlich. Hendleys Hilfsangebot stellt Freundschaft neben die Anforderungen eines streng organisierten Plans.",
+      "anchor": "Der Beschaffer Hendley wird zum Begleiter des sehbehinderten Fälschers.",
+      "interest": "Eine persönliche Entscheidung macht den Konflikt zwischen Planung und Solidarität sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie verrät sich MacDonald (Gordon Jackson) in @ gegenüber einem deutschen Kontrollbeamten?",
+      "answers": [
+        "Er antwortet reflexartig auf eine englische Ansprache.",
+        "Er verwechselt die auf seinen Papieren vermerkte Stadt.",
+        "Er lässt ein britisches Abzeichen aus seiner Tasche fallen.",
+        "Er versteht eine deutsche Frage zu seinem Beruf nicht."
+      ],
+      "feedback": [
+        "Der spontane englische Antwortreflex entlarvt ihn.",
+        "Er scheitert an der reflexartigen englischen Antwort, nicht an einer Stadtangabe.",
+        "Ein sichtbares Abzeichen verrät ihn in diesem Moment nicht.",
+        "Die entscheidende Falle ist eine englische Ansprache."
+      ],
+      "short": "MacDonald reagiert unwillkürlich auf eine englische Ansprache.",
+      "context": "MacDonald und Bartlett (Richard Attenborough) haben sich zunächst mit ihrer Tarnung behauptet. Erst eine scheinbar beiläufige Ansprache bringt den sprachlichen Reflex hervor. Die Kontrolle prüft Verhalten, nachdem Kleidung und Papiere nicht genügt haben.",
+      "anchor": "Die Tarnung hält, bis MacDonald unwillkürlich Englisch antwortet.",
+      "interest": "Die Szene zeigt eine unerwartete Schwachstelle einer vorbereiteten Tarnung.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wer führte den berühmten Motorradsprung über den Zaun für @ aus?",
+      "answers": [
+        "Stuntfahrer Bud Ekins",
+        "Steve McQueen",
+        "Carey Loftin",
+        "Bill Hickman"
+      ],
+      "feedback": [
+        "Ekins sprang als Double für Steve McQueen.",
+        "McQueen fuhr viele Szenen selbst, doch diesen Sprung übernahm Ekins.",
+        "Loftin ist nicht das für diesen Zaunsprung eingesetzte Double.",
+        "Hickman führte diesen Zaunsprung nicht aus."
+      ],
+      "short": "Der berühmte Sprung wurde von Bud Ekins ausgeführt.",
+      "context": "Steve McQueen fuhr selbst zahlreiche Teile der Verfolgung. Beim großen Zaunsprung übernahm sein Freund und Stuntdouble Bud Ekins. Schauspielerleistung, Motorradfahren und der einzelne besonders riskante Sprung sind deshalb getrennt zuzuordnen.",
+      "anchor": "McQueen verfolgt und flieht auf dem Motorrad; Ekins übernimmt den Zaunsprung.",
+      "interest": "Der bekannte Bildmoment macht eine oft unsichtbare Stuntleistung verständlich.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Steve McQueen erstmals veröffentlicht?",
+      "answers": [
+        "1963",
+        "1950",
+        "1972",
+        "1981"
+      ],
+      "feedback": [
+        "Die Londoner Premiere fand 1963 statt.",
+        "1950 erschien Paul Brickhills Buch.",
+        "1972 liegt nach dem Filmstart.",
+        "1981 ist für diese Fassung zu spät."
+      ],
+      "short": "Der Film wurde 1963 erstmals veröffentlicht.",
+      "context": "Paul Brickhills Sachbuch erschien 1950, die Verfilmung folgte 1963. Dreizehn Jahre liegen zwischen Buch und Film. Die Kinohandlung greift den historischen Ausbruch auf, verändert aber Figuren und Abläufe für ihre dramatische Erzählung.",
+      "anchor": "1950 das Buch, 1963 der Film: dreizehn Jahre Abstand.",
+      "interest": "Die Vorlage liefert einen überprüfbaren Zeitanker.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Steve McQueen, James Garner und Richard Attenborough Regie?",
+      "answers": [
+        "John Sturges",
+        "David Lean",
+        "Robert Aldrich",
+        "Franklin J. Schaffner"
+      ],
+      "feedback": [
+        "Sturges ist der ausgewiesene Regisseur.",
+        "Lean inszenierte diese Lagerflucht nicht.",
+        "Aldrich ist nicht der Regisseur dieser Fassung.",
+        "Schaffner hat diesen Film nicht inszeniert."
+      ],
+      "short": "John Sturges führte Regie.",
+      "context": "Sturges hatte Steve McQueen, Charles Bronson und James Coburn bereits in „Die glorreichen Sieben“ eingesetzt. Hier arbeiten sie erneut in einem großen Ensemble. Ihre Figuren tragen unterschiedliche Fähigkeiten zum gemeinsamen Fluchtplan bei.",
+      "anchor": "Sturges vereint McQueen, Bronson und Coburn erneut im Ensemble.",
+      "interest": "Die wiederholte Zusammenarbeit ordnet den Regisseur konkret ein.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

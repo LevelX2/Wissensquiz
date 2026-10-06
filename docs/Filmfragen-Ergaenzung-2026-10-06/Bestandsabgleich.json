@@ -1,0 +1,828 @@
+{
+  "as_of": "2026-10-06",
+  "scope": "Öffentlicher Fragenkatalog und reservierte Ergänzung vom 04.10.2026; keine Spieler- oder Kontodaten.",
+  "baseline_questions": 6277,
+  "baseline_goals": 5734,
+  "selected_films": 240,
+  "questions": 1920,
+  "new_goals": 1919,
+  "existing_goals": 1,
+  "method": "Deutsche und Originaltitel mit Unicode-/Wortnormalisierung, explizite Titelzitate und Filmmetadaten im Ausgangskatalog suchen; gefundene Fragen danach redaktionell mit den neuen Inhaltszielen vergleichen.",
+  "limits": "Titelkandidaten enthalten andere Filmfassungen und Wortüberschneidungen. Die Suche ist kein automatischer Vollbeweis semantischer Neuheit ohne Titelhinweis.",
+  "film_identity_checks": {
+    "original_title_and_first_release_year_unique": true,
+    "public_and_reserved_film_identities_excluded": true
+  },
+  "candidate_count": 100,
+  "candidates": [
+    {
+      "rank": 2,
+      "film": "King Kong und die weiße Frau",
+      "question_id": "SCHAUSPIELER-202610-P03-159-L-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-159-L-2",
+      "question": "Welche junge Schauspielerin innerhalb der Handlung verkörpert Naomi Watts in Peter Jacksons „King Kong“?",
+      "correct": "Ann Darrow"
+    },
+    {
+      "rank": 3,
+      "film": "King Kong",
+      "question_id": "SCHAUSPIELER-202610-P03-159-L-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-159-L-2",
+      "question": "Welche junge Schauspielerin innerhalb der Handlung verkörpert Naomi Watts in Peter Jacksons „King Kong“?",
+      "correct": "Ann Darrow"
+    },
+    {
+      "rank": 12,
+      "film": "Oben",
+      "question_id": "PRZ-202610-P01-L-023",
+      "knowledge_id": "K-PRZ-202610-P01-L-023",
+      "question": "Ein Witwer lässt sein Haus an Ballons davonfliegen. Welcher Film wurde 2010 mit dem Animations-Oscar ausgezeichnet?",
+      "correct": "Oben"
+    },
+    {
+      "rank": 20,
+      "film": "The Aeronauts",
+      "question_id": "SCHAUSPIELER-202610-P03-163-S-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-163-S-1",
+      "question": "Welche Aufgabe übernimmt Felicity Jones' Amelia Wren in „The Aeronauts“?",
+      "correct": "Sie steuert einen Ballon."
+    },
+    {
+      "rank": 22,
+      "film": "Mad Max: Fury Road",
+      "question_id": "SCHAUSPIELER-202610-P01-078-L-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-078-L-1",
+      "question": "Welche Schauspielerin spielte Furiosa in „Mad Max: Fury Road“?",
+      "correct": "Charlize Theron"
+    },
+    {
+      "rank": 23,
+      "film": "Top Gun – Sie fürchten weder Tod noch Teufel",
+      "question_id": "SCHAUSPIELER-202610-P01-012-L-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-012-L-2",
+      "question": "Welchen Spitznamen hat Cruises Pilot in „Top Gun“?",
+      "correct": "Maverick"
+    },
+    {
+      "rank": 40,
+      "film": "Wer ist Hanna?",
+      "question_id": "SCHAUSPIELER-202610-P02-118-M-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P02-118-M-2",
+      "question": "Warum beherrscht Saoirse Ronans Titelfigur in „Wer ist Hanna?“ schon als Jugendliche außergewöhnliche Kampftechniken?",
+      "correct": "Ihr Vater hat sie abgeschieden für eine gefährliche Auseinandersetzung trainiert."
+    },
+    {
+      "rank": 41,
+      "film": "Moonlight",
+      "question_id": "PRZ-202610-P01-L-015",
+      "knowledge_id": "K-PRZ-202610-P01-L-015",
+      "question": "Ein Junge aus Miami wird in drei Lebensphasen gezeigt. Welches Drama gewann 2017 den Oscar als bester Film?",
+      "correct": "Moonlight"
+    },
+    {
+      "rank": 41,
+      "film": "Moonlight",
+      "question_id": "PRZ-202610-P01-M-021",
+      "knowledge_id": "K-PRZ-202610-P01-M-021",
+      "question": "Juan beschützt den jungen Chiron und ist zugleich Teil seines belastenden Umfelds. Wer gewann für Juan in „Moonlight“ den Nebendarsteller-Oscar 2017?",
+      "correct": "Mahershala Ali"
+    },
+    {
+      "rank": 42,
+      "film": "Spotlight",
+      "question_id": "SCHAUSPIELER-202610-P02-120-A-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P02-120-A-2",
+      "question": "Wie finanzierte Helena Bonham Carter als Jugendliche ihren ersten Eintrag im Schauspielerverzeichnis Spotlight?",
+      "correct": "Mit dem Preisgeld eines Schreibwettbewerbs"
+    },
+    {
+      "rank": 42,
+      "film": "Spotlight",
+      "question_id": "SCHAUSPIELER-202610-P03-161-M-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-161-M-1",
+      "question": "Welche reale Journalistin stellt Rachel McAdams in „Spotlight“ dar?",
+      "correct": "Sacha Pfeiffer"
+    },
+    {
+      "rank": 43,
+      "film": "Nomadland",
+      "question_id": "PRZ-202610-P01-L-018",
+      "knowledge_id": "K-PRZ-202610-P01-L-018",
+      "question": "Nach dem Verlust ihres Mannes und ihres Arbeitsplatzes zieht eine Frau im Van durch die USA. Welches Drama gewann 2021 den Oscar als bester Film?",
+      "correct": "Nomadland"
+    },
+    {
+      "rank": 43,
+      "film": "Nomadland",
+      "question_id": "PRZ-202610-P01-M-023",
+      "knowledge_id": "K-PRZ-202610-P01-M-023",
+      "question": "Welche Schauspielerin gewann 2021 für Fern in „Nomadland“ den Hauptdarstellerinnen-Oscar?",
+      "correct": "Frances McDormand"
+    },
+    {
+      "rank": 43,
+      "film": "Nomadland",
+      "question_id": "PRZ-202610-P01-L-042",
+      "knowledge_id": "K-PRZ-202610-P01-L-042",
+      "question": "Welcher Film gewann 2020 den Goldenen Löwen des Wettbewerbs von Venedig?",
+      "correct": "Nomadland"
+    },
+    {
+      "rank": 43,
+      "film": "Nomadland",
+      "question_id": "SCHAUSPIELER-202610-P01-088-L-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-088-L-2",
+      "question": "Welche Schauspielerin verkörpert Fern in „Nomadland“?",
+      "correct": "Frances McDormand"
+    },
+    {
+      "rank": 43,
+      "film": "Nomadland",
+      "question_id": "SCHAUSPIELER-202610-P01-088-S-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-088-S-2",
+      "question": "Welche Regisseurin drehte „Nomadland“ mit McDormand?",
+      "correct": "Chloé Zhao"
+    },
+    {
+      "rank": 48,
+      "film": "Anatomie eines Falls",
+      "question_id": "PRZ-202610-P01-L-038",
+      "knowledge_id": "K-PRZ-202610-P01-L-038",
+      "question": "Cannes 2023: Welcher Film erhielt die Goldene Palme?",
+      "correct": "Anatomie eines Falls"
+    },
+    {
+      "rank": 50,
+      "film": "Perfect Days",
+      "question_id": "PRZ-202610-P01-M-037",
+      "knowledge_id": "K-PRZ-202610-P01-M-037",
+      "question": "„Perfect Days“ (2023): Wer gewann dafür den Cannes-Darstellerpreis?",
+      "correct": "Kōji Yakusho"
+    },
+    {
+      "rank": 51,
+      "film": "Shoplifters – Familienbande",
+      "question_id": "PRZ-202610-P01-L-036",
+      "knowledge_id": "K-PRZ-202610-P01-L-036",
+      "question": "Cannes 2018: Welcher Film erhielt die Goldene Palme?",
+      "correct": "Shoplifters – Familienbande"
+    },
+    {
+      "rank": 57,
+      "film": "Die Jagd",
+      "question_id": "PRZ-202610-P01-M-034",
+      "knowledge_id": "K-PRZ-202610-P01-M-034",
+      "question": "„Die Jagd“ (2012): Wer erhielt 2012 den Cannes-Darstellerpreis?",
+      "correct": "Mads Mikkelsen"
+    },
+    {
+      "rank": 57,
+      "film": "Die Jagd",
+      "question_id": "SCHAUSPIELER-202610-P03-146-S-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-146-S-1",
+      "question": "In welcher Einrichtung arbeitet Mads Mikkelsens Lucas in „Die Jagd“, bevor eine falsche Anschuldigung sein Leben verändert?",
+      "correct": "In einem Kindergarten"
+    },
+    {
+      "rank": 58,
+      "film": "The Florida Project",
+      "question_id": "SCHAUSPIELER-202610-P03-136-M-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-136-M-2",
+      "question": "Welche Aufgabe hat Willem Dafoes Bobby in „The Florida Project“?",
+      "correct": "Er leitet ein Motel."
+    },
+    {
+      "rank": 65,
+      "film": "Kikis kleiner Lieferservice",
+      "question_id": "SCHAUSPIELER-202610-P02-119-A-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P02-119-A-1",
+      "question": "Welche Hauptfigur spricht Kirsten Dunst in Disneys englischer Synchronfassung von Hayao Miyazakis „Kikis kleiner Lieferservice“?",
+      "correct": "Kiki"
+    },
+    {
+      "rank": 69,
+      "film": "Aladdin",
+      "question_id": "SCHAUSPIELER-202610-P01-024-L-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-024-L-2",
+      "question": "Welche Figur spricht Williams im englischen „Aladdin“ von 1992?",
+      "correct": "Dschinni"
+    },
+    {
+      "rank": 71,
+      "film": "Big Fish",
+      "question_id": "SCHAUSPIELER-202610-P03-141-M-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-141-M-2",
+      "question": "Welchen Teil des Lebens von Edward Bloom spielt Ewan McGregor in „Big Fish“?",
+      "correct": "Die jüngeren Jahre"
+    },
+    {
+      "rank": 75,
+      "film": "The Green Knight",
+      "question_id": "SCHAUSPIELER-202610-P03-149-S-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-149-S-2",
+      "question": "Welchen Ritter spielt Dev Patel in „The Green Knight“?",
+      "correct": "Gawain"
+    },
+    {
+      "rank": 80,
+      "film": "Orlando",
+      "question_id": "SCHAUSPIELER-202610-P02-117-M-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P02-117-M-1",
+      "question": "Wessen Roman wurde für „Orlando“ mit Tilda Swinton in der Titelrolle verfilmt?",
+      "correct": "Virginia Woolfs"
+    },
+    {
+      "rank": 81,
+      "film": "Hereditary – Das Vermächtnis",
+      "question_id": "SCHAUSPIELER-202610-P03-166-M-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-166-M-2",
+      "question": "Welchen künstlerischen Beruf hat Toni Collettes Annie Graham in „Hereditary“?",
+      "correct": "Sie baut Miniaturmodelle."
+    },
+    {
+      "rank": 84,
+      "film": "Der Leuchtturm",
+      "question_id": "SCHAUSPIELER-202610-P03-136-S-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-136-S-1",
+      "question": "Mit welchem Schauspieler bildet Willem Dafoe das zentrale Leuchtturmwärterduo in „Der Leuchtturm“?",
+      "correct": "Robert Pattinson"
+    },
+    {
+      "rank": 87,
+      "film": "Suspiria",
+      "question_id": "SCHAUSPIELER-202610-P02-117-S-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P02-117-S-2",
+      "question": "Unter welchem zusätzlichen Darstellernamen verbarg Tilda Swinton ihre Rolle als Dr. Josef Klemperer in „Suspiria“ von 2018 zunächst?",
+      "correct": "Lutz Ebersdorf"
+    },
+    {
+      "rank": 99,
+      "film": "Die Fliege",
+      "question_id": "SF-202609-P02-L-027",
+      "knowledge_id": "K-SF-202609-P02-L-027",
+      "question": "„Die Fliege“ (1986): Wer spielt den Wissenschaftler Seth Brundle?",
+      "correct": "Jeff Goldblum"
+    },
+    {
+      "rank": 99,
+      "film": "Die Fliege",
+      "question_id": "SF-202609-P02-L-028",
+      "knowledge_id": "K-SF-202609-P02-L-028",
+      "question": "„Die Fliege“ (1986): Was entwickelt Brundle in seinem Labor?",
+      "correct": "Eine Teleportationsanlage"
+    },
+    {
+      "rank": 99,
+      "film": "Die Fliege",
+      "question_id": "SF-202609-P02-M-027",
+      "knowledge_id": "K-SF-202609-P02-M-027",
+      "question": "„Die Fliege“ (1986): Welchen Beruf hat Veronica Quaife?",
+      "correct": "Wissenschaftsjournalistin"
+    },
+    {
+      "rank": 99,
+      "film": "Die Fliege",
+      "question_id": "SF-202609-P02-M-028",
+      "knowledge_id": "K-SF-202609-P02-M-028",
+      "question": "David Cronenbergs Körperhorrorfilm von 1986: Welches Tier gelangt unbemerkt mit Seth Brundle (Jeff Goldblum) in den Telepod?",
+      "correct": "Eine Fliege"
+    },
+    {
+      "rank": 99,
+      "film": "Die Fliege",
+      "question_id": "SF-202609-P02-S-027",
+      "knowledge_id": "K-SF-202609-P02-S-027",
+      "question": "„Die Fliege“ (1986): Wie deutet Brundle seine zunächst gesteigerte Kraft?",
+      "correct": "Als reinigende Verbesserung durch Teleportation"
+    },
+    {
+      "rank": 99,
+      "film": "Die Fliege",
+      "question_id": "SF-202609-P02-S-028",
+      "knowledge_id": "K-SF-202609-P02-S-028",
+      "question": "„Die Fliege“ (1986): Wie verarbeitet Brundle später feste Nahrung?",
+      "correct": "Er verflüssigt sie mit Verdauungssekret"
+    },
+    {
+      "rank": 99,
+      "film": "Die Fliege",
+      "question_id": "SF-202609-P02-L-027-V1",
+      "knowledge_id": "K-SF-202609-P02-L-027",
+      "question": "„Die Fliege“ (1986): Welcher Schauspieler verkörpert den Erfinder der Telepods?",
+      "correct": "Jeff Goldblum"
+    },
+    {
+      "rank": 99,
+      "film": "Die Fliege",
+      "question_id": "FF-339-YEAR",
+      "knowledge_id": "K-FF-339-YEAR",
+      "question": "„Die Fliege“: In welchem Jahr erschien der Film von David Cronenberg erstmals?",
+      "correct": "1986"
+    },
+    {
+      "rank": 99,
+      "film": "Die Fliege",
+      "question_id": "FF-339-DIRECTOR",
+      "knowledge_id": "K-FF-339-DIRECTOR",
+      "question": "„Die Fliege“ (1986): Wer ist für die Regie genannt?",
+      "correct": "David Cronenberg"
+    },
+    {
+      "rank": 99,
+      "film": "Die Fliege",
+      "question_id": "SCHAUSPIELER-202610-P03-155-M-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-155-M-1",
+      "question": "Welchen Beruf hat Geena Davis' Veronica Quaife in „Die Fliege“?",
+      "correct": "Journalistin"
+    },
+    {
+      "rank": 102,
+      "film": "Jojo Rabbit",
+      "question_id": "SCHAUSPIELER-202610-P01-083-M-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-083-M-2",
+      "question": "Wen verkörpert Johansson als Mutter in „Jojo Rabbit“?",
+      "correct": "Rosie Betzler"
+    },
+    {
+      "rank": 110,
+      "film": "Dinner für Spinner",
+      "question_id": "KOM-202609-P02-L-051",
+      "knowledge_id": "K-KOM-202609-P02-L-051",
+      "question": "„Dinner für Spinner“ (2010): Wer spielt den Mäusepräparator Barry Speck?",
+      "correct": "Steve Carell"
+    },
+    {
+      "rank": 110,
+      "film": "Dinner für Spinner",
+      "question_id": "KOM-202609-P02-L-052",
+      "knowledge_id": "K-KOM-202609-P02-L-052",
+      "question": "„Dinner für Spinner“ (2010): Was sollen die eingeladenen Sonderlinge bei dem Dinner tatsächlich liefern?",
+      "correct": "Unterhaltung durch ihre Bloßstellung"
+    },
+    {
+      "rank": 110,
+      "film": "Dinner für Spinner",
+      "question_id": "KOM-202609-P02-M-051",
+      "knowledge_id": "K-KOM-202609-P02-M-051",
+      "question": "„Dinner für Spinner“ (2010): Welche Tiere verwendet Barry für seine Miniaturkunstwerke?",
+      "correct": "Mäuse"
+    },
+    {
+      "rank": 110,
+      "film": "Dinner für Spinner",
+      "question_id": "KOM-202609-P02-M-052",
+      "knowledge_id": "K-KOM-202609-P02-M-052",
+      "question": "„Dinner für Spinner“ (2010): Wer spielt Tim Conrad?",
+      "correct": "Paul Rudd"
+    },
+    {
+      "rank": 110,
+      "film": "Dinner für Spinner",
+      "question_id": "KOM-202609-P02-S-051",
+      "knowledge_id": "K-KOM-202609-P02-S-051",
+      "question": "„Dinner für Spinner“ (2010): Welche angebliche Fähigkeit behauptet Barrys Rivale Therman zu besitzen?",
+      "correct": "Gedankenkontrolle"
+    },
+    {
+      "rank": 110,
+      "film": "Dinner für Spinner",
+      "question_id": "KOM-202609-P02-S-052",
+      "knowledge_id": "K-KOM-202609-P02-S-052",
+      "question": "„Dinner für Spinner“ (2010): Auf welchem französischen Film beruht die Komödie?",
+      "correct": "Le Dîner de cons"
+    },
+    {
+      "rank": 110,
+      "film": "Dinner für Spinner",
+      "question_id": "KOM-202609-P02-M-051-V1",
+      "knowledge_id": "K-KOM-202609-P02-M-051",
+      "question": "„Dinner für Spinner“ (2010): Mit welchen präparierten Tieren gestaltet Barry seine Dioramen?",
+      "correct": "Mäuse"
+    },
+    {
+      "rank": 110,
+      "film": "Dinner für Spinner",
+      "question_id": "FF-401-YEAR",
+      "knowledge_id": "K-FF-401-YEAR",
+      "question": "„Dinner für Spinner“: In welchem Jahr erschien der Film von Jay Roach erstmals?",
+      "correct": "2010"
+    },
+    {
+      "rank": 110,
+      "film": "Dinner für Spinner",
+      "question_id": "FF-401-DIRECTOR",
+      "knowledge_id": "K-FF-401-DIRECTOR",
+      "question": "„Dinner für Spinner“ (2010): Wer ist für die Regie genannt?",
+      "correct": "Jay Roach"
+    },
+    {
+      "rank": 121,
+      "film": "Die sieben Samurai",
+      "question_id": "SCHAUSPIELER-202610-P01-049-M-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-049-M-1",
+      "question": "Wie heißt Mifunes vorlaute Figur in „Die sieben Samurai“?",
+      "correct": "Kikuchiyo"
+    },
+    {
+      "rank": 134,
+      "film": "Once Upon a Time in China",
+      "question_id": "MAR-L-004",
+      "knowledge_id": "K-MAR-02-02",
+      "question": "„Drunken Master – The Beginning“ (1978): Welche Kampfmethode lernt Wong Fei-hung bei Beggar So?",
+      "correct": "Das Boxen der acht betrunkenen Unsterblichen"
+    },
+    {
+      "rank": 134,
+      "film": "Once Upon a Time in China",
+      "question_id": "MAR-S-003",
+      "knowledge_id": "K-MAR-02-05",
+      "question": "„Drunken Master – The Beginning“ (1978): Was bringt Wong Fei-hung dazu, nach seiner Flucht ernsthaft zum Training zurückzukehren?",
+      "correct": "Yim Tit-sam besiegt und demütigt ihn."
+    },
+    {
+      "rank": 134,
+      "film": "Once Upon a Time in China",
+      "question_id": "MAR-S-004",
+      "knowledge_id": "K-MAR-02-06",
+      "question": "„Drunken Master – The Beginning“ (1978): Wie überwindet Wong Fei-hung im Schlusskampf die Lücke in seiner Ausbildung?",
+      "correct": "Er entwickelt eine eigene Ausführung des zuvor verschmähten weiblichen Stils."
+    },
+    {
+      "rank": 134,
+      "film": "Once Upon a Time in China",
+      "question_id": "MAR-L-006",
+      "knowledge_id": "K-MAR-03-02",
+      "question": "„Drunken Master 2“ (1994): Welches Geschäft versucht Wong Fei-hung aufzudecken und zu stoppen?",
+      "correct": "Den Schmuggel chinesischer Kulturschätze ins Ausland"
+    },
+    {
+      "rank": 134,
+      "film": "Once Upon a Time in China",
+      "question_id": "MAR-M-005",
+      "knowledge_id": "K-MAR-03-03",
+      "question": "„Drunken Master 2“ (1994): Was erhält Wong Fei-hung durch die vertauschten Kästen anstelle der Ginsengwurzel?",
+      "correct": "Ein kaiserliches Siegel"
+    },
+    {
+      "rank": 134,
+      "film": "Once Upon a Time in China",
+      "question_id": "MAR-M-006-V1",
+      "knowledge_id": "K-MAR-03-04",
+      "question": "„Drunken Master 2“ (1994): Welche Sorge des Vaters bestätigt sich, als Wong Fei-hung nach starkem Trinken wehrlos gedemütigt wird?",
+      "correct": "Alkohol kann aus vermeintlicher Stärke Kontrollverlust machen."
+    },
+    {
+      "rank": 134,
+      "film": "Once Upon a Time in China",
+      "question_id": "SCHAUSPIELER-202610-P03-148-A-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-148-A-2",
+      "question": "Welchen Vater des Volkshelden Wong Fei-hung spielt Donnie Yen in „Iron Monkey“ von 1993?",
+      "correct": "Wong Kei-ying"
+    },
+    {
+      "rank": 135,
+      "film": "Iron Monkey",
+      "question_id": "SCHAUSPIELER-202610-P03-148-A-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-148-A-2",
+      "question": "Welchen Vater des Volkshelden Wong Fei-hung spielt Donnie Yen in „Iron Monkey“ von 1993?",
+      "correct": "Wong Kei-ying"
+    },
+    {
+      "rank": 138,
+      "film": "The Killer",
+      "question_id": "SCHAUSPIELER-202610-P01-047-S-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-047-S-2",
+      "question": "Chow Yun-fat: Welchen Beruf hat Chows Figur Ah Jong in „The Killer“?",
+      "correct": "Auftragskiller"
+    },
+    {
+      "rank": 141,
+      "film": "Cabaret",
+      "question_id": "PRZ-202610-P01-M-006",
+      "knowledge_id": "K-PRZ-202610-P01-M-006",
+      "question": "Sally Bowles tritt im Berliner Kit Kat Klub auf. Welche Darstellerin erhielt für diese Rolle in „Cabaret“ den Oscar 1973?",
+      "correct": "Liza Minnelli"
+    },
+    {
+      "rank": 141,
+      "film": "Cabaret",
+      "question_id": "PRZ-202610-P01-E-003",
+      "knowledge_id": "K-PRZ-202610-P01-E-003",
+      "question": "„Cabaret“ verbindet Bühnennummern mit politischer Bedrohung. Wer wurde 1973 für den Schnitt dieses Musicals ausgezeichnet?",
+      "correct": "David Bretherton"
+    },
+    {
+      "rank": 141,
+      "film": "Cabaret",
+      "question_id": "SCHAUSPIELER-202610-P01-082-A-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-082-A-1",
+      "question": "Welche Broadwayrolle spielte Stone in „Cabaret“?",
+      "correct": "Sally Bowles"
+    },
+    {
+      "rank": 144,
+      "film": "Funny Girl",
+      "question_id": "SCHAUSPIELER-202610-P01-050-S-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-050-S-1",
+      "question": "Mit welcher Sängerin spielte Sharif in „Funny Girl“?",
+      "correct": "Barbra Streisand"
+    },
+    {
+      "rank": 148,
+      "film": "Dancer in the Dark",
+      "question_id": "PRZ-202610-P01-L-031",
+      "knowledge_id": "K-PRZ-202610-P01-L-031",
+      "question": "Cannes 2000: Welcher Film erhielt die Goldene Palme?",
+      "correct": "Dancer in the Dark"
+    },
+    {
+      "rank": 148,
+      "film": "Dancer in the Dark",
+      "question_id": "PRZ-202610-P01-M-028",
+      "knowledge_id": "K-PRZ-202610-P01-M-028",
+      "question": "„Dancer in the Dark“ (2000): Welche Sängerin gewann dafür den Cannes-Darstellerinnenpreis?",
+      "correct": "Björk"
+    },
+    {
+      "rank": 163,
+      "film": "Die Nacht vor der Hochzeit",
+      "question_id": "SCHAUSPIELER-202610-P01-063-A-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-063-A-2",
+      "question": "Welche Geschäftsentscheidung half Hepburn bei ihrem Comeback mit „The Philadelphia Story“?",
+      "correct": "Sie sicherte sich die Filmrechte am Bühnenstück"
+    },
+    {
+      "rank": 165,
+      "film": "Rendezvous nach Ladenschluss",
+      "question_id": "ROM-S-010",
+      "knowledge_id": "K-ROM-05-06",
+      "question": "„E-m@il für Dich“ (1998): Auf welchen Filmklassiker verweist der Name von Kathleens Laden „The Shop Around the Corner“?",
+      "correct": "Rendezvous nach Ladenschluss"
+    },
+    {
+      "rank": 171,
+      "film": "Ninotschka",
+      "question_id": "SCHAUSPIELER-202610-P02-124-M-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P02-124-M-2",
+      "question": "Wer komponierte das Broadway-Musical „Silk Stockings“, in dem Hildegard Knef die Ninotchka spielte?",
+      "correct": "Cole Porter"
+    },
+    {
+      "rank": 181,
+      "film": "Dune",
+      "question_id": "SFI-202610-P01-L-001",
+      "knowledge_id": "K-SFI-202610-P01-L-001",
+      "question": "„Dune – Der Wüstenplanet“ (1984): Wie heißt der Wüstenplanet, auf dem das wertvolle Spice gewonnen wird?",
+      "correct": "Arrakis"
+    },
+    {
+      "rank": 181,
+      "film": "Dune",
+      "question_id": "SFI-202610-P01-L-002",
+      "knowledge_id": "K-SFI-202610-P01-L-002",
+      "question": "„Dune – Der Wüstenplanet“ (1984): Wer spielt Paul Atreides in dieser Verfilmung?",
+      "correct": "Kyle MacLachlan"
+    },
+    {
+      "rank": 181,
+      "film": "Dune",
+      "question_id": "SFI-202610-P01-M-001",
+      "knowledge_id": "K-SFI-202610-P01-M-001",
+      "question": "„Dune – Der Wüstenplanet“ (1984): Welcher Musiker verkörpert Feyd-Rautha?",
+      "correct": "Sting"
+    },
+    {
+      "rank": 181,
+      "film": "Dune",
+      "question_id": "SFI-202610-P01-M-002",
+      "knowledge_id": "K-SFI-202610-P01-M-002",
+      "question": "„Dune – Der Wüstenplanet“ (1984): Welcher Autor schrieb die Romanvorlage?",
+      "correct": "Frank Herbert"
+    },
+    {
+      "rank": 181,
+      "film": "Dune",
+      "question_id": "SFI-202610-P01-S-001",
+      "knowledge_id": "K-SFI-202610-P01-S-001",
+      "question": "„Dune – Der Wüstenplanet“ (1984): Welche Band komponierte den größten Teil der Filmmusik?",
+      "correct": "Toto"
+    },
+    {
+      "rank": 181,
+      "film": "Dune",
+      "question_id": "SFI-202610-P01-S-002",
+      "knowledge_id": "K-SFI-202610-P01-S-002",
+      "question": "„Dune – Der Wüstenplanet“ (1984): Welcher Name steht bei der Regie der von Lynch abgelehnten langen Fernsehfassung?",
+      "correct": "Alan Smithee"
+    },
+    {
+      "rank": 181,
+      "film": "Dune",
+      "question_id": "SFI-202610-P01-M-003",
+      "knowledge_id": "K-SFI-202610-P01-M-003",
+      "question": "„Dune – Der Wüstenplanet“ (1984): Wer führte bei dieser Fassung Regie?",
+      "correct": "David Lynch"
+    },
+    {
+      "rank": 181,
+      "film": "Dune",
+      "question_id": "SFI-202610-P01-S-003",
+      "knowledge_id": "K-SFI-202610-P01-S-003",
+      "question": "„Dune – Der Wüstenplanet“ – die Fassung von David Lynch: In welchem Jahr wurde diese Fassung erstmals öffentlich gezeigt oder veröffentlicht?",
+      "correct": "1984"
+    },
+    {
+      "rank": 183,
+      "film": "Everything Everywhere All at Once",
+      "question_id": "PRZ-202610-P01-L-019",
+      "knowledge_id": "K-PRZ-202610-P01-L-019",
+      "question": "Eine Waschsalonbesitzerin begegnet alternativen Versionen ihres Lebens. Welcher Film wurde 2023 mit dem Oscar als bester Film ausgezeichnet?",
+      "correct": "Everything Everywhere All at Once"
+    },
+    {
+      "rank": 183,
+      "film": "Everything Everywhere All at Once",
+      "question_id": "PRZ-202610-P01-M-024",
+      "knowledge_id": "K-PRZ-202610-P01-M-024",
+      "question": "Als Evelyn Wang erlebt sie viele mögliche Leben. Welche Darstellerin gewann dafür in „Everything Everywhere All at Once“ den Oscar 2023?",
+      "correct": "Michelle Yeoh"
+    },
+    {
+      "rank": 183,
+      "film": "Everything Everywhere All at Once",
+      "question_id": "PRZ-202610-P01-E-024",
+      "knowledge_id": "K-PRZ-202610-P01-E-024",
+      "question": "Eine nachgedrehte Aufnahme stärkte in „Everything Everywhere All at Once“ Joys emotionale Geschichte. Wer erhielt 2023 für den Schnitt des Films den Oscar?",
+      "correct": "Paul Rogers"
+    },
+    {
+      "rank": 183,
+      "film": "Everything Everywhere All at Once",
+      "question_id": "SCHAUSPIELER-202610-P01-096-L-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-096-L-1",
+      "question": "Wer spielt Evelyn Wang in „Everything Everywhere All at Once“?",
+      "correct": "Michelle Yeoh"
+    },
+    {
+      "rank": 183,
+      "film": "Everything Everywhere All at Once",
+      "question_id": "SCHAUSPIELER-202610-P01-096-M-2",
+      "knowledge_id": "K-PRZ-202610-P01-M-024",
+      "question": "Welchen Oscar gewann Yeoh für „Everything Everywhere All at Once“?",
+      "correct": "Beste Hauptdarstellerin"
+    },
+    {
+      "rank": 193,
+      "film": "Solaris",
+      "question_id": "ART-L-017",
+      "knowledge_id": "K-ART-09-01",
+      "question": "„Solaris“ (1972): Welchen Beruf hat Kris Kelvin?",
+      "correct": "Psychologe"
+    },
+    {
+      "rank": 193,
+      "film": "Solaris",
+      "question_id": "ART-L-018",
+      "knowledge_id": "K-ART-09-02",
+      "question": "„Solaris“ (1972): Wer spielt Kris Kelvin in Tarkowskis Fassung von 1972?",
+      "correct": "Donatas Banionis"
+    },
+    {
+      "rank": 193,
+      "film": "Solaris",
+      "question_id": "ART-M-017",
+      "knowledge_id": "K-ART-09-03",
+      "question": "„Solaris“ (1972): Wer erscheint Kelvin auf der Station als geheimnisvoller Gast?",
+      "correct": "Seine verstorbene Frau Hari"
+    },
+    {
+      "rank": 193,
+      "film": "Solaris",
+      "question_id": "ART-M-018",
+      "knowledge_id": "K-ART-09-04",
+      "question": "„Solaris“ (1972): Wer schrieb den zugrunde liegenden Roman?",
+      "correct": "Stanisław Lem"
+    },
+    {
+      "rank": 193,
+      "film": "Solaris",
+      "question_id": "ART-S-017",
+      "knowledge_id": "K-ART-09-05",
+      "question": "„Solaris“ (1972): Welche Erscheinungsform besitzt die zentrale fremde Intelligenz?",
+      "correct": "Ein planetenweiter Ozean"
+    },
+    {
+      "rank": 193,
+      "film": "Solaris",
+      "question_id": "ART-S-018",
+      "knowledge_id": "K-ART-09-06",
+      "question": "„Solaris“ (1972): Was enthüllt die zurückweichende Kamera im Schlussbild?",
+      "correct": "Das Vaterhaus steht auf einer Insel im Solaris-Ozean"
+    },
+    {
+      "rank": 193,
+      "film": "Solaris",
+      "question_id": "FF-034-YEAR",
+      "knowledge_id": "K-FF-034-YEAR",
+      "question": "„Solaris“: In welchem Jahr erschien der Film von Andrei Tarkovsky erstmals?",
+      "correct": "1972"
+    },
+    {
+      "rank": 193,
+      "film": "Solaris",
+      "question_id": "FF-034-DIRECTOR",
+      "knowledge_id": "K-FF-034-DIRECTOR",
+      "question": "„Solaris“ (1972): Wer ist für die Regie genannt?",
+      "correct": "Andrei Tarkovsky"
+    },
+    {
+      "rank": 201,
+      "film": "Chinatown",
+      "question_id": "SCHAUSPIELER-202610-P01-007-M-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-007-M-2",
+      "question": "Welchen Detektiv spielte Nicholson in „Chinatown“?",
+      "correct": "Jake Gittes"
+    },
+    {
+      "rank": 209,
+      "film": "Die Unbestechlichen",
+      "question_id": "SCHAUSPIELER-202610-P02-101-M-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P02-101-M-1",
+      "question": "Kevin Costner spielt in „Die Unbestechlichen“ Eliot Ness. Gegen welchen Gangster richtet sich dessen Ermittlerteam?",
+      "correct": "Al Capone"
+    },
+    {
+      "rank": 209,
+      "film": "Die Unbestechlichen",
+      "question_id": "SCHAUSPIELER-202610-P02-110-S-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P02-110-S-1",
+      "question": "Welchen Watergate-Journalisten spielt Dustin Hoffman in „Die Unbestechlichen“ von 1976?",
+      "correct": "Carl Bernstein"
+    },
+    {
+      "rank": 211,
+      "film": "Klute",
+      "question_id": "SCHAUSPIELER-202610-P03-143-M-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-143-M-1",
+      "question": "Welchen Ermittler verkörpert Donald Sutherland im Thriller „Klute“?",
+      "correct": "John Klute"
+    },
+    {
+      "rank": 215,
+      "film": "Tödliche Versprechen – Eastern Promises",
+      "question_id": "SCHAUSPIELER-202610-P03-145-M-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-145-M-2",
+      "question": "Welche Stellung hat Vincent Cassels Kirill in „Tödliche Versprechen – Eastern Promises“?",
+      "correct": "Er ist der Sohn eines russischen Gangsterbosses."
+    },
+    {
+      "rank": 215,
+      "film": "Tödliche Versprechen – Eastern Promises",
+      "question_id": "SCHAUSPIELER-202610-P03-159-S-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-159-S-2",
+      "question": "Welchen Beruf hat Naomi Watts' Anna in „Tödliche Versprechen – Eastern Promises“?",
+      "correct": "Hebamme"
+    },
+    {
+      "rank": 233,
+      "film": "The Ballad of Buster Scruggs",
+      "question_id": "PRZ-202610-P01-S-040",
+      "knowledge_id": "K-PRZ-202610-P01-S-040",
+      "question": "Welches Team erhielt 2018 den Venedig-Drehbuchpreis für The Ballad of Buster Scruggs?",
+      "correct": "Joel und Ethan Coen"
+    },
+    {
+      "rank": 236,
+      "film": "The Sisters Brothers",
+      "question_id": "PRZ-202610-P01-S-047",
+      "knowledge_id": "K-PRZ-202610-P01-S-047",
+      "question": "Für welchen Film gewann Jacques Audiard 2018 den Regiepreis in Venedig?",
+      "correct": "The Sisters Brothers"
+    },
+    {
+      "rank": 237,
+      "film": "The Power of the Dog",
+      "question_id": "PRZ-202610-P01-S-050",
+      "knowledge_id": "K-PRZ-202610-P01-S-050",
+      "question": "Für welchen Film erhielt Jane Campion 2021 den Silbernen Löwen für die Regie?",
+      "correct": "The Power of the Dog"
+    },
+    {
+      "rank": 237,
+      "film": "The Power of the Dog",
+      "question_id": "SCHAUSPIELER-202610-P02-119-S-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P02-119-S-2",
+      "question": "Welche Figur spielt Kirsten Dunst in „The Power of the Dog“, für die sie erstmals für einen Oscar nominiert wurde?",
+      "correct": "Rose Gordon"
+    }
+  ],
+  "variants": [
+    {
+      "rank": 43,
+      "code": "D",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-088-S-2",
+      "variant_of": "SCHAUSPIELER-202610-P01-088-S-2"
+    }
+  ],
+  "review_result": "Eine vorhandene Regieidentität für Nomadland wird weiterverwendet. Die übrigen Kandidaten prüfen andere Ziele, andere Filmfassungen oder nur gleichlautende Wörter; neue Fragen wurden entsprechend abgegrenzt."
+}

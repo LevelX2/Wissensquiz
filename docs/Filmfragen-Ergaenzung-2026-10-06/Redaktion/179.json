@@ -1,0 +1,218 @@
+{
+  "rank": 179,
+  "directors": [
+    "Gillian Robespierre"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine kleine unabhängige Rom-Com mit ungewöhnlich direktem Schwangerschaftsthema; für breite Zuschauer eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung 2014 beim Sundance-Festival; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Obvious_Child",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Obvious_Child",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "studio": "https://a24films.com/films/obvious-child"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was macht Donna Stern (Jenny Slate) in @ auf der Bühne?",
+      "answers": [
+        "Stand-up-Comedy",
+        "Zauberkunst",
+        "Ballett",
+        "Klassischen Operngesang"
+      ],
+      "feedback": [
+        "Donna tritt als Stand-up-Komikerin auf.",
+        "Sie arbeitet nicht als Bühnenzauberin.",
+        "Ballett ist nicht ihr Auftrittsberuf.",
+        "Sie singt keine Oper."
+      ],
+      "short": "Donna tritt als Stand-up-Komikerin auf.",
+      "context": "Donna tritt als Stand-up-Komikerin auf. Persönliche Erfahrungen sind ihr Material; als ihr Alltag aus dem Gleichgewicht gerät, muss sie den Abstand zwischen öffentlicher Offenheit und privater Verletzlichkeit neu bestimmen.",
+      "anchor": "Donna verarbeitet persönliche Erlebnisse auf der Comedybühne.",
+      "interest": "Donna verarbeitet persönliche Erlebnisse auf der Comedybühne.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche unerwartete Folge hat Donnas Nacht mit Max (Jake Lacy) in @?",
+      "answers": [
+        "Eine Schwangerschaft",
+        "Eine Kündigung im gemeinsamen Büro",
+        "Eine kurzfristige Verlobung",
+        "Ein Streit um einen gemeinsamen Mietvertrag"
+      ],
+      "feedback": [
+        "Donna (Jenny Slate) wird nach der Nacht mit Max schwanger.",
+        "Donna und Max arbeiten nicht in einem solchen Büro.",
+        "Die Folge ist eine Schwangerschaft, keine Verlobung.",
+        "Sie haben keinen gemeinsamen Mietvertrag."
+      ],
+      "short": "Donna (Jenny Slate) wird nach der Nacht mit Max schwanger.",
+      "context": "Donna (Jenny Slate) wird nach der Nacht mit Max schwanger. Die unerwünschte Schwangerschaft verschärft ihre berufliche und emotionale Unsicherheit; der Film behandelt ihre Entscheidung als konkreten Teil des Erwachsenwerdens.",
+      "anchor": "Die neue Begegnung führt zu einer ungewollten Schwangerschaft.",
+      "interest": "Die neue Begegnung führt zu einer ungewollten Schwangerschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Auf welchen Tag legt Donna (Jenny Slate) in @ ihren Schwangerschaftsabbruch?",
+      "answers": [
+        "Valentinstag",
+        "Neujahr",
+        "Halloween",
+        "Thanksgiving"
+      ],
+      "feedback": [
+        "Donna wählt den Valentinstag, weil als anderer Termin der Geburtstag ihrer Mutter angeboten wird.",
+        "Neujahr wird nicht gewählt.",
+        "Halloween ist nicht der Termin.",
+        "Thanksgiving ist nicht der angebotene Tag."
+      ],
+      "short": "Donna wählt den Valentinstag, weil als anderer Termin der Geburtstag ihrer Mutter angeboten wird.",
+      "context": "Donna wählt den Valentinstag, weil als anderer Termin der Geburtstag ihrer Mutter angeboten wird. Ein romantisch aufgeladener Kalendertag bekommt dadurch eine sehr persönliche und weniger erwartbare Bedeutung.",
+      "anchor": "Der Valentinstag erhält eine unerwartete persönliche Funktion.",
+      "interest": "Der Valentinstag erhält eine unerwartete persönliche Funktion.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum kennt Max (Jake Lacy) in @ Donnas Mutter bereits?",
+      "answers": [
+        "Sie war seine Professorin.",
+        "Sie hat ihm regelmäßig Massagen gegeben.",
+        "Sie war die Chefin seiner ersten Arbeitsstelle.",
+        "Sie war mit seinem Vater verheiratet."
+      ],
+      "feedback": [
+        "Donnas Mutter Nancy (Polly Draper) war Max’ Professorin.",
+        "Sie kennt ihn als frühere Professorin.",
+        "Die Bekanntschaft stammt aus seiner Ausbildung.",
+        "Es gibt keine entsprechende familiäre Verbindung."
+      ],
+      "short": "Donnas Mutter Nancy (Polly Draper) war Max’ Professorin.",
+      "context": "Donnas Mutter Nancy (Polly Draper) war Max’ Professorin. Donna (Jenny Slate) begegnet ihm deshalb unerwartet im familiären Umfeld; ihr vermeintlich getrenntes Liebes- und Familienleben überschneidet sich konkret.",
+      "anchor": "Ein früheres Hochschulverhältnis bringt Max ins Familienleben.",
+      "interest": "Ein früheres Hochschulverhältnis bringt Max ins Familienleben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Erfahrung teilt Donnas Mutter (Polly Draper) mit ihr in @?",
+      "answers": [
+        "Sie hatte selbst vor Donnas Geburt einen Schwangerschaftsabbruch.",
+        "Sie hat Donna während des Studiums allein großgezogen.",
+        "Sie hat ihre Schwangerschaft vor der Familie geheim gehalten.",
+        "Sie hat denselben Arzt wegen einer Geburt besucht."
+      ],
+      "feedback": [
+        "Nancy erzählt Donna (Jenny Slate), dass sie vor ihrer Geburt selbst einen Schwangerschaftsabbruch hatte.",
+        "Die konkrete Offenbarung betrifft einen früheren Schwangerschaftsabbruch.",
+        "Sie berichtet von einem Abbruch vor Donnas Geburt.",
+        "Die Verbindung ist die Erfahrung eines Abbruchs, nicht einer Geburt."
+      ],
+      "short": "Nancy erzählt Donna (Jenny Slate), dass sie vor ihrer Geburt selbst einen Schwangerschaftsabbruch hatte.",
+      "context": "Nancy erzählt Donna (Jenny Slate), dass sie vor ihrer Geburt selbst einen Schwangerschaftsabbruch hatte. Diese gemeinsame Erfahrung ersetzt Verurteilung durch Verständnis und gibt Donna eine Unterstützung, die sie zunächst nicht erwartet hatte.",
+      "anchor": "Eine bisher unbekannte Erfahrung verbindet Mutter und Tochter.",
+      "interest": "Eine bisher unbekannte Erfahrung verbindet Mutter und Tochter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie reagiert Max (Jake Lacy) in @ schließlich auf Donnas Entscheidung?",
+      "answers": [
+        "Er begleitet und unterstützt sie beim Termin.",
+        "Er erklärt, nur bei einer Hochzeit helfen zu wollen.",
+        "Er bietet Geld an, bleibt beim Termin aber fern.",
+        "Er verlangt, dass sie die Entscheidung ihrer Mutter überlässt."
+      ],
+      "feedback": [
+        "Max bietet Donna (Jenny Slate) Begleitung beim Termin an und unterstützt ihre Entscheidung.",
+        "Seine Unterstützung ist nicht an eine Heirat gebunden.",
+        "Er begleitet sie tatsächlich.",
+        "Er respektiert Donnas Entscheidung."
+      ],
+      "short": "Max bietet Donna (Jenny Slate) Begleitung beim Termin an und unterstützt ihre Entscheidung.",
+      "context": "Max bietet Donna (Jenny Slate) Begleitung beim Termin an und unterstützt ihre Entscheidung. Nach dem Eingriff verbringen sie ruhige Zeit miteinander; die mögliche Romanze beruht so auf angenommenem Beistand statt auf einer erzwungenen Lösung.",
+      "anchor": "Max bietet Unterstützung statt Kontrolle.",
+      "interest": "Max bietet Unterstützung statt Kontrolle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2014",
+        "2011",
+        "2007",
+        "2016"
+      ],
+      "feedback": [
+        "2014 wurde der Langfilm bei Sundance gezeigt.",
+        "2011 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2014 wird im zeitlichen Hintergrund erklärt.",
+        "2007 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2014 wird im zeitlichen Hintergrund erklärt.",
+        "2016 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2014 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2014 wurde der Langfilm bei Sundance gezeigt.",
+      "context": "2014 wurde der Langfilm bei Sundance gezeigt. Er erweitert einen gleichnamigen Kurzfilm von 2009; fünf Jahre liegen zwischen beiden Fassungen. Jenny Slates Stand-up-Spiel verbindet die intime Ausgangslage mit einer Komödie, die den Schwangerschaftsabbruch offen behandelt.",
+      "anchor": "Kurzfilm 2009, Langfilm 2014: Fünf Jahre später wächst die Ausgangsidee zur abendfüllenden Komödie.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Gillian Robespierre",
+        "Nicole Holofcener",
+        "Claire Scanlon",
+        "Jon M. Chu"
+      ],
+      "feedback": [
+        "Gillian Robespierre schrieb und inszenierte den Langfilm nach dem früheren Kurzfilm.",
+        "Nicole Holofcener wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Gillian Robespierre.",
+        "Claire Scanlon wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Gillian Robespierre.",
+        "Jon M. Chu wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Gillian Robespierre."
+      ],
+      "short": "Gillian Robespierre schrieb und inszenierte den Langfilm nach dem früheren Kurzfilm.",
+      "context": "Gillian Robespierre schrieb und inszenierte den Langfilm nach dem früheren Kurzfilm. Jenny Slate spielt die Komikerin Donna, Jake Lacy Max. Die neue Beziehung wird nicht als Ersatz für Donnas Entscheidung erzählt, sondern als mögliche Unterstützung innerhalb ihres eigenen Lebenswegs.",
+      "anchor": "Gillian Robespierre schrieb und inszenierte den Langfilm nach dem früheren Kurzfilm.",
+      "interest": "Gillian Robespierre schrieb und inszenierte den Langfilm nach dem früheren Kurzfilm.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

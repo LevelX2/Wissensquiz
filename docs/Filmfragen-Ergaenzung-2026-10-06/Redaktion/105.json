@@ -1,0 +1,217 @@
+{
+  "rank": 105,
+  "directors": [
+    "Christopher Guest"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Amerikanische Kleinstadttheater-Satire mit kleiner deutschsprachiger Reichweite; als Entdeckung eingeordnet.",
+  "release_note": "Festivalvorführungen in Boston und Toronto 1996; regulärer US-Kinostart am 31. Januar 1997.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Waiting_for_Guffman",
+    "credits_rt": {
+      "url": "http://www.rottentomatoes.com/m/waiting_for_guffman/",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wofür bereiten die Einwohner von Blaine in @ eine Bühnenproduktion vor?",
+      "answers": [
+        "Für das 150-jährige Stadtjubiläum",
+        "Für das Jubiläum der örtlichen Schule",
+        "Für die Einweihung eines neuen Rathauses",
+        "Für die Bewerbung um ein regionales Kulturfestival"
+      ],
+      "feedback": [
+        "Das Musical soll die Geschichte der Stadt zum Jubiläum feiern.",
+        "Die Stadt feiert ihre Gründung vor 150 Jahren, kein Schuljubiläum.",
+        "Eine Rathauseinweihung ist nicht der Anlass.",
+        "Das Bühnenstück ist Teil des Stadtjubiläums, keine Festivalbewerbung."
+      ],
+      "short": "Das Musical soll die Geschichte der Stadt zum Jubiläum feiern.",
+      "context": "Blaine in Missouri bereitet Red, White and Blaine vor, ein Musical über die eigene Geschichte. Corky St. Clair (Christopher Guest) führt die Amateurgruppe an. Das lokale Fest bekommt für die Beteiligten bald eine zweite Bedeutung: Sie hoffen, dass die kleine Bühne zum Sprungbrett für eine große Laufbahn wird.",
+      "anchor": "Das Stadtjubiläum weckt übergroße Broadway-Hoffnungen.",
+      "interest": "Das Stadtjubiläum weckt übergroße Broadway-Hoffnungen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Hoffnung verbindet Corky St. Clair (Christopher Guest) in @ mit dem eingeladenen Mort Guffman?",
+      "answers": [
+        "Er könnte die Produktion an den Broadway bringen.",
+        "Er könnte eine landesweite Tournee finanzieren.",
+        "Er könnte den Mitspielern Filmrollen vermitteln.",
+        "Er könnte eine Rezension für die Lokalzeitung schreiben."
+      ],
+      "feedback": [
+        "Guffman soll als Broadway-Produzent die Aufführung beurteilen.",
+        "Corkys besondere Hoffnung ist der Broadway, nicht bloß eine finanzierte Tournee.",
+        "Filmcastings sind nicht die angenommene Funktion Guffmans.",
+        "Eine lokale Rezension entspricht nicht dem erhofften großen Durchbruch."
+      ],
+      "short": "Guffman soll als Broadway-Produzent die Aufführung beurteilen.",
+      "context": "Corky St. Clair (Christopher Guest) beruft sich auf frühere Theaterkontakte und kündigt einen bedeutenden Besucher an. Die Darsteller erwarten von Mort Guffmans Urteil mehr als Anerkennung im Ort: Es scheint über ihre berufliche Zukunft zu entscheiden. Ein einziger reservierter Zuschauerplatz trägt dadurch die Hoffnungen des ganzen Ensembles.",
+      "anchor": "Guffmans Platz steht für den ersehnten Weg an den Broadway.",
+      "interest": "Guffmans Platz steht für den ersehnten Weg an den Broadway.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum steht Corky St. Clair (Christopher Guest) in @ selbst in Rollen auf der Bühne, die für einen jungen Darsteller gedacht waren?",
+      "answers": [
+        "Johnny muss auf Druck seines Vaters aussteigen.",
+        "Johnny erhält kurzfristig ein professionelles Theaterangebot.",
+        "Johnny verletzt sich unmittelbar vor der Premiere.",
+        "Der Stadtrat lehnt Johnny wegen fehlender Bühnenerfahrung ab."
+      ],
+      "feedback": [
+        "Corky ersetzt den ausgeschiedenen Johnny.",
+        "Johnnys Vater setzt seinen Ausstieg durch; ein Theaterangebot ist nicht der Grund.",
+        "Eine Verletzung verursacht den Wechsel nicht.",
+        "Die familiäre Entscheidung erzwingt den Wechsel, keine Ablehnung durch den Stadtrat."
+      ],
+      "short": "Corky ersetzt den ausgeschiedenen Johnny.",
+      "context": "Johnny Savage (Matt Keeslar) muss die Produktion verlassen, weil sein Vater misstrauisch wird. Corky St. Clair (Christopher Guest) springt ein und behält dabei seine eigene auffällige Erscheinung und Spielweise. Der Leiter wird so zum Teil des Problems, das er lösen möchte: Der Anspruch auf professionelle Illusion stößt auf die sichtbaren Mittel des Amateurtheaters.",
+      "anchor": "Corkys Ersatzauftritt zeigt die Lücke zwischen Theatertraum und Bühnenwirklichkeit.",
+      "interest": "Corkys Ersatzauftritt zeigt die Lücke zwischen Theatertraum und Bühnenwirklichkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was verursacht Corkys (Christopher Guest) vorübergehenden Rückzug aus der Produktion in @?",
+      "answers": [
+        "Der Stadtrat verweigert seine hohe Budgetforderung.",
+        "Der Stadtrat verlangt eine vollständig neue Besetzung.",
+        "Die Beteiligten verweigern eine zusätzliche Abendprobe.",
+        "Corky erfährt von einem konkurrierenden Festprogramm."
+      ],
+      "feedback": [
+        "Der Stadtrat lehnt das verlangte Budget ab.",
+        "Der Streit betrifft seine außerordentlich hohe Budgetforderung.",
+        "Eine zusätzliche Probe ist nicht der Anlass seines Rückzugs.",
+        "Ein konkurrierendes Programm verursacht den Rückzug nicht."
+      ],
+      "short": "Der Stadtrat lehnt das verlangte Budget ab.",
+      "context": "Corky St. Clair (Christopher Guest) fordert vom Stadtrat 100.000 Dollar für die Jubiläumsaufführung. Als die Mittel verweigert werden, zieht er sich empört zurück. Die Darsteller holen ihn wieder ins Projekt. Seine künstlerische Selbstinszenierung trifft hier auf eine kommunale Wirklichkeit, in der große Träume mit sehr kleinen Ressourcen auskommen müssen.",
+      "anchor": "Corkys große Kunstforderung kollidiert mit dem kleinen Stadthaushalt.",
+      "interest": "Corkys große Kunstforderung kollidiert mit dem kleinen Stadthaushalt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Verwechslung enttäuscht das Ensemble nach der Aufführung in @?",
+      "answers": [
+        "Der Mann auf Guffmans Platz ist ein gewöhnlicher Besucher.",
+        "Guffman hat die Aufführung schon nach dem ersten Lied verlassen.",
+        "Guffman schickt einen Assistenten ohne Entscheidungsbefugnis.",
+        "Guffman sieht nur eine Aufzeichnung und lehnt sie später schriftlich ab."
+      ],
+      "feedback": [
+        "Der bewunderte Gast ist Roy Loomis und nicht Mort Guffman.",
+        "Der Mann auf dem erwarteten Platz ist gar nicht Guffman; es geht nicht um einen frühen Abgang.",
+        "Auch ein Theaterassistent sitzt dort nicht als Guffmans Vertreter.",
+        "Die Enttäuschung entsteht direkt durch die Identität des Besuchers."
+      ],
+      "short": "Der bewunderte Gast ist Roy Loomis und nicht Mort Guffman.",
+      "context": "Corky St. Clair (Christopher Guest) lädt den vermeintlichen Produzenten nach der Vorstellung hinter die Bühne. Roy Loomis (Paul Dooley) ist jedoch aus familiärem Anlass in Blaine und hat die Vorstellung lediglich genossen. Der tatsächliche Guffman konnte wegen eines Schneesturms nicht fliegen. Eine ehrliche lokale Freude bleibt zurück, ohne den ersehnten Karrieresprung.",
+      "anchor": "Ein begeisterter Zuschauer ist noch kein Broadway-Produzent.",
+      "interest": "Ein begeisterter Zuschauer ist noch kein Broadway-Produzent.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Prinzip prägt die Entstehung der Gespräche in @?",
+      "answers": [
+        "Lange improvisierte Szenen werden im Schnitt verdichtet.",
+        "Die Darsteller lernen ein vollständiges Dialogdrehbuch auswendig.",
+        "Die Gespräche entstehen erst durch die Nachsynchronisation.",
+        "Das Team verwendet wortgetreue Interviews mit wirklichen Einwohnern."
+      ],
+      "feedback": [
+        "Improvisierte Szenen liefern das Material für den späteren Schnitt.",
+        "Der Film verdichtet improvisierte Gespräche, statt allein ein fertiges Dialogbuch abzufilmen.",
+        "Die Gespräche entstehen beim Spiel, nicht erst im Synchronstudio.",
+        "Die Figuren und ihre Interviews sind erfunden, keine übernommenen Originalinterviews."
+      ],
+      "short": "Improvisierte Szenen liefern das Material für den späteren Schnitt.",
+      "context": "Christopher Guest arbeitete mit angelegten Figuren und langen improvisierten Szenen. Die fertige Laufzeit bildet nur einen kleinen Teil des aufgenommenen Materials ab. So kann der Film wie eine beiläufige Dokumentation wirken, obwohl Auswahl und Rhythmus der Komik erst aus einer gezielten Montage entstehen.",
+      "anchor": "Die scheinbare Beiläufigkeit entsteht aus Improvisation und Auswahl.",
+      "interest": "Die scheinbare Beiläufigkeit entsteht aus Improvisation und Auswahl.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1996",
+        "1992",
+        "1995",
+        "1999"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1996.",
+        "1992 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1995 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1999 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1996.",
+      "context": "Waiting for Guffman wurde 1996 beim Boston Film Festival vorgestellt; der reguläre Kinostart folgte 1997, ein Jahr später. Christopher Guests Best in Show erschien 2000, vier Jahre nach der ersten Guffman-Vorführung. Beide Filme verdichten improvisierte Gespräche und zeigen Menschen, deren gemeinsamer Wettbewerb ihre persönlichen Sehnsüchte offenlegt.",
+      "anchor": "Guffman-Premiere 1996, Kinostart 1997, Best in Show 2000: die Methode wandert vom Theater zur Hundeschau.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Guffman-Premiere 1996, Kinostart 1997, Best in Show 2000: die Methode wandert vom Theater zur Hundeschau.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Christopher Guest",
+        "Rob Reiner",
+        "John Waters",
+        "Albert Brooks"
+      ],
+      "feedback": [
+        "Christopher Guest führte Regie.",
+        "Rob Reiner gehört nicht zum Regiecredit dieser Filmfassung.",
+        "John Waters gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Albert Brooks gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Christopher Guest.",
+      "context": "Christopher Guest inszenierte die Komödie und spielt den Theaterleiter Corky St. Clair. Mit Eugene Levy entwickelte er den Filmrahmen; viele Dialoge wurden improvisiert. Die Kamera gibt der kleinen Stadt und ihren Amateurdarstellern den Ernst einer Dokumentation, während ihre Hoffnungen auf Broadway-Ruhm immer größer werden.",
+      "anchor": "Christopher Guest: Clair.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

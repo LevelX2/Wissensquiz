@@ -1,0 +1,112 @@
+{
+  "rank": 1,
+  "familiarity_reason": "Die bekannte Indiana-Jones-Reihe bietet einen breiten Einstieg; diese Fortsetzung besitzt eine eigene Vorgeschichte und neue Hauptfiguren.",
+  "directors": ["Steven Spielberg"],
+  "production_countries": ["USA"],
+  "release_note": "Erste Vorführung 23. April 1984 in Thousand Oaks; regulärer US-Start 23. Mai 1984. Handlung 1935, also vor Jäger des verlorenen Schatzes.",
+  "series": "Indiana Jones",
+  "sources": {
+    "studio": "https://www.paramountpictures.com/movies/indiana-jones-and-the-temple-of-doom",
+    "lucas": "https://www.lucasfilm.com/productions/indiana-jones-and-the-temple-of-doom/",
+    "amblin": "https://amblin.com/movie/indiana-jones-and-the-temple-of-doom/",
+    "handlung": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie heißt Indiana Jones’ junger Begleiter, gespielt von Ke Huy Quan, in „Indiana Jones und der Tempel des Todes“?",
+      "answers": ["Short Round", "Sallah", "Marcus Brody", "Wu Han"],
+      "feedback": ["Short Round begleitet Indy durch das Abenteuer.", "Sallah ist Indys erwachsener Freund aus anderen Abenteuern.", "Marcus Brody ist der Museumsfreund, kein Kind.", "Wu Han ist Indys erwachsener Verbündeter in Shanghai."],
+      "short": "Ke Huy Quan spielt den jungen Short Round.",
+      "context": "Short Round (Ke Huy Quan) ist Indys kleiner, äußerst entschlossener Begleiter. Zusammen mit Indiana Jones (Harrison Ford) und der Sängerin Willie Scott (Kate Capshaw) gerät er von Shanghai nach Indien. Seine Loyalität bekommt dort eine entscheidende Bedeutung: Der Junge handelt selbst, statt nur vom erwachsenen Helden beschützt zu werden.",
+      "anchor": "Ke Huy Quan ist Indys Begleiter Short Round.",
+      "interest": "Eine zentrale neue Figur eröffnet den Zugang zur besonderen Dreiergruppe.",
+      "sources": ["studio", "amblin"],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche verschwundenen Bewohner soll Indiana Jones (Harrison Ford) in „Der Tempel des Todes“ für ein indisches Dorf zurückholen?",
+      "answers": ["Die Kinder des Dorfes", "Die Priester des Dorfes", "Die Händler des Dorfes", "Die Soldaten des Dorfes"],
+      "feedback": ["Die entführten Kinder sollen gemeinsam mit dem heiligen Stein zurückkehren.", "Die Dorfpriester bilden nicht die entführte Gruppe.", "Eine verschwundene Händlerkarawane ist nicht der Auftrag.", "Das Dorf sucht seine Kinder, keine vermisste Garnison."],
+      "short": "Die Dorfbewohner bitten Indy, ihre entführten Kinder zu retten.",
+      "context": "Ein heiliger Sankara-Stein und die Kinder sind aus dem Dorf verschwunden. Indiana Jones (Harrison Ford) folgt der Spur zum Palast von Pankot. Die Suche verbindet einen übernatürlichen Gegenstand mit einer menschlichen Notlage. Dadurch geht es um mehr als den Besitz einer kostbaren Antiquität: Die Familien sollen ihre Kinder wiederbekommen.",
+      "anchor": "Pankot: Nicht nur den Stein, auch die Kinder zurückbringen.",
+      "interest": "Der Rettungsauftrag erklärt den menschlichen Einsatz hinter der Schatzsuche.",
+      "sources": ["lucas", "amblin"],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "„Indiana Jones und der Tempel des Todes“: Womit entkommt die Dreiergruppe dem führerlosen Flugzeug über dem Himalaya?",
+      "answers": ["Mit einem aufblasbaren Rettungsboot", "Mit einem zusammengebauten Drachen", "Mit Fallschirmen aus dem Gepäckraum", "Mit einer Seilwinde zur Felswand"],
+      "feedback": ["Das aufgeblasene Boot dient als improvisiertes Rettungsmittel.", "Ein Drachen wird für diesen Sprung nicht gebaut.", "Die Piloten nehmen die Fallschirme; die Gruppe verwendet das Boot.", "Ein Kontakt zur Felswand über eine Winde findet nicht statt."],
+      "short": "Indy, Willie und Short Round springen mit einem aufgeblasenen Rettungsboot ab.",
+      "context": "Die Piloten lassen das Treibstoffsystem leer laufen und verlassen das Flugzeug. Indiana Jones (Harrison Ford), Willie Scott (Kate Capshaw) und Short Round (Ke Huy Quan) müssen improvisieren. Das Boot übersteht den Sprung, rutscht über Schnee und landet im Wasser. Die übersteigerte Rettung führt die Gruppe erst zu ihrem eigentlichen Abenteuer.",
+      "anchor": "Ein Rettungsboot wird über dem Himalaya zum improvisierten Fallschirm.",
+      "interest": "Ein ungewöhnlicher Gegenstand verbindet mehrere Etappen des Auftakts.",
+      "sources": ["handlung"],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche drastische Entscheidung trifft Indiana Jones (Harrison Ford) am Ende von „Der Tempel des Todes“, als Gegner beide Seiten der Hängebrücke besetzen?",
+      "answers": ["Er durchtrennt die Halteseile der Brücke.", "Er übergibt die Steine und kapituliert.", "Er springt allein in den Fluss hinunter.", "Er sprengt den gegenüberliegenden Palast."],
+      "feedback": ["Indy kappt die Brücke und zwingt alle in einen riskanten Absturz.", "Er löst die Lage nicht durch die freiwillige Übergabe.", "Er flieht nicht allein durch einen direkten Sprung.", "Der Palast wird in dieser Situation nicht gesprengt."],
+      "short": "Indy kappt mit seinem Schwert die Brückenseile.",
+      "context": "Indiana Jones (Harrison Ford) hängt nach dem Durchtrennen der Brücke mit seinen Begleitern an deren verbliebenem Ende. Der Rückweg ist damit abgeschnitten, doch auch die Überzahl der Gegner verliert sicheren Boden. Die Entscheidung verschiebt den Kampf in die Senkrechte; der Fluss mit Krokodilen macht jeden Griff lebenswichtig.",
+      "anchor": "Auf der Brücke nimmt Indy allen den sicheren Boden.",
+      "interest": "Die Entscheidung macht die räumliche Logik des Finales verständlich.",
+      "sources": ["handlung"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie verhält sich die Handlung von „Indiana Jones und der Tempel des Todes“ zeitlich zu „Jäger des verlorenen Schatzes“?",
+      "answers": ["Sie spielt ein Jahr davor.", "Sie spielt drei Jahre danach.", "Sie spielt gleichzeitig in einem anderen Land.", "Sie spielt zwanzig Jahre später."],
+      "feedback": ["Das Indien-Abenteuer spielt 1935, der erste veröffentlichte Film 1936.", "Die Veröffentlichung folgt später, die Handlung liegt früher.", "Die beiden Abenteuer liegen in unterschiedlichen Jahren.", "Ein derart großer Zeitsprung gehört nicht zu dieser Fortsetzung."],
+      "short": "Der zweite veröffentlichte Indiana-Jones-Film ist eine Vorgeschichte: 1935 statt 1936.",
+      "context": "Eine Fortsetzung muss die Geschichte nicht vorwärts erzählen. „Der Tempel des Todes“ erschien nach „Jäger des verlorenen Schatzes“, zeigt aber ein früheres Abenteuer von Indiana Jones (Harrison Ford). Die Unterscheidung zwischen Veröffentlichung und Handlungszeit erklärt, weshalb bekannte Begleiter fehlen und Indy mit einer anderen Gruppe unterwegs ist.",
+      "anchor": "Zweiter Film, früheres Abenteuer: 1935 vor 1936.",
+      "interest": "Erzählchronologie und Reihenfolge der Filmveröffentlichung auseinanderhalten.",
+      "sources": ["amblin"],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Welche neue US-Altersfreigabe regte Steven Spielberg nach Debatten über „Der Tempel des Todes“ und „Gremlins“ an?",
+      "answers": ["PG-13", "NC-17", "G", "R"],
+      "feedback": ["PG-13 sollte einen Zwischenbereich für Jugendliche abbilden.", "NC-17 ist eine andere, erst später eingeführte Erwachsenenstufe.", "G bestand bereits und bezeichnet allgemein geeignete Filme.", "R bestand bereits; gesucht war eine zusätzliche Zwischenstufe."],
+      "short": "Die Gewaltdebatte trug zur Einführung der Zwischenstufe PG-13 bei.",
+      "context": "„Der Tempel des Todes“ kam zunächst mit PG in die US-Kinos. Seine drastischen Szenen und die von „Gremlins“ lösten Kritik aus. Spielberg schlug eine weitere Stufe für reiferes jugendliches Publikum vor. Die spätere PG-13-Kategorie ist deshalb eine Wirkung der Debatte; sie war nicht die ursprüngliche Freigabe dieses Films.",
+      "anchor": "Der PG-Film half, die spätere Zwischenstufe PG-13 anzustoßen.",
+      "interest": "Eine konkrete filmhistorische Folge erklärt einen heute vertrauten Freigabebegriff.",
+      "sources": ["amblin", "studio"],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde „Indiana Jones und der Tempel des Todes“ erstmals veröffentlicht?",
+      "answers": ["1984", "1978", "1989", "1995"],
+      "feedback": ["Erste Vorführung und Kinostart lagen 1984.", "1978 liegt vor dem Beginn der Indiana-Jones-Kinoreihe.", "1989 gehört zur Veröffentlichung des letzten Kreuzzugs.", "1995 ist für diesen zweiten Kinofilm zu spät."],
+      "short": "Der Film wurde 1984 erstmals gezeigt und regulär veröffentlicht.",
+      "context": "1984 kamen sowohl „Der Tempel des Todes“ als auch „Gremlins“ ins Kino. Spielberg führte beim Indien-Abenteuer Regie und produzierte den kleinen Monsterfilm. Die gemeinsame Debatte über ihre Gewalt ist ein Erinnerungsanker für das Jahr. Die Handlung des Indiana-Jones-Films liegt dagegen schon 1935; Filmzeit und Veröffentlichungsjahr sind getrennt.",
+      "anchor": "1984: Tempel des Todes und Gremlins im selben Kinosommer.",
+      "interest": "Ein konkreter zeitlicher Anker verbindet das Jahr mit einer Filmgeschichte.",
+      "sources": ["studio", "amblin", "handlung"],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei „Indiana Jones und der Tempel des Todes“ Regie?",
+      "answers": ["Steven Spielberg", "George Lucas", "Richard Marquand", "Robert Zemeckis"],
+      "feedback": ["Spielberg führte die Hauptregie.", "Lucas lieferte die Geschichte und war ausführender Produzent.", "Marquand führte nicht bei diesem Indiana-Jones-Abenteuer Regie.", "Zemeckis gehört nicht zum Regiecredit dieses Films."],
+      "short": "Steven Spielberg führte Regie; George Lucas lieferte die Geschichte.",
+      "context": "Der Film trennt mehrere kreative Funktionen: Spielberg inszeniert, George Lucas liefert die Geschichte, Willard Huyck und Gloria Katz schreiben das Drehbuch. Diese Zusammenarbeit erklärt, warum der Name Lucas eng mit der Reihe verbunden ist, ohne hier der Regisseur zu sein. Für das Regieziel zählt der tatsächlich ausgewiesene Hauptcredit.",
+      "anchor": "Spielberg inszeniert, Lucas liefert die Geschichte.",
+      "interest": "Die Rollen zweier eng verbundener Filmemacher präzise unterscheiden.",
+      "sources": ["studio", "amblin", "lucas"],
+      "spoiler": "gering"
+    }
+  ]
+}

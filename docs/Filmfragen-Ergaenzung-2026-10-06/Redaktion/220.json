@@ -1,0 +1,217 @@
+{
+  "rank": 220,
+  "directors": [
+    "Gustav Möller"
+  ],
+  "production_countries": [
+    "Dänemark"
+  ],
+  "familiarity_reason": "Bekannter dänischer Kammerspielthriller, dessen Erfolg eine amerikanische Neuverfilmung auslöste.",
+  "release_note": "Erste Veröffentlichung 2018 beim Sundance-Festival; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Guilty_(2018_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Guilty_(2018_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo spielt die sichtbare Handlung von @ überwiegend?",
+      "answers": [
+        "In einer Notrufleitstelle",
+        "In einem Gefängnistransporter",
+        "In einem Gerichtssaal",
+        "In einer psychiatrischen Station"
+      ],
+      "feedback": [
+        "Asger Holm (Jakob Cedergren) beantwortet Anrufe in einer Notrufleitstelle.",
+        "Der Transport wird nicht als Hauptschauplatz gezeigt.",
+        "Die Anhörung steht noch bevor.",
+        "Die Klinik ist ein Ziel außerhalb des sichtbaren Handlungsraums."
+      ],
+      "short": "Asger Holm (Jakob Cedergren) beantwortet Anrufe in einer Notrufleitstelle.",
+      "context": "Asger Holm (Jakob Cedergren) beantwortet Anrufe in einer Notrufleitstelle. Die Außenhandlung bleibt akustisch vermittelt; seine Deutungen bestimmen zunächst auch das Bild des Publikums.",
+      "anchor": "Die Leitstelle begrenzt den Blick und öffnet die akustische Vorstellung.",
+      "interest": "Die Leitstelle begrenzt den Blick und öffnet die akustische Vorstellung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie spricht die Anruferin in @ zunächst, um ihr Gespräch zu tarnen?",
+      "answers": [
+        "Als rede sie mit ihrem Kind",
+        "Als bestelle sie eine Pizza",
+        "Als buche sie ein Hotel",
+        "Als spreche sie mit ihrem Arbeitgeber"
+      ],
+      "feedback": [
+        "Iben (Originalstimme Jessica Dinnage) klingt zunächst, als rede sie mit einem Kind.",
+        "Die Pizzabestellung ist nicht die Tarnung in diesem Film.",
+        "Eine Hotelbuchung täuscht sie nicht vor.",
+        "Sie spielt kein Arbeitgebergespräch."
+      ],
+      "short": "Iben (Originalstimme Jessica Dinnage) klingt zunächst, als rede sie mit einem Kind.",
+      "context": "Iben (Originalstimme Jessica Dinnage) klingt zunächst, als rede sie mit einem Kind. Asger (Jakob Cedergren) erkennt die indirekte Verständigung und wechselt zu Fragen, die sie mit Ja oder Nein beantworten kann.",
+      "anchor": "Die vermeintliche Kindansprache erlaubt einen verdeckten Hilferuf.",
+      "interest": "Die vermeintliche Kindansprache erlaubt einen verdeckten Hilferuf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum verrichtet Asger in @ vorübergehend Innendienst?",
+      "answers": [
+        "Eine tödliche Schussabgabe muss untersucht werden",
+        "Er wartet auf eine Beförderung",
+        "Er wurde bei einer Verfolgung am Bein verletzt",
+        "Er soll neue Kollegen ausbilden"
+      ],
+      "feedback": [
+        "Asger (Jakob Cedergren) erwartet eine Anhörung wegen der Erschießung eines jungen Mannes.",
+        "Eine Beförderung erklärt den Innendienst nicht.",
+        "Eine Beinverletzung ist nicht der Grund.",
+        "Er hat keinen Ausbildungsauftrag."
+      ],
+      "short": "Asger (Jakob Cedergren) erwartet eine Anhörung wegen der Erschießung eines jungen Mannes.",
+      "context": "Asger (Jakob Cedergren) erwartet eine Anhörung wegen der Erschießung eines jungen Mannes. Die Versetzung in die Leitstelle hält ihn vom Außendienst fern, während er Verantwortung lieber bei anderen sucht.",
+      "anchor": "Die dienstliche Einschränkung folgt einer ungeklärten eigenen Gewalttat.",
+      "interest": "Die dienstliche Einschränkung folgt einer ungeklärten eigenen Gewalttat.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welcher Irrtum prägt Asgers Handeln gegenüber Michael in @?",
+      "answers": [
+        "Er hält einen Kliniktransport für eine Entführung mit Tötungsabsicht",
+        "Er hält einen Polizisten für den Fahrer",
+        "Er glaubt, Michael kenne Iben überhaupt nicht",
+        "Er vermutet, Michael wolle einen Banküberfall begehen"
+      ],
+      "feedback": [
+        "Asger (Jakob Cedergren) betrachtet Michael (Originalstimme Johan Olsen) als gefährlichen Entführer.",
+        "Michael ist kein verkannter Polizeibeamter.",
+        "Michael und Iben kennen sich als Eltern.",
+        "Ein Bankraub ist nicht sein Verdacht."
+      ],
+      "short": "Asger (Jakob Cedergren) betrachtet Michael (Originalstimme Johan Olsen) als gefährlichen Entführer.",
+      "context": "Asger (Jakob Cedergren) betrachtet Michael (Originalstimme Johan Olsen) als gefährlichen Entführer. Tatsächlich bringt Michael Iben nach ihrem psychischen Zusammenbruch in eine Klinik; Asgers Anweisung zur Gegenwehr verschärft die Gefahr.",
+      "anchor": "Die falsche Tätervorstellung macht gut gemeinte Hilfe gefährlich.",
+      "interest": "Die falsche Tätervorstellung macht gut gemeinte Hilfe gefährlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Aussage Ibens verändert in @ Asgers Bild von der Situation?",
+      "answers": [
+        "Sie habe Schlangen aus dem Bauch ihres Babys entfernt",
+        "Sie habe Michael bei einem Streit mit einem Messer verletzt.",
+        "Sie müsse wegen eines fremden Kindes im Wagen fliehen.",
+        "Sie habe die Polizei aus Angst vor einer Einweisung belogen."
+      ],
+      "feedback": [
+        "Iben (Originalstimme Jessica Dinnage) spricht von Schlangen im Bauch ihres Babys.",
+        "Ihre Worte betreffen die vermeintlichen Schlangen im Bauch des Babys.",
+        "Asger erkennt ihren Wahn und die Gefahr für ihr eigenes Baby.",
+        "Die konkrete Wende entsteht durch ihre wahnhafte Beschreibung der Verletzung."
+      ],
+      "short": "Iben (Originalstimme Jessica Dinnage) spricht von Schlangen im Bauch ihres Babys.",
+      "context": "Iben (Originalstimme Jessica Dinnage) spricht von Schlangen im Bauch ihres Babys. Asger (Jakob Cedergren) erkennt, dass sie ihren Sohn in einem Wahn verletzt hat und seine bisherige Schuldzuweisung falsch war.",
+      "anchor": "Ibens Wahn durchbricht Asgers vermeintlich eindeutige Geschichte.",
+      "interest": "Ibens Wahn durchbricht Asgers vermeintlich eindeutige Geschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was fordert Asger in @ nach seiner Einsicht von seinem Kollegen Rashid?",
+      "answers": [
+        "Bei der Anhörung die Wahrheit zu sagen",
+        "Die belastenden Akten zu vernichten",
+        "Die Stadt sofort zu verlassen",
+        "Michael ohne Verhör festzunehmen"
+      ],
+      "feedback": [
+        "Asger (Jakob Cedergren) fordert Rashid (Originalstimme Omar Shargawi) auf, bei der Anhörung wahrheitsgemäß auszusagen.",
+        "Er verlangt keine Aktenvernichtung.",
+        "Eine Flucht fordert er nicht.",
+        "Die Bitte betrifft seine Anhörung, nicht Michaels Festnahme."
+      ],
+      "short": "Asger (Jakob Cedergren) fordert Rashid (Originalstimme Omar Shargawi) auf, bei der Anhörung wahrheitsgemäß auszusagen.",
+      "context": "Asger (Jakob Cedergren) fordert Rashid (Originalstimme Omar Shargawi) auf, bei der Anhörung wahrheitsgemäß auszusagen. Er beginnt, auch für die eigene Schussabgabe Verantwortung zu übernehmen, statt die geplante Falschaussage fortzusetzen.",
+      "anchor": "Die Korrektur des fremden Falls erzwingt Ehrlichkeit im eigenen.",
+      "interest": "Die Korrektur des fremden Falls erzwingt Ehrlichkeit im eigenen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2015",
+        "2011",
+        "2020"
+      ],
+      "feedback": [
+        "2018 hatte die dänische Fassung in Sundance Premiere.",
+        "2015 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2011 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2020 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2018 hatte die dänische Fassung in Sundance Premiere.",
+      "context": "2018 hatte die dänische Fassung in Sundance Premiere. 2021 folgte eine US-Neuverfilmung mit Jake Gyllenhaal; zwischen Original und englischsprachigem Remake liegen drei Jahre.",
+      "anchor": "Dänische Fassung 2018, US-Remake 2021: Drei Jahre führen vom dänischen Notrufkammerspiel zur Neuverfilmung.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Gustav Möller",
+        "Thomas Vinterberg",
+        "Nicolas Winding Refn",
+        "Susanne Bier"
+      ],
+      "feedback": [
+        "Gustav Möller führte Regie und schrieb mit Emil Nygaard Albertsen.",
+        "Thomas Vinterberg führte nicht bei dieser Fassung Regie; genannt ist Gustav Möller.",
+        "Nicolas Winding Refn führte nicht bei dieser Fassung Regie; genannt ist Gustav Möller.",
+        "Susanne Bier führte nicht bei dieser Fassung Regie; genannt ist Gustav Möller."
+      ],
+      "short": "Gustav Möller führte Regie und schrieb mit Emil Nygaard Albertsen.",
+      "context": "Gustav Möller führte Regie und schrieb mit Emil Nygaard Albertsen. Ein realer Notruf inspirierte das Konzept: Die Beschränkung auf die Leitstelle zwingt das Publikum, aus Stimmen eine möglicherweise falsche Außenwelt zu bilden.",
+      "anchor": "Gustav Möller führte Regie und schrieb mit Emil Nygaard Albertsen.",
+      "interest": "Gustav Möller führte Regie und schrieb mit Emil Nygaard Albertsen.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

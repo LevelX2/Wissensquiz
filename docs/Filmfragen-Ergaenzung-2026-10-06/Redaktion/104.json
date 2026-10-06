@@ -1,0 +1,216 @@
+{
+  "rank": 104,
+  "directors": [
+    "Christopher Guest"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "US-Mockumentary mit Kultstatus, in Deutschland außerhalb von Comedyfans weniger verbreitet; als Entdeckung eingeordnet.",
+  "release_note": "Toronto-Premiere am 8. September 2000, US-Kinostart am 29. September 2000.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Best_in_Show_(film)",
+    "credits_rt": {
+      "url": "http://www.rottentomatoes.com/m/best_in_show/",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Wettbewerb bringt die Figuren in @ zusammen?",
+      "answers": [
+        "Eine große Hundeschau",
+        "Ein Pferderennen",
+        "Ein Schönheitswettbewerb für Menschen",
+        "Eine Katzenausstellung"
+      ],
+      "feedback": [
+        "Die Besitzer reisen zur Mayflower-Hundeschau.",
+        "Ein Pferderennen ist nicht der Wettbewerb.",
+        "Ein menschlicher Schönheitswettbewerb bildet nicht das Ereignis.",
+        "Katzen sind nicht die ausgestellten Tiere."
+      ],
+      "short": "Die Besitzer reisen zur Mayflower-Hundeschau.",
+      "context": "Mehrere Besitzer, Trainer und Hunde fahren nach Philadelphia, um an der Mayflower Kennel Club Dog Show teilzunehmen. Die Konkurrenz der Tiere eröffnet zugleich den Blick auf die Menschen: Ihre Partnerschaften, Unsicherheiten und Selbstbilder werden ausgerechnet durch das Bemühen um einen perfekt präsentierten Hund sichtbar.",
+      "anchor": "Die Hunde konkurrieren; die Besitzer offenbaren sich.",
+      "interest": "Die Hunde konkurrieren; die Besitzer offenbaren sich.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Erzählform imitiert @ bei der Darstellung der Hundebesitzer?",
+      "answers": [
+        "Eine beobachtende Dokumentation mit Interviews",
+        "Eine Fernsehreportage mit einem durchgehenden Moderator",
+        "Eine Chronik, die nur die Preisvergabe kommentiert",
+        "Ein Videotagebuch aus der Perspektive eines einzigen Besitzers"
+      ],
+      "feedback": [
+        "Der Film tut so, als dokumentiere er wirkliche Besitzer und ihre Hunde.",
+        "Die vorgebliche Dokumentation verbindet verschiedene Besitzer und Interviews; ein Moderator führt nicht durch alle Szenen.",
+        "Auch Vorbereitung und Privatleben gehören zur beobachtenden Form.",
+        "Die Perspektive wechselt zwischen mehreren Teilnehmern."
+      ],
+      "short": "Der Film tut so, als dokumentiere er wirkliche Besitzer und ihre Hunde.",
+      "context": "Interviews und scheinbar beiläufige Beobachtungen geben den erfundenen Figuren einen glaubhaften Rahmen. Die Zuschauer begegnen übersteigert ehrgeizigen, nervösen und selbstzufriedenen Besitzern. Die Komik braucht dabei keinen Erzähler, der die Pointe erklärt: Gerade die Ernsthaftigkeit, mit der die Menschen über ihre Hunde sprechen, erzeugt den Widerspruch.",
+      "anchor": "Der dokumentarische Ernst trägt die erfundenen Übertreibungen.",
+      "interest": "Der dokumentarische Ernst trägt die erfundenen Übertreibungen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum müssen Gerry und Cookie Fleck (Eugene Levy und Catherine O’Hara) in @ im Lagerraum ihres Hotels schlafen?",
+      "answers": [
+        "Ihre Kreditkarte ist nicht gedeckt.",
+        "Ihre Reservierung ist wegen verspäteter Ankunft vergeben.",
+        "Für Gäste mit Hund ist kein Zimmer mehr frei.",
+        "Gerry hat versehentlich für den falschen Ausstellungstag gebucht."
+      ],
+      "feedback": [
+        "Die nicht bezahlte Kreditkartenrechnung verhindert ein normales Zimmer.",
+        "Die ungedeckte Kreditkarte verhindert das reguläre Hotelzimmer.",
+        "Der Hund erklärt ihre Unterbringung nicht; ihre Zahlung wird abgelehnt.",
+        "Ein falsches Buchungsdatum ist nicht der Grund."
+      ],
+      "short": "Die nicht bezahlte Kreditkartenrechnung verhindert ein normales Zimmer.",
+      "context": "Gerry Fleck (Eugene Levy) und Cookie Fleck (Catherine O’Hara) kommen mit ihrem Terrier an, können aber das Zimmer nicht wie geplant bezahlen. Der Lagerraum setzt einen nüchternen Geldmangel gegen die glänzende Wettbewerbswelt. Ihr Ehrgeiz bleibt erhalten, obwohl der Aufenthalt weit entfernt von der erhofften gesellschaftlichen Anerkennung beginnt.",
+      "anchor": "Kreditkartenprobleme verlegen die Flecks hinter die Hotelkulissen.",
+      "interest": "Kreditkartenprobleme verlegen die Flecks hinter die Hotelkulissen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum muss Gerry Fleck (Eugene Levy) in @ plötzlich selbst seinen Terrier im Finale führen?",
+      "answers": [
+        "Cookie verletzt sich am Knie.",
+        "Cookie wird bei der Zulassung ausgeschlossen.",
+        "Cookie muss überraschend ins Krankenhaus zu Gerry.",
+        "Der angestellte Hundeführer erscheint nicht."
+      ],
+      "feedback": [
+        "Cookie kann nach ihrer Knieverletzung nicht auftreten.",
+        "Cookies Knieverletzung verhindert den Auftritt; eine Zulassungsentscheidung ist nicht der Anlass.",
+        "Gerry ist vor Ort und übernimmt selbst, statt im Krankenhaus zu sein.",
+        "Cookie war als Führerin vorgesehen, kein ausbleibender Angestellter."
+      ],
+      "short": "Cookie kann nach ihrer Knieverletzung nicht auftreten.",
+      "context": "Cookie Fleck (Catherine O’Hara) soll Winky präsentieren, doch eine verrenkte Kniescheibe verhindert das. Gerry Fleck (Eugene Levy) übernimmt trotz seiner Unsicherheit und seiner buchstäblich zwei linken Füße. Die Wendung verlagert den entscheidenden Auftritt vom routinierten Plan auf eine unerwartete Bewährungsprobe ihres Partners.",
+      "anchor": "Cookies Knie macht Gerry zum ungeplanten Hundeführer.",
+      "interest": "Cookies Knie macht Gerry zum ungeplanten Hundeführer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was macht Buck Laughlins (Fred Willard) Kommentierung der Hundeschau in @ so ungeeignet?",
+      "answers": [
+        "Er redet mit großer Sicherheit, versteht aber wenig vom Fach.",
+        "Er kennt die Hunde, aber verwechselt ständig die Besitzer.",
+        "Er behandelt jede Entscheidung als feststehenden Betrug.",
+        "Er verwendet fast nur Fachbegriffe und erklärt sie nicht."
+      ],
+      "feedback": [
+        "Buck liefert selbstbewussten Unsinn neben dem sachkundigen Fachkommentator.",
+        "Der Hauptwitz liegt im fehlenden Hundewissen trotz sicherem Ton.",
+        "Eine ständige Betrugstheorie ist nicht sein bestimmendes Problem.",
+        "Er ist gerade nicht der übermäßig sachkundige Fachsprecher."
+      ],
+      "short": "Buck liefert selbstbewussten Unsinn neben dem sachkundigen Fachkommentator.",
+      "context": "Buck Laughlin (Fred Willard) begleitet den Experten Trevor Beckwith (Jim Piddock). Seine Einwürfe klingen wie routinierte Sportberichterstattung, passen aber selten zur Hundeschau. Dadurch wird nicht nur ein einzelner Sprecher lächerlich: Der Film zeigt, wie leicht eine vertraute Präsentationsform den Eindruck von Kompetenz erzeugt, obwohl die Kenntnisse fehlen.",
+      "anchor": "Sicherer Kommentatorenton ersetzt keine Hundekenntnis.",
+      "interest": "Sicherer Kommentatorenton ersetzt keine Hundekenntnis.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie wurden große Teile der Dialoge für @ entwickelt?",
+      "answers": [
+        "Die Darsteller improvisierten innerhalb der angelegten Figuren und Situationen.",
+        "Die Darsteller führten die vollständig ausformulierten Gespräche unverändert auf.",
+        "Die Dialoge entstanden erst nach den Dreharbeiten bei der Synchronisation.",
+        "Das Team verwendete wortgetreue Interviews mit realen Hundebesitzern."
+      ],
+      "feedback": [
+        "Viele Dialoge entstanden durch Improvisation der Darsteller.",
+        "Guest legte Figuren und Situationen fest und ließ darin improvisieren.",
+        "Die gespielten Gespräche entstanden bei den Dreharbeiten, nicht erst im Tonstudio.",
+        "Es sind improvisierte fiktionale Figuren, keine unveränderten Dokumentarinterviews."
+      ],
+      "short": "Viele Dialoge entstanden durch Improvisation der Darsteller.",
+      "context": "Christopher Guest und Eugene Levy legten die Figuren und den Verlauf an, die Darsteller entwickelten vieles beim Spielen. Aus dem umfangreichen Material entstand im Schnitt die geschlossene Komödie. Improvisation bedeutet hier deshalb keine zufällige Zusammenstellung: Wiederkehrende Beziehungen und der gemeinsame Wettbewerb geben den Einfällen eine Form.",
+      "anchor": "Angelegte Figuren plus improvisierte Dialoge ergeben die scheinbare Dokumentation.",
+      "interest": "Angelegte Figuren plus improvisierte Dialoge ergeben die scheinbare Dokumentation.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2000",
+        "1996",
+        "1999",
+        "2003"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 2000.",
+        "1996 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1999 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2003 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 2000.",
+      "context": "Best in Show erschien 2000. Christopher Guests Waiting for Guffman war bereits 1996 beim Boston Film Festival gezeigt worden, vier Jahre früher. Beide Filme nutzen erfundene Figuren und improvisierte Gespräche in einem dokumentarischen Rahmen; der neue Wettbewerb verschiebt diese Methode vom Theaterensemble zu Hundebesitzern.",
+      "anchor": "Guffman 1996, Hundeschau 2000: vier Jahre bis zur nächsten Mockumentary.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Guffman 1996, Hundeschau 2000: vier Jahre bis zur nächsten Mockumentary.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Christopher Guest",
+        "Rob Reiner",
+        "Mike Judge",
+        "Alexander Payne"
+      ],
+      "feedback": [
+        "Christopher Guest führte Regie.",
+        "Rob Reiner gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Mike Judge gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Alexander Payne gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Christopher Guest.",
+      "context": "Christopher Guest führte Regie und schrieb mit Eugene Levy die Grundlage des Films. Guest spielt selbst den Hundebesitzer Harlan Pepper, Levy den unsicheren Gerry Fleck. Der Film wurde nicht einfach bei einer echten Ausstellung eingefangen: Für die Produktion musste eine eigene Hundeschau organisiert werden.",
+      "anchor": "Christopher Guest: Guest spielt selbst den Hundebesitzer Harlan Pepper, Levy den unsicheren Gerry Fleck.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

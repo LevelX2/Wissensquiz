@@ -1,0 +1,217 @@
+{
+  "rank": 222,
+  "directors": [
+    "John Ford"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Kanonischer Western und entscheidender früher Auftritt John Waynes als Hauptstar.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1939; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Stagecoach_(1939_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Stagecoach_(1939_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Verkehrsmittel verbindet die Hauptfiguren in @?",
+      "answers": [
+        "Eine Postkutsche",
+        "Ein Güterzug",
+        "Ein Flussdampfer",
+        "Ein Planwagenzug"
+      ],
+      "feedback": [
+        "Die Figuren reisen in einer Postkutsche nach Lordsburg.",
+        "Sie fahren nicht im Güterzug.",
+        "Ein Dampfer trägt die Gruppe nicht.",
+        "Ein Planwagenzug ist nicht das gemeinsame Verkehrsmittel."
+      ],
+      "short": "Die Figuren reisen in einer Postkutsche nach Lordsburg.",
+      "context": "Die Figuren reisen in einer Postkutsche nach Lordsburg. Der begrenzte Raum zwingt Menschen verschiedener sozialer Stellung zusammen, während eine äußere Bedrohung ihre Zusammenarbeit verlangt.",
+      "anchor": "Die Kutsche macht gesellschaftliche Gegensätze zu einer gemeinsamen Reise.",
+      "interest": "Die Kutsche macht gesellschaftliche Gegensätze zu einer gemeinsamen Reise.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Notlage bewältigen Doc Boone und Dallas in @ an einer Reisestation?",
+      "answers": [
+        "Die Geburt von Lucys Kind",
+        "Die Amputation eines verwundeten Soldaten",
+        "Die Rettung eines Kindes aus einem Brunnen",
+        "Die Behandlung einer Seuche"
+      ],
+      "feedback": [
+        "Doc Boone (Thomas Mitchell) und Dallas (Claire Trevor) helfen bei Lucy Mallorys (Louise Platt) Geburt.",
+        "Eine Amputation ist nicht ihre Aufgabe.",
+        "Ein Brunnenunfall geschieht nicht.",
+        "Es geht nicht um eine Seuche."
+      ],
+      "short": "Doc Boone (Thomas Mitchell) und Dallas (Claire Trevor) helfen bei Lucy Mallorys (Louise Platt) Geburt.",
+      "context": "Doc Boone (Thomas Mitchell) und Dallas (Claire Trevor) helfen bei Lucy Mallorys (Louise Platt) Geburt. Gerade die gesellschaftlich Ausgegrenzten übernehmen Verantwortung für die angesehene Reisende.",
+      "anchor": "Bei der Geburt bewähren sich die Ausgegrenzten.",
+      "interest": "Bei der Geburt bewähren sich die Ausgegrenzten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum nimmt Marshal Curley Ringo in @ zunächst fest?",
+      "answers": [
+        "Er ist aus dem Gefängnis ausgebrochen",
+        "Er hat die Postkasse geraubt",
+        "Er bedroht Lucy in der Kutsche",
+        "Er wird als Viehdieb gesucht"
+      ],
+      "feedback": [
+        "Ringo (John Wayne) ist aus dem Gefängnis ausgebrochen, um die Plummer-Brüder zur Rede zu stellen.",
+        "Ein Postraub ist nicht der Anlass.",
+        "Ringo bedroht Lucy nicht.",
+        "Sein aktueller Haftgrund ist nicht Viehdiebstahl."
+      ],
+      "short": "Ringo (John Wayne) ist aus dem Gefängnis ausgebrochen, um die Plummer-Brüder zur Rede zu stellen.",
+      "context": "Ringo (John Wayne) ist aus dem Gefängnis ausgebrochen, um die Plummer-Brüder zur Rede zu stellen. Curley (George Bancroft) kennt ihn, muss ihn aber zunächst als entflohenen Gefangenen festhalten.",
+      "anchor": "Persönliches Vertrauen hebt Curleys Amtspflicht zunächst nicht auf.",
+      "interest": "Persönliches Vertrauen hebt Curleys Amtspflicht zunächst nicht auf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum bleibt Ringo in @ bei der Kutsche, obwohl er fliehen könnte?",
+      "answers": [
+        "Rauchzeichen kündigen einen Angriff an",
+        "Dallas droht, ihn beim Sheriff zu verraten",
+        "Die Pferde werden von der Armee beschlagnahmt",
+        "Er erhält ein Telegramm über eine Begnadigung"
+      ],
+      "feedback": [
+        "Ringo (John Wayne) sieht Rauchzeichen und erkennt die Gefahr.",
+        "Dallas will ihn nicht verraten.",
+        "Die Pferde werden nicht beschlagnahmt.",
+        "Eine Begnadigung ist nicht eingetroffen."
+      ],
+      "short": "Ringo (John Wayne) sieht Rauchzeichen und erkennt die Gefahr.",
+      "context": "Ringo (John Wayne) sieht Rauchzeichen und erkennt die Gefahr. Er verzichtet auf seine Flucht, um Dallas (Claire Trevor) und die anderen Reisenden bei dem drohenden Angriff zu schützen.",
+      "anchor": "Die Entscheidung zu bleiben zeigt Loyalität vor persönlicher Freiheit.",
+      "interest": "Die Entscheidung zu bleiben zeigt Loyalität vor persönlicher Freiheit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche verborgene Tat des Bankiers wird in @ am Ziel aufgedeckt?",
+      "answers": [
+        "Er hat Bankgelder unterschlagen und will fliehen",
+        "Er hat die Angreifer für einen Postraub bezahlt",
+        "Er hat Ringo unter falschem Namen angezeigt",
+        "Er hat die Kutschenpferde gestohlen"
+      ],
+      "feedback": [
+        "Gatewood (Berton Churchill) wird in Lordsburg wegen der mitgenommenen Bankgelder verhaftet.",
+        "Er organisiert den Angriff nicht.",
+        "Ringo ist nicht aufgrund Gatewoods Anzeige eingesperrt.",
+        "Die Pferde stammen nicht aus seinem Diebstahl."
+      ],
+      "short": "Gatewood (Berton Churchill) wird in Lordsburg wegen der mitgenommenen Bankgelder verhaftet.",
+      "context": "Gatewood (Berton Churchill) wird in Lordsburg wegen der mitgenommenen Bankgelder verhaftet. Sein betont respektables Auftreten steht damit im Gegensatz zu seinem tatsächlichen Verhalten.",
+      "anchor": "Die respektable Fassade des Bankiers verdeckt die Unterschlagung.",
+      "interest": "Die respektable Fassade des Bankiers verdeckt die Unterschlagung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie helfen Curley und Doc Boone dem Paar am Ende von @?",
+      "answers": [
+        "Sie lassen Ringo und Dallas im Wagen nach Mexiko entkommen",
+        "Sie zahlen eine Kaution für beide",
+        "Sie besorgen ihnen eine Anstellung bei der Kavallerie",
+        "Sie verbergen sie im Gefängnis vor den Plummers"
+      ],
+      "feedback": [
+        "Curley (George Bancroft) und Doc Boone (Thomas Mitchell) treiben die Pferde an und lassen Ringo (John Wayne) mit Dallas (Claire Trevor) entkommen.",
+        "Eine Kaution ist nicht ihre Lösung.",
+        "Das Paar geht nicht zur Kavallerie.",
+        "Die Plummers sind bereits besiegt."
+      ],
+      "short": "Curley (George Bancroft) und Doc Boone (Thomas Mitchell) treiben die Pferde an und lassen Ringo (John Wayne) mit Dallas (Claire Trevor) entkommen.",
+      "context": "Curley (George Bancroft) und Doc Boone (Thomas Mitchell) treiben die Pferde an und lassen Ringo (John Wayne) mit Dallas (Claire Trevor) entkommen. Die Männer ermöglichen beiden einen Neuanfang außerhalb der verurteilenden Stadt.",
+      "anchor": "Der Neuanfang gelingt durch eine bewusst gewährte Flucht.",
+      "interest": "Der Neuanfang gelingt durch eine bewusst gewährte Flucht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1939",
+        "1936",
+        "1932",
+        "1941"
+      ],
+      "feedback": [
+        "1939 erschien der Film.",
+        "1936 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1939 wird im zeitlichen Hintergrund erklärt.",
+        "1932 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1939 wird im zeitlichen Hintergrund erklärt.",
+        "1941 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1939 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1939 erschien der Film.",
+      "context": "1939 erschien der Film. Ernest Haycox’ Erzählung The Stage to Lordsburg wurde 1937 veröffentlicht; Ford brachte den Stoff zwei Jahre später als gesellschaftliches Gruppenporträt in die Kinos.",
+      "anchor": "Erzählung 1937, Film 1939: Zwei Jahre später trägt die Kutsche ein gesellschaftliches Gruppenporträt.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Ford",
+        "Anthony Mann",
+        "George Stevens",
+        "Sam Peckinpah"
+      ],
+      "feedback": [
+        "John Ford führte Regie.",
+        "Anthony Mann wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Ford.",
+        "George Stevens wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Ford.",
+        "Sam Peckinpah wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet John Ford."
+      ],
+      "short": "John Ford führte Regie.",
+      "context": "John Ford führte Regie. Die Reise führt unterschiedlich angesehene Menschen in dieselbe Kutsche und lässt ihre Taten die moralischen Rangordnungen der Ausgangsstadt widerlegen.",
+      "anchor": "John Ford führte Regie.",
+      "interest": "John Ford führte Regie.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

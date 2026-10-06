@@ -1,0 +1,217 @@
+{
+  "rank": 36,
+  "directors": [
+    "Joseph Sargent"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Klassischer New Yorker Entführungsthriller mit Walter Matthau; ältere Fassung für das heutige breite Publikum eher Entdeckung.",
+  "release_note": "US-Erstveröffentlichung 2. Oktober 1974; Originalfassung vor den Neubearbeitungen von 1998 und 2009.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Taking_of_Pelham_One_Two_Three_(1974_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "institut": {
+      "url": "https://www.afi.com/news/afi-movie-club-the-taking-of-pelham-one-two-three-1974/",
+      "supports": "1974, Sargent, Roman 1973, spätere Fassungen, Auflagen der Verkehrsbehörde zum Graffiti."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was fordern die Entführer in @ für die Freilassung der Fahrgäste?",
+      "answers": [
+        "Eine Million Dollar Lösegeld",
+        "Die Freilassung von vier Gefangenen",
+        "Ein bereitgestelltes Flugzeug",
+        "Die Rücknahme eines Entlassungsbeschlusses"
+      ],
+      "feedback": [
+        "Mr.",
+        "Eine Gefangenenfreilassung ist nicht die Forderung.",
+        "Ein Flugzeug verlangen sie nicht.",
+        "Ein verlorener Arbeitsplatz gehört zu Greens Vorgeschichte, nicht zum Forderungskatalog."
+      ],
+      "short": "Mr.",
+      "context": "Mr. Blue (Robert Shaw) verlangt eine Million Dollar innerhalb einer Stunde. Garber (Walter Matthau) muss die politische Entscheidung und die tatsächliche Übergabe koordinieren, während jede Verzögerung weitere Menschen bedroht.",
+      "anchor": "Die Geldforderung verwandelt den Fahrplan in eine tödliche Frist.",
+      "interest": "Die Geldforderung verwandelt den Fahrplan in eine tödliche Frist.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie verbergen die vier Entführer in @ ihre Namen bei den Funkgesprächen?",
+      "answers": [
+        "Sie benutzen Farbbezeichnungen.",
+        "Sie benutzen Stationsnamen.",
+        "Sie benutzen militärische Dienstgrade.",
+        "Sie benutzen Nummern der Zugwagen."
+      ],
+      "feedback": [
+        "Blue, Green, Grey und Brown sprechen unter Farbnamen.",
+        "Stationsnamen sind nicht ihre persönlichen Decknamen.",
+        "Blue besitzt eine militärische Vergangenheit, doch die Gruppe nutzt Farben.",
+        "Wagennummern ersetzen ihre Namen nicht."
+      ],
+      "short": "Blue, Green, Grey und Brown sprechen unter Farbnamen.",
+      "context": "Blue (Robert Shaw), Green (Martin Balsam), Grey (Héctor Elizondo) und Brown (Earl Hindman) sprechen unter Farbnamen. Die Funkverbindung zu Garber (Walter Matthau) liefert so keine einfachen persönlichen Namen für die spätere Suche.",
+      "anchor": "Die Farbnamen machen die Funkpartner zunächst unidentifizierbar.",
+      "interest": "Die Farbnamen machen die Funkpartner zunächst unidentifizierbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum vermutet Garber in @ einen früheren U-Bahn-Fahrer unter den Entführern?",
+      "answers": [
+        "Sie konnten den vorderen Wagen abkoppeln und gezielt im Tunnel bewegen.",
+        "Einer nennt ihm freiwillig seine alte Personalnummer.",
+        "Sie kennen die aktuellen Fahrpreise auswendig.",
+        "Die Geiseln erkennen ihren regelmäßigen Fahrer wieder."
+      ],
+      "feedback": [
+        "Garber (Walter Matthau) schließt vom Umgang mit dem Zug auf Berufserfahrung.",
+        "Eine freiwillige Personalnummer erhält er nicht.",
+        "Fahrpreise belegen kein technisches Können.",
+        "Eine ausdrückliche Identifizierung durch Fahrgäste liegt nicht vor."
+      ],
+      "short": "Garber (Walter Matthau) schließt vom Umgang mit dem Zug auf Berufserfahrung.",
+      "context": "Garber (Walter Matthau) schließt vom Umgang mit dem Zug auf Berufserfahrung. Green (Martin Balsam) besitzt diese Kenntnisse; später begrenzt die Vermutung die Suche auf entlassene Fahrer.",
+      "anchor": "Die technische Handlung verrät die Berufserfahrung hinter der Tarnung.",
+      "interest": "Die technische Handlung verrät die Berufserfahrung hinter der Tarnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum lässt Garber in @ Blue glauben, das Lösegeld sei bereits an der Station angekommen?",
+      "answers": [
+        "Er gewinnt Zeit, nachdem der Geldtransporter verunglückt ist.",
+        "Er will Blue zur Aufgabe der gesamten Geldforderung bewegen.",
+        "Er möchte die Geiseln zu einem gewaltsamen Ausbruch anstiften.",
+        "Er hat heimlich beschlossen, überhaupt kein Geld zu zahlen."
+      ],
+      "feedback": [
+        "Das Polizeiauto mit dem Lösegeld verunglückt.",
+        "Die Forderung wird nicht durch das Gespräch aufgegeben.",
+        "Garber organisiert keinen Geiselnaufstand.",
+        "Die Stadt schickt das Geld tatsächlich los."
+      ],
+      "short": "Das Polizeiauto mit dem Lösegeld verunglückt.",
+      "context": "Das Polizeiauto mit dem Lösegeld verunglückt. Garber (Walter Matthau) überbrückt die Verzögerung durch seine Funkauskunft, während die Übergabe auf anderem Weg weiterläuft; das Gespräch ist ein Mittel gegen die Frist.",
+      "anchor": "Die vorgetäuschte Ankunft überbrückt einen realen Transportverlust.",
+      "interest": "Die vorgetäuschte Ankunft überbrückt einen realen Transportverlust.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie soll der führerlos weiterfahrende Zug in @ die Flucht der Entführer verdecken?",
+      "answers": [
+        "Er lenkt die Verfolger vom bereits verlassenen Tunnelabschnitt weg.",
+        "Er transportiert die Entführer bis zum Hafen.",
+        "Er zerstört alle Funkaufzeichnungen beim nächsten Bahnhof.",
+        "Er soll eine Explosion auslösen, die das Lösegeld vernichtet."
+      ],
+      "feedback": [
+        "Die Männer überbrücken die Sicherheitsvorrichtung und verlassen den Zug.",
+        "Die Männer sind vor der Weiterfahrt ausgestiegen.",
+        "Die Bewegung löscht keine Aufnahmen.",
+        "Eine Lösegeldvernichtung ist nicht der Plan."
+      ],
+      "short": "Die Männer überbrücken die Sicherheitsvorrichtung und verlassen den Zug.",
+      "context": "Die Männer überbrücken die Sicherheitsvorrichtung und verlassen den Zug. Garber (Walter Matthau) folgt zunächst seiner sichtbaren Bewegung; die Geiseln dienen damit auch als Ablenkung vom tatsächlichen Fluchtweg.",
+      "anchor": "Der fahrende Zug soll vom früheren Ausstieg im Tunnel ablenken.",
+      "interest": "Der fahrende Zug soll vom früheren Ausstieg im Tunnel ablenken.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche unwillkürliche Handlung verrät Green am Schluss von @?",
+      "answers": [
+        "Er niest wie zuvor im Funkgespräch.",
+        "Er nennt Garber mit seinem Vornamen.",
+        "Er zählt die Geldscheine vor der offenen Tür.",
+        "Er summt dieselbe Melodie wie Blue."
+      ],
+      "feedback": [
+        "Green (Martin Balsam) niest, als Garber (Walter Matthau) bereits geht.",
+        "Der wiedererkennbare Laut ist ein Niesen.",
+        "Green hat das Geld vor dem Besuch versteckt.",
+        "Eine Melodie löst Garbers Wiedererkennung nicht aus."
+      ],
+      "short": "Green (Martin Balsam) niest, als Garber (Walter Matthau) bereits geht.",
+      "context": "Green (Martin Balsam) niest, als Garber (Walter Matthau) bereits geht. Garbers gewohnter Gesundheit-Wunsch verbindet den Wohnungsbesuch mit dem Funkkontakt; ein scheinbar harmloses Körpergeräusch ersetzt am Ende den Decknamen.",
+      "anchor": "Das Niesen verknüpft den anonymen Funkpartner mit dem Verdächtigen an der Wohnungstür.",
+      "interest": "Das Niesen verknüpft den anonymen Funkpartner mit dem Verdächtigen an der Wohnungstür.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1974",
+        "1972",
+        "1969",
+        "1975"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 1974.",
+        "1972 liegt zwei Jahre vor der ersten Veröffentlichung.",
+        "1969 liegt fünf Jahre vor der Erstveröffentlichung.",
+        "1975 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1974 erstmals veröffentlicht.",
+      "context": "1974 erschien der Film, ein Jahr nach John Godeys Roman von 1973. Die Kino-Neuverfilmung von 2009 folgte 35 Jahre später; Jahr und Regie der beiden Filmfassungen müssen deshalb getrennt bleiben.",
+      "anchor": "Godeys Roman von 1973 wurde 1974 verfilmt; die Kino-Neufassung von 2009 folgte 35 Jahre später.",
+      "interest": "Godeys Roman von 1973 wurde 1974 verfilmt; die Kino-Neufassung von 2009 folgte 35 Jahre später.",
+      "sources": [
+        "institut",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Joseph Sargent",
+        "Sidney Lumet",
+        "Peter Yates",
+        "Don Siegel"
+      ],
+      "feedback": [
+        "Joseph Sargent führte Regie.",
+        "Sidney Lumet hat hier keinen Regiecredit.",
+        "Peter Yates hat hier keinen Regiecredit.",
+        "Don Siegel hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Joseph Sargent.",
+      "context": "Sargent drehte mit Zustimmung der New Yorker Verkehrsbehörde, die bestimmte Darstellungen verlangte. Ihr Graffitiverbot führte zu ungewöhnlich sauberen U-Bahn-Wagen; die konkrete Produktionsauflage verändert damit das Bild des sonst alltäglichen Schauplatzs.",
+      "anchor": "Sargents Verhandlung mit der Verkehrsbehörde erklärt die auffällig sauberen U-Bahn-Wagen.",
+      "interest": "Sargents Verhandlung mit der Verkehrsbehörde erklärt die auffällig sauberen U-Bahn-Wagen.",
+      "sources": [
+        "institut",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

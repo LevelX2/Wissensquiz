@@ -1,0 +1,216 @@
+{
+  "rank": 65,
+  "directors": [
+    "Hayao Miyazaki"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Bekannter Ghibli-Film, jedoch geringere Breitenbekanntheit als Totoro und Chihiro; Kennerfilm.",
+  "release_note": "Japanischer Kinostart 29. Juli 1989.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Kiki's_Delivery_Service",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://www.ghibli.jp/works/majo/",
+      "supports": "Offizielle japanische Filmidentität, Veröffentlichung und alleiniger Hauptregiecredit."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum verlässt Kiki am Anfang von @ ihr Elternhaus?",
+      "answers": [
+        "Junge Hexen sollen ein Jahr selbstständig leben.",
+        "Sie muss eine Aufnahmeprüfung im Hexenrat bestehen.",
+        "Sie möchte nach einem Streit dauerhaft die Familie verlassen.",
+        "Sie folgt einem Auftrag ihrer Mutter, eine Schülerin zu suchen."
+      ],
+      "feedback": [
+        "Kiki (Originalstimme Minami Takayama) beginnt das selbstständige Jahr einer jungen Hexe.",
+        "Das selbstständige Jahr ist die Tradition.",
+        "Ein endgültiger Bruch ist nicht der Anlass.",
+        "Eine Schülersuche trägt sie nicht fort."
+      ],
+      "short": "Kiki (Originalstimme Minami Takayama) beginnt das selbstständige Jahr einer jungen Hexe.",
+      "context": "Kiki (Originalstimme Minami Takayama) beginnt das selbstständige Jahr einer jungen Hexe. Der Aufbruch verlangt nicht nur Magie, sondern ein Zuhause, Einkommen und Beziehungen in einer neuen Stadt.",
+      "anchor": "Das Hexenjahr ist Kikis Schritt in die Selbstständigkeit.",
+      "interest": "Das Hexenjahr ist Kikis Schritt in die Selbstständigkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wo findet Kiki in @ Unterkunft und einen Ausgangspunkt für ihre Arbeit?",
+      "answers": [
+        "In einer Bäckerei",
+        "In einem Gasthaus",
+        "In einem Hutladen",
+        "In einer Buchhandlung"
+      ],
+      "feedback": [
+        "Osono (Originalstimme Keiko Toda) bietet Kiki (Originalstimme Minami Takayama) ein Zimmer bei ihrer Bäckerei.",
+        "Osono bietet die Unterkunft in ihrer Bäckerei.",
+        "Ein Hutladen ist nicht die Arbeitsbasis.",
+        "Eine Buchhandlung beherbergt sie nicht."
+      ],
+      "short": "Osono (Originalstimme Keiko Toda) bietet Kiki (Originalstimme Minami Takayama) ein Zimmer bei ihrer Bäckerei.",
+      "context": "Osono (Originalstimme Keiko Toda) bietet Kiki (Originalstimme Minami Takayama) ein Zimmer bei ihrer Bäckerei. Ihre Gastfreundschaft schafft die Grundlage, auf der Kiki ihren eigenen Dienst aufbauen kann.",
+      "anchor": "Die Bäckerei wird Kikis neuer Ausgangspunkt.",
+      "interest": "Die Bäckerei wird Kikis neuer Ausgangspunkt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche ungewöhnliche Ersatzlösung rettet Kikis erste Lieferung in @ vorübergehend?",
+      "answers": [
+        "Jiji gibt sich als verlorenes Stofftier aus.",
+        "Ursula liefert das verlorene Stofftier selbst aus.",
+        "Kiki ersetzt das Paket durch ein anderes Geschenk.",
+        "Tombo besorgt eine zweite gleiche Puppe."
+      ],
+      "feedback": [
+        "Jiji (Originalstimme Rei Sakuma) ersetzt vorübergehend das verlorene Katzenstofftier.",
+        "Jiji überbrückt die Zeit, während Kiki die Puppe sucht.",
+        "Das ursprüngliche Paket soll wiederhergestellt werden.",
+        "Tombo beschafft kein Ersatzstück."
+      ],
+      "short": "Jiji (Originalstimme Rei Sakuma) ersetzt vorübergehend das verlorene Katzenstofftier.",
+      "context": "Jiji (Originalstimme Rei Sakuma) ersetzt vorübergehend das verlorene Katzenstofftier. Kiki (Originalstimme Minami Takayama) muss das echte Geschenk zurückholen, damit der Helfer aus seiner Rolle befreit werden kann.",
+      "anchor": "Der lebende Jiji spielt das verlorene Stofftier.",
+      "interest": "Der lebende Jiji spielt das verlorene Stofftier.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Krise zwingt Kiki in @ dazu, ihren Dienst vorerst einzustellen?",
+      "answers": [
+        "Sie verliert ihre Flugfähigkeit.",
+        "Sie bekommt keine weiteren Bestellungen.",
+        "Sie verliert jede Orientierung in der Stadt.",
+        "Sie wird nach der ersten Lieferung aus der Bäckerei gewiesen."
+      ],
+      "feedback": [
+        "Kiki (Originalstimme Minami Takayama) kann nicht mehr fliegen.",
+        "Die entscheidende Pause folgt aus verlorener Magie.",
+        "Orientierung allein ist nicht das Problem.",
+        "Osono weist sie nicht aus."
+      ],
+      "short": "Kiki (Originalstimme Minami Takayama) kann nicht mehr fliegen.",
+      "context": "Kiki (Originalstimme Minami Takayama) kann nicht mehr fliegen. Auch die Verständigung mit Jiji (Originalstimme Rei Sakuma) verändert sich; die praktische Arbeitskrise ist zugleich eine Krise ihres Selbstvertrauens.",
+      "anchor": "Ohne Flugkraft gerät Kikis Unabhängigkeit ins Stocken.",
+      "interest": "Ohne Flugkraft gerät Kikis Unabhängigkeit ins Stocken.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welchen Vergleich bietet Ursula in @ für Kikis verlorene Magie an?",
+      "answers": [
+        "Eine künstlerische Schaffenskrise",
+        "Eine körperliche Erkrankung ohne Bezug zum Selbstvertrauen",
+        "Ein unheilbarer Verlust durch ihr Alter",
+        "Eine von anderen Hexen ausgesprochene Strafe"
+      ],
+      "feedback": [
+        "Ursula (Originalstimme Minami Takayama) vergleicht die Krise mit einer Blockade beim Malen.",
+        "Ursula vergleicht die Krise mit künstlerischem Blockieren.",
+        "Der Verlust ist nicht als unvermeidbares Altern erklärt.",
+        "Eine Strafentscheidung ist nicht ihr Vergleich."
+      ],
+      "short": "Ursula (Originalstimme Minami Takayama) vergleicht die Krise mit einer Blockade beim Malen.",
+      "context": "Ursula (Originalstimme Minami Takayama) vergleicht die Krise mit einer Blockade beim Malen. Sie gibt Kiki damit einen verständlichen Zugang zur Erschöpfung, ohne eine äußere Wunderlösung zu versprechen.",
+      "anchor": "Die Malerin erkennt in Kikis Krise eine kreative Blockade.",
+      "interest": "Die Malerin erkennt in Kikis Krise eine kreative Blockade.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie rettet Kiki Tombo im Finale von @?",
+      "answers": [
+        "Sie fliegt auf einem geliehenen Besen zu ihm.",
+        "Sie nutzt Tombos selbstgebautes Flugfahrrad.",
+        "Sie klettert vom Dach in das Luftschiff.",
+        "Sie bindet Tombo mit einem Seil an den Turm."
+      ],
+      "feedback": [
+        "Kiki (Originalstimme Minami Takayama) leiht einen Besen und gewinnt ihre Flugkraft zurück.",
+        "Sie fliegt mit dem geliehenen Besen.",
+        "Ein bloßer Kletterweg führt nicht zur Rettung.",
+        "Der Turmseilplan wird nicht ausgeführt."
+      ],
+      "short": "Kiki (Originalstimme Minami Takayama) leiht einen Besen und gewinnt ihre Flugkraft zurück.",
+      "context": "Kiki (Originalstimme Minami Takayama) leiht einen Besen und gewinnt ihre Flugkraft zurück. Tombo (Originalstimme Kappei Yamaguchi) hängt nach einem Luftschiffunfall an einem Seil; die akute Hilfe ersetzt ihr bisheriges Grübeln durch Handeln.",
+      "anchor": "Der geliehene Besen wird zum Werkzeug der Rettung.",
+      "interest": "Der geliehene Besen wird zum Werkzeug der Rettung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1989",
+        "1987",
+        "1984",
+        "1990"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1989.",
+        "1987 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1984 liegt fünf Jahre davor.",
+        "1990 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1989 erstmals veröffentlicht.",
+      "context": "1989 wurde Kikis Geschichte verfilmt. Eiko Kadonos Buch erschien 1985, vier Jahre zuvor. Der Film fügte unter anderem den Verlust der Flugkraft und das Luftschiff-Finale hinzu, um die Krise der Selbstständigkeit deutlicher auszuarbeiten.",
+      "anchor": "Kadonos Buch von 1985 wurde vier Jahre später, 1989, mit einer zusätzlichen Flugkrise verfilmt.",
+      "interest": "Kadonos Buch von 1985 wurde vier Jahre später, 1989, mit einer zusätzlichen Flugkrise verfilmt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Hayao Miyazaki",
+        "Yoshifumi Kondō",
+        "Hiromasa Yonebayashi",
+        "Isao Takahata"
+      ],
+      "feedback": [
+        "Hayao Miyazaki führte Regie.",
+        "Yoshifumi Kondō führte bei diesem Film nicht Regie.",
+        "Hiromasa Yonebayashi führte bei diesem Film nicht Regie.",
+        "Isao Takahata führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Hayao Miyazaki.",
+      "context": "Miyazaki begann als Produzent und übernahm später selbst die Regie. Aus Kadonos eher episodischer Vorlage entwickelte er einen stärkeren Bogen von Aufbruch, Erschöpfung und wiedergefundenem Zutrauen.",
+      "anchor": "Miyazaki begann als Produzent und übernahm später selbst die Regie.",
+      "interest": "Miyazaki begann als Produzent und übernahm später selbst die Regie.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

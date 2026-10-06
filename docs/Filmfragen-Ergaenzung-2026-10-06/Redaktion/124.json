@@ -1,0 +1,222 @@
+{
+  "rank": 124,
+  "directors": [
+    "Akira Kurosawa"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "International kanonisierter Begriff für widersprüchliche Erzählungen, als konkrete Filmfassung eher Kennerfilm.",
+  "release_note": "Erste Vorstellung am 25. August 1950, regulärer japanischer Start am 26. August 1950.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Rashomon",
+    "criterion": "https://www.criterion.com/films/307-rashomon",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/rashomon",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was ist das zentrale Verfahren der Erzählung in @?",
+      "answers": [
+        "Mehrere Menschen berichten widersprüchlich von demselben Geschehen.",
+        "Ein Richter setzt verschiedene Aussagen zu einer eindeutig bestätigten Lösung zusammen.",
+        "Dieselben Zeugen korrigieren ihre Aussagen nacheinander bis zum gemeinsamen Geständnis.",
+        "Ein allwissender Erzähler widerlegt jeden Bericht unmittelbar."
+      ],
+      "feedback": [
+        "Die Berichte variieren dasselbe Verbrechen aus verschiedenen Blickwinkeln.",
+        "Der Film lässt Widersprüche stehen und liefert keine gesicherte Richterlösung.",
+        "Die Berichte führen nicht zu einem gemeinsamen Geständnis.",
+        "Ein allwissender Erzähler entscheidet nicht direkt über wahr und falsch."
+      ],
+      "short": "Die Berichte variieren dasselbe Verbrechen aus verschiedenen Blickwinkeln.",
+      "context": "Ein Bandit, die Frau des getöteten Samurai und weitere Zeugen erzählen den Vorfall unterschiedlich. Die Filmform macht ihre Sicht jeweils anschaulich, ohne sie als sicher bestätigte Wahrheit auszuweisen. Die Aufgabe des Publikums besteht daher darin, die Interessen der Erzähler mitzudenken und der sichtbaren Rekonstruktion nicht automatisch zu vertrauen.",
+      "anchor": "Ein sichtbarer Rückblick ist noch keine gesicherte Wahrheit.",
+      "interest": "Ein sichtbarer Rückblick ist noch keine gesicherte Wahrheit.",
+      "sources": [
+        "handlung",
+        "criterion",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Verbrechen beschäftigt die Zeugenaussagen in @?",
+      "answers": [
+        "Der Tod eines Samurai nach einem Überfall im Wald",
+        "Der Tod eines Händlers bei einem nächtlichen Hauseinbruch",
+        "Die Tötung eines Wächters während eines Gefangenentransports",
+        "Der verschwundene Besitz eines Reisenden nach einem Waldbrand"
+      ],
+      "feedback": [
+        "Die Aussagen betreffen den getöteten Samurai und den Überfall auf das Paar.",
+        "Ein überfallener Samurai ist im Wald getötet worden.",
+        "Ein Gefangenentransport ist nicht das fragliche Geschehen.",
+        "Es geht um Tod und Überfall, nicht um einen Waldbrand."
+      ],
+      "short": "Die Aussagen betreffen den getöteten Samurai und den Überfall auf das Paar.",
+      "context": "Tajōmaru (Toshirō Mifune) begegnet im Wald einem Samurai (Masayuki Mori) und dessen Frau (Machiko Kyō). Wie der Mann danach stirbt, erzählen die Beteiligten widersprüchlich. Die zentrale Frage ist damit nicht bloß, wer anwesend war, sondern welche Version von Handlungen, Schuld und Selbstbild die jeweilige Person anbietet.",
+      "anchor": "Ein Waldverbrechen wird durch mehrere Selbstbilder erzählt.",
+      "interest": "Ein Waldverbrechen wird durch mehrere Selbstbilder erzählt.",
+      "sources": [
+        "handlung",
+        "criterion",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie erhält in @ auch der tote Samurai (Masayuki Mori) eine eigene Aussage?",
+      "answers": [
+        "Er spricht durch ein Medium.",
+        "Ein von ihm diktierter Brief wird als Aussage verlesen.",
+        "Seine Frau berichtet seine Worte als einzige Zeugin.",
+        "Ein Richter rekonstruiert seine vermutete letzte Antwort."
+      ],
+      "feedback": [
+        "Ein Medium vermittelt die Aussage des Toten.",
+        "Der tote Mann erhält eine eigene Stimme durch ein Medium.",
+        "Die Frau hat eine andere eigene Version, statt seine Stimme allein zu vertreten.",
+        "Ein richterlich erfundener Bericht ist nicht sein Beitrag."
+      ],
+      "short": "Ein Medium vermittelt die Aussage des Toten.",
+      "context": "Der getötete Samurai (Masayuki Mori) bleibt nicht nur Gegenstand der Erzählungen anderer. Ein Medium (Noriko Honma) lässt auch seine Version hören. Doch die übernatürliche Vermittlung liefert keine automatische Gewissheit: Auch diese Aussage kann als Versuch verstanden werden, die eigene Würde und die Deutung des Todes zu retten.",
+      "anchor": "Selbst die Stimme des Toten beendet den Streit um Wahrheit nicht.",
+      "interest": "Selbst die Stimme des Toten beendet den Streit um Wahrheit nicht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was macht die behauptete Neutralität des Holzfällers (Takashi Shimura) in @ fragwürdig?",
+      "answers": [
+        "Er hat offenbar den wertvollen Dolch an sich genommen.",
+        "Er hat den Samurai schon vor dem Überfall persönlich gekannt.",
+        "Er hat gegen Geld seine Aussage mit der Frau abgestimmt.",
+        "Er war beim Überfall selbst bewaffnet und am Kampf beteiligt."
+      ],
+      "feedback": [
+        "Der fehlende Dolch deutet auf sein eigenes Interesse hin.",
+        "Sein mutmaßlicher Dolchdiebstahl erklärt das verschwiegene Eigeninteresse.",
+        "Eine bezahlte Absprache mit der Frau wird nicht als Grund offenbart.",
+        "Die aufgedeckte Belastung ist der gestohlene Dolch, nicht ein eigener bewaffneter Kampf."
+      ],
+      "short": "Der fehlende Dolch deutet auf sein eigenes Interesse hin.",
+      "context": "Der Holzfäller (Takashi Shimura) bietet eine weitere Version des Kampfes. Der dritte Mann am Tor (Kichijirō Ueda) hält ihm jedoch vor, den Dolch gestohlen zu haben. Damit verliert auch die scheinbar außenstehende Beobachtung ihren sicheren Status. Ein Zeuge kann vieles gesehen haben und dennoch einen Grund besitzen, seine Darstellung zu verändern.",
+      "anchor": "Der fehlende Dolch verbindet Beobachtung mit Eigeninteresse.",
+      "interest": "Der fehlende Dolch verbindet Beobachtung mit Eigeninteresse.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie unterscheidet sich der Kampf in der Version des Holzfällers (Takashi Shimura) von Tajōmarus eigener Darstellung in @?",
+      "answers": [
+        "Er wirkt ängstlich und unbeholfen statt ehrenhaft-meisterlich.",
+        "Er wirkt kurz und gezielt statt als lange Kraftprobe.",
+        "Er zeigt nur den Samurai kämpfen, während der Bandit flieht.",
+        "Er wird im Holzfällerbericht vollständig ausgespart."
+      ],
+      "feedback": [
+        "Die Männer kämpfen in der Holzfällerversion zögernd und ungeschickt.",
+        "Der wesentliche Kontrast ist ängstliche Unbeholfenheit gegen die selbstheroische Version.",
+        "Beide Männer kämpfen in dieser Version.",
+        "Der Holzfäller erzählt den Kampf, statt ihn ganz auszusparen."
+      ],
+      "short": "Die Männer kämpfen in der Holzfällerversion zögernd und ungeschickt.",
+      "context": "Tajōmaru (Toshirō Mifune) erzählt einen Kampf, der seinen Mut und seine Fähigkeit hervorhebt. Der Holzfäller (Takashi Shimura) zeigt dagegen Angst, Unentschlossenheit und Zufall. Die Differenz betrifft nicht nur das Ergebnis, sondern die Bewegungen selbst: Filmische Darstellung kann die Selbstdarstellung eines Erzählers sichtbar machen.",
+      "anchor": "Aus heldenhafter Selbstbeschreibung wird unsicheres Körperhandeln.",
+      "interest": "Aus heldenhafter Selbstbeschreibung wird unsicheres Körperhandeln.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Handlung des Holzfällers (Takashi Shimura) eröffnet am Ende von @ trotz der Lügen wieder Hoffnung?",
+      "answers": [
+        "Er will das ausgesetzte Baby aufnehmen.",
+        "Er verspricht, den Priestern den gestohlenen Dolch zurückzugeben.",
+        "Er stellt sich vor den anderen Zeugen als alleiniger Schuldiger.",
+        "Er führt den Priester persönlich zum Tatort zurück."
+      ],
+      "feedback": [
+        "Der Holzfäller übernimmt Verantwortung für das ausgesetzte Kind.",
+        "Die Aufnahme des Babys zeigt eine konkrete fürsorgliche Handlung.",
+        "Ein alleiniges Schuldbekenntnis ist nicht der Hoffnungsschimmer.",
+        "Er bietet dem ausgesetzten Kind ein Zuhause an, keine erneute Tatortbesichtigung."
+      ],
+      "short": "Der Holzfäller übernimmt Verantwortung für das ausgesetzte Kind.",
+      "context": "Das ausgesetzte Baby erweitert die Frage nach menschlicher Wahrheit um eine unmittelbare Entscheidung. Der Holzfäller (Takashi Shimura) will es mit seinen eigenen Kindern aufziehen. Der Mönch (Minoru Chiaki) gewinnt dadurch Vertrauen zurück. Der Film löst den alten Fall nicht vollständig, zeigt aber, dass ein neuer verantwortlicher Schritt trotzdem möglich ist.",
+      "anchor": "Ein nicht gelöster Fall verhindert keine hilfreiche Tat.",
+      "interest": "Ein nicht gelöster Fall verhindert keine hilfreiche Tat.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1950",
+        "1946",
+        "1949",
+        "1953"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1950.",
+        "1946 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1949 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1953 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1950.",
+      "context": "Rashomon wurde 1950 in Japan veröffentlicht. Der internationale Durchbruch mit dem Goldenen Löwen in Venedig folgte 1951. Der Abstand erklärt, weshalb Festivalerfolg und Filmjahr nicht gleichgesetzt werden dürfen. Die Handlung liegt in einem viel älteren historischen Kyoto und führt die Zeitebenen zusätzlich durch erzählte Erinnerungen zusammen. Der venezianische Erfolg folgte ein Jahr nach dem japanischen Start.",
+      "anchor": "Japanischer Filmstart 1950, Goldener Löwe 1951: der internationale Durchbruch folgt ein Jahr später.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Japanischer Filmstart 1950, Goldener Löwe 1951: der internationale Durchbruch folgt ein Jahr später.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Akira Kurosawa",
+        "Kenji Mizoguchi",
+        "Masaki Kobayashi",
+        "Yasujirō Ozu"
+      ],
+      "feedback": [
+        "Akira Kurosawa führte Regie.",
+        "Kenji Mizoguchi gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Masaki Kobayashi gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Yasujirō Ozu gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Akira Kurosawa.",
+      "context": "Akira Kurosawa schrieb mit Shinobu Hashimoto das Drehbuch und inszenierte den Film. Ryūnosuke Akutagawas Erzählung Im Dickicht liefert den Kriminalstoff; die Erzählung Rashomon liefert Titel und Rahmenmotiv. Zwei literarische Quellen werden somit in einer Form verbunden, die ihre Wahrheit bewusst nicht durch einen allwissenden Ermittler ordnet.",
+      "anchor": "Akira Kurosawa: Ryūnosuke Akutagawas Erzählung Im Dickicht liefert den Kriminalstoff; die Erzählung Rashomon liefert Titel und Rahmenmotiv.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "criterion",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

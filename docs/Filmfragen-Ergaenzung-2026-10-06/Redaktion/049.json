@@ -1,0 +1,218 @@
+{
+  "rank": 49,
+  "directors": [
+    "Ryusuke Hamaguchi"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Internationaler Festival- und Oscar-Erfolg; der dreistündige Theaterfilm bleibt ein Kennerfilm.",
+  "release_note": "Cannes-Premiere 11. Juli 2021.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Drive_My_Car_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "festival": {
+      "url": "https://www.festival-cannes.com/en/f/drive-my-car/",
+      "supports": "Jahr, Land, Regie und die Fahrgemeinschaft in Hiroshima."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf hat Yūsuke Kafuku (Hidetoshi Nishijima) in @?",
+      "answers": [
+        "Schauspieler und Theaterregisseur",
+        "Chirurg und Klinikleiter",
+        "Pilot und Fluglehrer",
+        "Fotograf und Galerist"
+      ],
+      "feedback": [
+        "Kafuku arbeitet am Theater.",
+        "Eine Klinik leitet er nicht.",
+        "Er arbeitet nicht im Luftverkehr.",
+        "Eine Galerie bildet nicht seinen Beruf."
+      ],
+      "short": "Kafuku arbeitet am Theater.",
+      "context": "Kafuku (Hidetoshi Nishijima) arbeitet am Theater. Nach dem Tod seiner Frau nimmt er ein Angebot in Hiroshima an; künstlerische Arbeit und private Trauer bleiben dabei eng verbunden.",
+      "anchor": "Kafukus Beruf führt ihn zum Theater in Hiroshima.",
+      "interest": "Kafukus Beruf führt ihn zum Theater in Hiroshima.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Weshalb verbringen Kafuku und Misaki (Tōko Miura) in @ viel Zeit gemeinsam im Auto?",
+      "answers": [
+        "Sie ist seine zugeteilte Fahrerin.",
+        "Sie gehört zum selben Ensemble und fährt freiwillig mit.",
+        "Sie ist seine neue Übersetzerin.",
+        "Sie leitet seine Theaterproduktion."
+      ],
+      "feedback": [
+        "Misaki wird Kafukus Fahrerin.",
+        "Misaki wird ihm als Fahrerin zugeteilt.",
+        "Übersetzung ist nicht ihre Funktion.",
+        "Die Produktion leitet sie nicht."
+      ],
+      "short": "Misaki wird Kafukus Fahrerin.",
+      "context": "Misaki (Tōko Miura) wird Kafukus Fahrerin. Er muss die Fahrregel des Festivals akzeptieren; die zunächst unerwünschte Hilfe eröffnet schließlich einen Raum für persönliche Gespräche.",
+      "anchor": "Die angeordnete Fahrerin wird zur Gesprächspartnerin.",
+      "interest": "Die angeordnete Fahrerin wird zur Gesprächspartnerin.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welches Stück probt Kafuku (Hidetoshi Nishijima) in @ mit seinem Ensemble?",
+      "answers": [
+        "Onkel Wanja",
+        "Ein Sommernachtstraum",
+        "Die Dreigroschenoper",
+        "Warten auf Godot"
+      ],
+      "feedback": [
+        "Das Ensemble probt Onkel Wanja.",
+        "Shakespeares Komödie ist nicht das Hiroshima-Projekt.",
+        "Brechts Stück wird dort nicht geprobt.",
+        "Godot gehört zur früheren Bühnenszene."
+      ],
+      "short": "Das Ensemble probt Onkel Wanja.",
+      "context": "Das Ensemble probt Onkel Wanja. Unterschiedliche Sprachen treffen aufeinander, sodass Zuhören und aufmerksames Reagieren wichtiger werden als eine für alle gleiche gesprochene Sprache.",
+      "anchor": "Onkel Wanja wird zum gemeinsamen Text vieler Sprachen.",
+      "interest": "Onkel Wanja wird zum gemeinsamen Text vieler Sprachen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Aufnahme nutzt Kafuku (Hidetoshi Nishijima) in @ beim Lernen seiner Rolle im Auto?",
+      "answers": [
+        "Eine von seiner verstorbenen Frau besprochene Kassette",
+        "Eine Aufnahme des gesamten Ensembles",
+        "Eine von ihm selbst eingesprochene Lesung",
+        "Eine neue Aufnahme von Misaki"
+      ],
+      "feedback": [
+        "Kafuku hört die von Oto (Reika Kirishima) besprochene Kassette.",
+        "Die Stimme stammt von Oto.",
+        "Kafuku hat die Gegenparts nicht selbst eingesprochen.",
+        "Misaki ersetzt die Stimme seiner Frau nicht."
+      ],
+      "short": "Kafuku hört die von Oto (Reika Kirishima) besprochene Kassette.",
+      "context": "Kafuku (Hidetoshi Nishijima) hört die von Oto (Reika Kirishima) besprochene Kassette. Die ausgesparten eigenen Einsätze erlauben ihm, seinen Text einzufügen; ihre Stimme bleibt damit Teil seines Arbeitsalltags.",
+      "anchor": "Otos Stimme gibt den Einsatz für Kafukus Text.",
+      "interest": "Otos Stimme gibt den Einsatz für Kafukus Text.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Krise zwingt Kafuku (Hidetoshi Nishijima) in @, selbst die Titelrolle zu übernehmen?",
+      "answers": [
+        "Der besetzte Schauspieler wird nach tödlicher Gewalt verhaftet.",
+        "Der besetzte Schauspieler kündigt wegen eines besseren Engagements.",
+        "Das Ensemble stimmt gegen den Hauptdarsteller.",
+        "Der Hauptdarsteller erkrankt während der Probe."
+      ],
+      "feedback": [
+        "Kōji Takatsuki (Masaki Okada) wird nach einem tödlichen Angriff verhaftet.",
+        "Die Verhaftung beendet seinen Auftritt.",
+        "Eine Ensembleabstimmung ist nicht die Krise.",
+        "Eine Erkrankung ist nicht der Ausfallgrund."
+      ],
+      "short": "Kōji Takatsuki (Masaki Okada) wird nach einem tödlichen Angriff verhaftet.",
+      "context": "Kōji Takatsuki (Masaki Okada) wird nach einem tödlichen Angriff verhaftet. Kafuku (Hidetoshi Nishijima) muss die Rolle übernehmen oder die Produktion absagen; die Entscheidung fordert die Rückkehr zur eigenen Schauspielarbeit.",
+      "anchor": "Die Verhaftung macht Kafuku wieder zum Wanja-Darsteller.",
+      "interest": "Die Verhaftung macht Kafuku wieder zum Wanja-Darsteller.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was verbindet die Reise nach Hokkaido in @ mit den Gesprächen zwischen Kafuku und Misaki?",
+      "answers": [
+        "Beide sprechen über Schuldgefühle nach einem Verlust.",
+        "Beide beschließen dort eine gemeinsame Theatergründung.",
+        "Beide suchen eine neue Wohnung für Kafuku.",
+        "Beide kehren ausschließlich für eine Aufführung zurück."
+      ],
+      "feedback": [
+        "Beide sprechen über Schuldgefühle nach dem Tod naher Menschen.",
+        "Die Reise führt zu Gesprächen über Schuld und Verlust.",
+        "Eine Wohnungssuche ist nicht das Ziel.",
+        "Eine Aufführung bildet nicht den Reiseanlass."
+      ],
+      "short": "Beide sprechen über Schuldgefühle nach dem Tod naher Menschen.",
+      "context": "Beide sprechen über Schuldgefühle nach dem Tod naher Menschen. Misaki (Tōko Miura) zeigt Kafuku (Hidetoshi Nishijima) die verschneiten Reste ihres Elternhauses; persönliches Erzählen löst die Verluste nicht auf, schafft aber Nähe.",
+      "anchor": "Hokkaido bringt zwei unterschiedliche Schuldgefühle zusammen.",
+      "interest": "Hokkaido bringt zwei unterschiedliche Schuldgefühle zusammen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2021",
+        "2019",
+        "2016",
+        "2022"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2021.",
+        "2019 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2016 liegt fünf Jahre davor.",
+        "2022 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2021 erstmals veröffentlicht.",
+      "context": "2021 wurde die Murakami-Verfilmung in Cannes uraufgeführt. Die zugrunde liegende Kurzgeschichte erschien 2014; sieben Jahre liegen zwischen Text und Film. Tschechows Onkel Wanja bildet innerhalb der Geschichte eine wesentlich ältere weitere Vorlage.",
+      "anchor": "Murakamis Kurzgeschichte von 2014 wurde sieben Jahre später, 2021, verfilmt.",
+      "interest": "Murakamis Kurzgeschichte von 2014 wurde sieben Jahre später, 2021, verfilmt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Ryusuke Hamaguchi",
+        "Hirokazu Kore-eda",
+        "Kiyoshi Kurosawa",
+        "Naomi Kawase"
+      ],
+      "feedback": [
+        "Ryusuke Hamaguchi führte Regie.",
+        "Hirokazu Kore-eda führte bei diesem Film nicht Regie.",
+        "Kiyoshi Kurosawa führte bei diesem Film nicht Regie.",
+        "Naomi Kawase führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Ryusuke Hamaguchi.",
+      "context": "Hamaguchi schrieb das Drehbuch mit Takamasa Oe. Die Murakami-Adaption verbindet eine Fahrtgemeinschaft mit Proben für ein mehrsprachiges Theaterstück; die vertraute Autofahrt schafft Zeit für Gespräche über Verlust.",
+      "anchor": "Hamaguchi schrieb das Drehbuch mit Takamasa Oe.",
+      "interest": "Hamaguchi schrieb das Drehbuch mit Takamasa Oe.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

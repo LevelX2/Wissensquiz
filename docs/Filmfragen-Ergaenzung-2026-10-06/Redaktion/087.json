@@ -1,0 +1,212 @@
+{
+  "rank": 87,
+  "directors": [
+    "Dario Argento"
+  ],
+  "production_countries": [
+    "Italien"
+  ],
+  "familiarity_reason": "Etablierte Horror-Kultklassik mit unverwechselbarer Farb- und Tongestaltung.",
+  "release_note": "Italienischer Start 1. Februar 1977; gefragt ist das Original.",
+  "series": "Die drei Mütter; erster Film.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Suspiria",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum kommt Suzy in @ an die Akademie?",
+      "answers": [
+        "Sie möchte Ballett studieren.",
+        "Sie möchte an der Akademie Gesang studieren.",
+        "Sie bewirbt sich als Tanzlehrerin.",
+        "Sie begleitet ihre Schwester zur Aufnahmeprüfung."
+      ],
+      "feedback": [
+        "Suzy (Jessica Harper) kommt zum Ballettstudium.",
+        "Die Ausbildung ist Ballett, nicht Gesang.",
+        "Suzy kommt als Schülerin, nicht als Lehrerin.",
+        "Sie kommt für ihre eigene Ausbildung."
+      ],
+      "short": "Suzy (Jessica Harper) kommt zum Ballettstudium.",
+      "context": "Suzy (Jessica Harper) kommt zum Ballettstudium. Die neue Ausbildungsstätte wird nach den ersten Todesfällen zum Ort einer Bedrohung, die weit über den strengen Unterricht hinausgeht.",
+      "anchor": "Die ersehnte Ausbildung führt in die Hexenakademie.",
+      "interest": "Die ersehnte Ausbildung führt in die Hexenakademie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Katastrophe zwingt die Schülerinnen in @ zur gemeinsamen Nacht im Tanzsaal?",
+      "answers": [
+        "Maden fallen von der Decke.",
+        "Eine Brandentwicklung macht die Schlafzimmer unbewohnbar.",
+        "Eine Überschwemmung trifft die oberen Zimmer.",
+        "Ein Polizeieinsatz sperrt die Schlafräume."
+      ],
+      "feedback": [
+        "Maden fallen aus verdorbenen Vorräten im Dachbereich.",
+        "Die Ursache sind Maden aus verdorbenen Vorräten.",
+        "Wasserschäden erzwingen diese Nacht nicht.",
+        "Die gemeinsame Unterbringung ist keine polizeiliche Anordnung."
+      ],
+      "short": "Maden fallen aus verdorbenen Vorräten im Dachbereich.",
+      "context": "Maden fallen aus verdorbenen Vorräten im Dachbereich. Suzy (Jessica Harper) und Sara (Stefania Casini) schlafen deshalb im Tanzsaal; dort gewinnt das ungewöhnliche Atmen hinter dem Vorhang Bedeutung.",
+      "anchor": "Der verdorbene Vorrat führt zur aufschlussreichen gemeinsamen Nacht.",
+      "interest": "Der verdorbene Vorrat führt zur aufschlussreichen gemeinsamen Nacht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Woran erkennt Sara in @ die angeblich abwesende Schulleiterin?",
+      "answers": [
+        "An ihrem schweren, heiseren Atmen",
+        "An den vertrauten Schritten hinter dem Vorhang",
+        "An der Stimme bei einem nächtlichen Gespräch",
+        "Am Klopfen ihres Spazierstocks"
+      ],
+      "feedback": [
+        "Sara (Stefania Casini) erkennt das schwere Atmen.",
+        "Die Atemgeräusche bilden den entscheidenden Wiedererkennungshinweis.",
+        "Ein gesprochenes Gespräch identifiziert sie nicht in dieser Szene.",
+        "Ein Stockgeräusch ist nicht der Hinweis."
+      ],
+      "short": "Sara (Stefania Casini) erkennt das schwere Atmen.",
+      "context": "Sara (Stefania Casini) erkennt das schwere Atmen. Die Person hinter dem Vorhang widerspricht damit der offiziellen Abwesenheit; ein Geräusch wird zum Hinweis auf das verborgene Zentrum der Schule.",
+      "anchor": "Das Atmen widerspricht der behaupteten Abwesenheit.",
+      "interest": "Das Atmen widerspricht der behaupteten Abwesenheit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie findet Suzy in @ den verborgenen Zugang im Büro?",
+      "answers": [
+        "Sie dreht die blaue Iris auf einem Wandbild.",
+        "Sie verschiebt das Wandbild über einem Türspalt.",
+        "Sie drückt eine Taste unter dem Schreibtisch.",
+        "Sie öffnet eine Wandnische hinter einem Spiegel."
+      ],
+      "feedback": [
+        "Suzy (Jessica Harper) dreht die Iris auf dem Wandbild.",
+        "Die Iris auf dem Bild ist selbst der Mechanismus.",
+        "Eine Schreibtischtaste öffnet den Zugang nicht.",
+        "Ein Spiegel verbirgt den Zugang nicht."
+      ],
+      "short": "Suzy (Jessica Harper) dreht die Iris auf dem Wandbild.",
+      "context": "Suzy (Jessica Harper) dreht die Iris auf dem Wandbild. Pats (Eva Axén) erinnerte Worte und die nächtlichen Schritte verbinden sich dadurch zu einem konkreten Weg hinter die sichtbare Schulordnung.",
+      "anchor": "Das Wort Iris wird zur bedienbaren Blume im Wandbild.",
+      "interest": "Das Wort Iris wird zur bedienbaren Blume im Wandbild.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum stürzt der Hexenzirkel am Ende von @ nach Markos’ Tod zusammen?",
+      "answers": [
+        "Seine Macht hängt an der Anführerin.",
+        "Suzy zerstört das Buch mit ihren gemeinsamen Beschwörungen.",
+        "Die übrigen Hexen verlieren freiwillig ihre Kräfte.",
+        "Die Brandkatastrophe durchtrennt den Bannkreis."
+      ],
+      "feedback": [
+        "Der Zirkel verliert mit Helena Markos seine Kraft.",
+        "Die Abhängigkeit von Markos wird vorher ausdrücklich erklärt.",
+        "Der Machtverlust erfolgt nicht freiwillig.",
+        "Markos’ Tod verursacht den Zusammenbruch; der Brand ist keine unabhängige Erklärung."
+      ],
+      "short": "Der Zirkel verliert mit Helena Markos seine Kraft.",
+      "context": "Der Zirkel verliert mit Helena Markos (Lela Svasta) seine Kraft. Suzy (Jessica Harper) hatte zuvor erfahren, dass die Hexen an ihre Anführerin gebunden sind; ihr Angriff trifft damit mehr als eine einzelne Gegnerin.",
+      "anchor": "Die Abhängigkeit des Zirkels macht den Angriff auf Markos entscheidend.",
+      "interest": "Die Abhängigkeit des Zirkels macht den Angriff auf Markos entscheidend.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie kann Suzy die unsichtbar gewordene Markos im Schluss von @ treffen?",
+      "answers": [
+        "Ein Blitz zeichnet ihre Kontur nach.",
+        "Ihre Schritte verraten Suzy die genaue Position.",
+        "Ein Spiegel zeigt Markos trotz der Unsichtbarkeit.",
+        "Suzy folgt einer Blutspur am Boden."
+      ],
+      "feedback": [
+        "Blitzlicht verrät Markos’ Kontur.",
+        "Der Blitz macht ihre Kontur sichtbar.",
+        "Ein Spiegel löst die Unsichtbarkeit nicht.",
+        "Eine Blutspur führt den Stich nicht."
+      ],
+      "short": "Blitzlicht verrät Markos’ Kontur.",
+      "context": "Blitzlicht verrät Markos’ (Lela Svasta) Kontur. Suzy (Jessica Harper) nutzt eine Glasspitze des zerbrochenen Pfaus; die vorher nur akustisch erkennbare Gegnerin wird für einen Moment körperlich lokalisierbar.",
+      "anchor": "Der Blitz macht Unsichtbarkeit kurz angreifbar.",
+      "interest": "Der Blitz macht Unsichtbarkeit kurz angreifbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1977",
+        "1975",
+        "1972",
+        "1978"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1977.",
+        "1975 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1972 liegt fünf Jahre davor.",
+        "1978 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1977 erstmals veröffentlicht.",
+      "context": "1977 erschien das Original. Argento setzte seine Drei-Mütter-Filmfolge 1980 mit Inferno fort, drei Jahre später; die gleichnamige Neuverfilmung von 2018 entstand erst 41 Jahre nach dem ersten Film.",
+      "anchor": "Auf das Original von 1977 folgte 1980, drei Jahre später, Inferno als zweiter Drei-Mütter-Film.",
+      "interest": "Auf das Original von 1977 folgte 1980, drei Jahre später, Inferno als zweiter Drei-Mütter-Film.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Dario Argento",
+        "Mario Bava",
+        "Lucio Fulci",
+        "Luca Guadagnino"
+      ],
+      "feedback": [
+        "Dario Argento führte Regie.",
+        "Mario Bava hat hier keinen Regiecredit.",
+        "Lucio Fulci hat hier keinen Regiecredit.",
+        "Luca Guadagnino hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Dario Argento.",
+      "context": "Argento schrieb mit Daria Nicolodi das Drehbuch. Die Geschichte wechselt vom menschlichen Täterrätsel seiner Gialli zu übernatürlicher Hexenmacht; Goblins Musik und die auffälligen Farben tragen die Bedrohung zusätzlich zur Handlung.",
+      "anchor": "Argento schrieb mit Daria Nicolodi das Drehbuch.",
+      "interest": "Argento schrieb mit Daria Nicolodi das Drehbuch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

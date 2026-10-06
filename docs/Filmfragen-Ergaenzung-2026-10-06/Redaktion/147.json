@@ -1,0 +1,220 @@
+{
+  "rank": 147,
+  "directors": [
+    "Jacques Demy"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "familiarity_reason": "Von Cineasten geschätztes französisches Musical, außerhalb des Genres eine Entdeckung trotz prominenter Stars.",
+  "release_note": "Französischer Start am 8. März 1967.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Young_Girls_of_Rochefort",
+    "criterion": "https://www.criterion.com/films/28615-the-young-girls-of-rochefort",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/the_young_girls_of_rochefort",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Beziehung haben Delphine und Solange in @?",
+      "answers": [
+        "Sie sind Zwillingsschwestern.",
+        "Sie sind Mutter und Tochter.",
+        "Sie sind konkurrierende Musikmanagerinnen.",
+        "Sie kennen sich nur aus Briefen."
+      ],
+      "feedback": [
+        "Delphine und Solange sind Zwillinge.",
+        "Sie sind nicht Mutter und Tochter.",
+        "Sie arbeiten nicht als Musikmanagerinnen.",
+        "Sie leben zusammen und kennen sich persönlich."
+      ],
+      "short": "Delphine und Solange sind Zwillinge.",
+      "context": "Delphine (Catherine Deneuve) unterrichtet Tanz, Solange (Françoise Dorléac) Musik. Beide sehnen sich nach Paris und nach Liebe. Die parallelen Wünsche eröffnen verschiedene Begegnungen, während die gemeinsame Wohnung und die Familie ihre Geschichten miteinander verbinden.",
+      "anchor": "Die Zwillinge teilen Aufbruchswünsche, aber unterschiedliche künstlerische Wege.",
+      "interest": "Die Zwillinge teilen Aufbruchswünsche, aber unterschiedliche künstlerische Wege.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wohin möchten die Schwestern in @ aufbrechen?",
+      "answers": [
+        "Paris",
+        "London",
+        "Rom",
+        "New York"
+      ],
+      "feedback": [
+        "Die Schwestern möchten Rochefort für Paris verlassen.",
+        "London ist nicht ihr gemeinsames Ziel.",
+        "Rom ist nicht die geplante Großstadt.",
+        "New York ist nicht der geplante Aufbruchsort."
+      ],
+      "short": "Die Schwestern möchten Rochefort für Paris verlassen.",
+      "context": "Delphine (Catherine Deneuve) möchte tanzen, Solange (Françoise Dorléac) komponieren. Die Ankunft des Jahrmarkts schafft eine praktische Reisemöglichkeit. Ihr Wunsch nach der Großstadt ist dadurch zugleich ein beruflicher Plan und eine Hoffnung auf ein weniger begrenztes Leben.",
+      "anchor": "Der Jahrmarkt öffnet den Schwestern den Weg nach Paris.",
+      "interest": "Der Jahrmarkt öffnet den Schwestern den Weg nach Paris.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum erkennt Delphine (Catherine Deneuve) in @ sich in einem Gemälde wieder?",
+      "answers": [
+        "Maxence hat seine ideale Frau gemalt, die ihr erstaunlich ähnelt.",
+        "Solange hat heimlich ihr Porträt angefertigt.",
+        "Der Galerist hat ein altes Familienfoto kopiert.",
+        "Sie hatte selbst Modell gestanden und es vergessen."
+      ],
+      "feedback": [
+        "Maxences Bild seiner idealen Frau gleicht Delphine.",
+        "Solange ist nicht die Malerin des Bildes.",
+        "Ein kopiertes Familienfoto ist nicht die Grundlage.",
+        "Delphine hat dafür nicht Modell gestanden."
+      ],
+      "short": "Maxences Bild seiner idealen Frau gleicht Delphine.",
+      "context": "Maxence (Jacques Perrin) sucht seine erträumte Liebe und hat sie gemalt, bevor er Delphine (Catherine Deneuve) trifft. Sie sieht das Bild in der Galerie. Beide haben damit einen Hinweis aufeinander, doch kleine Verzögerungen und falsche Auskünfte verhindern zunächst das Treffen.",
+      "anchor": "Das ideale Porträt passt zu einer Frau, der sein Maler noch nicht begegnet ist.",
+      "interest": "Das ideale Porträt passt zu einer Frau, der sein Maler noch nicht begegnet ist.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was findet Andy Miller (Gene Kelly) in @ nach der Begegnung mit Solange?",
+      "answers": [
+        "Die Noten ihres eigenen Klavierkonzerts",
+        "Eine Fahrkarte nach Amerika",
+        "Ein Foto von Maxences Gemälde",
+        "Einen Brief ihrer Mutter an Simon"
+      ],
+      "feedback": [
+        "Andy nimmt Solanges verlorene Partitur auf.",
+        "Eine Amerikafahrkarte ist nicht der Fund.",
+        "Ein Gemäldefoto führt ihn nicht zu ihrer Musik.",
+        "Ein Mutterbrief ist nicht das verlorene Dokument."
+      ],
+      "short": "Andy nimmt Solanges verlorene Partitur auf.",
+      "context": "Solange (Françoise Dorléac) und Andy Miller (Gene Kelly) begegnen sich, ohne Namen auszutauschen. Die fallengelassenen Noten geben der musikalischen Begegnung eine konkrete Spur. Als sie ihn später im Musikgeschäft findet, spielt er ihre Komposition; persönliche und künstlerische Anerkennung treffen zusammen.",
+      "anchor": "Die verlorenen Noten verbinden den Fremden mit Solanges Musik.",
+      "interest": "Die verlorenen Noten verbinden den Fremden mit Solanges Musik.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum hatte Yvonne (Danielle Darrieux) in @ einst Simon verlassen?",
+      "answers": [
+        "Sie wollte nach der Heirat nicht „Madame Dame“ heißen.",
+        "Er hatte ihre Musik gestohlen.",
+        "Er verlangte, dass sie ihre Töchter wegschickt.",
+        "Er hatte eine heimliche zweite Familie."
+      ],
+      "feedback": [
+        "Yvonne störte sich an Simons Nachnamen Dame.",
+        "Musikdiebstahl ist nicht der Trennungsgrund.",
+        "Das Wegschicken der Töchter wird nicht verlangt.",
+        "Eine geheime zweite Familie erklärt die Trennung nicht."
+      ],
+      "short": "Yvonne störte sich an Simons Nachnamen Dame.",
+      "context": "Yvonne (Danielle Darrieux) bereut eine Entscheidung, die äußerlich lächerlich klein wirkt. Simon Dame (Michel Piccoli) hat inzwischen ein Musikgeschäft in derselben Stadt. Die Geschichte macht sichtbar, wie ein Wort und ein verletztes Selbstbild eine Beziehung für viele Jahre unterbrechen können.",
+      "anchor": "Ein Name verhindert einst die Ehe; Zufälle ermöglichen ein Wiedersehen.",
+      "interest": "Ein Name verhindert einst die Ehe; Zufälle ermöglichen ein Wiedersehen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie bringt das Ende von @ Delphine und Maxence schließlich zusammen?",
+      "answers": [
+        "Der Jahrmarktswagen nimmt den trampenden Maxence mit.",
+        "Maxence besucht die Pariser Premiere ihrer Show.",
+        "Yvonne stellt beide in ihrem Café vor.",
+        "Delphine kauft sein Porträt und findet seine Adresse."
+      ],
+      "feedback": [
+        "Der Wagen mit Delphine hält für Maxence als Anhalter.",
+        "Eine Pariser Premiere zeigt der Film nicht.",
+        "Die Mutter stellt beide nicht im Café vor.",
+        "Ein Bildkauf mit Adresse löst das Treffen nicht aus."
+      ],
+      "short": "Der Wagen mit Delphine hält für Maxence als Anhalter.",
+      "context": "Delphine (Catherine Deneuve) verlässt Rochefort mit den Schaustellern. Maxence (Jacques Perrin) steht als Anhalter an der Straße. Der Wagen hält; ihr eigentliches Kennenlernen bleibt außerhalb des Bildes. Nach vielen verpassten Gelegenheiten endet der Film mit einer ermöglichten Begegnung.",
+      "anchor": "Der letzte Zufall setzt beide in denselben Wagen.",
+      "interest": "Der letzte Zufall setzt beide in denselben Wagen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1967",
+        "1963",
+        "1966",
+        "1970"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1967.",
+        "1963 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1966 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1970 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1967.",
+      "context": "Die Mädchen von Rochefort erschien 1967, drei Jahre nach Die Regenschirme von Cherbourg von 1964. Demy und Michel Legrand wechselten vom durchgesungenen Trennungsdrama zu einem Ensemble voller Tanz, verpasster Begegnungen und möglicher Neuanfänge. Catherine Deneuve steht in beiden Filmen im Mittelpunkt, hier zusammen mit ihrer Schwester Françoise Dorléac.",
+      "anchor": "Cherbourg 1964, Rochefort 1967: drei Jahre später öffnet Demy das Musical zum Ensemble.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Cherbourg 1964, Rochefort 1967: drei Jahre später öffnet Demy das Musical zum Ensemble.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jacques Demy",
+        "Vincente Minnelli",
+        "Agnès Varda",
+        "Stanley Donen"
+      ],
+      "feedback": [
+        "Jacques Demy führte Regie.",
+        "Vincente Minnelli gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Agnès Varda gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Stanley Donen gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Jacques Demy.",
+      "context": "Jacques Demy schrieb und führte Regie. Michel Legrand komponierte, Norman Maen choreografierte. Die realen Schwestern Catherine Deneuve und Françoise Dorléac spielen Zwillinge; der Film verbindet französische Hafenstadt und Hollywoodmusical auch durch Gene Kelly und George Chakiris im Ensemble.",
+      "anchor": "Jacques Demy: Michel Legrand komponierte, Norman Maen choreografierte.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "criterion",
+        "credits_rt",
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

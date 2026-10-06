@@ -1,0 +1,216 @@
+{
+  "rank": 152,
+  "directors": [
+    "Curtis Hanson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Breit bekannter Film mit Eminem und populärem Soundtrack; als bekannter Film eingeordnet.",
+  "release_note": "US-Veröffentlichung am 8. November 2002.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/8_Mile_(film)",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/8_mile/",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt versucht Jimmy Smith (Eminem) in @ als Rapper Fuß zu fassen?",
+      "answers": [
+        "Detroit",
+        "Chicago",
+        "Philadelphia",
+        "Atlanta"
+      ],
+      "feedback": [
+        "Jimmys Geschichte spielt in Detroit.",
+        "Chicago ist nicht der zentrale Schauplatz.",
+        "Philadelphia ist nicht Jimmys Stadt.",
+        "Atlanta ist nicht die Umgebung der Handlung."
+      ],
+      "short": "Jimmys Geschichte spielt in Detroit.",
+      "context": "Jimmy Smith (Eminem) arbeitet in einer Autofabrik und tritt bei lokalen Rap-Battles an. Stadt und soziale Grenze der titelgebenden Straße verbinden Beruf, Familie und Musikwelt. Der Film zeigt den Aufstieg deshalb nicht als Sprung aus einem beliebigen Ort, sondern aus einer konkreten urbanen Umgebung.",
+      "anchor": "Autofabrik und Rap-Battle gehören zu Jimmys Detroit.",
+      "interest": "Autofabrik und Rap-Battle gehören zu Jimmys Detroit.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was passiert Jimmy (Eminem) bei seinem ersten gezeigten Rap-Battle in @?",
+      "answers": [
+        "Er blockiert vor Aufregung und verlässt die Bühne.",
+        "Er gewinnt sofort das Finale.",
+        "Er wird wegen eines Plagiats ausgeschlossen.",
+        "Er greift den Moderator körperlich an."
+      ],
+      "feedback": [
+        "Jimmy bringt vor Lampenfieber seinen Auftritt nicht zustande.",
+        "Ein sofortiger Finalsieg findet nicht statt.",
+        "Ein Plagiatsausschluss ist nicht der Grund.",
+        "Er greift den Moderator nicht an."
+      ],
+      "short": "Jimmy bringt vor Lampenfieber seinen Auftritt nicht zustande.",
+      "context": "Future (Mekhi Phifer) unterstützt Jimmy Smith (Eminem), doch auf der Bühne fehlen ihm die Worte. Der spätere Erfolg erhält durch diese Niederlage seine Bedeutung: Die Geschichte verlangt nicht nur Talent, sondern die Fähigkeit, es unter öffentlichem Druck tatsächlich einzusetzen.",
+      "anchor": "Jimmys erster Gegner ist seine Blockade vor dem Publikum.",
+      "interest": "Jimmys erster Gegner ist seine Blockade vor dem Publikum.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie unterstützt Paul Jimmy (Eminem) in @ vor dem entscheidenden Battle?",
+      "answers": [
+        "Er übernimmt den Anfang von Jimmys Nachtschicht.",
+        "Er bezahlt den Eintritt für alle Zuschauer.",
+        "Er schreibt heimlich Jimmys Texte.",
+        "Er vermittelt einen Vertrag bei einem Plattenlabel."
+      ],
+      "feedback": [
+        "Paul deckt den Beginn von Jimmys Arbeitsschicht ab.",
+        "Ein Publikumseintritt ist nicht Pauls entscheidende Hilfe.",
+        "Jimmy rappt nicht Pauls heimlich geschriebene Texte.",
+        "Ein Plattenvertrag wird nicht vermittelt."
+      ],
+      "short": "Paul deckt den Beginn von Jimmys Arbeitsschicht ab.",
+      "context": "Jimmy Smith (Eminem) muss zwischen zusätzlicher Arbeit und dem Battle abwägen. Paul hilft ihm, beide Verpflichtungen zu verbinden. Zuvor hatte Jimmy den Kollegen gegen homophobe Beleidigungen verteidigt; die spätere Unterstützung knüpft an diese konkrete Solidarität an.",
+      "anchor": "Die Hilfe am Arbeitsplatz ermöglicht den Auftritt außerhalb der Fabrik.",
+      "interest": "Die Hilfe am Arbeitsplatz ermöglicht den Auftritt außerhalb der Fabrik.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie kommt Cheddar Bob (Evan Jones) in @ zu seiner Schussverletzung?",
+      "answers": [
+        "Er schießt sich beim Wegstecken seiner eigenen Waffe versehentlich an.",
+        "Ein rivalisierender Rapper trifft ihn aus der Ferne.",
+        "Ein Polizist schießt bei einer Festnahme.",
+        "Er wird bei einem Einbruch von einem Wachmann getroffen."
+      ],
+      "feedback": [
+        "Cheddar Bob verletzt sich selbst mit seiner Waffe.",
+        "Ein ferner Rivalenschuss ist nicht die Ursache.",
+        "Eine Polizeifestnahme führt nicht zur Verletzung.",
+        "Ein Wachmann schießt nicht auf ihn."
+      ],
+      "short": "Cheddar Bob verletzt sich selbst mit seiner Waffe.",
+      "context": "Cheddar Bob (Evan Jones) möchte eine Schlägerei mit einer Pistole beeinflussen. Als er sie verstaut, löst sich der Schuss. Die Waffe verschafft ihm daher keine souveräne Kontrolle; ihr Einsatz erzeugt eine vermeidbare Verletzung innerhalb der eigenen Gruppe.",
+      "anchor": "Die gezogene Waffe verletzt ihren eigenen Besitzer.",
+      "interest": "Die gezogene Waffe verletzt ihren eigenen Besitzer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Strategie nutzt Jimmy (Eminem) im letzten Battle von @?",
+      "answers": [
+        "Er benennt seine eigenen Schwächen zuerst und entzieht dem Gegner dessen Angriffe.",
+        "Er verweigert die erste Runde und gewinnt durch Zeitablauf.",
+        "Er verwendet ausschließlich die Texte seines Gegners.",
+        "Er fordert das Publikum auf, ohne Auftritt abzustimmen."
+      ],
+      "feedback": [
+        "Jimmy nimmt die erwarteten persönlichen Angriffe vorweg.",
+        "Er gewinnt nicht durch Verweigerung und Zeitablauf.",
+        "Er kopiert nicht ausschließlich gegnerische Texte.",
+        "Eine Abstimmung ohne Auftritt ist nicht die Entscheidung."
+      ],
+      "short": "Jimmy nimmt die erwarteten persönlichen Angriffe vorweg.",
+      "context": "Jimmy Smith (Eminem) spricht über Armut und Niederlagen, bevor Papa Doc (Anthony Mackie) sie gegen ihn verwenden kann. Zugleich legt er dessen privilegierte Herkunft offen. Der Sieg beruht auf der Kontrolle der eigenen Geschichte und der Entlarvung eines fremden Selbstbilds.",
+      "anchor": "Jimmy nimmt dem Gegner seine Beleidigungen, indem er sie selbst ausspricht.",
+      "interest": "Jimmy nimmt dem Gegner seine Beleidigungen, indem er sie selbst ausspricht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wohin geht Jimmy (Eminem) nach seinem Sieg am Ende von @?",
+      "answers": [
+        "Zurück zu seiner Arbeitsschicht",
+        "Direkt zu einer internationalen Konzerttour",
+        "Zum Flughafen für eine Labelaudition",
+        "In Futures Wohnung zum Feiern"
+      ],
+      "feedback": [
+        "Jimmy kehrt zur Arbeit zurück.",
+        "Eine internationale Tour beginnt nicht sofort.",
+        "Eine Flughafenreise folgt nicht.",
+        "Eine Feier bei Future ist nicht sein gezeigtes Ziel."
+      ],
+      "short": "Jimmy kehrt zur Arbeit zurück.",
+      "context": "Future (Mekhi Phifer) bietet Jimmy Smith (Eminem) eine Rolle als Battlemoderator an. Jimmy lehnt ab und geht zur Nachtschicht. Der Schluss setzt die gewonnene Selbstsicherheit in einen weiterhin bestehenden Alltag; ein Erfolg ersetzt seine wirtschaftlichen Verpflichtungen noch nicht.",
+      "anchor": "Der Sieg beendet die Blockade, nicht die nächste Arbeitsschicht.",
+      "interest": "Der Sieg beendet die Blockade, nicht die nächste Arbeitsschicht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2002",
+        "1998",
+        "2001",
+        "2005"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 2002.",
+        "1998 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "2001 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2005 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 2002.",
+      "context": "8 Mile erschien 2002. Die Handlung spielt 1995, sieben Jahre vor dem Kinostart. Sie greift Elemente aus Eminems frühen Erfahrungen auf, bleibt aber die Geschichte der fiktionalen Figur Jimmy Smith. Der Abstand hilft, die erinnerte Detroiter Rapwelt vom Zeitpunkt des bereits erfolgreichen Stars zu unterscheiden.",
+      "anchor": "Detroiter Handlung 1995, Film 2002: sieben Jahre zwischen Jimmys Welt und Eminems Kinoauftritt.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Detroiter Handlung 1995, Film 2002: sieben Jahre zwischen Jimmys Welt und Eminems Kinoauftritt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Curtis Hanson",
+        "Antoine Fuqua",
+        "John Singleton",
+        "Spike Lee"
+      ],
+      "feedback": [
+        "Curtis Hanson führte Regie.",
+        "Antoine Fuqua gehört nicht zum Regiecredit dieser Filmfassung.",
+        "John Singleton gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Spike Lee gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Curtis Hanson.",
+      "context": "Curtis Hanson führte Regie und produzierte mit. Er entwickelte den Film nach Scott Silvers Drehbuch mit Eminem als Hauptdarsteller. Die Figur Jimmy ist keine unveränderte autobiografische Kopie; familiäre Lage, Arbeitsplatz und Rapwettbewerbe werden zu einer eigenständigen dramatischen Geschichte verbunden.",
+      "anchor": "Curtis Hanson: Er entwickelte den Film nach Scott Silvers Drehbuch mit Eminem als Hauptdarsteller.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

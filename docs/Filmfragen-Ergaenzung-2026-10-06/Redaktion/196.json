@@ -1,0 +1,226 @@
+{
+  "rank": 196,
+  "directors": [
+    "René Laloux"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Tschechoslowakei"
+  ],
+  "familiarity_reason": "Ein ungewöhnlicher französisch-tschechoslowakischer Animationsklassiker; eine Entdeckung für breite Zuschauer.",
+  "release_note": "Erste Veröffentlichung 1973 bei den Filmfestspielen von Cannes; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Fantastic_Planet",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Fantastic_Planet",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "credits": {
+      "url": "https://www.criterion.com/films/28636",
+      "supports": "Gelesene offizielle Filmseite: Regie, Filmjahr, Besetzung und Werkbeschreibung."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie behandeln die riesigen Draags die kleinen Menschen in @ zunächst?",
+      "answers": [
+        "Als Haustiere oder Schädlinge",
+        "Als geschützte Versuchswissenschaftler",
+        "Als von den Draags angestellte Verwalter",
+        "Als ausschließlich militärische Gegner"
+      ],
+      "feedback": [
+        "Die Draags halten manche Menschen als Haustiere und bekämpfen wilde Gruppen.",
+        "Die kleinen Menschen werden als Haustiere oder Schädlinge behandelt.",
+        "Sie erhalten keine gleichberechtigte Verwaltungsmacht.",
+        "Die anfängliche Behandlung ist auch häusliche Haltung."
+      ],
+      "short": "Die Draags halten manche Menschen als Haustiere und bekämpfen wilde Gruppen.",
+      "context": "Die Draags halten manche Menschen als Haustiere und bekämpfen wilde Gruppen. Die ungleiche Körpergröße erhält eine gesellschaftliche Entsprechung; die Menschen werden nicht als selbstbestimmte Gegenüber anerkannt.",
+      "anchor": "Der Größenunterschied wird zum Herrschaftsverhältnis.",
+      "interest": "Der Größenunterschied wird zum Herrschaftsverhältnis.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wer nimmt den verwaisten Terr in @ in einem Draag-Haushalt auf?",
+      "answers": [
+        "Tiwa und ihr Vater",
+        "Tiwas Lehrerin und deren Sohn",
+        "Zwei erwachsene Draag-Forscher",
+        "Ein Draag-Händler und seine Frau"
+      ],
+      "feedback": [
+        "Tiwa (Originalstimme Jennifer Drake) und ihr Vater Sinh (Jean Topart) nehmen Terr auf.",
+        "Terr wird nicht bei einer Lehrerin untergebracht, sondern bei Tiwa und ihrem Vater.",
+        "Ein Forscherpaar ist nicht seine Pflegefamilie; Tiwa behandelt ihn als Haustier.",
+        "Ein Händlerhaushalt nimmt ihn nicht auf; Terr lebt bei Tiwa und Sinh."
+      ],
+      "short": "Tiwa (Originalstimme Jennifer Drake) und ihr Vater Sinh (Jean Topart) nehmen Terr auf.",
+      "context": "Tiwa (Originalstimme Jennifer Drake) und ihr Vater Sinh (Jean Topart) nehmen Terr auf. Sie behandelt ihn als Haustier; Fürsorge und Kontrolle sind dabei eng verbunden, statt seine Freiheit anzuerkennen.",
+      "anchor": "Tiwas Fürsorge hält Terr zugleich unter Kontrolle.",
+      "interest": "Tiwas Fürsorge hält Terr zugleich unter Kontrolle.",
+      "sources": [
+        "handlung",
+        "credits"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie erwirbt Terr in @ Wissen der Draags?",
+      "answers": [
+        "Er empfängt Tiwas Lernkopfband mit.",
+        "Er findet eine vollständig menschliche Bibliothek.",
+        "Er wird offiziell in eine Draag-Schule aufgenommen.",
+        "Er beobachtet nur die Übungen der erwachsenen Draags."
+      ],
+      "feedback": [
+        "Ein Defekt in Terrs Halsband lässt ihn Tiwas Lehrwissen empfangen.",
+        "Er profitiert vom Lernkopfband der Draag-Tochter.",
+        "Das Wissen erreicht ihn ohne gleichberechtigte Aufnahme.",
+        "Das technische Lernband liefert weit mehr als bloße Beobachtung."
+      ],
+      "short": "Ein Defekt in Terrs Halsband lässt ihn Tiwas Lehrwissen empfangen.",
+      "context": "Ein Defekt in Terrs Halsband lässt ihn Tiwas Lehrwissen empfangen. Terr (Originalstimmen Eric Baugin als Kind und Jean Valmont als Erwachsener) nimmt das Lernkopfband bei seiner Flucht mit; Bildung wird damit zum Mittel seiner späteren Befreiung.",
+      "anchor": "Mitgehörtes Wissen wird zur Befreiungsressource.",
+      "interest": "Mitgehörtes Wissen wird zur Befreiungsressource.",
+      "sources": [
+        "handlung",
+        "credits"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum ist das Lesenlernen für die freie Menschengruppe in @ unmittelbar nützlich?",
+      "answers": [
+        "Sie erkennen die Ankündigung einer geplanten Vernichtung.",
+        "Sie entschlüsseln den Weg zu einer verborgenen menschlichen Stadt.",
+        "Sie lernen eine medizinische Behandlung gegen Draag-Gifte.",
+        "Sie verstehen einen Auftrag, das Gebiet für die Draags zu verlassen."
+      ],
+      "feedback": [
+        "Die Menschen können die Ankündigung einer Vernichtungsaktion lesen.",
+        "Die unmittelbar hilfreiche Nachricht ist die Ankündigung der Vernichtungsaktion.",
+        "Die Schrift warnt sie vor dem geplanten Angriff, statt ein Heilmittel zu vermitteln.",
+        "Die gelesene Ankündigung betrifft Vernichtung, nicht eine angebotene Umsiedlung."
+      ],
+      "short": "Die Menschen können die Ankündigung einer Vernichtungsaktion lesen.",
+      "context": "Die Menschen können die Ankündigung einer Vernichtungsaktion lesen. Terrs (Originalstimme Jean Valmont) Wissenszugang liefert daher nicht bloß abstrakte Kultur, sondern konkrete Vorwarnung gegen die überlegene Gewalt der Draags.",
+      "anchor": "Schriftkenntnis ermöglicht das Erkennen der Bedrohung.",
+      "interest": "Schriftkenntnis ermöglicht das Erkennen der Bedrohung.",
+      "sources": [
+        "handlung",
+        "credits"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was macht die Statuen auf dem Mond in @ für die Draags lebenswichtig?",
+      "answers": [
+        "Sie ermöglichen ihre meditative Fortpflanzung.",
+        "Sie nehmen die täglichen Lebensdaten der Draags auf.",
+        "Sie ersetzen den gesamten Nahrungsvorrat.",
+        "Sie übertragen ausschließlich Nachrichten zwischen den Städten."
+      ],
+      "feedback": [
+        "Die Draags nutzen die Statuen in ihrer Meditation für ein Fortpflanzungsritual.",
+        "Die Verbindung mit den Statuen gehört zur Fortpflanzung.",
+        "Sie sind keine Nahrungsquelle.",
+        "Die lebenswichtige Funktion ist mehr als Kommunikation."
+      ],
+      "short": "Die Draags nutzen die Statuen in ihrer Meditation für ein Fortpflanzungsritual.",
+      "context": "Die Draags nutzen die Statuen in ihrer Meditation für ein Fortpflanzungsritual. Als Terrs Gruppe einige zerstört, entsteht erstmals ein Druckmittel gegen die Herrscher; deren eigene Verletzlichkeit eröffnet Verhandlungen.",
+      "anchor": "Die geistige Reise hängt an verletzlichen Statuen.",
+      "interest": "Die geistige Reise hängt an verletzlichen Statuen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Lösung beendet in @ die Vernichtung der Menschen?",
+      "answers": [
+        "Ein Abkommen mit einem eigenen künstlichen Satelliten als Heimat",
+        "Die endgültige Ausrottung aller Draags",
+        "Die Rückkehr aller Menschen auf eine leere Erde",
+        "Die freiwillige Aufgabe jeder menschlichen Bildung"
+      ],
+      "feedback": [
+        "Menschen und Draags schließen Frieden.",
+        "Die Draags werden nicht vollständig ausgerottet.",
+        "Eine Erdrückkehr bildet nicht den Schluss.",
+        "Die Menschen behalten ihren Wissenszugang."
+      ],
+      "short": "Menschen und Draags schließen Frieden.",
+      "context": "Menschen und Draags schließen Frieden. Die Menschen erhalten einen eigenen künstlichen Satelliten; die Lösung beruht auf erkannter gegenseitiger Verwundbarkeit und einem veränderten Zusammenleben, nicht auf der vollständigen Vernichtung des anderen.",
+      "anchor": "Gegenseitige Verletzlichkeit macht Koexistenz möglich.",
+      "interest": "Gegenseitige Verletzlichkeit macht Koexistenz möglich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1973",
+        "1970",
+        "1966",
+        "1975"
+      ],
+      "feedback": [
+        "1973 wurde der Film in Cannes erstmals gezeigt.",
+        "1970 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1973 wird im zeitlichen Hintergrund erklärt.",
+        "1966 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1973 wird im zeitlichen Hintergrund erklärt.",
+        "1975 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1973 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1973 wurde der Film in Cannes erstmals gezeigt.",
+      "context": "1973 wurde der Film in Cannes erstmals gezeigt. Stefan Wuls Roman „Oms en série“ stammt von 1957; sechzehn Jahre trennen Vorlage und animierte Adaption. Die Gestaltung von Roland Topor macht aus dem Science-Fiction-Stoff eine sichtbar eigenständige fantastische Welt.",
+      "anchor": "Roman 1957, Film 1973: Sechzehn Jahre später erhält Wuls Welt Topors eigenständige Zeichengestalt.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "René Laloux",
+        "Paul Grimault",
+        "Karel Zeman",
+        "Jiří Trnka"
+      ],
+      "feedback": [
+        "René Laloux führte Regie und schrieb mit Roland Topor.",
+        "Paul Grimault führte nicht bei dieser Fassung Regie; genannt ist René Laloux.",
+        "Karel Zeman führte nicht bei dieser Fassung Regie; genannt ist René Laloux.",
+        "Jiří Trnka führte nicht bei dieser Fassung Regie; genannt ist René Laloux."
+      ],
+      "short": "René Laloux führte Regie und schrieb mit Roland Topor.",
+      "context": "René Laloux führte Regie und schrieb mit Roland Topor. Die Koproduktion entstand in Frankreich und der Tschechoslowakei; der Größenunterschied zwischen Draags und Menschen schafft eine fremdartige Welt, die zugleich Machtverhältnisse anschaulich macht.",
+      "anchor": "René Laloux führte Regie und schrieb mit Roland Topor.",
+      "interest": "René Laloux führte Regie und schrieb mit Roland Topor.",
+      "sources": [
+        "eckdaten",
+        "credits"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

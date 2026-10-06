@@ -1,0 +1,214 @@
+{
+  "rank": 15,
+  "directors": [
+    "Aaron Nee",
+    "Adam Nee"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein bekannter neuerer Abenteuerfilm mit Sandra Bullock und Channing Tatum; Detailfragen gehen über die Starbesetzung hinaus.",
+  "release_note": "Premiere bei SXSW am 12. März 2022; erste Veröffentlichung 2022.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Lost_City_(2022_film)",
+    "paramount": "https://www.paramount.de/the-lost-city",
+    "vorgaenger": "https://en.wikipedia.org/wiki/The_Jewel_of_the_Nile"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum entführt Fairfax (Daniel Radcliffe) Loretta Sage (Sandra Bullock) in @?",
+      "answers": [
+        "Er erwartet, dass sie einen wirklichen Schatz entschlüsseln kann.",
+        "Er will ihre Verlegerin mit einer Lösegeldforderung erpressen.",
+        "Er will sie zu einer schmeichelhaften Biografie zwingen.",
+        "Er will die Rechte an ihrem noch unveröffentlichten Manuskript erzwingen."
+      ],
+      "feedback": [
+        "Fairfax hält Teile ihrer Romangeschichte für den Weg zum echten Schatz.",
+        "Die Entführung dient der Schatzsuche, nicht einer Lösegeldforderung an den Verlag.",
+        "Fairfax braucht Lorettas Wissen über den Schatz, keine eigene Biografie.",
+        "Der gesuchte Schatz ist der Anlass, nicht die Veröffentlichung ihres Manuskripts."
+      ],
+      "short": "Fairfax will Lorettas Wissen für seine Schatzsuche benutzen.",
+      "context": "Loretta verarbeitet archäologisches Wissen in ihren Abenteuerromanen. Fairfax nimmt diese Grundlage ernster als den fiktionalen Rahmen. Aus dem Schreiben über Gefahren wird deshalb eine tatsächliche Zwangslage.",
+      "anchor": "Fairfax hält Lorettas Romanwissen für einen Schlüssel zum echten Schatz.",
+      "interest": "Die Entführung erklärt die Verbindung zwischen Fiktion und Abenteuer.",
+      "sources": [
+        "paramount",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Aufgabe hat Alan (Channing Tatum) beruflich für Lorettas Bücher in @?",
+      "answers": [
+        "Er ist das Covermodel des Romanhelden.",
+        "Er übersetzt die Bücher ins Lateinische.",
+        "Er prüft ihre archäologischen Quellen.",
+        "Er führt ihren Verlag als Eigentümer."
+      ],
+      "feedback": [
+        "Alan verkörpert Dash auf den Buchcovern.",
+        "Die Übersetzung ist nicht seine Aufgabe.",
+        "Er arbeitet nicht als wissenschaftlicher Quellenprüfer.",
+        "Der Verlag wird nicht von ihm als Eigentümer geführt."
+      ],
+      "short": "Alan ist das Covermodel für den Helden Dash.",
+      "context": "Alan möchte Loretta (Sandra Bullock) beweisen, dass er auch außerhalb der Coverbilder helfen kann. Seine vertraute Heldenpose trifft im Dschungel auf eine Aufgabe, für die er wenig praktische Erfahrung hat.",
+      "anchor": "Alan sieht als Coverheld aus und muss echtes Helfen erst lernen.",
+      "interest": "Die berufliche Rolle begründet die komische Spannung der Figur.",
+      "sources": [
+        "paramount"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welcher Hinweis bringt Loretta (Sandra Bullock) in @ auf den Ort des verborgenen Grabes?",
+      "answers": [
+        "Ein örtliches Lied",
+        "Eine Gravur auf einer alten Landkarte",
+        "Eine Inschrift auf einer verborgenen Statue",
+        "Die Lage eines Tempels in ihren Forschungsnotizen"
+      ],
+      "feedback": [
+        "Loretta erkennt im örtlichen Lied den entscheidenden Hinweis.",
+        "Den entscheidenden Hinweis liefert das örtliche Lied.",
+        "Keine Statueninschrift führt sie in dieser Szene zum Grab.",
+        "Das Lied ergänzt ihr Wissen um den entscheidenden Hinweis."
+      ],
+      "short": "Ein örtliches Lied weist auf das Grab in einer Cenote hin.",
+      "context": "Loretta verbindet die überlieferten Worte mit dem Landschaftsraum. Alan (Channing Tatum) kann diese Deutung nicht durch seine körperliche Heldenrolle ersetzen. Ihr eigenes Wissen bleibt für das Abenteuer entscheidend.",
+      "anchor": "Loretta hört im örtlichen Lied den Weg zum Grab.",
+      "interest": "Die Szene zeigt die praktische Bedeutung ihres Fachwissens.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Woraus besteht die sogenannte Feuerkrone in @ tatsächlich?",
+      "answers": [
+        "Aus roten Muschelschalen",
+        "Aus geschmolzenen Goldmünzen",
+        "Aus Vulkanstein mit Diamanten",
+        "Aus brennendem Metall"
+      ],
+      "feedback": [
+        "Die Muscheln waren ein persönliches Liebesgeschenk.",
+        "Goldmünzen sind nicht das Material.",
+        "Ein vulkanischer Diamantenschmuck wird nicht gefunden.",
+        "Die Krone brennt nicht als Metallkörper."
+      ],
+      "short": "Die Feuerkrone besteht aus roten Muschelschalen.",
+      "context": "Loretta (Sandra Bullock) erkennt im Grab ein Zeichen der Beziehung des verstorbenen Königspaars. Fairfax (Daniel Radcliffe) erwartet materiellen Reichtum und verkennt diese Bedeutung. Der Schatzbegriff wird dadurch neu bestimmt.",
+      "anchor": "Die Feuerkrone ist ein Liebeszeichen aus roten Muscheln.",
+      "interest": "Der Fund verändert den angenommenen Wert des Schatzes.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche zusätzliche Aufgabe hatte Sandra Bullock bei @ neben ihrer Hauptrolle?",
+      "answers": [
+        "Sie war auch Produzentin.",
+        "Sie komponierte die gesamte Filmmusik.",
+        "Sie führte allein Regie.",
+        "Sie entwarf sämtliche Stunts selbst."
+      ],
+      "feedback": [
+        "Bullock ist neben ihrer Rolle als Produzentin beteiligt.",
+        "Pinar Toprak schrieb die Filmmusik.",
+        "Die Regie liegt bei Aaron und Adam Nee.",
+        "Alle Stunts werden nicht allein Bullock zugeschrieben."
+      ],
+      "short": "Sandra Bullock spielte Loretta und produzierte den Film mit.",
+      "context": "Die Hauptdarstellerin gehört damit auch zu den Verantwortlichen hinter der Produktion. Die Nee-Brüder inszenierten, Seth Gordon entwickelte die Story und war ebenfalls Produzent. Mehrere Aufgaben verteilen sich auf verschiedene Beteiligte.",
+      "anchor": "Bullock spielt Loretta und trägt als Produzentin Verantwortung.",
+      "interest": "Die Beteiligung hinter der Kamera erweitert den Blick auf die Hauptdarstellerin.",
+      "sources": [
+        "paramount"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Wo entstand die Dschungelwelt von @ überwiegend bei den Dreharbeiten?",
+      "answers": [
+        "In der Dominikanischen Republik",
+        "In Costa Rica",
+        "In Thailand",
+        "Auf Hawaii"
+      ],
+      "feedback": [
+        "Die Dreharbeiten fanden in der Dominikanischen Republik statt.",
+        "Die maßgeblichen Insel- und Dschungeldrehorte lagen in der Dominikanischen Republik.",
+        "Thailand war nicht der überwiegende Drehort dieser Dschungelwelt.",
+        "Hawaii ist nicht der gesuchte Hauptdrehort."
+      ],
+      "short": "Die Produktion drehte in der Dominikanischen Republik.",
+      "context": "Die erzählte Vulkaninsel ist ein fiktionaler Abenteuerort. Gedreht wurde an mehreren Orten der Dominikanischen Republik und in Studios vor Ort. Reale Drehlandschaft und erfundene Geografie sind deshalb auseinanderzuhalten.",
+      "anchor": "Die erfundene Schatzinsel erhält ihre Drehwelt in der Dominikanischen Republik.",
+      "interest": "Der Drehort wird sinnvoll von der erzählten Insel getrennt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Sandra Bullock und Channing Tatum erstmals veröffentlicht?",
+      "answers": [
+        "2022",
+        "1984",
+        "2014",
+        "2019"
+      ],
+      "feedback": [
+        "Die SXSW-Premiere war 2022.",
+        "1984 erschien Auf der Jagd nach dem grünen Diamanten.",
+        "2014 ist für diese Produktion zu früh.",
+        "2019 liegt vor der Premiere."
+      ],
+      "short": "Der Film wurde 2022 erstmals veröffentlicht.",
+      "context": "1984 erschien „Auf der Jagd nach dem grünen Diamanten“, ebenfalls eine Abenteuerkomödie mit einer Romanautorin. „The Lost City“ folgte 2022, achtunddreißig Jahre später. Das ist ein thematischer Zeitanker, keine behauptete direkte Fortsetzung.",
+      "anchor": "1984 und 2022: achtunddreißig Jahre zwischen zwei Abenteuern mit Romanautorinnen.",
+      "interest": "Ein vergleichbares Filmmotiv schafft eine überprüfbare Zeitverbindung.",
+      "sources": [
+        "handlung",
+        "paramount",
+        "vorgaenger"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Welches Brüderpaar führte bei @ mit Sandra Bullock und Channing Tatum Regie?",
+      "answers": [
+        "Aaron Nee und Adam Nee",
+        "Joel Coen und Ethan Coen",
+        "Anthony Russo und Joe Russo",
+        "Jean-Pierre Dardenne und Luc Dardenne"
+      ],
+      "feedback": [
+        "Aaron und Adam Nee sind das Regieteam.",
+        "Die Coen-Brüder führten hier nicht Regie.",
+        "Die Russo-Brüder sind nicht dieses Team.",
+        "Die Dardenne-Brüder inszenierten diesen Film nicht."
+      ],
+      "short": "Aaron Nee und Adam Nee führten gemeinsam Regie.",
+      "context": "Die beiden wirkten außerdem am Drehbuch von Oren Uziel und Dana Fox mit. Seth Gordon lieferte die zugrunde liegende Story. Der gemeinsame Regiecredit ist damit Teil einer breiter verteilten Autorenarbeit.",
+      "anchor": "Die Nee-Brüder inszenieren und arbeiten am Drehbuch mit.",
+      "interest": "Das vollständige Team wird mit seinen konkreten Autorenaufgaben verbunden.",
+      "sources": [
+        "paramount"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

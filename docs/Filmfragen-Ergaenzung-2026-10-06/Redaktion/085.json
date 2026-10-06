@@ -1,0 +1,216 @@
+{
+  "rank": 85,
+  "directors": [
+    "David Robert Mitchell"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Moderner Genreklassiker mit weithin bekanntem Verfolgungsprinzip.",
+  "release_note": "Cannes-Premiere 17. Mai 2014; US-Start 2015.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/It_Follows",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "film": {
+      "url": "https://itfollows-film.com/about",
+      "supports": "Mitchell, Cannes 2014 und Vorgängerfilm 2010."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie wird die Bedrohung in @ weitergegeben?",
+      "answers": [
+        "Durch sexuellen Kontakt",
+        "Durch einen Handschlag",
+        "Durch das Lesen eines Briefes",
+        "Durch einen Telefonanruf"
+      ],
+      "feedback": [
+        "Hugh beziehungsweise Jeff (Jake Weary) überträgt die Verfolgung auf Jay (Maika Monroe).",
+        "Ein Handschlag überträgt sie nicht.",
+        "Ein Brief ist nicht der Auslöser.",
+        "Ein Telefonat reicht nicht aus."
+      ],
+      "short": "Hugh beziehungsweise Jeff (Jake Weary) überträgt die Verfolgung auf Jay (Maika Monroe).",
+      "context": "Hugh beziehungsweise Jeff (Jake Weary) überträgt die Verfolgung auf Jay (Maika Monroe). Die Regel verknüpft Nähe mit Risiko und macht eine scheinbare Rettung zur Belastung eines weiteren Menschen.",
+      "anchor": "Die Weitergabe verschiebt Gefahr auf eine andere Person.",
+      "interest": "Die Weitergabe verschiebt Gefahr auf eine andere Person.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Wie nähert sich das Wesen in @ seinen Opfern?",
+      "answers": [
+        "Ständig und in gewöhnlichem Gehtempo",
+        "In kurzen schnellen Angriffen aus Verstecken",
+        "Nur innerhalb der Wohnung des letzten Opfers",
+        "Ausschließlich bei völliger Dunkelheit"
+      ],
+      "feedback": [
+        "Das Wesen geht langsam, aber ohne dauerhafte Pause.",
+        "Die Gefahr entsteht gerade durch unablässiges langsames Gehen.",
+        "Das Wesen verfolgt die Opfer über Ortswechsel hinweg.",
+        "Tageslicht beendet die Verfolgung nicht."
+      ],
+      "short": "Das Wesen geht langsam, aber ohne dauerhafte Pause.",
+      "context": "Das Wesen geht langsam, aber ohne dauerhafte Pause. Jay (Maika Monroe) kann Abstand gewinnen; Entfernung bietet deshalb Aufschub, ohne die Verfolgung endgültig zu beenden.",
+      "anchor": "Langsames Gehen wird durch Ausdauer gefährlich.",
+      "interest": "Langsames Gehen wird durch Ausdauer gefährlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was passiert laut der Regel in @, wenn das Wesen sein derzeitiges Ziel tötet?",
+      "answers": [
+        "Es verfolgt die vorherige Person der Kette.",
+        "Es verschwindet für immer.",
+        "Es beginnt bei einem zufälligen Kind.",
+        "Es bleibt dauerhaft am Tatort."
+      ],
+      "feedback": [
+        "Die Verfolgung kehrt in der Kette zurück.",
+        "Es endet nicht automatisch.",
+        "Ein zufälliges Kind ist nicht das nächste Ziel.",
+        "Am Tatort bleibt es nicht gebunden."
+      ],
+      "short": "Die Verfolgung kehrt in der Kette zurück.",
+      "context": "Die Verfolgung kehrt in der Kette zurück. Jay (Maika Monroe) erkennt dadurch, dass die Weitergabe sie nur schützt, solange das nächste Opfer nicht getötet wird.",
+      "anchor": "Der Tod eines Nachfolgers bringt die Gefahr zurück.",
+      "interest": "Der Tod eines Nachfolgers bringt die Gefahr zurück.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum unterschätzt Greg in @ nach der Weitergabe die Gefahr?",
+      "answers": [
+        "Er glaubt nicht an die Existenz des Wesens.",
+        "Er glaubt, mit dem ersten sexuellen Kontakt sei die Gefahr beendet.",
+        "Er vertraut auf den dauerhaften Schutz durch die Polizei.",
+        "Er hält das Wesen für eine Erscheinung, die nur Jay sehen kann."
+      ],
+      "feedback": [
+        "Greg (Daniel Zovatto) hält das Wesen nicht für real.",
+        "Die Weitergabe reicht nicht zur dauerhaften Entwarnung; Greg glaubt grundsätzlich nicht an das Wesen.",
+        "Eine polizeiliche Schutzregel kennt er nicht.",
+        "Sein entscheidender Fehler ist Unglaube, nicht eine bestätigte Beschränkung auf Jay."
+      ],
+      "short": "Greg (Daniel Zovatto) hält das Wesen nicht für real.",
+      "context": "Greg (Daniel Zovatto) hält das Wesen nicht für real. Jay (Maika Monroe) sieht es später in der Gestalt seiner Mutter; fehlender Glaube verschafft ihm keinen Schutz vor dem körperlichen Angriff.",
+      "anchor": "Gregs Unglaube verhindert keine tödliche Begegnung.",
+      "interest": "Gregs Unglaube verhindert keine tödliche Begegnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie durchkreuzt das Wesen den Plan am Schwimmbecken in @?",
+      "answers": [
+        "Es wirft die Elektrogeräte auf Jay, statt ins Wasser zu gehen.",
+        "Es zieht Paul ins Wasser, bevor Jay das Becken erreicht.",
+        "Es trennt außerhalb der Halle die Stromzufuhr.",
+        "Es verfolgt Jay bis in den Umkleideraum."
+      ],
+      "feedback": [
+        "Das Wesen wirft die bereitgestellten Geräte auf Jay.",
+        "Die Geräte werden als Wurfgeschosse gegen Jay eingesetzt.",
+        "Die Falle scheitert nicht an einem abgeschalteten Stromanschluss.",
+        "Der Angriff erfolgt am Becken statt durch einen Rückzug in die Umkleide."
+      ],
+      "short": "Das Wesen wirft die bereitgestellten Geräte auf Jay.",
+      "context": "Das Wesen wirft die bereitgestellten Geräte auf Jay (Maika Monroe). Jay (Maika Monroe) und Paul (Keir Gilchrist) können die gedachte Falle nicht einfach ausführen; das Ziel wird durch seine Anordnung selbst gefährdet.",
+      "anchor": "Die vorgesehene Waffe wird gegen die Wartende gewendet.",
+      "interest": "Die vorgesehene Waffe wird gegen die Wartende gewendet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum beweist der gemeinsame Spaziergang am Ende von @ keinen endgültigen Sieg?",
+      "answers": [
+        "Eine weitere Person geht im Hintergrund hinter dem Paar.",
+        "Jay entdeckt eine neue Verletzung, die ihre Übertragung rückgängig macht.",
+        "Paul berichtet, dass eine frühere Person der Kette gestorben ist.",
+        "Das Paar findet erneut das Wesen vor seiner Haustür."
+      ],
+      "feedback": [
+        "Hinter Jay (Maika Monroe) und Paul (Keir Gilchrist) geht eine Gestalt.",
+        "Der Film zeigt keine solche Verletzungsregel.",
+        "Die Unsicherheit entsteht aus dem Bild des Verfolgers, nicht einem Todesbericht.",
+        "Ein eindeutig identifiziertes Wesen vor der Haustür ist nicht das Schlussbild."
+      ],
+      "short": "Hinter Jay (Maika Monroe) und Paul (Keir Gilchrist) geht eine Gestalt.",
+      "context": "Hinter Jay (Maika Monroe) und Paul (Keir Gilchrist) geht eine Gestalt. Ihre Identität bleibt offen; das Schlussbild erhält dadurch genau die Beobachtungsunsicherheit, die das Verfolgungsprinzip erzeugt.",
+      "anchor": "Ein gewöhnlicher Hintergrundgänger lässt den Sieg ungewiss.",
+      "interest": "Ein gewöhnlicher Hintergrundgänger lässt den Sieg ungewiss.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2014",
+        "2012",
+        "2009",
+        "2015"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2014.",
+        "2012 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2009 liegt fünf Jahre davor.",
+        "2015 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2014 erstmals veröffentlicht.",
+      "context": "2014 wurde der Film in Cannes gezeigt. Mitchells erster Langfilm The Myth of the American Sleepover erschien 2010, vier Jahre früher; beide Filme interessieren sich für Jugendliche und die unsicheren Übergänge ihres Alltags.",
+      "anchor": "Mitchells Jugendfilmdebüt von 2010 ging dem Jugendhorror von 2014 vier Jahre voraus.",
+      "interest": "Mitchells Jugendfilmdebüt von 2010 ging dem Jugendhorror von 2014 vier Jahre voraus.",
+      "sources": [
+        "film",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "David Robert Mitchell",
+        "Ti West",
+        "Adam Wingard",
+        "Mike Flanagan"
+      ],
+      "feedback": [
+        "David Robert Mitchell führte Regie.",
+        "Ti West hat hier keinen Regiecredit.",
+        "Adam Wingard hat hier keinen Regiecredit.",
+        "Mike Flanagan hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: David Robert Mitchell.",
+      "context": "Mitchell entwickelte die Verfolgungsidee aus wiederkehrenden Träumen seiner Jugend. Statt schneller Angriffe setzt er auf langsames Näherkommen; alltägliche Gehbewegungen werden so zum Anlass ständiger Bildbeobachtung.",
+      "anchor": "Mitchell entwickelte die Verfolgungsidee aus wiederkehrenden Träumen seiner Jugend.",
+      "interest": "Mitchell entwickelte die Verfolgungsidee aus wiederkehrenden Träumen seiner Jugend.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

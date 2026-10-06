@@ -1,0 +1,211 @@
+{
+  "rank": 97,
+  "directors": [
+    "George A. Romero"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Grundlegender und weithin bekannter Klassiker des modernen Zombiefilms.",
+  "release_note": "Pittsburgh-Premiere 1. Oktober 1968.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Night_of_the_Living_Dead",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo sucht die Gruppe in @ Schutz vor den Angreifern?",
+      "answers": [
+        "In einem Bauernhaus",
+        "In einem Einkaufszentrum",
+        "In einem Flughafen",
+        "In einem Luxushotel"
+      ],
+      "feedback": [
+        "Die Gruppe verbarrikadiert ein Bauernhaus.",
+        "Das Einkaufszentrum gehört zur späteren Filmgeschichte.",
+        "Ein Flughafen ist nicht der Schutzort.",
+        "Ein Hotel bewohnen sie nicht."
+      ],
+      "short": "Die Gruppe verbarrikadiert ein Bauernhaus.",
+      "context": "Die Gruppe verbarrikadiert ein Bauernhaus. Ben (Duane Jones) sichert Türen und Fenster; der enge Schutzraum bringt Menschen zusammen, die sich über die richtige Verteidigung nicht einigen können.",
+      "anchor": "Die äußere Belagerung trifft auf einen inneren Gruppenstreit.",
+      "interest": "Die äußere Belagerung trifft auf einen inneren Gruppenstreit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wodurch erfährt die Gruppe in @ von der größeren Katastrophe?",
+      "answers": [
+        "Durch Radio- und Fernsehnachrichten",
+        "Durch eine vom Sheriff persönlich überbrachte Warnung",
+        "Durch die Beobachtung eines benachbarten Krankenhauses",
+        "Durch Funksprüche über ein Polizeifunkgerät"
+      ],
+      "feedback": [
+        "Radio und Fernsehen berichten von den Angriffen.",
+        "Die Warnungen und Regeln erreichen sie als Rundfunksendungen.",
+        "Das Bauernhaus bietet keinen solchen direkten Überblick.",
+        "Sie hören Radio und sehen Fernsehen statt eigenen Polizeifunk abzuhören."
+      ],
+      "short": "Radio und Fernsehen berichten von den Angriffen.",
+      "context": "Radio und Fernsehen berichten von den Angriffen. Ben (Duane Jones) und die anderen erhalten Regeln und Rettungsziele aus der Ferne; die Informationsverbindung bleibt wichtig, solange sie überhaupt funktioniert.",
+      "anchor": "Die Nachrichten verbinden den eingeschlossenen Raum mit der Außenwelt.",
+      "interest": "Die Nachrichten verbinden den eingeschlossenen Raum mit der Außenwelt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Worüber streiten Ben und Harry in @ bei der Wahl des Schutzortes?",
+      "answers": [
+        "Ob Keller oder oberes Haus sicherer ist",
+        "Ob alle gemeinsam fliehen oder getrennt auf Rettung warten sollen",
+        "Ob man die Waffen dem Sheriff übergeben soll",
+        "Ob zuerst der Brunnen untersucht werden muss"
+      ],
+      "feedback": [
+        "Harry (Karl Hardman) verlangt den Rückzug in den Keller.",
+        "Der konkrete Streit betrifft den Schutz im Keller oder oben.",
+        "Ein Sheriff ist noch nicht im Haus.",
+        "Der Brunnen bildet nicht die konkurrierende Sicherheitsstrategie."
+      ],
+      "short": "Harry (Karl Hardman) verlangt den Rückzug in den Keller.",
+      "context": "Harry (Karl Hardman) verlangt den Rückzug in den Keller. Ben (Duane Jones) will oben Handlungsmöglichkeiten bewahren; beide Schutzkonzepte haben Risiken, die der Film im weiteren Verlauf sichtbar macht.",
+      "anchor": "Der Keller verspricht Deckung und droht zugleich zur Falle zu werden.",
+      "interest": "Der Keller verspricht Deckung und droht zugleich zur Falle zu werden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum scheitert der geplante Ausbruch mit dem Lastwagen in @?",
+      "answers": [
+        "Auslaufendes Benzin entzündet sich und der Wagen explodiert.",
+        "Der Motor springt trotz des getankten Benzins nicht an.",
+        "Die Angreifer kippen den Wagen beim Tankversuch um.",
+        "Die Reifen platzen auf dem Weg zur Straße."
+      ],
+      "feedback": [
+        "Das Benzin gerät in Brand.",
+        "Das auslaufende Benzin verursacht den Brand.",
+        "Der Wagen explodiert statt von den Angreifern umgeworfen zu werden.",
+        "Ein Reifenschaden verursacht das Scheitern nicht."
+      ],
+      "short": "Das Benzin gerät in Brand.",
+      "context": "Das Benzin gerät in Brand. Tom (Keith Wayne) und Judy (Judith Ridley) sterben im explodierenden Lastwagen; die misslungene Versorgung nimmt der Gruppe zugleich ein mögliches Fluchtmittel.",
+      "anchor": "Der Tankversuch zerstört Menschen und Fluchtmittel zugleich.",
+      "interest": "Der Tankversuch zerstört Menschen und Fluchtmittel zugleich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Gefahr bedroht die Familie Cooper im Keller von @ von innen?",
+      "answers": [
+        "Die gebissene Tochter wird selbst zur Angreiferin.",
+        "Harry wird nach einem unbemerkten Biss selbst zum Angreifer.",
+        "Helen verliert die Kontrolle und greift ihre Tochter an.",
+        "Ein unbemerkt hineingelangter Untoter versteckt sich im Keller."
+      ],
+      "feedback": [
+        "Karen (Kyra Schon) stirbt und greift ihre Eltern an.",
+        "Die bereits verletzte Karen verwandelt sich.",
+        "Karen ist die Quelle der tödlichen Angriffe auf die Eltern.",
+        "Die Gefahr stammt aus der eigenen Familie."
+      ],
+      "short": "Karen (Kyra Schon) stirbt und greift ihre Eltern an.",
+      "context": "Karen (Kyra Schon) stirbt und greift ihre Eltern an. Harry (Karl Hardman) hatte den Keller als sicheren Raum verteidigt; die bereits hineingebrachte Verletzung macht die Sicherheit jedoch von innen zunichte.",
+      "anchor": "Der geschützte Keller enthält schon die spätere Angreiferin.",
+      "interest": "Der geschützte Keller enthält schon die spätere Angreiferin.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum stirbt Ben im Morgenlicht am Ende von @?",
+      "answers": [
+        "Die bewaffnete Gruppe hält ihn für einen Untoten.",
+        "Harry hatte ihn zuvor tödlich angeschossen.",
+        "Ein Untoter greift ihn beim Öffnen des Fensters an.",
+        "Er gerät beim Verlassen des Hauses in ein Feuer."
+      ],
+      "feedback": [
+        "Ben (Duane Jones) wird für einen Untoten gehalten und erschossen.",
+        "Ben überlebt den inneren Streit und wird von draußen erschossen.",
+        "Der tödliche Angriff erfolgt durch die bewaffnete Gruppe.",
+        "Ein Feuer ist nicht die Ursache seines Todes."
+      ],
+      "short": "Ben (Duane Jones) wird für einen Untoten gehalten und erschossen.",
+      "context": "Ben (Duane Jones) wird für einen Untoten gehalten und erschossen. Die ankommende Gruppe beendet seine überstandene Nacht damit als tödliche Fehlentscheidung; seine Leiche wird zusammen mit den anderen verbrannt.",
+      "anchor": "Die scheinbare Rettung tötet den Überlebenden.",
+      "interest": "Die scheinbare Rettung tötet den Überlebenden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1968",
+        "1966",
+        "1963",
+        "1969"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1968.",
+        "1966 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1963 liegt fünf Jahre davor.",
+        "1969 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1968 erstmals veröffentlicht.",
+      "context": "1968 erschien der erste Film. Dawn of the Dead folgte 1978, zehn Jahre später; die Fortsetzung erweitert den Blick vom isolierten Bauernhaus zum Zusammenbruch einer konsumorientierten Gesellschaft.",
+      "anchor": "1968 begann die Filmreihe; Dawn of the Dead folgte zehn Jahre später, 1978.",
+      "interest": "1968 begann die Filmreihe; Dawn of the Dead folgte zehn Jahre später, 1978.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "George A. Romero",
+        "John Carpenter",
+        "Wes Craven",
+        "Tobe Hooper"
+      ],
+      "feedback": [
+        "George A. Romero führte Regie.",
+        "John Carpenter hat hier keinen Regiecredit.",
+        "Wes Craven hat hier keinen Regiecredit.",
+        "Tobe Hooper hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: George A. Romero.",
+      "context": "Romero führte Regie, Kamera und Schnitt zusammen. Die unabhängige Produktion nutzte Erfahrungen aus Werbe- und Industriefilmen; Duane Jones wurde als Ben besetzt, weil Romero seine Vorsprechleistung am überzeugendsten fand.",
+      "anchor": "Romero führte Regie, Kamera und Schnitt zusammen.",
+      "interest": "Romero führte Regie, Kamera und Schnitt zusammen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

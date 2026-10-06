@@ -1,0 +1,217 @@
+{
+  "rank": 189,
+  "directors": [
+    "Nacho Vigalondo"
+  ],
+  "production_countries": [
+    "Spanien"
+  ],
+  "familiarity_reason": "Ein kompaktes spanisches Zeitreise-Rätsel ohne breite deutsche Publikumspräsenz; eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung 2007 beim Fantastic Fest; der spanische Kinostart folgte 2008.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Timecrimes",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Timecrimes",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was entdeckt Héctor (Karra Elejalde) beim Blick durch sein Fernglas in @?",
+      "answers": [
+        "Eine junge Frau im Wald",
+        "Einen Mann, der ein geheimes Labor verlässt",
+        "Einen verletzten Nachbarn auf der Straße",
+        "Eine fremde Frau am Fenster seines Hauses"
+      ],
+      "feedback": [
+        "Héctor sieht eine junge Frau im Wald.",
+        "Er beobachtet eine junge Frau im Wald.",
+        "Die Beobachtung richtet sich in den Wald.",
+        "Er sieht sie nicht im eigenen Haus."
+      ],
+      "short": "Héctor sieht eine junge Frau im Wald.",
+      "context": "Héctor sieht eine junge Frau im Wald. Seine Neugier führt ihn aus dem Haus und in die Ereigniskette, deren vermeintlich fremden Angreifer er später aus einer anderen Zeitposition kennenlernt.",
+      "anchor": "Die Beobachtung im Wald setzt den Weg in Gang.",
+      "interest": "Die Beobachtung im Wald setzt den Weg in Gang.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was geschieht Héctor (Karra Elejalde) in @ in der vermeintlichen sicheren Maschine?",
+      "answers": [
+        "Er reist ungefähr eine Stunde zurück.",
+        "Er reist mehrere Tage in die Zukunft.",
+        "Er bleibt in einem eingefrorenen Augenblick gefangen.",
+        "Er wechselt in eine parallele Welt ohne andere Versionen."
+      ],
+      "feedback": [
+        "Die Maschine schickt Héctor ungefähr eine Stunde in die Vergangenheit.",
+        "Die Reise geht ungefähr eine Stunde zurück.",
+        "Die Maschine setzt ihn in eine frühere Stunde.",
+        "Die Handlung arbeitet mit mehreren Versionen seiner selbst im selben Zeitraum."
+      ],
+      "short": "Die Maschine schickt Héctor ungefähr eine Stunde in die Vergangenheit.",
+      "context": "Die Maschine schickt Héctor ungefähr eine Stunde in die Vergangenheit. Der Schutzraum wird dadurch zum Ursprung seiner weiteren Gefahr; er befindet sich nun neben seiner eigenen noch unwissenden früheren Version.",
+      "anchor": "Die Rettungsmaschine erzeugt die zeitliche Überlappung.",
+      "interest": "Die Rettungsmaschine erzeugt die zeitliche Überlappung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wer steckt hinter dem bandagierten Angreifer in @?",
+      "answers": [
+        "Eine spätere Version Héctors",
+        "Héctors verschollener Bruder",
+        "Claras Vater",
+        "Ein fremder Geheimagent"
+      ],
+      "feedback": [
+        "Der bandagierte Angreifer ist Héctor (Karra Elejalde) selbst aus einer späteren Zeitposition.",
+        "Ein Bruder wird nicht als Täter enthüllt.",
+        "Claras Vater ist es nicht.",
+        "Ein fremder Agent erklärt die Verfolgung nicht."
+      ],
+      "short": "Der bandagierte Angreifer ist Héctor (Karra Elejalde) selbst aus einer späteren Zeitposition.",
+      "context": "Der bandagierte Angreifer ist Héctor (Karra Elejalde) selbst aus einer späteren Zeitposition. Er wiederholt die Ereignisse, die ihn zuvor zur Maschine geführt haben; Opfer und Verursacher gehören somit zu derselben Lebensfolge.",
+      "anchor": "Der Gejagte erzeugt später seine eigene Verfolgung.",
+      "interest": "Der Gejagte erzeugt später seine eigene Verfolgung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Warum verbindet Héctor (Karra Elejalde) in @ sein Gesicht?",
+      "answers": [
+        "Nach einem Unfall hat er eine Kopfverletzung.",
+        "Er will allein die Frau im Wald täuschen.",
+        "Er soll im Labor eine medizinische Maske tragen.",
+        "Er verbirgt eine Tätowierung vor Clara."
+      ],
+      "feedback": [
+        "Nach dem Abdrängen seines Wagens verletzt Héctor den Kopf und nutzt die vorhandene Bandage.",
+        "Der unmittelbare Anlass ist die Kopfverletzung nach dem Unfall.",
+        "Die Bandage ist keine vorgeschriebene Laborausrüstung.",
+        "Eine Gesichtstätowierung spielt keine Rolle."
+      ],
+      "short": "Nach dem Abdrängen seines Wagens verletzt Héctor den Kopf und nutzt die vorhandene Bandage.",
+      "context": "Nach dem Abdrängen seines Wagens verletzt Héctor den Kopf und nutzt die vorhandene Bandage. Damit entsteht das Aussehen seines früher erlebten Angreifers; ein praktischer Verletzungsschritt schließt den Kreis der Wiedererkennung.",
+      "anchor": "Der Unfall erzeugt die bekannte Gestalt des Angreifers.",
+      "interest": "Der Unfall erzeugt die bekannte Gestalt des Angreifers.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie rettet Héctor in @ seine Frau Clara (Candela Fernández)?",
+      "answers": [
+        "Er kleidet die junge Frau wie Clara und schickt sie nach oben.",
+        "Er hält Clara im Labor fest.",
+        "Er veranlasst Clara, das Haus allein zu verlassen.",
+        "Er lockt die junge Frau statt Clara in die Zeitmaschine."
+      ],
+      "feedback": [
+        "Héctor (Karra Elejalde) versteckt Clara und macht die junge Frau (Bárbara Goenaga) ihr ähnlich.",
+        "Er versteckt Clara zu Hause und lenkt die frühere Version mit der ähnlich gekleideten jungen Frau ab.",
+        "Die entscheidende Täuschung nutzt die junge Frau als Ersatz.",
+        "Ihr Tod erfolgt bei der Hausverwechslung, nicht in der Maschine."
+      ],
+      "short": "Héctor (Karra Elejalde) versteckt Clara und macht die junge Frau (Bárbara Goenaga) ihr ähnlich.",
+      "context": "Héctor (Karra Elejalde) versteckt Clara und macht die junge Frau (Bárbara Goenaga) ihr ähnlich. Die frühere Version hält die später Gestürzte deshalb für seine Frau; die Rettung wird durch eine gezielte Opferverwechslung erkauft.",
+      "anchor": "Die falsche Identität lenkt den tödlichen Ablauf um.",
+      "interest": "Die falsche Identität lenkt den tödlichen Ablauf um.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Verantwortung trägt Héctor (Karra Elejalde) selbst für den Wagenunfall in @?",
+      "answers": [
+        "Eine weitere Version von ihm drängt seinen Wagen ab.",
+        "Der Wissenschaftler hat die Straße blockiert.",
+        "Clara zwingt ihn, bei hoher Geschwindigkeit umzudrehen.",
+        "Seine erste Version verliert ohne äußeren Einfluss die Kontrolle."
+      ],
+      "feedback": [
+        "Héctor aus einer weiteren Zeitposition fährt den anderen Héctor von der Straße.",
+        "Die weitere Héctor-Version verursacht das Abdrängen.",
+        "Sie ist nicht die Ursache.",
+        "Der Eingriff eines weiteren Héctor ist entscheidend."
+      ],
+      "short": "Héctor aus einer weiteren Zeitposition fährt den anderen Héctor von der Straße.",
+      "context": "Héctor aus einer weiteren Zeitposition fährt den anderen Héctor von der Straße. Seine Eingriffe, die den Ablauf ändern sollen, erzeugen dessen bekannte Stationen; die Vermehrung seiner Versionen bedeutet keine wachsende Freiheit.",
+      "anchor": "Der Änderungsversuch stellt den bekannten Unfall selbst her.",
+      "interest": "Der Änderungsversuch stellt den bekannten Unfall selbst her.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "2004",
+        "2000",
+        "2009"
+      ],
+      "feedback": [
+        "2007 wurde der Film beim Fantastic Fest erstmals gezeigt, 2008 folgte der spanische Kinostart.",
+        "2004 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt.",
+        "2000 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt.",
+        "2009 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2007 wurde der Film beim Fantastic Fest erstmals gezeigt, 2008 folgte der spanische Kinostart.",
+      "context": "2007 wurde der Film beim Fantastic Fest erstmals gezeigt, 2008 folgte der spanische Kinostart. Die Festivalpremiere gehört zur ersten Veröffentlichung; das spätere Heimatlandjahr ersetzt sie nicht. Die Geschichte wiederholt einen kurzen Zeitraum aus mehreren Positionen desselben Menschen.",
+      "anchor": "2007 erzählt Los cronocrímenes eine Stunde mehrfach: Seine Zeitreise ordnet bereits gesehene Ereignisse neu, statt in eine ferne Epoche zu führen.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Nacho Vigalondo",
+        "Denis Villeneuve",
+        "Christopher Nolan",
+        "Alex Garland"
+      ],
+      "feedback": [
+        "Nacho Vigalondo schrieb und inszenierte den Film und spielt den Wissenschaftler.",
+        "Denis Villeneuve wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Nacho Vigalondo.",
+        "Christopher Nolan wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Nacho Vigalondo.",
+        "Alex Garland wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Nacho Vigalondo."
+      ],
+      "short": "Nacho Vigalondo schrieb und inszenierte den Film und spielt den Wissenschaftler.",
+      "context": "Nacho Vigalondo schrieb und inszenierte den Film und spielt den Wissenschaftler. Karra Elejalde verkörpert die verschiedenen zeitlichen Versionen Héctors. Es sind keine unabhängigen Zwillinge, sondern dieselbe Person, die den bereits erlebten Ablauf selbst mit verursacht.",
+      "anchor": "Nacho Vigalondo schrieb und inszenierte den Film und spielt den Wissenschaftler.",
+      "interest": "Nacho Vigalondo schrieb und inszenierte den Film und spielt den Wissenschaftler.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

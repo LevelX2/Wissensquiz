@@ -1,0 +1,211 @@
+{
+  "rank": 91,
+  "directors": [
+    "Tomas Alfredson"
+  ],
+  "production_countries": [
+    "Schweden"
+  ],
+  "familiarity_reason": "International bekannter schwedischer Vampirfilm und Genreklassiker.",
+  "release_note": "Göteborg-Premiere 26. Januar 2008.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Erfahrung prägt Oskars Schulalltag in @?",
+      "answers": [
+        "Er wird von Mitschülern schikaniert.",
+        "Er wird wegen vieler Fehlstunden von der Schule ausgeschlossen.",
+        "Er muss einen jüngeren Bruder in seiner Klasse beschützen.",
+        "Er lebt in einem Internat ohne Kontakt zur Nachbarschaft."
+      ],
+      "feedback": [
+        "Oskar (Kåre Hedebrant) wird schikaniert.",
+        "Die Schikanen anderer Schüler prägen den Alltag.",
+        "Eine Bruderpflicht ist nicht seine Lage.",
+        "Oskar lebt in der Wohnsiedlung, nicht einem Internat."
+      ],
+      "short": "Oskar (Kåre Hedebrant) wird schikaniert.",
+      "context": "Oskar (Kåre Hedebrant) wird schikaniert. Seine Rachefantasien stehen neben der Hilflosigkeit im Alltag; die neue Freundschaft mit Eli verändert auch seinen Umgang mit den Angreifern.",
+      "anchor": "Die Freundschaft beginnt bei einem bedrohten Außenseiter.",
+      "interest": "Die Freundschaft beginnt bei einem bedrohten Außenseiter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was braucht Eli in @ zum Überleben?",
+      "answers": [
+        "Menschliches Blut",
+        "Tierblut als vollständigen Ersatz",
+        "Das Blut bereits verstorbener Tiere",
+        "Gewöhnliche Nahrung ergänzt um Eisenpräparate"
+      ],
+      "feedback": [
+        "Eli braucht menschliches Blut.",
+        "Eli ist auf menschliches Blut angewiesen.",
+        "Tierkadaver bilden nicht die gezeigte Versorgung.",
+        "Normale Ernährung und Eisen reichen nicht."
+      ],
+      "short": "Eli braucht menschliches Blut.",
+      "context": "Eli braucht menschliches Blut. Eli (Lina Leandersson; schwedische Stimme: Elif Ceylan) ist dadurch trotz der kindlichen Erscheinung an Gewalt gebunden; die Nähe zu Oskar (Kåre Hedebrant) hebt diese Voraussetzung nicht auf.",
+      "anchor": "Kindliche Nähe und blutiger Lebensbedarf bleiben gleichzeitig bestehen.",
+      "interest": "Kindliche Nähe und blutiger Lebensbedarf bleiben gleichzeitig bestehen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie verständigen sich Oskar und Eli in @ auch durch ihre gemeinsame Wand?",
+      "answers": [
+        "Mit Klopfzeichen nach einem Code",
+        "Mit Zetteln unter der gemeinsamen Tür",
+        "Mit Lichtzeichen zwischen den Fenstern",
+        "Mit Zeichen an einem verabredeten Treffpunkt"
+      ],
+      "feedback": [
+        "Die beiden tauschen codierte Klopfzeichen aus.",
+        "Sie nutzen das Klopfen durch die Wand.",
+        "Fensterlicht ist nicht ihre Codesprache.",
+        "Die Verbindung funktioniert direkt durch die räumliche Trennung."
+      ],
+      "short": "Die beiden tauschen codierte Klopfzeichen aus.",
+      "context": "Die beiden tauschen codierte Klopfzeichen aus. Oskar (Kåre Hedebrant) und Eli (Lina Leandersson) schaffen so eine private Verbindung, die räumliche Trennung und fehlende Alltagssprache überbrückt.",
+      "anchor": "Der Code schafft Nähe durch eine trennende Wand.",
+      "interest": "Der Code schafft Nähe durch eine trennende Wand.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum verätzt Håkan in @ sein eigenes Gesicht?",
+      "answers": [
+        "Er will nach dem gescheiterten Blutbeschaffen nicht erkannt werden.",
+        "Er will die Polizei durch eine fremde Identität täuschen.",
+        "Er will einen Vampirbiss durch Verätzung verhindern.",
+        "Er will die Spuren seines letzten Angriffs an den Händen beseitigen."
+      ],
+      "feedback": [
+        "Håkan (Per Ragnar) verhindert mit Säure seine Identifizierung.",
+        "Er macht sein Gesicht unkenntlich statt eine fremde Identität anzunehmen.",
+        "Die Säure dient nicht dem Schutz vor einem Vampirbiss.",
+        "Er zerstört sein eigenes Gesicht, nicht nur Spuren an den Händen."
+      ],
+      "short": "Håkan (Per Ragnar) verhindert mit Säure seine Identifizierung.",
+      "context": "Håkan (Per Ragnar) verhindert mit Säure seine Identifizierung. Der gescheiterte Angriff zur Blutbeschaffung gefährdet zugleich Eli (Lina Leandersson; schwedische Stimme: Elif Ceylan); seine Selbstverletzung dient damit der Geheimhaltung auf eigene Kosten.",
+      "anchor": "Das unkenntliche Gesicht soll Eli nach dem Fehlschlag schützen.",
+      "interest": "Das unkenntliche Gesicht soll Eli nach dem Fehlschlag schützen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie reagiert Eli in @ auf das Betreten von Oskars Wohnung ohne seine Erlaubnis?",
+      "answers": [
+        "Eli beginnt stark zu bluten.",
+        "Eli kann die Schwelle körperlich überhaupt nicht überschreiten.",
+        "Eli verliert nach dem Eintritt die Vampirkräfte.",
+        "Eli wird sofort wieder aus dem Zimmer gedrängt."
+      ],
+      "feedback": [
+        "Eli blutet nach dem unerlaubten Eintritt.",
+        "Eli tritt ein und blutet danach.",
+        "Die Kräfte gehen nicht einfach verloren.",
+        "Der Körper bleibt im Raum, bis Oskar zustimmt."
+      ],
+      "short": "Eli blutet nach dem unerlaubten Eintritt.",
+      "context": "Eli (Lina Leandersson; schwedische Stimme: Elif Ceylan) blutet nach dem unerlaubten Eintritt. Oskar (Kåre Hedebrant) gibt daraufhin seine Zustimmung; die Szene macht eine Vampirregel zum gefährlichen Test innerhalb ihrer Beziehung.",
+      "anchor": "Oskars Zustimmung beendet den selbstgefährdenden Eintritt.",
+      "interest": "Oskars Zustimmung beendet den selbstgefährdenden Eintritt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Funktion übernimmt Oskar im letzten Bild von @ für Eli?",
+      "answers": [
+        "Er reist mit Eli in einer transportierten Kiste.",
+        "Er bleibt als Bewacher bei Elis neuer Wohnung.",
+        "Er versteckt Eli im Keller seiner Familie.",
+        "Er fährt allein los und wartet auf Eli am Ziel."
+      ],
+      "feedback": [
+        "Oskar (Kåre Hedebrant) fährt mit Elis Kiste im Zug.",
+        "Das Schlussbild zeigt eine gemeinsame Zugreise.",
+        "Die transportierte Kiste ersetzt kein dauerhaftes Kellerversteck.",
+        "Die Klopfzeichen bestätigen Elis unmittelbare Nähe."
+      ],
+      "short": "Oskar (Kåre Hedebrant) fährt mit Elis Kiste im Zug.",
+      "context": "Oskar (Kåre Hedebrant) fährt mit der Kiste von Eli (Lina Leandersson; schwedische Stimme: Elif Ceylan) im Zug. Die Klopfzeichen führen ihre Verbindung fort; das Bild zeigt zugleich, dass Nähe auch die praktische Begleitung des Vampirs einschließt.",
+      "anchor": "Die gemeinsame Reise setzt die private Codesprache fort.",
+      "interest": "Die gemeinsame Reise setzt die private Codesprache fort.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2008",
+        "2006",
+        "2003",
+        "2009"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2008.",
+        "2006 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2003 liegt fünf Jahre davor.",
+        "2009 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2008 erstmals veröffentlicht.",
+      "context": "2008 erschien die Adaption von Lindqvists Roman aus dem Jahr 2004, vier Jahre nach der Vorlage. Die amerikanische Neuverfilmung Let Me In folgte 2010, zwei Jahre nach dem schwedischen Original.",
+      "anchor": "Lindqvists Roman von 2004 wurde vier Jahre später, 2008, erstmals verfilmt.",
+      "interest": "Lindqvists Roman von 2004 wurde vier Jahre später, 2008, erstmals verfilmt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Tomas Alfredson",
+        "Matt Reeves",
+        "Kiyoshi Kurosawa",
+        "Guillermo del Toro"
+      ],
+      "feedback": [
+        "Tomas Alfredson führte Regie.",
+        "Matt Reeves hat hier keinen Regiecredit.",
+        "Kiyoshi Kurosawa hat hier keinen Regiecredit.",
+        "Guillermo del Toro hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Tomas Alfredson.",
+      "context": "Alfredson konzentrierte die Adaption auf die Beziehung der beiden Außenseiter. Viele Erklärungen des Romans wurden reduziert; die ruhige Kamera und das winterliche Umfeld geben ihrer Annäherung mehr Raum als einer bloßen Folge von Vampirangriffen.",
+      "anchor": "Alfredson konzentrierte die Adaption auf die Beziehung der beiden Außenseiter.",
+      "interest": "Alfredson konzentrierte die Adaption auf die Beziehung der beiden Außenseiter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

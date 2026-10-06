@@ -1,0 +1,217 @@
+{
+  "rank": 224,
+  "directors": [
+    "George Stevens"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Kanonischer Western mit dem Kindblick auf Alan Ladds rätselhaften Revolverhelden.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1953; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Shane_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Shane_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Bei wem findet Shane in @ vorübergehend Arbeit und Unterkunft?",
+      "answers": [
+        "Bei einer Siedlerfamilie",
+        "Bei einem Kavallerieregiment",
+        "Bei einer Bankfiliale",
+        "Bei einer Poststation"
+      ],
+      "feedback": [
+        "Shane (Alan Ladd) arbeitet bei Joe Starrett (Van Heflin) und dessen Familie.",
+        "Er tritt nicht in ein Regiment ein.",
+        "Eine Bank beschäftigt ihn nicht.",
+        "Er wohnt nicht an einer Poststation."
+      ],
+      "short": "Shane (Alan Ladd) arbeitet bei Joe Starrett (Van Heflin) und dessen Familie.",
+      "context": "Shane (Alan Ladd) arbeitet bei Joe Starrett (Van Heflin) und dessen Familie. Der Fremde wird in ihren Alltag aufgenommen, während der Konflikt um das Land Gewalt in diese häusliche Welt trägt.",
+      "anchor": "Die Familie gibt dem Fremden einen möglichen friedlichen Platz.",
+      "interest": "Die Familie gibt dem Fremden einen möglichen friedlichen Platz.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wer bewundert Shane in @ besonders?",
+      "answers": [
+        "Der kleine Sohn seiner Gastgeber",
+        "Der örtliche Großrancher",
+        "Der angeheuerte Gegenspieler",
+        "Der Händler der Stadt"
+      ],
+      "feedback": [
+        "Joey Starrett (Brandon deWilde) bewundert Shane (Alan Ladd).",
+        "Der Großrancher bekämpft die Siedler.",
+        "Der angeheuerte Schütze wird sein Gegner.",
+        "Der Händler ist nicht der zentrale bewundernde Blick."
+      ],
+      "short": "Joey Starrett (Brandon deWilde) bewundert Shane (Alan Ladd).",
+      "context": "Joey Starrett (Brandon deWilde) bewundert Shane (Alan Ladd). Sein Blick macht aus dem Fremden einen Helden, während seine Mutter Marian (Jean Arthur) dessen Waffengebrauch skeptischer beurteilt.",
+      "anchor": "Joeys Bewunderung steht neben Marians Sorge um die Gewalt.",
+      "interest": "Joeys Bewunderung steht neben Marians Sorge um die Gewalt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was will Ryker in @ von den Siedlern erreichen?",
+      "answers": [
+        "Sie sollen das Tal und ihre Ansprüche aufgeben",
+        "Sie sollen seine Wahl zum Sheriff unterstützen",
+        "Sie sollen gemeinsam eine Eisenbahn finanzieren",
+        "Sie sollen ihr Vieh nur über ihn verkaufen"
+      ],
+      "feedback": [
+        "Rufus Ryker (Emile Meyer) will die Siedler aus dem Tal vertreiben.",
+        "Eine Sheriffwahl ist nicht der Konflikt.",
+        "Es geht nicht um Bahngeld.",
+        "Ein Verkaufsmonopol ist nicht sein Hauptziel."
+      ],
+      "short": "Rufus Ryker (Emile Meyer) will die Siedler aus dem Tal vertreiben.",
+      "context": "Rufus Ryker (Emile Meyer) will die Siedler aus dem Tal vertreiben. Einschüchterung und ein angeheuerter Schütze sollen seinen Anspruch gegen ihre rechtmäßig bewirtschafteten Grundstücke durchsetzen.",
+      "anchor": "Der Landkonflikt macht Einschüchterung zum Geschäftsmodell.",
+      "interest": "Der Landkonflikt macht Einschüchterung zum Geschäftsmodell.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum schlägt Shane in @ Joe Starrett vor dem letzten Gang in die Stadt nieder?",
+      "answers": [
+        "Er will ihn vor einem geplanten Hinterhalt schützen",
+        "Er will dessen Ranch an sich bringen",
+        "Er rächt eine Beleidigung durch Marian",
+        "Er will ihn an die Polizei ausliefern"
+      ],
+      "feedback": [
+        "Shane (Alan Ladd) erfährt, dass das vorgeschlagene Gespräch eine Falle ist.",
+        "Er beansprucht die Ranch nicht.",
+        "Marian beleidigt ihn nicht als Anlass.",
+        "Er liefert Joe keiner Polizei aus."
+      ],
+      "short": "Shane (Alan Ladd) erfährt, dass das vorgeschlagene Gespräch eine Falle ist.",
+      "context": "Shane (Alan Ladd) erfährt, dass das vorgeschlagene Gespräch eine Falle ist. Er setzt Joe (Van Heflin) außer Gefecht und übernimmt selbst die gefährliche Begegnung, um den Familienvater zu bewahren.",
+      "anchor": "Der Schlag gegen den Freund verhindert dessen Gang in die Falle.",
+      "interest": "Der Schlag gegen den Freund verhindert dessen Gang in die Falle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Warnung ermöglicht Shane in @, die letzte Begegnung richtig einzuschätzen?",
+      "answers": [
+        "Ein früherer Helfer Rykers verrät die geplante Falle",
+        "Joey belauscht die Pläne beim Händler",
+        "Ein Telegramm aus Cheyenne meldet Wilsons Haftbefehl",
+        "Der Sheriff zeigt ihm eine gestohlene Karte"
+      ],
+      "feedback": [
+        "Chris Calloway (Ben Johnson), zuvor ein Gegner, warnt Shane (Alan Ladd) vor Rykers Hinterhalt.",
+        "Joey liefert nicht diese Warnung.",
+        "Ein Hafttelegramm entscheidet die Lage nicht.",
+        "Eine Karte ist nicht die Quelle."
+      ],
+      "short": "Chris Calloway (Ben Johnson), zuvor ein Gegner, warnt Shane (Alan Ladd) vor Rykers Hinterhalt.",
+      "context": "Chris Calloway (Ben Johnson), zuvor ein Gegner, warnt Shane (Alan Ladd) vor Rykers Hinterhalt. Die Warnung zeigt seinen Bruch mit dem Auftraggeber und gibt Shane die Möglichkeit, Joe zurückzuhalten.",
+      "anchor": "Ein Seitenwechsel liefert die Warnung vor dem Hinterhalt.",
+      "interest": "Ein Seitenwechsel liefert die Warnung vor dem Hinterhalt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Warum verlässt Shane in @ nach dem gewonnenen Kampf das Tal?",
+      "answers": [
+        "Er sieht für sich nach dem Töten keinen dauerhaften Platz dort",
+        "Joe entlässt ihn wegen einer gestohlenen Waffe",
+        "Er erhält einen Auftrag der Kavallerie",
+        "Marian fordert ihn auf, sofort zu verschwinden"
+      ],
+      "feedback": [
+        "Der verwundete Shane (Alan Ladd) verabschiedet sich von Joey (Brandon deWilde).",
+        "Ein Waffendiebstahl ist kein Anlass.",
+        "Ein Kavallerieauftrag ruft ihn nicht.",
+        "Marian spricht keine solche Ausweisung aus."
+      ],
+      "short": "Der verwundete Shane (Alan Ladd) verabschiedet sich von Joey (Brandon deWilde).",
+      "context": "Der verwundete Shane (Alan Ladd) verabschiedet sich von Joey (Brandon deWilde). Die Rettung der Familie verlangt Gewalt, mit deren Folgen Shane keinen unbelasteten Platz in ihrem Alltag beanspruchen kann.",
+      "anchor": "Die Gewalt rettet das Zuhause, verhindert aber Shanes Bleiben.",
+      "interest": "Die Gewalt rettet das Zuhause, verhindert aber Shanes Bleiben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1953",
+        "1950",
+        "1946",
+        "1955"
+      ],
+      "feedback": [
+        "1953 erschien der Film.",
+        "1950 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1953 wird im zeitlichen Hintergrund erklärt.",
+        "1946 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1953 wird im zeitlichen Hintergrund erklärt.",
+        "1955 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1953 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1953 erschien der Film.",
+      "context": "1953 erschien der Film. Jack Schaefers Roman wurde 1949 veröffentlicht; vier Jahre später übertrug die Kinofassung den Blick des Kindes auf den vorübergehenden Retter der Siedler.",
+      "anchor": "Roman 1949, Film 1953: Vier Jahre führen vom Text zum kindlichen Blick auf den gewaltsamen Retter.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "George Stevens",
+        "Sam Peckinpah",
+        "John Farrow",
+        "Budd Boetticher"
+      ],
+      "feedback": [
+        "George Stevens führte Regie.",
+        "Sam Peckinpah wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet George Stevens.",
+        "John Farrow wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet George Stevens.",
+        "Budd Boetticher wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet George Stevens."
+      ],
+      "short": "George Stevens führte Regie.",
+      "context": "George Stevens führte Regie. Die Erzählung lässt die Bewunderung des Jungen mit den Kosten der Gewalt kollidieren; die Landschaft bei den Grand Tetons bildet den Raum für diese widersprüchliche Heldengeschichte.",
+      "anchor": "George Stevens führte Regie.",
+      "interest": "George Stevens führte Regie.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

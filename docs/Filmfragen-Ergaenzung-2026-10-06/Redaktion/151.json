@@ -1,0 +1,227 @@
+{
+  "rank": 151,
+  "directors": [
+    "Joel Coen",
+    "Ethan Coen"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA",
+    "Frankreich"
+  ],
+  "familiarity_reason": "Bekannte Coen-Komödie mit populärer Musik; die verzweigte Geschichte bleibt vor allem Filmfans vertraut.",
+  "release_note": "Cannes-Premiere am 13. Mai 2000, britischer und US-Kinostart später im selben Jahr.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/O_Brother,_Where_Art_Thou%3F",
+    "credits_rt": {
+      "url": "http://www.rottentomatoes.com/m/o_brother_where_art_thou",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    },
+    "workingtitle": {
+      "url": "https://www.workingtitlefilms.com/film/o-brother-where-art-thou/",
+      "supports": "Gelesene Produzentenseite: Directed by Joel Coen and Ethan Coen; Odyssey-Motive, drei Flüchtige in Mississippi, Schatzbehauptung und Everetts Wunsch, Penny zurückzugewinnen."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum schließen sich Pete und Delmar in @ Everetts Flucht zunächst an?",
+      "answers": [
+        "Er verspricht ihnen einen versteckten Schatz.",
+        "Er behauptet, ihre Verurteilungen seien aufgehoben.",
+        "Er hat ihnen einen Plattenvertrag vermittelt.",
+        "Er will sie zu einer Familienfeier bringen."
+      ],
+      "feedback": [
+        "Everett lockt die beiden mit einem angeblich vergrabenen Schatz.",
+        "Aufgehobene Urteile sind nicht die Ausgangsbehauptung.",
+        "Ein Plattenvertrag steht noch nicht bereit.",
+        "Eine Familienfeier überzeugt sie nicht."
+      ],
+      "short": "Everett lockt die beiden mit einem angeblich vergrabenen Schatz.",
+      "context": "Everett McGill (George Clooney) ist mit Pete (John Turturro) und Delmar (Tim Blake Nelson) an einer Gefangenenkette verbunden. Für seinen eigenen Aufbruch braucht er ihre Zustimmung. Das Schatzversprechen schafft deshalb einen gemeinsamen Reisegrund, dessen Wahrheit später entscheidend wird.",
+      "anchor": "Die gemeinsame Kette verlangt einen gemeinsamen Fluchtgrund.",
+      "interest": "Die gemeinsame Kette verlangt einen gemeinsamen Fluchtgrund.",
+      "sources": [
+        "handlung",
+        "workingtitle"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche antike Erzählung liefert Motive für @?",
+      "answers": [
+        "Homers Odyssee",
+        "Vergils Aeneis",
+        "Ovids Metamorphosen",
+        "Sophokles’ Antigone"
+      ],
+      "feedback": [
+        "Der Film greift Motive der Odyssee auf.",
+        "Die Aeneis ist nicht die ausgewiesene Hauptvorlage.",
+        "Die Metamorphosen bilden nicht den zugrunde liegenden Reisebogen.",
+        "Antigone ist nicht die zentrale Erzählvorlage."
+      ],
+      "short": "Der Film greift Motive der Odyssee auf.",
+      "context": "Everett McGill (George Clooney) heißt mit Vornamen Ulysses. Verführerische Sängerinnen und ein einäugiger Gegner erinnern an Sirenen und Zyklopen. Die Motive werden nicht historisch nacherzählt, sondern in Figuren und Situationen des amerikanischen Südens übersetzt.",
+      "anchor": "Odysseus’ Heimreise erscheint als komische Reise durch Mississippi.",
+      "interest": "Odysseus’ Heimreise erscheint als komische Reise durch Mississippi.",
+      "sources": [
+        "handlung",
+        "workingtitle"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was glauben die Flüchtigen in @ nach dem Treffen mit den singenden Frauen über Pete?",
+      "answers": [
+        "Er sei in eine Kröte verwandelt worden.",
+        "Er habe sich versteckt, um die beiden übrigen Männer zu verraten.",
+        "Er sei als einziger von den Frauen beraubt und gefangen worden.",
+        "Er habe beschlossen, mit den Frauen weiterzureisen."
+      ],
+      "feedback": [
+        "Delmar hält die Kröte in Petes Kleidung für den verwandelten Freund.",
+        "Delmar hält die zurückgebliebene Kröte für den verwandelten Pete.",
+        "Der vermeintliche Befund ist eine Verwandlung, keine Gefangenschaft.",
+        "Sie nehmen an, Pete sei die Kröte."
+      ],
+      "short": "Delmar hält die Kröte in Petes Kleidung für den verwandelten Freund.",
+      "context": "Delmar (Tim Blake Nelson) findet nach dem Rausch nur Petes leere Kleidung und eine Kröte. Pete (John Turturro) wurde tatsächlich wieder gefasst. Das vorschnell übernatürlich erklärte Ereignis führt die mythische Reise und die Leichtgläubigkeit der Figuren zusammen.",
+      "anchor": "Eine Kröte ersetzt für Delmar den verschwundenen Pete.",
+      "interest": "Eine Kröte ersetzt für Delmar den verschwundenen Pete.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum verliert Homer Stokes (Wayne Duvall) bei der Gala in @ seine Anhänger?",
+      "answers": [
+        "Er zeigt seinen Rassismus und seine Klanverbindung.",
+        "Er reklamiert den Radioerfolg der Musiker für sich.",
+        "Er gesteht eine gefälschte Wahlauszählung.",
+        "Er gibt zu, die Musiker für seinen Wahlkampf bezahlt zu haben."
+      ],
+      "feedback": [
+        "Stokes’ rassistische Anklage und sein Bekenntnis zum Ku-Klux-Klan wenden das Publikum gegen ihn.",
+        "Der Verlust der Unterstützung folgt seinem rassistischen Angriff, keiner Aneignung des Radioerfolgs.",
+        "Ein Geständnis über gefälschte Stimmen ist nicht der Auslöser.",
+        "Eine bezahlte Verpflichtung der Musiker ist nicht die Enthüllung."
+      ],
+      "short": "Stokes’ rassistischer Auftritt bringt das Publikum gegen ihn auf.",
+      "context": "Die Soggy Bottom Boys begeistern die Gala. Homer Stokes (Wayne Duvall) erkennt die Männer vom gestörten Klanritual und verlangt ihre Festnahme. Dabei verrät er die Haltung hinter seiner politischen Selbstdarstellung; sein Gegner Pappy O’Daniel (Charles Durning) nutzt den Stimmungswechsel sofort.",
+      "anchor": "Der Angriff auf die beliebten Musiker entlarvt den Politiker.",
+      "interest": "Der Angriff auf die beliebten Musiker entlarvt den Politiker.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was ist der eigentliche Grund für Everetts Flucht in @?",
+      "answers": [
+        "Er will verhindern, dass seine Frau einen anderen heiratet.",
+        "Er sucht wirklich das gemeinsam vergrabene Gold.",
+        "Er will seinen Bruder aus einem anderen Gefängnis retten.",
+        "Er hat den Auftrag, einen Zeugen zu befreien."
+      ],
+      "feedback": [
+        "Everett hat den Schatz erfunden, um zu seiner Frau zurückzukehren.",
+        "Der Schatz ist gerade keine reale gemeinsame Beute.",
+        "Eine Bruderrettung ist nicht der Plan.",
+        "Ein Zeugenauftrag erklärt die Flucht nicht."
+      ],
+      "short": "Everett hat den Schatz erfunden, um zu seiner Frau zurückzukehren.",
+      "context": "Everett McGill (George Clooney) gibt gegenüber Pete (John Turturro) zu, dass der Schatz nicht existiert. Er möchte Penny (Holly Hunter) von einer neuen Ehe abhalten. Die Enthüllung verlagert die Reise vom Abenteuergewinn auf die Wiedergewinnung einer Familie und erklärt seine manipulative Planung.",
+      "anchor": "Der erfundene Schatz verbirgt eine wirkliche Heimkehrabsicht.",
+      "interest": "Der erfundene Schatz verbirgt eine wirkliche Heimkehrabsicht.",
+      "sources": [
+        "handlung",
+        "workingtitle"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was rettet die Gruppe in @ vor der vom Sheriff angeordneten Hinrichtung?",
+      "answers": [
+        "Die angekündigte Überflutung des Tals",
+        "Ein bewaffneter Auftritt des Gouverneurs",
+        "Ein Eingreifen der singenden Frauen",
+        "Ein Austausch gegen gefangene Polizisten"
+      ],
+      "feedback": [
+        "Die Flutung des Tals reißt die Hinrichtungsstelle mit sich.",
+        "Der Gouverneur trifft nicht mit bewaffneten Helfern ein.",
+        "Die Frauen befreien sie nicht.",
+        "Ein Gefangenenaustausch findet nicht statt."
+      ],
+      "short": "Die Flutung des Tals reißt die Hinrichtungsstelle mit sich.",
+      "context": "Sheriff Cooley (Daniel von Bargen) ignoriert die Begnadigung der Männer. Everett (George Clooney) betet unmittelbar vor der Hinrichtung; dann kommt das Wasser. Der Film hält so eine technische Ursache und die von den Figuren empfundene Rettung nebeneinander, ohne ihren unterschiedlichen Deutungen denselben Status zu geben.",
+      "anchor": "Die geplante Talflutung erscheint im Todesmoment als Rettung.",
+      "interest": "Die geplante Talflutung erscheint im Todesmoment als Rettung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2000",
+        "1996",
+        "1999",
+        "2003"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 2000.",
+        "1996 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1999 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2003 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 2000.",
+      "context": "O Brother, Where Art Thou? erschien 2000. Sein Titel verweist auf Sullivan’s Travels von 1941: Dort plant ein Regisseur einen Film dieses Namens. 59 Jahre später machen die Coens daraus einen wirklichen Filmtitel, während ihre eigene Geschichte eher eine komische Reise als die geplante ernste Sozialstudie erzählt.",
+      "anchor": "Sullivan’s Travels 1941, Coen-Film 2000: ein erfundener Filmtitel wird 59 Jahre später real.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Sullivan’s Travels 1941, Coen-Film 2000: ein erfundener Filmtitel wird 59 Jahre später real.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Welches Team inszenierte @ gemeinsam, obwohl der damalige Einzel-Regiecredit nur einen der beiden nennt?",
+      "answers": [
+        "Joel Coen und Ethan Coen",
+        "Peter Farrelly und Bobby Farrelly",
+        "David Zucker und Jerry Zucker",
+        "Michael Powell und Emeric Pressburger"
+      ],
+      "feedback": [
+        "Joel und Ethan Coen inszenierten gemeinsam; der offizielle Einzel-Regiecredit nennt Joel.",
+        "Peter Farrelly und Bobby Farrelly gehören nicht zum Regiecredit dieser Filmfassung.",
+        "David Zucker und Jerry Zucker gehören nicht zum Regiecredit dieser Filmfassung.",
+        "Michael Powell und Emeric Pressburger gehören nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Joel und Ethan Coen inszenierten gemeinsam; der offizielle Einzel-Regiecredit nennt Joel.",
+      "context": "Joel und Ethan Coen inszenierten gemeinsam. In den damaligen Einzelcredits steht Joel für Regie und Ethan für Produktion; die Arbeit wurde dennoch gemeinsam ausgeführt. Die Brüder übertragen Motive aus Homers Odyssee in eine Reise durch Mississippi und verbinden sie mit amerikanischer Folkmusik.",
+      "anchor": "Die Coens verbinden in ihrer gemeinsamen Regiearbeit Odyssee-Motive mit amerikanischer Folkmusik.",
+      "interest": "Die gemeinsame Arbeit und den abweichenden Einzelcredit nachvollziehbar auseinanderhalten.",
+      "sources": [
+        "handlung",
+        "credits_rt",
+        "workingtitle"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ],
+  "director_note": "Joel Coen erhält den offiziellen Einzel-Regiecredit; Ethan Coen wird als gemeinsam inszenierender, im Regiecredit ungenannter Partner vollständig mitgeführt."
+}

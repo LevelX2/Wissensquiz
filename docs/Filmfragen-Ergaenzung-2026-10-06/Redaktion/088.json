@@ -1,0 +1,217 @@
+{
+  "rank": 88,
+  "directors": [
+    "Jack Clayton"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "familiarity_reason": "Klassische psychologische Geistergeschichte, besonders Filmkennern bekannt.",
+  "release_note": "Londoner Premiere 24. November 1961.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Innocents_(1961_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "edition": {
+      "url": "https://www.criterion.com/current/posts/3302-the-innocents-forbidden-games",
+      "supports": "James 1898, Bühne 1950, Clayton-Film 1961 und psychologische Mehrdeutigkeit."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufgabe übernimmt Miss Giddens in @ auf Bly?",
+      "answers": [
+        "Sie betreut zwei Kinder als Gouvernante.",
+        "Sie unterrichtet eine Gruppe von Waisenkindern im Internat.",
+        "Sie pflegt die kranke Mutter der Geschwister.",
+        "Sie verwaltet Bly während einer Renovierung."
+      ],
+      "feedback": [
+        "Miss Giddens (Deborah Kerr) betreut Flora (Pamela Franklin) und Miles (Martin Stephens).",
+        "Auf Bly betreut sie zwei Geschwister in einem Privathaushalt.",
+        "Die Mutter ist bereits tot und nicht ihre Patientin.",
+        "Ihre Aufgabe ist Kinderbetreuung statt Bauverwaltung."
+      ],
+      "short": "Miss Giddens (Deborah Kerr) betreut Flora (Pamela Franklin) und Miles (Martin Stephens).",
+      "context": "Miss Giddens (Deborah Kerr) betreut Flora (Pamela Franklin) und Miles (Martin Stephens). Ihre erste Anstellung eröffnet einen Raum, in dem Fürsorge und bedrohliche Deutungen zunehmend zusammenfallen.",
+      "anchor": "Die neue Betreuung wird zum Kampf um die Deutung der Kinder.",
+      "interest": "Die neue Betreuung wird zum Kampf um die Deutung der Kinder.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Bedingung stellt der Onkel der Kinder in @ an Miss Giddens?",
+      "answers": [
+        "Sie soll ihn mit Problemen nicht behelligen.",
+        "Sie soll die Kinder in jeder Ferienzeit nach London bringen.",
+        "Sie darf die Kinder nur gemeinsam mit Mrs Grose unterrichten.",
+        "Sie muss jeden Besuch zuvor beim Onkel anmelden."
+      ],
+      "feedback": [
+        "Der Onkel (Michael Redgrave) will nicht gestört werden.",
+        "Der Onkel will sich gerade von allen Entscheidungen fernhalten.",
+        "Eine solche Aufsichtsbeschränkung gibt er nicht.",
+        "Er verlangt Ruhe statt laufender Genehmigungen."
+      ],
+      "short": "Der Onkel (Michael Redgrave) will nicht gestört werden.",
+      "context": "Der Onkel (Michael Redgrave) will nicht gestört werden. Miss Giddens (Deborah Kerr) erhält damit weitreichende Verantwortung, ohne einen regelmäßig erreichbaren Auftraggeber als Rückhalt.",
+      "anchor": "Die Verantwortung wird übertragen, der Rückhalt verweigert.",
+      "interest": "Die Verantwortung wird übertragen, der Rückhalt verweigert.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum kommt Miles in @ unerwartet von der Schule zurück?",
+      "answers": [
+        "Er wurde als schlechter Einfluss ausgeschlossen.",
+        "Der Onkel hat seine Rückkehr wegen eines Erbschaftsstreits angeordnet.",
+        "Die Schule hat wegen einer Krankheit geschlossen.",
+        "Mrs Grose hat ihm die weitere Ausbildung verboten."
+      ],
+      "feedback": [
+        "Miles (Martin Stephens) wurde ausgeschlossen.",
+        "Die Schule spricht einen Ausschluss aus.",
+        "Eine allgemeine Schließung erklärt die Nachricht nicht.",
+        "Mrs Grose verfügt nicht über seinen Schulausschluss."
+      ],
+      "short": "Miles (Martin Stephens) wurde ausgeschlossen.",
+      "context": "Miles (Martin Stephens) wurde ausgeschlossen. Seine charmante Wirkung auf Miss Giddens (Deborah Kerr) steht damit neben einer unbekannten schulischen Vorgeschichte, deren Wahrheit sie erst erschließen möchte.",
+      "anchor": "Der charmante Junge bringt einen ungeklärten Ausschluss mit.",
+      "interest": "Der charmante Junge bringt einen ungeklärten Ausschluss mit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie identifiziert Mrs Grose in @ die von Miss Giddens beschriebenen Erscheinungen?",
+      "answers": [
+        "Als die verstorbene Gouvernante und den verstorbenen Diener",
+        "Als die verstorbenen Eltern der Geschwister",
+        "Als den früheren Besitzer und seine Ehefrau",
+        "Als eine ehemalige Schülerin und ihren Vater"
+      ],
+      "feedback": [
+        "Mrs Grose (Megs Jenkins) erkennt Mary Jessel und Peter Quint.",
+        "Jessel und Quint waren Angestellte auf Bly.",
+        "Die Erscheinungen sind nicht ein früheres Eigentümerpaar.",
+        "Eine Schulbekanntschaft bildet ihre Vorgeschichte nicht."
+      ],
+      "short": "Mrs Grose (Megs Jenkins) erkennt Mary Jessel und Peter Quint.",
+      "context": "Mrs Grose (Megs Jenkins) erkennt Mary Jessel (Clytie Jessop) und Peter Quint (Peter Wyngarde). Ihre Auskunft verbindet die Wahrnehmungen von Miss Giddens (Deborah Kerr) mit einer früheren gewalttätigen Beziehung auf dem Anwesen.",
+      "anchor": "Die Beschreibungen erhalten eine belastete Vorgeschichte.",
+      "interest": "Die Beschreibungen erhalten eine belastete Vorgeschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Absicht schreibt Miss Giddens den vermeintlichen Geistern in @ zu?",
+      "answers": [
+        "Sie wollten ihre Beziehung durch die Kinder fortsetzen.",
+        "Sie wollten die Kinder wegen einer Erbschaft aus Bly vertreiben.",
+        "Sie wollten die Kinder für ihren Tod bestrafen.",
+        "Sie wollten Miss Giddens als neue Partnerin gewinnen."
+      ],
+      "feedback": [
+        "Miss Giddens glaubt an eine Fortsetzung der Beziehung in den Kindern.",
+        "Miss Giddens deutet die Kinder als Träger der alten Beziehung.",
+        "Die behauptete Besessenheit dient in ihrer Deutung nicht bloß einer Strafe.",
+        "Ihre Hypothese betrifft die Körper der Geschwister, nicht eine Partnersuche mit ihr."
+      ],
+      "short": "Miss Giddens glaubt an eine Fortsetzung der Beziehung in den Kindern.",
+      "context": "Miss Giddens (Deborah Kerr) glaubt an eine Fortsetzung der Beziehung in den Kindern. Deborah Kerrs Gouvernante macht aus Auffälligkeiten so einen umfassenden Besessenheitsverdacht; der Film hält die Sicherheit dieser Deutung offen.",
+      "anchor": "Die Besessenheit ist der umfassende Erklärungsversuch der Gouvernante.",
+      "interest": "Die Besessenheit ist der umfassende Erklärungsversuch der Gouvernante.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was geschieht mit Miles, nachdem Miss Giddens ihn am Schluss von @ zum Namen Quint drängt?",
+      "answers": [
+        "Er bricht tot zusammen.",
+        "Er verliert das Bewusstsein und erwacht wieder.",
+        "Er nennt Mary Jessel statt Quint.",
+        "Er läuft aus dem Garten zu Mrs Grose."
+      ],
+      "feedback": [
+        "Miles (Martin Stephens) stirbt nach der Konfrontation.",
+        "Miles erwacht nicht wieder.",
+        "Er nennt Quint, worauf Miss Giddens die Befreiung behauptet.",
+        "Er stirbt in der Konfrontation statt davonzulaufen."
+      ],
+      "short": "Miles (Martin Stephens) stirbt nach der Konfrontation.",
+      "context": "Miles (Martin Stephens) stirbt nach der Konfrontation. Miss Giddens (Deborah Kerr) spricht zunächst von Befreiung; der Tod verhindert jedoch, dass ihr beanspruchter Rettungserfolg als eindeutiger Triumph verstanden werden kann.",
+      "anchor": "Die behauptete Befreiung endet im Tod des Kindes.",
+      "interest": "Die behauptete Befreiung endet im Tod des Kindes.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1961",
+        "1959",
+        "1956",
+        "1962"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1961.",
+        "1959 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1956 liegt fünf Jahre davor.",
+        "1962 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1961 erstmals veröffentlicht.",
+      "context": "1961 erschien die Verfilmung. Henry James’ Novelle von 1898 war 63 Jahre älter; William Archibalds Bühnenfassung von 1950 lag elf Jahre vor dem Film und bildete eine zusätzliche Adaptionsstufe.",
+      "anchor": "James’ Novelle 1898 und Archibalds Bühne 1950 gingen dem Film 1961 um 63 beziehungsweise elf Jahre voraus.",
+      "interest": "James’ Novelle 1898 und Archibalds Bühne 1950 gingen dem Film 1961 um 63 beziehungsweise elf Jahre voraus.",
+      "sources": [
+        "edition",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jack Clayton",
+        "Robert Wise",
+        "William Wyler",
+        "John Hough"
+      ],
+      "feedback": [
+        "Jack Clayton führte Regie.",
+        "Robert Wise hat hier keinen Regiecredit.",
+        "William Wyler hat hier keinen Regiecredit.",
+        "John Hough hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Jack Clayton.",
+      "context": "Clayton ließ den zunächst eindeutig übernatürlichen Drehbuchansatz von Truman Capote überarbeiten. Die Zweifel an der Wahrnehmung der Gouvernante wurden damit Teil der Filmform; weder bloße Täuschung noch sichere Besessenheit erklärt jede Szene abschließend.",
+      "anchor": "Clayton ließ den zunächst eindeutig übernatürlichen Drehbuchansatz von Truman Capote überarbeiten.",
+      "interest": "Clayton ließ den zunächst eindeutig übernatürlichen Drehbuchansatz von Truman Capote überarbeiten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

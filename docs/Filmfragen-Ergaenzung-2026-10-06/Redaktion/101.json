@@ -1,0 +1,218 @@
+{
+  "rank": 101,
+  "directors": [
+    "Armando Iannucci"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "Frankreich",
+    "Belgien"
+  ],
+  "familiarity_reason": "Politische Ensemblesatire mit international bekannten Darstellern, im deutschsprachigen Breitenpublikum eher ein Kennerfilm.",
+  "release_note": "Toronto-Premiere am 8. September 2017, britischer Kinostart im Oktober desselben Jahres.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Death_of_Stalin",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/the_death_of_stalin/",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Position verschafft Lawrenti Beria (Simon Russell Beale) in @ besonders gefährliche Macht?",
+      "answers": [
+        "Er leitet den Sicherheitsapparat NKVD.",
+        "Er leitet die sowjetische Außenpolitik.",
+        "Er kontrolliert die staatliche Wirtschaftsplanung.",
+        "Er führt das Sekretariat der Partei."
+      ],
+      "feedback": [
+        "Beria beherrscht als NKVD-Chef den Sicherheitsapparat.",
+        "Beria leitet den Sicherheitsapparat, nicht die Außenpolitik.",
+        "Die Wirtschaftsplanung ist nicht seine gezeigte Machtbasis.",
+        "Der Partei-Apparat erklärt nicht seine direkte Gewaltmacht durch den NKVD."
+      ],
+      "short": "Beria beherrscht als NKVD-Chef den Sicherheitsapparat.",
+      "context": "Lawrenti Beria (Simon Russell Beale) verfügt über Geheimdienstkräfte und belastende Akten. Nach Stalins Tod kann er damit andere Mitglieder der Führung bedrohen. Nikita Chruschtschow (Steve Buscemi) muss für seinen Machtkampf deshalb mehr gewinnen als Stimmen: Er braucht ein Gegengewicht zu den bewaffneten Institutionen des Rivalen.",
+      "anchor": "Berias Macht beruht auf Akten und Sicherheitskräften.",
+      "interest": "Berias Macht beruht auf Akten und Sicherheitskräften.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum wird das gerade beendete Konzert zu Beginn von @ noch einmal gespielt?",
+      "answers": [
+        "Stalin verlangt eine Aufnahme davon.",
+        "Ein ausländischer Sender zahlt für eine Wiederholung.",
+        "Der Dirigent will einen Fehler verbessern.",
+        "Das Publikum hat eine Zugabe bestellt."
+      ],
+      "feedback": [
+        "Stalins Anruf erzwingt eine nachträglich hergestellte Konzertaufnahme.",
+        "Ein Sendergeschäft ist nicht der Grund.",
+        "Die Wiederholung kommt nicht vom musikalischen Ehrgeiz des Dirigenten.",
+        "Eine gewöhnliche Zugabe genügt dem Auftrag nicht."
+      ],
+      "short": "Stalins Anruf erzwingt eine nachträglich hergestellte Konzertaufnahme.",
+      "context": "Der Rundfunkleiter (Paddy Considine) soll ein Konzert liefern, das nicht aufgezeichnet wurde. Aus Angst vor Stalin werden Musiker und Publikum zurückgeholt. Der Auftakt zeigt die Logik des Systems: Eine scheinbar alltägliche technische Panne kann tödlich werden, sobald der Wunsch des Machthabers unerfüllbar erscheint.",
+      "anchor": "Ohne vorhandene Aufnahme wird das Konzert für Stalin wiederholt.",
+      "interest": "Ohne vorhandene Aufnahme wird das Konzert für Stalin wiederholt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum suchen Stalins Kollegen in @ nur mühsam nach geeigneten Ärzten?",
+      "answers": [
+        "Viele gute Ärzte wurden zuvor verhaftet.",
+        "Die verbliebenen Spezialisten fürchten eine Behandlung ohne politischen Auftrag.",
+        "Die Kollegen suchen zunächst nur im militärischen Sanitätsdienst.",
+        "Die Ärzte werden wegen einer falschen Diagnose wieder fortgeschickt."
+      ],
+      "feedback": [
+        "Die vorausgegangenen Verhaftungen haben die medizinische Hilfe geschwächt.",
+        "Der entscheidende Engpass ist die vorherige Verhaftung vieler geeigneter Ärzte.",
+        "Die Suche wird durch die vorherigen Verhaftungen erschwert, nicht durch eine Beschränkung auf Militärärzte.",
+        "Eine erneute falsche Diagnose verursacht diesen Engpass nicht."
+      ],
+      "short": "Die vorausgegangenen Verhaftungen haben die medizinische Hilfe geschwächt.",
+      "context": "Stalin (Adrian McLoughlin) braucht dringend Hilfe, doch sein eigenes System hat Ärzte als vermeintliche Verschwörer verfolgt. Die Führung muss mit weniger geeigneten Medizinern improvisieren. Das ist mehr als eine groteske Verzögerung: Der Terror richtet sich nun gegen die Fähigkeit, denjenigen zu retten, der ihn angeordnet hat.",
+      "anchor": "Die Verfolgung der Ärzte trifft am Ende den Verfolger.",
+      "interest": "Die Verfolgung der Ärzte trifft am Ende den Verfolger.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Aufgabe wird Nikita Chruschtschow (Steve Buscemi) in @ zunächst zugeschoben?",
+      "answers": [
+        "Die Organisation von Stalins Begräbnis",
+        "Die Leitung des Geheimdienstes",
+        "Die Führung der sowjetischen Marine",
+        "Die Verhandlung eines Friedensvertrags"
+      ],
+      "feedback": [
+        "Chruschtschow soll das Begräbnis organisieren.",
+        "Der Geheimdienst bleibt Berias Machtbasis.",
+        "Die Marine ist nicht Chruschtschows zugewiesener Bereich.",
+        "Ein Friedensvertrag ist nicht sein Auftrag."
+      ],
+      "short": "Chruschtschow soll das Begräbnis organisieren.",
+      "context": "Lawrenti Beria (Simon Russell Beale) nutzt die neue Machtlage, um Reformen für sich zu beanspruchen. Nikita Chruschtschow (Steve Buscemi) bleibt die Trauerzeremonie. Die scheinbar nachrangige Zuständigkeit ist politisch gefährlich: Anreisende Trauernde, Sicherheitsanweisungen und der öffentliche Ablauf beeinflussen die Rivalität um die Nachfolge.",
+      "anchor": "Das Begräbnis wird zur politischen Aufgabe statt bloßer Feierlichkeit.",
+      "interest": "Das Begräbnis wird zur politischen Aufgabe statt bloßer Feierlichkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Interessengemeinschaft ermöglicht in @ den entscheidenden Schlag gegen Beria?",
+      "answers": [
+        "Chruschtschow verbündet sich mit der von Beria verdrängten Armee.",
+        "Malenkow stellt sich mit dem Sicherheitsapparat gegen die Armee.",
+        "Beria mobilisiert Parteifunktionäre gegen Schukow.",
+        "Molotow gewinnt die Offiziere für einen eigenen Machtanspruch."
+      ],
+      "feedback": [
+        "Chruschtschow gewinnt Marschall Schukow und die Armee als Verbündete.",
+        "Malenkows Bündnis mit dem Sicherheitsapparat ist nicht der erfolgreiche Schlag gegen Beria.",
+        "Beria ist Ziel der Allianz, nicht deren Organisator.",
+        "Die entscheidende Allianz verbindet Chruschtschow und Schukow, nicht Molotow und die Offiziere."
+      ],
+      "short": "Chruschtschow gewinnt Marschall Schukow und die Armee als Verbündete.",
+      "context": "Lawrenti Beria (Simon Russell Beale) hat den Geheimdienst an die Stelle der Armee gesetzt. Marschall Georgi Schukow (Jason Isaacs) empfindet das als Angriff auf seine Stellung. Nikita Chruschtschow (Steve Buscemi) nutzt diese Rivalität: Der politische Plan erhält durch Soldaten die Gewaltmittel, die Berias Verhaftung möglich machen.",
+      "anchor": "Der verdrängte Schukow liefert Chruschtschow die nötige militärische Macht.",
+      "interest": "Der verdrängte Schukow liefert Chruschtschow die nötige militärische Macht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Vorlage wurde für @ in eine Filmsatire übertragen?",
+      "answers": [
+        "Eine französische Graphic Novel",
+        "Ein historisches Theaterstück",
+        "Eine Sammlung sowjetischer Erinnerungen",
+        "Ein satirischer Roman"
+      ],
+      "feedback": [
+        "Die Vorlage ist die Graphic Novel La Mort de Staline.",
+        "Die unmittelbare Vorlage ist die französische Graphic Novel von Fabien Nury und Thierry Robin, kein Theaterstück.",
+        "Erinnerungen sind nicht die verwendete unmittelbare Vorlage.",
+        "Ein satirischer Roman ist nicht die Vorlage der Verfilmung."
+      ],
+      "short": "Die Vorlage ist die Graphic Novel La Mort de Staline.",
+      "context": "Fabien Nury schrieb und Thierry Robin zeichnete die französische Graphic Novel La Mort de Staline. Der Film nutzt deren historischen Ausgangspunkt für eine eigene Ensemblesatire. Damit handelt es sich weder um ein verfilmtes amtliches Protokoll noch um einen Anspruch, jede Szene als dokumentarisch genaue Rekonstruktion zu verstehen.",
+      "anchor": "Eine französische Graphic Novel wird zur englischsprachigen Machtfarce.",
+      "interest": "Eine französische Graphic Novel wird zur englischsprachigen Machtfarce.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2017",
+        "2013",
+        "2016",
+        "2020"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 2017.",
+        "2013 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "2016 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2020 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 2017.",
+      "context": "Die Satire wurde 2017 in Toronto erstmals gezeigt. Stalin starb im März 1953, 64 Jahre zuvor. Dieser historische Tod eröffnet den Machtkampf der Handlung; die spätere Filmfassung macht daraus eine Komödie über Angst und Opportunismus. Die französischen und belgischen Starts von 2018 sind spätere Auswertungen.",
+      "anchor": "Stalins Tod 1953 wird 64 Jahre später, 2017, zur Machtfarce.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Stalins Tod 1953 wird 64 Jahre später, 2017, zur Machtfarce.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Armando Iannucci",
+        "Terry Gilliam",
+        "Wes Anderson",
+        "Martin McDonagh"
+      ],
+      "feedback": [
+        "Armando Iannucci führte Regie.",
+        "Terry Gilliam gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Wes Anderson gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Martin McDonagh gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Armando Iannucci.",
+      "context": "Armando Iannucci schrieb und inszenierte die politische Satire. Als Grundlage dient eine französische Graphic Novel von Fabien Nury und Thierry Robin. Das Ensemble spielt Macht als hektischen Alltag: Zuständigkeiten, Rangordnungen und vermeintliche Kleinigkeiten werden nach dem Tod des Diktators zu Fragen des eigenen Überlebens.",
+      "anchor": "Armando Iannucci: Als Grundlage dient eine französische Graphic Novel von Fabien Nury und Thierry Robin.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

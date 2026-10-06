@@ -1,0 +1,216 @@
+{
+  "rank": 57,
+  "directors": [
+    "Thomas Vinterberg"
+  ],
+  "production_countries": [
+    "Dänemark"
+  ],
+  "familiarity_reason": "Vielbeachtetes dänisches Drama mit Mads Mikkelsen; Kennerfilm.",
+  "release_note": "Cannes-Premiere 20. Mai 2012; dänischer Kinostart 2013.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Hunt_(2012_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "zeitanker": {
+      "url": "https://www.festival-cannes.com/en/p/thomas-vinterberg/",
+      "supports": "Festen in Cannes 1998, Jury-Preis und Jagten 2012."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Vorwurf macht Lucas (Mads Mikkelsen) in @ zum Außenseiter?",
+      "answers": [
+        "Er habe ein Kind sexuell missbraucht.",
+        "Er habe ein Kind körperlich schwer verletzt.",
+        "Er habe Kinder ohne Erlaubnis mit nach Hause genommen.",
+        "Er habe Geld der Eltern unterschlagen."
+      ],
+      "feedback": [
+        "Eine falsche Missbrauchsbehauptung trifft Lucas.",
+        "Der Vorwurf betrifft sexuellen Missbrauch.",
+        "Eine bloße unerlaubte Mitnahme ist nicht die Anschuldigung.",
+        "Eine Geldangelegenheit ist nicht der Verdacht."
+      ],
+      "short": "Eine falsche Missbrauchsbehauptung trifft Lucas.",
+      "context": "Eine falsche Missbrauchsbehauptung trifft Lucas (Mads Mikkelsen). Die Gemeinschaft behandelt den Verdacht zunehmend als Gewissheit; seine bisherigen Beziehungen bieten deshalb keinen zuverlässigen Schutz.",
+      "anchor": "Ein Verdacht verändert Lucas’ gesamten Alltag.",
+      "interest": "Ein Verdacht verändert Lucas’ gesamten Alltag.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wer sucht trotz der Vorwürfe gegen Lucas in @ ausdrücklich seine Nähe?",
+      "answers": [
+        "Sein Sohn Marcus",
+        "Die Kindergartenleiterin",
+        "Klaras Mutter",
+        "Der Besitzer des Supermarkts"
+      ],
+      "feedback": [
+        "Marcus (Lasse Fogelstrøm) möchte bei seinem Vater Lucas (Mads Mikkelsen) bleiben.",
+        "Die Leiterin trägt zur Ausgrenzung bei.",
+        "Klaras Familie reagiert auf den Verdacht mit Distanz.",
+        "Der Supermarkt verweigert Lucas gerade den gewöhnlichen Zugang."
+      ],
+      "short": "Marcus (Lasse Fogelstrøm) möchte bei seinem Vater Lucas (Mads Mikkelsen) bleiben.",
+      "context": "Marcus (Lasse Fogelstrøm) möchte bei seinem Vater Lucas (Mads Mikkelsen) bleiben. Seine Loyalität setzt ihn selbst dem Druck der Gemeinschaft aus.",
+      "anchor": "Marcus hält zu seinem Vater.",
+      "interest": "Marcus hält zu seinem Vater.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Befragungsweise verstärkt in @ die Anschuldigung gegen Lucas?",
+      "answers": [
+        "Suggestivfragen an das Kind",
+        "Eine gemeinsam überprüfte Rekonstruktion",
+        "Eine unabhängige Befragung ohne vorgegebene Antworten",
+        "Eine von Lucas persönlich geführte Anhörung"
+      ],
+      "feedback": [
+        "Suggestivfragen verstärken Klaras (Annika Wedderkopp) Geschichte.",
+        "Die Deutung wird durch lenkende Fragen gestützt.",
+        "Gerade offene Neutralität fehlt.",
+        "Lucas führt die Kinderbefragung nicht selbst."
+      ],
+      "short": "Suggestivfragen verstärken Klaras (Annika Wedderkopp) Geschichte.",
+      "context": "Suggestivfragen verstärken Klaras (Annika Wedderkopp) Geschichte. Als sie später widerspricht, deuten Erwachsene auch das als Folge eines angenommenen Missbrauchs; ihre Überzeugung wird schwer korrigierbar.",
+      "anchor": "Die Befragung setzt voraus, was sie prüfen sollte.",
+      "interest": "Die Befragung setzt voraus, was sie prüfen sollte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Weshalb wird eine behauptete Einzelheit anderer Kinder in @ zum Zweifel an der Anklage?",
+      "answers": [
+        "Sie beschreiben einen Keller, den Lucas’ Haus nicht hat.",
+        "Sie nennen einen Hund, den Lucas nie hatte.",
+        "Sie beschreiben einen Ausflug, der in den Ferien nicht stattfand.",
+        "Sie nennen einen Bruder, den Lucas nicht hat."
+      ],
+      "feedback": [
+        "Die Kinder beschreiben einen nicht vorhandenen Keller.",
+        "Der konkrete räumliche Widerspruch betrifft den Keller.",
+        "Ein Ausflugsdatum ist nicht dieser entlastende Punkt.",
+        "Ein vermeintlicher Bruder ist nicht die betreffende Einzelheit."
+      ],
+      "short": "Die Kinder beschreiben einen nicht vorhandenen Keller.",
+      "context": "Die Kinder beschreiben einen nicht vorhandenen Keller. Der überprüfbare räumliche Widerspruch schwächt die Aussagen; die rechtliche Entlastung beendet die soziale Ausgrenzung jedoch nicht automatisch.",
+      "anchor": "Der erfundene Keller liefert einen konkreten Widerspruch.",
+      "interest": "Der erfundene Keller liefert einen konkreten Widerspruch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum fordert Lucas (Mads Mikkelsen) Theo (Thomas Bo Larsen) beim Weihnachtsgottesdienst in @ zum Blickkontakt auf?",
+      "answers": [
+        "Theo behauptete, Lucas’ Lügen erkennen zu können.",
+        "Theo hatte eine Entschuldigung vor Zeugen versprochen.",
+        "Lucas möchte, dass Theo Klara aus dem Raum führt.",
+        "Lucas will Theo zu einer neuen Aussage zwingen."
+      ],
+      "feedback": [
+        "Lucas erinnert Theo an dessen behauptete Menschenkenntnis.",
+        "Der Blick greift Theos behauptete Lügenerkennung auf.",
+        "Ein Wegführen Klaras ist nicht das Anliegen.",
+        "Lucas fordert zuerst die persönliche Anerkennung seiner Wahrheit."
+      ],
+      "short": "Lucas erinnert Theo an dessen behauptete Menschenkenntnis.",
+      "context": "Lucas (Mads Mikkelsen) erinnert Theo (Thomas Bo Larsen) an dessen behauptete Menschenkenntnis. Der öffentliche Blickkontakt verlangt vom ehemaligen Freund, seine Sicherheit über den Verdacht an der konkreten Beziehung zu prüfen.",
+      "anchor": "Lucas stellt Theos vermeintliche Gewissheit persönlich auf die Probe.",
+      "interest": "Lucas stellt Theos vermeintliche Gewissheit persönlich auf die Probe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was verhindert in @ einen völlig beruhigenden Schluss nach der scheinbaren Versöhnung?",
+      "answers": [
+        "Ein unbekannter Schütze verfehlt Lucas knapp.",
+        "Die Gemeinde verweigert ihm erneut den Gottesdienst.",
+        "Marcus bricht den Kontakt ab.",
+        "Theo erhebt vor der Gruppe eine neue Anschuldigung."
+      ],
+      "feedback": [
+        "Ein Schuss verfehlt Lucas (Mads Mikkelsen) knapp.",
+        "Der Schluss zeigt den beinahe tödlichen Schuss.",
+        "Marcus’ endgültige Abkehr ist nicht die letzte Bedrohung.",
+        "Eine neue offene Beschuldigung Theos wird nicht gezeigt."
+      ],
+      "short": "Ein Schuss verfehlt Lucas (Mads Mikkelsen) knapp.",
+      "context": "Ein Schuss verfehlt Lucas (Mads Mikkelsen) knapp. Die scheinbar wiederhergestellte Gemeinschaft bleibt damit unsicher; die Bedrohung erhält kein identifiziertes, bequem erklärbares Gesicht.",
+      "anchor": "Der letzte Schuss lässt das Misstrauen fortbestehen.",
+      "interest": "Der letzte Schuss lässt das Misstrauen fortbestehen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2012",
+        "2010",
+        "2007",
+        "2013"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2012.",
+        "2010 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2007 liegt fünf Jahre davor.",
+        "2013 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2012 erstmals veröffentlicht.",
+      "context": "2012 wurde der Film in Cannes gezeigt. Vinterbergs Festen hatte dort 1998 den Jury-Preis erhalten, vierzehn Jahre früher. Beide Filme untersuchen eine enge Gemeinschaft und den Umgang mit einer belastenden Anschuldigung.",
+      "anchor": "Vierzehn Jahre nach Festen von 1998 folgte 2012 Vinterbergs neuer Film über eine Gemeinschaft und eine Anschuldigung.",
+      "interest": "Vierzehn Jahre nach Festen von 1998 folgte 2012 Vinterbergs neuer Film über eine Gemeinschaft und eine Anschuldigung.",
+      "sources": [
+        "zeitanker",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Thomas Vinterberg",
+        "Lars von Trier",
+        "Susanne Bier",
+        "Nicolas Winding Refn"
+      ],
+      "feedback": [
+        "Thomas Vinterberg führte Regie.",
+        "Lars von Trier führte bei diesem Film nicht Regie.",
+        "Susanne Bier führte bei diesem Film nicht Regie.",
+        "Nicolas Winding Refn führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Thomas Vinterberg.",
+      "context": "Vinterberg schrieb gemeinsam mit Tobias Lindholm. Statt nur einen juristischen Fall abzubilden, folgt der Film einer engen Gemeinschaft, in der ein Verdacht Freundschaften, Beruf und Familienleben verändert.",
+      "anchor": "Vinterberg schrieb gemeinsam mit Tobias Lindholm.",
+      "interest": "Vinterberg schrieb gemeinsam mit Tobias Lindholm.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

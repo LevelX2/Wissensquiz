@@ -1,0 +1,216 @@
+{
+  "rank": 159,
+  "directors": [
+    "Thomas Carter"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Jugend- und Musikdrama mit bekannten Darstellern, besonders unter historisch interessierten Filmfans präsent.",
+  "release_note": "US-Veröffentlichung am 5. März 1993.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Swing_Kids_(1993_film)",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/swing_kids",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt leben die Freunde in @?",
+      "answers": [
+        "Hamburg",
+        "Berlin",
+        "München",
+        "Leipzig"
+      ],
+      "feedback": [
+        "Die Geschichte spielt in Hamburg.",
+        "Berlin ist nicht die zentrale Handlungsstadt.",
+        "München ist nicht ihr Umfeld.",
+        "Leipzig ist nicht der Schauplatz."
+      ],
+      "short": "Die Geschichte spielt in Hamburg.",
+      "context": "Peter Müller (Robert Sean Leonard), Thomas Berger (Christian Bale) und Arvid (Frank Whaley) teilen ihre Begeisterung für Swingmusik. Clubs und die Straßen der Stadt werden zunehmend von nationalsozialistischen Organisationen kontrolliert. Ihr Freizeitmilieu bleibt deshalb nicht außerhalb der politischen Entwicklung.",
+      "anchor": "Hamburgs Swingclubs geraten in den politischen Zugriff.",
+      "interest": "Hamburgs Swingclubs geraten in den politischen Zugriff.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Widerspruch wollen Peter und Thomas in @ zunächst miteinander vereinbaren?",
+      "answers": [
+        "Tagsüber Hitlerjugend, abends Swingfreunde",
+        "Tagsüber Hitlerjugend, abends eine geheime politische Widerstandsgruppe",
+        "Tagsüber HJ-Ausbilder, abends öffentlich engagierte Jazzmusiker",
+        "Tagsüber Berufsmusiker, abends eine staatlich erlaubte Jugendgruppe"
+      ],
+      "feedback": [
+        "Die Jungen glauben, HJ-Mitgliedschaft und Swingleben nebeneinander führen zu können.",
+        "Sie versuchen zunächst ihre Swingtreffen mit dem HJ-Beitritt zu vereinbaren.",
+        "Sie sind junge Mitglieder, keine Ausbilder mit öffentlichen Jazzauftritten.",
+        "Die Swingbegeisterung wird gerade politisch verfolgt."
+      ],
+      "short": "Die Jungen glauben, HJ-Mitgliedschaft und Swingleben nebeneinander führen zu können.",
+      "context": "Thomas Berger (Christian Bale) folgt Peter Müller (Robert Sean Leonard) in die Hitlerjugend. Er meint, die Vorteile der Mitgliedschaft und ihre Musik zugleich behalten zu können. Die weitere Handlung zeigt, wie der ideologische Anspruch diese zunächst angenommene Trennung auflöst.",
+      "anchor": "Die politische Organisation lässt sich nicht dauerhaft auf den Tagesdienst begrenzen.",
+      "interest": "Die politische Organisation lässt sich nicht dauerhaft auf den Tagesdienst begrenzen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Weshalb muss Peter Müller (Robert Sean Leonard) in @ der Hitlerjugend beitreten?",
+      "answers": [
+        "Nach einem Radiodiebstahl wird seine Schonung an den Beitritt gebunden.",
+        "Er will dadurch die beschlagnahmte Radiosammlung seines Vaters zurückerhalten.",
+        "Er erhält nur als Mitglied einen Ausbildungsplatz bei einem Musiklehrer.",
+        "Er meldet sich freiwillig, um Thomas vor einer Strafe zu schützen."
+      ],
+      "feedback": [
+        "Die Hilfe nach dem Diebstahl hat den HJ-Beitritt als Gegenleistung.",
+        "Nach dem Diebstahl wird die Schonung Peters an den Beitritt geknüpft.",
+        "Ein Musikunterricht ist nicht der auslösende Handel.",
+        "Der Beitritt folgt dem staatlichen Druck nach dem Radiodiebstahl."
+      ],
+      "short": "Die Hilfe nach dem Diebstahl hat den HJ-Beitritt als Gegenleistung.",
+      "context": "Peter Müller (Robert Sean Leonard) stiehlt mit Thomas ein Radio als Ersatz für Arvids zerstörte Platte. Herr Knopp (Kenneth Branagh) sorgt dafür, dass Peter geschont wird, verlangt aber den Beitritt. Ein kleiner privater Versuch der Wiedergutmachung führt so in institutionelle Abhängigkeit.",
+      "anchor": "Das gestohlene Radio wird zum Hebel für Peters HJ-Beitritt.",
+      "interest": "Das gestohlene Radio wird zum Hebel für Peters HJ-Beitritt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was gefährdet Arvids (Frank Whaley) Tätigkeit als Jazzmusiker in @ unmittelbar?",
+      "answers": [
+        "HJ-Mitglieder schlagen ihn und verletzen seine Hand.",
+        "Die Polizei beschlagnahmt alle Noten seines Lehrers.",
+        "Er verliert durch eine Krankheit seine Stimme.",
+        "Sein Instrument geht bei einem Schiffsbrand verloren."
+      ],
+      "feedback": [
+        "Die verletzte Hand bedroht Arvids Fähigkeit zu spielen.",
+        "Eine Notenbeschlagnahme ist nicht die unmittelbare Ursache.",
+        "Ein Stimmverlust gefährdet nicht sein Instrumentalspiel.",
+        "Ein Schiffsbrand zerstört nicht sein Instrument."
+      ],
+      "short": "Die verletzte Hand bedroht Arvids Fähigkeit zu spielen.",
+      "context": "Arvid (Frank Whaley) wird unter anderem von einem früheren Freund angegriffen. Die körperliche Gewalt zielt damit auf das Mittel seiner Musik. Später spielt er wieder, kann seine Ablehnung der politischen Anpassung aber nicht mit den Erwartungen der Clubbetreiber vereinbaren.",
+      "anchor": "Die Gewalt gegen Arvid trifft auch seine musikalische Handlungsfreiheit.",
+      "interest": "Die Gewalt gegen Arvid trifft auch seine musikalische Handlungsfreiheit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Folge hat Thomas’ Meldung gegen seinen Vater in @?",
+      "answers": [
+        "Die Nationalsozialisten holen den Vater ab.",
+        "Der Vater erhält eine staatliche Auszeichnung.",
+        "Die Familie darf gemeinsam ausreisen.",
+        "Der Vater wird nur vor der Schulklasse befragt."
+      ],
+      "feedback": [
+        "Thomas’ Denunziation führt zur Abholung seines Vaters.",
+        "Eine Auszeichnung ist nicht die Folge.",
+        "Eine gemeinsame Ausreise wird nicht ermöglicht.",
+        "Es bleibt nicht bei einer schulischen Befragung."
+      ],
+      "short": "Thomas’ Denunziation führt zur Abholung seines Vaters.",
+      "context": "Thomas Berger (Christian Bale) meldet eine kritische Äußerung seines Vaters (David Robb). Als die Behörden kommen, wird die Konsequenz der eingeübten Überwachung greifbar. Der Anspruch, auch Familie zu kontrollieren, verwandelt einen privaten Konflikt in einen staatlichen Zugriff.",
+      "anchor": "Die gelernte Denunziation kehrt als Verhaftung in Thomas’ Familie zurück.",
+      "interest": "Die gelernte Denunziation kehrt als Verhaftung in Thomas’ Familie zurück.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum verlässt Peter (Robert Sean Leonard) den geräumten Swingclub am Ende von @ nicht freiwillig?",
+      "answers": [
+        "Er verweigert trotz Thomas’ Drängen die Flucht und lässt sich abführen.",
+        "Er wartet auf einen geplanten Auftritt vor Offizieren.",
+        "Er will dort einen verborgenen Geldkoffer holen.",
+        "Er glaubt, der Club gehöre inzwischen ihm."
+      ],
+      "feedback": [
+        "Peter bleibt und wird von der Polizei abgeführt.",
+        "Ein Offiziersauftritt hält ihn nicht dort.",
+        "Ein Geldkoffer ist nicht sein Ziel.",
+        "Ein Besitzanspruch erklärt das Bleiben nicht."
+      ],
+      "short": "Peter bleibt und wird von der Polizei abgeführt.",
+      "context": "Thomas Berger (Christian Bale) versucht nach ihrem Kampf, Peter Müller (Robert Sean Leonard) zum Weglaufen zu bewegen. Peter lehnt ab. Sein jüngerer Bruder Willi (David Tom) ruft ihm Swing Heil nach; die Entscheidung für die Musik und gegen Anpassung wird im Abschied sichtbar.",
+      "anchor": "Peters Bleiben wird durch Willis Zuruf als Widerstand verstanden.",
+      "interest": "Peters Bleiben wird durch Willis Zuruf als Widerstand verstanden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1993",
+        "1989",
+        "1992",
+        "1996"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1993.",
+        "1989 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1992 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1996 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1993.",
+      "context": "Swing Kids erschien 1993. Die Handlung beginnt in Hamburg 1939, 54 Jahre vor dem Filmstart. Das jugendliche Interesse an englischer und amerikanischer Swingmusik steht in dieser erzählten Zeit im Konflikt mit nationalsozialistischer Kontrolle. Die große zeitliche Entfernung verbindet ein modernes Jugenddrama mit einem historischen Konflikt um kulturelle Selbstbestimmung.",
+      "anchor": "Hamburger Handlung 1939, Film 1993: 54 Jahre bis zur Erinnerung an die Swingjugend.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Hamburger Handlung 1939, Film 1993: 54 Jahre bis zur Erinnerung an die Swingjugend.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Thomas Carter",
+        "Peter Weir",
+        "Alan Parker",
+        "Rob Reiner"
+      ],
+      "feedback": [
+        "Thomas Carter führte Regie.",
+        "Peter Weir gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Alan Parker gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Rob Reiner gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Thomas Carter.",
+      "context": "Thomas Carter führte Regie nach Jonathan Marc Feldmans Drehbuch. Er hatte auch als Schauspieler gearbeitet und kam aus der Fernsehregie. Der Film nutzt Tanzszenen, Freundschaft und familiäre Konflikte, um den wachsenden politischen Anpassungsdruck für junge Figuren konkret erfahrbar zu machen.",
+      "anchor": "Thomas Carter: Er hatte auch als Schauspieler gearbeitet und kam aus der Fernsehregie.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

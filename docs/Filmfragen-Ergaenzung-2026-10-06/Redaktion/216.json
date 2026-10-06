@@ -1,0 +1,217 @@
+{
+  "rank": 216,
+  "directors": [
+    "Nicolas Winding Refn"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Populärer stilisierter Thriller mit Ryan Gosling, elektronischer Musik und ikonischer Skorpionjacke.",
+  "release_note": "Erste Veröffentlichung 2011 bei den Filmfestspielen von Cannes; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Drive_(2011_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Drive_(2011_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Tätigkeit übernimmt der Fahrer in @ für Kriminelle?",
+      "answers": [
+        "Er fährt Fluchtautos",
+        "Er fälscht Reisepässe",
+        "Er wäscht Geld in einem Casino",
+        "Er verkauft gestohlene Kunst"
+      ],
+      "feedback": [
+        "Der namenlose Fahrer (Ryan Gosling) übernimmt Fluchtfahrten.",
+        "Er stellt keine Pässe her.",
+        "Er betreibt kein Casino.",
+        "Kunsthandel gehört nicht zu seinen Tätigkeiten."
+      ],
+      "short": "Der namenlose Fahrer (Ryan Gosling) übernimmt Fluchtfahrten.",
+      "context": "Der namenlose Fahrer (Ryan Gosling) übernimmt Fluchtfahrten. Daneben arbeitet er als Mechaniker und Filmstuntfahrer; seine Fahrkunst verbindet legale und illegale Beschäftigungen.",
+      "anchor": "Die Fahrkunst verbindet Filmstunts und Verbrechen.",
+      "interest": "Die Fahrkunst verbindet Filmstunts und Verbrechen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Nachbarin wird dem Fahrer in @ wichtig?",
+      "answers": [
+        "Eine Mutter mit einem kleinen Sohn",
+        "Eine verwitwete Rennfahrerin",
+        "Eine Undercover-Polizistin",
+        "Eine reisende Musikerin"
+      ],
+      "feedback": [
+        "Irene (Carey Mulligan) und ihr Sohn Benicio werden dem Fahrer (Ryan Gosling) wichtig.",
+        "Irene ist keine Rennfahrerin.",
+        "Sie arbeitet nicht verdeckt für die Polizei.",
+        "Sie ist keine reisende Musikerin."
+      ],
+      "short": "Irene (Carey Mulligan) und ihr Sohn Benicio werden dem Fahrer (Ryan Gosling) wichtig.",
+      "context": "Irene (Carey Mulligan) und ihr Sohn Benicio (Kaden Leos) werden dem Fahrer (Ryan Gosling) wichtig. Ihre Nähe eröffnet ihm eine Möglichkeit familiärer Zugehörigkeit, die er später um jeden Preis schützen will.",
+      "anchor": "Irene und Benicio geben dem Fahrer einen Grund zu bleiben.",
+      "interest": "Irene und Benicio geben dem Fahrer einen Grund zu bleiben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum hilft der Fahrer in @ Irenes Mann bei einem Raub?",
+      "answers": [
+        "Dessen Gefängnisschulden bedrohen die Familie",
+        "Er will dessen Rennwagen übernehmen",
+        "Er verlangt eine Beteiligung am Pfandhaus",
+        "Er wurde von Irene mit dem Raub beauftragt"
+      ],
+      "feedback": [
+        "Standard (Oscar Isaac) wird wegen Schutzgeldschulden aus seiner Haftzeit bedroht.",
+        "Ein Rennwagen ist nicht sein Motiv.",
+        "Er will das Pfandhaus nicht besitzen.",
+        "Irene organisiert den Raub nicht."
+      ],
+      "short": "Standard (Oscar Isaac) wird wegen Schutzgeldschulden aus seiner Haftzeit bedroht.",
+      "context": "Standard (Oscar Isaac) wird wegen Schutzgeldschulden aus seiner Haftzeit bedroht. Der Fahrer (Ryan Gosling) hilft beim Pfandhausraub, um Irene und Benicio zu schützen, und gerät damit in eine größere Falle.",
+      "anchor": "Der Schutz der Familie zieht den Fahrer in das Verbrechen.",
+      "interest": "Der Schutz der Familie zieht den Fahrer in das Verbrechen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was verändert die Aufzugszene in @ zwischen Irene und dem Fahrer?",
+      "answers": [
+        "Ein Kuss geht unmittelbar in extreme Gewalt über",
+        "Er gesteht ihr seine Beteiligung an einem früheren Mord",
+        "Sie entwaffnet einen Verfolger statt seiner",
+        "Er verlässt sie mit dem Geld des Raubs"
+      ],
+      "feedback": [
+        "Der Fahrer (Ryan Gosling) küsst Irene (Carey Mulligan), bevor er den bewaffneten Angreifer im Aufzug brutal tötet.",
+        "Ein früheres Mordgeständnis bildet nicht den Ablauf.",
+        "Irene entwaffnet den Mann nicht.",
+        "Die Szene zeigt keine Abreise mit der Beute."
+      ],
+      "short": "Der Fahrer (Ryan Gosling) küsst Irene (Carey Mulligan), bevor er den bewaffneten Angreifer im Aufzug brutal tötet.",
+      "context": "Der Fahrer (Ryan Gosling) küsst Irene (Carey Mulligan), bevor er den bewaffneten Angreifer im Aufzug brutal tötet. Schutz und Schrecken fallen zusammen; Irene sieht eine Seite, die ihre Nähe zerstört.",
+      "anchor": "Die Rettung offenbart eine Gewalt, die Irene entfremdet.",
+      "interest": "Die Rettung offenbart eine Gewalt, die Irene entfremdet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum wollen Nino und Bernie in @ alle Beteiligten des Raubs beseitigen?",
+      "answers": [
+        "Das Geld gehört einem mit der Ostküstenmafia verbundenen Mann",
+        "Die Beute besteht aus markierten Polizeischeinen.",
+        "Ein rivalisierender Boss hat einen Zeugen im Pfandhaus erkannt.",
+        "Die Täter haben die Beute bereits an einen Konkurrenten verkauft."
+      ],
+      "feedback": [
+        "Das Geld ist für eine neue Operation eines Philadelphia-Gangsters bestimmt.",
+        "Die Gefahr kommt vom Besitzer des Geldes und dessen Mafiaverbindungen.",
+        "Der missglückte Raub gefährdet sie durch die gestohlene Mafiareserve.",
+        "Nino und Bernie fürchten die Rückverfolgung des Diebstahls zu ihnen."
+      ],
+      "short": "Das Geld ist für eine neue Operation eines Philadelphia-Gangsters bestimmt.",
+      "context": "Das Geld ist für eine neue Operation eines Philadelphia-Gangsters bestimmt. Nino (Ron Perlman) und Bernie (Albert Brooks) fürchten die Vergeltung der Ostküstenmafia, wenn der Raub zu ihnen zurückverfolgt wird.",
+      "anchor": "Die fremde Mafia-Beute macht sämtliche Mitwisser gefährlich.",
+      "interest": "Die fremde Mafia-Beute macht sämtliche Mitwisser gefährlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was lässt der Fahrer in @ nach der letzten Konfrontation bei Bernies Leiche zurück?",
+      "answers": [
+        "Die gesamte Raubbeute",
+        "Seine Skorpionjacke",
+        "Irenes Wohnungsschlüssel",
+        "Eine Aufnahme des Pfandhausraubs"
+      ],
+      "feedback": [
+        "Der Fahrer (Ryan Gosling) lässt das Geld bei dem getöteten Bernie (Albert Brooks) zurück.",
+        "Die Jacke bleibt nicht bei der Leiche.",
+        "Ein Wohnungsschlüssel ist nicht der entscheidende Gegenstand.",
+        "Er hinterlegt keine Raubaufnahme."
+      ],
+      "short": "Der Fahrer (Ryan Gosling) lässt das Geld bei dem getöteten Bernie (Albert Brooks) zurück.",
+      "context": "Der Fahrer (Ryan Gosling) lässt das Geld bei dem getöteten Bernie (Albert Brooks) zurück. Er fährt verwundet davon; sein Ziel war Irenes Sicherheit, nicht die Bereicherung durch den Raub.",
+      "anchor": "Die zurückgelassene Beute trennt Schutzmotiv und Gewinn.",
+      "interest": "Die zurückgelassene Beute trennt Schutzmotiv und Gewinn.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2011",
+        "2008",
+        "2004",
+        "2013"
+      ],
+      "feedback": [
+        "2011 wurde der Film in Cannes vorgestellt.",
+        "2008 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2011 wird im zeitlichen Hintergrund erklärt.",
+        "2004 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2011 wird im zeitlichen Hintergrund erklärt.",
+        "2013 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2011 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2011 wurde der Film in Cannes vorgestellt.",
+      "context": "2011 wurde der Film in Cannes vorgestellt. Die Romanvorlage von James Sallis erschien 2005; sechs Jahre später wurde aus dem lakonischen Text ein stark von Musik und Bildern geprägter Film.",
+      "anchor": "Roman 2005, Film 2011: Nach sechs Jahren wird Sallis’ knappe Geschichte zur Musik- und Bilderwelt.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Nicolas Winding Refn",
+        "Sidney Lumet",
+        "William Friedkin",
+        "John Schlesinger"
+      ],
+      "feedback": [
+        "Nicolas Winding Refn führte Regie nach Hossein Aminis Drehbuch.",
+        "Sidney Lumet wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Nicolas Winding Refn.",
+        "William Friedkin wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Nicolas Winding Refn.",
+        "John Schlesinger wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Nicolas Winding Refn."
+      ],
+      "short": "Nicolas Winding Refn führte Regie nach Hossein Aminis Drehbuch.",
+      "context": "Nicolas Winding Refn führte Regie nach Hossein Aminis Drehbuch. Der wortkarge Fahrer und Cliff Martinez’ elektronische Musik verbinden eine romantische Schutzfantasie mit plötzlich ausbrechender Gewalt.",
+      "anchor": "Nicolas Winding Refn führte Regie nach Hossein Aminis Drehbuch.",
+      "interest": "Nicolas Winding Refn führte Regie nach Hossein Aminis Drehbuch.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

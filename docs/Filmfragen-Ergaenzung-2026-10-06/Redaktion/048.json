@@ -1,0 +1,211 @@
+{
+  "rank": 48,
+  "directors": [
+    "Justine Triet"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "familiarity_reason": "Goldene Palme und Sandra Hüllers internationaler Erfolg geben dem Film breite Bekanntheit.",
+  "release_note": "Cannes-Premiere 21. Mai 2023.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Anatomy_of_a_Fall",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was wird Sandra (Sandra Hüller) in @ vorgeworfen?",
+      "answers": [
+        "Den Tod ihres Ehemanns verursacht zu haben",
+        "Den Tod als eindeutigen Unfall falsch dargestellt zu haben",
+        "Den eigenen Sohn zur Tat angestiftet zu haben",
+        "Den Verstorbenen nach dem Sturz versteckt zu haben"
+      ],
+      "feedback": [
+        "Sandra steht wegen des Todes ihres Ehemanns vor Gericht.",
+        "Die Anklage richtet sich auf ihre mögliche Tötungshandlung.",
+        "Eine Anstiftung Daniels ist nicht die zentrale Anklage.",
+        "Der Körper wird nicht als von ihr versteckter Toter gefunden."
+      ],
+      "short": "Sandra steht wegen des Todes ihres Ehemanns vor Gericht.",
+      "context": "Sandra (Sandra Hüller) steht wegen des Todes ihres Ehemanns vor Gericht. Die Ursachen seines Sturzes sind umstritten; der Prozess untersucht zugleich ihre Ehe und die Glaubwürdigkeit unterschiedlicher Aussagen.",
+      "anchor": "Der ungeklärte Tod des Mannes wird zum Eheprozess.",
+      "interest": "Der ungeklärte Tod des Mannes wird zum Eheprozess.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Einschränkung hat Sandras Sohn Daniel (Milo Machado-Graner) in @?",
+      "answers": [
+        "Er ist stark sehbehindert.",
+        "Er ist vollständig gehörlos.",
+        "Er kann nicht sprechen.",
+        "Er ist an beiden Armen gelähmt."
+      ],
+      "feedback": [
+        "Daniel ist stark sehbehindert.",
+        "Gehörlosigkeit ist nicht seine Einschränkung.",
+        "Er kann sprechen und aussagen.",
+        "Eine Armlähmung wird nicht gezeigt."
+      ],
+      "short": "Daniel ist stark sehbehindert.",
+      "context": "Daniel (Milo Machado-Graner) ist stark sehbehindert. Seine Wahrnehmungen werden im Prozess wichtig, obwohl keine einzelne Perspektive den gesamten Ablauf des Todes sicher rekonstruieren kann.",
+      "anchor": "Daniels eingeschränkter Blick bleibt eine zentrale Perspektive.",
+      "interest": "Daniels eingeschränkter Blick bleibt eine zentrale Perspektive.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welches private Material wird im Prozess von @ als Beweismittel abgespielt?",
+      "answers": [
+        "Eine Tonaufnahme eines Ehestreits",
+        "Eine heimliche Videoaufnahme des Esszimmers",
+        "Eine gelöschte Nachricht an einen Liebhaber",
+        "Ein aufgenommener Anruf bei der Polizei"
+      ],
+      "feedback": [
+        "Das Gericht hört eine Tonaufnahme eines Ehestreits.",
+        "Im Mittelpunkt dieser Beweisaufnahme steht die Tonaufnahme des Streits.",
+        "Eine Liebhabernachricht ist nicht das abgespielte Material.",
+        "Ein Polizeianruf liefert nicht die betreffende Szene."
+      ],
+      "short": "Das Gericht hört eine Tonaufnahme eines Ehestreits.",
+      "context": "Das Gericht hört eine Tonaufnahme eines Ehestreits. Sandra (Sandra Hüller) und Samuel (Samuel Theis) sprechen darin über Arbeit, Elternschaft und Verletzungen; der Ton lässt verschiedene Deutungen der späteren Gewalt zu.",
+      "anchor": "Ein privater Streit wird öffentlich ausgelegt.",
+      "interest": "Ein privater Streit wird öffentlich ausgelegt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "In welcher gemeinsamen Sprache kommunizieren Sandra und Samuel überwiegend in @?",
+      "answers": [
+        "Englisch",
+        "Italienisch",
+        "Spanisch",
+        "Russisch"
+      ],
+      "feedback": [
+        "Das Paar verständigt sich auf Englisch.",
+        "Italienisch bildet nicht ihre Verständigungssprache.",
+        "Spanisch wird nicht zur gemeinsamen Paarsprache.",
+        "Russisch ist nicht der gemeinsame Nenner."
+      ],
+      "short": "Das Paar verständigt sich auf Englisch.",
+      "context": "Das Paar verständigt sich auf Englisch. Sandra (Sandra Hüller) ist Deutsche, Samuel (Samuel Theis) Franzose; eine dritte Sprache vermittelt zwischen beiden und spielt auch im französischen Prozess eine Rolle.",
+      "anchor": "Die Paarsprache ist eine dritte Sprache.",
+      "interest": "Die Paarsprache ist eine dritte Sprache.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wozu gibt Daniel (Milo Machado-Graner) dem Hund Snoop in @ Aspirin?",
+      "answers": [
+        "Um die Erklärung einer früheren Vergiftung zu prüfen",
+        "Um einen vermuteten Medikamentenfehler des Tierarztes zu prüfen",
+        "Um Samuels letzten Spaziergang nachzustellen",
+        "Um eine angebliche Vergiftung durch Sandra zu beweisen"
+      ],
+      "feedback": [
+        "Daniel prüft, ob Aspirin die frühere Erkrankung des Hundes erklären könnte.",
+        "Daniel prüft Samuels frühere Vergiftungserklärung.",
+        "Ein Spaziergang wird nicht nachgestellt.",
+        "Das Experiment richtet sich nicht auf einen Medikamentenangriff Sandras auf den Hund."
+      ],
+      "short": "Daniel prüft, ob Aspirin die frühere Erkrankung des Hundes erklären könnte.",
+      "context": "Daniel (Milo Machado-Graner) prüft, ob Aspirin die frühere Erkrankung des Hundes erklären könnte. Damit untersucht er Sandras (Sandra Hüller) Bericht über Samuels Überdosierung; sein gefährlicher Versuch beeinflusst seine Sicht auf den Fall.",
+      "anchor": "Daniels Versuch verbindet den Hund mit der Suizidhypothese.",
+      "interest": "Daniels Versuch verbindet den Hund mit der Suizidhypothese.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Gewissheit liefert der Freispruch am Ende von @?",
+      "answers": [
+        "Ein juristisches Urteil, keine gezeigte Rekonstruktion des Todes",
+        "Eine ausdrückliche Bestätigung des Selbstmords",
+        "Eine sichere Widerlegung jeder Unstimmigkeit in Sandras Aussage",
+        "Eine nachgestellte Unfallszene als endgültige Wahrheit"
+      ],
+      "feedback": [
+        "Der Freispruch entscheidet die Anklage, zeigt aber keinen zweifelsfreien tatsächlichen Ablauf.",
+        "Ein Selbstmord wird nicht abschließend bewiesen.",
+        "Der Freispruch beseitigt nicht jedes Deutungsproblem.",
+        "Der Tod wird nicht endgültig rekonstruiert."
+      ],
+      "short": "Der Freispruch entscheidet die Anklage, zeigt aber keinen zweifelsfreien tatsächlichen Ablauf.",
+      "context": "Der Freispruch entscheidet die Anklage, zeigt aber keinen zweifelsfreien tatsächlichen Ablauf. Sandra (Sandra Hüller) und Daniel (Milo Machado-Graner) müssen nach dem Urteil wieder miteinander leben.",
+      "anchor": "Freispruch und vollständige Gewissheit sind verschieden.",
+      "interest": "Freispruch und vollständige Gewissheit sind verschieden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2023",
+        "2021",
+        "2018",
+        "2024"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2023.",
+        "2021 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2018 liegt fünf Jahre davor.",
+        "2024 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2023 erstmals veröffentlicht.",
+      "context": "2023 gewann der Film bei seiner Cannes-Premiere die Goldene Palme. Das Drehbuch erhielt 2024 den Oscar; zwischen Erstveröffentlichung und Oscar-Verleihung liegt ein Jahr. Dieser Abstand trennt das Filmjahr vom späteren Auszeichnungsjahr.",
+      "anchor": "Dem Cannes-Film von 2023 folgte ein Jahr später, 2024, der Drehbuch-Oscar.",
+      "interest": "Dem Cannes-Film von 2023 folgte ein Jahr später, 2024, der Drehbuch-Oscar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Justine Triet",
+        "Alice Diop",
+        "Céline Sciamma",
+        "Rebecca Zlotowski"
+      ],
+      "feedback": [
+        "Justine Triet führte Regie.",
+        "Alice Diop führte bei diesem Film nicht Regie.",
+        "Céline Sciamma führte bei diesem Film nicht Regie.",
+        "Rebecca Zlotowski führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Justine Triet.",
+      "context": "Triet schrieb mit Arthur Harari und entwickelte die Hauptrolle für Sandra (Sandra Hüller) Hüller. Die beiden hatten zuvor bei Sibyl zusammengearbeitet; die neue Rolle verbindet fremde Sprache, Paarbeziehung und öffentlichen Prozess.",
+      "anchor": "Triet schrieb mit Arthur Harari und entwickelte die Hauptrolle für Sandra Hüller.",
+      "interest": "Triet schrieb mit Arthur Harari und entwickelte die Hauptrolle für Sandra Hüller.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

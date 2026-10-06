@@ -1,0 +1,212 @@
+{
+  "rank": 90,
+  "directors": [
+    "Robert Wise"
+  ],
+  "production_countries": [
+    "USA",
+    "Vereinigtes Königreich"
+  ],
+  "familiarity_reason": "Prägender klassischer Spukhausfilm, besonders Genrefilmkennern vertraut.",
+  "release_note": "US-Start 18. September 1963; britischer Start 1964.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Haunting_(1963_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum lädt Dr Markway die Gruppe in @ nach Hill House ein?",
+      "answers": [
+        "Er will mögliche paranormale Vorgänge untersuchen.",
+        "Er will die psychische Belastbarkeit Freiwilliger ohne Spukbezug testen.",
+        "Er will den baulichen Zustand für einen Verkauf begutachten.",
+        "Er will dort die Geschichte der früheren Bewohner nachstellen."
+      ],
+      "feedback": [
+        "Dr Markway (Richard Johnson) erforscht die Spukberichte.",
+        "Die Studie betrifft ausdrücklich mögliche paranormale Vorgänge.",
+        "Eine Verkaufsbegutachtung ist nicht der Auftrag.",
+        "Ein historisches Nachspiel organisiert Markway nicht."
+      ],
+      "short": "Dr Markway (Richard Johnson) erforscht die Spukberichte.",
+      "context": "Dr Markway (Richard Johnson) erforscht die Spukberichte. Eleanor (Julie Harris) und Theodora (Claire Bloom) kommen mit unterschiedlichen Erfahrungen; das Haus wird dadurch zugleich Forschungsraum und persönliche Herausforderung.",
+      "anchor": "Die Forschung bringt Menschen mit unterschiedlichen Voraussetzungen zusammen.",
+      "interest": "Die Forschung bringt Menschen mit unterschiedlichen Voraussetzungen zusammen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Erfahrung belastet Eleanor vor ihrer Ankunft in @?",
+      "answers": [
+        "Die lange Pflege und der Tod ihrer Mutter",
+        "Die Erziehung ihrer verwaisten Nichte",
+        "Ein früherer Aufenthalt in einer psychiatrischen Klinik",
+        "Der Tod ihres Mannes nach langer Krankheit"
+      ],
+      "feedback": [
+        "Eleanor (Julie Harris) hat ihre Mutter lange gepflegt.",
+        "Ihre zurückliegende Aufgabe war die Pflege der Mutter.",
+        "Eine Klinikgeschichte ist nicht die genannte Belastung.",
+        "Eleanor trauert um die Mutter, nicht einen Ehemann."
+      ],
+      "short": "Eleanor (Julie Harris) hat ihre Mutter lange gepflegt.",
+      "context": "Eleanor (Julie Harris) hat ihre Mutter lange gepflegt. Nach deren Tod trägt sie Schuldgefühle; das Haus bietet ihr daher scheinbar eine Zugehörigkeit, die sie im bisherigen Alltag vermisst.",
+      "anchor": "Die freie Zukunft bleibt von der Mutterpflege belastet.",
+      "interest": "Die freie Zukunft bleibt von der Mutterpflege belastet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum wirken Türen und Perspektiven von Hill House in @ ungewöhnlich?",
+      "answers": [
+        "Wände und Winkel stehen nicht rechtwinklig zueinander.",
+        "Die Wände sind mit verzerrenden Spiegeln verkleidet.",
+        "Alle Innenräume haben stark abschüssige Böden.",
+        "Die Fenster besitzen ausschließlich farbiges Glas."
+      ],
+      "feedback": [
+        "Die Winkel des Hauses sind verschoben.",
+        "Die verschobenen Bauwinkel sind entscheidend.",
+        "Nicht überall abschüssige Böden erklären die Türen und Perspektiven.",
+        "Farbglas erzeugt nicht die beschriebene Geometrie."
+      ],
+      "short": "Die Winkel des Hauses sind verschoben.",
+      "context": "Die Winkel des Hauses sind verschoben. Die Gruppe findet deshalb schiefe Perspektiven und sich selbst bewegende Türen; die Architektur liefert eine mögliche körperliche Grundlage der Desorientierung.",
+      "anchor": "Schiefe Winkel machen den Raum schwer einschätzbar.",
+      "interest": "Schiefe Winkel machen den Raum schwer einschätzbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welcher Schriftzug verstärkt in @ Eleanors persönliche Bindung an das Haus?",
+      "answers": [
+        "Eine Aufforderung, Eleanor nach Hause kommen zu lassen",
+        "Eine Warnung, Eleanor solle das Haus verlassen",
+        "Eine Behauptung, Eleanor habe ihre Mutter getötet",
+        "Eine Einladung an Eleanor in den Turm"
+      ],
+      "feedback": [
+        "Die Wand fordert, Eleanor nach Hause kommen zu lassen.",
+        "Die Worte fordern ihre Heimkehr, nicht ihren Weggang.",
+        "Die Wandinschrift ist kein ausdrücklicher Mordvorwurf.",
+        "Der konkrete Schriftzug verweist nicht bloß auf den Turm."
+      ],
+      "short": "Die Wand fordert, Eleanor nach Hause kommen zu lassen.",
+      "context": "Die Wand fordert, Eleanor (Julie Harris) nach Hause kommen zu lassen. Eleanor (Julie Harris) wird damit ausdrücklich angesprochen; das Forschungsobjekt scheint plötzlich einen Platz für sie beanspruchen zu wollen.",
+      "anchor": "Die Wandbotschaft macht Eleanor zum persönlichen Ziel.",
+      "interest": "Die Wandbotschaft macht Eleanor zum persönlichen Ziel.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum erschreckt Eleanor die vermeintlich gehaltene Hand in @ nachträglich?",
+      "answers": [
+        "Theodora lag nicht neben ihr und hatte ihre Hand nicht gehalten.",
+        "Theodora hatte ihr versehentlich einen Kratzer zugefügt.",
+        "Eleanor hatte in Wahrheit Lukes Hand gehalten.",
+        "Eleanor erkennt die Berührung als eigene Hand."
+      ],
+      "feedback": [
+        "Theodora (Claire Bloom) war nicht Eleanors Handhalterin.",
+        "Die Erschütterung liegt im unbekannten Urheber.",
+        "Luke wird nicht als Handhalter aufgelöst.",
+        "Die Szene beantwortet die Frage nach der fremden Hand nicht so."
+      ],
+      "short": "Theodora (Claire Bloom) war nicht Eleanors Handhalterin.",
+      "context": "Theodora (Claire Bloom) war nicht Eleanors Handhalterin. Eleanor (Julie Harris) erkennt das nach dem Erwachen; die zuvor tröstende Berührung wird dadurch zu einem unerklärten Eindringen.",
+      "anchor": "Der vermeintliche Trost hatte keinen bekannten Urheber.",
+      "interest": "Der vermeintliche Trost hatte keinen bekannten Urheber.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche frühere Todesart wiederholt Eleanors Ende in @?",
+      "answers": [
+        "Ein Wagen prallt am Haus gegen denselben Baum.",
+        "Jemand ertrinkt im Brunnen.",
+        "Ein Bewohner fällt durch das Dach.",
+        "Ein Diener wird vergiftet."
+      ],
+      "feedback": [
+        "Eleanors Wagen trifft den Baum der früheren Kutschenkatastrophe.",
+        "Ein Brunnen ist nicht die Wiederholung.",
+        "Ein Dachsturz beendet die Fahrt nicht.",
+        "Eine Vergiftung ist nicht das Ende."
+      ],
+      "short": "Eleanors Wagen trifft den Baum der früheren Kutschenkatastrophe.",
+      "context": "Eleanors Wagen trifft den Baum der früheren Kutschenkatastrophe. Eleanor (Julie Harris) bleibt damit in einer Geschichte des Hauses gefangen; die abschließenden Erklärungen der Gruppe stimmen über die Ursache nicht vollständig überein.",
+      "anchor": "Der gleiche Baum verknüpft Eleanors Tod mit dem Anfang der Hausgeschichte.",
+      "interest": "Der gleiche Baum verknüpft Eleanors Tod mit dem Anfang der Hausgeschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1963",
+        "1961",
+        "1958",
+        "1964"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1963.",
+        "1961 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1958 liegt fünf Jahre davor.",
+        "1964 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1963 erstmals veröffentlicht.",
+      "context": "1963 erschien die Adaption von Shirley Jacksons Roman aus dem Jahr 1959, vier Jahre nach der Vorlage. Eine neue Filmfassung entstand 1999, 36 Jahre später; beide dürfen beim Veröffentlichungsjahr nicht vermischt werden.",
+      "anchor": "Jacksons Roman von 1959 wurde vier Jahre später, 1963, als klassischer Spukfilm adaptiert.",
+      "interest": "Jacksons Roman von 1959 wurde vier Jahre später, 1963, als klassischer Spukfilm adaptiert.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Robert Wise",
+        "Jack Clayton",
+        "Terence Fisher",
+        "William Castle"
+      ],
+      "feedback": [
+        "Robert Wise führte Regie.",
+        "Jack Clayton hat hier keinen Regiecredit.",
+        "Terence Fisher hat hier keinen Regiecredit.",
+        "William Castle hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Robert Wise.",
+      "context": "Wise und Drehbuchautor Nelson Gidding verbanden Jacksons Spukhaus mit Eleanors psychischer Unsicherheit. Verzerrende Weitwinkelaufnahmen und ungewöhnliche Kamerabewegungen lassen den gebauten Raum selbst gegen gewöhnliche Orientierung arbeiten.",
+      "anchor": "Wise und Drehbuchautor Nelson Gidding verbanden Jacksons Spukhaus mit Eleanors psychischer Unsicherheit.",
+      "interest": "Wise und Drehbuchautor Nelson Gidding verbanden Jacksons Spukhaus mit Eleanors psychischer Unsicherheit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "rank": 183,
+  "directors": [
+    "Daniel Kwan",
+    "Daniel Scheinert"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine breit diskutierte und vielfach ausgezeichnete moderne Multiversumskomödie; redaktionell ein bekannter Film.",
+  "release_note": "Erste Veröffentlichung 2022 beim SXSW-Festival; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "studio": "https://a24films.com/films/everything-everywhere-all-at-once/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was betreibt Evelyn (Michelle Yeoh) mit ihrem Mann im Alltag von @?",
+      "answers": [
+        "Einen Waschsalon",
+        "Ein Reisebüro",
+        "Eine Tierklinik",
+        "Ein Planetarium"
+      ],
+      "feedback": [
+        "Evelyn betreibt einen Waschsalon.",
+        "Ein Reisebüro leitet sie nicht.",
+        "Sie behandelt keine Tiere beruflich.",
+        "Ein Planetarium gehört ihr nicht."
+      ],
+      "short": "Evelyn betreibt einen Waschsalon.",
+      "context": "Evelyn betreibt einen Waschsalon. Ihr Alltag ist durch Familie, Geldsorgen und eine Steuerprüfung belastet; die Multiversumsgeschichte beginnt in dieser konkreten Überforderung und verlässt ihren familiären Kern trotz aller fantastischen Möglichkeiten nicht.",
+      "anchor": "Das unübersichtliche Universum beginnt im überforderten Waschsalon.",
+      "interest": "Das unübersichtliche Universum beginnt im überforderten Waschsalon.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Behörde führt Evelyn (Michelle Yeoh) in @ in die zentrale Ausgangssituation?",
+      "answers": [
+        "Die Steuerbehörde",
+        "Die Küstenwache",
+        "Das Patentamt",
+        "Die Flugaufsicht"
+      ],
+      "feedback": [
+        "Eine Steuerprüfung bringt Evelyn zur Steuerbehörde.",
+        "Die Küstenwache prüft sie nicht.",
+        "Patente sind nicht der Anlass.",
+        "Eine Flugzulassung wird nicht bearbeitet."
+      ],
+      "short": "Eine Steuerprüfung bringt Evelyn zur Steuerbehörde.",
+      "context": "Eine Steuerprüfung bringt Evelyn zur Steuerbehörde. Deirdre (Jamie Lee Curtis) verkörpert den Druck dieser alltäglichen Aufgabe; gerade dort bricht die außerordentliche Multiversumshandlung in den scheinbar bürokratischen Alltag ein.",
+      "anchor": "Das Steuerbüro wird zur Multiversumskampfzone.",
+      "interest": "Das Steuerbüro wird zur Multiversumskampfzone.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie aktivieren Figuren in @ den Zugang zu Fähigkeiten ihrer anderen Lebensversionen?",
+      "answers": [
+        "Durch äußerst unwahrscheinliche Handlungen",
+        "Durch eine besonders routinierte Wiederholung",
+        "Durch den bloßen Blick auf einen anderen Menschen",
+        "Durch eine vorher festgelegte Standardgymnastik"
+      ],
+      "feedback": [
+        "Ungewöhnliche, statistisch unwahrscheinliche Handlungen öffnen einen anderen Lebenspfad.",
+        "Die Handlung muss gerade unwahrscheinlich sein.",
+        "Ein ungewöhnlicher Aktivierungsschritt wird benötigt.",
+        "Die Regeln verlangen gezielt abwegige Handlungen."
+      ],
+      "short": "Ungewöhnliche, statistisch unwahrscheinliche Handlungen öffnen einen anderen Lebenspfad.",
+      "context": "Ungewöhnliche, statistisch unwahrscheinliche Handlungen öffnen einen anderen Lebenspfad. Evelyn (Michelle Yeoh) kann so Fähigkeiten alternativer Versionen nutzen; die absurde Komik erhält damit eine konkrete Funktion innerhalb der fantastischen Regeln.",
+      "anchor": "Der unwahrscheinliche Schritt öffnet eine andere Möglichkeit.",
+      "interest": "Der unwahrscheinliche Schritt öffnet eine andere Möglichkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Beziehung verbindet Jobu Tupaki und Joy (Stephanie Hsu) in @?",
+      "answers": [
+        "Jobu ist Joys Version aus dem Alphaversum.",
+        "Jobu ist Joys zukünftige Tochter.",
+        "Jobu ist eine vollständig unabhängige Alpha-Agentin.",
+        "Jobu ist Evelyns junge Version."
+      ],
+      "feedback": [
+        "Jobu ist Alpha-Joy aus einem anderen Universum.",
+        "Jobu ist eine alternative Joy selbst.",
+        "Die Figur entsteht aus Joys Version im Alphaversum.",
+        "Jobu entspricht Joy, nicht Evelyn."
+      ],
+      "short": "Jobu ist Alpha-Joy aus einem anderen Universum.",
+      "context": "Jobu ist Alpha-Joy aus einem anderen Universum. Ihre gleichzeitige Wahrnehmung aller Möglichkeiten hat zu einem zerstörerischen Gefühl der Sinnlosigkeit geführt; Evelyns (Michelle Yeoh) Gegenspielerin trägt so zugleich das Gesicht ihrer eigenen Tochter.",
+      "anchor": "Die Gegenspielerin ist die überforderte alternative Tochter.",
+      "interest": "Die Gegenspielerin ist die überforderte alternative Tochter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Haltung Waymonds (Ke Huy Quan) verändert Evelyns Vorgehen in @?",
+      "answers": [
+        "Freundlichkeit als bewusste Antwort auf Konflikte",
+        "Konsequenter Rückzug aus jeder Begegnung",
+        "Überlegenheit durch perfekte Argumente",
+        "Unterordnung unter die stärkste Gegnerin"
+      ],
+      "feedback": [
+        "Waymond fordert Freundlichkeit trotz der verwirrenden Welt.",
+        "Waymond empfiehlt aktive Freundlichkeit, nicht bloßen Rückzug.",
+        "Seine Antwort ist wohlwollendes Handeln, nicht ein Debattensieg.",
+        "Freundlichkeit ist seine eigene bewusste Stärke."
+      ],
+      "short": "Waymond fordert Freundlichkeit trotz der verwirrenden Welt.",
+      "context": "Waymond fordert Freundlichkeit trotz der verwirrenden Welt. Evelyn (Michelle Yeoh) nimmt diese Haltung auf und begegnet Gegnern mit Empathie; der Sieg entsteht dadurch nicht nur aus größerer Kampfkraft.",
+      "anchor": "Waymonds Freundlichkeit verändert die Form des Kampfes.",
+      "interest": "Waymonds Freundlichkeit verändert die Form des Kampfes.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Warum möchte Jobu Tupaki (Stephanie Hsu) in @ Evelyn zum Bagel führen?",
+      "answers": [
+        "Sie sucht jemanden, der ihre Sinnlosigkeitserfahrung teilt.",
+        "Sie will Evelyns Macht für den Sieg über Alpha-Waymond nutzen.",
+        "Sie will Evelyn eine neue perfekte Lebensversion anbieten.",
+        "Sie will ihre Mutter vor Joys Erinnerungen schützen."
+      ],
+      "feedback": [
+        "Jobu sucht eine Evelyn (Michelle Yeoh), die wie sie alle Möglichkeiten und deren Leere erkennt.",
+        "Jobu sucht Verständnis für ihre nihilistische Erfahrung.",
+        "Das Zentrum ist gemeinsame Sinnlosigkeit, nicht eine makellose Alternative.",
+        "Sie möchte die Erfahrung teilen, nicht Erinnerungen abschirmen."
+      ],
+      "short": "Jobu sucht eine Evelyn (Michelle Yeoh), die wie sie alle Möglichkeiten und deren Leere erkennt.",
+      "context": "Jobu sucht eine Evelyn (Michelle Yeoh), die wie sie alle Möglichkeiten und deren Leere erkennt. Der Bagel steht für ihr Verlangen nach Auslöschung; hinter der scheinbaren Welteroberung liegt das Bedürfnis, mit dieser Erfahrung nicht allein zu sein.",
+      "anchor": "Hinter dem zerstörerischen Bagel liegt eine Suche nach Verständnis.",
+      "interest": "Hinter dem zerstörerischen Bagel liegt eine Suche nach Verständnis.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2022",
+        "2019",
+        "2015",
+        "2024"
+      ],
+      "feedback": [
+        "2022 wurde der Film beim SXSW-Festival erstmals gezeigt.",
+        "2019 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2022 wird im zeitlichen Hintergrund erklärt.",
+        "2015 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2022 wird im zeitlichen Hintergrund erklärt.",
+        "2024 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2022 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2022 wurde der Film beim SXSW-Festival erstmals gezeigt.",
+      "context": "2022 wurde der Film beim SXSW-Festival erstmals gezeigt. Das Regieduo hatte zuvor „Swiss Army Man“ von 2016 geschaffen; sechs Jahre trennen die beiden Langfilme. Hier verbindet es eine ungewöhnliche fantastische Idee erneut mit einem sehr persönlichen Beziehungskonflikt.",
+      "anchor": "Swiss Army Man 2016, Everything Everywhere All at Once 2022: Sechs Jahre später verbinden die Daniels erneut Fantastik und Beziehungen.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Daniel Kwan und Daniel Scheinert",
+        "Phil Lord und Christopher Miller",
+        "John Requa und Glenn Ficarra",
+        "Joe Russo und Anthony Russo"
+      ],
+      "feedback": [
+        "Daniel Kwan und Daniel Scheinert führten gemeinsam Regie und schrieben das Drehbuch.",
+        "Phil Lord und Christopher Miller wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Daniel Kwan und Daniel Scheinert.",
+        "John Requa und Glenn Ficarra wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Daniel Kwan und Daniel Scheinert.",
+        "Joe Russo und Anthony Russo wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Daniel Kwan und Daniel Scheinert."
+      ],
+      "short": "Daniel Kwan und Daniel Scheinert führten gemeinsam Regie und schrieben das Drehbuch.",
+      "context": "Daniel Kwan und Daniel Scheinert führten gemeinsam Regie und schrieben das Drehbuch. Sie werden als Daniels bezeichnet. Michelle Yeohs Evelyn trifft alternative Lebenswege, doch die emotionale Grundlage bleibt ihre Beziehung zu Mann und Tochter.",
+      "anchor": "Daniel Kwan und Daniel Scheinert führten gemeinsam Regie und schrieben das Drehbuch.",
+      "interest": "Daniel Kwan und Daniel Scheinert führten gemeinsam Regie und schrieben das Drehbuch.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "rank": 214,
+  "directors": [
+    "David Cronenberg"
+  ],
+  "production_countries": [
+    "USA",
+    "Kanada",
+    "Deutschland"
+  ],
+  "familiarity_reason": "Bekannter Gewalt- und Identitätsthriller mit Viggo Mortensen, auch als Graphic-Novel-Verfilmung etabliert.",
+  "release_note": "Erste Veröffentlichung 2005 beim Filmfestival Cannes; die Länder der Koproduktion sind USA, Kanada und Deutschland.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/A_History_of_Violence",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/A_History_of_Violence",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "zeitbezug": {
+      "url": "https://en.wikipedia.org/wiki/Eastern_Promises",
+      "supports": "Gelesener Artikel des ebenfalls redigierten Rangs 215: Filmjahr und konkrete Gegenstandsverbindung im Jahreskontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Geschäft betreibt Tom in @?",
+      "answers": [
+        "Ein Diner",
+        "Eine Tankstelle",
+        "Ein Waffenladen",
+        "Ein Bestattungsinstitut"
+      ],
+      "feedback": [
+        "Tom Stall (Viggo Mortensen) führt ein Diner in einer Kleinstadt in Indiana.",
+        "Er betreibt keine Tankstelle.",
+        "Der Beruf hat zunächst nichts mit Waffenhandel zu tun.",
+        "Er ist kein Bestatter."
+      ],
+      "short": "Tom Stall (Viggo Mortensen) führt ein Diner in einer Kleinstadt in Indiana.",
+      "context": "Tom Stall (Viggo Mortensen) führt ein Diner in einer Kleinstadt in Indiana. Seine scheinbar gewöhnliche Existenz wird durch einen Überfall und die folgende öffentliche Aufmerksamkeit erschüttert.",
+      "anchor": "Das Kleinstadt-Diner wird zum Schauplatz einer verborgenen Vergangenheit.",
+      "interest": "Das Kleinstadt-Diner wird zum Schauplatz einer verborgenen Vergangenheit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wodurch wird Tom in @ landesweit bekannt?",
+      "answers": [
+        "Er tötet zwei bewaffnete Räuber und rettet eine Angestellte",
+        "Er gewinnt eine Wahl zum Bürgermeister",
+        "Er sagt in einem Mafia-Prozess aus",
+        "Er überlebt einen schweren Autounfall"
+      ],
+      "feedback": [
+        "Tom Stall (Viggo Mortensen) stoppt einen Überfall, als die Täter eine Bedienung bedrohen.",
+        "Eine Wahl bringt ihn nicht in die Nachrichten.",
+        "Er tritt zunächst nicht als Zeuge auf.",
+        "Ein Unfall löst die Bekanntheit nicht aus."
+      ],
+      "short": "Tom Stall (Viggo Mortensen) stoppt einen Überfall, als die Täter eine Bedienung bedrohen.",
+      "context": "Tom Stall (Viggo Mortensen) stoppt einen Überfall, als die Täter eine Bedienung bedrohen. Sein präzises, tödliches Handeln macht ihn zum gefeierten Helden und damit für frühere Bekannte auffindbar.",
+      "anchor": "Die Heldengeschichte bringt Aufmerksamkeit und Gefahr.",
+      "interest": "Die Heldengeschichte bringt Aufmerksamkeit und Gefahr.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum sucht der Gangster Carl Fogarty Tom in @ auf?",
+      "answers": [
+        "Er erkennt in ihm einen früheren Auftragsmörder",
+        "Er möchte das Diner kaufen",
+        "Er verlangt Schutzgeld für die Stadt",
+        "Er ist sein unbekannter Halbbruder"
+      ],
+      "feedback": [
+        "Carl Fogarty (Ed Harris) behauptet, Tom (Viggo Mortensen) sei Joey Cusack aus Philadelphia.",
+        "Ein Kaufangebot ist kein Anlass.",
+        "Die Begegnung ist kein gewöhnlicher Schutzgeldbesuch.",
+        "Fogarty ist nicht Toms Bruder."
+      ],
+      "short": "Carl Fogarty (Ed Harris) behauptet, Tom (Viggo Mortensen) sei Joey Cusack aus Philadelphia.",
+      "context": "Carl Fogarty (Ed Harris) behauptet, Tom (Viggo Mortensen) sei Joey Cusack aus Philadelphia. Tom bestreitet dies, aber die Anschuldigung bringt seine Familie gegen seine bisherige Lebensgeschichte auf.",
+      "anchor": "Fogarty stellt Toms Familienidentität infrage.",
+      "interest": "Fogarty stellt Toms Familienidentität infrage.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was macht den Streit über Gewalt zwischen Tom und seinem Sohn in @ widersprüchlich?",
+      "answers": [
+        "Tom verurteilt Prügel, setzt selbst aber tödliche Gewalt ein",
+        "Tom verlangt, dass der Sohn Polizist wird",
+        "Der Sohn will ausschließlich vor Gericht kämpfen",
+        "Beide streiten über den Verkauf von Waffen"
+      ],
+      "feedback": [
+        "Tom (Viggo Mortensen) kritisiert Jack (Ashton Holmes), der einen Schulschläger verprügelt hat.",
+        "Ein Polizeiberuf ist nicht der Streitpunkt.",
+        "Jack führt keinen Rechtsstreit.",
+        "Sie betreiben keinen Waffenhandel."
+      ],
+      "short": "Tom (Viggo Mortensen) kritisiert Jack (Ashton Holmes), der einen Schulschläger verprügelt hat.",
+      "context": "Tom (Viggo Mortensen) kritisiert Jack (Ashton Holmes), der einen Schulschläger verprügelt hat. Seine eigene Gewaltbereitschaft untergräbt die väterliche Forderung und prägt Jacks spätere Reaktion auf Fogarty.",
+      "anchor": "Der Vater fordert Gewaltverzicht, den seine Taten nicht einlösen.",
+      "interest": "Der Vater fordert Gewaltverzicht, den seine Taten nicht einlösen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum scheitert Toms Versöhnungsversuch bei seinem Bruder in @?",
+      "answers": [
+        "Der Bruder lässt ihn wegen alter Mafiafolgen töten",
+        "Der Bruder hält ihn für einen Polizeispitzel",
+        "Der Bruder erkennt ihn nicht wieder",
+        "Der Bruder verweigert jede Begegnung"
+      ],
+      "feedback": [
+        "Richie Cusack (William Hurt) macht Tom (Viggo Mortensen) für eigene Nachteile in der Mafia verantwortlich.",
+        "Ein konkreter Spitzelverdacht ist nicht Richies Begründung.",
+        "Richie weiß, wer vor ihm steht.",
+        "Die Brüder treffen sich tatsächlich."
+      ],
+      "short": "Richie Cusack (William Hurt) macht Tom (Viggo Mortensen) für eigene Nachteile in der Mafia verantwortlich.",
+      "context": "Richie Cusack (William Hurt) macht Tom (Viggo Mortensen) für eigene Nachteile in der Mafia verantwortlich. Das Treffen in Philadelphia wird zum Mordversuch, den Tom nur durch neue Gewalt überlebt.",
+      "anchor": "Die alte Schuld verwandelt die Heimkehr in eine Falle.",
+      "interest": "Die alte Schuld verwandelt die Heimkehr in eine Falle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie empfängt die Familie Tom in der letzten Szene von @?",
+      "answers": [
+        "Schweigend; die Kinder reichen ihm Geschirr und Essen",
+        "Mit einer gemeinsam vorbereiteten Flucht",
+        "Mit einem öffentlichen Geständnis vor Nachbarn",
+        "Mit einer schriftlichen Scheidungsvereinbarung"
+      ],
+      "feedback": [
+        "Tom (Viggo Mortensen) kehrt an den Esstisch zurück.",
+        "Eine Flucht wird nicht vorbereitet.",
+        "Nachbarn hören kein Geständnis.",
+        "Die Szene zeigt keine Scheidungsurkunde."
+      ],
+      "short": "Tom (Viggo Mortensen) kehrt an den Esstisch zurück.",
+      "context": "Tom (Viggo Mortensen) kehrt an den Esstisch zurück. Sarah (Heidi Hayes) reicht ihm einen Teller, Jack (Ashton Holmes) Nahrung; die wortlose Geste eröffnet eine unsichere Möglichkeit des Zusammenlebens, ohne das Vertrauen einfach wiederherzustellen.",
+      "anchor": "Der gedeckte Tisch erlaubt Rückkehr, ohne Versöhnung zu garantieren.",
+      "interest": "Der gedeckte Tisch erlaubt Rückkehr, ohne Versöhnung zu garantieren.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2005",
+        "2002",
+        "1998",
+        "2007"
+      ],
+      "feedback": [
+        "2005 erschien der Film.",
+        "2002 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2005 wird im zeitlichen Hintergrund erklärt.",
+        "1998 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2005 wird im zeitlichen Hintergrund erklärt.",
+        "2007 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2005 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2005 erschien der Film.",
+      "context": "2005 erschien der Film. Zwei Jahre später folgte 2007 Tödliche Versprechen, erneut mit David Cronenberg und Viggo Mortensen und einer verborgenen Identität im Milieu organisierter Gewalt.",
+      "anchor": "A History of Violence 2005, Tödliche Versprechen 2007: Zwei Jahre später untersuchen Cronenberg und Mortensen erneut eine verborgene Identität.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten",
+        "zeitbezug"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "David Cronenberg",
+        "John Schlesinger",
+        "Roman Polanski",
+        "David Fincher"
+      ],
+      "feedback": [
+        "David Cronenberg führte Regie nach einem Drehbuch von Josh Olson.",
+        "John Schlesinger wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet David Cronenberg.",
+        "Roman Polanski wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet David Cronenberg.",
+        "David Fincher wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet David Cronenberg."
+      ],
+      "short": "David Cronenberg führte Regie nach einem Drehbuch von Josh Olson.",
+      "context": "David Cronenberg führte Regie nach einem Drehbuch von Josh Olson. Die Adaption einer Graphic Novel verlagert ihre Spannung auf das Familienleben und die körperlichen Folgen einer verdrängten Vergangenheit.",
+      "anchor": "David Cronenberg führte Regie nach einem Drehbuch von Josh Olson.",
+      "interest": "David Cronenberg führte Regie nach einem Drehbuch von Josh Olson.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

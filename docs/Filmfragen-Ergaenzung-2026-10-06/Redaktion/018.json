@@ -1,0 +1,217 @@
+{
+  "rank": 18,
+  "directors": [
+    "Ben Stiller"
+  ],
+  "production_countries": [
+    "Australien",
+    "Kanada",
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "familiarity_reason": "Ein bekannter Film mit Ben Stiller; Bildrätsel und Medienbezüge erfordern genaueres Erinnern.",
+  "release_note": "Premiere beim New York Film Festival am 5. Oktober 2013; von der Danny-Kaye-Fassung von 1947 unterscheiden.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Secret_Life_of_Walter_Mitty_(2013_film)",
+    "studio": "https://www.20thcenturystudios.com/movies/the-secret-life-of-walter-mitty",
+    "life": "https://time.com/3491113/walter-mitty-and-the-life-magazine-covers-that-never-were/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Arbeit erledigt Walter Mitty (Ben Stiller) in der neueren Fassung von @ für Life?",
+      "answers": [
+        "Er verwaltet die Foto-Negative.",
+        "Er leitet die Kantine.",
+        "Er berichtet als Auslandskorrespondent.",
+        "Er verkauft die Firmengebäude."
+      ],
+      "feedback": [
+        "Walter betreut das analoge Bildmaterial.",
+        "Die Kantine ist nicht sein Arbeitsplatz.",
+        "Er ist zunächst kein reisender Korrespondent.",
+        "Gebäudeverkauf gehört nicht zu seiner Aufgabe."
+      ],
+      "short": "Walter verwaltet die Foto-Negative der Zeitschrift.",
+      "context": "Walter kennt die Bilder anderer Menschen, ohne selbst viel zu reisen. Der Verlust eines wichtigen Negativs macht aus dem bisher stillen Mitarbeiter einen Suchenden. Seine Arbeit liefert den Ausgangspunkt des Abenteuers.",
+      "anchor": "Walter kennt fremde Bilder und muss für ein fehlendes Bild selbst reisen.",
+      "interest": "Der Beruf begründet die spätere Grenzüberschreitung der Figur.",
+      "sources": [
+        "handlung",
+        "life"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was setzt Walters (Ben Stiller) Suche in @ in Gang?",
+      "answers": [
+        "Ein fehlendes Foto für die letzte gedruckte Life-Ausgabe",
+        "Ein verschwundener Vertrag über die Zukunft des Magazins",
+        "Ein verlorener Hinweis auf einen manipulierten Fotopreis",
+        "Eine nicht auffindbare Reportage für die erste Online-Ausgabe"
+      ],
+      "feedback": [
+        "Das fehlende Negativ wird dringend für die letzte Ausgabe gebraucht.",
+        "Walter sucht ein Bildnegativ für die letzte gedruckte Ausgabe.",
+        "Ein manipulierter Fotopreis setzt die Suche nicht in Gang.",
+        "Das konkrete Problem betrifft das fehlende Titelbild der letzten Printausgabe."
+      ],
+      "short": "Ein fehlendes Negativ soll das letzte gedruckte Cover liefern.",
+      "context": "Sean O’Connell (Sean Penn) hält das Foto für besonders geeignet. Walter findet es zunächst nicht und sucht nach dem Fotografen. Der Medienwechsel setzt seine vertraute Arbeit zugleich unter Zeitdruck.",
+      "anchor": "Das letzte Printcover braucht das fehlende Negativ.",
+      "interest": "Die Suchaufgabe erklärt die Bedeutung des Fotoverlusts.",
+      "sources": [
+        "handlung",
+        "life"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wo hatte Sean O’Connell (Sean Penn) das vermisste Negativ in @ versteckt?",
+      "answers": [
+        "In der geschenkten Geldbörse",
+        "Im Sattel eines Fahrrads",
+        "In einem Schuhkarton im Verlag",
+        "In Walters Reisepass"
+      ],
+      "feedback": [
+        "Sean hatte das Negativ in der Geldbörse untergebracht.",
+        "Ein Fahrradsattel enthält es nicht.",
+        "Der Verlagsschuhkarton ist nicht das Versteck.",
+        "Walters Pass enthält es nicht."
+      ],
+      "short": "Das Negativ steckt in Seans Geschenk, einer Geldbörse.",
+      "context": "Walter (Ben Stiller) hatte das Geschenk weggeworfen, bevor seine Mutter Edna (Shirley MacLaine) es rettete. Der gesuchte Gegenstand war damit viel näher als die Reiseziele, denen er folgte.",
+      "anchor": "Der ferne Fotograf hatte das Bild im nahen Geschenk versteckt.",
+      "interest": "Die Auflösung verbindet die Reise mit einem übersehenen Alltagsgegenstand.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Welches vertraute Objekt erkennt Walter (Ben Stiller) in @ auf einem der weiteren Negative?",
+      "answers": [
+        "Den Flügel seiner Mutter",
+        "Die Druckmaschine des Verlags",
+        "Sein Fahrradschloss",
+        "Cheryls Bürostuhl"
+      ],
+      "feedback": [
+        "Die Form passt zum Flügel im Haus seiner Mutter.",
+        "Die Druckmaschine ist nicht das erkannte Objekt.",
+        "Ein Fahrradschloss löst diesen Bildhinweis nicht.",
+        "Cheryls Bürostuhl führt nicht zu dem Besuch zu Hause."
+      ],
+      "short": "Walter erkennt den Flügel seiner Mutter.",
+      "context": "Walter findet die vertraute Form im Haus von Edna (Shirley MacLaine). Sie erzählt ihm, dass Sean O’Connell (Sean Penn) dort war. Ein Bildhinweis verbindet den vermeintlich entfernten Fotografen überraschend mit Walters eigenem Zuhause.",
+      "anchor": "Ednas Flügel verbindet das Bildrätsel mit Walters Zuhause.",
+      "interest": "Ein konkreter Bildhinweis korrigiert Walters Annahme über den entfernten Fotografen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum drückt Sean O’Connell (Sean Penn) in @ beim Schneeleoparden nicht sofort auf den Auslöser?",
+      "answers": [
+        "Er möchte den besonderen Augenblick selbst erleben.",
+        "Seine Kamera hat keine weitere Filmrolle.",
+        "Er befürchtet, das Auslösegeräusch werde das Tier vertreiben.",
+        "Er hat den Leoparden bereits am Vortag fotografiert."
+      ],
+      "feedback": [
+        "Sean lässt den Augenblick bewusst ohne Aufnahme auf sich wirken.",
+        "Er entscheidet sich bewusst dafür, den Augenblick zu erleben.",
+        "Seine Erklärung gilt dem eigenen Erleben, nicht dem Kamerageräusch.",
+        "Ein früheres Foto erklärt seine Entscheidung in dieser Szene nicht."
+      ],
+      "short": "Sean möchte den Augenblick manchmal ohne fotografische Vermittlung erleben.",
+      "context": "Walter (Ben Stiller) sucht ein bestimmtes Bild. Der Fotograf führt ihm dagegen vor, dass nicht jeder wertvolle Moment in eine Aufnahme verwandelt werden muss. Die Szene verbindet Walters Reise mit seiner veränderten Aufmerksamkeit.",
+      "anchor": "Sean sieht den Schneeleoparden und behält den Moment auch ohne Foto.",
+      "interest": "Die Entscheidung vertieft das zentrale Verhältnis zwischen Bildern und Erleben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Was unterscheidet die im Film gezeigte letzte wöchentliche Life-Printausgabe von der realen Mediengeschichte?",
+      "answers": [
+        "Die reale wöchentliche Ausgabe endete bereits Jahrzehnte vor dem Film.",
+        "Die reale letzte Wochen-Ausgabe erschien erst nach dem Film.",
+        "Die reale letzte Wochen-Ausgabe hatte Walter Mitty auf dem Titel.",
+        "Die reale Wochen-Ausgabe lief nach diesem Jahr noch regelmäßig weiter."
+      ],
+      "feedback": [
+        "Das reale Wochenmagazin endete 1972; der Film nutzt eine veränderte Gegenwart.",
+        "Die reale Wochen-Ausgabe endete schon 1972, vor dem Film von 2013.",
+        "Walter ist eine Filmfigur; das gezeigte Titelbild ist für die Filmhandlung gestaltet.",
+        "Die reale Wochen-Ausgabe war bereits Jahrzehnte zuvor beendet worden."
+      ],
+      "short": "Der Film verlegt den Abschied von der wöchentlichen Printwelt in eine fiktionale Gegenwart.",
+      "context": "Die reale wöchentliche Life-Ausgabe endete 1972. Der Film erschien 2013 und nutzt die Redaktion als Gegenwartsschauplatz. Seine Coverbilder dienen der Erzählung und sind keine unveränderte Chronik der Zeitschrift.",
+      "anchor": "Das Film-Life ist eine erzählte Redaktion mit veränderter Medienchronologie.",
+      "interest": "Der Quellenabgleich trennt erzählten Medienwandel von tatsächlicher Geschichte.",
+      "sources": [
+        "life"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde die Fassung von @ mit Ben Stiller und Kristen Wiig erstmals veröffentlicht?",
+      "answers": [
+        "2013",
+        "1947",
+        "2001",
+        "2019"
+      ],
+      "feedback": [
+        "Die Premiere dieser Fassung war 2013.",
+        "1947 erschien die ältere Fassung mit Danny Kaye.",
+        "2001 ist für diese Fassung zu früh.",
+        "2019 liegt nach ihrem ersten Kinostart."
+      ],
+      "short": "Ben Stillers Fassung wurde 2013 erstmals veröffentlicht.",
+      "context": "Die frühere Verfilmung mit Danny Kaye erschien 1947. Ben Stillers Film folgte 2013, sechsundsechzig Jahre später. Die wiederkehrende Idee des Tagträumers verbindet zwei klar getrennte Filmfassungen.",
+      "anchor": "1947 Danny Kaye, 2013 Ben Stiller: sechsundsechzig Jahre zwischen den Fassungen.",
+      "interest": "Der Vergleich mit der älteren Fassung bietet einen konkreten Zeitanker.",
+      "sources": [
+        "handlung",
+        "studio",
+        "life"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Fassung von @ mit Kristen Wiig als Cheryl Melhoff Regie?",
+      "answers": [
+        "Ben Stiller",
+        "Shawn Levy",
+        "Steve Conrad",
+        "Sean Penn"
+      ],
+      "feedback": [
+        "Stiller inszenierte und spielte Walter.",
+        "Levy führte bei dieser Fassung nicht Regie.",
+        "Conrad schrieb das Drehbuch.",
+        "Penn spielte den Fotografen Sean O’Connell."
+      ],
+      "short": "Ben Stiller führte Regie und spielte die Hauptfigur.",
+      "context": "Steve Conrad schrieb das Drehbuch, während Stiller Walter verkörperte und die Inszenierung übernahm. Die Doppelaufgabe verbindet die sichtbare Hauptrolle mit der Gestaltung seiner Tagträume und realen Reisen.",
+      "anchor": "Stiller spielt und inszeniert Walter; Conrad schreibt.",
+      "interest": "Die Doppelaufgabe wird am konkreten Film eingeordnet.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

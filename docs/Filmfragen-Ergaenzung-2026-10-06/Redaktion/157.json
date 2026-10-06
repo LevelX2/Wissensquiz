@@ -1,0 +1,219 @@
+{
+  "rank": 157,
+  "directors": [
+    "Todd Haynes"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "familiarity_reason": "Kultfilm über Glamrock, besonders vertraut unter Musikfans und Cineasten; als Entdeckung eingeordnet.",
+  "release_note": "Cannes-Premiere am 22. Mai 1998; britischer und US-Kinostart im Herbst 1998.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Velvet_Goldmine",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/velvet_goldmine/",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was hat Brian Slade (Jonathan Rhys Meyers) in @ bei einem Konzert inszeniert?",
+      "answers": [
+        "Seine eigene Ermordung",
+        "Seinen plötzlichen Ausstieg aus der Musikszene als spontane Entscheidung",
+        "Eine schwere Bühnenverletzung, die als Unfall ausgegeben wird",
+        "Eine fingierte Festnahme durch echte Polizeibeamte"
+      ],
+      "feedback": [
+        "Slade hat einen Mord an sich als Werbeaktion vorgetäuscht.",
+        "Slade inszeniert einen tödlichen Anschlag auf sich selbst.",
+        "Es geht um eine vorgetäuschte Ermordung, keine bloße Verletzung.",
+        "Eine angebliche Festnahme ist nicht der Skandal."
+      ],
+      "short": "Slade hat einen Mord an sich als Werbeaktion vorgetäuscht.",
+      "context": "Brian Slade (Jonathan Rhys Meyers) bricht seine öffentliche Karriere mit einer inszenierten Tötung ab. Die Enttäuschung der Fans über die Täuschung führt zum Niedergang. Das spätere Verschwinden wird deshalb nicht als einfacher ungelöster Mordfall untersucht, sondern als Folge einer zerstörten Starrolle.",
+      "anchor": "Der inszenierte Tod zerstört Slades Glaubwürdigkeit.",
+      "interest": "Der inszenierte Tod zerstört Slades Glaubwürdigkeit.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Aufgabe erhält Arthur Stuart (Christian Bale) in @?",
+      "answers": [
+        "Er soll über das Verschwinden eines früheren Glamrockstars recherchieren.",
+        "Er soll eine neue Band für ein Label zusammenstellen.",
+        "Er soll einen Konzertfilm schneiden.",
+        "Er soll das Kostümarchiv eines Theaters katalogisieren."
+      ],
+      "feedback": [
+        "Arthur recherchiert für einen Zeitungsartikel über Brian Slade.",
+        "Eine Bandzusammenstellung ist nicht sein Auftrag.",
+        "Er montiert keinen Konzertfilm.",
+        "Ein Theaterarchiv ist nicht seine Aufgabe."
+      ],
+      "short": "Arthur recherchiert für einen Zeitungsartikel über Brian Slade.",
+      "context": "Arthur Stuart (Christian Bale) arbeitet als Journalist in New York. Die Recherche führt ihn zu früheren Weggefährten Brian Slades (Jonathan Rhys Meyers). Weil Arthur selbst Fan war, rufen ihre Erzählungen auch seine eigenen Erinnerungen und Konflikte hervor.",
+      "anchor": "Der Reporter sucht einen Star und findet seine eigene Vergangenheit.",
+      "interest": "Der Reporter sucht einen Star und findet seine eigene Vergangenheit.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Bühnenpersona nimmt Brian Slade in @ für seinen Glamrockaufstieg an?",
+      "answers": [
+        "Maxwell Demon",
+        "Tommy Gnosis",
+        "Ziggy Stardust",
+        "Johnny Favorite"
+      ],
+      "feedback": [
+        "Slades androgynes Alter Ego heißt Maxwell Demon.",
+        "Tommy Gnosis gehört zu Hedwigs Geschichte.",
+        "Ziggy Stardust ist David Bowies Persona, nicht Slades Name.",
+        "Johnny Favorite ist nicht sein Glamrockalterego."
+      ],
+      "short": "Slades androgynes Alter Ego heißt Maxwell Demon.",
+      "context": "Brian Slade (Jonathan Rhys Meyers) wechselt vom wenig erfolgreichen Folksänger zur künstlichen Weltraumfigur. Kleidung, Auftreten und offene Bisexualität werden Bestandteil der öffentlichen Rolle. Der Aufstieg entsteht damit aus einer bewusst entworfenen Identität, deren Verhältnis zur Person hinter ihr unsicher bleibt.",
+      "anchor": "Maxwell Demon macht aus Slade eine gestaltete Weltraumfigur.",
+      "interest": "Maxwell Demon macht aus Slade eine gestaltete Weltraumfigur.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche persönliche Rolle hat Arthur Stuart (Christian Bale) in der Geschichte von @, die seine Recherche beeinflusst?",
+      "answers": [
+        "Er war als Jugendlicher selbst Fan der untersuchten Glamrockszene.",
+        "Er war Slades erster Plattenproduzent.",
+        "Er hatte Slades Werbemord organisiert.",
+        "Er war Curt Wilds leiblicher Bruder."
+      ],
+      "feedback": [
+        "Arthur hat die Szene als jugendlicher Fan erlebt.",
+        "Er war nicht Slades erster Produzent.",
+        "Er plante den vorgetäuschten Mord nicht.",
+        "Eine biologische Brüderschaft mit Wild besteht nicht."
+      ],
+      "short": "Arthur hat die Szene als jugendlicher Fan erlebt.",
+      "context": "Arthur Stuart (Christian Bale) erinnert sich an seine Begeisterung für Brian Slade und Curt Wild. Der Reporter rekonstruiert daher keinen völlig fremden Gegenstand. Interviews und Erinnerungen überlagern sich; die Musik hatte ihm früher eine Möglichkeit eröffnet, die Enge des Elternhauses zu verlassen.",
+      "anchor": "Arthurs Fanerinnerung gehört zu der Geschichte, die er recherchiert.",
+      "interest": "Arthurs Fanerinnerung gehört zu der Geschichte, die er recherchiert.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Verbindung erkennt Arthur in @ zwischen Brian Slade und dem Popstar Tommy Stone?",
+      "answers": [
+        "Tommy Stone ist Slades neue öffentliche Identität.",
+        "Tommy Stone ist Slades Sohn.",
+        "Tommy Stone hat Slade tatsächlich ermordet.",
+        "Tommy Stone ist nur ein Name der Zeitung."
+      ],
+      "feedback": [
+        "Arthur erkennt hinter Tommy Stone den verschwundenen Brian Slade.",
+        "Ein Sohn ist nicht die enthüllte Beziehung.",
+        "Stone ist nicht der tatsächliche Mörder.",
+        "Der Name bezeichnet eine öffentliche Figur, keine Zeitung."
+      ],
+      "short": "Arthur erkennt hinter Tommy Stone den verschwundenen Brian Slade.",
+      "context": "Brian Slade (Jonathan Rhys Meyers) wird mit einer neuen, angepassten Popfigur verbunden. Der Wechsel vom provokanten Glamrockimage zum konservativen Starbild legt die Veränderbarkeit öffentlicher Identität offen. Die verschwundene Person ist damit nicht einfach verschwunden, sondern unter einem anderen Bild präsent.",
+      "anchor": "Slades Verschwinden endet in einer neu erfundenen Staridentität.",
+      "interest": "Slades Verschwinden endet in einer neu erfundenen Staridentität.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Mit wem wird die grüne Brosche verbunden, die Curt Wild Arthur in @ überlässt?",
+      "answers": [
+        "Oscar Wilde",
+        "Walt Whitman",
+        "Arthur Rimbaud",
+        "Freddie Mercury"
+      ],
+      "feedback": [
+        "Die Brosche wird als früheres Eigentum Oscar Wildes erzählt.",
+        "Whitman ist nicht der genannte frühere Besitzer.",
+        "Rimbaud ist nicht die zugeordnete Person.",
+        "Mercury ist nicht der Ursprung dieser Broschenerzählung."
+      ],
+      "short": "Die Brosche wird als früheres Eigentum Oscar Wildes erzählt.",
+      "context": "Curt Wild (Ewan McGregor) gibt Arthur Stuart (Christian Bale) die grüne Brosche. Das Objekt verbindet verschiedene Zeiten und Künstlerbilder miteinander. Statt die Spur des Stars nur durch berufliche Daten zu schließen, lässt der Film einen symbolischen Gegenstand von einer Person zur nächsten wandern.",
+      "anchor": "Die grüne Brosche verbindet Glamrock mit einer älteren Geschichte von Abweichung und Kunst.",
+      "interest": "Die grüne Brosche verbindet Glamrock mit einer älteren Geschichte von Abweichung und Kunst.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1998",
+        "1994",
+        "1997",
+        "2001"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1998.",
+        "1994 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1997 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2001 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1998.",
+      "context": "Velvet Goldmine erschien 1998. Die Recherchehandlung spielt 1984, vierzehn Jahre vor der Veröffentlichung, und blickt wiederum auf die Glamrockzeit der frühen 1970 er zurück. Die verschachtelten Zeiträume machen Erinnerung selbst zum Thema: Ein Reporter untersucht nicht nur einen verschwundenen Star, sondern auch die eigene Jugend.",
+      "anchor": "Recherchehandlung 1984, Film 1998: vierzehn Jahre Abstand zu Arthurs Erinnerungssuche.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Recherchehandlung 1984, Film 1998: vierzehn Jahre Abstand zu Arthurs Erinnerungssuche.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Todd Haynes",
+        "Jim Jarmusch",
+        "Gus Van Sant",
+        "John Cameron Mitchell"
+      ],
+      "feedback": [
+        "Todd Haynes führte Regie.",
+        "Jim Jarmusch gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Gus Van Sant gehört nicht zum Regiecredit dieser Filmfassung.",
+        "John Cameron Mitchell gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Todd Haynes.",
+      "context": "Todd Haynes schrieb und führte Regie. Die Musikerfiguren sind fiktional, obwohl sie erkennbare Bezüge zur Glamrockgeschichte besitzen. Er erzählt den Star durch Interviews und Rückblenden eines Journalisten; dessen persönliche Erinnerung verhindert eine scheinbar neutrale, vollständige Musikerbiografie.",
+      "anchor": "Todd Haynes: Die Musikerfiguren sind fiktional, obwohl sie erkennbare Bezüge zur Glamrockgeschichte besitzen.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

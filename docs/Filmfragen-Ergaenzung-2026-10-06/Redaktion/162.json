@@ -1,0 +1,220 @@
+{
+  "rank": 162,
+  "directors": [
+    "Howard Hawks"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein prägender Zeitungs- und Screwball-Klassiker, besonders einem filmhistorisch interessierten Publikum bekannt.",
+  "release_note": "Premiere am 11.01.1940 in New York; breite US-Veröffentlichung am 18.01.1940. Pressevorführung am 03.01.1940 ändert das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/His_Girl_Friday",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/His_Girl_Friday",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "criterion": "https://www.criterion.com/films/27903-his-girl-friday"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf möchte Hildy Johnson (Rosalind Russell) in @ zunächst aufgeben?",
+      "answers": [
+        "Zeitungsreporterin",
+        "Opernsängerin",
+        "Rechtsanwältin",
+        "Rundfunktechnikerin"
+      ],
+      "feedback": [
+        "Hildy Johnson arbeitet als Zeitungsreporterin.",
+        "Sie tritt nicht als Opernsängerin auf.",
+        "Sie verteidigt den Beschuldigten nicht als Anwältin.",
+        "Sie arbeitet nicht als Rundfunktechnikerin."
+      ],
+      "short": "Hildy Johnson arbeitet als Zeitungsreporterin.",
+      "context": "Hildy Johnson arbeitet als Zeitungsreporterin. Sie möchte mit Bruce Baldwin (Ralph Bellamy) ein anderes Leben beginnen; ihr früherer Mann und Chefredakteur Walter Burns (Cary Grant) lockt sie jedoch mit einer wichtigen Geschichte zurück.",
+      "anchor": "Hildys neuer Lebensplan konkurriert mit ihrem Reporterinstinkt.",
+      "interest": "Hildys neuer Lebensplan konkurriert mit ihrem Reporterinstinkt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was verbindet Hildy (Rosalind Russell) und ihren Chefredakteur Walter (Cary Grant) in @ privat?",
+      "answers": [
+        "Sie sind geschieden.",
+        "Sie sind noch verheiratet.",
+        "Sie sind frisch verlobt.",
+        "Sie waren früher verlobt, aber nie verheiratet."
+      ],
+      "feedback": [
+        "Hildy und Walter sind ein geschiedenes Ehepaar.",
+        "Die Scheidung ist bereits erfolgt; Walter versucht sie zurückzugewinnen.",
+        "Hildy plant eine Ehe mit Bruce, nicht mit Walter.",
+        "Ihre gemeinsame Vergangenheit umfasst eine wirkliche Ehe und Scheidung."
+      ],
+      "short": "Hildy und Walter sind ein geschiedenes Ehepaar.",
+      "context": "Hildy und Walter sind ein geschiedenes Ehepaar. Deshalb verfolgt Walters letzter Arbeitsauftrag ein zweites Ziel: Er möchte sie auch privat zurückgewinnen. Die Zeitungsredaktion ist zugleich Arbeitsplatz und Schauplatz ihrer fortgesetzten Beziehungskämpfe.",
+      "anchor": "Walter kämpft um seine beste Reporterin und seine Exfrau.",
+      "interest": "Walter kämpft um seine beste Reporterin und seine Exfrau.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wo versteckt Hildy (Rosalind Russell) den entkommenen Earl Williams (John Qualen) in @?",
+      "answers": [
+        "In einem Rollschreibtisch",
+        "In einem Wassertank",
+        "In einem Lieferwagen",
+        "In einer Telefonkabine"
+      ],
+      "feedback": [
+        "Hildy verbirgt Earl Williams in einem Rollschreibtisch des Presseraums.",
+        "Ein Wassertank ist nicht das Versteck.",
+        "Williams wird hier nicht in einem Lieferwagen versteckt.",
+        "Die Telefonkabine birgt ihn nicht."
+      ],
+      "short": "Hildy verbirgt Earl Williams in einem Rollschreibtisch des Presseraums.",
+      "context": "Hildy verbirgt Earl Williams in einem Rollschreibtisch des Presseraums. Der Arbeitsplatz wird damit zum Versteck eines gesuchten Mannes. Während andere Reporter um Informationen konkurrieren, befinden sie sich unmittelbar neben der Geschichte, nach der sie suchen.",
+      "anchor": "Die exklusive Geschichte sitzt im Schreibtisch.",
+      "interest": "Die exklusive Geschichte sitzt im Schreibtisch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum wollen Bürgermeister und Sheriff in @ den Aufschub der Hinrichtung verheimlichen?",
+      "answers": [
+        "Die Hinrichtung soll ihnen politisch nützen.",
+        "Der Aufschub enthält einen falschen Namen.",
+        "Sie müssen zuerst Williams’ Erbschaft klären.",
+        "Der Bote hat das Dokument verloren."
+      ],
+      "feedback": [
+        "Bürgermeister und Sheriff wollen mit der Hinrichtung politisch punkten.",
+        "Das Dokument scheitert nicht an einem falschen Namen.",
+        "Eine Erbschaft ist nicht der politische Beweggrund.",
+        "Der Bote liefert die Nachricht tatsächlich ab."
+      ],
+      "short": "Bürgermeister und Sheriff wollen mit der Hinrichtung politisch punkten.",
+      "context": "Bürgermeister und Sheriff wollen mit der Hinrichtung politisch punkten. Eine Begnadigungsbotschaft stört diesen Plan; sie versuchen den Boten zum Schweigen zu bringen. Hildy Johnson (Rosalind Russell) und Walter Burns (Cary Grant) erhalten dadurch ein Druckmittel gegen die Verantwortlichen.",
+      "anchor": "Politischer Eigennutz bedroht die rechtzeitige Begnadigung.",
+      "interest": "Politischer Eigennutz bedroht die rechtzeitige Begnadigung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Änderung an der Bühnenvorlage prägt die Beziehung in @?",
+      "answers": [
+        "Der Reporter wurde zur Exfrau des Chefredakteurs.",
+        "Der Chefredakteur wurde zum Vater des Reporters.",
+        "Der Reporter wurde zur Verlobten des Verurteilten.",
+        "Die Ehefrau des Chefredakteurs wurde zum Opfer des Verbrechens."
+      ],
+      "feedback": [
+        "Die Filmfassung macht Hildy Johnson (Rosalind Russell) zur Frau und Expartnerin Walter Burns’ (Cary Grant).",
+        "Die neue persönliche Bindung entsteht durch eine frühere Ehe.",
+        "Hildy ist Walters Exfrau, nicht Williams’ Partnerin.",
+        "Die Änderung betrifft das Geschlecht und die Beziehung des Reporters."
+      ],
+      "short": "Die Filmfassung macht Hildy Johnson (Rosalind Russell) zur Frau und Expartnerin Walter Burns’ (Cary Grant).",
+      "context": "Die Filmfassung macht Hildy Johnson (Rosalind Russell) zur Frau und Expartnerin Walter Burns’ (Cary Grant). Im Stück sind Reporter und Chefredakteur Männer. Die Änderung ergänzt den Pressekonflikt um Wiederverheiratung und Hildys Entscheidung über ihr Berufsleben.",
+      "anchor": "Der Rollenwechsel verbindet Pressekomödie und Liebesgeschichte.",
+      "interest": "Der Rollenwechsel verbindet Pressekomödie und Liebesgeschichte.",
+      "sources": [
+        "handlung",
+        "eckdaten",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Was verändert den geplanten Flitterwochenort am Schluss von @?",
+      "answers": [
+        "Eine Streikgeschichte lockt Walter nach Albany.",
+        "Ein Erdbeben sperrt Niagara Falls.",
+        "Bruce gewinnt eine Reise nach Europa.",
+        "Hildy bekommt eine Stelle in Hollywood."
+      ],
+      "feedback": [
+        "Walter Burns (Cary Grant) erfährt von einem Streik in Albany und lenkt die Flitterwochen dorthin.",
+        "Ein Erdbeben verlegt die Reise nicht.",
+        "Bruces Reisegewinn spielt keine Rolle.",
+        "Hildy wechselt nicht nach Hollywood."
+      ],
+      "short": "Walter Burns (Cary Grant) erfährt von einem Streik in Albany und lenkt die Flitterwochen dorthin.",
+      "context": "Walter Burns (Cary Grant) erfährt von einem Streik in Albany und lenkt die Flitterwochen dorthin. Hildy Johnson (Rosalind Russell) stimmt zu. Die neue Hochzeit beendet also nicht ihre gemeinsame Bindung an Nachrichten; der nächste berufliche Anlass steht schon bereit.",
+      "anchor": "Die Flitterwochen werden zur nächsten Reportage.",
+      "interest": "Die Flitterwochen werden zur nächsten Reportage.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1940",
+        "1937",
+        "1933",
+        "1942"
+      ],
+      "feedback": [
+        "1940 erschien die Komödie.",
+        "1937 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1940 wird im zeitlichen Hintergrund erklärt.",
+        "1933 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1940 wird im zeitlichen Hintergrund erklärt.",
+        "1942 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1940 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1940 erschien die Komödie.",
+      "context": "1940 erschien die Komödie. Ihre Bühnenvorlage „The Front Page“ stammt von 1928; zwölf Jahre später machte die Verfilmung aus dem männlichen Reporter eine Frau und Expartnerin des Chefredakteurs. Der zeitliche Abstand verbindet einen älteren Pressekonflikt mit einer neuen Liebeskonstellation.",
+      "anchor": "The Front Page 1928, Film 1940: Zwölf Jahre später wird der Reporter zur Exfrau des Chefredakteurs.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Howard Hawks",
+        "George Cukor",
+        "Preston Sturges",
+        "Leo McCarey"
+      ],
+      "feedback": [
+        "Howard Hawks führte Regie.",
+        "George Cukor wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks.",
+        "Preston Sturges wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks.",
+        "Leo McCarey wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Howard Hawks."
+      ],
+      "short": "Howard Hawks führte Regie.",
+      "context": "Howard Hawks führte Regie. Charles Lederer adaptierte das Stück „The Front Page“: Hildy Johnson (Rosalind Russell) ist nun Reporterin und Walter Burns’ (Cary Grant) Exfrau. So verbinden sich die berufliche Rivalität und Walters Versuch, eine Wiederheirat zu erreichen.",
+      "anchor": "Howard Hawks führte Regie.",
+      "interest": "Howard Hawks führte Regie.",
+      "sources": [
+        "criterion"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

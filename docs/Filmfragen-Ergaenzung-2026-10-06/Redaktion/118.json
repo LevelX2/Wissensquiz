@@ -1,0 +1,217 @@
+{
+  "rank": 118,
+  "directors": [
+    "Mike Judge"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bürosatire mit internationalem Kultstatus, im deutschen Gesamtpublikum eher Kennerfilm.",
+  "release_note": "US-Erstveröffentlichung am 19. Februar 1999.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Office_Space",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/office_space",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo arbeitet Peter Gibbons (Ron Livingston) in @?",
+      "answers": [
+        "Bei der Softwarefirma Initech",
+        "Bei einer Bank als Datenanalyst",
+        "Bei einer Versicherung als Programmierer",
+        "Bei einem Callcenter als technischer Berater"
+      ],
+      "feedback": [
+        "Peter ist Programmierer bei Initech.",
+        "Die Firma heißt Initech und entwickelt Software.",
+        "Eine Versicherung ist nicht sein Arbeitgeber.",
+        "Er sitzt bei Initech, nicht in einem Callcenter."
+      ],
+      "short": "Peter ist Programmierer bei Initech.",
+      "context": "Peter Gibbons (Ron Livingston) erlebt seine Arbeit als Kette von Kontrollen, Formularen und Wochenendforderungen. Seine Freunde Michael Bolton (David Herman) und Samir Nagheenanajar (Ajay Naidu) teilen den Frust. Die Softwarefirma gibt der Satire ein konkretes Umfeld, in dem technische Arbeit und vermeintlich effiziente Verwaltung ständig aneinander vorbeigehen.",
+      "anchor": "Initech organisiert Peters Alltag in Regeln statt Sinn.",
+      "interest": "Initech organisiert Peters Alltag in Regeln statt Sinn.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was verändert Peter Gibbons’ (Ron Livingston) Einstellung zur Arbeit in @ plötzlich?",
+      "answers": [
+        "Eine Hypnosesitzung endet, ohne ihn wieder aufzuwecken.",
+        "Er gewinnt den Hauptpreis einer Lotterie.",
+        "Er wird versehentlich zum Firmeninhaber.",
+        "Er erhält die Kündigung per Telefon."
+      ],
+      "feedback": [
+        "Der Hypnotiseur stirbt, bevor er Peter aus dem entspannten Zustand zurückholen kann.",
+        "Ein Lotteriegewinn verändert ihn nicht.",
+        "Firmenbesitzer wird er nicht.",
+        "Eine telefonische Kündigung löst seine Haltung nicht aus."
+      ],
+      "short": "Der Hypnotiseur stirbt, bevor er Peter aus dem entspannten Zustand zurückholen kann.",
+      "context": "Peter Gibbons (Ron Livingston) soll durch Hypnose entspannter werden. Der Therapeut stirbt während der Sitzung, sodass der vorgesehene Rückruf in den alten Zustand ausbleibt. Peter ignoriert nun Regeln und Erwartungen. Die fantastische Zuspitzung macht sichtbar, wie sehr seine vorherige Anpassung von Angst statt von eigener Überzeugung getragen war.",
+      "anchor": "Die abgebrochene Hypnose nimmt Peter die alltägliche Angst.",
+      "interest": "Die abgebrochene Hypnose nimmt Peter die alltägliche Angst.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was machen Peter und seine Kollegen in @ mit dem ständig streikenden Drucker?",
+      "answers": [
+        "Sie nehmen ihn mit auf ein Feld und zertrümmern ihn.",
+        "Sie werfen ihn aus dem Bürofenster.",
+        "Sie zerlegen ihn in der Firmenkantine.",
+        "Sie ersetzen ihn heimlich durch ein Attrappengerät."
+      ],
+      "feedback": [
+        "Die Männer schlagen den aus der Firma mitgenommenen Drucker kaputt.",
+        "Der Drucker wird mitgenommen und auf einem Feld zerstört.",
+        "Der offene Gewaltausbruch findet außerhalb der Firma statt.",
+        "Eine Attrappe ist nicht ihre Reaktion."
+      ],
+      "short": "Die Männer schlagen den aus der Firma mitgenommenen Drucker kaputt.",
+      "context": "Peter Gibbons (Ron Livingston), Michael Bolton (David Herman) und Samir Nagheenanajar (Ajay Naidu) nehmen den fehlerhaften Drucker aus dem Büro. Auf einem Feld entlädt sich ihr aufgestauter Frust körperlich. Das Gerät bündelt viele kleine Demütigungen des Alltags, obwohl seine Zerstörung die strukturellen Probleme der Firma nicht löst.",
+      "anchor": "Der Drucker wird zum sichtbaren Ziel des Bürofrusts.",
+      "interest": "Der Drucker wird zum sichtbaren Ziel des Bürofrusts.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie soll der Computervirus der Kollegen in @ unauffällig Geld abzweigen?",
+      "answers": [
+        "Er sammelt winzige Rundungsreste aus vielen Buchungen.",
+        "Er verschiebt ganze Einzelzahlungen auf ein zweites Konto.",
+        "Er fügt jeder Rechnung einen versteckten neuen Gebührenposten hinzu.",
+        "Er erhöht die Auszahlungen an die Beteiligten in der Lohnabrechnung."
+      ],
+      "feedback": [
+        "Der Plan soll Bruchteile von Cents in ein eigenes Konto umlenken.",
+        "Der Plan zielt auf winzige Rundungsbruchteile, nicht ganze Zahlungen.",
+        "Neue Gebühren wären etwas anderes als die vorgesehenen vorhandenen Rundungsreste.",
+        "Eine veränderte Lohnabrechnung ist nicht das Prinzip des Virus."
+      ],
+      "short": "Der Plan soll Bruchteile von Cents in ein eigenes Konto umlenken.",
+      "context": "Michael Bolton (David Herman) programmiert einen Virus, der winzige Beträge aus vielen Transaktionen sammelt. Peter Gibbons (Ron Livingston) und Samir Nagheenanajar (Ajay Naidu) hoffen, dass solche Rundungsreste nicht auffallen. Ein Programmfehler macht die Summe jedoch sehr schnell sehr groß; die technische Kleinheit der Einzeleingriffe schützt sie nicht vor den Folgen.",
+      "anchor": "Viele unscheinbare Centbruchteile ergeben einen auffälligen Diebstahl.",
+      "interest": "Viele unscheinbare Centbruchteile ergeben einen auffälligen Diebstahl.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche absurde Entdeckung machen die Berater in @ über Milton (Stephen Root)?",
+      "answers": [
+        "Er wurde längst entlassen, erhält aber wegen eines Fehlers weiterhin Gehalt.",
+        "Er ist längst in eine andere Abteilung versetzt, arbeitet aber weiter am alten Platz.",
+        "Er steht doppelt auf der Gehaltsliste und wird zweimal bezahlt.",
+        "Er besitzt keinen dokumentierten Arbeitsplatz, arbeitet aber offiziell noch dort."
+      ],
+      "feedback": [
+        "Miltons frühere Entlassung wurde ihm nicht mitgeteilt und im Lohnsystem nicht wirksam.",
+        "Milton ist bereits entlassen; es handelt sich nicht nur um eine Versetzung.",
+        "Die Entdeckung betrifft fortgesetztes Gehalt nach Kündigung, keine doppelte Zahlung.",
+        "Der entscheidende Status ist die frühere Entlassung, nicht nur ein fehlender Platz."
+      ],
+      "short": "Miltons frühere Entlassung wurde ihm nicht mitgeteilt und im Lohnsystem nicht wirksam.",
+      "context": "Die Berater entdecken, dass Milton Waddams (Stephen Root) seit Jahren als entlassen gilt. Statt die Lage mit ihm zu klären, streichen sie die Zahlung. Bill Lumbergh (Gary Cole) behandelt ihn zugleich weiterhin als verschiebbaren Störfaktor. Die Verwaltung verwaltet einen Fehler, ohne den betroffenen Menschen überhaupt als Gesprächspartner anzuerkennen.",
+      "anchor": "Milton existiert für die Bürokratie als unbeendeter Fehler.",
+      "interest": "Milton existiert für die Bürokratie als unbeendeter Fehler.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Weshalb fördern die Umstrukturierungsberater Peter (Ron Livingston) in @, obwohl er offen kaum arbeitet?",
+      "answers": [
+        "Sie deuten seine unverblümte Kritik als Führungsqualität.",
+        "Sie halten seine Gelassenheit für den Nachweis einer höheren Produktivität.",
+        "Sie glauben, er arbeite bereits als deren interner Informant.",
+        "Sie werten seine Kritik als detaillierten Verbesserungsvorschlag für die Software."
+      ],
+      "feedback": [
+        "Die Berater bewerten Peters Gelassenheit und Kritik als Potential.",
+        "Sie sehen in seinem offenen Auftreten Managementpotenzial, keine gemessene Produktivität.",
+        "Ein Auftrag als Informant liegt nicht zugrunde.",
+        "Seine Haltung beeindruckt sie; er legt keinen neuen Softwareentwurf vor."
+      ],
+      "short": "Die Berater bewerten Peters Gelassenheit und Kritik als Potential.",
+      "context": "Peter Gibbons (Ron Livingston) sagt den Beratern offen, wie wenig produktiv sein Bürotag ist. Die ungewohnte Ruhe wirkt auf sie überzeugender als die angestrengte Anpassung seiner Kollegen. Die Satire legt damit einen Widerspruch frei: Ein Verfahren zur objektiven Effizienzbewertung belohnt vor allem ein Auftreten, das Selbstsicherheit vermittelt.",
+      "anchor": "Die Effizienzprüfung belohnt Peters lässige Ehrlichkeit.",
+      "interest": "Die Effizienzprüfung belohnt Peters lässige Ehrlichkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1999",
+        "1995",
+        "1998",
+        "2002"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1999.",
+        "1995 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1998 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2002 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1999.",
+      "context": "Alles Routine erschien 1999. Mike Judges Entwurf für den Spielfilm entstand 1996, drei Jahre früher. Ausgangspunkt waren seine animierten Milton-Kurzfilme; der Spielfilm erweitert den Büroalltag um Peter und dessen Kollegen. Der Wechsel vom einzelnen Cartoonangestellten zum Ensemble erklärt, weshalb nicht nur Milton die Handlung trägt.",
+      "anchor": "Entwurf 1996, Spielfilm 1999: drei Jahre bis zum Ensemble aus der Milton-Idee.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Entwurf 1996, Spielfilm 1999: drei Jahre bis zum Ensemble aus der Milton-Idee.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Mike Judge",
+        "Alexander Payne",
+        "Kevin Smith",
+        "Harold Ramis"
+      ],
+      "feedback": [
+        "Mike Judge führte Regie.",
+        "Alexander Payne gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Kevin Smith gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Harold Ramis gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Mike Judge.",
+      "context": "Mike Judge schrieb und inszenierte den Film. Die Figur Milton (Stephen Root) ging aus seinen eigenen animierten Milton-Kurzfilmen hervor. In der langen Live-Action-Fassung spielt Ron Livingston den Programmierer Peter Gibbons, dessen veränderte Haltung die scheinbar sachlichen Bewertungssysteme der Firma infrage stellt.",
+      "anchor": "Mike Judge: Die Figur Milton (Stephen Root) ging aus seinen eigenen animierten Milton-Kurzfilmen hervor.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

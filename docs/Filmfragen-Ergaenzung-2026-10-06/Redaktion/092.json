@@ -1,0 +1,224 @@
+{
+  "rank": 92,
+  "directors": [
+    "Jaume Balagueró",
+    "Paco Plaza"
+  ],
+  "production_countries": [
+    "Spanien"
+  ],
+  "familiarity_reason": "Bekannter spanischer Found-Footage-Horror mit internationaler Filmreihe.",
+  "release_note": "Bereits auf dem Festival von Sitges 2007 vorgeführt und ausgezeichnet; 23. November 2007 ist der spätere spanische Kinostart. Ein genauer Erstaufführungstag wird nicht behauptet.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Rec_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://www.filmax.com/distribucion/rec/18",
+      "supports": "Beide Regisseure, Veröffentlichung, Reportage, eingeschlossenes Haus und Pablo-Rosso-Doppelaufgabe."
+    },
+    "festival": {
+      "url": "https://sitgesfilmfestival.com/es/actualitat/palmares/2007",
+      "supports": "REC auf dem Festival 2007, beide Regisseure ausgezeichnet; Abgrenzung vom späteren Filmax-Kinostart."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Berufsgruppe begleitet Ángela für ihre Reportage in @?",
+      "answers": [
+        "Die Feuerwehr",
+        "Eine Rettungswagenbesatzung",
+        "Eine nächtliche Polizeistreife",
+        "Ein Team des Katastrophenschutzes"
+      ],
+      "feedback": [
+        "Ángela (Manuela Velasco) begleitet die Feuerwehr in der Nachtschicht.",
+        "Die Reportage begleitet einen Feuerwehreinsatz.",
+        "Eine Polizeistreife ist nicht das anfängliche Reportageteam.",
+        "Es handelt sich um den gewöhnlichen Nachtdienst der Feuerwehr."
+      ],
+      "short": "Ángela (Manuela Velasco) begleitet die Feuerwehr in der Nachtschicht.",
+      "context": "Ángela (Manuela Velasco) begleitet die Feuerwehr in der Nachtschicht. Die geplante Alltagsreportage führt das Team bei einem Einsatz in ein Wohnhaus, dessen gewöhnliche Umgebung die Gefahr zunächst verdeckt.",
+      "anchor": "Der alltägliche Nachteinsatz wird zur eingeschlossenen Katastrophe.",
+      "interest": "Der alltägliche Nachteinsatz wird zur eingeschlossenen Katastrophe.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum können die Menschen in @ das Wohnhaus nicht einfach verlassen?",
+      "answers": [
+        "Die Behörden haben es unter Quarantäne abgeriegelt.",
+        "Ein Gebäudebrand blockiert die einzigen Ausgänge.",
+        "Ein Stromausfall verriegelt automatisch alle Türen.",
+        "Die Einsatzleitung verlangt wegen eines Einsturzes das Warten im Haus."
+      ],
+      "feedback": [
+        "Die Behörden riegeln das Gebäude ab.",
+        "Die behördliche Quarantäne schließt alle ein.",
+        "Ein automatisches Türsystem ist nicht die Ursache.",
+        "Ein drohender Einsturz begründet die Sperre nicht."
+      ],
+      "short": "Die Behörden riegeln das Gebäude ab.",
+      "context": "Die Behörden riegeln das Gebäude ab. Ángela (Manuela Velasco), Einsatzkräfte und Bewohner sitzen dadurch gemeinsam fest; die Schutzmaßnahme für draußen nimmt ihnen innen den Fluchtweg.",
+      "anchor": "Der Schutz der Außenwelt schließt die Innenwelt ein.",
+      "interest": "Der Schutz der Außenwelt schließt die Innenwelt ein.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche erste Erklärung gibt der Gesundheitsbeamte in @ für die Ausbrüche?",
+      "answers": [
+        "Eine tollwutähnliche Infektion",
+        "Eine Vergiftung durch ausströmendes Gas",
+        "Eine gefährliche Lebensmittelinfektion",
+        "Eine Reaktion auf ein illegal verabreichtes Medikament"
+      ],
+      "feedback": [
+        "Der Beamte spricht von einer tollwutähnlichen Infektion.",
+        "Die Erklärung bezieht sich auf eine durch Bisse übertragene Infektion.",
+        "Lebensmittel sind nicht das angenommene Übertragungsmittel.",
+        "Ein Medikamentenmissbrauch ist nicht seine erste Diagnose."
+      ],
+      "short": "Der Beamte spricht von einer tollwutähnlichen Infektion.",
+      "context": "Der Beamte spricht von einer tollwutähnlichen Infektion. Das medizinische Erklärungsmodell passt zunächst zu den Bissen; später erweitert der Dachbodenfund die Ursache um einen religiösen Zusammenhang.",
+      "anchor": "Die medizinische Deutung geht der religiösen Enthüllung voraus.",
+      "interest": "Die medizinische Deutung geht der religiösen Enthüllung voraus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was ermöglicht Pablo im dunklen Dachbereich von @ weitere Aufnahmen?",
+      "answers": [
+        "Der Nachtsichtmodus der Kamera",
+        "Eine Notbeleuchtung der Feuerwehr",
+        "Ein offenes Dachfenster",
+        "Ein fest installierter Suchscheinwerfer"
+      ],
+      "feedback": [
+        "Pablo (Pablo Rosso) schaltet auf Nachtsicht.",
+        "Die Feuerwehrbeleuchtung rettet die Bilder nicht.",
+        "Ein Fenster liefert dort kein ausreichendes Licht.",
+        "Ein Suchscheinwerfer steht nicht zur Verfügung."
+      ],
+      "short": "Pablo (Pablo Rosso) schaltet auf Nachtsicht.",
+      "context": "Pablo (Pablo Rosso) schaltet auf Nachtsicht. Die technische Funktion macht die versteckte Gestalt sichtbar, während Ángela (Manuela Velasco) selbst nur eingeschränkt erkennen kann, was sie bedroht.",
+      "anchor": "Nachtsicht macht sichtbar, ohne einen sicheren Weg zu schaffen.",
+      "interest": "Nachtsicht macht sichtbar, ohne einen sicheren Weg zu schaffen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Vorgeschichte der Infektion wird im oberen Stockwerk von @ entdeckt?",
+      "answers": [
+        "Eine Untersuchung möglicher Besessenheit im Auftrag des Vatikans",
+        "Ein medizinischer Versuch mit einer neuartigen Impfstoffprobe",
+        "Ein unerlaubter Versuch zur Behandlung einer psychischen Erkrankung",
+        "Eine privat betriebene Untersuchung eines Tierseuchenerregers"
+      ],
+      "feedback": [
+        "Die Unterlagen verweisen auf Tristana Medeiros und eine Besessenheitsuntersuchung.",
+        "Die Dokumente verbinden die Infektion mit einer Untersuchung von Besessenheit.",
+        "Eine gewöhnliche psychiatrische Behandlung erklärt den religiösen Auftrag nicht.",
+        "Die Spur beginnt bei einer menschlichen Patientin und dem Vatikan."
+      ],
+      "short": "Die Unterlagen verweisen auf Tristana Medeiros und eine Besessenheitsuntersuchung.",
+      "context": "Die Unterlagen verweisen auf Tristana Medeiros (Javier Botet) und eine Besessenheitsuntersuchung. Tristana (Javier Botet) wurde im Haus eingeschlossen; die vermeintlich kontrollierte Forschung steht damit am Ursprung der ausbrechenden Gefahr.",
+      "anchor": "Die eingeschlossene Patientin verbindet Infektion und Besessenheit.",
+      "interest": "Die eingeschlossene Patientin verbindet Infektion und Besessenheit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie verändert der Verlust der Kamera Ángelas Lage im Schluss von @?",
+      "answers": [
+        "Das Bild bleibt zurück, während sie in die Dunkelheit gezogen wird.",
+        "Die Kamera hält ihre Flucht fest, während Pablo zurückbleibt.",
+        "Die Aufnahme endet vor ihrem letzten Angriff.",
+        "Die Kamera zeigt nur noch ihre Rückkehr zu den anderen Bewohnern."
+      ],
+      "feedback": [
+        "Die fallengelassene Kamera zeichnet Ángelas Verschwinden auf.",
+        "Die Aufnahme zeigt ihr Fortgezogenwerden, keine Flucht.",
+        "Das Bild zeichnet den letzten Angriff noch auf.",
+        "Sie kehrt nicht zu einer sicheren Gruppe zurück."
+      ],
+      "short": "Die fallengelassene Kamera zeichnet Ángelas Verschwinden auf.",
+      "context": "Die fallengelassene Kamera zeichnet Ángelas Verschwinden auf. Ángela (Manuela Velasco) verliert damit zugleich ihr Sichtmittel und die aktive Reportageposition; die letzte Aufnahme bleibt als Zeugnis ihres Verschwindens zurück.",
+      "anchor": "Das Bild überlebt die Kontrolle der Reporterin über ihre Geschichte.",
+      "interest": "Das Bild überlebt die Kontrolle der Reporterin über ihre Geschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "2005",
+        "2002",
+        "2008"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2007.",
+        "2005 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2002 liegt fünf Jahre davor.",
+        "2008 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2007 erstmals veröffentlicht.",
+      "context": "2007 erschien das spanische Original. Die US-Neuverfilmung Quarantine folgte 2008, ein Jahr später; REC 2 setzte die ursprüngliche Reihe 2009 fort, zwei Jahre nach dem ersten Film.",
+      "anchor": "2007 erschien das Original; Quarantine folgte 2008, REC 2 im Jahr 2009.",
+      "interest": "2007 erschien das Original; Quarantine folgte 2008, REC 2 im Jahr 2009.",
+      "sources": [
+        "festival",
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jaume Balagueró und Paco Plaza",
+        "Alejandro Amenábar und Mateo Gil",
+        "Álex de la Iglesia und Nacho Vigalondo",
+        "Juan Carlos Fresnadillo und Daniel Monzón"
+      ],
+      "feedback": [
+        "Jaume Balagueró und Paco Plaza führten Regie.",
+        "Amenábar und Gil führten bei diesem Film nicht Regie.",
+        "De la Iglesia und Vigalondo sind nicht das Regieteam.",
+        "Fresnadillo und Monzón haben hier keine Regiecredits."
+      ],
+      "short": "Regie: Jaume Balagueró und Paco Plaza.",
+      "context": "Balagueró und Plaza inszenierten gemeinsam. Der Kameramann Pablo Rosso führt zugleich die Kamera und verkörpert den aufnehmenden Pablo (Pablo Rosso); so bindet die sichtbare Reportage das Publikum an den eingeschränkten Zugang des Filmteams.",
+      "anchor": "Balagueró und Plaza inszenierten gemeinsam.",
+      "interest": "Balagueró und Plaza inszenierten gemeinsam.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

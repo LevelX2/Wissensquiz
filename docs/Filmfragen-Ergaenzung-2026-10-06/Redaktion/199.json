@@ -1,0 +1,222 @@
+{
+  "rank": 199,
+  "directors": [
+    "Mamoru Hosoda"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Ein geschätzter Hosoda-Anime mit jugendlichem Zeitreisezugang; ein Kennerfilm.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 2006; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung. Zusätzlich gelesene HTML-Besetzung: Kaho Fujitani – Mitsuki Tanimura; Yuki Sekido spricht Miyuki Konno."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "zeitbezug": {
+      "url": "https://en.wikipedia.org/wiki/Paprika_(2006_film)",
+      "supports": "Gelesener Artikel des ebenfalls redigierten Rangs 198: Filmjahr und konkrete Gegenstandsverbindung im Jahreskontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wofür benutzt Makoto (Originalstimme Riisa Naka) ihre neue Fähigkeit in @ zunächst?",
+      "answers": [
+        "Für bessere Noten und angenehmere Alltagssituationen",
+        "Für die Untersuchung eines historischen Verbrechens",
+        "Für die systematische Suche nach einer vermissten Person",
+        "Für die Entwicklung einer neuen Zeitmaschine"
+      ],
+      "feedback": [
+        "Makoto nutzt die Zeitsprünge zunächst für kleine Alltagsvorteile.",
+        "Makoto korrigiert zunächst ihre Alltagserlebnisse.",
+        "Ihre erste Nutzung gilt Noten und kleinen Vorteilen.",
+        "Sie benutzt ihre Fähigkeit ohne ein solches Entwicklungsprojekt."
+      ],
+      "short": "Makoto nutzt die Zeitsprünge zunächst für kleine Alltagsvorteile.",
+      "context": "Makoto nutzt die Zeitsprünge zunächst für kleine Alltagsvorteile. Sie wiederholt unter anderem angenehme Erlebnisse; erst die Folgen für andere zeigen ihr, dass eine veränderte eigene Situation kein folgenloser Gewinn ist.",
+      "anchor": "Kleine Zeitvorteile erzeugen unerwartete Folgen für andere.",
+      "interest": "Kleine Zeitvorteile erzeugen unerwartete Folgen für andere.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Problem bleibt für Makotos Zeitsprünge in @ bestehen?",
+      "answers": [
+        "Ihre Anzahl ist begrenzt.",
+        "Sie kann keine bereits erlebten Situationen betreten.",
+        "Sie verliert nach jedem Sprung vollständig ihr Gedächtnis.",
+        "Sie kann ausschließlich ganze Jahre überspringen."
+      ],
+      "feedback": [
+        "Makoto (Originalstimme Riisa Naka) erkennt eine begrenzte Zahl verbleibender Sprünge an ihrer Markierung.",
+        "Gerade erlebte Situationen werden wiederholt, aber nur begrenzt oft.",
+        "Die Anzahl, nicht ein totaler Gedächtnisverlust, ist begrenzt.",
+        "Makoto nutzt auch kurze Zeitabstände."
+      ],
+      "short": "Makoto (Originalstimme Riisa Naka) erkennt eine begrenzte Zahl verbleibender Sprünge an ihrer Markierung.",
+      "context": "Makoto (Originalstimme Riisa Naka) erkennt eine begrenzte Zahl verbleibender Sprünge an ihrer Markierung. Die Fähigkeit ist keine unbegrenzte Rückgängig-Taste; leichtfertige Korrekturen verbrauchen die Möglichkeit späterer wichtiger Eingriffe.",
+      "anchor": "Der endliche Vorrat macht den kleinen Eingriff kostbar.",
+      "interest": "Der endliche Vorrat macht den kleinen Eingriff kostbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welcher gefährliche Gegenstand verbindet Makotos Unfall mit der späteren Gefahr für Kōsuke und Kaho in @?",
+      "answers": [
+        "Ihr Fahrrad mit defekten Bremsen",
+        "Ein Motorrad mit beschädigtem Vorderreifen",
+        "Ein Roller ohne funktionierendes Licht",
+        "Ein Fahrrad mit einer losen Lenkgabel"
+      ],
+      "feedback": [
+        "Makotos Fahrrad hat defekte Bremsen.",
+        "Das defekte Fahrrad verbindet beide Unfälle.",
+        "Es sind die Fahrradbremsen, nicht fehlendes Licht.",
+        "Die entscheidende bekannte Gefahr sind defekte Bremsen."
+      ],
+      "short": "Makotos Fahrrad hat defekte Bremsen.",
+      "context": "Makotos Fahrrad hat defekte Bremsen. Kōsuke (Originalstimme Mitsutaka Itakura) und Kaho (Originalstimme Mitsuki Tanimura) leihen es später; die zunächst für Makoto vermiedene Gefahr tritt dadurch bei anderen erneut auf.",
+      "anchor": "Die unveränderten Bremsen tragen die Gefahr zu anderen.",
+      "interest": "Die unveränderten Bremsen tragen die Gefahr zu anderen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wozu nutzt Makoto (Originalstimme Riisa Naka) in @ ihre Sprünge gegenüber Chiaki zunächst besonders oft?",
+      "answers": [
+        "Um seinem Liebesgeständnis auszuweichen",
+        "Um ihm bei seinen Prüfungen unbemerkt Antworten zu geben",
+        "Um seine Verabredung mit Kaho vorzubereiten",
+        "Um seine Herkunft öffentlich zu beweisen"
+      ],
+      "feedback": [
+        "Makoto weicht Chiakis (Originalstimme Takuya Ishida) Liebesgeständnis durch Zeitsprünge aus.",
+        "Sie wiederholt die Momente, in denen er ihr Gefühle gesteht.",
+        "Das unmittelbare Ziel ist das Ausweichen vor seinem Geständnis.",
+        "Seine Zukunftsherkunft kennt sie zunächst nicht."
+      ],
+      "short": "Makoto weicht Chiakis (Originalstimme Takuya Ishida) Liebesgeständnis durch Zeitsprünge aus.",
+      "context": "Makoto weicht Chiakis (Originalstimme Takuya Ishida) Liebesgeständnis durch Zeitsprünge aus. Die Fähigkeit verhindert damit auch eine notwendige persönliche Auseinandersetzung; zeitliche Kontrolle ersetzt keine Klarheit über ihre eigenen Gefühle.",
+      "anchor": "Makoto verschiebt ein Gespräch statt ihre Gefühle zu klären.",
+      "interest": "Makoto verschiebt ein Gespräch statt ihre Gefühle zu klären.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum ist Chiaki (Originalstimme Takuya Ishida) in @ aus der Zukunft gekommen?",
+      "answers": [
+        "Er wollte ein später nicht mehr vorhandenes Gemälde sehen.",
+        "Er wollte das Gemälde aus dem Museum stehlen.",
+        "Er sollte Makotos Schulabschluss verhindern.",
+        "Er suchte seine künftigen Eltern."
+      ],
+      "feedback": [
+        "Chiaki will ein Gemälde sehen, das in seiner Zukunft verloren ist.",
+        "Er möchte das später fehlende Werk sehen, nicht stehlen.",
+        "Die Schule ist nicht sein ursprünglicher Reiseauftrag.",
+        "Der Anlass betrifft ein Bild, keine Abstammungssuche."
+      ],
+      "short": "Chiaki will ein Gemälde sehen, das in seiner Zukunft verloren ist.",
+      "context": "Chiaki will ein Gemälde sehen, das in seiner Zukunft verloren ist. Makoto (Originalstimme Riisa Naka) verspricht, dessen Erhalt zu sichern; ein Kunstwerk schafft so eine Verbindung zwischen getrennten Lebenszeiten.",
+      "anchor": "Das bewahrte Gemälde kann beide Zeiten verbinden.",
+      "interest": "Das bewahrte Gemälde kann beide Zeiten verbinden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie erhält Makoto in @ ihren letzten bereits verbrauchten Sprung zurück?",
+      "answers": [
+        "Chiakis Rücksprung führt in eine Zeit vor ihrem Verbrauch.",
+        "Chiaki überträgt ihr seinen letzten Sprung direkt.",
+        "Sie findet ein zweites Zeitobjekt im Labor.",
+        "Die Tante setzt ihre verbleibende Zahl zurück."
+      ],
+      "feedback": [
+        "Chiakis (Originalstimme Takuya Ishida) Rückreise liegt vor Makotos letztem Verbrauch.",
+        "Sein Rücksprung macht ihren vorherigen Verbrauch rückgängig.",
+        "Kein neu gefundenes Objekt gibt die letzte Möglichkeit.",
+        "Die Zahl ändert sich durch den früheren Zeitpunkt."
+      ],
+      "short": "Chiakis (Originalstimme Takuya Ishida) Rückreise liegt vor Makotos letztem Verbrauch.",
+      "context": "Chiakis (Originalstimme Takuya Ishida) Rückreise liegt vor Makotos letztem Verbrauch. Sie kann dadurch nochmals eingreifen und seine eigene Rückkehrmöglichkeit wiederherstellen; die Rettung entsteht aus einer veränderten Abfolge beider begrenzten Vorräte.",
+      "anchor": "Chiakis Eingriff stellt Makotos frühere Möglichkeit wieder her.",
+      "interest": "Chiakis Eingriff stellt Makotos frühere Möglichkeit wieder her.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2006",
+        "2003",
+        "1999",
+        "2008"
+      ],
+      "feedback": [
+        "2006 erschien die animierte Fassung.",
+        "2003 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2006 wird im zeitlichen Hintergrund erklärt.",
+        "1999 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2006 wird im zeitlichen Hintergrund erklärt.",
+        "2008 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2006 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2006 erschien die animierte Fassung.",
+      "context": "2006 erschien die animierte Fassung. Im selben Jahr wurde auch „Paprika“ nach einer Vorlage von Yasutaka Tsutsui veröffentlicht. Das gemeinsame Autorenjahr bietet einen Anker: Hier dient die Zeitreise dem Erwachsenwerden, dort ein Traumgerät dem Konflikt um Innenleben und Wirklichkeit.",
+      "anchor": "2006: Tsutsuis Vorlagen werden zugleich als Das Mädchen, das durch die Zeit sprang und Paprika animiert.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten",
+        "zeitbezug"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Mamoru Hosoda",
+        "Katsuhiro Otomo",
+        "Satoshi Kon",
+        "Hayao Miyazaki"
+      ],
+      "feedback": [
+        "Mamoru Hosoda führte Regie, Satoko Okudera schrieb das Drehbuch.",
+        "Katsuhiro Otomo wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Mamoru Hosoda.",
+        "Satoshi Kon wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Mamoru Hosoda.",
+        "Hayao Miyazaki wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Mamoru Hosoda."
+      ],
+      "short": "Mamoru Hosoda führte Regie, Satoko Okudera schrieb das Drehbuch.",
+      "context": "Mamoru Hosoda führte Regie, Satoko Okudera schrieb das Drehbuch. Makoto (Originalstimme Riisa Naka) nutzt Zeitsprünge zunächst für alltägliche Vorteile. Die Adaption erzählt eine neue Hauptfigur und führt Kazuko aus Tsutsuis früherem Stoff als ihre Tante weiter.",
+      "anchor": "Mamoru Hosoda führte Regie, Satoko Okudera schrieb das Drehbuch.",
+      "interest": "Mamoru Hosoda führte Regie, Satoko Okudera schrieb das Drehbuch.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

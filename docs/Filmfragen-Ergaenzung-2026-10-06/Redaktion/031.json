@@ -1,0 +1,216 @@
+{
+  "rank": 31,
+  "directors": [
+    "Antoine Fuqua"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "International erfolgreicher Denzel-Washington-Actionfilm und Auftakt einer dreiteiligen Kinoreihe.",
+  "release_note": "TIFF-Premiere 7. September 2014; späterer US-Kinostart 26. September 2014.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Equalizer_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://www.sonypictures.com/movies/theequalizer",
+      "supports": "2014, McCall und Teri mit Darstellern, Angriff der russischen Gangster und Rückkehr zum Helfen."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo arbeitet McCall in @ während seines zurückgezogenen Alltags?",
+      "answers": [
+        "In einem Baumarkt",
+        "In einer Autowerkstatt",
+        "In einem Supermarkt",
+        "In einem Wachschutzunternehmen"
+      ],
+      "feedback": [
+        "McCall (Denzel Washington) arbeitet im Baumarkt.",
+        "Autos repariert er nicht beruflich.",
+        "Der gezeigte Laden verkauft Heimwerkerbedarf.",
+        "Eine Wachschutzstelle ist nicht sein Alltagsberuf."
+      ],
+      "short": "McCall (Denzel Washington) arbeitet im Baumarkt.",
+      "context": "McCall (Denzel Washington) arbeitet im Baumarkt. Die dort verfügbaren Werkzeuge werden im Schlusskampf zu Waffen; sein gewöhnlicher Arbeitsort erhält dadurch eine zweite Funktion.",
+      "anchor": "Der zivile Arbeitsort liefert später die Mittel zum Schutz der Kollegen.",
+      "interest": "Der zivile Arbeitsort liefert später die Mittel zum Schutz der Kollegen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was bewegt McCall in @ zum Eingreifen gegen Slavi?",
+      "answers": [
+        "Alina wird von Slavi schwer misshandelt.",
+        "Slavi bedroht McCalls Wohnung mit einem Brand.",
+        "Slavi entführt McCalls Schwester.",
+        "Slavi verlangt von McCall Schutzgeld."
+      ],
+      "feedback": [
+        "Alina (Chloë Grace Moretz) wird nach Slavis (David Meunier) Angriff ins Krankenhaus gebracht.",
+        "Die Misshandlung Alinas ist der konkrete Auslöser.",
+        "Eine Schwesterentführung eröffnet die Handlung nicht.",
+        "McCall reagiert zunächst auf Alinas Verletzungen, nicht auf eigene Schutzgeldforderungen."
+      ],
+      "short": "Alina (Chloë Grace Moretz) wird nach Slavis (David Meunier) Angriff ins Krankenhaus gebracht.",
+      "context": "Alina (Chloë Grace Moretz) wird nach Slavis (David Meunier) Angriff ins Krankenhaus gebracht. McCall (Denzel Washington) versucht zunächst, ihre Freiheit zu kaufen; Slavis Weigerung führt zur gewaltsamen Eskalation.",
+      "anchor": "Die verweigerte Freigabe macht aus dem Hilfsangebot einen Angriff auf das Syndikat.",
+      "interest": "Die verweigerte Freigabe macht aus dem Hilfsangebot einen Angriff auf das Syndikat.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie erfährt McCall in @, wer hinter dem Namen Teddy Rensen steckt?",
+      "answers": [
+        "Susan Plummer identifiziert ihn als früheren sowjetischen Sicherheitsmann.",
+        "Frank Masters gesteht ihm die Identität bei der ersten Begegnung.",
+        "Alina erkennt ihn aus ihrer Kindheit.",
+        "Ein Bericht im Fernsehen nennt ihn als Flüchtigen."
+      ],
+      "feedback": [
+        "Susan Plummer (Melissa Leo) identifiziert Teddy als Nicolai Itchenko (Marton Csokas).",
+        "Masters liefert später Hilfe gegen Pushkins Geschäfte, nicht diese Identifizierung.",
+        "Alina kennt diese Vergangenheit nicht aus ihrer Kindheit.",
+        "Die entscheidende Information kommt aus McCalls ehemaligem Berufsumfeld."
+      ],
+      "short": "Susan Plummer (Melissa Leo) identifiziert Teddy als Nicolai Itchenko (Marton Csokas).",
+      "context": "Susan Plummer (Melissa Leo) identifiziert Teddy als Nicolai Itchenko (Marton Csokas). Ihr Wissen macht für McCall (Denzel Washington) aus einem unbekannten Verfolger einen Gegner mit geheimdienstlicher Ausbildung.",
+      "anchor": "McCalls frühere Kollegin entschlüsselt den Hintergrund seines Verfolgers.",
+      "interest": "McCalls frühere Kollegin entschlüsselt den Hintergrund seines Verfolgers.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welchen Teil von Pushkins Geschäft greift McCall mithilfe von Masters in @ an?",
+      "answers": [
+        "Ein Lager zur Geldwäsche",
+        "Die zentrale Waffenfabrik",
+        "Ein Rekrutierungsbüro für Söldner",
+        "Eine Werkstatt für gefälschte Pässe"
+      ],
+      "feedback": [
+        "McCall (Denzel Washington) zwingt den korrupten Polizisten Masters (David Harbour) zur Mithilfe.",
+        "Eine Waffenfabrik ist nicht Masters’ Zielort.",
+        "Ein Söldnerbüro wird dort nicht ausgehoben.",
+        "Das Lager dient Finanzgeschäften, nicht der Passfälschung."
+      ],
+      "short": "McCall (Denzel Washington) zwingt den korrupten Polizisten Masters (David Harbour) zur Mithilfe.",
+      "context": "McCall (Denzel Washington) zwingt den korrupten Polizisten Masters (David Harbour) zur Mithilfe. Die Polizei findet anschließend das Geldwäschelager; McCalls Hinweis lenkt die Ermittlungen auf die wirtschaftliche Struktur des Syndikats.",
+      "anchor": "Das Geldlager führt von einzelnen Gewalttätern zur Struktur hinter ihnen.",
+      "interest": "Das Geldlager führt von einzelnen Gewalttätern zur Struktur hinter ihnen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum kommt es in @ zum abschließenden Kampf in McCalls Baumarkt?",
+      "answers": [
+        "Nicolai nimmt dort McCalls Kollegen als Geiseln.",
+        "McCall bestellt alle Gangster zu einem vereinbarten Geldtausch.",
+        "Die Polizei bringt Nicolai zur Gegenüberstellung in den Laden.",
+        "Alina versteckt gestohlene Unterlagen im Lager."
+      ],
+      "feedback": [
+        "Nicolai (Marton Csokas) benutzt die Kollegen als Druckmittel.",
+        "Ein freiwilliger Geldtausch bildet nicht den Auslöser.",
+        "Nicolai wird nicht von der Polizei dorthin gebracht.",
+        "Alinas Unterlagen spielen für diesen Schauplatz keine Rolle."
+      ],
+      "short": "Nicolai (Marton Csokas) benutzt die Kollegen als Druckmittel.",
+      "context": "Nicolai (Marton Csokas) benutzt die Kollegen als Druckmittel. McCall (Denzel Washington) verlagert den Kampf in seine vertraute Umgebung und setzt Werkzeuge ein; die Geiseln bestimmen dabei sein unmittelbares Schutzmotiv.",
+      "anchor": "Die Kollegen werden zum Druckmittel an McCalls vertrautem Arbeitsort.",
+      "interest": "Die Kollegen werden zum Druckmittel an McCalls vertrautem Arbeitsort.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie verhindert McCall im Finale von @, dass Nicolai Ralphie erschießt?",
+      "answers": [
+        "Er tötet Nicolai mit einer Nagelpistole.",
+        "Er schießt durch ein Regal mit Ralphies Pistole.",
+        "Er löst eine Explosion an der Eingangstür aus.",
+        "Er lässt einen Gabelstapler auf Nicolai stürzen."
+      ],
+      "feedback": [
+        "McCall (Denzel Washington) benutzt eine Nagelpistole gegen Nicolai (Marton Csokas).",
+        "Ralphies Pistole ist nicht das entscheidende Werkzeug.",
+        "Eine Explosion beendet Nicolais Angriff nicht.",
+        "Ein Gabelstapler liefert nicht den tödlichen Treffer."
+      ],
+      "short": "McCall (Denzel Washington) benutzt eine Nagelpistole gegen Nicolai (Marton Csokas).",
+      "context": "McCall (Denzel Washington) benutzt eine Nagelpistole gegen Nicolai (Marton Csokas). Ralphie (Johnny Skourtis) hatte McCall zuvor beim Befreien der Kollegen geholfen; die letzte Rettung setzt den Schutz des Arbeitsumfelds fort.",
+      "anchor": "Das Baumarktwerkzeug beendet die Bedrohung des Kollegen.",
+      "interest": "Das Baumarktwerkzeug beendet die Bedrohung des Kollegen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2014",
+        "2012",
+        "2009",
+        "2015"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 2014.",
+        "2012 liegt zwei Jahre vor der ersten Veröffentlichung.",
+        "2009 liegt fünf Jahre vor der Erstveröffentlichung.",
+        "2015 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2014 erstmals veröffentlicht.",
+      "context": "2014 begann die Kinoreihe mit Denzel Washington. The Equalizer 2 erschien 2018, vier Jahre später; der erste Film etabliert McCalls Hilfsangebote als Grundlage weiterer Geschichten.",
+      "anchor": "The Equalizer erschien 2014; die Fortsetzung folgte 2018, vier Jahre später.",
+      "interest": "The Equalizer erschien 2014; die Fortsetzung folgte 2018, vier Jahre später.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Antoine Fuqua",
+        "Tony Scott",
+        "Martin Campbell",
+        "Pierre Morel"
+      ],
+      "feedback": [
+        "Antoine Fuqua führte Regie.",
+        "Tony Scott hat hier keinen Regiecredit.",
+        "Martin Campbell hat hier keinen Regiecredit.",
+        "Pierre Morel hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Antoine Fuqua.",
+      "context": "Fuqua inszeniert McCalls Rückkehr aus dem selbst gewählten ruhigen Leben. Die körperliche Präzision steht neben Denzel Washingtons zurückhaltendem Auftreten; aus einem scheinbar gewöhnlichen Kunden wird im Baumarkt ein Gegner, der seine Umgebung genau beherrscht.",
+      "anchor": "Fuqua verbindet McCalls ruhiges Alltagsleben mit präzise genutzter Gewalt.",
+      "interest": "Fuqua verbindet McCalls ruhiges Alltagsleben mit präzise genutzter Gewalt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

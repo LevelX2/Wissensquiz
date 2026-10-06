@@ -1,0 +1,223 @@
+{
+  "rank": 3,
+  "directors": [
+    "Peter Jackson"
+  ],
+  "production_countries": [
+    "Neuseeland",
+    "USA"
+  ],
+  "series": "King Kong",
+  "familiarity_reason": "Eine große moderne Neuverfilmung mit bekannten Darstellern; die Filmfassung wird ausdrücklich von der ursprünglichen Version getrennt.",
+  "release_note": "Weltpremiere am 5. Dezember 2005 in New York; US-Kinostart am 14. Dezember. Die Handlung ist weiterhin in den 1930er-Jahren angesiedelt.",
+  "sources": {
+    "studio": "https://www.universalpicturesathome.com/movies/king-kong-2005",
+    "afi": "https://catalog.afi.com/Catalog/moviedetails/54475",
+    "handlung": "https://en.wikipedia.org/wiki/King_Kong_(2005_film)",
+    "tiere": "https://www.americanhumane.org/production/king-kong/",
+    "weta": "https://www.wetafx.co.nz/films/case-studies/kong",
+    "serkis": "https://www-ext.wetafx.co.nz/articles/what-the-man-who-groomed-king-kong-can-teach-you-about-a-successful-career",
+    "original": "https://catalog.afi.com/Film/4005-KING-KONG"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Als was arbeitet Ann Darrow (Naomi Watts) zu Beginn von @ mit Jack Black?",
+      "answers": [
+        "Als Varietékünstlerin",
+        "Als Biologin",
+        "Als Zeitungsfotografin",
+        "Als Schiffsköchin"
+      ],
+      "feedback": [
+        "Ann kommt aus einer Varietérevue.",
+        "Sie ist keine Forscherin auf einer biologischen Expedition.",
+        "Nicht die Pressefotografie bildet ihren beruflichen Ausgangspunkt.",
+        "Sie wird als Darstellerin engagiert, nicht für die Schiffsküche."
+      ],
+      "short": "Ann Darrow ist eine arbeitslos gewordene Varietékünstlerin.",
+      "context": "Ann Darrow (Naomi Watts) verliert mit der Schließung ihrer Revue ihr Einkommen. Carl Denham (Jack Black) bietet ihr daraufhin eine Filmrolle an. Ihre Bühnenfertigkeiten bleiben für die Reise bedeutsam: Ann ist keine Forscherin, sondern eine Darstellerin, die später mit Bewegung und Komik Kontakt zu Kong aufnehmen kann.",
+      "anchor": "Naomi Watts’ Ann bringt Varietéfertigkeiten auf die Insel mit.",
+      "interest": "Der Beruf verbindet die soziale Ausgangslage mit dem späteren Kontakt zur Kreatur.",
+      "sources": [
+        "tiere",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Beruf hat Jack Driscoll (Adrien Brody) in der Neuverfilmung @ mit Naomi Watts?",
+      "answers": [
+        "Dramatiker und Drehbuchautor",
+        "Erster Offizier des Schiffes",
+        "Tierarzt der Expedition",
+        "Pressedirektor des Studios"
+      ],
+      "feedback": [
+        "Jack ist der von Ann geschätzte Autor.",
+        "Diese Seemannsrolle gehört zur ursprünglichen Fassung, nicht zu Brodys Jack.",
+        "Jack ist kein Tierarzt.",
+        "Er arbeitet nicht als Pressedirektor."
+      ],
+      "short": "Jack Driscoll ist in dieser Fassung ein Dramatiker und Drehbuchautor.",
+      "context": "Ann Darrow (Naomi Watts) kennt die Arbeiten von Jack Driscoll (Adrien Brody), bevor sie ihm begegnet. Sein Name hilft Carl Denham (Jack Black), sie für die Reise zu gewinnen. Der Autor fährt schließlich mit. Damit erhält Jack einen anderen Ausgangspunkt als der gleichnamige Seemann in der ursprünglichen Filmfassung.",
+      "anchor": "Brodys Jack schreibt; der Jack des Originals fährt als Offizier.",
+      "interest": "Eine wichtige Rollenänderung grenzt die Neuverfilmung vom Original ab.",
+      "sources": [
+        "afi",
+        "handlung",
+        "original"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie gewinnt Ann Darrow (Naomi Watts) in @ auf der Insel erstmals Kongs Aufmerksamkeit auf freundlichere Weise?",
+      "answers": [
+        "Sie zeigt ihm komische Bühnenkunststücke.",
+        "Sie heilt mit Medizin seine Wunden.",
+        "Sie singt ihm die Melodie des Schiffshorns vor.",
+        "Sie füttert ihn aus dem Vorrat der Expedition."
+      ],
+      "feedback": [
+        "Ann benutzt ihre körperliche Komik aus dem Varieté.",
+        "Eine medizinische Behandlung begründet nicht diese Annäherung.",
+        "Das Nachsingen eines Schiffshorns ist nicht ihre Darbietung.",
+        "Das Expeditionseigentum dient nicht als erste Vertrauensgabe."
+      ],
+      "short": "Ann setzt ihre Varietékomik ein und unterhält Kong.",
+      "context": "Ann Darrow (Naomi Watts) kann Kong nicht mit gewöhnlichen Argumenten erreichen. Sie beginnt stattdessen, ihn mit ihrer körperlichen Bühnenkunst zu beschäftigen. Die Begegnung knüpft an ihren früheren Beruf an und verändert das Verhältnis zwischen beiden: Aus bloßer Gefangenschaft entsteht ein wechselseitiger Kontakt, der spätere Rettungen verständlicher macht.",
+      "anchor": "Anns Varietékomik öffnet einen Zugang zu Kong.",
+      "interest": "Eine Handlung erklärt den Wandel einer Figurenbeziehung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Haltung nimmt Ann Darrow (Naomi Watts) in @ gegenüber Denhams New Yorker Bühnenschau ein?",
+      "answers": [
+        "Sie weigert sich, bei der Schau mitzuwirken.",
+        "Sie führt die Schau als Regisseurin weiter.",
+        "Sie kauft Kong dem Veranstalter ab.",
+        "Sie organisiert selbst die Fotografenrunde."
+      ],
+      "feedback": [
+        "Ann tritt nicht in der Vorführung des gefesselten Kong auf.",
+        "Sie übernimmt keine Regie für Denhams Schaustellung.",
+        "Sie erwirbt Kong nicht als Privatbesitz.",
+        "Sie organisiert nicht die Presseinszenierung."
+      ],
+      "short": "Ann lehnt die Mitwirkung an Denhams Kong-Schau ab.",
+      "context": "Carl Denham (Jack Black) will Kong am Broadway als Attraktion vermarkten. Ann Darrow (Naomi Watts) macht dabei nicht mit; eine andere Frau übernimmt auf der Bühne ihre Rolle. Der Film trennt dadurch Anns Beziehung zur Kreatur von Denhams Geschäftsinteresse. Das Publikum sieht eine nachgestellte Rettung, während das gefangene Tier Ann selbst sucht.",
+      "anchor": "Ann verweigert die Show; Denham ersetzt sie auf der Bühne.",
+      "interest": "Die unterschiedliche Haltung der Figuren verdeutlicht den Konflikt um die Schaustellung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welcher Darsteller liefert in @ mit Naomi Watts die Bewegungsdarstellung für den digital erschaffenen Kong?",
+      "answers": [
+        "Andy Serkis",
+        "Doug Jones",
+        "Alan Tudyk",
+        "Terry Notary"
+      ],
+      "feedback": [
+        "Serkis’ Darstellung ist eine Grundlage für Kongs digitale Performance.",
+        "Jones liefert hier nicht die Kong-Darstellung.",
+        "Tudyk ist nicht der Bewegungsdarsteller dieses Kong.",
+        "Notary ist nicht die gesuchte Hauptdarstellung dieser Fassung."
+      ],
+      "short": "Andy Serkis liefert die Performance für Kong.",
+      "context": "Kong ist bei Wētā eine digitale Figur. Seine Darstellung verbindet aufgezeichnetes Schauspiel mit zusätzlicher Animation, statt allein automatisch Bewegungen zu kopieren. Andy Serkis trägt zur körperlichen und emotionalen Gestaltung bei. Das Ergebnis erklärt, wie ein Wesen ohne gesprochenen Dialog zugleich als riesiges Tier und als handelnde Figur wirken kann.",
+      "anchor": "Serkis’ Spiel und Wētās Animation formen den digitalen Kong.",
+      "interest": "Die Frage verbindet Schauspiel mit dem Verständnis digitaler Figuren.",
+      "sources": [
+        "serkis",
+        "weta"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Bedrohung im Schluchtabgrund baut @ mit Naomi Watts aus einer berühmt gewordenen, verworfenen Idee des Originals aus?",
+      "answers": [
+        "Rieseninsekten und andere kriechende Kreaturen",
+        "Ein Angriff weiterer Raubsaurier",
+        "Eine Flutwelle in einer unterirdischen Höhle",
+        "Ein erneuter Angriff Kongs"
+      ],
+      "feedback": [
+        "Die Kreaturen im Abgrund greifen eine verworfene Monsterszene auf.",
+        "Die verworfene Szene betrifft die kriechenden Kreaturen im Abgrund.",
+        "Eine Höhlenflut ist nicht die wiederaufgenommene Idee.",
+        "Kong löst nicht diesen Angriff im Schluchtabgrund aus."
+      ],
+      "short": "Die Kreaturen im Abgrund erweitern die bekannte verworfene Spinnenidee des Originals.",
+      "context": "Die Männer geraten nach dem Sturz in die Schlucht zwischen riesige kriechende Kreaturen. Diese Passage greift Material auf, das mit einer verworfenen Spinnenszene des ursprünglichen „King Kong“ verbunden ist. Der Bezug betrifft eine zusätzliche Gefahr für die Suchtruppe; er bedeutet nicht, dass die Szene in der regulären Originalfassung enthalten wäre.",
+      "anchor": "Jackson baut die verworfene Abgrundidee als neue Kreaturenszene aus.",
+      "interest": "Ein konkreter Vergleich erklärt, wie eine Neuverfilmung fehlendes Material neu gestaltet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Naomi Watts und Jack Black erstmals veröffentlicht?",
+      "answers": [
+        "2005",
+        "1997",
+        "2011",
+        "2018"
+      ],
+      "feedback": [
+        "Die Weltpremiere und der Kinostart lagen 2005.",
+        "1997 erschien diese Neuverfilmung noch nicht.",
+        "2011 ist später als Jacksons Kong-Film.",
+        "2018 liegt lange nach der Premiere."
+      ],
+      "short": "Die Neuverfilmung mit Naomi Watts wurde 2005 veröffentlicht.",
+      "context": "2005 erschien diese „King Kong“-Fassung, 72 Jahre nach dem Original von 1933. Trotz des großen technischen Abstands bleibt die Geschichte in der alten Epoche angesiedelt. Der zeitliche Anker liegt deshalb zwischen den Veröffentlichungen, nicht zwischen den Handlungen: Moderne digitale Effekte erzählen erneut ein Abenteuer im New York der 1930er-Jahre.",
+      "anchor": "2005 folgt der neue Kong dem Original von 1933 mit 72 Jahren Abstand.",
+      "interest": "Der Abstand der Neuverfilmung schafft einen verständlichen zeitlichen Anker.",
+      "sources": [
+        "studio",
+        "original",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Naomi Watts und Jack Black Regie?",
+      "answers": [
+        "Peter Jackson",
+        "Guillermo del Toro",
+        "Robert Zemeckis",
+        "James Cameron"
+      ],
+      "feedback": [
+        "Jackson ist der ausgewiesene Regisseur dieser Fassung.",
+        "Del Toro gehört nicht zum Regiecredit.",
+        "Zemeckis führte nicht die Hauptregie dieses Kong-Films.",
+        "Cameron inszenierte diese Neuverfilmung nicht."
+      ],
+      "short": "Peter Jackson führte bei dieser Neuverfilmung Regie.",
+      "context": "Peter Jackson arbeitet für „King Kong“ erneut mit einem großen digitalen Effektapparat. Die Geschichte folgt dem ursprünglichen Abenteuer, gestaltet den Kontakt von Ann Darrow (Naomi Watts) und Kong aber ausführlicher. Jacksons Hauptregie und Wētās Figurenarbeit erfüllen dabei verschiedene Aufgaben: Die Inszenierung führt die Geschichte, die Animation macht die Kreatur sichtbar.",
+      "anchor": "Jackson inszeniert die Neuverfilmung; Wētā gestaltet die digitale Kreatur.",
+      "interest": "Regie und Effektarbeit werden mit einem konkreten Filmzusammenhang verbunden.",
+      "sources": [
+        "studio",
+        "weta"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

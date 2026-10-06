@@ -1,0 +1,218 @@
+{
+  "rank": 185,
+  "directors": [
+    "Gareth Edwards"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein neueres großes Science-Fiction-Werk für Genreinteressierte, weniger breit verankert als Dune oder Star Wars.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 2023; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Creator_(2023_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Creator_(2023_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "studio": "https://www.20thcenturystudios.com/movies/the-creator"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Gestalt hat die gesuchte neue KI-Waffe in @?",
+      "answers": [
+        "Ein robotisches Kind",
+        "Ein unauffälliger erwachsener Simulant",
+        "Eine bewegliche Drohne ohne Gesicht",
+        "Ein fest installierter Großrechner"
+      ],
+      "feedback": [
+        "Die vermeintliche Waffe erscheint als robotisches Mädchen Alphie (Madeleine Yuna Voyles).",
+        "Die neue Waffe ist Alphie in Kindgestalt.",
+        "Alphie hat die Gestalt eines Kindes.",
+        "Die gesuchte Intelligenz ist kein stationärer Rechner."
+      ],
+      "short": "Die vermeintliche Waffe erscheint als robotisches Mädchen Alphie (Madeleine Yuna Voyles).",
+      "context": "Die vermeintliche Waffe erscheint als robotisches Mädchen Alphie (Madeleine Yuna Voyles). Joshua Taylor (John David Washington) muss dadurch seine militärische Aufgabe an einem schutzbedürftig wirkenden Gegenüber prüfen.",
+      "anchor": "Die Waffe begegnet Joshua als Kind.",
+      "interest": "Die Waffe begegnet Joshua als Kind.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Fähigkeit macht Alphie (Madeleine Yuna Voyles) in @ besonders gefährlich für NOMAD?",
+      "answers": [
+        "Sie kann technische Systeme beeinflussen.",
+        "Sie kann jede menschliche Erinnerung vollständig lesen.",
+        "Sie kann beliebige Simulanten körperlich vervielfältigen.",
+        "Sie kann Ortungssignale nur für sich abschirmen."
+      ],
+      "feedback": [
+        "Alphie kann technische Systeme kontrollieren.",
+        "Ihre besondere Wirkung richtet sich auf technische Systeme.",
+        "Sie beeinflusst Geräte statt Körperkopien herzustellen.",
+        "Ihr Einfluss ist weitergehend als ein eigener Tarnschutz."
+      ],
+      "short": "Alphie kann technische Systeme kontrollieren.",
+      "context": "Alphie kann technische Systeme kontrollieren. Diese Fähigkeit bedroht NOMADs militärische Überlegenheit und erklärt, warum Joshua Taylor (John David Washington) sie zunächst als Ziel eines Vernichtungsauftrags findet.",
+      "anchor": "Alphies technische Macht bedroht die Kriegsmaschine.",
+      "interest": "Alphies technische Macht bedroht die Kriegsmaschine.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche militärische Funktion erfüllt NOMAD in @?",
+      "answers": [
+        "Es führt Angriffe aus dem Orbit aus.",
+        "Es trainiert Simulanten in einem geschützten Lager.",
+        "Es organisiert eine ausschließlich zivile Evakuierung.",
+        "Es koordiniert den KI-Widerstand am Boden."
+      ],
+      "feedback": [
+        "NOMAD ist eine orbitale Angriffsplattform.",
+        "NOMAD ist eine orbital eingesetzte Angriffsplattform.",
+        "Seine militärischen Schläge prägen die Verfolgung.",
+        "NOMAD dient den gegen die KI kämpfenden Kräften."
+      ],
+      "short": "NOMAD ist eine orbitale Angriffsplattform.",
+      "context": "NOMAD ist eine orbitale Angriffsplattform. Ihre Reichweite hält New Asia unter Bedrohung; die persönliche Flucht von Joshua (John David Washington) und Alphie (Madeleine Yuna Voyles) führt deshalb zu einer strategischen Auseinandersetzung um dieses System.",
+      "anchor": "Die Orbitalplattform verbindet lokale Verfolgung und großräumigen Krieg.",
+      "interest": "Die Orbitalplattform verbindet lokale Verfolgung und großräumigen Krieg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Information über Maya (Gemma Chan) verändert Joshuas Auftrag in @?",
+      "answers": [
+        "Sie selbst ist die gesuchte Nirmata.",
+        "Sie hat Alphie ohne Wissen der Nirmata adoptiert.",
+        "Sie arbeitet heimlich als NOMADs Pilotin.",
+        "Sie ist seit Beginn seine militärische Kontaktperson."
+      ],
+      "feedback": [
+        "Maya selbst ist Nirmata, die gesuchte KI-Schöpferin.",
+        "Maya ist selbst die gesuchte Schöpferin.",
+        "Maya steht hinter der neuen KI.",
+        "Die Enthüllung betrifft ihre Rolle als Nirmata."
+      ],
+      "short": "Maya selbst ist Nirmata, die gesuchte KI-Schöpferin.",
+      "context": "Maya selbst ist Nirmata, die gesuchte KI-Schöpferin. Joshua Taylor (John David Washington) erfährt, dass militärische Verantwortliche diesen Zusammenhang verschwiegen hatten; die Suche nach seiner Frau und die Feindmission gehören damit zusammen.",
+      "anchor": "Die gesuchte Schöpferin ist Joshuas eigene Frau.",
+      "interest": "Die gesuchte Schöpferin ist Joshuas eigene Frau.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche alternative Erklärung erhält Joshua (John David Washington) in @ für die Explosion in Los Angeles?",
+      "answers": [
+        "Menschliches Versagen wurde der KI zugeschrieben.",
+        "Die Explosion war eine geplante Selbstzerstörung aller Simulanten.",
+        "Die Armee hatte sie als kontrollierte Vorführung geplant.",
+        "Eine fremde KI hatte beide Seiten bewusst getäuscht."
+      ],
+      "feedback": [
+        "Harun (Ken Watanabe) erklärt, menschliches Versagen sei der KI angelastet worden.",
+        "Die erhaltene Erklärung nennt menschlichen Fehler.",
+        "Ein versehentlicher menschlicher Fehler ist die alternative Ursache.",
+        "Eine zusätzliche fremde KI ist nicht die Erklärung."
+      ],
+      "short": "Harun (Ken Watanabe) erklärt, menschliches Versagen sei der KI angelastet worden.",
+      "context": "Harun (Ken Watanabe) erklärt, menschliches Versagen sei der KI angelastet worden. Das widerspricht der offiziellen Kriegsbegründung; Joshua (John David Washington) muss deshalb die angebliche Eindeutigkeit seiner Seite neu bewerten.",
+      "anchor": "Die Rechtfertigung des Kriegs wird durch eine andere Ursache erschüttert.",
+      "interest": "Die Rechtfertigung des Kriegs wird durch eine andere Ursache erschüttert.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie ermöglicht Alphie (Madeleine Yuna Voyles) in @ Joshuas letztes Wiedersehen mit Maya?",
+      "answers": [
+        "Sie aktiviert einen Simulanten mit Mayas gespeicherten Erinnerungen.",
+        "Sie sendet eine alte Videobotschaft in seine Kabine.",
+        "Sie stellt eine Verbindung zur noch lebenden Maya her.",
+        "Sie versetzt ihn in eine künstliche Traumkopie ihrer Wohnung."
+      ],
+      "feedback": [
+        "Alphie verwendet Mayas gespeicherte Erinnerungen für einen Simulanten.",
+        "Das Wiedersehen erfolgt über einen aktivierten Simulanten.",
+        "Maya lebt nicht als leiblicher Mensch weiter.",
+        "Die Szene ist kein Wohnungs-Traumprogramm."
+      ],
+      "short": "Alphie verwendet Mayas gespeicherte Erinnerungen für einen Simulanten.",
+      "context": "Alphie verwendet Mayas gespeicherte Erinnerungen für einen Simulanten. Joshua (John David Washington) kann Maya (Gemma Chan) dadurch nochmals begegnen; die Szene verbindet die zuvor als Feindtechnik behandelte KI mit einem sehr persönlichen Abschied.",
+      "anchor": "KI-Technik ermöglicht den letzten persönlichen Abschied.",
+      "interest": "KI-Technik ermöglicht den letzten persönlichen Abschied.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2023",
+        "2020",
+        "2016",
+        "2025"
+      ],
+      "feedback": [
+        "2023 erschien der Film.",
+        "2020 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2023 wird im zeitlichen Hintergrund erklärt.",
+        "2016 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2023 wird im zeitlichen Hintergrund erklärt.",
+        "2025 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2023 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2023 erschien der Film.",
+      "context": "2023 erschien der Film. Gareth Edwards’ „Rogue One“ stammt von 2016, sieben Jahre zuvor. Die neue Geschichte führt seine Verbindung großräumiger Science-Fiction-Kriegsbilder mit einer überschaubaren persönlichen Mission außerhalb des Star-Wars-Universums fort.",
+      "anchor": "Rogue One 2016, The Creator 2023: Sieben Jahre später gestaltet Edwards einen weiteren persönlichen Auftrag im Science-Fiction-Krieg.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Gareth Edwards",
+        "Denis Villeneuve",
+        "Christopher Nolan",
+        "Alex Garland"
+      ],
+      "feedback": [
+        "Gareth Edwards führte Regie und entwickelte die Geschichte; das Drehbuch schrieb er mit Chris Weitz.",
+        "Denis Villeneuve wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Gareth Edwards.",
+        "Christopher Nolan wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Gareth Edwards.",
+        "Alex Garland wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Gareth Edwards."
+      ],
+      "short": "Gareth Edwards führte Regie und entwickelte die Geschichte; das Drehbuch schrieb er mit Chris Weitz.",
+      "context": "Gareth Edwards führte Regie und entwickelte die Geschichte; das Drehbuch schrieb er mit Chris Weitz. John David Washington spielt Joshua Taylor, Madeleine Yuna Voyles Alphie. Der Auftrag zur Zerstörung einer vermeintlichen Waffe wird durch deren kindliche Gestalt zu einem Loyalitätskonflikt.",
+      "anchor": "Gareth Edwards führte Regie und entwickelte die Geschichte; das Drehbuch schrieb er mit Chris Weitz.",
+      "interest": "Gareth Edwards führte Regie und entwickelte die Geschichte; das Drehbuch schrieb er mit Chris Weitz.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

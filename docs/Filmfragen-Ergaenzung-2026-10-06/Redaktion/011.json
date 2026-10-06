@@ -1,0 +1,218 @@
+{
+  "rank": 11,
+  "directors": [
+    "Ron Clements",
+    "John Musker",
+    "Don Hall",
+    "Chris Williams"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein bekannter Disney-Abenteuerfilm, dessen Inselwelt und Figuren auch ohne Spezialwissen zugänglich sind.",
+  "release_note": "Premiere beim AFI Fest am 14. November 2016; erste Veröffentlichung 2016.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Moana_(2016_film)",
+    "disney": "https://www.disneyanimation.com/films/moana/",
+    "interview": "https://www.motionpictures.org/2016/11/storyboard-screen-behind-scenes-disneys-moana/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was muss Vaiana (Originalstimme Auliʻi Cravalho) in @ der Göttin Te Fiti zurückbringen?",
+      "answers": [
+        "Ihr gestohlenes Herz",
+        "Eine verlorene Krone",
+        "Ein zerbrochenes Schwert",
+        "Ein versunkenes Segel"
+      ],
+      "feedback": [
+        "Das steinerne Herz soll Te Fitis Kraft wiederherstellen.",
+        "Eine Krone ist nicht der Auftrag.",
+        "Ein Schwert ist nicht der gesuchte Gegenstand.",
+        "Das Segel ist nicht Te Fitis verlorener Besitz."
+      ],
+      "short": "Vaiana soll Te Fitis Herz zurückbringen.",
+      "context": "Der Verlust des Herzens bedroht die Inseln. Vaianas Reise soll dieses Ungleichgewicht beheben. Maui (Dwayne Johnson), der das Herz einst nahm, wird zum schwierigen Begleiter auf dem Rückweg.",
+      "anchor": "Vaianas Auftrag ist die Rückgabe von Te Fitis Herz.",
+      "interest": "Die Aufgabe führt direkt in den zentralen Konflikt.",
+      "sources": [
+        "handlung",
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche besondere Stellung hat Maui (Originalstimme Dwayne Johnson) in @?",
+      "answers": [
+        "Er ist ein Halbgott.",
+        "Er ist Vaianas jüngerer Bruder.",
+        "Er ist ein sterblicher Dorfältester.",
+        "Er ist der König einer Piratenflotte."
+      ],
+      "feedback": [
+        "Maui ist der mächtige Halbgott.",
+        "Er gehört nicht als Bruder zu Vaianas Familie.",
+        "Er ist kein gewöhnlicher sterblicher Dorfältester.",
+        "Die Kakamora-Piraten werden nicht von ihm regiert."
+      ],
+      "short": "Maui ist ein Halbgott.",
+      "context": "Vaiana (Auliʻi Cravalho) sucht einen Begleiter mit Fähigkeiten, die ihr selbst fehlen. Maui kann Gestalten wechseln, ist aber zunächst mehr an seiner eigenen Macht interessiert. Die Begegnung verlangt deshalb mehr als das Finden eines starken Helfers.",
+      "anchor": "Maui ist der Halbgott, den Vaiana zur Rückgabe bewegen muss.",
+      "interest": "Die Figurenstellung erklärt sein Können und die schwierige Zusammenarbeit.",
+      "sources": [
+        "disney",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was entdeckt Vaiana (Originalstimme Auliʻi Cravalho) in der verborgenen Höhle in @?",
+      "answers": [
+        "Boote ihrer seefahrenden Vorfahren",
+        "Vorräte für eine geplante Auswanderung des Dorfes",
+        "Die Werkstatt, in der Mauis Haken entstand",
+        "Versteckte Wohnplätze früherer Dorfbewohner"
+      ],
+      "feedback": [
+        "Die Boote zeigen die vergessene Seefahrttradition.",
+        "Sie findet Boote, die die seefahrende Vergangenheit ihrer Vorfahren bezeugen.",
+        "Die Höhle ist keine Werkstatt für Mauis Haken.",
+        "Die Boote, nicht frühere Wohnplätze, führen sie zur verdrängten Geschichte."
+      ],
+      "short": "Die Höhle enthält Boote der früheren Seefahrer.",
+      "context": "Großmutter Tala (Rachel House) zeigt Vaiana die verborgene Flotte. Damit wird aus ihrer persönlichen Sehnsucht eine Verbindung zur Geschichte ihres Volkes. Die Vorfahren waren Reisende, bevor die Gemeinschaft sich hinter das Riff zurückzog.",
+      "anchor": "Die versteckten Boote zeigen: Vaianas Volk war früher auf dem Meer unterwegs.",
+      "interest": "Der Fund verändert das Verständnis der eigenen Herkunft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Erkenntnis ermöglicht Vaiana (Originalstimme Auliʻi Cravalho) in @, Te Kā ohne weiteren Kampf zu begegnen?",
+      "answers": [
+        "Te Kā ist Te Fiti ohne ihr Herz.",
+        "Te Kā ist eine Wächterin, die Te Fiti gefangen hält.",
+        "Te Kā ist Maui in einer unkontrollierten Verwandlung.",
+        "Te Kā ist ein eigenständiges Wesen, das Te Fitis Herz besitzt."
+      ],
+      "feedback": [
+        "Vaiana erkennt die verwandelte Te Fiti.",
+        "Te Kā hält Te Fiti nicht gefangen; beide sind dieselbe verwandelte Gestalt.",
+        "Maui und Te Kā sind verschiedene Figuren.",
+        "Das verlorene Herz muss Te Kā zurückgegeben werden, damit Te Fiti wiederkehrt."
+      ],
+      "short": "Te Kā und Te Fiti sind dieselbe Gestalt in verändertem Zustand.",
+      "context": "Vaiana betrachtet die Bedrohung neu, als sie Te Fiti nicht am erwarteten Ort findet. Die Rückgabe des Herzens ersetzt den Versuch, den Gegner zu besiegen. Die Auflösung verbindet ihr Reiseauftrag mit einer überraschenden Identität.",
+      "anchor": "Te Kā ist die verletzte Te Fiti; das Herz beendet den Konflikt.",
+      "interest": "Die Erkenntnis erklärt die ungewöhnliche Lösung des Endkampfs.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie wurde das lebendige kleine Maui-Tattoo für @ gestaltet?",
+      "answers": [
+        "Als handgezeichnete Animation innerhalb der Computerbilder",
+        "Als gefilmte Körperbemalung auf einem Darsteller",
+        "Als dreidimensionales Miniaturmodell mit eigener Beleuchtung",
+        "Als Bewegungserfassung eines zweiten Darstellers"
+      ],
+      "feedback": [
+        "Mini Maui wurde auf Papier animiert und digital eingefügt.",
+        "Das kleine Tattoo wurde von Hand animiert, nicht als Körperbemalung gefilmt.",
+        "Es ist keine eigenständig beleuchtete dreidimensionale Figur.",
+        "Die lebendige Zeichnung stammt nicht aus der Bewegungserfassung eines zweiten Darstellers."
+      ],
+      "short": "Mini Maui verbindet handgezeichnete Animation mit der Computeranimation.",
+      "context": "Eric Goldberg betreute den kleinen Tattoo-Charakter. Die Zeichnungen wurden eingescannt und in die digitale Bildwelt übernommen. Eine eigene bewegte Figur sitzt damit auf der Oberfläche eines anderen animierten Körpers.",
+      "anchor": "Mini Maui ist Zeichentrick auf dem computeranimierten Maui.",
+      "interest": "Ein sichtbar ungewöhnliches Gestaltungsmittel wird technisch verständlich.",
+      "sources": [
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Welche besondere Animationsaufgabe stellte der Ozean in @ laut dem Produktionsteam?",
+      "answers": [
+        "Gefühle ohne normales Gesicht oder Körper ausdrücken",
+        "Eine feste menschliche Gesichtsmimik auf jede Welle übertragen",
+        "Gefühle ausschließlich durch gesprochene Dialoge vermitteln",
+        "Für jede Begegnung dieselbe gleichförmige Wellenbewegung benutzen"
+      ],
+      "feedback": [
+        "Das Wasser sollte als handelnder Charakter verständlich werden.",
+        "Der Ozean sollte ohne ein normales Gesicht als Figur verständlich werden.",
+        "Seine Haltung wird durch Bewegung ausgedrückt, nicht ausschließlich durch Dialoge.",
+        "Die Bewegung musste unterschiedliche Absichten und Gefühle erkennbar machen."
+      ],
+      "short": "Der Ozean musste ohne gewöhnliche Gesichtszüge als Figur funktionieren.",
+      "context": "Animation und Effektabteilung arbeiteten gemeinsam an Bewegung und glaubwürdigem Wasser. Der Ozean hilft Vaiana (Auliʻi Cravalho), soll ihr aber nicht jede Aufgabe abnehmen. Gestaltung und Erzählfunktion mussten deshalb aufeinander abgestimmt werden.",
+      "anchor": "Der Ozean handelt als Figur, obwohl er kein menschliches Gesicht hat.",
+      "interest": "Der Produktionszusammenhang erklärt eine prägende Besonderheit der Bildwelt.",
+      "sources": [
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde Disneys animierter Film @ mit Dwayne Johnson als Maui erstmals veröffentlicht?",
+      "answers": [
+        "2016",
+        "2006",
+        "2012",
+        "2020"
+      ],
+      "feedback": [
+        "Die Premiere und der erste Kinostart lagen 2016.",
+        "2006 ist für diese Fassung zu früh.",
+        "2012 liegt vor der Erstveröffentlichung.",
+        "2020 ist nach dem ersten Kinostart."
+      ],
+      "short": "Die erste Veröffentlichung lag 2016.",
+      "context": "„Vaiana“ kam 2016 heraus, im selben Jahr wie Disneys „Zoomania“. Das Produktionsteam beschreibt, wie Animatoren von „Zoomania“ zu „Vaiana“ wechselten. Zwei sehr unterschiedliche Bildwelten verbinden sich so mit einem gemeinsamen Arbeitsjahr.",
+      "anchor": "2016: Zoomania und Vaiana, Stadtgeschichte und Seereise aus demselben Studiojahr.",
+      "interest": "Eine dokumentierte Produktionsverbindung bildet den Zeitanker.",
+      "sources": [
+        "disney",
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Welches vollständige Regieteam nennt Disney für den animierten Film @?",
+      "answers": [
+        "Ron Clements, John Musker, Don Hall und Chris Williams",
+        "Jennifer Lee, Chris Buck, Byron Howard und Rich Moore",
+        "Brad Bird, Andrew Stanton, Lee Unkrich und Dan Scanlon",
+        "Chris Sanders, Dean DeBlois, Kelly Asbury und Conrad Vernon"
+      ],
+      "feedback": [
+        "Disney nennt alle vier Mitglieder dieses Teams.",
+        "Dieses Team ist nicht für Vaiana ausgewiesen.",
+        "Diese Pixar-Regisseure bilden nicht das Vaiana-Team.",
+        "Dieses Team gehört nicht zu dieser Produktion."
+      ],
+      "short": "Das vollständige Team besteht aus Ron Clements, John Musker, Don Hall und Chris Williams.",
+      "context": "Clements und Musker betreuten die Gesamtinszenierung. Hall und Williams konzentrierten sich laut dem Produktionsteam stärker auf die Struktur der Geschichte. Disneys Filmseite führt alle vier im Regiecredit.",
+      "anchor": "Clements und Musker führen die Gesamtinszenierung; Hall und Williams arbeiten an der Erzählstruktur.",
+      "interest": "Die vollständige Teamzuordnung erklärt die unterschiedlichen Regieaufgaben.",
+      "sources": [
+        "disney",
+        "interview"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "director_note": "Disney führt vier Regisseure. In anderen Quellen werden Don Hall und Chris Williams als Co-Regisseure getrennt aufgeführt; das vollständige offizielle Team wird hier erhalten."
+}

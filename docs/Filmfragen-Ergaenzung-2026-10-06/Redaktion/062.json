@@ -1,0 +1,221 @@
+{
+  "rank": 62,
+  "directors": [
+    "Hayao Miyazaki"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "International bekannte Ghibli-Figur, filmbezogen Gruppe bekannte Filme.",
+  "release_note": "Japanischer Kinostart 16. April 1988.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://www.ghibli.jp/works/totoro/",
+      "supports": "Offizielle japanische Filmidentität, Veröffentlichung und alleiniger Hauptregiecredit."
+    },
+    "chronik": {
+      "url": "https://www.ghibli.jp/chronology/",
+      "supports": "Doppelprogramm April 1988."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum zieht die Familie in @ aufs Land?",
+      "answers": [
+        "Um näher beim Krankenhaus der Mutter zu wohnen",
+        "Der Vater nimmt eine neue Stelle an der Dorfschule an.",
+        "Die Mutter möchte dort eine Bäckerei eröffnen.",
+        "Die Familie muss ihr bisheriges Haus einem Verwandten überlassen."
+      ],
+      "feedback": [
+        "Die Mutter liegt im Krankenhaus, und die Familie zieht näher zu ihr.",
+        "Die Nähe zur kranken Mutter bestimmt den Umzug.",
+        "Eine Bäckerei ist nicht geplant.",
+        "Eine Hausübergabe ist nicht der genannte Anlass."
+      ],
+      "short": "Die Mutter liegt im Krankenhaus, und die Familie zieht näher zu ihr.",
+      "context": "Die Mutter liegt im Krankenhaus, und die Familie zieht näher zu ihr. Satsuki (Originalstimme Noriko Hidaka) und Mei (Originalstimme Chika Sakamoto) erkunden dort ihr neues Zuhause.",
+      "anchor": "Der Umzug verbindet neues Zuhause und kranke Mutter.",
+      "interest": "Der Umzug verbindet neues Zuhause und kranke Mutter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Beziehung haben Satsuki und Mei in @?",
+      "answers": [
+        "Sie sind Schwestern.",
+        "Sie sind Mutter und Tochter.",
+        "Sie sind Lehrerin und Schülerin.",
+        "Sie sind einander unbekannt."
+      ],
+      "feedback": [
+        "Satsuki (Originalstimme Noriko Hidaka) und Mei (Originalstimme Chika Sakamoto) sind Schwestern.",
+        "Die ältere Satsuki ist nicht Meis Mutter.",
+        "Eine Lehrbeziehung verbindet sie nicht.",
+        "Sie gehören zur selben Familie."
+      ],
+      "short": "Satsuki (Originalstimme Noriko Hidaka) und Mei (Originalstimme Chika Sakamoto) sind Schwestern.",
+      "context": "Satsuki (Originalstimme Noriko Hidaka) und Mei (Originalstimme Chika Sakamoto) sind Schwestern. Unterschiedliches Alter verändert ihre Verantwortung, besonders wenn die Sorge um die Mutter wächst.",
+      "anchor": "Satsuki ist Meis ältere Schwester.",
+      "interest": "Satsuki ist Meis ältere Schwester.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was schenkt Satsuki dem wartenden Totoro im Regen in @?",
+      "answers": [
+        "Einen Regenschirm",
+        "Ein Handtuch",
+        "Eine Regenjacke",
+        "Einen Hut"
+      ],
+      "feedback": [
+        "Satsuki (Originalstimme Noriko Hidaka) bietet Totoro (Originalstimme Hitoshi Takagi) einen Schirm.",
+        "Satsuki leiht Totoro den Schirm.",
+        "Eine Jacke wird nicht übergeben.",
+        "Ein Hut ist nicht das Geschenk."
+      ],
+      "short": "Satsuki (Originalstimme Noriko Hidaka) bietet Totoro (Originalstimme Hitoshi Takagi) einen Schirm.",
+      "context": "Satsuki (Originalstimme Noriko Hidaka) bietet Totoro (Originalstimme Hitoshi Takagi) einen Schirm. Das gemeinsame Warten an einer gewöhnlichen Haltestelle verbindet die fantastische Begegnung mit einem vertrauten Alltagsmoment.",
+      "anchor": "Der Regenschirm macht die Haltestelle zum Begegnungsort.",
+      "interest": "Der Regenschirm macht die Haltestelle zum Begegnungsort.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was hilft Satsuki in @, ihre verschwundene Schwester zu finden?",
+      "answers": [
+        "Der Katzenbus",
+        "Der Vater auf seinem Fahrrad",
+        "Ein mit Totoro gerufener Wind",
+        "Ein zu Fuß folgender Dorfnachbar"
+      ],
+      "feedback": [
+        "Der Katzenbus bringt Satsuki (Originalstimme Noriko Hidaka) zu Mei (Originalstimme Chika Sakamoto).",
+        "Der Katzenbus sucht Mei.",
+        "Der Wind trägt sie nicht zu Mei.",
+        "Ein Nachbar übernimmt nicht die erfolgreiche Suche."
+      ],
+      "short": "Der Katzenbus bringt Satsuki (Originalstimme Noriko Hidaka) zu Mei (Originalstimme Chika Sakamoto).",
+      "context": "Der Katzenbus bringt Satsuki (Originalstimme Noriko Hidaka) zu Mei (Originalstimme Chika Sakamoto). Die zuvor wunderliche Figur erhält in der Krise eine konkrete helfende Funktion.",
+      "anchor": "Der Katzenbus wird im Ernstfall zum Suchfahrzeug.",
+      "interest": "Der Katzenbus wird im Ernstfall zum Suchfahrzeug.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was bleibt nach der nächtlichen Wachstumszeremonie in @ am nächsten Morgen tatsächlich sichtbar?",
+      "answers": [
+        "Die Samen sind gekeimt.",
+        "Der ausgewachsene Baum bleibt stehen.",
+        "Die Samen sind weiterhin völlig unverändert.",
+        "Die Saat ist von selbst auf ein anderes Feld gewandert."
+      ],
+      "feedback": [
+        "Die Samen sind am Morgen gekeimt, der riesige Baum ist verschwunden.",
+        "Der riesige Nachtbaum bleibt nicht erhalten.",
+        "Am Morgen sind Keimlinge sichtbar.",
+        "Ein Feldwechsel wird nicht gezeigt."
+      ],
+      "short": "Die Samen sind am Morgen gekeimt, der riesige Baum ist verschwunden.",
+      "context": "Die Samen sind am Morgen gekeimt, der riesige Baum ist verschwunden. Satsuki (Originalstimme Noriko Hidaka) und Mei (Originalstimme Chika Sakamoto) finden damit eine kleine reale Spur nach dem fantastischen Erlebnis.",
+      "anchor": "Der Traum vom Baum hinterlässt echte Keimlinge.",
+      "interest": "Der Traum vom Baum hinterlässt echte Keimlinge.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Warum verlässt Mei in @ allein das Haus und verirrt sich?",
+      "answers": [
+        "Sie möchte der Mutter Mais ins Krankenhaus bringen.",
+        "Sie will die Mutter sofort nach Hause begleiten.",
+        "Sie möchte ein Missverständnis mit dem Vater klären.",
+        "Sie sucht allein den Halteplatz des Katzenbusses."
+      ],
+      "feedback": [
+        "Mei (Originalstimme Chika Sakamoto) will der Mutter Mais bringen.",
+        "Mei will den Mais bringen.",
+        "Ein Vatergespräch ist nicht ihr Ziel.",
+        "Der Bus wird erst später für ihre Suche gerufen."
+      ],
+      "short": "Mei (Originalstimme Chika Sakamoto) will der Mutter Mais bringen.",
+      "context": "Mei (Originalstimme Chika Sakamoto) will der Mutter Mais bringen. Nach der Nachricht über den verschobenen Besuch versucht sie selbst zu helfen; die Fürsorge führt sie in eine Gefahr, die sie noch nicht überblickt.",
+      "anchor": "Meis Geschenk für die Mutter führt sie auf einen unbekannten Weg.",
+      "interest": "Meis Geschenk für die Mutter führt sie auf einen unbekannten Weg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1988",
+        "1986",
+        "1983",
+        "1989"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1988.",
+        "1986 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1983 liegt fünf Jahre davor.",
+        "1989 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1988 erstmals veröffentlicht.",
+      "context": "1988 startete der Film zusammen mit Isao Takahatas Die letzten Glühwürmchen als Doppelprogramm. Die gleichzeitige Veröffentlichung verbindet zwei sehr unterschiedliche Ghibli-Blicke auf Kindheit; der Nachbarfilm ist daher ein konkreter Jahresanker.",
+      "anchor": "1988 erschienen Totoro und Die letzten Glühwürmchen gemeinsam als Ghibli-Doppelprogramm.",
+      "interest": "1988 erschienen Totoro und Die letzten Glühwürmchen gemeinsam als Ghibli-Doppelprogramm.",
+      "sources": [
+        "studio",
+        "chronik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Hayao Miyazaki",
+        "Isao Takahata",
+        "Yoshifumi Kondō",
+        "Hiromasa Yonebayashi"
+      ],
+      "feedback": [
+        "Hayao Miyazaki führte Regie.",
+        "Isao Takahata führte bei diesem Film nicht Regie.",
+        "Yoshifumi Kondō führte bei diesem Film nicht Regie.",
+        "Hiromasa Yonebayashi führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Hayao Miyazaki.",
+      "context": "Miyazaki gestaltete eine freundliche Naturwelt um zwei Schwestern. Die Hintergründe von Kazuo Oga prägen das ländliche Umfeld; Fantastisches und vertraute Alltagsräume erscheinen darin nebeneinander.",
+      "anchor": "Miyazaki gestaltete eine freundliche Naturwelt um zwei Schwestern.",
+      "interest": "Miyazaki gestaltete eine freundliche Naturwelt um zwei Schwestern.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

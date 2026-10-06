@@ -1,0 +1,211 @@
+{
+  "rank": 60,
+  "directors": [
+    "Peter Bogdanovich"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Klassiker des New Hollywood mit stärkerer Bekanntheit bei Filmkennern.",
+  "release_note": "US-Start 22. Oktober 1971.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Last_Picture_Show",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Region spielt @?",
+      "answers": [
+        "In einer texanischen Kleinstadt",
+        "In einer Kleinstadt in Oklahoma",
+        "In einer Kleinstadt in Kansas",
+        "In einer Kleinstadt in New Mexico"
+      ],
+      "feedback": [
+        "Die Geschichte spielt in einer texanischen Kleinstadt.",
+        "Die erzählte Stadt liegt in Texas.",
+        "Kansas ist nicht die betreffende Region.",
+        "New Mexico ist nicht der Schauplatz."
+      ],
+      "short": "Die Geschichte spielt in einer texanischen Kleinstadt.",
+      "context": "Die Geschichte spielt in einer texanischen Kleinstadt. Sonny (Timothy Bottoms) und Duane (Jeff Bridges) stehen am Ende ihrer Schulzeit; wenige gemeinsame Orte bestimmen die Möglichkeiten ihres Alltags.",
+      "anchor": "Die Jugendlichen wachsen in einer kleinen texanischen Stadt auf.",
+      "interest": "Die Jugendlichen wachsen in einer kleinen texanischen Stadt auf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Beziehung verbindet Sonny und Duane am Anfang von @?",
+      "answers": [
+        "Sie sind befreundete Schüler.",
+        "Sie sind Vater und Sohn.",
+        "Sie sind verfeindete Polizisten.",
+        "Sie sind ein verheiratetes Paar."
+      ],
+      "feedback": [
+        "Sonny (Timothy Bottoms) und Duane (Jeff Bridges) sind befreundete Schüler.",
+        "Es besteht keine Vater-Sohn-Beziehung.",
+        "Sie sind keine Polizisten.",
+        "Sie sind nicht verheiratet."
+      ],
+      "short": "Sonny (Timothy Bottoms) und Duane (Jeff Bridges) sind befreundete Schüler.",
+      "context": "Sonny (Timothy Bottoms) und Duane (Jeff Bridges) sind befreundete Schüler. Rivalität um Jacy (Cybill Shepherd) belastet später diese Freundschaft innerhalb ihres engen Heimatortes.",
+      "anchor": "Freundschaft und Liebesrivalität wachsen im selben Ort.",
+      "interest": "Freundschaft und Liebesrivalität wachsen im selben Ort.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum verbietet Sam (Ben Johnson) der Jungengruppe in @ den Zutritt zu seinen Lokalen?",
+      "answers": [
+        "Sie haben Billy demütigend behandelt.",
+        "Sie haben seine Gäste um Geld betrogen.",
+        "Sie haben im Kino eine Schlägerei begonnen.",
+        "Sie haben den Billardsalon ohne Erlaubnis ausgeräumt."
+      ],
+      "feedback": [
+        "Sam reagiert auf die demütigende Behandlung Billys (Sam Bottoms).",
+        "Die Misshandlung Billys ist der Anlass.",
+        "Eine Kinoprügelei ist nicht die Begründung.",
+        "Ein Ausräumen erklärt das Verbot nicht."
+      ],
+      "short": "Sam reagiert auf die demütigende Behandlung Billys (Sam Bottoms).",
+      "context": "Sam (Ben Johnson) reagiert auf die demütigende Behandlung Billys (Sam Bottoms). Das Verbot betrifft Kino, Café und Billard; die moralische Grenze wird damit auch räumlich im Alltag spürbar.",
+      "anchor": "Sam bestraft die Demütigung Billys mit Ausschluss.",
+      "interest": "Sam bestraft die Demütigung Billys mit Ausschluss.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Aufgabe übernimmt Sonny (Timothy Bottoms) nach Sams Tod in @?",
+      "answers": [
+        "Er erbt den Billardsalon.",
+        "Er übernimmt das Kino.",
+        "Er übernimmt Sams Café.",
+        "Er verwaltet Sams gesamten Nachlass für die Gemeinde."
+      ],
+      "feedback": [
+        "Sonny erbt den Billardsalon.",
+        "Der Billardsalon fällt an Sonny.",
+        "Das Café übernimmt nicht Sonny.",
+        "Es handelt sich um ein bestimmtes Vermächtnis."
+      ],
+      "short": "Sonny erbt den Billardsalon.",
+      "context": "Sonny (Timothy Bottoms) erbt den Billardsalon. Sams (Ben Johnson) Tod entzieht ihm einen wichtigen Bezugspunkt und hinterlässt zugleich eine konkrete Verantwortung in der Stadt.",
+      "anchor": "Sams Tod hinterlässt Sonny den Billardsalon.",
+      "interest": "Sams Tod hinterlässt Sonny den Billardsalon.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welcher Film läuft bei der letzten gemeinsamen Kinovorstellung in @?",
+      "answers": [
+        "Red River",
+        "High Noon",
+        "The Searchers",
+        "Stagecoach"
+      ],
+      "feedback": [
+        "Die letzte Vorführung zeigt Red River.",
+        "High Noon ist nicht das gezeigte Programm.",
+        "The Searchers stammt aus späterer Zeit als die Handlung.",
+        "Stagecoach ist nicht die letzte Vorführung."
+      ],
+      "short": "Die letzte Vorführung zeigt Red River.",
+      "context": "Die letzte Vorführung zeigt Red River. Sonny (Timothy Bottoms) und Duane (Jeff Bridges) besuchen das schließende Kino; der ältere Western macht das Ende eines gemeinsamen Treffpunkts greifbar.",
+      "anchor": "Das Kino schließt mit Red River.",
+      "interest": "Das Kino schließt mit Red River.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wohin kehrt Sonny (Timothy Bottoms) am Ende von @ nach Billys Tod zurück?",
+      "answers": [
+        "Zu Ruth Popper",
+        "Zu Jacy nach Dallas",
+        "Zu Duane ins Ausbildungslager",
+        "Zu Sam in den Billardsalon"
+      ],
+      "feedback": [
+        "Sonny kehrt zu Ruth (Cloris Leachman) zurück.",
+        "Jacy ist nicht die Schlussbegegnung.",
+        "Ein Armeebesuch findet nicht statt.",
+        "Sam ist bereits verstorben."
+      ],
+      "short": "Sonny kehrt zu Ruth (Cloris Leachman) zurück.",
+      "context": "Sonny (Timothy Bottoms) kehrt zu Ruth (Cloris Leachman) zurück. Die zuvor von ihm verletzte Frau reagiert erst zornig und schließlich tröstend; nach Billys (Sam Bottoms) Tod sucht er eine menschliche Verbindung.",
+      "anchor": "Sonny findet am Ende Trost bei der verletzten Ruth.",
+      "interest": "Sonny findet am Ende Trost bei der verletzten Ruth.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1971",
+        "1969",
+        "1966",
+        "1972"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1971.",
+        "1969 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1966 liegt fünf Jahre davor.",
+        "1972 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1971 erstmals veröffentlicht.",
+      "context": "1971 erschien die Verfilmung von Larry McMurtrys Roman aus dem Jahr 1966. Fünf Jahre trennen Buch und Film. Die Handlung liegt nochmals früher, 1951/52; Romanjahr, Filmjahr und erzählte Zeit bilden drei verschiedene Ebenen.",
+      "anchor": "McMurtrys Roman von 1966 wurde fünf Jahre später, 1971, verfilmt.",
+      "interest": "McMurtrys Roman von 1966 wurde fünf Jahre später, 1971, verfilmt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Peter Bogdanovich",
+        "Hal Ashby",
+        "Bob Rafelson",
+        "Robert Altman"
+      ],
+      "feedback": [
+        "Peter Bogdanovich führte Regie.",
+        "Hal Ashby führte bei diesem Film nicht Regie.",
+        "Bob Rafelson führte bei diesem Film nicht Regie.",
+        "Robert Altman führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Peter Bogdanovich.",
+      "context": "Bogdanovich und Larry McMurtry adaptierten den Roman. Gedreht wurde in McMurtrys Heimatstadt Archer City; Schwarzweiß war Anfang der siebziger Jahre bereits eine bewusst auffällige Entscheidung für diese Welt.",
+      "anchor": "Bogdanovich und Larry McMurtry adaptierten den Roman.",
+      "interest": "Bogdanovich und Larry McMurtry adaptierten den Roman.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 93,
+  "directors": [
+    "Takashi Miike"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Internationaler J-Horror-Kultfilm, vor allem Kennern bekannt.",
+  "release_note": "Vancouver-Premiere 2. Oktober 1999; japanischer Start 2000.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Audition_(1999_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "edition": {
+      "url": "https://www.arrowfilms.com/p/4k/audition-limited-edition-4k-ultra-hd/17782064/",
+      "supports": "1999, Miike und vorgetäuschtes Casting zur Partnersuche."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches persönliche Ziel verfolgt Aoyama bei der vorgetäuschten Besetzung in @?",
+      "answers": [
+        "Eine neue Partnerin zu finden",
+        "Einen privaten Racheplan gegen eine frühere Partnerin vorzubereiten",
+        "Seine verstorbene Frau für einen Erinnerungsfilm neu zu besetzen",
+        "Eine Pflegerin für den gemeinsamen Haushalt auszuwählen"
+      ],
+      "feedback": [
+        "Aoyama (Ryo Ishibashi) sucht eine neue Partnerin.",
+        "Aoyama sucht eine neue Beziehung.",
+        "Ein Erinnerungsfilm ist nicht das tatsächliche Ziel.",
+        "Die Bewerberinnen werden nicht zur Haushaltspflege ausgewählt."
+      ],
+      "short": "Aoyama (Ryo Ishibashi) sucht eine neue Partnerin.",
+      "context": "Aoyama (Ryo Ishibashi) sucht eine neue Partnerin. Sein Freund Yoshikawa (Jun Kunimura) organisiert dafür eine angebliche Rollenbesetzung; das Machtgefälle der Auswahl wird für private Wünsche eingesetzt.",
+      "anchor": "Die vorgetäuschte Berufschance verdeckt eine private Partnersuche.",
+      "interest": "Die vorgetäuschte Berufschance verdeckt eine private Partnersuche.",
+      "sources": [
+        "edition",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wer bestärkt den verwitweten Aoyama in @ darin, wieder zu heiraten?",
+      "answers": [
+        "Sein Sohn",
+        "Sein Freund und Produzent Yoshikawa",
+        "Seine Haushälterin",
+        "Eine frühere Kollegin seiner Frau"
+      ],
+      "feedback": [
+        "Sein Sohn Shigehiko (Tetsu Sawaki) ermutigt ihn.",
+        "Yoshikawa organisiert später die Auswahl, der Sohn gibt den Heiratsanstoß.",
+        "Die Haushälterin regt diesen Neuanfang nicht an.",
+        "Eine Kollegin der Frau ist nicht die entscheidende Person."
+      ],
+      "short": "Sein Sohn Shigehiko (Tetsu Sawaki) ermutigt ihn.",
+      "context": "Sein Sohn Shigehiko (Tetsu Sawaki) ermutigt ihn. Aoyama (Ryo Ishibashi) möchte nach Jahren der Witwerschaft wieder Nähe finden; der Wunsch ist verständlich, die spätere Auswahlmethode bleibt jedoch eine Täuschung.",
+      "anchor": "Der Sohn regt einen Neuanfang an, nicht die Täuschung der Bewerberinnen.",
+      "interest": "Der Sohn regt einen Neuanfang an, nicht die Täuschung der Bewerberinnen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was macht Yoshikawa in @ bei Asamis Lebenslauf misstrauisch?",
+      "answers": [
+        "Die angegebenen Referenzen lassen sich nicht erreichen.",
+        "Ihr früherer Arbeitgeber bestreitet jeden Kontakt mit ihr.",
+        "Ihre angegebene Schauspielschule hat nie existiert.",
+        "Sie beschreibt zwei unterschiedliche Geburtsorte."
+      ],
+      "feedback": [
+        "Yoshikawa (Jun Kunimura) kann die Referenzen nicht erreichen.",
+        "Die Referenzen sind nicht erreichbar; eine konkrete Gegenbehauptung erhält er nicht.",
+        "Eine erfundene Schule ist nicht der erste Verdacht.",
+        "Widersprüchliche Geburtsorte bilden die Unstimmigkeit nicht."
+      ],
+      "short": "Yoshikawa (Jun Kunimura) kann die Referenzen nicht erreichen.",
+      "context": "Yoshikawa (Jun Kunimura) kann die Referenzen nicht erreichen. Aoyama (Ryo Ishibashi) übergeht seine Warnung; das angenommene Bild einer stillen jungen Frau setzt sich gegen konkrete Unstimmigkeiten durch.",
+      "anchor": "Die unprüfbare Vergangenheit wird wegen der Verliebtheit übergangen.",
+      "interest": "Die unprüfbare Vergangenheit wird wegen der Verliebtheit übergangen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie wurden Asamis Brandnarben laut der späteren Enthüllung in @ verursacht?",
+      "answers": [
+        "Ihr früherer Tanzlehrer misshandelte sie.",
+        "Sie erlitt einen Unfall bei einer Tanzaufführung.",
+        "Sie wurde bei einem Brand in ihrer Wohnung verletzt.",
+        "Sie musste sich einer fehlgeschlagenen Operation unterziehen."
+      ],
+      "feedback": [
+        "Der Tanzlehrer verbrannte Asamis Beine.",
+        "Der Tanzlehrer misshandelte sie absichtlich.",
+        "Ein Wohnungsbrand ist nicht die Enthüllung.",
+        "Eine Operation erklärt die Narben nicht."
+      ],
+      "short": "Der Tanzlehrer verbrannte Asamis Beine.",
+      "context": "Der Tanzlehrer verbrannte Asamis Beine. Asami (Eihi Shiina) trägt damit eine Vorgeschichte von Misshandlung; der Film lässt das Leiden später neben ihrer eigenen Gewalt sichtbar werden.",
+      "anchor": "Die Narben geben der angedeuteten Vergangenheit einen konkreten Ursprung.",
+      "interest": "Die Narben geben der angedeuteten Vergangenheit einen konkreten Ursprung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was ist an der Lähmung Aoyamas im Schluss von @ besonders grausam?",
+      "answers": [
+        "Er bleibt bei Bewusstsein und kann Schmerzen fühlen.",
+        "Er kann Schmerzen fühlen, verliert aber jede Erinnerung.",
+        "Er kann noch sprechen, aber nichts mehr wahrnehmen.",
+        "Er empfindet keine Schmerzen, kann die Folter nur sehen."
+      ],
+      "feedback": [
+        "Aoyama (Ryo Ishibashi) bleibt bewusst und schmerzempfindlich.",
+        "Seine Erinnerungen verschwinden nicht als Folge der Lähmung.",
+        "Die erhaltene Schmerzempfindung macht die Tat grausam.",
+        "Asamis Mittel betäubt die Schmerzempfindung gerade nicht."
+      ],
+      "short": "Aoyama (Ryo Ishibashi) bleibt bewusst und schmerzempfindlich.",
+      "context": "Aoyama (Ryo Ishibashi) bleibt bewusst und schmerzempfindlich. Asami (Eihi Shiina) nimmt ihm die Muskelkontrolle; der Körper kann den Angriff wahrnehmen, aber nicht mehr darauf reagieren.",
+      "anchor": "Die Lähmung trennt vollständige Wahrnehmung von jeder Abwehr.",
+      "interest": "Die Lähmung trennt vollständige Wahrnehmung von jeder Abwehr.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welchen Vorwurf macht Asami Aoyama während der Folter in @?",
+      "answers": [
+        "Er liebe nicht ausschließlich sie.",
+        "Er habe schon vor ihrem Treffen von ihrer Vergangenheit gewusst.",
+        "Er habe ihr aus Mitleid eine Beziehung angeboten.",
+        "Er wolle sie nur als Darstellerin behalten."
+      ],
+      "feedback": [
+        "Asami (Eihi Shiina) verlangt ausschließliche Liebe.",
+        "Der Besitzanspruch richtet sich gegen jede andere Liebe.",
+        "Mitleid ist nicht ihr entscheidender Vorwurf.",
+        "Die Folter begründet sie mit fehlender Ausschließlichkeit."
+      ],
+      "short": "Asami (Eihi Shiina) verlangt ausschließliche Liebe.",
+      "context": "Asami (Eihi Shiina) verlangt ausschließliche Liebe. Aoyamas (Ryo Ishibashi) Bindung an Sohn und verstorbene Frau wird aus ihrer Perspektive zum Verrat; die private Partnersuche mündet in einen totalen Besitzanspruch.",
+      "anchor": "Der Anspruch auf ausschließliche Liebe schließt alle anderen Bindungen aus.",
+      "interest": "Der Anspruch auf ausschließliche Liebe schließt alle anderen Bindungen aus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1999",
+        "1997",
+        "1994",
+        "2000"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1999.",
+        "1997 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1994 liegt fünf Jahre davor.",
+        "2000 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1999 erstmals veröffentlicht.",
+      "context": "1999 wurde die Adaption erstmals gezeigt. Murakamis Roman erschien 1997, zwei Jahre früher; der internationale Aufmerksamkeitsschub in Rotterdam und der japanische Kinostart folgten 2000, ein Jahr nach der Premiere.",
+      "anchor": "Murakamis Roman von 1997 wurde zwei Jahre später, 1999, erstmals als Film gezeigt.",
+      "interest": "Murakamis Roman von 1997 wurde zwei Jahre später, 1999, erstmals als Film gezeigt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Takashi Miike",
+        "Hideo Nakata",
+        "Kiyoshi Kurosawa",
+        "Sion Sono"
+      ],
+      "feedback": [
+        "Takashi Miike führte Regie.",
+        "Hideo Nakata hat hier keinen Regiecredit.",
+        "Kiyoshi Kurosawa hat hier keinen Regiecredit.",
+        "Sion Sono hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Takashi Miike.",
+      "context": "Miike lässt die Handlung zunächst wie eine zurückhaltende neue Liebesgeschichte erscheinen. Der spätere Wechsel zu Gewalt und aufgebrochener Wahrnehmung macht auch die anfängliche Täuschung des Mannes im Rückblick bedrohlicher.",
+      "anchor": "Miike lässt die Handlung zunächst wie eine zurückhaltende neue Liebesgeschichte erscheinen.",
+      "interest": "Miike lässt die Handlung zunächst wie eine zurückhaltende neue Liebesgeschichte erscheinen.",
+      "sources": [
+        "edition",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 232,
+  "directors": [
+    "Clint Eastwood"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekannter früher Eastwood-Western als Regisseur und Hauptdarsteller, mit ungewöhnlich geisterhafter Rachefigur.",
+  "release_note": "Erste Veröffentlichung 1973. Inhalt und offene Identitätsdeutung beziehen sich auf die englische Originalfassung; deutsche und weitere Synchronfassungen fügen eine Brüdererklärung ein.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/High_Plains_Drifter",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/High_Plains_Drifter",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Auftrag erhält der Fremde in @ von der Stadt?",
+      "answers": [
+        "Er soll sie vor zurückkehrenden Gewalttätern schützen",
+        "Er soll die Goldmine vermessen",
+        "Er soll einen verschwundenen Richter finden",
+        "Er soll einen Viehtrieb begleiten"
+      ],
+      "feedback": [
+        "Die Bürger von Lago engagieren den Fremden (Clint Eastwood) gegen zurückkehrende Verbrecher.",
+        "Eine Vermessung ist nicht der Auftrag.",
+        "Ein Richter wird nicht gesucht.",
+        "Vieh begleitet er nicht."
+      ],
+      "short": "Die Bürger von Lago engagieren den Fremden (Clint Eastwood) gegen zurückkehrende Verbrecher.",
+      "context": "Die Bürger von Lago engagieren den Fremden (Clint Eastwood) gegen zurückkehrende Verbrecher. Sie gewähren ihm freie Hand, nachdem er ihre bisherigen bewaffneten Beschützer getötet hat.",
+      "anchor": "Die Stadt gibt einem gefährlichen Fremden Macht aus eigener Angst.",
+      "interest": "Die Stadt gibt einem gefährlichen Fremden Macht aus eigener Angst.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie lässt der Fremde die Stadt in @ äußerlich verändern?",
+      "answers": [
+        "Alle Gebäude werden rot gestrichen",
+        "Alle Fenster werden zugemauert",
+        "Alle Straßen werden mit Salz bestreut",
+        "Alle Häuser erhalten militärische Nummern"
+      ],
+      "feedback": [
+        "Der Fremde (Clint Eastwood) lässt Lago rot anstreichen und ersetzt den Ortsnamen durch Hell.",
+        "Die Fenster werden nicht sämtlich zugemauert.",
+        "Salz ist nicht die geforderte Veränderung.",
+        "Nummern ersetzen nicht den roten Anstrich."
+      ],
+      "short": "Der Fremde (Clint Eastwood) lässt Lago rot anstreichen und ersetzt den Ortsnamen durch Hell.",
+      "context": "Der Fremde (Clint Eastwood) lässt Lago rot anstreichen und ersetzt den Ortsnamen durch Hell. Die Vorbereitung der Verteidigung wird damit auch zur sichtbaren Anklage der Stadt.",
+      "anchor": "Die rote Stadt und Hell machen die Schuld zum sichtbaren Schauplatz.",
+      "interest": "Die rote Stadt und Hell machen die Schuld zum sichtbaren Schauplatz.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was belastet die Bürger von Lago in @ aus der Vergangenheit?",
+      "answers": [
+        "Sie sahen dem Mord an einem Marshal untätig zu",
+        "Sie versteckten eine geplünderte Soldkasse",
+        "Sie lieferten Kinder an eine Bande aus",
+        "Sie töteten den vorherigen Arzt wegen einer Epidemie"
+      ],
+      "feedback": [
+        "Die Bürger sahen zu, wie Marshal Jim Duncan (Buddy Van Horn) zu Tode gepeitscht wurde.",
+        "Eine Soldkasse ist nicht das Geheimnis.",
+        "Die Übergabe von Kindern geschieht nicht.",
+        "Ein Arztmord ist nicht die verdrängte Tat."
+      ],
+      "short": "Die Bürger sahen zu, wie Marshal Jim Duncan (Buddy Van Horn) zu Tode gepeitscht wurde.",
+      "context": "Die Bürger sahen zu, wie Marshal Jim Duncan (Buddy Van Horn) zu Tode gepeitscht wurde. Ihre gemeinsame Untätigkeit und Beteiligung am Verbrechen begründen die Rache, die der Fremde verkörpert.",
+      "anchor": "Die Zuschauer des Mordes gehören zur schuldigen Gemeinschaft.",
+      "interest": "Die Zuschauer des Mordes gehören zur schuldigen Gemeinschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum hatten die Stadtbewohner in @ den Marshal beseitigen lassen?",
+      "answers": [
+        "Er entdeckte, dass ihre Goldmine auf staatlichem Land lag",
+        "Er wollte die Stadt an einen Rancher verkaufen",
+        "Er plante eine Zwangsrekrutierung aller Männer",
+        "Er unterschlug den gesamten Steuerertrag"
+      ],
+      "feedback": [
+        "Duncan entdeckte die illegale Goldmine auf staatlichem Land.",
+        "Ein Stadtverkauf ist nicht sein Plan.",
+        "Eine Rekrutierung droht nicht.",
+        "Ein Steuerdiebstahl durch Duncan ist nicht das Motiv."
+      ],
+      "short": "Duncan entdeckte die illegale Goldmine auf staatlichem Land.",
+      "context": "Duncan entdeckte die illegale Goldmine auf staatlichem Land. Die Bürger fürchteten die Schließung ihrer wirtschaftlichen Grundlage und ließen ihn durch die Männer töten, die später zurückkehren.",
+      "anchor": "Der wirtschaftliche Vorteil der Stadt beruht auf dem beseitigten Gesetzeshüter.",
+      "interest": "Der wirtschaftliche Vorteil der Stadt beruht auf dem beseitigten Gesetzeshüter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wen macht der Fremde in @ zugleich zum Sheriff und Bürgermeister?",
+      "answers": [
+        "Den von anderen verspotteten Mordecai",
+        "Den Besitzer der Goldmine",
+        "Den entlassenen Marshal",
+        "Den Richter der Nachbarstadt"
+      ],
+      "feedback": [
+        "Der Fremde (Clint Eastwood) ernennt Mordecai (Billy Curtis) zu Sheriff und Bürgermeister.",
+        "Der Minenbesitzer erhält die Ämter nicht.",
+        "Der ermordete Marshal wird nicht ersetzt durch seine Rückkehr ins Amt.",
+        "Ein fremder Richter wird nicht eingesetzt."
+      ],
+      "short": "Der Fremde (Clint Eastwood) ernennt Mordecai (Billy Curtis) zu Sheriff und Bürgermeister.",
+      "context": "Der Fremde (Clint Eastwood) ernennt Mordecai (Billy Curtis) zu Sheriff und Bürgermeister. Die Umkehr der örtlichen Hierarchie demütigt die bisherigen Mächtigen; Mordecai schützt ihn später vor einem Schuss in den Rücken.",
+      "anchor": "Die Doppelernennung stellt die bisherige Hierarchie auf den Kopf.",
+      "interest": "Die Doppelernennung stellt die bisherige Hierarchie auf den Kopf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Bild verbindet den Abschied des Fremden in @ mit dem toten Marshal?",
+      "answers": [
+        "Mordecai steht neben dessen frisch beschriftetem Grab",
+        "Ein Polizeifoto zeigt beide als Brüder",
+        "Ein Testament bestätigt die Verwandtschaft",
+        "Der Fremde übergibt eine Dienstmarke mit seinem Namen"
+      ],
+      "feedback": [
+        "Mordecai (Billy Curtis) steht am nun benannten Grab Jim Duncans.",
+        "Ein eindeutiges Brüderfoto gibt es nicht.",
+        "Ein Testament legt die Identität nicht fest.",
+        "Eine beschriftete Marke übergibt er nicht."
+      ],
+      "short": "Mordecai (Billy Curtis) steht am nun benannten Grab Jim Duncans.",
+      "context": "Mordecai (Billy Curtis) steht am nun benannten Grab Jim Duncans. Der Fremde (Clint Eastwood) behauptet, Mordecai kenne seinen Namen; die englische Originalfassung belässt die Identität in geisterhafter Mehrdeutigkeit.",
+      "anchor": "Der Grabname beantwortet die Namensfrage nur als Andeutung.",
+      "interest": "Der Grabname beantwortet die Namensfrage nur als Andeutung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1973",
+        "1970",
+        "1966",
+        "1975"
+      ],
+      "feedback": [
+        "1973 erschien der Film.",
+        "1970 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1973 wird im zeitlichen Hintergrund erklärt.",
+        "1966 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1973 wird im zeitlichen Hintergrund erklärt.",
+        "1975 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1973 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1973 erschien der Film.",
+      "context": "1973 erschien der Film. Eastwoods Regiedebüt Sadistico war 1971 erschienen; zwei Jahre danach führte er erstmals bei einem Western Regie, in dem er zugleich die Hauptrolle spielte.",
+      "anchor": "Regiedebüt 1971, erster selbst inszenierter Western 1973: Zwei Jahre trennen Eastwoods Regieauftakt und die geisterhafte Rache.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Clint Eastwood",
+        "Robert Altman",
+        "John Hillcoat",
+        "Andrew Dominik"
+      ],
+      "feedback": [
+        "Clint Eastwood führte Regie und spielt den Fremden.",
+        "Robert Altman wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Clint Eastwood.",
+        "John Hillcoat wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Clint Eastwood.",
+        "Andrew Dominik wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Clint Eastwood."
+      ],
+      "short": "Clint Eastwood führte Regie und spielt den Fremden.",
+      "context": "Clint Eastwood führte Regie und spielt den Fremden. Die Originalfassung hält dessen Beziehung zum ermordeten Marshal offen; einige Synchronfassungen erklären ihn deutlicher als dessen Bruder.",
+      "anchor": "Clint Eastwood führte Regie und spielt den Fremden.",
+      "interest": "Clint Eastwood führte Regie und spielt den Fremden.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

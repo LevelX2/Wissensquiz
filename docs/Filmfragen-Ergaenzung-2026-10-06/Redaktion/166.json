@@ -1,0 +1,217 @@
+{
+  "rank": 166,
+  "directors": [
+    "Michael Gordon"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Doris Day und Rock Hudsons prägende Liebeskomödie; ihre spezielle Telefontechnik verlangt heute filmhistorisches Interesse.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1959; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Pillow_Talk_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Pillow_Talk_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Alltagsproblem bringt Jan Morrow (Doris Day) und Brad Allen (Rock Hudson) in @ gegeneinander auf?",
+      "answers": [
+        "Eine gemeinsam genutzte Telefonleitung",
+        "Eine gemeinsam genutzte Garage",
+        "Ein gemeinsames Heizsystem",
+        "Eine gemeinsam gemietete Wohnung"
+      ],
+      "feedback": [
+        "Jan und Brad teilen eine Telefonleitung.",
+        "Die Figuren streiten um die Telefonleitung, nicht um Stellplätze.",
+        "Die Störung betrifft private und berufliche Telefonate.",
+        "Sie wohnen getrennt und teilen nur die Leitung."
+      ],
+      "short": "Jan und Brad teilen eine Telefonleitung.",
+      "context": "Jan und Brad teilen eine Telefonleitung. Brad blockiert sie mit Liebesgesprächen, während Jan beruflich telefonieren muss. Die technische Verbindung zwingt zwei Menschen zur Auseinandersetzung, die einander zunächst nur als Stimme kennen.",
+      "anchor": "Eine Telefonleitung verbindet zwei getrennte Wohnungen.",
+      "interest": "Eine Telefonleitung verbindet zwei getrennte Wohnungen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Beruf hat Jan Morrow (Doris Day) in @?",
+      "answers": [
+        "Innenarchitektin",
+        "Krankenschwester",
+        "Bühnenkomponistin",
+        "Telefonmechanikerin"
+      ],
+      "feedback": [
+        "Jan arbeitet als Innenarchitektin.",
+        "Sie arbeitet nicht im Krankenhaus.",
+        "Brad komponiert, Jan gestaltet Innenräume.",
+        "Sie repariert die Telefonanlage nicht beruflich."
+      ],
+      "short": "Jan arbeitet als Innenarchitektin.",
+      "context": "Jan arbeitet als Innenarchitektin. Ihr Beruf erklärt, warum sie eine zuverlässige Telefonverbindung braucht, und wird später zum Mittel ihrer Vergeltung. Brad Allen (Rock Hudson) kann sich nicht darauf verlassen, dass ihre Arbeit nur eine neutrale Dienstleistung bleibt.",
+      "anchor": "Jans Beruf wird zum Werkzeug ihrer Reaktion.",
+      "interest": "Jans Beruf wird zum Werkzeug ihrer Reaktion.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Als wen gibt sich Brad Allen (Rock Hudson) gegenüber Jan (Doris Day) in @ aus?",
+      "answers": [
+        "Als texanischer Rancher",
+        "Als französischer Diplomat",
+        "Als schwedischer Arzt",
+        "Als britischer Antiquitätenhändler"
+      ],
+      "feedback": [
+        "Brad erfindet den texanischen Rancher Rex Stetson.",
+        "Er nutzt keinen französischen Diplomatenberuf.",
+        "Ein schwedischer Arzt ist nicht seine Tarnidentität.",
+        "Er spielt keinen britischen Antiquitätenhändler."
+      ],
+      "short": "Brad erfindet den texanischen Rancher Rex Stetson.",
+      "context": "Brad erfindet den texanischen Rancher Rex Stetson. Jan erkennt darin nicht ihren ungeliebten Telefonpartner. Die Tarnung lässt Brad zugleich als zwei Männer auftreten: den anstößigen Bekannten aus der Leitung und den vermeintlich rücksichtsvollen neuen Verehrer.",
+      "anchor": "Rex Stetson ist Brads erfundene Gegenfigur.",
+      "interest": "Rex Stetson ist Brads erfundene Gegenfigur.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wodurch durchschaut Jan (Doris Day) in @ Brads falsche Identität?",
+      "answers": [
+        "Sie erkennt sein Liebeslied auf einem Notenblatt.",
+        "Sie entdeckt seine Handschrift in einem Brief.",
+        "Ein gemeinsamer Bekannter nennt seinen Namen.",
+        "Sie findet seine Rechnung im Hotel."
+      ],
+      "feedback": [
+        "Jan erkennt auf einem Notenblatt Brads wiederverwendetes Liebeslied.",
+        "Das musikalische Liebesmotiv auf dem Notenblatt verrät ihn.",
+        "Sie erkennt ihn durch sein Lied, nicht durch die Aussage eines Bekannten.",
+        "Eine Hotelrechnung ist nicht die entscheidende Entdeckung."
+      ],
+      "short": "Jan erkennt auf einem Notenblatt Brads wiederverwendetes Liebeslied.",
+      "context": "Jan erkennt auf einem Notenblatt Brads wiederverwendetes Liebeslied. Die Musik verbindet den angeblichen Rex Stetson mit Brad Allen (Rock Hudson). Ein zunächst charmantes Mittel seiner Verführung wird damit zum Beweis, dass beide Männer dieselbe Person sind.",
+      "anchor": "Das wiederverwendete Lied verrät den erfundenen Rancher.",
+      "interest": "Das wiederverwendete Lied verrät den erfundenen Rancher.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie setzt Jan (Doris Day) in @ ihren Dekorationsauftrag als Vergeltung ein?",
+      "answers": [
+        "Sie richtet Brads Wohnung absichtlich geschmacklos ein.",
+        "Sie richtet die Wohnung für eine große Familie ein.",
+        "Sie entfernt alle Möbel bis auf das Telefon.",
+        "Sie lässt seine Möbel in ihre eigene Wohnung bringen."
+      ],
+      "feedback": [
+        "Jan gestaltet Brads Wohnung absichtlich grell und geschmacklos.",
+        "Die Vergeltung besteht in absichtlich geschmackloser Gestaltung.",
+        "Sie dekoriert den Raum auffällig schlecht, statt ihn leer zu räumen.",
+        "Der Auftrag verändert Brads Wohnung, nicht Jans Besitz."
+      ],
+      "short": "Jan gestaltet Brads Wohnung absichtlich grell und geschmacklos.",
+      "context": "Jan gestaltet Brads Wohnung absichtlich grell und geschmacklos. Brad Allen (Rock Hudson) wollte durch den Auftrag wieder mit ihr zusammenarbeiten. Seine Idee gibt ihr jedoch die Möglichkeit, ihre Verletzung beruflich auszudrücken und ihn mit den Folgen seiner Täuschung zu konfrontieren.",
+      "anchor": "Brads Versöhnungsauftrag wird zur gestalterischen Abrechnung.",
+      "interest": "Brads Versöhnungsauftrag wird zur gestalterischen Abrechnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie nutzt Brad (Rock Hudson) in @ seine beiden Identitäten zur Manipulation von Jan (Doris Day)?",
+      "answers": [
+        "Als Brad weckt er Zweifel, die er als Rex scheinbar widerlegt.",
+        "Als Rex bittet er Brad offiziell um eine freie Leitung.",
+        "Als Brad empfiehlt er Rex ohne jede Warnung.",
+        "Als Rex behauptet er, Brad gar nicht zu kennen."
+      ],
+      "feedback": [
+        "Brad äußert am Telefon Verdächtigungen über Rex und widerlegt sie anschließend in seiner Tarnrolle.",
+        "Die beiden Identitäten arbeiten in Gesprächen gegenläufig, nicht offen miteinander.",
+        "Brad weckt gezielt Zweifel, die Rex anschließend entkräftet.",
+        "Der Trick beruht auf den wechselnden Warnungen und scheinbaren Widerlegungen."
+      ],
+      "short": "Brad äußert am Telefon Verdächtigungen über Rex und widerlegt sie anschließend in seiner Tarnrolle.",
+      "context": "Brad äußert am Telefon Verdächtigungen über Rex und widerlegt sie anschließend in seiner Tarnrolle. Jan erlebt scheinbar zwei voneinander unabhängige Einschätzungen. Tatsächlich kontrolliert derselbe Mann beide Seiten und erzeugt so künstlich Vertrauen in die von ihm erfundene Person.",
+      "anchor": "Eine Person lenkt beide Seiten des Gesprächs.",
+      "interest": "Eine Person lenkt beide Seiten des Gesprächs.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1959",
+        "1956",
+        "1952",
+        "1961"
+      ],
+      "feedback": [
+        "1959 erschien der Film.",
+        "1956 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1959 wird im zeitlichen Hintergrund erklärt.",
+        "1952 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1959 wird im zeitlichen Hintergrund erklärt.",
+        "1961 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1959 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1959 erschien der Film.",
+      "context": "1959 erschien der Film. Das gemeinsam genutzte Telefon ist sein charakteristischer Zeitanker: Zwei Wohnungen müssen sich eine Leitung teilen, wodurch private Liebesgespräche und berufliche Anrufe kollidieren. Aus diesem damals gebräuchlichen Anschlussmodell entsteht die gesamte Täuschungs- und Liebeskonstruktion.",
+      "anchor": "1959 macht eine geteilte Telefonleitung aus Technikmangel eine Liebeskomödie.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Michael Gordon",
+        "Ernst Lubitsch",
+        "George Cukor",
+        "Preston Sturges"
+      ],
+      "feedback": [
+        "Michael Gordon inszenierte Doris Day und Rock Hudson.",
+        "Ernst Lubitsch wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Michael Gordon.",
+        "George Cukor wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Michael Gordon.",
+        "Preston Sturges wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Michael Gordon."
+      ],
+      "short": "Michael Gordon inszenierte Doris Day und Rock Hudson.",
+      "context": "Michael Gordon inszenierte Doris Day und Rock Hudson. Jan Morrow ist Innenarchitektin, Brad Allen Komponist und Erfinder einer falschen Identität. Die geteilte Telefonleitung erlaubt der Regie, räumlich getrennte Figuren gemeinsam im Bild zu zeigen und ihre widersprüchlichen Perspektiven zu verbinden.",
+      "anchor": "Michael Gordon inszenierte Doris Day und Rock Hudson.",
+      "interest": "Michael Gordon inszenierte Doris Day und Rock Hudson.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

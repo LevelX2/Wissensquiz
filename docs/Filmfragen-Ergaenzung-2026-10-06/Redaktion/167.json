@@ -1,0 +1,217 @@
+{
+  "rank": 167,
+  "directors": [
+    "Billy Wilder"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Audrey Hepburns klassische Liebeskomödie mit Bogart und Holden; Bekanntheit vor allem im klassischen Hollywoodkino.",
+  "release_note": "Erste öffentliche Vorführung dieser Fassung 1954 bei der Toronto-Premiere; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Sabrina_(1954_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Sabrina_(1954_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Stellung hat Sabrinas Vater (John Williams) bei den Larrabees in @?",
+      "answers": [
+        "Er ist ihr Chauffeur.",
+        "Er ist ihr Bankdirektor.",
+        "Er ist ihr Hausarzt.",
+        "Er ist ihr Rechtsanwalt."
+      ],
+      "feedback": [
+        "Thomas Fairchild ist Chauffeur der Larrabee-Familie.",
+        "Er leitet keine Bank.",
+        "Er behandelt die Familie nicht als Arzt.",
+        "Er ist nicht deren Anwalt."
+      ],
+      "short": "Thomas Fairchild ist Chauffeur der Larrabee-Familie.",
+      "context": "Thomas Fairchild ist Chauffeur der Larrabee-Familie. Sabrina (Audrey Hepburn) wächst deshalb in unmittelbarer Nähe zu den reichen Brüdern auf, ohne zu deren Gesellschaftsschicht zu gehören. Diese räumliche Nähe bei sozialer Distanz prägt ihr Verhältnis zu David (William Holden).",
+      "anchor": "Sabrina lebt nahe bei den Larrabees und sozial außerhalb.",
+      "interest": "Sabrina lebt nahe bei den Larrabees und sozial außerhalb.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wohin geht Sabrina (Audrey Hepburn) in @ für ihre Kochausbildung?",
+      "answers": [
+        "Nach Paris",
+        "Nach Madrid",
+        "Nach Rom",
+        "Nach Wien"
+      ],
+      "feedback": [
+        "Sabrina besucht eine Kochschule in Paris.",
+        "Ihre Schule liegt nicht in Madrid.",
+        "Rom ist nicht der Ausbildungsort.",
+        "Sie wird nicht in Wien ausgebildet."
+      ],
+      "short": "Sabrina besucht eine Kochschule in Paris.",
+      "context": "Sabrina besucht eine Kochschule in Paris. Nach ihrer Rückkehr nimmt David Larrabee (William Holden) sie zum ersten Mal als erwachsene attraktive Frau wahr. Die Reise verändert also nicht nur ihre Fähigkeiten, sondern auch die Art, wie ihre Umgebung sie behandelt.",
+      "anchor": "Die Pariser Ausbildung verändert Sabrinas Rückkehr.",
+      "interest": "Die Pariser Ausbildung verändert Sabrinas Rückkehr.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum will Linus (Humphrey Bogart) in @ David (William Holden) von Sabrina (Audrey Hepburn) fernhalten?",
+      "answers": [
+        "Davids geplante Ehe soll eine Unternehmensfusion sichern.",
+        "Linus möchte Sabrina für sich als Köchin einstellen.",
+        "David hat ein Versprechen an Sabrinas Vater abgegeben.",
+        "Linus möchte David aus dem Familienunternehmen lösen."
+      ],
+      "feedback": [
+        "Davids Ehe mit Elizabeth Tyson (Martha Hyer) soll eine Unternehmensfusion begünstigen.",
+        "Die anstehende Fusion durch Davids Ehe ist sein ursprüngliches Motiv.",
+        "Die Verpflichtung betrifft die geplante Heirat mit der Geschäftspartnerfamilie.",
+        "Er schützt zunächst gerade die Unternehmensverbindung durch Davids Heirat."
+      ],
+      "short": "Davids Ehe mit Elizabeth Tyson (Martha Hyer) soll eine Unternehmensfusion begünstigen.",
+      "context": "Davids Ehe mit Elizabeth Tyson (Martha Hyer) soll eine Unternehmensfusion begünstigen. Linus sieht die neue Beziehung zu Sabrina als wirtschaftliches Risiko. Deshalb behandelt er den Liebeskonflikt zunächst wie ein geschäftliches Problem, das sich durch eine gezielte Trennung lösen lässt.",
+      "anchor": "Linus schützt zunächst das Geschäft hinter Davids Verlobung.",
+      "interest": "Linus schützt zunächst das Geschäft hinter Davids Verlobung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welcher Zwischenfall ermöglicht Linus (Humphrey Bogart) in @, anstelle Davids um Sabrina zu werben?",
+      "answers": [
+        "David setzt sich auf Champagnergläser.",
+        "David verliert seine Stimme.",
+        "David bricht sich beim Skifahren das Bein.",
+        "David steckt im Fahrstuhl fest."
+      ],
+      "feedback": [
+        "David Larrabee (William Holden) setzt sich auf Champagnergläser und ist vorübergehend außer Gefecht.",
+        "Seine Stimme fällt nicht aus.",
+        "Ein Skiunfall ist nicht die Ursache.",
+        "Ein Fahrstuhl hält ihn nicht vom Treffen ab."
+      ],
+      "short": "David Larrabee (William Holden) setzt sich auf Champagnergläser und ist vorübergehend außer Gefecht.",
+      "context": "David Larrabee (William Holden) setzt sich auf Champagnergläser und ist vorübergehend außer Gefecht. Linus (Humphrey Bogart) übernimmt sein Treffen mit Sabrina (Audrey Hepburn). Eine körperliche Farce leitet damit den Wechsel vom ursprünglichen Schwarm zum unerwarteten neuen Partner ein.",
+      "anchor": "Die Glasverletzung lässt den älteren Bruder übernehmen.",
+      "interest": "Die Glasverletzung lässt den älteren Bruder übernehmen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Täuschung plant Linus (Humphrey Bogart) zunächst für Sabrinas Rückfahrt in @?",
+      "answers": [
+        "Er will eine gemeinsame Reise versprechen und selbst zurückbleiben.",
+        "Er will David heimlich dieselbe Überfahrt buchen.",
+        "Er will ihr den Zielhafen erst an Bord nennen.",
+        "Er will sie vor der Abfahrt mit einem anderen Mann verkuppeln."
+      ],
+      "feedback": [
+        "Linus will Sabrina (Audrey Hepburn) eine gemeinsame Reise nach Paris in Aussicht stellen, sie aber allein abreisen lassen.",
+        "Linus verspricht die gemeinsame Reise selbst, plant aber nicht mitzufahren.",
+        "Der Trick ist seine vorgetäuschte Teilnahme, nicht ein verborgener Hafen.",
+        "Die geplante Trennung geschieht durch seine eigene ausbleibende Abfahrt."
+      ],
+      "short": "Linus will Sabrina (Audrey Hepburn) eine gemeinsame Reise nach Paris in Aussicht stellen, sie aber allein abreisen lassen.",
+      "context": "Linus will Sabrina (Audrey Hepburn) eine gemeinsame Reise nach Paris in Aussicht stellen, sie aber allein abreisen lassen. So würde sie David Larrabee (William Holden) nicht mehr gefährden. Seine entstehenden Gefühle lassen dieses nüchterne Trennungsmanöver jedoch moralisch und persönlich scheitern.",
+      "anchor": "Die gemeinsame Reise wäre zunächst nur ein Trennungsmanöver.",
+      "interest": "Die gemeinsame Reise wäre zunächst nur ein Trennungsmanöver.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie unterstützt David (William Holden) in @ schließlich Linus’ Beziehung zu Sabrina?",
+      "answers": [
+        "Er hält an seiner eigenen Verlobung fest und ermöglicht Linus die Abfahrt.",
+        "Er storniert Sabrinas Schiffspassage.",
+        "Er löst seine eigene Verlobung auf.",
+        "Er begleitet Sabrina selbst nach Paris."
+      ],
+      "feedback": [
+        "David hält an seiner Verlobung fest und hilft Linus (Humphrey Bogart), Sabrina (Audrey Hepburn) auf dem Schiff zu erreichen.",
+        "Er ermöglicht Linus gerade die Abfahrt zu Sabrina.",
+        "David hält die für das Unternehmen wichtige Verlobung aufrecht.",
+        "Linus wird zur Reise ermutigt, nicht David."
+      ],
+      "short": "David hält an seiner Verlobung fest und hilft Linus (Humphrey Bogart), Sabrina (Audrey Hepburn) auf dem Schiff zu erreichen.",
+      "context": "David hält an seiner Verlobung fest und hilft Linus (Humphrey Bogart), Sabrina (Audrey Hepburn) auf dem Schiff zu erreichen. Damit löst er selbst den Gegensatz zwischen Unternehmensplan und neuer Liebesbeziehung. Der vermeintlich leichtfertige Bruder ermöglicht den entschlossenen Schritt des älteren.",
+      "anchor": "David sichert die Fusion und schickt Linus zur Geliebten.",
+      "interest": "David sichert die Fusion und schickt Linus zur Geliebten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1954",
+        "1951",
+        "1947",
+        "1956"
+      ],
+      "feedback": [
+        "1954 erschien die Verfilmung.",
+        "1951 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1954 wird im zeitlichen Hintergrund erklärt.",
+        "1947 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1954 wird im zeitlichen Hintergrund erklärt.",
+        "1956 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1954 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1954 erschien die Verfilmung.",
+      "context": "1954 erschien die Verfilmung. Samuel Taylors Bühnenstück „Sabrina Fair“ stammt von 1953; bereits ein Jahr später wechselte der Stoff ins Kino. Die Pariser Ausbildung der Titelfigur bietet dabei den Übergang vom übersehenen Chauffeurkind zur selbstbewussteren jungen Frau.",
+      "anchor": "Sabrina Fair 1953, Film 1954: Nur ein Jahr liegt zwischen Bühne und Kino.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Billy Wilder",
+        "Preston Sturges",
+        "Leo McCarey",
+        "Frank Capra"
+      ],
+      "feedback": [
+        "Billy Wilder führte Regie und schrieb gemeinsam mit Samuel Taylor und Ernest Lehman das Drehbuch.",
+        "Preston Sturges wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Billy Wilder.",
+        "Leo McCarey wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Billy Wilder.",
+        "Frank Capra wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Billy Wilder."
+      ],
+      "short": "Billy Wilder führte Regie und schrieb gemeinsam mit Samuel Taylor und Ernest Lehman das Drehbuch.",
+      "context": "Billy Wilder führte Regie und schrieb gemeinsam mit Samuel Taylor und Ernest Lehman das Drehbuch. Humphrey Bogart spielt den geschäftsorientierten Linus, William Holden den Bruder David, Audrey Hepburn Sabrina. Der romantische Konflikt verknüpft ihre Gefühle mit einer geplanten Unternehmensfusion.",
+      "anchor": "Billy Wilder führte Regie und schrieb gemeinsam mit Samuel Taylor und Ernest Lehman das Drehbuch.",
+      "interest": "Billy Wilder führte Regie und schrieb gemeinsam mit Samuel Taylor und Ernest Lehman das Drehbuch.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "rank": 14,
+  "directors": [
+    "Lewis Teague"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine bekannte ältere Abenteuerfortsetzung für Kenner des Duos Michael Douglas und Kathleen Turner.",
+  "release_note": "Erste Veröffentlichung am 11. Dezember 1985.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Jewel_of_the_Nile",
+    "afi": "https://catalog.afi.com/Film/57723-THE-JEWEL-OF-THE-NILE"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf hat Joan Wilder (Kathleen Turner) in @?",
+      "answers": [
+        "Sie schreibt Liebesromane.",
+        "Sie entwickelt Flugzeuge.",
+        "Sie arbeitet als Chirurgin.",
+        "Sie leitet eine Hafenpolizei."
+      ],
+      "feedback": [
+        "Joan ist eine erfolgreiche Romanautorin.",
+        "Flugzeugentwicklung ist nicht ihr Beruf.",
+        "Sie ist keine Ärztin.",
+        "Sie führt keine Hafenpolizei."
+      ],
+      "short": "Joan Wilder ist Liebesromanautorin.",
+      "context": "Joan leidet unter einer Schreibblockade, während Jack Colton (Michael Douglas) weiter auf dem Meer leben möchte. Die unterschiedlichen Zukunftswünsche belasten das Paar schon vor dem nächsten Abenteuer.",
+      "anchor": "Joans Schreibblockade trifft auf Jacks Reiselust.",
+      "interest": "Der Beruf gehört zur Ausgangsspannung des Paares.",
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Auftrag bietet Omar (Spiros Focás) Joan Wilder (Kathleen Turner) in @ an?",
+      "answers": [
+        "Sie soll seine Biografie schreiben.",
+        "Sie soll seine politischen Reden verfassen.",
+        "Sie soll einen Liebesroman über seinen Hof schreiben.",
+        "Sie soll seine Memoiren in eine andere Sprache übersetzen."
+      ],
+      "feedback": [
+        "Omar möchte seine eigene Geschichte durch Joan aufzeichnen lassen.",
+        "Der Auftrag betrifft eine Biografie, keine Sammlung politischer Reden.",
+        "Omar möchte seine eigene Lebensgeschichte, keinen Hof-Liebesroman.",
+        "Joan soll eine Biografie verfassen, nicht ein fertiges Manuskript übersetzen."
+      ],
+      "short": "Omar lädt Joan ein, seine Biografie zu schreiben.",
+      "context": "Der Auftrag schmeichelt Joan und verspricht einen Ausweg aus ihrer Schreibblockade. Omar nutzt ihn, um sie an seinen Hof zu bringen. Die berufliche Chance führt sie in eine politische Täuschung.",
+      "anchor": "Der Biografieauftrag bringt Joan in Omars Machtbereich.",
+      "interest": "Ein scheinbar attraktiver Auftrag löst den Konflikt aus.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was ist das gesuchte „Juwel“ in @ tatsächlich?",
+      "answers": [
+        "Ein verehrter geistlicher Mann",
+        "Ein geschliffener blauer Diamant",
+        "Eine verlorene Königskrone",
+        "Ein goldener Krokodilschädel"
+      ],
+      "feedback": [
+        "Der Name bezeichnet den geistlichen Führer Al-Julhara.",
+        "Ein Diamant ist hier nicht die gesuchte Lösung.",
+        "Die Königskrone ist nicht das Juwel.",
+        "Ein goldener Schädel löst das Rätsel nicht."
+      ],
+      "short": "Das „Juwel“ ist ein Mensch: der geistliche Führer Al-Julhara.",
+      "context": "Joan Wilder (Kathleen Turner) begegnet Al-Julhara (Avner Eisenberg) im Palast. Omar (Spiros Focás) hält ihn fest, weil seine Autorität Omars eigenen Machtanspruch bedroht. Die Schatzsuche verändert damit ihren Gegenstand.",
+      "anchor": "Das Juwel ist ein Mensch, dessen Autorität Omar fürchtet.",
+      "interest": "Die Auflösung verändert die Bedeutung der scheinbaren Schatzsuche.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welches Ereignis zwingt Jack Colton (Michael Douglas) in @, die Warnung vor Omar ernst zu nehmen?",
+      "answers": [
+        "Sein Segelboot wird durch eine Bombe zerstört.",
+        "Er sieht einen von Omar befohlenen Angriff auf Dorfbewohner.",
+        "Er erhält eine heimlich verschickte Nachricht von Joan.",
+        "Ralph wird vor seinen Augen von Omars Männern verschleppt."
+      ],
+      "feedback": [
+        "Die Explosion zerstört Jacks bisherige Möglichkeit weiterzureisen.",
+        "Die Explosion seines Boots zwingt Jack zum Handeln.",
+        "Die zerstörte Yacht, nicht eine heimliche Nachricht, ist der entscheidende Anlass.",
+        "Ein solcher Überfall auf Ralph ist nicht das hier gesuchte Ereignis."
+      ],
+      "short": "Jacks Boot explodiert nach dem Anschlag eines von Omars Männern.",
+      "context": "Jack möchte sich zunächst nicht in den fremden Konflikt hineinziehen lassen. Die Zerstörung des Boots macht die Gefahr unmittelbar persönlich. Zusammen mit Ralph (Danny DeVito) folgt er Joan Wilder (Kathleen Turner).",
+      "anchor": "Das zerstörte Boot bringt Jack zurück auf Joans Spur.",
+      "interest": "Eine konkrete Folge beendet die Möglichkeit, den Konflikt zu ignorieren.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie will Omar (Spiros Focás) in @ seinen Führungsanspruch vor den Zuschauern bestätigen?",
+      "answers": [
+        "Mit einem technisch inszenierten scheinbaren Wunder",
+        "Mit einem inszenierten Wahlsieg",
+        "Mit einer Parade seiner militärischen Verbündeten",
+        "Mit einem öffentlich vorgeführten Waffenstillstandsvertrag"
+      ],
+      "feedback": [
+        "Er setzt Illusionstechnik ein, um religiöse Autorität vorzutäuschen.",
+        "Er setzt auf ein scheinbares Wunder statt auf einen Wahlsieg.",
+        "Eine Militärparade ist nicht der entscheidende vorgeführte Beweis.",
+        "Der Führungsanspruch wird nicht durch einen Waffenstillstandsvertrag belegt."
+      ],
+      "short": "Omar plant ein mit Illusionstechnik erzeugtes scheinbares Wunder.",
+      "context": "Joan Wilder (Kathleen Turner) beobachtet Vorbereitungen mit einem Illusionisten. Das Wissen über die Technik gefährdet Omars Behauptung übernatürlicher Macht. Seine Herrschaft beruht auf der geplanten Wirkung vor einem Publikum.",
+      "anchor": "Omars Wunder soll mit Technik Glaubwürdigkeit vortäuschen.",
+      "interest": "Die Täuschung verknüpft Inszenierung und politischen Machtanspruch.",
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche beiden Länder nennt das AFI als wesentliche Drehorte von @?",
+      "answers": [
+        "Marokko und Frankreich",
+        "Ägypten und Kanada",
+        "Jordanien und Australien",
+        "Indien und Spanien"
+      ],
+      "feedback": [
+        "Die Produktion arbeitete in Marokko und an der französischen Riviera.",
+        "Diese Länder bilden nicht das belegte Drehortpaar.",
+        "Jordanien und Australien sind nicht das genannte Paar.",
+        "Indien und Spanien sind nicht die Hauptorte dieser Produktion."
+      ],
+      "short": "Gedreht wurde vor allem in Marokko und Frankreich.",
+      "context": "Der Film führt vom Leben an der Riviera in ein afrikanisches Abenteuer. Die Produktionsorte greifen diese beiden Landschaftswelten auf. Das AFI dokumentiert marokkanische Orte und anschließend Aufnahmen an der französischen Riviera.",
+      "anchor": "Riviera und Wüste: Frankreich und Marokko tragen die Bildwelten.",
+      "interest": "Die Drehorte erklären den sichtbaren Wechsel der Abenteuerlandschaft.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Michael Douglas und Kathleen Turner erstmals veröffentlicht?",
+      "answers": [
+        "1985",
+        "1978",
+        "1992",
+        "2001"
+      ],
+      "feedback": [
+        "Der Filmstart lag 1985.",
+        "1978 liegt vor dieser Fortsetzung.",
+        "1992 ist nach der Veröffentlichung.",
+        "2001 ist für diese Fassung zu spät."
+      ],
+      "short": "Die erste Veröffentlichung lag 1985.",
+      "context": "„Auf der Jagd nach dem grünen Diamanten“ erschien 1984; „Auf der Jagd nach dem Juwel vom Nil“ folgte 1985. Ein Jahr trennt die beiden Abenteuer mit Michael Douglas, Kathleen Turner und Danny DeVito.",
+      "anchor": "1984 grüner Diamant, 1985 Juwel vom Nil: ein Jahr bis zum nächsten Abenteuer.",
+      "interest": "Die direkte Fortsetzung liefert einen anschaulichen Zeitanker.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer übernahm die Hauptregie bei @ mit Michael Douglas und Kathleen Turner?",
+      "answers": [
+        "Lewis Teague",
+        "Robert Zemeckis",
+        "Richard Donner",
+        "Joe Dante"
+      ],
+      "feedback": [
+        "Teague ist für die Hauptregie ausgewiesen.",
+        "Zemeckis inszenierte den Vorgänger.",
+        "Donner führte hier nicht die Hauptregie.",
+        "Dante ist nicht der Hauptregisseur dieses Films."
+      ],
+      "short": "Lewis Teague führte die Hauptregie.",
+      "context": "Michael Douglas spielte Jack Colton und produzierte den Film. Regisseur Lewis Teague übernahm die Fortsetzung von Robert Zemeckis. Das AFI führt außerdem Glenn Randall für die zweite Dreheinheit auf.",
+      "anchor": "Teague übernimmt die Fortsetzung; Douglas spielt und produziert.",
+      "interest": "Der Wechsel erklärt die Kontinuität der Besetzung bei anderer Hauptregie.",
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "director_note": "Glenn Randall ist laut vollständiger AFI-Creditliste Regisseur der zweiten Dreheinheit und Stuntkoordinator. Gefragt wird nach Hauptregisseur Lewis Teague; Randall erscheint nicht als falsche Alternative."
+}

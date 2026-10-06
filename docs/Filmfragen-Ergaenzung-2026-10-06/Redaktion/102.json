@@ -1,0 +1,223 @@
+{
+  "rank": 102,
+  "directors": [
+    "Taika Waititi"
+  ],
+  "production_countries": [
+    "USA",
+    "Tschechien",
+    "Neuseeland"
+  ],
+  "familiarity_reason": "International erfolgreicher Film mit zugänglicher Hauptfigur und prominenter Besetzung; als bekannter Film eingeordnet.",
+  "release_note": "Weltpremiere am 8. September 2019 in Toronto, US-Kinostart im Oktober 2019.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Jojo_Rabbit",
+    "studio": "https://www.searchlightpictures.com/jojorabbit",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/jojo_rabbit",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was findet Jojo (Roman Griffin Davis) in @ im Haus seiner Mutter?",
+      "answers": [
+        "Ein verstecktes jüdisches Mädchen",
+        "Einen versteckten deutschen Deserteur",
+        "Einen verletzten britischen Piloten",
+        "Eine heimlich beherbergte Widerstandskämpferin"
+      ],
+      "feedback": [
+        "Jojo entdeckt die versteckte Elsa.",
+        "Rosie versteckt Elsa, ein jüdisches Mädchen, keinen deutschen Deserteur.",
+        "Jojo entdeckt Elsa statt eines britischen Piloten.",
+        "Die gesuchte Person ist Elsa; ihre Verfolgung als Jüdin bestimmt die Gefahr."
+      ],
+      "short": "Jojo entdeckt die versteckte Elsa.",
+      "context": "Rosie Betzler (Scarlett Johansson) versteckt Elsa Korr (Thomasin McKenzie) vor der nationalsozialistischen Verfolgung. Ihr Sohn Jojo (Roman Griffin Davis) wurde in gegensätzlichen Vorstellungen erzogen. Die Begegnung im eigenen Haus zwingt ihn, das gelernte Feindbild mit einem tatsächlichen Menschen abzugleichen.",
+      "anchor": "Elsa im Haus widerspricht Jojos erlerntem Feindbild.",
+      "interest": "Elsa im Haus widerspricht Jojos erlerntem Feindbild.",
+      "sources": [
+        "handlung",
+        "studio",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche besondere Beziehung hat Jojo (Roman Griffin Davis) in @ zu Hitler?",
+      "answers": [
+        "Hitler erscheint als sein eingebildeter Freund.",
+        "Hitler erscheint ihm als sein strenger Nachhilfelehrer.",
+        "Hitler tritt als realer Besucher des Ausbildungslagers auf.",
+        "Hitler antwortet persönlich auf seine Briefe."
+      ],
+      "feedback": [
+        "Der Hitler des Films ist Jojos imaginärer Freund.",
+        "Der imaginäre Hitler ist ein Freundesbild, kein Nachhilfelehrer.",
+        "Der Filmhitler ist Jojos Fantasiefigur, kein echter Lagerbesucher.",
+        "Eine persönliche Brieffreundschaft mit dem realen Hitler besteht nicht."
+      ],
+      "short": "Der Hitler des Films ist Jojos imaginärer Freund.",
+      "context": "Adolf (Taika Waititi) verkörpert die nationalsozialistischen Vorstellungen im Kopf von Jojo (Roman Griffin Davis). Er ist weder ein realer Besucher noch eine historische private Begegnung. Je stärker Jojo an der Ideologie zweifelt, desto aggressiver wird der eingebildete Freund; eine kindliche Fantasie bekommt dadurch eine bedrohliche Funktion.",
+      "anchor": "Der Fantasie-Hitler macht Jojos innere Indoktrination sichtbar.",
+      "interest": "Der Fantasie-Hitler macht Jojos innere Indoktrination sichtbar.",
+      "sources": [
+        "handlung",
+        "studio",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wodurch erhält Jojo (Roman Griffin Davis) in @ seinen spöttischen Spitznamen?",
+      "answers": [
+        "Er weigert sich, ein Kaninchen zu töten.",
+        "Er flieht vor einer Mutprobe in einem unterirdischen Gang.",
+        "Er gerät beim Sport wiederholt als Letzter ins Ziel.",
+        "Er lässt einen verletzten Jungen beim Training zurück."
+      ],
+      "feedback": [
+        "Jojo kann das Kaninchen im Lager nicht töten.",
+        "Der Spott entsteht, weil Jojo das Kaninchen nicht töten will.",
+        "Ein sportliches Schlusslicht verursacht den Spitznamen nicht.",
+        "Seine Weigerung, ein Tier zu töten, ist der Anlass, kein Zurücklassen eines Jungen."
+      ],
+      "short": "Jojo kann das Kaninchen im Lager nicht töten.",
+      "context": "Im Ausbildungslager soll Jojo (Roman Griffin Davis) Härte beweisen, indem er ein wehrloses Tier tötet. Seine Weigerung führt zu Spott. Der Spitzname entsteht gerade aus einem Rest von Mitgefühl, den die Erziehung verdrängen will; später wird diese Fähigkeit auch in seiner Beziehung zu Elsa wichtig.",
+      "anchor": "Der Spitzname entsteht aus verweigerter Grausamkeit.",
+      "interest": "Der Spitzname entsteht aus verweigerter Grausamkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie schützt Hauptmann Klenzendorf (Sam Rockwell) Jojo in @ nach der Eroberung der Stadt?",
+      "answers": [
+        "Er nimmt ihm die Uniformjacke ab und gibt ihn als jüdischen Jungen aus.",
+        "Er versteckt ihn in einem Lazarettfahrzeug.",
+        "Er erklärt ihn zu seinem eigenen Sohn.",
+        "Er verschafft ihm einen gefälschten Pass."
+      ],
+      "feedback": [
+        "Klenzendorf entfernt Jojos Uniform und verstellt sich gegenüber den Soldaten.",
+        "Ein Lazarettfahrzeug wird nicht verwendet.",
+        "Eine behauptete Vaterschaft ist nicht die Täuschung.",
+        "Ein Pass entscheidet diese Szene nicht."
+      ],
+      "short": "Klenzendorf entfernt Jojos Uniform und verstellt sich gegenüber den Soldaten.",
+      "context": "Jojo (Roman Griffin Davis) wird wegen seiner Uniform mit Erwachsenen festgehalten. Hauptmann Klenzendorf (Sam Rockwell) reißt ihm die Jacke ab und beschimpft ihn als Juden, damit die sowjetischen Soldaten ihn gehen lassen. Eine äußerlich verletzende Geste schützt hier den Jungen; die Bedeutung erschließt sich aus der lebensgefährlichen Lage.",
+      "anchor": "Klenzendorfs Beschimpfung tarnt eine Rettung.",
+      "interest": "Klenzendorfs Beschimpfung tarnt eine Rettung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum erfindet Jojo (Roman Griffin Davis) in @ am Ende einen deutschen Sieg?",
+      "answers": [
+        "Er hat Angst, Elsa könnte ihn nun verlassen.",
+        "Er glaubt, Elsa brauche weiterhin Schutz vor den Soldaten.",
+        "Er möchte eine eigene drohende Festnahme verbergen.",
+        "Er hat eine Radiomeldung über einen Gegenschlag missverstanden."
+      ],
+      "feedback": [
+        "Jojo will Elsa aus Angst vor dem Alleinsein bei sich behalten.",
+        "Er kennt das Kriegsende und fürchtet Elsas Fortgehen, nicht weiterhin ihre Verfolgung durch die Sieger.",
+        "Die Lüge dient nicht der Verdeckung einer eigenen Festnahme.",
+        "Jojo hat keine Nachricht lediglich missverstanden, sondern lügt bewusst."
+      ],
+      "short": "Jojo will Elsa aus Angst vor dem Alleinsein bei sich behalten.",
+      "context": "Jojo (Roman Griffin Davis) weiß, dass die Alliierten gewonnen haben. Elsa Korr (Thomasin McKenzie) müsste sich daher nicht weiter verstecken. Seine Lüge ist keine politisch überzeugte Nachricht, sondern ein Versuch, ihre Freiheit zu verzögern. Erst draußen erkennt sie die Wahrheit; der gemeinsame Tanz lässt die geschlossene Welt des Hauses hinter sich.",
+      "anchor": "Jojo verwechselt Nähe zunächst mit dem Festhalten an Elsas Gefangenschaft.",
+      "interest": "Jojo verwechselt Nähe zunächst mit dem Festhalten an Elsas Gefangenschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was tut Jojo (Roman Griffin Davis) in @ mit seinem imaginären Hitler, als er dessen Einfluss endgültig zurückweist?",
+      "answers": [
+        "Er tritt ihn aus dem Fenster.",
+        "Er lässt ihn im Zug zurück.",
+        "Er schließt ihn in einen Schrank ein.",
+        "Er setzt ihn an eine leere Festtafel."
+      ],
+      "feedback": [
+        "Jojo befördert den Fantasie-Hitler aus dem Fenster.",
+        "Eine Zugfahrt ist nicht das Ende der Fantasiefigur.",
+        "Ein Schrank beendet die Beziehung nicht.",
+        "Eine Festtafel spielt in der Zurückweisung keine Rolle."
+      ],
+      "short": "Jojo befördert den Fantasie-Hitler aus dem Fenster.",
+      "context": "Adolf (Taika Waititi) versucht noch einmal, Jojo (Roman Griffin Davis) an die alte Ideologie zu binden. Der Junge weist ihn körperlich aus seiner Welt. Weil Adolf eine Fantasiefigur ist, beschreibt die Szene keine historische Tötung, sondern einen sichtbar gemachten inneren Bruch mit der bisherigen Verehrung.",
+      "anchor": "Der Tritt aus dem Fenster ist Jojos sichtbarer Bruch mit der Ideologie.",
+      "interest": "Der Tritt aus dem Fenster ist Jojos sichtbarer Bruch mit der Ideologie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2019",
+        "2015",
+        "2018",
+        "2022"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 2019.",
+        "2015 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "2018 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2022 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 2019.",
+      "context": "Jojo Rabbit wurde 2019 in Toronto erstmals gezeigt. Seine Handlung führt bis zum Kriegsende 1945, 74 Jahre vor der Premiere. Der Gegensatz verbindet den kindlichen Fantasie-Hitler mit der Auflösung seines erlernten Weltbilds: Die Figuren müssen weiterleben, nachdem das System hinter dieser Vorstellung zusammengebrochen ist.",
+      "anchor": "Kriegsende 1945, Filmsatire 2019: 74 Jahre Abstand.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Kriegsende 1945, Filmsatire 2019: 74 Jahre Abstand.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Taika Waititi",
+        "Wes Anderson",
+        "Armando Iannucci",
+        "Michel Gondry"
+      ],
+      "feedback": [
+        "Taika Waititi führte Regie.",
+        "Wes Anderson gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Armando Iannucci gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Michel Gondry gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Taika Waititi.",
+      "context": "Taika Waititi führte Regie, schrieb das Drehbuch und spielt den eingebildeten Hitler. Die Vorlage ist Christine Leunens’ Roman Caging Skies. Der groteske Freund ist eine Ergänzung der Adaption: Durch ihn wird sichtbar, wie ein indoktrinierter Junge seine Ideologie als persönliche Beziehung erlebt.",
+      "anchor": "Taika Waititi: Die Vorlage ist Christine Leunens’ Roman Caging Skies.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "studio",
+        "credits_rt",
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "rank": 108,
+  "directors": [
+    "Jacques Tati"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Italien"
+  ],
+  "familiarity_reason": "Bekannter Tati-Klassiker unter Filmkennern, als Werk für ein breites Publikum nicht selbstverständlich vertraut; Gruppe 3.",
+  "release_note": "Französische Erstveröffentlichung am 10. Mai 1958; italienischer Kinostart im Oktober 1958.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Mon_Oncle",
+    "criterion": "https://www.criterion.com/films/650-mon-oncle",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/mon_oncle",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Welt zieht Gérard (Alain Bécourt) in @ besonders an?",
+      "answers": [
+        "Das ungezwungene Leben mit Hulot im alten Viertel",
+        "Die streng geregelte Kunststofffabrik",
+        "Die Ordnung der technischen Küchengeräte",
+        "Die repräsentativen Empfänge seiner Eltern"
+      ],
+      "feedback": [
+        "Gérard sucht das spielerische Leben mit Hulot.",
+        "Die Fabrik ist nicht Gérards bevorzugter Freiraum.",
+        "Küchenordnung begeistert ihn nicht am meisten.",
+        "Die repräsentativen Empfänge erfüllen seinen Wunsch nach Spiel nicht."
+      ],
+      "short": "Gérard sucht das spielerische Leben mit Hulot.",
+      "context": "Gérard (Alain Bécourt) lebt in der streng modernen Villa Arpel. Monsieur Hulot (Jacques Tati) eröffnet ihm eine spielerische Gegenwelt. Der Junge fühlt sich im ungezwungenen Leben wohler als zwischen den Regeln und Statussymbolen seiner Eltern. So macht ein kindlicher Blick sichtbar, welchen menschlichen Preis die vorzeigbare Ordnung haben kann.",
+      "anchor": "Hulot bietet dem Neffen eine spielerische Gegenwelt.",
+      "interest": "Hulot bietet dem Neffen eine spielerische Gegenwelt.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was unterscheidet die Villa Arpel in @ von Hulots alter Nachbarschaft?",
+      "answers": [
+        "Sie ist streng gestaltet und voller moderner Apparate.",
+        "Sie ist ein altes Haus mit nachträglich improvisierten Geräten.",
+        "Sie ist bewusst schlicht und handwerklich eingerichtet.",
+        "Sie ist ein offener Wohnhof ohne Trennung von Haus und Straße."
+      ],
+      "feedback": [
+        "Die Villa ist eine hochmoderne, durchgestaltete Wohnwelt.",
+        "Die Villa wurde als konsequent moderne Apparatewelt gestaltet.",
+        "Handwerkliche Schlichtheit beschreibt ihre Repräsentation nicht.",
+        "Der kontrollierte private Raum unterscheidet sich gerade vom offenen alten Viertel."
+      ],
+      "short": "Die Villa ist eine hochmoderne, durchgestaltete Wohnwelt.",
+      "context": "Die Familie Arpel präsentiert ein geometrisches Haus mit Gartenwegen, technischen Geräten und auffälliger Möblierung. Vieles sieht beeindruckend aus, ist aber unpraktisch. In Hulots altem Viertel bleibt dagegen Raum für Zufälle und Begegnungen. Der Gegensatz betrifft deshalb den täglichen Umgang miteinander ebenso wie den architektonischen Stil.",
+      "anchor": "Die Villa glänzt als Statussymbol und behindert den Alltag.",
+      "interest": "Die Villa glänzt als Statussymbol und behindert den Alltag.",
+      "sources": [
+        "handlung",
+        "criterion",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wann schaltet Madame Arpel (Adrienne Servantie) in @ den fischförmigen Brunnen besonders gern ein?",
+      "answers": [
+        "Wenn sie einen wichtigen Besucher erwartet.",
+        "Wenn die Familie zum Essen zusammenkommt.",
+        "Wenn ein Handwerker eine Reparatur beginnt.",
+        "Wenn Gérard mit anderen Kindern im Garten spielt."
+      ],
+      "feedback": [
+        "Der Brunnen wird als Begrüßung für wichtige Gäste eingesetzt.",
+        "Der Brunnen wird besonders zur repräsentativen Begrüßung wichtiger Besucher eingeschaltet.",
+        "Die demonstrative Wirkung auf Besucher bestimmt seinen Einsatz.",
+        "Die Kinder sind nicht der Anlass der Statusgeste."
+      ],
+      "short": "Der Brunnen wird als Begrüßung für wichtige Gäste eingesetzt.",
+      "context": "Madame Arpel (Adrienne Servantie) behandelt den Fischbrunnen als Zeichen des Ansehens. Bei vermeintlich bedeutenden Besuchern läuft er, für alltägliche Personen muss der Effekt nicht gezeigt werden. Die kleine Bedienhandlung entlarvt damit die soziale Rangordnung hinter einer dekorativen Gartenanlage; Technik dient hier auch der Beurteilung anderer Menschen.",
+      "anchor": "Am Fischbrunnen lässt sich der Rang des Besuchers ablesen.",
+      "interest": "Am Fischbrunnen lässt sich der Rang des Besuchers ablesen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "In welchem Betrieb versuchen die Arpels, Hulot (Jacques Tati) in @ zu beschäftigen?",
+      "answers": [
+        "In einer Kunststofffabrik",
+        "In einer Bäckerei",
+        "In einem Filmstudio",
+        "In einer Schiffswerft"
+      ],
+      "feedback": [
+        "Hulot soll in der Kunststofffabrik Plastac arbeiten.",
+        "Eine Bäckerei ist nicht der Arbeitsplatz.",
+        "Ein Filmstudio stellt ihn nicht ein.",
+        "Eine Schiffswerft gehört nicht zu diesem Versuch."
+      ],
+      "short": "Hulot soll in der Kunststofffabrik Plastac arbeiten.",
+      "context": "Monsieur Arpel (Jean-Pierre Zola) will den vermeintlich unproduktiven Hulot (Jacques Tati) in die geregelte Arbeitswelt integrieren. Die Fabrik verlängert die mechanisierte Ordnung des Hauses. Hulots unpassender Umgang mit ihr lässt erkennbar werden, dass technische Effizienz und menschliche Spontaneität im Film nach verschiedenen Regeln funktionieren.",
+      "anchor": "Plastac soll Hulot ordnen und wird durch ihn gestört.",
+      "interest": "Plastac soll Hulot ordnen und wird durch ihn gestört.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Funktion haben Farbe und Klang in @ bei der Gegenüberstellung der Lebenswelten?",
+      "answers": [
+        "Sie unterscheiden die sterile Villa von der lebendigen Nachbarschaft.",
+        "Sie vereinheitlichen Villa und altes Viertel als dieselbe Lebenswelt.",
+        "Sie kennzeichnen allein die einzelnen Familienmitglieder durch feste Farben.",
+        "Sie ersetzen sämtliche Aufnahmen des alten Viertels durch reine Geräusche."
+      ],
+      "feedback": [
+        "Die Gestaltung charakterisiert unterschiedliche Formen des Zusammenlebens.",
+        "Villa und Nachbarschaft werden gerade sinnlich unterschieden.",
+        "Die Gestaltung betrifft ganze Lebensräume, nicht nur einen Farbcode für Personen.",
+        "Das alte Viertel wird sichtbar und hörbar erzählt."
+      ],
+      "short": "Die Gestaltung charakterisiert unterschiedliche Formen des Zusammenlebens.",
+      "context": "Die Villa Arpel und die Fabrik erhalten eine kalte, mechanische Wirkung. Hulots Viertel besitzt lebendige Musik, Bewegung und Unordnung. Farbe und Klang liefern damit Hinweise auf die Lebensweise der Menschen, auch wenn kaum erklärende Dialoge zu hören sind. Der Kontrast wird vom Publikum gesehen und gehört, statt in einer Rede begründet zu werden.",
+      "anchor": "Die Lebenswelten unterscheiden sich im Rhythmus von Bild und Ton.",
+      "interest": "Die Lebenswelten unterscheiden sich im Rhythmus von Bild und Ton.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Warum sind die Gegenstände in der Villa Arpel in @ oft unpraktisch?",
+      "answers": [
+        "Ihr demonstrativer Stil zählt mehr als die Bequemlichkeit der Bewohner.",
+        "Die Bewohner verwenden stets absichtlich die falschen Geräte.",
+        "Die Villa steht noch mitten in einer unvollendeten Baustelle.",
+        "Alle Geräte sind eigentlich für die Fabrik statt für ein Wohnhaus gedacht."
+      ],
+      "feedback": [
+        "Die Statuswirkung des Designs verdrängt die Alltagstauglichkeit.",
+        "Die Schwierigkeiten liegen auch im repräsentativen Design, nicht nur in falscher Bedienung.",
+        "Die Villa ist nicht bloß eine noch unfertige Baustelle.",
+        "Die Apparate sind Wohnhausausstattung, nicht ausschließlich verlegte Fabrikgeräte."
+      ],
+      "short": "Die Statuswirkung des Designs verdrängt die Alltagstauglichkeit.",
+      "context": "Umständliche Gartenwege, unbequeme Möbel und laute Küchengeräte ergeben eine glänzende, aber wenig gastliche Umgebung. Tatis Komik prüft nicht einfach, ob eine Maschine funktioniert. Sie zeigt, wie die Arpels ihr Verhalten den Dingen unterordnen, die eigentlich das Leben erleichtern sollten. Der Wunsch nach Modernität wird dadurch zum eigenen Zwang.",
+      "anchor": "Die Menschen dienen ihrem vorzeigbaren Haus.",
+      "interest": "Die Menschen dienen ihrem vorzeigbaren Haus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1958",
+        "1954",
+        "1957",
+        "1961"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1958.",
+        "1954 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1957 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1961 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1958.",
+      "context": "Mein Onkel erschien 1958. Tatis Schützenfest von 1949 war neun Jahre zuvor trotz mitgedrehter Farbaufnahmen zunächst nur schwarzweiß veröffentlicht worden. Mein Onkel wurde damit sein erster in Farbe veröffentlichter Kinolangfilm. Die Farben helfen, die sterile Villa und das lebendige alte Viertel voneinander zu unterscheiden.",
+      "anchor": "Schützenfest 1949 blieb schwarzweiß; neun Jahre später erschien Mein Onkel 1958 in Farbe.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Schützenfest 1949 blieb schwarzweiß; neun Jahre später erschien Mein Onkel 1958 in Farbe.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jacques Tati",
+        "Pierre Étaix",
+        "Marcel Carné",
+        "Jean Renoir"
+      ],
+      "feedback": [
+        "Jacques Tati führte Regie.",
+        "Pierre Étaix gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Marcel Carné gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Jean Renoir gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Jacques Tati.",
+      "context": "Jacques Tati inszeniert und spielt Monsieur Hulot. Jacques Lagrange und Jean L’Hôte arbeiteten am Drehbuch mit. Die genaue Gestaltung von Haus, Garten und Fabrik verwandelt das moderne Design in einen Mitspieler: Bewegungen, Türen und Geräusche erzeugen Komik auch ohne ausführliche Dialoge.",
+      "anchor": "Jacques Tati: Jacques Lagrange und Jean L’Hôte arbeiteten am Drehbuch mit.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "criterion",
+        "credits_rt",
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 96,
+  "directors": [
+    "Michael Powell"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich"
+  ],
+  "familiarity_reason": "Früher psychologischer Horror-Klassiker mit wechselvoller Rezeptionsgeschichte.",
+  "release_note": "Britische Veröffentlichung 7. April 1960.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Peeping_Tom_(1960_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "pruefstelle": {
+      "url": "https://www.bbfc.co.uk/case-studies/peeping-tom-1960",
+      "supports": "Gelesene BBFC-Fallstudie: Erstveröffentlichung 1960, damalige sieben Kürzungen und X-Freigabe, Neueinstufung 15 im Jahr 2007; Powell ohne Pressburger und Vater-Sohn-Besetzung."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was will Mark in @ mit seinen Mordaufnahmen festhalten?",
+      "answers": [
+        "Die Angst der Opfer im Moment des Sterbens",
+        "Die Reaktionen von Menschen bei einem überraschenden Schreck",
+        "Das Sterben ohne sichtbare Gefühlsregung",
+        "Die Panik während einer inszenierten Filmszene"
+      ],
+      "feedback": [
+        "Mark (Karlheinz Böhm, im Credit Carl Boehm) filmt Todesangst.",
+        "Mark will die tatsächliche Todesangst festhalten.",
+        "Die Angstreaktion ist gerade sein Ziel.",
+        "Er filmt wirkliche Morde, keine bloßen Szenen."
+      ],
+      "short": "Mark (Karlheinz Böhm, im Credit Carl Boehm) filmt Todesangst.",
+      "context": "Mark (Karlheinz Böhm, im Credit Carl Boehm) filmt Todesangst. Die Kamera ist deshalb zugleich Beobachtungsgerät und Bestandteil der Gewalt, statt einen unabhängigen Blick auf die Tat zu liefern.",
+      "anchor": "Die Aufnahme ist Teil des Mordes und seines Zwecks.",
+      "interest": "Die Aufnahme ist Teil des Mordes und seines Zwecks.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was verbirgt Mark in @ in einem Bein seines Kamerastativs?",
+      "answers": [
+        "Eine tödliche Spitze",
+        "Eine verborgene Pistole",
+        "Eine dünne Garotte",
+        "Eine Spritze mit Gift"
+      ],
+      "feedback": [
+        "Das Stativ enthält eine tödliche Spitze.",
+        "Der ausfahrende Stachel verbindet Stativ und Mordwaffe.",
+        "Ein Würgedraht steckt nicht im Stativbein.",
+        "Eine Giftspritze ist nicht die Vorrichtung."
+      ],
+      "short": "Das Stativ enthält eine tödliche Spitze.",
+      "context": "Das Stativ enthält eine tödliche Spitze. Mark (Karlheinz Böhm) verbindet damit das Filmen und das Töten in einem Apparat; seine Opfer blicken in die Kamera, die ihnen zugleich den Tod bringt.",
+      "anchor": "Das Stativ trägt die Waffe unter dem Aufnahmegerät.",
+      "interest": "Das Stativ trägt die Waffe unter dem Aufnahmegerät.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wie erklärt Mark in @ seine frühe Beschäftigung mit Angst?",
+      "answers": [
+        "Sein Vater filmte grausame Experimente an ihm.",
+        "Sein Vater zwang ihn zum Anschauen öffentlicher Hinrichtungen.",
+        "Sein Vater nahm nur seine freiwilligen Filmversuche auf.",
+        "Sein Vater brachte ihm eine schauspielerische Darstellung von Angst bei."
+      ],
+      "feedback": [
+        "Marks Vater machte ihn zum Gegenstand von Angstexperimenten.",
+        "Der Vater führte die Experimente am eigenen Kind durch.",
+        "Mark war Opfer der arrangierten Angst, kein freiwilliger Versuchsleiter.",
+        "Die kindliche Angst war real statt nur gespielt."
+      ],
+      "short": "Marks Vater machte ihn zum Gegenstand von Angstexperimenten.",
+      "context": "Marks Vater machte ihn zum Gegenstand von Angstexperimenten. Mark (Karlheinz Böhm) zeigt Helen (Anna Massey) die alten Filme; die heutige Gewalt wiederholt ein erlerntes Verhältnis zwischen Leiden und Aufnahme.",
+      "anchor": "Die väterlichen Filme machen das Kind zum Versuchsobjekt.",
+      "interest": "Die väterlichen Filme machen das Kind zum Versuchsobjekt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was verlangt Helen bei ihrem gemeinsamen Abend mit Mark in @?",
+      "answers": [
+        "Er soll seine Kamera zu Hause lassen.",
+        "Er soll den Abend ohne Ton aufnehmen.",
+        "Er soll nur ein einzelnes Erinnerungsfoto machen.",
+        "Er soll ausschließlich sie und keine Fremden filmen."
+      ],
+      "feedback": [
+        "Helen (Anna Massey) möchte Mark ohne Kamera erleben.",
+        "Helen möchte ganz ohne Kamera mit ihm ausgehen.",
+        "Sie bittet nicht um eine begrenzte Aufnahme.",
+        "Auch ein auf sie beschränkter Film erfüllt ihre Bitte nicht."
+      ],
+      "short": "Helen (Anna Massey) möchte Mark ohne Kamera erleben.",
+      "context": "Helen (Anna Massey) möchte Mark (Karlheinz Böhm) ohne Kamera erleben. Mark (Karlheinz Böhm) kann ihr so kurz außerhalb seiner Aufnahmebesessenheit begegnen; die Trennung vom Apparat ist zugleich ein persönlicher Vertrauensversuch.",
+      "anchor": "Der kamerafreie Abend erprobt eine andere Nähe.",
+      "interest": "Der kamerafreie Abend erprobt eine andere Nähe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche zusätzliche Wirkung hat der Spiegel an Marks Kamera in @?",
+      "answers": [
+        "Die Opfer sehen ihre eigene Angst vor dem Tod.",
+        "Die Opfer glauben darin ihren Angreifer hinter sich zu sehen.",
+        "Die Opfer sehen eine Aufnahme eines früheren Mordes.",
+        "Die Opfer werden durch ihr verzerrtes Gesicht getäuscht."
+      ],
+      "feedback": [
+        "Der Spiegel zeigt dem Opfer die eigene Angst.",
+        "Der Spiegel zeigt unmittelbar die eigene Angst.",
+        "Es ist ein Spiegel, keine Wiedergabe einer alten Aufnahme.",
+        "Die Bedrohung liegt im eigenen realen Ausdruck vor dem Tod."
+      ],
+      "short": "Der Spiegel zeigt dem Opfer die eigene Angst.",
+      "context": "Der Spiegel zeigt dem Opfer die eigene Angst. Mark (Karlheinz Böhm) nimmt dadurch eine Reaktion auf den drohenden Tod und auf das Selbstbild zugleich auf; Sehen und Gesehenwerden verschärfen einander.",
+      "anchor": "Der Spiegel macht das Opfer zum Zuschauer der eigenen Angst.",
+      "interest": "Der Spiegel macht das Opfer zum Zuschauer der eigenen Angst.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie beendet Mark in @ seine geplante Dokumentation?",
+      "answers": [
+        "Er filmt seinen eigenen Tod mit derselben Vorrichtung.",
+        "Er übergibt einen fertigen Film an die Polizei und flieht.",
+        "Er vernichtet alle Geräte und reist ab.",
+        "Er überlässt Helen die letzte Aufnahme eines Tanzes."
+      ],
+      "feedback": [
+        "Mark (Karlheinz Böhm) tötet sich bei laufender Kamera.",
+        "Eine Flucht nach der Übergabe gibt es nicht.",
+        "Er reist nicht nach der Vernichtung ab.",
+        "Ein Tanz ist nicht die Schlussaufnahme."
+      ],
+      "short": "Mark (Karlheinz Böhm) tötet sich bei laufender Kamera.",
+      "context": "Mark (Karlheinz Böhm) tötet sich bei laufender Kamera. Die Vorrichtung richtet sich am Ende gegen ihren Benutzer; der Film schließt seine Beobachtungslogik mit dessen eigener Todesangst.",
+      "anchor": "Der letzte gefilmte Tod ist Marks eigener.",
+      "interest": "Der letzte gefilmte Tod ist Marks eigener.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1960",
+        "1958",
+        "1955",
+        "1961"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1960.",
+        "1958 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1955 liegt fünf Jahre davor.",
+        "1961 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1960 erstmals veröffentlicht.",
+      "context": "1960 erschien der Film und erhielt in Großbritannien nach sieben Kürzungen die damalige X-Freigabe. 2007, 47 Jahre später, stufte die BBFC ihn für eine neue DVD-Veröffentlichung auf 15 herab; das frühere Skandalwerk wurde unter veränderten Maßstäben neu bewertet.",
+      "anchor": "Der 1960 nach Kürzungen mit X freigegebene Film wurde 2007, 47 Jahre später, auf 15 herabgestuft.",
+      "interest": "Der 1960 nach Kürzungen mit X freigegebene Film wurde 2007, 47 Jahre später, auf 15 herabgestuft.",
+      "sources": [
+        "pruefstelle",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Michael Powell",
+        "Alfred Hitchcock",
+        "Terence Fisher",
+        "John Gilling"
+      ],
+      "feedback": [
+        "Michael Powell führte Regie.",
+        "Alfred Hitchcock hat hier keinen Regiecredit.",
+        "Terence Fisher hat hier keinen Regiecredit.",
+        "John Gilling hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Michael Powell.",
+      "context": "Powell inszenierte ohne seinen langjährigen Partner Emeric Pressburger. Er spielt den experimentierenden Vater, sein Sohn Columba den jungen Mark; die Familienbesetzung verstärkt die beunruhigende Verbindung zwischen Aufnahme und Kindheit.",
+      "anchor": "Powell inszenierte ohne seinen langjährigen Partner Emeric Pressburger.",
+      "interest": "Powell inszenierte ohne seinen langjährigen Partner Emeric Pressburger.",
+      "sources": [
+        "pruefstelle",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

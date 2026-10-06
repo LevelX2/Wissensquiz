@@ -1,0 +1,223 @@
+{
+  "rank": 176,
+  "directors": [
+    "Jeff Chan",
+    "Andrew Rhymer"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine kleinere unabhängige Hochzeitskomödie ohne breite deutsche Alltagspräsenz; redaktionell eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung 2019 beim Tribeca-Festival; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Plus_One_(2019_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Plus_One_(2019_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "zeitbezug": {
+      "url": "https://en.wikipedia.org/wiki/Man_Up_(film)",
+      "supports": "Gelesener Artikel des ebenfalls redigierten Rangs 180: Filmjahr und konkrete Gegenstandsverbindung im Jahreskontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Arrangement treffen Alice (Maya Erskine) und Ben (Jack Quaid) in @?",
+      "answers": [
+        "Sie begleiten einander auf Hochzeiten.",
+        "Sie spielen auf jeder Hochzeit ein verlobtes Paar.",
+        "Sie vertreten einander als Trauzeugen.",
+        "Sie organisieren gemeinsam die Hochzeitsmusik."
+      ],
+      "feedback": [
+        "Alice und Ben begleiten einander während der Hochzeitssaison.",
+        "Die Vereinbarung ist zunächst Begleitung, keine erfundene Verlobung.",
+        "Sie wechseln nicht in eine offizielle Trauzeugenrolle.",
+        "Ihr Arrangement betrifft die eigenen Einladungen."
+      ],
+      "short": "Alice und Ben begleiten einander während der Hochzeitssaison.",
+      "context": "Alice und Ben begleiten einander während der Hochzeitssaison. Sie wollen die Feiern nicht mehr allein bewältigen; die pragmatische Abmachung schafft jedoch Raum für eine Veränderung ihrer alten Freundschaft.",
+      "anchor": "Die Hochzeitsbegleitung verändert eine Freundschaft.",
+      "interest": "Die Hochzeitsbegleitung verändert eine Freundschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was hemmt Ben (Jack Quaid) in @ besonders bei neuen Beziehungen?",
+      "answers": [
+        "Die Suche nach dem vollkommen passenden Menschen",
+        "Die Angst, seinen Beruf für eine Ehe aufzugeben",
+        "Ein Streit über den gemeinsamen Wohnort",
+        "Der Wunsch, erst einen finanziellen Gewinn abzuwarten"
+      ],
+      "feedback": [
+        "Ben sucht eine perfekte Beziehung ohne Fehlerrisiko.",
+        "Ben sucht eine vollkommen passende Partnerin.",
+        "Nicht die Ortsfrage, sondern sein Idealmaßstab bremst ihn.",
+        "Ein perfekter Mensch, kein Geldgewinn, ist sein gedanklicher Maßstab."
+      ],
+      "short": "Ben sucht eine perfekte Beziehung ohne Fehlerrisiko.",
+      "context": "Ben sucht eine perfekte Beziehung ohne Fehlerrisiko. Diese Haltung hängt mit den gescheiterten Ehen seines Vaters zusammen; sie erschwert auch die Anerkennung seiner Gefühle für Alice (Maya Erskine).",
+      "anchor": "Die Angst vor Fehlern wird zur Angst vor Bindung.",
+      "interest": "Die Angst vor Fehlern wird zur Angst vor Bindung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Weshalb zweifelt Ben (Jack Quaid) in @ an der neuen Hochzeit seines Vaters?",
+      "answers": [
+        "Er erinnert sich an dessen zwei gescheiterte Ehen.",
+        "Er hält den Vater für zu jung für die Braut.",
+        "Er glaubt, der Vater heirate nur wegen des Geldes.",
+        "Er kennt die Braut als frühere Partnerin eines Freundes."
+      ],
+      "feedback": [
+        "Ben misstraut der neuen Ehe seines Vaters Chuck (Ed Begley Jr.), weil zwei frühere scheiterten.",
+        "Die Erinnerung an zwei gescheiterte Ehen prägt seinen Zweifel.",
+        "Seine Skepsis hängt an der früheren Beziehungsgeschichte.",
+        "Eine solche Bekanntschaft ist nicht der Anlass."
+      ],
+      "short": "Ben misstraut der neuen Ehe seines Vaters Chuck (Ed Begley Jr.), weil zwei frühere scheiterten.",
+      "context": "Ben misstraut der neuen Ehe seines Vaters Chuck (Ed Begley Jr.), weil zwei frühere scheiterten. Alice (Maya Erskine) hält ihm entgegen, dass unglückliches Zusammenbleiben ebenfalls kein gutes Vorbild sein muss.",
+      "anchor": "Die Familienerfahrung bestimmt Bens Maßstab.",
+      "interest": "Die Familienerfahrung bestimmt Bens Maßstab.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wo führt ein verpasster Shuttle in @ zur ersten sexuellen Annäherung?",
+      "answers": [
+        "Auf einem Friedhof",
+        "In einem Flughafenhangar",
+        "In einem Gerichtssaal",
+        "In einer Opernloge"
+      ],
+      "feedback": [
+        "Alice (Maya Erskine) und Ben (Jack Quaid) nehmen einen Weg durch einen Friedhof.",
+        "Ein Hangar ist nicht der Ort.",
+        "Ein Gerichtssaal führt sie nicht zusammen.",
+        "Sie befinden sich nicht in einer Opernloge."
+      ],
+      "short": "Alice (Maya Erskine) und Ben (Jack Quaid) nehmen einen Weg durch einen Friedhof.",
+      "context": "Alice (Maya Erskine) und Ben (Jack Quaid) nehmen einen Weg durch einen Friedhof. Als Alice stürzt, hilft Ben ihr; aus dem Moment gegenseitiger Fürsorge entwickelt sich die Annäherung.",
+      "anchor": "Der verpasste Shuttle führt vom gemeinsamen Weg zur Nähe.",
+      "interest": "Der verpasste Shuttle führt vom gemeinsamen Weg zur Nähe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Woran zerbricht Alice (Maya Erskine) und Bens (Jack Quaid) Beziehung in @ zunächst?",
+      "answers": [
+        "Ben kann ihre Liebeserklärung nicht erwidern.",
+        "Ben möchte jede Verabredung weiterhin als bloße Begleitung behandeln.",
+        "Alice verlangt sofort eine Hochzeit als Beweis.",
+        "Ben kehrt ohne Erklärung zu einer früheren Partnerin zurück."
+      ],
+      "feedback": [
+        "Als Alice ihre Liebe ausdrückt, antwortet Ben mit Ungewissheit.",
+        "Der Bruch entsteht konkret daran, dass er ihre Liebe nicht erwidern kann.",
+        "Ein Ultimatum zur Trauung ist nicht der Auslöser.",
+        "Nicht eine Rückkehr, sondern seine fehlende Liebesantwort verletzt Alice."
+      ],
+      "short": "Als Alice ihre Liebe ausdrückt, antwortet Ben mit Ungewissheit.",
+      "context": "Als Alice ihre Liebe ausdrückt, antwortet Ben mit Ungewissheit. Sein Wunsch nach absoluter Sicherheit verletzt sie und beendet die Beziehung. Die Zweifel werden damit selbst zum Risiko, vor dem er sich schützen wollte.",
+      "anchor": "Der Anspruch auf Sicherheit zerstört die vorhandene Beziehung.",
+      "interest": "Der Anspruch auf Sicherheit zerstört die vorhandene Beziehung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Einsicht vermittelt Chuck (Ed Begley Jr.) seinem Sohn in @ trotz seiner gescheiterten Ehen?",
+      "answers": [
+        "Auch gescheiterte Beziehungen können Wertvolles hervorbringen.",
+        "Eine neue Ehe macht frühere Beziehungen wertlos.",
+        "Eine gute Partnerschaft erfordert immer die völlige Übereinstimmung.",
+        "Eine Trennung beweist stets, dass die Beziehung ein Fehler war."
+      ],
+      "feedback": [
+        "Chuck nennt Ben selbst als etwas Wertvolles, das aus einer gescheiterten Ehe entstand.",
+        "Chuck erklärt gerade deren bleibenden Wert.",
+        "Er relativiert Bens Perfektionsanspruch.",
+        "Chuck verweist auf Wertvolles, das trotzdem entstanden ist."
+      ],
+      "short": "Chuck nennt Ben selbst als etwas Wertvolles, das aus einer gescheiterten Ehe entstand.",
+      "context": "Chuck nennt Ben selbst als etwas Wertvolles, das aus einer gescheiterten Ehe entstand. Damit löst er Erfolg von makelloser Dauer; Ben (Jack Quaid) kann seine Angst vor dem unvollkommenen Lebensweg neu betrachten.",
+      "anchor": "Eine gescheiterte Ehe kann dennoch Wertvolles hinterlassen.",
+      "interest": "Eine gescheiterte Ehe kann dennoch Wertvolles hinterlassen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2019",
+        "2016",
+        "2012",
+        "2021"
+      ],
+      "feedback": [
+        "2019 wurde der Film beim Tribeca-Festival erstmals gezeigt.",
+        "2016 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2019 wird im zeitlichen Hintergrund erklärt.",
+        "2012 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2019 wird im zeitlichen Hintergrund erklärt.",
+        "2021 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2019 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2019 wurde der Film beim Tribeca-Festival erstmals gezeigt.",
+      "context": "2019 wurde Plus One beim Tribeca-Festival erstmals gezeigt. Man Up war 2015 erschienen: Vier Jahre trennen zwei Komödien, in denen eine praktische Datingrolle ungeplant in echte Nähe übergeht. Die Hochzeitsbegleitung entwickelt hier aus wiederholten Begegnungen eine Beziehung.",
+      "anchor": "Man Up 2015, Plus One 2019: Vier Jahre trennen Datingverwechslung und vereinbarte Hochzeitsbegleitung als Wege zur Nähe.",
+      "interest": "Die Verbindung ordnet zwei unterschiedliche Liebesarrangements in ihrer zeitlichen Reihenfolge ein.",
+      "sources": [
+        "eckdaten",
+        "zeitbezug"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jeff Chan und Andrew Rhymer",
+        "Phil Lord und Christopher Miller",
+        "John Requa und Glenn Ficarra",
+        "Joe Russo und Anthony Russo"
+      ],
+      "feedback": [
+        "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam.",
+        "Phil Lord und Christopher Miller wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jeff Chan und Andrew Rhymer.",
+        "John Requa und Glenn Ficarra wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jeff Chan und Andrew Rhymer.",
+        "Joe Russo und Anthony Russo wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jeff Chan und Andrew Rhymer."
+      ],
+      "short": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam.",
+      "context": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam. Maya Erskine und Jack Quaid spielen langjährige Freunde, die sich zunächst nur als Hochzeitsbegleitung helfen wollen. Die Regie verfolgt, wie der wiederholte Auftritt als Paar ihre tatsächliche Beziehung verändert.",
+      "anchor": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam.",
+      "interest": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

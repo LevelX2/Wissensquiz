@@ -1,0 +1,216 @@
+{
+  "rank": 10,
+  "directors": [
+    "Wolfgang Reitherman"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Die Disney-Fassung mit Mogli und Balu gehört für ein breites deutsches Publikum zu den Film-Ikonen.",
+  "release_note": "Erste Veröffentlichung am 18. Oktober 1967; von späteren Realfilmfassungen unterscheiden.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Jungle_Book_(1967_film)",
+    "disney": "https://d23.com/a-to-z/jungle-book-the-film/",
+    "museum": "https://www.waltdisney.org/blog/jungle-book-q-and-a"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Bei welchen Tieren wächst Mogli (Originalstimme Bruce Reitherman) in der Disney-Zeichentrickfassung von @ auf?",
+      "answers": [
+        "Bei Wölfen",
+        "Bei Elefanten",
+        "Bei Affen",
+        "Bei Krokodilen"
+      ],
+      "feedback": [
+        "Ein Wolfsrudel zieht Mogli auf.",
+        "Die Elefanten begegnen ihm erst auf seiner Reise.",
+        "Die Affen entführen ihn später.",
+        "Krokodile ziehen ihn nicht auf."
+      ],
+      "short": "Mogli wächst in einem Wolfsrudel auf.",
+      "context": "Baghira (Sebastian Cabot) bringt das gefundene Kind zu den Wölfen. Die Bedrohung durch Shir Khan (George Sanders) veranlasst das Rudel später, Mogli zu den Menschen schicken zu wollen.",
+      "anchor": "Wölfe geben Mogli ein Zuhause; Shir Khan macht es gefährlich.",
+      "interest": "Die Herkunft erklärt die zentrale Entscheidung des Rudels.",
+      "sources": [
+        "disney",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Tier ist Moglis gelassener Freund Balu (Originalstimme Phil Harris) in @?",
+      "answers": [
+        "Ein Bär",
+        "Ein Panther",
+        "Ein Tiger",
+        "Ein Orang-Utan"
+      ],
+      "feedback": [
+        "Balu ist der Bär.",
+        "Baghira ist der Panther.",
+        "Shir Khan ist der Tiger.",
+        "King Louie ist der Orang-Utan."
+      ],
+      "short": "Balu ist ein Bär.",
+      "context": "Balu verspricht Mogli (Bruce Reitherman) zunächst, im Dschungel bleiben zu dürfen. Seine unbekümmerte Haltung stößt auf Baghiras (Sebastian Cabot) Sorge um das Kind. Diese Spannung trägt ihre gemeinsamen Szenen.",
+      "anchor": "Balu ist der gelassene Bär an Moglis Seite.",
+      "interest": "Die leicht zugängliche Tierzuordnung erschließt zugleich die Figurenbeziehung.",
+      "sources": [
+        "disney",
+        "museum"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welches menschliche Können möchte King Louie (Originalstimme Louis Prima) in @ von Mogli lernen?",
+      "answers": [
+        "Feuer machen",
+        "Einen Kompass bauen",
+        "Eine Sprache schreiben",
+        "Einen Fluss vermessen"
+      ],
+      "feedback": [
+        "King Louie verlangt das Geheimnis des Feuers.",
+        "Ein Kompass ist nicht sein Wunsch.",
+        "Schrift steht nicht im Zentrum seines Liedes.",
+        "Vermessung interessiert ihn hier nicht."
+      ],
+      "short": "King Louie möchte lernen, Feuer zu machen.",
+      "context": "King Louie hält Mogli (Bruce Reitherman) für jemanden, der die menschliche Fähigkeit weitergeben kann. Mogli kennt das Geheimnis jedoch selbst nicht. Der Wunsch macht aus dem scheinbar vergnügten Empfang eine Zwangslage.",
+      "anchor": "Louie will wie ein Mensch sein und verlangt das Feuergeheimnis.",
+      "interest": "Der Wunsch hinter dem Lied erklärt den Konflikt der Szene.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie setzt Mogli (Originalstimme Bruce Reitherman) in @ Shir Khans Angst vor Feuer ein?",
+      "answers": [
+        "Er bindet einen brennenden Ast an dessen Schwanz.",
+        "Er treibt ihn mit einer Fackel in einen Feuerkreis.",
+        "Er wirft einen brennenden Ast vor seine Pfoten.",
+        "Er entzündet ein Feuer zwischen dem Tiger und der Menschensiedlung."
+      ],
+      "feedback": [
+        "Der brennende Ast treibt den Tiger in die Flucht.",
+        "Die entscheidende Aktion ist der brennende Ast am Schwanz.",
+        "Der Ast landet nicht nur vor seinen Pfoten, sondern wird am Schwanz befestigt.",
+        "Mogli stoppt ihn nicht durch ein Feuer vor der Siedlung."
+      ],
+      "short": "Mogli bindet einen brennenden Ast an Shir Khans Schwanz.",
+      "context": "Während Balu (Phil Harris) den Tiger aufhält, entdeckt Mogli eine Möglichkeit, die Angst des Angreifers gegen ihn zu wenden. Feuer, das zuvor als Macht der Menschen erscheint, wird hier zu einem konkreten Rettungsmittel.",
+      "anchor": "Mogli besiegt den Tiger mit dessen Angst vor Feuer.",
+      "interest": "Die Schlussaktion verbindet ein früheres Motiv mit der Rettung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wer schrieb „The Bare Necessities“, das im Deutschen als „Probier’s mal mit Gemütlichkeit“ bekannt ist?",
+      "answers": [
+        "Terry Gilkyson",
+        "Richard M. Sherman und Robert B. Sherman",
+        "George Bruns",
+        "Alan Menken und Howard Ashman"
+      ],
+      "feedback": [
+        "Gilkyson schrieb dieses Lied.",
+        "Die Sherman-Brüder schrieben andere Lieder dieses Films.",
+        "Bruns komponierte die Filmmusik, aber nicht dieses Lied.",
+        "Menken und Ashman sind nicht die Autoren dieses Liedes."
+      ],
+      "short": "„The Bare Necessities“ stammt von Terry Gilkyson.",
+      "context": "Viele Lieder des Films stammen von den Sherman-Brüdern. Balus (Phil Harris) berühmter Gesang bildet die Ausnahme und bewahrt Gilkysons Beitrag. Gerade dieses Lied fasst die gelassene Haltung des Bären zusammen.",
+      "anchor": "Balus berühmtes Lied: Gilkyson, nicht die Sherman-Brüder.",
+      "interest": "Eine konkrete Ausnahme verhindert die pauschale Zuordnung aller Lieder.",
+      "sources": [
+        "disney",
+        "museum"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Welche gestalterische Richtung verlangte Walt Disney für @ laut den überlieferten Produktionsnotizen?",
+      "answers": [
+        "Eine leichtere, weniger düstere Erzählung",
+        "Eine möglichst wortgetreue und düstere Adaption",
+        "Einen ausschließlich abstrakten Film ohne Figuren",
+        "Eine stumme Erzählung ohne Lieder"
+      ],
+      "feedback": [
+        "Disney wollte die Geschichte leichter anlegen.",
+        "Er verlangte gerade keine besonders düstere Texttreue.",
+        "Die Figuren blieben zentral.",
+        "Musik und Lieder wurden nicht grundsätzlich gestrichen."
+      ],
+      "short": "Disney setzte auf eine leichtere Behandlung des Stoffes.",
+      "context": "Das Walt Disney Family Museum dokumentiert Disneys genaue Kommentare zu Figuren und Hintergründen. Sein Einfluss reichte bis in die späte Produktion. Der heitere Ton war damit eine bewusste Gestaltung der Adaption.",
+      "anchor": "Disney lenkt den Dschungelstoff zu einem leichteren Ton.",
+      "interest": "Produktionsnotizen erklären die besondere Haltung dieser Adaption.",
+      "sources": [
+        "museum"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde Disneys Zeichentrickfassung von @ erstmals veröffentlicht?",
+      "answers": [
+        "1967",
+        "1959",
+        "1977",
+        "1994"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung fand 1967 statt.",
+        "1959 ist zu früh.",
+        "1977 liegt nach dieser Veröffentlichung.",
+        "1994 erschien eine spätere Realfilmfassung."
+      ],
+      "short": "Die Zeichentrickfassung erschien 1967.",
+      "context": "Walt Disney starb 1966. „Das Dschungelbuch“ erschien 1967 als letzter animierter Langfilm, den er persönlich betreut hatte. Die zwei aufeinanderfolgenden Jahre verbinden seinen letzten Produktionsbeitrag mit dem späteren Kinostart.",
+      "anchor": "1966 stirbt Walt Disney; 1967 erscheint sein letztes betreutes Animationswerk.",
+      "interest": "Eine biografische Verbindung bildet einen präzisen Jahresanker.",
+      "sources": [
+        "handlung",
+        "disney",
+        "museum"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei Disneys Zeichentrickfassung von @ mit Phil Harris als Balu Regie?",
+      "answers": [
+        "Wolfgang Reitherman",
+        "Walt Disney",
+        "Jon Favreau",
+        "Clyde Geronimi"
+      ],
+      "feedback": [
+        "Reitherman ist der ausgewiesene Regisseur.",
+        "Disney war Produzent und betreute die Gestaltung.",
+        "Favreau führte bei der späteren Fassung von 2016 Regie.",
+        "Geronimi ist nicht der Regisseur dieser Fassung."
+      ],
+      "short": "Wolfgang Reitherman führte Regie.",
+      "context": "Walt Disney prägte die Produktion, während der Regiecredit Wolfgang Reitherman gehört. Dessen Sohn Bruce sprach Mogli im englischen Original. Die familiäre Verbindung betrifft die Besetzung, nicht einen zweiten Regiecredit.",
+      "anchor": "Wolfgang Reitherman inszeniert; Bruce Reitherman spricht Mogli.",
+      "interest": "Der Credit wird mit einer konkreten Besetzungsverbindung verständlich.",
+      "sources": [
+        "disney",
+        "museum"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "rank": 163,
+  "directors": [
+    "George Cukor"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Katharine Hepburns bekannter Screwball-Klassiker mit Cary Grant und James Stewart, als älteres Werk ein Kennerfilm.",
+  "release_note": "Erste öffentliche Veröffentlichung in New York 1940; der breite US-Start folgte 1941. Für diese Fassung gilt das Jahr 1940.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Philadelphia_Story_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Philadelphia_Story_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "criterion": "https://www.criterion.com/films/29029-the-philadelphia-story"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches große Familienereignis steht in @ bevor?",
+      "answers": [
+        "Die Hochzeit von Tracy Lord",
+        "Die Verlobungsfeier von Tracys Schwester",
+        "Der Geburtstag von Tracys Mutter",
+        "Die Wiederverheiratung ihres Vaters"
+      ],
+      "feedback": [
+        "Tracy Lord (Katharine Hepburn) bereitet ihre Hochzeit mit George Kittredge (John Howard) vor.",
+        "Die geplante Feier betrifft Tracys Hochzeit mit George.",
+        "Ein Geburtstag ist nicht das anstehende zentrale Ereignis.",
+        "Der Vater ist Gegenstand eines drohenden Skandals, nicht einer neuen Hochzeit."
+      ],
+      "short": "Tracy Lord (Katharine Hepburn) bereitet ihre Hochzeit mit George Kittredge (John Howard) vor.",
+      "context": "Tracy Lord (Katharine Hepburn) bereitet ihre Hochzeit mit George Kittredge (John Howard) vor. Ihr Exmann Dexter Haven (Cary Grant) und zwei Pressevertreter kommen hinzu. Die geplante Feier gerät dadurch unter privaten und öffentlichen Druck.",
+      "anchor": "Tracys Hochzeit zieht Vergangenheit und Presse an.",
+      "interest": "Tracys Hochzeit zieht Vergangenheit und Presse an.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum erscheinen Mike Connor (James Stewart) und Liz Imbrie (Ruth Hussey) in @ auf dem Anwesen?",
+      "answers": [
+        "Sie sollen für eine Zeitschrift berichten.",
+        "Sie sollen die Hochzeit musikalisch begleiten.",
+        "Sie sollen das Haus renovieren.",
+        "Sie sollen George vor Gericht vertreten."
+      ],
+      "feedback": [
+        "Mike Connor ist Reporter, Liz Imbrie Fotografin einer Zeitschrift.",
+        "Die beiden sind keine Hochzeitsmusiker.",
+        "Eine Renovierung ist kein Auftrag.",
+        "Sie arbeiten nicht als Georges Rechtsvertretung."
+      ],
+      "short": "Mike Connor ist Reporter, Liz Imbrie Fotografin einer Zeitschrift.",
+      "context": "Mike Connor ist Reporter, Liz Imbrie Fotografin einer Zeitschrift. Sie sollen Tracys Hochzeit dokumentieren und werden als Bekannte der Familie eingeschleust. So treffen deren Anspruch auf Privatsphäre und das Geschäftsinteresse der Presse aufeinander.",
+      "anchor": "Reporter und Fotografin dringen in die private Feier ein.",
+      "interest": "Reporter und Fotografin dringen in die private Feier ein.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Womit zwingt der Verleger in @ die Familie zur Duldung seiner Reporter?",
+      "answers": [
+        "Mit einem drohenden Skandalartikel über Tracys Vater",
+        "Mit einer drohenden Enthüllung von Dexters Schulden",
+        "Mit einem Skandalbericht über Georges frühere Ehe",
+        "Mit einer Veröffentlichung von Tracys privaten Briefen"
+      ],
+      "feedback": [
+        "Der Verleger droht mit einem Artikel über die Affäre von Tracys Vater.",
+        "Der Druck betrifft Tracys Vater und dessen Privatleben.",
+        "George ist nicht das Ziel des erpresserischen Artikels.",
+        "Der angekündigte Bericht handelt vom Vater."
+      ],
+      "short": "Der Verleger droht mit einem Artikel über die Affäre von Tracys Vater.",
+      "context": "Der Verleger droht mit einem Artikel über die Affäre von Tracys Vater. Tracy Lord (Katharine Hepburn) akzeptiert deshalb Mike Connor (James Stewart) und Liz Imbrie (Ruth Hussey) im Haus. Ihre unerwünschte Anwesenheit soll den größeren Rufschaden verhindern.",
+      "anchor": "Der Vater-Skandal öffnet den Reportern die Tür.",
+      "interest": "Der Vater-Skandal öffnet den Reportern die Tür.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welchen Vorwurf macht Tracy (Katharine Hepburn) ihrem Verlobten George (John Howard) am Hochzeitstag in @?",
+      "answers": [
+        "Er liebt ein Idealbild statt sie als wirklichen Menschen.",
+        "Er behandelt die Ehe nur als finanziellen Vertrag.",
+        "Er will ihre Eltern von der Hochzeit ausschließen.",
+        "Er betrachtet sie als unfähig zu eigenen Entscheidungen."
+      ],
+      "feedback": [
+        "Tracy erkennt, dass George sie als makelloses Ideal liebt.",
+        "Ihr konkreter Vorwurf gilt seiner idealisierenden Vorstellung von ihr.",
+        "Ein Ausschluss der Eltern ist nicht ihr Vorwurf.",
+        "Sie kritisiert sein Bild einer makellosen Frau, nicht diese konkrete Unfähigkeit."
+      ],
+      "short": "Tracy erkennt, dass George sie als makelloses Ideal liebt.",
+      "context": "Tracy erkennt, dass George sie als makelloses Ideal liebt. Nach der nächtlichen Begegnung mit Mike Connor (James Stewart) verlangt er eine Rechtfertigung. Sie sagt die Hochzeit ab, weil sein Bild von ihr keinen Platz für Fehler und Menschlichkeit lässt.",
+      "anchor": "Tracy verweigert die Rolle des vollkommenen Engels.",
+      "interest": "Tracy verweigert die Rolle des vollkommenen Engels.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum lehnt Tracy (Katharine Hepburn) in @ Mikes spontanen Heiratsantrag ab?",
+      "answers": [
+        "Sie erkennt Liz’ Liebe zu Mike.",
+        "Sie will noch immer George heiraten.",
+        "Sie hält den Antrag für eine Reportertäuschung.",
+        "Sie möchte nach der gescheiterten Feier allein bleiben."
+      ],
+      "feedback": [
+        "Tracy bemerkt, dass Liz Imbrie (Ruth Hussey) Mike Connor (James Stewart) liebt.",
+        "George ist nicht mehr die Lösung; Tracy erkennt Liz’ Bindung an Mike.",
+        "Liz’ Gefühle sind ihr entscheidender Grund, nicht ein vermuteter Presseplan.",
+        "Am Ende heiratet sie Dexter erneut."
+      ],
+      "short": "Tracy bemerkt, dass Liz Imbrie (Ruth Hussey) Mike Connor (James Stewart) liebt.",
+      "context": "Tracy bemerkt, dass Liz Imbrie (Ruth Hussey) Mike Connor (James Stewart) liebt. Sie nimmt seinen improvisierten Antrag nicht an. Statt die wartenden Hochzeitsgäste zum einzigen Maßstab zu machen, berücksichtigt sie damit eine andere, bisher übersehene Beziehung.",
+      "anchor": "Tracy erkennt die Verbindung zwischen Mike und Liz.",
+      "interest": "Tracy erkennt die Verbindung zwischen Mike und Liz.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entscheidung lässt die angekündigte Feier am Ende von @ doch stattfinden?",
+      "answers": [
+        "Tracy heiratet erneut Dexter.",
+        "Tracy nimmt Mikes Antrag an.",
+        "Tracy bleibt bei George.",
+        "Tracy verschiebt die Trauung auf den nächsten Tag."
+      ],
+      "feedback": [
+        "Tracy Lord (Katharine Hepburn) und Dexter Haven (Cary Grant) heiraten erneut.",
+        "Sie weist Mike aus Rücksicht auf Liz zurück.",
+        "Die Hochzeitsentscheidung fällt zugunsten Dexters.",
+        "Die angekündigte Feier kann durch die neue Wahl sofort stattfinden."
+      ],
+      "short": "Tracy Lord (Katharine Hepburn) und Dexter Haven (Cary Grant) heiraten erneut.",
+      "context": "Tracy Lord (Katharine Hepburn) und Dexter Haven (Cary Grant) heiraten erneut. Die Gäste sind bereits versammelt, doch der ursprüngliche Bräutigam wird ersetzt. Das Ende schließt den Film als Wiederverheiratungskomödie: Eine bestehende Beziehung erhält nach veränderten Einsichten eine neue Chance.",
+      "anchor": "Die geplante neue Ehe wird zur erneuerten alten Ehe.",
+      "interest": "Die geplante neue Ehe wird zur erneuerten alten Ehe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1940",
+        "1937",
+        "1933",
+        "1942"
+      ],
+      "feedback": [
+        "1940 wurde der Film erstmals in New York gezeigt, der breite US-Start folgte 1941.",
+        "1937 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1940 wird im zeitlichen Hintergrund erklärt.",
+        "1933 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1940 wird im zeitlichen Hintergrund erklärt.",
+        "1942 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1940 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1940 wurde der Film erstmals in New York gezeigt, der breite US-Start folgte 1941.",
+      "context": "1940 wurde der Film erstmals in New York gezeigt, der breite US-Start folgte 1941. Philip Barrys Bühnenstück war 1939 herausgekommen. Der Abstand von einem Jahr verbindet Hepburns Bühnenerfolg mit seiner Kinoadaption, ohne den späteren Landesstart zum Filmjahr zu machen.",
+      "anchor": "Bühnenstück 1939, Film 1940: Ein Jahr verbindet Hepburns Bühnenerfolg mit der Kinoadaption.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "George Cukor",
+        "Leo McCarey",
+        "Frank Capra",
+        "Howard Hawks"
+      ],
+      "feedback": [
+        "George Cukor inszenierte die Verfilmung von Philip Barrys Bühnenstück.",
+        "Leo McCarey wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet George Cukor.",
+        "Frank Capra wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet George Cukor.",
+        "Howard Hawks wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet George Cukor."
+      ],
+      "short": "George Cukor inszenierte die Verfilmung von Philip Barrys Bühnenstück.",
+      "context": "George Cukor inszenierte die Verfilmung von Philip Barrys Bühnenstück. Katharine Hepburn spielt Tracy Lord, Cary Grant ihren Exmann und James Stewart den Reporter Mike Connor. Die Besetzung stellt drei verschiedene Vorstellungen von Tracy nebeneinander.",
+      "anchor": "George Cukor inszenierte die Verfilmung von Philip Barrys Bühnenstück.",
+      "interest": "George Cukor inszenierte die Verfilmung von Philip Barrys Bühnenstück.",
+      "sources": [
+        "criterion"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

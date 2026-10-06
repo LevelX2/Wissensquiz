@@ -1,0 +1,217 @@
+{
+  "rank": 191,
+  "directors": [
+    "Andrew Patterson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein kleines Science-Fiction-Debüt mit akustischem Schwerpunkt; redaktionell eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung 2019 beim Slamdance-Festival; der breite Streamingstart folgte 2020. Gedreht wurde bereits 2016.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Vast_of_Night",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Vast_of_Night",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo arbeitet Fay (Sierra McCormick) in @ während des Basketballspiels?",
+      "answers": [
+        "In einer Telefonzentrale",
+        "In einem Flugzeugcockpit",
+        "In einem Krankenhauslabor",
+        "In einer Bergmine"
+      ],
+      "feedback": [
+        "Fay arbeitet an einer Telefonzentrale.",
+        "Sie steuert kein Flugzeug.",
+        "Ein Labor ist nicht ihr Arbeitsplatz.",
+        "Sie arbeitet nicht in einer Mine."
+      ],
+      "short": "Fay arbeitet an einer Telefonzentrale.",
+      "context": "Fay arbeitet an einer Telefonzentrale. Während viele Einwohner beim Basketball sind, hört sie ungewöhnliche Signale und Anrufe; gerade ihre unscheinbare Vermittlungsarbeit macht sie zur ersten Beobachterin des Rätsels.",
+      "anchor": "Die Telefonvermittlung öffnet den Zugang zum rätselhaften Signal.",
+      "interest": "Die Telefonvermittlung öffnet den Zugang zum rätselhaften Signal.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Medium nutzt Everett (Jake Horowitz) in @, um Zeugen des Signals zu finden?",
+      "answers": [
+        "Seine Radiosendung",
+        "Eine Fernsehliveshow",
+        "Eine Zeitungsanzeige",
+        "Ein öffentlicher Kinofilm"
+      ],
+      "feedback": [
+        "Everett bittet über seinen Radiosender um Informationen.",
+        "Eine Fernsehsendung moderiert er nicht.",
+        "Eine Anzeige ist nicht das unmittelbare Medium.",
+        "Ein Kinofilm sammelt die Aussagen nicht."
+      ],
+      "short": "Everett bittet über seinen Radiosender um Informationen.",
+      "context": "Everett bittet über seinen Radiosender um Informationen. Der lokale Empfang verbindet einzelne Beobachtungen; die Suche entwickelt sich durch Stimmen und Geschichten, bevor die Figuren einen sichtbaren Beleg erhalten.",
+      "anchor": "Das Radio verbindet die verstreuten Zeugen.",
+      "interest": "Das Radio verbindet die verstreuten Zeugen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum vermutet Billy in @, dass für die geheimen Arbeiten gezielt Schwarze und Mexikaner eingesetzt wurden?",
+      "answers": [
+        "Ihre Aussagen sollten leichter abgewertet werden können.",
+        "Sie hatten technische Kenntnisse, die niemand sonst besaß.",
+        "Sie lebten grundsätzlich näher an jedem Einsatzort.",
+        "Sie waren ohnehin als Soldaten ohne Bezahlung verpflichtet."
+      ],
+      "feedback": [
+        "Billy vermutet, die gesellschaftliche Ausgrenzung der Arbeiter sollte ihre Glaubwürdigkeit schwächen.",
+        "Billy vermutet die leichtere gesellschaftliche Abwertung ihrer Aussagen.",
+        "Die diskriminierende Auswahl ist nicht geografisch erklärt.",
+        "Diese konkrete Lohnregel nennt er nicht als Motiv."
+      ],
+      "short": "Billy vermutet, die gesellschaftliche Ausgrenzung der Arbeiter sollte ihre Glaubwürdigkeit schwächen.",
+      "context": "Billy vermutet, die gesellschaftliche Ausgrenzung der Arbeiter sollte ihre Glaubwürdigkeit schwächen. Seine Erzählung verbindet das unbekannte Phänomen mit einer konkreten Machtfrage: Wer wird gehört, wenn er etwas Ungewöhnliches berichtet?",
+      "anchor": "Gesellschaftliche Ausgrenzung kann die Zeugenschaft unsichtbar machen.",
+      "interest": "Gesellschaftliche Ausgrenzung kann die Zeugenschaft unsichtbar machen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wo finden Fay und Everett in @ eine frühere Aufnahme des Signals?",
+      "answers": [
+        "In der Bibliothek",
+        "Im Archiv des Radiosenders",
+        "Im Unterrichtsraum der Schule",
+        "Im Büro des Polizeichefs"
+      ],
+      "feedback": [
+        "Ein verstorbener Beteiligter hat Tonbänder der Bibliothek hinterlassen.",
+        "Die gesuchte Aufnahme findet sich in der Bibliothek.",
+        "Ein Klassenraum ist nicht ihr Fundort.",
+        "Die Bibliothek liefert die Aufnahme."
+      ],
+      "short": "Ein verstorbener Beteiligter hat Tonbänder der Bibliothek hinterlassen.",
+      "context": "Ein verstorbener Beteiligter hat Tonbänder der Bibliothek hinterlassen. Fay (Sierra McCormick) holt sie; Everett (Jake Horowitz) kann das aktuelle Signal dadurch mit einer älteren dokumentierten Erfahrung verknüpfen.",
+      "anchor": "Das Bibliotheksband verbindet frühere und aktuelle Ereignisse.",
+      "interest": "Das Bibliotheksband verbindet frühere und aktuelle Ereignisse.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Reaktion löst Mabels aufgezeichnete Sprache in @ bei den Autofahrern aus?",
+      "answers": [
+        "Sie geraten in eine Trance.",
+        "Sie können das Signal nun bewusst übersetzen.",
+        "Sie erkennen darin ihre eigenen Stimmen.",
+        "Sie verlassen den Ort mit vollständiger Erinnerung."
+      ],
+      "feedback": [
+        "Beim Abspielen von Mabels Sprache geraten Gerald und Bertsie in Trance.",
+        "Die aufgezeichnete Sprache versetzt sie in einen veränderten Zustand.",
+        "Die Reaktion ist Trance, keine Wiedererkennung.",
+        "Sie geraten unter den Einfluss der Aufnahme."
+      ],
+      "short": "Beim Abspielen von Mabels Sprache geraten Gerald und Bertsie in Trance.",
+      "context": "Beim Abspielen von Mabels Sprache geraten Gerald und Bertsie in Trance. Fay (Sierra McCormick) und Everett (Jake Horowitz) verlassen das Auto; die Aufnahme ist damit nicht nur Information, sondern selbst eine wirksame Gefahr.",
+      "anchor": "Die aufgezeichnete Aussage beeinflusst ihre Hörer körperlich.",
+      "interest": "Die aufgezeichnete Aussage beeinflusst ihre Hörer körperlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Was bleibt nach dem Spiel am Ende von @ von Fay, Everett und Maddie zurück?",
+      "answers": [
+        "Fußspuren und das Aufnahmegerät",
+        "Ein Auto mit eingeschaltetem Funkgerät",
+        "Ein Brief mit einer erklärten Abreise",
+        "Die unveränderte Wohnung mit allen drei Personen"
+      ],
+      "feedback": [
+        "Fay (Sierra McCormick), Everett (Jake Horowitz) und die kleine Maddie sind verschwunden.",
+        "Zurück bleiben Fußspuren und das Tonbandgerät.",
+        "Eine schriftliche Erklärung finden die Menschen nicht.",
+        "Die Personen sind fort; ihre Spuren bleiben."
+      ],
+      "short": "Fay (Sierra McCormick), Everett (Jake Horowitz) und die kleine Maddie sind verschwunden.",
+      "context": "Fay (Sierra McCormick), Everett (Jake Horowitz) und die kleine Maddie sind verschwunden. Die Einwohner finden nur Spuren und das Aufnahmegerät; das zuvor zentrale Sammeln von Stimmen endet mit einer auffälligen Abwesenheit seiner jungen Ermittler.",
+      "anchor": "Der aufgezeichneten Zeugenschaft fehlen am Schluss ihre Sammler.",
+      "interest": "Der aufgezeichneten Zeugenschaft fehlen am Schluss ihre Sammler.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2019",
+        "2016",
+        "2012",
+        "2021"
+      ],
+      "feedback": [
+        "2019 wurde der Film in Slamdance erstmals gezeigt, der breite Streamingstart folgte 2020.",
+        "2016 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2019 wird im zeitlichen Hintergrund erklärt.",
+        "2012 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2019 wird im zeitlichen Hintergrund erklärt.",
+        "2021 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2019 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2019 wurde der Film in Slamdance erstmals gezeigt, der breite Streamingstart folgte 2020.",
+      "context": "2019 wurde der Film in Slamdance erstmals gezeigt, der breite Streamingstart folgte 2020. Gedreht wurde bereits im Herbst 2016. Drei Jahre liegen damit zwischen Dreh und Festivalpremiere; die Geschichte selbst ist bewusst in den 1950er Jahren angesiedelt.",
+      "anchor": "Dreh 2016, Festivalpremiere 2019: Drei Jahre vergehen bei einer Geschichte, die selbst in den 1950ern liegt.",
+      "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Andrew Patterson",
+        "Alex Garland",
+        "Steven Soderbergh",
+        "Gareth Edwards"
+      ],
+      "feedback": [
+        "Andrew Patterson inszenierte Sierra McCormick und Jake Horowitz als Fay und Everett.",
+        "Alex Garland wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Andrew Patterson.",
+        "Steven Soderbergh wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Andrew Patterson.",
+        "Gareth Edwards wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Andrew Patterson."
+      ],
+      "short": "Andrew Patterson inszenierte Sierra McCormick und Jake Horowitz als Fay und Everett.",
+      "context": "Andrew Patterson inszenierte Sierra McCormick und Jake Horowitz als Fay und Everett. Das Drehbuch entwickelte er mit Craig W. Sanger; unter dem Pseudonym James Montague tritt er auch als Autor auf. Die Verbindung von Telefonzentrale und Radiosender macht Stimmen zum entscheidenden Recherchemittel.",
+      "anchor": "Andrew Patterson inszenierte Sierra McCormick und Jake Horowitz als Fay und Everett.",
+      "interest": "Andrew Patterson inszenierte Sierra McCormick und Jake Horowitz als Fay und Everett.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

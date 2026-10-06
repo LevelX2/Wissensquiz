@@ -1,0 +1,222 @@
+{
+  "rank": 84,
+  "directors": [
+    "Robert Eggers"
+  ],
+  "production_countries": [
+    "USA",
+    "Kanada"
+  ],
+  "familiarity_reason": "Künstlerisch markanter Horrorfilm, besonders im Autoren- und Genrepublikum.",
+  "release_note": "Cannes-Premiere 19. Mai 2019.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Lighthouse_(2019_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://a24films.com/films/the-lighthouse",
+      "supports": "Jahr, Robert Eggers, gemeinsame Drehbucharbeit mit Max und Leuchtturmhandlung."
+    },
+    "zeitvergleich83": {
+      "url": "https://en.wikipedia.org/wiki/The_Witch_(2015_film)",
+      "supports": "Gelesene Erstveröffentlichung des konkret verglichenen Films."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum können die Männer in @ nach der vorgesehenen Dienstzeit nicht abreisen?",
+      "answers": [
+        "Ein schwerer Sturm verhindert die Abholung.",
+        "Das Versorgungsschiff wurde von Wake abbestellt.",
+        "Beide Männer haben eine weitere Dienstzeit angenommen.",
+        "Ein Schaden an der Anlegestelle verhindert jede Landung."
+      ],
+      "feedback": [
+        "Der Sturm verhindert die Abholung.",
+        "Die Verzögerung wird durch den Sturm erklärt, nicht durch eine Abbestellung.",
+        "Eine gemeinsame freiwillige Verlängerung ist nicht die Ursache.",
+        "Ein beschädigter Anleger bildet nicht die gegebene Erklärung."
+      ],
+      "short": "Der Sturm verhindert die Abholung.",
+      "context": "Ein schwerer Sturm verhindert die Abholung. Wake (Willem Dafoe) und der Gehilfe (Robert Pattinson) verlieren dadurch den geregelten Endpunkt ihres Dienstes; die verlängerte Isolation verschärft ihren Konflikt.",
+      "anchor": "Der Sturm verwandelt eine begrenzte Dienstzeit in ungewisse Isolation.",
+      "interest": "Der Sturm verwandelt eine begrenzte Dienstzeit in ungewisse Isolation.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Bereich hält Wake in @ dem Gehilfen vor?",
+      "answers": [
+        "Den Raum mit dem Leuchtfeuer",
+        "Die gemeinsame Küche",
+        "Den Außenhof",
+        "Die Schlafräume"
+      ],
+      "feedback": [
+        "Wake (Willem Dafoe) verweigert den Zugang zur Laterne.",
+        "Die Küche ist nicht das entscheidende Verbot.",
+        "Der Außenhof bleibt zugänglich.",
+        "Schlafräume werden nicht vollständig vorenthalten."
+      ],
+      "short": "Wake (Willem Dafoe) verweigert den Zugang zur Laterne.",
+      "context": "Wake (Willem Dafoe) verweigert den Zugang zur Laterne. Der Gehilfe (Robert Pattinson) erledigt die mühsamen Arbeiten; die exklusive Verfügung über das Licht konzentriert Wakes Autorität.",
+      "anchor": "Das verbotene Licht bildet den Mittelpunkt der Macht.",
+      "interest": "Das verbotene Licht bildet den Mittelpunkt der Macht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum warnt Wake den Gehilfen in @ davor, Möwen zu töten?",
+      "answers": [
+        "In ihnen lebten die Seelen verstorbener Seeleute.",
+        "Die Möwen brächten bei ihrem Tod Stürme über die Insel.",
+        "Die Vögel seien Wakes einzige Gesellschaft gewesen.",
+        "Die Möwen würden den Männern künftig den Weg zum Festland weisen."
+      ],
+      "feedback": [
+        "Wake (Willem Dafoe) spricht von Seelen toter Seeleute.",
+        "Wake spricht von Seelen verstorbener Seeleute.",
+        "Die Warnung begründet er mit Seeleuten, nicht nur eigener Einsamkeit.",
+        "Eine spätere Wegweisung ist nicht seine Begründung."
+      ],
+      "short": "Wake (Willem Dafoe) spricht von Seelen toter Seeleute.",
+      "context": "Wake (Willem Dafoe) spricht von Seelen toter Seeleute. Der spätere Möwentod wird mit dem Wetterumschwung verbunden; Aberglaube und mögliche Ursache bleiben eng aneinandergerückt.",
+      "anchor": "Die Möwenwarnung verknüpft Seefahreraberglauben und Wetter.",
+      "interest": "Die Möwenwarnung verknüpft Seefahreraberglauben und Wetter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was erfährt der Gehilfe in @ aus Wakes Dienstbuch?",
+      "answers": [
+        "Wake empfiehlt seine Entlassung ohne Bezahlung.",
+        "Wake empfiehlt eine Verlängerung seiner Probezeit.",
+        "Wake beantragt für ihn eine Lohnzulage.",
+        "Wake beschuldigt ihn der Zerstörung des Leuchtfeuers."
+      ],
+      "feedback": [
+        "Wake empfiehlt die unbezahlte Entlassung.",
+        "Der Eintrag verlangt Entlassung und Lohneinbehalt.",
+        "Eine Zulage widerspricht Wakes Empfehlung.",
+        "Die Enthüllung ist seine negative Arbeitsbewertung, nicht ein zerstörtes Leuchtfeuer."
+      ],
+      "short": "Wake empfiehlt die unbezahlte Entlassung.",
+      "context": "Wake (Willem Dafoe) empfiehlt die unbezahlte Entlassung. Der Gehilfe (Robert Pattinson) sieht darin einen Verrat an seiner Arbeit; die administrative Macht des Vorgesetzten trägt zur offenen Gewalteskalation bei.",
+      "anchor": "Das Dienstbuch verwandelt Arbeit in drohenden Lohnverlust.",
+      "interest": "Das Dienstbuch verwandelt Arbeit in drohenden Lohnverlust.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was gesteht der Gehilfe in @ über den Namen Ephraim Winslow?",
+      "answers": [
+        "Er übernahm ihn von einem Mann, den er ertrinken ließ.",
+        "Er trägt den Namen seines toten Vaters.",
+        "Er erhielt ihn zur Tarnung nach einem Gefängnisausbruch.",
+        "Er gab sich den Namen nach seiner ersten Seefahrt."
+      ],
+      "feedback": [
+        "Der Gehilfe heißt eigentlich Thomas Howard.",
+        "Der Name stammt von einem ertrunkenen Arbeitskollegen.",
+        "Ein Gefängnisausbruch erklärt das Geständnis nicht.",
+        "Der Ursprung liegt bei der Arbeit an Land, nicht einer Seefahrt."
+      ],
+      "short": "Der Gehilfe heißt eigentlich Thomas Howard.",
+      "context": "Der Gehilfe heißt eigentlich Thomas Howard (Robert Pattinson). Howard (Robert Pattinson) ließ den wirklichen Winslow ertrinken; die angenommene Identität bindet seine Gegenwart an eine verschwiegene Schuld.",
+      "anchor": "Der fremde Name verbirgt ein schuldhaftes Sterbenlassen.",
+      "interest": "Der fremde Name verbirgt ein schuldhaftes Sterbenlassen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Bild schließt @ nach Howards Zugang zum Licht ab?",
+      "answers": [
+        "Möwen picken an seinem Körper auf den Felsen.",
+        "Er bleibt geblendet im Laternenraum liegen.",
+        "Wake schließt ihn im Maschinenraum ein.",
+        "Er wird als Wahnsinniger in die Stadt zurückgebracht."
+      ],
+      "feedback": [
+        "Howard (Robert Pattinson) liegt von Möwen zerfressen auf den Felsen.",
+        "Das Schlussbild zeigt ihn auf den Felsen.",
+        "Wake ist zu diesem Zeitpunkt tot.",
+        "Eine geordnete Rückführung beendet den Film nicht."
+      ],
+      "short": "Howard (Robert Pattinson) liegt von Möwen zerfressen auf den Felsen.",
+      "context": "Howard (Robert Pattinson) liegt von Möwen zerfressen auf den Felsen. Das Bild greift die zuvor angekündigte Strafe und die Prometheus-Anspielung auf, ohne das Licht als gewöhnlichen Gegenstand zu erklären.",
+      "anchor": "Die Möwenstrafe schließt den Aufstieg zum verbotenen Licht ab.",
+      "interest": "Die Möwenstrafe schließt den Aufstieg zum verbotenen Licht ab.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2019",
+        "2017",
+        "2014",
+        "2020"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2019.",
+        "2017 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2014 liegt fünf Jahre davor.",
+        "2020 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2019 erstmals veröffentlicht.",
+      "context": "2019 erschien der Film, vier Jahre nach The Witch von 2015. Seine enge Bildproportion 1,19:1 geht auf Formate aus dem Übergang zum Tonfilm zurück; die moderne Veröffentlichung verwendet damit bewusst ein älteres Bildprinzip.",
+      "anchor": "Vier Jahre nach The Witch von 2015 erschien 2019 Eggers’ Leuchtturmfilm.",
+      "interest": "Vier Jahre nach The Witch von 2015 erschien 2019 Eggers’ Leuchtturmfilm.",
+      "sources": [
+        "handlung",
+        "zeitvergleich83"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Robert Eggers",
+        "Ari Aster",
+        "Darren Aronofsky",
+        "David Lynch"
+      ],
+      "feedback": [
+        "Robert Eggers führte Regie.",
+        "Ari Aster hat hier keinen Regiecredit.",
+        "Darren Aronofsky hat hier keinen Regiecredit.",
+        "David Lynch hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Robert Eggers.",
+      "context": "Eggers schrieb das Drehbuch mit seinem Bruder Max. Max’ anfängliche Geistergeschichte und die Überlieferung eines Unglücks an einem walisischen Leuchtturm wurden zu einer Erzählung über zwei Männer und instabile Identitäten.",
+      "anchor": "Eggers schrieb das Drehbuch mit seinem Bruder Max.",
+      "interest": "Eggers schrieb das Drehbuch mit seinem Bruder Max.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

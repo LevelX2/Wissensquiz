@@ -1,0 +1,216 @@
+{
+  "rank": 58,
+  "directors": [
+    "Sean Baker"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Kleineres Sozialdrama mit Festivalpräsenz; Entdeckung für ein breites deutschsprachiges Publikum.",
+  "release_note": "Cannes-Premiere in der Quinzaine am 22. Mai 2017.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Florida_Project",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "zeitanker": {
+      "url": "https://www.bfi.org.uk/film/7297028d-3668-540a-9056-755dd933f42f/tangerine",
+      "supports": "Bakers Film Tangerine 2015 als zweiter Zeitanker."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo lebt Moonee (Brooklynn Prince) mit ihrer Mutter in @?",
+      "answers": [
+        "In einem preiswerten Motel",
+        "In einem dauerhaft gemieteten Ferienhaus",
+        "In einer kleinen Sozialwohnung",
+        "In wechselnden Jugendherbergen"
+      ],
+      "feedback": [
+        "Moonee lebt mit Halley (Bria Vinaite) in einem günstigen Motel.",
+        "Das Motel ist ihr Wohnraum.",
+        "Eine Sozialwohnung haben sie nicht.",
+        "Die Unterkunft ist nicht eine Folge von Jugendherbergen."
+      ],
+      "short": "Moonee lebt mit Halley (Bria Vinaite) in einem günstigen Motel.",
+      "context": "Moonee (Brooklynn Prince) lebt mit Halley (Bria Vinaite) in einem günstigen Motel. Das provisorische Zuhause wird zur dauernden Lebenswelt; die Nachbarschaft bietet Spielräume, aber wenig wirtschaftliche Sicherheit.",
+      "anchor": "Ein Motel ist Moonees Zuhause.",
+      "interest": "Ein Motel ist Moonees Zuhause.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "In der Nähe welches Ferienziels spielt @?",
+      "answers": [
+        "Walt Disney World",
+        "Graceland",
+        "Grand Canyon",
+        "Hollywood Boulevard"
+      ],
+      "feedback": [
+        "Die Motels liegen nahe Walt Disney World.",
+        "Graceland liegt nicht in dieser Umgebung.",
+        "Der Grand Canyon ist kein naher Nachbar.",
+        "Hollywood befindet sich nicht in Florida."
+      ],
+      "short": "Die Motels liegen nahe Walt Disney World.",
+      "context": "Die Motels liegen nahe Walt Disney World. Die Kinderwelt ist farbig und voller Abenteuer, während die Eltern nahe einer teuren Freizeitwelt um Unterkunft und Einkommen kämpfen.",
+      "anchor": "Das Motel liegt im Schatten von Disney World.",
+      "interest": "Das Motel liegt im Schatten von Disney World.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie versucht Halley (Bria Vinaite) in @ zunächst zusätzlich Geld zu verdienen?",
+      "answers": [
+        "Sie verkauft nachgemachtes Parfüm an Touristen.",
+        "Sie verkauft selbstgemachten Schmuck.",
+        "Sie führt bezahlte Stadtrundgänge durch.",
+        "Sie liefert Essen für ein Restaurant aus."
+      ],
+      "feedback": [
+        "Halley verkauft nachgemachtes Parfüm.",
+        "Der Verkauf betrifft nachgemachtes Parfüm.",
+        "Stadtführungen bietet sie nicht an.",
+        "Eine feste Lieferarbeit bestreitet ihren Alltag nicht."
+      ],
+      "short": "Halley verkauft nachgemachtes Parfüm.",
+      "context": "Halley (Bria Vinaite) verkauft nachgemachtes Parfüm. Moonee (Brooklynn Prince) hilft ihr dabei; das Geldverdienen der Mutter wird so Teil des Sommeralltags der Tochter.",
+      "anchor": "Touristen sollen Halleys Parfüm und die nächste Miete bezahlen.",
+      "interest": "Touristen sollen Halleys Parfüm und die nächste Miete bezahlen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Folge hat der von den Kindern gelegte Brand in @ für Moonees Freundschaft mit Scooty?",
+      "answers": [
+        "Seine Mutter verbietet den Umgang.",
+        "Seine Mutter verlangt nur eine Entschuldigung.",
+        "Scooty muss dauerhaft aus dem Motel ausziehen.",
+        "Moonee darf nur noch mit Erwachsenen spielen."
+      ],
+      "feedback": [
+        "Ashley (Mela Murder) verbietet Scooty (Christopher Rivera) den Umgang.",
+        "Sie untersagt den Umgang mit Moonee.",
+        "Ein sofortiger dauerhafter Umzug ist nicht die Folge.",
+        "Ein allgemeines Verbot sämtlicher Kinderspiele gilt nicht."
+      ],
+      "short": "Ashley (Mela Murder) verbietet Scooty (Christopher Rivera) den Umgang.",
+      "context": "Ashley (Mela Murder) verbietet Scooty (Christopher Rivera) den Umgang. Der Brand zerstört zugleich die Unterstützung zwischen den Müttern, weil Ashley auch Halley (Bria Vinaite) nicht mehr hilft.",
+      "anchor": "Das Kinderfeuer zerreißt auch die Hilfe der Erwachsenen.",
+      "interest": "Das Kinderfeuer zerreißt auch die Hilfe der Erwachsenen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie verbirgt Halley (Bria Vinaite) in @ ihre Sexarbeit zunächst vor Moonee?",
+      "answers": [
+        "Sie lässt Moonee im Badezimmer bei lauter Musik.",
+        "Sie gibt Moonee bei jedem Kunden zu Bobby.",
+        "Sie schickt Moonee mit Geld zu einem Imbiss.",
+        "Sie lässt Moonee vor dem Zimmer aufpassen."
+      ],
+      "feedback": [
+        "Moonee (Brooklynn Prince) bleibt im Badezimmer bei lauter Musik.",
+        "Bobby übernimmt nicht jedes Mal die Betreuung.",
+        "Die gezeigte Verdeckung nutzt das Badezimmer.",
+        "Moonee soll nicht als Türwache arbeiten."
+      ],
+      "short": "Moonee (Brooklynn Prince) bleibt im Badezimmer bei lauter Musik.",
+      "context": "Moonee (Brooklynn Prince) bleibt im Badezimmer bei lauter Musik. Die Inszenierung zeigt dadurch getrennte Wahrnehmungsräume innerhalb desselben kleinen Zimmers.",
+      "anchor": "Das Badezimmer trennt Moonees Alltag von Halleys Kunden.",
+      "interest": "Das Badezimmer trennt Moonees Alltag von Halleys Kunden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wohin führt Moonees Flucht mit Jancey am Schluss von @?",
+      "answers": [
+        "Ins Magic Kingdom",
+        "In das Freizeitbad der Motelgruppe",
+        "In das Einkaufszentrum",
+        "Zu einem anderen Motel am Highway"
+      ],
+      "feedback": [
+        "Moonee (Brooklynn Prince) und Jancey (Valeria Cotto) laufen ins Magic Kingdom.",
+        "Das Ende führt in den Disney-Park.",
+        "Ein Einkaufszentrum ist nicht das Ziel.",
+        "Die Flucht endet nicht bei einem weiteren Motel."
+      ],
+      "short": "Moonee (Brooklynn Prince) und Jancey (Valeria Cotto) laufen ins Magic Kingdom.",
+      "context": "Moonee (Brooklynn Prince) und Jancey (Valeria Cotto) laufen ins Magic Kingdom. Der Schluss wechselt in eine andere Bildform und kann als kindliche Fluchtvorstellung gelesen werden; die soziale Not erhält keine ausgespielte behördliche Lösung.",
+      "anchor": "Die letzte Flucht führt in die benachbarte Fantasiewelt.",
+      "interest": "Die letzte Flucht führt in die benachbarte Fantasiewelt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2017",
+        "2015",
+        "2012",
+        "2018"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2017.",
+        "2015 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2012 liegt fünf Jahre davor.",
+        "2018 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2017 erstmals veröffentlicht.",
+      "context": "2017 erschien Bakers Motelgeschichte, zwei Jahre nach Tangerine von 2015. Beide Filme folgen Menschen in prekären Lebenslagen; der Wechsel von Los Angeles zu den Motels nahe Disney World gibt dem neuen Film einen eigenen Alltag.",
+      "anchor": "Zwei Jahre nach Tangerine von 2015 folgte 2017 ein weiterer Blick Bakers auf prekären US-Alltag.",
+      "interest": "Zwei Jahre nach Tangerine von 2015 folgte 2017 ein weiterer Blick Bakers auf prekären US-Alltag.",
+      "sources": [
+        "zeitanker",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Sean Baker",
+        "Andrea Arnold",
+        "Chloé Zhao",
+        "Debra Granik"
+      ],
+      "feedback": [
+        "Sean Baker führte Regie.",
+        "Andrea Arnold führte bei diesem Film nicht Regie.",
+        "Chloé Zhao führte bei diesem Film nicht Regie.",
+        "Debra Granik führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Sean Baker.",
+      "context": "Baker schrieb mit Chris Bergoch. Dessen Beobachtungen von Kindern auf Motelparkplätzen trugen zur Geschichte bei; der Film hält kindliches Spielen und die wirtschaftliche Lage der Erwachsenen zugleich im Blick.",
+      "anchor": "Baker schrieb mit Chris Bergoch.",
+      "interest": "Baker schrieb mit Chris Bergoch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

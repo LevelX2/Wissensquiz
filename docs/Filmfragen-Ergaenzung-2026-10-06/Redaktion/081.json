@@ -1,0 +1,223 @@
+{
+  "rank": 81,
+  "directors": [
+    "Ari Aster"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekannter neuerer Horrorfilm mit deutlicher Präsenz im Genrepublikum.",
+  "release_note": "Sundance-Premiere 21. Januar 2018.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Hereditary_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://a24films.com/films/hereditary",
+      "supports": "Jahr 2018, Regie, Langfilmdebüt, Mutterverlust und ererbte Familienbedrohung."
+    },
+    "zeitvergleich82": {
+      "url": "https://en.wikipedia.org/wiki/Midsommar",
+      "supports": "Gelesene Erstveröffentlichung des konkret verglichenen Films."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Verlust steht am Anfang von @?",
+      "answers": [
+        "Der Tod von Annies Mutter",
+        "Das Verschwinden von Steve",
+        "Der Tod von Peters Lehrer",
+        "Die Flucht von Joan"
+      ],
+      "feedback": [
+        "Annie (Toni Collette) beerdigt ihre Mutter Ellen.",
+        "Steve ist am Anfang bei der Familie.",
+        "Ein Lehrer ist nicht der erste Verlust.",
+        "Joan flieht dort nicht."
+      ],
+      "short": "Annie (Toni Collette) beerdigt ihre Mutter Ellen.",
+      "context": "Annie (Toni Collette) beerdigt ihre Mutter Ellen. Die zahlreichen Trauergäste und das schwierige Verhältnis zur Verstorbenen machen den Abschied zugleich zum Beginn einer unbekannten Familiengeschichte.",
+      "anchor": "Die Beerdigung eröffnet Fragen über die verstorbene Mutter.",
+      "interest": "Die Beerdigung eröffnet Fragen über die verstorbene Mutter.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche akute Gefahr führt nach der Party in @ zur Fahrt ins Krankenhaus?",
+      "answers": [
+        "Charlies schwere Nussallergie",
+        "Peters plötzliche Vergiftung",
+        "Charlies akuter Asthmaanfall ohne Allergie",
+        "Charlies schwere Schnittverletzung"
+      ],
+      "feedback": [
+        "Charlie (Milly Shapiro) reagiert auf Nüsse im Kuchen.",
+        "Charlie benötigt wegen der Nüsse Hilfe.",
+        "Die Nussallergie ist der konkrete Auslöser.",
+        "Eine Schnittwunde ist nicht der Notfall auf der Party."
+      ],
+      "short": "Charlie (Milly Shapiro) reagiert auf Nüsse im Kuchen.",
+      "context": "Charlie (Milly Shapiro) reagiert auf Nüsse im Kuchen. Peter (Alex Wolff) versucht, sie ins Krankenhaus zu fahren; seine vorherige Vernachlässigung und der folgende Unfall verschärfen die Schuld innerhalb der Familie.",
+      "anchor": "Der allergische Notfall führt zur verhängnisvollen Fahrt.",
+      "interest": "Der allergische Notfall führt zur verhängnisvollen Fahrt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Hilfe bietet Joan Annie in @ scheinbar an?",
+      "answers": [
+        "Kontakt zur verstorbenen Tochter durch eine Séance",
+        "Unterstützung in einer Trauergruppe ohne spiritistische Rituale",
+        "Eine psychotherapeutische Behandlung nach dem Unfall",
+        "Eine gemeinsame Suche nach Charlies Unfallzeugen"
+      ],
+      "feedback": [
+        "Joan (Ann Dowd) führt Annie (Toni Collette) an eine Séance heran.",
+        "Die Trauergruppe bildet den Rahmen der Begegnung, doch Joans Angebot ist eine Séance.",
+        "Joan vermittelt hier keine Psychotherapie.",
+        "Sie sucht mit Annie keine Unfallzeugen."
+      ],
+      "short": "Joan (Ann Dowd) führt Annie (Toni Collette) an eine Séance heran.",
+      "context": "Joan (Ann Dowd) führt Annie (Toni Collette) an eine Séance heran. Das Angebot beantwortet den Wunsch nach Nähe zu Charlie (Milly Shapiro), dient aber zugleich einem verdeckten Plan gegen die Familie.",
+      "anchor": "Die scheinbare Trauerhilfe öffnet eine gefährliche Verbindung.",
+      "interest": "Die scheinbare Trauerhilfe öffnet eine gefährliche Verbindung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Enthüllung liefert Ellens Fotoalbum in @?",
+      "answers": [
+        "Joan gehörte bereits zum Umfeld von Annies Mutter.",
+        "Ellen hatte sich zuletzt vollständig von Joan losgesagt.",
+        "Joan war mit Steve aufgewachsen.",
+        "Die Fotos zeigten nur unbekannte Personen ohne Familienbezug."
+      ],
+      "feedback": [
+        "Das Album zeigt Joan mit Ellen.",
+        "Das Album zeigt gerade die Nähe zwischen Ellen und Joan.",
+        "Eine gemeinsame Kindheit mit Steve ist nicht die Enthüllung.",
+        "Annie erkennt Joan auf den Bildern wieder."
+      ],
+      "short": "Das Album zeigt Joan mit Ellen.",
+      "context": "Das Album zeigt Joan (Ann Dowd) mit Ellen. Annie (Toni Collette) erkennt dadurch, dass Joan (Ann Dowd) keine zufällig kennengelernte Trauernde ist und ihre Mutter mit dem Kult verbunden war.",
+      "anchor": "Das Foto entlarvt die vermeintlich zufällige Bekanntschaft.",
+      "interest": "Das Foto entlarvt die vermeintlich zufällige Bekanntschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was geschieht beim zweiten Versuch, Charlies Zeichenbuch zu verbrennen, in @?",
+      "answers": [
+        "Steve geht in Flammen auf.",
+        "Annie selbst geht erneut in Flammen auf.",
+        "Peter wird im Dachboden verbrannt.",
+        "Joan fängt beim Ritual Feuer."
+      ],
+      "feedback": [
+        "Steve (Gabriel Byrne) fängt Feuer.",
+        "Annie befürchtet ihre eigene Verbrennung, doch diesmal trifft es Steve.",
+        "Peter ist nicht das Opfer dieses Versuchs.",
+        "Joan verbrennt dabei nicht."
+      ],
+      "short": "Steve (Gabriel Byrne) fängt Feuer.",
+      "context": "Steve (Gabriel Byrne) fängt Feuer. Annie (Toni Collette) hatte wegen des ersten Versuchs ihren eigenen Tod erwartet; die veränderte Wirkung zerstört ihre Hoffnung, das Geschehen kontrolliert beenden zu können.",
+      "anchor": "Die wiederholte Handlung trifft plötzlich einen anderen Menschen.",
+      "interest": "Die wiederholte Handlung trifft plötzlich einen anderen Menschen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum wird Peter am Ende von @ für den Kult zum entscheidenden Körper?",
+      "answers": [
+        "Paimon soll einen männlichen Wirt erhalten.",
+        "Er soll als menschlicher Leiter den bisherigen Kult ablösen.",
+        "Er soll als Opfer Charlie aus dem Totenreich zurückholen.",
+        "Er soll den Kult durch ein freiwilliges Schuldbekenntnis schützen."
+      ],
+      "feedback": [
+        "Paimon erhält Peter (Alex Wolff) als männlichen Wirt.",
+        "Der Kult bestimmt ihn zum Wirt eines Dämons, nicht zum menschlichen Leiter.",
+        "Charlies Wiederbelebung ist nicht das Ziel.",
+        "Ein Schuldbekenntnis erklärt die Körperwahl nicht."
+      ],
+      "short": "Paimon erhält Peter (Alex Wolff) als männlichen Wirt.",
+      "context": "Paimon erhält Peter (Alex Wolff) als männlichen Wirt. Joans (Ann Dowd) abschließende Erklärung verbindet die frühere Bindung an Charlie (Milly Shapiro) mit dem zielgerichteten Angriff auf ihren Bruder.",
+      "anchor": "Der Kult will den Dämon aus dem weiblichen in einen männlichen Körper bringen.",
+      "interest": "Der Kult will den Dämon aus dem weiblichen in einen männlichen Körper bringen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2016",
+        "2013",
+        "2019"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2018.",
+        "2016 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2013 liegt fünf Jahre davor.",
+        "2019 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2018 erstmals veröffentlicht.",
+      "context": "2018 erschien Asters erster Langfilm. Ein Jahr später, 2019, folgte Midsommar; beide Geschichten setzen bei Trauer und beschädigten Beziehungen an, entwickeln daraus aber unterschiedliche Formen des Horrors.",
+      "anchor": "Auf Asters Debüt von 2018 folgte ein Jahr später, 2019, Midsommar.",
+      "interest": "Auf Asters Debüt von 2018 folgte ein Jahr später, 2019, Midsommar.",
+      "sources": [
+        "studio",
+        "handlung",
+        "zeitvergleich82"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Ari Aster",
+        "Robert Eggers",
+        "Mike Flanagan",
+        "James Wan"
+      ],
+      "feedback": [
+        "Ari Aster führte Regie.",
+        "Robert Eggers hat hier keinen Regiecredit.",
+        "Mike Flanagan hat hier keinen Regiecredit.",
+        "James Wan hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Ari Aster.",
+      "context": "Aster entwarf den Film zunächst als Familientragödie. Die gebauten Innenräume ließen entfernte Kamerapositionen und abnehmbare Wände zu; dadurch kann das Wohnhaus selbst wie eines von Annies Miniaturmodellen wirken.",
+      "anchor": "Aster entwarf den Film zunächst als Familientragödie.",
+      "interest": "Aster entwarf den Film zunächst als Familientragödie.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

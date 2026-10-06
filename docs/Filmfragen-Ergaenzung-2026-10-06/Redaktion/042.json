@@ -1,0 +1,211 @@
+{
+  "rank": 42,
+  "directors": [
+    "Tom McCarthy"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Oscar-Gewinner und weithin beachtetes Journalismusdrama; Gruppe bekannte Filme.",
+  "release_note": "Venedig-Premiere 3. September 2015.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Spotlight_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Bei welcher Zeitung arbeitet das Rechercheteam in @?",
+      "answers": [
+        "The Boston Globe",
+        "The New York Times",
+        "The Washington Post",
+        "Los Angeles Times"
+      ],
+      "feedback": [
+        "Das Team arbeitet beim Boston Globe.",
+        "Die New Yorker Zeitung beschäftigt dieses Team nicht.",
+        "Die Washingtoner Zeitung ist nicht sein Arbeitgeber.",
+        "Die Recherche findet nicht in einer Los-Angeles-Redaktion statt."
+      ],
+      "short": "Das Team arbeitet beim Boston Globe.",
+      "context": "Das Team arbeitet beim Boston Globe. Die Zeitung untersucht Missbrauch und Vertuschung innerhalb der katholischen Kirche in ihrer eigenen Stadt, wodurch berufliche Recherche auch persönliche Bindungen belastet.",
+      "anchor": "Die Bostoner Lokalrecherche wächst zum großen Skandal.",
+      "interest": "Die Bostoner Lokalrecherche wächst zum großen Skandal.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches institutionelle Problem untersucht das Team in @?",
+      "answers": [
+        "Sexuellen Kindesmissbrauch und seine Vertuschung",
+        "Manipulierte Wahlergebnisse",
+        "Veruntreute Krankenhausspenden",
+        "Illegale Waffengeschäfte"
+      ],
+      "feedback": [
+        "Das Team untersucht sexuellen Kindesmissbrauch durch Priester und seine Vertuschung.",
+        "Wahlbetrug ist nicht das Thema.",
+        "Krankenhausspenden stehen nicht im Mittelpunkt.",
+        "Ein Waffenhandel bildet nicht die untersuchte Struktur."
+      ],
+      "short": "Das Team untersucht sexuellen Kindesmissbrauch durch Priester und seine Vertuschung.",
+      "context": "Das Team untersucht sexuellen Kindesmissbrauch durch Priester und seine Vertuschung. Der Film folgt der Suche nach Belegen, die über einzelne Täter hinaus auf ein institutionelles Muster weisen.",
+      "anchor": "Die Recherche gilt Missbrauch und systematischer Vertuschung.",
+      "interest": "Die Recherche gilt Missbrauch und systematischer Vertuschung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Weshalb drängt Robby Robinson (Michael Keaton) in @ zum weiteren Recherchieren statt zu einer schnellen Einzelgeschichte?",
+      "answers": [
+        "Er will die systematische Vertuschung belegen.",
+        "Er will erst eine vollständige Liste aller Opfer.",
+        "Er will zunächst nur den Einzelfall veröffentlichen.",
+        "Er will bis zur nächsten Wahl warten."
+      ],
+      "feedback": [
+        "Robinson will das System hinter einzelnen Fällen belegen.",
+        "Eine vollständige Opferliste ist nicht seine Veröffentlichungsbedingung.",
+        "Er besteht gerade auf dem systematischen Nachweis.",
+        "Eine Wahl bestimmt den Zeitpunkt nicht."
+      ],
+      "short": "Robinson will das System hinter einzelnen Fällen belegen.",
+      "context": "Robinson (Michael Keaton) will das System hinter einzelnen Fällen belegen. Ein Bericht nur über einen Täter könnte als Ausnahme abgetan werden; Dokumente sollen daher das Wissen und Handeln der Kirchenleitung zeigen.",
+      "anchor": "Erst das System belegen, dann veröffentlichen.",
+      "interest": "Erst das System belegen, dann veröffentlichen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welches Ereignis unterbricht in @ vorübergehend die Missbrauchsrecherche?",
+      "answers": [
+        "Die Anschläge vom 11. September",
+        "Der Irakkrieg von 2003",
+        "Hurrikan Katrina",
+        "Die Finanzkrise von 2008"
+      ],
+      "feedback": [
+        "Die Anschläge vom 11.",
+        "Der Irakkrieg liegt nach der dargestellten Recherche.",
+        "Katrina ereignet sich später.",
+        "Die Finanzkrise liegt Jahre danach."
+      ],
+      "short": "Die Anschläge vom 11.",
+      "context": "Die Anschläge vom 11. September unterbrechen die Recherche. Die Redaktion muss ihre Kräfte auf die akute Nachrichtenlage richten, bevor das Team zum noch unveröffentlichten Material zurückkehrt.",
+      "anchor": "Die Weltlage unterbricht die lokale Recherche.",
+      "interest": "Die Weltlage unterbricht die lokale Recherche.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welches eigene Versäumnis räumt Robinson (Michael Keaton) in @ vor der Veröffentlichung ein?",
+      "answers": [
+        "Er verfolgte eine frühere Liste beschuldigter Priester nicht weiter.",
+        "Er hatte die Opferberichte pauschal als erfunden veröffentlicht.",
+        "Er hatte einen beschuldigten Priester selbst verteidigt.",
+        "Er hatte seinen Kollegen die Existenz der Gerichtsakten verschwiegen."
+      ],
+      "feedback": [
+        "Robinson hatte eine frühere Liste nicht weiterverfolgt.",
+        "Eine solche pauschale Veröffentlichung gesteht er nicht.",
+        "Eine eigene Verteidigung des Priesters ist nicht das Versäumnis.",
+        "Das Eingeständnis betrifft die frühere Liste."
+      ],
+      "short": "Robinson hatte eine frühere Liste nicht weiterverfolgt.",
+      "context": "Robinson (Michael Keaton) hatte eine frühere Liste nicht weiterverfolgt. Die neue Recherche macht auch ein Versäumnis der eigenen Zeitung sichtbar; die Redaktion steht deshalb nicht vollständig außerhalb des untersuchten Schweigens.",
+      "anchor": "Die Zeitung muss auch ihr eigenes Wegsehen prüfen.",
+      "interest": "Die Zeitung muss auch ihr eigenes Wegsehen prüfen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Reaktion zeigt das Ende von @ nach Erscheinen des ersten Artikels?",
+      "answers": [
+        "Weitere Betroffene rufen massenhaft an.",
+        "Die Telefone bleiben trotz der Veröffentlichung still.",
+        "Das Team erhält nur Anrufe von Kirchenvertretern.",
+        "Die Betroffenen verlangen überwiegend einen Widerruf."
+      ],
+      "feedback": [
+        "Weitere Betroffene melden sich telefonisch.",
+        "Die anhaltenden Anrufe widersprechen der Stille.",
+        "Weitere Betroffene melden sich selbst.",
+        "Die Reaktion eröffnet weitere Fälle statt eines überwiegenden Widerrufswunsches."
+      ],
+      "short": "Weitere Betroffene melden sich telefonisch.",
+      "context": "Weitere Betroffene melden sich telefonisch. Der veröffentlichte Bericht und die Kontaktmöglichkeit öffnen den Raum für zusätzliche Zeugnisse; das Ende zeigt den Beginn einer größeren Aufarbeitung.",
+      "anchor": "Die Veröffentlichung bringt neue Stimmen zum Telefon.",
+      "interest": "Die Veröffentlichung bringt neue Stimmen zum Telefon.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2015",
+        "2013",
+        "2010",
+        "2016"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2015.",
+        "2013 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2010 liegt fünf Jahre davor.",
+        "2016 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2015 erstmals veröffentlicht.",
+      "context": "2015 kam die Verfilmung einer Recherche an die Öffentlichkeit. Die dargestellte Veröffentlichung des Boston Globe liegt im Januar 2002; der Pulitzer-Preis folgte 2003. Diese Recherche ging dem Kinofilm um dreizehn Jahre voraus.",
+      "anchor": "Die Rechercheveröffentlichung von 2002 wurde dreizehn Jahre später, 2015, verfilmt.",
+      "interest": "Die Rechercheveröffentlichung von 2002 wurde dreizehn Jahre später, 2015, verfilmt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Tom McCarthy",
+        "David Fincher",
+        "James Vanderbilt",
+        "Steven Spielberg"
+      ],
+      "feedback": [
+        "Tom McCarthy führte Regie.",
+        "David Fincher führte bei diesem Film nicht Regie.",
+        "James Vanderbilt führte bei diesem Film nicht Regie.",
+        "Steven Spielberg führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Tom McCarthy.",
+      "context": "McCarthy schrieb das Drehbuch gemeinsam mit Josh Singer. Das Ensemble zeigt journalistische Arbeit als langwierigen Prozess: Aussagen müssen gesammelt, Dokumente geprüft und institutionelle Zusammenhänge nachgewiesen werden.",
+      "anchor": "McCarthy schrieb das Drehbuch gemeinsam mit Josh Singer.",
+      "interest": "McCarthy schrieb das Drehbuch gemeinsam mit Josh Singer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

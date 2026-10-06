@@ -1,0 +1,220 @@
+{
+  "rank": 78,
+  "directors": [
+    "Tomm Moore",
+    "Nora Twomey"
+  ],
+  "production_countries": [
+    "Irland",
+    "Frankreich",
+    "Belgien"
+  ],
+  "familiarity_reason": "Irische Animationsentdeckung mit eigenständiger an Buchmalerei orientierter Gestaltung.",
+  "release_note": "Erstaufführung 2009; Infobox nennt Gérardmer im Januar, Text nennt Berlin im Februar. Kein Tagesdatum abgefragt.",
+  "director_note": "Tomm Moore und Nora Twomey als gemeinsames Regieteam.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Secret_of_Kells",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "zeitvergleich77": {
+      "url": "https://en.wikipedia.org/wiki/Song_of_the_Sea_(2014_film)",
+      "supports": "Gelesene Erstveröffentlichung des konkret verglichenen Films."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Arbeit begeistert Brendan in @?",
+      "answers": [
+        "Das kunstvolle Gestalten eines Buches",
+        "Das Errichten der Schutzmauer",
+        "Das Herstellen von Metallornamenten",
+        "Das Kopieren von Text ohne Bilder"
+      ],
+      "feedback": [
+        "Brendan (Originalstimme: Evan McGuire) entdeckt die Buchmalerei.",
+        "Seine eigene Begeisterung gilt dem illustrierten Buch.",
+        "Metallarbeit ist nicht sein Haupttalent.",
+        "Die Bilder sind gerade entscheidend für sein Interesse."
+      ],
+      "short": "Brendan (Originalstimme: Evan McGuire) entdeckt die Buchmalerei.",
+      "context": "Brendan (Originalstimme: Evan McGuire) entdeckt die Buchmalerei. Aidan (Originalstimme: Mick Lally) erkennt sein Talent; die Gestaltung des Manuskripts öffnet dem Klosterkind eine Welt jenseits der bloßen Verteidigung.",
+      "anchor": "Brendans Neugier gilt dem Bild auf der Buchseite.",
+      "interest": "Brendans Neugier gilt dem Bild auf der Buchseite.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wovor soll die große Mauer des Abtes in @ schützen?",
+      "answers": [
+        "Vor Wikingerangriffen",
+        "Vor dem Angriff eines benachbarten irischen Fürsten",
+        "Vor Räubern aus dem Kloster selbst",
+        "Vor einer Belagerung durch den König"
+      ],
+      "feedback": [
+        "Cellach (Originalstimme: Brendan Gleeson) fürchtet die Wikinger.",
+        "Der Abt fürchtet die Wikinger.",
+        "Klosterbewohner sind nicht die äußere Gefahr.",
+        "Ein König ist nicht die erwartete Belagerungsmacht."
+      ],
+      "short": "Cellach (Originalstimme: Brendan Gleeson) fürchtet die Wikinger.",
+      "context": "Cellach (Originalstimme: Brendan Gleeson) fürchtet die Wikinger. Er konzentriert sich auf die Mauer und verbietet Brendan (Originalstimme: Evan McGuire) den Wald; Sicherheit wird dadurch zugleich zur Begrenzung seines Neffen.",
+      "anchor": "Die Schutzmauer grenzt auch Brendans Möglichkeiten ein.",
+      "interest": "Die Schutzmauer grenzt auch Brendans Möglichkeiten ein.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wozu sammelt Brendan im Wald von @ Galläpfel?",
+      "answers": [
+        "Zur Herstellung von Tinte",
+        "Zur Herstellung von Papier",
+        "Zum Färben der Mönchsgewänder",
+        "Zum Versiegeln des Bucheinbands"
+      ],
+      "feedback": [
+        "Aidan (Originalstimme: Mick Lally) verarbeitet die Galläpfel zu Tinte.",
+        "Galläpfel werden zur Tinte verarbeitet.",
+        "Eine Gewandfärbung ist nicht der Zweck.",
+        "Der Einband wird damit nicht versiegelt."
+      ],
+      "short": "Aidan (Originalstimme: Mick Lally) verarbeitet die Galläpfel zu Tinte.",
+      "context": "Aidan (Originalstimme: Mick Lally) verarbeitet die Galläpfel zu Tinte. Brendans (Originalstimme: Evan McGuire) Gang in den verbotenen Wald entsteht damit aus einer konkreten Notwendigkeit der Bucharbeit.",
+      "anchor": "Die Tinte verbindet den Wald mit dem Skriptorium.",
+      "interest": "Die Tinte verbindet den Wald mit dem Skriptorium.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum braucht Brendan in @ das Auge von Colmcille?",
+      "answers": [
+        "Es dient als Vergrößerungslinse für feine Zeichnungen.",
+        "Es soll die Zeichnungen ohne menschliche Arbeit vollenden.",
+        "Es soll die Tinte dauerhaft vor dem Trocknen bewahren.",
+        "Es soll die Buchseiten vor Feuer schützen."
+      ],
+      "feedback": [
+        "Das kristallene Auge vergrößert die feinen Details.",
+        "Brendan muss selbst zeichnen und nutzt die Vergrößerung.",
+        "Ein Trocknungsschutz ist nicht seine Funktion.",
+        "Ein Feuerschutz wird dem Auge nicht zugeschrieben."
+      ],
+      "short": "Das kristallene Auge vergrößert die feinen Details.",
+      "context": "Das kristallene Auge vergrößert die feinen Details. Brendan (Originalstimme: Evan McGuire) braucht es zum Vollenden der Bilder, nachdem Aidans frühere Linse auf der Flucht zerstört wurde.",
+      "anchor": "Die magische Kostbarkeit hat einen handwerklichen Zweck.",
+      "interest": "Die magische Kostbarkeit hat einen handwerklichen Zweck.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie besiegt Brendan in @ den schlangenartigen Crom Cruach?",
+      "answers": [
+        "Er entreißt ihm das Auge, sodass er sich selbst verschlingt.",
+        "Er blendet Crom mit einem Licht aus dem fertigen Buch.",
+        "Er lässt Aisling Crom dauerhaft in einen Wolf verwandeln.",
+        "Er zieht Crom aus seiner Höhle in die Sonne."
+      ],
+      "feedback": [
+        "Brendan entreißt Crom Cruach das Auge.",
+        "Das Auge wird direkt herausgerissen.",
+        "Eine Wolfsverwandlung Croms erfolgt nicht.",
+        "Ein Sonnenkampf beendet die Begegnung nicht."
+      ],
+      "short": "Brendan entreißt Crom Cruach das Auge.",
+      "context": "Brendan (Originalstimme: Evan McGuire) entreißt Crom Cruach das Auge. Das geblendete Wesen frisst sich selbst; Brendan (Originalstimme: Evan McGuire) gewinnt so die Linse, die er für die letzten Zeichnungen benötigt.",
+      "anchor": "Croms eigener Körper wird zur Falle des geblendeten Wesens.",
+      "interest": "Croms eigener Körper wird zur Falle des geblendeten Wesens.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was nehmen die Wikinger beim Raub des Buches in @ mit?",
+      "answers": [
+        "Den kostbaren Einband, während die Seiten zurückbleiben",
+        "Die Seiten und den Einband zusammen",
+        "Nur die bereits fertig bemalten Seiten",
+        "Nur die magische Linse"
+      ],
+      "feedback": [
+        "Die Wikinger behalten den schmuckvollen Einband.",
+        "Die Seiten werden verstreut und bleiben rettbar.",
+        "Die Bildseiten gelten den Räubern nicht als wichtigste Beute.",
+        "Die Linse nehmen sie nicht als Hauptbeute mit."
+      ],
+      "short": "Die Wikinger behalten den schmuckvollen Einband.",
+      "context": "Die Wikinger behalten den schmuckvollen Einband. Brendan (Originalstimme: Evan McGuire) sammelt die verstreuten Seiten; die Erzählung trennt dadurch materiellen Beutewert und den bewahrten Inhalt des Werkes.",
+      "anchor": "Der Einband wird Beute, die Seiten bleiben rettbar.",
+      "interest": "Der Einband wird Beute, die Seiten bleiben rettbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2009",
+        "2007",
+        "2004",
+        "2010"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2009.",
+        "2007 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2004 liegt fünf Jahre davor.",
+        "2010 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2009 erstmals veröffentlicht.",
+      "context": "2009 wurde die Erzählung um das berühmte mittelalterliche Buch veröffentlicht. Sie war Cartoon Saloons erster Langfilm; fünf Jahre später, 2014, folgte Die Melodie des Meeres mit einer weiteren irischen Sagenwelt.",
+      "anchor": "Cartoon Saloons erster Langfilm von 2009 ging Die Melodie des Meeres von 2014 fünf Jahre voraus.",
+      "interest": "Cartoon Saloons erster Langfilm von 2009 ging Die Melodie des Meeres von 2014 fünf Jahre voraus.",
+      "sources": [
+        "handlung",
+        "zeitvergleich77"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Tomm Moore und Nora Twomey",
+        "Chris Sanders und Dean DeBlois",
+        "Pete Docter und Bob Peterson",
+        "Gary Trousdale und Kirk Wise"
+      ],
+      "feedback": [
+        "Tomm Moore und Nora Twomey führten Regie.",
+        "Chris Sanders und Dean DeBlois führten bei diesem Film nicht Regie.",
+        "Pete Docter und Bob Peterson führten bei diesem Film nicht Regie.",
+        "Gary Trousdale und Kirk Wise führten bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Tomm Moore und Nora Twomey.",
+      "context": "Moore und Twomey führten gemeinsam Regie. Die Zeichnungen greifen die flächige Gestaltung und verschlungenen Ornamente mittelalterlicher Buchmalerei auf, statt ausschließlich räumlich realistische Bilder anzustreben.",
+      "anchor": "Moore und Twomey führten gemeinsam Regie.",
+      "interest": "Moore und Twomey führten gemeinsam Regie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 192,
+  "directors": [
+    "Richard Schenkman"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein fast vollständig im Gespräch erzähltes Science-Fiction-Kammerspiel; eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 2007; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Man_from_Earth",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Man_from_Earth",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Anlass bringt die Kollegen in @ zu John Oldman (David Lee Smith)?",
+      "answers": [
+        "Sein bevorstehender Umzug",
+        "Sein Wechsel in eine andere Universität",
+        "Seine Rückkehr von einer Forschungsreise",
+        "Seine öffentliche Abschiedsvorlesung"
+      ],
+      "feedback": [
+        "Die Kollegen besuchen John vor seinem Umzug zum Abschied.",
+        "Der konkrete Anlass ist sein bevorstehendes Wegziehen.",
+        "Er bereitet den Abschied statt eine Rückkehr vor.",
+        "Die Kollegen besuchen ihn privat am Haus."
+      ],
+      "short": "Die Kollegen besuchen John vor seinem Umzug zum Abschied.",
+      "context": "Die Kollegen besuchen John vor seinem Umzug zum Abschied. Die harmlose Zusammenkunft wird zu einer langwierigen Prüfung seiner überraschenden Selbstauskunft; niemand ist als offizieller Ermittler gekommen.",
+      "anchor": "Die Abschiedsfeier wird zur Prüfung einer Lebensgeschichte.",
+      "interest": "Die Abschiedsfeier wird zur Prüfung einer Lebensgeschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche außergewöhnliche Behauptung stellt John (David Lee Smith) in @ über sein Alter auf?",
+      "answers": [
+        "Er lebt seit ungefähr vierzehntausend Jahren.",
+        "Er lebt seit ungefähr zweitausend Jahren.",
+        "Er wurde in der Renaissance geboren.",
+        "Er hat vor wenigen Jahrzehnten aufgehört zu altern."
+      ],
+      "feedback": [
+        "John behauptet, seit der Steinzeit zu leben und nicht normal zu altern.",
+        "Er behauptet eine wesentlich längere Lebensdauer von vierzehntausend Jahren.",
+        "Seine Geschichte reicht in die Vorgeschichte zurück.",
+        "Er beschreibt ein Ausbleiben des Alterns seit Jahrtausenden."
+      ],
+      "short": "John behauptet, seit der Steinzeit zu leben und nicht normal zu altern.",
+      "context": "John behauptet, seit der Steinzeit zu leben und nicht normal zu altern. Seine Freunde nehmen dies zunächst als Gedankenexperiment; die Wissenschaftler suchen nach Widersprüchen, die ein einfaches Spiel von einer realen Möglichkeit unterscheiden könnten.",
+      "anchor": "John behauptet ein menschliches Leben seit der Steinzeit.",
+      "interest": "John behauptet ein menschliches Leben seit der Steinzeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum zieht John (David Lee Smith) nach eigener Aussage in @ etwa alle zehn Jahre um?",
+      "answers": [
+        "Damit niemand sein ausbleibendes Altern bemerkt.",
+        "Damit er alle zehn Jahre einen neuen Beruf erlernen kann.",
+        "Damit er seine Erinnerungen regelmäßig überprüfen kann.",
+        "Damit er rechtzeitig einer vorgeschriebenen Untersuchung entgeht."
+      ],
+      "feedback": [
+        "John erklärt, regelmäßige Umzüge verhinderten die Entdeckung seines Nichtalterns.",
+        "Der Ortswechsel soll das ausbleibende Altern verbergen.",
+        "Er will der Beobachtung seiner unveränderten Erscheinung entgehen.",
+        "Keine amtliche Untersuchung schreibt den Zeitraum vor."
+      ],
+      "short": "John erklärt, regelmäßige Umzüge verhinderten die Entdeckung seines Nichtalterns.",
+      "context": "John erklärt, regelmäßige Umzüge verhinderten die Entdeckung seines Nichtalterns. Der Abschied verliert damit seine gewöhnliche Bedeutung: Er wiederholt eine Schutzhandlung, durch die er seit langer Zeit immer neue soziale Bindungen aufgeben müsste.",
+      "anchor": "Der Umzug schützt die verborgene Lebensdauer.",
+      "interest": "Der Umzug schützt die verborgene Lebensdauer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum kann John (David Lee Smith) in @ nicht jede historische Frage perfekt beantworten?",
+      "answers": [
+        "Auch seine Erinnerung und Perspektive bleiben begrenzt.",
+        "Er war zu jeder Zeit ausschließlich außerhalb Europas.",
+        "Er darf wegen eines Versprechens keine Fakten nennen.",
+        "Er erinnert sich nur an die letzten zehn Jahre."
+      ],
+      "feedback": [
+        "John betont, dass lange Lebensdauer keine vollständige Erinnerung oder Allwissenheit schafft.",
+        "Geografie allein erklärt nicht seine begrenzte Kenntnis; Erinnerung und Perspektive bleiben menschlich.",
+        "Ein Schweigeversprechen ist nicht die Begründung.",
+        "Seine Erinnerung ist begrenzt, aber nicht auf diesen festen Zeitraum reduziert."
+      ],
+      "short": "John betont, dass lange Lebensdauer keine vollständige Erinnerung oder Allwissenheit schafft.",
+      "context": "John betont, dass lange Lebensdauer keine vollständige Erinnerung oder Allwissenheit schafft. Er habe Ereignisse nur aus seiner begrenzten Position erlebt; diese Abgrenzung ist zentral für die Frage, welche Beweise man überhaupt erwarten darf.",
+      "anchor": "Ein langer Lebensweg ist keine allwissende Geschichtsschreibung.",
+      "interest": "Ein langer Lebensweg ist keine allwissende Geschichtsschreibung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche religiöse Aussage lässt das Gespräch in @ besonders eskalieren?",
+      "answers": [
+        "John behauptet, die Jesusgeschichte angeregt zu haben.",
+        "John behauptet, ein mittelalterlicher Papst gewesen zu sein.",
+        "John behauptet, Moses persönlich entführt zu haben.",
+        "John behauptet, keine Religion könne jemals entstehen."
+      ],
+      "feedback": [
+        "John (David Lee Smith) behauptet, seine Vermittlung buddhistischer Lehren im Westen sei zur Jesusgeschichte geworden.",
+        "Er spricht von der Entstehung der Jesusgeschichte.",
+        "Diese Tat ist nicht die eskalierende Behauptung.",
+        "Er stellt eine sehr konkrete religiöse Ursprungsgeschichte auf."
+      ],
+      "short": "John (David Lee Smith) behauptet, seine Vermittlung buddhistischer Lehren im Westen sei zur Jesusgeschichte geworden.",
+      "context": "John (David Lee Smith) behauptet, seine Vermittlung buddhistischer Lehren im Westen sei zur Jesusgeschichte geworden. Edith (Ellen Crawford) erlebt dies als Angriff auf ihren Glauben; eine abstrakte Altersfrage wird so zur persönlichen Erschütterung.",
+      "anchor": "Die Lebensgeschichte berührt die Überzeugungen der Zuhörer.",
+      "interest": "Die Lebensgeschichte berührt die Überzeugungen der Zuhörer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum trifft Johns (David Lee Smith) letzte Namensenthüllung Will (Richard Riehle) in @ unmittelbar?",
+      "answers": [
+        "Will erkennt darin den Namen seines eigenen Vaters.",
+        "Will erkennt den Namen eines früheren Lehrers.",
+        "Will findet darin den Namen seines Großvaters.",
+        "Will hat den Namen selbst als Decknamen benutzt."
+      ],
+      "feedback": [
+        "Will erkennt einen von Johns früheren Namen als den seines Vaters.",
+        "Es ist der Name seines eigenen Vaters.",
+        "Die unmittelbare Vaterbeziehung trifft ihn.",
+        "John benennt seine frühere Identität als Wills Vater."
+      ],
+      "short": "Will erkennt einen von Johns früheren Namen als den seines Vaters.",
+      "context": "Will erkennt einen von Johns früheren Namen als den seines Vaters. Nach konkreten persönlichen Antworten bricht er zusammen; die bislang hypothetische Geschichte erreicht damit einen biografischen Bezug, der nicht nur aus Lehrbuchwissen stammen könnte.",
+      "anchor": "Der Gedankentest wird zu einer persönlichen Vaterfrage.",
+      "interest": "Der Gedankentest wird zu einer persönlichen Vaterfrage.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "2004",
+        "2000",
+        "2009"
+      ],
+      "feedback": [
+        "2007 erschien der Film nach Jerome Bixbys letztem Drehbuch.",
+        "2004 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt.",
+        "2000 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt.",
+        "2009 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2007 erschien der Film nach Jerome Bixbys letztem Drehbuch.",
+      "context": "2007 erschien der Film nach Jerome Bixbys letztem Drehbuch. Bixby hatte den Text 1998 kurz vor seinem Tod fertiggestellt; neun Jahre liegen bis zur Verfilmung. Der Abstand passt zu einer Geschichte, die Lebensdauer und Erinnerung ausschließlich im Gespräch prüft.",
+      "anchor": "Drehbuch 1998, Film 2007: Neun Jahre nach Bixbys letztem Text wird die lange Lebenszeit im Gespräch geprüft.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Richard Schenkman",
+        "Steven Soderbergh",
+        "Gareth Edwards",
+        "Duncan Jones"
+      ],
+      "feedback": [
+        "Richard Schenkman inszenierte das Drehbuch von Jerome Bixby.",
+        "Steven Soderbergh wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Richard Schenkman.",
+        "Gareth Edwards wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Richard Schenkman.",
+        "Duncan Jones wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Richard Schenkman."
+      ],
+      "short": "Richard Schenkman inszenierte das Drehbuch von Jerome Bixby.",
+      "context": "Richard Schenkman inszenierte das Drehbuch von Jerome Bixby. David Lee Smith spielt John Oldman, dessen Kollegen verschiedene akademische Disziplinen vertreten. Die Regie lässt die fantastische Behauptung durch Fragen und Reaktionen prüfen, statt sie mit historischen Rückblenden zu beglaubigen.",
+      "anchor": "Richard Schenkman inszenierte das Drehbuch von Jerome Bixby.",
+      "interest": "Richard Schenkman inszenierte das Drehbuch von Jerome Bixby.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

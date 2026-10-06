@@ -1,0 +1,218 @@
+{
+  "rank": 83,
+  "directors": [
+    "Robert Eggers"
+  ],
+  "production_countries": [
+    "USA",
+    "Kanada",
+    "Vereinigtes Königreich"
+  ],
+  "familiarity_reason": "Moderner Folk-Horror-Klassiker, im Genre besonders präsent.",
+  "release_note": "Sundance 2015, regulärer US-Start 2016; A24 bezeichnet das Vertriebsjahr 2016.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Witch_(2015_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "zeitvergleich84": {
+      "url": "https://en.wikipedia.org/wiki/The_Lighthouse_(2019_film)",
+      "supports": "Gelesene Erstveröffentlichung des konkret verglichenen Films."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum lebt die Familie in @ außerhalb der Siedlung?",
+      "answers": [
+        "Sie wird nach einem religiösen Streit verbannt.",
+        "Sie verlassen die Siedlung wegen einer schlechten Ernte.",
+        "Sie ziehen auf Anweisung der Verwandten weg.",
+        "Sie kaufen den Hof als sicheren wirtschaftlichen Aufstieg."
+      ],
+      "feedback": [
+        "William (Ralph Ineson) gerät mit der religiösen Gemeinschaft in Konflikt.",
+        "Der religiöse Streit führt zur Verbannung.",
+        "Verwandte ordnen sie nicht an.",
+        "Der Neuanfang ist keine gesicherte Aufstiegsentscheidung."
+      ],
+      "short": "William (Ralph Ineson) gerät mit der religiösen Gemeinschaft in Konflikt.",
+      "context": "William (Ralph Ineson) gerät mit der religiösen Gemeinschaft in Konflikt. Die Verbannung führt seine Familie an den Waldrand, wo ihre wirtschaftliche und soziale Absicherung zerfällt.",
+      "anchor": "Die religiöse Abgrenzung beginnt mit dem Ausschluss aus der Siedlung.",
+      "interest": "Die religiöse Abgrenzung beginnt mit dem Ausschluss aus der Siedlung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Verlust beginnt die Katastrophe der Familie in @?",
+      "answers": [
+        "Das Baby verschwindet bei Thomasins Aufsicht.",
+        "Der Vater verlässt die Familie.",
+        "Die Zwillinge ziehen zur Großmutter.",
+        "Caleb verkauft die Farm."
+      ],
+      "feedback": [
+        "Samuel verschwindet während Thomasins (Anya Taylor-Joy) Aufsicht.",
+        "William verlässt die Familie nicht.",
+        "Die Zwillinge ziehen nicht fort.",
+        "Caleb verkauft keinen Hof."
+      ],
+      "short": "Samuel verschwindet während Thomasins (Anya Taylor-Joy) Aufsicht.",
+      "context": "Samuel verschwindet während Thomasins (Anya Taylor-Joy) Aufsicht. Die Zuschauer sehen eine Hexe als Täterin; innerhalb der Familie bleibt zunächst eine Ungewissheit, die gegen Thomasin (Anya Taylor-Joy) verwendet wird.",
+      "anchor": "Ein tatsächlicher Hexenangriff wird innerhalb der Familie zur Schuldzuweisung.",
+      "interest": "Ein tatsächlicher Hexenangriff wird innerhalb der Familie zur Schuldzuweisung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum ist der silberne Becher der Mutter in @ verschwunden?",
+      "answers": [
+        "William hat ihn heimlich gegen Jagdausrüstung eingetauscht.",
+        "Thomasin hat ihn eingeschmolzen.",
+        "Caleb hat ihn im Wald vergraben.",
+        "Die Zwillinge haben ihn verschenkt."
+      ],
+      "feedback": [
+        "William (Ralph Ineson) hat den Becher eingetauscht.",
+        "Thomasin hat ihn nicht eingeschmolzen.",
+        "Caleb vergräbt ihn nicht.",
+        "Die Zwillinge verschenken ihn nicht."
+      ],
+      "short": "William (Ralph Ineson) hat den Becher eingetauscht.",
+      "context": "William (Ralph Ineson) hat den Becher eingetauscht. Katherine (Kate Dickie) verdächtigt Thomasin (Anya Taylor-Joy); das verschwiegene Geschäft verstärkt eine ungerechte Beschuldigung.",
+      "anchor": "Das Schweigen des Vaters schützt ihn und belastet Thomasin.",
+      "interest": "Das Schweigen des Vaters schützt ihn und belastet Thomasin.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Behauptung der Zwillinge macht Black Phillip in @ verdächtig?",
+      "answers": [
+        "Der Ziegenbock spreche zu ihnen.",
+        "Der Bock nehme nachts die Gestalt des Vaters an.",
+        "Der Bock führe sie zu ihrem verschwundenen Bruder.",
+        "Der Bock verweigere jede Berührung durch Thomasin."
+      ],
+      "feedback": [
+        "Die Zwillinge berichten von Black Phillips Stimme.",
+        "Die Zwillinge berichten vom Sprechen, nicht von einer Vatergestalt.",
+        "Eine Führung zum Baby behaupten sie nicht.",
+        "Ein Berührungsverbot ist nicht ihr entscheidender Bericht."
+      ],
+      "short": "Die Zwillinge berichten von Black Phillips Stimme.",
+      "context": "Die Zwillinge berichten von Black Phillips Stimme. Thomasin (Anya Taylor-Joy) wendet ihre eigene Beschuldigung deshalb gegen sie; das Tier steht schon vor der Schlussenthüllung innerhalb der familiären Verdächtigungen.",
+      "anchor": "Die Stimme des Bocks verbindet Kinder und mögliche Teufelsnähe.",
+      "interest": "Die Stimme des Bocks verbindet Kinder und mögliche Teufelsnähe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was enthüllt die Inszenierung beim nächtlichen Stillen von Katherine in @?",
+      "answers": [
+        "Statt ihres Babys verletzt ein Rabe ihre Brust.",
+        "Eine schwarze Ziege beißt ihre Brust.",
+        "Die tote Mutter erscheint statt des Babys.",
+        "Katherine stillt eine aus Stoff gefertigte Puppe."
+      ],
+      "feedback": [
+        "Ein Rabe pickt an Katherines Brust.",
+        "Die sichtbare Enthüllung zeigt einen Raben.",
+        "Keine tote Mutter ersetzt das Kind in dieser Szene.",
+        "Eine Puppe erklärt die blutige Verletzung nicht."
+      ],
+      "short": "Ein Rabe pickt an Katherines Brust.",
+      "context": "Ein Rabe pickt an Katherines Brust. Katherine (Kate Dickie) erlebt zugleich eine tröstende Vision ihrer Kinder; der Bildwechsel verbindet ihren Wunsch nach Wiederkehr mit körperlicher Zerstörung.",
+      "anchor": "Die vermeintliche Wiedervereinigung wird als zerstörerische Vision sichtbar.",
+      "interest": "Die vermeintliche Wiedervereinigung wird als zerstörerische Vision sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was verlangt Black Phillip von Thomasin im Schluss von @?",
+      "answers": [
+        "Ihre Unterschrift in einem Buch",
+        "Ihr Blut als Opfer auf dem Familiengrab",
+        "Den Verzicht auf jede weitere Begegnung mit Hexen",
+        "Die Übergabe der Zwillinge an ihn"
+      ],
+      "feedback": [
+        "Thomasin (Anya Taylor-Joy) unterschreibt das Buch.",
+        "Der konkrete Abschluss ist die Unterschrift im Buch.",
+        "Das Angebot führt Thomasin gerade zu den Hexen.",
+        "Die Übergabe der Zwillinge wird hier nicht verlangt."
+      ],
+      "short": "Thomasin (Anya Taylor-Joy) unterschreibt das Buch.",
+      "context": "Thomasin (Anya Taylor-Joy) unterschreibt das Buch. Black Phillip (menschliche Gestalt und Stimme: Wahab Chaudhry) verspricht ihr ein anderes Leben; danach schließt sie sich den Hexen im Wald an.",
+      "anchor": "Das Buch besiegelt den versprochenen Wechsel in die Hexengemeinschaft.",
+      "interest": "Das Buch besiegelt den versprochenen Wechsel in die Hexengemeinschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2015",
+        "2013",
+        "2010",
+        "2016"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2015.",
+        "2013 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2010 liegt fünf Jahre davor.",
+        "2016 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2015 erstmals veröffentlicht.",
+      "context": "2015 wurde der Film erstmals gezeigt. Vier Jahre später, 2019, folgte Eggers’ The Lighthouse; beide arbeiten mit historischer Sprache und abgeschlossenen Lebensräumen. Der Kinostart 2016 ist ein späterer Zeitpunkt.",
+      "anchor": "Eggers’ Debüt von 2015 ging seinem Leuchtturmfilm von 2019 vier Jahre voraus.",
+      "interest": "Eggers’ Debüt von 2015 ging seinem Leuchtturmfilm von 2019 vier Jahre voraus.",
+      "sources": [
+        "handlung",
+        "zeitvergleich84"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Robert Eggers",
+        "Ari Aster",
+        "Ben Wheatley",
+        "Ti West"
+      ],
+      "feedback": [
+        "Robert Eggers führte Regie.",
+        "Ari Aster hat hier keinen Regiecredit.",
+        "Ben Wheatley hat hier keinen Regiecredit.",
+        "Ti West hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Robert Eggers.",
+      "context": "Eggers schrieb und inszenierte seinen ersten Langfilm. Die Sprache entstand aus der Beschäftigung mit frühneuzeitlichen Texten und historischen Hexenvorstellungen; die Bedrohung wird innerhalb des Weltbildes der Figuren ernst genommen.",
+      "anchor": "Eggers schrieb und inszenierte seinen ersten Langfilm.",
+      "interest": "Eggers schrieb und inszenierte seinen ersten Langfilm.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 178,
+  "directors": [
+    "Nicole Holofcener"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine zurückhaltende Beziehungskomödie über Erwachsene mit Familiengeschichte; redaktionell eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 2013; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Enough_Said_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Enough_Said_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Womit verdient Eva (Julia Louis-Dreyfus) in @ ihren Lebensunterhalt?",
+      "answers": [
+        "Mit Massagen",
+        "Mit Operngesang",
+        "Mit Flugunterricht",
+        "Mit Strafverteidigung"
+      ],
+      "feedback": [
+        "Eva arbeitet als Masseurin.",
+        "Sie lebt nicht vom Operngesang.",
+        "Sie unterrichtet kein Fliegen.",
+        "Sie ist keine Strafverteidigerin."
+      ],
+      "short": "Eva arbeitet als Masseurin.",
+      "context": "Eva arbeitet als Masseurin. Eine Kundin wird zur Freundin; dadurch erhält Eva intime Erzählungen, die ihre neue Liebesbeziehung beeinflussen, bevor sie den Zusammenhang der beteiligten Menschen offenlegt.",
+      "anchor": "Evas Arbeit öffnet ihr einen problematischen privaten Wissenszugang.",
+      "interest": "Evas Arbeit öffnet ihr einen problematischen privaten Wissenszugang.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Veränderung steht Eva (Julia Louis-Dreyfus) und Albert (James Gandolfini) in @ als Eltern bevor?",
+      "answers": [
+        "Ihre Töchter ziehen fürs Studium fort.",
+        "Ihre Töchter kehren aus dem Studium zurück.",
+        "Ihre Töchter wechseln gemeinsam die Schule.",
+        "Beide Töchter ziehen bei demselben Freund ein."
+      ],
+      "feedback": [
+        "Die Töchter beider ziehen zum Studium fort.",
+        "Die Trennung vom elterlichen Alltag steht erst bevor.",
+        "Es geht um den Weggang aufs College, nicht einen Schulwechsel.",
+        "Der Fortzug dient dem Studium."
+      ],
+      "short": "Die Töchter beider ziehen zum Studium fort.",
+      "context": "Die Töchter beider ziehen zum Studium fort. Eva und Albert befinden sich dadurch in einer ähnlichen Lebensphase; ihre Annäherung steht neben der Frage, wie sie mit dem leerer werdenden Familienalltag umgehen.",
+      "anchor": "Die neue Beziehung beginnt während des familiären Loslassens.",
+      "interest": "Die neue Beziehung beginnt während des familiären Loslassens.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welchen Zusammenhang entdeckt Eva (Julia Louis-Dreyfus) zwischen Marianne und Albert in @?",
+      "answers": [
+        "Marianne ist Alberts Exfrau.",
+        "Marianne ist Alberts Mutter.",
+        "Marianne ist Alberts Arbeitgeberin.",
+        "Marianne ist Alberts Tochter."
+      ],
+      "feedback": [
+        "Marianne (Catherine Keener) ist Alberts (James Gandolfini) Exfrau.",
+        "Sie ist nicht seine Mutter.",
+        "Sie wird nicht als Arbeitgeberin eingeführt.",
+        "Seine Tochter ist eine andere Figur."
+      ],
+      "short": "Marianne (Catherine Keener) ist Alberts (James Gandolfini) Exfrau.",
+      "context": "Marianne (Catherine Keener) ist Alberts (James Gandolfini) Exfrau. Eva hatte beide unabhängig kennengelernt und verschweigt nun den Zusammenhang; ihre scheinbar harmlosen Gespräche bekommen damit eine verdeckte zweite Funktion.",
+      "anchor": "Die neue Freundin ist die Exfrau des neuen Partners.",
+      "interest": "Die neue Freundin ist die Exfrau des neuen Partners.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum ermuntert Eva (Julia Louis-Dreyfus) Marianne in @ zu Beschwerden über Albert?",
+      "answers": [
+        "Sie will mögliche Probleme ihrer eigenen Beziehung vorab erkennen.",
+        "Sie muss eine gerichtliche Anklage vorbereiten.",
+        "Sie schreibt eine offizielle Biografie.",
+        "Sie sucht Material für eine Radioshow."
+      ],
+      "feedback": [
+        "Eva benutzt Mariannes Erfahrungen als Vorabprüfung von Albert (James Gandolfini).",
+        "Sie führt kein Strafverfahren.",
+        "Eine Biografie schreibt sie nicht.",
+        "Eine Radioshow ist nicht ihr Projekt."
+      ],
+      "short": "Eva benutzt Mariannes Erfahrungen als Vorabprüfung von Albert (James Gandolfini).",
+      "context": "Eva benutzt Mariannes Erfahrungen als Vorabprüfung von Albert (James Gandolfini). Statt ihrer eigenen Begegnung zu vertrauen, übernimmt sie Kritik aus der gescheiterten früheren Ehe. Der vermeintliche Schutz schadet ihrer tatsächlichen Beziehung.",
+      "anchor": "Fremde Beziehungserfahrung verdrängt Evas eigene Wahrnehmung.",
+      "interest": "Fremde Beziehungserfahrung verdrängt Evas eigene Wahrnehmung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was beendet in @ zunächst Evas Beziehung zu Albert (James Gandolfini)?",
+      "answers": [
+        "Er entdeckt die verheimlichte Freundschaft zu seiner Exfrau.",
+        "Er erfährt, dass Eva seine Tochter nach ihm ausgefragt hat.",
+        "Eva erklärt seine Gewohnheiten öffentlich auf einer Party.",
+        "Marianne kündigt an, zu Albert zurückzukehren."
+      ],
+      "feedback": [
+        "Albert entdeckt, dass Eva (Julia Louis-Dreyfus) seine Exfrau kennt und das verschwiegen hat.",
+        "Der zentrale Vertrauensbruch ist Evas verborgene Beziehung zur Exfrau.",
+        "Die Enthüllung betrifft die geheime Quelle ihres Wissens.",
+        "Eine Rückkehr der Exfrau beendet die Beziehung nicht."
+      ],
+      "short": "Albert entdeckt, dass Eva (Julia Louis-Dreyfus) seine Exfrau kennt und das verschwiegen hat.",
+      "context": "Albert entdeckt, dass Eva (Julia Louis-Dreyfus) seine Exfrau kennt und das verschwiegen hat. Die Verletzung betrifft das verlorene Vertrauen: Seine neue Partnerin hat ihn heimlich durch die Perspektive der alten Ehe beurteilt.",
+      "anchor": "Die verdeckte Vergleichsstrategie zerstört Vertrauen.",
+      "interest": "Die verdeckte Vergleichsstrategie zerstört Vertrauen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wo deutet @ schließlich eine vorsichtige neue Annäherung zwischen Eva und Albert an?",
+      "answers": [
+        "Auf seiner Veranda",
+        "In einem Gerichtssaal",
+        "Im Flugzeug nach Paris",
+        "Auf einer Hochzeitsbühne"
+      ],
+      "feedback": [
+        "Eva (Julia Louis-Dreyfus) hält später vor Alberts Haus; Albert (James Gandolfini) setzt sich zu ihr auf die Veranda.",
+        "Ein Gericht ordnet die Nähe nicht an.",
+        "Sie fliegen nicht gemeinsam nach Paris.",
+        "Eine Hochzeit zeigt dieses Ende nicht."
+      ],
+      "short": "Eva (Julia Louis-Dreyfus) hält später vor Alberts Haus; Albert (James Gandolfini) setzt sich zu ihr auf die Veranda.",
+      "context": "Eva (Julia Louis-Dreyfus) hält später vor Alberts Haus; Albert (James Gandolfini) setzt sich zu ihr auf die Veranda. Das Gespräch erinnert an ihren Anfang und ermöglicht neue Nähe ohne eine große öffentliche Versöhnungsinszenierung.",
+      "anchor": "Ein ruhiges Verandagespräch öffnet eine zweite Chance.",
+      "interest": "Ein ruhiges Verandagespräch öffnet eine zweite Chance.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2013",
+        "2010",
+        "2006",
+        "2015"
+      ],
+      "feedback": [
+        "2013 wurde der Film in Toronto erstmals gezeigt.",
+        "2010 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2013 wird im zeitlichen Hintergrund erklärt.",
+        "2006 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2013 wird im zeitlichen Hintergrund erklärt.",
+        "2015 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2013 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2013 wurde der Film in Toronto erstmals gezeigt.",
+      "context": "2013 wurde der Film veröffentlicht, nachdem James Gandolfini bereits gestorben war. Der Dreh war noch zu seinen Lebzeiten abgeschlossen; die Premiere machte seine Darstellung Alberts zu einem postum gesehenen Werk. Holofcener widmete den Film ihrem Hauptdarsteller.",
+      "anchor": "2013: Gandolfini stirbt nach dem Dreh und vor der Veröffentlichung von Enough Said; der Film wird ihm gewidmet.",
+      "interest": "Die Reihenfolge unterscheidet die tatsächlich gespielte Rolle von ihrer postumen öffentlichen Wahrnehmung.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Nicole Holofcener",
+        "Jon M. Chu",
+        "Raine Allen-Miller",
+        "Ben Palmer"
+      ],
+      "feedback": [
+        "Nicole Holofcener schrieb und inszenierte den Film.",
+        "Jon M. Chu wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Nicole Holofcener.",
+        "Raine Allen-Miller wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Nicole Holofcener.",
+        "Ben Palmer wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Nicole Holofcener."
+      ],
+      "short": "Nicole Holofcener schrieb und inszenierte den Film.",
+      "context": "Nicole Holofcener schrieb und inszenierte den Film. Julia Louis-Dreyfus spielt Eva, James Gandolfini Albert und Catherine Keener dessen Exfrau Marianne. Die Nähe zur neuen Freundin wird zum gefährlichen Filter für Evas eigene Erfahrung mit Albert.",
+      "anchor": "Nicole Holofcener schrieb und inszenierte den Film.",
+      "interest": "Nicole Holofcener schrieb und inszenierte den Film.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

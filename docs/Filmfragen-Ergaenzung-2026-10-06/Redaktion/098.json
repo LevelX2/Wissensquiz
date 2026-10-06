@@ -1,0 +1,213 @@
+{
+  "rank": 98,
+  "directors": [
+    "George A. Romero"
+  ],
+  "production_countries": [
+    "USA",
+    "Italien"
+  ],
+  "familiarity_reason": "Prägender und weithin bekannter Zombiefilm mit Konsumsatire.",
+  "release_note": "Italienische Premiere 1. September 1978; US-Start 1979.",
+  "director_note": "Argento verantwortete einen Markt-Schnitt und Mitfinanzierung, keinen gemeinsamen Regiecredit.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Dawn_of_the_Dead_(1978_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo richtet die Gruppe in @ ihren großen Zufluchtsort ein?",
+      "answers": [
+        "In einem Einkaufszentrum",
+        "In einem Bauernhaus",
+        "In einem Flugzeug",
+        "In einem Kloster"
+      ],
+      "feedback": [
+        "Die Gruppe besetzt ein Einkaufszentrum.",
+        "Das Bauernhaus gehört zum Vorgänger.",
+        "Ein Flugzeug ist nicht ihr dauerhafter Ort.",
+        "Ein Kloster beziehen sie nicht."
+      ],
+      "short": "Die Gruppe besetzt ein Einkaufszentrum.",
+      "context": "Die Gruppe besetzt ein Einkaufszentrum. Peter (Ken Foree), Fran (Gaylen Ross), Stephen (David Emge) und Roger (Scott Reiniger) finden dort Vorräte, aber auch eine verführerische Fülle an Besitz.",
+      "anchor": "Der Vorratsort wird zur eigenen Konsumwelt.",
+      "interest": "Der Vorratsort wird zur eigenen Konsumwelt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Mit welchem Transportmittel flieht die Gruppe in @ aus der Stadt?",
+      "answers": [
+        "Mit einem Nachrichtenhubschrauber",
+        "Mit einem Rettungszug",
+        "Mit einem Linienbus",
+        "Mit einem Frachtschiff"
+      ],
+      "feedback": [
+        "Die Gruppe nimmt den Hubschrauber des Fernsehsenders.",
+        "Ein Zug bringt sie nicht fort.",
+        "Ein Bus ist nicht die Fluchtmaschine.",
+        "Ein Schiff verlassen sie nicht für die Mall."
+      ],
+      "short": "Die Gruppe nimmt den Hubschrauber des Fernsehsenders.",
+      "context": "Die Gruppe nimmt den Hubschrauber des Fernsehsenders. Stephen (David Emge) kann ihn fliegen; die Maschine ermöglicht Distanz zur Stadt und bleibt später eine begrenzte Fluchtreserve.",
+      "anchor": "Der Nachrichtenhubschrauber wird vom Arbeitsgerät zur Rettungsmöglichkeit.",
+      "interest": "Der Nachrichtenhubschrauber wird vom Arbeitsgerät zur Rettungsmöglichkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Womit versperren die Männer in @ die Zugänge des Einkaufszentrums?",
+      "answers": [
+        "Mit großen Lastwagen",
+        "Mit umgestürzten Regalen aus den Verkaufsräumen",
+        "Mit schweren Baumaterialien vom Dach",
+        "Mit verriegelten Polizeifahrzeugen"
+      ],
+      "feedback": [
+        "Lastwagen blockieren die Eingänge.",
+        "Die Gruppe fährt große Lastwagen vor die Zugänge.",
+        "Dachmaterial bildet nicht die Barriere.",
+        "Die gezeigten Sperrfahrzeuge sind Lastwagen."
+      ],
+      "short": "Lastwagen blockieren die Eingänge.",
+      "context": "Lastwagen blockieren die Eingänge. Roger (Scott Reiniger) wird bei diesen riskanten Fahrten gebissen; das Sichern des Wohlstands im Inneren fordert daher schon beim Aufbau ein Opfer.",
+      "anchor": "Die schützenden Lastwagen müssen unter Angriff platziert werden.",
+      "interest": "Die schützenden Lastwagen müssen unter Angriff platziert werden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum lässt Fran sich in @ das Hubschrauberfliegen beibringen?",
+      "answers": [
+        "Sie möchte nicht ausschließlich von Stephen abhängig bleiben.",
+        "Sie will auf eigene Faust die Stadt nach Überlebenden absuchen.",
+        "Sie möchte Stephen die weitere Nutzung der Maschine untersagen.",
+        "Sie will nach der Geburt beruflich als Pilotin arbeiten."
+      ],
+      "feedback": [
+        "Fran (Gaylen Ross) fordert Flugunterricht von Stephen (David Emge).",
+        "Ihr Anliegen ist die Unabhängigkeit im Notfall.",
+        "Sie verlangt eigene Fähigkeiten statt ein Flugverbot für Stephen.",
+        "Eine geplante berufliche Laufbahn ist nicht die Begründung."
+      ],
+      "short": "Fran (Gaylen Ross) fordert Flugunterricht von Stephen (David Emge).",
+      "context": "Fran (Gaylen Ross) fordert Flugunterricht von Stephen (David Emge). Die Fähigkeit wird zur Vorsorge für seinen Ausfall; ihre Selbstständigkeit betrifft damit die reale Überlebenschance der Gruppe.",
+      "anchor": "Der Flugunterricht verringert eine gefährliche Abhängigkeit.",
+      "interest": "Der Flugunterricht verringert eine gefährliche Abhängigkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum eröffnet Stephen in @ entgegen dem Rückzugsplan das Feuer auf die Motorradgruppe?",
+      "answers": [
+        "Er betrachtet das Einkaufszentrum als seinen Besitz.",
+        "Er glaubt, Fran werde von einem der Männer als Geisel genommen.",
+        "Er möchte den Angreifern vor der Flucht sämtliche Vorräte zerstören.",
+        "Er versucht, den Zugang zum Hubschrauber freizuschießen."
+      ],
+      "feedback": [
+        "Stephen (David Emge) verteidigt die Mall als eigenen Besitz.",
+        "Sein ausdrücklich geäußerter Besitzanspruch löst die Schüsse aus.",
+        "Er verteidigt den Besitz statt nur dessen Vernichtung zu planen.",
+        "Der Schusswechsel beginnt nicht als notwendiger Weg zum Hubschrauber."
+      ],
+      "short": "Stephen (David Emge) verteidigt die Mall als eigenen Besitz.",
+      "context": "Stephen (David Emge) verteidigt die Mall als eigenen Besitz. Sein Angriff verschärft den Einbruch der Motorradgruppe; das Festhalten am eroberten Konsumraum macht den vorhandenen Rückzugsplan wirkungslos.",
+      "anchor": "Der Besitzanspruch ersetzt die zuvor vereinbarte Flucht.",
+      "interest": "Der Besitzanspruch ersetzt die zuvor vereinbarte Flucht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum gelangen die Untoten im Schluss von @ bis zum versteckten Wohnbereich?",
+      "answers": [
+        "Der wiederbelebte Stephen führt sie dorthin.",
+        "Einer der Motorradfahrer verrät ihnen den Zugang.",
+        "Sie brechen zufällig durch die Decke des Verstecks.",
+        "Peter lässt einen Zugang bei der Flucht offen."
+      ],
+      "feedback": [
+        "Der untote Stephen (David Emge) folgt dem vertrauten Weg.",
+        "Stephen kennt den alten Wohnweg und folgt ihm als Untoter.",
+        "Der Weg wird gezielt durch sein altes Wissen erschlossen.",
+        "Ein von Peter offengelassener Zugang ist nicht die entscheidende Ursache."
+      ],
+      "short": "Der untote Stephen (David Emge) folgt dem vertrauten Weg.",
+      "context": "Der untote Stephen (David Emge) folgt dem vertrauten Weg. Sein früheres Wissen erschließt den anderen Angreifern den Rückzugsraum; Gewohnheit bleibt damit selbst nach dem Tod gefährlich wirksam.",
+      "anchor": "Stephens vertrauter Weg verrät die letzte Rückzugsmöglichkeit.",
+      "interest": "Stephens vertrauter Weg verrät die letzte Rückzugsmöglichkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1978",
+        "1976",
+        "1973",
+        "1979"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1978.",
+        "1976 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1973 liegt fünf Jahre davor.",
+        "1979 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1978 erstmals veröffentlicht.",
+      "context": "1978 erschien der zweite Film der Reihe, zehn Jahre nach Night of the Living Dead von 1968. Der amerikanische Start 1979 lag ein Jahr später; Zack Snyders Neuverfilmung von 2004 folgte erst 26 Jahre nach dem Original.",
+      "anchor": "1978 folgte der Einkaufszentrumfilm zehn Jahre nach dem Bauernhausfilm von 1968.",
+      "interest": "1978 folgte der Einkaufszentrumfilm zehn Jahre nach dem Bauernhausfilm von 1968.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "George A. Romero",
+        "Dario Argento",
+        "Lucio Fulci",
+        "Zack Snyder"
+      ],
+      "feedback": [
+        "George A. Romero führte Regie.",
+        "Dario Argento hat hier keinen Regiecredit.",
+        "Lucio Fulci hat hier keinen Regiecredit.",
+        "Zack Snyder hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: George A. Romero.",
+      "context": "Romero entwickelte den Schauplatz nach einem Besuch der Monroeville Mall. Dario Argento half bei der Finanzierung und erstellte einen eigenen Schnitt für andere Märkte; der offizielle Regiecredit des gedrehten Films bleibt bei Romero.",
+      "anchor": "Romero entwickelte den Schauplatz nach einem Besuch der Monroeville Mall.",
+      "interest": "Romero entwickelte den Schauplatz nach einem Besuch der Monroeville Mall.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

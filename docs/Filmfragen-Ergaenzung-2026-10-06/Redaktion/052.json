@@ -1,0 +1,211 @@
+{
+  "rank": 52,
+  "directors": [
+    "Vittorio De Sica"
+  ],
+  "production_countries": [
+    "Italien"
+  ],
+  "familiarity_reason": "Kanonischer älterer Film, dessen Bekanntheit beim breiten Publikum geringer ist als sein filmhistorischer Rang; Kennerfilm.",
+  "release_note": "Italienischer Start 24. November 1948.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Bicycle_Thieves",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum braucht Antonio (Lamberto Maggiorani) in @ dringend sein Fahrrad?",
+      "answers": [
+        "Es ist Voraussetzung für seine neue Arbeit.",
+        "Er soll es als Schulweg für Bruno bereitstellen.",
+        "Er muss damit eine alte Mietschuld abbezahlen.",
+        "Er will es gegen Arbeitskleidung tauschen."
+      ],
+      "feedback": [
+        "Das Fahrrad ist Voraussetzung für Antonios Arbeit als Plakatkleber.",
+        "Das Fahrrad wird für Antonios Arbeit benötigt.",
+        "Eine Mietschuld ist nicht die Voraussetzung.",
+        "Ein Kleidungstausch ist nicht der Zweck."
+      ],
+      "short": "Das Fahrrad ist Voraussetzung für Antonios Arbeit als Plakatkleber.",
+      "context": "Das Fahrrad ist Voraussetzung für Antonios Arbeit als Plakatkleber. Sein Verlust gefährdet daher unmittelbar den erhofften Lebensunterhalt der Familie.",
+      "anchor": "Das Fahrrad ist Antonios Arbeitsmittel.",
+      "interest": "Das Fahrrad ist Antonios Arbeitsmittel.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wer begleitet Antonio (Lamberto Maggiorani) bei der Suche in @?",
+      "answers": [
+        "Sein Sohn Bruno",
+        "Seine Frau Maria",
+        "Ein hilfsbereiter Nachbar",
+        "Ein Polizeibeamter"
+      ],
+      "feedback": [
+        "Sein Sohn Bruno (Enzo Staiola) begleitet Antonio.",
+        "Maria begleitet nicht die gesamte Suche.",
+        "Bruno ist der zentrale Begleiter.",
+        "Ein Beamter geht nicht mit ihnen durch die Stadt."
+      ],
+      "short": "Sein Sohn Bruno (Enzo Staiola) begleitet Antonio.",
+      "context": "Sein Sohn Bruno (Enzo Staiola) begleitet Antonio (Lamberto Maggiorani). Das Kind erlebt die wachsende Verzweiflung des Vaters mit; die Suche prüft deshalb auch ihre Beziehung.",
+      "anchor": "Die Fahrradsuche wird zur gemeinsamen Erfahrung von Vater und Sohn.",
+      "interest": "Die Fahrradsuche wird zur gemeinsamen Erfahrung von Vater und Sohn.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was verpfändet Maria (Lianella Carell) in @, um das Fahrrad auszulösen?",
+      "answers": [
+        "Die Bettwäsche",
+        "Das Hochzeitsgeschirr",
+        "Ihren Schmuck",
+        "Antonios Arbeitsanzug"
+      ],
+      "feedback": [
+        "Maria verpfändet die Bettwäsche.",
+        "Maria bringt die Bettwäsche zum Pfandhaus.",
+        "Schmuck ist nicht die gezeigte Pfandsache.",
+        "Ein Arbeitsanzug wird nicht verpfändet."
+      ],
+      "short": "Maria verpfändet die Bettwäsche.",
+      "context": "Maria (Lianella Carell) verpfändet die Bettwäsche. Der Verzicht schafft das Geld für Antonios (Lamberto Maggiorani) Arbeitsmittel; die Hoffnung auf Lohn beginnt mit einem Verlust im eigenen Haushalt.",
+      "anchor": "Bettwäsche wird gegen die Chance auf Arbeit getauscht.",
+      "interest": "Bettwäsche wird gegen die Chance auf Arbeit getauscht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Weshalb kann Antonio (Lamberto Maggiorani) den vermuteten Dieb in @ nicht überführen?",
+      "answers": [
+        "Es fehlen Beweise, und Nachbarn unterstützen dessen Alibi.",
+        "Der Verdächtige entkommt vor der Befragung aus der Stadt.",
+        "Antonio erkennt den Verdächtigen nicht wieder.",
+        "Der Verdächtige legt einen echten Kaufbeleg vor."
+      ],
+      "feedback": [
+        "Die Beweislage reicht nicht aus und die Nachbarschaft schützt den Verdächtigen.",
+        "Die fehlenden Beweise bleiben das Problem.",
+        "Antonio glaubt den Mann zu erkennen.",
+        "Ein nachgewiesener Kauf löst den Fall nicht."
+      ],
+      "short": "Die Beweislage reicht nicht aus und die Nachbarschaft schützt den Verdächtigen.",
+      "context": "Die Beweislage reicht nicht aus und die Nachbarschaft schützt den Verdächtigen. Antonios Überzeugung allein genügt nicht; sein tatsächlicher Verlust lässt sich im konkreten Fall nicht in einen sicheren Nachweis verwandeln.",
+      "anchor": "Den Täter zu erkennen bedeutet noch nicht, ihn überführen zu können.",
+      "interest": "Den Täter zu erkennen bedeutet noch nicht, ihn überführen zu können.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welchen Rollenwechsel vollzieht Antonio (Lamberto Maggiorani) am Ende von @?",
+      "answers": [
+        "Er versucht selbst ein Fahrrad zu stehlen.",
+        "Er gibt die Suche auf und kauft ein Ersatzrad.",
+        "Er zwingt Bruno, ein Fahrrad zu stehlen.",
+        "Er zerstört das Fahrrad des Verdächtigen."
+      ],
+      "feedback": [
+        "Antonio versucht selbst einen Fahrraddiebstahl.",
+        "Er versucht selbst einen Diebstahl.",
+        "Bruno soll die Tat nicht begehen.",
+        "Ein zerstörtes Täterrad beendet die Geschichte nicht."
+      ],
+      "short": "Antonio versucht selbst einen Fahrraddiebstahl.",
+      "context": "Antonio (Lamberto Maggiorani) versucht selbst einen Fahrraddiebstahl. Die wirtschaftliche Not führt ihn zu derselben Tat, unter der er leidet; Bruno (Enzo Staiola) muss die öffentliche Demütigung mitansehen.",
+      "anchor": "Der Bestohlene wird selbst zum Dieb.",
+      "interest": "Der Bestohlene wird selbst zum Dieb.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was bewegt den Besitzer des Fahrrads in @, Antonio (Lamberto Maggiorani) wieder freizulassen?",
+      "answers": [
+        "Er sieht den weinenden Bruno.",
+        "Antonio kann den Besitzer mit Geld entschädigen.",
+        "Ein Polizist bezeugt Antonios Unschuld.",
+        "Bruno zeigt den Arbeitsvertrag seines Vaters."
+      ],
+      "feedback": [
+        "Der Besitzer sieht Bruno (Enzo Staiola) weinen und verzichtet auf die Verfolgung.",
+        "Geld entschädigt den Besitzer nicht.",
+        "Eine erwiesene Unschuld liegt nicht vor.",
+        "Brunos sichtbare Verzweiflung bewegt den Besitzer."
+      ],
+      "short": "Der Besitzer sieht Bruno (Enzo Staiola) weinen und verzichtet auf die Verfolgung.",
+      "context": "Der Besitzer sieht Bruno (Enzo Staiola) weinen und verzichtet auf die Verfolgung. Die Freilassung beseitigt weder die Armut noch die beschämende Erfahrung; Vater und Sohn gehen gemeinsam weiter.",
+      "anchor": "Brunos Tränen verhindern die Verhaftung des Vaters.",
+      "interest": "Brunos Tränen verhindern die Verhaftung des Vaters.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1948",
+        "1946",
+        "1943",
+        "1949"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1948.",
+        "1946 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1943 liegt fünf Jahre davor.",
+        "1949 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1948 erstmals veröffentlicht.",
+      "context": "1948 erschien der Film im Nachkriegsitalien. Luigi Bartolinis gleichnamiger Roman war 1946 veröffentlicht worden, zwei Jahre davor. Die Verfilmung übernimmt den Ausgangspunkt, gestaltet aber eine eigene Geschichte über Arbeit und familiäre Not.",
+      "anchor": "Bartolinis Roman von 1946 wurde zwei Jahre später, 1948, frei verfilmt.",
+      "interest": "Bartolinis Roman von 1946 wurde zwei Jahre später, 1948, frei verfilmt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Vittorio De Sica",
+        "Roberto Rossellini",
+        "Luchino Visconti",
+        "Giuseppe De Santis"
+      ],
+      "feedback": [
+        "Vittorio De Sica führte Regie.",
+        "Roberto Rossellini führte bei diesem Film nicht Regie.",
+        "Luchino Visconti führte bei diesem Film nicht Regie.",
+        "Giuseppe De Santis führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Vittorio De Sica.",
+      "context": "De Sica arbeitete mit Cesare Zavattini am Drehbuch und drehte auf realen Schauplätzen. Lamberto Maggiorani war Fabrikarbeiter; die Besetzung mit Laiendarstellern verbindet sich mit dem neorealistischen Blick auf den Alltag.",
+      "anchor": "De Sica arbeitete mit Cesare Zavattini am Drehbuch und drehte auf realen Schauplätzen.",
+      "interest": "De Sica arbeitete mit Cesare Zavattini am Drehbuch und drehte auf realen Schauplätzen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

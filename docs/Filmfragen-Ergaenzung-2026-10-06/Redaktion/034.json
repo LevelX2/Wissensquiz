@@ -1,0 +1,216 @@
+{
+  "rank": 34,
+  "directors": [
+    "William Friedkin"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Vielfach ausgezeichneter Polizeifilm und weithin bekannter Klassiker mit prägender Auto-gegen-Hochbahn-Verfolgung.",
+  "release_note": "US-Erstveröffentlichung 7. Oktober 1971; Original, nicht die Fortsetzung von 1975.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_French_Connection_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "katalog": {
+      "url": "https://catalog.afi.com/Film/53919-THE-FRENCH-CONNECTION",
+      "supports": "1971, Friedkin, Roman 1969 und reale Ermittlung 1961; finale Texttafeln."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Droge steht im Zentrum des Schmuggels in @?",
+      "answers": [
+        "Heroin",
+        "Kokain",
+        "Marihuana",
+        "Opium"
+      ],
+      "feedback": [
+        "Doyle (Gene Hackman) und Russo (Roy Scheider) verfolgen eine große Heroinlieferung.",
+        "Kokain ist nicht die untersuchte Lieferung.",
+        "Marihuana bildet nicht Charnier und Bocas Geschäft.",
+        "Das Geschäft handelt mit verarbeitetem Heroin statt rohem Opium."
+      ],
+      "short": "Doyle (Gene Hackman) und Russo (Roy Scheider) verfolgen eine große Heroinlieferung.",
+      "context": "Doyle (Gene Hackman) und Russo (Roy Scheider) verfolgen eine große Heroinlieferung. Der französische Organisator Charnier (Fernando Rey) verbindet dabei den Transport mit den New Yorker Käufern.",
+      "anchor": "Die Polizeiarbeit soll eine internationale Heroinlieferung unterbrechen.",
+      "interest": "Die Polizeiarbeit soll eine internationale Heroinlieferung unterbrechen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Womit verfolgt Doyle in @ Nicolis flüchtenden Hochbahnzug?",
+      "answers": [
+        "Mit einem beschlagnahmten Auto auf der Straße",
+        "Mit einem Polizeihubschrauber",
+        "Mit einem zweiten Zug auf dem Nachbargleis",
+        "Mit einem Motorrad der Verkehrspolizei"
+      ],
+      "feedback": [
+        "Doyle (Gene Hackman) nimmt ein fremdes Auto und fährt unter der Hochbahn.",
+        "Ein Hubschrauber unterstützt diese Verfolgung nicht.",
+        "Doyle fährt unter der Hochbahn statt mit einem zweiten Zug.",
+        "Er nimmt ein Auto, kein Motorrad."
+      ],
+      "short": "Doyle (Gene Hackman) nimmt ein fremdes Auto und fährt unter der Hochbahn.",
+      "context": "Doyle (Gene Hackman) nimmt ein fremdes Auto und fährt unter der Hochbahn. Nicoli (Marcel Bozzuffi) zwingt oben den Zug zur Weiterfahrt; die Verfolgung verbindet zwei Verkehrswege, die nur punktuell zusammenkommen.",
+      "anchor": "Die Verfolgung verläuft gleichzeitig auf Straße und Hochbahn.",
+      "interest": "Die Verfolgung verläuft gleichzeitig auf Straße und Hochbahn.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welcher Befund lässt Russo in @ trotz zunächst erfolgloser Suche am Lincoln weiterforschen?",
+      "answers": [
+        "Der Wagen wiegt deutlich mehr als das Serienmodell.",
+        "Die Bremsen reagieren ungewöhnlich langsam.",
+        "Der Motor wurde kurz zuvor komplett ersetzt.",
+        "Die Reifen tragen Spuren aus einem Hafenlager."
+      ],
+      "feedback": [
+        "Russo (Roy Scheider) bemerkt das zusätzliche Gewicht des Wagens.",
+        "Das Mehrgewicht ist der konkrete Hinweis.",
+        "Ein neuer Motor erklärt die Entdeckung nicht.",
+        "Reifenspuren führen nicht zum verborgenen Heroin."
+      ],
+      "short": "Russo (Roy Scheider) bemerkt das zusätzliche Gewicht des Wagens.",
+      "context": "Russo (Roy Scheider) bemerkt das zusätzliche Gewicht des Wagens. Die Mechaniker finden die Pakete schließlich in den seitlichen Hohlräumen; eine messbare Abweichung hält die Suche gegen den ersten Misserfolg am Laufen.",
+      "anchor": "Das Mehrgewicht widerspricht dem scheinbar leeren Auto.",
+      "interest": "Das Mehrgewicht widerspricht dem scheinbar leeren Auto.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum gibt die Polizei in @ den wieder zusammengesetzten Wagen zurück?",
+      "answers": [
+        "Sie will dem Transport bis zum eigentlichen Geschäft folgen.",
+        "Sie hat die Drogenfunde für medizinisch zulässige Stoffe gehalten.",
+        "Charnier hat den Wagen durch einen Gerichtsbeschluss zurückerhalten.",
+        "Doyle möchte Charnier mit einem defekten Motor an der Abfahrt hindern."
+      ],
+      "feedback": [
+        "Die Polizei setzt den Lincoln wieder zusammen.",
+        "Die Ermittler erkennen das Heroin.",
+        "Ein Gerichtsbeschluss erzwingt die Rückgabe nicht.",
+        "Die Polizei will den Deal beobachten statt den Wagen nur fahruntüchtig machen."
+      ],
+      "short": "Die Polizei setzt den Lincoln wieder zusammen.",
+      "context": "Die Polizei setzt den Lincoln wieder zusammen. Charnier (Fernando Rey) kann dadurch scheinbar ungestört zur Übergabe fahren; Doyle (Gene Hackman) und Russo (Roy Scheider) wollen über das Fahrzeug auch die Käufer erreichen.",
+      "anchor": "Die Rückgabe soll vom Beweismittel zum gesamten Geschäft führen.",
+      "interest": "Die Rückgabe soll vom Beweismittel zum gesamten Geschäft führen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wen trifft Doyle in @ bei der letzten Verfolgung tödlich statt Charnier?",
+      "answers": [
+        "Den Bundesagenten Mulderig",
+        "Seinen Partner Russo",
+        "Den Wagenbesitzer Devereaux",
+        "Den bereits gefangenen Weinstock"
+      ],
+      "feedback": [
+        "Doyle (Gene Hackman) schießt auf eine undeutliche Gestalt und tötet Mulderig (Bill Hickman).",
+        "Russo überlebt und warnt Doyle.",
+        "Devereaux ist nicht die erschossene Schattenfigur.",
+        "Weinstock stirbt nicht bei dieser Verwechslung."
+      ],
+      "short": "Doyle (Gene Hackman) schießt auf eine undeutliche Gestalt und tötet Mulderig (Bill Hickman).",
+      "context": "Doyle (Gene Hackman) schießt auf eine undeutliche Gestalt und tötet Mulderig (Bill Hickman). Russos (Roy Scheider) Warnung kommt zu spät; der Zugriff zeigt damit die tödliche Seite von Doyles Besessenheit.",
+      "anchor": "Doyles vorschneller Schuss trifft einen eigenen Ermittler.",
+      "interest": "Doyles vorschneller Schuss trifft einen eigenen Ermittler.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Nachricht über Charnier beendet @ in den abschließenden Texttafeln?",
+      "answers": [
+        "Er wurde nicht gefasst und wird in Frankreich vermutet.",
+        "Er erhält in New York eine lebenslange Haftstrafe.",
+        "Er wird bei der Flucht von Russo erschossen.",
+        "Er sagt als Kronzeuge gegen sämtliche Käufer aus."
+      ],
+      "feedback": [
+        "Die Tafeln erklären, dass Charnier (Fernando Rey) entkommt.",
+        "Eine Verurteilung Charnier wird gerade nicht erreicht.",
+        "Russo erschießt ihn nicht.",
+        "Eine Kronzeugenaussage schließt die Geschichte nicht."
+      ],
+      "short": "Die Tafeln erklären, dass Charnier (Fernando Rey) entkommt.",
+      "context": "Die Tafeln erklären, dass Charnier (Fernando Rey) entkommt. Doyle (Gene Hackman) und Russo (Roy Scheider) werden zudem versetzt; der Film ersetzt den erwarteten vollständigen Sieg durch ungleiche und teilweise unbefriedigende Folgen.",
+      "anchor": "Die große Fahndung endet ohne Zugriff auf ihren wichtigsten Organisator.",
+      "interest": "Die große Fahndung endet ohne Zugriff auf ihren wichtigsten Organisator.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1971",
+        "1969",
+        "1966",
+        "1972"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 1971.",
+        "1969 liegt zwei Jahre vor der ersten Veröffentlichung.",
+        "1966 liegt fünf Jahre vor der Erstveröffentlichung.",
+        "1972 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1971 erstmals veröffentlicht.",
+      "context": "1971 erschien die Verfilmung von Robin Moores Sachbuch aus dem Jahr 1969, zwei Jahre nach der Vorlage. Moore schilderte eine reale New Yorker Heroinermittlung; der Film gestaltet daraus den nicht vollständig erfolgreichen Zugriff Doyles (Gene Hackman).",
+      "anchor": "Moores Sachbuch von 1969 wurde zwei Jahre später, 1971, als Polizeithriller adaptiert.",
+      "interest": "Moores Sachbuch von 1969 wurde zwei Jahre später, 1971, als Polizeithriller adaptiert.",
+      "sources": [
+        "katalog",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "William Friedkin",
+        "Peter Yates",
+        "Sidney Lumet",
+        "John Frankenheimer"
+      ],
+      "feedback": [
+        "William Friedkin führte Regie.",
+        "Peter Yates hat hier keinen Regiecredit.",
+        "Sidney Lumet hat hier keinen Regiecredit.",
+        "John Frankenheimer hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: William Friedkin.",
+      "context": "Friedkin orientierte die bewegliche Kamera an dokumentarischer Beobachtung. Sein früheres Dokumentarfilmschaffen und der Einfluss von Costa-Gavras’ Z erklären den Eindruck, dass die Kamera auf überraschende Ereignisse in den Straßen reagieren muss.",
+      "anchor": "Friedkin lässt die bewegliche Kamera wie eine Beobachterin überraschender Straßenereignisse wirken.",
+      "interest": "Friedkin lässt die bewegliche Kamera wie eine Beobachterin überraschender Straßenereignisse wirken.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

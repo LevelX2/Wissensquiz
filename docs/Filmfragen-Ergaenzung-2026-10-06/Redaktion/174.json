@@ -1,0 +1,217 @@
+{
+  "rank": 174,
+  "directors": [
+    "Jon M. Chu"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine weithin wahrgenommene moderne Studiokomödie mit markanter Besetzung und Singapur-Schauplatz.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 2018; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Weshalb reist Rachel (Constance Wu) mit Nick (Henry Golding) in @ nach Singapur?",
+      "answers": [
+        "Zur Hochzeit seines Freundes",
+        "Zu seiner Gerichtsverhandlung",
+        "Zur Eröffnung ihrer Universität",
+        "Zu einem gemeinsamen Militärdienst"
+      ],
+      "feedback": [
+        "Rachel und Nick reisen zur Hochzeit von Colin und Araminta.",
+        "Eine Gerichtsverhandlung ist kein Reiseanlass.",
+        "Rachel eröffnet keine Universität.",
+        "Sie leisten keinen gemeinsamen Militärdienst."
+      ],
+      "short": "Rachel und Nick reisen zur Hochzeit von Colin und Araminta.",
+      "context": "Rachel und Nick reisen zur Hochzeit von Colin und Araminta. Erst dort erkennt Rachel das Ausmaß von Nicks Familienvermögen; die vertraute Partnerschaft bekommt plötzlich einen unbekannten gesellschaftlichen Hintergrund.",
+      "anchor": "Die Freundeshochzeit enthüllt Nicks Familienwelt.",
+      "interest": "Die Freundeshochzeit enthüllt Nicks Familienwelt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Fach lehrt Rachel (Constance Wu) in @ an einer New Yorker Universität?",
+      "answers": [
+        "Wirtschaftswissenschaften",
+        "Archäologie",
+        "Astronomie",
+        "Musikgeschichte"
+      ],
+      "feedback": [
+        "Rachel lehrt Wirtschaftswissenschaften.",
+        "Sie ist keine Archäologin.",
+        "Astronomie ist nicht ihr Fach.",
+        "Sie lehrt nicht Musikgeschichte."
+      ],
+      "short": "Rachel lehrt Wirtschaftswissenschaften.",
+      "context": "Rachel lehrt Wirtschaftswissenschaften. Ihre Kenntnisse erlauben ihr, strategische Entscheidungen zu verstehen; im Konflikt mit Nicks Familie wird diese selbstständige Perspektive wichtiger als der bloße Zugang zum Reichtum.",
+      "anchor": "Rachels wirtschaftliche Denkweise trägt ihre Entscheidungen.",
+      "interest": "Rachels wirtschaftliche Denkweise trägt ihre Entscheidungen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Haltung wirft Eleanor (Michelle Yeoh) Rachel (Constance Wu) in @ besonders vor?",
+      "answers": [
+        "Persönliche Wünsche vor die Familie zu stellen",
+        "Den Beruf ausschließlich für die Familie aufzugeben",
+        "Nick nur wegen des Familiengeldes zu besuchen",
+        "Die Hochzeit des Freundes selbst planen zu wollen"
+      ],
+      "feedback": [
+        "Eleanor misstraut Rachels amerikanischer Betonung persönlicher Wünsche.",
+        "Eleanor kritisiert gerade den vermeintlichen Vorrang persönlicher Wünsche.",
+        "Ihre zentrale Wertedifferenz betrifft Individualismus und Familie.",
+        "Rachel übernimmt nicht die Hochzeitsorganisation als Streitpunkt."
+      ],
+      "short": "Eleanor misstraut Rachels amerikanischer Betonung persönlicher Wünsche.",
+      "context": "Eleanor misstraut Rachels amerikanischer Betonung persönlicher Wünsche. Sie selbst hat für die Familie ihr Studium aufgegeben; der Streit betrifft daher gegensätzliche Erwartungen an Lebensentscheidungen, nicht nur Vermögen.",
+      "anchor": "Eleanor verlangt familiäre Pflicht vor individueller Verwirklichung.",
+      "interest": "Eleanor verlangt familiäre Pflicht vor individueller Verwirklichung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was signalisiert Nicks Ring beim abschließenden Antrag in @?",
+      "answers": [
+        "Eleanors Zustimmung",
+        "Seine endgültige Enterbung",
+        "Eine heimliche frühere Ehe",
+        "Die Auflösung aller Familiengeschäfte"
+      ],
+      "feedback": [
+        "Nick (Henry Golding) bietet Rachel (Constance Wu) Eleanors Ring an.",
+        "Der Ring zeigt keine Enterbung.",
+        "Er beweist keine andere Ehe.",
+        "Die Geschäfte werden nicht aufgelöst."
+      ],
+      "short": "Nick (Henry Golding) bietet Rachel (Constance Wu) Eleanors Ring an.",
+      "context": "Nick (Henry Golding) bietet Rachel (Constance Wu) Eleanors Ring an. Das Schmuckstück zeigt, dass seine Mutter die Verbindung nun akzeptiert; Rachel muss ihn nicht länger zu einer Wahl gegen die Familie drängen.",
+      "anchor": "Der Ring macht familiäre Zustimmung sichtbar.",
+      "interest": "Der Ring macht familiäre Zustimmung sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum überlässt Rachel (Constance Wu) Eleanor (Michelle Yeoh) beim Mahjong in @ den Sieg?",
+      "answers": [
+        "Sie will zeigen, dass sie für Nicks Wohl auf einen eigenen Sieg verzichten kann.",
+        "Sie will den Streit auf eine Geldwette reduzieren.",
+        "Sie kann ihre Gewinnkombination nicht erkennen.",
+        "Sie wartet auf Nick als entscheidenden Mitspieler."
+      ],
+      "feedback": [
+        "Rachel verzichtet auf ihren eigenen Sieg und ermöglicht Eleanor den Gewinn.",
+        "Rachel gibt den Sieg ab, um einen bewussten Verzicht zu zeigen.",
+        "Der Verzicht ist überlegt, keine Unkenntnis.",
+        "Die Begegnung findet zwischen Rachel und Eleanor statt."
+      ],
+      "short": "Rachel verzichtet auf ihren eigenen Sieg und ermöglicht Eleanor den Gewinn.",
+      "context": "Rachel verzichtet auf ihren eigenen Sieg und ermöglicht Eleanor den Gewinn. Das Spiel spiegelt ihre Entscheidung, Nick (Henry Golding) nicht zur Trennung von der Familie zu zwingen. Ihr Opfer ist bewusst, nicht bloße Unfähigkeit.",
+      "anchor": "Der freiwillige Verzicht widerlegt den Vorwurf der Selbstsucht.",
+      "interest": "Der freiwillige Verzicht widerlegt den Vorwurf der Selbstsucht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Information über Rachel erschüttert beim Hochzeitsempfang in @ die Familiengespräche?",
+      "answers": [
+        "Ihre Geburt ging aus einer Affäre hervor.",
+        "Ihre Mutter ist heimlich Nicks Tante.",
+        "Sie hat einen früheren Ehemann in New York.",
+        "Sie hat ihre Universitätsstelle nur vorgetäuscht."
+      ],
+      "feedback": [
+        "Ein Ermittlerbericht offenbart, dass Rachels Vater nicht tot ist und ihre Geburt aus einer Affäre hervorging.",
+        "Eine solche Verwandtschaft wird nicht enthüllt.",
+        "Eine frühere Ehe ist nicht die Neuigkeit.",
+        "Ihre akademische Arbeit ist nicht der aufgedeckte Hintergrund."
+      ],
+      "short": "Ein Ermittlerbericht offenbart, dass Rachels Vater nicht tot ist und ihre Geburt aus einer Affäre hervorging.",
+      "context": "Ein Ermittlerbericht offenbart, dass Rachels Vater nicht tot ist und ihre Geburt aus einer Affäre hervorging. Rachel (Constance Wu) kannte die ganze Geschichte selbst nicht; ihre Mutter floh vor einem gewalttätigen Ehemann.",
+      "anchor": "Der Bericht trifft Rachel mit einer unbekannten Familiengeschichte.",
+      "interest": "Der Bericht trifft Rachel mit einer unbekannten Familiengeschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2015",
+        "2011",
+        "2020"
+      ],
+      "feedback": [
+        "2018 erschien die Verfilmung, fünf Jahre nach Kevin Kwans Roman von 2013.",
+        "2015 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2011 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2020 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2018 erschien die Verfilmung, fünf Jahre nach Kevin Kwans Roman von 2013.",
+      "context": "2018 erschien die Verfilmung, fünf Jahre nach Kevin Kwans Roman von 2013. Der zeitliche Anker verbindet das erfolgreiche Buch mit einer großen US-Studioproduktion, deren Hauptrollen asiatisch beziehungsweise asiatisch-amerikanisch besetzt sind.",
+      "anchor": "Roman 2013, Film 2018: Fünf Jahre führen von Kwans Buch zur asiatisch besetzten Hollywoodromanze.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jon M. Chu",
+        "Claire Scanlon",
+        "Gillian Robespierre",
+        "Raine Allen-Miller"
+      ],
+      "feedback": [
+        "Jon M.",
+        "Claire Scanlon wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jon M. Chu.",
+        "Gillian Robespierre wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jon M. Chu.",
+        "Raine Allen-Miller wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jon M. Chu."
+      ],
+      "short": "Jon M.",
+      "context": "Jon M. Chu inszenierte die Romanadaption von Kevin Kwan. Constance Wu spielt Rachel, Henry Golding Nick und Michelle Yeoh dessen Mutter Eleanor. Der Liebeskonflikt wird durch Familienloyalität und den Unterschied zwischen amerikanischem und singapurischem Alltag erweitert.",
+      "anchor": "Jon M.",
+      "interest": "Jon M.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

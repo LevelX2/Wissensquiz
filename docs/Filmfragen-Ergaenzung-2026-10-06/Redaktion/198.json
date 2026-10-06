@@ -1,0 +1,217 @@
+{
+  "rank": 198,
+  "directors": [
+    "Satoshi Kon"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Ein einflussreicher Satoshi-Kon-Anime für Film- und Animationsinteressierte; ein Kennerfilm.",
+  "release_note": "Erste Veröffentlichung 2006 bei den Filmfestspielen von Venedig; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Paprika_(2006_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Paprika_(2006_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was ermöglicht das DC Mini in @?",
+      "answers": [
+        "Den Zugang zu den Träumen anderer Menschen",
+        "Die gemeinsame Speicherung normaler Erinnerungen",
+        "Die direkte Übertragung menschlicher Körper",
+        "Die bloße Aufzeichnung jeder Gehirnaktivität als Zahl"
+      ],
+      "feedback": [
+        "Das DC Mini erlaubt den Zugang zu fremden Träumen.",
+        "Das Gerät eröffnet Zugang zu fremden Träumen.",
+        "Es überträgt kein Körpermaterial.",
+        "Der Eingriff ist ein erlebbarer Zugang zur Traumwelt."
+      ],
+      "short": "Das DC Mini erlaubt den Zugang zu fremden Träumen.",
+      "context": "Das DC Mini erlaubt den Zugang zu fremden Träumen. Als die Technik gestohlen wird, kann therapeutisches Wissen zur Manipulation werden; Grenzen zwischen persönlichem Innenleben und äußerer Macht geraten in Gefahr.",
+      "anchor": "Traumzugang kann von Therapie zu Kontrolle wechseln.",
+      "interest": "Traumzugang kann von Therapie zu Kontrolle wechseln.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie ist Paprika mit Dr. Atsuko Chiba in @ verbunden?",
+      "answers": [
+        "Sie ist Atsukos Traumidentität.",
+        "Sie ist eine technisch erzeugte Kopie ohne Atsukos Bewusstsein.",
+        "Sie ist die frühere Kollegin Atsukos.",
+        "Sie ist Atsukos Patientin aus einer anderen Klinik."
+      ],
+      "feedback": [
+        "Paprika ist Atsukos Traumidentität; beide spricht Megumi Hayashibara im Original.",
+        "Paprika ist Atsukos eigene Traumidentität.",
+        "Die beiden verkörpern dieselbe Person in unterschiedlichen Zuständen.",
+        "Paprika ist nicht eine unabhängig behandelte Frau."
+      ],
+      "short": "Paprika ist Atsukos Traumidentität; beide spricht Megumi Hayashibara im Original.",
+      "context": "Paprika ist Atsukos Traumidentität; beide spricht Megumi Hayashibara im Original. Der Film unterscheidet ihr zurückhaltendes Alltagsselbst von einer beweglicheren Traumgestalt, statt zwei zufällig ähnliche unabhängige Frauen einzuführen.",
+      "anchor": "Alltagsärztin und Traumhelferin gehören zu derselben Person.",
+      "interest": "Alltagsärztin und Traumhelferin gehören zu derselben Person.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welches wiederkehrende Bild verbreitet den fremden Traum in @?",
+      "answers": [
+        "Eine Parade verschiedenster Gegenstände",
+        "Ein stilles leeres Klassenzimmer",
+        "Ein ausschließlich schwarzes Meer",
+        "Eine unbeschriftete Straßenkarte"
+      ],
+      "feedback": [
+        "Eine bizarre Parade aus Gegenständen zieht durch Träume und später die Stadt.",
+        "Ein leeres Klassenzimmer ist nicht das zentrale Motiv.",
+        "Ein schwarzes Meer ersetzt die Parade nicht.",
+        "Eine Straßenkarte trägt nicht die Bewegung."
+      ],
+      "short": "Eine bizarre Parade aus Gegenständen zieht durch Träume und später die Stadt.",
+      "context": "Eine bizarre Parade aus Gegenständen zieht durch Träume und später die Stadt. Das Bild verbindet die einzelnen Betroffenen zu einer wachsenden kollektiven Bewegung; die Traumstörung bleibt nicht auf einen einzigen Patienten begrenzt.",
+      "anchor": "Die Gegenstandsparade verbindet Träume und Stadt.",
+      "interest": "Die Gegenstandsparade verbindet Träume und Stadt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche persönliche Vergangenheit steckt hinter Konakawas Traum in @?",
+      "answers": [
+        "Ein aufgegebener Filmwunsch und ein verstorbener früherer Freund",
+        "Eine verdrängte frühere Ermittlung gegen einen Regisseur",
+        "Eine lange Ausbildung bei einer Filmstuntgruppe",
+        "Ein von ihm verfasstes und verlorenes Kinodrehbuch"
+      ],
+      "feedback": [
+        "Konakawa (Originalstimme Akio Otsuka) hat den Tod eines Jugendfreundes und den gemeinsamen Filmwunsch verdrängt.",
+        "Konakawas Traum bindet sich an einen eigenen Filmwunsch und Freund.",
+        "Er wollte einen Film schaffen, absolvierte aber nicht diese Ausbildung.",
+        "Der persönliche Konflikt umfasst den verstorbenen Freund und aufgegebene Ambition."
+      ],
+      "short": "Konakawa (Originalstimme Akio Otsuka) hat den Tod eines Jugendfreundes und den gemeinsamen Filmwunsch verdrängt.",
+      "context": "Konakawa (Originalstimme Akio Otsuka) hat den Tod eines Jugendfreundes und den gemeinsamen Filmwunsch verdrängt. Die Traumabschnitte nehmen unterschiedliche Filmgenres auf; seine innere Versöhnung führt ihn schließlich wieder ins Kino.",
+      "anchor": "Das verdrängte Filmprojekt prägt Konakawas Traumlogik.",
+      "interest": "Das verdrängte Filmprojekt prägt Konakawas Traumlogik.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie widerspricht Inuis (Originalstimme Tōru Emori) Handeln in @ seinem Anspruch, Träume zu schützen?",
+      "answers": [
+        "Er benutzt die gestohlene Technik selbst zur Herrschaft.",
+        "Er benutzt ausschließlich eine vorher genehmigte Studie.",
+        "Er überlässt die Steuerung vollständig Atsuko.",
+        "Er versteckt die Technik, ohne sie je anzuwenden."
+      ],
+      "feedback": [
+        "Inui erklärt die Technik zum Angriff auf Träume und nutzt sie zugleich selbst zur Machtausübung.",
+        "Er missbraucht die gestohlene Traumtechnik.",
+        "Er strebt selbst nach Macht über die Träume.",
+        "Sein eigener Einsatz widerspricht der behaupteten Verteidigung der Traumwelt."
+      ],
+      "short": "Inui erklärt die Technik zum Angriff auf Träume und nutzt sie zugleich selbst zur Machtausübung.",
+      "context": "Inui erklärt die Technik zum Angriff auf Träume und nutzt sie zugleich selbst zur Machtausübung. Der vermeintliche Schutz der inneren Welt verdeckt daher seinen Wunsch, diese Welt zu beherrschen.",
+      "anchor": "Das Schutzargument verbirgt eigenen Herrschaftswillen.",
+      "interest": "Das Schutzargument verbirgt eigenen Herrschaftswillen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Grenzverletzung macht die Krise am Ende von @ besonders gefährlich?",
+      "answers": [
+        "Traumereignisse dringen in die reale Stadt ein.",
+        "Die Versuchspersonen können nur nicht mehr einschlafen.",
+        "Ausschließlich die Laborcomputer speichern falsche Bilder.",
+        "Die Polizei veröffentlicht die Namen sämtlicher Patienten."
+      ],
+      "feedback": [
+        "Die Träume greifen in die reale Stadt über.",
+        "Die Traumerscheinungen dringen in den realen Raum.",
+        "Die Krise verlässt den technischen Laborrahmen.",
+        "Eine Datenveröffentlichung ist nicht die entscheidende Grenzüberschreitung."
+      ],
+      "short": "Die Träume greifen in die reale Stadt über.",
+      "context": "Die Träume greifen in die reale Stadt über. Atsuko und Paprika (Originalstimme Megumi Hayashibara) müssen nun mehr als einzelne Patienten retten; das Instrument zur Erforschung des Inneren destabilisiert die gemeinsame Außenwelt.",
+      "anchor": "Das private Traumgeschehen überschreitet die Grenze zur gemeinsamen Welt.",
+      "interest": "Das private Traumgeschehen überschreitet die Grenze zur gemeinsamen Welt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2006",
+        "2003",
+        "1999",
+        "2008"
+      ],
+      "feedback": [
+        "2006 wurde der Film in Venedig erstmals gezeigt.",
+        "2003 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2006 wird im zeitlichen Hintergrund erklärt.",
+        "1999 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2006 wird im zeitlichen Hintergrund erklärt.",
+        "2008 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2006 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2006 wurde der Film in Venedig erstmals gezeigt.",
+      "context": "2006 wurde der Film in Venedig erstmals gezeigt. Yasutaka Tsutsuis Roman stammt von 1993, dreizehn Jahre zuvor. Kon hatte die Adaption lange erwogen; die Bildwelt verdichtet Traumwechsel, die ein literarischer Text anders vermitteln muss.",
+      "anchor": "Roman 1993, Film 2006: Dreizehn Jahre führen von Tsutsuis Traumtext zu Kons wechselnder Bildwelt.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Satoshi Kon",
+        "Mamoru Hosoda",
+        "Hayao Miyazaki",
+        "Makoto Shinkai"
+      ],
+      "feedback": [
+        "Satoshi Kon inszenierte und schrieb mit Seishi Minakami.",
+        "Mamoru Hosoda wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Satoshi Kon.",
+        "Hayao Miyazaki wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Satoshi Kon.",
+        "Makoto Shinkai wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Satoshi Kon."
+      ],
+      "short": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami.",
+      "context": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami. Das Gerät DC Mini macht fremde Träume betretbar; die Montage lässt deren Bilder zunehmend in die Alltagswelt übergehen. Megumi Hayashibara spricht sowohl Atsuko als auch ihre Traumgestalt Paprika.",
+      "anchor": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami.",
+      "interest": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

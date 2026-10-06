@@ -1,0 +1,3432 @@
+{
+  "as_of": "2026-10-06",
+  "complete": true,
+  "expectedFilms": 240,
+  "films": 240,
+  "questions": 1920,
+  "contentGoals": 1440,
+  "yearGoals": 240,
+  "directorGoals": 240,
+  "difficulty": {
+    "leicht": 480,
+    "mittel": 960,
+    "schwer": 480
+  },
+  "correctAnswers": {
+    "A": 480,
+    "B": 480,
+    "C": 480,
+    "D": 480
+  },
+  "newGoals": 1919,
+  "existingGoals": 1,
+  "variants": 1,
+  "genres": {
+    "Abenteuer": 20,
+    "Action": 20,
+    "Drama": 20,
+    "Fantasy": 20,
+    "Horror": 20,
+    "Komödie": 20,
+    "Martial Arts & Asia-Film": 20,
+    "Musik": 20,
+    "Rom-Com": 20,
+    "Science-Fiction": 20,
+    "Thriller": 20,
+    "Western": 20
+  },
+  "filmChecks": [
+    {
+      "rank": 1,
+      "title": "Indiana Jones und der Tempel des Todes",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-001-Y",
+      "directorGoal": "K-F240-20261006-001-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 2,
+      "title": "King Kong und die weiße Frau",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-002-Y",
+      "directorGoal": "K-F240-20261006-002-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 3,
+      "title": "King Kong",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-003-Y",
+      "directorGoal": "K-F240-20261006-003-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 4,
+      "title": "Der Schatz der Sierra Madre",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-004-Y",
+      "directorGoal": "K-F240-20261006-004-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 5,
+      "title": "Beim Sterben ist jeder der Erste",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-005-Y",
+      "directorGoal": "K-F240-20261006-005-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 6,
+      "title": "Die Höllenfahrt der Poseidon",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-006-Y",
+      "directorGoal": "K-F240-20261006-006-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 7,
+      "title": "Flammendes Inferno",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-007-Y",
+      "directorGoal": "K-F240-20261006-007-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 8,
+      "title": "Gesprengte Ketten",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-008-Y",
+      "directorGoal": "K-F240-20261006-008-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 9,
+      "title": "Die Abenteuer von Tim und Struppi – Das Geheimnis der Einhorn",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-009-Y",
+      "directorGoal": "K-F240-20261006-009-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 10,
+      "title": "Das Dschungelbuch",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-010-Y",
+      "directorGoal": "K-F240-20261006-010-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 11,
+      "title": "Vaiana",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-011-Y",
+      "directorGoal": "K-F240-20261006-011-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 12,
+      "title": "Oben",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-012-Y",
+      "directorGoal": "K-F240-20261006-012-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 13,
+      "title": "Wo die wilden Menschen jagen",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-013-Y",
+      "directorGoal": "K-F240-20261006-013-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 14,
+      "title": "Auf der Jagd nach dem Juwel vom Nil",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-014-Y",
+      "directorGoal": "K-F240-20261006-014-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 15,
+      "title": "The Lost City – Das Geheimnis der verlorenen Stadt",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-015-Y",
+      "directorGoal": "K-F240-20261006-015-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 16,
+      "title": "Die versunkene Stadt Z",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-016-Y",
+      "directorGoal": "K-F240-20261006-016-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 17,
+      "title": "Everest",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-017-Y",
+      "directorGoal": "K-F240-20261006-017-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 18,
+      "title": "Das erstaunliche Leben des Walter Mitty",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-018-Y",
+      "directorGoal": "K-F240-20261006-018-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 19,
+      "title": "Kon-Tiki",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-019-Y",
+      "directorGoal": "K-F240-20261006-019-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 20,
+      "title": "The Aeronauts",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-020-Y",
+      "directorGoal": "K-F240-20261006-020-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 21,
+      "title": "Mad Max II – Der Vollstrecker",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-021-Y",
+      "directorGoal": "K-F240-20261006-021-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 22,
+      "title": "Mad Max: Fury Road",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-022-Y",
+      "directorGoal": "K-F240-20261006-022-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 23,
+      "title": "Top Gun – Sie fürchten weder Tod noch Teufel",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-023-Y",
+      "directorGoal": "K-F240-20261006-023-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 24,
+      "title": "Top Gun: Maverick",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-024-Y",
+      "directorGoal": "K-F240-20261006-024-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 25,
+      "title": "Stirb langsam 4.0",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-025-Y",
+      "directorGoal": "K-F240-20261006-025-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 26,
+      "title": "Dredd",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-026-Y",
+      "directorGoal": "K-F240-20261006-026-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 27,
+      "title": "Tyler Rake: Extraction",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-027-Y",
+      "directorGoal": "K-F240-20261006-027-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 28,
+      "title": "Nobody",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-028-Y",
+      "directorGoal": "K-F240-20261006-028-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 29,
+      "title": "Baby Driver",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-029-Y",
+      "directorGoal": "K-F240-20261006-029-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 30,
+      "title": "Atomic Blonde",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-030-Y",
+      "directorGoal": "K-F240-20261006-030-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 31,
+      "title": "The Equalizer",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-031-Y",
+      "directorGoal": "K-F240-20261006-031-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 32,
+      "title": "Sicario",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-032-Y",
+      "directorGoal": "K-F240-20261006-032-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 33,
+      "title": "Fast & Furious Five",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-033-Y",
+      "directorGoal": "K-F240-20261006-033-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 34,
+      "title": "Brennpunkt Brooklyn",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-034-Y",
+      "directorGoal": "K-F240-20261006-034-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 35,
+      "title": "Bullitt",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-035-Y",
+      "directorGoal": "K-F240-20261006-035-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 36,
+      "title": "Stoppt die Todesfahrt der U-Bahn 123",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-036-Y",
+      "directorGoal": "K-F240-20261006-036-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 37,
+      "title": "Der Zug",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-037-Y",
+      "directorGoal": "K-F240-20261006-037-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 38,
+      "title": "Driver",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-038-Y",
+      "directorGoal": "K-F240-20261006-038-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 39,
+      "title": "Haywire",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-039-Y",
+      "directorGoal": "K-F240-20261006-039-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 40,
+      "title": "Wer ist Hanna?",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-040-Y",
+      "directorGoal": "K-F240-20261006-040-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 41,
+      "title": "Moonlight",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-041-Y",
+      "directorGoal": "K-F240-20261006-041-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 42,
+      "title": "Spotlight",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-042-Y",
+      "directorGoal": "K-F240-20261006-042-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 43,
+      "title": "Nomadland",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-043-Y",
+      "directorGoal": "K-SCHAUSPIELER-202610-P01-088-S-2",
+      "existingGoals": 1,
+      "newGoals": 7,
+      "variants": 1
+    },
+    {
+      "rank": 44,
+      "title": "Minari – Wo wir Wurzeln schlagen",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-044-Y",
+      "directorGoal": "K-F240-20261006-044-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 45,
+      "title": "The Father",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-045-Y",
+      "directorGoal": "K-F240-20261006-045-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 46,
+      "title": "Aftersun",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-046-Y",
+      "directorGoal": "K-F240-20261006-046-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 47,
+      "title": "Past Lives – In einem anderen Leben",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-047-Y",
+      "directorGoal": "K-F240-20261006-047-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 48,
+      "title": "Anatomie eines Falls",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-048-Y",
+      "directorGoal": "K-F240-20261006-048-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 49,
+      "title": "Drive My Car",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-049-Y",
+      "directorGoal": "K-F240-20261006-049-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 50,
+      "title": "Perfect Days",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-050-Y",
+      "directorGoal": "K-F240-20261006-050-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 51,
+      "title": "Shoplifters – Familienbande",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-051-Y",
+      "directorGoal": "K-F240-20261006-051-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 52,
+      "title": "Fahrraddiebe",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-052-Y",
+      "directorGoal": "K-F240-20261006-052-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 53,
+      "title": "City of God",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-053-Y",
+      "directorGoal": "K-F240-20261006-053-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 54,
+      "title": "Central Station",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-054-Y",
+      "directorGoal": "K-F240-20261006-054-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 55,
+      "title": "Nader und Simin – Eine Trennung",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-055-Y",
+      "directorGoal": "K-F240-20261006-055-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 56,
+      "title": "Lunchbox",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-056-Y",
+      "directorGoal": "K-F240-20261006-056-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 57,
+      "title": "Die Jagd",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-057-Y",
+      "directorGoal": "K-F240-20261006-057-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 58,
+      "title": "The Florida Project",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-058-Y",
+      "directorGoal": "K-F240-20261006-058-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 59,
+      "title": "Eine Frau unter Einfluss",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-059-Y",
+      "directorGoal": "K-F240-20261006-059-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 60,
+      "title": "Die letzte Vorstellung",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-060-Y",
+      "directorGoal": "K-F240-20261006-060-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 61,
+      "title": "Chihiros Reise ins Zauberland",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-061-Y",
+      "directorGoal": "K-F240-20261006-061-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 62,
+      "title": "Mein Nachbar Totoro",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-062-Y",
+      "directorGoal": "K-F240-20261006-062-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 63,
+      "title": "Prinzessin Mononoke",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-063-Y",
+      "directorGoal": "K-F240-20261006-063-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 64,
+      "title": "Das wandelnde Schloss",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-064-Y",
+      "directorGoal": "K-F240-20261006-064-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 65,
+      "title": "Kikis kleiner Lieferservice",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-065-Y",
+      "directorGoal": "K-F240-20261006-065-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 66,
+      "title": "Pinocchio",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-066-Y",
+      "directorGoal": "K-F240-20261006-066-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 67,
+      "title": "Schneewittchen und die sieben Zwerge",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-067-Y",
+      "directorGoal": "K-F240-20261006-067-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 68,
+      "title": "Die Schöne und das Biest",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-068-Y",
+      "directorGoal": "K-F240-20261006-068-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 69,
+      "title": "Aladdin",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-069-Y",
+      "directorGoal": "K-F240-20261006-069-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 70,
+      "title": "Coraline",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-070-Y",
+      "directorGoal": "K-F240-20261006-070-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 71,
+      "title": "Big Fish",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-071-Y",
+      "directorGoal": "K-F240-20261006-071-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 72,
+      "title": "Pleasantville – Zu schön, um wahr zu sein",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-072-Y",
+      "directorGoal": "K-F240-20261006-072-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 73,
+      "title": "The Fall",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-073-Y",
+      "directorGoal": "K-F240-20261006-073-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 74,
+      "title": "A Ghost Story",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-074-Y",
+      "directorGoal": "K-F240-20261006-074-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 75,
+      "title": "The Green Knight",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-075-Y",
+      "directorGoal": "K-F240-20261006-075-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 76,
+      "title": "Wolfwalkers",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-076-Y",
+      "directorGoal": "K-F240-20261006-076-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 77,
+      "title": "Die Melodie des Meeres",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-077-Y",
+      "directorGoal": "K-F240-20261006-077-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 78,
+      "title": "Das Geheimnis von Kells",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-078-Y",
+      "directorGoal": "K-F240-20261006-078-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 79,
+      "title": "Das Märchen der Märchen",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-079-Y",
+      "directorGoal": "K-F240-20261006-079-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 80,
+      "title": "Orlando",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-080-Y",
+      "directorGoal": "K-F240-20261006-080-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 81,
+      "title": "Hereditary – Das Vermächtnis",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-081-Y",
+      "directorGoal": "K-F240-20261006-081-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 82,
+      "title": "Midsommar",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-082-Y",
+      "directorGoal": "K-F240-20261006-082-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 83,
+      "title": "The Witch",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-083-Y",
+      "directorGoal": "K-F240-20261006-083-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 84,
+      "title": "Der Leuchtturm",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-084-Y",
+      "directorGoal": "K-F240-20261006-084-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 85,
+      "title": "It Follows",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-085-Y",
+      "directorGoal": "K-F240-20261006-085-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 86,
+      "title": "Der Babadook",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-086-Y",
+      "directorGoal": "K-F240-20261006-086-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 87,
+      "title": "Suspiria",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-087-Y",
+      "directorGoal": "K-F240-20261006-087-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 88,
+      "title": "Schloss des Schreckens",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-088-Y",
+      "directorGoal": "K-F240-20261006-088-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 89,
+      "title": "Rosemaries Baby",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-089-Y",
+      "directorGoal": "K-F240-20261006-089-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 90,
+      "title": "Bis das Blut gefriert",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-090-Y",
+      "directorGoal": "K-F240-20261006-090-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 91,
+      "title": "So finster die Nacht",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-091-Y",
+      "directorGoal": "K-F240-20261006-091-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 92,
+      "title": "[REC]",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-092-Y",
+      "directorGoal": "K-F240-20261006-092-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 93,
+      "title": "Audition",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-093-Y",
+      "directorGoal": "K-F240-20261006-093-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 94,
+      "title": "A Tale of Two Sisters",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-094-Y",
+      "directorGoal": "K-F240-20261006-094-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 95,
+      "title": "Die Stunde, wenn Dracula kommt",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-095-Y",
+      "directorGoal": "K-F240-20261006-095-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 96,
+      "title": "Augen der Angst",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-096-Y",
+      "directorGoal": "K-F240-20261006-096-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 97,
+      "title": "Die Nacht der lebenden Toten",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-097-Y",
+      "directorGoal": "K-F240-20261006-097-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 98,
+      "title": "Zombie",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-098-Y",
+      "directorGoal": "K-F240-20261006-098-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 99,
+      "title": "Die Fliege",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-099-Y",
+      "directorGoal": "K-F240-20261006-099-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 100,
+      "title": "Die Teufel",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-100-Y",
+      "directorGoal": "K-F240-20261006-100-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 101,
+      "title": "The Death of Stalin",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-101-Y",
+      "directorGoal": "K-F240-20261006-101-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 102,
+      "title": "Jojo Rabbit",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-102-Y",
+      "directorGoal": "K-F240-20261006-102-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 103,
+      "title": "5 Zimmer Küche Sarg",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-103-Y",
+      "directorGoal": "K-F240-20261006-103-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 104,
+      "title": "Best in Show",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-104-Y",
+      "directorGoal": "K-F240-20261006-104-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 105,
+      "title": "Waiting for Guffman",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-105-Y",
+      "directorGoal": "K-F240-20261006-105-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 106,
+      "title": "Die unglaubliche Reise in einem verrückten Raumschiff",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-106-Y",
+      "directorGoal": "K-F240-20261006-106-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 107,
+      "title": "Playtime",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-107-Y",
+      "directorGoal": "K-F240-20261006-107-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 108,
+      "title": "Mein Onkel",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-108-Y",
+      "directorGoal": "K-F240-20261006-108-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 109,
+      "title": "Tatis Schützenfest",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-109-Y",
+      "directorGoal": "K-F240-20261006-109-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 110,
+      "title": "Dinner für Spinner",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-110-Y",
+      "directorGoal": "K-F240-20261006-110-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 111,
+      "title": "Ziemlich beste Freunde",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-111-Y",
+      "directorGoal": "K-F240-20261006-111-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 112,
+      "title": "Der Hundertjährige, der aus dem Fenster stieg und verschwand",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-112-Y",
+      "directorGoal": "K-F240-20261006-112-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 113,
+      "title": "Toni Erdmann",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-113-Y",
+      "directorGoal": "K-F240-20261006-113-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 114,
+      "title": "The Nice Guys",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-114-Y",
+      "directorGoal": "K-F240-20261006-114-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 115,
+      "title": "Booksmart",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-115-Y",
+      "directorGoal": "K-F240-20261006-115-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 116,
+      "title": "Palm Springs",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-116-Y",
+      "directorGoal": "K-F240-20261006-116-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 117,
+      "title": "Ganz oder gar nicht",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-117-Y",
+      "directorGoal": "K-F240-20261006-117-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 118,
+      "title": "Alles Routine",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-118-Y",
+      "directorGoal": "K-F240-20261006-118-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 119,
+      "title": "Frühling für Hitler",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-119-Y",
+      "directorGoal": "K-F240-20261006-119-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 120,
+      "title": "Adel verpflichtet",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-120-Y",
+      "directorGoal": "K-F240-20261006-120-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 121,
+      "title": "Die sieben Samurai",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-121-Y",
+      "directorGoal": "K-F240-20261006-121-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 122,
+      "title": "Yojimbo – Der Leibwächter",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-122-Y",
+      "directorGoal": "K-F240-20261006-122-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 123,
+      "title": "Sanjuro",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-123-Y",
+      "directorGoal": "K-F240-20261006-123-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 124,
+      "title": "Rashomon – Das Lustwäldchen",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-124-Y",
+      "directorGoal": "K-F240-20261006-124-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 125,
+      "title": "Harakiri",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-125-Y",
+      "directorGoal": "K-F240-20261006-125-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 126,
+      "title": "Zatoichi – Der blinde Samurai",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-126-Y",
+      "directorGoal": "K-F240-20261006-126-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 127,
+      "title": "13 Assassins",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-127-Y",
+      "directorGoal": "K-F240-20261006-127-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 128,
+      "title": "Lady Snowblood",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-128-Y",
+      "directorGoal": "K-F240-20261006-128-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 129,
+      "title": "Kill Bill – Volume 1",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-129-Y",
+      "directorGoal": "K-F240-20261006-129-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 130,
+      "title": "Kill Bill – Volume 2",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-130-Y",
+      "directorGoal": "K-F240-20261006-130-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 131,
+      "title": "The Raid 2",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-131-Y",
+      "directorGoal": "K-F240-20261006-131-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 132,
+      "title": "Chocolate",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-132-Y",
+      "directorGoal": "K-F240-20261006-132-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 133,
+      "title": "The Legend",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-133-Y",
+      "directorGoal": "K-F240-20261006-133-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 134,
+      "title": "Once Upon a Time in China",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-134-Y",
+      "directorGoal": "K-F240-20261006-134-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 135,
+      "title": "Iron Monkey",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-135-Y",
+      "directorGoal": "K-F240-20261006-135-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 136,
+      "title": "Shaolin Soccer",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-136-Y",
+      "directorGoal": "K-F240-20261006-136-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 137,
+      "title": "A Better Tomorrow",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-137-Y",
+      "directorGoal": "K-F240-20261006-137-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 138,
+      "title": "The Killer",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-138-Y",
+      "directorGoal": "K-F240-20261006-138-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 139,
+      "title": "Infernal Affairs",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-139-Y",
+      "directorGoal": "K-F240-20261006-139-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 140,
+      "title": "RRR",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-140-Y",
+      "directorGoal": "K-F240-20261006-140-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 141,
+      "title": "Cabaret",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-141-Y",
+      "directorGoal": "K-F240-20261006-141-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 142,
+      "title": "Hinter dem Rampenlicht",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-142-Y",
+      "directorGoal": "K-F240-20261006-142-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 143,
+      "title": "Fame – Der Weg zum Ruhm",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-143-Y",
+      "directorGoal": "K-F240-20261006-143-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 144,
+      "title": "Funny Girl",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-144-Y",
+      "directorGoal": "K-F240-20261006-144-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 145,
+      "title": "Ein Amerikaner in Paris",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-145-Y",
+      "directorGoal": "K-F240-20261006-145-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 146,
+      "title": "Die Regenschirme von Cherbourg",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-146-Y",
+      "directorGoal": "K-F240-20261006-146-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 147,
+      "title": "Die Mädchen von Rochefort",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-147-Y",
+      "directorGoal": "K-F240-20261006-147-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 148,
+      "title": "Dancer in the Dark",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-148-Y",
+      "directorGoal": "K-F240-20261006-148-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 149,
+      "title": "Once",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-149-Y",
+      "directorGoal": "K-F240-20261006-149-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 150,
+      "title": "Can a Song Save Your Life?",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-150-Y",
+      "directorGoal": "K-F240-20261006-150-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 151,
+      "title": "O Brother, Where Art Thou? – Eine Mississippi-Odyssee",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-151-Y",
+      "directorGoal": "K-F240-20261006-151-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 152,
+      "title": "8 Mile",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-152-Y",
+      "directorGoal": "K-F240-20261006-152-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 153,
+      "title": "Purple Rain",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-153-Y",
+      "directorGoal": "K-F240-20261006-153-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 154,
+      "title": "Stop Making Sense",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-154-Y",
+      "directorGoal": "K-F240-20261006-154-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 155,
+      "title": "Buena Vista Social Club",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-155-Y",
+      "directorGoal": "K-F240-20261006-155-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 156,
+      "title": "Hedwig and the Angry Inch",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-156-Y",
+      "directorGoal": "K-F240-20261006-156-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 157,
+      "title": "Velvet Goldmine",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-157-Y",
+      "directorGoal": "K-F240-20261006-157-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 158,
+      "title": "Die roten Schuhe",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-158-Y",
+      "directorGoal": "K-F240-20261006-158-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 159,
+      "title": "Swing Kids",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-159-Y",
+      "directorGoal": "K-F240-20261006-159-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 160,
+      "title": "Sound of Metal",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-160-Y",
+      "directorGoal": "K-F240-20261006-160-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 161,
+      "title": "Leoparden küsst man nicht",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-161-Y",
+      "directorGoal": "K-F240-20261006-161-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 162,
+      "title": "Sein Mädchen für besondere Fälle",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-162-Y",
+      "directorGoal": "K-F240-20261006-162-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 163,
+      "title": "Die Nacht vor der Hochzeit",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-163-Y",
+      "directorGoal": "K-F240-20261006-163-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 164,
+      "title": "Es geschah in einer Nacht",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-164-Y",
+      "directorGoal": "K-F240-20261006-164-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 165,
+      "title": "Rendezvous nach Ladenschluss",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-165-Y",
+      "directorGoal": "K-F240-20261006-165-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 166,
+      "title": "Bettgeflüster",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-166-Y",
+      "directorGoal": "K-F240-20261006-166-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 167,
+      "title": "Sabrina",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-167-Y",
+      "directorGoal": "K-F240-20261006-167-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 168,
+      "title": "Charade",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-168-Y",
+      "directorGoal": "K-F240-20261006-168-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 169,
+      "title": "Die Falschspielerin",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-169-Y",
+      "directorGoal": "K-F240-20261006-169-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 170,
+      "title": "Ärger im Paradies",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-170-Y",
+      "directorGoal": "K-F240-20261006-170-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 171,
+      "title": "Ninotschka",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-171-Y",
+      "directorGoal": "K-F240-20261006-171-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 172,
+      "title": "Mein Mann Godfrey",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-172-Y",
+      "directorGoal": "K-F240-20261006-172-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 173,
+      "title": "Die schreckliche Wahrheit",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-173-Y",
+      "directorGoal": "K-F240-20261006-173-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 174,
+      "title": "Crazy Rich",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-174-Y",
+      "directorGoal": "K-F240-20261006-174-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 175,
+      "title": "Set It Up",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-175-Y",
+      "directorGoal": "K-F240-20261006-175-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 176,
+      "title": "Plus One",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-176-Y",
+      "directorGoal": "K-F240-20261006-176-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 177,
+      "title": "Rye Lane",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-177-Y",
+      "directorGoal": "K-F240-20261006-177-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 178,
+      "title": "Genug gesagt",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-178-Y",
+      "directorGoal": "K-F240-20261006-178-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 179,
+      "title": "Obvious Child",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-179-Y",
+      "directorGoal": "K-F240-20261006-179-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 180,
+      "title": "Es ist kompliziert..!",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-180-Y",
+      "directorGoal": "K-F240-20261006-180-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 181,
+      "title": "Dune",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-181-Y",
+      "directorGoal": "K-F240-20261006-181-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 182,
+      "title": "Dune: Part Two",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-182-Y",
+      "directorGoal": "K-F240-20261006-182-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 183,
+      "title": "Everything Everywhere All at Once",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-183-Y",
+      "directorGoal": "K-F240-20261006-183-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 184,
+      "title": "Tenet",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-184-Y",
+      "directorGoal": "K-F240-20261006-184-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 185,
+      "title": "The Creator",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-185-Y",
+      "directorGoal": "K-F240-20261006-185-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 186,
+      "title": "Auslöschung",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-186-Y",
+      "directorGoal": "K-F240-20261006-186-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 187,
+      "title": "Coherence",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-187-Y",
+      "directorGoal": "K-F240-20261006-187-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 188,
+      "title": "Primer",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-188-Y",
+      "directorGoal": "K-F240-20261006-188-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 189,
+      "title": "Timecrimes – Mord ist nur eine Frage der Zeit",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-189-Y",
+      "directorGoal": "K-F240-20261006-189-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 190,
+      "title": "Beyond the Infinite Two Minutes",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-190-Y",
+      "directorGoal": "K-F240-20261006-190-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 191,
+      "title": "Die Weite der Nacht",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-191-Y",
+      "directorGoal": "K-F240-20261006-191-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 192,
+      "title": "The Man from Earth",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-192-Y",
+      "directorGoal": "K-F240-20261006-192-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 193,
+      "title": "Solaris",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-193-Y",
+      "directorGoal": "K-F240-20261006-193-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 194,
+      "title": "Am Rande des Rollfelds",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-194-Y",
+      "directorGoal": "K-F240-20261006-194-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 195,
+      "title": "Alphaville",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-195-Y",
+      "directorGoal": "K-F240-20261006-195-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 196,
+      "title": "Der wilde Planet",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-196-Y",
+      "directorGoal": "K-F240-20261006-196-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 197,
+      "title": "Akira",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-197-Y",
+      "directorGoal": "K-F240-20261006-197-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 198,
+      "title": "Paprika",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-198-Y",
+      "directorGoal": "K-F240-20261006-198-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 199,
+      "title": "Das Mädchen, das durch die Zeit sprang",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-199-Y",
+      "directorGoal": "K-F240-20261006-199-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 200,
+      "title": "After Yang",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-200-Y",
+      "directorGoal": "K-F240-20261006-200-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 201,
+      "title": "Chinatown",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-201-Y",
+      "directorGoal": "K-F240-20261006-201-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 202,
+      "title": "L.A. Confidential",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-202-Y",
+      "directorGoal": "K-F240-20261006-202-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 203,
+      "title": "Die üblichen Verdächtigen",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-203-Y",
+      "directorGoal": "K-F240-20261006-203-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 204,
+      "title": "No Country for Old Men",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-204-Y",
+      "directorGoal": "K-F240-20261006-204-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 205,
+      "title": "Der dritte Mann",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-205-Y",
+      "directorGoal": "K-F240-20261006-205-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 206,
+      "title": "Lohn der Angst",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-206-Y",
+      "directorGoal": "K-F240-20261006-206-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 207,
+      "title": "Der Schakal",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-207-Y",
+      "directorGoal": "K-F240-20261006-207-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 208,
+      "title": "Zeuge einer Verschwörung",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-208-Y",
+      "directorGoal": "K-F240-20261006-208-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 209,
+      "title": "Die Unbestechlichen",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-209-Y",
+      "directorGoal": "K-F240-20261006-209-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 210,
+      "title": "Der Marathon-Mann",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-210-Y",
+      "directorGoal": "K-F240-20261006-210-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 211,
+      "title": "Klute",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-211-Y",
+      "directorGoal": "K-F240-20261006-211-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 212,
+      "title": "Heißblütig – Kaltblütig",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-212-Y",
+      "directorGoal": "K-F240-20261006-212-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 213,
+      "title": "Der talentierte Mr. Ripley",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-213-Y",
+      "directorGoal": "K-F240-20261006-213-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 214,
+      "title": "A History of Violence",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-214-Y",
+      "directorGoal": "K-F240-20261006-214-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 215,
+      "title": "Tödliche Versprechen – Eastern Promises",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-215-Y",
+      "directorGoal": "K-F240-20261006-215-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 216,
+      "title": "Drive",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-216-Y",
+      "directorGoal": "K-F240-20261006-216-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 217,
+      "title": "Burning",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-217-Y",
+      "directorGoal": "K-F240-20261006-217-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 218,
+      "title": "Die Taschendiebin",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-218-Y",
+      "directorGoal": "K-F240-20261006-218-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 219,
+      "title": "Die Frau im Nebel",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-219-Y",
+      "directorGoal": "K-F240-20261006-219-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 220,
+      "title": "The Guilty",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-220-Y",
+      "directorGoal": "K-F240-20261006-220-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 221,
+      "title": "Der schwarze Falke",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-221-Y",
+      "directorGoal": "K-F240-20261006-221-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 222,
+      "title": "Ringo",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-222-Y",
+      "directorGoal": "K-F240-20261006-222-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 223,
+      "title": "Red River",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-223-Y",
+      "directorGoal": "K-F240-20261006-223-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 224,
+      "title": "Mein großer Freund Shane",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-224-Y",
+      "directorGoal": "K-F240-20261006-224-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 225,
+      "title": "Rio Bravo",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-225-Y",
+      "directorGoal": "K-F240-20261006-225-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 226,
+      "title": "Rio Lobo",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-226-Y",
+      "directorGoal": "K-F240-20261006-226-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 227,
+      "title": "Der Mann aus Laramie",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-227-Y",
+      "directorGoal": "K-F240-20261006-227-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 228,
+      "title": "Winchester ’73",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-228-Y",
+      "directorGoal": "K-F240-20261006-228-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 229,
+      "title": "Sacramento",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-229-Y",
+      "directorGoal": "K-F240-20261006-229-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 230,
+      "title": "Man nennt mich Hondo",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-230-Y",
+      "directorGoal": "K-F240-20261006-230-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 231,
+      "title": "Der letzte Scharfschütze",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-231-Y",
+      "directorGoal": "K-F240-20261006-231-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 232,
+      "title": "Ein Fremder ohne Namen",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-232-Y",
+      "directorGoal": "K-F240-20261006-232-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 233,
+      "title": "The Ballad of Buster Scruggs",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-233-Y",
+      "directorGoal": "K-F240-20261006-233-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 234,
+      "title": "Die Ermordung des Jesse James durch den Feigling Robert Ford",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-234-Y",
+      "directorGoal": "K-F240-20261006-234-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 235,
+      "title": "The Proposition – Tödliches Angebot",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-235-Y",
+      "directorGoal": "K-F240-20261006-235-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 236,
+      "title": "The Sisters Brothers",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-236-Y",
+      "directorGoal": "K-F240-20261006-236-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 237,
+      "title": "The Power of the Dog",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-237-Y",
+      "directorGoal": "K-F240-20261006-237-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 238,
+      "title": "Slow West",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-238-Y",
+      "directorGoal": "K-F240-20261006-238-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 239,
+      "title": "The Homesman",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-239-Y",
+      "directorGoal": "K-F240-20261006-239-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    },
+    {
+      "rank": 240,
+      "title": "McCabe & Mrs. Miller",
+      "contentGoals": {
+        "leicht": 2,
+        "mittel": 2,
+        "schwer": 2
+      },
+      "yearGoal": "K-F240-20261006-240-Y",
+      "directorGoal": "K-F240-20261006-240-D",
+      "existingGoals": 0,
+      "newGoals": 8,
+      "variants": 0
+    }
+  ],
+  "titlePrefixes": [
+    "F240-20261006-001-L2",
+    "F240-20261006-001-M2",
+    "F240-20261006-001-S2",
+    "F240-20261006-010-S1",
+    "F240-20261006-018-S2",
+    "F240-20261006-019-S1",
+    "F240-20261006-068-L2",
+    "F240-20261006-070-M1",
+    "F240-20261006-203-M1"
+  ],
+  "warnings": [
+    {
+      "id": "F240-20261006-066-D",
+      "kind": "question_length",
+      "words": 94
+    },
+    {
+      "id": "F240-20261006-067-D",
+      "kind": "question_length",
+      "words": 86
+    }
+  ],
+  "checks": {
+    "csvRereadExact": true,
+    "existingCatalogUnchanged": true,
+    "uniqueIds": true,
+    "minimumCoverage": true,
+    "answerFeedbackComplete": true,
+    "sourceReferencesComplete": true
+  },
+  "csvSha256": "c3ece134e7add4cd7d03cc33617824c7009aed4f8fa26c64852484d159e142cb"
+}

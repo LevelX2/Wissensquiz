@@ -1,0 +1,223 @@
+{
+  "rank": 194,
+  "directors": [
+    "Chris Marker"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "familiarity_reason": "Ein einflussreicher experimenteller Kurzfilm, dessen konkrete Form vielen breiten Zuschauern unbekannt ist; eine Entdeckung.",
+  "release_note": "BFI und Cinémathèque française führen 1962; Wikipedia nennt 16.02.1962. Criterion führt abweichend 1963. Keine Behauptung, Criterion bestätige die Erstveröffentlichung 1962; der abweichende Katalogstand bleibt sichtbar.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/La_Jet%C3%A9e",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/La_Jet%C3%A9e",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "cinematheque": "https://www.cinematheque.fr/film/49998.html",
+    "bfi": "https://www.bfi.org.uk/film/e6855ee9-c56d-5914-9f9b-69307cef5b18/la-jetee",
+    "abweichung": "https://www.criterion.com/films/329-la-jetee"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Katastrophe liegt der Welt von @ zugrunde?",
+      "answers": [
+        "Ein Weltkrieg hat Paris zerstört.",
+        "Ein einzelner Reaktorunfall hat die Stadt evakuiert.",
+        "Eine Naturkatastrophe hat Paris unbewohnbar gemacht.",
+        "Eine fremde Besatzung hat die Stadt ohne Zerstörung übernommen."
+      ],
+      "feedback": [
+        "Ein Weltkrieg hat Paris zerstört.",
+        "Die Katastrophe ist ein Weltkrieg.",
+        "Die zerstörte Welt folgt einem Krieg.",
+        "Paris ist als Folge des Weltkriegs verwüstet."
+      ],
+      "short": "Ein Weltkrieg hat Paris zerstört.",
+      "context": "Ein Weltkrieg hat Paris zerstört. Die Überlebenden leben unterirdisch und suchen Hilfe in anderen Zeiten; die Zeitreise ist hier zunächst ein Mittel, die zerstörte Gegenwart materiell zu retten.",
+      "anchor": "Die zerstörte Gegenwart sucht Hilfe aus anderen Zeiten.",
+      "interest": "Die zerstörte Gegenwart sucht Hilfe aus anderen Zeiten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Woraus besteht die Bildfolge von @ überwiegend?",
+      "answers": [
+        "Aus stehenden Fotografien",
+        "Aus durchgehend bewegten Schwarzweißaufnahmen",
+        "Aus gefilmten Zeichnungen einer Kriegschronik",
+        "Aus abgefilmten Schriftseiten"
+      ],
+      "feedback": [
+        "Der Film besteht überwiegend aus Fotografien.",
+        "Die Bildfolge besteht fast ganz aus unbewegten Fotografien.",
+        "Die Bilder sind Fotografien, keine gezeichnete Chronik.",
+        "Ein Erzähler begleitet fotografische Bilder."
+      ],
+      "short": "Der Film besteht überwiegend aus Fotografien.",
+      "context": "Der Film besteht überwiegend aus Fotografien. Erzählerstimme, Musik und Montage erzeugen dennoch einen zeitlichen Ablauf; die Erinnerung wird dadurch nicht nur zum Gegenstand der Geschichte, sondern auch zur Form ihrer Bilder.",
+      "anchor": "Stehende Bilder erzählen eine Geschichte von Zeitbewegung.",
+      "interest": "Stehende Bilder erzählen eine Geschichte von Zeitbewegung.",
+      "sources": [
+        "handlung",
+        "cinematheque"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum wählen die Forscher den Mann (Davos Hanich) in @ für ihre Zeitexperimente aus?",
+      "answers": [
+        "Eine besonders starke Kindheitserinnerung bindet ihn an die Vergangenheit.",
+        "Er kennt die Namen aller früheren Versuchsopfer.",
+        "Er hat die Zeitmaschine selbst konstruiert.",
+        "Er besitzt eine sichere Erinnerung an den Kriegsausbruch."
+      ],
+      "feedback": [
+        "Die intensive Erinnerung an eine Frau am Flughafen macht den Mann zum geeigneten Versuchssubjekt.",
+        "Die besondere Bindung an eine Kindheitsszene macht ihn geeignet.",
+        "Er ist Versuchsperson, nicht ihr Erfinder.",
+        "Die gesuchte starke Erinnerung liegt in seiner Kindheit vor dem Krieg."
+      ],
+      "short": "Die intensive Erinnerung an eine Frau am Flughafen macht den Mann zum geeigneten Versuchssubjekt.",
+      "context": "Die intensive Erinnerung an eine Frau am Flughafen macht den Mann zum geeigneten Versuchssubjekt. Andere können die Reise psychisch nicht ertragen; seine persönliche Bindung bietet den Forschern einen Zugang zur früheren Welt.",
+      "anchor": "Die Kindheitserinnerung wird zum Anker der Zeitreise.",
+      "interest": "Die Kindheitserinnerung wird zum Anker der Zeitreise.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was erhält der Mann (Davos Hanich) in @ von den Menschen der fernen Zukunft?",
+      "answers": [
+        "Eine Energiequelle zur Rettung seiner Gesellschaft",
+        "Eine Waffe gegen seine Bewacher",
+        "Einen vollständigen Plan des Flughafens",
+        "Ein Mittel zum Auslöschen aller Erinnerungen"
+      ],
+      "feedback": [
+        "Die zukünftigen Menschen geben eine Energiequelle, die die zerstörte Gesellschaft erneuern kann.",
+        "Die Zukunft gibt ihm eine Energiequelle.",
+        "Die übergebene Ressource soll seine Gesellschaft retten.",
+        "Eine solche Löschung erhält er nicht."
+      ],
+      "short": "Die zukünftigen Menschen geben eine Energiequelle, die die zerstörte Gesellschaft erneuern kann.",
+      "context": "Die zukünftigen Menschen geben eine Energiequelle, die die zerstörte Gesellschaft erneuern kann. Die Reise erfüllt damit ihren technischen Auftrag; gerade nach dem Erfolg droht dem Versuchssubjekt jedoch die Beseitigung durch seine Bewacher.",
+      "anchor": "Der technische Missionserfolg schützt den Reisenden nicht.",
+      "interest": "Der technische Missionserfolg schützt den Reisenden nicht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Zuflucht wählt der Mann (Davos Hanich) am Ende von @ anstelle der angebotenen Zukunft?",
+      "answers": [
+        "Die Vergangenheit seiner Kindheit",
+        "Eine unbewohnte Marskolonie",
+        "Ein anderes Paralleluniversum",
+        "Die zerstörte Gegenwart seiner Bewacher"
+      ],
+      "feedback": [
+        "Der Mann bittet um Rückkehr in die Zeit seiner Kindheit.",
+        "Der Mars ist kein gewählter Ort.",
+        "Paralleluniversen sind nicht die angebotene Alternative.",
+        "Die Gegenwart möchte er gerade verlassen."
+      ],
+      "short": "Der Mann bittet um Rückkehr in die Zeit seiner Kindheit.",
+      "context": "Der Mann bittet um Rückkehr in die Zeit seiner Kindheit. Er möchte die Frau (Hélène Châtelain) wiedersehen; sein persönlicher Erinnerungswunsch verdrängt die sicherer wirkende Flucht in eine ferne Zukunft.",
+      "anchor": "Er wählt die geliebte Vergangenheit statt der sicheren Zukunft.",
+      "interest": "Er wählt die geliebte Vergangenheit statt der sicheren Zukunft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Ereignis hat der Mann (Davos Hanich) als Kind in @ tatsächlich gesehen?",
+      "answers": [
+        "Seinen eigenen späteren Tod",
+        "Die Geburt seiner Mutter",
+        "Die Zerstörung einer Raumstation",
+        "Die Krönung seines Vaters"
+      ],
+      "feedback": [
+        "Die verstörende Kindheitserinnerung zeigt den späteren Tod des Mannes selbst.",
+        "Eine Geburt ist nicht der beobachtete Vorfall.",
+        "Eine Raumstation wird nicht zerstört.",
+        "Eine Vaterkrönung wird nicht gezeigt."
+      ],
+      "short": "Die verstörende Kindheitserinnerung zeigt den späteren Tod des Mannes selbst.",
+      "context": "Die verstörende Kindheitserinnerung zeigt den späteren Tod des Mannes selbst. Ein Verfolger aus der zerstörten Gegenwart tötet ihn bei der Rückkehr; der vermeintliche Fluchtort war schon immer Teil seines zeitlichen Kreises.",
+      "anchor": "Die lebensprägende Erinnerung ist der eigene künftige Tod.",
+      "interest": "Die lebensprägende Erinnerung ist der eigene künftige Tod.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1962",
+        "1959",
+        "1955",
+        "1964"
+      ],
+      "feedback": [
+        "1962 ist die Einordnung bei BFI und Cinémathèque française.",
+        "1959 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1962 wird im zeitlichen Hintergrund erklärt.",
+        "1955 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1962 wird im zeitlichen Hintergrund erklärt.",
+        "1964 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1962 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1962 ist die Einordnung bei BFI und Cinémathèque française.",
+      "context": "1962 ist die Einordnung bei BFI und Cinémathèque française. Die Cinémathèque nennt den Jean-Vigo-Preis von 1963: Filmjahr zuerst, Anerkennung danach. Criterion verwendet abweichend 1963 als Katalogjahr; dieser Quellenunterschied ist im Veröffentlichungsnachweis ausdrücklich dokumentiert.",
+      "anchor": "Filmjahr 1962 bei BFI und Cinémathèque, Jean-Vigo-Preis 1963: Die Anerkennung folgt im nächsten Jahr.",
+      "interest": "Die Folge trennt den Film von seiner späteren Anerkennung.",
+      "sources": [
+        "eckdaten",
+        "cinematheque",
+        "bfi"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Chris Marker",
+        "Jean-Luc Godard",
+        "François Truffaut",
+        "Alain Resnais"
+      ],
+      "feedback": [
+        "Chris Marker schrieb und inszenierte den Foto-Roman.",
+        "Jean-Luc Godard führte nicht bei dieser Fassung Regie; genannt ist Chris Marker.",
+        "François Truffaut führte nicht bei dieser Fassung Regie; genannt ist Chris Marker.",
+        "Alain Resnais führte nicht bei dieser Fassung Regie; genannt ist Chris Marker."
+      ],
+      "short": "Chris Marker schrieb und inszenierte den Foto-Roman.",
+      "context": "Chris Marker schrieb und inszenierte den Foto-Roman. Davos Hanich spielt den Mann, Hélène Châtelain die erinnerte Frau, Jean Négroni spricht den Erzähler. Die weitgehende Folge stehender Bilder verbindet das Thema Erinnerung mit der materiellen Form des Films.",
+      "anchor": "Chris Marker schrieb und inszenierte den Foto-Roman.",
+      "interest": "Chris Marker schrieb und inszenierte den Foto-Roman.",
+      "sources": [
+        "cinematheque"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

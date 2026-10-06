@@ -1,0 +1,218 @@
+{
+  "rank": 41,
+  "directors": [
+    "Barry Jenkins"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Oscar-prämiertes, breit diskutiertes Gegenwartsdrama; bekannte Filme, keine empirische Reichweitenmessung.",
+  "release_note": "Telluride-Premiere 2. September 2016.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Moonlight_(2016_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://a24films.com/films/moonlight",
+      "supports": "Miami, Lebensbogen, Regie und Veröffentlichungsjahr."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Lebensspanne von Chiron zeigt @?",
+      "answers": [
+        "Kindheit bis frühes Erwachsenenalter",
+        "Kindheit bis zum Ende der Schulzeit",
+        "Nur die Jahre als Erwachsener",
+        "Kindheit bis ins hohe Alter"
+      ],
+      "feedback": [
+        "Chiron wird als Kind, Jugendlicher und junger Erwachsener gezeigt.",
+        "Der dritte Abschnitt zeigt Chiron nach der Schule.",
+        "Die Kindheit wird ebenfalls gezeigt.",
+        "Das hohe Alter erreicht die Erzählung nicht."
+      ],
+      "short": "Chiron wird als Kind, Jugendlicher und junger Erwachsener gezeigt.",
+      "context": "Chiron wird als Kind (Alex Hibbert), Jugendlicher (Ashton Sanders) und junger Erwachsener (Trevante Rhodes) gezeigt. Die Zeitsprünge lassen entscheidende Erfahrungen nebeneinanderstehen.",
+      "anchor": "Drei Lebensabschnitte, drei Chiron-Darsteller.",
+      "interest": "Die Gliederung eröffnet den Zugang zur Lebensgeschichte.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "In welcher US-Stadt wächst Chiron in @ auf?",
+      "answers": [
+        "Miami",
+        "Chicago",
+        "Detroit",
+        "Seattle"
+      ],
+      "feedback": [
+        "Chiron wächst in Miami auf.",
+        "Chicago ist nicht seine Heimatstadt.",
+        "Detroit bildet nicht den Schauplatz seiner Kindheit.",
+        "Seattle liegt nicht dem gezeigten Umfeld zugrunde."
+      ],
+      "short": "Chiron wächst in Miami auf.",
+      "context": "Chiron (Alex Hibbert) wächst in Miami auf. Der Stadtteil Liberty City bildet den Ausgangspunkt; Strand und Meer öffnen ihm zeitweise einen anderen Raum als Schule und konfliktreiches Zuhause.",
+      "anchor": "Liberty City in Miami ist Chirons Ausgangspunkt.",
+      "interest": "Das Umfeld erklärt die unterschiedlichen Lebensräume.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche widersprüchliche Verbindung hat Juan (Mahershala Ali) in @ zu Chirons Mutter?",
+      "answers": [
+        "Er verkauft Drogen, die sie konsumiert.",
+        "Er bezahlt heimlich ihren Entzug.",
+        "Er teilt mit ihr eine gemeinsame Wohnung.",
+        "Er hat sie zu seiner Geschäftspartnerin gemacht."
+      ],
+      "feedback": [
+        "Juan verkauft Drogen, die Paula (Naomie Harris) konsumiert.",
+        "Juan vermittelt keine solche Entzugsfinanzierung.",
+        "Sie wohnen nicht gemeinsam.",
+        "Paula ist seine Kundin, nicht die Geschäftspartnerin."
+      ],
+      "short": "Juan verkauft Drogen, die Paula (Naomie Harris) konsumiert.",
+      "context": "Juan (Mahershala Ali) verkauft Drogen, die Paula (Naomie Harris) konsumiert. Obwohl er Chiron (Alex Hibbert) Schutz bietet, beteiligt er sich an dessen belastendem Umfeld; seine Fürsorge hebt diesen Widerspruch nicht auf.",
+      "anchor": "Chirons Beschützer ist zugleich Paulas Drogendealer.",
+      "interest": "Chirons Beschützer ist zugleich Paulas Drogendealer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum wird der jugendliche Chiron (Ashton Sanders) in @ verhaftet?",
+      "answers": [
+        "Er schlägt Terrel mit einem Stuhl.",
+        "Er bedroht Kevin mit einer Pistole.",
+        "Er greift den Schulleiter an.",
+        "Er wird beim Verkauf von Drogen erwischt."
+      ],
+      "feedback": [
+        "Chiron schlägt Terrel (Patrick Decile) mit einem Stuhl.",
+        "Die Reaktion richtet sich gegen Terrel, nicht gegen Kevin.",
+        "Der Schulleiter wird nicht angegriffen.",
+        "Ein beobachteter Drogenverkauf löst diese Verhaftung nicht aus."
+      ],
+      "short": "Chiron schlägt Terrel (Patrick Decile) mit einem Stuhl.",
+      "context": "Chiron (Ashton Sanders) schlägt Terrel (Patrick Decile) mit einem Stuhl. Nach der vorherigen Misshandlung schlägt die Ohnmacht in Vergeltung um; die Polizei führt ihn aus der Schule ab.",
+      "anchor": "Der Stuhlschlag beendet Chirons Schulabschnitt.",
+      "interest": "Der Stuhlschlag beendet Chirons Schulabschnitt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Funktion hat Barbara Lewis’ „Hello Stranger“ beim Wiedersehen in @?",
+      "answers": [
+        "Das Lied hat Kevin an Chiron erinnert.",
+        "Es erinnert Chiron an seine Mutter.",
+        "Es warnt Kevin vor Chirons Besuch.",
+        "Es begleitet Kevins eigene Gesangskarriere."
+      ],
+      "feedback": [
+        "Das Lied erinnert Kevin (André Holland) an Chiron (Trevante Rhodes).",
+        "Die gezeigte Erinnerung entsteht bei Kevin.",
+        "Der Anruf geht dem Besuch voraus.",
+        "Kevin tritt nicht mit einer eigenen Gesangskarriere auf."
+      ],
+      "short": "Das Lied erinnert Kevin (André Holland) an Chiron (Trevante Rhodes).",
+      "context": "Das Lied erinnert Kevin (André Holland) an Chiron (Trevante Rhodes). Deshalb ruft Kevin (André Holland) ihn an und spielt es später im Diner; Musik verbindet ihre getrennten Lebenswege.",
+      "anchor": "„Hello Stranger“ setzt das Wiedersehen in Gang.",
+      "interest": "„Hello Stranger“ setzt das Wiedersehen in Gang.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Was gesteht der erwachsene Chiron (Trevante Rhodes) Kevin (André Holland) am Ende von @?",
+      "answers": [
+        "Seit ihrer Begegnung hatte er keine weitere Intimität.",
+        "Er hatte seit der Schulzeit eine geheime Ehe.",
+        "Er möchte Kevin zum Geschäftspartner machen.",
+        "Er hält die frühere Begegnung für bedeutungslos."
+      ],
+      "feedback": [
+        "Chiron gesteht seine seither ausgebliebene Intimität.",
+        "Eine geheime Ehe gesteht er nicht.",
+        "Das Gespräch betrifft Nähe, nicht eine Geschäftsgründung.",
+        "Gerade die bleibende Bedeutung wird ausgesprochen."
+      ],
+      "short": "Chiron gesteht seine seither ausgebliebene Intimität.",
+      "context": "Chiron (Trevante Rhodes) gesteht seine seither ausgebliebene Intimität. Hinter seinem imposanten Auftreten bleibt die frühere Verletzlichkeit erhalten; Kevin (André Holland) kann ihn nun trösten, ohne dass das Ende eine gesamte Zukunft festlegt.",
+      "anchor": "Die harte Fassade verbirgt Chirons unveränderte Sehnsucht.",
+      "interest": "Die harte Fassade verbirgt Chirons unveränderte Sehnsucht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2016",
+        "2014",
+        "2011",
+        "2017"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2016.",
+        "2014 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2011 liegt fünf Jahre davor.",
+        "2017 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2016 erstmals veröffentlicht.",
+      "context": "2016 wurde der Film in Telluride vorgestellt. Die Vorlage, Tarell Alvin McCraneys unveröffentlichtes Stück, entstand bereits 2003 nach dem Tod seiner Mutter. Zwischen dem Schreiben und dem Kinofilm liegen somit dreizehn Jahre.",
+      "anchor": "2016 wurde McCraneys 2003 geschriebenes Stück nach dreizehn Jahren zum Film.",
+      "interest": "2016 wurde McCraneys 2003 geschriebenes Stück nach dreizehn Jahren zum Film.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Barry Jenkins",
+        "Ryan Coogler",
+        "Steve McQueen",
+        "Dee Rees"
+      ],
+      "feedback": [
+        "Barry Jenkins führte Regie.",
+        "Ryan Coogler führte bei diesem Film nicht Regie.",
+        "Steve McQueen führte bei diesem Film nicht Regie.",
+        "Dee Rees führte bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: Barry Jenkins.",
+      "context": "Jenkins bearbeitete ein unveröffentlichtes Theaterstück von Tarell Alvin McCraney. Beide Autoren wuchsen in Liberty City auf; der Film gliedert Chirons Leben in drei Abschnitte mit unterschiedlichen Hauptdarstellern.",
+      "anchor": "Jenkins bearbeitete ein unveröffentlichtes Theaterstück von Tarell Alvin McCraney.",
+      "interest": "Jenkins bearbeitete ein unveröffentlichtes Theaterstück von Tarell Alvin McCraney.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "rank": 25,
+  "directors": [
+    "Len Wiseman"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Teil einer breit bekannten Actionreihe; die vierte Filmhandlung und der Hacker-Konflikt sind vor allem dem Genre- und Reihenpublikum vertraut.",
+  "release_note": "Premiere in Tokio am 12. Juni 2007, allgemeiner US-Kinostart am 27. Juni 2007.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Live_Free_or_Die_Hard",
+    "primaer": "https://www.20thcenturystudios.com/movies/live-free-or-die-hard"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Fähigkeit ergänzt Matt Farrell (Justin Long) in @ an der Seite von John McClane?",
+      "answers": [
+        "Computer- und Hackerkenntnisse",
+        "Erfahrung als Kampfpilot",
+        "Ausbildung als Sprengstoffhundführer",
+        "Kenntnisse als Herzchirurg"
+      ],
+      "feedback": [
+        "Farrell versteht die digitalen Angriffe und hilft bei ihrer Aufklärung.",
+        "Er ergänzt McClane nicht als Kampfpilot.",
+        "Seine zentrale Fähigkeit ist digitale Sicherheit.",
+        "Er ist kein Herzchirurg."
+      ],
+      "short": "Farrell ist ein Hacker mit Computerkenntnissen.",
+      "context": "John McClane (Bruce Willis) soll Farrell zunächst nur zum FBI bringen. Ein Mordversuch verbindet die beiden mit dem umfassenden Angriff auf die Infrastruktur. McClanes praktische Polizeierfahrung und Farrells Verständnis der Netzwerke ergänzen sich, obwohl sie anfangs sehr unterschiedlich an Probleme herangehen.",
+      "anchor": "McClanes Polizeierfahrung trifft auf Farrells Hackerwissen.",
+      "interest": "Die Ergänzung erklärt die Funktion des zentralen Duos.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wen lässt Thomas Gabriel (Timothy Olyphant) in @ entführen, um McClane unter Druck zu setzen?",
+      "answers": [
+        "McClanes Tochter Lucy",
+        "McClanes früheren Partner Al Powell",
+        "Farrells Mutter",
+        "Den FBI-Mann Miguel Bowman"
+      ],
+      "feedback": [
+        "Lucy wird als Druckmittel gegen ihren Vater benutzt.",
+        "Al Powell wird in diesem Film nicht als dieses Druckmittel entführt.",
+        "Farrells Mutter ist nicht die gesuchte Geisel.",
+        "Bowman leitet die Ermittlungen und ist nicht diese Geisel."
+      ],
+      "short": "Gabriel lässt Lucy, McClanes Tochter, entführen.",
+      "context": "Lucy (Mary Elizabeth Winstead) hat ein angespanntes Verhältnis zu ihrem Vater. Gabriel nutzt die familiäre Bindung, als McClane seine Angriffe behindert. Dadurch wird der Konflikt um öffentliche Systeme zugleich persönlich: McClane muss die Entführung mit der Suche nach Gabriel und Farrells Rettung verbinden.",
+      "anchor": "Lucy macht Gabriels Angriff für McClane persönlich.",
+      "interest": "Das Druckmittel erklärt die Verbindung von Familienkonflikt und Actionhandlung.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was meint Farrell (Justin Long) in @ mit dem Ausdruck Fire Sale?",
+      "answers": [
+        "Einen systematischen Cyberangriff auf die gesamte Infrastruktur",
+        "Den massenhaften Verkauf erbeuteter Zugangsdaten",
+        "Die Löschung sämtlicher Beweismittel auf einem einzelnen Server",
+        "Die Abschaltung nur der Finanzmärkte zur Erpressung"
+      ],
+      "feedback": [
+        "Verkehr, Finanzsysteme und Versorgung werden gezielt angegriffen.",
+        "Der Ausdruck bezeichnet hier einen Angriff auf Infrastruktur, keinen Verkauf von Zugangsdaten.",
+        "Das Angriffsmuster betrifft zahlreiche Systeme, nicht nur einen Beweisserver.",
+        "Die Finanzmärkte sind nur ein Teil des umfassenderen Angriffs."
+      ],
+      "short": "Fire Sale bezeichnet den umfassenden Angriff auf vernetzte Infrastruktur.",
+      "context": "Farrell erkennt im Ausfall mehrerer Systeme ein zusammenhängendes Muster. Gabriel (Timothy Olyphant) greift Verkehr und Finanzmärkte an und weitet die Störung aus. Der Ausdruck macht McClane (Bruce Willis) deutlich, dass sie nicht bloß einen isolierten Hacker oder lokalen Zwischenfall verfolgen.",
+      "anchor": "Fire Sale legt vernetzte Systeme eines ganzen Landes lahm.",
+      "interest": "Der Begriff erläutert die Größenordnung des digitalen Angriffs.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Hilfe erhalten McClane und Farrell in @ von Warlock (Kevin Smith)?",
+      "answers": [
+        "Er erkennt den Zweck des Codes und ortet Gabriels Ziel in Woodlawn",
+        "Er entschlüsselt sämtliche geraubten Daten und gibt sie ans FBI zurück",
+        "Er verschafft den beiden eine falsche Identität als Gabriels Mitarbeiter",
+        "Er bringt Lucy aus Gabriels Versteck in Sicherheit"
+      ],
+      "feedback": [
+        "Warlock verbindet Farrells Code mit dem Datensicherungsstandort.",
+        "Er entschlüsselt hier nicht sämtliche bereits geraubten Daten.",
+        "Eine solche Tarnidentität ist nicht seine Hilfe.",
+        "Er rettet Lucy nicht selbst aus der Gefangenschaft."
+      ],
+      "short": "Warlock hilft, den Code und den Standort Woodlawn zuzuordnen.",
+      "context": "Warlock arbeitet von seinem Haus aus und versteht die Verbindung zwischen dem verwendeten Code und dem angeblichen Sozialversicherungsgebäude. Dahinter liegt eine Einrichtung zur Sicherung persönlicher und finanzieller Daten. Seine Auskunft bringt die allgemeine Sabotage mit Gabriels konkretem Diebstahlsziel zusammen.",
+      "anchor": "Warlocks Codeanalyse führt zum Datenstandort Woodlawn.",
+      "interest": "Die Hilfe erklärt den Übergang von Störungen zum eigentlichen Raubplan.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was tut Farrell (Justin Long) in @ mit den bereits kopierten Finanzdaten?",
+      "answers": [
+        "Er verschlüsselt sie, sodass Gabriel sie nicht unmittelbar nutzen kann",
+        "Er veröffentlicht sie sofort im Fernsehen",
+        "Er tauscht sie gegen Lucys Freilassung",
+        "Er verkauft sie ohne Wissen McClanes"
+      ],
+      "feedback": [
+        "Die Verschlüsselung blockiert Gabriels Zugriff auf die Beute.",
+        "Farrell sendet sie nicht als Fernsehübertragung.",
+        "Er handelt keine vereinbarte Übergabe für Lucy aus.",
+        "Er verkauft die Daten nicht selbst."
+      ],
+      "short": "Farrell verschlüsselt Gabriels Datenbeute.",
+      "context": "Gabriels Angriff soll die Sicherung der Daten auslösen und anschließend deren Diebstahl ermöglichen. Farrell erreicht den Server und setzt eine technische Gegenmaßnahme. Als Gabriel (Timothy Olyphant) ihn gefangen nimmt, verlangt er deshalb die Entschlüsselung und bedroht ihn und Lucy (Mary Elizabeth Winstead).",
+      "anchor": "Farrells Verschlüsselung macht die gestohlenen Daten zunächst unbrauchbar.",
+      "interest": "Die Maßnahme zeigt, wie der Hacker die Handlung aktiv verändert.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie tötet McClane (Bruce Willis) in @ Gabriel in der letzten Konfrontation?",
+      "answers": [
+        "Er löst einen Schuss durch seine eigene Schulter auf Gabriel aus",
+        "Er lockt ihn in den Ausstoß eines startenden Jets",
+        "Er lässt ihn mit dem Serverraum abstürzen",
+        "Er bringt dessen ferngesteuerten Sprengsatz zur Explosion"
+      ],
+      "feedback": [
+        "Gabriel hält die Waffe an McClanes Schulter, der selbst den Abzug betätigt.",
+        "Der finale Tod erfolgt nicht am Triebwerk eines Jets.",
+        "Gabriel stirbt nicht durch einen abstürzenden Serverraum.",
+        "Ein ferngesteuerter Sprengsatz ist nicht die letzte Lösung."
+      ],
+      "short": "McClane schießt durch seine Schulter auf den hinter ihm stehenden Gabriel.",
+      "context": "Gabriel (Timothy Olyphant) benutzt den verletzten McClane als Deckung und setzt die Waffe an dessen Schulterwunde. McClane betätigt selbst den Abzug und nimmt die erneute Verletzung in Kauf. Farrell (Justin Long) erschießt danach den verbliebenen Angreifer und hilft so, Lucy zu retten.",
+      "anchor": "McClane nimmt den Schuss durch die eigene Schulter in Kauf.",
+      "interest": "Die konkrete Handlung erklärt die ungewöhnliche Auflösung der Geiselsituation.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "1995",
+        "2001",
+        "2013"
+      ],
+      "feedback": [
+        "Diese Filmfassung wurde 2007 erstmals veröffentlicht.",
+        "1995 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2007.",
+        "2001 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2007.",
+        "2013 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2007."
+      ],
+      "short": "Das erste Veröffentlichungsjahr ist 2007.",
+      "context": "Der vierte Stirb-langsam-Film erschien 2007, zwölf Jahre nach Stirb langsam: Jetzt erst recht von 1995. Der neue Konflikt verlagert die Bedrohung von einem einzelnen Gebäude oder örtlichen Plan auf vernetzte Infrastruktur. Bruce Willis kehrt als McClane zurück und bekommt mit Farrell einen technisch versierten Partner.",
+      "anchor": "1995 kam der dritte Film; zwölf Jahre später folgte 2007 Stirb langsam 4.0.",
+      "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Len Wiseman",
+        "Antoine Fuqua",
+        "Michael Bay",
+        "Paul Greengrass"
+      ],
+      "feedback": [
+        "Len Wiseman verantwortet die hier gefragte Regie.",
+        "Antoine Fuqua führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Michael Bay führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Paul Greengrass führte bei dieser Filmfassung nicht die gefragte Regie."
+      ],
+      "short": "Die gesuchte Regie stammt von Len Wiseman.",
+      "context": "Len Wiseman inszenierte den vierten Stirb-langsam-Film. Die Figur McClane bleibt ein praktisch handelnder Polizist, während digitale Systeme den Maßstab des Angriffs erweitern. Der Regiecredit ist von Mark Bombacks und David Marconis Arbeit am Drehbuch beziehungsweise an der Geschichte zu unterscheiden.",
+      "anchor": "Len Wiseman inszenierte diese Filmfassung.",
+      "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 99,
+  "directors": [
+    "Kurt Neumann"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Klassischer Science-Fiction-Horror; die bekanntere Neuverfilmung verlangt klare Versionszuordnung.",
+  "release_note": "US-Veröffentlichung 16. Juli 1958; ausdrücklich Originalfilm.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Fly_(1958_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "katalog": {
+      "url": "https://catalog.afi.com/Film/52548-THE-FLY",
+      "supports": "1958, Kurt Neumann, Produzentenfunktion, Labor aus militärischen Altbeständen und Neuverfilmung 1986."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Erfindung erprobt André in @?",
+      "answers": [
+        "Eine Maschine zum Transportieren von Materie",
+        "Eine Maschine zum Schrumpfen lebender Körper",
+        "Eine Maschine zur Verschmelzung zweier Lebewesen",
+        "Eine Maschine zum Unsichtbarmachen von Materie"
+      ],
+      "feedback": [
+        "André (David Hedison, damals Al Hedison) erprobt Materietransport.",
+        "Die Versuche sollen Materie von einem Ort zum anderen transportieren.",
+        "Die Verschmelzung ist Unfallfolge statt Erfindungsziel.",
+        "Unsichtbarkeit ist nicht der vorgesehene Zweck."
+      ],
+      "short": "André (David Hedison, damals Al Hedison) erprobt Materietransport.",
+      "context": "André (David Hedison, damals Al Hedison) erprobt Materietransport. Die Versuche reichen von Gegenständen zu Lebewesen; die eigene Teilnahme überschreitet schließlich die bis dahin erprobte Sicherheit.",
+      "anchor": "Der Selbstversuch erweitert den Gegenstandstransport auf den eigenen Körper.",
+      "interest": "Der Selbstversuch erweitert den Gegenstandstransport auf den eigenen Körper.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wessen Geständnis eröffnet in @ die Untersuchung von Andrés Tod?",
+      "answers": [
+        "Das seiner Frau Hélène",
+        "Das seines Sohnes Philippe",
+        "Das seines Bruders François",
+        "Das seines Inspektors Charas"
+      ],
+      "feedback": [
+        "Hélène (Patricia Owens) bekennt sich zur Tötung.",
+        "Philippe gesteht den Tod nicht.",
+        "François ist nicht der Geständige.",
+        "Der Inspektor untersucht die Tat."
+      ],
+      "short": "Hélène (Patricia Owens) bekennt sich zur Tötung.",
+      "context": "Hélène (Patricia Owens) bekennt sich zur Tötung. Sie verschweigt zunächst das Motiv; erst die Suche nach der ungewöhnlichen Fliege führt François (Vincent Price) zu ihrer ausführlichen Erklärung.",
+      "anchor": "Das Tatgeständnis lässt die Ursache zunächst offen.",
+      "interest": "Das Tatgeständnis lässt die Ursache zunächst offen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum sucht Hélène in @ so dringend eine bestimmte Fliege?",
+      "answers": [
+        "Sie trägt Andrés menschlichen Kopf und Arm und soll den Vorgang umkehren helfen.",
+        "Sie soll als unverändertes Versuchstier einen neuen Transport testen.",
+        "Sie enthält das letzte erhaltene Teil seiner Aufzeichnungen.",
+        "Sie könnte beweisen, dass nur seine Wahrnehmung verändert ist."
+      ],
+      "feedback": [
+        "Die Fliege trägt die vertauschten menschlichen Teile.",
+        "Die gesuchte Fliege trägt die fehlenden menschlichen Körperteile.",
+        "Keine versteckte Aufzeichnung erklärt die Suche.",
+        "Die Körperveränderung ist materiell und soll rückgängig gemacht werden."
+      ],
+      "short": "Die Fliege trägt die vertauschten menschlichen Teile.",
+      "context": "Die Fliege trägt die vertauschten menschlichen Teile. Hélène (Patricia Owens) muss sie für einen erneuten Transport finden; Andrés (David Hedison) Heilungsmöglichkeit hängt damit an einem entkommenden kleinen Tier.",
+      "anchor": "Die Umkehrung braucht beide vertauschten Körper.",
+      "interest": "Die Umkehrung braucht beide vertauschten Körper.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie verständigt André sich nach der Veränderung in @ mit Hélène?",
+      "answers": [
+        "Mit getippten Nachrichten und Klopfzeichen",
+        "Mit einer künstlichen Stimme aus dem Transportgerät",
+        "Mit von Hélène abgelesenen Lippenbewegungen",
+        "Mit gesprochenen Worten durch eine Atemmaske"
+      ],
+      "feedback": [
+        "André nutzt Schrift und Klopfzeichen.",
+        "Die Maschine gibt ihm keine Ersatzstimme.",
+        "Der veränderte Kopf lässt kein normales Lippenlesen zu.",
+        "Eine Atemmaske stellt die Sprache nicht wieder her."
+      ],
+      "short": "André nutzt Schrift und Klopfzeichen.",
+      "context": "André (David Hedison) nutzt Schrift und Klopfzeichen. André (David Hedison) verhüllt seinen Kopf; die eingeschränkte Kommunikation hält seine Veränderung zunächst vom direkten Blick seiner Frau Hélène (Patricia Owens) fern.",
+      "anchor": "Die Schrift hält einen menschlichen Austausch trotz des fremden Kopfes aufrecht.",
+      "interest": "Die Schrift hält einen menschlichen Austausch trotz des fremden Kopfes aufrecht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum zerstört André in @ schließlich Apparatur und Aufzeichnungen?",
+      "answers": [
+        "Die Fliegeninstinkte drohen sein menschliches Denken zu übernehmen.",
+        "Er glaubt, die Rückverwandlung sei nur ohne diese Apparatur möglich.",
+        "Er will einen erneuten Selbstversuch vor Hélène verbergen.",
+        "Er hält die Unterlagen für die Ursache der Körperveränderung."
+      ],
+      "feedback": [
+        "André fürchtet den Verlust seines menschlichen Willens.",
+        "Er vernichtet die Möglichkeit neuer Versuche vor dem Verlust des eigenen Willens.",
+        "Die Vernichtung dient nicht der Vorbereitung eines weiteren heimlichen Versuchs.",
+        "Die Aufzeichnungen sind kein magischer Auslöser der Veränderung."
+      ],
+      "short": "André fürchtet den Verlust seines menschlichen Willens.",
+      "context": "André (David Hedison) fürchtet den Verlust seines menschlichen Willens. André (David Hedison) zerstört die Technik, solange er noch handeln kann, und verlangt anschließend den Tod durch die Presse.",
+      "anchor": "Die Technik wird vor dem drohenden Verlust der Kontrolle vernichtet.",
+      "interest": "Die Technik wird vor dem drohenden Verlust der Kontrolle vernichtet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was überzeugt Inspektor Charas im Schluss von @ von Hélènes unglaublichem Bericht?",
+      "answers": [
+        "Er sieht die menschlich veränderte Fliege im Spinnennetz.",
+        "Er sieht den Transport eines anderen Menschen im Labor.",
+        "Er findet Andrés abgetrennten Kopf in der Presse.",
+        "Er verfolgt eine zweite identisch veränderte Person."
+      ],
+      "feedback": [
+        "Charas (Herbert Marshall) sieht die Fliege mit Andrés Kopf.",
+        "Der eigene Blick auf die winzige menschliche Fliege bestätigt den Bericht.",
+        "Ein gewöhnlicher Leichenfund würde den Austausch nicht belegen.",
+        "Ein zweites menschliches Opfer tritt nicht als Beweis auf."
+      ],
+      "short": "Charas (Herbert Marshall) sieht die Fliege mit Andrés Kopf.",
+      "context": "Charas (Herbert Marshall) sieht die Fliege mit Andrés Kopf. Gemeinsam mit François (Vincent Price) erkennt er die Wahrheit; ihr Entschluss, den Tod anders zu erklären, schützt Hélène (Patricia Owens) vor einer Mordverurteilung.",
+      "anchor": "Das winzige Wesen bestätigt die zuvor unglaubhafte Erklärung.",
+      "interest": "Das winzige Wesen bestätigt die zuvor unglaubhafte Erklärung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1958",
+        "1956",
+        "1953",
+        "1959"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1958.",
+        "1956 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1953 liegt fünf Jahre davor.",
+        "1959 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1958 erstmals veröffentlicht.",
+      "context": "1958 erschien die Verfilmung von Langelaans Erzählung aus dem Jahr 1957, ein Jahr nach der Vorlage. David Cronenbergs Neuverfilmung kam 1986 heraus, 28 Jahre später, und hat einen anderen Regisseur und Hauptdarsteller.",
+      "anchor": "Langelaans Geschichte von 1957 wurde 1958 verfilmt; die Neuverfilmung folgte 1986, 28 Jahre später.",
+      "interest": "Langelaans Geschichte von 1957 wurde 1958 verfilmt; die Neuverfilmung folgte 1986, 28 Jahre später.",
+      "sources": [
+        "katalog",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Kurt Neumann",
+        "David Cronenberg",
+        "Jack Arnold",
+        "Gordon Douglas"
+      ],
+      "feedback": [
+        "Kurt Neumann führte Regie.",
+        "David Cronenberg hat hier keinen Regiecredit.",
+        "Jack Arnold hat hier keinen Regiecredit.",
+        "Gordon Douglas hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Kurt Neumann.",
+      "context": "Neumann führte Regie und produzierte den Film. Das Labor nutzte nach den Produktionsunterlagen militärische Altbestände; die Apparatur wirkt dadurch technisch konkret, obwohl der Stoff einen unmöglichen Transportvorgang erzählt.",
+      "anchor": "Neumann führte Regie und produzierte den Film.",
+      "interest": "Neumann führte Regie und produzierte den Film.",
+      "sources": [
+        "katalog",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

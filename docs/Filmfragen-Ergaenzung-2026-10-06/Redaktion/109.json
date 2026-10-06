@@ -1,0 +1,219 @@
+{
+  "rank": 109,
+  "directors": [
+    "Jacques Tati"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "familiarity_reason": "Frühes Tati-Werk ohne Hulot, im breiten Publikum weniger vertraut als spätere Klassiker; Entdeckung.",
+  "release_note": "Französische Erstveröffentlichung am 4. Mai 1949; spätere Farbrestaurierung ist kein neues Filmjahr.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Jour_de_f%C3%AAte",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/the_big_day_1952",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf übt François (Jacques Tati) in @ aus?",
+      "answers": [
+        "Briefträger",
+        "Bürgermeister",
+        "Schneider",
+        "Lokführer"
+      ],
+      "feedback": [
+        "François stellt im Dorf die Post zu.",
+        "Er ist nicht der Bürgermeister.",
+        "Schneidern ist nicht sein Beruf.",
+        "Er führt keine Lokomotive."
+      ],
+      "short": "François stellt im Dorf die Post zu.",
+      "context": "François (Jacques Tati) ist der gutmütige Briefträger eines französischen Dorfes. Alle kennen ihn, nehmen ihn aber nicht besonders ernst. Als ein Jahrmarkt eintrifft, gerät sein üblicher Arbeitsrhythmus durcheinander. Die Komik wächst aus dem Versuch, seine vertraute Aufgabe plötzlich nach einem ganz anderen Vorbild zu erledigen.",
+      "anchor": "François’ vertraute Postrunde bekommt einen fremden Takt.",
+      "interest": "François’ vertraute Postrunde bekommt einen fremden Takt.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was kommt in @ in das Dorf und verändert den gewohnten Alltag?",
+      "answers": [
+        "Ein reisender Jahrmarkt",
+        "Eine Wanderfilmproduktion",
+        "Eine Verkaufsausstellung für Landmaschinen",
+        "Eine große Hochzeitsgesellschaft"
+      ],
+      "feedback": [
+        "Ein Jahrmarkt bringt Unterhaltung und Unruhe in das Dorf.",
+        "Der Jahrmarkt bringt Fahrgeschäfte und ein Kinozelt, keine Filmproduktion.",
+        "Eine reine Landmaschinenausstellung ist nicht das Ereignis.",
+        "Eine Hochzeit ist nicht der Anlass der Dorfbelebung."
+      ],
+      "short": "Ein Jahrmarkt bringt Unterhaltung und Unruhe in das Dorf.",
+      "context": "Der Jahrmarkt zieht mit seinen Fahrgeschäften und einem Kinozelt ein. François (Jacques Tati) lässt sich von Schaustellern in ihren Spaß hineinziehen. Das Fest schafft einen zeitlich begrenzten Ausnahmezustand, in dem neue Bilder, Vergleiche und Herausforderungen den sonst verlässlichen dörflichen Rhythmus aufbrechen.",
+      "anchor": "Das Fest liefert François einen neuen Maßstab für seine Arbeit.",
+      "interest": "Das Fest liefert François einen neuen Maßstab für seine Arbeit.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welches Vorbild will François (Jacques Tati) in @ nach dem Film im Kinozelt nachahmen?",
+      "answers": [
+        "Die angeblich rasante amerikanische Post",
+        "Die zentral organisierte britische Paketverteilung",
+        "Die motorisierte französische Landzustellung",
+        "Die vollständig automatisierte Pariser Postsortierung"
+      ],
+      "feedback": [
+        "Ein Film über die US-Post treibt François zu schnellerer Zustellung.",
+        "Der Film im Kinozelt präsentiert angebliche amerikanische Effizienz.",
+        "François nimmt sich den gezeigten amerikanischen Dienst zum Vorbild.",
+        "Eine Pariser Sortieranlage ist nicht sein Vorbild."
+      ],
+      "short": "Ein Film über die US-Post treibt François zu schnellerer Zustellung.",
+      "context": "Im Kinozelt wird die amerikanische Post als verblüffend effizient vorgeführt. François (Jacques Tati) soll nun ebenfalls den transatlantischen Schwung übernehmen, obwohl er weiterhin nur sein Fahrrad hat. Der Gegensatz zwischen dem bewunderten Technikbild und den örtlichen Möglichkeiten setzt die folgende hektische Runde in Gang.",
+      "anchor": "Amerikanischer Tempostolz trifft auf das französische Dorf-Fahrrad.",
+      "interest": "Amerikanischer Tempostolz trifft auf das französische Dorf-Fahrrad.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welches Verkehrsmittel hat François (Jacques Tati) in @ für seine beschleunigte Zustellung?",
+      "answers": [
+        "Ein Fahrrad",
+        "Ein Motorrad mit Beiwagen",
+        "Ein Postflugzeug",
+        "Ein Lieferwagen"
+      ],
+      "feedback": [
+        "François muss seine schnellen Pläne mit einem Fahrrad umsetzen.",
+        "Ein Beiwagenmotorrad steht ihm nicht zur Verfügung.",
+        "Ein Flugzeug liefert seine Post nicht.",
+        "Ein Lieferwagen ersetzt das Fahrrad nicht."
+      ],
+      "short": "François muss seine schnellen Pläne mit einem Fahrrad umsetzen.",
+      "context": "Das einfache Fahrrad bildet den materiellen Gegenpol zum Film über die moderne amerikanische Post. François (Jacques Tati) kann sein Vorbild nicht durch dieselbe technische Ausstattung erreichen. Deshalb muss sein eigener Körper das gewünschte Tempo erzeugen; aus dem Effizienzversprechen werden sichtbare Anstrengung und akrobatische Umwege.",
+      "anchor": "Die Modernisierung sitzt auf einem gewöhnlichen Fahrrad.",
+      "interest": "Die Modernisierung sitzt auf einem gewöhnlichen Fahrrad.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie endet François’ (Jacques Tati) hektischer Versuch amerikanischer Effizienz in @?",
+      "answers": [
+        "Er hilft bei der Heuernte, während ein Junge die Runde beendet.",
+        "Er übergibt seine Posttasche an die Jahrmarktsarbeiter.",
+        "Er beendet die ganze Runde als lokaler Geschwindigkeitsrekordhalter.",
+        "Er verlässt den Jahrmarkt, um sofort in der Stadt zu arbeiten."
+      ],
+      "feedback": [
+        "François hilft einer Familie; der Junge übernimmt die restliche Post.",
+        "Ein Junge beendet die Zustellung, während François bei der Ernte hilft.",
+        "Das Ende feiert keine lückenlos vollendete Rekordrunde.",
+        "François geht nicht sofort in eine neue Stadtstelle."
+      ],
+      "short": "François hilft einer Familie; der Junge übernimmt die restliche Post.",
+      "context": "Der erschöpfte François (Jacques Tati) unterbricht seine Tempojagd, um beim Aufladen frisch gemähten Heus zu helfen. Der Junge aus dem Auftakt bringt die Post weiter. Der Film endet damit bei einer gemeinschaftlichen Tätigkeit, deren Wert nicht allein an der Geschwindigkeit einer technischen Vorführung gemessen werden kann.",
+      "anchor": "Die Hilfe bei der Ernte beendet François’ Tempojagd.",
+      "interest": "Die Hilfe bei der Ernte beendet François’ Tempojagd.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum erschien @ zunächst in Schwarzweiß, obwohl auch Farbmaterial gedreht worden war?",
+      "answers": [
+        "Das verwendete Thomsoncolor-Verfahren konnte damals nicht fertig ausgewertet werden.",
+        "Die Farbnegative waren während des Schnitts unauffindbar.",
+        "Der Verleih wollte nur billigere Schwarzweißkopien bezahlen.",
+        "Tati verwarf die Farbaufnahmen nach Testvorführungen bewusst."
+      ],
+      "feedback": [
+        "Die technische Auswertung des neuen Farbverfahrens scheiterte zunächst.",
+        "Das Material war erhalten; seine damalige Auswertung war technisch nicht möglich.",
+        "Die entscheidende Hürde lag im Thomsoncolor-Verfahren, nicht nur in Kopierkosten.",
+        "Tati hatte die Farbe geplant und nicht aus reinem Stilwillen vollständig verworfen."
+      ],
+      "short": "Die technische Auswertung des neuen Farbverfahrens scheiterte zunächst.",
+      "context": "Tati ließ Schwarzweiß- und Thomsoncolor-Aufnahmen parallel herstellen. Der Sicherheitsweg bewahrte den Film, als das experimentelle Farbverfahren nicht praktikabel ausgewertet werden konnte. Seine Tochter Sophie Tatischeff und François Ede arbeiteten später an der Wiederherstellung der Farben. Es handelt sich um erhaltenes Originalmaterial und keine nachträgliche erfundene Farbgestaltung.",
+      "anchor": "Parallel gedrehter Schwarzweißfilm rettete die ursprüngliche Veröffentlichung.",
+      "interest": "Parallel gedrehter Schwarzweißfilm rettete die ursprüngliche Veröffentlichung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1949",
+        "1945",
+        "1948",
+        "1952"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1949.",
+        "1945 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1948 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1952 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1949.",
+      "context": "Schützenfest wurde 1949 zunächst in Schwarzweiß veröffentlicht, weil die Thomsoncolor-Aufnahmen noch nicht fertig auswertbar waren. Die restaurierte Farbversion erschien 1995, 46 Jahre später. Tatis Tochter Sophie Tatischeff und François Ede arbeiteten dafür mit dem erhaltenen Material; die späte Farbveröffentlichung ändert das ursprüngliche Filmjahr nicht.",
+      "anchor": "Schwarzweißstart 1949, restaurierte Farbversion 1995: 46 Jahre bis zur geplanten Farbe.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Schwarzweißstart 1949, restaurierte Farbversion 1995: 46 Jahre bis zur geplanten Farbe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jacques Tati",
+        "René Clair",
+        "Pierre Étaix",
+        "Marcel Pagnol"
+      ],
+      "feedback": [
+        "Jacques Tati führte Regie.",
+        "René Clair gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Pierre Étaix gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Marcel Pagnol gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Jacques Tati.",
+      "context": "Jacques Tati gab mit diesem Film sein Regiedebüt im langen Kinoformat und spielt den Briefträger François. Die Figur ist nicht Monsieur Hulot. Die Handlung wurde größtenteils in Sainte-Sévère-sur-Indre gedreht; Bewohner des Ortes standen neben den professionellen Darstellern vor der Kamera.",
+      "anchor": "Jacques Tati: Die Figur ist nicht Monsieur Hulot.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

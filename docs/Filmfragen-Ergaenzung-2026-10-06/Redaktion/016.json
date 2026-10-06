@@ -1,0 +1,216 @@
+{
+  "rank": 16,
+  "directors": [
+    "James Gray"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein Kennerfilm über historische Expeditionen; weniger breit bekannt als klassische Schatzabenteuer.",
+  "release_note": "Weltpremiere am 15. Oktober 2016 als Schlussfilm des New York Film Festival. Der breite US-Kinostart 2017 ist nicht das erste Veröffentlichungsjahr.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Lost_City_of_Z_(film)",
+    "verleih": "https://bleeckerstreetmedia.com/thelostcityofz",
+    "nyff": "https://www.filmlinc.org/nyff2016/films/the-lost-city-of-z/",
+    "premiere": "https://www.filmlinc.org/press/36103/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Region sucht Percy Fawcett (Charlie Hunnam) in @ nach einer alten Stadt?",
+      "answers": [
+        "Im Amazonasgebiet",
+        "In der Antarktis",
+        "In der Sahara",
+        "Im Himalaya"
+      ],
+      "feedback": [
+        "Seine Expeditionen führen in den amazonischen Regenwald.",
+        "Die Antarktis ist nicht sein Suchraum.",
+        "Eine Saharastadt ist nicht das Ziel.",
+        "Der Himalaya ist nicht der Schauplatz dieser Expeditionen."
+      ],
+      "short": "Fawcett sucht im Amazonasgebiet.",
+      "context": "Fawcett stößt dort auf Hinweise, die seinen Vorstellungen von der Geschichte der Region widersprechen. Die Suche führt ihn immer wieder von seiner Familie in Großbritannien weg. Die geografische Entfernung bekommt so persönliche Folgen.",
+      "anchor": "Fawcetts Suche zieht ihn immer wieder in den Amazonas.",
+      "interest": "Der Suchraum verbindet Abenteuer und Lebenskonflikt.",
+      "sources": [
+        "verleih",
+        "nyff"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Ausgangspunkt prägt Fawcetts (Charlie Hunnam) Laufbahn in @, bevor er zum Entdecker wird?",
+      "answers": [
+        "Er ist britischer Offizier.",
+        "Er ist brasilianischer Opernsänger.",
+        "Er ist amerikanischer Zeitungsverleger.",
+        "Er ist französischer Goldschmied."
+      ],
+      "feedback": [
+        "Fawcett beginnt als britischer Militärmann.",
+        "Er stammt nicht aus einer brasilianischen Gesangskarriere.",
+        "Die Zeitungsverleger fördern ihn später, sind aber nicht sein Beruf.",
+        "Goldschmied ist nicht sein Ausgangsberuf."
+      ],
+      "short": "Fawcett ist ein britischer Offizier.",
+      "context": "Seine militärische Laufbahn führt ihn zu einem Vermessungsauftrag. Die spätere Suche wächst aus dieser Aufgabe heraus. Der Film zeigt damit keinen Abenteurer, der von Beginn an ausschließlich eine sagenhafte Stadt verfolgt.",
+      "anchor": "Vom britischen Offizier führt Fawcetts Weg zur Expedition.",
+      "interest": "Der Beruf ordnet den Beginn seines ungewöhnlichen Lebenswegs ein.",
+      "sources": [
+        "nyff",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welchen sachlichen Auftrag soll Fawcett (Charlie Hunnam) bei seiner ersten Reise in @ erledigen?",
+      "answers": [
+        "Die Grenze zwischen Bolivien und Brasilien vermessen",
+        "Eine geplante Bahntrasse durch den Regenwald vermessen",
+        "Den Verlauf einer neuen Schifffahrtsroute kartieren",
+        "Die Lage einer Mine für ein britisches Unternehmen prüfen"
+      ],
+      "feedback": [
+        "Ein Grenzkonflikt begründet den Vermessungsauftrag.",
+        "Der anfängliche Auftrag gilt der Landesgrenze, nicht einer Bahntrasse.",
+        "Die Grenzvermessung ist der Ausgangspunkt, keine neue Schifffahrtsroute.",
+        "Ein Minenauftrag ist nicht der Anlass seiner ersten Reise."
+      ],
+      "short": "Er soll die Grenze zwischen Bolivien und Brasilien vermessen.",
+      "context": "Wirtschaftliche Interessen am Kautschuk verschärfen den Grenzstreit. Auf der Vermessungsreise begegnet Fawcett materiellen Spuren, die sein Interesse an einer älteren Zivilisation wecken. Aus dem Auftrag entsteht ein eigenes Forschungsziel.",
+      "anchor": "Der Grenzauftrag führt Fawcett zu seiner späteren Suche.",
+      "interest": "Der offizielle Zweck wird vom daraus entstandenen persönlichen Ziel unterschieden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum muss Fawcetts Expedition in @ nach der Trennung von James Murray (Angus Macfadyen) aufgegeben werden?",
+      "answers": [
+        "Murray hat die Vorräte mit Paraffin unbrauchbar gemacht.",
+        "Ein Hochwasser hat sämtliche Messgeräte fortgespült.",
+        "Die Boote sind von einer Patrouille beschlagnahmt worden.",
+        "Ein örtlicher Führer hat die verbliebenen Lebensmittel mitgenommen."
+      ],
+      "feedback": [
+        "Die beschädigten Vorräte verhindern das Weiterreisen.",
+        "Die zerstörten Vorräte, nicht verlorene Messgeräte, machen die Fortsetzung unmöglich.",
+        "Keine Beschlagnahmung der Boote verursacht diesen Abbruch.",
+        "Murray macht die Vorräte mit Paraffin unbrauchbar."
+      ],
+      "short": "Paraffin hat die Vorräte zerstört.",
+      "context": "Der erkrankte Murray wird mit einem Führer zurückgeschickt. Fawcett (Charlie Hunnam) entdeckt anschließend den Schaden an den Lebensmitteln. Körperliche Belastung und Konflikte innerhalb der Gruppe gefährden die Expedition ebenso wie die Landschaft.",
+      "anchor": "Murrays beschädigte Vorräte stoppen die Expedition.",
+      "interest": "Eine konkrete Entscheidung im Team hat entscheidende Folgen für die Reise.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche ungewöhnliche Bildverbindung beendet @ mit Nina Fawcett (Sienna Miller)?",
+      "answers": [
+        "Ihr Spiegelbild scheint in den Amazonas hinauszugehen.",
+        "Ihr Fensterblick geht in eine Expeditionsfotografie über.",
+        "Ihr Porträt wird mit einer Aufnahme ihres verschwundenen Sohnes überblendet.",
+        "Ihr Schatten auf der Wand nimmt die Form eines Flussboots an."
+      ],
+      "feedback": [
+        "Das Spiegelbild verbindet den englischen Innenraum mit dem Dschungel.",
+        "Der Schluss arbeitet mit ihrem Spiegelbild und dem scheinbaren Übergang in den Dschungel.",
+        "Eine Überblendung zum Porträt des Sohnes ist nicht diese Schlussverbindung.",
+        "Das Bild eines Flussboots im Schatten ist nicht die beschriebene Einstellung."
+      ],
+      "short": "Das Schlussbild verbindet Ninas Spiegelbild mit dem Amazonas.",
+      "context": "Nina hält an der Möglichkeit fest, Percy (Charlie Hunnam) und Jack (Tom Holland) könnten noch leben. Der Bildübergang liefert keinen dokumentarischen Beweis dafür. Er lässt die Suche in der Gestaltung des Films fortbestehen.",
+      "anchor": "Ninas Spiegelbild trägt die Suche aus England in den Dschungel.",
+      "interest": "Ein präzise beschreibbares Schlussbild wird von historischen Beweisen unterschieden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Auf welcher Art von Vorlage beruht @?",
+      "answers": [
+        "Auf David Granns Sachbuch über Fawcetts Suche",
+        "Auf einem Roman von Jules Verne",
+        "Auf einem Theaterstück von Oscar Wilde",
+        "Auf einem Reisegedicht von Rudyard Kipling"
+      ],
+      "feedback": [
+        "Granns dokumentarisches Buch bildet die Vorlage.",
+        "Ein Verne-Roman wurde hier nicht adaptiert.",
+        "Ein Wilde-Stück ist nicht die Vorlage.",
+        "Kiplings Reisegedicht ist nicht die Grundlage."
+      ],
+      "short": "James Gray adaptierte David Granns Sachbuch.",
+      "context": "Das Buch behandelt Fawcetts Expeditionen und das Rätsel seines Verschwindens. Der Film konzentriert sich auf den Lebensweg und die Beziehungen des Entdeckers. Eine Sachbuchvorlage macht die inszenierten Szenen nicht zu unveränderten historischen Aufnahmen.",
+      "anchor": "Granns Sachbuch wird bei Gray zur inszenierten Lebensgeschichte.",
+      "interest": "Die Vorlage klärt den Status zwischen Geschichte und filmischer Darstellung.",
+      "sources": [
+        "premiere",
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Charlie Hunnam bei seiner Weltpremiere erstmals veröffentlicht?",
+      "answers": [
+        "2016",
+        "2009",
+        "2017",
+        "2022"
+      ],
+      "feedback": [
+        "Die Weltpremiere in New York war 2016.",
+        "2009 erschien das Buch von David Grann.",
+        "2017 war der spätere breite US-Kinostart.",
+        "2022 liegt nach beiden Filmstarts."
+      ],
+      "short": "Die erste Veröffentlichung lag 2016.",
+      "context": "David Granns Buch erschien 2009, die Verfilmung wurde 2016 erstmals gezeigt. Sieben Jahre liegen dazwischen. Die Festivalpremiere ging dem breiten US-Kinostart 2017 voraus; für die Einordnung zählt der frühere Filmtermin.",
+      "anchor": "2009 das Buch, 2016 die Weltpremiere: sieben Jahre bis zur Verfilmung.",
+      "interest": "Die Buchverbindung gibt dem wichtigen Premierenjahr einen inhaltlichen Anker.",
+      "sources": [
+        "handlung",
+        "premiere"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Charlie Hunnam, Robert Pattinson und Sienna Miller Regie?",
+      "answers": [
+        "James Gray",
+        "Werner Herzog",
+        "Terrence Malick",
+        "David Lean"
+      ],
+      "feedback": [
+        "Gray schrieb und inszenierte den Film.",
+        "Herzog ist nicht der Regisseur dieser Fassung.",
+        "Malick führte hier nicht Regie.",
+        "Lean inszenierte diesen späteren Film nicht."
+      ],
+      "short": "James Gray führte Regie.",
+      "context": "Gray schrieb die Adaption von David Granns Buch. Kameramann Darius Khondji gestaltete mit ihm die historische Expedition und die englischen Innenräume. Das Festival stellte den Film als Grays groß angelegte Lebens- und Expeditionsgeschichte vor.",
+      "anchor": "Gray adaptiert Grann; Khondji gestaltet die Bildwelt mit ihm.",
+      "interest": "Die Regie wird mit der konkreten Adaption und Bildarbeit verbunden.",
+      "sources": [
+        "premiere",
+        "nyff"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

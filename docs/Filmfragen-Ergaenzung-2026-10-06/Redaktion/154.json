@@ -1,0 +1,220 @@
+{
+  "rank": 154,
+  "directors": [
+    "Jonathan Demme"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Berühmter Konzertfilm unter Musik- und Filmfans; die restaurierte Wiederaufführung erweitert seine heutige Präsenz.",
+  "release_note": "Festivalpremiere am 24. April 1984 in San Francisco; US-Kinostart im Oktober 1984.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Stop_Making_Sense",
+    "a24": "https://a24films.com/films/stop-making-sense",
+    "credits_rt": {
+      "url": "http://www.rottentomatoes.com/m/talking_heads_stop_making_sense/",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Band steht im Mittelpunkt von @?",
+      "answers": [
+        "Talking Heads",
+        "The Police",
+        "Roxy Music",
+        "Blondie"
+      ],
+      "feedback": [
+        "Der Konzertfilm zeigt Talking Heads.",
+        "The Police sind nicht die gezeigte Band.",
+        "Roxy Music steht nicht im Zentrum.",
+        "Blondie ist nicht das Konzertensemble."
+      ],
+      "short": "Der Konzertfilm zeigt Talking Heads.",
+      "context": "David Byrne, Tina Weymouth, Chris Frantz und Jerry Harrison treten mit zusätzlichen Musikern und Sängerinnen auf. Der Film bleibt bei ihrer Aufführung. Er erklärt die Band nicht durch biografische Kommentare, sondern zeigt, wie aus verschiedenen Körpern und Instrumenten ein gemeinsamer Auftritt entsteht.",
+      "anchor": "Talking Heads werden durch ihre Aufführung vorgestellt.",
+      "interest": "Talking Heads werden durch ihre Aufführung vorgestellt.",
+      "sources": [
+        "handlung",
+        "a24",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie beginnt David Byrne den Bühnenauftritt in @?",
+      "answers": [
+        "Allein mit Akustikgitarre und einem tragbaren Kassettenspieler",
+        "Mit der vollständigen Band hinter einem Vorhang",
+        "Mit einem Klaviersolo im Orchestergraben",
+        "Mit einer Ansprache aus dem Zuschauerraum"
+      ],
+      "feedback": [
+        "Byrne kommt zunächst allein auf die weitgehend leere Bühne.",
+        "Die vollständige Band ist noch nicht aufgestellt.",
+        "Ein Klaviersolo im Graben eröffnet den Film nicht.",
+        "Byrne spricht nicht aus dem Zuschauerraum."
+      ],
+      "short": "Byrne kommt zunächst allein auf die weitgehend leere Bühne.",
+      "context": "David Byrne beginnt Psycho Killer mit Gitarre und einem kleinen Abspielgerät als sichtbarem Requisit. Die Ausstattung ist zunächst knapp. Weil später Personal und Instrumente dazukommen, wird dieses reduzierte Anfangsbild zum Ausgangspunkt eines sichtbaren Wachstums.",
+      "anchor": "Der große Konzertabend beginnt mit einem einzelnen Musiker.",
+      "interest": "Der große Konzertabend beginnt mit einem einzelnen Musiker.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was geschieht mit der Bühne in den ersten Liedern von @?",
+      "answers": [
+        "Musiker und Ausstattung kommen nach und nach hinzu.",
+        "Sie wird nach jedem Lied vollständig leergeräumt.",
+        "Die Band wechselt ständig in neue Konzertsäle.",
+        "Ein gemalter Hintergrund bleibt alleiniger Bildgegenstand."
+      ],
+      "feedback": [
+        "Die Bühne und das Ensemble wachsen schrittweise.",
+        "Ein vollständiges Abräumen nach jedem Lied findet nicht statt.",
+        "Ein Saalwechsel strukturiert den Film nicht.",
+        "Die Musiker bleiben die zentralen Bildgegenstände."
+      ],
+      "short": "Die Bühne und das Ensemble wachsen schrittweise.",
+      "context": "Nach David Byrne kommen Tina Weymouth, Chris Frantz und weitere Mitwirkende hinzu. Technisches Gerät wird hereingerollt. Die Aufführung macht ihren eigenen Aufbau sichtbar, statt die fertige Besetzung zu Beginn vorauszusetzen; jedes neue Element verändert den musikalischen und räumlichen Eindruck.",
+      "anchor": "Jedes weitere Lied baut den gemeinsamen Bühnenraum aus.",
+      "interest": "Jedes weitere Lied baut den gemeinsamen Bühnenraum aus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was ist an David Byrnes Kostüm bei „Girlfriend Is Better“ in @ besonders auffällig?",
+      "answers": [
+        "Ein stark übergroßer Anzug",
+        "Ein eng anliegender weißer Smoking",
+        "Ein Mantel mit auffällig langem Schleppsaum",
+        "Ein Anzug mit wechselnden farbigen Lichtmustern"
+      ],
+      "feedback": [
+        "Byrne trägt den berühmten übergroßen Anzug.",
+        "Der charakteristische Anzug ist ungewöhnlich groß geschnitten.",
+        "Nicht die Länge einer Schleppe, sondern das Volumen des Anzugs fällt auf.",
+        "Der Schnitt und die Größe sind die Besonderheit."
+      ],
+      "short": "Byrne trägt den berühmten übergroßen Anzug.",
+      "context": "David Byrnes weite Silhouette verändert die Wahrnehmung seines Körpers. Die Bewegungen bleiben sichtbar, während der Kopf im Verhältnis kleiner erscheint. Das Kostüm führt die Musik als körperlichen Vorgang vor und wird zu einem eigenen visuellen Motiv der Aufführung.",
+      "anchor": "Der große Anzug vergrößert die Bewegung und verkleinert den Kopf.",
+      "interest": "Der große Anzug vergrößert die Bewegung und verkleinert den Kopf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was unterscheidet den Bildaufbau von @ von vielen Konzertfilmen?",
+      "answers": [
+        "Das Publikum wird bis fast zum Schluss kaum direkt gezeigt.",
+        "Die Kamera zeigt überwiegend nur das Publikum.",
+        "Alle Lieder werden von Bandinterviews unterbrochen.",
+        "Die Aufführung erscheint dauerhaft als viergeteiltes Bild."
+      ],
+      "feedback": [
+        "Der Film konzentriert sich fast vollständig auf die Bühne.",
+        "Die Zuschauermenge dominiert die Bilder gerade nicht.",
+        "Bandinterviews unterbrechen die Lieder nicht.",
+        "Ein permanentes Vierfachbild ist nicht die Form."
+      ],
+      "short": "Der Film konzentriert sich fast vollständig auf die Bühne.",
+      "context": "Direkte Publikumsbilder treten erst bei Crosseyed and Painless auf. Die vorherige Konzentration auf das Ensemble lässt Zuschauer des Films die Zusammenhänge der Bühnenarbeit selbst verfolgen. Der reale Saal bleibt hörbar und wirksam, ohne ständig als Schnittbild bestätigt zu werden.",
+      "anchor": "Das Publikum hört man, während man vor allem die Bühne sieht.",
+      "interest": "Das Publikum hört man, während man vor allem die Bühne sieht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Woher stammt der Rhythmus unter dem scheinbar abgespielten Band bei „Psycho Killer“ in @ tatsächlich?",
+      "answers": [
+        "Von einer gesteuerten Drum Machine am Mischpult",
+        "Von Chris Frantz hinter der Bühne",
+        "Von einem live spielenden Straßenmusiker vor dem Theater",
+        "Von einem versteckten mechanischen Metronom"
+      ],
+      "feedback": [
+        "Der Takt kommt von einer Roland-Drum-Machine am Mischpult.",
+        "Chris Frantz spielt den Anfangsrhythmus nicht versteckt live.",
+        "Ein Straßenmusiker liefert ihn nicht.",
+        "Ein mechanisches Metronom ist nicht die Quelle."
+      ],
+      "short": "Der Takt kommt von einer Roland-Drum-Machine am Mischpult.",
+      "context": "David Byrne kündigt an, eine Kassette abspielen zu wollen. Der Rhythmus wird tatsächlich vom Mischpult aus erzeugt. Das sichtbare Abspielgerät gehört zur Inszenierung eines einfachen Solobeginns, während die technische Organisation schon hinter diesem reduzierten Eindruck mitarbeitet.",
+      "anchor": "Die sichtbare Kassette verbirgt den technisch gesteuerten Bühnenrhythmus.",
+      "interest": "Die sichtbare Kassette verbirgt den technisch gesteuerten Bühnenrhythmus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1984",
+        "1980",
+        "1983",
+        "1987"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1984.",
+        "1980 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1983 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1987 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1984.",
+      "context": "Stop Making Sense erschien 1984. Die Konzertaufnahmen entstanden im Dezember 1983, im Jahr zuvor. Die 4K-Wiederveröffentlichung folgte 2023, 39 Jahre nach dem ursprünglichen Film. A 24 führt diese restaurierte Fassung als Veröffentlichung von 2023; das erste Filmjahr bleibt wegen der damaligen Premiere 1984.",
+      "anchor": "Aufnahmen 1983, Film 1984, 4K-Fassung 2023: 39 Jahre bis zur restaurierten Wiederaufführung.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Aufnahmen 1983, Film 1984, 4K-Fassung 2023: 39 Jahre bis zur restaurierten Wiederaufführung.",
+      "sources": [
+        "handlung",
+        "a24"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jonathan Demme",
+        "Martin Scorsese",
+        "D. A. Pennebaker",
+        "Jim Jarmusch"
+      ],
+      "feedback": [
+        "Jonathan Demme führte Regie.",
+        "Martin Scorsese gehört nicht zum Regiecredit dieser Filmfassung.",
+        "D. A. Pennebaker gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Jim Jarmusch gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Jonathan Demme.",
+      "context": "Jonathan Demme führte Regie. Der Film konzentriert sich auf die Bühnenaufführung statt auf Interviews oder eine Bandbiografie. Demmes Kamera verfolgt Körper, Instrumente und Zusammenarbeit; der schrittweise Aufbau der Bühne wird selbst zu einem erzählerischen Verlauf.",
+      "anchor": "Jonathan Demme: Der Film konzentriert sich auf die Bühnenaufführung statt auf Interviews oder eine Bandbiografie.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "a24",
+        "credits_rt",
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

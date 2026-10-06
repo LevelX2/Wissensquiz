@@ -1,0 +1,217 @@
+{
+  "rank": 193,
+  "directors": [
+    "Steven Soderbergh"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine bekannte Vorlage in einer zurückhaltenden Clooney-Fassung; redaktionell ein Kennerfilm.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 2002; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Solaris_(2002_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Solaris_(2002_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Auftrag soll Chris Kelvin (George Clooney) bei der Raumstation in @ erfüllen?",
+      "answers": [
+        "Die Besatzung nach ihren verstörenden Erlebnissen heimbringen",
+        "Die Besatzung für eine neue Forschungsphase auszutauschen",
+        "Die Station nach einem Unfall technisch zu reparieren",
+        "Den Planeten für eine neue Kolonie zu untersuchen"
+      ],
+      "feedback": [
+        "Kelvin soll die Besatzung sicher nach Hause bringen.",
+        "Kelvin soll die Verstörten zur Rückkehr bewegen.",
+        "Er ist nicht als Reparaturtechniker geschickt.",
+        "Eine Kolonieplanung ist nicht seine Mission."
+      ],
+      "short": "Kelvin soll die Besatzung sicher nach Hause bringen.",
+      "context": "Kelvin soll die Besatzung sicher nach Hause bringen. Die Wissenschaftler wollen jedoch nicht zurück oder können ihr Verhalten kaum erklären; seine Hilfe wird durch eigene persönliche Erscheinungen auf der Station erschwert.",
+      "anchor": "Die Rettungsmission trifft auf die eigenen Erinnerungen des Helfers.",
+      "interest": "Die Rettungsmission trifft auf die eigenen Erinnerungen des Helfers.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie reagiert Kelvin (George Clooney) in @ zuerst auf Rheyas unerwartete Wiederkehr?",
+      "answers": [
+        "Er schickt sie in einer Kapsel ins All.",
+        "Er versteckt sie zunächst vor den anderen Forschern.",
+        "Er versucht, sie sofort zur Erde mitzunehmen.",
+        "Er übergibt sie Gordon zur Untersuchung."
+      ],
+      "feedback": [
+        "Kelvin sendet die erste Erscheinung von Rheya (Natascha McElhone) in einer Kapsel fort.",
+        "Er schickt die erste Erscheinung in einer Kapsel fort.",
+        "Er beseitigt zuerst ihre unmittelbare Anwesenheit.",
+        "Die erste Reaktion ist das Aussetzen im All."
+      ],
+      "short": "Kelvin sendet die erste Erscheinung von Rheya (Natascha McElhone) in einer Kapsel fort.",
+      "context": "Kelvin sendet die erste Erscheinung von Rheya (Natascha McElhone) in einer Kapsel fort. Als sie erneut erscheint, lässt er sie bleiben; dieselbe Konfrontation erhält durch seine veränderte Entscheidung einen anderen Verlauf.",
+      "anchor": "Kelvin weist die erste Rheya zurück und behält die zweite.",
+      "interest": "Kelvin weist die erste Rheya zurück und behält die zweite.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum empfindet Rheya (Natascha McElhone) in @ ihre Erinnerungen als unvollständig?",
+      "answers": [
+        "Sie stammen aus Kelvins Bild von ihr, nicht aus eigenem Erleben.",
+        "Sie hat eine vor der Mission erlittene Hirnverletzung.",
+        "Sie erinnert sich nur an die Zeit nach ihrem Tod.",
+        "Gordon hat ihre Erinnerung gezielt gelöscht."
+      ],
+      "feedback": [
+        "Die neue Rheya entsteht aus Chris Kelvins (George Clooney) Erinnerungen.",
+        "Ihre Erinnerungen entstehen aus Kelvins Bild der verstorbenen Frau.",
+        "Die künstliche Person verfügt über Kelvins fragmentarische Erinnerung.",
+        "Die Begrenzung ist Teil ihrer Entstehung, keine Löschung durch Gordon."
+      ],
+      "short": "Die neue Rheya entsteht aus Chris Kelvins (George Clooney) Erinnerungen.",
+      "context": "Die neue Rheya entsteht aus Chris Kelvins (George Clooney) Erinnerungen. Sie besitzt Informationen, aber nicht die vollständige emotionale Lebensgeschichte der Verstorbenen; die Ähnlichkeit lässt deshalb ihre eigene Identität unsicher bleiben.",
+      "anchor": "Eine erinnerte Person ist nicht automatisch das ganze frühere Leben.",
+      "interest": "Eine erinnerte Person ist nicht automatisch das ganze frühere Leben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Entdeckung über Snow (Jeremy Davies) überrascht Kelvin in @?",
+      "answers": [
+        "Der anwesende Snow ist ebenfalls ein Doppelgänger.",
+        "Snow arbeitet heimlich als Beobachter von der Erde.",
+        "Snow hat sämtliche Erscheinungen technisch erzeugt.",
+        "Snow hat sich seit Beginn der Mission nur versteckt."
+      ],
+      "feedback": [
+        "Kelvin und Gordon (Viola Davis) finden den toten ursprünglichen Snow.",
+        "Die Entdeckung betrifft einen auf der Station vorhandenen Doppelgänger.",
+        "Die Figuren werden vom Planeten erzeugt, nicht von Snow.",
+        "Der ursprüngliche Snow ist nicht der Mann, der mit Kelvin spricht."
+      ],
+      "short": "Kelvin und Gordon (Viola Davis) finden den toten ursprünglichen Snow.",
+      "context": "Kelvin und Gordon (Viola Davis) finden den toten ursprünglichen Snow. Der ihnen bekannte Mann ist eine weitere Erscheinung; die Grenze zwischen Besatzung und Besuchern ist dadurch weniger eindeutig, als Gordon angenommen hatte.",
+      "anchor": "Auch ein scheinbarer Besatzungsangehöriger kann eine Erscheinung sein.",
+      "interest": "Auch ein scheinbarer Besatzungsangehöriger kann eine Erscheinung sein.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum bittet Rheya (Natascha McElhone) in @ Gordon um ihre endgültige Beseitigung?",
+      "answers": [
+        "Sie möchte ihre künstliche Fortexistenz beenden.",
+        "Sie will Kelvin zu einer rascheren Abreise zwingen.",
+        "Sie glaubt, Gordon könne ihre Originalerinnerungen wiederherstellen.",
+        "Sie möchte mit der nächsten Kapsel auf die Erde gelangen."
+      ],
+      "feedback": [
+        "Rheya bittet Gordon (Viola Davis), das Vernichtungsgerät zu benutzen.",
+        "Rheya will ihre als künstlich erkannte Existenz beenden.",
+        "Die Bitte gilt einer Beseitigung, nicht Erinnerungskorrektur.",
+        "Sie bittet um Vernichtung statt Transport."
+      ],
+      "short": "Rheya bittet Gordon (Viola Davis), das Vernichtungsgerät zu benutzen.",
+      "context": "Rheya bittet Gordon (Viola Davis), das Vernichtungsgerät zu benutzen. Kelvin (George Clooney) möchte sie bewahren, doch ihre eigene Entscheidung widerspricht seiner Hoffnung; die vermeintliche Wiederherstellung der Liebe lässt ihre Selbstbestimmung nicht verschwinden.",
+      "anchor": "Kelvins Wunsch nach Bewahrung kollidiert mit Rheyas eigener Entscheidung.",
+      "interest": "Kelvins Wunsch nach Bewahrung kollidiert mit Rheyas eigener Entscheidung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Woran erkennt Kelvin (George Clooney) im Schluss von @, dass sein Alltag nicht die gewöhnliche Erde ist?",
+      "answers": [
+        "Eine Schnittwunde heilt sofort.",
+        "Er entdeckt ein fremdes Gesicht im Spiegel.",
+        "Er findet eine abweichende Adresse auf seinen Briefen.",
+        "Er kann den Raum nicht mehr verlassen."
+      ],
+      "feedback": [
+        "Kelvins Fingerwunde schließt sich sofort.",
+        "Die sofort heilende Schnittwunde ist der Hinweis.",
+        "Ein Adressdetail enthüllt die Lage nicht.",
+        "Die wundersame Heilung, nicht eine räumliche Sperre, zeigt die Veränderung."
+      ],
+      "short": "Kelvins Fingerwunde schließt sich sofort.",
+      "context": "Kelvins Fingerwunde schließt sich sofort. Das scheinbar gewöhnliche Küchenleben erweist sich dadurch als Fortsetzung seiner Solaris-Erfahrung; die tatsächliche Entscheidung, auf der Station zu bleiben, tritt hinter der zunächst beruhigenden Alltagsszene hervor.",
+      "anchor": "Die sofort geheilte Wunde entlarvt das vermeintliche Zuhause.",
+      "interest": "Die sofort geheilte Wunde entlarvt das vermeintliche Zuhause.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit George Clooney erstmals veröffentlicht?",
+      "answers": [
+        "2002",
+        "1999",
+        "1995",
+        "2004"
+      ],
+      "feedback": [
+        "2002 erschien die Clooney-Fassung.",
+        "1999 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2002 wird im zeitlichen Hintergrund erklärt.",
+        "1995 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2002 wird im zeitlichen Hintergrund erklärt.",
+        "2004 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2002 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2002 erschien die Clooney-Fassung.",
+      "context": "2002 erschien die Clooney-Fassung. Andrei Tarkowskis frühere Verfilmung stammt von 1972, genau dreißig Jahre zuvor; beide greifen auf Stanisław Lems Roman zurück. Das Jahrpaar grenzt zwei unterschiedliche filmische Annäherungen an Erinnerung und fremde Intelligenz ab.",
+      "anchor": "Solaris 1972, neue Fassung 2002: Dreißig Jahre trennen Tarkowskis und Soderberghs Annäherungen an Lems Stoff.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit George Clooney Regie?",
+      "answers": [
+        "Steven Soderbergh",
+        "Alex Garland",
+        "Gareth Edwards",
+        "Duncan Jones"
+      ],
+      "feedback": [
+        "Steven Soderbergh schrieb und inszenierte die Fassung; James Cameron gehört zum Produktionsteam.",
+        "Alex Garland wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Steven Soderbergh.",
+        "Gareth Edwards wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Steven Soderbergh.",
+        "Duncan Jones wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Steven Soderbergh."
+      ],
+      "short": "Steven Soderbergh schrieb und inszenierte die Fassung; James Cameron gehört zum Produktionsteam.",
+      "context": "Steven Soderbergh schrieb und inszenierte die Fassung; James Cameron gehört zum Produktionsteam. George Clooney spielt Chris Kelvin, Natascha McElhone Rheya. Soderbergh konzentriert die Begegnung mit Solaris besonders auf die Wiederkehr einer belasteten Liebesbeziehung.",
+      "anchor": "Steven Soderbergh schrieb und inszenierte die Fassung; James Cameron gehört zum Produktionsteam.",
+      "interest": "Steven Soderbergh schrieb und inszenierte die Fassung; James Cameron gehört zum Produktionsteam.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

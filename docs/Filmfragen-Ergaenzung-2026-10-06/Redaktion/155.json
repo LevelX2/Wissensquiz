@@ -1,0 +1,224 @@
+{
+  "rank": 155,
+  "directors": [
+    "Wim Wenders"
+  ],
+  "production_countries": [
+    "Deutschland",
+    "Kuba",
+    "USA",
+    "Vereinigtes Königreich",
+    "Frankreich"
+  ],
+  "familiarity_reason": "International sehr bekannter Musikdokumentarfilm und Albumtitel; große Verbreitung über das Filmpublikum hinaus.",
+  "release_note": "Berlinale-Premiere am 17. Februar 1999; deutscher Kinostart am 17. Juni 1999.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Buena_Vista_Social_Club_(film)",
+    "stiftung": "https://wimwendersstiftung.de/media/wws_bvsc_presssheet_en.pdf",
+    "album": "https://www.buenavistasocialclub.com/story/",
+    "credits_rt": {
+      "url": "http://www.rottentomatoes.com/m/1087935-buena_vista_social_club/",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Musiktradition steht im Zentrum von @?",
+      "answers": [
+        "Die traditioneller kubanischer Musiker",
+        "Die britischer Punkbands",
+        "Die New Yorker Hip-Hop-Szene",
+        "Die brasilianischer Sambaschulen"
+      ],
+      "feedback": [
+        "Der Film begleitet kubanische Musiker und ihre Musik.",
+        "Britischer Punk ist nicht der Schwerpunkt.",
+        "Die Hip-Hop-Szene bildet nicht das Ensemble.",
+        "Sambaschulen sind nicht der Gegenstand."
+      ],
+      "short": "Der Film begleitet kubanische Musiker und ihre Musik.",
+      "context": "Der Film führt Musiker zusammen, die zum Teil lange außerhalb internationaler Aufmerksamkeit standen. Havannas Alltag und die späteren Konzerte bilden den Rahmen. Ihre Musik erscheint nicht als neu erfundener Stil, sondern als lebendige Tradition, die durch Aufnahmen und Reisen ein neues Publikum erreicht.",
+      "anchor": "Eine lange gepflegte kubanische Tradition erreicht neue Hörer.",
+      "interest": "Eine lange gepflegte kubanische Tradition erreicht neue Hörer.",
+      "sources": [
+        "stiftung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher amerikanische Musiker verbindet die Aufnahmen in Havanna mit Wenders’ Filmprojekt in @?",
+      "answers": [
+        "Ry Cooder",
+        "Paul Simon",
+        "David Byrne",
+        "Herbie Hancock"
+      ],
+      "feedback": [
+        "Ry Cooder ist Wenders’ musikalischer Freund und Verbindung zur Gruppe.",
+        "Paul Simon ist nicht die verbindende Person dieses Projekts.",
+        "David Byrne übernimmt diese Rolle nicht.",
+        "Herbie Hancock führt Wenders hier nicht zur Gruppe."
+      ],
+      "short": "Ry Cooder ist Wenders’ musikalischer Freund und Verbindung zur Gruppe.",
+      "context": "Ry Cooder hatte bereits mit Wim Wenders bei Filmmusik zusammengearbeitet. Wenders begleitet ihn nun nach Havanna. Die bestehende Freundschaft ermöglicht einen Zugang, aus dem der Film Begegnungen mit den kubanischen Musikern und deren internationalem Aufbruch entwickelt.",
+      "anchor": "Cooders Musikbeziehung führt Wenders nach Havanna.",
+      "interest": "Cooders Musikbeziehung führt Wenders nach Havanna.",
+      "sources": [
+        "stiftung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche neue Aufnahme begleitet Wenders zu Beginn des Projekts @ in Havanna?",
+      "answers": [
+        "Ibrahim Ferrers Soloalbum",
+        "Eine neue Oper von Rubén González",
+        "Eine elektronische Remixplatte ohne die ursprünglichen Musiker",
+        "Ein Abschiedsalbum ausschließlich von Compay Segundo"
+      ],
+      "feedback": [
+        "Cooder arbeitet in Havanna an einem Soloalbum von Ibrahim Ferrer.",
+        "González komponiert hier keine neue Oper.",
+        "Eine elektronische Remixplatte ist nicht die beobachtete Aufnahme.",
+        "Ein reines Abschiedsalbum Compay Segundos ist nicht der Ausgangspunkt."
+      ],
+      "short": "Cooder arbeitet in Havanna an einem Soloalbum von Ibrahim Ferrer.",
+      "context": "Ibrahim Ferrer steht nach dem gemeinsamen Album vor einer eigenen Aufnahme. Wim Wenders beobachtet die Arbeit und folgt dann dem größeren Ensemble auf Reisen. Der Film bleibt dadurch nicht bei der Wiederholung eines erfolgreichen Albums, sondern zeigt weitere musikalische Arbeit nach dessen Entstehung.",
+      "anchor": "Ferrers Soloaufnahme öffnet den Weg zur gemeinsamen Konzertreise.",
+      "interest": "Ferrers Soloaufnahme öffnet den Weg zur gemeinsamen Konzertreise.",
+      "sources": [
+        "stiftung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welcher New Yorker Konzertsaal bildet den Höhepunkt der Reise in @?",
+      "answers": [
+        "Carnegie Hall",
+        "Apollo Theater",
+        "Lincoln Center",
+        "Madison Square Garden"
+      ],
+      "feedback": [
+        "Die Gruppe tritt in der Carnegie Hall auf.",
+        "Das Apollo Theater ist nicht dieser Auftrittsort.",
+        "Das Lincoln Center ist nicht der gezeigte Konzertsaal.",
+        "Madison Square Garden bildet nicht den Höhepunkt."
+      ],
+      "short": "Die Gruppe tritt in der Carnegie Hall auf.",
+      "context": "Nach den Konzerten in Amsterdam reisen die Musiker nach New York. Der Auftritt in der Carnegie Hall wurde von Wim Wenders gefilmt. Die Ankunft und die Reaktionen auf die Stadt gehören zum Ereignis: Ein international berühmter Ort begegnet Menschen mit sehr unterschiedlichen Reiseerfahrungen.",
+      "anchor": "Die Reise von Havanna führt bis zur Carnegie Hall.",
+      "interest": "Die Reise von Havanna führt bis zur Carnegie Hall.",
+      "sources": [
+        "album"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was macht Rubén González’ Rückkehr zur Musik in @ besonders bemerkenswert?",
+      "answers": [
+        "Der pensionierte Pianist besaß damals nicht einmal ein eigenes Klavier.",
+        "Er hatte noch nie eine eigene Platte aufgenommen.",
+        "Er lebte im Ausland und konnte nicht zurückkehren.",
+        "Er hatte nach seiner Pensionierung ausschließlich Musik unterrichtet."
+      ],
+      "feedback": [
+        "González kehrte aus dem Ruhestand zurück, obwohl er kein eigenes Klavier mehr hatte.",
+        "González war schon pensioniert und verfügte nicht einmal über ein eigenes Klavier.",
+        "Er wurde in Kuba wieder mit den anderen Musikern zusammengebracht.",
+        "Die bemerkenswerte Ausgangslage war sein Rückzug ohne eigenes Instrument."
+      ],
+      "short": "González kehrte aus dem Ruhestand zurück, obwohl er kein eigenes Klavier mehr hatte.",
+      "context": "Juan de Marcos González holte Rubén González für die Aufnahmen zurück. Der Pianist erschien morgens besonders früh am Studio. Der Gegensatz von äußerer Armut und unverminderter Spielfreude zeigt, dass die neue internationale Anerkennung auf lange bestehender musikalischer Fähigkeit beruht.",
+      "anchor": "Das fehlende eigene Klavier hatte González’ Musik nicht ausgelöscht.",
+      "interest": "Das fehlende eigene Klavier hatte González’ Musik nicht ausgelöscht.",
+      "sources": [
+        "album"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Mit welchem Aufnahmeformat wurde @ ursprünglich gedreht?",
+      "answers": [
+        "Digital Betacam, später auf 35-mm-Film übertragen",
+        "16-mm-Film, später für das Kino digitalisiert",
+        "35-mm-Film mit getrennt aufgenommenem Konzertton",
+        "HD-Digitalvideo, unmittelbar auf 70-mm-Film übertragen"
+      ],
+      "feedback": [
+        "Die Produktion nutzte Digital Betacam und übertrug das Ergebnis auf 35 mm.",
+        "Die Aufnahmen entstanden auf Digital Betacam und wurden auf 35 mm übertragen.",
+        "Die ursprüngliche Kameraaufzeichnung war Digital Betacam.",
+        "Das ursprüngliche Format war noch kein HD-Digitalvideo."
+      ],
+      "short": "Die Produktion nutzte Digital Betacam und übertrug das Ergebnis auf 35 mm.",
+      "context": "Der technische Credit nennt Digital Betacam. Das mobile digitale Verfahren passte zur Beobachtung in Havanna und auf Reisen. Die spätere Übertragung auf 35 mm ermöglichte die Kinovorführung, obwohl die Bilder nicht ursprünglich auf klassischem Kinofilm aufgenommen worden waren.",
+      "anchor": "Digitale Beobachtung wurde für das Kino auf 35 mm übertragen.",
+      "interest": "Digitale Beobachtung wurde für das Kino auf 35 mm übertragen.",
+      "sources": [
+        "stiftung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1999",
+        "1995",
+        "1998",
+        "2002"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1999.",
+        "1995 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1998 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2002 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1999.",
+      "context": "Buena Vista Social Club erschien 1999. Das gleichnamige Album wurde 1997 veröffentlicht, zwei Jahre zuvor. Wenders begleitete die Musiker 1998 bei neuen Aufnahmen und Konzerten. Der Film folgte also dem musikalischen Durchbruch und machte die beteiligten Menschen und ihre Reise hinter dem bereits erfolgreichen Album sichtbar.",
+      "anchor": "Album 1997, Konzerte 1998, Film 1999: zwei Jahre vom Album zum Porträt seiner Musiker.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Album 1997, Konzerte 1998, Film 1999: zwei Jahre vom Album zum Porträt seiner Musiker.",
+      "sources": [
+        "handlung",
+        "album"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Wim Wenders",
+        "Werner Herzog",
+        "Volker Schlöndorff",
+        "Fernando Trueba"
+      ],
+      "feedback": [
+        "Wim Wenders führte Regie.",
+        "Werner Herzog gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Volker Schlöndorff gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Fernando Trueba gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Wim Wenders.",
+      "context": "Wim Wenders begleitete seinen Freund Ry Cooder mit einem kleinen Team nach Havanna. Aus dem zunächst geplanten Dokumentarfilm über Aufnahmen wurde die Beobachtung eines überraschenden internationalen Aufbruchs. Digitale Kameratechnik erlaubte Nähe in Studios, Wohnungen und unterwegs.",
+      "anchor": "Wim Wenders: Aus dem zunächst geplanten Dokumentarfilm über Aufnahmen wurde die Beobachtung eines überraschenden internationalen Aufbruchs.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "stiftung",
+        "credits_rt",
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

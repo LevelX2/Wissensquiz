@@ -1,0 +1,219 @@
+{
+  "rank": 236,
+  "directors": [
+    "Jacques Audiard"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "USA",
+    "Spanien"
+  ],
+  "familiarity_reason": "Bekannter englischsprachiger Western eines französischen Regisseurs mit prominenter Besetzung.",
+  "release_note": "Erste Veröffentlichung 2018 bei den Filmfestspielen von Venedig; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Sisters_Brothers_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Sisters_Brothers_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Verhältnis stehen Eli und Charlie in @ zueinander?",
+      "answers": [
+        "Sie sind Brüder und arbeiten als Auftragsmörder",
+        "Sie sind Sheriff und Gefangener",
+        "Sie sind Vater und Sohn",
+        "Sie sind verfeindete Minenbesitzer"
+      ],
+      "feedback": [
+        "Eli (John C.",
+        "Sie begleiten sich nicht als Sheriff und Gefangener.",
+        "Sie gehören derselben Generation an.",
+        "Sie besitzen keine rivalisierenden Minen."
+      ],
+      "short": "Eli (John C.",
+      "context": "Eli (John C. Reilly) und Charlie Sisters (Joaquin Phoenix) sind Brüder und Auftragsmörder. Eli möchte aussteigen, während Charlie die gewaltsame Arbeit fortsetzen will.",
+      "anchor": "Die berufliche Gemeinschaft verbirgt unterschiedliche Zukunftswünsche.",
+      "interest": "Die berufliche Gemeinschaft verbirgt unterschiedliche Zukunftswünsche.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Erfindung macht Hermann Warm in @ begehrt?",
+      "answers": [
+        "Eine Chemikalie lässt Gold im Wasser aufleuchten",
+        "Eine Flüssigkeit scheidet Gold direkt aus Gestein ab",
+        "Ein Pulver färbt goldhaltige Steine dauerhaft blau",
+        "Ein Gerät trennt Gold ohne Wasser vom Sand"
+      ],
+      "feedback": [
+        "Hermann Warm (Riz Ahmed) besitzt eine Formel, die Gold im Wasser kurz sichtbar macht.",
+        "Warms Formel lässt vorhandenes Gold im Wasser aufleuchten.",
+        "Die chemische Wirkung ist ein kurzes Leuchten, keine bleibende Färbung.",
+        "Die Erfindung ist eine gefährliche Formel für das Wasser."
+      ],
+      "short": "Hermann Warm (Riz Ahmed) besitzt eine Formel, die Gold im Wasser kurz sichtbar macht.",
+      "context": "Hermann Warm (Riz Ahmed) besitzt eine Formel, die Gold im Wasser kurz sichtbar macht. Ihr wirtschaftlicher Wert löst die Verfolgung aus; zugleich ist die Chemikalie gefährlich ätzend.",
+      "anchor": "Das sichtbare Gold hat einen unsichtbar unterschätzten körperlichen Preis.",
+      "interest": "Das sichtbare Gold hat einen unsichtbar unterschätzten körperlichen Preis.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum lässt John Morris in @ den gesuchten Warm entkommen?",
+      "answers": [
+        "Er will keinen unschuldigen Erfinder dem Mord ausliefern",
+        "Er fürchtet, der Commodore werde auch ihn als Mitwisser töten.",
+        "Warm hat ihm einen Anteil an einer bereits gefundenen Mine versprochen.",
+        "Er hält die erhaltene Beschreibung für eine falsche Person."
+      ],
+      "feedback": [
+        "John Morris (Jake Gyllenhaal) erfährt Warms (Riz Ahmed) Absichten und erkennt die drohende Folter.",
+        "Er lehnt den Mord an Warm ab und verbindet sich mit dessen Zukunftsplan.",
+        "Morris handelt aus Überzeugung gegen die bevorstehende Folter des Erfinders.",
+        "Er erkennt Warm und entscheidet sich bewusst gegen den Auftrag."
+      ],
+      "short": "John Morris (Jake Gyllenhaal) erfährt Warms (Riz Ahmed) Absichten und erkennt die drohende Folter.",
+      "context": "John Morris (Jake Gyllenhaal) erfährt Warms (Riz Ahmed) Absichten und erkennt die drohende Folter. Er entscheidet sich gegen den Auftraggeber und folgt stattdessen Warms Plan einer gemeinschaftlichen Zukunft.",
+      "anchor": "Morris ersetzt die bezahlte Verfolgung durch eine moralische Entscheidung.",
+      "interest": "Morris ersetzt die bezahlte Verfolgung durch eine moralische Entscheidung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum nimmt Eli in @ die gemeinsame Gewaltarbeit trotz eigener Zweifel auf sich?",
+      "answers": [
+        "Er will seinen unbeherrschten Bruder schützen",
+        "Er muss damit eine Steuerschuld bezahlen",
+        "Er wird vom Commodore als Geisel gehalten",
+        "Er will Warm vor einer falschen Festnahme bewahren"
+      ],
+      "feedback": [
+        "Eli (John C.",
+        "Eine Steuerschuld ist nicht sein Motiv.",
+        "Er ist keine Geisel.",
+        "Warm ist bei Beginn der Laufbahn noch nicht der Anlass."
+      ],
+      "short": "Eli (John C.",
+      "context": "Eli (John C. Reilly) erklärt, dass er Charlie (Joaquin Phoenix) schützen wollte, nachdem dieser den gewalttätigen Vater getötet hatte. Die Bindung an den Bruder hält ihn länger im Beruf, als er selbst möchte.",
+      "anchor": "Fürsorge für Charlie bindet Eli an die gewaltsame Arbeit.",
+      "interest": "Fürsorge für Charlie bindet Eli an die gewaltsame Arbeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was löst in @ die Katastrophe bei der Goldsuche aus?",
+      "answers": [
+        "Charlie verschüttet unverdünnte Chemikalie",
+        "Morris sprengt versehentlich den Damm",
+        "Warm fällt beim Graben in eine Mine",
+        "Eli verkauft die Ausrüstung an die Verfolger"
+      ],
+      "feedback": [
+        "Charlie (Joaquin Phoenix) will das verblassende Leuchten verlängern und verschüttet die konzentrierte Chemikalie.",
+        "Eine Sprengung verursacht den Unfall nicht.",
+        "Ein Minensturz ist nicht der Ablauf.",
+        "Eli verkauft die Ausrüstung nicht."
+      ],
+      "short": "Charlie (Joaquin Phoenix) will das verblassende Leuchten verlängern und verschüttet die konzentrierte Chemikalie.",
+      "context": "Charlie (Joaquin Phoenix) will das verblassende Leuchten verlängern und verschüttet die konzentrierte Chemikalie. Seine Hand sowie Warm und Morris werden schwer verletzt; die gemeinsame Utopie endet in körperlicher Zerstörung.",
+      "anchor": "Ungeduld beim Goldgewinn zerstört die neu entstandene Gemeinschaft.",
+      "interest": "Ungeduld beim Goldgewinn zerstört die neu entstandene Gemeinschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was ermöglicht den Brüdern in @ die letzte Heimkehr ohne den geplanten Mord am Auftraggeber?",
+      "answers": [
+        "Der Commodore ist bereits gestorben",
+        "Der Commodore nimmt sie als Erben an",
+        "Warm kauft ihren Vertrag zurück",
+        "Die Polizei begnadigt alle Beteiligten"
+      ],
+      "feedback": [
+        "Als die Brüder den Commodore töten wollen, finden sie ihn bereits tot vor.",
+        "Sie werden nicht als Erben eingesetzt.",
+        "Warm ist bereits tot.",
+        "Eine umfassende Begnadigung geschieht nicht."
+      ],
+      "short": "Als die Brüder den Commodore töten wollen, finden sie ihn bereits tot vor.",
+      "context": "Als die Brüder den Commodore töten wollen, finden sie ihn bereits tot vor. Eli (John C. Reilly) und Charlie (Joaquin Phoenix) kehren zu ihrer Mutter zurück; das Ende löst die Abhängigkeit ohne das erwartete Duell.",
+      "anchor": "Der tote Auftraggeber öffnet die Rückkehr aus dem Gewaltberuf.",
+      "interest": "Der tote Auftraggeber öffnet die Rückkehr aus dem Gewaltberuf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2015",
+        "2011",
+        "2020"
+      ],
+      "feedback": [
+        "2018 erschien der Film.",
+        "2015 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2011 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2020 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2018 erschien der Film.",
+      "context": "2018 erschien der Film. Die Rechte an Patrick deWitts Roman wurden 2011 für John C. Reillys Produktionsfirma erworben; sieben Jahre später spielte Reilly einen der Brüder in der fertigen Adaption.",
+      "anchor": "Rechteerwerb 2011, Film 2018: Nach sieben Jahren spielt Reilly selbst einen der Brüder.",
+      "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jacques Audiard",
+        "Clint Eastwood",
+        "Don Siegel",
+        "Robert Altman"
+      ],
+      "feedback": [
+        "Jacques Audiard führte bei seinem ersten englischsprachigen Langfilm Regie.",
+        "Clint Eastwood wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jacques Audiard.",
+        "Don Siegel wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jacques Audiard.",
+        "Robert Altman wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Jacques Audiard."
+      ],
+      "short": "Jacques Audiard führte bei seinem ersten englischsprachigen Langfilm Regie.",
+      "context": "Jacques Audiard führte bei seinem ersten englischsprachigen Langfilm Regie. Der Weg der Auftragsmörder führt über eine Goldsucherutopie schließlich zurück zur Mutter; die Gewaltgeschichte wird zugleich zur Möglichkeit eines anderen Lebens.",
+      "anchor": "Jacques Audiard führte bei seinem ersten englischsprachigen Langfilm Regie.",
+      "interest": "Jacques Audiard führte bei seinem ersten englischsprachigen Langfilm Regie.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

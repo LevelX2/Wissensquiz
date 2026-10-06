@@ -1,0 +1,223 @@
+{
+  "rank": 204,
+  "directors": [
+    "Joel Coen",
+    "Ethan Coen"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein breit rezipierter Coen-Thriller mit Bardems markanter Figur; redaktionell ein bekannter Film.",
+  "release_note": "Erste Veröffentlichung 2007 bei den Filmfestspielen von Cannes; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/No_Country_for_Old_Men",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/No_Country_for_Old_Men",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "credits": {
+      "url": "https://www.miramax.com/movie/no-country-for-old-men/",
+      "supports": "Gelesene offizielle Filmseite: Regie, Filmjahr, Besetzung und Werkbeschreibung."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was nimmt Llewelyn Moss (Josh Brolin) am Tatort in @ an sich?",
+      "answers": [
+        "Einen Koffer mit Geld",
+        "Ein Notizbuch der Drogenhändler",
+        "Eine Tasche mit Drogen",
+        "Eine Liste korrupter Grenzbeamter"
+      ],
+      "feedback": [
+        "Moss nimmt einen Geldkoffer aus den Folgen eines gescheiterten Drogengeschäfts.",
+        "Der Geldkoffer macht ihn zum Gejagten.",
+        "Er nimmt den Koffer mit dem Geld.",
+        "Keine Beamtenliste ist die Beute."
+      ],
+      "short": "Moss nimmt einen Geldkoffer aus den Folgen eines gescheiterten Drogengeschäfts.",
+      "context": "Moss nimmt einen Geldkoffer aus den Folgen eines gescheiterten Drogengeschäfts. Der scheinbar glückliche Fund bringt ihn in eine Verfolgung; der Besitz ist nicht von der Gewalt zu trennen, die ihm vorausging.",
+      "anchor": "Der Geldfund übernimmt die Gefahr des gescheiterten Geschäfts.",
+      "interest": "Der Geldfund übernimmt die Gefahr des gescheiterten Geschäfts.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Womit verbindet Anton Chigurh (Javier Bardem) in @ wiederholt Entscheidungen über das Leben anderer?",
+      "answers": [
+        "Mit einem Münzwurf",
+        "Mit einem Würfelpokal",
+        "Mit einem Kartenspiel um Geld",
+        "Mit einem Schachturnier"
+      ],
+      "feedback": [
+        "Chigurh lässt Menschen eine Münzseite nennen.",
+        "Ein Würfel entscheidet nicht diese Begegnungen.",
+        "Poker ist nicht sein Ritual.",
+        "Ein Schachturnier findet nicht statt."
+      ],
+      "short": "Chigurh lässt Menschen eine Münzseite nennen.",
+      "context": "Chigurh lässt Menschen eine Münzseite nennen. Er stellt seine Gewalt damit als Ergebnis eines Zufalls dar; die scheinbare Regel verschiebt die Verantwortung jedoch nicht tatsächlich von ihm weg.",
+      "anchor": "Die Münze ist Chigurhs inszenierte Zufallsregel.",
+      "interest": "Die Münze ist Chigurhs inszenierte Zufallsregel.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum kehrt Moss (Josh Brolin) in @ nachts an den gefährlichen Tatort zurück?",
+      "answers": [
+        "Er will dem verletzten Mann Wasser bringen.",
+        "Er muss seinen Hochzeitsring suchen.",
+        "Er will die Polizei dort abholen.",
+        "Er möchte ein Foto für die Zeitung verkaufen."
+      ],
+      "feedback": [
+        "Moss kehrt aus Schuldgefühl mit Wasser zurück.",
+        "Einen Ring sucht er nicht.",
+        "Die Polizei erwartet er dort nicht.",
+        "Ein Fotoverkauf ist nicht sein Ziel."
+      ],
+      "short": "Moss kehrt aus Schuldgefühl mit Wasser zurück.",
+      "context": "Moss kehrt aus Schuldgefühl mit Wasser zurück. Der Verletzte ist bereits tot, und bewaffnete Verfolger entdecken ihn; gerade seine verspätete Hilfsbereitschaft verschärft die Gefahr nach dem Geldfund.",
+      "anchor": "Die Rückkehr mit Wasser macht den Finder auffindbar.",
+      "interest": "Die Rückkehr mit Wasser macht den Finder auffindbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wodurch kann Chigurh (Javier Bardem) den Geldkoffer in @ zunächst verfolgen?",
+      "answers": [
+        "Durch einen versteckten Sender",
+        "Durch die registrierte Seriennummer jeder Banknote",
+        "Durch eine Kamera am Hotelparkplatz",
+        "Durch Moss’ weiter eingeschaltetes Funkgerät"
+      ],
+      "feedback": [
+        "Im Koffer steckt ein Sender.",
+        "Ein physischer Sender steckt im Koffer.",
+        "Der Sender ermöglicht die gezielte Verfolgung.",
+        "Nicht Moss’ Funk, sondern das versteckte Ortungsgerät führt Chigurh."
+      ],
+      "short": "Im Koffer steckt ein Sender.",
+      "context": "Im Koffer steckt ein Sender. Moss (Josh Brolin) versteckt das Geld zwar sorgfältig, kennt aber zunächst diese technische Verbindung nicht; räumliches Verbergen schützt ihn deshalb nicht zuverlässig vor dem Verfolger.",
+      "anchor": "Der verborgene Sender macht das Versteck durchlässig.",
+      "interest": "Der verborgene Sender macht das Versteck durchlässig.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum verweigert Carla Jean (Kelly Macdonald) in @ Chigurhs Münzspiel?",
+      "answers": [
+        "Sie beharrt darauf, dass er selbst verantwortlich ist.",
+        "Sie glaubt, der Münzwurf werde ohnehin zugunsten Chigurhs manipuliert.",
+        "Sie bietet stattdessen ein Kartenspiel an.",
+        "Sie verlangt, Bell solle die Münze werfen."
+      ],
+      "feedback": [
+        "Carla Jean lehnt den Wurf ab und nennt Chigurh (Javier Bardem) als Verantwortlichen.",
+        "Sie weist die Verantwortung auf den Mann selbst zurück.",
+        "Sie lehnt die Verlagerung auf den Zufall ab.",
+        "Kein anderer Werfer soll die Entscheidung legitimieren."
+      ],
+      "short": "Carla Jean lehnt den Wurf ab und nennt Chigurh (Javier Bardem) als Verantwortlichen.",
+      "context": "Carla Jean lehnt den Wurf ab und nennt Chigurh (Javier Bardem) als Verantwortlichen. Sie widerspricht damit seiner Darstellung, Gewalt sei bloß das neutrale Vollstrecken einer Regel oder eines Zufallsergebnisses.",
+      "anchor": "Carla Jean verweigert die Auslagerung der Verantwortung.",
+      "interest": "Carla Jean verweigert die Auslagerung der Verantwortung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was beendet @ anstelle einer endgültigen Verhaftung Chigurhs?",
+      "answers": [
+        "Bells Erzählung zweier Träume über seinen Vater",
+        "Bells vollständiger Bericht vor Gericht",
+        "Chigurhs Vernehmung im Krankenhaus",
+        "Ein neuer Ermittlungsauftrag an Bell"
+      ],
+      "feedback": [
+        "Sheriff Bell (Tommy Lee Jones) erzählt nach seinem Rückzug zwei Vaterträume.",
+        "Der Schluss ist die persönliche Traumerzählung.",
+        "Er wird nicht in einer solchen Szene zur Rechenschaft gezogen.",
+        "Bell spricht nach seinem Rückzug über die Träume."
+      ],
+      "short": "Sheriff Bell (Tommy Lee Jones) erzählt nach seinem Rückzug zwei Vaterträume.",
+      "context": "Sheriff Bell (Tommy Lee Jones) erzählt nach seinem Rückzug zwei Vaterträume. Die Verfolgung wird nicht mit einer vollständigen Herstellung von Ordnung abgeschlossen; der letzte Blick gehört seiner Erfahrung von Überforderung und dem Bild eines vorausgetragenen Feuers.",
+      "anchor": "Bells Vaterträume ersetzen die erwartete abschließende Ordnung.",
+      "interest": "Bells Vaterträume ersetzen die erwartete abschließende Ordnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "2004",
+        "2000",
+        "2009"
+      ],
+      "feedback": [
+        "2007 wurde der Film in Cannes erstmals gezeigt.",
+        "2004 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt.",
+        "2000 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt.",
+        "2009 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2007 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2007 wurde der Film in Cannes erstmals gezeigt.",
+      "context": "2007 wurde der Film in Cannes erstmals gezeigt. Cormac McCarthys Roman erschien 2005; zwei Jahre trennen Buch und Film. Die erzählte Verfolgung liegt hingegen 1980 und verbindet eine ältere texanische Grenzwelt mit einer modernen Reflexion über Gewalt und Kontrollverlust.",
+      "anchor": "Roman 2005, Film 2007: Zwei Jahre führen zur Adaption einer bereits 1980 angesiedelten Gewaltgeschichte.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Joel Coen und Ethan Coen",
+        "Phil Lord und Christopher Miller",
+        "John Requa und Glenn Ficarra",
+        "Joe Russo und Anthony Russo"
+      ],
+      "feedback": [
+        "Joel Coen und Ethan Coen schrieben und inszenierten gemeinsam.",
+        "Phil Lord und Christopher Miller wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Joel Coen und Ethan Coen.",
+        "John Requa und Glenn Ficarra wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Joel Coen und Ethan Coen.",
+        "Joe Russo und Anthony Russo wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Joel Coen und Ethan Coen."
+      ],
+      "short": "Joel Coen und Ethan Coen schrieben und inszenierten gemeinsam.",
+      "context": "Joel Coen und Ethan Coen schrieben und inszenierten gemeinsam. Josh Brolin spielt Llewelyn Moss, Javier Bardem den Verfolger Anton Chigurh, Tommy Lee Jones Sheriff Bell. Die Figurenlinien erfüllen nicht die gewohnte Erwartung eines abschließenden gemeinsamen Duells.",
+      "anchor": "Joel Coen und Ethan Coen schrieben und inszenierten gemeinsam.",
+      "interest": "Joel Coen und Ethan Coen schrieben und inszenierten gemeinsam.",
+      "sources": [
+        "eckdaten",
+        "credits"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

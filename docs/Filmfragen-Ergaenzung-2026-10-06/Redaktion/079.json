@@ -1,0 +1,219 @@
+{
+  "rank": 79,
+  "directors": [
+    "Matteo Garrone"
+  ],
+  "production_countries": [
+    "Italien",
+    "Frankreich",
+    "Vereinigtes Königreich"
+  ],
+  "familiarity_reason": "Erwachsene Märchenverfilmung außerhalb des breiten Fantasy-Mainstreams.",
+  "release_note": "Cannes und italienischer Kinostart 14. Mai 2015.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Tale_of_Tales_(2015_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "festival": {
+      "url": "https://www.festival-cannes.com/en/f/il-racconto-dei-racconti/",
+      "supports": "Festivaljahr 2015, Matteo Garrone, Basile, drei Reiche und Koproduktionspartner."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was erhofft sich die Königin in @ vom Essen des Drachenherzens?",
+      "answers": [
+        "Ein Kind zu bekommen",
+        "Unvergängliche Jugend zu erhalten",
+        "Ihre tödliche Krankheit zu heilen",
+        "Die Liebe des Königs zurückzugewinnen"
+      ],
+      "feedback": [
+        "Die Königin (Salma Hayek) will ein Kind.",
+        "Sie sucht ausdrücklich eine Schwangerschaft.",
+        "Eine Krankheitsbehandlung ist nicht der Zweck.",
+        "Die Liebe des Königs ist nicht das gewünschte Ergebnis."
+      ],
+      "short": "Die Königin (Salma Hayek) will ein Kind.",
+      "context": "Die Königin (Salma Hayek) will ein Kind. Der König (John C. Reilly) beschafft das Herz und stirbt dabei; das erfüllte Begehren ist von Beginn an an einen Verlust gebunden.",
+      "anchor": "Der Kinderwunsch fordert das Leben des Königs.",
+      "interest": "Der Kinderwunsch fordert das Leben des Königs.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Tier zieht der König von Highhills in @ heimlich auf?",
+      "answers": [
+        "Einen riesig werdenden Floh",
+        "Einen weißen Raben",
+        "Eine goldene Schlange",
+        "Ein sprechendes Pferd"
+      ],
+      "feedback": [
+        "Der König (Toby Jones) hält einen Floh, der riesig wächst.",
+        "Ein Rabe ist nicht das Haustier.",
+        "Eine Schlange zieht er nicht auf.",
+        "Ein Pferd ist es nicht."
+      ],
+      "short": "Der König (Toby Jones) hält einen Floh, der riesig wächst.",
+      "context": "Der König (Toby Jones) hält einen Floh, der riesig wächst. Seine Faszination für das Tier wird später zum Ausgangspunkt einer Heiratsprobe, deren Folgen seine Tochter tragen muss.",
+      "anchor": "Das geheime Haustier wird zur gefährlichen Heiratsaufgabe.",
+      "interest": "Das geheime Haustier wird zur gefährlichen Heiratsaufgabe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie gewinnt der Oger in @ das Recht, Violet zu heiraten?",
+      "answers": [
+        "Er erkennt den Ursprung einer vorgelegten Tierhaut.",
+        "Er besiegt ihren Vater im Schwertkampf.",
+        "Er kauft sämtliche Schulden des Königs.",
+        "Er wird von Violet freiwillig ausgewählt."
+      ],
+      "feedback": [
+        "Der Oger (Guillaume Delaunay) erkennt die Flohhaut am Geruch.",
+        "Ein Schwertkampf entscheidet nicht.",
+        "Ein Schuldengeschäft findet nicht statt.",
+        "Violet wählt ihn gerade nicht freiwillig."
+      ],
+      "short": "Der Oger (Guillaume Delaunay) erkennt die Flohhaut am Geruch.",
+      "context": "Der Oger (Guillaume Delaunay) erkennt die Flohhaut am Geruch. Der König (Toby Jones) hält an seinem Versprechen fest und zwingt Violet (Bebe Cave), den Gewinner zu heiraten.",
+      "anchor": "Die scheinbar unlösbare Hautfrage bindet Violet an den Oger.",
+      "interest": "Die scheinbar unlösbare Hautfrage bindet Violet an den Oger.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was verbindet Elias und Jonah in @ trotz ihrer unterschiedlichen Mütter?",
+      "answers": [
+        "Sie entstehen beide durch die Zubereitung des Drachenherzens.",
+        "Sie haben heimlich dieselbe Mutter.",
+        "Sie stammen beide von demselben gewöhnlichen Vater.",
+        "Sie sind zufällige Doppelgänger ohne gemeinsame Ursache."
+      ],
+      "feedback": [
+        "Herzzubereitung und Verzehr führen zu beiden Geburten.",
+        "Die Mütter sind gerade verschieden.",
+        "Das Drachenherz verbindet die Geburten.",
+        "Der Film stellt einen magischen Zusammenhang her."
+      ],
+      "short": "Herzzubereitung und Verzehr führen zu beiden Geburten.",
+      "context": "Herzzubereitung und Verzehr führen zu beiden Geburten. Elias (Christian Lees) und Jonah (Jonah Lees) gleichen einander; die Königin (Salma Hayek) kann die Nähe ihres Sohnes zum anderen Jungen nicht dulden.",
+      "anchor": "Das eine Herz begründet zwei eng verbundene Leben.",
+      "interest": "Das eine Herz begründet zwei eng verbundene Leben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum lässt Imma in @ sich die Haut abziehen?",
+      "answers": [
+        "Sie glaubt Doras falscher Erklärung ihrer Verjüngung.",
+        "Sie folgt einer echten Anweisung derselben Hexe.",
+        "Dora zwingt sie körperlich zu der Behandlung.",
+        "Der König verlangt es als Bedingung für ihren Aufenthalt."
+      ],
+      "feedback": [
+        "Imma (Shirley Henderson) glaubt Doras Behauptung über das Häuten.",
+        "Doras Behauptung ersetzt die wirkliche Hexenhilfe.",
+        "Imma verfolgt den vermeintlichen Weg selbst.",
+        "Eine Forderung des Königs ist es nicht."
+      ],
+      "short": "Imma (Shirley Henderson) glaubt Doras Behauptung über das Häuten.",
+      "context": "Imma (Shirley Henderson) glaubt Doras Behauptung über das Häuten. Dora (Hayley Carmichael) wurde tatsächlich durch eine Hexe verjüngt; der nachgeahmte vermeintliche Weg führt deshalb zu einer grausamen Verletzung.",
+      "anchor": "Ein falsches Schönheitsgeheimnis wird zur Selbstzerstörung.",
+      "interest": "Ein falsches Schönheitsgeheimnis wird zur Selbstzerstörung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Enthüllung folgt in @ auf Elias’ Sieg über das Monster in der Höhle?",
+      "answers": [
+        "Das tote Wesen nimmt die Gestalt seiner Mutter an.",
+        "Das Wesen nimmt Jonahs Gestalt an.",
+        "Das Wesen löst sich vollständig ohne weitere Spur auf.",
+        "Das Wesen wird wieder zu dem ursprünglichen Drachen."
+      ],
+      "feedback": [
+        "Der Körper des Monsters wird zur toten Königin (Salma Hayek).",
+        "Der Körper wird zur Königin.",
+        "Die menschliche Gestalt ist die entscheidende Spur.",
+        "Eine Rückkehr des Drachen erfolgt nicht."
+      ],
+      "short": "Der Körper des Monsters wird zur toten Königin (Salma Hayek).",
+      "context": "Der Körper des Monsters wird zur toten Königin (Salma Hayek). Elias (Christian Lees) hatte Jonah (Jonah Lees) retten wollen; die Enthüllung macht die zerstörerische Bindungsabsicht der Mutter sichtbar.",
+      "anchor": "Das Monster verkörpert die gewaltsame Mutterbindung.",
+      "interest": "Das Monster verkörpert die gewaltsame Mutterbindung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2015",
+        "2013",
+        "2010",
+        "2016"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 2015.",
+        "2013 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "2010 liegt fünf Jahre davor.",
+        "2016 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2015 erstmals veröffentlicht.",
+      "context": "2015 wurde der Film in Cannes gezeigt. Die Dreharbeiten hatten 2014 an realen italienischen Schlössern und Landschaften stattgefunden, ein Jahr zuvor. Die künstlich wirkende Märchenwelt wurde damit vor Ort und nicht ausschließlich in Studiokulissen gebaut.",
+      "anchor": "Die italienischen Dreharbeiten von 2014 führten ein Jahr später, 2015, zum Cannes-Film.",
+      "interest": "Die italienischen Dreharbeiten von 2014 führten ein Jahr später, 2015, zum Cannes-Film.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Matteo Garrone",
+        "Guillermo del Toro",
+        "Terry Gilliam",
+        "Paolo Sorrentino"
+      ],
+      "feedback": [
+        "Matteo Garrone führte Regie.",
+        "Guillermo del Toro hat hier keinen Regiecredit.",
+        "Terry Gilliam hat hier keinen Regiecredit.",
+        "Paolo Sorrentino hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Matteo Garrone.",
+      "context": "Garrone verband drei Geschichten aus Basiles Pentamerone. Er fand in ihren Wünschen nach Jugend, Kindern und Macht zeitgenössische Konflikte; Goyas Radierungen gehörten zu den visuellen Anregungen.",
+      "anchor": "Garrone verband drei Geschichten aus Basiles Pentamerone.",
+      "interest": "Garrone verband drei Geschichten aus Basiles Pentamerone.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

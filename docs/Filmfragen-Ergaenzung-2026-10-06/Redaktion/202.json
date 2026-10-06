@@ -1,0 +1,217 @@
+{
+  "rank": 202,
+  "directors": [
+    "Curtis Hanson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Ein vielfach diskutierter moderner Noir mit bekanntem Ensemble; redaktionell ein bekannter Film.",
+  "release_note": "Erste Veröffentlichung 1997 bei den Filmfestspielen von Cannes; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/L.A._Confidential_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/L.A._Confidential_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Institution steht im Zentrum von @?",
+      "answers": [
+        "Die Polizei von Los Angeles",
+        "Die Küstenwache von Boston",
+        "Das Parlament von Ottawa",
+        "Die Luftfahrtbehörde von London"
+      ],
+      "feedback": [
+        "Die Polizei von Los Angeles bildet das Zentrum.",
+        "Boston ist nicht der Polizeischauplatz.",
+        "Ottawas Parlament ist nicht die Institution.",
+        "Eine Londoner Flugbehörde ist nicht beteiligt."
+      ],
+      "short": "Die Polizei von Los Angeles bildet das Zentrum.",
+      "context": "Die Polizei von Los Angeles bildet das Zentrum. Exley (Guy Pearce), White (Russell Crowe) und Vincennes (Kevin Spacey) verkörpern unterschiedliche Strategien; die Institution möchte ihre öffentliche Wirkung verbessern, während Korruption fortbesteht.",
+      "anchor": "Drei Polizeistile stehen innerhalb derselben beschädigten Institution.",
+      "interest": "Drei Polizeistile stehen innerhalb derselben beschädigten Institution.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Tatort verbindet die Ermittlungen in @?",
+      "answers": [
+        "Das Massaker im Nite-Owl-Lokal",
+        "Eine Schießerei im Polizeirevier",
+        "Ein Überfall auf ein Juweliergeschäft",
+        "Ein Brand in einem Filmstudio"
+      ],
+      "feedback": [
+        "Das Massaker im Nite-Owl-Lokal verbindet die Ermittler.",
+        "Die zentralen Morde geschehen im Nite Owl.",
+        "Ein Restaurantmassaker verbindet die Ermittler.",
+        "Kein Studiofeuer ist der Ausgangspunkt."
+      ],
+      "short": "Das Massaker im Nite-Owl-Lokal verbindet die Ermittler.",
+      "context": "Das Massaker im Nite-Owl-Lokal verbindet die Ermittler. Der schnelle Abschluss des Falls lässt Widersprüche zurück; gerade das weitere Nachfragen stellt die offiziell erfolgreiche Polizeiarbeit infrage.",
+      "anchor": "Der scheinbar abgeschlossene Lokal-Mord bleibt voller Widersprüche.",
+      "interest": "Der scheinbar abgeschlossene Lokal-Mord bleibt voller Widersprüche.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wozu arbeitet Jack Vincennes (Kevin Spacey) in @ mit dem Klatschjournalisten zusammen?",
+      "answers": [
+        "Für öffentlichkeitswirksame Prominentenverhaftungen",
+        "Für diskrete Zeugenschutzprogramme",
+        "Für fingierte Prominenteninterviews ohne Festnahmen",
+        "Für die Aufklärung eines privaten Erbstreits"
+      ],
+      "feedback": [
+        "Vincennes und Sid Hudgens (Danny DeVito) arrangieren prominente Verhaftungen für Aufmerksamkeit.",
+        "Die Zusammenarbeit dient öffentlicher Aufmerksamkeit.",
+        "Jack verbindet Schlagzeilen mit tatsächlichen Verhaftungen.",
+        "Der Pakt betrifft Skandaljournalismus und Polizeipublicity."
+      ],
+      "short": "Vincennes und Sid Hudgens (Danny DeVito) arrangieren prominente Verhaftungen für Aufmerksamkeit.",
+      "context": "Vincennes und Sid Hudgens (Danny DeVito) arrangieren prominente Verhaftungen für Aufmerksamkeit. Polizeiarbeit und Unterhaltung werden dadurch zu einem Geschäft; der spätere Tod eines Beteiligten lässt Vincennes seine Mitverantwortung erkennen.",
+      "anchor": "Vincennes tauscht Polizeizugriff gegen mediale Aufmerksamkeit.",
+      "interest": "Vincennes tauscht Polizeizugriff gegen mediale Aufmerksamkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was bedeutet der Name „Rollo Tomasi“ für Exley (Guy Pearce) in @?",
+      "answers": [
+        "Ein erfundener Name für den ungestraft entkommenen Täter",
+        "Der tatsächliche Bürgermeister",
+        "Der Eigentümer des Nite Owl",
+        "Whites Deckname bei jeder Ermittlung"
+      ],
+      "feedback": [
+        "Exley benutzt „Rollo Tomasi“ als Namen für den unbekannten Mörder seines Vaters und für ungestraft entkommene Täter.",
+        "Es ist kein bestätigter Bürgermeistername.",
+        "Der Lokaleigentümer ist nicht gemeint.",
+        "White verwendet ihn nicht als dauernden Decknamen."
+      ],
+      "short": "Exley benutzt „Rollo Tomasi“ als Namen für den unbekannten Mörder seines Vaters und für ungestraft entkommene Täter.",
+      "context": "Exley benutzt „Rollo Tomasi“ als Namen für den unbekannten Mörder seines Vaters und für ungestraft entkommene Täter. Der Ausdruck ist privat; seine spätere Wiederkehr bekommt deshalb konkrete Beweiswirkung.",
+      "anchor": "Der private Name bezeichnet den Täter, der davonkommt.",
+      "interest": "Der private Name bezeichnet den Täter, der davonkommt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum wird Smiths Frage nach „Rollo Tomasi“ in @ für Exley verdächtig?",
+      "answers": [
+        "Exley hatte den Namen nur dem inzwischen ermordeten Vincennes erklärt.",
+        "Der Name war nur in einem Geheimbericht des FBI aufgetaucht.",
+        "Smith nennt damit Exleys früheren Decknamen.",
+        "White hatte den Namen vor allen Kollegen genannt."
+      ],
+      "feedback": [
+        "Exley (Guy Pearce) hatte den privaten Ausdruck nur Vincennes (Kevin Spacey) erklärt.",
+        "Vincennes hatte ihn von Exley im persönlichen Gespräch erfahren.",
+        "Rollo Tomasi ist die erfundene Täterbezeichnung.",
+        "Exley hatte nur Vincennes davon erzählt."
+      ],
+      "short": "Exley (Guy Pearce) hatte den privaten Ausdruck nur Vincennes (Kevin Spacey) erklärt.",
+      "context": "Exley (Guy Pearce) hatte den privaten Ausdruck nur Vincennes (Kevin Spacey) erklärt. Als Smith (James Cromwell) danach fragt, verrät er indirekt Wissen aus dessen letzten Momenten; eine bedeutungsvoll erfundene Spur überführt den Täter.",
+      "anchor": "Das private Wort verbindet Smith mit Vincennes’ Tod.",
+      "interest": "Das private Wort verbindet Smith mit Vincennes’ Tod.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie behandelt die Polizeiführung Smiths Tod am Ende von @?",
+      "answers": [
+        "Sie stellt ihn öffentlich als Helden dar.",
+        "Sie gibt den Killerauftrag als dienstlichen Irrtum zu.",
+        "Sie meldet Smith als verschwunden.",
+        "Sie beschuldigt öffentlich sämtliche Kollegen Smiths."
+      ],
+      "feedback": [
+        "Die Führung stellt Smith (James Cromwell) als Helden dar.",
+        "Sie verdeckt die Taten durch eine Heldendarstellung.",
+        "Sein Tod wird öffentlich geehrt.",
+        "Ein umfassendes Eingeständnis verhindert die Führung."
+      ],
+      "short": "Die Führung stellt Smith (James Cromwell) als Helden dar.",
+      "context": "Die Führung stellt Smith (James Cromwell) als Helden dar. Exley (Guy Pearce) lässt sich auf die öffentliche Erzählung ein; die Aufklärung beseitigt deshalb nicht einfach das System, das seine Reputation über vollständige Wahrheit stellt.",
+      "anchor": "Die Institution rettet ihr Bild durch eine neue falsche Heldengeschichte.",
+      "interest": "Die Institution rettet ihr Bild durch eine neue falsche Heldengeschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1997",
+        "1994",
+        "1990",
+        "1999"
+      ],
+      "feedback": [
+        "1997 wurde der Film in Cannes erstmals gezeigt.",
+        "1994 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1997 wird im zeitlichen Hintergrund erklärt.",
+        "1990 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1997 wird im zeitlichen Hintergrund erklärt.",
+        "1999 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1997 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1997 wurde der Film in Cannes erstmals gezeigt.",
+      "context": "1997 wurde der Film in Cannes erstmals gezeigt. James Ellroys Roman erschien 1990; sieben Jahre später konzentrierte die Filmadaption den umfangreichen Stoff auf drei Polizisten. Die erzählte Welt selbst liegt 1953 und darf nicht mit dem Veröffentlichungsjahr verwechselt werden.",
+      "anchor": "Roman 1990, Film 1997: Nach sieben Jahren verdichtet die Adaption den Stoff auf drei Polizisten.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Curtis Hanson",
+        "David Cronenberg",
+        "David Fincher",
+        "Michael Mann"
+      ],
+      "feedback": [
+        "Curtis Hanson inszenierte und schrieb gemeinsam mit Brian Helgeland.",
+        "David Cronenberg wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Curtis Hanson.",
+        "David Fincher wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Curtis Hanson.",
+        "Michael Mann wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Curtis Hanson."
+      ],
+      "short": "Curtis Hanson inszenierte und schrieb gemeinsam mit Brian Helgeland.",
+      "context": "Curtis Hanson inszenierte und schrieb gemeinsam mit Brian Helgeland. Guy Pearce, Russell Crowe und Kevin Spacey spielen Polizisten mit unterschiedlichen Arbeitsweisen. Ihre getrennten Ermittlungen führen allmählich auf dieselbe institutionelle Verflechtung zu.",
+      "anchor": "Curtis Hanson inszenierte und schrieb gemeinsam mit Brian Helgeland.",
+      "interest": "Curtis Hanson inszenierte und schrieb gemeinsam mit Brian Helgeland.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 197,
+  "directors": [
+    "Katsuhiro Otomo"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "familiarity_reason": "Ein international bekannter Anime-Klassiker mit markanter Cyberpunk-Bildwelt.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1988; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Akira_(1988_film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Akira_(1988_film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Jugendkultur prägt Kanedas Gruppe in @?",
+      "answers": [
+        "Motorradgangs",
+        "Straßenrennende Autofahrer",
+        "Unterirdische Boxgruppen",
+        "Politische Studentenvereinigungen"
+      ],
+      "feedback": [
+        "Kaneda (Originalstimme Mitsuo Iwata) führt eine Motorradgang.",
+        "Die Jugendlichen bilden Motorradgangs.",
+        "Boxgruppen bestimmen Kanedas Kultur nicht.",
+        "Kaneda gehört zunächst zu einer Motorradgruppe."
+      ],
+      "short": "Kaneda (Originalstimme Mitsuo Iwata) führt eine Motorradgang.",
+      "context": "Kaneda (Originalstimme Mitsuo Iwata) führt eine Motorradgang. Die Rivalität auf den Straßen steht neben politischen Unruhen; Tetsuos (Nozomu Sasaki) Unfall führt dieses Jugendmilieu in die staatlichen Experimente hinein.",
+      "anchor": "Die Motorradwelt führt in den staatlichen Versuchskomplex.",
+      "interest": "Die Motorradwelt führt in den staatlichen Versuchskomplex.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Veränderung erlebt Tetsuo (Originalstimme Nozomu Sasaki) in @ nach seinem Unfall?",
+      "answers": [
+        "Er entwickelt mächtige psychische Kräfte.",
+        "Er gewinnt vollständige Kontrolle über jede Erinnerung.",
+        "Er kann vorübergehend nur andere Menschen nachahmen.",
+        "Er wird als gewöhnlicher Soldat ausgebildet."
+      ],
+      "feedback": [
+        "Tetsuo entwickelt psychische Kräfte, die an die des früheren Akira erinnern.",
+        "Seine Kräfte wachsen, geraten aber außer Kontrolle.",
+        "Die psychische Macht ist nicht reine Imitation.",
+        "Der medizinische Eingriff setzt außergewöhnliche Kräfte frei."
+      ],
+      "short": "Tetsuo entwickelt psychische Kräfte, die an die des früheren Akira erinnern.",
+      "context": "Tetsuo entwickelt psychische Kräfte, die an die des früheren Akira erinnern. Seine neue Macht übersteigt seine Kontrollfähigkeit; aus einem bisher untergeordneten Gangmitglied wird eine Gefahr für die gesamte Stadt.",
+      "anchor": "Tetsuos neue Macht wächst schneller als seine Kontrolle.",
+      "interest": "Tetsuos neue Macht wächst schneller als seine Kontrolle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wo sucht Tetsuo (Originalstimme Nozomu Sasaki) in @ nach Akira?",
+      "answers": [
+        "Unter der Baustelle des Olympiastadions",
+        "In einem abgelegenen Fischerdorf",
+        "In einer europäischen Kathedrale",
+        "Auf einem Passagierschiff"
+      ],
+      "feedback": [
+        "Akiras Überreste werden unter dem im Bau befindlichen Olympiastadion verwahrt.",
+        "Ein Fischerdorf ist nicht der Lagerort.",
+        "Eine Kathedrale spielt dabei keine Rolle.",
+        "Akira wird nicht auf einem Schiff gesucht."
+      ],
+      "short": "Akiras Überreste werden unter dem im Bau befindlichen Olympiastadion verwahrt.",
+      "context": "Akiras Überreste werden unter dem im Bau befindlichen Olympiastadion verwahrt. Die öffentliche Zukunftsvision der Stadt steht damit buchstäblich über ihrer verdrängten experimentellen Vergangenheit.",
+      "anchor": "Die Stadionbaustelle bedeckt das alte Experiment.",
+      "interest": "Die Stadionbaustelle bedeckt das alte Experiment.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Rolle spielt Kei (Originalstimme Mami Koyama) für die anderen psychisch Begabten in @?",
+      "answers": [
+        "Sie wird als Medium gegen Tetsuo eingesetzt.",
+        "Sie beaufsichtigt ihre Ausbildung als Ärztin.",
+        "Sie versteckt ihre Medikamente bei Kaneda.",
+        "Sie tritt als Sprecherin ihrer politischen Partei auf."
+      ],
+      "feedback": [
+        "Kiyoko nutzt Kei als Medium, um Tetsuo (Originalstimme Nozomu Sasaki) entgegenzutreten.",
+        "Kei wird als psychisches Medium genutzt.",
+        "Das ist nicht ihre besondere Funktion für die Begabten.",
+        "Die Verbindung wirkt unmittelbar psychisch gegen Tetsuo."
+      ],
+      "short": "Kiyoko nutzt Kei als Medium, um Tetsuo (Originalstimme Nozomu Sasaki) entgegenzutreten.",
+      "context": "Kiyoko nutzt Kei als Medium, um Tetsuo (Originalstimme Nozomu Sasaki) entgegenzutreten. Die Widerstandsaktivistin wird damit zum Vermittlungsweg einer anderen Kraft; ihr Kampf ist nicht ausschließlich eine eigene körperliche Überlegenheit.",
+      "anchor": "Kei vermittelt die Kräfte der anderen Begabten.",
+      "interest": "Kei vermittelt die Kräfte der anderen Begabten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was zeigt Tetsuos körperliche Mutation im Finale von @?",
+      "answers": [
+        "Er verliert die Kontrolle über die eigenen Kräfte.",
+        "Er erreicht eine stabile künstliche Menschengestalt.",
+        "Er wird friedlich zum Kleinkind zurückverwandelt.",
+        "Er kann nun keinerlei Schaden mehr verursachen."
+      ],
+      "feedback": [
+        "Tetsuos Körper wächst zu einer zerstörerischen Masse.",
+        "Eine stabile Gestalt hält er gerade nicht.",
+        "Eine harmlose Verjüngung findet nicht statt.",
+        "Die Mutation ist gefährlich."
+      ],
+      "short": "Tetsuos Körper wächst zu einer zerstörerischen Masse.",
+      "context": "Tetsuos Körper wächst zu einer zerstörerischen Masse. Die Macht, mit der er seine frühere Unterlegenheit überwinden wollte, lässt sich nicht mehr beherrschen; die äußerliche Entgrenzung macht seine innere Überforderung unmittelbar sichtbar.",
+      "anchor": "Die unbeherrschte Kraft sprengt Tetsuos körperliche Grenzen.",
+      "interest": "Die unbeherrschte Kraft sprengt Tetsuos körperliche Grenzen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entscheidung treffen die anderen Begabten in @, um Kaneda zu retten?",
+      "answers": [
+        "Sie holen ihn zurück und verzichten auf die eigene Rückkehr.",
+        "Sie schließen ihn freiwillig in ihrer neuen Welt ein.",
+        "Sie bringen ihn in die militärische Verwahrung zurück.",
+        "Sie machen ihn zum Ersatz für Tetsuo."
+      ],
+      "feedback": [
+        "Die Begabten holen Kaneda (Originalstimme Mitsuo Iwata) aus der Singularität zurück, obwohl sie selbst nicht zurückkehren werden.",
+        "Sie ermöglichen gerade seine Rückkehr.",
+        "Die Rettung führt nicht zu dieser Übergabe.",
+        "Kaneda soll zurückkehren, nicht dessen Kräfte übernehmen."
+      ],
+      "short": "Die Begabten holen Kaneda (Originalstimme Mitsuo Iwata) aus der Singularität zurück, obwohl sie selbst nicht zurückkehren werden.",
+      "context": "Die Begabten holen Kaneda (Originalstimme Mitsuo Iwata) aus der Singularität zurück, obwohl sie selbst nicht zurückkehren werden. Seine Rettung entsteht durch einen bewussten Verzicht anderer, während Tetsuos Weg außerhalb der vertrauten Welt weiterführt.",
+      "anchor": "Kanedas Rückkehr kostet die Retter ihren eigenen Rückweg.",
+      "interest": "Kanedas Rückkehr kostet die Retter ihren eigenen Rückweg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1988",
+        "1985",
+        "1981",
+        "1990"
+      ],
+      "feedback": [
+        "1988 erschien der Film.",
+        "1985 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1988 wird im zeitlichen Hintergrund erklärt.",
+        "1981 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1988 wird im zeitlichen Hintergrund erklärt.",
+        "1990 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1988 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1988 erschien der Film.",
+      "context": "1988 erschien der Film. Die erste Manga-Veröffentlichung Katsuhiro Otomos begann 1982, sechs Jahre zuvor; der Manga war bei Entstehung des Films noch nicht abgeschlossen. Die Verfilmung entwickelt deshalb eine eigene komprimierte Handlungsfassung.",
+      "anchor": "Manga-Beginn 1982, Film 1988: Sechs Jahre später komprimiert Otomo den noch laufenden Stoff fürs Kino.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Katsuhiro Otomo",
+        "Satoshi Kon",
+        "Mamoru Hosoda",
+        "Hayao Miyazaki"
+      ],
+      "feedback": [
+        "Katsuhiro Otomo adaptierte seinen eigenen Manga und schrieb mit Izo Hashimoto das Drehbuch.",
+        "Satoshi Kon wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Katsuhiro Otomo.",
+        "Mamoru Hosoda wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Katsuhiro Otomo.",
+        "Hayao Miyazaki wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Katsuhiro Otomo."
+      ],
+      "short": "Katsuhiro Otomo adaptierte seinen eigenen Manga und schrieb mit Izo Hashimoto das Drehbuch.",
+      "context": "Katsuhiro Otomo adaptierte seinen eigenen Manga und schrieb mit Izo Hashimoto das Drehbuch. Die originalen Stimmen Mitsuo Iwata und Nozomu Sasaki gehören Kaneda und Tetsuo. Der Film verbindet Jugendgangs, staatliche Experimente und eine zerstörerische Überforderung psychischer Kräfte.",
+      "anchor": "Katsuhiro Otomo adaptierte seinen eigenen Manga und schrieb mit Izo Hashimoto das Drehbuch.",
+      "interest": "Katsuhiro Otomo adaptierte seinen eigenen Manga und schrieb mit Izo Hashimoto das Drehbuch.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

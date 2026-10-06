@@ -1,0 +1,217 @@
+{
+  "rank": 69,
+  "directors": [
+    "John Musker",
+    "Ron Clements"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Disneys vielfach verbreitetes Abenteuer gehört zu den Film-Ikonen.",
+  "release_note": "Erste Veröffentlichung 11. November 1992; breiter US-Start 25. November.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "studio": {
+      "url": "https://d23.com/a-to-z/aladdin-film/",
+      "supports": "Regie, Erstveröffentlichung und zentraler Figurenkonflikt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wozu nutzt Aladdin seinen ersten ausdrücklich gezählten Wunsch?",
+      "answers": [
+        "Er möchte ein Prinz werden.",
+        "Er wünscht sich einen sofortigen Schatz.",
+        "Er wünscht sich die Herrschaft über Agrabah.",
+        "Er wünscht sich Jasmins unmittelbare Liebe."
+      ],
+      "feedback": [
+        "Aladdin (Originalstimme Scott Weinger) wünscht sich eine Prinzenrolle.",
+        "Der erste gezählte Wunsch verleiht ihm Prinzenstatus.",
+        "Herrschaft über die Stadt verlangt er nicht.",
+        "Er wünscht keine erzwungene Liebe."
+      ],
+      "short": "Aladdin (Originalstimme Scott Weinger) wünscht sich eine Prinzenrolle.",
+      "context": "Aladdin (Originalstimme Scott Weinger) wünscht sich eine Prinzenrolle. Er versucht damit, die rechtlichen und gesellschaftlichen Hindernisse einer Verbindung mit Jasmin (Originalstimme Linda Larkin) zu umgehen.",
+      "anchor": "Prinz Ali ist Aladdins herbeigewünschte neue Rolle.",
+      "interest": "Prinz Ali ist Aladdins herbeigewünschte neue Rolle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum verlässt Jasmin in @ heimlich den Palast?",
+      "answers": [
+        "Sie möchte dem abgeschirmten Palastleben entkommen.",
+        "Sie will heimlich einen vom Sultan bestimmten Bräutigam treffen.",
+        "Sie möchte die Herrschaft Jafars unterstützen.",
+        "Sie soll im Auftrag des Sultans den Markt prüfen."
+      ],
+      "feedback": [
+        "Jasmin (Originalstimme Linda Larkin) entzieht sich ihrem abgeschirmten Leben.",
+        "Sie entzieht sich gerade dem fremdbestimmten Palastleben.",
+        "Jafars Herrschaft ist nicht ihr Ziel.",
+        "Der Besuch erfolgt ohne offiziellen Auftrag."
+      ],
+      "short": "Jasmin (Originalstimme Linda Larkin) entzieht sich ihrem abgeschirmten Leben.",
+      "context": "Jasmin (Originalstimme Linda Larkin) entzieht sich ihrem abgeschirmten Leben. Auf dem Markt begegnet sie Aladdin (Originalstimme Scott Weinger), bevor er ihre tatsächliche Stellung kennt.",
+      "anchor": "Jasmins eigener Ausbruch führt zum Treffen auf dem Markt.",
+      "interest": "Jasmins eigener Ausbruch führt zum Treffen auf dem Markt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was löst in @ den Einsturz der Wunderhöhle aus?",
+      "answers": [
+        "Abu greift nach einem verbotenen Edelstein.",
+        "Aladdin versucht zusätzliches Gold mitzunehmen.",
+        "Der Teppich berührt einen verbotenen Schatz.",
+        "Jafar greift selbst nach dem Edelstein."
+      ],
+      "feedback": [
+        "Abu (Originalstimme Frank Welker) greift nach einem Edelstein.",
+        "Abu greift nach dem Edelstein.",
+        "Der Teppich verursacht den Bruch nicht.",
+        "Jafar ist nicht der Dieb in der Höhle."
+      ],
+      "short": "Abu (Originalstimme Frank Welker) greift nach einem Edelstein.",
+      "context": "Abu (Originalstimme Frank Welker) greift nach einem Edelstein. Die Regel erlaubt nur die Lampe; das zusätzliche Begehren gefährdet den Rückweg von Aladdin (Originalstimme Scott Weinger).",
+      "anchor": "Abus Griff nach mehr bringt die Höhle zum Einsturz.",
+      "interest": "Abus Griff nach mehr bringt die Höhle zum Einsturz.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie entkommt Aladdin in @ der Höhle, ohne einen Wunsch zu verbrauchen?",
+      "answers": [
+        "Er fordert den Dschinni durch Zweifel an dessen Können heraus.",
+        "Er verwendet einen zuvor aufgesparten vierten Wunsch.",
+        "Er erklärt die Rettung zur Belohnung für das Finden der Lampe.",
+        "Er lässt den Teppich ohne Hilfe einen Ausgang finden."
+      ],
+      "feedback": [
+        "Aladdin (Originalstimme Scott Weinger) reizt den Dschinni (Originalstimme Robin Williams) durch einen Zweifel an dessen Fähigkeiten.",
+        "Ein vierter Wunsch ist nicht verfügbar.",
+        "Die Herausforderung, nicht eine Finderbelohnung, bewegt den Dschinni.",
+        "Der Dschinni hilft gerade bei dieser Rettung."
+      ],
+      "short": "Aladdin (Originalstimme Scott Weinger) reizt den Dschinni (Originalstimme Robin Williams) durch einen Zweifel an dessen Fähigkeiten.",
+      "context": "Aladdin (Originalstimme Scott Weinger) reizt den Dschinni (Originalstimme Robin Williams) durch einen Zweifel an dessen Fähigkeiten. Die Vorführung seiner Macht ermöglicht die Rettung ohne ausdrücklich eingesetzten Wunsch.",
+      "anchor": "Ein provozierter Beweis ersetzt den ersten Rettungswunsch.",
+      "interest": "Ein provozierter Beweis ersetzt den ersten Rettungswunsch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche übersehene Konsequenz hat Jafars letzter Wunsch in @?",
+      "answers": [
+        "Als Dschinni wird er an eine Lampe gebunden.",
+        "Als Dschinni verliert er jede Zauberkraft.",
+        "Als Dschinni muss er dem Sultan freiwillig die Krone geben.",
+        "Als Dschinni kann er die Höhle nie wieder verlassen."
+      ],
+      "feedback": [
+        "Jafar (Originalstimme Jonathan Freeman) wünscht sich Dschinni-Macht.",
+        "Er gewinnt Kraft, aber verliert Freiheit.",
+        "Die Krone ist nicht die übersehene Bindung.",
+        "Die Bindung gilt der Lampe, nicht nur der Höhle."
+      ],
+      "short": "Jafar (Originalstimme Jonathan Freeman) wünscht sich Dschinni-Macht.",
+      "context": "Jafar (Originalstimme Jonathan Freeman) wünscht sich Dschinni-Macht. Aladdin (Originalstimme Scott Weinger) hat ihn dazu verleitet; die gewonnene Stärke bringt zugleich die Gefangenschaft in einer Lampe.",
+      "anchor": "Jafars größter Machtwunsch wird zu seiner Gefangenschaft.",
+      "interest": "Jafars größter Machtwunsch wird zu seiner Gefangenschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entscheidung verbindet Aladdins letzten Wunsch und die spätere Heirat in @?",
+      "answers": [
+        "Er befreit den Dschinni; der Sultan ändert das Heiratsgesetz.",
+        "Er wünscht sich erneut Prinzenstatus und lässt den Dschinni gebunden.",
+        "Er lässt den Dschinni das Heiratsgesetz ändern.",
+        "Er wünscht Jasmin aus der Familie des Sultans fort."
+      ],
+      "feedback": [
+        "Aladdin (Originalstimme Scott Weinger) befreit den Dschinni (Originalstimme Robin Williams).",
+        "Er setzt den Wunsch zur Befreiung ein.",
+        "Die Gesetzesänderung trifft der Sultan selbst.",
+        "Jasmins Herkunft wird nicht weggewünscht."
+      ],
+      "short": "Aladdin (Originalstimme Scott Weinger) befreit den Dschinni (Originalstimme Robin Williams).",
+      "context": "Aladdin (Originalstimme Scott Weinger) befreit den Dschinni (Originalstimme Robin Williams). Der Sultan (Originalstimme Douglas Seale) erlaubt Jasmin (Originalstimme Linda Larkin) daraufhin eine freie Partnerwahl; Ehrlichkeit ersetzt die Prinzentarnung.",
+      "anchor": "Freiheit für den Dschinni, freie Wahl für Jasmin.",
+      "interest": "Freiheit für den Dschinni, freie Wahl für Jasmin.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1992",
+        "1990",
+        "1987",
+        "1993"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1992.",
+        "1990 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1987 liegt fünf Jahre davor.",
+        "1993 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1992 erstmals veröffentlicht.",
+      "context": "1992 erschien Aladdin, ein Jahr nach Die Schöne und das Biest von 1991. Beide Disney-Musicals verbinden Alan Menkens Musik mit Texten Howard Ashmans; für Aladdin ergänzte Tim Rice weitere Liedtexte nach Ashmans Tod.",
+      "anchor": "Auf Die Schöne und das Biest von 1991 folgte 1992, ein Jahr später, das nächste Menken-Musical.",
+      "interest": "Auf Die Schöne und das Biest von 1991 folgte 1992, ein Jahr später, das nächste Menken-Musical.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Musker und Ron Clements",
+        "Gary Trousdale und Kirk Wise",
+        "Chris Sanders und Dean DeBlois",
+        "Eric Darnell und Tom McGrath"
+      ],
+      "feedback": [
+        "John Musker und Ron Clements führten Regie.",
+        "Gary Trousdale und Kirk Wise führten bei diesem Film nicht Regie.",
+        "Chris Sanders und Dean DeBlois führten bei diesem Film nicht Regie.",
+        "Eric Darnell und Tom McGrath führten bei diesem Film nicht Regie."
+      ],
+      "short": "Regie: John Musker und Ron Clements.",
+      "context": "Musker und Clements entwickelten den Film gemeinsam. Für den Dschinni wurde Robin Williams’ komödiantisches Spiel in Animation übertragen; Figur und Darstellerleistung entstanden damit in enger Wechselwirkung.",
+      "anchor": "Musker und Clements entwickelten den Film gemeinsam.",
+      "interest": "Musker und Clements entwickelten den Film gemeinsam.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

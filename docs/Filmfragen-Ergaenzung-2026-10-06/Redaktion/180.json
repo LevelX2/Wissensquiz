@@ -1,0 +1,223 @@
+{
+  "rank": 180,
+  "directors": [
+    "Ben Palmer"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "Frankreich"
+  ],
+  "familiarity_reason": "Eine kleinere britische Identitätskomödie mit Lake Bell und Simon Pegg; redaktionell eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung 2015 beim Tribeca-Festival; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Man_Up_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Man_Up_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "zeitbezug": {
+      "url": "https://en.wikipedia.org/wiki/Plus_One_(2019_film)",
+      "supports": "Gelesener Artikel des ebenfalls redigierten Rangs 176: Filmjahr und konkrete Gegenstandsverbindung im Jahreskontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wofür hält Jack (Simon Pegg) Nancy (Lake Bell) bei ihrem Treffen in @?",
+      "answers": [
+        "Für seine verabredete Blind-Date-Partnerin",
+        "Für eine neue Bekanntschaft seiner Exfrau",
+        "Für eine alte Studienfreundin",
+        "Für die Freundin seiner erwarteten Verabredung"
+      ],
+      "feedback": [
+        "Jack hält Nancy für seine Blind-Date-Partnerin Jessica.",
+        "Er hält sie für die über das Buch erkennbare Verabredung.",
+        "Sie lernen sich gerade erst kennen.",
+        "Er nimmt Nancy unmittelbar als die erwartete Frau wahr."
+      ],
+      "short": "Jack hält Nancy für seine Blind-Date-Partnerin Jessica.",
+      "context": "Jack hält Nancy für seine Blind-Date-Partnerin Jessica. Nancy korrigiert ihn nicht sofort und übernimmt die fremde Rolle; der Film beginnt ihre Beziehung damit als Zufall, der durch eine bewusste Entscheidung verlängert wird.",
+      "anchor": "Nancy lässt eine zufällige Verwechslung zur Verabredung werden.",
+      "interest": "Nancy lässt eine zufällige Verwechslung zur Verabredung werden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Gegenstand führt in @ zur Verwechslung am Bahnhof?",
+      "answers": [
+        "Ein Selbsthilfebuch",
+        "Ein Hochzeitsring",
+        "Ein roter Reisepass",
+        "Eine Geige"
+      ],
+      "feedback": [
+        "Nancy (Lake Bell) trägt Jessicas Selbsthilfebuch unter der Bahnhofsuhr.",
+        "Ein Ring ist nicht das Erkennungszeichen.",
+        "Ein Pass löst die Verwechslung nicht aus.",
+        "Eine Geige trägt Nancy nicht als Signal."
+      ],
+      "short": "Nancy (Lake Bell) trägt Jessicas Selbsthilfebuch unter der Bahnhofsuhr.",
+      "context": "Nancy (Lake Bell) trägt Jessicas Selbsthilfebuch unter der Bahnhofsuhr. Jack (Simon Pegg) erkennt daran vermeintlich seine Verabredung; ein ausgeliehener Gegenstand wird so zum falschen Identitätsbeweis.",
+      "anchor": "Das Buch identifiziert die falsche Person.",
+      "interest": "Das Buch identifiziert die falsche Person.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welchen familiären Anlass möchte Nancy (Lake Bell) an diesem Abend in @ besuchen?",
+      "answers": [
+        "Den vierzigsten Hochzeitstag ihrer Eltern",
+        "Die Silberhochzeit ihrer Schwester",
+        "Die Verlobungsfeier ihres Bruders",
+        "Den Geburtstag ihrer Mutter"
+      ],
+      "feedback": [
+        "Nancy ist zum vierzigsten Hochzeitstag ihrer Eltern unterwegs.",
+        "Es sind die vierzig Ehejahre der Eltern.",
+        "Nicht eine neue Verlobung, sondern die lange Ehe der Eltern wird gefeiert.",
+        "Der Anlass ist der Hochzeitstag beider Eltern."
+      ],
+      "short": "Nancy ist zum vierzigsten Hochzeitstag ihrer Eltern unterwegs.",
+      "context": "Nancy ist zum vierzigsten Hochzeitstag ihrer Eltern unterwegs. Ihre geplante Rede steht neben dem unerwarteten Date; die langjährige Beziehung der Eltern bietet einen Gegenpunkt zu ihrer eigenen Enttäuschung über Partnerschaften.",
+      "anchor": "Das Elternjubiläum bildet den Gegenpol zu Nancys Datingfrust.",
+      "interest": "Das Elternjubiläum bildet den Gegenpol zu Nancys Datingfrust.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wer bringt Nancys (Lake Bell) falsche Rolle in @ beim Bowling in Gefahr?",
+      "answers": [
+        "Ein früherer Schulkamerad, der sie erkennt",
+        "Ein Zollbeamter mit einem Pass",
+        "Ihr Vater als Hallenbesitzer",
+        "Jessica als Bowlingtrainerin"
+      ],
+      "feedback": [
+        "Sean (Rory Kinnear), ein früherer Schulkamerad, erkennt Nancy und versucht sie zu erpressen.",
+        "Ein Zollbeamter prüft sie nicht.",
+        "Ihr Vater besitzt dort nicht die entscheidende Rolle.",
+        "Jessica arbeitet nicht als Bowlingtrainerin."
+      ],
+      "short": "Sean (Rory Kinnear), ein früherer Schulkamerad, erkennt Nancy und versucht sie zu erpressen.",
+      "context": "Sean (Rory Kinnear), ein früherer Schulkamerad, erkennt Nancy und versucht sie zu erpressen. Jack (Simon Pegg) erfährt daraufhin die Wahrheit; die private Vorgeschichte verhindert, dass ihre angenommene Identität stabil bleibt.",
+      "anchor": "Ein Bekannter durchschaut die fremde Identität.",
+      "interest": "Ein Bekannter durchschaut die fremde Identität.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum spielt Jack (Simon Pegg) in @ nach der Aufdeckung seinerseits eine falsche Beziehung mit Nancy?",
+      "answers": [
+        "Er will seine Exfrau eifersüchtig machen.",
+        "Er will seiner Exfrau völlige Gleichgültigkeit demonstrieren.",
+        "Er will die Verwechslung vor Jessica fortsetzen.",
+        "Er glaubt weiterhin, Nancy sei Jessica."
+      ],
+      "feedback": [
+        "Jack gibt Nancy (Lake Bell) vor seiner Exfrau als Freundin aus.",
+        "Er spielt die Beziehung, um sie eifersüchtig zu machen.",
+        "Die neue Szene richtet sich gegen seine Exfrau.",
+        "Die falsche Identität ist bereits aufgedeckt."
+      ],
+      "short": "Jack gibt Nancy (Lake Bell) vor seiner Exfrau als Freundin aus.",
+      "context": "Jack gibt Nancy (Lake Bell) vor seiner Exfrau als Freundin aus. Beide nutzen nun eine gespielte Beziehung; die ursprüngliche Täuschung wird zu einer gemeinsamen Strategie gegen alte Verletzungen.",
+      "anchor": "Aus Nancys Alleintäuschung wird ein gemeinsames Spiel.",
+      "interest": "Aus Nancys Alleintäuschung wird ein gemeinsames Spiel.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Was führt Jack (Simon Pegg) am Ende von @ zurück zu Nancy (Lake Bell)?",
+      "answers": [
+        "Er erkennt nach dem echten Blind Date, dass Nancy besser zu ihm passt.",
+        "Er erfährt, dass Jessica schon verheiratet ist.",
+        "Er will Nancy nur ihr vergessenes Buch zurückgeben.",
+        "Seine Exfrau fordert ihn zur Versöhnung mit Nancy auf."
+      ],
+      "feedback": [
+        "Jack trifft schließlich Jessica, entdeckt aber wenig Gemeinsamkeit.",
+        "Das echte Treffen macht ihm Nancys Passung klar.",
+        "Die Rückkehr hat ein romantisches Motiv.",
+        "Die Erkenntnis entsteht aus seinem eigenen Vergleich."
+      ],
+      "short": "Jack trifft schließlich Jessica, entdeckt aber wenig Gemeinsamkeit.",
+      "context": "Jack trifft schließlich Jessica, entdeckt aber wenig Gemeinsamkeit. Das vertauschte Notizbuch erinnert ihn an Nancy; er sucht sie beim Elternjubiläum und formuliert dort seine eigene Erklärung für ihre Beziehung.",
+      "anchor": "Der korrekte Termin bestätigt die passende falsche Begegnung.",
+      "interest": "Der korrekte Termin bestätigt die passende falsche Begegnung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2015",
+        "2012",
+        "2008",
+        "2017"
+      ],
+      "feedback": [
+        "2015 wurde der Film beim Tribeca-Festival erstmals gezeigt.",
+        "2012 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2015 wird im zeitlichen Hintergrund erklärt.",
+        "2008 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2015 wird im zeitlichen Hintergrund erklärt.",
+        "2017 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2015 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2015 wurde der Film beim Tribeca-Festival erstmals gezeigt.",
+      "context": "2015 wurde der Film beim Tribeca-Festival erstmals gezeigt. Im selben Jahr erschien „Plus One“ noch nicht: Die spätere Hochzeitsbegleitungskomödie folgte erst 2019. Beide Stoffe verbinden pragmatische Datingrollen mit ungeplanter echter Nähe; vier Jahre trennen ihre Veröffentlichungen.",
+      "anchor": "Man Up 2015, Plus One 2019: Vier Jahre trennen zwei Komödien über pragmatische Datingrollen und echte Nähe.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten",
+        "zeitbezug"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Ben Palmer",
+        "Claire Scanlon",
+        "Gillian Robespierre",
+        "Jon M. Chu"
+      ],
+      "feedback": [
+        "Ben Palmer inszenierte Tess Morris’ Drehbuch.",
+        "Claire Scanlon wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Ben Palmer.",
+        "Gillian Robespierre wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Ben Palmer.",
+        "Jon M. Chu wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Ben Palmer."
+      ],
+      "short": "Ben Palmer inszenierte Tess Morris’ Drehbuch.",
+      "context": "Ben Palmer inszenierte Tess Morris’ Drehbuch. Lake Bell spielt Nancy, Simon Pegg Jack. Ein Selbsthilfebuch als Erkennungszeichen löst die falsche Zuordnung aus; der gemeinsame Abend prüft anschließend, ob eine zufällige Täuschung dennoch eine passende Beziehung sichtbar machen kann.",
+      "anchor": "Ben Palmer inszenierte Tess Morris’ Drehbuch.",
+      "interest": "Ben Palmer inszenierte Tess Morris’ Drehbuch.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

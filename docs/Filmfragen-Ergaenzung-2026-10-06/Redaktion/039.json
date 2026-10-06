@@ -1,0 +1,228 @@
+{
+  "rank": 39,
+  "directors": [
+    "Steven Soderbergh"
+  ],
+  "production_countries": [
+    "USA",
+    "Irland"
+  ],
+  "familiarity_reason": "Agententhriller mit bekannten Darstellern und Gina Carano als MMA-Hauptdarstellerin, außerhalb des Genrekinos eher Entdeckung.",
+  "release_note": "AFI-Fest-Weltpremiere 6. November 2011; breiter US-Kinostart erst 20. Januar 2012.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Haywire_(2011_film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    },
+    "festival": {
+      "url": "https://www.afi.com/press/afi_fest_2011_secret_screening/",
+      "supports": "Weltpremiere 6. November 2011, Soderbergh, Carano und eigene Stunts, privater Auftragnehmer; Contagion September 2011."
+    },
+    "programm": {
+      "url": "https://www.berlinale.de/external/programme/archive/pdf/20121569.pdf",
+      "supports": "2011, Soderbergh, Barcelona-Rettung, Dublin-Verrat und Caranos Kampfhintergrund."
+    },
+    "institut": {
+      "url": "https://www.bfi.org.uk/film/ac6b4786-be17-565d-8364-bc8d132e6e2b/haywire",
+      "supports": "2011, USA und Irland; Regie Steven Soderbergh."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Für welche Art von Organisation arbeitet Mallory in @ vor dem Verrat?",
+      "answers": [
+        "Eine private Firma für verdeckte Geheimdienstaufträge",
+        "Eine reguläre Armeeeinheit",
+        "Eine städtische Polizeibehörde",
+        "Ein ausschließlich privater Personenschutzdienst"
+      ],
+      "feedback": [
+        "Mallory Kane (Gina Carano) arbeitet für einen privaten Geheimdienstauftragnehmer.",
+        "Die Aufträge laufen über einen privaten Auftragnehmer.",
+        "Die weltweiten Einsätze sind keine städtische Polizeiarbeit.",
+        "Die Firma übernimmt verdeckte Operationen statt ausschließlich Personenschutz."
+      ],
+      "short": "Mallory Kane (Gina Carano) arbeitet für einen privaten Geheimdienstauftragnehmer.",
+      "context": "Mallory Kane (Gina Carano) arbeitet für einen privaten Geheimdienstauftragnehmer. Regierungsstellen können so Abstand zu den Methoden der Einsätze halten; diese Struktur erleichtert später auch das Abschieben der Verantwortung auf sie.",
+      "anchor": "Die private Auftragsebene schafft Abstand zwischen staatlichem Auftrag und Gewalt.",
+      "interest": "Die private Auftragsebene schafft Abstand zwischen staatlichem Auftrag und Gewalt.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "In welcher Stadt wird Mallory bei dem als Paarmission getarnten Auftrag in @ angegriffen?",
+      "answers": [
+        "Dublin",
+        "Barcelona",
+        "Paris",
+        "Lissabon"
+      ],
+      "feedback": [
+        "Mallory (Gina Carano) spielt in Dublin Pauls (Michael Fassbender) Ehefrau.",
+        "Barcelona war der vorangegangene Einsatzort.",
+        "Paris ist nicht der Schauplatz der Hotelattacke.",
+        "Lissabon bildet nicht diese Paarmission."
+      ],
+      "short": "Mallory (Gina Carano) spielt in Dublin Pauls (Michael Fassbender) Ehefrau.",
+      "context": "Mallory (Gina Carano) spielt in Dublin Pauls (Michael Fassbender) Ehefrau. Die berufliche Tarnung endet im Angriff durch den angeblichen Partner; das sichere Zweierteam erweist sich als vorbereitete Falle.",
+      "anchor": "Die Paarrolle tarnt in Dublin den geplanten Mord durch den Partner.",
+      "interest": "Die Paarrolle tarnt in Dublin den geplanten Mord durch den Partner.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Woran erkennt Mallory in @ beim Empfang, dass sie mit Jiangs Tod belastet werden soll?",
+      "answers": [
+        "Der Tote hält ihre eigene Brosche in der Hand.",
+        "Sein Pass enthält ihren Namen als nächste Angehörige.",
+        "Ein Video zeigt sie beim angeblichen Mord.",
+        "Ihre Fingerabdrücke liegen auf einem bewusst danebenliegenden Messer."
+      ],
+      "feedback": [
+        "Mallory (Gina Carano) findet den zuvor befreiten Jiang (Anthony Brandon Wong) tot.",
+        "Ein Pass mit Familienangabe wird nicht zum Hinweis.",
+        "Sie findet kein solches Mordvideo.",
+        "Die Brosche ist das konkrete platzierte persönliche Beweisstück."
+      ],
+      "short": "Mallory (Gina Carano) findet den zuvor befreiten Jiang (Anthony Brandon Wong) tot.",
+      "context": "Mallory (Gina Carano) findet den zuvor befreiten Jiang (Anthony Brandon Wong) tot. Ihre Brosche beim Körper verbindet sie mit der Tat; dadurch erkennt sie das falsche Ermittlungsbild noch vor Pauls (Michael Fassbender) Angriff.",
+      "anchor": "Das eigene Schmuckstück macht die fremde Leiche zur vorbereiteten Belastung.",
+      "interest": "Das eigene Schmuckstück macht die fremde Leiche zur vorbereiteten Belastung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie bestätigt Mallory nach Pauls Tod in @ Kenneths Beteiligung an der Falle?",
+      "answers": [
+        "Sie ruft eine Nummer in Pauls Telefon zurück und erreicht Kenneth.",
+        "Sie findet Kenneths Unterschrift auf einem Polizeibericht.",
+        "Sie sieht Kenneth persönlich am Tatort.",
+        "Sie erhält eine Videobotschaft ihres Vaters."
+      ],
+      "feedback": [
+        "Mallory (Gina Carano) wählt eine Nummer aus Pauls Telefon.",
+        "Kein Polizeibericht liefert diese Bestätigung.",
+        "Kenneth ist nicht persönlich im Hotelzimmer.",
+        "Der Vater sendet keine solche Enthüllung."
+      ],
+      "short": "Mallory (Gina Carano) wählt eine Nummer aus Pauls Telefon.",
+      "context": "Mallory (Gina Carano) wählt eine Nummer aus Pauls (Michael Fassbender) Telefon. Kenneth (Ewan McGregor) fragt nach dem Abschluss der Tarnoperation; seine Reaktion verbindet die tödliche Paarmission unmittelbar mit ihrem Arbeitgeber.",
+      "anchor": "Der Rückruf führt aus der Hotelattacke zur Befehlsstelle in der Firma.",
+      "interest": "Der Rückruf führt aus der Hotelattacke zur Befehlsstelle in der Firma.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Wahrheit enthüllt Kenneth in @ über die vermeintliche Befreiung Jiangs?",
+      "answers": [
+        "Er wurde den Menschenhändlern ausgeliefert, die er als Journalist entlarvt hatte.",
+        "Jiang hatte die gesamte Rettung für einen Versicherungsbetrug inszeniert.",
+        "Jiang war ein verdeckter Kollege, der Mallory prüfen sollte.",
+        "Jiang war schon vor Mallorys Einsatz gegen einen Doppelgänger ausgetauscht worden."
+      ],
+      "feedback": [
+        "Kenneth (Ewan McGregor) erklärt, dass Jiang (Anthony Brandon Wong) als Journalist Menschenhandel aufgedeckt hatte.",
+        "Ein Versicherungsbetrug erklärt die Operation nicht.",
+        "Die Rettung dient keiner internen Prüfung.",
+        "Ein Doppelgänger bildet nicht Kenneths Erklärung."
+      ],
+      "short": "Kenneth (Ewan McGregor) erklärt, dass Jiang (Anthony Brandon Wong) als Journalist Menschenhandel aufgedeckt hatte.",
+      "context": "Kenneth (Ewan McGregor) erklärt, dass Jiang (Anthony Brandon Wong) als Journalist Menschenhandel aufgedeckt hatte. Mallory (Gina Carano) wurde zur Übergabe an dessen Gegner benutzt; die erfolgreiche Rettung war aus Sicht des Opfers die nächste Gefährdung.",
+      "anchor": "Die als Rettung verstandene Mission liefert den Journalisten an seine Gegner.",
+      "interest": "Die als Rettung verstandene Mission liefert den Journalisten an seine Gegner.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie lässt Mallory Kenneth nach dessen Geständnis am Strand in @ zurück?",
+      "answers": [
+        "Mit zwischen Felsen eingeklemmtem Fuß vor der steigenden Flut",
+        "An einen Bootssteg gefesselt neben einem Polizeifahrzeug",
+        "Bewusstlos in einem verschlossenen Strandhaus",
+        "Mit einem defekten Boot weit vor der Küste"
+      ],
+      "feedback": [
+        "Kenneth (Ewan McGregor) bleibt nach dem Kampf mit dem Fuß eingeklemmt.",
+        "Eine Übergabe am Steg findet nicht statt.",
+        "Sie sperrt ihn nicht in ein Strandhaus.",
+        "Er bleibt am Ufer zwischen den Felsen statt auf einem Boot."
+      ],
+      "short": "Kenneth (Ewan McGregor) bleibt nach dem Kampf mit dem Fuß eingeklemmt.",
+      "context": "Kenneth (Ewan McGregor) bleibt nach dem Kampf mit dem Fuß eingeklemmt. Mallory (Gina Carano) geht trotz seines Flehens; die Gezeiten werden zum letzten Mittel ihrer Gegenwehr gegen den ehemaligen Auftraggeber.",
+      "anchor": "Die Landschaft vollendet die Gefahr, nachdem Kenneth seine Bewegung verloren hat.",
+      "interest": "Die Landschaft vollendet die Gefahr, nachdem Kenneth seine Bewegung verloren hat.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2011",
+        "2009",
+        "2006",
+        "2012"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 2011.",
+        "2009 liegt zwei Jahre vor der ersten Veröffentlichung.",
+        "2006 liegt fünf Jahre vor der Erstveröffentlichung.",
+        "2012 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 2011 erstmals veröffentlicht.",
+      "context": "2011 wurde der Thriller erstmals gezeigt. Im selben Jahr veröffentlichte Soderbergh zuvor Contagion; dessen Septemberstart lag vor Haywires Novemberpremiere, obwohl Haywire bereits früher gedreht worden war. Die Veröffentlichungsfolge entspricht daher nicht der Drehfolge.",
+      "anchor": "2011 erschien Contagion im September vor Haywires Novemberpremiere, obwohl Haywire früher gedreht wurde.",
+      "interest": "2011 erschien Contagion im September vor Haywires Novemberpremiere, obwohl Haywire früher gedreht wurde.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Steven Soderbergh",
+        "Doug Liman",
+        "Paul Greengrass",
+        "Tony Scott"
+      ],
+      "feedback": [
+        "Steven Soderbergh führte Regie.",
+        "Doug Liman hat hier keinen Regiecredit.",
+        "Paul Greengrass hat hier keinen Regiecredit.",
+        "Tony Scott hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Steven Soderbergh.",
+      "context": "Soderbergh besetzte die MMA-Kämpferin Gina Carano als Mallory Kane. Ihre eigenen Kampffähigkeiten prägen die langen körperlichen Auseinandersetzungen; der Agentinnenfilm macht die Hauptfigur selbst zum zentralen Werkzeug ihrer Gegenwehr.",
+      "anchor": "Soderbergh baut Mallorys Gegenwehr um Caranos vorhandene MMA-Kampffähigkeiten.",
+      "interest": "Soderbergh baut Mallorys Gegenwehr um Caranos vorhandene MMA-Kampffähigkeiten.",
+      "sources": [
+        "festival",
+        "programm"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

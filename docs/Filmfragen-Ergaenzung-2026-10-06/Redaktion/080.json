@@ -1,0 +1,215 @@
+{
+  "rank": 80,
+  "directors": [
+    "Sally Potter"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "Frankreich",
+    "Italien",
+    "Niederlande",
+    "Russland"
+  ],
+  "familiarity_reason": "Literarischer Fantasyfilm, besonders im Arthouse- und Woolf-Publikum bekannt.",
+  "release_note": "Venedig-Premiere 1. September 1992; mehrere Landesstarts 1993.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Orlando_(film)",
+      "supports": "Gelesene Abschnitte Handlung, Besetzung, Erstveröffentlichung und Produktion; individuelle Bindung über sources je Frage."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche ungewöhnliche Bedingung stellt die Königin Orlando in @ für ihr Geschenk?",
+      "answers": [
+        "Orlando soll nicht altern.",
+        "Orlando soll nie schreiben.",
+        "Orlando soll niemals reisen.",
+        "Orlando soll jedes Jahr heiraten."
+      ],
+      "feedback": [
+        "Elizabeth I.",
+        "Das Schreiben wird nicht verboten.",
+        "Reisen sind nicht untersagt.",
+        "Jährliche Heiraten fordert sie nicht."
+      ],
+      "short": "Elizabeth I.",
+      "context": "Elizabeth I. (Quentin Crisp) verlangt, dass Orlando (Tilda Swinton) nicht altert. Orlando (Tilda Swinton) erhält Besitz und lebt danach durch mehrere Jahrhunderte; das Versprechen setzt die ungewöhnliche Zeitspanne der Erzählung.",
+      "anchor": "Der Besitz ist an ein Leben ohne Altern gebunden.",
+      "interest": "Der Besitz ist an ein Leben ohne Altern gebunden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Veränderung erlebt Orlando in @ nach dem langen Schlaf?",
+      "answers": [
+        "Orlando erwacht als Frau.",
+        "Orlando erwacht äußerlich stark gealtert.",
+        "Orlando erwacht ohne Erinnerung an die Vergangenheit.",
+        "Orlando erwacht wieder im Haus der Kindheit."
+      ],
+      "feedback": [
+        "Orlando (Tilda Swinton) erwacht als Frau.",
+        "Der Altersstillstand bleibt bestehen.",
+        "Das gleiche Ich und die Erinnerungen bleiben.",
+        "Die Szene zeigt den Geschlechtswechsel im bisherigen Aufenthaltsraum."
+      ],
+      "short": "Orlando (Tilda Swinton) erwacht als Frau.",
+      "context": "Orlando (Tilda Swinton) erwacht als Frau. Die Figur versteht sich weiterhin als dieselbe Person; die soziale Behandlung verändert sich jedoch durch die neue Geschlechtszuordnung.",
+      "anchor": "Das gleiche Ich wird unter anderen gesellschaftlichen Regeln gesehen.",
+      "interest": "Das gleiche Ich wird unter anderen gesellschaftlichen Regeln gesehen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum wird Orlandos Besitz nach der Rückkehr in @ juristisch angefochten?",
+      "answers": [
+        "Eine Frau könne das Land nicht in gleicher Weise erben.",
+        "Orlando habe ohne königliche Erlaubnis geheiratet.",
+        "Orlando sei nach der Reise rechtlich für tot erklärt worden.",
+        "Orlando habe die Abgaben an das Königshaus verweigert."
+      ],
+      "feedback": [
+        "Das weibliche Geschlecht wird gegen Orlandos Erbrecht verwendet.",
+        "Die Rechtsfrage wird am weiblichen Geschlecht festgemacht.",
+        "Eine Todeserklärung ist nicht der genannte Angriff.",
+        "Steuerverweigerung begründet den Streit nicht."
+      ],
+      "short": "Das weibliche Geschlecht wird gegen Orlandos Erbrecht verwendet.",
+      "context": "Das weibliche Geschlecht wird gegen Orlandos Erbrecht verwendet. Orlando (Tilda Swinton) erlebt damit, dass das königliche Dauerbesitzversprechen von den gesellschaftlichen Regeln abhängig bleibt.",
+      "anchor": "Der Geschlechtswechsel verwandelt sicheren Besitz in einen Rechtsstreit.",
+      "interest": "Der Geschlechtswechsel verwandelt sicheren Besitz in einen Rechtsstreit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum flieht Orlando in @ aus der Schlacht im Osmanischen Reich?",
+      "answers": [
+        "Der erste erlebte Tod erschüttert Orlando.",
+        "Orlando wird wegen des Scheiterns einer Verhandlung abberufen.",
+        "Orlando erhält eine Nachricht über den Verlust des Besitzes.",
+        "Orlando will vor der Gefangennahme durch den Khan entkommen."
+      ],
+      "feedback": [
+        "Orlando (Tilda Swinton) flieht nach dem ersten gesehenen Tod.",
+        "Die unmittelbare Erschütterung ist der erlebte Tod.",
+        "Eine Besitznachricht löst diese Flucht nicht aus.",
+        "Der Khan nimmt Orlando nicht in diesem Moment gefangen."
+      ],
+      "short": "Orlando (Tilda Swinton) flieht nach dem ersten gesehenen Tod.",
+      "context": "Orlando (Tilda Swinton) flieht nach dem ersten gesehenen Tod. Der höfisch-diplomatische Aufenthalt trifft damit auf die konkrete Gewalt, die Titel und Zeremonien zuvor auf Abstand hielten.",
+      "anchor": "Die Erfahrung des Sterbens beendet die Distanz zum Krieg.",
+      "interest": "Die Erfahrung des Sterbens beendet die Distanz zum Krieg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Doppelbesetzung verbindet in @ frühe Dichtung und modernen Buchmarkt?",
+      "answers": [
+        "Der spöttische Dichter und der spätere Verleger haben denselben Darsteller.",
+        "Die Königin und Orlandos Tochter haben dieselbe Darstellerin.",
+        "Der Khan und der Engel haben denselben Darsteller.",
+        "Sasha und Shelmerdine werden von derselben Person gespielt."
+      ],
+      "feedback": [
+        "Heathcote Williams spielt Nick Greene und den modernen Verleger.",
+        "Königin und Tochter teilen die Besetzung nicht.",
+        "Khan und Engel ebenfalls nicht.",
+        "Sasha und Shelmerdine haben verschiedene Darsteller."
+      ],
+      "short": "Heathcote Williams spielt Nick Greene und den modernen Verleger.",
+      "context": "Heathcote Williams spielt Nick Greene und den modernen Verleger. Derselbe Darsteller begegnet Orlandos (Tilda Swinton) Schreiben damit einmal als vernichtender Kritiker und später als anerkennender Leser.",
+      "anchor": "Die gleiche Besetzung trägt zwei gegensätzliche Literatururteile.",
+      "interest": "Die gleiche Besetzung trägt zwei gegensätzliche Literatururteile.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was unterscheidet die familiäre Situation am modernen Schluss von @ von Orlandos früherer Isolation?",
+      "answers": [
+        "Orlando kommt mit einer Tochter.",
+        "Orlando zieht erneut allein in das Schloss.",
+        "Orlando betreut als Vormund den Sohn der Königin.",
+        "Orlando wartet allein auf Shelmerdines Rückkehr."
+      ],
+      "feedback": [
+        "Orlando (Tilda Swinton) hat am Schluss eine Tochter.",
+        "Am Schluss begleitet die eigene Tochter Orlando.",
+        "Ein königlicher Sohn ist nicht die neue Familie.",
+        "Die Tochter beendet die frühere reine Isolation."
+      ],
+      "short": "Orlando (Tilda Swinton) hat am Schluss eine Tochter.",
+      "context": "Orlando (Tilda Swinton) hat am Schluss eine Tochter. Die Suche nach einem Verlag und der gemeinsame Besuch des alten Besitzes verbinden das jahrhundertelange Leben mit einem gegenwärtigen Familienalltag.",
+      "anchor": "Das lange Einzelleben mündet in einen Alltag mit Tochter.",
+      "interest": "Das lange Einzelleben mündet in einen Alltag mit Tochter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1992",
+        "1990",
+        "1987",
+        "1993"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1992.",
+        "1990 liegt zwei Jahre vor der Erstveröffentlichung.",
+        "1987 liegt fünf Jahre davor.",
+        "1993 liegt ein Jahr nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film wurde 1992 erstmals veröffentlicht.",
+      "context": "1992 wurde die Adaption in Venedig gezeigt. Virginia Woolfs Roman erschien 1928, 64 Jahre zuvor. Die Gegenwart am Filmende wurde gegenüber dem Buch bis in die frühen neunziger Jahre verschoben.",
+      "anchor": "Woolfs Roman von 1928 wurde 64 Jahre später, 1992, verfilmt.",
+      "interest": "Woolfs Roman von 1928 wurde 64 Jahre später, 1992, verfilmt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Sally Potter",
+        "Jane Campion",
+        "Peter Greenaway",
+        "Derek Jarman"
+      ],
+      "feedback": [
+        "Sally Potter führte Regie.",
+        "Jane Campion hat hier keinen Regiecredit.",
+        "Peter Greenaway hat hier keinen Regiecredit.",
+        "Derek Jarman hat hier keinen Regiecredit."
+      ],
+      "short": "Regie: Sally Potter.",
+      "context": "Potter schrieb die Adaption und inszenierte sie. Die Hauptrolle wurde mit Tilda Swinton entwickelt; die Filmfassung verändert unter anderem die Gegenwart des Schlusses und gibt Orlando (Tilda Swinton) dort eine Tochter.",
+      "anchor": "Potter schrieb die Adaption und inszenierte sie.",
+      "interest": "Potter schrieb die Adaption und inszenierte sie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

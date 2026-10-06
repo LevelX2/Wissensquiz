@@ -1,0 +1,217 @@
+{
+  "rank": 27,
+  "directors": [
+    "Sam Hargrave"
+  ],
+  "production_countries": [
+    "USA",
+    "Australien",
+    "Indien"
+  ],
+  "familiarity_reason": "Durch Netflix und Chris Hemsworth einem breiten Streamingpublikum vertraut, mit stärkerer Präsenz unter Actionzuschauern.",
+  "release_note": "Netflix-Veröffentlichung am 24. April 2020.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Extraction_(2020_film)",
+    "primaer": "https://media.netflix.com/en/only-on-netflix/80230399",
+    "fortsetzung": "https://www.netflix.com/tudum/videos/extraction-2-trailer-chris-hemsworth"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wen soll Tyler Rake (Chris Hemsworth) in @ aus der Gefangenschaft retten?",
+      "answers": [
+        "Den entführten Sohn eines indischen Drogenbosses",
+        "Einen im Ausland gefangenen Diplomaten",
+        "Seinen verschwundenen Bruder",
+        "Eine Journalistin mit geheimen Militärakten"
+      ],
+      "feedback": [
+        "Der Auftrag gilt Ovi Mahajan Jr.",
+        "Ovi ist kein Diplomat.",
+        "Tyler soll nicht seinen Bruder befreien.",
+        "Die Zielperson ist der Sohn eines Drogenbosses."
+      ],
+      "short": "Tyler soll Ovi, den Sohn eines inhaftierten Drogenbosses, retten.",
+      "context": "Ovi (Rudhraksh Jaiswal) wird von Leuten eines rivalisierenden Drogenbosses entführt. Tyler übernimmt einen bezahlten Rettungsauftrag, der zunächst nach einer klaren Befreiung und Übergabe aussieht. Als die Flucht behindert wird und die Bezahlung ausbleibt, muss er über den Wert dieser Verpflichtung entscheiden.",
+      "anchor": "Tyler Rakes Auftrag ist die Rettung des entführten Ovi.",
+      "interest": "Die Zielperson macht die Ausgangslage des Rettungsfilms verständlich.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "In welcher Stadt findet die zentrale Rettungs- und Fluchthandlung von @ statt?",
+      "answers": [
+        "Dhaka",
+        "Mumbai",
+        "Karatschi",
+        "Kolkata"
+      ],
+      "feedback": [
+        "Die Flucht führt durch Dhaka in Bangladesch.",
+        "Mumbai ist nicht der Schauplatz der zentralen Rettung.",
+        "Der Film verlegt diese Rettung nicht nach Karatschi.",
+        "Kolkata ist nicht die gesuchte Stadt."
+      ],
+      "short": "Die Hauptmission spielt in Dhaka.",
+      "context": "Tyler (Chris Hemsworth) befreit Ovi (Rudhraksh Jaiswal) in der bangladeschischen Hauptstadt. Der gegnerische Drogenboss kontrolliert dort auch korrupte Sicherheitskräfte. Die Flucht ist deshalb nicht mit dem Verlassen eines einzelnen Verstecks beendet, sondern muss durch eine überwachte und abgeriegelte Stadt führen.",
+      "anchor": "Nach Ovis Befreiung bleibt ganz Dhaka das Hindernis der Flucht.",
+      "interest": "Der Ort erklärt den Maßstab des folgenden Hindernisses.",
+      "sources": [
+        "handlung",
+        "primaer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum bekämpft Saju (Randeep Hooda) in @ zunächst auch die von Ovis Vater beauftragten Retter?",
+      "answers": [
+        "Er will Ovi ohne die fällige Bezahlung der Söldner zurückbringen",
+        "Er weiß, dass Ovi sich freiwillig versteckt hat",
+        "Er wurde von Tyler zum verdeckten Training verpflichtet",
+        "Er versucht Ovi an die Polizei auszuliefern"
+      ],
+      "feedback": [
+        "Die fehlende Bezahlung macht aus zwei Rettungsbemühungen einen Kampf gegeneinander.",
+        "Ovi ist tatsächlich entführt worden.",
+        "Die Angriffe sind keine abgesprochene Übung.",
+        "Saju will den Jungen zurückbringen, nicht als Beschuldigten ausliefern."
+      ],
+      "short": "Saju versucht, die Rettung ohne Bezahlung der Söldner zu übernehmen.",
+      "context": "Ovis Vater kann die vereinbarte Summe aus seinem eingefrorenen Vermögen nicht aufbringen. Saju steht zugleich unter einer Drohung gegen seine eigene Familie. Obwohl er ebenfalls Ovi (Rudhraksh Jaiswal) retten soll, greift er Tylers Team an und verschärft dadurch die Gefahr für alle Beteiligten.",
+      "anchor": "Zwei Rettungsaufträge werden durch das fehlende Geld zu Gegnern.",
+      "interest": "Die Motivation erklärt den zunächst widersprüchlich wirkenden Angriff.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welches Angebot macht Gaspar (David Harbour) Tyler in @ über den geretteten Jungen?",
+      "answers": [
+        "Ovi zu töten und die ausgesetzte Belohnung zu teilen",
+        "Ovi kostenfrei in einer Schule aufzunehmen",
+        "Ovi über ein abgesprochenes Gerichtsverfahren auszureisen",
+        "Ovi gegen Saju auszutauschen"
+      ],
+      "feedback": [
+        "Gaspar bietet eine Beteiligung an der Belohnung für Ovis Tod an.",
+        "Sein Angebot ist keine sichere Schulunterbringung.",
+        "Ein rechtlich geregeltes Ausreiseverfahren wird nicht angeboten.",
+        "Ein Tausch gegen Saju ist nicht der Handel."
+      ],
+      "short": "Gaspar will Ovi für die Belohnung töten.",
+      "context": "Tyler (Chris Hemsworth) sucht bei seinem früheren Kameraden Schutz. Gaspars Vorschlag macht deutlich, dass selbst diese persönliche Verbindung keine sichere Zuflucht garantiert. Tyler lehnt den Verrat an Ovi (Rudhraksh Jaiswal) ab; die Auseinandersetzung endet damit, dass der Junge Gaspar erschießt.",
+      "anchor": "Der alte Kamerad bietet Geld für den Verrat an Ovi.",
+      "interest": "Das Angebot setzt den Rettungsauftrag gegen einen persönlich verlockenden Ausweg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Erinnerung hilft in @ zu erklären, warum Tyler Ovi trotz des gescheiterten Vertrags nicht zurücklässt?",
+      "answers": [
+        "Er verließ seinen krebskranken Sohn, weil er dessen Leiden nicht ertrug",
+        "Er verlor Ovis Vater bei einem gemeinsamen Militäreinsatz",
+        "Er hatte Ovi vor Jahren selbst als Kind ausgebildet",
+        "Er schuldet Gaspar die Rettung dessen Familie"
+      ],
+      "feedback": [
+        "Die Erinnerung an seinen verstorbenen Sohn belastet Tyler.",
+        "Ovis Vater ist nicht Tylers gefallener Kamerad.",
+        "Eine frühere Ausbildung Ovis findet nicht statt.",
+        "Die Motivation stammt nicht aus einer solchen Schuld an Gaspar."
+      ],
+      "short": "Tyler erinnert sich daran, seinen sterbenden Sohn verlassen zu haben.",
+      "context": "Nik (Golshifteh Farahani) bietet Tyler einen Ausweg ohne Ovi an, nachdem der Vertrag hinfällig geworden ist. Er entscheidet sich dennoch für den Jungen. Seine Erinnerung an den Tod des eigenen Sohnes gibt diesem Entschluss eine persönliche Bedeutung, die über die ursprünglich vereinbarte Bezahlung hinausgeht.",
+      "anchor": "Die Schuld um den eigenen Sohn prägt Tylers Festhalten an Ovi.",
+      "interest": "Die Vorgeschichte macht den Wandel vom Auftrag zur persönlichen Verantwortung nachvollziehbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie lässt @ Tylers Schicksal im letzten Bild am Schwimmbecken erscheinen?",
+      "answers": [
+        "Eine unscharfe Gestalt ähnelt Tyler, ohne ihn eindeutig zu bestätigen",
+        "Ovi findet eine eindeutige Todesurkunde am Becken",
+        "Tyler spricht dort einen klar verständlichen Abschiedssatz",
+        "Ein Rückblick zeigt seinen unzweifelhaften Tod unter Wasser"
+      ],
+      "feedback": [
+        "Die unscharfe Erscheinung hält Tylers mögliches Überleben offen.",
+        "Es gibt dort keine eindeutige Todesurkunde.",
+        "Die Szene bestätigt ihn nicht mit einem gesprochenen Abschied.",
+        "Das Bild ist keine solche definitive Todesszene."
+      ],
+      "short": "Eine Tyler ähnelnde unscharfe Gestalt steht am Rand.",
+      "context": "Tyler (Chris Hemsworth) ist zuvor schwer verletzt in den Fluss gestürzt. Monate später taucht Ovi (Rudhraksh Jaiswal) aus dem Schwimmbecken auf und sieht eine verschwommene Person. Die Szene greift Tylers früheres Untertauchen auf, gibt im ersten Film allein aber keine eindeutige visuelle Bestätigung seines Überlebens.",
+      "anchor": "Der unscharfe Mann am Becken hält Tylers Überleben im ersten Film offen.",
+      "interest": "Die Frage bewahrt die Offenheit des ursprünglichen Endes.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2020",
+        "2017",
+        "2019",
+        "2023"
+      ],
+      "feedback": [
+        "Diese Filmfassung wurde 2020 erstmals veröffentlicht.",
+        "2017 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2020.",
+        "2019 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2020.",
+        "2023 ist nicht das erste Veröffentlichungsjahr dieser Filmfassung; maßgeblich ist 2020."
+      ],
+      "short": "Das erste Veröffentlichungsjahr ist 2020.",
+      "context": "Der erste Extraction-Film wurde 2020 auf Netflix veröffentlicht. Extraction 2 folgte 2023, drei Jahre später, mit Chris Hemsworth und Sam Hargrave erneut in den zentralen Funktionen. Die Fortsetzung greift Tylers Überleben auf, während das Ende des ersten Films dies zunächst nur als Möglichkeit andeutet.",
+      "anchor": "Extraction begann 2020; drei Jahre später folgte 2023 der zweite Film.",
+      "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
+      "sources": [
+        "handlung",
+        "primaer",
+        "fortsetzung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Sam Hargrave",
+        "Chad Stahelski",
+        "Gareth Evans",
+        "Antoine Fuqua"
+      ],
+      "feedback": [
+        "Sam Hargrave verantwortet die hier gefragte Regie.",
+        "Chad Stahelski führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Gareth Evans führte bei dieser Filmfassung nicht die gefragte Regie.",
+        "Antoine Fuqua führte bei dieser Filmfassung nicht die gefragte Regie."
+      ],
+      "short": "Die gesuchte Regie stammt von Sam Hargrave.",
+      "context": "Sam Hargrave inszenierte den ersten Extraction und kehrte auch für den zweiten Film zurück. Joe Russo schrieb das Drehbuch, während Chris Hemsworth Tyler Rake spielt. Die Zuordnung trennt damit Regie, Schreiben und Hauptrolle, die bei diesem Projekt von verschiedenen Filmschaffenden übernommen wurden.",
+      "anchor": "Sam Hargrave inszenierte diese Filmfassung.",
+      "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
+      "sources": [
+        "handlung",
+        "fortsetzung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

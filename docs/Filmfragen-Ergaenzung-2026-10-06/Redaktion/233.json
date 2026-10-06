@@ -1,0 +1,218 @@
+{
+  "rank": 233,
+  "directors": [
+    "Joel Coen",
+    "Ethan Coen"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekannte Netflix-Westernanthologie der Coen-Brüder mit sechs unterschiedlich angelegten Geschichten.",
+  "release_note": "Erste Veröffentlichung 2018 bei den Filmfestspielen von Venedig; maßgeblich ist die erste Festivalvorführung dieser Fassung.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Ballad_of_Buster_Scruggs",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Ballad_of_Buster_Scruggs",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie ist @ erzählerisch aufgebaut?",
+      "answers": [
+        "Als sechs voneinander getrennte Western-Geschichten",
+        "Als ein Duell in sechs wiederholten Perspektiven",
+        "Als sechs Jahrzehnte derselben Familie",
+        "Als sechs Stationen eines einzigen Viehtrecks"
+      ],
+      "feedback": [
+        "Sechs eigenständige Geschichten bilden die Anthologie.",
+        "Es wird nicht ein Duell mehrfach erzählt.",
+        "Keine einzelne Familienchronik umfasst die Kapitel.",
+        "Ein gemeinsamer Viehtreck verbindet sie nicht."
+      ],
+      "short": "Sechs eigenständige Geschichten bilden die Anthologie.",
+      "context": "Sechs eigenständige Geschichten bilden die Anthologie. Wiederkehrende Motive wie Tod, Zufall und Geschäfte verbinden sie, ohne dass dieselben Figuren eine fortlaufende Handlung tragen.",
+      "anchor": "Die Anthologie variiert den Western in sechs eigenständigen Geschichten.",
+      "interest": "Die Anthologie variiert den Western in sechs eigenständigen Geschichten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Fähigkeit verbindet Buster und den jungen Herausforderer in @ neben dem Schießen?",
+      "answers": [
+        "Beide singen",
+        "Beide spielen Poker professionell",
+        "Beide dressieren Pferde",
+        "Beide sprechen mehrere Sprachen"
+      ],
+      "feedback": [
+        "Buster (Tim Blake Nelson) und der junge Cowboy (Willie Watson) sind beide Sänger.",
+        "Professionelles Poker verbindet sie nicht.",
+        "Pferdedressur wird nicht als gemeinsame Kunst gezeigt.",
+        "Mehrsprachigkeit ist nicht das Motiv."
+      ],
+      "short": "Buster (Tim Blake Nelson) und der junge Cowboy (Willie Watson) sind beide Sänger.",
+      "context": "Buster (Tim Blake Nelson) und der junge Cowboy (Willie Watson) sind beide Sänger. Nach dem tödlichen Duell wird ihr gemeinsames Lied zum bitteren Kommentar auf Busters verlorene Vormachtstellung.",
+      "anchor": "Das Duett setzt die musikalische Gemeinsamkeit über den Tod fort.",
+      "interest": "Das Duett setzt die musikalische Gemeinsamkeit über den Tod fort.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wodurch ersetzt der Impresario in Meal Ticket innerhalb von @ schließlich seinen Künstler?",
+      "answers": [
+        "Durch ein scheinbar rechnendes Huhn",
+        "Durch eine mechanische Orgel",
+        "Durch einen dressierten Hund",
+        "Durch eine Sammlung von Schießscheiben"
+      ],
+      "feedback": [
+        "Der Impresario (Liam Neeson) kauft ein Huhn, das scheinbar rechnet.",
+        "Eine Orgel wird nicht gekauft.",
+        "Ein Hund ist nicht die Attraktion.",
+        "Schießscheiben ersetzen nicht die Darbietung."
+      ],
+      "short": "Der Impresario (Liam Neeson) kauft ein Huhn, das scheinbar rechnet.",
+      "context": "Der Impresario (Liam Neeson) kauft ein Huhn, das scheinbar rechnet. Das gewinnträchtigere Spektakel verdrängt den körperlich abhängigen Rezitator (Harry Melling); dessen Fortgang wird auf bedrückende Weise ausgespart.",
+      "anchor": "Das neue Spektakel macht den abhängigen Künstler wirtschaftlich entbehrlich.",
+      "interest": "Das neue Spektakel macht den abhängigen Künstler wirtschaftlich entbehrlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Wie überlebt der Goldsucher in All Gold Canyon innerhalb von @ den Angriff?",
+      "answers": [
+        "Er stellt sich tot und überwältigt den Täter",
+        "Er flieht durch einen alten Minenstollen",
+        "Er ruft versteckte Begleiter zu Hilfe",
+        "Er tauscht seinen Fund gegen die Freiheit"
+      ],
+      "feedback": [
+        "Der Goldsucher (Tom Waits) überlebt den Schuss und stellt sich tot.",
+        "Ein Stollen dient nicht zur Flucht.",
+        "Begleiter kommen nicht.",
+        "Er gibt den Fund nicht preis."
+      ],
+      "short": "Der Goldsucher (Tom Waits) überlebt den Schuss und stellt sich tot.",
+      "context": "Der Goldsucher (Tom Waits) überlebt den Schuss und stellt sich tot. Als der Angreifer in die Grube steigt, nimmt er ihm die Waffe ab; sorgfältige Arbeit und körperliche Erfahrung tragen seinen Erfolg.",
+      "anchor": "Die scheinbare Niederlage ermöglicht den Gegenangriff.",
+      "interest": "Die scheinbare Niederlage ermöglicht den Gegenangriff.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum stirbt Alice in The Gal Who Got Rattled innerhalb von @ trotz der Abwehr des Angriffs?",
+      "answers": [
+        "Sie glaubt ihren Beschützer tot und befolgt dessen Selbsttötungsanweisung",
+        "Sie wird von ihrem Verlobten irrtümlich getroffen",
+        "Sie läuft beim Brand in ihren Wagen zurück",
+        "Sie trinkt versehentlich vergiftetes Wasser"
+      ],
+      "feedback": [
+        "Alice (Zoe Kazan) hält Mr.",
+        "Billy schießt nicht auf sie.",
+        "Ein Wagenbrand ist nicht der Anlass.",
+        "Giftwasser tötet sie nicht."
+      ],
+      "short": "Alice (Zoe Kazan) hält Mr.",
+      "context": "Alice (Zoe Kazan) hält Mr. Arthur (Grainger Hines) für tot und erschießt sich, wie er es für den Fall einer Niederlage empfohlen hat. Er überlebt und entdeckt den verhängnisvollen Irrtum.",
+      "anchor": "Eine Schutzanweisung wird durch falsche Wahrnehmung tödlich.",
+      "interest": "Eine Schutzanweisung wird durch falsche Wahrnehmung tödlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Einschränkung verstärkt die bedrohliche Kutschenfahrt in The Mortal Remains innerhalb von @?",
+      "answers": [
+        "Der Fahrer hält trotz der Bitte nicht an",
+        "Die Passagiere dürfen nicht miteinander sprechen",
+        "Die Türen lassen sich während der Fahrt nicht schließen",
+        "Jeder Fahrgast muss seine Waffen vorzeigen"
+      ],
+      "feedback": [
+        "Der Fahrer hält trotz der Bitte eines Reisenden nicht an.",
+        "Die Figuren führen ausführliche Gespräche.",
+        "Offene Türen sind nicht die Drohung.",
+        "Eine Waffeninspektion ist nicht die Einschränkung."
+      ],
+      "short": "Der Fahrer hält trotz der Bitte eines Reisenden nicht an.",
+      "context": "Der Fahrer hält trotz der Bitte eines Reisenden nicht an. Die Gespräche mit den beiden Kopfgeldjägern und der unaufhaltsame Weg zum Hotel geben der Fahrt eine bedrohliche, möglicherweise jenseitige Bedeutung.",
+      "anchor": "Die unaufhaltsame Fahrt lässt die Reise wie einen letzten Übergang erscheinen.",
+      "interest": "Die unaufhaltsame Fahrt lässt die Reise wie einen letzten Übergang erscheinen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2015",
+        "2011",
+        "2020"
+      ],
+      "feedback": [
+        "2018 wurde der Film veröffentlicht.",
+        "2015 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2011 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2020 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2018 wurde der Film veröffentlicht.",
+      "context": "2018 wurde der Film veröffentlicht. Die Produktion wurde 2017 angekündigt; statt der vielfach erwarteten Serie entstand eine gemeinsame Filmfolge aus sechs Western-Erzählungen.",
+      "anchor": "Ankündigung 2017, Film 2018: Im folgenden Jahr wird aus den erwarteten Serienkapiteln eine gemeinsame Westernanthologie.",
+      "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Joel Coen und Ethan Coen",
+        "Phil Lord und Christopher Miller",
+        "John Requa und Glenn Ficarra",
+        "Joe Russo und Anthony Russo"
+      ],
+      "feedback": [
+        "Joel Coen und Ethan Coen führten gemeinsam Regie.",
+        "Phil Lord und Christopher Miller wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Joel Coen und Ethan Coen.",
+        "John Requa und Glenn Ficarra wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Joel Coen und Ethan Coen.",
+        "Joe Russo und Anthony Russo wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Joel Coen und Ethan Coen."
+      ],
+      "short": "Joel Coen und Ethan Coen führten gemeinsam Regie.",
+      "context": "Joel Coen und Ethan Coen führten gemeinsam Regie. Das Projekt war ihr erster vollständig digital gedrehter Film; sechs Kapitel verbinden komische Überraschungen mit tödlicher Endgültigkeit.",
+      "anchor": "Joel Coen und Ethan Coen führten gemeinsam Regie.",
+      "interest": "Joel Coen und Ethan Coen führten gemeinsam Regie.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

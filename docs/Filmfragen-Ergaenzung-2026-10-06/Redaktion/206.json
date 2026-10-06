@@ -1,0 +1,218 @@
+{
+  "rank": 206,
+  "directors": [
+    "Henri-Georges Clouzot"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Italien"
+  ],
+  "familiarity_reason": "Ein klassischer französischer Spannungsthriller mit Montand, vor allem Kinokennern vertraut.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 1953; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Wages_of_Fear",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/The_Wages_of_Fear",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche gefährliche Ladung müssen die Männer in @ transportieren?",
+      "answers": [
+        "Nitroglycerin",
+        "Dynamitstangen",
+        "Benzin in offenen Fässern",
+        "Sprengstofffreie Ölbohrgeräte"
+      ],
+      "feedback": [
+        "Die Lastwagen transportieren Nitroglycerin.",
+        "Es ist flüssiges Nitroglycerin, dessen Erschütterung gefährlich ist.",
+        "Nitroglycerin ist die Ladung.",
+        "Der Transport ist gerade wegen des hochempfindlichen Sprengstoffs gefährlich."
+      ],
+      "short": "Die Lastwagen transportieren Nitroglycerin.",
+      "context": "Die Lastwagen transportieren Nitroglycerin. Der Sprengstoff soll einen Ölbrand beenden, reagiert aber empfindlich auf Erschütterungen; aus schlechter Straße und gewöhnlicher Fahrzeugbewegung entsteht deshalb unmittelbare Todesgefahr.",
+      "anchor": "Der lebensrettende Sprengstoff bedroht seine Transporteure.",
+      "interest": "Der lebensrettende Sprengstoff bedroht seine Transporteure.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum nehmen die Männer in @ den gefährlichen Auftrag an?",
+      "answers": [
+        "Der Lohn verspricht einen Ausweg aus ihrer Armut.",
+        "Sie sind bereits fest angestellte Sprengmeister.",
+        "Sie müssen eine Gefängnisstrafe auf diese Weise abarbeiten.",
+        "Sie wollen die Ölgesellschaft gemeinsam übernehmen."
+      ],
+      "feedback": [
+        "Die Männer sitzen mittellos in Las Piedras fest.",
+        "Die Aussicht auf Geld bringt die mittellosen Männer dazu.",
+        "Der Auftrag ist keine Ersatzstrafe.",
+        "Sie suchen einen persönlichen Ausweg, keine Firmenübernahme."
+      ],
+      "short": "Die Männer sitzen mittellos in Las Piedras fest.",
+      "context": "Die Männer sitzen mittellos in Las Piedras fest. Der hohe Lohn kann die Abreise ermöglichen; ihre scheinbar freie Entscheidung steht deshalb unter dem Druck fehlender anderer Chancen.",
+      "anchor": "Armut macht den lebensgefährlichen Lohn attraktiv.",
+      "interest": "Armut macht den lebensgefährlichen Lohn attraktiv.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum fahren die beiden Lastwagen in @ mit Abstand?",
+      "answers": [
+        "Eine Explosion soll nicht beide Fahrzeuge vernichten.",
+        "Die Firmenversicherung erlaubt nur einzelne Fahrzeuge.",
+        "Die Ladung soll in zwei unterschiedlichen Fabriken ankommen.",
+        "Die Straße erlaubt grundsätzlich keinen gleichzeitigen Verkehr."
+      ],
+      "feedback": [
+        "Die Fahrer halten Abstand, um die Folgen einer möglichen Explosion zu begrenzen.",
+        "Der Abstand begrenzt die Folgen einer Explosion.",
+        "Das gemeinsame Ziel verlangt keinen getrennten Bestimmungsort.",
+        "Die besondere Gefahr der Ladung, nicht eine Verkehrsregel, ist der Grund."
+      ],
+      "short": "Die Fahrer halten Abstand, um die Folgen einer möglichen Explosion zu begrenzen.",
+      "context": "Die Fahrer halten Abstand, um die Folgen einer möglichen Explosion zu begrenzen. Die Trennung zeigt, dass der Auftrag mit dem Tod bereits rechnet; sie ersetzt jedoch keine sichere Straße oder geeignete Transportausrüstung.",
+      "anchor": "Der Sicherheitsabstand kalkuliert den möglichen Verlust eines Teams.",
+      "interest": "Der Sicherheitsabstand kalkuliert den möglichen Verlust eines Teams.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Veränderung Jo (Charles Vanel) fällt während der Fahrt in @ besonders auf?",
+      "answers": [
+        "Seine anfängliche Härte weicht zunehmender Angst.",
+        "Er wird trotz aller Hindernisse zunehmend übermütig.",
+        "Er lässt sich dauerhaft als Fahrer ersetzen.",
+        "Er erkennt den Auftrag plötzlich als ungefährlich."
+      ],
+      "feedback": [
+        "Jo wirkt zunächst dominant, verliert aber unterwegs seine Nerven.",
+        "Seine Angst nimmt zu, statt Sicherheit zu gewinnen.",
+        "Die Veränderung betrifft seine Haltung während der Fahrt.",
+        "Die Gefahr erschüttert seine anfängliche Härte."
+      ],
+      "short": "Jo wirkt zunächst dominant, verliert aber unterwegs seine Nerven.",
+      "context": "Jo wirkt zunächst dominant, verliert aber unterwegs seine Nerven. Mario (Yves Montand) muss ihn immer stärker antreiben; die äußere Gefahr stellt den selbstbewussten Auftritt des älteren Mannes auf die Probe.",
+      "anchor": "Der harte Auftritt hält der tatsächlichen Gefahr nicht stand.",
+      "interest": "Der harte Auftritt hält der tatsächlichen Gefahr nicht stand.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum fährt Mario (Yves Montand) in @ über den verletzten Jo (Charles Vanel)?",
+      "answers": [
+        "Er muss verhindern, dass der Wagen im Ölkrater stecken bleibt.",
+        "Er versucht, das Fahrzeug vor einer Explosion ins Wasser zu lenken.",
+        "Er glaubt, Jo befinde sich bereits sicher neben der Straße.",
+        "Er will mit dem Anhalten eine Untersuchung abwarten."
+      ],
+      "feedback": [
+        "Im Ölkrater droht der Wagen festzusitzen.",
+        "Der Wagen muss im Ölkrater in Bewegung bleiben.",
+        "Jo gerät tatsächlich unter den Wagen.",
+        "Das Anhalten würde das Steckenbleiben riskieren."
+      ],
+      "short": "Im Ölkrater droht der Wagen festzusitzen.",
+      "context": "Im Ölkrater droht der Wagen festzusitzen. Mario überfährt Jo bei der verzweifelten Weiterfahrt; der erfolgreiche Transport wird damit durch eine tödliche Entscheidung innerhalb des eigenen Teams erkauft.",
+      "anchor": "Die Weiterfahrt durch den Krater kostet Jo das Leben.",
+      "interest": "Die Weiterfahrt durch den Krater kostet Jo das Leben.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was geschieht Mario (Yves Montand) nach dem erfolgreich beendeten Transport in @?",
+      "answers": [
+        "Er verunglückt auf der ausgelassenen Rückfahrt.",
+        "Er wird bei der letzten Sprengung getötet.",
+        "Er bleibt trotz der Bezahlung in der Ölgrube gefangen.",
+        "Er wird von der Firma ohne Lohn entlassen."
+      ],
+      "feedback": [
+        "Mario fährt nach dem Erfolg ausgelassen zurück und stürzt mit dem Wagen ab.",
+        "Der Transport gelingt; der Tod folgt auf der Rückfahrt.",
+        "Er fährt frei, aber ausgelassen zurück.",
+        "Der erhaltene Erfolg verhindert den Unfall nicht."
+      ],
+      "short": "Mario fährt nach dem Erfolg ausgelassen zurück und stürzt mit dem Wagen ab.",
+      "context": "Mario fährt nach dem Erfolg ausgelassen zurück und stürzt mit dem Wagen ab. Die Ladung ist weg, aber die Überheblichkeit nach überstandener Gefahr bleibt; die vermeintliche Rettung aus der Armut endet ohne Heimkehr.",
+      "anchor": "Nach der überstandenen Gefahr zerstört die Rückfahrt den Gewinn.",
+      "interest": "Nach der überstandenen Gefahr zerstört die Rückfahrt den Gewinn.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1953",
+        "1950",
+        "1946",
+        "1955"
+      ],
+      "feedback": [
+        "1953 erschien der Film.",
+        "1950 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1953 wird im zeitlichen Hintergrund erklärt.",
+        "1946 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1953 wird im zeitlichen Hintergrund erklärt.",
+        "1955 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 1953 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "1953 erschien der Film.",
+      "context": "1953 erschien der Film. Georges Arnauds Roman stammt von 1950; drei Jahre später erhielt Clouzots Adaption in Cannes den Hauptpreis. Die Verbindung ordnet Buch, Film und Festivalerfolg in eine klare Folge ein.",
+      "anchor": "Roman 1950, Film und Cannes-Erfolg 1953: Drei Jahre führen vom Buch zur prämierten Gefahrengeschichte.",
+      "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Henri-Georges Clouzot",
+        "John Schlesinger",
+        "Roman Polanski",
+        "David Cronenberg"
+      ],
+      "feedback": [
+        "Henri-Georges Clouzot inszenierte und schrieb mit Jérome Geronimi nach Georges Arnaud.",
+        "John Schlesinger wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Henri-Georges Clouzot.",
+        "Roman Polanski wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Henri-Georges Clouzot.",
+        "David Cronenberg wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Henri-Georges Clouzot."
+      ],
+      "short": "Henri-Georges Clouzot inszenierte und schrieb mit Jérome Geronimi nach Georges Arnaud.",
+      "context": "Henri-Georges Clouzot inszenierte und schrieb mit Jérome Geronimi nach Georges Arnaud. Yves Montand und Charles Vanel spielen Mario und Jo. Der Transport konzentriert Gefahr in alltäglichen Straßenhindernissen, die bei normaler Ladung kaum den gleichen Schrecken hätten.",
+      "anchor": "Henri-Georges Clouzot inszenierte und schrieb mit Jérome Geronimi nach Georges Arnaud.",
+      "interest": "Henri-Georges Clouzot inszenierte und schrieb mit Jérome Geronimi nach Georges Arnaud.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

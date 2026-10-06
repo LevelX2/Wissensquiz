@@ -1,0 +1,215 @@
+{
+  "rank": 143,
+  "directors": [
+    "Alan Parker"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Populärer Musik- und Jugendfilm mit prägendem Titelsong und späterer Serienadaption.",
+  "release_note": "Premiere am 12. Mai 1980 in New York, breiter US-Start im Juni 1980.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Fame_(1980_film)",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/fame/",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Einrichtung verbindet die Jugendlichen in @?",
+      "answers": [
+        "Eine Schule für darstellende Künste",
+        "Ein professionelles Broadwayensemble",
+        "Ein Plattenlabel für Nachwuchssänger",
+        "Ein Sommerferienlager"
+      ],
+      "feedback": [
+        "Die Figuren besuchen die High School of Performing Arts.",
+        "Sie gehören noch keinem gemeinsamen Broadwayensemble an.",
+        "Ein Plattenlabel ist nicht die zentrale Einrichtung.",
+        "Ein Ferienlager trägt die Handlung nicht."
+      ],
+      "short": "Die Figuren besuchen die High School of Performing Arts.",
+      "context": "Der Film folgt Jugendlichen von Aufnahmeprüfungen bis zum Abschluss an einer New Yorker Kunstschule. Musik, Schauspiel und Tanz bilden verschiedene Ausbildungszweige. Die gemeinsame Institution hält die Geschichten zusammen, obwohl die Figuren unterschiedliche Talente, Erwartungen und Probleme mitbringen.",
+      "anchor": "Eine Kunstschule verbindet verschiedene Wege zum Bühnenberuf.",
+      "interest": "Eine Kunstschule verbindet verschiedene Wege zum Bühnenberuf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was verlangt die Schule in @ neben künstlerischem Talent?",
+      "answers": [
+        "Erfolg auch in den gewöhnlichen Schulfächern",
+        "Eine bereits abgeschlossene Berufsausbildung",
+        "Ein eigenes veröffentlichtes Album",
+        "Die Herkunft aus einer Künstlerfamilie"
+      ],
+      "feedback": [
+        "Die akademischen Fächer zählen ebenso wie die künstlerische Ausbildung.",
+        "Eine vorherige Berufsausbildung wird nicht verlangt.",
+        "Ein veröffentlichtes Album ist keine Voraussetzung.",
+        "Eine Künstlerfamilie ist nicht Aufnahmebedingung."
+      ],
+      "short": "Die akademischen Fächer zählen ebenso wie die künstlerische Ausbildung.",
+      "context": "Schon am ersten Schultag wird die Bedeutung der allgemeinen Fächer erklärt. Für Leroy Johnson (Gene Anthony Ray) wird Englisch zum konkreten Problem. Der Film stellt Begabung deshalb nicht als Freibrief dar: Ein beruflicher Tanzweg hängt auch vom schulischen Abschluss ab.",
+      "anchor": "Talent ersetzt den Schulabschluss nicht.",
+      "interest": "Talent ersetzt den Schulabschluss nicht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie kommt Leroy Johnson (Gene Anthony Ray) in @ zu seinem Schulplatz?",
+      "answers": [
+        "Er begleitet eine Freundin zur Tanzprüfung und überzeugt selbst.",
+        "Er gewinnt einen landesweiten Gesangswettbewerb.",
+        "Er erhält den Platz durch einen berühmten Vater.",
+        "Er wechselt nach einer Profikarriere an die Schule."
+      ],
+      "feedback": [
+        "Die Lehrer entdecken Leroy bei der Prüfung seiner Freundin.",
+        "Ein Gesangswettbewerb verschafft den Platz nicht.",
+        "Ein berühmter Vater vermittelt ihn nicht.",
+        "Eine vorausgehende Profikarriere ist nicht der Ausgangspunkt."
+      ],
+      "short": "Die Lehrer entdecken Leroy bei der Prüfung seiner Freundin.",
+      "context": "Leroy Johnson (Gene Anthony Ray) tritt zunächst als Partner einer Bewerberin auf. Die Tanzlehrer sind stärker von ihm als von ihr beeindruckt. Sein Zugang zur Ausbildung beginnt so mit einer unbeabsichtigten Entdeckung, während seine Schwierigkeiten in den anderen Fächern erst danach sichtbar werden.",
+      "anchor": "Der begleitende Tänzer wird selbst zum aufgenommenen Talent.",
+      "interest": "Der begleitende Tänzer wird selbst zum aufgenommenen Talent.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was löst die berühmte Straßentanzszene in @ mit der Musik von Bruno Martelli (Lee Curreri) aus?",
+      "answers": [
+        "Brunos Vater spielt die Musik seines Sohnes vor der Schule.",
+        "Ein Theater wirbt dort für seine neue Show.",
+        "Die Schule veranstaltet eine offizielle Abschlussparade.",
+        "Ein Filmteam castet die Jugendlichen auf der Straße."
+      ],
+      "feedback": [
+        "Brunos Vater lässt dessen Musik vor der Schule erklingen.",
+        "Eine Theaterwerbung ist nicht der Anlass.",
+        "Es handelt sich nicht um eine Abschlussparade.",
+        "Ein öffentliches Casting löst den Tanz nicht aus."
+      ],
+      "short": "Brunos Vater lässt dessen Musik vor der Schule erklingen.",
+      "context": "Bruno Martelli (Lee Curreri) zögert, seine elektronischen Kompositionen öffentlich zu spielen. Sein Vater Angelo (Eddie Barth) übernimmt die Initiative. Aus der persönlichen Werbung des Vaters entsteht die gemeinsame Tanzszene; der scheue Musiker erlebt seine Musik als etwas, das andere Menschen unmittelbar bewegt.",
+      "anchor": "Der Vater macht Brunos Musik öffentlich und die Straße zur Tanzfläche.",
+      "interest": "Der Vater macht Brunos Musik öffentlich und die Straße zur Tanzfläche.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie reagiert Lisa Monroe (Laura Dean) in @ auf das Ende ihrer Tanzausbildung?",
+      "answers": [
+        "Sie wechselt in die Schauspielabteilung.",
+        "Sie verlässt New York mit einer Tourneekompanie.",
+        "Sie gründet sofort eine eigene Ballettschule.",
+        "Sie wird Brunos Musikmanagerin."
+      ],
+      "feedback": [
+        "Lisa sucht ihren künstlerischen Weg anschließend im Schauspiel.",
+        "Eine Tourneekompanie nimmt sie nicht sofort auf.",
+        "Sie gründet keine Ballettschule.",
+        "Musikmanagement ist nicht ihre neue Abteilung."
+      ],
+      "short": "Lisa sucht ihren künstlerischen Weg anschließend im Schauspiel.",
+      "context": "Nach dem Ausschluss aus dem Tanzprogramm wirkt Lisa Monroe (Laura Dean) an der U-Bahn verzweifelt. Sie wirft ihre Tanzkleidung auf die Gleise, geht aber weiter. Der Wechsel zum Schauspiel gibt der Szene einen anderen Ausgang als den zunächst gefürchteten endgültigen Zusammenbruch.",
+      "anchor": "Das Ende eines Tanzwegs wird zum Beginn einer anderen Ausbildung.",
+      "interest": "Das Ende eines Tanzwegs wird zum Beginn einer anderen Ausbildung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was macht Cocos vermeintlichen Filmtest in @ zu einem Übergriff?",
+      "answers": [
+        "Der angebliche Regisseur drängt sie zu einer entblößten Aufnahme.",
+        "Der Test wird wegen fehlender Gesangserfahrung abgebrochen.",
+        "Sie muss gegen ihren Willen einen fremden Song singen.",
+        "Ihr Schulgeld wird als Castinggebühr eingezogen."
+      ],
+      "feedback": [
+        "Coco wird unter dem Vorwand eines Filmtests zu einer sexuellen Aufnahme gedrängt.",
+        "Fehlende Gesangserfahrung ist nicht das zentrale Problem.",
+        "Ein fremder Song beschreibt den Übergriff nicht.",
+        "Eine Schulgeldgebühr ist nicht der gezeigte Vorgang."
+      ],
+      "short": "Coco wird unter dem Vorwand eines Filmtests zu einer sexuellen Aufnahme gedrängt.",
+      "context": "Coco Hernandez (Irene Cara) glaubt an eine berufliche Gelegenheit. In der Wohnung des Mannes wird daraus eine manipulierte Aufnahme, bei der sie weint. Die Szene ergänzt die glänzende Vorstellung vom Ruhm um die Ausbeutbarkeit junger Menschen, die dringend entdeckt werden möchten.",
+      "anchor": "Ein Karriereversprechen wird zum Mittel der Ausbeutung.",
+      "interest": "Ein Karriereversprechen wird zum Mittel der Ausbeutung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1980",
+        "1976",
+        "1979",
+        "1983"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1980.",
+        "1976 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1979 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1983 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1980.",
+      "context": "Fame erschien 1980. Die Filmidee entstand 1976, teilweise angeregt durch A Chorus Line. Vier Jahre später zeigte Parker die Ausbildung junger Bühnenkünstler als Verbindung von Ehrgeiz, Alltag und Rückschlägen. Der Kinofilm wurde wiederum Ausgangspunkt einer Fernsehserie und einer späteren Bühnenfassung.",
+      "anchor": "Filmidee 1976, Fame 1980: vier Jahre bis zur Schulgeschichte im Kino.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Filmidee 1976, Fame 1980: vier Jahre bis zur Schulgeschichte im Kino.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Alan Parker",
+        "Bob Fosse",
+        "Herbert Ross",
+        "Adrian Lyne"
+      ],
+      "feedback": [
+        "Alan Parker führte Regie.",
+        "Bob Fosse gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Herbert Ross gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Adrian Lyne gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Alan Parker.",
+      "context": "Alan Parker führte Regie. Mit Christopher Gore überarbeitete er das Drehbuch hin zu einem dunkleren Ton. Die New Yorker Schulverwaltung verweigerte wegen der Inhalte den Dreh in der tatsächlichen High School of Performing Arts; der Film musste seine Schulwelt an anderen Orten aufbauen.",
+      "anchor": "Alan Parker: Mit Christopher Gore überarbeitete er das Drehbuch hin zu einem dunkleren Ton.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

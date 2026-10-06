@@ -1,0 +1,217 @@
+{
+  "rank": 188,
+  "directors": [
+    "Shane Carruth"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine extrem kleine und komplex erzählte Zeitreiseproduktion; redaktionell eine Entdeckung.",
+  "release_note": "Erste Veröffentlichung 2004 beim Sundance-Festival; der spätere US-Kinostart im selben Jahr ist kein früherer Ersttermin.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Primer_(film)",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Primer_(film)",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo beginnen Abe (David Sullivan) und Aaron (Shane Carruth) ihre Experimente in @?",
+      "answers": [
+        "In einer Garage",
+        "In einem gemieteten Universitätslabor",
+        "In einer stillgelegten Werkshalle",
+        "In einem Forschungsraum der Firma"
+      ],
+      "feedback": [
+        "Die Ingenieure experimentieren in Aarons Garage.",
+        "Ihre Arbeit beginnt in der Garage.",
+        "Keine große Halle ist der erste Arbeitsplatz.",
+        "Sie experimentieren zunächst privat in der Garage."
+      ],
+      "short": "Die Ingenieure experimentieren in Aarons Garage.",
+      "context": "Die Ingenieure experimentieren in Aarons Garage. Ihr technisches Nebenprojekt führt zufällig zur Zeitreise; der gewöhnliche Arbeitsraum bildet den bewussten Gegenpol zur außerordentlichen Wirkung des Geräts.",
+      "anchor": "Das Zeitreiseproblem beginnt in einer alltäglichen Garage.",
+      "interest": "Das Zeitreiseproblem beginnt in einer alltäglichen Garage.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wofür nutzen die beiden ihre Zeitkenntnis in @ zunächst?",
+      "answers": [
+        "Für profitable Börsengeschäfte",
+        "Für wiederholte Sportwetten",
+        "Für den Verkauf zukünftiger Patente",
+        "Für die Auszahlung fremder Versicherungssummen"
+      ],
+      "feedback": [
+        "Abe und Aaron nutzen Wissen über Kursbewegungen für Börsengeschäfte.",
+        "Die zunächst gezeigte Geldnutzung betrifft Börsenwissen.",
+        "Nicht Patente, sondern Börsenkurse liefern den Gewinn.",
+        "Solche Zahlungen sind nicht ihre ersten Geschäfte."
+      ],
+      "short": "Abe und Aaron nutzen Wissen über Kursbewegungen für Börsengeschäfte.",
+      "context": "Abe und Aaron nutzen Wissen über Kursbewegungen für Börsengeschäfte. Die erste Anwendung ist persönlicher Gewinn; bald geht der Versuch, Ereignisse zu kontrollieren, weit über diesen überschaubaren Nutzen hinaus.",
+      "anchor": "Zunächst soll die Zeitmaschine Börsengewinn ermöglichen.",
+      "interest": "Zunächst soll die Zeitmaschine Börsengewinn ermöglichen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum isoliert sich Abe (David Sullivan) vor seinem ersten Versuch in @ in einem Hotelzimmer?",
+      "answers": [
+        "Er will während der überlappenden Zeit nicht in Ereignisse eingreifen.",
+        "Er will verhindern, dass Aaron die Maschine einschaltet.",
+        "Er braucht Ruhe, um die Box im Hotel zu bauen.",
+        "Er wartet dort auf einen Investor."
+      ],
+      "feedback": [
+        "Abe hält sich von Kontakten fern, um Eingriffe während der zeitlichen Überlappung zu vermeiden.",
+        "Die Isolation hält ihn von Eingriffen in die überlappende Zeit fern.",
+        "Die Box steht nicht als Bauprojekt im Hotel.",
+        "Eine Investorenverabredung ist nicht der Anlass."
+      ],
+      "short": "Abe hält sich von Kontakten fern, um Eingriffe während der zeitlichen Überlappung zu vermeiden.",
+      "context": "Abe hält sich von Kontakten fern, um Eingriffe während der zeitlichen Überlappung zu vermeiden. Seine Vorsicht soll die Reise kontrollierbar machen; Aarons (Shane Carruth) späteres Handeln untergräbt gerade diese selbstgesetzten Grenzen.",
+      "anchor": "Isolation soll unbeabsichtigte Veränderungen verhindern.",
+      "interest": "Isolation soll unbeabsichtigte Veränderungen verhindern.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche körperlichen Warnzeichen begleiten die wiederholten Reisen in @?",
+      "answers": [
+        "Ohrbluten und schlechter werdende Handschrift",
+        "Haarausfall und vorübergehende Blindheit",
+        "Fieber und auffällige Hautverfärbung",
+        "Gedächtnislücken und Sprachverlust"
+      ],
+      "feedback": [
+        "Abe und Aaron bemerken Ohrbluten und eine sich verschlechternde Handschrift.",
+        "Ohrbluten und Handschriftveränderungen sind die gezeigten Warnzeichen.",
+        "Der Film markiert die Folgen anders, insbesondere an Ohren und Schrift.",
+        "Nicht ein völliger Sprachverlust, sondern die schlechtere Handschrift fällt auf."
+      ],
+      "short": "Abe und Aaron bemerken Ohrbluten und eine sich verschlechternde Handschrift.",
+      "context": "Abe und Aaron bemerken Ohrbluten und eine sich verschlechternde Handschrift. Die zusätzlichen Zeiträume sind nicht folgenlos; die Körper zeigen ein Problem, während beide weiterhin glauben, den Ablauf kontrollieren zu können.",
+      "anchor": "Der Körper widerspricht dem vermeintlich kontrollierten Verfahren.",
+      "interest": "Der Körper widerspricht dem vermeintlich kontrollierten Verfahren.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Funktion hat Abes heimliche „Failsafe“-Box in @?",
+      "answers": [
+        "Sie soll eine Rückkehr vor den Beginn der Versuche ermöglichen.",
+        "Sie soll einen Unfall während einer einzelnen Aktienreise verhindern.",
+        "Sie soll Aaron vom Zugang zur Garage ausschließen.",
+        "Sie soll ausschließlich Materialalterung rückgängig machen."
+      ],
+      "feedback": [
+        "Abe (David Sullivan) hält eine früh gestartete Box bereit, um die Experimente rückgängig machen zu können.",
+        "Sie ermöglicht grundsätzlich die Rückkehr vor die Versuchsreihe.",
+        "Die Box ist ein zeitliches Sicherungssystem.",
+        "Die Sicherung betrifft den ganzen bisherigen Ablauf."
+      ],
+      "short": "Abe (David Sullivan) hält eine früh gestartete Box bereit, um die Experimente rückgängig machen zu können.",
+      "context": "Abe (David Sullivan) hält eine früh gestartete Box bereit, um die Experimente rückgängig machen zu können. Aaron (Shane Carruth) entdeckt sie jedoch ebenfalls; der vermeintliche Sicherheitsplan schafft damit eine weitere Ebene konkurrierender Eingriffe.",
+      "anchor": "Die Rückfallmöglichkeit erzeugt selbst neue Konflikte.",
+      "interest": "Die Rückfallmöglichkeit erzeugt selbst neue Konflikte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wozu benutzt Aaron (Shane Carruth) in @ die aufgezeichneten Gespräche?",
+      "answers": [
+        "Er kann bereits erlebte Abläufe gezielt wiederholen.",
+        "Er will Abe nachträglich seine eigenen Fehler beweisen.",
+        "Er ersetzt damit seine fehlerhafte Handschrift.",
+        "Er schickt dem früheren Abe daraus Warnungen."
+      ],
+      "feedback": [
+        "Aaron spielt Gesprächsaufzeichnungen über einen unauffälligen Ohrhörer ab.",
+        "Er verwendet die Aufzeichnungen zum Wiederholen bekannter Abläufe.",
+        "Die Bänder dienen nicht als Schreibersatz.",
+        "Er lernt die Gespräche für kontrollierte Wiederholungen."
+      ],
+      "short": "Aaron spielt Gesprächsaufzeichnungen über einen unauffälligen Ohrhörer ab.",
+      "context": "Aaron spielt Gesprächsaufzeichnungen über einen unauffälligen Ohrhörer ab. Er kann so bereits bekannte Begegnungen erneut scheinbar natürlich durchlaufen; das Wissen seiner anderen Versionen wird zum Werkzeug der verdeckten Kontrolle.",
+      "anchor": "Das Tonband liefert den Ablauf für wiederholte Begegnungen.",
+      "interest": "Das Tonband liefert den Ablauf für wiederholte Begegnungen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2004",
+        "2001",
+        "1997",
+        "2006"
+      ],
+      "feedback": [
+        "2004 wurde der Film erstmals gezeigt.",
+        "2001 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2004 wird im zeitlichen Hintergrund erklärt.",
+        "1997 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2004 wird im zeitlichen Hintergrund erklärt.",
+        "2006 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2004 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2004 wurde der Film erstmals gezeigt.",
+      "context": "2004 wurde der Film erstmals gezeigt. Shane Carruth entwickelte ihn nach seinem vorherigen Ingenieurberuf und gewann in Sundance den großen Jurypreis. Das Jahr verbindet eine technisch alltägliche Garage mit der Anerkennung einer ungewöhnlichen unabhängigen Filmkonstruktion.",
+      "anchor": "2004 verbindet Carruths Garagenexperiment mit dem großen Sundance-Jurypreis für einen unabhängigen Film.",
+      "interest": "Die Folge trennt den Film von seiner späteren Anerkennung.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Shane Carruth",
+        "Steven Soderbergh",
+        "Gareth Edwards",
+        "Duncan Jones"
+      ],
+      "feedback": [
+        "Shane Carruth übernahm Regie, Drehbuch, Produktion, Schnitt und Musik und spielte Aaron.",
+        "Steven Soderbergh wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Shane Carruth.",
+        "Gareth Edwards wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Shane Carruth.",
+        "Duncan Jones wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Shane Carruth."
+      ],
+      "short": "Shane Carruth übernahm Regie, Drehbuch, Produktion, Schnitt und Musik und spielte Aaron.",
+      "context": "Shane Carruth übernahm Regie, Drehbuch, Produktion, Schnitt und Musik und spielte Aaron. David Sullivan spielt Abe. Die Technik bleibt äußerlich unspektakulär; die eigentliche Komplexität entsteht aus den Entscheidungen und überlappenden Versionen der beiden Partner.",
+      "anchor": "Shane Carruth übernahm Regie, Drehbuch, Produktion, Schnitt und Musik und spielte Aaron.",
+      "interest": "Shane Carruth übernahm Regie, Drehbuch, Produktion, Schnitt und Musik und spielte Aaron.",
+      "sources": [
+        "eckdaten"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

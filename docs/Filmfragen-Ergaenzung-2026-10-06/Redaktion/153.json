@@ -1,0 +1,217 @@
+{
+  "rank": 153,
+  "directors": [
+    "Albert Magnoli"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Bekannter Prince-Film mit ikonischem Soundtrack; hohe Musikbekanntheit, konkrete Filmhandlung weniger allgegenwärtig.",
+  "release_note": "US-Veröffentlichung am 27. Juli 1984.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Purple_Rain_(film)",
+    "credits_rt": {
+      "url": "https://www.rottentomatoes.com/m/purple_rain",
+      "supports": "Gelesen: Regie- und Besetzungsnamen sowie Kurzsynopsis. Detailhandlung und zusätzliche Produktionsangaben werden separat belegt."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt tritt The Kid (Prince) in @ auf?",
+      "answers": [
+        "Minneapolis",
+        "Memphis",
+        "Seattle",
+        "New Orleans"
+      ],
+      "feedback": [
+        "The Kid und die konkurrierenden Bands spielen in Minneapolis.",
+        "Memphis ist nicht der zentrale Schauplatz.",
+        "Seattle ist nicht die Handlungsstadt.",
+        "New Orleans ist nicht das Umfeld des Clubs."
+      ],
+      "short": "The Kid und die konkurrierenden Bands spielen in Minneapolis.",
+      "context": "The Kid (Prince) führt The Revolution und tritt im First Avenue auf. Der Club bietet nur begrenzte Plätze für Hausbands. Deshalb verbindet der Film den Wettbewerb um Publikum mit dem Risiko, den regelmäßigen Arbeitsplatz als Musiker zu verlieren.",
+      "anchor": "Minneapolis und First Avenue geben dem Konkurrenzkampf einen konkreten Ort.",
+      "interest": "Minneapolis und First Avenue geben dem Konkurrenzkampf einen konkreten Ort.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wer ist The Kids unmittelbarer musikalischer Rivale in @?",
+      "answers": [
+        "Morris mit seiner Band The Time",
+        "Sein Vater mit einem Jazztrio",
+        "Apollonia als etablierte Solosängerin",
+        "Billy als Frontmann der Modernaires"
+      ],
+      "feedback": [
+        "Morris und The Time konkurrieren mit The Revolution.",
+        "Der Vater führt nicht die direkte Rivalenband.",
+        "Apollonia ist zu Beginn keine etablierte Solorivalin.",
+        "Billy ist der Clubbetreiber, nicht dieser Bandfrontmann."
+      ],
+      "short": "Morris und The Time konkurrieren mit The Revolution.",
+      "context": "Morris (Morris Day) möchte The Revolution aus dem Club verdrängen. Er baut zusätzlich eine Frauenband auf und wirbt Apollonia (Apollonia Kotero) dafür an. Sein Konkurrenzverhalten greift dadurch in The Kids (Prince) Bühnenkarriere und Liebesbeziehung zugleich ein.",
+      "anchor": "Morris verbindet Konkurrenz im Club mit Konkurrenz um Apollonia.",
+      "interest": "Morris verbindet Konkurrenz im Club mit Konkurrenz um Apollonia.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Weshalb sind Wendy und Lisa in @ mit The Kid (Prince) unzufrieden?",
+      "answers": [
+        "Er lehnt ihre eigenen Kompositionen ab.",
+        "Er verlangt, dass sie ihre Stücke nur der Konkurrenz anbieten.",
+        "Er verweigert ihnen ihren Anteil an gemeinsamen Konzertproben.",
+        "Er will die Band nach jedem Auftritt vollständig neu besetzen."
+      ],
+      "feedback": [
+        "The Kid lässt die Ideen seiner Mitmusikerinnen nicht zu.",
+        "Wendy und Lisa wollen, dass er ihre Kompositionen berücksichtigt.",
+        "Der zentrale Streit gilt ihrem musikalischen Beitrag.",
+        "Ein wechselndes Personal nach jeder Show ist nicht ihr Vorwurf."
+      ],
+      "short": "The Kid lässt die Ideen seiner Mitmusikerinnen nicht zu.",
+      "context": "Wendy (Wendy Melvoin) und Lisa (Lisa Coleman) bringen eigene Musik ein. The Kid (Prince) blockiert sie zunächst. Der Streit zeigt seine künstlerische Selbstbezogenheit; die spätere Annahme ihrer Komposition wird deshalb zu einem konkreten Schritt aus der Isolation.",
+      "anchor": "Die Bandkrise beginnt damit, dass The Kid nur seine eigenen Ideen gelten lässt.",
+      "interest": "Die Bandkrise beginnt damit, dass The Kid nur seine eigenen Ideen gelten lässt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was entdeckt The Kid (Prince) in @ nach dem Suizidversuch seines Vaters im Keller?",
+      "answers": [
+        "Eine Sammlung von dessen Kompositionen",
+        "Einen Vertrag, der den Club ihm überschreibt",
+        "Eine Liste heimlicher Konzertauftritte",
+        "Ein Tonband mit Morris’ Geständnis"
+      ],
+      "feedback": [
+        "Er findet die Musikstücke seines Vaters.",
+        "Ein Clubübereignungsvertrag liegt dort nicht.",
+        "Eine heimliche Auftrittsliste ist nicht der entscheidende Fund.",
+        "Ein Geständnis von Morris findet er nicht."
+      ],
+      "short": "Er findet die Musikstücke seines Vaters.",
+      "context": "The Kid (Prince) zerstört im Zorn Gegenstände im Keller und stößt auf die Kompositionen seines Vaters (Clarence Williams III). Der Fund zeigt eine schöpferische Seite des zuvor gewalttätigen Mannes. Die Musik wird zum Ansatz, die eigene Wiederholung seines zerstörerischen Verhaltens zu unterbrechen.",
+      "anchor": "Im verwüsteten Keller findet The Kid die verdrängte Musik seines Vaters.",
+      "interest": "Im verwüsteten Keller findet The Kid die verdrängte Musik seines Vaters.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wem schreibt The Kid (Prince) bei der entscheidenden Aufführung in @ die musikalische Grundlage zu?",
+      "answers": [
+        "Wendy und Lisa aus seiner Band",
+        "Morris und Jerome von The Time",
+        "Apollonia und dem Clubbetreiber",
+        "Seinem früheren Gesangslehrer"
+      ],
+      "feedback": [
+        "Er kündigt das Lied als Komposition der Frauen in seiner Band an.",
+        "Morris und Jerome sind nicht die genannten Urheber.",
+        "Apollonia und Billy werden nicht so vorgestellt.",
+        "Ein Gesangslehrer liefert nicht die anerkannte Grundlage."
+      ],
+      "short": "Er kündigt das Lied als Komposition der Frauen in seiner Band an.",
+      "context": "The Kid (Prince) hat Wendy und Lisa zuvor zurückgewiesen. Auf der Bühne erkennt er ihren Beitrag öffentlich an und widmet das Stück seinem Vater. Die Nummer wird somit nicht nur ein Publikumserfolg: Sie markiert die Anerkennung anderer Menschen in seiner eigenen Musik.",
+      "anchor": "Das neue Lied beginnt mit der öffentlichen Anerkennung von Wendy und Lisa.",
+      "interest": "Das neue Lied beginnt mit der öffentlichen Anerkennung von Wendy und Lisa.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum kehrt The Kid (Prince) in @ nach dem Titelsong noch einmal auf die Bühne zurück?",
+      "answers": [
+        "Er hört die begeisterte Reaktion, als er schon wegfahren will.",
+        "Der Clubbetreiber verpflichtet ihn trotz leerem Saal zu einer Zugabe.",
+        "Wendy und Lisa holen ihn vor der Tür für eine letzte Probe zurück.",
+        "Apollonia bringt ihn zurück, um den Clubvertrag zu unterschreiben."
+      ],
+      "feedback": [
+        "Die Begeisterung des Publikums hält ihn vom Wegfahren ab.",
+        "The Kid hört nun den begeisterten Applaus und kehrt zur Zugabe zurück.",
+        "Keine Probe bringt ihn zurück, sondern die Reaktion des Publikums.",
+        "Ein Vertragsabschluss ist nicht der Anlass."
+      ],
+      "short": "Die Begeisterung des Publikums hält ihn vom Wegfahren ab.",
+      "context": "The Kid (Prince) verlässt nach dem Lied den Club durch die Hintertür. Erst draußen bemerkt er, wie stark der Auftritt angenommen wurde. Er kehrt zurück und spielt Zugaben. Der Erfolg wird zunächst verzögert wahrgenommen, weil sein eigener Blick noch von der Krise bestimmt ist.",
+      "anchor": "Der Applaus erreicht The Kid erst an der Hintertür.",
+      "interest": "Der Applaus erreicht The Kid erst an der Hintertür.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1984",
+        "1980",
+        "1983",
+        "1987"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1984.",
+        "1980 liegt vier Jahre vor der ersten Veröffentlichung.",
+        "1983 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "1987 liegt drei Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung fällt ins Jahr 1984.",
+      "context": "Purple Rain erschien 1984. Die Filmaufnahmen fanden im Herbst 1983 statt, im Jahr vor dem Kinostart. Prince spielte erstmals die Hauptrolle in einem Spielfilm und veröffentlichte die zugehörige Musik ebenfalls 1984. Der Film verknüpfte den bereits aufgebauten Bühnenstil mit einer fiktionalen Geschichte über musikalische und private Konflikte.",
+      "anchor": "Dreharbeiten 1983, Film und Album 1984: Princes Spielfilmdebüt folgt im nächsten Jahr.",
+      "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Dreharbeiten 1983, Film und Album 1984: Princes Spielfilmdebüt folgt im nächsten Jahr.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Albert Magnoli",
+        "Peter Hyams",
+        "Taylor Hackford",
+        "Martin Brest"
+      ],
+      "feedback": [
+        "Albert Magnoli führte Regie.",
+        "Peter Hyams gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Taylor Hackford gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Martin Brest gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Der Regiecredit lautet Albert Magnoli.",
+      "context": "Albert Magnoli führte Regie, schrieb mit William Blinn das Drehbuch und montierte den Film. Er veränderte das ursprüngliche Skript erheblich. Prince spielt The Kid, eine fiktionale Musikerfigur; reale Bandmitglieder und Minneapoliser Auftrittsorte verleihen der erfundenen Handlung ein konkretes musikalisches Umfeld.",
+      "anchor": "Albert Magnoli: Er veränderte das ursprüngliche Skript erheblich.",
+      "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
+      "sources": [
+        "handlung",
+        "credits_rt"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

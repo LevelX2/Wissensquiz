@@ -1,0 +1,223 @@
+{
+  "rank": 175,
+  "directors": [
+    "Claire Scanlon"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_reason": "Eine moderne Netflix-Rom-Com für Genreinteressierte, weniger ikonisch als die großen älteren Liebeskomödien.",
+  "release_note": "Erste Veröffentlichung dieser Filmfassung 2018; spätere Länderstarts ändern das Filmjahr nicht.",
+  "sources": {
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Set_It_Up",
+      "supports": "Gelesener Handlungsabschnitt: konkrete Ereignisse, Beziehungen und Besetzung."
+    },
+    "eckdaten": {
+      "url": "https://en.wikipedia.org/wiki/Set_It_Up",
+      "supports": "Gelesene Infobox und Veröffentlichungs-/Produktionsabschnitte: Erstveröffentlichung, Regie, Länder und Kontext."
+    },
+    "studio": "https://media.netflix.com/en/only-on-netflix/80184100",
+    "zeitbezug": {
+      "url": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians_(film)",
+      "supports": "Gelesener Artikel des ebenfalls redigierten Rangs 174: Filmjahr und konkrete Gegenstandsverbindung im Jahreskontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum wollen Harper (Zoey Deutch) und Charlie (Glen Powell) in @ ihre Chefs verkuppeln?",
+      "answers": [
+        "Sie hoffen auf mehr eigene Freizeit.",
+        "Sie hoffen auf eine gemeinsame Beförderung.",
+        "Sie wollen die geplante Hochzeit eines Kollegen verhindern.",
+        "Sie sollen eine Fusion beider Firmen vorbereiten."
+      ],
+      "feedback": [
+        "Harper und Charlie hoffen, dass verliebte Chefs sie weniger überarbeiten.",
+        "Die Entlastung des Arbeitsalltags ist ihr unmittelbares Ziel.",
+        "Sie organisieren die Beziehung der Chefs für mehr freie Zeit.",
+        "Ein Unternehmensauftrag liegt nicht vor."
+      ],
+      "short": "Harper und Charlie hoffen, dass verliebte Chefs sie weniger überarbeiten.",
+      "context": "Harper und Charlie hoffen, dass verliebte Chefs sie weniger überarbeiten. Der Plan entsteht aus ihrem Arbeitsdruck; während sie eine fremde Beziehung arrangieren, lernen sie einander selbst näher kennen.",
+      "anchor": "Die Chef-Romanze soll den Assistenten Freizeit verschaffen.",
+      "interest": "Die Chef-Romanze soll den Assistenten Freizeit verschaffen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches berufliche Ziel hat Harper (Zoey Deutch) in @?",
+      "answers": [
+        "Sportjournalistin zu werden",
+        "Eine Fluglinie zu leiten",
+        "Chirurgin zu werden",
+        "Ein Museum zu restaurieren"
+      ],
+      "feedback": [
+        "Harper möchte Sportjournalistin werden.",
+        "Sie strebt keine Fluglinienleitung an.",
+        "Medizin ist nicht ihr Ziel.",
+        "Museumsrestaurierung gehört nicht zu ihrem Wunsch."
+      ],
+      "short": "Harper möchte Sportjournalistin werden.",
+      "context": "Harper möchte Sportjournalistin werden. Ihre Chefin Kirsten (Lucy Liu) ist ihr Vorbild; der Assistentenjob kostet jedoch die Zeit, die Harper für eigenes Schreiben benötigen würde.",
+      "anchor": "Harper muss von der Zuarbeit zum eigenen Schreiben finden.",
+      "interest": "Harper muss von der Zuarbeit zum eigenen Schreiben finden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Mit welcher Stadiontechnik bringen die Assistenten in @ ihre Chefs zum Küssen?",
+      "answers": [
+        "Mit der Kiss-Cam",
+        "Mit einer digitalen Anzeigetafel für Schulden",
+        "Mit einem Feueralarm",
+        "Mit einer abgesperrten Spielerbank"
+      ],
+      "feedback": [
+        "Die Assistenten bestechen den Kiss-Cam-Bediener beim Baseball.",
+        "Schulden werden nicht angezeigt.",
+        "Ein Alarm vermittelt den Kuss nicht.",
+        "Die Spielerbank ist nicht das Mittel."
+      ],
+      "short": "Die Assistenten bestechen den Kiss-Cam-Bediener beim Baseball.",
+      "context": "Die Assistenten bestechen den Kiss-Cam-Bediener beim Baseball. Kirsten (Lucy Liu) und Rick (Taye Diggs) geraten damit vor Publikum unter romantischen Erwartungsdruck; ein öffentliches Ritual ersetzt die zufällige private Annäherung.",
+      "anchor": "Die Stadionkamera setzt die arrangierte Romanze in Gang.",
+      "interest": "Die Stadionkamera setzt die arrangierte Romanze in Gang.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum scheitert in @ die erste geplante Begegnung im festgesetzten Fahrstuhl?",
+      "answers": [
+        "Ein weiterer Fahrgast reagiert panisch.",
+        "Die Chefs steigen vor dem manipulierten Halt aus.",
+        "Ein Wartungstechniker durchschaut den Plan sofort.",
+        "Die Assistenten halten versehentlich einen leeren Fahrstuhl an."
+      ],
+      "feedback": [
+        "Ein zusätzlicher klaustrophobischer Fahrgast gerät in Panik.",
+        "Sie sitzen tatsächlich fest; der weitere Fahrgast macht die Lage unerfreulich.",
+        "Nicht seine Entdeckung, sondern die Panik des Mitfahrers stört.",
+        "Im Fahrstuhl befinden sich die Chefs und ein weiterer Gast."
+      ],
+      "short": "Ein zusätzlicher klaustrophobischer Fahrgast gerät in Panik.",
+      "context": "Ein zusätzlicher klaustrophobischer Fahrgast gerät in Panik. Statt einer entspannten Begegnung entsteht eine unangenehme Situation; Harper (Zoey Deutch) und Charlie (Glen Powell) müssen daher einen anderen Zugang finden.",
+      "anchor": "Der ungeplante Fahrgast zerstört die arrangierte Fahrstuhlromantik.",
+      "interest": "Der ungeplante Fahrgast zerstört die arrangierte Fahrstuhlromantik.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welches Motiv Ricks (Taye Diggs) macht die geplante Hochzeit in @ besonders problematisch?",
+      "answers": [
+        "Er will seine Exfrau provozieren und trifft sie weiterhin.",
+        "Er erwartet durch die Ehe einen Firmenanteil.",
+        "Er will eine bevorstehende Trennung von Kirsten verbergen.",
+        "Er möchte Charlie dauerhaft an Kirsten vermitteln."
+      ],
+      "feedback": [
+        "Rick will mit der Hochzeit seine Exfrau provozieren, mit der er weiterhin intim verbunden ist.",
+        "Sein verborgenes Motiv betrifft die Exfrau.",
+        "Die geplante Ehe dient der Provokation seiner Exfrau.",
+        "Eine Personalvermittlung erklärt sein Heiratsmotiv nicht."
+      ],
+      "short": "Rick will mit der Hochzeit seine Exfrau provozieren, mit der er weiterhin intim verbunden ist.",
+      "context": "Rick will mit der Hochzeit seine Exfrau provozieren, mit der er weiterhin intim verbunden ist. Harper (Zoey Deutch) erkennt, dass das arrangierte Glück Kirsten (Lucy Liu) täuscht; Charlie (Glen Powell) muss Karriereinteresse und Verantwortung abwägen.",
+      "anchor": "Die Assistenten dürfen ihre Freizeit nicht auf Kirstens Täuschung bauen.",
+      "interest": "Die Assistenten dürfen ihre Freizeit nicht auf Kirstens Täuschung bauen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie verändert sich am Ende von @ Kirstens (Lucy Liu) Rolle gegenüber Harper (Zoey Deutch)?",
+      "answers": [
+        "Sie bietet an, Harpers Artikel zu redigieren.",
+        "Sie bietet Harper eine reine Assistentinnenstelle zurück an.",
+        "Sie veröffentlicht Harpers Artikel unter ihrem eigenen Namen.",
+        "Sie vermittelt Harper eine Stelle außerhalb des Journalismus."
+      ],
+      "feedback": [
+        "Kirsten bietet Harper Hilfe beim Redigieren ihres Artikels an.",
+        "Kirsten unterstützt Harpers Schreiben mit redaktioneller Hilfe.",
+        "Sie bietet Betreuung, keine Aneignung der Autorschaft.",
+        "Die konkrete Hilfe betrifft Harpers Artikel."
+      ],
+      "short": "Kirsten bietet Harper Hilfe beim Redigieren ihres Artikels an.",
+      "context": "Kirsten bietet Harper Hilfe beim Redigieren ihres Artikels an. Harper nimmt den alten Assistentenjob nicht zurück; die Beziehung kann stattdessen ihre eigene journalistische Arbeit fördern. Abhängige Zuarbeit wird damit zu fachlicher Unterstützung.",
+      "anchor": "Kirsten unterstützt Harpers Schreiben statt ihre dauernde Zuarbeit.",
+      "interest": "Kirsten unterstützt Harpers Schreiben statt ihre dauernde Zuarbeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2015",
+        "2011",
+        "2020"
+      ],
+      "feedback": [
+        "2018 wurde der Film veröffentlicht.",
+        "2015 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2011 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt.",
+        "2020 ist nicht die erste Veröffentlichung dieser Fassung; die Verbindung zu 2018 wird im zeitlichen Hintergrund erklärt."
+      ],
+      "short": "2018 wurde der Film veröffentlicht.",
+      "context": "2018 wurde der Film veröffentlicht. Im selben Jahr erschien auch „Crazy Rich Asians“ im Kino; beide verbinden Liebesgeschichten mit Machtgefällen, hier zwischen Chefs und Assistenten. Diese Parallelität ist eine zeitliche Merkhilfe und keine Behauptung einer gemeinsamen Produktion.",
+      "anchor": "2018 erscheinen Set It Up und Crazy Rich Asians: Zwei Liebeskomödien untersuchen unterschiedliche Machtgefälle.",
+      "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
+      "sources": [
+        "eckdaten",
+        "zeitbezug"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Claire Scanlon",
+        "Jon M. Chu",
+        "Raine Allen-Miller",
+        "Ben Palmer"
+      ],
+      "feedback": [
+        "Claire Scanlon führte Regie, Katie Silberman schrieb das Drehbuch.",
+        "Jon M. Chu wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Claire Scanlon.",
+        "Raine Allen-Miller wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Claire Scanlon.",
+        "Ben Palmer wird bei dieser Fassung nicht als Regie geführt; der Regiecredit lautet Claire Scanlon."
+      ],
+      "short": "Claire Scanlon führte Regie, Katie Silberman schrieb das Drehbuch.",
+      "context": "Claire Scanlon führte Regie, Katie Silberman schrieb das Drehbuch. Zoey Deutch und Glen Powell spielen die Assistenten Harper und Charlie, Lucy Liu und Taye Diggs deren Chefs. Ihr Arrangement erzeugt Freizeit, setzt aber zugleich neue Arbeit zur Pflege der arrangierten Beziehung voraus.",
+      "anchor": "Claire Scanlon führte Regie, Katie Silberman schrieb das Drehbuch.",
+      "interest": "Claire Scanlon führte Regie, Katie Silberman schrieb das Drehbuch.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}
