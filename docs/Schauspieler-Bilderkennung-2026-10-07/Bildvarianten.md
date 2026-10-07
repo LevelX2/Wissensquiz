@@ -1,6 +1,6 @@
 # Wechselnde Schauspielerfotos aus verschiedenen Schaffensperioden
 
-Stand: 07.10.2026. Lokal umgesetzt und geprüft; noch nicht veröffentlicht.
+Stand: 07.10.2026. Umgesetzt, geprüft und als Sites-Version 57 öffentlich veröffentlicht. [Betriebs- und Katalognachweis](../Sites-Betrieb.md#version-57-200-bildfragen-mit-400-fotos-und-2480-weitere-fragen).
 
 Der Nutzer hat „archetypisch“ als vertrautes Gesicht aus der prägenden Filmzeit präzisiert. Die vorhandenen Bilder dürfen zusätzlich erhalten bleiben; zwei oder drei Bilder sollen zwischen Begegnungen wechseln. Umgesetzt sind je zwei Fotos für die 200 Personen: 200 bisherige und 200 Ergänzungen. Es bleiben 200 Namensfragen und 200 Gesichts-Wissensziele.
 

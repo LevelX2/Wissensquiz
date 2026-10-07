@@ -1,5 +1,18 @@
 # Sites-Veröffentlichung
 
+## Version 57: 200 Bildfragen mit 400 Fotos und 2.480 weitere Fragen
+
+Am **07.10.2026 um 16:29:48 Uhr Europe/Berlin** als **Sites-Version 57 öffentlich veröffentlicht**, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Quellcommit `be1bf65703ee67b1fdd71b0eb7a94ade7a65ec3d`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_3ff437e0fb508191a2c80b147319da2f`, Deployment `appgdep_6ac65741b40c81919400189c567c3516`. Öffentlicher Zugriff (`public`, Revision 2) und Projekt-ID nativ erneut bestätigt. [Maschinenlesbarer Veröffentlichungsnachweis](Veroeffentlichung-2026-10-07-Version-57.json).
+
+Vollständiger committeter Main-Stand: 200 Schauspieler-Erkennungsfragen für je 100 Schauspieler und Schauspielerinnen mit jeweils zwei zwischen Runden wechselnden Fotos, insgesamt 400 Bilder aus verschiedenen Schaffensperioden. Innerhalb einer Begegnung bleiben Bild und Nachweis stabil. Zusätzlich die 320 Einträge und 2.480 Fragen der Erweiterung je Kategorie. **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**, darunter 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. [Bildpaare, Quellen und Prüfgrenzen](Schauspieler-Bilderkennung-2026-10-07/Bildvarianten.md), [Erweiterung und Redaktion](Erweiterung-2026-10-07/Pruefbericht.md).
+
+380 Tests in 64 Dateien und 27 unterschiedliche gezielte Browserfälle für denselben Quellstand wiederverwendet; ein vorgesehener WebKit-Desktopfall übersprungen. TypeScript und Produktionsbuild mit `VITE_SITE_VERSION=57` erneut erfolgreich. Regulärer Sites-Workflow aus sauberer Kopie des exakten Main-Commits, Source-Push ausschließlich in das Sites-Repository. Alle 468 Produktionsdateien nach Archivierung bytegleich zum Build bestätigt. Natives Archiv: 79.964.160 Bytes / 469 Dateien, `sha256:026ced6e256015821219af16710f74ef3e562dfe6b25457c2443f5d46b52dc8c`. Offline-Paket `film-4e5844977cd4`, 466 Cache-Dateien einschließlich aller 400 Erkennungsfotos. Keine zusätzliche Live-Browserprüfung oder physische Geräteabnahme.
+
+Onlinekatalog `473ebc3770f984426007db3462e92d9b62358a06296b2d62a0ce4e9924669a83` mit 10.877 Fragen, Nachweisen und Bewertungsfeldern vollständig geprüft und transaktional freigegeben; fünf frühere Kataloge erhalten, alle 489 Bereitstellungsteile entfernt. Duellkatalog ausschließlich um 2.300 neue zulässige Fragen auf **9.047 aktive Fragen** ergänzt. Alle bisherigen 6.747 Fragen unverändert (Fingerprint `153bb9413ef758d99757e6beedffdec0`); neue Inhalte unabhängig über PostgreSQL/WASM und live mit Fingerprint `aa3180b0dede303d80f1369bf788c7d1` bestätigt. Bestehende Personen-Bildfragen bleiben gemäß Duellvertrag außerhalb des Duellkatalogs. Keine Migration oder Änderung privater Spielstände und laufender Duellsnapshots.
+
+Tatsächliche Veröffentlichungszeit `2026-10-07T14:29:48.553681+00:00` und Quellcommit separat dauerhaft gespeichert, zurückgelesen und anonym über `quiz_app_release(57)` bestätigt; direkter Tabellenzugriff bleibt gesperrt. 17 vorgefundene offene Dateien und fremde Wissenshunks erhalten. Native Browserübergabe angefordert. Kein GitHub-Push.
+
+
 ## Version 56: 240 zusätzliche Filme und 1.920 Fragen
 
 Am **06.10.2026 um 19:52:40 Uhr Europe/Berlin** als **Sites-Version 56 öffentlich veröffentlicht**, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Quellcommit `981158869dc8641b3cd6cadeb5e271bcf442812e`, Version `appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_c694a9b67ab08191b834c30ad387a6c0`, Deployment `appgdep_6ac535523f108191b2f3e3ee78b96bff`. Öffentlicher Zugriff (`public`, Revision 2) und bestehende Projekt-ID nach Veröffentlichung nativ erneut bestätigt.

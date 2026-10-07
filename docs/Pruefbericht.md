@@ -1,5 +1,14 @@
 # Prüfnachweis
 
+## 07.10.2026 – Main-Stand als Version 57 veröffentlicht
+
+200 Schauspieler-Bildfragen mit je zwei Fotos (400 Bilder) sowie die 2.480 weiteren Fragen öffentlich veröffentlicht. Gesamt 24 Pakete / 10.877 Fragen / 10.315 Ziele. 380 Tests in 64 Dateien und 27 gezielte Browserfälle für den identischen Quellstand wiederverwendet; ein geplanter WebKit-Desktopfall übersprungen. TypeScript/Produktionsbuild mit Versionsnummer 57 erneut erfolgreich, alle 468 paketierten Produktionsdateien bytegleich zum Build bestätigt. Offline-Paket `film-4e5844977cd4` mit 466 Dateien. Native Veröffentlichung `succeeded`, öffentlicher Zugriff Revision 2 erhalten.
+
+Neuen Onlinekatalog vollständig freigegeben, 10.877 Fragen/Nachweise/Bewertungsfelder bestätigt, fünf frühere Kataloge erhalten und keine Bereitstellungsteile offen. 2.300 neue Duellfragen ergänzt; alle 6.747 bisherigen Fragen nach Inhaltsfingerabdruck unverändert, Gesamt 9.047. Neue Fragen unabhängig über PostgreSQL/WASM und live geprüft. Veröffentlichungszeit und Quellcommit dauerhaft gespeichert, getrennt zurückgelesen und anonym über `quiz_app_release(57)` bestätigt; kein direkter Tabellenzugriff. Keine Schemaänderung oder echte Testspiele, private Kontodaten und laufende Duelle unverändert.
+
+17 fremde Dateien/Wissenshunks erhalten; Veröffentlichung aus sauberer Kopie des exakten Main-Commits. Kein GitHub-Push. Native Browserübergabe angefordert; keine zusätzliche Live-Browserprüfung. Dokumentierte Windows-WebKit-Grenze bei Offline-Bildpixeln und fehlende physische Geräteabnahme bleiben erhalten. [Betriebsnachweis](Sites-Betrieb.md#version-57-200-bildfragen-mit-400-fotos-und-2480-weitere-fragen), [native Metadaten und Inhaltsnachweise](Veroeffentlichung-2026-10-07-Version-57.json).
+
+
 ## 05.10.2026 – Update-Erkennung vor der Kontoöffnung und ausdrückliche Aktivierung
 
 **367 Tests in 61 Dateien**, TypeScript und Produktionsbuild erfolgreich. Abschließender vollständiger Logiklauf mit zwei Workern; **alle 16 gezielten Browserprüfungen** am abschließenden Build bestanden: neun Chromium, sechs Firefox und eine mobile WebKit-Prüfung. Keine fehlgeschlagenen Pflichtchecks offen.

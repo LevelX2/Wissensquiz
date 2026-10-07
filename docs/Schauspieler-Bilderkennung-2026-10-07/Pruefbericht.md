@@ -1,6 +1,6 @@
 # 200 Schauspieler am Porträt erkennen
 
-Erstintegration: 07.10.2026. Lokal eingebunden; noch nicht veröffentlicht.
+Erstintegration: 07.10.2026. Mit den nachfolgenden Bildvarianten seit Sites-Version 57 öffentlich veröffentlicht. [Betriebsnachweis](../Sites-Betrieb.md#version-57-200-bildfragen-mit-400-fotos-und-2480-weitere-fragen).
 
 **Aktuelle Präzisierung vom 07.10.2026:** „Archetypisch“ meint das vertraute Gesicht aus der prägenden Filmzeit. Auf zusätzlichen Nutzerwunsch werden die bisherigen Bilder erhalten und um jeweils ein zweites Foto ergänzt. Die Auswahl wechselt zwischen Fragerunden; Bild und Nachweis bleiben innerhalb einer Begegnung gleich. [Aktueller Stand, alle Bildpaare und Prüfung](Bildvarianten.md). Die nachfolgenden Mengen und Prüfergebnisse dokumentieren die Erstlieferung vor dieser Ergänzung.
 

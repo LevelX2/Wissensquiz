@@ -1,0 +1,79 @@
+{
+  "asOf": "2026-10-07",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 57,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_3ff437e0fb508191a2c80b147319da2f",
+  "deployment_id": "appgdep_6ac65741b40c81919400189c567c3516",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-07T14:29:48.553681+00:00",
+  "source_commit": "be1bf65703ee67b1fdd71b0eb7a94ade7a65ec3d",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_000000006c8c820aa24cc9a2a0269f86",
+    "content_hash": "sha256:026ced6e256015821219af16710f74ef3e562dfe6b25457c2443f5d46b52dc8c",
+    "size_bytes": 79964160,
+    "file_count": 469
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "packages": 24,
+  "catalog": {
+    "questions": 10877,
+    "knowledgeGoals": 10315,
+    "newQuestionsSinceVersion56": 2680,
+    "releaseHash": "473ebc3770f984426007db3462e92d9b62358a06296b2d62a0ce4e9924669a83",
+    "manifestHash": "e71014f54a72b6b6afd006c66c50e33ecf2163e9efe4fbc957e199035da5b28f",
+    "manifestBytes": 7820558,
+    "publicationParts": 489,
+    "pendingPublicationParts": 0,
+    "priorReleasesRetained": 5,
+    "digests": 10877,
+    "scoreFields": 10877,
+    "duelQuestions": 9047,
+    "newDuelQuestions": 2300,
+    "unchangedDuelQuestions": 6747,
+    "unchangedDuelFingerprint": "153bb9413ef758d99757e6beedffdec0",
+    "newDuelFingerprint": "aa3180b0dede303d80f1369bf788c7d1"
+  },
+  "recognition": {
+    "questions": 200,
+    "people": 200,
+    "photosPerPerson": 2,
+    "photos": 400
+  },
+  "checks": {
+    "tests": 380,
+    "testFiles": 64,
+    "testCommand": "npm test -- --maxWorkers=2 --testTimeout=15000",
+    "unitTestsReusedForIdenticalSource": true,
+    "browserCasesPassed": 27,
+    "plannedBrowserSkip": 1,
+    "browserProofReusedForIdenticalSource": true,
+    "typeScript": true,
+    "productionBuild": true,
+    "buildVersion": 57,
+    "packagedBuildFiles": 468,
+    "packagedBuildByteIdentical": true,
+    "sourceWorkflowCommitMatchesMain": true,
+    "foreignFilesPreserved": 17,
+    "githubPush": false,
+    "privatePlayerDataTouched": false,
+    "schemaMigration": false,
+    "liveBrowserQa": false,
+    "releaseMetadataPersistedAndRead": true,
+    "anonymousReleaseRpc": true,
+    "directReleaseTableAccess": false,
+    "nativeBrowserHandoff": "queued"
+  },
+  "offline": {
+    "package": "film-4e5844977cd4",
+    "cacheFiles": 466
+  },
+  "limits": [
+    "Windows-WebKit simuliert Offline-Bilddekodierung eingeschränkt; tatsächliche Offline-Pixel und Neuladen in Chromium, alle 400 Erkennungsdateien im Cache geprüft.",
+    "Keine physische Geräteabnahme oder empirische Kalibrierung von Schwierigkeit/Bekanntheit."
+  ]
+}

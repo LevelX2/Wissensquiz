@@ -1,6 +1,6 @@
 # Erweiterung je Kategorie – 07.10.2026
 
-**320 zusätzliche Einträge und 2.480 neue Fragen, lokal integriert.** Insgesamt 24 Pakete, 10.877 Fragen, 10.315 Wissensziele und 562 ausdrücklich verknüpfte Varianten. Für diese Erweiterung wurde keine neue Veröffentlichung beauftragt. Öffentlicher Stand bleibt Sites-Version 56.
+**320 zusätzliche Einträge und 2.480 neue Fragen, seit Sites-Version 57 veröffentlicht.** Insgesamt 24 Pakete, 10.877 Fragen, 10.315 Wissensziele und 562 ausdrücklich verknüpfte Varianten. Am 07.10.2026 auf ausdrücklichen Auftrag als Teil des committeten Main-Stands veröffentlicht. [Betriebs- und Katalognachweis](../Sites-Betrieb.md#version-57-200-bildfragen-mit-400-fotos-und-2480-weitere-fragen).
 
 ## Umfang
 
