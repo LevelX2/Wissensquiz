@@ -15,9 +15,13 @@ addPackages(
     text: readFileSync(`public${p.path}`, "utf8"),
   })),
 );
-const actors = state.questions.filter((q) => q.metadata.person_id);
+const actors = state.questions.filter(
+  (q) => q.metadata.person_id && !q.metadata.question_image_id,
+);
 it("nennt bei allen vorgegebenen Personen den vollen Namen und schützt die Erkennungsfragen", () => {
-  const originalActors = actors.filter(q => q.id.startsWith("SCHAUSPIELER-202610-P01-"));
+  const originalActors = actors.filter((q) =>
+    q.id.startsWith("SCHAUSPIELER-202610-P01-"),
+  );
   expect(originalActors).toHaveLength(800);
   expect(Object.keys(editorial.questions)).toHaveLength(800);
   for (const q of originalActors) {

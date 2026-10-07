@@ -1,4 +1,6 @@
-# Schauspieler: 1.400 Fragen für 175 Personen
+# Schauspieler: 1.600 Fragen für 200 Personen
+
+07.10.2026 – **200 Bildfragen lokal ergänzt:** Je ein eigenständiges Gesichtserkennen für 100 Schauspieler und 100 Schauspielerinnen. 175 vorhandene Personen und 25 Ergänzungen; vier Namensoptionen, Bild vor der Auswahl, neutraler Alternativtext, Quellen und Urheber erst zur Lösung. Genau beauftragter Erkennungsumfang, kein zusätzliches Acht-Fragen-Karrierepaket je Person. Damit lokal 1.600 Personenfragen für 200 Personen; noch nicht veröffentlicht. [Lesefassung, Quellen und Prüfung](Schauspieler-Bilderkennung-2026-10-07/Pruefbericht.md).
 
 04.10.2026 – **Gezielte Bestandsredaktion:** 53 ältere Personenfragen vollständig gelesen; 41 Anzeigetexte konkretisiert, zwölf erhalten. Fosters sachfremde Ablenker durch vergleichbare Altersphasen ersetzt. Ursprungstexte und native Lieferung erhalten, vorhandene Anzeige-Schlüssel unverändert. 340 Tests in 57 Dateien, TypeScript, Build und vollständige Quellen-/Katalogprüfung erfolgreich. Weiterhin 6.277 Fragen / 5.734 Ziele / 543 Varianten; 238 dokumentierte CSV-Zeilenabweichungen. Kein vollständiger neuer Faktencheck aller älteren Texte behauptet. Lokal auf main abgeschlossen; noch nicht veröffentlicht. [Einzelnachweise](Bestandsredaktion-2026-10-04/Block-03.json).
 

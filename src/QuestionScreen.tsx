@@ -24,6 +24,7 @@ import { presentedQuestion } from "./actorEditorial";
 import { Explanation } from "./Explanation";
 import { LearningProgress } from "./LearningProgressPanel";
 import { IssueReportForm } from "./IssueReportForm";
+import { ActorPortrait } from "./ActorPortrait";
 
 import {
   isRecordMode,
@@ -411,6 +412,7 @@ export function QuestionScreen({
             );
           })()}
         </h1>
+        {!event && <ActorPortrait q={q} beforeAnswer />}
         {!collected &&
           !timed &&
           state.settings.questionHistory !== "hidden" &&

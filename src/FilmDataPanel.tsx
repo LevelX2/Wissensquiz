@@ -4,7 +4,9 @@ import { filmData } from "./filmFacts";
 import { actorPresentation } from "./actorEditorial";
 
 export function FilmDataPanel({ q }: { q: Question }) {
-  const references = actorPresentation(q)?.films;
+  const references = q.metadata.question_image_id
+    ? q.metadata.film_refs?.split(";").filter(Boolean)
+    : actorPresentation(q)?.films;
   if (references?.length)
     return (
       <details className="film-data">

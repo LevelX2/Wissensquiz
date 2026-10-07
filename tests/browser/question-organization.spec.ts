@@ -11,7 +11,7 @@ test("getrennter Katalog migriert Vollstände, erhält Antworten und reduziert l
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const full = await readStoredState(page);
-  expect(full.questions).toHaveLength(8197);
+  expect(full.questions).toHaveLength(8397);
   // Inject the actual storage API only into this isolated test browser.
   const bundle = buildSync({
     stdin: {

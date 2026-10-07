@@ -382,7 +382,7 @@ for (const oldPackageCount of [1, 2, 3, 4, 5, 6, 8]) {
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     await page.getByRole("button", { name: "Optionen" }).click();
     await expect(
-      page.getByText("8197 Fragen · 7653 Wissensziele · 0 Demo-Fragen"),
+      page.getByText("8397 Fragen · 7853 Wissensziele · 0 Demo-Fragen"),
     ).toBeVisible();
   });
 }
@@ -728,7 +728,7 @@ test("Einstiegsrunde, Feedback, Meldung, Sammlung und Wiederherstellung", async 
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await expect(
-    page.getByText("8197 Fragen · 7653 Wissensziele · 0 Demo-Fragen"),
+    page.getByText("8397 Fragen · 7853 Wissensziele · 0 Demo-Fragen"),
   ).toBeVisible();
   const download = page.waitForEvent("download");
   await page.getByRole("button", { name: "Alles als JSON sichern" }).click();

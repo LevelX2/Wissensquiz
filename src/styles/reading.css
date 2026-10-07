@@ -192,6 +192,17 @@
 .portrait-title {
   overflow-wrap: anywhere;
 }
+.recognition-portrait {
+  justify-items: center;
+}
+.recognition-portrait img {
+  max-width: min(100%, 240px);
+  max-height: 250px;
+}
+.recognition-portrait figcaption {
+  text-align: center;
+  font-size: 12px;
+}
 .memory-anchor {
   margin: 12px 0;
   padding: 10px 12px;

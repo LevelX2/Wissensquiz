@@ -2,6 +2,7 @@ import facts from "./filmFacts.json" with { type: "json" };
 import awardFacts from "./awardFilmFacts.json" with { type: "json" };
 import actorFacts from "./actorFilmFacts.json" with { type: "json" };
 import actorSupplementFacts from "./actorSupplementFilmFacts.json" with { type: "json" };
+import actorRecognitionFacts from "./actorRecognitionFilmFacts.json" with { type: "json" };
 import directorContexts from "./directorContexts.json" with { type: "json" };
 import allGenres from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json" with { type: "json" };
 import allGenresDirectorContexts from "./allGenresDirectorContexts.json" with { type: "json" };
@@ -25,7 +26,9 @@ const filmKey = (q: Question) =>
 const byFilm = new Map(facts.map((f) => [f.film, f]));
 const awardData = new Map(awardFacts.map((f) => [f.film, f]));
 const actorData = new Map(
-  [...actorSupplementFacts, ...actorFacts].map((f) => [f.film, f]),
+  [...actorRecognitionFacts, ...actorSupplementFacts, ...actorFacts].map(
+    (f) => [f.film, f],
+  ),
 );
 const allGenresByFilm = new Map(
   allGenres.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
@@ -76,9 +79,10 @@ export function filmData(q: Question, reference?: string) {
     year: newer.film_year,
     directors: names(newer.directors),
     countries: newer.production_countries,
-    countryNote: "country_note" in newer
-      ? newer.country_note
-      : (allGenresCountryNotes as Record<string, string>)[key] ?? "",
+    countryNote:
+      "country_note" in newer
+        ? newer.country_note
+        : ((allGenresCountryNotes as Record<string, string>)[key] ?? ""),
     series: newer.series,
     releaseNote: newer.release_note,
     directorNote: newer.director_note,

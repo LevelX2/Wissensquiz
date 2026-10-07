@@ -26,7 +26,13 @@ import {
 
 // Keep this regression at the actor package's original catalog stage.
 const contents = packages
-  .filter((pkg) => pkg.filename !== "Filmfragen_240_Filme_1920_Fragen.csv")
+  .filter(
+    (pkg) =>
+      ![
+        "Filmfragen_240_Filme_1920_Fragen.csv",
+        "Schauspieler_Bilderkennung_200_Fragen.csv",
+      ].includes(pkg.filename),
+  )
   .map((pkg) => ({
     filename: pkg.filename,
     text: readFileSync(`public${pkg.path}`, "utf8"),

@@ -2,9 +2,11 @@
 
 04.10.2026 – **Bestandsredaktion abgeschlossen:** Vier Blöcke mit insgesamt 1.099 überarbeiteten bestehenden Fragen. 341 Tests in 57 Dateien, Build und Quellen-/Katalogprüfung erfolgreich. Seit Sites-Version 54 veröffentlicht. [Texte, Quellen und Prüfgrenzen](../docs/Bestandsredaktion-2026-10-04/Index.json).
 
-Stand: 05.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten Stand von der lokalen Umsetzung. Historische Meldungen und frühere Zahlen sind vollständig in der [Projektstart-Historie](00%20Projektstart-Historie-2026-10-03.md) und chronologisch im [Log](03%20Betrieb/Log.md) erhalten.
+Stand: 07.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten Stand von der lokalen Umsetzung. Historische Meldungen und frühere Zahlen sind vollständig in der [Projektstart-Historie](00%20Projektstart-Historie-2026-10-03.md) und chronologisch im [Log](03%20Betrieb/Log.md) erhalten.
 
 ## Aktueller Stand
+
+- Lokal am 07.10.2026 200 neue Schauspieler-Bildfragen für 100 Schauspieler und 100 Schauspielerinnen eingebunden: charakteristische Porträts vor der Auswahl, neutraler Alternativtext, Namen und Bildnachweise erst zur Lösung. 175 vorhandene Personen und 25 Ergänzungen; Gesamt 8.397 Fragen / 7.853 Ziele, davon 1.600 Personenfragen für 200 Personen. 374 Tests, Build, Katalogprüfung und 23 gezielte Browserfälle erfolgreich. Noch nicht veröffentlicht. [Paket, Quellen und Prüfung](../docs/Schauspieler-Bilderkennung-2026-10-07/Pruefbericht.md).
 
 - Lokal am 05.10.2026 die Update-Erkennung vor die Kontoöffnung gezogen. Konto-Ladefehler und Optionen bieten „Nach Update suchen“ beziehungsweise „Quiz aktualisieren“. Aktive Runden, laufende Speicherung und unbestätigter Kontofortschritt sperren den Wechsel; weitere Quiz-Fenster müssen geschlossen sein. Spielstände und Outbox bleiben erhalten. Allgemeine Ladefehler werden nicht mehr pauschal als Internetstörung bezeichnet. 367 Tests, TypeScript/Build und 16 gezielte Browserprüfungen einschließlich Firefox erfolgreich. Noch nicht veröffentlicht. [Updatevertrag](../docs/Lernregeln.md#offline-und-updates), [Kontoladen und Grenzen](../docs/Konten-und-Spielstaende.md#update-aktion-beim-kontoladen-05102026).
 

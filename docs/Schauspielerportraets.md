@@ -1,5 +1,7 @@
 # Schauspielerporträts nach der Antwort
 
+07.10.2026 – **200 neue Bild-Erkennungsfragen lokal ergänzt:** Bei diesen ausdrücklich beauftragten Fragen erscheint das charakteristische Porträt vor der Namensauswahl. Alternativtext und Bildnachweis verraten den Namen erst nach der Antwort. 24 vorhandene Fotos wiederverwendet, 176 weitere frei lizenzierte beziehungsweise gemeinfreie Dateien eingebunden und für offline bereitgestellt. Die nachfolgend dokumentierten 25 Fotos bei normalen Personenfragen bleiben erhalten. [Paket, Bildrechte und Prüfung](Schauspieler-Bilderkennung-2026-10-07/Pruefbericht.md).
+
 Stand: 04.10.2026. Auf Nutzerwunsch 25 vorhandene Schauspielerpersonen mit Fotos als Auflockerung ergänzt. Seit Sites-Version 55 veröffentlicht; [Betriebsnachweis](Sites-Betrieb.md#version-55-porträts-lösungsanzeige-antworttöne-und-github-meldeformulare).
 
 ## Anzeige und Zuordnung

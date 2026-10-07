@@ -1,0 +1,57 @@
+{
+  "checkedOn": "2026-10-07",
+  "questions": 200,
+  "persons": 200,
+  "newFaceGoals": 200,
+  "difficulty": {
+    "leicht": 104,
+    "schwer": 42,
+    "mittel": 44,
+    "experte": 10
+  },
+  "answerPositions": {
+    "A": 50,
+    "B": 50,
+    "C": 50,
+    "D": 50
+  },
+  "licenses": {
+    "CC BY 2.0": 14,
+    "CC BY 4.0": 18,
+    "CC BY-SA 4.0": 84,
+    "CC BY-SA 3.0": 31,
+    "Public domain": 29,
+    "CC BY-SA 2.0": 11,
+    "CC BY 3.0": 10,
+    "CC0": 3
+  },
+  "usedImageBytes": 17380310,
+  "newFilmFacts": 34,
+  "appCsvSha256": "5c8fa6b9327764dd34d71175577cc06d9882e15dd7532a4b8a60db0bfc40042b",
+  "catalog": {
+    "packages": 21,
+    "questions": 8397,
+    "knowledgeGoals": 7853,
+    "duplicateQuestionIds": 0,
+    "questionsWithVariantReference": 544,
+    "generatedFilmQuestions": 837
+  },
+  "technicalChecks": {
+    "unitTests": 374,
+    "unitTestFiles": 63,
+    "build": true,
+    "questionOrganization": true,
+    "browserTests": 23,
+    "scope": "Isolierte lokale Prüfung; keine Veröffentlichung und keine Nutzerdaten.",
+    "browserSkipped": 1,
+    "newImageBrowserTests": 6,
+    "all200ImagesCachedOffline": true,
+    "offlinePackage": "film-123f84ff1fb5",
+    "offlineFiles": 263
+  },
+  "editorialLimits": [
+    "175 Karrierevertiefungen aus bereits redigiertem Bestand wiederverwendet; kein unabhängiger neuer Vollcheck aller älteren Aussagen.",
+    "Schwierigkeiten sind redaktionelle Schätzungen der visuellen Vertrautheit, nicht empirisch kalibriert.",
+    "Windows-WebKit bestätigt Offline-Cache und Fortsetzung, nicht vollständiges Offline-Neuladen auf einem physischen iPhone."
+  ]
+}

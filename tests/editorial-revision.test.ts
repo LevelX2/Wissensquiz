@@ -20,8 +20,8 @@ it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen 
       text: readFileSync(`public${p.path}`, "utf8"),
     })),
   );
-  expect(state.questions).toHaveLength(8197);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7653);
+  expect(state.questions).toHaveLength(8397);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7853);
   for (const entry of revision.changes) {
     const q = state.questions.find((q) => q.id === entry.id)!;
     expect(q.knowledgeId, q.id).toBe(entry.knowledgeId);

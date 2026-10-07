@@ -15,10 +15,14 @@ import source from "../docs/Filmfragen-Ergaenzung-2026-10-06/Filmdaten.json";
 const latest = packages.find(
   (p) => p.path === "/film-ergaenzung-240-fragen.csv",
 )!;
-const contents = packages.map((p) => ({
-  filename: p.filename,
-  text: readFileSync(`public${p.path}`, "utf8"),
-}));
+// Preserve this package's integration stage; the complete current catalog is
+// checked separately by the portrait-package and catalog tests.
+const contents = packages
+  .filter((p) => p.filename !== "Schauspieler_Bilderkennung_200_Fragen.csv")
+  .map((p) => ({
+    filename: p.filename,
+    text: readFileSync(`public${p.path}`, "utf8"),
+  }));
 const incoming = contents.find((p) => p.filename === latest.filename)!;
 const previous = contents.filter((p) => p !== incoming);
 const prefix = "F240-20261006-";
@@ -39,7 +43,7 @@ function playOne(state: State, q: Question, at: number) {
 }
 
 it("importiert das veröffentlichte Paket vollständig mit 20 Filmen je Genre und einem vorhandenen Regieziel", () => {
-  expect(packages.at(-1)).toEqual(latest);
+  expect(packages).toContainEqual(latest);
   expect(incoming.text).toBe(
     readFileSync(
       "docs/Filmfragen-Ergaenzung-2026-10-06/Filmfragen_240_Filme_1920_Fragen.csv",

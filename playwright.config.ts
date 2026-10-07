@@ -36,6 +36,7 @@ export default defineConfig({
         "career.spec.ts",
         "duels.spec.ts",
         "actors-package.spec.ts",
+        "actor-recognition.spec.ts",
         "question-organization.spec.ts",
         "duel-performance.spec.ts",
         "response-performance.spec.ts",

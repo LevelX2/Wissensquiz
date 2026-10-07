@@ -19,7 +19,9 @@ it("ordnet 25 unveränderte, frei lizenzierte JPEG-Porträts den vorhandenen Per
   expect(evidence.images).toHaveLength(25);
   for (const portrait of Object.values(portraits)) {
     const questions = state.questions.filter(
-      (q) => q.metadata.person_id === portrait.personId,
+      (q) =>
+        q.metadata.person_id === portrait.personId &&
+        !q.metadata.question_image_id,
     );
     expect(questions).toHaveLength(8);
     expect(

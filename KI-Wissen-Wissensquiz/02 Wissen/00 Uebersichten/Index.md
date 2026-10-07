@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [200 neue Schauspieler-Bildfragen: Porträt vor der Antwort, Namen und Nachweise danach – 07.10.2026](../../../docs/Schauspieler-Bilderkennung-2026-10-07/Pruefbericht.md)
+- [Lesefassung aller 200 Bildfragen mit Lösungen](../../../docs/Schauspieler-Bilderkennung-2026-10-07/Lesefassung.md)
+
 - [Filmauswahl: künftige Erweiterungen vorrangig an der persönlichen Sammlung orientieren, begründete Ergänzungen bleiben möglich – 07.10.2026](../../../docs/Fragenredaktion.md#filmauswahl-anhand-der-persönlichen-sammlung)
 
 - [Version 56 veröffentlicht: 240 zusätzliche Filme und 1.920 Fragen](../../../docs/Sites-Betrieb.md#version-56-240-zusätzliche-filme-und-1920-fragen)
