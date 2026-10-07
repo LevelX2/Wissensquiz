@@ -1,0 +1,233 @@
+{
+  "rank": 258,
+  "titleDe": "Das Urteil von Nürnberg",
+  "originalTitle": "Judgment at Nuremberg",
+  "year": 1961,
+  "genre": "Drama",
+  "familiarity": 2,
+  "familiarity_reason": "Ein klassischer Gerichts- und Erinnerungsfilm unterscheidet juristische Verantwortung von institutioneller Selbstrechtfertigung.",
+  "directors": [
+    "Stanley Kramer"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere am 14. Dezember 1961 in der Berliner Kongresshalle, vor dem US-Start am 19. Dezember. Kinospielfilm nach Manns Fernsehspiel, kein Mitschnitt des realen Prozesses.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Judgment_at_Nuremberg",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/23848-JUDGMENT-AT-NUREMBERG",
+      "supports": "Regie, Abby Manns Fernsehspiel 1959, Produktion, Besetzung und Veröffentlichung 1961."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Urteil_von_N%C3%BCrnberg",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Berufsgruppe steht im Mittelpunkt der Anklage?",
+      "answers": [
+        "Richter und Justizfunktionäre des NS-Staats",
+        "Unternehmer eines geheimen Waffenwerks",
+        "Ärzte eines amerikanischen Militärkrankenhauses",
+        "Piloten eines britischen Bomberverbands"
+      ],
+      "feedback": [
+        "Das Tribunal prüft die Verantwortung früherer deutscher Justizangehöriger.",
+        "Eine einzelne Waffenfabrik ist nicht der Kern dieses Verfahrens.",
+        "Amerikanische Militärärzte sitzen nicht auf der Anklagebank.",
+        "Britische Piloten bilden nicht die Angeklagten dieses Prozesses."
+      ],
+      "short": "Das Tribunal prüft die Verantwortung früherer deutscher Justizangehöriger.",
+      "context": "Die Angeklagten haben nicht nur Befehle ausgeführt, sondern Recht gesprochen und dadurch Verfolgung legitimiert. Dan Haywood (Spencer Tracy) muss ihre persönliche Verantwortung prüfen. Die Frage betrifft deshalb eine Institution, deren Aufgabe Schutz und geregelte Prüfung gewesen wäre. Gerade diese Aufgabe macht die Mitwirkung an Unrecht zum zentralen Konflikt.",
+      "anchor": "Das Tribunal prüft die Verantwortung einer Justiz, die Verfolgung rechtlich legitimierte.",
+      "interest": "Die Berufsgruppe erklärt die besondere Form der Mitwirkung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Funktion hat Dan Haywood (Spencer Tracy)?",
+      "answers": [
+        "Er leitet das Gericht",
+        "Er verteidigt Ernst Janning",
+        "Er führt die deutsche Polizei",
+        "Er vertritt die Opfer als Hauptzeuge"
+      ],
+      "feedback": [
+        "Haywood ist der vorsitzende amerikanische Richter.",
+        "Die Verteidigung übernimmt Hans Rolfe.",
+        "Eine deutsche Polizeibehörde leitet er nicht.",
+        "Er entscheidet als Richter und ist nicht der zentrale Tatzeuge."
+      ],
+      "short": "Haywood ist der vorsitzende amerikanische Richter.",
+      "context": "Dan Haywood (Spencer Tracy) kommt aus den USA nach Nürnberg. Neben der Verhandlung spricht er mit Einwohnern und versucht zu verstehen, wie Wissen und Wegsehen zusammenhingen. Seine richterliche Aufgabe verbindet sich so mit einem persönlichen Lernprozess. Die Begegnungen liefern jedoch keine automatische Entlastung der Menschen, deren konkrete Entscheidungen im Gericht geprüft werden.",
+      "anchor": "Haywood verbindet seine richterliche Prüfung mit Gesprächen über das Verhalten der Bevölkerung.",
+      "interest": "Die Stellung erklärt seinen Zugang innerhalb und außerhalb des Gerichtssaals.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum widerspricht Janning (Burt Lancaster) schließlich seinem eigenen Verteidiger?",
+      "answers": [
+        "Rolfe bedrängt eine Zeugin erneut mit der früheren rassistischen Anklage",
+        "Rolfe empfiehlt Janning, sämtliche Urteile auf Untergebene abzuwälzen",
+        "Rolfe bestreitet trotz der Akten jeden Kontakt Jannings mit den Angeklagten",
+        "Rolfe will nur die Übersetzung der früheren Urteile angreifen"
+      ],
+      "feedback": [
+        "Das erneute Verhör führt Janning zum Eingeständnis des bewusst ungerechten Urteils.",
+        "Janning widerspricht angesichts der erneuten Demütigung der Zeugin durch Rolfe.",
+        "Entscheidend ist Rolfes Behandlung der Zeugin, nicht eine vollständige Leugnung aller Aktenkontakte.",
+        "Janning stoppt den Angriff auf die Zeugin, der die alte rassistische Anklage wiederholt."
+      ],
+      "short": "Das erneute Verhör führt Janning zum Eingeständnis des bewusst ungerechten Urteils.",
+      "context": "Irene Hoffmann (Judy Garland) muss die alte Verfolgung im Kreuzverhör noch einmal durchleben. Janning (Burt Lancaster) beendet Rolfes (Maximilian Schell) Vorgehen und gesteht, dass er die Unschuld des damals Verurteilten kannte. Seine Aussage bricht die Verteidigung über formale Gesetzestreue auf. Die persönliche Kenntnis macht aus dem Urteil eine bewusste Handlung gegen einen Unschuldigen.",
+      "anchor": "Die wiederholte Verfolgung der Zeugin bringt Janning zum Bekenntnis seiner bewussten Entscheidung.",
+      "interest": "Der Zusammenhang erklärt den Wechsel vom Schweigen zur Verantwortung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welcher neue politische Druck beeinflusst die Erwartungen an das Urteil?",
+      "answers": [
+        "Der Westen will deutsche Unterstützung gegen die Sowjetunion",
+        "Die Alliierten wollen Deutschland für einen neuen Seekrieg einsetzen",
+        "Die USA wollen die Verfahren zugunsten einer rein deutschen Nachprüfung beenden",
+        "Die Sowjetunion fordert die Auslieferung aller Angeklagten nach Moskau"
+      ],
+      "feedback": [
+        "Der beginnende Kalte Krieg macht ein mildes Urteil politisch attraktiv.",
+        "Ein neuer Seekrieg ist nicht der konkrete Hintergrund.",
+        "Der Kalte Krieg und das Interesse an deutscher Unterstützung setzen die Erwartungen unter Druck.",
+        "Die gezeigte Einflussnahme betrifft den westlichen Wunsch nach deutscher Unterstützung."
+      ],
+      "short": "Der beginnende Kalte Krieg macht ein mildes Urteil politisch attraktiv.",
+      "context": "Die Spannungen um Berlin verstärken den Wunsch, die deutsche Bevölkerung als Partner zu gewinnen. Ein hartes Urteil erscheint manchen Stellen dafür hinderlich. Haywood (Spencer Tracy) muss somit nicht nur den vergangenen Taten, sondern auch gegenwärtigen politischen Erwartungen gegenüberstehen. Die künftige Bündnispolitik soll eine Entscheidung über bereits begangenes Unrecht beeinflussen.",
+      "anchor": "Der Kalte Krieg erzeugt Druck, vergangene Verbrechen zugunsten künftiger Bündnisse milder zu behandeln.",
+      "interest": "Die Frage verbindet den Prozess mit der veränderten politischen Gegenwart.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was wirft Rolfe (Maximilian Schell) den anderen Staaten in seiner Verteidigung vor?",
+      "answers": [
+        "Auch sie hätten das Regime unterstützt oder vergleichbares Unrecht zugelassen",
+        "Die Verantwortung liege ausschließlich bei noch nicht angeklagten Militärführern",
+        "Die Prozesse verletzten frühere alliierte Zusagen persönlicher Straffreiheit",
+        "Andere Staaten hätten dieselben Richter noch nach Kriegsende beschäftigt"
+      ],
+      "feedback": [
+        "Er erweitert die Schuldfrage auf ausländische Unterstützung und vergleichbare Praktiken.",
+        "Rolfe verweist auf Mitverantwortung und vergleichbares Verhalten anderer Staaten.",
+        "Sein Argument arbeitet mit fremder Mitverantwortung, nicht mit verbindlicher Straffreiheit.",
+        "Rolfe bezieht die Vorwürfe auf Unterstützung des Regimes und vergleichbare Unrechtspraktiken."
+      ],
+      "short": "Er erweitert die Schuldfrage auf ausländische Unterstützung und vergleichbare Praktiken.",
+      "context": "Hans Rolfe (Maximilian Schell) verweist auf Verträge, Anerkennung und eigenes Unrecht anderer Staaten. Er versucht, den alleinigen Blick auf die Angeklagten durch einen größeren Zusammenhang zu relativieren. Haywoods (Spencer Tracy) Aufgabe bleibt jedoch die Bewertung ihrer konkreten Entscheidungen. Ein breiterer Schuldrahmen beseitigt die persönliche Verantwortung nicht automatisch.",
+      "anchor": "Rolfes Vergleich mit anderen Staaten soll die konkrete Verantwortung relativieren.",
+      "interest": "Die Frage erklärt die argumentative Strategie des Verteidigers.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Womit beantwortet Haywood (Spencer Tracy) Jannings (Burt Lancaster) Behauptung, das spätere Ausmaß nicht vorausgesehen zu haben?",
+      "answers": [
+        "Mit dem ersten Urteil gegen einen erkennbar Unschuldigen",
+        "Mit Jannings späterer Flucht aus dem Land",
+        "Mit einem geheimen Bankkonto seiner Familie",
+        "Mit einer falschen Übersetzung des Friedensvertrags"
+      ],
+      "feedback": [
+        "Für Haywood beginnt die Verantwortung bei der ersten bewussten Verurteilung eines Unschuldigen.",
+        "Jannings Auslandsflucht bildet nicht den abschließenden Maßstab.",
+        "Ein Bankkonto erklärt den letzten Dialog nicht.",
+        "Ein Friedensvertrag wird dort nicht sprachlich neu ausgelegt."
+      ],
+      "short": "Für Haywood beginnt die Verantwortung bei der ersten bewussten Verurteilung eines Unschuldigen.",
+      "context": "Janning (Burt Lancaster) erkennt das Urteil an, will sich aber vom späteren Massenmord abgrenzen. Haywood (Spencer Tracy) führt die Frage auf den Beginn der bewussten Rechtsverletzung zurück. Der Maßstab ist nicht erst das Wissen um jede spätere Folge. Das Schlussgespräch verbindet das große Verbrechen mit einer ersten persönlichen Entscheidung, die bereits als Unrecht erkennbar war.",
+      "anchor": "Haywood setzt den Beginn der Verantwortung bei der ersten wissentlich ungerechten Verurteilung an.",
+      "interest": "Der Schluss macht den moralischen Maßstab an einer konkreten Handlung verständlich.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1961",
+        "1958",
+        "1955",
+        "1963"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1961.",
+        "1958 liegt drei Jahre vor der ersten Veröffentlichung von 1961.",
+        "1955 liegt sechs Jahre vor der ersten Veröffentlichung von 1961.",
+        "1963 ist ein späteres Jahr als das belegte erste Filmjahr 1961."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1961.",
+      "context": "Abby Manns Fernsehspiel Judgment at Nuremberg wurde 1959 in Playhouse 90 ausgestrahlt. Stanley Kramers Kinofilm folgte 1961, zwei Jahre später. Maximilian Schell spielte in beiden Produktionen den Verteidiger Rolfe. Die erneute Besetzung verbindet das Filmjahr mit einer ausgeweiteten Bearbeitung desselben Konflikts über persönliche Verantwortung unter einem verbrecherischen Staat.",
+      "anchor": "Manns Fernsehspiel 1959 → Kramers Kinofilm 1961: zwei Jahre; Schell erneut als Rolfe.",
+      "interest": "Der Zeitanker unterscheidet den Kinofilm von der früheren Fernsehfassung und zeigt eine konkrete personelle Verbindung.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Stanley Kramer",
+        "Sidney Lumet",
+        "Otto Preminger",
+        "Fred Zinnemann"
+      ],
+      "feedback": [
+        "Stanley Kramer führte bei diesem Film Regie.",
+        "Sidney Lumet hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kramer.",
+        "Otto Preminger hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kramer.",
+        "Fred Zinnemann hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kramer."
+      ],
+      "short": "Stanley Kramer führte bei diesem Film Regie.",
+      "context": "Stanley Kramer produzierte und inszenierte Abby Manns erweitertes Drehbuch. Das Ensemble umfasst Spencer Tracy, Burt Lancaster und Maximilian Schell. Dokumentarische Lageraufnahmen unterbrechen die juristische Argumentation mit dem sichtbaren Ergebnis der Verbrechen. Der Film verbindet damit ein gestaltetes Tribunal über Richter mit tatsächlichem historischem Material, ohne die Filmhandlung als unmittelbare Aufzeichnung des realen Verfahrens auszugeben.",
+      "anchor": "Kramer verbindet das gespielte Richtertribunal mit tatsächlichen Aufnahmen der NS-Verbrechen.",
+      "interest": "Der Hintergrund erklärt die unterschiedlichen Beweisebenen innerhalb der Filmgestaltung.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

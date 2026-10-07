@@ -1,0 +1,222 @@
+{
+  "rank": 51,
+  "titleDe": "Das weiße Band",
+  "originalTitle": "Das weiße Band – Eine deutsche Kindergeschichte",
+  "year": 2009,
+  "genre": "Drama",
+  "familiarity": 3,
+  "directors": [
+    "Michael Haneke"
+  ],
+  "production_countries": [
+    "Deutschland",
+    "Österreich",
+    "Frankreich",
+    "Italien"
+  ],
+  "release_note": "Erste öffentliche Aufführung am 21. Mai 2009 in Cannes; regulärer deutscher Start am 15. Oktober 2009 nach ausgewählten Vorführungen im September.",
+  "familiarity_reason": "Hanekes Cannes-prämierter Autorenfilm ist im internationalen Filmkanon präsent, aber weniger breit als populäre historische Dramen; Bekanntheit 3.",
+  "sources": {
+    "cannes": "https://www.festival-cannes.com/en/f/das-weisse-band/",
+    "presse": "https://www.sonyclassics.com/thewhiteribbon/whiteribbonpressbook.pdf",
+    "handlung": "https://en.wikipedia.org/wiki/The_White_Ribbon",
+    "verleih": "https://www.sonyclassics.com/downloads/TheWhiteRibbon-Release.pdf",
+    "analyse": "https://www.rogerebert.com/roger-ebert/tiff-6-oy-vey-such-a-film-you-should-see-2"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher historischen Umgebung spielt @?",
+      "answers": [
+        "In einem deutschen Dorf kurz vor dem Ersten Weltkrieg",
+        "In einer deutschen Stadt während der Weimarer Republik",
+        "In einem österreichischen Dorf nach dem Zweiten Weltkrieg",
+        "In einem Schweizer Internat während des Kalten Krieges"
+      ],
+      "feedback": [
+        "Die Dorfgeschichte spielt 1913–1914 im protestantischen Norddeutschland.",
+        "Die Weimarer Republik beginnt erst nach der gezeigten Zeit.",
+        "Der Film führt in die Vorkriegszeit, nicht ins Österreich der Nachkriegsjahre.",
+        "Weder ein Schweizer Internat noch der Kalte Krieg bilden den Schauplatz."
+      ],
+      "short": "Die Dorfgeschichte spielt 1913–1914 im protestantischen Norddeutschland.",
+      "context": "Die Kinder wachsen in einer streng hierarchischen Gemeinschaft auf. Pastor, Gutsherr und Arzt besitzen Autorität über Menschen, die von ihnen abhängig sind. Die Jahre 1913–1914 erlauben den Blick auf eine Generation, deren Erziehung lange vor den späteren politischen Katastrophen des Jahrhunderts beginnt.",
+      "anchor": "Eichwald liegt am Vorabend des Ersten Weltkriegs.",
+      "interest": "Die zeitliche Einordnung gibt der Dorfgeschichte ihren weiteren historischen Horizont.",
+      "sources": [
+        "cannes"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Aus welcher früheren Tätigkeit berichtet der alte Erzähler in @?",
+      "answers": [
+        "Er war der Lehrer des Dorfes.",
+        "Er war der Arzt des Dorfes.",
+        "Er war der Verwalter des Gutes.",
+        "Er war der Pfarrer des Dorfes."
+      ],
+      "feedback": [
+        "Der Erzähler erinnert sich an seine Zeit als junger Dorflehrer.",
+        "Der Arzt gehört zu den beobachteten Dorfbewohnern.",
+        "Der Gutsverwalter ist eine andere Figur im Dorf.",
+        "Der Pastor wird aus der Perspektive des Lehrers betrachtet."
+      ],
+      "short": "Der Erzähler erinnert sich an seine Zeit als junger Dorflehrer.",
+      "context": "Christian Friedel spielt den jungen Lehrer, Ernst Jacobi spricht dessen alte Erzählerstimme. Zwischen Erleben und Bericht liegt ein langer Abstand. Seine Erinnerung ordnet die Vorgänge, besitzt aber keinen allwissenden Zugriff auf fremde Taten und Motive. Die hörbare Rückschau schafft deshalb Orientierung und zugleich Unsicherheit.",
+      "anchor": "Der alte Lehrer erzählt, was er damals nur teilweise verstand.",
+      "interest": "Die Erzählerposition erklärt die Grenzen des Wissens im Film.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Bedeutung gibt der Pastor den Bändern, die seine Kinder tragen müssen?",
+      "answers": [
+        "Sie sollen an verlorene Unschuld und Reinheit erinnern.",
+        "Sie zeigen den bestandenen Abschluss des Schuljahrs.",
+        "Sie kennzeichnen die Kinder als Erben des Gutes.",
+        "Sie belohnen die Kinder für den Kirchenchor."
+      ],
+      "feedback": [
+        "Der Pastor verbindet die Bänder mit seiner Vorstellung von Reinheit.",
+        "Sie sind keine Auszeichnung für einen Schulabschluss.",
+        "Ein Erbanspruch auf das Gut wird damit nicht angezeigt.",
+        "Die Bänder dienen der Ermahnung, nicht einer Chorbelohnung."
+      ],
+      "short": "Der Pastor verbindet die Bänder mit seiner Vorstellung von Reinheit.",
+      "context": "Der Pastor (Burghart Klaußner) macht die vermeintliche moralische Verfehlung seiner Kinder öffentlich sichtbar. Sein Reinheitsideal wird dadurch mit Beschämung verbunden. Die Erziehung soll Ordnung schaffen, erzeugt aber einen Druck, dessen zerstörerische Folgen hinter der bürgerlichen Fassade kaum ausgesprochen werden.",
+      "anchor": "Das Reinheitssymbol wird zum Zeichen öffentlicher Beschämung.",
+      "interest": "Das zentrale Symbol verbindet Moralanspruch und Macht über Kinder.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M2",
+      "question": "Wie wird der erste rätselhafte Unfall des Arztes verursacht?",
+      "answers": [
+        "Ein gespannter Draht bringt sein Pferd zu Fall.",
+        "Ein angesägtes Wagenrad bricht auf dem Feldweg.",
+        "Ein manipuliertes Treppengeländer gibt nach.",
+        "Eine vergiftete Mahlzeit setzt ihn außer Gefecht."
+      ],
+      "feedback": [
+        "Ein zwischen Bäumen gespannter Draht lässt das Pferd stürzen.",
+        "Der Arzt verunglückt nicht durch einen sabotierten Wagen.",
+        "Ein Treppensturz eröffnet die Unfallserie nicht.",
+        "Gift ist nicht die Ursache des ersten Angriffs."
+      ],
+      "short": "Ein zwischen Bäumen gespannter Draht lässt das Pferd stürzen.",
+      "context": "Der Arzt (Rainer Bock) stürzt über eine absichtlich angebrachte Falle. Eine alltägliche Heimkehr verwandelt sich in einen Angriff. Der Film zeigt damit früh, dass hinter den angeblichen Unglücken menschliches Handeln steckt. Wer handelt, bleibt jedoch zunächst ebenso verborgen wie die Verbindung zwischen den einzelnen Vorfällen.",
+      "anchor": "Der erste „Unfall“ beginnt mit einer Drahtfalle.",
+      "interest": "Die konkrete Ursache verändert den Blick auf die folgenden Unglücke.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie behandelt @ am Ende die Frage nach den Tätern?",
+      "answers": [
+        "Die Verdachtsmomente bleiben ohne eindeutige Auflösung.",
+        "Der Lehrer gesteht öffentlich sämtliche Taten.",
+        "Ein überführter Täter erklärt alle Angriffe im Gericht.",
+        "Ein abschließender Rückblick zeigt die Tat jeder Person."
+      ],
+      "feedback": [
+        "Der Film liefert Verdachtsmomente, aber keine vollständige Täterenthüllung.",
+        "Der Lehrer legt kein solches Geständnis ab.",
+        "Eine abschließende Gerichtsaufklärung fehlt.",
+        "Es gibt keinen Rückblick, der jede Tat eindeutig zuordnet."
+      ],
+      "short": "Der Film liefert Verdachtsmomente, aber keine vollständige Täterenthüllung.",
+      "context": "Haneke verweigert die Entlastung durch einen sauber gelösten Kriminalfall. Die Frage richtet sich auch auf das Klima des Dorfes, seine Demütigungen und seine Erziehungsregeln. Verdächtige Beobachtungen laden zum Nachdenken ein, reichen aber nicht für eine sichere Zuschreibung jeder einzelnen Tat.",
+      "anchor": "Das Dorf bleibt durchschaubar in seinen Machtverhältnissen, rätselhaft in seinen Verbrechen.",
+      "interest": "Die offene Täterfrage lenkt Aufmerksamkeit auf die ganze Gemeinschaft.",
+      "sources": [
+        "presse",
+        "analyse"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Bildverfahren bestimmt die sichtbare Gestaltung von @?",
+      "answers": [
+        "Schwarzweißbilder mit sorgfältig komponierten Kontrasten",
+        "Warme Sepiafarben glätten die historischen Bilder.",
+        "Wechselnde Farbpaletten kennzeichnen jeden Erzähler.",
+        "Eine ständig bewegte Handkamera erzeugt Dokumentarwirkung."
+      ],
+      "feedback": [
+        "Die Schwarzweißgestaltung prägt die historischen Dorfporträts.",
+        "Die Gestaltung nutzt Schwarzweiß und keine warmen Sepiatöne.",
+        "Die Perspektiven werden nicht durch getrennte Farbpaletten codiert.",
+        "Die kontrollierten Bilder wirken anders als eine durchgehend improvisiert bewegte Handkamera."
+      ],
+      "short": "Die Schwarzweißgestaltung prägt die historischen Dorfporträts.",
+      "context": "Die streng geordneten Schwarzweißbilder lassen Vertrautes fremd und beunruhigend erscheinen. Ihre historische Anmutung schafft keine gemütliche Vergangenheit. Sie macht Gesichter, Räume und gesellschaftliche Ordnung genau beobachtbar. Die sichtbare Kontrolle der Komposition steht dabei neben einer Handlung, deren verborgene Gewalt sich nicht vollständig kontrollieren lässt.",
+      "anchor": "Die Schwarzweißordnung der Bilder enthält die Unordnung des Dorfes.",
+      "interest": "Bildgestaltung trägt die Spannung auch ohne sichtbare Täterenthüllung.",
+      "sources": [
+        "analyse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, vier Jahre nach Hanekes „Caché“ von 2005?",
+      "answers": [
+        "2009",
+        "2007",
+        "2011",
+        "2013"
+      ],
+      "feedback": [
+        "2005 plus vier Jahre ergibt das Erscheinungsjahr 2009.",
+        "2007 läge nur zwei Jahre nach „Caché“.",
+        "2011 ergäbe einen Abstand von sechs Jahren.",
+        "2013 wäre acht Jahre nach dem früheren Film."
+      ],
+      "short": "2005 plus vier Jahre ergibt das Erscheinungsjahr 2009.",
+      "context": "Sony Pictures Classics hatte „Caché“ 2005 herausgebracht und übernahm 2009 auch den neuen Haneke-Film. Vier Jahre trennen die beiden Arbeiten. Beide untersuchen verborgene Gewalt hinter gesellschaftlicher Normalität, doch die neue Geschichte verlegt diesen Blick aus der Gegenwart in ein Dorf vor dem Ersten Weltkrieg.",
+      "anchor": "„Caché“ 2005, Dorfgeschichte 2009: vier Jahre später.",
+      "interest": "Der Zeitanker verbindet unterschiedliche Schauplätze einer fortgesetzten künstlerischen Beschäftigung.",
+      "sources": [
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer schrieb und inszenierte @ als eigene Dorfgeschichte?",
+      "answers": [
+        "Michael Haneke",
+        "Ulrich Seidl",
+        "Christian Petzold",
+        "Florian Henckel von Donnersmarck"
+      ],
+      "feedback": [
+        "Michael Haneke verantwortet Regie und Originaldrehbuch.",
+        "Ulrich Seidl ist kein Regisseur dieses Films.",
+        "Christian Petzold schrieb und inszenierte diese Dorfgeschichte nicht.",
+        "Florian Henckel von Donnersmarck gehört nicht zum Regieteam."
+      ],
+      "short": "Michael Haneke verantwortet Regie und Originaldrehbuch.",
+      "context": "Haneke beschreibt seinen Film als Untersuchung der Voraussetzungen ideologischer Verführung. Die Handlung soll keine vollständige Erklärung des deutschen Faschismus liefern. Sie fragt, welche Erfahrungen in einer Erziehung Menschen anfällig dafür machen, Verantwortung an vermeintliche Erlöser abzugeben. Die persönliche Autorenschaft verbindet konkrete Geschichte und weiter reichende Fragestellung.",
+      "anchor": "Hanekes Dorfgeschichte fragt nach den Voraussetzungen der Verführung.",
+      "interest": "Der Hintergrund verhindert eine zu einfache historische Lesart.",
+      "sources": [
+        "cannes",
+        "presse"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

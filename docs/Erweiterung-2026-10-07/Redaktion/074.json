@@ -1,0 +1,218 @@
+{
+  "rank": 74,
+  "titleDe": "Lemony Snicket: Rätselhafte Ereignisse",
+  "originalTitle": "Lemony Snicket's A Series of Unfortunate Events",
+  "year": 2004,
+  "genre": "Fantasy",
+  "familiarity": 2,
+  "directors": [
+    "Brad Silberling"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "US-Kinostart am 17. Dezember 2004.",
+  "familiarity_reason": "Jim Carrey und die verbreitete Jugendbuchreihe machen den Film breit erkennbar; die Fassung wird klar von der späteren Serie getrennt, Bekanntheit 2.",
+  "sources": {
+    "studio": "https://www.paramountpictures.com/movies/lemony-snickets-series-of-unfortunate-events",
+    "handlung": "https://en.wikipedia.org/wiki/Lemony_Snicket%27s_A_Series_of_Unfortunate_Events",
+    "kritik": "https://www.rogerebert.com/reviews/lemony-snickets-a-series-of-unfortunate-events-2004",
+    "buch": "https://en.wikipedia.org/wiki/The_Bad_Beginning"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was will Graf Olaf von den drei Waisenkindern in @ vor allem erlangen?",
+      "answers": [
+        "Ihr Familienvermögen",
+        "Ihr verborgenes Zauberbuch",
+        "Ihre geerbte Erfinderwerkstatt",
+        "Ihre Mitgliedschaft in seiner Theatergruppe"
+      ],
+      "feedback": [
+        "Olaf verfolgt das Vermögen der Baudelaire-Familie.",
+        "Ein geerbtes Zauberbuch ist nicht sein Ziel.",
+        "Eine Werkstatt bildet nicht den Gegenstand seiner Besitzgier.",
+        "Die Bühne dient seinem Plan, nicht einem bloßen Mitgliederwunsch."
+      ],
+      "short": "Olaf verfolgt das Vermögen der Baudelaire-Familie.",
+      "context": "Graf Olaf (Jim Carrey) übernimmt die Betreuung von Violet (Emily Browning), Klaus (Liam Aiken) und Sunny (Kara und Shelby Hoffman), um an ihr Vermögen zu gelangen. Die Vormundschaft gibt ihm Macht über Schutzbedürftige. Der vermeintliche Schutzraum wird dadurch zum Ort gezielter Ausbeutung.",
+      "anchor": "Die Vormundschaft soll Olaf Zugriff auf das Vermögen geben.",
+      "interest": "Das zentrale Motiv erklärt die Gefahr hinter einem offiziellen Fürsorgeverhältnis.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wodurch verlieren die Baudelaire-Kinder in @ ihre Eltern und ihr Zuhause?",
+      "answers": [
+        "Durch einen Brand",
+        "Durch einen Schiffsuntergang",
+        "Durch einen Erdrutsch",
+        "Durch den Einsturz einer Brücke"
+      ],
+      "feedback": [
+        "Ein Brand zerstört das Familienhaus und tötet die Eltern.",
+        "Die Familie erleidet keinen Schiffsuntergang.",
+        "Ein Erdrutsch vernichtet nicht das Haus.",
+        "Eine Brückenkatastrophe ist nicht der Ausgangspunkt."
+      ],
+      "short": "Ein Brand zerstört das Familienhaus und tötet die Eltern.",
+      "context": "Der Brand macht die drei Geschwister zu Waisen. Mr. Poe (Timothy Spall) organisiert ihre anschließende Betreuung, erkennt aber die Gefahren nicht zuverlässig. Das Unglück führt deshalb nicht in eine sichere neue Ordnung: Die Kinder müssen sich weiter auf ihre eigenen unterschiedlichen Fähigkeiten verlassen.",
+      "anchor": "Der Hausbrand macht die Geschwister von unzuverlässiger Betreuung abhängig.",
+      "interest": "Das Anfangsereignis erklärt ihre besondere Schutzbedürftigkeit.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie widerlegt Sunny in @ die Behauptung, Montys Giftschlange habe ihn getötet?",
+      "answers": [
+        "Sie zeigt, dass die gefährlich benannte Schlange harmlos ist",
+        "Sie findet am Opfer eine andere Bissspur.",
+        "Sie entdeckt das versteckte Fläschchen des Täters.",
+        "Sie zeigt, dass die Schlange während der Tat eingesperrt war."
+      ],
+      "feedback": [
+        "Sunny demonstriert die Harmlosigkeit der Unglaublich Tödlichen Viper.",
+        "Sunny widerlegt den Verdacht durch den ungefährlichen Umgang mit der Schlange.",
+        "Die entscheidende Vorführung ist das harmlose Tier, nicht ein gefundenes Giftfläschchen.",
+        "Nicht ein Alibi der Schlange, sondern ihre Ungiftigkeit entkräftet die Behauptung."
+      ],
+      "short": "Sunny demonstriert die Harmlosigkeit der Unglaublich Tödlichen Viper.",
+      "context": "Sunny (Kara und Shelby Hoffman) beweist, dass Montys vermeintlich tödliche Viper harmlos ist. Die Kinder erkennen damit eine Lücke in der Erklärung des Erwachsenen. Ein einschüchternder Name wird entkräftet, während Graf Olafs (Jim Carrey) Verkleidung seine tatsächliche Gefahr verbergen soll.",
+      "anchor": "Die „tödliche“ Viper ist harmlos; gefährlich ist der verkleidete Mensch.",
+      "interest": "Die Szene unterscheidet einen Namen von einem belastbaren Beweis.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum erkennt Klaus in @ in Josephines Abschiedsbrief eine versteckte Nachricht?",
+      "answers": [
+        "Eine sonst grammatikbesessene Frau hat auffällige Sprachfehler eingebaut",
+        "Der Brief ist mit unsichtbarer Tinte geschrieben",
+        "Jeder Satz besteht aus einer Theaterrolle Olafs",
+        "Die Handschrift verändert sich bei Tageslicht"
+      ],
+      "feedback": [
+        "Die absichtlichen Fehler widersprechen Josephines Gewohnheiten und verweisen auf ihren Aufenthaltsort.",
+        "Unsichtbare Tinte ist nicht das Verfahren.",
+        "Theaterrollen bilden nicht den Nachrichtenschlüssel.",
+        "Die Schrift verändert sich nicht durch Licht."
+      ],
+      "short": "Die absichtlichen Fehler widersprechen Josephines Gewohnheiten und verweisen auf ihren Aufenthaltsort.",
+      "context": "Klaus (Liam Aiken) kennt Josephines (Meryl Streep) Genauigkeit bei Sprache. Gerade die Fehler in ihrem Brief werden deshalb zu Hinweisen. Das Wissen um eine Person hilft ihm, eine erzwungene Botschaft zu entziffern, die Erwachsene vorschnell als glaubwürdige Erklärung akzeptieren.",
+      "anchor": "Für eine Sprachpedantin werden absichtliche Fehler zum Hilferuf.",
+      "interest": "Eine Charaktereigenschaft wird zur Grundlage einer schlüssigen Entzifferung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie will Olaf in @ eine Theateraufführung rechtlich für sich ausnutzen?",
+      "answers": [
+        "Er will die gespielte Hochzeit mit Violet zu einer echten Ehe machen",
+        "Er will sich durch eine gespielte Vormundschaft selbst zum Erben machen.",
+        "Er will Violet auf der Bühne zu einer Vermögensübertragung bewegen.",
+        "Er will ein gespieltes Testament als echte Verfügung hinterlegen."
+      ],
+      "feedback": [
+        "Ein echter Ehevertrag und eine echte Richterin sollen die gespielte Hochzeit rechtswirksam machen.",
+        "Die Falle beruht konkret auf der rechtlich wirksamen Hochzeit.",
+        "Sein Plan nutzt die Ehe und keine ausdrückliche Übertragungserklärung.",
+        "Nicht ein Testament, sondern eine vermeintlich nur gespielte Trauung soll Rechtswirkung entfalten."
+      ],
+      "short": "Ein echter Ehevertrag und eine echte Richterin sollen die gespielte Hochzeit rechtswirksam machen.",
+      "context": "Olaf (Jim Carrey) lässt Violet (Emily Browning) in einem Stück die Braut spielen. Mit echter Unterschrift und Richterin will er aus Darstellung eine rechtliche Ehe machen. Der Bühnenrahmen verdeckt dadurch einen Machtgewinn, den eine bloße Vormundschaft ihm nicht verschafft hat.",
+      "anchor": "Die Bühnenhochzeit soll einen echten Zugriff auf das Vermögen schaffen.",
+      "interest": "Theater und Rechtswirklichkeit werden für einen präzisen Betrug verbunden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie zeigt der Film @ seinen Erzähler bei der Arbeit?",
+      "answers": [
+        "Als im Schatten schreibenden Chronisten an einer Schreibmaschine",
+        "Als Nachrichtensprecher vor einer Studiokamera",
+        "Als Richter vor einem versammelten Publikum",
+        "Als Fotografen, der ausschließlich die Tatorte zeigt"
+      ],
+      "feedback": [
+        "Lemony Snicket schreibt die Geschichte nieder und spricht als Erzähler.",
+        "Ein Fernsehstudio bildet nicht den Rahmen.",
+        "Eine Gerichtssitzung ist nicht seine Erzählposition.",
+        "Er dokumentiert nicht ausschließlich durch Tatortfotos."
+      ],
+      "short": "Lemony Snicket schreibt die Geschichte nieder und spricht als Erzähler.",
+      "context": "Lemony Snicket (Originalstimme Jude Law) erscheint als zurückgezogen schreibender Chronist. Seine Warnungen richten sich direkt an das Publikum. Der Rahmen macht die düstere Geschichte zugleich zu einer bewusst gestalteten Dokumentation, deren Erzähler selbst entscheidet, welche Ereignisse und Hinweise er weitergibt.",
+      "anchor": "Der Chronist schreibt und warnt das Publikum vor seiner eigenen Geschichte.",
+      "interest": "Der Erzählrahmen erklärt die ungewöhnliche Ansprache der Zuschauer.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, fünf Jahre nach dem ersten Roman „The Bad Beginning“ von 1999?",
+      "answers": [
+        "2004",
+        "2001",
+        "2003",
+        "2006"
+      ],
+      "feedback": [
+        "Die Kinoadaption erschien 2004, fünf Jahre nach dem ersten Band.",
+        "2001 wären erst zwei Jahre nach dem Reihenbeginn.",
+        "2003 läge vier Jahre nach 1999.",
+        "2006 ergäbe sieben Jahre Abstand."
+      ],
+      "short": "Die Kinoadaption erschien 2004, fünf Jahre nach dem ersten Band.",
+      "context": "„The Bad Beginning“ erschien 1999 unter Daniel Handlers Pseudonym Lemony Snicket. 2004 folgte die Filmadaption mit fünf Jahren Abstand. Sie verdichtet Ereignisse aus den ersten drei Bänden. Der Zeitanker verbindet deshalb den Reihenbeginn mit einer Kinogeschichte, die bereits mehrere Buchabenteuer zusammenführt.",
+      "anchor": "1999 erster Band, 2004 Film aus drei Bänden: fünf Jahre Abstand.",
+      "interest": "Die Vorlagenchronologie erklärt den Umfang der Filmadaption.",
+      "sources": [
+        "buch",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ und arbeitete dabei mit Kameramann Emmanuel Lubezki und Szenenbildner Rick Heinrichs?",
+      "answers": [
+        "Brad Silberling",
+        "Barry Sonnenfeld",
+        "Tim Burton",
+        "Henry Selick"
+      ],
+      "feedback": [
+        "Brad Silberling führte bei der Kinofassung Regie.",
+        "Sonnenfeld ist mit einer späteren Serienfassung verbunden, nicht mit dieser Kinoregie.",
+        "Burton inszenierte diese Produktion nicht.",
+        "Selick führte bei dieser Realfilmfassung nicht Regie."
+      ],
+      "short": "Brad Silberling führte bei der Kinofassung Regie.",
+      "context": "Brad Silberling inszenierte Robert Gordons Drehbuch mit Emmanuel Lubezki an der Kamera und Rick Heinrichs im Szenenbild. Die Räume tragen wesentlich zur makabren Wirkung bei. Die Regie verbindet diese Gestaltung mit Kindern, deren Erfindungsgeist und Wissen innerhalb einer stets bedrohlich wirkenden Erwachsenenwelt bestehen müssen.",
+      "anchor": "Silberling verbindet Gordons Handlung mit Lubezkis Bildern und Heinrichs’ Räumen.",
+      "interest": "Ein konkretes Gestaltungsteam erklärt die visuelle Wirkung der Adaption.",
+      "sources": [
+        "studio",
+        "kritik"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

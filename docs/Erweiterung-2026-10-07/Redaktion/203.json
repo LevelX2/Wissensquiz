@@ -1,0 +1,241 @@
+{
+  "rank": 203,
+  "titleDe": "Europa Report",
+  "originalTitle": "Europa Report",
+  "year": 2013,
+  "genre": "Science-Fiction",
+  "familiarity": 4,
+  "familiarity_reason": "Eine wissenschaftliche Mission wird durch rekonstruierte Aufnahmen und die Kosten einzelner Entscheidungen erzählt.",
+  "directors": [
+    "Sebastián Cordero"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Erste Festivalvorführung 2013 in Los Angeles; danach VOD-Veröffentlichung im Juni und US-Kinostart im August desselben Jahres.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Europa_Report",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "studio": {
+      "url": "https://www.magpictures.com/profile.aspx?id=bb553345-2a8b-470a-ae5d-d51394b1f3f0",
+      "supports": "Missionsziel, Besatzung, privater Auftraggeber und Produktionscredits."
+    },
+    "premiere": {
+      "url": "https://www.eluniverso.com/fotogalerias/europa-report-de-sebastian-cordero-se-estrena-hoy-en-los-angeles/",
+      "supports": "Festivaldebüt in Los Angeles am 15. Juni 2013."
+    },
+    "nasa": {
+      "url": "https://science.nasa.gov/mission/europa-clipper/",
+      "supports": "Start der realen Europa-Clipper-Mission am 14. Oktober 2024 und ihr Forschungsziel."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Europa_Report",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Hauptziel verfolgt die bemannte Expedition in @?",
+      "answers": [
+        "Sie sucht nach außerirdischem Leben.",
+        "Sie soll einen Rohstoffabbau vorbereiten.",
+        "Sie soll eine dauerhafte Kolonie aufbauen.",
+        "Sie soll eine verschollene Raumsonde bergen."
+      ],
+      "feedback": [
+        "Die Crew soll Hinweise auf Leben unter Europas Eiskruste finden.",
+        "Ein Rohstoffabbau ist nicht der Auftrag dieser Forschungsreise.",
+        "Die Crew untersucht den Mond und gründet keine Kolonie.",
+        "Die Expedition sucht Lebensspuren, nicht eine verlorene Sonde."
+      ],
+      "short": "Die Expedition untersucht Europa auf mögliches außerirdisches Leben.",
+      "context": "Die Mission sucht Leben unter der Eiskruste von Europa. Das Ziel ist ein Mond des Jupiter, dessen vermuteter Ozean die Forschungsreise begründet. Ein privates Unternehmen entsendet dafür eine internationale Besatzung. Die örtlichen Bedingungen machen wissenschaftliche Proben interessant und setzen die Menschen zugleich erheblichen Gefahren aus.",
+      "anchor": "Europas Ozean ist das Ziel einer Suche nach Leben.",
+      "interest": "Der Forschungsauftrag erklärt, weshalb die Crew trotz großer Gefahren weitere Beobachtungen gewinnen will.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie vermittelt @ einen großen Teil der Ereignisse an Bord?",
+      "answers": [
+        "Durch fest installierte Kameras und Helmkameras.",
+        "Durch die Erinnerung eines heimgekehrten Erzählers im Gerichtssaal.",
+        "Durch spätere Interviews ohne Bilder aus dem Raumschiff.",
+        "Durch die ununterbrochene Außenaufnahme einer Begleitsonde."
+      ],
+      "feedback": [
+        "Bord- und Helmkameras liefern die rekonstruierten Aufnahmen.",
+        "Kein heimgekehrter Astronaut berichtet im Gerichtssaal.",
+        "Die Interviews ergänzen die Erzählung; die Ereignisse an Bord werden vor allem durch Missionskameras sichtbar.",
+        "Die Zuschauer sehen überwiegend Kamerabilder aus der Mission, keine durchgehende Außenansicht."
+      ],
+      "short": "Bord- und Helmkameras liefern die rekonstruierten Aufnahmen.",
+      "context": "Fest installierte Kameras zeigen Arbeitsplätze, Helmkameras begleiten Außeneinsätze. Die Aufnahmen erscheinen als Material einer späteren Rekonstruktion. Dadurch muss das Publikum mit eingeschränkten Blickwinkeln arbeiten. Ereignisse außerhalb des jeweiligen Bildausschnitts bleiben zunächst unbekannt, während die aufgezeichneten Bilder für die Erde schließlich selbst zum Ergebnis der Mission werden.",
+      "anchor": "Bordkameras machen begrenzte Bilder zu den späteren Beweisen der Expedition.",
+      "interest": "Die Form erklärt sowohl Spannung als auch den Wert der Aufzeichnungen.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum kann James Corrigan (Sharlto Copley) in @ nicht in die Schleuse zurück?",
+      "answers": [
+        "Sein Anzug ist mit giftigem Hydrazin verunreinigt.",
+        "Die beschädigte Schleusentür lässt sich nicht mehr schließen.",
+        "Seine Sauerstoffleitung bleibt am Antennenmast hängen.",
+        "Der Anzug verliert beim Druckausgleich seine Dichtigkeit."
+      ],
+      "feedback": [
+        "Das Hydrazin würde den Innenraum verunreinigen.",
+        "Sein Ausschluss beruht auf der giftigen Verunreinigung des Anzugs, nicht auf einer defekten Tür.",
+        "Corrigan muss draußen bleiben, weil das Hydrazin die anderen gefährden würde.",
+        "Die entscheidende Gefahr ist das Hydrazin am Anzug und nicht ein Leck."
+      ],
+      "short": "Das Hydrazin würde den Innenraum verunreinigen.",
+      "context": "Bei einem Reparatureinsatz gerät Corrigans Anzug in Kontakt mit Hydrazin. Eine Rückkehr würde die anderen im Innenraum gefährden. Sharlto Copley spielt einen Ingenieur, dessen Rettung deshalb nicht bloß von der Entfernung zur Schleuse abhängt. Er hilft dem verletzten Andrei Blok (Michael Nyqvist) zurück und verliert dabei seine eigene letzte Verbindung zum Schiff.",
+      "anchor": "Die Rettung eines Menschen könnte den sicheren Innenraum für alle vergiften.",
+      "interest": "Die konkrete Substanz erklärt den tragischen Konflikt der Rettung.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Wie untersucht die Besatzung in @ das Meer unter dem Eis zunächst?",
+      "answers": [
+        "Sie bohrt ein Loch und lässt eine Sonde hinab.",
+        "Sie führt direkt einen bemannten Tauchgang durch.",
+        "Sie verdampft großflächig die Eisschicht mit dem Haupttriebwerk.",
+        "Sie fängt ausschließlich Eisstaub aus dem Orbit auf."
+      ],
+      "feedback": [
+        "Eine abgesenkte Sonde erkundet den Ozean.",
+        "Ein bemannter Tauchgang ist nicht der erste Versuch.",
+        "Das Haupttriebwerk wird nicht zum großflächigen Freilegen benutzt.",
+        "Die Untersuchung erfolgt nach der Landung durch das Eis."
+      ],
+      "short": "Eine abgesenkte Sonde erkundet den Ozean.",
+      "context": "Eine Bohrung erlaubt, die Sonde in den darunterliegenden Ozean zu bringen. Als ein leuchtendes Objekt sie trifft, bricht der Kontakt ab. Die Menschen verfügen damit über einen Hinweis, aber über keine vollständige Beobachtung. Der Verlust des Instruments verschärft die Frage, welche Risiken sie für weitere Proben persönlich übernehmen sollen.",
+      "anchor": "Die Sonde liefert einen Hinweis und verschwindet zugleich als sicherer Beobachter.",
+      "interest": "Der Versuch erklärt den Übergang von Fernmessung zu gefährlicher direkter Untersuchung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welchen Tausch nimmt Andrei Blok (Michael Nyqvist) zuletzt in @ vor?",
+      "answers": [
+        "Er opfert Lebenserhaltung, um die Kommunikation zu reparieren.",
+        "Er löscht alle Aufzeichnungen, um die Heizung weiterzubetreiben.",
+        "Er trennt die Pilotin ab, um das Haupttriebwerk neu zu starten.",
+        "Er zerstört die Antenne, um die Schleuse abdichten zu können."
+      ],
+      "feedback": [
+        "Blok stellt die Datenverbindung auf Kosten der Lebenserhaltung her.",
+        "Die Aufzeichnungen sollen gerade erhalten und übermittelt werden.",
+        "Eine Abtrennung der Pilotin startet kein Triebwerk.",
+        "Die Antenne wird für die Kommunikation gebraucht."
+      ],
+      "short": "Blok stellt die Datenverbindung auf Kosten der Lebenserhaltung her.",
+      "context": "Blok erkennt, dass sich der sinkende Lander nicht rechtzeitig retten lässt. Seine Reparatur richtet sich deshalb auf die Verbindung zum Mutterschiff. Dafür verzichtet er auf Lebenserhaltung. Die Entscheidung verschiebt das Ziel vom eigenen Überleben zur Übermittlung: Forschung bleibt nur dann ein Ergebnis für andere, wenn die gesammelten Daten die Mission überstehen.",
+      "anchor": "Blok priorisiert die Datenverbindung, als die Rettung des Landers aussichtslos wird.",
+      "interest": "Die Entscheidung erklärt den hohen persönlichen Preis eines übermittelbaren Ergebnisses.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum öffnet Rosa Dasque (Anamaria Marinca) am Ende von @ die Luftschleuse?",
+      "answers": [
+        "Sie will die leuchtende Lebensform für die Kamera sichtbar machen.",
+        "Sie erwartet dort ein Rettungsboot von der Erde.",
+        "Sie will das Wasser als Treibstoff in einen Tank leiten.",
+        "Sie hofft, durch Druckausgleich wieder abheben zu können."
+      ],
+      "feedback": [
+        "Das eindringende Wasser ermöglicht das letzte Bild des Wesens.",
+        "Ein Rettungsboot ist nicht in Reichweite.",
+        "Die Schleuse dient nicht der Gewinnung von Treibstoff.",
+        "Der verlorene Lander wird dadurch nicht startfähig."
+      ],
+      "short": "Das eindringende Wasser ermöglicht das letzte Bild des Wesens.",
+      "context": "Die letzten Daten sind zur Erde übertragen, doch die Quelle des Lichts ist noch nicht klar sichtbar. Dasque öffnet die Schleuse im sinkenden Schiff. Anamaria Marinca spielt damit eine Pilotin, die ihren letzten Blick zugleich zur Aufnahme macht. Die Kamera zeigt ein biolumineszentes Wesen und erfüllt den Forschungsauftrag, während die Besatzung verloren geht.",
+      "anchor": "Das letzte Öffnen der Schleuse verwandelt die Begegnung in einen sichtbaren Beleg.",
+      "interest": "Das Ende verbindet das Kameramotiv mit dem endgültigen Forschungsergebnis.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2013",
+        "2010",
+        "2007",
+        "2015"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2013.",
+        "2010 liegt drei Jahre vor der ersten Veröffentlichung von 2013.",
+        "2007 liegt sechs Jahre vor der ersten Veröffentlichung von 2013.",
+        "2015 ist ein späteres Jahr als das belegte erste Filmjahr 2013."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2013.",
+      "context": "Europa Report erschien 2013 und schickt eine fiktive Besatzung zu Europas vermutetem Ozean. Elf Jahre später, 2024, startete die reale NASA-Sonde Europa Clipper. Sie untersucht Bedingungen für Bewohnbarkeit; sie bringt keine Menschen zum Mond. Der Vergleich zeigt, wie ein vorhandenes wissenschaftliches Interesse die Filmidee und später eine tatsächliche Erkundungsmission verbindet.",
+      "anchor": "Europa Report 2013 → Europa Clipper 2024: elf Jahre zwischen Film und realem Sondenstart.",
+      "interest": "Die Verbindung unterscheidet bemannte Fiktion und wissenschaftliche Erkundung desselben Mondes.",
+      "sources": [
+        "wiki",
+        "studio",
+        "premiere",
+        "nasa"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Sebastián Cordero",
+        "Duncan Jones",
+        "Alfonso Cuarón",
+        "Gareth Edwards"
+      ],
+      "feedback": [
+        "Sebastián Cordero führte bei diesem Film Regie.",
+        "Duncan Jones hat diesen Film nicht inszeniert; der Regiecredit lautet Sebastián Cordero.",
+        "Alfonso Cuarón hat diesen Film nicht inszeniert; der Regiecredit lautet Sebastián Cordero.",
+        "Gareth Edwards hat diesen Film nicht inszeniert; der Regiecredit lautet Sebastián Cordero."
+      ],
+      "short": "Sebastián Cordero führte bei diesem Film Regie.",
+      "context": "Sebastián Cordero inszenierte den Film nach Philip Gelatts Drehbuch. Eugenio Caballero gestaltete die Räume der Mission, Enrique Chediak führte die Kamera. Der Verleiher nennt diese Aufgaben getrennt. Die Regie organisiert die fragmentierten Bordaufnahmen zu einer Rekonstruktion, in der Zuschauer den wissenschaftlichen Fortschritt erst mit den Kosten der Expedition zusammensetzen.",
+      "anchor": "Corderos Regie ordnet Gelatts Expedition als Rekonstruktion aus Bordaufnahmen.",
+      "interest": "Die getrennten Credits erklären das Zusammenspiel von Erzählform und Gestaltung.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

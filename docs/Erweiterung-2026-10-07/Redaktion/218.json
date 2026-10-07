@@ -1,0 +1,226 @@
+{
+  "rank": 218,
+  "titleDe": "Aniara",
+  "originalTitle": "Aniara",
+  "year": 2018,
+  "genre": "Science-Fiction",
+  "familiarity": 4,
+  "familiarity_reason": "Eine verlorene Raumschiffgesellschaft eröffnet Fragen zu Zeit, Erinnerung und institutionellen Reaktionen.",
+  "directors": [
+    "Pella Kågerman",
+    "Hugo Lilja"
+  ],
+  "production_countries": [
+    "Schweden",
+    "Dänemark"
+  ],
+  "release_note": "Weltpremiere beim Toronto International Film Festival im September 2018; der schwedische Kinostart 2019 ist später.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Aniara_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "studio": {
+      "url": "https://www.magpictures.com/profile.aspx?id=e63dbde6-a193-4308-aedb-9a9d4fcf055c",
+      "supports": "Beide Regisseure und Autoren, Flucht zum Mars sowie der Erinnerungsraum Mima."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wohin soll die reguläre Passagierreise in @ führen?",
+      "answers": [
+        "Von der verwüsteten Erde zum Mars.",
+        "Vom Mars zurück in eine wiederaufgebaute Erde.",
+        "Vom Mond zu einer besiedelten Venus.",
+        "Von Jupiter in eine neue Station bei Saturn."
+      ],
+      "feedback": [
+        "Mars ist das versprochene neue Lebensziel.",
+        "Die Passagiere fliehen von der Erde.",
+        "Mond und Venus bilden nicht die Route.",
+        "Eine Saturnstation ist nicht ihr Ziel."
+      ],
+      "short": "Mars ist das versprochene neue Lebensziel.",
+      "context": "Die Passagiere verlassen eine weitgehend unbewohnbare Erde und erwarten eine kurze Reise zum Mars. Das Schiff bietet dafür die Annehmlichkeiten eines geordneten Übergangs. Nach der Abweichung bleibt jedoch die Zwischenwelt als dauerhafter Aufenthaltsort. Eine Umgebung, die für Reisende eingerichtet ist, muss nun das gesamte weitere Leben tragen.",
+      "anchor": "Die kurze Flucht zum Mars wird zu einem Leben im verlorenen Transportmittel.",
+      "interest": "Die Route erklärt den Unterschied zwischen geplantem Übergang und bleibender Lage.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was erleben Passagiere im Raum Mima von @?",
+      "answers": [
+        "Erinnerungsbilder einer lebendigen, grünen Erde.",
+        "Eine reale Landung auf dem längst verlassenen Heimatplaneten.",
+        "Den sicheren Empfang persönlicher Antworten von Marsbewohnern.",
+        "Eine verbindliche Vorschau ihrer eigenen späteren Lebensjahre."
+      ],
+      "feedback": [
+        "Mima erschließt eine immersive Erinnerung an die Erde.",
+        "Der Raum ersetzt keine wirkliche Rückreise.",
+        "Er stellt keinen sicheren Marsfunk her.",
+        "Er sagt die Zukunft der Menschen nicht voraus."
+      ],
+      "short": "Mima erschließt eine immersive Erinnerung an die Erde.",
+      "context": "Mima verarbeitet Erinnerungen und Gefühle der Besucher zu Erfahrungen einer verlorenen Erde. Der Raum bietet Nähe zu etwas, das außerhalb des Schiffes nicht mehr erreichbar ist. Die Mimarobe (Emelie Garbers) betreut diese Möglichkeit. Die Rückwendung erhält mit der aussichtslosen Reise eine immer größere Bedeutung für den Alltag an Bord.",
+      "anchor": "Mima macht die verlorene Erde als gemeinsame Erfahrung wieder zugänglich.",
+      "interest": "Die Funktion erklärt den wachsenden Stellenwert des Erinnerungsraums.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum kann die Aniara in @ nach der Kollision nicht zum geplanten Kurs zurück?",
+      "answers": [
+        "Der beschädigte Reaktor erzwingt den Ausstoß des Treibstoffs.",
+        "Die Passagiere entscheiden einstimmig für ein anderes Reiseziel.",
+        "Der Kapitän verkauft den gesamten Treibstoff unterwegs.",
+        "Eine festgesetzte Maut sperrt die Marsroute."
+      ],
+      "feedback": [
+        "Ohne Treibstoff fehlen Antrieb und kontrollierte Kursänderung.",
+        "Eine gemeinsame freie Entscheidung verursacht die Abweichung nicht.",
+        "Der Treibstoff wird wegen der Beschädigung ausgestoßen.",
+        "Eine Maut ist nicht das Hindernis."
+      ],
+      "short": "Ohne Treibstoff fehlen Antrieb und kontrollierte Kursänderung.",
+      "context": "Ein Ausweichmanöver verhindert die unmittelbare Kollision nicht vollständig. Trümmer beschädigen den Reaktor; die Mannschaft muss den Treibstoff abwerfen. Aus der gelungenen akuten Sicherung folgt die langfristige Unsteuerbarkeit. Die Passagiere überleben den Zwischenfall, verlieren dabei aber das Mittel, das ihre Reise wieder auf ein erreichbares Ziel ausrichten könnte.",
+      "anchor": "Der rettende Treibstoffausstoß verhindert zugleich jede kontrollierte Weiterreise.",
+      "interest": "Die Ursache erklärt die dauerhafte Lage aus einer akuten Notmaßnahme.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum bricht Mima in @ schließlich zusammen?",
+      "answers": [
+        "Die aufgenommenen Erinnerungen und Ängste überfordern die empfindende Instanz.",
+        "Der Kapitän ersetzt die Anlage planmäßig durch eine neue Ausgabe.",
+        "Die Passagiere vergessen sämtliche Erinnerungen gleichzeitig.",
+        "Ein Marsingenieur schaltet den Raum aus der Ferne ab."
+      ],
+      "feedback": [
+        "Mima kann die menschliche Belastung nicht weiter aufnehmen.",
+        "Eine planmäßige Modernisierung beendet sie nicht.",
+        "Es fehlen nicht plötzlich alle Erinnerungen.",
+        "Eine gesicherte Fernverbindung zum Mars existiert nicht."
+      ],
+      "short": "Mima kann die menschliche Belastung nicht weiter aufnehmen.",
+      "context": "Mima wird zum wichtigsten Rückzugsort. Die Besucher bringen jedoch nicht nur schöne Erinnerungen, sondern auch Angst und Bilder des Untergangs mit. Die empfindende Anlage kann diese Last nicht mehr tragen. Ihre Zerstörung zeigt deshalb die Grenze eines Trostes, der die Krise vieler Menschen immer wieder aufnehmen soll, ohne selbst Erholung zu erhalten.",
+      "anchor": "Die gemeinsame Zuflucht wird durch die Last ihrer Nutzer überfordert.",
+      "interest": "Der Zusammenbruch verbindet technische Hilfe mit der psychischen Belastung der Gesellschaft.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Woran scheitert die Hoffnung auf Rettung durch die eintreffende Sonde in @?",
+      "answers": [
+        "Die Besatzung kann Herkunft, Inhalt und mögliche Nutzbarkeit nicht erschließen.",
+        "Die Sonde enthält weniger Treibstoff als für den Rückflug benötigt.",
+        "Die Passagiere verbieten jede Untersuchung aus religiöser Überzeugung.",
+        "Die Sonde wird vor ihrer Ankunft von Mars gesprengt."
+      ],
+      "feedback": [
+        "Der vermeintliche Ausweg bleibt unverstanden und unbrauchbar.",
+        "Die Besatzung kann das Objekt nicht hinreichend verstehen und nutzen; ein berechneter Treibstoffmangel ist nicht die Auflösung.",
+        "Die Besatzung untersucht das Objekt tatsächlich.",
+        "Sie erreicht das Schiff und wird nicht vorher gesprengt."
+      ],
+      "short": "Der vermeintliche Ausweg bleibt unverstanden und unbrauchbar.",
+      "context": "Die große Sonde scheint Treibstoff und eine gezielte Rettung versprechen zu können. Ihre Ankunft verlängert zunächst die Erwartung eines Auswegs. Nach der Bergung bleibt jedoch unklar, woher sie stammt und wie sie zu nutzen wäre. Ein sichtbares Objekt ersetzt deshalb keine verständliche Hilfe; die erneute Enttäuschung vertieft die Krise an Bord.",
+      "anchor": "Die gefundene Sonde bleibt ohne erschließbare Funktion und löst die Lage nicht.",
+      "interest": "Der Verlauf trennt Hoffnung auf ein Objekt von seiner tatsächlichen Nutzbarkeit.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welcher Zustand kontrastiert im letzten Zeitsprung von @ mit dem erreichten grünen Planeten?",
+      "answers": [
+        "Das Schiff ist längst menschenleer und gefroren.",
+        "Alle Passagiere sind unverändert jung und bereit zur Landung.",
+        "Das Schiff hat bereits eine neue Stadt auf seiner Außenhülle gebaut.",
+        "Eine Ersatzbesatzung hat das Schiff übernommen."
+      ],
+      "feedback": [
+        "Die lebensfreundliche Welt erscheint erst nach dem Ende des menschlichen Lebens an Bord.",
+        "Der Zeitsprung lässt keine unveränderten Passagiere zurück.",
+        "Eine neue äußere Stadt wird nicht gezeigt.",
+        "Nach dem extrem langen Zeitraum ist das Schiff menschenleer und gefroren."
+      ],
+      "short": "Die lebensfreundliche Welt erscheint erst nach dem Ende des menschlichen Lebens an Bord.",
+      "context": "Nach einem Zeitsprung von Millionen Jahren nähert sich das verlassene Schiff einer grünen Welt. Niemand ist mehr an Bord, um das frühere Ziel eines neuen Lebens zu verwirklichen. Die zeitliche Dimension trennt daher mögliche Bewohnbarkeit von menschlicher Erreichbarkeit. Die Reise endet als kosmische Bewegung, lange nachdem die gesellschaftliche und private Geschichte verstummt ist.",
+      "anchor": "Ein lebensfreundlicher Planet kommt erst in Sicht, als keine Menschen mehr leben.",
+      "interest": "Der Schluss verbindet kosmische Dauer mit der Endlichkeit der verlorenen Reisenden.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2015",
+        "2012",
+        "2020"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2018.",
+        "2015 liegt drei Jahre vor der ersten Veröffentlichung von 2018.",
+        "2012 liegt sechs Jahre vor der ersten Veröffentlichung von 2018.",
+        "2020 ist ein späteres Jahr als das belegte erste Filmjahr 2018."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2018.",
+      "context": "Harry Martinsons episches Gedicht Aniara erschien 1956. Die Filmfassung folgte 2018, also 62 Jahre später. Die verlorene Reise dient beiden als Ausgangspunkt einer Betrachtung menschlicher Existenz. Der Kinostart in Schweden erfolgte erst 2019; die Festivalpremiere in Toronto von 2018 bestimmt aber das erste Veröffentlichungsjahr dieser Fassung.",
+      "anchor": "Martinsons Gedicht 1956 → Film 2018: 62 Jahre; Kino 2019 folgt der Festivalpremiere.",
+      "interest": "Die Verbindung erklärt Literaturvorlage und die Abweichung zwischen Festival- und Kinokalender.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Pella Kågerman und Hugo Lilja",
+        "Ivan Engler und Ralph Etter",
+        "Zeek Earl und Chris Caldwell",
+        "Jean-Pierre Jeunet und Marc Caro"
+      ],
+      "feedback": [
+        "Pella Kågerman und Hugo Lilja führten bei diesem Film Regie.",
+        "Ivan Engler und Ralph Etter haben diesen Film nicht inszeniert; der Regiecredit lautet Pella Kågerman und Hugo Lilja.",
+        "Zeek Earl und Chris Caldwell haben diesen Film nicht inszeniert; der Regiecredit lautet Pella Kågerman und Hugo Lilja.",
+        "Jean-Pierre Jeunet und Marc Caro haben diesen Film nicht inszeniert; der Regiecredit lautet Pella Kågerman und Hugo Lilja."
+      ],
+      "short": "Pella Kågerman und Hugo Lilja führten bei diesem Film Regie.",
+      "context": "Pella Kågerman und Hugo Lilja führten gemeinsam Regie und schrieben das Drehbuch. Die luxuriöse Reisewelt verwandelt sich schrittweise in eine dauerhafte Lebensumgebung ohne Ziel. Die Autoren müssen deshalb nicht nur eine einzelne Krise erzählen, sondern den Wandel von Gewohnheiten über Jahre. Das gemeinsame Regieteam verbindet private Beziehungen mit dem langsamen Zerfall einer ganzen Bordgesellschaft.",
+      "anchor": "Kågerman und Lilja erzählen gemeinsam den langfristigen Wandel einer Gesellschaft ohne Ziel.",
+      "interest": "Der Hintergrund erklärt den langen Zeitmaßstab der Inszenierung.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

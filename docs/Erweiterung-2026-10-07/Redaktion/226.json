@@ -1,0 +1,231 @@
+{
+  "rank": 226,
+  "titleDe": "Breakdown",
+  "originalTitle": "Breakdown",
+  "year": 1997,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Eine verschwundene Ehefrau und widersprüchliche Zeugenaussagen erzeugen einen zugänglichen Verfolgungsthriller.",
+  "directors": [
+    "Jonathan Mostow"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Kinostart 1997. Die Inhalte umgehen den abweichend geschnittenen letzten Moment der älteren deutschen Kinofassung.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Breakdown_(1997_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "interview": {
+      "url": "https://metrograph.com/breaking-down-breakdown-with-jonathan-mostow/",
+      "supports": "Gelesenes Interview mit Mostow: Entstehung aus einem verworfenen Trucks-Projekt, entfernte Vorgeschichte, Gestaltung, 1997 und spätere Regie U-571 2000."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Breakdown_(Film)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum steigt Amy Taylor (Kathleen Quinlan) in @ in einen fremden Lastwagen?",
+      "answers": [
+        "Sie will nach einer Panne Hilfe holen",
+        "Sie will ihren Mann endgültig verlassen",
+        "Sie verfolgt einen gestohlenen Koffer",
+        "Sie tritt eine neue Arbeit als Fahrerin an"
+      ],
+      "feedback": [
+        "Der Fahrer bietet ihr eine Fahrt zum nächsten Diner an, um Hilfe zu rufen.",
+        "Ihr Verschwinden ist eine Entführung, kein geplanter Beziehungsabbruch.",
+        "Ein gestohlener Koffer begründet die Mitfahrt nicht.",
+        "Sie reist mit ihrem Mann und beginnt dort keine neue Fahrertätigkeit."
+      ],
+      "short": "Der Fahrer bietet ihr eine Fahrt zum nächsten Diner an, um Hilfe zu rufen.",
+      "context": "Jeff Taylor (Kurt Russell) bleibt beim liegengebliebenen Wagen, während Amy (Kathleen Quinlan) das scheinbar hilfreiche Angebot annimmt. Als Jeff den Wagen selbst repariert und zum Diner fährt, ist sie verschwunden. Die räumliche Trennung des Paars macht aus einer normalen Panne eine Suche ohne verlässliche Zeugen.",
+      "anchor": "Die Hilfsfahrt nach der Panne wird zum Beginn der Entführung.",
+      "interest": "Die Ausgangssituation erklärt das plötzliche Verschwinden.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Wie reagiert der Lastwagenfahrer (J. T. Walsh), als Jeff ihn wiederfindet?",
+      "answers": [
+        "Er bestreitet, Jeff oder Amy jemals gesehen zu haben",
+        "Er nennt sofort den Aufenthaltsort Amys",
+        "Er behauptet, Amy sei freiwillig nach Hause gefahren",
+        "Er gesteht die Entführung vor dem Sheriff"
+      ],
+      "feedback": [
+        "Sein vollständiges Leugnen lässt Jeff zunächst ohne Beweis zurück.",
+        "Er liefert keinen hilfreichen Aufenthaltsort.",
+        "Er erklärt kein angebliches freiwilliges Heimfahren, sondern bestreitet den Kontakt.",
+        "Er gibt die Entführung bei der Polizeikontrolle nicht zu."
+      ],
+      "short": "Sein vollständiges Leugnen lässt Jeff zunächst ohne Beweis zurück.",
+      "context": "Jeff Taylor (Kurt Russell) erkennt den Lastwagen wieder, der Amy (Kathleen Quinlan) mitgenommen hat. Der Fahrer (J. T. Walsh) leugnet die Begegnung, und eine Kontrolle liefert zunächst keinen Fund. Die Suche wird dadurch zum Kampf gegen eine gezielt erzeugte Beweislosigkeit: Jeff weiß, was geschehen ist, kann es aber nicht vorzeigen.",
+      "anchor": "Der Fahrer leugnet selbst die ursprüngliche Begegnung.",
+      "interest": "Die Szene erklärt die Isolation des Suchenden.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was entdeckt Jeff (Kurt Russell) als Ursache der Autopanne?",
+      "answers": [
+        "Absichtlich gelöste Batteriekabel",
+        "Einen leeren Benzintank",
+        "Eine zerbrochene Antriebswelle",
+        "Einen vollständig überhitzten Motor"
+      ],
+      "feedback": [
+        "Die gelösten Kabel lassen sich wieder verbinden; die Panne war sabotiert.",
+        "Der Wagen bleibt nicht aus Benzinmangel stehen.",
+        "Eine gebrochene Welle wäre keine durch Wiederverbinden behobene Störung.",
+        "Die konkrete Störung betrifft die Batterieanschlüsse."
+      ],
+      "short": "Die gelösten Kabel lassen sich wieder verbinden; die Panne war sabotiert.",
+      "context": "Nachdem Amy (Kathleen Quinlan) weggefahren ist, untersucht Jeff Taylor (Kurt Russell) den Motor. Die manipulierten Anschlüsse erklären, weshalb der Wagen liegenblieb. Später bestätigt der Entführer die Sabotage. Damit gehören Panne, Hilfsangebot und Erpressung zu einem vorbereiteten Ablauf und nicht zu einer zufälligen Folge schlechter Erfahrungen.",
+      "anchor": "Die leicht behebbare Panne wurde absichtlich herbeigeführt.",
+      "interest": "Die technische Entdeckung zeigt den ersten Teil des Täterplans.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie täuscht Jeff (Kurt Russell) die geforderte hohe Bargeldsumme vor?",
+      "answers": [
+        "Er verbirgt Ein-Dollar-Scheine zwischen Hundert-Dollar-Scheinen",
+        "Er legt einen ungedeckten Scheck auf den Geldstapel",
+        "Er ersetzt sämtliche Scheine durch Bankformulare",
+        "Er übergibt nur die Quittung einer Überweisung"
+      ],
+      "feedback": [
+        "Die großen Scheine außen lassen den kleineren Betrag zunächst wertvoller wirken.",
+        "Er nutzt keinen Scheck als scheinbaren Bargeldersatz.",
+        "Die Täuschung verwendet echtes Geld unterschiedlicher Werte.",
+        "Die Entführer erhalten einen sichtbaren Stapel, keine bloße Überweisungsquittung."
+      ],
+      "short": "Die großen Scheine außen lassen den kleineren Betrag zunächst wertvoller wirken.",
+      "context": "Jeff Taylor (Kurt Russell) kann die geforderte Summe nicht abheben. Er gestaltet den kleineren Betrag so, dass dessen Außenseiten einen höheren Wert vortäuschen. Gleichzeitig nimmt er einen Brieföffner mit. Beide Improvisationen verschaffen Handlungsspielraum: Der Geldtrick verzögert die Entdeckung, das Werkzeug hilft ihm aus der Fesselung.",
+      "anchor": "Große Scheine außen verbergen einen viel kleineren Geldbetrag.",
+      "interest": "Der Bluff zeigt eine glaubhafte improvisierte Gegenwehr.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie findet Jeff (Kurt Russell) die abgelegene Farm der Entführer?",
+      "answers": [
+        "Er versteckt sich unter dem Lastwagen und fährt unbemerkt mit",
+        "Er folgt einem Ortungssignal aus Amys Telefon",
+        "Er erhält die Adresse von der Bankleitung",
+        "Er liest den Hofnamen auf einem Polizeiwagen"
+      ],
+      "feedback": [
+        "Das Versteck am Lastwagen bringt ihn zum geheimen Aufenthaltsort.",
+        "Ein Telefonsignal führt ihn nicht zur Farm.",
+        "Die Bank kennt das Versteck der Entführer nicht.",
+        "Ein Polizeiwagen liefert ihm keinen Hofnamen."
+      ],
+      "short": "Das Versteck am Lastwagen bringt ihn zum geheimen Aufenthaltsort.",
+      "context": "Nachdem Jeff Taylor (Kurt Russell) den nächsten Treffpunkt erfahren hat, versteckt er sich am Lastwagen. Der Fahrer (J. T. Walsh) bringt ihn dadurch selbst zur Farm. Dort sieht Jeff Gegenstände früherer Opfer und schließlich Amy (Kathleen Quinlan). Die riskante Mitfahrt verwandelt die Suche erstmals in einen unmittelbaren Zugang zum Täterversteck.",
+      "anchor": "Die unbemerkte Mitfahrt führt vom Treffpunkt zur Farm.",
+      "interest": "Die Frage verbindet eine riskante Entscheidung mit dem Ermittlungsdurchbruch.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum entfernte Mostow die zusätzlich gedrehte Anfangsgeschichte?",
+      "answers": [
+        "Die direkte Straßenfahrt erzählte die Ausgangslage klarer",
+        "Die Szene verriet bereits die Farmadresse",
+        "Die Hauptdarstellerin hatte darin eine andere Rolle",
+        "Die Szene zeigte versehentlich das fertige Lösegeld"
+      ],
+      "feedback": [
+        "Mostow überzeugte die Beteiligten mit einer Testvorführung ohne die lange Vorgeschichte.",
+        "Eine vorweggenommene Farmadresse war nicht der genannte Grund.",
+        "Eine Rollenverwechslung der Darstellerin erklärt die Kürzung nicht.",
+        "Ein versehentlich gezeigter Geldbetrag war nicht die Ursache."
+      ],
+      "short": "Mostow überzeugte die Beteiligten mit einer Testvorführung ohne die lange Vorgeschichte.",
+      "context": "Die zusätzliche Eröffnung zeigte Jeff Taylor (Kurt Russell) als traumatisierten Kameramann vor dem Umzug. Jonathan Mostow hielt diese Erklärung für unnötig. Bei einer zweiten Testvorführung ließ er sie weg, und die Beteiligten bevorzugten die direktere Fassung. Der fertige Film beginnt deshalb mit der Reise und vermittelt die Figur durch sichtbare Entscheidungen.",
+      "anchor": "Die entfernte Vorgeschichte macht den direkten Reisebeginn wirksamer.",
+      "interest": "Der Produktionsbefund zeigt, wie Kürzung die Perspektive des Thrillers schärft.",
+      "sources": [
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1997",
+        "1994",
+        "1991",
+        "1999"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1997.",
+        "1994 liegt drei Jahre vor der ersten Veröffentlichung von 1997.",
+        "1991 liegt sechs Jahre vor der ersten Veröffentlichung von 1997.",
+        "1999 ist ein späteres Jahr als das belegte erste Filmjahr 1997."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1997.",
+      "context": "Breakdown erschien 1997. Drei Jahre später führte Jonathan Mostow bei U-571 von 2000 Regie. Die Wüstenfahrt und der U-Boot-Film haben sehr unterschiedliche Schauplätze, doch Mostow beschreibt seine Filme als Reisen mit einer klaren Vorwärtsbewegung. Der Karrierevergleich verbindet das Erscheinungsjahr mit einer wiederkehrenden erzählerischen Vorliebe.",
+      "anchor": "Breakdown 1997 → Mostows U-571 2000: drei Jahre.",
+      "interest": "Die Verbindung verankert das Filmjahr durch eine spätere Arbeit desselben Regisseurs.",
+      "sources": [
+        "wiki",
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jonathan Mostow",
+        "John Dahl",
+        "Phillip Noyce",
+        "John Badham"
+      ],
+      "feedback": [
+        "Jonathan Mostow führte bei diesem Film Regie.",
+        "John Dahl hat diesen Film nicht inszeniert; der Regiecredit lautet Jonathan Mostow.",
+        "Phillip Noyce hat diesen Film nicht inszeniert; der Regiecredit lautet Jonathan Mostow.",
+        "John Badham hat diesen Film nicht inszeniert; der Regiecredit lautet Jonathan Mostow."
+      ],
+      "short": "Jonathan Mostow führte bei diesem Film Regie.",
+      "context": "Jonathan Mostow entwickelte Breakdown, nachdem eine geplante Verfilmung von Stephen Kings Trucks scheiterte. Die bereits gesuchten Wüstenorte und Lastwagen führten ihn zu einer neuen, eigenständigen Geschichte. Eine zusätzlich gedrehte Vorgeschichte des Helden wurde wieder entfernt. Der Film erklärt Jeff Taylor (Kurt Russell) deshalb vor allem durch sein Verhalten unter wachsendem Druck.",
+      "anchor": "Mostow entwickelte aus einem gescheiterten Trucks-Projekt eine eigenständige Entführungsgeschichte.",
+      "interest": "Die Entstehung erklärt die konzentrierte Erzählung über einen gewöhnlichen Reisenden.",
+      "sources": [
+        "wiki",
+        "interview"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

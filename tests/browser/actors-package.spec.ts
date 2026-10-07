@@ -42,7 +42,7 @@ async function writeState(page: Page, value: State) {
   );
 }
 
-test("Schauspieler öffnet 200 Personen und spielt Expertenfragen unabhängig von Filmgruppen mobil und offline", async ({
+test("Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig von Filmgruppen mobil und offline", async ({
   page,
   context,
   browserName,
@@ -56,7 +56,7 @@ test("Schauspieler öffnet 200 Personen und spielt Expertenfragen unabhängig vo
   await expect(page.getByRole("heading", { level: 1 })).toHaveText(
     "Schauspieler: Personen",
   );
-  await expect(page.locator(".topic-card")).toHaveCount(200);
+  await expect(page.locator(".topic-card")).toHaveCount(220);
   await expect(
     page.getByRole("heading", { name: "Tom Hanks", exact: true }),
   ).toBeVisible();

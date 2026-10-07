@@ -1,0 +1,219 @@
+{
+  "rank": 62,
+  "titleDe": "Brothers Grimm",
+  "originalTitle": "The Brothers Grimm",
+  "year": 2005,
+  "genre": "Fantasy",
+  "familiarity": 3,
+  "directors": [
+    "Terry Gilliam"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten",
+    "Vereinigtes Königreich",
+    "Tschechien"
+  ],
+  "release_note": "US-Kinostart am 26. August 2005; anschließend Festivalvorführung in Venedig.",
+  "familiarity_reason": "Matt Damon und Heath Ledger verleihen der Märchenfantasie Wiedererkennungswert; der einzelne Film ist weniger präsent als die Grimm-Stoffe selbst, Bekanntheit 3.",
+  "sources": {
+    "studio": "https://www.miramax.com/movie/the-brothers-grimm/",
+    "handlung": "https://en.wikipedia.org/wiki/The_Brothers_Grimm_(film)",
+    "grimmwelt": "https://www.grimmwelt.de/de/journal/die-kinder-und-hausmaerchen",
+    "kritik": "https://www.rogerebert.com/reviews/the-brothers-grimm-2005"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Womit verdienen die Brüder zu Beginn von @ ihr Geld?",
+      "answers": [
+        "Mit vorgetäuschten Geistervertreibungen",
+        "Mit dem Verkauf gedruckter Märchensammlungen",
+        "Mit bezahlten Übersetzungen französischer Bücher",
+        "Mit dem Unterricht an einer Dorfschule"
+      ],
+      "feedback": [
+        "Sie inszenieren übernatürliche Gefahren und lassen sich für deren Beseitigung bezahlen.",
+        "Die erfundene Filmhandlung beginnt nicht mit ihrem historischen Buchgeschäft.",
+        "Literarische Übersetzungen sind nicht ihre Einnahmequelle.",
+        "Eine Schule führen die Brüder nicht."
+      ],
+      "short": "Sie inszenieren übernatürliche Gefahren und lassen sich für deren Beseitigung bezahlen.",
+      "context": "Will (Matt Damon) und Jake Grimm (Heath Ledger) verkaufen ihren Kunden die Befreiung von selbst erzeugten Gefahren. Ihr Geschäftsmodell setzt voraus, dass andere an die Inszenierung glauben. Der Kontakt mit wirklicher Magie zerstört später genau die Sicherheit, auf der dieser Betrug beruht.",
+      "anchor": "Erst erfundene Geister, dann echte Magie.",
+      "interest": "Das anfängliche Geschäftsmodell bereitet den zentralen Rollenwechsel vor.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Problem sollen die Brüder in @ im Dorf Marbaden untersuchen?",
+      "answers": [
+        "Das Verschwinden von Mädchen",
+        "Den Diebstahl der Kirchenglocken",
+        "Eine Serie vergifteter Brunnen",
+        "Den Verlust der gesamten Ernte"
+      ],
+      "feedback": [
+        "Mädchen verschwinden in einem tatsächlich verzauberten Wald.",
+        "Kirchenglocken sind nicht der Anlass ihres Auftrags.",
+        "Eine Brunnenvergiftung erklärt die Vermissten nicht.",
+        "Der Auftrag gilt Kindern, nicht einer ausgefallenen Ernte."
+      ],
+      "short": "Mädchen verschwinden in einem tatsächlich verzauberten Wald.",
+      "context": "Die verschwundenen Mädchen führen Will (Matt Damon) und Jake (Heath Ledger) in den Wald bei Marbaden. Anders als bei ihren bisherigen Auftritten können sie die Geschehnisse nicht selbst steuern. Ihre Fähigkeit, Geschichten zu erfinden, muss nun einer wirklichen Bedrohung standhalten.",
+      "anchor": "Vermisste Mädchen führen in den echten Zauberwald.",
+      "interest": "Ein konkreter Auftrag verwandelt die Betrügergeschichte in eine Rettungsmission.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie unterscheiden sich Will und Jake in @ zunächst in ihrer Haltung zu übernatürlichen Geschichten?",
+      "answers": [
+        "Will hält sie für Täuschung, Jake einen wahren Kern für möglich.",
+        "Jake hält sie für Täuschung, Will einen wahren Kern für möglich.",
+        "Beide glauben vorbehaltlos an jede überlieferte Geschichte.",
+        "Beide halten ausnahmslos jede solche Geschichte für unmöglich."
+      ],
+      "feedback": [
+        "Will ist der Skeptiker, Jake bleibt empfänglicher für den Zauber der Geschichten.",
+        "Die unterschiedliche Haltung ist gerade umgekehrt verteilt.",
+        "Will begegnet den Geschichten deutlich skeptischer als Jake.",
+        "Jakes Offenheit unterscheidet ihn von Wills erklärter Skepsis."
+      ],
+      "short": "Will ist der Skeptiker, Jake bleibt empfänglicher für den Zauber der Geschichten.",
+      "context": "Will (Matt Damon) behandelt übernatürliche Geschichten als Material für Täuschungen. Jake (Heath Ledger) hält trotz ihres gemeinsamen Betrugs einen wirklichen Kern für möglich. Diese unterschiedliche Haltung gibt den Brüdern zwei Zugänge zur späteren Gefahr: Erfahrung mit Tricks hilft ihnen, ersetzt aber nicht die Bereitschaft, ein reales Wunder anzuerkennen.",
+      "anchor": "Will erklärt die Tricks; Jake lässt einen wahren Zauberkern zu.",
+      "interest": "Verbindet die Arbeit als Betrüger mit dem unterschiedlichen Blick der Brüder auf ihre neue Gefahr.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche familiäre Verbindung entdeckt Angelika zum verzauberten Jäger in @?",
+      "answers": [
+        "Er ist ihr Vater",
+        "Er ist ihr älterer Bruder",
+        "Er ist ihr verstorbener Ehemann",
+        "Er ist ihr Onkel"
+      ],
+      "feedback": [
+        "Der Jäger ist Angelikas unter dem Zauber stehender Vater.",
+        "Er gehört nicht derselben Geschwistergeneration an.",
+        "Die Verbindung ist nicht ehelich.",
+        "Ein Onkel wird nicht als der verzauberte Jäger enthüllt."
+      ],
+      "short": "Der Jäger ist Angelikas unter dem Zauber stehender Vater.",
+      "context": "Angelika (Lena Headey) erkennt im Jäger (Tomáš Hanák) ihren Vater. Dadurch gewinnt die Waldgefahr eine persönliche Dimension: Ein vertrauter Mensch dient der Königin. Seine Bindung an die Tochter eröffnet zugleich die Möglichkeit, den fremden Willen zu überwinden.",
+      "anchor": "Der gefährliche Jäger ist der verlorene Vater.",
+      "interest": "Eine Familienbeziehung verändert die Bedeutung einer bedrohlichen Figur.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Womit will die Spiegelkönigin in @ ihre Jugend endgültig zurückgewinnen?",
+      "answers": [
+        "Mit zwölf geopferten Mädchen während einer Mondfinsternis",
+        "Mit zwölf Spiegeln während eines Gewitters",
+        "Mit zwölf königlichen Siegeln während einer Sonnenwende",
+        "Mit zwölf Rosen während ihres Hochzeitstags"
+      ],
+      "feedback": [
+        "Die entführten Mädchen sollen beim festgelegten Himmelsereignis geopfert werden.",
+        "Die zwölf benötigten Opfer sind Menschen, keine zusätzlichen Spiegel.",
+        "Siegel und Sonnenwende gehören nicht zu ihrem Ritual.",
+        "Ein Rosenritual am Hochzeitstag ist nicht ihr Plan."
+      ],
+      "short": "Die entführten Mädchen sollen beim festgelegten Himmelsereignis geopfert werden.",
+      "context": "Die Spiegelkönigin (Monica Bellucci) benötigt zwölf Mädchen für ihr Verjüngungsritual. Die Mondfinsternis setzt eine Frist für die Rettung. Das Märchenmotiv ewiger Schönheit wird dadurch zu einem konkreten Ablauf: Die Brüder müssen den Zauber unterbrechen, bevor die Opferzahl vollständig ist.",
+      "anchor": "Zwölf Mädchen und eine Mondfinsternis vollenden das Ritual.",
+      "interest": "Opferzahl und Zeitfenster erklären die Dringlichkeit der Handlung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum überlebt Cavaldi in @ den Schuss des Generals?",
+      "answers": [
+        "Er trägt den Schutzpanzer aus dem Betrug der Brüder",
+        "Der General hat seine Pistole nur mit Pulver geladen",
+        "Die Spiegelkönigin macht ihn im letzten Moment unverwundbar",
+        "Angelika tauscht zuvor die Kugeln gegen Wachs aus"
+      ],
+      "feedback": [
+        "Die von den Brüdern verwendete Rüstung fängt den Schuss ab.",
+        "Der Schuss wird nicht als bloße Pulverladung erklärt.",
+        "Ein Rettungszauber der Königin bewahrt ihn nicht.",
+        "Angelika manipuliert die Munition nicht."
+      ],
+      "short": "Die von den Brüdern verwendete Rüstung fängt den Schuss ab.",
+      "context": "Cavaldi (Peter Stormare) profitiert ausgerechnet von einem Requisit der falschen Geistervertreibungen. Der Schutzpanzer hält die Kugel des Generals Delatombe (Jonathan Pryce) ab. Ein zuvor betrügerisch eingesetzter Gegenstand erhält damit einen tatsächlichen Nutzen und verbindet Anfang und Schluss der Geschichte.",
+      "anchor": "Das Betrugsrequisit wird zum wirklichen Lebensretter.",
+      "interest": "Ein frühes Detail bekommt später eine neue, handlungsentscheidende Funktion.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, 193 Jahre nach dem ersten Band der „Kinder- und Hausmärchen“ von 1812?",
+      "answers": [
+        "2005",
+        "1998",
+        "2001",
+        "2008"
+      ],
+      "feedback": [
+        "2005 liegt 193 Jahre nach dem ersten Band von 1812.",
+        "1998 wären erst 186 Jahre nach 1812.",
+        "2001 ergäbe einen Abstand von 189 Jahren.",
+        "2008 läge 196 Jahre nach dem ersten Band."
+      ],
+      "short": "2005 liegt 193 Jahre nach dem ersten Band von 1812.",
+      "context": "Der erste Band der „Kinder- und Hausmärchen“ erschien 1812. Der Film von 2005 folgte 193 Jahre später und erfand eine eigene Vorgeschichte mit den Brüdern als Betrügern. Der Abstand erinnert daran, dass ein bekannter literarischer Name hier zum Material einer neuen Fantasiehandlung wird.",
+      "anchor": "1812 Märchenband, 2005 Fantasiegeschichte: 193 Jahre Abstand.",
+      "interest": "Das Filmjahr wird mit der wirklichen Sammlungsgeschichte verbunden.",
+      "sources": [
+        "studio",
+        "grimmwelt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie und verband mehrere Märchenmotive zu einer erfundenen Brüdergeschichte?",
+      "answers": [
+        "Terry Gilliam",
+        "Tim Burton",
+        "Jean-Pierre Jeunet",
+        "Neil Jordan"
+      ],
+      "feedback": [
+        "Terry Gilliam inszenierte den Film nach Ehren Krugers Drehbuch.",
+        "Burton führte bei anderen Märchenadaptionen Regie, hier jedoch nicht.",
+        "Jeunet verantwortete diese Produktion nicht.",
+        "Jordan ist nicht der Regisseur dieser Brüdergeschichte."
+      ],
+      "short": "Terry Gilliam inszenierte den Film nach Ehren Krugers Drehbuch.",
+      "context": "Terry Gilliam führte Regie, Ehren Kruger schrieb das Drehbuch. Die Handlung kombiniert Märchenbilder mit frei erfundenen Abenteuern der Brüder. So entsteht keine biografische Rekonstruktion ihrer Sammelarbeit, sondern eine Geschichte darüber, wie professionelle Täuschung auf eine unkontrollierbare fantastische Wirklichkeit trifft.",
+      "anchor": "Krugers erfundene Grimm-Abenteuer in Gilliams Regie.",
+      "interest": "Der Regiehintergrund hilft, den Film als eigenständige Fantasie zu verstehen.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

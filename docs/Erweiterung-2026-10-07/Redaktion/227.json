@@ -1,0 +1,239 @@
+{
+  "rank": 227,
+  "titleDe": "Der einzige Zeuge",
+  "originalTitle": "Witness",
+  "year": 1985,
+  "genre": "Thriller",
+  "familiarity": 2,
+  "familiarity_reason": "Ein beobachteter Mord bringt einen Polizisten in eine andere Gemeinschaft mit eigenen Gewaltregeln.",
+  "directors": [
+    "Peter Weir"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Premiere in Lancaster und US-Kinostart 1985; Filmjahr vom Oscar-Verleihungsjahr 1986 getrennt.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Witness_(1985_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "studio": {
+      "url": "https://www.paramountpictures.com/movies/witness",
+      "supports": "Jahr 1985, Regie Peter Weir, Originalbesetzung, Amisch-Gemeinde und Ausgangslage."
+    },
+    "academy": {
+      "url": "https://www.oscars.org/oscars/ceremonies/1986",
+      "supports": "Oscars 1986 für Originaldrehbuch und Schnitt, Harrison Fords Hauptdarstellernominierung."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Der_einzige_Zeuge",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo beobachtet Samuel (Lukas Haas) den Mord in @?",
+      "answers": [
+        "Auf einer Bahnhofstoilette in Philadelphia",
+        "In einer Kirche bei Lancaster",
+        "In einem Hotelzimmer in Baltimore",
+        "In einem Autohaus in Pittsburgh"
+      ],
+      "feedback": [
+        "Samuel sieht den Mord auf der Toilette des Bahnhofs in Philadelphia.",
+        "Die Reise beginnt nach einem Begräbnis, der Mord geschieht aber im Bahnhof.",
+        "Das Warten auf einen Anschlusszug führt nicht in ein Hotelzimmer.",
+        "Ein Autohaus gehört nicht zu diesem beobachteten Verbrechen."
+      ],
+      "short": "Samuel sieht den Mord auf der Toilette des Bahnhofs in Philadelphia.",
+      "context": "Samuel (Lukas Haas) reist mit seiner verwitweten Mutter Rachel (Kelly McGillis) aus der amischen Gemeinde. Beim Warten auf den Anschlusszug sieht er zufällig einen Mord. Der Kontakt mit der städtischen Außenwelt wird so unmittelbar gefährlich, weil sein Wissen ihn zum Zeugen gegen einen bewaffneten Täter macht.",
+      "anchor": "Der Bahnhofsmord macht den reisenden Jungen zum bedrohten Zeugen.",
+      "interest": "Die Frage erklärt die Ausgangssituation des Schutzfalls.",
+      "sources": [
+        "wiki",
+        "de",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "In welcher Gemeinschaft verstecken sich John Book (Harrison Ford) und die Zeugen?",
+      "answers": [
+        "Bei den Amischen in Pennsylvania",
+        "Bei den Quäkern in New Jersey",
+        "Bei den Mennoniten in Ohio",
+        "Bei den Shakern in Maine"
+      ],
+      "feedback": [
+        "Die Lapps gehören zu einer amischen Gemeinde in Pennsylvania.",
+        "Die konkret dargestellte Gemeinde ist nicht quäkerisch.",
+        "Mennoniten sind ebenfalls eine Täufertradition, aber hier werden die Amischen gezeigt.",
+        "Die Lapps werden nicht als Shaker in Maine dargestellt."
+      ],
+      "short": "Die Lapps gehören zu einer amischen Gemeinde in Pennsylvania.",
+      "context": "John Book (Harrison Ford) bringt Rachel (Kelly McGillis) und Samuel (Lukas Haas) nach Hause. Nach seiner Verletzung muss er dort ebenfalls bleiben. Die Gemeinde bietet Abstand von der korrumpierten Polizei, doch ihre Gewaltlosigkeit und Lebensregeln widersprechen seiner bisherigen Arbeitsweise. Das Versteck wird deshalb zugleich zu einer kulturellen Begegnung.",
+      "anchor": "Die amische Gemeinde schützt die Zeugen und fordert Books Gewohnheiten heraus.",
+      "interest": "Der Schauplatz erklärt den Gegensatz zwischen Schutz und Gewalt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Woran erkennt Samuel (Lukas Haas) den Mörder wieder?",
+      "answers": [
+        "An einem Polizeifoto in einer Auszeichnungsvitrine",
+        "An seiner Stimme während eines Telefonats",
+        "An einem Fingerabdruck auf einer Akte",
+        "An einem Namen im Zugfahrplan"
+      ],
+      "feedback": [
+        "Das Foto des ausgezeichneten Polizisten McFee liefert die Wiedererkennung.",
+        "Die entscheidende Identifikation ist visuell, kein Telefongespräch.",
+        "Samuel hat keine Fingerabdrücke ausgewertet.",
+        "Ein Fahrplan enthält keinen identifizierenden Täternachweis."
+      ],
+      "short": "Das Foto des ausgezeichneten Polizisten McFee liefert die Wiedererkennung.",
+      "context": "Die üblichen Verdächtigenfotos helfen Samuel (Lukas Haas) nicht. Erst das öffentlich ausgestellte Bild des Polizisten McFee (Danny Glover) ermöglicht die Identifikation. John Book (Harrison Ford) muss damit den Fall gegen die eigene Institution wenden: Das Zeichen beruflicher Anerkennung weist ausgerechnet auf einen Mörder in ihren Reihen.",
+      "anchor": "Ein Bild eines ausgezeichneten Polizisten führt zum Täter.",
+      "interest": "Die Szene kehrt die erwartete Bedeutung einer polizeilichen Ehrung um.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Arbeit lässt Book (Harrison Ford) in der Gemeinde Anerkennung gewinnen?",
+      "answers": [
+        "Seine Mithilfe als geschickter Zimmermann beim Scheunenbau",
+        "Seine Einführung bewaffneter Nachtwachen",
+        "Sein Umbau der Kutschen zu Motorfahrzeugen",
+        "Seine Übernahme der sonntäglichen Predigt"
+      ],
+      "feedback": [
+        "Book zeigt praktische Fähigkeiten beim gemeinschaftlichen Scheunenbau.",
+        "Bewaffnete Wachen widersprechen der dargestellten Gewaltlosigkeit.",
+        "Er modernisiert die Kutschen nicht durch Motoren.",
+        "Er erhält Anerkennung durch Arbeit, nicht als neuer Prediger."
+      ],
+      "short": "Book zeigt praktische Fähigkeiten beim gemeinschaftlichen Scheunenbau.",
+      "context": "John Book (Harrison Ford) ist als bewaffneter Stadtpolizist zunächst ein Fremder. Seine handwerklichen Fähigkeiten schaffen jedoch einen Zugang, der nicht über die Polizei führt. Beim Scheunenbau arbeitet er mit den anderen zusammen. Diese sichtbare Leistung vertieft auch den Gegensatz zur gefährlichen Macht seiner korrupten Kollegen.",
+      "anchor": "Books Handwerk macht ihn im gemeinschaftlichen Scheunenbau brauchbar.",
+      "interest": "Die Szene zeigt Zugehörigkeit durch gemeinsame Arbeit.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Handlung verrät Books (Harrison Ford) Versteck schließlich an die korrupte Polizei?",
+      "answers": [
+        "Er schlägt einen Mann, der die Amischen provoziert",
+        "Er beantragt selbst eine Verlängerung seines Urlaubs",
+        "Er bestellt Ersatzteile auf seinen Dienstausweis",
+        "Er meldet Rachel als vermisste Zeugin"
+      ],
+      "feedback": [
+        "Die gemeldete Schlägerei setzt die Suche auf die richtige Spur.",
+        "Ein Urlaubsantrag liefert den Kollegen keinen Aufenthaltsort.",
+        "Eine Ersatzteilbestellung ist nicht die verräterische Handlung.",
+        "Book schützt Rachel; er gibt keine Vermisstenmeldung mit ihrer Spur auf."
+      ],
+      "short": "Die gemeldete Schlägerei setzt die Suche auf die richtige Spur.",
+      "context": "John Book (Harrison Ford) erfährt vom Tod seines Kollegen Carter (Brent Jennings). Kurz darauf lässt er sich bei einer Provokation zu Gewalt hinreißen. Der Vorfall widerspricht den Regeln der Amischen und wird der örtlichen Polizei gemeldet. So öffnet ausgerechnet seine gewohnte Art der Gegenwehr den Verfolgern den Weg zur Gemeinde.",
+      "anchor": "Die öffentliche Schlägerei legt Books Versteck offen.",
+      "interest": "Die Ursache verbindet seinen kulturellen Konflikt mit der erneuten Gefahr.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum gibt Schaeffer (Josef Sommer) am Ende auf?",
+      "answers": [
+        "Die Hofglocke ruft zahlreiche Zeugen herbei",
+        "Ein Hubschrauber blockiert seinen Fluchtweg",
+        "Ein Polizeikollege verspricht ihm telefonisch freies Geleit.",
+        "Rachel entlädt unbemerkt seine Waffe"
+      ],
+      "feedback": [
+        "Die versammelte Gemeinde macht eine weitere verdeckte Tötung unmöglich.",
+        "Kein Hubschrauber entscheidet den letzten Konflikt.",
+        "Die durch die Hofglocke versammelten Menschen verhindern einen unbeobachteten Mord.",
+        "Schaeffer wird durch die Zeugenmenge gestoppt, nicht durch heimlich entfernte Munition."
+      ],
+      "short": "Die versammelte Gemeinde macht eine weitere verdeckte Tötung unmöglich.",
+      "context": "Samuel (Lukas Haas) läutet die Hofglocke, sodass die Nachbarn zusammenkommen. Paul Schaeffer (Josef Sommer) kann die Geiselsituation nun nicht mehr ohne zahlreiche Beobachter lösen. Die Gemeinde ist nicht bewaffnet; ihre Anwesenheit verändert dennoch das Kräfteverhältnis. Der bedrohte einzelne Zeuge wird durch eine öffentlich sichtbare Gemeinschaft ergänzt.",
+      "anchor": "Viele Zeugen beenden den Versuch einer verdeckten Tat.",
+      "interest": "Der Schluss verbindet den Filmtitel mit einer gemeinschaftlichen Form der Gegenwehr.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1985",
+        "1982",
+        "1979",
+        "1987"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1985.",
+        "1982 liegt drei Jahre vor der ersten Veröffentlichung von 1985.",
+        "1979 liegt sechs Jahre vor der ersten Veröffentlichung von 1985.",
+        "1987 ist ein späteres Jahr als das belegte erste Filmjahr 1985."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1985.",
+      "context": "Der Film erschien 1985 und wurde bei den Oscars 1986 ausgezeichnet. Den Schnittpreis erhielt Thom Noble; der Drehbuchpreis ging an Earl W. Wallace, William Kelley und Pamela Wallace für ihre jeweiligen Drehbuch- und Storycredits. Die einjährige Verschiebung ist ein nützlicher Anker: Das Jahr einer Preisverleihung ersetzt nicht das ursprüngliche Veröffentlichungsjahr.",
+      "anchor": "Filmveröffentlichung 1985 → Oscars für Drehbuch und Schnitt 1986: ein Jahr.",
+      "interest": "Der Zusammenhang unterscheidet Filmjahr und Auszeichnungsjahr an einem konkreten Beispiel.",
+      "sources": [
+        "wiki",
+        "studio",
+        "academy"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Peter Weir",
+        "Alan J. Pakula",
+        "Sydney Pollack",
+        "Sidney Lumet"
+      ],
+      "feedback": [
+        "Peter Weir führte bei diesem Film Regie.",
+        "Alan J. Pakula hat diesen Film nicht inszeniert; der Regiecredit lautet Peter Weir.",
+        "Sydney Pollack hat diesen Film nicht inszeniert; der Regiecredit lautet Peter Weir.",
+        "Sidney Lumet hat diesen Film nicht inszeniert; der Regiecredit lautet Peter Weir."
+      ],
+      "short": "Peter Weir führte bei diesem Film Regie.",
+      "context": "Peter Weir inszeniert die Begegnung eines städtischen Polizisten mit der amischen Lebenswelt. John Book (Harrison Ford) wird nicht nur versteckt, sondern muss sich in Arbeitsabläufe und Regeln der Gemeinde einfügen. Die gemeinsame Scheunenerrichtung zeigt diese Annäherung sichtbar, während die bedrohte Gemeinschaft dem kriminalistischen Konflikt eine andere Form von Gegenwehr entgegensetzt.",
+      "anchor": "Weir verbindet Kriminalhandlung und Begegnung mit amischer Gemeinschaft.",
+      "interest": "Die Regiefrage führt zur Bedeutung der ruhigen Gemeinschaftsszenen.",
+      "sources": [
+        "wiki",
+        "studio",
+        "academy"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

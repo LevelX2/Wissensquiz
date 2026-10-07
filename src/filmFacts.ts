@@ -8,6 +8,8 @@ import allGenres from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Fi
 import allGenresDirectorContexts from "./allGenresDirectorContexts.json" with { type: "json" };
 import allGenresCountryNotes from "./allGenresCountryNotes.json" with { type: "json" };
 import film240 from "./film240Metadata.json" with { type: "json" };
+import expansion from "../docs/Erweiterung-2026-10-07/Filmdaten.json" with { type: "json" };
+import expansionReferences from "../docs/Erweiterung-2026-10-07/Filmdaten-Referenzen.json" with { type: "json" };
 import type { Difficulty, Question } from "./model";
 import { fingerprint } from "./importer";
 import { categories, isCategory, withCategoryTags } from "./categories";
@@ -36,15 +38,45 @@ const allGenresByFilm = new Map(
 const film240ByFilm = new Map(
   film240.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
 );
+const expansionByFilm = new Map(
+  expansion.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
+);
+const expansionReferenceByFilm = new Map(
+  expansionReferences.films.map((f) => [f.film_id, f]),
+);
 
 // Read-only enrichment: also works for historical snapshots without modifying them.
 export function filmData(q: Question, reference?: string) {
   if (q.metadata.person_id && !reference) return undefined;
   const key = reference ?? filmKey(q);
+  const reviewedReference =
+    q.id.startsWith("E20261007-P-") || q.id.startsWith("E20261007-A-")
+      ? expansionReferenceByFilm.get(key)
+      : undefined;
+  if (reviewedReference) {
+    return {
+      originalTitle: reviewedReference.original_title,
+      year: reviewedReference.first_release_year,
+      directors: names(reviewedReference.directors),
+      countries: reviewedReference.production_countries,
+      countryNote:
+        "country_note" in reviewedReference
+          ? reviewedReference.country_note
+          : "",
+      series: "series" in reviewedReference ? reviewedReference.series : null,
+      releaseNote: reviewedReference.release_note,
+      directorNote: reviewedReference.director_note,
+      directorContext: "",
+      directorSources: [],
+      sources: reviewedReference.source_urls,
+    };
+  }
   // Keep established film metadata when award questions reuse the same film.
   const f =
     byFilm.get(key) ??
-    (allGenresByFilm.has(key) || film240ByFilm.has(key)
+    (allGenresByFilm.has(key) ||
+    film240ByFilm.has(key) ||
+    expansionByFilm.has(key)
       ? undefined
       : (awardData.get(key) ?? actorData.get(key)));
   if (f) {
@@ -66,8 +98,27 @@ export function filmData(q: Question, reference?: string) {
       sources: [...new Set([f.source, ...(f.additionalSources ?? [])])],
     };
   }
-  const newer = film240ByFilm.get(key) ?? allGenresByFilm.get(key);
-  if (!newer) return undefined;
+  const newer =
+    film240ByFilm.get(key) ??
+    allGenresByFilm.get(key) ??
+    expansionByFilm.get(key);
+  if (!newer) {
+    const reference = expansionReferenceByFilm.get(key);
+    if (!reference) return undefined;
+    return {
+      originalTitle: reference.original_title,
+      year: reference.first_release_year,
+      directors: names(reference.directors),
+      countries: reference.production_countries,
+      countryNote: "country_note" in reference ? reference.country_note : "",
+      series: "series" in reference ? reference.series : null,
+      releaseNote: reference.release_note,
+      directorNote: reference.director_note,
+      directorContext: "",
+      directorSources: [],
+      sources: reference.source_urls,
+    };
+  }
   const background = (
     allGenresDirectorContexts as Record<
       string,

@@ -18,7 +18,11 @@ const latest = packages.find(
 // Preserve this package's integration stage; the complete current catalog is
 // checked separately by the portrait-package and catalog tests.
 const contents = packages
-  .filter((p) => p.filename !== "Schauspieler_Bilderkennung_200_Fragen.csv")
+  .filter(
+    (p) =>
+      p.filename !== "Schauspieler_Bilderkennung_200_Fragen.csv" &&
+      !p.filename.endsWith("fragen_20261007.csv"),
+  )
   .map((p) => ({
     filename: p.filename,
     text: readFileSync(`public${p.path}`, "utf8"),

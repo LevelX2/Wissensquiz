@@ -1,0 +1,237 @@
+{
+  "rank": 208,
+  "titleDe": "Westworld",
+  "originalTitle": "Westworld",
+  "year": 1973,
+  "genre": "Science-Fiction",
+  "familiarity": 3,
+  "familiarity_reason": "Der frühere Film eröffnet Roboter-Freizeitpark, Vermarktung und Technikversagen als konkrete Wissensziele.",
+  "directors": [
+    "Michael Crichton"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Erste Veröffentlichung im August 1973; gemeint ist der Kinofilm und nicht die spätere HBO-Serie.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Westworld_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/54403-WESTWORLD",
+      "supports": "Regie- und Drehbuchcredit, erster Kinoregieauftrag, Parkkonzept und Veröffentlichungsjahr."
+    },
+    "sequel": {
+      "url": "https://catalog.afi.com/Film/55247-FUTUREWORLD",
+      "supports": "Fortsetzung Futureworld von 1976 und ihre Rückbindung an Delos."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Westworld_(Film)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was erwartet Besucher im Freizeitpark von @?",
+      "answers": [
+        "Historische Erlebniswelten mit menschenähnlichen Robotern.",
+        "Eine echte Expedition zu unbesiedelten Planeten.",
+        "Eine digitale Fernreise ohne körperlichen Aufenthalt.",
+        "Ein Militärtraining mit ausschließlich menschlichen Statisten."
+      ],
+      "feedback": [
+        "Delos bietet begehbare Themenwelten mit Androiden.",
+        "Die Gäste verlassen die Erde nicht.",
+        "Sie bewegen sich tatsächlich im Park.",
+        "Die Bewohner der Spielwelten sind größtenteils Roboter."
+      ],
+      "short": "Delos bietet begehbare Themenwelten mit Androiden.",
+      "context": "Delos erlaubt zahlenden Gästen, historische Abenteuer zu erleben. Androiden spielen die Rollen der jeweiligen Welt und sollen Niederlagen hinnehmen, die den Besuchern Spaß bereiten. Die Grenze zwischen Vorstellung und Wirklichkeit wird dadurch körperlich erfahrbar. Das Geschäftsmodell setzt voraus, dass jede Begegnung sicher bleibt und nur für die Gäste Folgenlosigkeit verspricht.",
+      "anchor": "Die Gäste kaufen historische Abenteuer mit scheinbar beherrschbaren Androiden.",
+      "interest": "Das Angebot erklärt die spätere Verletzung des Sicherheitsversprechens.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Figur verfolgt Peter Martin (Richard Benjamin) in @?",
+      "answers": [
+        "Ein schwarz gekleideter Revolverheld-Roboter.",
+        "Ein römischer Senator mit bewaffneten Wachen.",
+        "Ein menschlicher Mitarbeiter im Sheriffkostüm.",
+        "Ein Ritter, der den Park heimlich verlassen hat."
+      ],
+      "feedback": [
+        "Yul Brynner spielt den verfolgenden Gunslinger.",
+        "Peters Hauptverfolger stammt aus der Westernwelt.",
+        "Der Gegner ist ein Android und kein verkleideter Mitarbeiter.",
+        "Der entscheidende Gegner ist kein flüchtiger Ritter."
+      ],
+      "short": "Yul Brynner spielt den verfolgenden Gunslinger.",
+      "context": "Der Revolverheld (Yul Brynner) gehört zuerst zum käuflichen Westernabenteuer. Peter kann ihn scheinbar folgenlos besiegen. Als die Steuerung versagt, wird aus der wiederholbaren Attraktion ein ausdauernder Verfolger. Dieselbe vertraute Figur erhält dadurch eine neue Bedeutung: Ihre berechenbare Rolle schlägt in eine Bedrohung um, die Peter nicht mehr abschalten kann.",
+      "anchor": "Der zuvor besiegte Revolverheld kehrt als nicht mehr beherrschbarer Gegner zurück.",
+      "interest": "Die Figur macht den Umschlag des Freizeitangebots in eine Gefahr sichtbar.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum sollen die Schusswaffen des Parks in @ Menschen zunächst nicht verletzen?",
+      "answers": [
+        "Sensoren sollen Schüsse auf lebende Körper verhindern.",
+        "Sämtliche Patronen bestehen nur aus ungefährlichem Papier.",
+        "Die Waffen sind für jeden Besucher durch einen persönlichen Code gesperrt.",
+        "Die Waffen werden ausschließlich als Attrappen ausgegeben."
+      ],
+      "feedback": [
+        "Eine technische Sperre unterscheidet menschliche Ziele.",
+        "Der Schutz beruht nicht auf Papierpatronen.",
+        "Die Sicherung unterscheidet über Sensoren lebende Ziele; sie beruht nicht auf einem individuellen Code.",
+        "Die Waffen funktionieren gegen Roboter tatsächlich."
+      ],
+      "short": "Eine technische Sperre unterscheidet menschliche Ziele.",
+      "context": "Die Waffen sollen lebende Körper erkennen und Schüsse auf Menschen verhindern. Besucher vertrauen deshalb darauf, echte Duelle gefahrlos nachspielen zu können. Die technische Unterscheidung ist eine Voraussetzung des Angebots. Sobald sie versagt, besitzen dieselben Waffen ihre tödliche Wirkung; die Gäste müssen ihr Verhalten ohne die zuvor eingeplante Sicherheit neu bewerten.",
+      "anchor": "Die Sicherheit hängt von der technischen Unterscheidung zwischen Mensch und Android ab.",
+      "interest": "Das Versagen erklärt die Gefahr aus einer konkreten Konstruktionsannahme.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum rettet das Abschalten der Hauptversorgung in @ die Techniker nicht?",
+      "answers": [
+        "Roboter laufen auf Reserve weiter; die Techniker sind eingeschlossen.",
+        "Die Abschaltung versetzt alle Gäste sofort in einen Schlafzustand.",
+        "Die Roboter brauchen ausschließlich Sonnenlicht aus der Wüste.",
+        "Die Abschaltung öffnet nur die Türen der Gästeunterkünfte."
+      ],
+      "feedback": [
+        "Reserveenergie und verschlossene Kontrollräume machen den Eingriff fatal.",
+        "Ein Schlafmodus für Gäste ist nicht die Folge.",
+        "Sonnenlicht erklärt den Weiterbetrieb nicht.",
+        "Die Roboter arbeiten auf Reserve weiter, während die Techniker im geschlossenen Kontrollbereich zurückbleiben."
+      ],
+      "short": "Reserveenergie und verschlossene Kontrollräume machen den Eingriff fatal.",
+      "context": "Die Leitstelle versucht die Katastrophe durch einen zentralen Eingriff zu stoppen. Die Androiden können jedoch mit Reserveenergie weiterarbeiten. Zugleich bleiben die Techniker in den Kontrollräumen gefangen und verlieren ihre Versorgung. Die organisatorische Zentrale wird damit selbst zur Falle: Ein Eingriff, der Kontrolle zurückbringen soll, nimmt den Verantwortlichen die eigene Fluchtmöglichkeit.",
+      "anchor": "Die Reserve schützt die Androiden, während die Leitstelle durch ihren Eingriff zur Falle wird.",
+      "interest": "Der Zusammenhang erklärt, warum eine naheliegende Notmaßnahme scheitert.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie nutzt Peter (Richard Benjamin) in @ die beschädigte Sicht seines Verfolgers?",
+      "answers": [
+        "Fackelhitze verdeckt ihn vor dessen Infrarotsensoren.",
+        "Ein Spiegel zwingt den Roboter, sein eigenes Gesicht zu verfolgen.",
+        "Ein lautes Glockensignal ersetzt dessen visuelle Steuerung.",
+        "Peter lockt ihn mit der Wärme eines laufenden Motors ab."
+      ],
+      "feedback": [
+        "Die heißen Fackeln stören die Wärmeortung.",
+        "Der Roboter verfolgt nicht sein Spiegelbild.",
+        "Die Szene nutzt Wärme und kein akustisches Umschalten.",
+        "Die Fackeln stören die Infrarotsicht; ein Motor ist nicht Peters verwendeter Schutz."
+      ],
+      "short": "Die heißen Fackeln stören die Wärmeortung.",
+      "context": "Säure beschädigt die gewöhnliche Sicht des Revolverhelden (Yul Brynner). Er verfolgt Peter daraufhin mit Wärmesensoren. Im mittelalterlichen Schloss bieten Fackeln mehrere starke Wärmequellen. Peter erkennt, dass die eingeschränkte Wahrnehmung eine ausnutzbare Schwäche geworden ist, und benutzt schließlich eine Fackel gegen den mechanischen Körper seines Verfolgers.",
+      "anchor": "Beschädigte Augen erzwingen Wärmeortung; Fackeln werden zur Tarnung und Waffe.",
+      "interest": "Die Lösung folgt aus der zuvor gezeigten technischen Veränderung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was entlarvt die vermeintlich gefangene Frau im Kerker von @ als Androidin?",
+      "answers": [
+        "Das ihr gegebene Wasser verursacht einen Kurzschluss.",
+        "Eine Verletzung legt ein Metallgelenk in ihrem Arm frei.",
+        "Ihre Stimme fällt mitten in einem Satz aus.",
+        "Sie reagiert auf einen Befehl aus dem Kontrollraum."
+      ],
+      "feedback": [
+        "Die gut gemeinte Hilfe legt ihre technische Natur offen.",
+        "Der Kurzschluss beim Trinken entlarvt die Androidin.",
+        "Die Entlarvung geschieht durch das Wasser, nicht durch einen Ausfall ihrer Stimme.",
+        "Peter erkennt ihre künstliche Natur an der Reaktion auf das Wasser."
+      ],
+      "short": "Die gut gemeinte Hilfe legt ihre technische Natur offen.",
+      "context": "Peter (Richard Benjamin) glaubt, im Kerker endlich jemandem helfen zu können. Er gibt der Frau Wasser und löst dadurch einen Kurzschluss aus. Nach dem Kampf mit einem erkennbaren Gegner scheitert nun auch die sichere Unterscheidung im Hilfsmoment. Die erschöpfende Flucht endet deshalb nicht mit ungetrübtem Vertrauen in die Menschen, die er zu sehen meint.",
+      "anchor": "Wasser verwandelt einen Rettungsversuch in die Entlarvung eines weiteren Androiden.",
+      "interest": "Die Szene zeigt den Vertrauensverlust nach der technischen Katastrophe.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1973",
+        "1970",
+        "1967",
+        "1975"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1973.",
+        "1970 liegt drei Jahre vor der ersten Veröffentlichung von 1973.",
+        "1967 liegt sechs Jahre vor der ersten Veröffentlichung von 1973.",
+        "1975 ist ein späteres Jahr als das belegte erste Filmjahr 1973."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1973.",
+      "context": "Westworld erschien 1973. Drei Jahre später folgte 1976 Futureworld, der wieder den Freizeitpark Delos aufgriff. Die erneute Vermarktung der Roboterwelten baut dort auf der früheren Katastrophe auf. Die zeitliche Verbindung zeigt, dass die Filmidee bereits lange vor der späteren Fernsehbearbeitung als Kinogeschichte fortgesetzt wurde.",
+      "anchor": "Westworld 1973 → Futureworld 1976: Delos kehrt drei Jahre später zurück.",
+      "interest": "Der Zeitanker verbindet den ersten Film mit seiner unmittelbaren Kinofortsetzung.",
+      "sources": [
+        "wiki",
+        "afi",
+        "sequel"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Michael Crichton",
+        "John Carpenter",
+        "Jack Arnold",
+        "Robert Wise"
+      ],
+      "feedback": [
+        "Michael Crichton führte bei diesem Film Regie.",
+        "John Carpenter hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Crichton.",
+        "Jack Arnold hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Crichton.",
+        "Robert Wise hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Crichton."
+      ],
+      "short": "Michael Crichton führte bei diesem Film Regie.",
+      "context": "Michael Crichton schrieb und inszenierte Westworld als sein Kinoregie-Debüt. Laut AFI entschied er, die Idee einer menschenähnlichen Maschine eigne sich besser für bewegte Bilder als für einen Roman. Die Roboter erlauben Gästen, vertraute Filmabenteuer auszuleben. Die Regie führt diese Sehnsucht zunächst vor und lässt daraus später eine wirkliche Gefahr entstehen.",
+      "anchor": "Crichtons erstes Kinoregieprojekt macht aus nachgespielten Filmabenteuern reale Gefahr.",
+      "interest": "Der Hintergrund erklärt die bewusst visuelle Anlage der Parkidee.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

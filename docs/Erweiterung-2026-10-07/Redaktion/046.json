@@ -1,0 +1,220 @@
+{
+  "rank": 46,
+  "titleDe": "Requiem for a Dream",
+  "originalTitle": "Requiem for a Dream",
+  "year": 2000,
+  "genre": "Drama",
+  "familiarity": 3,
+  "directors": [
+    "Darren Aronofsky"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstaufführung am 14. Mai 2000 in Cannes außerhalb des Wettbewerbs; US-Kinostart am 6. Oktober 2000.",
+  "familiarity_reason": "Weit verbreitetes intensives Suchtdrama mit Ellen Burstyn und einer besonders bekannten Filmmusik; stärker im anspruchsvollen Filmkontext präsent, Bekanntheit 3.",
+  "sources": {
+    "cannes": "https://www.festival-cannes.com/en/f/requiem-for-a-dream/",
+    "handlung": "https://en.wikipedia.org/wiki/Requiem_for_a_Dream",
+    "ebert": "https://www.rogerebert.com/reviews/requiem-for-a-dream-2000",
+    "bfi": "https://bfidatadigipres.github.io/discomfort%20movies/2024/07/06/requiem-for-a-dream/",
+    "kronos": "https://kronosquartet.org/requiem-for-a-dream-vinyl-anniversary/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aussicht begeistert Sara Goldfarb (Ellen Burstyn) in @?",
+      "answers": [
+        "Ein eigener Auftritt im Fernsehen",
+        "Eine Reise zu ihrer Schwester",
+        "Eine neue Stelle in einer Modefirma",
+        "Die Aufnahme in einen Kirchenchor"
+      ],
+      "feedback": [
+        "Sara hofft, in einer Fernsehsendung aufzutreten.",
+        "Eine Schwesterreise ist nicht der ersehnte Neubeginn.",
+        "Der Modewunsch gehört zum jüngeren Paar, nicht zu Saras Berufsplänen.",
+        "Eine Choraufnahme treibt Sara nicht an."
+      ],
+      "short": "Sara hofft, in einer Fernsehsendung aufzutreten.",
+      "context": "Sara Goldfarb (Ellen Burstyn) lebt allein und verbringt viel Zeit vor dem Fernseher. Die Aussicht auf einen eigenen Auftritt verspricht ihr, wieder gesehen und bewundert zu werden. Ihr Traum wirkt zunächst anders als die Pläne der jungen Figuren, entsteht aber ebenfalls aus dem Wunsch nach einem besseren Leben.",
+      "anchor": "Sara möchte aus der Zuschauerrolle ins Fernsehen wechseln.",
+      "interest": "Ein nachvollziehbarer Wunsch erschließt den älteren Teil des Ensembles.",
+      "sources": [
+        "cannes"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Droge prägt Harrys und Tyrones Sucht in @?",
+      "answers": [
+        "Heroin",
+        "Cannabis",
+        "LSD",
+        "Alkohol"
+      ],
+      "feedback": [
+        "Harry und Tyrone sind heroinabhängig.",
+        "Cannabis ist nicht die zentrale Abhängigkeit dieses Handlungsstrangs.",
+        "LSD steht nicht im Zentrum ihres Beschaffungsdrucks.",
+        "Alkohol erklärt nicht die gezeigten Injektionen und den Entzug."
+      ],
+      "short": "Harry und Tyrone sind heroinabhängig.",
+      "context": "Harry Goldfarb (Jared Leto) und Tyrone (Marlon Wayans) verbinden Konsum und Handel. Kurzfristige Erleichterung wird zum dauernden Beschaffungsdruck. Die Geschichte verfolgt nicht nur äußere Folgen, sondern macht auch sichtbar, wie ihre Aufmerksamkeit immer stärker von Geld, Stoff und dem nächsten Moment des vermeintlichen Wohlbefindens bestimmt wird.",
+      "anchor": "Der nächste Heroinkonsum verdrängt andere Ziele.",
+      "interest": "Die konkrete Abhängigkeit erklärt den Kreislauf der jungen Figuren.",
+      "sources": [
+        "ebert"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum nimmt Sara (Ellen Burstyn) in @ Appetitzügler?",
+      "answers": [
+        "Sie will wieder in ihr rotes Kleid passen.",
+        "Sie möchte ihren Blutdruck ohne neue Diät senken.",
+        "Sie möchte die Müdigkeit nach dem Fernsehen vertreiben.",
+        "Sie möchte ohne Gewichtsänderung jünger aussehen."
+      ],
+      "feedback": [
+        "Sara verbindet das Abnehmen mit ihrem erhofften Fernsehauftritt.",
+        "Ihr konkretes Ziel ist das rote Kleid und das dafür verlangte Abnehmen.",
+        "Die Einnahme soll das Gewicht reduzieren, nicht bloß wach halten.",
+        "Sara sucht eine Gewichtsabnahme für das Kleid und keine rein äußerliche Verjüngung."
+      ],
+      "short": "Sara verbindet das Abnehmen mit ihrem erhofften Fernsehauftritt.",
+      "context": "Sara Goldfarb (Ellen Burstyn) möchte für den Fernsehauftritt wieder ihr rotes Kleid tragen. Die verschriebenen Tabletten scheinen den Weg zu öffnen, doch sie steigert die Einnahme. Damit verbindet der Film eine gesellschaftlich vertraute Hoffnung auf Schönheit und Anerkennung mit einem zweiten Verlauf der Abhängigkeit.",
+      "anchor": "Das rote Kleid verbindet Fernsehwunsch und Tablettensucht.",
+      "interest": "Das Motiv zeigt, wie ein scheinbar alltägliches Ziel in Abhängigkeit kippt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Weshalb fahren Harry und Tyrone in @ nach Florida?",
+      "answers": [
+        "Sie suchen nach einer direkten Heroinquelle.",
+        "Sie wollen Marion bei einer Modenschau unterstützen.",
+        "Sie wollen Sara aus einer Klinik abholen.",
+        "Sie nehmen an einem legalen Verkaufsseminar teil."
+      ],
+      "feedback": [
+        "Die Reise soll den stockenden Drogennachschub überwinden.",
+        "Eine Modenschau ist nicht das Reiseziel.",
+        "Sara wird nicht in Florida aus einer Klinik abgeholt.",
+        "Ein legales Seminar erklärt ihren Weg nicht."
+      ],
+      "short": "Die Reise soll den stockenden Drogennachschub überwinden.",
+      "context": "Harry (Jared Leto) und Tyrone (Marlon Wayans) hoffen, den Beschaffungsdruck durch die Fahrt nach Florida zu lösen. Harrys schwer geschädigter Arm macht die Reise jedoch gefährlicher. Die räumliche Bewegung eröffnet keinen Ausweg: Der Versuch, wieder Zugriff auf die Droge zu gewinnen, führt tiefer in die Krise.",
+      "anchor": "Die Florida-Fahrt sucht Nachschub und verschärft die Krise.",
+      "interest": "Das Reiseziel erklärt die Verbindung zwischen Beschaffung und körperlichem Verfall.",
+      "sources": [
+        "ebert",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie verdichtet @ wiederkehrende Konsumvorgänge filmisch?",
+      "answers": [
+        "Durch sehr kurze Bildfolgen von Handgriffen und Körperreaktionen",
+        "Durch ungeschnittene Interviews nach jeder Einnahme",
+        "Durch ausschließlich stumme Totalen aus großer Entfernung",
+        "Durch einen Erzähler, der jede Wirkung sachlich erklärt"
+      ],
+      "feedback": [
+        "Kurze Detailmontagen machen den wiederholten Ablauf rhythmisch spürbar.",
+        "Regelmäßige Interviewblöcke bestimmen die Form nicht.",
+        "Die Kamera bleibt nicht ausschließlich distanziert.",
+        "Ein sachlicher Kommentar übernimmt nicht die gesamte Darstellung."
+      ],
+      "short": "Kurze Detailmontagen machen den wiederholten Ablauf rhythmisch spürbar.",
+      "context": "Die Montage zerlegt Handgriffe, Flüssigkeiten und Körperreaktionen in kurze Details. Ähnliche Abläufe kehren wieder und erzeugen einen Rhythmus. Dadurch erscheint die Sucht als Kreislauf: Der Film lässt den Zuschauer die Wiederholung sinnlich erfahren, statt ihre Mechanik nur durch Dialoge beschreiben zu lassen.",
+      "anchor": "Kurze Detailfolgen geben dem Suchtkreislauf einen Rhythmus.",
+      "interest": "Eine konkrete Gestaltung macht das Verhalten der Figuren erfahrbar.",
+      "sources": [
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Ensemble spielte Clint Mansells Filmmusik für @ ein?",
+      "answers": [
+        "Das Kronos Quartet",
+        "Das Emerson String Quartet",
+        "Das Arditti Quartet",
+        "Das Brodsky Quartet"
+      ],
+      "feedback": [
+        "Das Kronos Quartet spielte Mansells Musik.",
+        "Das Emerson String Quartet ist nicht das ausgewiesene Ensemble.",
+        "Das Arditti Quartet steht nicht in diesem Musikcredit.",
+        "Das Brodsky Quartet spielte diesen Score nicht ein."
+      ],
+      "short": "Das Kronos Quartet spielte Mansells Musik.",
+      "context": "Clint Mansell komponierte die Musik, das Kronos Quartet spielte sie. Die Verbindung von Filmerzählung und Quartettklang gehört zu einer Zusammenarbeit mit Darren Aronofsky, die später bei weiteren Filmen fortgesetzt wurde. Der bekannte musikalische Eindruck hat damit sowohl einen Komponisten als auch ein konkret benennbares ausführendes Ensemble.",
+      "anchor": "Mansell komponiert, Kronos spielt die Filmmusik.",
+      "interest": "Der Credit unterscheidet musikalische Urheberschaft und Aufführung.",
+      "sources": [
+        "kronos",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals öffentlich gezeigt?",
+      "answers": [
+        "2000",
+        "1978",
+        "1998",
+        "2002"
+      ],
+      "feedback": [
+        "Die Verfilmung wurde 2000 in Cannes gezeigt.",
+        "1978 erschien Hubert Selbys Romanvorlage.",
+        "1998 erschien Aronofskys vorheriger Film Pi.",
+        "2002 liegt nach der Erstaufführung."
+      ],
+      "short": "Die Verfilmung wurde 2000 in Cannes gezeigt.",
+      "context": "Hubert Selby Jr. veröffentlichte seinen Roman 1978. Darren Aronofskys Verfilmung wurde 2000 erstmals gezeigt, 22 Jahre später. Selby war auch am Drehbuch beteiligt. Der lange Abstand zwischen Buch und Film erklärt, weshalb das Filmjahr nicht aus dem Erscheinungsdatum der gleichnamigen Vorlage übernommen werden darf.",
+      "anchor": "1978 der Roman, 22 Jahre später 2000 der Film.",
+      "interest": "Eine belegte Vorlagenchronologie verankert das Veröffentlichungsjahr.",
+      "sources": [
+        "handlung",
+        "cannes"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Darren Aronofsky",
+        "Danny Boyle",
+        "David Fincher",
+        "Gus Van Sant"
+      ],
+      "feedback": [
+        "Darren Aronofsky inszenierte die Verfilmung.",
+        "Boyle drehte Trainspotting, nicht diese Selby-Adaption.",
+        "Fincher ist nicht der Regisseur dieses Films.",
+        "Van Sant inszenierte andere Drogengeschichten, nicht Requiem for a Dream."
+      ],
+      "short": "Darren Aronofsky inszenierte die Verfilmung.",
+      "context": "Darren Aronofsky schrieb das Drehbuch gemeinsam mit Romanautor Hubert Selby Jr. und führte Regie. Die zwei Handlungsbereiche – Sara (Ellen Burstyn) und die jüngeren Figuren – stellen verschiedene Hoffnungen nebeneinander. Durch die gemeinsame Inszenierung wird daraus eine Geschichte über mehrere Formen von Abhängigkeit.",
+      "anchor": "Aronofsky inszeniert und bearbeitet Selbys Roman mit dessen Autor.",
+      "interest": "Die Regiefrage verbindet Credit, Vorlage und Aufbau des Ensembles.",
+      "sources": [
+        "cannes"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

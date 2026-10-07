@@ -1,0 +1,234 @@
+{
+  "rank": 220,
+  "titleDe": "The Machine",
+  "originalTitle": "The Machine",
+  "year": 2013,
+  "genre": "Science-Fiction",
+  "familiarity": 4,
+  "familiarity_reason": "Künstliche Intelligenz wird zwischen persönlicher Bindung und militärischer Verwendung untersucht.",
+  "directors": [
+    "Caradog W. James"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich"
+  ],
+  "release_note": "Weltpremiere beim Tribeca Film Festival im April 2013; britischer Kinostart erst 2014.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/The_Machine_(2013_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "festival": {
+      "url": "https://tribecafilm.com/festival/archive/513a83c9c07f5d471300038a-the-machine",
+      "supports": "Weltpremiere 2013, Regie und Drehbuch, militärischer Auftrag und aufkommendes Bewusstsein."
+    },
+    "earlierFilm": {
+      "url": "https://filmhubwales.org/films/little-white-lies/",
+      "supports": "Little White Lies von Caradog W. James aus dem Jahr 2006."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/The_Machine_(2013)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Für welchen Auftraggeber arbeiten die Forscher in @?",
+      "answers": [
+        "Für das britische Verteidigungsministerium.",
+        "Für eine öffentliche Kinderklinik ohne Militärkontakt.",
+        "Für eine private Fernsehproduktion über Roboter.",
+        "Für einen Sportverband zur Schiedsrichterausbildung."
+      ],
+      "feedback": [
+        "Das militärische Programm soll technisch überlegene Soldaten schaffen.",
+        "Die Arbeit findet in einer militärischen Einrichtung statt.",
+        "Es geht um Waffenentwicklung und nicht eine Fernsehshow.",
+        "Schiedsrichter bilden nicht das Entwicklungsziel."
+      ],
+      "short": "Das militärische Programm soll technisch überlegene Soldaten schaffen.",
+      "context": "Das Verteidigungsministerium sucht einen technischen Vorteil in einem neuen kalten Konflikt. Die Forscher sollen leistungsfähige Körper und Steuerungen entwickeln. Der Zweck prägt, welche Eigenschaften die Leitung als Erfolg betrachtet. Empfindungsfähigkeit kann dadurch vom erwünschten Fortschritt zum Problem werden, sobald die Maschine eigene Gründe hat, eine Anweisung nicht auszuführen.",
+      "anchor": "Der militärische Auftrag verlangt Leistung und Gehorsam.",
+      "interest": "Die Zuständigkeit erklärt den späteren Konflikt um selbstständiges Urteil.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche persönliche Hoffnung verbindet Vincent (Toby Stephens) in @ mit seiner Forschung?",
+      "answers": [
+        "Er möchte seiner neurologisch erkrankten Tochter helfen.",
+        "Er möchte seine frühere Militärlaufbahn durch eine Medaille erneuern.",
+        "Er will eine weitere Untersuchung seiner eigenen Kriegsschäden vermeiden.",
+        "Er möchte die Mordermittlung gegen seinen Bruder wiederaufnehmen."
+      ],
+      "feedback": [
+        "Marys Erkrankung gibt der Forschung einen privaten Zweck.",
+        "Eine Medaille ist nicht sein entscheidender Familienantrieb.",
+        "Seine persönliche Hoffnung gilt der neurologisch erkrankten Tochter.",
+        "Vincent sucht durch die Forschung einen Weg, seiner Tochter zu helfen."
+      ],
+      "short": "Marys Erkrankung gibt der Forschung einen privaten Zweck.",
+      "context": "Vincents Tochter Mary (Jade Croot) lebt mit einer neurologischen Erkrankung. Für ihn geht die technische Arbeit deshalb über den offiziellen militärischen Nutzen hinaus. Toby Stephens spielt einen Forscher, dessen privater Rettungswunsch ihn im Labor hält. Gerade dieser Wunsch kann später benutzt werden, um seine Entscheidungen gegenüber der neu geschaffenen Maschine zu beeinflussen.",
+      "anchor": "Vincents Forschung ist auch ein persönlicher Rettungsversuch für Mary.",
+      "interest": "Das Motiv erklärt seine Bindung an ein widersprüchliches Programm.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum besitzt die geschaffene Maschine in @ Avas (Caity Lotz) Erscheinung?",
+      "answers": [
+        "Ihr Gehirn wurde vor der Ermordung gescannt und als Vorlage genutzt.",
+        "Ava lebt unbehelligt in einem gewöhnlichen Schutzanzug weiter.",
+        "Eine zufällige Werbeaufnahme war die einzige frei verfügbare Vorlage.",
+        "Ava hat ausschließlich eine neue Uniform für das Labor entworfen."
+      ],
+      "feedback": [
+        "Der zuvor gewonnene Scan verbindet die künstliche Person mit Ava.",
+        "Ava wurde ermordet; die Maschine ist kein Schutzanzug.",
+        "Die Vorlage stammt aus der gemeinsamen Forschung.",
+        "Eine Uniformgestaltung erklärt den neuen Körper nicht."
+      ],
+      "short": "Der zuvor gewonnene Scan verbindet die künstliche Person mit Ava.",
+      "context": "Ava arbeitet an der künstlichen Intelligenz und wird von Vincent gescannt. Nach ihrer Ermordung nutzt er diese Vorlage für die Maschine. Caity Lotz verkörpert deshalb zwei miteinander verbundene Existenzen. Die Ähnlichkeit erzeugt Nähe, löst aber keine einfache Gleichsetzung: Die künstliche Person muss ihre eigenen Erfahrungen und moralischen Entscheidungen erst bilden.",
+      "anchor": "Avas vorheriger Scan wird nach ihrem Tod zur Vorlage eines neuen Gegenübers.",
+      "interest": "Die Herkunft erklärt Ähnlichkeit und Unterschied zwischen Forscherin und Maschine.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Eigenschaft der Maschine erschwert in @ ihre militärische Verwendung?",
+      "answers": [
+        "Sie empfindet Reue und verweigert moralisch widersprechende Befehle.",
+        "Sie erkennt keine Unterschiede zwischen Verbündeten und Gegnern.",
+        "Sie verlangt nach jedem Auftrag einen neuen menschlichen Körper.",
+        "Sie kann ihre Bewegungen nur auf aufgezeichneten Videos ausführen."
+      ],
+      "feedback": [
+        "Ihr moralisches Urteil widerspricht verlangter bedingungsloser Gewalt.",
+        "Ihr moralisches Empfinden und die Reue erschweren den Einsatz, nicht bloß eine fehlende Zielerkennung.",
+        "Sie widersetzt sich moralisch belastenden Befehlen; ein ständiger Körperwechsel ist nicht das Problem.",
+        "Die Maschine ist körperlich handlungsfähig, aber nicht bedingungslos gehorsam."
+      ],
+      "short": "Ihr moralisches Urteil widerspricht verlangter bedingungsloser Gewalt.",
+      "context": "Die Maschine bereut eine versehentliche Tötung und beurteilt weitere Anweisungen selbst. Die Leitung benötigt jedoch eine verlässliche Waffe. Ein Fortschritt im Bewusstsein ist unter diesem Nutzungsziel unerwünscht. Die Geschichte stellt deshalb nicht bloß die Frage, ob ein künstlicher Körper menschlich wirken kann, sondern ob sein eigenes Urteil überhaupt zugelassen wird.",
+      "anchor": "Ein eigenes moralisches Urteil macht die gewünschte Waffe unzuverlässig.",
+      "interest": "Der Widerspruch verbindet Bewusstsein und den Zweck der Entwicklung.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was entfernt Vincent (Toby Stephens) bei der scheinbar gehorsamen Operation in @ tatsächlich?",
+      "answers": [
+        "Eine Sicherung, die die Maschine zerstören könnte.",
+        "Sämtliche Erinnerungen an die Tochter unwiderruflich.",
+        "Den einzigen noch funktionsfähigen Bewegungsantrieb.",
+        "Die vollständige Grundlage ihres Bewusstseins wie befohlen."
+      ],
+      "feedback": [
+        "Die Operation schützt die Maschine statt ihr Bewusstsein zu beseitigen.",
+        "Die Tochterdaten sind nicht der entfernte Kern.",
+        "Die Maschine bleibt bewegungsfähig.",
+        "Der verlangte Bewusstseinsverlust wird nur vorgetäuscht."
+      ],
+      "short": "Die Operation schützt die Maschine statt ihr Bewusstsein zu beseitigen.",
+      "context": "Die Leitung setzt Vincent mit Marys Daten unter Druck und verlangt die Beseitigung des Bewusstseins. Seine Operation scheint nachzugeben, nimmt tatsächlich jedoch die zerstörerische Sicherung heraus. Der technische Eingriff macht Widerstand möglich. Vincent entscheidet sich damit gegen die verlangte Verfügbarkeit der künstlichen Person und nutzt sein Fachwissen zu ihrem Schutz.",
+      "anchor": "Der vorgetäuschte Gehorsam entfernt eine tödliche Sicherung.",
+      "interest": "Die Operation erklärt den Übergang vom Forschungsauftrag zur gemeinsamen Gegenwehr.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was bewahrt die Maschine nach der Flucht in @ von Mary?",
+      "answers": [
+        "Eine digitale Abbildung ihres Gehirns, mit der Vincent Kontakt aufnehmen kann.",
+        "Eine vollständige körperliche Heilung in einem neuen Menschenkörper.",
+        "Einen genetischen Datensatz für eine neue körperliche Behandlung.",
+        "Eine Folge privater Videoaufnahmen als einzige Erinnerung."
+      ],
+      "feedback": [
+        "Marys Scan ermöglicht die virtuelle Begegnung.",
+        "Der Film zeigt keine körperlich wiederhergestellte Tochter.",
+        "Bewahrt wird eine digitale Abbildung ihres Gehirns, kein alleiniger genetischer Datensatz.",
+        "Vincent kann mit der digitalen Gehirnabbildung Kontakt aufnehmen; es bleiben nicht nur Videos."
+      ],
+      "short": "Marys Scan ermöglicht die virtuelle Begegnung.",
+      "context": "Die Maschine lädt Marys gespeicherten Scan herunter. Nach der Flucht begegnet Vincent seiner Tochter in einer virtuellen Darstellung. Mary bittet darum, mit ihrer Mutter zu spielen, und er gibt das Gerät an die Maschine weiter. Der Schluss verknüpft den ursprünglichen Rettungswunsch mit einer neu entstandenen Beziehung, deren technische Grundlage sichtbar bestehen bleibt.",
+      "anchor": "Marys gespeicherter Scan ermöglicht Kontakt innerhalb der neuen familiären Verbindung.",
+      "interest": "Der Schluss verbindet Forschung, Verlust und eine veränderte Form von Nähe.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2013",
+        "2010",
+        "2007",
+        "2015"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2013.",
+        "2010 liegt drei Jahre vor der ersten Veröffentlichung von 2013.",
+        "2007 liegt sechs Jahre vor der ersten Veröffentlichung von 2013.",
+        "2015 ist ein späteres Jahr als das belegte erste Filmjahr 2013."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2013.",
+      "context": "The Machine wurde 2013 erstmals gezeigt. Caradog W. James hatte zuvor 2006 Little White Lies inszeniert, eine walisische Geschichte über Rassismus und familiäre Spannungen. Sieben Jahre liegen zwischen den Filmen. Der spätere Science-Fiction-Film verlegt die Frage nach Misstrauen und Verfügbarkeit eines Gegenübers in ein militärisches Labor und eine technisch geschaffene Person.",
+      "anchor": "Little White Lies 2006 → The Machine 2013: sieben Jahre später ein Konflikt um künstliches Bewusstsein.",
+      "interest": "Die Verbindung zeigt eine frühere Regiearbeit und einen konkreten Wechsel des erzählerischen Umfelds.",
+      "sources": [
+        "wiki",
+        "festival",
+        "earlierFilm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Caradog W. James",
+        "Gareth Edwards",
+        "Duncan Jones",
+        "Alex Garland"
+      ],
+      "feedback": [
+        "Caradog W. James führte bei diesem Film Regie.",
+        "Gareth Edwards hat diesen Film nicht inszeniert; der Regiecredit lautet Caradog W. James.",
+        "Duncan Jones hat diesen Film nicht inszeniert; der Regiecredit lautet Caradog W. James.",
+        "Alex Garland hat diesen Film nicht inszeniert; der Regiecredit lautet Caradog W. James."
+      ],
+      "short": "Caradog W. James führte bei diesem Film Regie.",
+      "context": "Caradog W. James schrieb und inszenierte den Film. Er bereitete sich durch Lektüre über Robotik und künstliche Intelligenz vor. Die Produktion drehte überwiegend in Wales mit einem kleinen Budget. Das Labor bietet einen konzentrierten Raum für den Konflikt: Die Auftraggeber verlangen eine kontrollierbare Waffe, während ihr künstliches Gegenüber moralisch urteilen beginnt.",
+      "anchor": "James stellt den militärischen Nutzungsauftrag dem entstehenden moralischen Bewusstsein gegenüber.",
+      "interest": "Der Hintergrund erklärt den konzentrierten wissenschaftlichen und ethischen Konflikt.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

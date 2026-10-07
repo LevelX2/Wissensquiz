@@ -1,0 +1,235 @@
+{
+  "rank": 271,
+  "titleDe": "Transit",
+  "originalTitle": "Transit",
+  "year": 2018,
+  "genre": "Drama",
+  "familiarity": 4,
+  "familiarity_reason": "Petzold versetzt einen historischen Fluchtstoff in scheinbare Gegenwart; die zeitliche Verschiebung ist ein konkretes Gestaltungsziel.",
+  "directors": [
+    "Christian Petzold"
+  ],
+  "production_countries": [
+    "Deutschland",
+    "Frankreich"
+  ],
+  "release_note": "Uraufführung im Wettbewerb der Berlinale im Februar 2018; deutscher Kinostart im April. Die deutsch-französische Koproduktion ist durch die Verleihunterlagen belegt.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Transit_(2018_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "press": {
+      "url": "https://www.musicboxfilms.com/wp-content/uploads/2018/09/TRANSITPressNotes-FINAL.pdf",
+      "supports": "Deutschland/Frankreich 2018, Regie, Vorlage von 1944, Figuren und gelesene Aussagen Petzolds zur zeitlichen Verlagerung und Erzählerperspektive."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Transit_(2018)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Hafenstadt sucht Georg (Franz Rogowski) eine Möglichkeit zur Ausreise?",
+      "answers": [
+        "Marseille",
+        "Le Havre",
+        "Bordeaux",
+        "Nantes"
+      ],
+      "feedback": [
+        "Marseille ist der zentrale Ort des Wartens auf Visa und Schiffe.",
+        "Le Havre bildet nicht diesen zentralen Fluchtraum.",
+        "Georgs weitere Geschichte konzentriert sich nicht auf Bordeaux.",
+        "Nantes ist nicht der Hafen der entscheidenden Begegnungen."
+      ],
+      "short": "Marseille ist der zentrale Ort des Wartens auf Visa und Schiffe.",
+      "context": "Georg (Franz Rogowski) erreicht Marseille, nachdem sein verletzter Begleiter auf der Fahrt gestorben ist. Er kann die Stadt nicht einfach als sicheren Endpunkt behandeln. Konsulate, Unterkünfte und Schiffsplätze werden zu vorläufigen Stationen. Die Nähe zum Meer verspricht Bewegung, während die nötigen Papiere und Bindungen ihn weiterhin festhalten.",
+      "anchor": "Marseille liegt am Meer und bleibt für Georg dennoch ein Ort des erzwungenen Wartens.",
+      "interest": "Der Schauplatz erklärt die Spannung zwischen möglicher Weiterreise und Stillstand.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Wessen Identität nimmt Georg (Franz Rogowski) bei den Konsulaten an?",
+      "answers": [
+        "Die eines verstorbenen Schriftstellers",
+        "Die eines vermissten Hafenbeamten",
+        "Die eines französischen Armeeoffiziers",
+        "Die eines abgereisten Kaufhausbesitzers"
+      ],
+      "feedback": [
+        "Die Papiere gehören dem toten Schriftsteller Weidel.",
+        "Ein Hafenbeamter ist nicht der Eigentümer der Dokumente.",
+        "Eine Offiziersidentität verschafft ihm nicht die Visa.",
+        "Ein Kaufhausbesitzer wird nicht verkörpert."
+      ],
+      "short": "Die Papiere gehören dem toten Schriftsteller Weidel.",
+      "context": "Georg (Franz Rogowski) besitzt Weidels Papiere und dessen Manuskript. Die Verwechslung beim Konsulat eröffnet ihm eine Reisechance, obwohl der Schriftsteller bereits tot ist. Derselbe Irrtum erhält später Maries (Paula Beer) Hoffnung auf ihren Mann. Eine nützliche fremde Identität wird damit zur Grundlage einer zunehmend schmerzhaften persönlichen Täuschung.",
+      "anchor": "Weidels Identität verschafft Georg Papiere und erhält Maries Hoffnung auf einen Toten.",
+      "interest": "Die Identität erklärt den Zusammenhang zwischen Fluchtchance und Beziehungskonflikt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wie kommt Georg (Franz Rogowski) mit dem Arzt Richard (Godehard Giese) in Kontakt?",
+      "answers": [
+        "Er holt medizinische Hilfe für Driss bei einem Asthmaanfall",
+        "Er lässt Richard sein eigenes Geburtsdatum amtlich bestätigen",
+        "Er verlangt von Richard den Totenschein des Schriftstellers",
+        "Er bewirbt sich bei Richard um eine Stelle in dessen Praxis"
+      ],
+      "feedback": [
+        "Driss’ akute Atemnot führt Georg zum Arzt.",
+        "Eine amtliche Altersbescheinigung ist nicht der Anlass.",
+        "Ein angeforderter Totenschein begründet die Begegnung nicht.",
+        "Georg sucht keine feste Praxisstelle."
+      ],
+      "short": "Driss’ akute Atemnot führt Georg zum Arzt.",
+      "context": "Georg (Franz Rogowski) hat zu Driss (Lilien Batman) eine persönliche Bindung entwickelt. Als der Junge Hilfe braucht, findet er Richard (Godehard Giese). Die fürsorgliche Handlung führt ihn zugleich zu Maries (Paula Beer) Liebhaber. Die einzelnen Beziehungen entstehen damit nicht als voneinander isolierte Kontakte, sondern durch konkrete Aufgaben, die neue Verbindungen öffnen.",
+      "anchor": "Georgs Hilfe für Driss führt zum Arzt und damit zu einer weiteren Verbindung mit Marie.",
+      "interest": "Der Anlass erklärt das Zusammentreffen der Beziehungslinien.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum bestätigt Georgs (Franz Rogowski) Auftritt als Weidel Maries Hoffnung?",
+      "answers": [
+        "Sie hört, ihr Mann sei bei den Konsulaten erschienen",
+        "Sie erkennt Georg eindeutig als den eigenen Ehemann wieder",
+        "Sie findet ein nach der Reise geschriebenes Geständnis Weidels",
+        "Sie erhält ein gemeinsam mit Richard aufgenommenes Familienfoto"
+      ],
+      "feedback": [
+        "Die Nachricht über den vermeintlichen Weidel lässt sie an dessen Weiterleben glauben.",
+        "Marie hält Georg nicht persönlich für ihren Ehemann.",
+        "Ein späterer Brief des tatsächlich lebenden Weidel existiert nicht.",
+        "Ein gemeinsames Familienfoto beweist die Hoffnung nicht."
+      ],
+      "short": "Die Nachricht über den vermeintlichen Weidel lässt sie an dessen Weiterleben glauben.",
+      "context": "Marie (Paula Beer) möchte ihren Mann finden, obwohl sie ihn zuvor verlassen hatte. Georgs (Franz Rogowski) amtlicher Auftritt unter dessen Namen erzeugt genau die Nachricht, die ihre Suche weiter bestärkt. Georg profitiert dadurch von einer Verwechslung, die er emotional immer schwerer erklären kann. Seine Reisechance und ihr Warten stehen auf derselben falschen Voraussetzung.",
+      "anchor": "Georgs Konsulatsauftritt erzeugt die Nachricht, die Marie auf ihren verstorbenen Mann warten lässt.",
+      "interest": "Der Zusammenhang erklärt die unbeabsichtigte und später fortgesetzte Täuschung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wem überlässt Georg (Franz Rogowski) schließlich seinen Platz auf dem Schiff?",
+      "answers": [
+        "Richard",
+        "Driss",
+        "Dem Wirt",
+        "Weidels Verleger"
+      ],
+      "feedback": [
+        "Er steigt vor dem Hafen aus und verkauft die Passage an Richard.",
+        "Driss übernimmt nicht die gebuchte Passage.",
+        "Der Wirt erhält das Manuskript, nicht den Schiffsplatz.",
+        "Ein Verleger wird nicht als Ersatzreisender eingesetzt."
+      ],
+      "short": "Er steigt vor dem Hafen aus und verkauft die Passage an Richard.",
+      "context": "Georg (Franz Rogowski) scheint mit Marie (Paula Beer) zur Abreise unterwegs zu sein. Er steigt jedoch unter einem Vorwand aus dem Taxi und überlässt Richard (Godehard Giese) den Platz. Die konkrete Handlung verändert den vorherigen Plan, ohne eine eindeutige Zukunft zu sichern. Georg bleibt in einer Stadt zurück, deren Lage sich weiter verschärft.",
+      "anchor": "Georg gibt Richard die Passage und bleibt selbst trotz des geplanten gemeinsamen Aufbruchs zurück.",
+      "interest": "Die Entscheidung erklärt den Unterschied zwischen verfügbarer Flucht und tatsächlich gewähltem Weg.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was verbindet den Wirt mit der Erzählung des Films?",
+      "answers": [
+        "Er erhält Weidels Manuskript und gibt Georgs Geschichte als Erzähler weiter",
+        "Er schreibt sämtliche Visa unter Georgs Namen neu",
+        "Er ist Weidels Bruder und erfindet dessen Tod",
+        "Er leitet die Polizeiaktion, die das Warten beendet"
+      ],
+      "feedback": [
+        "Der Wirt bewahrt das Manuskript und übernimmt die erzählende Perspektive.",
+        "Visa werden nicht von ihm neu ausgestellt.",
+        "Eine Brüderidentität und ein erfundener Tod bilden nicht seine Rolle.",
+        "Er wird nicht zum Leiter der Polizeiaktion."
+      ],
+      "short": "Der Wirt bewahrt das Manuskript und übernimmt die erzählende Perspektive.",
+      "context": "Georg (Franz Rogowski) vertraut dem Wirt das Manuskript an. Die Stimme, die seine Geschichte weitergibt, gehört damit einer Person mit einer konkreten Beziehung zu ihm. Petzold vermeidet eine durchgehend aus Georg selbst sprechende Erzählung. Der Film verbindet seine ungewisse Zukunft mit dem Fortbestehen einer Geschichte, die ein anderer bewahren kann.",
+      "anchor": "Der Wirt erhält das Manuskript und bewahrt Georgs Geschichte durch das Erzählen.",
+      "interest": "Die Perspektive erklärt den Zusammenhang zwischen vorläufigem Aufenthalt und weitergegebener Erinnerung.",
+      "sources": [
+        "wiki",
+        "de",
+        "press"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2015",
+        "2012",
+        "2020"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2018.",
+        "2015 liegt drei Jahre vor der ersten Veröffentlichung von 2018.",
+        "2012 liegt sechs Jahre vor der ersten Veröffentlichung von 2018.",
+        "2020 ist ein späteres Jahr als das belegte erste Filmjahr 2018."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2018.",
+      "context": "Anna Seghers veröffentlichte Transit 1944. Petzolds Film folgte 2018, vierundsiebzig Jahre später, und stellte die Fluchtsituation in eine gegenwärtig aussehende Stadt. Das ältere Buchjahr und das neue Filmbild bleiben dadurch nebeneinander wirksam. Der Abstand hilft, die ungewöhnliche Gestaltung zu verstehen: Die Geschichte wird zeitlich verlagert, ohne ihre Erfahrung von Verfolgung und Warten abzuschließen.",
+      "anchor": "Seghers’ Roman 1944 → Petzolds Transit 2018: vierundsiebzig Jahre und eine Verlagerung ins heutige Stadtbild.",
+      "interest": "Der Vorlagenbezug erklärt die bewusste Gleichzeitigkeit alter Geschichte und neuer Umgebung.",
+      "sources": [
+        "wiki",
+        "press"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Christian Petzold",
+        "Christian Schwochow",
+        "Andreas Dresen",
+        "Ulrich Köhler"
+      ],
+      "feedback": [
+        "Christian Petzold führte bei diesem Film Regie.",
+        "Christian Schwochow hat diesen Film nicht inszeniert; der Regiecredit lautet Christian Petzold.",
+        "Andreas Dresen hat diesen Film nicht inszeniert; der Regiecredit lautet Christian Petzold.",
+        "Ulrich Köhler hat diesen Film nicht inszeniert; der Regiecredit lautet Christian Petzold."
+      ],
+      "short": "Christian Petzold führte bei diesem Film Regie.",
+      "context": "Christian Petzold schrieb und inszenierte die Adaption, deren Gegenwartsorte eine historische Fluchtsituation tragen. Die Verleihunterlagen erklären seine Entscheidung gegen eine vollständige Rekonstruktion des Marseille von 1940. Er wählte zudem den Wirt als Erzähler, der Georgs (Franz Rogowski) Geschichte weitergibt. So bleiben der beobachtete Mensch und die Stimme, die über ihn berichtet, voneinander unterschieden.",
+      "anchor": "Petzold zeigt historische Fluchterfahrung im Gegenwartsbild und lässt den Wirt über Georg erzählen.",
+      "interest": "Der Hintergrund verbindet Zeitgestaltung und besondere Erzählerperspektive.",
+      "sources": [
+        "wiki",
+        "press"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Arthouse"
+}

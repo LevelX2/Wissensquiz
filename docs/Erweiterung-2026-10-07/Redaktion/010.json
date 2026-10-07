@@ -1,0 +1,216 @@
+{
+  "rank": 10,
+  "genre": "Abenteuer",
+  "titleDe": "Die Mumie kehrt zurück",
+  "originalTitle": "The Mummy Returns",
+  "year": 2001,
+  "articleUrl": "https://en.wikipedia.org/wiki/The_Mummy_Returns",
+  "familiarity": 2,
+  "selectionReason": "Erweitert die Abenteuerauswahl um Expeditionen, Entdeckungen und Entscheidungen in unbekannten Welten.",
+  "familiarity_reason": "Sehr bekannte Abenteuerreihe mit Brendan Fraser; die Fortsetzung besitzt eigenständige Figuren- und Reinkarnationszusammenhänge.",
+  "directors": [
+    "Stephen Sommers"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Kinostart am 4. Mai 2001; zweiter Film der modernen Mumie-Reihe.",
+  "series": "Die Mumie",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Mummy_Returns"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche neue Familienrolle haben Rick (Brendan Fraser) und Evelyn O’Connell (Rachel Weisz) in @ gegenüber dem ersten Film?",
+      "answers": [
+        "Sie sind Eltern eines Sohnes.",
+        "Sie sind noch unverheiratet und leben getrennt.",
+        "Sie haben eine Tochter adoptiert.",
+        "Sie ziehen als kinderloses Paar nach Amerika."
+      ],
+      "feedback": [
+        "Alex ist ihr gemeinsamer Sohn.",
+        "Rick und Evelyn sind inzwischen Eltern eines Sohnes.",
+        "Das Kind ist ihr Sohn Alex und keine adoptierte Tochter.",
+        "Ihr gemeinsames Familienleben umfasst bereits einen Sohn."
+      ],
+      "short": "Rick und Evelyn reisen nun als Eltern von Alex.",
+      "context": "Rick (Brendan Fraser) und Evelyn O’Connell (Rachel Weisz) leben inzwischen mit ihrem Sohn Alex (Freddie Boath). Die Fortsetzung verändert dadurch den Einsatz des Abenteuers. Neben der alten Gegnerschaft zu Imhotep tritt die Gefahr für ein Kind. Die Eltern müssen ihre Erfahrung einsetzen, um eine Familie zu retten, die es im ersten Film noch nicht gab.",
+      "anchor": "Aus dem Abenteuerpaar wird eine bedrohte Familie.",
+      "interest": "Aus dem Abenteuerpaar wird eine bedrohte Familie.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Gegenstand legt sich in @ um Alex’ (Freddie Boath) Handgelenk und macht ihn zum Wegweiser?",
+      "answers": [
+        "Das Armband des Anubis",
+        "Eine moderne Satellitenuhr",
+        "Ein römischer Lorbeerkranz",
+        "Der Ring des Salomo"
+      ],
+      "feedback": [
+        "Das Armband zeigt Alex den Weg zur Oase.",
+        "Eine Satellitenuhr gehört nicht zum Gegenstand.",
+        "Ein Lorbeerkranz wird nicht am Handgelenk getragen.",
+        "Ein Salomoring löst diese Handlung nicht aus."
+      ],
+      "short": "Alex legt das Armband des Anubis an.",
+      "context": "Alex O’Connell (Freddie Boath) probiert ein gefundenes Armband aus, das sich nicht einfach wieder abnehmen lässt. Seine Visionen machen ihn für die Gegenseite nützlich. Der Fund ist daher kein bloßes Schmuckstück: Er bindet das Kind an die Reise und macht seine Rettung von einem bestimmten Ort und einer Frist abhängig.",
+      "anchor": "Das Armband gibt den Weg vor und bindet Alex an ihn.",
+      "interest": "Das Armband gibt den Weg vor und bindet Alex an ihn.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche vergangene Identität erkennt Evelyn O’Connell (Rachel Weisz) in @ als Teil ihrer eigenen Geschichte?",
+      "answers": [
+        "Die Prinzessin Nefertiri",
+        "Die Königin Kleopatra",
+        "Die Göttin Isis selbst",
+        "Die römische Kaiserin Livia"
+      ],
+      "feedback": [
+        "Evelyn erinnert sich an ein früheres Leben als Nefertiri.",
+        "Kleopatra ist nicht ihre gezeigte frühere Identität.",
+        "Sie wird nicht zur Göttin Isis erklärt.",
+        "Eine römische Kaiserin ist nicht die Reinkarnationsrolle."
+      ],
+      "short": "Evelyn erinnert sich an Nefertiri als ihr früheres Leben.",
+      "context": "Rachel Weisz verkörpert Evelyn O’Connell und in Rückblenden Prinzessin Nefertiri. Der Film stellt dies als Reinkarnation dar, nicht als zufällige Doppelgängerin. Die alte Beziehung zu Anck-su-namun erklärt eine Gegnerschaft, die in der Gegenwart erneut wirksam wird. Dadurch erhalten gegenwärtige Handlungen eine zweite Ebene in der antiken Vorgeschichte.",
+      "anchor": "Evelyn und Nefertiri: zwei Lebenszeiten derselben erzählten Seele.",
+      "interest": "Evelyn und Nefertiri: zwei Lebenszeiten derselben erzählten Seele.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Mit welchem Fahrzeug verfolgt die Rettungsgruppe in @ die Entführer quer durch Ägypten?",
+      "answers": [
+        "Mit Izzys Luftschiff",
+        "Mit einem bewaffneten Flussdampfer",
+        "Mit einer Karawane geländegängiger Lastwagen",
+        "Mit einem kleinen Wasserflugzeug"
+      ],
+      "feedback": [
+        "Izzy fliegt die Gruppe mit einem Luftschiff.",
+        "Die Gruppe nutzt Izzys Luftschiff, keinen Flussdampfer.",
+        "Die Rettungsreise folgt den Entführern aus dem Luftschiff statt per Lastwagen.",
+        "Das eingesetzte Fluggerät ist ein Luftschiff und kein Wasserflugzeug."
+      ],
+      "short": "Izzy transportiert die Gruppe in seinem Luftschiff.",
+      "context": "Rick O’Connell (Brendan Fraser) nutzt die Hilfe seines alten Bekannten Izzy (Shaun Parkes). Das Luftschiff verbindet die Stationen der Verfolgung, während Alex (Freddie Boath) heimlich Hinweise hinterlässt. Die Rettung braucht daher beides: eine bewegliche Gruppe und ein Kind, das in Gefangenschaft aktiv bleibt und seine Eltern auf die richtige Spur bringt.",
+      "anchor": "Izzys Luftschiff folgt Alex’ versteckten Hinweisen.",
+      "interest": "Izzys Luftschiff folgt Alex’ versteckten Hinweisen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche besondere Waffe benötigt Rick O’Connell (Brendan Fraser) in @, um den Skorpionkönig zu besiegen?",
+      "answers": [
+        "Den Speer des Osiris",
+        "Ein Schwert aus Imhoteps Grab",
+        "Eine mit dem Buch der Toten geweihte Klinge",
+        "Einen Dolch der Prinzessin Nefertiri"
+      ],
+      "feedback": [
+        "Der zunächst als Zepter erscheinende Gegenstand ist der entscheidende Speer.",
+        "Die entscheidende Waffe ist der Speer des Osiris, kein Grabschwert.",
+        "Gesucht ist der Speer des Osiris und keine geweihte Klinge.",
+        "Rick benötigt einen Speer, nicht Nefertiris Dolch."
+      ],
+      "short": "Der Speer des Osiris kann den Skorpionkönig töten.",
+      "context": "Jonathan Carnahan (John Hannah) trägt einen Gegenstand bei sich, dessen Bedeutung erst im entscheidenden Moment erkannt wird. Rick O’Connell (Brendan Fraser) muss ihn als Speer einsetzen, um den Skorpionkönig zu besiegen. Ein zunächst nebensächlich wirkender Fund wird so zum Lösungsmittel. Seine Funktion ergibt sich aus der alten Überlieferung, nicht allein aus körperlicher Kraft.",
+      "anchor": "Jonathans Fund wird als Speer des Osiris zur Schlüsselwaffe.",
+      "interest": "Jonathans Fund wird als Speer des Osiris zur Schlüsselwaffe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welchen entscheidenden Gegensatz zeigt @ zwischen Evelyn (Rachel Weisz) und Anck-su-namun (Patricia Velásquez) beim Einsturz der Pyramide?",
+      "answers": [
+        "Evelyn rettet ihren Partner; Anck-su-namun lässt ihren zurück.",
+        "Beide lassen ihre Partner zurück, um selbst zu entkommen.",
+        "Anck-su-namun rettet ihren Partner, Evelyn flieht allein.",
+        "Beide retten ihre Partner erst nach gegenseitiger Hilfe."
+      ],
+      "feedback": [
+        "Ihre unterschiedlichen Rettungsentscheidungen beantworten den Partnerschaftskonflikt.",
+        "Evelyn handelt rettend, während Anck-su-namun den Partner verlässt.",
+        "Diese Option vertauscht den entscheidenden Gegensatz der beiden Frauen.",
+        "Die Szene stellt ihr unterschiedliches Handeln nebeneinander statt gemeinsamer Hilfe."
+      ],
+      "short": "Evelyn zieht Rick hoch, während Anck-su-namun Imhotep verlässt.",
+      "context": "Rick O’Connell (Brendan Fraser) und Imhotep (Arnold Vosloo) hängen am Abgrund. Evelyn (Rachel Weisz) geht ein Risiko ein, um Rick zu retten; Anck-su-namun (Patricia Velásquez) flieht dagegen ohne Imhotep. Die Fortsetzung beendet die alte Liebesgeschichte damit über eine konkrete Handlung. Behauptete Nähe und tatsächlich geleistete Hilfe fallen auf den beiden Seiten unterschiedlich aus.",
+      "anchor": "Am Abgrund entscheidet die Tat über die behauptete Liebe.",
+      "interest": "Am Abgrund entscheidet die Tat über die behauptete Liebe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2001",
+        "1999",
+        "2008",
+        "2014"
+      ],
+      "feedback": [
+        "Die Fortsetzung erschien 2001.",
+        "1999 gehört zum ersten Film der modernen Reihe.",
+        "2008 gehört zum späteren Drachenkaiser-Abenteuer.",
+        "2014 liegt nach dieser Fortsetzung."
+      ],
+      "short": "Der zweite Film erschien 2001.",
+      "context": "Der erste moderne Mumie-Film war kurz zuvor mit Brendan Fraser und Rachel Weisz erfolgreich gewesen. Die Fortsetzung übernimmt das Paar und erweitert die Geschichte um ihren Sohn. Das Veröffentlichungsjahr liegt am Beginn des neuen Jahrtausends, während die Gegenwart der Filmhandlung in den dreißiger Jahren liegt. Beide Zeitebenen sind für die Einordnung getrennt zu halten.",
+      "anchor": "1999 beginnt die Reihe; 2001 kehrt die Familie zurück.",
+      "interest": "1999 beginnt die Reihe; 2001 kehrt die Familie zurück.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer schrieb und inszenierte @ nach dem ersten Film der modernen Mumie-Reihe?",
+      "answers": [
+        "Stephen Sommers",
+        "Rob Cohen",
+        "Joe Johnston",
+        "Peter Jackson"
+      ],
+      "feedback": [
+        "Stephen Sommers führte erneut Regie und schrieb das Drehbuch.",
+        "Cohen übernahm erst das spätere Drachenkaiser-Abenteuer.",
+        "Johnston inszenierte diesen Film nicht.",
+        "Jackson führte hier nicht Regie."
+      ],
+      "short": "Stephen Sommers verantwortete Drehbuch und Regie.",
+      "context": "Stephen Sommers setzt die von ihm mitbegründete Abenteuerwelt mit vertrauter Besetzung fort. Brendan Fraser und Rachel Weisz bleiben das zentrale Paar, während Alex und der Skorpionkönig neue Aufgaben schaffen. Der gleiche Autor-Regisseur sorgt für eine erkennbare Kontinuität, obwohl die Fortsetzung die Handlung und die persönlichen Bindungen deutlich ausweitet.",
+      "anchor": "Sommers erweitert seine Mumie-Welt um Familie und Skorpionkönig.",
+      "interest": "Sommers erweitert seine Mumie-Welt um Familie und Skorpionkönig.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

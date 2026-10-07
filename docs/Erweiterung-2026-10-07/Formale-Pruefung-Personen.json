@@ -1,0 +1,92 @@
+{
+  "as_of": "2026-10-07",
+  "entries": 20,
+  "questions": 160,
+  "variants": 11,
+  "links": [
+    {
+      "question_id": "E20261007-P-001-L1",
+      "variant_of": "DRA-L-002",
+      "knowledge_id": "K-DRA-01-02",
+      "decision": "Derselbe Beruf von Andy Dufresne im selben Film."
+    },
+    {
+      "question_id": "E20261007-P-005-L1",
+      "variant_of": "SCHAUSPIELER-202610-P01-028-M-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-028-M-2",
+      "decision": "Dieselbe Geschwisterbeziehung zwischen Ben und Casey Affleck."
+    },
+    {
+      "question_id": "E20261007-P-005-S1",
+      "variant_of": "F240-20261006-074-L2",
+      "knowledge_id": "K-F240-20261006-074-L2",
+      "decision": "Dieselbe sichtbare Form des Geistes im selben Film."
+    },
+    {
+      "question_id": "E20261007-P-007-S1",
+      "variant_of": "E20261007-F-225-D",
+      "knowledge_id": "K-E20261007-F-225-D",
+      "decision": "Derselbe Regiecredit bei Frailty; die Personenfrage ergänzt Paxtons eigene Darstellung."
+    },
+    {
+      "question_id": "E20261007-P-008-L2",
+      "variant_of": "HOR-L-021",
+      "knowledge_id": "K-HOR-11-paul-schriftsteller",
+      "decision": "Derselbe Beruf Paul Sheldons in Misery; eigenständige Formulierung, gemeinsames Wissensziel."
+    },
+    {
+      "question_id": "E20261007-P-009-L1",
+      "variant_of": "CLA-L-013",
+      "knowledge_id": "K-CLA-07-01",
+      "decision": "Derselbe Darsteller-Figuren-Zusammenhang Peter O’Toole als T. E. Lawrence."
+    },
+    {
+      "question_id": "E20261007-P-010-M1",
+      "variant_of": "SCHAUSPIELER-202610-P01-017-S-2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-017-S-2",
+      "decision": "Derselbe porträtierte Jazzmusiker im Film Bird; die Frage wechselt vom Regisseur zum Darsteller."
+    },
+    {
+      "question_id": "E20261007-P-013-L1",
+      "variant_of": "DRA-L-030",
+      "knowledge_id": "K-DRA-15-02",
+      "decision": "Dieselbe Sportart der Figur Maggie im selben Film."
+    },
+    {
+      "question_id": "E20261007-P-015-M2",
+      "variant_of": "E20261007-F-189-L2",
+      "knowledge_id": "K-E20261007-F-189-L2",
+      "decision": "Derselbe berufliche Zusammenhang Sydney Ellen Wades als Umweltlobbyistin."
+    },
+    {
+      "question_id": "E20261007-P-016-M2",
+      "variant_of": "F240-20261006-201-D",
+      "knowledge_id": "K-F240-20261006-201-D",
+      "decision": "Derselbe Regiecredit bei Chinatown."
+    },
+    {
+      "question_id": "E20261007-P-018-M2",
+      "variant_of": "F240-20261006-169-M1",
+      "knowledge_id": "K-F240-20261006-169-M1",
+      "decision": "Dieselbe Figurenanlage Jeans: Betrügerrolle und echte Zuneigung zu Charles."
+    }
+  ],
+  "warnings": [],
+  "correctAnswers": {
+    "A": 40,
+    "B": 40,
+    "C": 40,
+    "D": 40
+  },
+  "csvSha256": "6dbb1e02edf30845b53ade11a7e3379d971077571afc74931c28fa23ef287c29",
+  "checks": {
+    "csvRereadExact": true,
+    "uniqueIds": true,
+    "independentGoals": true,
+    "fourDifficultyLevels": true,
+    "completeFeedback": true,
+    "minimumDepth35Words": true,
+    "filmReferencesResolved": true,
+    "existingInputBytesUnchanged": true
+  }
+}

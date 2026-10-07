@@ -1,0 +1,41 @@
+{
+  "as_of": "2026-10-07",
+  "complete": true,
+  "films": 280,
+  "questions": 2240,
+  "contentGoals": 1680,
+  "yearGoals": 280,
+  "directorGoals": 280,
+  "categories": {
+    "Abenteuer": 20,
+    "Action": 20,
+    "Drama": 20,
+    "Fantasy": 20,
+    "Horror": 20,
+    "Western": 20,
+    "Komödie": 20,
+    "Martial Arts & Asia-Film": 20,
+    "Musik": 20,
+    "Rom-Com": 20,
+    "Science-Fiction": 20,
+    "Thriller": 20,
+    "Classics": 20,
+    "Arthouse": 20
+  },
+  "variants": 4,
+  "correctAnswers": {
+    "A": 560,
+    "B": 560,
+    "C": 560,
+    "D": 560
+  },
+  "warnings": [],
+  "csvSha256": "d8276e0880755d76b4ee93941787011fb121df1dc550e33b1575c36b7a23821a",
+  "checks": {
+    "csvRereadExact": true,
+    "uniqueIds": true,
+    "minimumCoverage": true,
+    "sourceAliasesComplete": true,
+    "existingInputBytesUnchanged": true
+  }
+}

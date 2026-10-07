@@ -1,0 +1,216 @@
+{
+  "rank": 11,
+  "genre": "Abenteuer",
+  "titleDe": "Die Mumie: Das Grabmal des Drachenkaisers",
+  "originalTitle": "The Mummy: Tomb of the Dragon Emperor",
+  "year": 2008,
+  "articleUrl": "https://en.wikipedia.org/wiki/The_Mummy:_Tomb_of_the_Dragon_Emperor",
+  "familiarity": 2,
+  "selectionReason": "Erweitert die Abenteuerauswahl um Expeditionen, Entdeckungen und Entscheidungen in unbekannten Welten.",
+  "familiarity_reason": "Dritter Teil einer populären Abenteuerreihe mit Brendan Fraser und bekannten asiatischen Darstellern; weniger präsent als die ersten beiden Filme.",
+  "directors": [
+    "Rob Cohen"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Premiere in Moskau am 24. Juli 2008; US-Kinostart am 1. August 2008.",
+  "series": "Die Mumie",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Mummy:_Tomb_of_the_Dragon_Emperor"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Land liegt das neue alte Herrschergrab, das die Handlung von @ auslöst?",
+      "answers": [
+        "China",
+        "Ägypten",
+        "Peru",
+        "Griechenland"
+      ],
+      "feedback": [
+        "Das neue Abenteuer führt nach China.",
+        "Die ägyptische Schauplatztradition der ersten Filme wird verlassen.",
+        "Peru wird erst als späteres Reiseziel erwähnt.",
+        "Ein griechisches Grab ist nicht der Auslöser."
+      ],
+      "short": "Die Mumie-Reihe verlagert das zentrale Abenteuer nach China.",
+      "context": "Alex O’Connell (Luke Ford) findet das Grab eines alten Kaisers in China. Seine Eltern Rick (Brendan Fraser) und Evelyn (Maria Bello) geraten dadurch erneut in einen übernatürlichen Konflikt. Der Ortswechsel bringt eine andere Armee, andere historische Bilder und neue Verbündete in die Reihe. Die vertraute Familie erlebt daher eine eigenständige neue Gegnergeschichte.",
+      "anchor": "Die O’Connells verlassen die ägyptische Mumienwelt und reisen nach China.",
+      "interest": "Die O’Connells verlassen die ägyptische Mumienwelt und reisen nach China.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche historische Bildwelt greift @ für die verfluchte Armee des Kaisers auf?",
+      "answers": [
+        "Die Terrakotta-Armee",
+        "Die chinesischen bronzenen Ritualfiguren",
+        "Die steinernen Wächter ägyptischer Königsgräber",
+        "Die vergoldeten Soldaten eines Tempelreliefs"
+      ],
+      "feedback": [
+        "Der Kaiser und seine Soldaten werden zu Terrakottafiguren.",
+        "Die Bildidee knüpft an die Terrakotta-Armee an, nicht bronzene Ritualfiguren.",
+        "Die verfluchte Armee gehört zur chinesischen Terrakotta-Bildwelt statt zu Ägypten.",
+        "Es sind Terrakottasoldaten und nicht aus einem Goldrelief herausgelöste Figuren."
+      ],
+      "short": "Der Fluch verwandelt den Herrscher und seine Armee in Terrakotta.",
+      "context": "Zi Yuan (Michelle Yeoh) belegt den Kaiser (Jet Li) nach seinem Verrat mit einem Fluch. Die Soldaten werden wie der Herrscher zu tönernen Gestalten. Der Film greift damit ein bekanntes historisches Bild auf und verändert es zur Fantasyhandlung: Die erhaltene Armee ist hier nicht nur ein Grabensemble, sondern eine später wieder erwachende Bedrohung.",
+      "anchor": "Terrakottasoldaten werden im Abenteuer zur erwachenden Streitmacht.",
+      "interest": "Terrakottasoldaten werden im Abenteuer zur erwachenden Streitmacht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Rolle spielt das Auge von Shangri-La in @ bei der Wiederkehr des Kaisers?",
+      "answers": [
+        "Sein magisches Wasser erweckt ihn wieder.",
+        "Es löst die Versiegelung seines Grabes mechanisch.",
+        "Es zeigt den genauen Ort seiner verlorenen Krone.",
+        "Es ruft die Seelen der Terrakottasoldaten herbei."
+      ],
+      "feedback": [
+        "Die darin enthaltene Flüssigkeit belebt den Kaiser.",
+        "Das magische Wasser erweckt den Kaiser; ein mechanischer Schlüssel wäre eine andere Funktion.",
+        "Die Wiederkehr erfolgt durch das enthaltene Wasser, nicht eine Kronsuche.",
+        "Das Auge erweckt den Kaiser selbst und ruft nicht bloß Soldatenseelen."
+      ],
+      "short": "Das Auge enthält das Wasser, das den Kaiser wiederbelebt.",
+      "context": "Rick (Brendan Fraser) und Evelyn O’Connell (Maria Bello) sollen einen besonderen Gegenstand nach China zurückbringen. Dort wird er jedoch für die Wiederbelebung des Kaisers (Jet Li) benutzt. Der Auftrag, etwas Wertvolles an seinen Ort zurückzuführen, löst so eine neue Gefahr aus. Gute Absicht und tatsächliche Folge fallen zunächst auseinander.",
+      "anchor": "Die Rückgabe des Auges ermöglicht die Wiederkehr des Kaisers.",
+      "interest": "Die Rückgabe des Auges ermöglicht die Wiederkehr des Kaisers.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wer verkörpert Evelyn O’Connell in @ anstelle der Darstellerin aus den beiden früheren Filmen?",
+      "answers": [
+        "Maria Bello",
+        "Rachel Weisz",
+        "Michelle Yeoh",
+        "Isabella Leong"
+      ],
+      "feedback": [
+        "Maria Bello übernimmt die Evelyn-Rolle.",
+        "Weisz spielte Evelyn in den ersten beiden Filmen, hier nicht.",
+        "Yeoh spielt Zi Yuan.",
+        "Leong spielt Lin."
+      ],
+      "short": "Maria Bello spielt Evelyn O’Connell.",
+      "context": "Evelyn bleibt innerhalb der Geschichte Ricks Frau und Alex’ Mutter, obwohl Maria Bello die Rolle übernimmt. Rachel Weisz spielte sie in den früheren Filmen. Es handelt sich um einen Besetzungswechsel, nicht um eine neue Figur oder eine körperliche Verwandlung Evelyns. Diese Unterscheidung macht die Kontinuität der Filmfamilie trotz geändertem Gesicht verständlich.",
+      "anchor": "Neue Darstellerin, dieselbe Evelyn O’Connell.",
+      "interest": "Neue Darstellerin, dieselbe Evelyn O’Connell.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welchen Preis zahlen Zi Yuan (Michelle Yeoh) und Lin (Isabella Leong) in @, um eine Gegenarmee zu erwecken?",
+      "answers": [
+        "Sie geben ihre Unsterblichkeit auf.",
+        "Sie binden ihre eigenen Seelen an die erweckten Krieger.",
+        "Sie verzichten auf die Erinnerung an General Ming.",
+        "Sie müssen die Quelle von Shangri-La für immer schließen."
+      ],
+      "feedback": [
+        "Die Beschwörung kostet beide ihre Unsterblichkeit.",
+        "Der Preis ist ihre Unsterblichkeit statt einer Bindung als Kriegerseelen.",
+        "Sie opfern ihre Unsterblichkeit und nicht die persönliche Erinnerung.",
+        "Die Erweckung kostet ihnen das ewige Leben, nicht die dauernde Schließung der Quelle."
+      ],
+      "short": "Zi Yuan und Lin opfern ihre Unsterblichkeit für die Gegenwehr.",
+      "context": "Zi Yuan (Michelle Yeoh) und ihre Tochter Lin (Isabella Leong) leben seit langer Zeit durch das magische Wasser. Für den Widerstand gegen den Kaiser (Jet Li) geben sie diesen Schutz auf. Die Beschwörung einer Armee früherer Opfer ist deshalb keine kostenlose Machtsteigerung: Die beiden riskieren ihr eigenes künftiges Leben, um seine Herrschaft aufzuhalten.",
+      "anchor": "Die Gegenarmee wird mit eigener Unsterblichkeit bezahlt.",
+      "interest": "Die Gegenarmee wird mit eigener Unsterblichkeit bezahlt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Familienbeziehung verbindet Lin (Isabella Leong) mit der antiken Vorgeschichte von @?",
+      "answers": [
+        "Sie ist die Tochter von Zi Yuan und General Ming.",
+        "Sie ist die Tochter des verfluchten Kaisers.",
+        "Sie ist die jüngere Schwester von Zi Yuan.",
+        "Sie ist die Enkelin des Generals Ming."
+      ],
+      "feedback": [
+        "Lin stammt aus der Beziehung, die der Kaiser einst zerstörte.",
+        "Lin stammt von Zi Yuan und General Ming ab, nicht vom Kaiser.",
+        "Zi Yuan ist ihre Mutter statt ihrer Schwester.",
+        "Lin ist Mings Tochter und nicht seine Enkelin."
+      ],
+      "short": "Lin ist Zi Yuans und General Mings Tochter.",
+      "context": "Der Kaiser (Jet Li) lässt General Ming (Russell Wong) töten, weil Zi Yuan (Michelle Yeoh) und Ming einander lieben. Lin (Isabella Leong) trägt diese Vorgeschichte als ihre Tochter in die Gegenwart der Handlung. Ihre Hilfe gegen den Kaiser ist damit persönlich begründet und nicht bloß die zufällige Unterstützung einer fremden Abenteuergruppe.",
+      "anchor": "Lin verbindet die alte verratene Liebe mit dem neuen Widerstand.",
+      "interest": "Lin verbindet die alte verratene Liebe mit dem neuen Widerstand.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2008",
+        "1999",
+        "2001",
+        "2017"
+      ],
+      "feedback": [
+        "Premiere und Kinostart erfolgten 2008.",
+        "1999 gehört zum ersten modernen Mumie-Film.",
+        "2001 gehört zur ersten Fortsetzung.",
+        "2017 bezeichnet eine spätere andere Neuinterpretation des Stoffes."
+      ],
+      "short": "Das Drachenkaiser-Abenteuer erschien 2008.",
+      "context": "Zwischen der vorigen Fortsetzung und dem dritten Abenteuer liegen mehrere Jahre. Der Film verändert Schauplatz, Regie und die Evelyn-Besetzung, während Brendan Fraser als Rick zurückkehrt. Das Jahr hilft deshalb, zwei Arten von Kontinuität zu unterscheiden: Innerhalb der Handlung wächst die Familie weiter; außerhalb der Handlung wird das Produktionsteam teilweise neu zusammengestellt.",
+      "anchor": "2008: vertrauter Rick, neue Evelyn-Darstellerin und China-Abenteuer.",
+      "interest": "2008: vertrauter Rick, neue Evelyn-Darstellerin und China-Abenteuer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie, nachdem Stephen Sommers die ersten beiden modernen Mumie-Filme inszeniert hatte?",
+      "answers": [
+        "Rob Cohen",
+        "Stephen Sommers",
+        "Joe Johnston",
+        "Jon Turteltaub"
+      ],
+      "feedback": [
+        "Rob Cohen übernimmt die Regie.",
+        "Sommers ist hier Produzent, führte aber nicht Regie.",
+        "Johnston führte hier nicht Regie.",
+        "Turteltaub inszenierte dieses Mumie-Abenteuer nicht."
+      ],
+      "short": "Rob Cohen inszenierte den dritten Film.",
+      "context": "Rob Cohen übernimmt die Inszenierung, während Stephen Sommers als Produzent beteiligt bleibt. Die bekannte Reihe behält Brendan Fraser in der Hauptrolle, verändert aber ihren räumlichen und mythologischen Schwerpunkt. Ein wiederkehrender Name im Produktionsteam bedeutet deshalb nicht automatisch den gleichen Regiecredit. Hier liegt die Verantwortung für die Inszenierung bei Cohen.",
+      "anchor": "Cohen führt Regie; Sommers bleibt als Produzent beteiligt.",
+      "interest": "Cohen führt Regie; Sommers bleibt als Produzent beteiligt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

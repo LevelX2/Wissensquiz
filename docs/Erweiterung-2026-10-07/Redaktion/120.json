@@ -1,0 +1,216 @@
+{
+  "rank": 120,
+  "titleDe": "Bravados",
+  "originalTitle": "The Bravados",
+  "year": 1958,
+  "genre": "Western",
+  "familiarity": 4,
+  "directors": [
+    "Henry King"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Erstaufführung am 25. Juni 1958; der reguläre US-Verleihjahrgang Juli 1958 ist später. Mexiko ist der Drehort, nicht das Produktionsland.",
+  "familiarity_reason": "Henry Kings Rachewestern mit Gregory Peck bleibt trotz bekannter Besetzung vor allem ein Titel für das klassische Westernpublikum; Bekanntheit 4.",
+  "sources": {
+    "afi": "https://catalog.afi.com/Film/52488-THE-BRAVADOS",
+    "verleih": "https://www.rottentomatoes.com/m/bravados",
+    "kritik": "https://www.timeout.com/movies/the-bravados",
+    "handlung": "https://en.wikipedia.org/wiki/The_Bravados"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum möchte Jim Douglass in @ die Hinrichtung der vier Gefangenen sehen?",
+      "answers": [
+        "Er hält sie für die Mörder seiner Frau.",
+        "Er möchte ihre letzte Aussage zu einem früheren Überfall hören.",
+        "Er will als Zeuge die Rechtmäßigkeit des Urteils sichern.",
+        "Er möchte einen ausstehenden Kopfgeldanspruch bestätigen lassen."
+      ],
+      "feedback": [
+        "Jim glaubt, in ihnen die Täter seines persönlichen Verlustes zu sehen.",
+        "Jim glaubt an ihre Verantwortung für den Mord an seiner Frau.",
+        "Sein Antrieb ist persönlicher Rachedrang und nicht neutrale Verfahrensbeobachtung.",
+        "Er sucht Gewissheit und Vergeltung, keinen gewöhnlichen Kopfgeldnachweis."
+      ],
+      "short": "Jim glaubt, in ihnen die Täter seines persönlichen Verlustes zu sehen.",
+      "context": "Jim Douglass (Gregory Peck) glaubt, die vier Gefangenen hätten seine Frau ermordet. Die bevorstehende Hinrichtung verspricht ihm deshalb eine persönliche Genugtuung. Der Film beginnt mit einem scheinbaren Zusammenfallen von öffentlicher Strafe und privater Überzeugung, dessen Grundlage erst im Verlauf der Verfolgung kritisch sichtbar wird.",
+      "anchor": "Jim erwartet von der öffentlichen Strafe die Bestätigung seiner privaten Täterüberzeugung.",
+      "interest": "Erfasst den anfänglichen Anspruch auf Genugtuung.",
+      "sources": [
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche zusätzliche Gefahr erzeugt die Flucht der Gefangenen in @?",
+      "answers": [
+        "Sie nehmen eine junge Frau als Geisel mit.",
+        "Sie setzen das Gefängnis mit allen übrigen Insassen in Brand.",
+        "Sie drohen unmittelbar mit der Ermordung des Richters.",
+        "Sie lassen einen bewaffneten Helfer im Ort zurück."
+      ],
+      "feedback": [
+        "Emma gerät als Geisel in die Flucht.",
+        "Die flüchtenden Männer nehmen Emma als Geisel mit.",
+        "Die zusätzliche unmittelbare Gefahr gilt der entführten jungen Frau.",
+        "Die Gruppe schafft die neue Gefahr durch die Geiselnahme und nicht durch einen zurückgelassenen Helfer."
+      ],
+      "short": "Emma gerät als Geisel in die Flucht.",
+      "context": "Die flüchtenden Männer nehmen Emma (Kathleen Gallant) mit. Die Verfolgung besitzt dadurch neben Jims (Gregory Peck) persönlichem Ziel einen konkreten Rettungsanlass. Seine Gewissheit über die Vergangenheit und die aktuelle Gefahr für die Geisel laufen zusammen, obwohl sie unterschiedliche Fragen an Schuld und Handeln stellen.",
+      "anchor": "Die Geisel schafft einen aktuellen Rettungsanlass neben der persönlichen Rache.",
+      "interest": "Unterscheidet die beiden Anlässe der Verfolgung.",
+      "sources": [
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie ermöglicht ein angeblicher Henker in @ den Ausbruch?",
+      "answers": [
+        "Er ist ein Betrüger und greift den Sheriff im Gefängnis an.",
+        "Er vergiftet den Sheriff bei einem gemeinsamen Essen.",
+        "Er schmuggelt den Männern allein die nötigen Schlüssel zu.",
+        "Er löst die Fesseln unter einem echten gerichtlichen Auftrag."
+      ],
+      "feedback": [
+        "Der falsche Henker nutzt seinen Zugang für den Angriff.",
+        "Der falsche Henker greift den Sheriff im Gefängnis an; es ist kein vergiftetes Essen.",
+        "Sein aktiver Angriff auf den Sheriff schafft den Ausbruch und nicht nur ein Schlüsseltransport.",
+        "Er hat keine gültige behördliche Freilassungsvollmacht."
+      ],
+      "short": "Der falsche Henker nutzt seinen Zugang für den Angriff.",
+      "context": "Der als Henker auftretende Mann (Joe DeRita) ist ein Betrüger. Sein erwartetes Amt verschafft ihm Zugang zu den Gefangenen, den er für den Angriff auf Sheriff Sanchez (Herbert Rudley) nutzt. Die Handlung zeigt damit, wie eine scheinbar verlässliche Rolle ungeprüft genau den gefährlichen Zugang eröffnen kann.",
+      "anchor": "Der vorgetäuschte Henker nutzt das Vertrauen in sein Amt für den Ausbruch.",
+      "interest": "Erklärt den Zugang über eine falsche Amtsidentität.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche entscheidende Erkenntnis erschüttert Jims Rachegewissheit in @?",
+      "answers": [
+        "Die Verfolgten begingen andere Verbrechen, aber nicht den Mord an seiner Frau.",
+        "Nur einer der Verfolgten war am Mord beteiligt.",
+        "Ein Verfolgter hatte den Mord befohlen, ohne selbst anwesend zu sein.",
+        "Alle vier deckten den Mörder aus eigener Verwandtschaft."
+      ],
+      "feedback": [
+        "Die Schuld an anderen Taten bestätigt seine persönliche Mordbehauptung nicht.",
+        "Auch die teilweise Beteiligung der vier an diesem Mord erweist sich als falsche Annahme.",
+        "Keiner der vier hat den Mord an Jims Frau als Auftraggeber zu verantworten.",
+        "Die Entdeckung trennt ihre tatsächlichen anderen Delikte von Jims persönlichem Fall."
+      ],
+      "short": "Die Schuld an anderen Taten bestätigt seine persönliche Mordbehauptung nicht.",
+      "context": "Jim (Gregory Peck) muss erkennen, dass die Männer nicht die Mörder seiner Frau sind. Ihre anderen Verbrechen machen seine eigene Täterbehauptung nicht richtig. Die Wendung trennt daher allgemeine Schuld von der konkreten Tat, für die er sie persönlich verfolgt und bereits Menschen getötet hat.",
+      "anchor": "Andere Schuld der Männer beweist nicht die von Jim behauptete konkrete Tat.",
+      "interest": "Erklärt die Grenze seiner vermeintlichen Racheberechtigung.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Auskunft über den Geldsack führt Jim in @ zur Erkenntnis des wirklichen Täters?",
+      "answers": [
+        "Lujan hat ihn von Jims Nachbarn Butler genommen.",
+        "Lujan hat ihn beim Überfall auf den Gefangenentransport erbeutet.",
+        "Lujan hat ihn von einem der inzwischen getöteten Flüchtigen erhalten.",
+        "Lujan hat ihn auf dem Weg vor Jims Haus gefunden."
+      ],
+      "feedback": [
+        "Die Herkunft des Geldes führt zu Butler.",
+        "Lujans Erklärung weist auf den Nachbarn Butler und keinen Transportüberfall.",
+        "Der Sack stammt nach seiner Auskunft von Butler, nicht bloß von den Mitflüchtigen.",
+        "Die Quelle des Geldes ist Butler und kein zufälliger Fund vor dem Haus."
+      ],
+      "short": "Die Herkunft des Geldes führt zu Butler.",
+      "context": "Lujan (Henry Silva) erklärt Jim (Gregory Peck), dass der Geldsack von Butler (Gene Evans) stammt. Jim erkennt darin die Verbindung zum wirklichen Täter. Wieder führt ein Gegenstand zur Vergangenheit, diesmal aber durch eine überprüfbare Herkunftsauskunft statt durch die bloße Wiederholung seines bisherigen Verdachts.",
+      "anchor": "Die erklärte Herkunft des Geldes führt von den Verfolgten zum wirklichen Täter Butler.",
+      "interest": "Verknüpft Sachspur und korrigierte Tätererkenntnis.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Womit muss Jim nach seiner Erkenntnis in @ in der Kirche umgehen?",
+      "answers": [
+        "Mit der eigenen Schuld an den von ihm getöteten Falschen",
+        "Mit dem Wunsch, seine Tötungen weiterhin als gerechtes Urteil zu verteidigen",
+        "Mit dem Auftrag, die Schuld ausschließlich dem Sheriff zuzuweisen",
+        "Mit der Gewissheit, dass eine öffentliche Ehrung jede Schuld beseitigt"
+      ],
+      "feedback": [
+        "Er sucht Vergebung für das eigene Töten.",
+        "Die Erkenntnis zwingt Jim zur Auseinandersetzung mit seiner eigenen Schuld.",
+        "Er kann die Verantwortung für seine Rache nicht einfach auf den Sheriff übertragen.",
+        "Anerkennung durch andere hebt seine persönliche Verantwortung nicht auf."
+      ],
+      "short": "Er sucht Vergebung für das eigene Töten.",
+      "context": "Jim (Gregory Peck) kehrt zur Kirche zurück und sucht Vergebung. Die richtige Erkenntnis löscht die Folgen seiner falschen Überzeugung nicht. Der Film beendet die Reise deshalb mit einer neuen Verantwortung: Er muss die eigene Tat anerkennen, statt seine Gewalt weiterhin allein mit dem ursprünglichen Verlust zu rechtfertigen.",
+      "anchor": "Die erkannte Wahrheit verlangt Verantwortung für die eigene nicht rückgängig zu machende Gewalt.",
+      "interest": "Erklärt die moralische Aufgabe nach der Rachewendung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, zwei Jahre nachdem Fox 1956 die Rechte an O’Rourkes Stoff kaufte?",
+      "answers": [
+        "1958",
+        "1957",
+        "1959",
+        "1960"
+      ],
+      "feedback": [
+        "1958 liegt zwei Jahre nach dem Rechtekauf.",
+        "1957 liegt ein Jahr danach.",
+        "1959 liegt drei Jahre danach.",
+        "1960 liegt vier Jahre danach."
+      ],
+      "short": "1958 liegt zwei Jahre nach dem Rechtekauf.",
+      "context": "Fox kaufte 1956 die Rechte an Frank O’Rourkes Stoff, laut AFI noch vor dessen Veröffentlichung. Die Filmfassung erschien 1958, zwei Jahre später. Der Zeitanker verbindet daher eine frühe Produktionsentscheidung mit dem späteren Kinojahr. Die Rechte konnten erworben werden, bevor das Publikum die literarische Fassung allgemein kannte.",
+      "anchor": "1956 der frühe Rechtekauf, 1958 der Kinofilm: zwei Jahre von Erwerb bis Veröffentlichung.",
+      "interest": "Verankert das Jahr in einer konkreten Produktionsentscheidung.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Henry King",
+        "Henry Hathaway",
+        "Delmer Daves",
+        "John Sturges"
+      ],
+      "feedback": [
+        "King inszenierte den Film.",
+        "Hathaway führte hier nicht Regie.",
+        "Daves führte hier nicht Regie.",
+        "Sturges führte hier nicht Regie."
+      ],
+      "short": "King inszenierte den Film.",
+      "context": "Henry King führte Regie, Gregory Peck spielte Jim Douglass (Gregory Peck). Time Out ordnet den Film ihrer wiederholten Zusammenarbeit zu und hebt Leon Shamroys breites Kamerabild hervor. Die Inszenierung verbindet die Bewegung durch große Landschaften mit einer immer engeren persönlichen Überzeugung, die sich am Ende als falsch erweist.",
+      "anchor": "King verbindet weite Verfolgungslandschaften mit der gefährlich verengten Gewissheit des Helden.",
+      "interest": "Verknüpft den Regiecredit mit dem konkreten Gestaltungsproblem.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

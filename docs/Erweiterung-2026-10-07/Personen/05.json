@@ -1,0 +1,204 @@
+{
+  "entry": 5,
+  "personId": "ACTOR-20261007-005",
+  "name": "Casey Affleck",
+  "articleUrl": "https://en.wikipedia.org/wiki/Casey_Affleck",
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche familiäre Beziehung verbindet Casey Affleck mit Ben Affleck?",
+      "answers": [
+        "Sie sind Brüder",
+        "Sie sind Vater und Sohn",
+        "Sie sind Cousins",
+        "Sie sind nicht verwandt"
+      ],
+      "context": "Casey und Ben Affleck sind Brüder. Ihre Karrieren überschneiden sich besonders bei „Gone Baby Gone“, in dem Ben Regie führte und Casey einen Privatdetektiv spielte. Die Verwandtschaft erklärt einen Teil ihrer Zusammenarbeit, ersetzt aber keine eigenen Leistungen. Casey wurde auch in Filmen anderer Regisseure bekannt, darunter Kenneth Lonergans „Manchester by the Sea“.",
+      "short": "Casey und Ben Affleck sind Brüder.",
+      "anchor": "Zwei Brüder, eigenständige Karrieren, gelegentliche Zusammenarbeit.",
+      "interest": "Die Verwandtschaft erklärt einen familiären Bezug, ohne die eigenständigen Karrieren gleichzusetzen.",
+      "feedback": [
+        "Casey und Ben Affleck sind Brüder.",
+        "Ben ist nicht Caseys Vater.",
+        "Ihre Beziehung ist enger als eine Cousin-Verwandtschaft.",
+        "Der gemeinsame Familienname bezeichnet hier eine tatsächliche Bruderbeziehung."
+      ],
+      "films": [],
+      "extraSources": [],
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-028-M-2",
+      "variant_of": "SCHAUSPIELER-202610-P01-028-M-2",
+      "knowledge_note": "Dieselbe Geschwisterbeziehung zwischen Ben und Casey Affleck."
+    },
+    {
+      "code": "L2",
+      "question": "Mit wem bildet Casey Affleck in „Ocean’s Eleven“ das Brüderpaar der Malloys?",
+      "answers": [
+        "Scott Caan",
+        "Matt Damon",
+        "Brad Pitt",
+        "Don Cheadle"
+      ],
+      "context": "Casey Affleck und Scott Caan spielen die Malloy-Brüder Virgil und Turk. Sie helfen dem Team um Danny Ocean (George Clooney) mit Transport, Ablenkung und praktischen Einsätzen. Ihre Konkurrenz liefert komische Momente innerhalb des großen Ensembles. Affleck gehört also zum Helferteam; er verkörpert weder den Initiator des Coups noch dessen Gegner im Casino.",
+      "short": "Casey Affleck und Scott Caan spielen die Malloy-Brüder Virgil und Turk.",
+      "anchor": "Affleck und Caan bilden die streitlustigen Malloy-Brüder.",
+      "interest": "Das Brüderpaar erfüllt eine komische Funktion innerhalb des größeren Ocean’s-Ensembles.",
+      "feedback": [
+        "Casey Affleck und Scott Caan spielen die Malloy-Brüder Virgil und Turk.",
+        "Matt Damon spielt Linus Caldwell.",
+        "Brad Pitt spielt Rusty Ryan.",
+        "Don Cheadle spielt den Sprengstoffexperten Basher Tarr."
+      ],
+      "films": [
+        "Ocean’s Eleven|2001"
+      ],
+      "extraSources": []
+    },
+    {
+      "code": "M1",
+      "question": "Welche Alltagstätigkeit hat Casey Afflecks Figur Lee Chandler zu Beginn von „Manchester by the Sea“?",
+      "answers": [
+        "Hausmeister und Handwerker",
+        "Hochschuldozent",
+        "Restaurantkoch",
+        "Fischer auf einem Hochseetrawler"
+      ],
+      "context": "Lee Chandler arbeitet als Hausmeister und erledigt Reparaturen. Casey Affleck spielt ihn als zurückgezogenen Mann, den der Tod seines Bruders wieder in seine Heimat führt. Dort muss er Verantwortung für den Neffen Patrick (Lucas Hedges) übernehmen, während eine frühere Tragödie weiterhin sein Leben bestimmt. Die unauffällige Arbeit bildet den Ausgangspunkt eines Films über Trauer und begrenzte Heilungsmöglichkeiten.",
+      "short": "Lee Chandler arbeitet als Hausmeister und erledigt Reparaturen.",
+      "anchor": "Lees unscheinbare Arbeit rahmt eine schwer belastete Lebensgeschichte.",
+      "interest": "Lees Beruf rahmt eine Figur, deren Alltagsarbeit von schweren privaten Erfahrungen begleitet wird.",
+      "feedback": [
+        "Lee Chandler arbeitet als Hausmeister und erledigt Reparaturen.",
+        "Er arbeitet nicht als Hochschullehrer.",
+        "Sein Beruf ist nicht die Küchenarbeit.",
+        "Der Familienbezug zum Fischereiumfeld macht ihn nicht zum Trawlerfischer."
+      ],
+      "films": [
+        "Manchester by the Sea|2016"
+      ],
+      "extraSources": []
+    },
+    {
+      "code": "M2",
+      "question": "Wen begleitet Casey Afflecks Regiearbeit „I’m Still Here“ in einer inszenierten scheinbaren Dokumentation?",
+      "answers": [
+        "Joaquin Phoenix",
+        "Christian Bale",
+        "Jake Gyllenhaal",
+        "Ryan Gosling"
+      ],
+      "context": "„I’m Still Here“ zeigt Joaquin Phoenix bei einem scheinbaren Wechsel vom Schauspiel zur Rapmusik. Casey Affleck inszenierte das Projekt, dessen öffentliche Auftritte zunächst Spekulationen über Phoenix’ Zustand auslösten. Später wurde die bewusste Inszenierung klargestellt. Das Werk spielt somit mit der Grenze zwischen beobachtender Dokumentation, einer erfundenen Persona und der medialen Reaktion darauf.",
+      "short": "„I’m Still Here“ zeigt Joaquin Phoenix bei einem scheinbaren Wechsel vom Schauspiel zur Rapmusik.",
+      "anchor": "Phoenix’ vermeintlicher Karrierebruch war Teil der Inszenierung.",
+      "interest": "Das Projekt verbindet Afflecks Regiearbeit mit einer Inszenierung vermeintlich dokumentarischer Öffentlichkeit.",
+      "feedback": [
+        "„I’m Still Here“ zeigt Joaquin Phoenix bei einem scheinbaren Wechsel vom Schauspiel zur Rapmusik.",
+        "Christian Bale ist nicht die zentrale beobachtete Person.",
+        "Jake Gyllenhaal steht nicht im Mittelpunkt dieses Projekts.",
+        "Ryan Gosling ist nicht der vermeintliche Rap-Neuling des Films."
+      ],
+      "films": [
+        "I’m Still Here|2010"
+      ],
+      "extraSources": []
+    },
+    {
+      "code": "S1",
+      "question": "Was begrenzt Casey Afflecks sichtbares Spiel in David Lowerys „A Ghost Story“ ungewöhnlich stark?",
+      "answers": [
+        "Seine Figur trägt lange ein weißes Bettlaken",
+        "Seine Figur erscheint nur auf alten Fotografien",
+        "Seine Figur wird vollständig digital ersetzt",
+        "Seine Figur bleibt ausschließlich eine Telefonstimme"
+      ],
+      "context": "Casey Afflecks Figur stirbt früh und kehrt als Geist mit einem weißen Bettlaken zurück. David Lowery nutzt diese einfache Darstellung, um Zeit, Verlust und die Bindung an einen Ort zu untersuchen. Affleck muss Präsenz durch Körperhaltung und Bewegung vermitteln, während sein Gesicht verborgen bleibt. Rooney Mara spielt die Partnerin, die mit dem Verlust weiterleben muss.",
+      "short": "Casey Afflecks Figur stirbt früh und kehrt als Geist mit einem weißen Bettlaken zurück.",
+      "anchor": "Das Laken verwandelt Mimik in körperliche Präsenz.",
+      "interest": "Die verdeckten Gesichtszüge erklären, weshalb Bewegung und Haltung die Darstellung des Geistes tragen.",
+      "feedback": [
+        "Casey Afflecks Figur stirbt früh und kehrt als Geist mit einem weißen Bettlaken zurück.",
+        "Die Figur ist körperlich in den Szenen anwesend.",
+        "Der Geist wird nicht durchgehend durch eine digitale Figur ersetzt.",
+        "Es ist keine ausschließlich über das Telefon vermittelte Rolle."
+      ],
+      "films": [
+        "A Ghost Story|2017"
+      ],
+      "extraSources": [],
+      "knowledge_id": "K-F240-20261006-074-L2",
+      "variant_of": "F240-20261006-074-L2",
+      "knowledge_note": "Dieselbe sichtbare Form des Geistes im selben Film."
+    },
+    {
+      "code": "S2",
+      "question": "Welche drei kreativen Aufgaben verbindet Casey Affleck bei „Light of My Life“?",
+      "answers": [
+        "Drehbuch, Regie und Hauptrolle",
+        "Kamera, Filmmusik und Synchronregie",
+        "Schnitt, Kostüm und Produktionsdesign",
+        "Stunts, Casting und Tonmischung"
+      ],
+      "context": "Casey Affleck schrieb „Light of My Life“, führte Regie und spielte den Vater des Mädchens Rag (Anna Pniowsky). Die Geschichte konzentriert sich auf den Schutz eines Kindes in einer veränderten Gesellschaft. Seine Mehrfachfunktion gibt dem Projekt eine enge Verbindung zwischen Text, Inszenierung und Darstellung. Die Aufgabe geht damit über eine Auftragsrolle hinaus, ohne ihm sämtliche technischen Gewerke des Films zuzuschreiben.",
+      "short": "Casey Affleck schrieb „Light of My Life“, führte Regie und spielte den Vater.",
+      "anchor": "Light of My Life verbindet Afflecks Schreiben, Regie und Schauspiel.",
+      "interest": "Die drei Aufgaben verbinden Afflecks Gestaltung einer Krisenwelt mit der Darstellung einer Vaterrolle.",
+      "feedback": [
+        "Casey Affleck schrieb „Light of My Life“, führte Regie und spielte den Vater.",
+        "Diese technischen Aufgaben bilden nicht seine zentrale Dreifachfunktion.",
+        "Kostüm und Produktionsdesign sind nicht die hier belegte Kombination.",
+        "Das sind nicht seine drei ausgewiesenen kreativen Hauptaufgaben."
+      ],
+      "films": [
+        "Light of My Life|2019"
+      ],
+      "extraSources": []
+    },
+    {
+      "code": "E1",
+      "question": "Wie heißt der gemeinsam mit Matt Damon gespielte Film, dessen Drehbuch Casey Affleck mit Damon und Gus Van Sant entwickelte?",
+      "answers": [
+        "Gerry",
+        "Good Will Hunting",
+        "The Talented Mr. Ripley",
+        "The Bourne Identity"
+      ],
+      "context": "Casey Affleck, Matt Damon und Gus Van Sant entwickelten gemeinsam das Drehbuch zu „Gerry“. Affleck und Damon spielen zwei Männer, die sich beim Wandern in der Wüste verirren. Lange Einstellungen und reduzierte Dialoge prägen den Film. Die Schreibbeteiligung unterscheidet dieses Projekt von Afflecks Nebenrolle in „Good Will Hunting“, dessen Drehbuch von Ben Affleck und Damon stammt.",
+      "short": "Casey Affleck, Matt Damon und Gus Van Sant entwickelten gemeinsam das Drehbuch zu „Gerry“.",
+      "anchor": "Gerry verbindet Caseys Mitautorschaft mit einem stark reduzierten Zweipersonenfilm.",
+      "interest": "Die Mitautorschaft zeigt Afflecks Beteiligung an einem stark reduzierten, gemeinsam entwickelten Film.",
+      "feedback": [
+        "Casey Affleck, Matt Damon und Gus Van Sant entwickelten gemeinsam das Drehbuch zu „Gerry“.",
+        "Good Will Hunting wurde von Ben Affleck und Matt Damon geschrieben.",
+        "Casey Affleck gehört nicht zu dieser Drehbuchkonstellation.",
+        "Die Bourne-Verfilmung ist kein gemeinsames Drehbuch dieser drei."
+      ],
+      "films": [
+        "Gerry|2002"
+      ],
+      "extraSources": []
+    },
+    {
+      "code": "E2",
+      "question": "Welche Person spielt Casey Affleck in Christopher Nolans „Oppenheimer“?",
+      "answers": [
+        "Boris Pash",
+        "Leslie Groves",
+        "Lewis Strauss",
+        "Edward Teller"
+      ],
+      "context": "Casey Affleck spielt Boris Pash, einen Offizier der militärischen Spionageabwehr. Seine Befragung des Physikers J. Robert Oppenheimer (Cillian Murphy) gehört zur Untersuchung von Sicherheitsrisiken und politischen Kontakten. Die kurze Rolle verändert den Ton durch konzentrierte Bedrohlichkeit. Sie unterscheidet sich von Matt Damons General Leslie Groves und Robert Downey Jr.s Lewis Strauss, die andere Machtpositionen in der Geschichte besetzen.",
+      "short": "Casey Affleck spielt Boris Pash, einen Offizier der militärischen Spionageabwehr.",
+      "anchor": "Afflecks Pash steht für militärische Spionageabwehr.",
+      "interest": "Die Rolle verortet Affleck im militärischen Machtapparat des historischen Ensembles.",
+      "feedback": [
+        "Casey Affleck spielt Boris Pash, einen Offizier der militärischen Spionageabwehr.",
+        "Leslie Groves wird von Matt Damon gespielt.",
+        "Lewis Strauss wird von Robert Downey Jr. gespielt.",
+        "Edward Teller wird von Benny Safdie gespielt."
+      ],
+      "films": [
+        "Oppenheimer|2023"
+      ],
+      "extraSources": []
+    }
+  ]
+}

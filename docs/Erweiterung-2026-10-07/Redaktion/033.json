@@ -1,0 +1,220 @@
+{
+  "rank": 33,
+  "genre": "Action",
+  "titleDe": "Kick-Ass",
+  "originalTitle": "Kick-Ass",
+  "year": 2010,
+  "articleUrl": "https://en.wikipedia.org/wiki/Kick-Ass_(film)",
+  "familiarity": 2,
+  "selectionReason": "Erweitert die Actionauswahl um Konflikte, Rettungsentscheidungen und die Inszenierung riskanter Einsätze.",
+  "familiarity_reason": "Kick-Ass und Hit-Girl sowie Aaron Taylor-Johnson, Chloë Grace Moretz und Nicolas Cage verankern den ursprünglichen Film im verbreiteten Superheldenkino. Der klare Figuren- und Titelbezug trägt Bekanntheit 2.",
+  "directors": [
+    "Matthew Vaughn"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA"
+  ],
+  "release_note": "Weltpremiere als Eröffnungsfilm von SXSW am 12. März 2010; britischer Kinostart am 26. März, US-Start am 16. April.",
+  "series": "Kick-Ass",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Kick-Ass_(film)",
+    "festival": "https://sxsw.com/about/history/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was unterscheidet Dave Lizewski (Aaron Taylor-Johnson) in @ zu Beginn von vielen klassischen Comic-Superhelden?",
+      "answers": [
+        "Er besitzt keine übernatürlichen Kräfte.",
+        "Er hat bereits eine geheime militärische Eliteausbildung.",
+        "Er ist ein außerirdischer Besucher in menschlicher Gestalt.",
+        "Er hat seinen Körper vollständig durch Robotertechnik ersetzt."
+      ],
+      "feedback": [
+        "Dave ist ein gewöhnlicher Jugendlicher ohne Superkräfte.",
+        "Eine Eliteausbildung geht seinem Versuch nicht voraus.",
+        "Er ist kein Außerirdischer.",
+        "Metallimplantate nach einer Verletzung machen ihn nicht zum vollständig ersetzten Roboter."
+      ],
+      "short": "Dave beginnt als gewöhnlicher Jugendlicher ohne Superkräfte.",
+      "context": "Dave Lizewski (Aaron Taylor-Johnson) fragt sich, weshalb niemand die Comicidee eines Superhelden praktisch umsetzt. Er versucht es selbst und wird schwer verletzt. Der Film nimmt damit die Entfernung zwischen Fantasie und körperlicher Wirklichkeit ernst, obwohl seine Action später sehr überzeichnet ist. Ein Kostüm schafft zunächst weder Erfahrung noch Schutz noch außergewöhnliche Fähigkeiten.",
+      "anchor": "Das Kostüm gibt Dave einen Namen, aber zunächst keinen Schutz.",
+      "interest": "Das Kostüm gibt Dave einen Namen, aber zunächst keinen Schutz.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Beziehung verbindet Hit-Girl (Chloë Grace Moretz) und Big Daddy (Nicolas Cage) in @?",
+      "answers": [
+        "Sie ist seine Tochter.",
+        "Sie ist seine jüngere Schwester.",
+        "Sie ist eine zufällig gefundene neue Schülerin ohne Verwandtschaft.",
+        "Sie ist eine verkleidete Ermittlerin, die ihn überwacht."
+      ],
+      "feedback": [
+        "Mindy ist die Tochter des früheren Polizisten Damon Macready.",
+        "Die beiden sind keine Geschwister.",
+        "Ihre Ausbildung gehört zur familiären Beziehung.",
+        "Mindy führt keine verdeckte Überwachung des Vaters durch."
+      ],
+      "short": "Hit-Girl ist Big Daddys Tochter.",
+      "context": "Mindy Macready (Chloë Grace Moretz) und Damon Macready (Nicolas Cage) treten als Hit-Girl und Big Daddy auf. Der Vater hat seine Tochter für einen gewaltsamen Rachefeldzug ausgebildet. Ihre Nähe ist deshalb zugleich familiär und funktional. Der Film zeigt nicht bloß zwei beliebige maskierte Partner, sondern eine Kindheit, die von der Kampfmission des Vaters geprägt wird.",
+      "anchor": "Mindy wächst innerhalb der Rachemission ihres Vaters auf.",
+      "interest": "Mindy wächst innerhalb der Rachemission ihres Vaters auf.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wie wird Dave Lizewski (Aaron Taylor-Johnson) als kostümierter Kämpfer in @ öffentlich bekannt?",
+      "answers": [
+        "Ein gefilmter Straßenkampf verbreitet sich im Internet.",
+        "Die Polizei stellt ihn offiziell als neue Hilfskraft vor.",
+        "Eine Zeitung entdeckt zuerst seine militärische Personalakte.",
+        "Sein Vater wirbt im Fernsehen für dessen Sicherheitsfirma."
+      ],
+      "feedback": [
+        "Die Aufzeichnung seiner Hilfe bei einem Angriff verbreitet sich online.",
+        "Eine offizielle Polizeirolle bekommt er nicht.",
+        "Eine Militärakte existiert nicht als Ursprung seines Ruhms.",
+        "Der Vater startet keine solche Werbekampagne."
+      ],
+      "short": "Ein online verbreitetes Video macht ihn bekannt.",
+      "context": "Dave Lizewski (Aaron Taylor-Johnson) greift bei einem Straßenangriff ein, und jemand filmt die Auseinandersetzung. Die Verbreitung gibt seinem Kostüm eine öffentliche Identität. Er richtet anschließend einen eigenen Kontaktweg im Internet ein. Sichtbarkeit ersetzt hier jedoch nicht Kompetenz: Der Ruhm bringt neue Anfragen und Erwartungen, die den unerfahrenen Kämpfer noch stärker überfordern können.",
+      "anchor": "Die Kamera schafft Bekanntheit schneller als der Kampf Erfahrung schafft.",
+      "interest": "Die Kamera schafft Bekanntheit schneller als der Kampf Erfahrung schafft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum freundet sich Chris D’Amico (Christopher Mintz-Plasse) in @ unter dem Namen Red Mist mit Dave (Aaron Taylor-Johnson) an?",
+      "answers": [
+        "Er soll ihn für seinen kriminellen Vater in eine Falle locken.",
+        "Er wurde von der Polizei als Daves Schutzperson abgestellt.",
+        "Er will ihn als Nachfolger für seinen verstorbenen Vater ausbilden.",
+        "Er hat den gleichen Racheplan gegen seinen eigenen Vater wie Hit-Girl."
+      ],
+      "feedback": [
+        "Chris benutzt die Heldenidentität als Zugang zu Dave.",
+        "Eine Polizeischutzaufgabe hat Chris nicht.",
+        "Sein Vater lebt und leitet den Plan.",
+        "Er arbeitet zunächst gerade für den Vater."
+      ],
+      "short": "Red Mists Freundschaft dient zunächst einem Täuschungsplan.",
+      "context": "Chris D’Amico (Christopher Mintz-Plasse) übernimmt eine kostümierte Identität, um an Dave Lizewski (Aaron Taylor-Johnson) heranzukommen. Sein Vater Frank (Mark Strong) will den störenden Kämpfer ausschalten. Das gemeinsame Auftreten als vermeintliche Helden erzeugt Vertrauen, dessen Zweck Chris anders versteht als Dave. Die Kostüme verbergen damit nicht nur Namen, sondern entgegengesetzte Interessen.",
+      "anchor": "Daves vermeintlicher neuer Partner führt einen Auftrag des Gegners aus.",
+      "interest": "Daves vermeintlicher neuer Partner führt einen Auftrag des Gegners aus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Vorgeschichte erklärt Big Daddys (Nicolas Cage) Rache an Frank D’Amico (Mark Strong) in @?",
+      "answers": [
+        "Der frühere Polizist wurde durch D’Amico mit falschen Beweisen ins Gefängnis gebracht.",
+        "D’Amico besiegte ihn bei einer legalen Weltmeisterschaft.",
+        "D’Amico verweigerte ihm nach einem Wahlverlust die Machtübergabe.",
+        "Der Vater war selbst D’Amicos langjähriger Chef und verlor nur einen Anteil."
+      ],
+      "feedback": [
+        "Damon Macready wurde als Polizist von D’Amico belastet und eingesperrt.",
+        "Ein sportlicher Wettkampf ist nicht die Ursache.",
+        "Ein Wahlkampf erklärt den Konflikt nicht.",
+        "Big Daddy war nicht der übergeordnete Mafiachef."
+      ],
+      "short": "Big Daddys Rache folgt einer zerstörten Polizeikarriere und Familie.",
+      "context": "Damon Macready (Nicolas Cage) war Polizist, bevor Frank D’Amico (Mark Strong) ihn mit falschen Beweisen ins Gefängnis brachte. Seine Frau starb durch Suizid; Mindy (Chloë Grace Moretz) blieb zurück. Der Vater richtet das weitere Leben auf Rache aus. Die Filmfassung gibt den Kostümen damit eine konkrete Vorgeschichte, die von der zunächst spielerischen Idee Daves deutlich abweicht.",
+      "anchor": "Für Dave ist das Kostüm eine Idee, für Damon ein Rachewerkzeug.",
+      "interest": "Für Dave ist das Kostüm eine Idee, für Damon ein Rachewerkzeug.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Veränderung erlebt Mindy Macready (Chloë Grace Moretz) am Ende von @ nach dem Kampf gegen D’Amico?",
+      "answers": [
+        "Sie zieht zu Marcus und beginnt ein gewöhnliches Schulleben.",
+        "Sie übernimmt offiziell D’Amicos kriminelles Unternehmen.",
+        "Sie wird von ihrem Vater in eine neue Stadt geschickt.",
+        "Sie wird gemeinsam mit Dave zur Leitung einer Polizeieinheit ernannt."
+      ],
+      "feedback": [
+        "Marcus übernimmt die Fürsorge; Mindy besucht Daves Schule.",
+        "Die Mafiaführung ist nicht ihr neuer Alltag.",
+        "Ihr Vater ist zuvor gestorben.",
+        "Eine offizielle Polizeileitung erhalten die beiden nicht."
+      ],
+      "short": "Mindy bekommt die Möglichkeit eines Alltags außerhalb des Rachefeldzugs.",
+      "context": "Nach dem Tod Big Daddys (Nicolas Cage) und dem abschließenden Kampf lebt Mindy (Chloë Grace Moretz) bei dessen ehemaligem Kollegen Marcus Williams (Omari Hardwick). Sie kommt an Daves (Aaron Taylor-Johnson) Schule. Der Schluss verbindet Sieg darum mit einer anderen Entwicklung: Nicht der nächste Einsatz, sondern die Aussicht auf gewöhnliche Kindheit bildet ihre neue Perspektive.",
+      "anchor": "Mindys nächster Anfang liegt in der Schule statt in der Racheausbildung.",
+      "interest": "Mindys nächster Anfang liegt in der Schule statt in der Racheausbildung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals beim SXSW-Festival gezeigt?",
+      "answers": [
+        "2010",
+        "2004",
+        "2013",
+        "2017"
+      ],
+      "feedback": [
+        "Der Film eröffnete SXSW 2010.",
+        "2004 liegt vor dieser Produktion.",
+        "2013 gehört zur Fortsetzung.",
+        "2017 ist für den ersten Film zu spät."
+      ],
+      "short": "Die erste Festivalvorführung war 2010.",
+      "context": "Der Film eröffnete das Filmprogramm von SXSW und ging anschließend in den regulären Kinovertrieb. Die Comicadaption war damit bereits öffentlich zu sehen, bevor ihr amerikanischer Kinostart folgte. Aaron Taylor-Johnson und Chloë Grace Moretz gehören zur ursprünglichen Besetzung. Eine spätere Fortsetzung setzt ihre Figuren fort, hat aber ein eigenes Veröffentlichungsjahr.",
+      "anchor": "SXSW 2010 zeigt die ursprüngliche Heldenparodie.",
+      "interest": "SXSW 2010 zeigt die ursprüngliche Heldenparodie.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte beim ursprünglichen Film @ Regie?",
+      "answers": [
+        "Matthew Vaughn",
+        "Jane Goldman",
+        "Jeff Wadlow",
+        "Mark Millar"
+      ],
+      "feedback": [
+        "Matthew Vaughn führte Regie.",
+        "Goldman schrieb gemeinsam mit Vaughn das Drehbuch.",
+        "Wadlow führte bei der Fortsetzung Regie.",
+        "Millar ist der Autor der Comicvorlage."
+      ],
+      "short": "Matthew Vaughn führte Regie und schrieb am Drehbuch mit.",
+      "context": "Matthew Vaughn und Jane Goldman adaptieren die Comicvorlage von Mark Millar und John Romita Jr. für den Film. Vaughn führt zugleich Regie. Die verschiedenen Aufgaben sind hier teilweise verbunden und teilweise getrennt: Ein Mitautor inszeniert, die andere Mitautorin wird dadurch nicht zur Mitregisseurin, und die Comiccredits bleiben Credits des Ausgangswerks.",
+      "anchor": "Vaughn inszeniert das gemeinsam mit Goldman geschriebene Drehbuch.",
+      "interest": "Vaughn inszeniert das gemeinsam mit Goldman geschriebene Drehbuch.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

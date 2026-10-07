@@ -1,0 +1,219 @@
+{
+  "rank": 85,
+  "titleDe": "The Autopsy of Jane Doe",
+  "originalTitle": "The Autopsy of Jane Doe",
+  "year": 2016,
+  "genre": "Horror",
+  "familiarity": 3,
+  "directors": [
+    "André Øvredal"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "release_note": "Weltpremiere beim Toronto-Festival am 9. September 2016 in Midnight Madness; späterer US-Start im Dezember 2016. Der britische Kinostart 2017 ist keine Erstveröffentlichung.",
+  "familiarity_reason": "Der konzentrierte Leichenhaushorror ist im Genrepublikum gut erkennbar, aber kein allgemeiner Publikumsklassiker; Bekanntheit 3.",
+  "sources": {
+    "council": "https://filmsandfestivals.britishcouncil.org/projects/the-autopsy-of-jane-doe",
+    "kritik": "https://www.rogerebert.com/reviews/the-autopsy-of-jane-doe-2016",
+    "handlung": "https://en.wikipedia.org/wiki/The_Autopsy_of_Jane_Doe",
+    "troll": "https://www.medietilsynet.no/filmdatabasen/7741"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Beziehung verbindet die beiden Männer, die in @ die unbekannte Tote untersuchen?",
+      "answers": [
+        "Sie sind Vater und Sohn.",
+        "Sie sind Brüder.",
+        "Sie sind ehemalige Ehepartner.",
+        "Sie sind ein Ermittler und sein Gefangener."
+      ],
+      "feedback": [
+        "Tommy und Austin betreiben das Familienunternehmen als Vater und Sohn.",
+        "Die beiden gehören unterschiedlichen Generationen der Familie an.",
+        "Ihre Beziehung ist familiär, aber keine frühere Ehe.",
+        "Beide arbeiten an der Untersuchung und stehen nicht in einem Haftverhältnis."
+      ],
+      "short": "Tommy und Austin betreiben das Familienunternehmen als Vater und Sohn.",
+      "context": "Tommy (Brian Cox) und Austin (Emile Hirsch) arbeiten im familieneigenen Leichenhaus. Berufliche Erfahrung und Vater-Sohn-Beziehung überlagern sich. Ihre Suche nach einer Erklärung ist deshalb zugleich eine gemeinsame Bewährungsprobe: Der Sohn hilft dem Vater weiter, obwohl sein eigener Abend ursprünglich anders geplant war.",
+      "anchor": "Die Untersuchung verbindet berufliche Zusammenarbeit und Vater-Sohn-Bindung.",
+      "interest": "Erklärt die persönliche Grundlage des gemeinsamen Handelns.",
+      "sources": [
+        "council"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Widerspruch fällt bei der Untersuchung der Toten in @ besonders auf?",
+      "answers": [
+        "Der äußerlich unversehrte Körper weist innen schwere Verletzungen auf.",
+        "Der Körper weist außen starke Verletzungen und innen keine Schäden auf.",
+        "Die Todesursache lässt sich sofort aus einer einzigen äußeren Wunde erklären.",
+        "Die inneren Verletzungen passen genau zu den sichtbaren äußeren Wunden."
+      ],
+      "feedback": [
+        "Die inneren Schäden widersprechen der erhaltenen äußeren Erscheinung.",
+        "Gerade die umgekehrte Verteilung von äußerer Unversehrtheit und inneren Schäden erzeugt das Rätsel.",
+        "Der Befund erschwert eine normale Erklärung und wird nicht sofort durch eine äußere Wunde gelöst.",
+        "Äußere und innere Befunde widersprechen einander, statt zusammenzupassen."
+      ],
+      "short": "Die inneren Schäden widersprechen der erhaltenen äußeren Erscheinung.",
+      "context": "Jane Doe (Olwen Kelly) wirkt äußerlich unversehrt. Die Untersuchung entdeckt jedoch schwere innere Schäden. Das vertraute Verfahren der Obduktion liefert damit keine einfache Ordnung, sondern neue Widersprüche. Je genauer Tommy (Brian Cox) und Austin (Emile Hirsch) hinsehen, desto weniger passt der Körper zu einer gewöhnlichen Todesursache.",
+      "anchor": "Die unversehrte Oberfläche verdeckt massive innere Schäden.",
+      "interest": "Zeigt den konkreten Befund, der aus Routine ein Rätsel macht.",
+      "sources": [
+        "council"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum erhält das kleine Glöckchen an einer Leiche in @ später besondere Bedeutung?",
+      "answers": [
+        "Sein Klingeln weist auf Bewegung eines scheinbar toten Körpers hin.",
+        "Sein Ton ruft automatisch den Sheriff in das Leichenhaus.",
+        "Es misst die Temperatur des untersuchten Körpers.",
+        "Es zeigt durch eine Melodie die Identität der Toten an."
+      ],
+      "feedback": [
+        "Es wurde als Bewegungswarnung erklärt und macht später eine bedrohliche Bewegung hörbar.",
+        "Das Glöckchen ist nicht mit einem Polizeialarm verbunden.",
+        "Es dient nicht als Temperaturmessgerät.",
+        "Es identifiziert niemanden durch eine Melodie."
+      ],
+      "short": "Es wurde als Bewegungswarnung erklärt und macht später eine bedrohliche Bewegung hörbar.",
+      "context": "Tommy (Brian Cox) erläutert das Glöckchen zunächst als Vorsichtsmaßnahme gegen einen irrtümlich festgestellten Tod. Später wird sein Ton zum Warnzeichen. Der Film bereitet damit die Wirkung eines Gegenstands sachlich vor. Was zuerst wie Berufswissen erscheint, lässt das Publikum eine kommende Bewegung ohne direkten Blick auf den Körper erkennen.",
+      "anchor": "Die erklärte Bewegungswarnung verwandelt das Glöckchen in ein Horrorsignal.",
+      "interest": "Erschließt den vorbereiteten Zusammenhang zwischen Gegenstand und späterer Spannung.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M2",
+      "question": "Welche tragische Fehlwahrnehmung führt in @ zu Emmas Tod?",
+      "answers": [
+        "Tommy hält die herankommende Emma für eine bedrohliche Leiche.",
+        "Austin verwechselt sie mit der unbekannten Toten auf dem Tisch.",
+        "Der Sheriff hält sie für eine bewaffnete Einbrecherin.",
+        "Tommy nimmt ihr Medikament für einen giftigen Untersuchungsstoff."
+      ],
+      "feedback": [
+        "Tommy schlägt die vermeintliche Bedrohung nieder und erkennt Emma zu spät.",
+        "Sie wird nicht auf dem Untersuchungstisch verwechselt.",
+        "Der Sheriff tötet sie nicht als Einbrecherin.",
+        "Eine Verwechslung von Medikamenten ist nicht die Ursache."
+      ],
+      "short": "Tommy schlägt die vermeintliche Bedrohung nieder und erkennt Emma zu spät.",
+      "context": "Tommy (Brian Cox) und Austin (Emile Hirsch) wollen entkommen. Der herannahende Körper erscheint ihnen als Teil der Bedrohung, doch es ist Emma (Ophelia Lovibond). Die veränderte Wahrnehmung zerstört damit die Grenze zwischen Hilfe und Gefahr. Ihre Abwehr trifft gerade jemanden, auf dessen Rückkehr Austin gehofft hatte.",
+      "anchor": "Die vermeintliche Leiche ist die zurückkehrende Emma.",
+      "interest": "Erklärt die tödliche Folge einer manipulierten Wahrnehmung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Erklärung entwickelt Tommy in @ für Jane Does übernatürlichen Zustand?",
+      "answers": [
+        "Die Folter einer zunächst Unschuldigen habe sie erst zur Hexe gemacht.",
+        "Sie habe sich freiwillig durch ein Heilritual unsterblich gemacht.",
+        "Sie sei als Ärztin an ihrem eigenen Betäubungsmittel gestorben.",
+        "Sie habe ihren Tod nur durch Schauspiel vorgetäuscht."
+      ],
+      "feedback": [
+        "Tommy deutet die Gewalt der Hexenverfolgung als Ursprung ihrer wirklichen Macht.",
+        "Ein freiwilliges Heilritual ist nicht seine Schlussfolgerung.",
+        "Der gefundene Stoff erklärt nicht allein diesen Zustand.",
+        "Aktive Nerven und die Ereignisse gehen über einen gespielten Tod hinaus."
+      ],
+      "short": "Tommy deutet die Gewalt der Hexenverfolgung als Ursprung ihrer wirklichen Macht.",
+      "context": "Tommy (Brian Cox) deutet die Zeichen im Körper als Spuren einer Hexenverfolgung. Seine Erklärung bleibt eine Schlussfolgerung innerhalb der Geschichte: Jane Doe (Olwen Kelly) wurde durch die Folter zu dem gemacht, dessen Vorwurf ihre Peiniger benutzten. Die Gewalt erzeugt so nachträglich ihre eigene bedrohliche Rechtfertigung.",
+      "anchor": "Tommy erklärt die Hexe als Folge der Gewalt ihrer Verfolger.",
+      "interest": "Macht die erzählte Deutung ausdrücklich als Schlussfolgerung einer Figur kenntlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was geschieht in @, nachdem Tommy anbietet, Jane Does Leiden auf sich zu nehmen?",
+      "answers": [
+        "Ihre Verletzungen heilen, während entsprechende Verletzungen an ihm entstehen.",
+        "Beide Körper werden gleichzeitig unverletzt.",
+        "Austin übernimmt sofort alle sichtbaren Verletzungen.",
+        "Die Leiche zerfällt, ohne dass Tommy Schaden erleidet."
+      ],
+      "feedback": [
+        "Die Schäden wechseln sichtbar auf Tommy über.",
+        "Tommy leidet und wird nicht gemeinsam mit ihr geheilt.",
+        "Sein Angebot betrifft ihn selbst; Austin ist nicht sofort der Ersatzkörper.",
+        "Der Körper zerfällt nicht folgenlos."
+      ],
+      "short": "Die Schäden wechseln sichtbar auf Tommy über.",
+      "context": "Tommy (Brian Cox) bietet sich als Opfer an, um Austin (Emile Hirsch) zu schützen. Jane Does (Olwen Kelly) Körper erholt sich, während er ihre Schäden erleidet. Die Untersuchung hat die Verletzungen zuvor als Befunde behandelt; nun werden sie zum unmittelbar erfahrenen Leid des Untersuchenden.",
+      "anchor": "Tommy wird vom Betrachter ihrer Verletzungen zu ihrem leidenden Träger.",
+      "interest": "Verknüpft das Opfer mit dem zuvor aufgebauten Wissen über den Körper.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, sechs Jahre nach André Øvredals „Trollhunter“ von 2010?",
+      "answers": [
+        "2016",
+        "2010",
+        "2013",
+        "2019"
+      ],
+      "feedback": [
+        "Trollhunter erschien 2010; dieser Film folgte 2016.",
+        "2010 ist das Jahr des früheren Films.",
+        "2013 liegt nur drei Jahre nach Trollhunter.",
+        "2019 liegt neun Jahre nach dem früheren Film."
+      ],
+      "short": "Trollhunter erschien 2010; dieser Film folgte 2016.",
+      "context": "Trollhunter erschien 2010 in Norwegen. The Autopsy of Jane Doe hatte 2016 in Toronto seine Weltpremiere, sechs Jahre später. Die Folge führt von einem vorgeblichen Dokumentarfilm über eine weite Landschaft zu einer konzentrierten Untersuchung in einem Leichenhaus. Beide Formen lassen sachliche Beobachtung in übernatürliche Gefahr kippen.",
+      "anchor": "2010 Trollhunter, sechs Jahre später 2016 das verschlossene Leichenhaus.",
+      "interest": "Verankert das Erscheinungsjahr in einer konkreten Entwicklung des Regisseurs.",
+      "sources": [
+        "troll",
+        "council"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "André Øvredal",
+        "Ole Bornedal",
+        "Neil Marshall",
+        "Christopher Smith"
+      ],
+      "feedback": [
+        "André Øvredal inszenierte den Film.",
+        "Bornedal ist ein anderer skandinavischer Regisseur mit Horrorerfahrung.",
+        "Marshall führte bei anderen räumlich konzentrierten Horrorfilmen Regie.",
+        "Smith inszenierte andere britische Horrorproduktionen."
+      ],
+      "short": "André Øvredal inszenierte den Film.",
+      "context": "André Øvredal inszenierte das Drehbuch von Ian Goldberg und Richard Naing. Die Wirkung baut auf einer Untersuchung auf, deren einzelne Schritte jeweils neue Informationen freilegen. Die Vater-Sohn-Beziehung verankert diese Enthüllungen in persönlichen Reaktionen, sodass die räumlich begrenzte Geschichte mehr trägt als eine Folge von Schreckmomenten.",
+      "anchor": "Øvredal inszeniert die Untersuchung als schrittweise Enthüllung mit persönlicher Bindung.",
+      "interest": "Verbindet den Regiecredit mit der konkreten Struktur des Films.",
+      "sources": [
+        "council",
+        "kritik"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

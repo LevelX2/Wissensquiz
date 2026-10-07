@@ -1,0 +1,215 @@
+{
+  "rank": 92,
+  "titleDe": "Pontypool",
+  "originalTitle": "Pontypool",
+  "year": 2008,
+  "genre": "Horror",
+  "familiarity": 4,
+  "directors": [
+    "Bruce McDonald"
+  ],
+  "production_countries": [
+    "Kanada"
+  ],
+  "release_note": "Erste öffentliche TIFF-Vorführung am 6. September 2008; kanadischer Kinostart am 6. März 2009. Das Festivalarchiv führt Kanada und 2008.",
+  "familiarity_reason": "Der kanadische Radiohorror besitzt eine ungewöhnliche Sprachidee und ein spezialisiertes Genrepublikum; Bekanntheit 4.",
+  "sources": {
+    "tiff": "https://www.tiff08.ca/filmsandschedules/films/pontypool/",
+    "bfi": "https://bfidatadigipres.github.io/in%20dreams%20are%20monsters/2022/10/31/pontypool/",
+    "handlung": "https://en.wikipedia.org/wiki/Pontypool_(film)"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf übt Grant Mazzy in @ aus?",
+      "answers": [
+        "Radiomoderator",
+        "Zeitungsredakteur",
+        "Fernsehnachrichtensprecher",
+        "Polizeisprecher"
+      ],
+      "feedback": [
+        "Grant moderiert im kleinen örtlichen Radiosender.",
+        "Er arbeitet nicht für eine Tageszeitung.",
+        "Seine Sendung läuft im Radio.",
+        "Er spricht nicht im Auftrag der Polizei."
+      ],
+      "short": "Grant moderiert im kleinen örtlichen Radiosender.",
+      "context": "Grant Mazzy (Stephen McHattie) arbeitet bei einem kleinen Radiosender im Keller einer Kirche. Er ist an Kontroversen und Schlagfertigkeit gewöhnt. Als die Katastrophe beginnt, wird diese berufliche Stärke zum Problem: Er muss weiter informieren, obwohl zunehmend unklar wird, welche Folgen das Sprechen selbst besitzt.",
+      "anchor": "Der Radiomoderator muss senden, während Sprache gefährlich wird.",
+      "interest": "Verbindet den Beruf mit dem besonderen Konflikt des Films.",
+      "sources": [
+        "tiff"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie erreichen die ersten Berichte über die Gewalt außerhalb des Studios das Team in @?",
+      "answers": [
+        "Als telefonische Schilderungen und Radiomeldungen",
+        "Als Bilder einer dauerhaft laufenden Außenkamera",
+        "Als persönliche Aussagen der bereits geretteten Opfer",
+        "Als vollständige Aufzeichnungen der Polizei"
+      ],
+      "feedback": [
+        "Die Ereignisse werden zunächst vor allem über Stimmen vermittelt.",
+        "Eine lückenlose Außenkamera liefert keine Sicherheit.",
+        "Die Opfer erscheinen nicht als verlässliche Zeugenrunde.",
+        "Die Polizei übergibt keine vollständige Dokumentation."
+      ],
+      "short": "Die Ereignisse werden zunächst vor allem über Stimmen vermittelt.",
+      "context": "Grant (Stephen McHattie), Sydney (Lisa Houle) und Laurel-Ann (Georgina Reilly) müssen Meldungen aus der Außenwelt prüfen, ohne diese Welt selbst überblicken zu können. Das Studio schützt und isoliert zugleich. Die Stimmen lassen Gewalt im Kopf entstehen, während die fehlende Sicht ihre Zuverlässigkeit schwer überprüfbar macht.",
+      "anchor": "Die Stimmen berichten aus einer Außenwelt, die das Team nicht überblickt.",
+      "interest": "Erklärt die Spannung zwischen akustischer Information und fehlender Sicht.",
+      "sources": [
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Übertragungsregel vermutet Dr. Mendez für die Infektion in @?",
+      "answers": [
+        "Das Verstehen bestimmter englischer Wörter kann infizieren.",
+        "Jeder laute Ton infiziert unabhängig von seiner Bedeutung.",
+        "Nur unmittelbare Bisse übertragen die Krankheit.",
+        "Alle Fremdsprachen lösen dieselbe Reaktion sofort aus."
+      ],
+      "feedback": [
+        "Die Hypothese betrifft bedeutungstragende englische Wörter.",
+        "Lautstärke allein erklärt die Infektion nicht.",
+        "Die Erklärung bricht mit der bloßen Übertragung durch Bisse.",
+        "Englisch wird ausdrücklich von anderen Sprachen unterschieden."
+      ],
+      "short": "Die Hypothese betrifft bedeutungstragende englische Wörter.",
+      "context": "Dr. Mendez (Hrant Alianak) erklärt die Veränderungen als Infektion bestimmter englischer Wörter. Entscheidend ist dabei das Verstehen, nicht nur das Hören. Grant (Stephen McHattie) muss deshalb sein wichtigstes Arbeitsmittel neu beurteilen: Eine verständliche Nachricht kann zugleich informieren und die Gefahr weitertragen.",
+      "anchor": "Die vermutete Infektion hängt am verstandenen Wort, nicht am Schall allein.",
+      "interest": "Erklärt die besondere kausale Regel dieser Zombiegeschichte.",
+      "sources": [
+        "bfi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum versuchen Grant und Sydney in @, miteinander Französisch zu sprechen?",
+      "answers": [
+        "Sie wollen der vermuteten Infektion englischer Wörter ausweichen.",
+        "Sie wollen ihre Stimmen vor Zuhörern unerkennbar machen.",
+        "Sie hoffen, Dr. Mendez damit wieder ins Studio zu locken.",
+        "Sie glauben, französische Nachrichten enthalten ein Gegenmittel."
+      ],
+      "feedback": [
+        "Der Sprachwechsel reagiert auf die beschriebene Übertragungsregel.",
+        "Die andere Sprache soll die verdächtige englische Wortinfektion umgehen, nicht nur Stimmen tarnen.",
+        "Das Sprachwechseln ist eine Schutzstrategie und kein Lockruf.",
+        "Ein medizinisches Gegenmittel wird nicht in französischen Nachrichten gesucht."
+      ],
+      "short": "Der Sprachwechsel reagiert auf die beschriebene Übertragungsregel.",
+      "context": "Grant (Stephen McHattie) und Sydney (Lisa Houle) wechseln ins Französische, nachdem Englisch als Träger vermutet wird. Die Maßnahme ist kein allgemeines Schweigegebot, sondern ein Versuch, Verständigung in einer anderen Sprache zu erhalten. Der Film macht damit eine vertraute Kommunikationsmöglichkeit zu einer zeitweiligen Schutzstrategie.",
+      "anchor": "Der Sprachwechsel soll Verständigung ohne die englischen Auslöser ermöglichen.",
+      "interest": "Unterscheidet sprachliche Ausweichstrategie und vollständiges Schweigen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wozu spielt Sydney in @ eine Schleife von Grants Stimme über einen Außenlautsprecher ab?",
+      "answers": [
+        "Sie lenkt die angreifende Menge vom Studio weg.",
+        "Sie fordert die Menge zu einer Abstimmung auf.",
+        "Sie lässt die Polizei den Aufenthaltsort Grants bestimmen.",
+        "Sie korrigiert eine versehentlich gesendete Falschmeldung."
+      ],
+      "feedback": [
+        "Die Aufnahme dient als akustischer Köder.",
+        "Eine Abstimmung soll die Angriffe nicht lösen.",
+        "Eine Ortung Grants ist nicht der Zweck.",
+        "Der Trick ist keine redaktionelle Richtigstellung."
+      ],
+      "short": "Die Aufnahme dient als akustischer Köder.",
+      "context": "Sydney (Lisa Houle) nutzt eine Aufnahme von Grant (Stephen McHattie), um die Angreifer nach draußen zu locken. Seine Stimme wird vom anwesenden Menschen getrennt und als Köder eingesetzt. Dieselbe technische Infrastruktur, die Nachrichten verteilt, verschafft dem bedrohten Team dadurch eine vorübergehende räumliche Entlastung.",
+      "anchor": "Die aufgezeichnete Stimme lockt die Menge vom wirklichen Sprecher weg.",
+      "interest": "Erklärt die Funktion des konkreten Studiotricks.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie hilft Grant der bereits betroffenen Sydney im Schluss von @?",
+      "answers": [
+        "Er löst „kill“ von seiner bisherigen Bedeutung und setzt „kiss“ dafür.",
+        "Er wiederholt die offizielle Warnung wortgetreu.",
+        "Er übersetzt ihre Worte unverändert zurück ins Englische.",
+        "Er zwingt sie, ausschließlich ihren Namen zu wiederholen."
+      ],
+      "feedback": [
+        "Die Bedeutungsverschiebung unterbricht ihre festgefahrene Reaktion.",
+        "Unveränderte Warnungen sind nicht diese Hilfe.",
+        "Eine wortgetreue Rückübersetzung löst das Problem nicht.",
+        "Die ständige Namenswiederholung ist nicht die Methode."
+      ],
+      "short": "Die Bedeutungsverschiebung unterbricht ihre festgefahrene Reaktion.",
+      "context": "Sydney (Lisa Houle) hängt am Wort kill fest. Grant (Stephen McHattie) versucht, seine Bedeutung durch kiss zu ersetzen. Die Rettung erfolgt innerhalb der sprachlichen Logik des Films: Statt nur das Wort zu vermeiden, verändert er die Verbindung zwischen dem vertrauten Laut und der verstandenen Handlung.",
+      "anchor": "Grant verändert die Bedeutung des gefährlichen Wortes.",
+      "interest": "Verbindet die Rettung unmittelbar mit der zuvor erklärten Infektionsregel.",
+      "sources": [
+        "bfi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, neunzehn Jahre nach McDonalds Festivaldurchbruch „Roadkill“ von 1989?",
+      "answers": [
+        "2008",
+        "1989",
+        "2000",
+        "2009"
+      ],
+      "feedback": [
+        "2008 liegt neunzehn Jahre nach Roadkill.",
+        "1989 bezeichnet den früheren Durchbruch.",
+        "2000 liegt nur elf Jahre später.",
+        "2009 ist der spätere reguläre Kinostart."
+      ],
+      "short": "2008 liegt neunzehn Jahre nach Roadkill.",
+      "context": "Roadkill brachte Bruce McDonald 1989 seinen Festivaldurchbruch in Toronto. Pontypool wurde dort 2008 gezeigt, neunzehn Jahre später. Das Festivalporträt verbindet beide Arbeiten mit seinem unabhängigen Filmschaffen. Der Vergleich ordnet den ungewöhnlichen Radiohorror in eine bereits lange Laufbahn jenseits großer Studioproduktionen ein.",
+      "anchor": "1989 Roadkill, 2008 Pontypool: neunzehn Jahre unabhängige Filmgeschichte.",
+      "interest": "Verbindet das Erstveröffentlichungsjahr mit einem belegten früheren Regiedurchbruch.",
+      "sources": [
+        "tiff"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Bruce McDonald",
+        "David Cronenberg",
+        "Vincenzo Natali",
+        "John Fawcett"
+      ],
+      "feedback": [
+        "McDonald führte Regie.",
+        "Cronenberg ist ein anderer kanadischer Regisseur.",
+        "Natali inszenierte andere kanadische Genreproduktionen.",
+        "Fawcett führte bei diesem Film nicht Regie."
+      ],
+      "short": "McDonald führte Regie.",
+      "context": "Bruce McDonald führte Regie; Tony Burgess adaptierte seinen eigenen Roman für das Drehbuch. Die räumliche Beschränkung auf den Sender lässt die Bedrohung vor allem über Sprache und Stimmen entstehen. Regie und literarische Adaption arbeiten hier an einer Horrorform, deren Außenwelt größtenteils gehört statt gesehen wird.",
+      "anchor": "McDonald inszeniert, Burgess adaptiert seinen eigenen Roman.",
+      "interest": "Trennt die kreativen Aufgaben und erklärt die besondere räumliche Gestaltung.",
+      "sources": [
+        "tiff"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

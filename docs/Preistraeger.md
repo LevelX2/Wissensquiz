@@ -1,5 +1,8 @@
 # Preisträger – 200 Filmfragen
 
+07.10.2026 – **320 Einträge und 2.480 Fragen lokal ergänzt:** Je 20 neue Einträge in allen 16 Auswahlkategorien. Gesamt **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**; 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. Filmauswahl vorrangig aus der persönlichen Sammlung; Einzelbesitzangaben bleiben privat. Noch nicht veröffentlicht. [Redaktion, Lesefassung und Prüfnachweise](Erweiterung-2026-10-07/Pruefbericht.md).
+
+
 03.10.2026 – **Additiver Fragenbereich**: Preisträger und Schauspieler sind unabhängig von Filmgenres auswählbar und ergänzen den Filmfragenbereich. Alle drei Checkboxen bilden einen gemeinsamen Pool; reine Preis-/Personenrunden benötigen keine Filmgenres. Classics/Arthouse begrenzen nur die Filmfragen. Vorhandene Filmmetadaten erzeugen keine verpflichtende Genre- oder Filmgruppenbindung für Preisfragen. [Auswahlvertrag](Spielmodi-und-Bekanntheit.md#additive-fragenbereiche--03102026).
 
 Am 02.10.2026 auf Nutzerauftrag redaktionell erstellt, integriert und als Sites-Version 36 veröffentlicht. Neue Zusatzkategorie **Preisträger**, neben Classics und Arthouse, mit **je 50 Fragen für Leicht, Mittel, Schwer und Experte**. 200 neue Fragen und Wissensziele, keine Varianten. 100 Fragen im Oscar-Schwerpunkt, 50 zu Cannes und 50 zu Venedig; darunter Verbindungen zwischen den Veranstaltungen. Der Schwerpunkt umfasst historische Verleihungen von 1940 bis 2024, keine vollständige aktuelle Siegerchronik.

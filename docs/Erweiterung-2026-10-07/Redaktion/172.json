@@ -1,0 +1,222 @@
+{
+  "rank": 172,
+  "titleDe": "Searching for Sugar Man",
+  "originalTitle": "Searching for Sugar Man",
+  "year": 2012,
+  "genre": "Musik",
+  "familiarity": 3,
+  "familiarity_reason": "Durch seine ungewöhnliche Wiederentdeckungsgeschichte weithin beachtete Musikdokumentation, deren einzelne Stationen vor allem Dokumentarfilm- und Musikpublikum kennt; Bekanntheit 3.",
+  "directors": [
+    "Malik Bendjelloul"
+  ],
+  "production_countries": [
+    "Schweden",
+    "Vereinigtes Königreich",
+    "Finnland"
+  ],
+  "release_note": "Weltpremiere als Sundance-Eröffnungsfilm am 19. Januar 2012.",
+  "sources": {
+    "artikel": "https://en.wikipedia.org/wiki/Searching_for_Sugar_Man",
+    "sony": "https://www.sonypictures.com/movies/searchingforsugarman",
+    "synopsis": "https://www.sonyclassics.com/searchingforsugarman/synopsis.html",
+    "presse": "https://www.sonyclassics.com/searchingforsugarman/searchingforsugarman_presskit.pdf",
+    "cbs": "https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/releases/?view=33161-humble-70s-singer-songwriter-rodriguez-who-went-from-40-years-of-obscurity-to-film-and-music-fame-says-hes-having-a-good-year-60-minutes-sunday"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Nach welchem Musiker suchen die Fans in „Searching for Sugar Man“?",
+      "answers": [
+        "Rodriguez",
+        "Nick Drake",
+        "Tim Buckley",
+        "Scott Walker"
+      ],
+      "feedback": [
+        "Die Suche gilt dem US-amerikanischen Musiker Rodriguez.",
+        "Nick Drake ist nicht der gesuchte Musiker.",
+        "Tim Buckley steht nicht im Zentrum der Recherche.",
+        "Scott Walker ist nicht der gesuchte Künstler."
+      ],
+      "short": "Die Suche gilt dem US-amerikanischen Musiker Rodriguez.",
+      "context": "Die Suche gilt dem US-amerikanischen Musiker Rodriguez. Seine Musik war in der Heimat kommerziell kaum erfolgreich, entwickelte aber anderswo eine große Anhängerschaft. Der Film erzählt diesen Abstand aus der Perspektive von Hörern, die nur die Platten und Geschichten kannten. Ihr Interesse richtet sich deshalb nicht bloß auf neue Aufnahmen, sondern auf den Menschen hinter der Musik.",
+      "anchor": "Gesucht wird Rodriguez, der unbekannt gebliebene Star.",
+      "interest": "Den Gegenstand der filmischen Recherche erkennen.",
+      "sources": [
+        "artikel"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "In welchem Land wurden Rodriguez’ Platten in „Searching for Sugar Man“ zum unerwarteten Kult?",
+      "answers": [
+        "Südafrika",
+        "Argentinien",
+        "Kanada",
+        "Neuseeland"
+      ],
+      "feedback": [
+        "Die Musik gewinnt in Südafrika eine große Anhängerschaft.",
+        "Argentinien ist nicht das Land der erzählten Hauptrecherche.",
+        "Kanada ist nicht der dargestellte Ort dieses Kults.",
+        "Neuseeland ist nicht das Zentrum der Fansuche."
+      ],
+      "short": "Die Musik gewinnt in Südafrika eine große Anhängerschaft.",
+      "context": "Die Musik gewinnt in Südafrika eine große Anhängerschaft. Der Erfolg entsteht weit entfernt vom Alltag des Künstlers in den USA und bleibt ihm lange verborgen. Der Film verbindet diesen räumlichen Abstand mit der politischen Situation der Apartheidzeit. Für die Fans sind die Platten ein fester Teil ihrer Erfahrung, während Informationen über den Musiker kaum verfügbar sind.",
+      "anchor": "Der weit entfernte Kult entsteht in Südafrika.",
+      "interest": "Die zweite musikalische Lebenswelt erkennen.",
+      "sources": [
+        "sony"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welches Gerücht wollen die Fans in „Searching for Sugar Man“ überprüfen?",
+      "answers": [
+        "Rodriguez habe sich bei einem Auftritt getötet.",
+        "Rodriguez habe seine Songs von Bob Dylan gekauft.",
+        "Rodriguez sei heimlich nach Südafrika ausgewandert.",
+        "Rodriguez habe als Schauspieler einen anderen Namen benutzt."
+      ],
+      "feedback": [
+        "Unter den Fans kursiert die Geschichte eines dramatischen Todes auf der Bühne.",
+        "Ein gekaufter Songkatalog ist nicht das gesuchte Gerücht.",
+        "Eine heimliche Auswanderung ist nicht der zentrale Todesmythos.",
+        "Eine verdeckte Schauspieleridentität steht nicht am Anfang der Suche."
+      ],
+      "short": "Unter den Fans kursiert die Geschichte eines dramatischen Todes auf der Bühne.",
+      "context": "Unter den Fans kursiert die Geschichte eines dramatischen Todes auf der Bühne. Verlässliche Informationen fehlen, sodass die Erzählung den verschwundenen Musiker zum Mythos macht. Die Recherche setzt genau dort an: Aus einer vielfach wiederholten Behauptung soll überprüfbares Wissen werden. Der Film zeigt dadurch, wie leicht fehlender Kontakt eine Lebensgeschichte durch eine Legende ersetzen kann.",
+      "anchor": "Das vermeintliche Bühnenende wird zum Ausgangspunkt der Suche.",
+      "interest": "Das Motiv der Recherche verstehen.",
+      "sources": [
+        "synopsis"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie gelangt die Musik laut „Searching for Sugar Man“ zunächst zu südafrikanischen Hörern?",
+      "answers": [
+        "Durch eine inoffizielle Kopie einer Platte",
+        "Durch eine große Werbetour des Sängers",
+        "Durch einen staatlichen Schulmusikwettbewerb",
+        "Durch eine Fernsehserie mit dem Sänger"
+      ],
+      "feedback": [
+        "Eine inoffizielle Aufnahme findet ihren Weg nach Südafrika und wird weitergegeben.",
+        "Eine große Werbetour begründet den anfänglichen Erfolg nicht.",
+        "Ein staatlicher Wettbewerb ist nicht der beschriebene Weg.",
+        "Eine Fernsehserie trägt die Musik nicht zuerst nach Südafrika."
+      ],
+      "short": "Eine inoffizielle Aufnahme findet ihren Weg nach Südafrika und wird weitergegeben.",
+      "context": "Eine inoffizielle Aufnahme findet ihren Weg nach Südafrika und wird weitergegeben. Mundpropaganda trägt zur wachsenden Anhängerschaft bei, obwohl der Künstler dort zunächst nicht auftritt. Die Verbreitung ist deshalb von seiner eigenen Karrierewahrnehmung getrennt. Der Film macht deutlich, dass Musik auch außerhalb geplanter Vertriebs- und Werbewegungen eine dauerhafte Bedeutung gewinnen kann.",
+      "anchor": "Eine inoffizielle Kopie eröffnet den zweiten Weg der Musik.",
+      "interest": "Die Verbreitung vom persönlichen Auftritt unterscheiden.",
+      "sources": [
+        "sony"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was widerlegt in „Searching for Sugar Man“ schließlich die verbreitete Todesgeschichte?",
+      "answers": [
+        "Rodriguez lebt noch in Detroit.",
+        "Die Platten stammen von zwei verschiedenen Sängern.",
+        "Seine Tochter hat die Musik selbst aufgenommen.",
+        "Der Sänger ist bei einem Unfall in Kapstadt gestorben."
+      ],
+      "feedback": [
+        "Die Fans entdecken Rodriguez lebend in Detroit.",
+        "Es werden nicht zwei Sänger als Urheber enthüllt.",
+        "Die Musik stammt nicht von seiner Tochter.",
+        "Ein tatsächlicher Kapstädter Unfalltod löst die Suche nicht auf."
+      ],
+      "short": "Die Fans entdecken Rodriguez lebend in Detroit.",
+      "context": "Die Fans entdecken Rodriguez lebend in Detroit. Er hatte dort als Tagelöhner gearbeitet, während seine Musik auf einem anderen Kontinent berühmt wurde. Diese Gleichzeitigkeit löst den vermeintlichen Todesmythos auf. Die Überraschung entsteht nicht aus einem erfundenen Identitätswechsel, sondern aus zwei Lebenswelten, die über Jahre kaum miteinander in Verbindung standen.",
+      "anchor": "Der totgeglaubte Musiker lebt in Detroit.",
+      "interest": "Die zentrale Auflösung der Recherche erkennen.",
+      "sources": [
+        "cbs"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wozu nutzt „Searching for Sugar Man“ Animationen vor der späteren Begegnung mit Rodriguez?",
+      "answers": [
+        "Sie überbrücken fehlende Filmaufnahmen seines früheren Lebens.",
+        "Sie stellen alle Konzerte als erfunden dar.",
+        "Sie ersetzen die Aussagen der südafrikanischen Fans.",
+        "Sie erklären ausschließlich die Technik der Plattenpressung."
+      ],
+      "feedback": [
+        "Bendjelloul erklärt, dass für Rodriguez’ frühere Lebensphase keine passenden Filmaufnahmen vorlagen.",
+        "Die Konzerte werden nicht als grundsätzlich erfunden entlarvt.",
+        "Die tatsächlichen Aussagen der Fans bleiben Teil des Films.",
+        "Plattenpressung ist nicht der ausschließliche Animationszweck."
+      ],
+      "short": "Bendjelloul erklärt, dass für Rodriguez’ frühere Lebensphase keine passenden Filmaufnahmen vorlagen.",
+      "context": "Bendjelloul erklärt, dass für Rodriguez’ frühere Lebensphase keine passenden Filmaufnahmen vorlagen. Animationen füllen diese Lücke und halten zugleich die Spannung vor der tatsächlichen Begegnung aufrecht. Die Form macht die Vergangenheit sichtbar, ohne den Musiker schon durchgehend real im Bild zu zeigen. Archivmangel und erzählerische Zurückhaltung greifen in derselben Gestaltung ineinander.",
+      "anchor": "Animationen erzählen die Zeit vor den erhaltenen Begegnungsbildern.",
+      "interest": "Die Bildform aus Materiallage und Dramaturgie erklären.",
+      "sources": [
+        "presse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde „Searching for Sugar Man“ erstmals veröffentlicht, einschließlich einer Festivalpremiere?",
+      "answers": [
+        "2012",
+        "2008",
+        "2015",
+        "2019"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung fällt in 2012.",
+        "2008 liegt 4 Jahre vor der belegten Erstveröffentlichung.",
+        "2015 liegt 3 Jahre nach der belegten Erstveröffentlichung.",
+        "2019 liegt 7 Jahre nach der belegten Erstveröffentlichung."
+      ],
+      "short": "Weltpremiere als Sundance-Eröffnungsfilm am 19. Januar 2012.",
+      "context": "Der im Film gezeigte Höhepunkt von Rodriguez’ Rückkehr nach Südafrika fällt in das Jahr 1998. Die Dokumentation erschien 2012, vierzehn Jahre später. Sie erzählt somit eine Entdeckung nach, die bereits vor dem Film Publikum fand. Der zeitliche Bezug trennt den damaligen Durchbruch beim südafrikanischen Publikum von der späteren internationalen Verbreitung der Geschichte durch das Kino.",
+      "anchor": "1998 die Südafrika-Rückkehr, 2012 der Film: vierzehn Jahre später.",
+      "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
+      "sources": [
+        "artikel",
+        "presse"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei „Searching for Sugar Man“ Regie?",
+      "answers": [
+        "Malik Bendjelloul",
+        "Asif Kapadia",
+        "Edgar Wright",
+        "Brett Morgen"
+      ],
+      "feedback": [
+        "Malik Bendjelloul führte Regie.",
+        "Asif Kapadia gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Edgar Wright gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Brett Morgen gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Malik Bendjelloul schrieb, inszenierte und montierte den Film.",
+      "context": "Malik Bendjelloul schrieb, inszenierte und montierte den Film. Mit Kamerafrau Camilla Skagerström setzte er Detroit und Kapstadt in unterschiedliche Licht- und Jahreszeitenbilder. Die persönliche Recherche wird dadurch auch räumlich erzählt. Bendjelloul übernahm aus knappen Mitteln weitere Gestaltungsarbeiten selbst; die begrenzten Möglichkeiten führten unter anderem zu eigenen Animationen und ergänzenden Smartphone-Aufnahmen.",
+      "anchor": "Bendjelloul verbindet Recherche mit dem Bildgegensatz Detroit–Kapstadt.",
+      "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
+      "sources": [
+        "presse"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

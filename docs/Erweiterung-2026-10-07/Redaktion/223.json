@@ -1,0 +1,232 @@
+{
+  "rank": 223,
+  "titleDe": "Blutmond",
+  "originalTitle": "Manhunter",
+  "year": 1986,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Die frühere Hannibal-Lecter-Fassung ermöglicht Ermittlungs- und Gestaltungskonflikte um Nähe zum Täter.",
+  "directors": [
+    "Michael Mann"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Kinoveröffentlichung 1986; die Fragen beziehen sich auf Manns ursprünglichen Film, nicht die Neuverfilmung Roter Drache von 2002.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Manhunter_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "bfi": {
+      "url": "https://player.bfi.org.uk/subscription/film/watch-manhunter-1986-online",
+      "supports": "Regie, USA, Jahr, erste Filmverkörperung Hannibal Lecktors, Darsteller und Ausgangslage."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Manhunter_%E2%80%93_Roter_Drache",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche frühere Tätigkeit nimmt Will Graham (William Petersen) in @ wieder auf?",
+      "answers": [
+        "Die Arbeit als FBI-Profiler",
+        "Die Leitung eines Filmlabors",
+        "Die Arbeit als Gerichtsmediziner",
+        "Die Verteidigung in Mordprozessen"
+      ],
+      "feedback": [
+        "Graham kehrt als Berater und Profiler zur Ermittlung zurück.",
+        "Das Filmlabor gehört zur Spur des Täters, nicht zu Grahams Beruf.",
+        "Er untersucht Verhaltensmuster, arbeitet aber nicht als Gerichtsmediziner.",
+        "Seine Rolle gehört zur Strafverfolgung, nicht zur anwaltlichen Verteidigung."
+      ],
+      "short": "Graham kehrt als Berater und Profiler zur Ermittlung zurück.",
+      "context": "Will Graham (William Petersen) hat sich nach einer traumatischen Begegnung mit Hannibal Lecktor (Brian Cox) zurückgezogen. Jack Crawford (Dennis Farina) bittet ihn dennoch um Hilfe gegen einen Familienmörder. Die Rückkehr verlangt nicht nur Fachwissen: Graham muss erneut eine Denkweise betreten, von der er sich gerade schützen wollte.",
+      "anchor": "Der zurückgezogene Profiler wird für einen neuen Serienmordfall gebraucht.",
+      "interest": "Der Beruf erklärt die besondere Belastung des Protagonisten.",
+      "sources": [
+        "wiki",
+        "de",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Unter welchem Spitznamen sucht die Polizei den Familienmörder?",
+      "answers": [
+        "Zahnfee",
+        "Zodiac",
+        "Son of Sam",
+        "Nachtpirscher"
+      ],
+      "feedback": [
+        "Die Presse und Ermittler nennen ihn Zahnfee beziehungsweise Tooth Fairy.",
+        "Zodiac bezeichnet einen anderen, realen Serienmordfall.",
+        "Son of Sam gehört zu einem anderen realen Täter.",
+        "Der Nachtpirscher ist nicht der Name dieses gesuchten Familienmörders."
+      ],
+      "short": "Die Presse und Ermittler nennen ihn Zahnfee beziehungsweise Tooth Fairy.",
+      "context": "Der Spitzname Zahnfee fasst einen Teil der verstörenden Spuren zusammen, hinter denen sich Francis Dollarhyde (Tom Noonan) verbirgt. Will Graham (William Petersen) muss von diesen Zeichen zu einem nachvollziehbaren Täterprofil gelangen. Die Ermittlungen zeigen dabei den Abstand zwischen einer griffigen öffentlichen Bezeichnung und der psychischen Struktur des Gesuchten.",
+      "anchor": "Tooth Fairy ist die öffentliche Bezeichnung des Familienmörders.",
+      "interest": "Die Frage erleichtert die Orientierung in den verschiedenen Namen des Falls.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wie kann Dollarhyde (Tom Noonan) die Häuser seiner Opfer vor den Taten studieren?",
+      "answers": [
+        "Er entwickelt ihre privaten Familienfilme",
+        "Er vermietet ihnen die Wohnungen",
+        "Er liefert regelmäßig ihre Möbel",
+        "Er wartet ihre Alarmanlagen"
+      ],
+      "feedback": [
+        "Sein Arbeitsplatz im Filmlabor gibt ihm Zugriff auf die privaten Aufnahmen.",
+        "Er gewinnt die Kenntnisse nicht als Vermieter.",
+        "Möbellieferungen sind keine gemeinsame Spur der Opferfamilien.",
+        "Ein Wartungsauftrag für Alarmanlagen erklärt die Verbindung nicht."
+      ],
+      "short": "Sein Arbeitsplatz im Filmlabor gibt ihm Zugriff auf die privaten Aufnahmen.",
+      "context": "Die Familien haben private Filme zur Entwicklung gegeben. Francis Dollarhyde (Tom Noonan) sieht deshalb ihr häusliches Leben, ohne ihnen persönlich begegnen zu müssen. Will Graham (William Petersen) erkennt aus den Aufnahmen, wie der Täter Details der Häuser kennen konnte. Die gemeinsame Bildquelle wird schließlich wichtiger als eine zufällige persönliche Bekanntschaft.",
+      "anchor": "Private Familienfilme führen zum gemeinsamen Entwicklungslabor.",
+      "interest": "Die Lösung erklärt den entscheidenden Übergang von Profilbildung zur überprüfbaren Spur.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Womit gefährdet Hannibal Lecktor (Brian Cox) Grahams Familie aus der Haft heraus?",
+      "answers": [
+        "Mit einer verschlüsselten Nachricht in einer Zeitungsanzeige",
+        "Mit einer direkten Aussage vor einem Gericht",
+        "Mit einer vorgetäuschten Freilassung auf Bewährung",
+        "Mit einem eingeschmuggelten Brief an Grahams Frau"
+      ],
+      "feedback": [
+        "Eine codierte Anzeige übermittelt dem Täter Angaben zu Grahams Familie.",
+        "Lecktor nutzt keine öffentliche Gerichtsverhandlung für diese Botschaft.",
+        "Er wird dafür nicht auf Bewährung freigelassen.",
+        "Die Nachricht richtet sich an den Mörder, nicht als Brief an Grahams Frau."
+      ],
+      "short": "Eine codierte Anzeige übermittelt dem Täter Angaben zu Grahams Familie.",
+      "context": "Hannibal Lecktor (Brian Cox) erschließt sich trotz Haft Informationen über Will Graham (William Petersen). Eine codierte Mitteilung soll den anderen Täter gegen dessen Familie lenken. Damit schlägt die scheinbar hilfreiche Konsultation in eine private Bedrohung um. Der Kontakt zu einem Fachmann des Bösen bleibt Teil der Gefahr, die Graham lösen soll.",
+      "anchor": "Lecktors codierte Anzeige richtet die Tätersuche gegen Grahams Familie.",
+      "interest": "Der Zusammenhang macht die doppelbödige Hilfe des Gefangenen deutlich.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum wendet sich Dollarhyde (Tom Noonan) nach der Annäherung wieder gegen Reba (Joan Allen)?",
+      "answers": [
+        "Er deutet die Begleitung durch einen Kollegen als Untreue",
+        "Sie erkennt ihn in einem Polizeifoto wieder",
+        "Sie verkauft heimlich seine privaten Filmrollen",
+        "Sie schreibt einen Zeitungsartikel über seine Taten"
+      ],
+      "feedback": [
+        "Seine Eifersucht entsteht aus einer Fehlinterpretation der Begegnung mit dem Kollegen.",
+        "Reba ist blind; eine fotografische Wiedererkennung ist nicht der Auslöser.",
+        "Ein Handel mit seinen Filmrollen verursacht den Umschwung nicht.",
+        "Sie arbeitet im Filmlabor, nicht an einem Enthüllungsartikel."
+      ],
+      "short": "Seine Eifersucht entsteht aus einer Fehlinterpretation der Begegnung mit dem Kollegen.",
+      "context": "Reba McClane (Joan Allen) nimmt Francis Dollarhyde (Tom Noonan) zunächst ohne seine eigene Angst vor Zurückweisung an. Als sie mit einem Kollegen zusammensteht, liest er daraus einen Verrat. Die kurze Aussicht auf Nähe endet deshalb in einer gewalttätigen Fehlinterpretation. Der Film verbindet seine Bedrohlichkeit mit einer beschädigten Wahrnehmung gewöhnlicher sozialer Situationen.",
+      "anchor": "Dollarhydes Eifersucht beruht auf falsch gedeuteter Nähe zu einem Kollegen.",
+      "interest": "Die Frage verfolgt die Ursache des Rückfalls statt nur einen weiteren Mord.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was beweist Graham (William Petersen) das bereits früher gefilmte Türschloss?",
+      "answers": [
+        "Der Täter plante anhand älterer Hausaufnahmen",
+        "Der Täter hatte einen aktuellen Hausschlüssel",
+        "Die Familie hatte einen Einbruch vorgetäuscht",
+        "Ein Polizist hatte das Schloss nach der Tat ersetzt"
+      ],
+      "feedback": [
+        "Der Täter kannte das frühere Schloss aus den Filmen und brachte dafür Werkzeug mit.",
+        "Ein Schlüssel würde das auf die Aufnahmen abgestimmte Werkzeug nicht erklären.",
+        "Die Aufnahmen weisen zum Täter, nicht auf eine Inszenierung durch die Opfer.",
+        "Eine polizeiliche Veränderung nach dem Mord ist nicht die entscheidende Beobachtung."
+      ],
+      "short": "Der Täter kannte das frühere Schloss aus den Filmen und brachte dafür Werkzeug mit.",
+      "context": "Will Graham (William Petersen) vergleicht die privaten Aufnahmen mit den Tatorten. Der Täter bereitete sich auf einen Verschluss vor, den die Familie inzwischen entfernt hatte. Sein Wissen ist also genau, aber veraltet. Diese zeitliche Abweichung macht sichtbar, dass die Vorbereitung auf Bildern beruhte und nicht auf einer unmittelbar vorherigen Besichtigung.",
+      "anchor": "Das verschwundene Schloss verrät ein veraltetes Bild als Informationsquelle.",
+      "interest": "Die Schlussfolgerung verbindet einen kleinen Widerspruch mit dem zentralen Ermittlungsdurchbruch.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1986",
+        "1983",
+        "1980",
+        "1988"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1986.",
+        "1983 liegt drei Jahre vor der ersten Veröffentlichung von 1986.",
+        "1980 liegt sechs Jahre vor der ersten Veröffentlichung von 1986.",
+        "1988 ist ein späteres Jahr als das belegte erste Filmjahr 1986."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1986.",
+      "context": "Thomas Harris veröffentlichte Red Dragon 1981; Michael Manns erste Verfilmung erschien 1986, fünf Jahre später. Brian Cox spielte dabei Hannibal Lecktor. Die Schreibweise weicht vom Roman und späteren Filmen ab. Das Filmjahr gehört somit zur ersten Kinofassung des Stoffes und nicht zur erneuten Verfilmung unter dem Romantitel.",
+      "anchor": "Harris’ Red Dragon 1981 → Manhunter 1986: fünf Jahre.",
+      "interest": "Der Zeitanker ordnet die erste Verfilmung vor die später berühmt gewordenen Lecter-Filme ein.",
+      "sources": [
+        "wiki",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Michael Mann",
+        "Jonathan Demme",
+        "William Friedkin",
+        "Brian De Palma"
+      ],
+      "feedback": [
+        "Michael Mann führte bei diesem Film Regie.",
+        "Jonathan Demme hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Mann.",
+        "William Friedkin hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Mann.",
+        "Brian De Palma hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Mann."
+      ],
+      "short": "Michael Mann führte bei diesem Film Regie.",
+      "context": "Michael Mann schrieb das Drehbuch nach Thomas Harris und führte Regie. Er verbindet technische Ermittlungsarbeit mit Will Grahams (William Petersen) gefährlicher Einfühlung in den Täter. Brian Cox spielt Hannibal Lecktor als bedrückend normalen Gesprächspartner. Die Figur hilft beim Profil, nutzt dieselbe Begegnung aber zugleich für einen Angriff auf Grahams Familie.",
+      "anchor": "Mann verbindet die Tätersuche mit der Gefährdung des Profilers.",
+      "interest": "Der Regiecredit führt zu einer konkreten Verbindung zwischen Stil und Ermittlungsmodell.",
+      "sources": [
+        "wiki",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

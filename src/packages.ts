@@ -57,6 +57,18 @@ export const packages = [
     path: "/schauspieler-bilder-fragen.csv",
     filename: "Schauspieler_Bilderkennung_200_Fragen.csv",
   },
+  {
+    path: "/film-erweiterung-20261007-fragen.csv",
+    filename: "Filmfragen_20261007.csv",
+  },
+  {
+    path: "/personen-erweiterung-20261007-fragen.csv",
+    filename: "Personenfragen_20261007.csv",
+  },
+  {
+    path: "/preise-erweiterung-20261007-fragen.csv",
+    filename: "Preisefragen_20261007.csv",
+  },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

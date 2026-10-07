@@ -1,0 +1,233 @@
+{
+  "rank": 241,
+  "titleDe": "In den Fesseln von Shangri-La",
+  "originalTitle": "Lost Horizon",
+  "year": 1937,
+  "genre": "Abenteuer",
+  "familiarity": 3,
+  "familiarity_reason": "Capras klassischer Utopie- und Abenteuerfilm; Shangri-La und die Mehrdeutigkeit einer perfekten Gesellschaft prägen Filmgeschichte.",
+  "directors": [
+    "Frank Capra"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Premiere in San Francisco am 2. März 1937. Gemeint ist Capras Film von 1937 einschließlich später restaurierter Teile, nicht die musikalische Neuverfilmung von 1973.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Lost_Horizon_(1937_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/6322-LOST-HORIZON",
+      "supports": "Premiere, Regie, Besetzung, Romanjahr 1933, Produktionshintergrund und Handlungszusammenhänge."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/In_den_Fesseln_von_Shangri-La",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie gelangt Robert Conway (Ronald Colman) mit den anderen Reisenden in den Himalaja?",
+      "answers": [
+        "Ihr Evakuierungsflugzeug wird entführt",
+        "Ihr geplanter Bergurlaub endet in einem Erdrutsch",
+        "Ihr Zug wird während einer Grenzschließung umgeleitet",
+        "Ihr Militärkonvoi verliert die Verbindung zum Hauptquartier"
+      ],
+      "feedback": [
+        "Der unbekannte Pilot bringt das Evakuierungsflugzeug in die Berge.",
+        "Die Gruppe hat keinen gemeinsamen Bergurlaub gebucht.",
+        "Die Reise erfolgt mit einem Flugzeug, nicht einem umgeleiteten Zug.",
+        "Die Reisenden bilden keinen Militärkonvoi."
+      ],
+      "short": "Der unbekannte Pilot bringt das Evakuierungsflugzeug in die Berge.",
+      "context": "Robert Conway (Ronald Colman) organisiert die Evakuierung aus einer chinesischen Stadt. Die letzte Maschine trägt ihn und eine kleine Gruppe in eine unerwartete Richtung. Nach dem Absturz werden sie von Chang (H. B. Warner) empfangen. Ihre Rettung führt somit zunächst in eine neue Abhängigkeit, deren Zweck sie noch nicht kennen.",
+      "anchor": "Ein Rettungsflug wird zur gezielten Entführung in die Berge.",
+      "interest": "Die Ausgangsreise erklärt das Misstrauen gegenüber der scheinbar gastlichen Gemeinschaft.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Veränderung erlebt Gloria Stone (Isabel Jewell) im verborgenen Tal?",
+      "answers": [
+        "Ihre schwere Erkrankung bessert sich",
+        "Sie verliert durch die Höhenlage ihr Gehör",
+        "Sie wird dort erstmals als Spionin enttarnt",
+        "Sie muss ihre Fluchtschulden abarbeiten"
+      ],
+      "feedback": [
+        "Die gesundheitliche Besserung gehört zu den wohltätigen Wirkungen des Tals.",
+        "Ein Hörverlust wird nicht als ihre Entwicklung gezeigt.",
+        "Gloria wird nicht als Geheimagentin entlarvt.",
+        "Eine erzwungene Schuldentilgung erklärt ihren Aufenthalt nicht."
+      ],
+      "short": "Die gesundheitliche Besserung gehört zu den wohltätigen Wirkungen des Tals.",
+      "context": "Gloria Stone (Isabel Jewell) kam schwer krank mit dem Flugzeug an. Im Tal gewinnt sie ihre Gesundheit zurück. Ihr Verlauf zeigt die versprochene Wirkung des Ortes am menschlichen Körper und ergänzt dessen Ruhe und Schönheit. Was Robert Conway (Ronald Colman) zunächst als Idee fasziniert, wird für eine Mitreisende zur unmittelbar erlebten Veränderung.",
+      "anchor": "Glorias Genesung macht die ungewöhnliche Kraft des Tals sichtbar.",
+      "interest": "Die Figur liefert einen konkreten Beleg für die Anziehungskraft des Zufluchtsorts.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Weshalb wurde Robert Conway (Ronald Colman) gezielt in das Tal gebracht?",
+      "answers": [
+        "Er soll die Nachfolge des Hohen Lama übernehmen",
+        "Er soll einen Grenzvertrag für die chinesische Regierung unterzeichnen",
+        "Er soll den Einwohnern einen neuen Flughafen bauen",
+        "Er soll als Arzt eine Seuche bekämpfen"
+      ],
+      "feedback": [
+        "Seine Haltung erscheint geeignet, die Gemeinschaft nach dem Hohen Lama zu führen.",
+        "Ein staatlicher Grenzvertrag ist nicht der Zweck der Entführung.",
+        "Ein Flughafen würde die bewusst abgeschlossene Lebensweise verändern und ist kein Auftrag.",
+        "Conway wird nicht wegen einer ärztlichen Qualifikation ausgewählt."
+      ],
+      "short": "Seine Haltung erscheint geeignet, die Gemeinschaft nach dem Hohen Lama zu führen.",
+      "context": "Der Hohe Lama (Sam Jaffe) kennt Robert Conways (Ronald Colman) Gedanken aus dessen Büchern. Sondra (Jane Wyatt) hatte auf ihn aufmerksam gemacht. Die Entführung ist somit keine zufällige Abweichung des Piloten, sondern eine Nachfolgeplanung. Conway soll eine Ordnung bewahren, die er erst nach seiner Ankunft persönlich kennenlernt.",
+      "anchor": "Conways Schriften machen ihn zum ausgewählten Nachfolger.",
+      "interest": "Der Zusammenhang erklärt die gezielte Auswahl des scheinbar zufälligen Reisenden.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Aufgabe gibt der Hohe Lama (Sam Jaffe) seiner Gemeinschaft?",
+      "answers": [
+        "Kultur und Wissen vor weltweiter Zerstörung bewahren",
+        "Eine neue Armee zur Eroberung der Nachbartäler aufbauen",
+        "Bodenschätze an internationale Unternehmen verkaufen",
+        "Alle Erinnerungen an die Außenwelt vernichten"
+      ],
+      "feedback": [
+        "Das Tal soll menschliche Errungenschaften für eine friedlichere Zukunft erhalten.",
+        "Eine Eroberungsarmee widerspricht dem beschriebenen Auftrag.",
+        "Ein Rohstoffgeschäft ist nicht die leitende Aufgabe.",
+        "Die Gemeinschaft sammelt kulturelle Güter, statt sie auszulöschen."
+      ],
+      "short": "Das Tal soll menschliche Errungenschaften für eine friedlichere Zukunft erhalten.",
+      "context": "Der Hohe Lama (Sam Jaffe) rechnet mit weiteren Katastrophen außerhalb des Tals. Die dortige Sammlung von Kunst und Wissen hat deshalb einen Zukunftszweck. Robert Conway (Ronald Colman) soll nicht nur ein angenehmes Leben verwalten, sondern eine Form von Bewahrung fortsetzen. Frieden bedeutet in dieser Vorstellung zugleich Verantwortung gegenüber einer gefährdeten Welt.",
+      "anchor": "Die Abgeschiedenheit dient der Bewahrung menschlicher Kultur.",
+      "interest": "Die Frage macht den Zweck der Utopie über ihren Komfort hinaus verständlich.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was widerlegt nach dem Aufbruch Marias (Margo) behauptete Jugend?",
+      "answers": [
+        "Sie altert außerhalb des Tals rasch und stirbt",
+        "Ihr Pass nennt ein kürzlich gefälschtes Geburtsdatum",
+        "Eine Fotografie zeigt ihre erwachsene Tochter",
+        "Chang legt einen Brief ihres Ehemanns vor"
+      ],
+      "feedback": [
+        "Außerhalb des Tals fällt die außergewöhnliche Alterungspause weg.",
+        "Ein Passbetrug ist nicht die entscheidende Enthüllung.",
+        "Eine Tochter auf einem Foto liefert den Beweis nicht.",
+        "Ein Ehebrief löst Georges Irrtum nicht auf."
+      ],
+      "short": "Außerhalb des Tals fällt die außergewöhnliche Alterungspause weg.",
+      "context": "George Conway (John Howard) glaubt Maria (Margo), die sich als junge Frau ausgibt. Er hält die Warnung vor ihrem wirklichen Alter für eine Lüge. Nachdem sie das Tal verlassen haben, verändert sich ihr Körper dramatisch. Die Widerlegung kommt erst, als der Schutz des Ortes verloren ist, und macht Georges erzwungenen Aufbruch unwiderruflich tragisch.",
+      "anchor": "Marias Alter wird erst jenseits des schützenden Tals sichtbar.",
+      "interest": "Die Wendung verbindet die Regeln des Ortes mit den Folgen einer falschen Vertrauensentscheidung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum bricht Robert Conway (Ronald Colman) seine Heimreise wieder ab?",
+      "answers": [
+        "Seine verlorene Erinnerung kehrt zurück",
+        "Die britische Regierung verweigert ihm den Pass",
+        "Er entdeckt einen Haftbefehl wegen der Flugzeugentführung",
+        "Er erhält auf dem Schiff einen neuen diplomatischen Auftrag"
+      ],
+      "feedback": [
+        "Er erinnert sich an das Tal und macht sich erneut auf die Suche.",
+        "Ein verweigerter Pass ist nicht der Antrieb der Rückkehr.",
+        "Ein Haftbefehl bestimmt diesen Entschluss nicht.",
+        "Er folgt seiner wiedergewonnenen Erinnerung statt einem staatlichen Auftrag."
+      ],
+      "short": "Er erinnert sich an das Tal und macht sich erneut auf die Suche.",
+      "context": "Nach dem entbehrungsreichen Rückweg ist Robert Conway (Ronald Colman) zunächst ohne Erinnerung an das Tal. Erst während der weiteren Reise kehrt sie zurück. Er verlässt den vorgesehenen Weg nach Hause und sucht den Zugang erneut. Der Schluss verwandelt die ursprüngliche Entführung damit in eine eigene, bewusste Entscheidung für die verlorene Gemeinschaft.",
+      "anchor": "Die wiederkehrende Erinnerung macht aus der Entführung eine freiwillige Rückkehrsuche.",
+      "interest": "Der Schluss erklärt die veränderte Selbstbestimmung der Hauptfigur.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1937",
+        "1934",
+        "1931",
+        "1939"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1937.",
+        "1934 liegt drei Jahre vor der ersten Veröffentlichung von 1937.",
+        "1931 liegt sechs Jahre vor der ersten Veröffentlichung von 1937.",
+        "1939 ist ein späteres Jahr als das belegte erste Filmjahr 1937."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1937.",
+      "context": "James Hiltons Roman Lost Horizon erschien 1933; Frank Capras Verfilmung folgte 1937, vier Jahre später. Der Film übernimmt die verborgene Gemeinschaft im Himalaja, die menschliche Errungenschaften vor künftiger Zerstörung bewahren will. Das Buchjahr verankert die Datierung zugleich in der Entstehung dieses Gegenbilds zu einer von Konflikten beherrschten Außenwelt.",
+      "anchor": "Hiltons Roman 1933 → Capras Film 1937: vier Jahre.",
+      "interest": "Die Verbindung ordnet den Film als zeitnahe Adaption einer literarischen Friedensutopie ein.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Frank Capra",
+        "William Wyler",
+        "King Vidor",
+        "Frank Borzage"
+      ],
+      "feedback": [
+        "Frank Capra führte bei diesem Film Regie.",
+        "William Wyler hat diesen Film nicht inszeniert; der Regiecredit lautet Frank Capra.",
+        "King Vidor hat diesen Film nicht inszeniert; der Regiecredit lautet Frank Capra.",
+        "Frank Borzage hat diesen Film nicht inszeniert; der Regiecredit lautet Frank Capra."
+      ],
+      "short": "Frank Capra führte bei diesem Film Regie.",
+      "context": "Frank Capra inszenierte Robert Riskins Adaption. Die Produktion wartete auf Ronald Colman für Robert Conway und errichtete umfangreiche Kulissen für die abgeschlossene Berggemeinschaft. Ihre sichtbare Ordnung und Ruhe sollen verständlich machen, warum Conway sich dort heimisch fühlt, obwohl seine Ankunft auf einer Entführung beruht. Der äußere Zwang und die innere Zustimmung stehen dadurch nebeneinander.",
+      "anchor": "Capra verbindet Colmans ruhigen Diplomaten mit einer eigens gebauten Bergutopie.",
+      "interest": "Der Produktionshintergrund erklärt die überzeugende Anziehungskraft des erfundenen Zufluchtsorts.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

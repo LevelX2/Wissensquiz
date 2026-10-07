@@ -1,0 +1,236 @@
+{
+  "rank": 270,
+  "titleDe": "Caché",
+  "originalTitle": "Caché",
+  "year": 2005,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Hanekes Beobachtungsthriller untersucht Schuld und die Unsicherheit des Kamerablicks statt eindeutiger Täterauflösung.",
+  "directors": [
+    "Michael Haneke"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Österreich",
+    "Deutschland",
+    "Italien"
+  ],
+  "release_note": "Uraufführung in Cannes im Mai 2005; Kinostarts folgten später. Originaldrehbuch und Regie stammen von Michael Haneke.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Cach%C3%A9_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/cache/",
+      "supports": "Wettbewerb und Regiepreis 2005, Regie und Drehbuch, vier Produktionsländer und Rollenbesetzung."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Cach%C3%A9_(Film)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was erhält die Familie Laurent in den ersten anonymen Sendungen?",
+      "answers": [
+        "Videobänder mit Aufnahmen ihres Hauses",
+        "Tonbänder mit erfundenen Gerichtsverhandlungen",
+        "Fotos von versteckten Schmuckdepots",
+        "Kopien von unbekannten Reiseverträgen"
+      ],
+      "feedback": [
+        "Die Bänder zeigen das Haus aus einer beobachtenden Außenperspektive.",
+        "Gerichtsverhandlungen werden nicht als erste Botschaften übermittelt.",
+        "Schmuckdepots sind nicht der Inhalt.",
+        "Reiseverträge bilden nicht die Sendungen."
+      ],
+      "short": "Die Bänder zeigen das Haus aus einer beobachtenden Außenperspektive.",
+      "context": "Georges (Daniel Auteuil) und Anne (Juliette Binoche) sehen ihr eigenes Haus aus einer fremden Perspektive. Die Aufnahme zeigt noch keine ausgeführte Gewalttat, erzeugt aber Unsicherheit über die Beobachtung. Spätere Bänder beziehen die Vergangenheit ein. Die Bedrohung entsteht damit durch einen Blick, dessen Urheber und Absicht sich den Empfängern entziehen.",
+      "anchor": "Das vertraute Haus erscheint im anonymen Video als fremd beobachteter Raum.",
+      "interest": "Die Ausgangsbotschaft erklärt die Unsicherheit ohne eine schon sichtbare Gewalttat.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Arbeit macht Georges Laurent (Daniel Auteuil) öffentlich bekannt?",
+      "answers": [
+        "Er moderiert eine Literatursendung im Fernsehen",
+        "Er leitet ein Krankenhaus in Paris",
+        "Er ist Richter an einem Strafgericht",
+        "Er organisiert internationale Sportveranstaltungen"
+      ],
+      "feedback": [
+        "Georges ist als Fernsehmoderator einer Literatursendung bekannt.",
+        "Ein Krankenhaus leitet er nicht.",
+        "Ein Richteramt ist nicht sein Beruf.",
+        "Die Sportveranstaltungen gehören nicht zu seiner Tätigkeit."
+      ],
+      "short": "Georges ist als Fernsehmoderator einer Literatursendung bekannt.",
+      "context": "Georges (Daniel Auteuil) verfügt über eine öffentliche Rolle, in der Gespräche geordnet und bearbeitet werden. Die privaten Sendungen entziehen sich dagegen seiner Kontrolle. Als auch sein Arbeitgeber eine Aufnahme erhält, überschreitet die vergangene Geschichte die Grenze des Hauses. Der berufliche Status schützt ihn nicht davor, dass andere sein Verhalten beobachten können.",
+      "anchor": "Georges kontrolliert öffentliche Gespräche, aber nicht die Bilder seiner privaten Vergangenheit.",
+      "interest": "Der Beruf erklärt den Kontrast zwischen öffentlicher Sicherheit und privater Verunsicherung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum wurde Majid (Maurice Bénichou) als Kind aus Georges’ Familie entfernt?",
+      "answers": [
+        "Georges log aus Eifersucht, um die geplante Aufnahme Majids zu verhindern",
+        "Majid erhielt ein ausländisches Stipendium und bat selbst um die Abreise",
+        "Georges’ Eltern schickten beide Jungen gemeinsam in dieselbe Internatsschule",
+        "Majids Eltern kehrten zurück und holten ihn sofort wieder ab"
+      ],
+      "feedback": [
+        "Georges’ Lügen tragen zur Entfernung des verwaisten Jungen bei.",
+        "Ein freiwilliges Auslandsstipendium erklärt sie nicht.",
+        "Die Jungen werden nicht gemeinsam ins Internat geschickt.",
+        "Eine Rückkehr der Eltern löst die Abreise nicht aus."
+      ],
+      "short": "Georges’ Lügen tragen zur Entfernung des verwaisten Jungen bei.",
+      "context": "Georges’ Eltern wollten Majid nach dem Verschwinden seiner Eltern aufnehmen. Georges empfand dies als Bedrohung und erfand Vorwürfe. Der erwachsene Georges (Daniel Auteuil) beruft sich später auf sein damaliges Alter. Die Erinnerung legt damit sowohl eine konkrete schädigende Handlung als auch seine gegenwärtige Haltung zur Verantwortung offen.",
+      "anchor": "Georges’ kindliche Eifersucht führte zu Lügen; der Erwachsene verweist später auf sein Alter.",
+      "interest": "Die Vorgeschichte erklärt den Unterschied zwischen früherem Handeln und späterer Rechtfertigung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was widerlegt die Vermutung, Majid habe Pierrot entführt?",
+      "answers": [
+        "Pierrot kehrt zurück und war bei einem Freund",
+        "Majid legt Georges den unterschriebenen Pass des Jungen vor",
+        "Anne findet Pierrot unter Polizeischutz in einem Hotel",
+        "Georges erhält einen schriftlichen Entführungsauftrag von seinem Arbeitgeber"
+      ],
+      "feedback": [
+        "Die Rückkehr mit der Erklärung des Freundesbesuchs löst den Verdacht auf.",
+        "Ein unterschriebener Pass ist nicht der Gegenbeweis.",
+        "Ein Hotelaufenthalt unter Polizeischutz wird nicht entdeckt.",
+        "Ein Auftrag des Arbeitgebers begründet die Vermutung nicht."
+      ],
+      "short": "Die Rückkehr mit der Erklärung des Freundesbesuchs löst den Verdacht auf.",
+      "context": "Pierrots (Lester Makedonsky) Ausbleiben bringt Georges (Daniel Auteuil) dazu, seine Unsicherheit gegen Majid (Maurice Bénichou) zu wenden. Majid und dessen Sohn werden festgenommen. Der Junge war jedoch bei einem Freund. Die Szene zeigt, wie ein schon bestehender Verdacht eine neue Lücke im Wissen füllt und reale Folgen für andere Menschen erzeugt.",
+      "anchor": "Pierrots Freundesbesuch zeigt, dass der alte Verdacht die neue Wissenslücke falsch ausgefüllt hat.",
+      "interest": "Der Zusammenhang erklärt die Folgen voreiliger Beschuldigung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum macht die zugeschickte Aufnahme von Georges’ Besuch bei Majid einen neuen Konflikt mit Anne möglich?",
+      "answers": [
+        "Sie zeigt, dass Georges einen Kontakt verschwiegen und Anne falsch informiert hat",
+        "Sie zeigt, dass Anne den Besuch vollständig selbst gefilmt hat",
+        "Sie beweist, dass Georges bereits einen Haftbefehl gegen Anne besitzt",
+        "Sie bestätigt, dass Georges und Majid zusammen die Sendung moderieren"
+      ],
+      "feedback": [
+        "Die Aufnahme widerspricht Georges’ vorheriger Darstellung gegenüber Anne.",
+        "Annes eigene Kameraführung wird nicht bewiesen.",
+        "Ein Haftbefehl gegen Anne steht nicht zur Debatte.",
+        "Eine gemeinsame Moderation besteht nicht."
+      ],
+      "short": "Die Aufnahme widerspricht Georges’ vorheriger Darstellung gegenüber Anne.",
+      "context": "Georges (Daniel Auteuil) wollte seinen Verdacht zunächst für sich behalten. Die Aufnahme seines Gesprächs mit Majid (Maurice Bénichou) erreicht Anne (Juliette Binoche) und macht seine unvollständige Darstellung überprüfbar. Die äußere Beobachtung greift damit in das Vertrauen der Eheleute ein. Die Krise entsteht auch aus Georges’ Umgang mit vorhandenem Wissen, nicht nur aus unbekannten Absendern.",
+      "anchor": "Das Video macht Georges’ verschwiegene Begegnung für Anne sichtbar und beschädigt ihr Vertrauen.",
+      "interest": "Die Frage erklärt eine überprüfbare Wirkung der Bänder unabhängig von ihrem Urheber.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Was ist in der langen letzten Schuleinstellung zu erkennen?",
+      "answers": [
+        "Pierrot und Majids Sohn sprechen miteinander",
+        "Georges und Anne übergeben der Polizei den Absender der Bänder",
+        "Majid verlässt mit Pierrot in einem Wagen die Stadt",
+        "Georges erklärt den Schülern öffentlich sein Kindheitsgeständnis"
+      ],
+      "feedback": [
+        "Die beiden Söhne begegnen sich, ohne dass ihr Gespräch eindeutig erklärt wird.",
+        "Ein festgestellter Absender wird nicht übergeben.",
+        "Majid erscheint dort nicht als lebender Fahrer.",
+        "Ein öffentliches Schulgeständnis Georges’ findet nicht statt."
+      ],
+      "short": "Die beiden Söhne begegnen sich, ohne dass ihr Gespräch eindeutig erklärt wird.",
+      "context": "Die letzte Einstellung zeigt im Schülergewimmel Pierrot (Lester Makedonsky) und Majids Sohn (Walid Afkir). Ihr Gespräch wird nicht so aufgelöst, dass sich daraus eine sichere Identität des Absenders ableiten ließe. Die Beobachtung liefert einen neuen Zusammenhang und lässt dennoch Fragen offen. Der Film endet damit bei einem sichtbaren Sachverhalt, dessen vollständige Bedeutung unbekannt bleibt.",
+      "anchor": "Die Söhne sprechen miteinander; die Bedeutung des Gesprächs und der Bandabsender bleiben offen.",
+      "interest": "Der Schluss übt die Trennung zwischen sichtbarer Beobachtung und behaupteter Erklärung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2005",
+        "2002",
+        "1999",
+        "2007"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2005.",
+        "2002 liegt drei Jahre vor der ersten Veröffentlichung von 2005.",
+        "1999 liegt sechs Jahre vor der ersten Veröffentlichung von 2005.",
+        "2007 ist ein späteres Jahr als das belegte erste Filmjahr 2005."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2005.",
+      "context": "Caché wurde 2005 veröffentlicht. In der Familienvorgeschichte steht das Pariser Massaker an Algeriern von 1961, vierundvierzig Jahre zuvor. Die Handlung verbindet das Verschwinden von Majids Eltern mit diesem historischen Ereignis. Das Filmjahr bezeichnet deshalb einen späteren Blick auf eine verdrängte Geschichte, die im Leben der erwachsenen Figuren weiterwirkt.",
+      "anchor": "Pariser Massaker 1961 → Caché 2005: vierundvierzig Jahre bis zum filmischen Rückblick.",
+      "interest": "Die historische Verbindung macht das Jahr als Zeitpunkt später Erinnerung verständlich.",
+      "sources": [
+        "wiki",
+        "cannes"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Michael Haneke",
+        "Claude Chabrol",
+        "François Ozon",
+        "Jacques Audiard"
+      ],
+      "feedback": [
+        "Michael Haneke führte bei diesem Film Regie.",
+        "Claude Chabrol hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Haneke.",
+        "François Ozon hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Haneke.",
+        "Jacques Audiard hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Haneke."
+      ],
+      "short": "Michael Haneke führte bei diesem Film Regie.",
+      "context": "Michael Haneke schrieb und inszenierte die Geschichte um Georges (Daniel Auteuil) und Majid (Maurice Bénichou). Lange, ruhige Einstellungen können zunächst wie gewöhnliche Filmbilder wirken und sich erst später als Aufnahmen auf einer Videokassette erweisen. Die Gestaltung erschwert eine sichere Einordnung des Blicks. Sie verlangt dieselbe vorsichtige Prüfung, die Georges bei seinen eigenen Verdächtigungen häufig unterlässt.",
+      "anchor": "Hanekes ruhige Bilder lassen die Grenze zwischen Filmhandlung und beobachtender Videoaufnahme unsicher werden.",
+      "interest": "Der Hintergrund erklärt die Bildform als Teil des Problems vorschneller Zuschreibung.",
+      "sources": [
+        "wiki",
+        "cannes"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Arthouse"
+}

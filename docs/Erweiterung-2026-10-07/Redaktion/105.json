@@ -1,0 +1,219 @@
+{
+  "rank": 105,
+  "titleDe": "Denen man nicht vergibt",
+  "originalTitle": "The Unforgiven",
+  "year": 1960,
+  "genre": "Western",
+  "familiarity": 3,
+  "directors": [
+    "John Huston"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Kinostart am 6. April 1960 laut AFI; nicht mit Clint Eastwoods Unforgiven von 1992 zu verwechseln.",
+  "familiarity_reason": "Burt Lancaster, Audrey Hepburn und John Huston machen die Fassung von 1960 im klassischen Kino wiedererkennbar; sie ist weniger allgegenwärtig als die Hauptwerke ihrer Filmografien, Bekanntheit 3.",
+  "sources": {
+    "afi": "https://catalog.afi.com/Film/53394-THE-UNFORGIVEN",
+    "handlung": "https://en.wikipedia.org/wiki/The_Unforgiven_(1960_film)",
+    "tcm": {
+      "url": "https://www.tcm.com/articles/38739/the-unforgiven",
+      "supports": "Gelesener Originalartikel: Herkunftsenthüllung, Familienkonflikt, Hustons Schwerpunkt auf Rassismus, Drehbuch Ben Maddow und Produktionsstreit."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Familie wächst Rachel in @ auf?",
+      "answers": [
+        "Als aufgenommene Tochter bei den Zacharys",
+        "Als Tochter des örtlichen Sheriffs",
+        "Als Schwester des Händlers Rawlins",
+        "Als allein lebendes Kind ohne Familie"
+      ],
+      "feedback": [
+        "Die Zacharys haben Rachel aufgenommen.",
+        "Der Sheriff ist nicht ihr Vater.",
+        "Rawlins ist nicht ihr Bruder.",
+        "Rachel wächst nicht allein auf."
+      ],
+      "short": "Die Zacharys haben Rachel aufgenommen.",
+      "context": "Rachel (Audrey Hepburn) lebt als Tochter im Haushalt der Zacharys. Diese familiäre Zugehörigkeit ist zunächst ihr Alltag. Später wird ihre Herkunft zum Anlass, die Beziehung von außen anzufechten. Die Geschichte unterscheidet damit die gelebene Bindung von den Abstammungsansprüchen, die andere Menschen gegen sie richten.",
+      "anchor": "Rachels gelebte Zugehörigkeit zu den Zacharys wird später von außen angefochten.",
+      "interest": "Erfasst die Ausgangslage der Familie.",
+      "sources": [
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Behauptung löst in @ die feindseligen Reaktionen gegen Rachel aus?",
+      "answers": [
+        "Sie sei als Kind aus einer Kiowa-Familie aufgenommen worden.",
+        "Sie habe einen Kiowa-Krieger heimlich geheiratet.",
+        "Sie habe den Angreifern eine Nachricht über die Ranch geschickt.",
+        "Sie wolle die Zacharys gegen eine eigene Familie eintauschen."
+      ],
+      "feedback": [
+        "Die Behauptung betrifft ihre Kiowa-Herkunft.",
+        "Das Gerücht gilt ihrer Herkunft, nicht einer geheimen Hochzeit.",
+        "Ihr wird eine andere Abstammung zugeschrieben und keine konkrete Nachricht nachgewiesen.",
+        "Der Konflikt wird durch eine Herkunftsenthüllung ausgelöst, nicht durch Rachels erklärten Wechselwunsch."
+      ],
+      "short": "Die Behauptung betrifft ihre Kiowa-Herkunft.",
+      "context": "Rachel (Audrey Hepburn) wird wegen der behaupteten Kiowa-Herkunft angefeindet. Die Reaktion richtet sich nicht gegen eine konkrete Tat von ihr. Die Nachbarn machen Abstammung zum Maßstab ihrer Zugehörigkeit und verändern dadurch auch ihre Haltung zu der Familie, die Rachel aufgenommen hat.",
+      "anchor": "Die Feindseligkeit entsteht aus einer Herkunftsbehauptung statt aus Rachels Verhalten.",
+      "interest": "Erklärt den rassistischen Anlass des Konflikts.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie reagiert Cash in @ zunächst auf die bestätigte Herkunft seiner aufgenommenen Schwester?",
+      "answers": [
+        "Er weist sie zurück und verlässt die Familie.",
+        "Er übernimmt sofort ihre Verteidigung gegen alle Nachbarn.",
+        "Er bietet Lost Bird einen friedlichen Landtausch an.",
+        "Er bittet Rachel, die Ranch künftig allein zu verwalten."
+      ],
+      "feedback": [
+        "Cash reagiert mit Ablehnung und geht fort.",
+        "Eine sofortige vorbehaltlose Verteidigung erfolgt nicht.",
+        "Ein Landtausch ist nicht seine Reaktion.",
+        "Er übergibt Rachel nicht die Ranchverwaltung."
+      ],
+      "short": "Cash reagiert mit Ablehnung und geht fort.",
+      "context": "Cash (Audie Murphy) weist Rachel (Audrey Hepburn) nach der Offenlegung ihrer Herkunft zurück. Sein Fortgehen zeigt, wie stark Vorurteile selbst eine gelebte Familienbindung verdrängen können. Seine spätere Rückkehr in der Gefahr erhält ihren Sinn gerade durch diese vorherige Entscheidung gegen die eigene Familie.",
+      "anchor": "Cash muss eine zuerst verweigerte familiäre Bindung später wieder aufnehmen.",
+      "interest": "Verknüpft seine erste Reaktion mit der Bedeutung seiner Rückkehr.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum bringt Matilda in @ Kelseys Pferd zum Wegspringen, während er die Schlinge trägt?",
+      "answers": [
+        "Sie beendet gewaltsam seine Enthüllung des Familiengeheimnisses.",
+        "Sie möchte Rachel damit vor einer weiteren Bedrohung schützen, bevor er spricht.",
+        "Sie will verhindern, dass Kelsey Ben eines Mordes beschuldigt.",
+        "Sie will Kelsey wegen eines früheren Viehdiebstahls bestrafen."
+      ],
+      "feedback": [
+        "Ihre Handlung lässt Kelsey hängen und beendet seine Enthüllung.",
+        "Matilda bringt ihn zum Schweigen, nachdem das Familiengeheimnis ans Licht kommt.",
+        "Kelseys Enthüllung betrifft Rachel und die Familie, nicht eine Mordanklage gegen Ben.",
+        "Das gewaltsame Ende hängt mit dem Geheimnis zusammen und nicht mit einem Viehdelikt."
+      ],
+      "short": "Ihre Handlung lässt Kelsey hängen und beendet seine Enthüllung.",
+      "context": "Matilda (Lillian Gish) treibt das Pferd von Abe Kelsey (Joseph Wiseman) an, während er die Schlinge trägt. Die Enthüllung der Herkunft wird damit gewaltsam abgebrochen. Ihr Schutzanspruch gegenüber der Familie verbindet sich mit einer Tat, deren Folgen sich nicht mehr rückgängig machen lassen.",
+      "anchor": "Matilda schützt das Geheimnis, indem sie die Enthüllung tödlich beendet.",
+      "interest": "Erklärt den Zusammenhang zwischen Geheimnis und Gewalt.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welchen Rückzugsort nutzt die Familie in @, als ihr Haus in Brand gerät?",
+      "answers": [
+        "Den Vorratskeller unter dem Haus",
+        "Eine Scheune hinter dem Haus",
+        "Ein befestigter Pferdestall",
+        "Ein nahes Erdloch außerhalb der Ranch"
+      ],
+      "feedback": [
+        "Die Familie zieht sich in den Keller zurück.",
+        "Der Keller unter dem brennenden Haus ist ihr Rückzugsort.",
+        "Sie ziehen sich unter das Haus zurück und nicht in den Stall.",
+        "Das Versteck befindet sich im Gebäude, nicht außerhalb der Ranch."
+      ],
+      "short": "Die Familie zieht sich in den Keller zurück.",
+      "context": "Ben (Burt Lancaster) zieht sich mit der Familie in den Keller zurück, während das Haus brennt. Der häusliche Raum verliert seine gewöhnliche Schutzfunktion und wird zur Kampfstellung. Das Überleben gelingt dadurch innerhalb des zerstörten Zuhauses, dessen Wiederherstellung am Ende keineswegs gesichert ist.",
+      "anchor": "Der Keller schützt die Familie, während ihr Zuhause über ihr zerstört wird.",
+      "interest": "Verbindet die Verteidigung mit dem Verlust des Hauses.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie beantwortet Rachel in @ am Ende Lost Birds Anspruch, sie gehöre zu ihm?",
+      "answers": [
+        "Sie erschießt ihn im Keller.",
+        "Sie verlässt die Zacharys mit ihm.",
+        "Sie lässt sich gegen Pferde eintauschen.",
+        "Sie zwingt beide Familien zu einem schriftlichen Friedensvertrag."
+      ],
+      "feedback": [
+        "Rachel schießt auf Lost Bird.",
+        "Sie zieht am Ende nicht mit ihm fort.",
+        "Ein Pferdetausch entscheidet den Schluss nicht.",
+        "Ein Friedensvertrag beendet die Begegnung nicht."
+      ],
+      "short": "Rachel schießt auf Lost Bird.",
+      "context": "Rachel (Audrey Hepburn) erschießt Lost Bird (Carlos Rivas), als er in den Keller gelangt. Die Entscheidung beendet den Anspruch auf ihre Rückkehr mit Gewalt. Das Finale lässt die familiäre Bindung bestehen, zeigt aber zugleich den hohen menschlichen Preis, den die Auseinandersetzung um Zugehörigkeit verursacht.",
+      "anchor": "Rachels Entscheidung für die gelebte Familie erhält einen tödlichen Preis.",
+      "interest": "Erklärt die gewaltsame Zuspitzung der Zugehörigkeitsfrage.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, drei Jahre nach Alan LeMays gleichnamigem Roman von 1957?",
+      "answers": [
+        "1960",
+        "1958",
+        "1959",
+        "1962"
+      ],
+      "feedback": [
+        "1960 liegt drei Jahre nach 1957.",
+        "1958 liegt ein Jahr danach.",
+        "1959 liegt zwei Jahre danach.",
+        "1962 liegt fünf Jahre danach."
+      ],
+      "short": "1960 liegt drei Jahre nach 1957.",
+      "context": "Alan LeMays Roman The Unforgiven erschien 1957; die Filmfassung folgte 1960, drei Jahre später. Der Stoff war zuvor auch als Kiowa Moon fortlaufend veröffentlicht worden. Die Verbindung hält diese konkrete Adaption auseinander von dem späteren Western Unforgiven, der einen anderen Stoff erzählt.",
+      "anchor": "1957 die Romanvorlage, 1960 ihre Adaption: drei Jahre Abstand.",
+      "interest": "Verankert die konkrete Filmfassung in ihrer literarischen Vorlage.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ aus dem Jahr 1960 die ausgewiesene Gesamtregie?",
+      "answers": [
+        "John Huston",
+        "John Ford",
+        "William Wyler",
+        "Delmer Daves"
+      ],
+      "feedback": [
+        "Huston ist der ausgewiesene Regisseur.",
+        "Ford führte bei dieser Fassung nicht Regie.",
+        "Wyler führte bei dieser Fassung nicht Regie.",
+        "Daves führte bei dieser Fassung nicht Regie."
+      ],
+      "short": "Huston ist der ausgewiesene Regisseur.",
+      "context": "John Huston inszenierte Ben Maddows Bearbeitung des Romans von Alan LeMay. TCM beschreibt einen Streit über den Schwerpunkt: Huston wollte die rassistische Intoleranz stärker untersuchen, während Produzenten einen konventionelleren Actionwestern bevorzugten. Der Film verbindet damit eine Familienhandlung mit einer moralischen Frage, deren Gewicht schon bei der Herstellung umstritten war.",
+      "anchor": "Hustons Regie war mit einem umstrittenen Schwerpunkt auf rassistischer Intoleranz verbunden.",
+      "interest": "Erklärt eine belegte kreative Spannung bei der Adaption.",
+      "sources": [
+        "tcm"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "director_note": "AFI nennt John Huston als Regisseur. Ein zeitgenössischer Bericht über Emilio Fernández als Betreuer der Außenactionszenen wird verzeichnet; AFI erklärt den Umfang seines Beitrags am fertigen Film ausdrücklich für unbestimmt. Kein zusätzlicher Gesamtregiecredit wird daraus abgeleitet."
+}

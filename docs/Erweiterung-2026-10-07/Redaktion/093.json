@@ -1,0 +1,222 @@
+{
+  "rank": 93,
+  "titleDe": "Raw",
+  "originalTitle": "Grave",
+  "year": 2016,
+  "genre": "Horror",
+  "familiarity": 3,
+  "directors": [
+    "Julia Ducournau"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Belgien"
+  ],
+  "release_note": "Weltpremiere in der Semaine de la Critique in Cannes am 14. Mai 2016; breite Kinostarts folgten 2017. Die Festivalquelle führt Frankreich/Belgien und 2016.",
+  "familiarity_reason": "Ducournaus Debüt ist im modernen internationalen Horrorkino gut bekannt, aber deutlich weniger allgegenwärtig als große US-Genreproduktionen; Bekanntheit 3.",
+  "sources": {
+    "festival": "https://www.semainedelacritique.com/en/edition/2016/movie/grave",
+    "kritik": "https://www.rogerebert.com/reviews/raw-2017",
+    "bfi": "https://www.bfi.org.uk/sight-and-sound/reviews/raw-first-look",
+    "handlung": "https://en.wikipedia.org/wiki/Raw_(film)",
+    "szenen": "https://www.screenscenesfilm.com/2017/09/review-raw-2016.html",
+    "titane": "https://www.festival-cannes.com/en/f/titane/",
+    "bio": "https://www.festival-cannes.com/p/julia-ducournau/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Ausbildung beginnt Justine in @?",
+      "answers": [
+        "Tiermedizin",
+        "Humanmedizin",
+        "Lebensmittelchemie",
+        "Pflegewissenschaft"
+      ],
+      "feedback": [
+        "Sie beginnt an einer veterinärmedizinischen Hochschule.",
+        "Es ist keine humanmedizinische Ausbildung.",
+        "Lebensmittelchemie ist nicht ihr Studienfach.",
+        "Sie beginnt kein Pflegestudium."
+      ],
+      "short": "Sie beginnt an einer veterinärmedizinischen Hochschule.",
+      "context": "Justine (Garance Marillier) beginnt ein Tiermedizinstudium, wie es bereits ihre Eltern und ihre ältere Schwester gewählt haben. Der vertraute Familienweg führt sie in eine fremde, raue Umgebung. Ihre fachliche Begabung bewahrt sie dort nicht davor, durch die sozialen Regeln der Gruppe unter Druck zu geraten.",
+      "anchor": "Der vertraute Familienberuf führt Justine in eine bedrohliche neue Gruppe.",
+      "interest": "Verbindet die Ausbildung mit der gesellschaftlichen Ausgangssituation.",
+      "sources": [
+        "festival"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Mutprobe verletzt in @ Justines vegetarische Lebensweise?",
+      "answers": [
+        "Sie muss eine rohe Kaninchenniere essen.",
+        "Sie muss einen ganzen Fisch fangen.",
+        "Sie muss eine Fleischmahlzeit für die Familie kochen.",
+        "Sie muss ein Tier allein operieren."
+      ],
+      "feedback": [
+        "Das Essen der rohen Niere gehört zum Aufnahmeritual.",
+        "Ein Fischfang ist nicht diese Mutprobe.",
+        "Eine Familienmahlzeit löst die Veränderung nicht aus.",
+        "Eine Operation ist nicht der erzwungene Verstoß gegen ihre Ernährung."
+      ],
+      "short": "Das Essen der rohen Niere gehört zum Aufnahmeritual.",
+      "context": "Justine (Garance Marillier) wird beim Aufnahmeritual zum Essen einer rohen Kaninchenniere gedrängt. Alexia (Ella Rumpf) schützt die jüngere Schwester dabei nicht vor dem Gruppenzwang. Das Ritual verbindet die Aufnahme in die Hochschule mit der Missachtung einer Grenze, die Justine aus ihrer Familie mitgebracht hat.",
+      "anchor": "Die rohe Niere macht Gruppenzugehörigkeit zum Bruch mit der Familienregel.",
+      "interest": "Erklärt den Beginn der Veränderung durch ein konkretes Ritual.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was geschieht nach dem missglückten Enthaarungsversuch der Schwestern in @?",
+      "answers": [
+        "Justine isst Alexias abgetrennten Finger.",
+        "Alexia versteckt den Finger im Labor.",
+        "Justine wirft den Finger aus Angst weg.",
+        "Die Schwestern nähen den Finger selbst wieder an."
+      ],
+      "feedback": [
+        "Justine gibt ihrem Hunger nach und isst den Finger.",
+        "Alexia verbirgt ihn nicht als Laborstück.",
+        "Justine weist das Körperteil nicht nur zurück.",
+        "Eine eigenhändige Wiederannähung beendet die Szene nicht."
+      ],
+      "short": "Justine gibt ihrem Hunger nach und isst den Finger.",
+      "context": "Bei der missglückten Enthaarung verliert Alexia (Ella Rumpf) einen Finger. Justine (Garance Marillier) isst das abgetrennte Körperteil. Aus einer vermeintlichen Anleitung zu erwachsenem Körperverhalten entsteht eine Grenzverletzung zwischen den Schwestern. Die Szene verschränkt alltägliche Unsicherheit mit einem Hunger, den Justine noch nicht beherrscht.",
+      "anchor": "Die Anleitung zur Körperpflege endet im Verzehr des Fingers.",
+      "interest": "Verknüpft den Unfall mit dem Umschlag der Schwesterbeziehung.",
+      "sources": [
+        "szenen"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum verursacht Alexia in @ absichtlich einen Verkehrsunfall?",
+      "answers": [
+        "Sie will an menschliches Fleisch gelangen.",
+        "Sie möchte einen Unfallwagen stehlen.",
+        "Sie möchte einen Autofahrer wegen einer früheren Tat bestrafen.",
+        "Sie möchte den Rettungsdienst vom Campus weglocken."
+      ],
+      "feedback": [
+        "Die Opfer des Unfalls sollen ihren Hunger stillen.",
+        "Alexia schafft Gelegenheit zum Verzehr menschlichen Fleisches, nicht zum Autodiebstahl.",
+        "Das Opfer wird als Nahrungsquelle ausgesucht und nicht wegen einer persönlichen Vorgeschichte.",
+        "Der Unfall dient ihrem Hunger und keiner taktischen Ablenkung des Rettungsdienstes."
+      ],
+      "short": "Die Opfer des Unfalls sollen ihren Hunger stillen.",
+      "context": "Alexia (Ella Rumpf) zeigt Justine (Garance Marillier), wie sie durch einen provozierten Unfall an Opfer gelangt. Damit verwandelt sie den Drang in eine gezielte Beschaffungsmethode. Justines Entsetzen markiert einen Unterschied zwischen den Schwestern: Ein geteilter Hunger führt nicht automatisch zur gleichen Entscheidung gegenüber anderen Menschen.",
+      "anchor": "Alexia organisiert Opfer; Justine erschrickt vor dieser planvollen Gewalt.",
+      "interest": "Unterscheidet den gemeinsamen Drang von der gewählten Handlung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche öffentliche Bloßstellung verschärft in @ den Konflikt zwischen den Schwestern?",
+      "answers": [
+        "Ein Video zeigt Justine betrunken mit einem Leichnam.",
+        "Eine Prüfungsaufnahme zeigt Justine beim Abschreiben.",
+        "Ein Interview erklärt Alexia zur einzigen guten Studentin.",
+        "Eine Überwachung zeigt Justine beim Diebstahl eines Tiers."
+      ],
+      "feedback": [
+        "Die Aufnahme aus der Leichenhalle macht ihren Hunger zur öffentlichen Demütigung.",
+        "Es geht nicht um dokumentierten Prüfungsbetrug.",
+        "Ein vergleichendes Interview verursacht diese Eskalation nicht.",
+        "Ein Tierdiebstahl ist nicht der Inhalt des Videos."
+      ],
+      "short": "Die Aufnahme aus der Leichenhalle macht ihren Hunger zur öffentlichen Demütigung.",
+      "context": "Justine (Garance Marillier) wird betrunken mit einem Leichnam gefilmt. Die anschließende Reaktion der anderen Studierenden verschärft den Streit mit Alexia (Ella Rumpf). Der Körper, den Justine selbst kaum versteht, wird nun auch zum Gegenstand fremder Bilder und Urteile. Ihre Verletzbarkeit ist zugleich körperlich und sozial.",
+      "anchor": "Das Video verwandelt den geheimen Hunger in öffentliche Demütigung.",
+      "interest": "Erklärt die Verbindung von Aufzeichnung, Gruppendruck und Schwesterkonflikt.",
+      "sources": [
+        "bfi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was zeigen die Narben des Vaters im Schluss von @?",
+      "answers": [
+        "Auch die Mutter besitzt den Drang nach menschlichem Fleisch.",
+        "Alexia hat ihn heimlich bei einem Unfall verletzt.",
+        "Er hat die Narben bei tiermedizinischen Versuchen erhalten.",
+        "Er wurde von den Studierenden bei einem Ritual angegriffen."
+      ],
+      "feedback": [
+        "Die Narben verbinden den Drang mit der älteren Generation der Familie.",
+        "Ein Unfall durch Alexia erklärt sie nicht.",
+        "Die Erklärung verweist nicht auf Tierversuche.",
+        "Die Narben stammen nicht aus einem studentischen Ritual."
+      ],
+      "short": "Die Narben verbinden den Drang mit der älteren Generation der Familie.",
+      "context": "Der Vater (Laurent Lucas) zeigt Justine (Garance Marillier) seine Narben und erklärt damit die Rolle der Mutter (Joana Preiss). Die strenge vegetarische Familienregel erhält rückblickend eine neue Bedeutung. Sie erscheint als Umgang mit einem bekannten Hunger, dessen Existenz den Töchtern dennoch nicht offen erklärt wurde.",
+      "anchor": "Die Narben erklären die Familienregel als Umgang mit einem bekannten Drang.",
+      "interest": "Ordnet das Ende als Neubewertung der anfänglichen Familienordnung ein.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, fünf Jahre vor Ducournaus Goldener Palme für „Titane“ von 2021?",
+      "answers": [
+        "2016",
+        "2011",
+        "2017",
+        "2021"
+      ],
+      "feedback": [
+        "Raw wurde 2016 erstmals gezeigt, fünf Jahre vor Titane.",
+        "2011 gehört zum früheren Kurzfilm Junior.",
+        "2017 ist das Jahr vieler späterer Kinostarts.",
+        "2021 bezeichnet die spätere Goldene Palme."
+      ],
+      "short": "Raw wurde 2016 erstmals gezeigt, fünf Jahre vor Titane.",
+      "context": "Raw wurde 2016 in Cannes erstmals gezeigt. Fünf Jahre später gewann Julia Ducournaus Titane 2021 die Goldene Palme. Der Vergleich verbindet ihr Langfilmdebüt mit einem späteren Festivalerfolg. In beiden Arbeiten wird der menschliche Körper zum Ort von Veränderung, Konflikt und ungewöhnlicher Zugehörigkeit.",
+      "anchor": "2016 Raw, 2021 Titane und die Goldene Palme: fünf Jahre später.",
+      "interest": "Verbindet das Debütjahr mit einer späteren Entwicklung ihrer Filmkarriere.",
+      "sources": [
+        "festival",
+        "titane"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Julia Ducournau",
+        "Claire Denis",
+        "Coralie Fargeat",
+        "Marina de Van"
+      ],
+      "feedback": [
+        "Ducournau schrieb und inszenierte den Film.",
+        "Denis ist eine andere französische Regisseurin.",
+        "Fargeat inszenierte andere körperbezogene Genrearbeiten.",
+        "De Van führte bei Raw nicht Regie."
+      ],
+      "short": "Ducournau schrieb und inszenierte den Film.",
+      "context": "Julia Ducournau schrieb das Drehbuch und führte Regie. Vor ihrem Langfilmdebüt hatte sie an der La Fémis Drehbuch studiert und 2011 den Kurzfilm Junior in Cannes vorgestellt. Die belegte Laufbahn verbindet ihre Arbeit an erzählerischer Konstruktion mit einem frühen Interesse an körperlicher Veränderung.",
+      "anchor": "Ducournau kommt vom Drehbuchstudium und Kurzfilm zum eigenen Langfilm.",
+      "interest": "Gibt dem Regiecredit einen individuellen Ausbildungs- und Werkzusammenhang.",
+      "sources": [
+        "festival",
+        "bio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

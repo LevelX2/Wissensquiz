@@ -1,0 +1,48 @@
+{
+  "as_of": "2026-10-07",
+  "readEntries": 20,
+  "readQuestions": 80,
+  "officialAcademyCeremoniesRead": 20,
+  "allFilmArticlesRead": true,
+  "checks": [
+    "Vier unterschiedliche Schwierigkeitsziele je Preiseintrag",
+    "Gewinn, Nominierung und Film-/Verleihungsjahr getrennt",
+    "Rollen und Darsteller konkret",
+    "Vier parallele plausible Optionen und individuelle Rückmeldungen",
+    "Kurzlösung, Vertiefung und Merkanker",
+    "Bestandsvergleich gegen alle 8.397 Fragen"
+  ],
+  "sources": [
+    "Jahreslisten der Academy 1935 bis 1996, je verlinkte Verleihung",
+    "Academy-Statistik zu Gewinnen in allen fünf Hauptkategorien",
+    "Sony Pictures: Es geschah in einer Nacht",
+    "Verlinkte Artikel der 20 ausgezeichneten Filme"
+  ],
+  "limits": "Keine unabhängige zweite Vollrecherche aller Quellen; keine empirische Schwierigkeit oder Bekanntheit.",
+  "variants": 3,
+  "links": {
+    "as_of": "2026-10-07",
+    "baseline_questions": 8397,
+    "linked_goals": [
+      {
+        "question_id": "E20261007-A-010-M",
+        "variant_of": "SCHAUSPIELER-202610-P01-070-L-1",
+        "knowledge_id": "K-SCHAUSPIELER-202610-P01-070-L-1",
+        "decision": "Die Titelrollen-Darstellerin wird bereits abgefragt; der Preiszusatz erzeugt dafür kein zweites Personenziel."
+      },
+      {
+        "question_id": "E20261007-A-019-L",
+        "variant_of": "DRA-L-015",
+        "knowledge_id": "K-DRA-08-01",
+        "decision": "Die Zuordnung Raymond Babbitt zu Dustin Hoffman wird bereits abgefragt; der Preiszusatz teilt dieses Darstellerziel."
+      },
+      {
+        "question_id": "E20261007-A-019-M",
+        "variant_of": "FF-083-DIRECTOR",
+        "knowledge_id": "K-FF-083-DIRECTOR",
+        "decision": "Die Regiezuordnung Rain Man zu Barry Levinson ist bereits vorhanden; der Preiszusatz teilt das Regieziel."
+      }
+    ],
+    "scope": "Titel-, Rollen-, Preis- und Regieabgleich gegen den vollständigen Bestand. Gleiche Namen bei anderen Filmen und reine Bildidentitäten sind andere Ziele."
+  }
+}

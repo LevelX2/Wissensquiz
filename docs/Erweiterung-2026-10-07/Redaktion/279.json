@@ -1,0 +1,240 @@
+{
+  "rank": 279,
+  "titleDe": "Mystery Train",
+  "originalTitle": "Mystery Train",
+  "year": 1989,
+  "genre": "Drama",
+  "familiarity": 4,
+  "familiarity_reason": "Jarmuschs drei Memphis-Episoden verknüpfen Popkultur, Migration und wiederkehrende Alltagszeichen.",
+  "directors": [
+    "Jim Jarmusch"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten",
+    "Japan"
+  ],
+  "release_note": "Erste öffentliche Festivalvorführungen in Cannes im Mai 1989; amerikanischer Kinostart im November. Die japanische Produktionsbeteiligung ist in der Herstellungsgeschichte belegt.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Mystery_Train_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/mystery-train/",
+      "supports": "Wettbewerb und Preis für künstlerischen Beitrag 1989, Regie, Credits und gelesene Erklärung der dreiteiligen Struktur."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/2057-mystery-train",
+      "supports": "Filmjahr 1989, Regie Jarmusch, Rollenbesetzung und Zusammenhang mit Memphis’ Musikgeschichte."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Mystery_Train",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Stadt besuchen die Reisenden der drei Geschichten?",
+      "answers": [
+        "Memphis",
+        "Nashville",
+        "New Orleans",
+        "Detroit"
+      ],
+      "feedback": [
+        "Memphis bildet den gemeinsamen Raum der Nacht.",
+        "Nashville ist nicht die Stadt des Arcade Hotels.",
+        "New Orleans ist nicht der gemeinsame Schauplatz.",
+        "Detroit bildet nicht diese musikalische Besuchsreise."
+      ],
+      "short": "Memphis bildet den gemeinsamen Raum der Nacht.",
+      "context": "Memphis ist für Jun (Masatoshi Nagase) und Mitsuko (Youki Kudoh) ein Ort verehrter Musikgeschichte. Andere Figuren kommen aus unfreiwilligen oder weniger glücklichen Gründen in dieselbe Stadt. Ein gemeinsamer Raum besitzt deshalb unterschiedliche Bedeutungen. Der Film verbindet kulturelle Erwartungen mit alltäglichem Aufenthalt, ohne jedem Besuch dasselbe Erlebnis zu geben.",
+      "anchor": "Memphis ist musikalisches Wunschziel für manche und unfreiwilliger Aufenthaltsort für andere.",
+      "interest": "Die Stadt erklärt die unterschiedlichen Perspektiven auf denselben Raum.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Gebäude verbindet die drei Episoden besonders unmittelbar?",
+      "answers": [
+        "Das heruntergekommene Arcade Hotel",
+        "Ein exklusives Casino am Fluss",
+        "Die geschlossene städtische Oper",
+        "Ein Nachtzug nach Chicago"
+      ],
+      "feedback": [
+        "Alle Erzählgruppen verbringen einen Teil der Nacht im Arcade Hotel.",
+        "Ein Flusscasino ist nicht der gemeinsame Unterkunftsort.",
+        "Die Oper dient nicht als Herberge.",
+        "Die Verbindung entsteht nicht durch eine gemeinsame Zugfahrt."
+      ],
+      "short": "Alle Erzählgruppen verbringen einen Teil der Nacht im Arcade Hotel.",
+      "context": "Der Nachtportier (Screamin’ Jay Hawkins) und der Page (Cinqué Lee) begegnen im Hotel verschiedenen Gästen. Für das Publikum kehrt dieser Raum wieder, obwohl die Reisenden einander kaum begegnen. Der alltägliche Unterkunftsort gibt der Erzählung damit eine feste Verbindung, die aus dem normalen Ablauf des Übernachtens entsteht.",
+      "anchor": "Das Hotel verbindet wechselnde Gäste durch denselben Raum und dieselben Angestellten.",
+      "interest": "Der Ort erklärt den Zusammenhalt ohne einen gemeinsamen Auftrag der Figuren.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum muss Luisa (Nicoletta Braschi) eine Nacht in Memphis bleiben?",
+      "answers": [
+        "Ihre Weiterreise mit dem Sarg ihres Mannes ist unterbrochen",
+        "Sie hat einen verbindlichen Konzertauftritt als Sängerin",
+        "Sie wartet auf den Beginn einer Gerichtsverhandlung gegen Johnny",
+        "Sie hat das Hotel als neue Eigentümerin gekauft"
+      ],
+      "feedback": [
+        "Die Witwe begleitet den Sarg nach Italien und bleibt wegen der Reiseunterbrechung.",
+        "Ein eigener Gesangsauftritt ist nicht der Grund.",
+        "Eine Verhandlung gegen Johnny verbindet ihren Aufenthalt nicht.",
+        "Sie übernimmt das Hotel nicht als Eigentümerin."
+      ],
+      "short": "Die Witwe begleitet den Sarg nach Italien und bleibt wegen der Reiseunterbrechung.",
+      "context": "Luisa (Nicoletta Braschi) ist mit einem Verlust unterwegs und muss ihre Reise unterbrechen. Im Hotel teilt sie das Zimmer mit der gesprächigen Dee Dee (Elizabeth Bracco), die ebenfalls weiterwill. Die Frauen haben verschiedene Gründe für den Aufenthalt. Ihre vorläufige Gemeinschaft entsteht gerade aus der Situation, in der beide eine Nacht nicht allein verbringen möchten.",
+      "anchor": "Die unterbrochene Reise verbindet Luisas Trauer mit Dee Dees vorläufiger Suche nach Gesellschaft.",
+      "interest": "Der Anlass erklärt die zufällige, zeitlich begrenzte Zimmergemeinschaft.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welches Lied ist in den verschiedenen Geschichten zur selben Nachtstunde zu hören?",
+      "answers": [
+        "Blue Moon in Elvis Presleys Aufnahme",
+        "Heartbreak Hotel in Elvis Presleys Aufnahme",
+        "Folsom Prison Blues in Johnny Cashs Aufnahme",
+        "Great Balls of Fire in Jerry Lee Lewis’ Aufnahme"
+      ],
+      "feedback": [
+        "Die gleiche Blue-Moon-Ausstrahlung verbindet die Perspektiven.",
+        "Heartbreak Hotel ersetzt dieses gemeinsame Radiosignal nicht.",
+        "Cashs Aufnahme ist nicht das wiederkehrende Lied.",
+        "Lewis’ Lied ist nicht der zeitliche Verbindungspunkt."
+      ],
+      "short": "Die gleiche Blue-Moon-Ausstrahlung verbindet die Perspektiven.",
+      "context": "Die wiederholte Radiosendung stellt einen gemeinsamen Zeitpunkt her. Die Figuren hören Elvis’ Aufnahme in unterschiedlichen privaten Situationen. Das Lied bewegt die Handlung nicht als eindeutiger Befehl, gibt dem Publikum aber eine zeitliche Orientierung. Eine musikalische Gemeinsamkeit verbindet damit Menschen, die ihre Aufenthalte nicht als Teil einer gemeinsamen Geschichte verstehen.",
+      "anchor": "Dasselbe Blue Moon markiert einen gemeinsamen Zeitpunkt in getrennten Erlebnissen.",
+      "interest": "Das Musikmotiv erklärt die Gleichzeitigkeit der Episoden.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Einsicht verschärft Charlies (Steve Buscemi) Ärger über Johnny (Joe Strummer)?",
+      "answers": [
+        "Johnny war gar nicht mit seiner Schwester verheiratet",
+        "Johnny ist tatsächlich der Eigentümer des Hotels",
+        "Johnny hat seine Schwester bereits vor der Reise verlassen",
+        "Dee Dee hatte die ganze Nacht im selben Auto auf sie gewartet"
+      ],
+      "feedback": [
+        "Die vermeintliche Schwägerschaft stellt sich als unbegründet heraus.",
+        "Eine Eigentümerrolle Johnnys wird nicht enthüllt.",
+        "Charlie erkennt vor allem, dass die vermeintliche Ehe nie bestand.",
+        "Ein verborgenes Warten Dee Dees im Auto ist nicht die Erkenntnis."
+      ],
+      "short": "Die vermeintliche Schwägerschaft stellt sich als unbegründet heraus.",
+      "context": "Charlie (Steve Buscemi) hilft Johnny (Joe Strummer) unter der Annahme einer familiären Verbindung. Als diese entfällt, beurteilt er auch seine Beteiligung an den gefährlichen Ereignissen anders. Sein Versuch, Johnny vor einem Selbstmord zu bewahren, verletzt ihn später selbst. Die unsichere Beziehung erzeugt damit nicht nur Streit, sondern konkrete körperliche Folgen.",
+      "anchor": "Die angebliche Schwägerschaft entfällt, nachdem Charlie bereits in Johnnys Schwierigkeiten geraten ist.",
+      "interest": "Die Enthüllung erklärt den Preis einer ungeprüften familiären Verpflichtung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Ereignis verursacht den Schuss, den die anderen Hotelgäste am Morgen hören?",
+      "answers": [
+        "Charlie wird beim Verhindern von Johnnys Selbsttötung ins Bein getroffen",
+        "Ein Polizist schießt beim gewaltsamen Betreten von Luisas Zimmer",
+        "Jun löst beim Untersuchen einer gefundenen Pistole einen Schuss aus",
+        "Johnny erschießt einen ihm zuvor unbekannten Hotelbesitzer"
+      ],
+      "feedback": [
+        "Der Kampf um die Waffe verletzt Charlie und verbindet die dritte Episode mit den anderen.",
+        "Eine Polizeistürmung von Luisas Zimmer findet nicht statt.",
+        "Charlie wird im Konflikt um Johnnys drohende Selbsttötung ins Bein getroffen.",
+        "Ein unbekannter Hotelbesitzer wird nicht erschossen."
+      ],
+      "short": "Der Kampf um die Waffe verletzt Charlie und verbindet die dritte Episode mit den anderen.",
+      "context": "In den früher erzählten Geschichten bleibt der Schuss zunächst ein Geräusch mit unklarer Ursache. Die dritte Episode zeigt Charlie (Steve Buscemi), der Johnnys (Joe Strummer) Selbsttötung verhindern will und getroffen wird. Dieselbe Wahrnehmung erhält damit nachträglich einen anderen Wissensstand. Die Episodenfolge verändert die Erklärung, nicht den Zeitpunkt des Geschehens.",
+      "anchor": "Der zuvor nur gehörte Schuss wird später als Verletzung Charlies beim Eingreifen erklärt.",
+      "interest": "Die Szene zeigt, wie die Erzählreihenfolge Wissen über ein gleichzeitiges Ereignis verteilt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1989",
+        "1986",
+        "1983",
+        "1991"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1989.",
+        "1986 liegt drei Jahre vor der ersten Veröffentlichung von 1989.",
+        "1983 liegt sechs Jahre vor der ersten Veröffentlichung von 1989.",
+        "1991 ist ein späteres Jahr als das belegte erste Filmjahr 1989."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1989.",
+      "context": "Jarmusch ordnete Mystery Train von 1989 selbst nach Stranger Than Paradise von 1984 und Down by Law von 1986 ein. Vom ersten zum letzten Film liegen fünf Jahre, vom unmittelbaren Vorgänger drei. Die Verbindung betrifft eine Arbeits- und Erzählphase, während Mystery Train seinerseits drei Geschichten enthält. Der zeitliche Zusammenhang ist somit von seiner inneren Episodenfolge zu unterscheiden.",
+      "anchor": "Stranger Than Paradise 1984 → Down by Law 1986 → Mystery Train 1989: zwei und drei Jahre, insgesamt fünf.",
+      "interest": "Die Reihe verankert das Filmjahr und unterscheidet Werkfolge und innere Episodenstruktur.",
+      "sources": [
+        "wiki",
+        "cannes",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jim Jarmusch",
+        "Wayne Wang",
+        "Alan Rudolph",
+        "Hal Hartley"
+      ],
+      "feedback": [
+        "Jim Jarmusch führte bei diesem Film Regie.",
+        "Wayne Wang hat diesen Film nicht inszeniert; der Regiecredit lautet Jim Jarmusch.",
+        "Alan Rudolph hat diesen Film nicht inszeniert; der Regiecredit lautet Jim Jarmusch.",
+        "Hal Hartley hat diesen Film nicht inszeniert; der Regiecredit lautet Jim Jarmusch."
+      ],
+      "short": "Jim Jarmusch führte bei diesem Film Regie.",
+      "context": "Jim Jarmusch schrieb und inszenierte die drei Geschichten derselben Nacht. Robby Müllers Farbbilder und John Luries Musik verbinden die sehr verschiedenen Besucher. Ein wiederkehrendes Lied und derselbe Schuss werden aus anderen Zusammenhängen wahrgenommen. Die Regie macht zeitliche Gleichzeitigkeit deshalb erfahrbar, ohne alle Hauptfiguren zu einer gemeinsamen Handlung zusammenzuführen.",
+      "anchor": "Jarmusch verbindet getrennte Geschichten durch dieselbe Nacht, ein Lied und einen Schuss.",
+      "interest": "Der Hintergrund erklärt die Verbindung der Episoden durch verschiedene Wahrnehmungen.",
+      "sources": [
+        "wiki",
+        "cannes",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Arthouse"
+}

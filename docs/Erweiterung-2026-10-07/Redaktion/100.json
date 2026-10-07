@@ -1,0 +1,220 @@
+{
+  "rank": 100,
+  "titleDe": "Sinister",
+  "originalTitle": "Sinister",
+  "year": 2012,
+  "genre": "Horror",
+  "familiarity": 3,
+  "directors": [
+    "Scott Derrickson"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA",
+    "Kanada"
+  ],
+  "release_note": "Erstaufführung bei SXSW im März 2012; Quellen nennen dafür uneinheitlich 10. beziehungsweise 11. März. UK-Kinostart am 5. Oktober und US-Kinostart am 12. Oktober 2012. Die Tagesabweichung ändert das Erstjahr nicht.",
+  "familiarity_reason": "Der Ethan-Hawke-Horrorfilm besitzt hohe Präsenz im Genrepublikum, ohne dieselbe allgemeine Bekanntheit wie die größten Horrorserien zu haben; Stufe 3.",
+  "sources": {
+    "kritik": "https://www.rogerebert.com/reviews/sinister-2012",
+    "handlung": "https://en.wikipedia.org/wiki/Sinister_(film)",
+    "autor": "https://www.movies.ie/sinister-interview-with-c-robert-cargill/",
+    "regie": "https://www.gamestar.de/artikel/interview-zu-sinister-regisseur-scott-derrickson-im-gespraech,3006994.html",
+    "ring": "https://en.wikipedia.org/wiki/The_Ring_(2002_film)"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche berufliche Hoffnung führt Ellison mit seiner Familie in das Haus in @?",
+      "answers": [
+        "Er will einen neuen erfolgreichen Kriminalsachbuchfall recherchieren.",
+        "Er hofft auf einen neuen Roman nach einer Schreibkrise.",
+        "Er möchte ausschließlich Material für eine Autobiografie sammeln.",
+        "Er soll dort eine bereits abgeschlossene Polizeiakte archivieren."
+      ],
+      "feedback": [
+        "Der neue Fall soll seinen früheren Bucherfolg erneuern.",
+        "Ellison will erneut mit einem recherchierten Kriminalsachbuch Erfolg haben.",
+        "Seine Nachforschungen gelten dem Familienmord und nicht seiner eigenen Lebensgeschichte.",
+        "Er führt eine eigene Recherche durch und verwaltet nicht lediglich eine geschlossene Akte."
+      ],
+      "short": "Der neue Fall soll seinen früheren Bucherfolg erneuern.",
+      "context": "Ellison Oswalt (Ethan Hawke) schreibt über reale Verbrechen. Er hofft, mit dem Fall einen früheren Erfolg zu wiederholen. Seine Familie wird dadurch Teil einer beruflichen Rechercheentscheidung. Die mögliche Anerkennung als Autor erschwert ihm, rechtzeitig zu erkennen, welchen Preis andere für seine Arbeit zahlen könnten.",
+      "anchor": "Ellisons Hoffnung auf den nächsten Bucherfolg bestimmt den Wohnort der Familie.",
+      "interest": "Verbindet die Ausgangsentscheidung mit beruflichem Ehrgeiz und familiärer Verantwortung.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was entdeckt Ellison auf dem Dachboden in @?",
+      "answers": [
+        "Schmalfilmrollen und einen Projektor",
+        "Ein vollständiges polizeiliches Verhörprotokoll",
+        "Eine Sammlung moderner Überwachungshandys",
+        "Eine fertig geschriebene Biografie des Mörders"
+      ],
+      "feedback": [
+        "Die als Familienfilme beschrifteten Rollen zeigen die Verbrechen.",
+        "Ein Verhörprotokoll erklärt die Entdeckung nicht.",
+        "Es handelt sich um alte Filmrollen, nicht Handys.",
+        "Eine fertige Biografie nimmt die Recherche nicht vorweg."
+      ],
+      "short": "Die als Familienfilme beschrifteten Rollen zeigen die Verbrechen.",
+      "context": "Ellison (Ethan Hawke) findet Schmalfilmrollen und einen Projektor. Die vertraute Form privater Familienaufnahmen enthält Bilder von Mord. Der Fund verbindet Dokument und Bedrohung: Er liefert Material für das geplante Buch, zieht den Betrachter aber zugleich immer weiter in die dargestellten Ereignisse hinein.",
+      "anchor": "Die Familienfilmform verbirgt Bilder von Verbrechen und verlockt zur weiteren Sichtung.",
+      "interest": "Erklärt den Widerspruch zwischen häuslichem Filmformat und mörderischem Inhalt.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Information über das neue Haus verschweigt Ellison seiner Frau in @?",
+      "answers": [
+        "Es ist selbst der Schauplatz des untersuchten Familienmords.",
+        "Ein früherer Mord geschah im benachbarten Haus.",
+        "Der Fall betrifft ausschließlich frühere Bewohner eines anderen Ortes.",
+        "Der untersuchte Täter ist der aktuelle Eigentümer des Hauses."
+      ],
+      "feedback": [
+        "Tracy kennt den tödlichen Hintergrund des Hauses zunächst nicht.",
+        "Sein neues Zuhause ist selbst Tatort, nicht nur die Nachbarschaft.",
+        "Ellison verschweigt die unmittelbare Verbindung zwischen Wohnhaus und Tat.",
+        "Die verschwiegene Information ist der Tatortbezug und keine Besitzverbindung zum Täter."
+      ],
+      "short": "Tracy kennt den tödlichen Hintergrund des Hauses zunächst nicht.",
+      "context": "Tracy (Juliet Rylance) weiß zunächst nicht, dass Ellison (Ethan Hawke) sie an den Tatort gebracht hat. Sein Wissensvorsprung verhindert eine gemeinsam abgewogene Entscheidung. Wenn die Wahrheit bekannt wird, betrifft der Streit deshalb sowohl die gegenwärtige Gefahr als auch das bereits verletzte Vertrauen innerhalb der Familie.",
+      "anchor": "Ellisons verborgenes Tatortwissen verhindert die gemeinsame Entscheidung über den Einzug.",
+      "interest": "Verbindet die verschwiegene Information mit dem Vertrauensbruch.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Verbindung zwischen Bughuul und Bildern erklärt Professor Jonas in @?",
+      "answers": [
+        "Darstellungen können ihm Zugang zu den betrachtenden Kindern ermöglichen.",
+        "Nur völlig unbelichtete Filme können ihn festhalten.",
+        "Jedes entfernte Bild tötet ihn sofort.",
+        "Er kann nur in gezeichneten Landkarten erscheinen."
+      ],
+      "feedback": [
+        "Die Bilder sind nach der Erklärung mehr als harmlose Aufzeichnungen.",
+        "Unbelichteter Film ist nicht der Zugang.",
+        "Das Entfernen eines Bildes tötet ihn nicht zuverlässig.",
+        "Die Erscheinung ist nicht auf Landkarten beschränkt."
+      ],
+      "short": "Die Bilder sind nach der Erklärung mehr als harmlose Aufzeichnungen.",
+      "context": "Professor Jonas (Vincent D’Onofrio) verbindet Bughuul (Nicholas King) mit Bildern, die Kinder betrachten. Die Filme besitzen dadurch nicht nur Beweiswert. Ellisons (Ethan Hawke) Suche nach genauer Sicht kann selbst den Weg der Bedrohung erweitern. Die Erklärung verändert die Rolle seines Forschungsmaterials grundlegend.",
+      "anchor": "Die Bilder können Zugang eröffnen, statt nur vergangene Taten zu dokumentieren.",
+      "interest": "Erklärt die kausale Rolle des Mediums innerhalb der Bedrohung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Regel erkennt der helfende Polizist in @ an den Wohnorten der ermordeten Familien?",
+      "answers": [
+        "Die Familien sterben nach dem Wegzug aus dem Haus früherer Opfer.",
+        "Alle Morde geschehen vor dem ersten Einzug.",
+        "Die Opfer bleiben stets lebenslang am selben Ort.",
+        "Jede Familie wird schon während der Hausbesichtigung getötet."
+      ],
+      "feedback": [
+        "Der Wegzug setzt die Kette fort.",
+        "Die Taten liegen nicht immer vor dem Einzug.",
+        "Der Wohnungswechsel ist für das Muster entscheidend.",
+        "Hausbesichtigungen erklären die Reihe nicht."
+      ],
+      "short": "Der Wegzug setzt die Kette fort.",
+      "context": "Der Polizist (James Ransone) erkennt, dass die Familien erst nach ihrem Wegzug aus dem vorherigen Tatort ermordet werden. Ellison (Ethan Hawke) hat den Rückzug bereits als Schutz verstanden. Die neue Information kehrt diese Entscheidung um: Das Verlassen des gefährlichen Hauses erfüllt gerade die Bedingung der nächsten Tat.",
+      "anchor": "Der vermeintlich rettende Wegzug setzt die tödliche Wohnortkette fort.",
+      "interest": "Erklärt die Umkehr einer plausiblen Schutzentscheidung durch das aufgedeckte Muster.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was enthüllen die ergänzten Filmenden in @ über die verschwundenen Kinder?",
+      "answers": [
+        "Sie verübten die Morde an ihren Familien.",
+        "Sie waren bereits vor allen Aufnahmen verstorben.",
+        "Sie filmten nur eine polizeiliche Rekonstruktion.",
+        "Sie wurden von einem anderen Kind nach der Tat befreit."
+      ],
+      "feedback": [
+        "Die fehlenden Kinder werden als Täter unter Bughuuls Einfluss sichtbar.",
+        "Die Bilder zeigen sie handelnd nach den Taten.",
+        "Die Morde sind keine polizeilichen Nachstellungen.",
+        "Eine Befreiungsaktion ist nicht die Enthüllung."
+      ],
+      "short": "Die fehlenden Kinder werden als Täter unter Bughuuls Einfluss sichtbar.",
+      "context": "Die ergänzten Enden zeigen die zuvor verschwundenen Kinder als Täter. Ellison (Ethan Hawke) muss damit sein Ausgangsbild der Fälle ändern: Die Abwesenheit markierte nicht nur ein weiteres Opfer, sondern eine verborgene Beteiligung. Bughuuls Einfluss macht den Familienzusammenhang selbst zum Mittel ihrer Vernichtung.",
+      "anchor": "Die verschwundenen Kinder sind die verborgenen Täter der Familienmorde.",
+      "interest": "Erklärt die Neubewertung eines wiederkehrenden Ermittlungsdetails.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, zehn Jahre nach „The Ring“ von 2002, der Cargills Albtraum anregte?",
+      "answers": [
+        "2012",
+        "2002",
+        "2008",
+        "2015"
+      ],
+      "feedback": [
+        "Sinister erschien 2012, zehn Jahre nach The Ring.",
+        "2002 ist das Jahr des anregenden Films.",
+        "2008 liegt nur sechs Jahre danach.",
+        "2015 gehört zur Fortsetzung."
+      ],
+      "short": "Sinister erschien 2012, zehn Jahre nach The Ring.",
+      "context": "The Ring erschien 2002. C. Robert Cargill berichtete, dass der Film einen Albtraum über einen Dachboden und Schmalfilme auslöste. Sinister erschien 2012, zehn Jahre später. Der Vergleich erklärt ein konkretes wiederkehrendes Horrormotiv: Ein angesehenes Filmbild bleibt nicht bloß eine Beobachtung, sondern bringt die Bedrohung näher.",
+      "anchor": "2002 The Ring, 2012 Sinister: zehn Jahre von der Filmanregung zur eigenen Geschichte.",
+      "interest": "Verbindet das Jahr mit einer belegten Entstehungsidee.",
+      "sources": [
+        "autor",
+        "ring"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Scott Derrickson",
+        "James Wan",
+        "David F. Sandberg",
+        "Mike Flanagan"
+      ],
+      "feedback": [
+        "Derrickson inszenierte den Film.",
+        "Wan ist nicht der Regisseur von Sinister.",
+        "Sandberg führte bei anderen übernatürlichen Horrorfilmen Regie.",
+        "Flanagan inszenierte andere Familienhorrorgeschichten."
+      ],
+      "short": "Derrickson inszenierte den Film.",
+      "context": "Scott Derrickson führte Regie und entwickelte das Drehbuch mit C. Robert Cargill. Im Interview erklärt er, wie aus einer Wertschätzung für Cargills Filmkritiken der Kontakt und später die Zusammenarbeit entstand. Die Filmidee stammt aus dessen Albtraum; die gemeinsame Arbeit formte daraus Ellisons (Ethan Hawke) gefährliche Recherche.",
+      "anchor": "Derricksons Kontakt zum Filmkritiker Cargill wurde zur gemeinsamen Drehbucharbeit.",
+      "interest": "Gibt dem Regiecredit einen konkreten Entstehungs- und Zusammenarbeitskontext.",
+      "sources": [
+        "regie"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

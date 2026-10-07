@@ -1,0 +1,220 @@
+{
+  "rank": 80,
+  "titleDe": "Die Legende der Wächter",
+  "originalTitle": "Legend of the Guardians: The Owls of Ga'Hoole",
+  "year": 2010,
+  "genre": "Fantasy",
+  "familiarity": 3,
+  "directors": [
+    "Zack Snyder"
+  ],
+  "production_countries": [
+    "Australien",
+    "USA"
+  ],
+  "release_note": "Premiere am 19. September 2010; nordamerikanischer Kinostart am 24. September, australischer am 30. September 2010.",
+  "familiarity_reason": "Die Eulenanimation ist als eigenständiges Fantasyabenteuer wiedererkennbar, bleibt aber weniger verbreitet als die großen Disney- und Pixar-Reihen; Bekanntheit 3.",
+  "sources": {
+    "studio": "https://animallogic.com/portfolio/projects/lotg/",
+    "vorgaenger": "https://animallogic.com/portfolio/projects/happyfeet/",
+    "kritik": "https://www.timeout.com/movies/legend-of-the-guardians-the-owls-of-the-gahoole",
+    "handlung": "https://en.wikipedia.org/wiki/Legend_of_the_Guardians:_The_Owls_of_Ga%27Hoole"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was begeistert die junge Eule Soren in @ bereits vor ihrem eigenen Abenteuer?",
+      "answers": [
+        "Die Erzählungen seines Vaters über die Wächter",
+        "Die Aussicht auf einen hohen Rang bei den Reinen",
+        "Die Geschichten über ein menschenleeres Zauberschloss",
+        "Die Hoffnung, als Händler alle Eulenreiche zu besuchen"
+      ],
+      "feedback": [
+        "Soren bewundert die Helden aus den väterlichen Geschichten.",
+        "Die Reinen stehen für die Gegner seiner Vorbilder.",
+        "Ein Zauberschloss bildet nicht den Mittelpunkt seiner Begeisterung.",
+        "Eine Laufbahn als Händler ist nicht sein Traum."
+      ],
+      "short": "Soren bewundert die Helden aus den väterlichen Geschichten.",
+      "context": "Soren (Originalstimme Jim Sturgess) liebt die Erzählungen seines Vaters über die Wächter. Sie geben ihm Vorbilder, bevor er ihnen begegnet. Der spätere Weg stellt deshalb auch die Frage, wie ein idealisiertes Heldentum mit der wirklichen Erfahrung von Ausbildung, Gefahr und Verantwortung zusammenpasst.",
+      "anchor": "Die Geschichten des Vaters geben Soren ein Vorbild.",
+      "interest": "Zeigt die Herkunft seines Wunsches, selbst ein Wächter zu werden.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie gelangen Soren und sein Bruder in @ in die Gewalt der Reinen?",
+      "answers": [
+        "Sie werden nach einem Sturz aus dem Baum entführt.",
+        "Sie melden sich freiwillig bei deren Schule an.",
+        "Sie tauschen sich bei einem Turnier gegen Gefangene aus.",
+        "Sie verirren sich bei einem Auftrag der Wächter in deren Festung."
+      ],
+      "feedback": [
+        "Auf dem Boden werden die Brüder von Eulen der Reinen verschleppt.",
+        "Soren tritt der Organisation nicht freiwillig bei.",
+        "Ein Gefangenenaustausch führt sie nicht dorthin.",
+        "Sie kennen die Wächter noch nicht aus einem eigenen Auftrag."
+      ],
+      "short": "Auf dem Boden werden die Brüder von Eulen der Reinen verschleppt.",
+      "context": "Soren (Originalstimme Jim Sturgess) und Kludd (Originalstimme Ryan Kwanten) fallen aus ihrem Heimatbaum und werden entführt. Der Verlust des geschützten Ortes macht sie abhängig von einer feindlichen Organisation. Die Brüder reagieren darauf unterschiedlich, sodass die gemeinsame Gefangenschaft ihre Beziehung nicht stabilisiert, sondern spaltet.",
+      "anchor": "Der Sturz aus dem Baum führt beide Brüder in feindliche Gefangenschaft.",
+      "interest": "Verbindet den räumlichen Verlust der Sicherheit mit dem Brüderkonflikt.",
+      "sources": [
+        "kritik",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wozu dient in @ das sogenannte Mondblinzeln bei den gefangenen jungen Eulen?",
+      "answers": [
+        "Es soll sie willenlos und gehorsam machen.",
+        "Es soll ihre Augen an das Tageslicht gewöhnen.",
+        "Es soll ihnen ein verlässliches Gedächtnis für Flugrouten geben.",
+        "Es soll den Beginn ihrer Mauser beschleunigen."
+      ],
+      "feedback": [
+        "Die Reinen benutzen den Zustand zur Unterwerfung.",
+        "Das Verfahren dient nicht einer normalen Anpassung an Tageslicht.",
+        "Gedächtnistraining ist nicht der Zweck der erzwungenen Behandlung.",
+        "Die Reinen wollen Gehorsam, nicht eine schnellere Mauser."
+      ],
+      "short": "Die Reinen benutzen den Zustand zur Unterwerfung.",
+      "context": "Soren (Originalstimme Jim Sturgess) und Gylfie (Originalstimme Emily Barclay) widerstehen dem Mondblinzeln. Die Behandlung soll junge Eulen gefügig machen. Ihre Flucht setzt deshalb geistigen Widerstand voraus: Erst wer die eigene Urteilskraft bewahrt, kann die feindliche Schule als Unterdrückung erkennen und sich dagegen entscheiden.",
+      "anchor": "Das Mondblinzeln soll Urteilskraft durch Gehorsam ersetzen.",
+      "interest": "Erklärt die psychische Kontrolle hinter der scheinbaren Schule.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was entdeckt Soren in @ über seinen zunächst unscheinbaren Lehrer Ezylryb?",
+      "answers": [
+        "Er ist der legendäre Kriegsheld Lyze von Kiel.",
+        "Er ist der heimliche Gründer der Reinen.",
+        "Er ist Sorens verschollener Großvater.",
+        "Er hat die Geschichten über die Wächter erfunden."
+      ],
+      "feedback": [
+        "Ezylryb ist der Held, den Soren aus Geschichten kennt.",
+        "Er gehört zu den Wächtern und gründete nicht deren Gegner.",
+        "Die Enthüllung betrifft seine Identität als Held, nicht eine Verwandtschaft.",
+        "Die Wächter und ihre Geschichte sind keine Erfindung des Lehrers."
+      ],
+      "short": "Ezylryb ist der Held, den Soren aus Geschichten kennt.",
+      "context": "Ezylryb (Originalstimme Geoffrey Rush) erweist sich als Lyze von Kiel, Sorens (Originalstimme Jim Sturgess) großes Vorbild. Sein gewöhnlich wirkendes Auftreten korrigiert Sorens Erwartungen an einen Helden. Bewunderung muss sich nun auf Erfahrung und Fähigkeiten richten, statt allein auf Glanz und eindrucksvolle Erscheinung.",
+      "anchor": "Der unscheinbare Lehrer ist Sorens legendäres Vorbild.",
+      "interest": "Verknüpft eine Identitätsenthüllung mit der Veränderung eines Heldenbildes.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Gestaltungsentscheidung nennt Animal Logic für die räumliche Wirkung von @?",
+      "answers": [
+        "Der Film wurde von Beginn an für stereoskopisches 3D entwickelt.",
+        "Die 3D-Fassung entstand erst nach einer fertiggestellten 2D-Fassung.",
+        "Die Tiefenwirkung wurde allein aus gemalten Kulissen gewonnen.",
+        "Nur die Flugszenen wurden für 3D vorbereitet."
+      ],
+      "feedback": [
+        "Das Studio beschreibt 3D als ursprünglichen Teil der Entwicklung.",
+        "Die stereoskopische Gestaltung wurde von Beginn an berücksichtigt.",
+        "Die Produktion gestaltet eine vollständig animierte räumliche Welt und nicht nur Kulissen.",
+        "Die 3D-Planung betrifft den Film als Ganzes und nicht allein Flugsequenzen."
+      ],
+      "short": "Das Studio beschreibt 3D als ursprünglichen Teil der Entwicklung.",
+      "context": "Animal Logic entwickelte die räumliche Gestaltung von Beginn an stereoskopisch. Detaillierte Eulen, Landschaften und Licht sollten das Publikum besonders in den Flugsequenzen in die Welt hineinziehen. Die Technik unterstützt damit eine konkrete Erfahrung der Handlung: die Bewegung durch Räume aus der Perspektive fliegender Figuren.",
+      "anchor": "Die 3D-Gestaltung gehört zur ursprünglichen Planung der Flugwelt.",
+      "interest": "Verbindet ein Produktionsverfahren mit seiner erzählerischen Wirkung.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Wie befreit Soren in @ die Wächter aus der magnetischen Falle?",
+      "answers": [
+        "Er brennt die Halterungen durch, sodass die Abdeckungen die Magnete abschirmen.",
+        "Er schmilzt die Magnete mit einem Blitzschlag ein.",
+        "Er lässt die gefangenen Wächter ihre Rüstungen zu neuen Magneten formen.",
+        "Er lenkt die Falle mit einem Metallhelm auf die Reinen um."
+      ],
+      "feedback": [
+        "Das Feuer setzt die Abdeckungen frei und neutralisiert die Falle.",
+        "Ein Blitzschlag schmilzt die Magnete nicht ein.",
+        "Die Wächter bauen in der Falle keine neuen Magnete.",
+        "Ein einzelner Metallhelm kehrt die Wirkung nicht gegen die Reinen um."
+      ],
+      "short": "Das Feuer setzt die Abdeckungen frei und neutralisiert die Falle.",
+      "context": "Soren (Originalstimme Jim Sturgess) bringt Feuer zu den Seilen der Magnetanlage. Die herunterfallenden Abdeckungen unterbrechen die Wirkung der Falle. Seine Rettung beruht auf einer gezielten Veränderung des Mechanismus. Mut genügt dabei nicht allein; er muss erkennen, welches Bauteil die Gegner verwundbar macht.",
+      "anchor": "Brennende Seile lassen die Abdeckungen die Magnetfalle neutralisieren.",
+      "interest": "Erklärt den konkreten Mechanismus hinter der Rettung im Finale.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, vier Jahre nach Animal Logics Animationsfilm „Happy Feet“?",
+      "answers": [
+        "2010",
+        "2006",
+        "2014",
+        "2018"
+      ],
+      "feedback": [
+        "Happy Feet erschien 2006; Die Legende der Wächter folgte 2010.",
+        "2006 gehört zum früheren Pinguinfilm.",
+        "2014 liegt acht Jahre nach Happy Feet.",
+        "2018 liegt zwölf Jahre nach dem Vorgängerprojekt."
+      ],
+      "short": "Happy Feet erschien 2006; Die Legende der Wächter folgte 2010.",
+      "context": "Animal Logic nennt 2006 als Veröffentlichungsjahr von Happy Feet und 2010 für Die Legende der Wächter. Zwischen den beiden Tierwelten liegen vier Jahre. Der zeitliche Vergleich verbindet das Filmjahr mit der Entwicklung eines Studios, das von animierten Pinguinen zu einer komplexen fliegenden Eulenwelt wechselte.",
+      "anchor": "Animal Logic: 2006 Pinguine, vier Jahre später 2010 Eulen.",
+      "interest": "Verankert das Erscheinungsjahr in einer belegten Studioentwicklung.",
+      "sources": [
+        "studio",
+        "vorgaenger"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Filmregie?",
+      "answers": [
+        "Zack Snyder",
+        "Eric Leighton",
+        "George Miller",
+        "Andrew Adamson"
+      ],
+      "feedback": [
+        "Zack Snyder wird als Filmregisseur geführt.",
+        "Leighton verantwortete die Animation Director-Funktion, nicht die Filmregie.",
+        "Miller führte beim früheren Animal-Logic-Film Happy Feet Regie.",
+        "Adamson ist mit anderen Fantasy- und Animationsfilmen verbunden."
+      ],
+      "short": "Zack Snyder wird als Filmregisseur geführt.",
+      "context": "Zack Snyder wurde laut Animal Logic bereits 2007 durch die Konzeptzeichnungen für das Projekt begeistert. Er führte Filmregie, während Eric Leighton die Animation leitete. Diese getrennten Funktionen zeigen, wie eine Gesamtinszenierung mit der spezialisierten Arbeit am Bewegungsverhalten der gezeichneten und berechneten Figuren zusammenwirkt.",
+      "anchor": "Snyder führt Filmregie; Leighton leitet die Animation.",
+      "interest": "Ordnet zwei unterschiedliche Regiefunktionen im Produktionsbericht ein.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "director_note": "Animal Logic nennt Zack Snyder als Director und Eric Leighton als Animation Director. Die technische und künstlerische Animationsleitung wird nicht als zusätzliche Film-Co-Regie erfasst."
+}

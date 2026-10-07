@@ -1,0 +1,231 @@
+{
+  "rank": 212,
+  "titleDe": "Starman",
+  "originalTitle": "Starman",
+  "year": 1984,
+  "genre": "Science-Fiction",
+  "familiarity": 3,
+  "familiarity_reason": "Eine fremde Gestalt und die Trauer einer Witwe verbinden Roadmovie und Begegnung mit dem Außerirdischen.",
+  "directors": [
+    "John Carpenter"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Erste Veröffentlichung im Dezember 1984.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Starman_(1984_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "studio": {
+      "url": "https://www.sonypictures.com/movies/starman",
+      "supports": "Regie, Filmjahr, tote-Ehemann-Gestalt, Jenny und die dreitägige Reise."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Starman",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Gestalt nimmt der Besucher (Jeff Bridges) in @ auf der Erde an?",
+      "answers": [
+        "Die von Jennys verstorbenem Ehemann.",
+        "Die eines führenden Regierungsbeamten.",
+        "Die eines Kindes aus Jennys Nachbarschaft.",
+        "Die seines menschlichen Verfolgers."
+      ],
+      "feedback": [
+        "Er nutzt eine Haarsträhne des verstorbenen Scott.",
+        "Er kopiert keinen Regierungsbeamten.",
+        "Er erscheint nicht als Nachbarskind.",
+        "Die Körpervorlage stammt nicht von einem Verfolger."
+      ],
+      "short": "Er nutzt eine Haarsträhne des verstorbenen Scott.",
+      "context": "Jenny (Karen Allen) begegnet einem Wesen, das wie ihr verstorbener Mann aussieht. Der vertraute Körper trägt jedoch zunächst fremdes Verhalten. Jeff Bridges muss deshalb Nähe und Unbekanntheit gleichzeitig darstellen. Für Jenny verbindet die Begegnung den Schmerz des Verlustes mit einer neuen Person, die erst lernen muss, in dieser Umgebung zu leben.",
+      "anchor": "Das vertraute Gesicht des verstorbenen Mannes gehört nun einem fremden Besucher.",
+      "interest": "Die Körperwahl erklärt die besondere emotionale Lage der Begegnung.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wohin soll Jenny (Karen Allen) den Besucher in @ bringen?",
+      "answers": [
+        "Zum Barringer-Krater in Arizona.",
+        "Zum Monument Valley in Utah.",
+        "Zur Golden Gate Bridge in Kalifornien.",
+        "Zu einem Leuchtturm an der Atlantikküste."
+      ],
+      "feedback": [
+        "Am Krater ist seine Abholung vereinbart.",
+        "Das Ziel ist der Barringer-Krater in Arizona, nicht das Monument Valley.",
+        "Eine Brücke dient nicht als Abholort.",
+        "Die Reise führt nicht an einen Atlantikleuchtturm."
+      ],
+      "short": "Am Krater ist seine Abholung vereinbart.",
+      "context": "Der Besucher muss den Krater innerhalb von drei Tagen erreichen, um abgeholt zu werden. Jenny besitzt das Wissen über Straßen und den Alltag, das ihm fehlt. Der feste Ort und die kurze Frist machen ihre Begegnung zur gemeinsamen Reise. Die Bewegungsrichtung verbindet den allmählichen Aufbau von Vertrauen mit einer drohenden Trennung.",
+      "anchor": "Die dreitägige Fahrt führt zum vereinbarten Abholort im Krater.",
+      "interest": "Das Ziel erklärt Zeitdruck und Reiseform der Handlung.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Handlung des Besuchers (Jeff Bridges) verändert Jennys Haltung in @ besonders?",
+      "answers": [
+        "Er erweckt ein erschossenes Reh wieder zum Leben.",
+        "Er zerstört absichtlich ihr Auto vor einem Roadblock.",
+        "Er entwendet die Briefe ihres verstorbenen Mannes.",
+        "Er gibt sich öffentlich als ihr früherer Arbeitgeber aus."
+      ],
+      "feedback": [
+        "Die Wiederbelebung zeigt Jenny seine lebensbewahrende Fähigkeit.",
+        "Eine absichtliche Autozerstörung begründet nicht ihr Vertrauen.",
+        "Ein Briefdiebstahl wird nicht zum Wendepunkt.",
+        "Eine falsche Arbeitgeberrolle spielt dabei keine Rolle."
+      ],
+      "short": "Die Wiederbelebung zeigt Jenny seine lebensbewahrende Fähigkeit.",
+      "context": "Jenny sieht, wie der Besucher einem erschossenen Tier das Leben zurückgibt. Die Fähigkeit könnte bedrohlich wirken, wird aber als Hilfe ausgeübt. Karen Allens Figur erkennt eine Absicht hinter dem fremden Verhalten, die über die eigene Flucht hinausgeht. Sie entscheidet sich dadurch zunehmend aus eigener Überzeugung für die gemeinsame Weiterreise.",
+      "anchor": "Das wiederbelebte Reh macht die friedliche Absicht konkret sichtbar.",
+      "interest": "Der Wendepunkt erklärt Vertrauen anhand einer beobachteten Handlung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum kommt der Besucher in @ überhaupt zur Erde?",
+      "answers": [
+        "Er folgt der Einladung auf Voyagers goldener Schallplatte.",
+        "Er soll einen bereits begonnenen Krieg seiner Heimat fortführen.",
+        "Er flieht vor einem menschlichen Gericht im All.",
+        "Er verfolgt Jenny seit ihrer Geburt als Versuchsperson."
+      ],
+      "feedback": [
+        "Die abgesandte Friedensbotschaft wird als Einladung verstanden.",
+        "Seine Ankunft ist kein militärischer Fortsetzungsauftrag.",
+        "Ein Gerichtsverfahren im All ist nicht der Anlass.",
+        "Er hat Jenny nicht zuvor lebenslang überwacht."
+      ],
+      "short": "Die abgesandte Friedensbotschaft wird als Einladung verstanden.",
+      "context": "Voyagers Botschaft lädt mögliche außerirdische Empfänger zum Kontakt ein. Der Besucher nimmt diese Einladung ernst, wird aber bei seiner Ankunft beschossen. Der Film verbindet somit den Wunsch nach Verständigung mit einer gegenteiligen Reaktion auf den tatsächlichen Fremden. Eine öffentliche Friedensgeste garantiert noch keinen friedlichen Umgang mit ihrem Empfänger.",
+      "anchor": "Die Erde lädt ein und behandelt den eingetroffenen Empfänger dennoch als Gefahr.",
+      "interest": "Der Anlass erklärt den grundlegenden Widerspruch der Verfolgung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum hilft der Wissenschaftler Shermin (Charles Martin Smith) dem Besucher in @?",
+      "answers": [
+        "Er will dessen geplante Vivisektion verhindern.",
+        "Er glaubt, der Besucher werde der Regierung freiwillig helfen.",
+        "Er hält Jenny für eine zu Unrecht verfolgte Geheimagentin.",
+        "Er will den Besucher ohne Jennys Wissen selbst untersuchen."
+      ],
+      "feedback": [
+        "Shermin lehnt die geplante gewaltsame Untersuchung ab.",
+        "Shermin hilft, um die geplante Vivisektion zu verhindern, nicht um den Besucher erneut auszuliefern.",
+        "Sein Eingreifen gilt dem außerirdischen Besucher und der Gefahr durch die Behörden.",
+        "Er ermöglicht die Flucht, statt eine eigene Untersuchung zu erzwingen."
+      ],
+      "short": "Shermin lehnt die geplante gewaltsame Untersuchung ab.",
+      "context": "Shermin erinnert die Verantwortlichen daran, dass der Besucher eingeladen wurde. Als er von der geplanten Vivisektion erfährt, reicht wissenschaftliche Neugier für ihn nicht mehr als Rechtfertigung. Er setzt sich für die Flucht ein. Die Figur entscheidet damit, ob Erkenntnis einen fremden Körper beliebig verfügbar machen darf oder dessen Leben respektieren muss.",
+      "anchor": "Shermin stellt den Schutz des Besuchers über eine gewaltsame Untersuchung.",
+      "interest": "Seine Entscheidung konkretisiert die ethische Grenze wissenschaftlichen Zugriffs.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Für wen lässt der Besucher (Jeff Bridges) Jenny am Ende von @ die letzte Kugel?",
+      "answers": [
+        "Für ihren gemeinsamen künftigen Sohn.",
+        "Für den Leiter der militärischen Verfolger.",
+        "Für den Besitzer des zerstörten Tanklastzugs.",
+        "Für Scott, falls dessen Grab geöffnet wird."
+      ],
+      "feedback": [
+        "Der Sohn soll später wissen, wie er die Kugel benutzen kann.",
+        "Die Verfolger erhalten sie nicht als Forschungsobjekt.",
+        "Sie ist kein Ersatz für einen Sachschaden.",
+        "Sie ist nicht für eine spätere Graböffnung bestimmt."
+      ],
+      "short": "Der Sohn soll später wissen, wie er die Kugel benutzen kann.",
+      "context": "Die Kugeln haben unterwegs besondere Handlungen ermöglicht. Die letzte bleibt bei Jenny (Karen Allen) und dem angekündigten Kind. Der Besucher kann sie nicht mitnehmen und muss allein abreisen. Das kleine Objekt erhält deshalb eine andere Aufgabe: Es verbindet die Trennung der Erwachsenen mit einer Zukunft, in der ein Teil der Begegnung weiterlebt.",
+      "anchor": "Die letzte Kugel wird vom Reisehilfsmittel zum Vermächtnis für den Sohn.",
+      "interest": "Das Objekt erklärt, wie die Begegnung über den Abschied hinaus wirkt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1984",
+        "1981",
+        "1978",
+        "1986"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1984.",
+        "1981 liegt drei Jahre vor der ersten Veröffentlichung von 1984.",
+        "1978 liegt sechs Jahre vor der ersten Veröffentlichung von 1984.",
+        "1986 ist ein späteres Jahr als das belegte erste Filmjahr 1984."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1984.",
+      "context": "Starman erschien 1984. Die Handlung greift die reale Voyager-Sonde von 1977 und ihre Botschaft an mögliche außerirdische Empfänger auf. Sieben Jahre liegen zwischen dem Sondenstart und dem Film. Die Science-Fiction-Geschichte macht aus der friedlichen Einladung einen Besucher, dessen Begegnung mit der Erde dann von Verfolgung und Missverständnissen geprägt wird.",
+      "anchor": "Voyager-Start 1977 → Starman 1984: sieben Jahre später antwortet ein fiktiver Besucher.",
+      "interest": "Der Zusammenhang verbindet eine reale Kontaktbotschaft mit der Filmprämisse.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Carpenter",
+        "Joe Dante",
+        "Steven Spielberg",
+        "John Badham"
+      ],
+      "feedback": [
+        "John Carpenter führte bei diesem Film Regie.",
+        "Joe Dante hat diesen Film nicht inszeniert; der Regiecredit lautet John Carpenter.",
+        "Steven Spielberg hat diesen Film nicht inszeniert; der Regiecredit lautet John Carpenter.",
+        "John Badham hat diesen Film nicht inszeniert; der Regiecredit lautet John Carpenter."
+      ],
+      "short": "John Carpenter führte bei diesem Film Regie.",
+      "context": "John Carpenter betonte die Beziehung zwischen den beiden Reisenden. Er verglich die Geschichte mit einer klassischen gemeinsamen Fahrt, bei der anfängliche Abwehr in Zuneigung übergeht. Die übernatürlichen Fähigkeiten sind deshalb an Begegnungen gebunden. Die Regie stellt den Besucher als verletzliche Person vor, während die Verfolger ihn vor allem als unbekanntes Objekt behandeln.",
+      "anchor": "Carpenter gestaltet die außerirdische Begegnung als gemeinsame Reise und Liebesgeschichte.",
+      "interest": "Die Regieabsicht erklärt den Schwerpunkt auf den beiden Hauptfiguren.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

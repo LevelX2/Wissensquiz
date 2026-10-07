@@ -1,0 +1,233 @@
+{
+  "rank": 224,
+  "titleDe": "Arlington Road",
+  "originalTitle": "Arlington Road",
+  "year": 1999,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Nachbarschaftsmisstrauen und der Einsatz eines vermeintlichen Ermittlers treiben einen präzisen Täuschungsplan.",
+  "directors": [
+    "Mark Pellington"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA"
+  ],
+  "release_note": "Erste Kinoveröffentlichungen 1999 in Großbritannien und Österreich; der US-Start im Juli desselben Jahres ist nicht die erste weltweite Veröffentlichung.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Arlington_Road",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "academy": {
+      "url": "https://www.oscars.org/nicholl/notable",
+      "supports": "Ehren Krugers Arlington-Road-Drehbuch gewann 1996 eine Nicholl-Fellowship und wurde 1999 verfilmt."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Arlington_Road",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie lernt Michael Faraday (Jeff Bridges) seine neuen Nachbarn kennen?",
+      "answers": [
+        "Er bringt ihren verletzten Sohn ins Krankenhaus",
+        "Er untersucht einen Einbruch in ihrem Haus",
+        "Er unterrichtet ihre Tochter an der Universität",
+        "Er kauft bei ihnen ein gebrauchtes Auto"
+      ],
+      "feedback": [
+        "Die Hilfe für den schwer verletzten Jungen begründet den Kontakt.",
+        "Faraday ist kein Polizist, der dort einen Einbruch untersucht.",
+        "Der erste Kontakt entsteht nicht über eine Studentin.",
+        "Ein Autokauf führt ihn nicht zu den Langs."
+      ],
+      "short": "Die Hilfe für den schwer verletzten Jungen begründet den Kontakt.",
+      "context": "Michael Faraday (Jeff Bridges) findet einen verletzten Jungen auf der Straße und hilft ihm. Das Kind ist der Sohn von Oliver (Tim Robbins) und Cheryl Lang (Joan Cusack). Aus Dankbarkeit und räumlicher Nähe entsteht zunächst Freundschaft. Der spätere Verdacht wächst deshalb innerhalb einer Beziehung, die mit einem fürsorglichen Handeln beginnt.",
+      "anchor": "Die Rettung des Nachbarsohns eröffnet die Bekanntschaft.",
+      "interest": "Die Ausgangssituation erklärt das spätere persönliche Vertrauen.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Mit welchem Thema beschäftigt sich Faraday (Jeff Bridges) als Hochschullehrer?",
+      "answers": [
+        "Amerikanischem Terrorismus",
+        "Mittelalterlicher Architektur",
+        "Antiker Seefahrt",
+        "Europäischer Musikgeschichte"
+      ],
+      "feedback": [
+        "Faraday untersucht die Geschichte des Terrorismus in den USA.",
+        "Architektur gehört zu verdächtigen Plänen seines Nachbarn, nicht zu seiner Lehre.",
+        "Seefahrtsgeschichte ist nicht sein Fachgebiet.",
+        "Sein Kurs behandelt Gewalt und Terrorismus, keine Musikgeschichte."
+      ],
+      "short": "Faraday untersucht die Geschichte des Terrorismus in den USA.",
+      "context": "Michael Faraday (Jeff Bridges) lehrt Geschichte und beschäftigt sich besonders mit Terrorismus. Seine Frau war FBI-Agentin und starb bei einem misslungenen Einsatz. Das Forschungsgebiet ist deshalb zugleich persönlich besetzt. Der Film macht verständlich, weshalb der Professor mögliche Muster politischer Gewalt erkennt und dennoch nicht mit ausreichender Distanz auf sie reagiert.",
+      "anchor": "Terrorismusforschung und der Tod seiner Frau prägen Faradays Verdacht.",
+      "interest": "Das Fachgebiet erklärt, weshalb ihm bestimmte Unstimmigkeiten auffallen.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Unstimmigkeit führt Faraday (Jeff Bridges) zur früheren Identität Oliver Langs?",
+      "answers": [
+        "Ein Universitätsbrief widerspricht dessen behauptetem Studienort",
+        "Eine frühere Schulakte nennt einen anderen Namen.",
+        "Ein Reisepass nennt den Namen eines FBI-Agenten",
+        "Ein Nachbar erkennt ihn als ehemaligen Professor"
+      ],
+      "feedback": [
+        "Der Brief einer anderen Universität veranlasst die Nachforschung.",
+        "Der widersprüchliche Universitätsbrief führt Faraday zur Recherche der früheren Identität.",
+        "Ein gefälschter FBI-Pass ist nicht die hier entdeckte Abweichung.",
+        "Faraday verfolgt widersprüchliche Angaben, keinen Hinweis auf eine Professorenlaufbahn."
+      ],
+      "short": "Der Brief einer anderen Universität veranlasst die Nachforschung.",
+      "context": "Oliver Lang (Tim Robbins) macht widersprüchliche Angaben über seine Vergangenheit. Michael Faraday (Jeff Bridges) sieht einen Universitätsbrief, der nicht zu dessen Erzählung passt. Weitere Recherchen führen zum Namen William Fenimore und zu einem früheren Bombenanschlag. Die kleine Alltagsspur öffnet so eine wesentlich schwerwiegendere Geschichte.",
+      "anchor": "Der widersprüchliche Studienort führt von Oliver Lang zu William Fenimore.",
+      "interest": "Die Frage zeigt die überprüfbare Grundlage eines zunächst persönlichen Verdachts.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Verbindung stützt Faradays (Jeff Bridges) Verdacht auf systematisch benutzte Sündenböcke?",
+      "answers": [
+        "Ein Foto verbindet Dean Scobee mit dem Umfeld der Langs",
+        "Ein Geständnis Scobees belastet Faradays verstorbene Frau",
+        "Ein Bankbeleg beweist, dass Scobee den Anschlag finanzierte",
+        "Ein Gerichtsurteil erklärt Scobee zum Anführer der Gruppe"
+      ],
+      "feedback": [
+        "Das Foto verbindet den angeblichen Einzeltäter mit dem Umfeld der Nachbarn.",
+        "Ein Geständnis gegen Faradays Frau ist nicht der neue Hinweis.",
+        "Der Vater Scobees bezweifelt gerade die behauptete Täterschaft seines Sohnes.",
+        "Ein Urteil gegen einen Gruppenanführer bestätigt nicht Faradays Sündenbockhypothese."
+      ],
+      "short": "Das Foto verbindet den angeblichen Einzeltäter mit dem Umfeld der Nachbarn.",
+      "context": "Michael Faraday (Jeff Bridges) spricht mit dem Vater des angeblichen Attentäters Dean Scobee. Dieser hält seinen Sohn für ein Opfer. Ein Foto schafft eine Verbindung zum Umfeld der Langs. Für Faraday wird damit ein Verfahren erkennbar: Täter nutzen eine fremde Lebensgeschichte, um Anschläge als Handlung eines isolierten Einzelnen erscheinen zu lassen.",
+      "anchor": "Die Fotospur verbindet einen früheren Sündenbock mit der Nachbarschaft.",
+      "interest": "Die Beobachtung bereitet die Logik des späteren Anschlags vor.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum gelangt Faraday (Jeff Bridges) mit der Bombe auf das FBI-Gelände?",
+      "answers": [
+        "Sie liegt unbemerkt im Kofferraum seines eigenen Autos",
+        "Er transportiert sie auf polizeiliche Anweisung zur Untersuchung",
+        "Er nimmt sie als vermeintliche Arzneilieferung an",
+        "Er baut sie selbst als Beweis für seine Vorlesung"
+      ],
+      "feedback": [
+        "Der verfolgte Lieferwagen lenkt davon ab, dass sein eigenes Auto die Bombe trägt.",
+        "Die Fahrt ist eine Manipulation, kein offizieller Beweistransport.",
+        "Ein Medikamententransport erklärt die Bombe nicht.",
+        "Faraday stellt die Bombe nicht selbst für Unterrichtszwecke her."
+      ],
+      "short": "Der verfolgte Lieferwagen lenkt davon ab, dass sein eigenes Auto die Bombe trägt.",
+      "context": "Der entführte Sohn setzt Michael Faraday (Jeff Bridges) unter äußersten Zeitdruck. Er folgt einem vermeintlich gefährlichen Lieferwagen zum FBI-Hauptquartier. Die Täter haben jedoch sein eigenes Fahrzeug beladen. Seine Absicht, eine Katastrophe zu verhindern, führt ihn genau dorthin, wo sie den unfreiwilligen Überbringer der Bombe benötigen.",
+      "anchor": "Die Verfolgung macht Faradays eigenes Auto zum Bombentransporter.",
+      "interest": "Die Wendung erklärt, wie sein Rettungsversuch in den Täterplan eingebaut ist.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie wird Faradays Tod (Jeff Bridges) nach dem Anschlag öffentlich erklärt?",
+      "answers": [
+        "Als Rachetat eines terroristischen Einzeltäters",
+        "Als Tod eines enttarnten Geheimagenten",
+        "Als Unfall während einer kontrollierten Sprengung",
+        "Als Opfer eines persönlich gegen ihn gerichteten Anschlags"
+      ],
+      "feedback": [
+        "Die Täter lassen ihn als Einzeltäter erscheinen, der sich für seine Frau rächte.",
+        "Ein Geheimagentenstatus ist nicht die veröffentlichte Erklärung.",
+        "Die Explosion wird nicht als missglückte kontrollierte Sprengung behandelt.",
+        "Die öffentliche Darstellung macht ihn zum Täter, statt seine gezielte Manipulation zu erkennen."
+      ],
+      "short": "Die Täter lassen ihn als Einzeltäter erscheinen, der sich für seine Frau rächte.",
+      "context": "Michael Faraday (Jeff Bridges) stirbt bei dem Anschlag. Seine Trauer um die Frau wird anschließend als Motiv gegen das FBI gedeutet. Der Täterkreis bleibt dadurch geschützt und kann weiterziehen. Die Schlussnachricht zeigt nicht bloß eine falsche Beschuldigung, sondern wie reale biografische Tatsachen zu einer überzeugend klingenden, falschen Kausalkette zusammengesetzt werden.",
+      "anchor": "Faradays Trauer liefert das falsche Motiv für die Einzeltätergeschichte.",
+      "interest": "Das Ende verbindet den Anschlag mit der Macht einer nachträglich konstruierten Erklärung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1999",
+        "1996",
+        "1993",
+        "2001"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1999.",
+        "1996 liegt drei Jahre vor der ersten Veröffentlichung von 1999.",
+        "1993 liegt sechs Jahre vor der ersten Veröffentlichung von 1999.",
+        "2001 ist ein späteres Jahr als das belegte erste Filmjahr 1999."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1999.",
+      "context": "Ehren Krugers Drehbuch Arlington Road wurde 1996 mit einer Nicholl-Fellowship der Filmakademie ausgezeichnet. Der fertige Film erschien 1999, drei Jahre später. Diese Verbindung beschreibt den Weg eines zunächst eigenständig eingereichten Drehbuchs ins Kino. Die Auszeichnung betrifft den Text und ist kein Oscar für den späteren Film.",
+      "anchor": "Nicholl-Fellowship für das Drehbuch 1996 → Film 1999: drei Jahre.",
+      "interest": "Die Datierung verbindet Stoffentwicklung und Veröffentlichung, ohne die Drehbuchförderung mit einem Filmpreis zu verwechseln.",
+      "sources": [
+        "wiki",
+        "academy"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Mark Pellington",
+        "Alan J. Pakula",
+        "John Dahl",
+        "David Fincher"
+      ],
+      "feedback": [
+        "Mark Pellington führte bei diesem Film Regie.",
+        "Alan J. Pakula hat diesen Film nicht inszeniert; der Regiecredit lautet Mark Pellington.",
+        "John Dahl hat diesen Film nicht inszeniert; der Regiecredit lautet Mark Pellington.",
+        "David Fincher hat diesen Film nicht inszeniert; der Regiecredit lautet Mark Pellington."
+      ],
+      "short": "Mark Pellington führte bei diesem Film Regie.",
+      "context": "Mark Pellington führte Regie, Ehren Kruger schrieb das Drehbuch. Der Film bleibt lange bei der Wahrnehmung des verwitweten Historikers Michael Faraday (Jeff Bridges). Sein Fachwissen über Terrorismus kann Verdacht begründen, macht ihn aber auch manipulierbar. Die Nachbarschaft mit Oliver Lang (Tim Robbins) verwandelt vertraute bürgerliche Nähe in eine bedrohliche Untersuchung.",
+      "anchor": "Pellington inszeniert Krugers Drehbuch als Nachbarschaftsverdacht.",
+      "interest": "Die Aufgabentrennung zwischen Regie und Drehbuch erklärt die Quelle des Thrillers.",
+      "sources": [
+        "wiki",
+        "academy"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

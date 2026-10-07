@@ -1,0 +1,201 @@
+{
+  "entry": 10,
+  "personId": "ACTOR-20261007-010",
+  "name": "Forest Whitaker",
+  "articleUrl": "https://en.wikipedia.org/wiki/Forest_Whitaker",
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche reale Person verkörpert Forest Whitaker in „Der letzte König von Schottland“?",
+      "answers": [
+        "Idi Amin",
+        "Nelson Mandela",
+        "Desmond Tutu",
+        "Patrice Lumumba"
+      ],
+      "context": "Forest Whitaker spielt den ugandischen Machthaber Idi Amin. Die Geschichte betrachtet seine Herrschaft unter anderem durch die Begegnung mit dem jungen schottischen Arzt Nicholas Garrigan (James McAvoy). Whitaker verbindet Charme, Unberechenbarkeit und Gewalt in derselben Darstellung. Er gewann dafür 2007 den Hauptdarsteller-Oscar. Der schottische Filmtitel bezeichnet Amins Selbstinszenierung und nicht den tatsächlichen Ort seines politischen Amtes.",
+      "short": "Forest Whitaker spielt den ugandischen Machthaber Idi Amin.",
+      "anchor": "Whitaker spielt Amin in Uganda, nicht einen schottischen Monarchen.",
+      "interest": "Die Darstellung verknüpft Whitakers Charakterarbeit mit dem politischen Machtverhältnis zwischen Amin und seinem Arzt.",
+      "feedback": [
+        "Forest Whitaker spielt den ugandischen Machthaber Idi Amin.",
+        "Mandela ist nicht die zentrale porträtierte Person.",
+        "Tutu spielte Whitaker später in einem anderen Film.",
+        "Lumumba ist nicht die von ihm dargestellte Herrscherfigur."
+      ],
+      "films": [
+        "The Last King of Scotland|2006"
+      ],
+      "extraSources": [
+        "https://www.oscars.org/oscars/ceremonies/2007"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Star-Wars-Rebellen verkörpert Forest Whitaker in „Rogue One“?",
+      "answers": [
+        "Saw Gerrera",
+        "Cassian Andor",
+        "Galen Erso",
+        "Bail Organa"
+      ],
+      "context": "Forest Whitaker spielt Saw Gerrera, einen radikalisierten Rebellen, der Jyn Erso (Felicity Jones) früher aufgenommen hatte. Seine Gruppe kämpft gegen das Imperium, steht aber auch mit anderen Rebellen im Konflikt. Die Darstellung macht einen Bruch innerhalb des Widerstands sichtbar. Whitaker übernahm die Figur später auch in weiteren Star-Wars-Formaten und verband dadurch unterschiedliche Erzählungen.",
+      "short": "Forest Whitaker spielt Saw Gerrera, einen radikalisierten Rebellen, der Jyn Erso (Felicity Jones) früher aufgenommen hatte.",
+      "anchor": "Saw Gerrera verkörpert den Konflikt innerhalb des Widerstands.",
+      "interest": "Die Figur zeigt widersprüchliche Ziele innerhalb des Widerstands statt eines einheitlichen Rebellenbilds.",
+      "feedback": [
+        "Forest Whitaker spielt Saw Gerrera, einen radikalisierten Rebellen, der Jyn Erso (Felicity Jones) früher aufgenommen hatte.",
+        "Cassian Andor wird von Diego Luna gespielt.",
+        "Galen Erso wird von Mads Mikkelsen gespielt.",
+        "Bail Organa wird von Jimmy Smits gespielt."
+      ],
+      "films": [
+        "Rogue One: A Star Wars Story|2016"
+      ],
+      "extraSources": []
+    },
+    {
+      "code": "M1",
+      "question": "Welchen Musiker spielt Forest Whitaker in Clint Eastwoods „Bird“?",
+      "answers": [
+        "Charlie Parker",
+        "Miles Davis",
+        "John Coltrane",
+        "Dizzy Gillespie"
+      ],
+      "context": "Forest Whitaker spielt den Altsaxofonisten Charlie Parker. Clint Eastwoods „Bird“ verbindet musikalische Erfindung mit den persönlichen Belastungen des Jazzmusikers. Whitaker bereitete sich mit Saxofonunterricht und Recherchen vor. Für seine Darstellung erhielt er 1988 den Darstellerpreis in Cannes. Die Rolle nutzt seine musikalische Ausbildung, stellt jedoch eine bestimmte historische Person und keine allgemeine Jazzfigur dar.",
+      "short": "Forest Whitaker spielt den Altsaxofonisten Charlie Parker.",
+      "anchor": "Bird ist Whitakers Porträt des Altsaxofonisten Charlie Parker.",
+      "interest": "Das Musikerporträt verbindet Schauspiel, Jazzgeschichte und Eastwoods Arbeit als Regisseur.",
+      "feedback": [
+        "Forest Whitaker spielt den Altsaxofonisten Charlie Parker.",
+        "Miles Davis spielte Trompete und ist nicht die Titelfigur.",
+        "John Coltrane ist ein anderer Saxofonist.",
+        "Dizzy Gillespie ist nicht Whitakers zentrale Rolle."
+      ],
+      "films": [
+        "Bird|1988"
+      ],
+      "extraSources": [],
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-017-S-2",
+      "variant_of": "SCHAUSPIELER-202610-P01-017-S-2",
+      "knowledge_note": "Derselbe porträtierte Jazzmusiker im Film Bird; die Frage wechselt vom Regisseur zum Darsteller."
+    },
+    {
+      "code": "M2",
+      "question": "Welchem Verhaltenskodex folgt Forest Whitakers Titelfigur in Jim Jarmuschs „Ghost Dog“?",
+      "answers": [
+        "Dem Bushidō, dem Kodex der Samurai",
+        "Dem Verhaltenskodex eines amerikanischen Marineoffiziers",
+        "Den Regeln eines mittelalterlichen Mönchsordens",
+        "Dem Ehrenkodex eines klassischen Duellclubs"
+      ],
+      "context": "Forest Whitaker spielt einen Auftragsmörder, der sich an einem Samurai-Kodex orientiert. Jim Jarmusch verbindet diesen inneren Maßstab mit einer amerikanischen Stadt und einer alternden Mafiaorganisation. Die Figur zieht sich zurück, züchtet Tauben und betrachtet ihre Verpflichtungen als persönlich bindend. Gerade die ungewöhnliche Verbindung von stiller Haltung und tödlicher Arbeit prägt Whitakers Darstellung.",
+      "short": "Forest Whitaker spielt einen Auftragsmörder, der sich an einem Samurai-Kodex orientiert.",
+      "anchor": "Ghost Dog lebt amerikanischen Alltag mit einem Samurai-Kodex.",
+      "interest": "Der Kodex erklärt die Regeln, mit denen sich die Hauptfigur ihren amerikanischen Alltag deutet.",
+      "feedback": [
+        "Forest Whitaker spielt einen Auftragsmörder, der sich an einem Samurai-Kodex orientiert.",
+        "Er folgt keiner militärischen Dienstordnung der Marines.",
+        "Die Figur gehört keinem Mönchsorden an.",
+        "Der Kodex stammt nicht aus einem europäischen Duellclub."
+      ],
+      "films": [
+        "Ghost Dog: The Way of the Samurai|1999"
+      ],
+      "extraSources": []
+    },
+    {
+      "code": "S1",
+      "question": "Welchen Film mit Whitney Houston inszenierte Forest Whitaker 1995?",
+      "answers": [
+        "Waiting to Exhale",
+        "The Bodyguard",
+        "The Preacher’s Wife",
+        "Sparkle"
+      ],
+      "context": "Forest Whitaker führte bei „Waiting to Exhale“ Regie, einer Verfilmung des Romans von Terry McMillan. Whitney Houston gehört zu den vier zentralen Frauenfiguren. Die Geschichte verbindet Freundschaft mit Enttäuschungen und Hoffnungen in Beziehungen. Whitaker arbeitete außerdem am musikalischen Umfeld des Films mit und inszenierte Houstons Video zu „Exhale (Shoop Shoop)“.",
+      "short": "Forest Whitaker führte bei „Waiting to Exhale“ Regie, einer Verfilmung des Romans von Terry McMillan.",
+      "anchor": "Waiting to Exhale verbindet Whitakers Regie mit Houstons Film und Musik.",
+      "interest": "Die Regiearbeit verbindet Whitaker mit einem weiblichen Ensemble und Houstons musikalischer Präsenz.",
+      "feedback": [
+        "Forest Whitaker führte bei „Waiting to Exhale“ Regie, einer Verfilmung des Romans von Terry McMillan.",
+        "The Bodyguard wurde von Mick Jackson inszeniert.",
+        "The Preacher’s Wife ist eine Regiearbeit von Penny Marshall.",
+        "Sparkle wurde nicht von Whitaker inszeniert."
+      ],
+      "films": [
+        "Waiting to Exhale|1995"
+      ],
+      "extraSources": []
+    },
+    {
+      "code": "S2",
+      "question": "Welche Funktion hatte Forest Whitaker bei Ryan Cooglers Spielfilmdebüt „Fruitvale Station“?",
+      "answers": [
+        "Produzent",
+        "Hauptdarsteller",
+        "Kameramann",
+        "Drehbuchautor"
+      ],
+      "context": "Forest Whitaker produzierte „Fruitvale Station“ gemeinsam mit Nina Yang Bongiovi über Significant Productions. Ryan Coogler führte Regie und Michael B. Jordan spielte Oscar Grant. Whitakers Beitrag lag damit in der Ermöglichung und Unterstützung des Films. Das Projekt gehört zu seiner Arbeit für neue Stimmen hinter der Kamera, neben seinen eigenen bekannten Darstellungen vor der Kamera.",
+      "short": "Forest Whitaker produzierte „Fruitvale Station“ gemeinsam mit Nina Yang Bongiovi über Significant Productions.",
+      "anchor": "Whitaker unterstützte Cooglers Debüt als Produzent.",
+      "interest": "Die Produktionsarbeit zeigt seine Unterstützung eines jüngeren Regisseurs neben der eigenen Schauspielkarriere.",
+      "feedback": [
+        "Forest Whitaker produzierte „Fruitvale Station“ gemeinsam mit Nina Yang Bongiovi über Significant Productions.",
+        "Die Hauptrolle spielt Michael B. Jordan.",
+        "Whitaker verantwortete nicht die Kamera dieses Films.",
+        "Das Drehbuch stammt von Ryan Coogler."
+      ],
+      "films": [
+        "Fruitvale Station|2013"
+      ],
+      "extraSources": []
+    },
+    {
+      "code": "E1",
+      "question": "In welchem Bereich lag Forest Whitakers musikalisches Studium an der University of Southern California?",
+      "answers": [
+        "Operngesang als Tenor",
+        "Jazzschlagzeug",
+        "Klassische Gitarre",
+        "Musikproduktion im Tonstudio"
+      ],
+      "context": "Forest Whitaker wechselte nach einer Verletzung im Football von der Sportlaufbahn zur Musik und studierte an der USC Operngesang als Tenor. Später nahm seine Schauspielausbildung mehr Raum ein. Seine musikalische Grundlage erklärt, weshalb Rollen und Projekte mit Musik wiederholt in seiner Laufbahn auftauchen. Die Ausbildung bedeutete jedoch noch keine Karriere als professioneller Opernstar.",
+      "short": "Forest Whitaker wechselte nach einer Verletzung im Football von der Sportlaufbahn zur Musik und studierte an der USC Operngesang als Tenor.",
+      "anchor": "Whitakers Weg führte von Football über Tenorgesang zum Schauspiel.",
+      "interest": "Die Ausbildung eröffnet den musikalischen Hintergrund seines späteren Wegs vor die Kamera.",
+      "feedback": [
+        "Forest Whitaker wechselte nach einer Verletzung im Football von der Sportlaufbahn zur Musik und studierte an der USC Operngesang als Tenor.",
+        "Sein genannter Studienbereich war nicht Jazzschlagzeug.",
+        "Er studierte dort nicht klassische Gitarre.",
+        "Das Studium galt dem Gesang und nicht primär Studiotechnik."
+      ],
+      "films": [],
+      "extraSources": []
+    },
+    {
+      "code": "E2",
+      "question": "Mit welchem Eugene-O’Neill-Stück debütierte Forest Whitaker 2016 am Broadway?",
+      "answers": [
+        "Hughie",
+        "Long Day’s Journey into Night",
+        "The Iceman Cometh",
+        "A Moon for the Misbegotten"
+      ],
+      "context": "Forest Whitaker gab sein Broadway-Debüt in einer Wiederaufnahme von Eugene O’Neills „Hughie“. Michael Grandage führte Regie. Nach vielen Film- und Fernsehrollen konzentrierte sich Whitaker damit auf die unmittelbare Begegnung mit dem Theaterpublikum. Das Stück lässt Trauer und Selbstbild im Gespräch hervortreten und verlangt eine andere Präsenz als eine durch Schnitt montierte Filmdarstellung.",
+      "short": "Forest Whitaker gab sein Broadway-Debüt in einer Wiederaufnahme von Eugene O’Neills „Hughie“.",
+      "anchor": "Hughie brachte Whitaker unter Grandages Regie an den Broadway.",
+      "interest": "Das Broadway-Engagement zeigt eine Theaterarbeit außerhalb seiner bekannteren Filmrollen.",
+      "feedback": [
+        "Forest Whitaker gab sein Broadway-Debüt in einer Wiederaufnahme von Eugene O’Neills „Hughie“.",
+        "Dieses O’Neill-Stück war nicht sein Broadway-Debüt.",
+        "The Iceman Cometh ist ein anderes Werk des Autors.",
+        "A Moon for the Misbegotten war nicht die genannte Produktion."
+      ],
+      "films": [],
+      "extraSources": []
+    }
+  ]
+}

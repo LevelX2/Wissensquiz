@@ -1,0 +1,233 @@
+{
+  "rank": 230,
+  "titleDe": "Identität",
+  "originalTitle": "Identity",
+  "year": 2003,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Ein abgelegenes Motel und eine zweite Erzählebene verändern die Deutung einer Mordfolge.",
+  "directors": [
+    "James Mangold"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Kinoveröffentlichung 2003. Die Handlung enthält eine fiktive Anhörung im Jahr 2002; dieses Handlungsjahr ist kein Veröffentlichungsdatum.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Identity_(2003_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "studio": {
+      "url": "https://www.sonypictures.com/movies/identity",
+      "supports": "Jahr 2003, zehn Reisende, Regensturm, Motel und Originaldarsteller der Gruppe."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Identit%C3%A4t_(Film)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was zwingt die Reisenden in @ gemeinsam in das abgelegene Motel?",
+      "answers": [
+        "Ein heftiger Regensturm",
+        "Eine behördlich angeordnete Quarantäne",
+        "Eine gemeinsame Einladung zu einer Hochzeit",
+        "Ein landesweiter Benzinverkaufsstopp"
+      ],
+      "feedback": [
+        "Der Sturm und unpassierbare Straßen lassen sie im Motel Schutz suchen.",
+        "Eine Quarantänebehörde bringt die Gruppe nicht zusammen.",
+        "Die Reisenden sind nicht gemeinsam eingeladene Hochzeitsgäste.",
+        "Ein Verkaufsstopp für Treibstoff ist nicht der Anlass."
+      ],
+      "short": "Der Sturm und unpassierbare Straßen lassen sie im Motel Schutz suchen.",
+      "context": "Zehn Personen mit verschiedenen Reisewegen treffen während eines Unwetters in dem abgelegenen Motel zusammen. Ed (John Cusack) transportiert eine Schauspielerin; andere kommen als Paar, Familie oder mit einem Gefangenen. Was zunächst als zufälliges gemeinsames Warten erscheint, wird durch die Morde zu einer abgeschlossenen Untersuchung der Gruppe.",
+      "anchor": "Der Regensturm schließt die unterschiedlichen Reisenden im Motel zusammen.",
+      "interest": "Der Anlass erklärt den begrenzten Handlungsraum.",
+      "sources": [
+        "wiki",
+        "de",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was wird bei den Opfern als wiederkehrendes Zeichen gefunden?",
+      "answers": [
+        "Zimmerschlüssel mit absteigenden Nummern",
+        "Spielkarten mit aufsteigenden Werten",
+        "Armbanduhren mit gleicher Uhrzeit",
+        "Postkarten mit verschiedenen Stadtansichten"
+      ],
+      "feedback": [
+        "Die Schlüssel zählen von hohen Zimmernummern schrittweise herunter.",
+        "Spielkarten bilden nicht die wiederkehrende Spur.",
+        "Eine identische Uhrzeit auf Armbanduhren ersetzt die Schlüssel nicht.",
+        "Postkarten kennzeichnen die Opfer nicht."
+      ],
+      "short": "Die Schlüssel zählen von hohen Zimmernummern schrittweise herunter.",
+      "context": "Die Zimmerschlüssel erscheinen an den Leichen, beginnend mit einer hohen Nummer. Ed (John Cusack) liest darin einen Countdown. Der Fund gehört nicht bloß zur Ausstattung eines Motels: Er verknüpft die einzelnen Tode zu einem Muster und kündigt an, dass die Gruppe scheinbar nach einer festen Ordnung verschwinden soll.",
+      "anchor": "Die Schlüsselnummern verwandeln die Morde in einen Countdown.",
+      "interest": "Das sichtbare Motiv hilft, den Verlauf des Rätsels zu behalten.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Gemeinsamkeit entdecken die verbliebenen Motelgäste?",
+      "answers": [
+        "Sie haben alle am selben Tag Geburtstag",
+        "Sie arbeiteten früher für dieselbe Bank",
+        "Sie wurden alle von demselben Gericht verurteilt",
+        "Sie hatten alle denselben Reiseveranstalter gebucht"
+      ],
+      "feedback": [
+        "Die gemeinsame Geburtstagsangabe widerspricht dem Eindruck einer gewöhnlichen Zufallsgruppe.",
+        "Eine gemeinsame Bankarbeit verbindet sie nicht.",
+        "Eine identische Verurteilung wird nicht als Gruppeneigenschaft entdeckt.",
+        "Die verschiedenen Reiseanlässe beruhen nicht auf einem gemeinsamen Veranstalter."
+      ],
+      "short": "Die gemeinsame Geburtstagsangabe widerspricht dem Eindruck einer gewöhnlichen Zufallsgruppe.",
+      "context": "Die vermeintlich fremden Gäste entdecken eine identische Geburtstagsangabe. Diese Übereinstimmung lässt sich nicht sinnvoll durch das Unwetter erklären. Sie gehört zu den Hinweisen, dass die Zusammenkunft anderen Regeln folgt als einer gewöhnlichen Reiseunterbrechung. Ed (John Cusack) kann das Muster zunächst benennen, aber noch nicht dessen eigentlichen Ursprung verstehen.",
+      "anchor": "Der gleiche Geburtstag untergräbt die Erklärung durch reinen Zufall.",
+      "interest": "Die Beobachtung führt vom äußeren Mordrätsel zur späteren psychologischen Auflösung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was verraten die Transportakten über Rhodes (Ray Liotta)?",
+      "answers": [
+        "Er ist selbst ein entflohener Gefangener in fremder Uniform",
+        "Er ist ein undercover arbeitender Bundesrichter",
+        "Er ist der rechtmäßige Eigentümer des Motels",
+        "Er ist der behandelnde Psychiater des Gefangenen"
+      ],
+      "feedback": [
+        "Die Akten führen auch Rhodes als Gefangenen, nicht als echten Vollzugsbeamten.",
+        "Ein verdeckter Richterstatus wird nicht enthüllt.",
+        "Die Eigentümergeschichte betrifft Larry (John Hawkes), nicht Rhodes.",
+        "Rhodes ist kein behandelnder Arzt."
+      ],
+      "short": "Die Akten führen auch Rhodes als Gefangenen, nicht als echten Vollzugsbeamten.",
+      "context": "Paris (Amanda Peet) findet Unterlagen im vermeintlichen Polizeiauto. Sie zeigen, dass Rhodes (Ray Liotta) seine Uniform zur Täuschung nutzt. Seine Autorität innerhalb der Gruppe fällt damit weg. Die Enthüllung bietet eine überzeugende Täterhypothese, führt jedoch noch nicht zur letzten Erklärung des Geschehens.",
+      "anchor": "Rhodes’ Uniform verbirgt einen Gefangenen, keinen Beamten.",
+      "interest": "Die Frage erklärt den Unterschied zwischen äußerer Autorität und tatsächlicher Identität.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Beziehung besteht zwischen den Motelgästen und Malcolm Rivers (Pruitt Taylor Vince)?",
+      "answers": [
+        "Die Gäste verkörpern seine verschiedenen Persönlichkeiten",
+        "Die Gäste sind die Geschworenen seines Mordprozesses",
+        "Die Gäste sind Opfer, die er im Gefängnis wiedertrifft",
+        "Die Gäste sind Ermittler in einer Polizeirekonstruktion"
+      ],
+      "feedback": [
+        "Das Motelgeschehen stellt die Auseinandersetzung seiner verschiedenen Persönlichkeiten dar.",
+        "Die Gruppe ist kein real zusammengerufenes Geschworenengremium.",
+        "Sie bildet kein gewöhnliches Wiedersehen realer Mordopfer im Gefängnis.",
+        "Eine von Polizisten gespielte Rekonstruktion erklärt die Ebene nicht."
+      ],
+      "short": "Das Motelgeschehen stellt die Auseinandersetzung seiner verschiedenen Persönlichkeiten dar.",
+      "context": "Die Anhörung und das Motel erscheinen zuerst als parallele Geschichten. Dr. Malick (Alfred Molina) erklärt jedoch, dass die Gruppe zu Malcolm Rivers (Pruitt Taylor Vince) gehört. Die Tode sollen im Rahmen einer experimentellen Behandlung die mörderische Persönlichkeit freilegen. Das äußere Rätsel erhält damit einen ganz anderen räumlichen und psychischen Status.",
+      "anchor": "Das Motel ist Schauplatz des Konflikts innerhalb Malcolm Rivers’ Persönlichkeit.",
+      "interest": "Die Wendung ordnet die zuvor scheinbar getrennten Handlungsebenen zusammen.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche vermeintlich beseitigte Persönlichkeit übernimmt am Ende die Kontrolle?",
+      "answers": [
+        "Timmy, der Junge",
+        "Rhodes, der falsche Beamte",
+        "Larry, der Motelverwalter",
+        "Caroline, die Schauspielerin"
+      ],
+      "feedback": [
+        "Timmy (Bret Loehr) hat seinen Tod vorgetäuscht und bleibt als mörderische Persönlichkeit bestehen.",
+        "Rhodes (Ray Liotta) wird zunächst irrtümlich für die entscheidende Gefahr gehalten.",
+        "Larry (John Hawkes) ist nicht die überlebende mörderische Persönlichkeit.",
+        "Caroline (Rebecca De Mornay) gehört zu den ersten beseitigten Persönlichkeiten."
+      ],
+      "short": "Timmy (Bret Loehr) hat seinen Tod vorgetäuscht und bleibt als mörderische Persönlichkeit bestehen.",
+      "context": "Paris (Amanda Peet) scheint die letzte Überlebende zu sein und erreicht ihren ersehnten Orangenhain. Dort findet sie den Schlüssel mit der Nummer eins. Timmy (Bret Loehr) taucht wieder auf; sein früherer Tod war Täuschung. Malcolm Rivers (Pruitt Taylor Vince) bleibt deshalb gefährlich, obwohl die Behandlung zunächst erfolgreich schien.",
+      "anchor": "Schlüssel eins und Timmys Rückkehr widerlegen den vermeintlichen Behandlungserfolg.",
+      "interest": "Die letzte Wendung zeigt den Fehler einer zu frühen abschließenden Tätererklärung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2003",
+        "2000",
+        "1997",
+        "2005"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2003.",
+        "2000 liegt drei Jahre vor der ersten Veröffentlichung von 2003.",
+        "1997 liegt sechs Jahre vor der ersten Veröffentlichung von 2003.",
+        "2005 ist ein späteres Jahr als das belegte erste Filmjahr 2003."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2003.",
+      "context": "Michael Cooneys Drehbuch wurde von Agatha Christies 1939 erschienenem Rätselroman And Then There Were None angeregt. Identity erschien 2003, 64 Jahre später. Der Film übernimmt die Konstellation einer isolierten, schrumpfenden Gruppe, entwickelt aber eine eigene psychologische Auflösung. Er ist deshalb keine unmittelbare Verfilmung des Christie-Romans.",
+      "anchor": "Christies Roman 1939 → davon angeregter Film Identity 2003: 64 Jahre.",
+      "interest": "Der Abstand verankert das Filmjahr in einer langen Tradition des geschlossenen Mordrätsels.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "James Mangold",
+        "David Fincher",
+        "Christopher Nolan",
+        "John Dahl"
+      ],
+      "feedback": [
+        "James Mangold führte bei diesem Film Regie.",
+        "David Fincher hat diesen Film nicht inszeniert; der Regiecredit lautet James Mangold.",
+        "Christopher Nolan hat diesen Film nicht inszeniert; der Regiecredit lautet James Mangold.",
+        "John Dahl hat diesen Film nicht inszeniert; der Regiecredit lautet James Mangold."
+      ],
+      "short": "James Mangold führte bei diesem Film Regie.",
+      "context": "James Mangold führte Regie nach Michael Cooneys Drehbuch. Der Film ordnet die Ankunft der Reisenden teilweise rückwärts und verbindet das Motel mit einer zunächst getrennt erscheinenden Anhörung. Die wechselnden Informationsmengen sind entscheidend: Ed (John Cusack) sucht einen Täter in der Gruppe, während der Zuschauer allmählich die Bedingungen dieser Gruppe neu verstehen muss.",
+      "anchor": "Mangold verbindet das Motelrätsel durch Montage mit einer parallelen Anhörung.",
+      "interest": "Der Regiehintergrund erklärt, weshalb Erzählanordnung hier zum Bestandteil des Rätsels wird.",
+      "sources": [
+        "wiki",
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

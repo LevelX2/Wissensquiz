@@ -9,10 +9,12 @@ import { startRound, answer } from "../src/engine";
 import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
 import revision from "../docs/Bestandsredaktion-2026-10-04/Block-01.json";
 
-const contents = packages.map((p) => ({
-  filename: p.filename,
-  text: readFileSync(`public${p.path}`, "utf8"),
-}));
+const contents = packages
+  .filter((p) => !p.filename.endsWith("fragen_20261007.csv"))
+  .map((p) => ({
+    filename: p.filename,
+    text: readFileSync(`public${p.path}`, "utf8"),
+  }));
 const base = emptyState();
 addPackages(
   base,

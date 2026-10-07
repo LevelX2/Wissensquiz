@@ -1,0 +1,216 @@
+{
+  "rank": 9,
+  "genre": "Abenteuer",
+  "titleDe": "Das Vermächtnis des geheimen Buches",
+  "originalTitle": "National Treasure: Book of Secrets",
+  "year": 2007,
+  "articleUrl": "https://en.wikipedia.org/wiki/National_Treasure:_Book_of_Secrets",
+  "familiarity": 2,
+  "selectionReason": "Erweitert die Abenteuerauswahl um Expeditionen, Entdeckungen und Entscheidungen in unbekannten Welten.",
+  "familiarity_reason": "Fortsetzung einer weithin bekannten Nicolas-Cage-Abenteuerreihe; die Einzelheiten dieses zweiten Falls sind weniger präsent.",
+  "directors": [
+    "Jon Turteltaub"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Premiere in New York am 13. Dezember 2007; US-Kinostart am 21. Dezember 2007.",
+  "series": "Das Vermächtnis der Tempelritter",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/National_Treasure:_Book_of_Secrets"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Vorwurf gegen seine Familie möchte Ben Gates (Nicolas Cage) in @ widerlegen?",
+      "answers": [
+        "Ein Vorfahr habe das Attentat auf Abraham Lincoln mitgeplant.",
+        "Ein Vorfahr habe einen Schatz der Konföderierten gestohlen.",
+        "Sein Vater habe ein wichtiges Nationaldokument gefälscht.",
+        "Sein Großvater habe ein Geheimarchiv der Regierung verkauft."
+      ],
+      "feedback": [
+        "Ein Tagebuchfragment stellt Thomas Gates als Mitverschwörer dar.",
+        "Gates will den Vorwurf der Beteiligung am Lincoln-Attentat widerlegen.",
+        "Die Anschuldigung gilt einem Vorfahren und dem Attentat statt einer Fälschung des Vaters.",
+        "Der Vorwurf betrifft die Verschwörung gegen Lincoln und keinen Archivverkauf."
+      ],
+      "short": "Ben Gates will den Namen seines Vorfahren im Lincoln-Fall rehabilitieren.",
+      "context": "Ben Gates (Nicolas Cage) präsentiert seine Familiengeschichte zunächst als Beispiel für Zivilcourage. Mitch Wilkinson (Ed Harris) legt jedoch einen Fund vor, der den Vorfahren belastet. Die anschließende Schatzsuche soll deshalb nicht nur Reichtum bringen. Ben versucht mit weiteren Belegen zu zeigen, welche Rolle sein Vorfahr tatsächlich in der Geschichte spielte.",
+      "anchor": "Eine belastete Familiengeschichte setzt die Schatzsuche in Gang.",
+      "interest": "Eine belastete Familiengeschichte setzt die Schatzsuche in Gang.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche außergewöhnliche Person bringt Ben Gates (Nicolas Cage) in @ in eine abgeschirmte Situation, um an geheimes Wissen zu gelangen?",
+      "answers": [
+        "Den Präsidenten der Vereinigten Staaten",
+        "Den Papst",
+        "Den König von Schweden",
+        "Den Generalsekretär der Vereinten Nationen"
+      ],
+      "feedback": [
+        "Bruce Greenwood spielt den Präsidenten, den Ben in einen Tunnel führt.",
+        "Der Papst gehört nicht zu diesem Manöver.",
+        "Ein schwedischer König wird nicht einbezogen.",
+        "Der UN-Generalsekretär besitzt nicht das gesuchte Buch."
+      ],
+      "short": "Ben Gates führt den US-Präsidenten in einen geheimen Tunnel.",
+      "context": "Ben Gates (Nicolas Cage) will Zugang zu einem nur dem Präsidenten zugänglichen Buch. Bei einer Feier in Mount Vernon nutzt er seine Kenntnis geheimer Wege, um den Präsidenten (Bruce Greenwood) kurz von seinem Schutzpersonal zu trennen. Das Mittel bringt ihn in große rechtliche Gefahr: Die gewünschte private Unterhaltung kann als Entführung verstanden werden.",
+      "anchor": "Für das Buch riskiert Ben den Vorwurf der Präsidentenentführung.",
+      "interest": "Für das Buch riskiert Ben den Vorwurf der Präsidentenentführung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Funktion übernehmen die beiden Resolute-Schreibtische in @ für die Spurensuche?",
+      "answers": [
+        "Ihre versteckten Fächer enthalten zusammengehörige Hinweise.",
+        "Ihre geschnitzten Zeichen enthalten einen identischen Geheimtext.",
+        "Ihre Herstellerplatten nennen die Besitzer des gesuchten Schatzes.",
+        "Ihre Holzarten weisen auf denselben Herkunftsort hin."
+      ],
+      "feedback": [
+        "Die Schreibtische führen zu weiteren Teilen des Rätsels.",
+        "Die versteckten Fächer liefern zusammengehörige Hinweise statt gleicher Schnitztexte.",
+        "Die Hinweise liegen in den Geheimfächern, nicht in Herstellerplatten.",
+        "Die Schreibtische tragen konkrete verborgene Hinweise statt einer botanischen Spur."
+      ],
+      "short": "Die beiden Schreibtische bewahren zusammengehörige Hinweise.",
+      "context": "Ben Gates (Nicolas Cage) und Abigail Chase (Diane Kruger) verfolgen eine Spur zu Möbelstücken in London und Washington. Ihre Suche richtet sich auf verborgene Fächer und Zeichen. Bekannte staatliche Räume werden dadurch zu Stationen eines privaten historischen Rätsels. Die Lösung entsteht erst, wenn getrennt erhaltene Informationen miteinander verbunden werden.",
+      "anchor": "London und Washington liefern zwei Teile derselben Möbelspur.",
+      "interest": "London und Washington liefern zwei Teile derselben Möbelspur.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche besondere Fachkenntnis bringt Emily Appleton (Helen Mirren) in @ in die Suche ein?",
+      "answers": [
+        "Sie kann alte Schriftzeichen deuten.",
+        "Sie kann alte Landkarten anhand der Vermessung datieren.",
+        "Sie erkennt die Herstellung historischer Goldmünzen.",
+        "Sie kennt die Umbauten des Buckingham Palace."
+      ],
+      "feedback": [
+        "Emily hilft, die alten Zeichen zu übersetzen.",
+        "Emily hilft durch die Deutung alter Schriftzeichen, nicht vor allem Kartendatierung.",
+        "Ihre gesuchte Expertise liegt in alten Schriftzeichen statt Münzherstellung.",
+        "Die schriftlichen Zeichen sind ihr Beitrag, nicht die Baugeschichte des Palasts."
+      ],
+      "short": "Emily Appleton hilft bei der Deutung der alten Schriftzeichen.",
+      "context": "Patrick Gates (Jon Voight) muss seine frühere Frau Emily Appleton (Helen Mirren) um Hilfe bitten. Ihr Fachwissen ist für die Schriftspur nötig, obwohl ihr persönliches Verhältnis angespannt ist. Die Familiengeschichte des Films wird so doppelt wirksam: Ein alter Vorfahr motiviert die Reise, und gegenwärtige Familienmitglieder müssen für ihre Lösung wieder zusammenarbeiten.",
+      "anchor": "Die Schriftspur verlangt Zusammenarbeit zwischen getrennten Eltern.",
+      "interest": "Die Schriftspur verlangt Zusammenarbeit zwischen getrennten Eltern.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Aufgabe erfüllt die offizielle Bibliothek des Kongresses in @ für die Schatzsuche?",
+      "answers": [
+        "Dort ist das vertrauliche Präsidentenbuch verborgen.",
+        "Dort wird eine unvollständige Schatzkarte öffentlich archiviert.",
+        "Dort finden sich Gates’ Vorfahren in einer Liste der Angeklagten.",
+        "Dort werden die beiden Schreibtische erstmals zusammen ausgestellt."
+      ],
+      "feedback": [
+        "Der Hinweis des Präsidenten führt zum Buch in der Library of Congress.",
+        "Die Bibliothek birgt das vertrauliche Präsidentenbuch statt einer öffentlich zugänglichen Schatzkarte.",
+        "Ihre konkrete Rolle ist das Versteck des Präsidentenbuchs und nicht eine Angeklagtenliste.",
+        "Die Schreibtische stehen nicht dort gemeinsam; gesucht ist das verborgene Buch."
+      ],
+      "short": "Das Präsidentenbuch liegt in der Library of Congress.",
+      "context": "Der Präsident (Bruce Greenwood) gibt Ben Gates (Nicolas Cage) einen entscheidenden Hinweis auf den Aufbewahrungsort. Das Buch liefert eine neue Verbindung zwischen einem alten Fund und Mount Rushmore. Die Schatzsuche überspringt deshalb nicht einfach alle Institutionen: Sie nutzt Archive und überlieferte Aufzeichnungen, um aus rätselhaften Spuren eine zusammenhängende Geschichte zu machen.",
+      "anchor": "Das Präsidentenbuch verbindet Archiv und versteckten Schatz.",
+      "interest": "Das Präsidentenbuch verbindet Archiv und versteckten Schatz.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Umdeutung macht den ursprünglichen Vorwurf gegen Thomas Gates in @ verständlich?",
+      "answers": [
+        "Sein Kontakt zu den Verschwörern diente der Vereitelung ihres Schatzplans.",
+        "Er gehörte den Verschwörern als bezahlter Übersetzer an.",
+        "Er suchte den Schatz ausschließlich für seine Familie.",
+        "Er war selbst der Besitzer des angeblich verschwundenen Goldes."
+      ],
+      "feedback": [
+        "Thomas erkannte die Absicht hinter dem verschlüsselten Auftrag und wollte sie verhindern.",
+        "Der Kontakt soll den Schatzplan vereiteln, nicht ihn als bezahlten Dienst unterstützen.",
+        "Sein Handeln richtet sich gegen den Plan der Verschwörer statt privater Bereicherung.",
+        "Die spätere Erklärung betrifft Sabotage des Plans und keinen ursprünglichen Goldbesitz."
+      ],
+      "short": "Die vermeintliche Verbindung zu Verschwörern lässt sich als Widerstand gegen ihren Plan lesen.",
+      "context": "Thomas Gates wird durch einen erhaltenen Namenseintrag belastet. Die Geschichte zeigt jedoch, dass er die verschlüsselte Schatzspur erkannte und die Unterlagen vernichten wollte. Ein Kontakt allein beweist deshalb keine gemeinsame Absicht. Ben Gates’ (Nicolas Cage) Suche stellt den Kontext wieder her, der aus einer isolierten Spur eine andere historische Bewertung macht.",
+      "anchor": "Name auf einer Liste ist erst mit seinem Handlungskontext verständlich.",
+      "interest": "Name auf einer Liste ist erst mit seinem Handlungskontext verständlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "2004",
+        "2012",
+        "2018"
+      ],
+      "feedback": [
+        "Die Premiere fand im Dezember 2007 statt.",
+        "2004 gehört zum ersten Kinofilm der Reihe.",
+        "2012 ist für diesen zweiten Film zu spät.",
+        "2018 liegt lange nach dieser Veröffentlichung."
+      ],
+      "short": "Der zweite Kinofilm erschien 2007.",
+      "context": "Der erste Kinofilm führte Nicolas Cage als Ben Gates in die historische Schatzsuche ein. Drei Jahre später erweitert die Fortsetzung das Abenteuer um eine Familienanklage und das Präsidentenbuch. Die zeitliche Verbindung hilft beim Merken: Veröffentlichung des ersten Films und Filmjahr des zweiten gehören eng zusammen, sind aber nicht identisch.",
+      "anchor": "Drei Jahre nach dem ersten Vermächtnis: 2007.",
+      "interest": "Drei Jahre nach dem ersten Vermächtnis: 2007.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ und bereits beim ersten Kinofilm der Reihe Regie?",
+      "answers": [
+        "Jon Turteltaub",
+        "Jerry Bruckheimer",
+        "Rob Cohen",
+        "Breck Eisner"
+      ],
+      "feedback": [
+        "Jon Turteltaub inszenierte beide Kinofilme.",
+        "Bruckheimer ist hier Produzent, nicht Regisseur.",
+        "Cohen führte bei diesem Schatzabenteuer nicht Regie.",
+        "Eisner gehört zu einer anderen Schatzsucherverfilmung."
+      ],
+      "short": "Jon Turteltaub inszenierte die Fortsetzung.",
+      "context": "Jon Turteltaub führt Nicolas Cage erneut durch eine Schatzsuche, deren Hinweise historische Orte und staatliche Institutionen verbinden. Jerry Bruckheimer arbeitet als Produzent mit. Der bekannte Produzentenname prägt die Bewerbung solcher Abenteuer, bezeichnet aber einen anderen Credit. Für diese Frage zählt die Person, die die Szenen inszeniert: Turteltaub.",
+      "anchor": "Turteltaub inszeniert; Bruckheimer produziert.",
+      "interest": "Turteltaub inszeniert; Bruckheimer produziert.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

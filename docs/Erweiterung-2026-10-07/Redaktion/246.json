@@ -1,0 +1,232 @@
+{
+  "rank": 246,
+  "titleDe": "Stalag 17",
+  "originalTitle": "Stalag 17",
+  "year": 1953,
+  "genre": "Drama",
+  "familiarity": 3,
+  "familiarity_reason": "Wilders Gefangenenlagerfilm verbindet Komödie, Misstrauen und Entlarvung; ein markanter Klassiker seiner frühen US-Arbeit.",
+  "directors": [
+    "Billy Wilder"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste internationale Auswertung 1953; Wikipedia nennt einen britischen Mai-Termin, AFI dokumentiert US-Öffnungen im Juli. Die Tagesfolge wird deshalb nicht vereinheitlicht. Originalfilmfassung mit Price als deutschem Spion.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Stalag_17",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/51043-STALAG-17",
+      "supports": "Regie, Besetzung, Broadwayvorlage 1951, US-Kinoöffnungen 1953 und Produktionscredits."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Stalag_17",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo befinden sich die amerikanischen Flieger in @?",
+      "answers": [
+        "In einem deutschen Kriegsgefangenenlager",
+        "In einer amerikanischen Offiziersschule",
+        "In einem Lazarett der französischen Armee",
+        "In einer neutralen Schweizer Internatsanlage"
+      ],
+      "feedback": [
+        "Die Männer sind Gefangene in einer von deutschen Soldaten bewachten Anlage.",
+        "Ihre Ausbildung ist nicht der zentrale Aufenthaltsgrund.",
+        "Sie sind nicht als Patienten eines französischen Lazaretts zusammengeführt.",
+        "Der Ort ist kein Schweizer Internat."
+      ],
+      "short": "Die Männer sind Gefangene in einer von deutschen Soldaten bewachten Anlage.",
+      "context": "Die Männer leben während des Zweiten Weltkriegs in einer gemeinsamen Baracke. Enge, Langeweile und Überwachung bestimmen ihren Alltag. Ein fehlgeschlagener Fluchtversuch verschärft die Lage, weil die Bewacher offenbar vorab informiert waren. Aus der äußeren Gefangenschaft entsteht dadurch zusätzlich ein innerer Konflikt über die Verlässlichkeit der eigenen Kameraden.",
+      "anchor": "Die bewachte Baracke wird zugleich zum Raum des gegenseitigen Verdachts.",
+      "interest": "Der Schauplatz erklärt beide Ebenen der Bedrohung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Was verwendet Sefton (William Holden) als wichtiges Zahlungsmittel für seine Geschäfte?",
+      "answers": [
+        "Zigaretten",
+        "Lebensmittelmarken der US-Armee",
+        "Ausländische Goldmünzen",
+        "Amtliche Entlassungsscheine"
+      ],
+      "feedback": [
+        "Zigaretten dienen ihm als Einsatz und Lagerwährung.",
+        "US-Lebensmittelmarken bilden hier nicht seine wesentliche Währung.",
+        "Ein Vorrat an Goldmünzen treibt die Geschäfte nicht an.",
+        "Entlassungsscheine verkauft er nicht als Zahlungsmittel."
+      ],
+      "short": "Zigaretten dienen ihm als Einsatz und Lagerwährung.",
+      "context": "Sefton (William Holden) organisiert Glücksspiel und weitere kleine Geschäfte. Mit den eingenommenen Zigaretten kann er sich Vorteile verschaffen und mit den Bewachern handeln. Er gewinnt dadurch mehr Komfort als andere Gefangene. Dass er seine Lage eigennützig verbessert, macht ihn im Lager auffällig, erklärt aber noch nicht die Weitergabe geheimer Fluchtpläne.",
+      "anchor": "Zigaretten ermöglichen Seftons eigene Lagerökonomie.",
+      "interest": "Der Gegenstand erklärt seine Vorteile und die daraus entstehende Abneigung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum fällt der Verratsverdacht zunächst auf Sefton (William Holden)?",
+      "answers": [
+        "Er handelt sichtbar mit den deutschen Bewachern",
+        "Er war allein bei einem Angriff auf die Baracke verletzt worden",
+        "Er besitzt als einziger keinen amerikanischen Dienstausweis",
+        "Er hat den Fluchttunnel als Lagerarzt vermessen"
+      ],
+      "feedback": [
+        "Seine offenen Geschäfte und Vorteile wirken auf die anderen wie eine Belohnung für Verrat.",
+        "Eine einzelne Verletzung ist nicht die Begründung des Verdachts.",
+        "Ein fehlender Dienstausweis wird nicht als entscheidender Hinweis genannt.",
+        "Sefton ist kein Lagerarzt, der den Tunnel vermessen hätte."
+      ],
+      "short": "Seine offenen Geschäfte und Vorteile wirken auf die anderen wie eine Belohnung für Verrat.",
+      "context": "Die Gefangenen sehen Seftons (William Holden) Vorteile, während Radio und geheime Pläne den Bewachern bekannt werden. Daraus bilden sie einen scheinbar stimmigen Zusammenhang und schlagen ihn zusammen. Sein unangenehmes Verhalten ersetzt in ihrer Deutung den tatsächlichen Nachweis. Die weitere Handlung muss diese plausible, aber falsche Zuordnung durch konkrete Beobachtungen auflösen.",
+      "anchor": "Sichtbare Vorteile werden irrtümlich zum Beweis heimlicher Zusammenarbeit.",
+      "interest": "Die Frage erklärt die Logik des falschen Verdachts.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "In welchem Gegenstand werden die geheimen Nachrichten verborgen?",
+      "answers": [
+        "In einer hohlen schwarzen Schachfigur",
+        "In einem ausgehöhlten Rasierpinsel",
+        "In einer doppelwandigen Konservendose",
+        "In der Rückseite eines Kartenspiels"
+      ],
+      "feedback": [
+        "Die schwarze Dame dient als geheimer Nachrichtenbehälter.",
+        "Ein Rasierpinsel ist nicht der benutzte tote Briefkasten.",
+        "Eine Konservendose ersetzt die Schachfigur nicht.",
+        "Ein Kartenspiel trägt die Nachrichten nicht."
+      ],
+      "short": "Die schwarze Dame dient als geheimer Nachrichtenbehälter.",
+      "context": "Sefton (William Holden) entdeckt einen Austausch mit der schwarzen Schachdame. Eine veränderte Lampenschnur signalisiert, wann eine Nachricht vorliegt. Das Verfahren nutzt alltägliche Gegenstände, die in der Baracke kaum auffallen. Die Aufklärung verlangt deshalb genaue Beobachtung kleiner Veränderungen, während die übrigen Gefangenen vor allem nach einem auffällig handelnden Mann suchen.",
+      "anchor": "Schachdame und Lampenschnur bilden Briefkasten und Signal.",
+      "interest": "Der Zusammenhang erklärt ein konkretes Verfahren der verdeckten Kommunikation.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie wurde Dunbars (Don Taylor) improvisierte Zeitbombe ausgelöst?",
+      "answers": [
+        "Eine glimmende Zigarette entzündete ein Streichholzheft",
+        "Eine Armbanduhr schloss einen elektrischen Stromkreis",
+        "Ein Wecker ließ einen Schlagbolzen vorschnellen",
+        "Ein schmelzender Eisblock löste eine Drahtsicherung"
+      ],
+      "feedback": [
+        "Die langsam glimmende Zigarette lieferte die Verzögerung bis zu den Streichhölzern.",
+        "Ein elektrischer Uhrmechanismus ist nicht die beschriebene Konstruktion.",
+        "Ein Wecker gehört nicht zum improvisierten Zünder.",
+        "Die Verzögerung beruht nicht auf Eis."
+      ],
+      "short": "Die langsam glimmende Zigarette lieferte die Verzögerung bis zu den Streichhölzern.",
+      "context": "Dunbar (Don Taylor) hat einen deutschen Munitionstransport sabotiert. Seine Begleitung kennt die einfache Konstruktion aus Zigarette und Streichhölzern. Price (Peter Graves) fragt diese Information gezielt ab und gibt sie an Schulz (Sig Ruman) weiter. Technisches Detailwissen wird damit zum Belastungsmaterial gegen einen Gefangenen, dessen Tat die Bewacher zunächst nicht beweisen können.",
+      "anchor": "Das improvisierte Zünderwissen wird gegen Dunbar weitergegeben.",
+      "interest": "Die Frage verbindet die Sabotagemethode mit der späteren Beweisbeschaffung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wo verstecken die Gefangenen Dunbar (Don Taylor) vor seinem Abtransport?",
+      "answers": [
+        "Im Wasserturm bei der Latrine",
+        "Im Bett des Lagerkommandanten",
+        "In der Werkstatt des Roten Kreuzes",
+        "In einem Sarg aus dem Lagerfriedhof"
+      ],
+      "feedback": [
+        "Nach der Ablenkung wird er im Wasserbehälter verborgen.",
+        "Das Quartier des Kommandanten ist nicht das gewählte Versteck.",
+        "Eine Rotkreuzwerkstatt dient ihm nicht als Zuflucht.",
+        "Ein Sarg ist nicht Teil dieser Rettung."
+      ],
+      "short": "Nach der Ablenkung wird er im Wasserbehälter verborgen.",
+      "context": "Rauch und Tumult lenken die Bewacher ab, während Dunbar (Don Taylor) versteckt wird. Der Wasserturm hält ihn vorübergehend verborgen, löst aber das Fluchtproblem nicht. Erst nach Prices (Peter Graves) Entlarvung kann Sefton (William Holden) ihn von dort holen. Die Rettung verlangt also nacheinander Ablenkung, Versteck und den Umgang mit der Informationslücke in der Baracke.",
+      "anchor": "Dunbars Versteck gewinnt Zeit; erst die Entlarvung ermöglicht den nächsten Fluchtschritt.",
+      "interest": "Der Zusammenhang erklärt die Abfolge einer mehrstufigen Rettung.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1953",
+        "1950",
+        "1947",
+        "1955"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1953.",
+        "1950 liegt drei Jahre vor der ersten Veröffentlichung von 1953.",
+        "1947 liegt sechs Jahre vor der ersten Veröffentlichung von 1953.",
+        "1955 ist ein späteres Jahr als das belegte erste Filmjahr 1953."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1953.",
+      "context": "Das Bühnenstück von Donald Bevan und Edmund Trzcinski lief 1951 am Broadway. Billy Wilders Film folgte 1953, zwei Jahre später. Beide Autoren hatten selbst Kriegsgefangenschaft erlebt. Die kurze Folge von Bühne und Film erklärt, wie Lagererfahrungen in eine Mischung aus Misstrauen, Überlebenshandel und derben Ablenkungen übersetzt wurden, ohne den Schauplatz in ein Schlachtfeld zu verwandeln.",
+      "anchor": "Broadway-Stück 1951 → Wilder-Film 1953: zwei Jahre.",
+      "interest": "Der Zeitanker verbindet das Filmjahr mit der konkreten Entwicklung aus einer erfahrungsbasierten Bühnenvorlage.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Billy Wilder",
+        "Otto Preminger",
+        "William Wyler",
+        "Fred Zinnemann"
+      ],
+      "feedback": [
+        "Billy Wilder führte bei diesem Film Regie.",
+        "Otto Preminger hat diesen Film nicht inszeniert; der Regiecredit lautet Billy Wilder.",
+        "William Wyler hat diesen Film nicht inszeniert; der Regiecredit lautet Billy Wilder.",
+        "Fred Zinnemann hat diesen Film nicht inszeniert; der Regiecredit lautet Billy Wilder."
+      ],
+      "short": "Billy Wilder führte bei diesem Film Regie.",
+      "context": "Billy Wilder schrieb die Adaption mit Edwin Blum und führte Regie. William Holden spielt Sefton, dessen Handel und sichtbarer Eigennutz ihn verdächtig machen. Die Inszenierung verbindet komische Lagergeschäfte mit einer Verräterhandlung. Dadurch muss das Publikum dieselbe Unterscheidung wie die Gefangenen treffen: Unbeliebtheit und moralische Härte sind kein Beweis für Verrat.",
+      "anchor": "Wilder lässt den unbeliebten Überlebenskünstler zum Gegenbild eines vorschnellen Verratsurteils werden.",
+      "interest": "Der Regiehintergrund erklärt die Funktion der Verbindung von Komik und Misstrauen.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

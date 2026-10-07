@@ -1,0 +1,112 @@
+{
+  "as_of": "2026-10-07",
+  "baseline_questions": 8397,
+  "baseline_goals": 7853,
+  "inputs": [
+    {
+      "path": "public/fragen.csv",
+      "filename": "SciFi_Quiz_180_Fragen.csv",
+      "sha256": "e928647423f3781bdbcc6e17b2ab0c35fad38d76483e3470ddc312f7d8bdf968"
+    },
+    {
+      "path": "public/action-fragen.csv",
+      "filename": "Action_Quiz_180_Fragen.csv",
+      "sha256": "65d8c19beab0bfb26d6c28773ea114740efbdc18348415bea53e8e0718f05ffb"
+    },
+    {
+      "path": "public/horror-fragen.csv",
+      "filename": "Horror_Quiz_180_Fragen.csv",
+      "sha256": "59208f8d8632cdfb2b46da60807e86f0b7d6c8b9b225753ebc8e5eec5851e7a4"
+    },
+    {
+      "path": "public/fantasy-fragen.csv",
+      "filename": "Fantasy_Quiz_180_Fragen.csv",
+      "sha256": "1245252ad7cdbcfcd2954e7752906e1b2f350a8d6f0110e58da96165d5cc1796"
+    },
+    {
+      "path": "public/komoedie-fragen.csv",
+      "filename": "Komoedie_Quiz_180_Fragen.csv",
+      "sha256": "1b8a8cff72059a60c830de69ca2f60d05143ec52ef35894e5315935f8dcca474"
+    },
+    {
+      "path": "public/western-fragen.csv",
+      "filename": "Western_Quiz_180_Fragen.csv",
+      "sha256": "62451b9e866e78f87b97daeda3978abca0b41d806ef85a39635e90580fe8cfc0"
+    },
+    {
+      "path": "public/drama-fragen.csv",
+      "filename": "Drama_Quiz_180_Fragen.csv",
+      "sha256": "533bd19be90ab2856862cacc4137c3a41f3f210968be64e6d41b8b78438f86ae"
+    },
+    {
+      "path": "public/classics-fragen.csv",
+      "filename": "Classics_Quiz_180_Fragen.csv",
+      "sha256": "d0b774681bd60bf80c3d2b4fe24c98465a1ef3d35058c60f220a043b92f3d605"
+    },
+    {
+      "path": "public/martialarts-fragen.csv",
+      "filename": "MartialArts_Quiz_180_Fragen.csv",
+      "sha256": "49a993a274c8603f367588d6f556799541059f029b4e4dba1d644b284bc343fc"
+    },
+    {
+      "path": "public/romcom-fragen.csv",
+      "filename": "RomCom_Quiz_180_Fragen.csv",
+      "sha256": "6aced6bd4c649a0e80f2cd8dd0b4b784ff5c626834835d1a3f4f901bc09d9384"
+    },
+    {
+      "path": "public/arthouse-fragen.csv",
+      "filename": "Arthouse_Quiz_180_Fragen.csv",
+      "sha256": "0df1e274c9fed8cb3d3639a5e7881f79dae955b854b543253a4d1b5cc8d5bc87"
+    },
+    {
+      "path": "public/musik-fragen.csv",
+      "filename": "Musik_Ergaenzung_180_Fragen.csv",
+      "sha256": "d8c47f7931d31ba0bf1108bf1b860e001170a44c7fa21449f514d03e1baab132"
+    },
+    {
+      "path": "public/scifi-ergaenzung-fragen.csv",
+      "filename": "SciFi_Ergaenzung_360_Fragen.csv",
+      "sha256": "0bb6ab71112411b46d85ec31d4d012e4c60a565ab0bf4ef1f0bebad4af3be6fe"
+    },
+    {
+      "path": "public/komoedie-ergaenzung-fragen.csv",
+      "filename": "Komoedie_Ergaenzung_360_Fragen.csv",
+      "sha256": "7c2505c77602a659a26d7ca631a1724caf264396ca3f0c56b73c6e3bf735d4ae"
+    },
+    {
+      "path": "public/alle-genres-120-filme-fragen.csv",
+      "filename": "Alle_Genres_120_Filme_960_Fragen.csv",
+      "sha256": "00f32a122beb04cb0e9aa6a0c84507ed0254ac6aa192f25cdc45526427ed4502"
+    },
+    {
+      "path": "public/preistraeger-fragen.csv",
+      "filename": "Preistraeger_200_Fragen.csv",
+      "sha256": "898cc869cb2c0af879d662a129e23e5cec94eb64276caa55fa65e0584029c09f"
+    },
+    {
+      "path": "public/schauspieler-fragen.csv",
+      "filename": "Schauspieler_800_Fragen_App.csv",
+      "sha256": "8a1c23ad8aec5fcd6a9ba6e0eba90ac05aba43206932a26a6dea5640538b5f45"
+    },
+    {
+      "path": "public/schauspieler-p02-fragen.csv",
+      "filename": "Schauspieler_Ergaenzung_P02_200_Fragen_App.csv",
+      "sha256": "adb92b7bda7e1094d10ceaaec80cc065c0fab03d74633a23c8a55c3615792a97"
+    },
+    {
+      "path": "public/schauspieler-p03-fragen.csv",
+      "filename": "Schauspieler_Ergaenzung_P03_400_Fragen_App.csv",
+      "sha256": "bff7323e56d049b14b84373b6028b6a30b4a914d5b54be713cd4db57b39f6656"
+    },
+    {
+      "path": "public/film-ergaenzung-240-fragen.csv",
+      "filename": "Filmfragen_240_Filme_1920_Fragen.csv",
+      "sha256": "c3ece134e7add4cd7d03cc33617824c7009aed4f8fa26c64852484d159e142cb"
+    },
+    {
+      "path": "public/schauspieler-bilder-fragen.csv",
+      "filename": "Schauspieler_Bilderkennung_200_Fragen.csv",
+      "sha256": "5c8fa6b9327764dd34d71175577cc06d9882e15dd7532a4b8a60db0bfc40042b"
+    }
+  ]
+}

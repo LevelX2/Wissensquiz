@@ -1,0 +1,248 @@
+{
+  "rank": 239,
+  "titleDe": "The Machinist",
+  "originalTitle": "The Machinist",
+  "year": 2004,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Schlaflosigkeit und industrielle Alltagsspuren erschließen eine verdrängte Verantwortung.",
+  "directors": [
+    "Brad Anderson"
+  ],
+  "production_countries": [
+    "Spanien"
+  ],
+  "country_note": "Spanische Produktionszuordnung nach dem ICAA-Produktionsblatt (Castelao Productions mit Canal+ España) und Catalan Films (Produktionsland Catalunya, Produzent Filmax). Wikipedia nennt vier Länder, AFI-Watch fünf; diese Aggregatorlisten werden durch die gelesenen Produktionsangaben nicht als Koproduktionsländer bestätigt. Englische Sprache, internationale Besetzung und ausländische Auswertung sind für sich keine Koproduktionsnachweise.",
+  "release_note": "Erste Vorführung beim Sundance Film Festival im Januar 2004; spätere Kinoauswertungen desselben Jahres. Englische Sprache und US-Handlungsort ersetzen nicht die spanische Produktionsbasis.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/The_Machinist",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "studio": {
+      "url": "https://www.filmax.com/produccion/el-maquinista/171",
+      "supports": "Regie, Drehbuch, Originalbesetzung, Jahr 2004, spanische Produktionsbasis, Schlaflosigkeit und Fabrikunfall."
+    },
+    "dc": {
+      "url": "https://www.dc.com/movies/batman-begins-2005",
+      "supports": "Christian Bale als Bruce Wayne/Batman im Film von 2005."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Der_Maschinist",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    },
+    "icaa": {
+      "url": "https://infoicaa.mcu.es/CatalogoICAA/Caratulas/67503/58/P67503.pdf",
+      "supports": "Gelesenes dreiseitiges Produktionsblatt: Castelao Productions in Barcelona, Beteiligung von Canal+ España, Regie Brad Anderson, Originalbesetzung und Drehorte in Spanien."
+    },
+    "catalan": {
+      "url": "https://catalanfilms.cat/ca/produccions/the-machinist",
+      "supports": "Gelesener Eintrag mit Filmax als Produzent, Catalunya als Produktionsland und 2003 als Produktionsjahr; dies ersetzt nicht das erste Veröffentlichungsjahr 2004."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Belastung prägt Trevor Rezniks (Christian Bale) Zustand in @?",
+      "answers": [
+        "Seit etwa einem Jahr kann er nicht schlafen",
+        "Seit einem Unfall kann er nichts mehr hören",
+        "Seit seiner Kindheit erkennt er keine Gesichter",
+        "Seit einer Vergiftung hat er sein Augenlicht verloren"
+      ],
+      "feedback": [
+        "Die anhaltende Schlaflosigkeit geht mit körperlichem Verfall einher.",
+        "Eine Gehörlosigkeit ist nicht seine zentrale Beeinträchtigung.",
+        "Eine lebenslange Gesichtserkennungsstörung wird nicht gezeigt.",
+        "Trevor sieht die bedrohlichen Bilder; er ist nicht erblindet."
+      ],
+      "short": "Die anhaltende Schlaflosigkeit geht mit körperlichem Verfall einher.",
+      "context": "Trevor Reznik (Christian Bale) ist durch den Schlafmangel stark ausgezehrt. Seine Erschöpfung greift in Arbeitsleistung, Beziehungen und Wahrnehmung ein. Die Ursache bleibt zunächst offen, sodass alltägliche Irritationen für ihn als gezielte feindliche Handlungen erscheinen. Der Film verbindet das körperlich Sichtbare mit einer psychischen Belastung, die sich erst später erklären lässt.",
+      "anchor": "Trevors Schlaflosigkeit zerstört Körper und Vertrauen in die eigene Wahrnehmung.",
+      "interest": "Das zentrale Symptom erklärt die ungewöhnliche Erscheinung der Figur.",
+      "sources": [
+        "wiki",
+        "de",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Folge hat der Fabrikunfall, an dem Trevor (Christian Bale) beteiligt ist?",
+      "answers": [
+        "Miller verliert einen Arm",
+        "Trevor löst einen Brand aus, bei dem mehrere Kollegen verletzt werden.",
+        "Trevor fährt versehentlich einen Kollegen auf dem Werksgelände an.",
+        "Ein Kollege stürzt bei der Wartung vom Hallendach."
+      ],
+      "feedback": [
+        "Miller (Michael Ironside) erleidet die schwere Armverletzung.",
+        "Miller verliert durch den Maschinenunfall einen Arm.",
+        "Der Unfall geschieht an der Maschine, nicht durch einen Wagen auf dem Gelände.",
+        "Trevor lenkt Miller ab; der gezeigte Schaden ist die Armamputation an der Maschine."
+      ],
+      "short": "Miller (Michael Ironside) erleidet die schwere Armverletzung.",
+      "context": "Trevor Reznik (Christian Bale) wird an der Maschine von dem vermeintlichen Kollegen Ivan (John Sharian) abgelenkt. Miller (Michael Ironside) verliert daraufhin einen Arm. Die schwere Verletzung verschärft das Misstrauen im Betrieb. Zugleich bestreiten die anderen, den Mann zu kennen, auf den Trevor seine Ablenkung zurückführt.",
+      "anchor": "Die Armverletzung macht Trevors Wahrnehmungsproblem zur konkreten Gefahr für andere.",
+      "interest": "Die Szene verbindet eine subjektive Beobachtung mit einer realen Unfallfolge.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum lässt sich Ivan (John Sharian) in der Fabrik nicht überprüfen?",
+      "answers": [
+        "Niemand kennt ihn, und es gibt keinen entsprechenden Mitarbeiter",
+        "Er besitzt eine Sondergenehmigung des Firmenanwalts",
+        "Er arbeitet ausschließlich unter staatlicher Geheimhaltung",
+        "Er wurde von Miller bereits vor Jahren offiziell entlassen"
+      ],
+      "feedback": [
+        "Trevors behaupteter Kollege ist in der Belegschaft nicht nachweisbar.",
+        "Eine anwaltliche Sondergenehmigung erklärt sein Fehlen nicht.",
+        "Eine geheime staatliche Tätigkeit wird nicht als Erklärung gegeben.",
+        "Eine frühere Entlassung wird nicht bestätigt; der Mann ist unbekannt."
+      ],
+      "short": "Trevors behaupteter Kollege ist in der Belegschaft nicht nachweisbar.",
+      "context": "Trevor Reznik (Christian Bale) erklärt seine Ablenkung mit Ivan (John Sharian). Die Arbeitgeber und Kollegen finden jedoch keinen Mitarbeiter dieses Namens. Für Trevor wird das zunächst zum Zeichen einer Verschwörung. Für die Erzählung ist es ein überprüfbarer Widerspruch zwischen seiner Wahrnehmung und einer gemeinsam bestätigten äußeren Wirklichkeit.",
+      "anchor": "Der vermeintliche Kollege existiert nicht in den Personalangaben des Werks.",
+      "interest": "Die Frage zeigt den ersten konkreten Zweifel an Trevors Erklärung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was erfährt Trevor (Christian Bale) bei der Suche nach Ivans Autokennzeichen?",
+      "answers": [
+        "Das Auto war auf ihn selbst zugelassen",
+        "Das Auto gehört seinem Arzt",
+        "Das Auto ist ein Mietwagen von Stevie",
+        "Das Auto wurde offiziell als Polizeifahrzeug geführt"
+      ],
+      "feedback": [
+        "Das Kennzeichen führt zu Trevors eigenem früheren Wagen.",
+        "Ein Arzt wird nicht als Halter genannt.",
+        "Stevie (Jennifer Jason Leigh) ist nicht die registrierte Mieterin dieses Wagens.",
+        "Die Halterabfrage liefert keine Polizeizulassung."
+      ],
+      "short": "Das Kennzeichen führt zu Trevors eigenem früheren Wagen.",
+      "context": "Trevor Reznik (Christian Bale) will Ivan (John Sharian) über dessen Wagen identifizieren. Die Auskunft führt jedoch auf ihn selbst und auf ein vor einem Jahr abgemeldetes Fahrzeug zurück. Die Suche nach einem äußeren Gegner wird so zur Spur seiner eigenen verdrängten Vergangenheit. Gerade eine amtlich überprüfbare Angabe widerspricht seiner bisherigen Täterhypothese.",
+      "anchor": "Ivans vermeintliches Kennzeichen führt zu Trevors früherem Auto.",
+      "interest": "Die Spur verschiebt den Verdacht vom anderen Mann auf die eigene Vergangenheit.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Bedeutung bekommt das Angelfoto nach Stevies (Jennifer Jason Leigh) Erklärung?",
+      "answers": [
+        "Es zeigt Trevor selbst anstelle des von ihm gesehenen Ivan",
+        "Es beweist, dass Miller die gesamte Fabrik gekauft hat",
+        "Es zeigt Nicholas vor seiner Adoption",
+        "Es stammt aus einer polizeilichen Fahndungsakte über Maria"
+      ],
+      "feedback": [
+        "Stevie erkennt Trevor auf dem Bild; er hat dort Ivan wahrgenommen.",
+        "Ein Fabrikkauf ist kein Inhalt des Fotos.",
+        "Eine Adoption Nicholas’ wird dadurch nicht belegt.",
+        "Das Foto ist keine Fahndungsaufnahme der Kellnerin."
+      ],
+      "short": "Stevie erkennt Trevor auf dem Bild; er hat dort Ivan wahrgenommen.",
+      "context": "Trevor Reznik (Christian Bale) betrachtet das Foto zunächst als Beweis für Ivan (John Sharian). Stevie (Jennifer Jason Leigh) benennt dagegen ihn selbst. Später kann er diese andere Lesart annehmen. Ein unveränderter Gegenstand zeigt dadurch nicht mehr die Existenz eines Gegners, sondern die Veränderung seiner eigenen Fähigkeit, das sichtbare Bild zu erkennen.",
+      "anchor": "Das gleiche Foto zeigt einen anderen Mann, sobald Trevor seine Verdrängung aufgibt.",
+      "interest": "Die Szene macht den Wechsel der Wahrnehmung an einem konkreten Bild verständlich.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was ermöglicht Trevor (Christian Bale) am Schluss erstmals wieder Schlaf?",
+      "answers": [
+        "Er gesteht seine Fahrerflucht und bleibt in einer Polizeizelle",
+        "Er fliegt mit Maria und Nicholas ins Ausland",
+        "Er beweist die Verschwörung der Fabrikleitung",
+        "Er erhält von Ivan ein neues Arbeitsangebot"
+      ],
+      "feedback": [
+        "Das Geständnis beendet seine Flucht vor der eigenen Tat.",
+        "Maria und Nicholas sind keine reale neue Reisegemeinschaft.",
+        "Eine bestätigte Firmenverschwörung löst seine Belastung nicht.",
+        "Ivan bietet ihm keine reale berufliche Zukunft."
+      ],
+      "short": "Das Geständnis beendet seine Flucht vor der eigenen Tat.",
+      "context": "Trevor Reznik (Christian Bale) erinnert sich daran, einen Jungen überfahren und den Unfallort verlassen zu haben. Er entscheidet sich für das Geständnis statt für eine neue Flucht. Erst in der Zelle schläft er ein. Das Ende verbindet Ruhe daher nicht mit Freiheit, sondern mit der Anerkennung einer zuvor verdrängten Verantwortung.",
+      "anchor": "Das Geständnis führt in die Zelle und beendet die Schlaflosigkeit.",
+      "interest": "Die Auflösung verbindet das Anfangssymptom mit seiner konkreten Ursache.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2004",
+        "2001",
+        "1998",
+        "2006"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2004.",
+        "2001 liegt drei Jahre vor der ersten Veröffentlichung von 2004.",
+        "1998 liegt sechs Jahre vor der ersten Veröffentlichung von 2004.",
+        "2006 ist ein späteres Jahr als das belegte erste Filmjahr 2004."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2004.",
+      "context": "Der Maschinist wurde 2004 erstmals gezeigt. Im folgenden Jahr erschien Christian Bale in Batman Begins von 2005 als Bruce Wayne. Die beiden Rollen verlangen gegensätzliche körperliche Erscheinungen: der ausgezehrte Trevor Reznik und der handlungsfähige Superheld. Der Abstand von einem Filmjahr macht Bales bewusste körperliche Verwandlung als zusätzlichen Anker für die Datierung verständlich.",
+      "anchor": "Bale als Trevor 2004 → als Batman 2005: im folgenden Filmjahr.",
+      "interest": "Die Rollenfolge verankert die Datierung in einer besonders anschaulichen Darstellerverbindung.",
+      "sources": [
+        "wiki",
+        "studio",
+        "dc"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Brad Anderson",
+        "Christopher Nolan",
+        "Darren Aronofsky",
+        "David Fincher"
+      ],
+      "feedback": [
+        "Brad Anderson führte bei diesem Film Regie.",
+        "Christopher Nolan hat diesen Film nicht inszeniert; der Regiecredit lautet Brad Anderson.",
+        "Darren Aronofsky hat diesen Film nicht inszeniert; der Regiecredit lautet Brad Anderson.",
+        "David Fincher hat diesen Film nicht inszeniert; der Regiecredit lautet Brad Anderson."
+      ],
+      "short": "Brad Anderson führte bei diesem Film Regie.",
+      "context": "Brad Anderson führte Regie nach Scott Kosars Drehbuch. Obwohl die Geschichte in Kalifornien spielt und englisch gesprochen wird, entstand der Film in und um Barcelona. Anderson zeigt die Wahrnehmung Trevor Rezniks (Christian Bale) zunächst als scheinbar äußere Bedrohung. Erst die wiederkehrenden Gegenstände und Widersprüche verbinden diese Perspektive mit einer verdrängten eigenen Handlung.",
+      "anchor": "Anderson inszeniert die kalifornische Geschichte in Barcelona aus Trevors unsicherer Perspektive.",
+      "interest": "Der Hintergrund trennt Sprache und Schauplatz von der tatsächlichen Herstellung.",
+      "sources": [
+        "wiki",
+        "studio",
+        "icaa"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

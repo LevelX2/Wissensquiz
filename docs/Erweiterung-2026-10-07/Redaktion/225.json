@@ -1,0 +1,239 @@
+{
+  "rank": 225,
+  "titleDe": "Dämonisch",
+  "originalTitle": "Frailty",
+  "year": 2001,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Eine Familienerzählung verändert durch Perspektive und Erinnerung den behaupteten religiösen Auftrag.",
+  "directors": [
+    "Bill Paxton"
+  ],
+  "production_countries": [
+    "USA",
+    "Kanada"
+  ],
+  "release_note": "Festivalpremiere beim Deep Ellum Film Festival 2001; der reguläre nordamerikanische Kinostart folgte 2002. Die Quellen weichen beim Novembertag ab, das erste Filmjahr ist eindeutig 2001.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Frailty_(2001_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "disney": {
+      "url": "https://movies.disney.com/the-greatest-game-ever-played",
+      "supports": "Bill Paxtons spätere Regiearbeit Das größte Spiel seines Lebens, Kinostart 2005."
+    },
+    "premiere": {
+      "url": "https://www.imdb.com/title/tt0264616/releaseinfo/",
+      "supports": "Deep-Ellum-Festivalvorführung im November 2001 und reguläre Kinostarts 2002."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/D%C3%A4monisch",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Womit rechtfertigt der Vater (Bill Paxton) in @ seine Tötungen?",
+      "answers": [
+        "Mit einem göttlichen Auftrag gegen vermeintliche Dämonen",
+        "Mit einer genehmigten Polizeimission",
+        "Mit einer bezahlten Arbeit für eine Verbrechergruppe",
+        "Mit einem persönlichen Racheauftrag seines Arbeitgebers"
+      ],
+      "feedback": [
+        "Er behauptet, Gott habe ihm die Vernichtung von Dämonen befohlen.",
+        "Eine polizeiliche Genehmigung für die Morde besteht nicht.",
+        "Er beruft sich auf Religion, nicht auf ein Mafiaentgelt.",
+        "Sein Arbeitgeber ist nicht Urheber des angeblichen Auftrags."
+      ],
+      "short": "Er behauptet, Gott habe ihm die Vernichtung von Dämonen befohlen.",
+      "context": "Der Vater (Bill Paxton) erklärt seinen Söhnen, dass menschlich aussehende Personen in Wirklichkeit Dämonen seien. Seine behaupteten Visionen sollen jeden Zweifel ersetzen. Dadurch wird eine vertraute Familienautorität zum Träger eines Gewaltauftrags: Die Kinder sollen nicht nur glauben, sondern bei Entführung, Tötung und Verbergen der Opfer helfen.",
+      "anchor": "Der Vater erklärt gewöhnliche Menschen durch einen göttlichen Auftrag zu Dämonen.",
+      "interest": "Die Grundannahme erklärt die Bedrohung innerhalb der Familie.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Wie unterscheiden sich die jungen Brüder in ihrer Reaktion auf den Vater?",
+      "answers": [
+        "Fenton zweifelt, Adam glaubt ihm",
+        "Adam zweifelt, Fenton glaubt ihm",
+        "Beide lehnen den Auftrag sofort gemeinsam ab",
+        "Beide betrachten den Auftrag als bezahlte Arbeit"
+      ],
+      "feedback": [
+        "Fenton (Matt O’Leary) widerspricht, während Adam (Jeremy Sumpter) den Vater bestätigt.",
+        "Die Haltung der beiden Brüder ist hier vertauscht.",
+        "Gerade ihre unterschiedlichen Reaktionen treiben den Familienkonflikt an.",
+        "Ein finanzielles Motiv ersetzt nicht den Streit um den Glauben."
+      ],
+      "short": "Fenton (Matt O’Leary) widerspricht, während Adam (Jeremy Sumpter) den Vater bestätigt.",
+      "context": "Fenton (Matt O’Leary) erlebt die Taten seines Vaters (Bill Paxton) als Morde. Adam (Jeremy Sumpter) übernimmt dagegen dessen Erklärung. Die Brüder leben in derselben Familie und sehen dieselben Handlungen, ziehen jedoch gegensätzliche Schlüsse. Diese Spaltung ist entscheidend für die spätere Erzählung eines erwachsenen Besuchers beim FBI.",
+      "anchor": "Der ältere Bruder zweifelt; der jüngere übernimmt den Glauben des Vaters.",
+      "interest": "Die Frage verfolgt einen tragenden Gegensatz statt eines beliebigen Figurennamens.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wozu nutzt der Vater (Bill Paxton) das von Fenton gegrabene Erdloch?",
+      "answers": [
+        "Als Gefängnis, das Fenton zum Glauben zwingen soll",
+        "Als Versteck für einen geplanten Bankraub",
+        "Als Fluchttunnel zur Nachbarwohnung",
+        "Als Werkstatt für die Reparatur gestohlener Autos"
+      ],
+      "feedback": [
+        "Er sperrt Fenton hinein und entzieht ihm Versorgung, bis er Gehorsam vortäuscht.",
+        "Ein Bankraub gehört nicht zum Zweck des Lochs.",
+        "Die Grube verschafft keine Flucht, sondern schließt den Sohn ein.",
+        "Die berufliche Mechanik des Vaters erklärt diese Strafmaßnahme nicht."
+      ],
+      "short": "Er sperrt Fenton hinein und entzieht ihm Versorgung, bis er Gehorsam vortäuscht.",
+      "context": "Fenton (Matt O’Leary) weigert sich, die angebliche Dämonenjagd anzuerkennen. Sein Vater (Bill Paxton) bestraft ihn mit dem Einschluss in der Grube. Hunger, Dunkelheit und Isolation sollen ihn brechen. Als Fenton schließlich eine Vision behauptet, endet die Strafe; der vorgetäuschte Glaube ist ein Versuch, dieser Zwangslage zu entkommen.",
+      "anchor": "Die Grube ist ein Mittel erzwungener religiöser Unterordnung.",
+      "interest": "Der Zusammenhang erklärt Fentons scheinbaren Sinneswandel.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Warum tötet der Vater (Bill Paxton) den von Fenton geholten Sheriff?",
+      "answers": [
+        "Der Sheriff hat die Morde entdeckt und soll sie nicht offenlegen",
+        "Der Sheriff verlangt seinen Anteil an der Beute",
+        "Der Sheriff steht als erstes Opfer auf der Dämonenliste",
+        "Der Sheriff bedroht Adam mit einer falschen Festnahme"
+      ],
+      "feedback": [
+        "Der Besuch droht die Taten aufzudecken; der Vater tötet den Zeugen.",
+        "Eine Gewinnbeteiligung gehört nicht zum Konflikt.",
+        "Die Tötung erfolgt zur Verdeckung, nicht als zuerst geplanter Listenmord.",
+        "Eine angedrohte Festnahme Adams verursacht den Mord nicht."
+      ],
+      "short": "Der Besuch droht die Taten aufzudecken; der Vater tötet den Zeugen.",
+      "context": "Fenton (Matt O’Leary) sucht Hilfe bei einem Sheriff (Luke Askew), der seine Geschichte zunächst bezweifelt. Der Besuch im Haus schafft die Möglichkeit einer Aufklärung. Stattdessen tötet der Vater (Bill Paxton) den Polizisten. Dass diese Tat selbst in seiner Erklärung problematisch bleibt, zeigt den Übergang vom behaupteten Auftrag zur Sicherung des eigenen Geheimnisses.",
+      "anchor": "Der Hilferuf bringt einen Zeugen ins Haus, den der Vater beseitigt.",
+      "interest": "Die Szene legt den Konflikt zwischen religiöser Behauptung und praktischer Vertuschung offen.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wer ist der Besucher (Matthew McConaughey), der sich beim FBI als Fenton vorstellt?",
+      "answers": [
+        "Der erwachsene Adam, der den Namen seines Bruders benutzt",
+        "Der echte Fenton nach einer Zeugenschutzoperation",
+        "Ein Ermittler, der die Familiengeschichte nachspielt",
+        "Ein Nachbar, der beide Brüder persönlich kannte"
+      ],
+      "feedback": [
+        "Er ist Adam und hat dem Agenten zunächst eine falsche Identität genannt.",
+        "Der Besucher ist nicht der echte Fenton mit neuer äußerer Erscheinung.",
+        "Er erzählt keine dienstlich inszenierte Ermittlerrolle.",
+        "Die Auflösung identifiziert ihn als Bruder, nicht als Nachbarn."
+      ],
+      "short": "Er ist Adam und hat dem Agenten zunächst eine falsche Identität genannt.",
+      "context": "Der Besucher (Matthew McConaughey) steuert die Geschichte mit Rückblenden, während FBI-Agent Wesley Doyle (Powers Boothe) zuhört. Erst am vorbereiteten Grab nennt er seinen wirklichen Namen: Adam. Die Identität des Erzählers verändert den Sinn der zuvor gehörten Geschichte, weil der glaubende jüngere Bruder und nicht der zweifelnde ältere sie vorgetragen hat.",
+      "anchor": "Adams falscher Name lenkt den Blick auf die falsche Bruderperspektive.",
+      "interest": "Die Wendung betrifft die Zuverlässigkeit der gesamten Rahmenerzählung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was erschwert dem FBI nach Doyles Verschwinden die Identifikation Adams?",
+      "answers": [
+        "Bildstörungen und fehlende Erinnerungen an sein Gesicht",
+        "Ein amtlich genehmigter Namenswechsel allein",
+        "Eine Verwechslung mit Doyles gleichaltrigem Bruder",
+        "Ein vollständig gefälschter Fingerabdruckabgleich"
+      ],
+      "feedback": [
+        "Kamera und Zeugen versagen gerade bei der Wiedererkennung des Besuchers.",
+        "Der Film zeigt mehr als einen bloßen Namenswechsel.",
+        "Eine Verwechslung innerhalb Doyles Familie erklärt die Beobachtungen nicht.",
+        "Ein manipulierter Fingerabdruckvergleich wird nicht als Ursache gezeigt."
+      ],
+      "short": "Kamera und Zeugen versagen gerade bei der Wiedererkennung des Besuchers.",
+      "context": "Nachdem Adam (Matthew McConaughey) Wesley Doyle (Powers Boothe) getötet hat, können sich die Ermittler an den Besucher nicht verlässlich erinnern. Die Kameraaufnahme wird an der entscheidenden Stelle gestört. Diese Beobachtungen verleihen den früheren Schutzbehauptungen des Vaters eine unheimliche Bestätigung, statt die Familiengeschichte vollständig durch einen gewöhnlichen Betrugsplan aufzulösen.",
+      "anchor": "Gesichterinnerung und Kamera versagen bei der entscheidenden Wiedererkennung.",
+      "interest": "Der Schluss erklärt, weshalb die religiöse Behauptung als offene Bedrohung weiterwirkt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2001",
+        "1998",
+        "1995",
+        "2003"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2001.",
+        "1998 liegt drei Jahre vor der ersten Veröffentlichung von 2001.",
+        "1995 liegt sechs Jahre vor der ersten Veröffentlichung von 2001.",
+        "2003 ist ein späteres Jahr als das belegte erste Filmjahr 2001."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2001.",
+      "context": "Bill Paxtons Langfilm-Regiedebüt wurde 2001 erstmals auf einem Festival gezeigt; der breite Kinostart folgte 2002. Vier Jahre nach dem ersten Filmjahr inszenierte Paxton 2005 Das größte Spiel seines Lebens. Der Wechsel vom religiösen Gewaltthriller zum historischen Golfdrama macht die zweite Regiearbeit als zeitlichen Orientierungspunkt besonders deutlich.",
+      "anchor": "Regiedebüt Frailty 2001 → Das größte Spiel seines Lebens 2005: vier Jahre.",
+      "interest": "Der Karrierevergleich hält das erste Filmjahr trotz des späteren regulären Kinostarts fest.",
+      "sources": [
+        "wiki",
+        "disney",
+        "premiere"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Bill Paxton",
+        "William Friedkin",
+        "Sam Raimi",
+        "Scott Derrickson"
+      ],
+      "feedback": [
+        "Bill Paxton führte bei diesem Film Regie.",
+        "William Friedkin hat diesen Film nicht inszeniert; der Regiecredit lautet Bill Paxton.",
+        "Sam Raimi hat diesen Film nicht inszeniert; der Regiecredit lautet Bill Paxton.",
+        "Scott Derrickson hat diesen Film nicht inszeniert; der Regiecredit lautet Bill Paxton."
+      ],
+      "short": "Bill Paxton führte bei diesem Film Regie.",
+      "context": "Bill Paxton führte bei seinem ersten Langfilm Regie und spielte zugleich den Vater der Brüder. Brent Hanley schrieb das Drehbuch. Die Rückblenden verknüpfen die Autorität des Vaters mit der Perspektive der Kinder: Was als religiöse Gewissheit vorgetragen wird, verlangt von ihnen konkrete Beteiligung an Gewalt gegen scheinbar gewöhnliche Menschen.",
+      "anchor": "Paxton inszeniert sein Debüt und verkörpert den missionierenden Vater.",
+      "interest": "Die Doppelaufgabe verbindet den Regiecredit mit dem Kernkonflikt der Familie.",
+      "sources": [
+        "wiki",
+        "disney",
+        "premiere"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

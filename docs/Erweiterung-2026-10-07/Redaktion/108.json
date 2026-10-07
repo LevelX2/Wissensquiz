@@ -1,0 +1,218 @@
+{
+  "rank": 108,
+  "titleDe": "Das finstere Tal",
+  "originalTitle": "Das finstere Tal",
+  "year": 2014,
+  "genre": "Western",
+  "familiarity": 3,
+  "directors": [
+    "Andreas Prochaska"
+  ],
+  "production_countries": [
+    "Österreich",
+    "Deutschland"
+  ],
+  "release_note": "Weltpremiere im Berlinale Special am 10. Februar 2014; deutscher Kinostart am 13. Februar 2014. Das Berlinale-Archiv bezeichnet die Produktion als 2013, die Erstveröffentlichung liegt 2014.",
+  "familiarity_reason": "Der deutschsprachige Alpenwestern mit Sam Riley und Paula Beer ist regional gut erkennbar, erreicht aber nicht dieselbe allgemeine Präsenz wie große internationale Genrefilme; Bekanntheit 3.",
+  "sources": {
+    "berlin": "https://www.berlinale.de/en/2014/programme/20148117.html",
+    "verleih": "https://www.x-verleih.de/filme/das-finstere-tal/",
+    "kritik": "https://theplaylist.net/berlin-review-the-dark-valley-starring-sam-riley-is-a-dour-unoriginal-german-language-western-20140210/",
+    "handlung": "https://en.wikipedia.org/wiki/The_Dark_Valley"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Als was stellt sich der fremde Greider in @ den Bewohnern vor?",
+      "answers": [
+        "Als Fotograf",
+        "Als reisender Händler",
+        "Als Vermessungsingenieur",
+        "Als Stellvertreter eines neuen Försters"
+      ],
+      "feedback": [
+        "Greider gibt sich als Fotograf aus.",
+        "Greider stellt sich als Fotograf vor.",
+        "Er bietet Fotografien an und keinen Vermessungsauftrag.",
+        "Ein Forstdienstamt ist nicht seine genannte Rolle."
+      ],
+      "short": "Greider gibt sich als Fotograf aus.",
+      "context": "Greider (Sam Riley) tritt als Fotograf auf. Der Beruf gibt seinem beobachtenden Verhalten zunächst einen verständlichen Anlass. Sein Besuch bleibt dennoch von Misstrauen begleitet. Die scheinbar harmlose Erklärung und sein zurückhaltendes Auftreten lassen offen, welche persönliche Absicht er tatsächlich in das Tal mitbringt.",
+      "anchor": "Die Fotografenrolle erklärt Greiders Beobachtung, ohne seinen eigentlichen Anlass offenzulegen.",
+      "interest": "Erklärt die anfängliche Besucherrolle.",
+      "sources": [
+        "berlin"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was macht die Dorfgemeinschaft in @ während des Winters besonders abgeschlossen?",
+      "answers": [
+        "Schnee schließt das entlegene Alpental ein.",
+        "Ein Lawinenabgang hat nur die Zufahrtsbrücke zerstört.",
+        "Die Brenners sperren einen dauerhaft offenen Pass militärisch.",
+        "Ein staatlicher Quarantänebefehl verbietet alle Reisen."
+      ],
+      "feedback": [
+        "Der Schnee verstärkt die Abgeschlossenheit.",
+        "Die jahreszeitliche Einschließung durch Schnee ist entscheidend, nicht nur ein Brückenschaden.",
+        "Der Winter isoliert das ganze Tal; es geht nicht lediglich um eine bewachte offene Straße.",
+        "Die Abgeschlossenheit entsteht ohne staatliche Quarantäneverfügung."
+      ],
+      "short": "Der Schnee verstärkt die Abgeschlossenheit.",
+      "context": "Das abgelegene Alpental wird vom Schnee eingeschlossen. Die Dorfgemeinschaft ist dadurch noch stärker auf ihre eigene Ordnung zurückgeworfen. Der Ort begrenzt die Möglichkeiten von Flucht, Hilfe und äußerer Kontrolle. Das winterliche Landschaftsbild trägt somit die Machtverhältnisse und die bedrückende Atmosphäre gemeinsam.",
+      "anchor": "Der Schnee macht die eigene Dorfordnung schwerer von außen erreichbar.",
+      "interest": "Verbindet Landschaft und soziale Abgeschlossenheit.",
+      "sources": [
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum wird Luzis bevorstehende Hochzeit in @ von Angst begleitet?",
+      "answers": [
+        "Die Brenners beanspruchen gewaltsam die Brautnacht.",
+        "Die Brenners bestimmen den Bräutigam ohne ihre Zustimmung.",
+        "Luzi muss nach der Hochzeit als Dienstmagd fortgeschickt werden.",
+        "Die Trauung verlangt die dauerhafte Aufgabe ihres Eigentums."
+      ],
+      "feedback": [
+        "Die gewaltsame Tradition bedroht die Braut.",
+        "Die besondere Bedrohung gilt dem gewaltsamen Anspruch auf die Brautnacht.",
+        "Luzi droht sexualisierte Gewalt und nicht nur eine Dienstversetzung.",
+        "Der konkrete Konflikt geht über eine Eigentumsforderung hinaus."
+      ],
+      "short": "Die gewaltsame Tradition bedroht die Braut.",
+      "context": "Luzi (Paula Beer) liebt Lukas (Thomas Schubert), fürchtet aber die Hochzeit. Die Brenners beanspruchen die Brautnacht als Mittel ihrer Herrschaft. Ein persönliches Fest wird dadurch zum Zeitpunkt fremder Gewalt. Das Paar kann seine Beziehung nicht frei leben, solange die Dorfordnung diesen Anspruch schützt.",
+      "anchor": "Die Hochzeit ist gefürchtet, weil die Herrscher gerade die Brautnacht beanspruchen.",
+      "interest": "Erklärt die Verbindung von privater Beziehung und Dorfherrschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Vorgeschichte erklärt Greiders Rache in @?",
+      "answers": [
+        "Die Brenners misshandelten seine Eltern; seine Mutter entkam nach Amerika.",
+        "Die Brenners haben ihn als Kind nach Amerika verbannt.",
+        "Seine Mutter wurde wegen eines fremden Mordes verurteilt.",
+        "Sein Vater starb nach einem Streit um den Verkauf des Hofes."
+      ],
+      "feedback": [
+        "Die Gewalt gegen seine Eltern begründet seine Rückkehr.",
+        "Die Gewalt gegen seine Eltern und die Flucht der Mutter bestimmen seine Rache.",
+        "Die Vorgeschichte gilt der Herrschaft der Brenners und keiner fremden Mordanklage.",
+        "Die tödliche Gewalt hängt mit ihrem Anspruch auf die Mutter zusammen, nicht einem gewöhnlichen Hofverkauf."
+      ],
+      "short": "Die Gewalt gegen seine Eltern begründet seine Rückkehr.",
+      "context": "Greider (Sam Riley) kehrt wegen der Gewalt gegen seine Eltern zurück. Die Mutter konnte nach Amerika entkommen, während der Mann für den Widerstand bestraft wurde. Sein Besuch bringt damit eine verdrängte Vorgeschichte in die Gemeinschaft zurück. Die abgeschlossene Ordnung wird mit den Folgen ihres Handelns konfrontiert.",
+      "anchor": "Greiders Rückkehr bringt die verdrängte Gewalt gegen seine Familie wieder ins Tal.",
+      "interest": "Erklärt die persönliche Ursache hinter dem Besuch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum richtet sich Greiders Vorgehen in @ auch gegen den Pfarrer?",
+      "answers": [
+        "Der Pfarrer stützt die gewaltsame Ordnung der Brenners.",
+        "Der Pfarrer hat Greiders Mutter öffentlich verraten.",
+        "Der Pfarrer hat Greiders Vater selbst erschossen.",
+        "Der Pfarrer besitzt das Geld für die Bewaffnung der Brüder."
+      ],
+      "feedback": [
+        "Der Pfarrer trägt die Herrschaft mit.",
+        "Entscheidend ist seine Stützung und Rechtfertigung der Gewaltordnung.",
+        "Greiders Vorgehen folgt der Mitverantwortung des Pfarrers, nicht einem selbst abgegebenen tödlichen Schuss.",
+        "Die kirchliche Legitimation der Herrschaft ist zentral, nicht eine reine Waffenfinanzierung."
+      ],
+      "short": "Der Pfarrer trägt die Herrschaft mit.",
+      "context": "Pfarrer Breiser (Erwin Steinhauer) stützt die Ordnung der Brenners. Greiders (Sam Riley) Vorgehen trifft dadurch nicht allein die unmittelbar gewalttätigen Männer. Die Geschichte zeigt auch die Instanz, die ihre Ansprüche legitimiert. Die Herrschaft besteht aus Handlungen und aus der Zustimmung, die ihnen Dauer verleiht.",
+      "anchor": "Die Gewalt braucht die stützende Zustimmung der religiösen Autorität.",
+      "interest": "Erklärt die institutionelle Absicherung der Dorfherrschaft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welchen entscheidenden Vorteil besitzt Greider beim Schusswechsel in @?",
+      "answers": [
+        "Sein Repetiergewehr ermöglicht rasche weitere Schüsse.",
+        "Sein Revolver hat eine größere Reichweite als alle Gewehre.",
+        "Er hat seine Gegner zuvor sämtlich entwaffnet.",
+        "Er kann durch einen unterirdischen Gang ungesehen schießen."
+      ],
+      "feedback": [
+        "Das Repetiergewehr verschafft ihm einen technischen Vorteil.",
+        "Das Repetiergewehr beschleunigt Folgefeuer; die Waffe ist kein überlegener Revolver.",
+        "Die Gegner sind bewaffnet, aber beim schnellen Nachladen im Nachteil.",
+        "Der Vorteil beruht auf der Waffentechnik und nicht auf einem geheimen Schusstunnel."
+      ],
+      "short": "Das Repetiergewehr verschafft ihm einen technischen Vorteil.",
+      "context": "Greider (Sam Riley) nutzt ein Repetiergewehr gegen Gegner mit langsameren Waffen. Die zahlenmäßige Unterlegenheit wird dadurch nicht bedeutungslos, aber taktisch veränderbar. Die Inszenierung macht die verfügbare Technik zu einem Teil der Handlungsmacht: Entscheidend ist nicht allein, wie viele Männer auf einer Seite stehen.",
+      "anchor": "Die schnellere Waffenfolge verändert die Wirkung der zahlenmäßigen Unterlegenheit.",
+      "interest": "Erklärt die Technik als konkrete Ursache des Gefechtsverlaufs.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, vier Jahre nach Thomas Willmanns Roman von 2010?",
+      "answers": [
+        "2014",
+        "2011",
+        "2012",
+        "2015"
+      ],
+      "feedback": [
+        "2014 liegt vier Jahre nach der Vorlage.",
+        "2011 liegt ein Jahr danach.",
+        "2012 liegt zwei Jahre danach.",
+        "2015 liegt fünf Jahre danach."
+      ],
+      "short": "2014 liegt vier Jahre nach der Vorlage.",
+      "context": "Thomas Willmanns Roman Das finstere Tal erschien 2010. Die Filmadaption kam 2014 erstmals zur Aufführung, vier Jahre später. Der zeitliche Anschluss verbindet einen literarischen Stoff mit seiner Alpenwestern-Inszenierung. Das Produktionsjahr 2013 im Festivalarchiv ist dabei von der tatsächlichen Erstveröffentlichung zu unterscheiden.",
+      "anchor": "2010 der Roman, 2014 die erste Filmveröffentlichung: vier Jahre Abstand.",
+      "interest": "Verankert das Jahr in der Vorlage und klärt den Produktionsjahrgang.",
+      "sources": [
+        "handlung",
+        "berlin"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Andreas Prochaska",
+        "Stefan Ruzowitzky",
+        "Götz Spielmann",
+        "Wolfgang Murnberger"
+      ],
+      "feedback": [
+        "Prochaska inszenierte den Film.",
+        "Ruzowitzky führte hier nicht Regie.",
+        "Spielmann führte hier nicht Regie.",
+        "Murnberger führte hier nicht Regie."
+      ],
+      "short": "Prochaska inszenierte den Film.",
+      "context": "Andreas Prochaska inszenierte die Adaption und schrieb gemeinsam mit Martin Ambrosch das Drehbuch. Die Handlung überträgt vertraute Westernmotive in eine deutschsprachige Alpenlandschaft. Fremder, bedrohte Gemeinschaft und gewaltsame Herrschaft erhalten dadurch einen regionalen Raum, während ihre Beziehungen innerhalb des Genreaufbaus verständlich bleiben.",
+      "anchor": "Prochaska verlegt die Westernkonstellation in die abgeschlossene Welt eines Alpentals.",
+      "interest": "Verbindet Regie und konkrete Form der Genreübertragung.",
+      "sources": [
+        "verleih"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

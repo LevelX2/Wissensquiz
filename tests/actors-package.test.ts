@@ -28,6 +28,7 @@ import {
 const contents = packages
   .filter(
     (pkg) =>
+      !pkg.filename.endsWith("fragen_20261007.csv") &&
       ![
         "Filmfragen_240_Filme_1920_Fragen.csv",
         "Schauspieler_Bilderkennung_200_Fragen.csv",

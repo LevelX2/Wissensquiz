@@ -1,0 +1,3608 @@
+{
+  "schema_version": "wissensquiz-redaktion-preise-v1",
+  "package_id": "E20261007-A",
+  "title": "Preise – Erweiterung 07.10.2026",
+  "language": "de",
+  "created_on": "2026-10-07",
+  "status": "redaktionell_geprueft",
+  "difficulty_levels": [
+    "leicht",
+    "mittel",
+    "schwer",
+    "experte"
+  ],
+  "entries": [
+    {
+      "entry": 1,
+      "title": "Es geschah in einer Nacht",
+      "ceremony_year": 1935,
+      "question_ids": [
+        "E20261007-A-001-L",
+        "E20261007-A-001-M",
+        "E20261007-A-001-S",
+        "E20261007-A-001-E"
+      ]
+    },
+    {
+      "entry": 2,
+      "title": "Das Appartement",
+      "ceremony_year": 1961,
+      "question_ids": [
+        "E20261007-A-002-L",
+        "E20261007-A-002-M",
+        "E20261007-A-002-S",
+        "E20261007-A-002-E"
+      ]
+    },
+    {
+      "entry": 3,
+      "title": "Lawrence von Arabien",
+      "ceremony_year": 1963,
+      "question_ids": [
+        "E20261007-A-003-L",
+        "E20261007-A-003-M",
+        "E20261007-A-003-S",
+        "E20261007-A-003-E"
+      ]
+    },
+    {
+      "entry": 4,
+      "title": "My Fair Lady",
+      "ceremony_year": 1965,
+      "question_ids": [
+        "E20261007-A-004-L",
+        "E20261007-A-004-M",
+        "E20261007-A-004-S",
+        "E20261007-A-004-E"
+      ]
+    },
+    {
+      "entry": 5,
+      "title": "Meine Lieder – meine Träume",
+      "ceremony_year": 1966,
+      "question_ids": [
+        "E20261007-A-005-L",
+        "E20261007-A-005-M",
+        "E20261007-A-005-S",
+        "E20261007-A-005-E"
+      ]
+    },
+    {
+      "entry": 6,
+      "title": "Asphalt-Cowboy",
+      "ceremony_year": 1970,
+      "question_ids": [
+        "E20261007-A-006-L",
+        "E20261007-A-006-M",
+        "E20261007-A-006-S",
+        "E20261007-A-006-E"
+      ]
+    },
+    {
+      "entry": 7,
+      "title": "Brennpunkt Brooklyn",
+      "ceremony_year": 1972,
+      "question_ids": [
+        "E20261007-A-007-L",
+        "E20261007-A-007-M",
+        "E20261007-A-007-S",
+        "E20261007-A-007-E"
+      ]
+    },
+    {
+      "entry": 8,
+      "title": "Der Clou",
+      "ceremony_year": 1974,
+      "question_ids": [
+        "E20261007-A-008-L",
+        "E20261007-A-008-M",
+        "E20261007-A-008-S",
+        "E20261007-A-008-E"
+      ]
+    },
+    {
+      "entry": 9,
+      "title": "Rocky",
+      "ceremony_year": 1977,
+      "question_ids": [
+        "E20261007-A-009-L",
+        "E20261007-A-009-M",
+        "E20261007-A-009-S",
+        "E20261007-A-009-E"
+      ]
+    },
+    {
+      "entry": 10,
+      "title": "Der Stadtneurotiker",
+      "ceremony_year": 1978,
+      "question_ids": [
+        "E20261007-A-010-L",
+        "E20261007-A-010-M",
+        "E20261007-A-010-S",
+        "E20261007-A-010-E"
+      ]
+    },
+    {
+      "entry": 11,
+      "title": "Die durch die Hölle gehen",
+      "ceremony_year": 1979,
+      "question_ids": [
+        "E20261007-A-011-L",
+        "E20261007-A-011-M",
+        "E20261007-A-011-S",
+        "E20261007-A-011-E"
+      ]
+    },
+    {
+      "entry": 12,
+      "title": "Kramer gegen Kramer",
+      "ceremony_year": 1980,
+      "question_ids": [
+        "E20261007-A-012-L",
+        "E20261007-A-012-M",
+        "E20261007-A-012-S",
+        "E20261007-A-012-E"
+      ]
+    },
+    {
+      "entry": 13,
+      "title": "Eine ganz normale Familie",
+      "ceremony_year": 1981,
+      "question_ids": [
+        "E20261007-A-013-L",
+        "E20261007-A-013-M",
+        "E20261007-A-013-S",
+        "E20261007-A-013-E"
+      ]
+    },
+    {
+      "entry": 14,
+      "title": "Die Stunde des Siegers",
+      "ceremony_year": 1982,
+      "question_ids": [
+        "E20261007-A-014-L",
+        "E20261007-A-014-M",
+        "E20261007-A-014-S",
+        "E20261007-A-014-E"
+      ]
+    },
+    {
+      "entry": 15,
+      "title": "Gandhi",
+      "ceremony_year": 1983,
+      "question_ids": [
+        "E20261007-A-015-L",
+        "E20261007-A-015-M",
+        "E20261007-A-015-S",
+        "E20261007-A-015-E"
+      ]
+    },
+    {
+      "entry": 16,
+      "title": "Jenseits von Afrika",
+      "ceremony_year": 1986,
+      "question_ids": [
+        "E20261007-A-016-L",
+        "E20261007-A-016-M",
+        "E20261007-A-016-S",
+        "E20261007-A-016-E"
+      ]
+    },
+    {
+      "entry": 17,
+      "title": "Platoon",
+      "ceremony_year": 1987,
+      "question_ids": [
+        "E20261007-A-017-L",
+        "E20261007-A-017-M",
+        "E20261007-A-017-S",
+        "E20261007-A-017-E"
+      ]
+    },
+    {
+      "entry": 18,
+      "title": "Der letzte Kaiser",
+      "ceremony_year": 1988,
+      "question_ids": [
+        "E20261007-A-018-L",
+        "E20261007-A-018-M",
+        "E20261007-A-018-S",
+        "E20261007-A-018-E"
+      ]
+    },
+    {
+      "entry": 19,
+      "title": "Rain Man",
+      "ceremony_year": 1989,
+      "question_ids": [
+        "E20261007-A-019-L",
+        "E20261007-A-019-M",
+        "E20261007-A-019-S",
+        "E20261007-A-019-E"
+      ]
+    },
+    {
+      "entry": 20,
+      "title": "Braveheart",
+      "ceremony_year": 1996,
+      "question_ids": [
+        "E20261007-A-020-L",
+        "E20261007-A-020-M",
+        "E20261007-A-020-S",
+        "E20261007-A-020-E"
+      ]
+    }
+  ],
+  "films": [
+    {
+      "film_id": "It Happened One Night|1934",
+      "title": "Es geschah in einer Nacht",
+      "original_title": "It Happened One Night",
+      "first_release_year": 1934,
+      "directors": [
+        "Frank Capra"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erste Kinoveröffentlichung 1934; Oscarverleihung 1935.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/It_Happened_One_Night",
+        "https://www.oscars.org/oscars/ceremonies/1935"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "The Apartment|1960",
+      "title": "Das Appartement",
+      "original_title": "The Apartment",
+      "first_release_year": 1960,
+      "directors": [
+        "Billy Wilder"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Premiere in New York am 15.06.1960; Oscarverleihung 1961.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Apartment",
+        "https://www.oscars.org/oscars/ceremonies/1961"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Lawrence of Arabia|1962",
+      "title": "Lawrence von Arabien",
+      "original_title": "Lawrence of Arabia",
+      "first_release_year": 1962,
+      "directors": [
+        "David Lean"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "release_note": "Erste Veröffentlichung 1962; Oscarverleihung 1963.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1963"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "My Fair Lady|1964",
+      "title": "My Fair Lady",
+      "original_title": "My Fair Lady",
+      "first_release_year": 1964,
+      "directors": [
+        "George Cukor"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erste Kinoveröffentlichung 1964; Oscarverleihung 1965.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1965"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "The Sound of Music|1965",
+      "title": "Meine Lieder – meine Träume",
+      "original_title": "The Sound of Music",
+      "first_release_year": 1965,
+      "directors": [
+        "Robert Wise"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "US-Veröffentlichung ab 02.03.1965; Oscarverleihung 1966.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1966"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Midnight Cowboy|1969",
+      "title": "Asphalt-Cowboy",
+      "original_title": "Midnight Cowboy",
+      "first_release_year": 1969,
+      "directors": [
+        "John Schlesinger"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erster Kinostart 1969 in New York; Oscarverleihung 1970.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Midnight_Cowboy",
+        "https://www.oscars.org/oscars/ceremonies/1970"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "The French Connection|1971",
+      "title": "Brennpunkt Brooklyn",
+      "original_title": "The French Connection",
+      "first_release_year": 1971,
+      "directors": [
+        "William Friedkin"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erste Veröffentlichung 1971; Oscarverleihung 1972.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_French_Connection_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1972"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "The Sting|1973",
+      "title": "Der Clou",
+      "original_title": "The Sting",
+      "first_release_year": 1973,
+      "directors": [
+        "George Roy Hill"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "US-Veröffentlichung ab Weihnachten 1973; Oscarverleihung 1974.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Sting",
+        "https://www.oscars.org/oscars/ceremonies/1974"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Rocky|1976",
+      "title": "Rocky",
+      "original_title": "Rocky",
+      "first_release_year": 1976,
+      "directors": [
+        "John G. Avildsen"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "New-York-Premiere am 20.11.1976; Oscarverleihung 1977.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rocky",
+        "https://www.oscars.org/oscars/ceremonies/1977"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Annie Hall|1977",
+      "title": "Der Stadtneurotiker",
+      "original_title": "Annie Hall",
+      "first_release_year": 1977,
+      "directors": [
+        "Woody Allen"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Festivalaufführung in Los Angeles am 27.03.1977; Oscarverleihung 1978.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Annie_Hall",
+        "https://www.oscars.org/oscars/ceremonies/1978"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "The Deer Hunter|1978",
+      "title": "Die durch die Hölle gehen",
+      "original_title": "The Deer Hunter",
+      "first_release_year": 1978,
+      "directors": [
+        "Michael Cimino"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erste Veröffentlichung am 8.12.1978 in Los Angeles, breiter US-Start 1979; Oscarverleihung 1979.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Deer_Hunter",
+        "https://www.oscars.org/oscars/ceremonies/1979"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Kramer vs. Kramer|1979",
+      "title": "Kramer gegen Kramer",
+      "original_title": "Kramer vs. Kramer",
+      "first_release_year": 1979,
+      "directors": [
+        "Robert Benton"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "US-Kinostart am 19.12.1979; Oscarverleihung 1980.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kramer_vs._Kramer",
+        "https://www.oscars.org/oscars/ceremonies/1980"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Ordinary People|1980",
+      "title": "Eine ganz normale Familie",
+      "original_title": "Ordinary People",
+      "first_release_year": 1980,
+      "directors": [
+        "Robert Redford"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "US-Kinostart am 19.9.1980; Oscarverleihung 1981.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ordinary_People",
+        "https://www.oscars.org/oscars/ceremonies/1981"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Chariots of Fire|1981",
+      "title": "Die Stunde des Siegers",
+      "original_title": "Chariots of Fire",
+      "first_release_year": 1981,
+      "directors": [
+        "Hugh Hudson"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "release_note": "Londoner Premiere am 30.3.1981; Oscarverleihung 1982.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Chariots_of_Fire",
+        "https://www.oscars.org/oscars/ceremonies/1982"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Gandhi|1982",
+      "title": "Gandhi",
+      "original_title": "Gandhi",
+      "first_release_year": 1982,
+      "directors": [
+        "Richard Attenborough"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Indien"
+      ],
+      "release_note": "Premiere am 30.11.1982 in New Delhi; Oscarverleihung 1983.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Gandhi_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1983"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Out of Africa|1985",
+      "title": "Jenseits von Afrika",
+      "original_title": "Out of Africa",
+      "first_release_year": 1985,
+      "directors": [
+        "Sydney Pollack"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "US-Erstveröffentlichung am 18.12.1985; Oscarverleihung 1986.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Out_of_Africa_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1986"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Platoon|1986",
+      "title": "Platoon",
+      "original_title": "Platoon",
+      "first_release_year": 1986,
+      "directors": [
+        "Oliver Stone"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "US-Kinostart am 19.12.1986; Oscarverleihung 1987.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Platoon_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1987"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "The Last Emperor|1987",
+      "title": "Der letzte Kaiser",
+      "original_title": "The Last Emperor",
+      "first_release_year": 1987,
+      "directors": [
+        "Bernardo Bertolucci"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Italien",
+        "Frankreich",
+        "China"
+      ],
+      "release_note": "Erste Festivalaufführung am 4.10.1987 in Tokio; Oscarverleihung 1988.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Last_Emperor",
+        "https://www.oscars.org/oscars/ceremonies/1988"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Rain Man|1988",
+      "title": "Rain Man",
+      "original_title": "Rain Man",
+      "first_release_year": 1988,
+      "directors": [
+        "Barry Levinson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Premiere am 12.12.1988, breiter US-Start am 16.12.1988; Oscarverleihung 1989.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rain_Man",
+        "https://www.oscars.org/oscars/ceremonies/1989"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    },
+    {
+      "film_id": "Braveheart|1995",
+      "title": "Braveheart",
+      "original_title": "Braveheart",
+      "first_release_year": 1995,
+      "directors": [
+        "Mel Gibson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Premiere am 18.5.1995 in Seattle; Oscarverleihung 1996.",
+      "director_note": "",
+      "country_note": "",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Braveheart",
+        "https://www.oscars.org/oscars/ceremonies/1996"
+      ],
+      "verification_status": "redaktionell_quellengeprueft"
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "E20261007-A-001-L",
+      "knowledge_id": "K-E20261007-A-001-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Liebeskomödie über eine entflohene Erbin und einen Reporter gewann bei der Oscarverleihung 1935 den Hauptpreis?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Der dünne Mann"
+        },
+        {
+          "id": "B",
+          "text": "Es geschah in einer Nacht"
+        },
+        {
+          "id": "C",
+          "text": "Cleopatra"
+        },
+        {
+          "id": "D",
+          "text": "Imitation of Life"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "„Es geschah in einer Nacht“ gewann 1935 den damaligen Hauptpreis Outstanding Production. Claudette Colbert spielt die Erbin, Clark Gable den Reporter, mit dem sie auf der Reise zusammenkommt. Die Zusammenarbeit beginnt aus unterschiedlichen Interessen und entwickelt sich zur Liebesgeschichte. Der Oscarabend folgt auf die Veröffentlichung 1934; der historische Kategoriename entspricht dem heutigen Best-Picture-Bereich.",
+      "film_refs": [
+        "It Happened One Night|1934"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/It_Happened_One_Night",
+        "https://www.oscars.org/oscars/ceremonies/1935"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-001-M",
+      "knowledge_id": "K-E20261007-A-001-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Paar gewann bei der Oscarverleihung 1935 beide zentralen Schauspielpreise für „Es geschah in einer Nacht“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "William Powell und Myrna Loy"
+        },
+        {
+          "id": "B",
+          "text": "Leslie Howard und Bette Davis"
+        },
+        {
+          "id": "C",
+          "text": "Clark Gable und Claudette Colbert"
+        },
+        {
+          "id": "D",
+          "text": "Charles Laughton und Elsa Lanchester"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Clark Gable und Claudette Colbert gewannen beide Schauspielpreise für Frank Capras Komödie. Ihre Figuren geraten unterwegs immer wieder aneinander und entdecken erst allmählich ihre gegenseitige Anziehung. Der doppelte Erfolg zeigt, dass die Preiswirkung nicht allein von einer einzelnen Starrolle ausging. Die Beziehung des Paars ist selbst ein tragendes Element des Films.",
+      "film_refs": [
+        "It Happened One Night|1934"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/It_Happened_One_Night",
+        "https://www.oscars.org/oscars/ceremonies/1935"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-001-S",
+      "knowledge_id": "K-E20261007-A-001-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Wer gewann 1935 für die Drehbuchadaption von „Es geschah in einer Nacht“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Ben Hecht"
+        },
+        {
+          "id": "B",
+          "text": "Charles MacArthur"
+        },
+        {
+          "id": "C",
+          "text": "Sidney Howard"
+        },
+        {
+          "id": "D",
+          "text": "Robert Riskin"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Robert Riskin erhielt den Oscar in der damaligen Kategorie Writing (Adaptation). Sein Drehbuch basiert auf Samuel Hopkins Adams’ Erzählung „Night Bus“. Die Filmfassung entwickelt aus der Reise eine Folge von Reibungen und wachsendem Vertrauen. Die Auszeichnung gilt daher der Bearbeitung einer vorhandenen literarischen Grundlage, während Regie und Schauspiel separat prämiert wurden.",
+      "film_refs": [
+        "It Happened One Night|1934"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/It_Happened_One_Night",
+        "https://www.oscars.org/oscars/ceremonies/1935"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-001-E",
+      "knowledge_id": "K-E20261007-A-001-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Preisgruppe machte „Es geschah in einer Nacht“ zum ersten sogenannten Big-Five-Oscarfilm?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Film, Regie, Hauptdarsteller, Hauptdarstellerin und Drehbuch"
+        },
+        {
+          "id": "B",
+          "text": "Film, Kamera, Schnitt, Ton und Filmmusik"
+        },
+        {
+          "id": "C",
+          "text": "Regie, Kamera, Kostüm, Ausstattung und Schnitt"
+        },
+        {
+          "id": "D",
+          "text": "Film, Regie, beide Nebenrollen und Song"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "„Es geschah in einer Nacht“ gewann die fünf zentralen Bereiche Film, Regie, männliche und weibliche Hauptrolle sowie Drehbuch. Die damalige Drehbuchkategorie hieß Adaptation. Der Erfolg vereint deshalb Gesamtwerk, Inszenierung, beide Partnerrollen und die erzählerische Konstruktion. Diese Kombination wird als Big Five bezeichnet und unterscheidet sich von einer beliebigen Summe von fünf technischen Preisen.",
+      "film_refs": [
+        "It Happened One Night|1934"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/It_Happened_One_Night",
+        "https://www.oscars.org/oscars/ceremonies/1935",
+        "https://www.sonypictures.ca/movies/it-happened-one-night",
+        "https://awardsdatabase.oscars.org/Help/Statistics?file=Gen-FilmsWinAll5Awards.pdf"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-002-L",
+      "knowledge_id": "K-E20261007-A-002-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Billy-Wilder-Film über einen Angestellten, der seinen Vorgesetzten eine Wohnung überlässt, gewann 1961 den Film-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Alamo"
+        },
+        {
+          "id": "B",
+          "text": "Elmer Gantry"
+        },
+        {
+          "id": "C",
+          "text": "Das Appartement"
+        },
+        {
+          "id": "D",
+          "text": "Söhne und Liebhaber"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "„Das Appartement“ gewann 1961 den Oscar für den besten Film. Jack Lemmon spielt einen Angestellten, der durch die Nutzung seiner Wohnung beruflich aufsteigen möchte. Shirley MacLaine verkörpert die Fahrstuhlführerin, in die er sich verliebt. Die romantische Komödie verbindet den Wunsch nach Anerkennung mit einer schmerzhaften Abhängigkeit von den privaten Ansprüchen seiner Vorgesetzten.",
+      "film_refs": [
+        "The Apartment|1960"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Apartment",
+        "https://www.oscars.org/oscars/ceremonies/1961"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-002-M",
+      "knowledge_id": "K-E20261007-A-002-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Autorenduo gewann 1961 für „Das Appartement“ in der Kategorie für direkt fürs Kino geschriebenes Drehbuch?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Billy Wilder und Charles Brackett"
+        },
+        {
+          "id": "B",
+          "text": "Ben Hecht und Charles MacArthur"
+        },
+        {
+          "id": "C",
+          "text": "Julius und Philip Epstein"
+        },
+        {
+          "id": "D",
+          "text": "Billy Wilder und I. A. L. Diamond"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Billy Wilder und I. A. L. Diamond gewannen für „Das Appartement“ den Preis für Story und Drehbuch, das direkt für die Leinwand geschrieben wurde. Die heutige Kurzbezeichnung wäre Originaldrehbuch. Das Duo verknüpft Geschäftsinteressen, Heimlichkeit und Liebesgeschichte in denselben Räumen. Wilder erhielt außerdem Preise für Regie und als Produzent des ausgezeichneten Films.",
+      "film_refs": [
+        "The Apartment|1960"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Apartment",
+        "https://www.oscars.org/oscars/ceremonies/1961"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-002-S",
+      "knowledge_id": "K-E20261007-A-002-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welche ausgezeichnete Arbeit verantwortete Daniel Mandell bei „Das Appartement“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Den Filmschnitt"
+        },
+        {
+          "id": "B",
+          "text": "Die Schwarzweißkamera"
+        },
+        {
+          "id": "C",
+          "text": "Die Filmmusik"
+        },
+        {
+          "id": "D",
+          "text": "Das Kostümbild"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Daniel Mandell gewann 1961 den Schnitt-Oscar für „Das Appartement“. Die Montage ordnet Büroalltag, heimliche Treffen und die Entwicklung zwischen Baxter (Jack Lemmon) und Fran (Shirley MacLaine). Die Auszeichnung betrifft damit das zeitliche und erzählerische Zusammenspiel der Szenen. Die Schwarzweißkamera war ebenfalls nominiert, gewann in ihrer eigenen Kategorie aber keinen Oscar.",
+      "film_refs": [
+        "The Apartment|1960"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Apartment",
+        "https://www.oscars.org/oscars/ceremonies/1961"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-002-E",
+      "knowledge_id": "K-E20261007-A-002-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Unterscheidung trifft auf den Oscarerfolg von „Das Appartement“ 1961 zu?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Alle drei nominierten Schauspielrollen gewannen"
+        },
+        {
+          "id": "B",
+          "text": "Fünf Oscars, aber keine der drei nominierten Schauspielrollen gewann"
+        },
+        {
+          "id": "C",
+          "text": "Nur Schauspielpreise, keine Regie- oder Drehbuchpreise"
+        },
+        {
+          "id": "D",
+          "text": "Ein Film-Oscar ohne weitere Nominierungen"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "„Das Appartement“ gewann fünf von zehn Nominierungen. Jack Lemmon, Shirley MacLaine und Jack Kruschen waren für Schauspielpreise nominiert, gingen jedoch leer aus. Die Siege lagen bei Film, Regie, Drehbuch, Schwarzweißausstattung und Schnitt. Das Ergebnis zeigt, warum ein großer Gesamterfolg nicht automatisch einen Preis für jede überzeugende Darstellung bedeutet.",
+      "film_refs": [
+        "The Apartment|1960"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Apartment",
+        "https://www.oscars.org/oscars/ceremonies/1961"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-003-L",
+      "knowledge_id": "K-E20261007-A-003-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Wüstenepos mit Peter O’Toole gewann bei der Oscarverleihung 1963 den Preis für den besten Film?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Meuterei auf der Bounty"
+        },
+        {
+          "id": "B",
+          "text": "Der längste Tag"
+        },
+        {
+          "id": "C",
+          "text": "Wer die Nachtigall stört"
+        },
+        {
+          "id": "D",
+          "text": "Lawrence von Arabien"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "„Lawrence von Arabien“ gewann 1963 den Film-Oscar. David Lean inszenierte den britischen Offizier T. E. Lawrence zwischen militärischem Aufbruch, Selbstbild und imperialen Interessen. Peter O’Toole trägt die Hauptrolle. Die weitläufigen Landschaften gehören ebenso zur Wirkung wie die Unsicherheit darüber, wie Lawrence seine eigene Bedeutung und die Folgen seiner Entscheidungen versteht.",
+      "film_refs": [
+        "Lawrence of Arabia|1962"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1963"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-003-M",
+      "knowledge_id": "K-E20261007-A-003-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Oscarleistung wurde Maurice Jarre 1963 für „Lawrence von Arabien“ ausgezeichnet?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Seine weitgehend originale Filmmusik"
+        },
+        {
+          "id": "B",
+          "text": "Sein Originaldrehbuch"
+        },
+        {
+          "id": "C",
+          "text": "Seine Regie"
+        },
+        {
+          "id": "D",
+          "text": "Sein Filmschnitt"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Maurice Jarre gewann für die weitgehend originale Filmmusik von „Lawrence von Arabien“. Seine Musik begleitet die weiten Landschaften und die wechselnden Spannungen der Reise. Der historische Kategoriename unterschied solche Kompositionen von der Bearbeitung vorhandener Musik. Die Auszeichnung gehört somit zu einem eigens komponierten Score, nicht zu einem einzelnen gesungenen Lied oder zur Regie des Epos.",
+      "film_refs": [
+        "Lawrence of Arabia|1962"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1963"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-003-S",
+      "knowledge_id": "K-E20261007-A-003-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Wer erhielt 1963 den Schnitt-Oscar für „Lawrence von Arabien“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Dede Allen"
+        },
+        {
+          "id": "B",
+          "text": "Anne V. Coates"
+        },
+        {
+          "id": "C",
+          "text": "Margaret Booth"
+        },
+        {
+          "id": "D",
+          "text": "Verna Fields"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Anne V. Coates gewann den Schnitt-Oscar für „Lawrence von Arabien“. Ihr Gewerk verbindet die großen Reiseabschnitte mit intimen Momenten und plötzlichen Wechseln in der Wahrnehmung der Hauptfigur. Montage bedeutet dabei mehr als Kürzung: Sie bestimmt, wie lange eine Landschaft, eine Entscheidung oder eine Begegnung wirkt. Der Film gewann insgesamt sieben Oscars aus zehn Nominierungen.",
+      "film_refs": [
+        "Lawrence of Arabia|1962"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1963"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-003-E",
+      "knowledge_id": "K-E20261007-A-003-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Aussage über Peter O’Toole und Omar Sharif beim Oscarerfolg von „Lawrence von Arabien“ 1963 stimmt?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Beide gewannen ihre Schauspielpreise"
+        },
+        {
+          "id": "B",
+          "text": "Nur Sharif gewann, O’Toole war nicht nominiert"
+        },
+        {
+          "id": "C",
+          "text": "Beide waren nominiert, keiner gewann seinen Schauspielpreis"
+        },
+        {
+          "id": "D",
+          "text": "O’Toole gewann zusätzlich den Regiepreis"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Peter O’Toole war als Hauptdarsteller und Omar Sharif als Nebendarsteller nominiert. Beide gewannen ihre Kategorien nicht, obwohl „Lawrence von Arabien“ sieben Oscars erhielt. Die Siege würdigten unter anderem Regie, Kamera, Schnitt und Musik. Das Ergebnis trennt die Anerkennung des ganzen Epos von der einzelnen Preisentscheidung über seine beiden besonders bekannten Darsteller.",
+      "film_refs": [
+        "Lawrence of Arabia|1962"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1963"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-004-L",
+      "knowledge_id": "K-E20261007-A-004-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Musical über Eliza Doolittles Sprachunterricht gewann den Film-Oscar bei der Verleihung 1965?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "My Fair Lady"
+        },
+        {
+          "id": "B",
+          "text": "Mary Poppins"
+        },
+        {
+          "id": "C",
+          "text": "Alexis Sorbas"
+        },
+        {
+          "id": "D",
+          "text": "Becket"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "„My Fair Lady“ gewann 1965 den Film-Oscar. Audrey Hepburn spielt Eliza Doolittle, deren Sprache Professor Henry Higgins (Rex Harrison) verändern möchte. Die Geschichte untersucht soziale Zuordnung durch Aussprache und Auftreten. Das erfolgreiche Bühnenmusical wird in eine aufwendig gestaltete Filmwelt übertragen, deren Bilder und Musik den gesellschaftlichen Rollenwechsel der Hauptfigur begleiten.",
+      "film_refs": [
+        "My Fair Lady|1964"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1965"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-004-M",
+      "knowledge_id": "K-E20261007-A-004-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Darsteller gewann 1965 für Professor Henry Higgins in „My Fair Lady“ den Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Stanley Holloway"
+        },
+        {
+          "id": "B",
+          "text": "Rex Harrison"
+        },
+        {
+          "id": "C",
+          "text": "Jeremy Brett"
+        },
+        {
+          "id": "D",
+          "text": "Wilfrid Hyde-White"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Rex Harrison gewann den Hauptdarsteller-Oscar als Henry Higgins. Er hatte die Figur bereits auf der Bühne gespielt und übernahm sie für George Cukors Verfilmung. Die Rolle verbindet sprachwissenschaftliche Autorität mit einer begrenzten Fähigkeit, Elizas Eigenständigkeit wahrzunehmen. Der Sieg galt Harrisons Darstellung, während Audrey Hepburn für diesen Film nicht für den Hauptdarstellerinnen-Oscar nominiert war.",
+      "film_refs": [
+        "My Fair Lady|1964"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1965"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-004-S",
+      "knowledge_id": "K-E20261007-A-004-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Wer gewann 1965 für die farbigen Kostüme von „My Fair Lady“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Edith Head"
+        },
+        {
+          "id": "B",
+          "text": "Orry-Kelly"
+        },
+        {
+          "id": "C",
+          "text": "Cecil Beaton"
+        },
+        {
+          "id": "D",
+          "text": "Dorothy Jeakins"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Cecil Beaton gewann für die Kostüme von „My Fair Lady“ in der damaligen Farbkategorie. Kleidung hilft der Geschichte, Elizas veränderte gesellschaftliche Rolle sichtbar zu machen. Beaton war zudem am ausgezeichneten Ausstattungsteam beteiligt. Der Preis betrifft somit eine konkrete visuelle Gestaltung und nicht allein den Umstand, dass der Film ein erfolgreiches Musical oder eine Literaturadaption ist.",
+      "film_refs": [
+        "My Fair Lady|1964"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1965"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-004-E",
+      "knowledge_id": "K-E20261007-A-004-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Produzent wurde für den Best-Picture-Sieg von „My Fair Lady“ 1965 ausgezeichnet?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Sam Spiegel"
+        },
+        {
+          "id": "B",
+          "text": "Arthur Freed"
+        },
+        {
+          "id": "C",
+          "text": "Hal B. Wallis"
+        },
+        {
+          "id": "D",
+          "text": "Jack L. Warner"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Jack L. Warner erhielt als Produzent den Film-Oscar für „My Fair Lady“. Der Hauptpreis wurde damit nicht an die Darstellerin der Eliza oder an den Autor der Bühnenvorlage verliehen. Der Film gewann außerdem Preise für Regie, Hauptdarsteller und mehrere gestalterische Gewerke. Die genaue Empfängerzuordnung macht sichtbar, wie sich der Gesamtfilmpreis von Einzelleistungs-Oscars unterscheidet.",
+      "film_refs": [
+        "My Fair Lady|1964"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1965"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-005-L",
+      "knowledge_id": "K-E20261007-A-005-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Film über Maria und die Familie von Trapp gewann den Film-Oscar bei der Verleihung 1966?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Doktor Schiwago"
+        },
+        {
+          "id": "B",
+          "text": "Meine Lieder – meine Träume"
+        },
+        {
+          "id": "C",
+          "text": "Darling"
+        },
+        {
+          "id": "D",
+          "text": "Das Narrenschiff"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "„The Sound of Music“, deutsch „Meine Lieder – meine Träume“, gewann 1966 den Film-Oscar. Julie Andrews spielt Maria, die zunächst als Erzieherin zu den Kindern des verwitweten von Trapp (Christopher Plummer) kommt. Musik verbindet das Zusammenwachsen der Familie mit einer späteren politischen Bedrohung. Der Film adaptiert das Bühnenmusical und erschien schon 1965.",
+      "film_refs": [
+        "The Sound of Music|1965"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1966"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-005-M",
+      "knowledge_id": "K-E20261007-A-005-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Für welche beiden Funktionen gewann Robert Wise 1966 Oscars für „Meine Lieder – meine Träume“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Hauptdarsteller und Regie"
+        },
+        {
+          "id": "B",
+          "text": "Kamera und Schnitt"
+        },
+        {
+          "id": "C",
+          "text": "Regie und Produktion des besten Films"
+        },
+        {
+          "id": "D",
+          "text": "Drehbuch und Song"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Robert Wise gewann als Regisseur und als Produzent des besten Films. Die beiden Preise würdigen unterschiedliche Verantwortungen an derselben Produktion. Seine Inszenierung verbindet das Familienmusical mit der Bewegung durch Salzburg und der politischen Lage am Ende der 1930er Jahre. Julie Andrews war als Hauptdarstellerin nominiert, erhielt für diesen Film aber keinen Schauspiel-Oscar.",
+      "film_refs": [
+        "The Sound of Music|1965"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1966"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-005-S",
+      "knowledge_id": "K-E20261007-A-005-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Bearbeitung gewann Irwin Kostal 1966 für „Meine Lieder – meine Träume“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Ein neu erfundenes Originaldrehbuch"
+        },
+        {
+          "id": "B",
+          "text": "Die Schwarzweißkamera"
+        },
+        {
+          "id": "C",
+          "text": "Die Choreografie als eigene Oscarkategorie"
+        },
+        {
+          "id": "D",
+          "text": "Die musikalische Adaption des vorhandenen Musicalstoffs"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Irwin Kostal gewann in der damaligen Kategorie für musikalische Adaption oder Bearbeitung. Die Musik von Rodgers und Hammerstein bestand bereits als Bühnenstoff und musste für die Filmfassung gestaltet werden. Dieser Preis ist daher von einem Originalscore oder einem einzelnen Originalsong zu unterscheiden. Er würdigt die musikalische Umsetzung vorhandenen Materials für den neuen Filmrahmen.",
+      "film_refs": [
+        "The Sound of Music|1965"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1966"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-005-E",
+      "knowledge_id": "K-E20261007-A-005-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche beiden musikalischen Oscarkategorien unterscheiden „Lawrence von Arabien“ und „Meine Lieder – meine Träume“ in ihren jeweiligen Siegjahren?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Originale Filmmusik bei Lawrence, musikalische Adaption bei Sound of Music"
+        },
+        {
+          "id": "B",
+          "text": "Originalsong bei beiden Filmen"
+        },
+        {
+          "id": "C",
+          "text": "Musikalische Adaption bei Lawrence, Originalsong bei Sound of Music"
+        },
+        {
+          "id": "D",
+          "text": "Tonaufnahme bei Lawrence, ausschließlich Kostüm bei Sound of Music"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Maurice Jarre gewann für „Lawrence von Arabien“ in der Kategorie für weitgehend originale Filmmusik. Irwin Kostal wurde für „The Sound of Music“ für musikalische Adaption ausgezeichnet. Das Wüstenepos verwendet einen eigens komponierten Score, das Musical überträgt einen vorhandenen Bühnenstoff. Beide Musikpreise betreffen damit unterschiedliche schöpferische Aufgaben, obwohl sie im allgemeinen Gespräch oft gleich benannt werden.",
+      "film_refs": [
+        "The Sound of Music|1965"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1966"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-006-L",
+      "knowledge_id": "K-E20261007-A-006-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welches New-York-Drama über zwei Außenseiter gewann den Film-Oscar bei der Verleihung 1970?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Butch Cassidy und Sundance Kid"
+        },
+        {
+          "id": "B",
+          "text": "Hello, Dolly!"
+        },
+        {
+          "id": "C",
+          "text": "Asphalt-Cowboy"
+        },
+        {
+          "id": "D",
+          "text": "Z"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "„Midnight Cowboy“, deutsch „Asphalt-Cowboy“, gewann 1970 den Film-Oscar. Joe Buck (Jon Voight) und Ratso Rizzo (Dustin Hoffman) begegnen sich in New York und entwickeln eine unwahrscheinliche Freundschaft. Das Versprechen eines neuen Lebens trifft auf Armut, Krankheit und Enttäuschung. Der Titel führt damit nicht zu einem klassischen Western, sondern zu einem Großstadtdrama über gegenseitige Abhängigkeit.",
+      "film_refs": [
+        "Midnight Cowboy|1969"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Midnight_Cowboy",
+        "https://www.oscars.org/oscars/ceremonies/1970"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-006-M",
+      "knowledge_id": "K-E20261007-A-006-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Wer gewann 1970 den Regie-Oscar für „Asphalt-Cowboy“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Arthur Penn"
+        },
+        {
+          "id": "B",
+          "text": "Sidney Lumet"
+        },
+        {
+          "id": "C",
+          "text": "Bob Fosse"
+        },
+        {
+          "id": "D",
+          "text": "John Schlesinger"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "John Schlesinger erhielt den Regie-Oscar für „Midnight Cowboy“. Der Film konzentriert sich auf die Beziehung zweier Männer, deren Vorstellungen von Erfolg sich in New York kaum erfüllen. Schlesinger verbindet beobachteten Alltag mit Erinnerungsbildern und der Erfahrung von Isolation. Die Auszeichnung ergänzt den Film-Oscar und das ausgezeichnete adaptierte Drehbuch, während beide Hauptdarsteller nominiert blieben.",
+      "film_refs": [
+        "Midnight Cowboy|1969"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Midnight_Cowboy",
+        "https://www.oscars.org/oscars/ceremonies/1970"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-006-S",
+      "knowledge_id": "K-E20261007-A-006-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Autor gewann 1970 für das adaptierte Drehbuch von „Asphalt-Cowboy“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Waldo Salt"
+        },
+        {
+          "id": "B",
+          "text": "Ernest Tidyman"
+        },
+        {
+          "id": "C",
+          "text": "Robert Bolt"
+        },
+        {
+          "id": "D",
+          "text": "Dalton Trumbo"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Waldo Salt adaptierte James Leo Herlihys Roman „Midnight Cowboy“. Der Oscar 1970 würdigt die Übertragung des literarischen Stoffs in eine Geschichte, die von Blicken, Gesprächen und unzuverlässigen Erwartungen lebt. Der Film gewann insgesamt drei Oscars: Film, Regie und Drehbuch. Die Auszeichnung für Schreiben ist dabei von der dargestellten Freundschaft und den Leistungen der Schauspieler zu unterscheiden.",
+      "film_refs": [
+        "Midnight Cowboy|1969"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Midnight_Cowboy",
+        "https://www.oscars.org/oscars/ceremonies/1970"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-006-E",
+      "knowledge_id": "K-E20261007-A-006-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Wie wurden Dustin Hoffman und Jon Voight für „Asphalt-Cowboy“ bei den Oscars 1970 eingeordnet?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Hoffman als Nebendarsteller, Voight als Regisseur"
+        },
+        {
+          "id": "B",
+          "text": "Beide als Hauptdarsteller nominiert, beide ohne Sieg"
+        },
+        {
+          "id": "C",
+          "text": "Beide als Nebendarsteller ausgezeichnet"
+        },
+        {
+          "id": "D",
+          "text": "Voight als Hauptdarsteller ausgezeichnet, Hoffman ohne Nominierung"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Dustin Hoffman und Jon Voight waren beide in der Hauptdarstellerkategorie nominiert. Der Preis ging an John Wayne für „True Grit“. Der gemeinsame Film gewann dennoch den Hauptpreis. Beide Figuren tragen die Erzählung und ihre Beziehung; ihre Konkurrenz in derselben Kategorie zeigt, dass die Preisstruktur nicht zwingend eine Haupt- und eine Nebenrolle aus jedem Paar machen muss.",
+      "film_refs": [
+        "Midnight Cowboy|1969"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Midnight_Cowboy",
+        "https://www.oscars.org/oscars/ceremonies/1970"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-007-L",
+      "knowledge_id": "K-E20261007-A-007-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Schauspieler gewann 1972 für Jimmy „Popeye“ Doyle in „Brennpunkt Brooklyn“ den Hauptdarsteller-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Roy Scheider"
+        },
+        {
+          "id": "B",
+          "text": "Fernando Rey"
+        },
+        {
+          "id": "C",
+          "text": "Steve McQueen"
+        },
+        {
+          "id": "D",
+          "text": "Gene Hackman"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Gene Hackman gewann als Jimmy Doyle in „The French Connection“ den Hauptdarsteller-Oscar. Sein Polizist verfolgt Drogenschmuggler mit großer Energie und rücksichtslosen Methoden. Roy Scheider spielt den Partner Buddy Russo. William Friedkins Film beobachtet damit nicht nur einen erfolgreichen Zugriff, sondern auch die Grenzen und Folgen eines Ermittlers, der seinen Verdacht unbedingt durchsetzen will.",
+      "film_refs": [
+        "The French Connection|1971"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_French_Connection_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1972"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-007-M",
+      "knowledge_id": "K-E20261007-A-007-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welche beiden großen Oscars gewann „Brennpunkt Brooklyn“ 1972 zusätzlich zu Gene Hackmans Schauspielpreis?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Bester Film und Regie"
+        },
+        {
+          "id": "B",
+          "text": "Bester Film und Kamera"
+        },
+        {
+          "id": "C",
+          "text": "Regie und Originalfilmmusik"
+        },
+        {
+          "id": "D",
+          "text": "Bester Film und Ton"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "„The French Connection“ gewann 1972 den Film-Oscar und den Regiepreis für William Friedkin. Hinzu kamen Hackmans Hauptdarstellerpreis, das adaptierte Drehbuch und der Schnitt. Die Geschichte folgt einem Drogenhandel zwischen Frankreich und den USA. Ihr Preisprofil verbindet das Gesamtwerk mit der harten Inszenierung, der zentralen Figur und der präzisen Organisation der Verfolgung.",
+      "film_refs": [
+        "The French Connection|1971"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_French_Connection_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1972"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-007-S",
+      "knowledge_id": "K-E20261007-A-007-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Wessen Filmschnitt wurde 1972 für „Brennpunkt Brooklyn“ ausgezeichnet?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "William Reynolds"
+        },
+        {
+          "id": "B",
+          "text": "Jerry Greenberg"
+        },
+        {
+          "id": "C",
+          "text": "Daniel Mandell"
+        },
+        {
+          "id": "D",
+          "text": "Walter Murch"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Jerry Greenberg erhielt den Schnitt-Oscar für „The French Connection“. Die Montage organisiert Beobachtungen, Ortswechsel und die berühmte Verfolgung entlang einer Hochbahn. Sie macht den Druck der Ermittlung spürbar, ohne jede Information gleichzeitig zu zeigen. Der Preis würdigt diesen Aufbau von Bewegung und Spannung als eigenständiges Gewerk neben Kamera, Darstellung und Regie.",
+      "film_refs": [
+        "The French Connection|1971"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_French_Connection_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1972"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-007-E",
+      "knowledge_id": "K-E20261007-A-007-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Art von Vorlage bearbeitete Ernest Tidyman für das 1972 ausgezeichnete Drehbuch von „Brennpunkt Brooklyn“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Ein unveröffentlichtes Originaldrehbuch ohne Buchvorlage"
+        },
+        {
+          "id": "B",
+          "text": "Einen historischen Roman über die Prohibition"
+        },
+        {
+          "id": "C",
+          "text": "Ein bereits veröffentlichtes Sachbuch über einen Drogenfall"
+        },
+        {
+          "id": "D",
+          "text": "Eine bereits ausgestrahlte Fernsehserie"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Ernest Tidyman gewann in der Kategorie für ein Drehbuch nach Material aus einem anderen Medium. Die Grundlage war Robin Moores Sachbuch über einen realen Drogenfall. Der Film formt daraus eine eigenständige Polizeigeschichte mit Hackmans Doyle und Scheiders Russo. Die Auszeichnung betrifft die filmische Bearbeitung, nicht eine Behauptung, jede Szene bilde den historischen Ablauf unverändert ab.",
+      "film_refs": [
+        "The French Connection|1971"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_French_Connection_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1972"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-008-L",
+      "knowledge_id": "K-E20261007-A-008-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Trickbetrügerfilm mit Paul Newman und Robert Redford gewann den Film-Oscar bei der Verleihung 1974?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Der Clou"
+        },
+        {
+          "id": "B",
+          "text": "American Graffiti"
+        },
+        {
+          "id": "C",
+          "text": "Der Exorzist"
+        },
+        {
+          "id": "D",
+          "text": "Mann, bist du Klasse!"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "„The Sting“, deutsch „Der Clou“, gewann 1974 den Film-Oscar. Paul Newman und Robert Redford spielen Betrüger, die einen mächtigen Gegner in einen sorgfältig vorbereiteten Schwindel locken. George Roy Hill hatte beide bereits gemeinsam inszeniert. Der Film macht nicht nur den Gegner, sondern auch sein Publikum zu Beobachtern einer Täuschung, deren Ablauf schrittweise verständlich wird.",
+      "film_refs": [
+        "The Sting|1973"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Sting",
+        "https://www.oscars.org/oscars/ceremonies/1974"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-008-M",
+      "knowledge_id": "K-E20261007-A-008-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welche ausgezeichnete musikalische Aufgabe hatte Marvin Hamlisch bei „Der Clou“ 1974?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Eine vollständig neue Originalfilmmusik"
+        },
+        {
+          "id": "B",
+          "text": "Die Adaption vorhandener Ragtime-Musik"
+        },
+        {
+          "id": "C",
+          "text": "Ein neu komponierter Originalsong"
+        },
+        {
+          "id": "D",
+          "text": "Die Wiederherstellung einer historischen Opernpartitur"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Marvin Hamlisch gewann für die musikalische Adaption von „The Sting“. Besonders Scott Joplins Ragtime-Stücke prägen den Film und wurden durch ihn erneut populär. Der Oscar betrifft die Gestaltung vorhandener Musik für eine neue Erzählung. Hamlisch darf deshalb nicht als ursprünglicher Komponist von Joplins „The Entertainer“ bezeichnet werden, auch wenn seine Bearbeitung eng mit dem Film verbunden ist.",
+      "film_refs": [
+        "The Sting|1973"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Sting",
+        "https://www.oscars.org/oscars/ceremonies/1974"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-008-S",
+      "knowledge_id": "K-E20261007-A-008-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Wer gewann 1974 für das Originaldrehbuch von „Der Clou“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "William Goldman"
+        },
+        {
+          "id": "B",
+          "text": "Waldo Salt"
+        },
+        {
+          "id": "C",
+          "text": "David S. Ward"
+        },
+        {
+          "id": "D",
+          "text": "Robert Towne"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "David S. Ward erhielt den Oscar für das Originaldrehbuch von „The Sting“. Die Geschichte nutzt reale Betrugspraktiken als Anregung, ordnet aber ihren großen Coup als eigenständigen Filmstoff. Alte Zwischentitel gliedern die Schritte des Plans. Die Schreibarbeit muss dabei genug Informationen für Spannung liefern und zugleich entscheidende Täuschungen bis zum geeigneten Moment verbergen.",
+      "film_refs": [
+        "The Sting|1973"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Sting",
+        "https://www.oscars.org/oscars/ceremonies/1974"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-008-E",
+      "knowledge_id": "K-E20261007-A-008-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Produzentin gehörte 1974 neben Tony Bill und Michael Phillips zum ausgezeichneten „Der Clou“-Team?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Kathleen Kennedy"
+        },
+        {
+          "id": "B",
+          "text": "Lili Fini Zanuck"
+        },
+        {
+          "id": "C",
+          "text": "Marcia Lucas"
+        },
+        {
+          "id": "D",
+          "text": "Julia Phillips"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Julia Phillips wurde zusammen mit Tony Bill und Michael Phillips für den besten Film ausgezeichnet. Der Oscar gehört damit zu einem dreiköpfigen Produktionsteam und nicht allein zum Regisseur George Roy Hill. „The Sting“ gewann sieben Oscars in verschiedenen Bereichen. Die Zuordnung des Hauptpreises macht sichtbar, wie eine Produktion mehrere Personen mit gemeinsamer Verantwortung für dasselbe Werk auszeichnen kann.",
+      "film_refs": [
+        "The Sting|1973"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Sting",
+        "https://www.oscars.org/oscars/ceremonies/1974"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-009-L",
+      "knowledge_id": "K-E20261007-A-009-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Boxerfilm über eine unerwartete Titelkampfchance gewann 1977 den Film-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Network"
+        },
+        {
+          "id": "B",
+          "text": "Rocky"
+        },
+        {
+          "id": "C",
+          "text": "Taxi Driver"
+        },
+        {
+          "id": "D",
+          "text": "Die Unbestechlichen"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "„Rocky“ gewann 1977 den Film-Oscar. Sylvester Stallone spielt einen kaum erfolgreichen Boxer, der gegen den Weltmeister Apollo Creed (Carl Weathers) antreten darf. Die Geschichte macht den persönlichen Wert des Durchhaltens wichtiger als eine einfache Siegesbilanz. Der Film brachte Stallone große Bekanntheit und startete eine Reihe, blieb bei den Oscars aber eine konkret ausgezeichnete Einzelproduktion.",
+      "film_refs": [
+        "Rocky|1976"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rocky",
+        "https://www.oscars.org/oscars/ceremonies/1977"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-009-M",
+      "knowledge_id": "K-E20261007-A-009-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Wer gewann 1977 den Regie-Oscar für den ersten „Rocky“-Film?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Sylvester Stallone"
+        },
+        {
+          "id": "B",
+          "text": "Martin Scorsese"
+        },
+        {
+          "id": "C",
+          "text": "John G. Avildsen"
+        },
+        {
+          "id": "D",
+          "text": "Sidney Lumet"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "John G. Avildsen inszenierte den ersten „Rocky“-Film und gewann den Regie-Oscar. Sylvester Stallone schrieb das Drehbuch und spielte die Hauptfigur. Diese Arbeitsverteilung wird leicht übersehen, weil Stallone mit der gesamten Reihe besonders eng verbunden ist. Der Preis würdigt Avildsens Gestaltung des Trainings, der Beziehung zu Adrian (Talia Shire) und des entscheidenden Kampfs.",
+      "film_refs": [
+        "Rocky|1976"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rocky",
+        "https://www.oscars.org/oscars/ceremonies/1977"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-009-S",
+      "knowledge_id": "K-E20261007-A-009-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Team gewann 1977 für den Filmschnitt von „Rocky“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Robert L. Wolfe und Robert L. Hughes"
+        },
+        {
+          "id": "B",
+          "text": "Ralph Rosenblum und Wendy Greene Bricmont"
+        },
+        {
+          "id": "C",
+          "text": "Thelma Schoonmaker und Marcia Lucas"
+        },
+        {
+          "id": "D",
+          "text": "Richard Halsey und Scott Conrad"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Richard Halsey und Scott Conrad gewannen den Schnitt-Oscar für „Rocky“. Die Montage verbindet den langsamen Aufbau der persönlichen Beziehungen mit Training und Kampf. Gerade der Wechsel zwischen Alltag, Vorbereitung und sportlichem Einsatz bestimmt die Erwartung an den Schluss. Der Preis ergänzt Film und Regie; für die Hauptdarstellung oder Stallones Drehbuch gab es dagegen keinen Sieg.",
+      "film_refs": [
+        "Rocky|1976"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rocky",
+        "https://www.oscars.org/oscars/ceremonies/1977"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-009-E",
+      "knowledge_id": "K-E20261007-A-009-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Für welche zwei persönlichen Leistungen war Sylvester Stallone 1977 mit „Rocky“ nominiert, ohne zu gewinnen?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Hauptdarstellung und Originaldrehbuch"
+        },
+        {
+          "id": "B",
+          "text": "Regie und Hauptdarstellung"
+        },
+        {
+          "id": "C",
+          "text": "Filmschnitt und Filmmusik"
+        },
+        {
+          "id": "D",
+          "text": "Originalsong und Kamera"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Sylvester Stallone war als Hauptdarsteller und für das Originaldrehbuch nominiert. Beide Preise gewann er nicht, obwohl „Rocky“ den Film-Oscar erhielt. Der Gesamtfilmpreis ging an die Produzenten Irwin Winkler und Robert Chartoff. Die Konstellation trennt deshalb den Durchbruch eines Stars und Autors von den konkreten Empfängern der drei gewonnenen Oscars des Films.",
+      "film_refs": [
+        "Rocky|1976"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rocky",
+        "https://www.oscars.org/oscars/ceremonies/1977"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-010-L",
+      "knowledge_id": "K-E20261007-A-010-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Beziehungskomödie gewann 1978 den Film-Oscar, während „Star Wars“ mitnominiert war?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Der Untermieter"
+        },
+        {
+          "id": "B",
+          "text": "Julia"
+        },
+        {
+          "id": "C",
+          "text": "Der Stadtneurotiker"
+        },
+        {
+          "id": "D",
+          "text": "Am Wendepunkt"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "„Annie Hall“, deutsch „Der Stadtneurotiker“, gewann 1978 den Film-Oscar. Alvy Singer (Woody Allen) versucht rückblickend zu verstehen, weshalb seine Beziehung zu Annie (Diane Keaton) scheiterte. Der Film nutzt Zeitsprünge, Fantasie und direkte Ansprache für diese Untersuchung. Sein Sieg gehörte zu derselben Verleihung, bei der „Star Wars“ mehrere technische Kategorien gewann.",
+      "film_refs": [
+        "Annie Hall|1977"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Annie_Hall",
+        "https://www.oscars.org/oscars/ceremonies/1978"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-010-M",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-070-L-1",
+      "variant_of": "SCHAUSPIELER-202610-P01-070-L-1",
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Schauspielerin gewann 1978 für „Der Stadtneurotiker“ den Hauptdarstellerinnen-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Jane Fonda"
+        },
+        {
+          "id": "B",
+          "text": "Anne Bancroft"
+        },
+        {
+          "id": "C",
+          "text": "Shirley MacLaine"
+        },
+        {
+          "id": "D",
+          "text": "Diane Keaton"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Diane Keaton gewann für Annie Hall den Hauptdarstellerinnen-Oscar. Ihre Figur entwickelt sich innerhalb der Beziehung und sucht eine eigene berufliche wie persönliche Richtung. Woody Allens Alvy erzählt vieles aus seiner Erinnerung, doch Keatons Darstellung lässt Annie darüber hinaus als eigenständige Person erscheinen. Der Schauspielpreis ergänzt Film, Regie und Drehbuch als die vier Siege des Werks.",
+      "film_refs": [
+        "Annie Hall|1977"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Annie_Hall",
+        "https://www.oscars.org/oscars/ceremonies/1978"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-010-S",
+      "knowledge_id": "K-E20261007-A-010-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Autorenteam gewann 1978 für das Originaldrehbuch von „Der Stadtneurotiker“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Woody Allen und Marshall Brickman"
+        },
+        {
+          "id": "B",
+          "text": "Woody Allen und Charles H. Joffe"
+        },
+        {
+          "id": "C",
+          "text": "Neil Simon und I. A. L. Diamond"
+        },
+        {
+          "id": "D",
+          "text": "Billy Wilder und Marshall Brickman"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Woody Allen und Marshall Brickman gewannen für das Originaldrehbuch von „Annie Hall“. Die Geschichte ordnet eine Beziehung durch Erinnerungen und wechselnde Erzählformen, statt nur chronologisch einen gemeinsamen Alltag zu verfolgen. Der Drehbuchpreis betrifft diese Konstruktion und die Dialoge. Charles H. Joffe erhielt dagegen als Produzent den Film-Oscar und war nicht Allens Mitautor.",
+      "film_refs": [
+        "Annie Hall|1977"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Annie_Hall",
+        "https://www.oscars.org/oscars/ceremonies/1978"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-010-E",
+      "knowledge_id": "K-E20261007-A-010-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche der fünf Big-Five-Nominierungen gewann „Der Stadtneurotiker“ 1978 als einzige nicht?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Hauptdarstellerin für Diane Keaton"
+        },
+        {
+          "id": "B",
+          "text": "Hauptdarsteller für Woody Allen"
+        },
+        {
+          "id": "C",
+          "text": "Regie für Woody Allen"
+        },
+        {
+          "id": "D",
+          "text": "Originaldrehbuch für Allen und Brickman"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "„Annie Hall“ war in Film, Regie, beiden Hauptdarstellerkategorien und Drehbuch nominiert. Vier Bereiche gewann der Film; Woody Allen blieb als Hauptdarsteller ohne Sieg. Den Preis erhielt Richard Dreyfuss für „The Goodbye Girl“. Das Ergebnis zeigt, dass eine Person als Regisseur und Autor gewinnen und in derselben Verleihung als Darsteller dennoch unterliegen kann.",
+      "film_refs": [
+        "Annie Hall|1977"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Annie_Hall",
+        "https://www.oscars.org/oscars/ceremonies/1978"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-011-L",
+      "knowledge_id": "K-E20261007-A-011-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Vietnamkriegsfilm mit Robert De Niro gewann 1979 den Oscar für den besten Film?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Coming Home"
+        },
+        {
+          "id": "B",
+          "text": "Apocalypse Now"
+        },
+        {
+          "id": "C",
+          "text": "Platoon"
+        },
+        {
+          "id": "D",
+          "text": "Die durch die Hölle gehen"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "„The Deer Hunter“, deutsch „Die durch die Hölle gehen“, gewann 1979 den Film-Oscar. Michael (Robert De Niro), Nick (Christopher Walken) und Steven (John Savage) erleben den Krieg und seine Folgen. Michael Cimino stellt ihrem Einsatz das lange Hochzeitsfest in ihrer Heimat gegenüber. Der Film zeigt so, wie der Krieg eine zuvor eng verbundene Gemeinschaft verändert.",
+      "film_refs": [
+        "The Deer Hunter|1978"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Deer_Hunter",
+        "https://www.oscars.org/oscars/ceremonies/1979"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-011-M",
+      "knowledge_id": "K-E20261007-A-011-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Wer gewann 1979 für Nick in „Die durch die Hölle gehen“ den Nebendarsteller-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Christopher Walken"
+        },
+        {
+          "id": "B",
+          "text": "John Savage"
+        },
+        {
+          "id": "C",
+          "text": "Robert De Niro"
+        },
+        {
+          "id": "D",
+          "text": "John Cazale"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Christopher Walken wurde für Nick als Nebendarsteller ausgezeichnet. Robert De Niro war für Michael in der Hauptdarstellerkategorie nominiert. Die unterschiedlichen Kategorien beschreiben die Einordnung der Darstellungen im Preisverfahren. Sie ändern nichts daran, dass Nicks Schicksal für Michaels Rückkehr und den Schluss des Films entscheidend ist. Nick bleibt mit einer Erfahrung verbunden, aus der er nicht mehr herausfindet.",
+      "film_refs": [
+        "The Deer Hunter|1978"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Deer_Hunter",
+        "https://www.oscars.org/oscars/ceremonies/1979"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-011-S",
+      "knowledge_id": "K-E20261007-A-011-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Cutter gewann 1979 für „Die durch die Hölle gehen“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Jerry Greenberg"
+        },
+        {
+          "id": "B",
+          "text": "Peter Zinner"
+        },
+        {
+          "id": "C",
+          "text": "Terry Rawlings"
+        },
+        {
+          "id": "D",
+          "text": "John Bloom"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Peter Zinner gewann den Schnitt-Oscar für „The Deer Hunter“. Der Film verteilt seine Aufmerksamkeit auf das Leben vor dem Einsatz, die Kriegserfahrung und die Rückkehr. Die Montage muss dabei zwischen Gemeinschaft und Vereinzelung vermitteln. Der Schnittpreis ergänzt die Auszeichnungen für Film, Regie, Ton und Christopher Walkens Nebenrolle; er betrifft die zeitliche und erzählerische Ordnung des Materials.",
+      "film_refs": [
+        "The Deer Hunter|1978"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Deer_Hunter",
+        "https://www.oscars.org/oscars/ceremonies/1979"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-011-E",
+      "knowledge_id": "K-E20261007-A-011-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Kombination von Schauspiel-Ergebnissen hatte „Die durch die Hölle gehen“ bei den Oscars 1979?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "De Niro und Streep gewannen; Walken blieb nominiert"
+        },
+        {
+          "id": "B",
+          "text": "Alle drei gewannen ihre Schauspielpreise"
+        },
+        {
+          "id": "C",
+          "text": "Walken gewann; De Niro und Streep blieben nominiert"
+        },
+        {
+          "id": "D",
+          "text": "Nur De Niro war nominiert"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Christopher Walken gewann als Nebendarsteller. Robert De Niro blieb in der Hauptrolle und Meryl Streep für Linda in der Nebenrolle nominiert, ohne zu gewinnen. Die Academy führt alle drei Leistungen getrennt auf. Der Film erhielt insgesamt fünf Oscars. Sein Erfolg war somit breit, bedeutete aber keinen vollständigen Durchmarsch seiner nominierten Besetzung.",
+      "film_refs": [
+        "The Deer Hunter|1978"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Deer_Hunter",
+        "https://www.oscars.org/oscars/ceremonies/1979"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-012-L",
+      "knowledge_id": "K-E20261007-A-012-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Scheidungs- und Familiendrama gewann den Film-Oscar 1980?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Kramer gegen Kramer"
+        },
+        {
+          "id": "B",
+          "text": "Eine ganz normale Familie"
+        },
+        {
+          "id": "C",
+          "text": "Manhattan"
+        },
+        {
+          "id": "D",
+          "text": "Norma Rae"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "„Kramer vs. Kramer“ gewann 1980 den Film-Oscar. Ted (Dustin Hoffman) muss nach Joannas Weggang für ihren Sohn Billy (Justin Henry) sorgen. Joanna (Meryl Streep) kehrt später zurück und verlangt das Sorgerecht. Robert Benton erzählt den Konflikt über Veränderungen im Alltag und eine Gerichtsverhandlung. Der Preis würdigte das Gesamtwerk; weitere Oscars gingen an Darstellung, Regie und Drehbuch.",
+      "film_refs": [
+        "Kramer vs. Kramer|1979"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kramer_vs._Kramer",
+        "https://www.oscars.org/oscars/ceremonies/1980"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-012-M",
+      "knowledge_id": "K-E20261007-A-012-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Wie wurden Dustin Hoffman und Meryl Streep für „Kramer gegen Kramer“ 1980 ausgezeichnet?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Beide in den Hauptdarstellerkategorien"
+        },
+        {
+          "id": "B",
+          "text": "Hoffman als Hauptdarsteller, Streep als Nebendarstellerin"
+        },
+        {
+          "id": "C",
+          "text": "Hoffman als Nebendarsteller, Streep als Hauptdarstellerin"
+        },
+        {
+          "id": "D",
+          "text": "Beide in den Nebendarstellerkategorien"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Dustin Hoffman gewann für Ted den Hauptdarsteller-Oscar, Meryl Streep für Joanna den Nebendarstellerinnen-Oscar. Ted steht im Zentrum des neuen Familienalltags, während Joannas Rückkehr die Frage nach dem Sorgerecht öffnet. Beide Rollen tragen den Konflikt, wurden im Oscarverfahren aber unterschiedlich eingeordnet. Die Auszeichnungen gehören zu den fünf gewonnenen Oscars des Films.",
+      "film_refs": [
+        "Kramer vs. Kramer|1979"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kramer_vs._Kramer",
+        "https://www.oscars.org/oscars/ceremonies/1980"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-012-S",
+      "knowledge_id": "K-E20261007-A-012-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welche beiden persönlichen Oscars gewann Robert Benton 1980 für „Kramer gegen Kramer“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Regie und Originaldrehbuch"
+        },
+        {
+          "id": "B",
+          "text": "Produktion und Hauptdarstellung"
+        },
+        {
+          "id": "C",
+          "text": "Regie und adaptiertes Drehbuch"
+        },
+        {
+          "id": "D",
+          "text": "Schnitt und adaptiertes Drehbuch"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Robert Benton gewann für die Regie und das adaptierte Drehbuch. Die literarische Vorlage stammt von Avery Corman. Benton verantwortete damit sowohl die Bearbeitung der Geschichte als auch ihre filmische Gestaltung. Der Film-Oscar ging an Produzent Stanley R. Jaffe. Diese Verteilung trennt Bentons zwei ausgezeichnete Aufgaben von der Auszeichnung der Produktion als Gesamtwerk.",
+      "film_refs": [
+        "Kramer vs. Kramer|1979"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kramer_vs._Kramer",
+        "https://www.oscars.org/oscars/ceremonies/1980"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-012-E",
+      "knowledge_id": "K-E20261007-A-012-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche weiteren Darsteller aus „Kramer gegen Kramer“ waren 1980 neben den Gewinnern Hoffman und Streep nominiert?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Roy Scheider und Jessica Lange"
+        },
+        {
+          "id": "B",
+          "text": "Robert Duvall und Diane Keaton"
+        },
+        {
+          "id": "C",
+          "text": "Timothy Hutton und Mary Tyler Moore"
+        },
+        {
+          "id": "D",
+          "text": "Justin Henry und Jane Alexander"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Justin Henry war als Billy für die Nebenrolle nominiert, Jane Alexander als Margaret ebenfalls für eine Nebenrolle. Beide gewannen nicht. Damit besitzt „Kramer vs. Kramer“ ein Schauspielprofil mit zwei Siegen und zwei weiteren Nominierungen. Es macht sichtbar, dass die Aufmerksamkeit der Academy über das zentrale Elternpaar hinaus auch das Kind und das unterstützende Umfeld der Familie erreichte.",
+      "film_refs": [
+        "Kramer vs. Kramer|1979"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kramer_vs._Kramer",
+        "https://www.oscars.org/oscars/ceremonies/1980"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-013-L",
+      "knowledge_id": "K-E20261007-A-013-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Familiendrama gewann bei der Oscarverleihung 1981 den Hauptpreis?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Wie ein wilder Stier"
+        },
+        {
+          "id": "B",
+          "text": "Eine ganz normale Familie"
+        },
+        {
+          "id": "C",
+          "text": "Tess"
+        },
+        {
+          "id": "D",
+          "text": "Der Elefantenmensch"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "„Ordinary People“, deutsch „Eine ganz normale Familie“, gewann 1981 den Film-Oscar. Conrad (Timothy Hutton) versucht nach dem Tod seines Bruders und einer eigenen Krise wieder am Alltag teilzunehmen. Seine Eltern Calvin (Donald Sutherland) und Beth (Mary Tyler Moore) reagieren unterschiedlich auf ihn. Robert Redford inszeniert eine Familie, deren gepflegte Außenansicht die ungelösten Spannungen im Inneren kaum erkennen lässt.",
+      "film_refs": [
+        "Ordinary People|1980"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ordinary_People",
+        "https://www.oscars.org/oscars/ceremonies/1981"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-013-M",
+      "knowledge_id": "K-E20261007-A-013-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "In welcher Schauspielkategorie gewann Timothy Hutton 1981 für Conrad in „Eine ganz normale Familie“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Hauptdarsteller"
+        },
+        {
+          "id": "B",
+          "text": "Ehren-Oscar für das Lebenswerk"
+        },
+        {
+          "id": "C",
+          "text": "Nebendarsteller"
+        },
+        {
+          "id": "D",
+          "text": "Gemeinsamer Ensemblepreis"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Timothy Hutton gewann als Nebendarsteller für Conrad. Die Figur steht zwar im Mittelpunkt vieler Szenen, doch die Oscarzuordnung führte ihn in der Nebenrollenkategorie. Dort war auch Judd Hirsch als Psychiater Dr. Berger nominiert. Die Preisentscheidung zeigt, dass erzählerische Bedeutung und formale Einordnung einer Schauspielrolle nicht immer nach einer einfachen Hauptfigur-Regel zusammenfallen.",
+      "film_refs": [
+        "Ordinary People|1980"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ordinary_People",
+        "https://www.oscars.org/oscars/ceremonies/1981"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-013-S",
+      "knowledge_id": "K-E20261007-A-013-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Wer gewann 1981 für die Adaption des Romans „Ordinary People“ den Drehbuch-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Bo Goldman"
+        },
+        {
+          "id": "B",
+          "text": "Paul Schrader"
+        },
+        {
+          "id": "C",
+          "text": "John Briley"
+        },
+        {
+          "id": "D",
+          "text": "Alvin Sargent"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Alvin Sargent schrieb das ausgezeichnete adaptierte Drehbuch nach Judith Guests Roman. Er übertrug die Spannungen zwischen Conrad, seinen Eltern und dem Therapeuten in eine filmische Erzählung. Der Oscar ergänzt die Preise für Film, Regie und Timothy Hutton. Die Anerkennung gilt der Adaption eines bereits veröffentlichten Romans und ist von der Originaldrehbuchkategorie derselben Verleihung zu unterscheiden.",
+      "film_refs": [
+        "Ordinary People|1980"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ordinary_People",
+        "https://www.oscars.org/oscars/ceremonies/1981"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-013-E",
+      "knowledge_id": "K-E20261007-A-013-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Wer wurde 1981 persönlich als Produzent von „Eine ganz normale Familie“ mit dem Film-Oscar ausgezeichnet?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Ronald L. Schwary"
+        },
+        {
+          "id": "B",
+          "text": "Robert Redford"
+        },
+        {
+          "id": "C",
+          "text": "Alvin Sargent"
+        },
+        {
+          "id": "D",
+          "text": "Donald Sutherland"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Ronald L. Schwary erhielt als Produzent den Oscar für den besten Film. Robert Redford gewann die Regiekategorie, Alvin Sargent das adaptierte Drehbuch. Donald Sutherland gehörte zur Besetzung und war für diesen Film nicht für einen Schauspiel-Oscar nominiert. Die getrennten Empfänger zeigen, wie die Academy ein gemeinsames Werk nach den verantworteten Aufgaben auszeichnet.",
+      "film_refs": [
+        "Ordinary People|1980"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Ordinary_People",
+        "https://www.oscars.org/oscars/ceremonies/1981"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-014-L",
+      "knowledge_id": "K-E20261007-A-014-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Film über olympische Läufer gewann 1982 den Film-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Reds"
+        },
+        {
+          "id": "B",
+          "text": "Am goldenen See"
+        },
+        {
+          "id": "C",
+          "text": "Die Stunde des Siegers"
+        },
+        {
+          "id": "D",
+          "text": "Atlantic City"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "„Chariots of Fire“, deutsch „Die Stunde des Siegers“, gewann 1982 den Film-Oscar. Harold Abrahams (Ben Cross) und Eric Liddell (Ian Charleson) verfolgen ihre sportlichen Ziele aus unterschiedlichen persönlichen und religiösen Motiven. Der Film führt ihre Wege zu den Olympischen Spielen von 1924. Sein Erfolg verband die Auszeichnung des Gesamtwerks mit Preisen für Musik, Kostüme und Originaldrehbuch.",
+      "film_refs": [
+        "Chariots of Fire|1981"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Chariots_of_Fire",
+        "https://www.oscars.org/oscars/ceremonies/1982"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-014-M",
+      "knowledge_id": "K-E20261007-A-014-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Komponist gewann 1982 für die Filmmusik von „Die Stunde des Siegers“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "John Williams"
+        },
+        {
+          "id": "B",
+          "text": "John Barry"
+        },
+        {
+          "id": "C",
+          "text": "Ennio Morricone"
+        },
+        {
+          "id": "D",
+          "text": "Vangelis"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Vangelis erhielt den Oscar für die Originalfilmmusik von „Chariots of Fire“. Seine elektronische Musik begleitet eine Geschichte, die Jahrzehnte vor ihrer Entstehung spielt. Gerade die Verbindung von modernem Klang und historischen Bildern macht den Film leicht wiedererkennbar. Der Musikpreis ist ein eigenständiger Beitrag zum Erfolg und keine Auszeichnung für ein einzelnes Lied mit gesungenem Text.",
+      "film_refs": [
+        "Chariots of Fire|1981"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Chariots_of_Fire",
+        "https://www.oscars.org/oscars/ceremonies/1982"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-014-S",
+      "knowledge_id": "K-E20261007-A-014-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Kostümbildnerin gewann 1982 für „Die Stunde des Siegers“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Milena Canonero"
+        },
+        {
+          "id": "B",
+          "text": "Edith Head"
+        },
+        {
+          "id": "C",
+          "text": "Jenny Beavan"
+        },
+        {
+          "id": "D",
+          "text": "Sandy Powell"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Milena Canonero gewann den Kostüm-Oscar für „Chariots of Fire“. Die Kleidung hilft, gesellschaftliche Stellung, Universität und Sportwelt der Figuren zu unterscheiden. Der Preis würdigt damit ein Gewerk, das die historische Umgebung sichtbar macht, während Vangelis einen modernen musikalischen Zugang schafft. Canoneros Auszeichnung gehörte neben Film, Musik und Originaldrehbuch zu den vier Siegen dieser Produktion.",
+      "film_refs": [
+        "Chariots of Fire|1981"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Chariots_of_Fire",
+        "https://www.oscars.org/oscars/ceremonies/1982"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-014-E",
+      "knowledge_id": "K-E20261007-A-014-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Oscar-Ergebnis trennt bei „Die Stunde des Siegers“ die Produktion von der Regie?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Hudson gewann für Regie; Puttnam blieb für den Film nominiert"
+        },
+        {
+          "id": "B",
+          "text": "David Puttnam gewann für den Film; Hugh Hudson blieb für Regie nominiert"
+        },
+        {
+          "id": "C",
+          "text": "Puttnam und Hudson gewannen gemeinsam den Regiepreis"
+        },
+        {
+          "id": "D",
+          "text": "Der Film gewann den Hauptpreis, hatte aber keine Regienominierung"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "David Puttnam erhielt als Produzent den Film-Oscar. Hugh Hudson war für die Regie nominiert, gewann aber nicht. „Chariots of Fire“ war somit bester Film, ohne gleichzeitig den Regiepreis zu erhalten. Die Aufteilung erinnert daran, dass die Kategorien getrennt entschieden werden und der Produktionspreis keine automatische persönliche Auszeichnung des Regisseurs ist.",
+      "film_refs": [
+        "Chariots of Fire|1981"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Chariots_of_Fire",
+        "https://www.oscars.org/oscars/ceremonies/1982"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-015-L",
+      "knowledge_id": "K-E20261007-A-015-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Darsteller gewann 1983 für die Titelrolle in „Gandhi“ den Hauptdarsteller-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Dustin Hoffman"
+        },
+        {
+          "id": "B",
+          "text": "Paul Newman"
+        },
+        {
+          "id": "C",
+          "text": "Peter O’Toole"
+        },
+        {
+          "id": "D",
+          "text": "Ben Kingsley"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Ben Kingsley gewann den Hauptdarsteller-Oscar für Mahatma Gandhi. Richard Attenboroughs Film erzählt Gandhis Weg von Südafrika zur indischen Unabhängigkeitsbewegung und zeigt gewaltfreien Widerstand als politische Praxis. Kingsleys Darstellung steht im Zentrum dieses großen historischen Bogens. Sie gehörte zu acht ausgezeichneten Kategorien des Films und ist von Attenboroughs Preisen für Regie und Produktion zu unterscheiden.",
+      "film_refs": [
+        "Gandhi|1982"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Gandhi_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1983"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-015-M",
+      "knowledge_id": "K-E20261007-A-015-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welche zwei persönlichen Oscars erhielt Richard Attenborough 1983 für „Gandhi“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Regie und bester Film als Produzent"
+        },
+        {
+          "id": "B",
+          "text": "Regie und Hauptdarstellung"
+        },
+        {
+          "id": "C",
+          "text": "Originaldrehbuch und Filmmusik"
+        },
+        {
+          "id": "D",
+          "text": "Kamera und Schnitt"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Richard Attenborough gewann den Regie-Oscar und empfing als Produzent den Preis für den besten Film. Diese beiden Verantwortungsbereiche fallen bei „Gandhi“ in derselben Person zusammen. Der Erfolg des Gesamtwerks umfasste daneben Kingsleys Hauptdarstellung und mehrere weitere Gewerke. Attenboroughs doppelte Auszeichnung macht die Zuordnung der Preise nachvollziehbar, ohne die Leistungen des übrigen Teams ihm zuzuschreiben.",
+      "film_refs": [
+        "Gandhi|1982"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Gandhi_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1983"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-015-S",
+      "knowledge_id": "K-E20261007-A-015-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Duo gewann 1983 für die Kameraarbeit von „Gandhi“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Néstor Almendros und Owen Roizman"
+        },
+        {
+          "id": "B",
+          "text": "Billy Williams und Ronnie Taylor"
+        },
+        {
+          "id": "C",
+          "text": "Allen Daviau und John Seale"
+        },
+        {
+          "id": "D",
+          "text": "Vittorio Storaro und Chris Menges"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Billy Williams und Ronnie Taylor wurden gemeinsam für die Kameraarbeit von „Gandhi“ ausgezeichnet. Ihre Nennung betrifft die fotografische Gestaltung des Films und nicht die Regie oder die Szenenbildausstattung. Die Bilder verbinden intime Begegnungen mit großen historischen Menschenmengen. Der gemeinsame Oscar zeigt außerdem, dass eine technische Kategorie mehrere Verantwortliche desselben Werks auszeichnen kann.",
+      "film_refs": [
+        "Gandhi|1982"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Gandhi_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1983"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-015-E",
+      "knowledge_id": "K-E20261007-A-015-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Einordnung erhielt John Brileys Drehbuch zu „Gandhi“ bei den Oscars 1983?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Ausgezeichnete Romanadaption"
+        },
+        {
+          "id": "B",
+          "text": "Nur nominiertes Originaldrehbuch"
+        },
+        {
+          "id": "C",
+          "text": "Ausgezeichnetes Originaldrehbuch"
+        },
+        {
+          "id": "D",
+          "text": "Ausgezeichnetes Dokumentarfilm-Drehbuch"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "John Briley gewann für ein direkt für die Leinwand geschriebenes Drehbuch. Eine historische Hauptfigur macht einen Film nicht automatisch zur Romanadaption oder zum Dokumentarfilm. Die Oscarzuordnung richtet sich hier nach der Art des verwendeten Drehbuchstoffs. „Gandhi“ erhielt deshalb seinen Schreibpreis in der Originaldrehbuchkategorie, während andere Filme derselben Verleihung um den Preis für Adaptionen konkurrierten.",
+      "film_refs": [
+        "Gandhi|1982"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Gandhi_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1983"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-016-L",
+      "knowledge_id": "K-E20261007-A-016-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Drama mit Meryl Streep als Karen Blixen gewann 1986 den Film-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Jenseits von Afrika"
+        },
+        {
+          "id": "B",
+          "text": "Die Farbe Lila"
+        },
+        {
+          "id": "C",
+          "text": "Der einzige Zeuge"
+        },
+        {
+          "id": "D",
+          "text": "Die Ehre der Prizzis"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "„Out of Africa“, deutsch „Jenseits von Afrika“, gewann 1986 den Film-Oscar. Karen Blixen (Meryl Streep) lebt auf einer Farm in Kenia und entwickelt eine Beziehung zu Denys Finch Hatton (Robert Redford). Sydney Pollack verbindet ihre Erinnerungen mit Landschaft, Verlust und unterschiedlichen Vorstellungen von Bindung. Der Hauptpreis gehörte zu sieben Oscars, die der Film bei dieser Verleihung erhielt.",
+      "film_refs": [
+        "Out of Africa|1985"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Out_of_Africa_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1986"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-016-M",
+      "knowledge_id": "K-E20261007-A-016-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Komponist gewann 1986 für die Originalfilmmusik von „Jenseits von Afrika“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Hans Zimmer"
+        },
+        {
+          "id": "B",
+          "text": "John Barry"
+        },
+        {
+          "id": "C",
+          "text": "Maurice Jarre"
+        },
+        {
+          "id": "D",
+          "text": "James Horner"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "John Barry erhielt den Oscar für die Originalfilmmusik von „Out of Africa“. Seine Musik gehört zu den Mitteln, mit denen Pollacks Film Erinnerungen und weite Landschaftsbilder miteinander verbindet. Der Preis betrifft die für das Werk geschriebene Filmmusik. Er ist weder ein Schauspielpreis noch ein Preis für das autobiografische Buch, auf dessen Erfahrungen die Erzählung beruht.",
+      "film_refs": [
+        "Out of Africa|1985"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Out_of_Africa_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1986"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-016-S",
+      "knowledge_id": "K-E20261007-A-016-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Drehbuchautor gewann 1986 für „Jenseits von Afrika“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "John Briley"
+        },
+        {
+          "id": "B",
+          "text": "Alvin Sargent"
+        },
+        {
+          "id": "C",
+          "text": "Kurt Luedtke"
+        },
+        {
+          "id": "D",
+          "text": "William Goldman"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Kurt Luedtke gewann für das adaptierte Drehbuch von „Out of Africa“. Der Film verarbeitet Karen Blixens autobiografisches Buch, das sie unter dem Namen Isak Dinesen veröffentlichte, sowie weiteres biografisches Material. Die Auszeichnung gilt dieser filmischen Bearbeitung. Sie würdigt eine Dramaturgie, die Erinnerungen, Beziehungen und wirtschaftliche Schwierigkeiten zu einer zusammenhängenden Lebensphase ordnet.",
+      "film_refs": [
+        "Out of Africa|1985"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Out_of_Africa_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1986"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-016-E",
+      "knowledge_id": "K-E20261007-A-016-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Wie war die Oscarbilanz der nominierten Darsteller Meryl Streep und Klaus Maria Brandauer für „Jenseits von Afrika“ 1986?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Beide gewannen ihre Kategorien"
+        },
+        {
+          "id": "B",
+          "text": "Streep gewann, Brandauer blieb nominiert"
+        },
+        {
+          "id": "C",
+          "text": "Brandauer gewann, Streep blieb nominiert"
+        },
+        {
+          "id": "D",
+          "text": "Beide nominiert, keiner gewann"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Meryl Streep war als Karen Blixen für die Hauptrolle nominiert, Klaus Maria Brandauer als Bror Blixen für eine Nebenrolle. Beide gewannen bei dieser Verleihung nicht. Der Film gewann trotzdem sieben andere Kategorien. Sein umfangreicher Erfolg ist deshalb von der individuellen Schauspielbilanz zu trennen: Nominierungen für Darsteller können neben zahlreichen Siegen des übrigen Teams stehen.",
+      "film_refs": [
+        "Out of Africa|1985"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Out_of_Africa_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1986"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-017-L",
+      "knowledge_id": "K-E20261007-A-017-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Vietnamkriegsfilm gewann 1987 den Oscar für den besten Film?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Full Metal Jacket"
+        },
+        {
+          "id": "B",
+          "text": "Platoon"
+        },
+        {
+          "id": "C",
+          "text": "Die durch die Hölle gehen"
+        },
+        {
+          "id": "D",
+          "text": "Good Morning, Vietnam"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "„Platoon“ gewann 1987 den Film-Oscar. Chris Taylor (Charlie Sheen) gerät als junger Soldat zwischen die gegensätzlichen Unteroffiziere Barnes (Tom Berenger) und Elias (Willem Dafoe). Oliver Stone erzählt den Krieg über diesen Konflikt innerhalb der eigenen Einheit. Die Produktion gewann vier Oscars, darunter Regie, Schnitt und Ton; ihr Erfolg beruhte damit auf mehreren unterschiedlichen Aufgaben des Filmteams.",
+      "film_refs": [
+        "Platoon|1986"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Platoon_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1987"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-017-M",
+      "knowledge_id": "K-E20261007-A-017-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welche persönliche Auszeichnung gewann Oliver Stone 1987 für „Platoon“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Originaldrehbuch"
+        },
+        {
+          "id": "B",
+          "text": "Kamera"
+        },
+        {
+          "id": "C",
+          "text": "Regie"
+        },
+        {
+          "id": "D",
+          "text": "Bester Film als gelisteter Produzent"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Oliver Stone gewann den Regie-Oscar für „Platoon“. Sein Originaldrehbuch war ebenfalls nominiert, gewann aber nicht. Den Hauptpreis empfing Produzent Arnold Kopelson. Die getrennte Zuordnung macht Stones künstlerische Verantwortung sichtbar, ohne aus jeder gewonnenen Kategorie einen persönlichen Preis für ihn zu machen. Ein Film kann in mehreren Bereichen ausgezeichnet werden, während sein Autor in einer dieser Kategorien unterliegt.",
+      "film_refs": [
+        "Platoon|1986"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Platoon_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1987"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-017-S",
+      "knowledge_id": "K-E20261007-A-017-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Cutterin gewann 1987 für den Filmschnitt von „Platoon“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Gabriella Cristiani"
+        },
+        {
+          "id": "B",
+          "text": "Thelma Schoonmaker"
+        },
+        {
+          "id": "C",
+          "text": "Anne V. Coates"
+        },
+        {
+          "id": "D",
+          "text": "Claire Simpson"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Claire Simpson gewann den Schnitt-Oscar für „Platoon“. Die Montage ordnet Kampfszenen, Ruhephasen und den wachsenden Konflikt zwischen Barnes und Elias aus der Erfahrung des jungen Chris Taylor. Der Schnitt bestimmt, wann dieser neue Soldat etwas begreift und wann die Situation unübersichtlich bleibt. Die Auszeichnung ergänzt Film, Regie und Ton als eines der vier gewonnenen Gewerke.",
+      "film_refs": [
+        "Platoon|1986"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Platoon_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1987"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-017-E",
+      "knowledge_id": "K-E20261007-A-017-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Zuordnung erhielten Tom Berenger und Willem Dafoe für „Platoon“ bei den Oscars 1987?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Beide als Nebendarsteller nominiert, beide ohne Sieg"
+        },
+        {
+          "id": "B",
+          "text": "Berenger als Hauptdarsteller, Dafoe als Nebendarsteller ausgezeichnet"
+        },
+        {
+          "id": "C",
+          "text": "Beide als Hauptdarsteller nominiert"
+        },
+        {
+          "id": "D",
+          "text": "Nur Dafoe nominiert und ausgezeichnet"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Tom Berenger und Willem Dafoe waren beide als Nebendarsteller nominiert. Ihre Figuren Barnes und Elias vertreten gegensätzliche Haltungen innerhalb des Zuges, doch keiner gewann den Oscar. Die gemeinsame Kategorie führt damit zwei rivalisierende Figuren in dasselbe Preisfeld. Die Erzählung bleibt an Chris Taylor orientiert; die beiden Unteroffiziere prägen seine Entwicklung und seine Wahrnehmung des Kriegs.",
+      "film_refs": [
+        "Platoon|1986"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Platoon_(film)",
+        "https://www.oscars.org/oscars/ceremonies/1987"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-018-L",
+      "knowledge_id": "K-E20261007-A-018-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Film über das Leben Puyis gewann 1988 den Film-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Reich der Sonne"
+        },
+        {
+          "id": "B",
+          "text": "Hope and Glory"
+        },
+        {
+          "id": "C",
+          "text": "Der letzte Kaiser"
+        },
+        {
+          "id": "D",
+          "text": "Die letzte Metro"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "„The Last Emperor“, deutsch „Der letzte Kaiser“, gewann 1988 den Film-Oscar. Bernardo Bertolucci erzählt Puyis Weg vom chinesischen Kindkaiser zu einem Menschen ohne frühere Herrschaftsprivilegien. John Lone spielt den erwachsenen Puyi. Der Film verbindet persönliche Erinnerungen mit politischen Umbrüchen und erhielt neun Oscars. Der Hauptpreis ging an Produzent Jeremy Thomas.",
+      "film_refs": [
+        "The Last Emperor|1987"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Last_Emperor",
+        "https://www.oscars.org/oscars/ceremonies/1988"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-018-M",
+      "knowledge_id": "K-E20261007-A-018-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Ergebnis erreichte „Der letzte Kaiser“ mit seinen neun Oscar-Nominierungen 1988?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Er gewann nur Film und Regie"
+        },
+        {
+          "id": "B",
+          "text": "Er gewann neun Schauspielpreise"
+        },
+        {
+          "id": "C",
+          "text": "Er blieb in allen Kategorien ohne Sieg"
+        },
+        {
+          "id": "D",
+          "text": "Er gewann alle neun Kategorien"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "„The Last Emperor“ gewann alle neun Kategorien, in denen er nominiert war. Dazu gehörten Film, Regie, adaptiertes Drehbuch und mehrere gestalterische oder technische Gewerke. Kein Schauspielpreis gehörte zu diesen neun Nominierungen. Die vollständige Erfolgsquote beschreibt deshalb ein bestimmtes Preisprofil und bedeutet nicht, dass der Film in jeder überhaupt vorhandenen Oscar-Kategorie antrat.",
+      "film_refs": [
+        "The Last Emperor|1987"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Last_Emperor",
+        "https://www.oscars.org/oscars/ceremonies/1988"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-018-S",
+      "knowledge_id": "K-E20261007-A-018-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Trio gewann 1988 für die Originalfilmmusik von „Der letzte Kaiser“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Ryuichi Sakamoto, David Byrne und Cong Su"
+        },
+        {
+          "id": "B",
+          "text": "Vangelis, John Barry und Ennio Morricone"
+        },
+        {
+          "id": "C",
+          "text": "Hans Zimmer, Klaus Badelt und Lisa Gerrard"
+        },
+        {
+          "id": "D",
+          "text": "Maurice Jarre, Georges Delerue und Gabriel Yared"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Ryuichi Sakamoto, David Byrne und Cong Su teilten sich den Oscar für die Originalfilmmusik von „The Last Emperor“. Die Academy nennt alle drei als Empfänger derselben Kategorie. Eine gemeinschaftliche Auszeichnung zählt beim Film als ein Musik-Sieg, auch wenn mehrere Personen eine Statue erhalten. Der Beitrag gehört zur musikalischen Gestaltung von Puyis wechselnden Lebenswelten.",
+      "film_refs": [
+        "The Last Emperor|1987"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Last_Emperor",
+        "https://www.oscars.org/oscars/ceremonies/1988"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-018-E",
+      "knowledge_id": "K-E20261007-A-018-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Wer schrieb gemeinsam mit Bernardo Bertolucci das 1988 ausgezeichnete adaptierte Drehbuch von „Der letzte Kaiser“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "David Byrne"
+        },
+        {
+          "id": "B",
+          "text": "Mark Peploe"
+        },
+        {
+          "id": "C",
+          "text": "Jeremy Thomas"
+        },
+        {
+          "id": "D",
+          "text": "Vittorio Storaro"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Mark Peploe und Bernardo Bertolucci gewannen gemeinsam den Oscar für das adaptierte Drehbuch. Ihre Aufgabe ist von den weiteren ausgezeichneten Beiträgen des Teams zu unterscheiden. Jeremy Thomas erhielt den Film-Oscar als Produzent, Vittorio Storaro gewann für die Kamera, und David Byrne gehörte zum Musikteam. Die verschiedenen Namen verweisen damit auf unterschiedliche Wege, an demselben Erfolg beteiligt zu sein.",
+      "film_refs": [
+        "The Last Emperor|1987"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/The_Last_Emperor",
+        "https://www.oscars.org/oscars/ceremonies/1988"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-019-L",
+      "knowledge_id": "K-DRA-08-01",
+      "variant_of": "DRA-L-015",
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Darsteller gewann 1989 für Raymond Babbitt in „Rain Man“ den Hauptdarsteller-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Tom Cruise"
+        },
+        {
+          "id": "B",
+          "text": "Gene Hackman"
+        },
+        {
+          "id": "C",
+          "text": "Max von Sydow"
+        },
+        {
+          "id": "D",
+          "text": "Dustin Hoffman"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Dustin Hoffman gewann für Raymond Babbitt den Hauptdarsteller-Oscar. Tom Cruise spielt dessen Bruder Charlie, der ihn zunächst wegen eines Erbes aufsucht. Ihre gemeinsame Reise verändert Charlies Haltung zu Raymond: Er entdeckt hinter dessen Gewohnheiten einen Bruder mit eigenen Bedürfnissen. Der Schauspielpreis ist eine der vier ausgezeichneten Kategorien von „Rain Man“.",
+      "film_refs": [
+        "Rain Man|1988"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rain_Man",
+        "https://www.oscars.org/oscars/ceremonies/1989"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-019-M",
+      "knowledge_id": "K-FF-083-DIRECTOR",
+      "variant_of": "FF-083-DIRECTOR",
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Wer gewann 1989 den Regie-Oscar für „Rain Man“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Barry Levinson"
+        },
+        {
+          "id": "B",
+          "text": "Alan Parker"
+        },
+        {
+          "id": "C",
+          "text": "Mike Nichols"
+        },
+        {
+          "id": "D",
+          "text": "Sydney Pollack"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "Barry Levinson gewann für die Regie von „Rain Man“. Die Geschichte beginnt mit Charlies eigennützigem Interesse am Vermögen seines Vaters und entwickelt sich zu einer Begegnung zweier Brüder. Levinson gestaltet den Wandel über Situationen auf ihrer Reise und die Reaktionen der Darsteller. Der Regiepreis ergänzt Film, Hauptdarstellung und Originaldrehbuch als die vier Siege der Produktion.",
+      "film_refs": [
+        "Rain Man|1988"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rain_Man",
+        "https://www.oscars.org/oscars/ceremonies/1989"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-019-S",
+      "knowledge_id": "K-E20261007-A-019-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Team gewann 1989 für das Originaldrehbuch von „Rain Man“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Barry Levinson und Mark Johnson"
+        },
+        {
+          "id": "B",
+          "text": "Ronald Bass und Barry Morrow"
+        },
+        {
+          "id": "C",
+          "text": "Ronald Bass und Hans Zimmer"
+        },
+        {
+          "id": "D",
+          "text": "Barry Morrow und Tom Cruise"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Ronald Bass und Barry Morrow erhielten den Originaldrehbuch-Oscar. Die Academy führt Morrow zusätzlich als Autor der zugrunde liegenden Filmgeschichte auf. Bass und Morrow gehören damit zum Schreiben des Werks; Barry Levinson verantwortet die Regie und Mark Johnson die Produktion. Die genaue Nennung verhindert, dass der Erfolg der Darstellung oder der Regie mit der Autorschaft verwechselt wird.",
+      "film_refs": [
+        "Rain Man|1988"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rain_Man",
+        "https://www.oscars.org/oscars/ceremonies/1989"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-019-E",
+      "knowledge_id": "K-E20261007-A-019-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welche Aussage beschreibt Hans Zimmers Oscar-Ergebnis für „Rain Man“ 1989?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Für Originalfilmmusik ausgezeichnet"
+        },
+        {
+          "id": "B",
+          "text": "Für Originaldrehbuch ausgezeichnet"
+        },
+        {
+          "id": "C",
+          "text": "Für Originalfilmmusik nominiert, ohne Sieg"
+        },
+        {
+          "id": "D",
+          "text": "Als Produzent mit dem Film-Oscar ausgezeichnet"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "Hans Zimmer war für die Originalfilmmusik von „Rain Man“ nominiert und gewann nicht. Der Film erhielt vier andere Oscars. Zimmers Nominierung betrifft den musikalischen Beitrag zur Reise der Brüder, nicht das Schreiben des Drehbuchs oder die Produktion. Die Bilanz unterscheidet somit den Gesamterfolg des Films von der einzelnen Kategorie eines beteiligten Komponisten.",
+      "film_refs": [
+        "Rain Man|1988"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Rain_Man",
+        "https://www.oscars.org/oscars/ceremonies/1989"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-020-L",
+      "knowledge_id": "K-E20261007-A-020-L",
+      "variant_of": null,
+      "difficulty": "leicht",
+      "question_type": "Preisgeschichte",
+      "question": "Welcher Film mit Mel Gibson als William Wallace gewann 1996 den Film-Oscar?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Braveheart"
+        },
+        {
+          "id": "B",
+          "text": "Apollo 13"
+        },
+        {
+          "id": "C",
+          "text": "Rob Roy"
+        },
+        {
+          "id": "D",
+          "text": "Sinn und Sinnlichkeit"
+        }
+      ],
+      "correct_answer": "A",
+      "additional_info": "„Braveheart“ gewann 1996 den Film-Oscar. Mel Gibson spielt William Wallace und führte zugleich Regie. Das historische Drama verbindet den schottischen Widerstand gegen die englische Herrschaft mit einem persönlichen Rachemotiv und einer Liebesgeschichte. Der Film gewann fünf Oscars, darunter Regie, Kamera und Maskenbild. Ausgezeichnet wurden dabei sowohl Gibson als auch mehrere weitere Mitglieder des Teams.",
+      "film_refs": [
+        "Braveheart|1995"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Braveheart",
+        "https://www.oscars.org/oscars/ceremonies/1996"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-020-M",
+      "knowledge_id": "K-E20261007-A-020-M",
+      "variant_of": null,
+      "difficulty": "mittel",
+      "question_type": "Preisgeschichte",
+      "question": "Für welche Aufgaben erhielt Mel Gibson 1996 persönlich Oscars mit „Braveheart“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Regie und Hauptdarstellung"
+        },
+        {
+          "id": "B",
+          "text": "Regie und Produktion als Mitglied des Film-Oscar-Teams"
+        },
+        {
+          "id": "C",
+          "text": "Hauptdarstellung und Originaldrehbuch"
+        },
+        {
+          "id": "D",
+          "text": "Originaldrehbuch und Schnitt"
+        }
+      ],
+      "correct_answer": "B",
+      "additional_info": "Mel Gibson gewann den Regie-Oscar und teilte den Film-Oscar mit den Produzenten Alan Ladd Jr. und Bruce Davey. Seine Hauptrolle als William Wallace brachte ihm hier keine Schauspielnominierung. Das Drehbuch stammt von Randall Wallace. Gibsons zwei Oscars beziehen sich somit auf zwei Aufgaben hinter der Kamera, obwohl er auch als Gesicht des Films besonders bekannt ist.",
+      "film_refs": [
+        "Braveheart|1995"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Braveheart",
+        "https://www.oscars.org/oscars/ceremonies/1996"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-020-S",
+      "knowledge_id": "K-E20261007-A-020-S",
+      "variant_of": null,
+      "difficulty": "schwer",
+      "question_type": "Preisgeschichte",
+      "question": "Wer gewann 1996 für die Kameraarbeit von „Braveheart“?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Robert Richardson"
+        },
+        {
+          "id": "B",
+          "text": "Roger Deakins"
+        },
+        {
+          "id": "C",
+          "text": "John Toll"
+        },
+        {
+          "id": "D",
+          "text": "Emmanuel Lubezki"
+        }
+      ],
+      "correct_answer": "C",
+      "additional_info": "John Toll erhielt den Kamera-Oscar für „Braveheart“. Der Preis würdigt die fotografische Gestaltung der Landschaften, Figuren und Schlachten. Er ist von Mel Gibsons Regiepreis zu unterscheiden, obwohl beide Arbeiten die Wirkung derselben Bilder beeinflussen. Toll gehört zu den persönlich ausgezeichneten Teammitgliedern einer Produktion, deren fünf Siege auf verschiedene Aufgaben verteilt sind.",
+      "film_refs": [
+        "Braveheart|1995"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Braveheart",
+        "https://www.oscars.org/oscars/ceremonies/1996"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    },
+    {
+      "question_id": "E20261007-A-020-E",
+      "knowledge_id": "K-E20261007-A-020-E",
+      "variant_of": null,
+      "difficulty": "experte",
+      "question_type": "Preisgeschichte",
+      "question": "Welches Gewerke-Ergebnis hatte „Braveheart“ bei den Oscars 1996?",
+      "answers": [
+        {
+          "id": "A",
+          "text": "Filmmusik und Schnitt gewannen; Maskenbild blieb nominiert"
+        },
+        {
+          "id": "B",
+          "text": "Filmmusik und Kostüme gewannen; Tonschnitt blieb nominiert"
+        },
+        {
+          "id": "C",
+          "text": "Nur Maskenbild war nominiert, Ton und Musik fehlten"
+        },
+        {
+          "id": "D",
+          "text": "Maskenbild und Tonschnitt gewannen; Filmmusik blieb nominiert"
+        }
+      ],
+      "correct_answer": "D",
+      "additional_info": "Das Maskenbild von Peter Frampton, Paul Pattison und Lois Burwell sowie der Tonschnitt von Lon Bender und Per Hallberg gewannen Oscars. James Horners Originalfilmmusik blieb nominiert. Die Unterscheidung betrifft konkrete Gewerke, deren Arbeit in denselben Schlachten und historischen Szenen zusammenwirkt. Ein eindrucksvoller Gesamteindruck führt daher nicht automatisch zum gleichen Preis-Ergebnis für Musik, Maske und Ton.",
+      "film_refs": [
+        "Braveheart|1995"
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Braveheart",
+        "https://www.oscars.org/oscars/ceremonies/1996"
+      ],
+      "verification_status": "redaktionell_quellengeprueft",
+      "knowledge_link_status": "semantisch_abgeglichen"
+    }
+  ]
+}

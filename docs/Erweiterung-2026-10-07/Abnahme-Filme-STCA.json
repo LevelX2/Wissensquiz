@@ -1,0 +1,95 @@
+{
+  "asOf": "2026-10-07",
+  "status": "Blockweise redaktionell geprüft; für den zentralen Zusammenbau freigegeben",
+  "scope": {
+    "files": "Redaktion/201.json bis Redaktion/280.json",
+    "films": 80,
+    "questions": 640,
+    "categories": {
+      "Science-Fiction": {"ranks": "201–220", "films": 20, "questions": 160},
+      "Thriller": {"ranks": "221–240", "films": 20, "questions": 160},
+      "Classics": {"ranks": "241–260", "films": 20, "questions": 160},
+      "Arthouse": {"ranks": "261–280", "films": 20, "questions": 160}
+    },
+    "categoryContract": "Classics und Arthouse sind Zusatzzuordnungen; jedes Werk hat zusätzlich ein reguläres Filmgenre."
+  },
+  "readingScope": [
+    "Für alle 80 Filmfassungen wurden die gecachten englischen Einleitungen, Infoboxdaten und Handlungsabschnitte tatsächlich gelesen. Relevante Produktions-, Gestaltungs- und Veröffentlichungsabschnitte wurden gezielt ergänzend gelesen.",
+    "Ergänzende deutsche Handlungs- und Hintergrundabschnitte wurden für 79 Filme gelesen; bei Aniara wurden englische Filmtexte und die Verleihquelle verwendet.",
+    "Die im jeweiligen Film genannten zusätzlichen Primärquellen wurden für die bezeichneten Aussagen gelesen: insbesondere Studio- und Verleihtexte, Festivalarchive, AFI-Credits und historische Produktionsangaben. Ein erfolgreicher Abruf allein wurde nicht als Quellenabnahme gewertet.",
+    "In der Schlussredaktion wurden sämtliche 640 Fragen samt Optionen blockweise gelesen. Jahresfragen samt Kontext und Veröffentlichungsnotiz sowie alle 80 Regiekontexte wurden nochmals gesondert gelesen.",
+    "Quellenaliase wurden technisch auf vorhandene URL-Einträge geprüft. Inhaltlich unpassende Zusatzquellen wurden aus einzelnen Regiefragen entfernt; bei Der Maschinist wurde der tatsächlich gelesene ICAA-Produktionsnachweis ergänzt."
+  ],
+  "baselineReview": {
+    "baselineQuestions": 8397,
+    "activeFilmWorks": 785,
+    "reservedFilmWorks": 40,
+    "method": "Suche nach deutschen und originalen Titeln, Filmreferenzen und Textvorkommen im vollständigen Fragenbestand, anschließend semantische Bewertung der relevanten Treffer. Häufige Wörter und bloße Titelreferenzen wurden nicht automatisch zu Wissensziel-Dubletten erklärt.",
+    "variantCount": 1,
+    "variants": [
+      {
+        "question": "E20261007-F-262-D",
+        "knowledge_id": "K-SCHAUSPIELER-202610-P01-044-S-2",
+        "variant_of": "SCHAUSPIELER-202610-P01-044-S-2",
+        "reason": "Derselbe Film-Regie-Zusammenhang Luchino Visconti bei Der Leopard; die Bestandsfrage nennt Terence Hills Besetzung durch diesen Regisseur."
+      }
+    ]
+  },
+  "importantCorrections": [
+    {"questions": "Inhaltsfragen in 50 Filmdateien", "change": "Unplausible oder zu leicht auszuschließende Ablenker durch vergleichbare Möglichkeiten ersetzt und jedes zugehörige Feedback angepasst; anschließend Kontext und richtige Antwort erneut abgeglichen."},
+    {"question": "203-L1", "change": "Ein vom sichtbaren Titel nahegelegtes Ziel durch das wissenschaftliche Missionsziel der Suche nach außerirdischem Leben ersetzt."},
+    {"question": "215-M1", "change": "Eine nicht hinreichend abgesicherte Knochenbehauptung durch das frühere Kind ersetzt, das nach einer fehlgeschlagenen Prüfung getötet wurde."},
+    {"question": "276-S2", "change": "Ein mit der Diktiermethode überlappendes Ziel durch den konkreten Vergleich der vorwärts beziehungsweise rückwärts laufenden Gletscherbilder ersetzt."},
+    {"question": "214-Y", "change": "Zeitanker verbindet Cube von 1997 mit Cypher von 2002 und dem Abstand von fünf Jahren; keine bloße Wiederholung des gesuchten Filmjahres."},
+    {"questions": "Regiefragen 210, 211, 216, 263, 264, 270, 271, 273 und 276", "change": "Darsteller den konkret genannten Figuren zugeordnet; vollständige Regieteams separat erhalten."},
+    {"questions": "243-Y und 244-D", "change": "Die überarbeitete Kinofassung von The Big Sleep wird ausdrücklich bezeichnet. Bei Touch of Evil sind Welles und Keller als tatsächliche Regieleistungen erfasst; die Neumontage von Walter Murch wird als Schnittarbeit erklärt."}
+  ],
+  "versionAndSourceDecisions": [
+    {
+      "rank": 215,
+      "film": "I Am Mother",
+      "decision": "2019 bezeichnet die fertige Filmfassung. Die Work-in-progress-Vorschau in Adelaide 2018 bleibt ausdrücklich davon getrennt.",
+      "sources": ["https://cms.adelaidefilmfestival.org/assets/archive-content/aff-2018-program.pdf"]
+    },
+    {
+      "rank": 243,
+      "film": "The Big Sleep",
+      "decision": "Das Paket behandelt die überarbeitete Kinofassung von 1946. Die frühere Fassung für militärische Vorführungen 1945 wird nicht still mit ihr gleichgesetzt.",
+      "sources": ["https://catalog.afi.com/Film/24697-THE-BIG-SLEEP"]
+    },
+    {
+      "rank": 239,
+      "film": "The Machinist",
+      "decision": "Spanien wird als Produktionsland geführt. Das ICAA-Blatt nennt Castelao Productions in Barcelona und Canal+ España; Catalan Films nennt Catalunya und Filmax. Diese Zuordnung folgt den gelesenen Produktionsangaben. Wikipedia nennt vier Länder, AFI-Watch fünf; die dortigen ausländischen Länder werden durch die gelesenen Primärangaben nicht als Koproduktionsländer bestätigt.",
+      "remainingSourceDifference": "Die unterschiedlichen Aggregatorlisten bleiben dokumentiert. Englische Sprache, internationale Besetzung oder Auswertung allein begründen kein weiteres Produktionsland. 2003 ist das Produktionsjahr; das Veröffentlichungsjahr bleibt 2004.",
+      "sources": [
+        "https://infoicaa.mcu.es/CatalogoICAA/Caratulas/67503/58/P67503.pdf",
+        "https://catalanfilms.cat/ca/produccions/the-machinist"
+      ]
+    },
+    {"rank": 231, "film": "Headhunters", "decision": "Die Länder Norwegen, Schweden, Dänemark und Deutschland folgen dem gelesenen Festivalprogramm; die kürzere englische Infoboxliste wurde nicht als vollständiger Koproduktionsnachweis behandelt."},
+    {"rank": 236, "film": "Good Time", "decision": "USA und Luxemburg folgen dem gelesenen offiziellen Cannes-Eintrag; die kürzere englische Infoboxliste wurde entsprechend ergänzt."},
+    {"rank": 269, "film": "Carol", "decision": "Festivalveröffentlichung 2015 wird vom Produktions- beziehungsweise Copyrightjahr 2014 unterschieden."},
+    {"rank": 271, "film": "Transit", "decision": "Deutschland und Frankreich folgen den gelesenen Verleihunterlagen; die englische Infobox nennt nur Deutschland."},
+    {"rank": 277, "film": "Stranger Than Paradise", "decision": "Das Paket behandelt den Langfilm von 1984 und unterscheidet ihn vom früheren kurzen Filmteil von 1982. Der gelesene AFI-Eintrag weist die US-amerikanische und deutsche Produktion aus."},
+    {"rank": 280, "film": "The Immigrant", "decision": "Die erste Festivalveröffentlichung ist Cannes 2013, nicht der spätere US-Kinostart 2014. USA und Frankreich folgen dem offiziellen Festivaleintrag."}
+  ],
+  "formalChecks": {
+    "filmFilesParsed": 80,
+    "questionsParsed": 640,
+    "questionCodesPerFilm": ["L1", "L2", "M1", "M2", "S1", "S2", "Y", "D"],
+    "fourDistinctAnswersAndFourFeedbacks": true,
+    "sourceAliasesResolve": true,
+    "releaseYearMatchesCorrectYearOption": true,
+    "yearOptionsBetween1895And2026": true,
+    "correctDirectorOptionContainsFullListedTeam": true,
+    "falseDirectorOptionsExcludeCorrectTeamMembers": true,
+    "validVariantLinks": true,
+    "questionsAndOptionsOver60Words": 0,
+    "errors": 0
+  },
+  "limits": [
+    "Die Quellenprüfung ist eine redaktionelle Auswertung der bezeichneten Texte und Abschnitte, keine Sichtung sämtlicher Filme oder vollständige Lektüre jeder verlinkten Website.",
+    "Die neue CSV, App-Metadaten, Importsicherheit und Anwendungstests gehören zur anschließenden zentralen Integration; dieser Bericht ersetzt deren Prüfnachweis nicht."
+  ]
+}

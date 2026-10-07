@@ -1,0 +1,216 @@
+{
+  "rank": 102,
+  "titleDe": "Lone Ranger",
+  "originalTitle": "The Lone Ranger",
+  "year": 2013,
+  "genre": "Western",
+  "familiarity": 2,
+  "directors": [
+    "Gore Verbinski"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Kinostart am 3. Juli 2013; diese Kinoadaption ist von früheren Radio-, Fernseh- und Filmfassungen zu unterscheiden.",
+  "familiarity_reason": "Die Disney-Großproduktion mit Johnny Depp und Armie Hammer sowie die bekannte Heldenfigur sorgen für breite Wiedererkennung; Bekanntheit 2.",
+  "sources": {
+    "disney": "https://movies.disney.com/the-lone-ranger",
+    "kritik": "https://www.rogerebert.com/reviews/the-lone-ranger-2013",
+    "handlung": "https://en.wikipedia.org/wiki/The_Lone_Ranger_(2013_film)"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Mit welcher beruflichen Vorstellung kommt John Reid in @ zunächst in den Westen?",
+      "answers": [
+        "Als Jurist vertraut er auf Gesetz und Verfahren.",
+        "Als Kopfgeldjäger sucht er bezahlte Aufträge.",
+        "Als Bahnunternehmer plant er eine neue Strecke.",
+        "Als Viehhändler sucht er eine große Herde."
+      ],
+      "feedback": [
+        "John beginnt als Jurist mit Vertrauen in das Gesetz.",
+        "Kopfgeldaufträge bestimmen seinen Anfang nicht.",
+        "Er kommt nicht als Bahnunternehmer.",
+        "Viehhandel ist nicht sein Beruf."
+      ],
+      "short": "John beginnt als Jurist mit Vertrauen in das Gesetz.",
+      "context": "John Reid (Armie Hammer) beginnt als Jurist. Er vertraut auf die Ordnung des Gesetzes, bevor er ihre Grenzen erlebt. Seine spätere Rolle verlangt daher eine Veränderung der Mittel. Die Frage nach Gerechtigkeit bleibt bestehen, während seine anfängliche Vorstellung von ihrem sicheren institutionellen Weg zerbricht.",
+      "anchor": "Johns Anfang als Jurist macht die spätere Maskierung zu einer Veränderung seiner Mittel.",
+      "interest": "Erfasst die Ausgangshaltung des Helden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was verbindet Tonto und John in @ trotz ihrer unterschiedlichen Motive?",
+      "answers": [
+        "Sie verfolgen dieselben gefährlichen Gegner.",
+        "Sie arbeiten bereits als bezahlte Rangerkollegen.",
+        "Sie gehören derselben Unternehmerfamilie an.",
+        "Sie wollen gemeinsam eine Eisenbahn verkaufen."
+      ],
+      "feedback": [
+        "Ihre Gegner bringen sie zur Zusammenarbeit.",
+        "Sie beginnen nicht als gleichgestellte Rangerkollegen.",
+        "Eine gemeinsame Unternehmerfamilie verbindet sie nicht.",
+        "Ein Bahnverkauf ist nicht ihr Vorhaben."
+      ],
+      "short": "Ihre Gegner bringen sie zur Zusammenarbeit.",
+      "context": "Tonto (Johnny Depp) und John Reid (Armie Hammer) verbinden ihre Wege gegen dieselben Gegner. Tonto bringt eine eigene Vorgeschichte mit; John muss erst verstehen, wie wenig seine üblichen Verfahren helfen. Ihre Partnerschaft entsteht aus einer gemeinsamen Gefahr und bleibt von verschiedenen Erfahrungen geprägt.",
+      "anchor": "Gleiche Gegner verbinden zwei Männer mit unterschiedlichen Vorgeschichten.",
+      "interest": "Erklärt den Anlass der Partnerschaft.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum trägt John Reid in @ eine Maske?",
+      "answers": [
+        "Seine Gegner sollen weiter glauben, er sei tot.",
+        "Er will seine frühere Tätigkeit als Jurist verbergen.",
+        "Er will für einen anderen Ranger gehalten werden.",
+        "Er will eine Verletzung aus dem Überfall verdecken."
+      ],
+      "feedback": [
+        "Die Maske schützt das Geheimnis seines Überlebens.",
+        "Die Tarnung erhält den Glauben an seinen Tod und verbirgt nicht nur seinen Beruf.",
+        "Er schützt seine überlebende Identität statt eine bestimmte fremde anzunehmen.",
+        "Eine Gesichtsverletzung ist nicht der entscheidende Grund für die Maske."
+      ],
+      "short": "Die Maske schützt das Geheimnis seines Überlebens.",
+      "context": "John Reid (Armie Hammer) soll nach dem Angriff als tot gelten. Die Maske macht sein weiteres Handeln möglich, ohne dieses Wissen preiszugeben. Sie trennt die öffentliche Vorstellung von seiner Person von der tatsächlich handelnden Figur und erhält so einen Vorteil gegenüber den Tätern.",
+      "anchor": "Die Maske bewahrt das Geheimnis, dass der für tot gehaltene John überlebt hat.",
+      "interest": "Erklärt die konkrete taktische Funktion des Kostüms.",
+      "sources": [
+        "disney"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Erfahrung erschüttert Johns Vertrauen in eine gesetzliche Lösung in @?",
+      "answers": [
+        "Die scheinbar zuständige Macht ist mit den Tätern verbunden.",
+        "Die zuständigen Behörden glauben nur Tontos Aussage.",
+        "Der Täter hat den Ort bereits ohne erkennbare Spur verlassen.",
+        "Sein eigener Bruder hatte den Überfall allein vorbereitet."
+      ],
+      "feedback": [
+        "Korruption verhindert die erwartete gesetzliche Hilfe.",
+        "Die Institutionen sind in die Verbrechen verstrickt; bloßes Misstrauen gegen John erklärt den Bruch nicht.",
+        "Entscheidend ist die korrupte Macht, nicht nur die Entfernung des Täters.",
+        "Die Verschwörung verbindet andere Machtträger; Johns Bruder ist nicht ihr alleiniger Urheber."
+      ],
+      "short": "Korruption verhindert die erwartete gesetzliche Hilfe.",
+      "context": "John Reid (Armie Hammer) erwartet zunächst, dass die zuständige Macht gegen Verbrechen vorgeht. Verbindungen zwischen dieser Macht und seinen Gegnern erschüttern die Erwartung. Sein Konflikt betrifft deshalb mehr als fehlenden Mut: Er muss entscheiden, wie Gerechtigkeit verfolgt werden kann, wenn offizielle Verfahren den Tätern dienen.",
+      "anchor": "Die Verbindung von Amt und Verbrechen untergräbt Johns Vertrauen in den üblichen Weg.",
+      "interest": "Erklärt die moralische Veränderung hinter dem Abenteuer.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Erzählperspektive rahmt das Abenteuer in @?",
+      "answers": [
+        "Der alte Tonto erzählt einem Jungen von früher.",
+        "John führt während jeder Szene ein Gerichtstagebuch.",
+        "Eine Zeitung veröffentlicht laufend neue Zeugenaussagen.",
+        "Der erwachsene Sohn des Bahnbesitzers untersucht den Fall."
+      ],
+      "feedback": [
+        "Ein alter Tonto führt durch die Rückschau.",
+        "Ein durchgehendes Gerichtstagebuch bildet nicht den Rahmen.",
+        "Zeitungszeugenaussagen sind nicht die Rahmenhandlung.",
+        "Ein Unternehmersohn ist nicht der Erzähler."
+      ],
+      "short": "Ein alter Tonto führt durch die Rückschau.",
+      "context": "Der alte Tonto (Johnny Depp) erzählt einem Jungen (Mason Cook) von den früheren Ereignissen. Die Rahmenhandlung verleiht der Geschichte eine erkennbare erzählende Person. Das Publikum hört das Abenteuer somit als Rückblick, in dem Erinnerung, Selbstbild und die Weitergabe einer Legende zusammenkommen.",
+      "anchor": "Ein alter Beteiligter vermittelt das Abenteuer als erinnerte Legende.",
+      "interest": "Erklärt die Bedeutung der Rahmenhandlung.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Gabe verbindet Tontos Kindheit in @ mit seiner späteren Schuld gegenüber seinem Stamm?",
+      "answers": [
+        "Eine Taschenuhr für den Hinweis auf Silber",
+        "Ein Gewehr für die Freilassung eines Gefangenen",
+        "Ein Pferd für die Rückgabe gestohlener Vorräte",
+        "Eine Landurkunde für die Führung durch eine Schlucht"
+      ],
+      "feedback": [
+        "Er erhielt eine Uhr, nachdem er die Silberstelle verraten hatte.",
+        "Ein Gefangenenaustausch gegen ein Gewehr ist nicht diese Vorgeschichte.",
+        "Ein Pferdetausch um Vorräte erklärt seine Schuld nicht.",
+        "Eine Landurkunde war nicht seine Belohnung."
+      ],
+      "short": "Er erhielt eine Uhr, nachdem er die Silberstelle verraten hatte.",
+      "context": "Als Kind erhielt Tonto eine Taschenuhr für den Hinweis auf Silber. Die Männer, die von dem Wissen profitierten, vernichteten anschließend seinen Stamm. Der kleine persönliche Gewinn steht so einer gewaltigen Folge gegenüber. Tontos späteres Handeln trägt die Last eines Tauschs, dessen Bedeutung er damals nicht überblickte.",
+      "anchor": "Die kleine Uhr erinnert an den Hinweis, der den Tätern den Zugang zum Silber gab.",
+      "interest": "Verbindet das Erinnerungsobjekt mit der persönlichen Schuld.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, achtzig Jahre nach dem Jahr 1933 seiner Rahmenhandlung?",
+      "answers": [
+        "2013",
+        "2003",
+        "2008",
+        "2018"
+      ],
+      "feedback": [
+        "2013 liegt achtzig Jahre nach 1933.",
+        "2003 liegt siebzig Jahre danach.",
+        "2008 liegt fünfundsiebzig Jahre danach.",
+        "2018 liegt fünfundachtzig Jahre danach."
+      ],
+      "short": "2013 liegt achtzig Jahre nach 1933.",
+      "context": "Die Rahmenhandlung versetzt den alten Tonto (Johnny Depp) in das Jahr 1933. Die Kinoadaption erschien 2013, achtzig Jahre später. Der doppelte Zeitabstand ist hilfreich: Innerhalb des Films erinnert sich Tonto an den Westen, während das Publikum eine wesentlich später hergestellte Bearbeitung sieht.",
+      "anchor": "1933 erzählt Tonto; 2013 erscheint die Bearbeitung dieser erzählten Legende.",
+      "interest": "Verknüpft Veröffentlichung und konkreten Erzählrahmen.",
+      "sources": [
+        "kritik",
+        "disney"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Kinoadaption von @ aus dem Jahr 2013 Regie?",
+      "answers": [
+        "Gore Verbinski",
+        "Jon Favreau",
+        "Andrew Stanton",
+        "Rob Marshall"
+      ],
+      "feedback": [
+        "Verbinski inszenierte diese Fassung.",
+        "Favreau führte hier nicht Regie.",
+        "Stanton führte hier nicht Regie.",
+        "Marshall führte hier nicht Regie."
+      ],
+      "short": "Verbinski inszenierte diese Fassung.",
+      "context": "Gore Verbinski inszenierte die Kinoadaption nach dem Drehbuch von Justin Haythe, Ted Elliott und Terry Rossio. Die Filmcredits trennen damit Inszenierung und Schreiben. Der Wechsel zwischen der Begegnung mit dem alten Tonto (Johnny Depp) und dem großen Westernabenteuer gibt der Regie zwei unterschiedliche zeitliche Räume zu verbinden.",
+      "anchor": "Verbinski verbindet den Rückblick des alten Tonto mit dem erzählten Western.",
+      "interest": "Verbindet den Credit mit der zweistufigen Erzählung.",
+      "sources": [
+        "disney"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "rank": 222,
+  "titleDe": "Bound – Gefesselt",
+  "originalTitle": "Bound",
+  "year": 1996,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Ein Diebstahlsplan lebt von Beobachtung und Beziehungen; eigenständiger früher Film der Wachowskis.",
+  "directors": [
+    "Lana Wachowski",
+    "Lilly Wachowski"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Festivalvorführung in Venedig 1996, anschließend US-Kinostart; heutige Namen des vollständigen Regieteams nach den aktualisierten Credits.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Bound_(1996_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/33670-bound",
+      "supports": "Vollständige aktuelle Regie- und Drehbuchcredits, Besetzung, Kameracredit, Debüt und Jahr."
+    },
+    "museum": {
+      "url": "https://movingimage.org/wp-content/uploads/2024/05/pressrelease-seeitbig-90s-20240516.pdf",
+      "supports": "Bound 1996, drei Jahre vor The Matrix; Figuren und Regieteam."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Bound_%E2%80%93_Gefesselt",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Arbeit führt Corky (Gina Gershon) in @ in die Nachbarwohnung?",
+      "answers": [
+        "Sie renoviert sie als Handwerkerin",
+        "Sie bewertet sie als Maklerin",
+        "Sie bewacht sie als Polizistin",
+        "Sie fotografiert sie für eine Zeitung"
+      ],
+      "feedback": [
+        "Corky arbeitet als Handwerkerin an der Renovierung.",
+        "Die Wohnung wird nicht durch ihre Tätigkeit als Maklerin zum Treffpunkt.",
+        "Corky ist eine ehemalige Gefangene, keine diensthabende Polizistin.",
+        "Eine journalistische Fotoreportage begründet ihren Aufenthalt nicht."
+      ],
+      "short": "Corky arbeitet als Handwerkerin an der Renovierung.",
+      "context": "Die Renovierung bringt Corky (Gina Gershon) neben das Paar Violet (Jennifer Tilly) und Caesar (Joe Pantoliano). Dadurch entstehen räumliche Nähe, eine Liebesbeziehung und schließlich der Zugriff auf das Geld. Eine alltägliche Arbeit führt so unmittelbar in die abgeschlossene Welt der Mafiafinanzen.",
+      "anchor": "Die Renovierung öffnet Corky den Zugang zur Nachbarwohnung.",
+      "interest": "Die Frage verbindet Ausgangssituation und späteren Überfallplan.",
+      "sources": [
+        "wiki",
+        "de",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was wollen Violet (Jennifer Tilly) und Corky (Gina Gershon) stehlen?",
+      "answers": [
+        "Zwei Millionen Dollar der Mafia",
+        "Diamanten aus Caesars Schließfach",
+        "Die Bücher eines illegalen Casinos",
+        "Schmuck aus Ginos Privatsammlung"
+      ],
+      "feedback": [
+        "Ihr Plan gilt den zwei Millionen Dollar in Caesars Wohnung.",
+        "Der konkrete Beuteplan betrifft Bargeld, keine Diamanten.",
+        "Buchführung könnte die Mafia belasten, ist aber nicht ihre Beute.",
+        "Eine Schmucksammlung spielt in ihrem Diebstahlplan keine Rolle."
+      ],
+      "short": "Ihr Plan gilt den zwei Millionen Dollar in Caesars Wohnung.",
+      "context": "Caesar (Joe Pantoliano) verwahrt das Geld, das aus einem gewaltsam erledigten Mafiafall stammt. Violet (Jennifer Tilly) will mit Corky (Gina Gershon) zugreifen und Caesar als Verantwortlichen zurücklassen. Der Gewinn soll deshalb zugleich einen Ausweg aus ihrer Beziehung und aus seinem Umfeld finanzieren.",
+      "anchor": "Mafiabargeld soll Violets gemeinsamen Ausbruch mit Corky bezahlen.",
+      "interest": "Das materielle Ziel ist eng mit einem persönlichen Befreiungsplan verbunden.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was tut Caesar (Joe Pantoliano) mit den blutigen Geldscheinen?",
+      "answers": [
+        "Er wäscht, trocknet und bügelt sie",
+        "Er verbrennt sie als Beweisvernichtung",
+        "Er tauscht sie sofort bei einer Bank",
+        "Er vergräbt sie in einem verschlossenen Koffer"
+      ],
+      "feedback": [
+        "Caesar reinigt das Bargeld tatsächlich mit Wasser und Bügeleisen.",
+        "Er vernichtet die Geldscheine nicht; die Mafia erwartet ihre Rückgabe.",
+        "Eine Banktransaktion ersetzt die sichtbare Reinigung nicht.",
+        "Das Geld bleibt in der Wohnung für den geplanten Zugriff."
+      ],
+      "short": "Caesar reinigt das Bargeld tatsächlich mit Wasser und Bügeleisen.",
+      "context": "Die Geldscheine tragen Spuren der gewaltsamen Rückforderung. Caesar (Joe Pantoliano) behandelt sie anschließend wie verschmutzte Wäsche. Die Szene gibt dem Begriff Geldwäsche eine buchstäbliche Form. Zugleich macht das Trocknen und Ordnen des Bargeldes dessen vorübergehende Lagerung sichtbar, auf die der Diebstahlplan angewiesen ist.",
+      "anchor": "Caesars Geldwäsche ist als körperliche Arbeit zu sehen.",
+      "interest": "Das anschauliche Detail verbindet Gangsterökonomie und schwarzen Humor.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche erwartete Reaktion Caesars scheitert nach dem Diebstahl?",
+      "answers": [
+        "Er sollte aus Angst vor der Mafia fliehen",
+        "Er sollte freiwillig zur Polizei gehen",
+        "Er sollte Corky als Partnerin einstellen",
+        "Er sollte die fehlende Summe selbst ersetzen"
+      ],
+      "feedback": [
+        "Die Frauen rechnen mit seiner Flucht; Caesar bleibt und setzt sich zur Wehr.",
+        "Eine freiwillige Anzeige gehört nicht zu ihrem Kalkül.",
+        "Der Plan verlangt keinen neuen Arbeitsvertrag für Corky.",
+        "Die Summe kann Caesar nicht einfach aus eigenen Mitteln ersetzen."
+      ],
+      "short": "Die Frauen rechnen mit seiner Flucht; Caesar bleibt und setzt sich zur Wehr.",
+      "context": "Violet (Jennifer Tilly) und Corky (Gina Gershon) wollen den Verdacht auf Johnnie (Christopher Meloni) lenken. Caesar (Joe Pantoliano) soll sich bedroht fühlen und verschwinden. Er reagiert jedoch mit Gewalt statt mit Flucht. Gerade diese Fehleinschätzung verwandelt den scheinbar kontrollierten Diebstahl in eine gefährliche Kette improvisierter Entscheidungen.",
+      "anchor": "Der Plan scheitert zunächst an Caesars Weigerung zu fliehen.",
+      "interest": "Die Wendung zeigt, warum ein sauberer Plan an seiner Figurenannahme zerbrechen kann.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie halten die Frauen Mickey (John P. Ryan) zunächst von einer Durchsuchung ab?",
+      "answers": [
+        "Ein Anruf täuscht Ginos Krankenhausaufenthalt vor",
+        "Ein Brandalarm räumt das ganze Haus",
+        "Ein Polizeieinsatz blockiert die Wohnung",
+        "Eine gefälschte Überweisung erklärt das fehlende Geld"
+      ],
+      "feedback": [
+        "Violet benutzt einen Anruf, der Gino nach einem Unfall im Krankenhaus verortet.",
+        "Ein Hausalarm ist nicht die Ablenkung dieser Szene.",
+        "Die Frauen organisieren hier keinen Polizeieinsatz.",
+        "Eine Überweisung erklärt nicht den behaupteten Aufenthaltsort Ginos."
+      ],
+      "short": "Violet benutzt einen Anruf, der Gino nach einem Unfall im Krankenhaus verortet.",
+      "context": "Mickey (John P. Ryan) will wissen, warum Gino (Richard C. Sarafian) nicht erscheint. Violet (Jennifer Tilly) benutzt Johnnies Telefon, um die Nachricht eines angeblichen Unfalls zu erzeugen. Die Täuschung verschafft Zeit, während die Leichen verborgen bleiben. Ein vertrautes Kommunikationsmittel wird so zum Werkzeug eines improvisierten Alibis.",
+      "anchor": "Der fingierte Krankenhausanruf überbrückt das Ausbleiben Ginos.",
+      "interest": "Die Szene verdeutlicht eine konkrete Täuschung innerhalb des eskalierenden Plans.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entscheidung Violets (Jennifer Tilly) löst den letzten Konflikt mit Caesar?",
+      "answers": [
+        "Sie erschießt ihn, als er ihr die Flucht verweigert",
+        "Sie übergibt Corky an die Gangster",
+        "Sie lässt beide allein und geht zur Polizei",
+        "Sie gibt ihm das Geld und kehrt zu ihm zurück"
+      ],
+      "feedback": [
+        "Violet schießt auf Caesar und entscheidet sich für ihre gemeinsame Zukunft mit Corky.",
+        "Sie verrät Corky nicht an die Mafia.",
+        "Sie beendet die Konfrontation nicht durch eine eigene Flucht zur Polizei.",
+        "Eine Rückkehr zu Caesar widerspricht ihrer endgültigen Entscheidung."
+      ],
+      "short": "Violet schießt auf Caesar und entscheidet sich für ihre gemeinsame Zukunft mit Corky.",
+      "context": "Caesar (Joe Pantoliano) glaubt im letzten Machtkampf weiterhin, Violet (Jennifer Tilly) werde sich ihm unterordnen. Ihr Schuss widerlegt diese Annahme. Anschließend kann sie die verbliebenen Gangster täuschen und mit Corky (Gina Gershon) abreisen. Der Schluss erfüllt den Ausbruchsplan erst, nachdem die beiden Frauen seine fehlgeschlagenen Zwischenschritte überstanden haben.",
+      "anchor": "Violets Schuss beendet Caesars Anspruch auf Kontrolle.",
+      "interest": "Der Schluss verbindet den Coup mit ihrer eigenen Entscheidung über die Beziehung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1996",
+        "1993",
+        "1990",
+        "1998"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1996.",
+        "1993 liegt drei Jahre vor der ersten Veröffentlichung von 1996.",
+        "1990 liegt sechs Jahre vor der ersten Veröffentlichung von 1996.",
+        "1998 ist ein späteres Jahr als das belegte erste Filmjahr 1996."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1996.",
+      "context": "Bound kam 1996 heraus, drei Jahre vor The Matrix von 1999. Schon das Debüt wurde von Lana und Lilly Wachowski gemeinsam geschrieben und inszeniert. Der spätere Science-Fiction-Erfolg änderte den Maßstab ihrer Produktionen, doch das frühe Werk zeigt bereits eine genau geplante Verbindung von Blickführung, Täuschung und Figurenallianzen.",
+      "anchor": "Bound 1996 → The Matrix 1999: drei Jahre.",
+      "interest": "Die Verbindung macht den frühen Gangsterfilm als Ausgangspunkt einer späteren Regiekarriere merkbar.",
+      "sources": [
+        "wiki",
+        "criterion",
+        "museum"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Lana Wachowski und Lilly Wachowski",
+        "Joel Coen und Ethan Coen",
+        "Albert Hughes und Allen Hughes",
+        "Scott McGehee und David Siegel"
+      ],
+      "feedback": [
+        "Lana Wachowski und Lilly Wachowski führten bei diesem Film Regie.",
+        "Joel Coen und Ethan Coen haben diesen Film nicht inszeniert; der Regiecredit lautet Lana Wachowski und Lilly Wachowski.",
+        "Albert Hughes und Allen Hughes haben diesen Film nicht inszeniert; der Regiecredit lautet Lana Wachowski und Lilly Wachowski.",
+        "Scott McGehee und David Siegel haben diesen Film nicht inszeniert; der Regiecredit lautet Lana Wachowski und Lilly Wachowski."
+      ],
+      "short": "Lana Wachowski und Lilly Wachowski führten bei diesem Film Regie.",
+      "context": "Lana und Lilly Wachowski führten gemeinsam Regie und schrieben das Drehbuch. Die ursprüngliche Namensform in den damaligen Credits wurde in aktuellen Restaurierungen geändert; es bleiben dieselben zwei Filmschaffenden. Bill Pope fotografierte das Debüt. Corky (Gina Gershon) und Violet (Jennifer Tilly) bilden dessen entscheidende Allianz gegen das männlich dominierte Gangstermilieu.",
+      "anchor": "Lana und Lilly Wachowski verantworten gemeinsam Drehbuch und Regie.",
+      "interest": "Vollständige Credits bewahren die Zusammenarbeit hinter dem Langfilmdebüt.",
+      "sources": [
+        "wiki",
+        "criterion",
+        "museum"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "rank": 75,
+  "titleDe": "Jack and the Giants",
+  "originalTitle": "Jack the Giant Slayer",
+  "year": 2013,
+  "genre": "Fantasy",
+  "familiarity": 3,
+  "directors": [
+    "Bryan Singer"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Hollywood-Premiere am 26. Februar 2013; US-Kinostart am 1. März 2013.",
+  "familiarity_reason": "Die große Märchenproduktion ist im Fantasy-Publikum bekannt, besitzt aber geringere Alltagspräsenz als die ursprünglichen Jack-Märchen; Bekanntheit 3.",
+  "sources": {
+    "studio": "https://www.legendary.com/film/jackthegiantslayer/",
+    "handlung": "https://en.wikipedia.org/wiki/Jack_the_Giant_Slayer",
+    "kritik": "https://www.rogerebert.com/reviews/jack-the-giant-slayer-2013"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Verbindung zwischen den Welten entsteht in @ durch die magischen Bohnen?",
+      "answers": [
+        "Eine riesige Bohnenranke bis zum Reich der Riesen",
+        "Eine Brücke aus Eis über das Meer",
+        "Ein unterirdischer Gang zum Königspalast",
+        "Ein Tor im Spiegel der Prinzessin"
+      ],
+      "feedback": [
+        "Die Ranke verbindet das Land der Menschen mit Gantua.",
+        "Eine Eisbrücke führt nicht zu den Riesen.",
+        "Der Zugang liegt in der Höhe, nicht unter dem Palast.",
+        "Ein Spiegel ist nicht der Übergang zwischen den Welten."
+      ],
+      "short": "Die Ranke verbindet das Land der Menschen mit Gantua.",
+      "context": "Jack (Nicholas Hoult) öffnet unwissentlich einen Weg zu den Riesen. Die ungeheure Ranke ermöglicht sowohl eine Rettungsreise nach oben als auch eine Invasion nach unten. Ein märchenhaftes Wachstumswunder besitzt damit zwei gegensätzliche Folgen, je nachdem, wer die Verbindung nutzt.",
+      "anchor": "Die Ranke ist zugleich Rettungsweg und Invasionsweg.",
+      "interest": "Die räumliche Grundidee erklärt beide Bewegungen der Handlung.",
+      "sources": [
+        "studio",
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wen soll Jacks Reise in das Riesenreich in @ retten?",
+      "answers": [
+        "Die Prinzessin Isabelle",
+        "Seinen verschollenen Vater",
+        "Die Königin von Gantua",
+        "Seinen entführten Bruder"
+      ],
+      "feedback": [
+        "Isabelle wird mit Jacks Haus nach oben getragen.",
+        "Sein Vater ist nicht der Gesuchte dieser Reise.",
+        "Eine Riesenkönigin wird nicht befreit.",
+        "Ein Bruder Jacks bildet nicht den Rettungsauftrag."
+      ],
+      "short": "Isabelle wird mit Jacks Haus nach oben getragen.",
+      "context": "Isabelle (Eleanor Tomlinson) gerät mit Jacks (Nicholas Hoult) Haus in die Höhe. Ihre Rettung bringt ihn in eine Gruppe erfahrener königlicher Kämpfer. Sein Eintritt ins Abenteuer hängt deshalb an einem konkreten Menschen, während die Reise zugleich einen alten Konflikt zwischen ganzen Reichen wieder öffnet.",
+      "anchor": "Die verschwundene Prinzessin führt den Bauernjungen ins Riesenreich.",
+      "interest": "Der Rettungsauftrag verbindet persönlichen Anlass und größeren Krieg.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum warnt der Mönch Jack in @ davor, die Bohnen nass werden zu lassen?",
+      "answers": [
+        "Wasser löst ihr unkontrolliertes Wachstum aus",
+        "Wasser verwandelt sie in giftige Steine",
+        "Wasser verrät ihren Standort an die Riesen",
+        "Wasser löscht die Kraft der magischen Krone"
+      ],
+      "feedback": [
+        "Eine nass gewordene Bohne wächst zur riesigen Ranke.",
+        "Die Bohnen werden nicht zu Giftsteinen.",
+        "Sie senden kein beschriebenes Ortungssignal.",
+        "Die Wirkung betrifft die Bohne, nicht die Krone."
+      ],
+      "short": "Eine nass gewordene Bohne wächst zur riesigen Ranke.",
+      "context": "Jack (Nicholas Hoult) erhält eine klare Warnung, deren Bedeutung er noch nicht kennt. Regenwasser aktiviert später eine verlorene Bohne in seinem Haus. Der Aufbruch entsteht dadurch aus dem Zusammenwirken von unscheinbarem Gegenstand, konkreter Regel und zufälliger Umgebung.",
+      "anchor": "Regenwasser aktiviert die verlorene Bohne im Haus.",
+      "interest": "Eine frühe Warnung erhält später eine unmittelbar sichtbare Wirkung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Macht verleiht die Krone in @ ihrem Träger?",
+      "answers": [
+        "Er kann den Riesen Befehle erteilen",
+        "Er kann ohne Flügel durch die Luft fliegen",
+        "Er kann jede Bohnenranke unsichtbar machen",
+        "Er kann die Größe eines Menschen beliebig verändern"
+      ],
+      "feedback": [
+        "Die Krone zwingt die Riesen zum Gehorsam.",
+        "Flugfähigkeit erhält der Träger dadurch nicht.",
+        "Sie versteckt die Ranken nicht.",
+        "Ihre Macht besteht nicht in allgemeiner Größenveränderung."
+      ],
+      "short": "Die Krone zwingt die Riesen zum Gehorsam.",
+      "context": "Roderick (Stanley Tucci) will durch die Krone die Riesen beherrschen. Das Artefakt gleicht die körperliche Überlegenheit der Gegner durch Befehlsmacht aus. Der gefährliche Verbündete benötigt deshalb keinen eigenen Sieg im Kampf, sondern den Besitz des Gegenstands, der fremde Gewalt lenken kann.",
+      "anchor": "Die Krone verwandelt überlegene Riesenkraft in gelenkte Gewalt.",
+      "interest": "Ein Artefakt erklärt den Machtplan des menschlichen Gegenspielers.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie besiegt Jack in @ den Riesen Fallon unmittelbar vor dem Verschlungenwerden?",
+      "answers": [
+        "Er wirft die letzte Bohne in dessen Mund",
+        "Er zerbricht die Krone unter dessen Fuß",
+        "Er sticht mit einem spiegelnden Schild nach dessen Augen",
+        "Er verschließt dessen beide Münder mit einem Netz"
+      ],
+      "feedback": [
+        "Die Bohne wächst in Fallon und zerstört ihn von innen.",
+        "Die Krone wird nicht unter seinem Fuß als Tötungsmittel zerbrochen.",
+        "Ein Schildangriff auf die Augen beendet ihn nicht.",
+        "Ein Netz verschließt nicht seine Münder."
+      ],
+      "short": "Die Bohne wächst in Fallon und zerstört ihn von innen.",
+      "context": "Jack (Nicholas Hoult) behält eine Bohne und wirft sie Fallon (Originalstimme und Bewegungsdarstellung Bill Nighy) in den Mund. Das Wachstum, das zunächst die Gefahr geöffnet hat, wird gegen den Gegner verwendet. Die Lösung folgt damit derselben Regel wie der Beginn des Abenteuers.",
+      "anchor": "Die letzte Bohne lässt die ursprüngliche Wachstumsgefahr im Riesen wirken.",
+      "interest": "Ein früh eingeführtes Mittel erhält eine umgekehrte Funktion.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wohin führt der Epilog von @ die magische Krone?",
+      "answers": [
+        "Zu den britischen Kronjuwelen im Tower of London",
+        "In ein Grab unter dem Königspalast von Cloister",
+        "In einen Tempel auf der verbliebenen Bohnenranke",
+        "In Jacks alte Scheune am Rand des Dorfs"
+      ],
+      "feedback": [
+        "Die Filmlegende verbindet die Krone mit St Edward’s Crown im Londoner Tower.",
+        "Der Schluss lässt sie nicht bloß im alten Königsgrab.",
+        "Ein neuer Rankentempel bildet nicht den gegenwärtigen Aufbewahrungsort.",
+        "Jacks Scheune ist nicht das Ziel des Zeitsprungs."
+      ],
+      "short": "Die Filmlegende verbindet die Krone mit St Edward’s Crown im Londoner Tower.",
+      "context": "Der Epilog springt in die Gegenwart und verknüpft die magische Krone mit den britischen Kronjuwelen. Die Legende erscheint dadurch als verborgene Vorgeschichte eines realen Gegenstands. Der Film verlängert seine Fantasiewelt über das märchenhafte Ende hinaus in eine den Zuschauern bekannte Stadt.",
+      "anchor": "Aus der Märchenkrone wird eine verborgene Geschichte der Londoner Kronjuwelen.",
+      "interest": "Der Schluss verbindet fantastische Vergangenheit und gegenwärtigen Ort.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, nachdem der zunächst für 2012 geplante Start für die Effektarbeit verschoben worden war?",
+      "answers": [
+        "2013",
+        "2011",
+        "2014",
+        "2015"
+      ],
+      "feedback": [
+        "Der Film erschien 2013 nach der Verschiebung aus dem vorgesehenen Jahr 2012.",
+        "2011 läge noch vor dem zunächst geplanten Start.",
+        "2014 ist ein Jahr später als die tatsächliche Veröffentlichung.",
+        "2015 liegt zwei Jahre nach dem erschienenen Film."
+      ],
+      "short": "Der Film erschien 2013 nach der Verschiebung aus dem vorgesehenen Jahr 2012.",
+      "context": "Der zunächst für 2012 vorgesehene Start wurde auf 2013 verschoben, wodurch zusätzliche Zeit für die visuellen Effekte entstand. Zwischen Planung und tatsächlichem Erscheinungsjahr liegt damit ein Kalenderjahr. Die Verschiebung passt zu einer Produktion, deren menschliche Figuren mit groß angelegten digitalen Riesendarstellungen zusammenwirken müssen.",
+      "anchor": "2012 geplant, 2013 erschienen: zusätzliche Zeit für die Riesenbilder.",
+      "interest": "Das Jahr wird mit einer konkreten Produktionsentscheidung verbunden.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit seinen langjährigen Mitarbeitern Newton Thomas Sigel und John Ottman?",
+      "answers": [
+        "Bryan Singer",
+        "David Dobkin",
+        "Joe Johnston",
+        "Matthew Vaughn"
+      ],
+      "feedback": [
+        "Bryan Singer führte Regie und arbeitete erneut mit Sigel und Ottman.",
+        "Dobkin war an Entwicklung und Produktion beteiligt, führte aber nicht die fertige Filmregie.",
+        "Johnston ist nicht der Regisseur dieser Produktion.",
+        "Vaughn inszenierte diese Märchenadaption nicht."
+      ],
+      "short": "Bryan Singer führte Regie und arbeitete erneut mit Sigel und Ottman.",
+      "context": "Bryan Singer arbeitete mit Kameramann Newton Thomas Sigel und Cutter John Ottman erneut zusammen. Das Drehbuch stammt von Darren Lemke, Christopher McQuarrie und Dan Studney. Die vertraute Zusammenarbeit im Bild und Schnitt trifft damit auf eine neu kombinierte Handlung aus mehreren Jack-Märchenmotiven.",
+      "anchor": "Singer führt sein vertrautes Kamera- und Schnittteam in eine Jack-Märchenwelt.",
+      "interest": "Die Regiefrage klärt zugleich die Rollen innerhalb der Entwicklung und des Teams.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

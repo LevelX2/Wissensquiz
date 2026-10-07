@@ -1,0 +1,219 @@
+{
+  "rank": 115,
+  "titleDe": "Ritt zum Ox-Bow",
+  "originalTitle": "The Ox-Bow Incident",
+  "year": 1943,
+  "genre": "Western",
+  "familiarity": 4,
+  "directors": [
+    "William A. Wellman"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Erstaufführung am 8. Mai 1943; regulärer US-Verleihstart am 21. Mai 1943 laut AFI.",
+  "familiarity_reason": "Wellmans kurzer Lynchmob-Western ist ein bedeutender Klassiker, sein konkreter Titel und Verlauf sind vor allem einem filmhistorisch interessierten Publikum bekannt; Stufe 4.",
+  "sources": {
+    "afi": "https://catalog.afi.com/Film/607-THE-OX-BOW-INCIDENT",
+    "registry": "https://www.loc.gov/programs/national-film-preservation-board/film-registry/descriptions-and-essays/",
+    "handlung": "https://en.wikipedia.org/wiki/The_Ox-Bow_Incident",
+    "tcm": {
+      "url": "https://www.tcm.com/articles/93512/the-ox-bow-incident",
+      "supports": "Gelesener Originalartikel: Wellmans Regie, Mobgeschichte und Produktionswiderstand; seine ungenaue Zwischenformulierung mit zwei Verdächtigen wird nicht übernommen."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was bilden die aufgebrachten Bewohner in @ nach einer angeblichen Mordnachricht?",
+      "answers": [
+        "Eine selbst ernannte Verfolgergruppe",
+        "Eine vom Sheriff geleitete Fahndungsmannschaft",
+        "Eine eingesetzte Untersuchungsgruppe des Gerichts",
+        "Eine von den Gefangenen geforderte Schiedskommission"
+      ],
+      "feedback": [
+        "Die Bewohner ziehen als Verfolger los.",
+        "Die Männer handeln als selbst ernannte Gruppe ohne Sheriffleitung.",
+        "Sie übernehmen Gewalt ohne gerichtlichen Untersuchungsauftrag.",
+        "Die Gefangenen haben diese Gruppe weder gewählt noch angefordert."
+      ],
+      "short": "Die Bewohner ziehen als Verfolger los.",
+      "context": "Die angebliche Mordnachricht bringt Bewohner dazu, als Verfolgergruppe aufzubrechen. Ihre unmittelbare Entschlossenheit ersetzt die geordneten Schritte einer Prüfung. Der Film untersucht damit, wie ein gemeinsam empfundener Verdacht eine Gruppe handlungsfähig macht, während gerade diese gemeinsame Bewegung die notwendige Kontrolle über Schuldfragen verdrängt.",
+      "anchor": "Die Verfolgergruppe macht gemeinsamen Verdacht zur sofortigen Handlung.",
+      "interest": "Erfasst die Ausgangslage der Selbstjustiz.",
+      "sources": [
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Lage entsteht für die drei Männer, die die Gruppe in @ findet?",
+      "answers": [
+        "Sie werden ohne ordentliches Gerichtsverfahren zum Ziel einer Lynchentscheidung.",
+        "Sie erhalten sofort einen freisprechenden Gerichtsbeschluss.",
+        "Sie leiten die Verfolgergruppe als gewählte Richter.",
+        "Sie reisen unbehelligt mit dem Sheriff weiter."
+      ],
+      "feedback": [
+        "Die Gruppe entscheidet außerhalb eines regulären Verfahrens.",
+        "Ein Freispruch liegt nicht vor.",
+        "Die Gefundenen sind keine gewählten Richter.",
+        "Der Sheriff nimmt sie dort nicht einfach mit."
+      ],
+      "short": "Die Gruppe entscheidet außerhalb eines regulären Verfahrens.",
+      "context": "Die drei gefundenen Männer geraten unter den Verdacht der Verfolger. Ein ordentliches Verfahren könnte Behauptungen, Entlastungen und Beweise prüfen. Die Gruppe ersetzt diese Möglichkeit durch eine eigene Entscheidung. Die Bedrohung entsteht deshalb nicht allein aus Irrtum, sondern auch aus der Verweigerung einer verlässlichen Prüfungsordnung.",
+      "anchor": "Die Lynchentscheidung ersetzt die Prüfung, die ein Gerichtsverfahren erst ermöglichen würde.",
+      "interest": "Erklärt den Unterschied zwischen Verdacht und legitimierter Entscheidung.",
+      "sources": [
+        "registry"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was macht Martins Erklärung über die Rinder in @ für die Gruppe leicht angreifbar?",
+      "answers": [
+        "Er hat keinen schriftlichen Kaufbeleg.",
+        "Der Kaufbeleg nennt einen anderen Ort als den gefundenen Herdenplatz.",
+        "Der Kaufbeleg ist unter einem falschen Namen ausgestellt.",
+        "Der Verkäufer bestreitet den Kauf vor allen Anwesenden."
+      ],
+      "feedback": [
+        "Martin kann den Kauf nicht schriftlich belegen.",
+        "Martin kann überhaupt keinen schriftlichen Kaufbeleg vorlegen.",
+        "Das Problem ist das fehlende Dokument und nicht ein falscher Name darauf.",
+        "Der angebliche Verkäufer ist nicht als widersprechender Zeuge vor Ort."
+      ],
+      "short": "Martin kann den Kauf nicht schriftlich belegen.",
+      "context": "Donald Martin (Dana Andrews) sagt, er habe die Rinder gekauft, besitzt aber keinen schriftlichen Beleg. Die fehlende Absicherung wird zum Anlass, seine Erklärung zu verwerfen. Der Film zeigt daran, wie eine Lücke im Nachweis unter Gruppendruck leicht als fertiger Beweis der Schuld behandelt werden kann.",
+      "anchor": "Ein fehlender Kaufbeleg wird voreilig zur angeblichen Gewissheit über Schuld.",
+      "interest": "Erklärt die fehlerhafte Beweislogik der Gruppe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welches Ergebnis hat in @ die Abstimmung über ein reguläres Verfahren statt einer Hinrichtung?",
+      "answers": [
+        "Nur sieben stimmen für ein Gerichtsverfahren.",
+        "Die Gruppe beschließt mit knapper Mehrheit ein Verfahren.",
+        "Beide Seiten stimmen gleich stark und vertagen die Entscheidung.",
+        "Die Gefangenen werden nach dem Votum ohne Bedingungen freigelassen."
+      ],
+      "feedback": [
+        "Sieben stellen sich gegen die sofortige Hinrichtung.",
+        "Die Minderheit von sieben kann die Hinrichtung nicht verhindern.",
+        "Das Votum ergibt keine rettende Gleichverteilung.",
+        "Die Abstimmung führt zur tödlichen Entscheidung, nicht zur Freilassung."
+      ],
+      "short": "Sieben stellen sich gegen die sofortige Hinrichtung.",
+      "context": "Nur sieben Angehörige der Gruppe stimmen für ein Verfahren. Die Minderheit sieht, dass die offene Schuldfrage geordnet geprüft werden müsste. Die Mehrheit kann diese Einsicht überstimmen, aber dadurch nicht in Wahrheit verwandeln. Der Film trennt damit die Zahl der Zustimmenden von der Gültigkeit ihrer Entscheidung.",
+      "anchor": "Eine Mehrheit für Gewalt macht eine ungeprüfte Schuldbehauptung nicht wahr.",
+      "interest": "Erklärt die Grenze des Mehrheitsentscheids bei Schuldfragen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Nachricht macht nach der Hinrichtung in @ die Katastrophe unbestreitbar?",
+      "answers": [
+        "Der angeblich ermordete Rancher lebt, die wirklichen Täter sind gefasst.",
+        "Der Sheriff findet vor der Tat unterschriebene Kaufquittungen.",
+        "Ein weiterer Gefangener gesteht allein die Viehdiebstähle.",
+        "Die Tatwaffe wird ohne Übereinstimmung mit dem Opfer gefunden."
+      ],
+      "feedback": [
+        "Kinkaid lebt; andere Täter wurden festgenommen.",
+        "Die Nachricht betrifft vor allem den lebenden vermeintlich Ermordeten und die gefassten Täter.",
+        "Die sichere Widerlegung entsteht nicht nur durch ein späteres Einzelgeständnis.",
+        "Dass der angeblich Ermordete lebt, entzieht der Lynchentscheidung ihre Grundlage."
+      ],
+      "short": "Kinkaid lebt; andere Täter wurden festgenommen.",
+      "context": "Der Sheriff (Willard Robertson) berichtet, dass Kinkaid lebt und die wirklichen Täter gefasst sind. Die Nachricht kommt zu spät für die Hingerichteten. Sie macht sichtbar, was vorschnelle Gewalt nicht rückgängig machen kann: Eine spätere richtige Erkenntnis stellt das Leben der fälschlich Verurteilten nicht wieder her.",
+      "anchor": "Die richtige Nachricht erreicht die Gruppe erst nach dem unwiderruflichen Töten.",
+      "interest": "Erklärt die zeitliche Ursache der tragischen Unumkehrbarkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Funktion erhält Martins Brief an seine Frau im Schluss von @?",
+      "answers": [
+        "Er spricht nach dem Tod des Verfassers gegen die vollzogene Selbstjustiz.",
+        "Er stellt die Hinrichtung als notwendigen Schutz der Stadt dar.",
+        "Er fordert persönliche Rache an den Beteiligten.",
+        "Er bittet die Witwe nur um die Regelung der Schulden."
+      ],
+      "feedback": [
+        "Der Brief hält Martins Stimme und den Anspruch auf Gerechtigkeit fest.",
+        "Der Brief hält dem Ort die zerstörte Verantwortung und das fehlende Verfahren vor.",
+        "Er entfaltet Gewissenswirkung statt einen neuen Racheauftrag.",
+        "Seine moralische Aussage geht über private finanzielle Angelegenheiten hinaus."
+      ],
+      "short": "Der Brief hält Martins Stimme und den Anspruch auf Gerechtigkeit fest.",
+      "context": "Gil Carter (Henry Fonda) liest den Brief Donald Martins (Dana Andrews) vor. Die Stimme des Getöteten erreicht die Beteiligten dadurch erst nach ihrer Tat. AFI beschreibt, dass der Film den Brief ausdrücklich ausformuliert. Die Worte führen das versäumte Nachdenken als späte, nicht mehr rettende Mahnung vor.",
+      "anchor": "Martins Brief erreicht das Gewissen der Beteiligten, nachdem er ihn nicht mehr retten kann.",
+      "interest": "Erklärt die verspätete Stimme des Opfers.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, drei Jahre nach Walter Van Tilburg Clarks Roman von 1940?",
+      "answers": [
+        "1943",
+        "1941",
+        "1942",
+        "1945"
+      ],
+      "feedback": [
+        "1943 liegt drei Jahre nach der Vorlage.",
+        "1941 liegt ein Jahr danach.",
+        "1942 liegt zwei Jahre danach.",
+        "1945 liegt fünf Jahre danach."
+      ],
+      "short": "1943 liegt drei Jahre nach der Vorlage.",
+      "context": "Walter Van Tilburg Clarks Roman The Ox-Bow Incident erschien 1940. Die Filmadaption kam 1943 heraus, drei Jahre später. Der kurze Abstand verbindet die literarische Untersuchung eines Lynchmobs mit ihrer Kinoform. AFI dokumentiert zugleich, wie die Darstellung der Gewalt bei der Produktionsfreigabe diskutiert wurde.",
+      "anchor": "1940 die Romanvorlage, 1943 die Filmadaption: drei Jahre Abstand.",
+      "interest": "Verankert das Jahr im konkreten literarischen Ausgangspunkt.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "William A. Wellman",
+        "John Ford",
+        "William Wyler",
+        "Raoul Walsh"
+      ],
+      "feedback": [
+        "Wellman inszenierte den Film.",
+        "Ford führte hier nicht Regie.",
+        "Wyler führte hier nicht Regie.",
+        "Walsh führte hier nicht Regie."
+      ],
+      "short": "Wellman inszenierte den Film.",
+      "context": "William A. Wellman führte Regie. Die Library of Congress beschreibt den Film als konzentrierte Untersuchung von Gruppendynamik und Selbstjustiz. Die Inszenierung muss daher nicht allein Täterhandlungen zeigen: Sie hält die verschiedenen Reaktionen der Beteiligten zusammen, aus denen die gemeinsam begangene Gewalt erst entsteht.",
+      "anchor": "Wellman macht die Reaktionen innerhalb der Gruppe zum Gegenstand des Westerns.",
+      "interest": "Verbindet den Credit mit der konkreten dramatischen Konzentration.",
+      "sources": [
+        "tcm"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

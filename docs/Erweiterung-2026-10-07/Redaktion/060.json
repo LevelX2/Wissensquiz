@@ -1,0 +1,222 @@
+{
+  "rank": 60,
+  "titleDe": "21 Gramm",
+  "originalTitle": "21 Grams",
+  "year": 2003,
+  "genre": "Drama",
+  "familiarity": 3,
+  "directors": [
+    "Alejandro González Iñárritu"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Weltpremiere am 5. September 2003 im Wettbewerb von Venedig; US-Kinostart am 21. November 2003.",
+  "familiarity_reason": "Sean Penn, Naomi Watts und Benicio del Toro machen das Ensemble gut erkennbar; die verschachtelte Erzählung bleibt besonders im anspruchsvollen Filmkontext präsent, Bekanntheit 3.",
+  "sources": {
+    "film": "https://www.focusfeatures.com/21_grams",
+    "rueckblick": "https://www.focusfeatures.com/article/fifteenth-anniversary_-irritu_21-grams",
+    "handlung": "https://en.wikipedia.org/wiki/21_Grams",
+    "technik": "https://en.wikipedia.org/wiki/21_Grams#Cinematic_technique",
+    "kamera": {
+      "url": "https://theasc.com/magazine/dec03/cover/",
+      "supports": "John Calhouns Gespräch mit Rodrigo Prieto: unterschiedliche Farbwelten, Filmstocks und gröberes Korn bei wachsender Unruhe; durch Suchindex gelesener Fachartikel."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche lebensrettende Behandlung benötigt Paul am Anfang von @?",
+      "answers": [
+        "Eine Herztransplantation",
+        "Eine Nierentransplantation",
+        "Eine Knochenmarktransplantation",
+        "Eine Lebertransplantation"
+      ],
+      "feedback": [
+        "Paul leidet an einer lebensbedrohlichen Herzerkrankung.",
+        "Sein zentrales Organproblem betrifft nicht die Nieren.",
+        "Eine Knochenmarkspende verbindet die Figuren nicht.",
+        "Eine Lebertransplantation ist nicht die Behandlung."
+      ],
+      "short": "Paul leidet an einer lebensbedrohlichen Herzerkrankung.",
+      "context": "Paul (Sean Penn) ist Mathematikprofessor und erwartet ein Spenderherz. Seine mögliche neue Lebenszeit hängt damit von einem anderen Tod ab. Der Film verbindet diese körperliche Abhängigkeit mit einer späteren persönlichen Beziehung und lässt einen medizinischen Vorgang zur Verknüpfung dreier Lebensläufe werden.",
+      "anchor": "Pauls neues Leben benötigt das Herz eines verstorbenen Menschen.",
+      "interest": "Der medizinische Ausgangspunkt besitzt eine direkte erzählerische Verbindung.",
+      "sources": [
+        "film",
+        "rueckblick"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Ereignis verbindet Jack mit Cristinas zerstörtem Familienleben?",
+      "answers": [
+        "Er überfährt ihren Mann und ihre beiden Kinder.",
+        "Er fährt das Auto, in dem Cristinas Familie verunglückt.",
+        "Er überlässt ihrem Mann ein Auto mit defekten Bremsen.",
+        "Er verursacht einen weiteren Wagen, der ihre Familie trifft."
+      ],
+      "feedback": [
+        "Jacks Unfall tötet Cristinas Mann und Kinder.",
+        "Jack überfährt die drei selbst; sie sind keine Mitfahrer seines Autos.",
+        "Es handelt sich um einen von ihm verursachten Zusammenstoß und nicht einen Fahrzeugverleih.",
+        "Sein eigener Wagen erfasst die Familie, nicht nur ein von ihm ausgelöster weiterer Fahrer."
+      ],
+      "short": "Jacks Unfall tötet Cristinas Mann und Kinder.",
+      "context": "Jack (Benicio del Toro) versucht nach einer kriminellen Vergangenheit einen neuen religiösen Halt zu finden. Ein Verkehrsunfall macht ihn dennoch zum Verursacher eines verheerenden Verlusts. Cristina (Naomi Watts) und Jack tragen dessen Folgen auf sehr unterschiedliche Weise: als Trauer, als Schuld und als Suche nach einem erträglichen Weiterleben.",
+      "anchor": "Jacks Unfall zerstört Cristinas Familie.",
+      "interest": "Die Verbindung erklärt die gegensätzlichen Perspektiven auf dieselbe Katastrophe.",
+      "sources": [
+        "rueckblick"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum sucht Paul gezielt den Kontakt zu Cristina?",
+      "answers": [
+        "Sein Spenderherz stammt von ihrem verstorbenen Mann.",
+        "Sie war seine Ärztin während der Operation.",
+        "Sie hatte seine Frau um eine Organspende gebeten.",
+        "Sie hatte vor dem Unfall mit ihm studiert."
+      ],
+      "feedback": [
+        "Paul ermittelt die Herkunft seines Herzens und findet die Witwe des Spenders.",
+        "Cristina ist nicht seine behandelnde Ärztin.",
+        "Eine Bitte an Pauls Frau führt ihn nicht zu ihr.",
+        "Ein früheres gemeinsames Studium ist nicht der Zusammenhang."
+      ],
+      "short": "Paul ermittelt die Herkunft seines Herzens und findet die Witwe des Spenders.",
+      "context": "Paul (Sean Penn) will wissen, wem er sein Weiterleben verdankt, und lässt die Herkunft des Herzens ermitteln. Cristina (Naomi Watts) kennt diesen Zusammenhang bei ihrer ersten Begegnung noch nicht. Seine Suche nach Nähe besitzt deshalb eine verborgene Grundlage, die ihre spätere Beziehung zugleich ermöglicht und belastet.",
+      "anchor": "Pauls Spenderherz führt ihn zur Witwe des Spenders.",
+      "interest": "Der Kontakt entsteht aus einer körperlichen Verbindung, die zunächst nur einer kennt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie reagiert Jack zunächst auf seine Schuld am Unfall, obwohl seine Frau ihn schützen will?",
+      "answers": [
+        "Er stellt sich den Behörden.",
+        "Er beschuldigt seine Frau als Fahrerin.",
+        "Er flieht sofort mit der Familie ins Ausland.",
+        "Er bezahlt einen Zeugen für eine falsche Aussage."
+      ],
+      "feedback": [
+        "Jack entscheidet sich, seine Verantwortung öffentlich einzugestehen.",
+        "Er schiebt den Unfall nicht seiner Frau zu.",
+        "Eine gemeinsame Auslandsflucht ist nicht seine erste Entscheidung.",
+        "Er kauft keine entlastende Zeugenaussage."
+      ],
+      "short": "Jack entscheidet sich, seine Verantwortung öffentlich einzugestehen.",
+      "context": "Jacks Frau Marianne (Melissa Leo) möchte die Familie bewahren und drängt zum Verschweigen. Jack (Benicio del Toro) versteht sein Geständnis dagegen als religiöse Pflicht. Die Entscheidung löst die Schuld nicht auf: Selbst eine offizielle Strafe kann ihm die zerstörte Vorstellung von göttlicher Ordnung nicht einfach zurückgeben.",
+      "anchor": "Jack stellt seine Pflicht zum Geständnis über den Schutz durch Schweigen.",
+      "interest": "Die Schuldfrage verbindet Familienbindung und religiösen Anspruch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was tut Paul, als er Jack unter Waffengewalt in eine abgelegene Stelle führt?",
+      "answers": [
+        "Er schießt in den Boden und lässt Jack gehen.",
+        "Er erschießt Jack und bringt die Waffe zu Cristina.",
+        "Er übergibt Jack sofort einer Polizeistreife.",
+        "Er zwingt Jack zu einem schriftlichen Geständnis."
+      ],
+      "feedback": [
+        "Paul kann den geplanten Mord nicht ausführen und gibt nur vor, Jack getötet zu haben.",
+        "Er vollzieht den geplanten Mord gerade nicht.",
+        "Eine sofortige Übergabe an die Polizei findet nicht statt.",
+        "Ein schriftliches Geständnis ist nicht das Ergebnis."
+      ],
+      "short": "Paul kann den geplanten Mord nicht ausführen und gibt nur vor, Jack getötet zu haben.",
+      "context": "Cristina (Naomi Watts) verlangt Vergeltung, und Paul (Sean Penn) versucht, diesen Wunsch zu erfüllen. Vor Jack (Benicio del Toro) scheitert seine Entschlossenheit. Die spätere Lüge über den angeblichen Tod hält den Konflikt aufrecht. Ein geplanter Racheakt lässt sich nicht in die klare Lösung verwandeln, die er versprochen hatte.",
+      "anchor": "Paul inszeniert die Hinrichtung, vollzieht sie aber nicht.",
+      "interest": "Die Szene zeigt die Grenze zwischen Rachewunsch und tatsächlichem Töten.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Bildmerkmale helfen in @, die unterschiedlichen Lebenslagen und Zeitabschnitte zu unterscheiden?",
+      "answers": [
+        "Unterschiedliche Farbstimmungen und wechselndes Filmkorn",
+        "Datierte Kapitelkarten geben alle Zeitsprünge vor.",
+        "Schwarzweiß trennt Rückblenden von der Gegenwart.",
+        "Jeder Erzählstrang erhält ein anderes Bildformat."
+      ],
+      "feedback": [
+        "Farbe und Körnung geben Hinweise innerhalb der verschachtelten Chronologie.",
+        "Der Film erschließt die Zeiten über Montage und Bildgestaltung, nicht über vollständige Datumsansagen.",
+        "Die Zeitebenen werden nicht durch eine starre Schwarzweißregel getrennt.",
+        "Die Erzählstränge werden nicht durch drei wechselnde Bildformate gekennzeichnet."
+      ],
+      "short": "Farbe und Körnung geben Hinweise innerhalb der verschachtelten Chronologie.",
+      "context": "Kameramann Rodrigo Prieto verwendet verschiedene Farbstimmungen und Materialien. Gröberes Korn begleitet zunehmende Unruhe, andere Bildqualitäten markieren stabilere Abschnitte. Die visuelle Gestaltung hilft dadurch, Beziehungen zwischen Fragmenten zu erkennen, obwohl die Montage Ereignisse aus Vergangenheit und Zukunft nicht in ihrer zeitlichen Reihenfolge zeigt.",
+      "anchor": "Farbe und Filmkorn geben Orientierung in den zeitlichen Fragmenten.",
+      "interest": "Die Kamera trägt eine eigene Aufgabe innerhalb der nichtlinearen Erzählung.",
+      "sources": [
+        "kamera"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, ein Jahr nach Iñárritus Beitrag zum Sammelfilm „11’09”01 – September 11“ von 2002?",
+      "answers": [
+        "2003",
+        "2001",
+        "2005",
+        "2006"
+      ],
+      "feedback": [
+        "Auf den Sammelfilm von 2002 folgte 2003 dieser Langfilm.",
+        "2001 liegt vor dem Sammelfilm von 2002.",
+        "2005 ergäbe einen Abstand von drei Jahren.",
+        "2006 läge vier Jahre nach dem Beitrag."
+      ],
+      "short": "Auf den Sammelfilm von 2002 folgte 2003 dieser Langfilm.",
+      "context": "Iñárritu beteiligte sich 2002 an einem internationalen Sammelfilm über die Anschläge vom 11. September. Ein Jahr später erschien 2003 die Geschichte von Verlust, Schuld und Vergeltung. Im Rückblick verband er die private Trauerbewegung des Films mit der größeren gesellschaftlichen Erfahrung von Verlust und Rachebedürfnis.",
+      "anchor": "Sammelfilm 2002, Langfilm 2003: Verlust und Vergeltung bleiben verbunden.",
+      "interest": "Der Zeitanker verknüpft zwei Arbeiten über traumatische Folgen von Gewalt.",
+      "sources": [
+        "rueckblick"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ als seinen ersten englischsprachigen Langfilm?",
+      "answers": [
+        "Alejandro González Iñárritu",
+        "Guillermo Arriaga",
+        "Rodrigo Prieto",
+        "Alfonso Cuarón"
+      ],
+      "feedback": [
+        "Iñárritu inszenierte seinen zweiten Langfilm erstmals auf Englisch.",
+        "Arriaga ist der Drehbuchautor.",
+        "Prieto verantwortete die Bildgestaltung.",
+        "Cuarón führte hier nicht Regie."
+      ],
+      "short": "Iñárritu inszenierte seinen zweiten Langfilm erstmals auf Englisch.",
+      "context": "Nach seinem mexikanischen Debüt „Amores Perros“ arbeitet Iñárritu mit einem englischsprachigen Hauptensemble. Guillermo Arriaga schreibt erneut eine Erzählung über verknüpfte Lebensläufe. Die Sprachänderung geht damit nicht mit einem vollständigen Bruch der Zusammenarbeit einher: Die gemeinsame Beschäftigung mit Zufall, Schuld und Beziehungen wird fortgesetzt.",
+      "anchor": "Iñárritu wechselt die Sprache und setzt die Zusammenarbeit fort.",
+      "interest": "Die konkrete Regieposition verbindet internationale Besetzung mit einer bestehenden kreativen Partnerschaft.",
+      "sources": [
+        "film",
+        "rueckblick"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

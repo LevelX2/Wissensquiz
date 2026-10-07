@@ -1,0 +1,239 @@
+{
+  "rank": 240,
+  "titleDe": "Sleep Tight",
+  "originalTitle": "Mientras duermes",
+  "year": 2011,
+  "genre": "Thriller",
+  "familiarity": 4,
+  "familiarity_reason": "Die Perspektive des Hauswarts zeigt die systematische Untergrabung eines fremden Alltags.",
+  "directors": [
+    "Jaume Balagueró"
+  ],
+  "production_countries": [
+    "Spanien"
+  ],
+  "release_note": "Erste Festivalvorführung beim Fantastic Fest in Austin im September 2011; spanischer Kinostart im Oktober desselben Jahres.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Sleep_Tight_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "studio": {
+      "url": "https://www.filmax.com/distribucion/mientras-duermes/4",
+      "supports": "Regie, Alberto Marinis Drehbuch, Originalbesetzung, spanischer Start 2011 und Handlungsausgangspunkt."
+    },
+    "rec": {
+      "url": "https://www.filmax.com/distribucion/rec/18",
+      "supports": "REC von 2007, gemeinsame Regie Balagueró und Paco Plaza, klaustrophobischer Haus-Schauplatz."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Sleep_Tight",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Tätigkeit verschafft César (Luis Tosar) Zugang zu den Bewohnern?",
+      "answers": [
+        "Er ist Concierge und Hausmeister des Wohnhauses",
+        "Er ist behandelnder Arzt aller Mieter",
+        "Er ist ihr zuständiger Polizeiermittler",
+        "Er ist Eigentümer einer benachbarten Bar"
+      ],
+      "feedback": [
+        "Der Concierge kennt Abläufe und besitzt Zugangsmöglichkeiten im Haus.",
+        "Ein ärztliches Behandlungsverhältnis erklärt seine Position nicht.",
+        "Er hat keine polizeiliche Zuständigkeit für die Mieter.",
+        "Eine Nachbarbar verschafft ihm nicht dieselben Wohnungsschlüssel."
+      ],
+      "short": "Der Concierge kennt Abläufe und besitzt Zugangsmöglichkeiten im Haus.",
+      "context": "César (Luis Tosar) begegnet den Bewohnern als hilfreicher Concierge. Sein Beruf gibt ihm Schlüssel, Kenntnisse und plausible Gründe für seine Anwesenheit. Die Gefahr entsteht deshalb innerhalb einer vertrauten Dienstleistung. Clara (Marta Etura) kennt seine tatsächlichen nächtlichen Handlungen zunächst nicht, obwohl er ihren Alltag bereits systematisch beeinflusst.",
+      "anchor": "Der Concierge missbraucht den beruflich gewährten Zugang zum Privatleben.",
+      "interest": "Der Beruf erklärt die besondere Nähe des Täters zu seinen Opfern.",
+      "sources": [
+        "wiki",
+        "de",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Ziel verfolgt César (Luis Tosar) gegenüber den Bewohnern?",
+      "answers": [
+        "Er will ihre Zufriedenheit zerstören",
+        "Er will sie zum Verkauf des Hauses überzeugen",
+        "Er will alle Mieter für einen Versicherungsfall evakuieren",
+        "Er will die Wohnungsmieten im Auftrag einer Bank eintreiben"
+      ],
+      "feedback": [
+        "Sein eigenes Unglück motiviert die gezielte Zerstörung fremder Lebensfreude.",
+        "Ein Immobilienverkauf ist nicht der Kern seiner Übergriffe.",
+        "Er plant keine schadensbezogene Evakuierung des Hauses.",
+        "Eine Bank gibt ihm keinen Auftrag für dieses Vorgehen."
+      ],
+      "short": "Sein eigenes Unglück motiviert die gezielte Zerstörung fremder Lebensfreude.",
+      "context": "César (Luis Tosar) erlebt selbst keine Freude und versucht deshalb, andere ebenfalls unglücklich zu machen. Clara (Marta Etura) widersteht seinen kleineren Sabotagen durch ihre positive Haltung. Gerade das steigert seine Fixierung. Der Film zeigt so eine Eskalation, die nicht von materieller Bereicherung, sondern vom Wunsch nach Kontrolle fremder Gefühle angetrieben wird.",
+      "anchor": "César sucht Befriedigung darin, Claras Lebensfreude zu brechen.",
+      "interest": "Das Motiv erklärt, weshalb erfolglose kleine Sabotagen zu schwereren Übergriffen führen.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wie verursacht César (Luis Tosar) Claras Hautprobleme?",
+      "answers": [
+        "Er verändert heimlich ihre Pflegeprodukte",
+        "Er ersetzt ihre Allergiemedikamente durch Zucker",
+        "Er lässt absichtlich giftigen Staub aus der Heizung austreten",
+        "Er verordnet ihr unter falschem Namen ein Antibiotikum"
+      ],
+      "feedback": [
+        "Er mischt schädigende Substanzen in ihre Kosmetika.",
+        "Ein Medikamentenaustausch ist nicht die gezeigte Methode.",
+        "Eine manipulierte Heizung verursacht die Hautprobleme nicht.",
+        "César tritt nicht als verschreibender Arzt auf."
+      ],
+      "short": "Er mischt schädigende Substanzen in ihre Kosmetika.",
+      "context": "César (Luis Tosar) dringt nachts in Claras (Marta Etura) Wohnung ein und manipuliert alltägliche Gegenstände. Die Beschwerden erscheinen ihr zunächst ohne erkennbare persönliche Ursache. Dadurch kann er zugleich Störungen erzeugen und als Ansprechpartner im Haus auftreten. Die vermeintlich intime Sicherheit der eigenen Pflegeroutine wird zum Teil seines Angriffs.",
+      "anchor": "Manipulierte Kosmetik macht vertraute Alltagspflege zur verdeckten Gefahr.",
+      "interest": "Die Methode erklärt die Differenz zwischen Claras Erleben und dem Wissen des Publikums.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Weshalb zahlt César (Luis Tosar) Úrsula (Iris Almeida) Geld?",
+      "answers": [
+        "Sie hat seine nächtlichen Wege beobachtet und fordert Schweigen",
+        "Sie hat ihm die Hausmeisterstelle vermittelt",
+        "Sie verkauft ihm Medikamente für seine Mutter",
+        "Sie verwaltet offiziell das Konto der Hausgemeinschaft"
+      ],
+      "feedback": [
+        "Die Nachbarstochter nutzt ihr Wissen als Druckmittel.",
+        "Úrsula vermittelt ihm keinen Arbeitsvertrag.",
+        "Ein Medikamentenhandel erklärt das Geld nicht.",
+        "Sie besitzt keine offizielle Kontoverwaltung des Hauses."
+      ],
+      "short": "Die Nachbarstochter nutzt ihr Wissen als Druckmittel.",
+      "context": "Úrsula (Iris Almeida) sieht mehr von Césars (Luis Tosar) nächtlichem Verhalten als die erwachsenen Bewohner. Sie verlangt Geld und weitere Leistungen für ihr Schweigen. Für César entsteht damit ein unerwarteter Kontrollverlust. Die einzige mögliche Zeugin bleibt jedoch selbst verletzlich, sodass er später versucht, ihr Wissen durch Drohungen unschädlich zu machen.",
+      "anchor": "Das beobachtende Kind verwandelt Täterwissen vorübergehend in ein Druckmittel.",
+      "interest": "Die Frage erklärt die Bedeutung einer sonst scheinbar nebensächlichen Bewohnerin.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum wird Marcos (Alberto San Juan) für César besonders gefährlich?",
+      "answers": [
+        "Er entdeckt Hinweise auf Césars heimliche Eingriffe in Claras Wohnung",
+        "Er besitzt als Bankangestellter Césars sämtliche Kontounterlagen",
+        "Er hat César als früheren Geschäftspartner erkannt",
+        "Er will die Wohnungsschlüssel an einen Käufer verkaufen"
+      ],
+      "feedback": [
+        "Die entdeckten Mittel und Claras Schwangerschaft machen die nächtlichen Übergriffe verdächtig.",
+        "Kontounterlagen sind nicht Marcos’ belastendes Wissen.",
+        "Eine gemeinsame Geschäftsvergangenheit verursacht die Konfrontation nicht.",
+        "Ein Schlüsselverkauf ist nicht der Grund der Bedrohung."
+      ],
+      "short": "Die entdeckten Mittel und Claras Schwangerschaft machen die nächtlichen Übergriffe verdächtig.",
+      "context": "Marcos (Alberto San Juan) findet verdächtige Gegenstände und erkennt, dass César (Luis Tosar) nicht nur als dienstlicher Helfer in Claras (Marta Etura) Wohnung war. Auch ihre Schwangerschaft passt nicht zu seiner eigenen Erklärung der Beziehung. Die spätere Konfrontation bedroht Césars Geheimnis unmittelbar und endet deshalb in einer weiteren Gewalttat.",
+      "anchor": "Marcos verbindet konkrete Wohnungsspuren mit dem Verdacht auf nächtliche Übergriffe.",
+      "interest": "Der Zusammenhang erklärt den Übergang von heimlicher Sabotage zu offener Gewalt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Wirkung soll Césars letzter Brief auf Clara (Marta Etura) haben?",
+      "answers": [
+        "Ihr Kind soll sie dauerhaft an ihn und seine Übergriffe erinnern",
+        "Sie soll ihm aus Dankbarkeit die Wohnung überschreiben",
+        "Sie soll ihn als unschuldigen Zeugen vor Gericht verteidigen",
+        "Sie soll gemeinsam mit ihm den Tod Marcos’ aufklären"
+      ],
+      "feedback": [
+        "Er beansprucht die Vaterschaft und will die Erinnerung an seine Gewalt dauerhaft festsetzen.",
+        "Ein Wohnungstransfer ist nicht der Zweck des Geständnisses.",
+        "Der Brief behauptet keine unschuldige Zeugenrolle.",
+        "Er lädt Clara nicht zu einer ehrlichen gemeinsamen Aufklärung ein."
+      ],
+      "short": "Er beansprucht die Vaterschaft und will die Erinnerung an seine Gewalt dauerhaft festsetzen.",
+      "context": "Clara (Marta Etura) hat das Haus verlassen und ihr Kind bekommen. Césars (Luis Tosar) Brief legt nun seine Übergriffe offen und beansprucht die Vaterschaft. Sein Ziel reicht damit über die unmittelbare Kontrolle einer Wohnung hinaus. Er will ihre künftigen Gefühle an eine bleibende Erinnerung binden und beschreibt genau diese Wirkung als seinen Erfolg.",
+      "anchor": "Der Brief soll selbst nach Claras Wegzug eine bleibende innere Bedrohung schaffen.",
+      "interest": "Das Ende erklärt die endgültige Form seines Kontrollmotivs.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2011",
+        "2008",
+        "2005",
+        "2013"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2011.",
+        "2008 liegt drei Jahre vor der ersten Veröffentlichung von 2011.",
+        "2005 liegt sechs Jahre vor der ersten Veröffentlichung von 2011.",
+        "2013 ist ein späteres Jahr als das belegte erste Filmjahr 2011."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2011.",
+      "context": "Sleep Tight erschien 2011, vier Jahre nach REC von 2007, den Jaume Balagueró gemeinsam mit Paco Plaza inszeniert hatte. Beide Geschichten machen ein Wohnhaus zum Ort der Bedrohung. Der spätere Film arbeitet jedoch ohne die gemeinsame Regie und folgt dem Täter als alltäglichem Concierge. Der Vergleich verankert das Jahr durch einen deutlichen Perspektivwechsel.",
+      "anchor": "Gemeinsam inszeniertes REC 2007 → Balaguerós Sleep Tight 2011: vier Jahre.",
+      "interest": "Die Verbindung hält die Regieentwicklung und die veränderte Perspektive im selben Ortsmilieu fest.",
+      "sources": [
+        "wiki",
+        "studio",
+        "rec"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jaume Balagueró",
+        "Paco Plaza",
+        "Álex de la Iglesia",
+        "Juan Antonio Bayona"
+      ],
+      "feedback": [
+        "Jaume Balagueró führte bei diesem Film Regie.",
+        "Paco Plaza hat diesen Film nicht inszeniert; der Regiecredit lautet Jaume Balagueró.",
+        "Álex de la Iglesia hat diesen Film nicht inszeniert; der Regiecredit lautet Jaume Balagueró.",
+        "Juan Antonio Bayona hat diesen Film nicht inszeniert; der Regiecredit lautet Jaume Balagueró."
+      ],
+      "short": "Jaume Balagueró führte bei diesem Film Regie.",
+      "context": "Jaume Balagueró führte Regie nach Alberto Marinis Drehbuch. Anders als bei seinen gemeinschaftlich inszenierten REC-Filmen verantwortete er diese Regie allein. Die Handlung bleibt eng bei César (Luis Tosar), der Zugang und Vertrauen seines Berufs missbraucht. Dadurch sieht das Publikum viele Vorbereitungen der Übergriffe früher als die Bewohner, deren Alltag er gezielt zerstört.",
+      "anchor": "Balagueró inszeniert Marinis Stoff aus der Nähe des angreifenden Concierge.",
+      "interest": "Der Regiecredit erklärt die gezielt gewählte Täterperspektive.",
+      "sources": [
+        "wiki",
+        "studio",
+        "rec"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

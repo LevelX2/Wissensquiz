@@ -1,0 +1,217 @@
+{
+  "rank": 107,
+  "titleDe": "Das war der wilde Westen",
+  "originalTitle": "How the West Was Won",
+  "year": 1962,
+  "genre": "Western",
+  "familiarity": 3,
+  "directors": [
+    "Henry Hathaway",
+    "John Ford",
+    "George Marshall"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Londoner Erstaufführung am 1. November 1962; US-Premiere am 20. Februar 1963. AFI führt den US-Verleihjahrgang 1963, das Registry und die weltweite Erstveröffentlichung 1962.",
+  "familiarity_reason": "Der mehrteilige Cinerama-Western besitzt eine große Starbesetzung und hohen Klassikerwert; sein episodischer Verlauf ist vor allem im Film- und Westernpublikum geläufig, Stufe 3.",
+  "sources": {
+    "afi": "https://catalog.afi.com/Film/23992-HOW-THE-WEST-WAS-WON",
+    "registry": "https://www.loc.gov/programs/national-film-preservation-board/film-registry/descriptions-and-essays/",
+    "handlung": "https://en.wikipedia.org/wiki/How_the_West_Was_Won_(film)"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wodurch hält @ seine über Jahrzehnte verteilten Ereignisse zusammen?",
+      "answers": [
+        "Durch eine Familie und ihre Nachkommen",
+        "Durch denselben Sheriff an jedem Schauplatz",
+        "Durch eine unveränderte Zugbesatzung",
+        "Durch einen einzelnen Feldzug in derselben Woche"
+      ],
+      "feedback": [
+        "Die Prescott-Familie verbindet die Generationen.",
+        "Ein unveränderter Sheriff trägt nicht alle Episoden.",
+        "Eine feste Zugbesatzung ist nicht die Klammer.",
+        "Der Zeitraum umfasst viele Jahrzehnte."
+      ],
+      "short": "Die Prescott-Familie verbindet die Generationen.",
+      "context": "Der Film folgt der Prescott-Familie und ihren Nachkommen durch mehrere Generationen. Die Bewegung nach Westen erhält dadurch einen persönlichen Zusammenhang. Unterschiedliche historische Situationen treffen jeweils andere Angehörige, bleiben aber innerhalb einer weitergegebenen Familiengeschichte miteinander verbunden und lassen Veränderungen über längere Zeit sichtbar werden.",
+      "anchor": "Die Familie verbindet historische Veränderung mit einer fortgesetzten persönlichen Geschichte.",
+      "interest": "Erklärt die erzählerische Klammer des Epos.",
+      "sources": [
+        "registry"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Richtung prägt die Reisen der Familie in @?",
+      "answers": [
+        "Von den östlichen Wasserwegen zunehmend nach Westen",
+        "Vom Westen zurück zu den östlichen Hafenstädten",
+        "Entlang der Südküste von Hafen zu Hafen",
+        "Vom mexikanischen Grenzland ausschließlich nach Norden"
+      ],
+      "feedback": [
+        "Die Generationen ziehen weiter nach Westen.",
+        "Die Familienbewegung folgt der Westexpansion und keiner dauernden Rückkehr nach Osten.",
+        "Die Stationen reichen durch das Landesinnere und bleiben nicht an Küstenhäfen.",
+        "Die Richtung und Generationenfolge erschließt den Westen statt nur einen Nordweg."
+      ],
+      "short": "Die Generationen ziehen weiter nach Westen.",
+      "context": "Die Familiengeschichte setzt an den östlichen Wasserwegen an und bewegt sich später in westlichere Landschaften. Der Raum verändert sich gemeinsam mit den Generationen. Die Reise ist damit mehr als eine einmalige Strecke: Sie bildet die fortdauernde Bewegung, an der verschiedene Formen von Arbeit und Gefahr hängen.",
+      "anchor": "Die räumliche Bewegung nach Westen setzt sich über die Generationen fort.",
+      "interest": "Verbindet Geografie und Erzählstruktur.",
+      "sources": [
+        "registry"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Enttäuschung erwartet Lilith und Cleve nach der Reise zur geerbten Goldmine in @?",
+      "answers": [
+        "Die Mine erweist sich als wertlos.",
+        "Die Mine ist vom Kaufvertrag ausgenommen.",
+        "Die Mine gehört nach einem Prozess einem anderen Erben.",
+        "Die Mine kann wegen eines Einsturzes nicht betreten werden."
+      ],
+      "feedback": [
+        "Die erhoffte Mine bietet keinen wertvollen Gewinn.",
+        "Die enttäuschende Erkenntnis ist ihr fehlender Wert, nicht ein Vertragsausschluss.",
+        "Nicht ein verlorener Erbstreit, sondern eine wertlose Mine macht die Hoffnung zunichte.",
+        "Ein zeitweilig versperrter Zugang erklärt das Scheitern nicht."
+      ],
+      "short": "Die erhoffte Mine bietet keinen wertvollen Gewinn.",
+      "context": "Lilith (Debbie Reynolds) reist zu einer geerbten Mine; Cleve (Gregory Peck) verbindet die Reise mit eigenen Erwartungen. Die Wertlosigkeit des Besitzes entzieht ihren Plänen die Grundlage. Das vermeintliche Glück am Ziel entscheidet somit auch darüber, welche Beziehungen unter veränderten Bedingungen bestehen können.",
+      "anchor": "Die wertlose Mine prüft die Beziehung jenseits der Hoffnung auf Reichtum.",
+      "interest": "Erklärt die Wirkung einer wirtschaftlichen Enttäuschung auf das Paar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum quittiert Zeb in @ nach dem Konflikt um den Eisenbahnbau den Militärdienst?",
+      "answers": [
+        "Die Gier des Bahnunternehmers zerstört die von ihm gesuchte Friedensordnung.",
+        "Er soll zur Unterdrückung der eigenen Familie abkommandiert werden.",
+        "Er hat bei einem Gefecht sein Augenlicht verloren.",
+        "Er erhält ein Angebot als Anteilseigner der Bahn."
+      ],
+      "feedback": [
+        "Die rücksichtslose Vertragsverletzung macht seine Aufgabe unhaltbar.",
+        "Er zieht aus dem zerstörten Friedensversuch seine Konsequenz; ein Angriff auf die eigene Familie ist nicht der Anlass.",
+        "Sein Ausscheiden folgt einer moralischen Enttäuschung und keiner Erblindung.",
+        "Zeb wechselt nicht aus Gewinninteresse zu den Bahnunternehmern."
+      ],
+      "short": "Die rücksichtslose Vertragsverletzung macht seine Aufgabe unhaltbar.",
+      "context": "Zeb (George Peppard) versucht, Frieden zwischen den Beteiligten zu bewahren. Mike Kings (Richard Widmark) Vorgehen beim Bahnbau verletzt jedoch die verabredete Ordnung. Zeb erkennt eine Grenze seines Dienstes: Seine Vermittlungsaufgabe kann die Interessen nicht ausgleichen, wenn eine mächtige Seite die Vereinbarung missachtet.",
+      "anchor": "Der gebrochene Vertrag macht Zebs Friedensaufgabe innerhalb des Dienstes unhaltbar.",
+      "interest": "Verknüpft den Austritt mit dem Konflikt um Vertragsbruch und Macht.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum erschießt Zeb in der Bürgerkriegsepisode von @ den Soldaten, der mit ihm fortgehen wollte?",
+      "answers": [
+        "Dieser will die zufällig belauschten Unionsgeneräle töten.",
+        "Dieser will Zeb wegen Fahnenflucht ausliefern.",
+        "Dieser greift die eigenen Kameraden an.",
+        "Dieser versucht, die Vorräte der Unionsarmee zu sprengen."
+      ],
+      "feedback": [
+        "Der geplante Schuss auf die Generäle führt zu Zebs Eingreifen.",
+        "Die unmittelbare Gefahr gilt den belauschten Generälen und nicht Zebs Auslieferung.",
+        "Die Tat richtet sich auf die anwesenden Generäle, nicht auf ein allgemeines Gefecht gegen Kameraden.",
+        "Der Soldat will die Generäle töten und keine Vorratsanlage sprengen."
+      ],
+      "short": "Der geplante Schuss auf die Generäle führt zu Zebs Eingreifen.",
+      "context": "Zeb (George Peppard) begegnet einem desillusionierten Soldaten (Russ Tamblyn), der Desertion vorschlägt. Als sie Generäle belauschen, wird aus der möglichen gemeinsamen Flucht eine Gefahr für andere. Zebs Schuss beendet damit nicht bloß eine Freundschaft, sondern auch seine kurze Annäherung an den Ausweg aus dem Krieg.",
+      "anchor": "Die mögliche gemeinsame Flucht zerbricht am geplanten Angriff auf die Generäle.",
+      "interest": "Erklärt die Entscheidungswende innerhalb der Kriegsepisode.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Vorführtechnik bestimmte ursprünglich das besonders breite Bild von @?",
+      "answers": [
+        "Cinerama mit drei zusammengeführten Bildfeldern",
+        "CinemaScope mit einem anamorphotischen Bild",
+        "Todd-AO mit einem einzigen 70-mm-Bild",
+        "Gewöhnlicher 35-mm-Film im Akademieformat"
+      ],
+      "feedback": [
+        "Der Film nutzte das mehrteilige Cinerama-Bild.",
+        "Die ursprüngliche Gestaltung nutzt drei Cinerama-Felder statt eines anamorphotischen Einzelbilds.",
+        "Das breite Original entsteht aus drei Bildern und nicht aus einem Todd-AO-Einzelbild.",
+        "Das ursprüngliche Panorama überschreitet die gewöhnliche schmale Akademieprojektion."
+      ],
+      "short": "Der Film nutzte das mehrteilige Cinerama-Bild.",
+      "context": "Die Produktion nutzte Cinerama mit drei Bildfeldern für ein großes Panorama. Die räumliche Wirkung war an eine besondere Kinoeinrichtung gebunden. AFI beschreibt die begrenzte Zahl geeigneter Häuser. Die ursprüngliche Präsentation ist deshalb von einer gewöhnlichen späteren Fernsehausstrahlung oder digitalen Wiedergabe zu unterscheiden.",
+      "anchor": "Das breite Panorama war an die besondere Cinerama-Projektion gebunden.",
+      "interest": "Verknüpft Gestaltung und konkrete Vorführbedingungen.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ erstmals, drei Jahre nach der zugrunde liegenden „Life“-Artikelserie von 1959?",
+      "answers": [
+        "1962",
+        "1960",
+        "1961",
+        "1963"
+      ],
+      "feedback": [
+        "1962 liegt drei Jahre nach 1959.",
+        "1960 liegt ein Jahr danach.",
+        "1961 liegt zwei Jahre danach.",
+        "1963 ist der spätere US-Startjahrgang."
+      ],
+      "short": "1962 liegt drei Jahre nach 1959.",
+      "context": "Die Artikelserie How the West Was Won erschien 1959 in Life. Die weltweite Erstveröffentlichung des Films folgte 1962, drei Jahre später. Der US-Start lag erst 1963. Der Quellenvergleich trennt deshalb den Entstehungsanstoß, die erste öffentliche Filmfassung und einen späteren nationalen Verleihjahrgang.",
+      "anchor": "1959 die Artikelserie, 1962 die erste Filmveröffentlichung, 1963 der US-Start.",
+      "interest": "Verankert das Jahr in der konkreten Vorlage und klärt den abweichenden US-Jahrgang.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Welches vollständige Regieteam inszenierte die Episoden von @?",
+      "answers": [
+        "Henry Hathaway und John Ford und George Marshall",
+        "Delmer Daves und Anthony Mann und Budd Boetticher",
+        "Raoul Walsh und William Wellman und King Vidor",
+        "Fred Zinnemann und William Wyler und George Stevens"
+      ],
+      "feedback": [
+        "Hathaway, Ford und Marshall inszenierten die Episoden.",
+        "Dieses Team führte hier nicht Regie.",
+        "Auch dieses Team ist nicht der Credit.",
+        "Dieses Team gehört nicht zur Produktion."
+      ],
+      "short": "Hathaway, Ford und Marshall inszenierten die Episoden.",
+      "context": "Henry Hathaway, John Ford und George Marshall teilten die Episodenregie. Hathaway übernahm drei Abschnitte, Ford den Bürgerkrieg und Marshall den Eisenbahnbau. Die Aufteilung verband unterschiedliche Produktionseinheiten mit einer gemeinsamen Familiengeschichte. Der vollständige Credit gehört deshalb zu einem Team, nicht bloß zu einem einzelnen prominenten Namen.",
+      "anchor": "Drei Regisseure teilen die Episoden einer zusammenhängenden Familiengeschichte.",
+      "interest": "Erklärt den vollständigen Teamcredit anhand der Episodenaufteilung.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

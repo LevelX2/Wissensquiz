@@ -1,0 +1,222 @@
+{
+  "rank": 167,
+  "titleDe": "Moonage Daydream",
+  "originalTitle": "Moonage Daydream",
+  "year": 2022,
+  "genre": "Musik",
+  "familiarity": 3,
+  "familiarity_reason": "Das große Bowie-Archivporträt erreichte Festivals und reguläres Kino, bleibt aber stärker musikinteressiertem Publikum als allgemeinen Filmzuschauern vertraut; Bekanntheit 3.",
+  "directors": [
+    "Brett Morgen"
+  ],
+  "production_countries": [
+    "Deutschland",
+    "USA"
+  ],
+  "release_note": "Weltpremiere bei den Filmfestspielen von Cannes am 23. Mai 2022.",
+  "sources": {
+    "artikel": "https://en.wikipedia.org/wiki/Moonage_Daydream_(film)",
+    "verleih": "https://www.neonrated.com/film/moonage-daydream",
+    "criterion": "https://www.criterion.com/films/33621-moonage-daydream",
+    "essay": "https://www.criterion.com/current/posts/8266-moonage-daydream-who-is-he-what-is-he",
+    "tiff": "https://www.youtube.com/watch?v=Mme6md3VClg"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchem Musiker folgt „Moonage Daydream“?",
+      "answers": [
+        "David Bowie",
+        "Marc Bolan",
+        "Lou Reed",
+        "Iggy Pop"
+      ],
+      "feedback": [
+        "David Bowie ist das Zentrum der Dokumentation.",
+        "Bolan ist nicht der porträtierte Hauptkünstler.",
+        "Reed ist nicht das Zentrum dieser Dokumentation.",
+        "Pop wird hier nicht zum zentralen Gegenstand."
+      ],
+      "short": "David Bowie ist das Zentrum der Dokumentation.",
+      "context": "David Bowie ist das Zentrum der Dokumentation. Der Film verbindet Musik und Auftritte mit Gedanken über künstlerische Veränderung. Unterschiedliche Erscheinungsbilder gehören zu einer rastlosen Suche, die nicht auf eine einzige Bühnenfigur reduziert wird. Die Reise umfasst daher mehr als eine Sammlung bekannter Songs: Sie stellt eine sich ständig verändernde Arbeitsweise vor.",
+      "anchor": "Der Film reist durch Bowies künstlerische Welt.",
+      "interest": "Das zentrale Porträt zuordnen.",
+      "sources": [
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wessen Stimme führt hauptsächlich durch „Moonage Daydream“?",
+      "answers": [
+        "Bowies eigene Stimme aus Archivgesprächen",
+        "Die eines neu engagierten neutralen Erzählers",
+        "Die eines Bowie darstellenden Schauspielers",
+        "Die seiner Fans in neu aufgenommenen Kommentaren"
+      ],
+      "feedback": [
+        "Aufgezeichnete Äußerungen Bowies tragen die filmische Erzählung.",
+        "Ein neutraler neuer Sprecher trägt die Reise nicht.",
+        "Die Stimme stammt nicht von einem nachsprechenden Darsteller.",
+        "Faninterviews bilden nicht die führende Erzählerstimme."
+      ],
+      "short": "Aufgezeichnete Äußerungen Bowies tragen die filmische Erzählung.",
+      "context": "Aufgezeichnete Äußerungen Bowies tragen die filmische Erzählung. Seine Überlegungen werden mit Bildern und Musik verbunden, sodass der porträtierte Künstler selbst zum Begleiter durch das Material wird. Es handelt sich dabei um historische Tonaufnahmen. Die Stimme wirkt gegenwärtig, obwohl die Zusammenstellung erst nach seinem Tod entstanden ist und einen neuen Zusammenhang herstellt.",
+      "anchor": "Bowie spricht aus dem Archiv selbst.",
+      "interest": "Die Erzählperspektive erkennen.",
+      "sources": [
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Beziehung bildet in „Moonage Daydream“ einen Gegenpol zu Bowies rastloser Suche?",
+      "answers": [
+        "Seine Liebe zu Iman",
+        "Seine Freundschaft mit Andy Warhol",
+        "Seine Zusammenarbeit mit Lou Reed",
+        "Seine Bekanntschaft mit Elvis Presley"
+      ],
+      "feedback": [
+        "Die Beziehung zu Iman erscheint als eine Form von Ruhe und Verbundenheit innerhalb eines Lebens voller Veränderungen.",
+        "Warhol ist nicht die hier gesuchte Liebesbeziehung.",
+        "Reed steht für eine musikalische Verbindung, nicht diese Partnerschaft.",
+        "Presley ist nicht Bowies Partner in der dargestellten Beziehung."
+      ],
+      "short": "Die Beziehung zu Iman erscheint als eine Form von Ruhe und Verbundenheit innerhalb eines Lebens voller Veränderungen.",
+      "context": "Die Beziehung zu Iman erscheint als eine Form von Ruhe und Verbundenheit innerhalb eines Lebens voller Veränderungen. Der Film betrachtet Bowies Suche nach neuen Ausdrucksmöglichkeiten zusammen mit dieser persönlichen Bindung. Dadurch erhält der Weg durch wechselnde künstlerische Identitäten einen privaten Bezugspunkt. Die Ehe wird als Teil seines Lebens gezeigt, nicht als bloßes Begleitdetail einer Karrierechronik.",
+      "anchor": "Iman wird zum persönlichen Gegenpol der Rastlosigkeit.",
+      "interest": "Private Bindung und künstlerische Suche verbinden.",
+      "sources": [
+        "tiff"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie behandelt „Moonage Daydream“ die musikalische Zeitfolge?",
+      "answers": [
+        "Er verbindet Aufnahmen verschiedener Jahre frei miteinander.",
+        "Er spielt jedes Album vollständig in Erscheinungsfolge.",
+        "Er beschränkt alle Musik auf Bowies letzte Tournee.",
+        "Er trennt Jahrzehnte durch einen neuen Kommentator."
+      ],
+      "feedback": [
+        "Die Montage verbindet Material über zeitliche Grenzen hinweg.",
+        "Vollständig abgespielte Alben bilden nicht die Filmform.",
+        "Die musikalische Auswahl reicht weit über eine letzte Tournee hinaus.",
+        "Ein neuer Jahrzehnt-Kommentator ordnet die Musik nicht."
+      ],
+      "short": "Die Montage verbindet Material über zeitliche Grenzen hinweg.",
+      "context": "Die Montage verbindet Material über zeitliche Grenzen hinweg. Der Criterion-Essay beschreibt beispielsweise, wie Klänge aus Bowies Asienreisen zu einem früheren Liveauftritt treten. Das Ergebnis ist eine neu gestaltete musikalische Erfahrung. Die zeitliche Abfolge bleibt ein Hintergrund, während Bilder und Klangschichten Beziehungen zwischen unterschiedlichen Momenten der künstlerischen Suche herstellen.",
+      "anchor": "Bowies Material wird zu einer freien Klangreise montiert.",
+      "interest": "Den Unterschied zwischen Archiv und neuer Montage verstehen.",
+      "sources": [
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Aus welchem Reisefilm stammen wichtige Bilder von Bowie in Asien in „Moonage Daydream“?",
+      "answers": [
+        "Ricochet",
+        "Cracked Actor",
+        "Ziggy Stardust and the Spiders from Mars",
+        "Jazzin’ for Blue Jean"
+      ],
+      "feedback": [
+        "Die Asienbilder stammen aus Gerry Troynas „Ricochet“.",
+        "„Cracked Actor“ ist nicht die Quelle dieser Asienbilder.",
+        "Der Ziggy-Konzertfilm liefert nicht die gesuchte Reiseaufnahme.",
+        "Dieser Kurzfilm ist nicht die Herkunft der Asienpassagen."
+      ],
+      "short": "Die Asienbilder stammen aus Gerry Troynas „Ricochet“.",
+      "context": "Die Asienbilder stammen aus Gerry Troynas „Ricochet“. Das Material zeigt Bowie unter anderem im weißen Anzug und erweitert die Konzertbilder um Bewegung durch fremde Alltagsräume. Die Archivarbeit erschließt so eine andere Perspektive auf den Musiker. Der Film stellt diese Reisemomente neben Auftritte und Gedanken und macht daraus Bestandteile derselben künstlerischen Suche.",
+      "anchor": "„Ricochet“ liefert die Asienreise.",
+      "interest": "Die Herkunft einer charakteristischen Archivpassage erkennen.",
+      "sources": [
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Welche nicht fertig realisierte Bowie-Filmidee erhält in „Moonage Daydream“ animierte Bilder?",
+      "answers": [
+        "Diamond Dogs",
+        "Labyrinth",
+        "The Man Who Fell to Earth",
+        "Merry Christmas Mr. Lawrence"
+      ],
+      "feedback": [
+        "Stefan Nadelman animiert Zeichnungen und Storyboards zu Bowies geplanter „Diamond Dogs“-Verfilmung.",
+        "„Labyrinth“ wurde als eigenständiger Spielfilm fertiggestellt.",
+        "Dieser Film ist eine realisierte Schauspielrolle Bowies.",
+        "Auch dieser Titel ist eine fertig realisierte Schauspielarbeit."
+      ],
+      "short": "Stefan Nadelman animiert Zeichnungen und Storyboards zu Bowies geplanter „Diamond Dogs“-Verfilmung.",
+      "context": "Stefan Nadelman animiert Zeichnungen und Storyboards zu Bowies geplanter „Diamond Dogs“-Verfilmung. Damit tritt neben das erhaltene Auftrittsmaterial eine Idee, die damals keine fertige Filmform bekam. Die Dokumentation erschließt auch solche Entwürfe als Teil der künstlerischen Welt. Sie zeigt, dass Bowies bildliches Denken über tatsächlich veröffentlichte Rollen und Bühnenfiguren hinausging.",
+      "anchor": "„Diamond Dogs“ wird aus Entwürfen bewegt.",
+      "interest": "Ein unvollendetes Projekt im Porträt erkennen.",
+      "sources": [
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde „Moonage Daydream“ erstmals veröffentlicht, einschließlich einer Festivalpremiere?",
+      "answers": [
+        "2022",
+        "2020",
+        "2021",
+        "2023"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung fällt in 2022.",
+        "2020 liegt zwei Jahre vor der ersten Veröffentlichung.",
+        "2021 liegt ein Jahr vor der ersten Veröffentlichung.",
+        "2023 liegt ein Jahr nach der ersten Veröffentlichung."
+      ],
+      "short": "Weltpremiere bei den Filmfestspielen von Cannes am 23. Mai 2022.",
+      "context": "David Bowie starb 2016; „Moonage Daydream“ wurde 2022 erstmals gezeigt. Sechs Jahre liegen zwischen seinem Tod und dieser filmischen Reise durch das freigegebene Archiv. Der Film lässt Bowie dennoch selbst sprechen: Aufgezeichnete Äußerungen tragen die Erzählung. Der zeitliche Abstand erklärt, warum ein postumes Werk eine unmittelbar wirkende eigene Stimme haben kann.",
+      "anchor": "Bowie starb 2016; sein Archivporträt folgte 2022, sechs Jahre später.",
+      "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
+      "sources": [
+        "artikel",
+        "tiff"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei „Moonage Daydream“ Regie?",
+      "answers": [
+        "Brett Morgen",
+        "Edgar Wright",
+        "Asif Kapadia",
+        "Todd Haynes"
+      ],
+      "feedback": [
+        "Brett Morgen führte Regie.",
+        "Edgar Wright gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Asif Kapadia gehört nicht zum Regiecredit dieser Filmfassung.",
+        "Todd Haynes gehört nicht zum Regiecredit dieser Filmfassung."
+      ],
+      "short": "Brett Morgen führte Regie und verantwortete auch Drehbuch, Produktion und Schnitt.",
+      "context": "Brett Morgen führte Regie und verantwortete auch Drehbuch, Produktion und Schnitt. Diese gebündelte Arbeit ermöglicht eine freie Montage aus Musik, Gesprächen, Auftritten und anderen Bildern. Auf der Verleihseite beschreibt er sein Ziel als erlebnisorientierte Annäherung. Anstelle einer durchgehend chronologischen Erklärung soll die Form Bowies wechselnde künstlerische Perspektiven erfahrbar machen.",
+      "anchor": "Morgen vereint Regie, Buch und Schnitt zu einer freien Bowie-Montage.",
+      "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
+      "sources": [
+        "verleih",
+        "criterion"
+      ],
+      "spoiler": "gering",
+      "difficulty": "mittel"
+    }
+  ]
+}

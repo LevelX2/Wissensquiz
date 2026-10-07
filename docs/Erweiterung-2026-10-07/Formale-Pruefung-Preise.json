@@ -1,0 +1,44 @@
+{
+  "as_of": "2026-10-07",
+  "entries": 20,
+  "questions": 80,
+  "variants": 3,
+  "links": [
+    {
+      "question_id": "E20261007-A-010-M",
+      "variant_of": "SCHAUSPIELER-202610-P01-070-L-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-070-L-1",
+      "decision": "Die Titelrollen-Darstellerin wird bereits abgefragt; der Preiszusatz erzeugt dafür kein zweites Personenziel."
+    },
+    {
+      "question_id": "E20261007-A-019-L",
+      "variant_of": "DRA-L-015",
+      "knowledge_id": "K-DRA-08-01",
+      "decision": "Die Zuordnung Raymond Babbitt zu Dustin Hoffman wird bereits abgefragt; der Preiszusatz teilt dieses Darstellerziel."
+    },
+    {
+      "question_id": "E20261007-A-019-M",
+      "variant_of": "FF-083-DIRECTOR",
+      "knowledge_id": "K-FF-083-DIRECTOR",
+      "decision": "Die Regiezuordnung Rain Man zu Barry Levinson ist bereits vorhanden; der Preiszusatz teilt das Regieziel."
+    }
+  ],
+  "warnings": [],
+  "correctAnswers": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20
+  },
+  "csvSha256": "3f33016938d546f3c41b53dcfb2fc02ccbe301af5b4728b4d5ad32a785cda244",
+  "checks": {
+    "csvRereadExact": true,
+    "uniqueIds": true,
+    "independentGoals": true,
+    "fourDifficultyLevels": true,
+    "completeFeedback": true,
+    "minimumDepth35Words": true,
+    "filmReferencesResolved": true,
+    "existingInputBytesUnchanged": true
+  }
+}

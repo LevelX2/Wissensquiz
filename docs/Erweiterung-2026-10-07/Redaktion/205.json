@@ -1,0 +1,227 @@
+{
+  "rank": 205,
+  "titleDe": "Frequency",
+  "originalTitle": "Frequency",
+  "year": 2000,
+  "genre": "Science-Fiction",
+  "familiarity": 3,
+  "familiarity_reason": "Eine Vater-Sohn-Verbindung über Funk verändert Vergangenheit und Mordermittlung; klare Ursache-Folge-Ziele.",
+  "directors": [
+    "Gregory Hoblit"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Erste Veröffentlichung im April 2000; die gleichnamige Fernsehserie von 2016 ist eine spätere Bearbeitung.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Frequency_(2000_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "interview": {
+      "url": "https://www.salon.com/2000/05/25/hoblit/",
+      "supports": "Hoblits eigene Aussagen zum Skriptkontakt 1997, zum Tod seines Vaters und zum Zentrum der Vater-Sohn-Beziehung."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Frequency_(Film)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Gerät verbindet in @ John (Jim Caviezel) mit seinem Vater?",
+      "answers": [
+        "Ein altes Amateurfunkgerät.",
+        "Ein Faxgerät im Polizeirevier.",
+        "Eine digitale Videokamera.",
+        "Ein Anrufbeantworter im Krankenhaus."
+      ],
+      "feedback": [
+        "Das alte Funkgerät trägt die Gespräche durch die Zeit.",
+        "Die Verbindung entsteht nicht über ein Faxgerät.",
+        "Die beiden tauschen keine Videobilder aus.",
+        "Ein Krankenhaus-Anrufbeantworter ist nicht das Kommunikationsmittel."
+      ],
+      "short": "Das alte Funkgerät trägt die Gespräche durch die Zeit.",
+      "context": "John entdeckt eine Verbindung über das alte Funkgerät seines Vaters. Die Stimmen erreichen einander, obwohl beide Männer in verschiedenen Jahren leben. Der unmittelbare Ton ermöglicht zunächst Nähe, bevor die Tragweite der Zeitverschiebung erkannt wird. Ein häuslicher Gegenstand trägt dadurch sowohl die Familiengeschichte als auch die spätere gemeinsame Ermittlungsarbeit.",
+      "anchor": "Ein altes Funkgerät wird zur Stimme aus der Vergangenheit.",
+      "interest": "Der Gegenstand verbindet private Erinnerung und die besondere Handlungsregel.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Beruf übt Frank Sullivan (Dennis Quaid) in @ aus?",
+      "answers": [
+        "Feuerwehrmann.",
+        "Notarzt.",
+        "Kriminalrichter.",
+        "Fluglotse."
+      ],
+      "feedback": [
+        "Frank arbeitet bei der Feuerwehr.",
+        "Seine Frau Julia arbeitet im Krankenhaus, Frank nicht als Notarzt.",
+        "Frank führt keine Gerichtsverhandlungen.",
+        "Seine gefährlichen Einsätze betreffen Brände und nicht die Luftüberwachung."
+      ],
+      "short": "Frank arbeitet bei der Feuerwehr.",
+      "context": "Franks Arbeit als Feuerwehrmann setzt ihn einer konkreten Lebensgefahr aus. John (Jim Caviezel) kennt den Ausgang eines Einsatzes aus seiner eigenen Vergangenheit und kann über Funk warnen. Dennis Quaids Figur erhält so die Chance, ein Ereignis zu vermeiden, das für den Sohn bereits Teil der Familiengeschichte gewesen ist.",
+      "anchor": "Der gefährliche Feuerwehreinsatz wird durch Johns Vorwissen veränderbar.",
+      "interest": "Der Beruf erklärt, warum der erste Eingriff in die Vergangenheit möglich wird.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche neue Gefahr entsteht in @, nachdem Frank (Dennis Quaid) gerettet wurde?",
+      "answers": [
+        "Ein zuvor gestorbener Serienmörder überlebt und tötet auch Julia.",
+        "John verliert seinen Beruf wegen Franks früher Pensionierung.",
+        "Ein entkommener Häftling entführt Frank während eines Brandeinsatzes.",
+        "Julia wird wegen eines gefälschten Funkprotokolls verhaftet."
+      ],
+      "feedback": [
+        "Die veränderte Vergangenheit ermöglicht dem Mörder weitere Opfer.",
+        "Der entscheidende neue Schaden ist nicht Johns Pensionierungsfolge.",
+        "Eine Häftlingsentführung ersetzt die geänderte Mordserie nicht.",
+        "Julias Tod und nicht eine Protokollanklage bildet die neue Krise."
+      ],
+      "short": "Die veränderte Vergangenheit ermöglicht dem Mörder weitere Opfer.",
+      "context": "Franks Überleben verändert auch Julias (Elizabeth Mitchell) Aufenthalt im Krankenhaus. Dadurch rettet sie unwissentlich einen Mann, der in der ursprünglichen Geschichte gestorben wäre. Er wird zum Serienmörder und tötet schließlich auch sie. Die erfolgreiche Warnung löst deshalb einen zweiten Auftrag aus: Vater und Sohn müssen die unbeabsichtigte Folge ihrer Rettung korrigieren.",
+      "anchor": "Franks Rettung verändert Julias Arbeit und ermöglicht dem Mörder weitere Taten.",
+      "interest": "Die Ursache erklärt die neue Gefahr statt einer beliebigen Zeitreise-Nebenwirkung.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Wie gelangt in @ ein Fingerabdruck aus Franks Zeit zu John (Jim Caviezel)?",
+      "answers": [
+        "Frank versteckt das Beweisstück im gemeinsamen Haus.",
+        "Frank sendet den Fingerabdruck als Bild durch das Funkgerät.",
+        "Frank übergibt das Beweisstück einem Verwandten zur späteren Aufbewahrung.",
+        "John findet den Abdruck in einer bereits archivierten Polizeiakte."
+      ],
+      "feedback": [
+        "Das versteckte Stück bleibt bis zu Johns Gegenwart erhalten.",
+        "Das Funkgerät überträgt Stimmen und kein Abdruckbild.",
+        "Frank versteckt es im gemeinsamen Haus; es gelangt nicht über einen vereinbarten Familienboten zu John.",
+        "Das Beweisstück bleibt über die Jahre im Haus verborgen, statt in einer Polizeiakte aufzutauchen."
+      ],
+      "short": "Das versteckte Stück bleibt bis zu Johns Gegenwart erhalten.",
+      "context": "Frank kann Informationen nicht nur über Funk weitergeben. Er versteckt ein Beweisstück im Haus, wo John es Jahrzehnte später findet. Die gemeinsame räumliche Umgebung überbrückt damit die getrennten Zeiten. Das Verfahren verbindet die ungewöhnliche Kommunikation mit einer gewöhnlichen Spurensicherung: Ein Gegenstand muss erhalten bleiben, damit die spätere Untersuchung ihn nutzen kann.",
+      "anchor": "Das Haus bewahrt eine Spur, die das Funkgerät selbst nicht übertragen kann.",
+      "interest": "Der physische Weg des Beweises erklärt eine eigenständige Ermittlungsstrategie.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Womit versucht Frank (Dennis Quaid) in @, sein Wissen aus der Zukunft zu belegen?",
+      "answers": [
+        "Mit dem vorhergesagten Verlauf eines World-Series-Spiels von 1969.",
+        "Mit dem Namen des nächsten amerikanischen Präsidenten allein.",
+        "Mit einem erfundenen Morsecode aus der Raumfahrt.",
+        "Mit einer schriftlichen Vollmacht seines erwachsenen Sohnes."
+      ],
+      "feedback": [
+        "John hat ihm konkrete Einzelheiten des Baseballspiels berichtet.",
+        "Die Szene verwendet überprüfbare Spieldetails statt nur einen Präsidentennamen.",
+        "Ein erfundener Code wäre kein überprüfbarer Zukunftsbeleg.",
+        "Eine Vollmacht des erwachsenen John liegt ihm nicht vor."
+      ],
+      "short": "John hat ihm konkrete Einzelheiten des Baseballspiels berichtet.",
+      "context": "Frank steht selbst unter Mordverdacht und braucht eine überprüfbare Erklärung für sein ungewöhnliches Wissen. Er sagt Details des fünften World-Series-Spiels von 1969 voraus, die John (Jim Caviezel) ihm berichtet hat. Ein öffentlich verfolgbares Ereignis wird dadurch zum Test. Erst als die Angaben eintreffen, kann der Ermittler Franks Behauptung ernst nehmen.",
+      "anchor": "Der vorhergesagte Baseballverlauf macht Zukunftswissen öffentlich überprüfbar.",
+      "interest": "Die Szene verwandelt eine unglaubliche Erklärung in eine konkrete Vorhersage.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie wirkt Franks Schuss im Finale von @ gleichzeitig auf Johns Gegner?",
+      "answers": [
+        "Die abgetrennte Hand verschwindet auch beim älteren Angreifer.",
+        "Der ältere Angreifer verliert ohne Verletzung alle Erinnerungen.",
+        "John erhält sofort die Schusswaffe seines Vaters.",
+        "Die beiden Angreifer werden dauerhaft in dasselbe Jahr versetzt."
+      ],
+      "feedback": [
+        "Die Verletzung der Vergangenheit verändert den Körper in der Gegenwart.",
+        "Es geht um eine körperliche Folge und nicht um Gedächtnisverlust.",
+        "Johns Hilfe besteht nicht im plötzlichen Waffenwechsel.",
+        "Die Konfrontationen bleiben zunächst in getrennten Zeiten."
+      ],
+      "short": "Die Verletzung der Vergangenheit verändert den Körper in der Gegenwart.",
+      "context": "Vater und Sohn werden in ihren jeweiligen Zeiten vom selben Mann angegriffen. Frank schießt dessen Hand ab; beim älteren Angreifer in Johns Gegenwart verschwindet sie gleichzeitig. Der Film stellt die Folge des Eingriffs unmittelbar sichtbar dar. Die zuvor über Erinnerungen und Gegenstände erklärte Zeitveränderung erreicht damit den Körper mitten in der Konfrontation.",
+      "anchor": "Eine Verletzung 1969 wird während des Kampfes 1999 unmittelbar sichtbar.",
+      "interest": "Das Finale zeigt die zeitliche Ursache als konkrete körperliche Wirkung.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2000",
+        "1997",
+        "1994",
+        "2002"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2000.",
+        "1997 liegt drei Jahre vor der ersten Veröffentlichung von 2000.",
+        "1994 liegt sechs Jahre vor der ersten Veröffentlichung von 2000.",
+        "2002 ist ein späteres Jahr als das belegte erste Filmjahr 2000."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2000.",
+      "context": "Frequency erschien 2000 als Kinofilm. 2016 folgte eine gleichnamige Fernsehserie, an der erneut Film-Autor Toby Emmerich beteiligt war. Sechzehn Jahre liegen zwischen den Bearbeitungen. Die Funkverbindung über getrennte Zeiten blieb eine tragende Idee, wurde aber für ein anderes Erzählformat und eine veränderte Figurenkonstellation neu verwendet.",
+      "anchor": "Frequency im Kino 2000 → Fernsehserie 2016: sechzehn Jahre später.",
+      "interest": "Die Verbindung trennt die Filmfassung von der späteren seriellen Bearbeitung.",
+      "sources": [
+        "wiki",
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Gregory Hoblit",
+        "Jonathan Mostow",
+        "John Dahl",
+        "Brad Anderson"
+      ],
+      "feedback": [
+        "Gregory Hoblit führte bei diesem Film Regie.",
+        "Jonathan Mostow hat diesen Film nicht inszeniert; der Regiecredit lautet Gregory Hoblit.",
+        "John Dahl hat diesen Film nicht inszeniert; der Regiecredit lautet Gregory Hoblit.",
+        "Brad Anderson hat diesen Film nicht inszeniert; der Regiecredit lautet Gregory Hoblit."
+      ],
+      "short": "Gregory Hoblit führte bei diesem Film Regie.",
+      "context": "Gregory Hoblit berichtete, er habe das Drehbuch 1997 etwa anderthalb Jahre nach dem Tod seines Vaters gelesen. Für ihn stand die seltene Gesprächsmöglichkeit zwischen Vater und Sohn im Mittelpunkt. Der Regisseur verband deshalb das Zeiträtsel und die Kriminalhandlung mit einer Beziehung, deren scheinbar verlorene Nähe sich durch den Funkkontakt erneut herstellen lässt.",
+      "anchor": "Hoblits eigener Verlust schärfte seinen Blick auf die Vater-Sohn-Gespräche.",
+      "interest": "Die Aussage des Regisseurs erklärt das emotionale Zentrum neben der Zeitreiseidee.",
+      "sources": [
+        "wiki",
+        "interview"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

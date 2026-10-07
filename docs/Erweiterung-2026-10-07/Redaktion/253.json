@@ -1,0 +1,232 @@
+{
+  "rank": 253,
+  "titleDe": "Menschen im Hotel",
+  "originalTitle": "Grand Hotel",
+  "year": 1932,
+  "genre": "Drama",
+  "familiarity": 3,
+  "familiarity_reason": "Ein prägender früher Ensemblefilm verbindet getrennte Lebenswege im gemeinsamen Hotelraum; klassisches Hollywood-Starsystem.",
+  "directors": [
+    "Edmund Goulding"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Kinoöffnung am 12. April 1932. MGM-Verfilmung von Vicki Baums Stoff, nicht die deutsche Neuverfilmung von 1959.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Grand_Hotel_(1932_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/7720-GRAND-HOTEL",
+      "supports": "Regie, Premiere, Besetzung, Baums Roman 1929, Bühnenadaption und Ensembleproduktion."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Menschen_im_Hotel_(1932)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt steht das zentrale Hotel?",
+      "answers": [
+        "Berlin",
+        "Wien",
+        "Paris",
+        "London"
+      ],
+      "feedback": [
+        "Das Grand Hotel bildet einen Berliner Begegnungsraum.",
+        "Wien ist ein späteres Reiseziel, nicht der Hotelstandort.",
+        "Paris wird als Zukunftsort erwogen, bildet aber nicht den Hauptschauplatz.",
+        "Das zentrale Hotel liegt nicht in London."
+      ],
+      "short": "Das Grand Hotel bildet einen Berliner Begegnungsraum.",
+      "context": "Gäste mit sehr verschiedenen Absichten kommen im Berliner Grand Hotel zusammen. Geschäft, Geldnot, Krankheit und künstlerische Erschöpfung führen sie an denselben Ort. Ihre Aufenthalte überschneiden sich nur kurz, verändern aber gegenseitig ihre Wege. Die große Stadt bleibt im Hintergrund; das Hotel verdichtet die Begegnungen auf wenige gemeinsame Räume.",
+      "anchor": "Das Berliner Hotel verdichtet getrennte Lebenswege zu kurzen, folgenreichen Begegnungen.",
+      "interest": "Der Ort erklärt die Struktur der Ensemblehandlung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Beruf hat Grusinskaya (Greta Garbo)?",
+      "answers": [
+        "Balletttänzerin",
+        "Opernsängerin",
+        "Filmschauspielerin",
+        "Konzertpianistin"
+      ],
+      "feedback": [
+        "Sie ist eine russische Ballerina in einer beruflichen Krise.",
+        "Eine Opernkarriere bestimmt ihre Lage nicht.",
+        "Der Wunsch nach Schauspielarbeit gehört eher zu Flämmchen.",
+        "Sie wird nicht als Klaviervirtuosin eingeführt."
+      ],
+      "short": "Sie ist eine russische Ballerina in einer beruflichen Krise.",
+      "context": "Grusinskaya (Greta Garbo) kann die Erwartungen an ihre Auftritte nicht mehr erfüllen und zieht sich verzweifelt zurück. Der Baron (John Barrymore) trifft sie deshalb in einem Moment großer Verletzlichkeit. Ihre künstlerische Krise ermöglicht die persönliche Annäherung. Das Hotelzimmer wird für sie vom Rückzugsraum zu einem Ort neuer Zukunftshoffnung.",
+      "anchor": "Die erschöpfte Ballerina findet im privaten Gespräch neuen Lebensmut.",
+      "interest": "Der Beruf erklärt ihre konkrete Krise vor der Begegnung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum gönnt sich Kringelein (Lionel Barrymore) den luxuriösen Aufenthalt?",
+      "answers": [
+        "Er hält seine Krankheit für tödlich und will seine Ersparnisse nutzen",
+        "Er erwartet die Leitung von Preysings Unternehmen",
+        "Er erhält den ersten Preis einer staatlichen Lotterie",
+        "Er soll das Hotel für einen Käufer begutachten"
+      ],
+      "feedback": [
+        "Er will seine vermeintlich letzten Tage jenseits des sparsamen Angestelltenlebens verbringen.",
+        "Eine zugesagte Firmenleitung ist nicht sein Grund.",
+        "Ein Lotteriegewinn finanziert den Aufenthalt nicht.",
+        "Er kommt nicht als Hotelgutachter."
+      ],
+      "short": "Er will seine vermeintlich letzten Tage jenseits des sparsamen Angestelltenlebens verbringen.",
+      "context": "Kringelein (Lionel Barrymore) war ein kleiner Angestellter von Preysing (Wallace Beery). Die Nachricht von seiner schweren Krankheit verändert den Umgang mit den eigenen Ersparnissen. Im Hotel erlaubt er sich Dinge, die ihm zuvor unerreichbar schienen. Seine Geldmittel bedeuten daher keine gewöhnliche Großzügigkeit, sondern einen bewussten Einsatz der noch erwarteten Lebenszeit.",
+      "anchor": "Kringelein verwendet seine Ersparnisse als Antwort auf eine begrenzte Zukunft.",
+      "interest": "Die Motivation erklärt seinen ungewöhnlichen sozialen Ortswechsel.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum gibt der Baron (John Barrymore) Kringeleins verlorene Geldbörse zurück?",
+      "answers": [
+        "Kringeleins Verzweiflung bewegt ihn trotz eigener Geldnot",
+        "Ein Polizist entdeckt die Börse sofort in seiner Tasche",
+        "Preysing verspricht ihm dieselbe Summe als Belohnung",
+        "Grusinskaya droht ihm mit einer öffentlichen Anzeige"
+      ],
+      "feedback": [
+        "Er entscheidet sich aus Mitgefühl gegen die geplante Ausnutzung.",
+        "Eine unmittelbare Polizeikontrolle erzwingt die Rückgabe nicht.",
+        "Eine Ersatzbelohnung von Preysing ist nicht der Grund.",
+        "Grusinskaya zwingt ihn in dieser Szene nicht mit einer Anzeige."
+      ],
+      "short": "Er entscheidet sich aus Mitgefühl gegen die geplante Ausnutzung.",
+      "context": "Der Baron (John Barrymore) braucht Geld, um sich aus kriminellen Abhängigkeiten zu lösen. Kringeleins (Lionel Barrymore) Börse böte eine schnelle Möglichkeit. Dessen sichtbare Verzweiflung lässt ihn jedoch umkehren und den Fund vortäuschen. Die Szene zeigt seine Fähigkeit zur Rücksicht, ohne seine bestehende Not und den späteren riskanten Einbruch aufzuheben.",
+      "anchor": "Der Baron verzichtet aus Mitgefühl auf eine naheliegende Ausbeutung.",
+      "interest": "Die Entscheidung erklärt seine widersprüchliche moralische Stellung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Womit erschlägt Preysing (Wallace Beery) den überraschten Baron (John Barrymore)?",
+      "answers": [
+        "Mit dem Telefon",
+        "Mit einem Kerzenleuchter",
+        "Mit einer schweren Schreibmaschine",
+        "Mit einer schweren Vase"
+      ],
+      "feedback": [
+        "Beim ertappten Einbruch wird das Telefon zur tödlichen Schlagwaffe.",
+        "Ein Leuchter ist nicht die benutzte Waffe.",
+        "Die Schreibmaschine dient nicht als tödlicher Gegenstand.",
+        "Preysing erschlägt den Baron mit dem Telefon, nicht mit einer Vase."
+      ],
+      "short": "Beim ertappten Einbruch wird das Telefon zur tödlichen Schlagwaffe.",
+      "context": "Preysing (Wallace Beery) überrascht den Baron (John Barrymore) beim Einbruch und erschlägt ihn. Danach beansprucht er Notwehr und versucht, Kringelein (Lionel Barrymore) auf seine Seite zu bringen. Der frühere Angestellte widersetzt sich jedoch und holt die Polizei. Der Geschäftsmann verliert damit gerade bei dem Menschen seine Autorität, den er bislang sozial übergeordnet behandelte.",
+      "anchor": "Preysings Telefonmord endet mit Kringeleins Weigerung, ihn zu decken.",
+      "interest": "Die Szene verbindet eine Tat mit der veränderten Machtbeziehung der beiden Männer.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Wahrheit kennt Grusinskaya (Greta Garbo) bei ihrer Abreise noch nicht?",
+      "answers": [
+        "Der Baron ist bereits tot",
+        "Kringelein hat sämtliche Hotelanteile gekauft",
+        "Flämmchen hat ihre neue Bühnenrolle übernommen",
+        "Preysing hat ihren Auftritt in Wien bezahlt"
+      ],
+      "feedback": [
+        "Ihr Umfeld verschweigt den Tod, während sie ein Wiedersehen erwartet.",
+        "Ein Hotelkauf durch Kringelein gehört nicht zu ihrem Wissensstandproblem.",
+        "Flämmchen wird nicht ihre Bühnenersatzbesetzung.",
+        "Ein von Preysing finanzierter Wiener Auftritt ist nicht die verborgene Wahrheit."
+      ],
+      "short": "Ihr Umfeld verschweigt den Tod, während sie ein Wiedersehen erwartet.",
+      "context": "Grusinskaya (Greta Garbo) reist mit erneuter Zuversicht zum nächsten Auftritt. Sie erwartet, den Baron (John Barrymore) wiederzusehen, weil sein Tod ihr verschwiegen wird. Andere Figuren verlassen denselben Ort mit anderem Wissen und anderen Hoffnungen. Der Schluss hält diese ungleichen Perspektiven nebeneinander, statt die Hotelereignisse für alle gemeinsam aufzulösen.",
+      "anchor": "Grusinskayas Zukunftshoffnung besteht fort, weil ihr die entscheidende Nachricht fehlt.",
+      "interest": "Das Ende erklärt die ungleich verteilte Information innerhalb des Ensembles.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1932",
+        "1929",
+        "1926",
+        "1934"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1932.",
+        "1929 liegt drei Jahre vor der ersten Veröffentlichung von 1932.",
+        "1926 liegt sechs Jahre vor der ersten Veröffentlichung von 1932.",
+        "1934 ist ein späteres Jahr als das belegte erste Filmjahr 1932."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1932.",
+      "context": "Vicki Baums Roman Menschen im Hotel erschien 1929. Nach einer Bühnenbearbeitung von 1930 entstand der MGM-Film von 1932, drei Jahre nach dem Buch. Das Hotel bleibt dabei der Ort, an dem voneinander unabhängige Lebensläufe kurz zusammenkommen. Die Folge von Roman, Bühne und Film erklärt die Übertragung einer bereits bewährten Ensembleanlage in eine große Starproduktion.",
+      "anchor": "Baums Roman 1929 → Bühne 1930 → MGM-Film 1932: drei Jahre vom Buch zum Film.",
+      "interest": "Der Zeitanker erklärt die konkrete Entwicklung des mehrteiligen Erzählstoffs.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Edmund Goulding",
+        "George Cukor",
+        "Clarence Brown",
+        "King Vidor"
+      ],
+      "feedback": [
+        "Edmund Goulding führte bei diesem Film Regie.",
+        "George Cukor hat diesen Film nicht inszeniert; der Regiecredit lautet Edmund Goulding.",
+        "Clarence Brown hat diesen Film nicht inszeniert; der Regiecredit lautet Edmund Goulding.",
+        "King Vidor hat diesen Film nicht inszeniert; der Regiecredit lautet Edmund Goulding."
+      ],
+      "short": "Edmund Goulding führte bei diesem Film Regie.",
+      "context": "Edmund Goulding führte Regie bei einer Produktion mit Greta Garbo, Joan Crawford sowie John und Lionel Barrymore. Die Figuren besitzen unterschiedliche soziale Rollen und Ziele, treffen aber an demselben Ort aufeinander. Die Hotelhalle und angrenzenden Räume tragen diese Begegnungsstruktur. Die prominente Besetzung unterstützt damit eine Geschichte, die ihre Bedeutung aus mehreren miteinander verbundenen Lebenswegen gewinnt.",
+      "anchor": "Goulding führt ein großes Starensemble durch sich kreuzende Wege im Berliner Hotel.",
+      "interest": "Der Hintergrund erklärt den Zusammenhang zwischen Besetzung und Ensembleerzählung.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

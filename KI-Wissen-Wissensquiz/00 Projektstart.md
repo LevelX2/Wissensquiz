@@ -1,5 +1,8 @@
 # Projektstart Wissensquiz
 
+07.10.2026 – **320 Einträge und 2.480 Fragen lokal ergänzt:** Je 20 neue Einträge in allen 16 Auswahlkategorien. Gesamt **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**; 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. Filmauswahl vorrangig aus der persönlichen Sammlung; Einzelbesitzangaben bleiben privat. Noch nicht veröffentlicht. [Redaktion, Lesefassung und Prüfnachweise](../docs/Erweiterung-2026-10-07/Pruefbericht.md).
+
+
 04.10.2026 – **Bestandsredaktion abgeschlossen:** Vier Blöcke mit insgesamt 1.099 überarbeiteten bestehenden Fragen. 341 Tests in 57 Dateien, Build und Quellen-/Katalogprüfung erfolgreich. Seit Sites-Version 54 veröffentlicht. [Texte, Quellen und Prüfgrenzen](../docs/Bestandsredaktion-2026-10-04/Index.json).
 
 Stand: 07.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten Stand von der lokalen Umsetzung. Historische Meldungen und frühere Zahlen sind vollständig in der [Projektstart-Historie](00%20Projektstart-Historie-2026-10-03.md) und chronologisch im [Log](03%20Betrieb/Log.md) erhalten.

@@ -1,0 +1,232 @@
+{
+  "rank": 237,
+  "titleDe": "Green Room",
+  "originalTitle": "Green Room",
+  "year": 2015,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Eine Punkband wird nach einem beobachteten Mord eingeschlossen; Raum, Verhandlungen und Eskalation sind prägend.",
+  "directors": [
+    "Jeremy Saulnier"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere bei der Quinzaine des Réalisateurs in Cannes 2015; reguläre US- und deutsche Kinostarts erst 2016.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Green_Room_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "festival": {
+      "url": "https://www.quinzaine-cineastes.fr/fr/film/green-room",
+      "supports": "Festivaljahr 2015, Regie und Drehbuch, Musik, Produktion, Besetzung und vorheriger Film Blue Ruin 2013."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Green_Room_(Film)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Gruppe steht im Mittelpunkt von @?",
+      "answers": [
+        "Eine reisende Punkband",
+        "Ein Ensemble klassischer Streichmusiker",
+        "Ein professionelles Basketballteam",
+        "Eine Truppe von Zirkusartisten"
+      ],
+      "feedback": [
+        "Die Ain’t Rights reisen als Punkband von Auftritt zu Auftritt.",
+        "Ein klassisches Kammerensemble wird nicht bedroht.",
+        "Die gemeinsame Tätigkeit ist Musik, nicht Basketball.",
+        "Ein Zirkusunternehmen ist nicht die Ausgangswelt."
+      ],
+      "short": "Die Ain’t Rights reisen als Punkband von Auftritt zu Auftritt.",
+      "context": "Die Ain’t Rights suchen während ihrer Tour nach Auftrittsmöglichkeiten. Ein ausgefallener Termin führt sie zu einem Ersatzgig in einem abgelegenen Club. Pat (Anton Yelchin) und seine Bandkollegen sind damit zunächst gewöhnliche Musiker mit einem Geldproblem. Erst eine Beobachtung nach dem Konzert verwandelt die Reise in eine unmittelbare Lebensgefahr.",
+      "anchor": "Der Ersatzauftritt bringt die reisende Punkband in den abgelegenen Club.",
+      "interest": "Die Ausgangslage erklärt, weshalb die Musiker den gefährlichen Ort aufsuchen.",
+      "sources": [
+        "wiki",
+        "de",
+        "festival"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum sperren die Clubbetreiber die Band nach dem Auftritt ein?",
+      "answers": [
+        "Die Musiker haben eine Ermordete entdeckt",
+        "Die Musiker haben den gesamten Eintritt kassiert",
+        "Die Musiker haben ihr Instrumentarium verpfändet",
+        "Die Musiker haben den Stromanschluss des Clubs zerstört"
+      ],
+      "feedback": [
+        "Der Leichenfund macht die Band zu unerwünschten Zeugen.",
+        "Eine Streitigkeit um Eintrittsgeld ist nicht der Auslöser.",
+        "Ein Pfandgeschäft begründet die Einschließung nicht.",
+        "Ein kaputter Stromanschluss erklärt keine geplante Zeugenbeseitigung."
+      ],
+      "short": "Der Leichenfund macht die Band zu unerwünschten Zeugen.",
+      "context": "Pat (Anton Yelchin) kehrt zurück, um ein Telefon zu holen, und entdeckt die tote Emily. Die Betreiber nehmen der Band ihre Kommunikationsmittel ab. Darcy (Patrick Stewart) entscheidet, die Zeugen zu beseitigen. Ein kurzer Rückweg nach einem Auftritt ist damit der Auslöser einer Bedrohung, die sich nicht durch eine einfache Abreise lösen lässt.",
+      "anchor": "Der Leichenfund verwandelt die Musiker in Zeugen, die beseitigt werden sollen.",
+      "interest": "Die Frage erklärt den Grund der Gefangenschaft.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wie täuscht der Club die wegen Pats Anruf eintreffende Polizei?",
+      "answers": [
+        "Eine weitere Messerverletzung soll als Anlass des Anrufs erscheinen",
+        "Die Musiker erhalten gefälschte Diplomatenpässe",
+        "Er meldet den Vorfall als gewöhnlichen Streit unter Bandmitgliedern.",
+        "Darcy zeigt einen bereits unterschriebenen Mordbericht"
+      ],
+      "feedback": [
+        "Eine absichtlich erzeugte andere Verletzung lenkt die Polizei vom eigentlichen Mord ab.",
+        "Gefälschte Reisepapiere sind nicht die Ablenkung.",
+        "Darcy versucht durch die fingierte Messerverletzung einen passenden falschen Polizeianlass herzustellen.",
+        "Ein offizieller Mordbericht ersetzt die manipulierte Situation nicht."
+      ],
+      "short": "Eine absichtlich erzeugte andere Verletzung lenkt die Polizei vom eigentlichen Mord ab.",
+      "context": "Pat (Anton Yelchin) ruft nach dem Leichenfund die Polizei. Gabe (Macon Blair) organisiert jedoch eine andere verletzte Person als scheinbaren Anlass. Die Beamten sollen nur diese oberflächliche Erklärung sehen. Die Einschließung funktioniert deshalb nicht allein durch verschlossene Türen, sondern durch eine manipulierte Darstellung vor möglichen Helfern.",
+      "anchor": "Eine neu erzeugte Verletzung verdeckt den eigentlichen Anlass des Notrufs.",
+      "interest": "Die Szene erklärt, wie die Täter institutionelle Hilfe ablenken.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum endet die Verhandlung über die abgenommene Pistole mit Pats Verletzung?",
+      "answers": [
+        "Der angebotene Austausch durch die Tür ist eine Falle",
+        "Die Pistole explodiert wegen einer falschen Patrone",
+        "Pat verletzt sich absichtlich als Fluchtvorwand",
+        "Ein Polizist schießt versehentlich durch die Tür"
+      ],
+      "feedback": [
+        "Beim Herausreichen der Waffe greifen Darcys Männer Pats Arm an.",
+        "Die Verletzung entsteht durch den Angriff, nicht durch eine explodierende Pistole.",
+        "Pat plant diese Verletzung nicht selbst.",
+        "Es ist kein versehentlicher Polizeischuss."
+      ],
+      "short": "Beim Herausreichen der Waffe greifen Darcys Männer Pats Arm an.",
+      "context": "Die Band hat ihrem Bewacher eine Pistole abgenommen und hofft auf Verhandlungen. Darcy (Patrick Stewart) verlangt deren Rückgabe. Als Pat (Anton Yelchin) die Tür öffnet, wird sein Arm angegriffen. Der Moment zeigt, dass ein scheinbar begrenztes Zugeständnis keine Sicherheit schafft, wenn die andere Seite die Zeugen bereits töten will.",
+      "anchor": "Die Waffenübergabe öffnet den Angreifern den Zugang zu Pats Arm.",
+      "interest": "Der Zusammenhang erklärt das Ende einer vermeintlichen Verhandlungsmöglichkeit.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Womit halten Pat (Anton Yelchin) und Amber (Imogen Poots) einen Angriffshund zurück?",
+      "answers": [
+        "Mit der Rückkopplung eines Mikrofons",
+        "Mit dem Licht einer Filmkamera",
+        "Mit einem vorgetäuschten Polizeipfiff",
+        "Mit einem über den Hund geworfenen Scheinwerfer"
+      ],
+      "feedback": [
+        "Die laute Mikrofonrückkopplung vertreibt den Hund vorübergehend.",
+        "Eine Kamera liefert nicht das hier eingesetzte Abwehrmittel.",
+        "Ein imitierter Polizeipfiff entscheidet diese Szene nicht.",
+        "Ein geworfener Scheinwerfer ersetzt den gezeigten Toneinsatz nicht."
+      ],
+      "short": "Die laute Mikrofonrückkopplung vertreibt den Hund vorübergehend.",
+      "context": "Im Club werden die Flüchtenden auch durch dressierte Angriffshunde verfolgt. Pat (Anton Yelchin) und Amber (Imogen Poots) nutzen einen Gegenstand aus der Musikarbeit: das Mikrofon. Die Rückkopplung gibt ihnen kurz Abstand. Die Raum- und Bühnentechnik wird damit zu einer improvisierten Hilfe, ohne die grundsätzlich gefährliche Lage zu beenden.",
+      "anchor": "Ein Arbeitsmittel der Musiker wird durch Rückkopplung zum Abwehrmittel.",
+      "interest": "Das konkrete Detail verbindet die Bandwelt mit der Überlebenshandlung.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum wechselt Daniel (Mark Webber) vorübergehend auf die Seite der Eingeschlossenen?",
+      "answers": [
+        "Amber erklärt ihm, wer Emily wirklich ermordet hat",
+        "Darcy macht ihn offiziell zum neuen Besitzer des Clubs",
+        "Pat verspricht ihm einen lukrativen Plattenvertrag",
+        "Die Polizei hat ihm bereits Straffreiheit zugesichert"
+      ],
+      "feedback": [
+        "Die Wahrheit über Emilys Tod widerlegt Darcys Behauptung gegen die Band.",
+        "Eine neue Besitzerrolle veranlasst nicht den Seitenwechsel.",
+        "Ein Plattenvertrag ist kein Bestandteil der Situation.",
+        "Es liegt keine polizeiliche Zusicherung als Anlass vor."
+      ],
+      "short": "Die Wahrheit über Emilys Tod widerlegt Darcys Behauptung gegen die Band.",
+      "context": "Darcy (Patrick Stewart) behauptet gegenüber Daniel (Mark Webber), die Band habe Emily getötet. Amber (Imogen Poots) erklärt den tatsächlichen Ablauf und Emilys geplanten Ausbruch aus dem Umfeld. Daniel will daraufhin helfen, wird aber erschossen. Die kurze Allianz zeigt, dass Darcys Kontrolle auch auf falschen Erklärungen gegenüber den eigenen Leuten beruht.",
+      "anchor": "Die Wahrheit über Emilys Tod verändert Daniels Loyalität.",
+      "interest": "Die Wendung erklärt die Bedeutung von Information innerhalb der gewaltsamen Hierarchie.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2015",
+        "2012",
+        "2009",
+        "2017"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2015.",
+        "2012 liegt drei Jahre vor der ersten Veröffentlichung von 2015.",
+        "2009 liegt sechs Jahre vor der ersten Veröffentlichung von 2015.",
+        "2017 ist ein späteres Jahr als das belegte erste Filmjahr 2015."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2015.",
+      "context": "Jeremy Saulniers Blue Ruin war 2013 bei der Quinzaine in Cannes zu sehen; Green Room folgte 2015, zwei Jahre später. Der reguläre Kinostart erfolgte 2016. Der Vergleich verankert das frühere Filmjahr in Saulniers fortgesetzter Arbeit an Gewaltgeschichten, in denen wenig vorbereitete Menschen mit unmittelbar lebensbedrohlichen Situationen konfrontiert werden.",
+      "anchor": "Blue Ruin in Cannes 2013 → Green-Room-Premiere 2015: zwei Jahre; Kinostarts 2016.",
+      "interest": "Der Karriereanker erklärt die Festivaldatierung trotz späterer breiter Auswertung.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jeremy Saulnier",
+        "Adam Wingard",
+        "Fede Álvarez",
+        "Ti West"
+      ],
+      "feedback": [
+        "Jeremy Saulnier führte bei diesem Film Regie.",
+        "Adam Wingard hat diesen Film nicht inszeniert; der Regiecredit lautet Jeremy Saulnier.",
+        "Fede Álvarez hat diesen Film nicht inszeniert; der Regiecredit lautet Jeremy Saulnier.",
+        "Ti West hat diesen Film nicht inszeniert; der Regiecredit lautet Jeremy Saulnier."
+      ],
+      "short": "Jeremy Saulnier führte bei diesem Film Regie.",
+      "context": "Jeremy Saulnier schrieb und inszenierte den Film. Er hatte selbst in einer Punkband gespielt und ließ die Darsteller auf ihre Auftritte vorbereiten. Die Musikarbeit soll die Gruppe vor der Gewalteskalation als tatsächliche Musiker erkennbar machen. Pat (Anton Yelchin) und seine Mitspieler geraten dann in einen Kampf, für den diese gemeinsame Erfahrung nur begrenzte Vorbereitung bietet.",
+      "anchor": "Saulnier verbindet eigene Punkerfahrung mit einer räumlich engen Überlebensgeschichte.",
+      "interest": "Der Regiehintergrund erklärt die glaubhafte Bandwelt vor dem Umschlag in Gewalt.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "rank": 243,
+  "titleDe": "Tote schlafen fest",
+  "originalTitle": "The Big Sleep",
+  "year": 1946,
+  "genre": "Thriller",
+  "familiarity": 2,
+  "familiarity_reason": "Hawks, Bogart und Bacall verbinden einen kanonischen Film noir mit einer komplexen Ermittlung und markantem Dialogspiel.",
+  "directors": [
+    "Howard Hawks"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Gemeint ist die durch Nachdrehs veränderte Kino-Fassung von 1946. Eine frühere, 1945 fertiggestellte Fassung wurde US-Soldaten im Ausland gezeigt; AFI unterscheidet beide ausdrücklich. Keine Gleichsetzung mit der Verfilmung von 1978.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/The_Big_Sleep_(1946_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/24697-THE-BIG-SLEEP",
+      "supports": "Unterscheidung 1945/1946, Kinoöffnung 1946, Regie, Roman 1939, Besetzung und Änderungen für Bacalls Rolle."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Tote_schlafen_fest",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf hat Philip Marlowe (Humphrey Bogart)?",
+      "answers": [
+        "Privatdetektiv",
+        "Staatsanwalt",
+        "Versicherungsdirektor",
+        "Buchhändler"
+      ],
+      "feedback": [
+        "Marlowe ermittelt als privat beauftragter Detektiv.",
+        "Er führt keine staatliche Anklagebehörde.",
+        "Eine Versicherung leitet er nicht.",
+        "Der Buchhandel ist ein Ermittlungsort, nicht sein Beruf."
+      ],
+      "short": "Marlowe ermittelt als privat beauftragter Detektiv.",
+      "context": "General Sternwood (Charles Waldron) bestellt Philip Marlowe (Humphrey Bogart) zu sich. Der private Auftrag führt den Ermittler durch unterschiedliche Milieus von Los Angeles. Weil er nicht unmittelbar eine behördliche Fallakte abarbeitet, muss er zugleich entscheiden, wie viel er dem Auftraggeber, dessen Töchtern und der Polizei jeweils mitteilt.",
+      "anchor": "Marlowe arbeitet im privaten Auftrag und kontrolliert selbst seinen Informationsfluss.",
+      "interest": "Der Beruf erklärt seine Stellung zwischen Familie und Polizei.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Weshalb beauftragt General Sternwood (Charles Waldron) Marlowe (Humphrey Bogart)?",
+      "answers": [
+        "Wegen einer Erpressung im Umfeld seiner Tochter",
+        "Wegen eines gestohlenen Familiengemäldes",
+        "Wegen des Verschwindens seiner gesamten Dienerschaft",
+        "Wegen eines geplanten Verkaufs des Hauses"
+      ],
+      "feedback": [
+        "Die vermeintlichen Schuldforderungen gegen Carmen führen zur Erpressungsermittlung.",
+        "Ein gestohlenes Gemälde ist nicht der Ausgangsauftrag.",
+        "Die Dienerschaft ist nicht geschlossen verschwunden.",
+        "Ein Immobilienverkauf verlangt hier keinen Detektiveinsatz."
+      ],
+      "short": "Die vermeintlichen Schuldforderungen gegen Carmen führen zur Erpressungsermittlung.",
+      "context": "General Sternwood (Charles Waldron) will Forderungen gegen Carmen (Martha Vickers) klären lassen. Marlowe (Humphrey Bogart) trifft dabei auf mehr als einfache Schulden: Fotos, verschwundene Personen und miteinander verbundene Täter. Der begrenzte Familienauftrag öffnet sich somit zu einem größeren Zusammenhang, den zunächst niemand vollständig erklärt.",
+      "anchor": "Eine Erpressungsforderung öffnet den Zugang zum größeren Fall.",
+      "interest": "Die Frage benennt den konkreten Auslöser der Ermittlungen.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welcher Fund in Geigers Haus deutet auf fehlendes Erpressungsmaterial hin?",
+      "answers": [
+        "Eine versteckte Kamera ohne Film",
+        "Ein leerer Tresor mit Sternwoods Testament",
+        "Eine verbrannte Polizeiuniform",
+        "Ein durchgeschnittener Telefonanschluss im Garten"
+      ],
+      "feedback": [
+        "Die Kamera ist vorhanden, aber der für die Fotos entscheidende Film fehlt.",
+        "Ein verschwundenes Testament ist nicht der betreffende Fund.",
+        "Eine Polizeiuniform dient hier nicht als fehlendes Erpressungsmittel.",
+        "Der Hinweis betrifft fotografisches Material, nicht einen Telefonanschluss."
+      ],
+      "short": "Die Kamera ist vorhanden, aber der für die Fotos entscheidende Film fehlt.",
+      "context": "Marlowe (Humphrey Bogart) findet Geiger (Theodore von Eltz) tot und Carmen (Martha Vickers) benommen. Die versteckte Kamera erklärt, wie kompromittierende Bilder entstanden sein könnten. Der fehlende Film macht jedoch deutlich, dass weiteres Material in fremde Hände geraten ist. Die Tatortbesichtigung führt deshalb nicht nur zum Mord, sondern zur Bewegung der Erpressungsbeute.",
+      "anchor": "Die filmlose Kamera verweist auf entnommene kompromittierende Bilder.",
+      "interest": "Der Gegenstand verbindet Tatort und spätere Erpressung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie unterstützt Vivian (Lauren Bacall) Marlowe (Humphrey Bogart) in der Werkstatt?",
+      "answers": [
+        "Sie befreit ihn von seinen Fesseln",
+        "Sie holt ihn mit einem richterlichen Durchsuchungsbefehl heraus",
+        "Sie tauscht ihn gegen Carmens gestohlenes Geld ein",
+        "Sie alarmiert einen Werkstattmitarbeiter mit einem vereinbarten Zeichen."
+      ],
+      "feedback": [
+        "Vivian löst die Fesseln des gefangenen Detektivs.",
+        "Ein richterlicher Einsatz beendet seine Gefangenschaft nicht.",
+        "Eine finanzielle Austauschvereinbarung ist nicht ihre Handlung.",
+        "Vivian löst Marlowes Fesseln; ein Mitarbeiter schafft ihm nicht den Fluchtweg."
+      ],
+      "short": "Vivian löst die Fesseln des gefangenen Detektivs.",
+      "context": "Marlowe (Humphrey Bogart) wird in der Werkstatt überwältigt und festgehalten. Vivian (Lauren Bacall) ist ebenfalls dort und hilft ihm, seine Bewegungsfreiheit zurückzugewinnen. Trotz ihrer bisher ausweichenden Antworten handelt sie in diesem Moment für ihn. Die Szene macht Vertrauen durch eine konkrete Unterstützung sichtbar, bevor die übrigen Geheimnisse ihrer Familie geklärt sind.",
+      "anchor": "Vivians Befreiung ist ein praktischer Vertrauensbeweis.",
+      "interest": "Der Zusammenhang zeigt die Beziehung in einer unmittelbaren Gefahrensituation.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum stirbt Harry Jones (Elisha Cook Jr.), ohne Agnes (Sonia Darrin) auszuliefern?",
+      "answers": [
+        "Er nennt Canino eine falsche Adresse und trinkt das Gift",
+        "Er lockt Canino in eine von Agnes gelegte Sprengfalle",
+        "Er vernichtet einen Brief mit Agnes Fingerabdrücken im Kamin",
+        "Er unterschreibt ein Geständnis für Geigers Mord"
+      ],
+      "feedback": [
+        "Die falsche Adresse schützt Agnes, obwohl Jones die Vergiftung nicht überlebt.",
+        "Eine Sprengfalle ist nicht sein Schutzmittel.",
+        "Ein verbrannter Brief erklärt seine letzte Entscheidung nicht.",
+        "Ein Mordgeständnis wird nicht als sein Tauschmittel gezeigt."
+      ],
+      "short": "Die falsche Adresse schützt Agnes, obwohl Jones die Vergiftung nicht überlebt.",
+      "context": "Marlowe (Humphrey Bogart) hört verborgen, wie Canino (Bob Steele) Harry Jones (Elisha Cook Jr.) unter Druck setzt. Jones schützt Agnes (Sonia Darrin) durch eine falsche Ortsangabe und wird vergiftet. Seine Loyalität wirkt für Marlowe anschließend als belastbare Information über einen Mann, den er zuvor kaum kannte. Kleine Figuren verändern so die moralische Gewichtung der Ermittlung.",
+      "anchor": "Harry Jones schützt Agnes mit einer falschen Adresse bis in den Tod.",
+      "interest": "Die Frage verbindet eine Nebenhandlung mit dem Detektivs Wissen und Loyalitätsurteil.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wodurch kommt Eddie Mars (John Ridgely) beim abschließenden Treffen ums Leben?",
+      "answers": [
+        "Seine eigenen Männer erschießen ihn beim Verlassen des Hauses",
+        "Vivian ersticht ihn im Keller der Werkstatt",
+        "Carmen erschießt ihn aus dem Wagen ihres Vaters",
+        "Marlowe vergiftet seinen vorbereiteten Drink"
+      ],
+      "feedback": [
+        "Marlowe zwingt Mars nach draußen, wo dessen eigene Schützen warten.",
+        "Vivian tötet Mars nicht mit einem Messer.",
+        "Carmen greift nicht aus einem Familienwagen in dieses Treffen ein.",
+        "Ein vergifteter Drink ist nicht die Schlussfalle."
+      ],
+      "short": "Marlowe zwingt Mars nach draußen, wo dessen eigene Schützen warten.",
+      "context": "Marlowe (Humphrey Bogart) führt Eddie Mars (John Ridgely) nach Geigers Haus. Dessen draußen wartende Männer sollen den Detektiv töten. Marlowe richtet die vorbereitete Gefahr gegen ihren Auftraggeber, indem er Mars aus dem Haus zwingt. Der Schluss nutzt somit vorhandene Täterorganisation und falsche Erwartung, statt eine neue Waffe in die Geschichte einzuführen.",
+      "anchor": "Mars stirbt in der von seinen eigenen Männern vorbereiteten Falle.",
+      "interest": "Die Auflösung erklärt die konkrete Umkehr der gegnerischen Planung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien die hier gemeinte überarbeitete Kinofassung von @?",
+      "answers": [
+        "1946",
+        "1943",
+        "1940",
+        "1948"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1946.",
+        "1943 liegt drei Jahre vor der ersten Veröffentlichung von 1946.",
+        "1940 liegt sechs Jahre vor der ersten Veröffentlichung von 1946.",
+        "1948 ist ein späteres Jahr als das belegte erste Filmjahr 1946."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1946.",
+      "context": "Raymond Chandlers Roman The Big Sleep erschien 1939. Die überarbeitete Kino-Fassung von Howard Hawks folgte 1946, sieben Jahre später. Bereits 1945 war eine frühere Fassung Soldaten im Ausland gezeigt worden. Nachdrehs von 1946 stärkten vor allem Vivian (Lauren Bacall) und ihre Beziehung zu Marlowe (Humphrey Bogart), weshalb das hier verwendete Jahr eine konkrete Fassung bezeichnet.",
+      "anchor": "Chandlers Roman 1939 → überarbeitete Kino-Fassung 1946: sieben Jahre; Vorfassung 1945.",
+      "interest": "Der Zeitanker erklärt sowohl die Literaturverbindung als auch das bewusst gewählte Fassungsjahr.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Howard Hawks",
+        "John Huston",
+        "Robert Siodmak",
+        "Fritz Lang"
+      ],
+      "feedback": [
+        "Howard Hawks führte bei diesem Film Regie.",
+        "John Huston hat diesen Film nicht inszeniert; der Regiecredit lautet Howard Hawks.",
+        "Robert Siodmak hat diesen Film nicht inszeniert; der Regiecredit lautet Howard Hawks.",
+        "Fritz Lang hat diesen Film nicht inszeniert; der Regiecredit lautet Howard Hawks."
+      ],
+      "short": "Howard Hawks führte bei diesem Film Regie.",
+      "context": "Howard Hawks führte Regie. William Faulkner, Leigh Brackett und Jules Furthman gehören zu den Drehbuchcredits. Für die Kino-Fassung wurden zusätzliche Begegnungen zwischen Humphrey Bogart und Lauren Bacall gedreht, während eine längere erklärende Ermittlerszene entfiel. Das verstärkte die erotische Beziehung und ließ die ohnehin verschlungene Fallrekonstruktion weniger ausdrücklich erläutern.",
+      "anchor": "Hawks stärkt durch Nachdrehs Bogart und Bacall; eine längere Erklärungsszene entfällt.",
+      "interest": "Der Produktionshintergrund erklärt das Nebeneinander von starker Chemie und komplizierter Ermittlungsstruktur.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

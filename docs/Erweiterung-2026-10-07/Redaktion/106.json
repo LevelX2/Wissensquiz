@@ -1,0 +1,217 @@
+{
+  "rank": 106,
+  "titleDe": "Alamo",
+  "originalTitle": "The Alamo",
+  "year": 1960,
+  "genre": "Western",
+  "familiarity": 2,
+  "directors": [
+    "John Wayne"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Premiere in San Antonio am 24. Oktober 1960; regulärer US-Start am 27. Oktober 1960. Die Erstfassung ist von später gekürzten Verleihfassungen zu unterscheiden.",
+  "familiarity_reason": "John Waynes große Alamo-Produktion verbindet einen weithin bekannten Star mit einem prägenden historischen Westernstoff; Bekanntheit 2.",
+  "sources": {
+    "afi": "https://catalog.afi.com/Film/53074-THE-ALAMO",
+    "tcm": "https://www.tcm.com/articles/12465/the-alamo-1960",
+    "geschichte": "https://www.tshaonline.org/handbook/entries/the-alamo-1960",
+    "handlung": "https://en.wikipedia.org/wiki/The_Alamo_(1960_film)"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchem größeren Ziel dient die Verteidigung der Mission in @?",
+      "answers": [
+        "Houston Zeit zum Aufbau einer Armee zu verschaffen",
+        "Santa Annas Armee zu einer sofortigen Verhandlung zu zwingen",
+        "Den Rückzug Houstons nach Norden vollständig abzudecken",
+        "Die Stadt nur bis zum Eintreffen eigener Vorräte zu halten"
+      ],
+      "feedback": [
+        "Die Verteidiger sollen Santa Annas Vormarsch verzögern.",
+        "Die Verteidigung soll vor allem Zeit für Houstons Aufbau gewinnen, nicht eine sofortige Verhandlung erzwingen.",
+        "Das Ziel ist die Sammlung und Vorbereitung einer Armee und nicht nur Rückzugsdeckung.",
+        "Es geht um Houstons Kräfteaufbau über die lokale Versorgung hinaus."
+      ],
+      "short": "Die Verteidiger sollen Santa Annas Vormarsch verzögern.",
+      "context": "Sam Houston (Richard Boone) braucht Zeit, um eine Armee aufzubauen. Der Auftrag der Verteidiger ist deshalb auf eine Wirkung außerhalb ihres unmittelbaren Ortes gerichtet. Ihr Erfolg lässt sich nicht allein an einem gewonnenen Gefecht messen, sondern auch an der Verzögerung, die sie anderen ermöglichen.",
+      "anchor": "Die Verteidigung gewinnt Zeit für eine andere Armee.",
+      "interest": "Erklärt den strategischen Sinn des Auftrags.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie beantwortet Travis in @ die aufgeführten Forderungen zur Kapitulation?",
+      "answers": [
+        "Mit einem Kanonenschuss",
+        "Mit dem demonstrativen Einholen der Flagge",
+        "Mit der Entsendung Bowies zu Friedensgesprächen",
+        "Mit einem offenen Brief, der Bedingungen stellt"
+      ],
+      "feedback": [
+        "Der Kanonenschuss weist die Forderung zurück.",
+        "Travis beantwortet die Forderung durch einen Kanonenschuss.",
+        "Bowie wird nicht zur vereinbarten Kapitulationsverhandlung entsandt.",
+        "Die unmittelbare Antwort erfolgt sichtbar mit der Kanone und nicht nur schriftlich."
+      ],
+      "short": "Der Kanonenschuss weist die Forderung zurück.",
+      "context": "Travis (Laurence Harvey) antwortet auf die Kapitulationsforderung mit einem Kanonenschuss. Die Handlung ersetzt eine ausführliche Verhandlung durch eine unmissverständliche Zurückweisung. Zugleich verschärft sie die Lage der Besatzung: Die Absicht zu bleiben wird sichtbar, bevor die Frage nach ausreichender Hilfe entschieden ist.",
+      "anchor": "Der Kanonenschuss macht die Ablehnung der Kapitulation sichtbar.",
+      "interest": "Verknüpft eine klare Handlung mit ihrer Eskalationswirkung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Rolle übernimmt Crockett in @ zwischen Travis und Bowie?",
+      "answers": [
+        "Er vermittelt zwischen den streitenden Anführern.",
+        "Er schließt sich bedingungslos Bowies Seite an.",
+        "Er beansprucht selbst das Oberkommando über beide.",
+        "Er verlässt wegen ihres Streits die Verteidigung."
+      ],
+      "feedback": [
+        "Crockett versucht, die Rivalen zusammenzuhalten.",
+        "Crockett bemüht sich um Vermittlung statt einer uneingeschränkten Parteinahme.",
+        "Er versöhnt ihre Positionen und verdrängt sie nicht als alleiniger Befehlshaber.",
+        "Er bleibt und hilft, die gemeinsame Verteidigung zusammenzuhalten."
+      ],
+      "short": "Crockett versucht, die Rivalen zusammenzuhalten.",
+      "context": "Crockett (John Wayne) vermittelt zwischen Travis (Laurence Harvey) und Bowie (Richard Widmark). Ihre verschiedenen Führungsansprüche gefährden die Zusammenarbeit. Seine Rolle macht den äußeren Kampf von einer inneren Aufgabe abhängig: Die Männer müssen ihre Gegensätze so weit begrenzen, dass gemeinsame Verteidigung möglich bleibt.",
+      "anchor": "Crockett begrenzt den Führungsstreit, damit die gemeinsame Verteidigung weitergehen kann.",
+      "interest": "Erklärt die Funktion des Vermittlers.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Entscheidung überlässt Travis in @ den Männern nach der schlechten Nachricht über Verstärkung?",
+      "answers": [
+        "Sie dürfen ohne Ehrverlust fortgehen.",
+        "Sie müssen bis zur letzten Minute unter Strafandrohung bleiben.",
+        "Sie sollen sofort geschlossen ausbrechen.",
+        "Sie dürfen nur mit einer schriftlichen Genehmigung Houstons fortgehen."
+      ],
+      "feedback": [
+        "Travis stellt ihnen das Fortgehen frei.",
+        "Travis lässt ihnen eine freie Entscheidung statt einen erzwungenen Verbleib.",
+        "Er fordert keinen geschlossenen Ausbruch aller Verteidiger.",
+        "Die Wahl ist vor Ort möglich und nicht an Houstons schriftliche Erlaubnis gebunden."
+      ],
+      "short": "Travis stellt ihnen das Fortgehen frei.",
+      "context": "Travis (Laurence Harvey) erlaubt den Männern, ohne Ehrverlust zu gehen. Damit verändert sich der Sinn des Bleibens: Die Verteidigung beruht nun sichtbar auch auf einer eigenen Entscheidung. Der Film verknüpft die militärische Pflicht mit dem freiwilligen Festhalten an der gemeinsamen, äußerst gefährlichen Aufgabe.",
+      "anchor": "Das erlaubte Fortgehen macht das anschließende Bleiben zur bewussten Entscheidung.",
+      "interest": "Erklärt die moralische Wendung der Verteidigung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum entgeht Smitty in @ dem letzten Angriff?",
+      "answers": [
+        "Er ist als Bote zu Houston geschickt worden.",
+        "Er wird zuvor mit Verwundeten aus der Mission gebracht.",
+        "Er verlässt die Stellung als freiwillig aufgegebener Kämpfer.",
+        "Er wird bei einem früheren Erkundungsritt gefangen genommen."
+      ],
+      "feedback": [
+        "Sein Botenauftrag bringt ihn aus der Mission.",
+        "Smitty entgeht dem Angriff durch seinen Botenauftrag, nicht durch einen Verwundetentransport.",
+        "Er wird im Dienst der Verteidigung fortgeschickt und gibt nicht einfach auf.",
+        "Sein Weg führt zu Houston und nicht in gegnerische Gefangenschaft."
+      ],
+      "short": "Sein Botenauftrag bringt ihn aus der Mission.",
+      "context": "Smitty (Frankie Avalon) verlässt den Ort als Bote zu Houston (Richard Boone). Als er zurückkommt, ist die Verteidigung bereits zusammengebrochen. Sein Überleben ergibt sich somit aus einer Aufgabe für die Gruppe. Es gibt ihm anschließend die Möglichkeit, das verlorene Geschehen von außen zu bezeugen.",
+      "anchor": "Der Botenauftrag bewahrt Smitty und macht ihn zum verspäteten Zeugen.",
+      "interest": "Verbindet seinen Auftrag mit der Schlussfunktion.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was tut der bereits tödlich getroffene Crockett im Finale von @?",
+      "answers": [
+        "Er entzündet den Munitionsvorrat.",
+        "Er sprengt mit einem Schuss das Haupttor.",
+        "Er wirft eine letzte Granate auf die Angreifer.",
+        "Er versucht noch, Bowie aus dem Krankenraum zu holen."
+      ],
+      "feedback": [
+        "Crockett setzt den Vorrat in Brand.",
+        "Crockett erreicht das Pulverlager und entzündet den Vorrat.",
+        "Die letzte Handlung richtet sich auf den Munitionsvorrat, nicht auf eine einzelne Granate.",
+        "Sein tödlich verwundeter letzter Einsatz ist keine Rettung Bowies."
+      ],
+      "short": "Crockett setzt den Vorrat in Brand.",
+      "context": "Crockett (John Wayne) entzündet den Munitionsvorrat, obwohl er selbst bereits tödlich getroffen ist. Die letzte Handlung verweigert den Siegern einen unversehrten Vorrat. Der Film stellt damit noch im Zusammenbruch eine begrenzte Handlungsmacht dar, die den persönlichen Tod jedoch nicht mehr verhindern kann.",
+      "anchor": "Crocketts letzte Handlung zerstört, was er nicht mehr verteidigen kann.",
+      "interest": "Erklärt die begrenzte Gegenwehr im Moment der Niederlage.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, 124 Jahre nach der dargestellten Belagerung von 1836?",
+      "answers": [
+        "1960",
+        "1955",
+        "1958",
+        "1965"
+      ],
+      "feedback": [
+        "1960 liegt 124 Jahre nach 1836.",
+        "1955 liegt 119 Jahre danach.",
+        "1958 liegt 122 Jahre danach.",
+        "1965 liegt 129 Jahre danach."
+      ],
+      "short": "1960 liegt 124 Jahre nach 1836.",
+      "context": "Die dargestellte Belagerung fand 1836 statt. John Waynes Film erschien 1960, 124 Jahre später. Die große zeitliche Entfernung trennt das historische Ereignis von seiner filmischen Deutung. Die Texas State Historical Association ordnet diese Fassung in eine längere Reihe von Alamo-Verfilmungen ein.",
+      "anchor": "1836 die Belagerung, 1960 Waynes Deutung: 124 Jahre Abstand.",
+      "interest": "Verankert das Jahr im konkreten historischen Gegenstand.",
+      "sources": [
+        "geschichte"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Fassung von @ aus dem Jahr 1960 die Gesamtregie?",
+      "answers": [
+        "John Wayne",
+        "John Ford",
+        "Frank Lloyd",
+        "Budd Boetticher"
+      ],
+      "feedback": [
+        "Wayne führte die ausgewiesene Gesamtregie.",
+        "Ford unterstützte die Produktion, ist aber nicht der Gesamtregisseur.",
+        "Lloyd inszenierte eine andere Alamo-Verfilmung.",
+        "Boetticher führte hier nicht Gesamtregie."
+      ],
+      "short": "Wayne führte die ausgewiesene Gesamtregie.",
+      "context": "John Wayne führte Regie und spielte Crockett. Die Finanzierung war an seine Mitwirkung vor der Kamera gebunden. TCM beschreibt damit ein Projekt, bei dem die bekannte Schauspielerpersona die Möglichkeit zur eigenen Inszenierung mittrug. Ein Beitrag John Fords als Helfer ist davon gesondert zu betrachten.",
+      "anchor": "Waynes Hauptrolle half, sein eigenes Regieprojekt finanziell möglich zu machen.",
+      "interest": "Verknüpft den Regiecredit mit der konkreten Produktionsentscheidung.",
+      "sources": [
+        "tcm"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "director_note": "John Wayne ist der ausgewiesene Gesamtregisseur. AFI und TCM erwähnen John Ford als Helfer beziehungsweise Leiter von Second-Unit-Aufnahmen; der Umfang des übernommenen Materials wird unterschiedlich beschrieben. Daraus folgt kein zusätzlicher Gesamtregiecredit."
+}

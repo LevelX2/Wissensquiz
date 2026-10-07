@@ -1,0 +1,221 @@
+{
+  "rank": 65,
+  "titleDe": "Percy Jackson: Diebe im Olymp",
+  "originalTitle": "Percy Jackson & the Olympians: The Lightning Thief",
+  "year": 2010,
+  "genre": "Fantasy",
+  "familiarity": 2,
+  "directors": [
+    "Chris Columbus"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten",
+    "Vereinigtes Königreich"
+  ],
+  "release_note": "Veröffentlicht 2010; US-Kinostart am 12. Februar 2010. Die in Übersichten genannte kanadische Premiere vom 2. Februar liegt davor.",
+  "familiarity_reason": "Der erste Kinofilm verbindet eine bekannte Jugendbuchfigur mit leicht wiedererkennbaren griechischen Göttern und Monstern; Bekanntheit 2.",
+  "sources": {
+    "studio": "https://family.20thcenturystudios.com/movies/percy-jackson-and-the-olympians-the-lightning-thief",
+    "handlung": "https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians:_The_Lightning_Thief",
+    "kritik": "https://www.rogerebert.com/reviews/percy-jackson-and-the-olympians-the-lightning-thiefbr-2010",
+    "buch": "https://www.readriordan.com/book/the-lightning-thief/feed/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher griechische Gott ist in @ Percys Vater?",
+      "answers": [
+        "Poseidon",
+        "Zeus",
+        "Hades",
+        "Hermes"
+      ],
+      "feedback": [
+        "Percy ist ein Sohn Poseidons und der menschlichen Sally Jackson.",
+        "Zeus ist nicht Percys Vater, sondern beschuldigt ihn des Diebstahls.",
+        "Hades gehört zur göttlichen Familie, ist aber nicht sein Vater.",
+        "Hermes ist der Vater einer anderen wichtigen Figur."
+      ],
+      "short": "Percy ist ein Sohn Poseidons und der menschlichen Sally Jackson.",
+      "context": "Percy (Logan Lerman) entdeckt seine Abstammung von Poseidon (Kevin McKidd). Seine besondere Beziehung zum Wasser erhält dadurch eine Erklärung. Die Familienenthüllung ist zugleich gefährlich: Sie zieht ihn in den Streit der Götter hinein, obwohl er dessen Regeln erst kennenlernen muss.",
+      "anchor": "Poseidons Sohn besitzt eine besondere Verbindung zum Wasser.",
+      "interest": "Eine Familienenthüllung erklärt sowohl Kräfte als auch Bedrohung.",
+      "sources": [
+        "studio",
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche wirkliche Gestalt verbirgt sich in @ hinter Percys Lehrer Mr. Brunner?",
+      "answers": [
+        "Der Kentaur Chiron",
+        "Ein Satyr",
+        "Ein einäugiger Zyklop",
+        "Der Gott Apollo"
+      ],
+      "feedback": [
+        "Mr. Brunner ist Chiron, ein Kentaur und Ausbilder der Halbgötter.",
+        "Der Satyr im engen Freundeskreis ist Grover.",
+        "Mr. Brunner ist kein Zyklop.",
+        "Apollo übernimmt nicht die Identität des Lehrers."
+      ],
+      "short": "Mr. Brunner ist Chiron, ein Kentaur und Ausbilder der Halbgötter.",
+      "context": "Mr. Brunner (Pierce Brosnan) erscheint Percy (Logan Lerman) zunächst als gewöhnlicher Lehrer. Als Chiron gehört er zur mythologischen Welt und führt die Ausbildung der Halbgötter fort. Seine vermeintlich alltägliche Rolle erhält rückblickend einen Sinn: Schutz und Vorbereitung beginnen schon vor Percys Erkenntnis.",
+      "anchor": "Der Lehrer wird als Kentaur und Ausbilder erkennbar.",
+      "interest": "Eine vertraute Alltagsfigur erhält eine zweite Funktion.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum verlieren Percy und seine Freunde in @ im Lotus-Casino fast eine Woche?",
+      "answers": [
+        "Die Lotusblüten lassen sie ihren Auftrag und die Zeit vergessen",
+        "Die Spielbank hält ihre Besucher mit einem Schlafzauber fest.",
+        "Die Besucher vergessen durch Musik ihre eigenen Namen.",
+        "Eine Sanduhr lässt außerhalb des Hotels die Zeit stillstehen."
+      ],
+      "feedback": [
+        "Die angebotenen Lotusblüten erzeugen eine verführerische Vergessenheit.",
+        "Die Lotusangebote machen Zeit und Auftrag vergessen; ein Schlafzauber wird nicht als Regel gezeigt.",
+        "Die Wirkung betrifft vor allem die Erinnerung an den Auftrag, nicht den eigenen Namen.",
+        "Die Außenwelt bleibt nicht stehen: Während des Aufenthalts vergeht dort Zeit."
+      ],
+      "short": "Die angebotenen Lotusblüten erzeugen eine verführerische Vergessenheit.",
+      "context": "Percy (Logan Lerman), Annabeth (Alexandra Daddario) und Grover (Brandon T. Jackson) lassen sich im Casino von Lotusblüten ablenken. Das angenehme Vergessen verbraucht ihre knappe Zeit. Die Gefahr erscheint daher zunächst als Unterhaltung und wird erst beim Aufbruch als schwere Verzögerung sichtbar.",
+      "anchor": "Im Lotus-Casino kostet das Vergessen fast eine Woche.",
+      "interest": "Ein verführerischer Ort gefährdet die Mission durch verlorene Zeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum muss Grover in @ zunächst in der Unterwelt bleiben?",
+      "answers": [
+        "Für vier Menschen stehen nur drei Fluchtperlen bereit",
+        "Hades verlangt immer den ältesten Besucher als Pfand",
+        "Nur Menschen dürfen die magischen Tore durchqueren",
+        "Grover muss zuerst den verlorenen Helm finden"
+      ],
+      "feedback": [
+        "Drei Perlen reichen nicht für Percy, Annabeth, Sally und Grover.",
+        "Eine feste Altersregel bestimmt sein Zurückbleiben nicht.",
+        "Seine Gestalt allein schließt ihn nicht von der Flucht aus.",
+        "Ein Helmauftrag ist nicht die Bedingung ihres Rückwegs."
+      ],
+      "short": "Drei Perlen reichen nicht für Percy, Annabeth, Sally und Grover.",
+      "context": "Percy (Logan Lerman) kann seine Mutter Sally (Catherine Keener) zurückholen, doch die Fluchtmittel reichen nicht für alle. Grover (Brandon T. Jackson) bleibt freiwillig zurück. Der Erfolg der Rettung verlangt dadurch vorübergehend einen neuen Verlust und beruht auf der Solidarität eines Freundes.",
+      "anchor": "Drei Perlen reichen für vier Gefährten nicht.",
+      "interest": "Eine einfache Mengenbegrenzung erzeugt eine moralische Entscheidung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wo ist der gestohlene Blitz in @ verborgen, ohne dass Percy davon weiß?",
+      "answers": [
+        "In dem Schild, den Luke ihm mitgibt",
+        "In Chirons Schreibstift",
+        "In einem von Grovers Schuhen",
+        "In der Halskette von Annabeth"
+      ],
+      "feedback": [
+        "Luke versteckt den Blitz im übergebenen Schild.",
+        "Chirons Stift dient als anderes magisches Hilfsmittel.",
+        "Grovers Schuhe sind nicht das Versteck.",
+        "Annabeth trägt den Blitz nicht in ihrem Schmuck."
+      ],
+      "short": "Luke versteckt den Blitz im übergebenen Schild.",
+      "context": "Luke (Jake Abel) stattet Percy (Logan Lerman) scheinbar hilfreich aus. Der Schild enthält jedoch den gestohlenen Blitz. Ein Schutzgegenstand wird damit zum Mittel der Täuschung: Percy führt das Beweisstück selbst mit und bleibt zugleich über den tatsächlichen Dieb im Unklaren.",
+      "anchor": "Der hilfreiche Schild transportiert heimlich das gestohlene Beweisstück.",
+      "interest": "Ein Geschenk verbindet Unterstützung und Verrat.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welches New Yorker Gebäude dient in @ als Zugang zum Olymp?",
+      "answers": [
+        "Das Empire State Building",
+        "Das Chrysler Building",
+        "Die Grand Central Station",
+        "Das Metropolitan Museum of Art"
+      ],
+      "feedback": [
+        "Der Zugang zur Welt der Götter liegt im Empire State Building.",
+        "Das Chrysler Building ist nicht der gezeigte Zugang.",
+        "Die Bahnhofshalle führt nicht zum Olymp.",
+        "Das Museum ist nicht der Eingang zum Göttersitz."
+      ],
+      "short": "Der Zugang zur Welt der Götter liegt im Empire State Building.",
+      "context": "Der Olymp ist in dieser Fassung über das Empire State Building erreichbar. Zeus (Sean Bean) und Poseidon (Kevin McKidd) begegnen einander dort über der modernen Stadt. Ein bekanntes Hochhaus übernimmt damit die Funktion des mythologischen Bergs und verbindet antike Höhe mit gegenwärtiger Architektur.",
+      "anchor": "Der moderne Wolkenkratzer übernimmt den Zugang zum Götterberg.",
+      "interest": "Ein konkreter Schauplatz zeigt die Modernisierung griechischer Mythologie.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, fünf Jahre nach Rick Riordans Roman „The Lightning Thief“ von 2005?",
+      "answers": [
+        "2010",
+        "2007",
+        "2009",
+        "2012"
+      ],
+      "feedback": [
+        "Die Verfilmung erschien 2010, fünf Jahre nach dem Roman von 2005.",
+        "2007 wären erst zwei Jahre nach der Vorlage.",
+        "2009 läge vier Jahre nach dem Buch.",
+        "2012 ergäbe sieben Jahre Abstand."
+      ],
+      "short": "Die Verfilmung erschien 2010, fünf Jahre nach dem Roman von 2005.",
+      "context": "Rick Riordans „The Lightning Thief“ erschien 2005; die erste Kinofassung folgte 2010. Der Abstand beträgt fünf Jahre. Die literarische Verbindung von jugendlicher Alltagswelt und griechischen Göttern wurde damit rasch in eine Filmreihe übertragen, deren erste Episode den Ursprung von Percys (Logan Lerman) göttlicher Familiengeschichte erzählt.",
+      "anchor": "2005 Romanbeginn, 2010 Kinobeginn: fünf Jahre Abstand.",
+      "interest": "Der Zeitanker verbindet den Start der Buchreihe mit ihrem ersten Kinofilm.",
+      "sources": [
+        "studio",
+        "buch"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ nach Craig Titleys Drehbuch?",
+      "answers": [
+        "Chris Columbus",
+        "Thor Freudenthal",
+        "David Yates",
+        "Joe Johnston"
+      ],
+      "feedback": [
+        "Chris Columbus führte bei der ersten Percy-Jackson-Kinofassung Regie.",
+        "Freudenthal übernahm die Regie der späteren Fortsetzung.",
+        "Yates ist nicht der Regisseur dieses Films.",
+        "Johnston wird nicht als Regisseur dieser Produktion geführt."
+      ],
+      "short": "Chris Columbus führte bei der ersten Percy-Jackson-Kinofassung Regie.",
+      "context": "Chris Columbus führte Regie, Craig Titley übertrug die Romanvorlage ins Drehbuch. Der Film setzt die mythologische Handlung in eine moderne amerikanische Reise um. Die Regieaufgabe bestand damit auch darin, die Begegnungen mit Göttern, Monstern und Alltagsorten in einer gemeinsamen Abenteuerwelt zusammenzuführen.",
+      "anchor": "Columbus inszeniert Titleys moderne Götterreise.",
+      "interest": "Die Regiefrage ist mit der konkreten Adaptionsaufgabe verbunden.",
+      "sources": [
+        "studio",
+        "kritik"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "series": "Percy Jackson"
+}

@@ -1,0 +1,221 @@
+{
+  "rank": 36,
+  "genre": "Action",
+  "titleDe": "The Equalizer 3",
+  "originalTitle": "The Equalizer 3",
+  "year": 2023,
+  "articleUrl": "https://en.wikipedia.org/wiki/The_Equalizer_3",
+  "familiarity": 2,
+  "selectionReason": "Erweitert die Actionauswahl um Konflikte, Rettungsentscheidungen und die Inszenierung riskanter Einsätze.",
+  "familiarity_reason": "Denzel Washingtons wiederkehrender McCall und die bekannte Equalizer-Reihe geben auch dem dritten Film breite Wiedererkennbarkeit. Der italienische Schauplatz unterscheidet diese Fortsetzung von den Vorgängern; Bekanntheit 2.",
+  "directors": [
+    "Antoine Fuqua"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "production_note": "Die Quellen klassifizieren den Film als US-Produktion; Eagle Pictures ist als italienisches Produktionsunternehmen beteiligt, die Handlung und die Dreharbeiten liegen in Italien.",
+  "release_note": "Premiere in Rom am 28. August 2023; regulärer US-Kinostart am 1. September.",
+  "series": "The Equalizer",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Equalizer_3",
+    "studio": "https://www.sonypictures.com/movies/theequalizer3"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Land findet Robert McCall (Denzel Washington) in @ eine neue Gemeinschaft?",
+      "answers": [
+        "Italien",
+        "Griechenland",
+        "Spanien",
+        "Portugal"
+      ],
+      "feedback": [
+        "McCall erholt sich in einem süditalienischen Küstenort.",
+        "Griechenland ist nicht der Schauplatz dieser neuen Gemeinschaft.",
+        "Die Geschichte ist nicht in Spanien angesiedelt.",
+        "Portugal ist nicht der Ort seiner Erholung."
+      ],
+      "short": "McCall findet in Süditalien eine neue Bindung.",
+      "context": "Robert McCall (Denzel Washington) wird nach einer Verletzung in einem süditalienischen Küstenort versorgt. Aus einer vorläufigen Erholung entwickelt sich ein Gefühl von Zugehörigkeit. Als die neuen Bekannten bedroht werden, ist die Gewalt deshalb keine abstrakte Mission mehr. Sie trifft Menschen, mit denen er einen möglichen Alltag jenseits seiner früheren Arbeit verbindet.",
+      "anchor": "Ein Erholungsort wird für McCall zur möglichen Heimat.",
+      "interest": "Ein Erholungsort wird für McCall zur möglichen Heimat.",
+      "sources": [
+        "handlung",
+        "studio"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche kriminelle Organisation bedroht die Menschen in McCalls (Denzel Washington) neuem Wohnort in @?",
+      "answers": [
+        "Die Camorra",
+        "Die Yakuza",
+        "Ein russisches Militärkommando",
+        "Ein südamerikanisches Söldnerkartell"
+      ],
+      "feedback": [
+        "Die Quaranta-Brüder arbeiten innerhalb der Camorra.",
+        "Die Yakuza ist nicht die örtliche Organisation.",
+        "Ein russisches Militärkommando beherrscht den Ort nicht.",
+        "Die örtliche Bedrohung stammt nicht von einem solchen Söldnerkartell."
+      ],
+      "short": "Die Camorra setzt den Ort unter Druck.",
+      "context": "Die kriminelle Gruppe erpresst Händler und Bewohner und will ihre Wohnungen für ein kommerzielles Vorhaben übernehmen. Robert McCall (Denzel Washington) beobachtet Gewalt gegen Menschen, die ihn aufgenommen haben. Die Bedrohung ist damit zugleich persönlich und räumlich: Ein ganzes gemeinschaftliches Leben soll aus seinem Ort verdrängt werden, nicht nur ein einzelner Gegner besiegt werden.",
+      "anchor": "Die Gewalt zielt auf Menschen und auf die Übernahme ihres Ortes.",
+      "interest": "Die Gewalt zielt auf Menschen und auf die Übernahme ihres Ortes.",
+      "sources": [
+        "handlung",
+        "studio"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum führt die Spur der sizilianischen Kellerei in @ Emma Collins (Dakota Fanning) und die CIA zu einer größeren Untersuchung?",
+      "answers": [
+        "Dort sind große Geldmengen und Drogen versteckt.",
+        "Dort liegt ein Archiv mit den Namen entführter Informanten.",
+        "Dort werden Waffen unter Weinfässern gelagert.",
+        "Dort verbirgt sich der gesuchte Anführer einer Terrorzelle."
+      ],
+      "feedback": [
+        "Die Lagerfunde verbinden die Kellerei mit dem Drogengeschäft.",
+        "Der Fund großer Geldmengen und Drogen führt die Ermittlungen weiter, kein Informantenarchiv.",
+        "Die entscheidende Entdeckung betrifft Geld und Drogen statt versteckter Gewehre.",
+        "Die Kellerei liefert Sachwerte als Spur und nicht bloß den Aufenthalt eines Anführers."
+      ],
+      "short": "Die Kellerei verdeckt ein Geld- und Drogenlager.",
+      "context": "Robert McCall (Denzel Washington) gibt Emma Collins (Dakota Fanning) einen anonymen Hinweis auf eine sizilianische Kellerei. Die Ermittler entdecken Geld und große Mengen Drogen. Der äußerlich gewöhnliche Betrieb gehört damit zu einem weiter reichenden Netzwerk. Die Spur verbindet McCalls erste gewaltsame Begegnung im Film mit der späteren Gefährdung seines süditalienischen Aufenthaltsorts.",
+      "anchor": "Das Weingut ist eine Fassade für ein größeres kriminelles Geschäft.",
+      "interest": "Das Weingut ist eine Fassade für ein größeres kriminelles Geschäft.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie reagieren die Bewohner in @, als Vincent Quaranta (Andrea Scarduzio) McCall (Denzel Washington) öffentlich bedroht?",
+      "answers": [
+        "Sie protestieren gemeinsam und filmen die Angreifer mit ihren Handys.",
+        "Sie wählen Vincent unmittelbar zum Bürgermeister.",
+        "Sie verhaften McCall selbst als einzigen Verantwortlichen.",
+        "Sie verlassen schweigend den Ort und lassen Gio zurück."
+      ],
+      "feedback": [
+        "Die Gemeinschaft tritt sichtbar gegen die Einschüchterung auf.",
+        "Vincent wird nicht durch eine Wahl legitimiert.",
+        "Die Bewohner wenden sich nicht gemeinsam gegen McCall.",
+        "Sie bleiben und machen den Angriff öffentlich sichtbar."
+      ],
+      "short": "Die Bewohner widersetzen sich gemeinsam und schaffen Öffentlichkeit.",
+      "context": "Vincent Quaranta (Andrea Scarduzio) bedroht Gio Bonucci (Eugenio Mastrandrea), um den Verantwortlichen für den Tod seines Bruders zu finden. McCall (Denzel Washington) gibt sich zu erkennen. Nun reagieren die Bewohner mit Protest und Handyaufnahmen. Die Szene erweitert seine Gegenwehr: Auch die Gemeinschaft selbst handelt und erschwert einen Mord, den die Täter möglichst ungestört ausführen wollen.",
+      "anchor": "Gemeinsamer Protest macht aus privater Einschüchterung einen sichtbaren Angriff.",
+      "interest": "Gemeinsamer Protest macht aus privater Einschüchterung einen sichtbaren Angriff.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Verbindung zu Robert McCalls (Denzel Washington) Vergangenheit wird am Schluss von @ für Emma Collins (Dakota Fanning) enthüllt?",
+      "answers": [
+        "Sie ist Susan Plummers Tochter.",
+        "Sie ist McCalls leibliche Tochter.",
+        "Sie ist Dave Yorks Schwester.",
+        "Sie ist die frühere Ehefrau eines seiner Gegner."
+      ],
+      "feedback": [
+        "Emma ist die Tochter von McCalls verstorbener Freundin Susan.",
+        "McCall ist nicht ihr Vater.",
+        "Eine Schwesterbeziehung zu Dave erklärt sie nicht.",
+        "Ein früherer Gegner ist nicht diese familiäre Verbindung."
+      ],
+      "short": "Emma Collins ist die Tochter von Susan Plummer.",
+      "context": "Emma Collins (Dakota Fanning) erhält nach der Untersuchung ein Kontaktbuch und eine Nachricht von McCall (Denzel Washington). Der Hinweis auf ihre Mutter verbindet sie mit Susan Plummer (Melissa Leo in den früheren Filmen). Die anfängliche Auswahl der jungen Agentin gewinnt dadurch rückwirkend Bedeutung: McCall knüpft an eine verlorene Freundschaft an und unterstützt zugleich die nächste Generation.",
+      "anchor": "Die neue Agentin führt eine alte persönliche Verbindung fort.",
+      "interest": "Die neue Agentin führt eine alte persönliche Verbindung fort.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was geschieht in @ mit dem Geld, das McCall (Denzel Washington) aus der Kellerei zurückholt?",
+      "answers": [
+        "Es geht an ein älteres Paar zurück, dessen Altersvorsorge gestohlen wurde.",
+        "Es bezahlt den Wiederaufbau der örtlichen Geschäfte.",
+        "Es wird einem Entschädigungsfonds für Mafiaopfer übergeben.",
+        "Es finanziert McCalls endgültigen Aufenthalt in Italien."
+      ],
+      "feedback": [
+        "Das Geld wird den ursprünglichen Geschädigten zurückgegeben.",
+        "Das Geld kehrt zum älteren Paar zurück, nicht in einen allgemeinen Geschäftsaufbau.",
+        "Die Rückgabe betrifft konkret gestohlene Altersvorsorge statt eines neuen Fonds.",
+        "McCall nimmt es nicht als eigene Finanzierung, sondern gibt es den bestohlenen Eigentümern zurück."
+      ],
+      "short": "Die zurückgeholte Summe wird den Geschädigten erstattet.",
+      "context": "Der Zugriff auf die Kellerei wirkt anfangs wie ein weiterer Kampf in McCalls (Denzel Washington) gewaltsamer Laufbahn. Später wird deutlich, dass eine zuvor gestohlene Altersvorsorge den Anlass gegeben hatte. Emma Collins (Dakota Fanning) hilft bei der Rückgabe. Die Enthüllung ordnet die Gewalt damit einem konkreten Wiederherstellungsziel zu, das vorübergehend hinter den folgenden Gefahren verborgen blieb.",
+      "anchor": "Die Anfangsmission endet mit der Rückgabe an die ursprünglichen Opfer.",
+      "interest": "Die Anfangsmission endet mit der Rückgabe an die ursprünglichen Opfer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Denzel Washington und Dakota Fanning erstmals?",
+      "answers": [
+        "2023",
+        "2018",
+        "2020",
+        "2025"
+      ],
+      "feedback": [
+        "Der dritte Film erschien 2023.",
+        "2018 gehört zum zweiten Film.",
+        "2020 ist nicht dessen erstes Filmjahr.",
+        "2025 liegt nach dieser Veröffentlichung."
+      ],
+      "short": "Der dritte Film erschien 2023.",
+      "context": "Die Filmreihe verlegt McCalls Alltag nun nach Italien und verbindet Washington mit Dakota Fanning als CIA-Agentin. Die Premiere fand in Rom kurz vor dem amerikanischen Kinostart statt. Das erste Filmjahr bezeichnet diesen dritten Teil und unterscheidet ihn von seinem in Boston angesiedelten Vorgänger, auch wenn beide dieselbe Hauptfigur fortführen.",
+      "anchor": "2023 führt der dritte Film McCall nach Italien.",
+      "interest": "2023 führt der dritte Film McCall nach Italien.",
+      "sources": [
+        "handlung",
+        "studio"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Denzel Washington und Dakota Fanning Regie?",
+      "answers": [
+        "Antoine Fuqua",
+        "Tony Scott",
+        "Denzel Washington",
+        "Richard Wenk"
+      ],
+      "feedback": [
+        "Antoine Fuqua führte Regie.",
+        "Scott inszenierte eine frühere Zusammenarbeit der beiden Hauptdarsteller.",
+        "Washington spielt und produziert, inszeniert diesen Film aber nicht.",
+        "Wenk schrieb das Drehbuch."
+      ],
+      "short": "Antoine Fuqua inszenierte auch den dritten McCall-Film.",
+      "context": "Antoine Fuqua verantwortet erneut die Regie, während Richard Wenk das Drehbuch liefert. Denzel Washington und Dakota Fanning hatten bereits in einem anderen Actionfilm zusammen gespielt. Diese frühere Verbindung ist ein interessanter Besetzungsbezug, verändert aber den aktuellen Regiecredit nicht. Die neue italienische Umgebung gehört hier zu Fuquas Fortführung derselben Hauptfigur.",
+      "anchor": "Die frühere gemeinsame Besetzung und der aktuelle Regiecredit bleiben getrennt.",
+      "interest": "Die frühere gemeinsame Besetzung und der aktuelle Regiecredit bleiben getrennt.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

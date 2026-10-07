@@ -1,0 +1,240 @@
+{
+  "rank": 268,
+  "titleDe": "Das Fest",
+  "originalTitle": "Festen",
+  "year": 1998,
+  "genre": "Drama",
+  "familiarity": 3,
+  "familiarity_reason": "Der Dogma-Film macht die Familienfeier zur Konfrontation mit verdrängter Gewalt und formaler Nähe.",
+  "directors": [
+    "Thomas Vinterberg"
+  ],
+  "production_countries": [
+    "Dänemark"
+  ],
+  "release_note": "Uraufführung in Cannes im Mai 1998; dänischer Kinostart im Juni. Vinterberg blieb gemäß Dogme-Regel im Film als Regisseur ungenannt, seine Urheberschaft ist offiziell dokumentiert.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Festen",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/festen/",
+      "supports": "Wettbewerb und Jury-Preis 1998, dänische Produktion, Vinterberg als Regisseur."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/28059-the-celebration",
+      "supports": "Regie, Besetzung, Handkamera und früherer Kurzfilm The Boy Who Walked Backwards von 1995."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Das_Fest_(Film)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Anlass bringt die Familie im Hotel zusammen?",
+      "answers": [
+        "Helges sechzigster Geburtstag",
+        "Christians Hochzeit",
+        "Helenes Studienabschluss",
+        "Michaels Eröffnung eines neuen Hotels"
+      ],
+      "feedback": [
+        "Die Gäste feiern den sechzigsten Geburtstag des Familienoberhaupts Helge.",
+        "Eine Hochzeit Christians ist nicht der Anlass.",
+        "Der Studienabschluss Helenes wird nicht gefeiert.",
+        "Michael eröffnet nicht bei dieser Zusammenkunft ein Hotel."
+      ],
+      "short": "Die Gäste feiern den sechzigsten Geburtstag des Familienoberhaupts Helge.",
+      "context": "Helge (Henning Moritzen) steht als gefeierter Vater im Mittelpunkt. Die festliche Ordnung gibt seinem ältesten Sohn Christian (Ulrich Thomsen) zugleich das Wort für eine Rede. Die Gelegenheit, Anerkennung auszusprechen, wird zur Gelegenheit, die verborgene Gewalt offenzulegen. Der Anlass und die spätere Störung gehören dadurch eng zusammen.",
+      "anchor": "Helges Geburtstagsritual gibt Christian das Wort, mit dem er das Familienbild zerstört.",
+      "interest": "Der Anlass erklärt die besondere Macht der öffentlichen Rede.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Wie war die kürzlich verstorbene Linda mit Christian (Ulrich Thomsen) verwandt?",
+      "answers": [
+        "Sie war seine Zwillingsschwester",
+        "Sie war seine ältere Cousine",
+        "Sie war seine jüngere Stiefmutter",
+        "Sie war seine frühere Schwägerin"
+      ],
+      "feedback": [
+        "Linda ist Christians Zwillingsschwester.",
+        "Sie ist nicht eine Cousine.",
+        "Eine Stiefmutterbeziehung besteht nicht.",
+        "Linda wird nicht als frühere Schwägerin eingeführt."
+      ],
+      "short": "Linda ist Christians Zwillingsschwester.",
+      "context": "Die Erinnerung an Linda ist bereits vor Christians (Ulrich Thomsen) Rede Teil der Feier. Ihr Tod wird aber zunächst nicht mit der Gewalt des Vaters verbunden. Christians Aussagen und der spätere Brief verändern diese Erinnerung. Die Nähe der Zwillinge erklärt, weshalb seine eigene Geschichte und die Erklärung ihres Todes in derselben Auseinandersetzung zusammenlaufen.",
+      "anchor": "Die Erinnerung an Christians Zwilling erhält durch Rede und Brief einen neuen Zusammenhang.",
+      "interest": "Die Beziehung erklärt die persönliche Bedeutung der späteren Enthüllung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was werfen Christians (Ulrich Thomsen) Reden dem Vater vor?",
+      "answers": [
+        "Sexuellen Missbrauch an ihm und seiner Schwester in ihrer Kindheit",
+        "Die heimliche Fälschung aller Geburtsurkunden der Kinder",
+        "Den Verkauf des Hotels ohne Wissen der Familie",
+        "Eine absichtlich vereitelte Rettung bei Lindas Verkehrsunfall"
+      ],
+      "feedback": [
+        "Christian benennt den Missbrauch, dessen Folgen auch Linda betrafen.",
+        "Gefälschte Geburtsurkunden sind nicht der zentrale Vorwurf.",
+        "Ein verschwiegener Hotelverkauf bildet nicht die Enthüllung.",
+        "Linda stirbt nicht bei dem behaupteten Verkehrsunfall."
+      ],
+      "short": "Christian benennt den Missbrauch, dessen Folgen auch Linda betrafen.",
+      "context": "Christian (Ulrich Thomsen) spricht in der Form einer Festrede über die Gewalt Helges (Henning Moritzen). Die Gäste können ihn deshalb nicht einfach aus dem vorgesehenen Ablauf ausschließen. Viele versuchen dennoch, den Inhalt zu übergehen und weiterzufeiern. Die soziale Form schützt anfangs den Redner, während dieselbe Ordnung zugleich das Verdrängen der Aussage unterstützt.",
+      "anchor": "Christian nutzt die Festrede, um Missbrauch öffentlich zu benennen; die Feier versucht weiterzugehen.",
+      "interest": "Die Frage erklärt den Konflikt zwischen ausgesprochenem Inhalt und sozialem Ritual.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum lassen die Bediensteten die Autoschlüssel der Gäste verschwinden?",
+      "answers": [
+        "Sie wollen verhindern, dass die Gäste vor der Klärung abreisen",
+        "Sie wollen die Hotelrechnung aus den Autopfändern begleichen",
+        "Sie wollen die Wagen unbemerkt an einen Händler verkaufen",
+        "Sie wollen ausschließlich den Vater vor einer Polizeikontrolle schützen"
+      ],
+      "feedback": [
+        "Die versteckten Schlüssel halten die Gäste bei der Konfrontation.",
+        "Ein Pfandverfahren für Rechnungen ist nicht das Ziel.",
+        "Ein organisierter Autoverkauf wird nicht geplant.",
+        "Die Maßnahme schützt nicht allein Helge vor der Polizei."
+      ],
+      "short": "Die versteckten Schlüssel halten die Gäste bei der Konfrontation.",
+      "context": "Der Koch Kim (Bjarne Henriksen) kennt Christian (Ulrich Thomsen) seit der Kindheit und unterstützt ihn. Die Bediensteten verändern eine praktische Bedingung des Festes: Die Gäste können nicht einfach wegfahren. Damit wird aus ihrem Dienst für einen geordneten Ablauf ein Eingriff gegen das bequeme Entkommen. Ihre Handlung trägt zur Fortsetzung der Auseinandersetzung bei.",
+      "anchor": "Die Bediensteten verhindern mit versteckten Schlüsseln das bequeme Verlassen der Konfrontation.",
+      "interest": "Die Maßnahme erklärt die aktive Solidarität jenseits der Familienhierarchie.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Wirkung hat Lindas Brief, als Helene (Paprika Steen) ihn vorliest?",
+      "answers": [
+        "Er bestätigt den Missbrauch und verbindet ihn mit Lindas Tod",
+        "Er beweist, dass Christian die gesamten Vorwürfe vorher mit dem Vater verabredet hat",
+        "Er benennt Michael als alleinigen Täter und entlastet den Vater",
+        "Er erklärt Lindas Tod als ungeklärten Hotelunfall ohne familiären Zusammenhang"
+      ],
+      "feedback": [
+        "Der Brief stützt Christians Aussagen aus der Perspektive der verstorbenen Schwester.",
+        "Eine gemeinsame Inszenierung mit Helge wird nicht bewiesen.",
+        "Der Brief ersetzt Helge nicht durch Michael als alleinigen Täter.",
+        "Er löst den Tod gerade nicht vom familiären Missbrauch."
+      ],
+      "short": "Der Brief stützt Christians Aussagen aus der Perspektive der verstorbenen Schwester.",
+      "context": "Der zunächst versteckte Brief gelangt zurück in die Auseinandersetzung. Helene (Paprika Steen) verleiht Lindas Worten eine öffentliche Stimme. Christians (Ulrich Thomsen) Aussagen stehen nun nicht mehr allein gegen die Autorität des Vaters. Der Gegenstand verändert deshalb nicht nur das verfügbare Wissen, sondern auch die Machtverteilung unter den Zuhörenden.",
+      "anchor": "Helenes Lesung gibt Lindas Aussage öffentliches Gewicht und stützt Christian.",
+      "interest": "Der Brief erklärt die Verschiebung von isoliertem Vorwurf zu bestätigter Familiengeschichte.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was zeigt die Frühstücksszene über Helges (Henning Moritzen) Stellung nach der Enthüllung?",
+      "answers": [
+        "Michael fordert ihn auf, den Tisch zu verlassen",
+        "Die Gäste wählen ihn erneut zum alleinigen Sprecher der Familie",
+        "Christian überlässt ihm die Entscheidung über seine eigene Abreise",
+        "Helene fordert, den Brief vor allen Gästen zu verbrennen"
+      ],
+      "feedback": [
+        "Die Familie setzt dem zuvor gefeierten Vater eine sichtbare Grenze.",
+        "Eine erneuerte Sprecherwahl findet nicht statt.",
+        "Christian unterstellt seine Abreise nicht erneut Helges Entscheidung.",
+        "Eine gemeinsame Briefverbrennung wird nicht verlangt."
+      ],
+      "short": "Die Familie setzt dem zuvor gefeierten Vater eine sichtbare Grenze.",
+      "context": "Am nächsten Morgen erscheint Helge (Henning Moritzen) erneut unter den Gästen. Michael (Thomas Bo Larsen), der zuvor Christian bekämpft hatte, fordert nun seinen Vater zum Gehen auf. Der Wechsel zeigt keine vollständige Heilung der Beziehungen. Er macht aber eine Grenze sichtbar, die während der Feier lange nicht ausgesprochen werden konnte.",
+      "anchor": "Der frühere Verteidiger Michael weist Helge beim Frühstück aus der Gemeinschaft.",
+      "interest": "Die Szene zeigt einen konkreten Machtverlust ohne die Behauptung vollständiger Versöhnung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1998",
+        "1995",
+        "1992",
+        "2000"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1998.",
+        "1995 liegt drei Jahre vor der ersten Veröffentlichung von 1998.",
+        "1992 liegt sechs Jahre vor der ersten Veröffentlichung von 1998.",
+        "2000 ist ein späteres Jahr als das belegte erste Filmjahr 1998."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1998.",
+      "context": "Vinterbergs Kurzfilm The Boy Who Walked Backwards erschien 1995 und behandelte die Trauer eines Kindes nach dem Tod seines Bruders. Das Fest folgte 1998, drei Jahre später. Hier begleitet der Tod einer Schwester die Aufdeckung der Familiengeschichte. Die Verbindung zeigt keinen gleichen Handlungsablauf, sondern die erneute Arbeit an Verlust und beschädigten familiären Beziehungen.",
+      "anchor": "Vinterbergs Kurzfilm über Brudertrauer 1995 → Das Fest 1998: drei Jahre und ein neuer Familienkonflikt.",
+      "interest": "Die frühere Arbeit verankert das Filmjahr in einer thematischen Entwicklung.",
+      "sources": [
+        "wiki",
+        "cannes",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Thomas Vinterberg",
+        "Lars von Trier",
+        "Søren Kragh-Jacobsen",
+        "Kristian Levring"
+      ],
+      "feedback": [
+        "Thomas Vinterberg führte bei diesem Film Regie.",
+        "Lars von Trier hat diesen Film nicht inszeniert; der Regiecredit lautet Thomas Vinterberg.",
+        "Søren Kragh-Jacobsen hat diesen Film nicht inszeniert; der Regiecredit lautet Thomas Vinterberg.",
+        "Kristian Levring hat diesen Film nicht inszeniert; der Regiecredit lautet Thomas Vinterberg."
+      ],
+      "short": "Thomas Vinterberg führte bei diesem Film Regie.",
+      "context": "Thomas Vinterberg inszenierte den ersten anerkannten Dogme-Film und schrieb mit Mogens Rukov das Drehbuch. Anthony Dod Mantles bewegliche Kamera und das grobe Videobild geben den Ereignissen einen unmittelbaren Eindruck. Der fehlende namentliche Regiecredit folgt einer Regel der Bewegung. Die offiziell belegte Urheberschaft wird dadurch nicht zu einer unbekannten oder gemeinschaftlichen Regie.",
+      "anchor": "Vinterbergs Regie ist belegt, obwohl das Dogme-Regelwerk seinen Namen im Film unterdrückt.",
+      "interest": "Der Hintergrund erklärt eine ungewöhnliche Creditform und ihre ästhetische Verbindung.",
+      "sources": [
+        "wiki",
+        "cannes",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Arthouse",
+  "director_note": "Thomas Vinterberg inszenierte den Film; der Film verzichtet nach dem Dogme-95-Regelwerk auf den namentlichen Regiecredit."
+}

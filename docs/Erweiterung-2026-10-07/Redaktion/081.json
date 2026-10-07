@@ -1,0 +1,218 @@
+{
+  "rank": 81,
+  "titleDe": "A Quiet Place",
+  "originalTitle": "A Quiet Place",
+  "year": 2018,
+  "genre": "Horror",
+  "familiarity": 2,
+  "directors": [
+    "John Krasinski"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere beim SXSW-Festival am 9. März 2018; US-Kinostart am 6. April 2018. Das Datum 26. Juni auf der Paramount-Heimmedienseite bezeichnet nicht die Erstaufführung.",
+  "familiarity_reason": "Der erfolgreiche Horrorfilm mit Emily Blunt und John Krasinski besitzt ein unmittelbar bekanntes Geräuschprinzip und hohe Genrepräsenz; Bekanntheit 2.",
+  "sources": {
+    "studio": "https://www.paramountpictures.com/movies/a-quiet-place",
+    "kritik": "https://www.rogerebert.com/reviews/a-quiet-place-2018",
+    "handlung": "https://en.wikipedia.org/wiki/A_Quiet_Place",
+    "academy": "https://www.oscars.org/oscars/ceremonies/2019"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Womit bereitet die Familie in @ ihre Fußwege vor, um geräuscharm zu gehen?",
+      "answers": [
+        "Mit einer Schicht Sand",
+        "Mit fest verklebten Stoffbahnen",
+        "Mit weichen Gummimatten",
+        "Mit glatt geschliffenen Holzplatten"
+      ],
+      "feedback": [
+        "Sand dämpft die Schritte auf den vorbereiteten Wegen.",
+        "Die gezeigten Wege bestehen aus Sand, nicht aus Stoffbahnen.",
+        "Sand dämpft ihre Schritte; Gummimatten werden dafür nicht verwendet.",
+        "Die Familie nutzt Sand statt einer durchgehenden Holzfläche."
+      ],
+      "short": "Sand dämpft die Schritte auf den vorbereiteten Wegen.",
+      "context": "Die Familie legt Sand auf ihre Wege und bewegt sich vorsichtig. Alltägliche Fortbewegung braucht dadurch Planung. Der Film macht Sicherheit räumlich sichtbar: Ein vertrauter Weg ist nur dann verlässlich, wenn sein Untergrund keine verräterischen Geräusche erzeugt. Jeder Schritt kann eine Entscheidung über das Überleben werden.",
+      "anchor": "Die Sandwege machen vorsichtige Schritte möglich.",
+      "interest": "Zeigt eine konkrete Anpassung des Alltags an die Bedrohung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche bevorstehende Veränderung stellt die Eltern in @ vor ein besonders schwieriges Schutzproblem?",
+      "answers": [
+        "Die Geburt eines weiteren Kindes",
+        "Der Schulbeginn der ältesten Tochter",
+        "Der dauerhafte Umzug der Kinder in eine Stadt",
+        "Die Rückkehr eines erwachsenen Sohnes aus dem Militär"
+      ],
+      "feedback": [
+        "Evelyn ist hochschwanger; ein Säugling kann seine Geräusche nicht kontrollieren.",
+        "Die bevorstehende Veränderung ist keine Einschulung.",
+        "Die Eltern planen keine solche Stadtunterbringung.",
+        "Ein erwachsener Soldatensohn gehört nicht zur Familie."
+      ],
+      "short": "Evelyn ist hochschwanger; ein Säugling kann seine Geräusche nicht kontrollieren.",
+      "context": "Evelyn (Emily Blunt) erwartet ein weiteres Kind. Ein Neugeborenes versteht keine Regeln der Vorsicht und lässt sich nicht zuverlässig zum Schweigen bringen. Die Schwangerschaft verschärft deshalb den zentralen Elternkonflikt: Ein neues Leben schützen zu wollen bedeutet zugleich, zusätzliche Gefahr für die ganze Familie einzuplanen.",
+      "anchor": "Die bevorstehende Geburt verlangt Schutz für ein Kind ohne Selbstkontrolle.",
+      "interest": "Verbindet die Bedrohung mit einer konkreten familiären Zukunftsfrage.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was löst in @ die tödliche Gefahr für Beau beim Heimweg aus?",
+      "answers": [
+        "Er schaltet ein batteriebetriebenes Spielzeug ein.",
+        "Er ruft seinem Vater über den Fluss zu.",
+        "Er löst versehentlich einen Schuss aus.",
+        "Er beginnt auf der Brücke zu singen."
+      ],
+      "feedback": [
+        "Das Spielzeug erzeugt das Geräusch, das die Kreatur anlockt.",
+        "Ein Ruf über den Fluss ist nicht der Auslöser dieser Szene.",
+        "Eine Schusswaffe löst den Angriff nicht aus.",
+        "Beau singt nicht auf der Brücke."
+      ],
+      "short": "Das Spielzeug erzeugt das Geräusch, das die Kreatur anlockt.",
+      "context": "Beau (Cade Woodward) nimmt heimlich die Batterien für das Spielzeug an sich. Regan (Millicent Simmonds) hatte ihm das zuvor stillgelegte Gerät zurückgegeben. Die Szene verbindet kindliche Neugier mit einer übersehenen Sicherheitslücke. Für die Schwester bleibt danach eine Schuldfrage, obwohl sie das Geräusch nicht beabsichtigt hatte.",
+      "anchor": "Die heimlich eingesetzten Batterien verwandeln das Spielzeug in Gefahr.",
+      "interest": "Erklärt die Ursache eines Ereignisses, das die Familie lange belastet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum sind Gegenstände wie der freiliegende Nagel und der Küchenwecker in @ besonders spannungsvoll inszeniert?",
+      "answers": [
+        "Ihr Anblick lässt das Publikum gefährliche Geräusche vorwegnehmen.",
+        "Sie geben durch ihre Position früh den Weg der Angreifer an.",
+        "Sie markieren den sicheren Bereich, in dem jedes Geräusch erlaubt ist.",
+        "Sie erklären als Alltagsreste, wie lange die Familie dort lebt."
+      ],
+      "feedback": [
+        "Die sichtbaren Gegenstände wecken Erwartungen an Schmerz und Geräusch.",
+        "Der sichtbare Gegenstand lässt vor allem das kommende Geräusch erahnen.",
+        "Beide Gegenstände können Lärm und damit Gefahr erzeugen.",
+        "Die Inszenierung aktiviert die Erwartung des Publikums und dient nicht nur der Datierung."
+      ],
+      "short": "Die sichtbaren Gegenstände wecken Erwartungen an Schmerz und Geräusch.",
+      "context": "Der Film zeigt Dinge, deren mögliche Geräusche das Publikum kennt, bevor diese erklingen. Ein Nagel kündigt Schmerz an, ein Wecker ein Signal. Die Spannung entsteht so aus Erwartung und Beobachtung. Wenig gesprochener Dialog bedeutet deshalb nicht wenig Information; die sichtbare Umgebung erzählt entscheidend mit.",
+      "anchor": "Sichtbare Gegenstände lassen drohende Geräusche schon vorher hörbar werden.",
+      "interest": "Erschließt eine konkrete Technik des Spannungsaufbaus.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S1",
+      "question": "Wie rettet Lee in @ seine Kinder, als die Kreatur ihren Wagen angreift?",
+      "answers": [
+        "Er lenkt sie durch einen lauten Schrei auf sich.",
+        "Er schiebt den Wagen lautlos in ein unterirdisches Versteck.",
+        "Er lockt sie mit einem Radio in die Scheune.",
+        "Er wirft den Wagen mit den Kindern in den Fluss."
+      ],
+      "feedback": [
+        "Sein Schrei zieht die Kreatur von den Kindern weg.",
+        "Ein unterirdisches Versteck ist nicht die Lösung dieser Szene.",
+        "Das Ablenkungsgeräusch kommt von Lee selbst.",
+        "Er versenkt den Wagen nicht im Fluss."
+      ],
+      "short": "Sein Schrei zieht die Kreatur von den Kindern weg.",
+      "context": "Lee (John Krasinski) versichert Regan (Millicent Simmonds) seine Liebe und schreit dann, um die Kreatur abzulenken. Er setzt die Regel, die sonst alle schützt, bewusst außer Kraft. Seine Entscheidung ermöglicht den Kindern die Flucht und macht elterlichen Schutz als unwiderrufliches persönliches Opfer sichtbar.",
+      "anchor": "Lee bricht die Schutzregel, damit seine Kinder ihr folgen können.",
+      "interest": "Verbindet eine bewusste Entscheidung mit der zuvor etablierten Gefahr.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Schwäche der Kreaturen nutzt Regan im Finale von @?",
+      "answers": [
+        "Die Rückkopplung ihres Hörgeräts zwingt die Kreatur, ungeschütztes Gewebe freizulegen.",
+        "Ein Lichtblitz lässt die Kreatur ihre Panzerung abwerfen.",
+        "Ein bestimmter Duft betäubt die Kreatur vollständig.",
+        "Ein elektrischer Zaun lädt ihre Panzerung so stark auf, dass sie zerbricht."
+      ],
+      "feedback": [
+        "Das verstärkte Pfeifen bringt die Kreatur in einen verwundbaren Zustand.",
+        "Ein Lichtblitz liefert nicht den entscheidenden Angriffspunkt.",
+        "Ein Duft ist nicht Regans Waffe.",
+        "Die Panzerung zerbricht nicht durch einen elektrischen Zaun."
+      ],
+      "short": "Das verstärkte Pfeifen bringt die Kreatur in einen verwundbaren Zustand.",
+      "context": "Regan (Millicent Simmonds) erkennt die Wirkung des fehlerhaften Hörgeräts und verstärkt das Pfeifen über ein Mikrofon. Evelyn (Emily Blunt) kann die geöffnete Kopfpartie treffen. Ein zuvor enttäuschendes Hilfsmittel gewinnt einen neuen Zweck; Beobachtung und Zusammenarbeit ermöglichen erstmals wirksame Gegenwehr.",
+      "anchor": "Die Hörgeräte-Rückkopplung öffnet die schützende Panzerung.",
+      "interest": "Erklärt die Verbindung von technischem Fehler und gemeinsamer Rettung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, dessen Tonschnitt im folgenden Jahr für einen Oscar nominiert wurde?",
+      "answers": [
+        "2018",
+        "2015",
+        "2021",
+        "2024"
+      ],
+      "feedback": [
+        "Der Film erschien 2018; die Nominierung folgte 2019.",
+        "2015 liegt drei Jahre vor der Veröffentlichung.",
+        "2021 liegt zwei Jahre nach der genannten Oscarverleihung.",
+        "2024 liegt fünf Jahre nach dieser Nominierung."
+      ],
+      "short": "Der Film erschien 2018; die Nominierung folgte 2019.",
+      "context": "A Quiet Place erschien 2018. Bei den Oscars 2019 wurden Ethan Van der Ryn und Erik Aadahl für den Tonschnitt nominiert. Die Folge von Film und Nominierung passt zu seinem besonderen Spannungsprinzip: Geräusche werden sorgfältig vorbereitet, zurückgehalten und schließlich als Gefahr oder Rettungsmittel eingesetzt.",
+      "anchor": "2018 der Film, 2019 die Oscar-Nominierung für seinen Tonschnitt.",
+      "interest": "Verknüpft das Filmjahr mit einer fachlich passenden späteren Anerkennung.",
+      "sources": [
+        "academy",
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Krasinski",
+        "Michael Bay",
+        "Scott Beck",
+        "Bryan Woods"
+      ],
+      "feedback": [
+        "John Krasinski führte Regie und spielte Lee.",
+        "Bay war Produzent des Films.",
+        "Beck arbeitete an Geschichte und Drehbuch.",
+        "Woods arbeitete ebenfalls an Geschichte und Drehbuch."
+      ],
+      "short": "John Krasinski führte Regie und spielte Lee.",
+      "context": "John Krasinski verband die Regie mit der Rolle des Vaters Lee (John Krasinski). Die ursprüngliche Geschichte stammt von Scott Beck und Bryan Woods; Krasinski arbeitete am Drehbuch mit. Das Team übersetzte den Schutz einer Familie in eine Inszenierung, die Verständigung und Gefahr vielfach über Bilder statt Gespräche organisiert.",
+      "anchor": "Krasinski führt Regie und spielt den Vater; Beck und Woods liefern die Geschichte.",
+      "interest": "Ordnet die verschiedenen belegten Aufgaben im Filmteam ein.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "series": "A Quiet Place"
+}

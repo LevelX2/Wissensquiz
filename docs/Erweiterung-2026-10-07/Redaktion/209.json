@@ -1,0 +1,231 @@
+{
+  "rank": 209,
+  "titleDe": "Der Omega-Mann",
+  "originalTitle": "The Omega Man",
+  "year": 1971,
+  "genre": "Science-Fiction",
+  "familiarity": 3,
+  "familiarity_reason": "Eine ältere Matheson-Adaption setzt Überleben, Immunität und eine neue Gemeinschaft in einen anderen Kontext.",
+  "directors": [
+    "Boris Sagal"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Erste Vorführungen 1971; die Quellen nennen Houston im Juli sowie den allgemeinen Start im August. Beide Angaben gehören zum selben Erstveröffentlichungsjahr.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/The_Omega_Man",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/54103-THE-OMEGAMAN",
+      "supports": "Regie, Autoren, Filmjahr und biologische Kriegskatastrophe."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Der_Omega-Mann",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Katastrophe hat die Welt von @ entvölkert?",
+      "answers": [
+        "Eine durch biologische Kriegsführung verbreitete Seuche.",
+        "Ein flächendeckender Asteroideneinschlag.",
+        "Ein ausschließlich elektronischer Zusammenbruch aller Rechner.",
+        "Ein Angriff von Wesen aus einem fernen Sonnensystem."
+      ],
+      "feedback": [
+        "Biologische Waffen führen zur verheerenden Erkrankung.",
+        "Ein Asteroid ist nicht die Ursache.",
+        "Die Katastrophe betrifft Menschen durch eine Krankheit.",
+        "Außerirdische greifen diese Welt nicht an."
+      ],
+      "short": "Biologische Waffen führen zur verheerenden Erkrankung.",
+      "context": "Biologische Kriegsführung vernichtet den größten Teil der Bevölkerung. Die wenigen Überlebenden reagieren unterschiedlich auf die Erkrankung. Robert Neville (Charlton Heston) verfügt über eine besondere Immunität und bleibt der Wissenschaft verbunden. Die Katastrophe bildet daher nicht nur eine leere Kulisse, sondern bestimmt, wer weiterleben kann und wie die Gruppen einander begegnen.",
+      "anchor": "Die menschenleere Stadt ist die Folge biologischer Kriegsführung.",
+      "interest": "Die Ursache erklärt Immunität und die veränderten Gegner.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wann kann die sogenannte Familie Neville (Charlton Heston) in @ vor allem angreifen?",
+      "answers": [
+        "Nachts, weil ihre Mitglieder lichtempfindlich sind.",
+        "Mittags, weil sie nur bei direkter Sonne sehen können.",
+        "Ausschließlich während eines Gewitters.",
+        "Vor allem im Morgennebel, der ihre Spuren verdeckt."
+      ],
+      "feedback": [
+        "Ihre Lichtempfindlichkeit bestimmt den nächtlichen Angriff.",
+        "Sonnenlicht schützt Neville eher vor ihnen.",
+        "Gewitter sind keine notwendige Voraussetzung.",
+        "Die Lichtempfindlichkeit führt zu Angriffen bei Nacht, nicht zu einer besonderen Abhängigkeit vom Nebel."
+      ],
+      "short": "Ihre Lichtempfindlichkeit bestimmt den nächtlichen Angriff.",
+      "context": "Die erkrankten Mitglieder der Familie meiden Licht. Neville kann die Stadt tagsüber durchstreifen, während er nachts seine Wohnung verteidigen muss. Sein beleuchteter Schutzraum beruht auf technischer Versorgung. Die Tageszeiten organisieren dadurch den Alltag und machen den Stromgenerator zu einem wichtigen Teil seiner Sicherheit.",
+      "anchor": "Licht schützt Neville; die Nacht öffnet seinen Gegnern den Weg.",
+      "interest": "Die Handlungsregel erklärt Tagesrhythmus und Verteidigung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum lehnt Matthias (Anthony Zerbe) in @ Wissenschaft und Technik ab?",
+      "answers": [
+        "Er macht sie für den Krieg und die Seuche verantwortlich.",
+        "Er glaubt, sie würden ausschließlich Neville wohlhabend machen.",
+        "Er hält die Apparate für Nevilles Mittel zur Kontrolle der Überlebenden.",
+        "Er folgt einem früheren staatlichen Berufsverbot für Ärzte."
+      ],
+      "feedback": [
+        "Die Familie verbindet die Katastrophe mit der technisch geprägten alten Welt.",
+        "Ihr Hass reicht über Nevilles persönlichen Besitz hinaus.",
+        "Matthias begründet seine Ablehnung mit Krieg und Seuche, nicht nur mit Nevilles persönlicher Macht.",
+        "Ein staatliches Ärzteverbot erklärt ihre Haltung nicht."
+      ],
+      "short": "Die Familie verbindet die Katastrophe mit der technisch geprägten alten Welt.",
+      "context": "Matthias deutet Wissenschaft als Ursache des Untergangs. Seine Familie bekämpft deshalb gerade die Mittel, mit denen Neville (Charlton Heston) Schutz und Heilung sucht. Beide Seiten betrachten dieselbe Vergangenheit unterschiedlich. Der Konflikt führt über das unmittelbare Überleben hinaus: Ein mögliches Gegenmittel muss Menschen erreichen, die seine wissenschaftliche Herkunft grundsätzlich ablehnen.",
+      "anchor": "Die Katastrophe macht Wissenschaft für Matthias zum Feind, für Neville zum Rettungsweg.",
+      "interest": "Die gegensätzliche Deutung erklärt mehr als den äußeren Kampf.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Woraus gewinnt Neville (Charlton Heston) in @ ein Mittel zur Behandlung Richies?",
+      "answers": [
+        "Aus seinem eigenen immunen Blut.",
+        "Aus einem vor dem Krieg gelagerten Impfstoff.",
+        "Aus dem Blut eines bereits genesenen Kindes.",
+        "Aus Kulturen, die er von Matthias gewonnen hat."
+      ],
+      "feedback": [
+        "Seine Immunität macht das Blut zur Grundlage des Serums.",
+        "Neville verwendet seine eigene Immunität als Grundlage für das Serum.",
+        "Sein eigenes immunes Blut ist die Grundlage, nicht das Blut eines der Kinder.",
+        "Die heilende Grundlage kommt von Neville und nicht vom Anführer der Familie."
+      ],
+      "short": "Seine Immunität macht das Blut zur Grundlage des Serums.",
+      "context": "Neville hat sich mit einem experimentellen Mittel immunisiert. Sein Blut kann nun zur Behandlung eines anderen Überlebenden dienen. Richies (Eric Laneuville) Heilung verwandelt die persönliche Ausnahme in eine übertragbare Hoffnung. Der Film verknüpft deshalb Nevilles isolierten Körper mit der Frage, ob weitere Menschen eine Zukunft erhalten können.",
+      "anchor": "Nevilles eigenes Blut macht persönliche Immunität zur Hoffnung für andere.",
+      "interest": "Die Behandlung erklärt den Übergang von Einzelüberleben zu möglicher Rettung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum sucht der geheilte Richie (Eric Laneuville) in @ die Familie auf?",
+      "answers": [
+        "Er möchte auch sie von der möglichen Heilung überzeugen.",
+        "Er bietet Matthias eine neue automatische Waffe an.",
+        "Er will Neville als Gefangenen gegen Lebensmittel tauschen.",
+        "Er fordert das Eigentum seiner verstorbenen Eltern zurück."
+      ],
+      "feedback": [
+        "Richie versucht die Heilung auf die Gegner auszuweiten.",
+        "Eine Waffenlieferung passt nicht zu seinem Versuch.",
+        "Er bietet Neville nicht als Tauschobjekt an.",
+        "Ein Erbstreit ist nicht sein Anliegen."
+      ],
+      "short": "Richie versucht die Heilung auf die Gegner auszuweiten.",
+      "context": "Die eigene Genesung lässt Richie eine Aussöhnung für möglich halten. Er glaubt, dass auch die Familie das Serum annehmen könnte. Matthias (Anthony Zerbe) versteht den Besuch jedoch als Täuschung und lässt ihn töten. Die gleiche Behandlung, die Neville als Rettung betrachtet, überwindet das Misstrauen seiner Gegner deshalb nicht automatisch.",
+      "anchor": "Richies Hoffnung auf gemeinsame Heilung scheitert an Matthias’ Misstrauen.",
+      "interest": "Die Entscheidung erklärt eine tragische Folge des gescheiterten Verständigungsversuchs.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was gibt Neville (Charlton Heston) in @ kurz vor seinem Tod weiter?",
+      "answers": [
+        "Eine Flasche des heilenden Blutserums.",
+        "Die schriftliche Zusage einer friedlichen Übergabe an Matthias.",
+        "Die Karte eines noch erreichbaren militärischen Schutzlagers.",
+        "Eine vollständige Liste der bereits immunen Überlebenden."
+      ],
+      "feedback": [
+        "Das Serum bleibt als Rettungsmöglichkeit nach seinem Tod erhalten.",
+        "Neville gibt das Serum weiter; eine Vereinbarung mit Matthias rettet die Kinder nicht.",
+        "Das Serum ist sein entscheidender letzter Beitrag, nicht eine Lagerkarte.",
+        "Er hinterlässt ein konkretes Heilmittel und keine Liste bekannter Immuner."
+      ],
+      "short": "Das Serum bleibt als Rettungsmöglichkeit nach seinem Tod erhalten.",
+      "context": "Dutch (Paul Koslo) und die anderen Überlebenden finden Neville sterbend am Brunnen. Er übergibt ihnen das Serum, bevor sie die Stadt verlassen. Sein eigenes Leben endet, doch das daraus gewonnene Mittel bleibt verfügbar. Der Schluss verbindet daher seinen persönlichen Untergang mit einer Zukunftschance, die nun andere weitertragen müssen.",
+      "anchor": "Neville stirbt; das aus seinem Blut gewonnene Serum verlässt mit den Überlebenden die Stadt.",
+      "interest": "Das Vermächtnis erklärt die Hoffnung innerhalb des tragischen Endes.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1971",
+        "1968",
+        "1965",
+        "1973"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1971.",
+        "1968 liegt drei Jahre vor der ersten Veröffentlichung von 1971.",
+        "1965 liegt sechs Jahre vor der ersten Veröffentlichung von 1971.",
+        "1973 ist ein späteres Jahr als das belegte erste Filmjahr 1971."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1971.",
+      "context": "Der Omega-Mann erschien 1971, siebzehn Jahre nach Richard Mathesons Roman I Am Legend von 1954. Die Verfilmung verändert unter anderem die Art der Katastrophe und der Gegner. Die zeitliche Verbindung ordnet Charlton Hestons Fassung innerhalb der Bearbeitungen desselben Stoffes ein, ohne ihre Einzelheiten mit anderen Versionen gleichzusetzen.",
+      "anchor": "Mathesons Roman 1954 → Der Omega-Mann 1971: siebzehn Jahre später.",
+      "interest": "Die Buchverbindung erklärt den gemeinsamen Ausgangsstoff verschiedener Filmfassungen.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Boris Sagal",
+        "Richard Fleischer",
+        "Don Siegel",
+        "Robert Wise"
+      ],
+      "feedback": [
+        "Boris Sagal führte bei diesem Film Regie.",
+        "Richard Fleischer hat diesen Film nicht inszeniert; der Regiecredit lautet Boris Sagal.",
+        "Don Siegel hat diesen Film nicht inszeniert; der Regiecredit lautet Boris Sagal.",
+        "Robert Wise hat diesen Film nicht inszeniert; der Regiecredit lautet Boris Sagal."
+      ],
+      "short": "Boris Sagal führte bei diesem Film Regie.",
+      "context": "Boris Sagal inszenierte die von John William und Joyce Hooper Corrington geschriebene Fassung. Die Drehbuchautoren ersetzten die vampirähnlichen Gegner des Romans durch Opfer biologischer Kriegsführung. Sagal setzt den Gegensatz zwischen Nevilles technisch geschütztem Alltag und der technikfeindlichen Gemeinschaft ins Bild. Der Kampf handelt damit auch von unterschiedlichen Antworten auf die Katastrophe.",
+      "anchor": "Sagals Fassung verbindet den biologischen Krieg mit einem Konflikt um Wissenschaft und Technik.",
+      "interest": "Der Regiehintergrund führt die konkrete Bearbeitung des Romans zur Gestaltung des Konflikts.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

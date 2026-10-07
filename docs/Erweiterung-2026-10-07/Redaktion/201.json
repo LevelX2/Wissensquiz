@@ -1,0 +1,233 @@
+{
+  "rank": 201,
+  "titleDe": "Open Your Eyes",
+  "originalTitle": "Abre los ojos",
+  "year": 1997,
+  "genre": "Science-Fiction",
+  "familiarity": 3,
+  "familiarity_reason": "Spanisches Spiel mit Traum, Rekonstruktion und Identität; ergänzt eigenständige europäische Science-Fiction.",
+  "directors": [
+    "Alejandro Amenábar"
+  ],
+  "production_countries": [
+    "Spanien",
+    "Frankreich",
+    "Italien"
+  ],
+  "release_note": "Erster spanischer Kinostart im Dezember 1997; gemeint ist das spanische Original und nicht das US-Remake von 2001.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Open_Your_Eyes_(1997_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "janus": {
+      "url": "https://www.janusfilms.com/films/2346",
+      "supports": "Regie, Originalfassung von 1997, Grundkonflikt und späteres Remake."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Virtual_Nightmare_%E2%80%93_Open_Your_Eyes",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum trägt César (Eduardo Noriega) in @ eine Gesichtsmaske?",
+      "answers": [
+        "Sein Gesicht wurde bei einem Autounfall entstellt.",
+        "Er verbirgt seine Identität vor einer Entführergruppe.",
+        "Er schützt eine frisch transplantierte Haut vor Sonnenlicht.",
+        "Er probt damit eine Rolle für Sofías Theatergruppe."
+      ],
+      "feedback": [
+        "Der Unfall hinterlässt schwere Gesichtsverletzungen.",
+        "Die Maske verdeckt eine Verletzung, keine Entführeridentität.",
+        "Eine Hauttransplantation ist nicht ihr Anlass.",
+        "Die Maske gehört zu Césars Alltag nach dem Unfall."
+      ],
+      "short": "Der Unfall hinterlässt schwere Gesichtsverletzungen.",
+      "context": "Césars zuvor selbstverständliche Attraktivität wird durch den Unfall zerstört. Eduardo Noriega spielt einen Mann, der sich nun hinter einer Maske zurückzieht. Die sichtbare Veränderung macht seine Abhängigkeit vom Blick anderer deutlich. Seine anschließende Wahrnehmungskrise betrifft daher zugleich sein eigenes Gesicht und die Menschen, denen er vertraut.",
+      "anchor": "Der Unfall verwandelt das Gesicht in eine Quelle der Unsicherheit.",
+      "interest": "Eine konkrete Requisite erschließt den Verlust des bisherigen Selbstbilds.",
+      "sources": [
+        "wiki",
+        "janus"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie lernt César (Eduardo Noriega) in @ Sofía (Penélope Cruz) kennen?",
+      "answers": [
+        "Sein Freund Pelayo bringt sie zu Césars Geburtstag.",
+        "Sie behandelt ihn nach dem Unfall im Krankenhaus.",
+        "Sie vertritt ihn bei seiner Gerichtsverhandlung.",
+        "Sie betreut seinen Vertrag bei Life Extension."
+      ],
+      "feedback": [
+        "Sofía kommt als Begleitung seines Freundes zur Feier.",
+        "Sofía ist nicht seine behandelnde Ärztin.",
+        "Ihre Begegnung liegt vor dem Gerichtsverfahren.",
+        "Die Liebesgeschichte beginnt unabhängig von Life Extension."
+      ],
+      "short": "Sofía kommt als Begleitung seines Freundes zur Feier.",
+      "context": "Pelayo (Fele Martínez) bringt Sofía zur Geburtstagsfeier seines Freundes. César interessiert sich sofort für sie und setzt damit die Freundschaft unter Spannung. Die Begegnung zeigt seinen bisherigen Umgang mit Nähe: Was für ihn leicht erreichbar scheint, verletzt einen anderen. Später verliert gerade dieser vermeintlich sichere Mann seine Orientierung.",
+      "anchor": "Die Geburtstagsbekanntschaft belastet bereits die Freundschaft mit Pelayo.",
+      "interest": "Das erste Treffen erklärt die Beziehungen vor dem Unfall.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was verunsichert César (Eduardo Noriega) an Sofía in @ besonders?",
+      "answers": [
+        "Er sieht sie wiederholt mit Nurias Gesicht.",
+        "Sie behauptet plötzlich, die beiden hätten früher zusammengelebt.",
+        "Sie behauptet, Pelayo nie getroffen zu haben.",
+        "Sie berichtet ihm von einer bislang geheimen Ehe."
+      ],
+      "feedback": [
+        "Für César wechseln Sofías und Nurias Erscheinungen.",
+        "Die Verunsicherung entsteht durch Nurias Gesicht an Sofías Stelle, nicht durch eine gemeinsame Vergangenheit.",
+        "Die Krise besteht nicht in einer geleugneten Bekanntschaft.",
+        "Eine heimliche Ehe erklärt seine Wahrnehmung nicht."
+      ],
+      "short": "Für César wechseln Sofías und Nurias Erscheinungen.",
+      "context": "César erkennt in Sofía (Penélope Cruz) plötzlich Nuria (Najwa Nimri), die beim Unfall gestorben ist. Andere bestätigen dennoch Sofías Identität. Damit fehlt ihm ein verlässlicher Außenmaßstab. Der Film führt keine einfache Verwechslung vor, sondern zeigt, wie Erinnerung und Schuld in eine Wahrnehmung eindringen, der César nicht länger trauen kann.",
+      "anchor": "Andere erkennen Sofía; César sieht die tote Nuria.",
+      "interest": "Der Widerspruch verbindet subjektiven Eindruck mit der Suche nach überprüfbarer Wirklichkeit.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welches Angebot erklärt in @ Césars scheinbar geheilte Existenz?",
+      "answers": [
+        "Kryonische Konservierung mit einer simulierten Traumwelt.",
+        "Eine Organtransplantation mit den Erinnerungen eines Spenders.",
+        "Eine Hypnosebehandlung ohne technische Aufzeichnung.",
+        "Ein experimentelles Medikament gegen Gesichtsverletzungen."
+      ],
+      "feedback": [
+        "Life Extension verbindet eingefrorenen Körper und künstliche Wahrnehmung.",
+        "Ein Spenderorgan ist nicht die Grundlage dieser Existenz.",
+        "Die erklärte Traumwelt geht über gewöhnliche Hypnose hinaus.",
+        "Ein Medikament allein erklärt den Wirklichkeitswechsel nicht."
+      ],
+      "short": "Life Extension verbindet eingefrorenen Körper und künstliche Wahrnehmung.",
+      "context": "Life Extension verspricht, einen konservierten Körper später wiederzubeleben. Bis dahin kann der Kunde eine künstliche Wahrnehmung erleben. Diese Erklärung verschiebt den scheinbaren Heilungserfolg: César (Eduardo Noriega) sieht sich in einem arrangierten Leben. Seine Wünsche liefern dessen Ausgangspunkt, seine belastenden Erinnerungen stören jedoch die erhoffte Kontinuität.",
+      "anchor": "Die ersehnte Heilung gehört zunächst zu einer programmierten Wahrnehmung.",
+      "interest": "Das technische Angebot erklärt die zuvor widersprüchlichen Ereignisse.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie ließ sich die menschenleere Gran Vía am Anfang von @ aufnehmen?",
+      "answers": [
+        "Die Straße wurde früh an einem Feiertag gesperrt.",
+        "Eine vollständig künstliche Stadt wurde am Computer gebaut.",
+        "Sämtliche Passanten wurden erst nachträglich einzeln entfernt.",
+        "Der Dreh fand in einem verlassenen Madrider Vorort statt."
+      ],
+      "feedback": [
+        "Eine genehmigte Sperrung erlaubte die Aufnahme im Stadtzentrum.",
+        "Die Szene verwendet die wirkliche Gran Vía.",
+        "Die Produktionsangabe nennt eine Straßensperrung.",
+        "Der ungewöhnliche Anblick entsteht gerade im zentralen Madrid."
+      ],
+      "short": "Eine genehmigte Sperrung erlaubte die Aufnahme im Stadtzentrum.",
+      "context": "Die Produktion konnte die Gran Vía früh am Feiertag des 15. August 1996 sperren lassen. Die reale Großstadt wirkt dadurch plötzlich verlassen. Für César (Eduardo Noriega) und das Publikum wird eine vertraute Umgebung fremd, bevor eine Erklärung vorliegt. Ein praktischer Eingriff in den Drehort erzeugt so das zentrale Gefühl unzuverlässiger Realität.",
+      "anchor": "Eine reale Straßensperrung macht das alltägliche Madrid unwirklich.",
+      "interest": "Der Drehtrick verbindet Produktionsentscheidung und Wirkung des Auftakts.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Was erschüttert auf dem Dach in @ Antonios (Chete Lera) Rolle?",
+      "answers": [
+        "Duvernois bezeichnet ihn als Teil der Simulation.",
+        "Sofía entlarvt ihn als den Fahrer des Unfallwagens.",
+        "Pelayo weist nach, dass er Césars Erbe gestohlen hat.",
+        "César erkennt ihn als Operateur seiner Gesichtsoperation."
+      ],
+      "feedback": [
+        "Der vermeintliche Außenstehende soll selbst künstlich sein.",
+        "Der Unfallwagen wurde von Nuria gesteuert.",
+        "Ein Erbschaftsdiebstahl ist nicht die Enthüllung auf dem Dach.",
+        "Antonio ist der begleitende Psychologe, nicht der Operateur."
+      ],
+      "short": "Der vermeintliche Außenstehende soll selbst künstlich sein.",
+      "context": "Antonio hilft César (Eduardo Noriega), Erinnerungen zu ordnen, und wirkt zunächst wie ein Außenstehender. Auf dem Dach behauptet Duvernois (Gérard Barray), auch er gehöre zur künstlichen Welt. Seine emotionalen Einwände verlieren dadurch ihren sicheren Status. César muss entscheiden, obwohl selbst die Person, die Vernunft verkörpert, keine unabhängige Bestätigung mehr bietet.",
+      "anchor": "Auch der beratende Psychologe verliert seinen Status als äußerer Wirklichkeitsmaßstab.",
+      "interest": "Die Schlussentscheidung betrifft die Verlässlichkeit von Beziehungen ebenso wie die Technik.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1997",
+        "1994",
+        "1991",
+        "1999"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1997.",
+        "1994 liegt drei Jahre vor der ersten Veröffentlichung von 1997.",
+        "1991 liegt sechs Jahre vor der ersten Veröffentlichung von 1997.",
+        "1999 ist ein späteres Jahr als das belegte erste Filmjahr 1997."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1997.",
+      "context": "Das spanische Original erschien 1997. Vier Jahre später folgte 2001 Cameron Crowes US-Remake Vanilla Sky. Penélope Cruz spielte in beiden Fassungen Sofía. Der Zusammenhang erklärt, warum vertraute Bilder und dieselbe Darstellerin zu unterschiedlichen Filmjahren gehören: Die amerikanische Neuverfilmung folgt dem bereits veröffentlichten spanischen Film.",
+      "anchor": "Open Your Eyes 1997 → Vanilla Sky 2001: vier Jahre später, erneut mit Penélope Cruz.",
+      "interest": "Der Vergleich trennt Original und Remake trotz gemeinsamer Darstellerin.",
+      "sources": [
+        "wiki",
+        "janus"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Alejandro Amenábar",
+        "Pedro Almodóvar",
+        "Julio Medem",
+        "Álex de la Iglesia"
+      ],
+      "feedback": [
+        "Alejandro Amenábar führte bei diesem Film Regie.",
+        "Pedro Almodóvar hat diesen Film nicht inszeniert; der Regiecredit lautet Alejandro Amenábar.",
+        "Julio Medem hat diesen Film nicht inszeniert; der Regiecredit lautet Alejandro Amenábar.",
+        "Álex de la Iglesia hat diesen Film nicht inszeniert; der Regiecredit lautet Alejandro Amenábar."
+      ],
+      "short": "Alejandro Amenábar führte bei diesem Film Regie.",
+      "context": "Alejandro Amenábar inszenierte seinen zweiten Langfilm und schrieb das Drehbuch mit Mateo Gil. Außerdem komponierte er mit Mariano Marín die Musik. Die verschachtelte Wahrnehmung wird damit durch mehrere von ihm mitgestaltete Ebenen getragen. Die Regie des späteren US-Remakes übernahm dagegen Cameron Crowe.",
+      "anchor": "Amenábar verbindet Regie, Drehbuch und Musik des spanischen Originals.",
+      "interest": "Die personelle Verbindung erklärt die geschlossene Gestaltung des Wahrnehmungsrätsels.",
+      "sources": [
+        "wiki",
+        "janus"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

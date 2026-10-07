@@ -1,0 +1,233 @@
+{
+  "rank": 242,
+  "titleDe": "Hier ist John Doe",
+  "originalTitle": "Meet John Doe",
+  "year": 1941,
+  "genre": "Drama",
+  "familiarity": 3,
+  "familiarity_reason": "Capras politisches Melodram untersucht die mediale Herstellung eines Volkshelden; prägender Klassiker des amerikanischen Gesellschaftskinos.",
+  "directors": [
+    "Frank Capra"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Premieren in Hollywood und New York am 12. März 1941; nationaler US-Start am 3. Mai. Fragen beziehen sich auf die regulär verbreitete Schlussfassung, nicht verworfene alternative Enden.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Meet_John_Doe",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/27680",
+      "supports": "Märzpremieren, nationaler Start, Regie, Gründung von Capra Productions und Connells Erzählung von 1922."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Hier_ist_John_Doe",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Womit löst Ann Mitchell (Barbara Stanwyck) die öffentliche Aufregung aus?",
+      "answers": [
+        "Mit einem erfundenen Leserbrief über einen geplanten Selbstmord",
+        "Mit einem gestohlenen Regierungsbericht über Kriegsverbrechen",
+        "Mit einer echten Todesanzeige für einen Bürgermeister",
+        "Mit der Veröffentlichung eines geheimen Wahlprotokolls"
+      ],
+      "feedback": [
+        "Der erfundene Brief kündigt einen Sprung an Heiligabend an.",
+        "Ein Regierungsbericht begründet die Kampagne nicht.",
+        "Die Ausgangsgeschichte ist keine echte Todesanzeige.",
+        "Ein Wahlprotokoll ist nicht Anns letzte Kolumne."
+      ],
+      "short": "Der erfundene Brief kündigt einen Sprung an Heiligabend an.",
+      "context": "Ann Mitchell (Barbara Stanwyck) soll nach ihrer Entlassung noch eine letzte Kolumne schreiben. Aus Wut erfindet sie den Brief eines verzweifelten Arbeitslosen. Die Resonanz verschafft ihr wieder Arbeit, verlangt aber einen sichtbaren Autor. Ein zunächst privater Racheakt gegen die Zeitung entwickelt dadurch eine öffentliche Wirkung, die Ann weiter bedienen muss.",
+      "anchor": "Anns erfundener Abschiedsbrief erzeugt die Nachfrage nach einem wirklichen John Doe.",
+      "interest": "Die Ausgangstat erklärt den Zusammenhang zwischen Arbeitsplatz und öffentlicher Täuschung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen früheren Beruf hatte der engagierte John Willoughby (Gary Cooper)?",
+      "answers": [
+        "Baseballspieler",
+        "Börsenmakler",
+        "Zeitungsredakteur",
+        "Bürgermeister"
+      ],
+      "feedback": [
+        "Willoughby war Baseballspieler und hofft auf die Behandlung seines verletzten Arms.",
+        "Eine frühere Börsenkarriere wird ihm nicht zugeschrieben.",
+        "Er ist kein entlassener Kollege aus der Redaktion.",
+        "Er hatte kein Bürgermeisteramt."
+      ],
+      "short": "Willoughby war Baseballspieler und hofft auf die Behandlung seines verletzten Arms.",
+      "context": "John Willoughby (Gary Cooper) lebt inzwischen als Landstreicher und braucht Geld für seinen verletzten Arm. Die bezahlte Rolle bietet ihm eine Aussicht auf Rückkehr zum Baseball. Seine eigene Not passt zur erfundenen öffentlichen Figur, obwohl der veröffentlichte Brief nicht von ihm stammt. Diese Nähe erleichtert den Auftritt und verschärft später sein Gewissensproblem.",
+      "anchor": "Der ehemalige Baseballspieler nimmt die Rolle aus eigener wirtschaftlicher Not an.",
+      "interest": "Der Beruf erklärt seinen konkreten persönlichen Anreiz.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was überzeugt Willoughby (Gary Cooper), dass die Kampagne mehr als ein Werbetrick geworden ist?",
+      "answers": [
+        "Nachbarn haben aufgrund seiner Rede einen Hilfsclub gegründet",
+        "Der Zeitungsverlag bietet ihm einen langfristigen Schauspielvertrag",
+        "Ein Wahlleiter garantiert ihm einen Sitz im Senat",
+        "Eine Konkurrenzzeitung kauft die Rechte an seiner Biografie"
+      ],
+      "feedback": [
+        "Der echte Nachbarschaftsclub zeigt eine Wirkung jenseits der erfundenen Herkunft.",
+        "Ein Schauspielvertrag belegt keine gemeinschaftliche Veränderung.",
+        "Ein zugesicherter Senatssitz ist nicht sein Erlebnis.",
+        "Ein Rechteverkauf erklärt sein erneuertes Vertrauen nicht."
+      ],
+      "short": "Der echte Nachbarschaftsclub zeigt eine Wirkung jenseits der erfundenen Herkunft.",
+      "context": "Willoughby (Gary Cooper) flieht zunächst vor seiner Rolle. In Millville begegnet er Menschen, die seine Radiorede ernst genommen haben und einander helfen. Die Worte wurden für eine Täuschung geschrieben, haben aber eine tatsächliche Praxis erzeugt. Dadurch wächst seine Bindung an die Idee unabhängig von der falschen Geschichte seiner öffentlichen Entstehung.",
+      "anchor": "Echte Nachbarschaftshilfe entsteht aus einer erfundenen öffentlichen Figur.",
+      "interest": "Die Frage erklärt, warum Willoughby die Idee trotz der Täuschung ernst nimmt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wozu will Verleger Norton (Edward Arnold) die John-Doe-Bewegung nutzen?",
+      "answers": [
+        "Zu seiner eigenen Präsidentschaftskandidatur",
+        "Zur Finanzierung von Willoughbys Sportverein",
+        "Zum Zusammenschluss unabhängiger Zeitungen",
+        "Zur Auflösung sämtlicher politischer Parteien"
+      ],
+      "feedback": [
+        "Er plant eine neue Partei mit sich als Präsidentschaftskandidaten.",
+        "Die sportliche Zukunft des Darstellers ist nicht sein Hauptziel.",
+        "Eine Pressekooperative ist nicht der geplante Machtgewinn.",
+        "Er will eine eigene Partei gründen, nicht jede Partei abschaffen."
+      ],
+      "short": "Er plant eine neue Partei mit sich als Präsidentschaftskandidaten.",
+      "context": "D. B. Norton (Edward Arnold) unterstützt die Kampagne mit Geld und Medienzugang. Hinter dieser Förderung steht ein politischer Plan: Die Clubs sollen ihm eine Wählerbasis verschaffen. Willoughby (Gary Cooper) soll den Übergang in einer Rede bestätigen. Die scheinbare Großzügigkeit des Verlegers wird so zur Vorbereitung einer persönlichen Machtübernahme.",
+      "anchor": "Norton will Nachbarschaftsclubs in seine politische Gefolgschaft verwandeln.",
+      "interest": "Die Frage erklärt die Differenz zwischen öffentlicher Förderung und verborgenem Zweck.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie verhindert Norton (Edward Arnold), dass Willoughby (Gary Cooper) ihn bei der Kundgebung entlarvt?",
+      "answers": [
+        "Er verbreitet die Fälschungsgeschichte und lässt das Mikrofon abschalten",
+        "Er ersetzt Willoughby vor Beginn durch den Colonel",
+        "Er lässt die gesamte Halle als Brandübung räumen",
+        "Er verkauft die Zeitung noch während der Rede an Ann"
+      ],
+      "feedback": [
+        "Die Sonderausgabe gegen John Doe und der unterbrochene Ton nehmen ihm das Wort.",
+        "Der Colonel übernimmt diesen Auftritt nicht.",
+        "Eine Brandübung beendet die Kundgebung nicht.",
+        "Ein spontaner Zeitungsverkauf verhindert die Enthüllung nicht."
+      ],
+      "short": "Die Sonderausgabe gegen John Doe und der unterbrochene Ton nehmen ihm das Wort.",
+      "context": "Willoughby (Gary Cooper) will Nortons (Edward Arnold) politische Absicht öffentlich machen. Der Verleger wendet die ursprüngliche Lüge gegen ihn und stellt sich selbst als getäuschten Mann dar. Durch die Sonderausgabe und das abgeschaltete Mikrofon kontrolliert er zugleich die Erklärung und deren Verbreitung. Willoughby verliert seine Glaubwürdigkeit, bevor er den Zusammenhang verteidigen kann.",
+      "anchor": "Norton kontrolliert gleichzeitig die Enthüllungsnachricht und Willoughbys Sprachzugang.",
+      "interest": "Die Szene zeigt einen konkreten Mechanismus medialer Gegenwehr.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was hält Willoughby (Gary Cooper) an Heiligabend vom tatsächlichen Sprung ab?",
+      "answers": [
+        "Treue Nachbarn wollen die Hilfe unabhängig von Norton fortsetzen",
+        "Norton bietet ihm heimlich die Leitung seiner Partei an",
+        "Ein Richter erklärt seinen Auftritt nachträglich für rechtmäßig",
+        "Die Konkurrenzzeitung verspricht ihm eine neue Identität"
+      ],
+      "feedback": [
+        "Die kleine Gruppe glaubt weiter an die Nachbarschaftsidee und braucht ihn lebend.",
+        "Ein Parteienposten bei Norton rettet ihn nicht.",
+        "Ein Gerichtsurteil löst die Situation auf dem Dach nicht.",
+        "Eine neue Presseidentität ist nicht der Grund seines Umkehrens."
+      ],
+      "short": "Die kleine Gruppe glaubt weiter an die Nachbarschaftsidee und braucht ihn lebend.",
+      "context": "Die angekündigte Todeszeit aus Anns (Barbara Stanwyck) erfundenem Brief ist nun zu Willoughbys (Gary Cooper) eigener Krise geworden. Ann und die Nachbarn erreichen ihn auf dem Dach. Sie wollen die gemeinschaftliche Hilfe ohne den Verleger neu beginnen. Der Wert der Idee wird dadurch von der öffentlichen Fälschung und Nortons gescheiterter Vereinnahmung gelöst.",
+      "anchor": "Eine kleine echte Gemeinschaft verhindert den Vollzug der erfundenen Todesankündigung.",
+      "interest": "Das Ende zeigt, wodurch die hilfreiche Idee nach der Entlarvung weiterleben kann.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1941",
+        "1938",
+        "1935",
+        "1943"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1941.",
+        "1938 liegt drei Jahre vor der ersten Veröffentlichung von 1941.",
+        "1935 liegt sechs Jahre vor der ersten Veröffentlichung von 1941.",
+        "1943 ist ein späteres Jahr als das belegte erste Filmjahr 1941."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1941.",
+      "context": "Richard Connells Erzählung A Reputation erschien 1922; die daraus entwickelte Filmgeschichte kam 1941 ins Kino, 19 Jahre später. Dazwischen entstand 1939 ein Treatment über Leben und Tod des erfundenen John Doe. Die Entwicklung zeigt, wie ein älterer Einfall über öffentliche Aufmerksamkeit zu einer Geschichte über Zeitung, Massenbewegung und politische Vereinnahmung ausgebaut wurde.",
+      "anchor": "Connell-Erzählung 1922 → Film 1941: 19 Jahre, mit einem Treatment von 1939 dazwischen.",
+      "interest": "Der Zeitanker verbindet das Veröffentlichungsjahr mit der schrittweisen Entwicklung der Vorlage.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Frank Capra",
+        "Preston Sturges",
+        "George Stevens",
+        "George Cukor"
+      ],
+      "feedback": [
+        "Frank Capra führte bei diesem Film Regie.",
+        "Preston Sturges hat diesen Film nicht inszeniert; der Regiecredit lautet Frank Capra.",
+        "George Stevens hat diesen Film nicht inszeniert; der Regiecredit lautet Frank Capra.",
+        "George Cukor hat diesen Film nicht inszeniert; der Regiecredit lautet Frank Capra."
+      ],
+      "short": "Frank Capra führte bei diesem Film Regie.",
+      "context": "Frank Capra produzierte und inszenierte den ersten Film seiner mit Robert Riskin gegründeten Produktionsgesellschaft. Riskin schrieb das Drehbuch. Die persönliche Kontrolle löste die Schwierigkeit des Schlusses jedoch nicht: Mehrere Enden wurden gedreht und erprobt. Die verbreitete Fassung lässt die Nachbarschaftsidee trotz der aufgedeckten Täuschung bestehen, statt sie mit der gefallenen öffentlichen Figur untergehen zu lassen.",
+      "anchor": "Capras erste unabhängige Produktion musste ihren Schluss durch mehrere erprobte Fassungen finden.",
+      "interest": "Der Hintergrund erklärt eine konkrete gestalterische Schwierigkeit der politischen Erzählung.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

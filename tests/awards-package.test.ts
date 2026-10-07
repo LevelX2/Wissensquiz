@@ -29,6 +29,7 @@ const contents = packages
   .filter(
     (p) =>
       !p.filename.startsWith("Schauspieler_") &&
+      !p.filename.endsWith("fragen_20261007.csv") &&
       p.filename !== "Filmfragen_240_Filme_1920_Fragen.csv",
   )
   .map((p) => ({

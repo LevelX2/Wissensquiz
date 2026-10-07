@@ -1,0 +1,368 @@
+{
+  "date": "2026-10-07",
+  "status": "redaktionell_quellengeprueft",
+  "scope": {
+    "film_references": 70,
+    "metadata_file": "Filmdaten-Personen.json",
+    "new_questions": 0
+  },
+  "actual_reading": [
+    "Für alle 70 Referenzen die gespeicherten HTML-Artikel geöffnet und ihre Metadatenfelder, Einleitung sowie einschlägige Veröffentlichungsabschnitte tatsächlich gelesen.",
+    "Zusätzliche sichtbare Inhaltsprüfungen bei AFI, Disney/D23, Netflix, Festivalarchiven, BFI, CNC/BnF und Film at Lincoln Center; nur gelesene Belege in source_urls übernommen.",
+    "Bloß aufgefundene Primärlinks und fehlgeschlagene AFI-HTTP-Abrufe gelten nicht als Quellenabnahme.",
+    "Besonders geprüft: Regieteams einschließlich Co-Regie, Fernseh-Erstausstrahlungen, Anthologie-Segmentregien, Festivaljahr vor Kinostart und abweichende Schnittfassungen."
+  ],
+  "corrections": [
+    {
+      "reference": "Ratatouille|2007",
+      "directors": [
+        "Brad Bird",
+        "Jan Pinkava"
+      ],
+      "countries": null,
+      "note": "Brad Bird ist als Director, Jan Pinkava ausdrücklich als Co-Director kreditiert. AFI und Disney führen beide; die verkürzte Wikipedia-Infobox wird deshalb ergänzt."
+    },
+    {
+      "reference": "Man of La Mancha|1972",
+      "directors": null,
+      "countries": [
+        "USA",
+        "Italien",
+        "Vereinigtes Königreich"
+      ],
+      "note": "AFI nennt New York am 11. Dezember und Los Angeles am 14. Dezember 1972. Italienische Starts 1973 sind später; AFI weist USA, Italien und das Vereinigte Königreich als Produktionsländer aus."
+    },
+    {
+      "reference": "The Hunchback of Notre Dame|1996",
+      "directors": [
+        "Gary Trousdale",
+        "Kirk Wise"
+      ],
+      "countries": null,
+      "note": "Disney führt Gary Trousdale und Kirk Wise gemeinsam unter Directed By. Beide gehören zur vollständigen Filmregie."
+    },
+    {
+      "reference": "If These Walls Could Talk|1996",
+      "directors": [
+        "Nancy Savoca",
+        "Cher"
+      ],
+      "countries": null,
+      "note": "Nancy Savoca inszenierte die Segmente 1952 und 1974, Cher das Segment 1996. Die Liste bezeichnet das vollständige Regieteam der TV-Anthologie, nicht eine gemeinsame Regie sämtlicher Segmente."
+    },
+    {
+      "reference": "Nyad|2023",
+      "directors": [
+        "Elizabeth Chai Vasarhelyi",
+        "Jimmy Chin"
+      ],
+      "countries": null,
+      "note": "Die offiziellen Netflix-Unterlagen führen Elizabeth Chai Vasarhelyi und Jimmy Chin gemeinsam als Directors."
+    },
+    {
+      "reference": "The Three Musketeers|1973",
+      "directors": null,
+      "countries": [
+        "Vereinigtes Königreich",
+        "USA",
+        "Spanien",
+        "Panama"
+      ],
+      "note": "Richard Lester führte die Gesamtregie. Regieassistenz und Second-Unit-Arbeit sind keine zusätzlichen Gesamt- oder Co-Regiecredits."
+    },
+    {
+      "reference": "The Four Musketeers|1974",
+      "directors": null,
+      "countries": [
+        "Vereinigtes Königreich",
+        "Spanien",
+        "Panama",
+        "USA"
+      ],
+      "note": "Richard Lester führte die Gesamtregie beider getrennt veröffentlichten Musketierfilme; die Fortsetzung wird als eigene Filmidentität geführt."
+    },
+    {
+      "reference": "The Big Sleep|1946",
+      "directors": null,
+      "countries": null,
+      "note": "Gemeint ist die durch Nachdrehs veränderte Kinofassung von 1946. AFI grenzt davon die 1945 fertiggestellte und US-Soldaten im Ausland gezeigte frühere Fassung ausdrücklich ab. Die Verfilmung von 1978 ist ein anderer Film."
+    },
+    {
+      "reference": "Calamity Jane|1953",
+      "directors": null,
+      "countries": null,
+      "note": "AFI trennt David Butlers Gesamtregie von Jack Donohues Credit Musical numbers staged and directed. Donohue wird deshalb in dieser Abgrenzungsnotiz dokumentiert, nicht als Co-Regisseur des gesamten Films geführt."
+    }
+  ],
+  "deviations": [
+    "The Three Musketeers: CNC/BnF weichen beim französischen Dezembertag um einen Tag ab, belegen aber beide 1973; AFI beschreibt spätere Premieren 1974.",
+    "Frailty: Novembertag der Festivalvorführung weicht zwischen Quellen ab; führendes Festivaljahr 2001 bleibt gesichert.",
+    "The Big Sleep: frühere 1945 gezeigte Schnittfassung und veröffentlichte, nachgedrehte Kinofassung 1946 ausdrücklich getrennt.",
+    "Personenreferenzen mit Überschneidung zu neuen Filmsets erhalten bei Integration die führenden Daten des Filmsets."
+  ],
+  "checks": [
+    "70 eindeutige film_id-Werte.",
+    "Jedes first_release_year entspricht dem Jahr in der zugrunde liegenden Filmreferenz.",
+    "Alle Einträge enthalten Originaltitel, vollständige Regieliste, deutsche Produktionsländer, Veröffentlichungsnotiz, Regienotiz, Quellenliste und Prüfstatus.",
+    "Die drei HBO/ABC-Fernsehfilme sind ausdrücklich als TV-Veröffentlichungen eingeordnet.",
+    "Produktionsländer und Drehländer werden getrennt behandelt.",
+    "Überlappungen mit führenden neuen Filmsets werden bei der Integration durch deren Abnahme aufgelöst."
+  ],
+  "limits": [
+    "Eine Quellenprüfung der einschlägigen Metadatenpassagen ist keine vollständige Lesung jeder Langseite und keine Sichtung aller Filmfassungen.",
+    "AFI dokumentiert für einige Filme den späteren US-Kinostart; für das erste Filmjahr wurden frühere belegte Festival- oder ausländische Veröffentlichungen zusätzlich berücksichtigt.",
+    "The Three Musketeers: Widerspruch innerhalb der Primärnachweise zum französischen Dezembertag bleibt sichtbar; das erste Filmjahr 1973 ist davon unberührt.",
+    "Frailty: Das Festivaljahr 2001 ist belegt, der genaue Novembertag wird wegen abweichender Angaben nicht als eindeutig geführt.",
+    "Die abschließende Katalogintegration wird zentral geprüft."
+  ],
+  "sources_by_reference": {
+    "Bull Durham|1988": [
+      "https://en.wikipedia.org/wiki/Bull_Durham",
+      "https://catalog.afi.com/Catalog/moviedetails/55721"
+    ],
+    "The Player|1992": [
+      "https://en.wikipedia.org/wiki/The_Player_(1992_film)",
+      "https://catalog.afi.com/Catalog/moviedetails/67076"
+    ],
+    "Bob Roberts|1992": [
+      "https://en.wikipedia.org/wiki/Bob_Roberts",
+      "https://catalog.afi.com/Catalog/moviedetails/59195"
+    ],
+    "Milk|2008": [
+      "https://en.wikipedia.org/wiki/Milk_(2008_American_film)",
+      "https://catalog.afi.com/Catalog/moviedetails/55492"
+    ],
+    "Fast Times at Ridgemont High|1982": [
+      "https://en.wikipedia.org/wiki/Fast_Times_at_Ridgemont_High",
+      "https://catalog.afi.com/Catalog/moviedetails/56776"
+    ],
+    "Carlito’s Way|1993": [
+      "https://en.wikipedia.org/wiki/Carlito's_Way"
+    ],
+    "Into the Wild|2007": [
+      "https://en.wikipedia.org/wiki/Into_the_Wild_(film)",
+      "https://catalog.afi.com/Catalog/MovieDetails/55175"
+    ],
+    "The Indian Runner|1991": [
+      "https://en.wikipedia.org/wiki/The_Indian_Runner",
+      "https://www.quinzaine-cineastes.fr/fr/film/the-indian-runner",
+      "https://www.quinzaine-cineastes.fr/fr/edition/1991"
+    ],
+    "Batman Forever|1995": [
+      "https://en.wikipedia.org/wiki/Batman_Forever",
+      "https://catalog.afi.com/Catalog/moviedetails/55747"
+    ],
+    "The Sunset Limited|2011": [
+      "https://en.wikipedia.org/wiki/The_Sunset_Limited_(film)"
+    ],
+    "Hoosiers|1986": [
+      "https://en.wikipedia.org/wiki/Hoosiers_(film)",
+      "https://catalog.afi.com/Catalog/moviedetails/57365"
+    ],
+    "Colors|1988": [
+      "https://en.wikipedia.org/wiki/Colors_(1988_film)",
+      "https://catalog.afi.com/Catalog/moviedetails/68374"
+    ],
+    "Light of My Life|2019": [
+      "https://en.wikipedia.org/wiki/Light_of_My_Life_(film)",
+      "https://jff.org.il/en/movie/31658"
+    ],
+    "Gerry|2002": [
+      "https://en.wikipedia.org/wiki/Gerry_(2002_film)"
+    ],
+    "Jaws|1975": [
+      "https://en.wikipedia.org/wiki/Jaws_(film)",
+      "https://catalog.afi.com/Catalog/moviedetails/55193"
+    ],
+    "Mr. Holland’s Opus|1995": [
+      "https://en.wikipedia.org/wiki/Mr._Holland's_Opus",
+      "https://d23.com/a-to-z/mr-hollands-opus-film/"
+    ],
+    "The Goodbye Girl|1977": [
+      "https://en.wikipedia.org/wiki/The_Goodbye_Girl",
+      "https://catalog.afi.com/Catalog/moviedetails/55916"
+    ],
+    "Apollo 13|1995": [
+      "https://en.wikipedia.org/wiki/Apollo_13_(film)",
+      "https://catalog.afi.com/Catalog/moviedetails/55718"
+    ],
+    "Twister|1996": [
+      "https://en.wikipedia.org/wiki/Twister_(1996_film)"
+    ],
+    "Frailty|2001": [
+      "https://en.wikipedia.org/wiki/Frailty_(2001_film)"
+    ],
+    "Ghosts of the Abyss|2003": [
+      "https://en.wikipedia.org/wiki/Ghosts_of_the_Abyss"
+    ],
+    "Thief|1981": [
+      "https://en.wikipedia.org/wiki/Thief_(film)",
+      "https://catalog.afi.com/Catalog/moviedetails/67016"
+    ],
+    "Brian’s Song|1971": [
+      "https://en.wikipedia.org/wiki/Brian's_Song"
+    ],
+    "Hide in Plain Sight|1980": [
+      "https://en.wikipedia.org/wiki/Hide_in_Plain_Sight",
+      "https://catalog.afi.com/Film/56434-HIDE-IN-PLAIN-SIGHT"
+    ],
+    "Ratatouille|2007": [
+      "https://en.wikipedia.org/wiki/Ratatouille_(film)",
+      "https://movies.disney.com/ratatouille",
+      "https://catalog.afi.com/Catalog/moviedetails/55185"
+    ],
+    "Becket|1964": [
+      "https://en.wikipedia.org/wiki/Becket_(1964_film)",
+      "https://catalog.afi.com/Catalog/moviedetails/22971"
+    ],
+    "The Stunt Man|1980": [
+      "https://en.wikipedia.org/wiki/The_Stunt_Man",
+      "https://catalog.afi.com/Catalog/moviedetails/56511"
+    ],
+    "Man of La Mancha|1972": [
+      "https://en.wikipedia.org/wiki/Man_of_La_Mancha_(film)",
+      "https://catalog.afi.com/Catalog/moviedetails/54553"
+    ],
+    "Rogue One: A Star Wars Story|2016": [
+      "https://en.wikipedia.org/wiki/Rogue_One"
+    ],
+    "Ghost Dog: The Way of the Samurai|1999": [
+      "https://en.wikipedia.org/wiki/Ghost_Dog:_The_Way_of_the_Samurai"
+    ],
+    "Waiting to Exhale|1995": [
+      "https://en.wikipedia.org/wiki/Waiting_to_Exhale"
+    ],
+    "G.I. Jane|1997": [
+      "https://en.wikipedia.org/wiki/G.I._Jane"
+    ],
+    "St. Elmo’s Fire|1985": [
+      "https://en.wikipedia.org/wiki/St._Elmo's_Fire_(film)",
+      "https://catalog.afi.com/Catalog/moviedetails/58345"
+    ],
+    "The Hunchback of Notre Dame|1996": [
+      "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1996_film)",
+      "https://movies.disney.com/the-hunchback-of-notre-dame"
+    ],
+    "If These Walls Could Talk|1996": [
+      "https://en.wikipedia.org/wiki/If_These_Walls_Could_Talk"
+    ],
+    "My Best Friend’s Wedding|1997": [
+      "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding"
+    ],
+    "The Next Karate Kid|1994": [
+      "https://en.wikipedia.org/wiki/The_Next_Karate_Kid"
+    ],
+    "Boys Don’t Cry|1999": [
+      "https://en.wikipedia.org/wiki/Boys_Don't_Cry_(1999_film)",
+      "https://asac.labiennale.org/pdf/fondo-storico/04-Cinema.pdf"
+    ],
+    "Freedom Writers|2007": [
+      "https://en.wikipedia.org/wiki/Freedom_Writers"
+    ],
+    "Amelia|2009": [
+      "https://en.wikipedia.org/wiki/Amelia_(film)"
+    ],
+    "Batman & Robin|1997": [
+      "https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)"
+    ],
+    "The Adventures of Baron Munchausen|1988": [
+      "https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen"
+    ],
+    "The Producers|2005": [
+      "https://en.wikipedia.org/wiki/The_Producers_(2005_film)"
+    ],
+    "Henry & June|1990": [
+      "https://en.wikipedia.org/wiki/Henry_&_June"
+    ],
+    "Nyad|2023": [
+      "https://en.wikipedia.org/wiki/Nyad_(film)",
+      "https://about.netflix.com/en/news/2023-netflix-fall-movie-preview",
+      "https://about.netflix.com/en/news/netflix-films-screening-at-2023-fall-film-festivals"
+    ],
+    "The Kids Are All Right|2010": [
+      "https://en.wikipedia.org/wiki/The_Kids_Are_All_Right_(film)"
+    ],
+    "Bugsy|1991": [
+      "https://en.wikipedia.org/wiki/Bugsy"
+    ],
+    "The American President|1995": [
+      "https://en.wikipedia.org/wiki/The_American_President"
+    ],
+    "Film Stars Don’t Die in Liverpool|2017": [
+      "https://en.wikipedia.org/wiki/Film_Stars_Don't_Die_in_Liverpool"
+    ],
+    "The Grifters|1990": [
+      "https://en.wikipedia.org/wiki/The_Grifters_(film)"
+    ],
+    "Bonnie and Clyde|1967": [
+      "https://en.wikipedia.org/wiki/Bonnie_and_Clyde_(film)"
+    ],
+    "The Thomas Crown Affair|1968": [
+      "https://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1968_film)"
+    ],
+    "Mommie Dearest|1981": [
+      "https://en.wikipedia.org/wiki/Mommie_Dearest_(film)"
+    ],
+    "The Three Musketeers|1973": [
+      "https://en.wikipedia.org/wiki/The_Three_Musketeers_(1973_live-action_film)",
+      "https://catalog.afi.com/Catalog/moviedetails/55291",
+      "https://www.cnc.fr/professionnels/visas-et-classification/42024",
+      "https://catalogue.bnf.fr/ark%3A/12148/cb16458836v",
+      "https://s3.amazonaws.com/filmlinc/assets/uploads/2015Jul.AugCalendar-final-lowres.pdf"
+    ],
+    "The Four Musketeers|1974": [
+      "https://en.wikipedia.org/wiki/The_Four_Musketeers_(1974_film)",
+      "https://catalog.afi.com/Catalog/moviedetails/53903",
+      "https://www.bfi.org.uk/lists/bfi-player-classics-distant-past"
+    ],
+    "To Have and Have Not|1944": [
+      "https://en.wikipedia.org/wiki/To_Have_and_Have_Not_(film)"
+    ],
+    "How to Marry a Millionaire|1953": [
+      "https://en.wikipedia.org/wiki/How_to_Marry_a_Millionaire",
+      "https://catalog.afi.com/Catalog/moviedetails/50878"
+    ],
+    "The Big Sleep|1946": [
+      "https://en.wikipedia.org/wiki/The_Big_Sleep_(1946_film)",
+      "https://catalog.afi.com/Catalog/moviedetails/24697"
+    ],
+    "The Mirror Has Two Faces|1996": [
+      "https://en.wikipedia.org/wiki/The_Mirror_Has_Two_Faces"
+    ],
+    "Ball of Fire|1941": [
+      "https://en.wikipedia.org/wiki/Ball_of_Fire"
+    ],
+    "Stella Dallas|1937": [
+      "https://en.wikipedia.org/wiki/Stella_Dallas_(1937_film)"
+    ],
+    "Ladies of Leisure|1930": [
+      "https://en.wikipedia.org/wiki/Ladies_of_Leisure"
+    ],
+    "Meet John Doe|1941": [
+      "https://en.wikipedia.org/wiki/Meet_John_Doe",
+      "https://catalog.afi.com/Catalog/moviedetails/27680"
+    ],
+    "Easter Parade|1948": [
+      "https://en.wikipedia.org/wiki/Easter_Parade_(film)"
+    ],
+    "Meet Me in St. Louis|1944": [
+      "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis"
+    ],
+    "Judgment at Nuremberg|1961": [
+      "https://en.wikipedia.org/wiki/Judgment_at_Nuremberg"
+    ],
+    "A Star Is Born|1954": [
+      "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)"
+    ],
+    "The Man Who Knew Too Much|1956": [
+      "https://en.wikipedia.org/wiki/The_Man_Who_Knew_Too_Much_(1956_film)"
+    ],
+    "Love Me or Leave Me|1955": [
+      "https://en.wikipedia.org/wiki/Love_Me_or_Leave_Me_(film)"
+    ],
+    "Calamity Jane|1953": [
+      "https://en.wikipedia.org/wiki/Calamity_Jane_(1953_film)",
+      "https://catalog.afi.com/Catalog/moviedetails/50776"
+    ]
+  }
+}

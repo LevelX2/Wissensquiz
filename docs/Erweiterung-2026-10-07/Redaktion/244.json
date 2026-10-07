@@ -1,0 +1,235 @@
+{
+  "rank": 244,
+  "titleDe": "Im Zeichen des Bösen",
+  "originalTitle": "Touch of Evil",
+  "year": 1958,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Welles’ Film noir ist für seine Plansequenz und korrumpierte Polizeimacht filmhistorisch prägend.",
+  "directors": [
+    "Orson Welles",
+    "Harry Keller"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI nennt eine erste Veröffentlichung im Februar 1958. Gemeint ist der Film von 1958; die 1998 nach Welles’ Memo neu montierte Fassung ist keine neu gedrehte Produktion.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Touch_of_Evil",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/53683-TOUCH-OF-EVIL",
+      "supports": "Erstveröffentlichung Februar 1958, Hauptregie Welles, Zusatzsequenzen Keller, Besetzung, Montage nach Memo 1998."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Im_Zeichen_des_B%C3%B6sen",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo ereignet sich der Autobombenanschlag am Anfang?",
+      "answers": [
+        "An der Grenze zwischen Mexiko und den USA",
+        "An der Grenze zwischen Kanada und den USA",
+        "Am Hafen von Havanna",
+        "Vor einer Botschaft in Madrid"
+      ],
+      "feedback": [
+        "Die Bombe explodiert nach der Fahrt über die mexikanisch-amerikanische Grenze.",
+        "Die Handlung beginnt nicht an der kanadischen Grenze.",
+        "Havanna ist nicht der Ort der Eröffnung.",
+        "Eine Madrider Botschaft bildet nicht den Tatort."
+      ],
+      "short": "Die Bombe explodiert nach der Fahrt über die mexikanisch-amerikanische Grenze.",
+      "context": "Miguel Vargas (Charlton Heston) und Susan (Janet Leigh) gehen durch die Grenzstadt, während ein Wagen mit versteckter Bombe neben ihnen unterwegs ist. Die Explosion betrifft anschließend die Zuständigkeit beider Länder. Der Schauplatz verbindet deshalb schon vor der eigentlichen Ermittlung räumliche Nähe mit institutioneller Trennung.",
+      "anchor": "Der Grenzanschlag verbindet zwei Länder und zwei Ermittlungszuständigkeiten.",
+      "interest": "Der Ort erklärt den späteren Konflikt zwischen den Ermittlern.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Rolle spielt Hank Quinlan (Orson Welles) in der Ermittlung?",
+      "answers": [
+        "Er ist der amerikanische Polizeichef vor Ort",
+        "Er ist der mexikanische Verteidiger des Verdächtigen",
+        "Er ist der Reporter der Lokalzeitung",
+        "Er ist der Bruder des getöteten Unternehmers"
+      ],
+      "feedback": [
+        "Quinlan führt die amerikanischen Ermittlungen und gerät mit Vargas in Konflikt.",
+        "Er vertritt den Verdächtigen nicht als Rechtsanwalt.",
+        "Er arbeitet nicht für die Zeitung.",
+        "Eine Verwandtschaft mit dem Anschlagsopfer erklärt seine Position nicht."
+      ],
+      "short": "Quinlan führt die amerikanischen Ermittlungen und gerät mit Vargas in Konflikt.",
+      "context": "Hank Quinlan (Orson Welles) gilt als erfahrener Ermittler mit sicherem Instinkt. Miguel Vargas (Charlton Heston) beobachtet jedoch, wie aus einer Vermutung vermeintlich eindeutige Beweise werden. Quinlans lokale Autorität verschafft ihm dabei Unterstützung, die Vargas erst durch eigene Beobachtungen und die Prüfung früherer Fälle infrage stellen kann.",
+      "anchor": "Quinlans Polizeimacht schützt seine Ermittlung zunächst vor Zweifel.",
+      "interest": "Die berufliche Stellung erklärt das Gewicht seines späteren Fehlverhaltens.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was macht Vargas (Charlton Heston) an dem Dynamitfund misstrauisch?",
+      "answers": [
+        "Die betreffende Schuhschachtel war kurz zuvor leer",
+        "Die Stangen tragen den Namen eines kanadischen Herstellers",
+        "Der Verdächtige besitzt keine Schuhe seiner Größe",
+        "Die Polizei findet die Stangen noch im versiegelten Verkaufsbeutel"
+      ],
+      "feedback": [
+        "Vargas hatte die leere Schachtel selbst gesehen, bevor die Stangen darin auftauchen.",
+        "Die Herkunft eines Herstellers ist nicht sein entscheidender Beobachtungsbeweis.",
+        "Eine Schuhgröße begründet den Verdacht auf untergeschobene Beweise nicht.",
+        "Eine versiegelte Ladenverpackung ist nicht die gezeigte Unstimmigkeit."
+      ],
+      "short": "Vargas hatte die leere Schachtel selbst gesehen, bevor die Stangen darin auftauchen.",
+      "context": "Vargas (Charlton Heston) stößt im Badezimmer des Verdächtigen auf eine leere Schuhschachtel. Später präsentiert die Polizei Dynamit aus genau dieser Schachtel. Die zeitliche Abfolge macht ihn zum direkten Zeugen eines Widerspruchs. Sein Zweifel beruht damit nicht bloß auf Konkurrenz mit Quinlan (Orson Welles), sondern auf einer eigenen überprüfbaren Beobachtung.",
+      "anchor": "Die zuvor leere Schachtel widerspricht dem späteren Dynamitfund.",
+      "interest": "Die Spur erklärt den begründeten Verdacht auf Beweisfälschung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Spur bringt Menzies (Joseph Calleia) gegen Quinlan (Orson Welles) auf?",
+      "answers": [
+        "Quinlans zurückgelassener Gehstock am Mordort",
+        "Ein gefälschter Reisepass in Vargas’ Auto",
+        "Ein ungeöffneter Brief an den Staatsanwalt",
+        "Eine fremde Dienstmarke im Polizeirevier"
+      ],
+      "feedback": [
+        "Der charakteristische Stock verbindet Quinlan mit Grandis Ermordung.",
+        "Ein Reisepass im Wagen des anderen Ermittlers ist nicht diese Spur.",
+        "Ein ungeöffneter Brief verändert Menzies Loyalität nicht.",
+        "Eine fremde Marke liefert nicht den entscheidenden Hinweis."
+      ],
+      "short": "Der charakteristische Stock verbindet Quinlan mit Grandis Ermordung.",
+      "context": "Pete Menzies (Joseph Calleia) hält lange zu Hank Quinlan (Orson Welles), der ihm früher das Leben gerettet hatte. Der Gehstock am Mordort lässt sich jedoch nicht als fremder Verdacht abtun. Ein persönlicher Gegenstand durchbricht die gewachsene Loyalität. Erst dadurch wird Menzies bereit, dem Kollegen mit einer verdeckten Aufnahme gegenüberzutreten.",
+      "anchor": "Quinlans Gehstock bricht Menzies Vertrauen in den langjährigen Partner.",
+      "interest": "Der Gegenstand verbindet Tatwissen mit einer Veränderung persönlicher Loyalität.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Woran erkennt Quinlan (Orson Welles), dass sein Gespräch heimlich übertragen wird?",
+      "answers": [
+        "Er hört seine eigene Stimme aus Vargas’ Aufnahmegerät zurück",
+        "Er entdeckt ein Blinklicht an Menzies’ Hut",
+        "Er liest einen Polizeibefehl in Susans Tasche",
+        "Er findet das Mikrofon im Glas auf dem Tresen"
+      ],
+      "feedback": [
+        "Der zurückhörbare Ton verrät die technische Überwachung.",
+        "Ein blinkender Hut ist nicht die verräterische Beobachtung.",
+        "Ein schriftlicher Befehl wird nicht zum unmittelbaren Auslöser.",
+        "Das Mikrofon liegt nicht sichtbar in einem Trinkglas."
+      ],
+      "short": "Der zurückhörbare Ton verrät die technische Überwachung.",
+      "context": "Menzies (Joseph Calleia) trägt das Mikrofon, während Vargas (Charlton Heston) mit dem Empfänger folgt. Der räumliche Abstand reicht schließlich nicht mehr aus, um den wiedergegebenen Ton zu verbergen. Quinlan (Orson Welles) erkennt die Übertragung und greift an. Die Beweisgewinnung scheitert damit nicht an einem Geständnis, sondern an ihrer hörbaren technischen Durchführung.",
+      "anchor": "Das Echo der eigenen Stimme verrät die heimliche Aufnahme.",
+      "interest": "Die Frage erklärt die Verbindung zwischen Tonraum und dramatischer Eskalation.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche späte Nachricht macht den Fall besonders widersprüchlich?",
+      "answers": [
+        "Sanchez hat den Anschlag tatsächlich gestanden",
+        "Die Autobombe war ein unbeabsichtigter Motorschaden",
+        "Der getötete Unternehmer lebt unter einem neuen Namen",
+        "Vargas hat die Dynamitstangen selbst gekauft"
+      ],
+      "feedback": [
+        "Der Verdächtige ist tatsächlich schuldig, obwohl Quinlan Beweise gefälscht hat.",
+        "Die Explosion wird nicht als gewöhnlicher Defekt erklärt.",
+        "Das Anschlagsopfer taucht nicht lebend wieder auf.",
+        "Vargas wird nicht zum Käufer der untergeschobenen Beweise."
+      ],
+      "short": "Der Verdächtige ist tatsächlich schuldig, obwohl Quinlan Beweise gefälscht hat.",
+      "context": "Nach Quinlans (Orson Welles) Tod erfährt man vom Geständnis des Verdächtigen. Sein Instinkt hatte also zur richtigen Person geführt, seine Beweismethode blieb trotzdem gefälscht. Die Auflösung trennt Ergebnis und Verfahren: Tatsächliche Schuld kann eine erfundene Spur nicht nachträglich wahr machen. Gerade diese Verbindung verhindert eine einfache Entlastung des korrupten Ermittlers.",
+      "anchor": "Richtiger Verdacht und gefälschte Beweise können zugleich bestehen.",
+      "interest": "Das Ende erklärt, weshalb ein zutreffendes Ergebnis das Verfahren nicht rechtfertigt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1958",
+        "1955",
+        "1952",
+        "1960"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1958.",
+        "1955 liegt drei Jahre vor der ersten Veröffentlichung von 1958.",
+        "1952 liegt sechs Jahre vor der ersten Veröffentlichung von 1958.",
+        "1960 ist ein späteres Jahr als das belegte erste Filmjahr 1958."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1958.",
+      "context": "Der Film wurde 1958 veröffentlicht. Vierzig Jahre später entstand 1998 eine neue Montage nach Orson Welles’ umfangreichem Memo von 1957. Walter Murch und weitere Beteiligte versuchten damit, die ursprünglichen Schnitt- und Tonvorstellungen stärker umzusetzen. Die zeitliche Verbindung erklärt, weshalb mehrere bekannte Fassungen existieren, während das erste Filmjahr weiterhin 1958 bleibt.",
+      "anchor": "Erstveröffentlichung 1958 → Memo-Neumontage 1998: vierzig Jahre später.",
+      "interest": "Der Zeitanker unterscheidet das erste Filmjahr von der späteren Bearbeitung seines Materials.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Orson Welles und Harry Keller",
+        "Anthony Mann und John Alton",
+        "Robert Siodmak und Curtis Bernhardt",
+        "Henry Hathaway und Henry King"
+      ],
+      "feedback": [
+        "Orson Welles und Harry Keller führten bei diesem Film Regie.",
+        "Anthony Mann und John Alton haben diesen Film nicht inszeniert; der Regiecredit lautet Orson Welles und Harry Keller.",
+        "Robert Siodmak und Curtis Bernhardt haben diesen Film nicht inszeniert; der Regiecredit lautet Orson Welles und Harry Keller.",
+        "Hathaway und King gehören nicht zum Regieteam dieses Films; Welles inszenierte ihn, Keller drehte zusätzliche Szenen."
+      ],
+      "short": "Orson Welles und Harry Keller führten bei diesem Film Regie.",
+      "context": "Orson Welles schrieb und inszenierte die Hauptproduktion und spielte Hank Quinlan. Das Studio ließ anschließend Harry Keller zusätzliche Sequenzen drehen. Welles’ Regiecredit blieb allein sichtbar, die tatsächliche Herstellung enthält aber beide Regieleistungen. Die spätere Neumontage durch Walter Murch von 1998 betrifft Schnitt und Ton; sie macht Murch nicht zum Regisseur der gedrehten Szenen.",
+      "anchor": "Welles: Hauptregie und Quinlan; Keller: zusätzliche Studiosequenzen ohne Hauptcredit.",
+      "interest": "Die vollständige Zuordnung erklärt die unterschiedlichen Verantwortungen hinter den Fassungen.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics",
+  "director_note": "Orson Welles inszenierte die Hauptproduktion und trägt den Regiecredit. Harry Keller drehte vom Studio angeordnete zusätzliche Sequenzen ohne entsprechenden Vorspanncredit. Die Angabe erfasst diese zusätzliche Regie, keine gleichberechtigte ursprüngliche Zusammenarbeit."
+}

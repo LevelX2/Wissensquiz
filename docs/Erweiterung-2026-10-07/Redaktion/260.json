@@ -1,0 +1,233 @@
+{
+  "rank": 260,
+  "titleDe": "Im Schatten des Zweifels",
+  "originalTitle": "Shadow of a Doubt",
+  "year": 1943,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Hitchcocks Kleinstadtthriller stellt die vertraute Familie gegen eine entdeckte Mordvergangenheit; klassisches Suspense-Kino.",
+  "directors": [
+    "Alfred Hitchcock"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Kinoöffnung am 12. Januar 1943, vor dem allgemeinen US-Start am 15. Januar. Originalfilm mit Teresa Wright und Joseph Cotten, nicht das Remake Step Down to Terror von 1958.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Shadow_of_a_Doubt",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/657-SHADOW-OF-A-DOUBT",
+      "supports": "Regie, Kinoöffnung, Besetzung, realer Anstoß 1938 und Thornton Wilders Kleinstadtbezug."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Im_Schatten_des_Zweifels",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Verhältnis stehen die beiden Charlies?",
+      "answers": [
+        "Onkel und Nichte",
+        "Vater und Tochter",
+        "Geschiedene Eheleute",
+        "Bruder und Schwester"
+      ],
+      "feedback": [
+        "Die junge Charlie ist nach ihrem Onkel benannt und verehrt ihn zunächst.",
+        "Er ist nicht ihr Vater.",
+        "Die beiden waren nie verheiratet.",
+        "Sie gehören unterschiedlichen Generationen als Onkel und Nichte an."
+      ],
+      "short": "Die junge Charlie ist nach ihrem Onkel benannt und verehrt ihn zunächst.",
+      "context": "Charlie Newton (Teresa Wright) freut sich auf den Besuch ihres Onkels (Joseph Cotten), der Abwechslung in den Familienalltag bringen soll. Ihre gleiche Namensform unterstreicht die besondere Nähe. Später muss sie gerade diesen verehrten Menschen beurteilen. Die Gefahr entsteht damit innerhalb einer Beziehung, die zunächst als Quelle von Vertrauen und Lebendigkeit gilt.",
+      "anchor": "Die verehrte Onkel-Nichte-Beziehung wird zum Ort des wachsenden Verdachts.",
+      "interest": "Die Verwandtschaft erklärt den persönlichen Preis der Erkenntnis.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Gruppe von Opfern führt die Polizei auf Onkel Charlies (Joseph Cotten) Spur?",
+      "answers": [
+        "Wohlhabende Witwen",
+        "Junge Fabrikarbeiter",
+        "Entlassene Berufssoldaten",
+        "Reisende Handelsvertreter"
+      ],
+      "feedback": [
+        "Die gesuchten Taten betreffen vermögende Witwen.",
+        "Fabrikarbeiter sind nicht die betroffene Opfergruppe.",
+        "Berufssoldaten bilden nicht das Muster der Fahndung.",
+        "Ein Handelsreisendenmuster liegt den Taten nicht zugrunde."
+      ],
+      "short": "Die gesuchten Taten betreffen vermögende Witwen.",
+      "context": "Die Ermittler verfolgen eine Mordserie gegen wohlhabende Witwen. Onkel Charlies (Joseph Cotten) Haltung gegenüber diesen Frauen tritt später auch im Familiengespräch hervor. Die Nichte (Teresa Wright) muss die öffentliche Fahndung mit beobachtetem Verhalten verbinden. Das Opfermuster ist dadurch sowohl ein polizeilicher Sachverhalt als auch ein Schlüssel zu seinen entlarvenden Äußerungen.",
+      "anchor": "Das Witwenmuster verbindet die Fahndung mit Charlies offenem Hass.",
+      "interest": "Die Frage erklärt den wiederkehrenden Motivzusammenhang.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was macht den geschenkten Ring für die junge Charlie (Teresa Wright) verdächtig?",
+      "answers": [
+        "Die eingravierten Initialen passen zu einer ermordeten Frau",
+        "Ein Juwelier erkennt den Stein als Teil einer gestohlenen Sammlung",
+        "Die Ringfassung stimmt mit einem Foto aus der Polizeizeitung überein",
+        "Ein Kaufbeleg nennt einen Ort, den der Onkel bestreitet"
+      ],
+      "feedback": [
+        "Die fremden Initialen verbinden das Geschenk mit einem Opfer.",
+        "Die Initialen im Ring passen zu einem Opfer und machen ihn verdächtig.",
+        "Der konkrete Hinweis liegt in der Gravur, nicht in einem Vergleich der Fassung.",
+        "Die Nichte verbindet die eingravierten Initialen mit einer ermordeten Frau."
+      ],
+      "short": "Die fremden Initialen verbinden das Geschenk mit einem Opfer.",
+      "context": "Onkel Charlie (Joseph Cotten) schenkt seiner Nichte (Teresa Wright) einen Ring. Die fremden Initialen werden erst durch ihre Nachforschung in der Zeitung bedeutsam. Der familiäre Liebesbeweis trägt damit eine Spur der Gewalt. Ein Gegenstand, der die Bindung stärken sollte, wird zur Grundlage für ihre eigene Prüfung der verehrten Person.",
+      "anchor": "Der geschenkte Ring verbindet familiäre Zuwendung mit einem ermordeten Opfer.",
+      "interest": "Der Zusammenhang erklärt die Umdeutung eines vertrauten Gegenstands.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Weshalb verschweigt die junge Charlie (Teresa Wright) ihr Wissen zunächst der Familie?",
+      "answers": [
+        "Sie will ihre Mutter vor dem Zusammenbruch des Bruderbilds schützen",
+        "Sie will mit dem Onkel einen Teil seiner Beute teilen",
+        "Sie hofft, ihre Familie könne den Onkel zu einem Geständnis bewegen",
+        "Sie befürchtet, ihr Vater verliere wegen des Skandals seine Arbeit"
+      ],
+      "feedback": [
+        "Die Mutter liebt ihren Bruder; Charlie fürchtet die Folgen der Wahrheit für sie.",
+        "Ein Beuteanteil ist nicht ihre Motivation.",
+        "Sie schützt zunächst ihre Mutter, deren positives Bild des Bruders zerbrechen würde.",
+        "Die besondere Rücksicht gilt ihrer Mutter und deren Verhältnis zum Bruder."
+      ],
+      "short": "Die Mutter liebt ihren Bruder; Charlie fürchtet die Folgen der Wahrheit für sie.",
+      "context": "Charlie Newton (Teresa Wright) erkennt die Gefahr und versucht dennoch, die Familie zu schonen. Besonders Emma (Patricia Collinge) hängt an ihrem Bruder. Charlie verlangt deshalb zunächst dessen Abreise, statt alles öffentlich zu machen. Die Schutzabsicht bringt sie selbst in größere Gefahr, weil der Onkel (Joseph Cotten) sie nun als einzige bedrohliche Mitwisserin behandelt.",
+      "anchor": "Charlies Schutz der Mutter hält sie selbst in Reichweite des Täters.",
+      "interest": "Die Frage erklärt die widersprüchliche Folge einer fürsorglichen Entscheidung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie versucht Onkel Charlie (Joseph Cotten), den Garagenvorfall als Rettung erscheinen zu lassen?",
+      "answers": [
+        "Er schließt seine Nichte bei laufendem Motor ein und tritt dann als Helfer auf",
+        "Er zündet den Wagen an und versteckt sich im Nachbarhaus",
+        "Er manipuliert ihre Bremsen und ruft selbst einen Abschleppdienst",
+        "Er lässt einen Fremden die Garage ausrauben und stellt ihn anschließend"
+      ],
+      "feedback": [
+        "Er stellt sich als Retter einer Gefahr dar, die er selbst geschaffen hat.",
+        "Ein Brand mit Rückzug ins Nachbarhaus ist nicht die gezeigte Methode.",
+        "Eine Bremsmanipulation ist nicht dieser Garagenanschlag.",
+        "Ein gestellter Raub ersetzt den Abgasplan nicht."
+      ],
+      "short": "Er stellt sich als Retter einer Gefahr dar, die er selbst geschaffen hat.",
+      "context": "Die junge Charlie (Teresa Wright) wird in der Garage mit Motorabgasen gefährdet. Als andere aufmerksam werden, tritt der Onkel (Joseph Cotten) hilfreich auf. Seine scheinbare Fürsorge kann dadurch den Verdacht wieder verbergen. Der Mordplan und das öffentlich sichtbare Retterverhalten gehören zu derselben Handlung, aber die Familienmitglieder sehen nur deren beruhigenden Teil.",
+      "anchor": "Der Täter präsentiert sich als Helfer bei seiner selbst erzeugten Gefahr.",
+      "interest": "Die Szene erklärt die Manipulation unterschiedlicher Beobachterperspektiven.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie endet der letzte Angriff auf die junge Charlie (Teresa Wright)?",
+      "answers": [
+        "Der Onkel stürzt im Kampf vor einen entgegenkommenden Zug",
+        "Ein Wachmann erschießt den Onkel im Bahnhofsgebäude",
+        "Die Nichte springt aus dem Zug und überlässt ihn der Polizei",
+        "Der Onkel stirbt durch Gift in seinem Reisegetränk"
+      ],
+      "feedback": [
+        "Beim Versuch, sie aus dem fahrenden Zug zu stoßen, fällt er selbst auf das Gegengleis.",
+        "Ein bewaffneter Wachmann beendet den Angriff nicht.",
+        "Sie entkommt nicht einfach durch einen eigenen Sprung.",
+        "Ein vergiftetes Getränk ist nicht das Schlussmittel."
+      ],
+      "short": "Beim Versuch, sie aus dem fahrenden Zug zu stoßen, fällt er selbst auf das Gegengleis.",
+      "context": "Onkel Charlie (Joseph Cotten) lockt seine Nichte (Teresa Wright) in den abfahrenden Zug und versucht, sie zu töten. Im Kampf fällt er selbst vor den entgegenkommenden Zug. Seine spätere Beerdigung bewahrt das Bild des angesehenen Besuchers. Die Nichte und der Ermittler behalten die Wahrheit, während die Öffentlichkeit mit einer anderen Erinnerung Abschied nimmt.",
+      "anchor": "Der letzte Mordversuch tötet den Onkel; sein öffentliches Ansehen bleibt dennoch bestehen.",
+      "interest": "Der Schluss verbindet physisches Ende und ungleiches Wissen der Zurückgebliebenen.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1943",
+        "1940",
+        "1937",
+        "1945"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1943.",
+        "1940 liegt drei Jahre vor der ersten Veröffentlichung von 1943.",
+        "1937 liegt sechs Jahre vor der ersten Veröffentlichung von 1943.",
+        "1945 ist ein späteres Jahr als das belegte erste Filmjahr 1943."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1943.",
+      "context": "Ein berichteter Fall aus Hanford von 1938 gab Gordon McDonell den Anstoß für seine Geschichte über einen besuchenden Verwandten. Hitchcocks Film erschien 1943, fünf Jahre später. Die bearbeitete Handlung führt die Gefahr in einen vertrauten Familienalltag. Der Zeitanker erklärt damit den Weg von einer lokalen Zeitungsnachricht zu einer gezielt gestalteten Kleinstadterzählung.",
+      "anchor": "Hanford-Fall 1938 → Hitchcock-Film 1943: fünf Jahre.",
+      "interest": "Die Verbindung verankert das Filmjahr in einem konkreten Anstoß der Stoffentwicklung.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Alfred Hitchcock",
+        "Fritz Lang",
+        "Robert Siodmak",
+        "Orson Welles"
+      ],
+      "feedback": [
+        "Alfred Hitchcock führte bei diesem Film Regie.",
+        "Fritz Lang hat diesen Film nicht inszeniert; der Regiecredit lautet Alfred Hitchcock.",
+        "Robert Siodmak hat diesen Film nicht inszeniert; der Regiecredit lautet Alfred Hitchcock.",
+        "Orson Welles hat diesen Film nicht inszeniert; der Regiecredit lautet Alfred Hitchcock."
+      ],
+      "short": "Alfred Hitchcock führte bei diesem Film Regie.",
+      "context": "Alfred Hitchcock führte Regie. Thornton Wilder, Sally Benson und Alma Reville stehen in den Drehbuchcredits. Wilder wurde auch wegen seiner Erfahrung mit amerikanischen Kleinstadtgeschichten gewählt. Der Alltag der Familie wirkt deshalb nicht nur als neutrale Kulisse. Er schafft Vertrauen und Gewohnheit, die Onkel Charlie (Joseph Cotten) nutzt und seine Nichte (Teresa Wright) erst schrittweise überprüfen muss.",
+      "anchor": "Hitchcock nutzt vertrauten Kleinstadtalltag als Voraussetzung der gefährlichen Familiennähe.",
+      "interest": "Der Hintergrund erklärt die konkrete Funktion der scheinbar normalen Umgebung.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

@@ -1,0 +1,291 @@
+{
+  "as_of": "2026-10-07",
+  "status": "mit_app_parser_geprueft_und_lokal_integriert",
+  "scope": "Öffentliche Paketquellen und isolierter In-Memory-Spielstand; keine echten Spielerdaten und keine Veröffentlichung.",
+  "baseline": {
+    "questions": 8397,
+    "knowledgeGoals": 7853,
+    "packages": 21
+  },
+  "added": {
+    "entries": 320,
+    "films": 280,
+    "persons": 20,
+    "awardEntries": 20,
+    "questions": 2480,
+    "filmQuestions": 2240,
+    "personQuestions": 160,
+    "awardQuestions": 80,
+    "newGoals": 2462,
+    "reusedGoals": 16,
+    "variants": 18
+  },
+  "counts": {
+    "packages": 24,
+    "questions": 10877,
+    "knowledgeGoals": 10315,
+    "variantReferences": 562,
+    "filmQuestions": 8837,
+    "actorQuestions": 1760,
+    "awardQuestions": 280,
+    "filmWorks": 1065,
+    "persons": 220
+  },
+  "parser": [
+    {
+      "at": 1791367200000,
+      "filename": "Filmfragen_20261007.csv",
+      "accepted": 2240,
+      "rejected": 0,
+      "duplicates": 0,
+      "delimiter": ",",
+      "columns": [
+        "question_id",
+        "knowledge_id",
+        "variant_of",
+        "language",
+        "domain",
+        "subdomain",
+        "film_title_de",
+        "film_title_original",
+        "film_year",
+        "franchise",
+        "difficulty",
+        "question_type",
+        "topic_tags",
+        "badge_tags",
+        "learning_objective",
+        "question",
+        "answer_a",
+        "answer_b",
+        "answer_c",
+        "answer_d",
+        "correct_answer",
+        "explanation_short",
+        "explanation_context",
+        "feedback_a",
+        "feedback_b",
+        "feedback_c",
+        "feedback_d",
+        "memory_anchor",
+        "spoiler_level",
+        "source_urls",
+        "verification_status"
+      ],
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "at": 1791367200000,
+      "filename": "Personenfragen_20261007.csv",
+      "accepted": 160,
+      "rejected": 0,
+      "duplicates": 0,
+      "delimiter": ",",
+      "columns": [
+        "question_id",
+        "knowledge_id",
+        "variant_of",
+        "language",
+        "domain",
+        "subdomain",
+        "film_title_de",
+        "film_title_original",
+        "film_year",
+        "franchise",
+        "difficulty",
+        "question_type",
+        "topic_tags",
+        "badge_tags",
+        "learning_objective",
+        "question",
+        "answer_a",
+        "answer_b",
+        "answer_c",
+        "answer_d",
+        "correct_answer",
+        "explanation_short",
+        "explanation_context",
+        "feedback_a",
+        "feedback_b",
+        "feedback_c",
+        "feedback_d",
+        "memory_anchor",
+        "spoiler_level",
+        "source_urls",
+        "verification_status",
+        "person_id",
+        "person_name",
+        "person_name_before_answer",
+        "film_refs"
+      ],
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "at": 1791367200000,
+      "filename": "Preisefragen_20261007.csv",
+      "accepted": 80,
+      "rejected": 0,
+      "duplicates": 0,
+      "delimiter": ",",
+      "columns": [
+        "question_id",
+        "knowledge_id",
+        "variant_of",
+        "language",
+        "domain",
+        "subdomain",
+        "film_title_de",
+        "film_title_original",
+        "film_year",
+        "franchise",
+        "difficulty",
+        "question_type",
+        "topic_tags",
+        "badge_tags",
+        "learning_objective",
+        "question",
+        "answer_a",
+        "answer_b",
+        "answer_c",
+        "answer_d",
+        "correct_answer",
+        "explanation_short",
+        "explanation_context",
+        "feedback_a",
+        "feedback_b",
+        "feedback_c",
+        "feedback_d",
+        "memory_anchor",
+        "spoiler_level",
+        "source_urls",
+        "verification_status",
+        "person_id",
+        "person_name",
+        "person_name_before_answer",
+        "film_refs"
+      ],
+      "issues": [],
+      "warnings": []
+    }
+  ],
+  "links": [
+    {
+      "question_id": "E20261007-F-038-D",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-008-M-1",
+      "variant_of": "SCHAUSPIELER-202610-P01-008-M-1"
+    },
+    {
+      "question_id": "E20261007-F-045-D",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-075-M-1",
+      "variant_of": "SCHAUSPIELER-202610-P01-075-M-1"
+    },
+    {
+      "question_id": "E20261007-F-160-D",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-013-S-2",
+      "variant_of": "SCHAUSPIELER-202610-P01-013-S-2"
+    },
+    {
+      "question_id": "E20261007-F-262-D",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-044-S-2",
+      "variant_of": "SCHAUSPIELER-202610-P01-044-S-2"
+    },
+    {
+      "question_id": "E20261007-P-001-L1",
+      "knowledge_id": "K-DRA-01-02",
+      "variant_of": "DRA-L-002"
+    },
+    {
+      "question_id": "E20261007-P-005-L1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-028-M-2",
+      "variant_of": "SCHAUSPIELER-202610-P01-028-M-2"
+    },
+    {
+      "question_id": "E20261007-P-005-S1",
+      "knowledge_id": "K-F240-20261006-074-L2",
+      "variant_of": "F240-20261006-074-L2"
+    },
+    {
+      "question_id": "E20261007-P-007-S1",
+      "knowledge_id": "K-E20261007-F-225-D",
+      "variant_of": "E20261007-F-225-D"
+    },
+    {
+      "question_id": "E20261007-P-008-L2",
+      "knowledge_id": "K-HOR-11-paul-schriftsteller",
+      "variant_of": "HOR-L-021"
+    },
+    {
+      "question_id": "E20261007-P-009-L1",
+      "knowledge_id": "K-CLA-07-01",
+      "variant_of": "CLA-L-013"
+    },
+    {
+      "question_id": "E20261007-P-010-M1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-017-S-2",
+      "variant_of": "SCHAUSPIELER-202610-P01-017-S-2"
+    },
+    {
+      "question_id": "E20261007-P-013-L1",
+      "knowledge_id": "K-DRA-15-02",
+      "variant_of": "DRA-L-030"
+    },
+    {
+      "question_id": "E20261007-P-015-M2",
+      "knowledge_id": "K-E20261007-F-189-L2",
+      "variant_of": "E20261007-F-189-L2"
+    },
+    {
+      "question_id": "E20261007-P-016-M2",
+      "knowledge_id": "K-F240-20261006-201-D",
+      "variant_of": "F240-20261006-201-D"
+    },
+    {
+      "question_id": "E20261007-P-018-M2",
+      "knowledge_id": "K-F240-20261006-169-M1",
+      "variant_of": "F240-20261006-169-M1"
+    },
+    {
+      "question_id": "E20261007-A-010-M",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-070-L-1",
+      "variant_of": "SCHAUSPIELER-202610-P01-070-L-1"
+    },
+    {
+      "question_id": "E20261007-A-019-L",
+      "knowledge_id": "K-DRA-08-01",
+      "variant_of": "DRA-L-015"
+    },
+    {
+      "question_id": "E20261007-A-019-M",
+      "knowledge_id": "K-FF-083-DIRECTOR",
+      "variant_of": "FF-083-DIRECTOR"
+    }
+  ],
+  "checks": {
+    "all2480AcceptedWithoutWarnings": true,
+    "existing8397QuestionObjectsAndVersionsUnchanged": true,
+    "existing21PackageBytesUnchanged": true,
+    "allMetadataAnswersFeedbackAndDepthPreserved": true,
+    "filmReferencesResolved": true,
+    "familiarityResolved": true,
+    "noAdditionalFactQuestions": true,
+    "repeatImportUnchanged": true,
+    "fullBackupValid": true,
+    "uniqueIds": true
+  },
+  "hashes": [
+    {
+      "filename": "Filmfragen_20261007.csv",
+      "sha256": "d8276e0880755d76b4ee93941787011fb121df1dc550e33b1575c36b7a23821a"
+    },
+    {
+      "filename": "Personenfragen_20261007.csv",
+      "sha256": "6dbb1e02edf30845b53ade11a7e3379d971077571afc74931c28fa23ef287c29"
+    },
+    {
+      "filename": "Preisefragen_20261007.csv",
+      "sha256": "3f33016938d546f3c41b53dcfb2fc02ccbe301af5b4728b4d5ad32a785cda244"
+    }
+  ]
+}

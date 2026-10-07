@@ -1,0 +1,221 @@
+{
+  "rank": 57,
+  "titleDe": "L.A. Crash",
+  "originalTitle": "Crash",
+  "year": 2004,
+  "genre": "Drama",
+  "familiarity": 3,
+  "directors": [
+    "Paul Haggis"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten",
+    "Deutschland"
+  ],
+  "release_note": "Erstaufführung in Toronto im September 2004; filmportal nennt den 9., Wikipedia den 10. September. Der US-Kinostart folgte am 6. Mai 2005. Für die Filmfassung gilt deshalb 2004.",
+  "familiarity_reason": "Das ausgezeichnete Ensemblewerk ist im Filmgespräch bekannt, sein deutscher Titel und die vielen Einzelgeschichten verlangen dennoch spezifische Filmerfahrung; Bekanntheit 3.",
+  "sources": {
+    "filmportal": "https://www.filmportal.de/film/la-crash_fe941b03bab84a7ebc7de040c0d267bf",
+    "handlung": "https://en.wikipedia.org/wiki/Crash_(2004_film)",
+    "analyse": "https://www.rogerebert.com/reviews/crash-2005",
+    "oscars": "https://www.oscars.org/oscars/ceremonies/2006",
+    "verleih": "https://www.comingsoon.net/movies/news/501271-lions_gate_films_makes_a_dash_for_crash"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt kreuzen sich die Geschichten von @?",
+      "answers": [
+        "Los Angeles",
+        "Chicago",
+        "New York",
+        "San Francisco"
+      ],
+      "feedback": [
+        "Das Ensemble bewegt sich durch Los Angeles.",
+        "Chicago ist nicht der gemeinsame Schauplatz.",
+        "Die verknüpften Geschichten spielen nicht in New York.",
+        "San Francisco bildet nicht die Stadt des Ensembles."
+      ],
+      "short": "Das Ensemble bewegt sich durch Los Angeles.",
+      "context": "Der Film begleitet Menschen mit sehr unterschiedlichen Berufen, Lebenslagen und Erfahrungen innerhalb derselben Stadt. Ihre Begegnungen entstehen häufig zufällig. Los Angeles wird dadurch zum gemeinsamen Raum, in dem Vorurteile Folgen haben können, ohne dass die Beteiligten die Lebensgeschichte des anderen kennen.",
+      "anchor": "Los Angeles verbindet die getrennten Lebensläufe.",
+      "interest": "Der Schauplatz erklärt die möglichen Kreuzungen der episodischen Handlung.",
+      "sources": [
+        "filmportal"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Erzählform verwendet @ hauptsächlich?",
+      "answers": [
+        "Mehrere verflochtene Geschichten eines großen Ensembles",
+        "Die lückenlose Lebensgeschichte eines einzigen Polizisten",
+        "Ein Gerichtsprozess mit Zeugenaussagen über einen einzigen Fall",
+        "Eine Reise zweier Freunde durch mehrere Bundesstaaten"
+      ],
+      "feedback": [
+        "Mehrere Einzelschicksale kreuzen sich in einer episodischen Struktur.",
+        "Kein einzelner Polizist bildet eine durchgehende Biografie.",
+        "Ein einziger Gerichtsprozess ist nicht die erzählerische Klammer.",
+        "Eine gemeinsame Reise zweier Freunde organisiert den Film nicht."
+      ],
+      "short": "Mehrere Einzelschicksale kreuzen sich in einer episodischen Struktur.",
+      "context": "Staatsanwalt, Schlosser, Ladenbesitzer, Polizisten und Autodiebe begegnen einander in wechselnden Zusammenhängen. Die Struktur zeigt, dass jede Person in einer Begegnung Opfer und in einer anderen Täter sein kann. Wissen über eine Figur entsteht stückweise und verändert oft die Bewertung ihrer vorangegangenen Handlungen.",
+      "anchor": "Das Ensemble zeigt dieselben Menschen in wechselnden Rollen gegenüber anderen.",
+      "interest": "Die Form macht vorschnelle moralische Einordnungen schwierig.",
+      "sources": [
+        "filmportal",
+        "analyse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum wehrt sich Christine zunächst gegen den Polizisten, der sie aus einem Unfallwagen retten will?",
+      "answers": [
+        "Derselbe Polizist hatte sie zuvor bei einer Kontrolle sexuell gedemütigt.",
+        "Sie hält ihn für den Fahrer des anderen Unfallwagens.",
+        "Sie will ihren Ehemann vor einer Verhaftung schützen.",
+        "Sie hat zuvor einen Streit mit seinem Vater geführt."
+      ],
+      "feedback": [
+        "Christine erkennt in Ryan den Täter des vorherigen Übergriffs.",
+        "Sie beschuldigt ihn nicht, den Unfall verursacht zu haben.",
+        "Eine drohende Verhaftung des Ehemanns erklärt ihren Widerstand nicht.",
+        "Ein Streit mit Ryans Vater gehört nicht zu ihrer Beziehung."
+      ],
+      "short": "Christine erkennt in Ryan den Täter des vorherigen Übergriffs.",
+      "context": "Christine (Thandie Newton, heute Thandiwe Newton) erkennt Ryan (Matt Dillon) wieder. Seine Hilfe verlangt ihr Vertrauen in genau den Mann ab, der sie zuvor verletzt hat. Die Rettung ist deshalb keine einfache Aufhebung des Übergriffs: Beide Handlungen bleiben Teil derselben widersprüchlichen Figur und ihrer Erfahrung mit ihr.",
+      "anchor": "Christines möglicher Retter ist ihr früherer Angreifer.",
+      "interest": "Die Wiederbegegnung verbindet notwendige Hilfe mit begründetem Misstrauen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was hält Peter tatsächlich in der Hand, als Hansen eine Waffe vermutet?",
+      "answers": [
+        "Eine kleine Heiligenfigur",
+        "Ein gefaltetes Taschenmesser",
+        "Eine Polizeimarke",
+        "Einen geladenen Revolver"
+      ],
+      "feedback": [
+        "Peter will seine Heiligenfigur zeigen; Hansen deutet die Bewegung tödlich falsch.",
+        "Ein Taschenmesser ist nicht der Gegenstand.",
+        "Peter zeigt keine Polizeimarke.",
+        "Die vermeintliche Waffe existiert in diesem Moment nicht."
+      ],
+      "short": "Peter will seine Heiligenfigur zeigen; Hansen deutet die Bewegung tödlich falsch.",
+      "context": "Hansen (Ryan Phillippe) hält sich für weniger voreingenommen als sein Kollege. Als Peter (Larenz Tate) eine Figur aus der Tasche holen will, ersetzt seine Angst das Wissen über den Gegenstand. Die tödliche Fehlentscheidung trifft daher auch eine Figur, die zuvor gegen offen rassistisches Verhalten auftreten wollte.",
+      "anchor": "Die Heiligenfigur wird als Waffe missverstanden.",
+      "interest": "Eine Selbstbeschreibung als vorurteilsfrei schützt nicht vor einer verhängnisvollen Annahme.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was tut Anthony mit den im Transporter entdeckten Menschen, obwohl ihm Geld für sie angeboten wird?",
+      "answers": [
+        "Er lässt sie in Chinatown frei.",
+        "Er liefert sie sofort der Polizei aus.",
+        "Er verlangt von ihren Familien Lösegeld.",
+        "Er lässt sie eingesperrt im Transporter zurück."
+      ],
+      "feedback": [
+        "Anthony weist das Angebot zurück und befreit die Menschen.",
+        "Anthony ermöglicht ihre Freiheit, statt sie festnehmen zu lassen.",
+        "Er schlägt aus ihrer Notlage keinen Erpressungsgewinn.",
+        "Er beendet ihre Gefangenschaft und lässt sie nicht eingeschlossen zurück."
+      ],
+      "short": "Anthony weist das Angebot zurück und befreit die Menschen.",
+      "context": "Anthony (Ludacris) stiehlt einen Transporter und findet darin gefangene Einwanderer. Sein kriminelles Handeln führt ihn an eine neue moralische Grenze. Statt den möglichen Gewinn einzustreichen, entscheidet er sich für ihre Freiheit. Der Film lässt eine Veränderung so aus einer konkreten Wahl entstehen, ohne seine früheren Taten zu verschweigen.",
+      "anchor": "Anthony verwertet den Fund nicht, sondern lässt die Gefangenen frei.",
+      "interest": "Eine Figur handelt entgegen der zunächst aufgebauten Erwartung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche falsche Annahme trifft sowohl Jean als auch den Ladenbesitzer Farhad über den Schlosser Daniel?",
+      "answers": [
+        "Sie halten ihn aufgrund seines Aussehens für einen Gangster.",
+        "Sie halten ihn für einen verdeckten Ermittler.",
+        "Sie halten ihn für einen reichen Immobilienentwickler.",
+        "Sie halten ihn für einen Verwandten des Staatsanwalts."
+      ],
+      "feedback": [
+        "Beide deuten Daniel voreilig als kriminell.",
+        "Ein Polizeiverdacht gegen Daniel ist nicht die gemeinsame Annahme.",
+        "Reichtum und Immobiliengeschäfte werden ihm nicht unterstellt.",
+        "Eine angebliche Verwandtschaft zum Staatsanwalt verbindet die Vorurteile nicht."
+      ],
+      "short": "Beide deuten Daniel voreilig als kriminell.",
+      "context": "Daniel (Michael Peña) wird von Jean (Sandra Bullock) und Farhad (Shaun Toub) mit einem Bild konfrontiert, das sie aus seiner Erscheinung ableiten. Sein tatsächliches Verhalten als Arbeiter und Vater wird dabei übersehen. Der Film wiederholt denselben Mechanismus bei verschiedenen Personen, statt Vorurteile nur einer einzigen Gruppe zuzuschreiben.",
+      "anchor": "Jean und Farhad sehen eine vermeintliche Gangzugehörigkeit statt den Schlosser.",
+      "interest": "Die Wiederholung macht einen gemeinsamen Wahrnehmungsfehler in verschiedenen Begegnungen sichtbar.",
+      "sources": [
+        "analyse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals gezeigt, zwei Jahre vor seinem Oscar als bester Film bei der Verleihung 2006?",
+      "answers": [
+        "2004",
+        "2003",
+        "2005",
+        "2006"
+      ],
+      "feedback": [
+        "Toronto 2004 liegt zwei Kalenderjahre vor der Oscarverleihung 2006.",
+        "2003 liegt drei Jahre vor der Verleihung und vor der Erstaufführung.",
+        "2005 ist der spätere US-Kinostart, nicht das Jahr der ersten Aufführung.",
+        "2006 ist das Preisjahr; der Film war schon vorher öffentlich gezeigt worden."
+      ],
+      "short": "Toronto 2004 liegt zwei Kalenderjahre vor der Oscarverleihung 2006.",
+      "context": "Die erste Festivalaufführung fand 2004 statt, die reguläre US-Auswertung begann 2005 und der Oscar folgte 2006. Diese Abfolge erklärt, weshalb Kritiken und Filmlisten unterschiedliche Jahreszahlen neben demselben Titel führen können. Das Filmjahr orientiert sich hier an der frühesten öffentlichen Aufführung.",
+      "anchor": "Festival 2004, Kino 2005, Oscar 2006: drei verschiedene Datumsarten.",
+      "interest": "Der Zeitanker trennt Filmidentität, Auswertung und spätere Auszeichnung.",
+      "sources": [
+        "filmportal",
+        "oscars"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie und schrieb das Drehbuch mit Robert Moresco?",
+      "answers": [
+        "Paul Haggis",
+        "Robert Moresco",
+        "Don Cheadle",
+        "Clint Eastwood"
+      ],
+      "feedback": [
+        "Paul Haggis ist Regisseur und Koautor.",
+        "Robert Moresco ist Koautor und Produzent, nicht Regisseur dieses Films.",
+        "Don Cheadle spielt mit und produziert.",
+        "Clint Eastwood inszenierte andere Haggis-Drehbücher, aber diesen Film nicht."
+      ],
+      "short": "Paul Haggis ist Regisseur und Koautor.",
+      "context": "Paul Haggis schreibt und inszeniert die Ensemblegeschichte, Robert Moresco arbeitet am Drehbuch mit. Don Cheadle übernimmt eine Rolle und Produktionsverantwortung. Der Film führt damit bekannte Beteiligte in verschiedenen Aufgaben zusammen, deren konkrete Credits sorgfältiger sind als die bloße Zuordnung eines prominenten Namens zum gesamten Projekt.",
+      "anchor": "Haggis inszeniert; Moresco schreibt mit, Cheadle spielt und produziert.",
+      "interest": "Die Frage trennt Regie von den weiteren kreativen und organisatorischen Beiträgen.",
+      "sources": [
+        "filmportal",
+        "verleih"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

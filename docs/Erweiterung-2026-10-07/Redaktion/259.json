@@ -1,0 +1,234 @@
+{
+  "rank": 259,
+  "titleDe": "Gilda",
+  "originalTitle": "Gilda",
+  "year": 1946,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Der ikonische Noir-Auftritt Rita Hayworths verbindet Blickinszenierung mit einem Dreieck aus Begehren, Geschäft und Macht.",
+  "directors": [
+    "Charles Vidor"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Kinoöffnung im März 1946 vor dem allgemeinen US-Start am 25. April. Originaler Columbia-Film mit Rita Hayworth und Glenn Ford.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Gilda_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/24801-GILDA",
+      "supports": "Regie, frühe Kinoöffnung, Produktions- und Besetzungscredits, Buenos-Aires-Handlung nach dem Krieg."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Gilda_(Film)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt arbeitet Johnny Farrell (Glenn Ford) für Ballin Mundson (George Macready)?",
+      "answers": [
+        "Buenos Aires",
+        "Rio de Janeiro",
+        "Havanna",
+        "Montevideo"
+      ],
+      "feedback": [
+        "Das Casino steht in Buenos Aires.",
+        "Rio ist nicht der zentrale Ort seiner Anstellung.",
+        "Havanna bildet nicht den Casinostandort.",
+        "Montevideo wird erst später ein Fluchtort Gildas."
+      ],
+      "short": "Das Casino steht in Buenos Aires.",
+      "context": "Johnny Farrell (Glenn Ford) kommt als mittelloser Spieler nach Buenos Aires. Ballin Mundson (George Macready) rettet ihn zunächst und stellt ihn dann im Casino ein. Die berufliche Nähe entsteht also aus einem persönlichen Abhängigkeitsverhältnis. Als Gilda (Rita Hayworth) dazukommt, treffen Loyalität zum Arbeitgeber und eine ältere Beziehung unmittelbar aufeinander.",
+      "anchor": "Johnnys Anstellung wächst aus Ballins Hilfe und schafft eine persönliche Loyalität.",
+      "interest": "Der Ort verankert den Beginn dieser Abhängigkeit.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche vergangene Beziehung verschweigen Gilda (Rita Hayworth) und Johnny (Glenn Ford) Ballin?",
+      "answers": [
+        "Sie waren bereits ein Liebespaar",
+        "Sie waren früher miteinander verheiratet",
+        "Sie hatten als Polizeiagenten zusammengearbeitet",
+        "Sie waren Geschäftspartner eines Waffenwerks"
+      ],
+      "feedback": [
+        "Beide erkennen den früheren Partner, tun aber so, als seien sie Fremde.",
+        "Sie hatten eine frühere Liebesbeziehung; eine frühere Ehe wird nicht als gemeinsames Geheimnis angegeben.",
+        "Sie verbinden keine früheren Polizeiaufträge.",
+        "Eine gemeinsame Waffenfirma ist nicht ihr Geheimnis."
+      ],
+      "short": "Beide erkennen den früheren Partner, tun aber so, als seien sie Fremde.",
+      "context": "Ballin Mundson (George Macready) stellt Johnny (Glenn Ford) seine neue Frau Gilda (Rita Hayworth) vor. Die beiden verbergen ihre gemeinsame Vergangenheit. Ihr demonstratives Fremdsein schützt die neue Ordnung nur oberflächlich. Alte Kränkung, Anziehung und die verlangte Loyalität wirken weiter und machen die von Ballin angeordnete Aufsicht besonders widersprüchlich.",
+      "anchor": "Das gespielte Fremdsein verdeckt eine frühere Liebesbeziehung.",
+      "interest": "Die Vorgeschichte erklärt die Spannung der neuen Dreieckssituation.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Womit ist Ballins (George Macready) geheimes Geschäft verbunden?",
+      "answers": [
+        "Mit einem Wolframkartell",
+        "Mit einer illegalen Diamantenmine",
+        "Mit gefälschten Lebensmittelmarken",
+        "Mit dem Schmuggel gestohlener Gemälde"
+      ],
+      "feedback": [
+        "Ballin kontrolliert ein Kartell und Patente für Wolfram.",
+        "Diamantenminen bilden nicht dieses Hintergrundgeschäft.",
+        "Lebensmittelmarken erklären den Konflikt mit den Deutschen nicht.",
+        "Kunstdiebstahl ist nicht das betreffende Geschäft."
+      ],
+      "short": "Ballin kontrolliert ein Kartell und Patente für Wolfram.",
+      "context": "Das Casino ist Ballin Mundsons (George Macready) sichtbarer Betrieb. Dahinter liegen Wolframinteressen, an denen deutsche Partner beteiligt sind. Als sie ihre Kontrolle zurückverlangen, entsteht eine zweite Bedrohung neben der Eifersucht. Die scheinbar private Geschichte ist deshalb an Besitz- und Machtverhältnisse gebunden, von denen Johnny (Glenn Ford) zunächst nur einen Teil kennt.",
+      "anchor": "Das sichtbare Casino verdeckt Ballins Wolframinteressen.",
+      "interest": "Die Frage erklärt den wirtschaftlichen Hintergrund der Gangsterhandlung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie entzieht sich Ballin (George Macready) zunächst der Verfolgung?",
+      "answers": [
+        "Er täuscht seinen Tod durch einen Flugzeugabsturz vor",
+        "Er lässt einen Doppelgänger im Casino festnehmen",
+        "Er reist mit einem gefälschten Diplomatenzug ab",
+        "Er meldet sich als Zeuge unter Polizeischutz"
+      ],
+      "feedback": [
+        "Er springt unbemerkt ab und lässt das Flugzeug explodieren.",
+        "Ein festgenommener Doppelgänger ist nicht sein Verfahren.",
+        "Ein diplomatischer Zug ersetzt den Flug nicht.",
+        "Er geht nicht freiwillig in ein Zeugenschutzverfahren."
+      ],
+      "short": "Er springt unbemerkt ab und lässt das Flugzeug explodieren.",
+      "context": "Ballin (George Macready) wird wegen seiner Geschäfte und eines Mordes verfolgt. Der inszenierte Flugzeugtod lässt ihn vorübergehend verschwinden und schafft für Gilda (Rita Hayworth) und Johnny (Glenn Ford) eine neue rechtliche Lage. Sie heiraten, doch Johnnys Misstrauen bleibt bestehen. Die Täuschung verändert Besitz und Rollen, löst aber den Beziehungskonflikt nicht.",
+      "anchor": "Ballins vorgetäuschter Tod verändert die rechtliche Lage, ohne Johnnys Eifersucht zu beenden.",
+      "interest": "Der Zusammenhang verbindet Fluchtplan und anschließende Ehe.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum hilft Langford (Don Douglas) Gilda (Rita Hayworth) nicht zur erhofften Scheidung?",
+      "answers": [
+        "Der vermeintliche Helfer arbeitet für Johnny",
+        "Er übernimmt die Scheidung nur gegen die Übertragung von Gildas Vermögen",
+        "Er arbeitet im Auftrag von Ballins deutschen Geschäftspartnern",
+        "Er verlangt zuerst einen Beweis für Ballins Tod"
+      ],
+      "feedback": [
+        "Sein Rat führt Gilda zurück in Johnnys kontrollierte Umgebung.",
+        "Langford handelt für Johnny und ist nicht ein unabhängiger Helfer mit bloßer Honorarbedingung.",
+        "Die Täuschung führt auf Johnny zurück, nicht auf die Kartellpartner.",
+        "Er führt Gilda zu Johnny zurück; eine fehlende Todesurkunde ist nicht der Grund."
+      ],
+      "short": "Sein Rat führt Gilda zurück in Johnnys kontrollierte Umgebung.",
+      "context": "Gilda (Rita Hayworth) flieht nach Montevideo und hofft auf einen Ausweg aus ihrer kontrollierten Ehe. Langford (Don Douglas) erscheint als unabhängiger Helfer, führt sie aber zu Johnny (Glenn Ford) zurück. Der scheinbare Zugang zu rechtlicher Befreiung ist Teil der Überwachung. Die Macht des Ehemanns reicht deshalb über den unmittelbaren Casino- und Wohnraum hinaus.",
+      "anchor": "Der scheinbar unabhängige Rechtshelfer verlängert Johnnys Kontrolle bis nach Montevideo.",
+      "interest": "Die Frage erklärt eine konkrete Grenze von Gildas Fluchtversuch.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wer verhindert Ballins (George Macready) letzten Angriff auf Gilda und Johnny?",
+      "answers": [
+        "Onkel Pio (Steven Geray)",
+        "Langford (Don Douglas)",
+        "Gildas ehemaliger Tänzerpartner",
+        "Einer der deutschen Kartellvertreter"
+      ],
+      "feedback": [
+        "Pio ersticht Ballin mit dessen eigener Stockwaffe.",
+        "Langford führt den entscheidenden Rettungseingriff nicht aus.",
+        "Ein Tänzerpartner tritt nicht als Retter auf.",
+        "Ein deutscher Geschäftspartner beendet den Angriff nicht."
+      ],
+      "short": "Pio ersticht Ballin mit dessen eigener Stockwaffe.",
+      "context": "Ballin (George Macready) kehrt zurück und bedroht das Paar. Onkel Pio (Steven Geray), der die Gefühle der beiden früher als andere verstanden hatte, greift ein. Seine Tat nutzt Ballins eigene verborgene Waffe. Der zunächst nebensächlich wirkende Beobachter wird damit zum handelnden Beschützer, während die gewaltsame Kontrollmacht durch ihr eigenes Mittel endet.",
+      "anchor": "Der verständnisvolle Beobachter Pio beendet Ballins Angriff mit dessen eigener Waffe.",
+      "interest": "Die Auflösung verbindet eine etablierte Figurenhaltung mit der entscheidenden Handlung.",
+      "sources": [
+        "wiki",
+        "de",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1946",
+        "1943",
+        "1940",
+        "1948"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1946.",
+        "1943 liegt drei Jahre vor der ersten Veröffentlichung von 1946.",
+        "1940 liegt sechs Jahre vor der ersten Veröffentlichung von 1946.",
+        "1948 ist ein späteres Jahr als das belegte erste Filmjahr 1946."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1946.",
+      "context": "Der Zweite Weltkrieg endete 1945; Gilda erschien 1946, im folgenden Jahr. Der Zeitpunkt steckt auch in der Handlung: Deutsche Partner wollen nach Kriegsende die Kontrolle über Mundsons Wolframgeschäfte zurückerlangen. Das Filmjahr wird dadurch mit einem konkreten wirtschaftlichen Konflikt verbunden, der hinter dem scheinbar privaten Dreieck aus Gilda, Johnny und Ballin steht.",
+      "anchor": "Kriegsende 1945 → Gilda 1946: im folgenden Jahr, mit einem Nachkriegskonflikt um Wolfram.",
+      "interest": "Der Zeitanker verbindet die Veröffentlichung mit einer spezifischen Hintergrundhandlung.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Charles Vidor",
+        "Edmund Goulding",
+        "Rudolph Maté",
+        "Robert Siodmak"
+      ],
+      "feedback": [
+        "Charles Vidor führte bei diesem Film Regie.",
+        "Edmund Goulding hat diesen Film nicht inszeniert; der Regiecredit lautet Charles Vidor.",
+        "Rudolph Maté hat diesen Film nicht inszeniert; der Regiecredit lautet Charles Vidor.",
+        "Robert Siodmak hat diesen Film nicht inszeniert; der Regiecredit lautet Charles Vidor."
+      ],
+      "short": "Charles Vidor führte bei diesem Film Regie.",
+      "context": "Charles Vidor führte Regie, Virginia Van Upp produzierte. Der Stoff wurde von einer amerikanischen Gangstergeschichte nach Buenos Aires verlegt. Rita Hayworths Auftritte verbinden Kostüme von Jean Louis mit der Choreografie Jack Coles. Die öffentliche Wirkung Gildas steht dabei neben Johnnys privater Deutung ihres Verhaltens; musikalische Inszenierung und Eifersucht greifen in derselben Figur ineinander.",
+      "anchor": "Vidor verbindet die nach Buenos Aires verlegte Gangstergeschichte mit Hayworths musikalischen Auftritten.",
+      "interest": "Der Hintergrund erklärt, weshalb glamouröse Gestaltung und Beziehungskonflikt dieselbe Erzählung tragen.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

@@ -1,0 +1,216 @@
+{
+  "rank": 28,
+  "genre": "Action",
+  "titleDe": "Universal Soldier",
+  "originalTitle": "Universal Soldier",
+  "year": 1992,
+  "articleUrl": "https://en.wikipedia.org/wiki/Universal_Soldier_(1992_film)",
+  "familiarity": 2,
+  "selectionReason": "Erweitert die Actionauswahl um Konflikte, Rettungsentscheidungen und die Inszenierung riskanter Einsätze.",
+  "familiarity_reason": "Jean-Claude Van Damme, Dolph Lundgren und die wiederbelebten Soldaten gehören zum weithin wiedererkennbaren Actionkino der frühen 1990er. Für den ersten Kinofilm gilt Bekanntheit 2; Fortsetzungen werden gesondert behandelt.",
+  "directors": [
+    "Roland Emmerich"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Erstveröffentlichung am 10. Juli 1992. Gemeint ist der erste Kinofilm, nicht die späteren alternativen Fortsetzungen.",
+  "series": "Universal Soldier",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Universal_Soldier_(1992_film)"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Vergangenheit haben Luc Deveraux (Jean-Claude Van Damme) und Andrew Scott (Dolph Lundgren) in @?",
+      "answers": [
+        "Sie sind im Vietnamkrieg getötete und später wiederbelebte Soldaten.",
+        "Sie sind lebende Brüder, die gemeinsam in die Armee eintreten.",
+        "Sie sind Polizeibeamte, die eine militärische Tarnidentität erhalten.",
+        "Sie sind Versuchspiloten, deren Flugzeug über Vietnam verschwand."
+      ],
+      "feedback": [
+        "Ihre Leichen werden konserviert und für das Programm wiederbelebt.",
+        "Die Figuren sind keine gemeinsam eintretenden Brüder.",
+        "Eine Polizeikarriere erklärt ihre Herkunft nicht.",
+        "Sie sterben nicht als Versuchspiloten eines verschollenen Flugzeugs."
+      ],
+      "short": "Das Programm verwendet zwei zuvor getötete Soldaten.",
+      "context": "Luc Deveraux (Jean-Claude Van Damme) und Andrew Scott (Dolph Lundgren) töten einander im Vietnamkrieg. Ihre Körper werden geborgen und konserviert. Jahrzehnte später setzt ein geheimes Militärprogramm sie erneut ein. Die neuen Einsatznummern bedeuten daher keine neue Person ohne Vergangenheit; verdrängte frühere Konflikte können hinter der scheinbar kontrollierten Funktion wiederkehren.",
+      "anchor": "Die neuen Einsatznummern verbergen eine gemeinsame gewaltsame Vergangenheit.",
+      "interest": "Die neuen Einsatznummern verbergen eine gemeinsame gewaltsame Vergangenheit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche zivile Verbündete begleitet Luc Deveraux (Jean-Claude Van Damme) auf seiner Flucht in @?",
+      "answers": [
+        "Die Fernsehjournalistin Veronica Roberts (Ally Walker)",
+        "Die Militärärztin Veronica Roberts (Ally Walker)",
+        "Die Staatsanwältin Veronica Roberts (Ally Walker)",
+        "Die Pilotin Veronica Roberts (Ally Walker)"
+      ],
+      "feedback": [
+        "Veronica recherchiert als Journalistin über das Programm.",
+        "Sie ist nicht die Militärärztin des Projekts.",
+        "Sie arbeitet nicht als Staatsanwältin.",
+        "Eine Pilotentätigkeit ist nicht ihre Rolle."
+      ],
+      "short": "Veronica Roberts ist eine recherchierende Fernsehjournalistin.",
+      "context": "Veronica Roberts (Ally Walker) möchte das geheime Programm aufdecken und gerät dabei selbst in Gefahr. Luc Deveraux (Jean-Claude Van Damme) hilft ihr gegen seine Einsatzbefehle. Die Flucht verbindet ihre Suche nach einer berichtbaren Wahrheit mit seiner Suche nach der eigenen Vergangenheit. Beide brauchen Informationen, aber aus unterschiedlichen persönlichen Gründen.",
+      "anchor": "Veronica sucht eine Geschichte; Luc sucht seine eigene Geschichte.",
+      "interest": "Veronica sucht eine Geschichte; Luc sucht seine eigene Geschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche körperliche Schwäche müssen die wiederbelebten Soldaten in @ regelmäßig ausgleichen?",
+      "answers": [
+        "Sie überhitzen und benötigen starke Kühlung.",
+        "Sie verlieren außerhalb der Basis sofort ihr Sehvermögen.",
+        "Sie können ohne tägliche Bluttransfusion nicht stehen.",
+        "Sie werden durch Sonnenlicht dauerhaft gelähmt."
+      ],
+      "feedback": [
+        "Kühlung verhindert den Zusammenbruch der überhitzenden Körper.",
+        "Ein sofortiger Sehverlust ist nicht das Problem.",
+        "Bluttransfusionen ersetzen hier nicht die Kühlung.",
+        "Sonnenlicht ist kein solcher Lähmungsmechanismus."
+      ],
+      "short": "Die Soldaten müssen gekühlt werden.",
+      "context": "Das Programm verleiht Luc Deveraux (Jean-Claude Van Damme) und den anderen Versuchspersonen große Kraft und beschleunigte Heilung. Diese Überlegenheit besitzt eine praktische Grenze: Ihre Körper überhitzen. Luc benötigt auf der Flucht ein Eisbad. Die Szene zeigt, dass eine vermeintlich perfekte Waffe von Wartung abhängt und außerhalb ihrer Kontrollumgebung verwundbar wird.",
+      "anchor": "Die überlegenen Körper bleiben von Kühlung abhängig.",
+      "interest": "Die überlegenen Körper bleiben von Kühlung abhängig.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was löst bei Luc Deveraux (Jean-Claude Van Damme) in @ die Rückkehr früherer Erinnerungen aus?",
+      "answers": [
+        "Eine Geiselsituation erinnert ihn an das vietnamesische Paar vor seinem Tod.",
+        "Ein neuer Befehl erklärt ihm vollständig seine Kindheit.",
+        "Eine Fernsehreportage zeigt ihm zum ersten Mal seine Eltern.",
+        "Ein Techniker spielt ihm absichtlich ein persönliches Tagebuch vor."
+      ],
+      "feedback": [
+        "Die Ähnlichkeit der Geiselsituation weckt die verdrängte Erfahrung.",
+        "Ein Befehl liefert keine vollständige Biografie.",
+        "Der Auslöser ist keine Elternreportage.",
+        "Ein Tagebuch wird nicht gezielt als Erinnerungshilfe vorgespielt."
+      ],
+      "short": "Eine Geiselsituation ruft Lucs letzte Kriegserfahrung zurück.",
+      "context": "Luc Deveraux (Jean-Claude Van Damme) hatte versucht, ein vietnamesisches Paar vor Andrew Scott (Dolph Lundgren) zu schützen. Bei einem späteren Einsatz sieht er eine ähnliche Lage. Die Erinnerung kehrt deshalb nicht als nüchterne Personalakte zurück, sondern als emotionaler und moralischer Konflikt. Sein neuer Ungehorsam hängt unmittelbar mit dem alten Versuch zusammen, andere Menschen zu retten.",
+      "anchor": "Die wiederkehrende Erinnerung bringt zugleich Lucs früheren Widerstand zurück.",
+      "interest": "Die wiederkehrende Erinnerung bringt zugleich Lucs früheren Widerstand zurück.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Warum behandelt Andrew Scott (Dolph Lundgren) Luc Deveraux (Jean-Claude Van Damme) in @ wieder als Kriegsverräter?",
+      "answers": [
+        "Er erlebt seine letzten Kriegserinnerungen als fortdauernde Gegenwart.",
+        "Er erhält einen neuen gerichtlichen Verratsbeschluss aus Vietnam.",
+        "Luc hat ihm nach der Wiederbelebung heimlich militärische Befehlsgewalt entzogen.",
+        "Veronica fälscht eine Kriegserklärung und überzeugt ihn damit."
+      ],
+      "feedback": [
+        "Scotts reaktivierte Erinnerungen halten ihn geistig im alten Krieg fest.",
+        "Ein neuer Gerichtsbeschluss entscheidet sein Verhalten nicht.",
+        "Eine heimliche Amtsentziehung durch Luc ist nicht die Ursache.",
+        "Eine gefälschte Kriegserklärung spielt dabei keine Rolle."
+      ],
+      "short": "Scotts alte Erinnerung wird für ihn zur aktuellen Wirklichkeit.",
+      "context": "Andrew Scott (Dolph Lundgren) reagiert anders auf die Rückkehr der Erinnerung als Luc Deveraux (Jean-Claude Van Damme). Seine frühere Gewalttätigkeit und Vorstellung von Verrat setzen sich fort. Der Film stellt damit zwei Folgen derselben experimentellen Wiederbelebung gegenüber: Luc gewinnt eine persönliche Orientierung zurück, während Scott den alten Konflikt erneut und zunehmend unkontrolliert auslebt.",
+      "anchor": "Luc findet zurück ins Leben; Scott bleibt im alten Krieg gefangen.",
+      "interest": "Luc findet zurück ins Leben; Scott bleibt im alten Krieg gefangen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Bedeutung hat Lucs (Jean-Claude Van Damme) Rückkehr zur Familienfarm in @ über den nächsten Kampf hinaus?",
+      "answers": [
+        "Sie verbindet seinen wiederbelebten Körper wieder mit seiner persönlichen Herkunft.",
+        "Sie bestätigt, dass seine Eltern das Militärprogramm geleitet haben.",
+        "Sie macht die Farm zum offiziellen neuen Hauptquartier der Einheit.",
+        "Sie zeigt, dass sein gesamtes früheres Leben eine erfundene Tarnung war."
+      ],
+      "feedback": [
+        "Der Besuch stellt eine persönliche Verbindung vor der Militärverwendung wieder her.",
+        "Die Eltern führen das Programm nicht.",
+        "Die Farm wird nicht zur neuen Basis der Einheit.",
+        "Die familiäre Herkunft wird gerade bestätigt, nicht als Tarnung aufgehoben."
+      ],
+      "short": "Die Familienfarm gibt Luc wieder eine persönliche Herkunft.",
+      "context": "Luc Deveraux (Jean-Claude Van Damme) erreicht mit Veronica Roberts (Ally Walker) seine Eltern in Louisiana. Der Mann, den das Programm als Einsatzmittel verwendet, erscheint dort wieder als Sohn. Scotts (Dolph Lundgren) Angriff bedroht deshalb mehr als einen sicheren Aufenthaltsort: Er trifft die Möglichkeit, nach dem experimentell verlängerten Militärdienst überhaupt ein eigenes Leben zurückzugewinnen.",
+      "anchor": "Auf der Farm wird aus dem Einsatzkörper wieder ein Familienmitglied.",
+      "interest": "Auf der Farm wird aus dem Einsatzkörper wieder ein Familienmitglied.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde der erste Kinofilm @ mit Jean-Claude Van Damme und Dolph Lundgren veröffentlicht?",
+      "answers": [
+        "1992",
+        "1987",
+        "1999",
+        "2009"
+      ],
+      "feedback": [
+        "Der erste Film startete 1992.",
+        "1987 liegt vor diesem Film.",
+        "1999 gehört zu einer späteren Kinofortsetzung.",
+        "2009 gehört zu einem späteren Film der Reihe."
+      ],
+      "short": "Der erste Kinofilm erschien 1992.",
+      "context": "Die erste gemeinsame Filmgeschichte mit Van Damme und Lundgren kam Anfang der neunziger Jahre in die Kinos. Später entstanden mehrere Fortsetzungen, die nicht alle dieselbe Kontinuität verwenden. Das Jahr dieser ursprünglichen Fassung bleibt daher eine eigene Angabe. Die im Prolog erzählten Ereignisse des Vietnamkriegs datieren die Handlung, nicht die Produktion.",
+      "anchor": "1969 ist die Vorgeschichte, 1992 das erste Filmjahr.",
+      "interest": "1969 ist die Vorgeschichte, 1992 das erste Filmjahr.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte beim ursprünglichen Film @ mit Jean-Claude Van Damme und Dolph Lundgren Regie?",
+      "answers": [
+        "Roland Emmerich",
+        "Dean Devlin",
+        "John Hyams",
+        "Mic Rodgers"
+      ],
+      "feedback": [
+        "Roland Emmerich führte Regie.",
+        "Devlin gehört zu den Drehbuchautoren.",
+        "Hyams inszenierte spätere Teile der Reihe.",
+        "Rodgers inszenierte eine spätere Fortsetzung."
+      ],
+      "short": "Roland Emmerich führte Regie.",
+      "context": "Roland Emmerich inszeniert die ursprüngliche Geschichte der wiederbelebten Soldaten. Dean Devlin ist einer der Autoren des Drehbuchs. Spätere Filme tragen andere Regiecredits und teilweise abweichende Fortsetzungen der Figurenbiografien. Die Frage grenzt den ersten Kinofilm darum ausdrücklich ein; der Name der Reihe allein ist kein vollständiger Regienachweis für sämtliche einzelnen Produktionen.",
+      "anchor": "Emmerich gehört zum ersten Film, andere Regisseure zu späteren Teilen.",
+      "interest": "Emmerich gehört zum ersten Film, andere Regisseure zu späteren Teilen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

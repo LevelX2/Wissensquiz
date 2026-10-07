@@ -1,0 +1,347 @@
+{
+  "as_of": "2026-10-07",
+  "scope": "Vollständiger Lauf und gezielte vollständige Wiederholungen der betroffenen Testdateien; je Datei gilt der jüngste Lauf.",
+  "fullRun": {
+    "files": 64,
+    "passed": 374,
+    "failed": 4
+  },
+  "initialFailureCause": "Vier feste Testzahlen zum alten Bekanntheitskatalog und zur Zahl der Jahresfragen. Keine Laufzeitkorrektur, nur Aktualisierung der erwarteten Kataloggrößen.",
+  "correctedTests": {
+    "files": 4,
+    "passed": 25,
+    "failed": 0
+  },
+  "afterFinalEditorialCompilation": {
+    "files": 4,
+    "passed": 27,
+    "failed": 0
+  },
+  "finalResult": {
+    "files": 64,
+    "passed": 378,
+    "failed": 0
+  },
+  "files": [
+    {
+      "file": "tests/account-database.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/accounts.test.ts",
+      "status": "passed",
+      "checks": 5
+    },
+    {
+      "file": "tests/accountSync.test.ts",
+      "status": "passed",
+      "checks": 13
+    },
+    {
+      "file": "tests/actor-editorial.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/actor-portraits.test.ts",
+      "status": "passed",
+      "checks": 1
+    },
+    {
+      "file": "tests/actor-recognition.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/actor-supplements.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/actors-package.test.ts",
+      "status": "passed",
+      "checks": 4
+    },
+    {
+      "file": "tests/all-genres-package.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/answer-display.test.ts",
+      "status": "passed",
+      "checks": 10
+    },
+    {
+      "file": "tests/answer-update.test.ts",
+      "status": "passed",
+      "checks": 8
+    },
+    {
+      "file": "tests/awards-package.test.ts",
+      "status": "passed",
+      "checks": 5
+    },
+    {
+      "file": "tests/career.test.ts",
+      "status": "passed",
+      "checks": 9
+    },
+    {
+      "file": "tests/catalog-codec.test.ts",
+      "status": "passed",
+      "checks": 2
+    },
+    {
+      "file": "tests/catalog-publication.test.ts",
+      "status": "passed",
+      "checks": 2
+    },
+    {
+      "file": "tests/catalogIndex.test.ts",
+      "status": "passed",
+      "checks": 1
+    },
+    {
+      "file": "tests/categories.test.ts",
+      "status": "passed",
+      "checks": 6
+    },
+    {
+      "file": "tests/cloudCodec.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/collection.test.ts",
+      "status": "passed",
+      "checks": 2
+    },
+    {
+      "file": "tests/comedy-extension.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/core.test.ts",
+      "status": "passed",
+      "checks": 31
+    },
+    {
+      "file": "tests/discovery.test.ts",
+      "status": "passed",
+      "checks": 6
+    },
+    {
+      "file": "tests/dont-know.test.ts",
+      "status": "passed",
+      "checks": 7
+    },
+    {
+      "file": "tests/duels.test.ts",
+      "status": "passed",
+      "checks": 6
+    },
+    {
+      "file": "tests/editorial-revision.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/editorial.test.ts",
+      "status": "passed",
+      "checks": 4
+    },
+    {
+      "file": "tests/entry-storage.test.ts",
+      "status": "passed",
+      "checks": 6
+    },
+    {
+      "file": "tests/entry-sync.test.ts",
+      "status": "passed",
+      "checks": 12
+    },
+    {
+      "file": "tests/error-training.test.ts",
+      "status": "passed",
+      "checks": 9
+    },
+    {
+      "file": "tests/expansion-20261007.test.ts",
+      "status": "passed",
+      "checks": 4
+    },
+    {
+      "file": "tests/feedback.test.ts",
+      "status": "passed",
+      "checks": 9
+    },
+    {
+      "file": "tests/film-facts.test.ts",
+      "status": "passed",
+      "checks": 8
+    },
+    {
+      "file": "tests/film240-package.test.ts",
+      "status": "passed",
+      "checks": 4
+    },
+    {
+      "file": "tests/filters.test.ts",
+      "status": "passed",
+      "checks": 8
+    },
+    {
+      "file": "tests/guest-activity-database.test.ts",
+      "status": "passed",
+      "checks": 2
+    },
+    {
+      "file": "tests/guest-activity.test.ts",
+      "status": "passed",
+      "checks": 4
+    },
+    {
+      "file": "tests/issue-reports-database.test.ts",
+      "status": "passed",
+      "checks": 5
+    },
+    {
+      "file": "tests/issue-reports.test.ts",
+      "status": "passed",
+      "checks": 10
+    },
+    {
+      "file": "tests/journey-areas.test.ts",
+      "status": "passed",
+      "checks": 2
+    },
+    {
+      "file": "tests/journey.test.ts",
+      "status": "passed",
+      "checks": 8
+    },
+    {
+      "file": "tests/leaderboard.test.ts",
+      "status": "passed",
+      "checks": 2
+    },
+    {
+      "file": "tests/learning-path.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/learning-progress.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/local-catalog.test.ts",
+      "status": "passed",
+      "checks": 6
+    },
+    {
+      "file": "tests/local-storage.test.ts",
+      "status": "passed",
+      "checks": 4
+    },
+    {
+      "file": "tests/music-package.test.ts",
+      "status": "passed",
+      "checks": 4
+    },
+    {
+      "file": "tests/packages.test.ts",
+      "status": "passed",
+      "checks": 26
+    },
+    {
+      "file": "tests/question-history.test.ts",
+      "status": "passed",
+      "checks": 2
+    },
+    {
+      "file": "tests/question-sources.test.ts",
+      "status": "passed",
+      "checks": 6
+    },
+    {
+      "file": "tests/question-title.test.ts",
+      "status": "passed",
+      "checks": 2
+    },
+    {
+      "file": "tests/record-modes.test.ts",
+      "status": "passed",
+      "checks": 9
+    },
+    {
+      "file": "tests/round-archive.test.ts",
+      "status": "passed",
+      "checks": 5
+    },
+    {
+      "file": "tests/roundSetup.test.ts",
+      "status": "passed",
+      "checks": 2
+    },
+    {
+      "file": "tests/scifi-extension.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/shared-records.test.ts",
+      "status": "passed",
+      "checks": 17
+    },
+    {
+      "file": "tests/solution-display.test.ts",
+      "status": "passed",
+      "checks": 7
+    },
+    {
+      "file": "tests/stat-projections.test.ts",
+      "status": "passed",
+      "checks": 5
+    },
+    {
+      "file": "tests/state-processing.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/sync-codec.test.ts",
+      "status": "passed",
+      "checks": 7
+    },
+    {
+      "file": "tests/sync-database.test.ts",
+      "status": "passed",
+      "checks": 5
+    },
+    {
+      "file": "tests/sync-maintenance.test.ts",
+      "status": "passed",
+      "checks": 3
+    },
+    {
+      "file": "tests/year-choices-database.test.ts",
+      "status": "passed",
+      "checks": 4
+    },
+    {
+      "file": "tests/year-choices.test.ts",
+      "status": "passed",
+      "checks": 9
+    },
+    {
+      "file": "tests/year-editorial.test.ts",
+      "status": "passed",
+      "checks": 4
+    }
+  ]
+}

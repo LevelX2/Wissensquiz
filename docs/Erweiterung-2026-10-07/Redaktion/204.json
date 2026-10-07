@@ -1,0 +1,238 @@
+{
+  "rank": 204,
+  "titleDe": "The Final Cut – Dein Tod ist erst der Anfang",
+  "originalTitle": "The Final Cut",
+  "year": 2004,
+  "genre": "Science-Fiction",
+  "familiarity": 4,
+  "familiarity_reason": "Geschnittene Lebenserinnerungen liefern anschauliche Fragen zu Erinnerung, Privatsphäre und Verantwortung.",
+  "directors": [
+    "Omar Naim"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten",
+    "Kanada",
+    "Deutschland"
+  ],
+  "release_note": "Weltpremiere im Wettbewerb der Berlinale im Februar 2004; der US-Kinostart im Oktober ist ein späterer Veröffentlichungstermin. Das Festival führt das Produktionsjahr 2003.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/The_Final_Cut_(2004_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "festival": {
+      "url": "https://www.berlinale.de/en/2004/programme/20041360.html",
+      "supports": "Wettbewerb 2004, Produktionsjahr 2003, Regie und Implantat-/Schnittkonflikt."
+    },
+    "festivalPremiere": {
+      "url": "https://www.berlinale.de/media/download/presse/pressemitteilungen/54_berlinale/26_pressrelease_wettbewerb4_21_01_04.pdf",
+      "supports": "Ankündigung der Weltpremiere als Regiedebüt im Berlinale-Wettbewerb 2004."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/The_Final_Cut_%E2%80%93_Dein_Tod_ist_erst_der_Anfang",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was zeichnet das Gehirnimplantat in @ auf?",
+      "answers": [
+        "Die Bilder und Geräusche des gesamten Lebens.",
+        "Nur besonders starke Träume während des Schlafs.",
+        "Ausschließlich die Gedanken anderer Implantatträger.",
+        "Nur Gespräche mit dem behandelnden Arzt."
+      ],
+      "feedback": [
+        "Das Implantat zeichnet das subjektiv erlebte Leben auf.",
+        "Die Aufzeichnung beschränkt sich nicht auf Träume.",
+        "Gedanken fremder Menschen werden nicht direkt gelesen.",
+        "Arztgespräche bilden nicht den gesamten Aufnahmezweck."
+      ],
+      "short": "Das Implantat zeichnet das subjektiv erlebte Leben auf.",
+      "context": "Die Implantate speichern, was ein Mensch sieht und hört. Dadurch bleibt ein ganzes Leben als Material zurück. Der vollständige Umfang verspricht Erinnerung, eröffnet aber auch Zugriff auf private Begegnungen. Wer die Aufnahmen später sichtet, kann nicht nur schöne Momente bewahren, sondern Geheimnisse sehen, die der Verstorbene anderen nie anvertrauen wollte.",
+      "anchor": "Das ganze Leben wird Material für spätere Betrachter.",
+      "interest": "Die Technik erklärt zugleich Erinnerungshoffnung und Eingriff in die Privatsphäre.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wozu erstellt Alan Hakman (Robin Williams) in @ seine geschnittenen Filme?",
+      "answers": [
+        "Sie werden bei Trauerfeiern als Lebensrückblicke gezeigt.",
+        "Sie dienen als laufende Schulung für Polizeiermittler.",
+        "Sie ersetzen die Nachrichtenberichte staatlicher Sender.",
+        "Sie werden als Werbefilme für Schönheitskliniken verkauft."
+      ],
+      "feedback": [
+        "Seine Rememory-Filme begleiten die Erinnerung an Verstorbene.",
+        "Eine Polizeischulung ist nicht Hakmans regulärer Auftrag.",
+        "Er schneidet private Biografien und keine Staatsnachrichten.",
+        "Seine Erinnerungsfilme sind keine Klinikwerbung."
+      ],
+      "short": "Seine Rememory-Filme begleiten die Erinnerung an Verstorbene.",
+      "context": "Hakman verdichtet Lebensaufzeichnungen zu Rückblicken für Trauerfeiern. Robin Williams spielt einen Cutter, der auch problematische Menschen vorteilhaft erscheinen lassen kann. Eine technische Auswahl erhält damit eine soziale Funktion: Angehörige sehen eine beruhigende Geschichte. Was nicht in diese Geschichte passt, kann dem Publikum des Gedenkens vollständig verborgen bleiben.",
+      "anchor": "Der Trauerfilm zeigt eine ausgewählte Biografie statt des ungekürzten Lebens.",
+      "interest": "Der Beruf erklärt, warum Schnittentscheidungen gesellschaftliche Folgen haben.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Eigenschaft verstößt bei einem Cutter in @ gegen den Berufskodex?",
+      "answers": [
+        "Er trägt selbst ein Erinnerungsimplantat.",
+        "Er übernimmt zwei Aufträge aus derselben Familie.",
+        "Er arbeitet ohne eigene Trauerbegleitung der Angehörigen.",
+        "Er sichtet das Material ohne die Angehörigen im Raum."
+      ],
+      "feedback": [
+        "Ein eigener Chip macht einen Cutter zum verbotenen Träger fremder Aufnahmen.",
+        "Der gezeigte Kodex verbietet dem Cutter ein eigenes Implantat; mehrere Familienaufträge sind hier nicht der Verstoß.",
+        "Die Regel betrifft die eigene Implantation, nicht eine persönliche Begleitung bei der Trauerfeier.",
+        "Die Sichtung allein ist nicht der bezeichnete Regelbruch; sein eigenes Implantat ist es."
+      ],
+      "short": "Ein eigener Chip macht einen Cutter zum verbotenen Träger fremder Aufnahmen.",
+      "context": "Ein Cutter soll selbst kein Implantat tragen. Sobald er fremde Erinnerungen sieht, würden sie sonst in seiner eigenen Lebensaufzeichnung erneut gespeichert. Das Verbot schützt die Trennung zwischen einzelnen Aufträgen. Bei Hakman (Robin Williams) wird aus dem zunächst abstrakten Kodex eine persönliche Gefährdung, weil seine eigene Aufzeichnung eine weitere Kopie enthalten kann.",
+      "anchor": "Ein implantierter Cutter speichert auch die von ihm betrachteten fremden Erinnerungen.",
+      "interest": "Die Berufsregel erhält ihre Bedeutung aus einer konkreten technischen Folge.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Warum zerstört Delila (Mira Sorvino) in @ Hakmans Schnittgerät?",
+      "answers": [
+        "Sie entdeckt dort Aufzeichnungen ihres verstorbenen früheren Partners.",
+        "Sie glaubt, Hakman habe ihre eigenen Erinnerungen veröffentlicht.",
+        "Sie will die Aufzeichnung einer von ihr beobachteten Straftat vernichten.",
+        "Sie will verhindern, dass Hakman ihren neuen Partner bearbeitet."
+      ],
+      "feedback": [
+        "Die privaten Erinnerungen ihres früheren Partners lösen ihren Zorn aus.",
+        "Delila reagiert auf die Aufzeichnungen ihres verstorbenen Partners, nicht auf einen veröffentlichten eigenen Rückblick.",
+        "Der Konflikt betrifft die intimen Erinnerungen ihres früheren Partners.",
+        "Der Fund betrifft einen bereits verstorbenen früheren Partner und keinen geplanten neuen Auftrag."
+      ],
+      "short": "Die privaten Erinnerungen ihres früheren Partners lösen ihren Zorn aus.",
+      "context": "Delila entdeckt, dass Hakman (Robin Williams) Aufzeichnungen ihres verstorbenen früheren Partners besitzt. Für sie überschreitet seine Sichtung eine Grenze der Intimität. Als sie das Gerät zerstört, geht zugleich wichtiges Material eines anderen Auftrags verloren. Ein beruflicher Zugriff auf Bilder beschädigt damit die private Beziehung und verschärft die äußere Bedrohung.",
+      "anchor": "Delilas Angriff beantwortet einen als voyeuristisch erlebten Zugriff auf ihre Vergangenheit.",
+      "interest": "Eine persönliche Reaktion verändert zugleich den Verlauf des beruflichen Konflikts.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was widerlegt in @ Hakmans Erinnerung an Louis’ vermeintlichen Tod?",
+      "answers": [
+        "Das vermeintliche Blut auf dem Boden war rote Farbe.",
+        "Eine zweite Person hatte heimlich Louis’ Platz eingenommen.",
+        "Der Sturz wurde erst Jahrzehnte später nachgestellt.",
+        "Hakman hatte den Unfall nur in einer Fernsehsendung gesehen."
+      ],
+      "feedback": [
+        "Die Aufnahme zeigt rote Farbe und korrigiert seine Schuldvorstellung.",
+        "Ein heimlicher Personenwechsel erklärt die Kindheitserinnerung nicht.",
+        "Die Sichtung betrifft die damalige Situation selbst.",
+        "Hakman war tatsächlich am Ort und nicht Fernsehzuschauer."
+      ],
+      "short": "Die Aufnahme zeigt rote Farbe und korrigiert seine Schuldvorstellung.",
+      "context": "Hakman erinnert sich an einen Sturz seines Kindheitsfreundes und vermeintliches Blut. Die eigene Aufzeichnung zeigt jedoch rote Farbe. Damit unterscheidet der Film zwischen gespeicherten Bildern und deren späterer Deutung. Sein langjähriges Schuldgefühl beruhte auf einer Schlussfolgerung, die für ihn sicher wirkte, obwohl die aufgenommene Situation sie nicht trug.",
+      "anchor": "Rote Farbe wurde in Hakmans Erinnerung zu Blut und persönlicher Schuld.",
+      "interest": "Der Befund trennt Ereignis, Erinnerung und Deutung.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum bleibt Hakman (Robin Williams) in @ nach dem Verlust von Bannisters Material interessant?",
+      "answers": [
+        "Sein eigener Chip kann das zuvor betrachtete Material enthalten.",
+        "Er hat heimlich eine zweite Arbeitskopie bei den Angehörigen hinterlegt.",
+        "Er besitzt noch einen vollständigen Ausdruck von Bannisters Gesprächen.",
+        "Er hat das ungeschnittene Material an Bannisters Anwalt übertragen."
+      ],
+      "feedback": [
+        "Sein Wahrnehmungsprotokoll ist eine mögliche zusätzliche Kopie.",
+        "Der gesuchte verbleibende Zugang liegt in Hakmans eigenem Erinnerungsimplantat.",
+        "Keine vollständige Papierabschrift ersetzt das Material; Hakmans Wahrnehmung kann im Chip gespeichert sein.",
+        "Sein eigenes Implantat erklärt sein fortbestehendes Interesse für die Verfolger."
+      ],
+      "short": "Sein Wahrnehmungsprotokoll ist eine mögliche zusätzliche Kopie.",
+      "context": "Die ursprünglichen Dateien sind verloren, doch Hakman hat sie bereits gesehen. Wenn sein Implantat diese Sichtung festhielt, existiert das Material innerhalb seiner eigenen Lebensaufzeichnung weiter. Seine berufliche Tätigkeit macht ihn deshalb selbst zur gesuchten Quelle. Der Film führt damit die scheinbar einfache Trennung zwischen Betrachter und Bildarchiv zu einem gefährlichen Widerspruch.",
+      "anchor": "Der Betrachter kann selbst zum Archiv des vernichteten Materials werden.",
+      "interest": "Die technische Logik erklärt, warum sich die Gefahr auf Hakman verlagert.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2004",
+        "2001",
+        "1998",
+        "2006"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2004.",
+        "2001 liegt drei Jahre vor der ersten Veröffentlichung von 2004.",
+        "1998 liegt sechs Jahre vor der ersten Veröffentlichung von 2004.",
+        "2006 ist ein späteres Jahr als das belegte erste Filmjahr 2004."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2004.",
+      "context": "Die Dreharbeiten fanden 2003 statt; das Berlinale-Archiv führt deshalb 2003 als Produktionsjahr. Die angekündigte Weltpremiere erfolgte jedoch 2004 im Festivalwettbewerb. Für das Quiz zählt die erste Veröffentlichung. Diese zeitliche Abfolge erklärt die scheinbar abweichenden Angaben, ohne das Drehjahr mit dem ersten öffentlichen Filmjahr zu verwechseln.",
+      "anchor": "2003 produziert → 2004 bei der Berlinale erstmals veröffentlicht.",
+      "interest": "Der Zeitanker klärt die tatsächliche Abweichung zwischen Produktions- und Veröffentlichungsjahr.",
+      "sources": [
+        "wiki",
+        "festival",
+        "festivalPremiere"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Omar Naim",
+        "Andrew Niccol",
+        "Duncan Jones",
+        "Alex Proyas"
+      ],
+      "feedback": [
+        "Omar Naim führte bei diesem Film Regie.",
+        "Andrew Niccol hat diesen Film nicht inszeniert; der Regiecredit lautet Omar Naim.",
+        "Duncan Jones hat diesen Film nicht inszeniert; der Regiecredit lautet Omar Naim.",
+        "Alex Proyas hat diesen Film nicht inszeniert; der Regiecredit lautet Omar Naim."
+      ],
+      "short": "Omar Naim führte bei diesem Film Regie.",
+      "context": "Omar Naim schrieb und inszenierte seinen ersten Langspielfilm. Die Berlinale kündigte die Weltpremiere ausdrücklich als Regiedebüt an. Seine Zukunftsidee verlegt eine Frage des Filmschnitts in menschliche Biografien: Eine Auswahl aufgezeichneter Bilder kann einen Verstorbenen anders erscheinen lassen, als sein unbearbeitetes Leben es nahelegt.",
+      "anchor": "Naims Regiedebüt überträgt die Macht des Schnitts auf aufgezeichnete Menschenleben.",
+      "interest": "Die Prämisse macht die Entscheidung eines Cutters zum Gegenstand eines Films.",
+      "sources": [
+        "wiki",
+        "festival",
+        "festivalPremiere"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

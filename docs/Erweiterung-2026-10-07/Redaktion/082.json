@@ -1,0 +1,218 @@
+{
+  "rank": 82,
+  "titleDe": "Der Unsichtbare",
+  "originalTitle": "The Invisible Man",
+  "year": 2020,
+  "genre": "Horror",
+  "familiarity": 3,
+  "directors": [
+    "Leigh Whannell"
+  ],
+  "production_countries": [
+    "Australien",
+    "USA"
+  ],
+  "release_note": "Premiere in Hollywood am 24. Februar 2020; australischer Kinostart am 27., US-Kinostart am 28. Februar 2020.",
+  "familiarity_reason": "Leigh Whannells Fassung von 2020 mit Elisabeth Moss ist im aktuellen Horrorpublikum gut bekannt; sie hat weniger allgemeine Titelpräsenz als das historische Unsichtbarkeitsmotiv, Bekanntheit 3.",
+  "sources": {
+    "studio": "https://www.universalpicturesathome.com/press-release/the-invisible-man-2020-press-release",
+    "kritik": "https://www.rogerebert.com/reviews/the-invisible-man-movie-review-2020",
+    "handlung": "https://en.wikipedia.org/wiki/The_Invisible_Man_(2020_film)"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Aus welcher Situation flieht Cecilia zu Beginn von @?",
+      "answers": [
+        "Aus einer von Gewalt und Kontrolle geprägten Beziehung",
+        "Aus einer überwachten Forschungseinrichtung",
+        "Aus einer gescheiterten Undercover-Ermittlung",
+        "Aus einer gerichtlich angeordneten Therapie"
+      ],
+      "feedback": [
+        "Sie versucht, ihrem kontrollierenden Partner zu entkommen.",
+        "Sie ist keine dort festgehaltene Versuchsperson.",
+        "Sie führt keinen verdeckten Polizeieinsatz aus.",
+        "Eine angeordnete Therapie bildet nicht die Ausgangslage."
+      ],
+      "short": "Sie versucht, ihrem kontrollierenden Partner zu entkommen.",
+      "context": "Cecilia (Elisabeth Moss) flieht vor Adrian (Oliver Jackson-Cohen). Seine Kontrolle bestimmt bereits ihr Verhalten, bevor die fantastische Bedrohung beginnt. Der Film verankert die Unsichtbarkeit damit in einer vorhandenen Beziehungserfahrung: Die Gefahr verschwindet nicht einfach, wenn Cecilia räumlichen Abstand zu ihrem Partner gewinnt.",
+      "anchor": "Cecilias Flucht beginnt bei der Kontrolle durch ihren Partner.",
+      "interest": "Verbindet die fantastische Bedrohung mit dem konkreten Beziehungskonflikt.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Nachricht soll Cecilia in @ zunächst von der Angst vor Adrian befreien?",
+      "answers": [
+        "Er sei gestorben und habe ihr Geld hinterlassen.",
+        "Er sei ohne Rückkehrmöglichkeit ins Ausland gezogen.",
+        "Er habe sein Forschungsunternehmen an sie übertragen.",
+        "Er sei zu einer langen Gefängnisstrafe verurteilt worden."
+      ],
+      "feedback": [
+        "Die Nachricht von seinem angeblichen Suizid wird mit einem Erbe verbunden.",
+        "Ein dauerhafter Auslandsaufenthalt wird ihr nicht als Lösung mitgeteilt.",
+        "Sie erbt Geld, nicht unmittelbar die Leitung des Unternehmens.",
+        "Eine Verurteilung erklärt ihre vorübergehende Erleichterung nicht."
+      ],
+      "short": "Die Nachricht von seinem angeblichen Suizid wird mit einem Erbe verbunden.",
+      "context": "Cecilia (Elisabeth Moss) erfährt von Adrians (Oliver Jackson-Cohen) angeblichem Tod und einem beträchtlichen Erbe. Die Kombination verspricht Freiheit und eine materielle Zukunft. Gerade diese scheinbar endgültige Entlastung macht spätere Anzeichen seiner Gegenwart schwer vermittelbar: Andere halten ihre Angst nun für eine Nachwirkung statt für aktuelle Gefahr.",
+      "anchor": "Die Todesnachricht verspricht Freiheit und erschwert später Cecilias Glaubwürdigkeit.",
+      "interest": "Erklärt die widersprüchliche Wirkung einer scheinbar guten Nachricht.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Erfindung ermöglicht in @ die unsichtbaren Angriffe?",
+      "answers": [
+        "Ein Anzug mit optischer Tarntechnik",
+        "Ein Medikament, das Körpergewebe durchsichtig macht",
+        "Ein implantierter Sender, der Erinnerungen an den Träger löscht",
+        "Eine Kontaktlinse, die allein Cecilia den Angreifer übersehen lässt"
+      ],
+      "feedback": [
+        "Adrians Technik steckt in einem tragbaren Anzug.",
+        "Die Fassung verwendet keine chemische Verwandlung des Körpers.",
+        "Der Effekt beruht auf Tarnung, nicht auf gelöschten Erinnerungen.",
+        "Auch andere Personen können den Angreifer nicht sehen."
+      ],
+      "short": "Adrians Technik steckt in einem tragbaren Anzug.",
+      "context": "Adrian (Oliver Jackson-Cohen) hat einen Tarnanzug entwickelt. Unsichtbarkeit erscheint dadurch als kontrollierbares technisches Mittel. Für Cecilia (Elisabeth Moss) entsteht ein Beweisproblem: Die Folgen der Gewalt sind sichtbar, der Verursacher entzieht sich dem Blick. Die Erfindung erweitert so seine vorhandene Macht über ihre Lebensumstände.",
+      "anchor": "Ein optischer Tarnanzug macht Gewalt sichtbar, ihren Täter aber unsichtbar.",
+      "interest": "Unterscheidet die konkrete Technik dieser Fassung von einer körperlichen Verwandlung.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie versucht Cecilia in @, die unsichtbare Gestalt am Dachboden sichtbar zu machen?",
+      "answers": [
+        "Sie gießt Farbe auf sie.",
+        "Sie wirft Mehl in den Ventilator.",
+        "Sie beleuchtet sie mit ultraviolettem Licht.",
+        "Sie lässt Rauch durch die Klimaanlage strömen."
+      ],
+      "feedback": [
+        "Die Farbe zeichnet die verborgene Gestalt für einen Moment nach.",
+        "Ein Ventilator mit Mehl ist nicht ihr Mittel in dieser Szene.",
+        "UV-Licht enthüllt sie dort nicht.",
+        "Die Klimaanlage wird nicht zum Rauchdetektor umfunktioniert."
+      ],
+      "short": "Die Farbe zeichnet die verborgene Gestalt für einen Moment nach.",
+      "context": "Cecilia (Elisabeth Moss) schüttet Farbe durch die Dachbodenöffnung. Das Material haftet an der unsichtbaren Gestalt und gibt ihr einen sichtbaren Umriss. Ihre Gegenwehr beruht auf einer einfachen räumlichen Überlegung: Ein verborgener Körper nimmt weiterhin Platz ein und kann mit sichtbaren Stoffen in Kontakt kommen.",
+      "anchor": "Farbe macht den weiterhin vorhandenen Körper kurz sichtbar.",
+      "interest": "Erklärt die praktische Gegenwehr gegen eine optische Täuschung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Entdeckung macht Cecilia in @ nach dem tödlichen Schuss auf den Angreifer bei James?",
+      "answers": [
+        "Adrians Bruder Tom steckt in dem Anzug.",
+        "Adrian steckt allein in dem beschädigten Anzug.",
+        "James hat einen zweiten Anzug heimlich benutzt.",
+        "Der Anzug wird ohne einen Menschen darin ferngesteuert."
+      ],
+      "feedback": [
+        "Unter dem Anzug befindet sich Tom.",
+        "Der getötete Träger ist nicht Adrian.",
+        "James ist das Angriffsziel, nicht der enttarnte Träger.",
+        "Es befindet sich ein Mensch in dem Anzug."
+      ],
+      "short": "Unter dem Anzug befindet sich Tom.",
+      "context": "Cecilia (Elisabeth Moss) findet Tom (Michael Dorman) unter der Tarnung. Die Entdeckung trennt die sichtbare Identität eines Angreifers von der Frage nach dem gesamten Plan. Adrians (Oliver Jackson-Cohen) spätere Erklärung kann damit plausibel erscheinen, während Cecilia weiterhin an seiner Verantwortung zweifelt.",
+      "anchor": "Tom unter dem Anzug löst den Angriff, aber nicht alle Schuldfragen.",
+      "interest": "Zeigt, warum die Enttarnung eines Täters die ganze Erklärung noch nicht sichert.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie nutzt Cecilia im Schluss von @ die Hauskamera gegen Adrian?",
+      "answers": [
+        "Sie lässt ihren Angriff mit dem Tarnanzug wie seinen Suizid aussehen.",
+        "Sie überträgt ein offen gefilmtes Geständnis an die Polizei.",
+        "Sie ersetzt die Aufnahme durch Bilder aus dem Krankenhaus.",
+        "Sie blendet nur ihren eigenen Ton aus einer sichtbaren Auseinandersetzung aus."
+      ],
+      "feedback": [
+        "Der unsichtbare Angriff erzeugt im Kamerabild eine falsche scheinbare Selbsthandlung.",
+        "Adrian legt kein solches offen gefilmtes Geständnis ab.",
+        "Der Film zeigt keinen Austausch gegen Krankenhausmaterial.",
+        "Die Täuschung betrifft die unsichtbare Handlung, nicht lediglich den Ton."
+      ],
+      "short": "Der unsichtbare Angriff erzeugt im Kamerabild eine falsche scheinbare Selbsthandlung.",
+      "context": "Cecilia (Elisabeth Moss) benutzt den versteckten zweiten Anzug. Die Kamera hält Adrians (Oliver Jackson-Cohen) Tod fest, kann aber ihre unsichtbare Beteiligung nicht abbilden. Das Finale kehrt damit sein Verfahren um: Ein Bild wirkt beweiskräftig, obwohl ihm genau der entscheidende Handelnde fehlt.",
+      "anchor": "Der Tarnanzug macht aus Cecilias Angriff einen scheinbaren Suizid im Kamerabild.",
+      "interest": "Verknüpft das Finale mit dem zuvor aufgebauten Problem sichtbarer Beweise.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, 87 Jahre nach James Whales klassischer Verfilmung von 1933?",
+      "answers": [
+        "2020",
+        "2000",
+        "2010",
+        "2025"
+      ],
+      "feedback": [
+        "Von 1933 bis 2020 liegen 87 Jahre.",
+        "2000 liegt 67 Jahre nach Whales Film.",
+        "2010 liegt 77 Jahre nach dem Klassiker.",
+        "2025 liegt 92 Jahre nach der früheren Fassung."
+      ],
+      "short": "Von 1933 bis 2020 liegen 87 Jahre.",
+      "context": "James Whale verfilmte den Stoff 1933; Leigh Whannells Fassung erschien 2020, 87 Jahre später. Der Vergleich macht den Perspektivwechsel greifbar: Die neue Geschichte beobachtet vor allem Cecilia (Elisabeth Moss), deren Erfahrungen bezweifelt werden, und verbindet das klassische Unsichtbarkeitsmotiv mit Kontrolle innerhalb einer Beziehung.",
+      "anchor": "1933 Whales Klassiker, 87 Jahre später 2020 Cecilias Geschichte.",
+      "interest": "Verankert das Jahr in der konkreten Geschichte dieses Filmstoffs.",
+      "sources": [
+        "kritik",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Fassung von @ aus dem Jahr 2020 Regie?",
+      "answers": [
+        "Leigh Whannell",
+        "James Wan",
+        "James Whale",
+        "Jason Blum"
+      ],
+      "feedback": [
+        "Leigh Whannell schrieb und inszenierte diese Fassung.",
+        "Wan ist mit verwandten Horrorproduktionen verbunden, führte hier aber nicht Regie.",
+        "Whale inszenierte die Fassung von 1933.",
+        "Blum war Produzent, nicht Regisseur."
+      ],
+      "short": "Leigh Whannell schrieb und inszenierte diese Fassung.",
+      "context": "Leigh Whannell verantwortete Drehbuch und Regie. Universal beschreibt die Bearbeitung als Verbindung moderner Technik mit gesellschaftlich nachvollziehbaren Themen. Die Unsichtbarkeit liefert damit nicht nur einen Effekt für Angriffe; sie vergrößert den Abstand zwischen Cecilias (Elisabeth Moss) Erfahrung und dem, was ihr Umfeld als Beweis anerkennt.",
+      "anchor": "Whannell verbindet den klassischen Stoff mit Technik und Cecilias Perspektive.",
+      "interest": "Ordnet den Regiecredit in die individuelle Bearbeitung des Materials ein.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

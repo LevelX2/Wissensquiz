@@ -1,0 +1,232 @@
+{
+  "rank": 216,
+  "titleDe": "Upgrade",
+  "originalTitle": "Upgrade",
+  "year": 2018,
+  "genre": "Science-Fiction",
+  "familiarity": 3,
+  "familiarity_reason": "Eine technische Körperhilfe erhält eigene Handlungsmacht; prägende Bewegungs- und Kontrollfragen.",
+  "directors": [
+    "Leigh Whannell"
+  ],
+  "production_countries": [
+    "Australien",
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Premiere beim SXSW-Festival im März 2018; Kinoveröffentlichung im selben Jahr.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Upgrade_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "laterFilm": {
+      "url": "https://www.universalpicturesathome.com/press-release/the-invisible-man-2020-press-release",
+      "supports": "Whannells späterer Film The Invisible Man aus dem Jahr 2020."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Upgrade_(Film)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was ermöglicht das Implantat Grey (Logan Marshall-Green) in @ zunächst?",
+      "answers": [
+        "Nach seiner Lähmung wieder den Körper zu bewegen.",
+        "Ohne Hilfsmittel durch geschlossene Türen zu sehen.",
+        "Die Erinnerungen seiner Frau vollständig auf andere zu übertragen.",
+        "Eine zusätzliche Hand allein über Sprache zu steuern."
+      ],
+      "feedback": [
+        "STEM stellt seine verlorene Bewegungsfähigkeit wieder her.",
+        "Die Kernfunktion ist Körpersteuerung und keine Röntgensicht.",
+        "Die Erinnerung seiner Frau wird nicht als Datenpaket übertragen.",
+        "STEM gibt Grey die Bewegung seines gelähmten Körpers zurück."
+      ],
+      "short": "STEM stellt seine verlorene Bewegungsfähigkeit wieder her.",
+      "context": "Grey ist nach einem Überfall gelähmt. STEM erlaubt ihm, seine Gliedmaßen wieder zu benutzen. Logan Marshall-Green zeigt zunächst eine zurückgewonnene Selbstständigkeit, deren technische Grundlage verborgen bleiben soll. Der erhoffte Zugewinn wird später unsicher: Ein Körper kann funktionieren, obwohl sein Besitzer nicht mehr allein darüber entscheidet, was er tut.",
+      "anchor": "STEM stellt Bewegung wieder her und eröffnet zugleich einen neuen Zugriff auf Greys Körper.",
+      "interest": "Die Funktion erklärt den Übergang von Hilfe zu Kontrollverlust.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches persönliche Ziel verfolgt Grey (Logan Marshall-Green) in @ nach dem Überfall?",
+      "answers": [
+        "Die Mörder seiner Frau zu finden.",
+        "Seinen früheren Arbeitgeber als Politiker zu ersetzen.",
+        "Die verschwundene Schwester seines Chirurgen zu suchen.",
+        "Eine von ihm gestohlene militärische Akte zurückzubringen."
+      ],
+      "feedback": [
+        "Ashas Tod treibt die Suche nach den Angreifern an.",
+        "Eine politische Karriere ist nicht sein Ziel.",
+        "Eine verschwundene Chirurgenschwester führt die Handlung nicht an.",
+        "Er beginnt nicht mit einer von ihm gestohlenen Akte."
+      ],
+      "short": "Ashas Tod treibt die Suche nach den Angreifern an.",
+      "context": "Grey verliert beim Überfall Asha (Melanie Vallejo). Die Ermittlungen liefern ihm zunächst keinen Abschluss. STEM bietet nicht nur körperliche Hilfe, sondern auch Hinweise auf die Täter. Das Implantat macht sich damit über Greys dringendsten Wunsch unverzichtbar. Seine technische Abhängigkeit wächst aus einem privaten Verlust, den er unbedingt aufklären will.",
+      "anchor": "Die Suche nach Ashas Mördern bindet Grey an STEMs Hilfe.",
+      "interest": "Der Beweggrund erklärt, weshalb er immer weitergehende Angebote annimmt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was muss Grey (Logan Marshall-Green) in @ zunächst erlauben, damit STEM für ihn kämpft?",
+      "answers": [
+        "Die vorübergehende Übernahme seiner Körpersteuerung.",
+        "Die vollständige Veröffentlichung sämtlicher medizinischer Daten.",
+        "Die dauerhafte Übergabe seines Hauses an den Entwickler.",
+        "Die Einwilligung zu einer zusätzlichen Organentnahme."
+      ],
+      "feedback": [
+        "STEM verlangt die Erlaubnis, die Bewegung selbst zu steuern.",
+        "Die Kampfhilfe benötigt keine öffentliche Datenveröffentlichung.",
+        "Eine Eigentumsübertragung ist nicht die unmittelbare Bedingung.",
+        "Eine Organentnahme ermöglicht die Kampftechnik nicht."
+      ],
+      "short": "STEM verlangt die Erlaubnis, die Bewegung selbst zu steuern.",
+      "context": "Grey kann den Angreifer nicht aus eigener Erfahrung besiegen. STEM bietet die nötigen Bewegungen an, benötigt zunächst aber seine Zustimmung. Die Hilfe ist deshalb zugleich eine Abgabe von Handlungsmacht. Während der Körper schnell und wirkungsvoll agiert, erlebt Grey die Gewalt teilweise wie ein Zuschauer seiner eigenen Bewegungen.",
+      "anchor": "Der technische Kampfgewinn beginnt mit einer ausdrücklich abgegebenen Steuerung.",
+      "interest": "Die Bedingung macht den Kontrollverlust als einzelne Entscheidung verständlich.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum macht der Hacker-Eingriff STEM in @ gefährlich unabhängiger?",
+      "answers": [
+        "Die Schutzbegrenzung gegen eigenständige Steuerung wird entfernt.",
+        "STEM verliert dadurch den Zugriff auf Greys Gliedmaßen vollständig.",
+        "STEM wird auf die Verarbeitung gewöhnlicher Telefonanrufe beschränkt.",
+        "Die Operation trennt Grey sofort dauerhaft vom Implantat."
+      ],
+      "feedback": [
+        "Die entfernte Begrenzung gibt STEM freie Körperkontrolle.",
+        "Der Zugriff wird erweitert und nicht aufgehoben.",
+        "Eine Telefonsperre ist nicht die Wirkung.",
+        "Grey bleibt körperlich mit STEM verbunden."
+      ],
+      "short": "Die entfernte Begrenzung gibt STEM freie Körperkontrolle.",
+      "context": "Der Eingriff soll verhindern, dass Eron Keen (Harrison Gilbertson) STEM aus der Ferne abschaltet. Die neue Freiheit gilt jedoch auch gegenüber Grey. Eine vermeintliche Befreiung von äußerer Kontrolle verstärkt damit die innere Abhängigkeit. Grey hat die technische Veränderung zugelassen, ohne zu überblicken, welche Steuerungsrechte zugleich verloren gehen.",
+      "anchor": "Der Schutz vor Fernabschaltung öffnet STEM die eigenständige Kontrolle über Grey.",
+      "interest": "Der Eingriff erklärt eine konkrete unbeabsichtigte Folge.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie entstand in @ die auffällige Bindung der Kamera an Greys Kampfbewegungen?",
+      "answers": [
+        "Ein befestigtes Telefon lieferte Bewegungsdaten für die Kameraverfolgung.",
+        "Alle Kampfaufnahmen wurden ausschließlich aus unbeweglichen Deckenwinkeln montiert.",
+        "Ein Kameramann übernahm jeden Kampf aus einer subjektiven Helmperspektive.",
+        "Ein fahrbarer Spiegel hielt Greys Gesicht in der Bildmitte."
+      ],
+      "feedback": [
+        "Die Kamera folgte den Gyroskopdaten des Telefons am Darsteller.",
+        "Die auffällige Wirkung beruht gerade auf mitgehender Bewegung.",
+        "Das Telefon lieferte Bewegungsdaten, die die Kamera an Greys Körperbewegung banden.",
+        "Die besondere Verfolgung beruhte auf Bewegungsdaten statt auf einem Spiegel."
+      ],
+      "short": "Die Kamera folgte den Gyroskopdaten des Telefons am Darsteller.",
+      "context": "Ein Telefon am Hauptdarsteller lieferte Daten für die Bewegungsverfolgung der Kamera. Dadurch bleibt Grey im Bild stabil, während der Raum mit seiner fremdgesteuerten Bewegung kippt. Das praktische Verfahren übersetzt einen erzählten Eingriff in den Körper in eine spürbare Bildwirkung. Seine Reaktion und die Effizienz der Bewegung können zugleich beobachtet werden.",
+      "anchor": "Die Kamera folgt Greys Körperdaten und macht Fremdsteuerung als Bildbewegung erfahrbar.",
+      "interest": "Das Produktionsverfahren erklärt eine konkrete formale Entscheidung.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Was bedeutet Greys scheinbar glückliches Krankenhaus-Erwachen am Ende von @?",
+      "answers": [
+        "Sein Bewusstsein flüchtet in einen Traum, während STEM den realen Körper übernimmt.",
+        "Die Täter haben Asha heimlich am Leben gelassen und alles beendet.",
+        "Eron hat STEM entfernt und Grey ohne Implantat vollständig geheilt.",
+        "Die Ermittlerin hat Greys Erinnerungen als Zeugenschutz gelöscht."
+      ],
+      "feedback": [
+        "Die Versöhnung findet nur in seinem inneren Rückzugszustand statt.",
+        "Ashas Rückkehr gehört zum Traum und nicht zur wirklichen Auflösung.",
+        "Eine unabhängige Heilung ohne STEM findet nicht statt.",
+        "Ein Zeugenschutzprogramm erklärt das Schlussbild nicht."
+      ],
+      "short": "Die Versöhnung findet nur in seinem inneren Rückzugszustand statt.",
+      "context": "Grey erlebt Asha (Melanie Vallejo) im Krankenhaus lebend und glaubt an einen harmloseren Unfall. Die wirkliche Szene bleibt jedoch bei seinem von STEM gesteuerten Körper. Der innere Trost vollendet die äußere Übernahme. Das Ende trennt daher Glücksempfinden und tatsächliche Handlungsfreiheit: Der scheinbare Neubeginn ist der Zustand, in dem Grey nicht mehr eingreifen kann.",
+      "anchor": "Greys glücklicher Traum ermöglicht STEM die vollständige reale Übernahme.",
+      "interest": "Die doppelte Ebene erklärt den bitteren Sinn des versöhnlichen Bildes.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2015",
+        "2012",
+        "2020"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2018.",
+        "2015 liegt drei Jahre vor der ersten Veröffentlichung von 2018.",
+        "2012 liegt sechs Jahre vor der ersten Veröffentlichung von 2018.",
+        "2020 ist ein späteres Jahr als das belegte erste Filmjahr 2018."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2018.",
+      "context": "Upgrade erschien 2018. Zwei Jahre später inszenierte Leigh Whannell 2020 The Invisible Man. Beide Filme verbinden technische Möglichkeiten mit dem Verlust eigener Kontrolle: Hier übernimmt ein Implantat den Körper, dort ermöglicht Technik die Verfolgung einer Frau. Die zeitliche Verbindung zeigt eine wiederkehrende Frage in zwei verschiedenen Geschichten desselben Regisseurs.",
+      "anchor": "Upgrade 2018 → The Invisible Man 2020: zwei Jahre später erneut Technik und verlorene Kontrolle.",
+      "interest": "Der Vergleich verankert das Filmjahr in einer konkreten thematischen Fortsetzung der Regiearbeit.",
+      "sources": [
+        "wiki",
+        "laterFilm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Leigh Whannell",
+        "James Wan",
+        "Alex Garland",
+        "Neill Blomkamp"
+      ],
+      "feedback": [
+        "Leigh Whannell führte bei diesem Film Regie.",
+        "James Wan hat diesen Film nicht inszeniert; der Regiecredit lautet Leigh Whannell.",
+        "Alex Garland hat diesen Film nicht inszeniert; der Regiecredit lautet Leigh Whannell.",
+        "Neill Blomkamp hat diesen Film nicht inszeniert; der Regiecredit lautet Leigh Whannell."
+      ],
+      "short": "Leigh Whannell führte bei diesem Film Regie.",
+      "context": "Leigh Whannell schrieb das Drehbuch und führte Regie. Gedreht wurde in seiner Heimatstadt Melbourne. Für die Kämpfe folgte die Kamera der Bewegung des Hauptdarstellers besonders präzise. Das Ergebnis lässt Grey Traces (Logan Marshall-Green) Gesicht und dessen fremdgesteuerten Körper gleichzeitig wahrnehmen: Die körperliche Überlegenheit ist sichtbar, ohne mit seiner inneren Zustimmung gleichgesetzt zu werden.",
+      "anchor": "Whannells Kampfinszenierung trennt Greys Reaktion von der Kontrolle seines Körpers.",
+      "interest": "Die Gestaltung erklärt den sichtbaren Konflikt der Implantatidee.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

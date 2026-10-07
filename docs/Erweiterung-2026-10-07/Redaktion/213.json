@@ -1,0 +1,239 @@
+{
+  "rank": 213,
+  "titleDe": "Cargo",
+  "originalTitle": "Cargo",
+  "year": 2009,
+  "genre": "Science-Fiction",
+  "familiarity": 4,
+  "familiarity_reason": "Schweizer Weltraumfilm mit Frachtraumgeheimnis und einer Prüfung versprochener Zuflucht.",
+  "directors": [
+    "Ivan Engler",
+    "Ralph Etter"
+  ],
+  "production_countries": [
+    "Schweiz"
+  ],
+  "release_note": "Weltpremiere im September 2009; Swiss Films nennt beide Regisseure. Gemeint ist die Schweizer Raumfahrtgeschichte.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Cargo_(2009_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "swiss": {
+      "url": "https://www.swissfilms.ch/en/movie/cargo/064ffb6af42c42b394749ef80a341bc5",
+      "supports": "Vollständiges Regieteam, Weltpremiere, Schweiz und Frachter-/Schlafkonzept."
+    },
+    "engler": {
+      "url": "https://www.swissfilms.ch/en/person/ivan-engler/db8b290c602947d5973da12fcd25db00",
+      "supports": "Englers Filmografie einschließlich Nomina Domini 2000 und Cargo 2009."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Cargo_(2009)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum heuert Laura Portmann (Anna Katharina Schwabroh) in @ auf dem Frachter an?",
+      "answers": [
+        "Sie will die Reise zu ihrer Schwester auf Rhea bezahlen.",
+        "Sie soll eine bereits bewohnte Erde medizinisch evakuieren.",
+        "Sie möchte einen entflohenen Häftling persönlich verfolgen.",
+        "Sie hat das Schiff als Privatbesitz geerbt."
+      ],
+      "feedback": [
+        "Der Verdienst soll die erhoffte Auswanderung ermöglichen.",
+        "Ihre Ausgangslage ist eine überfüllte Raumstation.",
+        "Sie heuert nicht zur privaten Häftlingsjagd an.",
+        "Sie arbeitet an Bord und ist nicht Schiffserbin."
+      ],
+      "short": "Der Verdienst soll die erhoffte Auswanderung ermöglichen.",
+      "context": "Laura sieht auf Rhea eine bessere Zukunft und hofft, ihre Schwester dort zu erreichen. Die Arbeit auf dem Frachter soll die Reise finanzieren. Anna Katharina Schwabroh spielt eine Ärztin, die für diese Hoffnung eine lange Abwesenheit akzeptiert. Der persönliche Beweggrund macht die späteren Zweifel am Ziel der Reise für sie besonders schwerwiegend.",
+      "anchor": "Die Frachterarbeit finanziert Lauras Hoffnung auf das Leben bei ihrer Schwester.",
+      "interest": "Das Motiv erklärt, warum das Versprechen von Rhea sie bindet.",
+      "sources": [
+        "wiki",
+        "swiss"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie verbringt die Besatzung in @ den größten Teil der langen Reise?",
+      "answers": [
+        "Im Tiefschlaf mit wechselnden Einzelwachen.",
+        "In täglichen öffentlichen Livestreams für die Erde.",
+        "Mit permanenten Außenarbeiten am Schiffsrumpf.",
+        "In gemeinsamem Unterricht für eine Raumfahrtprüfung."
+      ],
+      "feedback": [
+        "Nur einzelne Besatzungsmitglieder überwachen jeweils das Schiff.",
+        "Die Reise ist kein durchgehend öffentliches Medienprogramm.",
+        "Nicht alle arbeiten die ganze Zeit außen am Schiff.",
+        "Ein gemeinsamer Lehrgang ersetzt den Schlafrhythmus nicht."
+      ],
+      "short": "Nur einzelne Besatzungsmitglieder überwachen jeweils das Schiff.",
+      "context": "Die lange Reise wird durch Tiefschlaf überbrückt. Eine wache Person übernimmt jeweils die Kontrolle, während die anderen aus dem Alltag verschwinden. Die leeren Räume lassen Laura besonders deutlich auf Geräusche und Spuren reagieren. Die Organisation des Fluges erklärt damit sowohl die praktische Dauer der Mission als auch die erlebte Einsamkeit an Bord.",
+      "anchor": "Wechselnde Einzelwachen machen den großen Frachter zu einem einsamen Arbeitsort.",
+      "interest": "Der Rhythmus verbindet Raumfahrtroutine und Spannung.",
+      "sources": [
+        "wiki",
+        "swiss"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was entdeckt die Besatzung von @ statt der erwarteten Bau-Fracht?",
+      "answers": [
+        "Menschen in Schlafkapseln.",
+        "Ein vollständiges zweites Raumschiff.",
+        "Nur abgelaufene Nahrungsmittel.",
+        "Leere Behälter ohne jede Spur."
+      ],
+      "feedback": [
+        "Die Container transportieren Menschen mit neuronalen Anschlüssen.",
+        "Ein zweites Schiff befindet sich nicht als Inhalt in den Containern.",
+        "Die Entdeckung betrifft lebende Passagiere und keine Lebensmittel.",
+        "Die Behälter sind gerade nicht leer."
+      ],
+      "short": "Die Container transportieren Menschen mit neuronalen Anschlüssen.",
+      "context": "Die Entdeckung eines Kindes in einer Kapsel widerspricht der angegebenen Fracht. Laura untersucht einen neuronalen Anschluss und erkennt, dass hier Menschen transportiert werden. Der Arbeitsauftrag muss deshalb neu gelesen werden. Die vermeintlich technische Lieferung an eine Station steht nun in einem direkten Zusammenhang mit den Lebenshoffnungen anderer Menschen.",
+      "anchor": "Bau-Fracht wird als Transport schlafender Menschen entlarvt.",
+      "interest": "Die konkrete Entdeckung verändert den Sinn des Auftrags.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was macht Laura (Anna Katharina Schwabroh) in @ an den Antworten ihrer Schwester misstrauisch?",
+      "answers": [
+        "Sie treffen für die behauptete Entfernung viel zu schnell ein.",
+        "Sie enthalten ausschließlich eine nicht entzifferbare Alien-Sprache.",
+        "Sie enthalten ständig neue Nachrichten ohne Bezug auf Lauras Fragen.",
+        "Sie nennen jedes Mal das Datum von Lauras Geburt."
+      ],
+      "feedback": [
+        "Die kurze Laufzeit widerspricht der angegebenen Entfernung.",
+        "Die Antworten bleiben verständlich; problematisch ist ihre Geschwindigkeit.",
+        "Die Übertragungszeit passt nicht zur Entfernung; dies macht Laura konkret misstrauisch.",
+        "Ein wiederholtes Geburtsdatum bildet nicht den Widerspruch."
+      ],
+      "short": "Die kurze Laufzeit widerspricht der angegebenen Entfernung.",
+      "context": "Rhea soll sehr weit entfernt sein. Die zunehmend schnellen Antworten passen jedoch nicht zu der erwarteten Übertragungszeit. Laura erhält keinen vollständigen Beweis, aber eine messbare Unstimmigkeit. Sie beginnt deshalb, die tatsächlichen Koordinaten des Frachters zu hinterfragen. Die private Korrespondenz liefert damit einen Hinweis, den der offizielle Auftrag nicht erklärt.",
+      "anchor": "Die zu kurze Nachrichtenlaufzeit stellt den angegebenen Reiseweg infrage.",
+      "interest": "Der Zusammenhang verbindet persönliche Kommunikation und überprüfbare Navigation.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Wahrheit über Rhea erfährt Laura in @?",
+      "answers": [
+        "Das verheißene Leben dort existiert als virtuelle Simulation.",
+        "Rhea ist bereits vollständig vom Frachter zerstört worden.",
+        "Ihre Schwester verwaltet allein eine geheime Militärkolonie.",
+        "Rhea ist nur eine unbewohnbare Station für medizinische Versuche."
+      ],
+      "feedback": [
+        "Die Hoffnung wird durch ein simuliertes Leben aufrechterhalten.",
+        "Die Entdeckung betrifft eine Täuschung und keinen Frachterangriff.",
+        "Eine persönliche Militärverwaltung der Schwester ist nicht die Enthüllung.",
+        "Die vermeintliche Kolonie beruht auf einer Simulation für schlafende Menschen."
+      ],
+      "short": "Die Hoffnung wird durch ein simuliertes Leben aufrechterhalten.",
+      "context": "Das angebotene Leben auf Rhea findet in einer Simulation statt. Die schlafenden Körper werden mit einer technischen Infrastruktur verbunden, während ihre Besitzer eine andere Welt erleben. Lauras Auswanderungswunsch beruhte somit auf einer falschen Vorstellung vom Ort. Die Enthüllung zwingt sie, Hoffnung und tatsächlich verfügbare Lebensmöglichkeiten voneinander zu trennen.",
+      "anchor": "Das versprochene Wohnziel ist eine simulierte Welt für ruhende Körper.",
+      "interest": "Die Enthüllung erklärt Fracht, Implantate und irreführende Auswanderungshoffnung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was soll Lauras letzte Übertragung von Rhea in @ bewirken?",
+      "answers": [
+        "Die Menschen über die Simulation und die bewohnbare Erde aufklären.",
+        "Die Besatzung für einen zweiten geheimen Frachtervertrag anwerben.",
+        "Den Konzern als einzigen zuverlässigen Reiseanbieter bestätigen.",
+        "Die Existenz ihrer Schwester nachträglich vollständig leugnen."
+      ],
+      "feedback": [
+        "Sie soll das falsche Zukunftsversprechen öffentlich auflösen.",
+        "Die Übertragung wirbt nicht für einen neuen Geheimvertrag.",
+        "Sie widerspricht dem Konzernversprechen.",
+        "Die Schwester existiert als Person innerhalb der Simulation."
+      ],
+      "short": "Sie soll das falsche Zukunftsversprechen öffentlich auflösen.",
+      "context": "Laura muss die Verbindung zur simulierten Welt nutzen, um ihre Täuschung sichtbar zu machen. Ihre letzte Nachricht soll außerdem eine reale Alternative benennen: Teile der Erde sind wieder bewohnbar. Eine künstliche Übertragung dient damit zur Aufklärung über die künstliche Umgebung. Der Abschied von der Schwester erhält eine politische Wirkung über die eigene Reise hinaus.",
+      "anchor": "Die letzte Nachricht benutzt Rhea, um Rheas Täuschung und eine reale Alternative offenzulegen.",
+      "interest": "Der Plan verbindet private Trennung und öffentliche Aufklärung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2009",
+        "2006",
+        "2003",
+        "2011"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2009.",
+        "2006 liegt drei Jahre vor der ersten Veröffentlichung von 2009.",
+        "2003 liegt sechs Jahre vor der ersten Veröffentlichung von 2009.",
+        "2011 ist ein späteres Jahr als das belegte erste Filmjahr 2009."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2009.",
+      "context": "Cargo wurde 2009 erstmals veröffentlicht. Ivan Englers Filmografie bei Swiss Films führt zuvor den Kurzfilm Nomina Domini von 2000. Neun Jahre liegen zwischen diesem früheren Regieprojekt und dem Langfilm. Die Verbindung macht den Raumfrachterfilm als späteren Schritt eines Filmemachers kenntlich, der hier gemeinsam mit Ralph Etter arbeitet.",
+      "anchor": "Nomina Domini 2000 → Cargo 2009: neun Jahre bis zu Englers gemeinsamem Langfilmprojekt.",
+      "interest": "Der Zeitanker verbindet das Veröffentlichungsjahr mit einer belegten früheren Regiearbeit.",
+      "sources": [
+        "wiki",
+        "swiss",
+        "engler"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Ivan Engler und Ralph Etter",
+        "Pella Kågerman und Hugo Lilja",
+        "Zeek Earl und Chris Caldwell",
+        "Jean-Pierre Jeunet und Marc Caro"
+      ],
+      "feedback": [
+        "Ivan Engler und Ralph Etter führten bei diesem Film Regie.",
+        "Pella Kågerman und Hugo Lilja haben diesen Film nicht inszeniert; der Regiecredit lautet Ivan Engler und Ralph Etter.",
+        "Zeek Earl und Chris Caldwell haben diesen Film nicht inszeniert; der Regiecredit lautet Ivan Engler und Ralph Etter.",
+        "Jean-Pierre Jeunet und Marc Caro haben diesen Film nicht inszeniert; der Regiecredit lautet Ivan Engler und Ralph Etter."
+      ],
+      "short": "Ivan Engler und Ralph Etter führten bei diesem Film Regie.",
+      "context": "Ivan Engler und Ralph Etter bilden das vollständige Regieteam. Die Filmwebsite bezeichnet Etter genauer als Co-Regisseur; Swiss Films nennt beide unter Regie. Engler arbeitete außerdem am Drehbuch und Schnitt. Die doppelte Creditangabe gehört deshalb zum Film, auch wenn eine kurze Werbezeile allein Englers Namen hervorhebt.",
+      "anchor": "Engler und Etter gehören beide zum Regiecredit des Schweizer Cargo.",
+      "interest": "Die Quellenzuordnung erklärt, warum ein hervorgehobener Name den vollständigen Credit nicht ersetzt.",
+      "sources": [
+        "wiki",
+        "swiss",
+        "engler"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -39,13 +39,13 @@ it("vereint alle Film-, Preis- und Personenfragen ohne Kategorien als Einschrän
   const pool = catalog.questions.filter(
     (q) => matchesTopic(q, topic) && matchesFilters(q, all),
   );
-  expect(pool).toHaveLength(8397);
-  expect(pool.filter((q) => questionSourceOf(q) === "film")).toHaveLength(6597);
+  expect(pool).toHaveLength(10877);
+  expect(pool.filter((q) => questionSourceOf(q) === "film")).toHaveLength(8837);
   expect(pool.filter((q) => questionSourceOf(q) === "awards")).toHaveLength(
-    200,
+    280,
   );
   expect(pool.filter((q) => questionSourceOf(q) === "actors")).toHaveLength(
-    1600,
+    1760,
   );
   const drawn = selectQuestions(
     pool,
@@ -55,12 +55,12 @@ it("vereint alle Film-, Preis- und Personenfragen ohne Kategorien als Einschrän
       topic,
       difficulty: "Alle Stufen",
       filters: all,
-      size: 8000,
+      size: 20000,
       now,
     },
     () => 0.5,
   );
-  expect(drawn).toHaveLength(7853);
+  expect(drawn).toHaveLength(10315);
   expect(new Set(drawn.map((q) => q.knowledgeId)).size).toBe(drawn.length);
 });
 it("wendet Genre, Classics und Filmgruppen nur auf Filmfragen und die Schwierigkeit auf alle Bereiche an", () => {
@@ -75,9 +75,9 @@ it("wendet Genre, Classics und Filmgruppen nur auf Filmfragen und die Schwierigk
     (q) => matchesTopic(q, topic) && matchesFilters(q, filters),
   );
   expect(pool.filter((q) => questionSourceOf(q) === "film")).toHaveLength(0);
-  expect(pool.filter((q) => questionSourceOf(q) === "awards")).toHaveLength(50);
+  expect(pool.filter((q) => questionSourceOf(q) === "awards")).toHaveLength(70);
   expect(pool.filter((q) => questionSourceOf(q) === "actors")).toHaveLength(
-    454,
+    494,
   );
   filters.familiarities = [1, 2, 3, 4];
   const withFilms = catalog.questions.filter(

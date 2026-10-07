@@ -1,0 +1,233 @@
+{
+  "rank": 249,
+  "titleDe": "Botschafter der Angst",
+  "originalTitle": "The Manchurian Candidate",
+  "year": 1962,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Ein Klassiker des politischen Paranoiakinos mit Gehirnwäsche, falschen Erinnerungen und einem manipulierbaren Attentäter.",
+  "directors": [
+    "John Frankenheimer"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Kinoöffnung am 24. Oktober 1962. Gemeint ist die vollständige Originalfassung; frühe deutsche Kopien kürzten Traumsequenzen. Nicht Jonathan Demmes Neuverfilmung von 2004.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/The_Manchurian_Candidate_(1962_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/22239-THE-MANCHURIAN-CANDIDATE",
+      "supports": "Regie, Erstveröffentlichung, Roman 1959, Besetzung und Produktion mit George Axelrod."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Botschafter_der_Angst",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Aus welchem Krieg kehrt Raymond Shaw (Laurence Harvey) als gefeierter Soldat zurück?",
+      "answers": [
+        "Aus dem Koreakrieg",
+        "Aus dem Vietnamkrieg",
+        "Aus dem Zweiten Weltkrieg",
+        "Aus dem Spanischen Bürgerkrieg"
+      ],
+      "feedback": [
+        "Seine Gefangenschaft und Rückkehr stehen im Koreakrieg.",
+        "Der spätere Vietnamkrieg ist nicht der ursprüngliche Hintergrund.",
+        "Die Rückkehr wird nicht als Ereignis des Zweiten Weltkriegs erzählt.",
+        "Shaw war kein Teilnehmer des Spanischen Bürgerkriegs."
+      ],
+      "short": "Seine Gefangenschaft und Rückkehr stehen im Koreakrieg.",
+      "context": "Raymond Shaw (Laurence Harvey) erhält eine Tapferkeitsauszeichnung auf Grundlage der Aussagen seiner Kameraden. Die öffentliche Anerkennung setzt voraus, dass deren Erinnerungen verlässlich sind. Wiederkehrende Träume stellen diese Voraussetzung später infrage. Die Kriegserfahrung wirkt damit über die Rückkehr hinaus als Zugang für einen politischen Plan im eigenen Land.",
+      "anchor": "Shaws gefeierte Rückkehr aus Korea beruht auf manipulierter Erinnerung.",
+      "interest": "Die Epoche erklärt den Ausgangspunkt der heimischen Verschwörung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Was führt Ben Marco (Frank Sinatra) zu Zweifeln an der offiziellen Heldengeschichte?",
+      "answers": [
+        "Wiederkehrende Albträume über die Gefangenschaft",
+        "Ein anonymer Brief über ein gestohlenes Gewehr",
+        "Eine falsch ausgefüllte Reisekostenabrechnung",
+        "Ein Streit über Shaws Familienerbe"
+      ],
+      "feedback": [
+        "Die Träume zeigen andere Ereignisse als die offizielle Erinnerung.",
+        "Ein Gewehrbrief ist nicht der Ausgang seiner Zweifel.",
+        "Eine Reisekostenprüfung treibt die Aufklärung nicht an.",
+        "Ein Erbstreit führt Marco nicht auf die Spur."
+      ],
+      "short": "Die Träume zeigen andere Ereignisse als die offizielle Erinnerung.",
+      "context": "Ben Marco (Frank Sinatra) sieht in seinen Träumen, wie die gefangenen Soldaten vor fremden Funktionären benutzt werden. Ein Kamerad berichtet von ähnlichen Bildern. Die Wiederholung bei mehreren Zeugen verwandelt das scheinbar private Symptom in einen gemeinsamen Hinweis. Erst dieser Zusammenhang gibt der Untersuchung eine Grundlage außerhalb von Marcos einzelner Erinnerung.",
+      "anchor": "Übereinstimmende Albträume machen eine private Störung zum gemeinsamen Hinweis.",
+      "interest": "Die Frage erklärt den ersten Schritt der Rekonstruktion.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welches Kartenbild aktiviert Shaws (Laurence Harvey) konditionierten Zustand?",
+      "answers": [
+        "Die Karo-Dame",
+        "Der Pik-König",
+        "Das Herz-Ass",
+        "Der Kreuz-Bube"
+      ],
+      "feedback": [
+        "Die Karo-Dame ist mit der Befehlsaufnahme verknüpft.",
+        "Der Pik-König ist nicht das festgelegte Auslösesymbol.",
+        "Das Herz-Ass löst die Konditionierung nicht aus.",
+        "Der Kreuz-Bube ist nicht der gezeigte Schlüssel."
+      ],
+      "short": "Die Karo-Dame ist mit der Befehlsaufnahme verknüpft.",
+      "context": "Agenten bringen Raymond Shaw (Laurence Harvey) zum Patiencespiel. Die Karo-Dame führt ihn in den Zustand, in dem er Befehle ausführt und später keine bewusste Erinnerung daran hat. Ein harmloses Spiel verbindet sich dadurch mit tödlicher Fremdbestimmung. Das wiederkehrende Bild kann auch außerhalb des Spiels unbeabsichtigt dieselbe Reaktion hervorrufen.",
+      "anchor": "Die Karo-Dame verbindet einen alltäglichen Reiz mit verborgenem Mordbefehl.",
+      "interest": "Das Symbol erklärt einen konkreten Mechanismus der Manipulation.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wer übernimmt in den USA die verborgene Steuerung von Shaw (Laurence Harvey)?",
+      "answers": [
+        "Seine Mutter Eleanor (Angela Lansbury)",
+        "Seine Frau Jocelyn (Leslie Parrish)",
+        "Rosie (Janet Leigh), Marcos Bekannte",
+        "Der Zeitungsverleger Gaines (Lloyd Corrigan)"
+      ],
+      "feedback": [
+        "Eleanor ist selbst Teil der Verschwörung und gibt ihrem Sohn Aufträge.",
+        "Jocelyn wird Opfer der Manipulation, nicht seine Steuerperson.",
+        "Rosie unterstützt Marco und führt Shaw nicht als Attentäter.",
+        "Gaines wird von Shaw ermordet und ist nicht sein amerikanischer Befehlsgeber."
+      ],
+      "short": "Eleanor ist selbst Teil der Verschwörung und gibt ihrem Sohn Aufträge.",
+      "context": "Eleanor (Angela Lansbury) nutzt Shaws (Laurence Harvey) Ruhm öffentlich für die Politik ihres Mannes. Zugleich wirkt sie im Verborgenen an seiner Steuerung mit. Die familiäre Dominanz erhält damit eine zweite, wörtliche Ebene. Ihr Sohn kann nicht einmal innerhalb der eigenen Familie auf einen sicheren Gegenraum zur fremden politischen Verfügung vertrauen.",
+      "anchor": "Die öffentliche politische Mutter ist zugleich die geheime Befehlsgeberin.",
+      "interest": "Die Enthüllung verbindet familiäre Kontrolle mit dem Verschwörungsmechanismus.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welchen politischen Übergang soll das geplante Attentat ermöglichen?",
+      "answers": [
+        "Iselin soll nach dem Tod des Präsidentschaftskandidaten dessen Platz einnehmen",
+        "Shaw soll direkt zum Oberbefehlshaber ernannt werden",
+        "Marco soll die Leitung des Geheimdienstes erhalten",
+        "Jordan soll trotz seines Rückzugs zum Vizepräsidenten aufsteigen"
+      ],
+      "feedback": [
+        "Der Kandidat soll sterben, damit Iselin aus der zweiten Position nachrückt.",
+        "Ein militärischer Aufstieg Shaws ist nicht das politische Ziel.",
+        "Marcos Ernennung wird durch den Mordplan nicht verfolgt.",
+        "Jordan gehört nicht zu den Nutznießern dieser Planung."
+      ],
+      "short": "Der Kandidat soll sterben, damit Iselin aus der zweiten Position nachrückt.",
+      "context": "Shaw (Laurence Harvey) erhält den Auftrag, den Präsidentschaftskandidaten auf dem Parteitag zu töten. Iselin (James Gregory) soll als Vizepräsidentschaftskandidat an dessen Stelle treten und die Krise für zusätzliche Macht nutzen. Der Mord ist damit kein isolierter Racheakt. Er ist als geregelter Wechsel innerhalb einer öffentlichen politischen Veranstaltung vorbereitet.",
+      "anchor": "Der Mord soll Iselin aus der zweiten Kandidatenposition an die Spitze bringen.",
+      "interest": "Die Frage erklärt die institutionelle Logik hinter dem Attentatsplan.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Gegen wen richtet Shaw (Laurence Harvey) seine Schüsse schließlich?",
+      "answers": [
+        "Gegen seine Mutter und Senator Iselin",
+        "Gegen Marco und Colonel Milt",
+        "Gegen den Präsidentschaftskandidaten und dessen Sicherheitschef",
+        "Gegen Jocelyn und Senator Jordan"
+      ],
+      "feedback": [
+        "Er tötet Eleanor und Iselin statt des vorgesehenen Kandidaten.",
+        "Marco und sein Vorgesetzter werden nicht seine abschließenden Ziele.",
+        "Der geplante politische Kandidatenmord wird nicht so ausgeführt.",
+        "Jocelyn und Jordan waren bereits Opfer eines früheren Auftrags."
+      ],
+      "short": "Er tötet Eleanor und Iselin statt des vorgesehenen Kandidaten.",
+      "context": "Raymond Shaw (Laurence Harvey) nimmt die vorbereitete Scharfschützenposition ein, verändert aber die Ziele. Er tötet Eleanor (Angela Lansbury) und Iselin (James Gregory), bevor er sich selbst erschießt. Die Abweichung beendet den konkreten Machtplan, ohne seine zerstörten Beziehungen wiederherzustellen. Marco (Frank Sinatra) bleibt mit der Frage zurück, wie der manipulierte Mann erinnert werden soll.",
+      "anchor": "Shaw durchbricht den letzten Mordauftrag durch die Wahl seiner eigenen Steuerpersonen als Ziele.",
+      "interest": "Die Auflösung verbindet einen Moment der Gegenwehr mit der bleibenden Tragödie.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1962",
+        "1959",
+        "1956",
+        "1964"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1962.",
+        "1959 liegt drei Jahre vor der ersten Veröffentlichung von 1962.",
+        "1956 liegt sechs Jahre vor der ersten Veröffentlichung von 1962.",
+        "1964 ist ein späteres Jahr als das belegte erste Filmjahr 1962."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1962.",
+      "context": "Richard Condons Roman The Manchurian Candidate erschien 1959; John Frankenheimers Film folgte 1962, drei Jahre später. Beide verknüpfen den Koreakrieg mit einer Verschwörung gegen die amerikanische Politik. Die kurze Folge von Buch und Film verortet den Stoff im Kalten Krieg und erklärt seine Verbindung von antikommunistischer öffentlicher Rhetorik und verborgenem gegnerischem Einfluss.",
+      "anchor": "Condons Roman 1959 → Frankenheimers Film 1962: drei Jahre.",
+      "interest": "Der Zeitanker verbindet die Datierung mit dem historischen Umfeld der politischen Manipulation.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Frankenheimer",
+        "Sidney Lumet",
+        "Otto Preminger",
+        "Arthur Penn"
+      ],
+      "feedback": [
+        "John Frankenheimer führte bei diesem Film Regie.",
+        "Sidney Lumet hat diesen Film nicht inszeniert; der Regiecredit lautet John Frankenheimer.",
+        "Otto Preminger hat diesen Film nicht inszeniert; der Regiecredit lautet John Frankenheimer.",
+        "Arthur Penn hat diesen Film nicht inszeniert; der Regiecredit lautet John Frankenheimer."
+      ],
+      "short": "John Frankenheimer führte bei diesem Film Regie.",
+      "context": "John Frankenheimer inszenierte und produzierte gemeinsam mit Drehbuchautor George Axelrod. In den Traumsequenzen wechseln die Wahrnehmungen der hypnotisierten Soldaten zwischen einer harmlosen Gesellschaftsrunde und der tatsächlichen Vorführung vor Militärvertretern. Diese Gestaltung macht manipulierte Erinnerung unmittelbar sichtbar. Sie gehört zur Originalfassung und fehlt teilweise in früheren deutschen Schnittfassungen.",
+      "anchor": "Frankenheimer zeigt die manipulierte Erinnerung durch zwei ineinander verschränkte Wahrnehmungen.",
+      "interest": "Die Regiegestaltung erklärt den Zusammenhang zwischen Form und Thema der Gehirnwäsche.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

@@ -1,0 +1,220 @@
+{
+  "rank": 76,
+  "titleDe": "Die Nibelungen: Siegfried",
+  "originalTitle": "Die Nibelungen. 1. Teil: Siegfried",
+  "year": 1924,
+  "genre": "Fantasy",
+  "familiarity": 3,
+  "directors": [
+    "Fritz Lang"
+  ],
+  "production_countries": [
+    "Deutschland"
+  ],
+  "release_note": "Erstaufführung des ersten Teils am 14. Februar 1924; Kriemhilds Rache folgte am 26. April 1924. Die Murnau-Stiftung führt 1923 als Herstellungsjahr; hier zählt die Veröffentlichung 1924.",
+  "familiarity_reason": "Fritz Langs erster Nibelungen-Teil ist ein bekannter Stummfilmklassiker; konkrete Inhalte erfordern über die Sage hinaus Filmerfahrung, Bekanntheit 3.",
+  "sources": {
+    "stiftung": "https://www.murnau-stiftung.de/movie/527",
+    "portal": "https://www.filmportal.de/film/die-nibelungen-1-teil-siegfried_64af520ff2094739b8d0ff39808ded8c",
+    "handlung": "https://en.wikipedia.org/wiki/Die_Nibelungen",
+    "fortsetzung": "https://www.murnau-stiftung.de/movie/528",
+    "gestaltung": "https://murnau-stiftung.de/filmtheater/kinoprogramm/die-nibelungen-2-teil-kriemhilds-rache-df"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Handwerk erlernt Siegfried zu Beginn von @?",
+      "answers": [
+        "Das Schmieden von Waffen",
+        "Das Bauen von Schiffen",
+        "Das Schneiden von Edelsteinen",
+        "Das Züchten von Pferden"
+      ],
+      "feedback": [
+        "Er erlernt bei Mime das Schmieden und fertigt ein besonders starkes Schwert.",
+        "Seine Ausbildung findet an der Esse statt, nicht in einer Werft.",
+        "Edelsteine sind kein Gegenstand seiner Ausbildung bei Mime.",
+        "Sein Aufbruch folgt auf die Herstellung eines Schwertes, nicht auf eine Pferdezucht."
+      ],
+      "short": "Er erlernt bei Mime das Schmieden und fertigt ein besonders starkes Schwert.",
+      "context": "Siegfried (Paul Richter) beginnt seine Laufbahn als Schmiedelehrling bei Mime (Georg John). Das selbst gefertigte Schwert zeigt seine außergewöhnliche Kraft. Seine spätere Stellung als Held wächst so zunächst aus einer handwerklichen Leistung, bevor übernatürliche Begegnungen hinzukommen.",
+      "anchor": "Siegfrieds Weg beginnt am Schmiedefeuer.",
+      "interest": "Verbindet die spätere Heldenfigur mit ihrer konkreten Ausbildung.",
+      "sources": [
+        "stiftung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Mit welchem persönlichen Ziel reist Siegfried in @ an den Hof von Worms?",
+      "answers": [
+        "Er will Kriemhild heiraten.",
+        "Er will Gunthers Krone erben.",
+        "Er will Hagen als Heerführer ablösen.",
+        "Er will Brunhild nach Island begleiten."
+      ],
+      "feedback": [
+        "Kriemhild ist das Ziel seiner Werbung.",
+        "Er wirbt um Gunthers Schwester, nicht um dessen Thron.",
+        "Hagens Amt bildet keinen Anlass für die Reise.",
+        "Brunhild wird erst durch Gunthers eigene Werbung wichtig."
+      ],
+      "short": "Kriemhild ist das Ziel seiner Werbung.",
+      "context": "Siegfried (Paul Richter) hört von Kriemhild (Margarete Schön) und zieht an den burgundischen Hof. Seine Werbung bindet ihn an König Gunther (Theodor Loos). Aus dem privaten Heiratswunsch entsteht dadurch eine Verpflichtung, die ihn in Gunthers eigene Brautwerbung hineinzieht.",
+      "anchor": "Die Werbung um Kriemhild führt Siegfried nach Worms.",
+      "interest": "Erklärt, warum ein persönliches Ziel zu einer politischen Verstrickung führt.",
+      "sources": [
+        "stiftung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie ermöglicht Siegfried in @ Gunthers Sieg bei Brunhilds Kraftproben?",
+      "answers": [
+        "Er hilft ihm unsichtbar mithilfe der Tarnkappe.",
+        "Er vertauscht heimlich die Waffen Brunhilds.",
+        "Er betäubt Brunhild vor den Wettkämpfen.",
+        "Er überredet Brunhild, freiwillig zu verlieren."
+      ],
+      "feedback": [
+        "Die Tarnkappe verbirgt Siegfrieds entscheidende Hilfe.",
+        "Der Betrug betrifft den unsichtbaren Helfer, nicht vertauschte Waffen.",
+        "Brunhild tritt bei Bewusstsein zu den Proben an.",
+        "Sie glaubt an Gunthers Überlegenheit und verliert nicht absichtlich."
+      ],
+      "short": "Die Tarnkappe verbirgt Siegfrieds entscheidende Hilfe.",
+      "context": "Gunther (Theodor Loos) kann Brunhilds (Hanna Ralph) Anforderungen allein nicht erfüllen. Siegfried (Paul Richter) greift unsichtbar ein. Die Tarnkappe erzeugt daher einen falschen Eindruck von Gunthers Stärke. Dieser verborgene Betrug belastet die spätere Ehe und liefert Stoff für den Streit der Königinnen.",
+      "anchor": "Gunthers scheinbare Stärke beruht auf Siegfrieds unsichtbarer Hilfe.",
+      "interest": "Zeigt die politische Wirkung eines magischen Gegenstands.",
+      "sources": [
+        "portal",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum bleibt Siegfried in @ trotz seines Bades im Drachenblut an einer Stelle verwundbar?",
+      "answers": [
+        "Ein Lindenblatt bedeckt dort seine Haut.",
+        "Sein Schwert verletzt ihn beim Baden.",
+        "Ein Ring hält das Blut von seiner Brust fern.",
+        "Das Blut verliert vor dem letzten Bad seine Wirkung."
+      ],
+      "feedback": [
+        "Das Blatt verhindert den Kontakt zwischen Drachenblut und dieser Hautstelle.",
+        "Die spätere Schwachstelle entsteht nicht durch eine Schwertverletzung.",
+        "Ein Ring verursacht die ausgesparte Stelle nicht.",
+        "Die Wirkung bleibt bestehen; nur die bedeckte Stelle erhält keinen Schutz."
+      ],
+      "short": "Das Blatt verhindert den Kontakt zwischen Drachenblut und dieser Hautstelle.",
+      "context": "Nach dem Drachenkampf badet Siegfried (Paul Richter) im Blut des getöteten Tieres. Ein herabfallendes Lindenblatt liegt dabei auf seinem Rücken. Der Schutz wirkt deshalb nicht vollständig. Ein kleines Naturdetail setzt der übermenschlichen Stärke eine Grenze und bereitet den späteren Mord vor.",
+      "anchor": "Das Lindenblatt lässt im Schutz des Drachenbluts eine Lücke.",
+      "interest": "Verknüpft eine unscheinbare Bildhandlung mit der späteren Katastrophe.",
+      "sources": [
+        "portal"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welches Beweisstück nutzt Kriemhild in @, um Brunhild die Täuschung in ihrer Hochzeitsnacht vorzuführen?",
+      "answers": [
+        "Ein von Siegfried erbeutetes Armreifstück",
+        "Gunthers beim Wettkampf zerbrochenes Schwert",
+        "Hagens schriftliches Geständnis",
+        "Mimes Rechnung für die Tarnkappe"
+      ],
+      "feedback": [
+        "Der Armreif stammt aus Siegfrieds Eingreifen bei Brunhild.",
+        "Ein zerbrochenes Wettkampfschwert ist nicht Kriemhilds Beweis.",
+        "Hagen liefert kein schriftliches Geständnis für diesen Streit.",
+        "Mime stellt keinen solchen Beleg für die Tarnkappe aus."
+      ],
+      "short": "Der Armreif stammt aus Siegfrieds Eingreifen bei Brunhild.",
+      "context": "Kriemhild (Margarete Schön) führt im Streit mit Brunhild (Hanna Ralph) den Armreif vor, den Siegfried (Paul Richter) an sich genommen hatte. Das intime Beweisstück macht eine verborgene Demütigung öffentlich. Die Auseinandersetzung um Rang und Vorrang gewinnt dadurch eine tödliche persönliche Schärfe.",
+      "anchor": "Der Armreif macht den verborgenen Brautbetrug öffentlich.",
+      "interest": "Erklärt die Eskalation vom höfischen Rangstreit zum Rachewunsch.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie erfährt Hagen in @, wo er Siegfried tödlich treffen kann?",
+      "answers": [
+        "Kriemhild markiert die Stelle, weil sie Hagen für seinen Beschützer hält.",
+        "Brunhild findet die Stelle während eines Zweikampfs.",
+        "Gunther beobachtet Siegfrieds Bad im Drachenblut.",
+        "Siegfried nennt Hagen die Stelle als Mutprobe."
+      ],
+      "feedback": [
+        "Hagen missbraucht Kriemhilds Vertrauen und ihre schützende Absicht.",
+        "Brunhild ermittelt die Schwachstelle nicht im Kampf.",
+        "Gunther war bei diesem Bad nicht der entscheidende Beobachter.",
+        "Siegfried bietet Hagen seine Schwachstelle nicht freiwillig zum Angriff an."
+      ],
+      "short": "Hagen missbraucht Kriemhilds Vertrauen und ihre schützende Absicht.",
+      "context": "Hagen (Hans Adalbert Schlettow) gibt vor, Siegfried (Paul Richter) schützen zu wollen. Kriemhild (Margarete Schön) kennzeichnet deshalb dessen verwundbare Stelle am Gewand. Der Mord wird durch Fürsorge ermöglicht, die der Täter gezielt in verwertbare Information umwandelt. Ihr Vertrauen verschärft die Tragik des Verrats.",
+      "anchor": "Eine Schutzmarkierung wird für Hagen zum Zielzeichen.",
+      "interest": "Zeigt, wie Täuschung eine fürsorgliche Handlung gegen ihr Ziel richtet.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, dessen Geschichte noch im selben Jahr mit „Kriemhilds Rache“ fortgesetzt wurde?",
+      "answers": [
+        "1924",
+        "1914",
+        "1934",
+        "1944"
+      ],
+      "feedback": [
+        "Beide Teile wurden 1924 erstmals gezeigt.",
+        "1914 liegt zehn Jahre vor der Veröffentlichung des Zweiteilers.",
+        "1934 liegt zehn Jahre nach den beiden Erstaufführungen.",
+        "1944 liegt zwanzig Jahre nach dieser Veröffentlichung."
+      ],
+      "short": "Beide Teile wurden 1924 erstmals gezeigt.",
+      "context": "Der erste Teil wurde am 14. Februar 1924 uraufgeführt, Kriemhilds Rache am 26. April desselben Jahres. Das Publikum erhielt die Folgen des Mordes somit gut zwei Monate nach Siegfrieds Geschichte. Die Angabe 1923 bei der Murnau-Stiftung bezeichnet die Herstellung, nicht diese Erstaufführungen.",
+      "anchor": "1924: erst Siegfried im Februar, dann Kriemhilds Rache im April.",
+      "interest": "Ordnet den Film als erste Hälfte eines zeitnah veröffentlichten Zweiteilers ein.",
+      "sources": [
+        "stiftung",
+        "fortsetzung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Fritz Lang",
+        "Friedrich Wilhelm Murnau",
+        "Georg Wilhelm Pabst",
+        "Ernst Lubitsch"
+      ],
+      "feedback": [
+        "Fritz Lang inszenierte den Zweiteiler.",
+        "Murnau ist ein anderer zentraler Regisseur des deutschen Stummfilms.",
+        "Pabst führte bei dieser Nibelungen-Verfilmung nicht Regie.",
+        "Lubitsch inszenierte andere historische Stoffe, nicht diesen Zweiteiler."
+      ],
+      "short": "Fritz Lang inszenierte den Zweiteiler.",
+      "context": "Fritz Lang setzte den Stoff gemeinsam mit der Drehbucharbeit Thea von Harbous in eine eigenständige Stummfilmwelt um. Gottfried Huppertz schrieb die Musik. Die Produktion übertrug damit eine Sage in filmische Bilder und eine eigens komponierte Begleitung, statt einfach eine Wagner-Oper abzufilmen.",
+      "anchor": "Lang und Harbou gestalten die Sage für den Stummfilm.",
+      "interest": "Verbindet die Regie mit der eigenständigen filmischen Bearbeitung.",
+      "sources": [
+        "gestaltung",
+        "stiftung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

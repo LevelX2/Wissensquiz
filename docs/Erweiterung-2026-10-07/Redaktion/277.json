@@ -1,0 +1,232 @@
+{
+  "rank": 277,
+  "titleDe": "Stranger Than Paradise",
+  "originalTitle": "Stranger Than Paradise",
+  "year": 1984,
+  "genre": "Drama",
+  "familiarity": 4,
+  "familiarity_reason": "Jarmuschs Schwarzweißfilm erzählt Migration und Leerlauf in langen Einstellungen; prägendes unabhängiges Autorenkino.",
+  "directors": [
+    "Jim Jarmusch"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten",
+    "Deutschland"
+  ],
+  "release_note": "Gemeint ist der 1984 in Cannes erstmals gezeigte abendfüllende Film mit drei Kapiteln. Die vorausgehende rund halbstündige Arbeit von 1982 ist eine frühere Kurzfassung; AFI belegt die US-deutsche Produktion.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Stranger_Than_Paradise",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/67292-STRANGER-THANPARADISE",
+      "supports": "Kinofassung 1984 und frühere Dreharbeiten 1982, US-deutsche Produktionsländer, vollständige Credits und gelesener Handlungsabgleich."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Stranger_than_Paradise",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Aus welchem Land kommt Eva (Eszter Bálint) nach New York?",
+      "answers": [
+        "Ungarn",
+        "Rumänien",
+        "Polen",
+        "Bulgarien"
+      ],
+      "feedback": [
+        "Eva reist aus Budapest in Ungarn zu ihren Verwandten.",
+        "Rumänien ist nicht ihr Herkunftsland.",
+        "Sie kommt nicht aus Polen.",
+        "Bulgarien ist nicht das Land ihrer bisherigen Heimat."
+      ],
+      "short": "Eva reist aus Budapest in Ungarn zu ihren Verwandten.",
+      "context": "Eva (Eszter Bálint) besucht Willie (John Lurie), der seine ungarische Herkunft gern zurückstellt. Er verlangt Englisch und besteht auf seinem amerikanisch klingenden Namen. Ihre Ankunft legt deshalb nicht nur eine neue Besuchsbeziehung offen. Sie macht auch sichtbar, wie Willie das eigene Verhältnis zu Familie und Herkunft gestalten möchte.",
+      "anchor": "Evas ungarische Herkunft trifft auf Willies demonstrative amerikanische Selbstbeschreibung.",
+      "interest": "Das Herkunftsland erklärt den frühen Sprach- und Identitätskonflikt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "In welcher Beziehung stehen Eva (Eszter Bálint) und Willie (John Lurie)?",
+      "answers": [
+        "Sie sind Cousine und Cousin",
+        "Sie sind frühere Eheleute",
+        "Sie sind Arbeitskollegen",
+        "Sie sind Nachbarn aus demselben Heimatort"
+      ],
+      "feedback": [
+        "Willie muss seine Cousine vorübergehend bei sich aufnehmen.",
+        "Eine frühere Ehe verbindet sie nicht.",
+        "Sie kennen sich nicht aus einem gemeinsamen Arbeitsverhältnis.",
+        "Eva kommt als Willies Cousine; die Beziehung ist nicht bloß nachbarschaftlich."
+      ],
+      "short": "Willie muss seine Cousine vorübergehend bei sich aufnehmen.",
+      "context": "Der Familienkontakt zwingt Willie (John Lurie) zunächst zu einer unerwünschten Aufnahme. Er findet allmählich Gefallen an Evas (Eszter Bálint) Gegenwart, zeigt dies aber nicht als offene Herzlichkeit. Der spätere Besuch in Cleveland entsteht aus dieser veränderten Bindung. Eine zuerst lästige Pflicht wird zu einem Anlass für seine eigene Reise.",
+      "anchor": "Die zunächst unerwünschte Cousine wird für Willie zum Grund einer späteren Reise.",
+      "interest": "Die Beziehung erklärt den Wandel vom erzwungenen Besuch zur gesuchten Nähe.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Musik verbindet Eva (Eszter Bálint) wiederholt mit ihrem amerikanischen Aufenthalt?",
+      "answers": [
+        "I Put a Spell on You von Screamin’ Jay Hawkins",
+        "Blue Suede Shoes von Carl Perkins",
+        "Ring of Fire von Johnny Cash",
+        "Walk on the Wild Side von Lou Reed"
+      ],
+      "feedback": [
+        "Eva spielt Hawkins’ Aufnahme immer wieder auf ihrem Kassettengerät.",
+        "Perkins’ Aufnahme ist nicht ihr wiederkehrendes Lied.",
+        "Cash liefert nicht dieses persönliche Musikmotiv.",
+        "Reeds Lied wird nicht zum beschriebenen Leitmotiv."
+      ],
+      "short": "Eva spielt Hawkins’ Aufnahme immer wieder auf ihrem Kassettengerät.",
+      "context": "Eva (Eszter Bálint) trägt die amerikanische Musik mit sich, die Willie (John Lurie) ablehnt. Sein Wunsch, amerikanisch zu erscheinen, garantiert daher keine Übereinstimmung mit ihrer Vorstellung des Landes. Die wiederholte Aufnahme gibt ihr eine eigene erkennbare Vorliebe. Sie bleibt damit auch während der Besuche eine Person mit Geschmack und Entscheidungen.",
+      "anchor": "Evas amerikanisches Lieblingslied widerspricht Willies Vorstellung davon, was zu seinem Alltag passt.",
+      "interest": "Das Musikmotiv erklärt ihre eigene Perspektive auf das besuchte Land.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was tut Eva (Eszter Bálint) mit dem Kleid, das Willie ihr schenkt?",
+      "answers": [
+        "Sie zieht es wieder aus und lässt es auf der Straße zurück",
+        "Sie verkauft es sofort an Tante Lotte",
+        "Sie näht es heimlich zu einem Reisebeutel um",
+        "Sie lässt es als Hochzeitskleid in Cleveland reinigen"
+      ],
+      "feedback": [
+        "Beim Aufbruch legt sie das ungeliebte Geschenk ab.",
+        "Tante Lotte kauft ihr das Kleid nicht ab.",
+        "Ein umgenähter Beutel entsteht nicht daraus.",
+        "Eine geplante Hochzeit gibt ihm keine neue Funktion."
+      ],
+      "short": "Beim Aufbruch legt sie das ungeliebte Geschenk ab.",
+      "context": "Willie (John Lurie) schenkt Eva (Eszter Bálint) ein Kleid, das seinen Vorstellungen entspricht. Sie lehnt es innerlich ab und trägt beim Fortgehen wieder ihre eigene Kleidung. Eddie (Richard Edson) sieht den zurückgelassenen Gegenstand, sagt Willie aber nichts. Ein Geschenk zeigt so zugleich eine Zuwendung und den Versuch, die andere Person nach eigenem Geschmack zu formen.",
+      "anchor": "Eva legt das Geschenk ab; Willies Zuwendung trifft ihre eigenen Wünsche nicht.",
+      "interest": "Die Handlung erklärt die Grenze eines gut gemeinten, aber bestimmenden Geschenks.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie gelangt Eva (Eszter Bálint) in Florida unerwartet an viel Geld?",
+      "answers": [
+        "Ein Mann verwechselt sie mit der erwarteten Kurierin",
+        "Sie gewinnt allein alle Einsätze der Hunderennen",
+        "Tante Lotte überweist ihr kurzfristig ein Erbe",
+        "Willie bezahlt ihr heimlich den gesamten Besuchslohn"
+      ],
+      "feedback": [
+        "Die Verwechslung bei ihrem Strandgang bringt ihr den Geldumschlag.",
+        "Die Hunderennen verursachen zunächst Verluste der Männer.",
+        "Eine Erbschaftsüberweisung ist nicht die Quelle.",
+        "Ein ausgezahlter Besuchslohn wird nicht vereinbart."
+      ],
+      "short": "Die Verwechslung bei ihrem Strandgang bringt ihr den Geldumschlag.",
+      "context": "Eva (Eszter Bálint) bleibt zurück, während die Männer wieder ihr Geld verspielen oder neue Rennen versuchen. Eine fremde Verwechslung eröffnet ihr plötzlich eine eigene Möglichkeit. Sie hinterlässt den Männern einen Teil und geht zum Flughafen. Der unerwartete Zufall verschiebt damit die praktische Abhängigkeit innerhalb der Reisegruppe.",
+      "anchor": "Die Kurierverwechslung verschafft Eva eine eigene Reisemöglichkeit.",
+      "interest": "Die Szene erklärt einen plötzlichen Wechsel der wirtschaftlichen Handlungsspielräume.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welcher Irrtum bestimmt Willies (John Lurie) letzten Schritt am Flughafen?",
+      "answers": [
+        "Er glaubt, Eva sitze schon im Budapest-Flugzeug, und steigt selbst ein",
+        "Er glaubt, Eddie habe sämtliche Flugtickets gefälscht",
+        "Er hält das Flugzeug für eine Rundfahrt ohne Abflug",
+        "Er glaubt, Tante Lotte fliege mit demselben Flug zurück nach New York"
+      ],
+      "feedback": [
+        "Er will Eva zurückholen, obwohl sie schließlich im Motel bleibt.",
+        "Eine Ticketfälschung Eddies ist nicht der Irrtum.",
+        "Willie weiß, dass es sich um einen echten Abflug handelt.",
+        "Tante Lotte befindet sich nicht auf dem Flug."
+      ],
+      "short": "Er will Eva zurückholen, obwohl sie schließlich im Motel bleibt.",
+      "context": "Willie (John Lurie) interpretiert Evas (Eszter Bálint) Nachricht als bereits getroffene Heimreiseentscheidung. Sein Versuch, sie zu stoppen, führt ihn selbst nach Budapest. Eva kehrt dagegen zum leeren Motelzimmer zurück. Die Wege trennen sich durch das Handeln auf Grundlage einer Annahme, die der Film im letzten Bild sichtbar korrigiert.",
+      "anchor": "Willie fliegt aufgrund seiner Annahme nach Budapest; Eva bleibt im Motel zurück.",
+      "interest": "Der Schluss erklärt, wie ein Rettungsversuch ohne überprüftes Wissen die Trennung vergrößert.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1984",
+        "1981",
+        "1978",
+        "1986"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1984.",
+        "1981 liegt drei Jahre vor der ersten Veröffentlichung von 1984.",
+        "1978 liegt sechs Jahre vor der ersten Veröffentlichung von 1984.",
+        "1986 ist ein späteres Jahr als das belegte erste Filmjahr 1984."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1984.",
+      "context": "Jarmusch drehte 1982 zunächst eine kurze New Yorker Geschichte. Die abendfüllende Fassung wurde 1984 veröffentlicht, zwei Jahre später, und ergänzte Cleveland und Florida als weitere Kapitel. Gemeint ist hier dieses vollständige Werk. Die beiden Jahre markieren somit einen Ausbau derselben Ausgangssituation und erklären, weshalb eine frühere Kurzfassung nicht das Filmjahr der Langfassung ersetzt.",
+      "anchor": "New Yorker Kurzfassung 1982 → dreiteilige Langfassung 1984: zwei Jahre und zwei zusätzliche Reiseabschnitte.",
+      "interest": "Die Fassungsverbindung klärt den richtigen Jahresbezug des ausgewählten Werks.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jim Jarmusch",
+        "John Cassavetes",
+        "Hal Hartley",
+        "John Sayles"
+      ],
+      "feedback": [
+        "Jim Jarmusch führte bei diesem Film Regie.",
+        "John Cassavetes hat diesen Film nicht inszeniert; der Regiecredit lautet Jim Jarmusch.",
+        "Hal Hartley hat diesen Film nicht inszeniert; der Regiecredit lautet Jim Jarmusch.",
+        "John Sayles hat diesen Film nicht inszeniert; der Regiecredit lautet Jim Jarmusch."
+      ],
+      "short": "Jim Jarmusch führte bei diesem Film Regie.",
+      "context": "Jim Jarmusch inszenierte die Geschichte und arbeitete mit Tom DiCillo an den Schwarzweißbildern. Die Szenen stehen als lange Einstellungen mit schwarzen Trennungen nebeneinander. Der geringe Wechsel innerhalb einer Szene passt zu den Figuren, die viel reisen und dennoch ähnliche Zustände wiederfinden. Die ruhige Form macht kleine Handlungen und missverstandene Absichten sichtbar, statt das Tempo der Reise zu steigern.",
+      "anchor": "Jarmuschs lange Schwarzweißeinstellungen lassen wechselnde Orte ähnlich leer erscheinen.",
+      "interest": "Der Hintergrund erklärt die Form aus der wiederkehrenden Erfahrung der Reisenden.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Arthouse"
+}

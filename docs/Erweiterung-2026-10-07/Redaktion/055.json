@@ -1,0 +1,219 @@
+{
+  "rank": 55,
+  "titleDe": "Boyhood",
+  "originalTitle": "Boyhood",
+  "year": 2014,
+  "genre": "Drama",
+  "familiarity": 3,
+  "directors": [
+    "Richard Linklater"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Weltpremiere am 19. Januar 2014 beim Sundance Film Festival. Die Berlinale-Vorführung im Februar war die internationale Premiere, nicht die Weltpremiere.",
+  "familiarity_reason": "Die über zwölf Kalenderjahre entstandene Produktion ist ein markanter Bezugspunkt für Filmgestaltung; ihr Titel bleibt vor allem im Film- und Kulturpublikum präsent, Bekanntheit 3.",
+  "sources": {
+    "criterion": "https://www.criterion.com/films/28820-boyhood",
+    "handlung": "https://en.wikipedia.org/wiki/Boyhood_(2014_film)",
+    "sundance": "https://www.sundance.org/blogs/2014-sundance-film-festival-to-host-special-preview-screenings-of-boyhood-by-richard-linklater-3/",
+    "interview": "https://www.rogerebert.com/interviews/interview-richard-linklater-on-the-12-year-journey-to-boyhood",
+    "bfi": "https://www.bfi.org.uk/sight-and-sound/reviews/film-week-boyhood"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem US-Bundesstaat wächst Mason in @ auf?",
+      "answers": [
+        "Texas",
+        "Oregon",
+        "New York",
+        "Michigan"
+      ],
+      "feedback": [
+        "Masons Kindheit und Jugend spielen in Texas.",
+        "Oregon ist nicht der hauptsächliche Lebensraum.",
+        "New York bildet nicht den Schauplatz seiner Kindheit.",
+        "Michigan ist nicht der Bundesstaat der Familiengeschichte."
+      ],
+      "short": "Masons Kindheit und Jugend spielen in Texas.",
+      "context": "Mason (Ellar Coltrane) erlebt verschiedene Wohnorte innerhalb von Texas. Der Film verbindet Umzüge und wechselnde Familienverhältnisse mit einer fortlaufenden Kindheit. Heimat bleibt dadurch keine unveränderte Adresse, sondern entsteht aus Beziehungen, Gewohnheiten und Erfahrungen, die der Junge von einem Lebensabschnitt in den nächsten mitnimmt.",
+      "anchor": "Mason wächst zwischen wechselnden Wohnorten in Texas auf.",
+      "interest": "Die räumliche Einordnung verbindet Bewegung und Kontinuität seines Aufwachsens.",
+      "sources": [
+        "criterion",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche familiäre Situation prägt Masons Kindheit von Beginn an?",
+      "answers": [
+        "Seine Eltern sind getrennt, und er lebt mit Mutter und Schwester.",
+        "Er lebt mit beiden Eltern dauerhaft im selben Haus.",
+        "Er wächst allein bei seinen Großeltern auf.",
+        "Er wird mit seiner Schwester in einem Internat erzogen."
+      ],
+      "feedback": [
+        "Mason lebt zunächst mit Olivia und Samantha; der Vater besucht sie.",
+        "Ein gemeinsamer dauerhafter Elternhaushalt besteht gerade nicht.",
+        "Die Großeltern ersetzen seine Mutter nicht als Hauptbezugsperson.",
+        "Ein Internat ist nicht der Ausgangspunkt seiner Kindheit."
+      ],
+      "short": "Mason lebt zunächst mit Olivia und Samantha; der Vater besucht sie.",
+      "context": "Olivia (Patricia Arquette) trägt den Familienalltag, während Mason senior (Ethan Hawke) zunächst bei Besuchen erscheint. Samantha (Lorelei Linklater) wächst als ältere Schwester an Masons (Ellar Coltrane) Seite auf. Verschiedene Formen elterlicher Nähe bleiben präsent und verändern sich, statt durch eine einzige Familienkonstellation festgelegt zu sein.",
+      "anchor": "Getrennte Eltern, gemeinsames Aufwachsen mit Mutter und Schwester.",
+      "interest": "Der Ausgangspunkt macht die späteren Veränderungen der Elternrollen verständlich.",
+      "sources": [
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum zieht Olivia mit den Kindern nach Houston?",
+      "answers": [
+        "Sie möchte studieren und ihre beruflichen Möglichkeiten verbessern.",
+        "Sie möchte näher beim Vater der Kinder wohnen.",
+        "Sie zieht wegen einer neuen Stelle im Krankenhaus um.",
+        "Sie muss die Pflege ihrer Mutter übernehmen."
+      ],
+      "feedback": [
+        "Olivia kehrt an die Universität zurück, um beruflich weiterzukommen.",
+        "Der Umzug hängt mit Olivias Studium zusammen, nicht mit der Nähe zum Vater.",
+        "Das Bildungsziel ist entscheidend, nicht eine Krankenhausstelle.",
+        "Die Entscheidung wird nicht durch eine Pflegepflicht für ihre Mutter ausgelöst."
+      ],
+      "short": "Olivia kehrt an die Universität zurück, um beruflich weiterzukommen.",
+      "context": "Olivia (Patricia Arquette) beginnt ein Studium, obwohl die Betreuung ihrer Kinder sie stark beansprucht. Der Umzug ist deshalb ein Versuch, die Zukunft der Familie aktiv zu verändern. Der Film beobachtet nicht nur den werdenden Erwachsenen Mason (Ellar Coltrane), sondern auch eine Mutter, die selbst neue Wege erlernen muss.",
+      "anchor": "Olivia zieht für Bildung und eine bessere berufliche Zukunft um.",
+      "interest": "Die Mutter besitzt eine eigene Entwicklung neben der Kindheitsgeschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M2",
+      "question": "Welche kreative Beschäftigung wird für den älteren Mason besonders wichtig?",
+      "answers": [
+        "Fotografie",
+        "Theaterschauspiel",
+        "Schlagzeugspielen",
+        "Architekturmodellbau"
+      ],
+      "feedback": [
+        "Mason entwickelt ein ausgeprägtes Interesse an Fotografie.",
+        "Theaterschauspiel ist nicht seine zentrale kreative Beschäftigung.",
+        "Eine geplante Bandlaufbahn wurde nicht zur gezeigten Entwicklung.",
+        "Architekturmodelle prägen seinen Weg nicht."
+      ],
+      "short": "Mason entwickelt ein ausgeprägtes Interesse an Fotografie.",
+      "context": "Mason (Ellar Coltrane) sucht Ausdruck im Beobachten und Fotografieren. Linklater passte diesen Teil der Geschichte an Coltranes tatsächliches Interesse an. Die langfristige Produktion ließ dadurch Raum für eine Entwicklung, die nicht von Beginn an bis ins Detail feststand, aber zum Wesen der Filmfigur passte.",
+      "anchor": "Masons beobachtender Blick findet in der Fotografie eine Form.",
+      "interest": "Ein tatsächliches Interesse des Darstellers beeinflusst die Entwicklung der Figur.",
+      "sources": [
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S1",
+      "question": "Was löst Olivias Zusammenbruch kurz vor Masons Studienbeginn aus?",
+      "answers": [
+        "Sie erlebt seinen Auszug als Ende einer prägenden Lebensphase.",
+        "Sie erfährt, dass Mason sein Studium abgesagt hat.",
+        "Sie entdeckt, dass Mason sie finanziell bestohlen hat.",
+        "Sie wird unmittelbar zuvor aus dem Schuldienst entlassen."
+      ],
+      "feedback": [
+        "Der Abschied lässt Olivia ihre vergangenen Lebensabschnitte schmerzhaft wahrnehmen.",
+        "Mason hält an seinem Studienbeginn fest.",
+        "Ein Diebstahl durch ihren Sohn ist nicht der Anlass.",
+        "Eine unmittelbare Entlassung setzt die Szene nicht in Gang."
+      ],
+      "short": "Der Abschied lässt Olivia ihre vergangenen Lebensabschnitte schmerzhaft wahrnehmen.",
+      "context": "Olivia (Patricia Arquette) hat jahrelang auf kommende Meilensteine hingearbeitet. Als Mason (Ellar Coltrane) nun auszieht, erlebt sie diese erfüllte Aufgabe zugleich als Verlust. Der Film zeigt so, dass derselbe Übergang für einen jungen Menschen Aufbruch und für einen Elternteil das Ende einer vertrauten Identität sein kann.",
+      "anchor": "Masons Aufbruch lässt Olivia das Vergehen ihrer eigenen Zeit spüren.",
+      "interest": "Die Szene verbindet zwei gegensätzliche Erfahrungen desselben Lebensübergangs.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie macht @ das körperliche Älterwerden seiner Hauptfiguren sichtbar?",
+      "answers": [
+        "Die gleichen Hauptdarsteller wurden über Jahre hinweg erneut gefilmt.",
+        "Alle Lebensalter wurden in einem Dreh mit Altersmasken gespielt.",
+        "Für jeden Lebensabschnitt wurde die gesamte Familie neu besetzt.",
+        "Digitale Gesichtsveränderungen erzeugen sämtliche Altersstufen."
+      ],
+      "feedback": [
+        "Die Hauptbesetzung altert tatsächlich während der wiederholten Drehs.",
+        "Eine einzige Drehphase mit Altersmasken erklärt die Veränderungen nicht.",
+        "Die Hauptfiguren wechseln nicht mit jedem Lebensabschnitt ihre Darsteller.",
+        "Die Altersentwicklung beruht nicht vollständig auf digitalen Effekten."
+      ],
+      "short": "Die Hauptbesetzung altert tatsächlich während der wiederholten Drehs.",
+      "context": "Ellar Coltrane, Lorelei Linklater, Patricia Arquette und Ethan Hawke kehren über die lange Produktion hinweg in dieselben Rollen zurück. Reales Altern wird Teil einer erfundenen Geschichte. Kleine Veränderungen in Körper, Stimme und Verhalten tragen den Zeitverlauf, ohne dass ein Darstellerwechsel die Kontinuität der Figuren unterbrechen muss.",
+      "anchor": "Die Figuren verändern sich mit den Körpern ihrer Darsteller.",
+      "interest": "Die Produktionsform ermöglicht eine besondere Erfahrung filmischer Zeit.",
+      "sources": [
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, nachdem die wiederkehrenden Dreharbeiten von 2002 bis 2013 abgeschlossen waren?",
+      "answers": [
+        "2014",
+        "2011",
+        "2013",
+        "2016"
+      ],
+      "feedback": [
+        "Der Film wurde 2014 veröffentlicht, ein Jahr nach dem letzten Drehjahr 2013.",
+        "2011 liefen die über Jahre verteilten Dreharbeiten noch.",
+        "2013 war das letzte Drehjahr; die öffentliche Premiere folgte 2014.",
+        "2016 ist zwei Jahre nach der Veröffentlichung."
+      ],
+      "short": "Der Film wurde 2014 veröffentlicht, ein Jahr nach dem letzten Drehjahr 2013.",
+      "context": "Die Produktion filmte kurze Abschnitte von 2002 bis 2013, verteilt auf zwölf Kalenderjahre. 2014 folgte die Premiere. Das Jahr nach dem letzten Dreh markiert den Moment, in dem viele kleine, zeitlich getrennte Aufnahmen für das Publikum zu einer zusammenhängenden Kindheits- und Jugendgeschichte wurden.",
+      "anchor": "Drehs 2002–2013, Veröffentlichung 2014: Zeit wird zu einer Geschichte.",
+      "interest": "Der Zeitanker verbindet den ungewöhnlichen Produktionszeitraum mit dem fertigen Film.",
+      "sources": [
+        "sundance"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer schrieb und inszenierte @ mit einer über Jahre wiederkehrenden Hauptbesetzung?",
+      "answers": [
+        "Richard Linklater",
+        "Terrence Malick",
+        "Michael Apted",
+        "David Gordon Green"
+      ],
+      "feedback": [
+        "Richard Linklater ist Regisseur und Drehbuchautor.",
+        "Terrence Malick inszenierte diesen Film nicht.",
+        "Michael Apted ist für andere Langzeitbeobachtungen bekannt, nicht für diese Regie.",
+        "David Gordon Green führte hier nicht Regie."
+      ],
+      "short": "Richard Linklater ist Regisseur und Drehbuchautor.",
+      "context": "Linklater verbindet eine vorgeplante Entwicklung mit Anpassungen an die Beteiligten. Für ihn sollte trotz der getrennten Drehs ein einheitlicher Film entstehen; der sichtbare Wandel sollte aus den Menschen kommen. Regie bedeutet hier deshalb auch, Ton und Stil über einen ungewöhnlich langen Zeitraum zusammenzuhalten.",
+      "anchor": "Linklater hält den Stil konstant, während die Menschen sich verändern.",
+      "interest": "Der Hintergrund zeigt die besondere Regieaufgabe hinter der langjährigen Herstellung.",
+      "sources": [
+        "criterion",
+        "interview"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

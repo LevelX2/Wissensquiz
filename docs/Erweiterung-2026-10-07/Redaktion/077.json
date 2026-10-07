@@ -1,0 +1,220 @@
+{
+  "rank": 77,
+  "titleDe": "Hexen hexen",
+  "originalTitle": "The Witches",
+  "year": 1990,
+  "genre": "Fantasy",
+  "familiarity": 2,
+  "directors": [
+    "Nicolas Roeg"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "release_note": "Kinostart im Vereinigten Königreich am 25. Mai 1990, in den USA am 24. August 1990. Einzelne BFI-Daten nennen das Produktionsjahr 1989; Veröffentlichungsjahr dieser Fassung ist 1990.",
+  "familiarity_reason": "Die Roald-Dahl-Verfilmung mit Anjelica Huston ist als markanter Kindergruselfilm gut bekannt; die Fassung von 1990 bleibt vom späteren Remake abgegrenzt, Bekanntheit 2.",
+  "sources": {
+    "kritik": "https://www.rogerebert.com/reviews/the-witches-1990",
+    "handlung": "https://en.wikipedia.org/wiki/The_Witches_(1990_film)",
+    "museum": "https://www.roalddahlmuseum.org/archive/roald-dahls-published-works/",
+    "bbfc": "https://www.bbfc.co.uk/release/the-witches-q29sbgvjdglvbjpwwc0zmtk4nti",
+    "regie": "https://time.com/5466504/anjelica-huston-nicolas-roeg/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wer übernimmt in @ nach dem Tod seiner Eltern die Sorge für Luke?",
+      "answers": [
+        "Seine Großmutter",
+        "Sein älterer Bruder",
+        "Seine Patentante",
+        "Sein ehemaliger Lehrer"
+      ],
+      "feedback": [
+        "Seine Großmutter Helga wird sein Vormund.",
+        "Ein älterer Bruder übernimmt diese Aufgabe nicht.",
+        "Luke zieht zu Helga, nicht zu einer Patentante.",
+        "Sein Lehrer wird nicht sein Vormund."
+      ],
+      "short": "Seine Großmutter Helga wird sein Vormund.",
+      "context": "Luke (Jasen Fisher) verliert seine Eltern und lebt anschließend bei seiner Großmutter Helga (Mai Zetterling). Ihre Kenntnis der Hexen wird für ihn lebenswichtig. Die familiäre Fürsorge umfasst deshalb auch Wissen über Gefahren, die andere Erwachsene zunächst als Fantasie behandeln.",
+      "anchor": "Lukes Großmutter verbindet Fürsorge mit Wissen über Hexen.",
+      "interest": "Zeigt die zentrale Schutzbeziehung des Films.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was soll der neue Zaubertrank der Oberhexe in @ mit Kindern machen?",
+      "answers": [
+        "Sie in Mäuse verwandeln.",
+        "Sie für immer einschläfern.",
+        "Sie unsichtbar machen.",
+        "Sie auf Puppengröße schrumpfen."
+      ],
+      "feedback": [
+        "Die Kinder sollen als Mäuse vernichtet werden.",
+        "Der Trank verändert ihre Gestalt statt sie nur schlafen zu lassen.",
+        "Die Opfer bleiben sichtbar und werden zu Mäusen.",
+        "Die Verkleinerung ist mit einer vollständigen Tierverwandlung verbunden."
+      ],
+      "short": "Die Kinder sollen als Mäuse vernichtet werden.",
+      "context": "Die Oberhexe (Anjelica Huston) plant, Kinder über Süßigkeiten mit dem Trank zu erreichen. Luke (Jasen Fisher) gerät selbst in die Falle. Seine Verwandlung nimmt ihm die menschliche Erscheinung, doch Denken und Sprache bleiben erhalten. Darauf beruht sein späterer Widerstand.",
+      "anchor": "Der Mäusetrank bedroht Kinder und lässt Luke dennoch handeln.",
+      "interest": "Erklärt die zentrale Bedrohung und die fortbestehende Handlungsfähigkeit.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wozu tragen die Hexen in @ Perücken und Handschuhe?",
+      "answers": [
+        "Sie verbergen kahle Köpfe und krallenartige Hände.",
+        "Sie schützen ihre Zauberkraft vor Tageslicht.",
+        "Sie erkennen daran den Rang anderer Hexen.",
+        "Sie verhindern damit die Übertragung des Zaubertranks."
+      ],
+      "feedback": [
+        "Die Kleidung tarnt körperliche Merkmale ihrer wahren Gestalt.",
+        "Tageslicht ist nicht der Grund für diese Tarnung.",
+        "Die Gegenstände sind Tarnmittel, keine Rangabzeichen.",
+        "Sie dienen nicht als Schutz vor einer Ansteckung durch den Trank."
+      ],
+      "short": "Die Kleidung tarnt körperliche Merkmale ihrer wahren Gestalt.",
+      "context": "Die Hexen erscheinen zunächst wie gewöhnliche Hotelgäste. Perücken, Handschuhe und Schuhe verbergen ihre auffälligen Körpermerkmale. Wenn die Oberhexe (Anjelica Huston) die Tarnung ablegt, kippt die scheinbar harmlose Versammlung ins Bedrohliche. Aufmerksamkeit für Alltagsdetails wird damit zu einem Mittel der Gefahrenerkennung.",
+      "anchor": "Gewöhnliche Kleidung verbirgt die körperlichen Hexenmerkmale.",
+      "interest": "Verbindet Kostümgestaltung mit der Täuschung der Erwachsenenwelt.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M2",
+      "question": "Warum rät Helga in @, Luke nicht allzu gründlich zu waschen?",
+      "answers": [
+        "Schmutz überdeckt den für Hexen auffälligen Kindergeruch.",
+        "Seife schwächt den Schutz eines Zauberamuletts.",
+        "Badewasser macht die Hexenformel wirksamer.",
+        "Nasse Haare ziehen den Blick der Oberhexe an."
+      ],
+      "feedback": [
+        "Hexen wittern saubere Kinder besonders gut; Schmutz erschwert das.",
+        "Ein Amulett liefert nicht die Erklärung für Helgas Rat.",
+        "Der Rat betrifft Geruch, nicht eine Reaktion des Tranks mit Wasser.",
+        "Nicht nasses Haar, sondern der wahrnehmbare Kindergeruch ist entscheidend."
+      ],
+      "short": "Hexen wittern saubere Kinder besonders gut; Schmutz erschwert das.",
+      "context": "Helga (Mai Zetterling) erklärt Luke (Jasen Fisher), dass Hexen Kinder am Geruch erkennen. Der ungewöhnliche Hygienerat folgt dieser Regel. Der Film kehrt damit eine normale erwachsene Forderung um: Was im Alltag als ungepflegt gilt, kann in dieser gefährlichen Situation Schutz bieten.",
+      "anchor": "Schmutz erschwert den Hexen das Wittern von Kindern.",
+      "interest": "Macht eine überraschende Weltregel über ihren Zweck verständlich.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S1",
+      "question": "Wie wendet Luke in @ den Verwandlungsplan gegen die versammelten Hexen?",
+      "answers": [
+        "Er mischt den Trank in ihre Suppe.",
+        "Er vertauscht die Trankflaschen mit einem Gegengift.",
+        "Er verteilt verzauberte Schokolade an die Hotelkinder.",
+        "Er lässt die Hexen die falsche Zauberformel sprechen."
+      ],
+      "feedback": [
+        "Die Suppe beim Bankett trägt den Trank zu den Hexen.",
+        "Ein Gegengift bildet nicht den Kern seines Gegenangriffs.",
+        "Er vergiftet nicht die Kinder, sondern die Mahlzeit der Täterinnen.",
+        "Die Wirkung entsteht durch den aufgenommenen Trank, nicht durch falsche Worte."
+      ],
+      "short": "Die Suppe beim Bankett trägt den Trank zu den Hexen.",
+      "context": "Als Maus gelangt Luke (Jasen Fisher) an eine Flasche des Tranks und in die Hotelküche. Er nutzt seine geringe Größe für einen gezielten Eingriff ins Bankett. Die Hexen werden Opfer ihrer eigenen Waffe; aus seiner zunächst hilflos wirkenden Gestalt entsteht ein taktischer Vorteil.",
+      "anchor": "Der Trank gelangt über die Suppe zurück zu seinen Urheberinnen.",
+      "interest": "Verknüpft Verwandlung, räumlichen Zugang und Gegenwehr.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was ermöglicht in der Filmfassung von @ Lukes Rückkehr zur menschlichen Gestalt?",
+      "answers": [
+        "Eine vom Hexenbund abgewandte Assistentin verzaubert ihn zurück.",
+        "Seine Großmutter kocht ein Gegengift.",
+        "Die Vernichtung der Oberhexe hebt automatisch alle Flüche auf.",
+        "Der Zaubertrank verliert nach einer Nacht seine Wirkung."
+      ],
+      "feedback": [
+        "Miss Irvine kommt zurück und macht die Verwandlung rückgängig.",
+        "Helga stellt kein Gegengift her.",
+        "Luke bleibt zunächst eine Maus, obwohl die Oberhexe tot ist.",
+        "Die Wirkung endet nicht von selbst nach einer Nacht."
+      ],
+      "short": "Miss Irvine kommt zurück und macht die Verwandlung rückgängig.",
+      "context": "Miss Irvine (Jane Horrocks) wendet sich von der Oberhexe (Anjelica Huston) ab und verwandelt Luke (Jasen Fisher) zurück. Die Rettung folgt einer individuellen Entscheidung innerhalb des zuvor feindlichen Lagers. Der Film beendet die Tiergestalt dadurch mit einer versöhnlichen Ausnahme von der Macht des Hexenbundes.",
+      "anchor": "Miss Irvines Abkehr ermöglicht Lukes Rückverwandlung.",
+      "interest": "Zeigt die Bedeutung einer Entscheidung jenseits der Lagerzugehörigkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, sieben Jahre nach Roald Dahls gleichnamigem Roman?",
+      "answers": [
+        "1990",
+        "1983",
+        "1997",
+        "2004"
+      ],
+      "feedback": [
+        "Der Roman erschien 1983, der Film 1990.",
+        "1983 ist das Erscheinungsjahr der Vorlage.",
+        "1997 liegt vierzehn Jahre nach dem Roman.",
+        "2004 liegt einundzwanzig Jahre nach der Vorlage."
+      ],
+      "short": "Der Roman erschien 1983, der Film 1990.",
+      "context": "Roald Dahls The Witches erschien 1983. Die Filmfassung folgte 1990, also sieben Jahre später. Die Buchvorlage erklärt die ungewöhnliche Mischung aus kindlicher Perspektive, schwarzem Humor und drastischer Bedrohung. Das Erscheinungsjahr ordnet die Verfilmung in diese konkrete Folge von Buch und Film ein.",
+      "anchor": "1983 das Buch, sieben Jahre später 1990 der Film.",
+      "interest": "Verankert das Filmjahr in der Geschichte der Vorlage.",
+      "sources": [
+        "museum",
+        "bbfc"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Filmfassung von @ aus dem Jahr 1990 Regie?",
+      "answers": [
+        "Nicolas Roeg",
+        "Terry Gilliam",
+        "Jim Henson",
+        "Robert Zemeckis"
+      ],
+      "feedback": [
+        "Nicolas Roeg führte Regie.",
+        "Gilliam inszenierte andere fantastische Stoffe, nicht diese Fassung.",
+        "Henson war an der Produktion beteiligt, führte hier aber nicht Regie.",
+        "Zemeckis inszenierte die spätere Verfilmung von 2020."
+      ],
+      "short": "Nicolas Roeg führte Regie.",
+      "context": "Nicolas Roeg inszenierte die Verfilmung. Anjelica Huston schilderte später seine sehr genaue Arbeit an der Oberhexe und seine Unterstützung während der aufwendigen Maskenszenen. Die Figur entstand damit aus Schauspiel und körperlicher Verwandlung, die der Regisseur gezielt miteinander verband.",
+      "anchor": "Roeg führte Hustons Oberhexe durch Schauspiel und aufwendige Maske.",
+      "interest": "Verbindet die Regie mit einem belegten Einblick in die Figurenarbeit.",
+      "sources": [
+        "regie",
+        "bbfc"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

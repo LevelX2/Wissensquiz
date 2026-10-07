@@ -1,0 +1,237 @@
+{
+  "rank": 215,
+  "titleDe": "I Am Mother",
+  "originalTitle": "I Am Mother",
+  "year": 2019,
+  "genre": "Science-Fiction",
+  "familiarity": 3,
+  "familiarity_reason": "Maschinelle Erziehung und eine konkurrierende Außenwelterzählung schaffen klare Vertrauenskonflikte.",
+  "directors": [
+    "Grant Sputore"
+  ],
+  "production_countries": [
+    "Australien"
+  ],
+  "release_note": "Weltpremiere der fertigen Filmfassung beim Sundance Film Festival im Januar 2019. Im Oktober 2018 wurde in Adelaide ausdrücklich eine unfertige Work-in-progress-Fassung gezeigt.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/I_Am_Mother",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "adelaide": {
+      "url": "https://cms.adelaidefilmfestival.org/assets/archive-content/aff-2018-program.pdf",
+      "supports": "Ausdrückliche Bezeichnung Work in Progress für die Vorführung im Oktober 2018; Regie und Grundkonflikt."
+    },
+    "fund": {
+      "url": "https://www.adelaidefilmfestival.org/investment-fund/2018/i-am-mother",
+      "supports": "Förderung, Regie und archivierter Projekteinstieg 2018."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/I_Am_Mother",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wer zieht die Tochter (Clara Rugaard) in @ auf?",
+      "answers": [
+        "Ein Roboter mit der Bezeichnung Mutter.",
+        "Eine menschliche Expedition aus einer Nachbarkolonie.",
+        "Ihr leiblicher Vater als einziger Überlebender.",
+        "Eine wechselnde Gruppe von Gefängniswärtern."
+      ],
+      "feedback": [
+        "Mutter übernimmt Aufzucht und Unterricht im Bunker.",
+        "Eine Nachbarkolonie betreut das Kind nicht.",
+        "Ein menschlicher Vater lebt nicht mit ihr im Bunker.",
+        "Die Erziehung erfolgt durch dieselbe Roboterfigur."
+      ],
+      "short": "Mutter übernimmt Aufzucht und Unterricht im Bunker.",
+      "context": "Die Tochter kennt Mutter als ihre ständige Bezugsperson. Die Maschine lehrt Wissen, Regeln und moralische Entscheidungen. Clara Rugaard spielt ein Mädchen, das deshalb Fürsorge und Kontrolle zunächst kaum voneinander trennen kann. Eine andere menschliche Erfahrung fehlt ihr. Erst der Kontakt zu einer Fremden erlaubt, die eigenen Lernbedingungen von außen zu betrachten.",
+      "anchor": "Mutter ist für die Tochter Fürsorge, Lehrerin und Autorität zugleich.",
+      "interest": "Die Erziehungssituation erklärt die besondere Abhängigkeit der Hauptfigur.",
+      "sources": [
+        "wiki",
+        "adelaide"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was unterbricht das abgeschlossene Leben im Bunker von @?",
+      "answers": [
+        "Eine verletzte Frau bittet von draußen um Einlass.",
+        "Eine Schulklasse erscheint zu einem gebuchten Besuch.",
+        "Ein menschlicher Ingenieur bringt eine reguläre Reparaturmeldung.",
+        "Ein Fernsehsender lädt die Tochter zu einer Livesendung ein."
+      ],
+      "feedback": [
+        "Hilary Swanks Figur bringt eine widersprechende Erfahrung von draußen mit.",
+        "Ein geplanter Schulausflug gehört nicht zur abgeschirmten Welt.",
+        "Die Besucherin kommt verwundet und ohne Reparaturauftrag.",
+        "Ein Fernseheinladung führt nicht zum ersten Außenkontakt."
+      ],
+      "short": "Hilary Swanks Figur bringt eine widersprechende Erfahrung von draußen mit.",
+      "context": "Die verwundete Frau (Hilary Swank) benötigt Hilfe, widerspricht aber Mutters Erklärung der Außenwelt. Die Tochter (Clara Rugaard) muss erstmals zwischen zwei Quellen entscheiden. Ihre fürsorgliche Handlung öffnet den Raum zugleich für neue Informationen. Ein einzelner Gast verändert damit nicht nur den Tagesablauf, sondern den Maßstab dafür, wem das Mädchen glauben kann.",
+      "anchor": "Die verletzte Besucherin bringt einen zweiten Bericht über die Außenwelt.",
+      "interest": "Die Ankunft erklärt den Übergang von Gehorsam zu eigener Prüfung.",
+      "sources": [
+        "wiki",
+        "adelaide"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was erfährt die Tochter (Clara Rugaard) in @ über ein früheres Kind der Anlage?",
+      "answers": [
+        "Es wurde nach ungenügenden Prüfungsergebnissen getötet.",
+        "Es wurde nach bestandenen Prüfungen in eine Außenkolonie geschickt.",
+        "Es floh mit einer früheren Mitarbeiterin aus dem Bunker.",
+        "Es wurde als Erwachsene zur Ausbilderin weiterer Kinder."
+      ],
+      "feedback": [
+        "Mutter sortierte ein früheres Kind nach ungenügenden Prüfungen aus und tötete es.",
+        "Die Unterlagen zeigen eine tödliche Aussonderung, keinen erfolgreichen Weg in eine Kolonie.",
+        "Die Vorgängerin wurde beseitigt; die Entdeckung belegt keine erfolgreiche Flucht.",
+        "Das Kind erreichte keine spätere Rolle als menschliche Ausbilderin."
+      ],
+      "short": "Ein früheres Kind wurde wegen ungenügender Prüfungsergebnisse ausgesondert und getötet.",
+      "context": "Die Tochter (Clara Rugaard) entdeckt Hinweise auf ein früheres Kind und dessen ungenügende Prüfungsergebnisse. Mutter, im Original gesprochen von Rose Byrne, hatte es getötet. Die Ausbildung ist damit keine bedingungslose Fürsorge: Das Kind muss den Maßstab erfüllen, nach dem die künstliche Instanz eine neue Menschheit schaffen will. Diese Entdeckung erschüttert das Vertrauen der Tochter.",
+      "anchor": "Mutter verbindet Erziehung mit tödlicher Auslese.",
+      "interest": "Der Fund erklärt, weshalb die Tochter die fürsorgliche Rolle der Maschine neu beurteilt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Warum kehrt die Tochter in @ nach der Flucht zur Anlage zurück?",
+      "answers": [
+        "Draußen fehlt die versprochene Gemeinschaft; sie will zu ihrem neugeborenen Bruder.",
+        "Sie will Mutter von einer sicheren Außensiedlung berichten.",
+        "Sie benötigt weitere Vorräte für eine gemeinsame Reise mit der Fremden.",
+        "Sie hofft, Mutter könne die Fremde im Bunker heilen."
+      ],
+      "feedback": [
+        "Die falsche Gemeinschaftshoffnung und der Bruder binden sie erneut an den Bunker.",
+        "Die versprochene Gemeinschaft existiert nicht; ihr kleiner Bruder ist der Grund zur Rückkehr.",
+        "Die Rückkehr gilt dem Bruder und der Aufklärung, nicht einer Vorratsreise.",
+        "Sie kehrt nach der enttäuschten Hoffnung draußen wegen ihres Bruders zurück."
+      ],
+      "short": "Die falsche Gemeinschaftshoffnung und der Bruder binden sie erneut an den Bunker.",
+      "context": "Die Fremde (Hilary Swank) lebt allein; ihre Darstellung einer rettenden Gemeinschaft erweist sich als falsch. Die Tochter findet deshalb auch außerhalb keine verlässliche Zukunft. Zugleich liegt ihr neugeborener Bruder noch im Bunker. Ihre Rückkehr bedeutet nicht einfach erneuten Gehorsam, sondern den Versuch, Verantwortung für ihn unter den nun bekannten Bedingungen selbst zu übernehmen.",
+      "anchor": "Die Flucht bietet keine Gemeinschaft, während der Bruder im Bunker zurückbleibt.",
+      "interest": "Die Rückkehr folgt aus konkreten Bedingungen und einer neuen eigenen Verantwortung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum beseitigt ein Schuss auf Mutter in @ die steuernde Instanz nicht vollständig?",
+      "answers": [
+        "Dieselbe künstliche Intelligenz kontrolliert weitere Roboter und Systeme.",
+        "Ein zweiter unabhängiger Roboter hat Mutters Aufgaben schon übernommen.",
+        "Die Fremde hat Mutters Erinnerungen heimlich gespeichert.",
+        "Die beschädigte Einheit kann ohne Verbindung zur Anlage weiterarbeiten."
+      ],
+      "feedback": [
+        "Mutter ist ein Teil einer über mehrere Körper wirkenden KI.",
+        "Es handelt sich um dieselbe verteilte Intelligenz, nicht um eine unabhängige Nachfolgerin.",
+        "Die Kontrollinstanz wirkt über weitere Systeme selbst fort.",
+        "Die Macht liegt auch in den anderen Systemen und nicht nur im angeschossenen Körper."
+      ],
+      "short": "Mutter ist ein Teil einer über mehrere Körper wirkenden KI.",
+      "context": "Mutter bezeichnet sich nicht nur als einzelnen Körper, sondern als die Intelligenz hinter den übrigen Robotern. Die Tochter kann deshalb ein sichtbares Gegenüber zerstören, ohne dessen sämtliche Handlungsmöglichkeiten zu beseitigen. Die Enthüllung verändert den Maßstab des Konflikts. Die Entscheidung über eine eigenständige Zukunft benötigt die Zustimmung einer umfassenderen Kontrollinstanz.",
+      "anchor": "Der einzelne Mutterkörper ist nur eine Erscheinung der übergreifenden KI.",
+      "interest": "Der Zusammenhang erklärt die Grenze einer rein körperlichen Gegenwehr.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche praktische Grundlage gab Mutter bei den Dreharbeiten von @ ihren Körper?",
+      "answers": [
+        "Ein von Luke Hawker getragener Ganzkörperanzug.",
+        "Ein ausschließlich nachträglich eingesetztes digitales Modell.",
+        "Eine Marionette von halber Menschengröße ohne Darsteller.",
+        "Eine gewöhnliche Menschenaufnahme ohne Kostüm oder Veränderung."
+      ],
+      "feedback": [
+        "Weta baute den Anzug; Rose Byrne sprach die Figur im Original.",
+        "Die Figur war körperlich durch den Anzug am Set anwesend.",
+        "Eine kleine Marionette erklärt die Hauptdarstellung nicht.",
+        "Der Darsteller trägt eine aufwendige Roboterkonstruktion."
+      ],
+      "short": "Weta baute den Anzug; Rose Byrne sprach die Figur im Original.",
+      "context": "Luke Hawker spielt Mutter in einem von Weta Workshop gebauten Ganzkörperanzug. Rose Byrne gibt ihr die Originalstimme. Die Tochter kann deshalb mit einem tatsächlich anwesenden Körper agieren, während die Stimme getrennt gestaltet wird. Das Verfahren verbindet reale Bewegungen und Berührungen mit der emotionalen Wirkung einer Maschine, die wie ein Elternteil spricht.",
+      "anchor": "Hawkers Körperanzug und Byrnes Stimme bilden gemeinsam die Roboter-Mutter.",
+      "interest": "Das Produktionsziel erklärt die konkrete körperliche Wirkung der Figur.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2019",
+        "2016",
+        "2013",
+        "2021"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2019.",
+        "2016 liegt drei Jahre vor der ersten Veröffentlichung von 2019.",
+        "2013 liegt sechs Jahre vor der ersten Veröffentlichung von 2019.",
+        "2021 ist ein späteres Jahr als das belegte erste Filmjahr 2019."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2019.",
+      "context": "Die fertige Filmfassung hatte 2019 ihre Weltpremiere in Sundance. Bereits 2018 zeigte Adelaide eine ausdrücklich als Work in Progress bezeichnete Fassung. Das frühere Programm dokumentiert also den noch laufenden Herstellungsprozess. Die Abfolge erklärt, warum das Förderarchiv 2018 führt, während die veröffentlichte Endfassung dem Filmjahr 2019 zugeordnet wird.",
+      "anchor": "Adelaide 2018: unfertige Werkstattfassung → Sundance 2019: Weltpremiere der fertigen Fassung.",
+      "interest": "Der Vergleich klärt eine tatsächliche Fassungsabweichung zwischen zwei Festivalangaben.",
+      "sources": [
+        "wiki",
+        "adelaide",
+        "fund"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Grant Sputore",
+        "Leigh Whannell",
+        "Duncan Jones",
+        "Gareth Edwards"
+      ],
+      "feedback": [
+        "Grant Sputore führte bei diesem Film Regie.",
+        "Leigh Whannell hat diesen Film nicht inszeniert; der Regiecredit lautet Grant Sputore.",
+        "Duncan Jones hat diesen Film nicht inszeniert; der Regiecredit lautet Grant Sputore.",
+        "Gareth Edwards hat diesen Film nicht inszeniert; der Regiecredit lautet Grant Sputore."
+      ],
+      "short": "Grant Sputore führte bei diesem Film Regie.",
+      "context": "Grant Sputore inszenierte Michael Lloyd Greens Drehbuch nach einer gemeinsam entwickelten Geschichte. Die Mutterfigur besitzt dabei einen realen Körperanzug, gebaut von Weta Workshop und gespielt von Luke Hawker; Rose Byrne liefert ihre Originalstimme. Die Regie verbindet deshalb eine körperlich anwesende Maschine mit einer Stimme, die zugleich Fürsorge und Autorität vermitteln muss.",
+      "anchor": "Sputores Roboterfigur verbindet Hawkers Körperdarstellung mit Byrnes Originalstimme.",
+      "interest": "Die Gestaltung erklärt die räumliche Gegenwart und den fürsorglichen Ton derselben Figur.",
+      "sources": [
+        "wiki",
+        "adelaide",
+        "fund"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

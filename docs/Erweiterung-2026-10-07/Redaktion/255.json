@@ -1,0 +1,239 @@
+{
+  "rank": 255,
+  "titleDe": "Flucht in Ketten",
+  "originalTitle": "The Defiant Ones",
+  "year": 1958,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Der klassische Fluchtfilm erzwingt Zusammenarbeit über rassistische Feindschaft hinweg und bindet das an eine konkrete körperliche Fessel.",
+  "directors": [
+    "Stanley Kramer"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Premiere bei der Berlinale 1958 vor der US-Auswertung im Herbst. Originalfilm mit Tony Curtis und Sidney Poitier; kein späteres Remake.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/The_Defiant_Ones",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/53463-THE-DEFIANT-ONES",
+      "supports": "Regie und Produktion, Besetzung, Handlung, Drehbuchcredit Nathan E. Douglas als Pseudonym Nedrick Youngs."
+    },
+    "academy": {
+      "url": "https://www.oscars.org/oscars/ceremonies/1964",
+      "supports": "Poitier gewann 1964 den Hauptdarsteller-Oscar für Lilies of the Field, Filmjahr 1963."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Flucht_in_Ketten",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was ermöglicht Cullen (Sidney Poitier) und Joker (Tony Curtis) die Flucht?",
+      "answers": [
+        "Ein Unfall ihres Gefangenentransporters",
+        "Ein vertauschter Entlassungsbescheid",
+        "Ein bewaffneter Angriff von Freunden auf das Gefängnis",
+        "Ein Stromausfall während einer Gerichtsverhandlung"
+      ],
+      "feedback": [
+        "Der verunglückte Transport öffnet die Möglichkeit zur gemeinsamen Flucht.",
+        "Sie werden nicht durch ein Verwaltungsversehen entlassen.",
+        "Eine vorbereitete Befreiungsgruppe greift nicht ein.",
+        "Ein Gerichtsgebäude mit Stromausfall ist nicht der Ausgangsort."
+      ],
+      "short": "Der verunglückte Transport öffnet die Möglichkeit zur gemeinsamen Flucht.",
+      "context": "Cullen (Sidney Poitier) und Joker (Tony Curtis) entkommen nach einem Straßenunfall, sind aber aneinandergefesselt. Die unverhoffte Freiheit lässt ihre Abhängigkeit zunächst bestehen. Ohne gemeinsame Bewegungen kann keiner weit kommen. Der äußere Zwang führt sie damit in eine Zusammenarbeit, die ihren anfänglichen gegenseitigen Vorurteilen widerspricht.",
+      "anchor": "Der Transportunfall befreit die Männer, beseitigt aber ihre wechselseitige Abhängigkeit nicht.",
+      "interest": "Die Ausgangstat erklärt den Zwang zur Zusammenarbeit.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Wie versucht der Suchtrupp, die Spur der Flüchtenden aufzunehmen?",
+      "answers": [
+        "Mit Spürhunden",
+        "Mit einem Zug voller Grenzbeamter",
+        "Mit einer Straßensperre an der einzigen Eisenbahnbrücke",
+        "Mit einer fingierten Zeitungsanzeige"
+      ],
+      "feedback": [
+        "Hunde unterstützen die Verfolger bei der Suche im Gelände.",
+        "Ein Grenzbeamtenzug ist nicht ihr Suchverfahren.",
+        "Die Spurensuche erfolgt mit Hunden; eine einzelne Brückensperre ist nicht das gezeigte Mittel.",
+        "Eine Kontaktanzeige liefert dem Trupp die Spur nicht."
+      ],
+      "short": "Hunde unterstützen die Verfolger bei der Suche im Gelände.",
+      "context": "Sheriff Muller (Theodore Bikel) organisiert die Verfolgung mit Polizisten und weiteren Helfern. Hunde machen das Gelände für die Flüchtenden zusätzlich gefährlich. Zugleich unterscheiden sich die Vorstellungen im Suchtrupp: Muller will die Männer lebend fassen, während andere weniger Rücksicht zeigen. Die Verfolgung ist daher selbst ein Ort unterschiedlicher Auffassungen über den Umgang mit Menschen.",
+      "anchor": "Die Hundesuche verbindet praktische Verfolgung mit unterschiedlichen Haltungen im Suchtrupp.",
+      "interest": "Das Verfahren erklärt die körperliche Gefahr des Fluchtwegs.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum hilft Big Sam (Lon Chaney Jr.) den gefangenen Flüchtenden?",
+      "answers": [
+        "Er war selbst in einer Strafkolonne und lehnt den Lynchmob ab",
+        "Er erkennt Cullen als seinen früheren Vorgesetzten",
+        "Er erhält von Joker eine hohe Vorauszahlung",
+        "Er hat den Transportunfall als Fluchthelfer vorbereitet"
+      ],
+      "feedback": [
+        "Eigene Haftgeschichte und Ablehnung der Gewalt bewegen ihn zur Hilfe.",
+        "Eine frühere Befehlsbeziehung mit Cullen wird nicht behauptet.",
+        "Eine Vorauszahlung kauft seine Hilfe nicht.",
+        "Sam hatte den ursprünglichen Unfall nicht geplant."
+      ],
+      "short": "Eigene Haftgeschichte und Ablehnung der Gewalt bewegen ihn zur Hilfe.",
+      "context": "Nach dem Einbruch werden Cullen (Sidney Poitier) und Joker (Tony Curtis) von Bewohnern festgesetzt. Big Sam (Lon Chaney Jr.) verhindert zunächst die unmittelbare Gewalttat und lässt sie später frei. Seine eigene Erfahrung verändert den Blick auf die Verfolgten. Die Hilfe kommt deshalb von einer Figur, die hinter dem Status als Gefangene eine geteilte Lebensgeschichte erkennt.",
+      "anchor": "Sams eigene Haftgeschichte macht ihn zum Gegner des Lynchmobs.",
+      "interest": "Die Frage erklärt eine konkrete Motivation für unerwartete Hilfe.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was beabsichtigt Billys Mutter (Cara Williams) mit der Wegbeschreibung für Cullen (Sidney Poitier)?",
+      "answers": [
+        "Sie schickt ihn in einen tödlichen Sumpf statt sicher zum Zug",
+        "Sie führt ihn zum Polizeirevier, um eine Belohnung zu teilen",
+        "Sie lenkt ihn zur Farm seines Bruders zurück",
+        "Sie lässt ihn bei einem Arzt Medikamente für Joker holen"
+      ],
+      "feedback": [
+        "Die falsche Route soll Cullen aus ihrer geplanten Flucht mit Joker beseitigen.",
+        "Ein gemeinsam geplanter Belohnungshandel ist nicht ihre Absicht.",
+        "Eine Bruderfarm wird nicht als Ziel genannt.",
+        "Der Weg dient nicht einer Medikamentenbeschaffung."
+      ],
+      "short": "Die falsche Route soll Cullen aus ihrer geplanten Flucht mit Joker beseitigen.",
+      "context": "Die Frau (Cara Williams) möchte mit Joker (Tony Curtis) und ihrem Sohn wegfahren. Cullen (Sidney Poitier) soll aus diesem Zukunftsplan verschwinden. Sie gibt ihm scheinbar hilfreiche Hinweise, die tatsächlich ins gefährliche Gelände führen. Die Gastfreundschaft verwandelt sich damit in eine weitere Form der Ausgrenzung, sobald die gemeinsame Fessel nicht mehr besteht.",
+      "anchor": "Eine scheinbare Wegweisung soll Cullen aus dem neuen Fluchtplan entfernen.",
+      "interest": "Der Zusammenhang erklärt den Umschlag von Unterstützung in gezielte Gefährdung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Weshalb verlässt Joker (Tony Curtis) die Frau trotz der gebotenen Fluchtmöglichkeit?",
+      "answers": [
+        "Er erfährt die Wahrheit über den Sumpf und warnt Cullen",
+        "Er entdeckt, dass ihr Wagen der Polizei gehört",
+        "Er merkt, dass sie ihn später ebenfalls der Polizei ausliefern will",
+        "Er erfährt, dass Cullen an der Bahnstrecke schon verhaftet wurde"
+      ],
+      "feedback": [
+        "Er entscheidet sich für die Rettung des Mannes, von dem er sich nun trennen könnte.",
+        "Polizeieigentum am Auto ist nicht der Grund.",
+        "Die konkrete Erkenntnis betrifft ihren tödlichen Weg für Cullen; Joker kehrt deshalb zu ihm zurück.",
+        "Cullen ist noch unterwegs; Joker will ihn vor dem Sumpf retten."
+      ],
+      "short": "Er entscheidet sich für die Rettung des Mannes, von dem er sich nun trennen könnte.",
+      "context": "Die Kette ist bereits entfernt, als Joker (Tony Curtis) die Täuschung erfährt. Er könnte nun die eigene Chance nutzen, läuft aber Cullen (Sidney Poitier) nach. Billy (Kevin Coughlin) schießt ihn dabei an. Die neue Zusammengehörigkeit beruht somit auf einer freiwilligen Entscheidung und kostet ihn eine zusätzliche Verletzung statt einen sicheren Vorteil.",
+      "anchor": "Nach dem Ende der Fessel entscheidet Joker freiwillig, Cullen zu retten.",
+      "interest": "Die Handlung zeigt den Übergang vom körperlichen Zwang zur persönlichen Solidarität.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Warum gelingt Cullen (Sidney Poitier) die endgültige Flucht mit dem Zug nicht?",
+      "answers": [
+        "Er gibt den sicheren Platz auf, als Joker nicht mitkommt",
+        "Der Zug wird sofort von der Polizei angehalten",
+        "Der Lokführer erkennt seinen Gefangenenausweis",
+        "Er springt versehentlich auf einen stehenden Güterwagen"
+      ],
+      "feedback": [
+        "Er versucht Joker mitzunehmen und bleibt schließlich bei ihm zurück.",
+        "Ein polizeilicher Zugstopp ist nicht die entscheidende Ursache.",
+        "Ein kontrollierter Ausweis verhindert die Fahrt nicht.",
+        "Der Zug bewegt sich; ein stehender Wagen erklärt das Ende nicht."
+      ],
+      "short": "Er versucht Joker mitzunehmen und bleibt schließlich bei ihm zurück.",
+      "context": "Cullen (Sidney Poitier) erreicht den fahrenden Zug, Joker (Tony Curtis) schafft es verletzt nicht. Cullen versucht, ihn hochzuziehen, und bleibt am Ende ebenfalls zurück. Die mögliche eigene Freiheit verliert ihren Vorrang gegenüber dem anderen Mann. Der Sheriff findet beide zusammen, obwohl die äußere Fessel inzwischen längst entfernt worden ist.",
+      "anchor": "Cullen verzichtet auf die allein mögliche Zugflucht und bleibt bei Joker.",
+      "interest": "Der Schluss bestätigt die freiwillig gewordene Verbindung der beiden Männer.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1958",
+        "1955",
+        "1952",
+        "1960"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1958.",
+        "1955 liegt drei Jahre vor der ersten Veröffentlichung von 1958.",
+        "1952 liegt sechs Jahre vor der ersten Veröffentlichung von 1958.",
+        "1960 ist ein späteres Jahr als das belegte erste Filmjahr 1958."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1958.",
+      "context": "Flucht in Ketten erschien 1958 mit Sidney Poitier als Noah Cullen. Sechs Jahre später gewann Poitier 1964 den Hauptdarsteller-Oscar für Lilies of the Field, einen Film von 1963. Die Rollenfolge verankert den früheren Film in seiner wachsenden Anerkennung. Die Preisverleihung wird dabei ausdrücklich von dem Filmjahr des später ausgezeichneten Werks unterschieden.",
+      "anchor": "Poitier in Flucht in Ketten 1958 → Hauptdarsteller-Oscar 1964 für den Film von 1963: sechs Jahre.",
+      "interest": "Die Verbindung ordnet einen Karriereabschnitt ein und trennt Filmjahr von Verleihungsjahr.",
+      "sources": [
+        "wiki",
+        "afi",
+        "academy"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Stanley Kramer",
+        "Richard Brooks",
+        "Joseph L. Mankiewicz",
+        "John Sturges"
+      ],
+      "feedback": [
+        "Stanley Kramer führte bei diesem Film Regie.",
+        "Richard Brooks hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kramer.",
+        "Joseph L. Mankiewicz hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kramer.",
+        "John Sturges hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kramer."
+      ],
+      "short": "Stanley Kramer führte bei diesem Film Regie.",
+      "context": "Stanley Kramer produzierte und inszenierte den Film. Harold Jacob Smith und Nedrick Young schrieben das Drehbuch; Young erschien zunächst unter dem Namen Nathan E. Douglas, weil er auf der schwarzen Liste stand. Die Zusammenarbeit steht damit selbst im Umfeld politischer Ausschlüsse. Die Handlung zwingt zwei einander feindlich begegnende Männer, ihre Abhängigkeit praktisch anzuerkennen.",
+      "anchor": "Kramer inszeniert den Stoff; der ausgeschlossene Autor Young erscheint unter einem Pseudonym.",
+      "interest": "Der Produktionshintergrund ergänzt das Thema gesellschaftlicher Ausgrenzung um eine konkrete Creditgeschichte.",
+      "sources": [
+        "wiki",
+        "afi",
+        "academy"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

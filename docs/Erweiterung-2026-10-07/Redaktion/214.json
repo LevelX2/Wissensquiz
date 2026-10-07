@@ -1,0 +1,237 @@
+{
+  "rank": 214,
+  "titleDe": "Cypher",
+  "originalTitle": "Cypher",
+  "year": 2002,
+  "genre": "Science-Fiction",
+  "familiarity": 4,
+  "familiarity_reason": "Spionage, Firmenkontrolle und veränderte Identitäten erlauben mehrere eigenständige Verknüpfungsfragen.",
+  "directors": [
+    "Vincenzo Natali"
+  ],
+  "production_countries": [
+    "Kanada"
+  ],
+  "release_note": "Erste Veröffentlichung 2002; der DVD-Start 2005 gehört zu einer späteren Auswertung derselben Fassung.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Cypher_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Cypher_(2002)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    },
+    "interview": {
+      "url": "https://indielondon.co.uk/film/cypher_nataliQ%26A.html",
+      "supports": "Natalis eigene Aussagen zur subjektiven Erzählweise und zum Wechsel der Schauplätze gegenüber Cube."
+    },
+    "arrow": {
+      "url": "https://www.arrowfilms.com/blog/interviews/interview-with-vincenzo-natali-director-of-cube-and-splice/",
+      "supports": "Natali-Interview mit der Zuordnung seines Debüts Cube zu 1997."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Tätigkeit übernimmt Morgan Sullivan (Jeremy Northam) in @ bei Digicorp?",
+      "answers": [
+        "Verdeckte Industriespionage.",
+        "Die öffentliche Leitung eines Medikamentenlabors.",
+        "Die Ausbildung neuer Verkehrspiloten.",
+        "Die Betreuung eines historischen Firmenarchivs ohne Außeneinsätze."
+      ],
+      "feedback": [
+        "Digicorp wirbt ihn für geheime Informationsaufträge an.",
+        "Eine öffentliche Laborleitung ist nicht sein Job.",
+        "Die Aufträge betreffen Firmeninformationen und keine Pilotenschule.",
+        "Er reist gerade zu scheinbaren Kongressen."
+      ],
+      "short": "Digicorp wirbt ihn für geheime Informationsaufträge an.",
+      "context": "Sullivan wünscht sich einen Ausweg aus seinem eintönigen Leben. Digicorp bietet ihm eine verdeckte Tätigkeit und eine neue Identität. Der berufliche Wechsel wirkt zunächst wie eine persönliche Befreiung. Jeremy Northam spielt jedoch einen Mann, dessen Wunsch nach Veränderung ihn für Aufträge verfügbar macht, deren tatsächlichen Zweck er nicht kennt.",
+      "anchor": "Der ersehnte neue Beruf liefert Sullivan an eine kontrollierte Identität aus.",
+      "interest": "Die Tätigkeit erklärt seinen Einstieg in das Firmenrätsel.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Rolle spielen die Kongresse in Sullivans Auftrag von @ zunächst?",
+      "answers": [
+        "Er soll Vorträge heimlich aufnehmen und übertragen.",
+        "Er soll dort als gewählter Firmenvorstand auftreten.",
+        "Er soll geheime Dokumente aus den Hotelzimmern entwenden.",
+        "Er soll öffentlich seine echte Biografie vortragen."
+      ],
+      "feedback": [
+        "Die scheinbare Spionageaufgabe betrifft die Kongressaufzeichnungen.",
+        "Er tritt nicht als gewählter Vorstand auf.",
+        "Sein zunächst erklärter Auftrag ist das Aufzeichnen und Übertragen der Kongressvorträge.",
+        "Eine offene Biografie widerspräche seiner Tarnrolle."
+      ],
+      "short": "Die scheinbare Spionageaufgabe betrifft die Kongressaufzeichnungen.",
+      "context": "Digicorp schickt Sullivan zu Veranstaltungen mit der Anweisung, Inhalte verdeckt weiterzugeben. Der wiederholbare Ablauf vermittelt ihm eine plausible berufliche Routine. Die scheinbar kleinen technischen Aufgaben halten ihn beschäftigt. Erst ein Versuch, die Übertragung auszusetzen, erlaubt ihm zu prüfen, ob die Erklärungen seines Arbeitgebers mit den tatsächlichen Reaktionen übereinstimmen.",
+      "anchor": "Die Kongressroutine gibt dem neuen Agenten eine glaubhafte Beschäftigung.",
+      "interest": "Der Auftrag erklärt, weshalb spätere Unstimmigkeiten zunächst verborgen bleiben.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche Reaktion von Digicorp entlarvt in @ den angeblichen Aufnahmeauftrag?",
+      "answers": [
+        "Die Firma bestätigt einen Erfolg, obwohl Sullivan nichts gesendet hat.",
+        "Die Firma verlangt erstmals die Teilnahmegebühr zurück.",
+        "Die Firma fordert ein neues Passfoto wegen seiner Frisur.",
+        "Die Firma bedankt sich für einen öffentlich gehaltenen Vortrag."
+      ],
+      "feedback": [
+        "Die Bestätigung einer ausgebliebenen Übertragung widerspricht dem Auftrag.",
+        "Eine Gebühr hätte nicht dieselbe technische Widerspruchskraft.",
+        "Ein Fotoauftrag erklärt nicht die falsche Empfangsbestätigung.",
+        "Sullivan hält dort keinen öffentlichen Vortrag."
+      ],
+      "short": "Die Bestätigung einer ausgebliebenen Übertragung widerspricht dem Auftrag.",
+      "context": "Rita Foster (Lucy Liu) fordert Sullivan auf, das Gerät nicht einzuschalten. Dennoch meldet Digicorp anschließend eine erfolgreiche Übertragung. Die Aussage lässt sich mit seinem eigenen Handeln nicht vereinbaren. Der Versuch macht damit erstmals sichtbar, dass die Firma ihren Mitarbeiter nicht über das informiert, was sie an den Veranstaltungen tatsächlich interessiert.",
+      "anchor": "Eine nicht gesendete Aufnahme wird angeblich erfolgreich empfangen.",
+      "interest": "Der kleine Kontrollversuch prüft die Firmenbehauptung anhand einer eigenen Entscheidung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was geschieht in @ mit den vermeintlichen Agenten auf den Kongressen?",
+      "answers": [
+        "Sie werden betäubt und erhalten durch Gehirnwäsche neue Identitäten.",
+        "Sie absolvieren eine offen angekündigte Schauspielausbildung.",
+        "Sie unterschreiben gemeinsam ihre reguläre Pensionierung.",
+        "Sie werden ohne weitere Behandlung direkt ins Ausland abgeschoben."
+      ],
+      "feedback": [
+        "Die Veranstaltungen dienen verdeckter Identitätsprogrammierung.",
+        "Die neue Rolle wird nicht als freiwillige Schauspielarbeit erläutert.",
+        "Eine gemeinsame Pensionierung ist nicht das Ziel.",
+        "Die entscheidende Manipulation erfolgt vor einer weiteren Verwendung."
+      ],
+      "short": "Die Veranstaltungen dienen verdeckter Identitätsprogrammierung.",
+      "context": "Mit Ritas Gegenmittel kann Sullivan wach bleiben, während die anderen betäubt werden. Er beobachtet, dass die angebliche Firmenveranstaltung ihre Identitäten verändert. Seine eigene Tarnung soll zu einem für ihn scheinbar echten Leben werden. Der Betrug betrifft deshalb mehr als die Verwendung von Informationen: Er verändert, wer ein Mitarbeiter sich selbst zu sein glaubt.",
+      "anchor": "Der Kongress macht aus einer Tarnidentität eine eingepflanzte Selbstvorstellung.",
+      "interest": "Die Methode erklärt die persönliche Reichweite der Firmenkontrolle.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wodurch findet Sullivan (Jeremy Northam) in @ im Helikopter zu seiner ursprünglichen Identität zurück?",
+      "answers": [
+        "Er erinnert sich, dass er das Fluggerät selbst entworfen hat.",
+        "Er liest einen zufällig ausliegenden Behördenausweis vor.",
+        "Er hört die Nationalhymne seines Geburtslandes.",
+        "Er entdeckt einen gedruckten Fingerabdruckvergleich an der Tür."
+      ],
+      "feedback": [
+        "Die vertraute Konstruktion ruft seine Fähigkeiten als Rooks zurück.",
+        "Ein zufälliger Ausweis löst die Wiedererkennung nicht aus.",
+        "Eine Hymne bildet nicht den Erinnerungszugang.",
+        "Ein Vergleichsblatt an der Tür wird nicht benötigt."
+      ],
+      "short": "Die vertraute Konstruktion ruft seine Fähigkeiten als Rooks zurück.",
+      "context": "Rita (Lucy Liu) kann den Helikopter nicht fliegen. Sullivan muss die Rolle verlassen, in der er sich bislang erlebt hat. Die Erinnerung an den eigenen Entwurf erschließt ihm seine Fähigkeiten als Sebastian Rooks. Die Wiedergewinnung der Identität zeigt sich damit in einer praktischen Handlung und nicht allein in einer weiteren fremden Erklärung.",
+      "anchor": "Der selbst entworfene Helikopter macht Rooks’ Erinnerung als Können wieder zugänglich.",
+      "interest": "Eine konkrete Fähigkeit bestätigt das wiedergewonnene Selbstbild.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was enthält die zuletzt ins Meer geworfene Disk in @?",
+      "answers": [
+        "Die letzte Kopie von Ritas Daten samt Tötungsauftrag.",
+        "Die Baupläne sämtlicher Digicorp-Kongresshotels.",
+        "Die Identitätsprogramme sämtlicher Kongressteilnehmer.",
+        "Ein vollständig wirkungsloses Trainingsprogramm für Piloten."
+      ],
+      "feedback": [
+        "Die Vernichtung beendet den Zugriff auf Ritas Identität und Auftrag.",
+        "Hotelpläne sind nicht der geheime Zielinhalt.",
+        "Die letzte Kopie betrifft Rita und den gegen sie gerichteten Tötungsauftrag.",
+        "Die Disk ist kein folgenloses Flugtraining."
+      ],
+      "short": "Die Vernichtung beendet den Zugriff auf Ritas Identität und Auftrag.",
+      "context": "Die gestohlenen Daten betreffen Rita Foster (Lucy Liu) und enthalten einen Auftrag, sie zu töten. Ihre letzte Kopie wird vernichtet. Was zunächst wie ein Kampf um Firmenwissen wirkte, erhält dadurch einen persönlichen Zweck. Rooks’ vielschichtiger Plan zielte auf den Datensatz, der eine konkrete Person auffindbar und für ihre Gegner verfügbar machte.",
+      "anchor": "Die letzte Datenkopie verbindet Ritas Identität mit ihrer gezielten Tötung.",
+      "interest": "Der Inhalt erklärt den persönlichen Zweck des gesamten Spionageplans.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2002",
+        "1999",
+        "1996",
+        "2004"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2002.",
+        "1999 liegt drei Jahre vor der ersten Veröffentlichung von 2002.",
+        "1996 liegt sechs Jahre vor der ersten Veröffentlichung von 2002.",
+        "2004 ist ein späteres Jahr als das belegte erste Filmjahr 2002."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2002.",
+      "context": "Cypher erschien 2002, fünf Jahre nach Vincenzo Natalis Debüt Cube von 1997. Der Regisseur beschreibt einen Unterschied: Cube verfolgt eine Gruppe, Cypher die subjektive Erfahrung eines einzelnen Mannes. Vom gemeinsamen räumlichen Rätsel führt der spätere Film deshalb zu einer Identität, deren scheinbar feste Grundlagen sich mit jedem Auftrag verändern.",
+      "anchor": "Cube 1997 → Cypher 2002: fünf Jahre später wechselt Natali vom Gruppenrätsel zur Einzelperspektive.",
+      "interest": "Die zeitliche Verbindung zeigt zugleich eine konkrete Veränderung der Erzählperspektive.",
+      "sources": [
+        "wiki",
+        "interview",
+        "arrow"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Vincenzo Natali",
+        "David Cronenberg",
+        "Alex Proyas",
+        "Andrew Niccol"
+      ],
+      "feedback": [
+        "Vincenzo Natali führte bei diesem Film Regie.",
+        "David Cronenberg hat diesen Film nicht inszeniert; der Regiecredit lautet Vincenzo Natali.",
+        "Alex Proyas hat diesen Film nicht inszeniert; der Regiecredit lautet Vincenzo Natali.",
+        "Andrew Niccol hat diesen Film nicht inszeniert; der Regiecredit lautet Vincenzo Natali."
+      ],
+      "short": "Vincenzo Natali führte bei diesem Film Regie.",
+      "context": "Vincenzo Natali führte Regie nach einem Drehbuch von Brian King. Die vermeintlich alltägliche Arbeit als Industriespion führt schrittweise zu veränderten Identitäten. Jeremy Northams Figur erhält immer neue Erklärungen ihrer Aufgaben. Die Regie organisiert diese Enthüllungen so, dass jeder neue Auftrag zugleich das zuvor behauptete Selbstbild des Mannes unsicher macht.",
+      "anchor": "Natalis Industriespionagegeschichte lässt mit jedem Auftrag auch die Identität neu erscheinen.",
+      "interest": "Die Struktur erklärt die Verbindung von Firmenkonflikt und persönlichem Rätsel.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

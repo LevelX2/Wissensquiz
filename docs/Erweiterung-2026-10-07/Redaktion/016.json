@@ -1,0 +1,218 @@
+{
+  "rank": 16,
+  "genre": "Abenteuer",
+  "titleDe": "Die Wikinger",
+  "originalTitle": "The Vikings",
+  "year": 1958,
+  "articleUrl": "https://en.wikipedia.org/wiki/The_Vikings_(film)",
+  "familiarity": 3,
+  "selectionReason": "Erweitert die Abenteuerauswahl um Expeditionen, Entdeckungen und Entscheidungen in unbekannten Welten.",
+  "familiarity_reason": "Kirk Douglas und Tony Curtis sowie markante Wikingerbilder sichern Genreklassikerstatus; die konkrete Handlung ist weniger allgemein bekannt.",
+  "directors": [
+    "Richard Fleischer"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Doppelpremiere in New York am 11. Juni 1958; historisches Abenteuer nach Edison Marshalls Roman.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Vikings_(film)",
+    "tcm": "https://www.tcm.com/articles/202834/the-vikings"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche beiden Rivalen verkörpern Kirk Douglas und Tony Curtis in @?",
+      "answers": [
+        "Einar und Eric",
+        "Ragnar und Aella",
+        "Egbert und Sandpiper",
+        "Robin und Guy"
+      ],
+      "feedback": [
+        "Douglas spielt Einar, Curtis spielt Eric.",
+        "Ragnar und Aella werden von anderen Darstellern gespielt.",
+        "Egbert und Sandpiper sind nicht die beiden Hauptrollen.",
+        "Robin und Guy gehören in den Robin-Hood-Stoff."
+      ],
+      "short": "Douglas spielt Einar, Curtis spielt Eric.",
+      "context": "Einar (Kirk Douglas) wächst als anerkannter Sohn Ragnars auf, Eric (Tony Curtis) lebt dagegen als versklavter junger Mann. Ihre ungleiche Stellung prägt die Rivalität. Der Film verbindet persönliche Kränkungen, unbekannte Herkunft und den Kampf um Morgana. Die Gegenüberstellung der beiden Hauptrollen trägt daher mehr als einen gewöhnlichen Wettstreit zweier Krieger.",
+      "anchor": "Douglas ist der anerkannte Einar; Curtis der ausgegrenzte Eric.",
+      "interest": "Douglas ist der anerkannte Einar; Curtis der ausgegrenzte Eric.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Verletzung erleidet Einar (Kirk Douglas) in @ bei einer Auseinandersetzung mit Eric (Tony Curtis)?",
+      "answers": [
+        "Er verliert ein Auge durch einen Falken.",
+        "Er verliert mehrere Finger durch Erics Schwert.",
+        "Er erhält eine tiefe Narbe am Hals.",
+        "Er verliert das Gehör nach einem Schlag."
+      ],
+      "feedback": [
+        "Erics Falke verletzt Einar am Auge.",
+        "Die bleibende Verletzung ist das vom Falken verletzte Auge, keine Handverletzung.",
+        "Das Auge wird getroffen statt des Halses.",
+        "Die Verletzung betrifft das Sehen, nicht das Gehör."
+      ],
+      "short": "Erics Falke fügt Einar die Augenverletzung zu.",
+      "context": "Eric (Tony Curtis) setzt seinen Falken gegen Einar (Kirk Douglas) ein. Die Verletzung wird zu einem sichtbaren Zeichen ihrer Feindschaft und prägt Einars Erscheinung im weiteren Film. Der persönliche Konflikt erhält damit eine dauerhafte körperliche Erinnerung: Jeder spätere Auftritt Einars trägt die frühe Auseinandersetzung bereits im Gesicht mit sich.",
+      "anchor": "Einars fehlendes Auge hält die frühe Feindschaft sichtbar.",
+      "interest": "Einars fehlendes Auge hält die frühe Feindschaft sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wie überwindet Einar (Kirk Douglas) in @ beim Angriff auf die Burg die geschlossene Zugbrücke?",
+      "answers": [
+        "Er klettert an in das Holz geworfenen Äxten empor.",
+        "Er lässt Leitern unter dem Schutz eines Schildwalls aufstellen.",
+        "Er bricht die Sperre mit einem schweren Rammbock.",
+        "Er erklettert die Mauer mithilfe von geworfenen Seilen."
+      ],
+      "feedback": [
+        "Die feststeckenden Äxte bilden eine improvisierte Leiter.",
+        "Die Äxte bilden seine Kletterhilfe, nicht gewöhnliche Leitern.",
+        "Einar steigt über eingeworfene Äxte statt die Brücke einzurammen.",
+        "Er benutzt Äxte als Tritte und keine Seilleitern."
+      ],
+      "short": "Geworfene Äxte bilden Einars Kletterhilfe an der Zugbrücke.",
+      "context": "Die Angreifer werfen Äxte in das Holz der geschlossenen Brücke. Einar (Kirk Douglas) nutzt sie als improvisierte Stufen und gelangt nach oben. Die Waffen erfüllen damit eine zweite Funktion neben dem Kampf. Erst die räumliche Lösung erlaubt der übrigen Gruppe den Zugang; einzelne Geschicklichkeit öffnet den Weg für den gemeinsamen Angriff.",
+      "anchor": "Aus Wurfwaffen wird Einars Leiter.",
+      "interest": "Aus Wurfwaffen wird Einars Leiter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum gibt Eric (Tony Curtis) dem zum Tod verurteilten Ragnar (Ernest Borgnine) in @ noch ein Schwert?",
+      "answers": [
+        "Er will ihm einen Tod ermöglichen, der nach dessen Glauben Walhall eröffnet.",
+        "Er will Ragnar einen letzten Angriff auf den König ermöglichen.",
+        "Er will ihm eine Flucht aus der Hinrichtungsstätte erleichtern.",
+        "Er will damit seine eigene Zugehörigkeit zu den Wikingern beweisen."
+      ],
+      "feedback": [
+        "Die Waffe soll Ragnar einen Kriegertod ermöglichen.",
+        "Eric ermöglicht den Tod mit Schwert für Walhall und keinen letzten Königsangriff.",
+        "Das Schwert gilt Ragnars Glauben an den Tod im Kampf statt einer Flucht.",
+        "Die Handlung hilft Ragnar bei seiner letzten Glaubensvorstellung und ist kein bloßer Identitätsbeweis."
+      ],
+      "short": "Eric gibt Ragnar die Waffe für einen Tod als Krieger.",
+      "context": "Ragnar (Ernest Borgnine) soll ohne Waffe sterben. Eric (Tony Curtis) verändert diese Bedingung, weil sie in Ragnars Glauben über das Jenseits entscheidet. König Aella bestraft ihn dafür. Eine kleine konkrete Hilfe ist damit zugleich eine Missachtung königlicher Macht und ein Zeichen des Respekts für den Glauben eines Gefangenen.",
+      "anchor": "Das Schwert rettet nicht Ragnar, sondern die Bedeutung seines Todes.",
+      "interest": "Das Schwert rettet nicht Ragnar, sondern die Bedeutung seines Todes.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche zunächst unbekannte Verwandtschaft verbindet die Rivalen Einar (Kirk Douglas) und Eric (Tony Curtis) in @?",
+      "answers": [
+        "Sie sind Halbbrüder mit Ragnar als gemeinsamem Vater.",
+        "Sie sind Vater und Sohn.",
+        "Sie sind Cousins mütterlicherseits.",
+        "Sie sind Adoptivbrüder ohne gemeinsamen Vater."
+      ],
+      "feedback": [
+        "Beide sind Söhne Ragnars, stammen aber von verschiedenen Müttern.",
+        "Beide sind Ragnars Söhne und daher Halbbrüder.",
+        "Der gemeinsame Vater erklärt die Verbindung und keine Cousinschaft.",
+        "Die Verwandtschaft ist leiblich und beruht nicht auf Adoption."
+      ],
+      "short": "Einar und Eric sind Halbbrüder.",
+      "context": "Einar (Kirk Douglas) kennt seine anerkannte Abstammung, Eric (Tony Curtis) wächst ohne dieses Wissen als Sklave auf. Ragnar (Ernest Borgnine) ist jedoch der Vater beider Männer. Die Enthüllung verändert die Bedeutung ihres Kampfes: Rivalität und Herkunft sind miteinander verbunden, und ein Gegner wird plötzlich als Teil der eigenen Familie sichtbar.",
+      "anchor": "Unterschiedlicher Rang, gemeinsamer Vater.",
+      "interest": "Unterschiedlicher Rang, gemeinsamer Vater.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was ermöglicht Eric (Tony Curtis) im Schlussduell von @ den tödlichen Gegenschlag?",
+      "answers": [
+        "Einar zögert, weil er die Verwandtschaft erkennt.",
+        "Eric erkennt eine Schwäche in Einars verletztem Auge.",
+        "Morgana lenkt Einar durch einen Hilferuf ab.",
+        "Einar verliert auf dem nassen Boden sein Schwert."
+      ],
+      "feedback": [
+        "Einars neu gewonnenes Wissen unterbricht den tödlichen Schlag.",
+        "Einar zögert aufgrund der erkannten Verwandtschaft, nicht einer gezielt ausgenutzten Augenverletzung.",
+        "Die Verzögerung kommt aus Einars Erkenntnis und nicht Morganas Ablenkung.",
+        "Einars inneres Zögern ermöglicht den Schlag und nicht ein aus der Hand gefallenes Schwert."
+      ],
+      "short": "Einars Zögern wegen der Verwandtschaft gibt Eric die Gelegenheit.",
+      "context": "Einar (Kirk Douglas) ist im Duell zunächst überlegen. Das Wissen um Eric (Tony Curtis) als seinen Halbbruder lässt ihn jedoch im entscheidenden Moment innehalten. Eric kennt diese Beziehung noch nicht in gleicher Weise und nutzt die Gelegenheit. Die Tragik entsteht dadurch aus ungleich verteiltem Wissen, nicht bloß aus der Stärke der Kämpfer.",
+      "anchor": "Der informierte Bruder zögert; der unwissende Gegner schlägt zu.",
+      "interest": "Der informierte Bruder zögert; der unwissende Gegner schlägt zu.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Kirk Douglas und Tony Curtis erstmals veröffentlicht?",
+      "answers": [
+        "1958",
+        "1940",
+        "1965",
+        "1973"
+      ],
+      "feedback": [
+        "Die New Yorker Premiere fand 1958 statt.",
+        "1940 liegt vor diesem Douglas-Curtis-Abenteuer.",
+        "1965 ist für diesen Film zu spät.",
+        "1973 gehört zu einer anderen Generation großer Abenteuerfilme."
+      ],
+      "short": "Der Film erschien 1958.",
+      "context": "Kirk Douglas und Tony Curtis gehören zu den prägenden Stars des amerikanischen Abenteuerkinos der fünfziger Jahre. Die Norwegenbilder und die große Breitwandinszenierung kennzeichnen eine damalige Form des historischen Spektakels. Das Veröffentlichungsjahr ist von der mittelalterlichen Handlung und von späteren Film- oder Fernsehserien über Wikinger getrennt zu halten.",
+      "anchor": "1958: Douglas und Curtis im großen Breitwandabenteuer.",
+      "interest": "1958: Douglas und Curtis im großen Breitwandabenteuer.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Kirk Douglas und Tony Curtis Regie?",
+      "answers": [
+        "Richard Fleischer",
+        "Jack Cardiff",
+        "Orson Welles",
+        "Anthony Mann"
+      ],
+      "feedback": [
+        "Richard Fleischer führte Regie.",
+        "Cardiff war für die Kamera verantwortlich.",
+        "Welles spricht die Erzählerstimme im Original.",
+        "Mann inszenierte diesen Film nicht."
+      ],
+      "short": "Richard Fleischer inszenierte den Film.",
+      "context": "Richard Fleischer arbeitet hinter der Kamera, während Jack Cardiff die Bildgestaltung übernimmt und Orson Welles den Originalprolog spricht. Mehrere bekannte Filmnamen stehen daher für sehr unterschiedliche Aufgaben. Die Regiefrage verlangt, diese Credits auseinanderzuhalten. Das große Abenteuer entsteht aus ihrem Zusammenspiel, aber die Gesamtinszenierung liegt bei Fleischer.",
+      "anchor": "Fleischer inszeniert, Cardiff fotografiert, Welles erzählt.",
+      "interest": "Fleischer inszeniert, Cardiff fotografiert, Welles erzählt.",
+      "sources": [
+        "handlung",
+        "tcm"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

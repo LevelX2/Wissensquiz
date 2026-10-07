@@ -1,0 +1,228 @@
+{
+  "rank": 206,
+  "titleDe": "Die Insel",
+  "originalTitle": "The Island",
+  "year": 2005,
+  "genre": "Science-Fiction",
+  "familiarity": 2,
+  "familiarity_reason": "Klonidentitäten und ein wirtschaftlich organisierter Ausbruch ergänzen zugängliche Science-Fiction.",
+  "directors": [
+    "Michael Bay"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Erste Kinoveröffentlichung im Juli 2005.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/The_Island_(2005_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Die_Insel_(2005)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was verspricht die Lotterie den Bewohnern der Anlage in @?",
+      "answers": [
+        "Eine Reise an den angeblich letzten unverseuchten Ort.",
+        "Eine Ausbildung für ein bemanntes Raumschiff.",
+        "Die Genehmigung, eine Familie außerhalb der Anlage zu besuchen.",
+        "Einen Arbeitsplatz in der Verwaltung der Anlage."
+      ],
+      "feedback": [
+        "Die Insel wird als einzig sichere Außenwelt dargestellt.",
+        "Die Lotterie ist kein Raumfahrtprogramm.",
+        "Ein Familienbesuch wird den Bewohnern nicht versprochen.",
+        "Sie soll einen Weggang und keinen Verwaltungsjob erklären."
+      ],
+      "short": "Die Insel wird als einzig sichere Außenwelt dargestellt.",
+      "context": "Die Insel gilt als letzte sichere Zuflucht vor der vermeintlichen Kontamination. Ein Lotteriegewinn verwandelt den Weggang eines Bewohners in ein ersehntes Ereignis. Die Hoffnung hilft, den streng geregelten Alltag zu akzeptieren. Gerade die positive Bedeutung der Ziehung verhindert zunächst, dass die Bewohner nach dem tatsächlichen Schicksal der Gewinner fragen.",
+      "anchor": "Die Hoffnung auf die Insel macht das Verschwinden anderer erstrebenswert.",
+      "interest": "Das Versprechen erklärt die Stabilität des kontrollierten Alltags.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Art von Menschen sind Lincoln (Ewan McGregor) und Jordan (Scarlett Johansson) in @?",
+      "answers": [
+        "Klone zahlender Sponsoren.",
+        "Überlebende eines echten weltweiten Atomunfalls.",
+        "Ausgebildete Agenten mit gelöschter Einsatzgeschichte.",
+        "Freiwillige Mitglieder einer religiösen Gemeinschaft."
+      ],
+      "feedback": [
+        "Ihre Körper wurden als Kopien zahlender Menschen geschaffen.",
+        "Die behauptete Verseuchung ist eine Täuschung.",
+        "Ein vergessener Agenteneinsatz erklärt ihre Herkunft nicht.",
+        "Sie haben die Gemeinschaft nicht freiwillig gewählt."
+      ],
+      "short": "Ihre Körper wurden als Kopien zahlender Menschen geschaffen.",
+      "context": "Die Bewohner werden als körperliche Kopien wohlhabender Sponsoren gezüchtet. Ihre eigene Geschichte ist erfunden, damit sie ihre Rolle nicht erkennen. Lincoln und Jordan entwickeln jedoch Fragen und Wünsche. Ewan McGregor und Scarlett Johansson spielen damit Menschen, deren Verhalten dem offiziellen Bild bloß verfügbarer Körper unmittelbar widerspricht.",
+      "anchor": "Die vermeintlichen Überlebenden sind unwissende Klone ihrer Sponsoren.",
+      "interest": "Die Herkunft erklärt den grundlegenden Konflikt zwischen Selbstbestimmung und Verwertung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was bestärkt Lincolns (Ewan McGregor) Zweifel an der Verseuchung in @?",
+      "answers": [
+        "Eine lebende Motte im verbotenen Bereich.",
+        "Eine heimlich gesendete Nachricht seiner Eltern.",
+        "Ein Fernsehinterview mit einem früheren Lotteriegewinner.",
+        "Ein unterschriebener Reiseplan in Jordans Zimmer."
+      ],
+      "feedback": [
+        "Das lebende Tier passt nicht zur behaupteten tödlichen Außenwelt.",
+        "Seine angeblichen Eltern senden keine Nachricht.",
+        "Er entdeckt keinen zurückgekehrten Gewinner im Fernsehen.",
+        "Ein Reiseplan ist nicht der konkrete Beobachtungsanlass."
+      ],
+      "short": "Das lebende Tier passt nicht zur behaupteten tödlichen Außenwelt.",
+      "context": "Lincoln findet eine Motte, obwohl die Außenwelt angeblich kein Leben mehr zulässt. Die kleine Beobachtung widerspricht einer großen Behauptung. Als er dem Tier folgt, gelangt er in einen verborgenen medizinischen Bereich. Sein Zweifel entsteht somit aus einer überprüfbaren Unstimmigkeit und führt zu einer Entdeckung, die das ganze System verändert.",
+      "anchor": "Die lebende Motte widerspricht der behaupteten lebensfeindlichen Außenwelt.",
+      "interest": "Ein unscheinbarer Befund wird zum Beginn einer eigenen Untersuchung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum verrät Tom Lincoln (Ewan McGregor) in @ seinen Klon?",
+      "answers": [
+        "Er braucht dessen Leber, um seine eigene Krankheit zu überleben.",
+        "Er möchte Jordans Reiseplatz übernehmen.",
+        "Er glaubt, sein Klon habe sein Unternehmen gekauft.",
+        "Er will seine Familie vor einer ansteckenden Krankheit schützen."
+      ],
+      "feedback": [
+        "Toms Organbedarf steht über der zugesagten Hilfe.",
+        "Tom benötigt keine Reise zur versprochenen Insel.",
+        "Ein Unternehmenskauf löst seinen Verrat nicht aus.",
+        "Er schützt keine Familie vor einer Infektion des Klons."
+      ],
+      "short": "Toms Organbedarf steht über der zugesagten Hilfe.",
+      "context": "Lincoln sucht bei seinem Sponsor Hilfe, weil der andere Mensch dieselbe Identität zu besitzen scheint. Tom verspricht Unterstützung, braucht aber dessen Leber. Ewan McGregor spielt beide Figuren und macht die körperliche Gleichheit sichtbar. Ihre Interessen bleiben dennoch gegensätzlich: Was für den einen Befreiung bedeutet, gefährdet die Versorgung des anderen.",
+      "anchor": "Gleiche Körper führen nicht zu gleichen Interessen: Tom will Lincolns Leber.",
+      "interest": "Der Verrat konkretisiert den wirtschaftlichen Zweck der Klone.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie verwechselt Laurent (Djimon Hounsou) in @ Sponsor und Klon?",
+      "answers": [
+        "Lincoln legt Tom sein eigenes Identifikationsarmband an.",
+        "Jordan verändert vor Laurent beider Gesichter mit Schminke.",
+        "Tom trägt freiwillig die Kleidung sämtlicher geflohener Klone.",
+        "Lincoln fälscht vor Ort Laurents Fahndungsfoto."
+      ],
+      "feedback": [
+        "Das Armband überträgt die vermeintliche eindeutige Kennzeichnung.",
+        "Schminke erklärt die Verwechslung nicht.",
+        "Die entscheidende Kennzeichnung ist das ausgetauschte Armband.",
+        "Ein bearbeitetes Fahndungsfoto kommt dabei nicht zum Einsatz."
+      ],
+      "short": "Das Armband überträgt die vermeintliche eindeutige Kennzeichnung.",
+      "context": "Sponsor und Klon sehen gleich aus. Laurent benötigt deshalb eine Kennzeichnung, um sie im Konflikt zu unterscheiden. Lincoln verschiebt sein Armband auf Tom und nutzt damit die Annahme aus, das Etikett sei zuverlässiger als der Mensch. Der Jäger tötet den Sponsor, während der Klon dessen gesellschaftlich akzeptierte Identität übernehmen kann.",
+      "anchor": "Das Armband lässt den Sponsor als Klon erscheinen.",
+      "interest": "Ein Identifikationsmittel wird zur Schwachstelle der Verfolgung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was bewirkt Lincolns (Ewan McGregor) Angriff auf die Hologrammtechnik in @?",
+      "answers": [
+        "Die Bewohner sehen die wirkliche Umgebung ihrer Gefangenschaft.",
+        "Die Klone verlieren gleichzeitig sämtliche Erinnerungen.",
+        "Die Sponsoren erhalten die aufgezeichneten Träume ihrer Kopien.",
+        "Die Außenwelt hält das Labor für vollständig evakuiert."
+      ],
+      "feedback": [
+        "Mit der Täuschung verschwindet die falsche Landschaft.",
+        "Der Angriff löscht nicht die Gedanken der Bewohner.",
+        "Die Technik dient der Raumtäuschung und nicht der Traumübertragung.",
+        "Eine Evakuierungsmeldung ist nicht der Befreiungseffekt."
+      ],
+      "short": "Mit der Täuschung verschwindet die falsche Landschaft.",
+      "context": "Die künstliche Umgebung verbirgt, wo die Bewohner tatsächlich leben. Lincoln zerstört die Projektoren und nimmt der Anlage damit ihre scheinbare Normalität. Die Befreiung besteht nicht allein in einer geöffneten Tür: Die Menschen können nun selbst erkennen, dass ihre bisherige Welt arrangiert war. Das sichtbare Ende der Täuschung ermöglicht gemeinsames Handeln.",
+      "anchor": "Die zerstörte Projektion legt die wirkliche Anlage offen.",
+      "interest": "Das Finale verbindet räumliche Flucht mit dem Ende einer geteilten Täuschung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2005",
+        "2002",
+        "1999",
+        "2007"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2005.",
+        "2002 liegt drei Jahre vor der ersten Veröffentlichung von 2005.",
+        "1999 liegt sechs Jahre vor der ersten Veröffentlichung von 2005.",
+        "2007 ist ein späteres Jahr als das belegte erste Filmjahr 2005."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2005.",
+      "context": "Die Dreharbeiten begannen 2004; der Film erschien 2005. Seine Handlung blickt dagegen auf das damals zukünftige Jahr 2019. Die drei Zeitpunkte haben verschiedene Aufgaben: Produktion, Veröffentlichung und erfundene Zukunft. Der Kalender der Handlung gehört deshalb nicht zum Filmjahr, auch wenn er die technischen Möglichkeiten der erzählten Welt zeitlich einordnet.",
+      "anchor": "2004 Drehbeginn → 2005 Veröffentlichung; die Handlung setzt 2019 an.",
+      "interest": "Der Zusammenhang trennt die Entstehung des Films von seiner Zukunftswelt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Michael Bay",
+        "Alex Proyas",
+        "Paul Verhoeven",
+        "Roland Emmerich"
+      ],
+      "feedback": [
+        "Michael Bay führte bei diesem Film Regie.",
+        "Alex Proyas hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Bay.",
+        "Paul Verhoeven hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Bay.",
+        "Roland Emmerich hat diesen Film nicht inszeniert; der Regiecredit lautet Michael Bay."
+      ],
+      "short": "Michael Bay führte bei diesem Film Regie.",
+      "context": "Michael Bay führte Regie und war einer der Produzenten. Das Drehbuch stammt von Caspian Tredwell-Owen, Alex Kurtzman und Roberto Orci. Die Handlung bewegt sich aus streng kontrollierten Innenräumen in eine Flucht durch die Außenwelt. Dieser Wechsel erlaubt, die Entdeckung der Klone als körperliche Befreiung und als Verfolgungsgeschichte zu gestalten.",
+      "anchor": "Bays Inszenierung wechselt mit den Flüchtenden aus Kontrolle in offene Bewegung.",
+      "interest": "Die Dramaturgie erklärt die Verbindung von Zukunftsidee und Action.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

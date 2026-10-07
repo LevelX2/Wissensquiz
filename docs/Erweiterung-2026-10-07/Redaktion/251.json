@@ -1,0 +1,237 @@
+{
+  "rank": 251,
+  "titleDe": "Die Rechnung ging nicht auf",
+  "originalTitle": "The Killing",
+  "year": 1956,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Kubrick strukturiert einen Raub durch wiederholte Zeitabschnitte; ein einflussreicher Klassiker des Heist- und Noir-Kinos.",
+  "directors": [
+    "Stanley Kubrick"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Kinoöffnung am 19. Mai 1956 vor dem allgemeinen US-Start im Juli. Originaler Schwarzweißfilm nach Clean Break, keine spätere Bearbeitung.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/The_Killing_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/51890-THE-KILLING",
+      "supports": "Regie, Premiere, nichtchronologische Erzählung mit Zeitansagen, Besetzung und Romanvorlage."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Die_Rechnung_ging_nicht_auf",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    },
+    "paths": {
+      "url": "https://catalog.afi.com/Film/52321-PATHS-OF-GLORY",
+      "supports": "AFI-Credits und Veröffentlichungsjahr 1957 von Paths of Glory: Kubrick und James B. Harris."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Ziel hat Johnny Clays (Sterling Hayden) Überfallplan?",
+      "answers": [
+        "Die Kasse einer Pferderennbahn",
+        "Den Tresor eines Juweliergeschäfts",
+        "Den Geldtransport eines Casinos",
+        "Die Wechselstube eines Hafens"
+      ],
+      "feedback": [
+        "Er will die Einnahmen des großen Renntags rauben.",
+        "Ein Juwelier ist nicht das geplante Ziel.",
+        "Die Beute liegt an der Rennbahn, nicht in einem Casinotransporter.",
+        "Eine Hafenwechselstube spielt im Plan keine Rolle."
+      ],
+      "short": "Er will die Einnahmen des großen Renntags rauben.",
+      "context": "Johnny Clay (Sterling Hayden) nutzt Insider, die an der Rennbahn arbeiten. Die hohen Einnahmen eines Renntags und der gleichzeitige Publikumsbetrieb sollen den Raub ermöglichen. Der scheinbar präzise Plan verteilt begrenzte Aufgaben auf mehrere Männer. Sein Gelingen hängt deshalb nicht allein von Johnnys Können, sondern auch von deren Verhalten und Verschwiegenheit ab.",
+      "anchor": "Die Rennbahnkasse verlangt einen abgestimmten Plan mit mehreren Beteiligten.",
+      "interest": "Das Ziel erklärt die besonderen Voraussetzungen des Überfalls.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Zukunft plant Johnny (Sterling Hayden) mit Fay (Coleen Gray)?",
+      "answers": [
+        "Mit der Beute gemeinsam fortzureisen",
+        "Die Rennbahn offiziell zu kaufen",
+        "Zusammen eine Detektei zu eröffnen",
+        "Als Paar in den Polizeidienst einzutreten"
+      ],
+      "feedback": [
+        "Der Raub soll ihre gemeinsame Abreise finanzieren.",
+        "Ein legaler Kauf der Rennbahn ist nicht ihr Vorhaben.",
+        "Eine Detektei wird nicht als gemeinsamer Neuanfang geplant.",
+        "Ein Eintritt in die Polizei steht dem Vorhaben nicht zugrunde."
+      ],
+      "short": "Der Raub soll ihre gemeinsame Abreise finanzieren.",
+      "context": "Fay (Coleen Gray) wartet auf ein gemeinsames Leben mit Johnny Clay (Sterling Hayden). Für ihn soll der Überfall die finanziellen Voraussetzungen dieser Zukunft schaffen. Der Plan besitzt dadurch ein persönliches Ziel außerhalb der Gruppe. Am Flughafen treffen schließlich die private Hoffnung und die materiellen Folgen des Raubs unmittelbar aufeinander.",
+      "anchor": "Der Raub soll Johnnys und Fays gemeinsamen Aufbruch ermöglichen.",
+      "interest": "Die Beziehung erklärt, weshalb die Flucht mehr als ein letzter technischer Schritt ist.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wozu wird der Ringer Maurice (Kola Kwariani) engagiert?",
+      "answers": [
+        "Er soll eine Schlägerei an der Bar auslösen",
+        "Er soll als Ersatzjockey das Rennen verlieren",
+        "Er soll den Bankdirektor als Leibwächter begleiten",
+        "Er soll den Kassierer für mehrere Tage entführen"
+      ],
+      "feedback": [
+        "Die Schlägerei zieht Bewacher von der Geldkammer weg.",
+        "Er nimmt nicht als Jockey am Rennen teil.",
+        "Ein Bankdirektor gehört nicht zu seiner Aufgabe.",
+        "Eine längere Entführung ist nicht Teil seines begrenzten Auftrags."
+      ],
+      "short": "Die Schlägerei zieht Bewacher von der Geldkammer weg.",
+      "context": "Maurice (Kola Kwariani) kennt nur seine eigene Aufgabe und erhält dafür einen festen Betrag. Sein Tumult bindet die Sicherheitspersonen, während Johnny (Sterling Hayden) den Geldraum erreicht. Diese Arbeitsteilung begrenzt das Wissen der angeworbenen Helfer. Der Gesamtraub funktioniert durch die zeitliche Verbindung von Vorgängen, die einzeln wie voneinander unabhängige Störungen wirken.",
+      "anchor": "Maurices Barszene zieht die Bewacher zur passenden Zeit ab.",
+      "interest": "Der Zusammenhang erklärt die Funktion einer vorbereiteten Ablenkung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie erfährt Val (Vince Edwards) von der geplanten Beute?",
+      "answers": [
+        "Sherry (Marie Windsor) erzählt ihm Georges vertrauliche Mitteilung",
+        "Er liest einen beschlagnahmten Polizeibericht",
+        "Er beobachtet den Geldtransport als angestellter Wachmann",
+        "Fay (Coleen Gray) verkauft ihm Johnnys Plan"
+      ],
+      "feedback": [
+        "George vertraut seiner Frau; sie gibt das Wissen an ihren Liebhaber weiter.",
+        "Ein Polizeibericht liefert Val den Plan nicht.",
+        "Val ist kein für den Transport eingeteilter Wachmann.",
+        "Fay verrät Johnny nicht durch einen Verkauf."
+      ],
+      "short": "George vertraut seiner Frau; sie gibt das Wissen an ihren Liebhaber weiter.",
+      "context": "George Peatty (Elisha Cook Jr.) will Sherry (Marie Windsor) mit dem kommenden Geld beeindrucken. Sie teilt die Information mit Val (Vince Edwards), der den Räubern die Beute abnehmen will. Die Sicherheitslücke liegt damit nicht in der Organisation der Rennbahn, sondern in einer Beziehung außerhalb des Plans. Georges Wunsch nach Anerkennung wird zum Zugang für den zweiten Überfall.",
+      "anchor": "Georges erhoffte Anerkennung öffnet über Sherry den Zugang für Val.",
+      "interest": "Die Frage erklärt die private Ursache einer organisatorischen Katastrophe.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was verhindert Nikkis (Timothy Carey) Flucht nach dem Schuss auf das Pferd?",
+      "answers": [
+        "Ein weggeworfenes Hufeisen beschädigt seinen Reifen",
+        "Eine Zeitschaltuhr sperrt das Parkplatztor",
+        "Der Ringer nimmt versehentlich seinen Autoschlüssel mit",
+        "Der Kassierer verrät sein Kennzeichen über Lautsprecher"
+      ],
+      "feedback": [
+        "Der zuvor beleidigte Wachmann hatte das Hufeisen auf den Boden geworfen.",
+        "Ein automatisch geschlossenes Tor ist nicht die Ursache.",
+        "Ein vertauschter Schlüssel mit Maurice wird nicht gezeigt.",
+        "Eine Lautsprecherdurchsage über sein Kennzeichen stoppt ihn nicht."
+      ],
+      "short": "Der zuvor beleidigte Wachmann hatte das Hufeisen auf den Boden geworfen.",
+      "context": "Der Wachmann (James Edwards) will Nikki (Timothy Carey) mit einem Hufeisen Glück wünschen. Nikki weist ihn rassistisch zurück; der Mann wirft das Geschenk fort. Später fährt Nikki darüber und verliert seine Fluchtmöglichkeit. Die Störung des großen Plans entsteht hier aus seinem eigenen Verhalten gegenüber einem Menschen, der ihm zunächst geholfen hatte.",
+      "anchor": "Nikkis Beleidigung macht das Glücksgeschenk zur Ursache seines Fluchtversagens.",
+      "interest": "Die Szene verbindet eine persönliche Handlung mit einer materiellen Folge.",
+      "sources": [
+        "wiki"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wodurch verliert Johnny (Sterling Hayden) die Beute am Flughafen?",
+      "answers": [
+        "Der aufgegebene Koffer fällt vom Wagen und die Scheine verwehen",
+        "Ein Zollbeamter verwechselt ihn mit einem beschlagnahmten Koffer",
+        "Fay vertauscht ihn bewusst mit dem Gepäck eines anderen Paars",
+        "Ein Mitarbeiter verbrennt ihn nach einem falschen Alarm"
+      ],
+      "feedback": [
+        "Der schlecht geschlossene Koffer platzt auf dem Rollfeld auf.",
+        "Eine amtliche Verwechslung entzieht ihm die Beute nicht.",
+        "Fay führt keinen bewussten Koffertausch durch.",
+        "Der Koffer wird nicht als Alarmmaßnahme verbrannt."
+      ],
+      "short": "Der schlecht geschlossene Koffer platzt auf dem Rollfeld auf.",
+      "context": "Johnny (Sterling Hayden) darf den großen Koffer nicht als Handgepäck mitnehmen. Auf dem Rollfeld gerät der Gepäcktransport außer Kontrolle; der Koffer fällt und öffnet sich. Der Propellerwind verteilt das Geld. Nach der sorgfältigen Planung scheitert seine Zukunft dadurch an einem alltäglichen Transportvorgang, den er weder vorbereitet noch beherrscht hat.",
+      "anchor": "Der unbeeinflussbare Gepäcktransport vernichtet die Kontrolle über die Beute.",
+      "interest": "Der Schluss verbindet Planung mit einer banalen, endgültigen Zufallsfolge.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1956",
+        "1953",
+        "1950",
+        "1958"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1956.",
+        "1953 liegt drei Jahre vor der ersten Veröffentlichung von 1956.",
+        "1950 liegt sechs Jahre vor der ersten Veröffentlichung von 1956.",
+        "1958 ist ein späteres Jahr als das belegte erste Filmjahr 1956."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1956.",
+      "context": "The Killing erschien 1956 als erste gemeinsame Langfilmproduktion von Stanley Kubrick und James B. Harris. Im folgenden Jahr entstand Paths of Glory von 1957. Die Folge verbindet eine genau geplante kriminelle Operation mit einem militärischen Unternehmen, dessen Verantwortung nach dem Scheitern verschoben wird. Beide Projekte gehören zur frühen Zusammenarbeit desselben Regie- und Produktionsteams.",
+      "anchor": "The Killing 1956 → Paths of Glory 1957: im folgenden Filmjahr, mit Kubrick und Harris.",
+      "interest": "Die Verbindung ordnet den Film in eine konkrete frühe Zusammenarbeit ein.",
+      "sources": [
+        "wiki",
+        "afi",
+        "paths"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Stanley Kubrick",
+        "Robert Siodmak",
+        "John Huston",
+        "Don Siegel"
+      ],
+      "feedback": [
+        "Stanley Kubrick führte bei diesem Film Regie.",
+        "Robert Siodmak hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kubrick.",
+        "John Huston hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kubrick.",
+        "Don Siegel hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kubrick."
+      ],
+      "short": "Stanley Kubrick führte bei diesem Film Regie.",
+      "context": "Stanley Kubrick inszenierte die Adaption, Jim Thompson schrieb die Dialoge, James B. Harris produzierte. Die Handlung kehrt mehrfach zu denselben Zeitpunkten zurück und folgt dann anderen Beteiligten. Ein Erzähler nennt die zeitlichen Abstände. Das Verfahren macht den Ablauf einer koordinierten Operation nachvollziehbar und lässt zugleich sichtbar werden, wo private Entscheidungen die gemeinsame Planung gefährden.",
+      "anchor": "Kubrick rekonstruiert den Überfall durch zeitlich versetzte Perspektiven auf denselben Ablauf.",
+      "interest": "Der Regiehintergrund erklärt eine zentrale Eigenschaft der Erzählstruktur.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

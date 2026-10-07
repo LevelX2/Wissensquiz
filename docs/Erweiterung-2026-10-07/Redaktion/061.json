@@ -1,0 +1,217 @@
+{
+  "rank": 61,
+  "titleDe": "Alice im Wunderland",
+  "originalTitle": "Alice in Wonderland",
+  "year": 2010,
+  "genre": "Fantasy",
+  "familiarity": 2,
+  "directors": [
+    "Tim Burton"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten"
+  ],
+  "release_note": "Londoner Premiere am 25. Februar 2010; US-Kinostart am 5. März 2010.",
+  "familiarity_reason": "Disneys große Neuinterpretation mit Johnny Depp verbindet sehr bekannte Figuren mit einem breit ausgewerteten Kinofilm; Bekanntheit 2.",
+  "sources": {
+    "studio": "https://movies.disney.com/alice-in-wonderland-2010",
+    "handlung": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)",
+    "effekte": "https://www.foundry.com/insights/film-tv/alice-in-wonderland",
+    "animation": "https://movies.disney.com/alice-in-wonderland-1951/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Lebensphase kehrt Alice in @ nach Underland zurück?",
+      "answers": [
+        "Als junge Erwachsene von 19 Jahren",
+        "Als zehnjähriges Schulkind",
+        "Als verheiratete Frau Mitte dreißig",
+        "Als ältere Witwe"
+      ],
+      "feedback": [
+        "Alice ist 19 und erinnert sich zunächst nur bruchstückhaft an ihren früheren Besuch.",
+        "Die Rückkehr erfolgt nicht im Grundschulalter.",
+        "Sie ist noch nicht verheiratet und deutlich jünger.",
+        "Die Handlung beginnt vor Alices eigenständigem Erwachsenenleben."
+      ],
+      "short": "Alice ist 19 und erinnert sich zunächst nur bruchstückhaft an ihren früheren Besuch.",
+      "context": "Alice (Mia Wasikowska) besucht die Welt ihrer Kindheit erneut. Die vertrauten Gestalten erwarten von ihr eine Entscheidung, während sie selbst ihre Erinnerungen noch für Träume hält. Ihr Erwachsenwerden verbindet deshalb die fantastische Reise mit der Suche nach einer eigenen Lebensrichtung.",
+      "anchor": "Mit 19 zurück in die Kindheitswelt.",
+      "interest": "Die Fassung erzählt eine Rückkehr statt einer ersten Entdeckung.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum benötigt die Weiße Königin in @ jemanden, der für sie kämpft?",
+      "answers": [
+        "Sie hat sich verpflichtet, keinem Lebewesen zu schaden",
+        "Sie kann Underland nur nachts betreten",
+        "Sie verliert außerhalb ihres Schlosses ihre Zauberkraft",
+        "Sie darf nur gegen Mitglieder ihrer Familie kämpfen"
+      ],
+      "feedback": [
+        "Ihre friedfertige Haltung schließt eigenes Töten aus.",
+        "Eine Beschränkung auf die Nacht erklärt ihre Zurückhaltung nicht.",
+        "Ihre Magie funktioniert auch außerhalb des Schlosses.",
+        "Eine solche Familienregel besitzt sie nicht."
+      ],
+      "short": "Ihre friedfertige Haltung schließt eigenes Töten aus.",
+      "context": "Die Weiße Königin (Anne Hathaway) verfügt durchaus über Magie. Ihr Verzicht auf Gewalt macht jedoch eine Stellvertreterin nötig. Alice (Mia Wasikowska) soll ihre Kämpferin werden. Der Konflikt betrifft damit nicht allein überlegene Kräfte, sondern auch die Grenzen, die sich eine Herrscherin selbst setzt.",
+      "anchor": "Eine friedfertige Königin braucht eine Kämpferin.",
+      "interest": "Die Rettungsmission entsteht aus einem moralischen Selbstgebot.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Was erhält Alice in @, nachdem sie dem Bandersnatch sein verlorenes Auge zurückgibt?",
+      "answers": [
+        "Zugang zum Schwert und Unterstützung des Tieres",
+        "Den Schlüssel zur Tür in ihre eigene Welt",
+        "Die Macht, unsichtbar zu werden",
+        "Eine Karte zum Schloss der Weißen Königin"
+      ],
+      "feedback": [
+        "Das zuvor feindliche Tier lässt sie an das bewachte Schwert und hilft ihr.",
+        "Der Rückweg wird später durch das Blut des Jabberwocky möglich.",
+        "Unsichtbarkeit ist nicht die Gegenleistung des Tieres.",
+        "Eine Wegkarte bildet nicht den Kern dieses Austauschs."
+      ],
+      "short": "Das zuvor feindliche Tier lässt sie an das bewachte Schwert und hilft ihr.",
+      "context": "Alice (Mia Wasikowska) gewinnt den Bandersnatch durch die Rückgabe seines Auges. Dadurch erreicht sie das bewachte Vorpal-Schwert. Eine frühere Bedrohung wird zum Helfer: Die Waffe verdankt sie einem Akt der Wiedergutmachung, nicht einem weiteren Sieg über das Tier.",
+      "anchor": "Das zurückgegebene Auge öffnet den Weg zum Schwert.",
+      "interest": "Mitgefühl verändert eine zuvor feindliche Beziehung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Worin liegt die Verwandtschaft zwischen den beiden rivalisierenden Königinnen in @?",
+      "answers": [
+        "Sie sind Schwestern",
+        "Sie sind Mutter und Tochter",
+        "Sie sind Cousinen",
+        "Sie sind Großmutter und Enkelin"
+      ],
+      "feedback": [
+        "Der Machtkampf wird zwischen zwei Schwestern ausgetragen.",
+        "Die Weiße Königin ist nicht die Tochter der Roten Königin.",
+        "Ihre Beziehung ist enger als eine Cousinenverwandtschaft.",
+        "Zwischen ihnen liegt keine Generationenfolge von Großmutter und Enkelin."
+      ],
+      "short": "Der Machtkampf wird zwischen zwei Schwestern ausgetragen.",
+      "context": "Die Rote Königin (Helena Bonham Carter) und die Weiße Königin (Anne Hathaway) gehören derselben Familie an. Der Kampf um Underland ist daher zugleich ein familiärer Machtkonflikt. Das gemeinsame Herkunftsverhältnis macht ihre unterschiedlichen Vorstellungen von Herrschaft besonders deutlich.",
+      "anchor": "Zwei Schwestern, zwei Formen von Herrschaft.",
+      "interest": "Politische Gegnerschaft trifft auf familiäre Nähe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche auffällige Veränderung wurde an der Roten Königin in @ digital erzeugt?",
+      "answers": [
+        "Ein im Verhältnis zum Körper stark vergrößerter Kopf",
+        "Eine stark verlängerte Halslinie",
+        "Eine extrem verkleinerte Mundpartie",
+        "Eine gegenüber dem Kopf vergrößerte Körperform"
+      ],
+      "feedback": [
+        "Die Effektarbeit vergrößerte den Kopf und passte seine Verbindung zum Körper an.",
+        "Die auffällige digitale Veränderung ist der viel zu große Kopf.",
+        "Das Missverhältnis entsteht vor allem durch den Kopf und nicht durch einen verkleinerten Mund.",
+        "Der Kopf wird vergrößert, nicht der Körper im Verhältnis dazu."
+      ],
+      "short": "Die Effektarbeit vergrößerte den Kopf und passte seine Verbindung zum Körper an.",
+      "context": "Bei der Roten Königin (Helena Bonham Carter) wurden Kopf und Körper aus unterschiedlich skaliertem Bildmaterial zusammengesetzt. Hoch aufgelöste Aufnahmen hielten den vergrößerten Kopf scharf. Die sichtbare Karikatur beruht somit auf präziser Bildmontage und bleibt dennoch mit der gespielten Mimik verbunden.",
+      "anchor": "Ein übergroßer Kopf braucht passend montierte Aufnahmen.",
+      "interest": "Eine konkrete Figur erklärt die technische Verbindung von Schauspiel und digitalen Effekten.",
+      "sources": [
+        "effekte"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Welchen eigenen beruflichen Weg schlägt Alice am Ende von @ vor?",
+      "answers": [
+        "Den Handel nach China auszubauen",
+        "Als Lehrerin ein Mädcheninternat zu führen",
+        "Die Verwaltung des Familienlandsitzes zu übernehmen",
+        "Eine eigene Schneiderei zu eröffnen"
+      ],
+      "feedback": [
+        "Alice schlägt Lord Ascot vor, Handelsbeziehungen nach China auszubauen.",
+        "Eine Lehrtätigkeit ist nicht ihr Zukunftsplan.",
+        "Sie entscheidet sich für eine Reise und geschäftliche Initiative.",
+        "Eine Schneiderei bildet nicht ihr Vorhaben."
+      ],
+      "short": "Alice schlägt Lord Ascot vor, Handelsbeziehungen nach China auszubauen.",
+      "context": "Nach ihrer Rückkehr lehnt Alice (Mia Wasikowska) die erwartete Heirat ab. Lord Ascot (Tim Pigott-Smith) erkennt den Wert ihres Vorschlags, den Handel nach China auszudehnen. Die Erfahrung in Underland führt so zu einer konkreten Entscheidung in ihrer gesellschaftlichen Wirklichkeit.",
+      "anchor": "Aus der Rückkehr wird der Aufbruch nach China.",
+      "interest": "Die fantastische Bewährungsprobe verändert eine reale Lebensentscheidung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, 59 Jahre nach Disneys Zeichentrickfassung von 1951?",
+      "answers": [
+        "2010",
+        "2005",
+        "2008",
+        "2013"
+      ],
+      "feedback": [
+        "Die neue Fassung erschien 2010, also 59 Jahre nach 1951.",
+        "2005 wären nur 54 Jahre nach der Zeichentrickfassung.",
+        "2008 ergäbe einen Abstand von 57 Jahren.",
+        "2013 läge 62 Jahre nach 1951."
+      ],
+      "short": "Die neue Fassung erschien 2010, also 59 Jahre nach 1951.",
+      "context": "Disneys Zeichentrickfilm kam 1951 heraus; die neue Fassung folgte 2010. In den 59 Jahren veränderten sich auch die Möglichkeiten der Bilderzeugung: Die spätere Produktion verbindet reale Darsteller mit digital gestalteten Figuren und Räumen. Der Zeitabstand verbindet zwei verschiedene filmische Zugänge zu Carrolls Welt.",
+      "anchor": "1951 Zeichentrick, 2010 neue Fassung: 59 Jahre später.",
+      "interest": "Zwei Disney-Fassungen bieten einen nachvollziehbaren filmgeschichtlichen Zeitanker.",
+      "sources": [
+        "studio",
+        "animation"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ nach einem Drehbuch von Linda Woolverton?",
+      "answers": [
+        "Tim Burton",
+        "Terry Gilliam",
+        "Robert Zemeckis",
+        "Guillermo del Toro"
+      ],
+      "feedback": [
+        "Tim Burton führte Regie; Linda Woolverton schrieb das Drehbuch.",
+        "Gilliam verantwortete andere fantastische Welten, aber nicht diese Fassung.",
+        "Zemeckis ist nicht als Regisseur dieser Produktion ausgewiesen.",
+        "Del Toro gehört nicht zum Regieteam des Films."
+      ],
+      "short": "Tim Burton führte Regie; Linda Woolverton schrieb das Drehbuch.",
+      "context": "Tim Burton inszenierte eine neu entwickelte Rückkehrgeschichte nach Linda Woolvertons Drehbuch. Die Rollen verteilen sich klar: Das Drehbuch führt die erwachsene Alice (Mia Wasikowska) in einen neuen Konflikt, die Regie verbindet dessen reale Rahmenhandlung mit einer stark stilisierten Fantasiewelt.",
+      "anchor": "Woolvertons Rückkehrgeschichte in Burtons Regie.",
+      "interest": "Der Hintergrund unterscheidet eine Neuinterpretation von einer unveränderten Buchübertragung.",
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

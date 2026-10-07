@@ -1,0 +1,222 @@
+{
+  "rank": 45,
+  "titleDe": "Magnolia",
+  "originalTitle": "Magnolia",
+  "year": 1999,
+  "genre": "Drama",
+  "familiarity": 3,
+  "directors": [
+    "Paul Thomas Anderson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Begrenzter US-Kinostart am 17. Dezember 1999; breite Veröffentlichung am 7. Januar 2000. Das Filmjahr folgt dem früheren Start.",
+  "familiarity_reason": "Bekanntes Ensemblewerk mit Tom Cruise und mehreren wichtigen Darstellern, besonders im Autorenkino präsent; Bekanntheit 3.",
+  "sources": {
+    "afi": "https://watch.afi.com/movie/magnolia",
+    "siff": "https://www.siff.net/programs-and-events/paul-thomas-anderson/magnolia",
+    "handlung": "https://en.wikipedia.org/wiki/Magnolia_(film)",
+    "ebert": "https://www.rogerebert.com/reviews/great-movie-magnolia-1999",
+    "bfi": "https://bfidatadigipres.github.io/pdf/2023-09-03-magnolia.pdf",
+    "werk": "https://www.rogerebert.com/far-flung-correspondents/magnolia-one-day-in-the-valley"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Region verbinden sich die Lebensgeschichten von @?",
+      "answers": [
+        "Im San Fernando Valley bei Los Angeles",
+        "Im Silicon Valley bei San Francisco",
+        "Im Hudson Valley bei New York",
+        "Im Napa Valley nördlich von San Francisco"
+      ],
+      "feedback": [
+        "Die Figuren leben im San Fernando Valley.",
+        "Die Geschichte konzentriert sich nicht auf das Technologiezentrum Silicon Valley.",
+        "Das Hudson Valley ist nicht der Schauplatz.",
+        "Das kalifornische Weinbaugebiet Napa Valley bildet nicht das gemeinsame Umfeld."
+      ],
+      "short": "Die Figuren leben im San Fernando Valley.",
+      "context": "Die unterschiedlichen Figuren leben im San Fernando Valley bei Los Angeles. Ihre Wege kreuzen sich im Laufe eines ereignisreichen Tages. Der gemeinsame Raum hält das Ensemble zusammen: Man sieht einzelne Haushalte, Arbeitsplätze und Begegnungen, deren Verbindungen erst nach und nach erkennbar werden.",
+      "anchor": "Ein Tal und ein Tag verbinden das Ensemble.",
+      "interest": "Der Schauplatz erklärt die Zusammengehörigkeit der parallelen Geschichten.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Fernsehbereich verbindet mehrere Generationen in @?",
+      "answers": [
+        "Eine Quizsendung",
+        "Eine Kochsendung",
+        "Eine Gerichtssendung",
+        "Eine Sportsendung"
+      ],
+      "feedback": [
+        "Die Quizsendung verbindet aktuelle und frühere Kinderstars sowie ihre Familien.",
+        "Eine Kochsendung bildet nicht das gemeinsame berufliche Umfeld.",
+        "Die Figuren sind nicht durch einen Fernsehgerichtshof verbunden.",
+        "Eine Sportsendung trägt die Generationengeschichte nicht."
+      ],
+      "short": "Die Quizsendung verbindet aktuelle und frühere Kinderstars sowie ihre Familien.",
+      "context": "Die Sendung What Do Kids Know? verbindet Jimmy Gator (Philip Baker Hall), Stanley Spector (Jeremy Blackman) und den früheren Gewinner Donnie Smith (William H. Macy). Ihre verschiedenen Lebensphasen zeigen, dass der öffentliche Erfolg eines Kindes nicht mit einer gelungenen Kindheit oder einer sicheren Zukunft gleichzusetzen ist.",
+      "anchor": "Die Quizsendung verbindet Kindererfolg mit späteren Verletzungen.",
+      "interest": "Ein gemeinsames Medium macht mehrere Erzählstränge verständlich.",
+      "sources": [
+        "siff"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum will Donnie Smith (William H. Macy) in @ Geld für eine Zahnspange beschaffen?",
+      "answers": [
+        "Er hofft, dadurch einem Barkeeper näherzukommen.",
+        "Damit er vor den Fernsehkameras besser aussieht",
+        "Damit Zahnschmerzen seine Arbeit nicht mehr behindern",
+        "Damit er bei einem Bewerbungsgespräch überzeugt"
+      ],
+      "feedback": [
+        "Donnie verbindet die Zahnspange mit seiner Hoffnung auf Liebe.",
+        "Sein Wunsch richtet sich auf den Barkeeper und dessen Zahnspange, nicht auf einen Fernsehauftritt.",
+        "Es geht um seine erhoffte Beziehung, nicht um die Behandlung schmerzhafter Zähne.",
+        "Die Zahnspange soll eine persönliche Annäherung ermöglichen, keinen neuen Arbeitsplatz."
+      ],
+      "short": "Donnie verbindet die Zahnspange mit seiner Hoffnung auf Liebe.",
+      "context": "Donnie Smith (William H. Macy) verliebt sich in einen Barkeeper, der eine Zahnspange trägt. Er glaubt, eine ähnliche Spange könnte die erwünschte Nähe schaffen. Sein Plan verwandelt ein sichtbares Merkmal in eine vermeintliche Bedingung für Zuneigung; dafür will er sogar Geld stehlen.",
+      "anchor": "Donnie verwechselt ein gemeinsames Merkmal mit dem Weg zur Liebe.",
+      "interest": "Das scheinbar nebensächliche Objekt erschließt ein verletzliches Motiv.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche verweigerte Hilfe demütigt Stanley (Jeremy Blackman) in @ während der Quizaufzeichnung?",
+      "answers": [
+        "Sein dringender Wunsch nach einem Toilettengang wird abgewiesen.",
+        "Sein Wunsch nach einem Anruf beim Vater wird abgewiesen.",
+        "Er darf trotz Lampenfiebers die Runde nicht verlassen.",
+        "Sein Wunsch nach einer sofortigen Gewinnauszahlung wird abgewiesen."
+      ],
+      "feedback": [
+        "Stanleys dringendes körperliches Bedürfnis wird dem Fortgang der Sendung untergeordnet.",
+        "Die Demütigung betrifft sein körperliches Bedürfnis, nicht ein Telefonat.",
+        "Stanley möchte zur Toilette und nicht aus Lampenfieber aussteigen.",
+        "Die verweigerte Hilfe betrifft einen Toilettengang, keine Auszahlung."
+      ],
+      "short": "Stanleys dringendes körperliches Bedürfnis wird dem Fortgang der Sendung untergeordnet.",
+      "context": "Stanley Spector (Jeremy Blackman) soll als brillantes Kind funktionieren, während Erwachsene seine Bedürfnisse übergehen. Weil er nicht zur Toilette darf, nässt er sich ein. Die Situation kehrt das Erfolgsideal um: Seine Leistung zählt für die Sendung, doch seine körperliche und persönliche Würde bekommt zu wenig Raum.",
+      "anchor": "Das gefeierte Quizkind wird mit einem Grundbedürfnis allein gelassen.",
+      "interest": "Die Ursache der Demütigung zeigt den Preis des Leistungsdrucks.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welches außergewöhnliche Ereignis verbindet gegen Ende von @ die Krisen der Figuren?",
+      "answers": [
+        "Frösche fallen vom Himmel.",
+        "Ein Erdbeben zerstört alle Wohnungen.",
+        "Ein großer Waldbrand erreicht die Stadt.",
+        "Eine Sonnenfinsternis legt die Stromversorgung lahm."
+      ],
+      "feedback": [
+        "Der Froschregen greift in mehrere Erzählstränge ein.",
+        "Ein zerstörerisches Erdbeben ist nicht der verbindende Höhepunkt.",
+        "Ein Waldbrand löst die Krisen nicht ab.",
+        "Eine Sonnenfinsternis wird nicht als Ursache eines Stromausfalls eingesetzt."
+      ],
+      "short": "Der Froschregen greift in mehrere Erzählstränge ein.",
+      "context": "Der Froschregen unterbricht die persönlichen Katastrophen des Ensembles. Das Ereignis lässt sich nicht auf die Absichten einer einzelnen Figur reduzieren. Es erweitert die Geschichte von Zufällen und Beziehungen um einen extremen gemeinsamen Moment; die Betroffenen müssen innerhalb desselben überraschenden Geschehens weiterhandeln.",
+      "anchor": "Der Froschregen unterbricht mehrere Krisen zugleich.",
+      "interest": "Ein ungewöhnlicher Höhepunkt erklärt den gemeinsamen Rhythmus des Finales.",
+      "sources": [
+        "ebert"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wessen Lieder dienten bei @ als gemeinsamer musikalischer Faden der vielen Geschichten?",
+      "answers": [
+        "Aimee Manns",
+        "Fiona Apples",
+        "Tori Amos’",
+        "Kate Bushs"
+      ],
+      "feedback": [
+        "Aimee Manns Songs halfen Anderson, die unterschiedlichen Geschichten musikalisch zu verbinden.",
+        "Fiona Apple ist nicht die gesuchte zentrale Liedautorin.",
+        "Tori Amos liefert nicht den beschriebenen musikalischen Faden.",
+        "Kate Bushs Lieder bilden nicht diese gemeinsame Stimme."
+      ],
+      "short": "Aimee Manns Songs halfen Anderson, die unterschiedlichen Geschichten musikalisch zu verbinden.",
+      "context": "Paul Thomas Anderson wollte die vielen Handlungsstränge als eine zusammengehörige Geschichte erfahrbar machen. Aimee Manns Stimme und Songs boten ihm dafür einen musikalischen Zusammenhang. Wise Up gehörte zu den wichtigen Anregungen; Save Me wurde für den Film geschrieben und begleitet seinen Schluss.",
+      "anchor": "Manns eine Stimme verbindet die vielen Lebensgeschichten.",
+      "interest": "Die Musikfrage erschließt ein bewusstes Mittel zur Ensemblegestaltung.",
+      "sources": [
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1999",
+        "1997",
+        "2000",
+        "2002"
+      ],
+      "feedback": [
+        "Der erste begrenzte Kinostart lag im Dezember 1999.",
+        "1997 erschien Andersons vorheriger Film Boogie Nights.",
+        "2000 folgte der breite Kinostart, nicht die erste Veröffentlichung.",
+        "2002 liegt nach beiden Startphasen."
+      ],
+      "short": "Der erste begrenzte Kinostart lag im Dezember 1999.",
+      "context": "Boogie Nights erschien 1997. Zwei Jahre später, 1999, brachte Paul Thomas Anderson Magnolia zunächst in eine begrenzte Kinoauswertung. Der breite US-Start folgte im Januar 2000. Die Werkfolge 1997–1999 und der Jahreswechsel erklären, weshalb Kritiken häufig mit dem späteren Startjahr verbunden sind.",
+      "anchor": "1997 Boogie Nights, zwei Jahre später 1999 Magnolia; breiter Start 2000.",
+      "interest": "Werkfolge und Startphasen verankern das früheste Filmjahr.",
+      "sources": [
+        "siff",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Paul Thomas Anderson",
+        "Robert Altman",
+        "Paul Haggis",
+        "Todd Haynes"
+      ],
+      "feedback": [
+        "Paul Thomas Anderson schrieb und inszenierte das Ensemblewerk.",
+        "Altman ist ein wichtiger Vergleich für Ensemblefilme, aber nicht der Regisseur hier.",
+        "Haggis inszenierte ein anderes Los-Angeles-Ensembledrama.",
+        "Haynes gehört nicht zum Regiecredit von Magnolia."
+      ],
+      "short": "Paul Thomas Anderson schrieb und inszenierte das Ensemblewerk.",
+      "context": "Magnolia ist Paul Thomas Andersons dritter Langfilm nach Hard Eight und Boogie Nights. Bereits in dieser frühen Werkphase verbindet er viele Figuren, lange Szenen und wechselnde emotionale Tonlagen. Die große Besetzung entsteht aus einem von ihm geschriebenen Drehbuch; Regie und Aufbau der Verbindungen gehören damit eng zusammen.",
+      "anchor": "Andersons dritter Langfilm verbindet ein großes Ensemble.",
+      "interest": "Die Regiezuordnung bekommt einen konkreten Platz in seiner Werkentwicklung.",
+      "sources": [
+        "afi",
+        "werk"
+      ],
+      "spoiler": "gering",
+      "variant_of": "SCHAUSPIELER-202610-P01-075-M-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-075-M-1"
+    }
+  ]
+}

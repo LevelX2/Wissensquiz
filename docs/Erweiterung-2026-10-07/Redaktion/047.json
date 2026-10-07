@@ -1,0 +1,222 @@
+{
+  "rank": 47,
+  "titleDe": "The Wrestler",
+  "originalTitle": "The Wrestler",
+  "year": 2008,
+  "genre": "Drama",
+  "familiarity": 3,
+  "directors": [
+    "Darren Aronofsky"
+  ],
+  "production_countries": [
+    "USA",
+    "Frankreich"
+  ],
+  "release_note": "Erstaufführung in Venedig am 5. September 2008; begrenzter US-Kinostart am 17. Dezember 2008. Der breite US-Start folgte am 23. Januar 2009.",
+  "familiarity_reason": "International prämiertes Comebackdrama für Mickey Rourke, außerhalb des Autoren- und Sportfilmkontexts weniger ständig präsent; Bekanntheit 3.",
+  "sources": {
+    "studio": "https://www.searchlightpictures.com/thewrestler",
+    "verleih": "https://tv.apple.com/us/movie/the-wrestler/umc.cmc.54jq8mmef0l5xpbb6axsvdygf",
+    "handlung": "https://en.wikipedia.org/wiki/The_Wrestler_(2008_film)",
+    "ebert": "https://www.rogerebert.com/reviews/the-wrestler-2008",
+    "venedig": "https://www.labiennale.org/en/history-venice-film-festival",
+    "oscar": "https://www.oscars.org/oscars/ceremonies/2009/E"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche gesundheitliche Krise zwingt Randy (Mickey Rourke) in @ zum Rückzug aus dem Ring?",
+      "answers": [
+        "Ein Herzinfarkt",
+        "Eine Netzhautablösung",
+        "Ein Bruch des Sprunggelenks",
+        "Eine chronische Nierenentzündung"
+      ],
+      "feedback": [
+        "Ein Herzinfarkt macht weitere Kämpfe lebensgefährlich.",
+        "Eine Netzhautablösung ist nicht der konkrete Auslöser.",
+        "Ein Sprunggelenksbruch erklärt den ärztlichen Rückzugsrat nicht.",
+        "Eine Nierenentzündung ist nicht die zentrale Diagnose."
+      ],
+      "short": "Ein Herzinfarkt macht weitere Kämpfe lebensgefährlich.",
+      "context": "Randy Robinson (Mickey Rourke) lebt für das Wrestling, doch sein Herz hält der Belastung nicht mehr stand. Der Rückzug nimmt ihm auch Anerkennung und einen vertrauten Lebensrhythmus. Seine Suche nach einer Alternative betrifft deshalb weit mehr als eine neue Beschäftigung.",
+      "anchor": "Der Herzinfarkt bedroht Körper und vertraute Identität.",
+      "interest": "Die Diagnose erklärt, warum ein gewöhnlicher Berufswechsel so schwer wird.",
+      "sources": [
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche familiäre Beziehung versucht Randy (Mickey Rourke) in @ wiederherzustellen?",
+      "answers": [
+        "Die Beziehung zu seiner Tochter",
+        "Die Beziehung zu seinem Zwillingsbruder",
+        "Die Beziehung zu seinem Vater",
+        "Die Beziehung zu seinem Stiefsohn"
+      ],
+      "feedback": [
+        "Randy sucht wieder Kontakt zu seiner Tochter Stephanie.",
+        "Ein Zwillingsbruder gehört nicht zu dieser Versöhnungsgeschichte.",
+        "Eine Vaterbeziehung ist nicht der zentrale Familienversuch.",
+        "Ein Stiefsohn ist nicht die gesuchte Person."
+      ],
+      "short": "Randy sucht wieder Kontakt zu seiner Tochter Stephanie.",
+      "context": "Stephanie (Evan Rachel Wood) hat Randy (Mickey Rourke) als abwesenden Vater erlebt. Seine späte Annäherung kann die Vergangenheit nicht einfach löschen. Für den Mann, dessen Auftritte von eingeübten Abläufen leben, verlangt diese Beziehung eine andere Leistung: Zuverlässigkeit über einen einzelnen überzeugenden Moment hinaus.",
+      "anchor": "Bei Stephanie reicht ein guter Auftritt nicht für Vertrauen.",
+      "interest": "Das Familienziel ergänzt die berufliche Krise um einen persönlichen Einsatz.",
+      "sources": [
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wo arbeitet Randy (Mickey Rourke) in @ nach dem ärztlich empfohlenen Karriereende?",
+      "answers": [
+        "An der Feinkosttheke eines Supermarkts",
+        "Am Empfang eines Fitnessstudios",
+        "In einer Sportartikelwerkstatt",
+        "Im Sicherheitsdienst einer Arena"
+      ],
+      "feedback": [
+        "Randy übernimmt Arbeit an der Feinkosttheke.",
+        "Ein Fitnessstudio wird nicht sein neuer Arbeitsplatz.",
+        "Eine Werkstatt für Sportausrüstung ist nicht die gezeigte Alternative.",
+        "Er wechselt nicht in den Sicherheitsdienst der Arena."
+      ],
+      "short": "Randy übernimmt Arbeit an der Feinkosttheke.",
+      "context": "An der Supermarkttheke muss Randy (Mickey Rourke) Kunden bedienen, statt als Ringheld bejubelt zu werden. Die Arbeit verlangt Freundlichkeit und alltägliche Anpassung. Sein sichtbarer Körper und sein früherer Ruhm helfen ihm dort nur begrenzt; eine Begegnung mit einem erkennenden Kunden bringt den Konflikt zum Ausbruch.",
+      "anchor": "Die Feinkosttheke bietet Arbeit, aber keine vertraute Anerkennung.",
+      "interest": "Der konkrete Arbeitsplatz macht den Unterschied der Lebenswelten sichtbar.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wodurch zerstört Randy (Mickey Rourke) in @ die gerade erneuerte Nähe zu Stephanie?",
+      "answers": [
+        "Er versäumt nach einer Partynacht ihr verabredetes Abendessen.",
+        "Er schlägt Stephanies Entschuldigung aus.",
+        "Er verlangt von Stephanie Geld für seine Behandlung.",
+        "Er möchte Cassidy gegen Stephanies Willen mitbringen."
+      ],
+      "feedback": [
+        "Randy verschläft nach der Partynacht die Verabredung.",
+        "Die erneute Enttäuschung entsteht durch sein eigenes Versäumnis, nicht durch eine zurückgewiesene Entschuldigung.",
+        "Er fordert in dieser Situation keine Finanzierung von Stephanie.",
+        "Der vereinbarte gemeinsame Abend scheitert an Randys Nichterscheinen, nicht an Cassidy."
+      ],
+      "short": "Randy verschläft nach der Partynacht die Verabredung.",
+      "context": "Randy (Mickey Rourke) und Stephanie (Evan Rachel Wood) vereinbaren ein Abendessen. Er kehrt jedoch zu seinem alten Nachtleben zurück und versäumt das Treffen. Die Enttäuschung bestätigt für Stephanie das vertraute Muster seiner Abwesenheit. Der Verlust entsteht durch sein Verhalten nach der Annäherung, nicht durch fehlende versöhnliche Worte.",
+      "anchor": "Das versäumte Essen wiederholt die frühere Abwesenheit.",
+      "interest": "Eine konkrete Ursache erklärt das Scheitern des Versöhnungsversuchs.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Spannung zwischen Inszenierung und Körper zeigt @ beim Wrestling?",
+      "answers": [
+        "Die Abläufe sind gespielt, die Belastung und Verletzungen bleiben real.",
+        "Die Gegner improvisieren alles, Verletzungen werden ausschließlich vorgetäuscht.",
+        "Der Wettbewerb besteht nur aus Filmtricks ohne Körperkontakt.",
+        "Die Kämpfer trainieren nur für Preisrichter und nie für Zuschauer."
+      ],
+      "feedback": [
+        "Geskriptete Rollen schützen die Körper nicht vor echten Folgen.",
+        "Der Film trennt das gespielte Geschehen von tatsächlichem Schmerz.",
+        "Die Darstellerkörper werden sichtbar beansprucht.",
+        "Das Publikum und seine Reaktionen sind für Randy zentral."
+      ],
+      "short": "Geskriptete Rollen schützen die Körper nicht vor echten Folgen.",
+      "context": "Wrestling besitzt festgelegte Rollen und Abläufe. Randy (Mickey Rourke) fällt, kämpft und leidet dennoch mit seinem Körper. Die Geschichte nimmt diese Gleichzeitigkeit ernst: Das Spektakel kann erfunden sein, während seine körperlichen Folgen und die Abhängigkeit vom Beifall das Leben des Kämpfers tatsächlich bestimmen.",
+      "anchor": "Ein gespielter Kampf kann den Körper wirklich beschädigen.",
+      "interest": "Die Frage erschließt den Grundkonflikt des Sportschauspiels.",
+      "sources": [
+        "ebert"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Wie endet @ unmittelbar nach Randys letztem Sprung vom Ringseil?",
+      "answers": [
+        "Das Bild wird schwarz, bevor die Folgen gezeigt werden.",
+        "Ein Arzt verkündet am Ring ausdrücklich seinen Tod.",
+        "Stephanie begleitet ihn auf einen Siegerrundgang.",
+        "Die Handlung springt zu seiner vollständigen Genesung."
+      ],
+      "feedback": [
+        "Der Film beendet das sichtbare Geschehen beim Sprung.",
+        "Eine ausdrücklich gezeigte Todesdiagnose fehlt.",
+        "Ein gemeinsamer Siegerrundgang mit Stephanie ist nicht der Schluss.",
+        "Eine spätere Genesung wird nicht erzählt."
+      ],
+      "short": "Der Film beendet das sichtbare Geschehen beim Sprung.",
+      "context": "Randy (Mickey Rourke) spürt beim letzten Kampf Schmerzen und entscheidet sich trotzdem für seinen vertrauten Abschlussgriff. Der Film zeigt den Sprung und bricht dann ab. Die entscheidende Gewissheit betrifft seine Wahl für den Ring; der genaue körperliche Ausgang wird dem Zuschauer nicht nachträglich erklärt.",
+      "anchor": "Der letzte Sprung endet im Schwarzbild, ohne gezeigte Folge.",
+      "interest": "Das offene Ende verlangt, sichtbare Entscheidung und unbekanntes Ergebnis zu unterscheiden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals öffentlich gezeigt?",
+      "answers": [
+        "2008",
+        "2006",
+        "2009",
+        "2011"
+      ],
+      "feedback": [
+        "Der Film wurde 2008 in Venedig gezeigt und veröffentlicht.",
+        "2006 liegt vor dem belegten Festivaljahr.",
+        "2009 fanden die Oscarverleihung und der breite US-Start statt.",
+        "2011 liegt nach diesen Ereignissen."
+      ],
+      "short": "Der Film wurde 2008 in Venedig gezeigt und veröffentlicht.",
+      "context": "Der Film erschien 2008 und gewann im selben Jahr den Goldenen Löwen in Venedig. Mickey Rourke und Marisa Tomei erhielten für ihre Darstellungen Oscarnominierungen bei der Verleihung 2009. Erst das Filmjahr, dann im folgenden Jahr die Oscarfeier: Diese Reihenfolge hilft, die beiden Daten auseinanderzuhalten.",
+      "anchor": "2008 Film und Goldener Löwe; 2009 die Oscarnominierungen.",
+      "interest": "Die Preisfolge erklärt den häufigen Wechsel zwischen Film- und Auszeichnungsjahr.",
+      "sources": [
+        "venedig",
+        "oscar",
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Darren Aronofsky",
+        "Robert D. Siegel",
+        "David O. Russell",
+        "Gavin O’Connor"
+      ],
+      "feedback": [
+        "Darren Aronofsky inszenierte den Film.",
+        "Robert D. Siegel schrieb das Drehbuch.",
+        "Russell führte nicht bei dieser Wrestlinggeschichte Regie.",
+        "O’Connor ist für andere Sportdramen bekannt, nicht für diese Regie."
+      ],
+      "short": "Darren Aronofsky inszenierte den Film.",
+      "context": "Darren Aronofsky führt Regie nach einem Drehbuch von Robert D. Siegel. Mickey Rourkes körperliche Darstellung steht dabei im Mittelpunkt, während Cassidy (Marisa Tomei) und Stephanie (Evan Rachel Wood) andere Möglichkeiten von Nähe eröffnen. Die Funktion des Drehbuchautors ist von der Inszenierung dieser Begegnungen zu unterscheiden.",
+      "anchor": "Siegel schreibt, Aronofsky inszeniert Rourkes Ring- und Alltagswelt.",
+      "interest": "Die Regiefrage unterscheidet zwei tatsächlich beteiligte kreative Funktionen.",
+      "sources": [
+        "ebert"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "production_note": "Die lizenzierten Fox-Searchlight-Metadaten bei Apple nennen USA und Frankreich als Herkunft; Wikipedia führt nur USA. Der französische Beitrag wird hier mitgeführt."
+}

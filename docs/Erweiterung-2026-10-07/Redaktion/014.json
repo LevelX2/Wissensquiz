@@ -1,0 +1,219 @@
+{
+  "rank": 14,
+  "genre": "Abenteuer",
+  "titleDe": "Die Reise zum Mittelpunkt der Erde",
+  "originalTitle": "Journey to the Center of the Earth",
+  "year": 2008,
+  "articleUrl": "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth_(2008_theatrical_film)",
+  "familiarity": 2,
+  "selectionReason": "Erweitert die Abenteuerauswahl um Expeditionen, Entdeckungen und Entscheidungen in unbekannten Welten.",
+  "familiarity_reason": "Weithin zugänglicher 3D-Abenteuerfilm mit Brendan Fraser; die konkrete moderne Rahmenhandlung unterscheidet ihn von älteren Verfilmungen.",
+  "directors": [
+    "Eric Brevig"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Kinostart am 11. Juli 2008. Gemeint ist ausdrücklich der Kinofilm mit Brendan Fraser, nicht die anderen Verfilmungen desselben Jahres.",
+  "series": "Journey",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth_(2008_theatrical_film)",
+    "studio": "https://www.walden.com/filmtv/journeytothecenter"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Familienbeziehung verbindet Trevor (Brendan Fraser) und Sean (Josh Hutcherson) in der Kinofassung von @?",
+      "answers": [
+        "Trevor ist Seans Onkel.",
+        "Trevor ist Seans Vater.",
+        "Trevor ist Seans älterer Bruder.",
+        "Trevor ist Seans Cousin."
+      ],
+      "feedback": [
+        "Trevor ist der Bruder von Seans verschwundenem Vater.",
+        "Trevor ist der Onkel und nicht der Vater.",
+        "Der Familienbezug ist Onkel und Neffe statt Brüder.",
+        "Trevor gehört zur älteren Generation als Seans Onkel."
+      ],
+      "short": "Trevor ist Seans Onkel und der Bruder seines Vaters.",
+      "context": "Sean (Josh Hutcherson) soll einige Tage bei seinem Onkel Trevor (Brendan Fraser) verbringen. Trevors Bruder Max ist seit langem verschwunden. Die Entdeckung seiner Notizen verbindet den Besuch mit einer gemeinsamen Suche. Die Reise dient dadurch nicht nur einer wissenschaftlichen Idee, sondern auch der Frage, was aus Seans Vater geworden ist.",
+      "anchor": "Die Expedition beginnt mit einem Onkelbesuch und der Spur des Vaters.",
+      "interest": "Die Expedition beginnt mit einem Onkelbesuch und der Spur des Vaters.",
+      "sources": [
+        "handlung",
+        "studio"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "In welches Land führt die Spur von Max’ Notizen die Gruppe zu Beginn der modernen Kinofassung von @?",
+      "answers": [
+        "Island",
+        "Marokko",
+        "Australien",
+        "Kanada"
+      ],
+      "feedback": [
+        "Die Gruppe reist zunächst nach Island.",
+        "Marokko ist nicht das erste Suchziel.",
+        "Australien bildet nicht den Eingang der Expedition.",
+        "Kanada ist nicht die Station der Notizenspur."
+      ],
+      "short": "Die Notizen führen Trevor und Sean nach Island.",
+      "context": "Trevor (Brendan Fraser) erkennt in Max’ Notizen Hinweise, die zu Messdaten aus Island passen. Sean (Josh Hutcherson) will ihn begleiten, weil die Spur seinen Vater betrifft. Vor Ort hilft Hannah (Anita Briem) der Gruppe. Der geografische Weg ergibt sich damit aus einer Verbindung persönlicher Hinterlassenschaft und neuer Messwerte.",
+      "anchor": "Max’ Buchnotizen und aktuelle Messwerte zeigen nach Island.",
+      "interest": "Max’ Buchnotizen und aktuelle Messwerte zeigen nach Island.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche besondere Rolle hat Jules Vernes Roman innerhalb der modernen Handlung von @?",
+      "answers": [
+        "Er gilt manchen Figuren als Bericht über tatsächlich auffindbare Orte.",
+        "Er dient als verschlüsseltes Tagebuch von Seans Vater.",
+        "Er enthält nachträglich eingetragene Pläne eines Forschungsinstituts.",
+        "Er gilt als absichtlich falscher Wegweiser des verschwundenen Forschers."
+      ],
+      "feedback": [
+        "Max und Hannahs Vater behandelten Vernes Werk als mögliche Wirklichkeitsbeschreibung.",
+        "Manche Figuren verstehen Vernes Buch als tatsächlichen Ortsbericht und nicht als privates Tagebuch.",
+        "Die Rolle betrifft den Romantext selbst statt neue Institutspläne.",
+        "Der Roman wird gerade als auffindbare Beschreibung ernst genommen und nicht als falsche Spur."
+      ],
+      "short": "Der Roman existiert im Film und wird als möglicher Tatsachenbericht gelesen.",
+      "context": "Die Verfilmung erzählt nicht nur Vernes alte Reise nach. Trevor (Brendan Fraser) und Sean (Josh Hutcherson) besitzen im modernen Alltag ein Exemplar des Romans mit Max’ Notizen. Manche Figuren glauben, seine Orte ließen sich wirklich finden. Das literarische Werk wird damit selbst zum Gegenstand der Handlung und zum Werkzeug der Expedition.",
+      "anchor": "Die Figuren reisen mithilfe eines Buchs, das auch wir als Roman kennen.",
+      "interest": "Die Figuren reisen mithilfe eines Buchs, das auch wir als Roman kennen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum muss die Gruppe in @ nach ihrer Entdeckung der unterirdischen Welt schnell einen Rückweg finden?",
+      "answers": [
+        "Die Temperatur steigt und das Wasser für den Ausweg droht zu verschwinden.",
+        "Ein Einsturz droht, den einzigen bekannten Zugang zu schließen.",
+        "Ihre Sauerstoffvorräte reichen nur noch für wenige Stunden.",
+        "Eine Flutwelle steht unmittelbar vor dem Höhlensystem."
+      ],
+      "feedback": [
+        "Max’ Aufzeichnungen zeigen eine gefährliche Erwärmung.",
+        "Steigende Temperatur und schwindendes Wasser schaffen den Zeitdruck.",
+        "Die konkrete Gefahr liegt im Wasserverlust durch Hitze, nicht Sauerstoffflaschen.",
+        "Der bedrohte Ausweg ergibt sich aus Hitze und Wasserverlust statt einer herannahenden Flut."
+      ],
+      "short": "Die Erwärmung gefährdet das Überleben und den möglichen Ausweg.",
+      "context": "Trevor (Brendan Fraser) liest Max’ Aufzeichnungen und erkennt die Veränderung der unterirdischen Umgebung. Die Entdeckung ist deshalb kein dauerhaft bewohnbarer Wunderraum. Wasser und Temperatur setzen ein Zeitfenster für die Flucht. Die Reise wechselt von neugieriger Erkundung zu einer Entscheidung unter Druck: Jeder Umweg kann die Chance auf Rückkehr verkleinern.",
+      "anchor": "Die Wärme schließt das Zeitfenster für den Rückweg.",
+      "interest": "Die Wärme schließt das Zeitfenster für den Rückweg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie nutzt Trevor (Brendan Fraser) im Finale von @ sein Fachwissen, um die Gruppe zurückzubringen?",
+      "answers": [
+        "Er zündet eine magnesiumhaltige Wand und ermöglicht einen Geysir.",
+        "Er lässt einen unterirdischen Fluss durch eine Sprengung umlenken.",
+        "Er baut aus dem Floß einen Heißluftauftrieb.",
+        "Er nutzt einen Gasstrom aus einer geöffneten Erdspalte."
+      ],
+      "feedback": [
+        "Die Zündung bringt Wasser und Hitze für den Ausstoß zusammen.",
+        "Die magnesiumhaltige Wand ermöglicht den Geysir; ein umgeleiteter Fluss ist eine andere Methode.",
+        "Die Flucht nutzt einen Geysir und kein Heißluftfloß.",
+        "Die gezündete Magnesiumwand ist entscheidend statt eines bloßen Gasstroms."
+      ],
+      "short": "Trevor ermöglicht mithilfe der magnesiumhaltigen Wand den Geysir-Ausweg.",
+      "context": "Der erwartete Geysir ist zunächst trocken. Trevor (Brendan Fraser) erkennt jedoch Wasser hinter einer Wand und nutzt deren Materialeigenschaft. Seine Lösung verbindet Beobachtung, Wissen und ein vorhandenes Hilfsmittel. Die Rettung ist damit kein zufälliges Wunder, obwohl die Landschaft fantastisch ist: Ein konkretes Problem wird durch einen aus der Umgebung abgeleiteten Eingriff gelöst.",
+      "anchor": "Das trockene Ziel wird durch Materialwissen wieder zum Ausweg.",
+      "interest": "Das trockene Ziel wird durch Materialwissen wieder zum Ausweg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Wiederkehr verbindet am Ende von @ den unterirdischen Fund mit Trevors (Brendan Fraser) bedrohtem Labor?",
+      "answers": [
+        "Mitgebrachte Diamanten ermöglichen neue Finanzierung.",
+        "Ein veröffentlichtes Tagebuch verschafft dem Labor Fördergeld.",
+        "Eine mineralische Probe wird als Patent verkauft.",
+        "Sean überträgt dem Labor eine geerbte Versicherungssumme."
+      ],
+      "feedback": [
+        "Seans Diamanten liefern Mittel zur Rettung des Labors.",
+        "Die mitgebrachten Diamanten liefern die Finanzierung und kein Bucherlös.",
+        "Wertvolle Diamanten statt eines Patents retten das Labor finanziell.",
+        "Das Geld kommt aus dem Fund, nicht einer Erbschaft Seans."
+      ],
+      "short": "Seans mitgebrachte Diamanten ermöglichen die Finanzierung des Labors.",
+      "context": "Am Anfang verliert Trevors (Brendan Fraser) Forschungseinrichtung ihre finanzielle Grundlage. Sean (Josh Hutcherson) nimmt unterwegs Diamanten mit, die später den Alltag verändern. Der Fund erhält so eine zweite Funktion neben seinem Abenteuerwert. Die Rückkehr beantwortet nicht nur die unmittelbare Fluchtfrage, sondern greift auch ein zunächst gewöhnliches Problem vom Beginn wieder auf.",
+      "anchor": "Unterirdische Diamanten lösen das oberirdische Finanzproblem.",
+      "interest": "Unterirdische Diamanten lösen das oberirdische Finanzproblem.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien die Kinofassung von @ mit Brendan Fraser und Josh Hutcherson erstmals?",
+      "answers": [
+        "2008",
+        "1959",
+        "1999",
+        "2012"
+      ],
+      "feedback": [
+        "Diese moderne Kinofassung erschien 2008.",
+        "1959 gehört zu einer älteren Verfilmung.",
+        "1999 liegt vor dieser modernen Fassung.",
+        "2012 gehört zur Fortsetzung mit der geheimnisvollen Insel."
+      ],
+      "short": "Die gemeinte moderne Kinofassung erschien 2008.",
+      "context": "Der bekannte Verne-Titel besitzt mehrere Verfilmungen. Diese Frage bezeichnet ausdrücklich den modernen Kinofilm mit Brendan Fraser und Josh Hutcherson. Im selben Jahr existierten außerdem andere Fassungen für Fernsehen und Video. Titel allein reichen deshalb nicht für eine Filmidentität: Besetzung, Medium und Erstveröffentlichung müssen zusammenpassen, damit ein Jahr eindeutig zugeordnet werden kann.",
+      "anchor": "Fraser und Hutcherson kennzeichnen die Kinofassung von 2008.",
+      "interest": "Fraser und Hutcherson kennzeichnen die Kinofassung von 2008.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Kinofassung von @ mit Brendan Fraser Regie?",
+      "answers": [
+        "Eric Brevig",
+        "Henry Levin",
+        "Brad Peyton",
+        "Mark Waters"
+      ],
+      "feedback": [
+        "Eric Brevig führte bei dieser modernen Kinofassung Regie.",
+        "Henry Levin inszenierte eine ältere Verfilmung.",
+        "Peyton übernahm später die Fortsetzung.",
+        "Waters führte hier nicht Regie."
+      ],
+      "short": "Eric Brevig inszenierte den modernen Kinofilm.",
+      "context": "Eric Brevig führt die moderne Dreiergruppe durch eine fantastische unterirdische Welt. Brendan Fraser spielt den Wissenschaftler Trevor, Josh Hutcherson dessen Neffen Sean und Anita Briem die Führerin Hannah. Der gemeinsame Titel mit älteren Filmen darf den Credit nicht verdecken: Die hier gesuchte Inszenierung gehört zur ausdrücklich bezeichneten modernen Kinofassung.",
+      "anchor": "Brevig inszeniert Frasers moderne Verne-Expedition.",
+      "interest": "Brevig inszeniert Frasers moderne Verne-Expedition.",
+      "sources": [
+        "handlung",
+        "studio"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

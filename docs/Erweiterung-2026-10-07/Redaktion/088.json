@@ -1,0 +1,218 @@
+{
+  "rank": 88,
+  "titleDe": "Hellraiser",
+  "originalTitle": "Hellraiser",
+  "year": 1987,
+  "genre": "Horror",
+  "familiarity": 2,
+  "directors": [
+    "Clive Barker"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich"
+  ],
+  "release_note": "Britischer Kinostart am 11. September 1987; US-Kinostart am 18. September 1987.",
+  "familiarity_reason": "Der Rätselwürfel, die Cenobiten und die lange Filmreihe machen Barkers erste Fassung zu einem weithin erkennbaren Horrorklassiker; Bekanntheit 2.",
+  "sources": {
+    "autor": "https://www.clivebarker.info/hellraiser.html",
+    "kritik": "https://www.rogerebert.com/reviews/hellraiser-1987",
+    "handlung": "https://en.wikipedia.org/wiki/Hellraiser",
+    "buch": "https://clivebarker.info/hellboundhbib.html"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Gegenstand öffnet in @ den Zugang zu den Cenobiten?",
+      "answers": [
+        "Ein mechanischer Rätselwürfel",
+        "Ein handgeschriebenes Gebetbuch",
+        "Eine Spieluhr mit zerbrochenem Spiegel",
+        "Ein Ring mit einem beweglichen Stein"
+      ],
+      "feedback": [
+        "Das Lösen der rätselhaften Box öffnet den Zugang.",
+        "Ein Gebetbuch erfüllt diese Funktion nicht.",
+        "Eine Spieluhr ist nicht das entscheidende Tor.",
+        "Ein Ring öffnet die andere Dimension nicht."
+      ],
+      "short": "Das Lösen der rätselhaften Box öffnet den Zugang.",
+      "context": "Frank (Sean Chapman) sucht in dem Rätselwürfel eine neue körperliche Erfahrung. Das Öffnen führt jedoch zu den Cenobiten. Der Gegenstand verbindet geistige Beschäftigung mit körperlichen Folgen: Wer die Form richtig verändert, erhält keinen bloßen Hinweis, sondern setzt eine Begegnung in Gang, deren Bedingungen er nicht beherrscht.",
+      "anchor": "Das gelöste Rätsel öffnet ein Tor zu körperlich wirksamen Folgen.",
+      "interest": "Zeigt die Verbindung zwischen Verlockung, Handlung und Konsequenz.",
+      "sources": [
+        "autor"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Warum hilft Julia in @ dem zurückgekehrten Frank?",
+      "answers": [
+        "Sie will ihre frühere leidenschaftliche Beziehung zu ihm wieder aufnehmen.",
+        "Sie möchte ihre Schuld an seinem früheren Tod wiedergutmachen.",
+        "Sie glaubt, nur Frank könne Larry vor den Cenobiten retten.",
+        "Sie hofft, Franks Rückkehr löse den Würfelfluch endgültig."
+      ],
+      "feedback": [
+        "Ihre frühere Affäre macht sie empfänglich für seinen Plan.",
+        "Ihr Begehren nach Frank treibt sie an, nicht eine Wiedergutmachung seines Todes.",
+        "Sie unterstützt Frank aus eigener Leidenschaft und nicht zur Rettung Larrys.",
+        "Sie hilft seiner körperlichen Wiederherstellung, ohne damit den Zugang der Cenobiten endgültig zu schließen."
+      ],
+      "short": "Ihre frühere Affäre macht sie empfänglich für seinen Plan.",
+      "context": "Julia (Clare Higgins) ist mit Larry (Andrew Robinson) verheiratet, fühlt sich aber weiterhin zu dessen Bruder Frank (Sean Chapman) hingezogen. Ihr Verlangen gibt dem übernatürlichen Vorgang menschliche Unterstützung. Der Film lässt die Bedrohung dadurch nicht nur von außen eindringen; sie wird innerhalb einer Beziehung bewusst gefördert.",
+      "anchor": "Julias unerfülltes Verlangen macht sie zu Franks Helferin.",
+      "interest": "Erklärt die menschliche Motivation hinter der Wiederkehr der Bedrohung.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was löst in @ Franks erste körperliche Wiederkehr aus?",
+      "answers": [
+        "Larrys Blut tropft in den Boden über Franks Resten.",
+        "Julia legt den Würfel in kochendes Wasser.",
+        "Kirsty liest versehentlich ein Ritual laut vor.",
+        "Frank erhält eine Nachricht mit seinem vollständigen Namen."
+      ],
+      "feedback": [
+        "Das Blut des verletzten Larry erreicht die Überreste im Haus.",
+        "Kochendes Wasser aktiviert die Wiederkehr nicht.",
+        "Ein vorgelesenes Ritual ist nicht der Auslöser.",
+        "Eine Namensnachricht stellt den Körper nicht wieder her."
+      ],
+      "short": "Das Blut des verletzten Larry erreicht die Überreste im Haus.",
+      "context": "Larry (Andrew Robinson) verletzt sich beim Einzug. Sein Blut erreicht die Stelle, an der Franks Überreste liegen. Der harmlose häusliche Unfall bekommt dadurch eine zweite Bedeutung. Die Familie bringt unwissentlich die Voraussetzung für eine Rückkehr hervor, deren Ursprung im eigenen Haus verborgen geblieben war.",
+      "anchor": "Das Blut eines Einzugsunfalls erreicht Franks verborgene Überreste.",
+      "interest": "Verbindet einen alltäglichen Vorgang mit der fantastischen Ursache.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum entspricht die Erfahrung bei den Cenobiten in @ nicht Franks erwarteter Lust?",
+      "answers": [
+        "Für sie sind extreme Lust und Schmerz nicht mehr voneinander getrennt.",
+        "Sie gewähren Lust nur als Erinnerung an frühere Erlebnisse.",
+        "Sie können Lust erst nach völliger Gefühllosigkeit geben.",
+        "Sie trennen körperlichen Schmerz strikt von jeder Lust."
+      ],
+      "feedback": [
+        "Die gesuchte Grenzerfahrung umfasst unerträglichen Schmerz.",
+        "Die Grenzerfahrung ist körperlich und keine reine Erinnerung.",
+        "Sie heben die Grenze von Lust und Schmerz auf und versprechen keine schmerzlose Betäubung.",
+        "Gerade die fehlende Trennung zwischen beiden Erfahrungen widerspricht Franks Erwartung."
+      ],
+      "short": "Die gesuchte Grenzerfahrung umfasst unerträglichen Schmerz.",
+      "context": "Frank (Sean Chapman) will Erfahrungen jenseits gewöhnlicher Grenzen. Die Cenobiten bieten solche Empfindungen, trennen dabei aber Lust und Schmerz nicht nach seinen Erwartungen. Sein Fehler liegt deshalb im Verständnis des Versprechens. Er öffnet den Zugang zu einer Ordnung, deren Begriffe nicht dieselben sind wie seine Wünsche.",
+      "anchor": "Franks Wunsch nach extremer Lust führt in eine Ordnung ohne seine Schmerzgrenze.",
+      "interest": "Erklärt den Widerspruch zwischen einem Versprechen und dessen tatsächlicher Bedeutung.",
+      "sources": [
+        "autor"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welches Angebot macht Kirsty in @ den Cenobiten, um zunächst verschont zu werden?",
+      "answers": [
+        "Sie führt sie zu Frank, der ihrer Gewalt entkommen ist.",
+        "Sie verspricht ihnen das Haus als dauerhaften Wohnort.",
+        "Sie bietet die Herstellung weiterer Rätselwürfel an.",
+        "Sie will alle Erinnerungen an ihren Vater löschen lassen."
+      ],
+      "feedback": [
+        "Frank ist der entkommene Gefangene, den sie zurückholen wollen.",
+        "Das Haus ist nicht Gegenstand dieses Handels.",
+        "Sie bietet keine Werkstatt für weitere Würfel an.",
+        "Eine Erinnerungslöschung bildet nicht die Verhandlung."
+      ],
+      "short": "Frank ist der entkommene Gefangene, den sie zurückholen wollen.",
+      "context": "Kirsty (Ashley Laurence) erkennt, dass die Cenobiten einen eigenen Anspruch auf Frank haben. Sie nutzt dieses Ziel als Verhandlungsmöglichkeit. Die Rettung beruht daher zunächst nicht auf Stärke, sondern auf Information: Sie kennt einen Vorgang, den die mächtigen Wesen verfolgen wollen und nicht selbst überblicken.",
+      "anchor": "Kirstys Wissen um Franks Flucht ermöglicht den vorläufigen Handel.",
+      "interest": "Zeigt den taktischen Wert einer Information gegenüber einem überlegenen Gegner.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie wehrt Kirsty in @ die Cenobiten ab, nachdem sie den Handel brechen?",
+      "answers": [
+        "Sie bewegt die Teile des Würfels in umgekehrter Folge.",
+        "Sie zerbricht den Würfel mit einem Hammer.",
+        "Sie taucht den Würfel in geweihtes Wasser.",
+        "Sie wirft den Würfel sofort aus dem Fenster."
+      ],
+      "feedback": [
+        "Die umgekehrte Manipulation schließt den zuvor geöffneten Zugang.",
+        "Ein Hammerschlag ist nicht ihr entscheidendes Mittel.",
+        "Geweihtes Wasser liefert nicht die Abwehr.",
+        "Ein bloßer Wurf beendet die Begegnung nicht."
+      ],
+      "short": "Die umgekehrte Manipulation schließt den zuvor geöffneten Zugang.",
+      "context": "Kirsty (Ashley Laurence) verwendet den Würfel selbst, als die Cenobiten sie dennoch holen wollen. Die Umkehrung des Öffnens gibt ihr Handlungsmacht über den Zugang. Der Gegenstand bleibt gefährlich, aber seine Funktionsweise lässt sich nutzen. Verstehen ersetzt hier ein Vertrauen auf die Zusagen der Gegner.",
+      "anchor": "Die umgekehrte Würfelbewegung schließt den gefährlichen Zugang.",
+      "interest": "Verbindet die Rettung mit dem zuvor eingeführten Mechanismus des Gegenstands.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, ein Jahr nach der ersten Veröffentlichung von „The Hellbound Heart“?",
+      "answers": [
+        "1987",
+        "1986",
+        "1990",
+        "1994"
+      ],
+      "feedback": [
+        "Die Erzählung erschien 1986 in Night Visions 3; der Film folgte 1987.",
+        "1986 ist das Jahr der US-Erstveröffentlichung der Vorlage.",
+        "1990 liegt vier Jahre nach der Vorlage.",
+        "1994 liegt acht Jahre nach deren erster Veröffentlichung."
+      ],
+      "short": "Die Erzählung erschien 1986 in Night Visions 3; der Film folgte 1987.",
+      "context": "The Hellbound Heart wurde 1986 in der US-Anthologie Night Visions 3 veröffentlicht. Hellraiser folgte 1987, nur ein Jahr später. Clive Barker übertrug damit einen frisch erschienenen eigenen Stoff selbst auf die Leinwand. Spätere Buchausgaben dürfen nicht mit diesem ersten Veröffentlichungszeitpunkt verwechselt werden.",
+      "anchor": "1986 die Anthologie-Erzählung, schon 1987 Barkers Verfilmung.",
+      "interest": "Verankert das Filmjahr in der raschen Bearbeitung der eigenen Vorlage.",
+      "sources": [
+        "buch",
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte beim ursprünglichen @ Regie?",
+      "answers": [
+        "Clive Barker",
+        "Tony Randel",
+        "Anthony Hickox",
+        "David Bruckner"
+      ],
+      "feedback": [
+        "Clive Barker schrieb und inszenierte den ersten Film.",
+        "Randel führte bei der ersten Fortsetzung Regie.",
+        "Hickox inszenierte den dritten Film.",
+        "Bruckner inszenierte die neue Fassung von 2022."
+      ],
+      "short": "Clive Barker schrieb und inszenierte den ersten Film.",
+      "context": "Clive Barker wollte seine eigenen Drehbuchbilder selbst auf die Leinwand bringen und übernahm die Regie. Er beschrieb die Wirkung als gemeinschaftliche Arbeit, besonders mit dem Masken- und Effektteam um Bob Keen. Die monströsen Körper entstanden dadurch aus Zeichnungen, handwerklicher Entwicklung und der filmischen Präsentation dieser Gestalten.",
+      "anchor": "Barker übernimmt die Regie, um seine eigenen Bilder mit dem Effektteam umzusetzen.",
+      "interest": "Verbindet den Regiecredit mit einer belegten Motivation und Arbeitsweise.",
+      "sources": [
+        "autor"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "series": "Hellraiser"
+}

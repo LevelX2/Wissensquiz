@@ -13,7 +13,7 @@ test("240-Film-Paket lädt einmal, zeigt das vollständige Hondo-Regieteam erst 
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const state = await readStoredState(page);
-  expect(state.questions).toHaveLength(8397);
+  expect(state.questions).toHaveLength(10877);
   expect(
     state.questions.filter((q) => q.id.startsWith("F240-20261006-")),
   ).toHaveLength(1920);
@@ -80,7 +80,7 @@ test("240-Film-Paket lädt einmal, zeigt das vollständige Hondo-Regieteam erst 
     ),
   ).toBe(expectedCsv);
   const saved = await readStoredState(page);
-  expect(saved.questions).toHaveLength(8397);
+  expect(saved.questions).toHaveLength(10877);
   expect(
     saved.questions.filter((q) => q.id.startsWith("F240-20261006-")),
   ).toHaveLength(1920);

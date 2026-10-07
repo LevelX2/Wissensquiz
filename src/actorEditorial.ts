@@ -1,6 +1,7 @@
 import type { Question } from "./model";
 import editorial from "./actorEditorial.json" with { type: "json" };
 import supplements from "./actorSupplementEditorial.json" with { type: "json" };
+import expansion from "../docs/Erweiterung-2026-10-07/Personen-Anzeige.json" with { type: "json" };
 
 type Entry = {
   personId: string;
@@ -14,6 +15,7 @@ type Entry = {
 const entries: Record<string, Entry> = {
   ...editorial.questions,
   ...supplements.questions,
+  ...expansion.questions,
 };
 // Presentation only: imported content, question versions, scoring and historical
 // snapshots remain unchanged. Custom questions with reused IDs are not rewritten.

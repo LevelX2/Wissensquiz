@@ -1,0 +1,238 @@
+{
+  "rank": 232,
+  "titleDe": "Dressed to Kill",
+  "originalTitle": "Dressed to Kill",
+  "year": 1980,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Die Ermittlung bindet Blick, Zeugenschaft und eine mehrdeutige Täteridentität an markante Szenen.",
+  "directors": [
+    "Brian De Palma"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste US-Kinoveröffentlichung 1980; keine spätere Neuauflage oder Restaurierung als neues Filmjahr.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Dressed_to_Kill_(1980_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/28686-dressed-to-kill",
+      "supports": "Jahr, Regie, Originalbesetzung, Schauplatz und Grundkonflikt."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/3691-dressed-to-kill-the-power-of-two",
+      "supports": "Bezug zu Hitchcocks Psycho von 1960 und Erscheinungsjahr 1980."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Dressed_to_Kill_(1980)",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo wird Kate Miller (Angie Dickinson) ermordet?",
+      "answers": [
+        "In einem Aufzug",
+        "In einem Museumsdepot",
+        "In einem U-Bahn-Waggon",
+        "In einem Therapiezimmer"
+      ],
+      "feedback": [
+        "Die tödliche Attacke findet im Aufzug des Wohnhauses statt.",
+        "Das Museum ist eine frühere Station ihrer Begegnung, nicht der Mordort.",
+        "Die U-Bahn wird erst für Liz zur Gefahr.",
+        "Die Therapiepraxis ist nicht der Ort von Kates Ermordung."
+      ],
+      "short": "Die tödliche Attacke findet im Aufzug des Wohnhauses statt.",
+      "context": "Kate Miller (Angie Dickinson) hat das Haus ihres neuen Bekannten verlassen, bemerkt aber den vergessenen Ehering. Bei der Rückkehr öffnet sich der Aufzug zur tödlichen Begegnung. Ein alltäglicher Rückweg verwandelt sich so in den Angriff, der die bisherige Hauptfigur aus der Erzählung nimmt und Liz Blake (Nancy Allen) in den Fall zieht.",
+      "anchor": "Die Rückkehr wegen des Rings führt zur Mordattacke im Aufzug.",
+      "interest": "Der konkrete Ort erklärt den abrupten Wechsel der Handlung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "L2",
+      "question": "Mit welcher Waffe wird Kate (Angie Dickinson) angegriffen?",
+      "answers": [
+        "Mit einem Rasiermesser",
+        "Mit einer Stricknadel",
+        "Mit einem Schraubenzieher",
+        "Mit einer Schere"
+      ],
+      "feedback": [
+        "Das Rasiermesser ist die sichtbare Mordwaffe.",
+        "Eine Stricknadel gehört nicht zu diesem Angriff.",
+        "Ein Schraubenzieher ersetzt die gezeigte Klinge nicht.",
+        "Die Tat wird nicht mit einer Schere ausgeführt."
+      ],
+      "short": "Das Rasiermesser ist die sichtbare Mordwaffe.",
+      "context": "Das Rasiermesser bleibt nach dem Angriff als wichtiges sichtbares Zeichen bestehen. Liz Blake (Nancy Allen) entdeckt die sterbende Kate (Angie Dickinson) und hebt die Waffe auf. Damit gerät die Zeugin selbst unter Verdacht. Ein Gegenstand verbindet also die eigentliche Tat mit einer irreführenden Spur gegen eine unbeteiligte Beobachterin.",
+      "anchor": "Das Rasiermesser verbindet den Angriff mit dem falschen Verdacht gegen Liz.",
+      "interest": "Das prägnante Objekt erklärt den Beginn der zweiten Tätersuche.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum sucht Liz Blake (Nancy Allen) Unterstützung bei Peter (Keith Gordon)?",
+      "answers": [
+        "Die Polizei glaubt ihr nicht; er will den Tod seiner Mutter aufklären",
+        "Er hat den Mord als Polizist bereits übernommen",
+        "Er besitzt den vollständigen schriftlichen Tatplan",
+        "Er hat ihre Wohnung für den Überfall vermietet"
+      ],
+      "feedback": [
+        "Beide haben Gründe für eine eigene Suche und ergänzen sich dabei.",
+        "Peter ist Kates Sohn, kein zuständiger Polizeibeamter.",
+        "Er besitzt technische Fähigkeiten, aber keinen vollständigen Tatplan.",
+        "Ein Vermietungsgeschäft ist nicht ihre Verbindung."
+      ],
+      "short": "Beide haben Gründe für eine eigene Suche und ergänzen sich dabei.",
+      "context": "Liz Blake (Nancy Allen) ist zugleich Zeugin, Verdächtige und neues Ziel. Peter (Keith Gordon) hat seine Mutter verloren und verfügt über selbst gebaute technische Hilfsmittel. Ihre gemeinsame Suche entsteht deshalb aus unterschiedlichen Bedürfnissen. Kameras und Abhörgeräte sollen ihnen Informationen geben, die ihnen die skeptische offizielle Ermittlung nicht liefert.",
+      "anchor": "Die misstraute Zeugin und der Sohn des Opfers bilden eine eigene Ermittlungsallianz.",
+      "interest": "Die Frage verbindet die Motive beider Hauptfiguren.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wozu lenkt Liz (Nancy Allen) den Psychiater in seiner Praxis ab?",
+      "answers": [
+        "Um dessen Terminbuch nach Bobbi zu durchsuchen",
+        "Um ein von ihm unterschriebenes Rezept zu stehlen",
+        "Um einen Brief an die Polizei abzufangen",
+        "Um den Namen eines früheren Mordopfers zu löschen"
+      ],
+      "feedback": [
+        "Die Ablenkung soll ihr Zugang zum Terminbuch und zur gesuchten Identität geben.",
+        "Liz sucht im Terminbuch nach Bobbi, nicht nach einem Medikamentenrezept.",
+        "Die Täuschung ermöglicht die Suche im Terminbuch, nicht das Abfangen einer Anzeige.",
+        "Sie will eine Spur zu Bobbi finden und löscht nicht die Opferdaten."
+      ],
+      "short": "Die Ablenkung soll ihr Zugang zum Terminbuch und zur gesuchten Identität geben.",
+      "context": "Liz Blake (Nancy Allen) nutzt eine inszenierte Annäherung an Dr. Elliott (Michael Caine). Während seine Aufmerksamkeit gebunden ist, sucht sie nach einer Spur zu Bobbi. Peter (Keith Gordon) beobachtet von außen. Die Szene verteilt Wissen und Sichtbarkeit auf mehrere Positionen, sodass weder die Figur drinnen noch der Beobachter draußen den gesamten Vorgang kontrolliert.",
+      "anchor": "Liz’ Ablenkung soll einen Namen aus dem Terminbuch zugänglich machen.",
+      "interest": "Der konkrete Plan erklärt die räumliche Anordnung der Schlusskonfrontation.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was zeigt die nach dem Schuss verrutschte Perücke?",
+      "answers": [
+        "Dr. Elliott (Michael Caine) ist selbst die verfolgte Gestalt",
+        "Peter (Keith Gordon) hat sich als Köder verkleidet",
+        "Der Polizeiermittler trägt die Kleidung des Opfers",
+        "Kates Bekannter arbeitet heimlich in der Praxis"
+      ],
+      "feedback": [
+        "Unter der Perücke erscheint Elliott, den die Ermittlung zuvor als Arzt behandelte.",
+        "Peter wird nicht unter der Perücke enttarnt.",
+        "Die Enthüllung betrifft den Psychiater, nicht den Ermittler.",
+        "Kates Bekannter ist nicht die Person unter der Verkleidung."
+      ],
+      "short": "Unter der Perücke erscheint Elliott, den die Ermittlung zuvor als Arzt behandelte.",
+      "context": "Die Praxis wird zum Ort einer visuellen Entlarvung. Der Schuss einer Polizistin bringt die blonde Gestalt zu Fall, und die Perücke legt Dr. Elliott (Michael Caine) frei. Damit wird eine zuvor angenommene Trennung zwischen behandelndem Arzt und gesuchter Person aufgehoben. Die Darstellung ist die fiktionale Konstruktion dieses Films, keine Erklärung realer geschlechtlicher Identität.",
+      "anchor": "Die Perücke verbirgt den zuvor als Helfer wahrgenommenen Psychiater.",
+      "interest": "Die Auflösung zeigt, wie eine scheinbar sichere Figurenordnung zusammenbricht.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welchen Status hat der letzte Angriff auf Liz (Nancy Allen)?",
+      "answers": [
+        "Er ist ein Albtraum, aus dem sie erwacht",
+        "Er ist eine reale Flucht des Täters aus der Anstalt",
+        "Er ist eine von Peter organisierte Polizeifalle",
+        "Er ist eine frühere Szene aus Kates Kindheit"
+      ],
+      "feedback": [
+        "Liz erwacht schreiend; der vermeintliche neue Angriff gehört zu ihrem Traum.",
+        "Die zunächst gezeigte Flucht wird durch das Erwachen als Traumsequenz zurückgenommen.",
+        "Peter organisiert keinen inszenierten Angriff auf Liz.",
+        "Die Szene betrifft Liz nach den Ereignissen, keine Kindheitserinnerung Kates."
+      ],
+      "short": "Liz erwacht schreiend; der vermeintliche neue Angriff gehört zu ihrem Traum.",
+      "context": "Nach der Verhaftung scheint die Gefahr beendet. Der Film zeigt dann eine erneute Flucht und Attacke, bevor Liz Blake (Nancy Allen) schreiend erwacht. Peter (Keith Gordon) kommt zu ihr. Die letzte Bedrohung liegt damit in ihrer Erinnerung und Angst: Eine aufgeklärte Tat garantiert noch keine ungestörte Wahrnehmung oder einen ruhigen Schlaf.",
+      "anchor": "Das Erwachen verwandelt den letzten Angriff in eine fortdauernde Angst.",
+      "interest": "Das Ende unterscheidet äußere Aufklärung von innerer Sicherheit.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1980",
+        "1977",
+        "1974",
+        "1982"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1980.",
+        "1977 liegt drei Jahre vor der ersten Veröffentlichung von 1980.",
+        "1974 liegt sechs Jahre vor der ersten Veröffentlichung von 1980.",
+        "1982 ist ein späteres Jahr als das belegte erste Filmjahr 1980."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1980.",
+      "context": "Dressed to Kill erschien 1980, zwanzig Jahre nach Hitchcocks Psycho von 1960. Brian De Palma greift unter anderem den abrupten Verlust einer zunächst zentralen Frauenfigur und den überraschenden Wechsel der Tätersuche auf. Der Abstand hilft, die bewusste Auseinandersetzung mit einem älteren Thriller einzuordnen; es handelt sich um einen eigenen Stoff.",
+      "anchor": "Psycho 1960 → Dressed to Kill 1980: zwanzig Jahre.",
+      "interest": "Der Zeitanker macht den Einfluss eines früheren Films auf eine spätere eigene Erzählung sichtbar.",
+      "sources": [
+        "wiki",
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Brian De Palma",
+        "Alfred Hitchcock",
+        "William Friedkin",
+        "John Carpenter"
+      ],
+      "feedback": [
+        "Brian De Palma führte bei diesem Film Regie.",
+        "Alfred Hitchcock hat diesen Film nicht inszeniert; der Regiecredit lautet Brian De Palma.",
+        "William Friedkin hat diesen Film nicht inszeniert; der Regiecredit lautet Brian De Palma.",
+        "John Carpenter hat diesen Film nicht inszeniert; der Regiecredit lautet Brian De Palma."
+      ],
+      "short": "Brian De Palma führte bei diesem Film Regie.",
+      "context": "Brian De Palma schrieb und inszenierte den Film. Pino Donaggios Musik und ausgedehnte Blickwechsel verbinden die Figuren auch ohne ausführlichen Dialog. Kate Miller (Angie Dickinson) folgt im Museum einem Fremden; später müssen Liz Blake (Nancy Allen) und Peter (Keith Gordon) beobachtete Bilder neu deuten. Zuschauen wird dadurch selbst zu einer gefährlichen Tätigkeit.",
+      "anchor": "De Palma verbindet Begehren, Beobachtung und eine falsche Lesart sichtbarer Spuren.",
+      "interest": "Der Regiestil erklärt die Bedeutung der langen Museumsfolge und der späteren Überwachung.",
+      "sources": [
+        "wiki",
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

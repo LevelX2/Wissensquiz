@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-07",
+  "status": "Redaktion für den endgültigen Zusammenbau freigegeben",
+  "scope": {
+    "files": "Redaktion/041.json bis Redaktion/120.json",
+    "film_count": 80,
+    "question_count": 640,
+    "genres": {
+      "Drama": 20,
+      "Fantasy": 20,
+      "Horror": 20,
+      "Western": 20
+    },
+    "questions_per_film": [
+      "L1",
+      "L2",
+      "M1",
+      "M2",
+      "S1",
+      "S2",
+      "Y",
+      "D"
+    ]
+  },
+  "read_scope": {
+    "editorial_contract": "Persönlicher Skill wissensquiz-fragen-redigieren und führender Vertrag docs/Fragenredaktion.md",
+    "source_reading": "Für alle 80 Filmfassungen wurden Identitäts-, Credit- und Handlungsquellen tatsächlich gelesen. Studio-, Festival-, Archiv- und Fachquellen belegen insbesondere Veröffentlichung, Regie und besondere Produktionsangaben; ausführliche Handlungsquellen ergänzen die Inhaltsziele. Ein erfolgreicher Abruf allein wurde nicht als Quellenprüfung behandelt.",
+    "final_reading": "Alle 640 Fragen samt Optionen, Feedback, Vertiefung, Merksatz und Quellenbindung wurden autorseitig durchgelesen. Die 160 Jahres- und Regievertiefungen wurden zusätzlich als zusammenhängender Block geprüft; alle sechs Inhaltsziele je Film wurden auf Eigenständigkeit, Lösungsverrat und vergleichbare Ablenker gelesen.",
+    "verification_boundary": "Dies dokumentiert die autorseitige Recherche und Schlussredaktion. Die zentrale Inhalts- und Formalprüfung durch die Integration ergänzt diese Arbeit; eine unabhängige zweite Vollrecherche sämtlicher Quellen wird damit nicht behauptet.",
+    "distinct_source_urls": 336
+  },
+  "formal_checks": {
+    "result": "bestanden",
+    "film_files": 80,
+    "questions": 640,
+    "four_distinct_answers_and_four_feedbacks": true,
+    "correct_answer_first_and_short_matches_correct_feedback": true,
+    "complete_ordered_codes_per_film": true,
+    "all_source_aliases_resolve": true,
+    "source_urls_are_absolute_http_urls": true,
+    "all_editorial_strings_have_no_edge_whitespace": true,
+    "no_unicode_replacement_characters": true,
+    "year_answers_match_film_metadata": true,
+    "all_year_options_between_1895_and_2026": true,
+    "full_director_team_matches_correct_answer": true,
+    "no_correct_director_in_wrong_director_option": true,
+    "maximum_question_and_four_options_words_with_title_inserted": 57,
+    "context_word_range": [
+      35,
+      53
+    ],
+    "context_length_note": "Die Vertiefungen bleiben überwiegend kürzer als die Orientierung von 50–75 Wörtern. Diese präzise kürzere Form wurde im Arbeitsauftrag akzeptiert; jede Vertiefung enthält einen konkreten Zusammenhang und einen eigenen Erkenntniswert. Keine liegt unter 35 Wörtern.",
+    "active_baseline_films_checked": 785,
+    "reserved_baseline_films_checked": 40,
+    "baseline_questions_at_final_check": 8397,
+    "local_or_baseline_film_identity_collisions": 0,
+    "errors": []
+  },
+  "semantic_checks": {
+    "distinct_content_goals": "Je Film zwei eigenständige Inhaltsziele auf leicht, mittel und schwer; Jahr und Regie ergänzen diese sechs Ziele.",
+    "distractors": "Die Schlussredaktion änderte die Optionen beziehungsweise ihr individuelles Feedback bei 167 verschiedenen Fragen in insgesamt 170 gezielten Überarbeitungsschritten. Ablenker wurden nach vergleichbarer Antwortart und filmbezogener Plausibilität geprüft.",
+    "source_bindings": "58 Fragen erhielten präzisere oder verteilte Quellenbindungen. Bei 099-M2 wurde anschließend zusätzlich der Handlungsbeleg für Bennys konkrete Beobachtung aufgenommen; das TIFF-Programm trägt die gestörte Zeitwahrnehmung selbst ausdrücklich.",
+    "replaced_goals": [
+      "062-M1 fragt das unterschiedliche Verhältnis der Brüder zum Übernatürlichen anhand der gelesenen Filmkritik.",
+      "094-M1 fragt die durchgehende 37-minütige Eröffnung anhand des offiziellen Verleihtextes."
+    ],
+    "actors_and_voices": "Figurennennungen in den Vertiefungen wurden mit den Originaldarstellern geprüft; Stimmen in Animationszusammenhängen sind ausdrücklich als Originalstimmen bezeichnet.",
+    "year_anchors": "Alle Jahresfragen verbinden das Erscheinungsjahr mit einem zweiten konkreten Sachverhalt. Bei unterschiedlichen Jahren werden beide Zeitpunkte und ihr Abstand oder ihre Reihenfolge benannt. Eine bloße Premieren- oder Jahreswiederholung genügte nicht.",
+    "familiarity": "Bekanntheit und Frage-Schwierigkeit wurden getrennt behandelt und die Bekanntheitsbegründungen individuell nachredigiert. Die bestehende Bekanntheit 2 von Liebe/Amour wurde erhalten.",
+    "music_credit": "089-S2 benennt Nyman und Albarn als verantwortliches Komponistenpaar; die Formulierung behauptet keine durchgehend gemeinsame Kompositionsarbeit.",
+    "baseline_goals": "Die filmbezogenen Bestandsfundstellen einschließlich Personen- und Preisbezügen wurden semantisch abgeglichen. Die sichtbare Regiezurechnung von Magnolia wird als Variante des bestehenden Moore-Wissensziels geführt."
+  },
+  "shared_knowledge_goals": [
+    {
+      "rank": 45,
+      "code": "D",
+      "variant_of": "SCHAUSPIELER-202610-P01-075-M-1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-075-M-1",
+      "reason": "Das Bestandsziel fragt Paul Thomas Anderson anhand von Boogie Nights und Magnolia sichtbar ab."
+    }
+  ],
+  "important_source_conflicts_and_decisions": [
+    {
+      "ranks": [
+        43,
+        57,
+        73
+      ],
+      "decision": "Kes verwendet die frühe Aufführung 1969 statt des breiten Starts 1970. Bei Crash bleibt die Abweichung 9./10. September 2004 im Hinweis sichtbar; das Jahr ist eindeutig. Bei Beasts of the Southern Wild wird Cannes' Produktionsjahr 2011 vom ersten öffentlichen Festivaljahr 2012 getrennt."
+    },
+    {
+      "ranks": [
+        51,
+        67,
+        76,
+        77
+      ],
+      "decision": "Der vollständige Originaltitel von Das weiße Band enthält Eine deutsche Kindergeschichte. Tintenherz erschien bereits 2008 in Europa vor dem US-Start 2009. Die Nibelungen verwendet 1924 als Erstveröffentlichung statt Produktionsangaben 1923; Hexen hexen 1990 statt der Produktionsangabe 1989."
+    },
+    {
+      "ranks": [
+        70,
+        78,
+        80
+      ],
+      "decision": "Honda ist bei Kurosawas Träumen als kreativer Berater eingeordnet. Bei Die rote Schildkröte wird Dudok de Wit als Regisseur von Animationsregie und künstlerischer Produktion unterschieden; Japan bleibt wegen der belegten Ghibli-Koproduktion in den Produktionsländern. Bei Die Legende der Wächter wird Zack Snyders Gesamtregie von Eric Leightons Animationsleitung getrennt."
+    },
+    {
+      "ranks": [
+        83,
+        84,
+        86
+      ],
+      "decision": "Für Candyman wurde der Ländercredit nicht aus vereinzelten abweichenden Sekundärangaben erweitert. Bei The Lost Boys wurde die widersprüchliche Bezeichnung der Mutter als Witwe vermieden. The Wailing behält die im Cannes-Programm belegte US-Produktionsbeteiligung neben Südkorea."
+    },
+    {
+      "ranks": [
+        87,
+        92,
+        94,
+        100
+      ],
+      "decision": "In the Mouth of Madness verwendet 1994: Das tatsächlich betrachtete Fantasy-Filmfest-Programm kennzeichnet den 10. August als Weltpremiere; der US-Start folgte 1995. Pontypool bleibt aufgrund TIFF bei 2008 statt des breiten Starts 2009. One Cut of the Dead bleibt aufgrund der frühen Aufführung bei 2017 statt des breiten Starts 2018. Bei Sinister ist die Abweichung 10./11. März 2012 sichtbar; keine Frage verlangt diesen strittigen Tag."
+    },
+    {
+      "ranks": [
+        93,
+        95,
+        99
+      ],
+      "decision": "Bei Raw wurde die widersprüchliche Organbezeichnung einer Inhaltszusammenfassung nicht übernommen; der Handlungsbeleg trägt Kaninchenniere. Für Mandy wurden bestätigte Produktionsländer von unklaren Finanzierungsangaben getrennt. Color Out of Space verwendet TIFFs USA/2019; Drehort Portugal und Finanzierung werden nicht als Ländercredit ausgegeben. Die gemeinsam genannte Drehbuchautorin ist keine Co-Regisseurin."
+    },
+    {
+      "ranks": [
+        96,
+        97,
+        103,
+        107
+      ],
+      "decision": "Creature from the Black Lagoon trennt Jack Arnolds Gesamtregie von James C. Havens' Unterwasserarbeit. Die Fragen zu Tanz der Vampire beziehen sich auf die ursprüngliche Fassung; US-Kürzung und US-Titel sind vermerkt. Bandidas führt Rønning und Sandberg gemeinsam. Das war der Wilde Westen führt Hathaway, Ford und Marshall vollständig und verwendet die Londoner Erstaufführung 1962 vor dem US-Start 1963."
+    },
+    {
+      "ranks": [
+        105,
+        106,
+        117
+      ],
+      "decision": "Bei Denen man nicht vergibt und Alamo werden Berichte über ergänzende Regie- beziehungsweise Second-Unit-Arbeit nicht pauschal zu einem gleichrangigen Hauptregiecredit gemacht; die Unsicherheit bleibt im director_note sichtbar. Der Regisseur von The Man from Snowy River ist George T. Miller, ausdrücklich unterschieden vom gleichnamigen Mad-Max-Regisseur."
+    },
+    {
+      "ranks": [
+        104,
+        111,
+        112,
+        116,
+        118,
+        119,
+        120
+      ],
+      "decision": "Heaven's Gate verwendet die Erstfassung 1980 statt einer späteren Schnittfassung. Mackenna's Gold und Last Train from Gun Hill trennen Copyrightjahr und Veröffentlichung. Red Sun verwendet 1971 statt des späteren US-Starts. My Darling Clementine unterscheidet Vorab- und veröffentlichte Laufzeit, ohne sie als Frageziel zu vermischen. The Tin Star erschien in Schwarzweiß trotz früherer Farbplanung. Bei The Bravados wurde das uneindeutige Romanjahr als Zeitanker verworfen und der belegte Rechteerwerb 1956 mit dem Filmjahr 1958 verbunden."
+    },
+    {
+      "ranks": [
+        71,
+        117
+      ],
+      "decision": "Fehlerhafte Crew- beziehungsweise Komponistenfelder einzelner Katalogseiten wurden nicht als Regie- oder Musiknachweis übernommen. Die jeweils verwendeten Fragenbindungen tragen ausdrücklich passende Inhalts- und Creditangaben."
+    }
+  ],
+  "open_editorial_blockers": [],
+  "handoff": "Alle 80 nativen Filmdateien sind final. Die zentrale Integration muss aus diesen Feldwerten die CSV neu erzeugen und ihren Import-, Build- und Browsernachweis abschließen. Diese Abnahme behauptet keinen bereits erneut ausgeführten App-Prüflauf nach den letzten redaktionellen Änderungen."
+}

@@ -111,8 +111,8 @@ it("ergänzt den offiziellen Katalog einmal und erhält sämtliche vorhandenen F
   );
   addPackages(state, contents);
   expect(state.questions.slice(0, before.length)).toEqual(before);
-  expect(state.questions).toHaveLength(8397);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7853);
+  expect(state.questions).toHaveLength(10877);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(10315);
   const once = structuredClone(state.questions);
   addPackages(state, contents);
   expect(state.questions).toEqual(once);

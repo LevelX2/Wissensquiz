@@ -1,0 +1,224 @@
+{
+  "rank": 86,
+  "titleDe": "The Wailing",
+  "originalTitle": "Gokseong",
+  "year": 2016,
+  "genre": "Horror",
+  "familiarity": 4,
+  "directors": [
+    "Na Hong-jin"
+  ],
+  "production_countries": [
+    "Südkorea",
+    "USA"
+  ],
+  "release_note": "Südkoreanischer Kinostart am 12. Mai 2016, Cannes-Vorführung am 18. Mai 2016. Cannes führt die Koproduktion mit Südkorea und USA.",
+  "familiarity_reason": "Na Hong-jins südkoreanischer Horrorfilm ist im internationalen Genre- und Festivalpublikum präsent, im deutschsprachigen Alltag deutlich spezieller; Bekanntheit 4.",
+  "sources": {
+    "cannes": "https://www.festival-cannes.com/en/f/goksung/",
+    "presse": "https://cdn-media.festival-cannes.com/film_film/0002/15/4684bc3b62a47361208f0bcf4fd3f3471ef2ef80.pdf",
+    "kritik": "https://www.rogerebert.com/reviews/the-wailing-2016",
+    "handlung": "https://en.wikipedia.org/wiki/The_Wailing_(2016_film)",
+    "vorfilm": "https://www.festival-cannes.com/en/f/the-chaser/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufgabe hat Jong-goo zu Beginn von @ in seinem Dorf?",
+      "answers": [
+        "Er arbeitet als Polizist.",
+        "Er leitet die örtliche Kirche.",
+        "Er behandelt die Kranken als Arzt.",
+        "Er organisiert als Bürgermeister die Evakuierung."
+      ],
+      "feedback": [
+        "Jong-goo untersucht die Ereignisse als Polizist.",
+        "Er ist nicht der Leiter der Kirche.",
+        "Er besitzt nicht die Rolle des behandelnden Arztes.",
+        "Er führt die Handlung nicht als Bürgermeister an."
+      ],
+      "short": "Jong-goo untersucht die Ereignisse als Polizist.",
+      "context": "Jong-goo (Kwak Do-won) soll die ungewöhnlichen Gewalttaten als Polizist aufklären. Seine Aufgabe verlangt eine überprüfbare Erklärung. Je näher der Fall an seine Familie rückt, desto schwieriger wird diese Distanz. Der Film verbindet so amtliche Untersuchung mit einem persönlichen Druck, der sichere Entscheidungen immer stärker erschwert.",
+      "anchor": "Der Polizist muss erklären, was bald seine eigene Familie bedroht.",
+      "interest": "Verbindet die berufliche Ausgangsaufgabe mit dem späteren persönlichen Konflikt.",
+      "sources": [
+        "cannes"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wodurch wird die Mordserie in @ für Jong-goo zu einer unmittelbaren Familienkrise?",
+      "answers": [
+        "Seine Tochter zeigt die rätselhaften Symptome.",
+        "Seine Frau wird als Verdächtige verhaftet.",
+        "Sein Vater gesteht den ersten Mord.",
+        "Sein Bruder verschwindet als wichtigster Zeuge."
+      ],
+      "feedback": [
+        "Hyo-jins Zustand macht aus der Untersuchung den Kampf um sein Kind.",
+        "Eine Verhaftung seiner Frau ist nicht der entscheidende Auslöser.",
+        "Sein Vater legt kein solches Geständnis ab.",
+        "Ein verschollener Bruder löst die Familienkrise nicht aus."
+      ],
+      "short": "Hyo-jins Zustand macht aus der Untersuchung den Kampf um sein Kind.",
+      "context": "Hyo-jin (Kim Hwan-hee), die Tochter von Jong-goo (Kwak Do-won), zeigt die bedrohlichen Veränderungen. Seine Suche nach der Ursache wird nun von Angst um sie bestimmt. Die Geschichte prüft dadurch, ob der Wunsch zu helfen klare Beobachtung ermöglicht oder ihn anfälliger für vorschnelle Erklärungen macht.",
+      "anchor": "Die Symptome der Tochter verwandeln den Fall in einen Rettungsversuch.",
+      "interest": "Erklärt den Wechsel von beruflicher Untersuchung zu väterlicher Verzweiflung.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was verstärkt in @ den Verdacht gegen den japanischen Fremden bei der Durchsuchung seiner Unterkunft?",
+      "answers": [
+        "Fotos und Gegenstände der betroffenen Dorfbewohner",
+        "Ein detaillierter schriftlicher Mordbericht",
+        "Ein von ihm signierter Brief an sämtliche Opfer",
+        "Ein eindeutiger Film des ersten Angriffs"
+      ],
+      "feedback": [
+        "Die gesammelten Opferbezüge wirken wie belastende Hinweise.",
+        "Die beunruhigenden Funde sind Opferfotos und persönliche Gegenstände, kein vollständiger Bericht.",
+        "Es gibt keinen solchen offenen Brief als Grundlage des Verdachts.",
+        "Die Durchsuchung bringt keine eindeutige Aufnahme des ersten Mordes."
+      ],
+      "short": "Die gesammelten Opferbezüge wirken wie belastende Hinweise.",
+      "context": "In der Unterkunft des Fremden (Jun Kunimura) finden sich Fotos und persönliche Gegenstände der Opfer. Jong-goo (Kwak Do-won) erhält damit einen konkreten Anlass zum Verdacht. Der Fund beantwortet jedoch nicht unmittelbar, welche Funktion die Sammlung erfüllt. Beweisstücke und ihre Deutung bleiben unterschiedliche Schritte.",
+      "anchor": "Die Opferfotos verstärken den Verdacht, ohne ihn vollständig zu erklären.",
+      "interest": "Unterscheidet einen auffälligen Fund von seiner endgültigen Deutung.",
+      "sources": [
+        "kritik",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum bricht Jong-goo in @ das Ritual des Schamanen ab?",
+      "answers": [
+        "Er hält das weitere Leiden seiner Tochter nicht aus.",
+        "Er glaubt, das Ritual schütze gerade den Fremden.",
+        "Er erkennt in den Zeichen des Schamanen die des Täters.",
+        "Er fürchtet, das Ritual werde seine Frau statt der Tochter treffen."
+      ],
+      "feedback": [
+        "Die Schmerzen und Reaktionen Hyo-jins bringen ihn zum Eingreifen.",
+        "Das sichtbare Leiden seiner Tochter veranlasst ihn zum Eingreifen.",
+        "Nicht ein sicher erkannter Täterhinweis, sondern die Not der Tochter bestimmt den Abbruch.",
+        "Er bricht wegen des aktuellen Leidens der Tochter ab, nicht wegen einer vorhergesagten Übertragung auf die Frau."
+      ],
+      "short": "Die Schmerzen und Reaktionen Hyo-jins bringen ihn zum Eingreifen.",
+      "context": "Il-gwang (Hwang Jung-min) führt das Ritual aus, während Hyo-jin (Kim Hwan-hee) leidet. Jong-goo (Kwak Do-won) greift ein. Sein Schutzimpuls richtet sich gegen eine Maßnahme, die ebenfalls Hilfe verspricht. Die Szene macht die Entscheidung schwierig, weil sichtbarer Schmerz und behaupteter Rettungszweck nicht übereinstimmen.",
+      "anchor": "Hyo-jins sichtbares Leiden lässt den Vater das versprochene Heilritual stoppen.",
+      "interest": "Erklärt den konkreten Widerspruch hinter der Unterbrechung.",
+      "sources": [
+        "handlung",
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Bedingung der Frau in Weiß missachtet Jong-goo im Schluss von @?",
+      "answers": [
+        "Er kehrt vor dem dritten Hahnenschrei nach Hause zurück.",
+        "Er betritt die Unterkunft des Fremden ohne Kerze.",
+        "Er spricht den Namen seiner Tochter laut aus.",
+        "Er nimmt die Schuhe des Schamanen über die Türschwelle."
+      ],
+      "feedback": [
+        "Moo-myeong verlangt, bis zum dritten Hahnenschrei zu warten.",
+        "Eine Kerze beim Fremden bildet nicht diese Bedingung.",
+        "Die Bedingung betrifft Warten, nicht den Namen des Kindes.",
+        "Die Schuhe des Schamanen sind nicht Gegenstand der Schlussbedingung."
+      ],
+      "short": "Moo-myeong verlangt, bis zum dritten Hahnenschrei zu warten.",
+      "context": "Moo-myeong (Chun Woo-hee) fordert Jong-goo (Kwak Do-won) zum Warten auf. Gegenläufige Warnungen und die Gegenstände der Opfer lassen ihn ihr misstrauen. Er handelt zu früh. Die Szene verdichtet den Konflikt auf eine Zeitentscheidung, deren Folgen er erst erkennt, nachdem das verlangte Warten bereits abgebrochen ist.",
+      "anchor": "Misstrauen lässt Jong-goo die Wartefrist vor dem dritten Hahnenschrei brechen.",
+      "interest": "Verbindet unsichere Vertrauensentscheidung mit einer konkreten Handlungsschwelle.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie unterstützte das Produktionsteam von @ laut Presseheft die düstere Landschaftswirkung?",
+      "answers": [
+        "Es wartete gezielt auf Wolken, Regen und passende natürliche Lichtzeiten.",
+        "Es bevorzugte hartes Sonnenlicht und hellen Himmel.",
+        "Es beleuchtete alle Außenräume gleichmäßig mit Studiolampen.",
+        "Es drehte ausschließlich nachts und ersetzte den Tag digital."
+      ],
+      "feedback": [
+        "Die Wetter- und Lichtbedingungen wurden bewusst in die Drehplanung eingebaut.",
+        "Das Team suchte Wetter und natürliches Licht für die düstere Wirkung.",
+        "Die Außenszenen wurden nicht durch eine einheitliche künstliche Beleuchtung bestimmt.",
+        "Die Wetterplanung betrifft reale Außendrehs, nicht nur digital erzeugte Tagesbilder."
+      ],
+      "short": "Die Wetter- und Lichtbedingungen wurden bewusst in die Drehplanung eingebaut.",
+      "context": "Das Team wartete auf Wolken und drehte wichtige Szenen bei tatsächlichem Regen oder Nebel. Für bestimmte Lichtstimmungen nutzte es kurze Zeitfenster am Tagesrand. Die Landschaft wirkt dadurch nicht wie eine neutrale Kulisse. Wetter und begrenzte Sicht tragen die Unsicherheit, die auch die Figuren erleben.",
+      "anchor": "Reales Wetter und kurze Lichtfenster formen die bedrohliche Landschaft.",
+      "interest": "Erklärt eine belegte Produktionsentscheidung hinter der Atmosphäre.",
+      "sources": [
+        "presse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, acht Jahre nach Na Hong-jins Langfilmdebüt „The Chaser“?",
+      "answers": [
+        "2016",
+        "2008",
+        "2012",
+        "2020"
+      ],
+      "feedback": [
+        "The Chaser erschien 2008; The Wailing folgte 2016.",
+        "2008 ist das Jahr des Debüts.",
+        "2012 liegt nur vier Jahre nach The Chaser.",
+        "2020 liegt zwölf Jahre nach dem Debüt."
+      ],
+      "short": "The Chaser erschien 2008; The Wailing folgte 2016.",
+      "context": "Na Hong-jins The Chaser erschien 2008; The Wailing folgte 2016, acht Jahre später. Das Presseheft verbindet beide mit präziser Raumgestaltung: In der früheren Geschichte prägen enge Stadtgassen die Verfolgung, im späteren Film die Dörfer und Berge. Der Abstand ordnet einen konkreten Wandel innerhalb seiner Arbeit ein.",
+      "anchor": "2008 enge Stadtgassen, acht Jahre später 2016 das bedrohte Dorf.",
+      "interest": "Verknüpft das Erscheinungsjahr mit der Entwicklung der filmischen Räume.",
+      "sources": [
+        "vorfilm",
+        "presse",
+        "cannes"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Na Hong-jin",
+        "Bong Joon-ho",
+        "Park Chan-wook",
+        "Kim Jee-woon"
+      ],
+      "feedback": [
+        "Na Hong-jin schrieb und inszenierte den Film.",
+        "Bong Joon-ho ist ein anderer bedeutender südkoreanischer Regisseur.",
+        "Park Chan-wook führte bei diesem Film nicht Regie.",
+        "Kim Jee-woon inszenierte andere südkoreanische Genrefilme."
+      ],
+      "short": "Na Hong-jin schrieb und inszenierte den Film.",
+      "context": "Na Hong-jin verantwortete Drehbuch und Regie. Das Presseheft beschreibt Gerüchte, Ungewissheit und väterliche Liebe als Kern des Projekts. Seine Geschichte macht die Suche nach Sicherheit selbst gefährlich: Der Vater muss handeln, obwohl ihm konkurrierende Erklärungen keine verlässliche Grundlage für die nächste Entscheidung geben.",
+      "anchor": "Na Hong-jin verbindet die Rettung der Tochter mit der Gefahr unsicherer Deutungen.",
+      "interest": "Ordnet den Regiecredit in die ausdrücklich benannten Themen der Produktion ein.",
+      "sources": [
+        "cannes",
+        "presse"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "production_note": "Cannes führt Südkorea und USA; die Koproduktion ist dort und im Finecut-Presseheft mit Fox-Beteiligung belegt. Die enger gefasste Wikipedia-Länderangabe wird nicht als vollständige Koproduktionsliste verwendet."
+}

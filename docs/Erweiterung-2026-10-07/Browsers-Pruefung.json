@@ -1,0 +1,150 @@
+{
+  "as_of": "2026-10-07",
+  "scope": "Isolierte Chromium-Profile mit kontrollierter Testzeit; keine echten Spielstände.",
+  "initialRun": {
+    "passed": 9,
+    "failed": 1
+  },
+  "initialFailureCause": "Der neue Test pausierte seine beantwortete Runde, bevor er die nächste Testrunde startete. Test korrigiert: erste Runde abschließen und zur Startseite zurückkehren. Kein App-Fehler, keine Laufzeitänderung.",
+  "recheck": {
+    "passed": 1,
+    "failed": 0
+  },
+  "finalResult": {
+    "cases": 10,
+    "passed": 10,
+    "failed": 0
+  },
+  "cases": [
+    {
+      "title": "Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig von Filmgruppen mobil und offline",
+      "file": "actors-package.spec.ts",
+      "line": 45,
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 8101
+        }
+      ]
+    },
+    {
+      "title": "Erkennungsfrage SCHAUSPIELER-202610-P01-001-L-1 verbirgt die Person und zeigt Zusatzinfos erst nach der Antwort",
+      "file": "actors-package.spec.ts",
+      "line": 139,
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 11670
+        }
+      ]
+    },
+    {
+      "title": "Erkennungsfrage SCHAUSPIELER-202610-P02-102-L-1 verbirgt die Person und zeigt Zusatzinfos erst nach der Antwort",
+      "file": "actors-package.spec.ts",
+      "line": 139,
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 11670
+        }
+      ]
+    },
+    {
+      "title": "Erkennungsfrage SCHAUSPIELER-202610-P03-136-L-1 verbirgt die Person und zeigt Zusatzinfos erst nach der Antwort",
+      "file": "actors-package.spec.ts",
+      "line": 139,
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 11543
+        }
+      ]
+    },
+    {
+      "title": "Porträt von Meryl Streep erscheint nach unknown und bleibt mit Bildnachweis offline verfügbar",
+      "file": "actors-package.spec.ts",
+      "line": 192,
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 14011
+        }
+      ]
+    },
+    {
+      "title": "Porträt von Keanu Reeves erscheint nach wrong und bleibt mit Bildnachweis offline verfügbar",
+      "file": "actors-package.spec.ts",
+      "line": 192,
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 13919
+        }
+      ]
+    },
+    {
+      "title": "Personenkategorie lässt sich aus der Filmreise direkt auswählen und vollständig sichern",
+      "file": "actors-package.spec.ts",
+      "line": 337,
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 4858
+        }
+      ]
+    },
+    {
+      "title": "lädt drei neue Pakete einmal, schützt das Regieteam und erhält alle Fragen und Antworten offline",
+      "file": "expansion-20261007.spec.ts",
+      "line": 37,
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 15220
+        }
+      ]
+    },
+    {
+      "title": "zeigt neue Personen mit vollständigem Namen und deren Filmdaten sowie Preisträgerdaten ausschließlich nach der Antwort",
+      "file": "expansion-20261007.spec.ts",
+      "line": 93,
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 20651
+        }
+      ]
+    },
+    {
+      "title": "240-Film-Paket lädt einmal, zeigt das vollständige Hondo-Regieteam erst zur Lösung und bleibt offline verfügbar",
+      "file": "film240-package.spec.ts",
+      "line": 8,
+      "project": "chromium",
+      "status": "expected",
+      "results": [
+        {
+          "status": "passed",
+          "duration": 14369
+        }
+      ]
+    }
+  ]
+}

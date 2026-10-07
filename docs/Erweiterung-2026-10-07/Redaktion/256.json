@@ -1,0 +1,233 @@
+{
+  "rank": 256,
+  "titleDe": "Rififi",
+  "originalTitle": "Du rififi chez les hommes",
+  "year": 1955,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Dassin machte den nahezu wortlosen Einbruch zu einem maßgeblichen filmhistorischen Heist-Muster.",
+  "directors": [
+    "Jules Dassin"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "release_note": "Französischer Kinostart im April 1955, anschließend Wettbewerb und geteilter Regiepreis in Cannes. Wiederaufführungen werden nicht als erstes Filmjahr geführt.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Rififi",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "festival": {
+      "url": "https://www.festival-cannes.com/f/du-rififi-chez-les-hommes/",
+      "supports": "Filmjahr 1955, Regie Jules Dassin, Produktionsland Frankreich, Besetzung und Handlung."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Rififi",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was wollen Tony (Jean Servais) und seine Komplizen ausrauben?",
+      "answers": [
+        "Ein Juweliergeschäft",
+        "Eine Privatbank",
+        "Ein Spielcasino",
+        "Ein Auktionshaus"
+      ],
+      "feedback": [
+        "Die wertvolle Schmuckbeute liegt in einem Pariser Juweliergeschäft.",
+        "Ein Banktresor ist nicht das gewählte Ziel.",
+        "Das Nachtlokal gehört zu den Gegnern, nicht zum geplanten Hauptüberfall.",
+        "Eine Kunstauktion liefert die Beute nicht."
+      ],
+      "short": "Die wertvolle Schmuckbeute liegt in einem Pariser Juweliergeschäft.",
+      "context": "Tony (Jean Servais) ändert den zunächst kleineren Plan seiner Freunde. Statt einzelne Stücke aus dem Schaufenster zu nehmen, will er den gesamten Tresorinhalt erbeuten. Das größere Ziel verlangt zusätzliche Vorbereitung und einen Spezialisten. Die späteren Verluste entstehen somit nach einer Tat, die handwerklich erfolgreich ausgeführt wurde und dennoch keine sichere Zukunft eröffnet.",
+      "anchor": "Tony macht aus einem kleinen Schmuckraub einen sorgfältig vorbereiteten Tresoreinbruch.",
+      "interest": "Das Ziel erklärt Umfang und Anforderungen der Planung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "In welcher Stadt spielt die zentrale Gangstergeschichte?",
+      "answers": [
+        "Paris",
+        "Marseille",
+        "Lyon",
+        "Brüssel"
+      ],
+      "feedback": [
+        "Die Gangstergeschichte spielt in Paris.",
+        "Marseille ist nicht der zentrale Schauplatz.",
+        "Lyon bildet nicht das Umfeld der Bande.",
+        "Die Handlung liegt nicht in Brüssel."
+      ],
+      "short": "Die Gangstergeschichte spielt in Paris.",
+      "context": "Die Männer bewegen sich zwischen Wohnungen, Juwelierladen und Nachtlokal in Paris. Diese Orte sind eng miteinander verbunden: Ein privat verschenkter Beutering erreicht gerade das Umfeld der rivalisierenden Bande. Der erfolgreiche Rückzug vom Tatort beendet deshalb die Gefahr nicht. Die sozialen Verbindungen innerhalb der Stadt tragen sie in die vermeintlich sichere Zeit nach dem Einbruch weiter.",
+      "anchor": "Das Pariser Beziehungsnetz verbindet Tatort, Beute und gegnerisches Nachtlokal.",
+      "interest": "Der Schauplatz erklärt die Nähe der scheinbar getrennten Handlungsräume.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Wie gelangt die Bande in den Juwelierladen?",
+      "answers": [
+        "Durch die Decke von einer darüberliegenden Wohnung aus",
+        "Durch einen Abwasserkanal unter dem Tresor",
+        "Als verkleidete Polizei durch den Haupteingang",
+        "Mit einem Lastwagen durch die Rückwand"
+      ],
+      "feedback": [
+        "Sie arbeiten sich vorsichtig durch den Boden der oberen Wohnung.",
+        "Ein Kanaleinstieg unter dem Safe ist nicht ihr Zugang.",
+        "Eine Polizeiverkleidung öffnet den Laden nicht.",
+        "Eine gewaltsame Lastwagenzufahrt würde nicht zum gezeigten Verfahren passen."
+      ],
+      "short": "Sie arbeiten sich vorsichtig durch den Boden der oberen Wohnung.",
+      "context": "Die Bande nutzt den Raum oberhalb des Geschäfts und bohrt vorsichtig durch den Boden. Der Alarm reagiert auf Erschütterung, weshalb die Arbeit langsam und kontrolliert ablaufen muss. Die räumliche Lösung ist damit an eine technische Schwierigkeit gebunden. Einbruch und Sicherung werden nicht getrennt, sondern als gleichzeitig zu bewältigende Aufgaben gezeigt.",
+      "anchor": "Der Zugang von oben verlangt Rücksicht auf den erschütterungsempfindlichen Alarm.",
+      "interest": "Die Frage erklärt die Verbindung zwischen Raum und Einbruchsmethode.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was prägt die lange Einbruchssequenz akustisch?",
+      "answers": [
+        "Arbeitsgeräusche ohne Dialog und Musik",
+        "Ein durchgehender erklärender Erzähler",
+        "Ein musikalischer Countdown mit lauten Signalen",
+        "Laufende Funkgespräche mit einem Polizeispitzel"
+      ],
+      "feedback": [
+        "Die natürlichen Geräusche tragen die Spannung ohne Gespräche oder Musik.",
+        "Ein Erzähler erklärt die Arbeitsschritte nicht ständig.",
+        "Ein musikalischer Countdown begleitet die Sequenz nicht.",
+        "Eine laufende Funkabstimmung gehört nicht zu ihrer Gestaltung."
+      ],
+      "short": "Die natürlichen Geräusche tragen die Spannung ohne Gespräche oder Musik.",
+      "context": "Während des Einbruchs bleiben Worte und Musik aus. Das Publikum folgt Werkzeugen, Atem, Bewegung und dem Risiko jedes Geräuschs. Die Dauer wird dadurch spürbar, ohne dass eine Figur den Plan nochmals erläutert. Technische Vorbereitung muss sich im tatsächlichen Ablauf bewähren, und die beobachtete Arbeit selbst übernimmt die Funktion einer ausführlichen Erklärung.",
+      "anchor": "Der Einbruch erklärt sich durch beobachtete Arbeit und natürliche Geräusche.",
+      "interest": "Die Gestaltung macht die Quelle der Spannung konkret verständlich.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welcher Verstoß führt die rivalisierende Bande auf die Spur der Täter?",
+      "answers": [
+        "César schenkt Viviane einen gestohlenen Ring",
+        "Mario verkauft den gesamten Schmuck sofort an die Polizei",
+        "Jo trägt den eigenen Namen in das Gästebuch des Juweliers ein",
+        "Tony versucht, die Beute über einen bekannten Konkurrenten zu verkaufen"
+      ],
+      "feedback": [
+        "Der erkennbare Beutering verrät die Verbindung zum Einbruch.",
+        "Ein Polizeiverkauf ist nicht die Informationsquelle der Gegner.",
+        "Ein Gästebucheintrag deckt die Bande nicht auf.",
+        "Césars verschenkter Ring liefert die konkrete Spur."
+      ],
+      "short": "Der erkennbare Beutering verrät die Verbindung zum Einbruch.",
+      "context": "César (Jules Dassin) nimmt einen Ring zusätzlich zur vereinbarten Beute und schenkt ihn Viviane (Magali Noël). Sie arbeitet im Lokal der Gegner. Das private Geschenk verlässt dadurch die kontrollierte Verwertung und macht die Beute sichtbar. Der sorgfältige technische Plan wird von einer persönlichen Entscheidung nach dem gelungenen Einbruch zerstört.",
+      "anchor": "Césars Liebesgeschenk macht kontrollierte Beute im gegnerischen Umfeld sichtbar.",
+      "interest": "Der Zusammenhang erklärt die individuelle Ursache der späteren Katastrophe.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Was nimmt Louise (Janine Darcey) aus Tonys (Jean Servais) Wagen an sich?",
+      "answers": [
+        "Ihren geretteten Sohn; den Geldkoffer lässt sie zurück",
+        "Den Sohn und den Geldkoffer, um beides zu Hause zu verbergen",
+        "Nur den Geldkoffer, während sie das Kind den eintreffenden Helfern überlässt",
+        "Tonys Waffe, um Sohn und Beute vor der Polizei zu schützen"
+      ],
+      "feedback": [
+        "Sie holt Tonio heraus und lässt Geld und Tonys Körper zurück.",
+        "Louise rettet ihren Sohn und lässt das Geld im Wagen.",
+        "Für Louise zählt ihr Kind; sie lässt die Beute zurück.",
+        "Sie nimmt ihr Kind mit und greift nicht zu Tonys Waffe."
+      ],
+      "short": "Sie holt Tonio heraus und lässt Geld und Tonys Körper zurück.",
+      "context": "Der tödlich verwundete Tony (Jean Servais) fährt Tonio zur Mutter zurück. Louise (Janine Darcey) nimmt den Jungen aus dem Wagen, während der Geldkoffer im Auto bleibt. Der erfolgreiche Raub wird damit am Ende nicht über die Beute bewertet. Das gerettete Leben erhält Vorrang vor dem Geld, für das die Männer ihre Sicherheit und Beziehungen verloren haben.",
+      "anchor": "Louise rettet ihr Kind aus dem Wagen und lässt die Beute liegen.",
+      "interest": "Der Schluss zeigt eine konkrete Verschiebung des Werts vom Geld zum geretteten Menschen.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1955",
+        "1952",
+        "1949",
+        "1957"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1955.",
+        "1952 liegt drei Jahre vor der ersten Veröffentlichung von 1955.",
+        "1949 liegt sechs Jahre vor der ersten Veröffentlichung von 1955.",
+        "1957 ist ein späteres Jahr als das belegte erste Filmjahr 1955."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1955.",
+      "context": "Jules Dassin wurde 1951 im Umfeld der amerikanischen Kommunistenverfolgung auf die schwarze Liste gesetzt. Rififi erschien 1955, vier Jahre später, als sein neuer Film in Frankreich. Das erste Filmjahr erhält damit einen konkreten Karriereanker: Der amerikanische Regisseur konnte seine Arbeit unter anderen Produktionsbedingungen fortsetzen und gewann in Cannes den geteilten Regiepreis.",
+      "anchor": "Dassin auf der schwarzen Liste 1951 → französischer Film Rififi 1955: vier Jahre.",
+      "interest": "Die Verbindung ordnet die Datierung in die erzwungene Verlagerung einer Regielaufbahn ein.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Jules Dassin",
+        "Jean-Pierre Melville",
+        "Jacques Becker",
+        "Henri-Georges Clouzot"
+      ],
+      "feedback": [
+        "Jules Dassin führte bei diesem Film Regie.",
+        "Jean-Pierre Melville hat diesen Film nicht inszeniert; der Regiecredit lautet Jules Dassin.",
+        "Jacques Becker hat diesen Film nicht inszeniert; der Regiecredit lautet Jules Dassin.",
+        "Henri-Georges Clouzot hat diesen Film nicht inszeniert; der Regiecredit lautet Jules Dassin."
+      ],
+      "short": "Jules Dassin führte bei diesem Film Regie.",
+      "context": "Jules Dassin inszenierte den Film und spielte César unter dem Namen Perlo Vita. Er veränderte Auguste Le Bretons Roman erheblich und gab dem detaillierten Einbruch viel Raum. Die knapp bemessene Produktion arbeitete ohne große Stars. Das macht die Wirkung der präzisen Gesten, Werkzeuge und natürlichen Geräusche besonders deutlich: Spannung entsteht aus dem beobachteten Verfahren.",
+      "anchor": "Dassin gestaltet den Einbruch durch Arbeitsschritte und Geräusche und spielt zugleich César.",
+      "interest": "Der Hintergrund verbindet Personalunion und konkrete Gestaltung der berühmten Überfallszene.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

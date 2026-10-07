@@ -1,0 +1,233 @@
+{
+  "rank": 245,
+  "titleDe": "Gangster in Key Largo",
+  "originalTitle": "Key Largo",
+  "year": 1948,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Hustons klassischer Nachkriegs-Noir stellt eine erzwungene Gemeinschaft zwischen Sturm und Gangstermacht ins Zentrum.",
+  "directors": [
+    "John Huston"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Kinoöffnung am 16. Juli 1948, vor dem allgemeinen US-Start am 31. Juli. Verfilmung von Maxwell Andersons Bühnenstück, kein späteres Remake.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Key_Largo_(film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/25605-KEY-LARGO",
+      "supports": "Kinoöffnung, Regie und Drehbuch, Bühnenvorlage 1939, Drehhintergrund und Besetzung."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Gangster_in_Key_Largo",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Weshalb kommt Frank McCloud (Humphrey Bogart) zum Hotel?",
+      "answers": [
+        "Er besucht die Familie eines gefallenen Kriegskameraden",
+        "Er soll einen geheimen Geldtransport übernehmen",
+        "Er hat das Hotel als neuer Besitzer gekauft",
+        "Er verfolgt dort einen entflohenen Häftling"
+      ],
+      "feedback": [
+        "Er will dem Vater und der Witwe seines gefallenen Kameraden begegnen.",
+        "Ein Geldtransport ist nicht sein ursprünglicher Reisegrund.",
+        "Er hat das Hotel nicht erworben.",
+        "Er kommt nicht als Ermittler auf einer Fahndung."
+      ],
+      "short": "Er will dem Vater und der Witwe seines gefallenen Kameraden begegnen.",
+      "context": "Frank McCloud (Humphrey Bogart) besucht James Temple (Lionel Barrymore) und Nora (Lauren Bacall). Er kann ihnen von dem Mann erzählen, der unter seinem Kommando starb. Der freiwillige Erinnerungsbesuch führt ihn jedoch in das von Gangstern belegte Hotel. Die Familie wird so erst über gemeinsame Vergangenheit und dann über gemeinsame Gefahr mit ihm verbunden.",
+      "anchor": "Ein Besuch zum Gedenken wird zur gemeinsamen Bedrohung im Hotel.",
+      "interest": "Die Ausgangslage erklärt Franks Bindung an die Familie.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Naturgefahr verschärft die Lage im Hotel?",
+      "answers": [
+        "Ein Hurrikan",
+        "Ein Waldbrand",
+        "Eine anhaltende Dürre",
+        "Eine Lawine"
+      ],
+      "feedback": [
+        "Der Hurrikan verzögert Flucht und Geschäfte der Gangster.",
+        "Ein Waldbrand setzt die Hotelhandlung nicht unter Druck.",
+        "Die akute Gefahr ist ein Sturm, keine Dürreperiode.",
+        "Eine Lawine gehört nicht zur flachen Küstenlandschaft."
+      ],
+      "short": "Der Hurrikan verzögert Flucht und Geschäfte der Gangster.",
+      "context": "Der angekündigte Hurrikan zwingt die Menschen, sich auf die abgeschlossenen Räume zu konzentrieren. Johnny Rocco (Edward G. Robinson) kann seine Pläne nicht im erwarteten Tempo abwickeln. Die äußere Gefahr steigert deshalb die innere Gewalt, statt eine einfache Ablenkung zur Flucht zu liefern. Wetter und Machtkampf verstärken einander innerhalb desselben begrenzten Ortes.",
+      "anchor": "Der Hurrikan schließt den Raum und verzögert Roccos Pläne.",
+      "interest": "Das Wetter erklärt die ungewöhnliche Enge und Dauer der Bedrohung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Womit demütigt Rocco (Edward G. Robinson) Gaye Dawn (Claire Trevor)?",
+      "answers": [
+        "Er lässt sie für Alkohol singen und verweigert ihn danach",
+        "Er zwingt sie, ein erfundenes Mordgeständnis vorzulesen",
+        "Er lässt sie den Gästen einen gefälschten Kaufvertrag verkaufen",
+        "Er verlangt, dass sie Nora öffentlich bestiehlt"
+      ],
+      "feedback": [
+        "Nach ihrem mühsamen Lied hält Rocco das versprochene Getränk zurück.",
+        "Ein Mordgeständnis ist nicht Teil dieser Demütigung.",
+        "Ein Immobilienvertrag bestimmt die Szene nicht.",
+        "Ein erzwungener Diebstahl an Nora ersetzt nicht den gezeigten Gesang."
+      ],
+      "short": "Nach ihrem mühsamen Lied hält Rocco das versprochene Getränk zurück.",
+      "context": "Gaye Dawn (Claire Trevor) war Sängerin und ist inzwischen alkoholabhängig. Rocco (Edward G. Robinson) nutzt ihr Bedürfnis, um sie vor den anderen auftreten zu lassen. Als er seine Zusage nicht erfüllt, gibt Frank (Humphrey Bogart) ihr ein Getränk. Seine kleine Hilfe widersetzt sich damit einer konkret vorgeführten Machtausübung, noch bevor er bewaffnet handelt.",
+      "anchor": "Rocco macht Gayes Bedürfnis zum Schauspiel und bricht sein Versprechen.",
+      "interest": "Die Szene erklärt die Gewaltform und Franks erste sichtbare Gegenhandlung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wozu zwingt Rocco (Edward G. Robinson) Frank (Humphrey Bogart) nach dem Sturm?",
+      "answers": [
+        "Die Gangster mit dem Boot nach Kuba zu bringen",
+        "Als Fahrer einen Lastwagen nach New York zu steuern",
+        "Als Dolmetscher einen Zeitungsvertrag abzuschließen",
+        "Das Hotel im Namen der Temples an ihn zu verkaufen"
+      ],
+      "feedback": [
+        "Frank muss das Boot steuern, weil der vorgesehene Bootsführer fort ist.",
+        "Eine Fahrt nach New York ist nicht die erzwungene Flucht.",
+        "Ein Zeitungsvertrag spielt dabei keine Rolle.",
+        "Rocco verlangt in diesem Moment keine rechtswirksame Hotelübertragung."
+      ],
+      "short": "Frank muss das Boot steuern, weil der vorgesehene Bootsführer fort ist.",
+      "context": "Der ursprüngliche Bootsführer steht nach dem Hurrikan nicht mehr zur Verfügung. Frank McCloud (Humphrey Bogart) besitzt die benötigte Erfahrung auf See und wird als Ersatz mitgenommen. Seine nützliche Fähigkeit verschärft zunächst die eigene Gefangenschaft. Auf dem Wasser kann sie später jedoch gegen die Männer wirken, die ihn gerade deshalb zur Flucht gezwungen haben.",
+      "anchor": "Die erzwungene Bootsführung macht Franks Erfahrung zugleich zur Gefahr und zur Chance.",
+      "interest": "Die Aufgabe erklärt den Ortswechsel der abschließenden Auseinandersetzung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie schiebt Rocco (Edward G. Robinson) den Mord am Polizisten anderen zu?",
+      "answers": [
+        "Er beschuldigt die gesuchten Seminolen-Brüder",
+        "Er fälscht einen Abschiedsbrief von James Temple",
+        "Er lässt Frank eine falsche Dienstmarke tragen",
+        "Er behauptet, Nora habe aus Eifersucht geschossen"
+      ],
+      "feedback": [
+        "Er nutzt die bestehende Fahndung, um die Brüder für seinen Mord verantwortlich zu machen.",
+        "Ein gefälschter Brief des Hotelbesitzers ist nicht die Methode.",
+        "Eine Dienstmarke an Frank lenkt den Verdacht nicht um.",
+        "Eine Eifersuchtsgeschichte gegen Nora wird nicht als Erklärung vorgebracht."
+      ],
+      "short": "Er nutzt die bestehende Fahndung, um die Brüder für seinen Mord verantwortlich zu machen.",
+      "context": "Rocco (Edward G. Robinson) erschießt Deputy Sawyer (John Rodney) und lässt die Leiche verschwinden. Als der Körper wieder auftaucht, richtet er den Verdacht auf die bereits gesuchten Brüder. Der Sheriff folgt dieser falschen Spur. Roccos Erklärung wirkt, weil sie eine vorhandene polizeiliche Erwartung ausnutzt und dafür unschuldige Menschen opfert.",
+      "anchor": "Rocco nutzt eine bestehende Fahndung als falsche Erklärung seines eigenen Mordes.",
+      "interest": "Der Zusammenhang zeigt, wie ein plausibel wirkender Verdacht die tatsächliche Täterschaft verdeckt.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie gelangt Frank (Humphrey Bogart) vor der Bootsfahrt an eine geladene Waffe?",
+      "answers": [
+        "Gaye (Claire Trevor) nimmt Rocco die Pistole ab und gibt sie Frank",
+        "Nora versteckt die Polizeipistole in Franks Gepäck",
+        "Der Sheriff übergibt sie Frank heimlich am Anleger",
+        "James tauscht sie gegen einen Teil der Falschgeldbeute"
+      ],
+      "feedback": [
+        "Gaye stiehlt die Pistole und ermöglicht Frank damit den Widerstand auf See.",
+        "Nora ist nicht die Geberin dieser Waffe.",
+        "Der Sheriff bereitet Franks Gegenwehr nicht am Anleger vor.",
+        "Ein Handel mit Falschgeld liefert die Pistole nicht."
+      ],
+      "short": "Gaye stiehlt die Pistole und ermöglicht Frank damit den Widerstand auf See.",
+      "context": "Gaye Dawn (Claire Trevor) hat Franks (Humphrey Bogart) Hilfe erlebt und wendet sich gegen Rocco (Edward G. Robinson). Sie nimmt ihm die Pistole ab und gibt sie unbemerkt weiter. Die frühere kleine Gegenhandlung wird damit erwidert und ermöglicht den späteren bewaffneten Widerstand. Die entscheidende Hilfe entsteht aus einer Beziehung, die Rocco nur als Abhängigkeit behandelt hatte.",
+      "anchor": "Gayes heimlich weitergegebene Pistole erwidert Franks frühere Hilfe.",
+      "interest": "Die Handlung verbindet Fürsorge mit der praktischen Möglichkeit zum Widerstand.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1948",
+        "1945",
+        "1942",
+        "1950"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1948.",
+        "1945 liegt drei Jahre vor der ersten Veröffentlichung von 1948.",
+        "1942 liegt sechs Jahre vor der ersten Veröffentlichung von 1948.",
+        "1950 ist ein späteres Jahr als das belegte erste Filmjahr 1948."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1948.",
+      "context": "Maxwell Andersons Bühnenstück Key Largo wurde 1939 uraufgeführt. John Hustons Film folgte 1948, neun Jahre später. Die Filmfassung macht Frank McCloud (Humphrey Bogart) zum Veteranen des Zweiten Weltkriegs. Damit stehen seine Kriegserinnerung und seine neue Entscheidung gegenüber Gewalt in einer späteren historischen Situation als die ursprüngliche Bühne.",
+      "anchor": "Andersons Bühnenstück 1939 → Hustons Film 1948: neun Jahre.",
+      "interest": "Die Vorlage verbindet das Filmjahr mit dem veränderten historischen Hintergrund des Veteranen.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Huston",
+        "Howard Hawks",
+        "William Wyler",
+        "Raoul Walsh"
+      ],
+      "feedback": [
+        "John Huston führte bei diesem Film Regie.",
+        "Howard Hawks hat diesen Film nicht inszeniert; der Regiecredit lautet John Huston.",
+        "William Wyler hat diesen Film nicht inszeniert; der Regiecredit lautet John Huston.",
+        "Raoul Walsh hat diesen Film nicht inszeniert; der Regiecredit lautet John Huston."
+      ],
+      "short": "John Huston führte bei diesem Film Regie.",
+      "context": "John Huston schrieb die Adaption mit Richard Brooks und führte Regie. Der größte Teil entstand im Studio, obwohl das Wetter und die Küstenlage den Ablauf bestimmen. Für Franks (Humphrey Bogart) Erinnerungen an seinen gefallenen Kameraden griff Huston auch auf Erfahrungen seiner Kriegsdokumentation zurück. Die persönliche Erinnerung verbindet den abgeschlossenen Gangsterraum mit einer größeren Kriegserfahrung.",
+      "anchor": "Huston verbindet die Bühnenadaption mit konkreten Erfahrungen aus seiner Kriegsdokumentation.",
+      "interest": "Der Hintergrund erklärt, weshalb Franks Veteranenrolle mehr als eine allgemeine Heldenbiografie ist.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

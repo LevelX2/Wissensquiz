@@ -1,0 +1,220 @@
+{
+  "rank": 96,
+  "titleDe": "Der Schrecken vom Amazonas",
+  "originalTitle": "Creature from the Black Lagoon",
+  "year": 1954,
+  "genre": "Horror",
+  "familiarity": 3,
+  "directors": [
+    "Jack Arnold"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Detroit-Premiere am 12. Februar 1954; regionale US-Kinostarts ab März 1954. AFI führt die Originalproduktion in Schwarzweiß und 3-D.",
+  "familiarity_reason": "Der Gill-Man gehört zu den wiedererkennbaren Universal-Monstern; die Handlung dieses Films von 1954 ist weniger allgemein bekannt als seine Kreatur, Stufe 3.",
+  "sources": {
+    "afi": "https://catalog.afi.com/Catalog/moviedetails/51168",
+    "handlung": "https://en.wikipedia.org/wiki/Creature_from_the_Black_Lagoon",
+    "tcmclips": {
+      "url": "https://www.tcm.com/watchtcm/titles/71745",
+      "supports": "Gelesene Beschreibungen der Originalclips: Handfund und Kay-Schwimmszene mit Richard Carlson, Richard Denning und Julie Adams."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Fund veranlasst die wissenschaftliche Suche in @?",
+      "answers": [
+        "Eine versteinerte Hand mit Schwimmhäuten",
+        "Ein vollständiges Skelett an Land",
+        "Eine versteinerte Flosse ohne Finger",
+        "Ein erhaltenes Ei im Flussufer"
+      ],
+      "feedback": [
+        "Die versteinerte Hand weist auf eine unbekannte Lebensform.",
+        "Der Ausgangsfund ist die ungewöhnliche versteinerte Hand, kein vollständiges Skelett.",
+        "Die Hand mit Schwimmhäuten verbindet menschenartige und aquatische Merkmale.",
+        "Ein konserviertes Ei löst die Expedition nicht aus."
+      ],
+      "short": "Die versteinerte Hand weist auf eine unbekannte Lebensform.",
+      "context": "Carl Maia (Antonio Moreno) findet eine versteinerte Hand mit Schwimmhäuten. Der Fund verspricht Wissen über eine bisher unbekannte Lebensform. Was zunächst als Untersuchung eines toten Überrests beginnt, führt die Forschenden in den Lebensraum eines lebenden Wesens. Ihre ursprüngliche Erwartung passt nicht mehr zur Begegnung.",
+      "anchor": "Aus der fossilen Hand wird die Suche nach einer lebenden unbekannten Art.",
+      "interest": "Erklärt den wissenschaftlichen Anlass und die Verschiebung der Erwartung.",
+      "sources": [
+        "tcmclips",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie gelangt das Forschungsteam in @ tiefer in das Flussgebiet?",
+      "answers": [
+        "Mit dem Boot Rita",
+        "Mit einer Eisenbahnexpedition",
+        "Mit einem Konvoi von Lastwagen",
+        "Mit einer Luftbrücke zum Lager"
+      ],
+      "feedback": [
+        "Die Rita bringt das Team zur Lagune.",
+        "Eine Bahnlinie trägt die Expedition nicht.",
+        "Lastwagen übernehmen nicht die Flussreise.",
+        "Eine Luftbrücke bildet nicht ihr Transportmittel."
+      ],
+      "short": "Die Rita bringt das Team zur Lagune.",
+      "context": "Kapitän Lucas (Nestor Paiva) führt die Rita mit dem Forschungsteam zur Lagune. Das Boot ist zugleich Transportmittel, Unterkunft und Rückzugsort. Seine Beweglichkeit ist daher für die Sicherheit entscheidend. Die Forschenden betreten einen fremden Lebensraum, bleiben aber von einer einzigen Verbindung zurück abhängig.",
+      "anchor": "Die Rita ist Reiseweg und Schutzraum der Forschenden zugleich.",
+      "interest": "Verbindet das Transportmittel mit der räumlichen Verletzbarkeit der Gruppe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Worüber streiten David und Mark in @ nach den Begegnungen mit der Kreatur?",
+      "answers": [
+        "Über Schutz und Untersuchung gegenüber Tötung und Beweisbesitz",
+        "Über die sofortige Rückkehr gegenüber weiterer Suche",
+        "Über Gefangennahme gegenüber bloßer fotografischer Beobachtung",
+        "Über eine Veröffentlichung gegenüber dauerhafter Geheimhaltung"
+      ],
+      "feedback": [
+        "David will die Art schützen; Mark drängt auf einen greifbaren Fang oder Körper.",
+        "Der zentrale Streit gilt dem Umgang mit der Kreatur als Lebewesen oder Besitzbeweis.",
+        "Davids Anliegen geht über eine Konkurrenz zweier Beobachtungsmethoden hinaus.",
+        "Die Gegensätze betreffen Schutz, Forschung und Tötung und nicht allein eine Publikationsentscheidung."
+      ],
+      "short": "David will die Art schützen; Mark drängt auf einen greifbaren Fang oder Körper.",
+      "context": "David Reed (Richard Carlson) fordert Rücksicht auf die Kreatur und ihren Lebensraum. Mark Williams (Richard Denning) verlangt einen vorzeigbaren Erfolg. Der Streit verbindet Wissenschaft mit ihrem gesellschaftlichen Nachweis: Das Wesen soll verstanden werden, wird aber zugleich zum Gegenstand von Besitz, Anerkennung und möglicher Vernichtung.",
+      "anchor": "David will verstehen und bewahren; Mark verlangt den greifbaren Beweis.",
+      "interest": "Erklärt die konkurrierenden Vorstellungen wissenschaftlichen Erfolgs.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Was hält die Rita in @ zunächst davon ab, die Lagune zu verlassen?",
+      "answers": [
+        "Ein von der Kreatur versperrter Wasserweg",
+        "Ein umgestürzter Baum beschädigt den Antrieb.",
+        "Der Kapitän verliert die Karte des Wasserwegs.",
+        "Ein Sturm macht die Flussmündung unpassierbar."
+      ],
+      "feedback": [
+        "Die Kreatur blockiert die Ausfahrt mit Holz.",
+        "Die Kreatur versperrt die Zufahrt gezielt; ein Motorschaden hält das Boot nicht fest.",
+        "Der Wasserweg ist blockiert und nicht wegen einer fehlenden Karte unbekannt.",
+        "Das Hindernis wurde von der Kreatur geschaffen und ist kein Sturm an der Mündung."
+      ],
+      "short": "Die Kreatur blockiert die Ausfahrt mit Holz.",
+      "context": "Die Kreatur (Ben Chapman an Land, Ricou Browning unter Wasser) versperrt den Wasserweg mit Holz. Der Versuch, den gefährlichen Ort zu verlassen, verlangt nun erneute Annäherung an seinen Bewohner. Die Expedition verliert damit die Möglichkeit, Beobachtung und Rückzug selbstständig voneinander zu trennen.",
+      "anchor": "Der versperrte Wasserweg zwingt die Forschenden erneut zur Begegnung.",
+      "interest": "Verbindet das konkrete Hindernis mit der verschärften Abhängigkeit vom Lebensraum.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was macht die Schwimmszene mit Kay in @ für die Zuschauer bedrohlich?",
+      "answers": [
+        "Die Kreatur folgt ihr unter Wasser, ohne dass sie sie bemerkt.",
+        "Kay beobachtet die Kreatur durchgehend durch ein Fernglas.",
+        "Die Szene zeigt ausschließlich Davids Bericht nach dem Schwimmen.",
+        "Die Kreatur steht sichtbar wartend auf dem Boot."
+      ],
+      "feedback": [
+        "Die Zuschauer sehen die unbemerkte Verfolgung.",
+        "Kay besitzt keinen sicheren Überblick durch ein Fernglas.",
+        "Die Szene stellt die Begegnung selbst dar.",
+        "Die Gefahr ist zunächst unter der Oberfläche."
+      ],
+      "short": "Die Zuschauer sehen die unbemerkte Verfolgung.",
+      "context": "Kay (Julie Adams) schwimmt an der Oberfläche, während die Kreatur (Ricou Browning in den Unterwasseraufnahmen) ihr darunter folgt. Die beiden Bewegungen teilen den Bildraum, ohne eine sichere gemeinsame Wahrnehmung zu schaffen. Der Wissensvorsprung des Publikums verwandelt einen scheinbar ruhigen Aufenthalt im Wasser in eine bedrohte Situation.",
+      "anchor": "Kay sieht die Gefahr nicht; das Publikum sieht sie unter ihr.",
+      "interest": "Erklärt die Spannung aus der geteilten Bildfläche und ungleichen Wahrnehmung.",
+      "sources": [
+        "tcmclips"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Welche ursprüngliche Vorführtechnik gab den räumlichen Begegnungen in @ besondere Tiefe?",
+      "answers": [
+        "Stereoskopisches 3-D in Schwarzweiß",
+        "Schwarzweiß in gewöhnlicher flacher Projektion",
+        "Farbfilm mit stereoskopischer Doppelprojektion",
+        "Breitwand mit drei Cinerama-Bildfeldern"
+      ],
+      "feedback": [
+        "Der Film wurde als Schwarzweißfilm in 3-D hergestellt.",
+        "Die Originalgestaltung nutzt stereoskopisches 3-D und nicht allein flaches Schwarzweiß.",
+        "Die räumliche Originalfassung ist schwarzweiß, nicht farbig.",
+        "Das Verfahren ist stereoskopisches 3-D und kein dreiteiliges Cinerama-Panorama."
+      ],
+      "short": "Der Film wurde als Schwarzweißfilm in 3-D hergestellt.",
+      "context": "Der Film wurde in Schwarzweiß und stereoskopischem 3-D hergestellt. Die räumlichen Wasser- und Begegnungsszenen konnten dadurch einen besonderen Eindruck von Tiefe erzeugen. Das Format ist von späteren farbigen 3-D-Wiederaufführungsverfahren zu unterscheiden; zugleich zeigten viele Kinos bereits die ursprüngliche Fassung in gewöhnlichem 2-D.",
+      "anchor": "Schwarzweißbilder und stereoskopische Tiefe gehören zur ursprünglichen Gestaltung.",
+      "interest": "Verbindet die Bildtechnik mit der räumlichen Wirkung und ihrer tatsächlichen Vorführung.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, ein Jahr nach Arnolds „It Came from Outer Space“ von 1953?",
+      "answers": [
+        "1954",
+        "1953",
+        "1955",
+        "1956"
+      ],
+      "feedback": [
+        "1954 folgte ein Jahr nach dem früheren Science-Fiction-Film.",
+        "1953 bezeichnet die frühere Zusammenarbeit.",
+        "1955 gehört zur ersten Fortsetzung.",
+        "1956 gehört zum dritten Film des Kreaturenzyklus."
+      ],
+      "short": "1954 folgte ein Jahr nach dem früheren Science-Fiction-Film.",
+      "context": "It Came from Outer Space erschien 1953. Der Schrecken vom Amazonas folgte 1954, ein Jahr später. Regisseur Jack Arnold, Darsteller Richard Carlson, Produzent William Alland und Autor Harry Essex arbeiteten erneut zusammen. Der zeitliche Anschluss verknüpft zwei unterschiedliche unbekannte Wesen mit einem wiederkehrenden Universal-Filmteam.",
+      "anchor": "1953 das Wesen aus dem All, 1954 die Kreatur der Lagune: dasselbe Kernteam.",
+      "interest": "Verankert das Jahr in einer belegten früheren Zusammenarbeit.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte die Gesamtregie bei @?",
+      "answers": [
+        "Jack Arnold",
+        "John Sherwood",
+        "Gordon Douglas",
+        "Nathan Juran"
+      ],
+      "feedback": [
+        "Jack Arnold führte die Gesamtregie.",
+        "Sherwood inszenierte später den dritten Kreaturenfilm.",
+        "Douglas führte bei diesem Film nicht Regie.",
+        "Juran ist nicht dessen Gesamtregisseur."
+      ],
+      "short": "Jack Arnold führte die Gesamtregie.",
+      "context": "Jack Arnold führte die Gesamtregie. James C. Havens leitete laut Filmcredit die Unterwassersequenzen. Diese Aufgabentrennung ist für die besonderen Tauchbilder relevant: Die Filmregie und die spezialisierte Leitung eines Aufnahmebereichs gehören zum selben Werk, werden in den Credits jedoch mit unterschiedlichen Zuständigkeiten bezeichnet.",
+      "anchor": "Arnold: Gesamtregie; Havens: Leitung der Unterwassersequenzen.",
+      "interest": "Ordnet einen wichtigen Zusatzcredit ohne falsche Gleichsetzung der Zuständigkeiten ein.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "director_note": "Jack Arnold ist der Filmregisseur; James C. Havens wird als Underwater sequence director geführt, eine spezialisierte Sequenzregie und keine gemeinsam ausgewiesene Gesamtregie."
+}

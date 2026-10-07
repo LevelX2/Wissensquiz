@@ -1,0 +1,233 @@
+{
+  "rank": 228,
+  "titleDe": "The International",
+  "originalTitle": "The International",
+  "year": 2009,
+  "genre": "Thriller",
+  "familiarity": 3,
+  "familiarity_reason": "Ein Banken- und Ermittlungsthriller verbindet internationalen Waffenhandel mit der Frage nach institutioneller Verantwortung.",
+  "directors": [
+    "Tom Tykwer"
+  ],
+  "production_countries": [
+    "USA",
+    "Deutschland"
+  ],
+  "release_note": "Weltpremiere als Eröffnungsfilm der Berlinale am 5. Februar 2009; reguläre Kinostarts folgten im selben Monat.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/The_International_(2009_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "festival": {
+      "url": "https://www.filmportal.de/nachrichten/glanzvolle-eroeffnung-der-berlinale-2009",
+      "supports": "Ankündigung der Weltpremiere als Berlinale-Eröffnungsfilm 2009."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/The_International",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Gegen welche Art von Institution ermitteln Salinger (Clive Owen) und Whitman (Naomi Watts)?",
+      "answers": [
+        "Eine international tätige Privatbank",
+        "Eine internationale Fluggesellschaft",
+        "Einen kirchlichen Hilfsverband",
+        "Einen Pharmahersteller"
+      ],
+      "feedback": [
+        "Ihr Gegner ist die fiktive Bank IBBC.",
+        "Luftverkehr gehört nicht zur untersuchten Organisation.",
+        "Die IBBC ist keine wohltätige kirchliche Vereinigung.",
+        "Die Ermittlungen betreffen Finanzgeschäfte und Waffenhandel, keine Arzneimittelproduktion."
+      ],
+      "short": "Ihr Gegner ist die fiktive Bank IBBC.",
+      "context": "Louis Salinger (Clive Owen) und Eleanor Whitman (Naomi Watts) verfolgen die Geschäfte der IBBC. Die Bank verbindet Kreditmacht mit Waffenhandel und politischer Einflussnahme. Ihre Reichweite erschwert die Untersuchung, weil mögliche Zeugen und Verdächtige nicht an einem einzigen Ort zu finden sind.",
+      "anchor": "Die IBBC ist die Bank im Zentrum der grenzüberschreitenden Ermittlung.",
+      "interest": "Die Frage macht das Ziel des institutionellen Konflikts klar.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "In welchem New Yorker Gebäude eskaliert die große Schießerei?",
+      "answers": [
+        "Im Guggenheim Museum",
+        "Im Hauptbahnhof Grand Central",
+        "In der Metropolitan Opera",
+        "Im Hauptquartier der Vereinten Nationen"
+      ],
+      "feedback": [
+        "Die spiralige Museumsarchitektur des Guggenheim wird zum Schauplatz des Kampfes.",
+        "Grand Central ist nicht der Ort dieser großen Konfrontation.",
+        "Die Szene findet in einem Kunstmuseum, nicht in der Oper statt.",
+        "Ein UN-Gebäude ist nicht das hier angegriffene Versteck."
+      ],
+      "short": "Die spiralige Museumsarchitektur des Guggenheim wird zum Schauplatz des Kampfes.",
+      "context": "Louis Salinger (Clive Owen) folgt dem Attentäter (Brían F. O’Byrne) ins Guggenheim Museum. Ein Killerkommando der Bank greift dort beide an. Der spiralförmige Raum erschwert eine sichere Flucht und macht die Angreifer von mehreren Ebenen aus sichtbar. Für die zerstörbaren Teile entstand ein Nachbau außerhalb New Yorks.",
+      "anchor": "Der Guggenheim-Kampf macht die Museumsarchitektur zum Hindernisraum.",
+      "interest": "Ein prägnanter Schauplatz verbindet Handlung und Gestaltung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum kämpft Salinger (Clive Owen) im Museum plötzlich an der Seite des Attentäters?",
+      "answers": [
+        "Die Bank will auch ihren eigenen Auftragsmörder beseitigen",
+        "Der Attentäter wurde offiziell als Interpol-Agent bestätigt",
+        "Beide haben vorher einen gemeinsamen Überfall vereinbart",
+        "Whitman hat mit dem Attentäter einen Zeugenschutzvertrag geschlossen."
+      ],
+      "feedback": [
+        "Das Killerkommando richtet sich auch gegen den belastenden eigenen Helfer.",
+        "Der Mann wird nicht als verdeckter Interpol-Kollege enttarnt.",
+        "Eine vorher geplante Zusammenarbeit besteht nicht.",
+        "Die gemeinsame Gefahr entsteht, weil die Bank ihren eigenen Auftragsmörder ebenfalls beseitigen will."
+      ],
+      "short": "Das Killerkommando richtet sich auch gegen den belastenden eigenen Helfer.",
+      "context": "Der Attentäter (Brían F. O’Byrne) kann die Ermittler zur Bank führen. Deshalb soll er beseitigt werden, bevor er aussagt. Louis Salinger (Clive Owen) muss während des Angriffs mit dem bisherigen Gegner zusammenarbeiten. Die vorübergehende Allianz entsteht aus gemeinsamer Lebensgefahr und beseitigt die Schuld des Mannes nicht.",
+      "anchor": "Die Bank beseitigt ihren Helfer; der Ermittler braucht ihn lebend.",
+      "interest": "Die Szene erklärt den überraschenden Wechsel einer Figurenallianz.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum hält Wexler (Armin Mueller-Stahl) eine reguläre Zerschlagung der Bank für kaum erreichbar?",
+      "answers": [
+        "Viele mächtige Gruppen profitieren von ihren Geschäften",
+        "Die Bank besitzt keinerlei schriftliche Unterlagen",
+        "Alle Bankangestellten sind diplomatisch immun",
+        "Das Gericht hat ihre Geschäfte bereits vollständig genehmigt"
+      ],
+      "feedback": [
+        "Wexler beschreibt ein Netz aus Regierungen, Unternehmen und Kriminellen mit gemeinsamen Interessen.",
+        "Sein Argument betrifft die vernetzten Interessen, nicht völlige Dokumentenlosigkeit.",
+        "Eine allgemeine diplomatische Immunität aller Angestellten wird nicht behauptet.",
+        "Eine umfassende gerichtliche Genehmigung ist keine Grundlage seiner Erklärung."
+      ],
+      "short": "Wexler beschreibt ein Netz aus Regierungen, Unternehmen und Kriminellen mit gemeinsamen Interessen.",
+      "context": "Wexler (Armin Mueller-Stahl) ist ein früherer Stasi-Offizier und Sicherheitsberater. Er erklärt Louis Salinger (Clive Owen), dass die IBBC für viele gegensätzliche Gruppen nützlich sei. Selbst ihr Verschwinden könne deshalb neue Anbieter hervorbringen. Das Gespräch verschiebt den Konflikt vom einzelnen schuldigen Manager auf ein widerstandsfähiges System.",
+      "anchor": "Die Bank ist durch die Interessen ihrer Geschäftspartner geschützt.",
+      "interest": "Der Zusammenhang erklärt die Grenze einer ausschließlich personengebundenen Ermittlung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was erreichen die Söhne Calvinis, nachdem Salinger (Clive Owen) sie informiert?",
+      "answers": [
+        "Sie stoppen das Geschäft und lassen Verantwortliche aus Rache töten",
+        "Sie übernehmen als neue Direktoren die gesamte Bank",
+        "Sie retten Wexler und verstecken ihn in Luxemburg",
+        "Sie verhindern den Verkauf durch eine öffentliche Ausschreibung."
+      ],
+      "feedback": [
+        "Sie kündigen den Deal und verfolgen die Bankführung mit eigenen Racheaufträgen.",
+        "Sie werden nicht zum neuen Vorstand der IBBC.",
+        "Wexler wird später ebenfalls Opfer ihres Racheplans.",
+        "Sie stoppen die Vereinbarung und greifen aus Rache zu Tötungen, nicht zu einer Ausschreibung."
+      ],
+      "short": "Sie kündigen den Deal und verfolgen die Bankführung mit eigenen Racheaufträgen.",
+      "context": "Louis Salinger (Clive Owen) erklärt Calvinis Söhnen, dass die Bank ihren Vater ermorden ließ. Daraufhin bricht ein wichtiges Geschäft weg, doch an die Stelle einer gerichtlichen Aufklärung treten Vergeltungstötungen. Die neue Gegenmacht hilft dem Ermittler deshalb nur teilweise: Sie verfolgt ihre eigene Rache und nicht seine Vorstellung von Gerechtigkeit.",
+      "anchor": "Die Information löst einen Geschäftsabbruch und private Vergeltung aus.",
+      "interest": "Die Frage unterscheidet einen erzielten Schaden von einer rechtsstaatlichen Lösung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was zeigen die Zeitungsschlagzeilen nach Skarssens Tod?",
+      "answers": [
+        "Die Bank arbeitet weiter; Whitman leitet später eine Untersuchung",
+        "Die Bank schließt sofort sämtliche Filialen",
+        "Salinger erhält den Auftrag zur Überwachung sämtlicher Filialen.",
+        "Die Bank verliert sofort ihre gesamte internationale Geschäftserlaubnis."
+      ],
+      "feedback": [
+        "Die Geschäfte setzen sich fort; ein Untersuchungsausschuss eröffnet eine weitere Front.",
+        "Der Tod des Vorsitzenden bewirkt keine unmittelbare Gesamtschließung.",
+        "Die Bank arbeitet weiter; die später genannte Untersuchung führt Whitman.",
+        "Die Schlussmeldungen zeigen das Fortbestehen der Bank und keine sofortige vollständige Stilllegung."
+      ],
+      "short": "Die Geschäfte setzen sich fort; ein Untersuchungsausschuss eröffnet eine weitere Front.",
+      "context": "Jonas Skarssen (Ulrich Thomsen) wird getötet, doch die eingeblendeten Meldungen zeigen weiter steigende Geschäfte der IBBC. Eleanor Whitman (Naomi Watts) kehrt über eine Senatsuntersuchung ins Bild zurück. Der Schluss verweigert damit eine einfache Gleichung zwischen dem Tod eines Verantwortlichen und dem Ende des wirtschaftlichen Machtgefüges.",
+      "anchor": "Der Vorstand stirbt, die Institution überlebt und wird weiter untersucht.",
+      "interest": "Das Ende konkretisiert den Unterschied zwischen Täter und System.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2009",
+        "2006",
+        "2003",
+        "2011"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2009.",
+        "2006 liegt drei Jahre vor der ersten Veröffentlichung von 2009.",
+        "2003 liegt sechs Jahre vor der ersten Veröffentlichung von 2009.",
+        "2011 ist ein späteres Jahr als das belegte erste Filmjahr 2009."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2009.",
+      "context": "Die Dreharbeiten begannen 2007 in Berlin, die Weltpremiere eröffnete 2009 die Berlinale. Zwischen Produktionsbeginn und Veröffentlichung lagen damit rund zwei Jahre. Für den großen Museumskampf entstand in Deutschland ein maßstabsgroßer Nachbau des Guggenheim-Innenraums. Die internationale Wirkung des Films entstand also auch durch eine aufwendige Berliner Produktion.",
+      "anchor": "Drehbeginn in Berlin 2007 → Berlinale-Weltpremiere 2009: rund zwei Jahre.",
+      "interest": "Die Verbindung verankert das Erscheinungsjahr im konkreten Herstellungsablauf.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Tom Tykwer",
+        "Florian Henckel von Donnersmarck",
+        "Oliver Hirschbiegel",
+        "Fernando Meirelles"
+      ],
+      "feedback": [
+        "Tom Tykwer führte bei diesem Film Regie.",
+        "Florian Henckel von Donnersmarck hat diesen Film nicht inszeniert; der Regiecredit lautet Tom Tykwer.",
+        "Oliver Hirschbiegel hat diesen Film nicht inszeniert; der Regiecredit lautet Tom Tykwer.",
+        "Fernando Meirelles hat diesen Film nicht inszeniert; der Regiecredit lautet Tom Tykwer."
+      ],
+      "short": "Tom Tykwer führte bei diesem Film Regie.",
+      "context": "Tom Tykwer inszenierte Eric Warren Singers Drehbuch; Frank Griebe fotografierte den Film. Tykwer war außerdem an der Musik beteiligt. Die Handlung führt Louis Salinger (Clive Owen) durch mehrere Länder, während die Bilder wiederholt institutionelle Architektur betonen. Banken, Flughäfen und Museen geben dem kaum greifbaren Machtgefüge konkrete sichtbare Räume.",
+      "anchor": "Tykwer inszeniert Singers Bankenthriller mit internationaler Architektur als Handlungsraum.",
+      "interest": "Der Regiehintergrund verbindet die internationalen Ortswechsel mit dem Thema institutioneller Macht.",
+      "sources": [
+        "wiki",
+        "festival"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

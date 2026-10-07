@@ -1,0 +1,222 @@
+{
+  "rank": 56,
+  "titleDe": "Babel",
+  "originalTitle": "Babel",
+  "year": 2006,
+  "genre": "Drama",
+  "familiarity": 3,
+  "directors": [
+    "Alejandro González Iñárritu"
+  ],
+  "production_countries": [
+    "Vereinigte Staaten",
+    "Mexiko",
+    "Frankreich"
+  ],
+  "release_note": "Weltpremiere am 23. Mai 2006 im Wettbewerb von Cannes; der US-Kinostart folgte im Oktober 2006.",
+  "familiarity_reason": "Das internationale Ensemble und die bekannten Hauptdarsteller machen den Film im anspruchsvollen Kino gut erkennbar; Bekanntheit 3.",
+  "sources": {
+    "film": "https://www.paramountpictures.com/movies/babel",
+    "cannes": "https://www.festival-cannes.com/en/f/babel/",
+    "handlung": "https://en.wikipedia.org/wiki/Babel_(2006_film)",
+    "analyse": "https://www.rogerebert.com/reviews/babel-2006",
+    "ton": "https://www.rogerebert.com/scanners/tiff-tower-to-nowhere"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Ereignis setzt die internationale Verkettung in @ in Gang?",
+      "answers": [
+        "Ein Gewehrschuss verletzt eine amerikanische Touristin in Marokko.",
+        "Ein Schuss verletzt eine amerikanische Touristin in Mexiko.",
+        "Ein Schuss verletzt eine japanische Touristin in Marokko.",
+        "Ein Schuss verletzt ein amerikanisches Kind in Japan."
+      ],
+      "feedback": [
+        "Der Schuss auf einen Reisebus trifft Susan.",
+        "Der entscheidende Schuss fällt in Marokko.",
+        "Die Verletzte ist Susan, eine amerikanische Touristin, keine japanische Reisende.",
+        "Der Schuss trifft eine Erwachsene in Marokko und nicht ein Kind in Japan."
+      ],
+      "short": "Der Schuss auf einen Reisebus trifft Susan.",
+      "context": "Susan (Cate Blanchett) wird während einer Urlaubsreise verletzt, ihr Mann Richard (Brad Pitt) sucht Hilfe. Die Folgen erreichen auch Menschen, die nie auf diesem Bus waren. Der Film zeigt Verbindungen zwischen einzelnen Handlungen, familiären Verpflichtungen und politischen Reaktionen, die weit über den ursprünglichen Ort hinausreichen.",
+      "anchor": "Ein Schuss in Marokko löst weit entfernte Folgen aus.",
+      "interest": "Der Handlungsauslöser erklärt die internationale Struktur des Films.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Länder bilden die vier hauptsächlichen Schauplätze von @?",
+      "answers": [
+        "Marokko, USA, Mexiko und Japan",
+        "Ägypten, USA, Kanada und China",
+        "Tunesien, Großbritannien, Spanien und Südkorea",
+        "Algerien, Frankreich, Brasilien und Indien"
+      ],
+      "feedback": [
+        "Diese vier Schauplätze verbinden die Familiengeschichten.",
+        "Diese Länderkombination entspricht nicht den gezeigten Handlungsorten.",
+        "Großbritannien, Spanien und Südkorea bilden keine entsprechenden Stränge.",
+        "Frankreich, Brasilien und Indien gehören nicht zu den vier Haupthandlungsorten."
+      ],
+      "short": "Diese vier Schauplätze verbinden die Familiengeschichten.",
+      "context": "Die Geschichten bewegen sich zwischen einer marokkanischen Landschaft, einem amerikanischen Haushalt, einer mexikanischen Hochzeit und dem städtischen Japan. Unterschiedliche Lebensumstände erschweren Verständigung. Die Montage macht dennoch gemeinsame Bedürfnisse sichtbar: Schutz, Anerkennung und die Nähe anderer Menschen.",
+      "anchor": "Vier Schauplätze verbinden sehr unterschiedliche Lebenswelten.",
+      "interest": "Die Orte helfen, die zunächst getrennten Erzählstränge zuzuordnen.",
+      "sources": [
+        "film",
+        "analyse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Warum nimmt Amelia die amerikanischen Kinder mit nach Mexiko?",
+      "answers": [
+        "Sie möchte die Hochzeit ihres Sohnes besuchen und findet keine andere Betreuung.",
+        "Sie will die Kinder dauerhaft bei ihren Eltern unterbringen.",
+        "Sie soll die Kinder dort in eine Sprachschule bringen.",
+        "Sie begleitet die Kinder zu einem Sportturnier."
+      ],
+      "feedback": [
+        "Amelia versucht Familienpflicht und Betreuung der Kinder zu verbinden.",
+        "Eine dauerhafte Unterbringung in Mexiko ist nicht ihr Plan.",
+        "Ein geplanter Sprachkurs erklärt die Fahrt nicht.",
+        "Ein Sportturnier ist nicht der Reiseanlass."
+      ],
+      "short": "Amelia versucht Familienpflicht und Betreuung der Kinder zu verbinden.",
+      "context": "Amelia (Adriana Barraza) betreut Mike (Nathan Gamble) und Debbie (Elle Fanning), während deren Eltern in Marokko feststecken. Für sie selbst ist die Hochzeit ihres Sohnes ein wichtiger Familientermin. Ihre Entscheidung entsteht aus diesem Konflikt und führt später an der Grenze zu einer Situation, die sie nicht mehr beherrschen kann.",
+      "anchor": "Die Hochzeit ihres Sohnes kollidiert mit Amelias Betreuungspflicht.",
+      "interest": "Die Reise entsteht aus zwei gleichzeitig bestehenden Familienbindungen.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wie deuten amerikanische Behörden den Schuss zunächst?",
+      "answers": [
+        "Als Terroranschlag",
+        "Als gewöhnlichen Jagdunfall",
+        "Als persönliche Rache zwischen den Reisenden",
+        "Als Raubüberfall auf den Reisebus"
+      ],
+      "feedback": [
+        "Der Schuss wird politisch als terroristischer Angriff eingeordnet.",
+        "Die internationale Deutung als Terroranschlag überlagert den tatsächlichen Schuss der Jungen.",
+        "Es gibt keine persönliche Fehde zwischen den Touristen.",
+        "Die Schützen versuchen nicht, den Bus auszurauben."
+      ],
+      "short": "Der Schuss wird politisch als terroristischer Angriff eingeordnet.",
+      "context": "Der tatsächliche Schuss entsteht beim Ausprobieren einer Waffe durch Kinder. Die Behörden kennen diesen Hintergrund noch nicht und reagieren mit einem anderen Deutungsrahmen. Richard (Brad Pitt) braucht sofortige Hilfe für Susan (Cate Blanchett), während die Verletzung zugleich zum Gegenstand internationaler politischer Kommunikation wird.",
+      "anchor": "Eine kindliche Mutprobe wird als Terrorakt gedeutet.",
+      "interest": "Die Szene zeigt den Abstand zwischen Geschehen und politischer Interpretation.",
+      "sources": [
+        "analyse",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S1",
+      "question": "Wie verbindet die Geschichte des Gewehrs den japanischen und den marokkanischen Handlungsstrang?",
+      "answers": [
+        "Chiekos Vater hatte die Waffe seinem marokkanischen Jagdführer geschenkt.",
+        "Chieko hatte die Waffe von Tokio aus an die Kinder verkauft.",
+        "Der japanische Ermittler hatte die Waffe bei einem Einsatz verloren.",
+        "Susans Reisegruppe hatte die Waffe aus Japan mitgebracht."
+      ],
+      "feedback": [
+        "Das Jagdgeschenk wandert weiter und wird später von den Jungen benutzt.",
+        "Chieko verkauft die Waffe nicht selbst nach Marokko.",
+        "Ein verlorenes Dienstgewehr ist nicht die Verbindung.",
+        "Die Touristengruppe ist nicht die Herkunft der Waffe."
+      ],
+      "short": "Das Jagdgeschenk wandert weiter und wird später von den Jungen benutzt.",
+      "context": "Yasujiro (Kōji Yakusho) gibt seinem Jagdführer ein Geschenk. Später gelangt das Gewehr zu einer anderen Familie und löst die Verletzung aus. Die Verbindung beruht weder auf einer Verschwörung noch auf persönlicher Bekanntschaft aller Beteiligten: Ein Gegenstand trägt die Folgen einer früheren Entscheidung über große Entfernungen weiter.",
+      "anchor": "Ein Jagdgeschenk aus Japan wird zur Waffe in Marokko.",
+      "interest": "Der Gegenstand macht eine unsichtbare Verbindung zwischen getrennten Lebensläufen konkret.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Was verändert sich beim Wechsel zu Chiekos Wahrnehmung in der Clubszene?",
+      "answers": [
+        "Die laute Musik wird ausgeblendet.",
+        "Die Musik wird zur gesprochenen Übersetzung.",
+        "Die Musik geht in einen Erzählerkommentar über.",
+        "Die Musik wird bei jedem Wechsel immer schneller."
+      ],
+      "feedback": [
+        "Der Tonwechsel setzt die gehörlose Wahrnehmung gegen die laute Umgebung.",
+        "Eine gesprochene Übersetzung übernimmt die Musik nicht.",
+        "Ein erklärender Erzähler ersetzt den Clubton nicht.",
+        "Ein stetig schneller werdender Rhythmus ist nicht der Wahrnehmungswechsel."
+      ],
+      "short": "Der Tonwechsel setzt die gehörlose Wahrnehmung gegen die laute Umgebung.",
+      "context": "Chieko (Rinko Kikuchi) ist gehörlos. Der Wechsel zwischen lautem Club und ausgeblendetem Ton lenkt den Zuschauer auf ihre Erfahrung von Isolation inmitten einer Gruppe. Das Verfahren wurde auch kritisch diskutiert, weil körperlich fühlbare Schwingungen zur Erfahrung gehörloser Menschen gehören können; im Film ist der Kontrast akustisch besonders deutlich.",
+      "anchor": "Der Club ist laut; Chiekos subjektiver Ton bricht diese Lautstärke ab.",
+      "interest": "Ton kann eine Wahrnehmungsposition markieren und zugleich Fragen nach ihrer Darstellung aufwerfen.",
+      "sources": [
+        "ton"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, sechs Jahre nach Iñárritus „Amores Perros“ von 2000?",
+      "answers": [
+        "2006",
+        "2003",
+        "2008",
+        "2010"
+      ],
+      "feedback": [
+        "2000 plus sechs Jahre ergibt 2006.",
+        "2003 ist das Jahr von „21 Gramm“, dem dazwischenliegenden Film.",
+        "2008 läge acht Jahre nach „Amores Perros“.",
+        "2010 ergäbe einen Abstand von zehn Jahren."
+      ],
+      "short": "2000 plus sechs Jahre ergibt 2006.",
+      "context": "Auf „Amores Perros“ von 2000 und „21 Gramm“ von 2003 folgte 2006 die international angelegte dritte Arbeit dieser verbundenen Werkgruppe. Über sechs Jahre erweitert sich der Blick von miteinander verschränkten Lebensläufen zu Beziehungen über Länder und Sprachen hinweg.",
+      "anchor": "2000, 2003, 2006: Die verbundenen Geschichten werden international.",
+      "interest": "Der Zeitanker ordnet die Erzählform in eine konkrete Werkfolge ein.",
+      "sources": [
+        "analyse",
+        "cannes"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ nach einem Drehbuch von Guillermo Arriaga?",
+      "answers": [
+        "Alejandro González Iñárritu",
+        "Guillermo del Toro",
+        "Alfonso Cuarón",
+        "Guillermo Arriaga"
+      ],
+      "feedback": [
+        "Iñárritu führte Regie; Arriaga schrieb das Drehbuch.",
+        "Del Toro führte bei diesem Film nicht Regie.",
+        "Cuarón gehört nicht zum Regieteam.",
+        "Arriaga ist hier Drehbuchautor, nicht der Regisseur."
+      ],
+      "short": "Iñárritu führte Regie; Arriaga schrieb das Drehbuch.",
+      "context": "Iñárritu arbeitet mit Guillermo Arriaga und Kameramann Rodrigo Prieto an einer Erzählung, die mehrere Lebenswelten verbindet. Die Regie muss diese Unterschiede erhalten und gleichzeitig die Verbindungen erfahrbar machen. Die konkreten Credits unterscheiden seine Aufgabe von der Stoffarbeit seines langjährigen Drehbuchpartners.",
+      "anchor": "Iñárritu inszeniert Arriagas internationale Erzählung.",
+      "interest": "Die Frage ordnet die Zusammenarbeit innerhalb des mexikanischen Filmumfelds präzise zu.",
+      "sources": [
+        "cannes"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

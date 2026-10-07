@@ -1,0 +1,224 @@
+{
+  "rank": 78,
+  "titleDe": "Die rote Schildkröte",
+  "originalTitle": "La Tortue rouge",
+  "year": 2016,
+  "genre": "Fantasy",
+  "familiarity": 4,
+  "directors": [
+    "Michaël Dudok de Wit"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Japan",
+    "Belgien"
+  ],
+  "release_note": "Premiere in Cannes am 18. Mai 2016; französischer Kinostart am 29. Juni 2016. Der spätere US-Start 2017 verändert das Veröffentlichungsjahr 2016 nicht.",
+  "familiarity_reason": "Der wortlose Ghibli-Koproduktionsfilm hat besondere Präsenz im Animations- und Festivalpublikum, ist im Alltag aber ein spezieller Titel; Bekanntheit 4.",
+  "sources": {
+    "cannes": "https://www.festival-cannes.com/en/f/la-tortue-rouge/",
+    "presse": "https://www.sonyclassics.com/theredturtle/theredturtle_presskit.pdf",
+    "handlung": "https://en.wikipedia.org/wiki/The_Red_Turtle",
+    "cnc": {
+      "url": "https://www.cinemasindependantsparisiens.fr/wp-content/uploads/2023/11/La-Tortue-rouge-de-Michael-Dudok-de-Wit.pdf",
+      "supports": "Gelesene Fiche technique und Genèse: Gesamtregie, separate Animationsleitung, künstlerischer Produzent Takahata, internationale Produktion und Einladung 2006."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Ausgangslage befindet sich der Mann zu Beginn von @?",
+      "answers": [
+        "Er strandet allein auf einer unbewohnten Insel.",
+        "Er kehrt mit seiner Familie auf eine bewohnte Insel zurück.",
+        "Er führt eine Expedition zu einer Forschungsstation.",
+        "Er besucht ein Fischerdorf auf einer Urlaubsreise."
+      ],
+      "feedback": [
+        "Er überlebt einen Schiffbruch und erreicht allein die Insel.",
+        "Die Familie entsteht erst im weiteren Verlauf.",
+        "Eine Forschungsstation ist nicht sein Ziel.",
+        "Er kommt als Schiffbrüchiger, nicht als Urlauber."
+      ],
+      "short": "Er überlebt einen Schiffbruch und erreicht allein die Insel.",
+      "context": "Der namenlose Mann erreicht nach einem Schiffbruch eine Insel mit Tieren und üppiger Natur. Die Erzählung beginnt mit elementaren Aufgaben des Überlebens. Daraus entwickelt sie eine Betrachtung über Lebensphasen, in der der begrenzte Ort zu einer ganzen menschlichen Erfahrungswelt wird.",
+      "anchor": "Ein Schiffbruch führt auf die Insel, auf der ein Leben entsteht.",
+      "interest": "Macht den kleinen Schauplatz als Träger einer umfassenden Lebensgeschichte verständlich.",
+      "sources": [
+        "cannes"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Wie vermittelt @ die Beziehungen seiner Figuren überwiegend?",
+      "answers": [
+        "Durch Gesten, Geräusche und Musik ohne gesprochenen Dialog",
+        "Durch einen erklärenden Erzähler und Tagebucheinträge",
+        "Durch gereimte Gespräche zwischen Mensch und Tieren",
+        "Durch häufige Texteinblendungen mit den Gedanken der Figuren"
+      ],
+      "feedback": [
+        "Der Film verzichtet auf gesprochenen Dialog.",
+        "Ein Erzähler erläutert die Beziehungen nicht fortlaufend.",
+        "Die Tiere und Menschen führen keine gereimten Gespräche.",
+        "Texteinblendungen tragen die Beziehungen nicht."
+      ],
+      "short": "Der Film verzichtet auf gesprochenen Dialog.",
+      "context": "Die Figuren sprechen keine Dialoge. Blicke, Bewegungen, Atem und die Musik vermitteln ihre Gefühle. Das fordert genaue Beobachtung und lässt zugleich vieles offen. Ein vertrauter Vorgang wie Fürsorge oder Abschied kann dadurch über die sichtbare Handlung verstanden werden, ohne dass Figuren ihn erklären.",
+      "anchor": "Ohne Dialog tragen Körper, Geräusche und Musik die Beziehungen.",
+      "interest": "Lenkt den Blick auf die eigenständige Ausdruckskraft der Animation.",
+      "sources": [
+        "presse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Was verhindert in @ zunächst wiederholt die Flucht des Mannes von der Insel?",
+      "answers": [
+        "Eine große Schildkröte zerstört seine Flöße.",
+        "Die Strömung zerlegt jedes Floß an denselben Felsen.",
+        "Ein plötzliches Gewitter zerstört jedes neue Floß.",
+        "Das Material bricht bei jedem ersten Versuch auseinander."
+      ],
+      "feedback": [
+        "Die Schildkröte greift die Flöße auf dem Wasser an.",
+        "Eine Schildkröte greift die Flöße an; die Strömung allein ist nicht der Grund.",
+        "Die wiederholten Hindernisse werden durch ein Tier verursacht, nicht durch regelmäßige Gewitter.",
+        "Die Flöße scheitern nicht bloß an schlechter Konstruktion."
+      ],
+      "short": "Die Schildkröte greift die Flöße auf dem Wasser an.",
+      "context": "Der Mann baut mehrere Flöße, doch die Schildkröte zerstört seine Fluchtmittel. Das Tier erscheint ihm deshalb zunächst als Gegner. Sein Wunsch, die Insel zu verlassen, bestimmt diese Wahrnehmung. Die spätere Veränderung ihrer Beziehung lässt gerade diesen frühen Konflikt in anderem Licht erscheinen.",
+      "anchor": "Die zerstörten Flöße machen die Schildkröte zunächst zum Hindernis.",
+      "interest": "Erklärt, wie ein Fluchtziel die Wahrnehmung eines anderen Wesens prägt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Veränderung entdeckt der Mann in @, nachdem die Schildkröte am Strand regungslos gelegen hat?",
+      "answers": [
+        "Aus ihrem Panzer erscheint eine Frau.",
+        "Ihr Panzer wird zu einem seetüchtigen Boot.",
+        "Die Schildkröte nimmt die Gestalt eines Kindes an.",
+        "Mehrere kleine Schildkröten schlüpfen aus dem Panzer."
+      ],
+      "feedback": [
+        "Die Frau tritt an die Stelle der Schildkröte.",
+        "Der Panzer wird nicht zu einem Fluchtboot.",
+        "Es erscheint eine erwachsene Frau, kein Kind.",
+        "Der Vorgang ist eine Verwandlung, kein gewöhnliches Schlüpfen."
+      ],
+      "short": "Die Frau tritt an die Stelle der Schildkröte.",
+      "context": "Der Mann hat die Schildkröte umgedreht und bereut später seine Tat. Aus dem geöffneten Panzer erscheint eine Frau. Aus der Begegnung entwickelt sich ein gemeinsames Leben. Die fantastische Veränderung verschiebt das Verhältnis von gewaltsamer Abwehr zu Nähe und Verantwortung für ein anderes Wesen.",
+      "anchor": "Aus dem bekämpften Tier wird die Partnerin eines gemeinsamen Lebens.",
+      "interest": "Verbindet die Verwandlung mit einer grundlegenden Veränderung der Beziehung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie entstanden laut Produktionsbericht viele Landschaftshintergründe von @?",
+      "answers": [
+        "Als Kohlezeichnungen auf Papier, die anschließend eingescannt wurden",
+        "Als fotografierte Miniaturkulissen aus Holz und Sand",
+        "Als Aquarelle, die nur mit einer Filmkamera aufgenommen wurden",
+        "Als vollständig dreidimensionale Landschaftsmodelle ohne Papierzeichnung"
+      ],
+      "feedback": [
+        "Die Hintergründe wurden mit Kohle auf Papier geschaffen und digital übernommen.",
+        "Miniaturkulissen bilden nicht die beschriebene Grundlage.",
+        "Die beschriebene Technik verwendet Kohle und einen digitalen Scan.",
+        "Die Landschaften beruhen auf Zeichnungen, nicht ausschließlich auf 3D-Modellen."
+      ],
+      "short": "Die Hintergründe wurden mit Kohle auf Papier geschaffen und digital übernommen.",
+      "context": "Der Produktionsbericht unterscheidet gezeichnete Hintergründe von digital auf einem Grafiktablett animierten Figuren. Die eingescannten Kohlezeichnungen bewahren sichtbare Materialstruktur. Der Film verbindet dadurch handwerkliche Spuren mit digitaler Verarbeitung. Die ruhige Inselwelt wirkt bildnerisch gestaltet, während die Figuren sich darin flüssig bewegen können.",
+      "anchor": "Kohle auf Papier liefert die Struktur der digital verwendeten Landschaften.",
+      "interest": "Erschließt die konkrete Herstellung hinter der sichtbaren Bildästhetik.",
+      "sources": [
+        "presse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "question": "Was geschieht am Ende von @ nach dem Tod des gealterten Mannes?",
+      "answers": [
+        "Die Frau wird wieder zur Schildkröte und kehrt ins Meer zurück.",
+        "Die Frau baut ein Floß und sucht den erwachsenen Sohn.",
+        "Die Frau bleibt allein im Haus auf der Insel.",
+        "Die Frau löst sich zusammen mit der Insel im Wasser auf."
+      ],
+      "feedback": [
+        "Die Rückverwandlung führt sie ins Meer zurück.",
+        "Sie folgt nicht auf einem Floß dem Sohn.",
+        "Sie verlässt die Insel in ihrer ursprünglichen Tiergestalt.",
+        "Die Insel verschwindet nicht gemeinsam mit ihr."
+      ],
+      "short": "Die Rückverwandlung führt sie ins Meer zurück.",
+      "context": "Nachdem der Mann gestorben ist, verwandelt sich die Frau wieder in eine Schildkröte. Sie verlässt die Insel über das Meer. Die Schlussbewegung verbindet das Ende eines menschlichen Lebens mit einem weiterreichenden Naturkreislauf. Das gemeinsame Leben bleibt begrenzt, während die Verbindung zur Natur fortbesteht.",
+      "anchor": "Nach dem menschlichen Leben führt die Rückverwandlung ins Meer.",
+      "interest": "Erklärt den Kreis zwischen Tiergestalt, Familie und Abschied.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, zehn Jahre nach Studio Ghiblis erster Einladung an seinen Regisseur?",
+      "answers": [
+        "2016",
+        "2006",
+        "2011",
+        "2021"
+      ],
+      "feedback": [
+        "Die Einladung kam 2006, der fertige Film erschien 2016.",
+        "2006 markiert die erste Kontaktaufnahme, nicht den Filmstart.",
+        "2011 liegt erst fünf Jahre nach der Einladung.",
+        "2021 liegt fünf Jahre nach der Veröffentlichung."
+      ],
+      "short": "Die Einladung kam 2006, der fertige Film erschien 2016.",
+      "context": "Michaël Dudok de Wit erhielt im November 2006 eine Nachricht mit dem Angebot, einen Langfilm mit Studio Ghibli zu entwickeln. Die Veröffentlichung folgte 2016. Zwischen Einladung und fertigem Film lagen damit zehn Jahre, die die lange Entwicklung einer Zusammenarbeit über Ländergrenzen hinweg sichtbar machen.",
+      "anchor": "Ghiblis Einladung 2006 führt zehn Jahre später zum Film von 2016.",
+      "interest": "Verankert das Erscheinungsjahr in der belegten Entstehungsgeschichte.",
+      "sources": [
+        "presse",
+        "cannes"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Michaël Dudok de Wit",
+        "Isao Takahata",
+        "Hayao Miyazaki",
+        "Sylvain Chomet"
+      ],
+      "feedback": [
+        "Michaël Dudok de Wit ist der Regisseur.",
+        "Takahata begleitete das Projekt als künstlerischer Produzent.",
+        "Miyazaki ist mit Studio Ghibli verbunden, aber nicht Regisseur dieses Films.",
+        "Chomet inszenierte andere europäische Animationsfilme."
+      ],
+      "short": "Michaël Dudok de Wit ist der Regisseur.",
+      "context": "Michaël Dudok de Wit verantwortete Regie und die ursprüngliche Geschichte. Das Projekt verband seine Arbeit mit Studio Ghibli und französischen Produktionspartnern. Isao Takahatas künstlerische Begleitung ist ein wichtiger eigener Beitrag. Die unterschiedlichen Aufgaben erklären, warum die Beteiligung Ghiblis nicht automatisch die Regie einem seiner bekannten Gründer zuweist.",
+      "anchor": "Dudok de Wit führt Regie; Takahata begleitet die Gestaltung.",
+      "interest": "Unterscheidet die belegten kreativen Aufgaben im internationalen Team.",
+      "sources": [
+        "cnc"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "director_note": "Das Sony-Presseheft nennt Michaël Dudok de Wit als Regisseur und Isao Takahata als Artistic Producer; Pascale Ferran arbeitet an der Drehbuchadaptation mit. Keine zusätzliche Filmregie aus diesen Funktionen abgeleitet.",
+  "production_note": "Cannes führt Frankreich und Belgien; das Sony-Presseheft belegt die Beteiligung von Studio Ghibli und japanischen Produktionspartnern. Die internationale Koproduktion wird vollständig mit Frankreich, Japan und Belgien erfasst."
+}

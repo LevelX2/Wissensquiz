@@ -1,6 +1,9 @@
 # Organisation der Fragedaten
 
-## Aktueller Bestand – 06.10.2026, Version 56
+07.10.2026 – **320 Einträge und 2.480 Fragen lokal ergänzt:** Je 20 neue Einträge in allen 16 Auswahlkategorien. Gesamt **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**; 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. Filmauswahl vorrangig aus der persönlichen Sammlung; Einzelbesitzangaben bleiben privat. Noch nicht veröffentlicht. [Redaktion, Lesefassung und Prüfnachweise](Erweiterung-2026-10-07/Pruefbericht.md).
+
+
+## Veröffentlichter Bestand – 06.10.2026, Version 56
 
 **20 Pakete, 8.197 Fragen, 7.653 Wissensziele und 544 Variantenbezüge.** Die 240-Filme-Ergänzung ist das letzte Paket und verwendet eine bestehende Nomadland-Regieidentität aus dem Personenpaket. Ihr App-CSV ist bytegleich zur gesonderten Redaktionsquelle; die Quellenprüfung löst diesen Pfad ausdrücklich auf. [Integration, Filmdaten und Abgrenzungen](Filmfragen-Ergaenzung-2026-10-06/Integration.md).
 

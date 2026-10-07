@@ -1,0 +1,218 @@
+{
+  "rank": 97,
+  "titleDe": "Tanz der Vampire",
+  "originalTitle": "Dance of the Vampires",
+  "year": 1967,
+  "genre": "Horror",
+  "familiarity": 2,
+  "directors": [
+    "Roman Polanski"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "release_note": "Originalfassung Dance of the Vampires von 1967. Die US-Veröffentlichung The Fearless Vampire Killers erhielt Kürzungen und einen zusätzlichen animierten Prolog; Fragen beziehen sich auf die ursprüngliche Filmhandlung, nicht das Musical.",
+  "familiarity_reason": "Polanskis Vampirkomödie ist durch den langjährigen Filmklassiker und die zusätzliche Musicalpräsenz breit wiedererkennbar; Bekanntheit 2.",
+  "sources": {
+    "bfi": "https://www.bfi.org.uk/film/64ece85d-a89a-5b46-8f62-6f60d7a399bb/dance-of-the-vampires",
+    "kritik": "https://www.deepfocusreview.com/reviews/the-fearless-vampire-killers-or-pardon-me-but-your-teeth-are-in-my-neck/",
+    "handlung": "https://en.wikipedia.org/wiki/The_Fearless_Vampire_Killers",
+    "musical": "https://www.musicalvienna.at/en-gb/creative-development/dance-of-the-vampires"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufgabe verfolgen Abronsius und Alfred in @?",
+      "answers": [
+        "Sie suchen und bekämpfen Vampire.",
+        "Sie vermessen eine neue Bergstraße.",
+        "Sie prüfen die Steuern eines Gasthauses.",
+        "Sie suchen einen verschwundenen Bergsteiger."
+      ],
+      "feedback": [
+        "Die beiden betreiben Vampirforschung und Vampirjagd.",
+        "Eine Vermessung ist nicht ihr Auftrag.",
+        "Steuern beschäftigen sie dort nicht.",
+        "Sie reisen nicht wegen eines Bergsteigerfalls an."
+      ],
+      "short": "Die beiden betreiben Vampirforschung und Vampirjagd.",
+      "context": "Professor Abronsius (Jack MacGowran) und Alfred (Roman Polanski) suchen nach Vampiren. Ihr Verhältnis verbindet die Sicherheit des Gelehrten mit der Unsicherheit des jüngeren Helfers. Die Jagd wird komisch, weil vorhandenes Wissen und tatsächliche Handlungsfähigkeit nicht zuverlässig zusammenpassen, sobald die vermutete Gefahr konkret wird.",
+      "anchor": "Vampirwissen und praktische Sicherheit fallen bei den beiden Jägern auseinander.",
+      "interest": "Erklärt das Grundverhältnis der Helden und den Ursprung vieler komischer Situationen.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welches Ereignis treibt Alfred in @ zur Rettungsaktion im Schloss?",
+      "answers": [
+        "Die Entführung Sarahs durch den Grafen",
+        "Die Verhaftung des Professors durch die Dorfpolizei",
+        "Der Brand des Gasthauses nach einem Unfall",
+        "Die Beschlagnahmung seiner Forschungsbücher"
+      ],
+      "feedback": [
+        "Sarah wird vom Grafen entführt.",
+        "Eine polizeiliche Verhaftung ist nicht der Auslöser.",
+        "Ein Brand startet diese Rettungsaktion nicht.",
+        "Es geht nicht um beschlagnahmte Bücher."
+      ],
+      "short": "Sarah wird vom Grafen entführt.",
+      "context": "Alfred (Roman Polanski) ist von Sarah (Sharon Tate) fasziniert. Ihre Entführung durch Graf Krolock (Ferdy Mayne) gibt der Vampirjagd eine persönliche Richtung. Er will nicht nur die Theorie seines Lehrers bestätigen. Die Hoffnung auf ihre Rettung kann seine Aufmerksamkeit jedoch auch gegenüber Zeichen der tatsächlichen Gefahr schwächen.",
+      "anchor": "Sarahs Entführung macht Alfreds Interesse zur persönlichen Rettungsaufgabe.",
+      "interest": "Verbindet die romantische Motivation mit der Gefahr eingeschränkter Wahrnehmung.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Warum scheitert die Verteidigung mit einem Kreuz gegen den verwandelten Gastwirt in @?",
+      "answers": [
+        "Er weist das christliche Symbol als jüdischer Vampir zurück.",
+        "Das Kreuz ist nur eine aufgemalte Theaterrequisite.",
+        "Es schützt im Film ausschließlich tagsüber.",
+        "Es wirkt nur im Besitz des Professors."
+      ],
+      "feedback": [
+        "Shagal macht sich über das für ihn unpassende religiöse Symbol lustig.",
+        "Ein Materialfehler ist nicht die Pointe.",
+        "Eine Tagesregel erklärt den Witz nicht.",
+        "Der Besitz des Professors ist keine Wirkungsbedingung."
+      ],
+      "short": "Shagal macht sich über das für ihn unpassende religiöse Symbol lustig.",
+      "context": "Shagal (Alfie Bass) reagiert auf das Kreuz mit dem Hinweis auf seine jüdische Identität. Die Szene unterbricht eine vertraute christlich geprägte Vampirregel. Der Witz entsteht aus einer unpassenden Verallgemeinerung: Die bedrohte Person greift zum bekannten Mittel, hat dessen angenommene kulturelle Voraussetzung aber nicht bedacht.",
+      "anchor": "Das christliche Abwehrmittel passt nicht zum jüdischen Vampir der Pointe.",
+      "interest": "Erklärt die Parodie einer vertrauten Genreannahme.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Warum muss Alfred in @ allein zu den schlafenden Vampiren vordringen?",
+      "answers": [
+        "Abronsius bleibt im engen Zugang zur Gruft stecken.",
+        "Abronsius wird beim Zugang zur Gruft eingeschlossen.",
+        "Abronsius lenkt die erwachenden Vampire im Saal ab.",
+        "Abronsius überlässt Alfred absichtlich den Beweis seiner Tapferkeit."
+      ],
+      "feedback": [
+        "Der Professor bleibt im Zugang hängen.",
+        "Der Professor steckt körperlich im engen Durchgang fest.",
+        "Die Vampire schlafen; eine Ablenkung im Saal ist nicht der Grund.",
+        "Alfreds Alleingang entsteht unfreiwillig durch den feststeckenden Professor."
+      ],
+      "short": "Der Professor bleibt im Zugang hängen.",
+      "context": "Abronsius (Jack MacGowran) bleibt im Zugang zur Gruft stecken. Alfred (Roman Polanski) soll nun ohne die unmittelbare Unterstützung seines Lehrers handeln und verliert den Mut. Ein körperliches Hindernis trennt das Wissen des Professors von seiner Umsetzung. Die Lage verlangt gerade dem Unsichereren die entscheidende Tat ab.",
+      "anchor": "Der feststeckende Professor kann Alfreds fehlenden Mut nicht ersetzen.",
+      "interest": "Verbindet den körperlichen Gag mit dem Problem praktischer Handlungsfähigkeit.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wodurch werden die menschlichen Eindringlinge beim Ball in @ entlarvt?",
+      "answers": [
+        "Nur sie erscheinen im großen Spiegel.",
+        "Ihre Kleider verlieren plötzlich die Farbe.",
+        "Die Musiker nennen ihre Namen während des Tanzes.",
+        "Ihr mitgebrachter Wein fällt durch seine Herkunft auf."
+      ],
+      "feedback": [
+        "Ihre Spiegelbilder unterscheiden sie von den Vampiren.",
+        "Ein Farbwechsel ihrer Kleidung enthüllt sie nicht.",
+        "Die Musiker identifizieren sie nicht namentlich.",
+        "Die Herkunft eines Weins ist nicht das verräterische Zeichen."
+      ],
+      "short": "Ihre Spiegelbilder unterscheiden sie von den Vampiren.",
+      "context": "Abronsius (Jack MacGowran), Alfred (Roman Polanski) und Sarah (Sharon Tate) erscheinen im Spiegel, während die Vampire fehlen. Die vertraute Regel wechselt die Funktion: Sie verrät diesmal nicht den Untoten, sondern die Menschen. Die große Tanzgesellschaft bildet dadurch eine Gemeinschaft, aus der die Spiegelbilder die Eindringlinge herausheben.",
+      "anchor": "Unter Vampiren wird das vorhandene Spiegelbild zum verräterischen Zeichen.",
+      "interest": "Erklärt die Umkehr einer bekannten Vampirregel im Bildaufbau.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was macht die Flucht mit Sarah im Schluss von @ zur Niederlage der Jäger?",
+      "answers": [
+        "Sarah ist bereits verwandelt und beißt Alfred unterwegs.",
+        "Sarah kehrt freiwillig allein zum Schloss zurück.",
+        "Der Professor verkauft Alfred an den Grafen.",
+        "Alfred zerstört versehentlich das gesamte Dorf."
+      ],
+      "feedback": [
+        "Die vermeintliche Rettung trägt den Vampirismus nach draußen.",
+        "Ihre freiwillige Rückkehr ist nicht die Schlusswendung.",
+        "Ein Handel des Professors verursacht das Ende nicht.",
+        "Alfred vernichtet nicht das Dorf."
+      ],
+      "short": "Die vermeintliche Rettung trägt den Vampirismus nach draußen.",
+      "context": "Sarah (Sharon Tate) beißt Alfred (Roman Polanski) während der Fahrt, ohne dass Abronsius (Jack MacGowran) es bemerkt. Die Flucht war als Rettung gedacht, trägt nun aber die Gefahr weiter. Die abschließende Ironie betrifft deshalb nicht nur persönliche Unfähigkeit: Ein scheinbarer Erfolg verändert die Reichweite des Problems.",
+      "anchor": "Die gerettete Sarah trägt den Vampirismus aus dem abgeschlossenen Schloss hinaus.",
+      "interest": "Verbindet die Schlusswendung mit der unbeabsichtigten Folge der Rettungsaktion.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, dreißig Jahre vor der Wiener Musicalpremiere von 1997?",
+      "answers": [
+        "1967",
+        "1962",
+        "1968",
+        "1977"
+      ],
+      "feedback": [
+        "1967 liegt dreißig Jahre vor dem Musical.",
+        "1962 liegt fünfunddreißig Jahre davor.",
+        "1968 bezeichnet einen späteren britischen Kinostart.",
+        "1977 liegt nur zwanzig Jahre davor."
+      ],
+      "short": "1967 liegt dreißig Jahre vor dem Musical.",
+      "context": "Der Film erschien 1967. Die Musicalfassung wurde am 4. Oktober 1997 im Wiener Raimund Theater uraufgeführt, dreißig Jahre später. Roman Polanski übernahm auch dort die Regie. Die komische Vampirgeschichte wechselte damit nach einer langen Filmgeschichte in eine musikalisch und dramaturgisch neu bearbeitete Bühnenform.",
+      "anchor": "1967 der Film, 1997 das Wiener Musical: dreißig Jahre später.",
+      "interest": "Verbindet das Filmjahr mit dem späteren Medienwechsel.",
+      "sources": [
+        "bfi",
+        "musical"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Roman Polanski",
+        "Roger Corman",
+        "Terence Fisher",
+        "Mario Bava"
+      ],
+      "feedback": [
+        "Polanski führte Regie und spielt Alfred.",
+        "Corman inszenierte andere komische und düstere Horrorfilme.",
+        "Fisher arbeitete an den hier parodierten Hammer-Traditionen.",
+        "Bava ist nicht der Regisseur dieses Films."
+      ],
+      "short": "Polanski führte Regie und spielt Alfred.",
+      "context": "Roman Polanski führte Regie und spielt den unsicheren Alfred. Das Drehbuch schrieb er gemeinsam mit Gérard Brach. Die doppelte Aufgabe macht ihn im fertigen Werk zugleich zum Organisator der komischen Situationen und zu einem Darsteller ihrer praktischen Missgeschicke. Die Filmregie ist von späteren Bühnencredits zu unterscheiden.",
+      "anchor": "Polanski inszeniert die Vampirjagd und spielt selbst ihren unsicheren Helfer.",
+      "interest": "Verbindet den Regiecredit mit einer konkreten zweiten Aufgabe im Film.",
+      "sources": [
+        "bfi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

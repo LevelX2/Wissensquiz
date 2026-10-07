@@ -1,0 +1,219 @@
+{
+  "rank": 8,
+  "genre": "Abenteuer",
+  "titleDe": "Sahara – Abenteuer in der Wüste",
+  "originalTitle": "Sahara",
+  "year": 2005,
+  "articleUrl": "https://en.wikipedia.org/wiki/Sahara_(2005_film)",
+  "familiarity": 2,
+  "selectionReason": "Erweitert die Abenteuerauswahl um Expeditionen, Entdeckungen und Entscheidungen in unbekannten Welten.",
+  "familiarity_reason": "Populäres Abenteuer mit Matthew McConaughey und Penélope Cruz; die konkrete Cussler-Verfilmung ist weniger allgegenwärtig als große Abenteuerreihen.",
+  "directors": [
+    "Breck Eisner"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "Spanien",
+    "Deutschland",
+    "USA"
+  ],
+  "release_note": "Premiere in Hollywood am 4. April 2005; US-Kinostart am 8. April 2005.",
+  "series": "Dirk Pitt",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Sahara_(2005_film)"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Nach welchem ungewöhnlichen Fund sucht Dirk Pitt (Matthew McConaughey) in @ mitten in der Wüste?",
+      "answers": [
+        "Nach einem verschollenen Panzerschiff aus dem amerikanischen Bürgerkrieg",
+        "Nach einem vergrabenen Schatz aus einem französischen Expeditionszug",
+        "Nach einem verschollenen U-Boot aus dem Zweiten Weltkrieg",
+        "Nach dem Wrack eines römischen Handelsschiffs"
+      ],
+      "feedback": [
+        "Die Spur führt zu dem verschollenen Kriegsschiff Texas.",
+        "Pitt sucht ein Panzerschiff des amerikanischen Bürgerkriegs statt eines französischen Zuges.",
+        "Das gesuchte Kriegsschiff ist kein U-Boot aus dem Zweiten Weltkrieg.",
+        "Die Spur betrifft ein amerikanisches Panzerschiff und kein römisches Handelsschiff."
+      ],
+      "short": "Dirk Pitt sucht ein verschwundenes Panzerschiff.",
+      "context": "Dirk Pitt (Matthew McConaughey) verfolgt einen Hinweis, der ein amerikanisches Bürgerkriegsschiff mit Afrika verbindet. Seine Schatzsuche kreuzt die medizinische Ermittlung von Eva Rojas (Penélope Cruz). So treffen zwei scheinbar verschiedene Ziele aufeinander: ein historisches Rätsel und eine gegenwärtige Gefahr. Die Landschaft enthält für beide Fragen entscheidende Spuren.",
+      "anchor": "Ein Bürgerkriegsschiff führt die Schatzsuche in die Wüste.",
+      "interest": "Ein Bürgerkriegsschiff führt die Schatzsuche in die Wüste.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Beruf übt Eva Rojas (Penélope Cruz) in @ aus?",
+      "answers": [
+        "Ärztin",
+        "Kunstauktionatorin",
+        "Rennfahrerin",
+        "Opernsängerin"
+      ],
+      "feedback": [
+        "Eva untersucht als Ärztin eine Erkrankung.",
+        "Sie reist nicht als Kunstauktionatorin.",
+        "Rennsport ist nicht ihr Beruf.",
+        "Sie tritt nicht als Opernsängerin auf."
+      ],
+      "short": "Eva Rojas untersucht als Ärztin eine rätselhafte Erkrankung.",
+      "context": "Eva Rojas (Penélope Cruz) sucht nach der Ursache einer Krankheit, während Dirk Pitt (Matthew McConaughey) einer historischen Schiffsspur folgt. Die Begegnung verbindet medizinisches Wissen mit Abenteuerfertigkeiten. Eva ist damit nicht bloß eine zufällige Reisebegleiterin: Ihre Untersuchung macht sichtbar, weshalb ein scheinbarer Schatzsucherweg für viele gegenwärtig bedrohte Menschen wichtig wird.",
+      "anchor": "Evas Medizin macht aus einer Schatzsuche eine Rettungsaufgabe.",
+      "interest": "Evas Medizin macht aus einer Schatzsuche eine Rettungsaufgabe.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welcher Fund gibt Dirk Pitt (Matthew McConaughey) in @ einen ersten greifbaren Hinweis auf das verschollene Schiff?",
+      "answers": [
+        "Eine Münze der Konföderierten aus dem Niger",
+        "Ein beschriftetes Metallteil aus einem Brunnen",
+        "Ein alter Fahrbericht eines Wüstenhändlers",
+        "Ein Foto einer freigelegten Schiffskanone"
+      ],
+      "feedback": [
+        "Die Münze verbindet den Fluss mit dem Bürgerkriegsschiff.",
+        "Der greifbare erste Hinweis ist eine Münze der Konföderierten aus dem Niger.",
+        "Die Münze verbindet die Region mit dem Schiff, kein Händlerbericht.",
+        "Die Münze liefert die frühe Spur und nicht ein Kanonenfoto."
+      ],
+      "short": "Eine konfederierte Münze aus dem Niger stützt Pitts Vermutung.",
+      "context": "Dirk Pitt (Matthew McConaughey) erhält eine Münze, die aus dem Niger stammt und mit dem amerikanischen Bürgerkrieg zusammenhängt. Der Gegenstand macht aus einer ungewöhnlichen Idee eine überprüfbare Spur innerhalb der Geschichte. Statt einfach einer Legende zu glauben, verfolgt Pitt nun einen konkreten Fund durch Flusslandschaft und Wüste.",
+      "anchor": "Die Münze verbindet amerikanischen Bürgerkrieg und afrikanischen Fluss.",
+      "interest": "Die Münze verbindet amerikanischen Bürgerkrieg und afrikanischen Fluss.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wozu bauen Dirk Pitt (Matthew McConaughey) und Al Giordino (Steve Zahn) in @ ein Flugzeugwrack um?",
+      "answers": [
+        "Zu einem windgetriebenen Fahrzeug für den Wüstenboden",
+        "Zu einer provisorischen Motorfähre",
+        "Zu einer mit Motorkraft betriebenen Sandraupe",
+        "Zu einem Funkposten für die Suchmannschaft"
+      ],
+      "feedback": [
+        "Aus dem Wrack entsteht ein Landsegler.",
+        "Das Wrack wird zum windgetriebenen Landfahrzeug, nicht zu einer Fähre.",
+        "Die Konstruktion nutzt Wind statt einen wiederhergestellten Motor.",
+        "Das Wrack ermöglicht Weiterfahrt und dient nicht nur als Funkposten."
+      ],
+      "short": "Die Männer nutzen das Flugzeugwrack als Landsegler.",
+      "context": "Dirk Pitt (Matthew McConaughey) und Al Giordino (Steve Zahn) müssen nach ihrer Flucht in der Wüste weiterkommen. Sie verändern den Zweck eines beschädigten Flugzeugs und nutzen Wind für die Fortbewegung am Boden. Die Szene zeigt ihre praktische Zusammenarbeit: Vorhandenes Material wird neu kombiniert, statt auf eine vollständig vorbereitete Rettung zu warten.",
+      "anchor": "Ein flugunfähiges Wrack fährt mithilfe des Windes weiter.",
+      "interest": "Ein flugunfähiges Wrack fährt mithilfe des Windes weiter.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Verbindung zwischen Schatzsuche und Umweltgefahr entdecken die Hauptfiguren in @?",
+      "answers": [
+        "Ein früherer Flusslauf führt sowohl zum Schiff als auch zur Verschmutzung.",
+        "Der Schatz liegt im selben Gebäude wie die Chemieanlage.",
+        "Der Schiffskompass ist die einzige Möglichkeit, die Giftanlage zu finden.",
+        "Die Ursache liegt in chemisch behandelten Ladungsresten des Schiffs."
+      ],
+      "feedback": [
+        "Die alte Wasserroute verbindet das historische Rätsel mit der gegenwärtigen Gefahr.",
+        "Der frühere Flusslauf verbindet Fundort und Verschmutzung, nicht ein gemeinsames Gebäude.",
+        "Die Verbindung ist geografisch; der Schiffskompass erklärt sie nicht.",
+        "Die Umweltgefahr stammt nicht aus historischen Ladungsresten des Kriegsschiffs."
+      ],
+      "short": "Die Wasserwege verbinden das verschwundene Schiff mit der Giftspur.",
+      "context": "Dirk Pitt (Matthew McConaughey) erkennt, dass ein früherer Fluss ein Schiff bis in die heutige Wüstenlandschaft gebracht haben könnte. Zugleich verfolgt Eva Rojas (Penélope Cruz) die Erkrankung über verunreinigtes Wasser. Die Geschichte verbindet damit Vergangenheit und Gegenwart durch dieselbe Landschaft: Was einen Schatz erklärt, erklärt auch den Weg einer Gefahr.",
+      "anchor": "Der alte Fluss erklärt Schatzlage und Giftweg.",
+      "interest": "Der alte Fluss erklärt Schatzlage und Giftweg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie wird das alte Kriegsschiff im Finale von @ für die bedrohte Gruppe noch einmal nützlich?",
+      "answers": [
+        "Eine seiner Kanonen wird gegen den angreifenden Hubschrauber eingesetzt.",
+        "Sein Stahlrumpf hält allein sämtliche Angriffe ab.",
+        "Seine Maschinen treiben das neue Fluchtfahrzeug an.",
+        "Sein Anker zieht den Hubschrauber zu Boden."
+      ],
+      "feedback": [
+        "Die alte Kanone hilft gegen den modernen Hubschrauber.",
+        "Die Gruppe setzt eine alte Kanone gegen den Hubschrauber ein.",
+        "Nützlich wird die Bewaffnung und nicht ein geborgener Maschinenantrieb.",
+        "Der Angriff wird mit einer Kanone abgewehrt statt durch den Anker."
+      ],
+      "short": "Die Gruppe verwendet eine Kanone des alten Schiffs gegen den Hubschrauber.",
+      "context": "Das gefundene Panzerschiff ist zunächst ein historischer Schatz und anschließend ein Schutzraum. Als der Gegner aus der Luft angreift, wird seine alte Bewaffnung wieder relevant. Dirk Pitt (Matthew McConaughey) und seine Begleiter nutzen Vergangenheit als praktisches Mittel gegen eine moderne Bedrohung. Der Fund zahlt sich damit auch jenseits seines möglichen materiellen Werts aus.",
+      "anchor": "Die alte Schiffskanone beantwortet einen modernen Luftangriff.",
+      "interest": "Die alte Schiffskanone beantwortet einen modernen Luftangriff.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde die Cussler-Verfilmung @ erstmals veröffentlicht?",
+      "answers": [
+        "2005",
+        "1992",
+        "1999",
+        "2013"
+      ],
+      "feedback": [
+        "Premiere und US-Kinostart lagen 2005.",
+        "1992 gehört zur Veröffentlichung der Romanvorlage.",
+        "1999 liegt vor der Verfilmung.",
+        "2013 ist für diesen Film zu spät."
+      ],
+      "short": "Der Film erschien 2005.",
+      "context": "Die Vorlage von Clive Cussler war bereits in den neunziger Jahren erschienen. Die Verfilmung gehört dagegen ins Abenteuerkino der Mitte der folgenden Dekade. Der Stoff verbindet einen historischen Prolog mit einer Gegenwartshandlung; weder der Bürgerkrieg noch das Erscheinungsjahr des Romans bezeichnet deshalb automatisch das Filmjahr. Für die Frage zählt der erste Kinostart.",
+      "anchor": "Roman 1992, Kinofilm 2005.",
+      "interest": "Roman 1992, Kinofilm 2005.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Matthew McConaughey, Steve Zahn und Penélope Cruz Regie?",
+      "answers": [
+        "Breck Eisner",
+        "Joe Johnston",
+        "Stephen Sommers",
+        "Jon Turteltaub"
+      ],
+      "feedback": [
+        "Breck Eisner führte Regie.",
+        "Johnston inszenierte ein anderes Wüstenabenteuer.",
+        "Sommers gehört zu anderen modernen Abenteuerverfilmungen.",
+        "Turteltaub ist nicht der Regisseur dieses Cussler-Films."
+      ],
+      "short": "Breck Eisner inszenierte die Dirk-Pitt-Verfilmung.",
+      "context": "Breck Eisner verbindet die Schatzsuche mit einer medizinischen und ökologischen Gefahr. Clive Cussler liefert die Romanfigur Dirk Pitt; die Hauptrolle übernimmt Matthew McConaughey. Die drei Zuständigkeiten sind zu unterscheiden: Autor des literarischen Stoffes, Darsteller des Helden und Regisseur der Verfilmung tragen auf verschiedene Weise zum Abenteuer bei.",
+      "anchor": "Cussler erfindet Pitt; Eisner inszeniert; McConaughey spielt ihn.",
+      "interest": "Cussler erfindet Pitt; Eisner inszeniert; McConaughey spielt ihn.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

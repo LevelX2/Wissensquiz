@@ -1,0 +1,219 @@
+{
+  "rank": 87,
+  "titleDe": "Die Mächte des Wahnsinns",
+  "originalTitle": "In the Mouth of Madness",
+  "year": 1994,
+  "genre": "Horror",
+  "familiarity": 3,
+  "directors": [
+    "John Carpenter"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere laut zeitgenössischem Fantasy-Filmfest-Programm am 10. August 1994 (Kennzeichnung WP). Der US-Kinostart am 3. Februar 1995, den auch Carpenters Website nennt, liegt später.",
+  "familiarity_reason": "Carpenters Film besitzt einen festen Platz im Genre- und Kultfilmpublikum, bleibt aber weniger breit bekannt als seine größten Horrortitel; Bekanntheit 3.",
+  "sources": {
+    "regisseur": "https://theofficialjohncarpenter.com/in-the-mouth-of-madness/",
+    "programm": "https://fantasyfilmfest.com/wp-content/uploads/2022/08/fantasyfilmfest1994.pdf",
+    "kritik": "https://www.rogerebert.com/reviews/in-the-mouth-of-madness-1995",
+    "handlung": "https://en.wikipedia.org/wiki/In_the_Mouth_of_Madness",
+    "vorfilm": "https://theofficialjohncarpenter.com/prince-of-darkness/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Mit welchem beruflichen Hintergrund beginnt John Trent seinen Auftrag in @?",
+      "answers": [
+        "Er untersucht Versicherungsbetrug.",
+        "Er schreibt Literaturkritiken.",
+        "Er behandelt psychiatrische Patienten.",
+        "Er restauriert beschädigte Bücher."
+      ],
+      "feedback": [
+        "Trent arbeitet als Versicherungsdetektiv.",
+        "Er beurteilt die Bücher nicht beruflich als Kritiker.",
+        "Zu Beginn ist er Ermittler, nicht behandelnder Arzt.",
+        "Buchrestaurierung ist nicht seine Aufgabe."
+      ],
+      "short": "Trent arbeitet als Versicherungsdetektiv.",
+      "context": "John Trent (Sam Neill) ist daran gewöhnt, Täuschungen zu erkennen. Der Verlagsauftrag nutzt genau diese Haltung. Seine professionelle Skepsis bildet zunächst eine Stärke, wird jedoch zunehmend zu einer Grenze: Er hält lange an einer inszenierten Erklärung fest, obwohl die Ereignisse seine gewohnten Voraussetzungen untergraben.",
+      "anchor": "Der Betrugsermittler bringt eine skeptische Sicht in eine unzuverlässige Welt.",
+      "interest": "Erklärt den beruflichen Ursprung der entscheidenden Haltung des Helden.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Was soll John Trent in @ für den Verlag aufklären?",
+      "answers": [
+        "Das Verschwinden eines erfolgreichen Horrorautors",
+        "Den Diebstahl der gesamten Buchauflage",
+        "Die Herkunft gefälschter Unterschriften auf Autorenverträgen",
+        "Die Brandstiftung in einer Druckerei"
+      ],
+      "feedback": [
+        "Er soll den verschwundenen Sutter Cane finden.",
+        "Eine verschwundene Druckauflage ist nicht der Auftrag.",
+        "Vertragsfälschungen bilden nicht den Ausgangsfall.",
+        "Eine brennende Druckerei löst die Suche nicht aus."
+      ],
+      "short": "Er soll den verschwundenen Sutter Cane finden.",
+      "context": "Sutter Cane (Jürgen Prochnow) verschwindet vor dem Erscheinen seines neuen Romans. Der Verlag schickt Trent (Sam Neill) auf die Suche. Der wirtschaftlich vertraute Auftrag führt ihn aus der überprüfbaren Verlagswelt in einen Ort, dessen Gestalt sich bereits in den Büchern finden lässt.",
+      "anchor": "Die Suche nach dem Autor führt aus dem Verlag in dessen erzählte Welt.",
+      "interest": "Zeigt die Bewegung vom konkreten Auftrag in die fantastische Bedrohung.",
+      "sources": [
+        "regisseur"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Wie findet Trent in @ einen Hinweis auf den Ort Hobb’s End?",
+      "answers": [
+        "Er setzt Motive der Buchumschläge zu einer Karte zusammen.",
+        "Er entschlüsselt die Anfangsbuchstaben aller Kapitel.",
+        "Er folgt den Poststempeln der Leserbriefe.",
+        "Er rekonstruiert eine Route aus den Rechnungen des Autors."
+      ],
+      "feedback": [
+        "Die Umschlagbilder bilden zusammengesetzt eine Karte.",
+        "Kapitelanfänge liefern nicht diesen räumlichen Hinweis.",
+        "Leserbriefstempel führen ihn nicht auf diese Weise zum Ort.",
+        "Die Route entsteht nicht aus Rechnungsunterlagen."
+      ],
+      "short": "Die Umschlagbilder bilden zusammengesetzt eine Karte.",
+      "context": "Trent (Sam Neill) betrachtet die Umschläge nicht nur als Werbung, sondern als zusammengehörige Bildinformationen. Die Karte weist auf Hobb’s End. Bereits dieser Fund verschiebt die Funktion der Bücher: Ihre äußere Gestaltung liefert einen Zugang zu einer Welt, deren Existenz er zunächst für unmöglich hält.",
+      "anchor": "Zusammengesetzte Buchumschläge werden zur Karte nach Hobb’s End.",
+      "interest": "Verbindet grafische Gestaltung mit dem konkreten Fortgang der Suche.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M2",
+      "question": "Warum hält Trent in @ die ersten ungewöhnlichen Ereignisse zunächst für eine Inszenierung?",
+      "answers": [
+        "Er vermutet einen Werbetrick für den neuen Roman.",
+        "Er vermutet die Inszenierung eines Versicherungsbetrugs.",
+        "Er vermutet eine bewusst gestellte Falle für ihn.",
+        "Er vermutet einen privaten Streit des Autors mit dem Verlag."
+      ],
+      "feedback": [
+        "Sein Betrugsverdacht richtet sich auf eine Verkaufsaktion des Verlags.",
+        "Seine erste Deutung richtet sich auf Werbung für den Roman und nicht auf einen Versicherungsanspruch.",
+        "Er hält die Vorgänge zunächst eher für Vermarktung als für einen gezielten Angriff auf ihn.",
+        "Er deutet die ungewöhnlichen Ereignisse nicht nur als persönlichen Vertragsstreit."
+      ],
+      "short": "Sein Betrugsverdacht richtet sich auf eine Verkaufsaktion des Verlags.",
+      "context": "Trent (Sam Neill) deutet Canes Verschwinden zunächst als Werbung. Linda Styles (Julie Carmen) begleitet ihn als Lektorin. Die plausible Annahme hilft ihm, einzelne Auffälligkeiten zu erklären. Gerade ihre Plausibilität hält ihn aber davon ab, früh zu akzeptieren, dass die Ursache außerhalb dieses gewöhnlichen Geschäftsmodells liegen könnte.",
+      "anchor": "Der vermutete Werbetrick hält Trent an einer vertrauten Erklärung fest.",
+      "interest": "Zeigt, wie ein beruflich plausibles Modell neue Beobachtungen verzerren kann.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Welche Erklärung gibt Cane in @ dafür, dass seine Geschichten Wirklichkeit werden?",
+      "answers": [
+        "Der Glaube seiner zahlreichen Leser verändert die Realität.",
+        "Eine einzelne Druckmaschine verwandelt Papier in Materie.",
+        "Trent träumt die gesamte Welt während einer Narkose.",
+        "Linda erzeugt die Ereignisse mit einer Filmprojektion."
+      ],
+      "feedback": [
+        "Cane erklärt die Wirklichkeit mit der Macht des massenhaften Glaubens.",
+        "Die Druckmaschine wird nicht als Umwandlungsapparat dargestellt.",
+        "Eine Narkose Trents ist nicht Canes Erklärung.",
+        "Linda steuert die Welt nicht durch Projektionen."
+      ],
+      "short": "Cane erklärt die Wirklichkeit mit der Macht des massenhaften Glaubens.",
+      "context": "Cane (Jürgen Prochnow) behauptet, dass die große Zahl gläubiger Leser die Wirklichkeit seiner Texte trägt. Trent (Sam Neill) soll selbst eine geschriebene Figur sein. Die Behauptung greift damit seine stärkste Sicherheit an: Er kann nicht mehr voraussetzen, unabhängig von der Erzählung zu urteilen.",
+      "anchor": "Canes Leser machen seine Erzählung zur Welt, in der Trent urteilt.",
+      "interest": "Erklärt die Bedrohung für die Unabhängigkeit des Helden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was sieht Trent am Ende von @ im verlassenen Kino?",
+      "answers": [
+        "Eine Verfilmung, die seine eigenen Erlebnisse wiedergibt.",
+        "Eine Nachrichtensendung, die Cane als Betrüger entlarvt.",
+        "Einen Reisebericht über den echten Ort Hobb’s End.",
+        "Eine leere Leinwand, auf der nur sein Schatten erscheint."
+      ],
+      "feedback": [
+        "Der Film auf der Leinwand wiederholt seine eigene Geschichte.",
+        "Ein entlarvender Nachrichtenbeitrag stellt die Ordnung nicht wieder her.",
+        "Er schaut keine harmlose geografische Dokumentation.",
+        "Die Leinwand zeigt konkrete Szenen seines Erlebens."
+      ],
+      "short": "Der Film auf der Leinwand wiederholt seine eigene Geschichte.",
+      "context": "Trent (Sam Neill) sieht seine Geschichte als Kinofilm und beginnt hysterisch zu lachen. Seine Versuche, eine unabhängige Wirklichkeit festzuhalten, erscheinen nun selbst als Teil eines fertigen Werks. Das Kino bildet deshalb keine sichere Außenposition; es zeigt ihm die Erzählung, aus der er nicht herauskam.",
+      "anchor": "Die Kinoleinwand macht Trents eigenes Erleben zum fertigen Film.",
+      "interest": "Verknüpft das Medium im Finale mit dem verlorenen Außenstandpunkt des Helden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals gezeigt, sieben Jahre nach Carpenters „Prince of Darkness“ von 1987?",
+      "answers": [
+        "1994",
+        "1987",
+        "1995",
+        "2001"
+      ],
+      "feedback": [
+        "Die Festival-Weltpremiere war 1994; der US-Kinostart folgte 1995.",
+        "1987 gehört zu Prince of Darkness.",
+        "1995 bezeichnet den späteren US-Kinostart.",
+        "2001 liegt vierzehn Jahre nach dem früheren Film."
+      ],
+      "short": "Die Festival-Weltpremiere war 1994; der US-Kinostart folgte 1995.",
+      "context": "Prince of Darkness erschien 1987. Die Mächte des Wahnsinns wurde beim Fantasy Filmfest am 10. August 1994 als Weltpremiere gezeigt, sieben Jahre später. Der US-Kinostart folgte erst am 3. Februar 1995. Der Festivalnachweis verhindert, dass das spätere, oft genannte US-Jahr zur ersten Veröffentlichung wird.",
+      "anchor": "1987 Prince of Darkness, 1994 Weltpremiere, 1995 US-Kinostart.",
+      "interest": "Verankert das Jahr in einem früheren Film und klärt die belegte Jahresabweichung.",
+      "sources": [
+        "programm",
+        "vorfilm",
+        "regisseur"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "John Carpenter",
+        "Wes Craven",
+        "Stuart Gordon",
+        "Tobe Hooper"
+      ],
+      "feedback": [
+        "John Carpenter inszenierte den Film.",
+        "Craven bearbeitete die Vermischung von Fiktion und Wirklichkeit in anderen Filmen.",
+        "Gordon verfilmte andere kosmische Horrorgeschichten.",
+        "Hooper führte bei diesem Film nicht Regie."
+      ],
+      "short": "John Carpenter inszenierte den Film.",
+      "context": "John Carpenter führte Regie und komponierte die Musik gemeinsam mit Jim Lang. Michael De Luca schrieb das Drehbuch, Sandy King produzierte. Die Verbindung von filmischer Inszenierung und eigener Musikarbeit gehört hier zu Carpenters belegten Aufgaben, während die erzählte Verlagswelt aus einem Drehbuch eines anderen Autors stammt.",
+      "anchor": "Carpenter führt Regie und komponiert; De Luca schreibt das Drehbuch.",
+      "interest": "Unterscheidet die konkreten kreativen Aufgaben in diesem Filmteam.",
+      "sources": [
+        "regisseur"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

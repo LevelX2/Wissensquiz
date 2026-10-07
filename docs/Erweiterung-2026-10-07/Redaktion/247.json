@@ -1,0 +1,233 @@
+{
+  "rank": 247,
+  "titleDe": "Wege zum Ruhm",
+  "originalTitle": "Paths of Glory",
+  "year": 1957,
+  "genre": "Drama",
+  "familiarity": 2,
+  "familiarity_reason": "Kubrick verbindet ein Kriegsgericht mit sozialer Hierarchie; prägender Antikriegsfilm und international etablierter Klassiker.",
+  "directors": [
+    "Stanley Kubrick"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Vorführung in München 1957 vor dem US-Start im Dezember. AFI und Wikipedia weichen beim genauen Münchner Datum ab; ein ungesicherter Tag wird nicht übernommen. Französischer Schauplatz, US-Produktion mit Dreharbeiten in Bayern.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Paths_of_Glory",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/52321-PATHS-OF-GLORY",
+      "supports": "Regie, US-Produktion, bayerische Dreharbeiten, Veröffentlichung 1957, Roman von 1935 und Besetzung."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Wege_zum_Ruhm",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Krieg spielt @?",
+      "answers": [
+        "Im Ersten Weltkrieg",
+        "Im Zweiten Weltkrieg",
+        "Im Koreakrieg",
+        "Im Amerikanischen Bürgerkrieg"
+      ],
+      "feedback": [
+        "Die Handlung spielt 1916 im Stellungskrieg an der Westfront.",
+        "Die Geschichte liegt vor dem Zweiten Weltkrieg.",
+        "Der Koreakrieg findet in einer anderen Zeit und Region statt.",
+        "Ein amerikanischer Bürgerkrieg ist nicht der militärische Hintergrund."
+      ],
+      "short": "Die Handlung spielt 1916 im Stellungskrieg an der Westfront.",
+      "context": "Französische und deutsche Soldaten stehen sich in befestigten Gräben gegenüber. Ein angeordneter Angriff scheitert an der gegnerischen Feuerkraft. Die Erzählung verfolgt anschließend die Reaktion der eigenen Führung. Nicht ein siegreicher Vormarsch, sondern die Verteilung von Verantwortung innerhalb eines festgefahrenen Krieges setzt den entscheidenden Konflikt in Gang.",
+      "anchor": "Der Stellungskrieg von 1916 führt in einen Konflikt um militärische Verantwortung.",
+      "interest": "Die Epoche erklärt die Art des Angriffs und seiner Folgen.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Armee gehört Colonel Dax (Kirk Douglas) an?",
+      "answers": [
+        "Der französischen Armee",
+        "Der deutschen Armee",
+        "Der britischen Armee",
+        "Der amerikanischen Armee"
+      ],
+      "feedback": [
+        "Dax führt ein französisches Regiment an der Westfront.",
+        "Er kommandiert nicht die gegenüberliegenden deutschen Truppen.",
+        "Sein Regiment ist keine britische Einheit.",
+        "Seine amerikanische Besetzung ist nicht die Nationalität der Filmfigur."
+      ],
+      "short": "Dax führt ein französisches Regiment an der Westfront.",
+      "context": "Colonel Dax (Kirk Douglas) führt seine Männer selbst in den Angriff. Zugleich muss er sich gegenüber französischen Generälen verantworten. Die nationale Zugehörigkeit verbindet ihn also mit beiden Seiten des späteren internen Konflikts: den gefährdeten Soldaten und der Führung, die deren Verhalten bestrafen will. Die Gegensätze bestehen innerhalb derselben Armee.",
+      "anchor": "Dax verteidigt französische Soldaten gegen die Entscheidung ihrer eigenen Führung.",
+      "interest": "Die Zugehörigkeit erklärt, weshalb der zentrale Gegner kein feindlicher Soldat ist.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Weshalb stimmt Mireau (George Macready) dem zunächst für unmöglich gehaltenen Angriff zu?",
+      "answers": [
+        "Broulard stellt ihm eine Beförderung in Aussicht",
+        "Neue Aufklärung meldet den vollständigen Abzug der Deutschen",
+        "Dax garantiert ihm eine verlustfreie Erstürmung",
+        "Ein Waffenstillstand erlaubt ihm einen unbewaffneten Vormarsch"
+      ],
+      "feedback": [
+        "Die Aussicht auf persönlichen Aufstieg verändert seine Einschätzung.",
+        "Es gibt keinen bestätigten vollständigen Abzug als neue Grundlage.",
+        "Dax verspricht keinen verlustfreien Erfolg.",
+        "Ein Waffenstillstand schützt den angeordneten Angriff nicht."
+      ],
+      "short": "Die Aussicht auf persönlichen Aufstieg verändert seine Einschätzung.",
+      "context": "Mireau (George Macready) benennt zunächst die Erschöpfung seiner Männer und die Schwierigkeit der Stellung. Broulards (Adolphe Menjou) Beförderungshinweis verändert nicht die Lage der Soldaten, aber Mireaus Interesse. Seine nun geäußerte Zuversicht entsteht deshalb aus einer persönlichen Aussicht. Das spätere Schuldverfahren beginnt bereits mit einer Entscheidung, deren Motivation vom taktischen Risiko abweicht.",
+      "anchor": "Mireaus Karrierechance verändert sein Urteil über dieselbe militärische Lage.",
+      "interest": "Der Zusammenhang erklärt die private Motivation eines gefährlichen Befehls.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche zivile Erfahrung nutzt Dax (Kirk Douglas) bei der Verteidigung der Soldaten?",
+      "answers": [
+        "Er ist Rechtsanwalt",
+        "Er ist Militärarzt",
+        "Er ist Zeitungsredakteur",
+        "Er ist Hochschulhistoriker"
+      ],
+      "feedback": [
+        "Seine anwaltliche Erfahrung ermöglicht die Übernahme der Verteidigung.",
+        "Er verteidigt die Männer nicht aufgrund einer ärztlichen Ausbildung.",
+        "Eine Zeitungslaufbahn wird ihm nicht zugeschrieben.",
+        "Eine historische Professur ist nicht seine zivile Qualifikation."
+      ],
+      "short": "Seine anwaltliche Erfahrung ermöglicht die Übernahme der Verteidigung.",
+      "context": "Dax (Kirk Douglas) übernimmt die Verteidigung der drei Angeklagten. Als Anwalt verlangt er Beweise und ordnungsgemäße Verfahrensschritte. Das Gericht verweigert ihm jedoch wesentliche Möglichkeiten. Seine berufliche Kompetenz kann die vorgefasste militärische Entscheidung deshalb nicht automatisch aufheben. Der Prozess zeigt gerade die Grenze fachlicher Argumentation innerhalb eines von Machtinteressen bestimmten Verfahrens.",
+      "anchor": "Dax bringt juristische Kompetenz in einen bereits festgelegten Militärprozess.",
+      "interest": "Die Erfahrung erklärt sowohl seinen Einsatz als auch dessen Grenze.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Weshalb wählt Roget (Wayne Morris) ausgerechnet Paris (Ralph Meeker) als Angeklagten aus?",
+      "answers": [
+        "Paris kennt Rogets tödlichen Fehler auf dem Spähgang",
+        "Paris hat Mireau vor der Truppe beleidigt",
+        "Paris besitzt einen gefälschten Orden",
+        "Paris verweigert seit Monaten jede Nachtschicht"
+      ],
+      "feedback": [
+        "Paris ist der gefährliche Zeuge von Rogets eigener Tat.",
+        "Eine öffentliche Beleidigung Mireaus begründet diese Auswahl nicht.",
+        "Ein gefälschter Orden steht nicht hinter Rogets Entscheidung.",
+        "Eine Serie verweigerter Schichten ist nicht der konkrete Anlass."
+      ],
+      "short": "Paris ist der gefährliche Zeuge von Rogets eigener Tat.",
+      "context": "Roget (Wayne Morris) hatte bei einem nächtlichen Spähgang aus Angst einen eigenen Soldaten getötet. Paris (Ralph Meeker) weiß davon und stellt ihn zur Rede. Die Auswahl für den Prozess bietet Roget eine Möglichkeit, diesen Mitwisser loszuwerden. Das behauptete allgemeine Exempel enthält damit eine private Vertuschung innerhalb der eigenen Befehlskette.",
+      "anchor": "Roget benutzt die Auswahl zum Exempel, um seinen belastenden Zeugen zu beseitigen.",
+      "interest": "Die Frage erklärt den individuellen Machtmissbrauch hinter einem scheinbar allgemeinen Verfahren.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "question": "Wie verändert das Lied der deutschen Sängerin den Gasthausabend am Schluss?",
+      "answers": [
+        "Die Soldaten werden still und stimmen ergriffen mit ein",
+        "Die Soldaten verlassen sofort geschlossen das Lokal",
+        "Die Soldaten verlangen eine neue Verhandlung der Todesurteile",
+        "Die Soldaten beginnen, die Sängerin als Spionin zu verhören"
+      ],
+      "feedback": [
+        "Der Gesang verwandelt das Johlen in erkennbare gemeinsame Rührung.",
+        "Sie verlassen den Raum nicht sofort als Reaktion auf das Lied.",
+        "Es entsteht kein neues gerichtliches Verfahren.",
+        "Der Auftritt endet nicht in einem Spionageverhör."
+      ],
+      "short": "Der Gesang verwandelt das Johlen in erkennbare gemeinsame Rührung.",
+      "context": "Die Soldaten behandeln die Sängerin (Christiane Kubrick, damals Susanne Christian) zunächst als fremdes Unterhaltungsobjekt. Ihr Lied verändert die Stimmung und führt zu leisem Mitsingen. Dax (Kirk Douglas) gewährt ihnen vor dem erneuten Fronteinsatz noch einige Minuten. Der Schluss zeigt eine kurze menschliche Verbindung, die der militärische Ablauf unmittelbar wieder unterbricht.",
+      "anchor": "Der deutsche Gesang erzeugt für wenige Minuten Mitgefühl über die Frontgrenze hinweg.",
+      "interest": "Die Schlussgestaltung erklärt den kurzen Gegenraum zur vorherigen Entmenschlichung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1957",
+        "1954",
+        "1951",
+        "1959"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 1957.",
+        "1954 liegt drei Jahre vor der ersten Veröffentlichung von 1957.",
+        "1951 liegt sechs Jahre vor der ersten Veröffentlichung von 1957.",
+        "1959 ist ein späteres Jahr als das belegte erste Filmjahr 1957."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1957.",
+      "context": "Humphrey Cobbs Roman Paths of Glory erschien 1935. Stanley Kubricks Film folgte 1957, 22 Jahre später. Die Vorlage blickt auf einen Justizskandal des Ersten Weltkriegs zurück; der Film konzentriert diesen Stoff auf einen gescheiterten Angriff und die Bestrafung weniger Stellvertreter. Die Verbindung verankert das Filmjahr in der literarischen Verarbeitung militärischer Verantwortung.",
+      "anchor": "Cobbs Roman 1935 → Kubricks Film 1957: 22 Jahre.",
+      "interest": "Die Datierung erhält einen konkreten Bezug zur literarischen Grundlage des Militärprozesses.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Stanley Kubrick",
+        "Lewis Milestone",
+        "Joseph Losey",
+        "Fred Zinnemann"
+      ],
+      "feedback": [
+        "Stanley Kubrick führte bei diesem Film Regie.",
+        "Lewis Milestone hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kubrick.",
+        "Joseph Losey hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kubrick.",
+        "Fred Zinnemann hat diesen Film nicht inszeniert; der Regiecredit lautet Stanley Kubrick."
+      ],
+      "short": "Stanley Kubrick führte bei diesem Film Regie.",
+      "context": "Stanley Kubrick führte Regie und schrieb mit Calder Willingham und Jim Thompson. Kirk Douglas unterstützte die Herstellung und spielte Dax. Die französische Kriegshandlung wurde in Bayern gedreht. Kubrick stellt die Bewegungsräume der Offiziere und die bedrängten Soldaten gegenüber; die juristische Auseinandersetzung bleibt Teil derselben militärischen Hierarchie, deren Fehler sie eigentlich prüfen soll.",
+      "anchor": "Kubrick und Douglas gestalten in Bayern eine französische Militärhierarchie des Ersten Weltkriegs.",
+      "interest": "Der Hintergrund trennt Produktionsort und Handlung und erklärt die Perspektive auf den Prozess.",
+      "sources": [
+        "wiki",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Classics"
+}

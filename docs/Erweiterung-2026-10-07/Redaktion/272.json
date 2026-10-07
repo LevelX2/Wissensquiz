@@ -1,0 +1,233 @@
+{
+  "rank": 272,
+  "titleDe": "Werk ohne Autor",
+  "originalTitle": "Werk ohne Autor",
+  "year": 2018,
+  "genre": "Drama",
+  "familiarity": 3,
+  "familiarity_reason": "Künstlerbiografie, politische Bildproduktion und persönliche Erinnerung verbinden sich in einer Autorenperspektive.",
+  "directors": [
+    "Florian Henckel von Donnersmarck"
+  ],
+  "production_countries": [
+    "Deutschland"
+  ],
+  "release_note": "Uraufführung bei den Filmfestspielen von Venedig im September 2018; deutscher Kinostart im Oktober. Kurt Barnert ist eine fiktionale Künstlerfigur mit biografischen Anregungen.",
+  "sources": {
+    "wiki": {
+      "url": "https://en.wikipedia.org/wiki/Never_Look_Away_(2018_film)",
+      "supports": "Gelesene Handlungsdarstellung, Besetzung, Regie, Produktions- und Veröffentlichungsdaten."
+    },
+    "venice": {
+      "url": "https://www.labiennale.org/en/cinema/2018/program-cinema-2018-public/werk-ohne-autor-2018-09-04-21-30",
+      "supports": "Festivalvorführung 2018, deutsche Produktion, Regie und Drehbuch, Hauptbesetzung und Kamera Caleb Deschanel."
+    },
+    "de": {
+      "url": "https://de.wikipedia.org/wiki/Werk_ohne_Autor",
+      "supports": "Gelesene deutsche Handlungsdarstellung und ergänzende Filmhintergründe."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Kunst widmet sich Kurt Barnert (Tom Schilling)?",
+      "answers": [
+        "Der Malerei",
+        "Der klassischen Komposition",
+        "Der Bühnentanzgestaltung",
+        "Der literarischen Übersetzung"
+      ],
+      "feedback": [
+        "Kurt entwickelt seinen Weg als Maler.",
+        "Eine Komponistenlaufbahn steht nicht im Mittelpunkt.",
+        "Er wird nicht als Choreograf ausgebildet.",
+        "Literarische Übersetzungen bilden nicht seine künstlerische Arbeit."
+      ],
+      "short": "Kurt entwickelt seinen Weg als Maler.",
+      "context": "Kurt (Tom Schilling) besitzt früh eine besondere Aufmerksamkeit für Bilder. Die späteren Ausbildungsorte bieten verschiedene Erwartungen an seine Arbeit. Weder die offiziell verlangten Darstellungen noch das bloße Nachahmen moderner Formen geben ihm sofort eine eigene Richtung. Der Film folgt daher einem Beruf, dessen Entwicklung zugleich eine Suche nach persönlichem Ausdruck ist.",
+      "anchor": "Kurt lernt Malerei und sucht zwischen vorgeschriebenen Formen seine eigene Bildsprache.",
+      "interest": "Die Tätigkeit erklärt den Weg vom Können zur persönlichen Gestaltung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "question": "In welche westdeutsche Stadt zieht Kurt (Tom Schilling) für seine weitere künstlerische Ausbildung?",
+      "answers": [
+        "Düsseldorf",
+        "München",
+        "Hamburg",
+        "Frankfurt am Main"
+      ],
+      "feedback": [
+        "Die neue Kunstakademie befindet sich in Düsseldorf.",
+        "München ist nicht das neue Ausbildungszentrum.",
+        "Hamburg bildet nicht diesen Akademieschauplatz.",
+        "Frankfurt ist nicht Kurts entscheidender Ausbildungsort."
+      ],
+      "short": "Die neue Kunstakademie befindet sich in Düsseldorf.",
+      "context": "Nach der Flucht in den Westen beginnt Kurt (Tom Schilling) in Düsseldorf erneut zu studieren. Die anderen künstlerischen Möglichkeiten beseitigen seine Unsicherheit nicht von selbst. Er muss dort erkennen, welche Arbeiten tatsächlich aus seiner eigenen Erfahrung hervorgehen. Der Ortswechsel öffnet einen Raum, ersetzt aber nicht die Entwicklung einer eigenen Haltung.",
+      "anchor": "Düsseldorf eröffnet andere Kunstmöglichkeiten; den eigenen Ausdruck muss Kurt selbst finden.",
+      "interest": "Der Ausbildungsort erklärt die Chancen und Grenzen des Neubeginns.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "question": "Welche verborgene Verbindung besteht zwischen Seeband (Sebastian Koch) und Kurt?",
+      "answers": [
+        "Er verantwortete den Tod von Kurts Tante und wird später sein Schwiegervater",
+        "Er war Kurts erster Mallehrer und ist zugleich dessen leiblicher Vater",
+        "Er verkaufte Kurts erste Bilder und ist der Bruder seiner Mutter",
+        "Er schrieb Kurts Studienprüfung und wurde danach sein Adoptivvater"
+      ],
+      "feedback": [
+        "Der Arzt aus der Verfolgungsgeschichte wird durch Ellie Teil von Kurts neuer Familie.",
+        "Eine leibliche Vaterschaft wird nicht enthüllt.",
+        "Ein mütterlicher Bruder als Kunsthändler ist nicht die Verbindung.",
+        "Eine spätere Adoption ist nicht Seebands Rolle."
+      ],
+      "short": "Der Arzt aus der Verfolgungsgeschichte wird durch Ellie Teil von Kurts neuer Familie.",
+      "context": "Kurt (Tom Schilling) heiratet Ellie (Paula Beer), ohne die Verbindung ihres Vaters Seeband (Sebastian Koch) zur ermordeten Tante zu kennen. Der Familienkontakt stellt Täter und Angehörigen eines Opfers nebeneinander. Das Publikum verfügt über mehr Wissen als Kurt. Diese ungleiche Kenntnis verleiht den alltäglichen Begegnungen eine Spannung, die ihre Figuren nicht vollständig verstehen.",
+      "anchor": "Der für die Tante verantwortliche Arzt wird unwissentlich Kurts Schwiegervater.",
+      "interest": "Die Verbindung erklärt die Wirkung des Wissensvorsprungs des Publikums.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Wodurch entgeht Seeband (Sebastian Koch) zunächst einer Verfolgung nach dem Krieg?",
+      "answers": [
+        "Er hilft bei der schwierigen Geburt des Kindes eines sowjetischen Offiziers",
+        "Er veröffentlicht freiwillig eine vollständige Liste seiner früheren Opfer",
+        "Er wird von Kurt als unschuldig entlastet",
+        "Er ersetzt im Gefängnis seinen Ausweis durch den eines Kunstprofessors"
+      ],
+      "feedback": [
+        "Die Rettung bei der Geburt verschafft ihm den Schutz des dankbaren Offiziers.",
+        "Eine vollständige freiwillige Offenlegung führt nicht zur Schonung.",
+        "Kurt tritt nicht als entlastender Zeuge auf.",
+        "Ein gefälschter Kunstprofessoren-Ausweis ist nicht der Weg."
+      ],
+      "short": "Die Rettung bei der Geburt verschafft ihm den Schutz des dankbaren Offiziers.",
+      "context": "Seeband (Sebastian Koch) nutzt sein medizinisches Können auch nach seiner Verhaftung. Die Hilfe für die Frau des Offiziers Murawjow (Evgeniy Sidikhin) bringt ihm persönliche Protektion. Die erfolgreiche Behandlung hebt seine frühere Verantwortung nicht auf. Sie verändert jedoch die Bedingungen, unter denen er sich der Aufklärung und Bestrafung entziehen kann.",
+      "anchor": "Eine hilfreiche Geburtshilfe verschafft Seeband Schutz vor der Aufklärung früherer Taten.",
+      "interest": "Die Szene trennt einzelne Rettung und fortbestehende Verantwortung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Wie sabotiert Seeband (Sebastian Koch) Ellies erste Schwangerschaft mit Kurt?",
+      "answers": [
+        "Er behauptet einen medizinischen Grund und führt einen Schwangerschaftsabbruch durch",
+        "Er erklärt Kurt öffentlich zum Vater eines anderen Kindes",
+        "Er schickt Ellie ohne Behandlung als Malerin ins Ausland",
+        "Er lässt Kurts Studienabschluss als Bedingung der Geburt annullieren"
+      ],
+      "feedback": [
+        "Der vorgetäuschte gesundheitliche Grund verdeckt sein Vorgehen gegen die Beziehung.",
+        "Eine öffentliche andere Vaterschaftsbehauptung ist nicht sein Mittel.",
+        "Eine unbehandelte Künstlerreise ersetzt den Eingriff nicht.",
+        "Die Studienprüfung wird nicht zur unmittelbaren Geburtsbedingung."
+      ],
+      "short": "Der vorgetäuschte gesundheitliche Grund verdeckt sein Vorgehen gegen die Beziehung.",
+      "context": "Seeband (Sebastian Koch) hält Kurt (Tom Schilling) für unpassend und benutzt seine ärztliche Autorität gegen die Verbindung. Ellie (Paula Beer) erfährt den Eingriff als vermeintlich notwendige Behandlung. Die Handlung zeigt damit einen erneuten Missbrauch medizinischer Macht in derselben Figur. Fachliche Stellung und persönliche Absicht werden für die Betroffene nur schwer voneinander unterscheidbar.",
+      "anchor": "Seeband tarnt den Eingriff gegen die Beziehung als medizinische Notwendigkeit.",
+      "interest": "Der Zusammenhang erklärt die konkrete Fortsetzung seines Machtmissbrauchs.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum beunruhigt eine Bildcollage von Kurt (Tom Schilling) Seeband besonders?",
+      "answers": [
+        "Sie verbindet sein Gesicht mit dem früheren Vorgesetzten und Kurts ermordeter Tante",
+        "Sie zeigt seine geheimen Bankkonten als vollständig lesbare Vertragskopien",
+        "Sie enthält Ellies unterschriebenes Geständnis über eine erfundene Vaterschaft",
+        "Sie bildet einen bereits verkündeten Gerichtsentscheid gegen ihn ab"
+      ],
+      "feedback": [
+        "Die kombinierten Gesichter machen einen Zusammenhang sichtbar, dessen Bedeutung Kurt nicht eindeutig ausspricht.",
+        "Bankkontokopien bestimmen das Gemälde nicht.",
+        "Ein Geständnis Ellies ist nicht der Bildinhalt.",
+        "Ein schon verkündetes Urteil wird nicht abgemalt."
+      ],
+      "short": "Die kombinierten Gesichter machen einen Zusammenhang sichtbar, dessen Bedeutung Kurt nicht eindeutig ausspricht.",
+      "context": "Kurt (Tom Schilling) kombiniert Fotografien, die für ihn biografisch oder künstlerisch bedeutsam sind. Seeband (Sebastian Koch) erkennt darin eine Nähe zur verdrängten Vergangenheit und verlässt verstört das Atelier. Der Film bestätigt keine vollständige Ermittlung Kurts. Ein Bild kann hier einen tatsächlichen Zusammenhang berühren, ohne dass sein Autor ihn vollständig erklärt.",
+      "anchor": "Die Collage berührt Seebands Vergangenheit, obwohl Kurts vollständiges Wissen offenbleibt.",
+      "interest": "Die Frage trennt sichtbare Verbindung von behaupteter bewusster Aufklärung.",
+      "sources": [
+        "wiki",
+        "de"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2015",
+        "2012",
+        "2020"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung gehört ins Jahr 2018.",
+        "2015 liegt drei Jahre vor der ersten Veröffentlichung von 2018.",
+        "2012 liegt sechs Jahre vor der ersten Veröffentlichung von 2018.",
+        "2020 ist ein späteres Jahr als das belegte erste Filmjahr 2018."
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 2018.",
+      "context": "Der Film beginnt seine Künstlergeschichte mit Kurts Besuch der Ausstellung Entartete Kunst im Jahr 1937. Veröffentlicht wurde er 2018, einundachtzig Jahre später. Das erste Datum gehört zur erzählten Kindheit, das zweite zur filmischen Rückschau. Die Unterscheidung hilft, den langen historischen Bogen zu erkennen, ohne Kurt Barnert mit einer vollständig dokumentarischen Lebensbeschreibung gleichzusetzen.",
+      "anchor": "Erzählter Ausstellungsbesuch 1937 → Filmveröffentlichung 2018: einundachtzig Jahre später.",
+      "interest": "Die Verbindung trennt die historische Erzählzeit vom späteren Filmjahr.",
+      "sources": [
+        "wiki",
+        "venice"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Florian Henckel von Donnersmarck",
+        "Tom Tykwer",
+        "Christian Petzold",
+        "Florian Gallenberger"
+      ],
+      "feedback": [
+        "Florian Henckel von Donnersmarck führte bei diesem Film Regie.",
+        "Tom Tykwer hat diesen Film nicht inszeniert; der Regiecredit lautet Florian Henckel von Donnersmarck.",
+        "Christian Petzold hat diesen Film nicht inszeniert; der Regiecredit lautet Florian Henckel von Donnersmarck.",
+        "Florian Gallenberger hat diesen Film nicht inszeniert; der Regiecredit lautet Florian Henckel von Donnersmarck."
+      ],
+      "short": "Florian Henckel von Donnersmarck führte bei diesem Film Regie.",
+      "context": "Florian Henckel von Donnersmarck schrieb und inszenierte das Drama. Er verbindet die Künstlerentwicklung mit einer Familiengeschichte, deren Zusammenhänge das Publikum früher als Kurt erkennt. Caleb Deschanels Kamera begleitet den Wechsel von Kindheit und Krieg zu den unterschiedlichen Kunstwelten nach 1945. Die einzelnen Bilder der späteren Gemälde erhalten dadurch Bedeutungen, die ihr Maler nicht vollständig ausspricht.",
+      "anchor": "Donnersmarck verbindet Künstlerentwicklung und Familienwissen, das Kurt nicht vollständig kennt.",
+      "interest": "Der Hintergrund erklärt die Verteilung des Wissens zwischen Figur und Publikum.",
+      "sources": [
+        "wiki",
+        "venice"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "category": "Arthouse"
+}

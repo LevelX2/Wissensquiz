@@ -1,0 +1,220 @@
+{
+  "rank": 99,
+  "titleDe": "Die Farbe aus dem All",
+  "originalTitle": "Color Out of Space",
+  "year": 2019,
+  "genre": "Horror",
+  "familiarity": 4,
+  "directors": [
+    "Richard Stanley"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere bei TIFF am 7. September 2019; US-Kinostart am 24. Januar 2020. Das TIFF-Programm führt USA/2019; Drehort Portugal und internationale Finanzierung sind davon getrennt.",
+  "familiarity_reason": "Die Lovecraft-Verfilmung mit Nicolas Cage ist im Genre- und Literaturpublikum präsent, im allgemeinen Filmgespräch aber ein spezieller Titel; Bekanntheit 4.",
+  "sources": {
+    "produktion": "https://www.acepictures.com/projects/color-out-of-space",
+    "tiff": "https://downloads.ctfassets.net/22n7d68fswlw/3S3xFtoSyY2ZHC61UVFL3Q/ac009350c649279cd37b54eabcf217ea/TIFF2019_Programmebook_COMPLETE_reduce.pdf",
+    "kritik": "https://www.rogerebert.com/reviews/color-out-of-space-movie-review-2020",
+    "handlung": "https://en.wikipedia.org/wiki/Color_Out_of_Space_(film)",
+    "vorlage": "https://www.hplovecraft.com/writings/fiction/cs.aspx"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Ereignis setzt die Veränderungen auf dem Grundstück in @ in Gang?",
+      "answers": [
+        "Ein Meteorit schlägt bei der Farm ein.",
+        "Ein Nachbar öffnet eine stillgelegte Mine.",
+        "Ein Sturm zerstört ein chemisches Labor.",
+        "Ein Lastwagen verliert giftige Abfälle."
+      ],
+      "feedback": [
+        "Der Meteorit bringt die fremde Kraft auf das Grundstück.",
+        "Eine Mine ist nicht der Auslöser.",
+        "Ein zerstörtes Labor setzt die Veränderungen nicht frei.",
+        "Ein Abfalltransport erklärt sie nicht."
+      ],
+      "short": "Der Meteorit bringt die fremde Kraft auf das Grundstück.",
+      "context": "Ein Meteorit trifft die Farm der Gardners. Nathan (Nicolas Cage) und Theresa (Joely Richardson) müssen zunächst ein scheinbar einzelnes Ereignis einordnen. Dessen Folgen reichen jedoch über den Einschlagsort hinaus. Boden, Lebewesen und schließlich vertraute Wahrnehmungen verändern sich, obwohl der sichtbare Stein nicht als dauerhafte Grenze der Gefahr dient.",
+      "anchor": "Der Einschlag ist lokal, seine Folgen erfassen den gesamten Lebensraum.",
+      "interest": "Verbindet den sichtbaren Auslöser mit der schrittweisen Ausbreitung.",
+      "sources": [
+        "produktion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "question": "Welche Tiere hält Nathan auf seiner Farm in @?",
+      "answers": [
+        "Alpakas",
+        "Milchkühe",
+        "Ziegen",
+        "Schweine"
+      ],
+      "feedback": [
+        "Nathan setzt auf Alpakas.",
+        "Eine Kuhherde steht nicht im Zentrum seiner Farmpläne.",
+        "Ziegen sind nicht die gesuchte Herde.",
+        "Schweine erklären sein Projekt nicht."
+      ],
+      "short": "Nathan setzt auf Alpakas.",
+      "context": "Nathan (Nicolas Cage) hält Alpakas und verbindet sie mit seinem Plan eines neuen Landlebens. Seine Begeisterung übertrifft zunächst seine praktische Erfahrung. Die Tiere gehören deshalb zum erhofften Familienalltag, bevor die fremde Kraft auch sie verändert. Der Horror trifft einen ohnehin noch unsicheren Versuch, neu anzufangen.",
+      "anchor": "Die Alpakas stehen für Nathans unerprobten Traum vom neuen Landleben.",
+      "interest": "Ordnet ein markantes Tiermotiv in die familiäre Ausgangslage ein.",
+      "sources": [
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "question": "Welche konkrete Warnung gibt Ward der Familie in @ nach seinen Untersuchungen?",
+      "answers": [
+        "Das örtliche Wasser nicht zu trinken",
+        "Das Haus nicht bei Tageslicht zu verlassen",
+        "Keine Nahrung aus der Stadt anzunehmen",
+        "Die Farm keinesfalls mit einem Fahrzeug zu verlassen"
+      ],
+      "feedback": [
+        "Ward findet auffällige Veränderungen des Wassers.",
+        "Tageslicht ist nicht der Gegenstand dieser Warnung.",
+        "Städtische Lebensmittel sind nicht sein Befund.",
+        "Ein Fahrzeugverbot ergibt sich nicht aus seiner Untersuchung."
+      ],
+      "short": "Ward findet auffällige Veränderungen des Wassers.",
+      "context": "Ward Phillips (Elliot Knight) untersucht das Wasser und warnt die Gardners davor, es zu trinken. Der Befund übersetzt die fremde Erscheinung in eine alltägliche Gefährdung. Die Farm kann nicht einfach als geschlossener Schutzraum dienen, wenn eine lebensnotwendige Verbindung zur Umgebung bereits verdächtig geworden ist.",
+      "anchor": "Wards Wasserbefund macht die Umgebung zur möglichen Quelle täglicher Gefahr.",
+      "interest": "Verbindet die wissenschaftliche Untersuchung mit einer konkreten Verhaltensentscheidung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "question": "Welche Erfahrung erschwert es den Gardners in @, den Ablauf der Ereignisse zuverlässig einzuschätzen?",
+      "answers": [
+        "Zeit scheint sich zu dehnen oder plötzlich zu fehlen.",
+        "Ihr Schlafrhythmus kehrt sich dauerhaft vollständig um.",
+        "Ihre Erinnerungen an dieselben Ereignisse stimmen plötzlich nie überein.",
+        "Alle Ereignisse erscheinen ihnen in umgekehrter Reihenfolge."
+      ],
+      "feedback": [
+        "Die fremde Kraft verändert die Erfahrung von Zeit.",
+        "Die Fremdkraft verzerrt das Zeiterleben und nicht nur Schlafzeiten.",
+        "Der Film zeigt verlorene und gedehnte Zeit und nicht nur widersprüchliche Erinnerungen.",
+        "Die Zeit wird als gestört erlebt, läuft aber nicht einfach rückwärts."
+      ],
+      "short": "Die fremde Kraft verändert die Erfahrung von Zeit.",
+      "context": "Benny (Brendan Meyer) bemerkt, dass Zeit scheinbar unbemerkt vergangen ist. Die Veränderungen betreffen damit nicht nur sichtbare Körper und Pflanzen. Die Familie verliert auch eine Grundlage für geordnete Entscheidungen: Sie kann nicht mehr sicher voraussetzen, dass der erinnerte Ablauf dem tatsächlichen Verlauf ihrer Umgebung entspricht.",
+      "anchor": "Die fremde Kraft beschädigt auch das Vertrauen in den erlebten Zeitablauf.",
+      "interest": "Erklärt eine schwer sichtbare Form des Kontrollverlusts.",
+      "sources": [
+        "tiff",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "question": "Was geschieht mit Theresa und ihrem jüngsten Sohn nach dem Ausbruch der fremden Kraft in @?",
+      "answers": [
+        "Ihre Körper werden miteinander verschmolzen.",
+        "Sie tauschen vollständig ihre Erinnerungen.",
+        "Sie werden beide ohne körperliche Veränderung versteinert.",
+        "Sie verschwinden spurlos in getrennten Räumen."
+      ],
+      "feedback": [
+        "Theresa und Jack werden zu einem verbundenen Körper.",
+        "Ein bloßer Erinnerungstausch beschreibt die Veränderung nicht.",
+        "Es ist keine unveränderte Versteinerung.",
+        "Die Familie findet sie als verschmolzenes Wesen."
+      ],
+      "short": "Theresa und Jack werden zu einem verbundenen Körper.",
+      "context": "Theresa (Joely Richardson) und Jack (Julian Hilliard) werden körperlich verschmolzen. Die vertraute Nähe von Mutter und Kind erhält dadurch eine entsetzliche materielle Form. Nathan (Nicolas Cage) steht nicht nur vor einer Verletzung, sondern vor einem Zustand, in dem Schutz, Pflege und Wiedererkennen kaum noch zusammenpassen.",
+      "anchor": "Die Mutter-Kind-Nähe wird zur unauflöslichen körperlichen Verschmelzung.",
+      "interest": "Erklärt, weshalb diese Veränderung mehr als eine gewöhnliche Verletzung ist.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was befindet sich im Epilog von @ über dem früheren Ort der Katastrophe?",
+      "answers": [
+        "Ein Stausee",
+        "Ein wiederbewirtschafteter Bauernhof",
+        "Eine neue Tierklinik",
+        "Ein offenes Museum der geretteten Familie"
+      ],
+      "feedback": [
+        "Der Stausee überdeckt den früheren Ort.",
+        "Die Gardners nehmen den Hof nicht wieder in Betrieb.",
+        "Eine Tierklinik ersetzt ihn nicht.",
+        "Ein Familienmuseum beendet die Geschichte nicht."
+      ],
+      "short": "Der Stausee überdeckt den früheren Ort.",
+      "context": "Ward (Elliot Knight) steht im Epilog am Stausee, der das frühere Grundstück überdeckt. Für andere ist der Ort Teil einer neuen Nutzung geworden. Seine Erinnerung bewahrt jedoch die alte Gefahr. Die überdeckte Landschaft steht damit für einen Unterschied zwischen äußerer Normalisierung und dem Wissen eines Überlebenden.",
+      "anchor": "Das Wasser überdeckt den Ort, aber nicht Wards Erinnerung.",
+      "interest": "Verbindet die veränderte Landschaft mit der unaufgehobenen Erfahrung des Überlebenden.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @, 92 Jahre nach Lovecrafts erster Veröffentlichung der Vorlage 1927?",
+      "answers": [
+        "2019",
+        "2007",
+        "2020",
+        "2022"
+      ],
+      "feedback": [
+        "2019 liegt 92 Jahre nach 1927.",
+        "2007 liegt achtzig Jahre später.",
+        "2020 ist der spätere US-Kinostart.",
+        "2022 liegt 95 Jahre nach der Vorlage."
+      ],
+      "short": "2019 liegt 92 Jahre nach 1927.",
+      "context": "Lovecrafts Erzählung erschien im September 1927 in Amazing Stories. Diese Verfilmung wurde 2019 erstmals gezeigt, 92 Jahre später. Die literarische Vorlage beschreibt etwas außerhalb vertrauter menschlicher Kategorien. Die lange Zeitspanne macht die erneute Aufgabe deutlich, eine schwer beschreibbare Bedrohung in sichtbare und hörbare Filmgestaltung zu übersetzen.",
+      "anchor": "1927 die Erzählung, 2019 diese Verfilmung: 92 Jahre später.",
+      "interest": "Verbindet die Filmfassung mit der Veröffentlichung ihres kosmischen Horrormotivs.",
+      "sources": [
+        "tiff",
+        "vorlage"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Richard Stanley",
+        "Panos Cosmatos",
+        "Stuart Gordon",
+        "Brian Yuzna"
+      ],
+      "feedback": [
+        "Stanley führte Regie und schrieb mit Scarlett Amaris.",
+        "Cosmatos inszenierte einen anderen Horrorfilm mit Nicolas Cage.",
+        "Gordon verfilmte andere Lovecraft-Stoffe.",
+        "Yuzna führte bei dieser Fassung nicht Regie."
+      ],
+      "short": "Stanley führte Regie und schrieb mit Scarlett Amaris.",
+      "context": "Richard Stanley kehrte 2019 mit dem Film zu TIFF zurück, wo sein Hardware bereits 1990 gezeigt worden war. Das Festival verbindet seine halluzinatorische Gestaltung mit der schrittweisen Bedrohung der Familie. Der Regiecredit bezeichnet eine erneute Genrearbeit nach einer Laufbahn, die auch mehrere Dokumentarfilme umfasst.",
+      "anchor": "Stanley verbindet die Rückkehr zum Festival mit einer halluzinatorischen Lovecraft-Verfilmung.",
+      "interest": "Gibt dem Regiecredit einen belegten Werk- und Festivalzusammenhang.",
+      "sources": [
+        "tiff"
+      ],
+      "spoiler": "gering"
+    }
+  ],
+  "director_note": "Richard Stanley ist Regisseur; Scarlett Amaris ist gemeinsam mit ihm als Drehbuchautorin ausgewiesen. Die missverständliche Wikipedia-Einleitungsformulierung bedeutet keinen Co-Regiecredit."
+}

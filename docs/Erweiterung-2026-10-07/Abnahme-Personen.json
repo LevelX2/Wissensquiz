@@ -1,0 +1,66 @@
+{
+  "asOf": "2026-10-07",
+  "status": "Redaktionelle Zweitabnahme abgeschlossen; für den zentralen Zusammenbau freigegeben",
+  "scope": {"files": "Personen/01.json bis Personen/20.json", "people": 20, "questions": 160},
+  "readingScope": [
+    "Alle 160 Frageformulierungen, Antwortoptionen und Vertiefungen wurden als Zweitabnahme gelesen; leichte, mittlere, schwere und Expertenziele wurden innerhalb jeder Person auf Eigenständigkeit geprüft. Bei allen geänderten Optionen wurden die zugehörigen Feedbacktexte einzeln angepasst und geprüft.",
+    "Der vollständige Bestand mit 8.397 Fragen wurde nach Personennamen und Filmreferenzen durchsucht. Die relevanten fachlichen Treffer wurden semantisch mit den neuen Zielen verglichen; reine Schauspielerporträts oder vorhandene Filmdaten gelten nicht als derselbe Rollen- oder Regiesachverhalt.",
+    "Der neue Filmfragenblock wurde zusätzlich auf gleiche Ziele geprüft, insbesondere Frailty, Into the Wild, Hallo, Mr. President, The Big Sleep und Meet John Doe.",
+    "Ergänzende Quellen wurden gezielt gelesen: AFI und Penguin Random House zur Krakauer-Vorlage von Into the Wild, AFI zu Ullas Büroaufgabe in The Producers sowie der biografische Gesangsabschnitt zu Doris Day und Ella Fitzgerald. Das Grammy-Jahr 1962 wurde gegen den maßgeblichen, zentral gelesenen offiziellen Künstlernachweis beibehalten.",
+    "Dies ist eine fachliche Zweitabnahme der bereits recherchierten Redaktion, keine Behauptung einer zweiten unabhängigen Vollrecherche sämtlicher 160 Einzelbehauptungen."
+  ],
+  "importantCorrections": [
+    {"question": "02-M2", "change": "Die negative, sachlich unergiebige Gegenüberstellung mit Die Indianer von Cleveland wurde ersetzt. Gefragt wird positiv nach Jon Krakauers Sachbuch als Vorlage von Penns Into the Wild. Die Vertiefung verbindet Buch 1996, Film 2007, Drehbuch und Hauptdarsteller Emile Hirsch.", "sources": ["https://catalog.afi.com/Film/55175-INTO-THEWILD", "https://www.penguinrandomhouse.com/books/95440/into-the-wild-by-jon-krakauer/"]},
+    {"question": "14-M2", "change": "Erfundene Figurenoptionen wurden durch vergleichbare Tätigkeiten ersetzt. Die korrekte Zwischenaufgabe Ullas als Büroassistentin ist im AFI-Synopsistext belegt; Nathan Lane und Matthew Broderick sind ihren Figuren zugeordnet.", "sources": ["https://catalog.afi.com/Film/63573-THE-PRODUCERS"]},
+    {"question": "19-S2", "change": "Abwegige Raumfahrt-, Erbschafts- und Detektivoptionen wurden durch plausible, aber falsche Entwicklungen der Künstlerkarrieren ersetzt. Esther/Vicki und Norman sind Garland und Mason zugeordnet."},
+    {"question": "15-L1", "change": "Der unpassende pauschale Rekordvorbehalt wurde entfernt. Die Vertiefung erklärt stattdessen die konkrete sportliche Zielsetzung, Teamarbeit und Freundschaft der Filmfiguren."},
+    {"question": "20-S2", "change": "Der sprachlich defekte Satz wurde durch eine präzise Erklärung von Phrasierung, Dynamik und Aussprache ersetzt."},
+    {"questions": "03-S1, 04-L2, 07-S1, 09-S1, 11-M1, 11-S1, 12-M2 und 13-S1", "change": "Unplausible beziehungsweise formal nicht vergleichbare Ablenker ersetzt; die individuellen Feedbacktexte wurden an die neuen Möglichkeiten angepasst."},
+    {"questions": "02-M2, 11-M1 und 19-M2", "change": "Durch Abkürzungen wie St. oder S. abgeschnittene Kurztexte repariert, ebenso die davon betroffenen richtigen Feedbacktexte."},
+    {"questions": "Alle 160", "change": "Das zuvor identisch wiederholte Feld interest wurde durch eine individuelle Aussage zum Erkenntniswert des jeweiligen Wissensziels ersetzt."},
+    {"questions": "Ausgewählte Rollenvertiefungen", "change": "Konkret genannte Figuren wurden ihren Originaldarstellern zugeordnet, unter anderem Mr. Hand, Patrick Chandler, Rag, Oppenheimer, Paula und Lucy, Cameron, Nicholas Garrigan, Michael O’Neal, Craig Schwartz, Marsellus Wallace, Henry Miller, Anaïs Nin, Andrew Shepherd, Laurel Dallas und Hank McKenna."},
+    {"question": "19-E1", "change": "Albumaufnahme 1961 und Grammy-Verleihung 1962 bleiben getrennt. Der offizielle Grammy-Nachweis hat Vorrang vor einer missverständlich verbundenen Jahresangabe im Library-of-Congress-Essay.", "sources": ["https://www.grammy.com/artists/judy-garland/3544/", "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/judy.pdf"]}
+  ],
+  "variantCount": 9,
+  "additionalVariantForCentralIntegration": {
+    "question": "E20261007-P-008-L2",
+    "knowledge_id": "K-HOR-11-paul-schriftsteller",
+    "variant_of": "HOR-L-021",
+    "reason": "Zusätzlicher Hinweis aus der unabhängigen zentralen Prüfung: derselbe Beruf Paul Sheldons als Schriftsteller in Misery. Der Bestandsdatensatz wurde anschließend nachgelesen und bestätigt.",
+    "implementation": "Die zentrale Integration setzt diesen zehnten Link nach der Blockfreigabe; Personen/08.json wurde im freigegebenen Block hierfür nicht nochmals geändert."
+  },
+  "variants": [
+    {"question": "E20261007-P-001-L1", "knowledge_id": "K-DRA-01-02", "variant_of": "DRA-L-002", "reason": "Andys Beruf Banker in Die Verurteilten."},
+    {"question": "E20261007-P-005-L1", "knowledge_id": "K-SCHAUSPIELER-202610-P01-028-M-2", "variant_of": "SCHAUSPIELER-202610-P01-028-M-2", "reason": "Dieselbe Geschwisterbeziehung Ben und Casey Affleck."},
+    {"question": "E20261007-P-005-S1", "knowledge_id": "K-F240-20261006-074-L2", "variant_of": "F240-20261006-074-L2", "reason": "Dieselbe weiße Tuchgestalt in A Ghost Story."},
+    {"question": "E20261007-P-007-S1", "knowledge_id": "K-E20261007-F-225-D", "variant_of": "E20261007-F-225-D", "reason": "Bill Paxtons Regiecredit bei Frailty; Bezug auf das neue Filmset."},
+    {"question": "E20261007-P-009-L1", "knowledge_id": "K-CLA-07-01", "variant_of": "CLA-L-013", "reason": "Derselbe Darsteller-Figuren-Zusammenhang O’Toole als Lawrence."},
+    {"question": "E20261007-P-010-M1", "knowledge_id": "K-SCHAUSPIELER-202610-P01-017-S-2", "variant_of": "SCHAUSPIELER-202610-P01-017-S-2", "reason": "Derselbe porträtierte Jazzmusiker Charlie Parker im Film Bird."},
+    {"question": "E20261007-P-013-L1", "knowledge_id": "K-DRA-15-02", "variant_of": "DRA-L-030", "reason": "Dieselbe Sportart Boxen der Figur Maggie in Million Dollar Baby."},
+    {"question": "E20261007-P-015-M2", "knowledge_id": "K-E20261007-F-189-L2", "variant_of": "E20261007-F-189-L2", "reason": "Sydney Ellen Wades beruflicher Zusammenhang als Umweltlobbyistin; Bezug auf das neue Filmset."},
+    {"question": "E20261007-P-016-M2", "knowledge_id": "K-F240-20261006-201-D", "variant_of": "F240-20261006-201-D", "reason": "Derselbe Regiecredit Roman Polanski bei Chinatown."}
+  ],
+  "distinctGoalsRetained": [
+    {"question": "04-L2", "reason": "Für Hoppers Regie bei Easy Rider wurde kein vorhandenes Regie-Frageziel gefunden; bloße Filmmetadaten oder andere Rollenfragen erzeugen keinen Variantenlink."},
+    {"question": "12-S2", "reason": "Für Jonzes Regie bei Being John Malkovich wurde kein vorhandenes Regie-Frageziel gefunden; bloße Filmmetadaten oder andere Rollenfragen erzeugen keinen Variantenlink."},
+    {"question": "06-M2", "reason": "Spielbergs gemeinsame Regie zweier Dreyfuss-Filme ist breiter als ein einzelner Filmcredit."},
+    {"question": "07-M2", "reason": "Camerons gemeinsame Regie dreier Paxton-Filme ist breiter als ein einzelner Filmcredit."},
+    {"question": "18-S2", "reason": "Capras gemeinsame Regie von Ladies of Leisure und Meet John Doe ist nicht identisch mit dem einzelnen Credit des neuen Filmziels 242-D."},
+    {"question": "01-S1", "reason": "Robbins’ Oscar-Nominierung für die Regie von Dead Man Walking ist ein Preiszusammenhang; der bloße Regiecredit ist ein anderes Ziel."},
+    {"question": "19-S1", "reason": "Garlands Nebenrollen-Nominierung für Judgment at Nuremberg ist ein Preiszusammenhang und kein Inhalts-, Jahres- oder Regieziel des neuen Filmsets."}
+  ],
+  "formalChecks": {
+    "personFilesParsed": 20,
+    "questionsParsed": 160,
+    "questionCodesPerPerson": ["L1", "L2", "M1", "M2", "S1", "S2", "E1", "E2"],
+    "fourDistinctAnswersAndFourFeedbacks": true,
+    "validVariantLinksAgainstBaselineAndNewFilmGoals": true,
+    "brokenShortTexts": 0,
+    "questionsAndOptionsOver60Words": 0,
+    "errors": 0
+  },
+  "limits": [
+    "Die ausgewerteten Quellenabschnitte, semantische Zweitabnahme und technische Strukturprüfung sind getrennte Nachweise; dieser Bericht behauptet keine Sichtung aller genannten Filme.",
+    "Die finale CSV-Ableitung, Metadatenanzeige und App-Integration werden zentral geprüft. Eine weitere unabhängige Prüfung auf zusätzliche gemeinsame Wissensziele kann die dokumentierten Varianten ergänzen."
+  ]
+}

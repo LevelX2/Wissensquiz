@@ -1,4 +1,7 @@
-# Schauspieler: 1.600 Fragen für 200 Personen
+# Schauspieler: 1.760 Fragen für 220 Personen
+
+07.10.2026 – **320 Einträge und 2.480 Fragen lokal ergänzt:** Je 20 neue Einträge in allen 16 Auswahlkategorien. Gesamt **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**; 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. Filmauswahl vorrangig aus der persönlichen Sammlung; Einzelbesitzangaben bleiben privat. Noch nicht veröffentlicht. [Redaktion, Lesefassung und Prüfnachweise](Erweiterung-2026-10-07/Pruefbericht.md).
+
 
 07.10.2026 – **200 Bildfragen lokal ergänzt:** Je ein eigenständiges Gesichtserkennen für 100 Schauspieler und 100 Schauspielerinnen. 175 vorhandene Personen und 25 Ergänzungen; vier Namensoptionen, Bild vor der Auswahl, neutraler Alternativtext, Quellen und Urheber erst zur Lösung. Genau beauftragter Erkennungsumfang, kein zusätzliches Acht-Fragen-Karrierepaket je Person. Damit lokal 1.600 Personenfragen für 200 Personen; noch nicht veröffentlicht. [Lesefassung, Quellen und Prüfung](Schauspieler-Bilderkennung-2026-10-07/Pruefbericht.md).
 
