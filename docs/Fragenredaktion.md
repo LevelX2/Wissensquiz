@@ -1,10 +1,18 @@
 # Redaktion von Filmfragen, Schauspielerfragen und Preisfragen
 
-Stand: 04.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
+Stand: 07.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
 
 Quelle: [unveränderter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20Fragenredaktions-Skill.txt). Bestehende technische Bereichs- und Importverträge wurden für den Stand abgeglichen.
 
 Der persönliche Skill `wissensquiz-fragen-redigieren` führt durch die Redaktion und verweist auf diesen Vertrag. Die führenden fachlichen Regeln stehen hier im Projekt; die Skill-Quelle wird nach den persönlichen Installationsregeln gepflegt. Der [ältere kopierfertige Musikauftrag](Prompt-Neue-Fragenpakete.md) bleibt ein historisches Beispiel. Bei neuen Aufträgen haben die aktuellen Anforderungen dieser Seite Vorrang.
+
+## Filmauswahl anhand der persönlichen Sammlung
+
+Künftige Filmerweiterungen orientieren sich vorrangig an der persönlichen Filmsammlung. Vor der Auswahl die verfügbare Filmliste auswerten und passende, im Quiz noch unterrepräsentierte Werke daraus bevorzugen. Die Sammlung ist eine Auswahlpriorität, keine ausschließliche Titelliste und keine feste Quote. Begründete Ergänzungen außerhalb bleiben möglich, etwa für Genrelücken oder besonders interessante Wissensziele. Aktuelle ausdrückliche Auswahlvorgaben haben Vorrang.
+
+Sammlungsbezüge vor der Redaktion anhand Titelvarianten, Filmfassungen und gegebenenfalls abweichender Jahresangaben prüfen. Im lokal geschützten Auswahlnachweis zwischen Sammlungsbezug, ungeklärter Zuordnung und begründeter Ergänzung außerhalb unterscheiden. Verfügbare Originale und Extrakte mit geprüftem Stand wiederverwenden; fehlenden Zugriff offen benennen und die Quelle klären. Private Sammlungsdaten und Zuordnungen bleiben außerhalb veröffentlichter Pakete.
+
+Der Nutzer hat das bereits veröffentlichte 240-Filme-Paket akzeptiert; daraus folgt keine nachträgliche Neuauswahl. [Unveränderte Präzisierung vom 07.10.2026](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-07%20Nutzerpraezisierung%20Filmauswahl%20nach%20Sammlung.txt).
 
 ## Schwierigkeiten und Bekanntheit
 

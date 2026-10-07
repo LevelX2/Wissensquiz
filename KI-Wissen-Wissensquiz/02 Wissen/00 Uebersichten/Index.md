@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Filmauswahl: künftige Erweiterungen vorrangig an der persönlichen Sammlung orientieren, begründete Ergänzungen bleiben möglich – 07.10.2026](../../../docs/Fragenredaktion.md#filmauswahl-anhand-der-persönlichen-sammlung)
+
 - [Version 56 veröffentlicht: 240 zusätzliche Filme und 1.920 Fragen](../../../docs/Sites-Betrieb.md#version-56-240-zusätzliche-filme-und-1920-fragen)
 - [Version 56: native Veröffentlichungsdaten und Prüfnachweise](../../../docs/Veroeffentlichung-2026-10-06-Version-56.json)
 
