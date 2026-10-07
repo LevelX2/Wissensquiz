@@ -1,0 +1,31 @@
+# Wechselnde Schauspielerfotos aus verschiedenen Schaffensperioden
+
+Stand: 07.10.2026. Lokal umgesetzt und geprüft; noch nicht veröffentlicht.
+
+Der Nutzer hat „archetypisch“ als vertrautes Gesicht aus der prägenden Filmzeit präzisiert. Die vorhandenen Bilder dürfen zusätzlich erhalten bleiben; zwei oder drei Bilder sollen zwischen Begegnungen wechseln. Umgesetzt sind je zwei Fotos für die 200 Personen: 200 bisherige und 200 Ergänzungen. Es bleiben 200 Namensfragen und 200 Gesichts-Wissensziele.
+
+Die Ergänzungen bevorzugen frühere aktive Karriereabschnitte, darunter Tom Hanks 1989, Al Pacino 1977, Michael Caine 1967, Armin Mueller-Stahl 1970, Catherine Deneuve 1966 und Liv Ullmann 1975. Verfügbarkeit, klar erkennbares Gesicht und belegte freie Lizenz bestimmen die konkrete Auswahl. Bei kürzeren Karrieren oder begrenztem freien Material liegen einzelne Aufnahmen in nahen Karrierejahren; nicht jedes Bildpaar deckt weit auseinanderliegende Lebensphasen ab. Die Einstufungen bleiben redaktionelle Schätzungen, keine Kalibrierung für jedes Foto.
+
+Die vorhandenen 200 Bilder, CSV-Dateien, Fragefassungen und Lernidentitäten bleiben erhalten. Das zusätzliche Register `src/actorRecognitionAlternatePortraits.json` hält Bildpfad, Abmessungen, Urheber, Zuschreibung, Lizenzversion, Quelle und gegebenenfalls einen Anzeigeausschnitt. Die gespeicherte Antwortereignis-ID bestimmt die Fotoauswahl: wechselnd zwischen Runden, stabil bei erneutem Rendern, Neuladen, Antwortauflösung und unmittelbarem Rundenrückblick. Auch Duellfragen verwenden die bestehende gemeinsame Ereignis-ID. Das Sicherungsschema wird nicht erweitert.
+
+Vor der Antwort bleiben Bildtitel, Namen und Quellen verborgen; der Alternativtext ist neutral. Die Lösung zeigt das tatsächlich verwendete Bild mit seinem eigenen Nachweis. Beide Bildquellen stehen in der Quellenliste. Das Erkennungspaket teilt je Person weiterhin ein Lernziel, unabhängig vom gezeigten Foto.
+
+Alle Dateien werden unverändert von Commons übernommen, einschließlich vorhandener Commons-Zuschnitte. Einzelne Anzeigen konzentrieren sich per CSS auf das gesuchte Gesicht; Originalpixel, Dateihash und Bildrechte bleiben nachprüfbar. Keine eigene Retusche oder synthetisch erzeugte Gesichter. Die zusätzlichen Vorschauen werden überwiegend mit 250 Pixeln angefordert; bereits geprüfte größere Downloads bleiben erhalten. Für einige Gruppen- und Ganzkörperbilder wird eine größere Commons-Vorschau verwendet, damit der Gesichtsausschnitt erkennbar bleibt. 39 Bilder haben einen Anzeigeausschnitt; die 200 zusätzlichen Dateien umfassen 11.821.845 Bytes (194 JPEG, sechs PNG). Alle 400 Erkennungsbilder zusammen umfassen 29.202.155 Bytes. Alle Bilder gehören zum statischen Offline-Paket.
+
+Commons-Dateititel, Beschreibung und ursprüngliche Metadaten sind erhalten. Upload-/Aufnahmedaten werden nicht ungeprüft gleichgesetzt. Elf besondere Datierungshinweise nennen den belegten Zeitraum oder die verbleibende Unsicherheit; Julie Christie bleibt mit ca. 1964/1965 angegeben, die zusätzliche Octavia-Spencer-Aufnahme wird nicht genau datiert.
+
+[Alle 200 Bildpaare](Bildpaare.md) · [Die 200 Fragen mit Lösungen](Lesefassung.md) · [Nutzerpräzisierung](../../KI-Wissen-Wissensquiz/01%20Rohquellen/Schauspieler-Bildvarianten-2026-10-07/Nutzerpraezisierung.txt) · [Bildauswahl](../../KI-Wissen-Wissensquiz/01%20Rohquellen/Schauspieler-Bildvarianten-2026-10-07/Bildauswahl.json) · [Dateien und Downloadnachweise](../../KI-Wissen-Wissensquiz/01%20Rohquellen/Schauspieler-Bildvarianten-2026-10-07/Nachweis.json).
+
+## Prüfung
+
+200 zusätzliche Dateien und alle 200 ursprünglichen Dateien anhand der tatsächlichen Abmessungen, Dateigrößen und SHA-256-Prüfsummen geprüft; alle ursprünglichen Bilder bytegleich erhalten. Alle 200 Ergänzungen abschließend visuell gesichtet. Autogramm-Namenszüge und lesbare Namensschilder bleiben außerhalb der Anzeige; Gruppenansichten konzentrieren sich auf die gesuchte Person. Commons-Suchen dienen als Vorauswahl und behaupten keine vollständige Erfassung aller frei verfügbaren Fotos.
+
+380 Tests in 64 Dateien erfolgreich mit `npm test -- --maxWorkers=2 --testTimeout=15000`. Der unveränderte große Paket-/Speicherungstest benötigte mehr als die allgemeine Fünf-Sekunden-Grenze; erste Läufe scheiterten ausschließlich an Zeitüberschreitungen. Keine inhaltliche Prüfaussage abgeschwächt. TypeScript und vollständiger Produktionsbuild einschließlich öffentlichem Katalog erfolgreich; nach den letzten Anzeigeausschnitten und dem Ausschluss leerer Fotoquellen erneut gebaut. Normale Fragen ohne Bildzuordnung liefern eine leere Fotoquellenliste; der zusätzlich geprüfte Randfall verhindert ungültige Quellenzugriffe. Bestehende Paketgrößen-/Rollup-Hinweise bleiben dokumentierte Buildhinweise. Offline-Paket `film-5a886029beed` mit 466 Dateien.
+
+27 unterschiedliche Browserfälle erfolgreich, darunter alle zehn Bildfälle mit richtigen/falschen Antworten und „Keine Ahnung“, primärem und zusätzlichem Foto, Neuladen, Antwortauflösung, unmittelbarem Rückblick, Bildnachweisen und Offlinebetrieb. Alle 400 Erkennungsdateien im tatsächlichen Cache bestätigt; schmale Ansichten visuell geprüft, ohne horizontalen Überlauf und ohne Axe-Verstöße. Bestehender WebKit-Desktopfall planmäßig übersprungen.
+
+Ein bestehender mobiler Quellen-/Modustest prüfte sein Panel nach dessen asynchronem Schließen. Mit der vorhandenen Warte-/Öffnungshilfe korrigiert; drei Quellenfälle im Rücklauf und danach sieben repräsentative Fälle am abschließenden Build erfolgreich. Normale Personenfragen und ihre bisherigen Porträts weiterhin geprüft. Isolierte Profile, kontrollierte Zeit, synthetische Spielstände und eigene lokale Ports; keine echten Nutzerdaten verändert.
+
+Chromium bestätigt tatsächliche Bildpixel nach Offline-Neuladen. Mobiles Windows-WebKit bestätigt Cache, Bildpfad und Fortsetzen; seine zuvor dokumentierte Offline-Decodierungsgrenze bleibt bestehen. Keine physische iPhone-Abnahme oder neue empirische Schwierigkeitskalibrierung. Fragefassungen, CSV-Dateien und alle ursprünglichen Bilddateien unverändert.
+
+[Maschinenlesbare Abnahme](Bildvarianten-Pruefung.json). Nur zugehörige Änderungen lokal auf `main`; kein Push und keine Veröffentlichung.

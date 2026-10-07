@@ -6,11 +6,17 @@ import { expect, it } from "vitest";
 import { importCsv } from "../src/importer";
 import { addPackages, packages } from "../src/packages";
 import { emptyState } from "../src/model";
-import { ActorPortrait, recognitionPortrait } from "../src/ActorPortrait";
+import {
+  ActorPortrait,
+  recognitionPortrait,
+  recognitionVariants,
+} from "../src/ActorPortrait";
 import { filmData } from "../src/filmFacts";
 import portraits from "../src/actorRecognitionPortraits.json";
 import source from "../docs/Schauspieler-Bilderkennung-2026-10-07/Schauspieler_Bilderkennung_200_Fragen.json";
 import evidence from "../KI-Wissen-Wissensquiz/01 Rohquellen/Schauspieler-Bilderkennung-2026-10-07/Nachweis.json";
+import alternates from "../src/actorRecognitionAlternatePortraits.json";
+import alternateEvidence from "../KI-Wissen-Wissensquiz/01 Rohquellen/Schauspieler-Bildvarianten-2026-10-07/Nachweis.json";
 
 const filename = "Schauspieler_Bilderkennung_200_Fragen.csv";
 const csv = readFileSync("public/schauspieler-bilder-fragen.csv", "utf8");
@@ -63,8 +69,41 @@ it("importiert genau 200 eigenständige Gesichtsziele mit belegten Bildern und v
 
 it("schützt die Lösung im Bild, nennt Bildrechte danach und prüft sämtliche unveränderten Dateien", () => {
   expect(Object.keys(portraits)).toHaveLength(200);
+  expect(Object.keys(alternates)).toHaveLength(200);
   expect(evidence.images).toHaveLength(200);
+  expect(alternateEvidence.images).toHaveLength(200);
   for (const q of imported.questions) {
+    const variants = recognitionVariants(q);
+    expect(variants).toHaveLength(2);
+    expect(new Set(variants.map((p) => p.src)).size).toBe(2);
+    expect(new Set(variants.map((p) => p.title)).size).toBe(2);
+    for (const portrait of variants) {
+      const proof = [...evidence.images, ...alternateEvidence.images].find(
+        (p) =>
+          p.personId === portrait.personId &&
+          p.sourceUrl === portrait.sourceUrl,
+      )!;
+      const bytes = readFileSync(`public${portrait.src}`);
+      expect(createHash("sha256").update(bytes).digest("hex")).toBe(
+        proof.sha256,
+      );
+      expect(bytes.length).toBe(proof.bytes);
+      if (portrait.crop) {
+        expect(portrait.crop.x).toBeGreaterThanOrEqual(0);
+        expect(portrait.crop.y).toBeGreaterThanOrEqual(0);
+        expect(portrait.crop.width).toBeGreaterThan(0);
+        expect(portrait.crop.height).toBeGreaterThan(0);
+        expect(portrait.crop.x + portrait.crop.width).toBeLessThanOrEqual(
+          portrait.width,
+        );
+        expect(portrait.crop.y + portrait.crop.height).toBeLessThanOrEqual(
+          portrait.height,
+        );
+      }
+      expect(portrait.license).toMatch(
+        /^CC BY(?:-SA)? (?:2\.0|2\.5|3\.0|4\.0)(?: de| kr)?$|^CC0$|^Public domain$/,
+      );
+    }
     const portrait = recognitionPortrait(q)!;
     const proof = evidence.images.find(
       (p) => p.personId === portrait.personId,
@@ -91,6 +130,55 @@ it("schützt die Lösung im Bild, nennt Bildrechte danach und prüft sämtliche 
         metadata: { ...q.metadata, question_image_id: "ACTOR-999" },
       }),
     ).toBeUndefined();
+  }
+});
+
+it("wechselt zwischen Runden und behält dasselbe Bild und denselben Nachweis innerhalb einer Begegnung", () => {
+  for (const q of imported.questions) {
+    const chosen = new Set<string>();
+    for (let i = 0; i < 8; i++) {
+      const key = `round-${i}:${q.knowledgeId}`;
+      const portrait = recognitionPortrait(q, key)!;
+      chosen.add(portrait.src);
+      expect(recognitionPortrait(structuredClone(q), key)).toEqual(portrait);
+      const hidden = renderToStaticMarkup(
+        createElement(ActorPortrait, {
+          q,
+          beforeAnswer: true,
+          selectionKey: key,
+        }),
+      );
+      const revealed = renderToStaticMarkup(
+        createElement(ActorPortrait, { q, selectionKey: key }),
+      );
+      expect(hidden).toContain(`src="${portrait.src}"`);
+      expect(revealed).toContain(`src="${portrait.src}"`);
+      expect(revealed).toContain(portrait.sourceUrl.replaceAll("&", "&amp;"));
+      for (const variant of recognitionVariants(q)) {
+        expect(hidden).not.toContain(variant.title);
+        expect(hidden).not.toContain(variant.sourceUrl);
+      }
+    }
+    expect(chosen.size).toBe(2);
+  }
+});
+
+it("liefert für normale Fragen ohne Bildzuordnung eine leere Fotoquellenliste", () => {
+  const q = imported.questions[0];
+  const metadataCases: Record<string, string>[] = [
+    {},
+    { person_id: q.metadata.person_id, person_name: q.metadata.person_name },
+    { question_image_id: "ACTOR-999", person_id: "ACTOR-999" },
+  ];
+  for (const metadata of metadataCases) {
+    const ordinary = { ...q, metadata };
+    expect(recognitionVariants(ordinary)).toEqual([]);
+    expect(recognitionPortrait(ordinary)).toBeUndefined();
+    expect(
+      renderToStaticMarkup(
+        createElement(ActorPortrait, { q: ordinary, beforeAnswer: true }),
+      ),
+    ).toBe("");
   }
 });
 

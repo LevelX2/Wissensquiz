@@ -1,0 +1,289 @@
+{
+  "checkedOn": "2026-10-07",
+  "result": "passed",
+  "scope": {
+    "questions": 200,
+    "people": 200,
+    "photosPerPerson": 2,
+    "recognitionPhotos": 400,
+    "newQuestions": 0,
+    "knowledgeGoals": 200
+  },
+  "catalog": {
+    "packages": 24,
+    "questions": 10877,
+    "knowledgeGoals": 10315
+  },
+  "images": {
+    "additionalImages": 200,
+    "bytes": 11821845,
+    "formats": {
+      "JPEG": 194,
+      "PNG": 6
+    },
+    "licenses": {
+      "CC BY 2.0": 32,
+      "CC BY 3.0": 12,
+      "CC BY-SA 3.0": 42,
+      "CC BY-SA 2.0": 40,
+      "Public domain": 57,
+      "CC BY-SA 4.0": 6,
+      "CC BY-SA 3.0 de": 1,
+      "CC BY 4.0": 5,
+      "CC0": 1,
+      "CC BY 2.0 kr": 1,
+      "CC BY 2.5": 1,
+      "CC BY-SA 2.5": 2
+    },
+    "cssCrops": 39,
+    "all400HashesVerified": true,
+    "totalRecognitionBytes": 29202155,
+    "rawSourceFiles": 229,
+    "rawSourceBytes": 38301023,
+    "cropCount": 39,
+    "oldImageHashesUnchanged": true,
+    "questionCsvSha256": "5c8fa6b9327764dd34d71175577cc06d9882e15dd7532a4b8a60db0bfc40042b"
+  },
+  "selection": {
+    "seed": "saved answer event ID",
+    "stableDuring": [
+      "render",
+      "reload",
+      "answer",
+      "immediate round review"
+    ],
+    "variesBetweenRounds": true,
+    "sameKnowledgeGoal": true,
+    "backupSchemaChanged": false
+  },
+  "tests": {
+    "unit": {
+      "command": "npm test -- --maxWorkers=2 --testTimeout=15000",
+      "files": 64,
+      "passed": 380,
+      "failed": 0,
+      "initialTimeouts": "Default full run under high parallel load timed out. With limited workers only the existing large package/storage case exceeded its generic 5 s limit. Assertions unchanged; final run allows 15 s.",
+      "regression": "Ordinary questions without image metadata and unknown image identifiers have no portrait sources."
+    },
+    "build": {
+      "command": "npm run build; npm --ignore-scripts run build after final display metadata/source-list correction",
+      "typeScript": "passed",
+      "productionBuild": "passed",
+      "syncCatalogHash": "473ebc3770f984426007db3462e92d9b62358a06296b2d62a0ce4e9924669a83",
+      "offlineCache": "film-5a886029beed",
+      "files": 466
+    },
+    "browser": {
+      "status": "passed",
+      "uniquePassed": 27,
+      "skipped": 1,
+      "failedRemaining": 0,
+      "newImageCasesPassed": 10,
+      "finalBuildRepresentativeCasesPassed": 7,
+      "offlineRecognitionFilesConfirmed": 400,
+      "viewportWidths": [
+        320,
+        1440
+      ],
+      "projects": [
+        "chromium",
+        "webkit-mobile"
+      ],
+      "ports": [
+        43917,
+        43918,
+        43919
+      ],
+      "profiles": "isolated",
+      "time": "controlled",
+      "data": "synthetic",
+      "runs": [
+        {
+          "report": "browser-report.json",
+          "startTime": "2026-10-07T07:57:55.077Z",
+          "duration": 555571.8300000001,
+          "expected": 26,
+          "skipped": 1,
+          "unexpected": 1,
+          "flaky": 0
+        },
+        {
+          "report": "browser-rerun-report.json",
+          "startTime": "2026-10-07T08:07:52.724Z",
+          "duration": 81546.569,
+          "expected": 3,
+          "skipped": 1,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "report": "browser-final-report.json",
+          "startTime": "2026-10-07T08:10:58.626Z",
+          "duration": 185089.229,
+          "expected": 7,
+          "skipped": 1,
+          "unexpected": 0,
+          "flaky": 0
+        }
+      ],
+      "initialFailureResolved": "An existing mobile mode-selection assertion raced its asynchronous panel closure. The test now waits for the saved selection and reopens the setup via the existing helper.",
+      "cases": [
+        {
+          "title": "Bildfrage 1, Foto 1: vor correct, Name und Bildnachweis nachher, Fortsetzen und Offline",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Bildfrage 1, Foto 2: vor correct, Name und Bildnachweis nachher, Fortsetzen und Offline",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Bildfrage 182, Foto 1: vor wrong, Name und Bildnachweis nachher, Fortsetzen und Offline",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Bildfrage 193, Foto 2: vor unknown, Name und Bildnachweis nachher, Fortsetzen und Offline",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Bildfrage 113, Foto 2: vor correct, Name und Bildnachweis nachher, Fortsetzen und Offline",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Bildfrage 1, Foto 1: vor correct, Name und Bildnachweis nachher, Fortsetzen und Offline",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Bildfrage 1, Foto 2: vor correct, Name und Bildnachweis nachher, Fortsetzen und Offline",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Bildfrage 182, Foto 1: vor wrong, Name und Bildnachweis nachher, Fortsetzen und Offline",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Bildfrage 193, Foto 2: vor unknown, Name und Bildnachweis nachher, Fortsetzen und Offline",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Bildfrage 113, Foto 2: vor correct, Name und Bildnachweis nachher, Fortsetzen und Offline",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig von Filmgruppen mobil und offline",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Erkennungsfrage SCHAUSPIELER-202610-P01-001-L-1 verbirgt die Person und zeigt Zusatzinfos erst nach der Antwort",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Erkennungsfrage SCHAUSPIELER-202610-P02-102-L-1 verbirgt die Person und zeigt Zusatzinfos erst nach der Antwort",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Erkennungsfrage SCHAUSPIELER-202610-P03-136-L-1 verbirgt die Person und zeigt Zusatzinfos erst nach der Antwort",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Porträt von Meryl Streep erscheint nach unknown und bleibt mit Bildnachweis offline verfügbar",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Porträt von Keanu Reeves erscheint nach wrong und bleibt mit Bildnachweis offline verfügbar",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Personenkategorie lässt sich aus der Filmreise direkt auswählen und vollständig sichern",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Schauspieler öffnet 220 Personen und spielt Expertenfragen unabhängig von Filmgruppen mobil und offline",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Erkennungsfrage SCHAUSPIELER-202610-P01-001-L-1 verbirgt die Person und zeigt Zusatzinfos erst nach der Antwort",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Erkennungsfrage SCHAUSPIELER-202610-P02-102-L-1 verbirgt die Person und zeigt Zusatzinfos erst nach der Antwort",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Erkennungsfrage SCHAUSPIELER-202610-P03-136-L-1 verbirgt die Person und zeigt Zusatzinfos erst nach der Antwort",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Porträt von Meryl Streep erscheint nach unknown und bleibt mit Bildnachweis offline verfügbar",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Porträt von Keanu Reeves erscheint nach wrong und bleibt mit Bildnachweis offline verfügbar",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Personenkategorie lässt sich aus der Filmreise direkt auswählen und vollständig sichern",
+          "project": "webkit-mobile",
+          "status": "passed"
+        },
+        {
+          "title": "Filmfragen, Schauspieler und Preisträger bilden einen additiven Pool bei 1440 Pixeln",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Filmfragen, Schauspieler und Preisträger bilden einen additiven Pool bei 320 Pixeln",
+          "project": "chromium",
+          "status": "passed"
+        },
+        {
+          "title": "Filmfragen, Schauspieler und Preisträger bilden einen additiven Pool bei 1440 Pixeln",
+          "project": "webkit-mobile",
+          "status": "skipped"
+        },
+        {
+          "title": "Filmfragen, Schauspieler und Preisträger bilden einen additiven Pool bei 320 Pixeln",
+          "project": "webkit-mobile",
+          "status": "passed"
+        }
+      ]
+    }
+  },
+  "sources": {
+    "searches": 200,
+    "rawDirectory": "../../KI-Wissen-Wissensquiz/01 Rohquellen/Schauspieler-Bildvarianten-2026-10-07",
+    "downloadEvidence": "../../KI-Wissen-Wissensquiz/01 Rohquellen/Schauspieler-Bildvarianten-2026-10-07/Nachweis.json",
+    "datingNotes": 11,
+    "visualReview": "all 200 additional photos, crop previews and browser screenshots",
+    "exhaustiveCommonsInventory": false
+  },
+  "limits": [
+    "Not every pair spans distant career phases.",
+    "Difficulty is not recalibrated separately for each photo.",
+    "No new fact review of all unchanged questions.",
+    "Actual offline pixel decoding/reload confirmed in Chromium; Windows WebKit uses the previously documented simulator limitation. No physical iPhone test."
+  ],
+  "publication": "local only; no push or hosting action"
+}

@@ -4,7 +4,7 @@ import { directorExplanation } from "./filmFacts";
 import { actorPresentation } from "./actorEditorial";
 import { yearPresentation } from "./yearEditorial";
 import { FilmDataPanel } from "./FilmDataPanel";
-import { ActorPortrait } from "./ActorPortrait";
+import { ActorPortrait, recognitionVariants } from "./ActorPortrait";
 
 export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
@@ -17,6 +17,7 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const sources = [
     ...new Set([
       ...q.sources,
+      ...recognitionVariants(q).map((portrait) => portrait.sourceUrl),
       ...(year?.sources ?? []),
       ...(actor?.sources ?? []),
     ]),
@@ -29,7 +30,7 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
           <strong>{q.metadata.person_name}</strong>
         </p>
       )}
-      <ActorPortrait q={q} />
+      <ActorPortrait q={q} selectionKey={event.id} />
       <p>{q.explanation}</p>
       {!event.correct && selected?.feedback && (
         <p className="specific-feedback">

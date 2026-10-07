@@ -1,6 +1,6 @@
 # Schauspieler am Porträt erkennen
 
-200 Personen, je eine neue Bildfrage. Die Lesefassung zeigt die Lösungen unmittelbar.
+200 Personen, je eine Bildfrage mit zwei wechselnden Fotos. Die Lesefassung zeigt die Lösungen unmittelbar. [Alle 200 Bildpaare, Datierungen und Quellen](Bildpaare.md); [aktueller Prüfstand](Bildvarianten.md). Die nachfolgenden Bilder zeigen die ursprüngliche Auswahl.
 
 ## Tom Hanks · leicht
 

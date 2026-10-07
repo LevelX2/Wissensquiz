@@ -1,10 +1,12 @@
 # 200 Schauspieler am Porträt erkennen
 
-Stand: 07.10.2026. Lokal eingebunden; noch nicht veröffentlicht.
+Erstintegration: 07.10.2026. Lokal eingebunden; noch nicht veröffentlicht.
+
+**Aktuelle Präzisierung vom 07.10.2026:** „Archetypisch“ meint das vertraute Gesicht aus der prägenden Filmzeit. Auf zusätzlichen Nutzerwunsch werden die bisherigen Bilder erhalten und um jeweils ein zweites Foto ergänzt. Die Auswahl wechselt zwischen Fragerunden; Bild und Nachweis bleiben innerhalb einer Begegnung gleich. [Aktueller Stand, alle Bildpaare und Prüfung](Bildvarianten.md). Die nachfolgenden Mengen und Prüfergebnisse dokumentieren die Erstlieferung vor dieser Ergänzung.
 
 ## Auftrag und Redaktion
 
-Genau 200 neue Bildfragen für 100 Schauspieler und 100 Schauspielerinnen. „Archetypisch“ wird als charakteristisches, gut erkennbares Foto der echten Person umgesetzt. Die Auswahl umfasst 175 vorhandene Personen und 25 Ergänzungen, darunter Robert Redford, Paul Newman, Humphrey Bogart, Marlon Brando, Monica Bellucci, Emma Watson und Julie Delpy. Sie ist keine Rangliste.
+Genau 200 neue Bildfragen für 100 Schauspieler und 100 Schauspielerinnen. Die Erstlieferung verwendete charakteristische Fotos der echten Person, darunter zahlreiche späte Veranstaltungsaufnahmen. Die anschließende Nutzerpräzisierung verlangt zusätzlich vertraute Bilder aus früheren Schaffensperioden. Die Auswahl umfasst 175 vorhandene Personen und 25 Ergänzungen, darunter Robert Redford, Paul Newman, Humphrey Bogart, Marlon Brando, Monica Bellucci, Emma Watson und Julie Delpy. Sie ist keine Rangliste.
 
 Der ausdrücklich beauftragte Umfang ergibt ein Gesichts-Ziel je Person. Die allgemeine Acht-Ziele-Abdeckung eines neuen Karrierepakets wird hier nicht zusätzlich aufgebaut. Der gesuchte Name steht ausschließlich in den vier Antwortmöglichkeiten und nach der Antwort in der Auflösung. Die gleiche einfache Frageform ist für diesen visuellen Erkennungsauftrag beabsichtigt; das Bild ist der individuelle Frageninhalt.
 

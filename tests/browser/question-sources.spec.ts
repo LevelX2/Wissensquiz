@@ -36,6 +36,8 @@ for (const width of [1440, 320]) {
     await openRoundSetup(page);
     await openRoundSetup(page);
     await modePreparation(page, /Freies Spiel Alle Stufen/).click();
+    // Selecting a mode closes its panel after the asynchronous save.
+    await openRoundSetup(page);
     await expect(
       sources.getByLabel("Filmfragen", { exact: true }),
     ).toBeChecked();

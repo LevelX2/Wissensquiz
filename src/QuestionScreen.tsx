@@ -412,7 +412,13 @@ export function QuestionScreen({
             );
           })()}
         </h1>
-        {!event && <ActorPortrait q={q} beforeAnswer />}
+        {!event && (
+          <ActorPortrait
+            q={q}
+            beforeAnswer
+            selectionKey={eventIdFor(round, index)}
+          />
+        )}
         {!collected &&
           !timed &&
           state.settings.questionHistory !== "hidden" &&

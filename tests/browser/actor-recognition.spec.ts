@@ -5,6 +5,9 @@ import { addPackages, packages } from "../../src/packages";
 import { emptyState, type State } from "../../src/model";
 import { startRound } from "../../src/engine";
 import portraits from "../../src/actorRecognitionPortraits.json" with { type: "json" };
+import alternates from "../../src/actorRecognitionAlternatePortraits.json" with { type: "json" };
+import { recognitionPortrait } from "../../src/ActorPortrait";
+import { eventIdFor } from "../../src/recordModes";
 
 async function writeState(page: Page, state: State) {
   await page.evaluate(
@@ -30,12 +33,14 @@ async function writeState(page: Page, state: State) {
   );
 }
 
-for (const [number, choice] of [
-  [1, "correct"],
-  [182, "wrong"],
-  [193, "unknown"],
+for (const [number, choice, variant] of [
+  [1, "correct", 0],
+  [1, "correct", 1],
+  [182, "wrong", 0],
+  [193, "unknown", 1],
+  [113, "correct", 1],
 ] as const) {
-  test(`Bildfrage ${number}: Foto vor ${choice}, Name und Bildnachweis nachher, Fortsetzen und Offline`, async ({
+  test(`Bildfrage ${number}, Foto ${variant + 1}: vor ${choice}, Name und Bildnachweis nachher, Fortsetzen und Offline`, async ({
     page,
     context,
     browserName,
@@ -59,7 +64,9 @@ for (const [number, choice] of [
         q.id ===
         `SCHAUSPIELER-BILD-20261007-${String(number).padStart(3, "0")}`,
     )!;
-    const portrait = portraits[q.metadata.person_id as keyof typeof portraits];
+    const portrait = (variant === 0 ? portraits : alternates)[
+      q.metadata.person_id as keyof typeof portraits
+    ];
     const catalog = state.questions;
     state.questions = [q];
     startRound(
@@ -67,6 +74,12 @@ for (const [number, choice] of [
       { mode: "ueben", topic: "Schauspieler", difficulty: "Alle Stufen" },
       Date.parse("2026-10-07T12:00:00+02:00"),
     );
+    const round = state.rounds.at(-1)!;
+    for (let i = 0; ; i++) {
+      round.id = `actor-image-${number}-${i}`;
+      if (recognitionPortrait(q, eventIdFor(round, 0))!.src === portrait.src)
+        break;
+    }
     state.questions = catalog;
     await writeState(page, state);
     await page.reload();
@@ -75,6 +88,14 @@ for (const [number, choice] of [
       name: "Schauspielerporträt für die Namensfrage",
     });
     await expect(image).toBeVisible();
+    await expect(image).toHaveAttribute("src", portrait.src);
+    // Reload while unanswered, then toggle sound to exercise a normal rerender.
+    await page.reload();
+    await page.getByRole("button", { name: "Fortsetzen" }).click();
+    await page
+      .getByRole("button", { name: "Soundeffekte ausschalten" })
+      .click();
+    await expect(image).toHaveAttribute("src", portrait.src);
     await expect
       .poll(() => image.evaluate((img: HTMLImageElement) => img.naturalWidth))
       .toBe(portrait.width);
@@ -95,7 +116,7 @@ for (const [number, choice] of [
       ),
     ).toBe(true);
     await page.screenshot({
-      path: `test-results/recognition-${number}-${info.project.name}-before.png`,
+      path: `test-results/recognition-${number}-${variant}-${info.project.name}-before.png`,
       fullPage: true,
     });
     expect(
@@ -120,7 +141,7 @@ for (const [number, choice] of [
     await expect(page.locator(".actor-name")).toHaveText(portrait.name);
     await expect(
       page.getByRole("img", { name: `Porträt von ${portrait.name}` }),
-    ).toBeVisible();
+    ).toHaveAttribute("src", portrait.src);
     await page.getByText("Bildnachweis", { exact: true }).click();
     await expect(page.locator(".actor-portrait figcaption")).toContainText(
       portrait.photographer,
@@ -174,10 +195,18 @@ for (const [number, choice] of [
             }),
           );
         },
-        Object.values(portraits).map((p) => p.src),
+        [...Object.values(portraits), ...Object.values(alternates)].map(
+          (p) => p.src,
+        ),
       );
-      expect(cache).toHaveLength(200);
+      expect(cache).toHaveLength(400);
       expect(cache.every((bytes) => bytes > 0)).toBe(true);
     }
+    await page.getByRole("button", { name: "Runde abschließen" }).click();
+    await page.locator(".review > details > summary").click();
+    await expect(page.locator(".review .actor-portrait img")).toHaveAttribute(
+      "src",
+      portrait.src,
+    );
   });
 }

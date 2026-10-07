@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [200 Schauspieler-Erkennungsfragen mit je zwei wechselnden Fotos aus verschiedenen Schaffensperioden – 07.10.2026](../../../docs/Schauspieler-Bilderkennung-2026-10-07/Bildvarianten.md)
+
 - [Je Kategorie 20 weitere Einträge: 320 Einträge und 2.480 Fragen lokal integriert – 07.10.2026](../../../docs/Erweiterung-2026-10-07/Pruefbericht.md)
 - [Alle neuen Fragen mit Lösungen und Vertiefungen](../../../docs/Erweiterung-2026-10-07/Fragenlesefassung.md)
 - [Nutzerauftrag zur weiteren Erweiterung](../../01%20Rohquellen/2026-10-07%20Nutzerauftrag%20Erweiterung%20je%20Kategorie.txt)
