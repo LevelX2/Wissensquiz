@@ -1,5 +1,6 @@
 # Wissensindex
 
+- [Aktueller Bestand nach dem Genreausbau: 16 Bereiche, 1.302 Filmfassungen und 12.773 Fragen](../../../docs/Genres-100-2026-10-08/Bestandsuebersicht.md)
 - [Genres auf 100 Filme: Reihenfolge, Klassikerkern und aktueller Arbeitsstand – 08.10.2026](../../../docs/Genres-100-2026-10-08/Plan.md)
 - [Abenteuer vollständig: 100 Filme / 802 Fragen, Redaktion und App-Abnahme](../../../docs/Genres-100-2026-10-08/Abenteuer/Pruefbericht.md)
 - [Thriller vollständig: 100 Filme / 812 Fragen, Variante und App-Abnahme](../../../docs/Genres-100-2026-10-08/Thriller/Pruefbericht.md)

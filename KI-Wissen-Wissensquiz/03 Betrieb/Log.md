@@ -1026,3 +1026,7 @@ Nutzerauftrag: alle neun Genres unter 100 Filmen sequenziell erweitern, beginnen
 ## 08.10.2026 – Genreausbau Horror
 
 23 neue Filmfassungen und 184 individuelle Fragen, nun 100 Horror-Filme / 827 Fragen. Gesamtkatalog 33 Pakete / 12.773 Fragen / 12.207 Ziele. 392 Logiktests, Produktionsbuild und 14 Browserfälle erfolgreich abgenommen. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](../../docs/Genres-100-2026-10-08/Horror/Pruefbericht.md).
+
+## 08.10.2026 – Genreausbau vollständig und Bestand dokumentiert
+
+Alle neun Genres unter 100 Filmen wurden in der vereinbarten Reihenfolge erweitert: 237 Filmfassungen / 1.896 Fragen, alle zwölf Filmgenres nun mindestens 100 Filme. 33 Pakete / 12.773 Fragen / 12.207 Wissensziele; 1.302 Filmfassungen / 10.733 Filmfragen. Drei freigegebene Redaktionsagenten und unabhängige Gegenprüfungen verwendet. Die [Bestandsübersicht aller 16 Bereiche](../../docs/Genres-100-2026-10-08/Bestandsuebersicht.md) hält Film-/Personen-/Preisidentitäten und überlappende Zusatzfilter auseinander. 392 Logiktests, Produktionsbuild und 14 Browserfälle abgenommen; der neue Horror-Testablauf wurde gezielt korrigiert und wiederholt. Lokale Genrecommits im autorisierten Worktree, keine Veröffentlichung oder Main-Integration. Parallele Arbeitsstände im Hauptordner bleiben erhalten.
