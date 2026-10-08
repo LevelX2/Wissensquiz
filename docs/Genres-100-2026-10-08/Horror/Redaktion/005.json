@@ -1,0 +1,212 @@
+{
+  "directors": [
+    "Jacques Tourneur"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "RKO-Original mit Simone Simon, Erstjahr 1942. AFI nennt die New-York-Eröffnung am 6. Dezember, der Wikipedia-Filmartikel den 5. Dezember. Beide Quellen nennen 1942; Schraders Neuverfilmung ist ein anderes Werk.",
+  "director_note": "Jacques Tourneur trägt den Hauptregiecredit. Val Lewton ist Produzent, Doran Cox Assistenz; beide sind keine zusätzlichen Hauptregisseure.",
+  "series": {
+    "name": "Cat People",
+    "position": 1,
+    "note": "RKO-Original vor The Curse of the Cat People; die spätere Neuverfilmung gehört nicht zur unmittelbaren Folge."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: prägender atmosphärischer Horrorklassiker, dessen genaue Szenen eher Kennern vertraut sind.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+    "criterion": "https://www.criterion.com/films/28696-cat-people",
+    "afi": "https://catalog.afi.com/Film/27177-CAT-PEOPLE"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Beruf arbeitet Irena (Simone Simon) in @?",
+      "answers": [
+        "Als Modeillustratorin",
+        "Als Kostümschneiderin",
+        "Als Tanzlehrerin",
+        "Als Fotojournalistin"
+      ],
+      "feedback": [
+        "Irena fertigt Modeillustrationen an.",
+        "Eine Beschäftigung als Kostümschneiderin ist nicht ihr Beruf.",
+        "Sie arbeitet nicht als Tanzlehrerin.",
+        "Fotojournalismus ist nicht ihre vorgestellte Arbeit."
+      ],
+      "short": "Irena arbeitet als Modeillustratorin.",
+      "context": "Irena Dubrovna (Simone Simon) lebt als aus Serbien eingewanderte Modeillustratorin in New York. Das Zeichnen gehört zu ihrem gewöhnlichen Alltag, der zunächst einen selbstständigen Zugang zur Figur bietet. Daneben beschäftigt sie eine beunruhigende Überlieferung aus ihrer Herkunftsregion. Die Verbindung von kreativer Arbeit und persönlicher Angst macht sie nicht zu einer bloßen Erscheinung des Schreckens, sondern zu einem Menschen mit einem eigenen Leben.",
+      "anchor": "Modezeichnungen gehören zu Irenas New Yorker Alltag.",
+      "interest": "Bietet einen zugänglichen, nicht vom Filmtitel verratenen Figurenbezug.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Bei welcher Tätigkeit lernt Oliver (Kent Smith) Irena (Simone Simon) in @ kennen?",
+      "answers": [
+        "Beim Zeichnen am Panthergehege",
+        "Beim Lesen im Naturkundemuseum",
+        "Beim Fotografieren in einem Stadtpark",
+        "Beim Anprobieren im Modegeschäft"
+      ],
+      "feedback": [
+        "Oliver spricht Irena am Panthergehege des Zoos an.",
+        "Ein Naturkundemuseum ist nicht der Ort des Kennenlernens.",
+        "Ein Fototermin im Park führt die beiden nicht zusammen.",
+        "Sie treffen sich nicht beim Anprobieren von Kleidung."
+      ],
+      "short": "Die beiden begegnen sich beim Zeichnen am Panthergehege.",
+      "context": "Irena (Simone Simon) zeichnet im Zoo einen Panther, als Oliver Reed (Kent Smith) auf sie aufmerksam wird. Sie kommen ins Gespräch, und sie lädt ihn anschließend zu sich ein. Die Begegnung verbindet einen alltäglichen Beginn der Liebesgeschichte mit dem Tier, das ihre Ängste prägt. Das Panthergehege bleibt später ein wichtiger Handlungsort; sein erstes Auftreten ist aber noch in eine scheinbar ungezwungene Begegnung eingebettet.",
+      "anchor": "Das Panthergehege verbindet Kennenlernen und Bedrohungsmotiv.",
+      "interest": "Verknüpft den ersten Kontakt mit einem wiederkehrenden Schauplatz.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welcher Alltagsvorgang verursacht den plötzlichen Schreck beim nächtlichen Weg von Alice (Jane Randolph) in @?",
+      "answers": [
+        "Ein Bus fährt an die Haltestelle.",
+        "Eine Straßenbahn fährt mit lautem Klingeln vorbei.",
+        "Ein Taxi hupt unmittelbar neben ihr.",
+        "Eine Metalltür schlägt am Straßenrand zu."
+      ],
+      "feedback": [
+        "Der plötzlich ankommende Bus löst den Schreck aus.",
+        "Eine klingelnde Straßenbahn verursacht den plötzlichen Schreck nicht.",
+        "Eine Taxihupe ist nicht die Ursache des Moments.",
+        "Eine zuschlagende Metalltür ist nicht das Geräusch der Szene."
+      ],
+      "short": "Der plötzlich ankommende Bus lässt Alice und das Publikum erschrecken.",
+      "context": "Alice Moore (Jane Randolph) geht nachts durch die Straße und glaubt, verfolgt zu werden. Geräusche und Pausen steigern die Erwartung eines Angriffs, ohne einen Angreifer klar zu zeigen. Dann fährt unvermittelt ein Bus heran. Der Schreck besitzt damit eine alltägliche unmittelbare Ursache, während die vorangegangene Bedrohung nicht einfach widerlegt ist. Die Szene nutzt die gespannte Wahrnehmung des Publikums, statt einen offen sichtbaren Pantherangriff zu präsentieren.",
+      "anchor": "Die erwartete Bedrohung mündet zunächst in einen ankommenden Bus.",
+      "interest": "Erschließt eine konkrete Gestaltung von Erwartung und Schreck.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche materielle Spur findet Alice (Jane Randolph) nach der Schwimmbad-Szene in @?",
+      "answers": [
+        "Ihr Bademantel ist zerfetzt.",
+        "Die Leiter ist aus dem Becken gerissen.",
+        "Die Schwimmbrille ist zerbrochen.",
+        "Ein blutiger Schuh liegt am Beckenrand."
+      ],
+      "feedback": [
+        "Alice entdeckt den zerrissenen Bademantel.",
+        "Eine ausgerissene Leiter ist nicht die gefundene Spur.",
+        "Eine zerbrochene Schwimmbrille ist nicht der entscheidende Befund.",
+        "Ein blutiger Schuh liegt nicht als Beweis am Rand."
+      ],
+      "short": "Alices zerfetzter Bademantel bleibt als konkrete Spur zurück.",
+      "context": "Alice Moore (Jane Randolph) sucht im Wasser Schutz, während bedrohliche Geräusche und Schatten das Schwimmbad umgeben. Als Irena (Simone Simon) erscheint und Licht einschaltet, wird kein eindeutiger Angriff mehr sichtbar. Doch später findet Alice ihren Bademantel zerfetzt. Diese Spur verhindert, dass das Erlebnis nur auf einen augenblicklichen Schrecken reduziert werden kann. Etwas Greifbares bleibt zurück, obwohl das entscheidende Geschehen selbst weitgehend verborgen war.",
+      "anchor": "Der Bademantel hält die verborgene Bedrohung materiell fest.",
+      "interest": "Unterscheidet eine konkrete Spur von der bloßen Angstreaktion.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie spricht die fremde Frau (Elizabeth Russell) Irena (Simone Simon) beim Hochzeitsessen in @ an?",
+      "answers": [
+        "Als ihre Schwester",
+        "Als ihre frühere Lehrerin",
+        "Als ihre Herrin",
+        "Als ihre verschollene Tochter"
+      ],
+      "feedback": [
+        "Die Frau nennt Irena ihre Schwester.",
+        "Sie bezeichnet Irena nicht als ihre Lehrerin.",
+        "Eine Anrede als Herrin ist nicht gemeint.",
+        "Sie erkennt in Irena nicht ihre Tochter."
+      ],
+      "short": "Die fremde Frau spricht Irena als Schwester an.",
+      "context": "Beim Hochzeitsessen begegnet Irena (Simone Simon) einer fremden Frau (Elizabeth Russell), die sie als Schwester anspricht. Die kurze Begegnung verknüpft den Beginn der Ehe mit Irenas Sorge um eine gemeinsame Herkunft der Katzenmenschen. Der Film erklärt die Fremde nicht durch eine ausführliche Familiengeschichte. Gerade die knappe Anrede lässt einen Zusammenhang anklingen, der Irenas Angst bestärkt, ohne eine gewöhnliche Verwandtschaft vollständig zu beweisen.",
+      "anchor": "Die Anrede Schwester lässt eine beunruhigende Gemeinsamkeit anklingen.",
+      "interest": "Ordnet einen kurzen Dialog in das Herkunftsmotiv ein.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche verborgene Waffe setzt Dr. Judd (Tom Conway) bei der tödlichen Begegnung in @ ein?",
+      "answers": [
+        "Eine Klinge in seinem Gehstock",
+        "Eine Pistole in seinem Arztkoffer",
+        "Ein Messer in seiner Manteltasche",
+        "Eine Nadel in seinem Siegelring"
+      ],
+      "feedback": [
+        "Judd zieht die Klinge seines Gehstocks.",
+        "Eine Pistole aus dem Arztkoffer ist nicht seine Waffe.",
+        "Ein Taschenmesser wird hier nicht benutzt.",
+        "Ein Ring mit Nadel ist nicht das gezeigte Mittel."
+      ],
+      "short": "In Judds Gehstock steckt eine Klinge.",
+      "context": "Dr. Louis Judd (Tom Conway) hält Irenas (Simone Simon) Befürchtungen zunächst für psychologisch erklärbar. Bei ihrer letzten Begegnung überschreitet er die professionelle Distanz und küsst sie. Der folgende Angriff kostet ihn das Leben, doch mit der Klinge seines Gehstocks verletzt er auch seine Angreiferin. Ein zuvor unauffälliger Gegenstand erhält damit eine tödliche Funktion. Verletzt flieht Irena anschließend zum Zoo, wo ihre Geschichte am Panthergehege endet.",
+      "anchor": "Der unauffällige Gehstock enthält eine tödliche Klinge.",
+      "interest": "Erfasst den konkreten Waffeneinsatz und wahrt die Schlussgrenze.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Simone Simon erstmals?",
+      "answers": [
+        "1942",
+        "1936",
+        "1948",
+        "1954"
+      ],
+      "feedback": [
+        "1942 ist der Erstjahrgang des RKO-Originals.",
+        "1936 liegt sechs Jahre vor der Veröffentlichung.",
+        "1948 liegt sechs Jahre nach dem Original.",
+        "1954 ist zwölf Jahre zu spät."
+      ],
+      "short": "Katzenmenschen erschien erstmals 1942.",
+      "context": "Katzenmenschen erschien 1942; The Curse of the Cat People folgte 1944, zwei Jahre später. Die spätere Produktion greift Figuren des Originals wieder auf, erzählt aber keine bloße Wiederholung desselben Bedrohungsverlaufs. AFI dokumentiert diese Verbindung in der Filmgeschichte. Der Jahresanker ordnet das Werk deshalb innerhalb einer konkreten RKO-Folge ein und trennt diese frühe Fortführung von der Jahrzehnte später entstandenen Neuverfilmung.",
+      "anchor": "Original 1942, The Curse of the Cat People 1944: zwei Jahre.",
+      "interest": "Verbindet Erstjahr und eine konkrete frühe Fortführung.",
+      "sources": [
+        "afi",
+        "criterion",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte die Hauptregie von @ mit Simone Simon?",
+      "answers": [
+        "Jacques Tourneur",
+        "Robert Wise",
+        "Robert Stevenson",
+        "Robert Siodmak"
+      ],
+      "feedback": [
+        "Jacques Tourneur trägt den Hauptregiecredit.",
+        "Robert Wise führte beim Original nicht Hauptregie.",
+        "Robert Stevenson führte beim RKO-Original nicht Hauptregie.",
+        "Robert Siodmak inszenierte dieses Original nicht."
+      ],
+      "short": "Jacques Tourneur führte beim RKO-Original Hauptregie.",
+      "context": "Jacques Tourneur inszenierte den Film für Produzent Val Lewton. Die Criterion-Credits unterscheiden beide Aufgaben ausdrücklich und nennen Mark Robson als Editor. Der Stil arbeitet vielfach mit Schatten, Geräuschen und Erwartung statt mit einer dauernd sichtbaren Kreatur. Die Wirkung entsteht aus dem Zusammenspiel der Gewerke; sie ist jedoch kein Grund, den Produzenten oder den Schnittverantwortlichen als zusätzliche Hauptregisseure auszugeben.",
+      "anchor": "Tourneur inszeniert; Lewton produziert, Robson montiert.",
+      "interest": "Ordnet den Hauptcredit in das konkrete Herstellungsteam ein.",
+      "sources": [
+        "criterion",
+        "film"
+      ]
+    }
+  ],
+  "rank": 5
+}

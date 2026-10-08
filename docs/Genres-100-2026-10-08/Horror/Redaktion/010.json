@@ -1,0 +1,216 @@
+{
+  "rank": 10,
+  "directors": [
+    "Tom Holland"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI: US-Kinostart am 2. August 1985. Die Dreharbeiten begannen bereits im Dezember 1984; sie bestimmen nicht das Erstjahr. Original mit William Ragsdale, nicht das Remake von 2011.",
+  "director_note": "Tom Holland führt allein Hauptregie und schrieb das Drehbuch; Herb Jaffe ist Produzent.",
+  "series": {
+    "name": "Fright Night",
+    "position": 1,
+    "note": "Originalfilm; die Neuverfilmung besitzt eine eigene Fassung und Besetzung."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter Vampirklassiker, der Vorstadthorror mit einer komischen Heldenfigur verbindet.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Fright_Night",
+    "afi": "https://catalog.afi.com/Film/67052-FRIGHT-NIGHT",
+    "year_anchor": "https://catalog.afi.com/Film/58582-CHILDS-PLAY"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche öffentliche Rolle hat Peter Vincent (Roddy McDowall) in @?",
+      "answers": [
+        "Er moderiert im Fernsehen alte Horrorfilme.",
+        "Er leitet einen örtlichen Bestattungsdienst.",
+        "Er berichtet im Fernsehen über reale Verbrechen.",
+        "Er führt ein Geschäft für okkulte Bücher."
+      ],
+      "feedback": [
+        "Vincent präsentiert Horrorfilme und ist als Filmvampirjäger bekannt.",
+        "Ein Bestattungsdienst ist nicht seine berufliche Rolle.",
+        "Er moderiert keine Sendung über echte Kriminalfälle.",
+        "Er betreibt keinen solchen Buchladen."
+      ],
+      "short": "Peter Vincent ist Horrorfilm-Moderator und Schauspieler.",
+      "context": "Peter Vincent (Roddy McDowall) lebt von seinem früheren Image als filmischer Vampirjäger und präsentiert Horrorfilme im Fernsehen. Charley Brewster (William Ragsdale) erwartet deshalb von ihm praktische Hilfe gegen einen echten Vampir. Die Verwechslung von gespieltem Heldentum und tatsächlichem Mut bildet einen wichtigen komischen Konflikt. Vincent muss erst lernen, außerhalb seiner Fernsehrolle Verantwortung für eine reale Gefahr zu übernehmen.",
+      "anchor": "Der Fernsehheld muss sich einer echten Gefahr stellen.",
+      "interest": "Erklärt die zentrale Erwartung an den ungewöhnlichen Helfer.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Warum kann Jerry Dandridge (Chris Sarandon) in @ erstmals das Haus von Charley (William Ragsdale) betreten?",
+      "answers": [
+        "Die Mutter des Jugendlichen hat den Nachbarn eingeladen.",
+        "Seine Freundin hat den Nachbarn heimlich eingeladen.",
+        "Sein Freund hat ihm versehentlich Einlass gewährt.",
+        "Ein Polizist hat den Nachbarn zur Befragung mitgebracht."
+      ],
+      "feedback": [
+        "Die Einladung seiner Mutter öffnet dem Nachbarn den Zugang.",
+        "Die Einladung stammt von seiner Mutter, nicht von seiner Freundin.",
+        "Sein Freund gewährt dem Vampir hier keinen Einlass.",
+        "Der Nachbar betritt das Haus nicht in Begleitung eines Polizisten."
+      ],
+      "short": "Charleys Mutter lädt den Nachbarn ins Haus ein.",
+      "context": "Charley Brewster (William Ragsdale) hält seinen neuen Nachbarn Jerry Dandridge (Chris Sarandon) für einen Vampir. Seine Mutter Judy Brewster (Dorothy Fielding) sieht dagegen einen attraktiven und höflichen Mann und lädt ihn ein. Damit wird das eigene Zuhause für Charley unsicher. Der Film nutzt die Einladung als konkrete Schwelle: Misstrauen allein kann ihn nicht schützen, wenn ein anderes Familienmitglied den Gast hereinbittet.",
+      "anchor": "Die freundliche Einladung macht das eigene Haus unsicher.",
+      "interest": "Verbindet eine Familienentscheidung mit einer Vampirregel.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum scheint der Weihwassertest an Jerry Dandridge (Chris Sarandon) in @ zunächst seine Unschuld zu beweisen?",
+      "answers": [
+        "Das angebliche Weihwasser ist gewöhnliches Leitungswasser.",
+        "Der Becher besitzt eine verdeckte zweite Kammer.",
+        "Er tauscht den gefüllten Becher unbemerkt aus.",
+        "Er behält das Wasser im Mund und spuckt es später aus."
+      ],
+      "feedback": [
+        "Peter verwendet nur Leitungswasser für den gespielten Test.",
+        "Eine versteckte Kammer täuscht den Trinkvorgang nicht vor.",
+        "Der Vampir tauscht den Becher nicht heimlich aus.",
+        "Er trinkt tatsächlich; eine spätere heimliche Entleerung erklärt die Szene nicht."
+      ],
+      "short": "Der vermeintliche Test verwendet ungesegnetes Leitungswasser.",
+      "context": "Peter Vincent (Roddy McDowall) soll Charley Brewster (William Ragsdale) davon überzeugen, dass dessen Nachbar harmlos sei. Jerry Dandridge (Chris Sarandon) spielt bei der Inszenierung mit und trinkt die angebotene Flüssigkeit ohne Folgen. Das beruhigende Ergebnis sagt jedoch nichts über seine Natur aus, weil das vermeintliche Weihwasser nur Leitungswasser ist. Der Versuch zeigt zunächst die Täuschung der Helfer, nicht eine widerlegte Vampirregel.",
+      "anchor": "Der Test ist beruhigend, weil das Prüfmittel gefälscht ist.",
+      "interest": "Unterscheidet einen gespielten Beweis von einer echten Prüfung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welches zurückgelassene Zeichen verrät Jerry Dandridge (Chris Sarandon) in @, dass sein Besuch ihn erkannt hat?",
+      "answers": [
+        "Ein Splitter des zerbrochenen Spiegel-Zigarettenetuis",
+        "Eine abgelegte Kette mit einem Silberkreuz",
+        "Eine benutzte Spritze mit einer Blutprobe",
+        "Ein Zettel mit einer heimlich notierten Warnung"
+      ],
+      "feedback": [
+        "Der Spiegelsplitter lässt Jerry erkennen, dass seine Besucher den fehlenden Reflex bemerkt haben.",
+        "Eine abgelegte Silberkreuzkette liefert ihm diesen Hinweis nicht.",
+        "Eine Spritze mit Blutprobe bleibt nicht als Beweis zurück.",
+        "Eine geschriebene Warnung ist nicht das zurückgelassene Zeichen."
+      ],
+      "short": "Der zurückgebliebene Spiegelsplitter verrät die Entdeckung.",
+      "context": "Peter Vincent (Roddy McDowall) bemerkt, dass Jerry Dandridge (Chris Sarandon) kein Spiegelbild besitzt, und lässt sein Spiegel-Zigarettenetui erschrocken fallen. Beim Verlassen des Hauses bleibt ein Splitter zurück. Jerry findet ihn und erkennt daran, dass seine Besucher die Wahrheit entdeckt haben. Der Beweis schützt die Helfer deshalb nicht automatisch: Das zerbrochene Etui gibt zugleich dem Gegner eine Information und löst seine Verfolgung aus.",
+      "anchor": "Der Spiegelsplitter verrät dem Vampir, dass seine Tarnung aufgeflogen ist.",
+      "interest": "Erfasst die gefährliche Folge einer Entdeckung statt nur eine allgemeine Vampirregel.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum versagt Peter Vincents (Roddy McDowall) Kreuz gegen Jerry Dandridge (Chris Sarandon) in @ zunächst?",
+      "answers": [
+        "Er hält es ohne wirklichen Glauben entgegen.",
+        "Das Kreuz wurde vor dem Kampf entweiht.",
+        "Er hält das Kreuz verkehrt herum vor sich.",
+        "Der Vampir steht im Schutz seines eigenen Hauses."
+      ],
+      "feedback": [
+        "Der Vampir erkennt Peters fehlenden Glauben.",
+        "Eine vorherige Entweihung ist nicht die Ursache des Versagens.",
+        "Die Ausrichtung des Kreuzes erklärt das Versagen nicht.",
+        "Die Wirkung scheitert an Peters Glauben, nicht an einer Schutzregel für das Haus."
+      ],
+      "short": "Dem Kreuz fehlt Peters wirklicher Glaube.",
+      "context": "Peter Vincent (Roddy McDowall) kennt die Gesten des Vampirjägers aus seinen Filmen. Gegen Jerry Dandridge (Chris Sarandon) genügt das Nachspielen einer Pose jedoch nicht: Seine Angst und sein fehlender Glaube machen den ersten Versuch unwirksam. Später wächst seine Überzeugung. Die Szene macht aus einem bekannten Horror-Requisit eine Prüfung der Figur und unterscheidet bloße Schauspielroutine von der Haltung, die tatsächlich Schutz ermöglichen soll.",
+      "anchor": "Das Kreuz ist keine verlässliche Waffe ohne Peters Überzeugung.",
+      "interest": "Erfasst den Zusammenhang zwischen Glauben und Schutzregel.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Womit wehrt Peter Vincent (Roddy McDowall) in @ den Angriff des verwandelten Ed (Stephen Geoffreys) ab?",
+      "answers": [
+        "Mit einem abgebrochenen Tischbein",
+        "Mit einer abgebrochenen Treppenstufe",
+        "Mit einem hölzernen Kerzenständer",
+        "Mit einem Pfahl aus dem Gartenzaun"
+      ],
+      "feedback": [
+        "Das Tischbein dient ihm als improvisierter Pfahl.",
+        "Eine Treppenstufe ist nicht die verwendete Waffe.",
+        "Der Gegenstand stammt vom Tisch, nicht aus einem Kerzenständer.",
+        "Er holt keinen Zaunpfahl aus dem Garten."
+      ],
+      "short": "Peter benutzt ein abgebrochenes Tischbein als Pfahl.",
+      "context": "Edward „Evil Ed“ Thompson (Stephen Geoffreys) greift Peter Vincent (Roddy McDowall) in Wolfsgestalt an. Der zunächst ängstliche Fernsehmoderator verteidigt sich mit einem abgebrochenen Tischbein und trifft den Angreifer. Der improvisierte Gegenstand macht die Szene zu einem praktischen Überlebenskampf. Ed nimmt wieder menschliche Gestalt an. Das spätere Lachen im Schlussbild lässt seine mögliche Rückkehr jedoch offen und untergräbt eine einfache endgültige Entwarnung.",
+      "anchor": "Aus einem Tischbein wird eine improvisierte Vampirwaffe.",
+      "interest": "Belegt Peters Handlungsfähigkeit ohne Eds endgültiges Schicksal zu behaupten.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien die Originalfassung von @ mit William Ragsdale erstmals?",
+      "answers": [
+        "1985",
+        "1983",
+        "1987",
+        "1989"
+      ],
+      "feedback": [
+        "1985 ist das Erstjahr des Originals.",
+        "1983 liegt vor dem ersten Kinostart.",
+        "1987 ist zwei Jahre zu spät.",
+        "1989 betrifft nicht den Start dieses Originals."
+      ],
+      "short": "Fright Night erschien 1985.",
+      "context": "Fright Night erschien 1985; Child’s Play kam 1988 heraus. Zwischen den Erstjahren liegen drei Jahre. Tom Holland inszenierte zunächst den Vorstadtvampirfilm und später den Film um die mörderische Puppe Chucky. Die Verbindung hilft, die beiden Originale zeitlich einzuordnen, ohne die spätere Fright-Night-Neuverfilmung mitzuzählen. Das Drehjahr vor dem ersten Kinostart ist ebenfalls kein Ersatz für das Veröffentlichungsjahr.",
+      "anchor": "Fright Night 1985 → Child’s Play 1988: drei Jahre.",
+      "interest": "Verbindet zwei konkrete Horrorwerke in Hollands Filmografie.",
+      "sources": [
+        "afi",
+        "year_anchor"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Originalfassung von @ mit William Ragsdale Hauptregie?",
+      "answers": [
+        "Tom Holland",
+        "Tommy Lee Wallace",
+        "Joel Schumacher",
+        "Fred Dekker"
+      ],
+      "feedback": [
+        "Tom Holland schrieb und inszenierte das Original.",
+        "Tommy Lee Wallace führte bei der Fortsetzung Regie, nicht beim Original.",
+        "Joel Schumacher trägt hier keinen Hauptregiecredit.",
+        "Fred Dekker inszenierte diesen Film nicht."
+      ],
+      "short": "Tom Holland führte allein Hauptregie.",
+      "context": "Tom Holland schrieb das Drehbuch und inszenierte die Geschichte eines Jugendlichen, dem Erwachsene seine bedrohliche Entdeckung nicht glauben. Die komische Helferfigur Peter Vincent (Roddy McDowall) steht zwischen einer professionell gespielten Heldenrolle und echter Angst. Der Regiecredit gehört zum Original mit William Ragsdale als Charley Brewster. Die Fortsetzung und die spätere Neuverfilmung sind eigenständige Produktionen mit anderen Regisseuren.",
+      "anchor": "Holland bringt den Filmvampirjäger in eine wirkliche Vampirgeschichte.",
+      "interest": "Sichert den Hauptcredit des Originals gegenüber späteren Fassungen.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ]
+}

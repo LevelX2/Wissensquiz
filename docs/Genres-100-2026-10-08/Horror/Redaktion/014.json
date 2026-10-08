@@ -1,0 +1,214 @@
+{
+  "rank": 14,
+  "directors": [
+    "James Wong"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erster Film der Reihe: 2000, im Artikelcache US-Kinostart 17. März; BFI bestätigt 2000.",
+  "country_note": "BFI führt USA als Produktionsland. Kanadische Drehorte und die dortige Flughafenvertretung werden nicht als zusätzlicher Ländercredit übernommen.",
+  "director_note": "James Wong führt allein Hauptregie; Glen Morgan und Jeffrey Reddick tragen Drehbuch- beziehungsweise weitere Produktionscredits.",
+  "series": {
+    "name": "Final Destination",
+    "position": 1,
+    "note": "Originalfilm mit Devon Sawa; spätere Teile haben eigene Ausgangskatastrophen."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: sehr bekannter Reihenauftakt mit prägender Idee des unsichtbaren Todesplans.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Final_Destination_(film)",
+    "bfi": "https://www.bfi.org.uk/film/545dcfbd-7c17-513a-9cfc-63527e3d2fc7/final-destination",
+    "year_anchor": "https://www.bfi.org.uk/film/b0f6df48-18b5-5a2c-aa52-2c42e6db1dd2/insidious"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wohin soll die Schulreise zu Beginn von @ führen?",
+      "answers": [
+        "Paris",
+        "Rom",
+        "London",
+        "Madrid"
+      ],
+      "feedback": [
+        "Die Schulgruppe ist auf dem Weg nach Paris.",
+        "Rom ist nicht das Reiseziel.",
+        "London ist nicht das Ziel dieser Klassenreise.",
+        "Madrid ist nicht das gebuchte Reiseziel."
+      ],
+      "short": "Die Schulgruppe will nach Paris fliegen.",
+      "context": "Alex Browning (Devon Sawa) sitzt mit seiner Schulgruppe in einem Flugzeug, das von New York nach Paris starten soll. Die erwartete Reise verbindet zunächst Unterricht, Vorfreude und gewöhnliche Reiseroutine. Seine plötzliche Angst unterbricht diese Normalität. Der Zielort bleibt auch später wichtig: Eine Reise nach Paris soll den Überlebenden schließlich helfen, ihre gemeinsame Erfahrung hinter sich zu lassen und wieder Alltag zu gewinnen.",
+      "anchor": "Die Reise nach Paris beginnt mit einer Katastrophenwarnung.",
+      "interest": "Verankert die geplante Reise vor dem Ausbruch des Horrors.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was erlebt Alex Browning (Devon Sawa) in @ kurz vor dem Abflug?",
+      "answers": [
+        "Eine Vision von der Explosion des Flugzeugs",
+        "Eine Vision von einem Busunfall auf dem Rollfeld",
+        "Eine Vision vom Absturz bei der Landung",
+        "Eine Vision von einer bewaffneten Flugzeugentführung"
+      ],
+      "feedback": [
+        "Alex sieht die Explosion des Flugzeugs voraus.",
+        "Ein Busunfall ist nicht seine erste Katastrophenvision.",
+        "Die Vision betrifft keine missglückte Landung.",
+        "Eine bewaffnete Entführung löst seine Warnung nicht aus."
+      ],
+      "short": "Alex sieht vor dem Start eine Explosion des Flugzeugs voraus.",
+      "context": "Alex Browning (Devon Sawa) erlebt eine Katastrophenvision, bevor das Flugzeug startet. Als Details daraus wirklich eintreten, gerät er in Panik. Ein Streit führt dazu, dass er und weitere Personen das Flugzeug verlassen müssen. Die anschließende Explosion bestätigt seine Warnung. Die besondere Fähigkeit schützt die Gruppe zunächst vor einem gemeinsamen Unglück, schafft aber zugleich die Ausgangslage für die späteren rätselhaften Todesfälle.",
+      "anchor": "Die Katastrophe erscheint zuerst als Vision und wird dann real.",
+      "interest": "Erklärt die zentrale Fähigkeit des Protagonisten.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wodurch stirbt Tod Waggner (Chad E. Donella) im Badezimmer in @?",
+      "answers": [
+        "Eine Wäscheleine zieht sich nach seinem Ausrutschen um den Hals.",
+        "Ein Föhn fällt während seines Bades ins Wasser.",
+        "Ein zerbrochener Spiegel trifft ihn nach einem Sturz.",
+        "Eine defekte Heizung setzt das Badezimmer in Brand."
+      ],
+      "feedback": [
+        "Die Verkettung endet mit der Wäscheleine um seinen Hals.",
+        "Ein Föhn verursacht diesen Todesfall nicht.",
+        "Eine Spiegelverletzung ist nicht die Todesursache.",
+        "Ein Heizungsbrand gehört nicht zu dieser Szene."
+      ],
+      "short": "Tod wird nach einem Ausrutschen von einer Wäscheleine stranguliert.",
+      "context": "Tod Waggner (Chad E. Donella) rutscht im Badezimmer auf Wasser aus. Eine Wäscheleine legt sich um seinen Hals und wird zur tödlichen Schlinge. Obwohl der Vorgang zunächst als Suizid gedeutet wird, zeigt der Film eine Verkettung von gewöhnlichen Gegenständen und Bewegungen. Alex Browning (Devon Sawa) sieht darin einen ersten Hinweis, dass die geretteten Passagiere weiter bedroht sind, obwohl kein sichtbarer Angreifer auftaucht.",
+      "anchor": "Ein alltäglicher Badezimmerunfall wird nach außen als Suizid gelesen.",
+      "interest": "Trennt die gezeigte Todesursache von ihrer ersten Deutung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was folgert Alex Browning (Devon Sawa) in @ aus den Ereignissen am Bahnübergang?",
+      "answers": [
+        "Ein gerettetes Opfer wird vorläufig übersprungen.",
+        "Eine Rettung vertauscht die nächsten beiden Opfer.",
+        "Eine Rettung startet die ursprüngliche Reihenfolge neu.",
+        "Eine Rettung verschiebt den nächsten Tod auf den Retter."
+      ],
+      "feedback": [
+        "Der Tod springt nach der verhinderten Tötung zum nächsten Opfer weiter.",
+        "Die nächsten beiden Personen tauschen dadurch nicht ihre Plätze in der Reihenfolge.",
+        "Billys Tod zeigt ein Weiterlaufen, keinen Neustart der ganzen Reihenfolge.",
+        "Nach Carters Rettung stirbt Billy, nicht der Retter Alex."
+      ],
+      "short": "Ein verhindertes Todesereignis lässt die Reihenfolge weiterlaufen.",
+      "context": "Alex Browning (Devon Sawa) rettet Carter Horton (Kerr Smith) aus einem Auto am Bahnübergang. Kurz darauf wird Billy Hitchcock (Seann William Scott) durch ein weggeschleudertes Trümmerstück getötet. Alex folgert, dass der unsichtbare Todesplan eine vorgesehene Person überspringt, wenn deren Tod verhindert wird. Damit erhält die Gruppe eine vorläufige Regel für ihre Gegenwehr, aber keinen Beweis, dass eine einzelne Rettung den ganzen Plan aufheben könnte.",
+      "anchor": "Carter wird gerettet, der nächste Platz bleibt gefährlich.",
+      "interest": "Erklärt die vorläufige Regel anhand ihrer konkreten Entdeckung.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum korrigiert Alex Browning (Devon Sawa) in @ seine Berechnung der ursprünglichen Todesreihenfolge?",
+      "answers": [
+        "Er hatte vor dem Start mit Mitschülern die Plätze getauscht.",
+        "Er hatte die Ausbreitungsrichtung des Feuers falsch gedeutet.",
+        "Er hatte einen später zugestiegenen Passagier übersehen.",
+        "Er hatte die Sitzreihen aus einem älteren Flugzeugplan übernommen."
+      ],
+      "feedback": [
+        "Der Platztausch verändert seine Rekonstruktion der Reihenfolge.",
+        "Eine falsche Deutung der Feuerrichtung ist nicht die Ursache dieser Korrektur.",
+        "Ein übersehener späterer Passagier erklärt den Irrtum nicht.",
+        "Ein veralteter Flugzeugplan ist nicht das entscheidende Problem."
+      ],
+      "short": "Der vergessene Platztausch verändert Alex’ Reihenfolgenmodell.",
+      "context": "Alex Browning (Devon Sawa) versucht aus der Flugzeugkatastrophe abzuleiten, in welcher Reihenfolge die Überlebenden sterben sollen. In seiner Rekonstruktion hatte er jedoch den eigenen Platztausch vor dem Start nicht richtig berücksichtigt. Die Korrektur macht Clear Rivers (Ali Larter) zur unmittelbar gefährdeten Person. Das zeigt die Grenze seiner Methode: Eine richtige Grundidee schützt niemanden, wenn eine konkrete Veränderung der Ausgangssituation übersehen wird.",
+      "anchor": "Ein getauschter Sitz verändert die nächste Gefahr.",
+      "interest": "Erfasst den entscheidenden Fehler in der Rekonstruktion.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche letzte Wendung beendet @ bei der Reise nach Paris?",
+      "answers": [
+        "Ein Schild schlägt nach einer Rettung gegen den Retter zurück.",
+        "Nach einer Rettung stürzt eine andere Person in den Fluss.",
+        "Ein gerissenes Stromkabel tötet die gerade gerettete Person.",
+        "Der Retter wird anschließend vom selben Bus erfasst."
+      ],
+      "feedback": [
+        "Das zurückschwingende Schild kündigt die nächste Gefahr für Carter an.",
+        "Ein Sturz von Clear in den Fluss bildet nicht den Schluss.",
+        "Ein tödliches Stromkabel ist nicht diese letzte Paris-Wendung.",
+        "Carter rettet Alex vor dem Schild; der Bus erfasst Carter nicht als Schlusspunkt."
+      ],
+      "short": "Das Schild schwingt nach Carters Rettungsaktion gegen ihn zurück.",
+      "context": "Alex Browning (Devon Sawa), Clear Rivers (Ali Larter) und Carter Horton (Kerr Smith) wollen in Paris ihr Überleben feiern. Als ein herabfallendes Schild Alex bedroht, rettet Carter ihn. Das Schild schwingt anschließend in Carters Richtung zurück, und der Film endet. Die erneute Verkettung untergräbt die erhoffte Sicherheit. Der Schluss deutet Carters Tod an, zeigt aber keine ausführliche bestätigende Nachgeschichte.",
+      "anchor": "Die Rettung verschiebt die letzte Gefahr wieder zum nächsten Menschen.",
+      "interest": "Beschreibt die Schlusswendung ohne eine spätere Bestätigung vorwegzunehmen.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien der erste Film @ mit Devon Sawa?",
+      "answers": [
+        "2000",
+        "1997",
+        "2003",
+        "2006"
+      ],
+      "feedback": [
+        "2000 ist das Erstjahr des Reihenauftakts.",
+        "1997 liegt drei Jahre vor dem ersten Film.",
+        "2003 gehört zur Fortsetzung, nicht zum Auftakt.",
+        "2006 ist sechs Jahre nach dem ersten Film."
+      ],
+      "short": "Der erste Film erschien 2000.",
+      "context": "Final Destination erschien 2000; Insidious hatte 2010 seine erste Veröffentlichung. Die Erstjahre liegen zehn Jahre auseinander. Beide Filme machen eine Familie oder eine Gruppe durch unsichtbare Kräfte verwundbar, entwickeln dafür aber unterschiedliche Regeln. Der Vergleich verankert den Jahrtausendwechsel für den ersten Final-Destination-Film. Er verwechselt James Wong, dessen Regisseur, nicht mit James Wan, dem Regisseur von Insidious.",
+      "anchor": "Final Destination 2000 → Insidious 2010: zehn Jahre.",
+      "interest": "Verbindet zwei konkrete Horrorwerke und hält ähnliche Regienamen auseinander.",
+      "sources": [
+        "bfi",
+        "year_anchor"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte beim ersten Film @ mit Devon Sawa Hauptregie?",
+      "answers": [
+        "James Wong",
+        "James Wan",
+        "David R. Ellis",
+        "Glen Morgan"
+      ],
+      "feedback": [
+        "James Wong führte beim ersten Film Regie.",
+        "James Wan inszenierte Insidious, nicht diesen Reihenauftakt.",
+        "David R. Ellis führte bei späteren Teilen Regie.",
+        "Glen Morgan war Mitautor und Produzent, nicht Hauptregisseur dieses Films."
+      ],
+      "short": "James Wong führte allein Hauptregie.",
+      "context": "James Wong inszenierte den Reihenauftakt und gehörte auch zum Autorenteam. Glen Morgan und Jeffrey Reddick tragen weitere Drehbuchcredits; Morgan ist außerdem als Produzent beteiligt. Die Bedrohung erhält keine ständig sichtbare Täterfigur. Stattdessen werden gewöhnliche Dinge durch ihre Verkettung gefährlich. Diese Gestaltung gehört zum konkreten ersten Film und darf nicht mit den Regiecredits der späteren Fortsetzungen vermischt werden.",
+      "anchor": "Wong inszeniert den Auftakt mit einer unsichtbaren Bedrohung.",
+      "interest": "Sichert den vollständigen Hauptcredit und trennt weitere Beteiligte.",
+      "sources": [
+        "bfi",
+        "film"
+      ]
+    }
+  ]
+}

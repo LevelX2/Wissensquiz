@@ -1,0 +1,210 @@
+{
+  "rank": 12,
+  "directors": [
+    "Robert Harmon"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Originalfilm von 1986. AFI Watch bestätigt das Jahr, führt beim Tagesdatum aber den ersichtlich schematischen 1. Januar; der Artikelcache nennt den US-Kinostart am 21. Februar 1986. Nicht das Remake von 2007.",
+  "director_note": "Robert Harmon führt allein Hauptregie. Die doppelte Namensanzeige bei AFI Watch bezeichnet keine zweite Person. Charles Minsky ist Second Unit Director of Photography, kein zusätzlicher Hauptregisseur.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter Straßenhorror und Thriller mit Rutger Hauer als unberechenbarem Verfolger.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Hitcher_(1986_film)",
+    "afi": "https://watch.afi.com/movie/the-hitcher-1986",
+    "year_anchor": "https://www.universalpicturesathome.com/movies/the-hitcher-2007"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Reiseauftrag hat Jim Halsey (C. Thomas Howell) zu Beginn von @?",
+      "answers": [
+        "Ein Auto von Chicago nach San Diego überführen.",
+        "Ein Auto von San Diego nach Chicago überführen.",
+        "Ein Auto von Chicago nach Miami überführen.",
+        "Ein Auto von Miami nach San Diego überführen."
+      ],
+      "feedback": [
+        "Jim soll den Wagen von Chicago nach San Diego bringen.",
+        "Diese Antwort vertauscht Ausgangspunkt und Ziel.",
+        "Miami ist nicht das Ziel seines Auftrags.",
+        "Jim startet mit dem Auftrag in Chicago, nicht in Miami."
+      ],
+      "short": "Jim überführt einen Wagen von Chicago nach San Diego.",
+      "context": "Jim Halsey (C. Thomas Howell) fährt beruflich einen Wagen von Chicago nach San Diego. Der Auftrag erklärt, warum er allein über lange Straßenabschnitte unterwegs ist und trotz Erschöpfung weiterkommen möchte. Die Begegnung mit John Ryder (Rutger Hauer) verwandelt diese gewöhnliche Überführung in einen Überlebenskampf. Jim verliert dadurch nach und nach die Kontrolle über die Reise, die zunächst nur eine praktische Aufgabe war.",
+      "anchor": "Eine gewöhnliche Autoüberführung wird zur tödlichen Reise.",
+      "interest": "Verankert den Protagonisten vor der Begegnung mit dem Verfolger.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Rolle hat Nash (Jennifer Jason Leigh), als Jim Halsey (C. Thomas Howell) sie in @ kennenlernt?",
+      "answers": [
+        "Sie arbeitet als Kellnerin in einem Diner.",
+        "Sie arbeitet an der Kasse einer Tankstelle.",
+        "Sie bedient die Rezeption eines Motels.",
+        "Sie verkauft Fahrkarten an einer Busstation."
+      ],
+      "feedback": [
+        "Jim begegnet ihr als Kellnerin im Diner.",
+        "Sie ist nicht die Tankstellenkassiererin.",
+        "Eine Motelrezeption ist nicht ihr Arbeitsplatz bei der Begegnung.",
+        "Sie verkauft ihm keine Busfahrkarte."
+      ],
+      "short": "Nash ist Kellnerin in einem Diner.",
+      "context": "Jim Halsey (C. Thomas Howell) trifft Nash (Jennifer Jason Leigh) in einem Diner, während er versucht, Hilfe zu bekommen. Sie begegnet ihm als gewöhnliche Kellnerin und wird später zu einer wichtigen Unterstützerin. Der kurze Kontakt gibt ihm eine menschliche Gegenfigur zur Isolation auf der Straße. Als die Polizei ihn verdächtigt, ist ihre Bereitschaft, ihm zuzuhören und zu helfen, besonders entscheidend.",
+      "anchor": "Im Diner findet Jim eine Person, die ihm beisteht.",
+      "interest": "Ordnet eine wichtige Helferin in den Handlungsbeginn ein.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie entkommt Jim Halsey (C. Thomas Howell) in @ dem ersten Angriff im Auto?",
+      "answers": [
+        "Er stößt den Angreifer durch die offene Tür aus dem Wagen.",
+        "Er lässt ihn aussteigen und fährt ohne ihn weiter.",
+        "Er lenkt gegen eine Leitplanke und flieht nach dem Aufprall.",
+        "Er bremst abrupt und schlägt ihn mit einem Werkzeug nieder."
+      ],
+      "feedback": [
+        "Jim nutzt die offene Tür und Ryders nicht angelegten Gurt.",
+        "Ryder steigt nicht freiwillig aus.",
+        "Ein Leitplankenunfall ermöglicht diese erste Flucht nicht.",
+        "Jim beendet den Angriff nicht mit einem Werkzeugschlag."
+      ],
+      "short": "Jim stößt den unangeschnallten Ryder aus dem fahrenden Auto.",
+      "context": "John Ryder (Rutger Hauer) bedroht Jim Halsey (C. Thomas Howell) während der Fahrt mit einem Messer. Jim bemerkt, dass der Fahrgast nicht angeschnallt und die Beifahrertür offen ist. Er nutzt diese Lücke und stößt ihn aus dem Wagen. Die Flucht beendet die Gefahr jedoch nicht. Der Verfolger erscheint erneut und macht deutlich, dass ein entkommenes Opfer für ihn zum Mittelpunkt eines weiteren Spiels werden kann.",
+      "anchor": "Offene Tür und fehlender Gurt ermöglichen die erste Gegenwehr.",
+      "interest": "Erfasst einen konkreten Fluchtmechanismus.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welches Zeichen vom Verfolger findet Jim Halsey (C. Thomas Howell) in @ in seinem Essen?",
+      "answers": [
+        "Einen abgetrennten Finger in den Pommes",
+        "Ein abgetrenntes Ohr auf dem Sandwich",
+        "Einen blutigen Zahn in der Suppe",
+        "Eine abgeschnittene Haarsträhne im Salat"
+      ],
+      "feedback": [
+        "Ein Finger steckt zwischen den Pommes.",
+        "Ein Ohr auf dem Sandwich ist nicht der Fund.",
+        "Ein Zahn in einer Suppe gehört nicht zu dieser Szene.",
+        "Eine Haarsträhne im Salat ist nicht das Zeichen."
+      ],
+      "short": "Jim findet einen abgetrennten Finger zwischen seinen Pommes.",
+      "context": "Jim Halsey (C. Thomas Howell) versucht im Diner, Abstand zur Gewalt auf der Straße zu gewinnen. Der abgetrennte Finger in seinem Essen zerstört diese Hoffnung und zeigt, dass John Ryder (Rutger Hauer) ihm nahe ist. Ein alltäglicher Moment der Erholung wird zum persönlichen Signal des Verfolgers. Der Film benennt dabei nicht verlässlich den Besitzer des Körperteils; seine Funktion ist die erneute Bedrohung Jims.",
+      "anchor": "Selbst eine Mahlzeit enthält eine Nachricht des Verfolgers.",
+      "interest": "Erklärt einen makabren Hinweis ohne eine Opferidentität zu erfinden.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum können die Polizisten Ryder (Rutger Hauer) am Lkw in @ nicht gefahrlos erschießen?",
+      "answers": [
+        "Sein Fuß hält die Kupplung; Loslassen würde die Geisel zerreißen.",
+        "Ein Schuss würde eine Sprengladung an der Geisel auslösen.",
+        "Sein Körper blockiert einen Hebel für die Seilwinde.",
+        "Die Geisel steht zwischen ihm und der Windschutzscheibe."
+      ],
+      "feedback": [
+        "Sein Fuß auf der Kupplung verhindert die tödliche Bewegung.",
+        "Eine schussgesteuerte Sprengladung ist nicht die Vorrichtung.",
+        "Keine Seilwinde bildet das entscheidende Druckmittel.",
+        "Nash ist zwischen Lkw und Anhänger angebunden, nicht als Schild in der Kabine."
+      ],
+      "short": "Die Kupplung verbindet Ryders Kontrolle unmittelbar mit Nashs Leben.",
+      "context": "John Ryder (Rutger Hauer) hat Nash (Jennifer Jason Leigh) zwischen einem Lkw und dessen Anhänger angebunden. Sein Fuß hält die Kupplung gedrückt; beim Loslassen setzt sich der Wagen in Bewegung und zerreißt sie. Captain Esteridge (Jeffrey DeMunn) erklärt Jim Halsey (C. Thomas Howell) deshalb, warum ein Polizeischuss keine sichere Rettung wäre. Die Konstruktion macht die sonst naheliegende Ausschaltung des Täters zur unmittelbaren Gefahr für seine Geisel.",
+      "anchor": "Ryders Fuß hält die tödliche Zugbewegung zurück.",
+      "interest": "Erklärt das praktische Dilemma der Geiselrettung.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie beendet Jim Halsey (C. Thomas Howell) in @ die letzte Konfrontation mit dem Verfolger?",
+      "answers": [
+        "Er erschießt ihn mit einer Schrotflinte.",
+        "Er stößt ihn vor den herannahenden Gefangenentransport.",
+        "Er lässt ihn im brennenden Polizeiwagen zurück.",
+        "Er ersticht ihn mit dessen eigenem Messer."
+      ],
+      "feedback": [
+        "Nach dem Überfahren schießt Jim mit einer Schrotflinte auf Ryder.",
+        "Der Gefangenentransport überfährt ihn nicht als Schlussaktion.",
+        "Ein Brand im Polizeiwagen beendet die Begegnung nicht.",
+        "Jim verwendet am Ende keine Messerattacke."
+      ],
+      "short": "Jim tötet Ryder am Ende mit einer Schrotflinte.",
+      "context": "Jim Halsey (C. Thomas Howell) verfolgt John Ryder (Rutger Hauer) nach dessen erneuter Flucht. Er überfährt ihn, doch der vermeintlich ausgeschaltete Gegner richtet sich wieder auf. Daraufhin erschießt Jim ihn mit einer Schrotflinte. Der abschließende Moment zeigt keinen erleichterten Helden, sondern einen erschöpften Überlebenden. Nach dem Verlust von Nash (Jennifer Jason Leigh) gewinnt Jim die Kontrolle zurück, ohne dass die Gewalt ungeschehen wäre.",
+      "anchor": "Nach dem Überfahren folgt Jims letzter Schuss.",
+      "interest": "Unterscheidet die Schlusskonfrontation vom früheren Geiseldilemma.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien die Originalfassung von @ mit Rutger Hauer erstmals?",
+      "answers": [
+        "1986",
+        "1983",
+        "1989",
+        "1992"
+      ],
+      "feedback": [
+        "1986 ist das Erstjahr des Originals.",
+        "1983 liegt vor dem Kinostart.",
+        "1989 ist drei Jahre zu spät.",
+        "1992 gehört nicht zur Veröffentlichung des Originals."
+      ],
+      "short": "Das Original erschien 1986.",
+      "context": "The Hitcher erschien 1986; die Neuverfilmung mit Sean Bean kam 2007 heraus. Zwischen den beiden Fassungen liegen einundzwanzig Jahre. Der Vergleich bewahrt eine konkrete Unterscheidung: Rutger Hauer verkörpert den Verfolger im Original, Sean Bean in der späteren Version. Die Neuverfilmung verändert außerdem die Konstellation der Reisenden. Ihr Jahr darf deshalb nicht als spätere Erstveröffentlichung derselben Filmfassung behandelt werden.",
+      "anchor": "Rutger Hauer 1986 → Sean Bean 2007: einundzwanzig Jahre.",
+      "interest": "Verankert das Erstjahr durch einen konkreten Fassungsvergleich.",
+      "sources": [
+        "afi",
+        "year_anchor"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Originalfassung von @ mit Rutger Hauer Hauptregie?",
+      "answers": [
+        "Robert Harmon",
+        "Walter Hill",
+        "Kathryn Bigelow",
+        "Dave Meyers"
+      ],
+      "feedback": [
+        "Robert Harmon führte beim Original Hauptregie.",
+        "Walter Hill trägt diesen Credit nicht.",
+        "Kathryn Bigelow inszenierte diesen Film nicht.",
+        "Dave Meyers führte beim späteren Remake Regie."
+      ],
+      "short": "Robert Harmon führte allein Hauptregie.",
+      "context": "Robert Harmon inszenierte die Originalfassung nach einem Drehbuch von Eric Red. Die Reise eines isolierten Autofahrers wird durch wiederkehrende Begegnungen mit einem Verfolger bestimmt, der auch zwischen den Konfrontationen bedrohlich präsent bleibt. Lange Straßen und scheinbare Zufluchtsorte bieten deshalb keine verlässliche Sicherheit. Die Neuverfilmung von Dave Meyers verschiebt die Ausgangslage auf ein reisendes Paar; sie ist eine eigenständige Fassung mit einem anderen Hauptregiecredit.",
+      "anchor": "Harmon inszeniert die isolierte Reise des Originals; Meyers später ein anderes Werk.",
+      "interest": "Sichert den Hauptcredit gegenüber Remake und technischen Teilcredits.",
+      "sources": [
+        "afi",
+        "year_anchor"
+      ]
+    }
+  ]
+}

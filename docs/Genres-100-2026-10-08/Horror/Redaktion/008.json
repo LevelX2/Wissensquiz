@@ -1,0 +1,208 @@
+{
+  "directors": [
+    "John Landis"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "release_note": "Original mit David Naughton und Griffin Dunne, Erstjahr 1981. AFI unterscheidet Sneak-Previews am 14. August und US-Kinostart am 21. August; spätere britische Auswertung ist kein neues Erstjahr.",
+  "director_note": "John Landis trägt Hauptregie und Drehbuchcredit. Rick Baker verantwortet besondere Make-up-Effekte, George Folsey Jr. die Produktion; kein zusätzlicher Hauptregiecredit.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter Horrorfilm mit ungewöhnlicher Verbindung von schwarzem Humor und sichtbarer Verwandlung.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
+    "afi": "https://catalog.afi.com/Film/68275-AN-AMERICANWEREWOLFINLONDON"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Reise unternehmen David (David Naughton) und Jack (Griffin Dunne) zu Beginn von @?",
+      "answers": [
+        "Eine Rucksackwanderung durch Nordengland",
+        "Eine Motorradtour entlang der Südküste",
+        "Eine Zugreise zwischen Universitätsstädten",
+        "Eine Segelfahrt zu den schottischen Inseln"
+      ],
+      "feedback": [
+        "Die Freunde wandern mit Rucksäcken durch Nordengland.",
+        "Eine Motorradtour ist nicht ihre Reiseform.",
+        "Sie reisen nicht hauptsächlich mit der Bahn zwischen Universitäten.",
+        "Eine Segelfahrt führt sie nicht zum ersten Schauplatz."
+      ],
+      "short": "David und Jack sind auf einer Rucksackwanderung.",
+      "context": "David Kessler (David Naughton) und Jack Goodman (Griffin Dunne) wandern durch Nordengland. Am Abend suchen sie in einem örtlichen Pub Schutz vor dem Wetter und eine Pause von ihrer Reise. Die Ausgangslage ist eine gewöhnliche Tour zweier Freunde, kein bewusst geplanter Besuch bei Werwölfen. Ihr Mangel an Ortskenntnis und das verschlossene Verhalten der Einheimischen werden erst nach diesem alltäglichen Einstieg bedrohlich.",
+      "anchor": "Die harmlose Rucksackreise endet an einem verschwiegenen Ort.",
+      "interest": "Erfasst die Reiseform statt der vom Titel nahegelegten Nationalität.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Wegregel nennen die Gäste beim Verlassen des Pubs in @?",
+      "answers": [
+        "Auf der Straße bleiben und das Moor meiden.",
+        "Dem Fluss folgen und die Brücke überqueren.",
+        "Den Waldweg nehmen und die Hauptstraße meiden.",
+        "An den Steinmauern bleiben und das Tal umgehen."
+      ],
+      "feedback": [
+        "Die Reisenden sollen auf der Straße bleiben und das Moor meiden.",
+        "Ein Fluss mit Brücke ist nicht der empfohlene Weg.",
+        "Die Warnung rät nicht zum Waldweg.",
+        "Steinmauern und ein zu umgehendes Tal gehören nicht zur konkreten Wegwarnung."
+      ],
+      "short": "Die Warnung lautet, auf der Straße zu bleiben und das Moor zu meiden.",
+      "context": "David Kessler (David Naughton) und Jack Goodman (Griffin Dunne) verlassen den Pub nach einer unangenehmen Begegnung mit den Einheimischen. Die Gäste warnen sie, auf der Straße zu bleiben und das Moor zu meiden. Doch die Freunde geraten von der Straße ab. Die Warnung besitzt damit eine konkrete räumliche Bedeutung: Sie beschreibt einen vermeidbaren Weg, bevor die Gefahr im offenen Gelände tatsächlich auftritt.",
+      "anchor": "Die Straße ist der empfohlene Weg, das Moor die Gefahrenzone.",
+      "interest": "Verbindet eine frühe Warnung mit der anschließenden Wegentscheidung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum kommt der tote Jack (Griffin Dunne) in @ nach eigener Erklärung nicht zur Ruhe?",
+      "answers": [
+        "Die Blutlinie des überlebenden Werwolfs besteht weiter.",
+        "Sein Körper wurde außerhalb des Heimatlandes begraben.",
+        "Seine Familie kennt den Ort seines Todes nicht.",
+        "Der Täter wurde unter falschem Namen beerdigt."
+      ],
+      "feedback": [
+        "Jack bindet seinen Zustand an die fortbestehende Werwolf-Blutlinie.",
+        "Eine Bestattung im Ausland ist nicht seine Erklärung.",
+        "Fehlendes Wissen der Familie begründet die Regel nicht.",
+        "Ein falscher Bestattungsname des Täters ist nicht der Grund."
+      ],
+      "short": "Jack bleibt gebunden, solange die Werwolf-Blutlinie weiterbesteht.",
+      "context": "Jack Goodman (Griffin Dunne) erscheint David Kessler (David Naughton) nach dem tödlichen Angriff als Untoter. Er erklärt, dass die Opfer erst frei werden, wenn die Blutlinie des Werwolfs endet. Weil David den Angriff überlebt hat und gebissen wurde, besteht sie durch ihn weiter. Die Freundschaft erhält dadurch eine grausame Spannung: Jacks Bitte richtet sich gegen das Weiterleben des Menschen, dem er zuvor nahestand.",
+      "anchor": "Davids Überleben hält nach Jacks Erklärung die Blutlinie offen.",
+      "interest": "Erfasst die filmische Regel hinter dem Untotenbesuch.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Wo erwacht David (David Naughton) nach seiner ersten Verwandlungsnacht in @ nackt?",
+      "answers": [
+        "Im Wolfsgehege des Zoos",
+        "Im Keller eines Krankenhauses",
+        "Auf dem Dach eines Bahnhofs",
+        "Am Ufer eines Kanals"
+      ],
+      "feedback": [
+        "Er erwacht zwischen den Wölfen im Zoo.",
+        "Der Krankenhauskeller ist nicht sein Erwachensort.",
+        "Ein Bahnhofsdach ist nicht der gezeigte Ort.",
+        "Er liegt nicht am Kanalufer."
+      ],
+      "short": "David erwacht nackt im Wolfsgehege.",
+      "context": "David Kessler (David Naughton) verbringt die erste Verwandlung in der Wohnung von Alex Price (Jenny Agutter) und zieht danach als Tier durch London. Am Morgen findet er sich nackt im Wolfsgehege des Zoos wieder, ohne klare Erinnerung an seine Taten. Die Umgebung verbindet den wieder menschlichen Körper mit der Tierwelt. Zugleich entsteht eine komische Fluchtaufgabe, obwohl die vergangene Nacht tödliche Folgen hatte.",
+      "anchor": "Der Morgen führt den Menschen ausgerechnet ins Wolfsgehege.",
+      "interest": "Verbindet den konkreten Ortswechsel mit Horror und schwarzem Humor.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was will David (David Naughton) mit seinen öffentlichen Provokationen am Trafalgar Square in @ erreichen?",
+      "answers": [
+        "Verhaftet und eingeschlossen werden.",
+        "Die Öffentlichkeit vor einer neuen Gefahr warnen.",
+        "Die Polizei zur Suche nach dem Angreifer bewegen.",
+        "Zeugen für seine nächtlichen Erlebnisse finden."
+      ],
+      "feedback": [
+        "Er will die Polizei dazu bringen, ihn einzuschließen.",
+        "Eine öffentliche Warnung ist nicht der unmittelbare Zweck der Provokation.",
+        "Er will damit keine neue Fahndung nach dem Angreifer auslösen.",
+        "Die Provokation dient nicht der Suche nach Zeugen."
+      ],
+      "short": "David versucht, seine eigene Verhaftung herbeizuführen.",
+      "context": "David Kessler (David Naughton) erkennt nach den Nachrichten über die Todesfälle, dass er selbst eine Gefahr darstellt. Am Trafalgar Square verhält er sich deshalb provozierend, um verhaftet zu werden. Das Gefängnis soll ihm eine Grenze setzen, die er sich selbst nicht zuverlässig geben kann. Die ungewöhnliche Handlung folgt einer nachvollziehbaren Absicht: Er sucht äußere Kontrolle, bevor eine weitere Verwandlung andere Menschen bedroht.",
+      "anchor": "Die Provokation sucht eine Zelle als äußere Grenze.",
+      "interest": "Erklärt die Absicht hinter einem sonst widersinnig wirkenden Auftreten.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welcher Effektansatz prägt Davids (David Naughton) Verwandlung in @?",
+      "answers": [
+        "Körperliche Make-up- und mechanische Effekte",
+        "Überblendungen zwischen statischen Porträtaufnahmen",
+        "Einzelbildanimation einer gezeichneten Silhouette",
+        "Stop-Motion-Animation einer dreidimensionalen Figur"
+      ],
+      "feedback": [
+        "Die Verwandlung nutzt körperliche Make-up- und mechanische Effekte.",
+        "Optische Porträtüberblendungen sind nicht das angestrebte Verfahren.",
+        "Eine gezeichnete Silhouette ersetzt den Körper nicht.",
+        "Eine in Einzelbildern bewegte Modellfigur ist nicht das angestrebte Verfahren."
+      ],
+      "short": "Die Verwandlung wird durch Make-up und mechanische Körperveränderungen sichtbar.",
+      "context": "John Landis wollte die Verwandlung vor den Augen des Publikums geschehen lassen. AFI beschreibt dieses Konzept unter Verweis auf Universals Produktionsnotizen und Rick Bakers Make-up-Arbeit. Körperformen und sichtbare Veränderungen ersetzen für diesen Vorgang die übliche optische Überblendung. Daraus folgt nicht, dass der gesamte Film keinerlei optische Effekte enthält. Der Ansatz macht die Veränderung zu einem körperlichen Vorgang, statt sie nur durch einen Übergang zwischen zwei Bildern anzudeuten.",
+      "anchor": "Die Verwandlung verändert den sichtbaren Körper statt nur das Bild zu überblenden.",
+      "interest": "Erschließt einen belegten Gestaltungsansatz ohne einen vorhandenen Preisabruf zu wiederholen.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit David Naughton erstmals veröffentlicht?",
+      "answers": [
+        "1981",
+        "1975",
+        "1987",
+        "1993"
+      ],
+      "feedback": [
+        "1981 ist das erste Veröffentlichungsjahr.",
+        "1975 liegt sechs Jahre davor.",
+        "1987 liegt sechs Jahre danach.",
+        "1993 ist zwölf Jahre zu spät."
+      ],
+      "short": "American Werewolf erschien erstmals 1981.",
+      "context": "John Landis schrieb den ersten Drehbuchentwurf 1969; der Film erschien 1981, zwölf Jahre später. AFI führt die frühe Entstehung unter Verweis auf einen zeitgenössischen Bericht von 1981 an. Der Abstand macht den langen Weg vom Konzept zum fertigen Werk greifbar. Dabei blieb die Verbindung aus Komik und Horror wesentlich. Das Entwurfsjahr ist jedoch keine frühere Veröffentlichung des Films, sondern sein belegter Entwicklungsvorlauf.",
+      "anchor": "Drehbuch 1969, Film 1981: zwölf Jahre.",
+      "interest": "Verbindet Erstjahr und konkret datierte Entwicklung.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit David Naughton die Hauptregie?",
+      "answers": [
+        "John Landis",
+        "Joe Dante",
+        "Tobe Hooper",
+        "Michael Wadleigh"
+      ],
+      "feedback": [
+        "John Landis trägt den Hauptregiecredit.",
+        "Joe Dante ist nicht der Regisseur dieses Films.",
+        "Tobe Hooper führte hier nicht Hauptregie.",
+        "Michael Wadleigh inszenierte dieses Werk nicht."
+      ],
+      "short": "John Landis schrieb und inszenierte den Film.",
+      "context": "John Landis ist als Regisseur und Drehbuchautor geführt. Seine Geschichte verbindet die Bedrohung des eigenen Körpers mit makabren Gesprächen und alltäglichen Schwierigkeiten. Rick Bakers Spezial-Make-up ist dafür ein wichtiger Herstellungsbeitrag, aber kein zusätzlicher Regiecredit. Ebenso ist George Folsey Jr. als Produzent vom Hauptregisseur zu unterscheiden. Die Zuordnung folgt dem konkreten Originalfilm mit David Naughton und nicht anderen Werwolfproduktionen derselben Zeit.",
+      "anchor": "Landis schreibt und inszeniert; Baker gestaltet die Spezial-Make-up-Effekte.",
+      "interest": "Ordnet den Hauptcredit neben den besonders prägenden Effekten ein.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ],
+  "rank": 8
+}

@@ -1,0 +1,3248 @@
+{
+  "date": "2026-10-08",
+  "scope": "Eigene Redaktion auf tatsächlich gelesenen Quellen; keine unabhängige zweite Vollrecherche.",
+  "questions": [
+    {
+      "question_id": "G100-20261008-HORROR-001-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-001-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert den leicht erkennbaren Beginn der Begegnung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+          "checked_on": "2026-10-08",
+          "supports": "Caligaris Attraktion gehört zum Jahrmarkt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-001-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-001-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erschließt die besondere Vorführungsrolle statt nur einen Namen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+          "checked_on": "2026-10-08",
+          "supports": "Cesare ist der von Caligari vorgeführte Somnambuler."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-001-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-001-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet Vorführung und den Anlass der späteren Untersuchung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+          "checked_on": "2026-10-08",
+          "supports": "Alan soll nur bis zum nächsten Morgen leben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-001-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-001-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst einen konkreten Bruch im erwarteten Handlungsablauf.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+          "checked_on": "2026-10-08",
+          "supports": "Cesare bricht den Messerangriff ab und entführt Jane."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-001-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-001-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die konkrete Täuschung hinter dem vermeintlichen Alibi.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+          "checked_on": "2026-10-08",
+          "supports": "Eine Puppe täuscht Cesares Anwesenheit vor."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-001-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-001-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erschließt die zentrale Umwertung der Erzählerposition.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+          "checked_on": "2026-10-08",
+          "supports": "Der Erzähler ist selbst Patient einer psychiatrischen Anstalt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-001-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-001-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet Erstjahr und einen konkreten Restaurierungsauftritt.",
+      "sources": [
+        {
+          "key": "portal",
+          "url": "https://www.filmportal.de/film/das-cabinet-des-dr-caligari_cb123ff9496d416c972e6cd8aaec08ca",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste Veröffentlichung erfolgte 1920."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-001-D",
+      "knowledge_id": "K-G100-20261008-HORROR-001-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die Hauptregie ein und trennt sie von Ausstattung und Assistenz.",
+      "sources": [
+        {
+          "key": "portal",
+          "url": "https://www.filmportal.de/film/das-cabinet-des-dr-caligari_cb123ff9496d416c972e6cd8aaec08ca",
+          "checked_on": "2026-10-08",
+          "supports": "Die Hauptregie stammt von Robert Wiene."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+          "checked_on": "2026-10-08",
+          "supports": "Die Hauptregie stammt von Robert Wiene."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-002-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-002-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den konkreten Ausgangsauftrag dieser Filmfassung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Renfields Auftrag betrifft die Pacht von Carfax Abbey in England."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/7690-DRACULA",
+          "checked_on": "2026-10-08",
+          "supports": "Renfields Auftrag betrifft die Pacht von Carfax Abbey in England."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-002-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-002-L2",
+      "goal_kind": "content",
+      "interest_reason": "Bietet einen konkreten Einstieg in die Anstaltsgeschichte.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Renfield ist von Fliegen und Spinnen als Nahrung besessen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-002-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-002-M1",
+      "goal_kind": "content",
+      "interest_reason": "Fragt den konkreten Gegenstand statt einer allgemeinen Vampirregel.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Spiegel im Deckel einer Zigarettenschachtel zeigt den Grafen nicht."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/7690-DRACULA",
+          "checked_on": "2026-10-08",
+          "supports": "Der Spiegel im Deckel einer Zigarettenschachtel zeigt den Grafen nicht."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-002-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-002-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die konkrete Schutzmaßnahme dieser Fassung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Mina wird mit Wolfsbann geschützt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-002-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-002-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst ein konkretes Verführungsmittel neben der unmittelbaren Kontrolle.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Dracula lockt Renfield mit einer ungeheuren Menge Ratten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-002-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-002-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die unmittelbare Ursache einer zentralen Todesfolge.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Dracula hält die Verfolgung für Renfields Verrat."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-002-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-002-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet das Erstjahr mit dem belegten Bühnenvorlauf.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/7690-DRACULA",
+          "checked_on": "2026-10-08",
+          "supports": "Die englische Universal-Fassung erschien 1931."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die englische Universal-Fassung erschien 1931."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-002-D",
+      "knowledge_id": "K-G100-20261008-HORROR-002-D",
+      "goal_kind": "director",
+      "interest_reason": "Grenzt die gleichzeitigen Sprachproduktionen fachlich ab.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/7690-DRACULA",
+          "checked_on": "2026-10-08",
+          "supports": "Tod Browning führte bei der englischen Fassung Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Tod Browning führte bei der englischen Fassung Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-003-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-003-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet den markanten Schauplatz mit seiner Handlungsfunktion.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Henry arbeitet in einem alten Wachturm im Gebirge."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3925-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Henry arbeitet in einem alten Wachturm im Gebirge."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-003-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-003-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erschließt den konkreten Auslöser einer wichtigen Reaktion.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Fritz quält die Kreatur mit einer brennenden Fackel."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-003-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-003-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ordnet den wissenschaftlichen Gesprächspartner konkret ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Waldman ist Henrys ehemaliger Hochschullehrer."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3925-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Waldman ist Henrys ehemaliger Hochschullehrer."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-003-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-003-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den konkreten Ablauf und seine Fassungsgrenze.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Kreatur wirft Maria wie zuvor die Blumen in den See."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3925-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Die Kreatur wirft Maria wie zuvor die Blumen in den See."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-003-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-003-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die konkrete räumliche Ursache von Henrys Überleben.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Mühlenflügel fängt Henrys Sturz ab."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-003-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-003-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erschließt eine belegte Besonderheit der Titelgestaltung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3925-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Der Anfangscredit verbirgt den Namen; der Schluss nennt Boris Karloff."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Anfangscredit verbirgt den Namen; der Schluss nennt Boris Karloff."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-003-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-003-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet Erstjahr und datierten literarischen Ursprung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3925-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Der Universal-Film erschien erstmals 1931."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Universal-Film erschien erstmals 1931."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-003-D",
+      "knowledge_id": "K-G100-20261008-HORROR-003-D",
+      "goal_kind": "director",
+      "interest_reason": "Trennt veröffentlichte Hauptregie und frühere Projektentwicklung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3925-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "James Whale führte bei dieser Universal-Fassung Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+          "checked_on": "2026-10-08",
+          "supports": "James Whale führte bei dieser Universal-Fassung Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-004-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-004-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die besondere Erzählsituation.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+          "checked_on": "2026-10-08",
+          "supports": "Mary Shelley setzt im Rahmen ihre Geschichte fort."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5831-BRIDE-OF-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Mary Shelley setzt im Rahmen ihre Geschichte fort."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-004-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-004-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erschließt die markante Gegenbewegung zur ständigen Verfolgung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+          "checked_on": "2026-10-08",
+          "supports": "Ein blinder Einsiedler nimmt die Kreatur freundlich auf."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5831-BRIDE-OF-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Ein blinder Einsiedler nimmt die Kreatur freundlich auf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-004-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-004-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet die ungewöhnliche Vorführung mit dem Kooperationsangebot.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+          "checked_on": "2026-10-08",
+          "supports": "Pretorius zeigt winzige künstliche Menschen in Glasgefäßen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5831-BRIDE-OF-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Pretorius zeigt winzige künstliche Menschen in Glasgefäßen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-004-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-004-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den Umschlag vom Angebot zur Erpressung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+          "checked_on": "2026-10-08",
+          "supports": "Elizabeths Entführung zwingt Henry zur Mitarbeit."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5831-BRIDE-OF-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Elizabeths Entführung zwingt Henry zur Mitarbeit."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-004-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-004-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst das Scheitern der sozialen Hoffnung hinter dem Versuch.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+          "checked_on": "2026-10-08",
+          "supports": "Die erhoffte Partnerin weist die Kreatur erschrocken zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-004-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-004-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die gezielte Ausnahme vor der Schlusszerstörung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+          "checked_on": "2026-10-08",
+          "supports": "Die Kreatur lässt Henry und Elizabeth entkommen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-004-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-004-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet Erstjahr und unmittelbaren Vorgänger.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5831-BRIDE-OF-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Frankensteins Braut erschien erstmals 1935."
+        },
+        {
+          "key": "previous",
+          "url": "https://catalog.afi.com/Film/3925-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "Frankensteins Braut erschien erstmals 1935."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+          "checked_on": "2026-10-08",
+          "supports": "Frankensteins Braut erschien erstmals 1935."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-004-D",
+      "knowledge_id": "K-G100-20261008-HORROR-004-D",
+      "goal_kind": "director",
+      "interest_reason": "Verknüpft den Hauptcredit mit der abgegrenzten Produktionsgeschichte.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5831-BRIDE-OF-FRANKENSTEIN",
+          "checked_on": "2026-10-08",
+          "supports": "James Whale führte auch bei dieser Fortsetzung Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+          "checked_on": "2026-10-08",
+          "supports": "James Whale führte auch bei dieser Fortsetzung Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-005-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-005-L1",
+      "goal_kind": "content",
+      "interest_reason": "Bietet einen zugänglichen, nicht vom Filmtitel verratenen Figurenbezug.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Irena arbeitet als Modeillustratorin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-005-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-005-L2",
+      "goal_kind": "content",
+      "interest_reason": "Verknüpft den ersten Kontakt mit einem wiederkehrenden Schauplatz.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die beiden begegnen sich beim Zeichnen am Panthergehege."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-005-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-005-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erschließt eine konkrete Gestaltung von Erwartung und Schreck.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der plötzlich ankommende Bus lässt Alice und das Publikum erschrecken."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-005-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-005-M2",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet eine konkrete Spur von der bloßen Angstreaktion.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Alices zerfetzter Bademantel bleibt als konkrete Spur zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-005-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-005-S1",
+      "goal_kind": "content",
+      "interest_reason": "Ordnet einen kurzen Dialog in das Herkunftsmotiv ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die fremde Frau spricht Irena als Schwester an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-005-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-005-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den konkreten Waffeneinsatz und wahrt die Schlussgrenze.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+          "checked_on": "2026-10-08",
+          "supports": "In Judds Gehstock steckt eine Klinge."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-005-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-005-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet Erstjahr und eine konkrete frühe Fortführung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/27177-CAT-PEOPLE",
+          "checked_on": "2026-10-08",
+          "supports": "Katzenmenschen erschien erstmals 1942."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/28696-cat-people",
+          "checked_on": "2026-10-08",
+          "supports": "Katzenmenschen erschien erstmals 1942."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Katzenmenschen erschien erstmals 1942."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-005-D",
+      "knowledge_id": "K-G100-20261008-HORROR-005-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet den Hauptcredit in das konkrete Herstellungsteam ein.",
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/28696-cat-people",
+          "checked_on": "2026-10-08",
+          "supports": "Jacques Tourneur führte beim RKO-Original Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jacques Tourneur führte beim RKO-Original Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-006-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-006-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erschließt den besonderen Einstieg der Hammer-Fassung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Harkers Tarnrolle ist die eines Bibliothekars."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.bfi.org.uk/features/why-i-love-dracula",
+          "checked_on": "2026-10-08",
+          "supports": "Harkers Tarnrolle ist die eines Bibliothekars."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-006-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-006-L2",
+      "goal_kind": "content",
+      "interest_reason": "Ordnet die zentrale Beziehung ohne Stoffvarianten zu vermischen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Lucy ist Harkers Verlobte."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-006-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-006-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die konkrete Handlung, durch die eine Vorsichtsmaßnahme scheitert.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Gerda entfernt auf Lucys Bitte den schützenden Knoblauch."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-006-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-006-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet Gegenstand, körperliches Zeichen und Handlungsfolge.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Kruzifix hinterlässt ein Brandmal an Minas Hand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-006-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-006-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die räumliche Täuschung hinter der erfolglosen Bewachung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Gegner hat seinen Rückzugsort bereits im Keller des Hauses."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-006-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-006-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den konkreten Einsatz gewöhnlicher Gegenstände.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Zwei Kerzenständer bilden Van Helsings improvisiertes Kreuz."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.bfi.org.uk/features/why-i-love-dracula",
+          "checked_on": "2026-10-08",
+          "supports": "Zwei Kerzenständer bilden Van Helsings improvisiertes Kreuz."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-006-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-006-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet das Erstjahr mit einem unmittelbar vorausgehenden Hammer-Film.",
+      "sources": [
+        {
+          "key": "essay",
+          "url": "https://www.bfi.org.uk/features/why-i-love-dracula",
+          "checked_on": "2026-10-08",
+          "supports": "Die Hammer-Fassung erschien erstmals 1958."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/475669bf-4327-5d0a-9ce6-eea84ef18a6d/dracula",
+          "checked_on": "2026-10-08",
+          "supports": "Die Hammer-Fassung erschien erstmals 1958."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Hammer-Fassung erschien erstmals 1958."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-006-D",
+      "knowledge_id": "K-G100-20261008-HORROR-006-D",
+      "goal_kind": "director",
+      "interest_reason": "Trennt den konkreten Hauptcredit von anderen Fassungen.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/475669bf-4327-5d0a-9ce6-eea84ef18a6d/dracula",
+          "checked_on": "2026-10-08",
+          "supports": "Terence Fisher inszenierte den Hammer-Auftakt."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Terence Fisher inszenierte den Hammer-Auftakt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-007-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-007-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert den konkreten Einstieg ohne eine Titelantwort abzufragen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vampyr",
+          "checked_on": "2026-10-08",
+          "supports": "Gray übernachtet zunächst in einem Gasthof."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-007-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-007-L2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet eine frühe Anweisung mit dem späteren Handlungsablauf.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vampyr",
+          "checked_on": "2026-10-08",
+          "supports": "Das Paket soll erst nach dem Tod des Überbringers geöffnet werden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-007-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-007-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst einen konkreten Hilfsbeitrag mit einer unmittelbaren Folge.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vampyr",
+          "checked_on": "2026-10-08",
+          "supports": "Gray spendet Blut für Léones Transfusion."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-007-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-007-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erschließt ein präzises visuelles Mittel der unheimlichen Perspektive.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vampyr",
+          "checked_on": "2026-10-08",
+          "supports": "Die Vision zeigt den Blick aus einem Sarg mit Fenster."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-007-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-007-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst eine konkrete Gestaltung statt einer pauschalen Traumdeutung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vampyr",
+          "checked_on": "2026-10-08",
+          "supports": "Der Schatten bewegt sich unabhängig von seinem Körper."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-007-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-007-S2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet Schauplatzfunktion und Schlussfolge unter klarer Fassungsgrenze.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vampyr",
+          "checked_on": "2026-10-08",
+          "supports": "Der Arzt erstickt in einer mit Mehl gefüllten Kammer."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-007-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-007-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet das Erstjahr mit einer konkret datierten Stoffquelle.",
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/661-vampyr",
+          "checked_on": "2026-10-08",
+          "supports": "Vampyr wurde erstmals 1932 öffentlich gezeigt."
+        },
+        {
+          "key": "bfi_program",
+          "url": "https://bfidatadigipres.github.io/pdf/2022-05-05-vampyr.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Vampyr wurde erstmals 1932 öffentlich gezeigt."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vampyr",
+          "checked_on": "2026-10-08",
+          "supports": "Vampyr wurde erstmals 1932 öffentlich gezeigt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-007-D",
+      "knowledge_id": "K-G100-20261008-HORROR-007-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet den Hauptcredit und die gemeinsame Schreibarbeit auseinander.",
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/661-vampyr",
+          "checked_on": "2026-10-08",
+          "supports": "Carl Theodor Dreyer führte allein Hauptregie."
+        },
+        {
+          "key": "bfi_program",
+          "url": "https://bfidatadigipres.github.io/pdf/2022-05-05-vampyr.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Carl Theodor Dreyer führte allein Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vampyr",
+          "checked_on": "2026-10-08",
+          "supports": "Carl Theodor Dreyer führte allein Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-008-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-008-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die Reiseform statt der vom Titel nahegelegten Nationalität.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
+          "checked_on": "2026-10-08",
+          "supports": "David und Jack sind auf einer Rucksackwanderung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-008-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-008-L2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet eine frühe Warnung mit der anschließenden Wegentscheidung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
+          "checked_on": "2026-10-08",
+          "supports": "Die Warnung lautet, auf der Straße zu bleiben und das Moor zu meiden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-008-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-008-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die filmische Regel hinter dem Untotenbesuch.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
+          "checked_on": "2026-10-08",
+          "supports": "Jack bleibt gebunden, solange die Werwolf-Blutlinie weiterbesteht."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-008-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-008-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet den konkreten Ortswechsel mit Horror und schwarzem Humor.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
+          "checked_on": "2026-10-08",
+          "supports": "David erwacht nackt im Wolfsgehege."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-008-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-008-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die Absicht hinter einem sonst widersinnig wirkenden Auftreten.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
+          "checked_on": "2026-10-08",
+          "supports": "David versucht, seine eigene Verhaftung herbeizuführen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-008-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-008-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erschließt einen belegten Gestaltungsansatz ohne einen vorhandenen Preisabruf zu wiederholen.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/68275-AN-AMERICANWEREWOLFINLONDON",
+          "checked_on": "2026-10-08",
+          "supports": "Die Verwandlung wird durch Make-up und mechanische Körperveränderungen sichtbar."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
+          "checked_on": "2026-10-08",
+          "supports": "Die Verwandlung wird durch Make-up und mechanische Körperveränderungen sichtbar."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-008-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-008-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet Erstjahr und konkret datierte Entwicklung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/68275-AN-AMERICANWEREWOLFINLONDON",
+          "checked_on": "2026-10-08",
+          "supports": "American Werewolf erschien erstmals 1981."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
+          "checked_on": "2026-10-08",
+          "supports": "American Werewolf erschien erstmals 1981."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-008-D",
+      "knowledge_id": "K-G100-20261008-HORROR-008-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet den Hauptcredit neben den besonders prägenden Effekten ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/68275-AN-AMERICANWEREWOLFINLONDON",
+          "checked_on": "2026-10-08",
+          "supports": "John Landis schrieb und inszenierte den Film."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
+          "checked_on": "2026-10-08",
+          "supports": "John Landis schrieb und inszenierte den Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-009-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-009-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet den Schauplatz mit der Funktion der Hauptfigur.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Fog",
+          "checked_on": "2026-10-08",
+          "supports": "Stevie betreibt ihren Radiosender im Leuchtturm."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/53898-THE-FOG",
+          "checked_on": "2026-10-08",
+          "supports": "Stevie betreibt ihren Radiosender im Leuchtturm."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-009-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-009-L2",
+      "goal_kind": "content",
+      "interest_reason": "Ordnet den Zeitpunkt des Geschehens in die Stadtgeschichte ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Fog",
+          "checked_on": "2026-10-08",
+          "supports": "Die Stadt feiert ihr hundertjähriges Bestehen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/53898-THE-FOG",
+          "checked_on": "2026-10-08",
+          "supports": "Die Stadt feiert ihr hundertjähriges Bestehen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-009-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-009-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den konkreten Zugang zur historischen Enthüllung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Fog",
+          "checked_on": "2026-10-08",
+          "supports": "Ein herausgefallener Mauerstein legt das Tagebuch frei."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/53898-THE-FOG",
+          "checked_on": "2026-10-08",
+          "supports": "Ein herausgefallener Mauerstein legt das Tagebuch frei."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-009-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-009-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die Verbindung zwischen Wohlstand und Gründungsschuld.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Fog",
+          "checked_on": "2026-10-08",
+          "supports": "Die Stadtgründung beruht auf geraubtem Gold der Elizabeth Dane."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/53898-THE-FOG",
+          "checked_on": "2026-10-08",
+          "supports": "Die Stadtgründung beruht auf geraubtem Gold der Elizabeth Dane."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-009-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-009-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet ein frühes Omen mit dem Racheplan.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Fog",
+          "checked_on": "2026-10-08",
+          "supports": "Die Inschrift DANE wechselt vorübergehend zu „6 MUST DIE“."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/53898-THE-FOG",
+          "checked_on": "2026-10-08",
+          "supports": "Die Inschrift DANE wechselt vorübergehend zu „6 MUST DIE“."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-009-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-009-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die letzte Umkehr der scheinbaren Rettung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Fog",
+          "checked_on": "2026-10-08",
+          "supports": "Blake erscheint erneut und tötet Malone."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/53898-THE-FOG",
+          "checked_on": "2026-10-08",
+          "supports": "Blake erscheint erneut und tötet Malone."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-009-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-009-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verankert das Erstjahr über eine frühe Carpenter-Verbindung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/53898-THE-FOG",
+          "checked_on": "2026-10-08",
+          "supports": "Der Originalfilm erschien 1980."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Fog",
+          "checked_on": "2026-10-08",
+          "supports": "Der Originalfilm erschien 1980."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-009-D",
+      "knowledge_id": "K-G100-20261008-HORROR-009-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die Hauptregie ohne Vermischung mit Produktionscredits zu.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/53898-THE-FOG",
+          "checked_on": "2026-10-08",
+          "supports": "John Carpenter führte allein Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-010-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-010-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die zentrale Erwartung an den ungewöhnlichen Helfer.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Fright_Night",
+          "checked_on": "2026-10-08",
+          "supports": "Peter Vincent ist Horrorfilm-Moderator und Schauspieler."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67052-FRIGHT-NIGHT",
+          "checked_on": "2026-10-08",
+          "supports": "Peter Vincent ist Horrorfilm-Moderator und Schauspieler."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-010-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-010-L2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet eine Familienentscheidung mit einer Vampirregel.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Fright_Night",
+          "checked_on": "2026-10-08",
+          "supports": "Charleys Mutter lädt den Nachbarn ins Haus ein."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67052-FRIGHT-NIGHT",
+          "checked_on": "2026-10-08",
+          "supports": "Charleys Mutter lädt den Nachbarn ins Haus ein."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-010-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-010-M1",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet einen gespielten Beweis von einer echten Prüfung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Fright_Night",
+          "checked_on": "2026-10-08",
+          "supports": "Der vermeintliche Test verwendet ungesegnetes Leitungswasser."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67052-FRIGHT-NIGHT",
+          "checked_on": "2026-10-08",
+          "supports": "Der vermeintliche Test verwendet ungesegnetes Leitungswasser."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-010-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-010-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die gefährliche Folge einer Entdeckung statt nur eine allgemeine Vampirregel.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Fright_Night",
+          "checked_on": "2026-10-08",
+          "supports": "Der zurückgebliebene Spiegelsplitter verrät die Entdeckung."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67052-FRIGHT-NIGHT",
+          "checked_on": "2026-10-08",
+          "supports": "Der zurückgebliebene Spiegelsplitter verrät die Entdeckung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-010-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-010-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den Zusammenhang zwischen Glauben und Schutzregel.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Fright_Night",
+          "checked_on": "2026-10-08",
+          "supports": "Dem Kreuz fehlt Peters wirklicher Glaube."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-010-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-010-S2",
+      "goal_kind": "content",
+      "interest_reason": "Belegt Peters Handlungsfähigkeit ohne Eds endgültiges Schicksal zu behaupten.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Fright_Night",
+          "checked_on": "2026-10-08",
+          "supports": "Peter benutzt ein abgebrochenes Tischbein als Pfahl."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67052-FRIGHT-NIGHT",
+          "checked_on": "2026-10-08",
+          "supports": "Peter benutzt ein abgebrochenes Tischbein als Pfahl."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-010-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-010-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet zwei konkrete Horrorwerke in Hollands Filmografie.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67052-FRIGHT-NIGHT",
+          "checked_on": "2026-10-08",
+          "supports": "Fright Night erschien 1985."
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://catalog.afi.com/Film/58582-CHILDS-PLAY",
+          "checked_on": "2026-10-08",
+          "supports": "Fright Night erschien 1985."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-010-D",
+      "knowledge_id": "K-G100-20261008-HORROR-010-D",
+      "goal_kind": "director",
+      "interest_reason": "Sichert den Hauptcredit des Originals gegenüber späteren Fassungen.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67052-FRIGHT-NIGHT",
+          "checked_on": "2026-10-08",
+          "supports": "Tom Holland führte allein Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Fright_Night",
+          "checked_on": "2026-10-08",
+          "supports": "Tom Holland führte allein Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-011-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-011-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die emotionale Ausgangslage in einer einfachen Beziehung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Phantasm_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jody ist Mikes älterer Bruder."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67731",
+          "checked_on": "2026-10-08",
+          "supports": "Jody ist Mikes älterer Bruder."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-011-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-011-L2",
+      "goal_kind": "content",
+      "interest_reason": "Gibt einer wichtigen Helferfigur einen alltäglichen Ausgangspunkt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Phantasm_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Reggie arbeitet als Eisverkäufer."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67731",
+          "checked_on": "2026-10-08",
+          "supports": "Reggie arbeitet als Eisverkäufer."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-011-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-011-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den ersten körperlichen Hinweis auf das Unheimliche.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Phantasm_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Mike sieht den Bestatter einen schweren Sarg allein anheben."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67731",
+          "checked_on": "2026-10-08",
+          "supports": "Mike sieht den Bestatter einen schweren Sarg allein anheben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-011-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-011-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verknüpft einen Beweisversuch mit einer neuen Bedrohung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Phantasm_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der abgetrennte Finger bleibt lebendig und wird zu einem Insektenwesen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67731",
+          "checked_on": "2026-10-08",
+          "supports": "Der abgetrennte Finger bleibt lebendig und wird zu einem Insektenwesen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-011-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-011-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die größere Funktion der Leichendiebstähle.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Phantasm_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Tall Man macht aus gestohlenen Leichen verkleinerte Sklaven."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67731",
+          "checked_on": "2026-10-08",
+          "supports": "Der Tall Man macht aus gestohlenen Leichen verkleinerte Sklaven."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-011-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-011-S2",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet die konkrete Gegenwehr von einer endgültigen Lösung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Phantasm_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Mike lockt den Gegner in die Grube, Jody lässt Steine auf ihn fallen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67731",
+          "checked_on": "2026-10-08",
+          "supports": "Mike lockt den Gegner in die Grube, Jody lässt Steine auf ihn fallen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-011-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-011-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet den Horrordurchbruch mit einem früheren Werk.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67731",
+          "checked_on": "2026-10-08",
+          "supports": "Phantasm erschien 1979."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-011-D",
+      "knowledge_id": "K-G100-20261008-HORROR-011-D",
+      "goal_kind": "director",
+      "interest_reason": "Trennt ähnliche Familiennamen und ihre tatsächlichen Credits.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67731",
+          "checked_on": "2026-10-08",
+          "supports": "Don Coscarelli führte allein Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-012-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-012-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert den Protagonisten vor der Begegnung mit dem Verfolger.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hitcher_(1986_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jim überführt einen Wagen von Chicago nach San Diego."
+        },
+        {
+          "key": "afi",
+          "url": "https://watch.afi.com/movie/the-hitcher-1986",
+          "checked_on": "2026-10-08",
+          "supports": "Jim überführt einen Wagen von Chicago nach San Diego."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-012-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-012-L2",
+      "goal_kind": "content",
+      "interest_reason": "Ordnet eine wichtige Helferin in den Handlungsbeginn ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hitcher_(1986_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Nash ist Kellnerin in einem Diner."
+        },
+        {
+          "key": "afi",
+          "url": "https://watch.afi.com/movie/the-hitcher-1986",
+          "checked_on": "2026-10-08",
+          "supports": "Nash ist Kellnerin in einem Diner."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-012-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-012-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst einen konkreten Fluchtmechanismus.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hitcher_(1986_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jim stößt den unangeschnallten Ryder aus dem fahrenden Auto."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-012-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-012-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt einen makabren Hinweis ohne eine Opferidentität zu erfinden.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hitcher_(1986_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jim findet einen abgetrennten Finger zwischen seinen Pommes."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-012-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-012-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt das praktische Dilemma der Geiselrettung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hitcher_(1986_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Kupplung verbindet Ryders Kontrolle unmittelbar mit Nashs Leben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-012-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-012-S2",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet die Schlusskonfrontation vom früheren Geiseldilemma.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hitcher_(1986_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jim tötet Ryder am Ende mit einer Schrotflinte."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-012-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-012-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verankert das Erstjahr durch einen konkreten Fassungsvergleich.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://watch.afi.com/movie/the-hitcher-1986",
+          "checked_on": "2026-10-08",
+          "supports": "Das Original erschien 1986."
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://www.universalpicturesathome.com/movies/the-hitcher-2007",
+          "checked_on": "2026-10-08",
+          "supports": "Das Original erschien 1986."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-012-D",
+      "knowledge_id": "K-G100-20261008-HORROR-012-D",
+      "goal_kind": "director",
+      "interest_reason": "Sichert den Hauptcredit gegenüber Remake und technischen Teilcredits.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://watch.afi.com/movie/the-hitcher-1986",
+          "checked_on": "2026-10-08",
+          "supports": "Robert Harmon führte allein Hauptregie."
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://www.universalpicturesathome.com/movies/the-hitcher-2007",
+          "checked_on": "2026-10-08",
+          "supports": "Robert Harmon führte allein Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-013-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-013-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die Hauptfigur in der Medienwelt des Films.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Howling_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Karen White ist Fernsehjournalistin."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56643-THE-HOWLING",
+          "checked_on": "2026-10-08",
+          "supports": "Karen White ist Fernsehjournalistin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-013-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-013-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den Ortswechsel als scheinbare Hilfe.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Howling_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Waggner empfiehlt die Colony als Rückzugsort."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56643-THE-HOWLING",
+          "checked_on": "2026-10-08",
+          "supports": "Waggner empfiehlt die Colony als Rückzugsort."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-013-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-013-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst einen nachvollziehbaren Schritt der Nachforschung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Howling_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Terrys Vergleich der Landschaftszeichnungen führt zur Colony."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56643-THE-HOWLING",
+          "checked_on": "2026-10-08",
+          "supports": "Terrys Vergleich der Landschaftszeichnungen führt zur Colony."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-013-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-013-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verknüpft eine Gegenwehr mit dem späteren Zustand des Gegners.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Howling_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Karen spritzt Eddie ätzende Säure ins Gesicht."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56643-THE-HOWLING",
+          "checked_on": "2026-10-08",
+          "supports": "Karen spritzt Eddie ätzende Säure ins Gesicht."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-013-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-013-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die Vertrauensumkehr hinter der Colony.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Howling_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der scheinbare Helfer Waggner ist selbst ein Werwolf."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56643-THE-HOWLING",
+          "checked_on": "2026-10-08",
+          "supports": "Der scheinbare Helfer Waggner ist selbst ein Werwolf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-013-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-013-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den satirischen Mediengedanken der Schlussfolge.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Howling_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Einige Zuschauer halten die Verwandlung für einen inszenierten Fernseheffekt."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56643-THE-HOWLING",
+          "checked_on": "2026-10-08",
+          "supports": "Einige Zuschauer halten die Verwandlung für einen inszenierten Fernseheffekt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-013-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-013-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verankert das Erstjahr über eine konkrete kreative Zusammenarbeit.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56643-THE-HOWLING",
+          "checked_on": "2026-10-08",
+          "supports": "The Howling erschien 1981."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-013-D",
+      "knowledge_id": "K-G100-20261008-HORROR-013-D",
+      "goal_kind": "director",
+      "interest_reason": "Trennt Hauptregie, Drehbuch und frühere Entwicklungsabsichten.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56643-THE-HOWLING",
+          "checked_on": "2026-10-08",
+          "supports": "Joe Dante führte allein Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-014-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-014-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die geplante Reise vor dem Ausbruch des Horrors.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Final_Destination_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Schulgruppe will nach Paris fliegen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-014-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-014-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die zentrale Fähigkeit des Protagonisten.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Final_Destination_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Alex sieht vor dem Start eine Explosion des Flugzeugs voraus."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-014-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-014-M1",
+      "goal_kind": "content",
+      "interest_reason": "Trennt die gezeigte Todesursache von ihrer ersten Deutung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Final_Destination_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Tod wird nach einem Ausrutschen von einer Wäscheleine stranguliert."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-014-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-014-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die vorläufige Regel anhand ihrer konkreten Entdeckung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Final_Destination_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ein verhindertes Todesereignis lässt die Reihenfolge weiterlaufen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-014-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-014-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den entscheidenden Fehler in der Rekonstruktion.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Final_Destination_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der vergessene Platztausch verändert Alex’ Reihenfolgenmodell."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-014-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-014-S2",
+      "goal_kind": "content",
+      "interest_reason": "Beschreibt die Schlusswendung ohne eine spätere Bestätigung vorwegzunehmen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Final_Destination_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Schild schwingt nach Carters Rettungsaktion gegen ihn zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-014-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-014-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet zwei konkrete Horrorwerke und hält ähnliche Regienamen auseinander.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/545dcfbd-7c17-513a-9cfc-63527e3d2fc7/final-destination",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Film erschien 2000."
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://www.bfi.org.uk/film/b0f6df48-18b5-5a2c-aa52-2c42e6db1dd2/insidious",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Film erschien 2000."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-014-D",
+      "knowledge_id": "K-G100-20261008-HORROR-014-D",
+      "goal_kind": "director",
+      "interest_reason": "Sichert den vollständigen Hauptcredit und trennt weitere Beteiligte.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/545dcfbd-7c17-513a-9cfc-63527e3d2fc7/final-destination",
+          "checked_on": "2026-10-08",
+          "supports": "James Wong führte allein Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Final_Destination_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "James Wong führte allein Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-015-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-015-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die Grundbeziehung der beiden Hauptfiguren.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Jeepers_Creepers_(2001_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Trish und Darry sind Geschwister."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-015-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-015-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die Entdeckung, die aus Misstrauen eine Gewissheit macht.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Jeepers_Creepers_(2001_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Darry findet einen unterirdischen Raum mit zusammengenähten Leichen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-015-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-015-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ordnet die Wissensquelle einer wichtigen Warnfigur ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Jeepers_Creepers_(2001_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jezelle warnt aufgrund ihrer übersinnlichen Visionen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-015-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-015-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt, warum Verletzungen die Gefahr nicht zuverlässig beenden.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Jeepers_Creepers_(2001_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Creeper regeneriert sich mit geraubten menschlichen Körperteilen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-015-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-015-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die gescheiterte Rettung in der Schlusskonfrontation.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Jeepers_Creepers_(2001_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Trish kann Darry durch ihr Selbstopferangebot nicht retten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-015-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-015-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die letzte Enthüllung über das ausgewählte Körperteil.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Jeepers_Creepers_(2001_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Schlussbild zeigt Darrys entfernte Augen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-015-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-015-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verankert den Reihenauftakt über eine konkrete Genreverbindung.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/76a22eac-abb5-5fb3-bf91-d964a7cdb3bb/jeepers-creepers",
+          "checked_on": "2026-10-08",
+          "supports": "Jeepers Creepers erschien 2001."
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://watch.afi.com/movie/the-hitcher-1986",
+          "checked_on": "2026-10-08",
+          "supports": "Jeepers Creepers erschien 2001."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-015-D",
+      "knowledge_id": "K-G100-20261008-HORROR-015-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die Hauptregie des konkreten Reihenauftakts zu.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/76a22eac-abb5-5fb3-bf91-d964a7cdb3bb/jeepers-creepers",
+          "checked_on": "2026-10-08",
+          "supports": "Victor Salva führte allein Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Jeepers_Creepers_(2001_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Victor Salva führte allein Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-016-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-016-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst das Familienproblem vor seiner übernatürlichen Deutung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Insidious_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Dalton fällt in einen zunächst unerklärten komaähnlichen Zustand."
+        },
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/insidious",
+          "checked_on": "2026-10-08",
+          "supports": "Dalton fällt in einen zunächst unerklärten komaähnlichen Zustand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-016-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-016-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den gescheiterten Versuch, die Bedrohung räumlich zu verlassen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Insidious_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Umzug beendet die unheimlichen Ereignisse nicht."
+        },
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/insidious",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Umzug beendet die unheimlichen Ereignisse nicht."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-016-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-016-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verknüpft das medizinische Rätsel mit dem Mechanismus des Spuks.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Insidious_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Daltons Bewusstsein hat sich bei einer astralen Reise im Further verirrt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-016-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-016-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den konkreten Auslöser für Joshs Meinungswechsel.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Insidious_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Daltons Zeichnungen bestätigen für Josh Teile von Elises Erklärung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-016-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-016-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den konkreten Zugang zur Rettungsmission.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Insidious_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Elise ermöglicht Joshs astrale Reise durch eine hypnotische Trance."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-016-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-016-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die Schlussenthüllung allein aus dem ersten Film.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Insidious_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Foto enthüllt die Geisterfrau in Joshs zurückgekehrtem Körper."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-016-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-016-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verankert das Erstjahr und erklärt die verbreitete regionale Jahresabweichung.",
+      "sources": [
+        {
+          "key": "tiff",
+          "url": "https://tiffmidnightmadness.blogspot.com/2010/09/insidious-premieres-tonight.html",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste öffentliche Veröffentlichung fand 2010 bei TIFF statt."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/b0f6df48-18b5-5a2c-aa52-2c42e6db1dd2/insidious",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste öffentliche Veröffentlichung fand 2010 bei TIFF statt."
+        },
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/insidious",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste öffentliche Veröffentlichung fand 2010 bei TIFF statt."
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://www.sonypictures.com/movies/insidiouschapter2",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste öffentliche Veröffentlichung fand 2010 bei TIFF statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-016-D",
+      "knowledge_id": "K-G100-20261008-HORROR-016-D",
+      "goal_kind": "director",
+      "interest_reason": "Sichert den Hauptcredit und löst zwei konkrete Verwechslungsrisiken.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/b0f6df48-18b5-5a2c-aa52-2c42e6db1dd2/insidious",
+          "checked_on": "2026-10-08",
+          "supports": "James Wan führte allein Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-017-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-017-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Ortswechsel grenzt die beiden Hauptfilme ab.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+          "checked_on": "2026-10-08",
+          "supports": "Der zentrale Familienfall spielt in Enfield."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-017-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-017-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die familiäre Beziehung erklärt Peggys Sorge um Janet.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+          "checked_on": "2026-10-08",
+          "supports": "Peggy ist Janets Mutter."
+        },
+        {
+          "key": "producer",
+          "url": "https://ratpacentertainment.com/the-conjuring-2",
+          "checked_on": "2026-10-08",
+          "supports": "Peggy ist Janets Mutter."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-017-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-017-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkreter Beleg verändert die Untersuchung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+          "checked_on": "2026-10-08",
+          "supports": "Das Küchenvideo wirkt wie ein Beleg für vorgetäuschte Erscheinungen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-017-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-017-M2",
+      "goal_kind": "content",
+      "interest_reason": "Ein wiederkehrendes Bild baut die persönliche Bedrohung auf.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+          "checked_on": "2026-10-08",
+          "supports": "Die Vision kündigt eine tödliche Spitze als Gefahr an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-017-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-017-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Enthüllung ordnet den scheinbaren Gegner neu ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+          "checked_on": "2026-10-08",
+          "supports": "Der scheinbare Hauptgeist verdeckt den eigentlichen Gegner."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-017-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-017-S2",
+      "goal_kind": "content",
+      "interest_reason": "Eine frühere Wahrnehmung erhält erst im Finale ihren Nutzen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+          "checked_on": "2026-10-08",
+          "supports": "Die Kenntnis des Namens ermöglicht die entscheidende Bannung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-017-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-017-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die Hauptreihe und ihre Ableger haben unterschiedliche Zählungen.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.wbsl.com/studios/work/the-conjuring-2/",
+          "checked_on": "2026-10-08",
+          "supports": "Der zweite Hauptfilm erschien 2016."
+        },
+        {
+          "key": "first",
+          "url": "https://www.bfi.org.uk/film/10e05eb0-4909-5bd4-9acc-83b3247c5ece/the-conjuring",
+          "checked_on": "2026-10-08",
+          "supports": "Der zweite Hauptfilm erschien 2016."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+          "checked_on": "2026-10-08",
+          "supports": "Der zweite Hauptfilm erschien 2016."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-017-D",
+      "knowledge_id": "K-G100-20261008-HORROR-017-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Regiezuordnung trennt Hauptfolge und Ableger.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.wbsl.com/studios/work/the-conjuring-2/",
+          "checked_on": "2026-10-08",
+          "supports": "James Wan führte erneut Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+          "checked_on": "2026-10-08",
+          "supports": "James Wan führte erneut Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-018-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-018-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Horror beginnt in einer gewöhnlichen beruflichen Situation.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Drag_Me_to_Hell",
+          "checked_on": "2026-10-08",
+          "supports": "Christine arbeitet in der Kreditabteilung einer Bank."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/drag-me-to-hell",
+          "checked_on": "2026-10-08",
+          "supports": "Christine arbeitet in der Kreditabteilung einer Bank."
+        },
+        {
+          "key": "press",
+          "url": "https://cdn-media.festival-cannes.com/film_film/0001/70/afa074b4d47d9cd3f54aea694190e2572cdddaee.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Christine arbeitet in der Kreditabteilung einer Bank."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-018-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-018-L2",
+      "goal_kind": "content",
+      "interest_reason": "Eine konkrete Bitte macht die Ausgangsentscheidung verständlich.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Drag_Me_to_Hell",
+          "checked_on": "2026-10-08",
+          "supports": "Die Bitte betrifft mehr Zeit zur Bedienung des Hauskredits."
+        },
+        {
+          "key": "press",
+          "url": "https://cdn-media.festival-cannes.com/film_film/0001/70/afa074b4d47d9cd3f54aea694190e2572cdddaee.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Die Bitte betrifft mehr Zeit zur Bedienung des Hauskredits."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-018-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-018-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ein gewöhnlicher Gegenstand strukturiert die Fluchhandlung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Drag_Me_to_Hell",
+          "checked_on": "2026-10-08",
+          "supports": "Der Fluch wird an einen Mantelknopf gebunden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-018-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-018-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der misslingende Plan verbindet Ritual und unkontrollierbaren Verlauf.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Drag_Me_to_Hell",
+          "checked_on": "2026-10-08",
+          "supports": "Die Ziege soll den Dämon aufnehmen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-018-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-018-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Rettungssuche wird zur moralischen Entscheidung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Drag_Me_to_Hell",
+          "checked_on": "2026-10-08",
+          "supports": "Christine gibt ihren geplanten Fluchtransfer aus Mitleid auf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-018-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-018-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Auflösung verbindet ein kleines Requisit mit dem Ausgang.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Drag_Me_to_Hell",
+          "checked_on": "2026-10-08",
+          "supports": "Der falsche Umschlag lässt den Fluch bei Christine."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-018-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-018-Y",
+      "goal_kind": "year",
+      "interest_reason": "Eine belegte frühere Rolle dient als Zeitanker.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/drag-me-to-hell",
+          "checked_on": "2026-10-08",
+          "supports": "Raimis Horrorfilm erschien 2009."
+        },
+        {
+          "key": "press",
+          "url": "https://cdn-media.festival-cannes.com/film_film/0001/70/afa074b4d47d9cd3f54aea694190e2572cdddaee.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Raimis Horrorfilm erschien 2009."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-018-D",
+      "knowledge_id": "K-G100-20261008-HORROR-018-D",
+      "goal_kind": "director",
+      "interest_reason": "Credits unterscheiden Inszenierung, Mitautorschaft und Produktion.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/drag-me-to-hell",
+          "checked_on": "2026-10-08",
+          "supports": "Sam Raimi kehrt hier zum Horror zurück."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/64873-DRAG-ME-TO-HELL",
+          "checked_on": "2026-10-08",
+          "supports": "Sam Raimi kehrt hier zum Horror zurück."
+        },
+        {
+          "key": "press",
+          "url": "https://cdn-media.festival-cannes.com/film_film/0001/70/afa074b4d47d9cd3f54aea694190e2572cdddaee.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Sam Raimi kehrt hier zum Horror zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-019-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-019-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die Reiseentscheidung öffnet den Weg in die Gefahr.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Tipp führt die Reisenden in die Slowakei."
+        },
+        {
+          "key": "commission",
+          "url": "https://filmcommission.gov.cz/en/film/hostel/",
+          "checked_on": "2026-10-08",
+          "supports": "Der Tipp führt die Reisenden in die Slowakei."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-019-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-019-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das Geschäftsmodell erklärt mehrere zuvor rätselhafte Ereignisse.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Club verkauft seinen Kunden Gewalt gegen Menschen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-019-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-019-M1",
+      "goal_kind": "content",
+      "interest_reason": "Eine kleine Wegabweichung hat große Folgen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Sein Einschluss im Vorratsraum verzögert die Verschleppung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-019-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-019-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Kontrollverlust des Täters ermöglicht Gegenwehr.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Kettensäge zerstört versehentlich seine Handfesseln."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-019-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-019-S1",
+      "goal_kind": "content",
+      "interest_reason": "Eine frühere Begegnung erhält einen neuen Nutzen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Süßigkeiten verwandeln die frühere Bedrohung in Fluchthilfe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-019-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-019-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Schluss greift eine frühe Begegnung wieder auf.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Stimme führt Paxton zu seinem früheren Peiniger."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-019-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-019-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der frühere Film bietet einen Regisseur- und Zeitbezug.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/2307de36-952b-5e62-9881-8ee14a351633/hostel",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste öffentliche Auswertung begann 2005."
+        },
+        {
+          "key": "commission",
+          "url": "https://filmcommission.gov.cz/en/film/hostel/",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste öffentliche Auswertung begann 2005."
+        },
+        {
+          "key": "earlier",
+          "url": "https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam::WScontent::loadArticle::permalink=bfifrightnightimax",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste öffentliche Auswertung begann 2005."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste öffentliche Auswertung begann 2005."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-019-D",
+      "knowledge_id": "K-G100-20261008-HORROR-019-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Zuordnung klärt eine prominent beworbene Zusammenarbeit.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/2307de36-952b-5e62-9881-8ee14a351633/hostel",
+          "checked_on": "2026-10-08",
+          "supports": "Eli Roth inszenierte und schrieb den Film."
+        },
+        {
+          "key": "commission",
+          "url": "https://filmcommission.gov.cz/en/film/hostel/",
+          "checked_on": "2026-10-08",
+          "supports": "Eli Roth inszenierte und schrieb den Film."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Eli Roth inszenierte und schrieb den Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-020-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-020-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die ursprüngliche Bedeutung des Gegenstands verstärkt die spätere Bedrohung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annabelle_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Puppe ist ein Geschenk vor der Geburt des ersten Kindes."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-020-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-020-L2",
+      "goal_kind": "content",
+      "interest_reason": "Eine Nebenfigur erhält eine konkrete Funktion im Erkenntnisweg.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annabelle_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Evelyn führt einen Buchladen und hilft Mia."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-020-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-020-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkreter Fund widerlegt die Hoffnung auf einen sicheren Neuanfang.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annabelle_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die entsorgte Puppe erscheint zwischen den Umzugssachen wieder."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-020-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-020-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Szene nutzt das Vertrauen in eine Helferfigur.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annabelle_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Gestalt des Priesters verschafft dem Dämon Zugang."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-020-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-020-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Enthüllung erklärt den Zweck der Bedrohung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annabelle_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Bedrohung des Kindes soll die Mutter zum Opfer drängen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-020-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-020-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Helferin handelt aus einer eigenen Verlustgeschichte.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annabelle_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Evelyn nimmt das Opfer auf sich."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-020-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-020-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die Veröffentlichung folgt einer anderen Reihenfolge als die Handlung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/70587?cxt=filmography",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste eigenständige Annabelle-Film erschien 2014."
+        },
+        {
+          "key": "first",
+          "url": "https://www.bfi.org.uk/film/10e05eb0-4909-5bd4-9acc-83b3247c5ece/the-conjuring",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste eigenständige Annabelle-Film erschien 2014."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annabelle_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste eigenständige Annabelle-Film erschien 2014."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-020-D",
+      "knowledge_id": "K-G100-20261008-HORROR-020-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Arbeitsteilung klärt den Credit eines bekannten Ablegers.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/70587?cxt=filmography",
+          "checked_on": "2026-10-08",
+          "supports": "John R. Leonetti führte Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annabelle_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "John R. Leonetti führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-021-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-021-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Anlass erklärt die Zusammensetzung der Gruppe.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_(2006_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Familie reist anlässlich der Silberhochzeit."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-021-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-021-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Panne ist Teil eines gezielten Hinterhalts.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_(2006_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Eine versteckte Nagelsperre stoppt die Weiterfahrt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-021-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-021-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Abfolge zeigt einen koordinierten Hinterhalt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_(2006_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Angriff auf den Vater ist eine Ablenkung für den Wohnwagenüberfall."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-021-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-021-M2",
+      "goal_kind": "content",
+      "interest_reason": "Ein Handlungsort erschließt den Hintergrund der Bedrohung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_(2006_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das frühere Testdorf dient den Angreifern als Lebensraum."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-021-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-021-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Entscheidung durchbricht eine pauschale Zuordnung der Gegnerfamilie.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_(2006_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ruby opfert sich, um den erneuten Angriff zu verhindern."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-021-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-021-S2",
+      "goal_kind": "content",
+      "interest_reason": "Eine Perspektivänderung verändert die Bedeutung des Schlusses.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_(2006_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ein unbekannter Beobachter verhindert einen sicheren Entwarnungsschluss."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-021-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-021-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zwei getrennte Fassungen bilden einen eindeutigen Zeitvergleich.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/7a719462-14b2-5de4-9a7c-7f32ae145bfe/the-hills-have-eyes",
+          "checked_on": "2026-10-08",
+          "supports": "Ajas Neuverfilmung erschien 2006."
+        },
+        {
+          "key": "original",
+          "url": "https://www.bfi.org.uk/film/b706a5da-f803-50d0-90ab-4d31694a4d08/the-hills-have-eyes",
+          "checked_on": "2026-10-08",
+          "supports": "Ajas Neuverfilmung erschien 2006."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_(2006_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ajas Neuverfilmung erschien 2006."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-021-D",
+      "knowledge_id": "K-G100-20261008-HORROR-021-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Creditprüfung trennt Original, Remake und Fortsetzung.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/7a719462-14b2-5de4-9a7c-7f32ae145bfe/the-hills-have-eyes",
+          "checked_on": "2026-10-08",
+          "supports": "Alexandre Aja ist der Hauptregisseur des Remakes."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/the-hills-have-eyes",
+          "checked_on": "2026-10-08",
+          "supports": "Alexandre Aja ist der Hauptregisseur des Remakes."
+        },
+        {
+          "key": "original",
+          "url": "https://www.bfi.org.uk/film/b706a5da-f803-50d0-90ab-4d31694a4d08/the-hills-have-eyes",
+          "checked_on": "2026-10-08",
+          "supports": "Alexandre Aja ist der Hauptregisseur des Remakes."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_(2006_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Alexandre Aja ist der Hauptregisseur des Remakes."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-022-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-022-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Einstieg folgt einer nachvollziehbaren Alltagssituation.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Ju-On:_The_Grudge",
+          "checked_on": "2026-10-08",
+          "supports": "Rika betritt das Haus für einen Betreuungsauftrag."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-022-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-022-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Grundregel macht die episodische Handlung verständlich.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Ju-On:_The_Grudge",
+          "checked_on": "2026-10-08",
+          "supports": "Das Betreten des Hauses bringt die Besucher in den Fluch."
+        },
+        {
+          "key": "cinema",
+          "url": "https://www.starandshadow.org.uk/programme/event/ju-on-the-grudge,9657/",
+          "checked_on": "2026-10-08",
+          "supports": "Das Betreten des Hauses bringt die Besucher in den Fluch."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-022-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-022-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ein alltäglicher Anlass bindet eine weitere Figur in den Fluch ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Ju-On:_The_Grudge",
+          "checked_on": "2026-10-08",
+          "supports": "Die Lehrerin verfolgt den Fall eines nie erschienenen Schülers."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-022-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-022-M2",
+      "goal_kind": "content",
+      "interest_reason": "Ein sichtbares Zeichen verbindet Erinnerung und aktuelle Verfolgung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Ju-On:_The_Grudge",
+          "checked_on": "2026-10-08",
+          "supports": "Geschwärzte Augen verbinden die Fotos mit der Bedrohung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-022-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-022-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Enthüllung erklärt die ungewöhnliche Erzählordnung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Ju-On:_The_Grudge",
+          "checked_on": "2026-10-08",
+          "supports": "Der Vater erlebt einen Vorgriff auf das spätere Ereignis."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-022-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-022-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die späte Perspektive verbindet Besucherin und Ursprung der Gewalt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Ju-On:_The_Grudge",
+          "checked_on": "2026-10-08",
+          "supports": "Rika nimmt die Opferrolle Kayakos ein."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-022-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-022-Y",
+      "goal_kind": "year",
+      "interest_reason": "Festivalbeginn, Kinoauswertung und Fortsetzung bleiben getrennt.",
+      "sources": [
+        {
+          "key": "festival",
+          "url": "https://www.screamfestnola.com/2002/festival/calendar",
+          "checked_on": "2026-10-08",
+          "supports": "Der öffentliche Festivalbeginn liegt 2002."
+        },
+        {
+          "key": "award",
+          "url": "https://screamfestla.com/article/2002/festival-winners",
+          "checked_on": "2026-10-08",
+          "supports": "Der öffentliche Festivalbeginn liegt 2002."
+        },
+        {
+          "key": "register",
+          "url": "https://jfdb.jp/en/title/49",
+          "checked_on": "2026-10-08",
+          "supports": "Der öffentliche Festivalbeginn liegt 2002."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-022-D",
+      "knowledge_id": "K-G100-20261008-HORROR-022-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Regiefrage bleibt an die konkrete Fassung gebunden.",
+      "sources": [
+        {
+          "key": "register",
+          "url": "https://jfdb.jp/en/title/49",
+          "checked_on": "2026-10-08",
+          "supports": "Takashi Shimizu inszenierte den japanischen Kinofilm."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Ju-On:_The_Grudge",
+          "checked_on": "2026-10-08",
+          "supports": "Takashi Shimizu inszenierte den japanischen Kinofilm."
+        },
+        {
+          "key": "cinema",
+          "url": "https://www.starandshadow.org.uk/programme/event/ju-on-the-grudge,9657/",
+          "checked_on": "2026-10-08",
+          "supports": "Takashi Shimizu inszenierte den japanischen Kinofilm."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-023-L1",
+      "knowledge_id": "K-G100-20261008-HORROR-023-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf erklärt den Beginn der Untersuchung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch",
+          "checked_on": "2026-10-08",
+          "supports": "Challis arbeitet als Arzt im Krankenhaus."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56790-HALLOWEEN-III-SEASON-OF-THE-WITCH",
+          "checked_on": "2026-10-08",
+          "supports": "Challis arbeitet als Arzt im Krankenhaus."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-023-L2",
+      "knowledge_id": "K-G100-20261008-HORROR-023-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das Verkaufsprodukt macht die Größenordnung des Plans verständlich.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch",
+          "checked_on": "2026-10-08",
+          "supports": "Die Kinder sollen Silver-Shamrock-Masken tragen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56790-HALLOWEEN-III-SEASON-OF-THE-WITCH",
+          "checked_on": "2026-10-08",
+          "supports": "Die Kinder sollen Silver-Shamrock-Masken tragen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-023-M1",
+      "knowledge_id": "K-G100-20261008-HORROR-023-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Kombination von Magie und Technik prägt den Gegnerplan.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch",
+          "checked_on": "2026-10-08",
+          "supports": "Die Chips enthalten Fragmente des Stonehenge-Steins."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56790-HALLOWEEN-III-SEASON-OF-THE-WITCH",
+          "checked_on": "2026-10-08",
+          "supports": "Die Chips enthalten Fragmente des Stonehenge-Steins."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-023-M2",
+      "knowledge_id": "K-G100-20261008-HORROR-023-M2",
+      "goal_kind": "content",
+      "interest_reason": "Ein Alltagsmedium wird zum Werkzeug des Angriffs.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch",
+          "checked_on": "2026-10-08",
+          "supports": "Der Fernsehspot aktiviert die Maskentechnik."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56790-HALLOWEEN-III-SEASON-OF-THE-WITCH",
+          "checked_on": "2026-10-08",
+          "supports": "Der Fernsehspot aktiviert die Maskentechnik."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-023-S1",
+      "knowledge_id": "K-G100-20261008-HORROR-023-S1",
+      "goal_kind": "content",
+      "interest_reason": "Das Finale setzt die Täuschung durch menschenähnliche Technik fort.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch",
+          "checked_on": "2026-10-08",
+          "supports": "Die vertraute Begleiterin ist eine robotische Gestalt."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56790-HALLOWEEN-III-SEASON-OF-THE-WITCH",
+          "checked_on": "2026-10-08",
+          "supports": "Die vertraute Begleiterin ist eine robotische Gestalt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-023-S2",
+      "knowledge_id": "K-G100-20261008-HORROR-023-S2",
+      "goal_kind": "content",
+      "interest_reason": "Das offene Ende trennt örtlichen Sieg und landesweite Entwarnung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch",
+          "checked_on": "2026-10-08",
+          "supports": "Die letzte Sendung wird nicht nachweislich verhindert."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56790-HALLOWEEN-III-SEASON-OF-THE-WITCH",
+          "checked_on": "2026-10-08",
+          "supports": "Die letzte Sendung wird nicht nachweislich verhindert."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-023-Y",
+      "knowledge_id": "K-G100-20261008-HORROR-023-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die Reihe erprobt nach vier Jahren ein anderes Erzählmodell.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56790-HALLOWEEN-III-SEASON-OF-THE-WITCH",
+          "checked_on": "2026-10-08",
+          "supports": "Die eigenständige dritte Folge erschien 1982."
+        },
+        {
+          "key": "original",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/56347?cxt=filmography",
+          "checked_on": "2026-10-08",
+          "supports": "Die eigenständige dritte Folge erschien 1982."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch",
+          "checked_on": "2026-10-08",
+          "supports": "Die eigenständige dritte Folge erschien 1982."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-HORROR-023-D",
+      "knowledge_id": "K-G100-20261008-HORROR-023-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Creditgeschichte begleitet den Wechsel zum eigenständigen Stoff.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56790-HALLOWEEN-III-SEASON-OF-THE-WITCH",
+          "checked_on": "2026-10-08",
+          "supports": "Tommy Lee Wallace inszenierte die eigenständige dritte Folge."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch",
+          "checked_on": "2026-10-08",
+          "supports": "Tommy Lee Wallace inszenierte die eigenständige dritte Folge."
+        },
+        {
+          "key": "original",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/56347?cxt=filmography",
+          "checked_on": "2026-10-08",
+          "supports": "Tommy Lee Wallace inszenierte die eigenständige dritte Folge."
+        }
+      ]
+    }
+  ]
+}

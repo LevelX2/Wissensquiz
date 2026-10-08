@@ -1,0 +1,217 @@
+{
+  "directors": [
+    "James Whale"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Universal-Fortsetzung mit Colin Clive und Elsa Lanchester. AFI führt die Auswertung am 22. April 1935; der Wikipedia-Filmartikel frühere Termine am 19./20. April. Erstjahr 1935; reguläres veröffentlichtes Ende, keine verworfenen Vorabsequenzen.",
+  "director_note": "James Whale trägt den alleinigen Hauptregiecredit. Kurt Neumanns früher geplantes, aufgegebenes Fortsetzungsprojekt ist kein zusätzlicher Regiecredit dieses Films.",
+  "series": {
+    "name": "Universal-Frankenstein",
+    "position": 2,
+    "note": "Direkte Fortsetzung des Universal-Frankenstein mit Colin Clive; die Veröffentlichungsgeschichte ist von anderen Verfilmungen getrennt."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: bedeutende Universal-Fortsetzung, deren genaue Rahmenhandlung und Nebenfiguren eher Kennern vertraut sind.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+    "afi": "https://catalog.afi.com/Film/5831-BRIDE-OF-FRANKENSTEIN",
+    "previous": "https://catalog.afi.com/Film/3925-FRANKENSTEIN"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wer erzählt im äußeren Rahmen von @ die weitere Geschichte?",
+      "answers": [
+        "Mary Shelley (Elsa Lanchester)",
+        "Percy Bysshe Shelley (Douglas Walton)",
+        "Lord Byron (Gavin Gordon)",
+        "Elizabeth Frankenstein (Valerie Hobson)"
+      ],
+      "feedback": [
+        "Mary Shelley kündigt die Fortsetzung ihrer Geschichte an.",
+        "Percy Shelley hört der Erzählung zu.",
+        "Lord Byron regt das Gespräch an, erzählt aber nicht die Fortsetzung.",
+        "Elizabeth gehört zur erzählten Handlung, nicht zu dieser Erzählerrolle."
+      ],
+      "short": "Mary Shelley setzt im Rahmen ihre Geschichte fort.",
+      "context": "Mary Shelley (Elsa Lanchester) sitzt mit Percy Bysshe Shelley (Douglas Walton) und Lord Byron (Gavin Gordon) während einer stürmischen Nacht zusammen. Sie erklärt, dass ihre Geschichte mit dem bisherigen Ende nicht abgeschlossen sei. Der Rahmen öffnet so den Weg zur Fortsetzung. Zugleich erscheint eine Autorin als handelnde Filmfigur; das Gespräch ist eine Inszenierung und kein dokumentarischer Mitschnitt der literarischen Entstehung.",
+      "anchor": "Mary Shelley öffnet den Rahmen zur Fortsetzung.",
+      "interest": "Verankert die besondere Erzählsituation.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wer bietet der Kreatur (Boris Karloff) in @ gastfreundlich Unterkunft?",
+      "answers": [
+        "Ein blinder Einsiedler",
+        "Ein stummer Totengräber",
+        "Ein alter Dorfschullehrer",
+        "Ein reisender Musikant"
+      ],
+      "feedback": [
+        "Der blinde Einsiedler nimmt sie als Freund auf.",
+        "Ein Totengräber ist nicht der Gastgeber.",
+        "Ein Dorfschullehrer bietet nicht diese Unterkunft.",
+        "Ein reisender Musikant ist nicht die gesuchte Figur."
+      ],
+      "short": "Ein blinder Einsiedler nimmt die Kreatur freundlich auf.",
+      "context": "Die Kreatur (Boris Karloff) folgt Musik zu einem abgelegenen Haus. Der blinde Einsiedler (Oliver Peters Heggie) nimmt sie auf, teilt Nahrung und freut sich über einen Freund. Weil er ihr Aussehen nicht wahrnimmt, beginnt die Begegnung ohne den sonst üblichen Schrecken. Erst andere Menschen zerstören diese Ruhe. Die Episode zeigt eine mögliche Gemeinschaft, die nicht an dem sichtbaren Erscheinungsbild des Gastes scheitert.",
+      "anchor": "Der blinde Gastgeber erkennt einen Freund statt eines Schreckbilds.",
+      "interest": "Erschließt die markante Gegenbewegung zur ständigen Verfolgung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche früheren Geschöpfe zeigt Pretorius (Ernest Thesiger) Henry (Colin Clive) in @?",
+      "answers": [
+        "Winzige Menschen in Glasgefäßen",
+        "Sprechende Vögel in Käfigen",
+        "Bewegliche Köpfe auf Metallgestellen",
+        "Lebende Hände in Wasserbecken"
+      ],
+      "feedback": [
+        "Pretorius präsentiert eine Gruppe winziger Menschen in Gläsern.",
+        "Sprechende Vögel sind nicht seine Vorführung.",
+        "Bewegliche Köpfe stehen hier nicht auf Metallgestellen.",
+        "Lebende Hände sind nicht die präsentierten Geschöpfe."
+      ],
+      "short": "Pretorius zeigt winzige künstliche Menschen in Glasgefäßen.",
+      "context": "Dr. Pretorius (Ernest Thesiger) führt Henry Frankenstein (Colin Clive) künstlich hervorgebrachte Miniaturmenschen vor. Sie bewegen sich in einzelnen Glasgefäßen und besitzen verschiedene Erscheinungsbilder. Die Vorführung unterscheidet seinen bisherigen Weg von Henrys Arbeit an einem großen zusammengesetzten Körper. Pretorius möchte nun beide Ansätze verbinden. Die kleinen Geschöpfe sind deshalb nicht bloß ein skurriler Einschub, sondern ein Argument innerhalb seiner Werbung um eine neue Zusammenarbeit.",
+      "anchor": "Die Miniaturmenschen werben für Pretorius’ nächsten Versuch.",
+      "interest": "Verbindet die ungewöhnliche Vorführung mit dem Kooperationsangebot.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Womit erzwingt Pretorius (Ernest Thesiger) Henrys (Colin Clive) Mitarbeit in @?",
+      "answers": [
+        "Mit der Entführung seiner Frau",
+        "Mit der Beschlagnahme des Familienvermögens",
+        "Mit einer tödlichen Vergiftung Henrys",
+        "Mit der Androhung einer öffentlichen Gerichtsverhandlung"
+      ],
+      "feedback": [
+        "Die entführte Elizabeth dient als Druckmittel.",
+        "Das Familienvermögen wird nicht als Druckmittel beschlagnahmt.",
+        "Eine Vergiftung Henrys erzwingt seine Mitarbeit nicht.",
+        "Eine angedrohte Gerichtsverhandlung ist nicht der entscheidende Zwang."
+      ],
+      "short": "Elizabeths Entführung zwingt Henry zur Mitarbeit.",
+      "context": "Henry Frankenstein (Colin Clive) will sich zunächst nicht an dem neuen Versuch beteiligen. Dr. Pretorius (Ernest Thesiger) lässt jedoch Elizabeth (Valerie Hobson) entführen und stellt ihre sichere Rückkehr in Aussicht, wenn Henry hilft. Aus dem fachlichen Angebot wird dadurch Erpressung. Der Forscher arbeitet nun nicht allein aus Neugier weiter: Die unmittelbare Sorge um seine Frau bindet ihn an den Plan des anderen Wissenschaftlers.",
+      "anchor": "Das Experiment wird durch Elizabeths Entführung erzwungen.",
+      "interest": "Erklärt den Umschlag vom Angebot zur Erpressung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie reagiert die geschaffene Partnerin (Elsa Lanchester) in @ auf die Kreatur (Boris Karloff)?",
+      "answers": [
+        "Sie schreit auf und weist sie zurück.",
+        "Sie begrüßt sie und sucht ihre Nähe.",
+        "Sie bleibt reglos und erkennt niemanden.",
+        "Sie greift sofort die Wissenschaftler an."
+      ],
+      "feedback": [
+        "Die Partnerin reagiert mit erschrockener Ablehnung.",
+        "Sie nimmt das Freundschaftsangebot nicht an.",
+        "Sie bleibt nicht ohne erkennbare Reaktion.",
+        "Ein sofortiger Angriff auf die Wissenschaftler ist nicht ihre erste Reaktion."
+      ],
+      "short": "Die erhoffte Partnerin weist die Kreatur erschrocken zurück.",
+      "context": "Die Kreatur (Boris Karloff) erwartet von der neu geschaffenen Partnerin (Elsa Lanchester) die Nähe, die ihr andere Menschen verweigert haben. Doch auch sie schreit beim Anblick des Wesens und lehnt es ab. Die technische Herstellung eines Gegenübers führt somit nicht automatisch zu Freundschaft. Gerade diese Enttäuschung verändert die Situation im Labor und leitet die zerstörerische Schlussentscheidung ein, obwohl das Experiment zunächst als gelungen erscheint.",
+      "anchor": "Ein erschaffenes Gegenüber ist noch keine gewonnene Freundin.",
+      "interest": "Erfasst das Scheitern der sozialen Hoffnung hinter dem Versuch.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wem gestattet die Kreatur (Boris Karloff) vor der Zerstörung des Labors in @ die Flucht?",
+      "answers": [
+        "Henry (Colin Clive) und Elizabeth (Valerie Hobson)",
+        "Henry (Colin Clive) und Pretorius (Ernest Thesiger)",
+        "Elizabeth (Valerie Hobson) und der Partnerin (Elsa Lanchester)",
+        "Pretorius (Ernest Thesiger) und der Partnerin (Elsa Lanchester)"
+      ],
+      "feedback": [
+        "Henry und Elizabeth dürfen das Labor verlassen.",
+        "Pretorius wird nicht mit Henry fortgeschickt.",
+        "Die Partnerin darf nicht mit Elizabeth fliehen.",
+        "Pretorius und die Partnerin bleiben im Labor."
+      ],
+      "short": "Die Kreatur lässt Henry und Elizabeth entkommen.",
+      "context": "Die Kreatur (Boris Karloff) unterscheidet vor ihrer letzten Handlung zwischen den Menschen im Labor. Henry Frankenstein (Colin Clive) und Elizabeth (Valerie Hobson) dürfen gehen. Dr. Pretorius (Ernest Thesiger) und die geschaffene Partnerin (Elsa Lanchester) sollen bleiben. Dann löst das Wesen die Zerstörung aus. Die Frage folgt dem veröffentlichten Ende; ein früher verworfener Schluss und verbliebene Bilder aus älteren Aufnahmen begründen keine gegenteilige Todeslösung.",
+      "anchor": "Henry und Elizabeth dürfen leben; die anderen bleiben.",
+      "interest": "Erfasst die gezielte Ausnahme vor der Schlusszerstörung.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Elsa Lanchester erstmals veröffentlicht?",
+      "answers": [
+        "1935",
+        "1931",
+        "1939",
+        "1943"
+      ],
+      "feedback": [
+        "1935 ist das Erstjahr der Fortsetzung.",
+        "1931 gehört zum vorausgehenden Universal-Film.",
+        "1939 ist vier Jahre später.",
+        "1943 liegt acht Jahre nach der Fortsetzung."
+      ],
+      "short": "Frankensteins Braut erschien erstmals 1935.",
+      "context": "Der vorausgehende Universal-Film Frankenstein erschien 1931; Frankensteins Braut folgte 1935, vier Jahre später. James Whale und Colin Clive kehrten zur Fortsetzung zurück, während Elsa Lanchester die neue Doppelrolle übernahm. Der Abstand verbindet die beiden Werke innerhalb derselben Filmfolge. Er erklärt zugleich, warum die Erzählung direkt an die brennende Mühle anknüpfen kann, obwohl zwischen den Veröffentlichungen mehrere Jahre liegen.",
+      "anchor": "Universal-Frankenstein 1931, Braut 1935: vier Jahre.",
+      "interest": "Verbindet Erstjahr und unmittelbaren Vorgänger.",
+      "sources": [
+        "afi",
+        "previous",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer trägt bei @ den Hauptregiecredit?",
+      "answers": [
+        "James Whale",
+        "Tod Browning",
+        "Rowland V. Lee",
+        "Erle C. Kenton"
+      ],
+      "feedback": [
+        "James Whale inszenierte die veröffentlichte Fortsetzung.",
+        "Tod Browning trägt hier keinen Hauptregiecredit.",
+        "Rowland V. Lee ist nicht der Regisseur dieser Fortsetzung.",
+        "Erle C. Kenton führte hier nicht Hauptregie."
+      ],
+      "short": "James Whale führte auch bei dieser Fortsetzung Hauptregie.",
+      "context": "James Whale kehrte für die veröffentlichte Fortsetzung zurück. AFI unterscheidet davon ein früher geplantes Projekt unter Kurt Neumann, das aufgegeben wurde. Solche Entwicklungswege erweitern den Hauptregiecredit des fertigen Films nicht. Die neue Erzählung verbindet die Verfolgung der Kreatur mit der Werbung eines zweiten Wissenschaftlers um Zusammenarbeit; neben dem Schrecken stehen dabei Gastfreundschaft, Einsamkeit und die enttäuschte Hoffnung auf eine Partnerin.",
+      "anchor": "Die veröffentlichte Fortsetzung bleibt ein Film von James Whale.",
+      "interest": "Verknüpft den Hauptcredit mit der abgegrenzten Produktionsgeschichte.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ],
+  "rank": 4
+}

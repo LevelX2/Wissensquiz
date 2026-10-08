@@ -1,0 +1,218 @@
+{
+  "rank": 17,
+  "directors": [
+    "James Wan"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA"
+  ],
+  "release_note": "Erstjahr 2016 durch die Warner-Studiofilmografie bestätigt. Der Cache nennt die Premiere am 7. Juni vor dem regulären US-Start am 10. Juni; keine Veröffentlichung 2015 aus dem Drehbeginn ableiten.",
+  "director_note": "James Wan ist Hauptregisseur; die Drehbuchmitarbeit mehrerer Personen ist kein Regieteam.",
+  "series": {
+    "name": "Conjuring",
+    "position": 2,
+    "note": "Zweiter Film der Hauptreihe; Annabelle- und Nun-Ableger haben eigene Positionen und Handlungschronologien."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: breit bekannter moderner Geisterfilm und direkter Nachfolger eines verbreiteten Kinoerfolgs.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+    "studio": "https://www.wbsl.com/studios/work/the-conjuring-2/",
+    "first": "https://www.bfi.org.uk/film/10e05eb0-4909-5bd4-9acc-83b3247c5ece/the-conjuring",
+    "countries": "https://core-cms.bfi.org.uk/media/916/download",
+    "producer": "https://ratpacentertainment.com/the-conjuring-2"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Londoner Stadtteil untersuchen Ed (Patrick Wilson) und Lorraine Warren (Vera Farmiga) in @ den Hodgson-Fall?",
+      "answers": [
+        "Enfield",
+        "Whitechapel",
+        "Chelsea",
+        "Greenwich"
+      ],
+      "feedback": [
+        "Der Fall führt sie nach Enfield.",
+        "Whitechapel ist nicht der Schauplatz dieses Familienfalls.",
+        "Die Familie lebt nicht in Chelsea.",
+        "Greenwich ist nicht der betreffende Stadtteil."
+      ],
+      "short": "Der zentrale Familienfall spielt in Enfield.",
+      "context": "Ed Warren (Patrick Wilson) und Lorraine Warren (Vera Farmiga) reisen zu Peggy Hodgson (Frances O’Connor) und ihren Kindern nach Enfield. Das Haus in einem Londoner Wohngebiet wird zum Schauplatz der Untersuchung. Der Film stellt damit einen anderen Familienfall als der Vorgänger ins Zentrum. Seine Darstellung behaupteter paranormaler Ereignisse ist eine dramatische Erzählung und bestätigt deren tatsächliche übernatürliche Ursache nicht.",
+      "anchor": "Enfield ist der Londoner Schauplatz des neuen Familienfalls.",
+      "interest": "Der Ortswechsel grenzt die beiden Hauptfilme ab.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Beziehung verbindet Peggy Hodgson (Frances O’Connor) und Janet (Madison Wolfe) in @?",
+      "answers": [
+        "Peggy ist Janets Mutter",
+        "Peggy ist Janets ältere Schwester",
+        "Peggy ist Janets Tante",
+        "Peggy ist Janets Lehrerin"
+      ],
+      "feedback": [
+        "Peggy ist die Mutter der betroffenen Familie.",
+        "Peggy gehört zur Elterngeneration, nicht zu Janets Geschwistern.",
+        "Sie wird nicht als Janets Tante vorgestellt.",
+        "Ihre Beziehung zu Janet ist familiär und keine Lehrerinnenrolle."
+      ],
+      "short": "Peggy ist Janets Mutter.",
+      "context": "Peggy Hodgson (Frances O’Connor) lebt mit ihren Kindern in dem Haus, in dem die Untersuchung stattfindet. Janet Hodgson (Madison Wolfe) ist ihre Tochter und gerät besonders ins Zentrum der bedrohlichen Erscheinungen. Peggys Sorge gilt deshalb zugleich dem Alltag der Familie und der Sicherheit ihres Kindes. Das Verhältnis verankert den Spuk in einem familiären Konflikt, bevor die Ermittler seine Ursache zu erklären versuchen.",
+      "anchor": "Peggy und Janet stehen als Mutter und Tochter im Familienfall.",
+      "interest": "Die familiäre Beziehung erklärt Peggys Sorge um Janet.",
+      "sources": [
+        "film",
+        "producer"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was lässt Anita Gregory (Franka Potente) in @ an der Echtheit des Spuks zweifeln?",
+      "answers": [
+        "Ein Video zeigt Janet beim absichtlichen Verwüsten der Küche",
+        "Eine Tonaufnahme enthält zuvor geprobte Interviewantworten",
+        "Ein Arztbericht erklärt sämtliche Erscheinungen durch Medikamente",
+        "Ein Brief nennt einen bezahlten Auftrag für die Inszenierung"
+      ],
+      "feedback": [
+        "Die Videoaufnahme belastet Janet.",
+        "Eine Aufnahme eingeübter Interviews ist nicht der gezeigte Beleg.",
+        "Ein solcher vollständiger Medikamentennachweis wird nicht vorgelegt.",
+        "Ein bezahlter Inszenierungsauftrag ist nicht das vorgezeigte Dokument."
+      ],
+      "short": "Das Küchenvideo wirkt wie ein Beleg für vorgetäuschte Erscheinungen.",
+      "context": "Anita Gregory (Franka Potente) zeigt Aufnahmen, auf denen Janet Hodgson (Madison Wolfe) die Küche selbst verwüstet. Ed Warren (Patrick Wilson) und Lorraine Warren (Vera Farmiga) müssen deshalb die Möglichkeit einer Täuschung ernst nehmen. Sie verlassen das Haus zunächst. Der Film trennt den beobachtbaren Täuschungsakt von der späteren Frage, weshalb Janet ihn begeht: Ein belastendes Bild beantwortet hier noch nicht den gesamten Fall.",
+      "anchor": "Das Küchenvideo führt zunächst zum Zweifel und Rückzug.",
+      "interest": "Ein konkreter Beleg verändert die Untersuchung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Gefahr für Ed (Patrick Wilson) sieht Lorraine (Vera Farmiga) in ihren Visionen in @?",
+      "answers": [
+        "Er wird aufgespießt",
+        "Er ertrinkt in einem überfluteten Keller",
+        "Er stirbt in einem Autounfall",
+        "Er verbrennt im Schlafzimmer"
+      ],
+      "feedback": [
+        "Die Vision zeigt seinen Tod durch Aufspießen.",
+        "Ein Kellerwasser-Unfall ist nicht die Vision.",
+        "Sie sieht keinen tödlichen Verkehrsunfall.",
+        "Ein Schlafzimmerbrand ist nicht das gezeigte Schicksal."
+      ],
+      "short": "Die Vision kündigt eine tödliche Spitze als Gefahr an.",
+      "context": "Lorraine Warren (Vera Farmiga) sieht Ed Warren (Patrick Wilson) in einer Vision aufgespießt. Diese Wahrnehmung lässt sie um ihren Mann fürchten und belastet ihre Bereitschaft, den neuen Fall anzunehmen. Beim späteren Fenstersturz entsteht im Garten eine entsprechende Spitze an einem Baum. Die wiederkehrende Bildform verbindet eine frühere Vorahnung mit der konkreten Rettungssituation, ohne den angekündigten Tod als unausweichlichen Ausgang festzulegen.",
+      "anchor": "Die Spitze verbindet Vorahnung und spätere Fenstergefahr.",
+      "interest": "Ein wiederkehrendes Bild baut die persönliche Bedrohung auf.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche Rolle spielt Bill Wilkins (Bob Adrian) nach der späten Erkenntnis der Warrens in @?",
+      "answers": [
+        "Er wird von der dämonischen Nonne als Werkzeug benutzt",
+        "Er schützt Janet heimlich vor der Nonne",
+        "Er ist Eds verstorbener Verwandter und sucht Versöhnung",
+        "Er verfolgt als selbstständiger Geist allein den Hausverkauf"
+      ],
+      "feedback": [
+        "Wilkins ist ein vorgeschobenes Werkzeug des eigentlichen Dämons.",
+        "Er wirkt nicht als heimlicher Beschützer gegen die Nonne.",
+        "Eine Verwandtschaft mit Ed begründet seine Rolle nicht.",
+        "Ein eigenständiger Hausverkaufsplan erklärt die Täuschung nicht."
+      ],
+      "short": "Der scheinbare Hauptgeist verdeckt den eigentlichen Gegner.",
+      "context": "Bill Wilkins (Bob Adrian) scheint zunächst die bestimmende Geistergestalt des Hauses zu sein. Ed Warren (Patrick Wilson) und Lorraine Warren (Vera Farmiga) erkennen später, dass die dämonische Nonne (Bonnie Aarons) ihn manipuliert. Sie benutzt die vorgeschobene Figur, um Janet Hodgson (Madison Wolfe) zu zermürben und die Untersuchung fehlzuleiten. Diese Einsicht verändert sowohl die Deutung der Stimme als auch den Grund für die Rückkehr ins Haus.",
+      "anchor": "Der sprechende Geist ist ein Werkzeug der Nonne.",
+      "interest": "Die Enthüllung ordnet den scheinbaren Gegner neu ein.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Womit gewinnt Lorraine (Vera Farmiga) in @ beim Finale Macht über den Dämon?",
+      "answers": [
+        "Sie spricht seinen zuvor notierten Namen aus",
+        "Sie verbrennt das Tagebuch des Hausbesitzers",
+        "Sie zerstört das Gemälde ihres Mannes",
+        "Sie lässt Janet öffentlich ihren Bericht widerrufen"
+      ],
+      "feedback": [
+        "Der ausgesprochene Name ermöglicht die Bannung.",
+        "Das Verbrennen eines Hausbesitzertagebuchs ist nicht der entscheidende Schritt.",
+        "Die Vernichtung des Bildes bannt den Gegner nicht im Finale.",
+        "Ein öffentlicher Widerruf beendet die Besessenheit nicht."
+      ],
+      "short": "Die Kenntnis des Namens ermöglicht die entscheidende Bannung.",
+      "context": "Lorraine Warren (Vera Farmiga) hat den Namen Valak während einer Vision in ihre Bibel geschrieben. Im Finale findet sie den Eintrag wieder und spricht den Dämon ausdrücklich mit diesem Namen an. Dadurch kann sie die dämonische Nonne (Bonnie Aarons) bannen und Ed Warren (Patrick Wilson) sowie Janet Hodgson (Madison Wolfe) retten. Eine zuvor rätselhafte Notiz wird so zum handlungsentscheidenden Wissen.",
+      "anchor": "Die Notiz wird zum Namen, mit dem Lorraine den Gegner bannt.",
+      "interest": "Eine frühere Wahrnehmung erhält erst im Finale ihren Nutzen.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ erstmals?",
+      "answers": [
+        "2016",
+        "2013",
+        "2019",
+        "2021"
+      ],
+      "feedback": [
+        "2016 ist das Erstjahr dieser Fortsetzung.",
+        "2013 gehört zum ersten Conjuring-Film.",
+        "2019 liegt drei Jahre danach.",
+        "2021 ist fünf Jahre zu spät."
+      ],
+      "short": "Der zweite Hauptfilm erschien 2016.",
+      "context": "Conjuring – Die Heimsuchung erschien 2013; Conjuring 2 folgte 2016, drei Jahre später. Beide Filme stellen dasselbe Untersuchungspaar in den Mittelpunkt, erzählen aber verschiedene Familienfälle. Der erste führt zur Perron-Familie, die Fortsetzung nach Enfield. Die dazwischen begonnene Annabelle-Ablegerreihe erklärt, weshalb die zweite Hauptfolge nicht zugleich der zweite veröffentlichte Film des gesamten verbundenen Universums ist.",
+      "anchor": "2013 erster Hauptfilm, 2016 zweiter: drei Jahre Abstand.",
+      "interest": "Die Hauptreihe und ihre Ableger haben unterschiedliche Zählungen.",
+      "sources": [
+        "studio",
+        "first",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Hauptregie?",
+      "answers": [
+        "James Wan",
+        "John R. Leonetti",
+        "David F. Sandberg",
+        "Gary Dauberman"
+      ],
+      "feedback": [
+        "James Wan inszeniert die zweite Hauptfolge.",
+        "Leonetti inszenierte den ersten Annabelle-Ableger.",
+        "Sandberg trägt hier keinen Hauptregiecredit.",
+        "Dauberman ist nicht Hauptregisseur dieser Folge."
+      ],
+      "short": "James Wan führte erneut Hauptregie.",
+      "context": "James Wan inszeniert die zweite Hauptfolge und kehrt damit zum Untersuchungspaar des ersten Films zurück. Die Warner-Studiofilmografie nennt ihn ausdrücklich als Regisseur. Der Film kombiniert einen Familienfall mit den persönlichen Visionen seiner Ermittlerin und verbindet so die Untersuchung im fremden Haus mit einer Gefahr für das Paar selbst. Regie anderer Ableger des verbundenen Universums ist davon als eigener Credit zu unterscheiden.",
+      "anchor": "Wan setzt die Hauptreihe mit dem Enfield-Fall fort.",
+      "interest": "Die Regiezuordnung trennt Hauptfolge und Ableger.",
+      "sources": [
+        "studio",
+        "film"
+      ]
+    }
+  ],
+  "country_note": "Institutionelle Zuordnung UK/USA nach dem BFI Statistical Yearbook 2017, Seite 27 Tabelle 2 Rang 11; zusätzlich Seite 57 Tabelle 13 und Seite 79 Tabelle 8. Der Artikelcache nennt enger USA. Keine Finanzierung oder Nationalität allein aus Drehorten abgeleitet."
+}

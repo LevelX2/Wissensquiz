@@ -1,0 +1,215 @@
+{
+  "directors": [
+    "James Whale"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Universal-Original mit Colin Clive/Boris Karloff, Erststart laut AFI am 21. November 1931. Handlung mit der heute wieder vollständig sichtbaren Maria-Sequenz; historische Zensurkopien können sie kürzen.",
+  "director_note": "James Whale trägt den Hauptregiecredit. Robert Florey entwickelte das frühere Projekt und trug zum Treatment bei; seine Vorarbeit ist kein gemeinsamer Hauptregiecredit.",
+  "series": {
+    "name": "Universal-Frankenstein",
+    "position": 1,
+    "note": "Auftakt der Universal-Filmfolge, vor Frankensteins Braut; frühere unabhängige Verfilmungen sind keine Teile dieser Folge."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter Universal-Klassiker mit einem vielfach zitierten Kreaturenbild.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+    "afi": "https://catalog.afi.com/Film/3925-FRANKENSTEIN"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo hat Henry Frankenstein (Colin Clive) in @ sein abgelegenes Labor eingerichtet?",
+      "answers": [
+        "In einem alten Wachturm im Gebirge",
+        "In der Kapelle eines Klosters",
+        "Im Keller einer städtischen Klinik",
+        "In der Werkhalle einer stillgelegten Fabrik"
+      ],
+      "feedback": [
+        "Sein Labor liegt in einem alten Wachturm.",
+        "Eine Klosterkapelle ist nicht der Laborort.",
+        "Er arbeitet nicht im Keller einer städtischen Klinik.",
+        "Eine Fabrikhalle ist nicht sein Labor."
+      ],
+      "short": "Henry arbeitet in einem alten Wachturm im Gebirge.",
+      "context": "Henry Frankenstein (Colin Clive) zieht sich für seine Versuche in einen abgelegenen Wachturm zurück. Fritz (Dwight Frye) hilft ihm dort bei der Vorbereitung. Der Ort trennt die wissenschaftliche Arbeit vom Familienleben und ermöglicht, Geräte bis unter das offene Turmdach zu bewegen. Als Elizabeth (Mae Clarke) und die anderen Besucher eintreffen, betreten sie eine abgeschlossene Versuchswelt, deren Zweck ihnen bisher nur unvollständig bekannt war.",
+      "anchor": "Der Wachturm trennt das Experiment vom Alltag.",
+      "interest": "Verbindet den markanten Schauplatz mit seiner Handlungsfunktion.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Womit erschreckt Fritz (Dwight Frye) die Kreatur (Boris Karloff) in @ besonders?",
+      "answers": [
+        "Mit einer brennenden Fackel",
+        "Mit dem Läuten einer Glocke",
+        "Mit einem starken Lichtblitz",
+        "Mit einer schwingenden Eisenkette"
+      ],
+      "feedback": [
+        "Das Feuer der Fackel löst ihre Angst aus.",
+        "Eine Glocke ist nicht das gezeigte Schreckmittel.",
+        "Ein Lichtblitz beschreibt Fritz’ Vorgehen nicht.",
+        "Die Kette ist nicht der entscheidende Angstreiz."
+      ],
+      "short": "Fritz quält die Kreatur mit einer brennenden Fackel.",
+      "context": "Die Kreatur (Boris Karloff) reagiert zunächst auf Licht und Anweisungen ihres Schöpfers. Als Fritz (Dwight Frye) mit der Fackel auftaucht, zeigt sie dagegen große Angst. Er benutzt diesen Reiz später, um das gefesselte Wesen weiter zu quälen. Die Aggression entsteht somit in einer konkreten Situation der Bedrohung. Der Film zeigt mehr als bloße Gefährlichkeit: Er macht auch sichtbar, wie andere Menschen die Kreatur behandeln.",
+      "anchor": "Fritz macht das gefürchtete Feuer zum Mittel der Quälerei.",
+      "interest": "Erschließt den konkreten Auslöser einer wichtigen Reaktion.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche frühere Verbindung hat Dr. Waldman (Edward Van Sloan) zu Henry (Colin Clive) in @?",
+      "answers": [
+        "Er war dessen Hochschullehrer.",
+        "Er behandelte ihn als Kind.",
+        "Er war sein Arbeitgeber im Krankenhaus.",
+        "Er lernte ihn als Mitstudent kennen."
+      ],
+      "feedback": [
+        "Waldman war Henrys Professor.",
+        "Eine frühere Kinderbehandlung erklärt die Beziehung nicht.",
+        "Waldman wird nicht als früherer Krankenhausarbeitgeber eingeführt.",
+        "Die beiden waren nicht gleichrangige Mitstudenten."
+      ],
+      "short": "Waldman ist Henrys ehemaliger Hochschullehrer.",
+      "context": "Dr. Waldman (Edward Van Sloan) kennt Henry Frankenstein (Colin Clive) aus dessen Studium. Als Elizabeth (Mae Clarke) sich wegen seines Rückzugs sorgt, kann der frühere Lehrer die wissenschaftliche Vorgeschichte erläutern. Er begleitet die Besucher zum Labor und erlebt den Versuch. Seine Stellung verbindet Fachwissen mit persönlicher Kenntnis des Forschers; die Bedenken entstehen nicht erst aus dem Anblick eines unbekannten Experiments.",
+      "anchor": "Der frühere Lehrer kennt den Forscher vor dem Versuch.",
+      "interest": "Ordnet den wissenschaftlichen Gesprächspartner konkret ein.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum endet das Spiel der Kreatur (Boris Karloff) mit Maria (Marilyn Harris) in @ tödlich?",
+      "answers": [
+        "Sie wirft nach den Blumen auch das Kind ins Wasser.",
+        "Sie stößt beim Spielen das Boot des Kindes um.",
+        "Sie zerbricht den Steg unter dem Kind.",
+        "Sie drückt das Kind beim Verstecken unter Wasser."
+      ],
+      "feedback": [
+        "Die Kreatur überträgt das Werfen der schwimmenden Blumen auf Maria.",
+        "Ein umgestoßenes Boot ist nicht die Ursache.",
+        "Ein zerbrochener Steg verursacht den Tod nicht.",
+        "Die Szene zeigt kein Versteckspiel unter Wasser."
+      ],
+      "short": "Die Kreatur wirft Maria wie zuvor die Blumen in den See.",
+      "context": "Maria (Marilyn Harris) begegnet der Kreatur (Boris Karloff) ohne die Angst der Erwachsenen. Gemeinsam werfen sie Blumen ins Wasser und beobachten, wie diese schwimmen. Als keine Blumen mehr übrig sind, wirft das Wesen auch das Kind hinein. Die Szene verbindet seine begrenzte Erfahrung mit einer tödlichen Folge. Historische Zensurkopien entfernten gerade diesen entscheidenden Moment; die Frage bezieht sich auf die vollständige, wiederhergestellte Handlung.",
+      "anchor": "Blumen schwimmen; das Kind wird tödlich in dasselbe Spiel einbezogen.",
+      "interest": "Erklärt den konkreten Ablauf und seine Fassungsgrenze.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was fängt Henrys (Colin Clive) Sturz im Mühlenfinale von @ ab?",
+      "answers": [
+        "Ein Flügel der Windmühle",
+        "Ein gespanntes Rettungstuch",
+        "Ein Heuwagen vor dem Gebäude",
+        "Ein hölzernes Vordach"
+      ],
+      "feedback": [
+        "Ein Mühlenflügel bremst seinen Sturz.",
+        "Ein Rettungstuch wird nicht gespannt.",
+        "Ein Heuwagen fängt ihn nicht auf.",
+        "Ein Vordach ist nicht der rettende Teil des Baus."
+      ],
+      "short": "Ein Mühlenflügel fängt Henrys Sturz ab.",
+      "context": "Die Kreatur (Boris Karloff) trägt den bewusstlosen Henry Frankenstein (Colin Clive) auf die alte Windmühle. Sie wirft ihn hinunter, doch ein Flügel des Bauwerks fängt den Sturz ab. Die Dorfbewohner können den Verletzten fortbringen, während sie die Mühle in Brand setzen. Der Schauplatz besitzt damit zwei gegensätzliche Funktionen: Er schließt das verfolgte Wesen ein und bietet zugleich einen zufälligen Schutz für seinen Schöpfer.",
+      "anchor": "Die Mühle wird Falle und Lebensretter zugleich.",
+      "interest": "Erfasst die konkrete räumliche Ursache von Henrys Überleben.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie verändert sich der Darstellercredit der Kreatur zwischen Anfang und Ende von @?",
+      "answers": [
+        "Vom Fragezeichen zum Namen Boris Karloff",
+        "Vom Namen Bela Lugosi zum Fragezeichen",
+        "Vom Namen Colin Clive zum Namen Boris Karloff",
+        "Vom Namen Boris Karloff zum Namen Bela Lugosi"
+      ],
+      "feedback": [
+        "Zu Beginn steht ein Fragezeichen, im Abspann Boris Karloff.",
+        "Bela Lugosi steht nicht zuerst als Darsteller der Kreatur.",
+        "Colin Clive ist nicht ihr anfänglicher Darstellercredit.",
+        "Karloff wird nicht am Ende durch Lugosis Namen ersetzt."
+      ],
+      "short": "Der Anfangscredit verbirgt den Namen; der Schluss nennt Boris Karloff.",
+      "context": "Die anfängliche Besetzungsliste setzt neben die Kreatur ein Fragezeichen. Erst am Ende erscheint Boris Karloffs Name an dieser Stelle. Das ist eine bewusst unterschiedliche Präsentation innerhalb desselben Films, keine Umbesetzung während der Handlung. AFI dokumentiert diesen Wechsel ausdrücklich. Der Abspann löst damit eine zuvor in der Namensliste gesetzte Leerstelle auf. Beide Angaben beziehen sich auf denselben Darsteller und dieselbe Kreatur.",
+      "anchor": "Erst das Fragezeichen, am Schluss Boris Karloff.",
+      "interest": "Erschließt eine belegte Besonderheit der Titelgestaltung.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Colin Clive erstmals?",
+      "answers": [
+        "1931",
+        "1927",
+        "1935",
+        "1939"
+      ],
+      "feedback": [
+        "1931 ist das Erstjahr des Universal-Originals.",
+        "1927 liegt vier Jahre vor dem Film.",
+        "1935 ist das Jahr der unmittelbaren Fortsetzung.",
+        "1939 gehört zu einer späteren Universal-Fortsetzung."
+      ],
+      "short": "Der Universal-Film erschien erstmals 1931.",
+      "context": "Mary Shelleys Roman Frankenstein erschien 1818. Die Universal-Verfilmung mit Colin Clive kam 1931 heraus, 113 Jahre später. Zwischen dem literarischen Ursprung und diesem Film liegen auch Bühnenbearbeitungen, darunter Peggy Weblings Stück von 1927. Der Film ist deshalb kein unmittelbares Abbild nur einer Quelle. Der Jahresanker verbindet den langen Weg des Stoffes mit dem konkreten Erstjahr einer eigenständigen filmischen Ausprägung.",
+      "anchor": "Roman 1818, Universal-Film 1931: 113 Jahre.",
+      "interest": "Verbindet Erstjahr und datierten literarischen Ursprung.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte die Hauptregie von @ mit Colin Clive?",
+      "answers": [
+        "James Whale",
+        "Tod Browning",
+        "Erle C. Kenton",
+        "Edgar G. Ulmer"
+      ],
+      "feedback": [
+        "James Whale trägt den Hauptregiecredit.",
+        "Tod Browning führte hier nicht Hauptregie.",
+        "Erle C. Kenton ist nicht der Regisseur dieses Films.",
+        "Edgar G. Ulmer inszenierte dieses Original nicht."
+      ],
+      "short": "James Whale führte bei dieser Universal-Fassung Hauptregie.",
+      "context": "James Whale übernahm das Projekt nach einer früheren Entwicklungsphase mit Robert Florey. Die Filmcredits und der detaillierte AFI-Eintrag weisen Whale als Hauptregisseur aus. Die Unterscheidung ist wichtig, weil frühere Treatments und geplante Besetzungen zur Entstehungsgeschichte gehören, aber nicht automatisch einen gemeinsamen Regiecredit erzeugen. Die fertige Fassung verbindet die Versuchsanordnung im Turm mit einer Kreatur, deren Verhalten zwischen Bedrohung, Angst und Unerfahrenheit wechselt.",
+      "anchor": "Der fertige Universal-Film trägt James Whales Regiecredit.",
+      "interest": "Trennt veröffentlichte Hauptregie und frühere Projektentwicklung.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ],
+  "rank": 3
+}

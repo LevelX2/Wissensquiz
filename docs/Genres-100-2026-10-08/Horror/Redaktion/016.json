@@ -1,0 +1,221 @@
+{
+  "rank": 16,
+  "directors": [
+    "James Wan"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "Kanada",
+    "USA"
+  ],
+  "release_note": "Erste öffentliche Veröffentlichung: TIFF-Weltpremiere am 14. September 2010, vom Festivalbeitrag ausdrücklich für diesen Abend angekündigt. BFI führt 2010. Sony nennt 2011 für die spätere Kinoauswertung; dies ersetzt die Premiere nicht.",
+  "country_note": "BFI nennt United Kingdom, Canada und USA; entsprechend werden alle drei Länder aufgenommen. Sonys Copyrightangabe Alliance Films (UK) Limited passt zur britischen Beteiligung, ist aber kein eigener Veröffentlichungsbeleg.",
+  "director_note": "James Wan führt allein Hauptregie. Leigh Whannell schrieb das Drehbuch und spielt Specs; Jason Blum, Oren Peli und Steven Schneider sind Produzenten.",
+  "series": {
+    "name": "Insidious",
+    "position": 1,
+    "note": "Der erste Film. Spätere Erklärungen zur Geisterfrau aus Chapter 2 werden nicht als bereits im Original erzählte Vorgeschichte behandelt."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: sehr bekannter übernatürlicher Reihenauftakt mit wiederkehrenden Figuren und markantem Zwischenreich.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Insidious_(film)",
+    "bfi": "https://www.bfi.org.uk/film/b0f6df48-18b5-5a2c-aa52-2c42e6db1dd2/insidious",
+    "tiff": "https://tiffmidnightmadness.blogspot.com/2010/09/insidious-premieres-tonight.html",
+    "sony": "https://www.sonypictures.com/movies/insidious",
+    "year_anchor": "https://www.sonypictures.com/movies/insidiouschapter2"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was geschieht zu Beginn von @ mit Dalton (Ty Simpkins)?",
+      "answers": [
+        "Er fällt in einen medizinisch unerklärten komaähnlichen Zustand.",
+        "Er verliert nach einem Unfall dauerhaft sein Augenlicht.",
+        "Er verliert nach einem Schock dauerhaft seine Stimme.",
+        "Er bekommt wiederkehrende Anfälle bei hellem Licht."
+      ],
+      "feedback": [
+        "Dalton lässt sich aus dem komaähnlichen Zustand zunächst nicht wecken.",
+        "Eine dauerhafte Erblindung bildet nicht den Ausgangspunkt.",
+        "Ein dauerhafter Stimmverlust ist nicht das medizinische Rätsel.",
+        "Lichtbedingte Anfälle sind nicht sein Problem."
+      ],
+      "short": "Dalton fällt in einen zunächst unerklärten komaähnlichen Zustand.",
+      "context": "Dalton Lambert (Ty Simpkins) erkundet den Dachboden und erschrickt dort nach einem Sturz. Am folgenden Morgen lässt er sich nicht mehr wecken. Josh Lambert (Patrick Wilson) und Renai (Rose Byrne) bekommen zunächst keine ausreichende medizinische Erklärung für seinen Zustand. Der Film beginnt damit als Sorge um ein krankes Kind. Erst die spätere Untersuchung stellt die scheinbare Bewusstlosigkeit in einen übernatürlichen Zusammenhang.",
+      "anchor": "Ein Kind wacht nicht auf, obwohl die Medizin keine passende Erklärung findet.",
+      "interest": "Erfasst das Familienproblem vor seiner übernatürlichen Deutung.",
+      "sources": [
+        "film",
+        "sony"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was bewirkt der Hauswechsel der Familie in @?",
+      "answers": [
+        "Die unheimlichen Erscheinungen setzen sich auch im neuen Haus fort.",
+        "Die Erscheinungen enden, doch das Kind bleibt bewusstlos.",
+        "Die Erscheinungen bleiben im alten Haus bei den neuen Bewohnern.",
+        "Die Erscheinungen treten danach nur noch im Krankenhaus auf."
+      ],
+      "feedback": [
+        "Die Bedrohung folgt der Familie an den neuen Wohnort.",
+        "Der Umzug beendet den Spuk nicht.",
+        "Das neue Haus der Familie bleibt ebenfalls betroffen.",
+        "Die Erscheinungen verlagern sich nicht ausschließlich ins Krankenhaus."
+      ],
+      "short": "Ein Umzug beendet die unheimlichen Ereignisse nicht.",
+      "context": "Renai Lambert (Rose Byrne) erlebt Erscheinungen im Haus und möchte ihre Familie durch einen Umzug schützen. Auch am neuen Wohnort setzt sich die Bedrohung fort. Josh Lambert (Patrick Wilson) muss deshalb erkennen, dass ein Ortswechsel allein das Problem nicht löst. Der Film verschiebt den Verdacht vom Gebäude auf eine Verbindung zur Familie. Die gewöhnliche Entscheidung, einen gefährlichen Wohnort zu verlassen, bietet hier keine sichere Grenze.",
+      "anchor": "Die Gefahr zieht mit der Familie um.",
+      "interest": "Erklärt den gescheiterten Versuch, die Bedrohung räumlich zu verlassen.",
+      "sources": [
+        "film",
+        "sony"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie erklärt Elise Rainier (Lin Shaye) in @ den Zustand des Kindes?",
+      "answers": [
+        "Sein Bewusstsein ist im Zwischenreich verloren, sein Körper bleibt leer.",
+        "Ein fremder Geist hat bereits sein Bewusstsein im Körper ersetzt.",
+        "Sein Bewusstsein ist an das alte Haus gebunden.",
+        "Sein Bewusstsein ist im Körper gefangen und kann ihn nicht steuern."
+      ],
+      "feedback": [
+        "Elise beschreibt eine verlorene astrale Reise ins Further.",
+        "Sie beschreibt noch keine vollendete Besessenheit, sondern einen für Geister zugänglichen Körper.",
+        "Die Verbindung führt ins Zwischenreich und besteht auch nach dem Umzug weiter.",
+        "Das Bewusstsein ist außerhalb verirrt, nicht innerhalb des Körpers eingesperrt."
+      ],
+      "short": "Daltons Bewusstsein hat sich bei einer astralen Reise im Further verirrt.",
+      "context": "Elise Rainier (Lin Shaye) erklärt Josh Lambert (Patrick Wilson) und Renai (Rose Byrne), dass Dalton (Ty Simpkins) im Schlaf sein Bewusstsein vom Körper lösen kann. Diesmal hat er sich im Further verirrt. Sein zurückgebliebener Körper ist deshalb für Geister zugänglich, die wieder in die körperliche Welt gelangen wollen. Die Erklärung verbindet den Zustand des Kindes mit den Erscheinungen und macht aus zwei Rätseln eine gemeinsame Rettungsaufgabe.",
+      "anchor": "Der Körper liegt hier, das Bewusstsein steckt im Further.",
+      "interest": "Verknüpft das medizinische Rätsel mit dem Mechanismus des Spuks.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Welcher Fund bringt Josh Lambert (Patrick Wilson) in @ dazu, Elise Rainiers (Lin Shaye) Erklärung ernst zu nehmen?",
+      "answers": [
+        "Die Zeichnungen des Kindes aus dem Kinderzimmer",
+        "Ein Tonband aus seiner eigenen Schulzeit",
+        "Ein Krankenhausbericht über ein fremdes Kind",
+        "Ein Fotoalbum der früheren Hausbesitzer"
+      ],
+      "feedback": [
+        "Daltons Bilder passen zu Elises Darstellung.",
+        "Ein altes Tonband liefert diese Bestätigung nicht.",
+        "Ein fremder Krankenhausfall überzeugt ihn nicht in dieser Szene.",
+        "Das Fotoalbum früherer Bewohner ist nicht der Fund."
+      ],
+      "short": "Daltons Zeichnungen bestätigen für Josh Teile von Elises Erklärung.",
+      "context": "Josh Lambert (Patrick Wilson) weist Elise Rainier (Lin Shaye) zunächst zurück, weil ihm ihre Erklärung als Betrug erscheint. Dann findet er im Zimmer von Dalton (Ty Simpkins) Zeichnungen, die zu ihrer Beschreibung passen. Der persönliche Fund verändert seine Haltung stärker als eine abstrakte Behauptung. Er holt die Helferin zurück und öffnet damit den Weg zu einem Rettungsversuch, dessen Ausgang er vorher nicht für möglich gehalten hatte.",
+      "anchor": "Die Bilder des eigenen Kindes machen die fremde Erklärung glaubhaft.",
+      "interest": "Erfasst den konkreten Auslöser für Joshs Meinungswechsel.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie gelangt Josh Lambert (Patrick Wilson) in @ gezielt ins Further, um seinen Sohn zu suchen?",
+      "answers": [
+        "Elise Rainier (Lin Shaye) versetzt ihn in eine hypnotische Trance.",
+        "Er folgt einer Tonaufnahme seines Sohnes in den Schlaf.",
+        "Er vollzieht ein Schutzritual vor dem Bett seines Sohnes.",
+        "Er nimmt ein Beruhigungsmittel und schläft allein ein."
+      ],
+      "feedback": [
+        "Elise leitet seine astrale Reise durch Hypnose ein.",
+        "Eine Tonaufnahme führt ihn nicht ins Further.",
+        "Ein Schutzritual am Bett ermöglicht diesen Zugang nicht.",
+        "Ein Beruhigungsmittel ist nicht das Mittel seiner gezielten Reise."
+      ],
+      "short": "Elise ermöglicht Joshs astrale Reise durch eine hypnotische Trance.",
+      "context": "Elise Rainier (Lin Shaye) erkennt, dass Josh Lambert (Patrick Wilson) wie sein Sohn Dalton (Ty Simpkins) astral reisen kann. Sie versetzt ihn in eine hypnotische Trance, damit er gezielt nach dem Kind suchen kann. Sein Körper bleibt dabei zurück. Die Rettung verlangt deshalb keine Fahrt zu einem anderen Haus, sondern das bewusste Verlassen des eigenen Körpers und die Begegnung mit den Gefahren des Further.",
+      "anchor": "Hypnose führt den Vater auf dieselbe Reise wie sein Kind.",
+      "interest": "Erklärt den konkreten Zugang zur Rettungsmission.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was entdeckt Renai Lambert (Rose Byrne) in @ auf dem letzten Foto ihres Mannes?",
+      "answers": [
+        "Die alte Geisterfrau erscheint an seiner Stelle.",
+        "Ein fremder Junge steht hinter dem Mann.",
+        "Der Mann erscheint als Kind neben seiner Mutter.",
+        "Das rotgesichtige Wesen steht über seiner Schulter."
+      ],
+      "feedback": [
+        "Das Foto zeigt die Geisterfrau und enthüllt Joshs Besessenheit.",
+        "Ein fremder Junge ist nicht die entscheidende Erscheinung auf diesem Bild.",
+        "Eine Darstellung als Kind neben der Mutter zeigt dieses letzte Foto nicht.",
+        "Das Bild enthüllt die alte Geisterfrau, nicht den rotgesichtigen Dämon."
+      ],
+      "short": "Das Foto enthüllt die Geisterfrau in Joshs zurückgekehrtem Körper.",
+      "context": "Elise Rainier (Lin Shaye) fotografiert Josh Lambert (Patrick Wilson), weil sie nach der scheinbaren Rettung eine Veränderung spürt. Er tötet sie. Renai Lambert (Rose Byrne) findet anschließend die Tote und betrachtet das Bild: Es zeigt die alte Geisterfrau an Joshs Stelle. Die Schlussenthüllung untergräbt die Entwarnung für die Familie. Als Josh hinter Renai erscheint, bleibt seine äußerlich vertraute Gestalt mit der neuen Bedrohung verbunden.",
+      "anchor": "Das Foto beweist, dass der zurückgekehrte Vater nicht frei von Geistern ist.",
+      "interest": "Erfasst die Schlussenthüllung allein aus dem ersten Film.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Patrick Wilson erstmals öffentlich gezeigt?",
+      "answers": [
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "feedback": [
+        "2010 fand die Weltpremiere bei TIFF statt.",
+        "2011 betrifft die spätere Kinoauswertung.",
+        "2012 ist nicht das erste öffentliche Jahr.",
+        "2013 erschien die Fortsetzung."
+      ],
+      "short": "Die erste öffentliche Veröffentlichung fand 2010 bei TIFF statt.",
+      "context": "Insidious hatte 2010 seine Weltpremiere beim Toronto International Film Festival; Insidious: Chapter 2 erschien 2013. Zwischen den Erstjahren liegen drei Jahre. Der Festivalbeitrag kündigt die erste Vorführung für den 14. September ausdrücklich an. Sonys Kennzeichnung des ersten Films mit 2011 bezieht sich auf die spätere Kinoauswertung. Für die zeitliche Einordnung zählt hier die öffentliche Premiere, nicht erst der breite Kinostart.",
+      "anchor": "TIFF-Premiere 2010 → Chapter 2 2013: drei Jahre.",
+      "interest": "Verankert das Erstjahr und erklärt die verbreitete regionale Jahresabweichung.",
+      "sources": [
+        "tiff",
+        "bfi",
+        "sony",
+        "year_anchor"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte beim ersten Film @ mit Patrick Wilson Hauptregie?",
+      "answers": [
+        "James Wan",
+        "James Wong",
+        "Leigh Whannell",
+        "Scott Derrickson"
+      ],
+      "feedback": [
+        "James Wan führte beim ersten Film Regie.",
+        "James Wong ist nicht James Wan und inszenierte diesen Film nicht.",
+        "Leigh Whannell schrieb das Drehbuch und spielt Specs, führte hier aber nicht Hauptregie.",
+        "Scott Derrickson trägt diesen Hauptcredit nicht."
+      ],
+      "short": "James Wan führte allein Hauptregie.",
+      "context": "James Wan inszenierte den ersten Film, während Leigh Whannell das Drehbuch schrieb und als Specs auftritt. BFI führt Wan als einzigen Regisseur und nennt die Produzenten getrennt. Die Zusammenarbeit von Autor und Regisseur ist damit belegt, aber kein gemeinsamer Hauptregiecredit. Ebenso darf die Namensähnlichkeit mit James Wong nicht zu einer Verwechslung führen: Es handelt sich um zwei verschiedene Filmemacher.",
+      "anchor": "Wan führt Regie, Whannell schreibt; Wong ist eine andere Person.",
+      "interest": "Sichert den Hauptcredit und löst zwei konkrete Verwechslungsrisiken.",
+      "sources": [
+        "bfi"
+      ]
+    }
+  ]
+}

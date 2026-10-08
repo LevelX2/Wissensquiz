@@ -1,0 +1,212 @@
+{
+  "rank": 9,
+  "directors": [
+    "John Carpenter"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Originalfilm: AFI nennt den ersten US-Kinostart am 1. Februar 1980. Die späteren regionalen Eröffnungen ändern das Erstjahr nicht; nicht das Remake von 2005.",
+  "director_note": "John Carpenter führt allein Hauptregie. Debra Hill ist Produzentin und Mitautorin, Tommy Lee Wallace unter anderem Produktionsdesigner und Editor.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter atmosphärischer Geisterfilm aus John Carpenters klassischer Schaffensphase.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Fog",
+    "afi": "https://catalog.afi.com/Film/53898-THE-FOG"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Von welchem Ort sendet Stevie Wayne (Adrienne Barbeau) in @ ihre Radiosendung?",
+      "answers": [
+        "Aus einem Leuchtturm",
+        "Aus dem Rathaus",
+        "Aus einem Hotel am Hafen",
+        "Aus einem Studio auf einem Schiff"
+      ],
+      "feedback": [
+        "Ihr Sender befindet sich im Leuchtturm.",
+        "Das Rathaus beherbergt nicht ihren Sender.",
+        "Das Hafenhotel ist nicht ihr Sendestandort.",
+        "Sie sendet vom Land aus, nicht von einem Schiff."
+      ],
+      "short": "Stevie betreibt ihren Radiosender im Leuchtturm.",
+      "context": "Stevie Wayne (Adrienne Barbeau) moderiert einen kleinen lokalen Radiosender im Leuchtturm über der Küste. Dadurch hört man ihre Stimme an verschiedenen Orten der Stadt, während sie selbst von oben die heranziehende Gefahr beobachten kann. Der Standort verbindet Übersicht und Isolation. Ihr Mikrofon wird später zum Mittel, mit dem sie die Bewohner warnt und die Rettung ihres Sohnes zu erreichen versucht.",
+      "anchor": "Der Leuchtturm macht eine Stimme für die ganze Stadt hörbar.",
+      "interest": "Verbindet den Schauplatz mit der Funktion der Hauptfigur.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welches örtliche Jubiläum wird in @ gefeiert?",
+      "answers": [
+        "Hundert Jahre seit der Stadtgründung",
+        "Fünfzig Jahre seit dem Bau des Hafens",
+        "Hundert Jahre seit der Eröffnung der Kirche",
+        "Fünfundzwanzig Jahre seit dem letzten Schiffsunglück"
+      ],
+      "feedback": [
+        "Antonio Bay feiert den hundertsten Jahrestag seiner Gründung.",
+        "Das Hafenjubiläum ist nicht der Anlass.",
+        "Die Feier gilt der Stadtgründung, nicht der Kirche.",
+        "Das Schiffsunglück liegt ein Jahrhundert zurück, nicht fünfundzwanzig Jahre."
+      ],
+      "short": "Die Stadt feiert ihr hundertjähriges Bestehen.",
+      "context": "Kathy Williams (Janet Leigh) organisiert die Feier zum hundertjährigen Bestehen von Antonio Bay. Für die Bewohner ist das Jubiläum ein Anlass, stolz auf ihre Heimat zurückzublicken. Gleichzeitig kommt eine verdrängte Geschichte der Gründung ans Licht. Die festliche Gegenwart und die ungesühnte Vergangenheit treffen deshalb an demselben Datum aufeinander. Das Jubiläum ist ein Handlungsauslöser und keine bloße Dekoration im Hintergrund.",
+      "anchor": "Die Hundertjahrfeier öffnet eine hundert Jahre alte Wunde.",
+      "interest": "Ordnet den Zeitpunkt des Geschehens in die Stadtgeschichte ein.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie entdeckt Father Malone (Hal Holbrook) in @ die Aufzeichnungen seines Großvaters?",
+      "answers": [
+        "Hinter einem herausgefallenen Stein der Kirchenmauer",
+        "In einem aufgebrochenen Sarg im Friedhof",
+        "In der Post eines verstorbenen Fischers",
+        "Unter einer Bodenplatte im Leuchtturm"
+      ],
+      "feedback": [
+        "Ein Stein fällt heraus und legt das verborgene Tagebuch frei.",
+        "Die Aufzeichnungen werden nicht in einem Sarg gefunden.",
+        "Eine Postsendung bringt sie nicht zu ihm.",
+        "Das Versteck befindet sich in der Kirche."
+      ],
+      "short": "Ein herausgefallener Mauerstein legt das Tagebuch frei.",
+      "context": "Father Malone (Hal Holbrook) findet in seiner Kirche ein Tagebuch seines Großvaters, nachdem sich ein Stein aus der Mauer löst. Die Schriftstücke geben der Bedrohung eine historische Ursache. Der Geistliche erfährt, dass seine Familie an der Gründungsschuld beteiligt war. Damit wird die Kirche vom scheinbar sicheren Ort zum Aufbewahrungsort des verdrängten Wissens, das die Bewohner dringend verstehen müssen.",
+      "anchor": "Ein Mauerstein gibt die verborgene Gründungsgeschichte frei.",
+      "interest": "Erfasst den konkreten Zugang zur historischen Enthüllung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welches Vermögen finanzierte laut Tagebuch die Gründung von Antonio Bay in @?",
+      "answers": [
+        "Das Gold eines absichtlich versenkten Schiffes",
+        "Eine Erbschaft des ersten Bürgermeisters",
+        "Der Erlös aus dem Verkauf des Leuchtturms",
+        "Die Versicherungssumme eines Hafenbrands"
+      ],
+      "feedback": [
+        "Die Gründer plünderten das Gold der Elizabeth Dane.",
+        "Eine private Erbschaft erklärt das Vermögen nicht.",
+        "Der Leuchtturmverkauf ist keine Quelle des Gründungsgeldes.",
+        "Ein versicherter Hafenbrand gehört nicht zur Enthüllung."
+      ],
+      "short": "Die Stadtgründung beruht auf geraubtem Gold der Elizabeth Dane.",
+      "context": "Father Malone (Hal Holbrook) liest, dass sechs Männer die Elizabeth Dane absichtlich auf die Felsen lockten. Sie wollten eine nahe Siedlung von Leprakranken verhindern und eigneten sich das Gold des Schiffseigners an. Dieses Vermögen half beim Aufbau von Antonio Bay. Die Geistergeschichte verbindet die spätere Rache deshalb mit einer konkreten wirtschaftlichen und moralischen Schuld der Stadtgründer.",
+      "anchor": "Die Stadt ist auf dem geraubten Gold der Schiffbrüchigen gebaut.",
+      "interest": "Erklärt die Verbindung zwischen Wohlstand und Gründungsschuld.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was verändert sich an dem Treibholz, während Stevie Wayne (Adrienne Barbeau) es in @ untersucht?",
+      "answers": [
+        "Die Schiffsinschrift wird kurz zu einer Todesankündigung.",
+        "Die Schiffsinschrift wird zum Namen ihres Sohnes.",
+        "Die Schiffsinschrift zeigt den Ort eines versteckten Schatzes.",
+        "Die Schiffsinschrift nennt die Namen aller Stadtgründer."
+      ],
+      "feedback": [
+        "Aus DANE wird vorübergehend die Botschaft, dass sechs Menschen sterben müssen.",
+        "Der Name ihres Sohnes ersetzt die Inschrift nicht.",
+        "Eine Schatzkarte oder Ortsangabe erscheint nicht.",
+        "Die Gründer werden auf dem Holz nicht aufgelistet."
+      ],
+      "short": "Die Inschrift DANE wechselt vorübergehend zu „6 MUST DIE“.",
+      "context": "Stevie Wayne (Adrienne Barbeau) erhält ein Stück Treibholz, das ihr Sohn Andy (Ty Mitchell) am Strand gefunden hat. Im Sender verändert sich die Inschrift vorübergehend; zugleich treten unheimliche Störungen auf. Die Botschaft kündigt sechs Todesfälle an und verbindet das Holz mit dem historischen Schiff. Das unscheinbare Fundstück wird damit zu einem Warnzeichen, das mehr verrät als ein gewöhnlicher Wetterbericht.",
+      "anchor": "Aus einem Schiffsnamen wird eine Forderung nach sechs Leben.",
+      "interest": "Verbindet ein frühes Omen mit dem Racheplan.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche letzte Wendung beendet @?",
+      "answers": [
+        "Blake (Rob Bottin) kehrt zurück und tötet Father Malone (Hal Holbrook).",
+        "Malone (Hal Holbrook) flieht mit dem Goldkreuz aus der Kirche.",
+        "Blake (Rob Bottin) nimmt das Kreuz und verschont Malone (Hal Holbrook) endgültig.",
+        "Malone (Hal Holbrook) verbrennt das Tagebuch und vertreibt die Geister."
+      ],
+      "feedback": [
+        "Der abschließende Angriff auf Malone beendet die scheinbare Entwarnung.",
+        "Malone bleibt allein in der Kirche, statt mit dem Kreuz zu fliehen.",
+        "Die Rückgabe des Goldes schützt Malone nicht endgültig.",
+        "Malone verbrennt das Tagebuch in der Schlussfolge nicht."
+      ],
+      "short": "Blake erscheint erneut und tötet Malone.",
+      "context": "Father Malone (Hal Holbrook) übergibt das aus dem geraubten Gold gefertigte Kreuz an Blake (Rob Bottin). Die Geister verschwinden zunächst, und die übrigen Überlebenden verlassen die Kirche. Der Geistliche wundert sich, warum er verschont wurde. Als Blake zurückkehrt und ihn tötet, erhält die scheinbare Lösung einen letzten Gegenschlag. Die Rückgabe des Besitzes hebt den Anspruch auf Vergeltung nicht dauerhaft auf.",
+      "anchor": "Das zurückgegebene Gold beendet die Rache noch nicht.",
+      "interest": "Erfasst die letzte Umkehr der scheinbaren Rettung.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien die Originalfassung von @ erstmals?",
+      "answers": [
+        "1980",
+        "1978",
+        "1982",
+        "1984"
+      ],
+      "feedback": [
+        "1980 ist das Erstjahr des Originals.",
+        "1978 erschien Halloween, der frühere Vergleichsfilm.",
+        "1982 liegt zwei Jahre nach dem ersten Kinostart.",
+        "1984 ist vier Jahre zu spät."
+      ],
+      "short": "Der Originalfilm erschien 1980.",
+      "context": "Halloween erschien 1978, The Fog folgte 1980: Zwischen den beiden Filmen liegen zwei Jahre. Die Verbindung ist konkret, weil John Carpenter beide inszenierte und Jamie Lee Curtis in beiden auftritt. Nach dem bedrohlichen Alltag in einer Vorstadt verlegt sich der Schrecken hier an eine Küste, deren Gegenwart durch eine verschwiegene Gründungsgeschichte geprägt ist.",
+      "anchor": "Halloween 1978 → The Fog 1980: zwei Jahre.",
+      "interest": "Verankert das Erstjahr über eine frühe Carpenter-Verbindung.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Originalfassung von @ Hauptregie?",
+      "answers": [
+        "John Carpenter",
+        "Joe Dante",
+        "George A. Romero",
+        "Tobe Hooper"
+      ],
+      "feedback": [
+        "John Carpenter inszenierte den Originalfilm.",
+        "Joe Dante trägt hier keinen Hauptregiecredit.",
+        "George A. Romero führte bei diesem Geisterfilm nicht Regie.",
+        "Tobe Hooper ist nicht der Regisseur des Originals."
+      ],
+      "short": "John Carpenter führte allein Hauptregie.",
+      "context": "John Carpenter verbindet mehrere Schauplätze durch eine lokale Radiostimme und die Bewegung des Nebels. Der Film kann dadurch zwischen einzelnen bedrohten Bewohnern wechseln, ohne den gemeinsamen Angriff aus dem Blick zu verlieren. Debra Hill arbeitete als Produzentin und Mitautorin mit. Diese Zusammenarbeit erklärt wichtige Produktionscredits, ändert aber nichts an Carpenters alleiniger Hauptregie des fertigen Originalfilms.",
+      "anchor": "Carpenter hält die verstreuten Schauplätze durch Nebel und Radio zusammen.",
+      "interest": "Ordnet die Hauptregie ohne Vermischung mit Produktionscredits zu.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-08",
+  "films": 23,
+  "questions": 184,
+  "contentGoals": 138,
+  "yearGoals": 23,
+  "directorGoals": 23,
+  "variants": 0,
+  "csvSha256": "1b241b0274b6ad1025b345217a8e0613f860f04a6c733cdee4345ee2aae92b81",
+  "warnings": [],
+  "checks": {
+    "csvRereadExact": true,
+    "uniqueQuestionIds": true,
+    "eightDistinctKnowledgeIdsPerFilm": true,
+    "completeAnswerFeedback": true,
+    "sourceReferencesValid": true,
+    "yearDirectorSolutionProtection": true
+  }
+}

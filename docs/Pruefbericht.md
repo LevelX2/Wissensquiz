@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 08.10.2026 – Horror lokal auf 100 Filme erweitert
+
+23 neue Filmfassungen und 184 individuelle Fragen, nun 100 Horror-Filme / 827 Fragen. Gesamtkatalog 33 Pakete / 12.773 Fragen / 12.207 Ziele. 392 Logiktests, Produktionsbuild und 14 Browserfälle erfolgreich abgenommen. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](Genres-100-2026-10-08/Horror/Pruefbericht.md).
+
 ## 08.10.2026 – Fantasy lokal auf 100 Filme erweitert
 
 23 neue Filmfassungen und 184 individuelle Fragen, nun 100 Fantasy-Filme / 832 Fragen. Gesamtkatalog 32 Pakete / 12.589 Fragen / 12.023 Ziele. 391 Logiktests, Build und 13 Browserfälle bestanden. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](Genres-100-2026-10-08/Fantasy/Pruefbericht.md).

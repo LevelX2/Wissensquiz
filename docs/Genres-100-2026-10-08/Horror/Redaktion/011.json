@@ -1,0 +1,215 @@
+{
+  "rank": 11,
+  "directors": [
+    "Don Coscarelli"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Originalfilm: AFI nennt die Los-Angeles-Eröffnung am 28. März 1979 und New York am 1. Juni 1979. Nicht eine Fortsetzung oder die spätere Restaurierung.",
+  "director_note": "Don Coscarelli führt Hauptregie und trägt außerdem Drehbuch-, Kamera- und Schnittcredits. Sein Vater D. A. Coscarelli ist Produzent, kein zweiter Hauptregisseur.",
+  "series": {
+    "name": "Phantasm",
+    "position": 1,
+    "note": "Der Originalfilm; spätere Fortsetzungen erklären und verändern Teile seiner Mythologie."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: prägender, aber außerhalb des Horrorpublikums weniger allgemein bekannter Independentfilm.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Phantasm_(film)",
+    "afi": "https://catalog.afi.com/Catalog/moviedetails/67731"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Beziehung stehen Mike (A. Michael Baldwin) und Jody (Bill Thornbury) in @?",
+      "answers": [
+        "Sie sind Brüder.",
+        "Sie sind Cousins.",
+        "Der Ältere ist der Onkel des Jüngeren.",
+        "Der Ältere ist ein nicht verwandter Vormund."
+      ],
+      "feedback": [
+        "Jody ist Mikes älterer Bruder.",
+        "Eine Cousinbeziehung liegt nicht vor.",
+        "Jody ist kein Onkel, sondern Mikes Bruder.",
+        "Jodys Verantwortung beruht auf ihrer familiären Bindung als Brüder."
+      ],
+      "short": "Jody ist Mikes älterer Bruder.",
+      "context": "Mike Pearson (A. Michael Baldwin) hat seine Eltern verloren und orientiert sich an seinem älteren Bruder Jody (Bill Thornbury). Er fürchtet, auch ihn zu verlieren oder von ihm verlassen zu werden. Diese familiäre Unsicherheit begleitet seine Beobachtungen am Friedhof. Der Horror hängt dadurch an einer konkreten Beziehung: Die Brüder müssen einander glauben und zusammenarbeiten, obwohl Mike zunächst als ängstliches Kind erscheint.",
+      "anchor": "Mike hält nach dem Verlust der Eltern an seinem Bruder fest.",
+      "interest": "Verankert die emotionale Ausgangslage in einer einfachen Beziehung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Womit verdient Reggie (Reggie Bannister) in @ seinen Lebensunterhalt?",
+      "answers": [
+        "Er verkauft Eis aus einem Wagen.",
+        "Er liefert Brot mit einem Lieferwagen.",
+        "Er betreibt einen mobilen Imbiss.",
+        "Er verkauft Blumen am Friedhof."
+      ],
+      "feedback": [
+        "Reggie ist Eisverkäufer.",
+        "Eine Brotauslieferung ist nicht sein Beruf.",
+        "Der Wagen gehört zum Eisverkauf, nicht zu einem warmen Imbiss.",
+        "Ein Blumenstand ist nicht sein Geschäft."
+      ],
+      "short": "Reggie arbeitet als Eisverkäufer.",
+      "context": "Reggie (Reggie Bannister) ist mit den Brüdern Mike Pearson (A. Michael Baldwin) und Jody (Bill Thornbury) befreundet und arbeitet als Eisverkäufer. Seine alltägliche Tätigkeit steht im starken Gegensatz zu den Vorgängen im Bestattungsinstitut. Er gehört dennoch zu den Helfern, die Mikes Verdacht ernst nehmen. Der Film führt den Kampf gegen das Unheimliche dadurch über gewöhnliche Menschen und vertraute Gegenstände in die Geschichte ein.",
+      "anchor": "Der Eisverkäufer wird zum Helfer gegen den Tall Man.",
+      "interest": "Gibt einer wichtigen Helferfigur einen alltäglichen Ausgangspunkt.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Beobachtung macht Mike (A. Michael Baldwin) in @ beim Bestatter besonders misstrauisch?",
+      "answers": [
+        "Er hebt einen schweren Sarg allein mühelos an.",
+        "Ein Sargdeckel hebt sich neben ihm ohne Berührung.",
+        "Aus einem verschlossenen Sarg erklingt eine Kinderstimme.",
+        "Er lässt einen Sarg ohne Berührung durch den Raum gleiten."
+      ],
+      "feedback": [
+        "Die ungewöhnliche Kraft des Bestatters fällt Mike unmittelbar auf.",
+        "Ein von selbst aufgehender Deckel ist nicht die konkrete Beobachtung.",
+        "Eine Kinderstimme aus einem Sarg hört Mike in dieser Szene nicht.",
+        "Der Bestatter hebt den Sarg körperlich an, statt ihn schweben zu lassen."
+      ],
+      "short": "Mike sieht den Bestatter einen schweren Sarg allein anheben.",
+      "context": "Mike Pearson (A. Michael Baldwin) beobachtet, wie der Tall Man (Angus Scrimm) einen Sarg mühelos allein hebt. Das alltäglich wirkende Bestattungsritual erhält dadurch einen unnatürlichen Bruch. Mike verfügt noch über keine vollständige Erklärung, aber seine Wahrnehmung begründet die weitere Nachforschung. Für die älteren Figuren wirkt sein Verdacht zunächst unglaubwürdig. Der Film stellt damit das genaue Hinsehen eines Kindes gegen die beruhigende Normalität des Ortes.",
+      "anchor": "Ein schwerer Sarg ist für den Bestatter auffällig leicht.",
+      "interest": "Erfasst den ersten körperlichen Hinweis auf das Unheimliche.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was geschieht in @ mit dem Finger, den Mike (A. Michael Baldwin) vom Bestatter abtrennt?",
+      "answers": [
+        "Er bewegt sich weiter und verwandelt sich später in ein Insektenwesen.",
+        "Er zerfällt sofort zu schwarzem Staub.",
+        "Er wächst im Glas zu einer neuen Hand.",
+        "Er wird bei Tageslicht zu einem menschlichen Knochen."
+      ],
+      "feedback": [
+        "Das abgetrennte Körperteil bleibt lebendig und verändert seine Gestalt.",
+        "Ein sofortiges Zerfallen beendet den Vorgang nicht.",
+        "Eine vollständige Hand wächst daraus nicht.",
+        "Die spätere Veränderung ergibt kein gewöhnliches Knochenstück."
+      ],
+      "short": "Der abgetrennte Finger bleibt lebendig und wird zu einem Insektenwesen.",
+      "context": "Mike Pearson (A. Michael Baldwin) trennt bei seiner Flucht einen Finger des Tall Man (Angus Scrimm) ab. Das Körperteil bewegt sich weiter und scheint zunächst ein Beweis zu sein, den er seinem Bruder Jody (Bill Thornbury) zeigen kann. Später verwandelt es sich in ein bedrohliches Insektenwesen. Der vermeintlich sichere Beleg wird dadurch selbst zur Gefahr und bestätigt, dass normale körperliche Regeln hier versagen.",
+      "anchor": "Der Beweis im Behälter wird selbst lebendig.",
+      "interest": "Verknüpft einen Beweisversuch mit einer neuen Bedrohung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was erkennen die Brüder in @ über die kleinen verhüllten Diener des Bestatters?",
+      "answers": [
+        "Es sind verkleinerte Tote, die anderswo als Sklaven arbeiten.",
+        "Es sind freiwillige Helfer aus einer geheimen Sekte.",
+        "Es sind verkleidete Kinder aus einem benachbarten Heim.",
+        "Es sind künstliche Puppen, die von außen gesteuert werden."
+      ],
+      "feedback": [
+        "Die geraubten Leichen werden verkleinert und für eine fremde Welt verwendet.",
+        "Die Diener wählen ihre Arbeit nicht freiwillig als Sektenmitglieder.",
+        "Die Enthüllung betrifft Leichen, keine verkleideten Heimkinder.",
+        "Sie sind keine bloß mechanischen Puppen."
+      ],
+      "short": "Der Tall Man macht aus gestohlenen Leichen verkleinerte Sklaven.",
+      "context": "Mike Pearson (A. Michael Baldwin) und Jody (Bill Thornbury) entdecken den Zusammenhang zwischen den verschwundenen Leichen und den kleinen verhüllten Wesen. Der Tall Man (Angus Scrimm) verändert die Toten und benutzt sie als Arbeitskräfte in einer anderen Welt. Die Nachforschung enthüllt damit mehr als einen örtlichen Grabräuber. Das Bestattungsinstitut ist Teil eines Systems, in dem die Verstorbenen weiter ausgebeutet werden.",
+      "anchor": "Das Grab ist der Anfang einer erzwungenen Arbeit in einer fremden Welt.",
+      "interest": "Erfasst die größere Funktion der Leichendiebstähle.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie versuchen die Brüder in @ den Tall Man (Angus Scrimm) bei der Grube auszuschalten?",
+      "answers": [
+        "Sie locken ihn hinein und begraben ihn unter Steinen.",
+        "Sie locken ihn hinein und sprengen den Zugang.",
+        "Sie ziehen ihn hinein und setzen die Grube unter Wasser.",
+        "Sie sperren ihn hinein und zünden Benzin am Rand an."
+      ],
+      "feedback": [
+        "Die Brüder verbinden das Anlocken mit einem Steinsturz.",
+        "Eine Sprengung ist nicht ihr Vorgehen.",
+        "Sie fluten die Grube nicht.",
+        "Benzinfeuer entscheidet diese Falle nicht."
+      ],
+      "short": "Mike lockt den Gegner in die Grube, Jody lässt Steine auf ihn fallen.",
+      "context": "Mike Pearson (A. Michael Baldwin) überwindet seine Angst, um den Tall Man (Angus Scrimm) in eine alte Grube zu locken. Jody (Bill Thornbury) begräbt den Gegner dort unter Steinen. Diese Zusammenarbeit scheint den Kampf zu entscheiden. Der Film lässt den Erfolg jedoch nicht als verlässlichen Schlusspunkt stehen: Eine spätere Traumerklärung und der erneute Angriff untergraben jede einfache Behauptung, die Gefahr sei endgültig besiegt.",
+      "anchor": "Die Brüder stellen gemeinsam eine Falle; die Sicherheit bleibt zweifelhaft.",
+      "interest": "Unterscheidet die konkrete Gegenwehr von einer endgültigen Lösung.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien die Originalfassung von @ erstmals?",
+      "answers": [
+        "1979",
+        "1976",
+        "1982",
+        "1985"
+      ],
+      "feedback": [
+        "1979 ist das Erstjahr von Phantasm.",
+        "1976 erschien Coscarellis früherer Film Kenny & Co.",
+        "1982 liegt drei Jahre nach dem Erststart.",
+        "1985 ist sechs Jahre zu spät."
+      ],
+      "short": "Phantasm erschien 1979.",
+      "context": "Kenny & Co. erschien 1976, Phantasm folgte 1979: Zwischen den Werken liegen drei Jahre. Don Coscarelli wechselte damit von einer Geschichte über Jugendliche zu einem Horrorfilm, der ebenfalls die Wahrnehmung eines Jungen ins Zentrum stellt. AFI ordnet Phantasm als seinen dritten Spielfilm ein. Der zeitliche Vergleich betrifft die ursprünglichen Veröffentlichungen und nicht die späteren Fortsetzungen oder Restaurierungen.",
+      "anchor": "Kenny & Co. 1976 → Phantasm 1979: drei Jahre.",
+      "interest": "Verbindet den Horrordurchbruch mit einem früheren Werk.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Originalfassung von @ Hauptregie?",
+      "answers": [
+        "Don Coscarelli",
+        "John Carpenter",
+        "David Cronenberg",
+        "Stuart Gordon"
+      ],
+      "feedback": [
+        "Don Coscarelli inszenierte den Originalfilm.",
+        "John Carpenter trägt hier keinen Hauptregiecredit.",
+        "David Cronenberg führte bei Phantasm nicht Regie.",
+        "Stuart Gordon ist nicht der Regisseur dieses Originals."
+      ],
+      "short": "Don Coscarelli führte allein Hauptregie.",
+      "context": "Don Coscarelli verantwortete neben der Regie auch Drehbuch, Kamera und Schnitt. Das bündelte zentrale gestalterische Entscheidungen bei einem Filmemacher und passte zur unabhängigen Produktion. Sein Vater D. A. Coscarelli half bei der Finanzierung und ist als Produzent genannt. Die ähnlichen Namen dürfen deshalb nicht als Regieteam gelesen werden. Der Hauptregiecredit des fertigen Films gehört allein dem Sohn.",
+      "anchor": "Don führt Regie; sein Vater D. A. produziert.",
+      "interest": "Trennt ähnliche Familiennamen und ihre tatsächlichen Credits.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

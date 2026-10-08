@@ -3819,6 +3819,993 @@
     },
     {
       "rank": 1,
+      "film_title_de": "Das Cabinet des Dr. Caligari",
+      "film_title_original": "Das Cabinet des Dr. Caligari",
+      "film_year": 1920,
+      "subdomain": "Horror",
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: prägender expressionistischer Stummfilm, dessen vollständige Handlung eher einem filmhistorisch interessierten Publikum vertraut ist.",
+      "directors": [
+        "Robert Wiene"
+      ],
+      "production_countries": [
+        "Deutschland"
+      ],
+      "country_note": "",
+      "release_note": "filmportal: Uraufführung am 26. Februar 1920 in Berlin. Herstellung 1919/1920 ist davon getrennt; spätere Restaurierungen verändern das Erstjahr nicht.",
+      "director_note": "Robert Wiene trägt den Hauptregiecredit; Rochus Gliese ist Regieassistenz. Frühere Planungen mit Fritz Lang begründen keinen weiteren Hauptcredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "portal",
+          "url": "https://www.filmportal.de/film/das-cabinet-des-dr-caligari_cb123ff9496d416c972e6cd8aaec08ca",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-001-L1",
+      "year_question_id": "G100-20261008-HORROR-001-Y",
+      "director_question_id": "G100-20261008-HORROR-001-D"
+    },
+    {
+      "rank": 2,
+      "film_title_de": "Dracula",
+      "film_title_original": "Dracula",
+      "film_year": 1931,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Universal-Horrorklassiker mit Bela Lugosis prägender Darstellung.",
+      "directors": [
+        "Tod Browning"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Englische Universal-Fassung mit Bela Lugosi. AFI nennt den US-Start am 14. Februar 1931; der Wikipedia-Filmartikel die New-York-Premiere am 12. Februar. Erstjahr eindeutig 1931.",
+      "director_note": "Tod Browning ist der offizielle Hauptregisseur. Karl Freunds Kameracredit und berichtete Setmitwirkung ergeben keinen weiteren Hauptregiecredit. George Melford inszenierte die separate spanische Fassung.",
+      "series": {
+        "name": "Universal-Dracula",
+        "position": 1,
+        "note": "Englischer Auftakt; die gleichzeitig produzierte spanische Sprachfassung ist keine Fortsetzung."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/7690-DRACULA",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-002-L1",
+      "year_question_id": "G100-20261008-HORROR-002-Y",
+      "director_question_id": "G100-20261008-HORROR-002-D"
+    },
+    {
+      "rank": 3,
+      "film_title_de": "Frankenstein",
+      "film_title_original": "Frankenstein",
+      "film_year": 1931,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Universal-Klassiker mit einem vielfach zitierten Kreaturenbild.",
+      "directors": [
+        "James Whale"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Universal-Original mit Colin Clive/Boris Karloff, Erststart laut AFI am 21. November 1931. Handlung mit der heute wieder vollständig sichtbaren Maria-Sequenz; historische Zensurkopien können sie kürzen.",
+      "director_note": "James Whale trägt den Hauptregiecredit. Robert Florey entwickelte das frühere Projekt und trug zum Treatment bei; seine Vorarbeit ist kein gemeinsamer Hauptregiecredit.",
+      "series": {
+        "name": "Universal-Frankenstein",
+        "position": 1,
+        "note": "Auftakt der Universal-Filmfolge, vor Frankensteins Braut; frühere unabhängige Verfilmungen sind keine Teile dieser Folge."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Frankenstein_(1931_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3925-FRANKENSTEIN",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-003-L1",
+      "year_question_id": "G100-20261008-HORROR-003-Y",
+      "director_question_id": "G100-20261008-HORROR-003-D"
+    },
+    {
+      "rank": 4,
+      "film_title_de": "Frankensteins Braut",
+      "film_title_original": "Bride of Frankenstein",
+      "film_year": 1935,
+      "subdomain": "Horror",
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: bedeutende Universal-Fortsetzung, deren genaue Rahmenhandlung und Nebenfiguren eher Kennern vertraut sind.",
+      "directors": [
+        "James Whale"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Universal-Fortsetzung mit Colin Clive und Elsa Lanchester. AFI führt die Auswertung am 22. April 1935; der Wikipedia-Filmartikel frühere Termine am 19./20. April. Erstjahr 1935; reguläres veröffentlichtes Ende, keine verworfenen Vorabsequenzen.",
+      "director_note": "James Whale trägt den alleinigen Hauptregiecredit. Kurt Neumanns früher geplantes, aufgegebenes Fortsetzungsprojekt ist kein zusätzlicher Regiecredit dieses Films.",
+      "series": {
+        "name": "Universal-Frankenstein",
+        "position": 2,
+        "note": "Direkte Fortsetzung des Universal-Frankenstein mit Colin Clive; die Veröffentlichungsgeschichte ist von anderen Verfilmungen getrennt."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Bride_of_Frankenstein",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5831-BRIDE-OF-FRANKENSTEIN",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "previous",
+          "url": "https://catalog.afi.com/Film/3925-FRANKENSTEIN",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-004-L1",
+      "year_question_id": "G100-20261008-HORROR-004-Y",
+      "director_question_id": "G100-20261008-HORROR-004-D"
+    },
+    {
+      "rank": 5,
+      "film_title_de": "Katzenmenschen",
+      "film_title_original": "Cat People",
+      "film_year": 1942,
+      "subdomain": "Horror",
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: prägender atmosphärischer Horrorklassiker, dessen genaue Szenen eher Kennern vertraut sind.",
+      "directors": [
+        "Jacques Tourneur"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "RKO-Original mit Simone Simon, Erstjahr 1942. AFI nennt die New-York-Eröffnung am 6. Dezember, der Wikipedia-Filmartikel den 5. Dezember. Beide Quellen nennen 1942; Schraders Neuverfilmung ist ein anderes Werk.",
+      "director_note": "Jacques Tourneur trägt den Hauptregiecredit. Val Lewton ist Produzent, Doran Cox Assistenz; beide sind keine zusätzlichen Hauptregisseure.",
+      "series": {
+        "name": "Cat People",
+        "position": 1,
+        "note": "RKO-Original vor The Curse of the Cat People; die spätere Neuverfilmung gehört nicht zur unmittelbaren Folge."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_People_(1942_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/28696-cat-people",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/27177-CAT-PEOPLE",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-005-L1",
+      "year_question_id": "G100-20261008-HORROR-005-Y",
+      "director_question_id": "G100-20261008-HORROR-005-D"
+    },
+    {
+      "rank": 6,
+      "film_title_de": "Dracula",
+      "film_title_original": "Dracula",
+      "film_year": 1958,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Hammer-Horrorklassiker mit Christopher Lee und Peter Cushing.",
+      "directors": [
+        "Terence Fisher"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich"
+      ],
+      "country_note": "",
+      "release_note": "Hammer-Fassung mit Christopher Lee/Peter Cushing, US-Titel Horror of Dracula. Erstjahr 1958 nach BFI; der Wikipedia-Filmartikel nennt die US-Premiere vor dem Londoner Start. Keine Übertragung von Browning-Figurenbeziehungen oder späteren Schnittzusätzen.",
+      "director_note": "Terence Fisher trägt den Hauptregiecredit. Jimmy Sangster schrieb das Drehbuch, Anthony Hinds produzierte; keine weiteren Hauptregisseure.",
+      "series": {
+        "name": "Hammer-Dracula",
+        "position": 1,
+        "note": "Auftakt der Hammer-Dracula-Filmfolge; unabhängig von Universals Dracula-Reihe."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dracula_(1958_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/475669bf-4327-5d0a-9ce6-eea84ef18a6d/dracula",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "essay",
+          "url": "https://www.bfi.org.uk/features/why-i-love-dracula",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-006-L1",
+      "year_question_id": "G100-20261008-HORROR-006-Y",
+      "director_question_id": "G100-20261008-HORROR-006-D"
+    },
+    {
+      "rank": 7,
+      "film_title_de": "Vampyr – Der Traum des Allan Gray",
+      "film_title_original": "Vampyr",
+      "film_year": 1932,
+      "subdomain": "Horror",
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: filmhistorisch bedeutender, ungewöhnlicher früher Tonfilm, vor allem einem Kennerpublikum vertraut.",
+      "directors": [
+        "Carl Theodor Dreyer"
+      ],
+      "production_countries": [
+        "Deutschland",
+        "Frankreich"
+      ],
+      "country_note": "Das BFI-Programmblatt führt Deutschland/Frankreich, Criterion dagegen Dänemark. Die Länderzuordnung folgt hier dem BFI-Programmblatt.",
+      "release_note": "Erstjahr 1932, Berliner öffentliche Premiere nach dem BFI-Programmblatt im Mai. Fragen beziehen sich auf die restaurierte deutsche Sprachfassung mit Allan Gray; David Gray in französischen Fassungen und spätere Castle-of-Doom-Bearbeitungen sind getrennt.",
+      "director_note": "Carl Theodor Dreyer trägt allein Hauptregie. Christen Jul ist Mitautor; Julian West Produzent und Darsteller, kein weiterer Hauptregisseur.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vampyr",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/661-vampyr",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi_program",
+          "url": "https://bfidatadigipres.github.io/pdf/2022-05-05-vampyr.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-007-L1",
+      "year_question_id": "G100-20261008-HORROR-007-Y",
+      "director_question_id": "G100-20261008-HORROR-007-D"
+    },
+    {
+      "rank": 8,
+      "film_title_de": "American Werewolf",
+      "film_title_original": "An American Werewolf in London",
+      "film_year": 1981,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Horrorfilm mit ungewöhnlicher Verbindung von schwarzem Humor und sichtbarer Verwandlung.",
+      "directors": [
+        "John Landis"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Original mit David Naughton und Griffin Dunne, Erstjahr 1981. AFI unterscheidet Sneak-Previews am 14. August und US-Kinostart am 21. August; spätere britische Auswertung ist kein neues Erstjahr.",
+      "director_note": "John Landis trägt Hauptregie und Drehbuchcredit. Rick Baker verantwortet besondere Make-up-Effekte, George Folsey Jr. die Produktion; kein zusätzlicher Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/An_American_Werewolf_in_London",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/68275-AN-AMERICANWEREWOLFINLONDON",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-008-L1",
+      "year_question_id": "G100-20261008-HORROR-008-Y",
+      "director_question_id": "G100-20261008-HORROR-008-D"
+    },
+    {
+      "rank": 9,
+      "film_title_de": "The Fog – Nebel des Grauens",
+      "film_title_original": "The Fog",
+      "film_year": 1980,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter atmosphärischer Geisterfilm aus John Carpenters klassischer Schaffensphase.",
+      "directors": [
+        "John Carpenter"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Originalfilm: AFI nennt den ersten US-Kinostart am 1. Februar 1980. Die späteren regionalen Eröffnungen ändern das Erstjahr nicht; nicht das Remake von 2005.",
+      "director_note": "John Carpenter führt allein Hauptregie. Debra Hill ist Produzentin und Mitautorin, Tommy Lee Wallace unter anderem Produktionsdesigner und Editor.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Fog",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/53898-THE-FOG",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-009-L1",
+      "year_question_id": "G100-20261008-HORROR-009-Y",
+      "director_question_id": "G100-20261008-HORROR-009-D"
+    },
+    {
+      "rank": 10,
+      "film_title_de": "Fright Night – Die rabenschwarze Nacht",
+      "film_title_original": "Fright Night",
+      "film_year": 1985,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Vampirklassiker, der Vorstadthorror mit einer komischen Heldenfigur verbindet.",
+      "directors": [
+        "Tom Holland"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI: US-Kinostart am 2. August 1985. Die Dreharbeiten begannen bereits im Dezember 1984; sie bestimmen nicht das Erstjahr. Original mit William Ragsdale, nicht das Remake von 2011.",
+      "director_note": "Tom Holland führt allein Hauptregie und schrieb das Drehbuch; Herb Jaffe ist Produzent.",
+      "series": {
+        "name": "Fright Night",
+        "position": 1,
+        "note": "Originalfilm; die Neuverfilmung besitzt eine eigene Fassung und Besetzung."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Fright_Night",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67052-FRIGHT-NIGHT",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://catalog.afi.com/Film/58582-CHILDS-PLAY",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-010-L1",
+      "year_question_id": "G100-20261008-HORROR-010-Y",
+      "director_question_id": "G100-20261008-HORROR-010-D"
+    },
+    {
+      "rank": 11,
+      "film_title_de": "Das Böse",
+      "film_title_original": "Phantasm",
+      "film_year": 1979,
+      "subdomain": "Horror",
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: prägender, aber außerhalb des Horrorpublikums weniger allgemein bekannter Independentfilm.",
+      "directors": [
+        "Don Coscarelli"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Originalfilm: AFI nennt die Los-Angeles-Eröffnung am 28. März 1979 und New York am 1. Juni 1979. Nicht eine Fortsetzung oder die spätere Restaurierung.",
+      "director_note": "Don Coscarelli führt Hauptregie und trägt außerdem Drehbuch-, Kamera- und Schnittcredits. Sein Vater D. A. Coscarelli ist Produzent, kein zweiter Hauptregisseur.",
+      "series": {
+        "name": "Phantasm",
+        "position": 1,
+        "note": "Der Originalfilm; spätere Fortsetzungen erklären und verändern Teile seiner Mythologie."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Phantasm_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67731",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-011-L1",
+      "year_question_id": "G100-20261008-HORROR-011-Y",
+      "director_question_id": "G100-20261008-HORROR-011-D"
+    },
+    {
+      "rank": 12,
+      "film_title_de": "Hitcher – Der Highway Killer",
+      "film_title_original": "The Hitcher",
+      "film_year": 1986,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Straßenhorror und Thriller mit Rutger Hauer als unberechenbarem Verfolger.",
+      "directors": [
+        "Robert Harmon"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Originalfilm von 1986. AFI Watch bestätigt das Jahr, führt beim Tagesdatum aber den ersichtlich schematischen 1. Januar; der Artikelcache nennt den US-Kinostart am 21. Februar 1986. Nicht das Remake von 2007.",
+      "director_note": "Robert Harmon führt allein Hauptregie. Die doppelte Namensanzeige bei AFI Watch bezeichnet keine zweite Person. Charles Minsky ist Second Unit Director of Photography, kein zusätzlicher Hauptregisseur.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hitcher_(1986_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://watch.afi.com/movie/the-hitcher-1986",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://www.universalpicturesathome.com/movies/the-hitcher-2007",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-012-L1",
+      "year_question_id": "G100-20261008-HORROR-012-Y",
+      "director_question_id": "G100-20261008-HORROR-012-D"
+    },
+    {
+      "rank": 13,
+      "film_title_de": "Das Tier",
+      "film_title_original": "The Howling",
+      "film_year": 1981,
+      "subdomain": "Horror",
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: prägender Werwolfklassiker mit satirischen Medienbezügen, außerhalb des Genrepublikums etwas weniger geläufig.",
+      "directors": [
+        "Joe Dante"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 1981: AFI dokumentiert die Teilnahme am Festival von Avoriaz im Januar 1981, den regionalen US-Start am 13. März und den landesweiten Start am 10. April. Die Bezeichnung als Saturn-Gewinnerfilm für 1980 ist kein früherer Filmstart.",
+      "director_note": "Joe Dante führt allein Hauptregie. Jack Conrad plante das Projekt ursprünglich auch als Regisseur, führt den fertigen Film aber nicht und ist Produzent.",
+      "series": {
+        "name": "The Howling",
+        "position": 1,
+        "note": "Originalfilm mit Dee Wallace; die Fortsetzungen sind eigenständige Filme."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Howling_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56643-THE-HOWLING",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-013-L1",
+      "year_question_id": "G100-20261008-HORROR-013-Y",
+      "director_question_id": "G100-20261008-HORROR-013-D"
+    },
+    {
+      "rank": 14,
+      "film_title_de": "Final Destination",
+      "film_title_original": "Final Destination",
+      "film_year": 2000,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: sehr bekannter Reihenauftakt mit prägender Idee des unsichtbaren Todesplans.",
+      "directors": [
+        "James Wong"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "BFI führt USA als Produktionsland. Kanadische Drehorte und die dortige Flughafenvertretung werden nicht als zusätzlicher Ländercredit übernommen.",
+      "release_note": "Erster Film der Reihe: 2000, im Artikelcache US-Kinostart 17. März; BFI bestätigt 2000.",
+      "director_note": "James Wong führt allein Hauptregie; Glen Morgan und Jeffrey Reddick tragen Drehbuch- beziehungsweise weitere Produktionscredits.",
+      "series": {
+        "name": "Final Destination",
+        "position": 1,
+        "note": "Originalfilm mit Devon Sawa; spätere Teile haben eigene Ausgangskatastrophen."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Final_Destination_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/545dcfbd-7c17-513a-9cfc-63527e3d2fc7/final-destination",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://www.bfi.org.uk/film/b0f6df48-18b5-5a2c-aa52-2c42e6db1dd2/insidious",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-014-L1",
+      "year_question_id": "G100-20261008-HORROR-014-Y",
+      "director_question_id": "G100-20261008-HORROR-014-D"
+    },
+    {
+      "rank": 15,
+      "film_title_de": "Jeepers Creepers",
+      "film_title_original": "Jeepers Creepers",
+      "film_year": 2001,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter moderner Monsterfilm und Reihenauftakt mit markanter Straßen- und Geschwisterkonstellation.",
+      "directors": [
+        "Victor Salva"
+      ],
+      "production_countries": [
+        "Deutschland",
+        "USA"
+      ],
+      "country_note": "BFI führt Deutschland und USA. Die deutsche Koproduktionsfinanzierung ist auch in der Produktionsbeschreibung des Artikelbelegs ausgewiesen; Florida als Drehort macht den Film nicht zu einer ausschließlich US-amerikanischen Produktion.",
+      "release_note": "BFI bestätigt das Erstjahr 2001. Der Artikelcache dokumentiert eine Fantasia-Vorführung am 28. Juli 2001 vor dem US-Kinostart am 31. August. Erster Film mit Gina Philips und Justin Long.",
+      "director_note": "Victor Salva führt allein Hauptregie und schrieb das Drehbuch. Francis Ford Coppola ist an der Produktion beteiligt, kein weiterer Hauptregisseur.",
+      "series": {
+        "name": "Jeepers Creepers",
+        "position": 1,
+        "note": "Erster Film; weitere Angaben der Fortsetzungen werden nicht in seine Handlung übernommen."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Jeepers_Creepers_(2001_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/76a22eac-abb5-5fb3-bf91-d964a7cdb3bb/jeepers-creepers",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://watch.afi.com/movie/the-hitcher-1986",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-015-L1",
+      "year_question_id": "G100-20261008-HORROR-015-Y",
+      "director_question_id": "G100-20261008-HORROR-015-D"
+    },
+    {
+      "rank": 16,
+      "film_title_de": "Insidious",
+      "film_title_original": "Insidious",
+      "film_year": 2010,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: sehr bekannter übernatürlicher Reihenauftakt mit wiederkehrenden Figuren und markantem Zwischenreich.",
+      "directors": [
+        "James Wan"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "Kanada",
+        "USA"
+      ],
+      "country_note": "BFI nennt United Kingdom, Canada und USA; entsprechend werden alle drei Länder aufgenommen. Sonys Copyrightangabe Alliance Films (UK) Limited passt zur britischen Beteiligung, ist aber kein eigener Veröffentlichungsbeleg.",
+      "release_note": "Erste öffentliche Veröffentlichung: TIFF-Weltpremiere am 14. September 2010, vom Festivalbeitrag ausdrücklich für diesen Abend angekündigt. BFI führt 2010. Sony nennt 2011 für die spätere Kinoauswertung; dies ersetzt die Premiere nicht.",
+      "director_note": "James Wan führt allein Hauptregie. Leigh Whannell schrieb das Drehbuch und spielt Specs; Jason Blum, Oren Peli und Steven Schneider sind Produzenten.",
+      "series": {
+        "name": "Insidious",
+        "position": 1,
+        "note": "Der erste Film. Spätere Erklärungen zur Geisterfrau aus Chapter 2 werden nicht als bereits im Original erzählte Vorgeschichte behandelt."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Insidious_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/b0f6df48-18b5-5a2c-aa52-2c42e6db1dd2/insidious",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "tiff",
+          "url": "https://tiffmidnightmadness.blogspot.com/2010/09/insidious-premieres-tonight.html",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/insidious",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "year_anchor",
+          "url": "https://www.sonypictures.com/movies/insidiouschapter2",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-016-L1",
+      "year_question_id": "G100-20261008-HORROR-016-Y",
+      "director_question_id": "G100-20261008-HORROR-016-D"
+    },
+    {
+      "rank": 17,
+      "film_title_de": "Conjuring 2",
+      "film_title_original": "The Conjuring 2",
+      "film_year": 2016,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: breit bekannter moderner Geisterfilm und direkter Nachfolger eines verbreiteten Kinoerfolgs.",
+      "directors": [
+        "James Wan"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "country_note": "Institutionelle Zuordnung UK/USA nach dem BFI Statistical Yearbook 2017, Seite 27 Tabelle 2 Rang 11; zusätzlich Seite 57 Tabelle 13 und Seite 79 Tabelle 8. Der Artikelcache nennt enger USA. Keine Finanzierung oder Nationalität allein aus Drehorten abgeleitet.",
+      "release_note": "Erstjahr 2016 durch die Warner-Studiofilmografie bestätigt. Der Cache nennt die Premiere am 7. Juni vor dem regulären US-Start am 10. Juni; keine Veröffentlichung 2015 aus dem Drehbeginn ableiten.",
+      "director_note": "James Wan ist Hauptregisseur; die Drehbuchmitarbeit mehrerer Personen ist kein Regieteam.",
+      "series": {
+        "name": "Conjuring",
+        "position": 2,
+        "note": "Zweiter Film der Hauptreihe; Annabelle- und Nun-Ableger haben eigene Positionen und Handlungschronologien."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Conjuring_2",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.wbsl.com/studios/work/the-conjuring-2/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "first",
+          "url": "https://www.bfi.org.uk/film/10e05eb0-4909-5bd4-9acc-83b3247c5ece/the-conjuring",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "countries",
+          "url": "https://core-cms.bfi.org.uk/media/916/download",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "producer",
+          "url": "https://ratpacentertainment.com/the-conjuring-2",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-017-L1",
+      "year_question_id": "G100-20261008-HORROR-017-Y",
+      "director_question_id": "G100-20261008-HORROR-017-D"
+    },
+    {
+      "rank": 18,
+      "film_title_de": "Drag Me to Hell",
+      "film_title_original": "Drag Me to Hell",
+      "film_year": 2009,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter eigenständiger Horrorfilm eines verbreiteten Genre- und Spider-Man-Regisseurs.",
+      "directors": [
+        "Sam Raimi"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "USA durch AFI bestätigt; keine Länder aus Vertriebsterritorien ableiten.",
+      "release_note": "Erstjahr 2009 durch Universal und AFI bestätigt. Der vollständige Cache beschreibt die öffentliche Work-in-Progress-Vorführung bei SXSW vor der vollständigen Cannes-Fassung und dem regulären Kinostart; beide Vorführungen liegen 2009.",
+      "director_note": "Sam Raimi führt allein Hauptregie; Ivan Raimi ist Mitautor, kein zweiter Hauptregisseur.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Drag_Me_to_Hell",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/drag-me-to-hell",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/64873-DRAG-ME-TO-HELL",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "press",
+          "url": "https://cdn-media.festival-cannes.com/film_film/0001/70/afa074b4d47d9cd3f54aea694190e2572cdddaee.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-018-L1",
+      "year_question_id": "G100-20261008-HORROR-018-Y",
+      "director_question_id": "G100-20261008-HORROR-018-D"
+    },
+    {
+      "rank": 19,
+      "film_title_de": "Hostel",
+      "film_title_original": "Hostel",
+      "film_year": 2005,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter moderner Horrorfilm mit verbreitetem Reihentitel und markantem Reisekonflikt.",
+      "directors": [
+        "Eli Roth"
+      ],
+      "production_countries": [
+        "USA",
+        "Tschechien"
+      ],
+      "country_note": "BFI nennt ausdrücklich USA/Tschechien. Die Czech Film Commission führt enger USA und nennt gesondert die Produktion in Tschechien; der Mehrländercredit wird auf BFI gestützt, nicht allein auf Drehorte.",
+      "release_note": "Erstjahr 2005 nach BFI und Czech Film Commission; der reguläre US-Kinostart 2006 ist spätere Auswertung. Die Commission verlinkt die Toronto-Premiere im September 2005.",
+      "director_note": "Eli Roth ist alleiniger Hauptregisseur. Quentin Tarantinos Präsentations-/Produzentenbeteiligung ist kein Hauptregiecredit.",
+      "series": {
+        "name": "Hostel",
+        "position": 1,
+        "note": "Erster Film der Reihe, vor Hostel: Part II; veröffentlichtes Ende statt alternativem Drehbuchschluss."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/2307de36-952b-5e62-9881-8ee14a351633/hostel",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "commission",
+          "url": "https://filmcommission.gov.cz/en/film/hostel/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "earlier",
+          "url": "https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam::WScontent::loadArticle::permalink=bfifrightnightimax",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-019-L1",
+      "year_question_id": "G100-20261008-HORROR-019-Y",
+      "director_question_id": "G100-20261008-HORROR-019-D"
+    },
+    {
+      "rank": 20,
+      "film_title_de": "Annabelle",
+      "film_title_original": "Annabelle",
+      "film_year": 2014,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: breit bekannter Puppenhorror und prominenter Ableger des Conjuring-Universums.",
+      "directors": [
+        "John R. Leonetti"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "USA ausdrücklich nach AFI 70587.",
+      "release_note": "Erstjahr 2014 durch AFI bestätigt; keine Verwechslung mit dem Conjuring-Auftritt der Puppe 2013.",
+      "director_note": "John R. Leonetti ist Hauptregisseur; James Wan und Peter Safran Produzenten.",
+      "series": {
+        "name": "Annabelle",
+        "position": 1,
+        "note": "Erster veröffentlichter Annabelle-Ableger; Vorgeschichte innerhalb des Conjuring-Universums. Spätere Annabelle-Teile haben eine andere innere Chronologie."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annabelle_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/70587?cxt=filmography",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "first",
+          "url": "https://www.bfi.org.uk/film/10e05eb0-4909-5bd4-9acc-83b3247c5ece/the-conjuring",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-020-L1",
+      "year_question_id": "G100-20261008-HORROR-020-Y",
+      "director_question_id": "G100-20261008-HORROR-020-D"
+    },
+    {
+      "rank": 21,
+      "film_title_de": "The Hills Have Eyes – Hügel der blutigen Augen",
+      "film_title_original": "The Hills Have Eyes",
+      "film_year": 2006,
+      "subdomain": "Horror",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: verbreitetes modernes Horrorremake mit bekannter Vorlage und markantem Familienkonflikt.",
+      "directors": [
+        "Alexandre Aja"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "USA nach der BFI-Filmkarte. Marokkanische Dreharbeit begründet keinen zusätzlichen Ländercredit.",
+      "release_note": "Erstjahr 2006; 20th Century nennt den 10. März 2006. Die Synopsis derselben Studioseite beschreibt irrtümlich den Nationalgarde-Stoff der Fortsetzung und wird nicht als Inhaltsquelle verwendet.",
+      "director_note": "Alexandre Aja führt Hauptregie; Grégory Levasseur ist Mitautor, Wes Craven Produzent und Regisseur des getrennten Originals 1977.",
+      "series": {
+        "name": "The Hills Have Eyes – Neuverfilmungen",
+        "position": 1,
+        "note": "Erster Film des Remake-Zweigs; eigenständige Fassung 2006 statt Cravens Original 1977 oder der Nationalgarde-Fortsetzung 2007."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_(2006_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/the-hills-have-eyes",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/7a719462-14b2-5de4-9a7c-7f32ae145bfe/the-hills-have-eyes",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "original",
+          "url": "https://www.bfi.org.uk/film/b706a5da-f803-50d0-90ab-4d31694a4d08/the-hills-have-eyes",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "craven",
+          "url": "https://www.wescraven.com/film/the-hills-have-eyes/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-021-L1",
+      "year_question_id": "G100-20261008-HORROR-021-Y",
+      "director_question_id": "G100-20261008-HORROR-021-D"
+    },
+    {
+      "rank": 22,
+      "film_title_de": "Ju-on: The Grudge",
+      "film_title_original": "Ju-on: The Grudge",
+      "film_year": 2002,
+      "subdomain": "Horror",
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: prägender J-Horror für ein genrekundiges Publikum; die verschiedenen Video-, Kino- und Remakefassungen schränken die allgemeine Titelkenntnis ein.",
+      "directors": [
+        "Takashi Shimizu"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "country_note": "Japan durch das Programm des veranstaltenden Star-and-Shadow-Kinos bestätigt; japanisches UNIJAPAN-Register führt die Produktionsfirmen.",
+      "release_note": "Erstjahr 2002 durch den Screamfest-Kalender (18. Oktober 2002) und die Festivalpreisankündigung bestätigt. JFDB nennt den japanischen Kinostart am 25. Januar 2003. Der Cache-Augusttermin (23. August 2003) gehört laut JFDB ausdrücklich zur Fortsetzung.",
+      "director_note": "Takashi Shimizu trägt Hauptregie und Drehbuchcredit. Kinofilm mit Megumi Okina, nicht die früheren Videofilme oder das spätere US-Remake.",
+      "series": {
+        "name": "Ju-on – japanische Kinofilme",
+        "position": 1,
+        "note": "Erster japanischer Kinofilm nach den Videofilmen; Ju-on: The Grudge 2 folgt 2003. Nicht der US-Neuverfilmungszweig."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Ju-On:_The_Grudge",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "register",
+          "url": "https://jfdb.jp/en/title/49",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "festival",
+          "url": "https://www.screamfestnola.com/2002/festival/calendar",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "award",
+          "url": "https://screamfestla.com/article/2002/festival-winners",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "cinema",
+          "url": "https://www.starandshadow.org.uk/programme/event/ju-on-the-grudge,9657/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-022-L1",
+      "year_question_id": "G100-20261008-HORROR-022-Y",
+      "director_question_id": "G100-20261008-HORROR-022-D"
+    },
+    {
+      "rank": 23,
+      "film_title_de": "Halloween III – Die Nacht der Entscheidung",
+      "film_title_original": "Halloween III: Season of the Witch",
+      "film_year": 1982,
+      "subdomain": "Horror",
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: umstrittener eigenständiger Reihenteil, eher für ein genrekundiges Publikum als allgemein bekannter Filmstoff.",
+      "directors": [
+        "Tommy Lee Wallace"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "USA ausdrücklich nach AFI 56790.",
+      "release_note": "Erstveröffentlichung am 22. Oktober 1982 durch AFI-Details bestätigt.",
+      "director_note": "Tommy Lee Wallace trägt allein Hauptregie und veröffentlichten Drehbuchcredit. John Carpenter und Debra Hill produzieren; frühe Joe-Dante-Pläne sind kein finaler Hauptregiecredit.",
+      "series": {
+        "name": "Halloween",
+        "position": 3,
+        "note": "Dritter veröffentlichter Film; eigenständiger Stoff des versuchten Anthologiemodells, keine direkte Michael-Myers-Handlungsfortsetzung. Der frühere Film ist als TV-Referenz sichtbar."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56790-HALLOWEEN-III-SEASON-OF-THE-WITCH",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "original",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/56347?cxt=filmography",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-HORROR-023-L1",
+      "year_question_id": "G100-20261008-HORROR-023-Y",
+      "director_question_id": "G100-20261008-HORROR-023-D"
+    },
+    {
+      "rank": 1,
       "film_title_de": "Die Todesfaust des Cheng Li",
       "film_title_original": "Tang shan da xiong",
       "film_year": 1971,

@@ -9,6 +9,7 @@
 - [Rom-Com vollständig: 100 Filme / 830 Fragen und App-Abnahme](../../../docs/Genres-100-2026-10-08/RomCom/Pruefbericht.md)
 - [Western vollständig: 100 Filme / 832 Fragen und App-Abnahme](../../../docs/Genres-100-2026-10-08/Western/Pruefbericht.md)
 - [Fantasy vollständig: 100 Filme / 832 Fragen und App-Abnahme](../../../docs/Genres-100-2026-10-08/Fantasy/Pruefbericht.md)
+- [Horror vollständig: 100 Filme / 827 Fragen und App-Abnahme](../../../docs/Genres-100-2026-10-08/Horror/Pruefbericht.md)
 
 - [Version 57 veröffentlicht: 200 Bildfragen mit 400 Fotos und 2.480 weitere Fragen](../../../docs/Sites-Betrieb.md#version-57-200-bildfragen-mit-400-fotos-und-2480-weitere-fragen)
 - [Version 57: native Veröffentlichungsdaten, Online- und Duellkatalog](../../../docs/Veroeffentlichung-2026-10-07-Version-57.json)

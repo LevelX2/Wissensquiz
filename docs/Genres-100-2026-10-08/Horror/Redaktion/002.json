@@ -1,0 +1,212 @@
+{
+  "directors": [
+    "Tod Browning"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Englische Universal-Fassung mit Bela Lugosi. AFI nennt den US-Start am 14. Februar 1931; der Wikipedia-Filmartikel die New-York-Premiere am 12. Februar. Erstjahr eindeutig 1931.",
+  "director_note": "Tod Browning ist der offizielle Hauptregisseur. Karl Freunds Kameracredit und berichtete Setmitwirkung ergeben keinen weiteren Hauptregiecredit. George Melford inszenierte die separate spanische Fassung.",
+  "series": {
+    "name": "Universal-Dracula",
+    "position": 1,
+    "note": "Englischer Auftakt; die gleichzeitig produzierte spanische Sprachfassung ist keine Fortsetzung."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter Universal-Horrorklassiker mit Bela Lugosis prägender Darstellung.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Dracula_(1931_English-language_film)",
+    "afi": "https://catalog.afi.com/Film/7690-DRACULA"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Geschäft führt Renfield (Dwight Frye) in der englischen Fassung von @ zum Grafen?",
+      "answers": [
+        "Die Pacht von Carfax Abbey",
+        "Der Kauf eines Londoner Stadthauses",
+        "Die Verwaltung eines englischen Landsitzes",
+        "Die Vermietung einer Wohnung in London"
+      ],
+      "feedback": [
+        "Renfield wickelt die Pacht von Carfax Abbey ab.",
+        "Ein Stadthauskauf ist nicht der Auftrag.",
+        "Er soll keinen englischen Landsitz verwalten.",
+        "Eine Londoner Wohnung ist nicht Gegenstand des Vertrags."
+      ],
+      "short": "Renfields Auftrag betrifft die Pacht von Carfax Abbey in England.",
+      "context": "Renfield (Dwight Frye) kommt zunächst als geschäftlicher Besucher zu Dracula (Bela Lugosi). Er soll die Pacht von Carfax Abbey in England regeln. Die Reise ist deshalb kein freiwilliger Besuch bei einem bekannten Vampir. Das gewöhnliche Immobiliengeschäft schafft den Kontakt, aus dem seine Abhängigkeit entsteht. In dieser Fassung übernimmt Renfield die Schlossreise, während John Harker (David Manners) später in England zur Handlung gehört.",
+      "anchor": "Eine Immobilienpacht führt Renfield zum Grafen.",
+      "interest": "Erfasst den konkreten Ausgangsauftrag dieser Filmfassung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Tiere will Renfield (Dwight Frye) in der Anstalt in @ essen?",
+      "answers": [
+        "Fliegen und Spinnen",
+        "Schnecken und Regenwürmer",
+        "Mäuse und Eidechsen",
+        "Frösche und kleine Fische"
+      ],
+      "feedback": [
+        "Seine auffällige Nahrung sind Fliegen und Spinnen.",
+        "Diese Tiere beschreiben sein gezeigtes Verhalten nicht.",
+        "Mäuse und Eidechsen sind nicht die gesuchte Kombination.",
+        "Frösche und Fische bestimmen seine Nahrungssuche nicht."
+      ],
+      "short": "Renfield ist von Fliegen und Spinnen als Nahrung besessen.",
+      "context": "Renfield (Dwight Frye) fällt in der Anstalt durch seine Jagd auf Fliegen und Spinnen auf. Das Verhalten macht seine veränderte Verfassung sichtbar, bevor alle Beteiligten die Verbindung zum Grafen verstehen. Dr. Seward (Herbert Bunston) untersucht ihn als Patienten. Van Helsing (Edward Van Sloan) betrachtet seine Auffälligkeiten hingegen im Zusammenhang mit dem Vampirverdacht, der sich auch durch andere Ereignisse im Haus verdichtet.",
+      "anchor": "Fliegen und Spinnen verraten Renfields verändertes Verhalten.",
+      "interest": "Bietet einen konkreten Einstieg in die Anstaltsgeschichte.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Worin bemerkt Van Helsing (Edward Van Sloan) in der englischen Fassung von @ das fehlende Spiegelbild?",
+      "answers": [
+        "Im verspiegelten Deckel einer Zigarettenschachtel",
+        "Im Handspiegel der Gastgeberin",
+        "In der verglasten Tür eines Bücherschranks",
+        "Im Spiegel eines Garderobenschranks"
+      ],
+      "feedback": [
+        "Der Deckel einer Zigarettenschachtel dient als Spiegel.",
+        "Ein Handspiegel ist nicht der verwendete Gegenstand.",
+        "Die Bücherschranktür liefert den Nachweis nicht.",
+        "Der Garderobenschrank ist nicht das entscheidende Objekt."
+      ],
+      "short": "Der Spiegel im Deckel einer Zigarettenschachtel zeigt den Grafen nicht.",
+      "context": "Van Helsing (Edward Van Sloan) beobachtet Dracula (Bela Lugosi) während eines Besuchs im Haus. Der verspiegelte Deckel einer Zigarettenschachtel liefert einen handfesten Hinweis: Der Gast erscheint darin nicht. Als der Professor ihn damit konfrontiert, zerstört der Graf den Spiegel. Ein kleines gesellschaftliches Gebrauchsobjekt verändert somit die Bedeutung der höflichen Begegnung und stützt den zuvor nur vermuteten Zusammenhang zwischen dem Besucher und den Angriffen.",
+      "anchor": "Die Zigarettenschachtel wird zum Beweisstück.",
+      "interest": "Fragt den konkreten Gegenstand statt einer allgemeinen Vampirregel.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welchen pflanzlichen Schutz trägt Mina (Helen Chandler) in der englischen Fassung von @?",
+      "answers": [
+        "Wolfsbann",
+        "Knoblauch",
+        "Mistel",
+        "Lorbeer"
+      ],
+      "feedback": [
+        "Van Helsing ordnet Wolfsbann als Schutz an.",
+        "Knoblauch gehört nicht zu diesem konkret gezeigten Schutz.",
+        "Mistel wird hier nicht als Schutz verwendet.",
+        "Lorbeer ist nicht die angeordnete Pflanze."
+      ],
+      "short": "Mina wird mit Wolfsbann geschützt.",
+      "context": "Van Helsing (Edward Van Sloan) lässt Mina (Helen Chandler) beim Schlafen durch Wolfsbann schützen. Der Schutz funktioniert nur, solange er am vorgesehenen Ort bleibt. Dracula (Bela Lugosi) beeinflusst die betreuende Frau und lässt ihn entfernen, um wieder Zugang zu erhalten. Die Bedrohung durchbricht damit nicht einfach eine feste magische Grenze: Sie benutzt einen Menschen im Haus, um die Vorsichtsmaßnahme außer Kraft zu setzen.",
+      "anchor": "Wolfsbann schützt Mina, solange niemand ihn entfernt.",
+      "interest": "Erfasst die konkrete Schutzmaßnahme dieser Fassung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Womit lockt Dracula (Bela Lugosi) Renfield (Dwight Frye) in @ zur weiteren Hilfe?",
+      "answers": [
+        "Mit Tausenden Ratten als Nahrung",
+        "Mit unerschöpflichen Vorräten menschlichen Blutes",
+        "Mit einem Leben ohne Hunger und Krankheit",
+        "Mit der freien Jagd auf die Anstaltspatienten"
+      ],
+      "feedback": [
+        "Der Graf verspricht ihm zahlreiche Ratten voller Blut und Leben.",
+        "Unerschöpfliche menschliche Blutvorräte sind nicht das berichtete Versprechen.",
+        "Ein Leben ohne Hunger und Krankheit ist nicht das konkrete Lockmittel.",
+        "Freie Jagd auf Patienten ist nicht das Angebot."
+      ],
+      "short": "Dracula lockt Renfield mit einer ungeheuren Menge Ratten.",
+      "context": "Renfield (Dwight Frye) berichtet vom Versprechen des Grafen, ihm zahlreiche Ratten zu geben. Für den Patienten, der kleinere Lebewesen als Nahrung sucht, ist dieses Angebot ein wirksames Lockmittel. Dracula (Bela Lugosi) nutzt also nicht nur unmittelbare Hypnose, sondern auch ein Begehren seines Helfers. Die Erzählung erklärt dadurch einen weiteren Weg, auf dem die Abhängigkeit den Zugang zum Haus ermöglicht.",
+      "anchor": "Das Rattenversprechen macht Renfields Begehren zur Falle.",
+      "interest": "Erfasst ein konkretes Verführungsmittel neben der unmittelbaren Kontrolle.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum greift Dracula (Bela Lugosi) Renfield (Dwight Frye) in Carfax Abbey in @ tödlich an?",
+      "answers": [
+        "Er glaubt, Renfield habe die Verfolger zu ihm geführt.",
+        "Er glaubt, Renfield habe seinen Sarg verbrannt.",
+        "Er glaubt, Renfield habe seine Gefangene bereits getötet.",
+        "Er glaubt, Renfield habe seinen Sarg den Jägern ausgeliefert."
+      ],
+      "feedback": [
+        "Der Graf deutet die Ankunft der Verfolger als Verrat.",
+        "Ein verbrannter Sarg löst die Tat nicht aus.",
+        "Eine vermeintliche Tötung der Gefangenen ist nicht sein Grund.",
+        "Eine vermeintliche Übergabe des Sargs ist nicht der Anlass."
+      ],
+      "short": "Dracula hält die Verfolgung für Renfields Verrat.",
+      "context": "Van Helsing (Edward Van Sloan) und John Harker (David Manners) folgen Renfield (Dwight Frye) nach Carfax Abbey. Als Dracula (Bela Lugosi) ihre Anwesenheit bemerkt, nimmt er an, sein Helfer habe sie absichtlich dorthin gebracht. Er stößt Renfield die Treppe hinunter. Die Verfolgung führt damit nicht nur zur Konfrontation mit dem Vampir: Sie löst auch eine tödliche Fehlinterpretation innerhalb seines eigenen Abhängigkeitsverhältnisses aus.",
+      "anchor": "Die Verfolger kommen, der Graf vermutet Verrat.",
+      "interest": "Erklärt die unmittelbare Ursache einer zentralen Todesfolge.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien die englische Fassung von @ mit Bela Lugosi erstmals?",
+      "answers": [
+        "1931",
+        "1925",
+        "1937",
+        "1943"
+      ],
+      "feedback": [
+        "1931 ist der Erstjahrgang dieser Universal-Fassung.",
+        "1925 liegt sechs Jahre vor dem Film.",
+        "1937 liegt sechs Jahre nach dem Film.",
+        "1943 ist zwölf Jahre zu spät."
+      ],
+      "short": "Die englische Universal-Fassung erschien 1931.",
+      "context": "Bela Lugosi spielte Dracula bereits bei der amerikanischen Bühnenpremiere von 1927. Der englischsprachige Universal-Film erschien 1931, vier Jahre später. AFI dokumentiert diesen Bühnenvorlauf. Der zeitliche Zusammenhang erklärt, warum die Darstellung nicht erst am Filmset begann: Lugosi brachte Erfahrung mit der Rolle mit. Die gleichzeitig entstandene spanische Filmfassung besitzt eine andere Besetzung und einen anderen Regisseur, gehört also nicht zu dieser Zuordnung.",
+      "anchor": "Lugosis US-Bühnenrolle 1927, Film 1931: vier Jahre.",
+      "interest": "Verbindet das Erstjahr mit dem belegten Bühnenvorlauf.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte die Hauptregie der englischen Fassung von @ mit Bela Lugosi?",
+      "answers": [
+        "Tod Browning",
+        "James Whale",
+        "Edgar G. Ulmer",
+        "William Dieterle"
+      ],
+      "feedback": [
+        "Tod Browning trägt den Hauptregiecredit.",
+        "James Whale ist nicht der Regisseur dieser Fassung.",
+        "Edgar G. Ulmer führte hier nicht Hauptregie.",
+        "William Dieterle trägt hier keinen Regiecredit."
+      ],
+      "short": "Tod Browning führte bei der englischen Fassung Hauptregie.",
+      "context": "Tod Browning inszenierte die englische Universal-Fassung. Parallel entstand eine spanische Version unter George Melfords Regie, die ebenfalls Studiodekorationen nutzte, aber eine andere Besetzung hatte. Karl Freund ist beim englischen Film als Kameramann geführt. Für die Regiezuordnung zählt deshalb die konkrete Sprachfassung und ihr veröffentlichter Hauptcredit, nicht die gemeinsame Studioproduktion oder eine Verwechslung zwischen Kameraarbeit und Hauptregie.",
+      "anchor": "Englische Fassung: Tod Browning; spanische Fassung: George Melford.",
+      "interest": "Grenzt die gleichzeitigen Sprachproduktionen fachlich ab.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ],
+  "rank": 2
+}

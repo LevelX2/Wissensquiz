@@ -1,0 +1,213 @@
+{
+  "rank": 18,
+  "directors": [
+    "Sam Raimi"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "country_note": "USA durch AFI bestätigt; keine Länder aus Vertriebsterritorien ableiten.",
+  "release_note": "Erstjahr 2009 durch Universal und AFI bestätigt. Der vollständige Cache beschreibt die öffentliche Work-in-Progress-Vorführung bei SXSW vor der vollständigen Cannes-Fassung und dem regulären Kinostart; beide Vorführungen liegen 2009.",
+  "director_note": "Sam Raimi führt allein Hauptregie; Ivan Raimi ist Mitautor, kein zweiter Hauptregisseur.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter eigenständiger Horrorfilm eines verbreiteten Genre- und Spider-Man-Regisseurs.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Drag_Me_to_Hell",
+    "studio": "https://www.universalpicturesathome.com/movies/drag-me-to-hell",
+    "afi": "https://catalog.afi.com/Film/64873-DRAG-ME-TO-HELL",
+    "press": "https://cdn-media.festival-cannes.com/film_film/0001/70/afa074b4d47d9cd3f54aea694190e2572cdddaee.pdf"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Beruf arbeitet Christine Brown (Alison Lohman) in @?",
+      "answers": [
+        "Kreditsachbearbeiterin einer Bank",
+        "Maklerin für Wohnimmobilien",
+        "Versicherungsprüferin für Gebäudeschäden",
+        "Gerichtsvollzieherin für Mietforderungen"
+      ],
+      "feedback": [
+        "Christine bearbeitet Bankkredite.",
+        "Sie vermittelt keine Häuser als Maklerin.",
+        "Gebäudeschäden für Versicherungen sind nicht ihr Beruf.",
+        "Sie vollstreckt keine Gerichtsurteile als Gerichtsvollzieherin."
+      ],
+      "short": "Christine arbeitet in der Kreditabteilung einer Bank.",
+      "context": "Christine Brown (Alison Lohman) bearbeitet Kreditanträge und strebt eine Beförderung an. Der berufliche Wettbewerb bildet die Ausgangslage ihres Konflikts. Eine Entscheidung am Schreibtisch betrifft für die Antragstellerin jedoch den Verlust ihres Zuhauses. Der Film verbindet deshalb ein alltägliches Machtgefälle mit dem späteren übernatürlichen Schrecken: Die Hauptfigur hat zunächst institutionelle Entscheidungsmacht und verliert danach zunehmend die Kontrolle über ihr eigenes Leben.",
+      "anchor": "Die Kreditentscheidung verbindet Karriere und existenzielle Not.",
+      "interest": "Der Horror beginnt in einer gewöhnlichen beruflichen Situation.",
+      "sources": [
+        "film",
+        "studio",
+        "press"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was erbittet Sylvia Ganush (Lorna Raver) von Christine (Alison Lohman) in @?",
+      "answers": [
+        "Eine weitere Fristverlängerung für ihren Hauskredit",
+        "Die Auszahlung eines neuen Unternehmenskredits",
+        "Die Freigabe eines gesperrten Erbschaftskontos",
+        "Die Übernahme einer Bürgschaft für ihre Enkelin"
+      ],
+      "feedback": [
+        "Sie bittet um mehr Zeit für ihren Hauskredit.",
+        "Sie sucht keinen Unternehmenskredit.",
+        "Ein Erbschaftskonto ist nicht der Gegenstand ihrer Bitte.",
+        "Eine Bürgschaft für die Enkelin wird nicht beantragt."
+      ],
+      "short": "Die Bitte betrifft mehr Zeit zur Bedienung des Hauskredits.",
+      "context": "Sylvia Ganush (Lorna Raver) bittet Christine Brown (Alison Lohman) um eine weitere Verlängerung ihres Hauskredits. Christine entscheidet sich gegen die Bitte, um ihrem Vorgesetzten Entschlusskraft zu zeigen. Die öffentliche Zurückweisung verstärkt den Konflikt zwischen beiden Frauen. Für die Bankangestellte ist es ein Karriereschritt, für die Antragstellerin eine Bedrohung ihres Zuhauses; diese gegensätzlichen Perspektiven begründen den folgenden persönlichen Angriff.",
+      "anchor": "Die abgelehnte Frist betrifft Ganushs Zuhause.",
+      "interest": "Eine konkrete Bitte macht die Ausgangsentscheidung verständlich.",
+      "sources": [
+        "film",
+        "press"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welchen Gegenstand verwendet Ganush (Lorna Raver) in @ als Träger des Fluchs?",
+      "answers": [
+        "Einen Knopf von Christines Mantel",
+        "Christines Armbanduhr",
+        "Einen Schlüssel zu Christines Wohnung",
+        "Christines Namensschild aus der Bank"
+      ],
+      "feedback": [
+        "Sie reißt einen Mantelknopf ab und verflucht ihn.",
+        "Die Armbanduhr trägt den Fluch nicht.",
+        "Ein Wohnungsschlüssel wird nicht zum Fluchträger.",
+        "Das Namensschild ist nicht der entsprechende Gegenstand."
+      ],
+      "short": "Der Fluch wird an einen Mantelknopf gebunden.",
+      "context": "Beim Angriff im Parkhaus reißt Sylvia Ganush (Lorna Raver) einen Knopf von Christine Browns (Alison Lohman) Mantel ab. Sie legt den Fluch darauf und gibt ihn zurück. Dadurch erhält die Bedrohung einen unscheinbaren materiellen Träger. Später kann die Hauptfigur versuchen, diesen Gegenstand weiterzugeben. Der kleine Kleidungsbestandteil verbindet so den körperlichen Angriff mit einer Regel, die für die weiteren Rettungsversuche entscheidend wird.",
+      "anchor": "Ein abgerissener Mantelknopf trägt die Bedrohung weiter.",
+      "interest": "Ein gewöhnlicher Gegenstand strukturiert die Fluchhandlung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "In welches Tier soll die Lamia bei San Denas (Adriana Barraza) Séance in @ gebannt werden?",
+      "answers": [
+        "In eine Ziege",
+        "In einen Hund",
+        "In einen Raben",
+        "In ein Pferd"
+      ],
+      "feedback": [
+        "Die Séance sieht die Ziege als Gefäß vor.",
+        "Ein Hund ist nicht das vorbereitete Gefäß.",
+        "Der Geist soll nicht in einen Raben gebannt werden.",
+        "Ein Pferd gehört nicht zum gezeigten Bannversuch."
+      ],
+      "short": "Die Ziege soll den Dämon aufnehmen.",
+      "context": "Shaun San Dena (Adriana Barraza) versucht bei einer Séance, die Lamia in eine Ziege zu bannen. Das Tier soll anschließend getötet werden, um die Bedrohung zu zerstören. Die Sitzung gerät jedoch außer Kontrolle und der Geist wechselt seine Erscheinungsformen. Christine Brown (Alison Lohman) erlebt dadurch, dass selbst die erfahrene Helferin keine einfache Sicherheit versprechen kann; der vorbereitete Plan und sein tatsächlicher Verlauf fallen auseinander.",
+      "anchor": "Die Ziege ist das geplante Gefäß des Bannversuchs.",
+      "interest": "Der misslingende Plan verbindet Ritual und unkontrollierbaren Verlauf.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum übergibt Christine (Alison Lohman) in @ den Fluchgegenstand schließlich nicht ihrem Kollegen Stu (Reggie Lee)?",
+      "answers": [
+        "Sein Flehen bringt sie dazu, ihn zu verschonen",
+        "Er hat bereits einen wirksamen Schutzzauber erhalten",
+        "Er ist vor dem Treffen aus dem Land geflohen",
+        "Er bietet ihr die ersehnte Beförderung an"
+      ],
+      "feedback": [
+        "Sie lässt sich von seinem Flehen umstimmen.",
+        "Ein bestätigter Schutzzauber verhindert die Übergabe nicht.",
+        "Stu erscheint zum Treffen und ist nicht geflohen.",
+        "Er erkauft seine Verschonung nicht mit einer Beförderung."
+      ],
+      "short": "Christine gibt ihren geplanten Fluchtransfer aus Mitleid auf.",
+      "context": "Christine Brown (Alison Lohman) will den verfluchten Gegenstand zunächst an ihren intrigierenden Kollegen Stu Rubin (Reggie Lee) weitergeben. Beim Treffen fleht er jedoch um Nachsicht, und sie verschont ihn. Die Szene zeigt eine Entscheidung unter äußerstem Eigendruck: Eine Gelegenheit zur Rettung bedeutet zugleich, einen anderen Menschen bewusst zu opfern. Ihr Verzicht führt zur Suche nach einem weiteren Empfänger und ist keine Bestätigung ihrer eigenen Rettung.",
+      "anchor": "Mitleid stoppt den geplanten Transfer an den Kollegen.",
+      "interest": "Die Rettungssuche wird zur moralischen Entscheidung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Verwechslung zerstört Christines (Alison Lohman) vermeintliche Rettung im Finale von @?",
+      "answers": [
+        "Sie legt den Münzumschlag statt des Knopfumschlags ins Grab",
+        "Sie verwechselt das Grab der Frau mit dem ihrer Enkelin",
+        "Sie verwendet einen Ersatzknopf statt des zuvor verfluchten Knopfs",
+        "Sie übergibt den Knopf dem Helfer statt der Verstorbenen"
+      ],
+      "feedback": [
+        "Die ähnlich aussehenden Umschläge werden vertauscht.",
+        "Ein falsches Grab ist nicht der entscheidende Irrtum.",
+        "Ein Ersatzknopf begründet das Scheitern nicht.",
+        "Die geplante Übergabe scheitert nicht an einem solchen Empfängerwechsel."
+      ],
+      "short": "Der falsche Umschlag lässt den Fluch bei Christine.",
+      "context": "Christine Brown (Alison Lohman) glaubt, den verfluchten Knopf im Grab abgelegt zu haben. Am Bahnhof zeigt Clay Dalton (Justin Long) ihr jedoch den noch vorhandenen Knopfumschlag. Sie hatte stattdessen den ähnlichen Umschlag mit einer seltenen Münze ins Grab gegeben. Diese Verwechslung erklärt, weshalb die scheinbar abgeschlossene Rettung scheitert: Die richtige Handlungsidee hilft nicht, wenn der tatsächliche Fluchträger nie den vorgesehenen Empfänger erreicht.",
+      "anchor": "Münze und Knopf liegen in ähnlichen, vertauschten Umschlägen.",
+      "interest": "Die Auflösung verbindet ein kleines Requisit mit dem Ausgang.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ erstmals?",
+      "answers": [
+        "2009",
+        "2006",
+        "2012",
+        "2015"
+      ],
+      "feedback": [
+        "2009 ist das Erstjahr.",
+        "2006 liegt drei Jahre davor.",
+        "2012 ist drei Jahre zu spät.",
+        "2015 liegt sechs Jahre danach."
+      ],
+      "short": "Raimis Horrorfilm erschien 2009.",
+      "context": "Drag Me to Hell erschien 2009. Justin Long hatte bereits 2007 in Stirb langsam 4.0 mitgewirkt, zwei Jahre zuvor; das Presseheft nennt diese frühere Zusammenarbeit mit Bruce Willis ausdrücklich. Hier spielt er dagegen den Partner einer bedrohten Bankangestellten. Der Abstand verbindet zwei unterschiedliche Filmrollen desselben Darstellers und hilft, den eigenständigen Horrorfilm zeitlich von seinem vorherigen großen Actionauftritt zu unterscheiden.",
+      "anchor": "Stirb langsam 4.0: 2007; Drag Me to Hell: 2009, zwei Jahre später.",
+      "interest": "Eine belegte frühere Rolle dient als Zeitanker.",
+      "sources": [
+        "studio",
+        "press"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @?",
+      "answers": [
+        "Sam Raimi",
+        "Robert Tapert",
+        "Scott Spiegel",
+        "Fede Álvarez"
+      ],
+      "feedback": [
+        "Sam Raimi führte Hauptregie.",
+        "Tapert ist Produzent dieses Films.",
+        "Spiegel ist nicht der Hauptregisseur.",
+        "Álvarez inszenierte diesen Film nicht."
+      ],
+      "short": "Sam Raimi kehrt hier zum Horror zurück.",
+      "context": "Sam Raimi führt Hauptregie und schreibt das Drehbuch gemeinsam mit seinem Bruder Ivan Raimi. Die Universal-Seite ordnet den Film ausdrücklich seiner Rückkehr zum Horror nach den Spider-Man-Arbeiten zu. Der Film verbindet Bedrohung, körperlich groteske Situationen und schwarzen Humor. Die Zusammenarbeit am Drehbuch begründet keinen gemeinsamen Regiecredit; auch die langjährige Produktionsbeteiligung Robert Taperts ist von Raimis Inszenierung zu unterscheiden.",
+      "anchor": "Raimi verbindet seine Horrorerfahrung mit einer neuen Fluchgeschichte.",
+      "interest": "Credits unterscheiden Inszenierung, Mitautorschaft und Produktion.",
+      "sources": [
+        "studio",
+        "afi",
+        "press"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "rank": 19,
+  "directors": [
+    "Eli Roth"
+  ],
+  "production_countries": [
+    "USA",
+    "Tschechien"
+  ],
+  "country_note": "BFI nennt ausdrücklich USA/Tschechien. Die Czech Film Commission führt enger USA und nennt gesondert die Produktion in Tschechien; der Mehrländercredit wird auf BFI gestützt, nicht allein auf Drehorte.",
+  "release_note": "Erstjahr 2005 nach BFI und Czech Film Commission; der reguläre US-Kinostart 2006 ist spätere Auswertung. Die Commission verlinkt die Toronto-Premiere im September 2005.",
+  "director_note": "Eli Roth ist alleiniger Hauptregisseur. Quentin Tarantinos Präsentations-/Produzentenbeteiligung ist kein Hauptregiecredit.",
+  "series": {
+    "name": "Hostel",
+    "position": 1,
+    "note": "Erster Film der Reihe, vor Hostel: Part II; veröffentlichtes Ende statt alternativem Drehbuchschluss."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter moderner Horrorfilm mit verbreitetem Reihentitel und markantem Reisekonflikt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Hostel_(2005_film)",
+    "bfi": "https://www.bfi.org.uk/film/2307de36-952b-5e62-9881-8ee14a351633/hostel",
+    "commission": "https://filmcommission.gov.cz/en/film/hostel/",
+    "earlier": "https://whatson.bfi.org.uk/imax/Online/default.asp?BOparam::WScontent::loadArticle::permalink=bfifrightnightimax"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welches Land führt der verlockende Reisetipp die Freunde in @?",
+      "answers": [
+        "Slowakei",
+        "Ungarn",
+        "Kroatien",
+        "Polen"
+      ],
+      "feedback": [
+        "Sie reisen in die Slowakei.",
+        "Ungarn ist nicht das Ziel des Tipps.",
+        "Sie folgen dem Tipp nicht nach Kroatien.",
+        "Polen ist nicht der betreffende Handlungsort."
+      ],
+      "short": "Der Tipp führt die Reisenden in die Slowakei.",
+      "context": "Paxton Rodriguez (Jay Hernandez), Josh Brooks (Derek Richardson) und Óli Eriksson (Eyþór Guðjónsson) reisen gemeinsam durch Europa. Ein Fremder empfiehlt ihnen eine Unterkunft in der Slowakei und lockt mit einem vermeintlich besonders attraktiven Nachtleben. Der Ortswechsel bringt sie in den Einflussbereich eines kriminellen Geschäfts. Handlungsland und Produktionsland sind auseinanderzuhalten: Der Film erzählt nicht deshalb in Tschechien, weil dort viele Aufnahmen entstanden.",
+      "anchor": "Die Reise führt in die Slowakei; Dreharbeit ist ein anderes Ortsdatum.",
+      "interest": "Die Reiseentscheidung öffnet den Weg in die Gefahr.",
+      "sources": [
+        "film",
+        "commission"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wofür zahlen die Kunden des Elite Hunting Club in @?",
+      "answers": [
+        "Für das Foltern und Töten entführter Menschen",
+        "Für illegale Kämpfe zwischen freiwilligen Teilnehmern",
+        "Für die Entführung wohlhabender Angehöriger gegen Lösegeld",
+        "Für den Schmuggel gestohlener Kunst über die Grenze"
+      ],
+      "feedback": [
+        "Die Organisation verkauft Gewalt an verschleppten Opfern.",
+        "Freiwillige Wettkämpfe sind nicht ihr Geschäft.",
+        "Lösegeld von Angehörigen ist nicht das Geschäftsmodell.",
+        "Kunstschmuggel beschreibt die Organisation nicht."
+      ],
+      "short": "Der Club verkauft seinen Kunden Gewalt gegen Menschen.",
+      "context": "Der Elite Hunting Club entführt Reisende und verkauft reichen Kunden die Möglichkeit, sie zu foltern und zu töten. Die Unterkunft und ihre vermeintlichen Verlockungen gehören zum System der Anwerbung. Paxton Rodriguez (Jay Hernandez) erkennt erst nach seiner Gefangennahme, welche wirtschaftliche Struktur hinter dem Verschwinden steckt. Der Film macht aus dem anfänglichen Konsumversprechen damit eine Bedrohung, in der die Reisenden selbst zur verkauften Ware werden.",
+      "anchor": "Das Reisevergnügen verbirgt den Verkauf der Reisenden an Gewaltkunden.",
+      "interest": "Das Geschäftsmodell erklärt mehrere zuvor rätselhafte Ereignisse.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum wird Paxton (Jay Hernandez) in @ nicht in derselben Nacht wie Josh (Derek Richardson) verschleppt?",
+      "answers": [
+        "Er ist im Vorratsraum der Disco eingeschlossen",
+        "Er verbringt die Nacht auf der Polizeiwache",
+        "Er kehrt wegen Fiebers früher ins Hotel zurück",
+        "Er begleitet einen verletzten Freund ins Krankenhaus"
+      ],
+      "feedback": [
+        "Der verschlossene Vorratsraum verhindert zunächst seine Abholung.",
+        "Die Polizeiwache erklärt sein Ausbleiben nicht.",
+        "Eine frühzeitige Rückkehr mit Fieber ist nicht der Vorgang.",
+        "Eine Krankenhausbegleitung schützt ihn nicht in dieser Nacht."
+      ],
+      "short": "Sein Einschluss im Vorratsraum verzögert die Verschleppung.",
+      "context": "Paxton Rodriguez (Jay Hernandez) wird nach dem Discobesuch in einem Vorratsraum eingeschlossen und schläft dort ein. Josh Brooks (Derek Richardson) kehrt dagegen zur Unterkunft zurück und wird verschleppt. Der scheinbar ärgerliche Einschluss verändert somit die Gefahrenfolge. Als ein Mitarbeiter die Tür öffnet, ist der Freund bereits verschwunden. Diese getrennten Wege erklären, weshalb einer noch nachforschen kann, während der andere schon zum Opfer geworden ist.",
+      "anchor": "Eine verschlossene Disco-Tür verschiebt die Abholung des Opfers.",
+      "interest": "Eine kleine Wegabweichung hat große Folgen.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welches Missgeschick ermöglicht Paxton (Jay Hernandez) in @ die Flucht aus seinen Fesseln?",
+      "answers": [
+        "Der Kunde durchtrennt mit der Kettensäge auch die Handfesseln",
+        "Der Wächter lässt beim Umkleiden einen Schlüssel zurück",
+        "Eine Stromabschaltung öffnet die elektrisch verriegelte Tür",
+        "Der Kunde löst seine Fesseln für ein fingiertes Verhör"
+      ],
+      "feedback": [
+        "Die Säge beschädigt neben der Hand auch die Fesseln.",
+        "Ein liegen gelassener Schlüssel löst diese Flucht nicht aus.",
+        "Eine elektrische Türfreigabe ist nicht die entscheidende Gelegenheit.",
+        "Ein fingiertes Verhör begründet keine freiwillige Freilassung."
+      ],
+      "short": "Die Kettensäge zerstört versehentlich seine Handfesseln.",
+      "context": "Der deutsche Kunde Johann (Petr Janiš) greift Paxton Rodriguez (Jay Hernandez) mit einer Kettensäge an. Dabei durchtrennt er versehentlich auch die Handfesseln. Als der Angreifer zusätzlich stürzt, erhält das Opfer eine Gelegenheit zur Gegenwehr. Der Film macht den Angriff dadurch zu einer ungeplanten Öffnung des Gefängnisses: Die Flucht beruht auf einem konkreten Fehler des Täters, nicht auf freiwilligem Erbarmen oder einem vorher bereitliegenden Rettungsplan.",
+      "anchor": "Die Waffe beschädigt zugleich die Fesseln ihres Opfers.",
+      "interest": "Der Kontrollverlust des Täters ermöglicht Gegenwehr.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie gewinnt Paxton (Jay Hernandez) in @ die Straßengang für den Angriff auf seine Verfolger?",
+      "answers": [
+        "Er gibt ihr Süßigkeiten und Kaugummi",
+        "Er überlässt ihr den gestohlenen Wagen",
+        "Er bietet ihr Zugang zum Clubgelände",
+        "Er verspricht ihr die Waffen der Wachen"
+      ],
+      "feedback": [
+        "Die Süßigkeiten bewegen die Kinder zur Hilfe.",
+        "Er bezahlt sie nicht mit seinem Fluchtwagen.",
+        "Er verspricht ihnen keinen Clubzugang.",
+        "Ein Waffengeschäft begründet ihre Hilfe nicht."
+      ],
+      "short": "Süßigkeiten verwandeln die frühere Bedrohung in Fluchthilfe.",
+      "context": "Paxton Rodriguez (Jay Hernandez) begegnet während der Flucht erneut der örtlichen Straßengang. Zuvor hatte die Gruppe seine Freunde bedroht; nun gibt er ihr Süßigkeiten und Kaugummi. Die Kinder greifen daraufhin die nachsetzenden Männer an. Der konkrete Tausch verändert eine frühere Begegnung im Handlungsverlauf: Hilfe kommt weder von einer zuverlässigen staatlichen Instanz noch aus selbstloser Freundschaft, sondern aus einer kurzfristigen gemeinsamen Interessenlage.",
+      "anchor": "Süßigkeiten richten die Straßengang gegen die Verfolger.",
+      "interest": "Eine frühere Begegnung erhält einen neuen Nutzen.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Woran erkennt Paxton (Jay Hernandez) in @ den niederländischen Kunden im Zug wieder?",
+      "answers": [
+        "An seiner Stimme",
+        "An einem sichtbar getragenen Clubausweis",
+        "An der Tätowierung auf seinem Arm",
+        "An Joshs Uhr an seinem Handgelenk"
+      ],
+      "feedback": [
+        "Die vertraute Stimme macht ihn auf den Mann aufmerksam.",
+        "Ein offen getragener Ausweis ist nicht der Wiedererkennungshinweis.",
+        "Eine Tätowierung am Arm ist nicht der Wiedererkennungshinweis im Zug.",
+        "Eine Uhr des Freundes begründet die Erkennung nicht."
+      ],
+      "short": "Die Stimme führt Paxton zu seinem früheren Peiniger.",
+      "context": "Nach der Flucht hört Paxton Rodriguez (Jay Hernandez) im Zug die Stimme des niederländischen Geschäftsmanns (Jan Vlasák). Der Mann hatte Josh Brooks (Derek Richardson) gefoltert und getötet. Paxton folgt ihm beim Halt in Wien in eine öffentliche Toilette und übt Rache. Die Wiedererkennung verbindet die anfängliche Zugbegegnung mit dem veröffentlichten Schluss; sie ist nicht der alternative Ausgang eines früheren Drehbuchs.",
+      "anchor": "Eine bekannte Stimme verknüpft erste Begegnung und Schlussrache.",
+      "interest": "Der Schluss greift eine frühe Begegnung wieder auf.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals öffentlich gezeigt?",
+      "answers": [
+        "2005",
+        "2002",
+        "2006",
+        "2008"
+      ],
+      "feedback": [
+        "2005 ist das durch Institutionen bestätigte Erstjahr.",
+        "2002 gehört zu Roths früherem Cabin Fever.",
+        "2006 ist der spätere reguläre US-Kinostart.",
+        "2008 liegt drei Jahre nach dem Erstjahr."
+      ],
+      "short": "Die erste öffentliche Auswertung begann 2005.",
+      "context": "Hostel wurde 2005 erstmals gezeigt, vor dem regulären US-Kinostart 2006. Eli Roths früherer Horrorfilm Cabin Fever stammt aus 2002, wie das BFI-Kinoprogramm bestätigt; zwischen den beiden Erstjahren liegen drei Jahre. Die Verbindung hilft, die Entwicklung von einem abgelegenen Ferienhauskonflikt zu einer Reise- und Ausbeutungsgeschichte zu verorten. Das spätere amerikanische Auswertungsjahr verschiebt den Anfang des zweiten Films nicht.",
+      "anchor": "Cabin Fever 2002, Hostel 2005: drei Jahre; US-Kino 2006 ist später.",
+      "interest": "Der frühere Film bietet einen Regisseur- und Zeitbezug.",
+      "sources": [
+        "bfi",
+        "commission",
+        "earlier",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Hauptregie?",
+      "answers": [
+        "Eli Roth",
+        "Quentin Tarantino",
+        "James Wan",
+        "Darren Lynn Bousman"
+      ],
+      "feedback": [
+        "Roth ist Hauptregisseur und Drehbuchautor.",
+        "Tarantinos Beteiligung ist keine Hauptregie.",
+        "Wan inszenierte diesen Film nicht.",
+        "Bousman trägt hier keinen Regiecredit."
+      ],
+      "short": "Eli Roth inszenierte und schrieb den Film.",
+      "context": "Eli Roth führt Hauptregie und schrieb das Drehbuch. BFI und Czech Film Commission bestätigen diese Zuordnung; Quentin Tarantinos Beteiligung an Präsentation und Produktion ersetzt sie nicht. Der Film beginnt als europäische Vergnügungsreise und enthüllt schrittweise eine Organisation, die ihre Opfer verkauft. Die dramatische Wendung verändert damit auch den Blick auf die anfängliche Unterkunft und ihre scheinbar freundlichen Vermittler, ohne einen realen Mordtourismus als bewiesen vorauszusetzen.",
+      "anchor": "Roth führt Regie; Tarantinos Präsentation ist ein anderer Credit.",
+      "interest": "Die Zuordnung klärt eine prominent beworbene Zusammenarbeit.",
+      "sources": [
+        "bfi",
+        "commission",
+        "film"
+      ]
+    }
+  ]
+}

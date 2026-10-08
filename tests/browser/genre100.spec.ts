@@ -5,6 +5,67 @@ import { questionSourceOf, genreOf } from "../../src/filters";
 import { filmIdentity } from "../../src/familiarity";
 import { catalogCounts } from "../catalog-counts";
 
+test("enthält 100 Horrorfilme, erhält die früheren Festivaljahre und lädt das Paket offline", async ({
+  page,
+  context,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-08T12:00:00+02:00") });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const initial = await readStoredState(page);
+  const horror = initial.questions.filter(
+    (q) => questionSourceOf(q) === "film" && genreOf(q) === "Horror",
+  );
+  expect(new Set(horror.map(filmIdentity)).size).toBe(100);
+  expect(horror).toHaveLength(827);
+  for (const [id, firstYear, laterYear] of [
+    ["G100-20261008-HORROR-016-Y", "2010", "2011"],
+    ["G100-20261008-HORROR-022-Y", "2002", "2003"],
+  ]) {
+    expect(initial.questions.find((q) => q.id === id)!.metadata.film_year).toBe(
+      firstYear,
+    );
+    await prepareQuestion(page, id);
+    await expect(page.locator(".question-card h1")).not.toContainText(
+      firstYear,
+    );
+    await expect(page.locator(".film-data")).toHaveCount(0);
+    await page
+      .getByRole("button", { name: "Keine Ahnung", exact: true })
+      .click();
+    await page.locator(".film-data > summary").click();
+    await expect(page.locator(".film-data")).toContainText(firstYear);
+    await expect(page.locator(".film-data")).toContainText(laterYear);
+    await page.getByRole("button", { name: "Pause & Startseite" }).click();
+    await page
+      .getByRole("button", { name: "Runde beenden", exact: true })
+      .click();
+    await expect
+      .poll(
+        async () =>
+          (await readStoredState(page)).rounds.filter(
+            (round) => round.status === "active",
+          ).length,
+      )
+      .toBe(0);
+  }
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(
+    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
+      exact: false,
+    }),
+  ).toBeVisible();
+  await context.setOffline(true);
+  await page.reload();
+  expect(
+    await page.evaluate(async () =>
+      (await fetch("/genre100-horror-fragen.csv")).text(),
+    ),
+  ).toBe(readFileSync("public/genre100-horror-fragen.csv", "utf8"));
+  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+});
+
 test("enthält 100 Fantasyfilme, erhält die vollständige Haupt- und Co-Regie und lädt das Paket offline", async ({
   page,
   context,

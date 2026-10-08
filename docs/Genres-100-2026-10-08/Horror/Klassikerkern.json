@@ -1,0 +1,375 @@
+{
+  "date": "2026-10-08",
+  "method": "Redaktioneller Kern über Stummfilm, Universal, Hammer, psychologischen Horror, Besessenheit, Slasher, Zombies, Körperhorror und J-Horror. Keine objektive Top-20-Rangliste. Alien und The Thing sind bereits global als Science-Fiction-Filmfragen vorhanden und werden weder dupliziert noch umgeordnet.",
+  "before": 12,
+  "added": 8,
+  "after": 20,
+  "context_sources": [
+    "https://www.bfi.org.uk/lists/10-great-horror-films-1930s",
+    "https://www.bfi.org.uk/lists/10-great-silent-horror-films",
+    "https://www.bfi.org.uk/lists/10-great-vampire-films",
+    "https://www.criterion.com/films/28696-cat-people",
+    "https://www.bfi.org.uk/lists/10-great-werewolf-films"
+  ],
+  "films": [
+    {
+      "film": "Nosferatu, eine Symphonie des Grauens|1922",
+      "title": "Nosferatu, eine Symphonie des Grauens",
+      "genre": "Horror",
+      "reason": "Stummfilm-Schatten und eine pestartige Bedrohung prägen den Vampirfilm.",
+      "status": "vorhanden",
+      "question_ids": [
+        "CLA-L-037",
+        "CLA-L-038",
+        "CLA-M-037",
+        "CLA-M-038",
+        "CLA-S-037",
+        "CLA-S-038",
+        "FF-069-YEAR",
+        "FF-069-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Psycho|1960",
+      "title": "Psycho",
+      "genre": "Horror",
+      "reason": "Perspektivwechsel und Alltagsschrecken verändern den psychologischen Horror.",
+      "status": "vorhanden",
+      "question_ids": [
+        "HOR-L-037",
+        "HOR-L-038",
+        "HOR-M-037",
+        "HOR-M-038",
+        "HOR-S-037",
+        "HOR-S-038",
+        "FF-194-YEAR",
+        "FF-194-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Exorcist|1973",
+      "title": "Der Exorzist",
+      "genre": "Horror",
+      "reason": "Familiärer Konflikt, Glaube und Besessenheit werden zum großen Kinodrama.",
+      "status": "vorhanden",
+      "question_ids": [
+        "HOR-L-027",
+        "HOR-L-028",
+        "HOR-M-027",
+        "HOR-M-028",
+        "HOR-S-027",
+        "HOR-S-028",
+        "FF-189-YEAR",
+        "FF-189-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Halloween|1978",
+      "title": "Halloween – Die Nacht des Grauens",
+      "genre": "Horror",
+      "reason": "Vorstadtraum, subjektive Kamera und ein beinahe gesichtsloser Täter prägen den Slasher.",
+      "status": "vorhanden",
+      "question_ids": [
+        "HOR-L-001",
+        "HOR-L-002",
+        "HOR-M-001",
+        "HOR-M-002",
+        "HOR-S-001",
+        "HOR-S-002",
+        "HOR-L-001-V1",
+        "HOR-L-002-V1",
+        "HOR-M-001-V1",
+        "HOR-M-002-V1",
+        "HOR-S-001-V1",
+        "HOR-S-002-V1",
+        "FF-176-YEAR",
+        "FF-176-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Shining|1980",
+      "title": "Shining",
+      "genre": "Horror",
+      "reason": "Raum, Wiederholung und familiäre Gewalt erzeugen einen mehrdeutigen Albtraum.",
+      "status": "vorhanden",
+      "question_ids": [
+        "HOR-L-017",
+        "HOR-L-018",
+        "HOR-M-017",
+        "HOR-M-018",
+        "HOR-S-017",
+        "HOR-S-018",
+        "HOR-L-017-V1",
+        "HOR-L-018-V1",
+        "HOR-M-017-V1",
+        "HOR-M-018-V1",
+        "HOR-S-017-V1",
+        "HOR-S-018-V1",
+        "FF-184-YEAR",
+        "FF-184-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Texas Chain Saw Massacre|1974",
+      "title": "Blutgericht in Texas",
+      "genre": "Horror",
+      "reason": "Schmutzige Alltagsästhetik und die bedrohte Reisegruppe prägen den modernen Terrorfilm.",
+      "status": "vorhanden",
+      "question_ids": [
+        "HOR-L-041",
+        "HOR-L-042",
+        "HOR-M-041",
+        "HOR-M-042",
+        "HOR-S-041",
+        "HOR-S-042",
+        "FF-196-YEAR",
+        "FF-196-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Rosemary's Baby|1968",
+      "title": "Rosemaries Baby",
+      "genre": "Horror",
+      "reason": "Wohnung, Ehe und Nachbarschaft verbinden soziale Kontrolle mit übernatürlichem Schrecken.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-089-L1",
+        "F240-20261006-089-L2",
+        "F240-20261006-089-M1",
+        "F240-20261006-089-M2",
+        "F240-20261006-089-S1",
+        "F240-20261006-089-S2",
+        "F240-20261006-089-Y",
+        "F240-20261006-089-D"
+      ]
+    },
+    {
+      "film": "Night of the Living Dead|1968",
+      "title": "Die Nacht der lebenden Toten",
+      "genre": "Horror",
+      "reason": "Belagerung und innere Konflikte begründen den modernen Zombiehorror.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-097-L1",
+        "F240-20261006-097-L2",
+        "F240-20261006-097-M1",
+        "F240-20261006-097-M2",
+        "F240-20261006-097-S1",
+        "F240-20261006-097-S2",
+        "F240-20261006-097-Y",
+        "F240-20261006-097-D"
+      ]
+    },
+    {
+      "film": "Dawn of the Dead|1978",
+      "title": "Zombie",
+      "genre": "Horror",
+      "reason": "Das Einkaufszentrum verbindet Überlebenshandlung und Konsumkritik.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-098-L1",
+        "F240-20261006-098-L2",
+        "F240-20261006-098-M1",
+        "F240-20261006-098-M2",
+        "F240-20261006-098-S1",
+        "F240-20261006-098-S2",
+        "F240-20261006-098-Y",
+        "F240-20261006-098-D"
+      ]
+    },
+    {
+      "film": "Alien|1979",
+      "title": "Alien – Das unheimliche Wesen aus einer fremden Welt",
+      "genre": "Science-Fiction",
+      "reason": "Isolation und körperliche Bedrohung verbinden Weltraumfilm und Horror; vorhandene Science-Fiction-Zuordnung bleibt.",
+      "status": "vorhanden",
+      "question_ids": [
+        "SF-L-001",
+        "SF-L-001-V1",
+        "SF-M-001",
+        "SF-M-001-V1",
+        "SF-S-001",
+        "SF-S-001-V1",
+        "FF-126-YEAR",
+        "FF-126-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Thing|1982",
+      "title": "Das Ding aus einer anderen Welt",
+      "genre": "Science-Fiction",
+      "reason": "Misstrauen gegenüber dem eigenen Körper und der Gruppe verbindet Horror und Science-Fiction; Zuordnung bleibt.",
+      "status": "vorhanden",
+      "question_ids": [
+        "SF-202609-P02-L-025",
+        "SF-202609-P02-L-026",
+        "SF-202609-P02-M-025",
+        "SF-202609-P02-M-026",
+        "SF-202609-P02-S-025",
+        "SF-202609-P02-S-026",
+        "SF-202609-P02-L-025-V1",
+        "FF-338-YEAR",
+        "FF-338-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Ring|1998",
+      "title": "Ring – Das Original",
+      "genre": "Horror",
+      "reason": "Technische Medien tragen einen Fluch und prägen den internationalen J-Horror.",
+      "status": "vorhanden",
+      "question_ids": [
+        "HOR-L-043",
+        "HOR-L-044",
+        "HOR-M-043",
+        "HOR-M-044",
+        "HOR-S-043",
+        "HOR-S-044",
+        "HOR-L-043-V1",
+        "HOR-L-044-V1",
+        "HOR-M-043-V1",
+        "HOR-M-044-V1",
+        "HOR-S-043-V1",
+        "HOR-S-044-V1",
+        "FF-197-YEAR",
+        "FF-197-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Das Cabinet des Dr. Caligari|1920",
+      "title": "Das Cabinet des Dr. Caligari",
+      "genre": "Horror",
+      "reason": "Expressionistische Räume und eine gebrochene Erzählerperspektive bilden ein frühes Horrorfundament.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-HORROR-001-L1",
+        "G100-20261008-HORROR-001-L2",
+        "G100-20261008-HORROR-001-M1",
+        "G100-20261008-HORROR-001-M2",
+        "G100-20261008-HORROR-001-S1",
+        "G100-20261008-HORROR-001-S2",
+        "G100-20261008-HORROR-001-Y",
+        "G100-20261008-HORROR-001-D"
+      ]
+    },
+    {
+      "film": "Dracula|1931",
+      "title": "Dracula",
+      "genre": "Horror",
+      "reason": "Lugosis Darstellung und die Universal-Inszenierung prägen den Tonfilm-Vampir.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-HORROR-002-L1",
+        "G100-20261008-HORROR-002-L2",
+        "G100-20261008-HORROR-002-M1",
+        "G100-20261008-HORROR-002-M2",
+        "G100-20261008-HORROR-002-S1",
+        "G100-20261008-HORROR-002-S2",
+        "G100-20261008-HORROR-002-Y",
+        "G100-20261008-HORROR-002-D"
+      ]
+    },
+    {
+      "film": "Frankenstein|1931",
+      "title": "Frankenstein",
+      "genre": "Horror",
+      "reason": "Whales Monsterdrama verbindet technische Schöpfung und Mitgefühl mit der verfolgten Kreatur.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-HORROR-003-L1",
+        "G100-20261008-HORROR-003-L2",
+        "G100-20261008-HORROR-003-M1",
+        "G100-20261008-HORROR-003-M2",
+        "G100-20261008-HORROR-003-S1",
+        "G100-20261008-HORROR-003-S2",
+        "G100-20261008-HORROR-003-Y",
+        "G100-20261008-HORROR-003-D"
+      ]
+    },
+    {
+      "film": "Bride of Frankenstein|1935",
+      "title": "Frankensteins Braut",
+      "genre": "Horror",
+      "reason": "Die Fortsetzung erweitert das Monsterdrama um Ironie, Begehren und ein weiteres ikonisches Wesen.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-HORROR-004-L1",
+        "G100-20261008-HORROR-004-L2",
+        "G100-20261008-HORROR-004-M1",
+        "G100-20261008-HORROR-004-M2",
+        "G100-20261008-HORROR-004-S1",
+        "G100-20261008-HORROR-004-S2",
+        "G100-20261008-HORROR-004-Y",
+        "G100-20261008-HORROR-004-D"
+      ]
+    },
+    {
+      "film": "Cat People|1942",
+      "title": "Katzenmenschen",
+      "genre": "Horror",
+      "reason": "Tourneur und Lewton verlagern Schrecken in Schatten, Geräusche und unsichere Wahrnehmung.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-HORROR-005-L1",
+        "G100-20261008-HORROR-005-L2",
+        "G100-20261008-HORROR-005-M1",
+        "G100-20261008-HORROR-005-M2",
+        "G100-20261008-HORROR-005-S1",
+        "G100-20261008-HORROR-005-S2",
+        "G100-20261008-HORROR-005-Y",
+        "G100-20261008-HORROR-005-D"
+      ]
+    },
+    {
+      "film": "Dracula|1958",
+      "title": "Dracula",
+      "genre": "Horror",
+      "reason": "Hammers Farbfilm und Christopher Lees Darstellung erneuern den Vampirfilm.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-HORROR-006-L1",
+        "G100-20261008-HORROR-006-L2",
+        "G100-20261008-HORROR-006-M1",
+        "G100-20261008-HORROR-006-M2",
+        "G100-20261008-HORROR-006-S1",
+        "G100-20261008-HORROR-006-S2",
+        "G100-20261008-HORROR-006-Y",
+        "G100-20261008-HORROR-006-D"
+      ]
+    },
+    {
+      "film": "Vampyr|1932",
+      "title": "Vampyr – Der Traum des Allan Gray",
+      "genre": "Horror",
+      "reason": "Dreyers traumartige Bild- und Tonräume erweitern Horror um eine instabile Wahrnehmung.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-HORROR-007-L1",
+        "G100-20261008-HORROR-007-L2",
+        "G100-20261008-HORROR-007-M1",
+        "G100-20261008-HORROR-007-M2",
+        "G100-20261008-HORROR-007-S1",
+        "G100-20261008-HORROR-007-S2",
+        "G100-20261008-HORROR-007-Y",
+        "G100-20261008-HORROR-007-D"
+      ]
+    },
+    {
+      "film": "An American Werewolf in London|1981",
+      "title": "American Werewolf",
+      "genre": "Horror",
+      "reason": "Horrorkomödie, körperliche Verwandlung und tragische Folgen werden miteinander verbunden.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-HORROR-008-L1",
+        "G100-20261008-HORROR-008-L2",
+        "G100-20261008-HORROR-008-M1",
+        "G100-20261008-HORROR-008-M2",
+        "G100-20261008-HORROR-008-S1",
+        "G100-20261008-HORROR-008-S2",
+        "G100-20261008-HORROR-008-Y",
+        "G100-20261008-HORROR-008-D"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "rank": 23,
+  "directors": [
+    "Tommy Lee Wallace"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "country_note": "USA ausdrücklich nach AFI 56790.",
+  "release_note": "Erstveröffentlichung am 22. Oktober 1982 durch AFI-Details bestätigt.",
+  "director_note": "Tommy Lee Wallace trägt allein Hauptregie und veröffentlichten Drehbuchcredit. John Carpenter und Debra Hill produzieren; frühe Joe-Dante-Pläne sind kein finaler Hauptregiecredit.",
+  "series": {
+    "name": "Halloween",
+    "position": 3,
+    "note": "Dritter veröffentlichter Film; eigenständiger Stoff des versuchten Anthologiemodells, keine direkte Michael-Myers-Handlungsfortsetzung. Der frühere Film ist als TV-Referenz sichtbar."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: umstrittener eigenständiger Reihenteil, eher für ein genrekundiges Publikum als allgemein bekannter Filmstoff.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch",
+    "afi": "https://catalog.afi.com/Film/56790-HALLOWEEN-III-SEASON-OF-THE-WITCH",
+    "original": "https://catalog.afi.com/Catalog/MovieDetails/56347?cxt=filmography"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Beruf begegnet Daniel Challis (Tom Atkins) in @ dem verfolgten Mann?",
+      "answers": [
+        "Als Krankenhausarzt",
+        "Als Polizeidetektiv",
+        "Als Rettungssanitäter",
+        "Als Fabrikinspektor"
+      ],
+      "feedback": [
+        "Challis behandelt den Mann als Arzt.",
+        "Er ist nicht als Polizeiermittler eingesetzt.",
+        "Sein Beruf ist Arzt, nicht Rettungssanitäter.",
+        "Eine Fabrikinspektion führt nicht zu dieser ersten Begegnung."
+      ],
+      "short": "Challis arbeitet als Arzt im Krankenhaus.",
+      "context": "Daniel Challis (Tom Atkins) wird ins Krankenhaus gerufen, um einen verstörten Mann zu behandeln. Der Patient trägt eine Halloweenmaske und warnt vor einer drohenden Gefahr. Nach dessen Ermordung lässt der Arzt den Fall nicht bei einer gewöhnlichen medizinischen Behandlung bewenden. Sein Einstieg in die Untersuchung entsteht somit aus einem konkreten Patientenereignis und führt ihn erst später in die abgeschlossene Fabrikstadt.",
+      "anchor": "Ein verfolgter Patient bringt den Krankenhausarzt in den Fall.",
+      "interest": "Der Beruf erklärt den Beginn der Untersuchung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welches Produkt steht bei Silver Shamrock in @ im Zentrum der beworbenen Halloween-Aktion?",
+      "answers": [
+        "Masken für Kinder",
+        "Kostüme für Haustiere",
+        "Süßigkeitenpakete für Schulen",
+        "Mechanische Dekorationen für Vorgärten"
+      ],
+      "feedback": [
+        "Die Firma wirbt für ihre Halloweenmasken.",
+        "Haustierkostüme sind nicht das zentrale Produkt.",
+        "Eine schulische Süßigkeitenverteilung trägt den Plan nicht.",
+        "Vorgartendekorationen sind nicht das beworbene Produkt."
+      ],
+      "short": "Die Kinder sollen Silver-Shamrock-Masken tragen.",
+      "context": "Silver Shamrock bewirbt Halloweenmasken mit einem ständig wiederkehrenden Fernsehspot. Die Produkte bringen das Geschehen in der Fabrik mit den Kindern außerhalb der Stadt zusammen. Daniel Challis (Tom Atkins) untersucht zunächst einen rätselhaften Todesfall, erkennt später aber einen wesentlich größeren Zusammenhang. Die Werbung ist dabei kein beiläufiger Hintergrund: Sie sorgt dafür, dass ein alltäglicher Feiertagsartikel möglichst viele Haushalte erreicht und dort zur Gefahr werden kann.",
+      "anchor": "Die Masken verbinden Fabrik und Kinder in vielen Haushalten.",
+      "interest": "Das Verkaufsprodukt macht die Größenordnung des Plans verständlich.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welches Material steckt nach Cochrans (Dan O’Herlihy) Erklärung in den Maskenchips von @?",
+      "answers": [
+        "Fragmente eines gestohlenen Stonehenge-Steins",
+        "Staub aus einer ägyptischen Grabkammer",
+        "Splitter einer griechischen Tempelstatue",
+        "Asche aus einem alten irischen Kloster"
+      ],
+      "feedback": [
+        "Der gestohlene Stonehenge-Stein liefert die Fragmente.",
+        "Eine ägyptische Grabkammer ist nicht die Quelle.",
+        "Tempelstatuensplitter gehören nicht zum gezeigten Material.",
+        "Klosterasche erklärt die Wirkung nicht."
+      ],
+      "short": "Die Chips enthalten Fragmente des Stonehenge-Steins.",
+      "context": "Conal Cochran (Dan O’Herlihy) zeigt Daniel Challis (Tom Atkins) einen gestohlenen Stein aus Stonehenge und verbindet ihn mit seinem Opferplan. Kleine Fragmente werden in die Technik der Masken eingebracht. Der Film verknüpft dadurch eine behauptete uralte magische Kraft mit industrieller Herstellung. Die Erklärung gehört ausdrücklich zur Fiktion: Ein wirklicher historischer oder naturwissenschaftlicher Wirkungsnachweis für die Steine wird damit nicht geliefert.",
+      "anchor": "Alter Stein und moderner Chip verbinden Ritual und Massenproduktion.",
+      "interest": "Die Kombination von Magie und Technik prägt den Gegnerplan.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was aktiviert in @ die tödliche Wirkung einer getragenen Silver-Shamrock-Maske?",
+      "answers": [
+        "Das besondere Bildsignal des beworbenen Fernsehspots",
+        "Ein versteckter Knopfdruck am Maskenrand",
+        "Das Signal eines örtlichen Radiosenders",
+        "Die Berührung durch eine zweite gleichartige Maske"
+      ],
+      "feedback": [
+        "Das gezeigte Bildsignal löst die Wirkung aus.",
+        "Ein Druckknopf ist nicht der vorgesehene Auslöser.",
+        "Das Massenritual läuft nicht über einen Radiosender.",
+        "Eine zweite Maske muss den Träger nicht berühren."
+      ],
+      "short": "Der Fernsehspot aktiviert die Maskentechnik.",
+      "context": "Conal Cochran (Dan O’Herlihy) demonstriert Daniel Challis (Tom Atkins) die Wirkung seines Plans an einer Familie in einem Testzimmer. Sobald der Junge mit aufgesetzter Maske das besondere Fernsehbild sieht, wird die tödliche Wirkung ausgelöst. Damit erhält die Werbung eine zweite Funktion: Sie lockt nicht nur zum Kauf, sondern verbreitet auch das aktivierende Signal. Das Ritual verbindet so die Fabrik mit den Fernsehern vieler Haushalte.",
+      "anchor": "Die Werbung verkauft die Maske und liefert zugleich ihr Aktivierungssignal.",
+      "interest": "Ein Alltagsmedium wird zum Werkzeug des Angriffs.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was entdeckt Challis (Tom Atkins) in @ über seine Begleiterin bei der Flucht aus der Fabrik?",
+      "answers": [
+        "Sie ist ein Roboter",
+        "Sie ist eine hypnotisierte Fabrikarbeiterin",
+        "Sie ist eine verkleidete Polizeiermittlerin",
+        "Sie ist ein besessener Mensch"
+      ],
+      "feedback": [
+        "Die Begleiterin erweist sich als robotisch.",
+        "Eine bloße Hypnose erklärt ihren Körper nicht.",
+        "Eine Polizeiverkleidung ist nicht die Enthüllung.",
+        "Sie wird nicht als gewöhnlicher besessener Mensch aufgelöst."
+      ],
+      "short": "Die vertraute Begleiterin ist eine robotische Gestalt.",
+      "context": "Daniel Challis (Tom Atkins) flieht mit einer Gestalt, die wie Ellie Grimbridge (Stacey Nelkin) aussieht. Im Wagen greift sie ihn an und erweist sich als Roboter. Damit setzt sich die bereits in der Fabrik entdeckte Gefahr künstlicher Menschen fort. Die vermeintliche Verbündete trägt den Angriff aus dem zerstörten Gebäude in die Flucht hinein: Ihre vertraute Erscheinung bietet dem Arzt keine Sicherheit.",
+      "anchor": "Die äußerlich vertraute Begleiterin hat einen künstlichen Körper.",
+      "interest": "Das Finale setzt die Täuschung durch menschenähnliche Technik fort.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was bleibt beim letzten verzweifelten Telefonruf von Challis (Tom Atkins) in @ offen?",
+      "answers": [
+        "Ob auch die letzte Fernsehausstrahlung gestoppt wird",
+        "Ob die Fabrikleitung seinen Rückruf annimmt",
+        "Ob die Polizei den gestohlenen Stein zurückbringen kann",
+        "Ob seine Begleiterin im Krankenhaus überlebt"
+      ],
+      "feedback": [
+        "Für den letzten Sender gibt es keine gesicherte Entwarnung.",
+        "Sein letzter Anruf gilt nicht einer Rückrufzusage der Fabrik.",
+        "Die Steinrückführung ist nicht die offene Schlussfrage.",
+        "Eine menschliche Krankenhausrettung der Begleiterin ist nicht der letzte Konflikt."
+      ],
+      "short": "Die letzte Sendung wird nicht nachweislich verhindert.",
+      "context": "Daniel Challis (Tom Atkins) versucht nach der Flucht, die Fernsehausstrahlung des gefährlichen Spots zu verhindern. Zwei Sender stoppen ihre Übertragung; beim letzten bleibt eine erfolgreiche Reaktion aus. Sein flehender Ruf bildet den Schluss. Die Zerstörung der Fabrik garantiert deshalb nicht, dass alle bereits verteilten Masken ungefährlich geworden sind. Eine sichere vollständige Rettung oder genaue Opferzahl lässt sich aus dem offenen Ende nicht ableiten.",
+      "anchor": "Die Fabrik ist zerstört, aber die letzte Sendung bleibt eine Gefahr.",
+      "interest": "Das offene Ende trennt örtlichen Sieg und landesweite Entwarnung.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ erstmals?",
+      "answers": [
+        "1982",
+        "1979",
+        "1985",
+        "1988"
+      ],
+      "feedback": [
+        "1982 ist durch AFI bestätigt.",
+        "1979 liegt drei Jahre davor.",
+        "1985 ist drei Jahre später.",
+        "1988 liegt sechs Jahre danach."
+      ],
+      "short": "Die eigenständige dritte Folge erschien 1982.",
+      "context": "Halloween erschien 1978; Halloween III folgte 1982, vier Jahre später. AFI bestätigt die beiden Werkjahre und beschreibt den dritten Film als Versuch einer eigenständigen neuen Geschichte innerhalb der Reihe. Der erste Film wird hier sogar als Fernsehreferenz gezeigt. Der zeitliche Abstand verbindet damit zwei unterschiedlich angelegte Filme: einen Verfolgungshorror um einen maskierten Angreifer und einen industriell organisierten Opferplan, ohne beide Handlungen als direkte Fortsetzung gleichzusetzen.",
+      "anchor": "Halloween 1978, Halloween III 1982: vier Jahre Abstand.",
+      "interest": "Die Reihe erprobt nach vier Jahren ein anderes Erzählmodell.",
+      "sources": [
+        "afi",
+        "original",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Hauptregie?",
+      "answers": [
+        "Tommy Lee Wallace",
+        "Rick Rosenthal",
+        "Dwight H. Little",
+        "Dominique Othenin-Girard"
+      ],
+      "feedback": [
+        "Wallace ist der veröffentlichte Hauptregisseur.",
+        "Rosenthal trägt den Credit des zweiten Films, nicht dieser Folge.",
+        "Little inszenierte diese Folge nicht.",
+        "Othenin-Girard ist nicht ihr Hauptregisseur."
+      ],
+      "short": "Tommy Lee Wallace inszenierte die eigenständige dritte Folge.",
+      "context": "Tommy Lee Wallace führt Hauptregie und trägt den veröffentlichten Drehbuchcredit. John Carpenter und Debra Hill produzieren den Film, während frühere Regiepläne mit Joe Dante nicht der endgültigen Besetzung entsprechen. Wallace hatte bereits beim ersten Halloween als Gestalter und Cutter mitgearbeitet. Hier soll die bekannte Reihe eine eigenständige Horrorgeschichte tragen; die Beteiligung früherer Teammitglieder bedeutet daher weder dieselbe Regie noch eine direkte Fortsetzung der früheren Verfolgerhandlung.",
+      "anchor": "Wallace inszeniert; Carpenter und Hill produzieren.",
+      "interest": "Die Creditgeschichte begleitet den Wechsel zum eigenständigen Stoff.",
+      "sources": [
+        "afi",
+        "film",
+        "original"
+      ]
+    }
+  ]
+}

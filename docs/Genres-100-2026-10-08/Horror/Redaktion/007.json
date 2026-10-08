@@ -1,0 +1,211 @@
+{
+  "directors": [
+    "Carl Theodor Dreyer"
+  ],
+  "production_countries": [
+    "Deutschland",
+    "Frankreich"
+  ],
+  "release_note": "Erstjahr 1932, Berliner öffentliche Premiere nach dem BFI-Programmblatt im Mai. Fragen beziehen sich auf die restaurierte deutsche Sprachfassung mit Allan Gray; David Gray in französischen Fassungen und spätere Castle-of-Doom-Bearbeitungen sind getrennt.",
+  "director_note": "Carl Theodor Dreyer trägt allein Hauptregie. Christen Jul ist Mitautor; Julian West Produzent und Darsteller, kein weiterer Hauptregisseur.",
+  "country_note": "Das BFI-Programmblatt führt Deutschland/Frankreich, Criterion dagegen Dänemark. Die Länderzuordnung folgt hier dem BFI-Programmblatt.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: filmhistorisch bedeutender, ungewöhnlicher früher Tonfilm, vor allem einem Kennerpublikum vertraut.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Vampyr",
+    "criterion": "https://www.criterion.com/films/661-vampyr",
+    "bfi_program": "https://bfidatadigipres.github.io/pdf/2022-05-05-vampyr.pdf"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo nimmt Allan Gray (Julian West) bei seiner Ankunft in @ zunächst Quartier?",
+      "answers": [
+        "In einem Gasthof",
+        "In einem Kloster",
+        "In einem Jagdschloss",
+        "In einer Heilanstalt"
+      ],
+      "feedback": [
+        "Gray mietet ein Zimmer in einem Gasthof.",
+        "Er findet nicht zuerst in einem Kloster Unterkunft.",
+        "Ein Jagdschloss ist nicht sein erstes Quartier.",
+        "Eine Heilanstalt nimmt ihn nicht als Gast auf."
+      ],
+      "short": "Gray übernachtet zunächst in einem Gasthof.",
+      "context": "Allan Gray (Julian West) kommt am Abend in die Gegend von Courtempierre und mietet ein Zimmer in einem Gasthof. Ein gewöhnlicher Reisehalt wird dort zum Ausgangspunkt verstörender Ereignisse. Ein älterer Mann betritt später trotz verschlossener Tür sein Zimmer. Die Unterkunft bietet damit keine sichere Grenze gegen das Fremde. Der Film beginnt mit einem überschaubaren Ort, dessen vertraute Regeln schon in der Nacht unsicher werden.",
+      "anchor": "Der Gasthof bietet ein Zimmer, aber keine sichere Grenze.",
+      "interest": "Verankert den konkreten Einstieg ohne eine Titelantwort abzufragen.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wann soll Allan Gray (Julian West) das übergebene Paket in @ öffnen?",
+      "answers": [
+        "Erst nach dem Tod des Überbringers",
+        "Erst nach seiner Abreise aus dem Dorf",
+        "Erst beim nächsten Vollmond",
+        "Erst nach der Rückkehr des Arztes"
+      ],
+      "feedback": [
+        "Die Aufschrift bindet das Öffnen an den Tod des Überbringers.",
+        "Die Abreise ist nicht die genannte Bedingung.",
+        "Der nächste Vollmond bestimmt den Zeitpunkt nicht.",
+        "Die Rückkehr des Arztes ist keine Öffnungsbedingung."
+      ],
+      "short": "Das Paket soll erst nach dem Tod des Überbringers geöffnet werden.",
+      "context": "Der Gutsherr (Maurice Schutz) hinterlässt Allan Gray (Julian West) ein Paket mit einer ungewöhnlichen Anweisung: Es soll erst nach seinem Tod geöffnet werden. Später erkennt Gray den Mann wieder, als dieser auf seinem Anwesen erschossen wird. Die Übergabe verbindet dadurch die zunächst rätselhafte nächtliche Begegnung mit dem weiteren Geschehen. Aus einem verschlossenen Gegenstand wird ein Hilfsmittel, dessen Bedeutung erst nach dem Todesfall zugänglich ist.",
+      "anchor": "Der Tod des Überbringers öffnet den Weg zum Paket.",
+      "interest": "Verbindet eine frühe Anweisung mit dem späteren Handlungsablauf.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was tut Allan Gray (Julian West) bei Léones (Sybille Schmitz) ärztlicher Behandlung in @?",
+      "answers": [
+        "Er spendet ihr Blut.",
+        "Er hält sie für eine Operation fest.",
+        "Er entfernt einen Fremdkörper aus ihrer Wunde.",
+        "Er stellt das benötigte Gegengift her."
+      ],
+      "feedback": [
+        "Gray gibt sein Blut für eine Transfusion.",
+        "Eine Fixierung für eine Operation ist nicht seine Aufgabe.",
+        "Er entfernt keinen Fremdkörper.",
+        "Er stellt kein Gegengift her."
+      ],
+      "short": "Gray spendet Blut für Léones Transfusion.",
+      "context": "Léone (Sybille Schmitz) ist schwer geschwächt. Der Arzt (Jan Hieronimko) fordert eine Bluttransfusion, und Allan Gray (Julian West) stellt sein eigenes Blut zur Verfügung. Danach ist er erschöpft und schläft ein. Die Hilfsbereitschaft bringt ihn damit selbst in einen Zustand verminderter Aufmerksamkeit. Während er ruht, liest der alte Diener (Albert Bras) das Vampirbuch und findet darin Hinweise für das weitere Vorgehen.",
+      "anchor": "Die Blutspende hilft Léone und erschöpft Gray.",
+      "interest": "Erfasst einen konkreten Hilfsbeitrag mit einer unmittelbaren Folge.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Aus welcher Perspektive erlebt Allan Gray (Julian West) in @ seine eigene Beerdigungsvision?",
+      "answers": [
+        "Aus dem Sarg durch ein Fenster im Deckel",
+        "Vom Kirchturm über dem Trauerzug",
+        "Aus der Sicht eines begleitenden Kindes",
+        "Vom gegenüberliegenden Ufer des Flusses"
+      ],
+      "feedback": [
+        "Die Kamera übernimmt den Blick aus dem Sarg.",
+        "Ein Kirchturm ist nicht die Perspektive der Vision.",
+        "Der Blick eines Kindes ersetzt Grays Perspektive nicht.",
+        "Die Vision wird nicht vom anderen Flussufer betrachtet."
+      ],
+      "short": "Die Vision zeigt den Blick aus einem Sarg mit Fenster.",
+      "context": "Allan Gray (Julian West) erlebt eine Vision, in der er sich selbst als Toten im Sarg sieht. Ein Fenster im Deckel erlaubt den Blick nach außen, während der Sarg getragen wird. Die Bildfolge versetzt das Publikum dadurch in die Position des scheinbar Begrabenen. Die Frage behandelt diese besondere Wahrnehmung, nicht die Behauptung, Gray sei innerhalb der weiteren Handlung tatsächlich dauerhaft gestorben.",
+      "anchor": "Das Sargfenster macht die eigene Beerdigung von innen sichtbar.",
+      "interest": "Erschließt ein präzises visuelles Mittel der unheimlichen Perspektive.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was beobachtet Allan Gray (Julian West) in @ am Schatten des Mannes mit Holzbein?",
+      "answers": [
+        "Er bewegt sich getrennt und verbindet sich später wieder mit dem Körper.",
+        "Er bleibt unbeweglich, obwohl der Mann durch den Raum läuft.",
+        "Er wechselt bei jeder Bewegung zwischen zwei verschiedenen Körpern.",
+        "Er wird nur in der Spiegelung sichtbar."
+      ],
+      "feedback": [
+        "Der Schatten bewegt sich zunächst unabhängig und trifft später seinen Körper.",
+        "Ein stets unbeweglicher Schatten beschreibt die Folge nicht.",
+        "Ein Wechsel zwischen zwei Körpern wird nicht gezeigt.",
+        "Die Erscheinung ist nicht auf Spiegelungen beschränkt."
+      ],
+      "short": "Der Schatten bewegt sich unabhängig von seinem Körper.",
+      "context": "Allan Gray (Julian West) folgt dem Schatten eines Mannes mit Holzbein bis in eine verlassene Fabrik. Dort sieht er, wie Schatten und Körper wieder zusammenkommen. Die gewöhnliche Beziehung zwischen Mensch und Schatten wird damit aufgehoben. Der Vorgang erklärt keine allgemeingültige Traumtheorie, sondern zeigt eine konkrete Störung der sichtbaren Welt. Gray und das Publikum müssen einem Bild folgen, das sich nicht an die gewohnte räumliche Ordnung hält.",
+      "anchor": "Der Schatten geht voraus und findet seinen Körper wieder.",
+      "interest": "Erfasst eine konkrete Gestaltung statt einer pauschalen Traumdeutung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wodurch stirbt der Arzt (Jan Hieronimko) im Mühlenfinale der restaurierten deutschen Fassung von @?",
+      "answers": [
+        "Er erstickt unter herabströmendem Mehl.",
+        "Er wird von einem Mahlstein zerquetscht.",
+        "Er ertrinkt im Wasser des Mühlgrabens.",
+        "Er stürzt vom Dach in das Getriebe."
+      ],
+      "feedback": [
+        "Die eingeschlossene Kammer füllt sich mit Mehl.",
+        "Ein Mahlstein zerquetscht ihn nicht.",
+        "Er ertrinkt nicht im Mühlgraben.",
+        "Ein Dachsturz in das Getriebe ist nicht sein Ende."
+      ],
+      "short": "Der Arzt erstickt in einer mit Mehl gefüllten Kammer.",
+      "context": "Der Arzt (Jan Hieronimko) versucht sich in der Mühle zu verstecken. Der alte Diener (Albert Bras) schließt ihn in einer Kammer ein und setzt die Anlage in Gang. Das herabströmende Mehl füllt den Raum und erstickt den Eingeschlossenen. Die Sequenz wurde für einige historische Auswertungen gekürzt. In der restaurierten deutschen Fassung lässt sich ihr Ablauf wieder verfolgen; die Länge einzelner Kopien bleibt davon zu unterscheiden.",
+      "anchor": "Das Mehl der Mühle wird zur tödlichen Füllung.",
+      "interest": "Verbindet Schauplatzfunktion und Schlussfolge unter klarer Fassungsgrenze.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Julian West erstmals öffentlich gezeigt?",
+      "answers": [
+        "1932",
+        "1928",
+        "1936",
+        "1940"
+      ],
+      "feedback": [
+        "1932 ist das belegte erste öffentliche Filmjahr.",
+        "1928 liegt vier Jahre vor dem Erstjahr.",
+        "1936 liegt vier Jahre danach.",
+        "1940 ist acht Jahre zu spät."
+      ],
+      "short": "Vampyr wurde erstmals 1932 öffentlich gezeigt.",
+      "context": "Sheridan Le Fanus Erzählung Carmilla erschien 1872 und gehört zu den literarischen Quellen des Films. Vampyr wurde 1932 öffentlich gezeigt, 60 Jahre später. Criterion führt die Erzählung ausdrücklich als Quelle in der Editionsbeschreibung an. Der Film übernimmt daraus keinen bloß vollständig abgefilmten Handlungsverlauf. Der Anker verbindet vielmehr einen datierten literarischen Vorlauf mit Dreyers eigenständiger, durch Schatten, Geräusche und Visionen geprägter Filmwelt.",
+      "anchor": "Carmilla 1872, Vampyr 1932: 60 Jahre.",
+      "interest": "Verbindet das Erstjahr mit einer konkret datierten Stoffquelle.",
+      "sources": [
+        "criterion",
+        "bfi_program",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "Carl Theodor Dreyer",
+        "Friedrich Wilhelm Murnau",
+        "Benjamin Christensen",
+        "Georg Wilhelm Pabst"
+      ],
+      "feedback": [
+        "Carl Theodor Dreyer trägt den Hauptregiecredit.",
+        "Murnau ist nicht der Regisseur dieses Films.",
+        "Benjamin Christensen führte hier nicht Hauptregie.",
+        "Georg Wilhelm Pabst trägt hier keinen Regiecredit."
+      ],
+      "short": "Carl Theodor Dreyer führte allein Hauptregie.",
+      "context": "Carl Theodor Dreyer inszenierte den Film und schrieb gemeinsam mit Christen Jul das Drehbuch. Die veröffentlichten Credits trennen diese Mitarbeit von der Hauptregie. Der Film organisiert den Schrecken nicht nur über einen sichtbaren Gegner, sondern über Schatten, ungewöhnliche Blickrichtungen und eine unsichere Wahrnehmung. Die Sprachfassungen und späteren Bearbeitungen besitzen unterschiedliche Präsentationen; sie machen aus dem ursprünglichen Hauptcredit jedoch kein gemeinsames Regieteam.",
+      "anchor": "Dreyer führt Regie in einer Welt unsicherer Wahrnehmung.",
+      "interest": "Ordnet den Hauptcredit und die gemeinsame Schreibarbeit auseinander.",
+      "sources": [
+        "criterion",
+        "bfi_program",
+        "film"
+      ]
+    }
+  ],
+  "rank": 7
+}

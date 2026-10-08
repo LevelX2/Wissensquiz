@@ -1,0 +1,219 @@
+{
+  "rank": 21,
+  "directors": [
+    "Alexandre Aja"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "country_note": "USA nach der BFI-Filmkarte. Marokkanische Dreharbeit begründet keinen zusätzlichen Ländercredit.",
+  "release_note": "Erstjahr 2006; 20th Century nennt den 10. März 2006. Die Synopsis derselben Studioseite beschreibt irrtümlich den Nationalgarde-Stoff der Fortsetzung und wird nicht als Inhaltsquelle verwendet.",
+  "director_note": "Alexandre Aja führt Hauptregie; Grégory Levasseur ist Mitautor, Wes Craven Produzent und Regisseur des getrennten Originals 1977.",
+  "series": {
+    "name": "The Hills Have Eyes – Neuverfilmungen",
+    "position": 1,
+    "note": "Erster Film des Remake-Zweigs; eigenständige Fassung 2006 statt Cravens Original 1977 oder der Nationalgarde-Fortsetzung 2007."
+  },
+  "familiarity_reason": "Redaktionelle Einschätzung: verbreitetes modernes Horrorremake mit bekannter Vorlage und markantem Familienkonflikt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_(2006_film)",
+    "studio": "https://www.20thcenturystudios.com/movies/the-hills-have-eyes",
+    "bfi": "https://www.bfi.org.uk/film/7a719462-14b2-5de4-9a7c-7f32ae145bfe/the-hills-have-eyes",
+    "original": "https://www.bfi.org.uk/film/b706a5da-f803-50d0-90ab-4d31694a4d08/the-hills-have-eyes",
+    "craven": "https://www.wescraven.com/film/the-hills-have-eyes/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was ist der Anlass für die gemeinsame Reise der Carter-Familie in @?",
+      "answers": [
+        "Die Silberhochzeit der Eltern",
+        "Der Umzug des Sohnes an eine Universität",
+        "Die Hochzeit der jüngsten Tochter",
+        "Die Beerdigung eines Großvaters"
+      ],
+      "feedback": [
+        "Die Eltern feiern ihren 25. Hochzeitstag.",
+        "Ein Studienumzug ist nicht der Anlass der Familienfahrt.",
+        "Eine neue Hochzeit der Tochter begründet die Fahrt nicht.",
+        "Die Familie reist nicht zu einer Beerdigung."
+      ],
+      "short": "Die Familie reist anlässlich der Silberhochzeit.",
+      "context": "Bob Carter (Ted Levine) und Ethel Carter (Kathleen Quinlan) unternehmen anlässlich ihrer Silberhochzeit eine Reise mit ihrer Familie. Kinder, Schwiegersohn und Enkelbaby fahren mit. Der gemeinsame Urlaub führt durch ein abgelegenes Wüstengebiet und setzt die verschiedenen Familienmitglieder derselben Gefahr aus. Die Ausgangslage macht den späteren Konflikt zu einer Bedrohung mehrerer Generationen, statt lediglich einzelne Fremde zufällig am selben Ort zusammenzubringen.",
+      "anchor": "Die Silberhochzeit versammelt mehrere Generationen auf einer Reise.",
+      "interest": "Der Anlass erklärt die Zusammensetzung der Gruppe.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wodurch bleibt der Wagen der Familie in @ nach der empfohlenen Abkürzung liegen?",
+      "answers": [
+        "Die Reifen werden durch eine versteckte Nagelsperre beschädigt",
+        "Der Motor überhitzt nach einem Kühlwasserverlust",
+        "Die Tankanzeige täuscht über den leeren Tank",
+        "Der Anhänger reißt sich an einer Kurve los"
+      ],
+      "feedback": [
+        "Die versteckte Sperre beschädigt die Reifen.",
+        "Überhitzung ist nicht der gezeigte Auslöser.",
+        "Ein leerer Tank begründet die Panne nicht.",
+        "Ein abgerissener Anhänger löst den Unfall nicht aus."
+      ],
+      "short": "Eine versteckte Nagelsperre stoppt die Weiterfahrt.",
+      "context": "Ein Tankstellenmitarbeiter (Tom Bower) empfiehlt der Carter-Familie eine vermeintliche Abkürzung. Auf diesem Weg werden die Reifen durch eine versteckte Nagelsperre beschädigt und der Wagen verunglückt. Die Panne ist deshalb keine beliebige Folge der Hitze oder schlechten Wartung. Die scheinbar hilfreiche Wegbeschreibung bringt die Reisenden in eine vorbereitete Lage, in der sie auf Hilfe von außen hoffen müssen und zugleich besonders verletzlich werden.",
+      "anchor": "Der freundliche Reisetipp führt auf eine präparierte Strecke.",
+      "interest": "Die Panne ist Teil eines gezielten Hinterhalts.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welchem Zweck dient Bobs (Ted Levine) Verbrennung in @ beim ersten großen Angriff?",
+      "answers": [
+        "Sie lenkt die Familie vom Einbruch in den Wohnwagen ab",
+        "Sie treibt alle Angehörigen gleichzeitig in den Wohnwagen",
+        "Sie lockt Doug allein zu einem vorbereiteten Gefangenenaustausch",
+        "Sie soll die Familie zum Aufgeben ihrer Waffen bewegen"
+      ],
+      "feedback": [
+        "Der Angriff zieht die anderen vom Wohnwagen weg.",
+        "Die Angehörigen sollen gerade vom zweiten Angriffsort abgelenkt werden.",
+        "Ein vereinbarter Austausch begründet den Angriff auf den Vater nicht.",
+        "Eine ausdrückliche Waffenübergabe ist nicht der Zweck dieser Ablenkung."
+      ],
+      "short": "Der Angriff auf den Vater ist eine Ablenkung für den Wohnwagenüberfall.",
+      "context": "Bob Carter (Ted Levine) wird außerhalb des Wohnwagens angegriffen und verbrannt. Die übrigen Familienmitglieder werden dadurch abgelenkt, während andere Angreifer in den Wohnwagen eindringen. Dort geraten Brenda Carter (Emilie de Ravin) und das Baby in unmittelbare Gefahr. Der Film verbindet die getrennten Gewaltereignisse also als abgestimmten Angriff; der Schock über ein Opfer behindert zugleich den Schutz der noch zurückgebliebenen Angehörigen.",
+      "anchor": "Der Vater zieht die Aufmerksamkeit vom zweiten Angriffsort ab.",
+      "interest": "Die Abfolge zeigt einen koordinierten Hinterhalt.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "question": "Was entdeckt Doug (Aaron Stanford) bei der Suche nach seiner Tochter in @ in den verlassenen Häusern?",
+      "answers": [
+        "Die Angreifer bewohnen ein Dorf aus früheren Atomversuchen",
+        "Die Angreifer bewachen eine aufgegebene Goldmine",
+        "Die Angreifer verstecken ihre Gefangenen in einem früheren Militärkrankenhaus",
+        "Die Angreifer nutzen eine ehemalige Filmkulisse als Ausbildungsstätte"
+      ],
+      "feedback": [
+        "Das Testdorf dient den Angreifern als Unterkunft.",
+        "Eine aufgegebene Goldmine ist nicht dieser Handlungsort.",
+        "Ein früheres Militärkrankenhaus beschreibt die Siedlung nicht.",
+        "Eine Ausbildungsstätte in Filmkulissen wird nicht entdeckt."
+      ],
+      "short": "Das frühere Testdorf dient den Angreifern als Lebensraum.",
+      "context": "Doug Bukowski (Aaron Stanford) sucht nach seiner entführten Tochter und gelangt in ein verlassenes Dorf aus früheren Atomversuchen. Die Angreifer nutzen die Häuser als Unterkunft. Dieser Ort verbindet die Rettungssuche mit der vom Film erzählten Vorgeschichte der Mutanten. Die gezeigte Erklärung ist eine fiktionale Konstruktion und kein genauer historischer Bericht darüber, wo die Vereinigten Staaten welche oberirdischen Atomversuche durchgeführt haben.",
+      "anchor": "Das alte Testdorf verbindet Wohnraum der Gegner und filmische Vorgeschichte.",
+      "interest": "Ein Handlungsort erschließt den Hintergrund der Bedrohung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie schützt Ruby (Laura Ortiz) in @ Doug (Aaron Stanford) und das Baby vor Lizard (Robert Joy) und seinem letzten Schuss?",
+      "answers": [
+        "Sie stürzt sich mit Lizard über die Klippe",
+        "Sie tauscht das Baby gegen ihren Bruder aus",
+        "Sie versteckt das Baby und liefert Doug aus",
+        "Sie lockt Lizard zurück in das Testdorf"
+      ],
+      "feedback": [
+        "Sie reißt Lizard mit sich in den Abgrund.",
+        "Ein angebotener Austausch ist nicht ihre Schlussentscheidung.",
+        "Sie opfert Doug nicht für das Baby.",
+        "Ein neuer Marsch ins Dorf stoppt den Schuss nicht."
+      ],
+      "short": "Ruby opfert sich, um den erneuten Angriff zu verhindern.",
+      "context": "Ruby (Laura Ortiz) hat das Baby vor Lizard (Robert Joy) gerettet und an Doug Bukowski (Aaron Stanford) zurückgegeben. Als der scheinbar besiegte Angreifer erneut zur Waffe greift, wirft sie sich mit ihm über eine Klippe. Ihre Entscheidung verhindert den letzten Schuss und kostet sie selbst das Leben. Der Film unterscheidet damit einzelne Angehörige der Mutantenfamilie, statt jedem von ihnen dieselbe Absicht zuzuschreiben.",
+      "anchor": "Ruby verhindert den Schuss durch ihren eigenen tödlichen Einsatz.",
+      "interest": "Die Entscheidung durchbricht eine pauschale Zuordnung der Gegnerfamilie.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was stellt das letzte Bild in @ nach der Wiedervereinigung der Überlebenden infrage?",
+      "answers": [
+        "Ein weiterer Beobachter verfolgt die Gruppe durch ein Fernglas",
+        "Die Polizei führt die Gruppe als Verdächtige ab",
+        "Der gerettete Hund greift die Familie an",
+        "Die Familie erkennt den Tankwart unter den Überlebenden"
+      ],
+      "feedback": [
+        "Der unbekannte Beobachter lässt weitere Gefahr offen.",
+        "Eine polizeiliche Festnahme bildet nicht den Schluss.",
+        "Ein neuer Hundeangriff ist nicht das letzte Bild.",
+        "Der Tankwart kehrt dort nicht als geretteter Begleiter zurück."
+      ],
+      "short": "Ein unbekannter Beobachter verhindert einen sicheren Entwarnungsschluss.",
+      "context": "Die überlebenden Angehörigen finden wieder zusammen und können das Baby in Sicherheit wähnen. Das letzte Bild zeigt jedoch einen unbekannten Mutanten, der sie aus der Ferne durch ein Fernglas beobachtet. Seine Identität wird für diese Schlusswirkung nicht benötigt. Der Bildwechsel macht aus der familiären Wiedervereinigung eine vorläufige Erleichterung: Die unmittelbaren Kämpfe sind beendet, die vollständige Beseitigung der Bedrohung ist damit nicht bewiesen.",
+      "anchor": "Das Fernglas setzt hinter die Wiedervereinigung ein offenes Ende.",
+      "interest": "Eine Perspektivänderung verändert die Bedeutung des Schlusses.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ als Neuverfilmung mit Aaron Stanford erstmals?",
+      "answers": [
+        "2006",
+        "2003",
+        "2009",
+        "2012"
+      ],
+      "feedback": [
+        "2006 ist das Erstjahr dieser Fassung.",
+        "2003 liegt drei Jahre davor.",
+        "2009 ist drei Jahre später.",
+        "2012 liegt sechs Jahre danach."
+      ],
+      "short": "Ajas Neuverfilmung erschien 2006.",
+      "context": "Wes Cravens Original The Hills Have Eyes erschien 1977; Alexandre Ajas Neuverfilmung folgte 2006, 29 Jahre später. Die BFI-Filmkarten bestätigen beide Werkjahre und ihre unterschiedlichen Regisseure. Die Fassungen teilen den Konflikt einer bedrohten Familie in der Wüste, haben aber eigenständige Besetzungen und Gestaltungen. Der große Abstand hilft, das moderne Remake vom früheren Film zu trennen und die spätere Fortsetzung nicht als dessen Erstveröffentlichung zu behandeln.",
+      "anchor": "Original 1977, Remake 2006: 29 Jahre Abstand.",
+      "interest": "Zwei getrennte Fassungen bilden einen eindeutigen Zeitvergleich.",
+      "sources": [
+        "bfi",
+        "original",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @, die Neuverfilmung mit Aaron Stanford?",
+      "answers": [
+        "Alexandre Aja",
+        "Wes Craven",
+        "Grégory Levasseur",
+        "Martin Weisz"
+      ],
+      "feedback": [
+        "Aja führt Hauptregie beim Remake.",
+        "Craven inszenierte das Original und produziert hier.",
+        "Levasseur ist Mitautor, nicht Hauptregisseur.",
+        "Weisz ist nicht der Regisseur dieser Fassung."
+      ],
+      "short": "Alexandre Aja ist der Hauptregisseur des Remakes.",
+      "context": "Alexandre Aja führt beim Remake Hauptregie und schreibt mit Grégory Levasseur das Drehbuch. Wes Craven ist als Produzent beteiligt und hatte das getrennte Original inszeniert. Die neue Fassung erweitert den Wüstenkonflikt um ein verlassenes Atomtestdorf als Lebensraum der Angreifer. Damit verbindet die Inszenierung den unmittelbaren Überlebenskampf einer Familie mit einer ausdrücklich filmischen Vorgeschichte des Ortes, statt nur die Besetzung eines älteren Werks auszutauschen.",
+      "anchor": "Aja inszeniert das Remake; Craven bleibt als Produzent verbunden.",
+      "interest": "Die Creditprüfung trennt Original, Remake und Fortsetzung.",
+      "sources": [
+        "bfi",
+        "studio",
+        "original",
+        "film"
+      ]
+    }
+  ]
+}
