@@ -1,0 +1,212 @@
+{
+  "rank": 19,
+  "directors": [
+    "Tom DiCillo"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "2009: Sundance bestätigt die Festivalvorführung in diesem Jahr. Kein ungeprüfter exakter Premierentag. US-Kinoauswertung 2010; Regisseur und PBS nennen für die spätere Fassung Johnny Depp als Erzähler. Die frühere Festivalfassung hatte zunächst DiCillos eigene Erzählstimme.",
+  "familiarity_reason": "Kennerfilm zur Rockgeschichte mit bekannten Musikern; redaktionell Bekanntheit 3, getrennt von der Schwierigkeit der Einzelfragen.",
+  "director_note": "Tom DiCillo schrieb und inszenierte den Dokumentarfilm. Johnny Depp ist Erzähler der späteren englischen Fassung; kein Mitregisseur.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/When_You're_Strange",
+    "regisseur": "https://www.tomdicillo.com/films/when-youre-strange",
+    "schnitt": "https://www.tomdicillo.com/89-grammy",
+    "fernsehen": "https://www.pbs.org/wnet/americanmasters/the-doors-about-the-film/1543/",
+    "festival": "https://www.sundance.org/blogs/film-festival-watch-see-these-16-sundance-institute-supported-films-at-tribeca-2025/",
+    "vergleich": "https://catalog.afi.com/Film/58866-THE-DOORS"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wer erzählt die spätere englische Kinofassung von @?",
+      "answers": [
+        "Johnny Depp",
+        "Val Kilmer",
+        "Dennis Hopper",
+        "Sean Penn"
+      ],
+      "feedback": [
+        "Die spätere Fassung hat Depps Erzählstimme.",
+        "Kilmer spielte Morrison in einem anderen Film, erzählt hier aber nicht.",
+        "Hopper ist nicht der Erzähler dieser Fassung.",
+        "Penn übernimmt die Erzählstimme hier nicht."
+      ],
+      "short": "Die spätere Kinofassung wird von Johnny Depp erzählt.",
+      "context": "Johnny Depp spricht die Erzählung der späteren englischen Fassung. Bei der frühen Festivalvorführung war zunächst Regisseur Tom DiCillo selbst zu hören. Die Unterscheidung ist wesentlich, weil beide Fassungen zum selben Dokumentarfilm gehören. Depps Stimme begleitet das ursprüngliche Archivmaterial; sie ersetzt keinen Schauspieler, der Jim Morrison in neu gedrehten Szenen darstellen würde. Der Film bleibt aus historischen Bildern zusammengesetzt.",
+      "anchor": "Depp erzählt die spätere Fassung; DiCillo sprach die frühe.",
+      "interest": "Der bekannte Erzähler erschließt den Film unter klarer Fassungsangabe.",
+      "sources": [
+        "regisseur",
+        "handlung",
+        "fernsehen"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Musiker steht mit seinem Leben und seinen Exzessen besonders im Mittelpunkt von @?",
+      "answers": [
+        "Jim Morrison",
+        "John Densmore",
+        "Robby Krieger",
+        "Ray Manzarek"
+      ],
+      "feedback": [
+        "Der Film rückt besonders den Sänger Morrison in den Mittelpunkt.",
+        "Densmore gehört zur Band, steht aber nicht im Zentrum dieser Lebensgeschichte.",
+        "Krieger ist der Gitarrist, nicht die zentrale Figur dieses Porträts.",
+        "Manzarek prägt die Band, ist aber nicht der gesuchte Sänger."
+      ],
+      "short": "Jim Morrisons Leben prägt die Erzählung.",
+      "context": "Jim Morrison steht als Sänger im Zentrum der Bandgeschichte. Der Film zeigt zugleich John Densmore, Robby Krieger und Ray Manzarek als beteiligte Musiker, ohne ihnen fiktive Darsteller zuzuordnen. Morrisons künstlerische Energie, seine Auftritte und sein zunehmend selbstzerstörerisches Verhalten bilden eine zentrale Spannung. Das Porträt verbindet damit die gemeinsame musikalische Arbeit der Gruppe mit dem besonderen Lebensweg ihres bekanntesten Mitglieds.",
+      "anchor": "Morrison ist die zentrale Figur innerhalb der Bandgeschichte.",
+      "interest": "Ein leichtes Ziel betrifft den Schwerpunkt des Porträts, nicht den im Titel genannten Bandnamen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Meldung hört Jim Morrison in der von DiCillo gestalteten Autofahrt-Rahmung von @?",
+      "answers": [
+        "Die Nachricht von seinem eigenen Tod",
+        "Die Nachricht von der Auflösung der Band",
+        "Die Nachricht von einem Brand im Tonstudio",
+        "Die Nachricht von seinem Grammy-Gewinn"
+      ],
+      "feedback": [
+        "DiCillo verbindet die Archivbilder mit der Meldung von Morrisons Tod.",
+        "Eine Bandauflösung ist nicht diese Radiomeldung.",
+        "Ein Studiobrand bildet nicht die Rahmung.",
+        "Ein Grammy-Gewinn wird dort nicht verkündet."
+      ],
+      "short": "Die konstruierte Radiomeldung berichtet Morrisons eigenen Tod.",
+      "context": "Tom DiCillo erläutert, dass ihn ein Archivbild des fahrenden Jim Morrison auf die Idee einer nachträglich gestalteten Radiomeldung über dessen eigenen Tod brachte. Die Fahrt wird damit zur poetischen Rahmung der Bandgeschichte. Sie ist keine historische Aufnahme einer tatsächlich so gehörten Nachricht. Gerade diese Verbindung aus echten Bildern und neuem Erzählzusammenhang verlangt, Materialherkunft und Bedeutung der Montage auseinanderzuhalten.",
+      "anchor": "Echte Archivbilder tragen eine nachträglich konstruierte Todesmeldung.",
+      "interest": "Das Gestaltungsmittel wird als filmische Konstruktion und nicht als reale Begebenheit gefragt.",
+      "sources": [
+        "regisseur"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wo begegneten sich Jim Morrison und Ray Manzarek laut dem PBS-Filmtext zu @ ursprünglich?",
+      "answers": [
+        "An der Filmhochschule der UCLA",
+        "In einem Aufnahmestudio in Memphis",
+        "Bei einer Kunstschule in New York",
+        "In einer Londoner Schauspielklasse"
+      ],
+      "feedback": [
+        "PBS nennt die Filmhochschule der UCLA.",
+        "Ein Memphis-Studio ist nicht der genannte ursprüngliche Treffpunkt.",
+        "Eine New Yorker Kunstschule verbindet sie hier nicht.",
+        "Eine Londoner Schauspielklasse ist nicht der Ursprung."
+      ],
+      "short": "Morrison und Manzarek begegneten sich an der UCLA-Filmhochschule.",
+      "context": "Der PBS-Begleittext beschreibt die Geschichte vom gemeinsamen Umfeld an der Filmhochschule der UCLA bis zu den großen Konzertbühnen. Jim Morrison und Ray Manzarek begegneten sich dort ursprünglich. Dieser Filmbezug erklärt auch, weshalb visuelle Arbeit zur Geschichte der Musiker gehört. Das spätere Bandporträt verbindet ihre musikalische Entwicklung mit einem Umfeld, in dem beide bereits mit Bildern und filmischem Erzählen beschäftigt waren.",
+      "anchor": "Der Weg zur Band beginnt für beide im Umfeld der UCLA-Filmhochschule.",
+      "interest": "Die gemeinsame Herkunft verbindet Musik und Film, statt ein beliebiges biografisches Datum abzufragen.",
+      "sources": [
+        "fernsehen"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Aus welchem Material stammen Jim Morrisons Wüstenfahrten in @?",
+      "answers": [
+        "Aus seinem eigenen Film HWY und dessen Restmaterial",
+        "Aus neu gedrehten Szenen mit Val Kilmer",
+        "Aus einer nachgestellten Werbekampagne für Autos",
+        "Aus ungesendeten Szenen des Biopics The Doors"
+      ],
+      "feedback": [
+        "DiCillo verwendete Morrisons eigenes HWY-Material.",
+        "Die Fahrten wurden nicht neu mit Kilmer inszeniert.",
+        "Sie stammen nicht aus einer nachgestellten Autowerbung.",
+        "Es sind keine entfallenen Szenen von Stones Biopic."
+      ],
+      "short": "Die Wüstenbilder stammen aus Morrisons eigenem HWY.",
+      "context": "Tom DiCillo fand in den Archiven Jim Morrisons Film HWY sowie ungenutztes Material daraus. Die Aufnahmen zeigen Morrison selbst beim Fahren, Wandern und Schwimmen. Sie wurden für das Dokumentarfilmkonzept neu zusammengefügt, aber nicht mit einem Darsteller nachgedreht. Diese Herkunft erklärt die ungewöhnlich unmittelbaren Bilder jenseits der Bühne und schützt vor der Verwechslung mit einem späteren fiktionalen Morrison-Porträt.",
+      "anchor": "Die Wüstenfahrten zeigen Morrison selbst aus seinem eigenen Film.",
+      "interest": "Die Materialherkunft klärt einen für das Dokumentarfilmverständnis wichtigen Unterschied.",
+      "sources": [
+        "regisseur"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie organisierten Micky Blythe und Kevin Krasny laut DiCillos Blog den Schnitt von @?",
+      "answers": [
+        "Sie bearbeiteten die beiden Filmhälften parallel.",
+        "Einer schnitt Bühnenbilder, der andere nur Privatmaterial.",
+        "Einer montierte die Festival-, der andere die Kinofassung.",
+        "Sie montierten alle Szenen gemeinsam am selben Gerät."
+      ],
+      "feedback": [
+        "DiCillo beschreibt zwei parallel bearbeitete Filmhälften.",
+        "Die beiden waren nicht nach Bühnen- und Privatmaterial aufgeteilt.",
+        "Verschiedene Auswertungsfassungen waren nicht die genannte Arbeitsteilung.",
+        "Sie arbeiteten parallel in benachbarten Räumen statt stets am selben Gerät."
+      ],
+      "short": "Die beiden Editoren bearbeiteten getrennte Filmhälften parallel.",
+      "context": "In seinem datierten Grammy-Beitrag nennt Tom DiCillo Micky Blythe und Kevin Krasny als die beiden Editoren. Sie arbeiteten in benachbarten Räumen an unterschiedlichen Hälften des Films. Das Material bestand aus vielen Fragmenten, die selten von sich aus einen zusammenhängenden Ablauf ergaben. Die parallele Arbeit musste daher zugleich eine gemeinsame Erzählung erzeugen, damit aus den Archivstücken eine nachvollziehbare Bandgeschichte wurde.",
+      "anchor": "Getrennte Filmhälften mussten zu einer gemeinsamen Archivgeschichte zusammenfinden.",
+      "interest": "Die Arbeitsaufteilung erklärt die Konstruktion des Films aus fragmentarischen Aufnahmen.",
+      "sources": [
+        "schnitt"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals bei einem Festival gezeigt?",
+      "answers": [
+        "2009",
+        "2006",
+        "2010",
+        "2013"
+      ],
+      "feedback": [
+        "Sundance bestätigt die Vorführung 2009.",
+        "2006 liegt vor der ersten Festivalvorführung.",
+        "2010 ist das spätere US-Kinojahr, nicht das Erstjahr.",
+        "2013 ist vier Jahre später."
+      ],
+      "short": "1991 The Doors, 2009 When You’re Strange: 18 Jahre.",
+      "context": "When You’re Strange wurde 2009 bei Sundance gezeigt. Oliver Stones fiktionaler Film The Doors war bereits 1991 erschienen, also 18 Jahre zuvor. Dort spielt Val Kilmer den Sänger Jim Morrison; der spätere Dokumentarfilm arbeitet dagegen mit originalem Archivmaterial. Der Vergleich verbindet zwei konkrete filmische Annäherungen an dieselbe Band und trennt das Erstjahr 2009 von der US-Kinoauswertung 2010.",
+      "anchor": "1991 Spielfilm, 2009 Dokumentarfilm: 18 Jahre Abstand.",
+      "interest": "Die beiden Bandporträts bieten einen passenden filmgeschichtlichen Jahresanker.",
+      "sources": [
+        "festival",
+        "vergleich",
+        "regisseur",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer schrieb und inszenierte den Dokumentarfilm @?",
+      "answers": [
+        "Tom DiCillo",
+        "Oliver Stone",
+        "Jonathan Demme",
+        "Martin Scorsese"
+      ],
+      "feedback": [
+        "DiCillo nennt sich als Autor und Regisseur.",
+        "Stone inszenierte das fiktionale Bandporträt, nicht diesen Dokumentarfilm.",
+        "Demme trägt hier keinen Regiecredit.",
+        "Scorsese schrieb und inszenierte diesen Film nicht."
+      ],
+      "short": "Tom DiCillo schrieb und inszenierte den Film.",
+      "context": "Tom DiCillo nennt auf seiner eigenen Filmseite sowohl den Drehbuch- als auch den Regiecredit. Seine Arbeit besteht wesentlich darin, vorhandene Bilder zu sichten und ihnen einen Erzählzusammenhang zu geben. Johnny Depps spätere Erzählstimme ist ein anderer Beitrag. Der Regiecredit darf außerdem nicht mit Oliver Stones fiktionalem The Doors verwechselt werden, obwohl beide Filme dieselbe Band behandeln.",
+      "anchor": "DiCillo formt die Archivbilder zum Dokumentarfilm.",
+      "interest": "Die Regie wird vom Erzähler und vom früheren fiktionalen Bandfilm unterschieden.",
+      "sources": [
+        "regisseur"
+      ]
+    }
+  ]
+}

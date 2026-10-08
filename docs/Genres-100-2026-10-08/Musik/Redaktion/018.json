@@ -1,0 +1,207 @@
+{
+  "rank": 18,
+  "directors": [
+    "Michael Wadleigh"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "1970; der LOC/Academy-Essay datiert die Veröffentlichung auf Ende März 1970. Das Festival fand im August 1969 statt. Fragen beziehen sich auf die ursprüngliche Kinofassung und ihre Herstellung, nicht auf spätere Bonusprogramme.",
+  "familiarity_reason": "Prägender und breit bekannter Festivalfilm; redaktionell Bekanntheit 2, unabhängig von filmtechnischen Detailfragen.",
+  "director_note": "Michael Wadleigh Hauptregie; Martin Scorsese, Thelma Schoonmaker und Larry Johnson übernahmen Assistenz/Koordination, Scorsese und Schoonmaker außerdem Schnittarbeit. Kein gemeinsamer Hauptregiecredit.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Woodstock_(film)",
+    "essay": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/Woodstock.pdf",
+    "gestaltung": "https://blogs.loc.gov/now-see-hear/2019/08/now-playing-at-the-packard-campus-theater-august-9-10-2019/",
+    "vergleich": "https://www.criterion.com/films/720-monterey-pop"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wer eröffnet die Konzertauftritte in der ursprünglichen Kinofassung von @?",
+      "answers": [
+        "Richie Havens",
+        "Joe Cocker",
+        "Arlo Guthrie",
+        "John Sebastian"
+      ],
+      "feedback": [
+        "Richie Havens steht am Anfang der Konzertfolge.",
+        "Joe Cocker eröffnet diese Folge nicht.",
+        "Arlo Guthries Auftritt ist nicht der erste.",
+        "John Sebastian beginnt nicht die Konzertfolge."
+      ],
+      "short": "Richie Havens eröffnet die Konzertfolge.",
+      "context": "Richie Havens eröffnet die Bühnenauftritte des Films, während Jimi Hendrix am Ende steht. In diesen beiden Positionen folgt die Kinofassung der tatsächlichen Reihenfolge des Festivals, auch wenn sie andere Auftritte nicht streng chronologisch anordnet. Die erste musikalische Begegnung ist damit ein klarer Orientierungspunkt. Sie bleibt von der umfassenderen Frage getrennt, wie das Festivalgeschehen durch Montage insgesamt erzählt wird.",
+      "anchor": "Havens eröffnet die Auftritte, Hendrix beschließt sie.",
+      "interest": "Die Konzertfolge liefert einen zugänglichen Einstieg ohne beliebige Nebendetails.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was zeigt @ zwischen den Bühnenauftritten?",
+      "answers": [
+        "Das Leben der Besucher und der örtlichen Bevölkerung",
+        "Die anschließende Europatournee der auftretenden Bands",
+        "Die Studioaufnahmen für ein neues Festivalalbum",
+        "Die privaten Kindheitserinnerungen der einzelnen Musiker"
+      ],
+      "feedback": [
+        "Der Film begleitet auch das soziale Umfeld des Festivals.",
+        "Eine spätere Europatournee bildet nicht den Rahmen.",
+        "Er wechselt nicht zu Studioaufnahmen eines neuen Albums.",
+        "Kindheitsrückblicke sind nicht seine Zwischenpassagen."
+      ],
+      "short": "Der Film betrachtet auch Besucher und Menschen vor Ort.",
+      "context": "Die Kinofassung beschränkt sich nicht auf die Bühne. Gespräche und Beobachtungen begleiten die Besucher, die Organisation und die Menschen in der Umgebung des Festivals. So entsteht das Bild einer vorübergehenden Gemeinschaft mit Hoffnungen und praktischen Problemen. Diese Passagen verbinden die Musik mit dem Zusammenleben auf dem Gelände und erklären, weshalb der Film auch als Dokument seiner gesellschaftlichen Zeit wahrgenommen wird.",
+      "anchor": "Die Bühne und das vorübergehende Zusammenleben bilden gemeinsam den Film.",
+      "interest": "Der dokumentarische Blick auf das Umfeld ist ein zentrales Inhaltsmerkmal.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Bildgestaltung hebt der LOC-Programmtext bei @ hervor?",
+      "answers": [
+        "Mehrere Teilbilder innerhalb derselben Leinwandfläche",
+        "Wiederholte Standbilder der auftretenden Musiker",
+        "Zeitrafferfolgen vom Aufbau des Festivalgeländes",
+        "Lange Überblendungen zwischen einzelnen Bühnenansichten"
+      ],
+      "feedback": [
+        "Der Programmtext hebt geteilte Bildflächen hervor.",
+        "Standbildwiederholungen sind nicht das hervorgehobene Prinzip.",
+        "Zeitraffer vom Aufbau ist nicht das dort genannte Merkmal.",
+        "Die Beschreibung betrifft gleichzeitige Teilbilder, nicht solche Überblendungen."
+      ],
+      "short": "Geteilte Bildflächen zeigen mehrere Ansichten gleichzeitig.",
+      "context": "Die Montage nutzt geteilte Leinwandflächen, um mehrere Bilder gleichzeitig sichtbar zu machen. Dadurch können Auftritte und Reaktionen einander gegenüberstehen, ohne dass jede Ansicht die andere vollständig verdrängt. Der Programmtext der Library of Congress hebt diese Gestaltung ausdrücklich hervor. Das Verfahren verändert den Blick auf das Konzert: Die große Menge und die einzelne Bühnenaktion lassen sich innerhalb eines gemeinsamen Bildfelds wahrnehmen.",
+      "anchor": "Die geteilte Leinwand verbindet mehrere Ansichten im selben Moment.",
+      "interest": "Die Frage erschließt ein auffälliges filmisches Gestaltungsmittel.",
+      "sources": [
+        "gestaltung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie gestaltet @ laut dem LOC-Programmtext seinen Ton?",
+      "answers": [
+        "Durch überlagerte Aufnahmen aus mehreren Quellen",
+        "Durch eine durchgehende nachgesprochene Erzählerstimme",
+        "Durch vollständig im Studio nachgespielte Konzerte",
+        "Durch einen einzigen unveränderten Bühnenmikrofonmitschnitt"
+      ],
+      "feedback": [
+        "Der Text hebt die Verbindung überlagerter Tonquellen hervor.",
+        "Eine dauernde Erzählerstimme ist nicht dieses Merkmal.",
+        "Die Konzerte wurden nicht insgesamt im Studio nachgespielt.",
+        "Ein unveränderter einzelner Mitschnitt beschreibt die Mischung nicht."
+      ],
+      "short": "Die Tonmontage verbindet und überlagert mehrere Aufnahmen.",
+      "context": "Der Programmtext der Library of Congress beschreibt einen Soundtrack, der Aufnahmen aus mehreren Quellen verbindet und überlagert. Das akustische Geschehen wird damit ebenso gestaltet wie die Bilder. Die Tonmontage kann verschiedene Ebenen des Festivals zusammenführen, statt nur einen unveränderten Live-Mitschnitt wiederzugeben. Diese bewusste Verarbeitung unterscheidet den fertigen Film von dem umfangreichen Material, das während des Ereignisses aufgenommen wurde.",
+      "anchor": "Auch der Ton entsteht durch eine gestaltete Verbindung von Quellen.",
+      "interest": "Die akustische Montage ist ein eigenständiges Ziel neben der Bildaufteilung.",
+      "sources": [
+        "gestaltung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum war die Synchronisation der Bühnenaufnahmen für @ besonders mühsam?",
+      "answers": [
+        "Die Kameras hatten keine Klappen verwendet.",
+        "Kamera- und Tonaufnahme liefen mit unterschiedlichen Geschwindigkeiten.",
+        "Die Tonbänder trugen vertauschte Beschriftungen.",
+        "Die Konzertmikrofone standen zu weit von der Bühne."
+      ],
+      "feedback": [
+        "Ohne Klappen fehlten eindeutige Synchronisationsmarken.",
+        "Der Essay erklärt den Aufwand mit fehlenden Klappen, nicht unterschiedlichen Geschwindigkeiten.",
+        "Vertauschte Bandbeschriftungen nennt der Essay nicht als Grund.",
+        "Die Schwierigkeit lag in der Zuordnung zum Bild, nicht im Mikrofonabstand."
+      ],
+      "short": "Fehlende Klappen erschwerten die Zuordnung von Bild und Ton.",
+      "context": "Die Bühnenkameras liefen getrennt von den Konzerttonaufnahmen und verwendeten keine Klappen. Bild und fortlaufender Ton mussten deshalb nachträglich mühsam zugeordnet werden. Der LOC/Academy-Essay schildert die rund um die Uhr arbeitenden Editoren und den langen Aufwand allein für diese Synchronisation. Erst das Zusammenpassen des Materials ermöglichte es, die verschiedenen Kamerablicke später als musikalisch nachvollziehbare Auftritte zu montieren.",
+      "anchor": "Ohne Klappen musste der passende Moment nachträglich gefunden werden.",
+      "interest": "Ein konkretes Produktionsproblem erklärt einen wesentlichen Arbeitsschritt.",
+      "sources": [
+        "essay"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Was begrenzte laut LOC/Academy-Essay die Kameraperspektiven bei Hendrix’ Schlussauftritt in @?",
+      "answers": [
+        "Stromschwankungen hatten mehrere Kameramotoren zerstört.",
+        "Die Vorräte an unbelichtetem Film waren fast aufgebraucht.",
+        "Viele Kamerateams hatten ihre Zugangspässe verloren.",
+        "Die Bühnenbeleuchtung ließ nur eine Kameraposition zu."
+      ],
+      "feedback": [
+        "Nach Motorschäden waren nur noch wenige Kameras funktionsfähig.",
+        "Der Essay nennt defekte Motoren statt Filmmangel als Ursache.",
+        "Verlorene Zugangspässe erklären die begrenzte Kamerazahl nicht.",
+        "Die Begrenzung entstand nicht aus einer einzigen beleuchteten Position."
+      ],
+      "short": "Defekte Kameramotoren reduzierten die verfügbaren Perspektiven.",
+      "context": "Jimi Hendrix spielte den Schlussauftritt unter bereits schwierigen technischen Bedingungen. Regen, hohe Feuchtigkeit und Probleme mit der Stromversorgung hatten die Filmkameras belastet; Stromschwankungen zerstörten mehrere Motoren. Laut LOC/Academy-Essay waren bei diesem Auftritt nur noch drei Kameras einsatzfähig. Die berühmten Bilder entstanden deshalb mit einer eingeschränkten technischen Auswahl. Das Detail verbindet die sichtbare Konzertdokumentation mit der improvisierten Arbeit vor Ort.",
+      "anchor": "Der berühmte Schlussauftritt wurde mit bereits dezimierter Kameratechnik gefilmt.",
+      "interest": "Die Produktionsbedingungen erklären die verfügbare Bildauswahl statt eine Zufallszahl abzufragen.",
+      "sources": [
+        "essay"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde der ursprüngliche Dokumentarfilm @ erstmals veröffentlicht?",
+      "answers": [
+        "1970",
+        "1967",
+        "1973",
+        "1976"
+      ],
+      "feedback": [
+        "1970 ist das Filmjahr.",
+        "1967 liegt drei Jahre vor der Veröffentlichung.",
+        "1973 liegt drei Jahre nach dem Filmstart.",
+        "1976 ist sechs Jahre später."
+      ],
+      "short": "1968 Monterey Pop, 1970 Woodstock: zwei Jahre.",
+      "context": "Woodstock erschien 1970 und dokumentiert das Festival des Vorjahres. Monterey Pop wurde bereits 1968 veröffentlicht, also zwei Jahre früher. Beide Werke machten ein Musikfestival als Film erfahrbar, behandeln jedoch unterschiedliche Veranstaltungen. Der Vergleich hilft, die frühen Festivalfilme zeitlich einzuordnen. Zugleich bleibt das Filmjahr 1970 klar von dem in Woodstock aufgenommenen Ereignis im August 1969 getrennt.",
+      "anchor": "1968 Monterey Pop → 1970 Woodstock: zwei Jahre.",
+      "interest": "Ein verwandter Festivalfilm liefert einen konkreten Werkvergleich.",
+      "sources": [
+        "essay",
+        "vergleich",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "Michael Wadleigh",
+        "D. A. Pennebaker",
+        "Albert Maysles",
+        "Murray Lerner"
+      ],
+      "feedback": [
+        "Der konkrete Produktionsessay nennt Michael Wadleigh.",
+        "Pennebaker führte bei Monterey Pop Regie, nicht hier.",
+        "Maysles gehörte nicht zum Hauptregiecredit dieses Films.",
+        "Lerner war nicht der Hauptregisseur von Woodstock."
+      ],
+      "short": "Michael Wadleigh führte die Hauptregie.",
+      "context": "Michael Wadleigh verantwortete die Hauptregie des Festivalfilms. Martin Scorsese, Thelma Schoonmaker und Larry Johnson koordinierten als Regieassistenten Teile der komplexen Dreharbeiten; die Schnittarbeit war ebenfalls verteilt. Der LOC/Academy-Essay beschreibt diese Aufgaben getrennt. Die später besonders bekannten Namen im Team ändern daher nicht den Hauptregiecredit. Für die Filmzuordnung ist die konkrete Verantwortlichkeit maßgeblich, nicht der spätere Ruhm einzelner Beteiligter.",
+      "anchor": "Wadleigh Hauptregie, Scorsese und Schoonmaker weitere Aufgaben.",
+      "interest": "Die Frage klärt einen häufig unscharf verkürzten Teamcredit.",
+      "sources": [
+        "essay"
+      ]
+    }
+  ]
+}

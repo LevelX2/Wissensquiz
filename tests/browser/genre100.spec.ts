@@ -5,6 +5,55 @@ import { questionSourceOf, genreOf } from "../../src/filters";
 import { filmIdentity } from "../../src/familiarity";
 import { catalogCounts } from "../catalog-counts";
 
+test("enthält 100 Musikfilme, teilt das bestehende Regieziel und erhält den Festival-Erststart offline", async ({
+  page,
+  context,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-08T12:00:00+02:00") });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const initial = await readStoredState(page);
+  const music = initial.questions.filter(
+    (q) => questionSourceOf(q) === "film" && genreOf(q) === "Musik",
+  );
+  expect(new Set(music.map(filmIdentity)).size).toBe(100);
+  expect(music).toHaveLength(830);
+  const variant = initial.questions.find(
+    (q) => q.id === "G100-20261008-MUSIK-017-D",
+  )!;
+  expect(variant.knowledgeId).toBe(
+    initial.questions.find((q) => q.id === "SCHAUSPIELER-202610-P01-004-M-2")!
+      .knowledgeId,
+  );
+  const year = initial.questions.find(
+    (q) => q.id === "G100-20261008-MUSIK-019-Y",
+  )!;
+  expect(year.metadata.film_year).toBe("2009");
+  await prepareQuestion(page, year.id);
+  await expect(page.locator(".question-card h1")).not.toContainText("2009");
+  await expect(page.locator(".film-data")).toHaveCount(0);
+  await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
+  await page.locator(".film-data > summary").click();
+  await expect(page.locator(".film-data")).toContainText("2009");
+  await expect(page.locator(".film-data")).toContainText("2010");
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(
+    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
+      exact: false,
+    }),
+  ).toBeVisible();
+  await context.setOffline(true);
+  await page.reload();
+  expect(
+    await page.evaluate(async () =>
+      (await fetch("/genre100-musik-fragen.csv")).text(),
+    ),
+  ).toBe(readFileSync("public/genre100-musik-fragen.csv", "utf8"));
+  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+});
+
 async function prepareQuestion(page: Page, id: string) {
   const state = await readStoredState(page);
   const catalog = state.questions;

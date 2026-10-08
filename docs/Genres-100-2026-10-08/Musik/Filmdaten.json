@@ -1,0 +1,1031 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "as_of": "2026-10-08",
+  "integration_route": "explicit_csv_year_and_director",
+  "films": [
+    {
+      "rank": 1,
+      "film_title_de": "My Fair Lady",
+      "film_title_original": "My Fair Lady",
+      "film_year": 1964,
+      "subdomain": "Musik",
+      "familiarity_level": 1,
+      "familiarity_reason": "Sehr bekanntes Musical mit Audrey Hepburn; Bekanntheit 1. Detailwissen über die Inszenierung bleibt davon unabhängig.",
+      "directors": [
+        "George Cukor"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Originalfilm 1964, Weltpremiere laut AFI am 21. Oktober in New York. Gemeint ist die Verfilmung mit Audrey Hepburn und Rex Harrison, nicht die Bühnenproduktion von 1956.",
+      "director_note": "AFI führt George Cukor als Dir, David Hall als Asst dir und Hermes Pan für Choreografie. Die verschiedenen Aufgaben bilden kein gemeinsames Hauptregieteam.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22921-MY-FAIRLADY",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-001-L1",
+      "year_question_id": "G100-20261008-MUSIK-001-Y",
+      "director_question_id": "G100-20261008-MUSIK-001-D"
+    },
+    {
+      "rank": 2,
+      "film_title_de": "Ein neuer Stern am Himmel",
+      "film_title_original": "A Star Is Born",
+      "film_year": 1954,
+      "subdomain": "Musik",
+      "familiarity_level": 3,
+      "familiarity_reason": "Wichtiger klassischer Musicalfilm, dessen deutscher Titel weniger geläufig ist als die späteren Fassungen; Bekanntheit 3.",
+      "directors": [
+        "George Cukor"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "A Star Is Born mit Judy Garland und James Mason. AFI nennt die erste Los-Angeles-Premiere am 29. September 1954 und den allgemeinen Start am 16. Oktober. S2 bezeichnet ausdrücklich die Rekonstruktion 1983. Premiere ca. 182 Minuten, gekürzte Fassung ca. 154, Rekonstruktion je nach Quelle 176–178.",
+      "director_note": "AFI weist George Cukor als Hauptregisseur aus. Einzelne nachträglich gedrehte Nummern wurden durch weitere Gestalter betreut; diese Arbeit ist kein gemeinsamer Hauptregiecredit.",
+      "series": {
+        "name": "A Star Is Born",
+        "position": 2,
+        "note": "Zweite offizielle Verfilmung nach 1937; hier Judy Garland und James Mason, nicht die Produktionen 1976/2018."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51362-A-STAR-IS-BORN",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-002-L1",
+      "year_question_id": "G100-20261008-MUSIK-002-Y",
+      "director_question_id": "G100-20261008-MUSIK-002-D"
+    },
+    {
+      "rank": 3,
+      "film_title_de": "Ich tanz mich in dein Herz hinein",
+      "film_title_original": "Top Hat",
+      "film_year": 1935,
+      "subdomain": "Musik",
+      "familiarity_level": 3,
+      "familiarity_reason": "Zentraler Astaire-Rogers-Klassiker, dessen deutscher Titel deutlich weniger geläufig ist; Bekanntheit 3.",
+      "directors": [
+        "Mark Sandrich"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Top Hat von 1935; AFI nennt die New Yorker Eröffnung in der Woche des 29. August und allgemeinen Start 6. September. Die deutschen Titelvarianten beziehen sich auf denselben Astaire-Rogers-Film.",
+      "director_note": "AFI nennt Mark Sandrich als Hauptregisseur. Hermes Pan wird unter Ensembles staged by geführt; Choreografie ist kein zweiter Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/6707-TOPHAT",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "loc",
+          "url": "https://blogs.loc.gov/now-see-hear/2022/05/from-national-film-registry-the-friendship-of-irving-berlin-fred-astaire-and-top-hat/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-003-L1",
+      "year_question_id": "G100-20261008-MUSIK-003-Y",
+      "director_question_id": "G100-20261008-MUSIK-003-D"
+    },
+    {
+      "rank": 4,
+      "film_title_de": "Vorhang auf!",
+      "film_title_original": "The Band Wagon",
+      "film_year": 1953,
+      "subdomain": "Musik",
+      "familiarity_level": 3,
+      "familiarity_reason": "Klassischer MGM-Tanzfilm, dessen deutscher Titel im allgemeinen Publikum weniger bekannt ist; Bekanntheit 3.",
+      "directors": [
+        "Vincente Minnelli"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "The Band Wagon von 1953; AFI nennt New Yorker Eröffnung 9. Juli, allgemeinen Start 7. August. Vorhang auf! ist der Film mit Fred Astaire und Cyd Charisse.",
+      "director_note": "Vincente Minnelli trägt laut AFI den Hauptregiecredit. Michael Kidd verantwortete die Tanzgestaltung; Betty Comden und Adolph Green schrieben das Drehbuch.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Band_Wagon",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/50752-THE-BANDWAGON",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-004-L1",
+      "year_question_id": "G100-20261008-MUSIK-004-Y",
+      "director_question_id": "G100-20261008-MUSIK-004-D"
+    },
+    {
+      "rank": 5,
+      "film_title_de": "Meet Me in St. Louis",
+      "film_title_original": "Meet Me in St. Louis",
+      "film_year": 1944,
+      "subdomain": "Musik",
+      "familiarity_level": 3,
+      "familiarity_reason": "Etablierter MGM-Klassiker mit berühmten Liedern, dessen vollständige Familienhandlung weniger bekannt ist; Bekanntheit 3.",
+      "directors": [
+        "Vincente Minnelli"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Originalfilm mit Judy Garland und Margaret O’Brien, 1944. AFI: Weltpremiere St. Louis 22. November, New Yorker Eröffnung 28. November. Das Jahr der dargestellten Weltausstellung 1904 ist kein Filmjahr.",
+      "director_note": "AFI führt Vincente Minnelli als Hauptregisseur und Arthur Freed als Produzent. George Cukor war nach den ausgewerteten Quellen zuerst vorgesehen, ist aber kein gemeinsamer Hauptregisseur der fertigen Produktion.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/24066-MEET-MEINSTLOUIS",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-005-L1",
+      "year_question_id": "G100-20261008-MUSIK-005-Y",
+      "director_question_id": "G100-20261008-MUSIK-005-D"
+    },
+    {
+      "rank": 6,
+      "film_title_de": "Die 42. Straße",
+      "film_title_original": "42nd Street",
+      "film_year": 1933,
+      "subdomain": "Musik",
+      "familiarity_level": 3,
+      "familiarity_reason": "Grundlegender Backstage-Musical-Klassiker, dessen konkrete Handlung weniger geläufig ist als sein Einfluss; Bekanntheit 3.",
+      "directors": [
+        "Lloyd Bacon"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "42nd Street, 1933. AFI nennt die New Yorker Premiere 9. März und allgemeinen Start 11. März. Hier ist der Film mit Ruby Keeler und Warner Baxter gemeint, nicht die Bühnenbearbeitung 1980.",
+      "director_note": "Lloyd Bacon ist bei AFI als Dir genannt. Busby Berkeley wird unter Dances & ensembles created & staged by geführt. Die Regie und Gestaltung der Musiknummern wird von der Hauptregie getrennt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/42nd_Street_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3955-42ND-STREET",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-006-L1",
+      "year_question_id": "G100-20261008-MUSIK-006-Y",
+      "director_question_id": "G100-20261008-MUSIK-006-D"
+    },
+    {
+      "rank": 7,
+      "film_title_de": "Parade im Rampenlicht",
+      "film_title_original": "Footlight Parade",
+      "film_year": 1933,
+      "subdomain": "Musik",
+      "familiarity_level": 3,
+      "familiarity_reason": "Grundlegender Warner-Backstage-Musicalfilm mit James Cagney, außerhalb des Genrekanons weniger bekannt; Bekanntheit 3.",
+      "directors": [
+        "Lloyd Bacon"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Footlight Parade von 1933. Der Cache nennt Premiere 30. September und allgemeinen Start 21. Oktober; AFI nennt 21. Oktober als Release Date. Die frühere Premiere und der spätere breite Start liegen im gleichen Jahr.",
+      "director_note": "AFI: Lloyd Bacon Dir, William Keighley Dial dir; Busby Berkeley musikalische Gestaltung. Nach USC-Warner-Unterlagen im AFI inszenierte Larry Ceballos Sittin’ on a Backyard Fence und Honeymoon Hotel. Der LoC-Essay schreibt dagegen pauschal vier große Nummern Berkeley zu. Für die Hauptregie gilt Bacon; keine unqualifizierte Zuschreibung sämtlicher Nummern an Berkeley.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Footlight_Parade",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3881-FOOTLIGHT-PARADE",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "loc_essay",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/footlight_parade.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "loc_registry",
+          "url": "https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "academy_registry",
+          "url": "https://www.oscars.org/sites/oscars/files/01092024_national_film_registry_academy_film_archive_holdings.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-007-L1",
+      "year_question_id": "G100-20261008-MUSIK-007-Y",
+      "director_question_id": "G100-20261008-MUSIK-007-D"
+    },
+    {
+      "rank": 8,
+      "film_title_de": "Gigi",
+      "film_title_original": "Gigi",
+      "film_year": 1958,
+      "subdomain": "Musik",
+      "familiarity_level": 3,
+      "familiarity_reason": "Kanonischer MGM-Musicalfilm, dessen Handlung abseits des Genreinteresses weniger bekannt ist; Bekanntheit 3.",
+      "directors": [
+        "Vincente Minnelli"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Gigi, 1958, mit Leslie Caron und Louis Jourdan. AFI nennt New Yorker Eröffnung 15. Mai und Los Angeles 10. Juli, breiten Start im Dezember. Gemeint ist das amerikanische Musical, nicht die frühere französische Verfilmung; Aufnahmen in Paris machen Frankreich nicht automatisch zum Produktionsland.",
+      "director_note": "AFI weist Vincente Minnelli als Hauptregisseur aus. Alan Jay Lerner schrieb das Drehbuch, Frederick Loewe die Musik und André Previn betreute die musikalische Umsetzung. AFI weist Charles Walters gesondert für Regie und Inszenierung der Nummer The Night They Invented Champagne aus; dieser begrenzte Nummerncredit ist keine gemeinsame Hauptregie.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52564-GIGI",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi_folge",
+          "url": "https://catalog.afi.com/Film/22921-MY-FAIRLADY",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-008-L1",
+      "year_question_id": "G100-20261008-MUSIK-008-Y",
+      "director_question_id": "G100-20261008-MUSIK-008-D"
+    },
+    {
+      "rank": 9,
+      "film_title_de": "Die oberen Zehntausend",
+      "film_title_original": "High Society",
+      "film_year": 1956,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekanntes MGM-Musical mit Grace Kelly, Bing Crosby und Frank Sinatra sowie Cole-Porter-Liedern.",
+      "directors": [
+        "Charles Walters"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI verzeichnet den US-Start am 17. Juli 1956. Die Veröffentlichung ist von Grace Kellys vorheriger Hochzeit zu unterscheiden.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Society_(1956_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51860-HIGH-SOCIETY",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vorlage",
+          "url": "https://catalog.afi.com/Film/27639-THE-PHILADELPHIA-STORY?cxt=filmography",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-009-L1",
+      "year_question_id": "G100-20261008-MUSIK-009-Y",
+      "director_question_id": "G100-20261008-MUSIK-009-D"
+    },
+    {
+      "rank": 10,
+      "film_title_de": "Anatevka",
+      "film_title_original": "Fiddler on the Roof",
+      "film_year": 1971,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Prägende Verfilmung des international bekannten Bühnenmusicals mit Topol und den Liedern „Tradition“ und „If I Were a Rich Man“.",
+      "directors": [
+        "Norman Jewison"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich",
+        "Jugoslawien"
+      ],
+      "country_note": "Die Wikipedia-Infobox nennt nur USA; AFI führt ausdrücklich Vereinigtes Königreich, Jugoslawien und USA als Countries. Die vollständige institutionelle Zuordnung wird übernommen. Sie stammt aus dem Archivfeld, nicht aus einer eigenen Ableitung der ebenfalls dokumentierten Drehorte.",
+      "release_note": "AFI nennt eine öffentliche Benefizpremiere in Amsterdam am 21. Oktober 1971; New York folgte am 3. November 1971. Maßgeblich bleibt das Erstjahr 1971.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54251-FIDDLER-ONTHEROOF?cp=1&pos=0&sid=34504f92-155d-4799-8fd6-ea6d2786643b&sr=0.10636307",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "buehne",
+          "url": "https://www.ibdb.com/broadway-production/fiddler-on-the-roof-3213",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-010-L1",
+      "year_question_id": "G100-20261008-MUSIK-010-Y",
+      "director_question_id": "G100-20261008-MUSIK-010-D"
+    },
+    {
+      "rank": 11,
+      "film_title_de": "Yentl",
+      "film_title_original": "Yentl",
+      "film_year": 1983,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekanntes Streisand-Musical und ihr Regiedebüt mit „Papa, Can You Hear Me?“.",
+      "directors": [
+        "Barbra Streisand"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "country_note": "Die Wikipedia-Infobox nennt nur USA. AFI und das BFI-Filmarchiv führen Großbritannien und USA; beide Länder werden übernommen. Drehorte in der damaligen Tschechoslowakei sind keine zusätzliche Produktionslandzuordnung.",
+      "release_note": "Das Erstjahr ist 1983. AFI verzeichnet den Kinostart in Los Angeles und New York am 18. November 1983 und berichtet außerdem von der Premierenveranstaltung am 16. November.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Yentl_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58166-YENTL",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/bf6b8387-312d-59a6-92ff-f89dcf832848/yentl",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "star",
+          "url": "https://catalog.afi.com/Film/55857-",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-011-L1",
+      "year_question_id": "G100-20261008-MUSIK-011-Y",
+      "director_question_id": "G100-20261008-MUSIK-011-D"
+    },
+    {
+      "rank": 12,
+      "film_title_de": "A Star Is Born",
+      "film_title_original": "A Star Is Born",
+      "film_year": 1976,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Musikfassung des mehrfach verfilmten Künstlerdramas mit Streisand, Kristofferson und „Evergreen“.",
+      "directors": [
+        "Frank Pierson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Die Fassung mit Barbra Streisand und Kris Kristofferson wurde 1976 veröffentlicht. Der Recherchecache nennt die Premiere im Mann Village Theater am 18. Dezember; AFI führt den regulären Los-Angeles-Start am 19. Dezember und New York am 25. Dezember. Alle Termine gehören zu 1976.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1976_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55857-",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "yentl",
+          "url": "https://catalog.afi.com/Film/58166-YENTL",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-012-L1",
+      "year_question_id": "G100-20261008-MUSIK-012-Y",
+      "director_question_id": "G100-20261008-MUSIK-012-D"
+    },
+    {
+      "rank": 13,
+      "film_title_de": "La Vie en Rose",
+      "film_title_original": "La Môme",
+      "film_year": 2007,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "International bekannte Piaf-Biografie mit Marion Cotillard, verbreitet unter „La Môme“ und „La Vie en Rose“.",
+      "directors": [
+        "Olivier Dahan"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Vereinigtes Königreich",
+        "Tschechien"
+      ],
+      "country_note": "",
+      "release_note": "Weltpremiere als Eröffnungsfilm der Berlinale am 8. Februar 2007; der spätere französische Kinostart im Februar ist nicht das Erstereignis. Das Berlinale-Programm und die Czech Film Commission bestätigen 2007.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "berlinale",
+          "url": "https://www.berlinale.de/external/programme/archive/pdf/20070103.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "commission",
+          "url": "https://filmcommission.gov.cz/en/film/la-mome/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "festival",
+          "url": "https://www.berlinale.de/de/archiv/chroniken/2007.html",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "rocketman",
+          "url": "https://www.festival-cannes.com/en/f/rocketman/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "kinderrollen",
+          "url": "https://filta.org.uk/filta_resources/French/La.Mome.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "rocketman_premiere",
+          "url": "https://www.festival-cannes.com/en/2019/meeting-the-team-of-rocketman-by-dexter-fletcher/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-013-L1",
+      "year_question_id": "G100-20261008-MUSIK-013-Y",
+      "director_question_id": "G100-20261008-MUSIK-013-D"
+    },
+    {
+      "rank": 14,
+      "film_title_de": "Mamma Mia! Here We Go Again",
+      "film_title_original": "Mamma Mia! Here We Go Again",
+      "film_year": 2018,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit bekanntes ABBA-Ensemblemusical als Fortsetzung und Vorgeschichte des erfolgreichen ersten Films.",
+      "directors": [
+        "Ol Parker"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Londoner Weltpremiere am 16. Juli 2018 im Hammersmith Apollo; regulärer britischer und US-Kinostart am 20. Juli 2018. Der Universal-Filmtext bestätigt das Erstjahr 2018.",
+      "director_note": "",
+      "series": {
+        "name": "Mamma Mia!",
+        "position": 2,
+        "note": "Fortsetzung mit Rückblenden auf die Jugend der Figuren; eigenständige Filmhandlung."
+      },
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mamma_Mia!_Here_We_Go_Again",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpictures.com/movies/mamma-mia-here-we-go-again",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/mamma-mia-here-we-go-again-review-second-bite-sweeter",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "laender",
+          "url": "https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2019.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-014-L1",
+      "year_question_id": "G100-20261008-MUSIK-014-Y",
+      "director_question_id": "G100-20261008-MUSIK-014-D"
+    },
+    {
+      "rank": 15,
+      "film_title_de": "West Side Story",
+      "film_title_original": "West Side Story",
+      "film_year": 2021,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit bekannte neue Verfilmung des berühmten Musicals durch Steven Spielberg mit Rachel Zegler und Ariana DeBose.",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Eigenständige Neuadaption von 2021. Die offizielle Werkseite dokumentiert die New Yorker Weltpremiere am 29. November 2021; das Studio nennt den US-Kinostart am 10. Dezember 2021.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/West_Side_Story_(2021_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/west-side-story",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "presskit",
+          "url": "https://lumiere-a.akamaihd.net/v1/documents/west_side_story_projectprofile2020xlogo_2d552460.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "werk",
+          "url": "https://www.westsidestory.com/2021-film",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-015-L1",
+      "year_question_id": "G100-20261008-MUSIK-015-Y",
+      "director_question_id": "G100-20261008-MUSIK-015-D"
+    },
+    {
+      "rank": 16,
+      "film_title_de": "Das Phantom der Oper",
+      "film_title_original": "The Phantom of the Opera",
+      "film_year": 2004,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Kinoadaption des weltweit erfolgreichen Andrew-Lloyd-Webber-Musicals mit Gerard Butler und Emmy Rossum.",
+      "directors": [
+        "Joel Schumacher"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Die Musicalverfilmung erschien 2004. Die offizielle Werkchronik nennt den britischen Kinostart am 10. Dezember; der US-Start folgte am 22. Dezember. Eine Londoner Premierenveranstaltung wird für den 6. Dezember genannt; sämtliche Erstereignisse gehören zu 2004.",
+      "director_note": "Joel Schumacher ist Hauptregisseur. Andrew Lloyd Webber verantwortet unter anderem Musik, Produktion und die gemeinsame Drehbuchfassung; er erhält dadurch keinen zusätzlichen Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(2004_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "werk",
+          "url": "https://www.phantomoftheopera.com/on-screen",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "chronik",
+          "url": "https://www.andrewlloydwebber.com/about/timeline",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bbfc",
+          "url": "https://www.bbfc.co.uk/release/andrew-lloyd-webbers-the-phantom-of-the-opera-q29sbgvjdglvbjpwwc0zntu4mdg",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "premiere",
+          "url": "https://playbill.com/article/phantom-of-the-opera-film-sets-us-release-date-com-122608",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-016-L1",
+      "year_question_id": "G100-20261008-MUSIK-016-Y",
+      "director_question_id": "G100-20261008-MUSIK-016-D"
+    },
+    {
+      "rank": 17,
+      "film_title_de": "Sweeney Todd – Der teuflische Barbier aus der Fleet Street",
+      "film_title_original": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "film_year": 2007,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekanntes Burton-/Depp-Musical mit verbreiteter Bühnenvorlage; redaktionell Bekanntheit 2, unabhängig von den Detailfragen.",
+      "directors": [
+        "Tim Burton"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "2007; AFI nennt den US-Kinostart am 21. Dezember 2007. Die New Yorker Premiere lag ebenfalls 2007; der britische reguläre Start 2008 ist kein neues Erstjahr.",
+      "director_note": "Tim Burton Hauptregie; Stephen Sondheim verantwortet die Musik und die Bühnenvorlage, nicht die Filmregie.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(2007_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/55176-SWEENEY-TODD-THE-DEMON-BARBER-OF-FLEET-STREET",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-017-L1",
+      "year_question_id": "G100-20261008-MUSIK-017-Y",
+      "director_question_id": "G100-20261008-MUSIK-017-D"
+    },
+    {
+      "rank": 18,
+      "film_title_de": "Woodstock",
+      "film_title_original": "Woodstock",
+      "film_year": 1970,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Prägender und breit bekannter Festivalfilm; redaktionell Bekanntheit 2, unabhängig von filmtechnischen Detailfragen.",
+      "directors": [
+        "Michael Wadleigh"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "1970; der LOC/Academy-Essay datiert die Veröffentlichung auf Ende März 1970. Das Festival fand im August 1969 statt. Fragen beziehen sich auf die ursprüngliche Kinofassung und ihre Herstellung, nicht auf spätere Bonusprogramme.",
+      "director_note": "Michael Wadleigh Hauptregie; Martin Scorsese, Thelma Schoonmaker und Larry Johnson übernahmen Assistenz/Koordination, Scorsese und Schoonmaker außerdem Schnittarbeit. Kein gemeinsamer Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Woodstock_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "essay",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/Woodstock.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "gestaltung",
+          "url": "https://blogs.loc.gov/now-see-hear/2019/08/now-playing-at-the-packard-campus-theater-august-9-10-2019/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.criterion.com/films/720-monterey-pop",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-018-L1",
+      "year_question_id": "G100-20261008-MUSIK-018-Y",
+      "director_question_id": "G100-20261008-MUSIK-018-D"
+    },
+    {
+      "rank": 19,
+      "film_title_de": "The Doors: When You’re Strange",
+      "film_title_original": "When You're Strange",
+      "film_year": 2009,
+      "subdomain": "Musik",
+      "familiarity_level": 3,
+      "familiarity_reason": "Kennerfilm zur Rockgeschichte mit bekannten Musikern; redaktionell Bekanntheit 3, getrennt von der Schwierigkeit der Einzelfragen.",
+      "directors": [
+        "Tom DiCillo"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "2009: Sundance bestätigt die Festivalvorführung in diesem Jahr. Kein ungeprüfter exakter Premierentag. US-Kinoauswertung 2010; Regisseur und PBS nennen für die spätere Fassung Johnny Depp als Erzähler. Die frühere Festivalfassung hatte zunächst DiCillos eigene Erzählstimme.",
+      "director_note": "Tom DiCillo schrieb und inszenierte den Dokumentarfilm. Johnny Depp ist Erzähler der späteren englischen Fassung; kein Mitregisseur.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/When_You're_Strange",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "regisseur",
+          "url": "https://www.tomdicillo.com/films/when-youre-strange",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "schnitt",
+          "url": "https://www.tomdicillo.com/89-grammy",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "fernsehen",
+          "url": "https://www.pbs.org/wnet/americanmasters/the-doors-about-the-film/1543/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "festival",
+          "url": "https://www.sundance.org/blogs/film-festival-watch-see-these-16-sundance-institute-supported-films-at-tribeca-2025/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://catalog.afi.com/Film/58866-THE-DOORS",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-019-L1",
+      "year_question_id": "G100-20261008-MUSIK-019-Y",
+      "director_question_id": "G100-20261008-MUSIK-019-D"
+    },
+    {
+      "rank": 20,
+      "film_title_de": "Michael Jackson’s This Is It",
+      "film_title_original": "Michael Jackson’s This Is It",
+      "film_year": 2009,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Weit verbreiteter Dokumentarfilm über einen weltweit bekannten Musiker; redaktionell Bekanntheit 2, unabhängig von den Aufführungsdetails.",
+      "directors": [
+        "Kenny Ortega"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "2009; Sonys Septemberankündigung nennt die Los-Angeles-Gala und frühe öffentliche Vorführungen am 27. Oktober, regulären Start am 28. Oktober. Die Quellen variieren die Monatsgrenzen des Probenzeitraums; dazu kein Wissensziel. Dokumentiert sind Proben für ausgefallene Konzerte.",
+      "director_note": "Kenny Ortega ist laut Sony sowohl Regisseur der geplanten Bühnenshow als auch des Films. Konzert- und Filmregie sind getrennte Aufgaben derselben Person.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/michaeljacksonsthisisit",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.sonypictures.com/corp/press_releases/2009/09_09/09212009_Michael_Jackson_This_Is_It.html",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://d23.com/a-to-z/high-school-musical-3-senior-year-film/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-020-L1",
+      "year_question_id": "G100-20261008-MUSIK-020-Y",
+      "director_question_id": "G100-20261008-MUSIK-020-D"
+    },
+    {
+      "rank": 21,
+      "film_title_de": "Straight Outta Compton",
+      "film_title_original": "Straight Outta Compton",
+      "film_year": 2015,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekanntes Musikbiopic mit prominenter Rapgruppe; redaktionell Bekanntheit 2, unabhängig von genauen Vertrags- und Konzertszenen.",
+      "directors": [
+        "F. Gary Gray"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "2015; Universal bestätigt das Veröffentlichungsjahr. US-Biopic über N.W.A.; die dargestellten Ereignisse sind die Dramatisierung des Spielfilms, keine ungeprüfte historische Tatsachenliste. Die falsche Albumjahresangabe 1989 im Handlungscache wird nicht übernommen.",
+      "director_note": "F. Gary Gray ist laut Universal Hauptregisseur; die Produzenten und die porträtierten Musiker ersetzen diesen Credit nicht.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/straight-outta-compton",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.universalpicturesathome.com/movies/get-on-up",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-021-L1",
+      "year_question_id": "G100-20261008-MUSIK-021-Y",
+      "director_question_id": "G100-20261008-MUSIK-021-D"
+    },
+    {
+      "rank": 22,
+      "film_title_de": "High School Musical",
+      "film_title_original": "High School Musical",
+      "film_year": 2006,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekanntes Disney-Jugendmusical mit verbreiteter Musik und Fortsetzungen; redaktionell Bekanntheit 2.",
+      "directors": [
+        "Kenny Ortega"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "2006; Disney nennt 20. Januar 2006 als erste TV-Veröffentlichung. Der ursprüngliche Film ist ein Fernsehfilm, kein damaliger Kinostart.",
+      "director_note": "Kenny Ortega ist Hauptregisseur. Peter Barsocchini schrieb das Drehbuch; Drew Seeleys Gesangsanteile für Troy sind kein Darsteller- oder Regiecredit.",
+      "series": {
+        "name": "High School Musical",
+        "position": 1,
+        "note": "Erster Fernsehfilm der ursprünglichen Trilogie; keine Identität mit der späteren Fernsehserie."
+      },
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://movies.disney.com/high-school-musical",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://d23.com/a-to-z/high-school-musical-television/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://d23.com/this-day/high-school-musical-2-premieres/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-022-L1",
+      "year_question_id": "G100-20261008-MUSIK-022-Y",
+      "director_question_id": "G100-20261008-MUSIK-022-D"
+    },
+    {
+      "rank": 23,
+      "film_title_de": "High School Musical 2",
+      "film_title_original": "High School Musical 2",
+      "film_year": 2007,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Disney-Fortsetzung mit denselben Hauptfiguren; redaktionell Bekanntheit 2, unabhängig von Sommerjob- und Produktionsdetails.",
+      "directors": [
+        "Kenny Ortega"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "2007; Disneys D23 bestätigt die erste TV-Ausstrahlung am 17. August 2007. Keine Kinoerstveröffentlichung unterstellen.",
+      "director_note": "Kenny Ortega führte Hauptregie und gestaltete die Choreografie. Peter Barsocchini verantwortet das Drehbuch.",
+      "series": {
+        "name": "High School Musical",
+        "position": 2,
+        "note": "Zweiter Fernsehfilm der ursprünglichen Trilogie; erster Wechsel vom Schuljahr zur Sommerferienhandlung."
+      },
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_2",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://d23.com/this-day/high-school-musical-2-premieres/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://d23.com/a-to-z/high-school-musical-3-senior-year-film/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-023-L1",
+      "year_question_id": "G100-20261008-MUSIK-023-Y",
+      "director_question_id": "G100-20261008-MUSIK-023-D"
+    },
+    {
+      "rank": 24,
+      "film_title_de": "High School Musical 3: Senior Year",
+      "film_title_original": "High School Musical 3: Senior Year",
+      "film_year": 2008,
+      "subdomain": "Musik",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Kinoabschluss der Disney-Musicaltrilogie; redaktionell Bekanntheit 2, unabhängig von Hochschul- und Bühnenkonflikten.",
+      "directors": [
+        "Kenny Ortega"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "2008; D23 bestätigt reguläre Starts in Dänemark, Frankreich, Schweden und UK am 22. Oktober, US-Start 24. Oktober. Den abweichenden Cache-Eintrag 17. Oktober nicht als ungeprüften regulären UK-Start übernehmen. Erster Kinofilm der ursprünglichen Trilogie.",
+      "director_note": "Kenny Ortega Hauptregie; Peter Barsocchini Drehbuch. Keine Verwechslung mit dem Fernsehserienformat High School Musical: The Musical: The Series.",
+      "series": {
+        "name": "High School Musical",
+        "position": 3,
+        "note": "Dritter Film der ursprünglichen Trilogie und erster zunächst fürs Kino veröffentlichter Teil; keine Identität mit der späteren Fernsehserie."
+      },
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://movies.disney.com/high-school-musical-3-senior-year",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://d23.com/a-to-z/high-school-musical-3-senior-year-film/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://movies.disney.com/high-school-musical",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MUSIK-024-L1",
+      "year_question_id": "G100-20261008-MUSIK-024-Y",
+      "director_question_id": "G100-20261008-MUSIK-024-D"
+    }
+  ]
+}

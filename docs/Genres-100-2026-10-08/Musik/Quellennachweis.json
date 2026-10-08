@@ -1,0 +1,3228 @@
+{
+  "date": "2026-10-08",
+  "scope": "Eigene Redaktion auf tatsächlich gelesenen Quellen; keine unabhängige zweite Vollrecherche.",
+  "questions": [
+    {
+      "question_id": "G100-20261008-MUSIK-001-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-001-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert das Experiment im konkreten Fachgebiet.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Higgins erforscht Aussprache und Sprachformen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22921-MY-FAIRLADY",
+          "checked_on": "2026-10-08",
+          "supports": "Higgins erforscht Aussprache und Sprachformen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-001-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-001-L2",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet Elizas eigenes Ziel vom Experiment ihres Lehrers.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Eliza möchte in einem Blumenladen arbeiten."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22921-MY-FAIRLADY",
+          "checked_on": "2026-10-08",
+          "supports": "Eliza möchte in einem Blumenladen arbeiten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-001-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-001-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Störung der ersten öffentlichen Probe.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Beim Anfeuern fällt sie in ihre alte Sprechweise zurück."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22921-MY-FAIRLADY",
+          "checked_on": "2026-10-08",
+          "supports": "Beim Anfeuern fällt sie in ihre alte Sprechweise zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-001-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-001-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den Konflikt nach dem vermeintlichen Triumph.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Männer übergehen Elizas Arbeit und Zukunft."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22921-MY-FAIRLADY",
+          "checked_on": "2026-10-08",
+          "supports": "Die Männer übergehen Elizas Arbeit und Zukunft."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-001-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-001-S1",
+      "goal_kind": "content",
+      "interest_reason": "Fragt nach der präzisen Fehldeutung des Beobachters.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Karpathy erklärt Eliza zur ungarischen Prinzessin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-001-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-001-S2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet Tontechnik und Darstellungsweise.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Mikrofon war im Krawattenknoten verborgen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22921-MY-FAIRLADY",
+          "checked_on": "2026-10-08",
+          "supports": "Das Mikrofon war im Krawattenknoten verborgen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-001-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-001-Y",
+      "goal_kind": "year",
+      "interest_reason": "Trennt Bühnenpremiere und Filmjahr.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Weltpremiere fand 1964 statt."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22921-MY-FAIRLADY",
+          "checked_on": "2026-10-08",
+          "supports": "Die Weltpremiere fand 1964 statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-001-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-001-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die konkrete Fassung und ihre gestalterischen Aufgaben ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "George Cukor ist der Hauptregisseur."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22921-MY-FAIRLADY",
+          "checked_on": "2026-10-08",
+          "supports": "George Cukor ist der Hauptregisseur."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-002-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-002-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den konkreten Beginn der Beziehung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Esther macht sein Auftauchen scheinbar zum Teil der Nummer."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-002-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-002-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Umbenennung und ihre institutionelle Herkunft.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Studio benennt sie in Vicki Lester um."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-002-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-002-M1",
+      "goal_kind": "content",
+      "interest_reason": "Fragt nach einer Entscheidung statt dem allgemeinen Karrieregegensatz.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Vicki erwägt den Berufsverzicht, um ihn zu betreuen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-002-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-002-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den konkreten äußeren Anlass der Eskalation.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Libbys Spott löst den Streit und erneutes Trinken aus."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-002-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-002-S1",
+      "goal_kind": "content",
+      "interest_reason": "Trennt persönliche Schlussvorstellung und Künstlername.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Sie nennt sich Mrs. Norman Maine."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-002-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-002-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt Grenze und Methode einer Rekonstruktion.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Standfotos wurden mit der erhaltenen Tonspur verbunden."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51362-A-STAR-IS-BORN",
+          "checked_on": "2026-10-08",
+          "supports": "Standfotos wurden mit der erhaltenen Tonspur verbunden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-002-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-002-Y",
+      "goal_kind": "year",
+      "interest_reason": "Trennt Original, Neuverfilmung und Rekonstruktion.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Produktion mit Garland und Mason erschien 1954."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51362-A-STAR-IS-BORN",
+          "checked_on": "2026-10-08",
+          "supports": "Die Produktion mit Garland und Mason erschien 1954."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-002-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-002-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die Version und die Betreuung einzelner Nummern ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)",
+          "checked_on": "2026-10-08",
+          "supports": "George Cukor inszenierte die Fassung mit Garland und Mason."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51362-A-STAR-IS-BORN",
+          "checked_on": "2026-10-08",
+          "supports": "George Cukor inszenierte die Fassung mit Garland und Mason."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-003-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-003-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den konkreten Anlass des ersten Kontakts.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat",
+          "checked_on": "2026-10-08",
+          "supports": "Jerrys Stepptanzen stört ihren Schlaf; sie beschwert sich."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-003-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-003-L2",
+      "goal_kind": "content",
+      "interest_reason": "Verankert den zentralen Irrtum ohne bloße Rollennamenprüfung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat",
+          "checked_on": "2026-10-08",
+          "supports": "Sie hält Jerry für den Ehemann ihrer Freundin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-003-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-003-M1",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet berufliche Bindung und spätere Heiratsentscheidung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat",
+          "checked_on": "2026-10-08",
+          "supports": "Dale führt Beddinis Kleider als Model vor."
+        },
+        {
+          "key": "loc",
+          "url": "https://blogs.loc.gov/now-see-hear/2022/05/from-national-film-registry-the-friendship-of-irving-berlin-fred-astaire-and-top-hat/",
+          "checked_on": "2026-10-08",
+          "supports": "Dale führt Beddinis Kleider als Model vor."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-003-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-003-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den konkreten Ortswechsel innerhalb der Handlung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat",
+          "checked_on": "2026-10-08",
+          "supports": "Jerry folgt Dale nach Venedig."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-003-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-003-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die genaue Auflösung des vermeintlichen Ehehindernisses.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat",
+          "checked_on": "2026-10-08",
+          "supports": "Bates ist als Geistlicher verkleidet und vollzieht keine gültige Trauung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-003-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-003-S2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet die Wirkung eines Kostüms mit seiner Produktionsschwierigkeit.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/6707-TOPHAT",
+          "checked_on": "2026-10-08",
+          "supports": "Die Federn lösten sich und störten die Aufnahme."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat",
+          "checked_on": "2026-10-08",
+          "supports": "Die Federn lösten sich und störten die Aufnahme."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-003-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-003-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet Erstjahr und spätere Bewahrung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/6707-TOPHAT",
+          "checked_on": "2026-10-08",
+          "supports": "Top Hat erschien 1935."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat",
+          "checked_on": "2026-10-08",
+          "supports": "Top Hat erschien 1935."
+        },
+        {
+          "key": "loc",
+          "url": "https://blogs.loc.gov/now-see-hear/2022/05/from-national-film-registry-the-friendship-of-irving-berlin-fred-astaire-and-top-hat/",
+          "checked_on": "2026-10-08",
+          "supports": "Top Hat erschien 1935."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-003-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-003-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die musikalische Zusammenarbeit dem korrekten Hauptcredit zu.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/6707-TOPHAT",
+          "checked_on": "2026-10-08",
+          "supports": "Mark Sandrich inszenierte den Film."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Top_Hat",
+          "checked_on": "2026-10-08",
+          "supports": "Mark Sandrich inszenierte den Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-004-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-004-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt das ursprüngliche Ziel vor der späteren Umdeutung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Band_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Das Stück soll Tonys Bühnencomeback ermöglichen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-004-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-004-L2",
+      "goal_kind": "content",
+      "interest_reason": "Verankert den künstlerischen Gegensatz der Hauptfiguren.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Band_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Gabrielle ist Balletttänzerin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-004-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-004-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt das konkrete Konzept hinter dem künstlerischen Konflikt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Band_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Cordova macht daraus eine düstere Faust-Deutung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-004-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-004-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verknüpft eine früh eingeführte persönliche Ressource mit dem Neubeginn.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Band_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Tony setzt seine Kunstsammlung für die Finanzierung ein."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-004-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-004-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt ein konkretes Erzählmodell einer eigenständigen Nummer.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/50752-THE-BANDWAGON",
+          "checked_on": "2026-10-08",
+          "supports": "Das Ballett greift den hartgesottenen Detektivroman auf."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Band_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Das Ballett greift den hartgesottenen Detektivroman auf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-004-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-004-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt einen präzisen visuellen Trick der Nummer.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/50752-THE-BANDWAGON",
+          "checked_on": "2026-10-08",
+          "supports": "Schuhe an den Knien ermöglichen den scheinbar kleinen Tanz."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Band_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Schuhe an den Knien ermöglichen den scheinbar kleinen Tanz."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-004-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-004-Y",
+      "goal_kind": "year",
+      "interest_reason": "Trennt den Bühnenbezug von der neuen Filmgeschichte.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/50752-THE-BANDWAGON",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1953."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Band_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1953."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-004-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-004-D",
+      "goal_kind": "director",
+      "interest_reason": "Unterscheidet Filmregie und dargestellte Bühnenarbeit.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/50752-THE-BANDWAGON",
+          "checked_on": "2026-10-08",
+          "supports": "Vincente Minnelli inszenierte den Film."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Band_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Vincente Minnelli inszenierte den Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-005-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-005-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt das konkrete Ziel der bedrohten Ortsveränderung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis",
+          "checked_on": "2026-10-08",
+          "supports": "Der angekündigte Umzug führt nach New York."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-005-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-005-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die falsche Zuordnung eines wichtigen Zwischenfalls.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis",
+          "checked_on": "2026-10-08",
+          "supports": "Tootie beschuldigt John, der die Kinder tatsächlich schützen wollte."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-005-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-005-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Hilfe innerhalb der Familie.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis",
+          "checked_on": "2026-10-08",
+          "supports": "Der Großvater übernimmt die Begleitung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-005-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-005-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den Kartenwechsel als konkrete Veränderung ihres Urteils.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis",
+          "checked_on": "2026-10-08",
+          "supports": "Esther nimmt die selbst vorbereitete Zumutung nun auf sich."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-005-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-005-S1",
+      "goal_kind": "content",
+      "interest_reason": "Fragt nach der Handlung nach dem Lied statt dessen bereits vorhandenem Titelziel.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis",
+          "checked_on": "2026-10-08",
+          "supports": "Tootie zerschlägt die Schneemänner, die zurückbleiben müssten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-005-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-005-S2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet die Vorlage mit einer konkret benannten Figur.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/24066-MEET-MEINSTLOUIS",
+          "checked_on": "2026-10-08",
+          "supports": "Sally Benson wurde zur Grundlage der jüngsten Tochter Tootie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-005-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-005-Y",
+      "goal_kind": "year",
+      "interest_reason": "Trennt Vorlage, Filmjahr und erzählte Vergangenheit.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/24066-MEET-MEINSTLOUIS",
+          "checked_on": "2026-10-08",
+          "supports": "Die Weltpremiere fand 1944 statt."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis",
+          "checked_on": "2026-10-08",
+          "supports": "Die Weltpremiere fand 1944 statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-005-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-005-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die fertige Produktion gegenüber früheren Planungen ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/24066-MEET-MEINSTLOUIS",
+          "checked_on": "2026-10-08",
+          "supports": "Vincente Minnelli ist der Hauptregisseur."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis",
+          "checked_on": "2026-10-08",
+          "supports": "Vincente Minnelli ist der Hauptregisseur."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-006-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-006-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert den Aufstieg in ihrer tatsächlichen Ausgangsposition.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/42nd_Street_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Peggy beginnt als neu aufgenommenes Mitglied der Tanzgruppe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-006-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-006-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den konkreten Auslöser der Premierenkrise.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/42nd_Street_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Knöchelverletzung verhindert ihren Auftritt."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3955-42ND-STREET",
+          "checked_on": "2026-10-08",
+          "supports": "Die Knöchelverletzung verhindert ihren Auftritt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-006-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-006-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet Arbeitsdruck und konkretes persönliches Motiv.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/42nd_Street_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Nach seinen Verlusten braucht er den Erfolg für einen finanziell gesicherten Rückzug."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-006-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-006-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die entscheidende kollegiale Empfehlung vor dem Ersatzauftritt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/42nd_Street_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ann erklärt ihre eigene Grenze und empfiehlt Peggy."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-006-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-006-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Gegenstimme zum triumphalen Ende.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/42nd_Street_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Zuschauer loben Peggy und sprechen ihm den entscheidenden Anteil ab."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-006-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-006-S2",
+      "goal_kind": "content",
+      "interest_reason": "Macht einen präzisen musikalischen Teamcredit sichtbar.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3955-42ND-STREET",
+          "checked_on": "2026-10-08",
+          "supports": "Warren komponierte, Dubin schrieb die Texte."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/42nd_Street_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Warren komponierte, Dubin schrieb die Texte."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-006-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-006-Y",
+      "goal_kind": "year",
+      "interest_reason": "Trennt Filmjahr und späteren Broadway-Erfolg.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3955-42ND-STREET",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1933."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/42nd_Street_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1933."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-006-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-006-D",
+      "goal_kind": "director",
+      "interest_reason": "Klärt die Grenze zwischen Hauptregie und Nummerngestaltung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3955-42ND-STREET",
+          "checked_on": "2026-10-08",
+          "supports": "Lloyd Bacon ist der Hauptregisseur."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/42nd_Street_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Lloyd Bacon ist der Hauptregisseur."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-007-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-007-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt das konkrete neue Geschäftsmodell.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Footlight_Parade",
+          "checked_on": "2026-10-08",
+          "supports": "Kent stellt Live-Prologe für die Kinovorführung her."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3881-FOOTLIGHT-PARADE",
+          "checked_on": "2026-10-08",
+          "supports": "Kent stellt Live-Prologe für die Kinovorführung her."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-007-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-007-L2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet eine alltägliche Beobachtung mit der neuen Produktionsorganisation.",
+      "sources": [
+        {
+          "key": "loc_essay",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/footlight_parade.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Der günstige Aspirinkauf erklärt ihm den Vorteil einer Ladenkette."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-007-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-007-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Gegenmaßnahme gegen die Betriebsspionage.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Footlight_Parade",
+          "checked_on": "2026-10-08",
+          "supports": "Die Abschottung soll den Ideendiebstahl stoppen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3881-FOOTLIGHT-PARADE",
+          "checked_on": "2026-10-08",
+          "supports": "Die Abschottung soll den Ideendiebstahl stoppen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-007-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-007-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den konkreten Anlass des eigenen Bühnenauftritts.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Footlight_Parade",
+          "checked_on": "2026-10-08",
+          "supports": "Kent springt für den betrunkenen Darsteller ein."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3881-FOOTLIGHT-PARADE",
+          "checked_on": "2026-10-08",
+          "supports": "Kent springt für den betrunkenen Darsteller ein."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-007-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-007-S1",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet die tatsächlich beteiligten Liedteams.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Footlight_Parade",
+          "checked_on": "2026-10-08",
+          "supports": "By a Waterfall stammt von Sammy Fain und Irving Kahal."
+        },
+        {
+          "key": "loc_essay",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/footlight_parade.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "By a Waterfall stammt von Sammy Fain und Irving Kahal."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-007-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-007-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt eine konkret dokumentierte Bildfolge innerhalb der Nummer.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3881-FOOTLIGHT-PARADE",
+          "checked_on": "2026-10-08",
+          "supports": "Die Formation verwandelt sich in ein Porträt Franklin D. Roosevelts."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-007-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-007-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ordnet eine spätere Bewahrung zeitlich gegenüber der Veröffentlichung ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Footlight_Parade",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1933."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3881-FOOTLIGHT-PARADE",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1933."
+        },
+        {
+          "key": "loc_registry",
+          "url": "https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1933."
+        },
+        {
+          "key": "academy_registry",
+          "url": "https://www.oscars.org/sites/oscars/files/01092024_national_film_registry_academy_film_archive_holdings.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1933."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-007-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-007-D",
+      "goal_kind": "director",
+      "interest_reason": "Klärt den Hauptcredit trotz widersprüchlicher pauschaler Nummernzuschreibungen.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3881-FOOTLIGHT-PARADE",
+          "checked_on": "2026-10-08",
+          "supports": "Lloyd Bacon ist als Hauptregisseur ausgewiesen."
+        },
+        {
+          "key": "loc_essay",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/footlight_parade.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Lloyd Bacon ist als Hauptregisseur ausgewiesen."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Footlight_Parade",
+          "checked_on": "2026-10-08",
+          "supports": "Lloyd Bacon ist als Hauptregisseur ausgewiesen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-008-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-008-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt das konkrete Ziel hinter der scheinbaren Etiketteschulung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Ausbildung soll sie zur Kurtisane machen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-008-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-008-L2",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die konkrete familiäre Beziehung ohne Rollennamenabfrage.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Honoré ist Gastons Onkel."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-008-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-008-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Folge eines persönlichen Spiels.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Gaston muss sie und ihre Großmutter ans Meer mitnehmen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-008-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-008-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den konkreten Einwand gegen das materielle Angebot.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Gigi sieht die spätere Austauschbarkeit einer Geliebten voraus."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-008-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-008-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet ein konkretes Geschenk mit der Krise des Restaurantbesuchs.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Gaston schenkt ihr ein Smaragdarmband."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-008-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-008-S2",
+      "goal_kind": "content",
+      "interest_reason": "Macht eine präzise musikalische Mitwirkung sichtbar.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52564-GIGI",
+          "checked_on": "2026-10-08",
+          "supports": "Betty Wand ist als Gesangsdoppel für Leslie Caron genannt."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Betty Wand ist als Gesangsdoppel für Leslie Caron genannt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-008-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-008-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet zwei eigenständige Filme über ihr belegtes Liedteam.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52564-GIGI",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste Veröffentlichung erfolgte 1958."
+        },
+        {
+          "key": "afi_folge",
+          "url": "https://catalog.afi.com/Film/22921-MY-FAIRLADY",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste Veröffentlichung erfolgte 1958."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste Veröffentlichung erfolgte 1958."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-008-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-008-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die Inszenierung und die getrennten gestalterischen Aufgaben ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52564-GIGI",
+          "checked_on": "2026-10-08",
+          "supports": "Vincente Minnelli inszenierte das Musical."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Vincente Minnelli inszenierte das Musical."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-009-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-009-L1",
+      "goal_kind": "content",
+      "interest_reason": "Das Hauptmotiv erschließt die romantische Ausgangslage.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Society_(1956_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Dexter möchte Tracy zurückgewinnen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-009-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-009-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Auflösung ordnet das romantische Dreieck.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Society_(1956_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Tracy heiratet erneut Dexter."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-009-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-009-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der Anlass erklärt den Eingriff der Außenstehenden.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Society_(1956_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Spy erpresst den Zugang mit einem Bericht über den Vater."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-009-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-009-M2",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkretes Objekt vermittelt die Vorgeschichte.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Society_(1956_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Dexter schenkt ihr ein Modell der „True Love“."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-009-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-009-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Täuschung belohnt genaue Aufmerksamkeit.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Society_(1956_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Vater und Onkel werden unter vertauschten Identitäten vorgestellt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-009-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-009-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Herkunft zeigt, wie ein Musical vorhandene Lieder neu einsetzt.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51860-HIGH-SOCIETY",
+          "checked_on": "2026-10-08",
+          "supports": "Das Lied stammt aus „Du Barry Was a Lady“."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-009-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-009-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Abstand verbindet die beiden eigenständigen Filmfassungen.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51860-HIGH-SOCIETY",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste Veröffentlichung war 1956."
+        },
+        {
+          "key": "vorlage",
+          "url": "https://catalog.afi.com/Film/27639-THE-PHILADELPHIA-STORY?cxt=filmography",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste Veröffentlichung war 1956."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-009-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-009-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Credit trennt die beiden Verfilmungen.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51860-HIGH-SOCIETY",
+          "checked_on": "2026-10-08",
+          "supports": "Charles Walters führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-010-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-010-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf verortet die zentrale Figur im Alltag.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Tevje ist Milchmann."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-010-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-010-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der Schluss macht den politischen Rahmen der Familiengeschichte sichtbar.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die jüdischen Bewohner werden vertrieben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-010-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-010-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die dritte Ehe stellt eine eigene Grenze der Tradition dar.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Chava heiratet den Christen Fedja."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-010-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-010-M2",
+      "goal_kind": "content",
+      "interest_reason": "Das Reiseziel verbindet politische Verfolgung mit einer Liebesentscheidung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Hodel folgt Perchik nach Sibirien."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-010-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-010-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage unterscheidet erzählte Fantasie und tatsächliche Handlung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Tevje erfindet einen Traum über die Heirat."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-010-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-010-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die instrumentale Besetzung erklärt die Zusammenarbeit von Bild und Ton.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Violinsoli stammen von Isaac Stern."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54251-FIDDLER-ONTHEROOF?cp=1&pos=0&sid=34504f92-155d-4799-8fd6-ea6d2786643b&sr=0.10636307",
+          "checked_on": "2026-10-08",
+          "supports": "Die Violinsoli stammen von Isaac Stern."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-010-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-010-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Jahresanker verbindet die Bühnenvorlage mit ihrer Kinoadaption.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54251-FIDDLER-ONTHEROOF?cp=1&pos=0&sid=34504f92-155d-4799-8fd6-ea6d2786643b&sr=0.10636307",
+          "checked_on": "2026-10-08",
+          "supports": "Das Erstjahr ist 1971."
+        },
+        {
+          "key": "buehne",
+          "url": "https://www.ibdb.com/broadway-production/fiddler-on-the-roof-3213",
+          "checked_on": "2026-10-08",
+          "supports": "Das Erstjahr ist 1971."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-010-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-010-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Regiecredit bleibt von Musik und Choreografie getrennt.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54251-FIDDLER-ONTHEROOF?cp=1&pos=0&sid=34504f92-155d-4799-8fd6-ea6d2786643b&sr=0.10636307",
+          "checked_on": "2026-10-08",
+          "supports": "Norman Jewison führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-011-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-011-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Bildungswunsch erklärt den zentralen Handlungsantrieb.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Yentl_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Sie möchte studieren, obwohl Frauen der Zugang verwehrt wird."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-011-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-011-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das offene Ende zeigt die Konsequenz ihres Bildungswunsches.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Yentl_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Sie reist in die Vereinigten Staaten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-011-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-011-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Herkunft des Alias ist ein eigener Teil der Verkleidungsgeschichte.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Yentl_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Sie nennt sich nach ihrem verstorbenen Bruder Anshel."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-011-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-011-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Ursache erklärt die spätere Eheverwicklung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Yentl_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Familie reagiert auf den Suizid von Avigdors Bruder."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-011-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-011-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Entscheidung unterscheidet romantische Nähe und persönliche Freiheit.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Yentl_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Sie entscheidet sich gegen eine Ehe, die ihr Studium begrenzen würde."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-011-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-011-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Herkunft erschließt den Weg von Literatur zum Musical.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58166-YENTL",
+          "checked_on": "2026-10-08",
+          "supports": "Die Vorlage stammt von Isaac Bashevis Singer."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Yentl_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Vorlage stammt von Isaac Bashevis Singer."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-011-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-011-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Anker verbindet Streisands Filmrollen mit ihrer Regiearbeit.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58166-YENTL",
+          "checked_on": "2026-10-08",
+          "supports": "Das Erstjahr ist 1983."
+        },
+        {
+          "key": "star",
+          "url": "https://catalog.afi.com/Film/55857-",
+          "checked_on": "2026-10-08",
+          "supports": "Das Erstjahr ist 1983."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-011-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-011-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Credit beschreibt ihre tatsächlich ausgeübte kreative Verantwortung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58166-YENTL",
+          "checked_on": "2026-10-08",
+          "supports": "Barbra Streisand führte Regie."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/bf6b8387-312d-59a6-92ff-f89dcf832848/yentl",
+          "checked_on": "2026-10-08",
+          "supports": "Barbra Streisand führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-012-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-012-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die erste Begegnung zeigt zugleich Talent und problematisches Verhalten.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "John hört Esther in einem kleinen Club."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-012-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-012-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Todesart unterscheidet diese Filmfassung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "John kommt bei einem Autounfall ums Leben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-012-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-012-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Auszeichnung verbindet beruflichen Aufstieg und privaten Konflikt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "John stört Esthers Grammy-Ehrung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-012-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-012-M2",
+      "goal_kind": "content",
+      "interest_reason": "Eine konkrete Arbeitssituation ergänzt die erste Clubbegegnung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Esther nimmt einen Werbejingle auf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-012-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-012-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Ansage verdeutlicht die Bedeutung des Gedenkauftritts.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Sie wird als Esther Hoffman-Howard angekündigt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-012-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-012-S2",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkreter Credit erklärt die persönliche Gestaltung der Kleidung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55857-",
+          "checked_on": "2026-10-08",
+          "supports": "Streisands Kleidung stammt laut Credit aus ihrem eigenen Kleiderschrank."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-012-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-012-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Anker ordnet diese Fassung in Streisands Filmkarriere ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55857-",
+          "checked_on": "2026-10-08",
+          "supports": "Die Streisand-Kristofferson-Fassung erschien 1976."
+        },
+        {
+          "key": "yentl",
+          "url": "https://catalog.afi.com/Film/58166-YENTL",
+          "checked_on": "2026-10-08",
+          "supports": "Die Streisand-Kristofferson-Fassung erschien 1976."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-012-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-012-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Regiecredit trennt Hauptrolle, Produktion und verschiedene Adaptionen.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55857-",
+          "checked_on": "2026-10-08",
+          "supports": "Frank Pierson führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-013-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-013-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der zentrale Kunstbereich erschließt die biografische Handlung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erzählt Édith Piafs Laufbahn als Chansonsängerin."
+        },
+        {
+          "key": "berlinale",
+          "url": "https://www.berlinale.de/external/programme/archive/pdf/20070103.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erzählt Édith Piafs Laufbahn als Chansonsängerin."
+        },
+        {
+          "key": "kinderrollen",
+          "url": "https://filta.org.uk/filta_resources/French/La.Mome.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erzählt Édith Piafs Laufbahn als Chansonsängerin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-013-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-013-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf ordnet eine zentrale Beziehung der Biografie ein.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Marcel Cerdan ist Boxer."
+        },
+        {
+          "key": "berlinale",
+          "url": "https://www.berlinale.de/external/programme/archive/pdf/20070103.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Marcel Cerdan ist Boxer."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-013-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-013-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Betreuung zeigt eine wichtige Kindheitsbeziehung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Titine kümmert sich um Édith während ihrer Erblindung."
+        },
+        {
+          "key": "kinderrollen",
+          "url": "https://filta.org.uk/filta_resources/French/La.Mome.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Titine kümmert sich um Édith während ihrer Erblindung."
+        },
+        {
+          "key": "berlinale",
+          "url": "https://www.berlinale.de/external/programme/archive/pdf/20070103.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Titine kümmert sich um Édith während ihrer Erblindung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-013-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-013-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Todesnachricht erschließt eine markante erzählerische Täuschung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Cerdan stirbt bei einem Flugzeugabsturz."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-013-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-013-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Liedwahl erklärt den frühen Talentmoment.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die junge Édith singt „La Marseillaise“."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-013-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-013-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Schlussnummer verbindet Erzählstruktur und künstlerischen Ausdruck.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Am Schluss erklingt „Non, je ne regrette rien“."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-013-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-013-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Anker stellt zwei konkrete Musikbiografien gegenüber.",
+      "sources": [
+        {
+          "key": "berlinale",
+          "url": "https://www.berlinale.de/external/programme/archive/pdf/20070103.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Die Weltpremiere fand 2007 statt."
+        },
+        {
+          "key": "commission",
+          "url": "https://filmcommission.gov.cz/en/film/la-mome/",
+          "checked_on": "2026-10-08",
+          "supports": "Die Weltpremiere fand 2007 statt."
+        },
+        {
+          "key": "rocketman",
+          "url": "https://www.festival-cannes.com/en/f/rocketman/",
+          "checked_on": "2026-10-08",
+          "supports": "Die Weltpremiere fand 2007 statt."
+        },
+        {
+          "key": "rocketman_premiere",
+          "url": "https://www.festival-cannes.com/en/2019/meeting-the-team-of-rocketman-by-dexter-fletcher/",
+          "checked_on": "2026-10-08",
+          "supports": "Die Weltpremiere fand 2007 statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-013-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-013-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Credit ordnet die filmische Erzählung ihrem Regisseur zu.",
+      "sources": [
+        {
+          "key": "berlinale",
+          "url": "https://www.berlinale.de/external/programme/archive/pdf/20070103.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Olivier Dahan führte Regie."
+        },
+        {
+          "key": "commission",
+          "url": "https://filmcommission.gov.cz/en/film/la-mome/",
+          "checked_on": "2026-10-08",
+          "supports": "Olivier Dahan führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-014-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-014-L1",
+      "goal_kind": "content",
+      "interest_reason": "Das zentrale Projekt ordnet die Gegenwartshandlung ein.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mamma_Mia!_Here_We_Go_Again",
+          "checked_on": "2026-10-08",
+          "supports": "Sophie bereitet die Wiedereröffnung des Hotel Bella Donna vor."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/mamma-mia-here-we-go-again-review-second-bite-sweeter",
+          "checked_on": "2026-10-08",
+          "supports": "Sophie bereitet die Wiedereröffnung des Hotel Bella Donna vor."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-014-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-014-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Verwandtschaft erschließt den überraschenden Familienbesuch.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mamma_Mia!_Here_We_Go_Again",
+          "checked_on": "2026-10-08",
+          "supports": "Ruby ist Sophies Großmutter."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-014-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-014-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkretes Geheimnis erklärt den Bruch der Rückblendenhandlung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mamma_Mia!_Here_We_Go_Again",
+          "checked_on": "2026-10-08",
+          "supports": "Donna entdeckt Sams bestehende Verlobung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-014-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-014-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Reisestörung erklärt die spätere improvisierte Überfahrt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mamma_Mia!_Here_We_Go_Again",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Sturm verhindert die Überfahrt mit den Fähren."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-014-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-014-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Hilfe verbindet eine Nebenhandlung über beide Zeitebenen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mamma_Mia!_Here_We_Go_Again",
+          "checked_on": "2026-10-08",
+          "supports": "Alexio erwidert Bills frühere Hilfe für seine Beziehung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-014-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-014-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Eigentumsfrage erklärt den Ursprung des späteren Hotels.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mamma_Mia!_Here_We_Go_Again",
+          "checked_on": "2026-10-08",
+          "supports": "Die Eigentümerin Sofia bietet Donna an zu bleiben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-014-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-014-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Anker trennt Veröffentlichungsabstand und erzählte Rückblenden.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpictures.com/movies/mamma-mia-here-we-go-again",
+          "checked_on": "2026-10-08",
+          "supports": "Die Fortsetzung erschien 2018."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mamma_Mia!_Here_We_Go_Again",
+          "checked_on": "2026-10-08",
+          "supports": "Die Fortsetzung erschien 2018."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/mamma-mia-here-we-go-again-review-second-bite-sweeter",
+          "checked_on": "2026-10-08",
+          "supports": "Die Fortsetzung erschien 2018."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-014-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-014-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Credits trennen Regie, Story und Beteiligung der früheren Regisseurin.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpictures.com/movies/mamma-mia-here-we-go-again",
+          "checked_on": "2026-10-08",
+          "supports": "Ol Parker führte Regie."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/mamma-mia-here-we-go-again-review-second-bite-sweeter",
+          "checked_on": "2026-10-08",
+          "supports": "Ol Parker führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-015-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-015-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die veränderte Vorgeschichte erklärt seinen Wunsch nach einem anderen Leben.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/West_Side_Story_(2021_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Tony möchte nach seiner Haft wegen einer Gewalttat einen Neuanfang."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-015-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-015-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der Ort erschließt die neue Rolle der Figur.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/West_Side_Story_(2021_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Valentina besitzt den Laden, in dem Tony arbeitet."
+        },
+        {
+          "key": "presskit",
+          "url": "https://lumiere-a.akamaihd.net/v1/documents/west_side_story_projectprofile2020xlogo_2d552460.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Valentina besitzt den Laden, in dem Tony arbeitet."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-015-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-015-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkreter Schauplatz erklärt den privaten Zukunftsentwurf.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/West_Side_Story_(2021_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Date führt Tony und María in die Cloisters."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-015-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-015-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Stadtumbau erweitert den sozialen Konflikt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/West_Side_Story_(2021_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Bebauung für das Lincoln Center bedroht das Viertel."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-015-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-015-S1",
+      "goal_kind": "content",
+      "interest_reason": "Der Schauplatz erklärt die dramatische Wissensdifferenz.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/West_Side_Story_(2021_film)",
+          "checked_on": "2026-10-08",
+          "supports": "María singt bei der nächtlichen Kaufhausreinigung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-015-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-015-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Nachricht verbindet einen Übergriff mit der tragischen Schlusskette.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/West_Side_Story_(2021_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Anita behauptet, Chino habe María getötet."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-015-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-015-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Anker verbindet zwei Filme über eine zurückkehrende Darstellerin.",
+      "sources": [
+        {
+          "key": "werk",
+          "url": "https://www.westsidestory.com/2021-film",
+          "checked_on": "2026-10-08",
+          "supports": "Diese Filmfassung erschien 2021."
+        },
+        {
+          "key": "presskit",
+          "url": "https://lumiere-a.akamaihd.net/v1/documents/west_side_story_projectprofile2020xlogo_2d552460.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Diese Filmfassung erschien 2021."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-015-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-015-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Creditzuordnung trennt die verschiedenen kreativen Aufgaben.",
+      "sources": [
+        {
+          "key": "presskit",
+          "url": "https://lumiere-a.akamaihd.net/v1/documents/west_side_story_projectprofile2020xlogo_2d552460.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Steven Spielberg führte Regie."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/west-side-story",
+          "checked_on": "2026-10-08",
+          "supports": "Steven Spielberg führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-016-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-016-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der anfängliche Glaube erklärt das Vertrauen in den unsichtbaren Lehrer.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(2004_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Christine glaubt, ihr Vater habe ihr einen Engel der Musik geschickt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-016-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-016-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Vorgeschichte ordnet die zweite zentrale Beziehung ein.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(2004_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Christine und Raoul kennen sich seit der Kindheit."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-016-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-016-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Szene unterscheidet die private und die öffentliche Demaskierung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(2004_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Christine nimmt ihm während des Opernduetts die Maske ab."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-016-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-016-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die entscheidende Geste erklärt die Freilassung im Finale.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(2004_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Christines Kuss bewegt das Phantom zum Loslassen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-016-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-016-S1",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkretes Mittel zeigt den Zwang hinter der musikalischen Förderung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(2004_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Phantom manipuliert Carlottas Halsspray."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-016-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-016-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Schlussfund erklärt die offene Andeutung der Rahmenerzählung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(2004_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Raoul sieht eine frische Rose mit Christines Ring."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-016-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-016-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Anker trennt die Bühnenentstehung von der Kinoadaption.",
+      "sources": [
+        {
+          "key": "chronik",
+          "url": "https://www.andrewlloydwebber.com/about/timeline",
+          "checked_on": "2026-10-08",
+          "supports": "Die Musicalverfilmung erschien 2004."
+        },
+        {
+          "key": "werk",
+          "url": "https://www.phantomoftheopera.com/on-screen",
+          "checked_on": "2026-10-08",
+          "supports": "Die Musicalverfilmung erschien 2004."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-016-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-016-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Credit trennt die musikalische Vorlage von ihrer Filmregie.",
+      "sources": [
+        {
+          "key": "werk",
+          "url": "https://www.phantomoftheopera.com/on-screen",
+          "checked_on": "2026-10-08",
+          "supports": "Joel Schumacher führte Regie."
+        },
+        {
+          "key": "bbfc",
+          "url": "https://www.bbfc.co.uk/release/andrew-lloyd-webbers-the-phantom-of-the-opera-q29sbgvjdglvbjpwwc0zntu4mdg",
+          "checked_on": "2026-10-08",
+          "supports": "Joel Schumacher führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-017-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-017-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der zentrale Antrieb erschließt den düsteren Hauptkonflikt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(2007_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Todd will sich an Richter Turpin rächen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-017-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-017-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage betrifft das prägende makabre Geschäftsmodell.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(2007_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Opfer werden zu Fleischpasteten verarbeitet."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-017-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-017-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Figurenbeziehung erklärt Johannas eingeschränkte Freiheit.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(2007_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Johanna ist Turpins Mündel."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-017-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-017-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Erpressung beruht auf Wiedererkennung, nicht auf einem neuen Geschäft.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(2007_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Pirelli hat Todds frühere Identität erkannt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-017-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-017-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Tarnung verbindet den Fluchtplan mit einem konkreten Zugang zur Anstalt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(2007_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Anthony tarnt sich als Perückenmacher."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-017-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-017-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die späte Identitätsenthüllung erklärt die Tragik des Endes.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(2007_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Bettlerin war Lucy, Todds eigene Frau."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-017-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-017-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die Bühnenvorlage bietet einen inhaltlich passenden Jahresanker.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/55176-SWEENEY-TODD-THE-DEMON-BARBER-OF-FLEET-STREET",
+          "checked_on": "2026-10-08",
+          "supports": "1979 die Broadway-Vorlage, 2007 der Film: 28 Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-017-D",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-004-M-2",
+      "goal_kind": "director",
+      "interest_reason": "Die Regie wird von den Urhebern der Musicalvorlage abgegrenzt.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/55176-SWEENEY-TODD-THE-DEMON-BARBER-OF-FLEET-STREET",
+          "checked_on": "2026-10-08",
+          "supports": "Tim Burton führte bei der Verfilmung Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-018-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-018-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die Konzertfolge liefert einen zugänglichen Einstieg ohne beliebige Nebendetails.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Woodstock_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Richie Havens eröffnet die Konzertfolge."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-018-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-018-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der dokumentarische Blick auf das Umfeld ist ein zentrales Inhaltsmerkmal.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Woodstock_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film betrachtet auch Besucher und Menschen vor Ort."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-018-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-018-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage erschließt ein auffälliges filmisches Gestaltungsmittel.",
+      "sources": [
+        {
+          "key": "gestaltung",
+          "url": "https://blogs.loc.gov/now-see-hear/2019/08/now-playing-at-the-packard-campus-theater-august-9-10-2019/",
+          "checked_on": "2026-10-08",
+          "supports": "Geteilte Bildflächen zeigen mehrere Ansichten gleichzeitig."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-018-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-018-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die akustische Montage ist ein eigenständiges Ziel neben der Bildaufteilung.",
+      "sources": [
+        {
+          "key": "gestaltung",
+          "url": "https://blogs.loc.gov/now-see-hear/2019/08/now-playing-at-the-packard-campus-theater-august-9-10-2019/",
+          "checked_on": "2026-10-08",
+          "supports": "Die Tonmontage verbindet und überlagert mehrere Aufnahmen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-018-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-018-S1",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkretes Produktionsproblem erklärt einen wesentlichen Arbeitsschritt.",
+      "sources": [
+        {
+          "key": "essay",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/Woodstock.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Fehlende Klappen erschwerten die Zuordnung von Bild und Ton."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-018-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-018-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Produktionsbedingungen erklären die verfügbare Bildauswahl statt eine Zufallszahl abzufragen.",
+      "sources": [
+        {
+          "key": "essay",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/Woodstock.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Defekte Kameramotoren reduzierten die verfügbaren Perspektiven."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-018-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-018-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ein verwandter Festivalfilm liefert einen konkreten Werkvergleich.",
+      "sources": [
+        {
+          "key": "essay",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/Woodstock.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "1968 Monterey Pop, 1970 Woodstock: zwei Jahre."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.criterion.com/films/720-monterey-pop",
+          "checked_on": "2026-10-08",
+          "supports": "1968 Monterey Pop, 1970 Woodstock: zwei Jahre."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Woodstock_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "1968 Monterey Pop, 1970 Woodstock: zwei Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-018-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-018-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Frage klärt einen häufig unscharf verkürzten Teamcredit.",
+      "sources": [
+        {
+          "key": "essay",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/Woodstock.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Wadleigh führte die Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-019-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-019-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der bekannte Erzähler erschließt den Film unter klarer Fassungsangabe.",
+      "sources": [
+        {
+          "key": "regisseur",
+          "url": "https://www.tomdicillo.com/films/when-youre-strange",
+          "checked_on": "2026-10-08",
+          "supports": "Die spätere Kinofassung wird von Johnny Depp erzählt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/When_You're_Strange",
+          "checked_on": "2026-10-08",
+          "supports": "Die spätere Kinofassung wird von Johnny Depp erzählt."
+        },
+        {
+          "key": "fernsehen",
+          "url": "https://www.pbs.org/wnet/americanmasters/the-doors-about-the-film/1543/",
+          "checked_on": "2026-10-08",
+          "supports": "Die spätere Kinofassung wird von Johnny Depp erzählt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-019-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-019-L2",
+      "goal_kind": "content",
+      "interest_reason": "Ein leichtes Ziel betrifft den Schwerpunkt des Porträts, nicht den im Titel genannten Bandnamen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/When_You're_Strange",
+          "checked_on": "2026-10-08",
+          "supports": "Jim Morrisons Leben prägt die Erzählung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-019-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-019-M1",
+      "goal_kind": "content",
+      "interest_reason": "Das Gestaltungsmittel wird als filmische Konstruktion und nicht als reale Begebenheit gefragt.",
+      "sources": [
+        {
+          "key": "regisseur",
+          "url": "https://www.tomdicillo.com/films/when-youre-strange",
+          "checked_on": "2026-10-08",
+          "supports": "Die konstruierte Radiomeldung berichtet Morrisons eigenen Tod."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-019-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-019-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die gemeinsame Herkunft verbindet Musik und Film, statt ein beliebiges biografisches Datum abzufragen.",
+      "sources": [
+        {
+          "key": "fernsehen",
+          "url": "https://www.pbs.org/wnet/americanmasters/the-doors-about-the-film/1543/",
+          "checked_on": "2026-10-08",
+          "supports": "Morrison und Manzarek begegneten sich an der UCLA-Filmhochschule."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-019-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-019-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Materialherkunft klärt einen für das Dokumentarfilmverständnis wichtigen Unterschied.",
+      "sources": [
+        {
+          "key": "regisseur",
+          "url": "https://www.tomdicillo.com/films/when-youre-strange",
+          "checked_on": "2026-10-08",
+          "supports": "Die Wüstenbilder stammen aus Morrisons eigenem HWY."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-019-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-019-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Arbeitsaufteilung erklärt die Konstruktion des Films aus fragmentarischen Aufnahmen.",
+      "sources": [
+        {
+          "key": "schnitt",
+          "url": "https://www.tomdicillo.com/89-grammy",
+          "checked_on": "2026-10-08",
+          "supports": "Die beiden Editoren bearbeiteten getrennte Filmhälften parallel."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-019-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-019-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die beiden Bandporträts bieten einen passenden filmgeschichtlichen Jahresanker.",
+      "sources": [
+        {
+          "key": "festival",
+          "url": "https://www.sundance.org/blogs/film-festival-watch-see-these-16-sundance-institute-supported-films-at-tribeca-2025/",
+          "checked_on": "2026-10-08",
+          "supports": "1991 The Doors, 2009 When You’re Strange: 18 Jahre."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://catalog.afi.com/Film/58866-THE-DOORS",
+          "checked_on": "2026-10-08",
+          "supports": "1991 The Doors, 2009 When You’re Strange: 18 Jahre."
+        },
+        {
+          "key": "regisseur",
+          "url": "https://www.tomdicillo.com/films/when-youre-strange",
+          "checked_on": "2026-10-08",
+          "supports": "1991 The Doors, 2009 When You’re Strange: 18 Jahre."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/When_You're_Strange",
+          "checked_on": "2026-10-08",
+          "supports": "1991 The Doors, 2009 When You’re Strange: 18 Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-019-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-019-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Regie wird vom Erzähler und vom früheren fiktionalen Bandfilm unterschieden.",
+      "sources": [
+        {
+          "key": "regisseur",
+          "url": "https://www.tomdicillo.com/films/when-youre-strange",
+          "checked_on": "2026-10-08",
+          "supports": "Tom DiCillo schrieb und inszenierte den Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-020-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-020-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der zentrale Dokumentarfilmcharakter muss von einer Konzertaufzeichnung unterschieden werden.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/michaeljacksonsthisisit",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film zeigt Proben für die geplanten Shows."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.sonypictures.com/corp/press_releases/2009/09_09/09212009_Michael_Jackson_This_Is_It.html",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film zeigt Proben für die geplanten Shows."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-020-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-020-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das Aufführungsziel ist ein eigenständiger Zusammenhang neben der Art der Aufnahmen.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/michaeljacksonsthisisit",
+          "checked_on": "2026-10-08",
+          "supports": "Die Konzertserie war für die Londoner O2 Arena geplant."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It",
+          "checked_on": "2026-10-08",
+          "supports": "Die Konzertserie war für die Londoner O2 Arena geplant."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-020-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-020-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der konkrete Filmeinsatz erschließt eine gestalterische Verbindung der Show.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It",
+          "checked_on": "2026-10-08",
+          "supports": "Die Sequenz verbindet Jackson mit Material aus Gilda."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-020-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-020-M2",
+      "goal_kind": "content",
+      "interest_reason": "Ein prägnantes Motiv wird von den übrigen Konzertnummern getrennt geprüft.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It",
+          "checked_on": "2026-10-08",
+          "supports": "Der Wald des Mädchens wird zerstört."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-020-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-020-S1",
+      "goal_kind": "content",
+      "interest_reason": "Das musikalische Probendetail erklärt die besondere Beobachtungsperspektive des Films.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It",
+          "checked_on": "2026-10-08",
+          "supports": "Human Nature erscheint in drei unterschiedlich begleiteten Probenfassungen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-020-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-020-S2",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkret belegtes Verfahren erklärt die Verbindung von Film und geplanter Bühne.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It",
+          "checked_on": "2026-10-08",
+          "supports": "Die Thriller-Einspielung wird für stereoskopische 3D-Wiedergabe vorbereitet."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-020-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-020-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zwei verwandte musikalische Regiearbeiten bilden einen konkreten Jahresanker.",
+      "sources": [
+        {
+          "key": "premiere",
+          "url": "https://www.sonypictures.com/corp/press_releases/2009/09_09/09212009_Michael_Jackson_This_Is_It.html",
+          "checked_on": "2026-10-08",
+          "supports": "2008 High School Musical 3, 2009 This Is It: ein Jahr."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://d23.com/a-to-z/high-school-musical-3-senior-year-film/",
+          "checked_on": "2026-10-08",
+          "supports": "2008 High School Musical 3, 2009 This Is It: ein Jahr."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-020-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-020-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Hauptregiecredit wird anhand einer offiziellen Studiomitteilung geklärt.",
+      "sources": [
+        {
+          "key": "premiere",
+          "url": "https://www.sonypictures.com/corp/press_releases/2009/09_09/09212009_Michael_Jackson_This_Is_It.html",
+          "checked_on": "2026-10-08",
+          "supports": "Kenny Ortega verantwortet die Filmregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-021-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-021-L1",
+      "goal_kind": "content",
+      "interest_reason": "Das musikalische Feld erschließt den Film ohne Spezialwissen über einzelne Lieder.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Gruppe wird mit Rap und Hip-Hop bekannt."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/straight-outta-compton",
+          "checked_on": "2026-10-08",
+          "supports": "Die Gruppe wird mit Rap und Hip-Hop bekannt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-021-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-021-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die zentrale Geschäftsrolle erklärt eine wichtige Beziehung des Biopics.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jerry Heller übernimmt das Management."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/straight-outta-compton",
+          "checked_on": "2026-10-08",
+          "supports": "Jerry Heller übernimmt das Management."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-021-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-021-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Entscheidung verbindet eine konkrete Aufnahme mit der Entstehung der Gruppe.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Absage einer anderen Gruppe führt zu Eazys Aufnahme."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-021-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-021-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Abkehr erklärt einen wesentlichen Wendepunkt seiner Filmgeschichte.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ice Cube verlässt die Gruppe wegen der geschäftlichen Bedingungen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-021-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-021-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Entscheidung erklärt die Eskalation einer markanten Konzertsituation.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Gruppe missachtet das Verbot von Fuck tha Police."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-021-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-021-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der spätere Labelbruch hat eine andere Ursache als Ice Cubes Abschied von N.W.A.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Dre verlässt Death Row wegen Knights gewaltsamen Praktiken."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-021-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-021-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ein verwandtes Musikbiopic liefert einen präzisen Werkvergleich.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/straight-outta-compton",
+          "checked_on": "2026-10-08",
+          "supports": "2014 Get on Up, 2015 Straight Outta Compton: ein Jahr."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.universalpicturesathome.com/movies/get-on-up",
+          "checked_on": "2026-10-08",
+          "supports": "2014 Get on Up, 2015 Straight Outta Compton: ein Jahr."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-021-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-021-D",
+      "goal_kind": "director",
+      "interest_reason": "Der offizielle Credit wird von Musikerporträts und Projektbeteiligungen getrennt.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/straight-outta-compton",
+          "checked_on": "2026-10-08",
+          "supports": "F. Gary Gray inszenierte das N.W.A.-Biopic."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "F. Gary Gray inszenierte das N.W.A.-Biopic."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-022-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-022-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die sportliche Ausgangslage ist ein leichtes, klar abgegrenztes Inhaltsziel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical",
+          "checked_on": "2026-10-08",
+          "supports": "Troy ist Kapitän der Basketballmannschaft."
+        },
+        {
+          "key": "archiv",
+          "url": "https://d23.com/a-to-z/high-school-musical-television/",
+          "checked_on": "2026-10-08",
+          "supports": "Troy ist Kapitän der Basketballmannschaft."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-022-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-022-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage erschließt die zweite Hauptfigur über ihren eigenen Schulbereich.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical",
+          "checked_on": "2026-10-08",
+          "supports": "Gabriella gehört zum Team für den akademischen Zehnkampf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-022-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-022-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Ursprungsszene erklärt die Verbindung der Hauptfiguren.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Karaoke-Duett im Skiurlaub verbindet sie erstmals."
+        },
+        {
+          "key": "studio",
+          "url": "https://movies.disney.com/high-school-musical",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Karaoke-Duett im Skiurlaub verbindet sie erstmals."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-022-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-022-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Lösung des Terminkonflikts betrifft einen Wendepunkt im Schulzusammenhalt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical",
+          "checked_on": "2026-10-08",
+          "supports": "Die Teams schaffen durch Unterbrechungen Zeit für den Auftritt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-022-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-022-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage erklärt den konkreten Ursprung ihrer unerwarteten zweiten Chance.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical",
+          "checked_on": "2026-10-08",
+          "supports": "Ein zufällig mitgehörter Auftritt ermöglicht die zweite Chance."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-022-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-022-S2",
+      "goal_kind": "content",
+      "interest_reason": "Das Motiv der Nebenfiguren und sein konkreter Effekt bilden ein eigenes Beziehungsziel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical",
+          "checked_on": "2026-10-08",
+          "supports": "Gabriella soll glauben, sie sei Troy gleichgültig."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-022-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-022-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die direkte Fortsetzung bietet einen klaren, werkbezogenen Jahresanker.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://movies.disney.com/high-school-musical",
+          "checked_on": "2026-10-08",
+          "supports": "2006 erster Film, 2007 zweite TV-Folge: ein Jahr."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://d23.com/this-day/high-school-musical-2-premieres/",
+          "checked_on": "2026-10-08",
+          "supports": "2006 erster Film, 2007 zweite TV-Folge: ein Jahr."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-022-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-022-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Hauptregiecredit wird mit dem offiziellen Disney-Beleg erklärt.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://movies.disney.com/high-school-musical",
+          "checked_on": "2026-10-08",
+          "supports": "Kenny Ortega führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical",
+          "checked_on": "2026-10-08",
+          "supports": "Kenny Ortega führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-023-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-023-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der gemeinsame Sommerarbeitsplatz erschließt die Fortsetzung leicht.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_2",
+          "checked_on": "2026-10-08",
+          "supports": "Die Sommerjobs liegen im Country Club Lava Springs."
+        },
+        {
+          "key": "studio",
+          "url": "https://d23.com/this-day/high-school-musical-2-premieres/",
+          "checked_on": "2026-10-08",
+          "supports": "Die Sommerjobs liegen im Country Club Lava Springs."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-023-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-023-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die eigene Aufgabe der zweiten Hauptfigur ergänzt den gemeinsamen Arbeitsplatz.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_2",
+          "checked_on": "2026-10-08",
+          "supports": "Gabriella arbeitet am Pool als Rettungsschwimmerin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-023-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-023-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Einstellungsvoraussetzung erklärt, weshalb die ganze Gruppe im Club landet.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_2",
+          "checked_on": "2026-10-08",
+          "supports": "Troy macht die Einstellung seiner Freunde zur Bedingung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-023-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-023-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Wechsel seiner Zugehörigkeit erklärt eine eigenständige Entwicklung der Fortsetzung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_2",
+          "checked_on": "2026-10-08",
+          "supports": "Ryan hilft den Wildcats statt nur Sharpay zu begleiten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-023-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-023-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Folge seines Arbeitsplatzwechsels ist ein eigenständiger schwieriger Zusammenhang.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_2",
+          "checked_on": "2026-10-08",
+          "supports": "Nach seiner Rückkehr trifft Troy die Sperre für das junge Personal."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-023-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-023-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die belegte Entstehung eines Bewegungsmotivs ergänzt die reine Filmhandlung.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://d23.com/this-day/high-school-musical-2-premieres/",
+          "checked_on": "2026-10-08",
+          "supports": "Spontanes Steppen wurde Teil von Work This Out."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-023-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-023-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Wechsel der Veröffentlichungsform macht den Jahresvergleich besonders anschaulich.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://d23.com/this-day/high-school-musical-2-premieres/",
+          "checked_on": "2026-10-08",
+          "supports": "2007 zweite TV-Folge, 2008 dritter Kinofilm: ein Jahr."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://d23.com/a-to-z/high-school-musical-3-senior-year-film/",
+          "checked_on": "2026-10-08",
+          "supports": "2007 zweite TV-Folge, 2008 dritter Kinofilm: ein Jahr."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-023-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-023-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Regie wird von einzelnen choreografischen Ideen der Besetzung unterschieden.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://d23.com/this-day/high-school-musical-2-premieres/",
+          "checked_on": "2026-10-08",
+          "supports": "Kenny Ortega inszenierte auch die zweite Folge."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_2",
+          "checked_on": "2026-10-08",
+          "supports": "Kenny Ortega inszenierte auch die zweite Folge."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-024-L1",
+      "knowledge_id": "K-G100-20261008-MUSIK-024-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der zentrale Zukunftskonflikt erschließt den dritten Film leicht.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Stanford-Programm führt Gabriella vorzeitig fort."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-024-L2",
+      "knowledge_id": "K-G100-20261008-MUSIK-024-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Ausgangsbeziehung erschließt eine neue Figur der Fortsetzung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year",
+          "checked_on": "2026-10-08",
+          "supports": "Tiara beginnt als Sharpays Assistentin."
+        },
+        {
+          "key": "archiv",
+          "url": "https://d23.com/a-to-z/high-school-musical-3-senior-year-film/",
+          "checked_on": "2026-10-08",
+          "supports": "Tiara beginnt als Sharpays Assistentin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-024-M1",
+      "knowledge_id": "K-G100-20261008-MUSIK-024-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die abschließende Entscheidung erklärt die Lösung seines inneren Zukunftskonflikts.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year",
+          "checked_on": "2026-10-08",
+          "supports": "Troy entscheidet sich in Berkeley für Basketball und Theater."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-024-M2",
+      "knowledge_id": "K-G100-20261008-MUSIK-024-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Entscheidung erklärt, wie die gemeinsame Abschlussaufführung zustande kommt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year",
+          "checked_on": "2026-10-08",
+          "supports": "Kelsi meldet die ganze Klasse zum Musical an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-024-S1",
+      "knowledge_id": "K-G100-20261008-MUSIK-024-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die geänderte Erwartung macht die Auszeichnung erzählerisch bedeutsam.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year",
+          "checked_on": "2026-10-08",
+          "supports": "Kelsi und Ryan erhalten beide die Juilliard-Stipendien."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-024-S2",
+      "knowledge_id": "K-G100-20261008-MUSIK-024-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Enthüllung erklärt den Bruch der zunächst unterstützenden Beziehung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year",
+          "checked_on": "2026-10-08",
+          "supports": "Tiara will den Theaterbereich nach Sharpay übernehmen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-024-Y",
+      "knowledge_id": "K-G100-20261008-MUSIK-024-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Beginn und das Ende der ursprünglichen Trilogie bilden den Jahresanker.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://movies.disney.com/high-school-musical-3-senior-year",
+          "checked_on": "2026-10-08",
+          "supports": "2006 erster TV-Film, 2008 dritter Kinofilm: zwei Jahre."
+        },
+        {
+          "key": "archiv",
+          "url": "https://d23.com/a-to-z/high-school-musical-3-senior-year-film/",
+          "checked_on": "2026-10-08",
+          "supports": "2006 erster TV-Film, 2008 dritter Kinofilm: zwei Jahre."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://movies.disney.com/high-school-musical",
+          "checked_on": "2026-10-08",
+          "supports": "2006 erster TV-Film, 2008 dritter Kinofilm: zwei Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-MUSIK-024-D",
+      "knowledge_id": "K-G100-20261008-MUSIK-024-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Regiefrage ordnet den Kinofilm gegenüber den früheren TV-Teilen ein.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://movies.disney.com/high-school-musical-3-senior-year",
+          "checked_on": "2026-10-08",
+          "supports": "Kenny Ortega führte auch beim Kinofilm Regie."
+        },
+        {
+          "key": "archiv",
+          "url": "https://d23.com/a-to-z/high-school-musical-3-senior-year-film/",
+          "checked_on": "2026-10-08",
+          "supports": "Kenny Ortega führte auch beim Kinofilm Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_School_Musical_3:_Senior_Year",
+          "checked_on": "2026-10-08",
+          "supports": "Kenny Ortega führte auch beim Kinofilm Regie."
+        }
+      ]
+    }
+  ]
+}

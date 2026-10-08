@@ -1,0 +1,208 @@
+{
+  "rank": 20,
+  "directors": [
+    "Kenny Ortega"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "2009; Sonys Septemberankündigung nennt die Los-Angeles-Gala und frühe öffentliche Vorführungen am 27. Oktober, regulären Start am 28. Oktober. Die Quellen variieren die Monatsgrenzen des Probenzeitraums; dazu kein Wissensziel. Dokumentiert sind Proben für ausgefallene Konzerte.",
+  "familiarity_reason": "Weit verbreiteter Dokumentarfilm über einen weltweit bekannten Musiker; redaktionell Bekanntheit 2, unabhängig von den Aufführungsdetails.",
+  "director_note": "Kenny Ortega ist laut Sony sowohl Regisseur der geplanten Bühnenshow als auch des Films. Konzert- und Filmregie sind getrennte Aufgaben derselben Person.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It",
+    "studio": "https://www.sonypictures.com/movies/michaeljacksonsthisisit",
+    "premiere": "https://www.sonypictures.com/corp/press_releases/2009/09_09/09212009_Michael_Jackson_This_Is_It.html",
+    "vergleich": "https://d23.com/a-to-z/high-school-musical-3-senior-year-film/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufnahmen bilden den Kern von @?",
+      "answers": [
+        "Proben für geplante Konzerte",
+        "Mitschnitte der vollständig aufgeführten Londoner Shows",
+        "Aufnahmen einer bereits beendeten Welttournee",
+        "Frühe Auftritte aus Jacksons Kindheit"
+      ],
+      "feedback": [
+        "Sony beschreibt die Vorbereitung der geplanten Shows.",
+        "Die Londoner Konzertserie fand nicht statt.",
+        "Der Film bilanziert keine bereits abgeschlossene Welttournee.",
+        "Kindheitsauftritte bilden nicht seinen Kern."
+      ],
+      "short": "Der Film zeigt Proben für die geplanten Shows.",
+      "context": "Michael Jackson wird bei der Vorbereitung einer geplanten Konzertserie gezeigt. Die Aufnahmen dokumentieren Proben und die gemeinsame Arbeit mit Tänzern, Musikern und dem Bühnenteam. Nach seinem Tod fanden die vorgesehenen Shows nicht statt. Der Film ermöglicht deshalb einen Blick auf die Entwicklung einer Aufführung, die das Publikum nie in ihrer geplanten Form erleben konnte; er ist kein Mitschnitt eines vollendeten Londoner Konzerts.",
+      "anchor": "Proben zeigen die geplante Show vor ihrer ausgefallenen Aufführung.",
+      "interest": "Der zentrale Dokumentarfilmcharakter muss von einer Konzertaufzeichnung unterschieden werden.",
+      "sources": [
+        "studio",
+        "premiere"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Für welchen Londoner Veranstaltungsort wurden die in @ gezeigten Shows vorbereitet?",
+      "answers": [
+        "Die O2 Arena",
+        "Das Wembley Stadium",
+        "Die Royal Albert Hall",
+        "Das Hyde-Park-Festivalgelände"
+      ],
+      "feedback": [
+        "Sony nennt die O2 Arena als geplanten Ort.",
+        "Wembley war nicht der Ort dieser Konzertserie.",
+        "Die Royal Albert Hall war nicht das vorgesehene Haus.",
+        "Eine Hyde-Park-Festivalbühne war nicht geplant."
+      ],
+      "short": "Die Konzertserie war für die Londoner O2 Arena geplant.",
+      "context": "Die geplante Konzertserie sollte in Londons O2 Arena stattfinden. Die für den Film verwendeten Proben wurden dagegen in Los Angeles aufgenommen. Diese Trennung erklärt, weshalb die Bilder kein Publikum der angekündigten Londoner Shows zeigen. Der Veranstaltungsort gehört zum ursprünglichen Bühnenplan, während der Dokumentarfilm die vorbereitende Arbeit festhält. Beide Orte erfüllen damit unterschiedliche Funktionen in der Geschichte des Projekts.",
+      "anchor": "Los Angeles liefert die Probenbilder, London war das geplante Ziel.",
+      "interest": "Das Aufführungsziel ist ein eigenständiger Zusammenhang neben der Art der Aufnahmen.",
+      "sources": [
+        "studio",
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welcher klassische Spielfilm wird in der Smooth-Criminal-Sequenz von @ verarbeitet?",
+      "answers": [
+        "Gilda",
+        "Casablanca",
+        "Double Indemnity",
+        "The Third Man"
+      ],
+      "feedback": [
+        "Die Sequenz verwendet Bilder aus Gilda.",
+        "Casablanca ist nicht der hier verarbeitete Film.",
+        "Double Indemnity liefert nicht diese Bilder.",
+        "The Third Man ist nicht der verwendete Film."
+      ],
+      "short": "Die Sequenz verbindet Jackson mit Material aus Gilda.",
+      "context": "Für die geplante Smooth-Criminal-Nummer entsteht eine filmische Gangsterwelt. In der Vorbereitung werden Michael Jacksons neu aufgenommene Bilder mit älterem Filmmaterial verbunden, darunter Gilda mit Rita Hayworth. Die Sequenz zeigt, dass die Bühnenshow auch mit dem Kino als Bildquelle arbeitet. Archivbilder und neu gedrehte Szenen bilden zusammen eine Einspielung, die Jacksons Auftritt in eine andere filmische Umgebung versetzt.",
+      "anchor": "Smooth Criminal verbindet die Bühnenshow mit Gildas Kinobildern.",
+      "interest": "Der konkrete Filmeinsatz erschließt eine gestalterische Verbindung der Show.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Veränderung erlebt das Mädchen im für Earth Song gezeigten Film von @?",
+      "answers": [
+        "Ihr Wald wird zerstört.",
+        "Ihr Dorf wird durch eine Flut überschwemmt.",
+        "Ihr Fluss wird durch Chemikalien vergiftet.",
+        "Ihr Strand wird durch einen Vulkanausbruch verschüttet."
+      ],
+      "feedback": [
+        "Das Mädchen erlebt die Verwüstung des Waldes.",
+        "Eine Flut zerstört nicht das Dorf dieser Sequenz.",
+        "Eine Flussvergiftung ist nicht die gezeigte Veränderung.",
+        "Ein Vulkanausbruch erklärt die Bilder nicht."
+      ],
+      "short": "Der Wald des Mädchens wird zerstört.",
+      "context": "Die für Earth Song vorbereitete Filmeinspielung zeigt ein Mädchen in einer zunächst lebendigen Waldlandschaft. Als sie erwacht, ist ihre Umgebung zerstört. Die Geschichte setzt den Umweltgedanken des Liedes in konkrete Bilder um. Im Dokumentarfilm wird dadurch sichtbar, wie eine Konzertnummer mit einer vorbereiteten Filmhandlung verbunden werden sollte. Die Waldzerstörung gehört zur Einspielung und ist keine Beobachtung am tatsächlichen Probenort.",
+      "anchor": "Die Waldzerstörung übersetzt Earth Songs Umweltmotiv in eine Filmhandlung.",
+      "interest": "Ein prägnantes Motiv wird von den übrigen Konzertnummern getrennt geprüft.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche Varianten von Human Nature zeigt @ in den Proben?",
+      "answers": [
+        "A cappella, mit Keyboard und mit voller Band",
+        "Mit Akustikgitarre, mit Percussion und mit voller Band",
+        "Mit Streichquartett, mit Klavier und mit Orchester",
+        "Mit Keyboard, als Duett und mit einem Chor"
+      ],
+      "feedback": [
+        "Die Probe zeigt Stimme allein, Keyboardbegleitung und Band.",
+        "Akustikgitarre und Percussion sind nicht die genannten Probenformen.",
+        "Ein Streichquartett und Orchester bilden nicht diese Folge.",
+        "Ein Duett mit Chor ist nicht die gezeigte Zusammenstellung."
+      ],
+      "short": "Human Nature erscheint in drei unterschiedlich begleiteten Probenfassungen.",
+      "context": "Bei Human Nature zeigt der Film Michael Jackson in unterschiedlichen musikalischen Probensituationen: ohne Begleitung, mit Keyboard und mit vollständiger Band. Die Ausschnitte machen die Arbeit an einer Nummer sichtbar, statt nur deren fertig aufgeführte Form zu präsentieren. Das Nebeneinander der Fassungen lässt erkennen, wie sich dieselbe Stimme in verschiedenen Klangumgebungen bewegt. Die Varianten gehören zur Montage der Proben, nicht zu drei Londoner Konzertabenden.",
+      "anchor": "Stimme allein → Keyboard → volle Band: eine Nummer in verschiedenen Probenformen.",
+      "interest": "Das musikalische Probendetail erklärt die besondere Beobachtungsperspektive des Films.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "In welcher Filmtechnik wird die Thriller-Einspielung in @ vorbereitet?",
+      "answers": [
+        "Als stereoskopischer 3D-Film",
+        "Als gezeichneter Trickfilm",
+        "Als Schwarzweiß-Stummfilm",
+        "Als Stop-Motion-Animationsfilm"
+      ],
+      "feedback": [
+        "Jackson und Ortega betrachten die Einspielung mit 3D-Brillen.",
+        "Eine Zeichentrickfassung ist nicht die gezeigte Vorbereitung.",
+        "Ein Schwarzweiß-Stummfilm erklärt die 3D-Brillen nicht.",
+        "Stop-Motion-Animation ist nicht das gesuchte Verfahren."
+      ],
+      "short": "Die Thriller-Einspielung wird für stereoskopische 3D-Wiedergabe vorbereitet.",
+      "context": "Die Thriller-Einspielung gehört zu den vorbereiteten Filmteilen der Show. Michael Jackson und Kenny Ortega betrachten das Material mit 3D-Brillen, bevor die Nummer in den Proben weiter ausgestaltet wird. Damit ergänzt die geplante Aufführung den Tanz durch stereoskopische Kinobilder. Der Dokumentarfilm zeigt die Entwicklung dieser Einspielung; er dokumentiert weder einen bereits gespielten Londoner Konzertabend noch eine neue vollständige Spielfilmfassung von Thriller.",
+      "anchor": "Die 3D-Brillen zeigen die stereoskopische Planung der Thriller-Einspielung.",
+      "interest": "Ein konkret belegtes Verfahren erklärt die Verbindung von Film und geplanter Bühne.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals öffentlich vorgeführt?",
+      "answers": [
+        "2009",
+        "2006",
+        "2012",
+        "2015"
+      ],
+      "feedback": [
+        "Sony dokumentiert die ersten Vorführungen 2009.",
+        "2006 liegt drei Jahre vor der Veröffentlichung.",
+        "2012 ist drei Jahre später.",
+        "2015 liegt sechs Jahre nach dem Filmstart."
+      ],
+      "short": "2008 High School Musical 3, 2009 This Is It: ein Jahr.",
+      "context": "This Is It wurde 2009 veröffentlicht. High School Musical 3: Senior Year erschien 2008, also ein Jahr zuvor. Kenny Ortega führte bei beiden Filmen Regie, doch die Aufgaben unterschieden sich: Hier montierte er Proben mit Michael Jackson, dort inszenierte er ein fiktionales Kinomusical. Der Werkvergleich verbindet zwei datierte Arbeiten desselben Regisseurs und ordnet den Dokumentarfilm zeitlich nach dessen früherem Musical ein.",
+      "anchor": "2008 Kinomusical, 2009 Jackson-Probenfilm: ein Jahr.",
+      "interest": "Zwei verwandte musikalische Regiearbeiten bilden einen konkreten Jahresanker.",
+      "sources": [
+        "premiere",
+        "vergleich"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Filmregie?",
+      "answers": [
+        "Kenny Ortega",
+        "Spike Lee",
+        "Jonathan Demme",
+        "Rob Marshall"
+      ],
+      "feedback": [
+        "Sony nennt Kenny Ortega ausdrücklich als Filmregisseur.",
+        "Spike Lee führte hier nicht Regie.",
+        "Jonathan Demme trägt diesen Filmcredit nicht.",
+        "Rob Marshall war nicht der Regisseur."
+      ],
+      "short": "Kenny Ortega verantwortet die Filmregie.",
+      "context": "Kenny Ortega arbeitete mit Michael Jackson an der geplanten Bühnenshow und übernahm anschließend auch die Filmregie. Sonys Septembermitteilung trennt beide Aufgaben ausdrücklich, obwohl sie dieselbe Person betreffen. Der Dokumentarfilm entstand aus dem vorhandenen Probenmaterial. Die Arbeit an einer Konzertinszenierung und die Gestaltung des späteren Films greifen deshalb ineinander, ergeben aber zwei unterschiedliche Formen, in denen die Zuschauer Jacksons Arbeit erleben könnten.",
+      "anchor": "Ortega gestaltet die geplante Bühne und den daraus entstandenen Film.",
+      "interest": "Der Hauptregiecredit wird anhand einer offiziellen Studiomitteilung geklärt.",
+      "sources": [
+        "premiere"
+      ]
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 // Independently reviewed catalog snapshot; update after a completed genre package.
 export const catalogCounts = {
-  questions: 11829,
-  goals: 11266,
-  packages: 28,
-  films: 1184,
-  filmQuestions: 9789,
-  familiarityEntries: 1289,
-  numericYearQuestions: 1189,
-  csvYearQuestions: 764,
+  questions: 12021,
+  goals: 11457,
+  packages: 29,
+  films: 1208,
+  filmQuestions: 9981,
+  familiarityEntries: 1312,
+  numericYearQuestions: 1213,
+  csvYearQuestions: 788,
   arthouseQuestions: 725,
   classicsQuestions: 1369,
 };

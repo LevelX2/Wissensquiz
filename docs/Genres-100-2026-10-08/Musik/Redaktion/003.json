@@ -1,0 +1,211 @@
+{
+  "rank": 3,
+  "directors": [
+    "Mark Sandrich"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Top Hat von 1935; AFI nennt die New Yorker Eröffnung in der Woche des 29. August und allgemeinen Start 6. September. Die deutschen Titelvarianten beziehen sich auf denselben Astaire-Rogers-Film.",
+  "director_note": "AFI nennt Mark Sandrich als Hauptregisseur. Hermes Pan wird unter Ensembles staged by geführt; Choreografie ist kein zweiter Hauptregiecredit.",
+  "series": null,
+  "familiarity_reason": "Zentraler Astaire-Rogers-Klassiker, dessen deutscher Titel deutlich weniger geläufig ist; Bekanntheit 3.",
+  "notes": "Die Regel eines möglichst ungeschnitten gefilmten Tanzes beschreibt ein Gestaltungsprinzip, nicht ausnahmslos jede Nummer. Der Cache nennt für die Titelnummer mehrere verbundene Aufnahmen. Keine absolute Ein-Einstellung-Behauptung.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Top_Hat",
+    "afi": "https://catalog.afi.com/Film/6707-TOPHAT",
+    "loc": "https://blogs.loc.gov/now-see-hear/2022/05/from-national-film-registry-the-friendship-of-irving-berlin-fred-astaire-and-top-hat/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was führt zu Dale Tremonts (Ginger Rogers) erster Begegnung mit Jerry Travers (Fred Astaire) in @?",
+      "answers": [
+        "Sein lautes Stepptanzen im Hotelzimmer über ihr",
+        "Sein versehentlicher Besuch in ihrem Hotelzimmer",
+        "Sein verlorener Koffer vor ihrer Zimmertür",
+        "Seine Beschwerde über ihre nächtlichen Gesangsübungen"
+      ],
+      "feedback": [
+        "Jerrys Stepptanzen stört ihren Schlaf; sie beschwert sich.",
+        "Ein falsches Zimmer führt nicht zur Begegnung.",
+        "Ein verlorener Koffer löst den Kontakt nicht aus.",
+        "Jerry beschwert sich nicht über ihre Gesangsübungen."
+      ],
+      "short": "Jerrys Stepptanzen stört ihren Schlaf; sie beschwert sich.",
+      "context": "Jerry Travers (Fred Astaire) übt in seinem Londoner Hotelzimmer einen Steppauftritt. Eine Etage tiefer kann Dale Tremont (Ginger Rogers) wegen des Lärms nicht schlafen und geht hinauf, um sich zu beschweren. Jerry verliebt sich sofort in sie. Der erste Kontakt entsteht somit aus einer Störung, nicht aus einer verabredeten Vorstellung. Seine Freude am Tanzen wird zunächst zum Ärgernis für die Person, die er anschließend umwerben möchte.",
+      "anchor": "Lautes Stepptanzen bringt die Nachbarin zur Beschwerde.",
+      "interest": "Erkennt den konkreten Anlass des ersten Kontakts.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Mit wem verwechselt Dale Tremont (Ginger Rogers) Jerry Travers (Fred Astaire) in @?",
+      "answers": [
+        "Mit dem Ehemann ihrer Freundin",
+        "Mit ihrem früheren Tanzlehrer",
+        "Mit dem Bruder ihres Arbeitgebers",
+        "Mit dem Verlobten ihrer Schwester"
+      ],
+      "feedback": [
+        "Sie hält Jerry für den Ehemann ihrer Freundin.",
+        "Ein früherer Tanzlehrer ist nicht die angenommene Identität.",
+        "Ein Arbeitgeberbruder steckt nicht hinter der Verwechslung.",
+        "Der Verlobte einer Schwester ist nicht ihr Irrtum."
+      ],
+      "short": "Sie hält Jerry für den Ehemann ihrer Freundin.",
+      "context": "Dale Tremont (Ginger Rogers) hält Jerry Travers (Fred Astaire) für Horace Hardwick (Edward Everett Horton), den Ehemann ihrer Freundin Madge (Helen Broderick). Deshalb wirken seine romantischen Annäherungen auf sie wie der Verrat eines verheirateten Mannes. Jerry versteht ihre Abwehr nicht, weil er von der falschen Zuordnung nichts weiß. Die Komik entsteht aus zwei unterschiedlichen Erklärungen derselben Begegnungen, nicht aus einer offen ausgesprochenen Meinungsverschiedenheit.",
+      "anchor": "Dale hält den Werbenden für den Mann ihrer Freundin.",
+      "interest": "Verankert den zentralen Irrtum ohne bloße Rollennamenprüfung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Arbeit führt Dale Tremont (Ginger Rogers) in @ für Alberto Beddini (Erik Rhodes) aus?",
+      "answers": [
+        "Sie präsentiert seine Modekreationen",
+        "Sie entwirft seine Modekollektionen",
+        "Sie kauft Stoffe für seine Kollektionen ein",
+        "Sie führt sein Pariser Modegeschäft"
+      ],
+      "feedback": [
+        "Dale führt Beddinis Kleider als Model vor.",
+        "Die Kollektionen entwirft Beddini; Dale präsentiert sie.",
+        "Der Stoffeinkauf ist nicht ihre Aufgabe.",
+        "Ein Modegeschäft leitet sie nicht für ihn."
+      ],
+      "short": "Dale führt Beddinis Kleider als Model vor.",
+      "context": "Dale Tremont (Ginger Rogers) arbeitet für den Modedesigner Alberto Beddini (Erik Rhodes), dessen Kleider sie präsentiert. Beddini ist zugleich ein Rivale um ihre Zuneigung. Ihre Verbindung besteht daher bereits vor der späteren überstürzten Hochzeit aus einem beruflichen Verhältnis. Der Film bewegt seine beiden Hauptfiguren in einer wohlhabenden Gesellschaft, lässt sie aber selbst als arbeitende Menschen auftreten: Er ist Bühnenkünstler, sie verdient ihr Geld mit Modepräsentationen.",
+      "anchor": "Dales Verbindung zu Beddini beginnt als Arbeit für einen Modedesigner.",
+      "interest": "Unterscheidet berufliche Bindung und spätere Heiratsentscheidung.",
+      "sources": [
+        "film",
+        "loc"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "In welche Stadt folgt Jerry Travers (Fred Astaire) Dale Tremont (Ginger Rogers) in @ nach seinem Londoner Erfolg?",
+      "answers": [
+        "Nach Venedig",
+        "Nach Paris",
+        "Nach Wien",
+        "Nach Rom"
+      ],
+      "feedback": [
+        "Jerry folgt Dale nach Venedig.",
+        "Paris ist nicht das Ziel dieser Reise.",
+        "Wien ist nicht der zweite zentrale Schauplatz.",
+        "Rom ist nicht die Stadt der anschließenden Verwicklungen."
+      ],
+      "short": "Jerry folgt Dale nach Venedig.",
+      "context": "Nach dem erfolgreichen Beginn seiner Londoner Show folgt Jerry Travers (Fred Astaire) Dale Tremont (Ginger Rogers) nach Venedig. Dort besucht sie Madge Hardwick (Helen Broderick), wodurch die Verwechslung mit deren Ehemann besonders verwickelt wird. Die Reise löst den Irrtum also nicht sofort auf. Hotelräume, gesellschaftliche Begegnungen und Gondeln verlagern den Konflikt in eine neue Umgebung, in der Jerry weiterhin wirbt, ohne Dales eigentlichen Verdacht zu kennen.",
+      "anchor": "Die Verwechslung setzt sich in Venedig fort.",
+      "interest": "Erkennt den konkreten Ortswechsel innerhalb der Handlung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum erweist sich Dales (Ginger Rogers) Hochzeit mit Beddini (Erik Rhodes) in @ als ungültig?",
+      "answers": [
+        "Der Diener Bates (Eric Blore) spielt nur einen Geistlichen",
+        "Beddini verwendet den Namen seines verstorbenen Bruders",
+        "Der Trauzeuge unterschreibt die Urkunde mit falschem Namen",
+        "Beddini ist bereits mit einer anderen Frau verheiratet"
+      ],
+      "feedback": [
+        "Bates ist als Geistlicher verkleidet und vollzieht keine gültige Trauung.",
+        "Ein falscher Name Beddinis ist nicht die Auflösung.",
+        "Eine falsche Trauzeugenunterschrift erklärt sie nicht.",
+        "Eine bestehende andere Ehe Beddinis ist nicht die Auflösung."
+      ],
+      "short": "Bates ist als Geistlicher verkleidet und vollzieht keine gültige Trauung.",
+      "context": "Dale Tremont (Ginger Rogers) stimmt aus Empörung über den vermeintlich verheirateten Jerry Travers (Fred Astaire) einer Hochzeit mit Alberto Beddini (Erik Rhodes) zu. Die Zeremonie leitet jedoch Bates (Eric Blore), ein Diener, der sich als Geistlicher verkleidet hat. Nachdem die Identitäten geklärt sind, erweist sich auch die Ehe als ungültig. Ein weiterer Rollenwechsel löst damit das Hindernis, das aus der ersten Verwechslung entstanden war.",
+      "anchor": "Die Trauung wird von einem verkleideten Diener vorgenommen.",
+      "interest": "Erkennt die genaue Auflösung des vermeintlichen Ehehindernisses.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was erschwerte laut AFI die Aufnahme von Ginger Rogers’ Tanz in „Cheek to Cheek“ für @?",
+      "answers": [
+        "Ihr Kleid verlor beim Tanzen zahlreiche Federn",
+        "Ihr Kleid verfärbte den weißen Boden bei jedem Schritt",
+        "Die Pailletten ihres Kleides blendeten den Kameramann",
+        "Der Saum ihres Kleides verdeckte Fred Astaires Schuhe"
+      ],
+      "feedback": [
+        "Die Federn lösten sich und störten die Aufnahme.",
+        "Eine Verfärbung des Bodens ist nicht das berichtete Problem.",
+        "Blendende Pailletten begründen diesen Zwischenfall nicht.",
+        "Verdeckte Schuhe sind nicht die im Bericht genannte Schwierigkeit."
+      ],
+      "short": "Die Federn lösten sich und störten die Aufnahme.",
+      "context": "Ginger Rogers trug für Cheek to Cheek ein mit Federn besetztes Kleid. Nach Fred Astaires vom AFI wiedergegebenem Bericht lösten sich beim Tanzen so viele Federn, dass die Aufnahme wiederholt unterbrochen wurde. Erst als der Verlust nachließ, konnte die Nummer gefilmt werden. Das Kostüm unterstützt die schwebende Wirkung des Tanzes, stellte die Arbeit aber zugleich vor ein sehr konkretes materielles Problem, das aus seiner Bewegung entstand.",
+      "anchor": "Das Federnkleid verliert bei der Bewegung Teile seines Schmucks.",
+      "interest": "Verbindet die Wirkung eines Kostüms mit seiner Produktionsschwierigkeit.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ als Top Hat mit Fred Astaire und Ginger Rogers erstmals veröffentlicht?",
+      "answers": [
+        "1935",
+        "1932",
+        "1937",
+        "1940"
+      ],
+      "feedback": [
+        "Top Hat erschien 1935.",
+        "1932 liegt vor dieser Veröffentlichung.",
+        "1937 ist nicht sein Erstjahr.",
+        "1940 ist nicht das Jahr dieses Films."
+      ],
+      "short": "Top Hat erschien 1935.",
+      "context": "Ich tanz mich in dein Herz hinein wurde als Top Hat 1935 veröffentlicht. 1990 nahm die Library of Congress den Film in das National Film Registry auf, 55 Jahre später. Die Bibliothek nennt den Zeitpunkt ausdrücklich als zweites Jahr des Registers. Der lange Abstand verbindet die ursprüngliche Unterhaltung mit ihrer späteren institutionellen Bewahrung. Eine solche Auswahl ist ein neues Ereignis in der Rezeptionsgeschichte, aber keine erste Veröffentlichung des Films.",
+      "anchor": "1935 Film, 1990 Registry-Auswahl: 55 Jahre Abstand.",
+      "interest": "Verbindet Erstjahr und spätere Bewahrung.",
+      "sources": [
+        "afi",
+        "film",
+        "loc"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ als Top Hat mit Fred Astaire und Ginger Rogers Hauptregie?",
+      "answers": [
+        "Mark Sandrich",
+        "George Stevens",
+        "George Cukor",
+        "Vincente Minnelli"
+      ],
+      "feedback": [
+        "Mark Sandrich inszenierte den Film.",
+        "Stevens trägt diesen Hauptregiecredit nicht.",
+        "Cukor führte hier nicht Hauptregie.",
+        "Minnelli ist nicht der Regisseur dieses Films."
+      ],
+      "short": "Mark Sandrich inszenierte den Film.",
+      "context": "Mark Sandrich führte Regie, während Irving Berlin die Lieder und Hermes Pan wesentliche Teile der Tanzgestaltung beitrugen. Das AFI führt diese Verantwortlichkeiten getrennt. Die Verfilmung verbindet eine Verwechslungskomödie mit Nummern, in denen Annäherung und Abwehr körperlich sichtbar werden. Die Zusammenarbeit erklärt, weshalb ein Musical mehrere prägende Gestalter hat, ohne dass alle denselben Regiecredit tragen. Hier bezeichnet die Hauptregie die Arbeit Sandrichs an der gesamten Produktion.",
+      "anchor": "Hauptregie Mark Sandrich; Lieder Irving Berlin.",
+      "interest": "Ordnet die musikalische Zusammenarbeit dem korrekten Hauptcredit zu.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ]
+}

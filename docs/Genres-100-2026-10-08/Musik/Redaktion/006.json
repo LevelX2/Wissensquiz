@@ -1,0 +1,209 @@
+{
+  "rank": 6,
+  "directors": [
+    "Lloyd Bacon"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "42nd Street, 1933. AFI nennt die New Yorker Premiere 9. März und allgemeinen Start 11. März. Hier ist der Film mit Ruby Keeler und Warner Baxter gemeint, nicht die Bühnenbearbeitung 1980.",
+  "director_note": "Lloyd Bacon ist bei AFI als Dir genannt. Busby Berkeley wird unter Dances & ensembles created & staged by geführt. Die Regie und Gestaltung der Musiknummern wird von der Hauptregie getrennt.",
+  "series": null,
+  "familiarity_reason": "Grundlegender Backstage-Musical-Klassiker, dessen konkrete Handlung weniger geläufig ist als sein Einfluss; Bekanntheit 3.",
+  "notes": "Mervyn LeRoy war zuerst vorgesehen, wurde wegen Krankheit ersetzt und wird nicht als gemeinsamer Hauptregisseur übernommen. Die Titeladresse wird nicht als Inhaltslösung abgefragt. Zur Verletzung nennt der Plotcache einen Bruch, die AFI-Synopsis dagegen eine starke Verstauchung. L2 verwendet den gemeinsamen eindeutigen Befund einer Knöchelverletzung statt eine widersprüchliche Diagnose abzufragen.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/42nd_Street_(film)",
+    "afi": "https://catalog.afi.com/Film/3955-42ND-STREET"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Als was beginnt Peggy Sawyer (Ruby Keeler) in @ ihre Arbeit an der neuen Show?",
+      "answers": [
+        "Als unerfahrenes Mitglied der Tanzgruppe",
+        "Als neu engagierte Ersatzhauptdarstellerin",
+        "Als erfahrene Solotänzerin",
+        "Als Tanztrainerin der Anfängerinnen"
+      ],
+      "feedback": [
+        "Peggy beginnt als neu aufgenommenes Mitglied der Tanzgruppe.",
+        "Als Ersatzhauptdarstellerin ist sie nicht von Beginn an engagiert.",
+        "Sie kommt nicht als erfahrene Solotänzerin zur Produktion.",
+        "Eine Trainerinnenposition erhält sie nicht."
+      ],
+      "short": "Peggy beginnt als neu aufgenommenes Mitglied der Tanzgruppe.",
+      "context": "Peggy Sawyer (Ruby Keeler) kommt als unerfahrene Bewerberin zur neuen Produktion. Andere Tänzerinnen helfen ihr, überhaupt in die Gruppe aufgenommen zu werden. Ihre spätere große Aufgabe ist deshalb kein von Beginn an feststehender Hauptrollenvertrag. Der Film zeigt zunächst Konkurrenz, Unsicherheit und alltägliche Probenarbeit. Der Aufstieg entsteht aus einer plötzlichen Gelegenheit innerhalb dieses Betriebs, für die sie unter enormem Zeitdruck vorbereitet werden muss.",
+      "anchor": "Peggy beginnt in der Tanzgruppe und wird erst später zur Hauptdarstellerin.",
+      "interest": "Verankert den Aufstieg in ihrer tatsächlichen Ausgangsposition.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Warum kann Dorothy Brock (Bebe Daniels) in @ die Premiere nicht als Hauptdarstellerin übernehmen?",
+      "answers": [
+        "Sie verletzt sich schwer am Knöchel",
+        "Sie verliert nach einer Erkältung ihre Stimme",
+        "Sie kündigt nach einem Streit mit dem Regisseur",
+        "Sie reist wegen einer Familienkrankheit ab"
+      ],
+      "feedback": [
+        "Die Knöchelverletzung verhindert ihren Auftritt.",
+        "Eine Erkältung ist nicht der entscheidende Ausfallgrund.",
+        "Eine Kündigung erklärt den Ausfall nicht.",
+        "Eine Familienkrankheit führt nicht zu ihrer Abreise."
+      ],
+      "short": "Die Knöchelverletzung verhindert ihren Auftritt.",
+      "context": "Dorothy Brock (Bebe Daniels) verletzt sich kurz vor der Premiere schwer am Knöchel. Die Produktion braucht deshalb dringend eine Ersatzdarstellerin. Der Ausfall droht die wochenlange Arbeit und die Finanzierung der Show zunichtezumachen. Er schafft zugleich die unerwartete Möglichkeit für Peggy Sawyer (Ruby Keeler), aus der Tanzgruppe herauszutreten. Der Wendepunkt beruht auf einem konkreten Unfall, nicht auf einer von Anfang an geplanten Weitergabe der Hauptrolle.",
+      "anchor": "Dorothys Knöchelverletzung erzwingt die plötzliche Ersatzbesetzung.",
+      "interest": "Erkennt den konkreten Auslöser der Premierenkrise.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum muss Julian Marsh (Warner Baxter) in @ trotz der ärztlichen Warnung eine weitere Show zum Erfolg führen?",
+      "answers": [
+        "Er braucht Geld für den Rückzug nach Börsenverlusten",
+        "Er muss Kredite für einen Theaterkauf zurückzahlen",
+        "Er muss eine medizinische Behandlung im Ausland finanzieren",
+        "Er will einen ausgeschiedenen Geldgeber auszahlen"
+      ],
+      "feedback": [
+        "Nach seinen Verlusten braucht er den Erfolg für einen finanziell gesicherten Rückzug.",
+        "Ein Theaterkauf erklärt den finanziellen Druck nicht.",
+        "Eine Behandlung im Ausland ist nicht sein Finanzierungsziel.",
+        "Ein ausgeschiedener Geldgeber begründet diese letzte Arbeit nicht."
+      ],
+      "short": "Nach seinen Verlusten braucht er den Erfolg für einen finanziell gesicherten Rückzug.",
+      "context": "Julian Marsh (Warner Baxter) ist ein erfolgreicher Regisseur, hat aber beim Börsenkrach sein Geld verloren. Zugleich warnt sein Arzt ihn vor der Belastung weiterer Arbeit. Eine letzte erfolgreiche Show soll ihm genug Geld für den Rückzug verschaffen. Deshalb erscheinen die Proben aus seiner Sicht nicht nur als künstlerische Aufgabe. Der finanzielle und körperliche Druck erklärt seine Härte, ohne die Belastung der anderen Mitwirkenden dadurch verschwinden zu lassen.",
+      "anchor": "Börsenverluste machen den letzten Erfolg zur Voraussetzung des Rückzugs.",
+      "interest": "Verbindet Arbeitsdruck und konkretes persönliches Motiv.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wer empfiehlt Julian Marsh (Warner Baxter) in @ Peggy Sawyer (Ruby Keeler) als Ersatzdarstellerin?",
+      "answers": [
+        "Ann Lowell (Ginger Rogers)",
+        "Lorraine Fleming (Una Merkel)",
+        "Billy Lawler (Dick Powell)",
+        "Pat Denning (George Brent)"
+      ],
+      "feedback": [
+        "Ann erklärt ihre eigene Grenze und empfiehlt Peggy.",
+        "Lorraine ist nicht die entscheidende Empfehlende in dieser Krise.",
+        "Billy macht diese Empfehlung nicht.",
+        "Pat schlägt Peggy nicht als Ersatz vor."
+      ],
+      "short": "Ann erklärt ihre eigene Grenze und empfiehlt Peggy.",
+      "context": "Der Geldgeber möchte zunächst Ann Lowell (Ginger Rogers) an die Stelle der verletzten Hauptdarstellerin setzen. Ann erklärt jedoch, dass sie die Show nicht tragen könne, und empfiehlt Peggy Sawyer (Ruby Keeler). Julian Marsh (Warner Baxter) nimmt den Vorschlag auf und beginnt ein intensives Training. Die Rettung der Produktion beruht somit auch auf einer ehrlichen Einschätzung der eigenen Fähigkeiten und einer kollegialen Weitergabe der unerwarteten Chance.",
+      "anchor": "Ann verzichtet auf die Aufgabe und empfiehlt Peggy.",
+      "interest": "Erkennt die entscheidende kollegiale Empfehlung vor dem Ersatzauftritt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was hört Julian Marsh (Warner Baxter) in @ nach der erfolgreichen Premiere von den hinausgehenden Zuschauern?",
+      "answers": [
+        "Dass die neue Darstellerin allein den Erfolg verdient habe",
+        "Dass der verletzte Star sofort wieder auftreten müsse",
+        "Dass der Geldgeber allein den Erfolg ermöglicht habe",
+        "Dass die neue Darstellerin am nächsten Abend ersetzt werden solle"
+      ],
+      "feedback": [
+        "Die Zuschauer loben Peggy und sprechen ihm den entscheidenden Anteil ab.",
+        "Eine sofortige Rückkehr Dorothys verlangen sie hier nicht.",
+        "Der Geldgeber erhält nicht dieses alleinige Lob.",
+        "Eine Ablösung Peggys wird nicht gefordert."
+      ],
+      "short": "Die Zuschauer loben Peggy und sprechen ihm den entscheidenden Anteil ab.",
+      "context": "Nach dem gelungenen Auftritt steht Julian Marsh (Warner Baxter) im Schatten außerhalb des Bühneneingangs. Er hört, wie Zuschauer Peggy Sawyer (Ruby Keeler) als Star feiern und ihm den Anteil am Erfolg absprechen. Die öffentliche Wahrnehmung unterscheidet sich dadurch von der zuvor gezeigten Probenarbeit. Das Ende verbindet den Triumph der neuen Darstellerin mit der Einsamkeit eines Mannes, dessen Belastung und Beitrag im Applaus kaum sichtbar werden.",
+      "anchor": "Das Publikum feiert den neuen Star und übersieht den Regisseur.",
+      "interest": "Erkennt die konkrete Gegenstimme zum triumphalen Ende.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Duo schrieb die Lieder von @?",
+      "answers": [
+        "Harry Warren und Al Dubin",
+        "Richard Rodgers und Lorenz Hart",
+        "Arthur Schwartz und Howard Dietz",
+        "Frederick Loewe und Alan Jay Lerner"
+      ],
+      "feedback": [
+        "Warren komponierte, Dubin schrieb die Texte.",
+        "Rodgers und Hart sind nicht dieses Liedteam.",
+        "Schwartz und Dietz tragen hier nicht den Liedcredit.",
+        "Loewe und Lerner schrieben diese Lieder nicht."
+      ],
+      "short": "Warren komponierte, Dubin schrieb die Texte.",
+      "context": "Harry Warren schrieb die Musik und Al Dubin die Texte der Lieder. Das AFI nennt unter anderem Shuffle Off to Buffalo, Young and Healthy und das Titellied. Zugleich führt es Busby Berkeley für die Gestaltung der Tänze und Ensembles. Die musikalische Wirkung beruht damit auf verschiedenen aufeinander bezogenen Arbeiten. Das Liedteam liefert nicht automatisch auch die Hauptregie oder die räumliche Anordnung der Tanzgruppe im Bild.",
+      "anchor": "Liedteam: Harry Warren und Al Dubin.",
+      "interest": "Macht einen präzisen musikalischen Teamcredit sichtbar.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ als 42nd Street mit Ruby Keeler erstmals veröffentlicht?",
+      "answers": [
+        "1933",
+        "1930",
+        "1935",
+        "1937"
+      ],
+      "feedback": [
+        "Der Film erschien 1933.",
+        "1930 ist nicht das Erstjahr.",
+        "1935 gehört nicht zur ursprünglichen Premiere.",
+        "1937 ist nicht das Filmjahr."
+      ],
+      "short": "Der Film erschien 1933.",
+      "context": "Die 42. Straße erschien 1933. 1980 wurde eine erfolgreiche Bühnenbearbeitung der Filmgeschichte am Broadway aufgeführt, 47 Jahre später. Das AFI nennt David Merrick als Produzenten und Gower Champion für die Choreografie dieser späteren Produktion. Der Abstand zeigt einen Weg vom Film zurück auf die Bühne. Dabei gehören die filmische Premiere und der spätere Theatererfolg zu verschiedenen Bearbeitungen, auch wenn sie denselben Titel und wesentliche Teile der Geschichte teilen.",
+      "anchor": "1933 Film, 1980 Bühnenbearbeitung: 47 Jahre Abstand.",
+      "interest": "Trennt Filmjahr und späteren Broadway-Erfolg.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Warner Baxter und Ruby Keeler Hauptregie?",
+      "answers": [
+        "Lloyd Bacon",
+        "Busby Berkeley",
+        "Mervyn LeRoy",
+        "William Keighley"
+      ],
+      "feedback": [
+        "Lloyd Bacon ist der Hauptregisseur.",
+        "Berkeley gestaltete die Tanznummern und trägt nicht den Hauptregiecredit.",
+        "LeRoy wurde krankheitsbedingt vor der Inszenierung ersetzt.",
+        "Keighley ist nicht der Hauptregisseur dieses Films."
+      ],
+      "short": "Lloyd Bacon ist der Hauptregisseur.",
+      "context": "Lloyd Bacon führte Regie, nachdem der zunächst vorgesehene Mervyn LeRoy wegen Krankheit ausfiel. Das AFI nennt Busby Berkeley getrennt für die Tänze und Ensembles. Gerade bei einem Musical kann die Regie einzelner musikalischer Darbietungen besonders bekannt werden, während die übrige Handlung von einem anderen Filmemacher inszeniert wird. Die Frage bezieht sich deshalb präzise auf den Hauptregiecredit des fertigen Films und nicht auf seine früheren Produktionspläne.",
+      "anchor": "Hauptregie Lloyd Bacon; Tanzgestaltung Busby Berkeley.",
+      "interest": "Klärt die Grenze zwischen Hauptregie und Nummerngestaltung.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ]
+}

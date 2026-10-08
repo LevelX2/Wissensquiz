@@ -1,0 +1,209 @@
+{
+  "rank": 8,
+  "directors": [
+    "Vincente Minnelli"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Gigi, 1958, mit Leslie Caron und Louis Jourdan. AFI nennt New Yorker Eröffnung 15. Mai und Los Angeles 10. Juli, breiten Start im Dezember. Gemeint ist das amerikanische Musical, nicht die frühere französische Verfilmung; Aufnahmen in Paris machen Frankreich nicht automatisch zum Produktionsland.",
+  "director_note": "AFI weist Vincente Minnelli als Hauptregisseur aus. Alan Jay Lerner schrieb das Drehbuch, Frederick Loewe die Musik und André Previn betreute die musikalische Umsetzung. AFI weist Charles Walters gesondert für Regie und Inszenierung der Nummer The Night They Invented Champagne aus; dieser begrenzte Nummerncredit ist keine gemeinsame Hauptregie.",
+  "series": null,
+  "familiarity_reason": "Kanonischer MGM-Musicalfilm, dessen Handlung abseits des Genreinteresses weniger bekannt ist; Bekanntheit 3.",
+  "notes": "AFI nennt Colettes Buch 1945, während der Cache die Novelle 1944 datiert. Der Buchjahr-Widerspruch wird nicht als Wissensziel genutzt. Die Gesangsstimme von Leslie Caron wird präzise Betty Wand zugeordnet; Schauspielerin und Gesangsdoppel werden unterschieden.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+    "afi": "https://catalog.afi.com/Film/52564-GIGI",
+    "afi_folge": "https://catalog.afi.com/Film/22921-MY-FAIRLADY"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Auf welche gesellschaftliche Rolle soll Großtante Alicia (Isabel Jeans) Gigi (Leslie Caron) in @ vorbereiten?",
+      "answers": [
+        "Auf die einer von reichen Männern unterhaltenen Kurtisane",
+        "Auf die einer standesgemäßen Ehefrau eines Adeligen",
+        "Auf die einer Gesellschafterin einer älteren Aristokratin",
+        "Auf die einer Erbin eines Pariser Modehauses"
+      ],
+      "feedback": [
+        "Die Ausbildung soll sie zur Kurtisane machen.",
+        "Eine Heirat mit einem Adeligen ist nicht das vorgesehene Ziel.",
+        "Eine Anstellung bei einer Aristokratin ist nicht geplant.",
+        "Ein Modehaus soll sie nicht erben."
+      ],
+      "short": "Die Ausbildung soll sie zur Kurtisane machen.",
+      "context": "Großtante Alicia (Isabel Jeans) soll Gigi (Leslie Caron) nach der Familientradition auf ein Leben als Kurtisane vorbereiten. Umgangsformen, Auftreten und Geschmack gehören zu dieser Ausbildung. Gigi empfindet das Verhältnis zwischen einem reichen Mann und seiner zeitweiligen Geliebten jedoch nicht als selbstverständliches Glück. Die erworbenen Fähigkeiten haben deshalb einen sehr bestimmten gesellschaftlichen Zweck. Ihr späterer Konflikt entsteht gerade daraus, dass sie die vorgesehene Beziehung nicht einfach akzeptiert.",
+      "anchor": "Die gesellschaftliche Ausbildung dient der vorgesehenen Kurtisanenrolle.",
+      "interest": "Erkennt das konkrete Ziel hinter der scheinbaren Etiketteschulung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wie ist Honoré Lachaille (Maurice Chevalier) in @ mit Gaston Lachaille (Louis Jourdan) verwandt?",
+      "answers": [
+        "Er ist dessen Onkel",
+        "Er ist dessen Vater",
+        "Er ist dessen Großonkel",
+        "Er ist dessen Großvater"
+      ],
+      "feedback": [
+        "Honoré ist Gastons Onkel.",
+        "Er ist nicht Gastons Vater.",
+        "Er ist nicht Gastons Großonkel.",
+        "Honoré ist nicht Gastons Großvater."
+      ],
+      "short": "Honoré ist Gastons Onkel.",
+      "context": "Honoré Lachaille (Maurice Chevalier) ist der Onkel von Gaston Lachaille (Louis Jourdan). Er beobachtet dessen Liebesleben und vertritt einen genussorientierten Blick auf die gesellschaftlichen Beziehungen. Gaston kann sich zunächst an diesem Vorbild orientieren, findet aber immer weniger Befriedigung in den erwarteten Vergnügungen. Die Verwandtschaft erklärt die Nähe der beiden Männer. Sie zwingt den Jüngeren dennoch nicht dazu, auch jede Einschätzung und Lebensentscheidung des Älteren zu übernehmen.",
+      "anchor": "Honoré begleitet das Liebesleben seines Neffen.",
+      "interest": "Verankert die konkrete familiäre Beziehung ohne Rollennamenabfrage.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was gewinnt Gigi (Leslie Caron) in @ durch ihre Kartenwette mit Gaston (Louis Jourdan)?",
+      "answers": [
+        "Ein Wochenende am Meer mit ihrer Großmutter",
+        "Einen Besuch der Pariser Oper mit ihrer Großtante",
+        "Ein neues Kleid vom Schneider ihrer Großmutter",
+        "Eine Einladung zu einem Gesellschaftsball mit Gaston"
+      ],
+      "feedback": [
+        "Gaston muss sie und ihre Großmutter ans Meer mitnehmen.",
+        "Ein Opernbesuch ist nicht der Wetteinsatz.",
+        "Ein neues Kleid bildet nicht den Gewinn.",
+        "Ein Gesellschaftsball ist nicht das Ergebnis der Wette."
+      ],
+      "short": "Gaston muss sie und ihre Großmutter ans Meer mitnehmen.",
+      "context": "Gigi (Leslie Caron) wettet beim Kartenspiel mit Gaston Lachaille (Louis Jourdan), dass er bei einer Niederlage sie und ihre Großmutter Madame Alvarez (Hermione Gingold) ans Meer mitnehmen muss. Er verliert, und die Gruppe fährt nach Trouville. Der Ausflug ermöglicht eine unbeschwerte Nähe außerhalb der Pariser Gesellschaft. Die familiäre Begleitung unterscheidet ihn zugleich von den später verhandelten Erwartungen an eine öffentliche Beziehung zwischen Gaston und Gigi.",
+      "anchor": "Die Kartenwette führt zu einem gemeinsamen Ausflug nach Trouville.",
+      "interest": "Erkennt die konkrete Folge eines persönlichen Spiels.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum lehnt Gigi (Leslie Caron) Gastons (Louis Jourdan) großzügiges Arrangement in @ zunächst ab?",
+      "answers": [
+        "Sie fürchtet, später verlassen und an einen anderen Mann weitergereicht zu werden",
+        "Sie fürchtet, Paris endgültig verlassen zu müssen",
+        "Sie fürchtet, ihre Ausbildung bei ihrer Großtante fortsetzen zu müssen",
+        "Sie fürchtet, wegen seiner Spielschulden für ihn arbeiten zu müssen"
+      ],
+      "feedback": [
+        "Gigi sieht die spätere Austauschbarkeit einer Geliebten voraus.",
+        "Ein endgültiger Fortzug aus Paris ist nicht ihre Begründung.",
+        "Die weitere Ausbildung ist nicht der zentrale Ablehnungsgrund.",
+        "Spielschulden begründen ihre Furcht nicht."
+      ],
+      "short": "Gigi sieht die spätere Austauschbarkeit einer Geliebten voraus.",
+      "context": "Gaston Lachaille (Louis Jourdan) bietet eine großzügige finanzielle Vereinbarung an, damit Gigi (Leslie Caron) seine Geliebte wird. Sie weist sie zunächst zurück, weil sie die Aussicht ablehnt, später verlassen zu werden und einen anderen reichen Mann suchen zu müssen. Ihr Einwand richtet sich gegen die zeitweilige, austauschbare Stellung. Das Versprechen von Wohlstand beantwortet deshalb nicht ihre Vorstellung einer Beziehung, die auch persönliche Verlässlichkeit und gegenseitige Anerkennung einschließt.",
+      "anchor": "Gigi lehnt die erwartete spätere Austauschbarkeit ab.",
+      "interest": "Erkennt den konkreten Einwand gegen das materielle Angebot.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welches Schmuckstück überreicht Gaston (Louis Jourdan) Gigi (Leslie Caron) beim Besuch im Maxim’s in @?",
+      "answers": [
+        "Ein Smaragdarmband",
+        "Eine Perlenkette",
+        "Einen Diamantring",
+        "Eine Rubinbrosche"
+      ],
+      "feedback": [
+        "Gaston schenkt ihr ein Smaragdarmband.",
+        "Eine Perlenkette ist nicht dieses Geschenk.",
+        "Ein Diamantring wird hier nicht überreicht.",
+        "Eine Rubinbrosche ist nicht das betreffende Schmuckstück."
+      ],
+      "short": "Gaston schenkt ihr ein Smaragdarmband.",
+      "context": "Im Maxim’s schenkt Gaston Lachaille (Louis Jourdan) Gigi (Leslie Caron) ein kostbares Smaragdarmband. Sie führt die eingeübte gesellschaftliche Rolle vor, doch gerade dieses gelungene Auftreten macht ihn zunehmend unbehaglich. Der Schmuck gehört zu der materiell abgesicherten Beziehung, die zuvor vereinbart wurde. Die Szene zeigt deshalb nicht einfach einen glücklichen Abend: Das wertvolle Geschenk kann seine Unzufriedenheit mit der entstandenen Form ihrer Verbindung nicht beseitigen.",
+      "anchor": "Das Smaragdarmband gehört zur kostbaren Ausstattung der vereinbarten Beziehung.",
+      "interest": "Verbindet ein konkretes Geschenk mit der Krise des Restaurantbesuchs.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wer ist laut AFI das Gesangsdoppel für Leslie Caron in @?",
+      "answers": [
+        "Betty Wand",
+        "Marni Nixon",
+        "India Adams",
+        "Denny Markas"
+      ],
+      "feedback": [
+        "Betty Wand ist als Gesangsdoppel für Leslie Caron genannt.",
+        "Marni Nixon ist nicht dieses Gesangsdoppel.",
+        "India Adams übernimmt diese Stimme nicht.",
+        "Denny Markas ist nicht Carons Gesangsdoppel."
+      ],
+      "short": "Betty Wand ist als Gesangsdoppel für Leslie Caron genannt.",
+      "context": "Leslie Caron spielt die Titelfigur, während Betty Wand ihre Gesangsstimme übernimmt. Das AFI führt Wand ausdrücklich als Singing voice double for Leslie Caron. Schauspiel und Gesangsaufnahme bilden damit eine gemeinsame filmische Darstellung, obwohl sie von unterschiedlichen Personen ausgeführt werden. Die sichtbare Leistung der Darstellerin bleibt von der musikalischen Arbeit der Sängerin zu unterscheiden. Die Frage nennt deshalb den konkreten Credit und setzt beide Beteiligungen nicht miteinander gleich.",
+      "anchor": "Leslie Caron spielt, Betty Wand liefert die Gesangsstimme.",
+      "interest": "Macht eine präzise musikalische Mitwirkung sichtbar.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Leslie Caron und Louis Jourdan erstmals veröffentlicht?",
+      "answers": [
+        "1958",
+        "1955",
+        "1960",
+        "1962"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1958.",
+        "1955 ist nicht das Filmjahr.",
+        "1960 gehört nicht zur ursprünglichen Premiere.",
+        "1962 ist nicht das Erstjahr dieser Produktion."
+      ],
+      "short": "Die erste Veröffentlichung erfolgte 1958.",
+      "context": "Gigi erschien 1958. Sechs Jahre später, 1964, kam My Fair Lady als Film heraus. Beide Produktionen verbinden Alan Jay Lerners Texte mit Frederick Loewes Musik; die jeweiligen AFI-Einträge belegen die Liedteams und Jahre. Der zeitliche Bezug stellt somit eine konkrete Verbindung zwischen zwei verschiedenen Verfilmungen her. Die gemeinsame musikalische Zusammenarbeit macht sie dennoch nicht zu Teilen derselben Handlung oder zu unterschiedlichen Fassungen eines einzigen Films.",
+      "anchor": "1958 Gigi, 1964 My Fair Lady: sechs Jahre Abstand.",
+      "interest": "Verbindet zwei eigenständige Filme über ihr belegtes Liedteam.",
+      "sources": [
+        "afi",
+        "afi_folge",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Leslie Caron, Louis Jourdan und Maurice Chevalier Hauptregie?",
+      "answers": [
+        "Vincente Minnelli",
+        "George Cukor",
+        "Richard Thorpe",
+        "Stanley Donen"
+      ],
+      "feedback": [
+        "Vincente Minnelli inszenierte das Musical.",
+        "Cukor trägt diesen Hauptregiecredit nicht.",
+        "Thorpe trägt diesen Hauptregiecredit nicht.",
+        "Donen ist nicht der Regisseur dieser Produktion."
+      ],
+      "short": "Vincente Minnelli inszenierte das Musical.",
+      "context": "Vincente Minnelli führte bei dem Musical Hauptregie. Alan Jay Lerner schrieb das Drehbuch, und Cecil Beaton gestaltete Kostüme, Ausstattung und Produktionsdesign. Das AFI unterscheidet die Verantwortlichkeiten und dokumentiert die Aufnahmen in Pariser Schauplätzen. Die Geschichte verbindet private Gespräche mit öffentlichen Gesellschaftsauftritten. Ihre Wirkung entsteht damit aus Spiel, Raum, Kleidung und Musik zusammen, während der Hauptregiecredit weiterhin präzise Minnellis Arbeit an der gesamten Filmproduktion bezeichnet.",
+      "anchor": "Hauptregie Vincente Minnelli; Gestaltung Cecil Beaton.",
+      "interest": "Ordnet die Inszenierung und die getrennten gestalterischen Aufgaben ein.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ]
+}

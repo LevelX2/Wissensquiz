@@ -1,0 +1,207 @@
+{
+  "rank": 5,
+  "directors": [
+    "Vincente Minnelli"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Originalfilm mit Judy Garland und Margaret O’Brien, 1944. AFI: Weltpremiere St. Louis 22. November, New Yorker Eröffnung 28. November. Das Jahr der dargestellten Weltausstellung 1904 ist kein Filmjahr.",
+  "director_note": "AFI führt Vincente Minnelli als Hauptregisseur und Arthur Freed als Produzent. George Cukor war nach den ausgewerteten Quellen zuerst vorgesehen, ist aber kein gemeinsamer Hauptregisseur der fertigen Produktion.",
+  "series": null,
+  "familiarity_reason": "Etablierter MGM-Klassiker mit berühmten Liedern, dessen vollständige Familienhandlung weniger bekannt ist; Bekanntheit 3.",
+  "notes": "Das vorhandene Wissensziel zum Lied Have Yourself a Merry Little Christmas wird nicht neu angelegt. Stattdessen fragt S1 nach der anschließenden Handlung. AFI nennt Magazinveröffentlichung 1941–1942 und Roman 1942; der Cache vereinfacht den Beginn der Magazinserie auf 1942. Der Jahresanker bezeichnet ausdrücklich den Roman.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis",
+    "afi": "https://catalog.afi.com/Film/24066-MEET-MEINSTLOUIS"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welche Stadt soll die Familie Smith in @ wegen der beruflichen Veränderung des Vaters ziehen?",
+      "answers": [
+        "New York",
+        "Chicago",
+        "Boston",
+        "Philadelphia"
+      ],
+      "feedback": [
+        "Der angekündigte Umzug führt nach New York.",
+        "Chicago ist nicht das neue Ziel.",
+        "Boston ist nicht der vorgesehene Wohnort.",
+        "Philadelphia ist nicht die angekündigte Stadt."
+      ],
+      "short": "Der angekündigte Umzug führt nach New York.",
+      "context": "Alonzo Smith (Leon Ames) kündigt seiner Familie an, dass er in das New Yorker Büro seiner Firma versetzt wird. Deshalb sollen alle St. Louis verlassen. Die Nachricht bedroht die Beziehungen, Freundschaften und Zukunftspläne der Kinder. Auch die bevorstehende Weltausstellung gerät außer Reichweite. Ein beruflicher Aufstieg des Vaters erscheint aus Sicht der übrigen Familie daher zunächst als Verlust ihres vertrauten Lebens, nicht als gemeinsame Verbesserung.",
+      "anchor": "Der Aufstieg des Vaters verlangt einen Umzug nach New York.",
+      "interest": "Erkennt das konkrete Ziel der bedrohten Ortsveränderung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wen beschuldigt Tootie (Margaret O’Brien) in @ nach dem Halloween-Zwischenfall zunächst fälschlich?",
+      "answers": [
+        "John Truett (Tom Drake)",
+        "Warren Sheffield (Robert Sully)",
+        "Lon Smith (Henry H. Daniels Jr.)",
+        "Mr. Neely (Chill Wills)"
+      ],
+      "feedback": [
+        "Tootie beschuldigt John, der die Kinder tatsächlich schützen wollte.",
+        "Warren ist nicht das Ziel ihrer Behauptung.",
+        "Lon wird von ihr nicht so beschuldigt.",
+        "Mr. Neely wird nicht als Angreifer bezeichnet."
+      ],
+      "short": "Tootie beschuldigt John, der die Kinder tatsächlich schützen wollte.",
+      "context": "Tootie (Margaret O’Brien) kommt an Halloween verletzt zurück und behauptet, John Truett (Tom Drake) habe ihr etwas angetan. Esther Smith (Judy Garland) stellt ihn daraufhin zur Rede. Später gestehen die Kinder, dass John sie nach einem gefährlichen Streich vor der Polizei schützen wollte. Die falsche Beschuldigung bringt dadurch nicht nur einen Nachbarn in Schwierigkeiten, sondern beschädigt zunächst auch die beginnende Beziehung zwischen ihm und Esther.",
+      "anchor": "Tootie beschuldigt ihren tatsächlichen Helfer John.",
+      "interest": "Erkennt die falsche Zuordnung eines wichtigen Zwischenfalls.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wer begleitet Esther Smith (Judy Garland) in @ zunächst zum Weihnachtsball, weil John Truett (Tom Drake) verhindert ist?",
+      "answers": [
+        "Ihr Großvater",
+        "Ihr Vater",
+        "Ihr Bruder",
+        "Ihr künftiger Schwager"
+      ],
+      "feedback": [
+        "Der Großvater übernimmt die Begleitung.",
+        "Der Vater ist nicht ihr Ersatzbegleiter.",
+        "Der Bruder nimmt diese Rolle nicht ein.",
+        "Der künftige Schwager begleitet sie nicht zunächst."
+      ],
+      "short": "Der Großvater übernimmt die Begleitung.",
+      "context": "John Truett (Tom Drake) kann Esther Smith (Judy Garland) zunächst nicht zum Weihnachtsball begleiten, weil er seinen Anzug zu spät beim Schneider abholen wollte. Ihr Großvater (Harry Davenport) bietet sich stattdessen an. Er hilft ihr später auch mit unangenehmen Tanzpartnern. Die familiäre Unterstützung macht den Abend möglich, bevor John doch noch erscheint. Der romantische Höhepunkt beginnt somit mit einem Hindernis, das ein anderes Familienmitglied praktisch überbrückt.",
+      "anchor": "Der Großvater überbrückt Johns verhinderten Ballbesuch.",
+      "interest": "Erkennt die konkrete Hilfe innerhalb der Familie.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum tauscht Esther Smith (Judy Garland) in @ ihre Tanzkarte mit Lucille Ballard (June Lockhart)?",
+      "answers": [
+        "Sie übernimmt die unfair verteilten Partner der freundlichen Rivalin",
+        "Sie möchte einen gemeinsamen Tanz mit ihrem Verehrer erzwingen",
+        "Sie will ihrer Schwester die beliebten Tanzpartner sichern",
+        "Sie möchte ihre Verlobung vor den Gästen verbergen"
+      ],
+      "feedback": [
+        "Esther nimmt die selbst vorbereitete Zumutung nun auf sich.",
+        "Einen Tanz mit ihrem Verehrer erzwingt sie durch den Kartenwechsel nicht.",
+        "Beliebte Tanzpartner für ihre Schwester zu sichern ist nicht der Grund.",
+        "Die spätere Verlobung ist nicht der Anlass des Kartenwechsels."
+      ],
+      "short": "Esther nimmt die selbst vorbereitete Zumutung nun auf sich.",
+      "context": "Esther Smith (Judy Garland) und Rose Smith (Lucille Bremer) haben Lucille Ballards (June Lockhart) Tanzkarte mit unangenehmen Partnern gefüllt. Sie halten die Besucherin für eine Rivalin. Lucille zeigt sich jedoch freundlich und schlägt selbst die passenden Paarverbindungen vor. Beschämt tauscht Esther die Karten und übernimmt die Folgen ihres eigenen Plans. Der Abend führt dadurch zu einer konkreten Korrektur einer unfairen Einschätzung, die auf einer voreiligen Erwartung beruhte.",
+      "anchor": "Esther übernimmt die Folgen des unfairen Plans gegen Lucille.",
+      "interest": "Erklärt den Kartenwechsel als konkrete Veränderung ihres Urteils.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was tut Tootie (Margaret O’Brien) in @ nach Esthers (Judy Garland) Weihnachtslied aus Verzweiflung über den geplanten Abschied?",
+      "answers": [
+        "Sie zerstört die Schneemänner im Garten",
+        "Sie versteckt die bereits gepackten Koffer",
+        "Sie wirft die Geschenke in den Kamin",
+        "Sie reißt die Girlanden vom Weihnachtsbaum"
+      ],
+      "feedback": [
+        "Tootie zerschlägt die Schneemänner, die zurückbleiben müssten.",
+        "Die Koffer versteckt sie in diesem Moment nicht.",
+        "Geschenke werden nicht in den Kamin geworfen.",
+        "Die Baumgirlanden sind nicht das Ziel ihres Ausbruchs."
+      ],
+      "short": "Tootie zerschlägt die Schneemänner, die zurückbleiben müssten.",
+      "context": "Nach dem Weihnachtslied läuft Tootie (Margaret O’Brien) in den Garten und zerstört die Schneemänner, die die Familie beim Umzug zurücklassen müsste. Esther Smith (Judy Garland) beruhigt sie und bringt sie ins Bett. Alonzo Smith (Leon Ames) beobachtet den Ausbruch und überdenkt seine Entscheidung. Die kindliche Handlung macht den Verlust sichtbar, der hinter den praktischen Umzugsplänen steht. Bald darauf kündigt der Vater an, dass die Familie bleiben wird.",
+      "anchor": "Die zerstörten Schneemänner machen den Abschiedsschmerz sichtbar.",
+      "interest": "Fragt nach der Handlung nach dem Lied statt dessen bereits vorhandenem Titelziel.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Figur in @ beruht laut AFI auf den Kindheitserfahrungen der Autorin Sally Benson?",
+      "answers": [
+        "Tootie (Margaret O’Brien)",
+        "Esther (Judy Garland)",
+        "Rose (Lucille Bremer)",
+        "Anna (Mary Astor)"
+      ],
+      "feedback": [
+        "Sally Benson wurde zur Grundlage der jüngsten Tochter Tootie.",
+        "Esther wurde durch Bensons ältere Schwester angeregt.",
+        "Rose ist nicht die genannte Entsprechung der Autorin.",
+        "Anna ist nicht Bensons eigene kindliche Entsprechung."
+      ],
+      "short": "Sally Benson wurde zur Grundlage der jüngsten Tochter Tootie.",
+      "context": "Das AFI beschreibt Sally Bensons Kindheit in St. Louis als Hintergrund ihrer Familiengeschichten. Die Figur Tootie (Margaret O’Brien) beruht demnach auf der Autorin selbst, während Esther Smith (Judy Garland) durch ihre ältere Schwester angeregt wurde. Die Filmgeschichte gewinnt ihre familiären Beobachtungen somit aus einem persönlichen Erinnerungsstoff. Die Zuordnung betrifft die Vorlage und ihre Bearbeitung, nicht eine Behauptung, dass jede dargestellte Episode unverändert historisch stattgefunden habe.",
+      "anchor": "Die Autorin bildet den biografischen Hintergrund der Figur Tootie.",
+      "interest": "Verbindet die Vorlage mit einer konkret benannten Figur.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Judy Garland und Margaret O’Brien erstmals veröffentlicht?",
+      "answers": [
+        "1944",
+        "1941",
+        "1946",
+        "1948"
+      ],
+      "feedback": [
+        "Die Weltpremiere fand 1944 statt.",
+        "1941 ist nicht das Filmjahr.",
+        "1946 gehört nicht zur Erstveröffentlichung.",
+        "1948 ist nicht das ursprüngliche Filmjahr."
+      ],
+      "short": "Die Weltpremiere fand 1944 statt.",
+      "context": "Meet Me in St. Louis erschien 1944. Sally Bensons gleichnamiger Roman wurde 1942 veröffentlicht, zwei Jahre früher, nachdem die Geschichten bereits im New Yorker erschienen waren. Das AFI unterscheidet Magazinserie und Buchfassung ausdrücklich. Der Zeitabstand verbindet den Film mit seiner konkreten literarischen Vorlage. Die Handlung selbst führt dagegen in die Jahre vor der Weltausstellung von 1904 zurück; diese erzählte Zeit ist nochmals von Buch- und Filmveröffentlichung zu trennen.",
+      "anchor": "1942 Roman, 1944 Film: zwei Jahre Abstand.",
+      "interest": "Trennt Vorlage, Filmjahr und erzählte Vergangenheit.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Judy Garland und Margaret O’Brien Hauptregie?",
+      "answers": [
+        "Vincente Minnelli",
+        "George Cukor",
+        "Charles Walters",
+        "Stanley Donen"
+      ],
+      "feedback": [
+        "Vincente Minnelli ist der Hauptregisseur.",
+        "Cukor wurde erwogen, inszenierte aber nicht den fertigen Film.",
+        "Walters trägt diesen Hauptregiecredit nicht.",
+        "Donen führte bei dieser Produktion nicht Hauptregie."
+      ],
+      "short": "Vincente Minnelli ist der Hauptregisseur.",
+      "context": "Vincente Minnelli inszenierte die Familiengeschichte für den Produzenten Arthur Freed. Das AFI beschreibt seine Beteiligung an der eigens aufgebauten Umgebung und nennt ihn als Hauptregisseur. Die Handlung verbindet verschiedene Jahreszeiten, familiäre Alltagskonflikte und musikalische Auftritte. Der drohende Ortswechsel hält diese Episoden zusammen. Eine zuvor erwogene Besetzung der Regieposition ist dabei von den tatsächlichen Credits zu unterscheiden: Sie begründet keinen zusätzlichen Hauptregisseur des fertiggestellten Films.",
+      "anchor": "Die tatsächliche Hauptregie liegt bei Vincente Minnelli.",
+      "interest": "Ordnet die fertige Produktion gegenüber früheren Planungen ein.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ]
+}

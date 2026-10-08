@@ -1,0 +1,211 @@
+{
+  "rank": 23,
+  "directors": [
+    "Kenny Ortega"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "2007; Disneys D23 bestätigt die erste TV-Ausstrahlung am 17. August 2007. Keine Kinoerstveröffentlichung unterstellen.",
+  "familiarity_reason": "Bekannte Disney-Fortsetzung mit denselben Hauptfiguren; redaktionell Bekanntheit 2, unabhängig von Sommerjob- und Produktionsdetails.",
+  "director_note": "Kenny Ortega führte Hauptregie und gestaltete die Choreografie. Peter Barsocchini verantwortet das Drehbuch.",
+  "series": {
+    "name": "High School Musical",
+    "position": 2,
+    "note": "Zweiter Fernsehfilm der ursprünglichen Trilogie; erster Wechsel vom Schuljahr zur Sommerferienhandlung."
+  },
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/High_School_Musical_2",
+    "studio": "https://d23.com/this-day/high-school-musical-2-premieres/",
+    "vergleich": "https://d23.com/a-to-z/high-school-musical-3-senior-year-film/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo arbeiten die Freunde in @ während der Sommerferien?",
+      "answers": [
+        "In einem Country Club",
+        "In einem Vergnügungspark",
+        "In einem städtischen Theater",
+        "In einem Ferienlager am Meer"
+      ],
+      "feedback": [
+        "Sie nehmen Jobs im Country Club Lava Springs an.",
+        "Ein Vergnügungspark ist nicht ihr gemeinsamer Arbeitsplatz.",
+        "Ein Stadttheater beschäftigt die Gruppe nicht.",
+        "Ein Ferienlager am Meer bildet nicht den Schauplatz."
+      ],
+      "short": "Die Sommerjobs liegen im Country Club Lava Springs.",
+      "context": "Die Freunde verbringen ihre Ferien als Beschäftigte im Country Club Lava Springs. Die Familie von Sharpay Evans (Ashley Tisdale) gehört dort zu den maßgeblichen Besitzern, sodass die aus der Schule bekannte Rivalität eine neue Umgebung erhält. Neben Freizeit und Musik treten nun Arbeitsregeln und berufliche Vorteile. Der Wechsel erklärt, weshalb die Gruppe diesmal auch außerhalb eines gemeinsamen Schulwettbewerbs zusammenhalten muss.",
+      "anchor": "Die vertraute Gruppe trifft im Country Club auf neue Arbeitsregeln.",
+      "interest": "Der gemeinsame Sommerarbeitsplatz erschließt die Fortsetzung leicht.",
+      "sources": [
+        "handlung",
+        "studio"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Arbeit übernimmt Gabriella Montez (Vanessa Hudgens) in @?",
+      "answers": [
+        "Rettungsschwimmerin",
+        "Golftrainerin",
+        "Rezeptionistin",
+        "Köchin"
+      ],
+      "feedback": [
+        "Gabriella arbeitet als Rettungsschwimmerin am Pool.",
+        "Sie unterrichtet nicht als Golftrainerin.",
+        "Die Rezeption ist nicht ihr Arbeitsplatz.",
+        "Sie wird nicht als Köchin eingesetzt."
+      ],
+      "short": "Gabriella arbeitet am Pool als Rettungsschwimmerin.",
+      "context": "Gabriella Montez (Vanessa Hudgens) erhält im Country Club eine Stelle als Rettungsschwimmerin. Damit liegt ihr Arbeitsplatz am Pool, während andere Freunde andere Aufgaben übernehmen. Sharpay Evans (Ashley Tisdale) wollte Troy Bolton (Zac Efron) ursprünglich möglichst für sich gewinnen und ist über Gabriellas Anwesenheit verärgert. Der konkrete Sommerjob verbindet daher die neue Umgebung mit dem fortgesetzten Beziehungskonflikt der Hauptfiguren.",
+      "anchor": "Gabriellas Pooljob bringt sie in Sharpays bevorzugte Ferienwelt.",
+      "interest": "Die eigene Aufgabe der zweiten Hauptfigur ergänzt den gemeinsamen Arbeitsplatz.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Unter welcher Bedingung nimmt Troy Bolton (Zac Efron) in @ den Sommerjob an?",
+      "answers": [
+        "Auch seine Freunde müssen angestellt werden.",
+        "Er muss ausschließlich in der Talentshow arbeiten dürfen.",
+        "Sein Vater muss eine Trainerstelle im Club erhalten.",
+        "Er muss regelmäßig für Basketballspiele freigestellt werden."
+      ],
+      "feedback": [
+        "Troy verlangt Arbeitsplätze auch für die anderen.",
+        "Eine Beschränkung auf Talentshowarbeit fordert er nicht.",
+        "Eine Trainerstelle für seinen Vater ist nicht die Bedingung.",
+        "Freistellungen für Basketballspiele sind nicht die geforderte gemeinsame Zusage."
+      ],
+      "short": "Troy macht die Einstellung seiner Freunde zur Bedingung.",
+      "context": "Sharpay Evans (Ashley Tisdale) veranlasst, dass Troy Bolton (Zac Efron) im Country Club eingestellt werden soll. Er akzeptiert jedoch nur, wenn auch Gabriella Montez (Vanessa Hudgens) und die übrigen Freunde Jobs erhalten. Diese Entscheidung sorgt zunächst für gemeinsamen Zusammenhalt. Später geraten besondere Vorteile für Troy genau damit in Konflikt: Die zunächst geteilte Sommerarbeit wird durch seine Bevorzugung zunehmend ungleich.",
+      "anchor": "Troy beginnt mit einer gemeinsamen Zusage und gerät später in Einzelvorteile.",
+      "interest": "Die Einstellungsvoraussetzung erklärt, weshalb die ganze Gruppe im Club landet.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie reagiert Ryan Evans (Lucas Grabeel) in @, nachdem seine Schwester Sharpay (Ashley Tisdale) ihn aus dem Auftritt ausschließt?",
+      "answers": [
+        "Er unterstützt die Wildcats bei ihrer Talentshow-Nummer.",
+        "Er bereitet eine eigene Solonummer ohne die Wildcats vor.",
+        "Er übernimmt stattdessen die Moderation der Talentshow.",
+        "Er entwickelt eine neue Nummer ausschließlich mit Sharpay."
+      ],
+      "feedback": [
+        "Ryan wendet sich der Gruppe und ihrer Nummer zu.",
+        "Seine neue Zusammenarbeit ist keine isolierte Solonummer.",
+        "Eine Moderation ist nicht seine Reaktion auf den Ausschluss.",
+        "Er bleibt musikalisch nicht ausschließlich an seine Schwester gebunden."
+      ],
+      "short": "Ryan hilft den Wildcats statt nur Sharpay zu begleiten.",
+      "context": "Ryan Evans (Lucas Grabeel) wird von seiner Schwester Sharpay Evans (Ashley Tisdale) aus dem geplanten Auftritt gedrängt. Gabriella Montez (Vanessa Hudgens) nimmt ihn in die gemeinsame Freizeit der Beschäftigten auf. Ryan unterstützt daraufhin die Wildcats und ihre Teilnahme an der Talentshow. Die Entscheidung gibt ihm eine selbstständigere Rolle: Seine musikalische Arbeit ist nicht mehr ausschließlich an die Wünsche seiner Schwester gebunden.",
+      "anchor": "Ryan findet eine eigene musikalische Zusammenarbeit mit den Wildcats.",
+      "interest": "Der Wechsel seiner Zugehörigkeit erklärt eine eigenständige Entwicklung der Fortsetzung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum ist Troy (Zac Efron) in @ nach der Rückkehr zu seinem alten Job zunächst vom Auftritt ausgeschlossen?",
+      "answers": [
+        "Die Talentshow ist für das junge Personal gesperrt.",
+        "Er hat den Anmeldetermin persönlich versäumt.",
+        "Sein Song verletzt eine vertragliche Exklusivregel.",
+        "Er hat eine Verletzung beim Basketball erlitten."
+      ],
+      "feedback": [
+        "Die von Sharpay erwirkte Personalsperre betrifft ihn nun wieder.",
+        "Eine persönliche Verspätung bei der Anmeldung ist nicht das Hindernis.",
+        "Eine Exklusivregel für den Song wird nicht genannt.",
+        "Eine Sportverletzung verhindert den Auftritt nicht."
+      ],
+      "short": "Nach seiner Rückkehr trifft Troy die Sperre für das junge Personal.",
+      "context": "Sharpay Evans (Ashley Tisdale) lässt das junge Personal von der Talentshow ausschließen. Troy Bolton (Zac Efron) verliert durch seine Rückkehr zum früheren Job die Sonderstellung, die ihn zuvor von dieser Regel getrennt hatte. Nun ist er ebenfalls gesperrt, bis Sharpay die Einschränkung aufhebt. Die Folge macht sichtbar, wie seine Entscheidung für die Freunde einen zuvor bequem umgangenen Nachteil wieder auf ihn selbst anwendet.",
+      "anchor": "Der Verzicht auf Sondervorteile bringt Troy zurück unter die Personalsperre.",
+      "interest": "Die konkrete Folge seines Arbeitsplatzwechsels ist ein eigenständiger schwieriger Zusammenhang.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche spontane Idee wurde laut Kaycee Stroh für Work This Out in @ übernommen?",
+      "answers": [
+        "Eine gemeinsam erprobte Steppstelle",
+        "Eine neu erfundene Hebefigur",
+        "Eine spontane Drehfolge mit Tabletts",
+        "Eine improvisierte Klatschfolge am Küchentisch"
+      ],
+      "feedback": [
+        "Stroh beschreibt spontanes Steppen mit Corbin Bleu.",
+        "Eine Hebefigur ist nicht ihre geschilderte Probenidee.",
+        "Eine Tablett-Drehfolge wird dort nicht als diese Idee genannt.",
+        "Eine Tisch-Klatschfolge ist nicht das berichtete Detail."
+      ],
+      "short": "Spontanes Steppen wurde Teil von Work This Out.",
+      "context": "Kaycee Stroh, die Martha Cox spielt, schildert auf Disneys D23-Seite eine spontane Idee während der Proben. Sie und Corbin Bleu, der Chad Danforth verkörpert, probierten eine Steppstelle aus. Kenny Ortega griff sie für Work This Out auf. Die Anekdote ist ausdrücklich ein Produktionszeugnis der beteiligten Darstellerin und zeigt, wie spielerisches Ausprobieren in eine geplante Musicalnummer eingehen konnte.",
+      "anchor": "Strohs und Bleus Probenidee gelangt in Ortegas Choreografie.",
+      "interest": "Die belegte Entstehung eines Bewegungsmotivs ergänzt die reine Filmhandlung.",
+      "sources": [
+        "studio"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals im Fernsehen veröffentlicht?",
+      "answers": [
+        "2007",
+        "2004",
+        "2008",
+        "2010"
+      ],
+      "feedback": [
+        "D23 bestätigt die TV-Premiere 2007.",
+        "2004 liegt drei Jahre vor dieser Fortsetzung.",
+        "2008 gehört zum dritten Kinofilm.",
+        "2010 liegt drei Jahre später."
+      ],
+      "short": "2007 zweite TV-Folge, 2008 dritter Kinofilm: ein Jahr.",
+      "context": "High School Musical 2 wurde 2007 erstmals im Fernsehen gezeigt. High School Musical 3: Senior Year kam 2008 ins Kino, also ein Jahr später. Die direkte Fortsetzung behält die Hauptfiguren und Kenny Ortega als Regisseur bei, wechselt aber die Form der ersten Veröffentlichung. Der Vergleich verbindet zwei konkrete Werke und ordnet den Sommerferienfilm vor dem späteren Abschlussjahr der Jugendlichen ein.",
+      "anchor": "2007 Sommerferien im TV → 2008 Abschlussjahr im Kino: ein Jahr.",
+      "interest": "Der Wechsel der Veröffentlichungsform macht den Jahresvergleich besonders anschaulich.",
+      "sources": [
+        "studio",
+        "vergleich"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "Kenny Ortega",
+        "Adam Shankman",
+        "Jeffrey Hornaday",
+        "Paul Hoen"
+      ],
+      "feedback": [
+        "D23 nennt Kenny Ortega als Regisseur.",
+        "Adam Shankman inszenierte diesen zweiten Film nicht.",
+        "Jeffrey Hornaday verantwortet hier keine Hauptregie.",
+        "Paul Hoen trägt diesen Regiecredit nicht."
+      ],
+      "short": "Kenny Ortega inszenierte auch die zweite Folge.",
+      "context": "Kenny Ortega führte auch beim zweiten High-School-Musical-Film Regie und gestaltete die Choreografie. Die vertrauten Hauptdarsteller kehren in ihre Rollen zurück, darunter Zac Efron als Troy Bolton und Vanessa Hudgens als Gabriella Montez. Disneys D23-Seite verbindet die offizielle Premiere mit Erinnerungen aus den Tanzproben. Der Hauptregiecredit umfasst die Inszenierung der Sommergeschichte; einzelne Bewegungsimpulse der Darsteller bleiben davon getrennte Beiträge.",
+      "anchor": "Ortega verbindet die Sommerhandlung mit den musikalischen Nummern.",
+      "interest": "Die Regie wird von einzelnen choreografischen Ideen der Besetzung unterschieden.",
+      "sources": [
+        "studio",
+        "handlung"
+      ]
+    }
+  ]
+}

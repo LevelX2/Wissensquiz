@@ -1,0 +1,211 @@
+{
+  "rank": 11,
+  "directors": [
+    "Barbra Streisand"
+  ],
+  "production_countries": [
+    "USA",
+    "Vereinigtes Königreich"
+  ],
+  "country_note": "Die Wikipedia-Infobox nennt nur USA. AFI und das BFI-Filmarchiv führen Großbritannien und USA; beide Länder werden übernommen. Drehorte in der damaligen Tschechoslowakei sind keine zusätzliche Produktionslandzuordnung.",
+  "release_note": "Das Erstjahr ist 1983. AFI verzeichnet den Kinostart in Los Angeles und New York am 18. November 1983 und berichtet außerdem von der Premierenveranstaltung am 16. November.",
+  "familiarity_reason": "Bekanntes Streisand-Musical und ihr Regiedebüt mit „Papa, Can You Hear Me?“.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Yentl_(film)",
+    "afi": "https://catalog.afi.com/Film/58166-YENTL",
+    "bfi": "https://www.bfi.org.uk/film/bf6b8387-312d-59a6-92ff-f89dcf832848/yentl",
+    "star": "https://catalog.afi.com/Film/55857-"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum verkleidet sich die Hauptfigur (Barbra Streisand) in @ als Mann?",
+      "answers": [
+        "Um an einer religiösen Schule studieren zu können",
+        "Um einer von ihrem Vater arrangierten Ehe zu entgehen",
+        "Um mit einem unbekannten Verlobten zu reisen",
+        "Um das Erbe ihres Bruders einzufordern"
+      ],
+      "feedback": [
+        "Die männliche Identität öffnet ihr den Zugang zum Studium.",
+        "Eine konkrete vom Vater arrangierte Ehe ist nicht der Anlass der Verkleidung.",
+        "Die Reise dient nicht einem unbekannten Verlobten.",
+        "Ein Erbstreit motiviert die Verkleidung nicht."
+      ],
+      "short": "Sie möchte studieren, obwohl Frauen der Zugang verwehrt wird.",
+      "context": "Yentl (Barbra Streisand) lernt schon bei ihrem Vater heimlich religiöse Texte. Nach seinem Tod sucht sie eine Möglichkeit, dieses Lernen fortzusetzen. Dafür nimmt sie eine männliche Identität an und wird an einer Jeschiwa aufgenommen. Ihre Verkleidung ist somit mit einem konkreten Bildungswunsch verbunden. Erst im Verlauf entstehen daraus die persönlichen Verwicklungen mit einem Studienfreund und dessen früherer Verlobten.",
+      "anchor": "Die Verkleidung öffnet eine sonst verschlossene Schule.",
+      "interest": "Der Bildungswunsch erklärt den zentralen Handlungsantrieb.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "spoiler": "hoch",
+      "question": "Wohin reist die Hauptfigur (Barbra Streisand) am Schluss von @?",
+      "answers": [
+        "In die Vereinigten Staaten",
+        "Nach Palästina",
+        "Nach Frankreich",
+        "Nach England"
+      ],
+      "feedback": [
+        "Sie verlässt Europa mit einem Schiff nach Amerika.",
+        "Palästina ist nicht ihr Reiseziel im Filmfinale.",
+        "Frankreich ist nicht das Ziel dieser Abreise.",
+        "England ist nicht das Ziel der Schlussfahrt."
+      ],
+      "short": "Sie reist in die Vereinigten Staaten.",
+      "context": "Yentl (Barbra Streisand) verlässt Europa auf einem Schiff in Richtung Vereinigte Staaten. Ihre Entscheidung eröffnet die Hoffnung auf ein Leben, in dem sie als Frau weiterlernen kann. Der Schluss löst die Liebesgeschichte nicht durch eine gemeinsame Ehe auf. Stattdessen wird die Reise zum Ausdruck ihres eigenen Zukunftsentwurfs; die bislang zur Freiheit benötigte Verkleidung soll ihr Leben nicht dauerhaft bestimmen.",
+      "anchor": "Das Schiff nach Amerika trägt den Wunsch nach einem eigenen Leben.",
+      "interest": "Das offene Ende zeigt die Konsequenz ihres Bildungswunsches.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wessen Namen verwendet die Hauptfigur (Barbra Streisand) in @ für ihre männliche Identität?",
+      "answers": [
+        "Den ihres verstorbenen Bruders",
+        "Den ihres verstorbenen Vaters",
+        "Den eines früheren Lehrers",
+        "Den eines unbekannten Mitstudenten"
+      ],
+      "feedback": [
+        "Anshel ist der Name ihres verstorbenen Bruders.",
+        "Ihr Vater heißt Reb Mendel.",
+        "Der angenommene Name stammt nicht von einem Lehrer.",
+        "Sie übernimmt nicht den Namen eines fremden Studenten."
+      ],
+      "short": "Sie nennt sich nach ihrem verstorbenen Bruder Anshel.",
+      "context": "Yentl (Barbra Streisand) nimmt den Namen ihres verstorbenen Bruders Anshel an. Als vermeintlicher junger Mann wird sie Studienpartnerin von Avigdor (Mandy Patinkin), der ihre tatsächliche Identität nicht kennt. Die Namenswahl verbindet den Neubeginn mit ihrer eigenen Familie. Zugleich erhält die Täuschung eine feste gesellschaftliche Form, weil die anderen Figuren Anshel als selbstverständlichen männlichen Teilnehmer ihres Alltags behandeln.",
+      "anchor": "Der Brudername Anshel wird zur neuen Identität.",
+      "interest": "Die Herkunft des Alias ist ein eigener Teil der Verkleidungsgeschichte.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum löst Hadass’ (Amy Irving) Familie in @ ihre Verlobung mit Avigdor (Mandy Patinkin)?",
+      "answers": [
+        "Sie erfährt vom Suizid seines Bruders",
+        "Sie entdeckt seine heimliche frühere Ehe",
+        "Sie erfährt von seinen hohen Spielschulden",
+        "Sie entdeckt seinen Wechsel der Religion"
+      ],
+      "feedback": [
+        "Die Familie fürchtet nach dem Suizid eine erbliche psychische Belastung.",
+        "Eine verschwiegene frühere Ehe ist nicht der Auslöser.",
+        "Spielschulden begründen diese Absage nicht.",
+        "Avigdor hat nicht aus diesem Grund den Glauben gewechselt."
+      ],
+      "short": "Die Familie reagiert auf den Suizid von Avigdors Bruder.",
+      "context": "Avigdor (Mandy Patinkin) hat die tatsächliche Todesursache seines Bruders verschwiegen. Als Hadass’ (Amy Irving) Familie davon erfährt, deutet sie den Suizid als Hinweis auf eine mögliche familiäre psychische Belastung und löst die Verlobung. Der Film zeigt hier die Befürchtungen der Figuren, keine medizinische Diagnose. Die Trennung schafft die Voraussetzung dafür, dass die Familie nun Anshel (Barbra Streisand) als passenden Ehepartner betrachtet.",
+      "anchor": "Das Familienvorurteil trennt ein verlobtes Paar.",
+      "interest": "Die konkrete Ursache erklärt die spätere Eheverwicklung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "spoiler": "hoch",
+      "question": "Weshalb lehnt die Hauptfigur (Barbra Streisand) in @ Avigdors (Mandy Patinkin) gemeinsamen Zukunftsplan ab?",
+      "answers": [
+        "Er würde ihr weiteres Studium einschränken",
+        "Er setzt eine dauerhafte Ehe mit Hadass voraus",
+        "Er verlangt die Rückkehr in ihr Heimatdorf",
+        "Er setzt eine Trennung von ihrer Religion voraus"
+      ],
+      "feedback": [
+        "Sie möchte ihre geistige Freiheit und ihr Studium bewahren.",
+        "Eine fortgesetzte Ehe mit Hadass ist nicht Avigdors Plan.",
+        "Der Streit betrifft nicht zwingend das Heimatdorf.",
+        "Ein Religionswechsel wird von ihr nicht verlangt."
+      ],
+      "short": "Sie entscheidet sich gegen eine Ehe, die ihr Studium begrenzen würde.",
+      "context": "Nachdem Yentl (Barbra Streisand) Avigdor (Mandy Patinkin) ihre Identität offenbart hat, wird eine gemeinsame Zukunft denkbar. Doch er erwartet von einer Frau eine andere Lebensrolle als von seinem männlichen Studienpartner. Yentl erkennt, dass eine Ehe ihren Lernmöglichkeiten Grenzen setzen würde. Sie trennt sich deshalb trotz ihrer Liebe von ihm. Der Schlusskonflikt betrifft die Bedingungen dieser Beziehung und nicht das Fehlen von Zuneigung.",
+      "anchor": "Liebe allein garantiert keinen Platz für das Studium.",
+      "interest": "Die Entscheidung unterscheidet romantische Nähe und persönliche Freiheit.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Von wem stammt die Erzählung, auf der @ beruht?",
+      "answers": [
+        "Isaac Bashevis Singer",
+        "Sholem Aleichem",
+        "Joseph Roth",
+        "Saul Bellow"
+      ],
+      "feedback": [
+        "Isaac Bashevis Singer schrieb „Yentl, the Yeshiva Boy“.",
+        "Aleichem lieferte die Geschichten hinter „Anatevka“, nicht diese Erzählung.",
+        "Joseph Roth ist nicht der Autor der Vorlage.",
+        "Saul Bellow schrieb die Vorlage nicht."
+      ],
+      "short": "Die Vorlage stammt von Isaac Bashevis Singer.",
+      "context": "Isaac Bashevis Singers Erzählung „Yentl, the Yeshiva Boy“ bildet die literarische Grundlage. Barbra Streisand und Jack Rosenthal bearbeiten sie für einen Film, der die inneren Fragen der Hauptfigur auch durch Lieder ausdrückt. Vorlage und Adaption sind eigenständige Werke. Besonders das hoffnungsvolle Filmende gehört zu einer Deutung der Geschichte, die nicht einfach unverändert aus dem literarischen Text übernommen wird.",
+      "anchor": "Singer erzählt die Vorlage, Streisand gestaltet die Filmfassung.",
+      "interest": "Die Herkunft erschließt den Weg von Literatur zum Musical.",
+      "sources": [
+        "afi",
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1983",
+        "1980",
+        "1986",
+        "1989"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung gehört zu 1983.",
+        "1980 liegt drei Jahre vor dem Film.",
+        "1986 liegt drei Jahre nach dem Start.",
+        "1989 liegt sechs Jahre nach der ersten Veröffentlichung."
+      ],
+      "short": "Das Erstjahr ist 1983.",
+      "context": "„Yentl“ kam 1983 heraus, sieben Jahre nach der „A Star Is Born“-Fassung von 1976 mit Barbra Streisand. In der früheren Produktion war sie Hauptdarstellerin und an der Produktion beteiligt; bei „Yentl“ übernahm sie zusätzlich die Regie. Der Abstand verbindet zwei unterschiedliche Formen ihres Musicalschauspiels und markiert den Schritt zu einer Filmgestaltung, die sie selbst auch als Regisseurin verantwortete.",
+      "anchor": "1976 „A Star Is Born“ → 1983 Regiedebüt: sieben Jahre.",
+      "interest": "Der Anker verbindet Streisands Filmrollen mit ihrer Regiearbeit.",
+      "sources": [
+        "afi",
+        "star"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Barbra Streisand",
+        "Frank Pierson",
+        "Norman Jewison",
+        "Alan Parker"
+      ],
+      "feedback": [
+        "Barbra Streisand inszenierte den Film.",
+        "Pierson führte bei ihrer früheren „A Star Is Born“-Fassung Regie.",
+        "Jewison verantwortete diese Verfilmung nicht.",
+        "Parker ist nicht der Regisseur von „Yentl“."
+      ],
+      "short": "Barbra Streisand führte Regie.",
+      "context": "Barbra Streisand spielt die Hauptrolle und führt bei ihrem Regiedebüt zugleich Regie. Außerdem ist sie am Drehbuch und an der Produktion beteiligt. AFI und BFI nennen sie eindeutig als Regisseurin. Die Verbindung dieser Aufgaben prägt einen Film, in dem Bildung, Geschlechterrollen und die innere Stimme der Hauptfigur zusammenkommen. Andere Personen aus früheren Entwicklungsphasen sind keine zusätzlichen Hauptregisseure der veröffentlichten Fassung.",
+      "anchor": "Streisand spielt, schreibt mit und inszeniert.",
+      "interest": "Der Credit beschreibt ihre tatsächlich ausgeübte kreative Verantwortung.",
+      "sources": [
+        "afi",
+        "bfi"
+      ]
+    }
+  ]
+}

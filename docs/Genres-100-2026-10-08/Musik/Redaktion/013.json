@@ -1,0 +1,220 @@
+{
+  "rank": 13,
+  "directors": [
+    "Olivier Dahan"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Vereinigtes Königreich",
+    "Tschechien"
+  ],
+  "release_note": "Weltpremiere als Eröffnungsfilm der Berlinale am 8. Februar 2007; der spätere französische Kinostart im Februar ist nicht das Erstereignis. Das Berlinale-Programm und die Czech Film Commission bestätigen 2007.",
+  "familiarity_reason": "International bekannte Piaf-Biografie mit Marion Cotillard, verbreitet unter „La Môme“ und „La Vie en Rose“.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/La_Vie_en_Rose_(film)",
+    "berlinale": "https://www.berlinale.de/external/programme/archive/pdf/20070103.pdf",
+    "commission": "https://filmcommission.gov.cz/en/film/la-mome/",
+    "festival": "https://www.berlinale.de/de/archiv/chroniken/2007.html",
+    "rocketman": "https://www.festival-cannes.com/en/f/rocketman/",
+    "kinderrollen": "https://filta.org.uk/filta_resources/French/La.Mome.pdf",
+    "rocketman_premiere": "https://www.festival-cannes.com/en/2019/meeting-the-team-of-rocketman-by-dexter-fletcher/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche künstlerische Laufbahn steht in @ im Mittelpunkt?",
+      "answers": [
+        "Die einer Chansonsängerin",
+        "Die einer Opernsängerin",
+        "Die einer Operettensängerin",
+        "Die einer Jazzsängerin"
+      ],
+      "feedback": [
+        "Der Film verfolgt Édith Piafs Weg als Chansonsängerin.",
+        "Eine Opernlaufbahn steht nicht im Zentrum.",
+        "Piaf wird nicht als Operettensängerin vorgestellt.",
+        "Ihre zentrale Laufbahn wird nicht als Jazzgesang erzählt."
+      ],
+      "short": "Der Film erzählt Édith Piafs Laufbahn als Chansonsängerin.",
+      "context": "Édith Piaf (Marion Cotillard; als Kind Manon Chevallier und Pauline Burlet) wird vom Straßenkind zur international bekannten Chansonsängerin. Der Film verbindet ihre musikalische Karriere mit Erinnerungen an eine unbeständige Kindheit, Beziehungen und gesundheitliche Krisen. Die Lieder erscheinen dabei in verschiedenen Lebenssituationen. Sie erzählen nicht allein von öffentlichem Erfolg, sondern tragen auch persönliche Verluste und die Verletzlichkeit der Künstlerin in die Auftritte hinein.",
+      "anchor": "Piafs Chansons verbinden Ruhm und ein schwieriges Leben.",
+      "interest": "Der zentrale Kunstbereich erschließt die biografische Handlung.",
+      "sources": [
+        "handlung",
+        "berlinale",
+        "kinderrollen"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Sport betreibt Piafs Geliebter Marcel Cerdan (Jean-Pierre Martins) in @?",
+      "answers": [
+        "Boxen",
+        "Radsport",
+        "Fußball",
+        "Tennis"
+      ],
+      "feedback": [
+        "Cerdan ist Boxer.",
+        "Er wird nicht als Radrennfahrer vorgestellt.",
+        "Seine Karriere liegt nicht im Fußball.",
+        "Tennis ist nicht seine Sportart."
+      ],
+      "short": "Marcel Cerdan ist Boxer.",
+      "context": "Marcel Cerdan (Jean-Pierre Martins) begegnet Édith Piaf (Marion Cotillard) während ihres Aufenthalts in New York. Er ist ein erfolgreicher Boxer und bereits verheiratet. Ihre Verbindung führt zwei öffentlich bekannte Menschen zusammen, deren Nähe zugleich mit Schwierigkeiten verbunden ist. Seine Sportkarriere gehört zu seiner eigenen Identität; der Film beschränkt ihn nicht auf eine Begleitfigur, die ausschließlich über Piafs musikalischen Ruhm definiert wird.",
+      "anchor": "Die Sängerin verliebt sich in einen Boxer.",
+      "interest": "Der Beruf ordnet eine zentrale Beziehung der Biografie ein.",
+      "sources": [
+        "handlung",
+        "berlinale"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wer kümmert sich in @ besonders um die zeitweise erblindete junge Édith (Manon Chevallier)?",
+      "answers": [
+        "Titine (Emmanuelle Seigner)",
+        "Mômone (Sylvie Testud)",
+        "Annetta (Clotilde Courau)",
+        "Ginou (Caroline Raynaud)"
+      ],
+      "feedback": [
+        "Titine umsorgt das erblindete Kind.",
+        "Mômone ist Piafs spätere Freundin, nicht diese Bezugsperson der Kindheit.",
+        "Die Mutter übernimmt diese fürsorgliche Rolle nicht.",
+        "Ginou gehört nicht zu dieser Kindheitssituation."
+      ],
+      "short": "Titine kümmert sich um Édith während ihrer Erblindung.",
+      "context": "Die junge Édith (Manon Chevallier) lebt zeitweise im Bordell ihrer Großmutter. Dort nimmt sich Titine (Emmanuelle Seigner) besonders des Kindes an, als es sein Augenlicht verliert. Die Szene stellt Fürsorge an einem gesellschaftlich stigmatisierten Ort dar. Das Umfeld, das von außen leicht allein als anstößig betrachtet werden könnte, gibt Édith eine persönliche Bezugsperson in einer Kindheit, die sonst von wechselnden Betreuungssituationen geprägt ist.",
+      "anchor": "Titine gibt dem erblindeten Kind Schutz.",
+      "interest": "Die konkrete Betreuung zeigt eine wichtige Kindheitsbeziehung.",
+      "sources": [
+        "handlung",
+        "kinderrollen",
+        "berlinale"
+      ]
+    },
+    {
+      "code": "M2",
+      "spoiler": "hoch",
+      "question": "Was geschieht Marcel Cerdan (Jean-Pierre Martins) auf dem Weg zu Piaf (Marion Cotillard) in @?",
+      "answers": [
+        "Er stirbt bei einem Flugzeugabsturz",
+        "Er wird nach einem verlorenen Kampf festgenommen",
+        "Er verunglückt bei einer Autofahrt in New York",
+        "Er erleidet einen tödlichen Unfall im Training"
+      ],
+      "feedback": [
+        "Cerdan stirbt beim Absturz des Flugzeugs.",
+        "Eine Festnahme nach einem Kampf beendet die Reise nicht.",
+        "Sein Tod entsteht nicht bei einer New Yorker Autofahrt.",
+        "Ein Trainingsunfall ist nicht die Ursache dieses Verlusts."
+      ],
+      "short": "Cerdan stirbt bei einem Flugzeugabsturz.",
+      "context": "Édith Piaf (Marion Cotillard) bittet Marcel Cerdan (Jean-Pierre Martins), zu ihr nach New York zu kommen. Der Film lässt ihn zunächst scheinbar in ihrem Zimmer erscheinen, bevor die Nachricht von seinem tödlichen Flugzeugabsturz die Szene zerreißt. Diese Inszenierung folgt Piafs emotionaler Wahrnehmung. Der abrupte Wechsel macht den Verlust besonders unmittelbar, weil die erhoffte Wiedervereinigung für einen Moment bereits sichtbar geworden ist.",
+      "anchor": "Die scheinbare Ankunft kippt in die Nachricht vom Absturz.",
+      "interest": "Die Todesnachricht erschließt eine markante erzählerische Täuschung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welches Lied singt die junge Édith (Pauline Burlet) in @ beim Straßenauftritt ihres Vaters?",
+      "answers": [
+        "La Marseillaise",
+        "Mon homme",
+        "Milord",
+        "L’Accordéoniste"
+      ],
+      "feedback": [
+        "Sie singt die französische Nationalhymne.",
+        "„Mon homme“ ist nicht ihr Lied in diesem Straßenmoment.",
+        "„Milord“ gehört nicht zu diesem Kindheitsauftritt.",
+        "„L’Accordéoniste“ ist nicht die gesuchte Straßenperformance."
+      ],
+      "short": "Die junge Édith singt „La Marseillaise“.",
+      "context": "Édiths Vater Louis Gassion (Jean-Paul Rouve) tritt auf der Straße auf. Als ein Zuschauer nach der Beteiligung des Kindes fragt, singt die junge Édith (Pauline Burlet) „La Marseillaise“. Ihre Stimme zieht die Aufmerksamkeit auf sich. Der Moment deutet die spätere Karriere an, ohne sie bereits als ausgeformte Bühnenkünstlerin zu zeigen: Ihr Talent wird in einem improvisierten öffentlichen Auftritt sichtbar.",
+      "anchor": "Auf der Straße wird die Kinderstimme plötzlich zum Ereignis.",
+      "interest": "Die konkrete Liedwahl erklärt den frühen Talentmoment.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "spoiler": "hoch",
+      "question": "Welches Lied begleitet in @ die abschließende Rückblende auf Piafs (Marion Cotillard) Auftritt im Olympia?",
+      "answers": [
+        "Non, je ne regrette rien",
+        "La Vie en rose",
+        "Hymne à l’amour",
+        "Milord"
+      ],
+      "feedback": [
+        "Die Rückblende endet mit „Non, je ne regrette rien“.",
+        "Das titelgebende Lied ist nicht die gesuchte Schlussnummer.",
+        "„Hymne à l’amour“ ist nicht diese Schlussnummer.",
+        "„Milord“ begleitet nicht den abschließenden Olympia-Auftritt."
+      ],
+      "short": "Am Schluss erklingt „Non, je ne regrette rien“.",
+      "context": "Die letzte Rückblende zeigt Édith Piaf (Marion Cotillard) im Olympia mit „Non, je ne regrette rien“. Zuvor verbindet der Film ihre letzten Stunden mit einzelnen Erinnerungen aus dem Leben. Das Lied wirkt dadurch als musikalischer Gegenpol zu den gezeigten Verletzungen und Verlusten. Die Erzählung behauptet nicht, alles sei unbeschwert gewesen; sie schließt mit der Kraft eines Auftritts, der diese Erfahrungen in Gesang verwandelt.",
+      "anchor": "Die letzten Erinnerungen münden in „Non, je ne regrette rien“.",
+      "interest": "Die Schlussnummer verbindet Erzählstruktur und künstlerischen Ausdruck.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals öffentlich gezeigt?",
+      "answers": [
+        "2007",
+        "2004",
+        "2010",
+        "2013"
+      ],
+      "feedback": [
+        "Die Weltpremiere gehört zu 2007.",
+        "2004 liegt drei Jahre vor der Premiere.",
+        "2010 liegt drei Jahre nach dem Erstjahr.",
+        "2013 liegt sechs Jahre nach der Veröffentlichung."
+      ],
+      "short": "Die Weltpremiere fand 2007 statt.",
+      "context": "„La Vie en Rose“ wurde 2007 öffentlich gezeigt. „Rocketman“, die musikalische Biografie über Elton John, erschien 2019, zwölf Jahre später. Die beiden Filme verbinden die Lieder realer Künstler mit privaten Lebenskrisen, wählen aber unterschiedliche musikalische Erzählweisen. Der zeitliche Abstand verortet die Piaf-Biografie vor einer späteren Welle prominenter Musikbiografien, ohne die dargestellten Lebenszeiten mit den Veröffentlichungsjahren der Filme zu verwechseln.",
+      "anchor": "2007 Piaf-Biografie → 2019 „Rocketman“: zwölf Jahre.",
+      "interest": "Der Anker stellt zwei konkrete Musikbiografien gegenüber.",
+      "sources": [
+        "berlinale",
+        "commission",
+        "rocketman",
+        "rocketman_premiere"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Olivier Dahan",
+        "Jacques Audiard",
+        "François Ozon",
+        "Jean-Pierre Jeunet"
+      ],
+      "feedback": [
+        "Olivier Dahan inszenierte die Piaf-Biografie.",
+        "Audiard ist nicht der Regisseur dieser Produktion.",
+        "Ozon führte bei diesem Film nicht Regie.",
+        "Jeunet verantwortete diese Biografie nicht."
+      ],
+      "short": "Olivier Dahan führte Regie.",
+      "context": "Olivier Dahan inszenierte den Film und war gemeinsam mit Isabelle Sobelman am Drehbuch beteiligt. Das Berlinale-Programm und die Czech Film Commission bestätigen den Regiecredit. Die Erzählung ordnet Piafs Leben durch Sprünge zwischen Lebensphasen und durch musikalische Auftritte. Dahans Verantwortung für diese Filmgestaltung ist von der schauspielerischen Leistung Marion Cotillards und von den historischen Aufnahmen der Sängerin zu unterscheiden.",
+      "anchor": "Dahan gestaltet die Sprünge durch Piafs Leben.",
+      "interest": "Der Credit ordnet die filmische Erzählung ihrem Regisseur zu.",
+      "sources": [
+        "berlinale",
+        "commission"
+      ]
+    }
+  ]
+}

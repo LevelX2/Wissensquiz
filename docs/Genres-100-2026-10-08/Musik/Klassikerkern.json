@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-08",
+  "method": "Redaktioneller Kern von 20 prägenden Werken des Film-Musicals und musikalischen Erzählkinos, vom frühen Backstagefilm über Hollywoods Tanz- und Gesangskino bis zur französischen und modernen Musicaltradition. Keine objektive Top-20-Rangliste; Konzertfilme, Musikbiografien und weitere Sammlungswerke ergänzen die Breite bis 100.",
+  "before": 13,
+  "added": 7,
+  "after": 20,
+  "context_sources": [
+    "https://www.bfi.org.uk/lists/10-great-american-musicals-1950s",
+    "https://www.bfi.org.uk/lists/10-great-british-musicals"
+  ],
+  "films": [
+    {
+      "film": "Singin' in the Rain|1952",
+      "title": "Singin’ in the Rain",
+      "reason": "Der Übergang vom Stumm- zum Tonfilm wird als komische Geschichte der Filmindustrie inszeniert.",
+      "status": "vorhanden",
+      "question_ids": [
+        "CLA-L-009",
+        "CLA-L-010",
+        "CLA-M-009",
+        "CLA-M-010",
+        "CLA-S-009",
+        "CLA-S-010",
+        "FF-055-YEAR",
+        "FF-055-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Grease|1978",
+      "title": "Grease",
+      "reason": "Jugendkultur, Gruppenrollen und Pop-Erinnerung verbinden sich im Highschool-Musical.",
+      "status": "vorhanden",
+      "question_ids": [
+        "MUS-202609-P01-L-001",
+        "MUS-202609-P01-L-002",
+        "MUS-202609-P01-M-001",
+        "MUS-202609-P01-M-002",
+        "MUS-202609-P01-S-001",
+        "MUS-202609-P01-S-002",
+        "MUS-202609-P01-L-001-V1",
+        "MUS-202609-P01-S-001-V1",
+        "FF-301-YEAR",
+        "FF-301-DIRECTOR"
+      ]
+    },
+    {
+      "film": "West Side Story|1961",
+      "title": "West Side Story",
+      "reason": "Straßenbanden, Liebesgeschichte und moderne Choreografie verbinden Musical und soziale Konflikte.",
+      "status": "vorhanden",
+      "question_ids": [
+        "MUS-202609-P01-L-015",
+        "MUS-202609-P01-L-016",
+        "MUS-202609-P01-M-015",
+        "MUS-202609-P01-M-016",
+        "MUS-202609-P01-S-015",
+        "MUS-202609-P01-S-016",
+        "MUS-202609-P01-L-015-V1",
+        "FF-308-YEAR",
+        "FF-308-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Sound of Music|1965",
+      "title": "Meine Lieder – meine Träume",
+      "reason": "Gesang, familiäre Bindung und politischer Umbruch tragen eine besonders bekannte Musical-Erzählung.",
+      "status": "vorhanden",
+      "question_ids": [
+        "MUS-202609-P01-L-017",
+        "MUS-202609-P01-L-018",
+        "MUS-202609-P01-M-017",
+        "MUS-202609-P01-M-018",
+        "MUS-202609-P01-S-017",
+        "MUS-202609-P01-S-018",
+        "MUS-202609-P01-L-017-V1",
+        "FF-309-YEAR",
+        "FF-309-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Mary Poppins|1964",
+      "title": "Mary Poppins",
+      "reason": "Fantastische Erziehung und das Zusammenspiel von Realfilm und Animation verbinden Familienfilm und Musical.",
+      "status": "vorhanden",
+      "question_ids": [
+        "MUS-202609-P01-L-011",
+        "MUS-202609-P01-L-012",
+        "MUS-202609-P01-M-011",
+        "MUS-202609-P01-M-012",
+        "MUS-202609-P01-S-011",
+        "MUS-202609-P01-S-012",
+        "MUS-202609-P01-L-011-V1",
+        "FF-306-YEAR",
+        "FF-306-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Amadeus|1984",
+      "title": "Amadeus",
+      "reason": "Musik, künstlerischer Neid und unzuverlässige Erinnerung tragen die dramatische Mozart-Erzählung.",
+      "status": "vorhanden",
+      "question_ids": [
+        "MUS-202609-P01-L-013",
+        "MUS-202609-P01-L-014",
+        "MUS-202609-P01-M-013",
+        "MUS-202609-P01-M-014",
+        "MUS-202609-P01-S-013",
+        "MUS-202609-P01-S-014",
+        "MUS-202609-P01-L-013-V1",
+        "FF-307-YEAR",
+        "FF-307-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Cabaret|1972",
+      "title": "Cabaret",
+      "reason": "Die Bühnennummern kommentieren persönliche Beziehungen und politische Veränderungen.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-141-L1",
+        "F240-20261006-141-L2",
+        "F240-20261006-141-M1",
+        "F240-20261006-141-M2",
+        "F240-20261006-141-S1",
+        "F240-20261006-141-S2",
+        "F240-20261006-141-Y",
+        "F240-20261006-141-D"
+      ]
+    },
+    {
+      "film": "All That Jazz|1979",
+      "title": "Hinter dem Rampenlicht",
+      "reason": "Ein Choreograf betrachtet seine Arbeit und Sterblichkeit in einer selbstreflexiven Showgeschichte.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-142-L1",
+        "F240-20261006-142-L2",
+        "F240-20261006-142-M1",
+        "F240-20261006-142-M2",
+        "F240-20261006-142-S1",
+        "F240-20261006-142-S2",
+        "F240-20261006-142-Y",
+        "F240-20261006-142-D"
+      ]
+    },
+    {
+      "film": "An American in Paris|1951",
+      "title": "Ein Amerikaner in Paris",
+      "reason": "Die Paris-Fantasie und ein ausgedehntes Schlussballett prägen das klassische Tanzmusical.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-145-L1",
+        "F240-20261006-145-L2",
+        "F240-20261006-145-M1",
+        "F240-20261006-145-M2",
+        "F240-20261006-145-S1",
+        "F240-20261006-145-S2",
+        "F240-20261006-145-Y",
+        "F240-20261006-145-D"
+      ]
+    },
+    {
+      "film": "The Red Shoes|1948",
+      "title": "Die roten Schuhe",
+      "reason": "Die künstlerische Hingabe einer Tänzerin wird zur konfliktreichen Entscheidung zwischen Bühne und privatem Leben.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-158-L1",
+        "F240-20261006-158-L2",
+        "F240-20261006-158-M1",
+        "F240-20261006-158-M2",
+        "F240-20261006-158-S1",
+        "F240-20261006-158-S2",
+        "F240-20261006-158-Y",
+        "F240-20261006-158-D"
+      ]
+    },
+    {
+      "film": "Les Parapluies de Cherbourg|1964",
+      "title": "Die Regenschirme von Cherbourg",
+      "reason": "Durchgehend gesungener Dialog verbindet Alltag, Liebesgeschichte und farbige Bildgestaltung.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-146-L1",
+        "F240-20261006-146-L2",
+        "F240-20261006-146-M1",
+        "F240-20261006-146-M2",
+        "F240-20261006-146-S1",
+        "F240-20261006-146-S2",
+        "F240-20261006-146-Y",
+        "F240-20261006-146-D"
+      ]
+    },
+    {
+      "film": "The Rocky Horror Picture Show|1975",
+      "title": "The Rocky Horror Picture Show",
+      "reason": "Rockmusik, Genreparodie und Verwandlung bilden den Kern eines langlebigen Kultmusicals.",
+      "status": "vorhanden",
+      "question_ids": [
+        "MUS-202609-P01-L-019",
+        "MUS-202609-P01-L-020",
+        "MUS-202609-P01-M-019",
+        "MUS-202609-P01-M-020",
+        "MUS-202609-P01-S-019",
+        "MUS-202609-P01-S-020",
+        "MUS-202609-P01-L-019-V1",
+        "FF-310-YEAR",
+        "FF-310-DIRECTOR"
+      ]
+    },
+    {
+      "film": "La La Land|2016",
+      "title": "La La Land",
+      "reason": "Die moderne Liebesgeschichte greift die Tanz- und Farbgestaltung klassischer Musicals wieder auf.",
+      "status": "vorhanden",
+      "question_ids": [
+        "MUS-202609-P01-L-007",
+        "MUS-202609-P01-L-008",
+        "MUS-202609-P01-M-007",
+        "MUS-202609-P01-M-008",
+        "MUS-202609-P01-S-007",
+        "MUS-202609-P01-S-008",
+        "MUS-202609-P01-L-007-V1",
+        "MUS-202609-P01-S-007-V1",
+        "FF-304-YEAR",
+        "FF-304-DIRECTOR"
+      ]
+    },
+    {
+      "film": "My Fair Lady|1964",
+      "title": "My Fair Lady",
+      "reason": "Spracherziehung und gesellschaftliche Erwartungen strukturieren die große Broadway-Verfilmung.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-MUSIK-001-L1",
+        "G100-20261008-MUSIK-001-L2",
+        "G100-20261008-MUSIK-001-M1",
+        "G100-20261008-MUSIK-001-M2",
+        "G100-20261008-MUSIK-001-S1",
+        "G100-20261008-MUSIK-001-S2",
+        "G100-20261008-MUSIK-001-Y",
+        "G100-20261008-MUSIK-001-D"
+      ]
+    },
+    {
+      "film": "A Star Is Born|1954",
+      "title": "Ein neuer Stern am Himmel",
+      "reason": "Der Aufstieg einer Sängerin und der Niedergang ihres Partners verbinden das Musical mit dem Star-Drama.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-MUSIK-002-L1",
+        "G100-20261008-MUSIK-002-L2",
+        "G100-20261008-MUSIK-002-M1",
+        "G100-20261008-MUSIK-002-M2",
+        "G100-20261008-MUSIK-002-S1",
+        "G100-20261008-MUSIK-002-S2",
+        "G100-20261008-MUSIK-002-Y",
+        "G100-20261008-MUSIK-002-D"
+      ]
+    },
+    {
+      "film": "Top Hat|1935",
+      "title": "Ich tanz mich in dein Herz hinein",
+      "reason": "Das Astaire-Rogers-Paar prägt die elegante romantische Tanzkomödie.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-MUSIK-003-L1",
+        "G100-20261008-MUSIK-003-L2",
+        "G100-20261008-MUSIK-003-M1",
+        "G100-20261008-MUSIK-003-M2",
+        "G100-20261008-MUSIK-003-S1",
+        "G100-20261008-MUSIK-003-S2",
+        "G100-20261008-MUSIK-003-Y",
+        "G100-20261008-MUSIK-003-D"
+      ]
+    },
+    {
+      "film": "The Band Wagon|1953",
+      "title": "Vorhang auf!",
+      "reason": "Die Entstehung einer Bühnenshow bildet die Grundlage eines selbstreflexiven Hollywood-Musicals.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-MUSIK-004-L1",
+        "G100-20261008-MUSIK-004-L2",
+        "G100-20261008-MUSIK-004-M1",
+        "G100-20261008-MUSIK-004-M2",
+        "G100-20261008-MUSIK-004-S1",
+        "G100-20261008-MUSIK-004-S2",
+        "G100-20261008-MUSIK-004-Y",
+        "G100-20261008-MUSIK-004-D"
+      ]
+    },
+    {
+      "film": "Meet Me in St. Louis|1944",
+      "title": "Meet Me in St. Louis",
+      "reason": "Alltag und Veränderung einer Familie tragen das farbige Gesangs- und Erinnerungskino.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-MUSIK-005-L1",
+        "G100-20261008-MUSIK-005-L2",
+        "G100-20261008-MUSIK-005-M1",
+        "G100-20261008-MUSIK-005-M2",
+        "G100-20261008-MUSIK-005-S1",
+        "G100-20261008-MUSIK-005-S2",
+        "G100-20261008-MUSIK-005-Y",
+        "G100-20261008-MUSIK-005-D"
+      ]
+    },
+    {
+      "film": "42nd Street|1933",
+      "title": "Die 42. Straße",
+      "reason": "Die Vorbereitung einer Broadway-Produktion verbindet Bühnenensemble, Ersatzbesetzung und ausgreifende Tanzbilder.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-MUSIK-006-L1",
+        "G100-20261008-MUSIK-006-L2",
+        "G100-20261008-MUSIK-006-M1",
+        "G100-20261008-MUSIK-006-M2",
+        "G100-20261008-MUSIK-006-S1",
+        "G100-20261008-MUSIK-006-S2",
+        "G100-20261008-MUSIK-006-Y",
+        "G100-20261008-MUSIK-006-D"
+      ]
+    },
+    {
+      "film": "Footlight Parade|1933",
+      "title": "Parade im Rampenlicht",
+      "reason": "Die Produktion von Bühnennummern für Kinovorspiele verbindet eine Unternehmergeschichte mit Berkeleys groß angelegter Choreografie.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-MUSIK-007-L1",
+        "G100-20261008-MUSIK-007-L2",
+        "G100-20261008-MUSIK-007-M1",
+        "G100-20261008-MUSIK-007-M2",
+        "G100-20261008-MUSIK-007-S1",
+        "G100-20261008-MUSIK-007-S2",
+        "G100-20261008-MUSIK-007-Y",
+        "G100-20261008-MUSIK-007-D"
+      ]
+    }
+  ]
+}
