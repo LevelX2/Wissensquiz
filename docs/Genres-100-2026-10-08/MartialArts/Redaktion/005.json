@@ -1,0 +1,213 @@
+{
+  "rank": 5,
+  "directors": [
+    "King Hu"
+  ],
+  "production_countries": [
+    "Taiwan"
+  ],
+  "release_note": "Union-Film-Produktion, Taiwan 1967; Filmarchiv-Presskit und Criterion bestätigen das Originaljahr. Der Cache nennt einen Kinostart im Oktober 1967. Die Cannes-Classics-Vorführung 2014 betrifft die restaurierte Fassung, nicht eine neue Erstveröffentlichung.",
+  "familiarity_reason": "Prägender Wuxia-Ensemblefilm mit bedeutendem Einfluss; genauer bekannt vor allem einem spezialisierten Publikum; Bekanntheit 3.",
+  "notes": "Der knappe Wikipedia-Synopsis wurde durch tatsächliche vollständige Lektüre des Criterion-Essays von Andrew Chan und des achtseitigen Archiv-Presskits ergänzt. Die Fragen zu Giftbecher, Nudelschüssel und Pekingoper beruhen auf diesen konkret gelesenen Passagen.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Dragon_Inn",
+    "criterion": "https://www.criterion.com/films/28790-dragon-inn",
+    "essay": "https://www.criterion.com/current/posts/5787-dragon-inn-poised-for-battle",
+    "archiv_presskit": "https://cdn.festival-cannes.com/media/uploads/2023/03/17533.pdf"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wen sollen die Helfer in @ vor den Männern des Eunuchen schützen?",
+      "answers": [
+        "Die Kinder eines hingerichteten Ministers",
+        "Die Familie eines geflohenen Thronanwärters",
+        "Die Schüler eines ermordeten Kampfkunstmeisters",
+        "Die Angehörigen eines verurteilten Grenzgenerals"
+      ],
+      "feedback": [
+        "Die verbannten Kinder des Ministers sollen ebenfalls getötet werden.",
+        "Ein Thronanwärter ist nicht der Vater der verfolgten Kinder.",
+        "Es handelt sich nicht um die Schülerschaft einer Kampfkunstschule.",
+        "Die konkrete Verfolgung trifft die Kinder des Ministers."
+      ],
+      "short": "Die verbannten Kinder eines hingerichteten Ministers sind das Ziel der Rettung.",
+      "context": "Ein mächtiger Eunuch hat die Hinrichtung eines Ministers veranlasst und will auch dessen Kinder beseitigen. Während sie in die Verbannung gebracht werden, bereiten seine Männer einen Hinterhalt an der Herberge vor. Loyal gebliebene Helfer sammeln sich dort, um die Kinder zu schützen. Die politische Vorgeschichte erklärt somit die Begegnung von Reisenden und Kämpfern. Ein gewöhnlicher Zwischenhalt wird zum entscheidenden Ort, an dem die Verfolgung aufgehalten werden kann.",
+      "anchor": "Die Kinder sollen der politischen Vergeltung entkommen.",
+      "interest": "Verankert das Ensemble in einem klaren gemeinsamen Schutzziel.",
+      "sources": [
+        "film",
+        "archiv_presskit",
+        "essay"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "In welcher Umgebung liegt der zentrale Schauplatz von @?",
+      "answers": [
+        "In einer abgelegenen Grenzregion",
+        "In einem dicht besiedelten Hauptstadtviertel",
+        "An einem lebhaften Seehafen",
+        "Inmitten kaiserlicher Palastgärten"
+      ],
+      "feedback": [
+        "Die Herberge liegt in einer einsamen Gegend nahe der Grenze.",
+        "Die Handlung konzentriert sich nicht auf ein Hauptstadtviertel.",
+        "Ein Seehafen bildet nicht den zentralen Raum.",
+        "Der Ort gehört nicht zu den Palastgärten."
+      ],
+      "short": "Die Herberge liegt in einer abgelegenen Grenzregion.",
+      "context": "Die Herberge steht weit entfernt vom Zentrum staatlicher Macht in einer kargen Grenzlandschaft. Gerade deshalb eignet sie sich als Ort für den geplanten Hinterhalt auf die verbannten Kinder. Zunächst konzentriert der Film die Spannung auf den engen Innenraum, in dem Fremde einander beobachten. Später öffnet er die Kämpfe in die weitläufige Umgebung. Der Wechsel zwischen Begrenzung und offenem Gelände verändert die sichtbaren Möglichkeiten der Bewegung.",
+      "anchor": "Die abgelegene Grenze macht den Zwischenhalt zum gefährlichen Engpass.",
+      "interest": "Fragt nach der geografischen Situation, die der Titel nicht verrät.",
+      "sources": [
+        "essay",
+        "archiv_presskit"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie tritt Zhu Hui (Shang-Kuan Ling-feng) in @ zunächst auf, um ihre Identität zu verbergen?",
+      "answers": [
+        "In der Verkleidung eines Mannes",
+        "Als verschleierte Hofdame",
+        "Als schweigende Tempeldienerin",
+        "Als ältere reisende Händlerin"
+      ],
+      "feedback": [
+        "Die Schwertkämpferin tritt zunächst als Mann auf.",
+        "Eine Hofdamenrolle verwendet sie nicht.",
+        "Eine Tempeldienerin ist nicht ihre Tarnung.",
+        "Sie verändert ihre Erscheinung nicht zu einer älteren Händlerin."
+      ],
+      "short": "Zhu Hui verbirgt ihre Identität in Männerkleidung.",
+      "context": "Zhu Hui (Shang-Kuan Ling-feng) erscheint zunächst als Mann und gehört zu den Kämpfern, die den Verfolgten helfen. Ihr Auftreten fügt sich in eine Folge von Ankünften, bei denen die tatsächlichen Rollen erst nach und nach erkennbar werden. Später zeigt sie ihre Beweglichkeit außerhalb der Herberge. Die Tarnung ist damit Teil eines größeren Prinzips: Die Besucher verraten weder ihre Zugehörigkeit noch ihre Fähigkeiten bereits durch ihre erste Erscheinung.",
+      "anchor": "Zhu Huis erste Erscheinung verdeckt die Schwertkämpferin.",
+      "interest": "Erkennt eine konkrete Tarnung innerhalb des unübersichtlichen Ensembles.",
+      "sources": [
+        "film",
+        "essay"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie reagiert Xiao Shaozi (Shih Chun) in @ auf den vergifteten Trunk?",
+      "answers": [
+        "Er stellt sich tot und spuckt dem Angreifer ins Gesicht",
+        "Er vertauscht die Becher und wartet auf die Wirkung",
+        "Er leert den Becher in die Suppe des Angreifers",
+        "Er schüttet den Trunk auf den Boden und fordert Nachschub"
+      ],
+      "feedback": [
+        "Er täuscht zunächst seinen Tod vor und wendet die Situation dann gegen den Täter.",
+        "Ein unbemerkter Bechertausch ist nicht seine Reaktion.",
+        "Die vergiftete Flüssigkeit wird nicht in dessen Suppe gegeben.",
+        "Ein bloßes Ausschütten beendet diese Szene nicht."
+      ],
+      "short": "Xiao beantwortet den Giftanschlag mit einer vorgetäuschten Todesreaktion.",
+      "context": "Xiao Shaozi (Shih Chun) täuscht nach dem präparierten Trunk seinen Tod vor, bevor er seinem Gegner ins Gesicht spuckt. Der Moment lässt den Erfolg des Anschlags zunächst offen und kippt dann in eine freche Gegenreaktion. Die Herbergenszenen zeigen seine Aufmerksamkeit in kleinen Handlungen, lange bevor ein offener Kampf alles beherrscht. Seine Ruhe ist deshalb ein aktives Mittel: Er beobachtet und bestimmt den Zeitpunkt seiner Antwort selbst.",
+      "anchor": "Xiao spielt den scheinbaren Erfolg des Giftanschlags gegen dessen Täter aus.",
+      "interest": "Erkennt eine bestimmte Gegenlist in der Herbergensequenz.",
+      "sources": [
+        "essay"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie beantwortet Xiao Shaozi (Shih Chun) in @ die Forderung eines Gegners, seine Nudelsuppe herauszugeben?",
+      "answers": [
+        "Er schleudert die Schüssel hinüber, ohne etwas zu verschütten",
+        "Er kippt die Suppe aus und steckt Geld in die Schüssel",
+        "Er fängt die Nudeln mit dem Schwert und reicht sie hinüber",
+        "Er stellt die Schüssel ab und schiebt den Tisch zum Gegner"
+      ],
+      "feedback": [
+        "Die Schüssel landet auf dem anderen Tisch, ohne dass Suppe verschüttet wird.",
+        "Eine leere Schüssel mit Geld ist nicht seine Antwort.",
+        "Das Schwert wird nicht zum Weiterreichen der Nudeln verwendet.",
+        "Er verschiebt nicht den ganzen Tisch."
+      ],
+      "short": "Xiao schleudert die gefüllte Schüssel präzise zum anderen Tisch.",
+      "context": "Xiao Shaozi (Shih Chun) verrät seine Fähigkeiten durch eine scheinbar beiläufige Handlung beim Essen. Die geforderte Nudelschüssel landet nach seinem Wurf unversehrt auf dem Tisch des Gegners. Eine kleine Demonstration ersetzt zunächst den offenen Schlagabtausch. Das Essen wird zum Instrument gegenseitiger Prüfung. Der kontrollierte Umgang mit einem Alltagsgegenstand zeigt bereits jene Präzision, die später in den Kämpfen größer und gefährlicher sichtbar werden wird.",
+      "anchor": "Die unverschüttete Nudelsuppe demonstriert Xiaos Kontrolle.",
+      "interest": "Eine konkrete Bewegung macht eine verborgene Fähigkeit sichtbar.",
+      "sources": [
+        "essay"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Bühnenkunst beeinflusst laut Criterion-Essay die Konzeption der Kämpfe in @ besonders?",
+      "answers": [
+        "Pekingoper",
+        "Kunqu-Oper",
+        "Kantonesische Oper",
+        "Taiwanische Oper"
+      ],
+      "feedback": [
+        "King Hu orientierte seine Kampfspektakel an Tanz und Akrobatik der Pekingoper.",
+        "Der Essay benennt hier ausdrücklich die Pekingoper statt Kunqu.",
+        "Die kantonesische Oper ist nicht die konkret genannte Tradition.",
+        "Taiwanische Oper ist nicht die benannte Quelle dieses Konzepts."
+      ],
+      "short": "Tanz und Akrobatik der Pekingoper prägen King Hus Kampfkonzept.",
+      "context": "King Hu kannte die Pekingoper aus seiner Kindheit und entwarf Kämpfe als ein Zusammenspiel von Bewegung, Akrobatik und Rhythmus. Der Criterion-Essay beschreibt diesen Zugang für die Inszenierung; Han Ying-chieh verantwortete die Choreografie. Die Szene ist dadurch nicht nur ein Ort, an dem Gegner einander verletzen. Körperbewegungen, Raum und Klang bilden zugleich ein genau geordnetes Schauspiel, dessen Wirkung sich aus ihrer gemeinsamen Gestaltung ergibt.",
+      "anchor": "Die Kämpfe werden als Bewegungsspektakel nach dem Vorbild der Pekingoper konzipiert.",
+      "interest": "Erklärt eine konkrete ästhetische Herkunft der Inszenierung.",
+      "sources": [
+        "essay",
+        "archiv_presskit"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Shih Chun und Shang-Kuan Ling-feng erstmals veröffentlicht?",
+      "answers": [
+        "1967",
+        "1964",
+        "1970",
+        "1973"
+      ],
+      "feedback": [
+        "Der Originalfilm erschien 1967.",
+        "1964 ist nicht das Erstjahr dieser Produktion.",
+        "1970 gehört zum Beginn von Ein Hauch von Zen.",
+        "1973 ist ein späteres Jahr in King Hus Filmografie."
+      ],
+      "short": "1967 Originalfilm, 2014 restaurierte Fassung in Cannes: 47 Jahre Abstand.",
+      "context": "Die Herberge zum Drachentor erschien 1967. Die restaurierte Fassung wurde 2014 für Cannes Classics ausgewählt, 47 Jahre später. Der Filmarchiv-Presskit beschreibt die Sicherung und Restaurierung des Originalmaterials in 4K; gearbeitet wurde am vorhandenen Negativ und an den Tonelementen. Der lange Abstand zeigt, warum eine aktuelle Festivalvorführung nicht als erstes Filmjahr gelten darf. Sie machte ein bereits Jahrzehnte altes Werk unter verbesserten Vorführbedingungen wieder sichtbar.",
+      "anchor": "1967 Veröffentlichung, 2014 Cannes Classics: 47 Jahre Abstand.",
+      "interest": "Verbindet Erstjahr und konkret belegte Wiederaufführung der Restaurierung.",
+      "sources": [
+        "archiv_presskit",
+        "criterion",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Shih Chun und Bai Ying Regie?",
+      "answers": [
+        "King Hu",
+        "Chang Cheh",
+        "Li Han-hsiang",
+        "Joseph Kuo"
+      ],
+      "feedback": [
+        "Der Archiv-Presskit nennt King Hu als Regisseur und Drehbuchautor.",
+        "Chang Cheh inszenierte diesen Ensemblefilm nicht.",
+        "Li Han-hsiang trägt nicht den Hauptregiecredit.",
+        "Joseph Kuo ist nicht der Regisseur dieser Produktion."
+      ],
+      "short": "King Hu führte Regie und schrieb das Drehbuch.",
+      "context": "Der Filmarchiv-Presskit führt King Hu als Regisseur und Drehbuchautor. Er entstand bei Union Film in Taiwan nach seinem Wechsel aus Hongkong. Der konzentrierte Schauplatz erlaubt es, die Zugehörigkeit und Fähigkeiten ankommender Personen allmählich offenzulegen. King Hus Arbeit verbindet diese Informationsverteilung mit dem Wechsel zwischen engen Innenräumen und weitem Gelände. Han Ying-chiehs Choreografie ist eine gesonderte gestalterische Aufgabe innerhalb der von Hu geleiteten Inszenierung.",
+      "anchor": "Hauptregie und Drehbuch King Hu, Produktion Union Film.",
+      "interest": "Ordnet die neue Produktionsphase und ihre klar getrennten gestalterischen Credits ein.",
+      "sources": [
+        "archiv_presskit",
+        "criterion",
+        "essay"
+      ]
+    }
+  ]
+}

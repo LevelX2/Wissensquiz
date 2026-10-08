@@ -1,0 +1,211 @@
+{
+  "rank": 20,
+  "directors": [
+    "Benny Chan"
+  ],
+  "production_countries": [
+    "Hongkong"
+  ],
+  "country_note": "Der Handlungscache ordnet den Film Hongkong zu. Das Hong Kong Film Archive nennt Jackie Chan Emperor und Huayi Brothers als Presenters; Beteiligung eines Festlandunternehmens wird hier nicht ohne ausdrücklichen Ländercredit in ein zusätzliches Produktionsland umgewandelt.",
+  "release_note": "Erstjahr 2006, bestätigt vom Hong Kong Film Archive und der offiziellen Emperor-Auswahl für Venedig 2006. Der Veröffentlichungstext nennt die Weltpremiere am 8. September und den Kinostart am 29. September 2006; der widersprüchliche Infoboxeintrag '2 January 2006 (Venice)' wird verworfen. Eigenständige Handlung. Fassungen mit unterschiedlichen Laufzeiten existieren; kein Laufzeit- oder Schnittdetail wird abgefragt.",
+  "familiarity_reason": "Jackie Chan ist bekannt, die konkrete Einbrecher-und-Baby-Komödie im deutschsprachigen Raum weniger zentral; Bekanntheit 3.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Rob-B-Hood",
+    "archiv": "https://www.filmarchive.gov.hk/en/web/hkfa/2025/comedy-s/pe-event-2025-comedy-s-fs-film16.html",
+    "studio": "https://www.emp.hk/en/production/library/rob-b-hood",
+    "vergleich": "https://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/company-information/media-centre/december2013/121113%20Jackie%20Chan%20to%20attend%20Gala%20Premiere%20of%20POLICE%20STORY%202013%20at%20Marina%20Bay%20Sands.pdf"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wen soll das Einbrechertrio in @ für seinen Auftraggeber entführen?",
+      "answers": [
+        "Ein Baby aus einer reichen Familie",
+        "Einen Schüler aus einer Diplomatenschule",
+        "Einen erwachsenen Erben eines Konzerns",
+        "Eine Sängerin aus einem Nachtclub"
+      ],
+      "feedback": [
+        "Der Auftrag betrifft ein Baby der Familie Lee.",
+        "Ein Schüler ist nicht das Entführungsziel.",
+        "Der betroffene Erbe ist kein Erwachsener.",
+        "Eine Sängerin wird nicht für diesen Auftrag verschleppt."
+      ],
+      "short": "Das Trio entführt ein Baby der wohlhabenden Familie Lee.",
+      "context": "Thongs (Jackie Chan), Octopus (Louis Koo) und der Landlord (Michael Hui) geraten durch ihre Geldprobleme in einen Entführungsauftrag. Ziel ist ein Baby aus der wohlhabenden Familie Lee. Die Betreuung des Kindes verändert den Charakter ihres Verbrechens: Aus einem vermeintlich gewinnbringenden Auftrag wird eine Verantwortung für einen völlig abhängigen Menschen. Diese Bindung bringt die Täter später gegen ihren eigenen Auftraggeber auf.",
+      "anchor": "Ein Baby verwandelt den lukrativen Auftrag in persönliche Verantwortung.",
+      "interest": "Das zentrale Entführungsziel erschließt die Grundsituation des Films.",
+      "sources": [
+        "handlung",
+        "studio",
+        "archiv"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Gewohnheit verschärft Thongs' (Jackie Chan) Geldprobleme in @?",
+      "answers": [
+        "Er verspielt sein Geld beim Glücksspiel.",
+        "Er kauft ständig teure Autos.",
+        "Er finanziert regelmäßig Luxusreisen.",
+        "Er sammelt wertvolle Kunstgegenstände."
+      ],
+      "feedback": [
+        "Thongs ist ein zwanghafter Spieler.",
+        "Die teuren Autos gehören eher zu Octopus' Lebensstil.",
+        "Luxusreisen sind nicht seine prägende Geldfalle.",
+        "Eine Kunstsammlung verschärft nicht seine beschriebenen Schulden."
+      ],
+      "short": "Thongs verliert sein Geld beim Glücksspiel.",
+      "context": "Thongs (Jackie Chan) stiehlt mit Octopus (Louis Koo), kommt aber wegen seiner Spielsucht nicht aus den Geldproblemen heraus. Seine Gewohnheit belastet außerdem das Verhältnis zu seiner Familie. Der lukrative neue Auftrag erscheint ihm deshalb als Möglichkeit, seine Lage zu ändern. Die spätere Bindung zum Baby bringt ihn dazu, seinen Drang zum Spielen und die Folgen seines bisherigen Lebens neu zu bewerten.",
+      "anchor": "Die Spielsucht hält Thongs trotz seiner Diebstähle in Geldnot.",
+      "interest": "Die persönliche Schwäche ist unabhängig vom Entführungsziel und den späteren Rettungen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum müssen Thongs (Jackie Chan) und Octopus (Louis Koo) in @ das Baby zunächst selbst behalten?",
+      "answers": [
+        "Ihr Organisator wird nach einer Verfolgung verhaftet.",
+        "Ihr Auftraggeber verschwindet bei einer Razzia.",
+        "Ein Käufer verlangt vor der Übergabe neue Papiere.",
+        "Eine Krankenschwester verhindert die Übergabe."
+      ],
+      "feedback": [
+        "Die Verhaftung des Landlord verzögert die geplante Übergabe.",
+        "Der Auftraggeber wird in dieser Phase nicht durch eine Razzia ausgeschaltet.",
+        "Zusätzliche Übergabepapiere sind nicht das Hindernis.",
+        "Eine Krankenschwester ist nicht der Grund für die Verzögerung."
+      ],
+      "short": "Der verhaftete Landlord lässt die beiden mit dem Baby zurück.",
+      "context": "Bei einer Polizeikontrolle versucht der Landlord (Michael Hui), mit seinem Wagen zu fliehen, und verursacht einen Unfall. Thongs (Jackie Chan) und Octopus (Louis Koo) entkommen mit dem Baby, während ihr Mentor festgenommen wird. Er verlangt, dass sie bis zu seiner Freilassung auf eine Übergabe verzichten. Diese Verzögerung schafft die gemeinsame Zeit, in der die beiden eine Bindung zum entführten Kind entwickeln.",
+      "anchor": "Die Verhaftung macht aus kurzfristigem Transport mehrere Tage Betreuung.",
+      "interest": "Ein konkretes Hindernis erklärt, warum die Beziehung zum Baby wachsen kann.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was widerlegt in @ die Behauptung des Triadenbosses (Chen Baoguo), das Baby sei sein Enkel?",
+      "answers": [
+        "Ein Bluttest",
+        "Ein früheres Überwachungsbild",
+        "Ein Erbschaftsvertrag",
+        "Ein Tonbandgeständnis"
+      ],
+      "feedback": [
+        "Der Bluttest widerlegt die behauptete Verwandtschaft.",
+        "Ein Überwachungsbild entscheidet diese Frage nicht.",
+        "Ein Erbschaftsvertrag ist nicht der Nachweis.",
+        "Ein aufgezeichnetes Geständnis löst den Irrtum nicht auf."
+      ],
+      "short": "Ein Bluttest zeigt, dass das Baby nicht sein Enkel ist.",
+      "context": "Der Triadenboss (Chen Baoguo) verlangt das Baby, weil er es für das Kind seines verstorbenen Sohnes Max (Terence Yin) hält. Ein Bluttest widerlegt diese Verwandtschaft. Seine Reaktion bedroht nun unmittelbar das Leben des Kindes. Für Thongs (Jackie Chan) und Octopus (Louis Koo) wird damit endgültig sichtbar, dass sie keine harmlose Übergabe organisieren, sondern einen Schutzbefohlenen aus einer lebensgefährlichen Situation retten müssen.",
+      "anchor": "Der Bluttest zerstört die Vorstellung einer Familienzusammenführung.",
+      "interest": "Der überprüfbare Irrtum des Auftraggebers ist ein eigenständiger Handlungsschritt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Womit versucht Thongs (Jackie Chan) in @, das bewusstlose Baby in der Garage wiederzubeleben?",
+      "answers": [
+        "Mit einem improvisierten Defibrillator an einer Autobatterie",
+        "Mit einem Beatmungsbeutel aus dem Erste-Hilfe-Kasten",
+        "Mit einer manuellen Herzdruckmassage auf dem Werkstattboden",
+        "Mit einem Sauerstoffgerät aus dem Krankenwagen"
+      ],
+      "feedback": [
+        "Er baut eine elektrische Wiederbelebungshilfe mit der Autobatterie.",
+        "Ein Beatmungsbeutel ist nicht das gezeigte Hilfsmittel.",
+        "Die Szene zeigt den improvisierten elektrischen Versuch, nicht diese Methode.",
+        "Ein Sauerstoffgerät aus dem Krankenwagen ist nicht sein Hilfsmittel in der Garage."
+      ],
+      "short": "Thongs improvisiert einen Defibrillator mit einer Autobatterie.",
+      "context": "Nach der Befreiung aus dem Kühlraum bleibt das Baby reglos. Thongs (Jackie Chan) trägt es in die Garage und versucht dort mit einer Autobatterie und Klemmen eine elektrische Wiederbelebung. Zunächst scheint die Rettung gescheitert, doch im Krankenwagen wird ein schwacher Herzschlag festgestellt. Die Szene verschiebt die Spannung vom Kampf gegen Gegner auf die unsichere Frage, ob das gerettete Kind überlebt.",
+      "anchor": "Der letzte Rettungsversuch nutzt die Autobatterie in der Garage.",
+      "interest": "Ein konkretes Hilfsmittel unterscheidet die Rettung von der Entführung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wer öffnet in @ das Schloss des Kühlraums, in dem das Baby und seine Retter eingeschlossen sind?",
+      "answers": [
+        "Der Landlord (Michael Hui)",
+        "Inspector Mok (Yuen Biao)",
+        "Melody (Gao Yuanyuan)",
+        "Octopus (Louis Koo)"
+      ],
+      "feedback": [
+        "Der Landlord knackt das Schloss des Kühlraums.",
+        "Mok kommt mit ihm, öffnet aber nicht selbst das Schloss.",
+        "Melody übernimmt diese Befreiung nicht.",
+        "Octopus ist eingeschlossen und knackt hier nicht das Schloss."
+      ],
+      "short": "Der Landlord knackt das Kühlraumschloss.",
+      "context": "Thongs (Jackie Chan) und Octopus (Louis Koo) kämpfen im Kühlraum um das Baby, können den abgeschlossenen Raum aber nicht verlassen. Inspector Steve Mok (Yuen Biao) trifft mit dem Landlord (Michael Hui) ein. Dessen Fähigkeit, Schlösser zu öffnen, schafft den Ausweg. Eine zunächst kriminell genutzte Fertigkeit dient damit der Rettung, während der Polizist und die Einbrecher in diesem Moment dasselbe unmittelbare Ziel verfolgen.",
+      "anchor": "Das Talent des Einbrechers öffnet diesmal den Rettungsweg.",
+      "interest": "Die konkrete Aufgabenteilung der Helfer ist von der anschließenden Wiederbelebung getrennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Jackie Chan und Louis Koo erstmals veröffentlicht?",
+      "answers": [
+        "2006",
+        "2003",
+        "2009",
+        "2013"
+      ],
+      "feedback": [
+        "Archiv und Studio bestätigen 2006.",
+        "2003 liegt drei Jahre davor.",
+        "2009 liegt drei Jahre danach.",
+        "2013 gehört zum späteren Police-Story-Neustart."
+      ],
+      "short": "2006 Rob-B-Hood, 2013 Police Story: Back for Law: sieben Jahre.",
+      "context": "Rob-B-Hood erschien 2006 und wurde in diesem Jahr für das Filmfestival von Venedig ausgewählt. Sieben Jahre später kam 2013 Police Story: Back for Law heraus. Jackie Chan steht in beiden Filmen im Zentrum, spielt aber unterschiedliche Figuren: hier den Einbrecher Thongs, dort den Polizisten Zhong Wen. Die zeitliche Verbindung zeigt eine Veränderung der Rollen, ohne eine gemeinsame Handlung der Filme zu behaupten.",
+      "anchor": "Sieben Jahre trennen den Einbrecherfilm 2006 vom Polizistenfilm 2013.",
+      "interest": "Der spätere Rollenwechsel gibt dem Jahr eine konkrete zweite Zeitmarke.",
+      "sources": [
+        "archiv",
+        "studio",
+        "vergleich"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "Benny Chan",
+        "Jackie Chan",
+        "Stanley Tong",
+        "Ding Sheng"
+      ],
+      "feedback": [
+        "Das Filmarchiv und Emperor nennen Benny Chan.",
+        "Jackie Chans Actionarbeit ist hier kein Hauptregiecredit.",
+        "Stanley Tong ist nicht der Hauptregisseur dieses Films.",
+        "Ding Sheng führte hier nicht Regie."
+      ],
+      "short": "Benny Chan führte die Hauptregie.",
+      "context": "Benny Chan inszeniert die Geschichte der Einbrecher, deren Beziehung zu ihrem entführten Baby den Auftrag verändert. Jackie Chan spielt Thongs und arbeitete am Drehbuch und der Actiongestaltung mit. Das Hong Kong Film Archive nennt Benny Chan ausdrücklich als Regisseur; Emperor führt ihn ebenfalls unter Crew. Die Zusammenarbeit verteilt mehrere kreative Aufgaben auf Beteiligte, deren gemeinsame Nachnamen keine gemeinsame Hauptregie begründen.",
+      "anchor": "Benny Chan inszeniert; Jackie Chan spielt und gestaltet Action mit.",
+      "interest": "Die klare Credittrennung verhindert eine Verwechslung mit Chans eigener Regiearbeit.",
+      "sources": [
+        "archiv",
+        "studio",
+        "handlung"
+      ]
+    }
+  ],
+  "director_note": "Benny Chan ist Hauptregisseur. Emperor nennt für die Action-Choreografie-Nominierung Jackie Chan, Li Chung-chi und das JC Stunt Team; diese Angaben sind kein zusätzlicher Hauptregiecredit."
+}

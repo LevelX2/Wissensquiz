@@ -1,0 +1,205 @@
+{
+  "rank": 10,
+  "directors": [
+    "Stanley Tong"
+  ],
+  "production_countries": [
+    "Hongkong"
+  ],
+  "release_note": "Hongkong-Start am 10. Februar 1996; der US-Start am 10. Januar 1997 betrifft die spätere gekürzte und neu vertonte Fassung.",
+  "familiarity_reason": "Bekannter international vertriebener Jackie-Chan-Film mit Schnee-, Leiter- und Hai-Action, weniger ikonisch als die erste Police Story.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/First_Strike_(1996_film)",
+    "regie": "https://www.hkexnews.hk/listedco/listconews/gem/20021019/e_8010pro-20000523.pdf",
+    "dreh": "https://www.abc.net.au/news/2026-07-05/jackie-chan-first-strike-filming-in-falls-creek/106791558",
+    "archiv": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Jackie-Chan_e.pdf"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Schmuggel untersucht Jackie (Jackie Chan) in @?",
+      "answers": [
+        "Einen gestohlenen nuklearen Sprengkopf",
+        "Gefälschte militärische Flugzeugteile",
+        "Entwendete chemische Kampfstoffe",
+        "Gestohlene geheime Satellitenbauteile"
+      ],
+      "feedback": [
+        "Die Spur betrifft einen nuklearen Sprengkopf.",
+        "Flugzeugteile sind nicht die gesuchte Schmuggelware.",
+        "Chemische Kampfstoffe stehen nicht im Zentrum.",
+        "Satellitenbauteile sind nicht das gefährliche Gut."
+      ],
+      "short": "Ein gestohlener nuklearer Sprengkopf führt Jackie auf eine internationale Spur.",
+      "context": "Jackie (Jackie Chan) soll zunächst nur die Bewegungen von Natasha (Nonna Grishayeva) beobachten. Die scheinbar begrenzte Aufgabe führt ihn jedoch zu Jackson Tsui (Jackson Lou), der mit einem nuklearen Sprengkopf handelt. Der Fall weitet sich über mehrere Länder aus. Weil Dienste und kriminelle Interessen ineinandergreifen, erkennt Jackie erst nach und nach, wem seine Ermittlungen nutzen.",
+      "anchor": "Ein Überwachungsauftrag wird zur Suche nach einer Atomwaffe.",
+      "interest": "Der zentrale Auftrag erschließt den internationalen Konflikt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wo arbeitet Annie Tsui (Annie Wu), die Jackie (Jackie Chan) in @ aufsucht?",
+      "answers": [
+        "In einem Aquarium mit Hai-Vorführungen",
+        "In einem Hafenbüro für Frachtschiffe",
+        "In einem Krankenhauslabor",
+        "In einem Hotel für Reisegruppen"
+      ],
+      "feedback": [
+        "Annie arbeitet mit Haien im Aquarium.",
+        "Das Hafenbüro ist nicht ihr Arbeitsplatz.",
+        "Ein Labor gehört nicht zu ihrer Beschäftigung.",
+        "Das Hotel ist nicht ihr berufliches Umfeld."
+      ],
+      "short": "Annie arbeitet in einem Aquarium und führt Haie vor.",
+      "context": "Annie Tsui (Annie Wu) ist die Schwester von Jackson Tsui (Jackson Lou). Jackie (Jackie Chan) gibt sich zunächst als Freund ihres Bruders aus, um Zugang zur Familie zu finden. Ihr Arbeitsplatz wird später zum gefährlichen Schauplatz des Falls: Der gesuchte Sprengkopf ist dort versteckt, und die Verfolgung führt bis in das Wasserbecken zwischen die Haie.",
+      "anchor": "Annies Arbeitsplatz wird zum Schauplatz des Unterwasserkampfs.",
+      "interest": "Ein erinnerbarer Ort erhält seine Bedeutung aus der Handlung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie tarnt Jackson Tsui (Jackson Lou) den Sprengkopf in @, bevor Annie (Annie Wu) ihn versteckt?",
+      "answers": [
+        "Als kleinen Sauerstoffbehälter",
+        "Als Feuerlöscher",
+        "Als verschlossene Werkzeugkiste",
+        "Als medizinische Kühlbox"
+      ],
+      "feedback": [
+        "Jackson verwendet einen Sauerstoffbehälter.",
+        "Ein Feuerlöscher ist nicht die verwendete Hülle.",
+        "Eine Werkzeugkiste verbirgt hier nicht den Sprengkopf.",
+        "Die Tarnung besteht nicht aus einer Kühlbox."
+      ],
+      "short": "Der Sprengkopf ist als kleiner Sauerstoffbehälter getarnt.",
+      "context": "Jackson Tsui (Jackson Lou) übergibt Annie Tsui (Annie Wu) die gefährliche Ladung, während er sich im Krankenhaus versteckt. Sie bringt den getarnten Sprengkopf an ihren Arbeitsplatz. Die Tarnung erklärt, warum ein gewöhnlich wirkender Behälter zum Mittelpunkt des Konflikts wird. Jackie (Jackie Chan) muss die Ladung schließlich aus dem Haibecken holen, während die Gegner nach ihr suchen.",
+      "anchor": "Ein Sauerstoffbehälter verbirgt die Atomwaffe.",
+      "interest": "Die Tarnung verbindet Krankenhaus, Aquarium und spätere Bergung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was entdeckt Jackie (Jackie Chan) in @ über die vom FSB ausgegebenen Gegenstände?",
+      "answers": [
+        "Sie enthalten versteckte Abhörgeräte.",
+        "Sie tragen falsche amtliche Seriennummern.",
+        "Sie sind mit einem Giftstoff behandelt.",
+        "Sie enthalten gefälschte Identitätspapiere."
+      ],
+      "feedback": [
+        "Die Gegenstände enthalten Abhörtechnik.",
+        "Seriennummern sind nicht die entscheidende Entdeckung.",
+        "Ein Giftstoff erklärt die Überwachung nicht.",
+        "Identitätspapiere sind nicht das verborgene Mittel."
+      ],
+      "short": "Gregor lässt Jackie über die ausgegebenen Gegenstände abhören.",
+      "context": "Jackson Tsui (Jackson Lou) warnt Jackie (Jackie Chan) vor den Gegenständen, die er vom russischen Dienst erhalten hat. Gregor Yegorov (Yuriy Petrov) benutzt seine offizielle Stellung für eigene Geschäfte und kontrolliert die Ermittlungen. Die Entdeckung verändert Jackies Vertrauen in den vermeintlichen Auftraggeber. Sein Versuch, den Vorgang den Vorgesetzten zu melden, bringt ihn anschließend selbst in Gefahr.",
+      "anchor": "Die Dienstausrüstung dient heimlicher Überwachung.",
+      "interest": "Die Frage erklärt den Wechsel von Vertrauen zu Verdacht.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum arbeitete Jackson Tsui (Jackson Lou) in @ für Gregor Yegorov (Yuriy Petrov)?",
+      "answers": [
+        "Gregor zwang ihn nach seiner Gefangennahme zur Mitarbeit.",
+        "Jackson hatte Gregor als verdeckten CIA-Kontakt angeworben.",
+        "Jackson wollte einen gefangenen Angehörigen freikaufen.",
+        "Gregor hatte ihm einen offiziellen Forschungsauftrag angeboten."
+      ],
+      "feedback": [
+        "Gefangennahme und Zwang erklären seine Mitarbeit.",
+        "Die Verbindung begann nicht als von Jackson geleitete CIA-Operation.",
+        "Ein gefangener Angehöriger ist nicht die erklärte Ursache.",
+        "Ein regulärer Forschungsauftrag steht nicht am Anfang."
+      ],
+      "short": "Gregor hatte Jackson auf einem CIA-Einsatz gefangen und zur Mitarbeit gezwungen.",
+      "context": "Jackson Tsui (Jackson Lou) erklärt Jackie (Jackie Chan), dass Gregor Yegorov (Yuriy Petrov) ihn während eines früheren CIA-Auftrags gefangen genommen hatte. Jackson erscheint als zwischen Diensten wechselnder Agent, dient tatsächlich aber Gregors privaten kriminellen Plänen. Diese Unterscheidung macht die verschachtelte Loyalität verständlich: Der russische Dienst und der persönliche Nutzen eines seiner Offiziere sind nicht gleichzusetzen.",
+      "anchor": "Hinter Jacksons Dienstwechsel steht Gregors private Erpressung.",
+      "interest": "Das schwere Ziel trennt Geheimdienstloyalität von persönlicher Kontrolle.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Landschaft stellte laut dem ABC-Bericht in @ Teile der verschneiten Ukraine dar?",
+      "answers": [
+        "Falls Creek in den australischen Alpen",
+        "Whistler in den kanadischen Bergen",
+        "Queenstown in Neuseeland",
+        "Niseko auf der japanischen Insel Hokkaidō"
+      ],
+      "feedback": [
+        "Lee schildert Dreharbeiten in Falls Creek.",
+        "Whistler ist nicht der dokumentierte Drehort.",
+        "Queenstown steht nicht für diese Schneeszenen.",
+        "Niseko war nicht dieser Ersatzschauplatz."
+      ],
+      "short": "Teile der Schneeszenen entstanden in Falls Creek in Australien.",
+      "context": "Der ABC-Bericht verbindet Erinnerungen des Stuntbeteiligten Steve Lee mit der Analyse des Filmkenners Nicholas Langdon. Lee schildert die Dreharbeiten im australischen Falls Creek im Winter 1995. Langdon beschreibt, wie ukrainische Fahnen und kyrillische Beschriftungen den Ort im Film verändern. Der tatsächliche Drehort bleibt für ihn dennoch erkennbar. Die beiden Perspektiven unterscheiden die Produktionserfahrung vom Vergleich zwischen dargestellter und eingesetzter Landschaft.",
+      "anchor": "Australischer Schnee spielte die ukrainische Berglandschaft.",
+      "interest": "Der Teilnehmerbericht erklärt die Herstellung einer Schauplatzillusion.",
+      "sources": [
+        "dreh"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1996",
+        "1994",
+        "1995",
+        "1997"
+      ],
+      "feedback": [
+        "1996 begann der Hongkong-Start.",
+        "1994 liegt zwei Jahre vor dem Erststart.",
+        "1995 ist das Jahr eines Teils der Dreharbeiten.",
+        "1997 bezeichnet den späteren US-Start."
+      ],
+      "short": "First Strike erschien 1996, elf Jahre nach Police Story von 1985.",
+      "context": "Die erste Police Story erschien 1985, First Strike folgte 1996: elf Jahre liegen zwischen dem Beginn der Reihe und dieser international angelegten Fortsetzung. Jackie Chan bleibt ihr Hauptdarsteller, während Stanley Tong die Regie übernimmt. Die Ermittlungen verlassen das vertraute Hongkong. Der amerikanische Start von 1997 gehört zur späteren Verwertung und verschiebt das Erstjahr nicht.",
+      "anchor": "Police Story 1985 → First Strike 1996: elf Jahre.",
+      "interest": "Der Anker verbindet den Ausbau der Reihe mit ihrem Ausgangspunkt.",
+      "sources": [
+        "handlung",
+        "archiv"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Hauptregie?",
+      "answers": [
+        "Stanley Tong",
+        "Gordon Chan",
+        "Benny Chan",
+        "John Woo"
+      ],
+      "feedback": [
+        "Stanley Tong ist der Hauptregisseur.",
+        "Gordon Chan führte hier nicht Hauptregie.",
+        "Benny Chan ist nicht der Hauptregisseur dieser Folge.",
+        "John Woo inszenierte diesen Film nicht."
+      ],
+      "short": "Stanley Tong führte Regie.",
+      "context": "Stanley Tong inszenierte den Film und arbeitete am Drehbuch mit. Jackie Chan spielt den ermittelnden Polizisten, Barbie Tung produzierte. Der zeitgenössische Unternehmensprospekt von STAREASTnet nennt Tong ausdrücklich als Regisseur von First Strike und Rumble in the Bronx. Der Credit wird damit unabhängig von Chans Bekanntheit als Filmemacher bestätigt; Hauptrolle und Hauptregie bleiben getrennte Aufgaben.",
+      "anchor": "Stanley Tong führt Regie, Jackie Chan spielt die Hauptrolle.",
+      "interest": "Ein zeitgenössischer Primärbeleg sichert die Zuständigkeit.",
+      "sources": [
+        "regie",
+        "handlung"
+      ]
+    }
+  ]
+}

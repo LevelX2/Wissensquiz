@@ -1,0 +1,104 @@
+{
+  "rank": 8,
+  "directors": ["Yuen Woo-ping"],
+  "production_countries": ["Hongkong"],
+  "release_note": "Tai Chi Master / Twin Warriors, Hongkong 1993; der Cache nennt den Kinostart am 18. November 1993. BBFC nennt Produktionsjahr 1993 und eine britische Kinoklassifizierung vom 10. Dezember 1993. 88 Films bestätigt Theatrical Release 1993. Gemeint ist der Film mit Jet Li, nicht Tai Chi Zero oder Man of Tai Chi.",
+  "familiarity_reason": "Bekannter Jet-Li-/Michelle-Yeoh-Film innerhalb des Kampfkunstkanons, dessen Handlung einem spezialisierten Publikum vertrauter ist; Bekanntheit 3.",
+  "notes": "Die Figuren haben mehrere Transkriptionsvarianten, darunter Junbao/Jun Bo, Tienbo/Chin Bo und Siu-lin/Qiu Xue. Keine Schreibweise wird selbst abgefragt. Die historische Rahmung im Cache ist nicht widerspruchsfrei und wird deshalb nicht als Epochenziel verwendet. Die außergewöhnliche BBFC-Gesamtlaufzeit von 253 Minuten bezieht sich auf spätere Heimmedieneinträge und wird nicht als Laufzeit des Kinofilms übernommen.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Tai_Chi_Master_(film)",
+    "bbfc": "https://www.bbfc.co.uk/release/the-tai-chi-master-q29sbgvjdglvbjpwwc0zmzu2nzi",
+    "verleih": "https://88-films.myshopify.com/products/the-tai-chi-master",
+    "sony": "https://www.sonypictures.com/movies/crouchingtigerhiddendragon"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Weg schlägt Tienbo (Chin Siu-ho) in @ nach der Zeit im Kloster ein?",
+      "answers": ["Er tritt in die Armee ein", "Er gründet eine eigene Klosterschule", "Er zieht als wandernder Heiler umher", "Er eröffnet einen Handel mit Waffen"],
+      "feedback": ["Tienbo sucht Macht und nimmt die angebotene Stellung in der Armee an.", "Eine eigene Klosterschule eröffnet er nicht.", "Er wird kein wandernder Heiler.", "Ein Waffenhandel ist nicht sein beruflicher Weg."],
+      "short": "Tienbo sucht seinen Aufstieg im Militär.",
+      "context": "Tienbo (Chin Siu-ho) und Junbao (Jet Li) wachsen gemeinsam im Kloster auf, werden aber hinausgeworfen. Draußen erhält Tienbo das Angebot, in die Armee einzutreten, und nimmt es an. Junbao lehnt denselben Weg ab. Ihre unterschiedliche Haltung zu Macht beginnt somit als konkrete Lebensentscheidung. Aus dem früheren gemeinsamen Training entstehen getrennte Loyalitäten, die sich später gegenüber den unterdrückten Bewohnern und den Rebellen nicht mehr miteinander vereinbaren lassen.",
+      "anchor": "Die Armee wird Tienbos Weg zu Macht und Reichtum.",
+      "interest": "Erkennt den frühen Lebensweg, der die Freundschaft verändert.",
+      "sources": ["film", "verleih"]
+    },
+    {
+      "code": "L2",
+      "question": "Wen sucht Siu-lin (Michelle Yeoh) in @, als sie der Gruppe begegnet?",
+      "answers": ["Ihren verschwundenen Ehemann", "Ihren verschollenen Bruder", "Ihren früheren Kampfkunstlehrer", "Ihren vermissten Vater"],
+      "feedback": ["Sie sucht ihren Ehemann und entdeckt dessen neue Verbindung.", "Die Suche gilt keinem Bruder.", "Ein verschwundener Lehrer ist nicht ihr Anlass.", "Ihr Vater ist nicht die gesuchte Person."],
+      "short": "Siu-lin sucht ihren verschwundenen Ehemann.",
+      "context": "Siu-lin (Michelle Yeoh) zieht auf der Suche nach ihrem Ehemann umher. In einer Gaststätte findet sie ihn wieder, doch er ist inzwischen mit der Schwester des Gouverneurs verbunden. Als die Auseinandersetzung eskaliert, schlägt er seine frühere Frau nieder, um der wohlhabenden neuen Partnerin zu gefallen. Junbao (Jet Li) hilft ihr. Ihr Eintritt in die Geschichte verbindet eine persönliche Enttäuschung mit dem Konflikt um Macht und Abhängigkeit.",
+      "anchor": "Die Ehemannsuche führt Siu-lin zur Gruppe.",
+      "interest": "Verankert die Verbündete in einer eigenen persönlichen Vorgeschichte.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M1",
+      "question": "Wie lockt Tienbo (Chin Siu-ho) in @ Junbao (Jet Li) und die Rebellen in einen Hinterhalt?",
+      "answers": ["Er nennt einen angeblich günstigen Zeitpunkt für den Lagerangriff", "Er verspricht die kampflose Freilassung aller gefangenen Rebellen", "Er bietet eine geheime Unterredung mit dem Gouverneur an", "Er weist ihnen einen angeblich unbewachten Fluchttunnel"],
+      "feedback": ["Falsche Informationen über die Patrouillen sollen den Angriff günstig erscheinen lassen.", "Eine zugesagte Gefangenenfreilassung ist nicht der Köder.", "Eine Unterredung ist nicht der Anlass des geplanten Angriffs.", "Ein Fluchttunnel bildet nicht die Täuschung."],
+      "short": "Falsche Patrouilleninformationen machen den Lagerangriff zur Falle.",
+      "context": "Tienbo (Chin Siu-ho) kennt das Versteck der Rebellen und nutzt das Wissen für seinen Aufstieg. Er nennt Junbao (Jet Li) einen angeblich günstigen Zeitpunkt, an dem die Armee auf Patrouille sei. Die versammelten Rebellen greifen daraufhin an und laufen in die vorbereitete Falle. Viele sterben, andere werden gefangen. Die vertraute Beziehung der beiden Freunde wird so zum Übertragungsweg einer militärischen Täuschung, deren Folgen die ganze Gruppe treffen.",
+      "anchor": "Der vermeintliche Hinweis auf eine Gelegenheit ist die Vorbereitung des Hinterhalts.",
+      "interest": "Erklärt den konkreten Mechanismus des Verrats.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M2",
+      "question": "Welches Instrument spielt Siu-lin (Michelle Yeoh) in @, um während ihrer Suche Geld zu verdienen?",
+      "answers": ["Eine Sanxian-Laute", "Eine Erhu-Geige", "Eine Dizi-Flöte", "Eine Yangqin-Zither"],
+      "feedback": ["Sie spielt eine Sanxian, die sie als Hochzeitsgeschenk erhalten hat.", "Die Erhu ist nicht ihr gezeigtes Instrument.", "Eine Dizi-Flöte verwendet sie nicht für diesen Lebensunterhalt.", "Eine Yangqin-Zither ist nicht das Instrument ihrer Darbietung."],
+      "short": "Siu-lin verdient ihren Unterhalt mit einer Sanxian.",
+      "context": "Siu-lin (Michelle Yeoh) besitzt eine Sanxian, eine chinesische Langhalslaute. Ihr Ehemann hat sie ihr zur Hochzeit geschenkt. Nun verdient sie mit dem Instrument ihren Lebensunterhalt, während sie nach ihm sucht. Der Gegenstand trägt damit zwei Funktionen: Er bewahrt eine Erinnerung an die Beziehung und ermöglicht zugleich ihr selbstständiges Überleben. Die musikalische Darbietung bringt sie in den öffentlichen Raum der Gaststätte, in dem die verschiedenen Handlungswege zusammenlaufen.",
+      "anchor": "Die Sanxian ist Hochzeitsgeschenk und Mittel des Lebensunterhalts.",
+      "interest": "Verbindet ein konkretes Musikinstrument mit der persönlichen Geschichte der Figur.",
+      "sources": ["film"]
+    },
+    {
+      "code": "S1",
+      "question": "Wohin bringt Junbao (Jet Li) in @ nach dem letzten Kampf Tienbos (Chin Siu-ho) Asche?",
+      "answers": ["Zurück zum Shaolin-Kloster", "In seine neue Schule im Wudang-Gebirge", "Zum Amtssitz des Gouverneurs", "Zur Gaststätte der früheren Rebellen"],
+      "feedback": ["Er bringt die Asche an den Ort ihrer gemeinsamen Ausbildung zurück.", "Wudang wird später sein eigener Wirkungsort, ist aber nicht dieses Ziel.", "Der Amtssitz erhält die Asche nicht.", "Die Gaststätte ist nicht ihr Bestimmungsort."],
+      "short": "Junbao bringt Tienbos Asche zum Shaolin-Kloster zurück.",
+      "context": "Tienbo (Chin Siu-ho) stirbt nach dem letzten Kampf gegen Junbao (Jet Li). Junbao bringt seine Asche zum Shaolin-Kloster, dem Ort ihrer gemeinsamen Jugend, zurück. Erst danach begründet er seine eigene Schule im Wudang-Gebirge. Der Rückweg bewahrt eine frühere Verbindung trotz des Verrats und der tödlichen Auseinandersetzung. Das Ende besteht deshalb nicht nur aus einem Sieg: Es führt auch zu den Anfängen der zerstörten Freundschaft zurück.",
+      "anchor": "Die Asche kehrt an den gemeinsamen Ausbildungsort zurück.",
+      "interest": "Erkennt einen konkreten Akt nach dem Sieg und trennt ihn vom neuen Schulort.",
+      "sources": ["film"]
+    },
+    {
+      "code": "S2",
+      "question": "Wen nehmen Junbao (Jet Li) und Siu-lin (Michelle Yeoh) in @ vor ihrer Rückkehr ins Armeelager als Geisel?",
+      "answers": ["Den Gouverneur", "Die Schwester des Gouverneurs", "Den obersten Armeekommandeur", "Einen kaiserlichen Steuereintreiber"],
+      "feedback": ["Sie fangen den Gouverneur auf seiner Reise ab.", "Seine Schwester wird bekämpft, ist aber nicht diese Geisel.", "Ein Armeekommandeur wird nicht als Druckmittel mitgebracht.", "Ein Steuereintreiber ist nicht die entführte Person."],
+      "short": "Die Verbündeten nutzen den gefangenen Gouverneur als Druckmittel.",
+      "context": "Junbao (Jet Li) und Siu-lin (Michelle Yeoh) fangen den Gouverneur Liu Jin (Sun Jian-kui) auf dessen Reise zum Kaiser ab. Sie überwinden die Eskorte und bringen ihn als Geisel zum Armeelager. Damit wollen sie dem Machtapparat mit einem eigenen Druckmittel begegnen. Tienbo (Chin Siu-ho) zerstört diese Voraussetzung später selbst, indem er den Gouverneur tötet und nach der Kontrolle über die Soldaten greift.",
+      "anchor": "Die Geisel stammt aus der Spitze des gegnerischen Machtapparats.",
+      "interest": "Fragt nach dem konkreten Druckmittel vor der letzten Konfrontation.",
+      "sources": ["film"]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Jet Li und Michelle Yeoh erstmals veröffentlicht?",
+      "answers": ["1993", "1990", "1995", "1998"],
+      "feedback": ["Hongkonger Kinostart und britischer Kinoeintrag bestätigen 1993.", "1990 liegt vor dieser Veröffentlichung.", "1995 ist nicht das Erstjahr dieses Films.", "1998 gehört zu einer späteren Phase von Jet Lis Karriere."],
+      "short": "1993 Tai Chi, 2000 Crouching Tiger, Hidden Dragon: sieben Jahre Abstand.",
+      "context": "Tai Chi erschien 1993. Sieben Jahre später, 2000, war Michelle Yeoh in Crouching Tiger, Hidden Dragon erneut an einem großen Kampfkunstfilm beteiligt. Sony nennt dort Yuen Woo-ping für die Kampfchoreografie; bei Tai Chi hatte er die Hauptregie übernommen. Der konkrete Abstand verbindet somit zwei Werke über einen gemeinsamen Star und verschiedene Aufgaben desselben Filmgestalters. Er hilft, die frühere Hongkonger Produktion von dem späteren internationalen Erfolg zeitlich zu unterscheiden.",
+      "anchor": "1993 Tai Chi, 2000 Crouching Tiger: sieben Jahre Abstand.",
+      "interest": "Verbindet das Erstjahr mit einem späteren Werk und präzise unterschiedenen Funktionen.",
+      "sources": ["film", "bbfc", "verleih", "sony"]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Jet Li und Michelle Yeoh Hauptregie?",
+      "answers": ["Yuen Woo-ping", "Jet Li", "Gordon Chan", "Ching Siu-tung"],
+      "feedback": ["Die BBFC nennt Yuen Woo-ping als Regisseur.", "Jet Li spielte die Hauptrolle und produzierte, führte aber nicht Hauptregie.", "Gordon Chan hat diesen Hauptregiecredit nicht.", "Ching Siu-tung inszenierte diesen Film nicht."],
+      "short": "Yuen Woo-ping inszenierte Tai Chi.",
+      "context": "Yuen Woo-ping führte Regie, während Jet Li neben der Hauptrolle als Produzent beteiligt war. Die BBFC bestätigt den Regiecredit für die Kinofassung von 1993. Der Film stellt zwei gemeinsam ausgebildete Freunde auf gegensätzliche Wege und lässt ihren Konflikt in aufwendigen Kämpfen sichtbar werden. Die Nennung des Produzenten als Star erklärt eine enge Beteiligung an der Produktion, macht ihn aber nicht zum zweiten Hauptregisseur.",
+      "anchor": "Hauptregie Yuen Woo-ping; Jet Li: Hauptrolle und Produktion.",
+      "interest": "Trennt den Regisseur von einem stark beteiligten Produzenten und Star.",
+      "sources": ["bbfc", "film", "verleih"]
+    }
+  ]
+}

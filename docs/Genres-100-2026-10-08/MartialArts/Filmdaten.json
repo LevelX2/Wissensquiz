@@ -1,0 +1,1026 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "as_of": "2026-10-08",
+  "integration_route": "explicit_csv_year_and_director",
+  "films": [
+    {
+      "rank": 1,
+      "film_title_de": "Die Todesfaust des Cheng Li",
+      "film_title_original": "Tang shan da xiong",
+      "film_year": 1971,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bruce Lees Durchbruch gehört zum Kern des Kampfkunstkinos und ist über ein enges Wuxia-Publikum hinaus bekannt; Bekanntheit 2.",
+      "directors": ["Lo Wei"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Originalveröffentlichung in Hongkong am 23. Oktober 1971 laut Filmquelle; Criterion bestätigt Hongkong 1971. Bezug ist der erste Film mit Bruce Lee als Cheng Chao-an, nicht die späteren Fortsetzungen oder US-Titelverwechslungen mit Fist of Fury.",
+      "director_note": "Criterion nennt im Hauptregiecredit ausschließlich Lo Wei. Der Wikipedia-Infokasten nennt zusätzlich Wu Chia-hsiang; der Produktionsabschnitt erläutert, dass Wu früh abgelöst wurde. Dieser historische Regiewechsel wird nicht als gemeinsamer Hauptregiecredit übernommen. Die Frage verlangt ausdrücklich den bei Criterion ausgewiesenen Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Boss",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/29553-the-big-boss",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "folge",
+          "url": "https://www.criterion.com/films/29556-fist-of-fury",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-001-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-001-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-001-D"
+    },
+    {
+      "rank": 2,
+      "film_title_de": "Das Schwert der gelben Tigerin",
+      "film_title_original": "Da zui xia",
+      "film_year": 1966,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Zentraler Wuxia-Klassiker mit großer filmhistorischer Wirkung, aber für ein breites Publikum weniger selbstverständlich bekannt; Bekanntheit 3.",
+      "directors": ["King Hu"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Originalveröffentlichung 7. April 1966 laut Filmquelle; Arrow bestätigt das Erstjahr 1966. Gefragt ist King Hus Shaw-Brothers-Film mit Cheng Pei-pei, nicht Golden Swallow von 1968.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Come_Drink_with_Me",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "arrow",
+          "url": "https://www.arrowvideo.com/p/come-drink-with-me-blu-ray/13510132/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv_presskit",
+          "url": "https://cdn.festival-cannes.com/media/uploads/2023/03/17533.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-002-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-002-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-002-D"
+    },
+    {
+      "rank": 3,
+      "film_title_de": "Ein Hauch von Zen",
+      "film_title_original": "Xia nü",
+      "film_year": 1970,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "International bedeutender King-Hu-Klassiker, dessen Langfassung und filmhistorischer Rang einem spezialisierten Publikum besonders vertraut sind; Bekanntheit 3.",
+      "directors": ["King Hu"],
+      "production_countries": ["Taiwan"],
+      "country_note": "Golden Horse, BFI und Criterion-FilmInfo führen Taiwan. Wikipedia und ein Criterion-Streaming-Eintrag nennen zusätzlich Hongkong; übernommen ist die archivgestützte Taiwan-Zuordnung. Die Abweichung bleibt ausdrücklich dokumentiert.",
+      "release_note": "Metadatenjahr 1970 bezieht sich auf den Beginn der ursprünglichen zweiteiligen Veröffentlichung in Taiwan: erster Teil 1970, zweiter Teil 1971. Golden Horse führt 1970. Criterion katalogisiert die zusammenhängende Fassung als 1971; der Criterion-Essay beschreibt die ursprüngliche Zweiteilung. TFAI führt die restaurierte lange Fassung. Das Jahr 1969 in BFI-Zuordnungen ist eine weitere Katalogabweichung und nicht die hier gemeinte Erstveröffentlichung.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/A_Touch_of_Zen",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "goldenhorse",
+          "url": "https://www.goldenhorse.org.tw/film/about/archive/detail/218?ghff_id=212&r=en&search_year=2015",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/4141-a-touch-of-zen-prowling-scheming-flying",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "tfai",
+          "url": "https://www.tfai.org.tw/en/program/movieDetail/2c9580827df82172017e387a10f9008f",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv_presskit",
+          "url": "https://cdn.festival-cannes.com/media/uploads/2023/03/17533.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/28791-a-touch-of-zen",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/7012a6da-fb15-5424-8450-976e7f06a4a9/a-touch-of-zen",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-003-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-003-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-003-D"
+    },
+    {
+      "rank": 4,
+      "film_title_de": "Der einarmige Schwertkämpfer",
+      "film_title_original": "Dubei dao",
+      "film_year": 1967,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Grundlegender Schwertkampfklassiker, dessen genaue Handlung vor allem im spezialisierten Genrekanon bekannt ist; Bekanntheit 3.",
+      "directors": ["Chang Cheh"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Originalfilm von Shaw Brothers, Hongkong 1967; die Filmquelle nennt den Kinostart am 26. Juli 1967. Nicht gemeint sind Return of the One-Armed Swordsman (1969) oder The New One-Armed Swordsman (1971).",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/One-Armed_Swordsman",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "hkfa",
+          "url": "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2020-4-1-11.html",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "folge",
+          "url": "https://www.bbfc.co.uk/release/return-of-the-one-armed-swordsman-q29sbgvjdglvbjpwwc0xmdiynjyx",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-004-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-004-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-004-D"
+    },
+    {
+      "rank": 5,
+      "film_title_de": "Die Herberge zum Drachentor",
+      "film_title_original": "Long men ke zhan",
+      "film_year": 1967,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Prägender Wuxia-Ensemblefilm mit bedeutendem Einfluss; genauer bekannt vor allem einem spezialisierten Publikum; Bekanntheit 3.",
+      "directors": ["King Hu"],
+      "production_countries": ["Taiwan"],
+      "country_note": "",
+      "release_note": "Union-Film-Produktion, Taiwan 1967; Filmarchiv-Presskit und Criterion bestätigen das Originaljahr. Der Cache nennt einen Kinostart im Oktober 1967. Die Cannes-Classics-Vorführung 2014 betrifft die restaurierte Fassung, nicht eine neue Erstveröffentlichung.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dragon_Inn",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/28790-dragon-inn",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/5787-dragon-inn-poised-for-battle",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv_presskit",
+          "url": "https://cdn.festival-cannes.com/media/uploads/2023/03/17533.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-005-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-005-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-005-D"
+    },
+    {
+      "rank": 6,
+      "film_title_de": "Die fünf tödlichen Gifte",
+      "film_title_original": "Wu du",
+      "film_year": 1978,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Kanonischer Shaw-Brothers-Mystery-Kampfkunstfilm, im breiten Publikum weniger bekannt als seine späteren popkulturellen Zitate; Bekanntheit 3.",
+      "directors": ["Chang Cheh"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Das Arrow-Shawscope-Booklet nennt den Originalstart in Hongkong ausdrücklich am 12. August 1978. Gemeint ist The Five Venoms / Five Deadly Venoms, nicht der unter einem ähnlichen Exporttitel vertriebene Crippled Avengers.",
+      "director_note": "Arrow, Shawscope Volume One, gedruckte S.32–33, nennt Directed by Chang Cheh. Liang Ting / Leung Ting steht zusammen mit weiteren Namen unter Martial Arts Instructor. Der Zusatz Action Director im Wikipedia-Infokasten wird nicht als zweiter Hauptregiecredit übernommen.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Five_Deadly_Venoms",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "arrow_booklet",
+          "url": "https://mvd.cloud/press/ARROW/BOOKLETS/48273_7_SHAW_BROTHERS_BOOK_INNER_PAGES_WATERMARKED.pdf",
+          "supports": "Shawscope Volume One, gedruckte S.32–33: Cast, Hauptregie, Kampfgestaltung, Originalstart, offizielle Synopsis; S.33: Wu-Tang-Album und Dialogsamples.",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "celestial",
+          "url": "https://www.shawbrothersuniverse.com/the-venom-inside-nihilism-and-hope-in-the-five-venoms",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-006-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-006-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-006-D"
+    },
+    {
+      "rank": 7,
+      "film_title_de": "Meister aller Klassen",
+      "film_title_original": "The Young Master",
+      "film_year": 1980,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Früher wichtiger Jackie-Chan-Film, dessen deutscher Titel und genaue Handlung eher dem spezialisierten Publikum vertraut sind; Bekanntheit 3.",
+      "directors": ["Jackie Chan"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "The Young Master, Originaljahr 1980; Filmquelle nennt den Hongkonger Start am 9. Februar 1980, Criterion bestätigt Hongkong 1980. Meister aller Klassen wird eindeutig diesem Film zugeordnet und nicht späteren Chan-Filmen mit ähnlichen deutschen Titeln.",
+      "director_note": "Criterion nennt Jackie Chan als Hauptregisseur und unter Martial-arts directors Jackie Chan sowie Fung Hak-on. Der gemeinsame Kampfgestaltungscredit ist kein gemeinsamer Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Young_Master",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/29547",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vorgaenger",
+          "url": "https://www.criterion.com/films/29551-the-fearless-hyena",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "verwechslung",
+          "url": "https://kungfukingdom.com/the-young-master-movie-review/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-007-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-007-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-007-D"
+    },
+    {
+      "rank": 8,
+      "film_title_de": "Tai Chi",
+      "film_title_original": "Tai ji Zhang San Feng",
+      "film_year": 1993,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannter Jet-Li-/Michelle-Yeoh-Film innerhalb des Kampfkunstkanons, dessen Handlung einem spezialisierten Publikum vertrauter ist; Bekanntheit 3.",
+      "directors": ["Yuen Woo-ping"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Tai Chi Master / Twin Warriors, Hongkong 1993; der Cache nennt den Kinostart am 18. November 1993. BBFC nennt Produktionsjahr 1993 und eine britische Kinoklassifizierung vom 10. Dezember 1993. 88 Films bestätigt Theatrical Release 1993. Gemeint ist der Film mit Jet Li, nicht Tai Chi Zero oder Man of Tai Chi.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Tai_Chi_Master_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bbfc",
+          "url": "https://www.bbfc.co.uk/release/the-tai-chi-master-q29sbgvjdglvbjpwwc0zmzu2nzi",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "verleih",
+          "url": "https://88-films.myshopify.com/products/the-tai-chi-master",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/crouchingtigerhiddendragon",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-008-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-008-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-008-D"
+    },
+    {
+      "rank": 9,
+      "film_title_de": "Canton Godfather",
+      "film_title_original": "Miracles",
+      "film_year": 1989,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Eigenständiger, aufwendig gestalteter Chan-Film, dessen zahlreiche Titel und Capra-Bezug eher dem spezialisierten Publikum vertraut sind; Bekanntheit 3.",
+      "directors": ["Jackie Chan"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Miracles / Mr. Canton and Lady Rose, Originaljahr 1989; Hongkonger Kinostart laut Cache am 15. Juni. Criterion und 88 Films bestätigen 1989. Die Fragen beziehen sich auf die lange Hongkong-Fassung, bei 88 Films ca.127 Minuten. 88 Films nennt die Exportfassung mit ca.107 Minuten, der Wikipedia-Bericht nennt 102 Minuten; diese Laufzeitabweichung wird nicht als Wissensziel verwendet.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Miracles_(1989_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterionchannel.com/miracles",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "verleih",
+          "url": "https://88-films.myshopify.com/products/miracles",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi_vorlage",
+          "url": "https://catalog.afi.com/Film/23318-POCKETFUL-OF-MIRACLES",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-009-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-009-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-009-D"
+    },
+    {
+      "rank": 10,
+      "film_title_de": "Jackie Chan’s First Strike",
+      "film_title_original": "Police Story 4: First Strike",
+      "film_year": 1996,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter international vertriebener Jackie-Chan-Film mit Schnee-, Leiter- und Hai-Action, weniger ikonisch als die erste Police Story.",
+      "directors": ["Stanley Tong"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Hongkong-Start am 10. Februar 1996; der US-Start am 10. Januar 1997 betrifft die spätere gekürzte und neu vertonte Fassung.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/First_Strike_(1996_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "regie",
+          "url": "https://www.hkexnews.hk/listedco/listconews/gem/20021019/e_8010pro-20000523.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "dreh",
+          "url": "https://www.abc.net.au/news/2026-07-05/jackie-chan-first-strike-filming-in-falls-creek/106791558",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Jackie-Chan_e.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-010-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-010-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-010-D"
+    },
+    {
+      "rank": 11,
+      "film_title_de": "Twin Dragons",
+      "film_title_original": "Twin Dragons",
+      "film_year": 1992,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Chans Doppelrolle ist im Genre bekannt; Titel und Nebenhandlung richten sich eher an Kenner.",
+      "directors": ["Ringo Lam", "Tsui Hark"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Hongkong-Erststart 15. Januar 1992; US-Neubearbeitung 9. April 1999. Das bei manchen Plattformen genannte Copyright 1991 bezeichnet nicht den Erststart.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Twin_Dragons",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "credits",
+          "url": "https://sede.mcu.gob.es/CatalogoICAA/Peliculas/Detalle?Pelicula=7994740",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "fassung",
+          "url": "https://88-films.myshopify.com/products/twin-dragons",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Jackie-Chan_e.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-011-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-011-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-011-D"
+    },
+    {
+      "rank": 12,
+      "film_title_de": "Dragon Lord",
+      "film_title_original": "Dragon Lord",
+      "film_year": 1982,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein früher Chan-Film für Genrekenner; weniger allgemein bekannt als seine späteren Polizeikomödien.",
+      "directors": ["Jackie Chan"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Hongkong-Erststart 21. Januar 1982.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Dragon_Lord",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.miramax.com/movie/dragon-lord/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "fassung",
+          "url": "https://88-films.myshopify.com/products/dragon-lord-blu-ray",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Jackie-Chan_e.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "fassungsvarianten",
+          "url": "https://88-films.myshopify.com/products/dragon-lord-4k-uhd-deluxe-limited-edition?variant=57499151335805",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-012-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-012-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-012-D"
+    },
+    {
+      "rank": 13,
+      "film_title_de": "Hand of Death",
+      "film_title_original": "Shao Lin men",
+      "film_year": 1976,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Früher John-Woo-Film mit späteren Genregrößen; außerhalb des Fachpublikums wenig bekannt.",
+      "directors": ["John Woo"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Hongkong-Erststart 15. Juli 1976. Countdown in Kung Fu ist ein alternativer Exporttitel.",
+      "director_note": "Arrow ordnet Wu Yu-sheng John Woo, Chen Yuen-lung Jackie Chan und Hung Chin-pao Sammo Hung zu. Sammo Hungs Kampfchoreografie ist kein zusätzlicher Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Hand_of_Death_(1976_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "verleih",
+          "url": "https://www.arrowvideo.com/p/blu-ray/hand-of-death-blu-ray/16583301/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Jackie-Chan_e.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/A_Better_Tomorrow",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-013-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-013-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-013-D"
+    },
+    {
+      "rank": 14,
+      "film_title_de": "The Warlords",
+      "film_title_original": "Tau ming chong",
+      "film_year": 2007,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Prestigefilm mit Jet Li, Andy Lau und Takeshi Kaneshiro; außerhalb des Asia-Filmpublikums weniger verbreitet.",
+      "directors": ["Peter Chan"],
+      "production_countries": ["Hongkong", "China"],
+      "country_note": "",
+      "release_note": "Erster Kinostart in China am 12. Dezember 2007; Media Asia nennt den Hongkong-Start am 13. Dezember 2007.",
+      "director_note": "Media Asia und Magnolia nennen Peter Ho-sun Chan als Hauptregisseur. Raymond Yip erscheint in einzelnen Sekundärkatalogen als Co-Regisseur; daraus wird ohne entsprechenden Hauptcredit kein zusätzlicher Regieeintrag abgeleitet. Ching Siu-tung verantwortet Actionregie.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Warlords",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.mediaasia.com/En/Movies/Info/63/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "verleih",
+          "url": "https://www.magpictures.com/profile.aspx?id=b608fd87-d2fb-4194-a7d6-1f19b4cad751",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/Blood_Brothers_(1973_film)",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-014-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-014-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-014-D"
+    },
+    {
+      "rank": 15,
+      "film_title_de": "Ip Man 3",
+      "film_title_original": "Yip Man 3",
+      "film_year": 2015,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Fortsetzung einer weithin bekannten Reihe, aber Einzelheiten des dritten Teils sind eher Genrekennern vertraut.",
+      "directors": ["Wilson Yip"],
+      "production_countries": ["Hongkong", "China"],
+      "country_note": "Wikipedia nennt nur Hongkong; BFI Statistical Yearbook 2017, Tabelle 5 auf Druckseite 141, führt Ip Man 3 als HKG/CHN und 2015.",
+      "release_note": "Öffentliche Hongkong-Premiere am 16. Dezember 2015; regulärer Hongkong-Kinostart 24. Dezember 2015, US-Start 22. Januar 2016.",
+      "director_note": "Wilson Yip ist Hauptregisseur; Yuen Woo-ping verantwortet die Actioninszenierung.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Ip_Man_3",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://wellgousa.com/films/ip-man-3",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "laender",
+          "url": "https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2017.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.com.au/photos/lynn-yen",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/Ip_Man_2",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-015-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-015-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-015-D"
+    },
+    {
+      "rank": 16,
+      "film_title_de": "Ong Bak 2",
+      "film_title_original": "Ong Bak 2",
+      "film_year": 2008,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannte Fortsetzung mit Tony Jaa, deren historische Handlung weniger präsent ist als der erste Film.",
+      "directors": ["Tony Jaa", "Panna Rittikrai"],
+      "production_countries": ["Thailand"],
+      "country_note": "",
+      "release_note": "Das thailändische Branchenverzeichnis 2008/2009 nennt den Kinostart am 4. Dezember 2008; Wikipedia nennt teils 5. Dezember. Das Erstjahr ist in beiden Fällen 2008. Internationale Festival- und Kinostarts 2009 sind später.",
+      "director_note": "Das thailändische Branchenverzeichnis und TIFF nennen Tony Jaa und Panna Rittikrai als Regisseure. Die kürzere Magnolia-Webangabe nennt nur Tony Jaa. Panom Yeeram ist Tony Jaas bürgerlicher Name, keine zusätzliche Person.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Ong_Bak_2",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "branchenbuch",
+          "url": "https://contentthailand.com/wp-content/uploads/2021/10/Thai-Film-Directory-2008-2009.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "festival",
+          "url": "https://www.tiff08.ca/filmsandschedules/films/ongbak2/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "verleih",
+          "url": "https://www.magpictures.com/profile.aspx?id=397644df-ec18-4eb5-9bb8-13841b08e52e",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-016-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-016-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-016-D"
+    },
+    {
+      "rank": 17,
+      "film_title_de": "Karate Kid",
+      "film_title_original": "The Karate Kid",
+      "film_year": 2010,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 2,
+      "familiarity_reason": "Weithin bekannte Neuverfilmung mit Jaden Smith und Jackie Chan.",
+      "directors": ["Harald Zwart"],
+      "production_countries": ["USA", "China", "Hongkong"],
+      "country_note": "Der AFI-Katalog nennt China, Hong Kong S.A.R. und United States; damit ist die Dreiländerzuordnung USA/China/Hongkong institutionell bestätigt. Die Sony-Webfilmseite enthält keine vollständige Länderaufstellung.",
+      "release_note": "Frühe öffentliche Vorführung in Chicago am 26. Mai 2010 laut zeitgenössischem HollywoodChicago-Bericht. Die Los-Angeles-Premiere folgte am 7. Juni, der reguläre US-Kinostart am 11. Juni 2010. BBFC-Produktionsjahr 2009 ist kein Erststartjahr. Neuverfilmung von 2010; nicht der Film mit Ralph Macchio und Pat Morita von 1984.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Karate_Kid_(2010_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/thekaratekid",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "credits",
+          "url": "https://www.bbfc.co.uk/release/the-karate-kid-q29sbgvjdglvbjpwwc00mjqwmzq",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "fruehe_vorfuehrung",
+          "url": "https://www.hollywoodchicago.com/news/10812/slideshow-red-carpet-premiere-the-karate-kid-jackie-chan-jaden-smith",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://www.sonypictures.com/movies/thekaratekid0",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/66518",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-017-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-017-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-017-D"
+    },
+    {
+      "rank": 18,
+      "film_title_de": "Rush Hour 2",
+      "film_title_original": "Rush Hour 2",
+      "film_year": 2001,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekanntes Jackie-Chan-/Chris-Tucker-Duo und verbreitete Hollywood-Fortsetzung; Bekanntheit 2 unabhängig von Detailfragen.",
+      "directors": ["Brett Ratner"],
+      "production_countries": ["USA"],
+      "country_note": "",
+      "release_note": "2001; AFI dokumentiert den US-Kinostart am 3. August. Der Handlungscache nennt außerdem eine Flugvorführung am 26. Juli 2001; daraus ergibt sich kein anderes Erstjahr.",
+      "director_note": "",
+      "series": {
+        "name": "Rush Hour",
+        "position": 2,
+        "note": "Zweiter Rush-Hour-Kinofilm mit denselben Hauptfiguren wie 1998."
+      },
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rush_Hour_2",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/62178-RUSH-HOUR-2",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://sede.mcu.gob.es/CatalogoICAA/en-us/Peliculas/Detalle?Pelicula=31407",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-018-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-018-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-018-D"
+    },
+    {
+      "rank": 19,
+      "film_title_de": "Rush Hour 3",
+      "film_title_original": "Rush Hour 3",
+      "film_year": 2007,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 2,
+      "familiarity_reason": "Verbreitete Jackie-Chan-/Chris-Tucker-Reihe und markanter Paris-Schauplatz; Bekanntheit 2.",
+      "directors": ["Brett Ratner"],
+      "production_countries": ["USA"],
+      "country_note": "",
+      "release_note": "2007; Getty dokumentiert die Los-Angeles-Premiere am 30. Juli 2007. US-Kinostart laut Handlungscache am 10. August. ICAA nennt 2007 und den späteren spanischen Start am 28. September.",
+      "director_note": "",
+      "series": {
+        "name": "Rush Hour",
+        "position": 3,
+        "note": "Dritter Rush-Hour-Kinofilm; erzählter Abstand zu Teil 2 drei Jahre, realer Veröffentlichungsabstand sechs Jahre."
+      },
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rush_Hour_3",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://sede.mcu.gob.es/CatalogoICAA/en-us/Peliculas/Detalle?Pelicula=31407",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.co.uk/photos/rush-hour-3",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://catalog.afi.com/Film/62178-RUSH-HOUR-2",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-019-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-019-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-019-D"
+    },
+    {
+      "rank": 20,
+      "film_title_de": "Rob-B-Hood",
+      "film_title_original": "Rob-B-Hood",
+      "film_year": 2006,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Jackie Chan ist bekannt, die konkrete Einbrecher-und-Baby-Komödie im deutschsprachigen Raum weniger zentral; Bekanntheit 3.",
+      "directors": ["Benny Chan"],
+      "production_countries": ["Hongkong"],
+      "country_note": "Der Handlungscache ordnet den Film Hongkong zu. Das Hong Kong Film Archive nennt Jackie Chan Emperor und Huayi Brothers als Presenters; Beteiligung eines Festlandunternehmens wird hier nicht ohne ausdrücklichen Ländercredit in ein zusätzliches Produktionsland umgewandelt.",
+      "release_note": "Erstjahr 2006, bestätigt vom Hong Kong Film Archive und der offiziellen Emperor-Auswahl für Venedig 2006. Der Veröffentlichungstext nennt die Weltpremiere am 8. September und den Kinostart am 29. September 2006; der widersprüchliche Infoboxeintrag '2 January 2006 (Venice)' wird verworfen. Eigenständige Handlung. Fassungen mit unterschiedlichen Laufzeiten existieren; kein Laufzeit- oder Schnittdetail wird abgefragt.",
+      "director_note": "Benny Chan ist Hauptregisseur. Emperor nennt für die Action-Choreografie-Nominierung Jackie Chan, Li Chung-chi und das JC Stunt Team; diese Angaben sind kein zusätzlicher Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rob-B-Hood",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.filmarchive.gov.hk/en/web/hkfa/2025/comedy-s/pe-event-2025-comedy-s-fs-film16.html",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.emp.hk/en/production/library/rob-b-hood",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/company-information/media-centre/december2013/121113%20Jackie%20Chan%20to%20attend%20Gala%20Premiere%20of%20POLICE%20STORY%202013%20at%20Marina%20Bay%20Sands.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-020-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-020-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-020-D"
+    },
+    {
+      "rank": 21,
+      "film_title_de": "Police Story: Back for Law",
+      "film_title_original": "Police Story 2013",
+      "film_year": 2013,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Police-Story-Marke und Jackie Chan sind bekannt; dieser ernste Neustart mit eigener Hauptfigur ist weniger geläufig, Bekanntheit 3.",
+      "directors": ["Ding Sheng"],
+      "production_countries": ["China", "Hongkong"],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 2013. Die Veranstalter-Pressemitteilung kündigt eine Gala am 17. Dezember 2013 in Singapur und den asiatischen Kinostart am 24. Dezember an. Der spätere Hongkong-Start am 16. Januar 2014 ist nicht das Erstjahr. Police Story 2013 / Police Story: Lockdown / deutscher Titel Police Story: Back for Law. Eigenständiger Neustart mit Zhong Wen; keine Fortsetzung von Chan Ka-kuis Handlung.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Police_Story_2013",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/company-information/media-centre/december2013/121113%20Jackie%20Chan%20to%20attend%20Gala%20Premiere%20of%20POLICE%20STORY%202013%20at%20Marina%20Bay%20Sands.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.berlinale.de/external/programme/archive/pdf/20106731.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-021-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-021-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-021-D"
+    },
+    {
+      "rank": 22,
+      "film_title_de": "Forbidden Kingdom",
+      "film_title_original": "The Forbidden Kingdom",
+      "film_year": 2008,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte erste gemeinsame große Kinoproduktion von Jackie Chan und Jet Li; Bekanntheit 2.",
+      "directors": ["Rob Minkoff"],
+      "production_countries": ["USA", "China"],
+      "country_note": "",
+      "release_note": "Erstjahr 2008, bestätigt im BFI-Filmregister; der Handlungscache nennt den US-Kinostart am 18. April und den chinesischen Start am 24. April 2008. Eigenständige Fantasygeschichte mit Anleihen an Reise nach Westen; kein Fortsetzungsfilm eines Drunken-Master- oder Once-Upon-a-Time-in-China-Zyklus.",
+      "director_note": "Rob Minkoff führt Hauptregie; Yuen Woo-ping ist für die Action-Choreografie zuständig und wird nicht als weiterer Hauptregisseur ergänzt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Forbidden_Kingdom",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/e51b404a-98f4-5d5b-9694-7e6a71f8e189/the-forbidden-kingdom",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.unifrance.org/film/24103/danny-the-dog",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-022-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-022-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-022-D"
+    },
+    {
+      "rank": 23,
+      "film_title_de": "Unleashed – Entfesselt",
+      "film_title_original": "Unleashed",
+      "film_year": 2005,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Jet-Li-Hauptrolle mit Morgan Freeman und Bob Hoskins, verbreiteter englischsprachiger Actionfilm; Bekanntheit 2.",
+      "directors": ["Louis Leterrier"],
+      "production_countries": ["Frankreich", "Vereinigtes Königreich", "USA"],
+      "country_note": "Der AFI-Katalog nennt United Kingdom, France und United States; diese drei Länder werden übernommen. Unifrance nennt dagegen Royaume-Uni/France mit französischer Mehrheit. Der abweichende Umfang der institutionellen Länderangaben bleibt hier ausdrücklich dokumentiert.",
+      "release_note": "Erstveröffentlichung am 2. Februar 2005 in Frankreich als Danny the Dog, ausdrücklich bei Unifrance belegt. Das dortige Produktionsjahr 2003 wird vom Kinostart 2005 getrennt. Unleashed und Danny the Dog bezeichnen denselben Film; keine Fortsetzung der Transporter-Reihe.",
+      "director_note": "Louis Leterrier ist Hauptregisseur. Luc Besson schrieb und produzierte; Yuen Woo-ping verantwortet die Action-Choreografie.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Unleashed_(2005_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "veroeffentlichung",
+          "url": "https://www.unifrance.org/film/24103/danny-the-dog",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "credits",
+          "url": "https://www.filmfrance.net/films/danny-the-dog/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/63366",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.unifrance.org/film/21516/le-baiser-mortel-du-dragon",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-023-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-023-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-023-D"
+    },
+    {
+      "rank": 24,
+      "film_title_de": "Claws of Steel",
+      "film_title_original": "Wong Fei-hung chi Tit gai dau ng gung",
+      "film_year": 1993,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Jet Li und Wong Fei-hung sind bekannt, diese eigenständige komische Abwandlung unter wechselnden Titeln weniger; Bekanntheit 3.",
+      "directors": ["Wong Jing"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Erstjahr 1993, von den offiziellen Miramax- und 88-Films-Seiten bestätigt; Hongkong-Kinostart laut Handlungscache am 1. April 1993. Spätere DVD-Jahre unter Claws of Steel sind keine Erstveröffentlichung. Last Hero in China / Claws of Steel / Deadly China Hero sind Titel desselben Films. Eigenständige Parodie mit Wong Fei-hung, kein regulär nummerierter Teil der Once-Upon-a-Time-in-China-Reihe.",
+      "director_note": "Hauptregie Wong Jing. Das Sony-Classics-Presseheft zu CJ7 nennt Last Hero in China (1993) unter Connie Wongs Zusammenarbeit mit Regisseur Wong Jing. Yuen Woo-pings Action-Choreografie wird getrennt behandelt; abweichende Datenbankzusammenfassungen mit zwei Regienamen werden nicht ungeprüft übernommen.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Last_Hero_in_China",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.miramax.com/movie/claws-of-steel-wong-fei-hung-chi-tit-gai-dau-neung-gung/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "veroeffentlichung",
+          "url": "https://88-films.myshopify.com/products/last-hero-in-china",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "credits",
+          "url": "https://www.sonyclassics.com/cj7/externalLoads/cj7_presskit.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "gegenlekture",
+          "url": "https://blueprintreview.co.uk/2023/11/last-hero-in-china-88-films/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.miramax.com/movie/thunderbolt/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-024-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-024-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-024-D"
+    },
+    {
+      "rank": 25,
+      "film_title_de": "Thunderbolt",
+      "film_title_original": "Thunderbolt",
+      "film_year": 1995,
+      "subdomain": "Martial Arts & Asia-Film",
+      "familiarity_level": 3,
+      "familiarity_reason": "Jackie Chans Rennsportfilm ist unter Genrekennern geläufig, im allgemeinen Publikum weniger zentral; Bekanntheit 3.",
+      "directors": ["Gordon Chan"],
+      "production_countries": ["Hongkong"],
+      "country_note": "",
+      "release_note": "Erstjahr 1995, bestätigt vom offiziellen Miramax-Eintrag. Der Handlungscache nennt den Hongkong-Kinostart am 1. September 1995. Auch unter Dead Heat ausgewertet. Chan Foh To heißt in der amerikanischen Fassung Alfred Tung; die Fragen verwenden konsistent den ursprünglichen Figurennamen. Kein Zusammenhang mit anderen gleichnamigen Thunderbolt-Filmen.",
+      "director_note": "Gordon Chan ist Hauptregisseur. Jackie Chan und Sammo Hung werden im Handlungscache als Action Directors genannt; deren Actionarbeit begründet hier keinen weiteren Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Thunderbolt_(1995_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.miramax.com/movie/thunderbolt/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.filmarchive.gov.hk/en/web/hkfa/2025/comedy-s/pe-event-2025-comedy-s-fs-film16.html",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-MARTIALARTS-025-L1",
+      "year_question_id": "G100-20261008-MARTIALARTS-025-Y",
+      "director_question_id": "G100-20261008-MARTIALARTS-025-D"
+    }
+  ]
+}

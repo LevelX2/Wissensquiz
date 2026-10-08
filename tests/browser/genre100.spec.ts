@@ -146,6 +146,50 @@ test("enthält 100 Thrillerfilme, erhält die bestehende Wissenszielidentität u
   expect((await readStoredState(page)).questions).toEqual(initial.questions);
 });
 
+test("enthält 100 Martial-Arts-Filme, unterscheidet die zweiteilige Erstveröffentlichung und lädt das Paket offline", async ({
+  page,
+  context,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-08T12:00:00+02:00") });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const initial = await readStoredState(page);
+  const martial = initial.questions.filter(
+    (q) =>
+      questionSourceOf(q) === "film" &&
+      genreOf(q) === "Martial Arts & Asia-Film",
+  );
+  expect(new Set(martial.map(filmIdentity)).size).toBe(100);
+  expect(martial).toHaveLength(830);
+  const year = initial.questions.find(
+    (q) => q.id === "G100-20261008-MARTIALARTS-003-Y",
+  )!;
+  expect(year.metadata.film_year).toBe("1970");
+  await prepareQuestion(page, year.id);
+  await expect(page.locator(".question-card h1")).not.toContainText("1970");
+  await expect(page.locator(".film-data")).toHaveCount(0);
+  await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
+  await page.locator(".film-data > summary").click();
+  await expect(page.locator(".film-data")).toContainText("1970");
+  await expect(page.locator(".film-data")).toContainText("1971");
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(
+    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
+      exact: false,
+    }),
+  ).toBeVisible();
+  await context.setOffline(true);
+  await page.reload();
+  expect(
+    await page.evaluate(async () =>
+      (await fetch("/genre100-martialarts-fragen.csv")).text(),
+    ),
+  ).toBe(readFileSync("public/genre100-martialarts-fragen.csv", "utf8"));
+  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+});
+
 test("enthält 100 Actionfilme, trennt Hauptregie und zweite Einheit und lädt das Paket offline", async ({
   page,
   context,

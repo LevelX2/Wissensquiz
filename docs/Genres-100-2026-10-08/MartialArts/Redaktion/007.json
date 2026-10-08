@@ -1,0 +1,210 @@
+{
+  "rank": 7,
+  "directors": [
+    "Jackie Chan"
+  ],
+  "production_countries": [
+    "Hongkong"
+  ],
+  "release_note": "The Young Master, Originaljahr 1980; Filmquelle nennt den Hongkonger Start am 9. Februar 1980, Criterion bestätigt Hongkong 1980. Meister aller Klassen wird eindeutig diesem Film zugeordnet und nicht späteren Chan-Filmen mit ähnlichen deutschen Titeln.",
+  "director_note": "Criterion nennt Jackie Chan als Hauptregisseur und unter Martial-arts directors Jackie Chan sowie Fung Hak-on. Der gemeinsame Kampfgestaltungscredit ist kein gemeinsamer Hauptregiecredit.",
+  "familiarity_reason": "Früher wichtiger Jackie-Chan-Film, dessen deutscher Titel und genaue Handlung eher dem spezialisierten Publikum vertraut sind; Bekanntheit 3.",
+  "notes": "Die Rollennamen variieren: Dragon/Lung, Tiger/Keung, Sang/Sam Kung und Kam/Kim. Die Fragen nutzen die im Cache gebräuchlichen Varianten, ohne ihre Schreibweisen abzufragen. Wei Pai wird auch Wai Pak geschrieben.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Young_Master",
+    "criterion": "https://www.criterion.com/films/29547",
+    "vorgaenger": "https://www.criterion.com/films/29551-the-fearless-hyena",
+    "verwechslung": "https://kungfukingdom.com/the-young-master-movie-review/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "An welchem Wettbewerb nimmt Dragons (Jackie Chan) Schule zu Beginn von @ teil?",
+      "answers": [
+        "An einem Löwentanz-Wettbewerb",
+        "An einem Schwertkampf-Turnier",
+        "An einem Bogenschieß-Wettkampf",
+        "An einem Ringkampf-Turnier"
+      ],
+      "feedback": [
+        "Die Schule tritt im Löwentanz gegen eine Konkurrenzschule an.",
+        "Ein Schwertkampf-Turnier ist nicht der Auftakt.",
+        "Bogenschießen bildet nicht diesen Wettbewerb.",
+        "Ein Ringkampf-Turnier eröffnet den Film nicht."
+      ],
+      "short": "Die Schule braucht einen Sieg im Löwentanz-Wettbewerb.",
+      "context": "Dragons (Jackie Chan) Schule tritt gegen eine andere Schule im Löwentanz an. Das Preisgeld wird benötigt, um den Betrieb weiterführen zu können. Als der vorgesehene Teilnehmer ausfällt, muss Dragon einspringen. Der Wettbewerb ist damit zugleich eine körperlich anspruchsvolle Darbietung und eine wirtschaftliche Bewährungsprobe für die Gemeinschaft. Die erste große Auseinandersetzung findet innerhalb eines geregelten Festereignisses statt, bevor sich die Geschichte auf die Verfolgung von Verbrechern verlagert.",
+      "anchor": "Das Löwentanz-Preisgeld soll die Schule retten.",
+      "interest": "Erkennt den konkreten Auftakt und seine Bedeutung für die Gemeinschaft.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wofür hält Polizeichef Sang Kung (Shih Kien) Dragon (Jackie Chan) in @ zunächst irrtümlich?",
+      "answers": [
+        "Für den gesuchten Verbrecher White Fan (Wei Pai)",
+        "Für den entflohenen Kam (Hwang In-shik)",
+        "Für einen gesuchten Bankräuber aus einer anderen Bande",
+        "Für einen Spion der rivalisierenden Schule"
+      ],
+      "feedback": [
+        "Sang Kung verwechselt ihn mit dem gesuchten White Fan.",
+        "Sang Kung hält Dragon nicht für Kam.",
+        "Die konkrete Verwechslung betrifft White Fan, keinen anderen Bankräuber.",
+        "Eine angenommene Spionagerolle ist nicht diese Verwechslung."
+      ],
+      "short": "Dragon wird für den Verbrecher White Fan gehalten.",
+      "context": "Dragon (Jackie Chan) verlässt seine Schule, um seinen Bruder zu finden und zurückzubringen. Unterwegs hält Polizeichef Sang Kung (Shih Kien) ihn für den gesuchten White Fan (Wei Pai), hinter dem sein Bruder steckt. Auch die Kinder des Polizisten beteiligen sich an der Verfolgung. Aus einer persönlichen Suchmission wird damit ein Konflikt mit der Ordnungsmacht. Der Held muss nicht nur seine eigentliche Aufgabe lösen, sondern auch die falsche Identität überwinden, die andere ihm zuschreiben.",
+      "anchor": "Eine Verwechslung macht Dragon selbst zum vermeintlich Gesuchten.",
+      "interest": "Verbindet die Reise mit einem konkreten zusätzlichen Hindernis.",
+      "sources": [
+        "film",
+        "criterion",
+        "verwechslung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum täuscht Tiger (Wei Pai) in @ seine Verletzung vor dem Wettbewerb vor?",
+      "answers": [
+        "Er will für die rivalisierende Schule antreten",
+        "Er will Dragon (Jackie Chan) beim Gewinnen des Preisgeldes helfen",
+        "Er will den Meister vor einer Sabotage warnen",
+        "Er will heimlich zu einem anderen Turnier reisen"
+      ],
+      "feedback": [
+        "Tiger tritt tatsächlich auf der Seite der Konkurrenz an.",
+        "Er erleichtert Dragon nicht aus Loyalität den Sieg.",
+        "Eine Warnung an den Meister ist nicht sein Ziel.",
+        "Er verlässt den Wettbewerb nicht für ein anderes Turnier."
+      ],
+      "short": "Tigers scheinbarer Unfall verdeckt seinen Wechsel zur Gegenseite.",
+      "context": "Tiger (Wei Pai) scheint nach einem Sturz von der Leiter verletzt und überlässt Dragon (Jackie Chan) seinen Platz beim Löwentanz. Während des Wettbewerbs erkennt Dragon jedoch, dass der Bruder auf der Seite der Konkurrenz antritt. Der Ausfall war nur vorgetäuscht. Nach der Niederlage wird Tiger aus der Schule ausgestoßen. Die Täuschung richtet sich gegen seine eigene Gemeinschaft und macht Dragons spätere Suche zugleich zu einem Versuch, diesen Bruch zu heilen.",
+      "anchor": "Der vorgetäuschte Unfall ermöglicht den Seitenwechsel im Löwentanz.",
+      "interest": "Erklärt den konkreten Verrat hinter einem zunächst gewöhnlichen Ausfall.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum verspricht Dragon (Jackie Chan) in @, den entflohenen Kam (Hwang In-shik) zu fassen?",
+      "answers": [
+        "Um seinen Bruder vor der Verhaftung wegen eines Bankraubs zu bewahren",
+        "Um das verlorene Preisgeld für seine Schule zurückzubekommen",
+        "Um eine Stelle bei der Polizei zu erhalten",
+        "Um den gefangenen Lehrer gegen Kam austauschen zu können"
+      ],
+      "feedback": [
+        "Tiger ist wegen eines Bankraubs belastet; Dragon übernimmt die Jagd zu dessen Schutz.",
+        "Das Löwentanz-Preisgeld ist nicht der Grund dieser Zusage.",
+        "Dragon bewirbt sich dadurch nicht um einen Polizeiposten.",
+        "Ein gefangener Lehrer soll nicht ausgetauscht werden."
+      ],
+      "short": "Dragon übernimmt die Jagd auf Kam, um seinen Bruder zu schützen.",
+      "context": "Tiger (Wei Pai) hat an der Befreiung des gefährlichen Kam (Hwang In-shik) mitgewirkt und wird später für einen Bankraub verantwortlich gemacht. Dragon (Jackie Chan) will seine Verhaftung verhindern und verspricht, Kam selbst festzunehmen. Die Suche nach dem Bruder führt dadurch zur direkten Konfrontation mit einem weit stärkeren Gegner. Familiäre Verantwortung bindet den Helden an eine Aufgabe, deren körperlichen Preis er am Ende deutlich zu tragen hat.",
+      "anchor": "Die Jagd auf Kam wird zur Bedingung für den Schutz des Bruders.",
+      "interest": "Fragt nach dem konkreten Grund für die entscheidende Zusage.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was trinkt Dragon (Jackie Chan) in @ während des letzten Kampfes, bevor er neue Kraft gewinnt?",
+      "answers": [
+        "Wasser aus einer Opiumpfeife",
+        "Wein aus dem Krug eines Bettlers",
+        "Einen Kräutersud aus einer Feldflasche",
+        "Tee aus der Schale eines Mönchs"
+      ],
+      "feedback": [
+        "Ein alter Mann gibt ihm Wasser aus einer Opiumpfeife.",
+        "Wein aus einem Bettlerkrug ist nicht das gezeigte Getränk.",
+        "Er erhält keinen Kräutersud aus einer Feldflasche.",
+        "Die Stärkung kommt nicht aus einer Teeschale."
+      ],
+      "short": "Wasser aus einer Opiumpfeife verändert den Verlauf des letzten Kampfes.",
+      "context": "Kam (Hwang In-shik) setzt Dragon (Jackie Chan) im langen Schlusskampf mit schnellen Schlägen und Tritten stark zu. Ein alter Mann reicht Dragon Wasser aus einer Opiumpfeife. Danach gewinnt er im Film neue Energie und kann den Gegner besiegen. Der Umschwung gehört zur überzeichneten körperlichen Komik dieser Auseinandersetzung. Der zuvor deutlich unterlegene Held setzt sich durch, ohne dass die Geschichte die bereits erlittenen Verletzungen anschließend verschwinden lässt.",
+      "anchor": "Die unerwartete Hilfe des alten Mannes kommt aus einer Opiumpfeife.",
+      "interest": "Erkennt einen ungewöhnlichen, genau bezeichneten Wendepunkt im Kampf.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "In welchem körperlichen Zustand kehrt Dragon (Jackie Chan) am Ende von @ als Held zurück?",
+      "answers": [
+        "In einem Ganzkörpergips",
+        "Mit einem Arm in einer Schlinge",
+        "Mit einem dicken Kopfverband",
+        "Mit Schienen an beiden Unterarmen"
+      ],
+      "feedback": [
+        "Sein Ganzkörpergips macht die Folgen des letzten Kampfes sichtbar.",
+        "Eine einzelne Armschlinge beschreibt die Schlusserscheinung nicht.",
+        "Ein Kopfverband allein beschreibt seine Schlusserscheinung nicht.",
+        "Unterarmschienen allein sind nicht die gezeigte Versorgung."
+      ],
+      "short": "Der erfolgreiche Held kehrt im Ganzkörpergips zurück.",
+      "context": "Dragon (Jackie Chan) besiegt Kam (Hwang In-shik), ist jedoch durch die vielen Treffer schwer verletzt. Seine Rückkehr im Ganzkörpergips bewahrt diese Folgen im komischen Schlussbild. Die Anerkennung als Held lässt seinen Körper nicht plötzlich wieder unversehrt werden. So verbindet der Film den triumphalen Ausgang mit einer sichtbaren Einschränkung. Der Schluss greift damit die Ausdauer des langen Kampfes auf und verwandelt ihren Preis in eine letzte körperliche Pointe.",
+      "anchor": "Der Ganzkörpergips trägt die Kampfverletzungen bis ins Schlussbild.",
+      "interest": "Verbindet ein prägnantes Bild mit den Folgen des Sieges.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ als The Young Master erstmals veröffentlicht?",
+      "answers": [
+        "1980",
+        "1978",
+        "1982",
+        "1984"
+      ],
+      "feedback": [
+        "Criterion und der Hongkonger Kinostart bestätigen 1980.",
+        "1978 liegt vor dieser Veröffentlichung.",
+        "1982 ist nicht das Erstjahr von The Young Master.",
+        "1984 gehört zu einer späteren Phase von Chans Karriere."
+      ],
+      "short": "1979 The Fearless Hyena, 1980 The Young Master: ein Jahr Abstand.",
+      "context": "Meister aller Klassen ist The Young Master von 1980. Bereits 1979 hatte Jackie Chan mit The Fearless Hyena sein Regiedebüt gegeben, also ein Jahr früher. Criterion führt beide Werke mit diesen Jahren und beschreibt den ersten Film ausdrücklich als Beginn seiner Regiearbeit. Der Abstand ordnet The Young Master in die frühe Phase ein, in der Chan Hauptrolle, Kampfgestaltung und Inszenierung selbst miteinander verband, statt nur als Darsteller aufzutreten.",
+      "anchor": "1979 Regiedebüt, 1980 The Young Master: ein Jahr Abstand.",
+      "interest": "Trennt den zweiten wichtigen Regiefilm vom tatsächlich früheren Debüt.",
+      "sources": [
+        "criterion",
+        "film",
+        "vorgaenger"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ als The Young Master mit Yuen Biao Regie?",
+      "answers": [
+        "Jackie Chan",
+        "Sammo Hung",
+        "Yuen Woo-ping",
+        "Lo Wei"
+      ],
+      "feedback": [
+        "Criterion nennt Jackie Chan als Hauptregisseur.",
+        "Sammo Hung trägt nicht den Hauptregiecredit dieses Films.",
+        "Yuen Woo-ping ist nicht sein Hauptregisseur.",
+        "Lo Wei führte bei dieser Produktion nicht Regie."
+      ],
+      "short": "Jackie Chan inszenierte The Young Master.",
+      "context": "Jackie Chan übernahm neben der Hauptrolle auch die Regie. Criterion führt ihn außerdem gemeinsam mit Fung Hak-on bei der Kampfgestaltung auf. Der Film verbindet eine aufwendige Löwentanz-Darbietung, komische Verfolgungen und den langen Zweikampf mit Hwang In-shik. Chans Gestaltung richtet die Komik immer wieder auf einen Körper, der außergewöhnlich beweglich, aber auch verletzbar ist. Hauptregie und gemeinsamer Action-Credit bezeichnen dabei zwei verschiedene Verantwortungsbereiche.",
+      "anchor": "Jackie Chan: Hauptregie; Jackie Chan und Fung Hak-on: Kampfgestaltung.",
+      "interest": "Ordnet die eigene Inszenierung von der gemeinsam ausgeführten Kampfgestaltung getrennt ein.",
+      "sources": [
+        "criterion",
+        "film"
+      ]
+    }
+  ]
+}

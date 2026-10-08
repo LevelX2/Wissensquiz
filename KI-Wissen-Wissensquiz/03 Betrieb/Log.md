@@ -1002,3 +1002,7 @@ Nutzerauftrag: alle neun Genres unter 100 Filmen sequenziell erweitern, beginnen
 ## 08.10.2026 – Genreausbau Action
 
 25 neue Filmfassungen und 200 individuelle Fragen, nun 100 Action-Filme / 828 Fragen. Gesamtkatalog 27 Pakete / 11.629 Fragen / 11.066 Ziele. 386 Logiktests, TypeScript/Build und acht Browserfälle in Chromium/Firefox erfolgreich. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](../../docs/Genres-100-2026-10-08/Action/Pruefbericht.md).
+
+## 08.10.2026 – Genreausbau Martial Arts & Asia-Film
+
+25 neue Filmfassungen und 200 individuelle Fragen, nun 100 Martial Arts & Asia-Film-Filme / 830 Fragen. Gesamtkatalog 28 Pakete / 11.829 Fragen / 11.266 Ziele. 387 Logiktests, Produktionsbuild und neun Browserfälle bestanden. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](../../docs/Genres-100-2026-10-08/MartialArts/Pruefbericht.md).

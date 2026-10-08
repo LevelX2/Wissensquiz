@@ -1,0 +1,206 @@
+{
+  "rank": 21,
+  "directors": [
+    "Ding Sheng"
+  ],
+  "production_countries": [
+    "China",
+    "Hongkong"
+  ],
+  "release_note": "Erstveröffentlichung 2013. Die Veranstalter-Pressemitteilung kündigt eine Gala am 17. Dezember 2013 in Singapur und den asiatischen Kinostart am 24. Dezember an. Der spätere Hongkong-Start am 16. Januar 2014 ist nicht das Erstjahr. Police Story 2013 / Police Story: Lockdown / deutscher Titel Police Story: Back for Law. Eigenständiger Neustart mit Zhong Wen; keine Fortsetzung von Chan Ka-kuis Handlung.",
+  "familiarity_reason": "Die Police-Story-Marke und Jackie Chan sind bekannt; dieser ernste Neustart mit eigener Hauptfigur ist weniger geläufig, Bekanntheit 3.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Police_Story_2013",
+    "premiere": "https://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/company-information/media-centre/december2013/121113%20Jackie%20Chan%20to%20attend%20Gala%20Premiere%20of%20POLICE%20STORY%202013%20at%20Marina%20Bay%20Sands.pdf",
+    "vergleich": "https://www.berlinale.de/external/programme/archive/pdf/20106731.pdf"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wen besucht Zhong Wen (Jackie Chan) zu Beginn von @ im Nachtclub?",
+      "answers": [
+        "Seine Tochter",
+        "Seinen Bruder",
+        "Seinen ehemaligen Partner",
+        "Seinen Vorgesetzten"
+      ],
+      "feedback": [
+        "Er sucht seine entfremdete Tochter Miao Miao auf.",
+        "Ein Bruder ist nicht der Anlass des Besuchs.",
+        "Ein früherer Partner ist nicht die gesuchte Person.",
+        "Der Besuch gilt nicht seinem Vorgesetzten."
+      ],
+      "short": "Zhong Wen besucht seine Tochter Miao Miao.",
+      "context": "Zhong Wen (Jackie Chan) geht in den Club, um seine Tochter Miao Miao (Jing Tian) zu sehen. Ihr Verhältnis ist angespannt, und ihre Beziehung zum Besitzer Wu Jiang (Liu Ye) verschärft den Konflikt. Der Besuch beginnt somit als familiäre Auseinandersetzung. Erst danach erkennt der Polizist, dass hinter der Begegnung ein Plan steckt, der ihn und andere Gäste in Gefahr bringt.",
+      "anchor": "Der Familienbesuch wird zum Ausgangspunkt einer vorbereiteten Falle.",
+      "interest": "Die persönliche Ausgangslage erschließt die zentrale Beziehung ohne Spezialwissen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Lage bestimmt den größten Teil von @?",
+      "answers": [
+        "Besucher werden in einem Nachtclub als Geiseln festgehalten.",
+        "Passagiere werden in einem Linienflugzeug entführt.",
+        "Mitarbeiter werden in einer Bank eingeschlossen.",
+        "Touristen werden auf einer Fähre bedroht."
+      ],
+      "feedback": [
+        "Wu Jiang hält die Gäste seines Clubs gefangen.",
+        "Die Hauptsituation spielt nicht in einem Linienflugzeug.",
+        "Eine Bank ist nicht der zentrale Geiselort.",
+        "Eine Fähre bildet nicht den Schauplatz der Einschließung."
+      ],
+      "short": "Die Handlung konzentriert sich auf eine Geiselnahme im Nachtclub.",
+      "context": "Zhong Wen (Jackie Chan) kommt nach einem Schlag auf den Kopf gefesselt wieder zu sich. Wu Jiang (Liu Ye) hat auch die übrigen Clubbesucher und Miao Miao (Jing Tian) in seiner Gewalt. Der begrenzte Schauplatz zwingt den Polizisten, Wege durch das Gebäude zu suchen und zugleich mit dem Täter zu verhandeln. Die Gefahr entsteht aus der Kontrolle eines vorbereiteten Raums.",
+      "anchor": "Ein Nachtclub wird zur kontrollierten Geiselfalle.",
+      "interest": "Die zentrale Gefahr unterscheidet sich vom Anlass des Besuchs.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Person verlangt Wu Jiang (Liu Ye) in @ zusätzlich zum Lösegeld zu sehen?",
+      "answers": [
+        "Einen inhaftierten Mann",
+        "Den behandelnden Arzt seiner Mutter",
+        "Den Richter seines früheren Prozesses",
+        "Den Kommandanten einer Armeeeinheit"
+      ],
+      "feedback": [
+        "Er verlangt, dass Wei Xiaofu zu ihm gebracht wird.",
+        "Ein Arzt ist nicht die verlangte Kontaktperson.",
+        "Ein früherer Richter steht nicht im Zentrum der Forderung.",
+        "Ein Armeekommandant wird nicht angefordert."
+      ],
+      "short": "Wu Jiang verlangt die Begegnung mit Wei Xiaofu.",
+      "context": "Wu Jiang (Liu Ye) beschränkt seine Forderungen nicht auf Geld. Er will Wei Xiaofu (Zhou Xiaoou), einen inhaftierten Mann, im Club sehen. Zhong Wen (Jackie Chan) übernimmt schließlich die Aufgabe, ihn zum Betreten des Gebäudes zu bewegen. Diese ungewöhnliche Forderung weist darauf hin, dass die Geiselnahme mit einer früheren Geschichte zusammenhängt und nicht durch eine gewöhnliche Lösegeldzahlung erledigt werden kann.",
+      "anchor": "Ein bestimmter Gefangener ist dem Täter wichtiger als eine reine Geldforderung.",
+      "interest": "Die verlangte Person ist von der später aufgedeckten Motivation getrennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche frühere Tragödie will Wu Jiang (Liu Ye) mit der Geiselnahme in @ rächen?",
+      "answers": [
+        "Den Tod seiner jüngeren Schwester",
+        "Den Tod seines ehemaligen Trainers",
+        "Den Tod seines kleinen Sohnes",
+        "Den Tod seines Geschäftspartners"
+      ],
+      "feedback": [
+        "Er sucht Vergeltung für seine jüngere Schwester.",
+        "Der Tod eines Trainers ist nicht sein Motiv.",
+        "Er handelt nicht wegen eines getöteten Sohnes.",
+        "Ein Geschäftspartner ist nicht der Bezug seiner Rache."
+      ],
+      "short": "Wu Jiang will den Tod seiner Schwester rächen.",
+      "context": "Wu Jiang (Liu Ye) hat die Gefangenen nicht zufällig zusammengebracht. Zhong Wen (Jackie Chan), Wei Xiaofu (Zhou Xiaoou) und weitere Gäste waren mit der Situation verbunden, in der seine jüngere Schwester starb. Der Täter will ihre früheren Rollen rekonstruieren und sie zur Verantwortung ziehen. Die Enthüllung erklärt seine Auswahl, ohne seine Gewalt als verlässlichen Weg zur Aufklärung der Tragödie darzustellen.",
+      "anchor": "Die ausgewählten Geiseln gehören zu einer früheren Tragödie um Wus Schwester.",
+      "interest": "Das persönliche Motiv erklärt die gezielte Zusammensetzung der Gefangenen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was entdeckt Zhong Wen (Jackie Chan) in @, nachdem er Wus letzte Forderung an sich selbst erfüllt?",
+      "answers": [
+        "Die ihm übergebene Pistole ist ungeladen.",
+        "Der Schlagbolzen der Pistole wurde entfernt.",
+        "Die geladenen Patronen sind unbrauchbar.",
+        "Der Abzug der Pistole ist blockiert."
+      ],
+      "feedback": [
+        "Nach dem Abdrücken zeigt sich, dass keine Patrone geladen war.",
+        "Ein entfernter Schlagbolzen ist nicht die Erklärung.",
+        "Es sind nicht unbrauchbare Patronen geladen.",
+        "Der Abzug lässt sich betätigen; eine Blockade erklärt das Ergebnis nicht."
+      ],
+      "short": "Die Pistole ist ungeladen; Wu hatte ihn auf die Probe gestellt.",
+      "context": "Im U-Bahn-Tunnel stellt Wu Jiang (Liu Ye) Zhong Wen (Jackie Chan) vor die Wahl, sich selbst zu erschießen oder das Leben seiner Tochter Miao Miao (Jing Tian) zu gefährden. Zhong entscheidet sich gegen sich selbst und drückt ab, doch die Waffe ist ungeladen. Wu erkennt seine Bereitschaft zum Opfer an. Der ausbleibende Schuss verändert die Lage durch eine bewusst vorbereitete Probe.",
+      "anchor": "Die ungeladene Pistole macht aus dem Opferentschluss eine Probe.",
+      "interest": "Das Ergebnis der letzten Entscheidung ist ein eigenes Detail des Finales.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum wird Wu Jiang (Liu Ye) im Finale von @ nicht vom herannahenden Zug erfasst?",
+      "answers": [
+        "Ein Polizist lässt den Zug auf ein anderes Gleis fahren.",
+        "Zhong Wen zieht ihn rechtzeitig auf den Bahnsteig.",
+        "Miao Miao betätigt die Notbremse im Zug.",
+        "Der Lokführer erhält ein gefälschtes Haltesignal."
+      ],
+      "feedback": [
+        "Die Polizei verändert den Fahrweg des Zuges.",
+        "Zhong ist verletzt und rettet ihn nicht durch diesen Zuggriff.",
+        "Miao Miao bremst den Zug nicht selbst.",
+        "Ein gefälschtes Haltesignal ist nicht die gezeigte Rettung."
+      ],
+      "short": "Eine veränderte Weichenstellung verhindert den Zusammenstoß.",
+      "context": "Nachdem Wu Jiang (Liu Ye) Miao Miao (Jing Tian) freigegeben hat, will er sich vom Zug treffen lassen. Zhong Wen (Jackie Chan) versucht einzugreifen, wird jedoch angeschossen und kann ihn nicht rechtzeitig aufhalten. Der Zug wechselt schließlich das Gleis, weil die Polizei den Fahrweg geändert hat. Dadurch endet die Auseinandersetzung mit Wus Festnahme statt mit seinem geplanten Tod.",
+      "anchor": "Der geänderte Fahrweg ersetzt die gescheiterte unmittelbare Rettung.",
+      "interest": "Die Schlussrettung ist von der vorangegangenen Pistolenprobe unabhängig.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Jackie Chan erstmals veröffentlicht?",
+      "answers": [
+        "2013",
+        "2010",
+        "2014",
+        "2016"
+      ],
+      "feedback": [
+        "Die Gala und der erste Kinostart gehören zu 2013.",
+        "2010 erschien Little Big Soldier.",
+        "2014 betrifft den späteren Hongkong-Start.",
+        "2016 ist ein späteres Jahr in Ding Shengs Zusammenarbeit mit Chan."
+      ],
+      "short": "2010 Little Big Soldier, 2013 dieser Neustart: drei Jahre.",
+      "context": "Police Story: Back for Law erschien 2013. Drei Jahre zuvor hatten Ding Sheng und Jackie Chan bereits für Little Big Soldier von 2010 zusammengearbeitet. Das Berlinale-Programm nennt dieses frühere Werk mit getrennten Credits für Hauptregie und Action-Regie. Die Galaankündigung für den späteren Film verweist ebenfalls auf die Zusammenarbeit. Zwei unterschiedliche Figuren und Geschichten verbinden sich so über ein konkretes Regisseur-Darsteller-Team.",
+      "anchor": "2010 und 2013 verbinden zwei eigenständige Filme desselben Teams.",
+      "interest": "Der vorherige gemeinsame Film liefert einen belegten Jahresanker.",
+      "sources": [
+        "premiere",
+        "vergleich",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Jackie Chan die Hauptregie?",
+      "answers": [
+        "Ding Sheng",
+        "Benny Chan",
+        "Jackie Chan",
+        "Stanley Tong"
+      ],
+      "feedback": [
+        "Die Veranstalter-Pressemitteilung nennt Ding Sheng.",
+        "Benny Chan ist nicht der Regisseur dieses Neustarts.",
+        "Jackie Chan spielt die Hauptfigur, trägt hier aber nicht den Hauptregiecredit.",
+        "Stanley Tong inszenierte diesen Film nicht."
+      ],
+      "short": "Ding Sheng führte Regie.",
+      "context": "Ding Sheng inszeniert Jackie Chan als Zhong Wen, einen Polizisten mit einer beschädigten Beziehung zu seiner Tochter. Der ernste Geiselfall hat eine eigene Hauptfigur und setzt nicht einfach die Abenteuer des früheren Police-Story-Polizisten fort. Die Pressemitteilung der Gala nennt Ding Sheng ausdrücklich als Regisseur. Sie verknüpft ihn mit einer früheren Zusammenarbeit, ohne daraus eine gemeinsame Handlung der Filme abzuleiten.",
+      "anchor": "Ding Sheng inszeniert einen eigenständigen Police-Story-Neustart.",
+      "interest": "Der Hauptcredit wird trotz bekannter Serienmarke neu und konkret bestimmt.",
+      "sources": [
+        "premiere",
+        "handlung"
+      ]
+    }
+  ]
+}

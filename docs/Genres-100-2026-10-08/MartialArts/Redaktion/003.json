@@ -1,0 +1,221 @@
+{
+  "rank": 3,
+  "directors": [
+    "King Hu"
+  ],
+  "production_countries": [
+    "Taiwan"
+  ],
+  "country_note": "Golden Horse, BFI und Criterion-FilmInfo führen Taiwan. Wikipedia und ein Criterion-Streaming-Eintrag nennen zusätzlich Hongkong; übernommen ist die archivgestützte Taiwan-Zuordnung. Die Abweichung bleibt ausdrücklich dokumentiert.",
+  "release_note": "Metadatenjahr 1970 bezieht sich auf den Beginn der ursprünglichen zweiteiligen Veröffentlichung in Taiwan: erster Teil 1970, zweiter Teil 1971. Golden Horse führt 1970. Criterion katalogisiert die zusammenhängende Fassung als 1971; der Criterion-Essay beschreibt die ursprüngliche Zweiteilung. TFAI führt die restaurierte lange Fassung. Das Jahr 1969 in BFI-Zuordnungen ist eine weitere Katalogabweichung und nicht die hier gemeinte Erstveröffentlichung.",
+  "notes": "Die Caches schildern ein persönliches Wiedersehen von Gu und Yang im Kloster. David Bordwells Criterion-Essay sagt, Gu finde Yang nicht wieder und nehme ihren Sohn auf. Dieser widersprüchliche Übergang wird nicht abgefragt. Rollentranskriptionen variieren; gefragt werden keine Namensschreibweisen und keine Cameos.",
+  "familiarity_reason": "International bedeutender King-Hu-Klassiker, dessen Langfassung und filmhistorischer Rang einem spezialisierten Publikum besonders vertraut sind; Bekanntheit 3.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/A_Touch_of_Zen",
+    "goldenhorse": "https://www.goldenhorse.org.tw/film/about/archive/detail/218?ghff_id=212&r=en&search_year=2015",
+    "essay": "https://www.criterion.com/current/posts/4141-a-touch-of-zen-prowling-scheming-flying",
+    "tfai": "https://www.tfai.org.tw/en/program/movieDetail/2c9580827df82172017e387a10f9008f",
+    "archiv_presskit": "https://cdn.festival-cannes.com/media/uploads/2023/03/17533.pdf",
+    "criterion": "https://www.criterion.com/films/28791-a-touch-of-zen",
+    "bfi": "https://www.bfi.org.uk/film/7012a6da-fb15-5424-8450-976e7f06a4a9/a-touch-of-zen"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Tätigkeit geht Gu Shengzhai (Shih Chun) zu Beginn von @ nach?",
+      "answers": [
+        "Er ist Gelehrter und Porträtmaler",
+        "Er ist Heilkundiger und Kräuterhändler",
+        "Er ist Beamter und Steuereinnehmer",
+        "Er ist Handwerker und Schwertschmied"
+      ],
+      "feedback": [
+        "Gu lebt als Gelehrter und malt Porträts.",
+        "Heilkunde ist nicht seine Ausgangstätigkeit.",
+        "Er ist zu Beginn kein Steuereinnehmer.",
+        "Er stellt nicht als Schwertschmied Waffen her."
+      ],
+      "short": "Gu beginnt als Gelehrter und Porträtmaler.",
+      "context": "Gu Shengzhai (Shih Chun) lebt mit seiner Mutter in einem abgelegenen Ort. Er ist ein wenig ehrgeiziger Gelehrter und malt Porträts, statt eine Beamtenlaufbahn einzuschlagen. Ein fremder Kunde zieht ihn in eine Verfolgung hinein, deren Umfang er zunächst nicht erkennt. Der Film betrachtet den Konflikt dadurch anfangs aus der Perspektive eines gewöhnlichen Beobachters. Erst später wird seine Fähigkeit zum Planen für die kämpfenden Flüchtlinge entscheidend.",
+      "anchor": "Der Porträtmaler wird vom Beobachter zum Beteiligten.",
+      "interest": "Erkennt den Ausgangspunkt eines Helden ohne anfängliche Kampfstärke.",
+      "sources": [
+        "film",
+        "essay"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Warum verfolgt der kaiserliche Geheimdienst Yang Huizhen (Hsu Feng) in @?",
+      "answers": [
+        "Ihr Vater hat einen mächtigen Eunuchen angeklagt",
+        "Sie hat eine kaiserliche Schatzkammer geplündert",
+        "Sie hat einen gefangenen Rebellenführer freigelassen",
+        "Sie hat einen Thronanwärter heimlich geheiratet"
+      ],
+      "feedback": [
+        "Ihr Vater hat die Machenschaften eines mächtigen Eunuchen öffentlich gemacht.",
+        "Ein Schatzkammerraub ist nicht der Ursprung ihrer Verfolgung.",
+        "Eine Gefangenenbefreiung löst die Verfolgung nicht aus.",
+        "Eine heimliche Heirat mit einem Thronanwärter ist nicht ihr politischer Hintergrund."
+      ],
+      "short": "Yang wird wegen der Opposition ihres Vaters gegen einen Eunuchen gejagt.",
+      "context": "Yang Huizhen (Hsu Feng) ist auf der Flucht, nachdem ihr Vater die korrupten Machenschaften eines mächtigen Eunuchen beanstandet hat und hingerichtet wurde. Der Geheimdienst verfolgt auch seine Familie. Ihre Gefährdung ist damit eine Folge politischer Vergeltung gegen Angehörige. Loyal gebliebene Beschützer helfen ihr weiter. Hinter den scheinbar privaten Begegnungen im Ort steht eine Macht, deren Zugriff weit über die unmittelbaren Gegner hinausreicht.",
+      "anchor": "Die Kritik des Vaters gefährdet die ganze Familie.",
+      "interest": "Verankert die Flucht in einer konkreten politischen Vorgeschichte.",
+      "sources": [
+        "film",
+        "tfai"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welchen Eindruck erzeugt Gu Shengzhai (Shih Chun) in @ gezielt, um angreifende Geheimdienstleute zu verwirren?",
+      "answers": [
+        "Sie seien an einem von Geistern heimgesuchten Ort",
+        "Sie stünden einem versteckten Heer gegenüber",
+        "Sie seien durch ein kaiserliches Dekret entmachtet",
+        "Sie hätten ein von einer Seuche heimgesuchtes Lager betreten"
+      ],
+      "feedback": [
+        "Gu nutzt den Ruf des Ortes und inszeniert eine Geisterfalle.",
+        "Ein verborgenes Heer ist nicht die behauptete Gefahr.",
+        "Ein Dekret ist nicht das Täuschungsmittel der Falle.",
+        "Eine vorgetäuschte Seuchengefahr ist nicht der Kern des Plans."
+      ],
+      "short": "Gu verwandelt den Ruf eines Geisterortes in eine taktische Falle.",
+      "context": "Gu Shengzhai (Shih Chun) plant eine Falle an einem Ort, der als heimgesucht gilt. Die Angreifer sollen glauben, dass Geister gegen sie tätig werden, während die Verteidiger den Schrecken für ihren Angriff nutzen. Der Gelehrte bringt dadurch seine Planungsgabe in die Auseinandersetzung ein. Nach dem Erfolg freut er sich zunächst über seinen Einfall, bis ihn die vielen Toten mit dem Preis dieser gelungenen Strategie konfrontieren.",
+      "anchor": "Der Spuk wird von Gu als taktische Täuschung inszeniert.",
+      "interest": "Verbindet strategische Erfindungskraft mit ihrer menschlichen Konsequenz.",
+      "sources": [
+        "film",
+        "essay"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was aus Ouyang Nians (Tien Peng) Besitz verwenden die Verteidiger in @, um weitere Geheimdienstleute anzulocken?",
+      "answers": [
+        "Sein persönliches Siegel",
+        "Seine schriftliche Vollmacht",
+        "Seine Dienstmarke",
+        "Seinen Reise-Passierschein"
+      ],
+      "feedback": [
+        "Nach seinem Tod nutzen sie das Siegel für den Täuschungsplan.",
+        "Eine schriftliche Vollmacht ist nicht das übernommene Zeichen.",
+        "Eine Dienstmarke wird nicht als Lockmittel eingesetzt.",
+        "Ein Reise-Passierschein trägt diese Täuschung nicht."
+      ],
+      "short": "Ouyangs Siegel hilft, die weiteren Verfolger in die Falle zu führen.",
+      "context": "Ouyang Nian (Tien Peng) wird im Kampf im Bambuswald getötet. Die Verteidiger verwenden anschließend sein Siegel, um weitere Leute des Geheimdienstes in die vorbereitete Falle zu locken. Ein Zeichen offizieller Autorität wird gegen die Organisation gewendet, die ihm vertraut. Damit geht der Widerstand über den unmittelbar gewonnenen Zweikampf hinaus: Aus dem Besitz des getöteten Verfolgers entsteht ein Mittel, auch dessen nachrückende Kräfte zu lenken.",
+      "anchor": "Das Siegel des Verfolgers wird gegen dessen eigene Organisation eingesetzt.",
+      "interest": "Fragt nach dem konkreten Bindeglied zwischen Bambuskampf und Hinterhalt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welches scheinbar gewöhnliche Accessoire verbirgt Ouyang Nians (Tien Peng) Schwert in @?",
+      "answers": [
+        "Sein Gürtel",
+        "Sein Spazierstock",
+        "Sein Sonnenschirm",
+        "Sein Fächer"
+      ],
+      "feedback": [
+        "Das biegsame Schwert kann als Gürtel getragen werden.",
+        "Sein Schwert ist nicht in einem Spazierstock untergebracht.",
+        "Ein Sonnenschirm ist nicht der Behälter dieser Waffe.",
+        "Ein Fächer verdeckt das Schwert nicht."
+      ],
+      "short": "Ouyang trägt das biegsame Schwert im Gürtel.",
+      "context": "Ouyang Nian (Tien Peng) erscheint als Fremder, der ein Porträt anfertigen lassen möchte, ist aber ein gefährlicher Geheimdienstmann. Sein besonderes Schwert lässt sich biegen und im Gürtel tragen. Die Waffe bleibt dadurch in seiner gewöhnlichen Erscheinung verborgen. Der Gegensatz zwischen dem scheinbar unbewaffneten Besucher und seiner tatsächlichen Kampfkraft passt zur vorsichtigen Enthüllung der Rollen: Der Alltag des Ortes enthält mehr Bedrohung, als zunächst erkennbar ist.",
+      "anchor": "Ein alltäglicher Gürtel verbirgt die flexible Klinge.",
+      "interest": "Eine konkrete Waffenform erläutert die unauffällige Erscheinung des Verfolgers.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie gelingt Xu Xianchun (Han Ying-chieh) in @ ein Überraschungsangriff auf den Abt Huiyuan (Roy Chiao)?",
+      "answers": [
+        "Er täuscht Reue vor",
+        "Er bittet um die Behandlung einer Wunde",
+        "Er verbirgt eine Klinge in einem Geschenk",
+        "Er bittet um die Übergabe eines Schriftstücks"
+      ],
+      "feedback": [
+        "Er tut so, als bereue er sein Handeln, und greift dann an.",
+        "Eine Bitte um Wundversorgung verschafft ihm den Zugang nicht.",
+        "Eine getarnte Geschenkklinge ist nicht das Mittel der Täuschung.",
+        "Ein Schriftstück spielt beim Überraschungsangriff keine solche Rolle."
+      ],
+      "short": "Vorgetäuschte Reue eröffnet den Angriff auf Huiyuan.",
+      "context": "Xu Xianchun (Han Ying-chieh) setzt die Verfolgung fort und trifft schließlich auf den Abt Huiyuan (Roy Chiao). Er täuscht Reue vor, um den Mönch unerwartet verletzen zu können. Das scheinbare Einlenken dient als Waffe gegen dessen Bereitschaft zur Nachsicht. In der letzten Auseinandersetzung verschiebt sich der Film von der taktischen List zur religiösen Bildwelt. Der Angriff verbindet diese beiden Ebenen durch einen bewusst missbrauchten Vertrauensmoment.",
+      "anchor": "Xu nutzt scheinbare Reue als Tarnung seines Angriffs.",
+      "interest": "Erklärt den konkreten Übergang zum letzten, religiös geprägten Konflikt.",
+      "sources": [
+        "film",
+        "essay"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr begann die ursprüngliche zweiteilige Veröffentlichung von @ in Taiwan?",
+      "answers": [
+        "1970",
+        "1967",
+        "1969",
+        "1971"
+      ],
+      "feedback": [
+        "Der erste Teil wurde 1970 veröffentlicht.",
+        "1967 erschien Die Herberge zum Drachentor, nicht der erste Teil dieses Films.",
+        "1969 ist eine abweichende Katalogzuordnung, nicht der hier gemeinte Beginn.",
+        "1971 erschien der zweite Teil und später die zusammenhängende Fassung."
+      ],
+      "short": "1970 erster Teil, 1971 zweiter Teil; 1975 Cannes: fünf Jahre nach dem Beginn.",
+      "context": "Die ursprüngliche Veröffentlichung begann 1970 in Taiwan; der zweite Teil folgte 1971. Später wurde der Film als zusammenhängendes Werk gezeigt, weshalb Criterion das Jahr 1971 verwendet. 1975 erhielt er in Cannes den technischen Grand Prix, fünf Jahre nach dem Beginn der Veröffentlichung. Der Festivalerfolg datiert somit weder die Produktion noch den ersten Kinostart. Die ausdrücklich zweiteilige Ausgangsfassung erklärt, warum mehrere verbreitete Jahresangaben nebeneinander stehen.",
+      "anchor": "1970 Beginn, 1971 Fortsetzung, 1975 Cannes: fünf Jahre nach dem Beginn.",
+      "interest": "Trennt den ersten Veröffentlichungsteil von späterer Gesamtfassung und Festivalerfolg.",
+      "sources": [
+        "goldenhorse",
+        "essay",
+        "tfai",
+        "archiv_presskit",
+        "criterion",
+        "bfi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Hsu Feng und Shih Chun Regie?",
+      "answers": [
+        "King Hu",
+        "Chang Cheh",
+        "Li Han-hsiang",
+        "Joseph Kuo"
+      ],
+      "feedback": [
+        "King Hu ist in den Archivquellen als Regisseur genannt.",
+        "Chang Cheh hat diesen Hauptregiecredit nicht.",
+        "Li Han-hsiang inszenierte diese Produktion nicht.",
+        "Joseph Kuo ist nicht ihr Regisseur."
+      ],
+      "short": "King Hu inszenierte Ein Hauch von Zen.",
+      "context": "King Hu gestaltete den Film als Übergang von alltäglichen Beobachtungen über politische Verfolgung zu einer religiös aufgeladenen Auseinandersetzung. Golden Horse und TFAI nennen ihn als Regisseur. Die lange, ursprünglich zweiteilige Form ermöglicht unterschiedliche Perspektiven auf Heldentum: Der Gelehrte wird zum Strategen, während die Schwertkämpferin und die Mönche andere Formen der Gegenwehr verkörpern. Die verschiedenen späteren Jahres- und Laufzeitangaben verändern diesen Hauptregiecredit nicht.",
+      "anchor": "King Hu führt durch die wechselnden Perspektiven des langen Films.",
+      "interest": "Ordnet die formale Entwicklung einem eindeutig belegten Hauptregisseur zu.",
+      "sources": [
+        "goldenhorse",
+        "tfai",
+        "essay",
+        "criterion",
+        "bfi"
+      ]
+    }
+  ]
+}
