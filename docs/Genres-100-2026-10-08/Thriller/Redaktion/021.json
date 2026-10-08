@@ -1,0 +1,209 @@
+{
+  "rank": 21,
+  "directors": [
+    "Paul Verhoeven"
+  ],
+  "production_countries": [
+    "USA",
+    "Vereinigtes Königreich",
+    "Frankreich"
+  ],
+  "country_note": "Die ausgewertete Filmdatenquelle nennt USA, Vereinigtes Königreich und Frankreich; Cannes führt den Film unter USA.",
+  "release_note": "Erste Premiere in Los Angeles am 18. März 1992, US-Kinostart am 20. März; Cannes bestätigt 1992, die Festivalvorführung ist nicht die Erstveröffentlichung.",
+  "familiarity_reason": "Die berühmte Verhörszene und das Hauptdarstellerpaar machen den Film zur Ikone des Erotikthrillers.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Basic_Instinct",
+    "cannes": "https://www.festival-cannes.com/f/basic-instinct/",
+    "vergleich": "https://catalog.afi.com/Film/57617-FATAL-ATTRACTION"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stadt ermittelt Nick Curran (Michael Douglas) in @?",
+      "answers": [
+        "San Francisco",
+        "Los Angeles",
+        "Seattle",
+        "New York"
+      ],
+      "feedback": [
+        "Nick arbeitet bei der Polizei von San Francisco.",
+        "Los Angeles ist nicht der zentrale Ermittlungsort.",
+        "Der Fall spielt nicht in Seattle.",
+        "New York ist nicht die Stadt dieser Mordermittlung."
+      ],
+      "short": "Der Mordfall spielt in San Francisco.",
+      "context": "Nick Curran (Michael Douglas) untersucht in San Francisco den Mord an einem ehemaligen Rockstar. Die Ermittlungen führen ihn zu Catherine Tramell (Sharon Stone), mit der das Opfer eine Beziehung hatte. Der urbane Polizeithriller verbindet Verhöre und Spurensuche mit privaten Begegnungen. San Francisco ist dabei der zentrale Ermittlungsraum; spätere Besuche außerhalb der Stadt ändern diesen Ausgangsort nicht.",
+      "anchor": "Nick ermittelt in San Francisco.",
+      "interest": "Der Ort verankert den Film als Polizeithriller.",
+      "sources": [
+        "handlung",
+        "cannes"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Beruf hat Catherine Tramell (Sharon Stone) in @?",
+      "answers": [
+        "Sie schreibt Romane.",
+        "Sie arbeitet als Strafverteidigerin.",
+        "Sie leitet eine psychiatrische Klinik.",
+        "Sie produziert die Musik ihres Partners."
+      ],
+      "feedback": [
+        "Catherine ist eine erfolgreiche Schriftstellerin.",
+        "Sie ist keine Strafverteidigerin.",
+        "Sie leitet keine psychiatrische Klinik.",
+        "Ihre Tätigkeit ist das Romanschreiben, nicht Musikproduktion."
+      ],
+      "short": "Catherine Tramell ist Schriftstellerin.",
+      "context": "Catherine Tramell (Sharon Stone) schreibt Kriminalromane. Diese Tätigkeit ist keine bloße Hintergrundinformation: Ein bereits veröffentlichtes Buch enthält einen Mord, der dem untersuchten Fall auffällig ähnelt. Nick Curran (Michael Douglas) muss entscheiden, was diese Übereinstimmung bedeutet. Catherines Fähigkeit, Handlungen zu entwerfen, erzeugt deshalb besondere Unsicherheit darüber, wie weit sie auch reale Begegnungen steuert.",
+      "anchor": "Die Verdächtige entwirft eigene Kriminalgeschichten.",
+      "interest": "Der Beruf erschließt den Zusammenhang zwischen literarischem Entwurf und Ermittlungsfall.",
+      "sources": [
+        "handlung",
+        "cannes"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welches ungewöhnliche Wissen zeigt Catherine Tramell (Sharon Stone) über Nick Curran (Michael Douglas) in @?",
+      "answers": [
+        "Vertrauliche Informationen aus seiner Polizeiakte",
+        "Details seines noch unveröffentlichten Testaments",
+        "Den Inhalt seiner laufenden Telefonüberwachung",
+        "Die Identitäten seiner verdeckten Informanten"
+      ],
+      "feedback": [
+        "Catherine kennt Nicks nicht öffentliche persönliche Vorgeschichte.",
+        "Sein Testament ist nicht die enthüllte Informationsquelle.",
+        "Eine laufende Telefonüberwachung liefert nicht diesen Wissensvorsprung.",
+        "Geheim gehaltene Informanten sind nicht der entscheidende Gegenstand."
+      ],
+      "short": "Catherine kennt vertrauliches Wissen über den Ermittler.",
+      "context": "Catherine Tramell (Sharon Stone) kennt Nick Currans (Michael Douglas) persönliche Vorgeschichte, einschließlich seiner problematischen Polizeieinsätze und Behandlung. Er erkennt darin ein Leck in seinem vermeintlich geschützten beruflichen Umfeld. Die Begegnung kehrt die Rollen teilweise um: Die Verdächtige kann den Ermittler mit Informationen konfrontieren und seine Unsicherheit nutzen. Seine Institution garantiert ihm dadurch weder Überblick noch persönliche Sicherheit.",
+      "anchor": "Die Verdächtige weiß mehr über den Ermittler, als sie wissen dürfte.",
+      "interest": "Das Informationsgefälle destabilisiert die Ermittlerrolle.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Parallele zu Catherine Tramells (Sharon Stone) neuem Roman erkennt Nick Curran (Michael Douglas) in @?",
+      "answers": [
+        "Der Ermittlerpartner wird im Aufzug getötet.",
+        "Die Verdächtige wird während ihrer Hochzeit entführt.",
+        "Der Ermittler erschießt sich bei einer Verhaftung.",
+        "Ein Richter gesteht den Ausgangsmord."
+      ],
+      "feedback": [
+        "Der Tod seines Partners entspricht dem neuen Romanentwurf.",
+        "Eine Hochzeitsentführung entspricht nicht diesem Handlungsvergleich.",
+        "Nick erkennt nicht seinen eigenen Suizid im Roman.",
+        "Ein Richtergeständnis löst den Mordfall nicht."
+      ],
+      "short": "Der Aufzugsmord an Nicks Partner spiegelt den neuen Roman.",
+      "context": "Catherine Tramell (Sharon Stone) arbeitet an einer Geschichte, deren Ermittlerfigur an Nick Curran (Michael Douglas) angelehnt ist. Als sein Partner Gus Moran (George Dzundza) im Aufzug getötet wird, erkennt Nick eine Übereinstimmung mit diesem Entwurf. Anders als die erste Romanparallele entsteht diese nun während der laufenden Ermittlungen. Dadurch wächst die Sorge, selbst Teil einer vorgezeichneten Handlung zu sein.",
+      "anchor": "Der neue Roman greift in Nicks laufenden Fall hinein.",
+      "interest": "Die Romanparallele wandert vom vergangenen Mord zur gegenwärtigen Bedrohung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was macht Nick Currans (Michael Douglas) tödlichen Schuss auf Beth Garner (Jeanne Tripplehorn) in @ zum konkreten Wahrnehmungsfehler?",
+      "answers": [
+        "Er vermutet einen Waffengriff, obwohl sie unbewaffnet ist.",
+        "Sie wird von einem Querschläger aus seiner Waffe getroffen.",
+        "Er verwechselt sie mit Catherine Tramell.",
+        "Er schießt versehentlich nach ihrer bereits erfolgten Festnahme."
+      ],
+      "feedback": [
+        "Nick interpretiert ihre Bewegung als bewaffnete Bedrohung.",
+        "Er schießt gezielt aus einer vermeintlichen Gefahr, nicht durch einen zufälligen Querschläger.",
+        "Nick erkennt Beth; die Fehleinschätzung betrifft ihre Bewaffnung.",
+        "Der Schuss fällt aus einer vermeintlichen Gefahr, nicht versehentlich nach einer Festnahme."
+      ],
+      "short": "Nick erschießt die unbewaffnete Beth aus einer vermeintlichen Gefahr heraus.",
+      "context": "Nach dem Tod von Gus Moran (George Dzundza) begegnet Nick Curran (Michael Douglas) Beth Garner (Jeanne Tripplehorn) am Tatort. Ihre Bewegung lässt ihn einen Angriff vermuten, doch sie hat keine Waffe. Die anschließenden Belastungsfunde erzeugen zwar eine scheinbare Falllösung, heben diese konkrete Fehleinschätzung aber nicht auf. Der Moment zeigt, wie seine persönlichen Verstrickungen die Wahrnehmung von Gefahr prägen.",
+      "anchor": "Ein vermeintlicher Waffengriff führt zum tödlichen Irrtum.",
+      "interest": "Der Schuss wird von der späteren Beweislage getrennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welcher Gegenstand unter dem Bett untergräbt im Schlussbild von @ die scheinbare Aufklärung?",
+      "answers": [
+        "Ein Eispickel",
+        "Gus Morans Polizeimarke",
+        "Beth Garners Abschiedsbrief",
+        "Eine versteckte Pistole"
+      ],
+      "feedback": [
+        "Der Eispickel erinnert an die Mordwaffe des Ausgangsfalls.",
+        "Eine Polizeimarke wird nicht als letzter Zweifel gezeigt.",
+        "Ein Abschiedsbrief ist nicht der Gegenstand unter dem Bett.",
+        "Gezeigt wird ein Eispickel, keine Pistole."
+      ],
+      "short": "Der versteckte Eispickel lässt die scheinbar geschlossene Geschichte wieder unsicher werden.",
+      "context": "Die Ermittlungen scheinen Beth Garner (Jeanne Tripplehorn) zu belasten. Nick Curran (Michael Douglas) kehrt dennoch zu Catherine Tramell (Sharon Stone) zurück. Unter ihrem Bett liegt schließlich ein Eispickel, der die vorherige Gewissheit erschüttert. Die Frage verlangt keine endgültige Zuschreibung aller Morde: Entscheidend ist, dass der Film seinen amtlich beruhigend wirkenden Abschluss durch ein konkretes Bild wieder destabilisiert.",
+      "anchor": "Der Eispickel lässt den vermeintlichen Schluss offen.",
+      "interest": "Der sichtbare Befund vermeidet eine strittige Gesamtdeutung als eindeutige Lösung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Michael Douglas und Sharon Stone erstmals?",
+      "answers": [
+        "1992",
+        "1986",
+        "1997",
+        "2002"
+      ],
+      "feedback": [
+        "Die Erstveröffentlichung war 1992.",
+        "1986 liegt sechs Jahre vor diesem Film.",
+        "1997 liegt fünf Jahre nach der Erstveröffentlichung.",
+        "2002 liegt zehn Jahre nach dem ersten Erscheinen."
+      ],
+      "short": "Der Film erschien 1992.",
+      "context": "Basic Instinct erschien 1992, fünf Jahre nach Eine verhängnisvolle Affäre von 1987. Michael Douglas steht in beiden Erotikthrillern im Mittelpunkt, aber die Erzählanlässe unterscheiden sich: Hier ermittelt er als Polizist, dort beginnt die Bedrohung mit einer außerehelichen Affäre. Cannes führt Basic Instinct als Eröffnungsfilm von 1992; die ersten US-Vorführungen hatten bereits im März stattgefunden.",
+      "anchor": "1987 Eine verhängnisvolle Affäre, 1992 Basic Instinct: fünf Jahre.",
+      "interest": "Das Jahr verbindet Douglas’ zwei unterschiedliche Thrillerrollen.",
+      "sources": [
+        "cannes",
+        "vergleich",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Michael Douglas und Sharon Stone Regie?",
+      "answers": [
+        "Paul Verhoeven",
+        "Adrian Lyne",
+        "Brian De Palma",
+        "David Fincher"
+      ],
+      "feedback": [
+        "Paul Verhoeven inszenierte den Film.",
+        "Adrian Lyne ist nicht der Regisseur dieses Films.",
+        "Brian De Palma führt hier keinen Regiecredit.",
+        "David Fincher inszenierte diese Produktion nicht."
+      ],
+      "short": "Paul Verhoeven führte Regie.",
+      "context": "Das offizielle Cannes-Archiv nennt Paul Verhoeven für den Erotikthriller mit Michael Douglas und Sharon Stone. Der Film verbindet einen Mordfall mit einer Verdächtigen, die eigene Kriminalgeschichten schreibt. Der Regiecredit ist von Joe Eszterhas’ Drehbuch und Jan de Bonts Kameraarbeit zu unterscheiden. Die Festivalangabe identifiziert dieselbe Produktion wie die vorausgegangene amerikanische Kinoveröffentlichung.",
+      "anchor": "Verhoeven inszeniert Douglas und Stone im Roman-Mordfall.",
+      "interest": "Offizielle Festivalcredits sichern die Zuordnung.",
+      "sources": [
+        "cannes"
+      ]
+    }
+  ]
+}

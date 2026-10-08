@@ -1,0 +1,207 @@
+{
+  "rank": 19,
+  "directors": [
+    "Sydney Pollack"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste US-Kinoveröffentlichung am 30. Juni 1993 laut AFI.",
+  "familiarity_reason": "Die erfolgreiche Grisham-Adaption mit Tom Cruise gehört zu den bekannten Justizthrillern.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Firm_(1993_film)",
+    "afi": "https://catalog.afi.com/Film/59526-THE-FIRM"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was lockt Mitch McDeere (Tom Cruise) in @ besonders zu seinem neuen Arbeitgeber?",
+      "answers": [
+        "Hoher Einstiegslohn samt Auto und günstiger Hausfinanzierung",
+        "Eine sofortige Partnerschaft ohne Probezeit",
+        "Völlig freie Auswahl seiner Mandanten",
+        "Die Leitung eines neuen Büros in Boston"
+      ],
+      "feedback": [
+        "Die Kanzlei bietet ein ungewöhnlich großzügiges Gesamtpaket.",
+        "Mitch steigt als angestellter Berufsanfänger ein, nicht sofort als Partner.",
+        "Er soll bestehende Mandate bearbeiten und genießt keine unbeschränkte Auswahl.",
+        "Er tritt in Memphis ein und soll kein neues Bostoner Büro leiten."
+      ],
+      "short": "Der Einstieg verspricht schnellen Wohlstand.",
+      "context": "Mitch McDeere (Tom Cruise) hat sein Jurastudium in Harvard hervorragend abgeschlossen. Bendini, Lambert & Locke überbietet konkurrierende Stellen mit hohem Gehalt, einem Mercedes und günstiger Hausfinanzierung. Seine Frau Abby McDeere (Jeanne Tripplehorn) spürt dagegen schon beim Besuch die vereinnahmende Atmosphäre. Die materiellen Vorteile erklären, warum Mitch zunächst über diese Warnzeichen hinweggeht.",
+      "anchor": "Das Karriereangebot ist zugleich ein Köder.",
+      "interest": "Der attraktive Einstieg macht die spätere Abhängigkeit nachvollziehbar.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "In welcher Stadt nimmt Mitch McDeere (Tom Cruise) in @ seine neue Anwaltsstelle an?",
+      "answers": [
+        "Memphis",
+        "Boston",
+        "Chicago",
+        "Atlanta"
+      ],
+      "feedback": [
+        "Die Kanzlei sitzt in Memphis, Tennessee.",
+        "Boston gehört zur späteren Rückkehr, nicht zum neuen Arbeitgeber.",
+        "Die Chicagoer Mafia macht Chicago nicht zum Kanzleisitz.",
+        "Atlanta ist nicht Mitchs neuer Arbeitsort."
+      ],
+      "short": "Mitch beginnt seine Karriere in Memphis.",
+      "context": "Die Kanzlei Bendini, Lambert & Locke liegt in Memphis, Tennessee. Mitch McDeere (Tom Cruise) muss deshalb auch die Anwaltsprüfung dieses Bundesstaats bestehen. Die Reise auf die Cayman Islands eröffnet erst später eine zweite Welt der Offshore-Geschäfte. Arbeitsort, Herkunft der kriminellen Mandanten und Auslandsreise sind somit unterschiedliche geografische Ebenen der Geschichte.",
+      "anchor": "Memphis ist der Kanzleisitz; die Cayman Islands sind der Auslandsstandort.",
+      "interest": "Der Schauplatz ordnet die verschiedenen Orte des Finanzthrillers.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Womit setzt Sicherheitschef DeVasher (Wilford Brimley) Mitch McDeere (Tom Cruise) in @ persönlich unter Druck?",
+      "answers": [
+        "Mit Fotos eines arrangierten sexuellen Seitensprungs",
+        "Mit einem gefälschten Harvard-Abschlusszeugnis",
+        "Mit Aufnahmen einer unerlaubten Mandanten-Geldannahme",
+        "Mit einer Aufnahme von Mitchs Richterbestechung"
+      ],
+      "feedback": [
+        "Die Fotos sollen Mitch gegenüber seiner Frau erpressbar machen.",
+        "Sein Abschluss wird nicht als Fälschung entlarvt.",
+        "Eine verbotene Geldannahme bildet nicht den dokumentierten persönlichen Vorfall.",
+        "Eine Richterbestechung ist nicht der dokumentierte Vorfall."
+      ],
+      "short": "Die Kanzlei benutzt kompromittierende Fotos als Erpressungsmittel.",
+      "context": "Auf den Cayman Islands lässt sich Mitch McDeere (Tom Cruise) auf eine sexuelle Begegnung ein. Sie wurde von der Kanzlei arrangiert und fotografiert. Sicherheitschef William DeVasher (Wilford Brimley) kann deshalb mit der Zerstörung seiner Ehe drohen. Die vermeintlich private Verfehlung ist in ein Kontrollsystem eingebaut, das den jungen Anwalt auch außerhalb seiner Arbeit gefügig halten soll.",
+      "anchor": "Der Seitensprung wurde zur späteren Erpressung inszeniert.",
+      "interest": "Die Szene zeigt, wie berufliche Kontrolle in das Privatleben übergreift.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welchen kriminellen Hintergrund der Kanzlei enthüllt das FBI Mitch McDeere (Tom Cruise) in @?",
+      "answers": [
+        "Geldwäsche für eine Mafiafamilie",
+        "Erpressung von Mandanten mit heimlich gesammelten Privatakten",
+        "Manipulation großer Erbschaften zugunsten der Kanzleipartner",
+        "Ein System gekaufter Gerichtsurteile für zahlungskräftige Kunden"
+      ],
+      "feedback": [
+        "Das FBI verbindet die Kanzlei mit Geldwäsche der Morolto-Familie.",
+        "Die persönliche Erpressung Mitchs dient der Kontrolle; der enthüllte Geschäftshintergrund ist Mafia-Geldwäsche.",
+        "Manipulierte Erbschaften bilden nicht den aufgedeckten Hauptzusammenhang.",
+        "Ein Geschäftsmodell aus gekauften Urteilen ist nicht die zentrale FBI-Enthüllung."
+      ],
+      "short": "Hinter der angesehenen Kanzlei stehen Geldwäschegeschäfte der Mafia.",
+      "context": "FBI-Agent Wayne Tarrance (Ed Harris) erklärt Mitch McDeere (Tom Cruise), dass Bendini, Lambert & Locke für die Morolto-Familie arbeitet. Die Todesfälle früherer Anwälte erscheinen dadurch in einem neuen Licht: Der Ausstieg kann lebensgefährlich sein. Mitch befindet sich nun zwischen einer gewalttätigen Organisation und einer Behörde, die ihn als Lieferanten vertraulicher Unterlagen gewinnen will.",
+      "anchor": "Die Kanzlei verbindet legale Beratung mit Mafia-Geldwäsche.",
+      "interest": "Die Enthüllung erklärt, warum ein gewöhnlicher Stellenwechsel keine sichere Lösung ist.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Über welchen Verstoß will Mitch McDeere (Tom Cruise) in @ die Kanzlei zu Fall bringen, ohne Mandantengeheimnisse zu verraten?",
+      "answers": [
+        "Per Post verschickte überhöhte Rechnungen",
+        "Die Geldwäscheakten der Mafia-Mandanten",
+        "Gefälschte Zulassungsnachweise der Kanzleianwälte",
+        "Steuerbetrug mit den privaten Einkommen der Partner"
+      ],
+      "feedback": [
+        "Überberechnung eröffnet über den Postversand einen Weg wegen Postbetrugs.",
+        "Die Preisgabe der Mandantengeheimnisse möchte Mitch gerade vermeiden.",
+        "Gefälschte Anwaltszulassungen tragen die juristische Lösung nicht.",
+        "Mitch belegt den Rechnungsbetrug gegenüber Mandanten, nicht private Einkommensteuerdelikte."
+      ],
+      "short": "Mitch nutzt den Postversand betrügerisch überhöhter Rechnungen.",
+      "context": "Mitch McDeere (Tom Cruise) sucht einen Ausweg, der seine anwaltliche Zulassung erhält. Statt die vertraulichen Geschäfte der Mafia öffentlich zu machen, belegt er systematisch überhöhte Rechnungen der Kanzlei. Ihr Postversand ermöglicht eine Verfolgung wegen Postbetrugs. Der Film verändert damit den Romanschluss: Die Lösung entsteht aus Mitchs juristischem Handwerk und der Unterscheidung zwischen Mandantengeheimnis und eigenem Kanzleibetrug.",
+      "anchor": "Überberechnung plus Postversand ergibt Mitchs juristischen Ausweg.",
+      "interest": "Der Schluss verlangt Verständnis des konkreten rechtlichen Dilemmas.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie ermöglicht Abby McDeere (Jeanne Tripplehorn) in @ den Zugriff auf Unterlagen auf den Cayman Islands?",
+      "answers": [
+        "Sie verführt und betäubt Avery Tolar.",
+        "Sie kopiert einen gerichtlichen Durchsuchungsbeschluss.",
+        "Sie vertauscht die Aktenkoffer am Flughafen.",
+        "Sie verschafft sich mit einer gefälschten Vollmacht Zugang."
+      ],
+      "feedback": [
+        "Abby setzt Avery außer Gefecht und verschafft Zeit für die Kopien.",
+        "Sie nutzt keinen nachgemachten Durchsuchungsbeschluss.",
+        "Ein Aktenkoffertausch ermöglicht diesen Zugriff nicht.",
+        "Eine falsche Vollmacht ist nicht ihre Vorgehensweise."
+      ],
+      "short": "Abby verschafft durch Averys Betäubung Zeit zum Kopieren.",
+      "context": "Abby McDeere (Jeanne Tripplehorn) fährt auf die Cayman Islands und nutzt Avery Tolars (Gene Hackman) Interesse an ihr. Sie betäubt ihn, damit die benötigten Akten kopiert werden können. Die Abhörüberwachung bringt Sicherheitschef DeVasher (Wilford Brimley) auf die Spur des Plans. Avery warnt Abby noch rechtzeitig vor der Gefahr. Ihr Eingreifen macht sie zur entscheidenden Beteiligten der gemeinsamen Beweissicherung.",
+      "anchor": "Abbys Eingreifen öffnet den Zugriff auf die Akten.",
+      "interest": "Die riskante Handlung macht ihre eigenständige Rolle im gemeinsamen Ausweg sichtbar.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Tom Cruise erstmals?",
+      "answers": [
+        "1993",
+        "1987",
+        "1998",
+        "2003"
+      ],
+      "feedback": [
+        "Die erste Kinoveröffentlichung erfolgte 1993.",
+        "1987 liegt sechs Jahre vor dieser Verfilmung.",
+        "1998 liegt fünf Jahre nach dem ersten Kinostart.",
+        "2003 liegt zehn Jahre nach der Veröffentlichung."
+      ],
+      "short": "Die Verfilmung erschien 1993.",
+      "context": "John Grishams Roman The Firm erschien 1991, die Verfilmung folgte 1993: Zwischen Buch und Film liegen zwei Jahre. Paramount hatte die Filmrechte sogar vor der Buchveröffentlichung erworben. AFI verzeichnet den US-Kinostart am 30. Juni 1993. Die kurze Folge von Romanerfolg und prominent besetzter Adaption gehört zum Aufstieg des Grisham-Justizthrillers im Kino.",
+      "anchor": "1991 Roman, 1993 Film: zwei Jahre Abstand.",
+      "interest": "Die Jahreszahl wird mit der konkreten Adaptionsgeschichte verknüpft.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Tom Cruise und Gene Hackman Regie?",
+      "answers": [
+        "Sydney Pollack",
+        "Alan J. Pakula",
+        "Joel Schumacher",
+        "Sidney Lumet"
+      ],
+      "feedback": [
+        "Sydney Pollack ist der offizielle Regisseur.",
+        "Alan J. Pakula hat hier keinen Regiecredit.",
+        "Joel Schumacher inszenierte diese Grisham-Adaption nicht.",
+        "Sidney Lumet führte bei diesem Film nicht Regie."
+      ],
+      "short": "Sydney Pollack inszenierte den Film.",
+      "context": "AFI nennt Sydney Pollack als Regisseur und zugleich als einen der Produzenten. Die Handlung verbindet Mitch McDeeres (Tom Cruise) beruflichen Aufstieg mit einem juristischen Ausweg aus einer kriminellen Kanzlei. Auch der Schluss wurde gegenüber der Romanvorlage verändert. Die Regiefrage bezieht sich auf den Kinofilm mit Gene Hackman und Jeanne Tripplehorn, nicht auf eine spätere Serienadaption.",
+      "anchor": "Pollack inszeniert Cruise im Grisham-Kanzleithriller.",
+      "interest": "Besetzung und Adaption identifizieren den konkreten Regiecredit.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

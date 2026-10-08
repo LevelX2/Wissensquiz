@@ -1,0 +1,201 @@
+{
+  "rank": 14,
+  "directors": [
+    "Terence Young"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Erststart am 26. Oktober 1967 in New York nach AFI; Bühnenvorlage debütierte 1966.",
+  "familiarity_reason": "Audrey Hepburns bedrohter Wohnungsschauplatz ist ein bekannter Spannungsklassiker, dessen Einzelintrige eher Kennern vertraut ist.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Wait_Until_Dark_(film)",
+    "afi": "https://catalog.afi.com/Film/22707-WAIT-UNTIL-DARK"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was suchen die Eindringlinge in @ in Susys (Audrey Hepburn) Wohnung?",
+      "answers": [
+        "Eine mit Heroin gefüllte Puppe",
+        "Ein Schmuckkästchen mit gestohlenen Diamanten",
+        "Eine Kamera mit Spionageaufnahmen",
+        "Einen Koffer mit unterschlagenem Geld"
+      ],
+      "feedback": [
+        "Die Puppe enthält die gesuchten Drogen.",
+        "Diamanten sind nicht der Inhalt des gesuchten Gegenstands.",
+        "Die Männer suchen keinen Spionagefilm.",
+        "Ein Geldkoffer ist nicht das Ziel des Einbruchs."
+      ],
+      "short": "Die Männer suchen eine Puppe mit verstecktem Heroin.",
+      "context": "Sam Hendrix (Efrem Zimbalist Jr.) nimmt am Flughafen eine Puppe für eine fremde Frau mit. Er weiß nicht, dass sie als Versteck für Heroin dient. Das alltägliche Kinderobjekt verbindet seine Wohnung mit einem Verbrechen, an dem er selbst nicht beteiligt ist. Für seine Frau Susy (Audrey Hepburn) beginnt die Gefahr deshalb ohne eine bewusste Entscheidung, sich in die Angelegenheiten der Täter einzumischen.",
+      "anchor": "Ein harmlos wirkendes Mitbringsel trägt das Verbrechen ins Haus.",
+      "interest": "Der gesuchte Gegenstand erklärt den äußeren Anlass der Bedrohung.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche körperliche Einschränkung prägt Susys (Audrey Hepburn) Lage in @?",
+      "answers": [
+        "Sie ist blind.",
+        "Sie ist gehörlos.",
+        "Sie kann nach einer Verletzung nicht laufen.",
+        "Sie hat ihre Stimme verloren."
+      ],
+      "feedback": [
+        "Susy kann ihre Besucher nicht sehen.",
+        "Sie hört ihre Besucher und erkennt viele Vorgänge akustisch.",
+        "Eine Gehbehinderung ist nicht ihre zentrale Einschränkung.",
+        "Sie kann sprechen und telefonieren."
+      ],
+      "short": "Susy ist blind.",
+      "context": "Susy (Audrey Hepburn) kann die angeblichen Besucher nicht anhand ihrer Gesichter überprüfen. Stimmen, Geräusche und Widersprüche im Verhalten werden deshalb zu entscheidenden Informationen. Ihre Wohnung kennt sie dagegen genau. Der Film baut die Bedrohung aus dieser ungleichen Verteilung von Möglichkeiten auf: Die fremden Männer besitzen zunächst mehr sichtbare Informationen, während Susys Orientierung im eigenen Raum später einen Handlungsvorteil eröffnet.",
+      "anchor": "Die Besucher sehen Susy; Susy prüft sie über Stimmen und Verhalten.",
+      "interest": "Die Ausgangslage erklärt die besondere Form ihrer Wahrnehmung.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Als wen gibt sich Mike Talman (Richard Crenna) in @ gegenüber Susy (Audrey Hepburn) aus?",
+      "answers": [
+        "Als früherer Kriegskamerad ihres Mannes",
+        "Als Mitarbeiter ihrer Versicherung",
+        "Als behandelnder Arzt ihres Mannes",
+        "Als Hausverwalter im Auftrag des Vermieters"
+      ],
+      "feedback": [
+        "Die behauptete Kriegskameradschaft soll persönliches Vertrauen schaffen.",
+        "Eine Versicherungsfunktion gehört nicht zu seiner Rolle.",
+        "Er tritt nicht als Sams Arzt auf.",
+        "Eine Hausverwaltungsaufgabe erklärt seinen Besuch nicht."
+      ],
+      "short": "Talman spielt einen alten Kriegskameraden von Sam.",
+      "context": "Mike Talman (Richard Crenna) soll Susy (Audrey Hepburn) als vertrauter Helfer erscheinen, während die anderen Täter bedrohlichere Rollen spielen. Seine erfundene Verbindung zu Sam (Efrem Zimbalist Jr.) erleichtert es, ihre Reaktionen zu steuern und Informationen über die Puppe zu bekommen. Die scheinbare Unterstützung gehört zunächst zur gemeinsamen Intrige. Gerade deshalb wiegt Susys späteres Erkennen der Zusammenarbeit besonders schwer.",
+      "anchor": "Der vermeintliche Freund ist Teil des abgestimmten Spiels.",
+      "interest": "Die Vertrauensrolle wird von der bereits abgefragten körperlichen Ausgangslage getrennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Entdeckung hilft Susy (Audrey Hepburn) und Gloria (Julie Herrod) in @, die Besucher zu durchschauen?",
+      "answers": [
+        "Mikes angegebene Telefonnummer führt zur Telefonzelle gegenüber.",
+        "Sams angeblicher Arbeitgeber wohnt im selben Haus.",
+        "Lisas angebliche Wohnung steht seit Jahren leer.",
+        "Die angegebene Polizeiwache wurde am Vortag geschlossen."
+      ],
+      "feedback": [
+        "Der Anschluss zeigt, dass Mike ganz in der Nähe bei den anderen Tätern bleibt.",
+        "Ein Arbeitgeber im Haus liefert diese Aufklärung nicht.",
+        "Eine leer stehende Wohnung ist nicht der überprüfte Hinweis.",
+        "Sie entlarven die Intrige nicht über eine geschlossene Wache."
+      ],
+      "short": "Die vermeintliche Kontaktadresse ist eine Telefonzelle gegenüber.",
+      "context": "Susy (Audrey Hepburn) möchte Mike (Richard Crenna) mitteilen, dass die Puppe wieder da ist. Gloria (Julie Herrod) hilft ihr jedoch zu erkennen, wohin dessen Telefonnummer tatsächlich führt. Damit verlieren die getrennt auftretenden Besucher ihre angebliche Unabhängigkeit. Ein kleines überprüfbares Detail widerspricht den erzählten Identitäten und ermöglicht Susy, die Bedrohung als gemeinsamen Plan statt als mehrere zufällige Begegnungen zu begreifen.",
+      "anchor": "Ein überprüfter Telefonanschluss verbindet die scheinbar getrennten Besucher.",
+      "interest": "Der Hinweis verlangt ein konkretes Detail der Aufdeckung.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche unerwartete Lichtquelle verschafft Roat (Alan Arkin) in der Schlusskonfrontation von @ wieder Sicht?",
+      "answers": [
+        "Die Lampe im geöffneten Kühlschrank",
+        "Eine Taschenlampe in Sams Kameratasche",
+        "Das beleuchtete Zifferblatt von Susys Wecker",
+        "Eine eingeschaltete Filmprojektionslampe"
+      ],
+      "feedback": [
+        "Der geöffnete Kühlschrank beleuchtet den Raum.",
+        "Die entscheidende Lichtquelle ist keine Taschenlampe.",
+        "Ein Wecker hebt die Dunkelheit nicht auf.",
+        "Ein Filmprojektor kommt dabei nicht zum Einsatz."
+      ],
+      "short": "Roat nutzt die Lampe des geöffneten Kühlschranks.",
+      "context": "Susy (Audrey Hepburn) zerstört die erreichbaren Lampen, um die Unterschiede zwischen ihr und Roat (Alan Arkin) zu verringern. Der Kühlschrank bewahrt jedoch eine kleine Lichtquelle. Seine offene Tür gibt dem Täter erneut einen Vorteil. Susy muss deshalb auch diesen Stromanschluss erreichen. Das Finale entwickelt seine Gefahr aus der genauen Ausstattung des Raums, dessen gewöhnliche Haushaltsgeräte plötzlich über ihre Chancen entscheiden.",
+      "anchor": "Der Kühlschrank enthält die übersehene Lampe.",
+      "interest": "Ein konkretes räumliches Detail erklärt die Wendung des Finales.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Womit zwingt Roat (Alan Arkin) in @ Talman (Richard Crenna) und Carlino (Jack Weston) zunächst zur Mitarbeit?",
+      "answers": [
+        "Mit ihren Fingerabdrücken am Tatort von Lisas Mord",
+        "Mit einem gefälschten Haftbefehl wegen Drogenbesitzes",
+        "Mit einer Schuldverschreibung über gestohlenes Geld",
+        "Mit Fotos ihrer Angehörigen in seiner Gewalt"
+      ],
+      "feedback": [
+        "Die Männer haben Spuren in der Wohnung hinterlassen und können belastet werden.",
+        "Ein gefälschter Haftbefehl ist nicht sein Druckmittel.",
+        "Eine schriftliche Geldschuld zwingt sie nicht zur Beteiligung.",
+        "Er setzt sie nicht über entführte Angehörige unter Druck."
+      ],
+      "short": "Roat nutzt die am Mordschauplatz hinterlassenen Fingerabdrücke.",
+      "context": "Roat (Alan Arkin) hat Lisa (Samantha Jones) bereits getötet, als Talman (Richard Crenna) und Carlino (Jack Weston) eintreffen. Die beiden haben ohne Vorsicht Gegenstände angefasst. Roat stellt ihre Spuren als mögliche Beweise gegen sie dar und zwingt sie zur Beseitigung der Leiche sowie zur Suche nach der Puppe. Die scheinbare Tätergemeinschaft beginnt dadurch mit einer Drohung innerhalb der eigenen Gruppe.",
+      "anchor": "Die unbedacht hinterlassenen Spuren machen die Helfer erpressbar.",
+      "interest": "Das Wissensziel erklärt die Entstehung der Tätergemeinschaft.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Audrey Hepburn erstmals im Kino?",
+      "answers": [
+        "1967",
+        "1964",
+        "1969",
+        "1972"
+      ],
+      "feedback": [
+        "Der New Yorker Kinostart fand 1967 statt.",
+        "1964 liegt drei Jahre davor.",
+        "1969 liegt zwei Jahre danach.",
+        "1972 liegt fünf Jahre danach."
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 1967.",
+      "context": "1967 überträgt der Film Frederick Knotts Bühnenstück auf die Leinwand. Die Vorlage hatte 1966 am Broadway begonnen; zwischen Theaterpremiere und Kinojahr liegt nur ein Jahr. Das AFI dokumentiert beide Daten und den Erwerb der Filmrechte bereits vor dem Bühnendebüt. Die kurze Verbindung erklärt, warum die abgeschlossene Wohnung und das genau organisierte Auftreten der Besucher den Film so stark prägen.",
+      "anchor": "1966 Broadway, 1967 Kino: ein Jahr von der Bühne zur Leinwand.",
+      "interest": "Die dokumentierte Bühnenvorlage bietet einen konkreten Zeitbezug.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Audrey Hepburn und Alan Arkin Regie?",
+      "answers": [
+        "Terence Young",
+        "Stanley Donen",
+        "William Wyler",
+        "Robert Wise"
+      ],
+      "feedback": [
+        "Terence Young führte Regie.",
+        "Donen inszenierte diese Produktion nicht.",
+        "Wyler ist nicht der Regisseur dieses Films.",
+        "Wise trägt diesen Regiecredit nicht."
+      ],
+      "short": "Terence Young führte Regie.",
+      "context": "Terence Young konzentriert die Auseinandersetzung zwischen Susy (Audrey Hepburn) und ihren Besuchern auf einen überschaubaren Raum. Der AFI-Katalog unterscheidet seinen Regiecredit ausdrücklich von Mel Ferrers Produktion. Die Wohnung muss als genauer Handlungsraum verständlich bleiben, damit spätere Bewegungen, Geräusche und Lichtquellen Bedeutung erhalten. Die Spannung hängt deshalb nicht allein von einer überraschenden Enthüllung ab, sondern auch von der räumlichen Orientierung des Publikums.",
+      "anchor": "Young baut die Spannung aus der genau bekannten Wohnung auf.",
+      "interest": "Der gesicherte Credit verbindet sich mit der räumlichen Inszenierung.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

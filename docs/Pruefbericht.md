@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 08.10.2026 – Thriller lokal auf 100 Filme erweitert
+
+26 neue Filmfassungen und 208 individuelle Fragen, nun 100 Thrillerfilme / 812 Fragen. 207 neue Wissensziele und eine notwendige Regievariante mit bestehender Identität. Gesamtkatalog 26 Pakete / 11.429 Fragen / 10.866 Ziele. **385 Tests in 65 Dateien, TypeScript/Build und neun gezielte Browserfälle in Chromium/Firefox bestanden.** Alle drei Blöcke unabhängig gegen Quellen und Altbestand geprüft; Lösungshinweise ersetzt, regional abweichende Startjahre und Länderkatalogisierungen dokumentiert. Ein anfänglicher Fehler in den Kernreferenzen vor erfolgreichem Rücklauf korrigiert. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](Genres-100-2026-10-08/Thriller/Pruefbericht.md).
+
 ## 08.10.2026 – Abenteuer lokal auf 100 Filme erweitert
 
 43 neue Filmfassungen und 344 individuelle Fragen, nun 100 Abenteuerfilme / 802 Fragen. Lokaler Gesamtkatalog 25 Pakete / 11.221 Fragen / 10.659 Ziele. **383 Tests in 65 Dateien, TypeScript/Build und 26 unterschiedliche Browserfälle bestanden**, ein geplanter WebKit-Desktopfall übersprungen. Isolierte Profile, kontrollierte Testzeit und ausschließlich synthetische Spielstände; alle vorherigen Fragen/Versionen und Lernstände erhalten. Formale Warnungen auf null, kompletter redaktioneller Gegencheck, Quellen und Regieteams/Fassungen dokumentiert. Lokaler autorisierter Worktree, noch nicht veröffentlicht. [Vollständige Abnahme und frühere Prüfbefunde](Genres-100-2026-10-08/Abenteuer/Pruefbericht.md).

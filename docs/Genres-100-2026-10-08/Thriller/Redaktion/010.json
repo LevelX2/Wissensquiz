@@ -1,0 +1,205 @@
+{
+  "rank": 10,
+  "directors": [
+    "Martin Scorsese"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere am 13. Februar 2010 auf der Berlinale; US-Kinostart am 19. Februar 2010.",
+  "familiarity_reason": "Der Psychothriller mit Leonardo DiCaprio und seiner weithin diskutierten Wendung gehört zu den stark wiedererkennbaren Genrewerken.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Shutter_Island_(film)",
+    "festival": "https://www.berlinale.de/en/archive/photos-videos/photo-detail.html?id=198105",
+    "musik": "https://media.rhino.com/press-release/shutter-island-original-motion-picture-soundtrack"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Fall soll Teddy Daniels (Leonardo DiCaprio) zu Beginn von @ aufklären?",
+      "answers": [
+        "Das Verschwinden einer Patientin aus einer psychiatrischen Klinik",
+        "Den unerklärten Tod eines behandelnden Arztes",
+        "Den Verdacht auf Medikamentenschmuggel aus der Klinik",
+        "Die Flucht eines wegen Brandstiftung verurteilten Patienten"
+      ],
+      "feedback": [
+        "Der vermeintliche Auftrag betrifft Rachel Solandos Verschwinden.",
+        "Ein toter Arzt ist nicht sein angeblicher Ermittlungsanlass.",
+        "Ein Schmuggelverdacht führt ihn nicht auf die Insel.",
+        "Er soll eine verschwundene Patientin suchen, keinen geflohenen Brandstifter."
+      ],
+      "short": "Teddy soll eine verschwundene Klinikpatientin finden.",
+      "context": "Teddy Daniels (Leonardo DiCaprio) kommt mit Chuck Aule (Mark Ruffalo) nach Ashecliffe. Der Auftrag wirkt zunächst wie eine gewöhnliche Vermisstensuche, doch das Personal beantwortet ihre Fragen nur zögernd. Die abgeschlossene Insel macht den Ermittlungsort zugleich zum möglichen Gefängnis. Dadurch beginnt sich die Suche nach einer anderen Person mit Teddys eigener Unsicherheit über das Geschehen zu verbinden.",
+      "anchor": "Eine Vermisstensuche führt Teddy in eine verschlossene Welt.",
+      "interest": "Die klare Ausgangslage ermöglicht den Einstieg ohne die Wendung vorwegzunehmen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was verhindert in @ zunächst, dass Teddy (Leonardo DiCaprio) die Insel regulär verlassen kann?",
+      "answers": [
+        "Ein schwerer Sturm",
+        "Ein Defekt der Fähre",
+        "Eine Quarantäne nach einem Krankheitsausbruch",
+        "Ein von der Klinik angeordnetes Ausreiseverbot"
+      ],
+      "feedback": [
+        "Der Sturm unterbricht die Verbindung zum Festland.",
+        "Ein technischer Defekt der Fähre ist nicht die genannte Ursache.",
+        "Eine medizinische Quarantäne verhindert die Abreise nicht.",
+        "Die Isolation entsteht hier durch das Unwetter."
+      ],
+      "short": "Ein Sturm schneidet die Insel vom Festland ab.",
+      "context": "Das Unwetter hält Teddy (Leonardo DiCaprio) und Chuck (Mark Ruffalo) am Schauplatz fest. Zugleich beschädigt es die Klinik und erschwert die Kontrolle über die Patienten. Die äußere Gefahr verändert so die Bedingungen der Untersuchung: Der scheinbar geordnete Ort wird unübersichtlich, während eine schnelle Abreise als Ausweg fehlt. Die Landschaft verstärkt den Druck auf den ohnehin verunsicherten Ermittler.",
+      "anchor": "Der Sturm schließt den Rückweg und öffnet neue Gefahren.",
+      "interest": "Die Isolation erhält eine konkrete Ursache statt nur eine atmosphärische Beschreibung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche wirkliche Funktion hat Chuck (Mark Ruffalo) für Teddy (Leonardo DiCaprio) in @?",
+      "answers": [
+        "Er ist Teddys behandelnder Psychiater.",
+        "Er ist ein eingeschleuster Journalist.",
+        "Er ist der Bruder der verschwundenen Patientin.",
+        "Er ist ein Gefangener, der die Insel verlassen möchte."
+      ],
+      "feedback": [
+        "Chuck spielt eine Rolle innerhalb des Therapieversuchs.",
+        "Er untersucht die Klinik nicht als Journalist.",
+        "Eine Geschwisterbeziehung zur Patientin erklärt seine Rolle nicht.",
+        "Er ist als Arzt Teil des Klinikpersonals."
+      ],
+      "short": "Der vermeintliche Partner ist in Wirklichkeit Dr. Sheehan.",
+      "context": "Chuck Aule (Mark Ruffalo) ist die gespielte Identität des Psychiaters Dr. Sheehan. Teddy Daniels (Leonardo DiCaprio) kennt ihn deshalb scheinbar als neuen Ermittlerkollegen, obwohl der Arzt bereits seit Langem für seine Behandlung zuständig ist. Die vertraute Begleitung erhält rückblickend eine andere Bedeutung: Sie soll Sicherheit innerhalb eines Szenarios geben, das Teddy aus seiner eigenen falschen Geschichte herausführen soll.",
+      "anchor": "Chucks Partnerschaft ist eine therapeutische Rolle.",
+      "interest": "Die Doppelidentität wird über die konkrete berufliche Beziehung erklärt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was ist in @ tatsächlich mit den Kindern von Andrew Laeddis (Leonardo DiCaprio) geschehen?",
+      "answers": [
+        "Ihre Mutter hat sie ertränkt.",
+        "Sie sind bei einem Wohnungsbrand umgekommen.",
+        "Sie wurden aus dem Ferienhaus entführt.",
+        "Sie leben unerkannt bei Verwandten im Ausland."
+      ],
+      "feedback": [
+        "Dolores hat die drei Kinder im See ertränkt.",
+        "Die Brandgeschichte verdeckt den späteren tatsächlichen Verlust.",
+        "Eine Entführung wird nicht als Wahrheit enthüllt.",
+        "Die Kinder haben nicht heimlich überlebt."
+      ],
+      "short": "Dolores hat die Kinder im See ertränkt.",
+      "context": "Andrew Laeddis (Leonardo DiCaprio) hat die psychische Erkrankung seiner Frau Dolores (Michelle Williams) nicht angemessen behandeln lassen. Nach dem Tod der Kinder erschießt er sie. Seine erfundene Geschichte verschiebt die Schuld auf einen Brandstifter und gibt ihm eine Ermittlerrolle. Die Enthüllung macht verständlich, warum der vermeintliche Fall so eng an Bilder seiner eigenen Familie gebunden bleibt.",
+      "anchor": "Der erfundene Brand verdeckt den wirklichen Familientod.",
+      "interest": "Die Traumageschichte ist von der bereits abgefragten Identität seines Arztes getrennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welches Ziel verfolgt Dr. Cawley (Ben Kingsley) mit der inszenierten Untersuchung für Andrew (Leonardo DiCaprio) in @?",
+      "answers": [
+        "Andrew über seinen Wahn zur Wirklichkeit zurückführen",
+        "Andrew zu einem gerichtlich verwertbaren Geständnis bringen",
+        "Andrew für den Test eines neuen Medikaments vorbereiten",
+        "Andrew zur Identifikation eines gewalttätigen Mitpatienten einsetzen"
+      ],
+      "feedback": [
+        "Das Rollenspiel soll einen letzten therapeutischen Durchbruch ermöglichen.",
+        "Ein Beweis für eine Gerichtsverhandlung ist nicht der Zweck.",
+        "Das Szenario dient nicht als Vorbereitung eines Medikamententests.",
+        "Die Untersuchung ist kein echter Auftrag gegen einen anderen Patienten."
+      ],
+      "short": "Die gespielte Untersuchung ist ein letzter Therapieversuch.",
+      "context": "Dr. Cawley (Ben Kingsley) lässt die Klinik Teddys (Leonardo DiCaprio) Vorstellung einer Verschwörung mitspielen. Er hofft, dass Andrew die Grenzen seiner erfundenen Identität selbst erreicht und die verdrängte Wahrheit annehmen kann. Misslingt der Versuch, droht eine Lobotomie. Die Täuschung der Ärzte ist damit keine neutrale Methode: Sie entsteht aus einem umstrittenen Versuch, einen noch härteren Eingriff abzuwenden.",
+      "anchor": "Cawley nutzt den Wahn als Weg aus dem Wahn.",
+      "interest": "Die Behandlungsidee erschließt den Sinn des gesamten Inszenierungsplans.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie wurde die Filmmusik für @ wesentlich zusammengestellt?",
+      "answers": [
+        "Aus vorhandenen Aufnahmen vor allem moderner klassischer Musik",
+        "Aus einem eigens komponierten symphonischen Originalscore",
+        "Aus neu aufgenommenen Jazzstücken einer einzigen Band",
+        "Aus neu arrangierten Volksliedern der amerikanischen Ostküste"
+      ],
+      "feedback": [
+        "Robbie Robertson wählte vorhandene musikalische Werke und Aufnahmen aus.",
+        "Ein neu geschriebener vollständiger Originalscore bildet nicht die Musikgrundlage.",
+        "Die Auswahl stammt nicht von einer einzigen neu aufgenommenen Jazzband.",
+        "Sie ist keine Sammlung neu arrangierter regionaler Volkslieder."
+      ],
+      "short": "Robbie Robertson stellte vorhandene Musikaufnahmen zusammen.",
+      "context": "Die Musik von Shutter Island wirkt wie eine eigene bedrohliche Klangwelt, entstand aber wesentlich durch die Auswahl bereits vorhandener Werke. Robbie Robertson stellte unter anderem moderne klassische Musik zusammen. Ihre fremdartigen Klangfarben begleiten Teddys (Leonardo DiCaprio) instabile Wahrnehmung. Das Beispiel zeigt, dass eine stark auf den Film zugeschnittene musikalische Wirkung auch ohne einen neu geschriebenen vollständigen Originalscore entstehen kann.",
+      "anchor": "Vorhandene Kompositionen werden zu einer neuen Klangdramaturgie.",
+      "interest": "Der Produktionszusammenhang erklärt eine hörbare Besonderheit.",
+      "sources": [
+        "handlung",
+        "musik"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Leonardo DiCaprio erstmals veröffentlicht?",
+      "answers": [
+        "2010",
+        "2006",
+        "2008",
+        "2012"
+      ],
+      "feedback": [
+        "Die Weltpremiere fand 2010 statt.",
+        "2006 liegt vier Jahre davor.",
+        "2008 liegt zwei Jahre davor.",
+        "2012 liegt zwei Jahre danach."
+      ],
+      "short": "2003 Lehanes Roman, 2010 die Verfilmung: sieben Jahre Abstand.",
+      "context": "Dennis Lehanes Roman Shutter Island erschien 2003. Martin Scorseses Verfilmung folgte 2010, sieben Jahre später. Leonardo DiCaprio spielt Teddy Daniels beziehungsweise Andrew Laeddis, dessen vermeintliche Untersuchung eng mit der eigenen verdrängten Vergangenheit verbunden ist. Die nahe Verbindung von Buch und Film verankert das Veröffentlichungsjahr durch die literarische Vorlage. Davon zu unterscheiden ist die erzählte Zeit, in der die Reise zur Insel 1954 beginnt.",
+      "anchor": "2003 Lehanes Roman, 2010 die Verfilmung: sieben Jahre Abstand.",
+      "interest": "Die literarische Vorlage liefert einen konkreten zweiten Zeitanker.",
+      "sources": [
+        "handlung",
+        "festival"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Leonardo DiCaprio und Mark Ruffalo?",
+      "answers": [
+        "Martin Scorsese",
+        "David Fincher",
+        "Christopher Nolan",
+        "David Lynch"
+      ],
+      "feedback": [
+        "Martin Scorsese führte Regie.",
+        "Fincher trägt diesen Regiecredit nicht.",
+        "Nolan inszenierte diese Produktion nicht.",
+        "Lynch führte bei diesem Film nicht Regie."
+      ],
+      "short": "Martin Scorsese führte Regie.",
+      "context": "Martin Scorsese führt das Publikum zunächst entlang der Wahrnehmung Teddys (Leonardo DiCaprio). Widersprüche erscheinen dadurch als Zeichen einer äußeren Verschwörung, bevor sich die Perspektive verändert. Die Berlinale dokumentiert Scorsese als Regisseur der Premiere. Sein Film verlangt, die bereits gesehenen Begegnungen nach der Auflösung neu einzuordnen, statt einfach einen zusätzlichen unbekannten Täter zu präsentieren.",
+      "anchor": "Scorseses Ermittlungsweg verändert rückblickend seine Bedeutung.",
+      "interest": "Der Credit verbindet sich mit der konkreten Perspektivführung.",
+      "sources": [
+        "festival",
+        "handlung"
+      ]
+    }
+  ]
+}

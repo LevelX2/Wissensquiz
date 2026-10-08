@@ -1,0 +1,205 @@
+{
+  "rank": 17,
+  "directors": [
+    "Tomas Alfredson"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "Frankreich",
+    "Deutschland"
+  ],
+  "release_note": "Weltpremiere am 5. September 2011 in Venedig; deutscher Kinostart erst 2012, nicht maßgeblich für die Erstveröffentlichung.",
+  "familiarity_reason": "Die le-Carré-Verfilmung mit Gary Oldman ist ein moderner Spionageklassiker; ihre zurückhaltende, komplexe Intrige richtet sich eher an Kenner.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Tinker_Tailor_Soldier_Spy_(film)",
+    "vorlage": "https://www.focusfeatures.com/article/out_of_the_past",
+    "studio": "https://www.focusfeatures.com/article/spy_masters"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Auftrag erhält der bereits pensionierte Smiley (Gary Oldman) in @?",
+      "answers": [
+        "Einen sowjetischen Maulwurf in der eigenen Dienstführung finden",
+        "Einen verschwundenen britischen Informanten in Moskau aufspüren",
+        "Gestohlene Akten aus einer ausländischen Botschaft zurückholen",
+        "Die Deckidentität eines gefassten sowjetischen Überläufers prüfen"
+      ],
+      "feedback": [
+        "Der Verdacht richtet sich gegen die eigene Führung.",
+        "Eine Informantensuche in Moskau ist nicht sein Auftrag.",
+        "Ein Aktenraub in einer Botschaft ist nicht der zentrale Fall.",
+        "Die Prüfung eines einzelnen Überläufers beschreibt die Untersuchung nicht."
+      ],
+      "short": "Smiley soll einen Maulwurf in der Führung des britischen Dienstes finden.",
+      "context": "George Smiley (Gary Oldman) kehrt für eine verdeckte Untersuchung aus dem Ruhestand zurück. Der Verdacht richtet sich nicht auf einen unbekannten Außenseiter, sondern auf den kleinen Kreis an der Spitze seines früheren Dienstes. Er muss deshalb vertraute Personen und alte Abläufe erneut betrachten. Der Auftrag verlagert Spionage vom sichtbaren Gegenspieler in die eigene Institution, deren vermeintlich erfolgreiche Arbeit bereits unterwandert sein könnte.",
+      "anchor": "Der gesuchte Feind sitzt in der vertrauten eigenen Führung.",
+      "interest": "Die zentrale Aufgabe wird abgefragt, ohne Oldmans bereits vorhandene Rollenidentität zu wiederholen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "In welcher neuen Tätigkeit findet Smiley (Gary Oldman) in @ den überlebenden Jim Prideaux (Mark Strong)?",
+      "answers": [
+        "Als Lehrer an einer Schule",
+        "Als Übersetzer bei der Botschaft",
+        "Als Fahrer eines Londoner Taxiunternehmens",
+        "Als Archivar im Außenministerium"
+      ],
+      "feedback": [
+        "Prideaux arbeitet nach seiner Rückkehr als Lehrer.",
+        "Er wird nicht im Übersetzungsdienst der Botschaft gefunden.",
+        "Ein Taxiunternehmen ist nicht seine neue Arbeitsstelle.",
+        "Er arbeitet nicht als Archivar des Ministeriums."
+      ],
+      "short": "Jim Prideaux arbeitet inzwischen als Lehrer.",
+      "context": "Jim Prideaux (Mark Strong) lebt nach dem gescheiterten Einsatz in Budapest scheinbar außerhalb der aktiven Spionage. In der Schule gibt er Unterricht und knüpft Kontakt zu einem einsamen Jungen. George Smiley (Gary Oldman) braucht dennoch seine Erinnerungen an den Auftrag. Der neue Alltag trennt ihn äußerlich vom Dienst, schützt ihn aber nicht vor dessen alten Loyalitäten und den Folgen seiner Gefangenschaft.",
+      "anchor": "Der ehemalige Einsatzmann lebt als Lehrer mit den Folgen des Dienstes.",
+      "interest": "Die zivile Tätigkeit bildet ein eigenständiges leichtes Handlungsziel.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was findet Smiley (Gary Oldman) in @ im von Guillam (Benedict Cumberbatch) beschafften Dienstbuch?",
+      "answers": [
+        "Die Seiten der entscheidenden Nacht wurden herausgetrennt.",
+        "Die Meldung wurde unter einem falschen Datum eingetragen.",
+        "Ein fremder Offizier hat den Empfang der Meldung quittiert.",
+        "Die Meldung wurde nachträglich als Fehlalarm markiert."
+      ],
+      "feedback": [
+        "Die fehlenden Seiten zeigen den Eingriff in die Dienstakten.",
+        "Ein falscher Datumsvermerk ist nicht die Entdeckung.",
+        "Eine fremde Empfangsunterschrift liefert nicht den Hinweis.",
+        "Eine Fehlalarmmarkierung ist nicht der konkrete Befund."
+      ],
+      "short": "Die Einträge der entscheidenden Nacht fehlen.",
+      "context": "Ricki Tarr (Tom Hardy) hatte aus Istanbul gewarnt, eine sowjetische Quelle könne einen Maulwurf benennen. Peter Guillam (Benedict Cumberbatch) beschafft das Dienstbuch, mit dem sich diese Meldung prüfen ließe. George Smiley (Gary Oldman) findet stattdessen eine Lücke. Das Fehlen ist selbst eine Information: Jemand mit internem Zugriff hat die Spur entfernt, wodurch Tarrs unglaubwürdig erscheinende Geschichte an Gewicht gewinnt.",
+      "anchor": "Die entfernten Seiten belegen den internen Zugriff auf die Warnung.",
+      "interest": "Das Wissensziel zeigt, wie ein fehlender Beleg zum Hinweis wird.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was hatte Connie Sachs (Kathy Burke) in @ über Polyakov (Konstantin Khabensky) entdeckt?",
+      "answers": [
+        "Der Kulturattaché ist in Wirklichkeit ein Militärmann.",
+        "Er hat früher die britische Außenstelle in Moskau geführt.",
+        "Er ist mit einem Mitglied der britischen Regierung verwandt.",
+        "Er hat seine Identität von einem verstorbenen Diplomaten übernommen."
+      ],
+      "feedback": [
+        "Sie erkennt seine militärische Funktion hinter der kulturellen Tarnung.",
+        "Eine Leitung der britischen Außenstelle wird nicht entdeckt.",
+        "Eine Verwandtschaft mit einem britischen Regierungsmitglied ist nicht ihr Befund.",
+        "Eine gestohlene Identität erklärt ihre Entdeckung nicht."
+      ],
+      "short": "Connie erkennt Polyakov als Militärmann hinter einer diplomatischen Tarnung.",
+      "context": "Connie Sachs (Kathy Burke) hat Alexei Polyakov (Konstantin Khabensky) als militärischen Akteur erkannt und vermutet eine Verbindung zu einem Maulwurf in London. Die Dienstführung schickt sie fort, statt ihre Analyse weiterzuverfolgen. George Smiley (Gary Oldman) kann deshalb außerhalb der offiziellen Akten auf eine bereits vorhandene, unterdrückte Erkenntnis zurückgreifen. Die Aufklärung beginnt auch damit, den institutionell verlorenen Sachverstand wieder ernst zu nehmen.",
+      "anchor": "Die entlassene Analystin hatte eine entscheidende Tarnung bereits erkannt.",
+      "interest": "Die verdrängte Analyse bildet einen anderen Hinweis als das manipulierte Dienstbuch.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was ist die verborgene Funktion der Operation Witchcraft in @?",
+      "answers": [
+        "Sowjetische Köder sollen britische und amerikanische Geheimnisse erschließen.",
+        "Britische Köder sollen den sowjetischen Gegenspieler nach London locken.",
+        "Amerikanische Quellen sollen die britische Führung unabhängig kontrollieren.",
+        "Sowjetische Falschmeldungen sollen die Flucht ostdeutscher Überläufer decken."
+      ],
+      "feedback": [
+        "Der vermeintliche Erfolg öffnet den Weg zum eigenen und zum CIA-Wissen.",
+        "Ein Anlocken des Gegenspielers nach London ist nicht die Funktion.",
+        "Die Operation liefert keine unabhängige amerikanische Kontrolle.",
+        "Eine Deckung ostdeutscher Überläufer ist nicht das verdeckte Ziel."
+      ],
+      "short": "Witchcraft gibt scheinbar wertvolle Informationen, um wichtigere Geheimnisse zu gewinnen.",
+      "context": "Die neue Führung hält Witchcraft für einen großen Nachrichtenerfolg. Smiley (Gary Oldman) erkennt dagegen den umgekehrten Informationsfluss: Der Maulwurf gibt britische Geheimnisse an Polyakov (Konstantin Khabensky). Die sowjetischen Köder sollen außerdem die CIA zu engerem Austausch bewegen, sodass auch amerikanisches Wissen zugänglich wird. Die Operation gewinnt ihren Nutzen gerade daraus, dass die Beteiligten sie als eigenen Erfolg verteidigen und ihre Sicherheitszweifel unterdrücken.",
+      "anchor": "Der gefeierte Nachrichtenerfolg ist ein Köder für den Zugang zu weiteren Geheimnissen.",
+      "interest": "Die Auflösung erklärt die gesamte Informationsarchitektur statt nur den Namen des Verräters.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wozu dient Haydons (Colin Firth) Affäre mit Ann (Katrina Vasilieva) gegenüber Smiley (Gary Oldman) in @?",
+      "answers": [
+        "Sein Urteil über Haydon beeinträchtigen",
+        "Ihn zur freiwilligen Pensionierung bewegen",
+        "Seine Wohnung für Treffen sowjetischer Agenten nutzen",
+        "Seine Dienstunterlagen heimlich fotografieren"
+      ],
+      "feedback": [
+        "Karla will Smileys Blick auf Haydon durch Gefühle trüben.",
+        "Eine freiwillige Pensionierung ist nicht der bestätigte Zweck.",
+        "Eine Nutzung des Hauses als sowjetischer Treffpunkt ist nicht das Ziel.",
+        "Eine Fotografie seiner Unterlagen erklärt die angeordnete Affäre nicht."
+      ],
+      "short": "Karla wollte Smileys Urteil über Haydon durch die private Verletzung trüben.",
+      "context": "Bill Haydon (Colin Firth) bestätigt George Smiley (Gary Oldman), dass die Beziehung zu dessen Frau Ann (Katrina Vasilieva) auf Karlas (Stimme: Michael Sarne) Anweisung entstand. Die Affäre ist deshalb mehr als eine private Untreue im Umfeld des Falls. Der Gegner nutzt Smileys Gefühle als Teil der Abschirmung seines Maulwurfs. Die Untersuchung verlangt von Smiley, diese eigene Verletzung zu erkennen, ohne sie zum alleinigen Maßstab seines Urteils zu machen.",
+      "anchor": "Die private Verletzung soll den professionellen Blick auf Haydon stören.",
+      "interest": "Die Affäre erhält ihre konkrete strategische Funktion.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann wurde @ mit Gary Oldman erstmals veröffentlicht?",
+      "answers": [
+        "2011",
+        "2007",
+        "2009",
+        "2013"
+      ],
+      "feedback": [
+        "Die Weltpremiere fand 2011 statt.",
+        "2007 liegt vier Jahre davor.",
+        "2009 liegt zwei Jahre davor.",
+        "2013 liegt zwei Jahre danach."
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 2011.",
+      "context": "2011 adaptiert der Film John le Carrés Roman, der 1974 erstmals erschienen war. Zwischen Buch und Kinofilm liegen 37 Jahre. Focus Features dokumentiert die Entstehung der Vorlage und ihren Ort im Spionagezyklus. Der große Abstand ermöglicht eine historische Gestaltung der Dienstwelt, während das Rätsel um Loyalität und institutionelles Vertrauen bestehen bleibt. Das Filmjahr ist daher vom Zeitraum der dargestellten Geheimdienstarbeit zu unterscheiden.",
+      "anchor": "1974 Roman, 2011 Kino: 37 Jahre bis zu dieser Verfilmung.",
+      "interest": "Die dokumentierte Vorlage bietet einen präzisen Zeitanker.",
+      "sources": [
+        "vorlage",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Gary Oldman und Colin Firth?",
+      "answers": [
+        "Tomas Alfredson",
+        "Thomas Vinterberg",
+        "David Fincher",
+        "Benedict Andrews"
+      ],
+      "feedback": [
+        "Tomas Alfredson führte Regie.",
+        "Vinterberg inszenierte diese Produktion nicht.",
+        "Fincher trägt diesen Regiecredit nicht.",
+        "Andrews führte bei diesem Film nicht Regie."
+      ],
+      "short": "Tomas Alfredson führte Regie.",
+      "context": "Tomas Alfredson bringt einen schwedischen Blick auf die britische Dienstwelt. Im offiziellen Produktionsbericht betont Produzentin Robyn Slovo, dass dieser Blick von außen eine weniger vertraute Perspektive ermöglicht. Die Inszenierung beobachtet die Institution über Räume, Gesichter und zurückhaltende Begegnungen. Das Publikum muss Hinweise ähnlich sorgfältig zusammensetzen wie George Smiley (Gary Oldman), dessen Untersuchung lange ohne offene Konfrontation auskommt.",
+      "anchor": "Alfredsons Blick von außen beobachtet die britische Institution.",
+      "interest": "Der gesicherte Credit wird mit einer belegten Äußerung zur Arbeitsweise verbunden.",
+      "sources": [
+        "studio"
+      ]
+    }
+  ]
+}

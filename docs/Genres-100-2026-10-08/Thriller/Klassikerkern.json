@@ -1,0 +1,336 @@
+{
+  "date": "2026-10-08",
+  "method": "Redaktioneller Kern von 20 prägenden Werken: frühe Verfolgungsfilme, Film noir, Hitchcock-Suspense, Überwachung und Spionage sowie psychologische und moderne Ermittlungsfilme. Keine objektive Top-20-Rangliste; bestehende Genrezuordnungen bleiben maßgeblich.",
+  "before": 12,
+  "added": 8,
+  "after": 20,
+  "context_sources": [
+    "https://www.bfi.org.uk/lists/100-essential-thrillers",
+    "https://www.bfi.org.uk/lists/10-great-spy-films"
+  ],
+  "films": [
+    {
+      "film": "M|1931",
+      "title": "M – Eine Stadt sucht einen Mörder",
+      "reason": "Früher Tonfilm verbindet Täterjagd, öffentliche Angst und die Frage nach Gerichtsbarkeit.",
+      "status": "vorhanden",
+      "question_ids": [
+        "CLA-L-039",
+        "CLA-L-040",
+        "CLA-M-039",
+        "CLA-M-040",
+        "CLA-S-039",
+        "CLA-S-040",
+        "FF-070-YEAR",
+        "FF-070-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Double Indemnity|1944",
+      "title": "Frau ohne Gewissen",
+      "reason": "Versicherungsbetrug, Verführung und ein selbst belastendes Geständnis als Film-noir-Muster.",
+      "status": "vorhanden",
+      "question_ids": [
+        "CLA-L-019",
+        "CLA-L-020",
+        "CLA-M-019",
+        "CLA-M-020",
+        "CLA-S-019",
+        "CLA-S-020",
+        "FF-060-YEAR",
+        "FF-060-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Night of the Hunter|1955",
+      "title": "Die Nacht des Jägers",
+      "reason": "Die bedrohte Kindheit und der falsche Prediger geben der Verfolgung eine märchenhafte Gestalt.",
+      "status": "vorhanden",
+      "question_ids": [
+        "CLA-L-017",
+        "CLA-L-018",
+        "CLA-M-017",
+        "CLA-M-018",
+        "CLA-S-017",
+        "CLA-S-018",
+        "FF-059-YEAR",
+        "FF-059-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Rear Window|1954",
+      "title": "Das Fenster zum Hof",
+      "reason": "Beschränkte Beobachterperspektive macht alltägliche Nachbarschaft zur unsicheren Beweislage.",
+      "status": "vorhanden",
+      "question_ids": [
+        "CLA-L-023",
+        "CLA-L-024",
+        "CLA-M-023",
+        "CLA-M-024",
+        "CLA-S-023",
+        "CLA-S-024",
+        "CLA-L-024-V1",
+        "CLA-M-024-V1",
+        "CLA-S-024-V1",
+        "FF-062-YEAR",
+        "FF-062-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Vertigo|1958",
+      "title": "Vertigo",
+      "reason": "Die Spannung entsteht aus inszenierter Identität, Erinnerung und zwanghafter Wiederholung.",
+      "status": "vorhanden",
+      "question_ids": [
+        "CLA-L-027",
+        "CLA-L-028",
+        "CLA-M-027",
+        "CLA-M-028",
+        "CLA-S-027",
+        "CLA-S-028",
+        "FF-064-YEAR",
+        "FF-064-DIRECTOR"
+      ]
+    },
+    {
+      "film": "North by Northwest|1959",
+      "title": "Der unsichtbare Dritte",
+      "reason": "Verwechslung und eine grenzüberschreitende Verfolgung verbinden Agentenfilm und Suspense.",
+      "status": "vorhanden",
+      "question_ids": [
+        "CLA-L-025",
+        "CLA-L-026",
+        "CLA-M-025",
+        "CLA-M-026",
+        "CLA-S-025",
+        "CLA-S-026",
+        "FF-063-YEAR",
+        "FF-063-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Chinatown|1974",
+      "title": "Chinatown",
+      "reason": "Privater Ermittlungsauftrag führt zu familiärer Gewalt und institutioneller Korruption.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-201-L1",
+        "F240-20261006-201-L2",
+        "F240-20261006-201-M1",
+        "F240-20261006-201-M2",
+        "F240-20261006-201-S1",
+        "F240-20261006-201-S2",
+        "F240-20261006-201-Y",
+        "F240-20261006-201-D"
+      ]
+    },
+    {
+      "film": "The Third Man|1949",
+      "title": "Der dritte Mann",
+      "reason": "Ein vermisster Freund und der Schwarzmarkt im geteilten Wien prägen den Nachkriegsthriller.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-205-L1",
+        "F240-20261006-205-L2",
+        "F240-20261006-205-M1",
+        "F240-20261006-205-M2",
+        "F240-20261006-205-S1",
+        "F240-20261006-205-S2",
+        "F240-20261006-205-Y",
+        "F240-20261006-205-D"
+      ]
+    },
+    {
+      "film": "The Silence of the Lambs|1991",
+      "title": "Das Schweigen der Lämmer",
+      "reason": "Ermittlung und psychologisches Duell verbinden den Serienmörderthriller mit der Ausbildung einer Ermittlerin.",
+      "status": "vorhanden",
+      "question_ids": [
+        "THR-202610-P01-L-003",
+        "THR-202610-P01-L-004",
+        "THR-202610-P01-M-004",
+        "THR-202610-P01-M-005",
+        "THR-202610-P01-S-004",
+        "THR-202610-P01-S-005",
+        "THR-202610-P01-M-006",
+        "THR-202610-P01-S-006"
+      ]
+    },
+    {
+      "film": "Se7en|1995",
+      "title": "Sieben",
+      "reason": "Eine organisierte Mordserie zwingt zwei Ermittler in ein moralisch kalkuliertes Finale.",
+      "status": "vorhanden",
+      "question_ids": [
+        "THR-202610-P01-L-001",
+        "THR-202610-P01-L-002",
+        "THR-202610-P01-M-001",
+        "THR-202610-P01-M-002",
+        "THR-202610-P01-S-001",
+        "THR-202610-P01-S-002",
+        "THR-202610-P01-M-003",
+        "THR-202610-P01-S-003"
+      ]
+    },
+    {
+      "film": "Zodiac|2007",
+      "title": "Zodiac – Die Spur des Killers",
+      "reason": "Unvollständige Beweise und jahrelange Recherche ersetzen die einfache Auflösung eines Kriminalfalls.",
+      "status": "vorhanden",
+      "question_ids": [
+        "THR-202610-P01-L-011",
+        "THR-202610-P01-L-012",
+        "THR-202610-P01-M-016",
+        "THR-202610-P01-M-017",
+        "THR-202610-P01-S-016",
+        "THR-202610-P01-S-017",
+        "THR-202610-P01-M-018",
+        "THR-202610-P01-S-018"
+      ]
+    },
+    {
+      "film": "Memento|2000",
+      "title": "Memento",
+      "reason": "Die gestörte Erinnerung des Ermittelnden bestimmt die Erzählordnung und die Zuverlässigkeit der Hinweise.",
+      "status": "vorhanden",
+      "question_ids": [
+        "THR-202610-P01-L-007",
+        "THR-202610-P01-L-008",
+        "THR-202610-P01-M-010",
+        "THR-202610-P01-M-011",
+        "THR-202610-P01-S-010",
+        "THR-202610-P01-S-011",
+        "THR-202610-P01-M-012",
+        "THR-202610-P01-S-012"
+      ]
+    },
+    {
+      "film": "Notorious|1946",
+      "title": "Berüchtigt",
+      "reason": "Die Liebesbeziehung innerhalb einer verdeckten Mission macht Vertrauen selbst zum Risiko.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-THRILLER-001-L1",
+        "G100-20261008-THRILLER-001-L2",
+        "G100-20261008-THRILLER-001-M1",
+        "G100-20261008-THRILLER-001-M2",
+        "G100-20261008-THRILLER-001-S1",
+        "G100-20261008-THRILLER-001-S2",
+        "G100-20261008-THRILLER-001-Y",
+        "G100-20261008-THRILLER-001-D"
+      ]
+    },
+    {
+      "film": "Strangers on a Train|1951",
+      "title": "Der Fremde im Zug",
+      "reason": "Der scheinbare Tausch zweier Mordaufträge verbindet Zufallsbegegnung und psychischen Zwang.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-THRILLER-002-L1",
+        "G100-20261008-THRILLER-002-L2",
+        "G100-20261008-THRILLER-002-M1",
+        "G100-20261008-THRILLER-002-M2",
+        "G100-20261008-THRILLER-002-S1",
+        "G100-20261008-THRILLER-002-S2",
+        "G100-20261008-THRILLER-002-Y",
+        "G100-20261008-THRILLER-002-D"
+      ]
+    },
+    {
+      "film": "Dial M for Murder|1954",
+      "title": "Bei Anruf Mord",
+      "reason": "Ein präzise geplanter Mord verändert sich durch Zufall und nachträgliche Spurenmanipulation.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-THRILLER-003-L1",
+        "G100-20261008-THRILLER-003-L2",
+        "G100-20261008-THRILLER-003-M1",
+        "G100-20261008-THRILLER-003-M2",
+        "G100-20261008-THRILLER-003-S1",
+        "G100-20261008-THRILLER-003-S2",
+        "G100-20261008-THRILLER-003-Y",
+        "G100-20261008-THRILLER-003-D"
+      ]
+    },
+    {
+      "film": "The Conversation|1974",
+      "title": "Der Dialog",
+      "reason": "Technisches Abhören und subjektive Deutung von Sprache bilden den Kern eines Überwachungsthrillers.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-THRILLER-006-L1",
+        "G100-20261008-THRILLER-006-L2",
+        "G100-20261008-THRILLER-006-M1",
+        "G100-20261008-THRILLER-006-M2",
+        "G100-20261008-THRILLER-006-S1",
+        "G100-20261008-THRILLER-006-S2",
+        "G100-20261008-THRILLER-006-Y",
+        "G100-20261008-THRILLER-006-D"
+      ]
+    },
+    {
+      "film": "Les Diaboliques|1955",
+      "title": "Die Teuflischen",
+      "reason": "Ein gemeinsam geplanter Mord führt zu einer täuschenden Beweislage und einer doppelten Verschwörung.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-THRILLER-007-L1",
+        "G100-20261008-THRILLER-007-L2",
+        "G100-20261008-THRILLER-007-M1",
+        "G100-20261008-THRILLER-007-M2",
+        "G100-20261008-THRILLER-007-S1",
+        "G100-20261008-THRILLER-007-S2",
+        "G100-20261008-THRILLER-007-Y",
+        "G100-20261008-THRILLER-007-D"
+      ]
+    },
+    {
+      "film": "Blow-Up|1966",
+      "title": "Blow Up",
+      "reason": "Fotografische Vergrößerungen und unsichere Beobachtung stellen die Beweisbarkeit eines Ereignisses infrage.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-THRILLER-012-L1",
+        "G100-20261008-THRILLER-012-L2",
+        "G100-20261008-THRILLER-012-M1",
+        "G100-20261008-THRILLER-012-M2",
+        "G100-20261008-THRILLER-012-S1",
+        "G100-20261008-THRILLER-012-S2",
+        "G100-20261008-THRILLER-012-Y",
+        "G100-20261008-THRILLER-012-D"
+      ]
+    },
+    {
+      "film": "The Spy Who Came in from the Cold|1965",
+      "title": "Der Spion, der aus der Kälte kam",
+      "reason": "Die verdeckte Mission des Kalten Krieges macht die moralischen Kosten der Spionage zum Zentrum.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-THRILLER-016-L1",
+        "G100-20261008-THRILLER-016-L2",
+        "G100-20261008-THRILLER-016-M1",
+        "G100-20261008-THRILLER-016-M2",
+        "G100-20261008-THRILLER-016-S1",
+        "G100-20261008-THRILLER-016-S2",
+        "G100-20261008-THRILLER-016-Y",
+        "G100-20261008-THRILLER-016-D"
+      ]
+    },
+    {
+      "film": "Le Samouraï|1967",
+      "title": "Der eiskalte Engel",
+      "reason": "Der schweigsame Auftragsmörder verkörpert eine stilisierte Variante des kriminalistischen Verfolgungsfilms.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-THRILLER-024-L1",
+        "G100-20261008-THRILLER-024-L2",
+        "G100-20261008-THRILLER-024-M1",
+        "G100-20261008-THRILLER-024-M2",
+        "G100-20261008-THRILLER-024-S1",
+        "G100-20261008-THRILLER-024-S2",
+        "G100-20261008-THRILLER-024-Y",
+        "G100-20261008-THRILLER-024-D"
+      ]
+    }
+  ]
+}

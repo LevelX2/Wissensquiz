@@ -100,3 +100,48 @@ test("unterscheidet den frühen Erststart von einem späteren Länderstart und z
   await expect(page.locator(".film-data")).toContainText("1986");
   await expect(page.locator(".film-data")).toContainText("1987");
 });
+
+test("enthält 100 Thrillerfilme, erhält die bestehende Wissenszielidentität und lädt das Paket offline", async ({
+  page,
+  context,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-08T12:00:00+02:00") });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const initial = await readStoredState(page);
+  const thriller = initial.questions.filter(
+    (q) => questionSourceOf(q) === "film" && genreOf(q) === "Thriller",
+  );
+  expect(new Set(thriller.map(filmIdentity)).size).toBe(100);
+  expect(thriller).toHaveLength(812);
+  const variant = initial.questions.find(
+    (q) => q.id === "G100-20261008-THRILLER-012-D",
+  )!;
+  expect(variant.knowledgeId).toBe(
+    initial.questions.find((q) => q.id === "SCHAUSPIELER-202610-P03-153-M-1")!
+      .knowledgeId,
+  );
+  await prepareQuestion(page, "G100-20261008-THRILLER-012-Y");
+  await expect(page.locator(".question-card h1")).not.toContainText("1966");
+  await expect(page.locator(".film-data")).toHaveCount(0);
+  await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
+  await page.locator(".film-data > summary").click();
+  await expect(page.locator(".film-data")).toContainText("1966");
+  await expect(page.locator(".film-data")).toContainText("1967");
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(
+    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
+      exact: false,
+    }),
+  ).toBeVisible();
+  await context.setOffline(true);
+  await page.reload();
+  expect(
+    await page.evaluate(async () =>
+      (await fetch("/genre100-thriller-fragen.csv")).text(),
+    ),
+  ).toBe(readFileSync("public/genre100-thriller-fragen.csv", "utf8"));
+  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+});

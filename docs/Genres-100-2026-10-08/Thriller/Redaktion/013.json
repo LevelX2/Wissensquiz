@@ -1,0 +1,204 @@
+{
+  "rank": 13,
+  "directors": [
+    "Curtis Hanson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Originalfilm von 1992; US-Kinostart am 10. Januar 1992 nach D23. Nicht die spätere Neuverfilmung.",
+  "familiarity_reason": "Der Haushaltsthriller mit Rebecca De Mornay besitzt ein gut wiedererkennbares Grundmotiv und war ein großer Kinoerfolg.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Hand_That_Rocks_the_Cradle_(1992_film)",
+    "studio": "https://d23.com/a-to-z/hand-that-rocks-the-cradle-the-film/",
+    "hanson": "https://www.bfi.org.uk/film/4501afca-4859-5f57-998b-87fe40b62d7e/la-confidential"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Stelle erhält Peyton (Rebecca De Mornay) in @ im Haushalt der Bartels?",
+      "answers": [
+        "Kinderbetreuerin",
+        "Hausärztin",
+        "Klavierlehrerin",
+        "Gärtnerin"
+      ],
+      "feedback": [
+        "Peyton wird als Kinderbetreuerin eingestellt.",
+        "Sie behandelt die Familie nicht als Ärztin.",
+        "Musikunterricht ist nicht ihre Anstellung.",
+        "Für die Gartenarbeit ist vor allem Solomon zuständig."
+      ],
+      "short": "Peyton kommt als Kinderbetreuerin ins Haus.",
+      "context": "Unter dem Namen Peyton Flanders gewinnt die Frau (Rebecca De Mornay) das Vertrauen von Claire (Annabella Sciorra) und Michael Bartel (Matt McCoy). Ihre Arbeit gibt ihr Zugang zu den Kindern und den privaten Routinen der Familie. Gerade die scheinbar hilfreiche Stellung ermöglicht es ihr, Bindungen zu verändern und Misstrauen zu säen. Die Gefahr entsteht innerhalb eines Alltags, der ihre Anwesenheit zunächst willkommen heißt.",
+      "anchor": "Die hilfreiche Betreuung verschafft Peyton Zugang zum Familienleben.",
+      "interest": "Die grundlegende Stellung erklärt, wie die Bedrohung in den Haushalt gelangt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Erkrankung macht Claire (Annabella Sciorra) in @ körperlich verwundbar?",
+      "answers": [
+        "Asthma",
+        "Epilepsie",
+        "Diabetes",
+        "Eine schwere Herzrhythmusstörung"
+      ],
+      "feedback": [
+        "Claire leidet unter Asthma.",
+        "Epileptische Anfälle sind nicht ihre gezeigte Erkrankung.",
+        "Eine Unterzuckerung erklärt die Atemnot nicht.",
+        "Die Bedrohung zielt auf ihre Asthmabehandlung."
+      ],
+      "short": "Claire leidet unter Asthma.",
+      "context": "Claires (Annabella Sciorra) Atemnot ist keine beiläufige Charaktereigenschaft. Stress kann einen Anfall auslösen, und ihre Inhalatoren geben ihr normalerweise Sicherheit. Peyton (Rebecca De Mornay) entleert diese Hilfsmittel. Dadurch verbindet der Film psychische Manipulation mit einer konkreten körperlichen Gefahr: Die Frau, die im Haus Unterstützung leisten soll, greift gezielt auf Wissen zurück, das die Familie ihr im Vertrauen zugänglich gemacht hat.",
+      "anchor": "Peyton macht aus dem bekannten Asthma eine gezielte Gefahr.",
+      "interest": "Die Erkrankung erklärt eine wiederkehrende konkrete Verwundbarkeit.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie sorgt Peyton (Rebecca De Mornay) in @ für Solomons (Ernie Hudson) Entlassung?",
+      "answers": [
+        "Sie versteckt Unterwäsche von Emma (Madeline Zima) in seinem Werkzeugkasten.",
+        "Sie versteckt angeblich gestohlenes Geld in seinem Mantel.",
+        "Sie legt gefälschte Drohbriefe in seine Arbeitsmappe.",
+        "Sie beschädigt absichtlich Werkzeuge und beschuldigt ihn der Sabotage."
+      ],
+      "feedback": [
+        "Der Fund soll Solomon als Gefahr für Emma erscheinen lassen.",
+        "Geld in seinem Mantel ist nicht die manipulierte Spur.",
+        "Gefälschte Drohbriefe begründen seine Entlassung nicht.",
+        "Eine vorgetäuschte Werkzeugsabotage ist nicht der Plan."
+      ],
+      "short": "Peyton platziert Emmas Unterwäsche in Solomons Werkzeugkasten.",
+      "context": "Solomon (Ernie Hudson) bemerkt, dass Peyton (Rebecca De Mornay) das Baby heimlich stillt. Sie beseitigt den möglichen Zeugen, indem sie einen belastenden Fund konstruiert. Emma (Madeline Zima) widerspricht zwar dem Verdacht, doch die Erwachsenen schicken den Handwerker fort. Die Intrige zeigt, wie Peyton eine Schutzreaktion der Eltern ausnutzt und dabei einen Menschen isoliert, der den Kindern tatsächlich helfen will.",
+      "anchor": "Ein künstlicher Fund macht aus dem hilfreichen Zeugen einen Verdächtigen.",
+      "interest": "Die Intrige besitzt einen konkreten Beleg und eine nachvollziehbare Funktion.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welchen Verdacht soll das Feuerzeug in Michaels (Matt McCoy) Mantel in @ bei Claire (Annabella Sciorra) wecken?",
+      "answers": [
+        "Er habe eine Affäre mit Marlene (Julianne Moore).",
+        "Er habe Marlene heimlich Geld geliehen.",
+        "Er wolle mit Marlene das Haus verkaufen.",
+        "Er habe mit Marlene Peytons Einstellung abgesprochen."
+      ],
+      "feedback": [
+        "Das Feuerzeug soll eine intime Beziehung zur früheren Freundin nahelegen.",
+        "Ein heimliches Darlehen ist nicht der ausgelöste Verdacht.",
+        "Claire vermutet keinen gemeinsamen Hausverkauf.",
+        "Eine geheime Absprache über Peyton erklärt ihren Vorwurf nicht."
+      ],
+      "short": "Claire soll eine Affäre mit Marlene vermuten.",
+      "context": "Peyton (Rebecca De Mornay) nimmt Marlenes (Julianne Moore) Feuerzeug und platziert es bei Michael (Matt McCoy). Claire (Annabella Sciorra) deutet den Fund im Zusammenhang mit der früheren Beziehung der beiden. Ihr Vorwurf fällt jedoch mitten in eine Überraschungsfeier für sie. Die vorbereitete Geste der Zuneigung wird so zur öffentlichen Demütigung, und eine weitere vertraute Beziehung gerät unter Druck.",
+      "anchor": "Ein platziertes Feuerzeug verwandelt die Überraschungsfeier in einen Eifersuchtskonflikt.",
+      "interest": "Die falsche Spur ist von der Intrige gegen Solomon getrennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie kommt Marlene (Julianne Moore) in @ Peytons (Rebecca De Mornay) wirklicher Identität auf die Spur?",
+      "answers": [
+        "Durch Unterlagen zum Verkauf des Hauses der Familie Mott",
+        "Durch einen Arztbrief über Peytons Krankenhausaufenthalt",
+        "Durch ein Foto von Claire in den Unterlagen des Frauenarztes",
+        "Durch eine Sterbeurkunde aus dem Nachlass des Arztes"
+      ],
+      "feedback": [
+        "Der Immobiliennachweis bringt Marlene zur Familie Mott.",
+        "Ein Krankenhausarztbrief ist nicht der entscheidende Fund.",
+        "Ein Foto von Claire beim Frauenarzt liefert ihr diese Spur nicht.",
+        "Eine Sterbeurkunde ist nicht der genannte Entdeckungsweg."
+      ],
+      "short": "Marlene erkennt Peyton über die Immobilienunterlagen der Motts.",
+      "context": "Marlene (Julianne Moore) arbeitet im Immobiliengeschäft und stößt auf die Verbindung zur Familie des verstorbenen Dr. Mott (John de Lancie). Damit lässt sich Peytons (Rebecca De Mornay) angeblich unverdächtige Identität nicht mehr aufrechterhalten. Die Entdeckung entsteht aus Marlenes eigener beruflicher Tätigkeit. Sie macht die bisher als Eifersuchtsrivalin behandelte Freundin zu einer möglichen Helferin, bevor Peyton sie im Gewächshaus tötet.",
+      "anchor": "Die Immobilienarbeit entlarvt die erfundene Identität.",
+      "interest": "Ein beruflicher Hinweis erklärt, weshalb gerade Marlene die Verbindung erkennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie täuscht Claire (Annabella Sciorra) in der Schlusskonfrontation von @ Peyton (Rebecca De Mornay)?",
+      "answers": [
+        "Sie spielt einen Asthmaanfall vor.",
+        "Sie täuscht die Ankunft der Polizei vor.",
+        "Sie behauptet, das Baby sei schon in Sicherheit.",
+        "Sie stellt sich bewusstlos, bis Peyton sich abwendet."
+      ],
+      "feedback": [
+        "Der vorgetäuschte Anfall lässt Peyton ihre Gegenwehr unterschätzen.",
+        "Eine angekündigte Polizeiankunft ist nicht die Täuschung.",
+        "Eine Behauptung über das gerettete Baby entscheidet die Szene nicht.",
+        "Sie spielt Atemnot, nicht Bewusstlosigkeit."
+      ],
+      "short": "Claire täuscht einen Asthmaanfall vor.",
+      "context": "Im Dachgeschoss scheint Claire (Annabella Sciorra) wieder an derselben körperlichen Schwäche zu scheitern, die Peyton (Rebecca De Mornay) bereits ausgenutzt hat. Diesmal ist der Anfall gespielt. Als Solomon (Ernie Hudson) Peyton ablenkt, kann Claire handeln und sie aus dem Fenster stoßen. Der Schluss kehrt damit die frühere Informationslage um: Das genaue Wissen über Claires Verwundbarkeit führt die Angreiferin selbst in eine Falle.",
+      "anchor": "Claire verwendet die bekannte Verwundbarkeit als Täuschung.",
+      "interest": "Die Schlussstrategie besitzt ein anderes Wissensziel als der Name der Erkrankung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Rebecca De Mornay und Annabella Sciorra erstmals?",
+      "answers": [
+        "1992",
+        "1988",
+        "1990",
+        "1995"
+      ],
+      "feedback": [
+        "Der Originalfilm startete 1992.",
+        "1988 liegt vier Jahre davor.",
+        "1990 liegt zwei Jahre davor.",
+        "1995 liegt drei Jahre danach."
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 1992.",
+      "context": "1992 inszeniert Curtis Hanson den Thriller über eine zerstörerische Nähe im Familienhaushalt. Fünf Jahre später, 1997, folgt L.A. Confidential: Dort untersucht er Korruption und verflochtene Loyalitäten im Polizeimilieu. Der Abstand verbindet zwei deutlich unterschiedliche Schauplätze seiner Laufbahn. In beiden Fällen verliert eine vertraute Ordnung ihre Glaubwürdigkeit, doch die Bedrohung wechselt vom privaten Haus zum öffentlichen Machtapparat.",
+      "anchor": "1992 Familienhaushalt, 1997 Polizeimilieu: fünf Jahre bis L.A. Confidential.",
+      "interest": "Ein belegter späterer Film desselben Regisseurs bildet den Zeitanker.",
+      "sources": [
+        "studio",
+        "hanson"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Rebecca De Mornay und Annabella Sciorra?",
+      "answers": [
+        "Curtis Hanson",
+        "Joseph Ruben",
+        "Adrian Lyne",
+        "Brian De Palma"
+      ],
+      "feedback": [
+        "Curtis Hanson führte Regie.",
+        "Ruben inszenierte diese Produktion nicht.",
+        "Lyne trägt diesen Regiecredit nicht.",
+        "De Palma führte bei diesem Film nicht Regie."
+      ],
+      "short": "Curtis Hanson führte Regie.",
+      "context": "Curtis Hanson baut die Bedrohung aus vertrauten häuslichen Gegenständen und Beziehungen auf. Kinderbetreuung, ein Feuerzeug und ein Medikament erhalten durch Peytons (Rebecca De Mornay) Absichten neue Bedeutungen. Der offizielle Disney-Katalog nennt Hanson als Regisseur der Produktion. Die Spannung entsteht über den Unterschied zwischen dem Wissen des Publikums und dem Vertrauen der Familie, deren freundliches Umfeld schrittweise gegen sie verwendet wird.",
+      "anchor": "Hanson macht den vertrauten Haushalt zur Bühne der Manipulation.",
+      "interest": "Der gesicherte Regiecredit wird mit der konkreten Form des Thrillers verbunden.",
+      "sources": [
+        "studio",
+        "handlung"
+      ]
+    }
+  ]
+}

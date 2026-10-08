@@ -1,0 +1,204 @@
+{
+  "rank": 20,
+  "directors": [
+    "Brian De Palma"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste US-Kinoveröffentlichung am 24. Juli 1981; Criterion bestätigt 1981.",
+  "familiarity_reason": "Ein prägender Paranoia-Thriller, für ein breites Publikum eher ein Kennerfilm.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Blow_Out",
+    "criterion": "https://www.criterion.com/films/27561-blow-out",
+    "vorbild": "https://www.criterion.com/films/28694-blow-up"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf übt Jack Terry (John Travolta) in @ aus?",
+      "answers": [
+        "Er nimmt Geräusche für Filme auf.",
+        "Er fotografiert politische Wahlkampfveranstaltungen.",
+        "Er untersucht Autounfälle für Versicherungen.",
+        "Er moderiert eine nächtliche Radiosendung."
+      ],
+      "feedback": [
+        "Jack arbeitet an Geräuscheffekten für Filme.",
+        "Wahlkampffotografie ist nicht sein Beruf.",
+        "Er wird aus eigener Beobachtung aktiv, nicht als Versicherungsprüfer.",
+        "Eine Radiosendung moderiert er nicht."
+      ],
+      "short": "Jack ist ein Film-Geräuschemacher.",
+      "context": "Jack Terry (John Travolta) arbeitet für eine preisgünstige Filmproduktion, der unter anderem ein überzeugender Schrei fehlt. Bei nächtlichen Außenaufnahmen gerät deshalb sein Beruf mitten in eine politische Affäre. Seine technischen Fähigkeiten bestimmen die spätere Ermittlung: Er hört, vergleicht und montiert Material. Der Thriller macht das üblicherweise unsichtbare Handwerk der Tonarbeit zum Zentrum seiner Geschichte.",
+      "anchor": "Der Tonarbeiter hört etwas, das andere übersehen.",
+      "interest": "Der Beruf erklärt den Zufallsfund und Jacks Vorgehen.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Aus welcher unmittelbaren Gefahr rettet Jack Terry (John Travolta) Sally (Nancy Allen) zu Beginn von @?",
+      "answers": [
+        "Aus einem ins Wasser gestürzten Auto",
+        "Aus einem brennenden Hotelzimmer",
+        "Aus einem im Tunnel feststeckenden Zug",
+        "Aus einem abgestürzten Kleinflugzeug"
+      ],
+      "feedback": [
+        "Jack taucht zum versunkenen Wagen und holt Sally heraus.",
+        "Die erste Rettung betrifft kein Hotel.",
+        "Ein Zug ist nicht der Unfallort.",
+        "Sally befindet sich in einem Auto, nicht in einem Flugzeug."
+      ],
+      "short": "Jack rettet Sally aus einem versunkenen Auto.",
+      "context": "Während Jack Terry (John Travolta) nachts Geräusche aufnimmt, kommt ein Wagen von der Straße ab und stürzt ins Wasser. Er springt hinterher und rettet Sally (Nancy Allen); der prominente männliche Insasse stirbt. Die Rettung bringt Jack mit einer möglichen Zeugin zusammen. Was zunächst wie ein Verkehrsunfall aussieht, wird durch seine mitlaufende Tonaufnahme zum Verdachtsfall.",
+      "anchor": "Die Rettung verbindet Jack mit der überlebenden Zeugin.",
+      "interest": "Ein zentraler Einstieg erschließt die Beziehung der Hauptfiguren.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Reihenfolge hört Jack Terry (John Travolta) in @ auf seiner Unfallaufnahme?",
+      "answers": [
+        "Schuss vor Reifenknall",
+        "Reifenknall vor Schuss",
+        "Warnruf vor Motorausfall",
+        "Zweite Fahrzeugkollision vor Reifenknall"
+      ],
+      "feedback": [
+        "Der Schuss liegt vor dem Reifenknall und widerspricht dem einfachen Unfallbild.",
+        "Die Reihenfolge ist umgekehrt; gerade das begründet Jacks Verdacht.",
+        "Ein Warnruf mit Motorausfall ist nicht die entscheidende Tonfolge.",
+        "Eine zweite Kollision liefert nicht den entscheidenden Befund."
+      ],
+      "short": "Jack hört zuerst den Schuss, dann den Reifenknall.",
+      "context": "Die Aufnahme von Jack Terry (John Travolta) enthält zwei unterschiedliche Knallereignisse. Er erkennt vor dem Reifenplatzen einen Schuss und vermutet deshalb, dass der Wagen gezielt von der Straße gebracht wurde. Entscheidend ist nicht bloß ein lautes Geräusch, sondern dessen zeitliche Position. Die Tonspur erhält so Beweiswert gegen die öffentlich verbreitete Erklärung eines gewöhnlichen Unfalls.",
+      "anchor": "Schuss vor Reifenknall: Die Abfolge begründet den Verdacht.",
+      "interest": "Die Frage prüft die Logik der akustischen Beweisspur.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie überprüft Jack Terry (John Travolta) in @ seine Tonspur durch Bildmaterial?",
+      "answers": [
+        "Er synchronisiert veröffentlichte Unfallbilder mit seinem Originalton.",
+        "Er baut den Unfall für eine neue Aufnahme nach.",
+        "Er ersetzt seine Aufnahme durch Fernsehnachrichtenton.",
+        "Er filmt Sallys Erinnerungen als Nachstellung."
+      ],
+      "feedback": [
+        "Die zusammengesetzten Bilder werden mit dem Originalton abgeglichen.",
+        "Eine neue Unfallinszenierung ist nicht sein Beweisverfahren.",
+        "Jack arbeitet mit seinem eigenen Originalton.",
+        "Eine gefilmte Nachstellung von Sallys Erinnerungen liefert diesen Abgleich nicht."
+      ],
+      "short": "Jack synchronisiert Bildfolge und Originalton.",
+      "context": "Manny Karp (Dennis Franz) hatte das Ereignis ebenfalls aufgenommen; Einzelbilder gelangen in eine Zeitschrift. Jack Terry (John Travolta) baut daraus eine bewegte Bildfolge und legt seine Tonaufnahme dazu. Der Abgleich lässt den Schuss auch visuell nachvollziehbar werden. Filmische Montage dient hier der Ermittlung: Zwei zunächst getrennte Quellen werden in eine gemeinsame zeitliche Ordnung gebracht.",
+      "anchor": "Bild und Ton werden durch Synchronisation zum gemeinsamen Beleg.",
+      "interest": "Das filmische Handwerk wird als Erkenntnismethode verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum ermordet Burke (John Lithgow) in @ weitere Frauen, die Sally (Nancy Allen) ähneln?",
+      "answers": [
+        "Ihr Tod soll später wie ein weiterer Serienmord wirken.",
+        "Er sucht bei jeder eine Kopie des Unfallfilms.",
+        "Er will Jack zu einem Geständnis bringen.",
+        "Er setzt damit die politischen Erpressungsaufnahmen fort."
+      ],
+      "feedback": [
+        "Burke schafft eine Serienmord-Tarnung für den gezielten Zeugenmord.",
+        "Die Ähnlichkeit dient der Tarnung, nicht der Suche nach einer Filmkopie.",
+        "Ein Geständnis Jacks ist nicht das Ziel dieser Mordserie.",
+        "Die Tötungen sind keine Fortsetzung des ursprünglichen Fotokomplotts."
+      ],
+      "short": "Burke konstruiert eine Mordserie zur Deckung von Sallys Beseitigung.",
+      "context": "Burke (John Lithgow) soll die Verbindung zwischen dem Tod des Politikers und Sally (Nancy Allen) verdecken. Dafür ermordet er Frauen mit ähnlichem Erscheinungsbild, sodass ihr späterer Tod in eine scheinbare Serienmordgeschichte passen würde. Die Öffentlichkeit erhält damit eine andere Erklärung für die Gewalt. Sein Vorgehen verbindet die Beseitigung einer Zeugin mit der Herstellung einer irreführenden Nachrichtenlage.",
+      "anchor": "Die falsche Mordserie soll den wirklichen Zusammenhang verdecken.",
+      "interest": "Die zusätzlichen Opfer werden als Teil einer Vertuschungsstrategie erklärt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Aufnahme verwendet Jack Terry (John Travolta) am Ende von @ für den billigen Horrorfilm?",
+      "answers": [
+        "Sallys echten Todesschrei",
+        "Sallys nachgesprochenen Schrei aus einer Probe",
+        "Den Schrei einer früheren Überwachungsaufnahme",
+        "Den Schrei eines Unfallopfers aus seinem Tonarchiv"
+      ],
+      "feedback": [
+        "Der echte Todesschrei wird zum zuvor gesuchten Filmeffekt.",
+        "Die Aufnahme stammt nicht aus einer Probe mit Sally.",
+        "Er nimmt dafür nicht den Ton des früheren Überwachungseinsatzes.",
+        "Der Effekt stammt von Sally statt von einem früheren Unfallopfer."
+      ],
+      "short": "Sallys Todesschrei landet als Effekt im Horrorfilm.",
+      "context": "Jack Terry (John Travolta) kann Sally (Nancy Allen) nicht rechtzeitig vor Burke (John Lithgow) retten, obwohl er sie über ein Mikrofon hören kann. Ihre letzte Aufnahme bleibt erhalten und wird schließlich im Horrorfilm verwendet. Der am Anfang fehlende Schrei ist damit gefunden, aber zu einem verheerenden Preis. Die berufliche Verwertung des Tones bewahrt zugleich Jacks persönliche Erinnerung an sein Scheitern.",
+      "anchor": "Der gesuchte Filmeffekt wird durch einen wirklichen Tod erfüllt.",
+      "interest": "Der Schluss verbindet die anfängliche Tonarbeit mit der Tragödie der Zeugin.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit John Travolta erstmals?",
+      "answers": [
+        "1981",
+        "1975",
+        "1986",
+        "1991"
+      ],
+      "feedback": [
+        "Der Film erschien erstmals 1981.",
+        "1975 liegt sechs Jahre vor der Veröffentlichung.",
+        "1986 liegt fünf Jahre nach dem ersten Erscheinen.",
+        "1991 liegt zehn Jahre nach der Veröffentlichung."
+      ],
+      "short": "Der Thriller erschien 1981.",
+      "context": "Blow Out erschien 1981, fünfzehn Jahre nach Blow-Up von 1966. Beide Filme lassen einen Medienhandwerker aus einer zufälligen Aufnahme auf ein mögliches Verbrechen schließen. Beim früheren Film stehen fotografische Vergrößerungen im Mittelpunkt, hier die Tonspur und ihr Abgleich mit Bildern. Der zeitliche Anker verbindet die Jahreszahl mit einer konkreten filmischen Motivverwandtschaft.",
+      "anchor": "1966 Blow-Up, 1981 Blow Out: fünfzehn Jahre Abstand.",
+      "interest": "Zwei Aufnahme-Thriller bilden einen filmhistorischen Vergleich.",
+      "sources": [
+        "criterion",
+        "vorbild"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit John Travolta und Nancy Allen?",
+      "answers": [
+        "Brian De Palma",
+        "Francis Ford Coppola",
+        "Alan J. Pakula",
+        "William Friedkin"
+      ],
+      "feedback": [
+        "Brian De Palma führte Regie.",
+        "Francis Ford Coppola ist hier nicht der Regisseur.",
+        "Alan J. Pakula inszenierte diesen Aufnahme-Thriller nicht.",
+        "William Friedkin trägt hier nicht den Regiecredit."
+      ],
+      "short": "Brian De Palma führte Regie.",
+      "context": "Criterion bestätigt Brian De Palma als Regisseur dieser Produktion. Jack Terrys (John Travolta) Tonarbeit bestimmt nicht nur die Ermittlung, sondern auch die Gestaltung des Films: Das Publikum verfolgt denselben Vorgang über unterschiedliche Bilder und Geräusche. Der Credit gehört zum Thriller mit Nancy Allen und John Lithgow. Die verwandte Grundidee eines aufgenommenen Verbrechens macht andere Regisseure noch nicht zu Miturhebern dieses Films.",
+      "anchor": "De Palma macht die Tonspur zur Spur des Verbrechens.",
+      "interest": "Der Regiecredit wird mit der besonderen Erzählperspektive verbunden.",
+      "sources": [
+        "criterion"
+      ]
+    }
+  ]
+}

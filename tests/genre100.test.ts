@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { expect, it } from "vitest";
 import { addPackages, packages } from "../src/packages";
 import { emptyState } from "../src/model";
@@ -6,7 +6,6 @@ import { filmData, addFilmFacts } from "../src/filmFacts";
 import { filmIdentity, familiarityOf } from "../src/familiarity";
 import { genreOf, questionSourceOf } from "../src/filters";
 import films from "../docs/Genres-100-2026-10-08/Filmdaten.json";
-import core from "../docs/Genres-100-2026-10-08/Abenteuer/Klassikerkern.json";
 import { catalogCounts } from "./catalog-counts";
 
 const contents = packages.map((p) => ({
@@ -101,35 +100,62 @@ it("liefert je neuer Filmfassung sechs Inhaltsziele und explizites Jahres- und R
   }
 });
 
-it("erreicht 100 Abenteuerfilme und den begründeten Klassikerkern; öffentliche und erhaltene Rohquelle sind identisch", () => {
-  const adventure = state.questions.filter(
-    (q) => questionSourceOf(q) === "film" && genreOf(q) === "Abenteuer",
-  );
-  const keys = new Set(adventure.map(filmIdentity));
-  expect(keys.size).toBe(100);
-  expect(adventure).toHaveLength(802);
-  expect(core.films).toHaveLength(20);
-  for (const film of core.films) {
-    expect(keys.has(film.film), film.title).toBe(true);
-    for (const id of film.question_ids)
-      expect(
-        adventure.some((q) => q.id === id),
-        id,
-      ).toBe(true);
+it("verknüpft notwendige Bestandsvarianten mit dem vorhandenen Wissensziel", () => {
+  for (const q of newQuestions.filter((q) => q.metadata.variant_of)) {
+    const target = state.questions.find(
+      (old) => old.id === q.metadata.variant_of,
+    );
+    expect(target, q.id).toBeDefined();
+    expect(q.knowledgeId, q.id).toBe(target!.knowledgeId);
   }
-  const publicFile = readFileSync("public/genre100-abenteuer-fragen.csv");
-  expect(
-    publicFile.equals(
-      readFileSync(
-        "docs/Genres-100-2026-10-08/Abenteuer/Genre100_Abenteuer_20261008.csv",
-      ),
-    ),
-  ).toBe(true);
-  expect(
-    publicFile.equals(
-      readFileSync(
-        "KI-Wissen-Wissensquiz/01 Rohquellen/Genre100_Abenteuer_20261008.csv",
-      ),
-    ),
-  ).toBe(true);
 });
+
+const root = "docs/Genres-100-2026-10-08";
+for (const directory of readdirSync(root, { withFileTypes: true }).filter(
+  (entry) =>
+    entry.isDirectory() && existsSync(`${root}/${entry.name}/Filmdaten.json`),
+)) {
+  const folder = `${root}/${directory.name}`;
+  const selection = JSON.parse(readFileSync(`${folder}/Auswahl.json`, "utf8"));
+  const core = JSON.parse(
+    readFileSync(`${folder}/Klassikerkern.json`, "utf8"),
+  ) as {
+    films: { film: string; title: string; question_ids: string[] }[];
+  };
+  it(`erreicht 100 Filme und den Klassikerkern für ${selection.genre}; öffentliche und erhaltene Rohquelle sind identisch`, () => {
+    const questions = state.questions.filter(
+      (q) => questionSourceOf(q) === "film" && genreOf(q) === selection.genre,
+    );
+    const keys = new Set(questions.map(filmIdentity));
+    expect(keys.size).toBe(100);
+    const previous = before.questions.filter(
+      (q) => questionSourceOf(q) === "film" && genreOf(q) === selection.genre,
+    );
+    expect(questions).toHaveLength(
+      previous.length + selection.films.length * 8,
+    );
+    expect(core.films).toHaveLength(20);
+    for (const film of core.films) {
+      const filmQuestions = state.questions.filter(
+        (q) => questionSourceOf(q) === "film" && filmIdentity(q) === film.film,
+      );
+      expect(filmQuestions.length, film.title).toBeGreaterThan(0);
+      expect(film.question_ids.length, film.title).toBeGreaterThan(0);
+      for (const id of film.question_ids)
+        expect(
+          filmQuestions.some((q) => q.id === id),
+          id,
+        ).toBe(true);
+    }
+    const filename = `Genre100_${directory.name}_20261008.csv`;
+    const pkg = packages.find((p) => p.filename === filename)!;
+    expect(pkg, filename).toBeDefined();
+    const publicFile = readFileSync(`public${pkg.path}`);
+    expect(publicFile.equals(readFileSync(`${folder}/${filename}`))).toBe(true);
+    expect(
+      publicFile.equals(
+        readFileSync(`KI-Wissen-Wissensquiz/01 Rohquellen/${filename}`),
+      ),
+    ).toBe(true);
+  });
+}

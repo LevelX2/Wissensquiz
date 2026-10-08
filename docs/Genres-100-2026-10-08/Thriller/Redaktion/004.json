@@ -1,0 +1,205 @@
+{
+  "rank": 4,
+  "directors": [
+    "Alfred Hitchcock"
+  ],
+  "production_countries": [
+    "Großbritannien"
+  ],
+  "release_note": "Londoner Kinoveröffentlichung am 6. Juni 1935 laut Filmquelle; Criterion bestätigt 1935 und britische Produktion.",
+  "familiarity_reason": "Ein grundlegender britischer Hitchcock-Thriller des unschuldig Verfolgten; besonders für Genrekenner.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_39_Steps_(1935_film)",
+    "verleih": "https://www.criterion.com/films/234-the-39-steps",
+    "roman": "https://johnbuchansociety.co.uk/jbs-work-mr-standfast/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Weshalb wird Richard Hannay (Robert Donat) in @ von der Polizei gesucht?",
+      "answers": [
+        "Eine Frau wurde in seiner Wohnung ermordet",
+        "Er hat eine Bank mit einer Attrappe überfallen",
+        "Er ist aus einem Militärgefängnis geflohen",
+        "Er hat einen Staatsanwalt im Gericht angegriffen"
+      ],
+      "feedback": [
+        "Annabellas Tod macht den unschuldigen Hannay verdächtig.",
+        "Ein Banküberfall löst die Suche nicht aus.",
+        "Hannay ist kein entflohener Militärgefangener.",
+        "Ein Angriff im Gericht ist nicht der Anlass."
+      ],
+      "short": "Annabellas Ermordung in seiner Wohnung macht Hannay zum Verdächtigen.",
+      "context": "Richard Hannay (Robert Donat) nimmt Annabella Smith (Lucie Mannheim) nach einer Begegnung im Varieté mit nach Hause. Sie berichtet von einer Spionagegefahr und wird in seiner Wohnung getötet. Hannay muss fliehen, obwohl er den Mord nicht begangen hat. Seine Suche nach der Wahrheit läuft deshalb parallel zur Verfolgung durch die Polizei, die ihn für den Täter hält.",
+      "anchor": "Annabellas Ermordung in seiner Wohnung macht Hannay zum Verdächtigen.",
+      "interest": "Erfasst den Ausgangspunkt der falschen Beschuldigung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wohin führt Hannay (Robert Donat) in @ die auf einer Karte markierte Spur zunächst?",
+      "answers": [
+        "Nach Schottland",
+        "Nach Wales",
+        "Nach Irland",
+        "Nach Nordfrankreich"
+      ],
+      "feedback": [
+        "Die Spur führt zu einem Haus in Schottland.",
+        "Wales ist nicht das Ziel der markierten Spur.",
+        "Er reist dieser Spur nicht nach Irland nach.",
+        "Nordfrankreich ist nicht das bezeichnete Ziel."
+      ],
+      "short": "Die markierte Spur führt Hannay nach Schottland.",
+      "context": "Hannay (Robert Donat) folgt den Hinweisen der ermordeten Annabella Smith (Lucie Mannheim) nach Schottland. Die Flucht wechselt dadurch vom Londoner Innenraum zu Zügen, Brücken, Straßen und abgelegenen Häusern. Er sucht Schutz und eine Erklärung für das Verbrechen. Der Ortswechsel bringt ihn jedoch auch näher an Menschen, die selbst an der Spionage beteiligt sind und seine Lage ausnutzen.",
+      "anchor": "Die markierte Spur führt Hannay nach Schottland.",
+      "interest": "Verortet die große Fluchtbewegung des Films.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum müssen Hannay und Pamela (Robert Donat, Madeleine Carroll) in @ zeitweise gemeinsam fliehen?",
+      "answers": [
+        "Die falschen Polizisten haben sie aneinandergefesselt",
+        "Pamela gibt sich zu ihrem Schutz als Hannays Ehefrau aus",
+        "Hannay zwingt Pamela als Geisel zur Begleitung",
+        "Pamela will mit Hannay einen geheimen Treffpunkt erreichen"
+      ],
+      "feedback": [
+        "Die Handschellen verhindern ihre getrennte Flucht.",
+        "Eine freiwillige Tarnung als Ehepaar erzwingt die gemeinsame Flucht nicht.",
+        "Hannay nimmt Pamela nicht als Geisel mit.",
+        "Pamela verfolgt zu diesem Zeitpunkt noch keinen gemeinsamen Ermittlungsplan."
+      ],
+      "short": "Falsche Polizisten fesseln Hannay und Pamela aneinander.",
+      "context": "Pamela (Madeleine Carroll) hält Hannay (Robert Donat) zunächst für den gesuchten Mörder. Männer, die als Polizisten auftreten, nehmen beide mit und fesseln sie aneinander. Die gemeinsame Flucht erzwingt Nähe zwischen Menschen, die einander misstrauen. Aus der körperlichen Bindung entsteht erst nach und nach eine Zusammenarbeit; Pamela muss dabei ihre bisherige Deutung von Hannays Schuld überprüfen.",
+      "anchor": "Falsche Polizisten fesseln Hannay und Pamela aneinander.",
+      "interest": "Erklärt das unfreiwillige Bündnis des Fluchtpaars.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was bewahrt Hannay (Robert Donat) in @ vor dem tödlichen Schuss des Professors?",
+      "answers": [
+        "Ein Gesangbuch im geliehenen Mantel",
+        "Eine Brieftasche mit Münzen",
+        "Ein verstecktes Metallstück im Hemd",
+        "Ein Taschenatlas in seiner Jacke"
+      ],
+      "feedback": [
+        "Das Gesangbuch hält die Kugel auf.",
+        "Eine Münzbrieftasche ist nicht der Schutz.",
+        "Hannay trägt keine vorbereitete Metallplatte.",
+        "Ein Taschenatlas stoppt den Schuss nicht."
+      ],
+      "short": "Das Gesangbuch im geliehenen Mantel hält die Kugel auf.",
+      "context": "Hannay (Robert Donat) erreicht den vermeintlich sicheren Professor Jordan (Godfrey Tearle), der sich als gefährlicher Gegner entpuppt und auf ihn schießt. Im geliehenen Mantel steckt jedoch ein Gesangbuch, das die Kugel aufhält. Der Schutz stammt aus seiner vorherigen Fluchtstation und ist kein geplanter Trick. Ein gewöhnlicher Gegenstand verbindet so zwei zunächst getrennt wirkende Begegnungen der Reise.",
+      "anchor": "Das Gesangbuch im geliehenen Mantel hält die Kugel auf.",
+      "interest": "Verknüpft einen früheren Hilfsmoment mit dem späteren Überleben.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie soll das militärische Geheimnis in @ aus dem Land geschafft werden?",
+      "answers": [
+        "Mr. Memory hat die Konstruktionsdaten auswendig gelernt",
+        "Pamela trägt einen Mikrofilm im Handschuh",
+        "Jordan versteckt die Pläne in einer Zeitungsauflage",
+        "Ein Diplomat versendet eine verschlüsselte Tonaufnahme"
+      ],
+      "feedback": [
+        "Das Gedächtnis des Varietékünstlers dient als Transportmittel.",
+        "Ein Mikrofilm in Pamelas Handschuh ist nicht der Plan.",
+        "Gedruckte Zeitungen transportieren das Geheimnis nicht.",
+        "Eine diplomatische Tonaufnahme wird nicht eingesetzt."
+      ],
+      "short": "Mr. Memory transportiert das Geheimnis in seinem Gedächtnis.",
+      "context": "Im Finale begreift Hannay (Robert Donat), dass nicht allein nach einem versteckten Schriftstück gesucht werden muss. Mr. Memory (Wylie Watson) hat die technischen Angaben zu einem geräuscharmen Flugzeugmotor im Gedächtnis. Die Varieténummer aus dem Auftakt erhält damit eine zweite Bedeutung. Der Künstler kann auf eine direkte Frage kaum schweigen und macht dadurch die Verbindung zwischen Unterhaltung und Spionage sichtbar.",
+      "anchor": "Mr. Memory transportiert das Geheimnis in seinem Gedächtnis.",
+      "interest": "Löst die Verbindung zwischen Varietéauftakt und Spionagefinale auf.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Was überzeugt Pamela (Madeleine Carroll) in @ schließlich von Hannays Unschuld?",
+      "answers": [
+        "Sie belauscht die angeblichen Polizisten bei einem Telefonat",
+        "Sie liest einen Freispruch in der Morgenzeitung",
+        "Sie erkennt Hannay auf einem offiziellen Agentenausweis",
+        "Sie findet ein Geständnis Annabellas in seinem Gepäck"
+      ],
+      "feedback": [
+        "Das belauschte Gespräch bestätigt die Täuschung der Verfolger.",
+        "Ein veröffentlichter Freispruch überzeugt sie nicht.",
+        "Hannay beweist seine Unschuld nicht mit einem Agentenausweis.",
+        "Ein Geständnis im Gepäck ist nicht die entscheidende Entdeckung."
+      ],
+      "short": "Das belauschte Telefonat verändert Pamelas Urteil über Hannay.",
+      "context": "Pamela (Madeleine Carroll) kann sich im Gasthaus aus den Handschellen befreien. Doch statt nur zu verschwinden, hört sie die vermeintlichen Polizisten bei einem Telefonat. Daraus erkennt sie, dass Hannays (Robert Donat) Geschichte zutrifft und die Verfolger zu einer anderen Seite gehören. Ihr Sinneswandel beruht damit auf einer eigenen Wahrnehmung, nicht allein auf Hannays Überredung oder auf ihrer erzwungenen Nähe.",
+      "anchor": "Das belauschte Telefonat verändert Pamelas Urteil über Hannay.",
+      "interest": "Erklärt den eigenständigen Beweis hinter dem entstehenden Vertrauen.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Robert Donat und Madeleine Carroll erstmals?",
+      "answers": [
+        "1935",
+        "1929",
+        "1941",
+        "1947"
+      ],
+      "feedback": [
+        "1935 ist das Erstveröffentlichungsjahr.",
+        "1929 liegt sechs Jahre davor.",
+        "1941 liegt sechs Jahre danach.",
+        "1947 liegt zwölf Jahre danach."
+      ],
+      "short": "1915 Buchans Roman, 1935 der Film: zwanzig Jahre Abstand.",
+      "context": "John Buchans Roman The Thirty-Nine Steps erschien 1915. Hitchcocks Kinobearbeitung mit Robert Donat folgte 1935, zwanzig Jahre später. Der zeitliche Abstand verbindet einen literarischen Spionagestoff aus der Zeit des Ersten Weltkriegs mit einem britischen Thriller der 1930er-Jahre. Der Film übernimmt Richard Hannay als Helden, entwickelt seine Begegnungen und den Weg durch die Verfolgung jedoch für das Kino neu.",
+      "anchor": "1915 Buchans Roman, 1935 der Film: zwanzig Jahre Abstand.",
+      "interest": "Verbindet die literarische Herkunft mit dem Filmjahr.",
+      "sources": [
+        "film",
+        "verleih",
+        "roman"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Robert Donat Regie?",
+      "answers": [
+        "Alfred Hitchcock",
+        "Carol Reed",
+        "Michael Powell",
+        "Anthony Asquith"
+      ],
+      "feedback": [
+        "Alfred Hitchcock ist der Regisseur.",
+        "Reed führte bei dieser Fassung nicht Regie.",
+        "Powell ist nicht der Regisseur dieser Verfilmung.",
+        "Asquith gehört nicht zum Regiecredit."
+      ],
+      "short": "Alfred Hitchcock inszenierte diese britische Buchan-Verfilmung.",
+      "context": "Alfred Hitchcock inszenierte diese britische Bearbeitung von John Buchans Roman mit Robert Donat als Richard Hannay. Madeleine Carroll spielt Pamela, die dem Verfolgten zunächst misstraut und später mit ihm zusammenarbeitet. Die Regie verknüpft falsche Identitäten, Flucht und komische Reibung zwischen den Figuren. Der Film gehört damit zu Hitchcocks britischer Schaffensphase vor seinem späteren Wechsel nach Hollywood.",
+      "anchor": "Alfred Hitchcock inszenierte diese britische Buchan-Verfilmung.",
+      "interest": "Ordnet die Fassung der britischen Schaffensphase zu.",
+      "sources": [
+        "film",
+        "verleih"
+      ]
+    }
+  ]
+}

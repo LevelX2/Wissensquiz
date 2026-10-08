@@ -1,0 +1,205 @@
+{
+  "rank": 7,
+  "directors": [
+    "Henri-Georges Clouzot"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "release_note": "Französische Erstveröffentlichung am 29. Januar 1955 laut Filmquelle; Criterion bestätigt Jahr, Land und Regie. Gemeint ist das französische Original.",
+  "familiarity_reason": "Ein grundlegender französischer Psychothriller mit berühmter Wendung; besonders für Genrekenner.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Les_Diaboliques_(film)",
+    "verleih": "https://www.criterion.com/films/575",
+    "zeitanker": "https://www.criterion.com/current/posts/1859-diabolique-murder-considered-as-one-of-the-fine-arts."
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Einrichtung leitet Michel Delassalle (Paul Meurisse) in @?",
+      "answers": [
+        "Ein Jungeninternat",
+        "Eine psychiatrische Klinik",
+        "Ein Ferienhotel",
+        "Ein privates Waisenhaus"
+      ],
+      "feedback": [
+        "Michel führt ein Internat für Jungen.",
+        "Eine psychiatrische Klinik ist nicht die Einrichtung.",
+        "Er ist kein Hotelbetreiber.",
+        "Ein Waisenhaus beschreibt den Schulbetrieb nicht."
+      ],
+      "short": "Michel Delassalle leitet ein Jungeninternat.",
+      "context": "Michel Delassalle (Paul Meurisse) führt ein Jungeninternat, dessen Finanzierung auf seiner Frau Christina (Véra Clouzot) beruht. Er behandelt Schüler und Erwachsene mit Härte und Geiz. Das alltägliche Zusammenleben in dieser Einrichtung bildet den Hintergrund des Verbrechens. Räume wie das Schwimmbecken gehören zuerst zur gewohnten Umgebung und erhalten später eine ganz andere, bedrohliche Bedeutung.",
+      "anchor": "Michel Delassalle leitet ein Jungeninternat.",
+      "interest": "Verortet den Machtmissbrauch im alltäglichen Schulbetrieb.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Verbindung haben die beiden Frauen, die in @ zunächst Michels Tod planen?",
+      "answers": [
+        "Sie sind seine Ehefrau und seine Geliebte",
+        "Sie sind seine Schwester und seine Ehefrau",
+        "Sie sind seine frühere und seine jetzige Ehefrau",
+        "Sie sind seine Geliebte und deren Schwester"
+      ],
+      "feedback": [
+        "Christina ist seine Ehefrau, Nicole seine Geliebte.",
+        "Nicole ist nicht Michels Schwester.",
+        "Nicole ist keine frühere Ehefrau.",
+        "Die beiden sind nicht Schwestern."
+      ],
+      "short": "Christina ist Michels Ehefrau, Nicole seine Geliebte.",
+      "context": "Christina Delassalle (Véra Clouzot) ist mit Michel (Paul Meurisse) verheiratet; Nicole Horner (Simone Signoret) ist seine Geliebte und unterrichtet an derselben Schule. Beide erscheinen zunächst als Opfer seiner Gewalt. Aus dieser geteilten Erfahrung entsteht ein ungewöhnliches Bündnis. Der Film macht damit Menschen zu Partnerinnen, deren Beziehung unter anderen Umständen eher durch Konkurrenz um denselben Mann bestimmt wäre.",
+      "anchor": "Christina ist Michels Ehefrau, Nicole seine Geliebte.",
+      "interest": "Erfasst die ungewöhnliche Ausgangskonstellation des Bündnisses.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was entdeckt Christina (Véra Clouzot) in @ nach dem Ablassen des Schwimmbeckens?",
+      "answers": [
+        "Die hineingeworfene Leiche fehlt",
+        "Die Leiche trägt einen fremden Anzug",
+        "Neben der Leiche liegt eine zweite Tote",
+        "Die Leiche ist von den Schülern bereits identifiziert worden"
+      ],
+      "feedback": [
+        "Der Körper ist aus dem Becken verschwunden.",
+        "Ein fremder Anzug ist nicht die entscheidende Entdeckung.",
+        "Eine zweite Tote wird dort nicht gefunden.",
+        "Eine vorherige Identifizierung durch Schüler ist nicht die Wendung."
+      ],
+      "short": "Nach dem Ablassen ist Michels vermeintliche Leiche verschwunden.",
+      "context": "Christina und Nicole (Véra Clouzot, Simone Signoret) werfen den vermeintlich toten Michel (Paul Meurisse) ins Schwimmbecken der Schule. Sein Tod soll als Unglück erscheinen. Als das Wasser abgelassen wird, fehlt der Körper jedoch. Für Christina erzeugt die erwartete Entdeckung neue Angst statt Gewissheit. Ihr fehlt nun gerade das sichtbare Zeichen, dass die vermeintliche Tötung tatsächlich geschehen ist.",
+      "anchor": "Nach dem Ablassen ist Michels vermeintliche Leiche verschwunden.",
+      "interest": "Markiert den Wechsel vom Mordplan zur unheimlichen Unsicherheit.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche gesundheitliche Schwäche macht Christina (Véra Clouzot) in @ besonders gefährdet?",
+      "answers": [
+        "Eine schwere Herzerkrankung",
+        "Eine fortschreitende Erblindung",
+        "Eine chronische Lungenerkrankung",
+        "Wiederkehrende epileptische Anfälle"
+      ],
+      "feedback": [
+        "Ihr schwaches Herz ist für die Bedrohung entscheidend.",
+        "Eine Erblindung ist nicht ihre zentrale Erkrankung.",
+        "Eine Lungenerkrankung erklärt die Gefahr nicht.",
+        "Epileptische Anfälle sind nicht die angelegte Schwäche."
+      ],
+      "short": "Christinas Herzerkrankung macht den Schrecken lebensgefährlich.",
+      "context": "Christina Delassalle (Véra Clouzot) leidet unter einer Herzerkrankung. Die zunehmende Angst ist deshalb nicht nur eine seelische Belastung, sondern kann unmittelbar tödlich werden. Michel (Paul Meurisse) und Nicole (Simone Signoret) nutzen später genau diese Verletzlichkeit. Der Film bereitet die Gefahr früh vor, bevor klar ist, welche Rolle die scheinbar übernatürlichen Zeichen und die verschwundene Leiche dabei spielen.",
+      "anchor": "Christinas Herzerkrankung macht den Schrecken lebensgefährlich.",
+      "interest": "Verbindet eine frühe Charakterinformation mit der späteren Bedrohung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche geheime Zusammenarbeit enthüllt @ im Finale?",
+      "answers": [
+        "Michel und Nicole wollen Christina zu Tode erschrecken",
+        "Christina und Fichet wollen Nicole eines Mordes überführen",
+        "Michel und Fichet wollen Christina als Betrügerin entlarven",
+        "Christina und Nicole wollen Michels Versicherer täuschen"
+      ],
+      "feedback": [
+        "Michels Tod war inszeniert; Christina ist das wirkliche Opfer des Plans.",
+        "Christina führt keinen solchen Ermittlungsplan mit Fichet durch.",
+        "Fichet ist nicht Michels Komplize.",
+        "Ein gemeinsamer Versicherungsbetrug ist nicht die Auflösung."
+      ],
+      "short": "Michel und Nicole benutzen den fingierten Tod gegen Christina.",
+      "context": "Michel (Paul Meurisse) ist nicht wirklich ertrunken. Zusammen mit Nicole (Simone Signoret) hat er die Tötung und das spätere Verschwinden inszeniert, um Christina (Véra Clouzot) mit immer neuen Zeichen zu erschrecken. Sein Auftauchen aus der Badewanne führt zur tödlichen Herzreaktion. Der vermeintliche Mordplan der Frauen erweist sich damit als Teil eines anderen Verbrechens, das gegen eine der beiden selbst gerichtet ist.",
+      "anchor": "Michel und Nicole benutzen den fingierten Tod gegen Christina.",
+      "interest": "Löst die falsche Vorstellung vom gemeinsamen Mordplan auf.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Behauptung eines Schülers setzt in @ nach Christinas Tod einen letzten irritierenden Akzent?",
+      "answers": [
+        "Christina habe ihm seine Schleuder zurückgegeben",
+        "Michel habe ihn wieder zum Unterricht bestellt",
+        "Nicole habe ihm die ganze Intrige gestanden",
+        "Fichet habe ihm einen Abschiedsbrief vorgelesen"
+      ],
+      "feedback": [
+        "Der Junge behauptet eine erneute Begegnung mit Christina.",
+        "Eine Unterrichtsanweisung Michels ist nicht die Schlusspointe.",
+        "Ein Geständnis Nicoles gegenüber dem Jungen wird nicht berichtet.",
+        "Ein vorgelesener Abschiedsbrief ist nicht die letzte Behauptung."
+      ],
+      "short": "Ein Schüler behauptet zuletzt, Christina habe ihm die Schleuder zurückgegeben.",
+      "context": "Nach der Aufklärung spricht ein Schüler davon, Christina (Véra Clouzot) habe ihm seine Schleuder zurückgegeben. Der Film macht daraus keinen gesicherten Beweis, dass sie tatsächlich wieder lebt. Die Behauptung steht vielmehr neben der scheinbar abgeschlossenen Erklärung des Verbrechens. Eine kleine Schlusspointe setzt die Unsicherheit fort, ohne die bestätigte Intrige einfach durch eine eindeutige Geistergeschichte zu ersetzen.",
+      "anchor": "Ein Schüler behauptet zuletzt, Christina habe ihm die Schleuder zurückgegeben.",
+      "interest": "Trennt eine irritierende Aussage von einer behaupteten übernatürlichen Gewissheit.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Véra Clouzot und Simone Signoret erstmals?",
+      "answers": [
+        "1955",
+        "1949",
+        "1960",
+        "1966"
+      ],
+      "feedback": [
+        "1955 ist das Jahr der französischen Erstveröffentlichung.",
+        "1949 liegt sechs Jahre davor.",
+        "1960 liegt fünf Jahre danach.",
+        "1966 liegt elf Jahre danach."
+      ],
+      "short": "1955 Die Teuflischen, 1956 Le mystère Picasso: ein Jahr Abstand.",
+      "context": "Die Teuflischen erschien 1955. Henri-Georges Clouzots nächster Film, die Dokumentation Le mystère Picasso, folgte 1956, ein Jahr später. Nach dem minutiös vorbereiteten Psychothriller machte er also die Entstehung von Bildern selbst zum Gegenstand eines Films. Der kurze Abstand verbindet zwei sehr verschiedene Arbeiten desselben Regisseurs und gibt dem Veröffentlichungsjahr einen merkbaren Platz in seiner Filmografie.",
+      "anchor": "1955 Die Teuflischen, 1956 Le mystère Picasso: ein Jahr Abstand.",
+      "interest": "Ein Zeitanker über Clouzots Wechsel vom Thriller zur Kunstbeobachtung.",
+      "sources": [
+        "film",
+        "verleih",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte beim französischen Original von @ mit Véra Clouzot Regie?",
+      "answers": [
+        "Henri-Georges Clouzot",
+        "Jacques Becker",
+        "René Clément",
+        "Jules Dassin"
+      ],
+      "feedback": [
+        "Henri-Georges Clouzot ist der Regisseur des Originals.",
+        "Becker führte bei diesem Film nicht Regie.",
+        "Clément ist nicht im Regiecredit genannt.",
+        "Dassin inszenierte dieses Original nicht."
+      ],
+      "short": "Henri-Georges Clouzot inszenierte das französische Original.",
+      "context": "Henri-Georges Clouzot inszenierte und produzierte das französische Original. Véra Clouzot spielt Christina, Simone Signoret Nicole und Paul Meurisse Michel. Die Handlung beruht auf einem Roman von Pierre Boileau und Thomas Narcejac. Clouzots Film ordnet die Zuschauerwahrnehmung zunächst dem scheinbaren Bündnis der Frauen zu und verändert diese Zuordnung im Finale. Der Regiecredit gehört deshalb zur konkreten französischen Filmfassung.",
+      "anchor": "Henri-Georges Clouzot inszenierte das französische Original.",
+      "interest": "Trennt die ursprüngliche Fassung von späteren Bearbeitungen.",
+      "sources": [
+        "film",
+        "verleih"
+      ]
+    }
+  ]
+}

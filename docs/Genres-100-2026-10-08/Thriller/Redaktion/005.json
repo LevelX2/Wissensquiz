@@ -1,0 +1,204 @@
+{
+  "rank": 5,
+  "directors": [
+    "Alfred Hitchcock"
+  ],
+  "production_countries": [
+    "Großbritannien"
+  ],
+  "release_note": "Londoner Erstveröffentlichung am 7. Oktober 1938 laut Filmquelle; Criterion bestätigt 1938, Großbritannien und Alfred Hitchcock.",
+  "familiarity_reason": "Bedeutender britischer Hitchcock-Klassiker mit Ensemblehumor; für Genrekenner bekannt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Lady_Vanishes",
+    "verleih": "https://www.criterion.com/films/358-the-lady-vanishes",
+    "zeitanker": "https://www.criterion.com/films/25039-night-train-to-munich"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo verschwindet Miss Froy (Dame May Whitty) in @ aus Iris’ (Margaret Lockwood) Blick?",
+      "answers": [
+        "In einem fahrenden Zug",
+        "Auf einer Fähre über den Ärmelkanal",
+        "In einem Londoner Hotel",
+        "In einer Seilbahn in den Alpen"
+      ],
+      "feedback": [
+        "Iris bemerkt ihr Verschwinden während der Zugfahrt.",
+        "Eine Kanalfähre ist nicht der zentrale Schauplatz.",
+        "Das Verschwinden geschieht nicht in einem Londoner Hotel.",
+        "Eine Seilbahn ist nicht der Ort der Suche."
+      ],
+      "short": "Miss Froy verschwindet während der Zugfahrt.",
+      "context": "Iris Henderson (Margaret Lockwood) begegnet Miss Froy (Dame May Whitty) auf einer Reise durch Europa. Nach dem gemeinsamen Tee schläft Iris im Zug ein. Als sie aufwacht, ist die ältere Frau verschwunden, und andere Fahrgäste bestreiten ihre Anwesenheit. Der bewegliche, begrenzte Raum macht die Suche dringlich: Die Reise geht weiter, während Iris zugleich ihrer eigenen Erinnerung misstrauen soll.",
+      "anchor": "Miss Froy verschwindet während der Zugfahrt.",
+      "interest": "Verortet das Rätsel im geschlossenen Reiseensemble.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche tatsächliche Aufgabe hat Miss Froy (Dame May Whitty) in @?",
+      "answers": [
+        "Sie arbeitet als britische Spionin",
+        "Sie ermittelt als französische Kriminalbeamtin",
+        "Sie begleitet als Ärztin einen Diplomaten",
+        "Sie arbeitet als Kurierin für einen Juwelenhändler"
+      ],
+      "feedback": [
+        "Miss Froy bringt eine Nachricht für den britischen Dienst.",
+        "Eine französische Polizeifunktion ist nicht ihre Identität.",
+        "Sie ist keine behandelnde Ärztin eines Diplomaten.",
+        "Ein Juwelenhändler steht nicht hinter ihrem Auftrag."
+      ],
+      "short": "Miss Froy ist eine britische Spionin.",
+      "context": "Miss Froy (Dame May Whitty) stellt sich zunächst als Gouvernante und Musiklehrerin vor. Im letzten Teil der Fahrt erklärt sie Iris und Gilbert (Margaret Lockwood, Michael Redgrave), dass sie für den britischen Dienst arbeitet. Das verschwundene Reisebekanntschaftsverhältnis wird dadurch Teil einer internationalen Operation. Ihre unauffällige Erscheinung ist gerade der Schutz, der den Transport der wichtigen Nachricht ermöglichen soll.",
+      "anchor": "Miss Froy ist eine britische Spionin.",
+      "interest": "Erklärt die verborgene Bedeutung der scheinbar gewöhnlichen Reisenden.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum bestreiten Charters und Caldicott (Basil Radford, Naunton Wayne) in @ zunächst, Miss Froy gesehen zu haben?",
+      "answers": [
+        "Sie fürchten, durch Verzögerungen ein Cricketspiel zu verpassen",
+        "Sie wollen eine frühere Beziehung zu ihr verbergen",
+        "Sie wurden vom Arzt mit einem Medikament beeinflusst",
+        "Sie halten sie für eine gesuchte Trickbetrügerin"
+      ],
+      "feedback": [
+        "Ihre Fixierung auf das Cricketspiel verdrängt die Hilfsbereitschaft.",
+        "Eine frühere Liebesbeziehung ist nicht ihr Motiv.",
+        "Eine medikamentöse Beeinflussung erklärt ihre Aussage nicht.",
+        "Ein Betrugsverdacht ist nicht ihr Grund."
+      ],
+      "short": "Charters und Caldicott wollen wegen Cricket keine Verzögerung.",
+      "context": "Charters und Caldicott (Basil Radford, Naunton Wayne) möchten rechtzeitig zu einem Cricketspiel gelangen. Sie bestreiten deshalb Miss Froys (Dame May Whitty) Anwesenheit, damit die Suche die Fahrt nicht aufhält. Nicht jede falsche Zeugenaussage entsteht hier aus Beteiligung an der Verschwörung. Der Film nutzt die privaten Interessen der Reisenden, um Iris’ (Margaret Lockwood) wahre Erinnerung zusätzlich unglaubwürdig erscheinen zu lassen.",
+      "anchor": "Charters und Caldicott wollen wegen Cricket keine Verzögerung.",
+      "interest": "Unterscheidet eigennützige Zeugen von den eigentlichen Verschwörern.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie wird Miss Froy (Dame May Whitty) in @ während der Fahrt verborgen?",
+      "answers": [
+        "Als Patientin unter umfangreichen Kopfverbänden",
+        "Als verkleidete Zugbegleiterin im Speisewagen",
+        "In einer Transportkiste mit Musikinstrumenten",
+        "Als verhüllte Begleiterin der Baronin"
+      ],
+      "feedback": [
+        "Die angebliche Patientin ist die verschwundene Frau.",
+        "Eine Uniform als Zugbegleiterin ist nicht ihre Tarnung.",
+        "Eine Instrumentenkiste dient nicht als Versteck.",
+        "Eine verhüllte Begleiterin der Baronin ist nicht die gewählte Tarnung."
+      ],
+      "short": "Miss Froy wird als bandagierte Patientin transportiert.",
+      "context": "Dr. Hartz (Paul Lukas) führt eine scheinbar schwer kranke, stark bandagierte Patientin mit sich. Unter den Verbänden befindet sich Miss Froy (Dame May Whitty). Die medizinische Erklärung schützt das Versteck davor, ohne weiteres überprüft zu werden. Erst die Zweifel von Iris und Gilbert (Margaret Lockwood, Michael Redgrave) lösen diese falsche Deutung auf und öffnen den Weg zur Befreiung.",
+      "anchor": "Miss Froy wird als bandagierte Patientin transportiert.",
+      "interest": "Erklärt das Versteck hinter der glaubwürdigen medizinischen Fassade.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "In welcher Form soll Miss Froys (Dame May Whitty) Nachricht in @ das britische Außenministerium erreichen?",
+      "answers": [
+        "Als im Gedächtnis bewahrte Melodie",
+        "Als Stickmuster auf ihrem Taschentuch",
+        "Als chiffrierter Fahrplan in ihrem Gepäck",
+        "Als Zahlenfolge auf einem Teebeutel"
+      ],
+      "feedback": [
+        "Die entscheidende Nachricht ist in einer Melodie codiert.",
+        "Ein Stickmuster enthält die Nachricht nicht.",
+        "Ein chiffrierter Fahrplan ist nicht das Transportmittel.",
+        "Der Tee dient einem anderen Hinweis, nicht als Nachrichtencode."
+      ],
+      "short": "Die geheime Nachricht steckt in einer Melodie.",
+      "context": "Miss Froy (Dame May Whitty) übergibt Iris und Gilbert (Margaret Lockwood, Michael Redgrave) eine Melodie, bevor sie selbst zu fliehen versucht. Gilbert soll sie dem Außenministerium überbringen. Im Wartezimmer fällt ihm die Weise jedoch nicht mehr ein. Erst ein Klavier hinter der Tür lässt sie wieder hörbar werden: Miss Froy ist angekommen und spielt die entscheidende Folge selbst.",
+      "anchor": "Die geheime Nachricht steckt in einer Melodie.",
+      "interest": "Verknüpft den frühen Gesang mit der musikalischen Schlusspointe.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welcher Hinweis überzeugt Gilbert (Michael Redgrave) in @ davon, dass Miss Froy tatsächlich im Zug war?",
+      "answers": [
+        "Die weggeworfene Verpackung ihrer besonderen Teemarke",
+        "Eine handschriftliche Nachricht auf der Speisekarte",
+        "Ihr Name auf der Passagierliste des Schaffners",
+        "Eine Quittung des Hotels mit ihrer Unterschrift"
+      ],
+      "feedback": [
+        "Die Verpackung bestätigt Iris’ genaue Erinnerung an den Tee.",
+        "Eine handschriftliche Nachricht überzeugt Gilbert nicht.",
+        "Eine Passagierliste liefert nicht den entscheidenden Hinweis.",
+        "Eine Hotelquittung ist nicht das entscheidende Beweisstück."
+      ],
+      "short": "Die Teeverpackung bestätigt Iris’ Erinnerung für Gilbert.",
+      "context": "Gilbert (Michael Redgrave) hält Iris’ (Margaret Lockwood) Erinnerung zunächst für eine Folge ihrer Kopfverletzung. Als die Verpackung der besonderen Teemarke kurz am Zugfenster haftet, erkennt er ein Detail wieder, das Iris ihm genannt hat. Ein weggeworfener Alltagsgegenstand wird so zum unabhängigen Beleg für die Existenz der verschwundenen Frau. Die Suche bekommt damit eine zweite Person, die Iris tatsächlich glaubt.",
+      "anchor": "Die Teeverpackung bestätigt Iris’ Erinnerung für Gilbert.",
+      "interest": "Zeigt, wie ein nebensächliches Objekt einen Wahrnehmungsstreit entscheidet.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Margaret Lockwood und Michael Redgrave erstmals?",
+      "answers": [
+        "1938",
+        "1932",
+        "1943",
+        "1948"
+      ],
+      "feedback": [
+        "1938 ist das Erstveröffentlichungsjahr.",
+        "1932 liegt sechs Jahre davor.",
+        "1943 liegt fünf Jahre danach.",
+        "1948 liegt zehn Jahre danach."
+      ],
+      "short": "1938 Eine Dame verschwindet, 1940 Night Train to Munich: zwei Jahre Abstand.",
+      "context": "Eine Dame verschwindet erschien 1938. Charters und Caldicott, gespielt von Basil Radford und Naunton Wayne, kehrten 1940 in Night Train to Munich zurück, zwei Jahre später. Criterion bestätigt beide Filmjahre und die erneut auftretenden Figuren. Ihr filmisches Nachleben verbindet den Zugthriller mit einem weiteren Spionagefilm, ohne daraus eine Fortsetzung derselben Hauptgeschichte von Iris Henderson (Margaret Lockwood) zu machen.",
+      "anchor": "1938 Eine Dame verschwindet, 1940 Night Train to Munich: zwei Jahre.",
+      "interest": "Ein Zeitanker über das Nachleben zweier Nebenfiguren.",
+      "sources": [
+        "verleih",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Margaret Lockwood und Michael Redgrave Regie?",
+      "answers": [
+        "Alfred Hitchcock",
+        "Carol Reed",
+        "Roy Ward Baker",
+        "Michael Powell"
+      ],
+      "feedback": [
+        "Alfred Hitchcock ist der Regisseur.",
+        "Reed ist nicht für diese Inszenierung genannt.",
+        "Baker arbeitete als Regieassistent, führte aber nicht Regie.",
+        "Powell ist nicht der Regisseur des Films."
+      ],
+      "short": "Alfred Hitchcock führte bei Eine Dame verschwindet Regie.",
+      "context": "Alfred Hitchcock inszenierte den britischen Zugthriller. Sidney Gilliat und Frank Launder schrieben das Drehbuch nach Ethel Lina Whites Roman The Wheel Spins. Margaret Lockwood und Michael Redgrave spielen das Paar, das aus gegenseitiger Gereiztheit zu gemeinsamer Ermittlungsarbeit findet. Die Regie verbindet dieses Spiel mit einem Ensemble von Reisenden, deren private Interessen die Suche zunächst behindern und später eine gemeinsame Bedrohung verdeutlichen.",
+      "anchor": "Alfred Hitchcock führte bei Eine Dame verschwindet Regie.",
+      "interest": "Ordnet die Filmregie innerhalb des Autorenteams zu.",
+      "sources": [
+        "film",
+        "verleih"
+      ]
+    }
+  ]
+}

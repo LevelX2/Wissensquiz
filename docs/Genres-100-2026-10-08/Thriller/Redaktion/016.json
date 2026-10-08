@@ -1,0 +1,207 @@
+{
+  "rank": 16,
+  "directors": [
+    "Martin Ritt"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich"
+  ],
+  "country_note": "BFI führt das Werk als britische Produktion; Criterion katalogisiert es abweichend als USA. Die Metadaten folgen dem BFI-Archiv.",
+  "release_note": "Erstveröffentlichung 1965; die offizielle Autorenseite und Criterion führen die Verfilmung in diesem Jahr.",
+  "familiarity_reason": "Richard Burtons le-Carré-Verfilmung ist ein kanonischer Spionagefilm, dessen Verhörintrige eher Genrekennern vertraut ist.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold_(film)",
+    "criterion": "https://www.criterion.com/films/860-the-spy-who-came-in-from-the-cold",
+    "autor": "https://johnlecarre.com/books/the-spy-who-came-in-from-the-cold",
+    "bfi": "https://www.bfi.org.uk/film/7c673437-151e-500d-8d9c-c15257e39c72/the-spy-who-came-in-from-the-cold"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Bild soll Alec Leamas (Richard Burton) in @ für seine mögliche Anwerbung abgeben?",
+      "answers": [
+        "Ein verbitterter, alkoholkranker ehemaliger Agent",
+        "Ein wohlhabender Kunsthändler mit geheimen Kontakten",
+        "Ein loyaler Offizier auf offizieller Dienstreise",
+        "Ein Journalist auf der Suche nach einem Interview"
+      ],
+      "feedback": [
+        "Der inszenierte Abstieg soll ihn als käuflichen Überläufer erscheinen lassen.",
+        "Ein Kunsthandelsgeschäft gehört nicht zu seiner Tarnung.",
+        "Eine offizielle Reise würde den behaupteten Bruch mit dem Dienst nicht zeigen.",
+        "Leamas gibt sich nicht als Reporter aus."
+      ],
+      "short": "Leamas spielt einen verbitterten ehemaligen Agenten mit Alkoholproblemen.",
+      "context": "Control (Cyril Cusack) lässt Alec Leamas (Richard Burton) scheinbar aus dem britischen Dienst fallen. Der sichtbare soziale Abstieg soll ostdeutsche Werber überzeugen, dass Leamas gegen Geld Geheimnisse verraten könnte. Sein schlechtes Ansehen ist deshalb Teil einer geplanten Rolle. Das Publikum folgt einem Mann, dessen Verhalten öffentlich glaubwürdig wirken muss, obwohl seine Auftraggeber ihm den gesamten Zweck des Plans nicht erklären.",
+      "anchor": "Der inszenierte Absturz macht Leamas für die Gegenseite interessant.",
+      "interest": "Die zentrale Tarnung erklärt die Anwerbung statt nur seine Nationalität abzufragen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wo lernt Alec Leamas (Richard Burton) in @ Nan Perry (Claire Bloom) kennen?",
+      "answers": [
+        "In der Bibliothek, in der beide arbeiten",
+        "In einem Krankenhaus nach seiner Rückkehr",
+        "In einer Bar nahe der Berliner Grenze",
+        "In einer Sprachschule für den Geheimdienst"
+      ],
+      "feedback": [
+        "Leamas begegnet Nan bei der gemeinsamen Bibliotheksarbeit.",
+        "Eine Krankenhausbegegnung ist nicht ihr Kennenlernen.",
+        "Die Beziehung beginnt nicht in einer Berliner Grenzbar.",
+        "Die beiden treffen sich nicht im Sprachunterricht des Dienstes."
+      ],
+      "short": "Die beiden lernen sich bei der Arbeit in einer Bibliothek kennen.",
+      "context": "Nan Perry (Claire Bloom) arbeitet mit Alec Leamas (Richard Burton) in einer Bibliothek und beginnt eine Beziehung mit ihm. Ihr politischer Idealismus steht neben seiner Müdigkeit und seinem misstrauischen Blick auf den Dienst. Die scheinbar zivile Begegnung schafft eine Bindung, die seine Auftraggeber später in den Plan hineinziehen. Sein privates Verhältnis lässt sich dadurch nicht zuverlässig von den Interessen der Geheimdienste abschirmen.",
+      "anchor": "Die zivile Bibliotheksbegegnung wird in den Spionageplan hineingezogen.",
+      "interest": "Der Beziehungsbeginn bietet eine einfache konkrete Ausgangsfrage.",
+      "sources": [
+        "handlung",
+        "criterion"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wessen Loyalität untersucht Fiedler (Oskar Werner) mit Leamas’ (Richard Burton) Angaben in @?",
+      "answers": [
+        "Mundt (Peter van Eyck)",
+        "Nan (Claire Bloom)",
+        "Peters (Sam Wanamaker)",
+        "Control (Cyril Cusack)"
+      ],
+      "feedback": [
+        "Fiedler verdächtigt Mundt, heimlich für die Briten zu arbeiten.",
+        "Nan ist nicht Gegenstand seines ursprünglichen Spionageverdachts.",
+        "Peters ist nicht der Vorgesetzte, gegen den er den Fall aufbaut.",
+        "Sein Tribunal soll nicht Control als ostdeutschen Verräter verurteilen."
+      ],
+      "short": "Fiedler baut einen Verdacht gegen Mundt auf.",
+      "context": "Jens Fiedler (Oskar Werner) setzt Leamas’ (Richard Burton) Angaben zu Hans-Dieter Mundt (Peter van Eyck) zusammen. Er prüft, ob sein eigener Vorgesetzter von den Briten bezahlt wird. Leamas liefert das Material, bestätigt die Schlussfolgerung aber zunächst nicht offen. Die Befragung wird dadurch zu einem Machtkonflikt innerhalb des ostdeutschen Dienstes, in dem ein vermeintlicher Überläufer als Belastungszeuge gegen einen mächtigen Funktionär dient.",
+      "anchor": "Die Aussage des Überläufers richtet sich gegen Fiedlers eigenen Chef.",
+      "interest": "Die untersuchte Loyalität erklärt den unmittelbaren Verhörkonflikt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was entkräftet vor dem Tribunal in @ Leamas’ (Richard Burton) Glaubwürdigkeit als Überläufer?",
+      "answers": [
+        "Nan (Claire Bloom) bestätigt britische Geheimdienstzahlungen.",
+        "Ein Foto zeigt Leamas bei einer britischen Dienstbesprechung.",
+        "Ein Brief beweist einen neuen Dienstvertrag für Leamas.",
+        "Ein Agent entdeckt ein verstecktes Abhörgerät in Leamas’ Mantel."
+      ],
+      "feedback": [
+        "Nans Aussage belegt eine fortbestehende britische Verbindung.",
+        "Ein Foto einer Dienstbesprechung ist nicht der entscheidende Gegenbeweis.",
+        "Ein neuer schriftlicher Dienstvertrag wird nicht vorgelegt.",
+        "Ein Abhörgerät im Mantel bricht seine Glaubwürdigkeit nicht."
+      ],
+      "short": "Nan bestätigt eine Zahlung aus dem Umfeld des britischen Dienstes.",
+      "context": "Nan Perry (Claire Bloom) glaubt, zu einem kulturellen Austausch in die DDR zu reisen. Vor dem Tribunal erzählt sie jedoch von der Unterstützung durch einen britischen Geheimdienstmann. Ihre gutgläubige Aussage beschädigt Leamas’ (Richard Burton) behaupteten Bruch mit seinen Auftraggebern. Ein privater Hilfsakt wird zum Gegenbeweis in einem Verhör, dessen politische Funktion sie nicht überblickt und dessen Ausgang bereits von anderen vorbereitet wurde.",
+      "anchor": "Die private Unterstützung wird im Tribunal zum Beweis gegen die Tarnung.",
+      "interest": "Eine konkrete Aussage erklärt den Umschwung des Verfahrens.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welches britische Ziel im Fall Mundt (Peter van Eyck) und Fiedler (Oskar Werner) enthüllt @?",
+      "answers": [
+        "Mundt schützen und Fiedler ausschalten",
+        "Mundt verhaften und zur britischen Botschaft bringen",
+        "Fiedler als neuen ostdeutschen Dienstchef einsetzen",
+        "Beide für einen britischen Gefangenenaustausch festhalten"
+      ],
+      "feedback": [
+        "Mundt soll als britischer Informant erhalten und Fiedler ausgeschaltet werden.",
+        "Mundts Festnahme in britischem Interesse ist nicht das wirkliche Ziel.",
+        "Fiedler soll nicht zum neuen Dienstchef gemacht werden.",
+        "Ein gemeinsamer Gefangenenaustausch ist nicht die verborgene Absicht."
+      ],
+      "short": "Der Plan schützt Mundt, indem er Fiedler beseitigt.",
+      "context": "Alec Leamas (Richard Burton) glaubt, belastendes Material gegen Mundt (Peter van Eyck) in den ostdeutschen Dienst einzuschleusen. Erst nach dem Tribunal versteht er, dass seine eigene Seite Mundt als Informanten schützen will. Fiedler (Oskar Werner) ist gefährlich geworden, weil er der Wahrheit zu nahe kommt. Leamas’ vermeintliches Scheitern gehört zum gewünschten Ergebnis. Die Enthüllung zeigt, wie wenig der eingesetzte Agent selbst von den Interessen seiner Auftraggeber weiß.",
+      "anchor": "Der scheinbar gescheiterte Auftrag ist für die Auftraggeber erfolgreich.",
+      "interest": "Die verdeckte Absicht unterscheidet sich vom unmittelbar untersuchten Verdacht.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wofür entscheidet sich Leamas (Richard Burton) am Ende von @, nachdem Nan (Claire Bloom) erschossen wurde?",
+      "answers": [
+        "Er steigt auf der Ostseite zu ihrem Körper zurück.",
+        "Er springt sofort allein auf die Westseite.",
+        "Er bleibt auf der Mauer und bietet einen Austausch an.",
+        "Er wartet oben auf ein Zeichen seiner britischen Helfer."
+      ],
+      "feedback": [
+        "Leamas entscheidet sich für die Rückkehr zu Nan.",
+        "Er nimmt die Möglichkeit zur Flucht in den Westen nicht wahr.",
+        "Er schlägt keinen Austausch vor.",
+        "Er wartet nicht oben auf ein weiteres Rettungssignal."
+      ],
+      "short": "Leamas kehrt auf die Ostseite zu Nan zurück.",
+      "context": "Alec Leamas (Richard Burton) hat den höchsten Punkt der Berliner Mauer erreicht, als Nan Perry (Claire Bloom) im Licht der Grenzsicherung erschossen wird. Er könnte weiter in den Westen gelangen. Stattdessen steigt er zu ihr hinab und stirbt ebenfalls. Seine letzte Bewegung beendet die Logik eines Auftrags, der Menschen nach ihrem Nutzen behandelt: Er entscheidet sich für die verlorene private Bindung statt für die vorgesehene Rettung.",
+      "anchor": "Der mögliche Weg in den Westen wird zugunsten Nans aufgegeben.",
+      "interest": "Die konkrete Schlussentscheidung erschließt den persönlichen Endpunkt der Intrige.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Richard Burton erstmals?",
+      "answers": [
+        "1965",
+        "1962",
+        "1968",
+        "1971"
+      ],
+      "feedback": [
+        "Die Verfilmung erschien 1965.",
+        "1962 liegt drei Jahre davor.",
+        "1968 liegt drei Jahre danach.",
+        "1971 liegt sechs Jahre danach."
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 1965.",
+      "context": "1965 kommt Martin Ritts Verfilmung auf die Leinwand. John le Carrés Roman war 1963 erschienen; nur zwei Jahre trennen Buch und Film. Die offizielle Autorenseite nennt beide Veröffentlichungen. Der kurze Abstand verankert das Werk mitten im Kalten Krieg: Die Handlung blickt nicht aus Jahrzehnten Entfernung auf die Berliner Grenze, sondern macht eine zeitgenössische politische Wirklichkeit zum Schauplatz moralischer Verstrickung.",
+      "anchor": "1963 Roman, 1965 Film: zwei Jahre bis zur Verfilmung.",
+      "interest": "Die vom Autor dokumentierte Vorlage liefert den Zeitanker.",
+      "sources": [
+        "autor",
+        "criterion"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Richard Burton und Claire Bloom?",
+      "answers": [
+        "Martin Ritt",
+        "Sidney Lumet",
+        "John Frankenheimer",
+        "Sidney J. Furie"
+      ],
+      "feedback": [
+        "Martin Ritt führte Regie.",
+        "Lumet inszenierte diese Verfilmung nicht.",
+        "Frankenheimer trägt diesen Credit nicht.",
+        "Furie führte bei dieser Produktion nicht Regie."
+      ],
+      "short": "Martin Ritt führte Regie.",
+      "context": "Martin Ritt gestaltet Leamas’ (Richard Burton) Einsatz als nüchternen und tragischen Auftrag. Criterion nennt den Regiecredit und hebt den politischen und sozialen Blick der Inszenierung hervor. Die Geheimdienste erscheinen durch ihre Behandlung der Beteiligten, deren private Beziehungen sich ihren Plänen nicht entziehen können. Der einzelne Mann besitzt dabei deutlich weniger Kontrolle als das Bild eines souveränen, stets bestens informierten Filmagenten erwarten ließe.",
+      "anchor": "Ritt zeigt den Agenten als abhängigen Beteiligten einer größeren Intrige.",
+      "interest": "Der offizielle Credit verbindet sich mit dem sozialen Blick des Films.",
+      "sources": [
+        "criterion",
+        "handlung"
+      ]
+    }
+  ]
+}

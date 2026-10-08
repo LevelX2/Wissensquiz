@@ -1,0 +1,206 @@
+{
+  "rank": 22,
+  "directors": [
+    "Adrian Lyne"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste US-Kinoveröffentlichung am 18. September 1987 laut AFI; 1988 ist kein Erstveröffentlichungsjahr.",
+  "familiarity_reason": "Ein weithin bekannter Erotikthriller mit Michael Douglas und Glenn Close und prägender Bedrohung des Familienlebens.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Fatal_Attraction",
+    "afi": "https://catalog.afi.com/Film/57617-FATAL-ATTRACTION",
+    "vergleich": "https://www.festival-cannes.com/f/basic-instinct/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf hat Dan Gallagher (Michael Douglas) in @?",
+      "answers": [
+        "Rechtsanwalt",
+        "Polizeidetektiv",
+        "Zeitungsfotograf",
+        "Psychotherapeut"
+      ],
+      "feedback": [
+        "Dan arbeitet als Anwalt.",
+        "Er untersucht die Vorgänge nicht als Polizeidetektiv.",
+        "Ein Zeitungsfotograf ist er nicht.",
+        "Er behandelt Alex nicht als Therapeut."
+      ],
+      "short": "Dan Gallagher ist Rechtsanwalt.",
+      "context": "Dan Gallagher (Michael Douglas) führt in New York ein etabliertes Berufs- und Familienleben. Als Anwalt lernt er bei einer geschäftlichen Veranstaltung Alex Forrest (Glenn Close) kennen, die im Verlagswesen arbeitet. Die folgende Affäre entsteht somit im Umfeld seines normalen Alltags. Die bedrohliche Entwicklung trifft keine Ermittlerfigur, sondern einen Mann, der seine private Entscheidung zunächst kontrollierbar findet.",
+      "anchor": "Der bedrohte Ehemann ist Anwalt.",
+      "interest": "Der Beruf grenzt diese Douglas-Rolle von seinen Polizeithrillern ab.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wer ist in @ übers Wochenende verreist, als Dan Gallagher (Michael Douglas) die Affäre beginnt?",
+      "answers": [
+        "Seine Frau und seine Tochter",
+        "Seine Frau und seine Schwiegereltern",
+        "Seine Tochter und ihre Schulklasse",
+        "Seine Frau und ihre Freundinnen"
+      ],
+      "feedback": [
+        "Beth und Ellen sind außer Haus, als die Affäre beginnt.",
+        "Beth besucht mit Ellen ihre Eltern; die Schwiegereltern bilden nicht die reisende Gruppe.",
+        "Ellen ist mit ihrer Mutter unterwegs, nicht auf Klassenfahrt.",
+        "Es ist keine Reise Beths mit Freundinnen."
+      ],
+      "short": "Dan beginnt die Affäre während der Abwesenheit seiner Familie.",
+      "context": "Beth Gallagher (Anne Archer) und ihre Tochter Ellen (Ellen Hamilton Latzen) verbringen das Wochenende außerhalb der Stadt. Dan Gallagher (Michael Douglas) bleibt zurück und kommt Alex Forrest (Glenn Close) näher. Er behandelt die Begegnung zunächst wie eine begrenzte Ausnahme vom Familienleben. Gerade diese angenommene Trennung zwischen einem heimlichen Wochenende und dem folgenden Alltag wird im weiteren Film immer weniger aufrechtzuerhalten sein.",
+      "anchor": "Ein freies Wochenende wird zur dauerhaften Bedrohung.",
+      "interest": "Der Einstieg erklärt Dans Erwartung eines folgenlosen Seitensprungs.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was entdeckt die Familie Gallagher in @ im Kochtopf auf dem Herd?",
+      "answers": [
+        "Das getötete Kaninchen ihrer Tochter",
+        "Eine Kassette mit Dans Geständnis",
+        "Die verbrannten Fotos der Hochzeit",
+        "Eine vergiftete Familienmahlzeit"
+      ],
+      "feedback": [
+        "Alex hat das Haustier getötet und im Topf hinterlassen.",
+        "Die Kassette liegt nicht in diesem Topf.",
+        "Verbrannte Hochzeitsfotos sind nicht der Fund.",
+        "Der Fund ist das Haustier, keine vergiftete Mahlzeit."
+      ],
+      "short": "Das getötete Haustier liegt im Kochtopf.",
+      "context": "Alex Forrest (Glenn Close) dringt in den häuslichen Bereich der Gallaghers ein und tötet das Kaninchen von Ellen (Ellen Hamilton Latzen). Der Fund trifft damit die Tochter, die an der Affäre unbeteiligt ist. Die Szene verschiebt den Konflikt von bedrängenden Anrufen zu einer handfesten Verletzung des Familienraums. Dan Gallagher (Michael Douglas) kann die Gefahr danach nicht mehr als rein persönliche Angelegenheit behandeln.",
+      "anchor": "Das Haustier macht die Bedrohung der Familie sichtbar.",
+      "interest": "Der Schockmoment wird in die Eskalation eingeordnet.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wohin nimmt Alex Forrest (Glenn Close) Ellen (Ellen Hamilton Latzen) in @ ohne Wissen ihrer Eltern mit?",
+      "answers": [
+        "In einen Vergnügungspark",
+        "Zu einer Kinovorstellung",
+        "In einen Tierpark",
+        "Zu einer Schulaufführung"
+      ],
+      "feedback": [
+        "Alex fährt mit Ellen zu Fahrgeschäften im Vergnügungspark.",
+        "Ein Kinobesuch ist nicht das Ziel dieses Ausflugs.",
+        "Sie bringt Ellen nicht in einen Tierpark.",
+        "Eine Schulaufführung erklärt die Fahrt nicht."
+      ],
+      "short": "Alex nimmt Ellen in einen Vergnügungspark mit.",
+      "context": "Alex Forrest (Glenn Close) holt Ellen (Ellen Hamilton Latzen) ab und fährt mit ihr in einen Vergnügungspark. Das Kind erlebt einen Ausflug, während Beth Gallagher (Anne Archer) verzweifelt nach ihr sucht und dabei einen Autounfall erleidet. Die Sequenz lässt harmlos wirkendes Vergnügen und existenzielle Angst gleichzeitig stattfinden. Alex nutzt den Zugang zur Tochter, um die Familie erneut zu verletzen.",
+      "anchor": "Ellen erlebt einen Ausflug, Beth eine verzweifelte Suche.",
+      "interest": "Die parallelen Perspektiven erklären die Wirkung der Eskalation.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie endet Alex Forrests (Glenn Close) Angriff im Badezimmer in der Kinofassung von @?",
+      "answers": [
+        "Beth erschießt sie nach dem erneuten Auftauchen.",
+        "Dan erwürgt sie vor der Badewanne.",
+        "Die Polizei nimmt sie lebend fest.",
+        "Alex entkommt durch das Schlafzimmerfenster."
+      ],
+      "feedback": [
+        "Beth beendet den erneuten Angriff mit dem Schuss.",
+        "Dans Angriff ist nicht der endgültige Ausgang.",
+        "Eine lebende Festnahme beendet diese Schlusskonfrontation nicht.",
+        "Alex entkommt nicht aus dem Haus."
+      ],
+      "short": "In der Kinofassung erschießt Beth die erneut angreifende Alex.",
+      "context": "Dan Gallagher (Michael Douglas) glaubt zunächst, Alex Forrest (Glenn Close) in der Badewanne überwältigt zu haben. Sie taucht jedoch wieder auf und greift erneut an; Beth Gallagher (Anne Archer) schießt. Der Ablauf ist für die Fassungszuordnung entscheidend. Die ursprüngliche gedrehte Schlussvariante endete anders. Hier erhält die bedrohte Ehefrau selbst die Handlung, die den Angriff endgültig beendet.",
+      "anchor": "Nach dem vermeintlichen Ertrinken beendet Beth den Angriff.",
+      "interest": "Die Frage trennt den Kinofinalkampf vom ursprünglichen Ende.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Was sollte Alex Forrest (Glenn Close) im ursprünglich gedrehten Ende von @ erreichen?",
+      "answers": [
+        "Mit ihrem Suizid Dan als vermeintlichen Mörder belasten",
+        "Dan als Zeugin vor Gericht entlasten",
+        "Mit Ellen ausreisen und Dan erpressen",
+        "Beth durch ein gefälschtes Testament schädigen"
+      ],
+      "feedback": [
+        "Der Suizid sollte wie ein von Dan begangener Mord aussehen.",
+        "Die Absicht war Belastung, nicht freiwillige Entlastung.",
+        "Eine Ausreise mit Ellen war nicht das gedrehte Ende.",
+        "Ein Testament bildete nicht diesen Schlusskonflikt."
+      ],
+      "short": "Das ursprüngliche Ende sah einen Suizid mit scheinbarer Mordschuld Dans vor.",
+      "context": "Die zunächst gedrehte Variante ließ Alex Forrest (Glenn Close) sich mit einem Messer töten, an dem Dan Gallaghers (Michael Douglas) Spuren waren. Beth Gallagher (Anne Archer) konnte ihn mit einer Kassette entlasten, auf der Alex ihren Suizid angekündigt hatte. AFI dokumentiert die Änderung und Nachdrehs nach Testvorführungen. Über deren Einfluss gibt es unterschiedliche Aussagen; das alternative Handlungsgeschehen selbst ist klar belegt.",
+      "anchor": "Ursprünglicher Schluss: Suizid und fingierte Mordschuld statt Badezimmerkampf.",
+      "interest": "Die Produktionsgeschichte erklärt eine Veränderung der Schlusswirkung.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Michael Douglas und Glenn Close erstmals?",
+      "answers": [
+        "1987",
+        "1982",
+        "1992",
+        "1997"
+      ],
+      "feedback": [
+        "Der Film startete erstmals 1987.",
+        "1982 liegt fünf Jahre vor dem ersten Kinostart.",
+        "1992 liegt fünf Jahre nach dieser Veröffentlichung.",
+        "1997 liegt zehn Jahre nach der Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung erfolgte 1987.",
+      "context": "Eine verhängnisvolle Affäre erschien 1987. Fünf Jahre später, 1992, folgte Michael Douglas’ Basic Instinct, in dem der familiäre Alltag durch eine Polizeiermittlung ersetzt ist. AFI nennt für den früheren Film ausdrücklich den 18. September 1987 als US-Kinostart. Das Erscheinungsjahr ist deshalb von späteren internationalen Auswertungen und den Oscar-Nominierungen des folgenden Jahres zu unterscheiden.",
+      "anchor": "1987 Familienbedrohung, 1992 Mordermittlung: fünf Jahre Abstand.",
+      "interest": "Die zeitliche Verknüpfung verbindet zwei markante Douglas-Rollen.",
+      "sources": [
+        "afi",
+        "vergleich"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Kinofassung von @ mit Glenn Close Regie?",
+      "answers": [
+        "Adrian Lyne",
+        "Paul Verhoeven",
+        "Brian De Palma",
+        "Lawrence Kasdan"
+      ],
+      "feedback": [
+        "Adrian Lyne ist der offizielle Regisseur.",
+        "Paul Verhoeven inszenierte diesen Film nicht.",
+        "Brian De Palma wurde als mögliche Regiebesetzung diskutiert, führte sie aber nicht aus.",
+        "Lawrence Kasdan trägt hier keinen Regiecredit."
+      ],
+      "short": "Adrian Lyne inszenierte den Film.",
+      "context": "AFI nennt Adrian Lyne als Regisseur. James Dearden hatte die Kurzfilmvorlage und das Drehbuch geschaffen, wurde aber bei der aufwendigeren Kinoproduktion nicht als Regisseur eingesetzt. Die fertige Fassung mit Michael Douglas, Glenn Close und Anne Archer umfasst auch den später nachgedrehten Badezimmerkampf. Die gemeinsame Stoffgeschichte macht den Autor der Vorlage somit nicht zum Regisseur des Kinofilms.",
+      "anchor": "Lyne führt Regie; Dearden liefert Vorlage und Drehbuch.",
+      "interest": "Die Credits trennen Stoffursprung und realisierte Inszenierung.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

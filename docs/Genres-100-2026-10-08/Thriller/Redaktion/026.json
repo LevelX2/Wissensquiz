@@ -1,0 +1,215 @@
+{
+  "rank": 26,
+  "directors": [
+    "Aneesh Chaganty"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "country_note": "Sundance führt die Weltpremiere unter dem damaligen Titel Search als US-Produktion; die russische Produktionsfirma begründet für sich allein kein zusätzliches Produktionsland.",
+  "release_note": "Weltpremiere unter dem Titel Search am 21. Januar 2018 bei Sundance; späterer US-Kinostart als Searching am 24. August 2018.",
+  "familiarity_reason": "Ein viel beachteter Screenlife-Thriller, außerhalb des Genre-Publikums eher ein Kennerfilm.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Searching_(film)",
+    "sony": "https://www.sonypictures.com/movies/searching",
+    "presse": "https://www.sonypictures.com/corp/press_releases/2018/08_18/082018_searching.html",
+    "sundance": "https://www.sundance.org/blogs/2018-sundance-film-festival-feature-films-announced-3/",
+    "nachfolger": "https://www.sonypictures.com/movies/missing",
+    "besetzung": "https://www.imdb.com/title/tt7668870/fullcredits/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Bildform bestimmt die Erzählung von @?",
+      "answers": [
+        "Computer- und Gerätebildschirme mit Chats, Videos und Suchvorgängen",
+        "Ein fortlaufendes privates Urlaubsvideo",
+        "Ausschließlich fest installierte Überwachungskameras",
+        "Ein Gerichtsdokumentarfilm aus Zeugengesprächen"
+      ],
+      "feedback": [
+        "Die Handlung entfaltet sich über die angezeigten digitalen Oberflächen.",
+        "Ein einzelnes Urlaubsvideo ist nicht die Erzählform.",
+        "Überwachung gehört zu den Spuren, bestimmt aber nicht allein den Film.",
+        "Zeugengespräche im Gericht bilden nicht seine Form."
+      ],
+      "short": "Die Geschichte wird über digitale Bildschirme erzählt.",
+      "context": "Der Film zeigt die Suche über Nachrichtenfenster, Videoanrufe, Suchmaschinen, Dateien und andere Geräteansichten. Das Publikum beobachtet, welche Information David Kim (John Cho) öffnet und wie er darauf reagiert. Die Oberfläche ist damit zugleich Schauplatz und Erzählmittel. Auch Familienerinnerungen und öffentliche Nachrichten gelangen durch solche Ansichten ins Bild, statt durch einen üblichen Wechsel klassischer Außen- und Innenszenen.",
+      "anchor": "Digitale Oberflächen werden zum filmischen Handlungsraum.",
+      "interest": "Die zentrale Form erschließt, wie der Film seine Informationen vermittelt.",
+      "sources": [
+        "sony",
+        "presse",
+        "sundance"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was bringt David Kim (John Cho) in @ dazu, die digitalen Spuren seiner Familie zu untersuchen?",
+      "answers": [
+        "Seine Tochter ist verschwunden.",
+        "Sein Bruder hat die Familienkonten übernommen.",
+        "Seine Frau erhält anonyme Drohungen.",
+        "Er wird selbst wegen eines Einbruchs gesucht."
+      ],
+      "feedback": [
+        "David versucht, seine vermisste Tochter zu finden.",
+        "Eine Kontenübernahme durch den Bruder löst die Suche nicht aus.",
+        "Seine Frau ist bereits verstorben; Drohungen an sie sind nicht der Anlass.",
+        "David beginnt nicht als gesuchter Einbrecher."
+      ],
+      "short": "Die vermisste Tochter ist der Anlass seiner Suche.",
+      "context": "Margot Kim (Michelle La) meldet sich nach einem angeblichen Lernen mit anderen Schülern nicht mehr. Ihr Vater David Kim (John Cho) beginnt zunächst mit gewöhnlichen Anrufen und Nachfragen. Als diese keine Erklärung ergeben, untersucht er ihren Laptop und ihre Online-Kontakte. Die Suche zwingt ihn zugleich zu erkennen, wie wenig er zuletzt über den Alltag seiner Tochter wusste.",
+      "anchor": "Die Suche nach Margot wird auch zur Suche nach ihrem unbekannten Alltag.",
+      "interest": "Der familiäre Ausgangspunkt erklärt die Bedeutung der digitalen Spurensuche.",
+      "sources": [
+        "handlung",
+        "sony"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was erfährt David Kim (John Cho) in @ beim Anruf bei Margots Klavierlehrerin?",
+      "answers": [
+        "Margot hat den Unterricht schon vor Monaten beendet.",
+        "Margot nimmt seit Monaten nur Online-Unterricht.",
+        "Margot hat seit Wochen den Unterricht nicht bezahlt.",
+        "Margot hat den Unterricht auf ein anderes Instrument umgestellt."
+      ],
+      "feedback": [
+        "Die Lehrerin erklärt, dass die Stunden seit Monaten abgesagt sind.",
+        "Der Unterricht läuft nicht in einer anderen digitalen Form weiter.",
+        "Der Hinweis betrifft das Ende des Unterrichts, nicht offene Zahlungen.",
+        "Ein Instrumentenwechsel erklärt die fehlenden Stunden nicht."
+      ],
+      "short": "Margot hat den Unterricht ohne Wissen ihres Vaters beendet.",
+      "context": "David Kim (John Cho) glaubt zunächst, Margot Kim (Michelle La) könne einfach bei ihrer Klavierstunde sein. Der Anruf bei der Lehrerin zeigt jedoch, dass sie seit sechs Monaten nicht mehr kommt. Trotzdem hat David weiter Unterrichtsgeld gegeben. Die erste konkrete Alltagslücke führt deshalb zu einer Geldspur und zeigt, dass seine Vorstellung von ihrem Leben erheblich hinter ihrer tatsächlichen Situation zurückliegt.",
+      "anchor": "Die fehlenden Klavierstunden öffnen eine Geldspur.",
+      "interest": "Die scheinbar harmlose Nachfrage erschließt ein verborgenes Stück Alltag.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welcher Fund macht David Kim (John Cho) in @ misstrauisch gegenüber Margots Online-Freundin Hannah?",
+      "answers": [
+        "Ihr Profilbild erscheint als Stockfoto auf einer anderen Website.",
+        "Ihr Video zeigt eine schon lange geschlossene Schule.",
+        "Ihr Benutzername gehört auf einer anderen Plattform David selbst.",
+        "Ihr Profil enthält eine alte Aufnahme von Margots Mutter."
+      ],
+      "feedback": [
+        "Das anderweitig verwendete Modelbild stellt die behauptete Identität infrage.",
+        "Ein Schulvideo ist nicht der auslösende Fund.",
+        "David entdeckt keine Übernahme seines eigenen Benutzernamens.",
+        "Ein Foto von Margots Mutter entlarvt die Identität nicht."
+      ],
+      "short": "Ein kommerziell verwendetes Modelbild entlarvt die Online-Identität.",
+      "context": "Beim Vorbereiten der gestreamten Trauerfeier sieht David Kim (John Cho) das vertraute Hannah-Bild als Stockfoto auf der Website. Das echte Model Hannah (Erica Jenkins) erklärt ihm, dass sie Margot Kim (Michelle La) nicht kennt und auch nie von der Polizei befragt wurde. Damit widerspricht die Entdeckung nicht nur einer Online-Identität, sondern auch einer zuvor behaupteten Ermittlungsprüfung.",
+      "anchor": "Das bekannte Gesicht als Stockfoto widerlegt die angebliche Freundin.",
+      "interest": "Ein alltägliches Webbild legt zwei zusammenhängende Täuschungen offen.",
+      "sources": [
+        "handlung",
+        "besetzung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum manipuliert Ermittlerin Rosemary Vick (Debra Messing) den Fall in @?",
+      "answers": [
+        "Sie vertuscht die Beteiligung ihres Sohnes an Margots Sturz.",
+        "Sie schützt einen langjährigen Informanten vor einer Anklage.",
+        "Sie vertuscht einen eigenen Fehler bei Margots erster Befragung.",
+        "Sie wird von Margots Entführer zu falschen Spuren erpresst."
+      ],
+      "feedback": [
+        "Vick versucht, ihren Sohn vor den Folgen seines Handelns zu schützen.",
+        "Ein geschützter Informant ist nicht der Grund dieser Vertuschung.",
+        "Sie beseitigt nicht die Folgen einer misslungenen eigenen Befragung.",
+        "Vick erfindet die Spuren zum Schutz ihres Sohnes, nicht auf Druck eines Entführers."
+      ],
+      "short": "Vick schützt ihren Sohn und fingiert dafür einen anderen Fallverlauf.",
+      "context": "Rosemary Vicks (Debra Messing) Sohn Robert (Steven Michael Eich) hatte sich online als Mädchen ausgegeben, um Margot Kim (Michelle La) näherzukommen. Bei einer persönlichen Begegnung stieß er sie unbeabsichtigt in eine Schlucht und glaubte sie tot. Vick ließ daraufhin Spuren einer freiwilligen Flucht und später einen falschen Täter entstehen. Die Ermittlerin zerstörte damit die neutrale Suche zugunsten des Schutzes ihres eigenen Kindes.",
+      "anchor": "Der Fall wird von einer Mutter zum Schutz ihres Sohnes manipuliert.",
+      "interest": "Das Motiv verbindet die Online-Täuschung mit der falschen polizeilichen Falllösung.",
+      "sources": [
+        "handlung",
+        "besetzung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum besteht David Kim (John Cho) im Schluss von @ trotz der vergangenen Tage auf einer neuen Suche in der Schlucht?",
+      "answers": [
+        "Ein zwischenzeitlicher Sturm könnte Margot Wasser geliefert haben.",
+        "Eine Kamera hat Margot nach dem Sturz lebend erfasst.",
+        "Ein Arzt hatte ihr einen Notfallvorrat mitgegeben.",
+        "Ein Passant berichtet von ihrer Rettung durch Bergsteiger."
+      ],
+      "feedback": [
+        "David erinnert sich an den Regen, der ihre Überlebenschance verändert.",
+        "Eine neue Kameraaufnahme bildet nicht den Grund für Davids Hoffnung.",
+        "Ein ärztlicher Vorrat ist nicht seine Begründung.",
+        "Ein Bericht über eine bereits erfolgte Rettung liegt nicht vor."
+      ],
+      "short": "Der Regen begründet die Hoffnung auf Margots Überleben.",
+      "context": "Rosemary Vick (Debra Messing) hält Margot Kim (Michelle La) nach mehreren Tagen ohne Wasser für tot. David Kim (John Cho) erinnert sich jedoch an den Sturm, der zuvor die Suchaktion verzögert hatte. Derselbe Regen könnte der verletzten Tochter in der Schlucht Wasser verschafft haben. Er fordert eine erneute Suche, und die Rettung gelingt. Ein früheres Hindernis wird so zum entscheidenden Überlebenshinweis.",
+      "anchor": "Der Sturm behindert die Suche und ermöglicht zugleich das Überleben.",
+      "interest": "Die Auflösung verlangt den Rückbezug auf ein zuvor anders bewertetes Ereignis.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit John Cho erstmals veröffentlicht?",
+      "answers": [
+        "2018",
+        "2012",
+        "2023",
+        "2007"
+      ],
+      "feedback": [
+        "Der Film wurde erstmals 2018 gezeigt.",
+        "2012 liegt sechs Jahre vor der Premiere.",
+        "2023 gehört zum späteren Film Missing.",
+        "2007 liegt elf Jahre vor der Premiere."
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 2018.",
+      "context": "Searching wurde 2018 bei Sundance zunächst unter dem Titel Search vorgestellt. Fünf Jahre später, 2023, erschien Missing aus demselben kreativen Zusammenhang. Der spätere Film kehrt die Suchrichtung um: Eine Tochter sucht ihre verschwundene Mutter. Sony bestätigt die Filmjahre und diesen Produktionsbezug. Die Sundance-Premiere gehört zur Erstveröffentlichung, auch wenn der reguläre Kinostart erst Monate danach folgte.",
+      "anchor": "2018 Searching, 2023 Missing: fünf Jahre Abstand.",
+      "interest": "Der Jahranker verbindet zwei unterschiedliche familiäre Suchrichtungen.",
+      "sources": [
+        "sundance",
+        "sony",
+        "nachfolger"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit John Cho und Debra Messing Regie?",
+      "answers": [
+        "Aneesh Chaganty",
+        "Sev Ohanian",
+        "Timur Bekmambetov",
+        "Will Merrick"
+      ],
+      "feedback": [
+        "Aneesh Chaganty ist der Regisseur.",
+        "Sev Ohanian schrieb mit und produzierte, führte aber nicht Regie.",
+        "Timur Bekmambetov war Produzent, nicht Regisseur dieses Films.",
+        "Will Merrick arbeitete am Schnitt und trägt hier nicht den Regiecredit."
+      ],
+      "short": "Aneesh Chaganty inszenierte den Film.",
+      "context": "Sundance und die Sony-Pressemitteilung nennen Aneesh Chaganty als Regisseur des Films mit John Cho und Debra Messing. Sev Ohanian schrieb gemeinsam mit ihm das Drehbuch und gehörte zu den Produzenten; Timur Bekmambetov hatte ebenfalls eine Produzentenrolle. Der Film war Chagantys Langfilm-Regiedebüt. Die Form einer vollständig durch Geräteansichten vermittelten Suche macht die verschiedenen kreativen Aufgaben besonders sichtbar.",
+      "anchor": "Chaganty führt Regie; Ohanian schreibt mit und produziert.",
+      "interest": "Die Frage trennt die Regie von den ebenfalls prominenten Produktionscredits.",
+      "sources": [
+        "presse",
+        "sundance",
+        "handlung"
+      ]
+    }
+  ]
+}

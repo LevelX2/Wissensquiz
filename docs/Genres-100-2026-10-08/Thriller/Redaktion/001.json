@@ -1,0 +1,203 @@
+{
+  "rank": 1,
+  "directors": [
+    "Alfred Hitchcock"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste New Yorker Aufführung am 15. August 1946; allgemeiner US-Start am 6. September 1946 laut AFI.",
+  "familiarity_reason": "Zentraler Hitchcock-Spionagethriller mit Bergman und Grant; für Genrekenner besonders prägend.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Notorious_(1946_film)",
+    "archiv": "https://catalog.afi.com/Film/24900-NOTORIOUS"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem Land infiltriert Alicia (Ingrid Bergman) in @ die Gruppe um Sebastian (Claude Rains)?",
+      "answers": [
+        "Brasilien",
+        "Argentinien",
+        "Mexiko",
+        "Portugal"
+      ],
+      "feedback": [
+        "Der Auftrag führt sie nach Rio de Janeiro in Brasilien.",
+        "Argentinien ist nicht das Land dieser Operation.",
+        "Die Ermittlungen führen nicht nach Mexiko.",
+        "Portugal ist nicht der Schauplatz der Infiltration."
+      ],
+      "short": "Alicias verdeckter Auftrag führt nach Brasilien.",
+      "context": "Alicia Huberman (Ingrid Bergman) reist mit dem amerikanischen Agenten Devlin (Cary Grant) nach Rio de Janeiro. Dort soll sie Zugang zu einer Gruppe ehemaliger deutscher Nationalsozialisten erhalten. Alexander Sebastian (Claude Rains) kennt sie bereits über ihren Vater. Die Mission nutzt deshalb eine persönliche Verbindung, die später weit über eine unverbindliche Begegnung hinausreichen soll.",
+      "anchor": "Alicias verdeckter Auftrag führt nach Brasilien.",
+      "interest": "Verortet die zentrale Spionagehandlung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Rolle übernimmt Alicia (Ingrid Bergman) gegenüber Sebastian (Claude Rains) in @?",
+      "answers": [
+        "Sie wird seine Ehefrau",
+        "Sie wird seine Geliebte",
+        "Sie wird seine persönliche Sekretärin",
+        "Sie wird seine Geschäftspartnerin"
+      ],
+      "feedback": [
+        "Die Ehe verschafft ihr Zugang zu seinem Haus.",
+        "Sie bleibt nicht nur seine Geliebte, sondern heiratet ihn.",
+        "Sie nimmt nicht die Stellung einer persönlichen Sekretärin ein.",
+        "Eine geschäftliche Partnerschaft ist nicht ihre Tarnrolle."
+      ],
+      "short": "Alicia heiratet das Ziel ihrer Spionagemission.",
+      "context": "Alicia (Ingrid Bergman) heiratet Alexander Sebastian (Claude Rains), obwohl sie Devlin (Cary Grant) liebt. Devlin widerspricht dem Auftrag nicht so, wie sie es sich erhofft. Die Beziehung zum Ziel ist damit zugleich ein Mittel der Spionage und eine schmerzhafte Entscheidung in der Liebesgeschichte. Ihre vermeintlich sichere Stellung im Haushalt wird später zur lebensgefährlichen Falle.",
+      "anchor": "Alicia heiratet das Ziel ihrer Spionagemission.",
+      "interest": "Verbindet die Operation mit dem Liebeskonflikt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was entdecken Alicia und Devlin (Ingrid Bergman, Cary Grant) in @ in einer Weinflasche im Keller?",
+      "answers": [
+        "Uranhaltigen schwarzen Sand",
+        "Diamanten in Watte",
+        "Eine verschlüsselte Filmrolle",
+        "Gefälschte Banknoten"
+      ],
+      "feedback": [
+        "Der schwarze Inhalt wird als uranhaltiges Material erkannt.",
+        "Diamanten sind nicht der Inhalt der Flasche.",
+        "Eine Filmrolle verbirgt sich dort nicht.",
+        "Banknoten sind nicht die geheime Fracht."
+      ],
+      "short": "Die Weinflasche verbirgt uranhaltigen Sand.",
+      "context": "Während eines Empfangs gelangen Alicia und Devlin (Ingrid Bergman, Cary Grant) heimlich in den Weinkeller. Eine zerbrochene Flasche gibt schwarzen Sand frei, der mit Uran in Verbindung steht. Die Tarnung als gewöhnlicher Weinvorrat macht das Haus zum Lager einer gefährlichen Operation. Gleichzeitig hinterlassen die beiden Spuren: Die Suche bringt nicht nur Erkenntnis, sondern gefährdet auch Alicias Tarnung.",
+      "anchor": "Die Weinflasche verbirgt uranhaltigen Sand.",
+      "interest": "Zeigt das konkrete Geheimnis hinter dem gesellschaftlichen Schein.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie soll Alicia (Ingrid Bergman) in @ nach der Entdeckung ihrer Tarnung unauffällig beseitigt werden?",
+      "answers": [
+        "Durch langsames Vergiften",
+        "Durch einen fingierten Reitunfall",
+        "Durch einen Brand im Schlafzimmer",
+        "Durch einen provozierten Verkehrsunfall"
+      ],
+      "feedback": [
+        "Die Vergiftung lässt ihren Zustand wie eine Erkrankung erscheinen.",
+        "Ein Reitunfall ist nicht der beschlossene Plan.",
+        "Ein Schlafzimmerbrand wird nicht inszeniert.",
+        "Ein Verkehrsunfall ist nicht die gewählte Methode."
+      ],
+      "short": "Alicia wird im eigenen Haushalt langsam vergiftet.",
+      "context": "Sebastian (Claude Rains) erkennt, dass Alicia (Ingrid Bergman) eine Agentin ist. Seine Mutter (Leopoldine Konstantin) schlägt eine schleichende Vergiftung vor. Alicia verliert zunehmend ihre Kräfte und wird schließlich isoliert. Das Verbrechen findet damit mitten im scheinbar vertrauten Haushalt statt. Ihre Schwäche verhindert lange, dass sie die Gefahr nach außen mitteilen oder das Haus aus eigener Kraft verlassen kann.",
+      "anchor": "Alicia wird im eigenen Haushalt langsam vergiftet.",
+      "interest": "Erklärt die körperliche Bedrohung im letzten Akt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum meldet Sebastian (Claude Rains) Alicias Enttarnung in @ nicht seinen Mitverschwörern?",
+      "answers": [
+        "Er fürchtet ihre Strafe für seine Ehe mit einer Agentin",
+        "Er hält sie weiterhin für eine deutsche Doppelagentin",
+        "Er will mit ihr gemeinsam nach Europa fliehen",
+        "Er ist inzwischen selbst zum amerikanischen Dienst übergelaufen"
+      ],
+      "feedback": [
+        "Sein eigener Fehler würde ihn vor der Gruppe zum Verräter machen.",
+        "Er hat ihre amerikanische Tätigkeit erkannt.",
+        "Eine gemeinsame Flucht nach Europa ist nicht sein Plan.",
+        "Ein Überlaufen erklärt seine Geheimhaltung nicht."
+      ],
+      "short": "Sebastian muss auch sein eigenes Versagen verbergen.",
+      "context": "Sebastian (Claude Rains) kann seinen Fund nicht einfach als Erfolg präsentieren. Er hat eine amerikanische Agentin in sein Haus und in die Nähe der Verschwörer gebracht. Eine offene Anklage gegen Alicia (Ingrid Bergman) würde auch sein eigenes Versagen enthüllen. Die heimliche Vergiftung soll deshalb zwei Probleme zugleich lösen: die Agentin ausschalten und seine gefährdete Stellung innerhalb der Gruppe erhalten.",
+      "anchor": "Sebastian muss auch sein eigenes Versagen verbergen.",
+      "interest": "Trennt persönliche Angst von bloßer Loyalität zur Verschwörung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wozu küsst Devlin (Cary Grant) Alicia (Ingrid Bergman) in @, als Sebastian sie beim Keller überrascht?",
+      "answers": [
+        "Um ihre geheime Suche als Liebestreffen zu tarnen",
+        "Um Sebastian zum sofortigen Verlassen des Hauses zu bewegen",
+        "Um Alicia das Ende des Auftrags zu signalisieren",
+        "Um Sebastian zu einem Eifersuchtsgeständnis zu bringen"
+      ],
+      "feedback": [
+        "Der Kuss bietet eine scheinbar private Erklärung für ihr Verhalten.",
+        "Sebastian soll nicht durch den Kuss aus dem Haus vertrieben werden.",
+        "Der Kuss beendet nicht Alicias Auftrag.",
+        "Ein Geständnis Sebastians ist nicht das unmittelbare Ziel."
+      ],
+      "short": "Der Kuss tarnt Spionage als ein heimliches Liebestreffen.",
+      "context": "Devlin und Alicia (Cary Grant, Ingrid Bergman) müssen ihre Untersuchung verbergen, als Sebastian (Claude Rains) in Richtung Keller kommt. Devlin spielt den hartnäckigen, unerwünschten Verehrer. Ein Kuss lenkt den Verdacht auf Untreue statt auf Spionage. Die Täuschung funktioniert, weil sie zugleich an die wirkliche Anziehung der beiden anknüpft und Sebastians persönliche Eifersucht gegen ihn verwendet.",
+      "anchor": "Der Kuss tarnt Spionage als ein heimliches Liebestreffen.",
+      "interest": "Zeigt, wie die Liebesgeschichte eine konkrete Deckgeschichte liefert.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Ingrid Bergman und Cary Grant erstmals?",
+      "answers": [
+        "1946",
+        "1941",
+        "1950",
+        "1955"
+      ],
+      "feedback": [
+        "1946 ist das Jahr der ersten Kinoveröffentlichung.",
+        "1941 liegt fünf Jahre vor dem Kinostart.",
+        "1950 liegt vier Jahre nach dem Kinostart.",
+        "1955 liegt neun Jahre nach dem Kinostart."
+      ],
+      "short": "1946 Kinofilm, 1948 Bergmans Radiobearbeitung: zwei Jahre Abstand.",
+      "context": "Berüchtigt kam 1946 ins Kino. Bereits 1948, zwei Jahre später, spielte Ingrid Bergman Alicia erneut in einer Lux-Radio-Theatre-Bearbeitung. Ihr Partner war dort Joseph Cotten anstelle von Cary Grant. Dieser Wechsel verbindet das Filmjahr mit einer frühen Umsetzung desselben Stoffes für ein anderes Medium und macht zugleich deutlich, welche Hauptdarsteller zum ursprünglichen Kinofilm gehören.",
+      "anchor": "1946 Kinofilm, 1948 Bergmans Radiobearbeitung: zwei Jahre Abstand.",
+      "interest": "Ein Zeitanker über Film und Hörspiel hinweg.",
+      "sources": [
+        "film",
+        "archiv"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Ingrid Bergman und Cary Grant Regie?",
+      "answers": [
+        "Alfred Hitchcock",
+        "Otto Preminger",
+        "Fritz Lang",
+        "Carol Reed"
+      ],
+      "feedback": [
+        "Alfred Hitchcock ist im Regiecredit genannt.",
+        "Preminger führte bei diesem Film nicht Regie.",
+        "Lang ist nicht der Regisseur dieser Produktion.",
+        "Reed inszenierte diesen Film nicht."
+      ],
+      "short": "Alfred Hitchcock inszenierte Berüchtigt.",
+      "context": "Alfred Hitchcock inszenierte den Spionagethriller nach einem Drehbuch von Ben Hecht. Die Handlung verbindet den verdeckten Auftrag mit einer Dreiecksbeziehung zwischen Alicia, Devlin und Sebastian, gespielt von Ingrid Bergman, Cary Grant und Claude Rains. Gerade die persönlichen Bindungen liefern dabei Zugang, Tarnung und Gefahr. Das macht die Verantwortung für die Inszenierung unabhängig vom literarischen oder politischen Hintergrund des Stoffes merkbar.",
+      "anchor": "Alfred Hitchcock inszenierte Berüchtigt.",
+      "interest": "Ordnet die konkrete Filmgestaltung zu.",
+      "sources": [
+        "film",
+        "archiv"
+      ]
+    }
+  ]
+}

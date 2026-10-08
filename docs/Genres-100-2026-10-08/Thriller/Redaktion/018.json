@@ -1,0 +1,203 @@
+{
+  "rank": 18,
+  "directors": [
+    "John McTiernan"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Neuverfilmung mit Pierce Brosnan und Rene Russo; US-Erststart am 6. August 1999. Nicht die Fassung von 1968.",
+  "familiarity_reason": "Brosnans Kunstraub und das Duell mit Rene Russo sind als elegante Neuverfilmung breit wiedererkennbar.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1999_film)",
+    "afi": "https://www.afi.com/news/the-thomas-crown-affair-afi-movie-club/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was stiehlt Thomas Crown (Pierce Brosnan) in @ aus dem Museum?",
+      "answers": [
+        "Ein Gemälde von Claude Monet",
+        "Ein Gemälde von Édouard Manet",
+        "Ein Gemälde von Vincent van Gogh",
+        "Ein Gemälde von Pierre-Auguste Renoir"
+      ],
+      "feedback": [
+        "Crown entwendet ein Monet-Gemälde.",
+        "Manet ist nicht der Maler des gestohlenen Werks.",
+        "Der erste Raub gilt keinem Van-Gogh-Gemälde.",
+        "Renoir ist nicht der Künstler dieser Beute."
+      ],
+      "short": "Crown stiehlt ein Monet-Gemälde.",
+      "context": "Thomas Crown (Pierce Brosnan) nutzt einen auffälligen anderen Einbruchsversuch als Ablenkung. Während die Aufmerksamkeit auf die gefassten Täter gerichtet ist, verschwindet das Monet-Gemälde mit ihm. Der spätere Fall handelt deshalb von einem Kunstraub, bei dem der wichtigste Mann zunächst nicht zu den sichtbaren Festgenommenen gehört. Die Beute unterscheidet diese Fassung zudem vom Bankraub der früheren Thomas-Crown-Verfilmung.",
+      "anchor": "Der sichtbare Einbruch verdeckt den entscheidenden Bilderdiebstahl.",
+      "interest": "Der konkrete Beutetyp verankert ausdrücklich die Brosnan-Neuverfilmung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Motivation vermutet Catherine Banning (Rene Russo) hinter Crowns (Pierce Brosnan) Tat in @?",
+      "answers": [
+        "Den Nervenkitzel des riskanten Spiels",
+        "Eine drohende private Zahlungsunfähigkeit",
+        "Die Rettung eines Familienbesitzes vor Versteigerung",
+        "Die Beschaffung von Geld für einen politischen Auftrag"
+      ],
+      "feedback": [
+        "Banning vermutet den Reiz der Herausforderung statt finanzieller Not.",
+        "Der wohlhabende Crown ist nicht wegen Zahlungsunfähigkeit zum Raub gezwungen.",
+        "Eine drohende Familienversteigerung erklärt den Kunstraub nicht.",
+        "Ein politischer Finanzierungsauftrag wird nicht als Motiv enthüllt."
+      ],
+      "short": "Crown sucht den Nervenkitzel einer schwierigen Herausforderung.",
+      "context": "Catherine Banning (Rene Russo) nimmt Thomas Crowns (Pierce Brosnan) Reichtum ernst: Für ihn wäre der Wert der Beute kein ausreichender Grund, das Risiko einzugehen. Sie betrachtet den Diebstahl als Spiel gegen ein scheinbar sicheres System. Damit verändert sich auch ihre Untersuchung. Sie muss einen Mann einschätzen, dessen Erfolg nicht nur von Geld, sondern von dem Vergnügen abhängt, andere mit einem vorbereiteten Plan zu überlisten.",
+      "anchor": "Der reiche Täter sucht Herausforderung statt eine finanzielle Rettung.",
+      "interest": "Das Motiv erklärt die Form des anschließenden Duells.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was entdeckt Banning (Rene Russo) in @ bei der heimlichen Durchsuchung von Crowns (Pierce Brosnan) Haus?",
+      "answers": [
+        "Eine Monet-Imitation über einem Bild pokerspielender Hunde",
+        "Den echten Monet hinter einem zweiten Bild im Rahmen",
+        "Eine Monet-Skizze mit einem fingierten Museumsstempel",
+        "Eine beschädigte Monet-Kopie mit der Unterschrift des Fälschers"
+      ],
+      "feedback": [
+        "Die gefundene Imitation ist über ein anderes Bild gemalt.",
+        "Der originale Monet wird bei dieser Suche nicht gefunden.",
+        "Eine gestempelte Skizze ist nicht der entscheidende Fund.",
+        "Eine beschädigte Kopie mit Signatur ist nicht die vorgefundene Täuschung."
+      ],
+      "short": "Der scheinbare Monet ist eine Fälschung über pokerspielenden Hunden.",
+      "context": "Catherine Banning (Rene Russo) lässt nach dem gemeinsamen Essen Crowns (Pierce Brosnan) Schlüssel kopieren. Die Suche scheint ihr zunächst den erwünschten Beweis zu geben. Hinter dem vermeintlichen Monet verbirgt sich jedoch ein anderes Bild. Crown hat damit die erwartbare Ermittlungsreaktion in sein Spiel einbezogen. Die Durchsuchung liefert keine einfache Bestätigung, sondern zeigt ihr, dass er ihren nächsten Schritt bereits vorausgesehen hat.",
+      "anchor": "Der erwartete Beweis ist Crowns vorbereiteter Scherz.",
+      "interest": "Die falsche Bildschicht unterscheidet sich vom späteren Versteck des Originals.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche tatsächliche Verbindung hat Anna (Esther Cañadas) zu Crown (Pierce Brosnan) in @?",
+      "answers": [
+        "Sie ist die Tochter eines Fälschers und fertigt für ihn die Bildkopien.",
+        "Sie ist seine heimlich angetraute Ehefrau.",
+        "Sie ermittelt für eine konkurrierende Versicherung gegen ihn.",
+        "Sie ist die Eigentümerin des gestohlenen Monets."
+      ],
+      "feedback": [
+        "Anna ist die Tochter des inhaftierten Fälschers und arbeitet an den Kopien.",
+        "Die vermutete romantische Konkurrenz ist keine geheime Ehe.",
+        "Sie ist keine Ermittlerin einer anderen Versicherung.",
+        "Der Monet gehört nicht Anna."
+      ],
+      "short": "Anna ist die Tochter des Fälschers Knutzhorn und hat die Kopien angefertigt.",
+      "context": "Fotos von Anna (Esther Cañadas) mit Thomas Crown (Pierce Brosnan) wecken Catherine Bannings (Rene Russo) Eifersucht. Später erfährt sie, dass der inhaftierte Heinrich Knutzhorn (Mark Margolis) Annas Vater ist und Crown für sie Verantwortung übernommen hat. Die Verbindung erklärt die Qualität der Fälschungen. Eine scheinbar private Rivalin gehört damit zur technischen Durchführung des Raubs, während Bannings erste Deutung ihre Gefühle offenlegt.",
+      "anchor": "Die vermeintliche Rivalin erklärt die professionellen Bildkopien.",
+      "interest": "Die Aufdeckung verbindet die Fälschung mit einer zunächst falsch gedeuteten Beziehung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie erschwert Crown (Pierce Brosnan) in der Museumsszene von @ seine Verfolgung?",
+      "answers": [
+        "Mit zahlreichen ähnlich gekleideten Männern in Melonenhüten",
+        "Mit vertauschten Namensschildern des Museumspersonals",
+        "Mit einem gefälschten Polizeiausweis am Seiteneingang",
+        "Mit einer als Evakuierung getarnten Fahrt im Krankenwagen"
+      ],
+      "feedback": [
+        "Die ähnlich gekleideten Männer vervielfachen sein sichtbares Erscheinungsbild.",
+        "Namensschilder sind nicht die entscheidende Ablenkung.",
+        "Er löst das Problem nicht durch einen vorgezeigten Polizeiausweis.",
+        "Eine Krankenwagenfahrt ist nicht sein Fluchtmanöver."
+      ],
+      "short": "Zahlreiche Männer im ähnlichen Mantel und Melonenhut verwirren die Verfolger.",
+      "context": "Thomas Crown (Pierce Brosnan) zeigt sich im Museum scheinbar gut erkennbar. Dann mischt er sich unter Männer, die dasselbe auffällige Erscheinungsbild tragen. Die Melonenhüte erinnern an René Magrittes Der Sohn des Menschen. Die Beamten verlieren gerade durch die vielen sichtbaren Hinweise die eindeutige Zuordnung. Der Plan verwandelt eine erwartete Stärke der Überwachung in ein Problem: Ein wiedererkennbares Merkmal hilft nicht, wenn es gezielt vervielfacht wird.",
+      "anchor": "Die vervielfachte Silhouette macht den sichtbaren Täter schwer auffindbar.",
+      "interest": "Die Ablenkung verbindet ein konkretes Bildmotiv mit der Verfolgung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wo befindet sich der echte Monet in @ unmittelbar vor der Auslösung der Sprinkleranlage?",
+      "answers": [
+        "Unter der abwaschbaren Übermalung des von Crown geliehenen Bildes",
+        "Im doppelten Boden des mitgebrachten Trojanischen Pferdes",
+        "In Bannings Gepäck im bewachten Museumsbüro",
+        "In einem leeren Rahmen hinter dem Büro des Direktors"
+      ],
+      "feedback": [
+        "Der vermeintliche Pissarro verdeckt den bereits zurückgebrachten Monet.",
+        "Das Trojanische Pferd dient dem früheren Ablenkungsversuch.",
+        "Banning trägt den echten Monet nicht im Museumsbüro bei sich.",
+        "Ein leerer Rahmen im Direktorenbereich ist nicht das Versteck."
+      ],
+      "short": "Der echte Monet hängt unter einer abwaschbaren Übermalung bereits im Museum.",
+      "context": "Crown (Pierce Brosnan) hat dem Museum scheinbar einen Pissarro als Ersatz für die gestohlene Beute geliehen. Tatsächlich ließ er den Monet übermalen und auf diese Weise früh zurückbringen. Das Wasser der Sprinkleranlage entfernt die obere Schicht. Die spektakuläre Rückgabe ist deshalb nicht der unbemerkte Transport eines neuen Gegenstands, sondern die sichtbare Aufdeckung eines Bildes, das längst vor den Augen der Ermittler hing.",
+      "anchor": "Die Rückgabe enthüllt, was bereits an der Wand hängt.",
+      "interest": "Der Aufenthaltsort des Originals ist von der falschen Kopie in Crowns Haus getrennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Pierce Brosnan und Rene Russo erstmals?",
+      "answers": [
+        "1999",
+        "1995",
+        "1997",
+        "2001"
+      ],
+      "feedback": [
+        "Die Neuverfilmung erschien 1999.",
+        "1995 liegt vier Jahre davor.",
+        "1997 liegt zwei Jahre davor.",
+        "2001 liegt zwei Jahre danach."
+      ],
+      "short": "Diese Neuverfilmung wurde 1999 veröffentlicht.",
+      "context": "1999 übernimmt Pierce Brosnan die Figur Thomas Crown, die Steve McQueen 1968 gespielt hatte. Zwischen den beiden Kinofassungen liegen 31 Jahre. Das AFI stellt die Verbindung und John McTiernans Regie ausdrücklich her. Der zeitliche Vergleich erklärt auch die veränderte Beute: Die Neuverfilmung ersetzt den Bankraub durch Kunstdiebstahl und behält das Duell zwischen einem reichen Täter und einer ebenso entschlossenen Ermittlerin bei.",
+      "anchor": "1968 McQueen, 1999 Brosnan: 31 Jahre zwischen den Kinofassungen.",
+      "interest": "Die klar benannte frühere Fassung bildet den belegten Zeitanker.",
+      "sources": [
+        "afi",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Pierce Brosnan und Rene Russo?",
+      "answers": [
+        "John McTiernan",
+        "Roger Donaldson",
+        "Andrew Davis",
+        "Mike Newell"
+      ],
+      "feedback": [
+        "John McTiernan führte Regie.",
+        "Donaldson inszenierte diese Neuverfilmung nicht.",
+        "Davis trägt diesen Regiecredit nicht.",
+        "Newell führte bei dieser Produktion nicht Regie."
+      ],
+      "short": "John McTiernan führte Regie.",
+      "context": "John McTiernan inszeniert das Duell von Thomas Crown (Pierce Brosnan) und Catherine Banning (Rene Russo) als Verbindung aus Kunstraub und wechselseitiger Verführung. Das AFI nennt ihn ausdrücklich als Regisseur der Neuverfilmung. Sichtbare Bilder, versteckte Bildschichten und vorbereitete Ablenkungen bestimmen den Fall. Die Aufklärung verlangt deshalb immer wieder, etwas bereits Gesehenes anders zu verstehen, statt lediglich einen bislang unbekannten Gegenstand zu entdecken.",
+      "anchor": "McTiernans Kunstraub spielt mit Bildschichten und sichtbaren Ablenkungen.",
+      "interest": "Der offizielle Credit gilt ausdrücklich für die Brosnan-Fassung.",
+      "sources": [
+        "afi",
+        "handlung"
+      ]
+    }
+  ]
+}
