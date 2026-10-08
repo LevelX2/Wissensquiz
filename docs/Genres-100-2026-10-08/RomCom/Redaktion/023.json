@@ -1,0 +1,211 @@
+{
+  "rank": 23,
+  "directors": [
+    "Til Schweiger"
+  ],
+  "production_countries": [
+    "Deutschland"
+  ],
+  "release_note": "2007; filmportal nennt die Premiere am 10. Dezember 2007 in Berlin und den deutschen Kinostart am 20. Dezember 2007.",
+  "familiarity_reason": "Sehr verbreitete deutsche Publikumskomödie und Ausgangspunkt einer bekannten Fortsetzung; Bekanntheit 2, getrennt von der Schwierigkeit.",
+  "director_note": "Til Schweiger ist Hauptregisseur. Torsten Künstler wird bei filmportal ausdrücklich für die Regie des zweiten Stabs geführt und nicht als gleichberechtigter Hauptregisseur übernommen.",
+  "series": {
+    "name": "Keinohrhasen",
+    "position": 1,
+    "note": "Erster Kinofilm; Zweiohrküken ist die Fortsetzung von 2009."
+  },
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Rabbit_Without_Ears",
+    "register": "https://www.filmportal.de/film/keinohrhasen_220f2fc3af844a409ae985d62b9f2f22",
+    "zeitanker": "https://www.filmportal.de/en/movie/zweiohrkuken_6a4b8138f7ec5e9be040007f01000c07"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo muss Ludo Decker (Til Schweiger) in @ seine Sozialstunden leisten?",
+      "answers": [
+        "In einem Kinderhort",
+        "In einem Seniorenheim",
+        "In einem Tierheim",
+        "In einem Krankenhaus"
+      ],
+      "feedback": [
+        "Das Gericht weist Ludo Arbeit in einem Kinderhort zu.",
+        "Ein Seniorenheim ist nicht sein Einsatzort.",
+        "Ein Tierheim wird ihm nicht zugewiesen.",
+        "Ein Krankenhaus nimmt ihn nicht für diese Sozialstunden auf."
+      ],
+      "short": "Ludo muss seine Sozialstunden in einem Kinderhort leisten.",
+      "context": "Ludo Decker (Til Schweiger) arbeitet als Boulevardreporter und muss nach einem misslungenen Einsatz Sozialstunden in einem Kinderhort leisten. Dort begegnet er Anna Gotzlowski (Nora Tschirner), die mit dem Alltag der Kinder vertraut ist und ihn zunächst widerwillig aufnimmt. Die verpflichtende Arbeit bringt ihn aus seiner gewohnten Medienwelt in ein Umfeld, dessen Aufgaben und Beziehungen er erst kennenlernen muss.",
+      "anchor": "Die gerichtliche Pflicht führt in den Kinderhort.",
+      "interest": "Der neue Arbeitsort bildet den Ausgangspunkt der Romanze.",
+      "sources": [
+        "handlung",
+        "register"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Vorgeschichte haben Anna Gotzlowski (Nora Tschirner) und Ludo Decker (Til Schweiger) in @?",
+      "answers": [
+        "Er hat sie als Kind gehänselt.",
+        "Sie waren früher miteinander verlobt.",
+        "Sie haben gemeinsam Journalismus studiert.",
+        "Er hat sie aus seiner Redaktion entlassen."
+      ],
+      "feedback": [
+        "Anna erinnert sich an Ludos Hänseleien aus der Kindheit.",
+        "Eine frühere Verlobung bestand nicht.",
+        "Ein gemeinsames Journalismusstudium verbindet sie nicht.",
+        "Ludo war nicht ihr Vorgesetzter in einer Redaktion."
+      ],
+      "short": "Anna kennt Ludo aus der Kindheit und erinnert sich an seine Hänseleien.",
+      "context": "Anna Gotzlowski (Nora Tschirner) kennt Ludo Decker (Til Schweiger) bereits aus der Kindheit. Damals hat er sie gehänselt, weshalb die Begegnung im Kinderhort für sie keine unbelastete erste Bekanntschaft ist. Sie nutzt anfangs ihre neue Macht über seine Aufgaben, um ihm die Arbeit schwerzumachen. Die spätere Annäherung muss damit auch die Erinnerung an ein früheres verletzendes Verhältnis überwinden.",
+      "anchor": "Das alte Machtverhältnis kehrt im Kinderhort zunächst um.",
+      "interest": "Die gemeinsame Vergangenheit erklärt Annas anfängliche Haltung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was geschieht bei Ludos (Til Schweiger) misslungenem Reportereinsatz in @?",
+      "answers": [
+        "Er bricht durch ein Glasdach und landet in einer Torte.",
+        "Er stürzt von einer Treppe und beschädigt eine Kamera.",
+        "Er fällt in einen Pool und verliert das Interviewmaterial.",
+        "Er fährt mit einem Wagen in den Eingang eines Hotels."
+      ],
+      "feedback": [
+        "Der Sturz durch das Glasdach endet auf der Feier in einer Torte.",
+        "Der folgenreiche Unfall findet nicht auf einer Treppe statt.",
+        "Ein Poolunfall führt nicht zu diesem Urteil.",
+        "Ein Wagenunfall am Hoteleingang ist nicht der Auslöser."
+      ],
+      "short": "Ludo stürzt durch ein Glasdach mitten in eine Feier.",
+      "context": "Ludo Decker (Til Schweiger) versucht bei einer prominenten Feier, an Material für seine Boulevardarbeit zu gelangen. Sein riskantes Vorgehen endet damit, dass er durch ein Glasdach bricht und in einer Torte landet. Der Vorfall führt zu den gerichtlich angeordneten Sozialstunden. Aus einem beruflichen Eingriff in die Privatsphäre anderer entsteht so die verpflichtende Begegnung mit einem für ihn völlig anderen Arbeitsalltag.",
+      "anchor": "Der spektakuläre Sturz hat rechtliche Folgen.",
+      "interest": "Der konkrete Unfall verbindet Medienarbeit und gerichtliche Auflage.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Aufgabe übernimmt Moritz (Matthias Schweighöfer) im Team von Ludo (Til Schweiger) bei @?",
+      "answers": [
+        "Er fotografiert für die Boulevardberichte.",
+        "Er vertritt Ludo als Rechtsanwalt.",
+        "Er betreut die Anzeigenkunden der Zeitung.",
+        "Er führt die Interviews als Chefredakteur."
+      ],
+      "feedback": [
+        "Moritz arbeitet als Fotograf an Ludos Seite.",
+        "Er ist nicht Ludos Anwalt.",
+        "Die Betreuung der Anzeigenkunden ist nicht seine Aufgabe.",
+        "Als Chefredakteur führt er die Berichte nicht."
+      ],
+      "short": "Moritz ist der Fotograf an Ludos Seite.",
+      "context": "Moritz (Matthias Schweighöfer) begleitet Ludo Decker (Til Schweiger) als Fotograf bei den Einsätzen für die Boulevardzeitung. Ihre Zusammenarbeit verbindet den Bericht mit den gesuchten Bildern der prominenten Personen. Damit gehört Moritz zu Ludos beruflicher Welt, aus der die späteren Probleme entstehen. Die Figur wird von der Leitung der Redaktion und von den Menschen im Kinderhort als eigener Kollege unterschieden.",
+      "anchor": "Der Fotograf liefert die Bilder zum Boulevardbericht.",
+      "interest": "Die berufliche Figurenrolle erschließt die Zusammenarbeit im Team.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum verliert Ludo Decker (Til Schweiger) in @ seinen Job bei der Zeitung?",
+      "answers": [
+        "Er berichtet über Anna (Nora Tschirner) statt über Prominente.",
+        "Er verkauft seine Fotos heimlich an eine andere Zeitung.",
+        "Er verweigert die Veröffentlichung eines Gerichtsurteils.",
+        "Er unterschreibt einen Werbevertrag ohne Erlaubnis der Redaktion."
+      ],
+      "feedback": [
+        "Sein persönlich gewählter Bericht über Anna verfehlt den Auftrag der Redaktion.",
+        "Ein heimlicher Bilderverkauf ist nicht die Ursache.",
+        "Ein verweigertes Urteil löst die Entlassung nicht aus.",
+        "Ein unerlaubter Werbevertrag wird nicht zum Kündigungsgrund."
+      ],
+      "short": "Ludo berichtet über Anna und verfehlt damit den erwarteten Prominentenauftrag.",
+      "context": "Ludo Decker (Til Schweiger) richtet bei einer Filmpreisveranstaltung seinen Bericht auf Anna Gotzlowski (Nora Tschirner), statt wie erwartet die prominenten Gäste zu bedienen. Seine persönliche Wahl passt nicht zu den Interessen der Boulevardredaktion, die ihn entlässt. Die Szene zeigt einen Wandel seiner Aufmerksamkeit: Die Frau aus seinem Alltag wird ihm wichtiger als die Personen, deren öffentliche Bilder zuvor seinen Beruf bestimmt haben.",
+      "anchor": "Die persönliche Wahl widerspricht dem Auftrag der Redaktion.",
+      "interest": "Eine berufliche Konsequenz macht Ludos veränderte Prioritäten sichtbar.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wo erklärt Ludo Decker (Til Schweiger) Anna (Nora Tschirner) in @ schließlich öffentlich seine Liebe?",
+      "answers": [
+        "Auf der Bühne einer Kinderaufführung",
+        "Auf dem roten Teppich der Filmpreisgala",
+        "Am Mikrofon eines Presseempfangs",
+        "Bei einer Party in einem Nachtclub"
+      ],
+      "feedback": [
+        "Ludo tritt bei der Aufführung der Kinder auf und erklärt seine Gefühle.",
+        "Der rote Teppich ist nicht der Ort dieses Geständnisses.",
+        "Ein Presseempfang bildet nicht den Schlussauftritt.",
+        "Ein Nachtclub ist nicht der Schauplatz der Erklärung."
+      ],
+      "short": "Ludo gesteht Anna auf der Bühne der Kinderaufführung seine Liebe.",
+      "context": "Ludo Decker (Til Schweiger) nutzt am Ende eine Aufführung der Kinder, um Anna Gotzlowski (Nora Tschirner) seine Liebe zu erklären. Er macht seine eigenen Gefühle öffentlich, statt weiterhin nur die Privatleben anderer Menschen für Berichte auszunutzen. Der Auftritt führt die Schlussentscheidung an den Ort, an dem seine Veränderung begonnen hat. Das Publikum der Szene gehört nun zu Annas Alltag und zur gemeinsamen Erfahrung im Kinderhort.",
+      "anchor": "Die Kinderbühne wird zum Ort des eigenen öffentlichen Geständnisses.",
+      "interest": "Der Schauplatz verbindet den Anfang der Veränderung mit ihrer romantischen Auflösung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "2004",
+        "2010",
+        "2013"
+      ],
+      "feedback": [
+        "Die Premiere und der Kinostart liegen 2007.",
+        "2004 wäre drei Jahre zu früh.",
+        "2010 liegt drei Jahre später.",
+        "2013 liegt sechs Jahre später."
+      ],
+      "short": "2007 Keinohrhasen, 2009 Zweiohrküken: zwei Jahre.",
+      "context": "Keinohrhasen erschien 2007. Die Fortsetzung Zweiohrküken kam 2009 heraus, also zwei Jahre später; filmportal führt die Veröffentlichungsdaten beider Filme. Der zeitliche Vergleich bezieht sich auf zwei konkrete Kinofilme mit wiederkehrenden Hauptfiguren. Das erste Werk entwickelt die Annäherung im Kinderhort, während der zweite Film die inzwischen bestehende Beziehung weiterführt und mit neuen Konflikten konfrontiert.",
+      "anchor": "2007 erster Film, 2009 Fortsetzung: zwei Jahre Abstand.",
+      "interest": "Die direkte Fortsetzung bietet einen klaren Werkanker.",
+      "sources": [
+        "register",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "Til Schweiger",
+        "Torsten Künstler",
+        "Matthias Schweighöfer",
+        "Detlev Buck"
+      ],
+      "feedback": [
+        "Til Schweiger trägt den Hauptregiecredit.",
+        "Torsten Künstler führte den zweiten Stab, nicht die Hauptregie.",
+        "Matthias Schweighöfer spielt Moritz, führte hier aber nicht Hauptregie.",
+        "Detlev Buck inszenierte den Film nicht."
+      ],
+      "short": "Til Schweiger ist Hauptregisseur; Torsten Künstler leitete den zweiten Stab.",
+      "context": "Til Schweiger führte bei Keinohrhasen die Hauptregie und spielt Ludo Decker. filmportal weist Torsten Künstler gesondert für die Regie des zweiten Stabs aus. Das Drehbuch stammt von Anika Decker und Schweiger. Matthias Schweighöfer verkörpert Moritz und ist damit als Darsteller beteiligt. Die getrennten Credits verhindern, aus einer weiteren Regietätigkeit am Set ein gleichberechtigtes Hauptregieteam oder aus der Besetzung die Filmregie abzuleiten.",
+      "anchor": "Schweiger Hauptregie, Künstler zweiter Stab.",
+      "interest": "Die Abgrenzung klärt einen leicht verwechselbaren Regiecredit.",
+      "sources": [
+        "register"
+      ]
+    }
+  ]
+}

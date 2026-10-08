@@ -1,0 +1,208 @@
+{
+  "rank": 13,
+  "directors": [
+    "Paul Thomas Anderson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Veröffentlichung im Wettbewerb von Cannes 2002, laut Cache am 19. Mai. Cannes bestätigt Produktionsjahr, Land und Hauptregie. Der spätere US-Kinostart ist nicht die Erstveröffentlichung.",
+  "familiarity_reason": "Bekannter ungewöhnlicher Adam-Sandler-Film im Autorenkino; genaue Gegenstände und Beziehungsstationen sind weniger breit präsent.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Punch-Drunk_Love",
+    "cannes": "https://www.festival-cannes.com/en/f/punch-drunk-love/",
+    "studio": "https://www.sonypictures.com/movies/punchdrunklove",
+    "anker": "https://www.bfi.org.uk/film/a5cbe0af-dae7-5b36-90f6-2212137dcc65/magnolia"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Waren verkauft Barry Egan (Adam Sandler) in @?",
+      "answers": [
+        "Ungewöhnliche Toilettensauger",
+        "Besondere Küchenmesser",
+        "Bedruckte Bürotassen",
+        "Elektrische Massagegeräte"
+      ],
+      "feedback": [
+        "Barry vertreibt neuartige Toilettensauger.",
+        "Küchenmesser sind nicht seine Ware.",
+        "Bürotassen bilden nicht das Angebot seines Geschäfts.",
+        "Massagegeräte sind nicht sein Handelsprodukt."
+      ],
+      "short": "Barry handelt mit ungewöhnlichen Toilettensaugern.",
+      "context": "Barry Egan (Adam Sandler) betreibt ein kleines Geschäft für ungewöhnliche Toilettensauger. Sein Arbeitsraum ist keine glänzende Bühne erfolgreicher Selbstverwirklichung, sondern Teil eines einsamen und angespannten Alltags. Die unauffällige Ware steht neben auffälligen Gefühlsausbrüchen. Lena Leonard (Emily Watson) begegnet einem Menschen, der im Beruf funktionierende Abläufe kennt, in persönlichen Beziehungen aber Schwierigkeiten hat, seine Bedürfnisse auszusprechen und Nähe auszuhalten.",
+      "anchor": "Ein ungewöhnlicher Alltagsartikel bildet Barrys Geschäft.",
+      "interest": "Die konkrete Ware ist leicht erkennbar und charakterisiert das Arbeitsmilieu.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wohin reist Barry (Adam Sandler) in @, um Lena (Emily Watson) zu treffen?",
+      "answers": [
+        "Nach Hawaii",
+        "Nach Puerto Rico",
+        "Nach Florida",
+        "Auf die Bahamas"
+      ],
+      "feedback": [
+        "Er folgt Lena nach Hawaii.",
+        "Puerto Rico ist nicht das Reiseziel.",
+        "Florida bildet nicht den Schauplatz dieser Begegnung.",
+        "Die Bahamas sind nicht das Ziel seiner Reise."
+      ],
+      "short": "Barry sucht Lena auf Hawaii auf.",
+      "context": "Lena Leonard (Emily Watson) reist beruflich nach Hawaii. Barry Egan (Adam Sandler) folgt ihr und wagt damit einen Schritt aus seiner vertrauten Umgebung heraus. Die Begegnung entsteht nicht durch einen zufälligen Urlaub am selben Ort. Er sucht sie bewusst auf. Der Ortswechsel lässt Nähe außerhalb von Betrieb und Familienbesuchen entstehen und gibt seiner zunächst zögernden Beziehung eine konkrete gemeinsame Erfahrung.",
+      "anchor": "Barry folgt Lena bewusst auf die Inseln.",
+      "interest": "Das Reiseziel gehört zum klar sichtbaren Verlauf der Annäherung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was möchte Barry (Adam Sandler) in @ mit großen Einkäufen von Pudding gewinnen?",
+      "answers": [
+        "Bonusmeilen für Flugreisen",
+        "Rabattgutscheine für Hotels",
+        "Freikarten für Vergnügungsparks",
+        "Guthaben für Bahnreisen"
+      ],
+      "feedback": [
+        "Er nutzt ein Angebot für Flugmeilen aus.",
+        "Hotelrabatte sind nicht sein Ziel.",
+        "Vergnügungsparkkarten gehören nicht zu diesem Angebot.",
+        "Es geht um Flüge, nicht um Bahnfahrten."
+      ],
+      "short": "Die Puddingkäufe sollen Barry viele Flugmeilen verschaffen.",
+      "context": "Barry Egan (Adam Sandler) entdeckt ein günstiges Verhältnis zwischen dem Preis von Pudding und den dafür angebotenen Flugmeilen. Er kauft deshalb große Mengen. Die Rechnung eröffnet ihm eine ungewöhnliche Vorstellung von Bewegungsfreiheit. Das Guthaben steht allerdings nicht sofort zur Verfügung. Später verspricht er Lena Leonard (Emily Watson), sie nach der Verarbeitung seiner Meilen künftig auf ihre beruflichen Reisen zu begleiten.",
+      "anchor": "Pudding wird zum möglichen Ticket für spätere Reisen.",
+      "interest": "Das Ziel erklärt ein auffälliges Motiv und vermeidet eine falsche unmittelbare Auszahlung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Handlung führt in @ zur Erpressung von Barry (Adam Sandler)?",
+      "answers": [
+        "Ein Anruf bei einer Telefonsex-Hotline",
+        "Ein Gespräch über eine Kontaktanzeige",
+        "Eine Anmeldung bei einer Partnervermittlung",
+        "Eine private Nachricht auf einer Datingseite"
+      ],
+      "feedback": [
+        "Die Telefonsex-Hotline nutzt seine persönlichen Angaben aus.",
+        "Eine gedruckte Kontaktanzeige löst die Erpressung nicht aus.",
+        "Er gerät nicht durch eine normale Partnervermittlung in diese Lage.",
+        "Eine Datingseite ist nicht der Ausgangspunkt."
+      ],
+      "short": "Der Telefonsex-Anruf setzt die Erpressung in Gang.",
+      "context": "Barry Egan (Adam Sandler) sucht in seiner Einsamkeit telefonischen Kontakt. Nach dem Anruf verlangt die Betreiberin Geld und setzt die erhaltenen persönlichen Informationen gegen ihn ein. Das vermeintlich begrenzte Gespräch greift dadurch in seinen Alltag über. Während sich die Beziehung zu Lena Leonard (Emily Watson) entwickelt, muss er zugleich mit einer Bedrohung umgehen, die aus einem früheren Versuch entstanden ist, Nähe ohne direkten persönlichen Kontakt zu finden.",
+      "anchor": "Der private Anruf wird zur fremden Zugriffsmöglichkeit.",
+      "interest": "Der konkrete Auslöser trennt die Bedrohung von Barrys späterer Liebesbeziehung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welches Geschäft betreibt Dean Trumbell (Philip Seymour Hoffman) in @ neben der Erpressungsmasche?",
+      "answers": [
+        "Einen Matratzenladen",
+        "Einen Teppichladen",
+        "Einen Elektrohandel",
+        "Ein Küchenstudio"
+      ],
+      "feedback": [
+        "Dean arbeitet im Matratzenhandel.",
+        "Ein Teppichgeschäft ist nicht der Schauplatz der Konfrontation.",
+        "Er betreibt hier keinen Elektrohandel.",
+        "Ein Küchenstudio ist nicht sein Geschäft."
+      ],
+      "short": "Dean betreibt einen Matratzenladen.",
+      "context": "Dean Trumbell (Philip Seymour Hoffman) steht hinter der Erpressung und betreibt einen Matratzenladen in Utah. Barry Egan (Adam Sandler) sucht ihn dort auf, nachdem die Drohungen eskaliert sind. Die Konfrontation findet deshalb in einem gewöhnlichen Verkaufsraum statt. Das alltägliche Geschäftsumfeld macht die Bedrohung nicht harmlos. Es verbindet Barrys eigenes unscheinbares Berufsleben mit dem ebenso prosaischen Arbeitsplatz eines Mannes, der Macht über ihn ausüben will.",
+      "anchor": "Der Gegner wird im Matratzenladen aufgesucht.",
+      "interest": "Die genaue Umgebung der Konfrontation verlangt Erinnerung an eine spätere Szene.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Was wirft Lena (Emily Watson) Barry (Adam Sandler) nach ihrer Verletzung in @ besonders vor?",
+      "answers": [
+        "Dass er sie im Krankenhaus allein gelassen hat",
+        "Dass er ihre Schwester nicht benachrichtigt hat",
+        "Dass er die Reise ohne Rücksprache abgesagt hat",
+        "Dass er die gemeinsame Rechnung nicht bezahlt hat"
+      ],
+      "feedback": [
+        "Barry hat sie verlassen, um den Erpresser aufzusuchen.",
+        "Eine unterlassene Nachricht an die Schwester ist nicht der zentrale Vorwurf.",
+        "Eine Reiseabsage bildet nicht diesen Konflikt.",
+        "Die Rechnung ist nicht Lenas Einwand."
+      ],
+      "short": "Lena ist verletzt, weil Barry sie im Krankenhaus zurückgelassen hat.",
+      "context": "Nach dem Zusammenstoß wird Lena Leonard (Emily Watson) medizinisch versorgt. Barry Egan (Adam Sandler) verlässt das Krankenhaus, um Dean Trumbell (Philip Seymour Hoffman) entgegenzutreten. Für Lena ist dieses Weggehen selbst eine Verletzung der neuen Nähe. Die Erklärung seiner Erpressung reicht deshalb nicht als Entschuldigung. Erst ihr Gespräch macht deutlich, dass die Bewältigung äußerer Gefahr nicht erlaubt, die unmittelbar betroffene Partnerin allein zu lassen.",
+      "anchor": "Die Konfrontation kostet zunächst Aufmerksamkeit für Lena.",
+      "interest": "Der konkrete Beziehungsbruch unterscheidet sich vom Ursprung der Erpressung.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "Wann wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2002",
+        "1998",
+        "2000",
+        "2004"
+      ],
+      "feedback": [
+        "Die erste Festivalveröffentlichung lag 2002.",
+        "1998 liegt vier Jahre davor.",
+        "2000 liegt zwei Jahre davor.",
+        "2004 liegt zwei Jahre danach."
+      ],
+      "short": "Punch-Drunk Love erschien erstmals 2002.",
+      "context": "Paul Thomas Andersons „Magnolia“ erschien 1999, „Punch-Drunk Love“ 2002: Der Abstand beträgt drei Jahre. Auf die große Zahl miteinander verflochtener Lebensgeschichten des früheren Films folgt eine engere Konzentration auf Barry Egan (Adam Sandler) und seine Begegnung mit Lena Leonard (Emily Watson). Die Verbindung verankert das Filmjahr in Andersons Werk, ohne den Cannes-Auftritt von 2002 mit einem späteren nationalen Kinostart zu verwechseln.",
+      "anchor": "1999 Magnolia, 2002 Punch-Drunk Love: drei Jahre.",
+      "interest": "Ein markanter Wechsel der erzählerischen Größenordnung macht den Abstand merkbar.",
+      "sources": [
+        "cannes",
+        "anker",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Hauptregie?",
+      "answers": [
+        "Paul Thomas Anderson",
+        "Wes Anderson",
+        "David O. Russell",
+        "Alexander Payne"
+      ],
+      "feedback": [
+        "Paul Thomas Anderson schrieb und inszenierte den Film.",
+        "Wes Anderson ist ein anderer Filmemacher und hat hier keinen Regiecredit.",
+        "David O. Russell führte nicht bei dieser Produktion Regie.",
+        "Alexander Payne ist nicht der Hauptregisseur."
+      ],
+      "short": "Paul Thomas Anderson führte Regie.",
+      "context": "Paul Thomas Anderson schrieb und inszenierte die Geschichte von Barry Egan (Adam Sandler). Die offizielle Cannes-Filmseite nennt ihn eindeutig als Regisseur und Drehbuchautor. Lena Leonard (Emily Watson) tritt in Barrys von Schwestern, Geschäft und plötzlichen Ausbrüchen bestimmten Alltag. Die Liebesgeschichte verändert dessen Verhältnis zur Außenwelt, ohne ihn von Beginn an als gelassenen Helden zu präsentieren oder seine Schwierigkeiten mit einem einfachen Witz aufzulösen.",
+      "anchor": "Paul Thomas Anderson begleitet Barrys schwierige Annäherung.",
+      "interest": "Der volle Name verhindert die Verwechslung zweier bekannter Anderson-Regisseure.",
+      "sources": [
+        "cannes",
+        "handlung"
+      ]
+    }
+  ]
+}

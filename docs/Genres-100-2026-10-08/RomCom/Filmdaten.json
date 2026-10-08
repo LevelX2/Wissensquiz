@@ -1,0 +1,1008 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "as_of": "2026-10-08",
+  "integration_route": "explicit_csv_year_and_director",
+  "films": [
+    {
+      "rank": 1,
+      "film_title_de": "Lichter der Großstadt",
+      "film_title_original": "City Lights",
+      "film_year": 1931,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Berühmter Chaplin-Klassiker mit ikonischem Schluss; Bekanntheit 2. Einzelne Handlungsmechanismen verlangen trotzdem genaueres Wissen.",
+      "directors": [
+        "Charlie Chaplin"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Weltpremiere am 30. Januar 1931 in Los Angeles laut AFI; dessen Releasefeld 7. März bezeichnet einen späteren Start.",
+      "director_note": "Charles Chaplin, gewöhnlich Charlie Chaplin genannt, trägt allein den Hauptregiecredit. Assistenzregie ist davon getrennt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/City_Lights",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3886-CITY-LIGHTS",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "loc",
+          "url": "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/city_lights.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-001-L1",
+      "year_question_id": "G100-20261008-ROMCOM-001-Y",
+      "director_question_id": "G100-20261008-ROMCOM-001-D"
+    },
+    {
+      "rank": 2,
+      "film_title_de": "Ehekrieg",
+      "film_title_original": "Adam's Rib",
+      "film_year": 1949,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 3,
+      "familiarity_reason": "Prägender Film des Duos Katharine Hepburn/Spencer Tracy; Bekanntheit 3. Die Gerichts- und Beziehungskomödie bietet davon unabhängige Inhaltsdetails.",
+      "directors": [
+        "George Cukor"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 1949; AFI nennt den 18. November.",
+      "director_note": "George Cukor ist alleiniger Hauptregisseur; Ruth Gordon und Garson Kanin schrieben das Drehbuch.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Adam's_Rib",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/25613-ADAM%27S-RIB",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/watchtcm/titles/15824",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "essentials",
+          "url": "https://www.tcm.com/articles/89262/the-essentials-3-19-and-8-27-adams-rib",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "universitaet",
+          "url": "https://www.utoronto.ca/news/big-screen-u-t-researcher-hollywood-s-depiction-women-law",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "tcm_dialog",
+          "url": "https://www.tcm.com/articles/89267/trivia-3-19-and-8-27-adams-rib",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-002-L1",
+      "year_question_id": "G100-20261008-ROMCOM-002-Y",
+      "director_question_id": "G100-20261008-ROMCOM-002-D"
+    },
+    {
+      "rank": 3,
+      "film_title_de": "Frühstück bei Tiffany",
+      "film_title_original": "Breakfast at Tiffany's",
+      "film_year": 1961,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Sehr bekannte Hepburn-Komödie und Capote-Verfilmung; Bekanntheit 2. Die Personenzuordnung Holly–Hepburn bleibt dem bereits vorhandenen Wissensziel vorbehalten.",
+      "directors": [
+        "Blake Edwards"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Weltpremiere am 5. Oktober 1961 in der New Yorker Radio City Music Hall laut AFI. Gemeint ist der Film mit Audrey Hepburn.",
+      "director_note": "Blake Edwards führte Hauptregie. John Frankenheimer war in frühen Planungen vorgesehen, trägt aber keinen gemeinsamen Hauptregiecredit des fertigen Films.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22674-BREAKFAST-ATTIFFANYS",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-003-L1",
+      "year_question_id": "G100-20261008-ROMCOM-003-Y",
+      "director_question_id": "G100-20261008-ROMCOM-003-D"
+    },
+    {
+      "rank": 4,
+      "film_title_de": "Der Stadtneurotiker",
+      "film_title_original": "Annie Hall",
+      "film_year": 1977,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Beziehungskomödie mit Woody Allen und Diane Keaton; Bekanntheit 2. Darsteller- und Oscarziele bleiben dem vorhandenen Bestand vorbehalten.",
+      "directors": [
+        "Woody Allen"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Filmex-Premiere am 27. März 1977 vor dem regulären US-Start am 20. April laut AFI.",
+      "director_note": "Woody Allen trägt den Hauptregiecredit. Marshall Brickman ist Mitautor des Drehbuchs, kein Mitregisseur.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annie_Hall",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55190-ANNIE-HALL",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "loc",
+          "url": "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/anniehall2.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-004-L1",
+      "year_question_id": "G100-20261008-ROMCOM-004-Y",
+      "director_question_id": "G100-20261008-ROMCOM-004-D"
+    },
+    {
+      "rank": 5,
+      "film_title_de": "Clueless – Was sonst!",
+      "film_title_original": "Clueless",
+      "film_year": 1995,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Jugendkomödie und moderne Austen-Bearbeitung; Bekanntheit 2. Produktionsdetails bleiben unabhängig davon anspruchsvoll.",
+      "directors": [
+        "Amy Heckerling"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "US-Veröffentlichung am 19. Juli 1995 laut AFI. Gemeint ist der Film mit Alicia Silverstone, nicht die spätere Fernsehserie.",
+      "director_note": "Amy Heckerling ist als Hauptregisseurin und Drehbuchautorin genannt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Clueless",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67154-CLUELESS",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.paramountplus.com/sneak-peak/where-to-watch-clueless/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "loc",
+          "url": "https://blogs.loc.gov/loc/2026/02/how-amy-heckerlings-babysitter-helped-create-clueless-now-in-the-national-film-registry/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-005-L1",
+      "year_question_id": "G100-20261008-ROMCOM-005-Y",
+      "director_question_id": "G100-20261008-ROMCOM-005-D"
+    },
+    {
+      "rank": 6,
+      "film_title_de": "Die Hochzeit meines besten Freundes",
+      "film_title_original": "My Best Friend's Wedding",
+      "film_year": 1997,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte romantische Komödie mit Julia Roberts und Cameron Diaz; Bekanntheit 2. Die vorhandene Kimmy-Rivalinnenfrage wird nicht neu angelegt.",
+      "directors": [
+        "P. J. Hogan"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "US-Start am 20. Juni 1997 laut AFI. Gemeint ist die Originalfassung mit Julia Roberts.",
+      "director_note": "P. J. Hogan führte Hauptregie. Jerry Zucker ist Produzent; Executive-Producer-Credits bilden kein Regieteam.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/61087",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypicturesmuseum.com/collection/film/701/my-best-friend-s-wedding.html",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "buehne",
+          "url": "https://www.ogunquitplayhouse.org/show/2024-my-best-friends-wedding/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-006-L1",
+      "year_question_id": "G100-20261008-ROMCOM-006-Y",
+      "director_question_id": "G100-20261008-ROMCOM-006-D"
+    },
+    {
+      "rank": 7,
+      "film_title_de": "Harold und Maude",
+      "film_title_original": "Harold and Maude",
+      "film_year": 1971,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 3,
+      "familiarity_reason": "Prägender Kultfilm über eine ungewöhnliche Beziehung; Bekanntheit 3. Die genaue Schlussgestaltung und biografischen Andeutungen verlangen eigene Aufmerksamkeit.",
+      "directors": [
+        "Hal Ashby"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "US-Erstveröffentlichung am 20. Dezember 1971 laut AFI.",
+      "director_note": "Hal Ashby führte Hauptregie; Colin Higgins schrieb das Drehbuch. Der Hauptcredit ist durch AFI und Criterion belegt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Harold_and_Maude",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54046-HAROLD-AND-MAUDE",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/27896-harold-and-maude",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/2337-harold-and-maude-life-and-how-to-live-it",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "gordon",
+          "url": "https://catalog.afi.com/Film/25613-ADAM%27S-RIB",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-007-L1",
+      "year_question_id": "G100-20261008-ROMCOM-007-Y",
+      "director_question_id": "G100-20261008-ROMCOM-007-D"
+    },
+    {
+      "rank": 8,
+      "film_title_de": "Is’ was, Doc?",
+      "film_title_original": "What's Up, Doc?",
+      "film_year": 1972,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannter später Vertreter der Screwball-Komödie; Bekanntheit 3. Taschenverwechslung und Filmreferenzen bieten unterschiedliche Detailziele.",
+      "directors": [
+        "Peter Bogdanovich"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "New Yorker Eröffnung am 9. März 1972 vor dem AFI-Releasefeld 10. März. Gemeint ist der Spielfilm mit Barbra Streisand und Ryan O’Neal.",
+      "director_note": "Peter Bogdanovich führte allein Hauptregie. Buck Henry, David Newman und Robert Benton werden als Drehbuchautoren geführt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/What's_Up,_Doc%3F_(1972_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54720-WHATS-UP-DOC",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-008-L1",
+      "year_question_id": "G100-20261008-ROMCOM-008-Y",
+      "director_question_id": "G100-20261008-ROMCOM-008-D"
+    },
+    {
+      "rank": 9,
+      "film_title_de": "Barfuß im Park",
+      "film_title_original": "Barefoot in the Park",
+      "film_year": 1967,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 3,
+      "familiarity_reason": "Neil-Simon-Verfilmung mit Jane Fonda und Robert Redford; die häuslichen Einzelheiten sind weniger präsent als das Paar.",
+      "directors": [
+        "Gene Saks"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI nennt eine New Yorker Benefizvorführung am 24. Mai 1967 und den regulären Start am 25. Mai 1967; beide liegen im Erstjahr 1967.",
+      "director_note": "Gene Saks ist der Filmregisseur; Mike Nichols leitete die ursprüngliche Broadway-Inszenierung.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22475-BAREFOOT-IN-THE-PARK",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-009-L1",
+      "year_question_id": "G100-20261008-ROMCOM-009-Y",
+      "director_question_id": "G100-20261008-ROMCOM-009-D"
+    },
+    {
+      "rank": 10,
+      "film_title_de": "High Fidelity",
+      "film_title_original": "High Fidelity",
+      "film_year": 2000,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Nick-Hornby-Verfilmung mit John Cusack und Jack Black; die genauen Beziehungsstationen verlangen Filmerinnerung.",
+      "directors": [
+        "Stephen Frears"
+      ],
+      "production_countries": [
+        "USA",
+        "Großbritannien"
+      ],
+      "country_note": "",
+      "release_note": "Der Quellencache nennt die SXSW-Vorführung am 17. März 2000 und den US-Kinostart am 31. März 2000. Das offizielle SXSW-Archiv führt den Film 2000 als Regional Premiere; diese Kategorie wird nicht als Weltpremiere ausgegeben. BFI bestätigt das Erstjahr 2000.",
+      "director_note": "Stephen Frears trägt die Hauptregie. Mike Newell ist im Cache als ursprünglich vorgesehener Regisseur und später als ausführender Produzent verzeichnet, nicht als zweiter Hauptregisseur.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Fidelity_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/379b71f4-57d7-5228-b0cd-087b599ee9a2/high-fidelity",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "sxsw",
+          "url": "https://sxsw.com/wp-content/uploads/2016/08/2000_archive_-_final.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/221585c1-d6b0-550d-86dc-6487a87f3171/dangerous-liaisons",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-010-L1",
+      "year_question_id": "G100-20261008-ROMCOM-010-Y",
+      "director_question_id": "G100-20261008-ROMCOM-010-D"
+    },
+    {
+      "rank": 11,
+      "film_title_de": "The Big Sick",
+      "film_title_original": "The Big Sick",
+      "film_year": 2017,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Vielbeachtete autobiografisch angeregte Rom-Com; die genaue medizinische Auflösung und Schlussgestaltung sind weniger allgemein bekannt.",
+      "directors": [
+        "Michael Showalter"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Weltpremiere beim Sundance Film Festival 2017; der Cache nennt den 20. Januar. Der spätere US-Kinostart am 23. Juni 2017 verändert das Erstjahr nicht.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Sick",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "sundance",
+          "url": "https://www.sundance.org/blogs/premieres-midnight-kids-and-more-latest-additions-to-2017-sundance-film-festival-lineup-3/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/daafdfdf-7362-55bf-bda2-4d52d24573ef/ruby-sparks",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-011-L1",
+      "year_question_id": "G100-20261008-ROMCOM-011-Y",
+      "director_question_id": "G100-20261008-ROMCOM-011-D"
+    },
+    {
+      "rank": 12,
+      "film_title_de": "Silver Linings",
+      "film_title_original": "Silver Linings Playbook",
+      "film_year": 2012,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit bekannte romantische Tragikomödie mit Jennifer Lawrence und Bradley Cooper; konkrete Brief- und Wettmechanismen bleiben anspruchsvoller.",
+      "directors": [
+        "David O. Russell"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Veröffentlichung beim Toronto International Film Festival am 8. September 2012 laut Cache; der anschließende US-Kinostart begann am 16. November 2012. BFI bestätigt 2012.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/film-week-silver-linings-playbook",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-012-L1",
+      "year_question_id": "G100-20261008-ROMCOM-012-Y",
+      "director_question_id": "G100-20261008-ROMCOM-012-D"
+    },
+    {
+      "rank": 13,
+      "film_title_de": "Punch-Drunk Love",
+      "film_title_original": "Punch-Drunk Love",
+      "film_year": 2002,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannter ungewöhnlicher Adam-Sandler-Film im Autorenkino; genaue Gegenstände und Beziehungsstationen sind weniger breit präsent.",
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Veröffentlichung im Wettbewerb von Cannes 2002, laut Cache am 19. Mai. Cannes bestätigt Produktionsjahr, Land und Hauptregie. Der spätere US-Kinostart ist nicht die Erstveröffentlichung.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Punch-Drunk_Love",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/punch-drunk-love/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/punchdrunklove",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/a5cbe0af-dae7-5b36-90f6-2212137dcc65/magnolia",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-013-L1",
+      "year_question_id": "G100-20261008-ROMCOM-013-Y",
+      "director_question_id": "G100-20261008-ROMCOM-013-D"
+    },
+    {
+      "rank": 14,
+      "film_title_de": "Kick it like Beckham",
+      "film_title_original": "Bend It Like Beckham",
+      "film_year": 2002,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit bekannte britische Komödie mit Parminder Nagra und Keira Knightley; die einzelnen familiären und institutionellen Details sind weniger geläufig.",
+      "directors": [
+        "Gurinder Chadha"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Deutschland"
+      ],
+      "country_note": "BFI nennt Deutschland und Vereinigtes Königreich. Der Wikipedia-Cache und der AFI-Eintrag zur US-Auswertung 2003 führen zusätzlich USA. Die redaktionelle Länderzuordnung folgt hier dem britischen BFI-Filmarchiv; die Abweichung zwischen den Archivangaben wird ausdrücklich dokumentiert und nicht allein mit einem Drehort oder Verleih erklärt.",
+      "release_note": "Britischer Erststart am 12. April 2002 laut Cache; BFI bestätigt 2002. AFI führt die US-Auswertung als 2003. Es handelt sich um den späteren regionalen Start derselben Fassung.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/07acc94c-5b89-5dc9-b894-e36a3d77cc0e/bend-it-like-beckham",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/70977-BEND-IT-LIKE-BECKHAM",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/41f51c72-2576-5915-92c4-498404aa5bb2/bhaji-on-the-beach",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-014-L1",
+      "year_question_id": "G100-20261008-ROMCOM-014-Y",
+      "director_question_id": "G100-20261008-ROMCOM-014-D"
+    },
+    {
+      "rank": 15,
+      "film_title_de": "30 über Nacht",
+      "film_title_original": "13 Going on 30",
+      "film_year": 2004,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Fantasie-Rom-Com mit Jennifer Garner und Mark Ruffalo; die beruflichen Enthüllungen und die genaue zweite Geburtstagsentscheidung verlangen mehr Erinnerung.",
+      "directors": [
+        "Gary Winick"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "US-Kinostart am 23. April 2004 laut Quellencache; BFI und Sony nennen 2004. Die in der Handlung auftretenden Jahre 1987 und 2004 werden nicht mit einer früheren Veröffentlichung verwechselt.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/13_Going_on_30",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/f0026709-8f40-5c57-9d1d-c4bca34933b2/13-going-on-30",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/13goingon30",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/48d6112c-e6d7-5460-991e-5fd89f765ac2/big",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-015-L1",
+      "year_question_id": "G100-20261008-ROMCOM-015-Y",
+      "director_question_id": "G100-20261008-ROMCOM-015-D"
+    },
+    {
+      "rank": 16,
+      "film_title_de": "Freunde mit gewissen Vorzügen",
+      "film_title_original": "Friends with Benefits",
+      "film_year": 2011,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Rom-Com mit Mila Kunis und Justin Timberlake; genaue Vertragsfolgen, familiäre Vorgeschichte und Schlussort sind anspruchsvoller als die Grundidee.",
+      "directors": [
+        "Will Gluck"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "New Yorker Premiere am 18. Juli 2011 laut Cache, regulärer US-Start am 22. Juli. BFI und Sony bestätigen 2011; nicht mit der gleichjährigen Rom-Com Freundschaft Plus oder der Fernsehserie gleichen Originaltitels gleichgesetzt.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Friends_with_Benefits_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/8a282c5c-f3c6-5a86-998a-67d5b56f835f/friends-with-benefits",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/friendswithbenefits",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/96b5e9bb-6bd7-56ec-80e8-c4123a0174f7/easy-a",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-016-L1",
+      "year_question_id": "G100-20261008-ROMCOM-016-Y",
+      "director_question_id": "G100-20261008-ROMCOM-016-D"
+    },
+    {
+      "rank": 17,
+      "film_title_de": "Love and Other Drugs – Nebenwirkung inklusive",
+      "film_title_original": "Love & Other Drugs",
+      "film_year": 2010,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Verbreitete romantische Tragikomödie mit Jake Gyllenhaal und Anne Hathaway; Bekanntheit 2 beschreibt die Zugänglichkeit, nicht die Schwierigkeit einzelner Ziele.",
+      "directors": [
+        "Edward Zwick"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "2010; AFI nennt den regulären Start in Los Angeles/New York am 24. November 2010. Der Cache verzeichnet bereits das AFI Fest desselben Jahres; das regionale AFI-Datum wird nicht als weltweite Erstvorführung ausgegeben.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love_%26_Other_Drugs",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/66537",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-017-L1",
+      "year_question_id": "G100-20261008-ROMCOM-017-Y",
+      "director_question_id": "G100-20261008-ROMCOM-017-D"
+    },
+    {
+      "rank": 18,
+      "film_title_de": "Vielleicht, vielleicht auch nicht",
+      "film_title_original": "Definitely, Maybe",
+      "film_year": 2008,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit zugängliche Working-Title-Romanze mit Ryan Reynolds; Bekanntheit 2, getrennt von den anspruchsvolleren Erzählungsdetails.",
+      "directors": [
+        "Adam Brooks"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Frankreich",
+        "Deutschland",
+        "USA"
+      ],
+      "country_note": "Die vier Produktionsländer sind im AFI-Länderfeld aufgeführt; die Zuordnung folgt nicht aus New Yorker Schauplätzen.",
+      "release_note": "2008; Working Title nennt den 8. Februar 2008. AFI nennt den regionalen Start Los Angeles/New York am 14. Februar; beide gehören zum selben Erstjahr.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Definitely,_Maybe",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/64620",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.workingtitlefilms.com/film/definitely-maybe/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.workingtitlefilms.com/film/notting-hill/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-018-L1",
+      "year_question_id": "G100-20261008-ROMCOM-018-Y",
+      "director_question_id": "G100-20261008-ROMCOM-018-D"
+    },
+    {
+      "rank": 19,
+      "film_title_de": "Wenn Liebe so einfach wäre",
+      "film_title_original": "It's Complicated",
+      "film_year": 2009,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Weit verbreitete Ensemble-Romanze mit Meryl Streep, Alec Baldwin und Steve Martin; Bekanntheit 2 wird von den Handlungsdetails getrennt.",
+      "directors": [
+        "Nancy Meyers"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "2009; Universal führt den Film als Veröffentlichung von 2009. Der Cache unterscheidet die frühe New Yorker Premiere vom regulären Kinostart, ebenfalls 2009.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/It%27s_Complicated_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/its-complicated",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.sonypictures.com/movies/theholiday",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-019-L1",
+      "year_question_id": "G100-20261008-ROMCOM-019-Y",
+      "director_question_id": "G100-20261008-ROMCOM-019-D"
+    },
+    {
+      "rank": 20,
+      "film_title_de": "Love, Rosie – Für immer vielleicht",
+      "film_title_original": "Love, Rosie",
+      "film_year": 2014,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Verbreitete Romanverfilmung mit Lily Collins und Sam Claflin; Bekanntheit 2, unabhängig von Erinnerungsdetails.",
+      "directors": [
+        "Christian Ditter"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Deutschland"
+      ],
+      "country_note": "filmportal klassifiziert die Produktion als Deutschland/Großbritannien 2013/2014 und führt Constantin sowie Canyon Creek als Produktionsfirmen. Drehorte in Irland und Kanada werden nicht als zusätzliche Produktionsländer übernommen.",
+      "release_note": "2014; Constantin belegt den deutschen Kinostart am 30. Oktober 2014. Der Cache nennt frühere Londoner/UK-Termine desselben Jahres; der deutsche Termin ist kein Anspruch auf die weltweit erste Vorführung.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Rosie_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://constantin.film/kino/love-rosie-fuer-immer-vielleicht-2/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.cecelia-ahern.com/about",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/love-rosie-fuer-immer-vielleicht_e4f57654d6954901b2caea384fdb8ce0",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-020-L1",
+      "year_question_id": "G100-20261008-ROMCOM-020-Y",
+      "director_question_id": "G100-20261008-ROMCOM-020-D"
+    },
+    {
+      "rank": 21,
+      "film_title_de": "Im Juli",
+      "film_title_original": "Im Juli",
+      "film_year": 2000,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 3,
+      "familiarity_reason": "Prägender früher Akin-Roadmovie, außerhalb seines deutschen Stammpublikums weniger verbreitet; Bekanntheit 3, unabhängig von der Schwierigkeit.",
+      "directors": [
+        "Fatih Akin"
+      ],
+      "production_countries": [
+        "Deutschland"
+      ],
+      "country_note": "filmportal klassifiziert den Film ausdrücklich als Deutschland 1999/2000. Der Wiki-Cache nennt abweichend Deutschland/Türkei. Die redaktionelle Länderzuordnung folgt dem institutionellen Register; Drehorte und regionale Stäbe begründen keine zusätzliche Koproduktion.",
+      "release_note": "2000; filmportal nennt den deutschen Kinostart am 24. August 2000. Das im Juni 1999 verfasste Wüste-Presseheft enthält geplante Termine, die nicht als tatsächliche Erstveröffentlichung übernommen werden.",
+      "director_note": "Fatih Akin ist Hauptregisseur und Drehbuchautor; die Grenzbeamten-Gastrolle ist davon getrennt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/In_July_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/im-juli_6944224c1b4f42099563a7533835400d",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "presseheft",
+          "url": "https://www.wuestefilm.de/wp-content/uploads/2016/05/presseheft_imjuli.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.filmportal.de/film/kurz-und-schmerzlos_1e65902d2d3a4b66b3595422503dc303",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-021-L1",
+      "year_question_id": "G100-20261008-ROMCOM-021-Y",
+      "director_question_id": "G100-20261008-ROMCOM-021-D"
+    },
+    {
+      "rank": 22,
+      "film_title_de": "Der bewegte Mann",
+      "film_title_original": "Der bewegte Mann",
+      "film_year": 1994,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit bekannter deutscher Kinoerfolg der 1990er; HDF KINO dokumentiert mehrere Millionen Besucher. Bekanntheit 2 bleibt unabhängig von den Detailfragen.",
+      "directors": [
+        "Sönke Wortmann"
+      ],
+      "production_countries": [
+        "Deutschland"
+      ],
+      "country_note": "",
+      "release_note": "1994; filmportal und HDF KINO bestätigen den deutschen Kinostart am 6. Oktober 1994. Der missverständlich zusätzlich als TV-Erstsendung bezeichnete Premiere-Eintrag bei filmportal wird nicht als Fernseherstauswertung gedeutet.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Der_bewegte_Mann",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/der-bewegte-mann_77f80e3e081149febc99e01777afe5bb",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "verband",
+          "url": "https://hdf-kino.de/goldene-leinwand/der-bewegte-mann/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.filmportal.de/film/allein-unter-frauen_87da06a4da864b9dac6253b61b5164e2",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-022-L1",
+      "year_question_id": "G100-20261008-ROMCOM-022-Y",
+      "director_question_id": "G100-20261008-ROMCOM-022-D"
+    },
+    {
+      "rank": 23,
+      "film_title_de": "Keinohrhasen",
+      "film_title_original": "Keinohrhasen",
+      "film_year": 2007,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Sehr verbreitete deutsche Publikumskomödie und Ausgangspunkt einer bekannten Fortsetzung; Bekanntheit 2, getrennt von der Schwierigkeit.",
+      "directors": [
+        "Til Schweiger"
+      ],
+      "production_countries": [
+        "Deutschland"
+      ],
+      "country_note": "",
+      "release_note": "2007; filmportal nennt die Premiere am 10. Dezember 2007 in Berlin und den deutschen Kinostart am 20. Dezember 2007.",
+      "director_note": "Til Schweiger ist Hauptregisseur. Torsten Künstler wird bei filmportal ausdrücklich für die Regie des zweiten Stabs geführt und nicht als gleichberechtigter Hauptregisseur übernommen.",
+      "series": {
+        "name": "Keinohrhasen",
+        "position": 1,
+        "note": "Erster Kinofilm; Zweiohrküken ist die Fortsetzung von 2009."
+      },
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rabbit_Without_Ears",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/keinohrhasen_220f2fc3af844a409ae985d62b9f2f22",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.filmportal.de/en/movie/zweiohrkuken_6a4b8138f7ec5e9be040007f01000c07",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-023-L1",
+      "year_question_id": "G100-20261008-ROMCOM-023-Y",
+      "director_question_id": "G100-20261008-ROMCOM-023-D"
+    },
+    {
+      "rank": 24,
+      "film_title_de": "Love, Simon",
+      "film_title_original": "Love, Simon",
+      "film_year": 2018,
+      "subdomain": "Rom-Com",
+      "familiarity_level": 2,
+      "familiarity_reason": "Weit verbreitete Coming-out-Romanze und bekannte Jugendromanadaption; Bekanntheit 2, unabhängig von der Detailkenntnis.",
+      "directors": [
+        "Greg Berlanti"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "2018; das Studio belegt den US-Kinostart am 16. März 2018. Der Cache nennt eine frühere australische Festivalvorführung ebenfalls 2018; ein weltweit erster exakter Tag wird nicht aus dem US-Termin abgeleitet.",
+      "director_note": "Greg Berlanti ist Regisseur dieses Kinofilms. Love, Victor ist ein späteres Fernsehspinoff mit einer anderen Hauptfigur, kein zweiter Kinofilm.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Simon",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/love-simon",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vorlage",
+          "url": "https://www.beckyalbertalli.com/faq",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ROMCOM-024-L1",
+      "year_question_id": "G100-20261008-ROMCOM-024-Y",
+      "director_question_id": "G100-20261008-ROMCOM-024-D"
+    }
+  ]
+}

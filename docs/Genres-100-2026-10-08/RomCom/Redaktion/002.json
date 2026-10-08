@@ -1,0 +1,215 @@
+{
+  "rank": 2,
+  "directors": [
+    "George Cukor"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1949; AFI nennt den 18. November.",
+  "director_note": "George Cukor ist alleiniger Hauptregisseur; Ruth Gordon und Garson Kanin schrieben das Drehbuch.",
+  "series": null,
+  "familiarity_reason": "Prägender Film des Duos Katharine Hepburn/Spencer Tracy; Bekanntheit 3. Die Gerichts- und Beziehungskomödie bietet davon unabhängige Inhaltsdetails.",
+  "notes": "AFI-Synopsis ordnet an einer Stelle die Prozessrollen falsch zu. Handlungscache und tatsächlich gelesene indexierte TCM-Szenenbeschreibungen grenzen ab: Adam ist Ankläger, Amanda verteidigt Doris. TCM-Direktabruf war eingeschränkt; keine Videosichtung behauptet. Unabhängige QA: Der direkt gelesene Beitrag der University of Toronto zur Filmforschung von Brenda Cossman bestätigt Amandas Verteidigung von Doris und das Argument gegen doppelte Geschlechtermaßstäbe; direkt gelesene TCM-Dialogbelege ergänzen den Vergleich. Der eingeschränkte Essentials-Link wird dafür nicht als alleiniger Beleg verwendet.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Adam's_Rib",
+    "afi": "https://catalog.afi.com/Film/25613-ADAM%27S-RIB",
+    "tcm": "https://www.tcm.com/watchtcm/titles/15824",
+    "essentials": "https://www.tcm.com/articles/89262/the-essentials-3-19-and-8-27-adams-rib",
+    "universitaet": "https://www.utoronto.ca/news/big-screen-u-t-researcher-hollywood-s-depiction-women-law",
+    "tcm_dialog": "https://www.tcm.com/articles/89267/trivia-3-19-and-8-27-adams-rib"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf haben Adam und Amanda Bonner (Spencer Tracy, Katharine Hepburn) in @?",
+      "answers": [
+        "Beide sind Juristen",
+        "Beide sind Ärzte",
+        "Beide sind Journalisten",
+        "Beide sind Hochschullehrer"
+      ],
+      "feedback": [
+        "Beide arbeiten als Juristen.",
+        "Sie arbeiten nicht beide als Ärzte.",
+        "Journalismus ist nicht ihr gemeinsamer Beruf.",
+        "Sie sind nicht beide Hochschullehrer."
+      ],
+      "short": "Beide arbeiten als Juristen.",
+      "context": "Adam Bonner (Spencer Tracy) und Amanda Bonner (Katharine Hepburn) arbeiten beide als Juristen. Ein Strafverfahren bringt ihre beruflichen Standpunkte in direkten Gegensatz: Er vertritt die Anklage, sie übernimmt die Verteidigung. Dadurch bleibt der Streit nicht auf das Gericht beschränkt, sondern setzt sich zu Hause fort. Ihr gemeinsames Fachgebiet schafft zunächst Nähe und gemeinsame Sprache, wird aber auch zum Mittel, mit dem sie einander öffentlich herausfordern.",
+      "anchor": "Der gemeinsame Beruf wird zum Schauplatz des Ehekonflikts.",
+      "interest": "Erklärt die Verbindung von Gericht und Privatleben.",
+      "sources": [
+        "film",
+        "universitaet"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Weshalb wird Doris Attinger (Judy Holliday) in @ angeklagt?",
+      "answers": [
+        "Sie hat auf ihren untreuen Ehemann geschossen",
+        "Sie hat die Geliebte ihres Mannes erpresst",
+        "Sie hat die gemeinsame Wohnung angezündet",
+        "Sie hat Beweise für ein Scheidungsverfahren gefälscht"
+      ],
+      "feedback": [
+        "Doris schießt auf ihren untreuen Ehemann.",
+        "Eine Erpressung ist nicht die angeklagte Tat.",
+        "Ein Wohnungsbrand führt nicht zum Verfahren.",
+        "Gefälschte Scheidungsunterlagen sind nicht der Anlass."
+      ],
+      "short": "Doris schießt auf ihren untreuen Ehemann.",
+      "context": "Doris Attinger (Judy Holliday) folgt ihrem Mann Warren (Tom Ewell), überrascht ihn bei einer anderen Frau und schießt auf ihn. Das daraus entstehende Strafverfahren bildet den Ausgangspunkt für den Streit des Ehepaars Bonner. Amanda (Katharine Hepburn) verteidigt Doris, während Adam (Spencer Tracy) als Ankläger auftritt. Die Tat erhält dadurch zwei Ebenen: ihre juristische Beurteilung und die Frage, welche Erwartungen die Gesellschaft an verletzte Ehemänner und Ehefrauen stellt.",
+      "anchor": "Doris’ Schüsse eröffnen das Strafverfahren.",
+      "interest": "Benennt den konkreten Auslöser des zentralen Konflikts.",
+      "sources": [
+        "film",
+        "tcm"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche gesellschaftliche Ungleichheit kritisiert Amanda Bonner (Katharine Hepburn) mit ihrer Verteidigung in @?",
+      "answers": [
+        "Ehebruch und Eifersucht werden bei Männern anders bewertet",
+        "Wohlhabende Angeklagte erhalten meist mildere Strafen",
+        "Verheiratete Frauen werden seltener als Zeuginnen ernst genommen",
+        "Öffentliche Verfahren verletzen häufiger die Privatsphäre von Frauen"
+      ],
+      "feedback": [
+        "Amanda greift unterschiedliche Maßstäbe für Männer und Frauen an.",
+        "Vermögensabhängige Strafen sind nicht ihr Hauptargument.",
+        "Eine geringere Glaubwürdigkeit verheirateter Zeuginnen ist nicht ihr zentraler Vergleich.",
+        "Die Privatsphäre ist nicht der Kern ihres Vergleichs."
+      ],
+      "short": "Amanda greift unterschiedliche Maßstäbe für Männer und Frauen an.",
+      "context": "Amanda Bonner (Katharine Hepburn) will zeigen, dass die Gesellschaft eine eifersüchtige Frau strenger beurteilt als einen Mann in derselben Lage. Sie stellt daher die Erwartungen an Ehebruch und Gegenwehr in den Mittelpunkt. Adam (Spencer Tracy) hält dagegen an der Strafbarkeit der Tat fest. Der Konflikt entsteht nicht allein aus persönlicher Loyalität, sondern aus zwei unterschiedlichen Blicken auf dasselbe Verfahren: Gleichbehandlung und Verantwortung für gewaltsames Handeln stehen gegeneinander.",
+      "anchor": "Amanda verlangt gleiche Maßstäbe für die Geschlechter.",
+      "interest": "Fragt das Argument statt erneut die angeklagte Tat.",
+      "sources": [
+        "film",
+        "universitaet",
+        "tcm_dialog"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie demonstriert Olympia La Pere (Hope Emerson) in @ ihre körperliche Stärke im Gerichtssaal?",
+      "answers": [
+        "Sie hebt Adam Bonner (Spencer Tracy) hoch",
+        "Sie trägt Amanda Bonner (Katharine Hepburn) durch den Saal",
+        "Sie stemmt Warren Attinger (Tom Ewell) über den Kopf",
+        "Sie wirft Kip Lurie (David Wayne) über eine Bank"
+      ],
+      "feedback": [
+        "Olympia hebt Adam hoch.",
+        "Amanda wird bei dieser Demonstration nicht getragen.",
+        "Warren ist nicht der angehobene Mann.",
+        "Kip wird nicht über eine Bank geworfen."
+      ],
+      "short": "Olympia hebt Adam hoch.",
+      "context": "Olympia La Pere (Hope Emerson) gehört zu den Frauen, deren Fähigkeiten Amanda Bonner (Katharine Hepburn) vor Gericht vorführt. Ihre körperliche Kraft zeigt sie ausgerechnet an Adam (Spencer Tracy), den sie hochhebt. Damit wird eine abstrakte Behauptung über männliche Überlegenheit durch ein sichtbares Gegenbeispiel unterbrochen. Zugleich wird der Ankläger selbst zum Gegenstand der Vorführung, sodass der berufliche Konflikt für ihn auch eine persönliche Demütigung erhält.",
+      "anchor": "Olympia macht Adam zum anschaulichen Gegenbeispiel.",
+      "interest": "Erfasst die konkrete Form einer Gerichtsvorführung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Woraus besteht die vermeintliche Pistole, mit der Adam Bonner (Spencer Tracy) in @ einen Eifersuchtskonflikt zuspitzt?",
+      "answers": [
+        "Aus essbarer Lakritz",
+        "Aus bemaltem Holz",
+        "Aus schwarz gefärbtem Wachs",
+        "Aus einer hohlen Kunststoffhülle"
+      ],
+      "feedback": [
+        "Die Pistole besteht aus essbarer Lakritz.",
+        "Es ist keine bemalte Holzattrappe.",
+        "Wachs bildet diese Attrappe nicht.",
+        "Eine Kunststoffhülle ist nicht die Auflösung."
+      ],
+      "short": "Die Pistole besteht aus essbarer Lakritz.",
+      "context": "Adam Bonner (Spencer Tracy) bedroht Amanda (Katharine Hepburn) und Kip Lurie (David Wayne) scheinbar mit einer Pistole. Ihre Empörung über die Waffe ermöglicht ihm, die zuvor vertretene Rechtfertigung von Eifersuchtsgewalt gegen sie zu wenden. Dann beißt er ein Stück von der Pistole ab: Sie ist eine Süßigkeit. Die Szene verbindet deshalb eine ernsthafte argumentative Falle mit einer sichtbaren komischen Auflösung der unmittelbaren Gefahr.",
+      "anchor": "Die gefährlich wirkende Pistole lässt sich aufessen.",
+      "interest": "Verbindet die Argumentation mit der überraschenden Requisite.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entscheidung Cole Porters führte laut der von AFI referierten Kanin-Erinnerung zur Namensänderung der Juristin (Katharine Hepburn) in @?",
+      "answers": [
+        "Er wollte kein Lied für die ursprünglich Madelaine genannte Figur schreiben",
+        "Er wollte den Figurennamen aus einem bestehenden Lied übernehmen",
+        "Er wollte den Figurennamen durch den Namen der Darstellerin ersetzen",
+        "Er wollte einen zweiten Figurennamen für ein geplantes Duett verwenden"
+      ],
+      "feedback": [
+        "Porter wollte laut Kanin kein Lied für eine Madelaine genannte Figur schreiben.",
+        "AFI berichtet keine solche Übernahme eines bestehenden Liednamens als Anlass.",
+        "Hepburns eigener Name erklärt die Änderung nicht.",
+        "Ein zweiter Name für ein Duett ist nicht der berichtete Anlass."
+      ],
+      "short": "Nach Kanins von AFI referierter Erinnerung wollte Porter kein Lied für eine Madelaine genannte Figur schreiben.",
+      "context": "AFI referiert Garson Kanins Erinnerung: Cole Porter wollte kein Lied für die ursprünglich Madelaine genannte Juristin schreiben. Daraufhin erhielt die Figur, gespielt von Katharine Hepburn, den Namen Amanda. Im Film singt der Nachbar Kip Lurie (David Wayne) Farewell, Amanda für sie. Die Anekdote zeigt, wie eine musikalische Entscheidung bis in die Benennung einer Hauptfigur eingreifen kann. Sie wird ausdrücklich als rückblickende Erinnerung Kanins zugeschrieben.",
+      "anchor": "Porters Einwand gegen Madelaine führt nach Kanins Erinnerung zum Namen Amanda.",
+      "interest": "Unterscheidet den konkret überlieferten Namenswechsel von einer unbelegten Song-Umbenennung.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Spencer Tracy und Katharine Hepburn erstmals veröffentlicht?",
+      "answers": [
+        "1949",
+        "1946",
+        "1952",
+        "1955"
+      ],
+      "feedback": [
+        "Der Film erschien 1949.",
+        "1946 ist nicht das Erstjahr.",
+        "1952 liegt nach der Erstveröffentlichung.",
+        "1955 bezeichnet nicht diese Premiere."
+      ],
+      "short": "Der Film erschien 1949.",
+      "context": "Ehekrieg erschien 1949. Vierundzwanzig Jahre später, 1973, begann bei ABC eine gleichnamige Fernsehserie mit Ken Howard und Blythe Danner. Das AFI nennt diese spätere Bearbeitung der Konstellation zweier verheirateter Juristen. Die beiden Jahreszahlen unterscheiden daher die ursprüngliche Kinokomödie von einem Fernsehformat, das ihren Ausgangspunkt erneut verwendete. Die Serie ist keine weitere Veröffentlichung desselben Films, sondern eine eigene Produktion mit neuer Besetzung.",
+      "anchor": "1949 Film, 1973 Fernsehserie: 24 Jahre.",
+      "interest": "Trennt Kinofilm und spätere Fernsehbearbeitung.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Spencer Tracy und Katharine Hepburn Hauptregie?",
+      "answers": [
+        "George Cukor",
+        "George Stevens",
+        "William Wyler",
+        "Frank Capra"
+      ],
+      "feedback": [
+        "George Cukor ist der Hauptregisseur.",
+        "Stevens führte hier nicht Regie.",
+        "Wyler trägt diesen Filmcredit nicht.",
+        "Capra inszenierte die Produktion nicht."
+      ],
+      "short": "George Cukor ist der Hauptregisseur.",
+      "context": "George Cukor inszenierte Ehekrieg nach einem Drehbuch von Ruth Gordon und Garson Kanin. Spencer Tracy und Katharine Hepburn spielen das Juristenpaar, dessen öffentlicher Prozessstreit in die eigene Beziehung hineinreicht. Die Credits unterscheiden die Regie von der gemeinsam geleisteten Drehbucharbeit. Gerade das Wechselspiel zwischen Gerichtsauftritten und privaten Auseinandersetzungen gehört zur Gestaltung des Films: Dieselben Argumente gewinnen in der Ehe eine andere Wirkung als vor Publikum.",
+      "anchor": "Cukor inszeniert, Gordon und Kanin schreiben.",
+      "interest": "Ordnet die Zusammenarbeit im Hauptcredit ein.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

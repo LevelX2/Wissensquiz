@@ -1,0 +1,361 @@
+{
+  "date": "2026-10-08",
+  "method": "Redaktioneller Kern von 20 prägenden Werken aus Stummfilm-Romanze, Screwball, urbaner Beziehungskomödie und moderner Rom-Com. Keine objektive Top-20-Rangliste: AFIs historische US-Auswahl dient zusammen mit BFI-Genregeschichte als Orientierung. 13 Werke sind global vorhanden, davon zwölf unter Rom-Com und Das Apartment unter Komödie; sieben werden ausgewählt. Bestehende Zuordnungen bleiben erhalten, es gibt keine Umordnung oder Doppelzählung. Die 24 Ergänzungen führen Rom-Com von 76 auf 100 Filme. Neue question_ids sind geplante Referenzen für die spätere Redaktion; ergänzt bezeichnet hier die Auswahl. The Philadelphia Story bleibt beim Erstjahr 1940: AFIs 10-Top-10-PDF nennt 1941, der AFI-Katalog dokumentiert bereits Aufführungen im Dezember 1940.",
+  "before": 13,
+  "added": 7,
+  "after": 20,
+  "context_sources": [
+    "https://www.bfi.org.uk/features/romcom",
+    "https://www.bfi.org.uk/features/flirting-screwball",
+    "https://prdaficalmjediwestussa.blob.core.windows.net/images/2025/04/10top10.pdf",
+    "https://www.bfi.org.uk/sight-and-sound/reviews/film-week-big-sick-refreshes-romcom",
+    "https://catalog.afi.com/Film/27639-THE-PHILADELPHIA-STORY?cxt=ymal"
+  ],
+  "films": [
+    {
+      "film": "City Lights|1931",
+      "title": "Lichter der Großstadt",
+      "reason": "Stummfilmkomik und eine Liebesgeschichte über soziale Grenzen zeigen eine frühe Verbindung von Komik und romantischem Gefühl.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ROMCOM-001-L1",
+        "G100-20261008-ROMCOM-001-L2",
+        "G100-20261008-ROMCOM-001-M1",
+        "G100-20261008-ROMCOM-001-M2",
+        "G100-20261008-ROMCOM-001-S1",
+        "G100-20261008-ROMCOM-001-S2",
+        "G100-20261008-ROMCOM-001-Y",
+        "G100-20261008-ROMCOM-001-D"
+      ]
+    },
+    {
+      "film": "It Happened One Night|1934",
+      "title": "Es geschah in einer Nacht",
+      "reason": "Roadmovie, Wortgefechte und soziale Gegensätze bilden ein frühes Modell der Screwball-Romanze.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-164-L1",
+        "F240-20261006-164-L2",
+        "F240-20261006-164-M1",
+        "F240-20261006-164-M2",
+        "F240-20261006-164-S1",
+        "F240-20261006-164-S2",
+        "F240-20261006-164-Y",
+        "F240-20261006-164-D"
+      ]
+    },
+    {
+      "film": "Bringing Up Baby|1938",
+      "title": "Leoparden küsst man nicht",
+      "reason": "Eine exzentrische Frau bringt das geordnete Leben eines Wissenschaftlers durcheinander: ein prägendes Screwball-Paarmodell.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-161-L1",
+        "F240-20261006-161-L2",
+        "F240-20261006-161-M1",
+        "F240-20261006-161-M2",
+        "F240-20261006-161-S1",
+        "F240-20261006-161-S2",
+        "F240-20261006-161-Y",
+        "F240-20261006-161-D"
+      ]
+    },
+    {
+      "film": "The Shop Around the Corner|1940",
+      "title": "Rendezvous nach Ladenschluss",
+      "reason": "Anonyme Liebesbriefe und berufliche Reibung führen zwei Menschen zusammen; das Modell lebt in E-Mail für Dich weiter.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-165-L1",
+        "F240-20261006-165-L2",
+        "F240-20261006-165-M1",
+        "F240-20261006-165-M2",
+        "F240-20261006-165-S1",
+        "F240-20261006-165-S2",
+        "F240-20261006-165-Y",
+        "F240-20261006-165-D"
+      ]
+    },
+    {
+      "film": "The Philadelphia Story|1940",
+      "title": "Die Nacht vor der Hochzeit",
+      "reason": "Eine erneute Partnerwahl verbindet die Komödie über gesellschaftlichen Status mit Selbstprüfung und Versöhnung.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-163-L1",
+        "F240-20261006-163-L2",
+        "F240-20261006-163-M1",
+        "F240-20261006-163-M2",
+        "F240-20261006-163-S1",
+        "F240-20261006-163-S2",
+        "F240-20261006-163-Y",
+        "F240-20261006-163-D"
+      ]
+    },
+    {
+      "film": "Adam's Rib|1949",
+      "title": "Ehekrieg",
+      "reason": "Das verheiratete Anwaltspaar verhandelt Gleichberechtigung zugleich vor Gericht und in seiner Beziehung.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ROMCOM-002-L1",
+        "G100-20261008-ROMCOM-002-L2",
+        "G100-20261008-ROMCOM-002-M1",
+        "G100-20261008-ROMCOM-002-M2",
+        "G100-20261008-ROMCOM-002-S1",
+        "G100-20261008-ROMCOM-002-S2",
+        "G100-20261008-ROMCOM-002-Y",
+        "G100-20261008-ROMCOM-002-D"
+      ]
+    },
+    {
+      "film": "Roman Holiday|1953",
+      "title": "Ein Herz und eine Krone",
+      "reason": "Die Begegnung von Prinzessin und Reporter verbindet märchenhafte Romantik mit einem Verzicht auf die dauerhafte Paarvereinigung.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ROM-L-043",
+        "ROM-L-044",
+        "ROM-M-043",
+        "ROM-M-044",
+        "ROM-S-043",
+        "ROM-S-044",
+        "ROM-L-043-V1",
+        "ROM-L-044-V1",
+        "ROM-M-043-V1",
+        "ROM-M-044-V1",
+        "ROM-S-043-V1",
+        "ROM-S-044-V1",
+        "FF-272-YEAR",
+        "FF-272-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Apartment|1960",
+      "title": "Das Apartment",
+      "reason": "Bürokratie, Ehebruch und die Suche nach einer ehrlichen Beziehung verbinden Gesellschaftssatire und Liebeskomödie.",
+      "status": "vorhanden",
+      "question_ids": [
+        "KOM-202609-P02-L-079",
+        "KOM-202609-P02-L-080",
+        "KOM-202609-P02-M-079",
+        "KOM-202609-P02-M-080",
+        "KOM-202609-P02-S-079",
+        "KOM-202609-P02-S-080",
+        "KOM-202609-P02-M-079-V1",
+        "FF-415-YEAR",
+        "FF-415-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Breakfast at Tiffany's|1961",
+      "title": "Frühstück bei Tiffany",
+      "reason": "Holly Golightlys Selbstentwurf und die Liebesgeschichte im New Yorker Milieu prägen das romantische Star- und Großstadtkino.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ROMCOM-003-L1",
+        "G100-20261008-ROMCOM-003-L2",
+        "G100-20261008-ROMCOM-003-M1",
+        "G100-20261008-ROMCOM-003-M2",
+        "G100-20261008-ROMCOM-003-S1",
+        "G100-20261008-ROMCOM-003-S2",
+        "G100-20261008-ROMCOM-003-Y",
+        "G100-20261008-ROMCOM-003-D"
+      ]
+    },
+    {
+      "film": "Harold and Maude|1971",
+      "title": "Harold und Maude",
+      "reason": "Die ungewöhnliche Liebesgeschichte stellt Alterskonventionen infrage und erweitert die romantische Komödie um schwarzen Humor.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ROMCOM-007-L1",
+        "G100-20261008-ROMCOM-007-L2",
+        "G100-20261008-ROMCOM-007-M1",
+        "G100-20261008-ROMCOM-007-M2",
+        "G100-20261008-ROMCOM-007-S1",
+        "G100-20261008-ROMCOM-007-S2",
+        "G100-20261008-ROMCOM-007-Y",
+        "G100-20261008-ROMCOM-007-D"
+      ]
+    },
+    {
+      "film": "Annie Hall|1977",
+      "title": "Der Stadtneurotiker",
+      "reason": "Neurotischer Dialog, urbane Milieus und das rückblickende Erzählen einer gescheiterten Beziehung erweitern die Genreform.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ROMCOM-004-L1",
+        "G100-20261008-ROMCOM-004-L2",
+        "G100-20261008-ROMCOM-004-M1",
+        "G100-20261008-ROMCOM-004-M2",
+        "G100-20261008-ROMCOM-004-S1",
+        "G100-20261008-ROMCOM-004-S2",
+        "G100-20261008-ROMCOM-004-Y",
+        "G100-20261008-ROMCOM-004-D"
+      ]
+    },
+    {
+      "film": "Moonstruck|1987",
+      "title": "Mondsüchtig",
+      "reason": "Eine Liebesverwicklung in einer italienisch-amerikanischen Familie verbindet Alltagskomik, Oper und romantischen Überschwang.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ROM-L-045",
+        "ROM-L-046",
+        "ROM-M-045",
+        "ROM-M-046",
+        "ROM-S-045",
+        "ROM-S-046",
+        "FF-273-YEAR",
+        "FF-273-DIRECTOR"
+      ]
+    },
+    {
+      "film": "When Harry Met Sally...|1989",
+      "title": "Harry & Sally",
+      "reason": "Freundschaft, Gesprächskultur und die Frage nach ihrer möglichen Verwandlung in Liebe prägen die moderne Rom-Com.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ROM-L-001",
+        "ROM-L-002",
+        "ROM-M-001",
+        "ROM-M-002",
+        "ROM-S-001",
+        "ROM-S-002",
+        "ROM-L-001-V1",
+        "ROM-L-002-V1",
+        "ROM-M-001-V1",
+        "ROM-M-002-V1",
+        "ROM-S-001-V1",
+        "ROM-S-002-V1",
+        "FF-251-YEAR",
+        "FF-251-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Pretty Woman|1990",
+      "title": "Pretty Woman",
+      "reason": "Die moderne Aschenputtelgeschichte und Julia Roberts’ Starpersona stehen für das erfolgreiche romantische Hollywoodkino der 1990er.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ROM-L-003",
+        "ROM-L-004",
+        "ROM-M-003",
+        "ROM-M-004",
+        "ROM-S-003",
+        "ROM-S-004",
+        "FF-252-YEAR",
+        "FF-252-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Sleepless in Seattle|1993",
+      "title": "Schlaflos in Seattle",
+      "reason": "Die getrennt erzählten Leben des künftigen Paars und romantische Filmbezüge tragen die Sehnsuchtskomödie.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ROM-L-007",
+        "ROM-L-008",
+        "ROM-M-007",
+        "ROM-M-008",
+        "ROM-S-007",
+        "ROM-S-008",
+        "FF-254-YEAR",
+        "FF-254-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Four Weddings and a Funeral|1994",
+      "title": "Vier Hochzeiten und ein Todesfall",
+      "reason": "Ein britisches Freundesensemble und wiederholte gesellschaftliche Feiern verbinden Paarfindung mit Verlust und Gemeinschaft.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ROM-L-011",
+        "ROM-L-012",
+        "ROM-M-011",
+        "ROM-M-012",
+        "ROM-S-011",
+        "ROM-S-012",
+        "FF-256-YEAR",
+        "FF-256-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Clueless|1995",
+      "title": "Clueless – Was sonst!",
+      "reason": "Die Übertragung von Jane Austens Emma in ein Teenager-Milieu verbindet romantische Fehlurteile mit zeitgenössischer Jugendkomik.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ROMCOM-005-L1",
+        "G100-20261008-ROMCOM-005-L2",
+        "G100-20261008-ROMCOM-005-M1",
+        "G100-20261008-ROMCOM-005-M2",
+        "G100-20261008-ROMCOM-005-S1",
+        "G100-20261008-ROMCOM-005-S2",
+        "G100-20261008-ROMCOM-005-Y",
+        "G100-20261008-ROMCOM-005-D"
+      ]
+    },
+    {
+      "film": "My Best Friend's Wedding|1997",
+      "title": "Die Hochzeit meines besten Freundes",
+      "reason": "Die begehrende Hauptfigur wird selbst zum Hindernis; ihr Ende ohne Paarvereinigung erweitert die Erwartungen an das romantische Happy End.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ROMCOM-006-L1",
+        "G100-20261008-ROMCOM-006-L2",
+        "G100-20261008-ROMCOM-006-M1",
+        "G100-20261008-ROMCOM-006-M2",
+        "G100-20261008-ROMCOM-006-S1",
+        "G100-20261008-ROMCOM-006-S2",
+        "G100-20261008-ROMCOM-006-Y",
+        "G100-20261008-ROMCOM-006-D"
+      ]
+    },
+    {
+      "film": "Notting Hill|1999",
+      "title": "Notting Hill",
+      "reason": "Ein gewöhnlicher Buchhändler und ein Filmstar verbinden die britische Alltagskomödie mit dem romantischen Prominenten-Märchen.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ROM-L-005",
+        "ROM-L-006",
+        "ROM-M-005",
+        "ROM-M-006",
+        "ROM-S-005",
+        "ROM-S-006",
+        "ROM-L-005-V1",
+        "ROM-L-006-V1",
+        "ROM-M-005-V1",
+        "ROM-M-006-V1",
+        "ROM-S-005-V1",
+        "ROM-S-006-V1",
+        "FF-253-YEAR",
+        "FF-253-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Bridget Jones's Diary|2001",
+      "title": "Bridget Jones – Schokolade zum Frühstück",
+      "reason": "Selbstbeobachtung, Alltagspeinlichkeit und eine Austen-nahe Dreieckskonstellation prägen die britische Rom-Com der frühen 2000er.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ROM-L-013",
+        "ROM-L-014",
+        "ROM-M-013",
+        "ROM-M-014",
+        "ROM-S-013",
+        "ROM-S-014",
+        "ROM-L-013-V1",
+        "ROM-L-014-V1",
+        "ROM-M-013-V1",
+        "ROM-M-014-V1",
+        "ROM-S-013-V1",
+        "ROM-S-014-V1",
+        "FF-257-YEAR",
+        "FF-257-DIRECTOR"
+      ]
+    }
+  ]
+}

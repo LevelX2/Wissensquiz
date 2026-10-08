@@ -1,0 +1,210 @@
+{
+  "rank": 3,
+  "directors": [
+    "Blake Edwards"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere am 5. Oktober 1961 in der New Yorker Radio City Music Hall laut AFI. Gemeint ist der Film mit Audrey Hepburn.",
+  "director_note": "Blake Edwards führte Hauptregie. John Frankenheimer war in frühen Planungen vorgesehen, trägt aber keinen gemeinsamen Hauptregiecredit des fertigen Films.",
+  "series": null,
+  "familiarity_reason": "Sehr bekannte Hepburn-Komödie und Capote-Verfilmung; Bekanntheit 2. Die Personenzuordnung Holly–Hepburn bleibt dem bereits vorhandenen Wissensziel vorbehalten.",
+  "notes": "Die Geschichte der Dreharbeiten enthält widersprüchliche Endmonate in AFI und Handlungscache; keine exakte Drehtagfrage. Die Figurendarstellung des Films wird nicht mit der literarischen Vorlage gleichgesetzt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(film)",
+    "afi": "https://catalog.afi.com/Film/22674-BREAKFAST-ATTIFFANYS"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf hat Paul Varjak (George Peppard) in @?",
+      "answers": [
+        "Schriftsteller",
+        "Fotograf",
+        "Maler",
+        "Komponist"
+      ],
+      "feedback": [
+        "Paul ist Schriftsteller.",
+        "Fotografie ist nicht sein Beruf.",
+        "Paul arbeitet nicht als Maler.",
+        "Er ist kein Komponist."
+      ],
+      "short": "Paul ist Schriftsteller.",
+      "context": "Paul Varjak (George Peppard) zieht in dasselbe Haus wie Holly Golightly (Audrey Hepburn) und stellt sich als Schriftsteller vor. Sein beruflicher Erfolg liegt jedoch zurück, und seine finanzielle Lage hängt von einer privaten Beziehung ab. Damit begegnen sich zwei Menschen, deren Auftreten nicht einfach ihre tatsächlichen Lebensumstände verrät. Das Schreiben gibt Paul eine eigene Perspektive auf Holly, löst aber seine Unsicherheit über Geld und Unabhängigkeit zunächst nicht.",
+      "anchor": "Paul schreibt, lebt aber nicht allein von seiner Literatur.",
+      "interest": "Ordnet den männlichen Protagonisten über seine Arbeit ein.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wie bezeichnet Holly Golightly (Audrey Hepburn) in @ die Katze, mit der sie zusammenlebt?",
+      "answers": [
+        "Sie gibt ihr keinen Namen",
+        "Sie nennt sie nach ihrem früheren Ehemann",
+        "Sie nennt sie nach ihrem Lieblingsgeschäft",
+        "Sie nennt sie nach ihrem Heimatort"
+      ],
+      "feedback": [
+        "Die Katze hat keinen eigenen Namen.",
+        "Sie trägt nicht den Namen ihres früheren Mannes.",
+        "Holly benennt sie nicht nach einem Geschäft.",
+        "Ein Heimatort wird nicht zum Katzennamen."
+      ],
+      "short": "Die Katze hat keinen eigenen Namen.",
+      "context": "Holly Golightly (Audrey Hepburn) lebt mit einer Katze zusammen, der sie keinen Namen gegeben hat. Sie erklärt diese Entscheidung mit ihrer Vorstellung, dass beide einander nicht gehören. Das Tier wird dadurch zu einem konkreten Ausdruck ihres Widerstands gegen feste Bindungen. Die Haltung betrifft mehr als einen ungewöhnlichen Haustiernamen: Holly möchte sich selbst als unabhängig verstehen, obwohl sie ständig auf andere Menschen und deren Unterstützung angewiesen ist.",
+      "anchor": "Die namenlose Katze verkörpert Hollys Widerstand gegen Zugehörigkeit.",
+      "interest": "Verbindet ein sichtbares Detail mit ihrer Selbstbeschreibung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Funktion haben die „Wetterberichte“, die Holly (Audrey Hepburn) in @ aus dem Gefängnis übermittelt?",
+      "answers": [
+        "Sie transportieren verschlüsselte Informationen eines Drogenrings",
+        "Sie koordinieren einen geplanten Gefängnisausbruch",
+        "Sie melden Kursschwankungen für illegale Börsengeschäfte",
+        "Sie warnen vor bevorstehenden Razzien in Nachtclubs"
+      ],
+      "feedback": [
+        "Die Meldungen dienen einem Drogenring als verschlüsselte Nachrichten.",
+        "Ein Ausbruch wird damit nicht organisiert.",
+        "Börsenkurse sind nicht der Inhalt des Codes.",
+        "Nachtclub-Razzien bilden nicht den Zweck dieser Nachrichten."
+      ],
+      "short": "Die Meldungen dienen einem Drogenring als verschlüsselte Nachrichten.",
+      "context": "Holly Golightly (Audrey Hepburn) besucht Sally Tomato (Alan Reed) im Gefängnis und gibt anschließend seine scheinbar harmlosen Wetterberichte weiter. Sie versteht zunächst nicht, dass die Meldungen zum Nachrichtenaustausch eines Drogenrings gehören. Der bezahlte Gefängnisbesuch verbindet deshalb ihre Suche nach Einkommen mit einer Gefahr, die sie unterschätzt. Als die Verbindung bekannt wird, hat sie Folgen für ihre gesellschaftlichen und persönlichen Pläne, obwohl sie sich selbst nicht als Beteiligte eines solchen Geschäfts sieht.",
+      "anchor": "Der harmlose Wetterbericht ist ein krimineller Code.",
+      "interest": "Fragt die verborgene Funktion eines wiederkehrenden Auftrags.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Beziehung hat Doc Golightly (Buddy Ebsen) in @ tatsächlich zu Holly (Audrey Hepburn)?",
+      "answers": [
+        "Er ist ihr früherer Ehemann",
+        "Er ist ihr Adoptivvater",
+        "Er ist ihr älterer Bruder",
+        "Er ist ihr ehemaliger Vormund"
+      ],
+      "feedback": [
+        "Doc ist Hollys früherer Ehemann.",
+        "Die Ehe ist keine Adoptivvaterbeziehung.",
+        "Er ist nicht ihr Bruder.",
+        "Ein Vormundschaftsverhältnis erklärt den Namen nicht."
+      ],
+      "short": "Doc ist Hollys früherer Ehemann.",
+      "context": "Doc Golightly (Buddy Ebsen) erscheint in New York und erzählt Paul Varjak (George Peppard) von Hollys (Audrey Hepburn) früherem Leben. Er ist kein Vater, sondern ihr früherer Ehemann; sie lebte damals unter dem Namen Lula Mae. Sein Auftauchen macht die Entfernung zwischen ihrer New Yorker Selbstdarstellung und ihrer Herkunft sichtbar. Er möchte sie zurückbringen, während Holly an dem selbst gewählten Leben festhält, auch wenn dieses unsicher und widersprüchlich bleibt.",
+      "anchor": "Doc gehört zu Hollys früherer Ehe und Identität.",
+      "interest": "Klärt die Beziehung hinter dem überraschenden Besuch.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Woher stammt der Ring, den Paul (George Peppard) in @ für Holly (Audrey Hepburn) gravieren lassen möchte?",
+      "answers": [
+        "Aus einer Cracker-Jack-Packung",
+        "Aus einem Pfandhaus",
+        "Aus einem verlassenen Hotelzimmer",
+        "Aus einem Nachlass seines Vaters"
+      ],
+      "feedback": [
+        "Der Ring war eine Beigabe in einer Cracker-Jack-Packung.",
+        "Paul kauft ihn dafür nicht im Pfandhaus.",
+        "Er findet ihn nicht in einem Hotelzimmer.",
+        "Ein väterlicher Nachlass ist nicht seine Herkunft."
+      ],
+      "short": "Der Ring war eine Beigabe in einer Cracker-Jack-Packung.",
+      "context": "Paul Varjak (George Peppard) und Holly Golightly (Audrey Hepburn) besuchen das Schmuckgeschäft und suchen eine Möglichkeit, dort mit wenig Geld etwas Besonderes zu erhalten. Der Ring stammt aus einer Cracker-Jack-Packung und soll graviert werden. Der geringe materielle Wert widerspricht der persönlichen Bedeutung der Geste nicht. Die Szene zeigt, wie die beiden innerhalb einer Welt von Luxus und hohen Preisen eine eigene kleine Form von Verbindlichkeit herstellen.",
+      "anchor": "Ein billiger Packungsring bekommt eine persönliche Gravur.",
+      "interest": "Prüft die konkrete Herkunft der ungewöhnlichen Liebesgabe.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum unterstützt Emily „2E“ Failenson (Patricia Neal) Paul (George Peppard) in @ finanziell?",
+      "answers": [
+        "Die Unterstützung ist mit ihrer Affäre verbunden",
+        "Sie verwaltet seinen geerbten Familienfonds",
+        "Sie bezahlt ihn für ein noch unveröffentlichtes Buch",
+        "Sie zahlt einen Vorschuss für ein geplantes Drehbuch"
+      ],
+      "feedback": [
+        "Das Geld gehört zur persönlichen Affäre.",
+        "Paul lebt nicht von einem von ihr verwalteten Erbe.",
+        "Ein Buchhonorar ist nicht die Grundlage dieser Beziehung.",
+        "Ein Drehbuchvorschuss begründet ihre Unterstützung nicht."
+      ],
+      "short": "Das Geld gehört zur persönlichen Affäre.",
+      "context": "Emily „2E“ Failenson (Patricia Neal) finanziert Paul Varjaks (George Peppard) Leben als Teil ihrer Affäre. Seine Unabhängigkeit als Schriftsteller ist deshalb zunächst ebenso fraglich wie Hollys (Audrey Hepburn) Selbstbild einer ungebundenen Frau. Als Paul sich Holly zuwendet, muss er auch diese finanzielle Bindung verändern. Das Geld ist kein neutraler Zuschuss zur Kunst, sondern verbindet Versorgung mit einer persönlichen Beziehung, aus der er sich lösen möchte.",
+      "anchor": "Pauls Geld hängt an seiner Affäre mit 2E.",
+      "interest": "Zeigt die eigene Abhängigkeit hinter seiner Beobachterrolle.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Audrey Hepburn und George Peppard erstmals veröffentlicht?",
+      "answers": [
+        "1961",
+        "1958",
+        "1964",
+        "1967"
+      ],
+      "feedback": [
+        "Die Weltpremiere fand 1961 statt.",
+        "1958 erschien Capotes Vorlage.",
+        "1964 liegt nach der Erstveröffentlichung.",
+        "1967 ist nicht das Filmjahr."
+      ],
+      "short": "Die Weltpremiere fand 1961 statt.",
+      "context": "Frühstück bei Tiffany wurde 1961 veröffentlicht, drei Jahre nach Truman Capotes gleichnamiger Novelle von 1958. Das AFI nennt die literarische Vorlage und die New Yorker Weltpremiere. Der zeitliche Abstand verbindet zwei eigenständige Fassungen des Stoffes: Die filmische Beziehung zwischen Holly Golightly (Audrey Hepburn) und Paul Varjak (George Peppard) folgt einer eigenen Bearbeitung. Das Vorlagenjahr gehört daher nicht zur Erstveröffentlichung der Verfilmung.",
+      "anchor": "1958 Novelle, 1961 Film: drei Jahre.",
+      "interest": "Trennt literarische Veröffentlichung und Filmfassung.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Audrey Hepburn und George Peppard Hauptregie?",
+      "answers": [
+        "Blake Edwards",
+        "Stanley Donen",
+        "Billy Wilder",
+        "George Cukor"
+      ],
+      "feedback": [
+        "Blake Edwards inszenierte den fertigen Film.",
+        "Donen trägt diesen Regiecredit nicht.",
+        "Wilder führte hier nicht Regie.",
+        "Cukor ist nicht der Hauptregisseur."
+      ],
+      "short": "Blake Edwards inszenierte den fertigen Film.",
+      "context": "Blake Edwards führte bei der Verfilmung Regie; George Axelrod schrieb das Drehbuch nach Truman Capotes Vorlage. Das AFI beschreibt zudem frühere Planungen mit John Frankenheimer, die vom fertigen Film zu unterscheiden sind. Eine Entwicklungsphase schafft keinen zusätzlichen Hauptregiecredit. Die endgültige Inszenierung verbindet Hollys (Audrey Hepburn) gesellschaftliches Auftreten mit Pauls (George Peppard) Beobachtung und einer Liebesgeschichte, deren Verlauf nicht einfach aus dem Buch übernommen wurde.",
+      "anchor": "Blake Edwards verantwortet die fertiggestellte Filmfassung.",
+      "interest": "Unterscheidet Planung, Drehbuch und Hauptregie.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "rank": 21,
+  "directors": [
+    "Fatih Akin"
+  ],
+  "production_countries": [
+    "Deutschland"
+  ],
+  "country_note": "filmportal klassifiziert den Film ausdrücklich als Deutschland 1999/2000. Der Wiki-Cache nennt abweichend Deutschland/Türkei. Die redaktionelle Länderzuordnung folgt dem institutionellen Register; Drehorte und regionale Stäbe begründen keine zusätzliche Koproduktion.",
+  "release_note": "2000; filmportal nennt den deutschen Kinostart am 24. August 2000. Das im Juni 1999 verfasste Wüste-Presseheft enthält geplante Termine, die nicht als tatsächliche Erstveröffentlichung übernommen werden.",
+  "familiarity_reason": "Prägender früher Akin-Roadmovie, außerhalb seines deutschen Stammpublikums weniger verbreitet; Bekanntheit 3, unabhängig von der Schwierigkeit.",
+  "director_note": "Fatih Akin ist Hauptregisseur und Drehbuchautor; die Grenzbeamten-Gastrolle ist davon getrennt.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/In_July_(film)",
+    "register": "https://www.filmportal.de/film/im-juli_6944224c1b4f42099563a7533835400d",
+    "presseheft": "https://www.wuestefilm.de/wp-content/uploads/2016/05/presseheft_imjuli.pdf",
+    "zeitanker": "https://www.filmportal.de/film/kurz-und-schmerzlos_1e65902d2d3a4b66b3595422503dc303"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf übt Daniel (Moritz Bleibtreu) in @ zu Beginn aus?",
+      "answers": [
+        "Er ist angehender Lehrer im Referendariat.",
+        "Er ist angehender Rechtsanwalt im Referendariat.",
+        "Er ist Arzt in der Weiterbildung.",
+        "Er ist Architekt in einem Planungsbüro."
+      ],
+      "feedback": [
+        "Daniel arbeitet als Referendar an einer Hamburger Schule.",
+        "Sein Referendariat gehört nicht zur juristischen Ausbildung.",
+        "Eine ärztliche Weiterbildung macht er nicht.",
+        "Ein Architekturbüro ist nicht sein Arbeitsplatz."
+      ],
+      "short": "Daniel ist angehender Lehrer an einer Hamburger Schule.",
+      "context": "Daniel (Moritz Bleibtreu) beginnt seine Reise als Hamburger Referendar, der zunächst ein geregeltes und zurückhaltendes Leben führt. Die Ferien schaffen den Freiraum für die unerwartete Fahrt. Sein Alltag an der Schule bildet einen deutlichen Ausgangspunkt für die Begegnungen unterwegs. Als er die gewohnte Umgebung verlässt, muss er sich auf Situationen einlassen, die sich kaum wie sein bisheriger Tagesablauf planen lassen.",
+      "anchor": "Der geregelte Schulalltag ist der Ausgangspunkt der Reise.",
+      "interest": "Der Beruf macht Daniels anfängliche Lebensweise verständlich.",
+      "sources": [
+        "handlung",
+        "register"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Stadt will Daniel (Moritz Bleibtreu) auf seiner Reise in @ erreichen?",
+      "answers": [
+        "Istanbul",
+        "Athen",
+        "Rom",
+        "Budapest"
+      ],
+      "feedback": [
+        "Daniel möchte Melek in Istanbul wiedersehen.",
+        "Athen ist nicht das vereinbarte Reiseziel.",
+        "Eine Verabredung in Rom verfolgt er nicht.",
+        "Budapest ist nicht sein endgültiges Ziel."
+      ],
+      "short": "Daniel reist nach Istanbul.",
+      "context": "Daniel (Moritz Bleibtreu) begegnet in Hamburg Melek (İdil Üner) und glaubt, in ihr seine ersehnte Partnerin gefunden zu haben. Nach ihrer Abreise will er sie in Istanbul wiedersehen. Aus diesem Wunsch entsteht die Fahrt durch Südosteuropa. Juli (Christiane Paul) begleitet ihn unterwegs, während seine Aufmerksamkeit anfangs auf der Verabredung am Bosporus liegt und ihre Gefühle für ihn noch übersehen werden.",
+      "anchor": "Die Verabredung am Bosporus gibt der Fahrt ihr Ziel.",
+      "interest": "Ein klares Reiseziel erschließt den Roadmovie-Grundkonflikt.",
+      "sources": [
+        "handlung",
+        "register"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welches Motiv auf einem gekauften Ring deutet Daniel (Moritz Bleibtreu) in @ als Liebeszeichen?",
+      "answers": [
+        "Eine Sonne",
+        "Einen Mond",
+        "Einen Vogel",
+        "Einen Stern"
+      ],
+      "feedback": [
+        "Der Ring trägt ein Sonnensymbol.",
+        "Ein Mondsymbol ist nicht das Zeichen des Rings.",
+        "Ein Vogelmotiv führt Daniel nicht zur vermeintlichen Traumfrau.",
+        "Ein Stern ist nicht das vereinbarte Erkennungszeichen."
+      ],
+      "short": "Das Sonnensymbol wird zum vermeintlichen Zeichen der richtigen Frau.",
+      "context": "Juli (Christiane Paul) verkauft Daniel (Moritz Bleibtreu) einen Ring mit einem Sonnensymbol und verbindet ihn mit der Suche nach seiner Traumfrau. Sie selbst hofft, dass er dadurch sie erkennen wird. Daniel begegnet jedoch Melek (İdil Üner), deren Oberteil ebenfalls eine Sonne zeigt. Das gleiche Motiv führt seine Aufmerksamkeit somit zunächst zu einer anderen Frau als derjenigen, die ihm den Ring verkauft hat.",
+      "anchor": "Ein Sonnensymbol führt zur zunächst falschen Zuordnung.",
+      "interest": "Der Gegenstand löst das romantische Missverständnis aus.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie schließt sich Juli (Christiane Paul) in @ Daniels (Moritz Bleibtreu) Reise an?",
+      "answers": [
+        "Daniel nimmt sie als Anhalterin mit.",
+        "Sie bucht denselben Fernbus wie Daniel.",
+        "Sie folgt Daniel mit einem gemieteten Motorrad.",
+        "Sie trifft ihn zufällig im Nachtzug."
+      ],
+      "feedback": [
+        "Daniel hält mit dem Auto an und nimmt Juli mit.",
+        "Ein gemeinsamer Fernbus bringt sie nicht zusammen.",
+        "Juli folgt ihm nicht auf einem Motorrad.",
+        "Ein Nachtzug ist nicht der Ort dieses Zusammentreffens."
+      ],
+      "short": "Juli steigt als Anhalterin in Daniels Auto ein.",
+      "context": "Juli (Christiane Paul) verlässt nach ihrer Enttäuschung Hamburg und stellt sich zum Trampen an die Straße. Daniel (Moritz Bleibtreu) ist mit einem geliehenen Auto unterwegs und hält als erster für sie an. So kommt die gemeinsame Reise zustande, ohne dass sie vorher miteinander vereinbart wurde. Die zufällige Mitfahrt schafft die Nähe, die ihrem ursprünglichen Versuch einer direkten Verabredung noch gefehlt hatte.",
+      "anchor": "Die erste anhaltende Mitfahrgelegenheit ist ausgerechnet Daniel.",
+      "interest": "Der Zufall verändert die Zusammensetzung der Reisegruppe.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche verborgene Fracht hat Isa (Mehmet Kurtuluş) in @ im Kofferraum?",
+      "answers": [
+        "Eine Leiche",
+        "Gestohlene Gemälde",
+        "Unversteuerten Schmuck",
+        "Eine Waffenlieferung"
+      ],
+      "feedback": [
+        "Isa transportiert eine Leiche im Kofferraum.",
+        "Gemälde sind nicht die verborgene Fracht.",
+        "Schmuck schmuggelt er dort nicht.",
+        "Eine Waffenlieferung erklärt die Episode nicht."
+      ],
+      "short": "Isa hat eine Leiche im Kofferraum.",
+      "context": "Daniel (Moritz Bleibtreu) begegnet während der Reise Isa (Mehmet Kurtuluş), dessen Wagen eine Leiche im Kofferraum enthält. Die verborgene Fracht verändert den Blick auf den zunächst unbekannten Mitreisenden. Daniels Suche nach einem romantischen Treffen verbindet sich dadurch mit einer fremden, ernsten Angelegenheit. Der Roadmovie führt die Hauptfigur immer wieder in unerwartete Geschichten anderer Menschen hinein, die seinen Weg zusätzlich komplizieren.",
+      "anchor": "Der Kofferraum verbirgt einen Toten statt gewöhnlicher Schmuggelware.",
+      "interest": "Die ungewöhnliche Fracht prägt eine besondere Reiseepisode.",
+      "sources": [
+        "register"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche eigene Reiseerfahrung nennt Fatih Akin im Produktionspresseheft als Bezug zu @?",
+      "answers": [
+        "Er trampte einer geliebten Frau nach Istanbul hinterher.",
+        "Er reiste für einen Filmdreh erstmals nach Istanbul.",
+        "Er begleitete einen erkrankten Verwandten im Auto nach Istanbul.",
+        "Er arbeitete auf einer Busreise nach Istanbul als Reiseleiter."
+      ],
+      "feedback": [
+        "Akin schildert, dass er aus Liebe und ohne Geld nach Istanbul trampte.",
+        "Ein erster Drehauftrag ist nicht die erzählte Erfahrung.",
+        "Eine Krankenfahrt nennt er dort nicht.",
+        "Eine Tätigkeit als Reiseleiter begründet diesen Bezug nicht."
+      ],
+      "short": "Akin berichtet von einer eigenen Liebesreise per Anhalter nach Istanbul.",
+      "context": "Im Interview des Produktionspressehefts erzählt Fatih Akin, dass er einmal einer Frau nach Istanbul nachgereist sei. Weil ihm Geld fehlte, sei er getrampt. Diese persönliche Erinnerung erklärt einen Bezug zwischen dem romantischen Reiseimpuls des Films und der Erfahrung seines Autors. Die Aussage wird ausdrücklich dem Regisseur zugeschrieben; sie beweist nicht, dass sämtliche späteren Ereignisse der Filmhandlung autobiografisch sind.",
+      "anchor": "Eine aus Liebe unternommene Tramptour liefert den persönlichen Bezug.",
+      "interest": "Die zugeschriebene Erinnerung verbindet Filmidee und Autorenerfahrung.",
+      "sources": [
+        "presseheft"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2000",
+        "1997",
+        "2003",
+        "2006"
+      ],
+      "feedback": [
+        "filmportal weist den Kinostart von 2000 aus.",
+        "1997 liegt drei Jahre davor.",
+        "2003 liegt drei Jahre danach.",
+        "2006 wäre sechs Jahre später."
+      ],
+      "short": "1998 Kurz und schmerzlos, 2000 Im Juli: zwei Jahre.",
+      "context": "Im Juli kam 2000 ins Kino. Fatih Akins früherer Langfilm Kurz und schmerzlos erschien 1998, also zwei Jahre zuvor; filmportal dokumentiert die Werk- und Aufführungsdaten. Der Vergleich verbindet zwei konkrete Stationen seiner frühen Regiearbeit. Nach einer Geschichte aus dem Hamburger Kleingangstermilieu folgte der romantische Roadmovie, dessen Reise die Figuren aus ihrem gewohnten Hamburger Alltag nach Südosteuropa führt.",
+      "anchor": "1998 Kurz und schmerzlos, 2000 Im Juli: zwei Jahre Abstand.",
+      "interest": "Zwei frühe Akin-Filme bilden den zeitlichen Anker.",
+      "sources": [
+        "register",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "Fatih Akin",
+        "Thomas Arslan",
+        "Kutluğ Ataman",
+        "Nuri Bilge Ceylan"
+      ],
+      "feedback": [
+        "filmportal nennt Fatih Akin als Hauptregisseur.",
+        "Thomas Arslan inszenierte diesen Roadmovie nicht.",
+        "Kutluğ Ataman trägt hier keinen Regiecredit.",
+        "Nuri Bilge Ceylan führte hier nicht Regie."
+      ],
+      "short": "Fatih Akin schrieb und inszenierte den Roadmovie.",
+      "context": "Fatih Akin ist bei Im Juli sowohl als Regisseur als auch als Drehbuchautor ausgewiesen. Moritz Bleibtreu spielt Daniel, Christiane Paul Juli. filmportal führt daneben Akins eigenen kurzen Auftritt als Zöllner auf. Diese Mitwirkung vor der Kamera ergänzt die Hauptregie, ersetzt sie aber nicht. Die berufliche Zuständigkeit hinter der Kamera und die kleine Rolle innerhalb der Reisehandlung werden in den Credits getrennt dokumentiert.",
+      "anchor": "Akin verantwortet Regie und Drehbuch und hat zusätzlich eine Gastrolle.",
+      "interest": "Der Hauptcredit wird von der Nebenrolle vor der Kamera abgegrenzt.",
+      "sources": [
+        "register"
+      ]
+    }
+  ]
+}

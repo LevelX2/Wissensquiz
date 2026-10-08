@@ -1,0 +1,211 @@
+{
+  "rank": 5,
+  "directors": [
+    "Amy Heckerling"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Veröffentlichung am 19. Juli 1995 laut AFI. Gemeint ist der Film mit Alicia Silverstone, nicht die spätere Fernsehserie.",
+  "director_note": "Amy Heckerling ist als Hauptregisseurin und Drehbuchautorin genannt.",
+  "series": null,
+  "familiarity_reason": "Bekannte Jugendkomödie und moderne Austen-Bearbeitung; Bekanntheit 2. Produktionsdetails bleiben unabhängig davon anspruchsvoll.",
+  "notes": "AFI und Cache nennen für Dans Hedayas Vaterfigur unterschiedliche Nachnamen; nur die eindeutig belegte Vaterfunktion verwenden. Registry-Auswahljahr 2025 und Bekanntgabe 2026 werden nicht verwechselt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Clueless",
+    "afi": "https://catalog.afi.com/Film/67154-CLUELESS",
+    "studio": "https://www.paramountplus.com/sneak-peak/where-to-watch-clueless/",
+    "loc": "https://blogs.loc.gov/loc/2026/02/how-amy-heckerlings-babysitter-helped-create-clueless-now-in-the-national-film-registry/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welchem wohlhabenden Umfeld lebt Cher (Alicia Silverstone) in @?",
+      "answers": [
+        "Beverly Hills",
+        "Palm Beach",
+        "Greenwich",
+        "Scottsdale"
+      ],
+      "feedback": [
+        "Chers Alltag spielt im Milieu von Beverly Hills.",
+        "Palm Beach ist nicht ihr Wohnumfeld.",
+        "Greenwich bildet nicht den Schauplatz.",
+        "Scottsdale ist nicht die gesuchte Stadt."
+      ],
+      "short": "Chers Alltag spielt im Milieu von Beverly Hills.",
+      "context": "Cher (Alicia Silverstone) lebt als Tochter eines wohlhabenden Anwalts in Beverly Hills. Kleidung, Autos und gesellschaftliche Kontakte wirken für sie zunächst wie selbstverständlich verfügbare Mittel, mit denen sich Probleme lösen lassen. Das Umfeld erklärt ihren selbstbewussten Blick auf andere Menschen, ohne ihre Fehleinschätzungen zu verhindern. Ihre Ratschläge an Freundinnen beruhen deshalb sowohl auf Hilfsbereitschaft als auch auf der Annahme, dass ihre eigene Lebensweise das passende Vorbild für alle sei.",
+      "anchor": "Beverly Hills prägt Chers selbstverständlichen Blick auf Wohlstand.",
+      "interest": "Verankert die soziale Welt des Films.",
+      "sources": [
+        "film",
+        "studio"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was unternehmen Cher und Dionne (Alicia Silverstone, Stacey Dash) in @ mit der neuen Mitschülerin Tai (Brittany Murphy)?",
+      "answers": [
+        "Sie geben ihr ein modisches Makeover",
+        "Sie trainieren sie für die Schulmannschaft",
+        "Sie bereiten sie auf eine Theaterhauptrolle vor",
+        "Sie organisieren ihren Wahlkampf zur Klassensprecherin"
+      ],
+      "feedback": [
+        "Sie verändern Tais Kleidung und Auftreten.",
+        "Ein Mannschaftstraining ist nicht ihr Projekt.",
+        "Eine Theaterrolle ist nicht das gemeinsame Vorhaben.",
+        "Ein Wahlkampf begründet die Veränderung nicht."
+      ],
+      "short": "Sie verändern Tais Kleidung und Auftreten.",
+      "context": "Cher (Alicia Silverstone) und Dionne (Stacey Dash) nehmen sich der neuen Mitschülerin Tai (Brittany Murphy) an und verändern ihre Kleidung sowie ihr Auftreten. Cher behandelt das Makeover zunächst als eine erfolgreiche Hilfeleistung. Die neue Beliebtheit entwickelt jedoch eigene Folgen, die sie nicht kontrolliert. Das Projekt zeigt daher nicht nur ein Vorher und Nachher des Aussehens: Es verändert Beziehungen und macht deutlich, dass ein anderer Mensch keine beliebig lenkbare Verbesserungsidee bleibt.",
+      "anchor": "Tais Makeover verändert mehr als ihre Kleidung.",
+      "interest": "Erfasst ein zentrales Vorhaben und seine soziale Wirkung.",
+      "sources": [
+        "film",
+        "studio"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was erhofft sich Cher (Alicia Silverstone) in @ zunächst davon, zwei Lehrkräfte miteinander zu verkuppeln?",
+      "answers": [
+        "Bessere Noten durch mildere Bewertung",
+        "Mehr Freiheit bei der Kleiderordnung",
+        "Eine Empfehlung für ein Auslandsjahr",
+        "Die Abschaffung einer Pflichtprüfung"
+      ],
+      "feedback": [
+        "Cher will ihre Noten verbessern.",
+        "Die Kleiderordnung ist nicht das anfängliche Ziel.",
+        "Ein Auslandsjahr begründet den Plan nicht.",
+        "Eine Prüfung soll dadurch nicht abgeschafft werden."
+      ],
+      "short": "Cher will ihre Noten verbessern.",
+      "context": "Cher (Alicia Silverstone) möchte, dass Mr. Hall (Wallace Shawn) ihre Leistungen günstiger beurteilt. Sie führt seine Strenge auf Unzufriedenheit zurück und organisiert eine Annäherung mit Miss Geist (Twink Caplan). Der Plan beginnt also mit einem eigenen schulischen Vorteil. Als die Beziehung funktioniert, versteht Cher sich zunehmend als erfolgreiche Vermittlerin. Ihr anfänglicher Eigennutz und ihre spätere Freude am Helfen gehen dabei ineinander über, statt von Anfang an sauber getrennt zu sein.",
+      "anchor": "Der Liebesplan soll zuerst die eigenen Noten verbessern.",
+      "interest": "Fragt den Zweck statt erneut die beteiligten Figuren.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche familiäre Beziehung verbindet Josh (Paul Rudd) und Cher (Alicia Silverstone) in @?",
+      "answers": [
+        "Er ist ihr früherer Stiefbruder",
+        "Er ist ihr Cousin",
+        "Er ist ihr Halbbruder",
+        "Er ist der Verlobte ihrer Schwester"
+      ],
+      "feedback": [
+        "Josh ist Chers früherer Stiefbruder.",
+        "Er ist nicht ihr Cousin.",
+        "Sie sind keine Halbgeschwister.",
+        "Eine Schwesterverlobung begründet die Beziehung nicht."
+      ],
+      "short": "Josh ist Chers früherer Stiefbruder.",
+      "context": "Josh (Paul Rudd) war durch eine frühere Ehe von Chers Vater (Dan Hedaya) ihr Stiefbruder. Nach der Scheidung bleibt er der Familie verbunden und hält sich weiterhin im Haus auf. Cher (Alicia Silverstone) begegnet ihm deshalb mit einer Vertrautheit, die zunächst eher nach familiärer Reiberei als nach Anziehung aussieht. Die genaue Beziehung erklärt den gemeinsamen Alltag, ohne eine Blutsverwandtschaft zu behaupten, und ist für die spätere Veränderung ihrer Gefühle bedeutsam.",
+      "anchor": "Die frühere Stieffamilie schafft Vertrautheit ohne Blutsverwandtschaft.",
+      "interest": "Klärt die konkrete Beziehung innerhalb des Haushalts.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welcher Roman von Jane Austen bildet die erzählerische Vorlage für @?",
+      "answers": [
+        "Emma",
+        "Stolz und Vorurteil",
+        "Überredung",
+        "Mansfield Park"
+      ],
+      "feedback": [
+        "Die Geschichte überträgt Emma in ein modernes Schulmilieu.",
+        "Stolz und Vorurteil ist nicht die Vorlage.",
+        "Überredung bildet nicht den Ausgangspunkt.",
+        "Mansfield Park ist nicht die bearbeitete Geschichte."
+      ],
+      "short": "Die Geschichte überträgt Emma in ein modernes Schulmilieu.",
+      "context": "Amy Heckerling überträgt Jane Austens Emma in eine amerikanische Highschoolwelt. Cher (Alicia Silverstone) ähnelt der selbstsicheren Vermittlerin der Vorlage: Sie meint, andere Beziehungen durchschauen und verbessern zu können, erkennt die eigenen Gefühle aber spät. Die Verbindung liegt deshalb nicht in historischen Kostümen oder übernommenen Dialogen, sondern in Figurenfunktionen und Fehleinschätzungen. Ein modernes Milieu kann die Struktur eines älteren Romans bewahren und seine sozialen Voraussetzungen zugleich verändern.",
+      "anchor": "Die moderne Vermittlerin folgt Austens Emma.",
+      "interest": "Untersucht die literarische Struktur hinter dem Jugendfilm.",
+      "sources": [
+        "film",
+        "loc"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Von wem übernahm Amy Heckerling laut ihrem LoC-Interview das später titelgebende Wort für @?",
+      "answers": [
+        "Von ihrer Babysitterin",
+        "Von einer Castingassistentin",
+        "Von einer Kostümbildnerin",
+        "Von einer Lehrerin ihrer Tochter"
+      ],
+      "feedback": [
+        "Ihre Babysitterin verwendete das Wort.",
+        "Eine Castingassistentin lieferte es nach dem Bericht nicht.",
+        "Die Kostümabteilung ist nicht die genannte Quelle.",
+        "Eine Lehrerin wird dafür nicht genannt."
+      ],
+      "short": "Ihre Babysitterin verwendete das Wort.",
+      "context": "Amy Heckerling erzählt im Interviewbericht der Library of Congress, dass ihre Babysitterin das Wort clueless verwendete. Der Ausdruck fiel ihr auf und wurde zum Titel der Komödie. Das Detail verweist auf die Beobachtung alltäglicher Sprache als Ausgangspunkt des Schreibens. Der Titel beschreibt die selbstsicheren Fehlurteile der Hauptfigur, stammt aber laut Heckerlings eigener Erinnerung aus einem konkreten Gespräch ihres privaten Alltags und nicht aus einem eigens erfundenen Jugendwort.",
+      "anchor": "Ein Wort der Babysitterin wird zum Filmtitel.",
+      "interest": "Attribuiert eine konkrete sprachliche Entstehungsidee.",
+      "sources": [
+        "loc"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Alicia Silverstone und Paul Rudd erstmals veröffentlicht?",
+      "answers": [
+        "1995",
+        "1992",
+        "1997",
+        "2000"
+      ],
+      "feedback": [
+        "Der Film erschien 1995.",
+        "1992 liegt vor dieser Veröffentlichung.",
+        "1997 ist nicht das Erstjahr.",
+        "2000 bezeichnet nicht den Kinostart."
+      ],
+      "short": "Der Film erschien 1995.",
+      "context": "Clueless erschien 1995, dreizehn Jahre nach Amy Heckerlings Fast Times at Ridgemont High von 1982. Der gelesene Interviewbericht der Library of Congress verbindet beide Filme als Stationen ihrer Arbeit über Jugendliche. Der Abstand macht sichtbar, dass Heckerling zu einem vertrauten Themenfeld zurückkehrte, dabei aber ein anderes Milieu und eine literarisch angelegte Vermittlungsfigur wählte. Die beiden Jahreszahlen beziehen sich auf unterschiedliche Kinofilme, nicht auf Film und Fernsehserie.",
+      "anchor": "1982 Fast Times, 1995 Clueless: 13 Jahre.",
+      "interest": "Ordnet das Werk innerhalb der Regielaufbahn ein.",
+      "sources": [
+        "afi",
+        "loc"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Alicia Silverstone und Brittany Murphy Hauptregie?",
+      "answers": [
+        "Amy Heckerling",
+        "Penny Marshall",
+        "Nora Ephron",
+        "Susan Seidelman"
+      ],
+      "feedback": [
+        "Amy Heckerling schrieb und inszenierte den Film.",
+        "Marshall trägt diesen Regiecredit nicht.",
+        "Ephron führte hier nicht Hauptregie.",
+        "Seidelman ist nicht die Regisseurin."
+      ],
+      "short": "Amy Heckerling schrieb und inszenierte den Film.",
+      "context": "Amy Heckerling schrieb das Drehbuch und führte bei Clueless Regie. Die Verbindung beider Aufgaben ermöglicht die genaue Abstimmung zwischen Chers (Alicia Silverstone) selbstsicherer Erzählerstimme und den sichtbaren Folgen ihrer Entscheidungen. Ihre Absichten und ihre tatsächlichen Kenntnisse stimmen häufig nicht überein. Der Hauptregiecredit gehört zur Kinoproduktion mit Brittany Murphy als Tai; spätere Fernsehbearbeitungen sind eigene Produktionen und ersetzen diesen Credit nicht.",
+      "anchor": "Heckerling schreibt und inszeniert Chers Fehleinschätzungen.",
+      "interest": "Verknüpft Credit und die Perspektive der Hauptfigur.",
+      "sources": [
+        "afi",
+        "loc"
+      ]
+    }
+  ]
+}

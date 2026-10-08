@@ -1010,3 +1010,7 @@ Nutzerauftrag: alle neun Genres unter 100 Filmen sequenziell erweitern, beginnen
 ## 08.10.2026 – Genreausbau Musik
 
 24 neue Filmfassungen und 192 individuelle Fragen, nun 100 Musik-Filme / 830 Fragen. Gesamtkatalog 29 Pakete / 12.021 Fragen / 11.457 Ziele. 388 Logiktests, zehn Browserfälle sowie TypeScript/Build und Offlineprüfung bestanden. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](../../docs/Genres-100-2026-10-08/Musik/Pruefbericht.md).
+
+## 08.10.2026 – Genreausbau Rom-Com
+
+24 neue Filmfassungen und 192 individuelle Fragen, nun 100 Rom-Com-Filme / 830 Fragen. Gesamtkatalog 30 Pakete / 12.213 Fragen / 11.647 Ziele. 389 Logiktests in 65 Dateien, Produktionsbuild und elf isolierte Browserfälle bestanden. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](../../docs/Genres-100-2026-10-08/RomCom/Pruefbericht.md).

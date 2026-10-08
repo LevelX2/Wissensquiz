@@ -1,0 +1,212 @@
+{
+  "rank": 8,
+  "directors": [
+    "Peter Bogdanovich"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Eröffnung am 9. März 1972 vor dem AFI-Releasefeld 10. März. Gemeint ist der Spielfilm mit Barbra Streisand und Ryan O’Neal.",
+  "director_note": "Peter Bogdanovich führte allein Hauptregie. Buck Henry, David Newman und Robert Benton werden als Drehbuchautoren geführt.",
+  "series": null,
+  "familiarity_reason": "Bekannter später Vertreter der Screwball-Komödie; Bekanntheit 3. Taschenverwechslung und Filmreferenzen bieten unterschiedliche Detailziele.",
+  "notes": "AFI nennt bei Anything Goes widersprüchliche Musikautoren; kein Ziel zur Musikautorschaft. Mr. Smith/Mr. Jones sind laut AFI Creditnamen, keine im Dialog verwendeten Namen; keine darauf beruhende Namensfrage.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/What's_Up,_Doc%3F_(1972_film)",
+    "afi": "https://catalog.afi.com/Film/54720-WHATS-UP-DOC"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Weshalb reist Howard Bannister (Ryan O’Neal) in @ nach San Francisco?",
+      "answers": [
+        "Er bewirbt sich um ein Forschungsstipendium",
+        "Er tritt eine neue Hochschulstelle an",
+        "Er verteidigt seine Doktorarbeit",
+        "Er nimmt einen bereits verliehenen Forschungspreis entgegen"
+      ],
+      "feedback": [
+        "Howard konkurriert um ein Forschungsstipendium.",
+        "Eine zugesagte Hochschulstelle ist nicht der Reisegrund.",
+        "Eine Dissertation verteidigt er dort nicht.",
+        "Der Preis ist ihm nicht bereits verliehen."
+      ],
+      "short": "Howard konkurriert um ein Forschungsstipendium.",
+      "context": "Howard Bannister (Ryan O’Neal) reist nach San Francisco, um sich um ein Forschungsstipendium zu bewerben. Seine Verlobte Eunice Burns (Madeline Kahn) begleitet ihn und versucht, den Aufenthalt streng zu ordnen. Das fachliche Ziel wird jedoch von Begegnungen, Verwechslungen und einer Verfolgung überlagert. Gerade der geplante geregelte Auftritt vor möglichen Geldgebern schafft einen Ausgangspunkt, von dem aus die Handlung immer weiter in unkontrollierbare Situationen abweicht.",
+      "anchor": "Die geplante Stipendienbewerbung gerät in ein Verwechslungsabenteuer.",
+      "interest": "Benennt das eigenständige Reisevorhaben.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wie viele gleich aussehende karierte Reisetaschen geraten in @ durcheinander?",
+      "answers": [
+        "Vier",
+        "Zwei",
+        "Drei",
+        "Fünf"
+      ],
+      "feedback": [
+        "Vier Taschen sehen gleich aus und werden verwechselt.",
+        "Zwei erfassen nicht alle beteiligten Taschen.",
+        "Drei sind eine Tasche zu wenig.",
+        "Fünf ist nicht die gezeigte Zahl."
+      ],
+      "short": "Vier Taschen sehen gleich aus und werden verwechselt.",
+      "context": "Vier gleich aussehende karierte Reisetaschen treffen im Hotel aufeinander. Eine enthält Howards (Ryan O’Neal) Steine, eine Judys (Barbra Streisand) Kleidung, eine Schmuck und eine geheime Unterlagen. Die äußere Ähnlichkeit verdeckt also völlig unterschiedliche Inhalte und Interessen. Sobald die Taschen vertauscht werden, verfolgen mehrere Gruppen scheinbar dasselbe Objekt aus verschiedenen Gründen. Die Komödie benötigt dafür keine komplizierte technische Täuschung, sondern eine einfache wiederkehrende Verwechslung.",
+      "anchor": "Vier gleiche Taschen verbinden vier unterschiedliche Interessen.",
+      "interest": "Erfasst die Grundordnung der Verwechslung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Eigenschaft untersucht Howard Bannister (Ryan O’Neal) in @ an seinen mitgebrachten Steinen?",
+      "answers": [
+        "Ihre besonderen Klangeigenschaften",
+        "Ihre ungewöhnliche elektrische Leitfähigkeit",
+        "Ihre Fähigkeit, Wärme zu speichern",
+        "Ihre wechselnde magnetische Ausrichtung"
+      ],
+      "feedback": [
+        "Howard interessiert sich für die musikalischen Klänge der Steine.",
+        "Elektrische Leitfähigkeit ist nicht sein Untersuchungsziel.",
+        "Wärmespeicherung begründet die Forschung nicht.",
+        "Magnetische Ausrichtung ist nicht das Thema."
+      ],
+      "short": "Howard interessiert sich für die musikalischen Klänge der Steine.",
+      "context": "Howard Bannister (Ryan O’Neal) ist Musikwissenschaftler und untersucht Steine mit besonderen Klangeigenschaften. Was für andere wie gewöhnliches schweres Material aussieht, ist für ihn der Gegenstand einer Forschungsbewerbung. Die Steine bilden deshalb einen eigenen Wert innerhalb der Taschenverwechslung, obwohl andere Beteiligte Schmuck oder geheime Papiere erwarten. Seine konzentrierte fachliche Perspektive kollidiert mit der Umgebung, die dieselben Gegenstände ständig nach ganz anderen Interessen beurteilt.",
+      "anchor": "Die Steine sind für Howard musikalisches Forschungsmaterial.",
+      "interest": "Erklärt den besonderen Inhalt seiner Tasche.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Als wen stellt sich Judy (Barbra Streisand) beim Bankett in @ vor?",
+      "answers": [
+        "Als Eunice Burns (Madeline Kahn)",
+        "Als Mrs. Van Hoskins (Mabel Albertson)",
+        "Als Larrabees (Austin Pendleton) Assistentin",
+        "Als Hugh Simons (Kenneth Mars) Kollegin"
+      ],
+      "feedback": [
+        "Judy gibt sich als Howards Verlobte Eunice aus.",
+        "Sie übernimmt nicht die Identität der Schmuckbesitzerin.",
+        "Eine Assistentinnenstelle behauptet sie nicht.",
+        "Sie tritt nicht als Kollegin des Konkurrenten auf."
+      ],
+      "short": "Judy gibt sich als Howards Verlobte Eunice aus.",
+      "context": "Judy Maxwell (Barbra Streisand) erscheint beim Bankett als Eunice Burns (Madeline Kahn), die eigentliche Verlobte von Howard Bannister (Ryan O’Neal). Mit Witz und Wissen gewinnt sie die Anwesenden für sich. Howard lässt die Täuschung zu, weil er einen Vorteil für seine Bewerbung erwartet. Als die echte Eunice auftaucht, verteidigt er sogar die falsche Version. Die Identitätsverwechslung beruht daher nicht allein auf Judys Initiative, sondern auch auf seinem eigenen opportunistischen Mitwirken.",
+      "anchor": "Judy ersetzt Eunice beim Bankett, Howard spielt mit.",
+      "interest": "Prüft eine konkrete angenommene Identität.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Weshalb erhält Howard (Ryan O’Neal) in @ schließlich doch das Forschungsstipendium?",
+      "answers": [
+        "Sein Konkurrent wird als Plagiator entlarvt",
+        "Ein Geldgeber verdoppelt das Förderbudget",
+        "Die Jury teilt das Stipendium zwischen beiden Forschern",
+        "Der ursprüngliche Gewinner verzichtet freiwillig"
+      ],
+      "feedback": [
+        "Das aufgedeckte Plagiat verändert die Entscheidung.",
+        "Ein verdoppeltes Budget rettet die Bewerbung nicht.",
+        "Eine geteilte Förderung ist nicht die Auflösung.",
+        "Der Konkurrent zieht sich nicht freiwillig zurück."
+      ],
+      "short": "Das aufgedeckte Plagiat verändert die Entscheidung.",
+      "context": "Am Flughafen scheint Hugh Simon (Kenneth Mars) das Stipendium gewonnen zu haben. Judy Maxwell (Barbra Streisand) erkennt jedoch, dass seine Arbeit ein Plagiat ist, und entlarvt ihn. Dadurch erhält Howard Bannister (Ryan O’Neal) die Förderung. Das Ende führt sein ursprüngliches Reisevorhaben zu einem Ergebnis zurück, das weder die Verfolgung noch eine bloß günstige Bekanntschaft erklärt. Judys Wissen wird nun entscheidend, obwohl Howard sie zuvor vor allem als Ursache der Unordnung erlebt hatte.",
+      "anchor": "Judys Plagiatsnachweis rettet Howards Forschungsbewerbung.",
+      "interest": "Erfasst die konkrete Auflösung des ursprünglichen Reisevorhabens.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welchen früheren Film parodiert der letzte Dialog zwischen Judy und Howard (Barbra Streisand, Ryan O’Neal) in @?",
+      "answers": [
+        "Love Story",
+        "Die Reifeprüfung",
+        "Barfuß im Park",
+        "Bonnie und Clyde"
+      ],
+      "feedback": [
+        "Der Dialog spielt auf Love Story an.",
+        "Die Reifeprüfung liefert nicht die parodierte Schlussformel.",
+        "Barfuß im Park ist nicht die Dialogreferenz.",
+        "Bonnie und Clyde ist nicht die gesuchte Vorlage."
+      ],
+      "short": "Der Dialog spielt auf Love Story an.",
+      "context": "Judy Maxwell (Barbra Streisand) verwendet im Flugzeug eine bekannte Liebesformel aus Love Story, die Howard Bannister (Ryan O’Neal) sofort als unsinnig zurückweist. Der Witz erhält eine zusätzliche Ebene, weil O’Neal selbst die männliche Hauptrolle in Love Story gespielt hatte. Ein Darsteller widerspricht damit innerhalb eines neuen Films einer Formel, die mit seinem früheren Erfolg verbunden ist. Die romantische Versöhnung bleibt bestehen, während ihr feierlicher Ausdruck komisch gebrochen wird.",
+      "anchor": "O’Neals neue Figur widerspricht der Liebesformel seines früheren Films.",
+      "interest": "Erkennt die konkrete Filmreferenz mit Besetzungsbezug.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Barbra Streisand und Ryan O’Neal erstmals veröffentlicht?",
+      "answers": [
+        "1972",
+        "1969",
+        "1975",
+        "1978"
+      ],
+      "feedback": [
+        "Der Spielfilm erschien 1972.",
+        "1969 ist nicht das Erstjahr.",
+        "1975 liegt nach der Veröffentlichung.",
+        "1978 gehört nicht zur ursprünglichen Premiere."
+      ],
+      "short": "Der Spielfilm erschien 1972.",
+      "context": "Is’ was, Doc? erschien 1972, zweiundzwanzig Jahre nach dem gleichnamigen Warner-Cartoon von 1950. Das AFI nennt diesen früheren Kurzfilm und seine Verwendung in der Flugzeugszene. Der Abstand verbindet unterschiedliche Formen der Komödie: einen animierten Kurzfilm und einen Spielfilm mit realen Darstellern. Die sichtbare Vorführung des Cartoons gehört zur neuen Filmhandlung; sie macht die ältere Produktion nicht zu einer früheren Fassung desselben Spielfilms.",
+      "anchor": "1950 Cartoon, 1972 Spielfilm: 22 Jahre.",
+      "interest": "Trennt zwei Werke und erläutert die konkrete Verbindung.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Barbra Streisand und Ryan O’Neal Hauptregie?",
+      "answers": [
+        "Peter Bogdanovich",
+        "Blake Edwards",
+        "Mel Brooks",
+        "Mike Nichols"
+      ],
+      "feedback": [
+        "Peter Bogdanovich ist der Hauptregisseur.",
+        "Edwards inszenierte diese Komödie nicht.",
+        "Brooks trägt den Regiecredit nicht.",
+        "Nichols führte hier nicht Hauptregie."
+      ],
+      "short": "Peter Bogdanovich ist der Hauptregisseur.",
+      "context": "Peter Bogdanovich inszenierte Is’ was, Doc? mit Barbra Streisand und Ryan O’Neal. Buck Henry, David Newman und Robert Benton werden als Drehbuchautoren geführt. Die Hauptregie ist von diesen drei Schreibcredits zu unterscheiden. Die Gestaltung greift die schnelle Bewegung und die Wortgefechte der Screwball-Komödie auf, verbindet sie aber mit einer ausgedehnten Verfolgung durch San Francisco. Wiederkehrende Taschen und wechselnde Identitäten halten die verschiedenen Handlungsstränge zusammen.",
+      "anchor": "Bogdanovich inszeniert das Zusammenspiel von Wortgefecht und Verfolgung.",
+      "interest": "Verknüpft Hauptregie mit der konkreten Komödienform.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

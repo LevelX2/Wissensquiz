@@ -1,0 +1,3186 @@
+{
+  "date": "2026-10-08",
+  "scope": "Eigene Redaktion auf tatsächlich gelesenen Quellen; keine unabhängige zweite Vollrecherche.",
+  "questions": [
+    {
+      "question_id": "G100-20261008-ROMCOM-001-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-001-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die Voraussetzung der Beziehung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/City_Lights",
+          "checked_on": "2026-10-08",
+          "supports": "Sie kann nicht sehen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3886-CITY-LIGHTS",
+          "checked_on": "2026-10-08",
+          "supports": "Sie kann nicht sehen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-001-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-001-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst eine zentrale wiederkehrende Handlungsregel.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/City_Lights",
+          "checked_on": "2026-10-08",
+          "supports": "Im betrunkenen Zustand erkennt er den Tramp als Freund an."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3886-CITY-LIGHTS",
+          "checked_on": "2026-10-08",
+          "supports": "Im betrunkenen Zustand erkennt er den Tramp als Freund an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-001-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-001-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet Erwerbsarbeit und spätere Geldsuche.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/City_Lights",
+          "checked_on": "2026-10-08",
+          "supports": "Er nimmt eine Stelle als Straßenkehrer an."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3886-CITY-LIGHTS",
+          "checked_on": "2026-10-08",
+          "supports": "Er nimmt eine Stelle als Straßenkehrer an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-001-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-001-M2",
+      "goal_kind": "content",
+      "interest_reason": "Prüft den Umschlag einer konkreten Vereinbarung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/City_Lights",
+          "checked_on": "2026-10-08",
+          "supports": "Der Ersatzgegner macht beim verabredeten Kampf nicht mit."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3886-CITY-LIGHTS",
+          "checked_on": "2026-10-08",
+          "supports": "Der Ersatzgegner macht beim verabredeten Kampf nicht mit."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-001-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-001-S1",
+      "goal_kind": "content",
+      "interest_reason": "Untersucht die präzise Entstehung des Missverständnisses.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/City_Lights",
+          "checked_on": "2026-10-08",
+          "supports": "Sie deutet die Autotür als Hinweis auf seinen Besitz."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-001-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-001-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die Schlussauflösung ohne das offene Danach festzulegen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/City_Lights",
+          "checked_on": "2026-10-08",
+          "supports": "Die Berührung seiner Hand führt zum Wiedererkennen."
+        },
+        {
+          "key": "loc",
+          "url": "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/city_lights.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Die Berührung seiner Hand führt zum Wiedererkennen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-001-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-001-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ordnet die Form in den Übergang zum Tonfilm ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3886-CITY-LIGHTS",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste Veröffentlichung war 1931."
+        },
+        {
+          "key": "loc",
+          "url": "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/city_lights.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste Veröffentlichung war 1931."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-001-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-001-D",
+      "goal_kind": "director",
+      "interest_reason": "Verknüpft Hauptcredit und Darstellungsform.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/3886-CITY-LIGHTS",
+          "checked_on": "2026-10-08",
+          "supports": "Charlie Chaplin trägt den Hauptregiecredit."
+        },
+        {
+          "key": "loc",
+          "url": "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/city_lights.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Charlie Chaplin trägt den Hauptregiecredit."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-002-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-002-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die Verbindung von Gericht und Privatleben.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Adam's_Rib",
+          "checked_on": "2026-10-08",
+          "supports": "Beide arbeiten als Juristen."
+        },
+        {
+          "key": "universitaet",
+          "url": "https://www.utoronto.ca/news/big-screen-u-t-researcher-hollywood-s-depiction-women-law",
+          "checked_on": "2026-10-08",
+          "supports": "Beide arbeiten als Juristen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-002-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-002-L2",
+      "goal_kind": "content",
+      "interest_reason": "Benennt den konkreten Auslöser des zentralen Konflikts.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Adam's_Rib",
+          "checked_on": "2026-10-08",
+          "supports": "Doris schießt auf ihren untreuen Ehemann."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/watchtcm/titles/15824",
+          "checked_on": "2026-10-08",
+          "supports": "Doris schießt auf ihren untreuen Ehemann."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-002-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-002-M1",
+      "goal_kind": "content",
+      "interest_reason": "Fragt das Argument statt erneut die angeklagte Tat.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Adam's_Rib",
+          "checked_on": "2026-10-08",
+          "supports": "Amanda greift unterschiedliche Maßstäbe für Männer und Frauen an."
+        },
+        {
+          "key": "universitaet",
+          "url": "https://www.utoronto.ca/news/big-screen-u-t-researcher-hollywood-s-depiction-women-law",
+          "checked_on": "2026-10-08",
+          "supports": "Amanda greift unterschiedliche Maßstäbe für Männer und Frauen an."
+        },
+        {
+          "key": "tcm_dialog",
+          "url": "https://www.tcm.com/articles/89267/trivia-3-19-and-8-27-adams-rib",
+          "checked_on": "2026-10-08",
+          "supports": "Amanda greift unterschiedliche Maßstäbe für Männer und Frauen an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-002-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-002-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die konkrete Form einer Gerichtsvorführung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Adam's_Rib",
+          "checked_on": "2026-10-08",
+          "supports": "Olympia hebt Adam hoch."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/25613-ADAM%27S-RIB",
+          "checked_on": "2026-10-08",
+          "supports": "Olympia hebt Adam hoch."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-002-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-002-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet die Argumentation mit der überraschenden Requisite.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Adam's_Rib",
+          "checked_on": "2026-10-08",
+          "supports": "Die Pistole besteht aus essbarer Lakritz."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/25613-ADAM%27S-RIB",
+          "checked_on": "2026-10-08",
+          "supports": "Die Pistole besteht aus essbarer Lakritz."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-002-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-002-S2",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet den konkret überlieferten Namenswechsel von einer unbelegten Song-Umbenennung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/25613-ADAM%27S-RIB",
+          "checked_on": "2026-10-08",
+          "supports": "Nach Kanins von AFI referierter Erinnerung wollte Porter kein Lied für eine Madelaine genannte Figur schreiben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-002-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-002-Y",
+      "goal_kind": "year",
+      "interest_reason": "Trennt Kinofilm und spätere Fernsehbearbeitung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/25613-ADAM%27S-RIB",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1949."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-002-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-002-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die Zusammenarbeit im Hauptcredit ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/25613-ADAM%27S-RIB",
+          "checked_on": "2026-10-08",
+          "supports": "George Cukor ist der Hauptregisseur."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-003-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-003-L1",
+      "goal_kind": "content",
+      "interest_reason": "Ordnet den männlichen Protagonisten über seine Arbeit ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Paul ist Schriftsteller."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22674-BREAKFAST-ATTIFFANYS",
+          "checked_on": "2026-10-08",
+          "supports": "Paul ist Schriftsteller."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-003-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-003-L2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet ein sichtbares Detail mit ihrer Selbstbeschreibung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Katze hat keinen eigenen Namen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22674-BREAKFAST-ATTIFFANYS",
+          "checked_on": "2026-10-08",
+          "supports": "Die Katze hat keinen eigenen Namen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-003-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-003-M1",
+      "goal_kind": "content",
+      "interest_reason": "Fragt die verborgene Funktion eines wiederkehrenden Auftrags.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Meldungen dienen einem Drogenring als verschlüsselte Nachrichten."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22674-BREAKFAST-ATTIFFANYS",
+          "checked_on": "2026-10-08",
+          "supports": "Die Meldungen dienen einem Drogenring als verschlüsselte Nachrichten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-003-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-003-M2",
+      "goal_kind": "content",
+      "interest_reason": "Klärt die Beziehung hinter dem überraschenden Besuch.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Doc ist Hollys früherer Ehemann."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22674-BREAKFAST-ATTIFFANYS",
+          "checked_on": "2026-10-08",
+          "supports": "Doc ist Hollys früherer Ehemann."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-003-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-003-S1",
+      "goal_kind": "content",
+      "interest_reason": "Prüft die konkrete Herkunft der ungewöhnlichen Liebesgabe.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Ring war eine Beigabe in einer Cracker-Jack-Packung."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22674-BREAKFAST-ATTIFFANYS",
+          "checked_on": "2026-10-08",
+          "supports": "Der Ring war eine Beigabe in einer Cracker-Jack-Packung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-003-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-003-S2",
+      "goal_kind": "content",
+      "interest_reason": "Zeigt die eigene Abhängigkeit hinter seiner Beobachterrolle.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Geld gehört zur persönlichen Affäre."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22674-BREAKFAST-ATTIFFANYS",
+          "checked_on": "2026-10-08",
+          "supports": "Das Geld gehört zur persönlichen Affäre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-003-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-003-Y",
+      "goal_kind": "year",
+      "interest_reason": "Trennt literarische Veröffentlichung und Filmfassung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22674-BREAKFAST-ATTIFFANYS",
+          "checked_on": "2026-10-08",
+          "supports": "Die Weltpremiere fand 1961 statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-003-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-003-D",
+      "goal_kind": "director",
+      "interest_reason": "Unterscheidet Planung, Drehbuch und Hauptregie.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22674-BREAKFAST-ATTIFFANYS",
+          "checked_on": "2026-10-08",
+          "supports": "Blake Edwards inszenierte den fertigen Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-004-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-004-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die Erzählerstimme in seinem Beruf.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annie_Hall",
+          "checked_on": "2026-10-08",
+          "supports": "Alvy tritt als Komiker auf."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55190-ANNIE-HALL",
+          "checked_on": "2026-10-08",
+          "supports": "Alvy tritt als Komiker auf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-004-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-004-L2",
+      "goal_kind": "content",
+      "interest_reason": "Verfolgt ihr eigenes Ziel neben Alvys Erzählung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annie_Hall",
+          "checked_on": "2026-10-08",
+          "supports": "Annie möchte als Sängerin auftreten."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55190-ANNIE-HALL",
+          "checked_on": "2026-10-08",
+          "supports": "Annie möchte als Sängerin auftreten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-004-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-004-M1",
+      "goal_kind": "content",
+      "interest_reason": "Fragt die konkrete Ausgangssituation ihrer Annäherung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annie_Hall",
+          "checked_on": "2026-10-08",
+          "supports": "Sie begegnen sich beim Tennis."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55190-ANNIE-HALL",
+          "checked_on": "2026-10-08",
+          "supports": "Sie begegnen sich beim Tennis."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-004-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-004-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet einen konkreten Anlass mit der Wiederannäherung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annie_Hall",
+          "checked_on": "2026-10-08",
+          "supports": "Annie ruft wegen einer Spinne an."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55190-ANNIE-HALL",
+          "checked_on": "2026-10-08",
+          "supports": "Annie ruft wegen einer Spinne an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-004-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-004-S1",
+      "goal_kind": "content",
+      "interest_reason": "Prüft eine konkrete Erzähltechnik statt weiterer Plotprämissen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annie_Hall",
+          "checked_on": "2026-10-08",
+          "supports": "Die Untertitel machen die Gedanken hinter dem Gespräch sichtbar."
+        },
+        {
+          "key": "loc",
+          "url": "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/anniehall2.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Die Untertitel machen die Gedanken hinter dem Gespräch sichtbar."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-004-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-004-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die bewusste Umgestaltung der Schlussgeschichte.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Annie_Hall",
+          "checked_on": "2026-10-08",
+          "supports": "Im Stück erhält die Beziehung den gewünschten glücklichen Ausgang."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55190-ANNIE-HALL",
+          "checked_on": "2026-10-08",
+          "supports": "Im Stück erhält die Beziehung den gewünschten glücklichen Ausgang."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-004-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-004-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet Veröffentlichung und spätere Darstellung des Schnittprozesses.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55190-ANNIE-HALL",
+          "checked_on": "2026-10-08",
+          "supports": "Die Erstveröffentlichung war 1977."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-004-D",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-070-S-1",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die Regiezusammenarbeit mit Diane Keaton ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55190-ANNIE-HALL",
+          "checked_on": "2026-10-08",
+          "supports": "Woody Allen führte selbst Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-005-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-005-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die soziale Welt des Films.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Clueless",
+          "checked_on": "2026-10-08",
+          "supports": "Chers Alltag spielt im Milieu von Beverly Hills."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.paramountplus.com/sneak-peak/where-to-watch-clueless/",
+          "checked_on": "2026-10-08",
+          "supports": "Chers Alltag spielt im Milieu von Beverly Hills."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-005-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-005-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst ein zentrales Vorhaben und seine soziale Wirkung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Clueless",
+          "checked_on": "2026-10-08",
+          "supports": "Sie verändern Tais Kleidung und Auftreten."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.paramountplus.com/sneak-peak/where-to-watch-clueless/",
+          "checked_on": "2026-10-08",
+          "supports": "Sie verändern Tais Kleidung und Auftreten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-005-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-005-M1",
+      "goal_kind": "content",
+      "interest_reason": "Fragt den Zweck statt erneut die beteiligten Figuren.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Clueless",
+          "checked_on": "2026-10-08",
+          "supports": "Cher will ihre Noten verbessern."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-005-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-005-M2",
+      "goal_kind": "content",
+      "interest_reason": "Klärt die konkrete Beziehung innerhalb des Haushalts.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Clueless",
+          "checked_on": "2026-10-08",
+          "supports": "Josh ist Chers früherer Stiefbruder."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-005-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-005-S1",
+      "goal_kind": "content",
+      "interest_reason": "Untersucht die literarische Struktur hinter dem Jugendfilm.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Clueless",
+          "checked_on": "2026-10-08",
+          "supports": "Die Geschichte überträgt Emma in ein modernes Schulmilieu."
+        },
+        {
+          "key": "loc",
+          "url": "https://blogs.loc.gov/loc/2026/02/how-amy-heckerlings-babysitter-helped-create-clueless-now-in-the-national-film-registry/",
+          "checked_on": "2026-10-08",
+          "supports": "Die Geschichte überträgt Emma in ein modernes Schulmilieu."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-005-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-005-S2",
+      "goal_kind": "content",
+      "interest_reason": "Attribuiert eine konkrete sprachliche Entstehungsidee.",
+      "sources": [
+        {
+          "key": "loc",
+          "url": "https://blogs.loc.gov/loc/2026/02/how-amy-heckerlings-babysitter-helped-create-clueless-now-in-the-national-film-registry/",
+          "checked_on": "2026-10-08",
+          "supports": "Ihre Babysitterin verwendete das Wort."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-005-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-005-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ordnet das Werk innerhalb der Regielaufbahn ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67154-CLUELESS",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1995."
+        },
+        {
+          "key": "loc",
+          "url": "https://blogs.loc.gov/loc/2026/02/how-amy-heckerlings-babysitter-helped-create-clueless-now-in-the-national-film-registry/",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1995."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-005-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-005-D",
+      "goal_kind": "director",
+      "interest_reason": "Verknüpft Credit und die Perspektive der Hauptfigur.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67154-CLUELESS",
+          "checked_on": "2026-10-08",
+          "supports": "Amy Heckerling schrieb und inszenierte den Film."
+        },
+        {
+          "key": "loc",
+          "url": "https://blogs.loc.gov/loc/2026/02/how-amy-heckerlings-babysitter-helped-create-clueless-now-in-the-national-film-registry/",
+          "checked_on": "2026-10-08",
+          "supports": "Amy Heckerling schrieb und inszenierte den Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-006-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-006-L1",
+      "goal_kind": "content",
+      "interest_reason": "Ordnet den Ausgangsalltag der Hauptfigur ein.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding",
+          "checked_on": "2026-10-08",
+          "supports": "Julianne arbeitet als Restaurantkritikerin."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypicturesmuseum.com/collection/film/701/my-best-friend-s-wedding.html",
+          "checked_on": "2026-10-08",
+          "supports": "Julianne arbeitet als Restaurantkritikerin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-006-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-006-L2",
+      "goal_kind": "content",
+      "interest_reason": "Fragt einen konkreten Schauplatz ohne die Rivalinnenkonstellation zu wiederholen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding",
+          "checked_on": "2026-10-08",
+          "supports": "Die Hochzeit findet in Chicago statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-006-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-006-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst eine konkrete Tarnrolle.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding",
+          "checked_on": "2026-10-08",
+          "supports": "George spielt ihren angeblichen Verlobten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-006-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-006-M2",
+      "goal_kind": "content",
+      "interest_reason": "Prüft die Umkehrung eines konkreten Sabotageplans.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding",
+          "checked_on": "2026-10-08",
+          "supports": "Der Auftritt verschafft Kimmy Sympathie und Unterstützung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-006-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-006-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verfolgt die konkrete Ursache der folgenreichen Nachricht.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding",
+          "checked_on": "2026-10-08",
+          "supports": "Die Sekretärin sendet den Entwurf mit den übrigen Nachrichten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-006-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-006-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die konkrete Schlussbegegnung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding",
+          "checked_on": "2026-10-08",
+          "supports": "George überrascht sie bei der Feier und tanzt mit ihr."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-006-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-006-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet den Film mit einer späteren belegten Bühnenproduktion.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/61087",
+          "checked_on": "2026-10-08",
+          "supports": "Der Originalfilm erschien 1997."
+        },
+        {
+          "key": "buehne",
+          "url": "https://www.ogunquitplayhouse.org/show/2024-my-best-friends-wedding/",
+          "checked_on": "2026-10-08",
+          "supports": "Der Originalfilm erschien 1997."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-006-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-006-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet Hauptregie und Produktion korrekt zu.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/61087",
+          "checked_on": "2026-10-08",
+          "supports": "P. J. Hogan ist der Hauptregisseur."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypicturesmuseum.com/collection/film/701/my-best-friend-s-wedding.html",
+          "checked_on": "2026-10-08",
+          "supports": "P. J. Hogan ist der Hauptregisseur."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-007-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-007-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die Beziehung in einer konkreten Situation.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Harold_and_Maude",
+          "checked_on": "2026-10-08",
+          "supports": "Sie treffen sich bei der Beerdigung eines Fremden."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54046-HAROLD-AND-MAUDE",
+          "checked_on": "2026-10-08",
+          "supports": "Sie treffen sich bei der Beerdigung eines Fremden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-007-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-007-L2",
+      "goal_kind": "content",
+      "interest_reason": "Prüft die wiederkehrende Handlung statt eine tatsächliche Selbsttötung zu behaupten.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Harold_and_Maude",
+          "checked_on": "2026-10-08",
+          "supports": "Harold führt scheinbare Suizide vor."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54046-HAROLD-AND-MAUDE",
+          "checked_on": "2026-10-08",
+          "supports": "Harold führt scheinbare Suizide vor."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-007-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-007-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die Umkehrung eines mütterlichen Normalisierungsversuchs.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Harold_and_Maude",
+          "checked_on": "2026-10-08",
+          "supports": "Harold verwandelt den Jaguar in einen Leichenwagen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54046-HAROLD-AND-MAUDE",
+          "checked_on": "2026-10-08",
+          "supports": "Harold verwandelt den Jaguar in einen Leichenwagen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-007-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-007-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet Maudes Haltung mit einer konkreten gemeinsamen Tat.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Harold_and_Maude",
+          "checked_on": "2026-10-08",
+          "supports": "Maude und Harold bringen den Baum in den Wald."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-007-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-007-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt eine präzise biografische Andeutung ohne unbewiesene Zusätze.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Harold_and_Maude",
+          "checked_on": "2026-10-08",
+          "supports": "Er bemerkt eine Nummerntätowierung."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54046-HAROLD-AND-MAUDE",
+          "checked_on": "2026-10-08",
+          "supports": "Er bemerkt eine Nummerntätowierung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-007-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-007-S2",
+      "goal_kind": "content",
+      "interest_reason": "Klärt die zentrale Schlussauflösung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Harold_and_Maude",
+          "checked_on": "2026-10-08",
+          "supports": "Harold steht lebend auf der Klippe und spielt Banjo."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54046-HAROLD-AND-MAUDE",
+          "checked_on": "2026-10-08",
+          "supports": "Harold steht lebend auf der Klippe und spielt Banjo."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-007-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-007-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet zwei konkrete Stationen verschiedener künstlerischer Aufgaben.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54046-HAROLD-AND-MAUDE",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1971."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/2337-harold-and-maude-life-and-how-to-live-it",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1971."
+        },
+        {
+          "key": "gordon",
+          "url": "https://catalog.afi.com/Film/25613-ADAM%27S-RIB",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1971."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-007-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-007-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet den vollständigen Hauptcredit ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54046-HAROLD-AND-MAUDE",
+          "checked_on": "2026-10-08",
+          "supports": "Hal Ashby ist der Hauptregisseur."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/27896-harold-and-maude",
+          "checked_on": "2026-10-08",
+          "supports": "Hal Ashby ist der Hauptregisseur."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-008-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-008-L1",
+      "goal_kind": "content",
+      "interest_reason": "Benennt das eigenständige Reisevorhaben.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/What's_Up,_Doc%3F_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Howard konkurriert um ein Forschungsstipendium."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54720-WHATS-UP-DOC",
+          "checked_on": "2026-10-08",
+          "supports": "Howard konkurriert um ein Forschungsstipendium."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-008-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-008-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die Grundordnung der Verwechslung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/What's_Up,_Doc%3F_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Vier Taschen sehen gleich aus und werden verwechselt."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54720-WHATS-UP-DOC",
+          "checked_on": "2026-10-08",
+          "supports": "Vier Taschen sehen gleich aus und werden verwechselt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-008-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-008-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den besonderen Inhalt seiner Tasche.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/What's_Up,_Doc%3F_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Howard interessiert sich für die musikalischen Klänge der Steine."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54720-WHATS-UP-DOC",
+          "checked_on": "2026-10-08",
+          "supports": "Howard interessiert sich für die musikalischen Klänge der Steine."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-008-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-008-M2",
+      "goal_kind": "content",
+      "interest_reason": "Prüft eine konkrete angenommene Identität.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/What's_Up,_Doc%3F_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Judy gibt sich als Howards Verlobte Eunice aus."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54720-WHATS-UP-DOC",
+          "checked_on": "2026-10-08",
+          "supports": "Judy gibt sich als Howards Verlobte Eunice aus."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-008-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-008-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die konkrete Auflösung des ursprünglichen Reisevorhabens.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/What's_Up,_Doc%3F_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das aufgedeckte Plagiat verändert die Entscheidung."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54720-WHATS-UP-DOC",
+          "checked_on": "2026-10-08",
+          "supports": "Das aufgedeckte Plagiat verändert die Entscheidung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-008-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-008-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Filmreferenz mit Besetzungsbezug.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/What's_Up,_Doc%3F_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Dialog spielt auf Love Story an."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54720-WHATS-UP-DOC",
+          "checked_on": "2026-10-08",
+          "supports": "Der Dialog spielt auf Love Story an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-008-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-008-Y",
+      "goal_kind": "year",
+      "interest_reason": "Trennt zwei Werke und erläutert die konkrete Verbindung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54720-WHATS-UP-DOC",
+          "checked_on": "2026-10-08",
+          "supports": "Der Spielfilm erschien 1972."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-008-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-008-D",
+      "goal_kind": "director",
+      "interest_reason": "Verknüpft Hauptregie mit der konkreten Komödienform.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54720-WHATS-UP-DOC",
+          "checked_on": "2026-10-08",
+          "supports": "Peter Bogdanovich ist der Hauptregisseur."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-009-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-009-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf erschließt die Figur, ohne bloß einen Darsteller zu suchen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Paul arbeitet als Rechtsanwalt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-009-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-009-L2",
+      "goal_kind": "content",
+      "interest_reason": "Eine sichtbare Eigenschaft des Schauplatzes bleibt leicht erinnerbar.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Wohnung hat keinen Aufzug."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-009-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-009-M1",
+      "goal_kind": "content",
+      "interest_reason": "Das Ziel unterscheidet die arrangierte Paarung von bloßer Anziehung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Corie will ihre Mutter mit Victor zusammenbringen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-009-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-009-M2",
+      "goal_kind": "content",
+      "interest_reason": "Das konkrete Lokal prägt einen zentralen gemeinsamen Abend.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Ausflug führt in ein albanisches Restaurant."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-009-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-009-S1",
+      "goal_kind": "content",
+      "interest_reason": "Der Zugang ist eine konkrete räumliche Pointe statt allgemeiner Nachbarschaftskunde.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Victors Weg führt durch das Fenster der Bratters."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22475-BAREFOOT-IN-THE-PARK",
+          "checked_on": "2026-10-08",
+          "supports": "Victors Weg führt durch das Fenster der Bratters."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-009-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-009-S2",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkreter Anlass löst das Missverständnis um die Mutter auf.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ethel stürzt auf eisigen Stufen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-009-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-009-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die belegte Theaterpremiere erklärt eine leicht verwechselbare frühere Jahreszahl.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22475-BAREFOOT-IN-THE-PARK",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien erstmals 1967."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-009-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-009-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Fassungsabgrenzung verhindert eine plausible Credit-Verwechslung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22475-BAREFOOT-IN-THE-PARK",
+          "checked_on": "2026-10-08",
+          "supports": "Gene Saks führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-010-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-010-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Arbeitsplatz erschließt das Milieu und die Nebenfiguren.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Fidelity_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Rob betreibt den Laden Championship Vinyl."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-010-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-010-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Liste ist ein leicht erkennbares Erzählprinzip mit eigenem Inhalt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Fidelity_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Rob zählt seine fünf prägendsten Trennungen auf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-010-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-010-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Schauplatzverschiebung unterscheidet die Adaption von ihrer Vorlage.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Fidelity_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Handlung spielt in Chicago."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-010-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-010-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Anlass erklärt die Annäherung ohne sie zur automatischen Heilung zu erklären.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Fidelity_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Lauras Vater stirbt; die Trauer verbindet das Paar wieder."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-010-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-010-S1",
+      "goal_kind": "content",
+      "interest_reason": "Ein kleiner Schlussentscheid zeigt Veränderung genauer als ein allgemeines Liebesbekenntnis.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Fidelity_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Rob stellt diesmal Lauras Geschmack in den Mittelpunkt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-010-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-010-S2",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkreter musikalischer Auftritt verlangt mehr als Kenntnis des Ladenmilieus.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Fidelity_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Barry überrascht mit Let’s Get It On."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-010-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-010-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zwei belegte Filme desselben Regisseurs geben einen anschaulichen Abstand.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/379b71f4-57d7-5228-b0cd-087b599ee9a2/high-fidelity",
+          "checked_on": "2026-10-08",
+          "supports": "Das Erstjahr ist 2000."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/221585c1-d6b0-550d-86dc-6487a87f3171/dangerous-liaisons",
+          "checked_on": "2026-10-08",
+          "supports": "Das Erstjahr ist 2000."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-010-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-010-D",
+      "goal_kind": "director",
+      "interest_reason": "Der vollständige Hauptcredit wird von weiteren kreativen Aufgaben abgegrenzt.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/379b71f4-57d7-5228-b0cd-087b599ee9a2/high-fidelity",
+          "checked_on": "2026-10-08",
+          "supports": "Stephen Frears inszenierte die Verfilmung."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/High_Fidelity_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Stephen Frears inszenierte die Verfilmung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-011-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-011-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Bühnenberuf gehört zur klaren Ausgangslage.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Sick",
+          "checked_on": "2026-10-08",
+          "supports": "Kumail arbeitet an einer Stand-up-Karriere."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-011-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-011-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das zentrale Figurenpaar der Krankenhausphase ist leicht erkennbar.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Sick",
+          "checked_on": "2026-10-08",
+          "supports": "Kumail lernt Emilys Eltern näher kennen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-011-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-011-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkreter Fund erklärt den Bruch genauer als eine pauschale Kulturbehauptung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Sick",
+          "checked_on": "2026-10-08",
+          "supports": "Emily findet Fotos von Frauen, die Kumails Familie als Ehepartnerinnen vorsieht."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-011-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-011-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Inhalt der Entscheidung ist ein eigenes Handlungsglied.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Sick",
+          "checked_on": "2026-10-08",
+          "supports": "Er unterschreibt die Zustimmung zum medizinisch eingeleiteten Koma."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-011-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-011-S1",
+      "goal_kind": "content",
+      "interest_reason": "Gesucht ist eine ausdrücklich genannte Filmdiagnose, keine medizinische Einschätzung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Sick",
+          "checked_on": "2026-10-08",
+          "supports": "Die Filmdiagnose lautet Still-Syndrom bei Erwachsenen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-011-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-011-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Schlussgestaltung ist ein eigenständiges, wichtiges Auflösungsziel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Sick",
+          "checked_on": "2026-10-08",
+          "supports": "Emily meldet sich aus dem Publikum eines New Yorker Auftritts."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-011-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-011-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zoe Kazans unterschiedliche kreative Aufgaben machen den Jahresabstand konkret.",
+      "sources": [
+        {
+          "key": "sundance",
+          "url": "https://www.sundance.org/blogs/premieres-midnight-kids-and-more-latest-additions-to-2017-sundance-film-festival-lineup-3/",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film wurde erstmals 2017 gezeigt."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/daafdfdf-7362-55bf-bda2-4d52d24573ef/ruby-sparks",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film wurde erstmals 2017 gezeigt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-011-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-011-D",
+      "goal_kind": "director",
+      "interest_reason": "Regie, autobiografische Vorlage und Hauptrolle werden klar getrennt.",
+      "sources": [
+        {
+          "key": "sundance",
+          "url": "https://www.sundance.org/blogs/premieres-midnight-kids-and-more-latest-additions-to-2017-sundance-film-festival-lineup-3/",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Showalter führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Sick",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Showalter führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-012-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-012-L1",
+      "goal_kind": "content",
+      "interest_reason": "Das anfängliche Liebesziel ist von der späteren Entwicklung getrennt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
+          "checked_on": "2026-10-08",
+          "supports": "Pat will wieder mit Nikki zusammenkommen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-012-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-012-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Vereinbarung erklärt den Einstieg in die gemeinsame Aktivität.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
+          "checked_on": "2026-10-08",
+          "supports": "Tiffany verlangt Pat als Tanzpartner."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-012-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-012-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Mannschaft ist ein präzises, wiederkehrendes Motiv.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
+          "checked_on": "2026-10-08",
+          "supports": "Pat Sr. ist Anhänger der Philadelphia Eagles."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-012-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-012-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die genaue Schwelle erklärt eine sonst überraschende Publikumsreaktion.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
+          "checked_on": "2026-10-08",
+          "supports": "Die Tänzer müssen mindestens fünf von zehn Punkten erreichen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-012-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-012-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Schlussenthüllung beruht auf einem konkreten sprachlichen Indiz.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
+          "checked_on": "2026-10-08",
+          "supports": "Eine typische Formulierung weist auf Tiffany hin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-012-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-012-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete musikalische Verknüpfung ist ein anderes Ziel als Mannschaft oder Tanzwertung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
+          "checked_on": "2026-10-08",
+          "supports": "Das musikalische Reizmotiv ist My Cherie Amour."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-012-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-012-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Regisseur und das Familienmilieu verbinden zwei klar datierte Werke.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/film-week-silver-linings-playbook",
+          "checked_on": "2026-10-08",
+          "supports": "Silver Linings erschien erstmals 2012."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-012-D",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-081-S-2",
+      "goal_kind": "director",
+      "interest_reason": "Der Credit verbindet die Regie und das Drehbuch dieser Romanverfilmung.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/film-week-silver-linings-playbook",
+          "checked_on": "2026-10-08",
+          "supports": "David O. Russell führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-013-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-013-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Ware ist leicht erkennbar und charakterisiert das Arbeitsmilieu.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Punch-Drunk_Love",
+          "checked_on": "2026-10-08",
+          "supports": "Barry handelt mit ungewöhnlichen Toilettensaugern."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-013-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-013-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das Reiseziel gehört zum klar sichtbaren Verlauf der Annäherung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Punch-Drunk_Love",
+          "checked_on": "2026-10-08",
+          "supports": "Barry sucht Lena auf Hawaii auf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-013-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-013-M1",
+      "goal_kind": "content",
+      "interest_reason": "Das Ziel erklärt ein auffälliges Motiv und vermeidet eine falsche unmittelbare Auszahlung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Punch-Drunk_Love",
+          "checked_on": "2026-10-08",
+          "supports": "Die Puddingkäufe sollen Barry viele Flugmeilen verschaffen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-013-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-013-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der konkrete Auslöser trennt die Bedrohung von Barrys späterer Liebesbeziehung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Punch-Drunk_Love",
+          "checked_on": "2026-10-08",
+          "supports": "Der Telefonsex-Anruf setzt die Erpressung in Gang."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-013-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-013-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die genaue Umgebung der Konfrontation verlangt Erinnerung an eine spätere Szene.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Punch-Drunk_Love",
+          "checked_on": "2026-10-08",
+          "supports": "Dean betreibt einen Matratzenladen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-013-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-013-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der konkrete Beziehungsbruch unterscheidet sich vom Ursprung der Erpressung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Punch-Drunk_Love",
+          "checked_on": "2026-10-08",
+          "supports": "Lena ist verletzt, weil Barry sie im Krankenhaus zurückgelassen hat."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-013-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-013-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ein markanter Wechsel der erzählerischen Größenordnung macht den Abstand merkbar.",
+      "sources": [
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/punch-drunk-love/",
+          "checked_on": "2026-10-08",
+          "supports": "Punch-Drunk Love erschien erstmals 2002."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/a5cbe0af-dae7-5b36-90f6-2212137dcc65/magnolia",
+          "checked_on": "2026-10-08",
+          "supports": "Punch-Drunk Love erschien erstmals 2002."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Punch-Drunk_Love",
+          "checked_on": "2026-10-08",
+          "supports": "Punch-Drunk Love erschien erstmals 2002."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-013-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-013-D",
+      "goal_kind": "director",
+      "interest_reason": "Der volle Name verhindert die Verwechslung zweier bekannter Anderson-Regisseure.",
+      "sources": [
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/punch-drunk-love/",
+          "checked_on": "2026-10-08",
+          "supports": "Paul Thomas Anderson führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Punch-Drunk_Love",
+          "checked_on": "2026-10-08",
+          "supports": "Paul Thomas Anderson führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-014-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-014-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Ausrede macht den heimlichen Alltag der Figur verständlich.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+          "checked_on": "2026-10-08",
+          "supports": "Jess tarnt das Training als Ferienjob."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-014-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-014-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die sichtbare Terminkollision ist ein eigenes leichtes Inhaltsziel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+          "checked_on": "2026-10-08",
+          "supports": "Pinkys Hochzeit und das Spiel finden am selben Tag statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-014-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-014-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der Anlass vertieft den Familienkonflikt über pauschale Traditionsbehauptungen hinaus.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+          "checked_on": "2026-10-08",
+          "supports": "Der Vater erinnert sich an rassistische Ausgrenzung im Cricket."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-014-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-014-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der genaue Anlass unterscheidet den Freundschaftskonflikt vom Streit mit den Eltern.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+          "checked_on": "2026-10-08",
+          "supports": "Jules reagiert eifersüchtig auf Jess und Joe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-014-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-014-S1",
+      "goal_kind": "content",
+      "interest_reason": "Das konkrete Medium der Entdeckung verlangt genaue Handlungserinnerung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Zeitungsfoto macht die heimliche Reise sichtbar."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-014-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-014-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Schlusschance ist von der bekannten Sportart der Figuren getrennt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+          "checked_on": "2026-10-08",
+          "supports": "Die Stipendien führen nach Santa Clara in Kalifornien."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-014-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-014-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der frühere Film derselben Regisseurin liefert einen belegten Werkanker.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/07acc94c-5b89-5dc9-b894-e36a3d77cc0e/bend-it-like-beckham",
+          "checked_on": "2026-10-08",
+          "supports": "Die Erstveröffentlichung erfolgte 2002."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/41f51c72-2576-5915-92c4-498404aa5bb2/bhaji-on-the-beach",
+          "checked_on": "2026-10-08",
+          "supports": "Die Erstveröffentlichung erfolgte 2002."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+          "checked_on": "2026-10-08",
+          "supports": "Die Erstveröffentlichung erfolgte 2002."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-014-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-014-D",
+      "goal_kind": "director",
+      "interest_reason": "Der vollständige Hauptcredit bleibt trotz mehrerer kreativer Aufgaben eindeutig.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/07acc94c-5b89-5dc9-b894-e36a3d77cc0e/bend-it-like-beckham",
+          "checked_on": "2026-10-08",
+          "supports": "Gurinder Chadha führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+          "checked_on": "2026-10-08",
+          "supports": "Gurinder Chadha führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-015-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-015-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Magazinname ist eine klare Orientierung im Erwachsenenalltag.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/13_Going_on_30",
+          "checked_on": "2026-10-08",
+          "supports": "Jenna arbeitet für Poise."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-015-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-015-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf verbindet Mattys eigene Lebenssituation mit dem Handlungsverlauf.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/13_Going_on_30",
+          "checked_on": "2026-10-08",
+          "supports": "Matty arbeitet als Fotograf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-015-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-015-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der Gegenstand ist ein eigenes konkretes Motiv und keine Altersfrage.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/13_Going_on_30",
+          "checked_on": "2026-10-08",
+          "supports": "Matty hat für Jenna ein Puppenhaus gebaut."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-015-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-015-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die bekannte Szene erhält ein präzises musikalisches Ziel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/13_Going_on_30",
+          "checked_on": "2026-10-08",
+          "supports": "Jenna beginnt die gemeinsame Thriller-Tanzfolge."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-015-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-015-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die überraschende Urheberschaft ist eine wichtige spätere Enthüllung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/13_Going_on_30",
+          "checked_on": "2026-10-08",
+          "supports": "Jenna selbst hatte Poise zuvor sabotiert."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-015-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-015-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete neue Entscheidung löst die ursprüngliche Demütigung auf.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/13_Going_on_30",
+          "checked_on": "2026-10-08",
+          "supports": "Jenna zerreißt die Hausaufgaben und beendet ihre Unterordnung unter die Clique."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-015-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-015-Y",
+      "goal_kind": "year",
+      "interest_reason": "Eine verwandte Verwandlungsfantasie liefert einen konkreten und anschaulichen Zeitabstand.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/f0026709-8f40-5c57-9d1d-c4bca34933b2/13-going-on-30",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien erstmals 2004."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/48d6112c-e6d7-5460-991e-5fd89f765ac2/big",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien erstmals 2004."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-015-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-015-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Regiecredit bleibt von Darstellerinnen und verwandten Verwandlungsfilmen getrennt.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/f0026709-8f40-5c57-9d1d-c4bca34933b2/13-going-on-30",
+          "checked_on": "2026-10-08",
+          "supports": "Gary Winick führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/13_Going_on_30",
+          "checked_on": "2026-10-08",
+          "supports": "Gary Winick führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-016-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-016-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf erklärt das erste Zusammentreffen des Paars.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Friends_with_Benefits_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jamie arbeitet als Headhunterin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-016-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-016-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der Arbeitgeber ist ein eigenständiges leichtes Ziel neben Jamies Beruf.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Friends_with_Benefits_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Dylan wechselt als Art Director zu GQ."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-016-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-016-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete finanzielle Verbindung vertieft den beruflichen Ausgangspunkt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Friends_with_Benefits_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Dylans vorzeitiger Weggang könnte Jamies Provision kosten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-016-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-016-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Wortinhalt ist vom späteren finanziellen Streit zu unterscheiden.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Friends_with_Benefits_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jamie hört, dass Dylan sie für zu beschädigt hält."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-016-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-016-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die persönliche Vorgeschichte ist ein eigenes späteres Inhaltsziel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Friends_with_Benefits_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Er bereut, eine große Liebe nicht festgehalten zu haben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-016-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-016-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der genaue Ort unterscheidet die Schlussgeste von früheren Stadtszenen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Friends_with_Benefits_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Flashmob findet in Grand Central statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-016-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-016-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die beiden eng aufeinanderfolgenden Gluck-Komödien liefern einen konkreten Werkanker.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/8a282c5c-f3c6-5a86-998a-67d5b56f835f/friends-with-benefits",
+          "checked_on": "2026-10-08",
+          "supports": "Das erste Veröffentlichungsjahr ist 2011."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/96b5e9bb-6bd7-56ec-80e8-c4123a0174f7/easy-a",
+          "checked_on": "2026-10-08",
+          "supports": "Das erste Veröffentlichungsjahr ist 2011."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Friends_with_Benefits_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das erste Veröffentlichungsjahr ist 2011."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-016-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-016-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Hauptcredit wird von dem ähnlich angelegten Film Freundschaft Plus getrennt.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/8a282c5c-f3c6-5a86-998a-67d5b56f835f/friends-with-benefits",
+          "checked_on": "2026-10-08",
+          "supports": "Will Gluck führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Friends_with_Benefits_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Will Gluck führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-017-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-017-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf verbindet Liebesgeschichte und Geschäftswelt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love_%26_Other_Drugs",
+          "checked_on": "2026-10-08",
+          "supports": "Jamie arbeitet im Außendienst eines Pharmaunternehmens."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-017-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-017-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Diagnose erklärt den Grundkonflikt der Beziehung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love_%26_Other_Drugs",
+          "checked_on": "2026-10-08",
+          "supports": "Maggie lebt mit früh einsetzender Parkinson-Erkrankung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-017-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-017-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Verkaufstaktik zeigt Jamies anfängliche Skrupellosigkeit.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love_%26_Other_Drugs",
+          "checked_on": "2026-10-08",
+          "supports": "Jamie beseitigt die Arzneimittelmuster seines Konkurrenten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-017-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-017-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Episode verbindet den sozialen Blick mit der zentralen Branche.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love_%26_Other_Drugs",
+          "checked_on": "2026-10-08",
+          "supports": "Die Reisenden wollen in Kanada günstiger Medikamente kaufen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-017-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-017-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage erschließt den emotionalen Wendepunkt jenseits der Diagnose.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love_%26_Other_Drugs",
+          "checked_on": "2026-10-08",
+          "supports": "Maggie fühlt sich nur unter der Bedingung einer Heilung angenommen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-017-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-017-S2",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkretes Erinnerungsmedium trägt die Schlussentscheidung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love_%26_Other_Drugs",
+          "checked_on": "2026-10-08",
+          "supports": "Jamie sieht eine Videoaufnahme ihrer Beziehung wieder."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-017-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-017-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die literarische Quelle gibt einen konkreten Jahresanker.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/66537",
+          "checked_on": "2026-10-08",
+          "supports": "2005 das Buch Hard Sell, 2010 der Film: fünf Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-017-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-017-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Regiecredit wird von der gemeinsamen Drehbucharbeit abgegrenzt.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/66537",
+          "checked_on": "2026-10-08",
+          "supports": "Edward Zwick führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-018-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-018-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die Zuhörerin erklärt den familiären Rahmen des Films.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Definitely,_Maybe",
+          "checked_on": "2026-10-08",
+          "supports": "Will erzählt seiner Tochter Maya von seinen Beziehungen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-018-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-018-L2",
+      "goal_kind": "content",
+      "interest_reason": "Ein eigenständiger beruflicher Ausgangspunkt ergänzt den Familienrahmen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Definitely,_Maybe",
+          "checked_on": "2026-10-08",
+          "supports": "Will kommt für Bill Clintons Wahlkampf nach New York."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-018-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-018-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Identitätsauflösung verlangt den Zusammenhang mehrerer Erzählstränge.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Definitely,_Maybe",
+          "checked_on": "2026-10-08",
+          "supports": "Emily bezeichnet in der Erzählung Mayas Mutter Sarah."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-018-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-018-M2",
+      "goal_kind": "content",
+      "interest_reason": "Eine konkrete Handlung erklärt den Bruch dieser Beziehung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Definitely,_Maybe",
+          "checked_on": "2026-10-08",
+          "supports": "Summers journalistische Veröffentlichung schadet Wills Kampagne."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-018-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-018-S1",
+      "goal_kind": "content",
+      "interest_reason": "Das Erinnerungsstück verbindet Familienverlust und unausgesprochene Zuneigung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Definitely,_Maybe",
+          "checked_on": "2026-10-08",
+          "supports": "Die Widmung ihres verstorbenen Vaters macht das Buch einzigartig."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-018-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-018-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Auflösung verlangt einen Blick auf die Regeln der Rückschau.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Definitely,_Maybe",
+          "checked_on": "2026-10-08",
+          "supports": "April ist die Ausnahme: Ihr Name bleibt unverändert."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-018-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-018-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zwei Working-Title-Romanzen bilden einen konkreten zeitlichen Zusammenhang.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.workingtitlefilms.com/film/definitely-maybe/",
+          "checked_on": "2026-10-08",
+          "supports": "1999 Notting Hill, 2008 dieser Film: neun Jahre."
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.workingtitlefilms.com/film/notting-hill/",
+          "checked_on": "2026-10-08",
+          "supports": "1999 Notting Hill, 2008 dieser Film: neun Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-018-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-018-D",
+      "goal_kind": "director",
+      "interest_reason": "Die doppelte Zuständigkeit erklärt den Aufbau des romantischen Rätsels.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.workingtitlefilms.com/film/definitely-maybe/",
+          "checked_on": "2026-10-08",
+          "supports": "Adam Brooks schrieb das Drehbuch und führte Regie."
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/64620",
+          "checked_on": "2026-10-08",
+          "supports": "Adam Brooks schrieb das Drehbuch und führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-019-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-019-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf erschließt die Alltagswelt der Hauptfigur.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/It%27s_Complicated_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jane besitzt eine Bäckerei in Santa Barbara."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/its-complicated",
+          "checked_on": "2026-10-08",
+          "supports": "Jane besitzt eine Bäckerei in Santa Barbara."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-019-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-019-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf erklärt die eigenständige zweite Beziehung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/It%27s_Complicated_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Adam ist der Architekt für Janes Hausumbau."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/its-complicated",
+          "checked_on": "2026-10-08",
+          "supports": "Adam ist der Architekt für Janes Hausumbau."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-019-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-019-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ein konkreter Reisegrund erklärt den Beginn der Affäre.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/It%27s_Complicated_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Studienabschluss ihres Sohnes bringt die Expartner nach New York."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-019-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-019-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Familienposition macht das Verschweigen besonders unangenehm.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/It%27s_Complicated_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Harley entdeckt, dass Jane und Jake wieder eine Affäre haben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-019-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-019-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Art der Enthüllung ist ein eigenständiger später Handlungsmechanismus.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/It%27s_Complicated_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Adam sieht Jake über Janes laufende Webcam."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-019-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-019-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Schluss verbindet eine frühere Szene mit der Aussicht auf einen Neubeginn.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/It%27s_Complicated_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Bitte erinnert an ihren gemeinsamen Backabend."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-019-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-019-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zwei Filme derselben Regisseurin erleichtern die zeitliche Einordnung.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/its-complicated",
+          "checked_on": "2026-10-08",
+          "supports": "2006 Liebe braucht keine Ferien, 2009 dieser Film: drei Jahre."
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.sonypictures.com/movies/theholiday",
+          "checked_on": "2026-10-08",
+          "supports": "2006 Liebe braucht keine Ferien, 2009 dieser Film: drei Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-019-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-019-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Hauptregie ist durch die Studio-Credits eindeutig belegt.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/its-complicated",
+          "checked_on": "2026-10-08",
+          "supports": "Nancy Meyers schrieb und inszenierte den Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-020-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-020-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die Ausgangsbeziehung erklärt das wiederholte Zögern.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Rosie_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Rosie und Alex sind seit ihrer Kindheit beste Freunde."
+        },
+        {
+          "key": "studio",
+          "url": "https://constantin.film/kino/love-rosie-fuer-immer-vielleicht-2/",
+          "checked_on": "2026-10-08",
+          "supports": "Rosie und Alex sind seit ihrer Kindheit beste Freunde."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-020-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-020-L2",
+      "goal_kind": "content",
+      "interest_reason": "Ein berufliches Ziel ergänzt den romantischen Grundkonflikt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Rosie_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Rosie möchte ein eigenes Hotel führen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-020-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-020-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Ursache erklärt mehrjährige räumliche und persönliche Folgen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Rosie_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Schwangerschaft verhindert die geplante gemeinsame Zukunft in Boston."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-020-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-020-M2",
+      "goal_kind": "content",
+      "interest_reason": "Eine konkrete Täuschung verzögert die gegenseitige Verständigung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Rosie_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Greg versteckt den Liebesbrief vor Rosie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-020-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-020-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage verlangt den Zusammenhang von Erinnerung und Missverständnis.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Rosie_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Rosie hat den Kuss vergessen; Alex deutet ihre Worte als Ablehnung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-020-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-020-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Schlussentwicklung betrifft einen eigenständigen beruflichen Erfolg.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Rosie_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Rosie verwendet das Erbe ihres Vaters für ihr eigenes Hotel."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-020-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-020-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Roman liefert einen passenden und belegten Werkanker.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://constantin.film/kino/love-rosie-fuer-immer-vielleicht-2/",
+          "checked_on": "2026-10-08",
+          "supports": "2004 der Roman Where Rainbows End, 2014 der Film: zehn Jahre."
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.cecelia-ahern.com/about",
+          "checked_on": "2026-10-08",
+          "supports": "2004 der Roman Where Rainbows End, 2014 der Film: zehn Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-020-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-020-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Credits trennen Regie, Filmdrehbuch und Romanvorlage.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://constantin.film/kino/love-rosie-fuer-immer-vielleicht-2/",
+          "checked_on": "2026-10-08",
+          "supports": "Christian Ditter inszenierte die Romanverfilmung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-021-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-021-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf macht Daniels anfängliche Lebensweise verständlich.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/In_July_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Daniel ist angehender Lehrer an einer Hamburger Schule."
+        },
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/im-juli_6944224c1b4f42099563a7533835400d",
+          "checked_on": "2026-10-08",
+          "supports": "Daniel ist angehender Lehrer an einer Hamburger Schule."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-021-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-021-L2",
+      "goal_kind": "content",
+      "interest_reason": "Ein klares Reiseziel erschließt den Roadmovie-Grundkonflikt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/In_July_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Daniel reist nach Istanbul."
+        },
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/im-juli_6944224c1b4f42099563a7533835400d",
+          "checked_on": "2026-10-08",
+          "supports": "Daniel reist nach Istanbul."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-021-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-021-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der Gegenstand löst das romantische Missverständnis aus.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/In_July_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Sonnensymbol wird zum vermeintlichen Zeichen der richtigen Frau."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-021-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-021-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Zufall verändert die Zusammensetzung der Reisegruppe.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/In_July_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Juli steigt als Anhalterin in Daniels Auto ein."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-021-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-021-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die ungewöhnliche Fracht prägt eine besondere Reiseepisode.",
+      "sources": [
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/im-juli_6944224c1b4f42099563a7533835400d",
+          "checked_on": "2026-10-08",
+          "supports": "Isa hat eine Leiche im Kofferraum."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-021-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-021-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die zugeschriebene Erinnerung verbindet Filmidee und Autorenerfahrung.",
+      "sources": [
+        {
+          "key": "presseheft",
+          "url": "https://www.wuestefilm.de/wp-content/uploads/2016/05/presseheft_imjuli.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Akin berichtet von einer eigenen Liebesreise per Anhalter nach Istanbul."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-021-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-021-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zwei frühe Akin-Filme bilden den zeitlichen Anker.",
+      "sources": [
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/im-juli_6944224c1b4f42099563a7533835400d",
+          "checked_on": "2026-10-08",
+          "supports": "1998 Kurz und schmerzlos, 2000 Im Juli: zwei Jahre."
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.filmportal.de/film/kurz-und-schmerzlos_1e65902d2d3a4b66b3595422503dc303",
+          "checked_on": "2026-10-08",
+          "supports": "1998 Kurz und schmerzlos, 2000 Im Juli: zwei Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-021-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-021-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Hauptcredit wird von der Nebenrolle vor der Kamera abgegrenzt.",
+      "sources": [
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/im-juli_6944224c1b4f42099563a7533835400d",
+          "checked_on": "2026-10-08",
+          "supports": "Fatih Akin schrieb und inszenierte den Roadmovie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-022-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-022-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Auslöser erklärt die folgende Suche nach einer Unterkunft.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Der_bewegte_Mann",
+          "checked_on": "2026-10-08",
+          "supports": "Axels Untreue führt zur Trennung und Wohnungssuche."
+        },
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/der-bewegte-mann_77f80e3e081149febc99e01777afe5bb",
+          "checked_on": "2026-10-08",
+          "supports": "Axels Untreue führt zur Trennung und Wohnungssuche."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-022-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-022-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Unterkunft begründet die zentrale neue Freundschaft.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Der_bewegte_Mann",
+          "checked_on": "2026-10-08",
+          "supports": "Norbert bietet Axel eine neue Bleibe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-022-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-022-M1",
+      "goal_kind": "content",
+      "interest_reason": "Eine konkrete Nachricht verändert den Beziehungsstand.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Der_bewegte_Mann",
+          "checked_on": "2026-10-08",
+          "supports": "Doros Schwangerschaft verändert ihre Entscheidung über die Beziehung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-022-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-022-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der konkrete Ort trägt eine eigenständige Verwechslungsszene.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Der_bewegte_Mann",
+          "checked_on": "2026-10-08",
+          "supports": "Der nackte Norbert wird im Kleiderschrank versteckt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-022-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-022-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage verknüpft eine frühere Handlung mit der späteren Verwechslung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Der_bewegte_Mann",
+          "checked_on": "2026-10-08",
+          "supports": "Elke gibt Axel das bewusstseinsverändernde Mittel."
+        },
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/der-bewegte-mann_77f80e3e081149febc99e01777afe5bb",
+          "checked_on": "2026-10-08",
+          "supports": "Elke gibt Axel das bewusstseinsverändernde Mittel."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-022-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-022-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Vorlagenurheberschaft ist ein eigenständiges Gestaltungsziel.",
+      "sources": [
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/der-bewegte-mann_77f80e3e081149febc99e01777afe5bb",
+          "checked_on": "2026-10-08",
+          "supports": "Ralf Königs Comics bilden die Vorlagen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-022-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-022-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zwei Wortmann-Komödien liefern einen passenden Jahreszusammenhang.",
+      "sources": [
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/der-bewegte-mann_77f80e3e081149febc99e01777afe5bb",
+          "checked_on": "2026-10-08",
+          "supports": "1991 Allein unter Frauen, 1994 Der bewegte Mann: drei Jahre."
+        },
+        {
+          "key": "verband",
+          "url": "https://hdf-kino.de/goldene-leinwand/der-bewegte-mann/",
+          "checked_on": "2026-10-08",
+          "supports": "1991 Allein unter Frauen, 1994 Der bewegte Mann: drei Jahre."
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.filmportal.de/film/allein-unter-frauen_87da06a4da864b9dac6253b61b5164e2",
+          "checked_on": "2026-10-08",
+          "supports": "1991 Allein unter Frauen, 1994 Der bewegte Mann: drei Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-022-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-022-D",
+      "goal_kind": "director",
+      "interest_reason": "Regie, Vorlage und Produktion werden eindeutig getrennt.",
+      "sources": [
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/der-bewegte-mann_77f80e3e081149febc99e01777afe5bb",
+          "checked_on": "2026-10-08",
+          "supports": "Sönke Wortmann schrieb das Drehbuch und führte Regie."
+        },
+        {
+          "key": "verband",
+          "url": "https://hdf-kino.de/goldene-leinwand/der-bewegte-mann/",
+          "checked_on": "2026-10-08",
+          "supports": "Sönke Wortmann schrieb das Drehbuch und führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-023-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-023-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der neue Arbeitsort bildet den Ausgangspunkt der Romanze.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rabbit_Without_Ears",
+          "checked_on": "2026-10-08",
+          "supports": "Ludo muss seine Sozialstunden in einem Kinderhort leisten."
+        },
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/keinohrhasen_220f2fc3af844a409ae985d62b9f2f22",
+          "checked_on": "2026-10-08",
+          "supports": "Ludo muss seine Sozialstunden in einem Kinderhort leisten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-023-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-023-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die gemeinsame Vergangenheit erklärt Annas anfängliche Haltung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rabbit_Without_Ears",
+          "checked_on": "2026-10-08",
+          "supports": "Anna kennt Ludo aus der Kindheit und erinnert sich an seine Hänseleien."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-023-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-023-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der konkrete Unfall verbindet Medienarbeit und gerichtliche Auflage.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rabbit_Without_Ears",
+          "checked_on": "2026-10-08",
+          "supports": "Ludo stürzt durch ein Glasdach mitten in eine Feier."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-023-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-023-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die berufliche Figurenrolle erschließt die Zusammenarbeit im Team.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rabbit_Without_Ears",
+          "checked_on": "2026-10-08",
+          "supports": "Moritz ist der Fotograf an Ludos Seite."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-023-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-023-S1",
+      "goal_kind": "content",
+      "interest_reason": "Eine berufliche Konsequenz macht Ludos veränderte Prioritäten sichtbar.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rabbit_Without_Ears",
+          "checked_on": "2026-10-08",
+          "supports": "Ludo berichtet über Anna und verfehlt damit den erwarteten Prominentenauftrag."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-023-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-023-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Schauplatz verbindet den Anfang der Veränderung mit ihrer romantischen Auflösung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rabbit_Without_Ears",
+          "checked_on": "2026-10-08",
+          "supports": "Ludo gesteht Anna auf der Bühne der Kinderaufführung seine Liebe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-023-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-023-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die direkte Fortsetzung bietet einen klaren Werkanker.",
+      "sources": [
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/keinohrhasen_220f2fc3af844a409ae985d62b9f2f22",
+          "checked_on": "2026-10-08",
+          "supports": "2007 Keinohrhasen, 2009 Zweiohrküken: zwei Jahre."
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://www.filmportal.de/en/movie/zweiohrkuken_6a4b8138f7ec5e9be040007f01000c07",
+          "checked_on": "2026-10-08",
+          "supports": "2007 Keinohrhasen, 2009 Zweiohrküken: zwei Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-023-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-023-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Abgrenzung klärt einen leicht verwechselbaren Regiecredit.",
+      "sources": [
+        {
+          "key": "register",
+          "url": "https://www.filmportal.de/film/keinohrhasen_220f2fc3af844a409ae985d62b9f2f22",
+          "checked_on": "2026-10-08",
+          "supports": "Til Schweiger ist Hauptregisseur; Torsten Künstler leitete den zweiten Stab."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-024-L1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-024-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Kommunikationsweg bildet den romantischen Grundkonflikt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Simon",
+          "checked_on": "2026-10-08",
+          "supports": "Simon entwickelt die Beziehung über anonyme E-Mails."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/love-simon",
+          "checked_on": "2026-10-08",
+          "supports": "Simon entwickelt die Beziehung über anonyme E-Mails."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-024-L2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-024-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Forderung erklärt den Beginn der Erpressung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Simon",
+          "checked_on": "2026-10-08",
+          "supports": "Martin verlangt Hilfe beim Werben um Abby."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-024-M1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-024-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der Alias klärt eine zentrale Unterscheidung der Erzählung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Simon",
+          "checked_on": "2026-10-08",
+          "supports": "Simons E-Mail-Alias lautet Jacques."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-024-M2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-024-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Folge der Erpressung ist ein eigenständiger Konflikt um Vertrauen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Simon",
+          "checked_on": "2026-10-08",
+          "supports": "Simons Lügen über Beziehungen haben seine Freunde verletzt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-024-S1",
+      "knowledge_id": "K-G100-20261008-ROMCOM-024-S1",
+      "goal_kind": "content",
+      "interest_reason": "Der Rückzug erklärt, weshalb der verlorene Kontakt neu hergestellt werden muss.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Simon",
+          "checked_on": "2026-10-08",
+          "supports": "Blue zieht sich aus Angst vor einem unfreiwilligen Outing zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-024-S2",
+      "knowledge_id": "K-G100-20261008-ROMCOM-024-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die zentrale Identitätsauflösung schließt die anonyme Romanze ab.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love,_Simon",
+          "checked_on": "2026-10-08",
+          "supports": "Bram ist der anonyme E-Mail-Partner Blue."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-024-Y",
+      "knowledge_id": "K-G100-20261008-ROMCOM-024-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die Buchveröffentlichung liefert einen passenden belegten Jahresanker.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/love-simon",
+          "checked_on": "2026-10-08",
+          "supports": "2015 der Roman, 2018 der Film: drei Jahre."
+        },
+        {
+          "key": "vorlage",
+          "url": "https://www.beckyalbertalli.com/faq",
+          "checked_on": "2026-10-08",
+          "supports": "2015 der Roman, 2018 der Film: drei Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ROMCOM-024-D",
+      "knowledge_id": "K-G100-20261008-ROMCOM-024-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Studio-Credits trennen die beteiligten Formen der Urheberschaft.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/love-simon",
+          "checked_on": "2026-10-08",
+          "supports": "Greg Berlanti führte Regie."
+        }
+      ]
+    }
+  ]
+}

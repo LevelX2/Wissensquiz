@@ -1,0 +1,208 @@
+{
+  "rank": 19,
+  "directors": [
+    "Nancy Meyers"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "2009; Universal führt den Film als Veröffentlichung von 2009. Der Cache unterscheidet die frühe New Yorker Premiere vom regulären Kinostart, ebenfalls 2009.",
+  "familiarity_reason": "Weit verbreitete Ensemble-Romanze mit Meryl Streep, Alec Baldwin und Steve Martin; Bekanntheit 2 wird von den Handlungsdetails getrennt.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/It%27s_Complicated_(film)",
+    "studio": "https://www.universalpicturesathome.com/movies/its-complicated",
+    "zeitanker": "https://www.sonypictures.com/movies/theholiday"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Geschäft betreibt Jane Adler (Meryl Streep) in @?",
+      "answers": [
+        "Eine Bäckerei",
+        "Eine Buchhandlung",
+        "Eine Blumenhandlung",
+        "Eine Kunstgalerie"
+      ],
+      "feedback": [
+        "Jane besitzt eine Bäckerei in Santa Barbara.",
+        "Eine Buchhandlung ist nicht ihr Geschäft.",
+        "Sie führt keinen Blumenladen.",
+        "Eine Kunstgalerie gehört ihr nicht."
+      ],
+      "short": "Jane besitzt eine Bäckerei in Santa Barbara.",
+      "context": "Jane Adler (Meryl Streep) hat sich nach ihrer Scheidung ein eigenes Leben aufgebaut und betreibt eine Bäckerei in Santa Barbara. Das Geschäft macht ihre Selbstständigkeit sichtbar und wird auch zum Ort persönlicher Begegnungen. Ihre spätere Annäherung an einen neuen Partner entwickelt sich vor diesem Hintergrund. Die Arbeit gehört damit zu der Lebenswelt, die durch die erneute Nähe zum Exmann durcheinandergerät.",
+      "anchor": "Die Bäckerei gehört zu Janes eigenständigem Leben.",
+      "interest": "Der Beruf erschließt die Alltagswelt der Hauptfigur.",
+      "sources": [
+        "handlung",
+        "studio"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "In welchem Beruf begegnet Adam Schaffer (Steve Martin) Jane Adler (Meryl Streep) in @?",
+      "answers": [
+        "Als Architekt",
+        "Als Steuerberater",
+        "Als Rechtsanwalt",
+        "Als Immobilienmakler"
+      ],
+      "feedback": [
+        "Adam plant als Architekt den Umbau ihres Hauses.",
+        "Er wird nicht als Steuerberater beauftragt.",
+        "Eine juristische Vertretung bringt die beiden nicht zusammen.",
+        "Er verkauft oder vermittelt ihr Haus nicht."
+      ],
+      "short": "Adam ist der Architekt für Janes Hausumbau.",
+      "context": "Adam Schaffer (Steve Martin) kommt als Architekt in das Leben von Jane Adler (Meryl Streep). Er soll ihr Haus erweitern und lernt sie über diese Zusammenarbeit kennen. Auch er hat eine Scheidung hinter sich, wodurch beide einen persönlichen Erfahrungshintergrund teilen. Die geplante Veränderung des Hauses begleitet so die Möglichkeit eines neuen Lebensabschnitts, während Janes Vergangenheit zugleich wieder an Bedeutung gewinnt.",
+      "anchor": "Der Hausumbau bringt den möglichen neuen Partner ins Bild.",
+      "interest": "Der Beruf erklärt die eigenständige zweite Beziehung.",
+      "sources": [
+        "handlung",
+        "studio"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Bei welchem Anlass kommen Jane (Meryl Streep) und Jake Adler (Alec Baldwin) in @ wieder näher zusammen?",
+      "answers": [
+        "Beim Studienabschluss ihres Sohnes in New York",
+        "Bei der Hochzeit ihrer Tochter in Santa Barbara",
+        "Bei einer Trauerfeier für einen gemeinsamen Freund",
+        "Bei einer Reise zur Silberhochzeit ihrer Eltern"
+      ],
+      "feedback": [
+        "Die Abschlussfeier des Sohnes führt zum gemeinsamen New Yorker Aufenthalt.",
+        "Die Hochzeit einer Tochter ist nicht dieser Anlass.",
+        "Eine Trauerfeier löst die Annäherung nicht aus.",
+        "Eine elterliche Silberhochzeit wird hierfür nicht besucht."
+      ],
+      "short": "Der Studienabschluss ihres Sohnes bringt die Expartner nach New York.",
+      "context": "Jane Adler (Meryl Streep) und ihr Exmann Jake Adler (Alec Baldwin) reisen zum Studienabschluss ihres Sohnes Luke Adler (Hunter Parrish) nach New York. Der familiäre Anlass schafft einen gemeinsamen Aufenthalt außerhalb ihres gewöhnlichen Alltags. Ein Abend entwickelt sich dort zu einer neuen intimen Begegnung. Ausgerechnet eine Feier ihres erwachsenen Kindes wird damit zum Ausgangspunkt einer Affäre zwischen den längst geschiedenen Eltern.",
+      "anchor": "Der gemeinsame Familienanlass öffnet die Tür zur alten Beziehung.",
+      "interest": "Ein konkreter Reisegrund erklärt den Beginn der Affäre.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum muss Harley (John Krasinski) in @ ein unangenehmes Geheimnis bewahren?",
+      "answers": [
+        "Er entdeckt die Affäre seiner künftigen Schwiegereltern.",
+        "Er entdeckt einen Betrug in einem Familienbetrieb.",
+        "Er entdeckt gefälschte Bauunterlagen für den Hausumbau.",
+        "Er entdeckt heimliche Pläne zur Auswanderung."
+      ],
+      "feedback": [
+        "Harley bekommt die wiederaufgenommene Beziehung von Jane und Jake mit.",
+        "Ein Betrug im Familienbetrieb ist nicht sein Geheimnis.",
+        "Gefälschte Bauunterlagen findet er nicht.",
+        "Ein Auswanderungsplan wird ihm nicht bekannt."
+      ],
+      "short": "Harley entdeckt, dass Jane und Jake wieder eine Affäre haben.",
+      "context": "Harley (John Krasinski), der Verlobte von Lauren Adler (Caitlin FitzGerald), erkennt, dass Jane Adler (Meryl Streep) und Jake Adler (Alec Baldwin) wieder intim miteinander sind. Als künftiges Mitglied der Familie gerät er dadurch zwischen Mitwissen und Verschweigen. Die übrigen Kinder erfahren zunächst nichts davon. Das Geheimnis betrifft somit nicht nur das Paar, sondern belastet auch jemanden, der gerade erst Teil seiner Familie wird.",
+      "anchor": "Der künftige Schwiegersohn wird zum unfreiwilligen Mitwisser.",
+      "interest": "Die Familienposition macht das Verschweigen besonders unangenehm.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wodurch erfährt Adam (Steve Martin) in @ unmittelbar von Janes (Meryl Streep) Affäre?",
+      "answers": [
+        "Jake (Alec Baldwin) gerät nackt ins Webcam-Bild.",
+        "Er erhält eine anonyme Sprachnachricht.",
+        "Jane schickt versehentlich ein Foto.",
+        "Ein Mitwisser erzählt es ihm bei der Feier."
+      ],
+      "feedback": [
+        "Die Webcam zeigt Adam den nackten Jake.",
+        "Eine anonyme Sprachnachricht enthüllt die Situation nicht.",
+        "Ein versehentlich verschicktes Foto ist nicht das Medium.",
+        "Adam erfährt es nicht aus einem Bericht bei der Feier."
+      ],
+      "short": "Adam sieht Jake über Janes laufende Webcam.",
+      "context": "Jane Adler (Meryl Streep) spricht über die Webcam mit Adam Schaffer (Steve Martin). Jake Adler (Alec Baldwin) legt sich nackt in die Nähe des Computers und wird für Adam sichtbar. Das intime Geheimnis wird dadurch ohne ein geplantes Geständnis enthüllt. Die Technik verbindet zwei getrennte Räume und lässt Adams neue Beziehung zu Jane mit der noch nicht geklärten Vergangenheit zusammenstoßen.",
+      "anchor": "Die Webcam macht das verborgene Dreieck sichtbar.",
+      "interest": "Die Art der Enthüllung ist ein eigenständiger später Handlungsmechanismus.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Auf welche gemeinsame Erfahrung spielt Adams (Steve Martin) spätere Bitte um Croissants in @ an?",
+      "answers": [
+        "Auf das gemeinsame Backen in der Bäckerei",
+        "Auf ein Frühstück während ihrer Hochzeitsreise",
+        "Auf einen Backkurs mit ihren Kindern",
+        "Auf ihre erste Begegnung in einem Pariser Café"
+      ],
+      "feedback": [
+        "Jane und Adam hatten zuvor zusammen Schokoladencroissants gebacken.",
+        "Eine gemeinsame Hochzeitsreise gab es nicht.",
+        "Ein Kinderbackkurs ist nicht die Erinnerung.",
+        "Ein erstes Treffen in Paris liegt der Bitte nicht zugrunde."
+      ],
+      "short": "Die Bitte erinnert an ihren gemeinsamen Backabend.",
+      "context": "Jane Adler (Meryl Streep) und Adam Schaffer (Steve Martin) backen bei einem früheren gemeinsamen Abend Schokoladencroissants in ihrer Bäckerei. Nach dem Bruch kommt Adam später wegen der Arbeiten am Haus zurück und fragt erneut danach. Die alltägliche Bitte greift die Erinnerung an ihre Nähe auf. Der Schluss deutet damit über eine kleine gemeinsame Tätigkeit die Möglichkeit einer erneuten Annäherung an.",
+      "anchor": "Die Croissants erinnern an den früheren gemeinsamen Abend.",
+      "interest": "Der Schluss verbindet eine frühere Szene mit der Aussicht auf einen Neubeginn.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2009",
+        "2006",
+        "2012",
+        "2015"
+      ],
+      "feedback": [
+        "Universal führt 2009 als Erscheinungsjahr.",
+        "2006 gehört zum früheren Zeitanker, nicht zu diesem Film.",
+        "2012 ist drei Jahre später.",
+        "2015 liegt sechs Jahre später."
+      ],
+      "short": "2006 Liebe braucht keine Ferien, 2009 dieser Film: drei Jahre.",
+      "context": "Wenn Liebe so einfach wäre erschien 2009. Nancy Meyers hatte zuvor Liebe braucht keine Ferien inszeniert, den Sony als Film von 2006 führt; der Abstand beträgt drei Jahre. Beide Werke behandeln neue Beziehungen nach enttäuschenden Erfahrungen, aber in unterschiedlichen Lebenssituationen. Die beiden datierten Filme bilden einen konkreten Anker innerhalb derselben Regiearbeit und verhindern eine Verwechslung der ähnlichen romantischen Themen.",
+      "anchor": "2006 Liebe braucht keine Ferien, 2009 Wenn Liebe so einfach wäre: drei Jahre.",
+      "interest": "Zwei Filme derselben Regisseurin erleichtern die zeitliche Einordnung.",
+      "sources": [
+        "studio",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Nancy Meyers",
+        "Nora Ephron",
+        "Nicole Holofcener",
+        "Diane English"
+      ],
+      "feedback": [
+        "Universal nennt Nancy Meyers als Regisseurin.",
+        "Nora Ephron hat hier keinen Regiecredit.",
+        "Nicole Holofcener inszenierte diesen Film nicht.",
+        "Diane English war nicht die Regisseurin."
+      ],
+      "short": "Nancy Meyers schrieb und inszenierte den Film.",
+      "context": "Nancy Meyers führte Regie und schrieb das Drehbuch von Wenn Liebe so einfach wäre. Universal führt beide Zuständigkeiten ausdrücklich auf. Die Hauptrollen spielen Meryl Streep als Jane Adler, Alec Baldwin als Jake Adler und Steve Martin als Adam Schaffer. Das Beziehungsdreieck verbindet Janes wiederkehrende Vergangenheit mit einer neuen Möglichkeit; Meyers gestaltet diese Verbindung zugleich als Autorin der Geschichte und als Regisseurin ihrer Umsetzung.",
+      "anchor": "Meyers verantwortet Drehbuch und Regie.",
+      "interest": "Die Hauptregie ist durch die Studio-Credits eindeutig belegt.",
+      "sources": [
+        "studio"
+      ]
+    }
+  ]
+}

@@ -5,6 +5,54 @@ import { questionSourceOf, genreOf } from "../../src/filters";
 import { filmIdentity } from "../../src/familiarity";
 import { catalogCounts } from "../catalog-counts";
 
+test("enthält 100 Rom-Com-Filme, erhält beide bestehenden Regieziele und lädt das Paket offline", async ({
+  page,
+  context,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-08T12:00:00+02:00") });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const initial = await readStoredState(page);
+  const romcom = initial.questions.filter(
+    (q) => questionSourceOf(q) === "film" && genreOf(q) === "Rom-Com",
+  );
+  expect(new Set(romcom.map(filmIdentity)).size).toBe(100);
+  expect(romcom).toHaveLength(830);
+  for (const [id, original] of [
+    ["G100-20261008-ROMCOM-004-D", "SCHAUSPIELER-202610-P01-070-S-1"],
+    ["G100-20261008-ROMCOM-012-D", "SCHAUSPIELER-202610-P01-081-S-2"],
+  ]) {
+    expect(initial.questions.find((q) => q.id === id)!.knowledgeId).toBe(
+      initial.questions.find((q) => q.id === original)!.knowledgeId,
+    );
+  }
+  await prepareQuestion(page, "G100-20261008-ROMCOM-004-D");
+  await expect(page.locator(".question-card h1")).not.toContainText(
+    "Woody Allen",
+  );
+  await expect(page.locator(".film-data")).toHaveCount(0);
+  await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
+  await page.locator(".film-data > summary").click();
+  await expect(page.locator(".film-data")).toContainText("Woody Allen");
+  await expect(page.locator(".film-data")).toContainText("1977");
+  await page.getByRole("button", { name: "Pause & Startseite" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  await page.getByRole("button", { name: "Optionen" }).click();
+  await expect(
+    page.getByText("Die App-Dateien sind im Offline-Cache bestätigt.", {
+      exact: false,
+    }),
+  ).toBeVisible();
+  await context.setOffline(true);
+  await page.reload();
+  expect(
+    await page.evaluate(async () =>
+      (await fetch("/genre100-romcom-fragen.csv")).text(),
+    ),
+  ).toBe(readFileSync("public/genre100-romcom-fragen.csv", "utf8"));
+  expect((await readStoredState(page)).questions).toEqual(initial.questions);
+});
+
 test("enthält 100 Musikfilme, teilt das bestehende Regieziel und erhält den Festival-Erststart offline", async ({
   page,
   context,

@@ -1,0 +1,209 @@
+{
+  "rank": 10,
+  "directors": [
+    "Stephen Frears"
+  ],
+  "production_countries": [
+    "USA",
+    "Großbritannien"
+  ],
+  "release_note": "Der Quellencache nennt die SXSW-Vorführung am 17. März 2000 und den US-Kinostart am 31. März 2000. Das offizielle SXSW-Archiv führt den Film 2000 als Regional Premiere; diese Kategorie wird nicht als Weltpremiere ausgegeben. BFI bestätigt das Erstjahr 2000.",
+  "familiarity_reason": "Bekannte Nick-Hornby-Verfilmung mit John Cusack und Jack Black; die genauen Beziehungsstationen verlangen Filmerinnerung.",
+  "series": null,
+  "director_note": "Stephen Frears trägt die Hauptregie. Mike Newell ist im Cache als ursprünglich vorgesehener Regisseur und später als ausführender Produzent verzeichnet, nicht als zweiter Hauptregisseur.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/High_Fidelity_(film)",
+    "bfi": "https://www.bfi.org.uk/film/379b71f4-57d7-5228-b0cd-087b599ee9a2/high-fidelity",
+    "sxsw": "https://sxsw.com/wp-content/uploads/2016/08/2000_archive_-_final.pdf",
+    "anker": "https://www.bfi.org.uk/film/221585c1-d6b0-550d-86dc-6487a87f3171/dangerous-liaisons"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was betreibt Rob Gordon (John Cusack) in @?",
+      "answers": [
+        "Einen Schallplattenladen",
+        "Einen Musikclub",
+        "Ein Tonstudio",
+        "Ein Musikmagazin"
+      ],
+      "feedback": [
+        "Rob besitzt einen Schallplattenladen.",
+        "Er betreibt keinen Club als sein Hauptgeschäft.",
+        "Ein Tonstudio ist nicht sein Arbeitsplatz.",
+        "Er gibt kein Musikmagazin heraus."
+      ],
+      "short": "Rob betreibt den Laden Championship Vinyl.",
+      "context": "Rob Gordon (John Cusack) arbeitet im Schallplattenladen Championship Vinyl. Dick (Todd Louiso) und Barry Judd (Jack Black) begleiten seinen Alltag mit eigenen Vorlieben und Urteilen über Musik. Das Geschäft ist zugleich sozialer Treffpunkt und Bühne für Streit über Geschmack. Rob behandelt Songs mit einer Sicherheit, die ihm in Liebesbeziehungen fehlt. Sein musikalisches Spezialwissen ersetzt deshalb keine Aufmerksamkeit für andere Menschen.",
+      "anchor": "Championship Vinyl ist Robs tägliche Musikwelt.",
+      "interest": "Der Arbeitsplatz erschließt das Milieu und die Nebenfiguren.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was ordnet Rob (John Cusack) in @ in einer zentralen persönlichen Top-Fünf-Liste?",
+      "answers": [
+        "Seine schmerzhaftesten Trennungen",
+        "Seine erfolgreichsten Verkaufstage",
+        "Seine besten eigenen Konzerte",
+        "Seine teuersten Plattenkäufe"
+      ],
+      "feedback": [
+        "Er geht seine schlimmsten Beziehungsenden durch.",
+        "Verkaufszahlen bilden diese persönliche Liste nicht.",
+        "Eigene Konzertauftritte sind nicht ihr Thema.",
+        "Die Liste ordnet keine Rekordpreise seiner Sammlung."
+      ],
+      "short": "Rob zählt seine fünf prägendsten Trennungen auf.",
+      "context": "Nachdem Laura (Iben Hjejle) ihn verlassen hat, versucht Rob Gordon (John Cusack), den Verlust durch Ranglisten zu erklären. Er erinnert sich an frühere Beziehungen und vergleicht ihre schmerzhaften Enden. Das vertraute Verfahren aus der Musikdiskussion wird zur Selbstbefragung. Die Ordnung schafft zunächst Abstand zum Schmerz, macht aber auch sichtbar, wie stark Rob seine eigene Perspektive über die Erfahrungen der Frauen stellt.",
+      "anchor": "Top-Fünf-Denken trifft auf Beziehungsprobleme.",
+      "interest": "Die Liste ist ein leicht erkennbares Erzählprinzip mit eigenem Inhalt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "In welcher Stadt spielt Rob Gordons (John Cusack) Alltag in @?",
+      "answers": [
+        "Chicago",
+        "Seattle",
+        "Boston",
+        "Philadelphia"
+      ],
+      "feedback": [
+        "Der Film verlegt Robs Alltag nach Chicago.",
+        "Seattle ist nicht der Hauptschauplatz.",
+        "Boston ist nicht die Stadt seines Ladens.",
+        "Philadelphia ist nicht der Schauplatz dieser Verfilmung."
+      ],
+      "short": "Die Handlung spielt in Chicago.",
+      "context": "Rob Gordon (John Cusack) lebt und arbeitet in Chicago. Der Laden Championship Vinyl und seine Begegnungen mit Laura (Iben Hjejle) gehören zu diesem amerikanischen Stadtmilieu. Nick Hornbys Roman war dagegen in London angesiedelt. Die Verfilmung behält den musikalischen Blick auf Beziehungen bei, setzt ihn aber in eine andere urbane Umgebung. Buchschauplatz und Filmhandlung dürfen deshalb nicht gleichgesetzt werden.",
+      "anchor": "Der Roman ist London, der Film Chicago.",
+      "interest": "Die Schauplatzverschiebung unterscheidet die Adaption von ihrer Vorlage.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welches Ereignis bringt Rob (John Cusack) und Laura (Iben Hjejle) in @ wieder enger zusammen?",
+      "answers": [
+        "Der Tod ihres Vaters",
+        "Die Hochzeit ihrer Schwester",
+        "Die Schließung seines Ladens",
+        "Ein gemeinsamer Konzerturlaub"
+      ],
+      "feedback": [
+        "Die Trauer um ihren Vater führt wieder zu Nähe.",
+        "Eine Hochzeit der Schwester löst diese Annäherung nicht aus.",
+        "Eine Ladenschließung ist nicht der Anlass.",
+        "Eine geplante Reise bringt sie nicht zusammen."
+      ],
+      "short": "Lauras Vater stirbt; die Trauer verbindet das Paar wieder.",
+      "context": "Laura (Iben Hjejle) kommt nach dem Tod ihres Vaters wieder auf Rob Gordon (John Cusack) zu. Ihre gemeinsame Vergangenheit gewinnt in der Trauer eine andere Bedeutung als während des vorausgegangenen Streits. Das Wiedersehen löst Robs Selbstbezogenheit nicht automatisch. Es eröffnet jedoch eine neue Nähe, die er nicht allein durch eine Rangliste seiner früheren Beziehungen oder durch das Urteil über einen Rivalen verstehen kann.",
+      "anchor": "Gemeinsame Vergangenheit wird in der Trauer wieder wichtig.",
+      "interest": "Der Anlass erklärt die Annäherung ohne sie zur automatischen Heilung zu erklären.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wonach richtet Rob (John Cusack) am Ende von @ eine neue Zusammenstellung von Liedern aus?",
+      "answers": [
+        "Nach Lauras (Iben Hjejle) Geschmack",
+        "Nach Barrys (Jack Black) Verkaufsprognosen",
+        "Nach den seltensten Erstpressungen",
+        "Nach seiner eigenen Lieblingsrangliste"
+      ],
+      "feedback": [
+        "Er will Musik zusammenstellen, die Laura gefällt.",
+        "Barrys Markturteil ist nicht das Auswahlprinzip.",
+        "Sammlerwert bestimmt diese Zusammenstellung nicht.",
+        "Seine eigene Rangliste steht erstmals nicht im Mittelpunkt."
+      ],
+      "short": "Rob stellt diesmal Lauras Geschmack in den Mittelpunkt.",
+      "context": "Rob Gordon (John Cusack) beginnt eine neue Musikauswahl für Laura (Iben Hjejle). Dabei möchte er nicht bloß sein eigenes Kennertum vorführen. Er denkt darüber nach, was sie hören will. Die kleine Handlung markiert eine Verschiebung seiner Aufmerksamkeit: Ein Geschenk soll zur Empfängerin passen, statt nur etwas über den Schenkenden auszusagen. Der Schluss fasst Entwicklung in einem vertrauten musikalischen Alltagsritual zusammen.",
+      "anchor": "Die Zusammenstellung soll der Empfängerin gefallen.",
+      "interest": "Ein kleiner Schlussentscheid zeigt Veränderung genauer als ein allgemeines Liebesbekenntnis.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Lied singt Barry (Jack Black) bei seinem Auftritt gegen Ende von @?",
+      "answers": [
+        "Let’s Get It On",
+        "Ain’t No Sunshine",
+        "Stand by Me",
+        "Try a Little Tenderness"
+      ],
+      "feedback": [
+        "Barry singt Marvin Gayes Let’s Get It On.",
+        "Ain’t No Sunshine ist nicht die Nummer dieses Auftritts.",
+        "Stand by Me wird hier nicht als seine Nummer präsentiert.",
+        "Try a Little Tenderness ist nicht das gesuchte Schlusslied."
+      ],
+      "short": "Barry überrascht mit Let’s Get It On.",
+      "context": "Barry Judd (Jack Black) tritt mit seiner Band auf und singt Marvin Gayes „Let’s Get It On“. Rob Gordon (John Cusack) hat seinen lauten Mitarbeiter zuvor vor allem als streitlustigen Musikkenner erlebt. Der Auftritt zeigt eine zusätzliche Seite: Hinter dem dauernden Urteil über fremde Musik steht tatsächlich musikalisches Können. Die Gesangsnummer verändert damit den Eindruck einer vertrauten Nebenfigur, ohne ihre vorherigen Eigenheiten zu löschen.",
+      "anchor": "Der streitlustige Verkäufer erweist sich als Sänger.",
+      "interest": "Ein konkreter musikalischer Auftritt verlangt mehr als Kenntnis des Ladenmilieus.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2000",
+        "1996",
+        "2004",
+        "2008"
+      ],
+      "feedback": [
+        "Der Film erschien 2000.",
+        "1996 liegt vier Jahre davor.",
+        "2004 liegt vier Jahre danach.",
+        "2008 liegt acht Jahre danach."
+      ],
+      "short": "Das Erstjahr ist 2000.",
+      "context": "„High Fidelity“ erschien 2000, zwölf Jahre nach Stephen Frears’ „Gefährliche Liebschaften“ von 1988. Beide Filme befassen sich mit Begehren und Selbsttäuschung, jedoch in sehr unterschiedlichen gesellschaftlichen Milieus. Der frühere Film spielt mit aristokratischer Verführung, der spätere mit Plattenladenalltag und privaten Ranglisten. Die Verbindung über denselben Regisseur liefert einen konkreten zeitlichen Anker, ohne aus ähnlichen Themen eine gemeinsame Handlung zu machen.",
+      "anchor": "1988 Gefährliche Liebschaften, 2000 High Fidelity: zwölf Jahre.",
+      "interest": "Zwei belegte Filme desselben Regisseurs geben einen anschaulichen Abstand.",
+      "sources": [
+        "bfi",
+        "anker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Hauptregie?",
+      "answers": [
+        "Stephen Frears",
+        "Mike Newell",
+        "Alan Parker",
+        "Richard Curtis"
+      ],
+      "feedback": [
+        "Stephen Frears ist der Hauptregisseur.",
+        "Mike Newell wurde als ausführender Produzent beteiligt, führte aber nicht Hauptregie.",
+        "Alan Parker ist nicht der Regisseur dieser Verfilmung.",
+        "Richard Curtis hat hier keinen Hauptregiecredit."
+      ],
+      "short": "Stephen Frears inszenierte die Verfilmung.",
+      "context": "Stephen Frears führte bei der Verfilmung von Nick Hornbys Roman Regie. John Cusack spielte Rob Gordon und gehörte zugleich zum Drehbuchteam. Die Rollen vor und hinter der Kamera werden dadurch nicht austauschbar: Die Hauptregie bleibt Frears zugeordnet. Robs direkte Ansprache des Publikums erlaubt dem Film, seine selbstbewussten Erklärungen neben Handlungen zu stellen, die diese Selbstdarstellung häufig in Frage stellen.",
+      "anchor": "Frears führt Regie; Cusack spielt und schreibt mit.",
+      "interest": "Der vollständige Hauptcredit wird von weiteren kreativen Aufgaben abgegrenzt.",
+      "sources": [
+        "bfi",
+        "handlung"
+      ]
+    }
+  ]
+}

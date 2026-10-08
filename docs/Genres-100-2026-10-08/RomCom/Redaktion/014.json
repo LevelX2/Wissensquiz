@@ -1,0 +1,210 @@
+{
+  "rank": 14,
+  "directors": [
+    "Gurinder Chadha"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "Deutschland"
+  ],
+  "country_note": "BFI nennt Deutschland und Vereinigtes Königreich. Der Wikipedia-Cache und der AFI-Eintrag zur US-Auswertung 2003 führen zusätzlich USA. Die redaktionelle Länderzuordnung folgt hier dem britischen BFI-Filmarchiv; die Abweichung zwischen den Archivangaben wird ausdrücklich dokumentiert und nicht allein mit einem Drehort oder Verleih erklärt.",
+  "release_note": "Britischer Erststart am 12. April 2002 laut Cache; BFI bestätigt 2002. AFI führt die US-Auswertung als 2003. Es handelt sich um den späteren regionalen Start derselben Fassung.",
+  "familiarity_reason": "Breit bekannte britische Komödie mit Parminder Nagra und Keira Knightley; die einzelnen familiären und institutionellen Details sind weniger geläufig.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+    "bfi": "https://www.bfi.org.uk/film/07acc94c-5b89-5dc9-b894-e36a3d77cc0e/bend-it-like-beckham",
+    "afi": "https://catalog.afi.com/Film/70977-BEND-IT-LIKE-BECKHAM",
+    "anker": "https://www.bfi.org.uk/film/41f51c72-2576-5915-92c4-498404aa5bb2/bhaji-on-the-beach"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Mit welcher Ausrede erklärt Jess (Parminder Nagra) in @ ihre regelmäßige Abwesenheit zu Hause?",
+      "answers": [
+        "Mit einem Ferienjob",
+        "Mit Nachhilfestunden",
+        "Mit einem Tanzkurs",
+        "Mit einem Schulprojekt"
+      ],
+      "feedback": [
+        "Jess behauptet, einen Ferienjob zu haben.",
+        "Nachhilfe ist nicht ihre hauptsächliche Ausrede für das Training.",
+        "Ein Tanzkurs erklärt diese regelmäßigen Wege nicht.",
+        "Ein Schulprojekt wird nicht als Tarnung verwendet."
+      ],
+      "short": "Jess tarnt das Training als Ferienjob.",
+      "context": "Jess Bhamra (Parminder Nagra) trainiert heimlich mit einer Frauenmannschaft. Ihren Eltern erklärt sie die Abwesenheit durch einen Ferienjob. Die Lüge verschafft ihr zunächst Freiraum, hält aber die Auseinandersetzung über ihre Wünsche auf. Joe (Jonathan Rhys Meyers) erlebt ihr sportliches Talent, während die Familie den neuen Alltag anders versteht. Der Konflikt beruht deshalb auch darauf, dass dieselben Stunden für verschiedene Menschen unterschiedliche Bedeutungen haben.",
+      "anchor": "Zu Hause heißt das Training Ferienjob.",
+      "interest": "Die konkrete Ausrede macht den heimlichen Alltag der Figur verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welches Familienereignis kollidiert in @ mit Jess’ (Parminder Nagra) entscheidendem Spiel?",
+      "answers": [
+        "Die Hochzeit ihrer Schwester",
+        "Die Verlobung ihrer Cousine",
+        "Die Silberhochzeit ihrer Eltern",
+        "Die Abschlussfeier ihres Bruders"
+      ],
+      "feedback": [
+        "Pinkys Hochzeit kollidiert mit dem wichtigen Spiel.",
+        "Eine Verlobungsfeier ist nicht der Termin dieses Konflikts.",
+        "Die Eltern feiern an diesem Tag keine Silberhochzeit als zentrales Ereignis.",
+        "Eine Abschlussfeier des Bruders ist nicht der Anlass."
+      ],
+      "short": "Pinkys Hochzeit und das Spiel finden am selben Tag statt.",
+      "context": "Pinky Bhamra (Archie Panjabi), die Schwester von Jess Bhamra (Parminder Nagra), heiratet am Tag des entscheidenden Spiels. Jess kann nicht einfach an beiden Veranstaltungen vollständig teilnehmen. Der Termin verdichtet den Familienkonflikt zu einer praktischen Entscheidung. Ihr Vater, Mr. Bhamra (Anupam Kher), muss nun nicht nur allgemein über den Sport urteilen, sondern auf die konkrete Enttäuschung seiner Tochter während der Hochzeitsfeier reagieren.",
+      "anchor": "Familienhochzeit und wichtiges Spiel besetzen denselben Tag.",
+      "interest": "Die sichtbare Terminkollision ist ein eigenes leichtes Inhaltsziel.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche frühere Erfahrung prägt Mr. Bhamras (Anupam Kher) Vorbehalte gegen den Sport seiner Tochter in @?",
+      "answers": [
+        "Rassistische Ausgrenzung beim Cricket in England",
+        "Eine schwere Verletzung beim Cricket in Indien",
+        "Ein Betrugsverdacht gegen seinen früheren Verein",
+        "Ein verlorenes Stipendium durch sportliche Überlastung"
+      ],
+      "feedback": [
+        "Er wurde in England beim Cricket wegen seiner Herkunft ausgegrenzt.",
+        "Eine Verletzung ist nicht der erzählte Ursprung seiner Ablehnung.",
+        "Ein Vereinsbetrug erklärt seine Warnung nicht.",
+        "Ein verlorenes Stipendium ist nicht sein persönliches Erlebnis."
+      ],
+      "short": "Der Vater erinnert sich an rassistische Ausgrenzung im Cricket.",
+      "context": "Mr. Bhamra (Anupam Kher) erzählt, dass er in England beim Cricket wegen seiner Herkunft zurückgewiesen wurde. Seine Ablehnung gegenüber dem Wunsch von Jess Bhamra (Parminder Nagra) entsteht damit auch aus verletzter Erfahrung und der Sorge vor erneuter Ausgrenzung. Das macht den Konflikt verständlicher, ohne den Wunsch der Tochter zu entwerten. Ihr Vater schützt sie zunächst vor einer Zukunft, die er durch seine Vergangenheit beurteilt.",
+      "anchor": "Die väterliche Warnung hat eine eigene Diskriminierungsgeschichte.",
+      "interest": "Der Anlass vertieft den Familienkonflikt über pauschale Traditionsbehauptungen hinaus.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was verletzt Jules (Keira Knightley) bei der Hamburg-Reise in @ besonders?",
+      "answers": [
+        "Die Annäherung ihrer Freundin an den Trainer",
+        "Die Absage ihrer Freundin an das gemeinsame Training",
+        "Der angekündigte Vereinswechsel des Trainers",
+        "Die Bewerbung ihrer Freundin um ihren Mannschaftsplatz"
+      ],
+      "feedback": [
+        "Jules fühlt sich durch die beinahe romantische Begegnung mit Joe verletzt.",
+        "Jess beendet dort nicht einfach das gemeinsame Training.",
+        "Ein Vereinswechsel von Joe ist nicht der Auslöser dieser Eifersucht.",
+        "Jess konkurriert nicht heimlich um Jules’ Platz als Anlass des Streits."
+      ],
+      "short": "Jules reagiert eifersüchtig auf Jess und Joe.",
+      "context": "Jules Paxton (Keira Knightley) fühlt sich zu Joe (Jonathan Rhys Meyers) hingezogen. Als Jess Bhamra (Parminder Nagra) ihm während der Reise nach Hamburg näherkommt, entsteht ein Konflikt zwischen den Freundinnen. Die sportliche Zusammenarbeit schützt ihre Beziehung nicht vor Eifersucht. Der Film verknüpft damit zwei Ebenen: Sie teilen den Wunsch, als Spielerinnen ernst genommen zu werden, müssen aber zusätzlich ihre persönlichen Erwartungen aneinander klären.",
+      "anchor": "Gemeinsame sportliche Ziele verhindern keine romantische Eifersucht.",
+      "interest": "Der genaue Anlass unterscheidet den Freundschaftskonflikt vom Streit mit den Eltern.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wodurch erfahren Jess’ (Parminder Nagra) Eltern in @ von ihrer heimlichen Hamburg-Reise?",
+      "answers": [
+        "Durch ein Foto in der Zeitung",
+        "Durch einen gefundenen Flugbeleg",
+        "Durch einen Anruf des Vereins",
+        "Durch einen Brief des Hotels"
+      ],
+      "feedback": [
+        "Das veröffentlichte Foto verrät die Reise.",
+        "Ein Flugbeleg ist nicht der entscheidende Fund.",
+        "Der Verein informiert die Eltern nicht auf diesem Weg.",
+        "Ein Hotelbrief deckt die Reise nicht auf."
+      ],
+      "short": "Ein Zeitungsfoto macht die heimliche Reise sichtbar.",
+      "context": "Jess Bhamra (Parminder Nagra) hält ihre Reise mit der Mannschaft vor der Familie geheim. Ein veröffentlichtes Bild durchkreuzt diese Trennung der Lebensbereiche. Mr. Bhamra (Anupam Kher) und Mrs. Bhamra (Shaheen Khan) erfahren dadurch von dem Ausflug. Die Enthüllung folgt nicht aus einem freiwilligen Geständnis. Gerade weil das Bild ein öffentliches Ereignis dokumentiert, kann Jess ihren sportlichen Alltag nicht dauerhaft als private Ausnahme verbergen.",
+      "anchor": "Ein öffentliches Foto beendet das private Versteckspiel.",
+      "interest": "Das konkrete Medium der Entdeckung verlangt genaue Handlungserinnerung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "An welchem Ort erhalten Jess und Jules (Parminder Nagra, Keira Knightley) in @ eine Studienchance?",
+      "answers": [
+        "Santa Clara in Kalifornien",
+        "Boston in Massachusetts",
+        "Austin in Texas",
+        "Seattle in Washington"
+      ],
+      "feedback": [
+        "Beide erhalten eine Chance über Stipendien in Santa Clara.",
+        "Boston ist nicht der genannte Hochschulort.",
+        "Austin ist nicht das Ziel ihres gemeinsamen Aufbruchs.",
+        "Seattle wird nicht als Ort der Stipendien genannt."
+      ],
+      "short": "Die Stipendien führen nach Santa Clara in Kalifornien.",
+      "context": "Jess Bhamra (Parminder Nagra) und Jules Paxton (Keira Knightley) erhalten die Möglichkeit, mit Stipendien an der Santa Clara University weiterzulernen und zu spielen. Der spätere Aufbruch führt ihre Freundschaft und ihre beruflichen Wünsche zusammen. Für Jess verlangt er außerdem die Zustimmung ihrer Familie. Die Aussicht ist deshalb mehr als der Gewinn eines einzelnen Spiels: Sie macht aus dem bisher heimlichen Interesse einen möglichen längerfristigen Lebensweg.",
+      "anchor": "Santa Clara verbindet Studium und sportliche Zukunft.",
+      "interest": "Die konkrete Schlusschance ist von der bekannten Sportart der Figuren getrennt.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "Wann wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "2002",
+        "1998",
+        "2000",
+        "2004"
+      ],
+      "feedback": [
+        "Der erste britische Kinostart lag 2002.",
+        "1998 liegt vier Jahre davor.",
+        "2000 liegt zwei Jahre davor.",
+        "2004 liegt zwei Jahre danach."
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 2002.",
+      "context": "Gurinder Chadhas erster Langfilm „Bhaji on the Beach“ erschien 1993; „Kick it like Beckham“ folgte 2002, neun Jahre später. Beide stellen britisch-asiatische Lebenswelten und unterschiedliche Erwartungen innerhalb von Familien ins Zentrum. Der Abstand macht den späteren internationalen Erfolg zeitlich greifbar. Das US-Veröffentlichungsjahr 2003 gehört zur regionalen Auswertung von „Kick it like Beckham“ und ersetzt nicht den britischen Erststart im Jahr 2002.",
+      "anchor": "1993 Bhaji on the Beach, 2002 Kick it like Beckham: neun Jahre.",
+      "interest": "Der frühere Film derselben Regisseurin liefert einen belegten Werkanker.",
+      "sources": [
+        "bfi",
+        "anker",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Hauptregie?",
+      "answers": [
+        "Gurinder Chadha",
+        "Mira Nair",
+        "Deepa Mehta",
+        "Gina Prince-Bythewood"
+      ],
+      "feedback": [
+        "Gurinder Chadha inszenierte den Film.",
+        "Mira Nair ist nicht die Regisseurin dieses Werks.",
+        "Deepa Mehta trägt hier keinen Hauptregiecredit.",
+        "Gina Prince-Bythewood hat diesen Film nicht inszeniert."
+      ],
+      "short": "Gurinder Chadha führte Regie.",
+      "context": "Gurinder Chadha ist als Regisseurin, Mitautorin und Produzentin der Geschichte beteiligt. Jess Bhamra (Parminder Nagra) und Jules Paxton (Keira Knightley) werden dabei über Freundschaft, Familienkonflikte und sportliche Chancen verbunden. Der BFI-Credit nennt Chadha eindeutig als Hauptregisseurin. Ihre weiteren Aufgaben erweitern diesen Credit, stellen aber kein zusätzliches Regieteam dar. Das Werk verbindet die romantischen Konflikte mit einem konkreten Wunsch nach selbstbestimmter Zukunft.",
+      "anchor": "Chadha verbindet Sport, Familie und romantische Konflikte.",
+      "interest": "Der vollständige Hauptcredit bleibt trotz mehrerer kreativer Aufgaben eindeutig.",
+      "sources": [
+        "bfi",
+        "handlung"
+      ]
+    }
+  ]
+}
