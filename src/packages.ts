@@ -69,6 +69,10 @@ export const packages = [
     path: "/preise-erweiterung-20261007-fragen.csv",
     filename: "Preisefragen_20261007.csv",
   },
+  {
+    path: "/genre100-abenteuer-fragen.csv",
+    filename: "Genre100_Abenteuer_20261008.csv",
+  },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

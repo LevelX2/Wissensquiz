@@ -1,0 +1,204 @@
+{
+  "rank": 5,
+  "directors": [
+    "Nathan Juran"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Veröffentlichung am 17. Dezember 1958.",
+  "familiarity_reason": "Das frühe Harryhausen-Abenteuer mit Zyklop und Skelettkrieger ist ein bekannter Klassiker des fantastischen Abenteuerkinos.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_7th_Voyage_of_Sinbad",
+    "studio": "https://www.sonypicturesmuseum.com/collection/film/570/7th-voyage-of-sinbad-the.html",
+    "filmgeschichte": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/sinbad.pdf"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was geschieht Prinzessin Parisa (Kathryn Grant) in @?",
+      "answers": [
+        "Sie wird durch einen Zauber winzig klein.",
+        "Sie wird in eine Schlangenfrau verwandelt.",
+        "Sie verliert durch den Zauber ihr Gedächtnis.",
+        "Sie wird unsichtbar und kann niemanden mehr berühren."
+      ],
+      "feedback": [
+        "Sokurah verkleinert Parisa durch einen Zauber.",
+        "Die vorübergehende Schlangenverwandlung betrifft eine Dienerin.",
+        "Parisas Gedächtnis bleibt erhalten.",
+        "Sie bleibt sichtbar, wird aber stark verkleinert."
+      ],
+      "short": "Sokurah verkleinert Parisa durch einen Zauber.",
+      "context": "Prinzessin Parisa (Kathryn Grant) bleibt dieselbe Person, verliert aber ihre normale Größe. Dadurch wird die geplante Hochzeit gefährdet und eine neue Expedition notwendig. Die äußerlich kleine Figur erhält zugleich eine wichtige Handlungsmacht, wenn ihre Größe an anderen Stellen zum Vorteil wird.",
+      "anchor": "Parisa wird klein – das Abenteuer wird größer.",
+      "interest": "Der Zauber setzt die neue Reise in Gang.",
+      "sources": [
+        "handlung",
+        "studio"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wohin muss Sindbad (Kerwin Mathews) in @ zurückkehren, um Parisa (Kathryn Grant) helfen zu können?",
+      "answers": [
+        "Auf die Insel Colossa",
+        "Auf die Insel der Sirenen",
+        "Zur Küste von Chandra",
+        "In das Gebirge bei Bagdad"
+      ],
+      "feedback": [
+        "Die benötigte Eierschale gibt es auf Colossa.",
+        "Die Sireneninsel ist eine Gefahr auf der Fahrt, nicht der Fundort der benötigten Eierschale.",
+        "Die Eierschale wird nicht in Parisas Heimat gesucht.",
+        "Die Expedition muss zur Insel Colossa zurück."
+      ],
+      "short": "Die benötigte Eierschale gibt es auf Colossa.",
+      "context": "Sindbad (Kerwin Mathews) soll eine Schale des Vogels Roch beschaffen, die für den Gegenzauber benötigt wird. Die Rückkehr nach Colossa führt ihn erneut zu den Wesen, vor denen er schon einmal entkommen ist. Ein Rettungsziel bindet die Reise an einen konkret gefährlichen Ort.",
+      "anchor": "Parisahs Heilmittel führt nach Colossa.",
+      "interest": "Die Reise hat einen nachvollziehbaren Zweck jenseits bloßer Schatzsuche.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum will der Magier Sokurah (Torin Thatcher) in @ unbedingt nach Colossa zurück?",
+      "answers": [
+        "Er möchte seine verlorene Wunderlampe zurückbekommen.",
+        "Er will die Eierschale allein als Waffe gegen Bagdad nutzen.",
+        "Er möchte den Zyklopen als Wächter für den Kalifen gewinnen.",
+        "Er sucht das Gold für Parisas Lösegeld."
+      ],
+      "feedback": [
+        "Sokurah will die Lampe zurückholen, die beim Zyklopen blieb.",
+        "Die Eierschale dient dem Gegenzauber; sein eigenes Ziel ist die Lampe.",
+        "Eine Wächterrolle für den Kalifen ist nicht sein Plan.",
+        "Der Magier möchte keine Lösegeldzahlung finanzieren."
+      ],
+      "short": "Sokurah will die Lampe zurückholen, die beim Zyklopen blieb.",
+      "context": "Sokurah (Torin Thatcher) hat beim ersten Aufenthalt auf Colossa seine Lampe verloren. Seine scheinbare Hilfe bei Parisas (Kathryn Grant) Verkleinerung dient deshalb einem eigenen Plan. Die Rettung der Prinzessin und das Interesse des Magiers führen zwar an denselben Ort, verfolgen aber unterschiedliche Ziele.",
+      "anchor": "Sokurah braucht Colossa wegen der Lampe.",
+      "interest": "Der verborgene Zweck erklärt die Manipulation der Reisegruppe.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was verspricht Parisa (Kathryn Grant) dem Lampengeist Barani (Richard Eyer) in @?",
+      "answers": [
+        "Ihn aus der Lampe zu befreien",
+        "Ihn zum Nachfolger Sokurahs zu machen",
+        "Seinen Namen vor dem Kalifen geheim zu halten",
+        "Ihm die Lampe nach Bagdad zurückzubringen"
+      ],
+      "feedback": [
+        "Parisa verspricht Barani die Freiheit.",
+        "Das Versprechen gilt seiner Freiheit statt einer Magierrolle.",
+        "Ein Geheimhaltungsversprechen ist nicht ihre Zusage.",
+        "Die Lampe soll seine Gefangenschaft nicht einfach an einem anderen Ort fortsetzen."
+      ],
+      "short": "Parisa verspricht Barani die Freiheit.",
+      "context": "Die verkleinerte Parisa (Kathryn Grant) kann die Lampe betreten und begegnet Barani (Richard Eyer). Ihre Bindung an ihn beruht auf einem Freiheitsversprechen. Der Geist ist damit eine Figur mit eigenem Wunsch und nicht nur ein beliebig verfügbares Zauberwerkzeug.",
+      "anchor": "Barani hilft, weil Parisa Freiheit verspricht.",
+      "interest": "Das Versprechen gibt der magischen Hilfe eine eigene Motivation.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie erfüllt Sindbad (Kerwin Mathews) in @ Baranis (Richard Eyer) Freiheitswunsch?",
+      "answers": [
+        "Er wirft die Wunderlampe in flüssige Lava.",
+        "Er zerbricht die Lampe mit dem Schwert.",
+        "Er gibt die Lampe an Sokurah zurück.",
+        "Er spricht einen Gegenzauber über die Lampe."
+      ],
+      "feedback": [
+        "Die Zerstörung der Lampe in Lava befreit Barani.",
+        "Die Lampe wird durch den Wurf in die Lava zerstört.",
+        "Eine Rückgabe an Sokurah würde das Freiheitsversprechen nicht erfüllen.",
+        "Die Befreiung geschieht durch die Zerstörung des Gegenstands."
+      ],
+      "short": "Die Zerstörung der Lampe in Lava befreit Barani.",
+      "context": "Sindbad (Kerwin Mathews) und Parisa (Kathryn Grant) verzichten auf die weitere Verfügung über die Wunderlampe. Sie halten das Versprechen gegenüber Barani (Richard Eyer), indem sie das mächtige Objekt zerstören. Hilfe wird hier mit Freiheit beantwortet und nicht mit dauerhafter Unterordnung.",
+      "anchor": "Lampe zerstört – Barani frei.",
+      "interest": "Der Schluss dieser Beziehung setzt eine moralische Entscheidung vor magischen Besitz.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche frühe Disney-Animation inspirierte Harryhausens Idee eines kämpfenden Skeletts in @?",
+      "answers": [
+        "The Skeleton Dance",
+        "Die drei kleinen Schweinchen",
+        "Dumbo",
+        "Bambi"
+      ],
+      "feedback": [
+        "The Skeleton Dance regte Harryhausens Vorstellung eines lebenden Skeletts an.",
+        "Die Schweinchen-Geschichte ist nicht dieser belegte Ausgangspunkt.",
+        "Dumbos Flug ist nicht die genannte Inspiration.",
+        "Bambis Waldgeschichte ist nicht die genannte Inspiration."
+      ],
+      "short": "The Skeleton Dance lieferte einen frühen Anstoß für das Skelettduell.",
+      "context": "Ray Harryhausen hatte Disneys The Skeleton Dance als Kind gesehen. Später fragte er sich, wie ein animiertes Skelett gegen einen echten Darsteller kämpfen könnte. Das Duell mit Sindbad (Kerwin Mathews) verbindet so eine Kindheitserfahrung mit der Kombination von Modellanimation und Realfilm.",
+      "anchor": "Disneys Skeletttanz führt zu Harryhausens Skelettduell.",
+      "interest": "Die belegte Entstehungsgeschichte erklärt eine prägende Trickidee.",
+      "sources": [
+        "filmgeschichte"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann wurde @ mit Kerwin Mathews und Kathryn Grant erstmals veröffentlicht?",
+      "answers": [
+        "1958",
+        "1954",
+        "1962",
+        "1966"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 1958.",
+        "1954 liegt vier Jahre vor der Veröffentlichung.",
+        "1962 liegt vier Jahre nach der Veröffentlichung.",
+        "1966 liegt acht Jahre nach der Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung war 1958.",
+      "context": "1958 erscheint das erste von drei Sindbad-Abenteuern mit Ray Harryhausens Effekten. „Sindbads gefährliche Abenteuer“ folgt erst 1973, also fünfzehn Jahre später. Der große Abstand zeigt, dass diese Reihe nicht im jährlichen Fortsetzungsrhythmus entstand.",
+      "anchor": "1958 beginnt Harryhausens Sindbad-Reihe.",
+      "interest": "Die zeitliche Stellung innerhalb einer bekannten Reihe verankert das Jahr.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Kerwin Mathews die Regie?",
+      "answers": [
+        "Nathan Juran",
+        "Henry Levin",
+        "Richard Fleischer",
+        "Richard Thorpe"
+      ],
+      "feedback": [
+        "Regie führte Nathan Juran.",
+        "Levin trägt diesen Regiecredit nicht.",
+        "Fleischer trägt diesen Regiecredit nicht.",
+        "Thorpe trägt diesen Regiecredit nicht."
+      ],
+      "short": "Regie führte Nathan Juran.",
+      "context": "Nathan Juran ist für die Regie des Films verantwortlich. Ray Harryhausen entwickelt und animiert die berühmten Kreaturen; seine Effektarbeit wird dadurch nicht zum Regiecredit. Die Unterscheidung hilft, die Zusammenarbeit hinter einem Film mit besonders sichtbarer Trickgestaltung richtig zuzuordnen.",
+      "anchor": "Juran führt Regie – Harryhausen gestaltet Kreaturen.",
+      "interest": "Die Frage trennt die künstlerischen Aufgaben des Teams.",
+      "sources": [
+        "studio",
+        "filmgeschichte"
+      ]
+    }
+  ]
+}

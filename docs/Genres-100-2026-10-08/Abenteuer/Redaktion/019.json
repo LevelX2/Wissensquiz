@@ -1,0 +1,206 @@
+{
+  "rank": 19,
+  "directors": [
+    "Gary Nelson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste deutsche Kinoauswertung am 18. Dezember 1986; US-Start am 30. Januar 1987. Das frühere Jahr ist maßgeblich.",
+  "familiarity_reason": "Die Chamberlain-Fortsetzung gehört zu den eher speziellen Abenteuerfilmen der 1980er-Jahre.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Allan_Quatermain_and_the_Lost_City_of_Gold",
+    "archiv": "https://catalog.afi.com/Film/57526-ALLAN-QUATERMAINANDTHELOSTCITYOFGOLD",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/King_Solomon%27s_Mines_(1985_film)",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wen sucht Allan Quatermain (Richard Chamberlain) in @ auf seiner neuen Expedition?",
+      "answers": [
+        "Seinen Bruder Robeson",
+        "Seinen verschollenen Vater",
+        "Einen früheren Expeditionsleiter",
+        "Den verschwundenen Bruder Jesses"
+      ],
+      "feedback": [
+        "Eine Nachricht über den Bruder löst die Expedition aus.",
+        "Gesucht wird Quatermains Bruder Robeson, nicht der Vater.",
+        "Eine Nachricht über den Bruder löst die Reise aus.",
+        "Die familiäre Verbindung besteht zu Quatermain, nicht zu Jesse."
+      ],
+      "short": "Eine Nachricht über den Bruder löst die Expedition aus.",
+      "context": "Quatermain (Richard Chamberlain) erfährt von einem sterbenden Bekannten, dass sein vermisster Bruder Robeson (Martin Rabbett) noch lebt. Die Nachricht unterbricht seine Hochzeitspläne mit Jesse (Sharon Stone). Die neue Reise beginnt deshalb mit einer familiären Verpflichtung und nicht nur mit Schatzgier.",
+      "anchor": "Quatermains Bruder bringt ihn wieder auf Reisen.",
+      "interest": "Das Motiv erklärt den Aufbruch trotz privater Zukunftspläne.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Womit kämpft Umslopogaas (James Earl Jones) in @ besonders markant?",
+      "answers": [
+        "Mit einer großen Axt",
+        "Mit zwei Revolvern",
+        "Mit einer Peitsche",
+        "Mit einem langen Bogen"
+      ],
+      "feedback": [
+        "Seine große Axt gehört zu seinem charakteristischen Auftreten.",
+        "Zwei Revolver sind nicht sein markantes Werkzeug.",
+        "Eine Peitsche kennzeichnet ihn nicht.",
+        "Ein Bogen steht nicht im Mittelpunkt seiner Kämpfe."
+      ],
+      "short": "Seine große Axt gehört zu seinem charakteristischen Auftreten.",
+      "context": "Umslopogaas (James Earl Jones) begleitet Quatermain (Richard Chamberlain) als erfahrener Freund und Kämpfer. Die Axt hilft der Gruppe in gefährlichen Begegnungen. Sie erhält später noch eine zusätzliche Funktion, sodass sein charakteristisches Werkzeug über einzelne Kampfszenen hinaus Bedeutung behält.",
+      "anchor": "Umslopogaas bringt die Axt mit.",
+      "interest": "Ein wiederkehrender Gegenstand macht den Begleiter erkennbar.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welcher Gegensatz kennzeichnet in @ die beiden Königinnen der gefundenen Stadt?",
+      "answers": [
+        "Nyleptha ist beliebt, Sorais strebt nach Macht.",
+        "Nyleptha will den Tempel schließen, Sorais will ihn als Heiligtum bewahren.",
+        "Nyleptha will die Stadt verlassen, Sorais will Quatermain folgen.",
+        "Nyleptha will den Goldabbau ausweiten, Sorais will ihn verbieten."
+      ],
+      "feedback": [
+        "Der Konflikt betrifft unterschiedliche Herrschaftsabsichten.",
+        "Der gezeigte Gegensatz betrifft Beliebtheit und Machtstreben, nicht diese Tempelreform.",
+        "Die Schwestern planen nicht diese beiden getrennten Abreisen.",
+        "Eine umgekehrte Bergbaupolitik beschreibt ihren Gegensatz nicht."
+      ],
+      "short": "Der Konflikt betrifft unterschiedliche Herrschaftsabsichten.",
+      "context": "In der gefundenen Stadt begegnet Quatermain (Richard Chamberlain) Nyleptha (Aileen Marson) und Sorais (Cassandra Peterson). Die Schwestern stehen für verschiedene Interessen. Die Stadt ist daher kein konfliktfreies Ziel der Reise: Die Ankommenden geraten in einen bereits bestehenden Machtkampf.",
+      "anchor": "Zwei Königinnen, gegensätzliche Interessen.",
+      "interest": "Das Reiseziel wird als eigenständige politische Umgebung erschlossen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wer beherrscht in @ die Stadt trotz ihrer beiden Königinnen tatsächlich durch Furcht?",
+      "answers": [
+        "Der Hohepriester Agon (Henry Silva)",
+        "Quatermains Bruder Robeson (Martin Rabbett)",
+        "Der Begleiter Swarma (Robert Donner)",
+        "Der verwundete Dumont (Rory Kilalea)"
+      ],
+      "feedback": [
+        "Agon ist der gefürchtete tatsächliche Machthaber.",
+        "Robeson ist nicht der Gewaltherrscher.",
+        "Swarma begleitet die Expedition.",
+        "Dumont stirbt, bevor die Gruppe die Stadt erreicht."
+      ],
+      "short": "Agon ist der gefürchtete tatsächliche Machthaber.",
+      "context": "Agon (Henry Silva) übt Macht hinter der sichtbaren königlichen Ordnung aus. Quatermain (Richard Chamberlain) und seine Freunde müssen deshalb mehr als den Weg zur verlorenen Stadt bewältigen. Die Befreiung von einer bestehenden Gewaltordnung wird zum zweiten Ziel nach der Suche des Bruders.",
+      "anchor": "Hinter den Königinnen steht Agons Furchtherrschaft.",
+      "interest": "Formaler Titel und tatsächliche Macht werden unterschieden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie verändert sich Quatermains (Richard Chamberlain) Aufgabe in @ nach dem Wiedersehen mit Robeson (Martin Rabbett)?",
+      "answers": [
+        "Er unterstützt den Widerstand gegen Agon.",
+        "Er führt Robeson heimlich aus der Stadt, ohne einzugreifen.",
+        "Er bietet Agon seine Hilfe gegen die beiden Königinnen an.",
+        "Er überredet Jesse, mit Robeson die Herrschaft zu übernehmen."
+      ],
+      "feedback": [
+        "Er greift in den Machtkampf der Stadt ein.",
+        "Quatermain bleibt und unterstützt den Widerstand.",
+        "Er stellt sich gegen Agons Macht statt in dessen Dienst.",
+        "Jesse und Robeson sollen nicht gemeinsam als Herrscher eingesetzt werden."
+      ],
+      "short": "Er greift in den Machtkampf der Stadt ein.",
+      "context": "Quatermain (Richard Chamberlain) findet Robeson (Martin Rabbett) lebend vor. Die anfängliche Suche ist damit erfüllt, doch die Gewalt Agons (Henry Silva) bleibt bestehen. Der Film erweitert die Rettungsreise zu einem Kampf für andere Menschen, statt beim persönlichen Wiedersehen zu enden.",
+      "anchor": "Bruder gefunden – Verantwortung noch offen.",
+      "interest": "Die Frage erschließt den Wechsel des Handlungsziels.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche zusätzliche Funktion erhält Umslopogaas’ Axt im Finale von @?",
+      "answers": [
+        "Sie leitet einen Blitz, der Gold schmelzen lässt.",
+        "Sie durchtrennt das Tor und öffnet der Bevölkerung den Fluchtweg.",
+        "Sie zerbricht die Goldvorräte, damit daraus Waffen geschmiedet werden.",
+        "Sie zerstört den Thron, um Agons Machtzeichen zu beseitigen."
+      ],
+      "feedback": [
+        "Quatermain verwendet die Axt zur Blitzableitung.",
+        "Die entscheidende Nutzung ist die Leitung eines Blitzes, nicht ein aufgeschlagenes Tor.",
+        "Das Gold wird durch den Blitz geschmolzen, nicht mit der Axt zerkleinert.",
+        "Ein zerschlagener Thron entscheidet den Kampf nicht."
+      ],
+      "short": "Quatermain verwendet die Axt zur Blitzableitung.",
+      "context": "Quatermain (Richard Chamberlain) nutzt die Axt im Gewitter auf dem Tempel. Das Gold fließt im fantastischen Finale über die Angreifer. Der Gegenstand eines Begleiters wird damit zum Mittel, den Machtkampf zu entscheiden; die Szene folgt ausdrücklich der überhöhten Abenteuerlogik des Films.",
+      "anchor": "Die Axt verbindet Blitz und flüssiges Gold.",
+      "interest": "Ein vertrautes Werkzeug erhält eine überraschende neue Funktion.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Richard Chamberlain erstmals im Kino gezeigt?",
+      "answers": [
+        "1986",
+        "1982",
+        "1990",
+        "1994"
+      ],
+      "feedback": [
+        "Die deutsche Erstveröffentlichung liegt 1986.",
+        "1982 liegt vier Jahre davor.",
+        "1990 liegt vier Jahre danach.",
+        "1994 liegt acht Jahre danach."
+      ],
+      "short": "Die deutsche Erstveröffentlichung liegt 1986.",
+      "context": "Quatermain – Auf der Suche nach dem Schatz der Könige erschien 1985. Das zweite Abenteuer mit Richard Chamberlain und Sharon Stone wurde bereits 1986 in Deutschland veröffentlicht, ein Jahr später. Sein US-Start folgte erst 1987. Für das Filmjahr zählt hier die frühere Veröffentlichung; der eigentliche Erinnerungsanker ist aber die rasche Rückkehr desselben Abenteuerduos nach dem ersten Film.",
+      "anchor": "1985 erster Chamberlain-Quatermain – 1986 die Fortsetzung: ein Jahr Abstand.",
+      "interest": "Der individuelle Veröffentlichungsverlauf erklärt die abweichende Jahresangabe.",
+      "sources": [
+        "handlung",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Richard Chamberlain und Sharon Stone Regie?",
+      "answers": [
+        "Gary Nelson",
+        "J. Lee Thompson",
+        "Richard Fleischer",
+        "Henry Levin"
+      ],
+      "feedback": [
+        "Gary Nelson inszenierte die Fortsetzung.",
+        "Thompson trägt nicht den Credit dieses zweiten Films.",
+        "Fleischer führte hier nicht Regie.",
+        "Levin inszenierte diesen Film nicht."
+      ],
+      "short": "Gary Nelson inszenierte die Fortsetzung.",
+      "context": "Gary Nelson inszeniert den zweiten Film mit Richard Chamberlain und Sharon Stone. Der neue Reiseanlass führt die wiederkehrenden Hauptfiguren in eine andere Geschichte. Der offizielle AFI-Credit ist deshalb getrennt vom Regiecredit des ersten Quatermain-Abenteuers zu führen.",
+      "anchor": "Nelson inszeniert Quatermains zweite Reise.",
+      "interest": "Die Frage unterscheidet Fortsetzung und Vorgänger.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

@@ -10,7 +10,11 @@ import { encodeCloudState, decodeCloudState } from "../src/cloudCodec";
 import revision from "../docs/Bestandsredaktion-2026-10-04/Block-01.json";
 
 const contents = packages
-  .filter((p) => !p.filename.endsWith("fragen_20261007.csv"))
+  .filter(
+    (p) =>
+      !p.filename.endsWith("fragen_20261007.csv") &&
+      !p.filename.startsWith("Genre100_"),
+  )
   .map((p) => ({
     filename: p.filename,
     text: readFileSync(`public${p.path}`, "utf8"),

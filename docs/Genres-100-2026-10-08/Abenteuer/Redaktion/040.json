@@ -1,0 +1,211 @@
+{
+  "rank": 40,
+  "directors": [
+    "Randal Kleiser"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Kinoveröffentlichung am 18. Januar 1991 in den USA; die Disney-Fassung mit Ethan Hawke.",
+  "familiarity_reason": "Die Disney-Adaption mit Ethan Hawke ist ein bekanntes Familienabenteuer nach Jack London.",
+  "series": {
+    "name": "Wolfsblut – Disney-Kinofilme",
+    "position": 1,
+    "note": "Die Fortsetzung White Fang 2 erschien 1994 mit anderer menschlicher Hauptfigur."
+  },
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/White_Fang_(1991_film)",
+    "studio": "https://movies.disney.com/white-fang",
+    "archiv": "https://d23.com/a-to-z/white-fang-film/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was sucht Jack Conroy (Ethan Hawke) auf seiner Reise in @?",
+      "answers": [
+        "Den Goldclaim seines verstorbenen Vaters",
+        "Die Schuldigen am Tod seines Vaters",
+        "Die verschollene Mannschaft einer früheren Goldexpedition",
+        "Einen Käufer für die väterliche Goldmine"
+      ],
+      "feedback": [
+        "Er will den Claim seines Vaters finden und dort Gold suchen.",
+        "Jack sucht einen Claim, nicht die Täter eines Mordes.",
+        "Eine vermisste Mannschaft soll er nicht aufspüren.",
+        "Er möchte dort selbst Gold finden statt bloß den väterlichen Besitz verkaufen."
+      ],
+      "short": "Jack folgt der Spur seines Vaters zu dessen Goldclaim.",
+      "context": "Jack Conroy (Ethan Hawke) kommt als unerfahrener junger Mann in die Goldgräberwelt. Alex Larson (Klaus Maria Brandauer), der seinen Vater kannte, hilft ihm auf dem Weg zum Claim. Die Reise verbindet eine wirtschaftliche Hoffnung mit einem persönlichen Erbe: Jack möchte fortsetzen, was der Vater begonnen hat. Erst unterwegs wird die Beziehung zum Tier zum zweiten Mittelpunkt.",
+      "anchor": "Der Claim verbindet Jack mit seinem Vater.",
+      "interest": "Der Ausgangsanlass erschließt Beruf, Familiengeschichte und Reise gemeinsam.",
+      "sources": [
+        "handlung",
+        "studio"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wodurch gewinnt Jack Conroy (Ethan Hawke) in @ das Vertrauen des misshandelten Tieres zurück?",
+      "answers": [
+        "Durch geduldige, fürsorgliche Behandlung",
+        "Durch gezielte Angriffsübungen mit Belohnung nach jedem Erfolg",
+        "Durch die Ausbildung im Gespann von Alex Larsons Schlittenhunden",
+        "Durch die Übergabe der ganzen Abrichtung an Grey Beaver"
+      ],
+      "feedback": [
+        "Nach der Rettung baut Jack geduldig eine Beziehung auf.",
+        "Jack will die Kampfabrichtung beenden, statt Erfolge beim Angriff zu belohnen.",
+        "Die Beziehung entsteht nicht durch eine neue Ausbildung in Larsons Gespann.",
+        "Jack gewinnt das Vertrauen selbst, statt Grey Beaver die ganze Arbeit zu überlassen."
+      ],
+      "short": "Jack begegnet dem Tier mit Geduld statt mit Gewalt.",
+      "context": "Beauty Smith (James Remar) hat Wolfsblut für Hundekämpfe abgerichtet und misshandelt. Nach der Rettung ist das Tier deshalb zunächst misstrauisch und wehrhaft. Jack Conroy (Ethan Hawke) gewinnt seine Nähe allmählich. Die Freundschaft entsteht durch einen anderen Umgang mit derselben Verletzlichkeit; sie ist weder angeborener Gehorsam noch eine sofortige Belohnung für die Rettung.",
+      "anchor": "Vertrauen wächst nach der Rettung langsam.",
+      "interest": "Der zentrale Beziehungskonflikt wird über die konkrete Veränderung des Umgangs erklärt.",
+      "sources": [
+        "handlung",
+        "archiv"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "In welcher Gefahr hilft Wolfsblut Jack Conroy (Ethan Hawke) in @ schon vor dessen späterer Rettung aus dem Hundekampf?",
+      "answers": [
+        "Bei einem Angriff eines Grizzlybären",
+        "Bei einer Lawine am Goldclaim",
+        "Bei einem Schiffsuntergang vor San Francisco",
+        "Bei einem Überfall auf eine Postkutsche"
+      ],
+      "feedback": [
+        "Wolfsblut stellt sich dem Grizzly entgegen.",
+        "Eine Lawine ist nicht diese frühe Rettungsszene.",
+        "Jack wird hier nicht aus einem Schiffswrack gerettet.",
+        "Eine Postkutsche gehört nicht zu diesem Ereignis."
+      ],
+      "short": "Wolfsblut schützt Jack vor einem Grizzly.",
+      "context": "Jack Conroy (Ethan Hawke) gerät in der Nähe der Siedlung in die Gewalt eines Grizzlys und sucht Schutz unter einem Holzstapel. Wolfsblut greift ein, bis der Bär sich zurückzieht. Später wird Jack seinerseits zum Retter des Tieres. Die beiden Begegnungen verteilen Hilfe auf beide Seiten und bereiten eine Freundschaft vor, die mehr ist als bloßer Tierbesitz.",
+      "anchor": "Erst hilft das Tier Jack, später hilft Jack dem Tier.",
+      "interest": "Die frühe Rettung macht die Gegenseitigkeit der späteren Bindung verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Mit welchem Vorwand bringt Beauty Smith (James Remar) in @ Grey Beaver (Pius Savage) dazu, Wolfsblut abzugeben?",
+      "answers": [
+        "Der Besitz eines Wolfs sei illegal.",
+        "Grey Beaver habe Wettschulden bei ihm.",
+        "Das Tier müsse wegen einer Tollwutgefahr sofort eingezogen werden.",
+        "Jack habe das Tier vor Gericht als sein Eigentum beansprucht."
+      ],
+      "feedback": [
+        "Smith setzt Grey Beaver mit der behaupteten Rechtslage unter Druck.",
+        "Smiths Druckmittel ist die behauptete Rechtswidrigkeit des Wolfsbesitzes.",
+        "Eine amtliche Tollwutmaßnahme ist nicht sein Vorwand.",
+        "Jack hat vor dieser Übergabe keinen gerichtlichen Anspruch erhoben."
+      ],
+      "short": "Smith nutzt den behaupteten illegalen Wolfsbesitz als Druckmittel.",
+      "context": "Grey Beaver (Pius Savage) hat Wolfsblut aufgezogen. Beauty Smith (James Remar) gelangt nicht durch eine frei gewachsene Bindung an das Tier, sondern durch Druck auf dessen bisherigen Halter. Der Verweis auf das angebliche Besitzverbot verschleiert seine eigentliche Absicht: Er will Wolfsblut bei Hundekämpfen ausbeuten. Eine rechtlich klingende Behauptung ermöglicht so die folgende Gewalt.",
+      "anchor": "Smith tarnt Ausbeutung als Rechtsfrage.",
+      "interest": "Die Eigentumsübertragung wird als Täuschung und Machtmissbrauch statt als neutraler Handel erklärt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum bedroht Jack Conroy (Ethan Hawke) Wolfsblut gegen Ende von @ mit einem Stock?",
+      "answers": [
+        "Er will das Tier vor seiner geplanten Abreise in die Wildnis vertreiben.",
+        "Er will es für einen weiteren Hundekampf scharfmachen.",
+        "Er hält es irrtümlich für den Angreifer Alex Larsons.",
+        "Er will es an Beauty Smith zurückverkaufen."
+      ],
+      "feedback": [
+        "Jack glaubt, die schmerzhafte Trennung müsse das Tier ins freie Leben führen.",
+        "Die Hundekämpfe sind nicht sein Ziel.",
+        "Eine Verwechslung mit einem Angreifer liegt nicht vor.",
+        "Er möchte das Tier nicht wieder Smith ausliefern."
+      ],
+      "short": "Jack benutzt die alte Angst des Tieres, um es vor seiner Abreise fortzuschicken.",
+      "context": "Alex Larson (Klaus Maria Brandauer) erklärt Jack Conroy (Ethan Hawke), dass ein Wolf in San Francisco keinen passenden Lebensraum hätte. Jack greift deshalb zu einem Stock, vor dem das Tier durch Beauty Smiths (James Remar) Misshandlungen Angst hat. Die Szene wirkt wie ein Rückfall in Gewalt, entspringt aber dem fehlgeleiteten Versuch, die Bindung zugunsten eines freien Lebens zu lösen.",
+      "anchor": "Der Stock soll trennen, nicht wieder abrichten.",
+      "interest": "Der scheinbare Widerspruch zur aufgebauten Fürsorge verlangt Kenntnis von Motiv und Vorgeschichte.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entscheidung verändert Jack Conroys (Ethan Hawke) Zukunft im Schluss von @?",
+      "answers": [
+        "Er bleibt im Yukon, statt nach San Francisco zurückzureisen.",
+        "Er verkauft den Claim und zieht in eine neue Goldgräberstadt.",
+        "Er begleitet Alex nach San Francisco und eröffnet dort ein Geschäft.",
+        "Er gibt den Claim auf und folgt Grey Beaver in dessen Siedlung."
+      ],
+      "feedback": [
+        "Jack entscheidet sich noch vor der Abfahrt für das Leben im Yukon.",
+        "Er entscheidet sich für seinen Lebensort im Yukon, nicht für den Verkauf.",
+        "Die geplante gemeinsame Stadtzukunft gibt er auf.",
+        "Er bleibt am eigenen Hüttenplatz statt in Grey Beavers Siedlung zu ziehen."
+      ],
+      "short": "Jack verzichtet auf die Rückreise und bleibt im Yukon.",
+      "context": "Jack Conroy (Ethan Hawke) steht vor der Abfahrt, erkennt aber, dass sein neuer Lebensort im Norden liegt. Alex Larson (Klaus Maria Brandauer) bestärkt diese Entscheidung mit dem Hinweis auf Jacks Vater. Nach der Rückkehr zum Hüttenplatz findet auch Wolfsblut wieder zu ihm. Der Schluss bewahrt die Freundschaft, weil Jack seine eigenen Zukunftspläne ändert, statt das Tier der Stadt anzupassen.",
+      "anchor": "Jack kehrt um – Wolfsblut kehrt zurück.",
+      "interest": "Der Schluss löst den Gegensatz zwischen geplanter Stadtzukunft und gewachsener Bindung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Ethan Hawke und Klaus Maria Brandauer erstmals?",
+      "answers": [
+        "1991",
+        "1986",
+        "1996",
+        "2000"
+      ],
+      "feedback": [
+        "Die Disney-Fassung erschien erstmals 1991.",
+        "1986 liegt fünf Jahre vor dieser Veröffentlichung.",
+        "1996 liegt fünf Jahre nach dieser Veröffentlichung.",
+        "2000 liegt neun Jahre nach dieser Veröffentlichung."
+      ],
+      "short": "Die erste Veröffentlichung erfolgte 1991.",
+      "context": "1991 kam Ethan Hawkes Goldgräberabenteuer in die Kinos. Drei Jahre später folgte Disneys White Fang 2 mit einer anderen menschlichen Hauptfigur. Das Tierabenteuer bildet damit den Ausgangspunkt einer kurzen Kinoreihe. Disney nennt für den ersten Teil den 18. Januar als US-Start; das Klondike-Milieu der Handlung gehört dagegen ins ausgehende 19. Jahrhundert.",
+      "anchor": "1991: Wolfsblut vor der Fortsetzung von 1994.",
+      "interest": "Der Abstand zur Fortsetzung verbindet das Jahr mit der konkreten Filmfassung.",
+      "sources": [
+        "studio",
+        "archiv"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Disney-Fassung von @ mit Ethan Hawke Regie?",
+      "answers": [
+        "Randal Kleiser",
+        "Carroll Ballard",
+        "Joe Johnston",
+        "Simon Wincer"
+      ],
+      "feedback": [
+        "Randal Kleiser inszenierte diese Fassung.",
+        "Carroll Ballard ist nicht der Regisseur dieser Produktion.",
+        "Joe Johnston trägt hier nicht den Regiecredit.",
+        "Simon Wincer inszenierte diese Fassung nicht."
+      ],
+      "short": "Randal Kleiser führte Regie.",
+      "context": "Der offizielle Disney-Credit nennt Randal Kleiser. Sein Film verbindet Jack Conroys (Ethan Hawke) Suche nach dem Goldclaim mit dem langsamen Vertrauen eines misshandelten Tieres. Die Besetzungsangabe identifiziert gerade diese Adaption von Jack Londons Roman. Sie verhindert, dass der Regiecredit einer anderen Wolfsblut-Verfilmung oder des späteren Disney-Films auf die erste Produktion übertragen wird.",
+      "anchor": "Kleiser inszeniert Hawkes Wolfsblut-Abenteuer.",
+      "interest": "Ein mehrfach verfilmter Stoff erhält einen eindeutig an die Besetzung gebundenen Regiecredit.",
+      "sources": [
+        "studio",
+        "archiv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "as_of": "2026-10-08",
+  "baseline_packages": 24,
+  "baseline_questions": 10877,
+  "baseline_goals": 10315,
+  "baseline_films": 1065,
+  "method": "Tatsächlicher App-Katalog über addPackages/importCsv; Baseline im privaten Arbeitsbereich vollständig erhalten. Hashes der unveränderten bisherigen CSV-Quellen.",
+  "inputs": [
+    {
+      "path": "public/fragen.csv",
+      "sha256": "e928647423f3781bdbcc6e17b2ab0c35fad38d76483e3470ddc312f7d8bdf968"
+    },
+    {
+      "path": "public/action-fragen.csv",
+      "sha256": "65d8c19beab0bfb26d6c28773ea114740efbdc18348415bea53e8e0718f05ffb"
+    },
+    {
+      "path": "public/horror-fragen.csv",
+      "sha256": "59208f8d8632cdfb2b46da60807e86f0b7d6c8b9b225753ebc8e5eec5851e7a4"
+    },
+    {
+      "path": "public/fantasy-fragen.csv",
+      "sha256": "1245252ad7cdbcfcd2954e7752906e1b2f350a8d6f0110e58da96165d5cc1796"
+    },
+    {
+      "path": "public/komoedie-fragen.csv",
+      "sha256": "1b8a8cff72059a60c830de69ca2f60d05143ec52ef35894e5315935f8dcca474"
+    },
+    {
+      "path": "public/western-fragen.csv",
+      "sha256": "62451b9e866e78f87b97daeda3978abca0b41d806ef85a39635e90580fe8cfc0"
+    },
+    {
+      "path": "public/drama-fragen.csv",
+      "sha256": "533bd19be90ab2856862cacc4137c3a41f3f210968be64e6d41b8b78438f86ae"
+    },
+    {
+      "path": "public/classics-fragen.csv",
+      "sha256": "d0b774681bd60bf80c3d2b4fe24c98465a1ef3d35058c60f220a043b92f3d605"
+    },
+    {
+      "path": "public/martialarts-fragen.csv",
+      "sha256": "49a993a274c8603f367588d6f556799541059f029b4e4dba1d644b284bc343fc"
+    },
+    {
+      "path": "public/romcom-fragen.csv",
+      "sha256": "6aced6bd4c649a0e80f2cd8dd0b4b784ff5c626834835d1a3f4f901bc09d9384"
+    },
+    {
+      "path": "public/arthouse-fragen.csv",
+      "sha256": "0df1e274c9fed8cb3d3639a5e7881f79dae955b854b543253a4d1b5cc8d5bc87"
+    },
+    {
+      "path": "public/musik-fragen.csv",
+      "sha256": "d8c47f7931d31ba0bf1108bf1b860e001170a44c7fa21449f514d03e1baab132"
+    },
+    {
+      "path": "public/scifi-ergaenzung-fragen.csv",
+      "sha256": "0bb6ab71112411b46d85ec31d4d012e4c60a565ab0bf4ef1f0bebad4af3be6fe"
+    },
+    {
+      "path": "public/komoedie-ergaenzung-fragen.csv",
+      "sha256": "7c2505c77602a659a26d7ca631a1724caf264396ca3f0c56b73c6e3bf735d4ae"
+    },
+    {
+      "path": "public/alle-genres-120-filme-fragen.csv",
+      "sha256": "00f32a122beb04cb0e9aa6a0c84507ed0254ac6aa192f25cdc45526427ed4502"
+    },
+    {
+      "path": "public/preistraeger-fragen.csv",
+      "sha256": "898cc869cb2c0af879d662a129e23e5cec94eb64276caa55fa65e0584029c09f"
+    },
+    {
+      "path": "public/schauspieler-fragen.csv",
+      "sha256": "8a1c23ad8aec5fcd6a9ba6e0eba90ac05aba43206932a26a6dea5640538b5f45"
+    },
+    {
+      "path": "public/schauspieler-p02-fragen.csv",
+      "sha256": "adb92b7bda7e1094d10ceaaec80cc065c0fab03d74633a23c8a55c3615792a97"
+    },
+    {
+      "path": "public/schauspieler-p03-fragen.csv",
+      "sha256": "bff7323e56d049b14b84373b6028b6a30b4a914d5b54be713cd4db57b39f6656"
+    },
+    {
+      "path": "public/film-ergaenzung-240-fragen.csv",
+      "sha256": "c3ece134e7add4cd7d03cc33617824c7009aed4f8fa26c64852484d159e142cb"
+    },
+    {
+      "path": "public/schauspieler-bilder-fragen.csv",
+      "sha256": "5c8fa6b9327764dd34d71175577cc06d9882e15dd7532a4b8a60db0bfc40042b"
+    },
+    {
+      "path": "public/film-erweiterung-20261007-fragen.csv",
+      "sha256": "d8276e0880755d76b4ee93941787011fb121df1dc550e33b1575c36b7a23821a"
+    },
+    {
+      "path": "public/personen-erweiterung-20261007-fragen.csv",
+      "sha256": "6dbb1e02edf30845b53ade11a7e3379d971077571afc74931c28fa23ef287c29"
+    },
+    {
+      "path": "public/preise-erweiterung-20261007-fragen.csv",
+      "sha256": "3f33016938d546f3c41b53dcfb2fc02ccbe301af5b4728b4d5ad32a785cda244"
+    }
+  ]
+}

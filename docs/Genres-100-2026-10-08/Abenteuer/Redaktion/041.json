@@ -1,0 +1,205 @@
+{
+  "rank": 41,
+  "directors": [
+    "Chris Sanders"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Veröffentlichung 2020; US-Kinostart am 21. Februar. Gemeint ist die Fassung mit Harrison Ford und digital animiertem Buck.",
+  "familiarity_reason": "Die Jack-London-Verfilmung mit Harrison Ford ist ein bekanntes jüngeres Tierabenteuer.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Call_of_the_Wild_(2020_film)",
+    "studio": "https://d23.com/behind-the-scenes-of-the-call-of-the-wild/",
+    "modell": "https://d23.com/the-wild-tail-of-the-dog-at-the-heart-of-the-call-of-the-wild/",
+    "schnitt": "https://cinemontage.org/david-heinz-and-william-hoy-talk-about-editing-harrison-ford-and-a-cgi-dog-in-the-call-of-the-wild/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie beginnt Bucks unfreiwillige Reise nach Norden in @?",
+      "answers": [
+        "Er wird aus seinem Zuhause in Kalifornien gestohlen.",
+        "Er folgt freiwillig einer Wolfsfamilie aus seinem Garten.",
+        "Er läuft bei einem Postrennen bis nach Alaska.",
+        "Sein Besitzer bringt ihn als Geschenk zu Thornton."
+      ],
+      "feedback": [
+        "Buck wird entführt und für den Transport verkauft.",
+        "Eine freiwillige Wolfswanderung ist nicht der Beginn.",
+        "Das Postgespann lernt er erst im Norden kennen.",
+        "Thornton erhält ihn nicht als Geschenk seines ersten Besitzers."
+      ],
+      "short": "Buck wird in Kalifornien gestohlen und in den Norden verschifft.",
+      "context": "Buck lebt zunächst behütet bei Judge Miller (Bradley Whitford). Der Diebstahl beendet dieses vertraute Zuhause, ohne dass das Tier selbst eine Reise gewählt hätte. Im Norden wird es zur Arbeitskraft für andere Menschen. Seine spätere Hinwendung zur Wildnis ist deshalb nicht mit dem Anfang gleichzusetzen: Zunächst verliert Buck die Sicherheit seines alten Lebens gegen seinen Willen.",
+      "anchor": "Bucks Reise beginnt mit einem Diebstahl.",
+      "interest": "Der Einstieg unterscheidet erzwungene Ortsveränderung von der späteren eigenen Orientierung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Aufgabe hat das Gespann von Perrault (Omar Sy) und Françoise (Cara Gee), zu dem Buck in @ gehört?",
+      "answers": [
+        "Es befördert Post.",
+        "Es transportiert Erz aus einem Bergwerk.",
+        "Es zieht einen Schlitten für Jahrmarktsauftritte.",
+        "Es bringt Holz zu einer neuen Eisenbahn."
+      ],
+      "feedback": [
+        "Die Hunde helfen bei der Zustellung der Post.",
+        "Ein Erztransport ist nicht die Aufgabe dieser Strecke.",
+        "Perrault und Françoise betreiben keine Jahrmarktsnummer.",
+        "Der Holztransport beschreibt ihren Auftrag nicht."
+      ],
+      "short": "Perraults und Françoises Gespann stellt Post zu.",
+      "context": "Perrault (Omar Sy) und Françoise (Cara Gee) führen Buck in die Arbeit eines Schlittenhundes ein. Der Postdienst verlangt Tempo, Zusammenarbeit und die Bewältigung gefährlicher Wege. Buck ist zunächst ein ungeschickter Neuling, wächst aber an dieser Verantwortung. Die Strecke wird so zu einer Schule des Handelns, bevor er später ganz andere Formen menschlicher Herrschaft erlebt.",
+      "anchor": "Das Postgespann wird Bucks erste Schule im Norden.",
+      "interest": "Die Arbeitsaufgabe erklärt den Lern- und Reiseabschnitt als zusammenhängenden Teil seiner Entwicklung.",
+      "sources": [
+        "handlung",
+        "studio"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum steht Buck in @ schließlich an der Spitze des Postgespanns?",
+      "answers": [
+        "Er besiegt Spitz und gewinnt den Rückhalt der anderen Hunde.",
+        "Perrault bestimmt ihn ohne eine Auseinandersetzung mit Spitz.",
+        "Spitz wird bei einer Postfahrt verletzt und scheidet aus.",
+        "Françoise verkauft Spitz und kauft Buck als erfahrenen Leithund."
+      ],
+      "feedback": [
+        "Bucks Auseinandersetzung mit Spitz endet mit einem Wechsel der Führung.",
+        "Die Hunde tragen einen Führungswechsel nach dem Kampf mit.",
+        "Spitz verliert seinen Platz im Konflikt mit Buck, nicht durch eine Fahrverletzung.",
+        "Buck kommt als Anfänger und erkämpft sich die Führung."
+      ],
+      "short": "Buck setzt sich gegen Spitz durch und wird Leithund.",
+      "context": "Spitz betrachtet Bucks wachsende Anerkennung als Bedrohung seiner Führungsrolle. Im Kampf wird die Unterstützung der anderen Hunde entscheidend; anschließend lassen sie den alten Platz nicht einfach unbesetzt. Perrault (Omar Sy) muss Bucks neue Stellung akzeptieren. Der Wechsel entsteht damit innerhalb des Gespanns, bevor der Mensch ihn bestätigt, und zeigt Bucks gewachsene Fähigkeit zur Führung.",
+      "anchor": "Das Gespann trägt Bucks Aufstieg mit.",
+      "interest": "Der Führungswechsel verbindet persönlichen Konflikt mit dem Verhalten der Gruppe.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Weshalb endet Perraults (Omar Sy) Arbeit mit dem Gespann in @ trotz der erfolgreichen Postfahrt?",
+      "answers": [
+        "Die Telegraphie ersetzt die Postroute.",
+        "Perrault nimmt einen neuen Auftrag ohne Hundegespann in Europa an.",
+        "Hal übernimmt den Postvertrag und verlangt sofort die Herausgabe der Hunde.",
+        "Die Behörden sperren die Route nach einem Lawinenunglück dauerhaft."
+      ],
+      "feedback": [
+        "Eine neue Kommunikationsform macht die Route überflüssig.",
+        "Der Film begründet das Ende mit der Ablösung durch Telegraphie.",
+        "Hal kauft die Tiere später, übernimmt aber nicht den Postvertrag.",
+        "Keine dauerhafte behördliche Sperre beendet hier die Strecke."
+      ],
+      "short": "Die Poststrecke wird durch die Telegraphie ersetzt.",
+      "context": "Buck und das Gespann haben ihren Auftrag bewältigt, doch der Erfolg garantiert keine Fortsetzung. Perrault (Omar Sy) erfährt, dass die Telegraphie ihre Arbeit ersetzt. Die Hunde werden verkauft und gelangen an Hal (Dan Stevens). Dieser Übergang beruht auf einer Veränderung außerhalb des Gespanns; seine neue Notlage ist keine Folge mangelnder Leistung auf der bisherigen Route.",
+      "anchor": "Erfolgreiche Hunde verlieren ihre Arbeit an den Telegraphen.",
+      "interest": "Technischer Wandel erklärt den Besitzerwechsel jenseits eines persönlichen Versagens.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie behandelt John Thornton (Harrison Ford) in @ das gefundene Gold vor seiner geplanten Heimkehr?",
+      "answers": [
+        "Er wirft fast alles zurück und behält einen Lebensunterhalt.",
+        "Er vergräbt alles für eine spätere Expedition.",
+        "Er lässt Buck den Fund allein bewachen.",
+        "Er gibt Hal alles, um ihn abzuschütteln."
+      ],
+      "feedback": [
+        "Thornton gibt das meiste Gold wieder an den Fluss zurück.",
+        "Thornton trennt sich bewusst vom meisten Gold.",
+        "Er macht Buck nicht zum Wächter seines Schatzes.",
+        "Er vereinbart keine vollständige Goldübergabe an Hal."
+      ],
+      "short": "Thornton behält nur einen kleinen Bedarf und wirft das meiste Gold zurück.",
+      "context": "John Thornton (Harrison Ford) findet mit Buck einen abgeschiedenen Lebensraum und tatsächlich Gold. Sein Umgang damit widerspricht Hals (Dan Stevens) Annahme, jeder sei vor allem auf Reichtum aus. Thornton braucht etwas für die Heimkehr, hält aber am Schatz nicht fest. Das Abenteuer hat ihm einen anderen Wert erschlossen: die gemeinsame Zeit und die Bereitschaft, sich seiner eigenen Vergangenheit wieder zuzuwenden.",
+      "anchor": "Thornton findet Gold, aber keinen neuen Lebenszweck darin.",
+      "interest": "Der Umgang mit dem Schatz grenzt zwei menschliche Lebenshaltungen konkret voneinander ab.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Aufgabe übernahm Terry Notary bei der Gestaltung Bucks in @?",
+      "answers": [
+        "Er spielte am Set die lebende Referenz für die später animierte Hundefigur.",
+        "Er lieferte eine komplett aufgezeichnete Motion-Capture-Performance für den fertigen Hund.",
+        "Er führte am Set die echten Hunde, die Buck in den Nahaufnahmen darstellen.",
+        "Er gab Buck ausschließlich in der Tonaufnahme seine Laute."
+      ],
+      "feedback": [
+        "Notary bot Schauspielern und Kamera einen körperlichen Bezugspunkt für Buck.",
+        "Die Editoren unterscheiden die Referenz ausdrücklich von der vollständig übernommenen Motion-Capture-Performance.",
+        "Buck ist digital animiert; Notary führte keine Tierdoubles der Hauptfigur.",
+        "Er war ein körperlicher Partner am Set, nicht bloß Bucks Lautdarsteller."
+      ],
+      "short": "Notary war Bucks Referenzdarsteller am Set; der sichtbare Hund entstand durch Animation.",
+      "context": "Harrison Ford konnte beim Dreh auf einen anwesenden Partner reagieren, obwohl der fertige Buck digital entstand. Terry Notary lieferte dafür eine lebende Referenz. Die Filmeditoren unterscheiden diesen Ablauf ausdrücklich von einer vollständig übernommenen Motion-Capture-Performance: Menschen- und Hundekörper bewegen sich verschieden. Die Animation entwickelte die endgültige Tierdarstellung, während Notary den Darstellern und der Kamera Orientierung gab.",
+      "anchor": "Notary am Set – Buck aus der Animation.",
+      "interest": "Der Produktionszusammenhang korrigiert die naheliegende Verwechslung von Referenzspiel und fertiger Tierperformance.",
+      "sources": [
+        "studio",
+        "schnitt"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann wurde @ in der Fassung mit Harrison Ford als John Thornton erstmals veröffentlicht?",
+      "answers": [
+        "2020",
+        "2015",
+        "2010",
+        "2025"
+      ],
+      "feedback": [
+        "Die Fassung mit Ford wurde 2020 veröffentlicht.",
+        "2015 liegt fünf Jahre vor dieser Fassung.",
+        "2010 liegt zehn Jahre vor dieser Fassung.",
+        "2025 liegt fünf Jahre nach dieser Fassung."
+      ],
+      "short": "Die erste Veröffentlichung erfolgte 2020.",
+      "context": "2020 kam die Harrison-Ford-Fassung in die Kinos. Chris Sanders hatte schon 2002 die Figur Stitch mitgeschaffen und gesprochen; nun führte er reale Schauspieler und eine digitale Tierhauptfigur zusammen. Der Abstand von achtzehn Jahren verbindet zwei sehr verschiedene Produktionsformen seiner Arbeit. Disneys Bericht kündigte für Ruf der Wildnis den US-Start am 21. Februar an.",
+      "anchor": "2020: Sanders verbindet Ford mit dem digitalen Buck.",
+      "interest": "Sanders’ Weg vom Animationsfilm zur Mischproduktion gibt dem Jahr einen filmbezogenen Anker.",
+      "sources": [
+        "studio"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Harrison Ford und Omar Sy Regie?",
+      "answers": [
+        "Chris Sanders",
+        "Dean DeBlois",
+        "Andrew Stanton",
+        "Gore Verbinski"
+      ],
+      "feedback": [
+        "Chris Sanders inszenierte diese Fassung.",
+        "DeBlois teilt diesen Regiecredit nicht.",
+        "Stanton führte bei dieser Fassung nicht Regie.",
+        "Verbinski ist hier nicht der Regisseur."
+      ],
+      "short": "Chris Sanders trägt den Regiecredit.",
+      "context": "Chris Sanders bringt seine Erfahrung im Animationsfilm in die Begegnung zwischen Harrison Ford und Buck ein. Der sichtbare Hund wurde animiert, während Menschen ihre Rollen in realen Aufnahmen spielten. Die Regie musste diese beiden Ebenen zu glaubwürdigen Beziehungen verbinden. Der offizielle Disney-Bericht nennt Sanders als Regisseur und grenzt seine Arbeit damit eindeutig von anderen Jack-London-Adaptionen ab.",
+      "anchor": "Sanders führt Menschen und digitalen Hund zusammen.",
+      "interest": "Der Regiecredit wird mit der konkreten Gestaltungsaufgabe dieser Fassung verbunden.",
+      "sources": [
+        "studio"
+      ]
+    }
+  ]
+}

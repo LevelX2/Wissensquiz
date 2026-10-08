@@ -1,0 +1,207 @@
+{
+  "rank": 36,
+  "directors": [
+    "Peter Weir"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA",
+    "Vereinigte Arabische Emirate"
+  ],
+  "country_note": "Länder nach den BFI-Programmanmerkungen (UK/USA/UAE). Die BFI-Veranstaltungsseite führt abweichend Polen/UAE/USA; Wikipedia verkürzt auf USA. Produktionsbeteiligungen und Katalogisierung sind hier nicht gleichzusetzen.",
+  "release_note": "Erste öffentliche Vorstellung beim Telluride Film Festival am 3. September 2010; US-Kinostart noch im Dezember 2010. Spätere breite Länderstarts 2011 bestimmen nicht das Filmjahr.",
+  "familiarity_reason": "Peter Weirs spätes Überlebensabenteuer mit prominenter Besetzung ist eher einem filmpolitisch und historisch interessierten Publikum vertraut.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Way_Back_(2010_film)",
+    "bfi": "https://bfidatadigipres.github.io/finding%20your%20way%3Cbr%3Ethe%20films%20of%20peter%20weir/2026/04/26/way-back/",
+    "laender": "https://whatson.bfi.org.uk/online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=way-back"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Aus welcher Gefangenschaft entkommt Janusz (Jim Sturgess) in @?",
+      "answers": [
+        "Aus einem sowjetischen Arbeitslager in Sibirien",
+        "Aus einem britischen Kriegsgefangenenlager in Indien",
+        "Aus einem deutschen Gefängnis in Warschau",
+        "Aus einem japanischen Lager in China"
+      ],
+      "feedback": [
+        "Janusz flieht aus einem sibirischen Gulag.",
+        "Indien wird zum Zufluchtsziel, nicht zum Ausgangslager.",
+        "Er wird von der sowjetischen Staatsmacht verurteilt.",
+        "Die Flucht beginnt nicht in japanischer Gefangenschaft."
+      ],
+      "short": "Die Flucht beginnt in einem sibirischen Gulag.",
+      "context": "Janusz (Jim Sturgess) wurde aufgrund einer unter Folter erzwungenen Aussage seiner Frau verurteilt. Im Lager schließt er sich mit anderen Gefangenen zusammen. Ein Schneesturm hilft beim Ausbruch, weil er die Spuren verdeckt. Hinter dem Stacheldraht endet jedoch nur die erste Gefahr: Ohne Nahrung und Ausrüstung wird die weite Landschaft selbst zur Bedrohung.",
+      "anchor": "Das Lager liegt hinter ihnen, Sibirien noch vor ihnen.",
+      "interest": "Die Ausgangslage macht das Überleben nach der Flucht verständlich.",
+      "sources": [
+        "handlung",
+        "bfi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welches Land wird in @ schließlich zum Zufluchtsziel der zu Fuß fliehenden Gruppe?",
+      "answers": [
+        "Britisch-Indien",
+        "Die Mongolei",
+        "China",
+        "Tibet"
+      ],
+      "feedback": [
+        "Die Überlebenden suchen Sicherheit in Britisch-Indien.",
+        "Die Mongolei ist der erste geplante Ausweg, wird aber wegen ihrer kommunistischen Herrschaft nicht zum endgültigen Ziel.",
+        "China gehört zur Route, nicht zum letzten Zufluchtsziel der weiterziehenden Gruppe.",
+        "Tibet ermöglicht Erholung und einen getrennten Ausweg für Smith; die übrigen gehen nach Indien weiter."
+      ],
+      "short": "Die Reise führt die Überlebenden bis nach Britisch-Indien.",
+      "context": "Anfangs erscheint die Mongolei als erreichbarer Ausweg. Dort bemerken die Flüchtenden jedoch ebenfalls die kommunistische Herrschaft. Janusz (Jim Sturgess) und seine Begleiter müssen den Fluchtplan ändern. Die Fortsetzung über Wüste und Himalaya macht aus dem Ausbruch einen langen Marsch; erst in Indien liegt das Ziel außerhalb des Machtbereichs, dem sie entkommen wollen.",
+      "anchor": "Die erste Grenze reicht noch nicht zur Freiheit.",
+      "interest": "Das Reiseziel erschließt, warum der Weg nach der Mongolei weitergeht.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum trennt sich Valka (Colin Farrell) in @ an der Grenze zur Mongolei von der Gruppe?",
+      "answers": [
+        "Er möchte die Sowjetunion trotz seiner Flucht nicht verlassen.",
+        "Er erhält einen Auftrag von einer britischen Botschaft.",
+        "Er muss eine verlorene Landkarte aus dem Lager holen.",
+        "Er will allein über den Pazifik nach Amerika reisen."
+      ],
+      "feedback": [
+        "Seine Bindung an die sowjetische Heimat und Stalin hält ihn zurück.",
+        "Ein britischer Auftrag führt nicht zur Trennung.",
+        "Eine vergessene Karte ist nicht der Anlass.",
+        "Eine Pazifikreise plant er hier nicht."
+      ],
+      "short": "Valka flieht aus dem Lager, aber nicht aus seiner Heimatbindung.",
+      "context": "Valka (Colin Farrell) ist ein gewalttätiger Krimineller und verehrt Stalin. Er kann gegen die Lagerordnung handeln, ohne deshalb das ganze Land abzulehnen. An der Grenze kommt dieser Widerspruch zum Vorschein. Die anderen setzen ihren Weg fort, während er zurückbleibt. Gemeinsame Flucht bedeutet somit keineswegs, dass alle dasselbe unter Freiheit verstehen.",
+      "anchor": "Valka will aus dem Lager, aber nicht aus dem Land.",
+      "interest": "Die Entscheidung unterscheidet persönliche Fluchtmotive statt nur Reiseetappen abzufragen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche wahre Vorgeschichte gesteht Irena (Saoirse Ronan) in @ nach Mr. Smiths (Ed Harris) Nachfrage?",
+      "answers": [
+        "Ihre kommunistischen Eltern starben; sie kam ins Waisenhaus.",
+        "Sie lief nach einem Familienstreit von zu Hause fort.",
+        "Ihr Vater schickte sie als Spitzel zur Gruppe.",
+        "Ihre Familie wartet auf der Flucht in der Mongolei."
+      ],
+      "feedback": [
+        "Irena erklärt schließlich ihre wirkliche Lage als Waise.",
+        "Sie gesteht nicht einen Streit mit lebenden Eltern.",
+        "Eine Spitzelrolle im Auftrag ihres Vaters wird nicht offenbart.",
+        "Eine wartende Familie in der Mongolei gibt es nicht."
+      ],
+      "short": "Irenas kommunistische Eltern wurden getötet; sie lebte danach im Waisenhaus.",
+      "context": "Irena (Saoirse Ronan) erzählt zunächst eine Geschichte über sowjetische Soldaten und einen Aufenthalt auf einem Bauernkollektiv bei Warschau. Mr. Smith (Ed Harris) bemerkt einen Widerspruch zur Besatzung der Stadt. Daraufhin erklärt sie, dass ihre kommunistischen Eltern getötet wurden und sie als Waise aufwuchs. Er erkennt ihre Lüge, begegnet der allein reisenden Jugendlichen aber dennoch mit Fürsorge.",
+      "anchor": "Hinter Irenas erfundener Fluchtgeschichte steht die wirkliche Einsamkeit einer Waise.",
+      "interest": "Die korrigierte Vorgeschichte erklärt ihre Schutzbedürftigkeit ohne einen Widerspruch als Lösungshinweis auszunutzen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche andere Ausreisemöglichkeit wählt Mr. Smith (Ed Harris) in @, während Janusz (Jim Sturgess) weiter nach Indien geht?",
+      "answers": [
+        "Er nutzt einen Kontakt in Lhasa für eine Weiterreise über China.",
+        "Er kehrt freiwillig ins sowjetische Lager zurück.",
+        "Er schließt sich einer japanischen Armee an.",
+        "Er wartet in der Gobi auf ein polnisches Flugzeug."
+      ],
+      "feedback": [
+        "Ein Kontakt des tibetischen Mönchs soll ihm die Ausreise über China ermöglichen.",
+        "Eine Rückkehr ins Gulag wählt er nicht.",
+        "Er tritt keiner japanischen Armee bei.",
+        "Die Trennung erfolgt nach der Wüste, nicht an einem Flugzeugtreffpunkt."
+      ],
+      "short": "Smith nimmt in Tibet eine eigene Route zur Ausreise.",
+      "context": "Nachdem ein tibetisches Kloster der erschöpften Gruppe Erholung ermöglicht, eröffnet sich Mr. Smith (Ed Harris) eine andere Chance. Ein Kontakt soll ihn von Lhasa aus über China zu amerikanischen Stellen bringen. Janusz (Jim Sturgess) zieht mit zwei Begleitern weiter. Das Ende der gemeinsamen Wanderung bedeutet deshalb nicht für jeden Überlebenden dasselbe Ziel oder denselben Heimweg.",
+      "anchor": "Eine gemeinsame Rettung kann verschiedene Heimwege haben.",
+      "interest": "Der Abzweig erklärt das unterschiedliche Schicksal der Überlebenden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche politische Veränderung ermöglicht Janusz (Jim Sturgess) am Ende von @ die Heimkehr zu seiner Frau?",
+      "answers": [
+        "Das Ende der kommunistischen Herrschaft in Polen",
+        "Die deutsche Besetzung Polens",
+        "Stalins Machtübernahme in der Sowjetunion",
+        "Der Beginn des Krieges zwischen Japan und China"
+      ],
+      "feedback": [
+        "Er kehrt nach dem Umbruch in Polen 1989 heim.",
+        "Die deutsche Besetzung liegt am Anfang des historischen Umfelds.",
+        "Stalins Herrschaft gehört zu seiner Verfolgungsgeschichte.",
+        "Der Krieg in Ostasien erklärt nicht seine spätere Heimkehr."
+      ],
+      "short": "Janusz kehrt nach dem politischen Umbruch von 1989 nach Polen zurück.",
+      "context": "Janusz (Jim Sturgess) hat die Naturgefahren überstanden, doch die Trennung von seiner Frau dauert noch Jahrzehnte. Der Film schließt mit seiner Rückkehr nach dem Ende der kommunistischen Herrschaft in Polen. Jetzt erreicht er endlich den zuvor nur vorgestellten Schlüssel am Haus. Die persönliche Versöhnung wird dadurch mit einer historischen Veränderung verbunden, die der Fußmarsch allein nicht herbeiführen konnte.",
+      "anchor": "Der Marsch rettet ihn; der Umbruch ermöglicht die Heimkehr.",
+      "interest": "Das Finale verbindet das körperliche Überleben mit einem viel längeren politischen Exil.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Jim Sturgess und Ed Harris erstmals öffentlich gezeigt?",
+      "answers": [
+        "2010",
+        "2003",
+        "2007",
+        "2013"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 2010.",
+        "2003 liegt sieben Jahre davor.",
+        "2007 liegt drei Jahre davor.",
+        "2013 liegt drei Jahre danach."
+      ],
+      "short": "Die erste Veröffentlichung erfolgte 2010.",
+      "context": "2010 blickt Peter Weir auf einen Fluchtbeginn im Zweiten Weltkrieg zurück. Die BFI-Anmerkungen setzen den Lagerausbruch 1940 an: Zwischen Handlungsbeginn und Filmjahr liegen rund siebzig Jahre. So bleiben die historische Zeit der Figuren und der Zeitpunkt der Verfilmung unterscheidbar. Die spätere Heimkehr verlängert die erzählte Lebensgeschichte weit über die eigentliche Wanderung hinaus.",
+      "anchor": "2010: ein Film siebzig Jahre nach seinem Fluchtbeginn.",
+      "interest": "Der historische Abstand liefert einen individuellen zeitlichen Anker.",
+      "sources": [
+        "handlung",
+        "bfi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Jim Sturgess, Ed Harris und Saoirse Ronan?",
+      "answers": [
+        "Peter Weir",
+        "Danny Boyle",
+        "John Hillcoat",
+        "Philip Noyce"
+      ],
+      "feedback": [
+        "Peter Weir führte Regie.",
+        "Boyle inszenierte diesen Film nicht.",
+        "Hillcoat trägt diesen Regiecredit nicht.",
+        "Noyce ist nicht der Regisseur dieser Fassung."
+      ],
+      "short": "Peter Weir führte Regie.",
+      "context": "Peter Weir setzt die Figuren einer Reise aus, bei der jede Entscheidung Folgen für die anderen hat. Seine in den BFI-Anmerkungen erläuterte Absicht richtet sich auf gegenseitige Abhängigkeit: Im Lager schützt Selbstbehauptung, unterwegs wird Vertrauen lebenswichtig. Der Regiecredit verbindet deshalb ein großes Landschaftsabenteuer mit der Beobachtung menschlichen Verhaltens unter extremer Belastung.",
+      "anchor": "Weirs Fluchtgeschichte prüft, wer sich auf wen verlassen kann.",
+      "interest": "Der Credit erhält einen belegten Bezug zur Arbeitsabsicht des Regisseurs.",
+      "sources": [
+        "bfi"
+      ]
+    }
+  ]
+}

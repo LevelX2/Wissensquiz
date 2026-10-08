@@ -1,0 +1,206 @@
+{
+  "rank": 22,
+  "directors": [
+    "Ridley Scott"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Kinostart am 2. Februar 1996.",
+  "familiarity_reason": "Das Segelschuldrama ist innerhalb von Scotts Werk ein weniger geläufiger Abenteuerfilm.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/White_Squall_(film)",
+    "archiv": "https://catalog.afi.com/Catalog/MovieDetails/60620",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/Thelma_%26_Louise",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufgabe erfüllt die Albatross für die Jungen in @?",
+      "answers": [
+        "Sie ist ein Segelschulschiff.",
+        "Sie ist ein geheimes Kriegsschiff.",
+        "Sie ist ein schwimmendes Gefängnis.",
+        "Sie ist ausschließlich ein Frachtschiff."
+      ],
+      "feedback": [
+        "Die Fahrt verbindet Schule und seemännische Ausbildung.",
+        "Ein geheimer Kriegseinsatz ist nicht ihr Auftrag.",
+        "Die Jungen sind keine Gefangenen.",
+        "Die Fahrt dient nicht nur dem Frachttransport."
+      ],
+      "short": "Die Fahrt verbindet Schule und seemännische Ausbildung.",
+      "context": "Skipper Sheldon (Jeff Bridges) führt Jugendliche auf eine Ausbildungsreise. Seemannschaft wird dabei zum Weg, Verantwortung und Zusammenarbeit zu lernen. Der spätere Untergang trifft deshalb eine Gemeinschaft, die erst während der Fahrt aus sehr unterschiedlichen Jungen entsteht.",
+      "anchor": "Auf der Albatross lernt man mehr als Segeln.",
+      "interest": "Der Reiseauftrag erklärt den Erziehungsaspekt des Films.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Woran leidet Gil (Ryan Phillippe), als er in @ beim Aufstieg in die Takelage helfen soll?",
+      "answers": [
+        "An Höhenangst",
+        "An Seekrankheit",
+        "An einer Knieverletzung",
+        "An Panik vor einem nahenden Gewitter"
+      ],
+      "feedback": [
+        "Seine Höhenangst verhindert zunächst den Aufstieg.",
+        "Sein Problem ist die Höhe in der Takelage, nicht der Seegang.",
+        "Keine Knieverletzung verhindert den geforderten Aufstieg.",
+        "Der erste Konflikt entsteht durch Höhe, nicht Gewitterangst."
+      ],
+      "short": "Seine Höhenangst verhindert zunächst den Aufstieg.",
+      "context": "Gil (Ryan Phillippe) kann in der Höhe nicht so handeln, wie die Mannschaft es braucht. Sheldon (Jeff Bridges) muss selbst eingreifen. Die Angst ist ein Ausgangspunkt für Gils Entwicklung: Später zeigt der Junge an derselben Takelage einen Schritt über seine bisherige Grenze hinaus.",
+      "anchor": "Gils Grenze liegt in der Höhe.",
+      "interest": "Die Szene etabliert eine später wieder aufgegriffene persönliche Aufgabe.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum wird Frank (Jeremy Sisto) in @ von der Reise ausgeschlossen?",
+      "answers": [
+        "Er verletzt aus Wut einen Delfin mit einer Harpune.",
+        "Er greift Sheldon nach einer Disziplinarmaßnahme körperlich an.",
+        "Er verlässt unerlaubt mit dem Beiboot das Schiff.",
+        "Er betrinkt sich während seines Wachdienstes."
+      ],
+      "feedback": [
+        "Der Angriff auf den Delfin führt zu seinem Ausschluss.",
+        "Der Ausschluss folgt auf den Harpunenangriff gegen den Delfin.",
+        "Eine heimliche Fahrt im Beiboot ist nicht der Grund.",
+        "Ein betrunkener Wachdienst löst diesen Ausschluss nicht aus."
+      ],
+      "short": "Der Angriff auf den Delfin führt zu seinem Ausschluss.",
+      "context": "Nach einem Konflikt mit seinem Vater lässt Frank (Jeremy Sisto) seine Wut an einem Delfin aus. Sheldon (Jeff Bridges) muss das leidende Tier töten und schickt den Jungen von Bord. Der Film verbindet die private Verletzung damit mit einer Handlung, für die Frank Verantwortung übernehmen muss.",
+      "anchor": "Frank trifft mit seiner Wut das falsche Wesen.",
+      "interest": "Ursache und Konsequenz einer Fehlhandlung werden nachvollziehbar.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Handlung Gils (Ryan Phillippe) gibt Franks Abschied in @ eine zusätzliche Bedeutung?",
+      "answers": [
+        "Er steigt hinauf und läutet die Schiffsglocke.",
+        "Er übergibt ihm die von den Jungen unterschriebene Seekarte.",
+        "Er springt ins Wasser und schwimmt ihm zum Anleger nach.",
+        "Er übernimmt an seiner Stelle öffentlich die Verantwortung."
+      ],
+      "feedback": [
+        "Gil überwindet seine Höhenangst für den Abschied.",
+        "Der Abschied erhält seine Bedeutung durch Gils Aufstieg zur Glocke.",
+        "Gil bleibt zum Läuten an Bord und schwimmt nicht zum Anleger.",
+        "Er übernimmt nicht Franks Schuld am Delfinvorfall."
+      ],
+      "short": "Gil überwindet seine Höhenangst für den Abschied.",
+      "context": "Frank (Jeremy Sisto) verlässt die Gruppe. Gil (Ryan Phillippe) klettert zum Läuten der Glocke hinauf und schafft damit, was ihm anfangs unmöglich erschien. Der Abschied verbindet eine persönliche Entwicklung mit dem Zeichen, dass Frank trotz seiner Verfehlung zur entstandenen Gemeinschaft gehört.",
+      "anchor": "Gil steigt für einen anderen über seine Angst hinaus.",
+      "interest": "Ein wiederholter Handlungsort macht Entwicklung sichtbar.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie reagieren die überlebenden Schüler in @, als Sheldon (Jeff Bridges) für die Katastrophe verantwortlich gemacht wird?",
+      "answers": [
+        "Sie stellen sich öffentlich hinter ihn.",
+        "Sie verlangen die Verurteilung des Skippers wegen bewusster Gefährdung.",
+        "Sie einigen sich darauf, vor dem Untersuchungsausschuss zu schweigen.",
+        "Sie erklären, dass Frank den Untergang verursacht habe."
+      ],
+      "feedback": [
+        "Die Jungen unterstützen ihren Lehrer.",
+        "Die Überlebenden treten für Sheldon ein.",
+        "Sie machen ihren Zusammenhalt öffentlich statt gemeinsam zu schweigen.",
+        "Frank wird von ihnen nicht als Verursacher des Untergangs benannt."
+      ],
+      "short": "Die Jungen unterstützen ihren Lehrer.",
+      "context": "Sheldon (Jeff Bridges) nimmt die Verantwortung für den Untergang auf sich. Die überlebenden Jungen treten jedoch für ihn ein. Was auf See als Zusammenhalt gelernt wurde, wird nun an Land sichtbar: Die Gemeinschaft endet nicht mit dem Ende der Fahrt.",
+      "anchor": "Die Schüler tragen den Zusammenhalt in die Anhörung.",
+      "interest": "Die Schlussreaktion prüft die Wirkung der gemeinsamen Ausbildung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Was verändert Frank (Jeremy Sisto) im Schluss von @ gegenüber dem Einfluss seiner Eltern?",
+      "answers": [
+        "Er widerspricht ihnen, um Sheldon zu unterstützen.",
+        "Er nimmt öffentlich jede Verantwortung für den Delfinvorfall zurück.",
+        "Er entschuldigt sich bei den Eltern für sein Vertrauen in Sheldon.",
+        "Er will Sheldon nur unterstützen, wenn sein Ausschluss aufgehoben wird."
+      ],
+      "feedback": [
+        "Frank entscheidet sich selbst für den Skipper.",
+        "Sein Eintreten für Sheldon löscht seine eigene Verfehlung nicht aus.",
+        "Er widerspricht ihren Vorwürfen statt sich ihrem Urteil zu unterwerfen.",
+        "Er macht den Rückhalt für Sheldon nicht von dieser Bedingung abhängig."
+      ],
+      "short": "Frank entscheidet sich selbst für den Skipper.",
+      "context": "Franks Eltern treiben die Vorwürfe gegen Sheldon (Jeff Bridges) voran. Frank (Jeremy Sisto) stellt sich ihnen entgegen und unterstützt den Mann, der ihn von Bord geschickt hatte. Seine Entwicklung zeigt sich damit in einer selbstständigen Entscheidung, die persönliche Kränkung und Verantwortung auseinanderhält.",
+      "anchor": "Frank steht zu Sheldon statt unter dem Vater.",
+      "interest": "Der Schluss verbindet Selbstständigkeit und Anerkennung einer zuvor abgelehnten Grenze.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Jeff Bridges als Skipper erstmals?",
+      "answers": [
+        "1996",
+        "1992",
+        "2000",
+        "2004"
+      ],
+      "feedback": [
+        "Der Film erschien 1996.",
+        "1992 liegt vier Jahre davor.",
+        "2000 liegt vier Jahre danach.",
+        "2004 liegt acht Jahre danach."
+      ],
+      "short": "Der Film erschien 1996.",
+      "context": "Ridley Scotts Thelma & Louise erschien 1991. White Squall folgte 1996, fünf Jahre später, und verlegte das Reiseabenteuer von der Straße auf ein Segelschulschiff. Jeff Bridges spielt den verantwortlichen Skipper. Die zwei Filmjahre verbinden unterschiedliche Reisegeschichten desselben Regisseurs: In beiden gerät eine zunächst auf Aufbruch angelegte Fahrt in einen Konflikt mit Gefahr und ihren Folgen.",
+      "anchor": "1991 Straßenreise – 1996 Segelreise: fünf Jahre zwischen Scotts Reiseabenteuern.",
+      "interest": "Die besondere Bordgemeinschaft verankert das Jahr.",
+      "sources": [
+        "archiv",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Jeff Bridges und einer jugendlichen Segelmannschaft?",
+      "answers": [
+        "Ridley Scott",
+        "Peter Weir",
+        "Frank Marshall",
+        "Robert Zemeckis"
+      ],
+      "feedback": [
+        "Ridley Scott führte Regie.",
+        "Weir trägt diesen Credit nicht.",
+        "Marshall inszenierte diesen Film nicht.",
+        "Zemeckis führte hier nicht Regie."
+      ],
+      "short": "Ridley Scott führte Regie.",
+      "context": "Ridley Scott inszeniert die Albatross zunächst als engen Lernraum und später als Ort einer Katastrophe. Der Regiecredit betrifft den Film mit Jeff Bridges. Die Verbindung von Abenteuer und Erziehung unterscheidet diese Arbeit innerhalb seines oft stärker militärisch oder fantastisch geprägten Werks.",
+      "anchor": "Scott schickt Bridges auf die Ausbildungsfahrt.",
+      "interest": "Der Credit wird mit dem besonderen Thema verbunden.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1770 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "as_of": "2026-10-08",
+  "integration_route": "explicit_csv_year_and_director",
+  "films": [
+    {
+      "rank": 1,
+      "film_title_de": "Unter Piratenflagge",
+      "film_title_original": "Captain Blood",
+      "film_year": 1935,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein Schlüsselwerk des Piratenkinos und der Karriere Errol Flynns; für heutige Zuschauer eher ein Kennerklassiker.",
+      "directors": [
+        "Michael Curtiz"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Premiere in New York am 26. Dezember 1935; regulärer US-Start am 28. Dezember.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Captain_Blood_(1935_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/3887-CAPTAIN-BLOOD",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "einordnung",
+          "url": "https://www.bfi.org.uk/lists/10-great-swashbucklers",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-001-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-001-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-001-D"
+    },
+    {
+      "rank": 2,
+      "film_title_de": "Der rote Korsar",
+      "film_title_original": "The Crimson Pirate",
+      "film_year": 1952,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Burt Lancasters akrobatischer Piratenklassiker ist im deutschsprachigen Abenteuerkino bekannt.",
+      "directors": [
+        "Robert Siodmak"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "New Yorker Veröffentlichung am 27. August 1952.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Crimson_Pirate",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/50456-THE-CRIMSON-PIRATE",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "einordnung",
+          "url": "https://www.bfi.org.uk/lists/10-great-swashbucklers",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-002-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-002-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-002-D"
+    },
+    {
+      "rank": 3,
+      "film_title_de": "20.000 Meilen unter dem Meer",
+      "film_title_original": "20,000 Leagues Under the Sea",
+      "film_year": 1954,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Disney-Verfilmung mit James Mason und Kirk Douglas gehört zu den weithin bekannten Verne-Abenteuern.",
+      "directors": [
+        "Richard Fleischer"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "US-Veröffentlichung am 23. Dezember 1954.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1954_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "disney",
+          "url": "https://d23.com/a-to-z/20000-leagues-under-the-sea-film/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "produktion",
+          "url": "https://d23.com/20000-leagues-under-the-sea-70-years-of-the-mightiest-motion-picture-of-them-all/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "geschichte",
+          "url": "https://d23.com/a-to-z/disneyland/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-003-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-003-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-003-D"
+    },
+    {
+      "rank": 4,
+      "film_title_de": "In 80 Tagen um die Welt",
+      "film_title_original": "Around the World in Eighty Days",
+      "film_year": 1956,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Verne-Verfilmung mit David Niven und Cantinflas ist ein bekannter Klassiker des Reiseabenteuers.",
+      "directors": [
+        "Michael Anderson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "New Yorker Premiere am 17. Oktober 1956.",
+      "director_note": "Offizieller Regiecredit: Michael Anderson. AFI dokumentiert zuvor John Farrow sowie die Mitwirkung von Produzent Mike Todd an einzelnen Sequenzen; sie werden nicht als falsche Alternativen verwendet.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Around_the_World_in_80_Days_(1956_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/51739-AROUND-THEWORLDINEIGHTYDAYS",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-004-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-004-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-004-D"
+    },
+    {
+      "rank": 5,
+      "film_title_de": "Sindbads 7. Reise",
+      "film_title_original": "The 7th Voyage of Sinbad",
+      "film_year": 1958,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Das frühe Harryhausen-Abenteuer mit Zyklop und Skelettkrieger ist ein bekannter Klassiker des fantastischen Abenteuerkinos.",
+      "directors": [
+        "Nathan Juran"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Veröffentlichung am 17. Dezember 1958.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_7th_Voyage_of_Sinbad",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypicturesmuseum.com/collection/film/570/7th-voyage-of-sinbad-the.html",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "filmgeschichte",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/sinbad.pdf",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-005-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-005-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-005-D"
+    },
+    {
+      "rank": 6,
+      "film_title_de": "Die Reise zum Mittelpunkt der Erde",
+      "film_title_original": "Journey to the Center of the Earth",
+      "film_year": 1959,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Verne-Verfilmung mit James Mason und Pat Boone ist ein bekannter Klassiker unterirdischer Expeditionen.",
+      "directors": [
+        "Henry Levin"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "US-Veröffentlichung am 16. Dezember 1959.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth_(1959_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-006-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-006-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-006-D"
+    },
+    {
+      "rank": 7,
+      "film_title_de": "Ivanhoe – Der schwarze Ritter",
+      "film_title_original": "Ivanhoe",
+      "film_year": 1952,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Ritterverfilmung mit Robert Taylor und Elizabeth Taylor ist ein historischer Kennerklassiker.",
+      "directors": [
+        "Richard Thorpe"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI verzeichnet die Londoner Eröffnung am 21. Juni 1952. US-Aufführungen folgten; die AFI-Katalogüberschrift führt abweichend 1953.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Ivanhoe_(1952_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/50525",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-007-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-007-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-007-D"
+    },
+    {
+      "rank": 8,
+      "film_title_de": "Die drei Musketiere",
+      "film_title_original": "The Three Musketeers",
+      "film_year": 1948,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die MGM-Fassung mit Gene Kelly gehört zum klassischen Mantel-und-Degen-Kino, ist aber weniger präsent als die Musicals des Stars.",
+      "directors": [
+        "George Sidney"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI nennt den 26. November 1948 als Veröffentlichung.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Three_Musketeers_(1948_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/25774-THE-THREE-MUSKETEERS",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/The_Three_Musketeers",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-008-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-008-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-008-D"
+    },
+    {
+      "rank": 9,
+      "film_title_de": "Die vier Musketiere",
+      "film_title_original": "The Four Musketeers",
+      "film_year": 1974,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Der zweite Lester-Musketierfilm ist ein prägender, heute eher von Genrekennern erinnerter Dumas-Film.",
+      "directors": [
+        "Richard Lester"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "country_note": "Criterion nennt Großbritannien und USA; andere Kataloge reduzieren die Herkunft auf Großbritannien.",
+      "release_note": "Erstveröffentlichung 1974; die britische Veröffentlichung folgte 1975.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Four_Musketeers_(1974_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "edition",
+          "url": "https://www.criterion.com/films/29910-the-four-musketeers",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-009-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-009-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-009-D"
+    },
+    {
+      "rank": 10,
+      "film_title_de": "Robin Hood – König der Diebe",
+      "film_title_original": "Robin Hood: Prince of Thieves",
+      "film_year": 1991,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Costner-Fassung und Alan Rickmans Sheriff sind weithin bekannte Bestandteile der Robin-Hood-Popkultur.",
+      "directors": [
+        "Kevin Reynolds"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Kinostart 1991; keine Gleichsetzung mit der ebenfalls 1991 erschienenen John-Irvin-Fassung.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "edition",
+          "url": "https://www.arrowfilms.com/p/blu-ray/robin-hood-prince-of-thieves/14302155/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "credit",
+          "url": "https://www.bbfc.co.uk/release/robin-hood-prince-of-thieves-q29sbgvjdglvbjpwwc0zmdy1mzg",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Dances_with_Wolves",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-010-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-010-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-010-D"
+    },
+    {
+      "rank": 11,
+      "film_title_de": "Robin Hood",
+      "film_title_original": "Robin Hood",
+      "film_year": 2010,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die große Scott-Crowe-Verfilmung ist bekannt, erreicht aber nicht die Präsenz der Costner-Fassung.",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Uraufführung in Cannes 2010; diese Fassung erzählt Robins Vorgeschichte.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Robin_Hood_(2010_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/robin-hood",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Gladiator_(2000_film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-011-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-011-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-011-D"
+    },
+    {
+      "rank": 12,
+      "film_title_de": "Moby Dick",
+      "film_title_original": "Moby Dick",
+      "film_year": 1956,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Hustons Melville-Verfilmung mit Gregory Peck ist ein bekannter Literatur- und Abenteuerklassiker.",
+      "directors": [
+        "John Huston"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Aufführung in New Bedford am 27. Juni 1956.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Moby_Dick_(1956_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/51927",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Moby-Dick",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-012-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-012-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-012-D"
+    },
+    {
+      "rank": 13,
+      "film_title_de": "Die Bounty",
+      "film_title_original": "The Bounty",
+      "film_year": 1984,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Hopkins-Gibson-Fassung ist ein bekannter, heute eher von Genrekennern erinnerter Meutereifilm.",
+      "directors": [
+        "Roger Donaldson"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "country_note": "Länder nach BFI; einzelne Nachschlagewerke führen nur Großbritannien.",
+      "release_note": "Die Donaldson-Fassung erschien 1984; ältere Meuterei-Verfilmungen haben eigene Filmidentitäten.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bounty_(1984_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/d3563c8d-94ca-5637-959d-1248d9412e84/the-bounty",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1962_film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-013-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-013-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-013-D"
+    },
+    {
+      "rank": 14,
+      "film_title_de": "Der erste Ritter",
+      "film_title_original": "First Knight",
+      "film_year": 1995,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Artus-Verfilmung mit Sean Connery und Richard Gere ist ein populäres Abenteuer der 1990er-Jahre.",
+      "directors": [
+        "Jerry Zucker"
+      ],
+      "production_countries": [
+        "USA",
+        "Großbritannien"
+      ],
+      "country_note": "",
+      "release_note": "Kinostart 1995.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/First_Knight",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/firstknight",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59888",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Dr._No_(film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-014-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-014-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-014-D"
+    },
+    {
+      "rank": 15,
+      "film_title_de": "Der Mann in der eisernen Maske",
+      "film_title_original": "The Man in the Iron Mask",
+      "film_year": 1998,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "DiCaprios Doppelrolle macht diese Dumas-Verfilmung einem großen Publikum zugänglich.",
+      "directors": [
+        "Randall Wallace"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "US-Kinostart am 13. März 1998.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Man_in_the_Iron_Mask_(1998_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "edition",
+          "url": "https://music.apple.com/us/music-movie/the-man-in-the-iron-mask/268657783",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-015-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-015-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-015-D"
+    },
+    {
+      "rank": 16,
+      "film_title_de": "Zorro",
+      "film_title_original": "Zorro",
+      "film_year": 1975,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Delon-Fassung ist ein europäischer Genreklassiker, heute eher bei Kennern präsent.",
+      "directors": [
+        "Duccio Tessari"
+      ],
+      "production_countries": [
+        "Italien",
+        "Frankreich"
+      ],
+      "country_note": "",
+      "release_note": "Französische und italienische Kinostarts im März 1975.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Zorro_(1975_Italian_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://titanus.it/wp-content/uploads/2022/11/Line-Up-Titanus-2022-2_compressed.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/The_Black_Tulip_(1964_film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-016-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-016-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-016-D"
+    },
+    {
+      "rank": 17,
+      "film_title_de": "Die Legende des Zorro",
+      "film_title_original": "The Legend of Zorro",
+      "film_year": 2005,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Fortsetzung mit Banderas und Zeta-Jones ist populär, aber weniger prägend als der erste gemeinsame Film.",
+      "directors": [
+        "Martin Campbell"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Kinostart 2005; direkte Fortsetzung des Films von 1998.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zorro",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://amblin.com/movie/the-legend-of-zorro/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-017-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-017-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-017-D"
+    },
+    {
+      "rank": 18,
+      "film_title_de": "Die Piratenbraut",
+      "film_title_original": "Cutthroat Island",
+      "film_year": 1995,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Das Piratenabenteuer mit Geena Davis ist vor allem Genrekennern bekannt.",
+      "directors": [
+        "Renny Harlin"
+      ],
+      "production_countries": [
+        "USA",
+        "Frankreich"
+      ],
+      "country_note": "",
+      "release_note": "Erste US-Kinoauswertung 1995; spätere europäische Starts 1996.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Cutthroat_Island",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/4a6c8fce-4bb1-5045-8eb4-ebf73a2e0264/cutthroat-island",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/The_Crimson_Pirate",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-018-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-018-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-018-D"
+    },
+    {
+      "rank": 19,
+      "film_title_de": "Quatermain II – Auf der Suche nach der geheimnisvollen Stadt",
+      "film_title_original": "Allan Quatermain and the Lost City of Gold",
+      "film_year": 1986,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Chamberlain-Fortsetzung gehört zu den eher speziellen Abenteuerfilmen der 1980er-Jahre.",
+      "directors": [
+        "Gary Nelson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste deutsche Kinoauswertung am 18. Dezember 1986; US-Start am 30. Januar 1987. Das frühere Jahr ist maßgeblich.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Allan_Quatermain_and_the_Lost_City_of_Gold",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/57526-ALLAN-QUATERMAINANDTHELOSTCITYOFGOLD",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/King_Solomon%27s_Mines_(1985_film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-019-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-019-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-019-D"
+    },
+    {
+      "rank": 20,
+      "film_title_de": "Die Abenteuer des Baron Münchhausen",
+      "film_title_original": "The Adventures of Baron Munchausen",
+      "film_year": 1988,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Gilliams fantastische Münchhausen-Version ist ein markanter Kennerfilm mit großem Ensemble.",
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA",
+        "Deutschland"
+      ],
+      "country_note": "Deutsche Beteiligung zur Zeit der Bundesrepublik vor der Wiedervereinigung.",
+      "release_note": "Erster deutscher Kinostart am 8. Dezember 1988; US- und britische Starts 1989.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "edition",
+          "url": "https://www.criterion.com/films/29570-the-adventures-of-baron-munchausen",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Brazil_(1985_film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-020-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-020-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-020-D"
+    },
+    {
+      "rank": 21,
+      "film_title_de": "Master and Commander – Bis ans Ende der Welt",
+      "film_title_original": "Master and Commander: The Far Side of the World",
+      "film_year": 2003,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Das Seeabenteuer mit Russell Crowe ist ein bekannter moderner Genremaßstab.",
+      "directors": [
+        "Peter Weir"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Kinoveröffentlichung 2003; Studiokatalog nennt den 14. November.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/master-and-commander-the-far-side-of-the-world",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Gladiator_(2000_film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-021-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-021-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-021-D"
+    },
+    {
+      "rank": 22,
+      "film_title_de": "White Squall – Reißende Strömung",
+      "film_title_original": "White Squall",
+      "film_year": 1996,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Das Segelschuldrama ist innerhalb von Scotts Werk ein weniger geläufiger Abenteuerfilm.",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "US-Kinostart am 2. Februar 1996.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/White_Squall_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/60620",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Thelma_%26_Louise",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-022-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-022-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-022-D"
+    },
+    {
+      "rank": 23,
+      "film_title_de": "Der Flug des Phönix",
+      "film_title_original": "The Flight of the Phoenix",
+      "film_year": 1965,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Aldrichs Überlebensfilm ist ein bekannter Klassiker des Wüstenabenteuers.",
+      "directors": [
+        "Robert Aldrich"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "US-Veröffentlichung am 15. Dezember 1965; die Fassung mit James Stewart.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Flight_of_the_Phoenix_(1965_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/22887-THE-FLIGHT-OF-THE-PHOENIX",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Flight_of_the_Phoenix_(2004_film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-023-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-023-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-023-D"
+    },
+    {
+      "rank": 24,
+      "film_title_de": "Überleben!",
+      "film_title_original": "Alive",
+      "film_year": 1993,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die erste große Spielfilmadaption des Andenunglücks ist ein bekannter Überlebensfilm.",
+      "directors": [
+        "Frank Marshall"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Kinostart am 15. Januar 1993; erzählt das Andenunglück von 1972.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Alive_(1993_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://d23.com/a-to-z/alive-film/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59451",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-024-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-024-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-024-D"
+    },
+    {
+      "rank": 25,
+      "film_title_de": "Cast Away – Verschollen",
+      "film_title_original": "Cast Away",
+      "film_year": 2000,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 1,
+      "familiarity_reason": "Tom Hanks’ Inselabenteuer und Wilson sind sehr weit verbreitete Filmreferenzen.",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Kinoauswertung im Dezember 2000.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Cast_Away",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/20f6347f-fe35-553e-84cd-880bb25cecef/cast-away",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/Forrest_Gump",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-025-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-025-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-025-D"
+    },
+    {
+      "rank": 26,
+      "film_title_de": "Zwei Brüder",
+      "film_title_original": "Deux Frères",
+      "film_year": 2004,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Annauds Tigerabenteuer ist ein bekanntes Familienkino-Werk, heute eher eine Entdeckung.",
+      "directors": [
+        "Jean-Jacques Annaud"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Großbritannien"
+      ],
+      "country_note": "",
+      "release_note": "Französischer Kinostart am 7. April 2004; englischer Titel Two Brothers.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Two_Brothers_(2004_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/two-brothers",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "presse",
+          "url": "https://jean-marie-dreujou.com/Ressources/PDF/PR_deux_freres_2.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/The_Bear_(1988_film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-026-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-026-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-026-D"
+    },
+    {
+      "rank": 27,
+      "film_title_de": "1492 – Die Eroberung des Paradieses",
+      "film_title_original": "1492: Conquest of Paradise",
+      "film_year": 1992,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Scotts Kolumbus-Epos ist als Film und durch Vangelis’ Musik bekannt, bleibt aber eher ein Kennerwerk.",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Frankreich",
+        "Spanien",
+        "USA"
+      ],
+      "country_note": "Länderzuordnung nach BFI; einzelne Nachschlagewerke lassen die USA weg.",
+      "release_note": "Erstveröffentlichung im Oktober 1992; die Zahl 1492 im Titel bezeichnet die erzählte Reise, nicht das Filmjahr.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/1492:_Conquest_of_Paradise",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/2cd72171-ad5c-5afc-b38a-0203d1944619/1492-conquest-of-paradise",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "einordnung",
+          "url": "https://www.bfi.org.uk/features/where-begin-with-ridley-scott",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-027-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-027-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-027-D"
+    },
+    {
+      "rank": 28,
+      "film_title_de": "Apocalypto",
+      "film_title_original": "Apocalypto",
+      "film_year": 2006,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Gibsons Verfolgungsfilm ist als ungewöhnliches, intensives Abenteuer bekannt.",
+      "directors": [
+        "Mel Gibson"
+      ],
+      "production_countries": [
+        "USA",
+        "Mexiko"
+      ],
+      "country_note": "Wikipedia führt USA und Mexiko; BFI reduziert die Zuordnung auf USA.",
+      "release_note": "Erste Veröffentlichung im Dezember 2006.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Apocalypto",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/ad7b0aef-86b2-5a0f-82ea-96f49806ee99/apocalypto",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/The_Passion_of_the_Christ",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-028-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-028-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-028-D"
+    },
+    {
+      "rank": 29,
+      "film_title_de": "Der letzte Mohikaner",
+      "film_title_original": "The Last of the Mohicans",
+      "film_year": 1992,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Mann-Fassung ist ein populärer moderner Abenteuerklassiker.",
+      "directors": [
+        "Michael Mann"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Aufführung 1992; die Daniel-Day-Lewis-Fassung.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Last_of_the_Mohicans_(1992_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/b14f5741-05a9-51fd-b23a-3c156cd0e76d/the-last-of-the-mohicans",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/The_Last_of_the_Mohicans",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-029-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-029-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-029-D"
+    },
+    {
+      "rank": 30,
+      "film_title_de": "Der Graf von Monte Christo",
+      "film_title_original": "Le Comte de Monte-Cristo",
+      "film_year": 1954,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Jean Marais’ große Dumas-Fassung ist ein französischer Mantel-und-Degen-Klassiker für Kenner.",
+      "directors": [
+        "Robert Vernay"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Italien"
+      ],
+      "country_note": "",
+      "release_note": "Zweiteilige Kinoveröffentlichung 1954: Der Verrat und Die Rache werden als ein Werk geführt.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://www.br.de/br-fernsehen/programmkalender/sendung-4128666.html",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "fassung",
+          "url": "https://de.wikipedia.org/wiki/Der_Graf_von_Monte_Christo_(1954)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "credit",
+          "url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo_(1954_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo_(1943_film)",
+          "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-030-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-030-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-030-D"
+    },
+    {
+      "rank": 31,
+      "film_title_de": "The Musketeer",
+      "film_title_original": "The Musketeer",
+      "film_year": 2001,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Eigenständige, akrobatisch inszenierte Dumas-Verfilmung für Genrekenner.",
+      "directors": [
+        "Peter Hyams"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Kinoveröffentlichung am 7. September 2001; Universal bestätigt 2001 als Veröffentlichungsjahr.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Musketeer",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/the-musketeer",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-031-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-031-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-031-D"
+    },
+    {
+      "rank": 32,
+      "film_title_de": "In 80 Tagen um die Welt",
+      "film_title_original": "Around the World in 80 Days",
+      "film_year": 2004,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Jackie Chans und Steve Coogans Weltreise ist eine bekannte moderne Familien-Abenteuerkomödie.",
+      "directors": [
+        "Frank Coraci"
+      ],
+      "production_countries": [
+        "USA",
+        "Großbritannien",
+        "Deutschland",
+        "Irland"
+      ],
+      "country_note": "",
+      "release_note": "Premiere am 13. Juni 2004 im El Capitan Theatre; regulärer US-Kinostart am 16. Juni 2004.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Around_the_World_in_80_Days_(2004_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://movies.disney.com/around-the-world-in-80-days",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "d23",
+          "url": "https://d23.com/a-to-z/around-the-world-in-80-days-film/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-032-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-032-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-032-D"
+    },
+    {
+      "rank": 33,
+      "film_title_de": "Die drei Musketiere",
+      "film_title_original": "The Three Musketeers",
+      "film_year": 2011,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannte internationale Dumas-Neufassung mit Logan Lerman, Luftschiffen und großer Starbesetzung; redaktionell als Kennerfilm eingeordnet.",
+      "directors": [
+        "Paul W. S. Anderson"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Deutschland",
+        "Frankreich"
+      ],
+      "country_note": "Institutionelle Zuordnung nach Filmportal; die englische Wikipedia-Infobox führt zusätzlich USA. Summit war US-Verleiher, kein bei Filmportal gelistetes Produktionsland.",
+      "release_note": "Erste Kinoveröffentlichung am 1. September 2011 in Deutschland.",
+      "director_note": "Filmportal trennt Andersons Regie von den Produzenten Jeremy Bolt und Robert Kulzer; die Constantin-Webseite fasst diese Namen im Kopf missverständlich unter Regie zusammen.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Three_Musketeers_(2011_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://constantin.film/kino/die-drei-musketiere/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.filmportal.de/film/die-drei-musketiere_d8830595569a4f709af9768a9f5bc66a",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "percy",
+          "url": "https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians:_The_Lightning_Thief",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-033-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-033-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-033-D"
+    },
+    {
+      "rank": 34,
+      "film_title_de": "Die drei Musketiere: D’Artagnan",
+      "film_title_original": "Les Trois Mousquetaires: D’Artagnan",
+      "film_year": 2023,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die neue französische Staradaption mit François Civil und Eva Green richtet sich vor allem an Genrekenner.",
+      "directors": [
+        "Martin Bourboulon"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Deutschland",
+        "Spanien",
+        "Belgien"
+      ],
+      "country_note": "Pathé nennt Frankreich als Nationalität und führt die Koproduktionspartner Constantin, DeAPlaneta und Umedia auf; die vier Länder sind in der Filmquelle ausdrücklich zusammengeführt.",
+      "release_note": "Erste Kinoveröffentlichung am 5. April 2023 in Frankreich und Belgien.",
+      "director_note": "",
+      "series": {
+        "name": "Die drei Musketiere (Martin Bourboulon)",
+        "position": 1,
+        "note": "Erster Kinofilm des Zweiteilers; Milady folgt im selben Veröffentlichungsjahr."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Three_Musketeers:_D%27Artagnan",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-dartagnan/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "sequel",
+          "url": "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-milady/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-034-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-034-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-034-D"
+    },
+    {
+      "rank": 35,
+      "film_title_de": "Der große Trip – Wild",
+      "film_title_original": "Wild",
+      "film_year": 2014,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Reese Witherspoons literarisches Wanderdrama ist vor allem einem an Autorenkino interessierten Publikum bekannt.",
+      "directors": [
+        "Jean-Marc Vallée"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Vorführung am 29. August 2014 beim Telluride Film Festival; regulärer US-Kinostart im Dezember 2014.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Wild_(2014_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.searchlightpictures.com/wild",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-035-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-035-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-035-D"
+    },
+    {
+      "rank": 36,
+      "film_title_de": "The Way Back – Der lange Weg",
+      "film_title_original": "The Way Back",
+      "film_year": 2010,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Peter Weirs spätes Überlebensabenteuer mit prominenter Besetzung ist eher einem filmpolitisch und historisch interessierten Publikum vertraut.",
+      "directors": [
+        "Peter Weir"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA",
+        "Vereinigte Arabische Emirate"
+      ],
+      "country_note": "Länder nach den BFI-Programmanmerkungen (UK/USA/UAE). Die BFI-Veranstaltungsseite führt abweichend Polen/UAE/USA; Wikipedia verkürzt auf USA. Produktionsbeteiligungen und Katalogisierung sind hier nicht gleichzusetzen.",
+      "release_note": "Erste öffentliche Vorstellung beim Telluride Film Festival am 3. September 2010; US-Kinostart noch im Dezember 2010. Spätere breite Länderstarts 2011 bestimmen nicht das Filmjahr.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Way_Back_(2010_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://bfidatadigipres.github.io/finding%20your%20way%3Cbr%3Ethe%20films%20of%20peter%20weir/2026/04/26/way-back/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "laender",
+          "url": "https://whatson.bfi.org.uk/online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=way-back",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-036-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-036-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-036-D"
+    },
+    {
+      "rank": 37,
+      "film_title_de": "Greystoke – Die Legende von Tarzan, Herr der Affen",
+      "film_title_original": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+      "film_year": 1984,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die ernsthafte Tarzan-Adaption mit Christopher Lambert ist ein bekannter Stoff, dessen konkrete Fassung eher Kennern vertraut ist.",
+      "directors": [
+        "Hugh Hudson"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "country_note": "Britisch-amerikanische Produktion nach dem detaillierten Filmnachweis; Cinémathèque und ICAA katalogisieren sie vereinfacht als britisch.",
+      "release_note": "Erstveröffentlichung am 30. März 1984; der BBFC-Kinoeintrag ist bereits vom März 1984. Spätere längere Heimkinofassungen sind kein neues Filmwerk.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Greystoke:_The_Legend_of_Tarzan,_Lord_of_the_Apes",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "credit",
+          "url": "https://www.cinematheque.fr/film/42218.html",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "kino",
+          "url": "https://www.bbfc.co.uk/release/greystoke-the-legend-of-tarzan-lord-of-the-apes-q29sbgvjdglvbjpwwc00otg0nzm",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-037-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-037-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-037-D"
+    },
+    {
+      "rank": 38,
+      "film_title_de": "Tarzan",
+      "film_title_original": "Tarzan",
+      "film_year": 1999,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Disneys Zeichentrickfassung mit Phil Collins’ Liedern ist einem breiten Publikum bekannt; sie ist von den zahlreichen Realverfilmungen getrennt zu betrachten.",
+      "directors": [
+        "Kevin Lima",
+        "Chris Buck"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Weltpremiere am 12. Juni 1999 im El Capitan Theatre in Hollywood; erste begrenzte Kinoauswertung dort ab 16. Juni, breiter US-Start am 18. Juni 1999.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Tarzan_(1999_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://d23.com/a-to-z/tarzan-film/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://disneyanimation.com/films/tarzan/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "siggraph",
+          "url": "https://history.siggraph.org/wp-content/uploads/2023/03/SIGGRAPH-1999-Conference-Abstracts-and-Applications.pdf",
+          "supports": "Eric Daniels: Deep Canvas in Disney’s Tarzan, gedruckte Seite 200 (PDF-Seite 202): räumlich lokalisierte Pinselstriche und erneutes Rendern für jede Kameraperspektive.",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-038-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-038-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-038-D"
+    },
+    {
+      "rank": 39,
+      "film_title_de": "Atlantis – Das Geheimnis der verlorenen Stadt",
+      "film_title_original": "Atlantis: The Lost Empire",
+      "film_year": 2001,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Disneys auf Expedition und Teamabenteuer ausgerichteter Zeichentrickfilm besitzt breite Wiedererkennbarkeit, auch wenn er weniger allgegenwärtig als die großen Disney-Märchen ist.",
+      "directors": [
+        "Gary Trousdale",
+        "Kirk Wise"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Weltpremiere am 3. Juni 2001 im El Capitan Theatre in Hollywood; begrenzter US-Kinostart am 8. Juni, landesweiter Start am 15. Juni 2001.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Atlantis:_The_Lost_Empire",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://d23.com/a-to-z/atlantis-the-lost-empire-film/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://movies.disney.com/atlantis-the-lost-empire",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "tarzan",
+          "url": "https://disneyanimation.com/films/tarzan/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-039-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-039-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-039-D"
+    },
+    {
+      "rank": 40,
+      "film_title_de": "Wolfsblut",
+      "film_title_original": "White Fang",
+      "film_year": 1991,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Disney-Adaption mit Ethan Hawke ist ein bekanntes Familienabenteuer nach Jack London.",
+      "directors": [
+        "Randal Kleiser"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Kinoveröffentlichung am 18. Januar 1991 in den USA; die Disney-Fassung mit Ethan Hawke.",
+      "director_note": "",
+      "series": {
+        "name": "Wolfsblut – Disney-Kinofilme",
+        "position": 1,
+        "note": "Die Fortsetzung White Fang 2 erschien 1994 mit anderer menschlicher Hauptfigur."
+      },
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/White_Fang_(1991_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://movies.disney.com/white-fang",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://d23.com/a-to-z/white-fang-film/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-040-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-040-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-040-D"
+    },
+    {
+      "rank": 41,
+      "film_title_de": "Ruf der Wildnis",
+      "film_title_original": "The Call of the Wild",
+      "film_year": 2020,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Jack-London-Verfilmung mit Harrison Ford ist ein bekanntes jüngeres Tierabenteuer.",
+      "directors": [
+        "Chris Sanders"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Veröffentlichung 2020; US-Kinostart am 21. Februar. Gemeint ist die Fassung mit Harrison Ford und digital animiertem Buck.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Call_of_the_Wild_(2020_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://d23.com/behind-the-scenes-of-the-call-of-the-wild/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "modell",
+          "url": "https://d23.com/the-wild-tail-of-the-dog-at-the-heart-of-the-call-of-the-wild/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "schnitt",
+          "url": "https://cinemontage.org/david-heinz-and-william-hoy-talk-about-editing-harrison-ford-and-a-cgi-dog-in-the-call-of-the-wild/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-041-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-041-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-041-D"
+    },
+    {
+      "rank": 42,
+      "film_title_de": "Der Adler der neunten Legion",
+      "film_title_original": "The Eagle",
+      "film_year": 2011,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 3,
+      "familiarity_reason": "Das historische Abenteuer mit Channing Tatum und Jamie Bell ist ein Kennerfilm im jüngeren Abenteuerkino.",
+      "directors": [
+        "Kevin Macdonald"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "country_note": "",
+      "release_note": "Erste Kinoveröffentlichung 2011; US-Start am 11. Februar, britischer Kinostart am 25. März. Gemeint ist das reguläre Ende der Kinofassung, nicht das alternative Heimkinoende.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Eagle_(2011_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.focusfeatures.com/the_eagle",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "konzept",
+          "url": "https://www.focusfeatures.com/article/kevin_macdonald_talks_the_eagle_of_the_ninth",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "produktion",
+          "url": "https://www.focusfeatures.com/article/journey_beyond_the_edge_of_the_known_world__making_the_eagle",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-042-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-042-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-042-D"
+    },
+    {
+      "rank": 43,
+      "film_title_de": "Königreich der Himmel",
+      "film_title_original": "Kingdom of Heaven",
+      "film_year": 2005,
+      "subdomain": "Abenteuer",
+      "familiarity_level": 2,
+      "familiarity_reason": "Ridley Scotts Kreuzritterepos mit Orlando Bloom ist ein bekannter großer Abenteuerfilm.",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "Deutschland",
+        "Spanien",
+        "USA"
+      ],
+      "country_note": "Länderzuordnung nach Filmportal. Die englische Wikipedia-Infobox lässt Spanien aus; andere Kataloge zählen weitere Beteiligungen. Die vier Länder entsprechen hier dem Nachweis der maßgeblichen deutschen Filmografie.",
+      "release_note": "Erste Premiere am 2. Mai 2005 in London; reguläre Kinostarts im Mai. Die Inhaltsfragen behandeln Ereignisse der Kinofassung, keine nur im späteren Director’s Cut ergänzten Szenen.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.jp/movies/kingdom-of-heaven",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "fassung",
+          "url": "https://www.bbfc.co.uk/release/kingdom-of-heaven-q29sbgvjdglvbjpwwc00mdywmzc",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "kinofassung",
+          "url": "https://de.wikipedia.org/wiki/K%C3%B6nigreich_der_Himmel",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "filmportal",
+          "url": "https://www.filmportal.de/en/movie/konigreich-der-himmel_48a072e3c34441649dbc52ee14ed6ed4",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ABENTEUER-043-L1",
+      "year_question_id": "G100-20261008-ABENTEUER-043-Y",
+      "director_question_id": "G100-20261008-ABENTEUER-043-D"
+    }
+  ]
+}

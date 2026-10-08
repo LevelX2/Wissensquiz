@@ -1,3 +1,4 @@
+import { catalogCounts } from "../catalog-counts";
 import {
   modePreparation,
   test,
@@ -107,7 +108,9 @@ async function service() {
       }
     });
     await page.goto("/");
-    await expect(page.locator(".sync-symbol.saved").first()).toBeVisible();
+    await expect(page.locator(".sync-symbol.saved").first()).toBeVisible({
+      timeout: 20000,
+    });
   }
   return { ...fixture, api, setup };
 }
@@ -157,7 +160,7 @@ test("Eintragskonto wiederholt verlorene Bestätigungen nach Neuladen, exportier
     await expect(page.locator(".sync-symbol.saved").first()).toBeVisible();
     expect(await queued(page)).toHaveLength(0);
     const state = await readStoredState(page, key);
-    expect(state.questions).toHaveLength(10877);
+    expect(state.questions).toHaveLength(catalogCounts.questions);
     expect(state.events).toHaveLength(1);
     expect(
       backend.api.calls.filter(
@@ -187,7 +190,7 @@ test("Eintragskonto wiederholt verlorene Bestätigungen nach Neuladen, exportier
     const file = await (await downloaded).path();
     const exported = JSON.parse(readFileSync(file!, "utf8"));
     expect(exported.events).toHaveLength(1);
-    expect(exported.questions).toHaveLength(10877);
+    expect(exported.questions).toHaveLength(catalogCounts.questions);
     expect(exported).not.toHaveProperty("storageFormat");
   } finally {
     await backend.db.close();

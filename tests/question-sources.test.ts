@@ -1,3 +1,4 @@
+import { catalogCounts } from "./catalog-counts";
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
 import { addPackages, packages } from "../src/packages";
@@ -39,8 +40,10 @@ it("vereint alle Film-, Preis- und Personenfragen ohne Kategorien als Einschrän
   const pool = catalog.questions.filter(
     (q) => matchesTopic(q, topic) && matchesFilters(q, all),
   );
-  expect(pool).toHaveLength(10877);
-  expect(pool.filter((q) => questionSourceOf(q) === "film")).toHaveLength(8837);
+  expect(pool).toHaveLength(catalogCounts.questions);
+  expect(pool.filter((q) => questionSourceOf(q) === "film")).toHaveLength(
+    catalogCounts.filmQuestions,
+  );
   expect(pool.filter((q) => questionSourceOf(q) === "awards")).toHaveLength(
     280,
   );
@@ -60,7 +63,7 @@ it("vereint alle Film-, Preis- und Personenfragen ohne Kategorien als Einschrän
     },
     () => 0.5,
   );
-  expect(drawn).toHaveLength(10315);
+  expect(drawn).toHaveLength(catalogCounts.goals);
   expect(new Set(drawn.map((q) => q.knowledgeId)).size).toBe(drawn.length);
 });
 it("wendet Genre, Classics und Filmgruppen nur auf Filmfragen und die Schwierigkeit auf alle Bereiche an", () => {

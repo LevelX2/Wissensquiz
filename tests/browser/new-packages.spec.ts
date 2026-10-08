@@ -1,3 +1,4 @@
+import { catalogCounts } from "../catalog-counts";
 import { openRoundSetup, test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 
@@ -53,16 +54,16 @@ for (const both of [false, true]) {
     await page.getByRole("button", { name: "Losspielen" }).click();
     await expect(page.locator(".question-genre")).toHaveText("Rom-Com");
     const saved = await readStoredState(page);
-    expect(saved.questions).toHaveLength(10877);
+    expect(saved.questions).toHaveLength(catalogCounts.questions);
     expect(new Set(saved.questions.map((q: any) => q.knowledgeId)).size).toBe(
-      10315,
+      catalogCounts.goals,
     );
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Arthouse")),
-    ).toHaveLength(565);
+    ).toHaveLength(catalogCounts.arthouseQuestions);
     expect(
       saved.questions.filter((q: any) => q.tags.includes("Classics")),
-    ).toHaveLength(1209);
+    ).toHaveLength(catalogCounts.classicsQuestions);
     const round = saved.rounds.at(-1)!;
     expect(round.topic).toBe(
       both ? "Filmfragen + Classics + Arthouse" : "Filmfragen + Arthouse",

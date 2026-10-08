@@ -1,0 +1,207 @@
+{
+  "rank": 25,
+  "directors": [
+    "Robert Zemeckis"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Kinoauswertung im Dezember 2000.",
+  "familiarity_reason": "Tom Hanks’ Inselabenteuer und Wilson sind sehr weit verbreitete Filmreferenzen.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Cast_Away",
+    "archiv": "https://www.bfi.org.uk/film/20f6347f-fe35-553e-84cd-880bb25cecef/cast-away",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/Forrest_Gump",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf hat Chuck Noland (Tom Hanks) vor dem Absturz in @?",
+      "answers": [
+        "Er optimiert Abläufe bei einem Paketdienst.",
+        "Er organisiert medizinische Transporte als Rettungspilot.",
+        "Er prüft weltweit den Bau neuer Flughäfen.",
+        "Er leitet die Wartung von Frachtflugzeugen."
+      ],
+      "feedback": [
+        "Chuck arbeitet für FedEx an effizienten Abläufen.",
+        "Chuck optimiert Paketdienstabläufe, er ist kein Rettungspilot.",
+        "Flughafenbau ist nicht sein Beruf.",
+        "Technische Flugzeugwartung beschreibt seine Aufgabe nicht."
+      ],
+      "short": "Chuck arbeitet für FedEx an effizienten Abläufen.",
+      "context": "Chuck (Tom Hanks) organisiert weltweit zeitkritische Arbeitsabläufe. Der Absturz nimmt ihm plötzlich alle vertrauten Mittel der Kontrolle. Sein früheres Leben macht den Gegensatz besonders deutlich: Auf der Insel zählen nicht Termine und Produktivität, sondern Nahrung, Schutz und die Dauer des Wartens.",
+      "anchor": "Der Zeitmanager verliert jede planbare Zeit.",
+      "interest": "Der Beruf erhält durch die spätere Lage einen konkreten Sinn.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was ist Wilson, Chucks Begleiter auf der Insel in @?",
+      "answers": [
+        "Ein Volleyball mit aufgemaltem Gesicht",
+        "Ein geretteter Hund",
+        "Ein anderes Mitglied der Flugzeugbesatzung",
+        "Ein tragbares Funkgerät"
+      ],
+      "feedback": [
+        "Chuck macht den Ball zu einem Gesprächspartner.",
+        "Ein Hund begleitet ihn nicht.",
+        "Kein zweiter Mensch überlebt mit ihm auf der Insel.",
+        "Wilson ist kein Funkgerät."
+      ],
+      "short": "Chuck macht den Ball zu einem Gesprächspartner.",
+      "context": "Nach einer Handverletzung bleibt Chucks (Tom Hanks) blutiger Abdruck auf einem Volleyball zurück. Er ergänzt ein Gesicht und spricht mit dem Gegenstand. Wilson ersetzt damit keinen wirklichen Menschen, gibt aber der Einsamkeit einen sichtbaren Gegenüber.",
+      "anchor": "Ein Ball bekommt für Chuck ein Gegenüber.",
+      "interest": "Die Frage erklärt die Funktion des bekannten Gegenstands.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Sendung öffnet Chuck (Tom Hanks) in @ bewusst nicht?",
+      "answers": [
+        "Das Paket mit den Flügeln auf der Verpackung",
+        "Das Paket mit den Schlittschuhen",
+        "Das Paket mit dem Volleyball",
+        "Das Paket mit Videokassetten"
+      ],
+      "feedback": [
+        "Das Flügelpaket bleibt als Hoffnungsträger verschlossen.",
+        "Die Schlittschuhe werden aus ihrem Paket genommen.",
+        "Der Volleyball wird ausgepackt.",
+        "Auch die Kassetten bleiben nicht in ihrem ursprünglichen Paket."
+      ],
+      "short": "Das Flügelpaket bleibt als Hoffnungsträger verschlossen.",
+      "context": "Chuck (Tom Hanks) nutzt den Inhalt angeschwemmter Pakete für sein Überleben. Eine Sendung behält er jedoch geschlossen. Das Flügelmotiv wird für ihn zu einem Zeichen von Hoffnung und einer noch möglichen Aufgabe, die über die Insel hinausweist.",
+      "anchor": "Das verschlossene Paket hält eine Zukunft offen.",
+      "interest": "Der Gegenstand besitzt eine psychologische statt rein praktische Funktion.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welcher angeschwemmte Gegenstand ermöglicht Chuck (Tom Hanks) in @ den entscheidenden neuen Fluchtversuch?",
+      "answers": [
+        "Eine Kunststoffwand, die als Segel dient",
+        "Ein funktionsfähiger Außenbordmotor",
+        "Ein vollständiges Rettungsboot",
+        "Eine Satellitenantenne mit Stromversorgung"
+      ],
+      "feedback": [
+        "Die Wand liefert dem Floß ein wirksames Segel.",
+        "Ein Außenbordmotor wird nicht gefunden.",
+        "Ein vollständiges Boot steht nicht zur Verfügung.",
+        "Eine funktionsfähige Satellitenanlage rettet ihn nicht."
+      ],
+      "short": "Die Wand liefert dem Floß ein wirksames Segel.",
+      "context": "Chucks (Tom Hanks) erster Versuch scheitert an der Brandung. Jahre später kann er eine angeschwemmte Kunststoffwand als Segel einsetzen. Er verbindet den Fund mit dem passenden Windwechsel und einem gebauten Floß; die Rettung entsteht aus Erfahrung, Planung und einer zufälligen neuen Möglichkeit.",
+      "anchor": "Die Kunststoffwand macht Wind zur Fluchthilfe.",
+      "interest": "Der zweite Versuch wird vom ersten durch ein konkretes Mittel unterschieden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum kann Chuck (Tom Hanks) in @ nach seiner Rückkehr nicht einfach das frühere Leben mit Kelly (Helen Hunt) wieder aufnehmen?",
+      "answers": [
+        "Kelly hat inzwischen geheiratet und ein Kind.",
+        "Kelly hatte schon vor dem Absturz Schluss gemacht.",
+        "Kelly verlangt eine erneute Hochzeit mit Chuck.",
+        "Chuck will ohne Kelly auswandern."
+      ],
+      "feedback": [
+        "Kelly hat nach seinem vermeintlichen Tod eine neue Familie.",
+        "Vor dem Absturz waren ihre gemeinsamen Zukunftspläne noch offen.",
+        "Das Hindernis ist ihre neue Familie, nicht eine Forderung nach einer weiteren Hochzeit.",
+        "Eine feststehende Auswanderung erklärt ihre Trennung nicht."
+      ],
+      "short": "Kelly hat nach seinem vermeintlichen Tod eine neue Familie.",
+      "context": "Chuck (Tom Hanks) und Kelly (Helen Hunt) lieben einander noch. Die Jahre seiner Abwesenheit haben aber auch ihr Leben verändert. Seine körperliche Rettung stellt deshalb den alten Zustand nicht wieder her; beide erkennen, dass Kellys neue Familie nicht einfach rückgängig gemacht werden kann.",
+      "anchor": "Gerettet zurückkehren heißt nicht unverändert zurückkehren.",
+      "interest": "Die Rettung wird von der Wiederherstellung früherer Beziehungen getrennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche offene Möglichkeit zeigt die letzte Wegkreuzung in @?",
+      "answers": [
+        "Chuck muss selbst eine neue Richtung wählen.",
+        "Chuck folgt endgültig Kelly zurück nach Memphis.",
+        "Chuck entscheidet sich sichtbar für eine sofortige Rückkehr auf die Insel.",
+        "Chuck erhält von Bettina einen verbindlichen Auftrag für seinen nächsten Beruf."
+      ],
+      "feedback": [
+        "Die Kreuzung stellt seine Zukunft als offen dar.",
+        "Der Schluss schreibt keine Rückkehr zu Kelly fest.",
+        "Eine neue Inselreise wird nicht beschlossen.",
+        "Die Begegnung öffnet Möglichkeiten, ohne einen Berufsvertrag zu zeigen."
+      ],
+      "short": "Die Kreuzung stellt seine Zukunft als offen dar.",
+      "context": "Chuck (Tom Hanks) hat das verschlossene Paket zurückgebracht. An der Kreuzung trifft er die Absenderin Bettina (Lari White), deren Flügelmotiv ihn begleitet hat. Der Film beendet seine Geschichte mit möglichen Wegen und einem Blick, ohne eine neue Beziehung oder einen Lebensplan endgültig festzuschreiben.",
+      "anchor": "Nach dem Überleben stehen wieder Wege offen.",
+      "interest": "Das Schlussbild wird als offene Entscheidung verstanden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Tom Hanks erstmals im Kino?",
+      "answers": [
+        "2000",
+        "1996",
+        "2004",
+        "2008"
+      ],
+      "feedback": [
+        "Der Film erschien 2000.",
+        "1996 liegt vier Jahre davor.",
+        "2004 liegt vier Jahre danach.",
+        "2008 liegt acht Jahre danach."
+      ],
+      "short": "Der Film erschien 2000.",
+      "context": "Robert Zemeckis und Tom Hanks hatten 1994 Forrest Gump ins Kino gebracht. Cast Away folgte 2000, sechs Jahre später, erneut mit Zemeckis als Regisseur und Hanks als Hauptdarsteller. Der Zeitanker verbindet zwei Filme dieser Zusammenarbeit, die ihre Figuren über lange Lebensabschnitte beobachten. Im späteren Film macht die Isolation den Wechsel der Lebensbedingungen besonders drastisch sichtbar.",
+      "anchor": "1994 Forrest Gump – 2000 Cast Away: sechs Jahre Zemeckis und Hanks.",
+      "interest": "Die charakteristischen Inselmotive verankern das Jahr.",
+      "sources": [
+        "handlung",
+        "archiv",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Tom Hanks als Chuck Noland?",
+      "answers": [
+        "Robert Zemeckis",
+        "Frank Marshall",
+        "Ron Howard",
+        "Steven Spielberg"
+      ],
+      "feedback": [
+        "Robert Zemeckis führte Regie.",
+        "Marshall trägt diesen Credit nicht.",
+        "Howard inszenierte diesen Film nicht.",
+        "Spielberg führte hier nicht Regie."
+      ],
+      "short": "Robert Zemeckis führte Regie.",
+      "context": "Robert Zemeckis inszeniert Chuck zunächst zwischen internationalen Arbeitsorten und später fast allein auf der Insel. Die wechselnden Räume machen Zeit und Kontrolle unterschiedlich erfahrbar. Der offizielle BFI-Credit ordnet ihm diese Hanks-Produktion zu, unabhängig von den anderen bekannten Regiepartnerschaften des Darstellers.",
+      "anchor": "Zemeckis schickt Hanks aus dem Zeitplan auf die Insel.",
+      "interest": "Der Credit wird mit dem erzählerischen Gegensatz verbunden.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

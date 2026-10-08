@@ -14,10 +14,12 @@ import films from "../docs/Erweiterung-2026-10-07/Filmdaten.json";
 import persons from "../docs/Erweiterung-2026-10-07/Personenfragen_20261007.json";
 import awards from "../docs/Erweiterung-2026-10-07/Preisefragen_20261007.json";
 
-const contents = packages.map((p) => ({
-  filename: p.filename,
-  text: readFileSync(`public${p.path}`, "utf8"),
-}));
+const contents = packages
+  .filter((p) => !p.filename.startsWith("Genre100_"))
+  .map((p) => ({
+    filename: p.filename,
+    text: readFileSync(`public${p.path}`, "utf8"),
+  }));
 const incoming = contents.filter((p) =>
   p.filename.endsWith("fragen_20261007.csv"),
 );

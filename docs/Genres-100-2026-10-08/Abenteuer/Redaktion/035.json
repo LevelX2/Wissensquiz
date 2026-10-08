@@ -1,0 +1,204 @@
+{
+  "rank": 35,
+  "directors": [
+    "Jean-Marc Vallée"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Vorführung am 29. August 2014 beim Telluride Film Festival; regulärer US-Kinostart im Dezember 2014.",
+  "familiarity_reason": "Reese Witherspoons literarisches Wanderdrama ist vor allem einem an Autorenkino interessierten Publikum bekannt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Wild_(2014_film)",
+    "studio": "https://www.searchlightpictures.com/wild"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Auf welchem Fernwanderweg ist Cheryl (Reese Witherspoon) in @ unterwegs?",
+      "answers": [
+        "Pacific Crest Trail",
+        "Appalachian Trail",
+        "Camino Francés",
+        "West Highland Way"
+      ],
+      "feedback": [
+        "Ihre Wanderung führt auf dem Pacific Crest Trail durch den amerikanischen Westen.",
+        "Der Appalachian Trail liegt im Osten der USA.",
+        "Der Camino Francés ist ein europäischer Jakobsweg.",
+        "Der West Highland Way liegt in Schottland."
+      ],
+      "short": "Cheryl wandert auf dem Pacific Crest Trail.",
+      "context": "Cheryl Strayed (Reese Witherspoon) macht sich ohne große Wandererfahrung allein auf den Pacific Crest Trail. Sie geht nur einen Teil des langen Fernwanderwegs, beginnend in der südkalifornischen Wüste. Die wechselnden Landschaften stellen unterschiedliche Anforderungen. Das Abenteuer entsteht dabei aus dem eigenen Weitergehen und den Begegnungen unterwegs, während ihre Erinnerungen immer wieder in die Gegenwart hineinreichen.",
+      "anchor": "Cheryls Weg liegt am westlichen Rand der USA.",
+      "interest": "Verankert das Abenteuer geografisch.",
+      "sources": [
+        "film",
+        "studio"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Verlust löst Cheryls (Reese Witherspoon) tiefe Lebenskrise vor der Wanderung in @ aus?",
+      "answers": [
+        "Der Tod ihrer Mutter",
+        "Der Brand ihres Elternhauses",
+        "Das Verschwinden ihres Bruders",
+        "Die Kündigung ihres Studienplatzes"
+      ],
+      "feedback": [
+        "Der Tod ihrer Mutter geht der schweren Krise voraus.",
+        "Ein Hausbrand ist nicht der auslösende Verlust.",
+        "Ihr Bruder verschwindet nicht als Anlass der Krise.",
+        "Ein verlorener Studienplatz erklärt den Absturz nicht."
+      ],
+      "short": "Cheryl gerät nach dem Tod ihrer Mutter in eine schwere Krise.",
+      "context": "Cheryl (Reese Witherspoon) verarbeitet den Tod von Bobbi (Laura Dern) zunächst durch selbstzerstörerisches Verhalten. Drogen und wechselnde sexuelle Begegnungen lindern ihre Trauer nicht dauerhaft; auch die Ehe zerbricht. Die Wanderung beginnt deshalb mit einem beschädigten Lebensgefühl. Der äußere Weg ist ein selbst gewählter Versuch, wieder zu der Person zu finden, die ihre Mutter in ihr gesehen hatte.",
+      "anchor": "Der Verlust der Mutter steht vor dem Neubeginn zu Fuß.",
+      "interest": "Untersucht den Krisenauslöser; eigenständig gegenüber dem vorhandenen Ziel zu Bobbis Familienrolle.",
+      "sources": [
+        "film",
+        "studio"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum kann Cheryl (Reese Witherspoon) zu Beginn ihrer Wanderung in @ kein warmes Essen kochen?",
+      "answers": [
+        "Sie hat den falschen Brennstoff für den Kocher dabei",
+        "Sie darf im gesamten Bundesstaat kein Feuer verwenden",
+        "Sie hat ihren Kocher an einen Wanderer verschenkt",
+        "Sie wartet auf ein Paket mit sämtlichen Lebensmitteln"
+      ],
+      "feedback": [
+        "Ihr Brennstoff passt nicht zu ihrem Kocher.",
+        "Ein flächendeckendes Feuerverbot verursacht das konkrete Problem nicht.",
+        "Sie hat den Kocher nicht verschenkt.",
+        "Lebensmittel hat sie dabei; zunächst fehlt die passende Kochmöglichkeit."
+      ],
+      "short": "Der mitgebrachte Brennstoff passt nicht zum Kocher.",
+      "context": "Cheryl (Reese Witherspoon) besitzt zwar eine umfangreiche Ausrüstung, kann sie aber noch nicht sicher einsetzen. Der falsche Brennstoff zwingt sie zunächst zu kaltem Essen. Später hilft ihr der Farmer Frank (W. Earl Brown), passenden Brennstoff zu besorgen. Das Missgeschick zeigt den Abstand zwischen gekauftem Material und praktischer Erfahrung, zugleich aber auch den Wert konkreter Hilfe unterwegs.",
+      "anchor": "Viel Ausrüstung ersetzt keinen passenden Brennstoff.",
+      "interest": "Erschließt ein funktionales Problem statt ein zufälliges Ausrüstungsdetail.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum umgeht Cheryl (Reese Witherspoon) in @ einen Teil der Route und verlängert später ihr Ziel?",
+      "answers": [
+        "Starker Schnee zwingt sie zur Umfahrung",
+        "Eine Knieverletzung zwingt sie zu einer längeren Erholung",
+        "Eine gesperrte Brücke zwingt sie zu einem anderen Abschnitt",
+        "Die fehlende Versorgung zwingt sie auf eine Stadtstrecke"
+      ],
+      "feedback": [
+        "Die Schneeverhältnisse verändern ihre Route.",
+        "Eine Knieverletzung ist nicht der Auslöser dieses Umwegs.",
+        "Eine gesperrte Brücke erklärt diese Änderung nicht.",
+        "Sie verlegt die Route nicht wegen fehlender Vorräte auf eine Stadtstrecke."
+      ],
+      "short": "Schnee verändert ihre Route und ihr geplantes Ende.",
+      "context": "Cheryl (Reese Witherspoon) folgt dem Rat des Wanderers Greg (Kevin Rankin) und nimmt einen Bus, um einen schneereichen Abschnitt zu umgehen. Sie will dafür weiter bis zur Bridge of the Gods in Oregon gehen. Die Anpassung ist kein vollständiger Abbruch ihres Vorhabens. Sie reagiert auf die Bedingungen und erhält zugleich einen eigenen Maßstab für den Umfang ihrer Reise.",
+      "anchor": "Schnee verändert den Weg, nicht den Entschluss weiterzugehen.",
+      "interest": "Verbindet eine äußere Schwierigkeit mit einer bewussten Planänderung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Womit ist Simon & Garfunkels „El Cóndor Pasa“ in @ besonders verbunden?",
+      "answers": [
+        "Mit Cheryls Erinnerungen an ihre Mutter",
+        "Mit Cheryls Erinnerungen an ihre Ehe",
+        "Mit Cheryls Begegnung mit Greg auf dem Weg",
+        "Mit Cheryls Erinnerungen an ihre Schulzeit"
+      ],
+      "feedback": [
+        "Das Lied hält besonders die Erinnerung an die Mutter präsent.",
+        "Die Ehe ist nicht der maßgebliche Erinnerungszusammenhang dieses Lieds.",
+        "Die Begegnung mit Greg ist nicht sein Hauptbezug.",
+        "Die Schulzeit ist nicht das zentrale Motiv des Lieds."
+      ],
+      "short": "Das Lied begleitet Cheryls Erinnerung an ihre Mutter.",
+      "context": "Die Musik in Wild gehört eng zu Cheryls (Reese Witherspoon) Erinnerungswelt. El Cóndor Pasa kehrt als Verbindung zu Bobbi (Laura Dern) wieder. Dadurch erhält die körperlich anstrengende Reise eine zweite Ebene: Vergangenes bleibt in der Gegenwart hörbar. Der Klang ist keine bloße Landschaftsuntermalung, sondern unterstützt das wiederholte Zurückdenken an die wichtigste verlorene Bezugsperson.",
+      "anchor": "El Cóndor Pasa hält die Erinnerung an Bobbi hörbar.",
+      "interest": "Erschließt ein konkretes musikalisches Erinnerungsmotiv.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie erscheint die wirkliche Cheryl Strayed zu Beginn von @ selbst im Film?",
+      "answers": [
+        "Sie bringt die Film-Cheryl zum Motel",
+        "Sie verkauft der Film-Cheryl neue Schuhe",
+        "Sie kontrolliert die Film-Cheryl als Rangerin",
+        "Sie singt für die Film-Cheryl in einer Konzertszene"
+      ],
+      "feedback": [
+        "Die Autorin tritt als die Frau auf, die Cheryl am Motel absetzt.",
+        "Sie spielt nicht die Schuhverkäuferin.",
+        "Sie erscheint nicht als kontrollierende Rangerin.",
+        "Ihr Auftritt ist keine Gesangsnummer auf einem Konzert."
+      ],
+      "short": "Die wirkliche Cheryl Strayed setzt die gespielte Cheryl am Motel ab.",
+      "context": "Cheryl Strayed hat einen kurzen Gastauftritt als Frau, die Cheryl (Reese Witherspoon) zum Motel vor dem Wanderbeginn bringt. Die reale Person und ihre gespielte Fassung begegnen sich damit an der Schwelle zum Abenteuer. Der Cameo ist eine kleine sichtbare Verbindung zwischen autobiografischer Erfahrung und filmischer Bearbeitung, ohne dass die Autorin die Hauptrolle selbst übernimmt.",
+      "anchor": "Die wirkliche Cheryl bringt ihre Filmfigur an den Start.",
+      "interest": "Untersucht die konkrete Cameo-Funktion, nicht das bereits vorhandene Ziel zum Namen der autobiografischen Autorin.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Reese Witherspoon und Laura Dern erstmals veröffentlicht?",
+      "answers": [
+        "2014",
+        "2006",
+        "2010",
+        "2019"
+      ],
+      "feedback": [
+        "Die Festivalpremiere fand 2014 statt.",
+        "2006 liegt vor dieser Verfilmung.",
+        "2010 ist zu früh für die erste Vorführung.",
+        "2019 liegt nach dem ersten Kinostart."
+      ],
+      "short": "Wild wurde 2014 erstmals gezeigt.",
+      "context": "Die im Film erzählte Wanderung beginnt 1995. Die Verfilmung wurde 2014 erstmals beim Telluride Film Festival gezeigt, neunzehn Jahre nach diesem Lebensabschnitt. Reese Witherspoon spielt die wandernde Cheryl; die Rückblenden führen noch weiter in ihre Vergangenheit. Der Zeitanker unterscheidet damit die Ebene der erzählten Erfahrung von dem späteren Moment, in dem diese Erfahrung als Kinofilm öffentlich wurde.",
+      "anchor": "1995 Wanderung, 2014 Film: neunzehn Jahre Abstand.",
+      "interest": "Gibt dem Erscheinungsjahr einen konkreten autobiografischen Zeitanker.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Reese Witherspoon und Laura Dern Regie?",
+      "answers": [
+        "Jean-Marc Vallée",
+        "Sean Penn",
+        "Debra Granik",
+        "Kelly Reichardt"
+      ],
+      "feedback": [
+        "Jean-Marc Vallée inszenierte Wild.",
+        "Penn führte bei Into the Wild Regie, nicht bei Wild.",
+        "Granik ist nicht die Regisseurin dieser Verfilmung.",
+        "Reichardt führte nicht bei diesem Film Regie."
+      ],
+      "short": "Jean-Marc Vallée führte Regie.",
+      "context": "Jean-Marc Vallée inszeniert Cheryls (Reese Witherspoon) Wanderung als Wechsel zwischen körperlicher Gegenwart und aufbrechenden Erinnerungen. Nick Hornby schrieb das Drehbuch, das die autobiografische Vorlage für diese Form bearbeitet. Die Regie verbindet so eine konkrete Strecke mit Bildern früherer Beziehungen und Entscheidungen. Das Ziel des Films lässt sich deshalb nicht allein auf die Ankunft an einem geografischen Ort reduzieren.",
+      "anchor": "Vallée verbindet den äußeren Weg mit inneren Erinnerungen.",
+      "interest": "Trennt Regie und Drehbuch und erklärt das filmische Erzählprinzip.",
+      "sources": [
+        "film",
+        "studio"
+      ]
+    }
+  ]
+}

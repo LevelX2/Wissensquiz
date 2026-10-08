@@ -1,3 +1,4 @@
+import { catalogCounts } from "../catalog-counts";
 import {
   modePreparation,
   test,
@@ -196,8 +197,10 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
           q.tags.includes("Classics") && q.metadata.subdomain === "Western",
       ),
   ).toBe(true);
-  expect(stored.questions).toHaveLength(10877);
-  expect(new Set(stored.questions.map((q: any) => q.id)).size).toBe(10877);
+  expect(stored.questions).toHaveLength(catalogCounts.questions);
+  expect(new Set(stored.questions.map((q: any) => q.id)).size).toBe(
+    catalogCounts.questions,
+  );
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();

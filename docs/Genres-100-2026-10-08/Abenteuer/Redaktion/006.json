@@ -1,0 +1,202 @@
+{
+  "rank": 6,
+  "directors": [
+    "Henry Levin"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Veröffentlichung am 16. Dezember 1959.",
+  "familiarity_reason": "Die Verne-Verfilmung mit James Mason und Pat Boone ist ein bekannter Klassiker unterirdischer Expeditionen.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth_(1959_film)",
+    "archiv": "https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was bringt Professor Lindenbrook (James Mason) in @ auf die Spur einer früheren Expedition?",
+      "answers": [
+        "Eine Nachricht in einem Stück vulkanischen Gesteins",
+        "Ein Brief eines ehemaligen Assistenten",
+        "Ein verschlüsseltes Tagebuch aus einem Nachlass",
+        "Eine Zeichnung auf einem in der Mine gefundenen Werkzeug"
+      ],
+      "feedback": [
+        "Im Gestein findet sich ein beschriftetes Senklot.",
+        "Der Hinweis liegt im vulkanischen Gestein.",
+        "Ein Tagebuch ist nicht der erste Fund.",
+        "Das beschriftete Senklot befindet sich in einem ungewöhnlich schweren Stein."
+      ],
+      "short": "Im Gestein findet sich ein beschriftetes Senklot.",
+      "context": "Professor Lindenbrook (James Mason) entdeckt in einem ungewöhnlich schweren Stein ein beschriftetes Senklot. Der Gegenstand verweist auf Arne Saknussemm und einen Weg ins Erdinnere. Ein naturwissenschaftliches Geschenk wird dadurch zum historischen Hinweis auf eine frühere Reise.",
+      "anchor": "Schwerer Stein birgt Saknussemm-Spur.",
+      "interest": "Ein greifbarer Fund verbindet wissenschaftliche Neugier und Reisebeginn.",
+      "sources": [
+        "archiv"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "In welchem Land beginnt der Abstieg der Expedition in @?",
+      "answers": [
+        "Island",
+        "Italien",
+        "Schottland",
+        "Norwegen"
+      ],
+      "feedback": [
+        "Die Gruppe steigt durch einen isländischen Vulkan hinab.",
+        "Italien ist nicht der Ausgangsort dieses Abstiegs.",
+        "Die Vorbereitung beginnt in Schottland, der Abstieg nicht.",
+        "Ein norwegischer Vulkan ist nicht der Zugang."
+      ],
+      "short": "Die Gruppe steigt durch einen isländischen Vulkan hinab.",
+      "context": "Professor Lindenbrook (James Mason) und Alec McEwan (Pat Boone) reisen von Edinburgh nach Island. Der Zugang liegt im Vulkan Snæfellsjökull. Vorbereitung und tatsächlicher Einstieg sind damit verschiedene Stationen; die Reise beginnt nicht direkt unter der schottischen Universität.",
+      "anchor": "Edinburgh plant – Island öffnet den Weg.",
+      "interest": "Der Schauplatz wird von der Ausgangsstadt des Films unterschieden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Unter welcher Bedingung stellt Carla Göteborg (Arlene Dahl) in @ die Ausrüstung ihres Mannes zur Verfügung?",
+      "answers": [
+        "Sie muss selbst an der Expedition teilnehmen dürfen.",
+        "Lindenbrook muss Göteborg als alleinigen Entdecker anerkennen.",
+        "Die Gruppe muss Göteborgs Leichnam nach Edinburgh bringen.",
+        "Die Forschungsunterlagen müssen vor dem Abstieg veröffentlicht werden."
+      ],
+      "feedback": [
+        "Carla verlangt, mitzureisen.",
+        "Sie verlangt ihre eigene Teilnahme, nicht alleinige Entdeckerehre.",
+        "Ein Leichentransport ist nicht ihre Bedingung.",
+        "Eine Veröffentlichung vor dem Aufbruch verlangt sie nicht."
+      ],
+      "short": "Carla verlangt, mitzureisen.",
+      "context": "Carla Göteborg (Arlene Dahl) will den Ruf ihres verstorbenen Mannes schützen und die Forschung selbst begleiten. Ihre Ausrüstung hilft Professor Lindenbrook (James Mason), bindet ihn aber an eine neue Mitreisende. Die Gruppe wächst durch eine ausgehandelte Bedingung, nicht bloß durch zufällige Begegnung.",
+      "anchor": "Carlas Ausrüstung gibt es nur mit Carla.",
+      "interest": "Die Entscheidung erklärt, wie eine eigenständige Figur die Expedition mitgestaltet.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum verfolgt Graf Saknussemm (Thayer David) die Gruppe in @?",
+      "answers": [
+        "Er beansprucht als Nachfahre des früheren Entdeckers ein Vorrecht.",
+        "Er soll als staatlicher Arzt die Gruppe überwachen.",
+        "Er möchte seine entführte Tochter zurückholen.",
+        "Er führt im Auftrag der Universität deren Ausrüstung nach."
+      ],
+      "feedback": [
+        "Der Graf beruft sich auf seine Abstammung vom früheren Entdecker.",
+        "Ein medizinischer Aufsichtsposten ist nicht sein Auftrag.",
+        "Eine entführte Tochter ist nicht sein Beweggrund.",
+        "Er begleitet die Gruppe nicht als beauftragter Ausrüstungslieferant."
+      ],
+      "short": "Der Graf beruft sich auf seine Abstammung vom früheren Entdecker.",
+      "context": "Graf Saknussemm (Thayer David) behandelt die Entdeckung seines Vorfahren wie einen persönlichen Besitzanspruch. Professor Lindenbrook (James Mason) folgt dagegen den überlieferten Zeichen als Forscher. Die gleiche Spur führt damit zu einem Konflikt über das Recht auf Entdeckung.",
+      "anchor": "Nachfahre macht aus Entdeckung einen Besitzanspruch.",
+      "interest": "Der Gegner erhält eine konkrete Motivation im Verhältnis zur Expedition.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche versunkene Stadt findet die Expedition in @ im Erdinneren?",
+      "answers": [
+        "Atlantis",
+        "Troja",
+        "Pompeji",
+        "Babylon"
+      ],
+      "feedback": [
+        "Die Expedition entdeckt die Ruinen von Atlantis.",
+        "Troja liegt nicht an dieser Stelle der Filmreise.",
+        "Pompeji ist nicht die unterirdische Ruinenstadt dieses Films.",
+        "Babylon ist nicht der gefundene Ort."
+      ],
+      "short": "Die Expedition entdeckt die Ruinen von Atlantis.",
+      "context": "Die Ruinen von Atlantis erweitern die Expedition um eine verlorene Kultur. Professor Lindenbrook (James Mason) findet dort auch die letzte Spur des früheren Forschers. Der Schauplatz verbindet eine fantastische Erdlandschaft mit dem Gedanken, dass eine versunkene Vergangenheit noch lesbar ist.",
+      "anchor": "Im Erdinneren liegt Atlantis.",
+      "interest": "Der Fund verbindet Reise- und Entdeckungsstoff mit einem Kulturmythos.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie gelangt die Gruppe in @ schließlich wieder an die Oberfläche?",
+      "answers": [
+        "Ein Vulkanausbruch treibt ihr steinernes Gefährt nach oben.",
+        "Sie kehrt auf demselben Schachtweg nach Island zurück.",
+        "Sie folgt einem unterirdischen Fluss bis zum offenen Meer.",
+        "Sie klettert an einer zurückgelassenen Seilleiter hinauf."
+      ],
+      "feedback": [
+        "Der vulkanische Auftrieb schleudert das Gefährt nach oben.",
+        "Der Rückweg verläuft über einen anderen vulkanischen Ausgang.",
+        "Ein Flussweg zum Meer bringt sie nicht an die Oberfläche.",
+        "Eine Seilleiter ist nicht das Rettungsmittel des Finales."
+      ],
+      "short": "Der vulkanische Auftrieb schleudert das Gefährt nach oben.",
+      "context": "Professor Lindenbrook (James Mason) lässt eine Blockade des Schachts sprengen. Die Reisenden schützen sich in einer steinernen Schale, die von vulkanischer Kraft nach oben getragen wird. Die Natur ist somit auf dem Rückweg zugleich Gefahr und Transportmittel.",
+      "anchor": "Vulkanische Kraft bringt die Forscher zurück.",
+      "interest": "Die Rückkehr nutzt eine vorher erschlossene Eigenschaft des Schauplatzes.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien die Fassung von @ mit James Mason und Pat Boone erstmals?",
+      "answers": [
+        "1959",
+        "1955",
+        "1963",
+        "1967"
+      ],
+      "feedback": [
+        "Diese Verfilmung erschien 1959.",
+        "1955 liegt vier Jahre vor der Veröffentlichung.",
+        "1963 liegt vier Jahre nach der Veröffentlichung.",
+        "1967 liegt acht Jahre nach der Veröffentlichung."
+      ],
+      "short": "Diese Verfilmung erschien 1959.",
+      "context": "1959 begibt sich James Mason als Professor ins Erdinnere. Fünf Jahre zuvor war er in „20.000 Meilen unter dem Meer“ Kapitän Nemo. Der Darsteller verbindet damit zwei große Verne-Verfilmungen, deren Reihenfolge einen anschaulichen zeitlichen Anker bildet.",
+      "anchor": "1954 Nemo – 1959 Lindenbrook.",
+      "interest": "Die belegte Darstellerverbindung verankert die beiden Verne-Filme zeitlich.",
+      "sources": [
+        "handlung",
+        "archiv"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit James Mason und Pat Boone?",
+      "answers": [
+        "Henry Levin",
+        "Richard Fleischer",
+        "Nathan Juran",
+        "George Sidney"
+      ],
+      "feedback": [
+        "Regie führte Henry Levin.",
+        "Fleischer führte bei dieser Fassung nicht Regie.",
+        "Juran führte bei dieser Fassung nicht Regie.",
+        "Sidney führte bei dieser Fassung nicht Regie."
+      ],
+      "short": "Regie führte Henry Levin.",
+      "context": "Henry Levin inszeniert die Gruppe zwischen Forschung, Rivalität und fantastischen Landschaften. Der Film verändert Figuren und Ausgangsort gegenüber dem Roman. Die Regiefrage betrifft diese konkrete Fassung mit James Mason und Pat Boone, nicht spätere Verne-Verfilmungen gleichen Titels.",
+      "anchor": "Levin führt Mason ins Erdinnere.",
+      "interest": "Der Credit wird einer klar identifizierten Filmfassung zugeordnet.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

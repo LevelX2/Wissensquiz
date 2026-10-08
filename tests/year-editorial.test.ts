@@ -1,3 +1,4 @@
+import { catalogCounts } from "./catalog-counts";
 import { readFileSync } from "node:fs";
 import { expect, it } from "vitest";
 import { addPackages, packages } from "../src/packages";
@@ -15,12 +16,12 @@ addPackages(
   })),
 );
 
-it("erreicht alle 545 Bestands-Jahresfragen und lässt die 520 später ergänzten Filmfragen sowie fünf sonstigen Jahresziele unverändert", () => {
+it("erreicht alle 545 Bestands-Jahresfragen und lässt alle später ergänzten Filmfragen und sonstigen Jahresziele unverändert", () => {
   const texts = new Set<string>();
   const numericYears = state.questions.filter((q) =>
     q.answers.every((answer) => /^\d{4}$/.test(answer.text)),
   );
-  expect(numericYears).toHaveLength(1070);
+  expect(numericYears).toHaveLength(catalogCounts.numericYearQuestions);
   expect(Object.keys(editorial)).toHaveLength(545);
   const before = JSON.stringify(state);
   const revised = state.questions.filter((q) => yearPresentation(q));
@@ -44,7 +45,7 @@ it("erreicht alle 545 Bestands-Jahresfragen und lässt die 520 später ergänzte
   }
   expect(texts.size).toBe(545);
   expect(JSON.stringify(state)).toBe(before);
-  expect(numericYears.filter((q) => !yearPresentation(q))).toHaveLength(525);
+  expect(numericYears.filter((q) => !yearPresentation(q))).toHaveLength(catalogCounts.numericYearQuestions - 545);
 });
 
 it("liefert konkrete historische und wissenschaftliche Anker sowie Ergänzungen für CSV-Jahresfragen", () => {

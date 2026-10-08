@@ -1,3 +1,4 @@
+import { catalogCounts } from "./catalog-counts";
 import { expect, it } from "vitest";
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
@@ -255,9 +256,11 @@ it.each([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13])(
       update((s) => addPackages(s, contents)),
     ]);
     const saved = (await read())!;
-    expect(saved.questions).toHaveLength(10877);
-    expect(saved.imports).toHaveLength(24);
-    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(10315);
+    expect(saved.questions).toHaveLength(catalogCounts.questions);
+    expect(saved.imports).toHaveLength(catalogCounts.packages);
+    expect(new Set(saved.questions.map((q) => q.knowledgeId)).size).toBe(
+      catalogCounts.goals,
+    );
     expect(saved.questions.slice(0, previousQuestions.length)).toEqual(
       previousQuestions.map(withCategoryTags),
     );

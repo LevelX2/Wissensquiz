@@ -1,0 +1,206 @@
+{
+  "rank": 8,
+  "directors": [
+    "George Sidney"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI nennt den 26. November 1948 als Veröffentlichung.",
+  "familiarity_reason": "Die MGM-Fassung mit Gene Kelly gehört zum klassischen Mantel-und-Degen-Kino, ist aber weniger präsent als die Musicals des Stars.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Three_Musketeers_(1948_film)",
+    "archiv": "https://catalog.afi.com/Film/25774-THE-THREE-MUSKETEERS",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/The_Three_Musketeers",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Truppe möchte D’Artagnan (Gene Kelly) in @ beitreten?",
+      "answers": [
+        "Den Musketieren des Königs",
+        "Der Leibgarde des englischen Herzogs",
+        "Den Schweizer Soldaten Richelieus",
+        "Den Seefahrern der französischen Handelsflotte"
+      ],
+      "feedback": [
+        "Er reist nach Paris, um königlicher Musketier zu werden.",
+        "Buckingham ist nicht sein Dienstherr.",
+        "Er will nicht Richelieus eigener Truppe beitreten.",
+        "Eine Handelsflotte ist nicht sein Ziel."
+      ],
+      "short": "Er reist nach Paris, um königlicher Musketier zu werden.",
+      "context": "D’Artagnan (Gene Kelly) kommt als unerfahrener junger Mann aus der Gascogne nach Paris. Seine Hoffnungen richten sich auf den königlichen Dienst. Dass er die berühmten Soldaten zunächst beleidigt, macht aus dem angestrebten Eintritt eine Reihe gefährlicher Begegnungen.",
+      "anchor": "D’Artagnans Ziel ist der königliche Dienst.",
+      "interest": "Der Berufswunsch gibt den Kämpfen des Anfangs einen Zusammenhang.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wohin reisen die Freunde in @, um Königin Anne (Angela Lansbury) vor einem Skandal zu bewahren?",
+      "answers": [
+        "Nach England",
+        "Nach Spanien",
+        "Nach Österreich",
+        "Nach Italien"
+      ],
+      "feedback": [
+        "Sie holen den Schmuck aus England zurück.",
+        "Spanien ist nicht das Ziel dieser Mission.",
+        "Österreich ist nicht das Ziel dieser Mission.",
+        "Italien ist nicht das Ziel dieser Mission."
+      ],
+      "short": "Sie holen den Schmuck aus England zurück.",
+      "context": "Königin Anne (Angela Lansbury) hat Schmuck an Buckingham (John Sutton) gegeben. Richelieu (Vincent Price) will dessen Fehlen öffentlich sichtbar machen. Die Freunde müssen deshalb eine Reise bewältigen, deren Gelingen über die Stellung der Königin entscheidet.",
+      "anchor": "Die Schmuckmission führt über den Kanal.",
+      "interest": "Eine Reise wird durch den politischen Zweck verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum werden die zunächst verabredeten Duelle D’Artagnans (Gene Kelly) mit den drei Freunden in @ nicht wie geplant ausgetragen?",
+      "answers": [
+        "Richelieus Wachen greifen ein.",
+        "Der König lässt die Verabredungen ausdrücklich aufheben.",
+        "D’Artagnan erkennt einen der drei als seinen Verwandten.",
+        "Treville bestellt alle vier zur selben Zeit in seine Kaserne."
+      ],
+      "feedback": [
+        "Die Wachen unterbrechen die Duellbegegnung.",
+        "Die Wachen unterbrechen die Duelle durch ihren Eingriff.",
+        "Eine Verwandtschaft beendet die Auseinandersetzungen nicht.",
+        "Eine Bestellung Trevilles ist nicht der unmittelbare Anlass."
+      ],
+      "short": "Die Wachen unterbrechen die Duellbegegnung.",
+      "context": "D’Artagnan (Gene Kelly) hat mit drei Männern nacheinander Streit begonnen. Als Richelieus Wachen erscheinen, entscheidet er sich, an ihrer Seite zu kämpfen. Aus den geplanten Gegnern werden Verbündete: Die Freundschaft entsteht in einer gemeinsamen Entscheidung unter Gefahr.",
+      "anchor": "Die Wachen machen aus Gegnern Verbündete.",
+      "interest": "Die Frage verbindet Aktion und Entstehung der Freundschaft.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie kann Buckingham (John Sutton) in @ den unvollständigen Schmuck rechtzeitig zurückgeben?",
+      "answers": [
+        "Ein Juwelier fertigt zwei Ersatzstücke an.",
+        "Er leiht gleich aussehenden Schmuck aus der königlichen Sammlung.",
+        "Er sendet ein Schreiben, das den fehlenden Schmuck erklärt.",
+        "Er zwingt Milady zur sofortigen Rückgabe."
+      ],
+      "feedback": [
+        "Zwei fehlende Diamantstücke werden nachgefertigt.",
+        "Zwei Stücke werden neu angefertigt, nicht bloß ausgeliehen.",
+        "Ein Schreiben ersetzt die fehlenden Teile nicht.",
+        "Er bekommt die gestohlenen Originale nicht rechtzeitig von Milady zurück."
+      ],
+      "short": "Zwei fehlende Diamantstücke werden nachgefertigt.",
+      "context": "Milady (Lana Turner) hat zwei Stücke des königlichen Schmucks gestohlen. Buckingham (John Sutton) kann den ursprünglichen Satz deshalb nicht einfach herausgeben. Ein Juwelier gleicht den Verlust aus, während die Zeit für D’Artagnans (Gene Kelly) Rückreise knapp wird.",
+      "anchor": "Zwei fehlende Stücke werden ersetzt.",
+      "interest": "Die Lösung erklärt ein Hindernis innerhalb der Rückholmission.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Woran erkennt D’Artagnan (Gene Kelly) in @, dass Athos’ Warnung vor Milady (Lana Turner) begründet ist?",
+      "answers": [
+        "An einem Brandzeichen auf ihrer Schulter",
+        "An einem tätowierten königlichen Wappen am Fuß",
+        "An einer verborgenen Uniform unter ihrem Kleid",
+        "An einem vergifteten Ring in ihrer Hand"
+      ],
+      "feedback": [
+        "Das Brandzeichen bestätigt die Warnung.",
+        "Ein Fußwappen ist nicht der Beweis.",
+        "Eine versteckte Uniform liefert diese Erkenntnis nicht.",
+        "Ein Ring ist hier nicht das entscheidende Zeichen."
+      ],
+      "short": "Das Brandzeichen bestätigt die Warnung.",
+      "context": "Athos (Van Heflin) kennt Milady (Lana Turner) aus seiner Vergangenheit. D’Artagnan (Gene Kelly) zweifelt zunächst an seiner Darstellung. Das Brandzeichen macht die persönliche Warnung überprüfbar und verändert sein Vertrauen in die Frau, die ihn für Richelieu gewinnen soll.",
+      "anchor": "Das Brandzeichen bestätigt Athos.",
+      "interest": "Ein sichtbarer Befund verändert eine Beziehung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Was schützt D’Artagnan (Gene Kelly) und seine Freunde in @ schließlich vor Richelieus (Vincent Price) Todesurteil?",
+      "answers": [
+        "Eine von Richelieu selbst ausgestellte Vollmacht",
+        "Ein königlicher Brief aus der Gascogne",
+        "Ein von Buckingham unterschriebener Friedensvertrag",
+        "Eine Begnadigung durch den Henker"
+      ],
+      "feedback": [
+        "Die Vollmacht kann gegen ihren eigenen Aussteller verwendet werden.",
+        "Ein Gasconer Königsbrief ist nicht der entscheidende Schutz.",
+        "Ein englischer Friedensvertrag beendet das Verfahren nicht.",
+        "Der Henker erteilt keine Begnadigung."
+      ],
+      "short": "Die Vollmacht kann gegen ihren eigenen Aussteller verwendet werden.",
+      "context": "Richelieu (Vincent Price) hatte Milady (Lana Turner) weitreichende Handlungsfreiheit schriftlich gewährt. Die Freunde besitzen nun dieses Dokument. D’Artagnan (Gene Kelly) nutzt es bei der Anklage: Ein Instrument der Intrige blockiert die Bestrafung jener Männer, die sie vereitelt haben.",
+      "anchor": "Richelieus Schriftstück fällt auf ihn zurück.",
+      "interest": "Das Finale löst einen Konflikt mit einem zuvor etablierten Gegenstand.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Gene Kelly und Lana Turner erstmals?",
+      "answers": [
+        "1948",
+        "1944",
+        "1952",
+        "1956"
+      ],
+      "feedback": [
+        "Diese MGM-Fassung erschien 1948.",
+        "1944 liegt vier Jahre davor.",
+        "1952 liegt vier Jahre danach.",
+        "1956 liegt acht Jahre danach."
+      ],
+      "short": "Diese MGM-Fassung erschien 1948.",
+      "context": "Alexandre Dumas veröffentlichte Die drei Musketiere 1844; die MGM-Verfilmung mit Gene Kelly als D’Artagnan folgte 1948, 104 Jahre später. Der Zeitanker verbindet den Abenteuerroman mit einer großen farbigen Studiofassung. Kellys körperliche Beweglichkeit, die auch seine Tanzauftritte prägt, wird hier für Fechtkämpfe eingesetzt. Der Film überträgt damit einen längst etablierten Stoff in ein neues Schauformat.",
+      "anchor": "1844 Dumas’ Roman – 1948 Kellys Degenabenteuer: 104 Jahre Abstand.",
+      "interest": "Der Studiokontext verankert die Fassung zeitlich.",
+      "sources": [
+        "archiv",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Gene Kelly als D’Artagnan?",
+      "answers": [
+        "George Sidney",
+        "Richard Thorpe",
+        "Michael Curtiz",
+        "Richard Lester"
+      ],
+      "feedback": [
+        "Der Regiecredit gehört George Sidney.",
+        "Thorpe inszenierte diese Fassung nicht.",
+        "Curtiz inszenierte diese Fassung nicht.",
+        "Lester inszenierte andere Musketierfilme."
+      ],
+      "short": "Der Regiecredit gehört George Sidney.",
+      "context": "George Sidney inszeniert den Dumas-Stoff für MGM mit Gene Kelly. Der offizielle Credit trennt diese farbige Studiofassung von Richard Lesters späteren Arbeiten. Die Frage betrifft den Film mit Kelly und Lana Turner, nicht den mehrfach verfilmten Roman im Allgemeinen.",
+      "anchor": "Sidney führt Kelly zu den Musketieren.",
+      "interest": "Der Credit wird einer identifizierbaren Fassung zugeordnet.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

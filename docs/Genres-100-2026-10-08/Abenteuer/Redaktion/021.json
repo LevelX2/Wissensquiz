@@ -1,0 +1,206 @@
+{
+  "rank": 21,
+  "directors": [
+    "Peter Weir"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Kinoveröffentlichung 2003; Studiokatalog nennt den 14. November.",
+  "familiarity_reason": "Das Seeabenteuer mit Russell Crowe ist ein bekannter moderner Genremaßstab.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World",
+    "studio": "https://www.20thcenturystudios.com/movies/master-and-commander-the-far-side-of-the-world",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/Gladiator_(2000_film)",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Aufgabe hat Stephen Maturin (Paul Bettany) an Bord in @?",
+      "answers": [
+        "Er ist der Schiffsarzt.",
+        "Er ist der Steuermann.",
+        "Er ist der Kommandant der Marinesoldaten.",
+        "Er ist der Koch des Kapitäns."
+      ],
+      "feedback": [
+        "Maturin versorgt als Arzt die Besatzung.",
+        "Er ist nicht der Steuermann.",
+        "Die Marines führt er nicht.",
+        "Das Kochen ist nicht sein Bordamt."
+      ],
+      "short": "Maturin versorgt als Arzt die Besatzung.",
+      "context": "Stephen Maturin (Paul Bettany) ist Arzt und Naturforscher. Seine Interessen unterscheiden sich dadurch von der militärischen Aufgabe des Kapitäns Jack Aubrey (Russell Crowe). Die Freundschaft der beiden verbindet enges Vertrauen mit wiederkehrenden Auseinandersetzungen über die Ziele der Reise.",
+      "anchor": "Maturin heilt und erforscht.",
+      "interest": "Die Bordfunktion erklärt die zweite Perspektive der Geschichte.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Weshalb jagt Jack Aubrey (Russell Crowe) in @ die Acheron?",
+      "answers": [
+        "Das feindliche Schiff bedroht britische Schiffe.",
+        "Er will einen britischen Gefangenen von Bord befreien.",
+        "Er soll gestohlenen Sold für seine Mannschaft zurückholen.",
+        "Er will mit dem Schiff ein Rennen nach Portsmouth gewinnen."
+      ],
+      "feedback": [
+        "Die militärische Bedrohung bestimmt die Verfolgung.",
+        "Ein einzelner Gefangener ist nicht der Auftrag der Jagd.",
+        "Ein gestohlener Mannschaftssold ist nicht ihr Anlass.",
+        "Ein Hafenrennen steht nicht hinter der Verfolgung."
+      ],
+      "short": "Die militärische Bedrohung bestimmt die Verfolgung.",
+      "context": "Die Acheron greift die Surprise an und bedroht weitere britische Schiffe. Aubrey (Russell Crowe) verfolgt sie trotz Schäden und großer Risiken. Sein Auftrag wird dabei zur Frage, wie weit ein Kommandant eine gefährdete Mannschaft für den militärischen Erfolg einsetzen darf.",
+      "anchor": "Aubrey verfolgt eine Gefahr für britische Schiffe.",
+      "interest": "Der Auftrag erklärt den anhaltenden Konflikt um Risiko.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie entkommt die Surprise in @ einer erneuten Verfolgung durch die Acheron?",
+      "answers": [
+        "Sie setzt ein Täuschungsfloß ein.",
+        "Sie versteckt sich im Schatten eines Eisbergs.",
+        "Sie überquert ein Riff, dem das schwerere Schiff nicht folgen kann.",
+        "Sie lässt alle Segel bergen und wartet als scheinbares Wrack."
+      ],
+      "feedback": [
+        "Das Floß lenkt die Verfolger ab.",
+        "Das Ablenkungsmanöver besteht aus einem Floß, nicht einem Eisberg.",
+        "Ein zu flaches Riff ist nicht die Lösung dieser Verfolgung.",
+        "Die Surprise täuscht nicht durch vollständiges Bergen der eigenen Segel."
+      ],
+      "short": "Das Floß lenkt die Verfolger ab.",
+      "context": "Aubrey (Russell Crowe) kann den stärkeren Gegner nicht allein durch Feuerkraft überwinden. Ein als Schiffsspur erscheinendes Floß lenkt dessen Verfolgung um. Die Szene etabliert Täuschung als Mittel gegen technische Überlegenheit, das später in anderer Form wiederkehrt.",
+      "anchor": "Ein Floß führt das stärkere Schiff auf eine falsche Spur.",
+      "interest": "Die List zeigt einen Ausweg jenseits direkter Überlegenheit.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum kehrt Aubrey (Russell Crowe) in @ trotz seiner Jagd zu den Galápagosinseln zurück?",
+      "answers": [
+        "Maturin wurde angeschossen und braucht eine Operation an Land.",
+        "Sein Schiff braucht Ersatzmasten aus den dortigen Wäldern.",
+        "Er will dort eine von der Acheron erbeutete Mannschaft absetzen.",
+        "Die Vorräte sind erschöpft und sollen an Land ergänzt werden."
+      ],
+      "feedback": [
+        "Maturins Verletzung zwingt zu einer anderen Priorität.",
+        "Der entscheidende Anlass ist Maturins Schussverletzung.",
+        "Eine gefangene Mannschaft wird nicht für die Operation zurückgebracht.",
+        "Nicht Vorratsmangel zwingt zu diesem Kurswechsel."
+      ],
+      "short": "Maturins Verletzung zwingt zu einer anderen Priorität.",
+      "context": "Maturin (Paul Bettany) wird bei einer Vogeljagd versehentlich angeschossen. Die Versorgung auf See ist schwierig, sodass Aubrey (Russell Crowe) zurückkehrt. Die Freundschaft stellt den militärischen Auftrag damit vor eine konkrete Grenze: Für die Behandlung eines Menschen muss die Jagd unterbrochen werden.",
+      "anchor": "Maturins Verletzung unterbricht Aubreys Jagd.",
+      "interest": "Die Entscheidung macht den Konflikt zwischen Auftrag und Fürsorge konkret.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche Beobachtung Maturins (Paul Bettany) regt in @ die entscheidende Tarnung der Surprise an?",
+      "answers": [
+        "Die Tarnung eines Insekts als Zweig",
+        "Die Wanderung einer Schildkröte ins offene Meer",
+        "Der gemeinsame Flug einer Möwengruppe",
+        "Die Strömung um einen vulkanischen Felsen"
+      ],
+      "feedback": [
+        "Das getarnte Insekt liefert das Vorbild.",
+        "Die Schildkrötenwanderung begründet die Tarnung nicht.",
+        "Ein Möwenflug ist nicht die entscheidende Beobachtung.",
+        "Eine Felsströmung gibt nicht das Vorbild."
+      ],
+      "short": "Das getarnte Insekt liefert das Vorbild.",
+      "context": "Aubrey (Russell Crowe) betrachtet ein Insekt aus Maturins (Paul Bettany) Sammlung, das wie ein Zweig wirkt. Er lässt die Surprise anschließend als harmlosen Walfänger erscheinen. Das zunächst konkurrierende Forschungsinteresse trägt so unerwartet zum Gelingen des militärischen Plans bei.",
+      "anchor": "Naturtarnung wird zur Schiffstarnung.",
+      "interest": "Forschung und militärische Aufgabe finden einen konkreten gemeinsamen Nutzen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entdeckung löst in @ die erneute Verfolgung nach dem scheinbaren Sieg aus?",
+      "answers": [
+        "Der angebliche französische Arzt ist tatsächlich der gegnerische Kapitän.",
+        "Die französischen Gefangenen haben einen geheimen Angriff vereinbart.",
+        "Die Acheron führt eine zweite unbekannte Kanonenreihe.",
+        "Das erbeutete Schiff hat heimlich wieder die französische Flagge gesetzt."
+      ],
+      "feedback": [
+        "Der Kapitän hat sich unter einer fremden Funktion verborgen.",
+        "Der konkrete Auslöser ist die aufgedeckte falsche Arztidentität.",
+        "Eine neue Kanonenreihe wird im Schluss nicht entdeckt.",
+        "Nicht eine heimlich gehisste Flagge enthüllt die Täuschung."
+      ],
+      "short": "Der Kapitän hat sich unter einer fremden Funktion verborgen.",
+      "context": "Der vermeintliche französische Arzt (Thierry Segall) meldet den Tod seines Kapitäns. Maturin (Paul Bettany) erkennt später anhand der Unterlagen, dass der wirkliche Arzt bereits früher gestorben war. Aubrey (Russell Crowe) durchschaut die Rollenlüge und nimmt die Jagd wieder auf.",
+      "anchor": "Ein falscher Arzt verbirgt einen lebenden Kapitän.",
+      "interest": "Die Wendung wird über widersprüchliche Informationen nachvollziehbar.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Russell Crowe und Paul Bettany erstmals im Kino?",
+      "answers": [
+        "2003",
+        "1999",
+        "2007",
+        "2011"
+      ],
+      "feedback": [
+        "Das Seeabenteuer erschien 2003.",
+        "1999 liegt vier Jahre davor.",
+        "2007 liegt vier Jahre danach.",
+        "2011 liegt acht Jahre danach."
+      ],
+      "short": "Das Seeabenteuer erschien 2003.",
+      "context": "Russell Crowes Gladiator erschien 2000. Master and Commander folgte 2003, drei Jahre später, mit Crowe als Kapitän Jack Aubrey und Paul Bettany als Arzt Stephen Maturin. Der Zeitanker verbindet zwei historische Abenteuer desselben Hauptdarstellers, jedoch unter unterschiedlicher Regie. Aus dem römischen Arenakampf wird eine Seereise, deren Entscheidungen zwischen militärischer Jagd und persönlicher Verantwortung liegen.",
+      "anchor": "2000 Gladiator – 2003 Crowe auf der Surprise: drei Jahre Abstand.",
+      "interest": "Die Hauptbeziehung verankert das Jahr.",
+      "sources": [
+        "studio",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Russell Crowe und Paul Bettany?",
+      "answers": [
+        "Peter Weir",
+        "Ridley Scott",
+        "Roger Donaldson",
+        "Terry Gilliam"
+      ],
+      "feedback": [
+        "Peter Weir führte Regie.",
+        "Scott trägt diesen Regiecredit nicht.",
+        "Donaldson inszenierte einen anderen bekannten Seefilm.",
+        "Gilliam führte bei dieser Produktion nicht Regie."
+      ],
+      "short": "Peter Weir führte Regie.",
+      "context": "Peter Weir inszeniert den Schiffsalltag und den Gegensatz zwischen Kapitän und Naturforscher. Seine Regie verbindet den militärischen Auftrag mit engen Räumen, körperlicher Arbeit und der Freundschaft der Hauptfiguren. Der Studiokatalog bestätigt den Credit für diese konkrete O’Brian-Adaption.",
+      "anchor": "Weir führt Aubrey und Maturin auf See.",
+      "interest": "Der Regiecredit wird mit der zentralen Beziehung verbunden.",
+      "sources": [
+        "studio"
+      ]
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+import { catalogCounts } from "../catalog-counts";
 import { buildSync } from "esbuild";
 import { test, expect, readStoredState } from "./fixtures";
 import { decodeQuestionCatalog } from "../../src/catalogCodec";
@@ -11,7 +12,7 @@ test("getrennter Katalog migriert Vollstände, erhält Antworten und reduziert l
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const full = await readStoredState(page);
-  expect(full.questions).toHaveLength(10877);
+  expect(full.questions).toHaveLength(catalogCounts.questions);
   // Inject the actual storage API only into this isolated test browser.
   const bundle = buildSync({
     stdin: {

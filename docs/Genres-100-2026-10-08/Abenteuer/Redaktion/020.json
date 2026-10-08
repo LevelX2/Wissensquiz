@@ -1,0 +1,210 @@
+{
+  "rank": 20,
+  "directors": [
+    "Terry Gilliam"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA",
+    "Deutschland"
+  ],
+  "country_note": "Deutsche Beteiligung zur Zeit der Bundesrepublik vor der Wiedervereinigung.",
+  "release_note": "Erster deutscher Kinostart am 8. Dezember 1988; US- und britische Starts 1989.",
+  "familiarity_reason": "Gilliams fantastische Münchhausen-Version ist ein markanter Kennerfilm mit großem Ensemble.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen",
+    "edition": "https://www.criterion.com/films/29570-the-adventures-of-baron-munchausen",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/Brazil_(1985_film)",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo tritt der Baron (John Neville) zu Beginn von @ mit seinem Anspruch auf die Wahrheit auf?",
+      "answers": [
+        "In einer Theateraufführung über seine Abenteuer",
+        "In einem Gericht in London",
+        "In einer Sitzung der französischen Marine",
+        "In einem königlichen Gefängnis"
+      ],
+      "feedback": [
+        "Er unterbricht die Bühnenversion seines Lebens.",
+        "Ein Londoner Gericht ist nicht dieser Schauplatz.",
+        "Eine Marinesitzung findet dort nicht statt.",
+        "Die Geschichte beginnt nicht mit seiner Haft."
+      ],
+      "short": "Er unterbricht die Bühnenversion seines Lebens.",
+      "context": "Ein Theater zeigt Münchhausens Abenteuer in einer belagerten Stadt. Der alte Baron (John Neville) widerspricht dieser Darstellung und erzählt selbst. Schon der Beginn stellt damit zwei Versionen nebeneinander: die Bühnenfigur und einen Mann, der behauptet, die Ereignisse wirklich erlebt zu haben.",
+      "anchor": "Münchhausen widerspricht seinem eigenen Bühnenbild.",
+      "interest": "Der Auftakt erschließt das Spiel mit Erzählen und Wirklichkeit.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wer reist in @ heimlich mit dem Baron (John Neville) im Ballon aus der Stadt?",
+      "answers": [
+        "Sally (Sarah Polley)",
+        "Sallys Vater Henry Salt (Bill Paterson)",
+        "Horatio Jackson (Jonathan Pryce)",
+        "Die Mondkönigin Ariadne (Valentina Cortese)"
+      ],
+      "feedback": [
+        "Sally wird zur jungen Begleiterin.",
+        "Ihr Vater reist nicht als heimlicher Passagier mit.",
+        "Jackson bleibt der Gegenspieler innerhalb der Stadt.",
+        "Die Mondkönigin begegnet dem Baron erst auf der Reise."
+      ],
+      "short": "Sally wird zur jungen Begleiterin.",
+      "context": "Sally (Sarah Polley), die Tochter des Theaterleiters, hält den alten Baron (John Neville) am Leben und reist heimlich mit. Ihre Neugier trägt die Geschichte weiter. Die Reise gewinnt durch sie einen Blick, der die erstaunlichen Behauptungen nicht einfach mit erwachsener Vernunft abweist.",
+      "anchor": "Sally trägt Münchhausens Neugier weiter.",
+      "interest": "Die Begleiterin hat eine klare Funktion in der Erzählung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Aus welchem Material fertigt der Baron (John Neville) in @ den Ballon für die Suche nach seinen Freunden?",
+      "answers": [
+        "Aus Damenunterwäsche",
+        "Aus zusammengenähten Theaterkulissen",
+        "Aus erbeuteten türkischen Fahnen",
+        "Aus den Segeln eines Kriegsschiffs"
+      ],
+      "feedback": [
+        "Der Ballon wird aus Unterwäsche gefertigt.",
+        "Theaterkulissen sind nicht das Material des Ballons.",
+        "Die Hülle entsteht nicht aus erbeuteten Fahnen.",
+        "Schiffssegel verwendet der Baron für diese Hülle nicht."
+      ],
+      "short": "Der Ballon wird aus Unterwäsche gefertigt.",
+      "context": "Der Baron (John Neville) will seine außergewöhnlichen Freunde zurückholen. Für die Flucht nutzt er einen Ballon aus ungewöhnlichem Material, während Sally (Sarah Polley) mitfährt. Ein alltäglicher Gegenstand wird dabei zum fantastischen Reisegerät, das unmittelbar den Ton der weiteren Abenteuer setzt.",
+      "anchor": "Unterwäsche hebt den Baron über die Mauern.",
+      "interest": "Eine anschauliche Szene zeigt die Erfindungslogik des Films.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was ist am Mondkönig in @ besonders ungewöhnlich?",
+      "answers": [
+        "Kopf und Körper handeln als getrennte Wesen.",
+        "Er übernimmt beim Sprechen die Gedanken seiner Gäste.",
+        "Er schrumpft und wächst je nach Stimmung.",
+        "Er kann nur durch den Mund seiner Königin sprechen."
+      ],
+      "feedback": [
+        "Sein Kopf und sein Körper besitzen getrennte Absichten.",
+        "Der Film trennt Kopf und Körper, nicht seine Gedanken von fremden Besuchern.",
+        "Ein stimmungsabhängiger Größenwechsel ist nicht die gefragte Besonderheit.",
+        "Seine Stimme stammt nicht allein aus dem Mund der Königin."
+      ],
+      "short": "Sein Kopf und sein Körper besitzen getrennte Absichten.",
+      "context": "Der Mondkönig (Robin Williams) erscheint mit getrennt handelndem Kopf und Körper. Die Teilung macht Wünsche und Streit innerhalb einer einzigen Gestalt sichtbar. Münchhausens Reise durchbricht damit nicht nur Naturgesetze, sondern verwandelt innere Widersprüche buchstäblich in räumliche Figuren.",
+      "anchor": "Der Mondkönig streitet mit seinem eigenen Körper.",
+      "interest": "Die fantastische Gestalt besitzt einen verständlichen inneren Konflikt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie entkommen die Reisenden in @ aus dem riesigen Meerestier?",
+      "answers": [
+        "Sie bringen es mit Schnupftabak zum Niesen.",
+        "Sie entzünden im Inneren ein Feuer, das den Magen reizt.",
+        "Sie treiben das Tier durch lautes Glockenläuten an die Küste.",
+        "Sie nutzen einen Schwertstich, damit es sie ausspuckt."
+      ],
+      "feedback": [
+        "Das Niesen schleudert die Gruppe hinaus.",
+        "Schnupftabak und Niesen ermöglichen die Flucht, nicht ein Feuer.",
+        "Glockenläuten führt sie nicht ans Ufer.",
+        "Ein Schwertstich ist nicht der Auslöser des Herausbeförderns."
+      ],
+      "short": "Das Niesen schleudert die Gruppe hinaus.",
+      "context": "Im Inneren des Tieres findet der Baron (John Neville) weitere Freunde wieder. Die Flucht beruht schließlich auf einem winzigen Mittel mit riesiger Wirkung: Schnupftabak löst ein Niesen aus. Der Größenunterschied verbindet den grotesken Schauplatz mit einem ganz alltäglichen körperlichen Vorgang.",
+      "anchor": "Eine Prise Tabak bewegt ein Meerestier.",
+      "interest": "Die Lösung nutzt einen anschaulichen Gegensatz von Größe und Wirkung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie wird der gezeigte Tod des Barons (John Neville) am Ende von @ umgedeutet?",
+      "answers": [
+        "Er gehört zu einer weiteren von ihm erzählten Geschichte.",
+        "Sally erkennt ihn als Schluss der ursprünglichen Theateraufführung.",
+        "Der Baron erklärt die Szene als seinen eigenen Traum.",
+        "Die Bürger erinnern sich unabhängig vom Baron an dieselbe Beerdigung."
+      ],
+      "feedback": [
+        "Der Film kehrt zum lebenden erzählenden Baron zurück.",
+        "Es ist der lebende Baron, der diese Geschichte dem Publikum erzählt.",
+        "Der Tod wird zur Erzählebene zurückgeführt, nicht als Traum ausgewiesen.",
+        "Eine unabhängige Bestätigung der Beerdigung erfolgt nicht."
+      ],
+      "short": "Der Film kehrt zum lebenden erzählenden Baron zurück.",
+      "context": "Nach Rettung, Tod und Beerdigung zeigt der Film wieder den erzählenden Baron (John Neville). Das vermeintliche Ende war Teil seines Berichts. Ob alle fantastischen Vorgänge wirklich geschahen, bleibt offen; sicher ist die Rückkehr zur Erzählebene des Anfangs.",
+      "anchor": "Münchhausen erzählt sogar seinen eigenen Tod.",
+      "interest": "Die Frage prüft den Wechsel der Erzählebene statt eine behauptete eindeutige Realität.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann wurde @ mit John Neville erstmals im Kino veröffentlicht?",
+      "answers": [
+        "1988",
+        "1984",
+        "1992",
+        "1996"
+      ],
+      "feedback": [
+        "Die erste deutsche Veröffentlichung liegt 1988.",
+        "1984 liegt vier Jahre davor.",
+        "1992 liegt vier Jahre danach.",
+        "1996 liegt acht Jahre danach."
+      ],
+      "short": "Die erste deutsche Veröffentlichung liegt 1988.",
+      "context": "Terry Gilliams Brazil erschien 1985; Die Abenteuer des Baron Münchhausen folgten 1988, drei Jahre später. Die Jahresfolge verbindet zwei Filme, die Wirklichkeit, Macht und fantastische Gegenwelten gegeneinanderstellen. Der spätere Film startet zuerst in Deutschland, während andere Länder erst 1989 folgen. Für den Zeitanker bleibt entscheidend, dass Gilliams barockes Abenteuer drei Jahre nach seinem dystopischen Film erschien.",
+      "anchor": "1985 Brazil – 1988 Münchhausen: drei Jahre Gilliams fantastische Gegenwelten.",
+      "interest": "Der konkrete Veröffentlichungsverlauf verankert das Jahr.",
+      "sources": [
+        "handlung",
+        "edition",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit John Neville und Sarah Polley?",
+      "answers": [
+        "Terry Gilliam",
+        "Karel Zeman",
+        "Jean-Pierre Jeunet",
+        "Tim Burton"
+      ],
+      "feedback": [
+        "Terry Gilliam führte Regie.",
+        "Zeman inszenierte eine andere Münchhausen-Fassung.",
+        "Jeunet trägt diesen Credit nicht.",
+        "Burton führte hier nicht Regie."
+      ],
+      "short": "Terry Gilliam führte Regie.",
+      "context": "Terry Gilliam inszeniert die Begegnung von vermeintlicher Vernunft und fantastischer Erzählung. Die Fassung mit John Neville und Sarah Polley verbindet ein Theater mit übergroßen Reisebildern. Der Regiecredit gehört zu dieser Produktion, nicht zur gesamten Geschichte der Münchhausen-Verfilmungen.",
+      "anchor": "Gilliam lässt Nevilles Baron die Vernunft sprengen.",
+      "interest": "Der Credit wird dem konkreten visuellen Erzählkonzept zugeordnet.",
+      "sources": [
+        "edition"
+      ]
+    }
+  ]
+}

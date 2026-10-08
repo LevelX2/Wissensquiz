@@ -1,0 +1,205 @@
+{
+  "rank": 3,
+  "directors": [
+    "Richard Fleischer"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Veröffentlichung am 23. Dezember 1954.",
+  "familiarity_reason": "Die Disney-Verfilmung mit James Mason und Kirk Douglas gehört zu den weithin bekannten Verne-Abenteuern.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1954_film)",
+    "disney": "https://d23.com/a-to-z/20000-leagues-under-the-sea-film/",
+    "produktion": "https://d23.com/20000-leagues-under-the-sea-70-years-of-the-mightiest-motion-picture-of-them-all/",
+    "geschichte": "https://d23.com/a-to-z/disneyland/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was steckt in @ mit James Mason hinter dem vermeintlichen Seeungeheuer?",
+      "answers": [
+        "Das Unterseeboot Nautilus",
+        "Ein ungewöhnlich großer Wal",
+        "Ein gepanzertes Kriegsschiff an der Wasseroberfläche",
+        "Eine Gruppe von Walen, die gleichzeitig angreift"
+      ],
+      "feedback": [
+        "Das vermeintliche Monster ist Nemos Unterseeboot.",
+        "Die vermeintliche Naturerscheinung ist ein technisches Schiff.",
+        "Die Nautilus kann tauchen und bewegt sich nicht nur an der Oberfläche.",
+        "Mehrere Wale erklären die Angriffe nicht."
+      ],
+      "short": "Das vermeintliche Monster ist Nemos Unterseeboot.",
+      "context": "Professor Aronnax (Paul Lukas) geht von einer Naturerscheinung aus. Die Begegnung mit Kapitän Nemo (James Mason) verschiebt die Erklärung zur Technik. Das Schiff ist zugleich Forschungsraum und Waffe: Der technische Fortschritt löst nicht automatisch den moralischen Konflikt.",
+      "anchor": "Seeungeheuer entpuppt sich als Nautilus.",
+      "interest": "Der zentrale Erkenntniswechsel eröffnet das Abenteuer.",
+      "sources": [
+        "disney"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Haltung vertritt Ned Land (Kirk Douglas) in @ gegenüber dem Aufenthalt an Bord?",
+      "answers": [
+        "Er sucht eine Möglichkeit zur Flucht.",
+        "Er will Nemos Mannschaft dauerhaft beitreten.",
+        "Er will zunächst gemeinsam mit Nemo weitere Erfindungen erforschen.",
+        "Er will nach einer Bezahlung freiwillig an Bord bleiben."
+      ],
+      "feedback": [
+        "Ned Land will die Gefangenschaft verlassen.",
+        "Ned sucht den Weg aus der Gefangenschaft.",
+        "Die wissenschaftliche Begeisterung kennzeichnet stärker Aronnax.",
+        "Ein freiwilliger bezahlter Aufenthalt ist nicht Neds Haltung."
+      ],
+      "short": "Ned Land will die Gefangenschaft verlassen.",
+      "context": "Ned Land (Kirk Douglas) sieht in Nemos technischen Möglichkeiten keinen Ersatz für persönliche Freiheit. Professor Aronnax (Paul Lukas) ist dagegen von den Entdeckungen beeindruckt. Die Gefährten reagieren damit unterschiedlich auf denselben Ort zwischen Wunder und Gefangenschaft.",
+      "anchor": "Ned will Freiheit, Aronnax will Erkenntnis.",
+      "interest": "Der Gegensatz der Perspektiven erklärt Spannungen innerhalb der Reisegruppe.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie versucht Ned Land (Kirk Douglas) in @, Hilfe von außen zu bekommen?",
+      "answers": [
+        "Er schickt die Koordinaten des Stützpunkts in Flaschen fort.",
+        "Er entzündet an Land ein Signalfeuer für vorbeifahrende Schiffe.",
+        "Er versteckt die Lageangaben in einem Brief an einen Hafenbeamten.",
+        "Er legt Nemos Karten für die Besatzung eines verfolgenden Schiffs aus."
+      ],
+      "feedback": [
+        "Ned verschickt die entdeckten Koordinaten als Flaschenpost.",
+        "Die entscheidende Botschaft wird als Flaschenpost verschickt.",
+        "Ein persönlich zugestellter Brief ist nicht seine Methode.",
+        "Er verschickt Koordinaten statt Karten bei einem Verfolger auszulegen."
+      ],
+      "short": "Ned verschickt die entdeckten Koordinaten als Flaschenpost.",
+      "context": "Ned Land (Kirk Douglas) findet die Lage von Vulcania heraus und nutzt Flaschenpost. Das verschafft einer Außenwelt Zugang, von der Kapitän Nemo (James Mason) unabhängig sein will. Die Hoffnung auf Rettung bedroht damit zugleich Nemos Geheimnis.",
+      "anchor": "Vulcanias Koordinaten verlassen das Schiff in Flaschen.",
+      "interest": "Die Rettungsmaßnahme hat eine konkrete Folge für die Sicherheit des Stützpunkts.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum zerstört Nemo (James Mason) in @ ein Schiff mit Kriegsmaterial?",
+      "answers": [
+        "Er will dessen Waffenlieferung für einen Krieg verhindern.",
+        "Er will die Ladung für seinen eigenen Stützpunkt erbeuten.",
+        "Er verwechselt das Schiff mit einem Verfolger der Nautilus.",
+        "Er will dessen Besatzung zum Anschluss an seine Mannschaft zwingen."
+      ],
+      "feedback": [
+        "Nemo begründet den Angriff mit der Verhinderung weiterer Kriegstoter.",
+        "Seine erklärte Absicht ist die Unterbrechung der Kriegsversorgung.",
+        "Nemo kennt den Zweck der Ladung und greift bewusst an.",
+        "Er will nicht die Mannschaft rekrutieren."
+      ],
+      "short": "Nemo begründet den Angriff mit der Verhinderung weiterer Kriegstoter.",
+      "context": "Kapitän Nemo (James Mason) versteht seinen Angriff als Kampf gegen Krieg und Unterdrückung. Professor Aronnax (Paul Lukas) erlebt dabei aber auch die tödliche Seite der Nautilus. Der Film stellt Nemos Absicht und seine gewaltsamen Mittel nebeneinander, ohne die Technik als neutralen Schutzraum zu zeigen.",
+      "anchor": "Nemos Friedensabsicht führt zum Angriff.",
+      "interest": "Die Frage erschließt den Widerspruch zwischen Motiv und Methode.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wer rettet Nemo (James Mason) beim Kampf gegen den Riesenkalmar in @?",
+      "answers": [
+        "Ned Land (Kirk Douglas)",
+        "Conseil (Peter Lorre)",
+        "Professor Aronnax (Paul Lukas)",
+        "Kapitän Farragut (Ted de Corsia)"
+      ],
+      "feedback": [
+        "Ned Land harpuniert das Tier und rettet Nemo.",
+        "Conseil ist nicht derjenige, der Nemo aus dem Angriff rettet.",
+        "Aronnax übernimmt diese Rettung nicht.",
+        "Farragut ist beim entscheidenden Kampf nicht an Bord."
+      ],
+      "short": "Ned Land harpuniert das Tier und rettet Nemo.",
+      "context": "Ned Land (Kirk Douglas) handelt beim Angriff, obwohl er Kapitän Nemo (James Mason) nicht vertraut. Gegnerschaft und Hilfe schließen sich damit nicht aus. Die Rettung verändert Nemos Blick auf seine Gefangenen und unterbricht für einen Moment seine Abkehr von der Menschheit.",
+      "anchor": "Fluchtwilliger Ned rettet seinen Gefangenhalter.",
+      "interest": "Die Szene macht einen Wendepunkt der Figurenbeziehung greifbar.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum wurde die Riesenkalmar-Szene für @ neu unter stürmischen Bedingungen gedreht?",
+      "answers": [
+        "Die bewegte, dunkle Umgebung verbarg die Mechanik besser.",
+        "Die neue Fassung sollte ausschließlich kürzer werden.",
+        "Für die erste Fassung fehlte eine Einigung über den Handlungsort.",
+        "Die ursprüngliche Szene ließ Ned nicht an der Rettung mitwirken."
+      ],
+      "feedback": [
+        "Sturm und Dunkelheit kaschierten die Mechanik des Effektmodells.",
+        "Die neue Umgebung sollte vor allem den mechanischen Aufbau kaschieren.",
+        "Das Problem lag in den sichtbaren Effekten, nicht einem unentschiedenen Schauplatz.",
+        "Neds Beteiligung erklärt nicht die Wahl von Sturm und Dunkelheit."
+      ],
+      "short": "Sturm und Dunkelheit kaschierten die Mechanik des Effektmodells.",
+      "context": "Der erste Versuch in ruhiger, heller Umgebung ließ zu viel vom technischen Aufbau erkennen. Die neue Fassung setzt auf Sturm, Dunkelheit und bewegtes Wasser. Das macht die Konstruktion weniger sichtbar und steigert zugleich die Gefahr, die die Szene vermittelt.",
+      "anchor": "Sturm versteckt Technik und verstärkt Gefahr.",
+      "interest": "Ein offizieller Produktionsbeleg erklärt eine konkrete Inszenierungsentscheidung.",
+      "sources": [
+        "disney",
+        "produktion"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien Disneys @ mit Kirk Douglas und James Mason erstmals?",
+      "answers": [
+        "1954",
+        "1950",
+        "1958",
+        "1962"
+      ],
+      "feedback": [
+        "Disneys Verfilmung erschien 1954.",
+        "1950 liegt vier Jahre vor der Veröffentlichung.",
+        "1958 liegt vier Jahre nach der Veröffentlichung.",
+        "1962 liegt acht Jahre nach der Veröffentlichung."
+      ],
+      "short": "Disneys Verfilmung erschien 1954.",
+      "context": "1954 veröffentlicht Disney das Unterwasserabenteuer. Im folgenden Jahr eröffnet Disneyland in Kalifornien. Die zwei aufeinanderfolgenden Jahre markieren unterschiedliche Formen derselben Unterhaltungskultur: ein aufwendiger Kinofilm und der neue Themenpark. Die zeitliche Nähe ist eine Merkhilfe, keine behauptete Ursache des Films.",
+      "anchor": "1954 Nautilus – 1955 Disneyland.",
+      "interest": "Ein belegtes Ereignis der Studiogeschichte setzt einen zeitlichen Anker.",
+      "sources": [
+        "disney",
+        "geschichte"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei Disneys @ mit James Mason Regie?",
+      "answers": [
+        "Richard Fleischer",
+        "Henry Levin",
+        "Nathan Juran",
+        "Robert Stevenson"
+      ],
+      "feedback": [
+        "Die Regie stammt von Richard Fleischer.",
+        "Levin führte bei dieser Disney-Verfilmung nicht Regie.",
+        "Juran führte bei dieser Disney-Verfilmung nicht Regie.",
+        "Stevenson führte bei dieser Disney-Verfilmung nicht Regie."
+      ],
+      "short": "Die Regie stammt von Richard Fleischer.",
+      "context": "Richard Fleischer inszeniert die Begegnung zwischen Forschung, Freiheitswillen und Nemos Rache. Walt Disney verantwortet die Produktion, übernimmt damit aber nicht den Regiecredit. Die Namen markieren verschiedene Aufgaben bei einem Film, dessen Unterwasserwelt und Effektarbeit besondere Planung erforderten.",
+      "anchor": "Disney produziert – Fleischer inszeniert.",
+      "interest": "Der Credit trennt Produktion und Regie an einem bekannten Studioprojekt.",
+      "sources": [
+        "disney"
+      ]
+    }
+  ]
+}

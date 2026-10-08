@@ -1,3 +1,4 @@
+import { catalogCounts } from "./catalog-counts";
 import facts from "../src/filmFacts.json";
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
@@ -42,15 +43,17 @@ function play(state: ReturnType<typeof emptyState>, qs: Question[]) {
     complete(state, r.id, 3000);
   }
 }
-it("ordnet alle 1.171 Filme genau einmal redaktionell ein und erhält Hauptfragen und Varianten gemeinsam", () => {
+it("ordnet alle bekannten Filmfassungen genau einmal redaktionell ein und erhält Hauptfragen und Varianten gemeinsam", () => {
   expect(
     films.films
       .slice(0, 425)
       .map((f) => f.film)
       .sort(),
   ).toEqual(facts.map((f) => f.film).sort());
-  expect(films.films).toHaveLength(1171);
-  expect(new Set(films.films.map((f) => f.film)).size).toBe(1171);
+  expect(films.films).toHaveLength(catalogCounts.familiarityEntries);
+  expect(new Set(films.films.map((f) => f.film)).size).toBe(
+    catalogCounts.familiarityEntries,
+  );
   expect(films.films.every((f) => [1, 2, 3, 4].includes(f.level))).toBe(true);
   expect(questions.every((q) => familiarityOf(q))).toBe(true);
   for (const q of questions.filter((q) => q.metadata.variant_of))
@@ -171,7 +174,7 @@ it("prüft Erreichbarkeit aller festen Ziele im vollständigen Katalog und leere
     })),
   );
   const progress = learningPathProgress(s);
-  expect(s.questions).toHaveLength(10877);
+  expect(s.questions).toHaveLength(catalogCounts.questions);
   expect(
     s.questions
       .filter((q) => !q.metadata.person_id)

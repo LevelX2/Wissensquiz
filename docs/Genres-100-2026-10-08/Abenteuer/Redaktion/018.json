@@ -1,0 +1,208 @@
+{
+  "rank": 18,
+  "directors": [
+    "Renny Harlin"
+  ],
+  "production_countries": [
+    "USA",
+    "Frankreich"
+  ],
+  "release_note": "Erste US-Kinoauswertung 1995; spätere europäische Starts 1996.",
+  "familiarity_reason": "Das Piratenabenteuer mit Geena Davis ist vor allem Genrekennern bekannt.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Cutthroat_Island",
+    "archiv": "https://www.bfi.org.uk/film/4a6c8fce-4bb1-5045-8eb4-ebf73a2e0264/cutthroat-island",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/The_Crimson_Pirate",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was übernimmt Morgan Adams (Geena Davis) in @ nach dem Tod ihres Vaters?",
+      "answers": [
+        "Das Kommando über sein Piratenschiff",
+        "Das Kommando über die Flotte des Gouverneurs",
+        "Die Verwaltung des gemeinsamen Familienschatzes",
+        "Das Amt einer Hafenrichterin in Port Royal"
+      ],
+      "feedback": [
+        "Sie wird Kapitänin der Morning Star.",
+        "Sie übernimmt ein Piratenschiff, nicht die Flotte des Gouverneurs.",
+        "Der Schatz muss erst noch gefunden werden.",
+        "Ein Richteramt erbt Morgan nicht."
+      ],
+      "short": "Sie wird Kapitänin der Morning Star.",
+      "context": "Morgans Vater Black Harry (Harris Yulin) stirbt nach einem Angriff. Morgan (Geena Davis) führt danach seine Männer und das Schiff. Die Schatzsuche ist damit auch ein Kampf um anerkannte Führung: Sie muss sich gegen andere Piraten und später gegen Verrat aus der eigenen Mannschaft behaupten.",
+      "anchor": "Morgan erbt Verantwortung auf der Morning Star.",
+      "interest": "Der Anfang verbindet Familienverlust und Führungsaufgabe.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Warum nimmt Morgan (Geena Davis) in @ William Shaw (Matthew Modine) mit?",
+      "answers": [
+        "Er kann die lateinischen Hinweise der Karte übersetzen.",
+        "Er kann ihren verletzten Vater noch retten.",
+        "Er kennt als früherer Inselbewohner die Schatzhöhle.",
+        "Er kann das beschädigte Schiff ohne Werft reparieren."
+      ],
+      "feedback": [
+        "Sie benötigt seine Sprachkenntnisse.",
+        "Ihr Vater ist bereits tot; sie sucht einen Übersetzer.",
+        "Shaw kennt das Versteck noch nicht aus eigener Erfahrung.",
+        "Seine gefragte Fähigkeit ist Latein, nicht Schiffbau."
+      ],
+      "short": "Sie benötigt seine Sprachkenntnisse.",
+      "context": "Morgan (Geena Davis) versteht die Sprache ihrer Schatzkarte nicht. William Shaw (Matthew Modine) wird für seine Übersetzungskünste gebraucht. Die Zusammenarbeit entsteht deshalb aus einer konkreten Fähigkeit und wird später zu einer Beziehung, in der beide einander wiederholt retten.",
+      "anchor": "Die Schatzsuche braucht zuerst einen Übersetzer.",
+      "interest": "Eine Fähigkeit begründet den Eintritt der zweiten Hauptfigur.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie stehen Morgan (Geena Davis) und ihr Gegner Dawg (Frank Langella) in @ zueinander?",
+      "answers": [
+        "Er ist ihr Onkel.",
+        "Er ist ihr Bruder.",
+        "Er ist ihr Ehemann.",
+        "Er ist ihr Großvater."
+      ],
+      "feedback": [
+        "Dawg gehört als Onkel zur Familie ihres Vaters.",
+        "Er ist nicht ihr Bruder.",
+        "Eine Ehe verbindet sie nicht.",
+        "Er ist nicht ihr Großvater."
+      ],
+      "short": "Dawg gehört als Onkel zur Familie ihres Vaters.",
+      "context": "Dawg (Frank Langella) jagt nicht nur eine fremde Schatzsucherin. Die Kartenstücke sind auf Männer derselben Familie verteilt, und Morgan (Geena Davis) gerät gegen ihren eigenen Onkel in den Kampf. Die Schatzgier zerreißt somit bereits die Familie, bevor sie die Mannschaft spaltet.",
+      "anchor": "Der Schatzkampf beginnt innerhalb der Familie.",
+      "interest": "Die Beziehung erklärt den persönlichen Charakter des Gegners.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Lesart erschließt Morgan (Geena Davis) in @ einen Teil der Inselkoordinaten?",
+      "answers": [
+        "Sie liest die Kartenwörter rückwärts.",
+        "Sie setzt die Wörter in alphabetischer Reihenfolge zusammen.",
+        "Sie liest nur den Anfangsbuchstaben jedes lateinischen Wortes.",
+        "Sie ersetzt die Wörter durch die im Text genannten Himmelsrichtungen."
+      ],
+      "feedback": [
+        "Rückwärts gelesen ergeben die Wörter Koordinaten.",
+        "Die alphabetische Sortierung liefert nicht die gesuchten Koordinaten.",
+        "Ein Anfangsbuchstaben-Code ist nicht ihre Entdeckung.",
+        "Die entscheidende Lesart ist die umgekehrte Wortfolge."
+      ],
+      "short": "Rückwärts gelesen ergeben die Wörter Koordinaten.",
+      "context": "Die Sprache allein reicht für die Karte nicht aus. Morgan (Geena Davis) entdeckt eine zweite Ebene ihrer Hinweise: Die Wörter müssen in umgekehrter Richtung gelesen werden. Damit ergänzt ihre eigene Schlussfolgerung Williams (Matthew Modine) Übersetzungswissen.",
+      "anchor": "Übersetzen hilft – rückwärts lesen entschlüsselt.",
+      "interest": "Die Lösung trennt Sprachkenntnis von einer zusätzlichen Denkaufgabe.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie verrät John Reed (Maury Chaykin) in @ Morgans Position an Gouverneur Ainslee (Patrick Malahide)?",
+      "answers": [
+        "Mit einer Brieftaube",
+        "Mit vereinbarten Laternenzeichen",
+        "Mit einem versteckten Boten im nächsten Hafen",
+        "Mit einem zurückgelassenen Kartenstück am Strand"
+      ],
+      "feedback": [
+        "Reed schickt heimlich eine Brieftaube.",
+        "Reed nutzt kein sichtbares Laternenzeichen, sondern eine Brieftaube.",
+        "Die Nachricht verlässt das Schiff bereits während der Fahrt.",
+        "Ein Kartenstück wird nicht zur Positionsmeldung hinterlegt."
+      ],
+      "short": "Reed schickt heimlich eine Brieftaube.",
+      "context": "Reed (Maury Chaykin) fährt auf Morgans Schiff mit, arbeitet aber für Ainslee (Patrick Malahide). Während der Fahrt verschickt er die Position heimlich. Die Bedrohung von außen hängt somit mit einer Informationsquelle zusammen, die sich mitten in der eigenen Gruppe befindet.",
+      "anchor": "Reeds Taube verbindet Schiff und Verfolger.",
+      "interest": "Der Ablauf erklärt, wie der Gegner an verborgenes Wissen kommt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum kann Morgan (Geena Davis) in @ den Schatz nach dem Untergang dennoch bergen?",
+      "answers": [
+        "Sie hat ihn zuvor mit einem Markierungsfass verbunden.",
+        "Sie hat die genaue Stelle des Wracks auf ihrer Karte markiert.",
+        "Dawg hat das Gold vor dem Kampf heimlich an Land gebracht.",
+        "Die Kisten wurden beim Untergang von der Morning Star aufgenommen."
+      ],
+      "feedback": [
+        "Das Fass macht den gesunkenen Schatz wieder auffindbar.",
+        "Nicht eine Kartenmarkierung, sondern das mit dem Schatz verbundene Fass hilft beim Auffinden.",
+        "Der Schatz sinkt mit dem gegnerischen Schiff.",
+        "Die Schatzkisten sind zunächst nicht auf der Morning Star gesichert."
+      ],
+      "short": "Das Fass macht den gesunkenen Schatz wieder auffindbar.",
+      "context": "Morgan (Geena Davis) muss William (Matthew Modine) vom sinkenden Schiff retten und den Schatz zurücklassen. Ihre vorherige Markierung verhindert jedoch den endgültigen Verlust. Die letzte Lösung beruht somit auf Vorbereitung und einer Entscheidung für einen Menschen im Moment der Gefahr.",
+      "anchor": "Das Markierungsfass erlaubt Rettung vor Gold.",
+      "interest": "Die Vorbereitung löst den scheinbaren Gegensatz zwischen Menschenrettung und Schatzgewinn.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Geena Davis erstmals im Kino?",
+      "answers": [
+        "1995",
+        "1991",
+        "1999",
+        "2003"
+      ],
+      "feedback": [
+        "Das Piratenabenteuer erschien 1995.",
+        "1991 liegt vier Jahre davor.",
+        "1999 liegt vier Jahre danach.",
+        "2003 liegt acht Jahre danach."
+      ],
+      "short": "Das Piratenabenteuer erschien 1995.",
+      "context": "Der rote Korsar mit Burt Lancaster erschien 1952. Die Piratenbraut folgte 1995, 43 Jahre später, mit Geena Davis als Kapitänin Morgan. Die beiden Jahre verbinden unterschiedliche Generationen des großen Piratenabenteuers. Der spätere Film greift die Welt von Segelschiffen, Schatzsuche und wechselnden Bündnissen wieder auf und stellt dabei eine Frau an die Spitze der Mannschaft.",
+      "anchor": "1952 Lancasters Korsar – 1995 Davis’ Piratenbraut: 43 Jahre Abstand.",
+      "interest": "Die Hauptfigur verankert das Filmjahr ohne bloße Jahresliste.",
+      "sources": [
+        "handlung",
+        "archiv",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Geena Davis und Matthew Modine?",
+      "answers": [
+        "Renny Harlin",
+        "Gore Verbinski",
+        "Martin Campbell",
+        "Kevin Reynolds"
+      ],
+      "feedback": [
+        "Renny Harlin führte Regie.",
+        "Verbinski inszenierte dieses Piratenabenteuer nicht.",
+        "Campbell trägt diesen Credit nicht.",
+        "Reynolds inszenierte diesen Film nicht."
+      ],
+      "short": "Renny Harlin führte Regie.",
+      "context": "Renny Harlin inszeniert die Jagd von Morgan und William mit großen Land- und Seeschlachten. Der BFI-Credit ordnet ihm diese Produktion zu. Die Regiefrage gilt dem Film mit Geena Davis und Matthew Modine, unabhängig von späteren Wiederbelebungen des Piratenkinos.",
+      "anchor": "Harlin inszeniert Morgans Schatzjagd.",
+      "interest": "Der Credit bleibt an das konkrete Piratenpaar gebunden.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

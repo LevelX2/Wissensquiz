@@ -1,3 +1,4 @@
+import { catalogCounts } from "./catalog-counts";
 import { beforeAll, afterAll, expect, it } from "vitest";
 import { PGlite } from "@electric-sql/pglite";
 import { readFileSync } from "node:fs";
@@ -69,7 +70,9 @@ it("erzeugt serverseitig für alle Jahresfragen gültige, clientlesbare Snapshot
     "select jsonb_agg(public.quiz_year_question(q)) as variants from jsonb_array_elements($1) q",
     [years],
   );
-  expect(result.rows[0].variants).toHaveLength(1070);
+  expect(result.rows[0].variants).toHaveLength(
+    catalogCounts.numericYearQuestions,
+  );
   for (const [i, q] of result.rows[0].variants.entries()) {
     expect(questionSnapshotMatches(years[i], q)).toBe(true);
     if (!q.metadata.fact_kind)

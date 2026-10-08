@@ -1,0 +1,201 @@
+{
+  "rank": 17,
+  "directors": [
+    "Martin Campbell"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Kinostart 2005; direkte Fortsetzung des Films von 1998.",
+  "familiarity_reason": "Die Fortsetzung mit Banderas und Zeta-Jones ist populär, aber weniger prägend als der erste gemeinsame Film.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Legend_of_Zorro",
+    "studio": "https://amblin.com/movie/the-legend-of-zorro/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches familiäre Geheimnis belastet Alejandro (Antonio Banderas) in @?",
+      "answers": [
+        "Sein Sohn weiß nicht, dass er Zorro ist.",
+        "Sein Sohn hält Elena für eine Gefangene des Gouverneurs.",
+        "Sein Sohn glaubt, Armand sei sein leiblicher Vater.",
+        "Seine Frau glaubt, Alejandro kämpfe inzwischen auf Armands Seite."
+      ],
+      "feedback": [
+        "Die geheime Heldenrolle wird vor Joaquín verborgen.",
+        "Joaquín kennt zunächst vor allem die geheime Rolle seines Vaters nicht.",
+        "Eine Täuschung über Armands Vaterschaft bildet nicht den Familienkonflikt.",
+        "Elena kennt Alejandros Heldenrolle und spioniert selbst gegen Armand."
+      ],
+      "short": "Die geheime Heldenrolle wird vor Joaquín verborgen.",
+      "context": "Alejandro (Antonio Banderas) kämpft weiter als Zorro, obwohl seine Familie die Folgen trägt. Joaquín (Adrián Alonso) weiß zunächst nichts von der zweiten Identität seines Vaters. Die Gefahr für die Familie entsteht daher nicht nur durch Gegner, sondern auch durch das Verbergen einer zentralen Wahrheit.",
+      "anchor": "Zorros Sohn kennt Zorro im Vater nicht.",
+      "interest": "Die Familienbeziehung erklärt den besonderen Konflikt der Fortsetzung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche politische Entscheidung steht in @ für Kalifornien bevor?",
+      "answers": [
+        "Der Beitritt zu den Vereinigten Staaten",
+        "Die Rückkehr unter französische Herrschaft",
+        "Die Krönung eines eigenen Kaisers",
+        "Der Zusammenschluss mit Kanada"
+      ],
+      "feedback": [
+        "Der Film spielt vor Kaliforniens Aufnahme als US-Bundesstaat.",
+        "Eine französische Rückkehr steht nicht zur Abstimmung.",
+        "Ein Kaiser soll nicht gekrönt werden.",
+        "Ein kanadischer Zusammenschluss ist nicht das Vorhaben."
+      ],
+      "short": "Der Film spielt vor Kaliforniens Aufnahme als US-Bundesstaat.",
+      "context": "Zorro (Antonio Banderas) schützt bereits am Anfang die Stimmzettel einer Abstimmung. Die Handlung setzt das Familienabenteuer in die Zeit vor Kaliforniens US-Beitritt. Diese Übergangslage erklärt zugleich, warum fremde Interessen versuchen, den politischen Wechsel gewaltsam zu beeinflussen.",
+      "anchor": "Kaliforniens Beitritt steht auf dem Spiel.",
+      "interest": "Der historische Handlungsrahmen wird mit der Auftaktszene verbunden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum trennt sich Elena (Catherine Zeta-Jones) in @ tatsächlich von Alejandro (Antonio Banderas)?",
+      "answers": [
+        "Pinkerton-Agenten erpressen sie für einen Spionageauftrag.",
+        "Sie will Alejandro durch eine vorgetäuschte neue Liebe zur Aufgabe Zorros bewegen.",
+        "Armand droht ihr selbst mit der Entführung ihres Sohnes.",
+        "Sie hat Beweise entdeckt, dass Alejandro den Wahlzetteldiebstahl unterstützt."
+      ],
+      "feedback": [
+        "Die Agenten zwingen sie zur verdeckten Ermittlung.",
+        "Ihre Annäherung an Armand dient dem von Agenten erzwungenen Auftrag.",
+        "Zu Beginn zwingen Pinkerton-Agenten sie in die Trennung, nicht eine solche Drohung Armands.",
+        "Alejandro hat den Wahlzetteldiebstahl verhindert."
+      ],
+      "short": "Die Agenten zwingen sie zur verdeckten Ermittlung.",
+      "context": "Die Trennung erscheint Alejandro (Antonio Banderas) zunächst als persönlicher Bruch. Elena (Catherine Zeta-Jones) wird jedoch mit dem Wissen um seine Identität erpresst. Sie soll Armand (Rufus Sewell) ausforschen; ihr Verhalten hat einen verborgenen Auftrag, den ihr Mann noch nicht kennt.",
+      "anchor": "Elenas Trennung verbirgt einen erzwungenen Auftrag.",
+      "interest": "Der scheinbare Beziehungsbruch wird durch neue Informationen umgedeutet.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Tarnung nutzt Armand (Rufus Sewell) in @ für gefährliches Material?",
+      "answers": [
+        "Seifenstücke verbergen den Rohstoff für Sprengstoff.",
+        "Weinfässer tarnen gestohlene Gewehre.",
+        "Kisten mit Trauben verbergen Munition.",
+        "Olivenölfässer verbergen Pläne amerikanischer Festungen."
+      ],
+      "feedback": [
+        "Die Seifenladung enthält Glycerin für Sprengstoff.",
+        "Das Weingut dient als Deckung, doch die gefragte Fracht ist Seife.",
+        "Traubenkisten sind nicht die Tarnung dieser Ladung.",
+        "Ölfässer und Festungspläne beschreiben den Fund nicht."
+      ],
+      "short": "Die Seifenladung enthält Glycerin für Sprengstoff.",
+      "context": "Alejandro (Antonio Banderas) entdeckt zunächst eine scheinbar harmlose Seifenladung. Die Verbindung zu Armands (Rufus Sewell) Organisation verändert ihre Bedeutung: Glycerin kann zur Herstellung des im Film eingesetzten Nitroglycerins dienen. Das Alltagsprodukt verschleiert damit eine militärisch gedachte Lieferung.",
+      "anchor": "Harmlose Seife verbirgt die Sprengstofflieferung.",
+      "interest": "Die Entdeckung macht einen getarnten Gegenstand verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum gelingt es Padre Felipe (Julio Oscar Mechoso) in @, Alejandro später trotz des Schusses zu helfen?",
+      "answers": [
+        "Sein getragenes Kreuz hat die Kugel aufgehalten.",
+        "Alejandro hat die Waffe vor dem Angriff heimlich entladen.",
+        "Er trägt unter dem Gewand eine stählerne Schutzplatte.",
+        "McGivens trifft ihn nur am Oberarm."
+      ],
+      "feedback": [
+        "Das Kreuz schützt ihn vor der tödlichen Wirkung.",
+        "Die Kugel wird von seinem Kreuz gestoppt, die Waffe ist nicht zuvor entladen worden.",
+        "Es ist sein getragenes Kreuz und keine verborgene Panzerplatte.",
+        "Der scheinbar tödliche Schuss wird durch das Kreuz abgefangen."
+      ],
+      "short": "Das Kreuz schützt ihn vor der tödlichen Wirkung.",
+      "context": "McGivens (Nick Chinlund) schießt auf Padre Felipe (Julio Oscar Mechoso). Der Priester überlebt, weil sein Kreuz die Kugel aufhält. Sein späteres Eingreifen löst deshalb eine zuvor scheinbar abgeschlossene Bedrohung auf und ermöglicht Alejandro (Antonio Banderas) die Flucht.",
+      "anchor": "Felipes Kreuz ermöglicht seine Rückkehr als Helfer.",
+      "interest": "Die Rückkehr wird durch einen vorher getragenen Gegenstand erklärt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie schützt Joaquín (Adrián Alonso) in @ die Beitrittszeremonie vor dem Sprengstoffzug?",
+      "answers": [
+        "Er verändert mit Tornados Hilfe die Fahrtrichtung des Zuges.",
+        "Er trennt den Sprengstoffwagen während der Fahrt ab.",
+        "Er löst die Kupplung zwischen Lokomotive und den übrigen Wagen.",
+        "Er bringt die Lokomotive mit Wasser im Feuerkessel zum Stillstand."
+      ],
+      "feedback": [
+        "Er lenkt den Zug von der Zeremonie weg.",
+        "Er verändert den Kurs des Zuges statt den Sprengstoffwagen abzukoppeln.",
+        "Eine gelöste Lokomotivkupplung ist nicht seine Rettungsaktion.",
+        "Den Zug hält er nicht durch Löschen des Kesselfeuers auf."
+      ],
+      "short": "Er lenkt den Zug von der Zeremonie weg.",
+      "context": "Der Zug steuert mit seiner gefährlichen Ladung auf die politische Feier zu. Joaquín (Adrián Alonso) übernimmt selbst eine aktive Rolle und nutzt Tornado. Das Familiengeheimnis führt so nicht bloß zu einer Enthüllung: Der Sohn trägt konkret zum Gelingen der Rettung bei.",
+      "anchor": "Zorros Sohn lenkt die Gefahr von der Feier weg.",
+      "interest": "Der Junge wird als handelnder Teil der Rettung verstanden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ als Fortsetzung mit Antonio Banderas und Catherine Zeta-Jones?",
+      "answers": [
+        "2005",
+        "2001",
+        "2009",
+        "2013"
+      ],
+      "feedback": [
+        "Die Fortsetzung erschien 2005.",
+        "2001 liegt vier Jahre davor.",
+        "2009 liegt vier Jahre danach.",
+        "2013 liegt acht Jahre danach."
+      ],
+      "short": "Die Fortsetzung erschien 2005.",
+      "context": "2005 kehren Banderas und Zeta-Jones nach ihrem gemeinsamen Zorro-Film von 1998 zurück. Das Familienabenteuer liegt damit sieben Jahre nach dem ersten Teil. Amblin beschreibt ausdrücklich diese Fortsetzung und identifiziert den erneuten Einsatz derselben beiden Hauptdarsteller.",
+      "anchor": "1998 die Maske – 2005 die Legende.",
+      "interest": "Die belegte Fortsetzungsfolge verankert das Jahr.",
+      "sources": [
+        "studio"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Antonio Banderas und Catherine Zeta-Jones?",
+      "answers": [
+        "Martin Campbell",
+        "Duccio Tessari",
+        "Robert Rodriguez",
+        "Gore Verbinski"
+      ],
+      "feedback": [
+        "Martin Campbell kehrte auch als Regisseur zurück.",
+        "Tessari führte bei der Delon-Fassung Regie.",
+        "Rodriguez inszenierte diese Fortsetzung nicht.",
+        "Verbinski trägt diesen Credit nicht."
+      ],
+      "short": "Martin Campbell kehrte auch als Regisseur zurück.",
+      "context": "Martin Campbell führt das gemeinsame Abenteuer von Banderas und Zeta-Jones weiter. Amblin nennt die erneute Zusammenarbeit ausdrücklich. Neben der Besetzung bleibt damit auch die Regie ein verbindendes Element der beiden Filme, während sich der Schwerpunkt zur Familie verschiebt.",
+      "anchor": "Campbell führt das Zorro-Paar weiter.",
+      "interest": "Die Regiefrage erschließt die Kontinuität der Fortsetzung.",
+      "sources": [
+        "studio"
+      ]
+    }
+  ]
+}

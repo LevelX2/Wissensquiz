@@ -1,0 +1,202 @@
+{
+  "rank": 4,
+  "directors": [
+    "Michael Anderson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Premiere am 17. Oktober 1956.",
+  "director_note": "Offizieller Regiecredit: Michael Anderson. AFI dokumentiert zuvor John Farrow sowie die Mitwirkung von Produzent Mike Todd an einzelnen Sequenzen; sie werden nicht als falsche Alternativen verwendet.",
+  "familiarity_reason": "Die Verne-Verfilmung mit David Niven und Cantinflas ist ein bekannter Klassiker des Reiseabenteuers.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Around_the_World_in_80_Days_(1956_film)",
+    "archiv": "https://catalog.afi.com/Film/51739-AROUND-THEWORLDINEIGHTYDAYS"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum bricht Phileas Fogg (David Niven) in @ zu seiner Weltreise auf?",
+      "answers": [
+        "Um eine Wette mit Mitgliedern seines Clubs zu gewinnen",
+        "Um vor einem bestätigten Haftbefehl zu fliehen",
+        "Um eine entführte Verwandte zu suchen",
+        "Um einen verborgenen Kontinent zu kartieren"
+      ],
+      "feedback": [
+        "Fogg setzt sein Vermögen auf die Reisewette.",
+        "Die Reise beginnt nicht als Flucht vor einem bestätigten Haftbefehl.",
+        "Eine entführte Verwandte ist nicht sein Ausgangsmotiv.",
+        "Ein unbekannter Kontinent ist nicht das Ziel."
+      ],
+      "short": "Fogg setzt sein Vermögen auf die Reisewette.",
+      "context": "Phileas Fogg (David Niven) behandelt die Reise zunächst als beweisbare Leistung. Die Wette im Reform Club setzt einen genauen Rahmen, während die Begegnungen unterwegs immer neue Hindernisse und Bindungen schaffen. Aus einer Zeitrechnung wird damit ein persönliches Abenteuer.",
+      "anchor": "Fogg reist wegen einer Clubwette.",
+      "interest": "Das Ausgangsmotiv erklärt, warum Zeitdruck alle Etappen verbindet.",
+      "sources": [
+        "archiv"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Aufgabe hat Passepartout (Cantinflas) auf der Reise in @?",
+      "answers": [
+        "Er begleitet Fogg als dessen Diener.",
+        "Er begleitet ihn als sein Privatsekretär.",
+        "Er arbeitet für ihn als bezahlter Reiseführer.",
+        "Er kontrolliert die Reise im Auftrag des Clubs."
+      ],
+      "feedback": [
+        "Passepartout ist Foggs Diener und Reisebegleiter.",
+        "Passepartout ist Foggs Diener, kein Privatsekretär.",
+        "Er ist ein neu eingestellter Diener statt eines örtlichen Reiseführers.",
+        "Er ist nicht der Kontrolleur der Wettpartner."
+      ],
+      "short": "Passepartout ist Foggs Diener und Reisebegleiter.",
+      "context": "Passepartout (Cantinflas) reagiert beweglicher auf die verschiedenen Stationen als Phileas Fogg (David Niven). Ihr Verhältnis verbindet die formale Planung des Herrn mit der praktischen Hilfe des Dieners. Gerade die unterschiedlichen Temperamente geben der Reise ihren komischen Ton.",
+      "anchor": "Fogg plant – Passepartout begleitet und improvisiert.",
+      "interest": "Die Funktion der Figur erschließt das Zusammenspiel des Reise-Duos.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Weshalb verfolgt Inspektor Fix (Robert Newton) Phileas Fogg (David Niven) in @?",
+      "answers": [
+        "Er hält ihn für einen Bankräuber.",
+        "Er verdächtigt ihn der Entführung Aoudas.",
+        "Er sucht einen desertierten Schiffskapitän.",
+        "Er muss einen verschollenen Prinzen zurückholen."
+      ],
+      "feedback": [
+        "Fix verdächtigt Fogg eines Bankraubs in London.",
+        "Aoudas Rettung ist nicht der Grund der Verfolgung.",
+        "Fogg ist kein desertierter Kapitän.",
+        "Eine Prinzensuche gehört nicht zu Fix’ Auftrag."
+      ],
+      "short": "Fix verdächtigt Fogg eines Bankraubs in London.",
+      "context": "Inspektor Fix (Robert Newton) liest Phileas Foggs (David Niven) schnelle Abreise und großzügige Ausgaben als Hinweise auf einen Bankraub. Die Zuschauer erleben eine Reise, die für den Polizisten gleichzeitig wie eine Flucht aussieht. Derselbe Vorgang erhält dadurch zwei verschiedene Erklärungen.",
+      "anchor": "Foggs Reisekasse wirkt auf Fix wie Bankbeute.",
+      "interest": "Die Verfolgung beruht auf einer falschen Deutung erkennbarer Umstände.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie löst Fogg (David Niven) in @ auf der letzten Seestrecke das Brennstoffproblem?",
+      "answers": [
+        "Er kauft das Schiff und lässt brennbare Teile verheizen.",
+        "Er bezahlt ein schnelleres Begleitschiff für die letzte Strecke.",
+        "Er lässt die Besatzung auf Segelantrieb umstellen.",
+        "Er lässt das Schiff zur nächsten Kohlenstation umkehren."
+      ],
+      "feedback": [
+        "Fogg nutzt nach dem Kauf brennbare Teile des Schiffs.",
+        "Er übernimmt und zerlegt das bisherige Schiff als Brennstoffquelle.",
+        "Der Kohlemangel wird nicht einfach durch Segel ausgeglichen.",
+        "Eine Rückfahrt zur Kohlenstation wählt er nicht."
+      ],
+      "short": "Fogg nutzt nach dem Kauf brennbare Teile des Schiffs.",
+      "context": "Phileas Fogg (David Niven) setzt seinen Besitz zunehmend für die Wette ein. Die letzte Überfahrt verlangt eine besonders radikale Entscheidung: Teile des Verkehrsmittels werden selbst zum Brennstoff. Der genaue Plan muss erneut einer improvisierten Lösung weichen.",
+      "anchor": "Schiff gekauft – Schiffsteile verheizt.",
+      "interest": "Ein materielles Problem erzwingt eine anschauliche improvisierte Entscheidung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche Erkenntnis gibt Fogg (David Niven) in @ am Ende doch noch eine Chance auf den Wettgewinn?",
+      "answers": [
+        "Die Ostwärtsreise hat seinen Kalender um einen Tag verschoben.",
+        "Der Club rechnet eine Unterbrechung durch Fix nicht auf die Reisezeit an.",
+        "Die Abfahrtszeit im Vertrag ist versehentlich falsch notiert.",
+        "Passepartout entdeckt eine falsch gehende Uhr Foggs."
+      ],
+      "feedback": [
+        "Durch die Weltreise nach Osten hat Fogg einen Tag gewonnen.",
+        "Eine nachträgliche Ausnahme für Fix rettet die Wette nicht.",
+        "Die Vertragszeit ist nicht der ausschlaggebende Fehler.",
+        "Der Irrtum betrifft die Kalenderrechnung durch die Ostwärtsreise."
+      ],
+      "short": "Durch die Weltreise nach Osten hat Fogg einen Tag gewonnen.",
+      "context": "Passepartout (Cantinflas) entdeckt bei den Vorbereitungen einer Hochzeit den Irrtum im Wochentag. Phileas Fogg (David Niven) hat die Datumsänderung auf seiner Ostwärtsreise nicht richtig berücksichtigt. Die Lösung liegt deshalb in der Reise selbst und nicht in einem nachträglichen Entgegenkommen der Wettpartner.",
+      "anchor": "Einmal ostwärts herum – ein Kalendertag gewonnen.",
+      "interest": "Der Schluss führt ein geografisches Prinzip als Handlungsauflösung ein.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche berühmte Reiseepisode aus @ wurde laut AFI für den Film ergänzt und steht nicht in Vernes Roman?",
+      "answers": [
+        "Die Fahrt im Ballon",
+        "Die Rettung Aoudas in Indien",
+        "Die Verfolgung durch Inspektor Fix",
+        "Die Weltreisewette im Reform Club"
+      ],
+      "feedback": [
+        "AFI bezeichnet die Ballonfahrt als Erfindung für die Verfilmung.",
+        "Aoudas Rettung gehört schon zum Romanstoff.",
+        "Fix’ Verfolgung ist kein ausschließlich filmischer Zusatz.",
+        "Die Clubwette stammt aus der Vorlage."
+      ],
+      "short": "AFI bezeichnet die Ballonfahrt als Erfindung für die Verfilmung.",
+      "context": "Das Bild des Ballons ist besonders eng mit diesem Reiseabenteuer verbunden. Die filmische Ergänzung nutzt den freien Himmel als Schauplatz eines großen Bildspektakels. Sie zeigt, dass ein vertrautes Motiv einer Verfilmung nicht automatisch ein Motiv ihrer literarischen Vorlage sein muss.",
+      "anchor": "Der ikonische Ballon kommt aus der Verfilmung.",
+      "interest": "Eine belegte Adaptionsentscheidung korrigiert eine verbreitete Verwechslung.",
+      "sources": [
+        "archiv"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit David Niven als Phileas Fogg erstmals?",
+      "answers": [
+        "1956",
+        "1952",
+        "1960",
+        "1964"
+      ],
+      "feedback": [
+        "Die Premiere war 1956.",
+        "1952 liegt vier Jahre vor der Premiere.",
+        "1960 liegt vier Jahre nach der Premiere.",
+        "1964 liegt acht Jahre nach der Premiere."
+      ],
+      "short": "Die Premiere war 1956.",
+      "context": "1956 bringt Mike Todd die Reise im Großbildverfahren Todd-AO ins Kino. Dieses Verfahren war im Jahr zuvor mit „Oklahoma!“ eingesetzt worden. Der Abstand von einem Jahr verbindet das Reiseabenteuer mit der damaligen Suche nach besonders eindrucksvollen Kinoformaten.",
+      "anchor": "1955 Oklahoma! – 1956 Foggs Großbildreise.",
+      "interest": "Der belegte technische Zusammenhang liefert einen Jahresanker.",
+      "sources": [
+        "archiv"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer trägt den offiziellen Regiecredit der Fassung von @ mit David Niven?",
+      "answers": [
+        "Michael Anderson",
+        "Henry Hathaway",
+        "Richard Thorpe",
+        "Anthony Mann"
+      ],
+      "feedback": [
+        "Der offizielle Regiecredit lautet Michael Anderson.",
+        "Hathaway trägt diesen Credit nicht.",
+        "Thorpe trägt diesen Credit nicht.",
+        "Mann trägt diesen Credit nicht."
+      ],
+      "short": "Der offizielle Regiecredit lautet Michael Anderson.",
+      "context": "Michael Anderson übernahm die Regie während einer aufwendigen internationalen Produktion. AFI dokumentiert einen vorausgehenden Regiewechsel und eigene Sequenzarbeit des Produzenten Mike Todd. Diese zusätzliche Mitwirkung wird erläutert; die Frage zielt ausdrücklich auf den offiziellen Credit Andersons.",
+      "anchor": "Offiziell Anderson – Produktion mit mehreren Mitwirkungen.",
+      "interest": "Der Credit wird vom komplizierteren Produktionsablauf unterschieden.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

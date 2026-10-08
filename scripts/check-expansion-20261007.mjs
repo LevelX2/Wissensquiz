@@ -38,15 +38,17 @@ try {
   const { validateBackup } = await server.ssrLoadModule(
     "/src/backupValidation.ts",
   );
-  const contents = packages.map((p) => ({
-    filename: p.filename,
-    text: fs.readFileSync("public" + p.path, "utf8"),
-  }));
+  const contents = packages
+    .filter((p) => !p.filename.startsWith("Genre100_"))
+    .map((p) => ({
+      filename: p.filename,
+      text: fs.readFileSync("public" + p.path, "utf8"),
+    }));
   const incoming = contents.filter((p) =>
     p.filename.endsWith("fragen_20261007.csv"),
   );
   assert.equal(incoming.length, 3);
-  assert.equal(packages.length, 24);
+  assert.equal(contents.length, 24);
   const state = emptyState();
   addPackages(
     state,

@@ -1,0 +1,208 @@
+{
+  "rank": 13,
+  "directors": [
+    "Roger Donaldson"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA"
+  ],
+  "country_note": "Länder nach BFI; einzelne Nachschlagewerke führen nur Großbritannien.",
+  "release_note": "Die Donaldson-Fassung erschien 1984; ältere Meuterei-Verfilmungen haben eigene Filmidentitäten.",
+  "familiarity_reason": "Die Hopkins-Gibson-Fassung ist ein bekannter, heute eher von Genrekennern erinnerter Meutereifilm.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Bounty_(1984_film)",
+    "archiv": "https://www.bfi.org.uk/film/d3563c8d-94ca-5637-959d-1248d9412e84/the-bounty",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1962_film)",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Ladung soll die Bounty in @ von Tahiti in die Karibik bringen?",
+      "answers": [
+        "Brotfruchtpflanzen",
+        "Tabakpflanzen",
+        "Kaffeepflanzen",
+        "Teepflanzen"
+      ],
+      "feedback": [
+        "Die Expedition dient dem Transport von Brotfruchtpflanzen.",
+        "Tabak ist nicht die vorgesehene Nutzpflanze.",
+        "Kaffee ist nicht die gesuchte Ladung.",
+        "Tee bildet nicht den Transportauftrag."
+      ],
+      "short": "Die Expedition dient dem Transport von Brotfruchtpflanzen.",
+      "context": "Bligh (Anthony Hopkins) führt eine wirtschaftlich gedachte Expedition nach Tahiti. Die Pflanzen sollen in der Karibik nutzbar werden. Der ursprüngliche Auftrag ist deshalb von jener Meuterei zu unterscheiden, die später das Schiff und die Beziehungen seiner Männer beherrscht.",
+      "anchor": "Brotfrucht ist der Auftrag, Meuterei der Bruch.",
+      "interest": "Der Reiseanlass wird unabhängig vom späteren Konflikt geklärt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wo finden die Meuterer um Christian (Mel Gibson) in @ schließlich ihren Rückzugsort?",
+      "answers": [
+        "Auf Pitcairn",
+        "Auf Tahiti",
+        "Auf Tofua",
+        "Auf Madeira"
+      ],
+      "feedback": [
+        "Sie wählen Pitcairn als verborgenes Ziel.",
+        "Tahiti verlassen sie, weil sie dort nicht sicher bleiben können.",
+        "Tofua gehört zu Blighs Notfahrt.",
+        "Madeira ist nicht ihr endgültiger Rückzugsort."
+      ],
+      "short": "Sie wählen Pitcairn als verborgenes Ziel.",
+      "context": "Christian (Mel Gibson) sucht nach der Rückkehr nach Tahiti einen Ort außerhalb des Zugriffs der Marine. Pitcairn bietet diese Hoffnung. Der Rückzug ist zugleich eine Entscheidung, die Verbindung zum früheren Leben zu kappen, statt einfach einen neuen Hafen anzulaufen.",
+      "anchor": "Pitcairn steht für einen endgültigen Rückzug.",
+      "interest": "Der Zielort wird durch den Fluchtgrund verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie gliedert @ die Geschichte um Bligh (Anthony Hopkins)?",
+      "answers": [
+        "Eine Untersuchung nach der Meuterei rahmt Rückblenden.",
+        "Christians Bericht wird als ausschließlich lineare Erinnerung erzählt.",
+        "Ein Erzähler verfolgt nur die letzten Tage auf Pitcairn.",
+        "Die Reise wird aus einem nachfolgenden Rettungseinsatz rekonstruiert."
+      ],
+      "feedback": [
+        "Die Untersuchung führt zurück zu den Ereignissen auf See.",
+        "Die Untersuchung Blighs rahmt die Rückblenden.",
+        "Der Film zeigt weit mehr als nur Pitcairn.",
+        "Ein Rettungseinsatz bildet nicht die erzählerische Rahmung."
+      ],
+      "short": "Die Untersuchung führt zurück zu den Ereignissen auf See.",
+      "context": "Bligh (Anthony Hopkins) muss den Verlust der Bounty erklären. Die Rückblenden erschließen zunächst die Reise und dann den wachsenden Konflikt. Das Publikum sieht den Kommandanten damit zugleich in den Ereignissen und in einer Situation, in der sein Verhalten beurteilt wird.",
+      "anchor": "Die Untersuchung öffnet die Rückblenden.",
+      "interest": "Der Rahmen beeinflusst die Beurteilung des Kapitäns.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was geschieht mit Bligh (Anthony Hopkins) unmittelbar nach Christians (Mel Gibson) Machtübernahme in @?",
+      "answers": [
+        "Er wird mit loyalen Männern in einem offenen Boot ausgesetzt.",
+        "Er bleibt als Gefangener in seiner eigenen Kajüte.",
+        "Er wird allein an der nächsten Insel ausgesetzt.",
+        "Er darf mit den loyalen Männern auf der Bounty nach England fahren."
+      ],
+      "feedback": [
+        "Die Meuterer setzen ihn in einer Barkasse aus.",
+        "Bligh verliert das Schiff und kommt in das offene Boot.",
+        "Er wird nicht allein auf einer Insel zurückgelassen.",
+        "Die Meuterer behalten die Bounty."
+      ],
+      "short": "Die Meuterer setzen ihn in einer Barkasse aus.",
+      "context": "Christian (Mel Gibson) nimmt das Schiff in seine Gewalt. Bligh (Anthony Hopkins) und die loyalen Männer werden mit knappen Vorräten ausgesetzt. Der Film trennt danach zwei Reisen: die Suche der Meuterer nach einem Versteck und Blighs Kampf, seine Gruppe lebend in Sicherheit zu bringen.",
+      "anchor": "Die Meuterei teilt eine Reise in zwei.",
+      "interest": "Die Folge erklärt den parallelen weiteren Handlungsverlauf.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum wird Blighs (Anthony Hopkins) Führung in @ nach der Meuterei anders beurteilbar als zuvor?",
+      "answers": [
+        "Seine Navigation und Selbstdisziplin helfen den Ausgesetzten zu überleben.",
+        "Er beendet die Notfahrt durch einen Handel mit Christian.",
+        "Seine Männer nehmen ein französisches Kriegsschiff ein.",
+        "Er kehrt mit der unbeschädigten Bounty nach England zurück."
+      ],
+      "feedback": [
+        "In der Notfahrt zeigt Bligh Fähigkeiten, die Leben erhalten.",
+        "Ein Handel mit Christian beendet die Fahrt nicht.",
+        "Sie erobern kein französisches Kriegsschiff.",
+        "Bligh kehrt nicht auf der Bounty zurück."
+      ],
+      "short": "In der Notfahrt zeigt Bligh Fähigkeiten, die Leben erhalten.",
+      "context": "Der strenge Bligh (Anthony Hopkins) muss in der Barkasse seine Kräfte und die knappen Mittel anders einsetzen. Navigation und Führung bringen die Überlebenden in Sicherheit. Die Filmfassung lässt ihn dadurch nicht auf das Bild eines bloß grausamen Gegners Christians (Mel Gibson) reduzieren.",
+      "anchor": "Blighs Disziplin kann auch Leben retten.",
+      "interest": "Die zweite Reise erweitert die Beurteilung derselben Figur.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum verbrennen Christian (Mel Gibson) und seine Männer in @ die Bounty?",
+      "answers": [
+        "Um ihren Rückzugsort vor der Marine zu verbergen",
+        "Um ein Notsignal an einen britischen Suchtrupp zu senden",
+        "Um einen Brand nach dem Ausladen der Vorräte zu bekämpfen",
+        "Um mit dem Feuer die Einwohner zum Verlassen der Insel zu bewegen"
+      ],
+      "feedback": [
+        "Das zerstörte Schiff soll ihre Spuren verdecken.",
+        "Der Brand soll gerade eine spätere Entdeckung erschweren.",
+        "Das Schiff wird absichtlich zerstört, nicht vor einem Unfall gerettet.",
+        "Der Zweck ist die Tarnung des eigenen Aufenthaltsorts."
+      ],
+      "short": "Das zerstörte Schiff soll ihre Spuren verdecken.",
+      "context": "Die Bounty brachte die Meuterer nach Pitcairn. Dort wird sie zum Risiko: Ein sichtbares Schiff könnte ihren Aufenthaltsort verraten. Das Verbrennen schützt die neue Zuflucht und macht zugleich anschaulich, wie endgültig Christian (Mel Gibson) den bisherigen Weg hinter sich lässt.",
+      "anchor": "Die Bounty brennt, damit ihre Spur endet.",
+      "interest": "Die Tat verbindet Verstecken mit endgültigem Abschied.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Anthony Hopkins und Mel Gibson?",
+      "answers": [
+        "1984",
+        "1980",
+        "1988",
+        "1992"
+      ],
+      "feedback": [
+        "Die Fassung erschien 1984.",
+        "1980 liegt vier Jahre davor.",
+        "1988 liegt vier Jahre danach.",
+        "1992 liegt acht Jahre danach."
+      ],
+      "short": "Die Fassung erschien 1984.",
+      "context": "Die bekannte Meuterei-Verfilmung mit Marlon Brando und Trevor Howard erschien 1962. Die Bounty mit Mel Gibson und Anthony Hopkins folgte 1984, 22 Jahre später. Derselbe historische Konflikt erhält damit eine weitere Besetzung und eine neue filmische Gewichtung. Der Zeitanker hilft, die Fassungen zu unterscheiden, ohne das Datum der tatsächlichen Meuterei mit einem dieser Filmjahre zu verwechseln.",
+      "anchor": "1962 Brando und Howard – 1984 Gibson und Hopkins: 22 Jahre Abstand.",
+      "interest": "Die Besetzung schützt vor Fassungsverwechslung.",
+      "sources": [
+        "archiv",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Anthony Hopkins als Bligh Regie?",
+      "answers": [
+        "Roger Donaldson",
+        "David Lean",
+        "Peter Weir",
+        "John Huston"
+      ],
+      "feedback": [
+        "Der ausgeführte Film trägt Roger Donaldsons Regiecredit.",
+        "Lean trägt nicht den Credit dieser fertigen Fassung.",
+        "Weir inszenierte diesen Film nicht.",
+        "Huston inszenierte diesen Film nicht."
+      ],
+      "short": "Der ausgeführte Film trägt Roger Donaldsons Regiecredit.",
+      "context": "Roger Donaldson inszeniert den Konflikt mit Anthony Hopkins und Mel Gibson. Der offizielle BFI-Credit bezeichnet den tatsächlich realisierten Film. Die klare Zuordnung ist bei einem historischen Stoff mit mehreren Verfilmungen und einer langen Entwicklungsgeschichte besonders wichtig.",
+      "anchor": "Donaldson inszeniert Hopkins’ Bounty-Fassung.",
+      "interest": "Der Credit wird der realisierten Fassung zugeordnet.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

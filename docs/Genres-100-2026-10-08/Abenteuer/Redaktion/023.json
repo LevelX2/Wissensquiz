@@ -1,0 +1,206 @@
+{
+  "rank": 23,
+  "directors": [
+    "Robert Aldrich"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Veröffentlichung am 15. Dezember 1965; die Fassung mit James Stewart.",
+  "familiarity_reason": "Aldrichs Überlebensfilm ist ein bekannter Klassiker des Wüstenabenteuers.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Flight_of_the_Phoenix_(1965_film)",
+    "archiv": "https://catalog.afi.com/Film/22887-THE-FLIGHT-OF-THE-PHOENIX",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/Flight_of_the_Phoenix_(2004_film)",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo stranden die Überlebenden in @ nach der Notlandung?",
+      "answers": [
+        "In der Sahara",
+        "In der Antarktis",
+        "In den Anden",
+        "Im australischen Busch"
+      ],
+      "feedback": [
+        "Ein Sandsturm zwingt das Flugzeug in der Sahara zu Boden.",
+        "Eine Polarlandschaft ist nicht der Schauplatz.",
+        "Die Anden gehören zu einem anderen Überlebensfilm.",
+        "Australien ist nicht der Ort dieser Fassung."
+      ],
+      "short": "Ein Sandsturm zwingt das Flugzeug in der Sahara zu Boden.",
+      "context": "Pilot Frank Towns (James Stewart) landet nach einem Sandsturm abseits der Route. In der Wüste fehlen Wasser und funktionierender Funk. Die Gruppe kann daher nicht darauf vertrauen, dass Suchmannschaften ihren tatsächlichen Standort kennen, und muss eine eigene Lösung finden.",
+      "anchor": "Die Sahara verlangt eine Rettung aus eigener Kraft.",
+      "interest": "Der Ort wird mit seinen konkreten Überlebensbedingungen verknüpft.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Rettungsplan entwickelt Dorfmann (Hardy Krüger) in @?",
+      "answers": [
+        "Aus dem Wrack ein kleineres Flugzeug bauen",
+        "Das ursprüngliche Flugzeug vollständig an Ort und Stelle reparieren",
+        "Die Tragflächen als Sonnenschutz für einen langen Fußmarsch benutzen",
+        "Aus dem Rumpf einen Schlitten zum nächsten Ort bauen"
+      ],
+      "feedback": [
+        "Er schlägt einen flugfähigen Neubau aus erhaltenen Teilen vor.",
+        "Er baut aus Resten eine neue kleinere Maschine.",
+        "Die Tragflächen sollen Teil des neuen Flugzeugs werden.",
+        "Ein Rumpfschlitten ist nicht sein vorgeschlagener Rettungsweg."
+      ],
+      "short": "Er schlägt einen flugfähigen Neubau aus erhaltenen Teilen vor.",
+      "context": "Dorfmann (Hardy Krüger) sieht im zerstörten Flugzeug nicht nur eine verlorene Maschine, sondern nutzbare Bauteile. Towns (James Stewart) zweifelt an dem Vorschlag. Die Handlung entwickelt sich aus der Frage, ob technische Planung und praktische Erfahrung gemeinsam eine zweite Chance schaffen können.",
+      "anchor": "Das Wrack enthält die Teile der Rettung.",
+      "interest": "Der Plan macht den Gegensatz der beiden Hauptfiguren verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Erfahrung Dorfmanns (Hardy Krüger) erschüttert in @ zunächst das Vertrauen der anderen in seinen Plan?",
+      "answers": [
+        "Er konstruiert beruflich Modellflugzeuge.",
+        "Er hat bisher nur Motoren, aber keine Flugzeuge konstruiert.",
+        "Er hat seine Ausbildung zum Flugzeugingenieur nie abgeschlossen.",
+        "Er hat bisher ausschließlich Luftschiffe gebaut."
+      ],
+      "feedback": [
+        "Seine berufliche Praxis stammt aus dem Modellflugzeugbau.",
+        "Sein überraschendes Fachgebiet ist der Modellflugzeugbau.",
+        "Ein nicht abgeschlossener Studiengang ist nicht die enthüllte Qualifikation.",
+        "Er konstruiert Modelle, nicht ausschließlich Luftschiffe."
+      ],
+      "short": "Seine berufliche Praxis stammt aus dem Modellflugzeugbau.",
+      "context": "Towns (James Stewart) und Moran (Richard Attenborough) erwarten Erfahrung mit großen Flugzeugen. Dorfmann (Hardy Krüger) erklärt jedoch, dass er Modelle konstruiert. Er verteidigt die Übertragbarkeit der aerodynamischen Prinzipien; die anderen müssen zwischen ungewohnter Qualifikation und tatsächlichem Wissen unterscheiden.",
+      "anchor": "Modellbau ist Dorfmanns unerwartete Fachpraxis.",
+      "interest": "Die Frage prüft eine fachliche Vertrauensentscheidung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum unterstützt Arzt Renaud (Christian Marquand) in @ den Bau trotz der Zweifel?",
+      "answers": [
+        "Arbeit und Hoffnung halten die Überlebenden handlungsfähig.",
+        "Die Arbeiten sollen ein Signal für vorbeifliegende Suchflugzeuge bilden.",
+        "Die Gruppe soll dabei nach einer verborgenen Wasserquelle graben.",
+        "Der Bau soll Zeit für die Rückkehr einer bereits alarmierten Rettungsmannschaft gewinnen."
+      ],
+      "feedback": [
+        "Die gemeinsame Aufgabe stützt die Moral.",
+        "Renaud betont die Wirkung von Tätigkeit und Hoffnung auf die Männer.",
+        "Die Montage ist kein getarntes Wassergrabungsprojekt.",
+        "Eine bereits sichere Rettungsmannschaft ist nicht angekündigt."
+      ],
+      "short": "Die gemeinsame Aufgabe stützt die Moral.",
+      "context": "Renaud (Christian Marquand) betrachtet nicht nur die technische Erfolgschance. Die gemeinsame Arbeit gibt den Männern eine Aufgabe, während Warten und Hoffnungslosigkeit sie schwächen würden. Sein Argument erweitert die Rettungsplanung um die psychische Wirkung, die ein konkretes Ziel in der Not hat.",
+      "anchor": "Bauen gibt Hoffnung eine Tätigkeit.",
+      "interest": "Der Plan wird auch als psychologische Überlebenshilfe erschlossen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum müssen Towns (James Stewart) und Dorfmann (Hardy Krüger) in @ beim Motorstart besonders vorsichtig entscheiden?",
+      "answers": [
+        "Sie besitzen nur eine begrenzte Zahl Startpatronen.",
+        "Jeder Fehlstart verbraucht das letzte verbliebene Trinkwasser.",
+        "Der Motor muss vor jedem Start wieder ausgebaut werden.",
+        "Der Kraftstoff reicht nur für einen einzigen Anlassversuch."
+      ],
+      "feedback": [
+        "Die begrenzten Startpatronen machen Fehlversuche kostbar.",
+        "Die knappe Ressource sind die Startpatronen, nicht Wasser für den Motor.",
+        "Ein wiederholter Motorausbau ist nicht das Problem.",
+        "Mehrere Versuche sind möglich; begrenzt ist die Zahl der Patronen."
+      ],
+      "short": "Die begrenzten Startpatronen machen Fehlversuche kostbar.",
+      "context": "Die neue Maschine ist fertig, doch ihr Motor muss noch anspringen. Die vorhandenen Startpatronen können nicht beliebig ersetzt werden. Towns (James Stewart) entscheidet sich trotz Dorfmanns (Hardy Krüger) Einwand für einen Versuch ohne Zündung, um die Zylinder zu reinigen, bevor der Start gelingt.",
+      "anchor": "Jede Startpatrone ist eine begrenzte Chance.",
+      "interest": "Eine technische Entscheidung wird durch die Ressourcenknappheit verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie verändert der erfolgreiche Flug in @ das Verhältnis von Towns (James Stewart) und Dorfmann (Hardy Krüger)?",
+      "answers": [
+        "Sie erkennen die Beiträge des jeweils anderen an.",
+        "Towns spricht den Erfolg nur seiner eigenen Flugpraxis zu.",
+        "Dorfmann erklärt Towns nach der Landung öffentlich für unfähig.",
+        "Sie bleiben bei ihrem Misstrauen, obwohl sie zusammen gerettet sind."
+      ],
+      "feedback": [
+        "Der Erfolg führt zur Versöhnung.",
+        "Der Erfolg führt zu gegenseitiger Anerkennung.",
+        "Dorfmann hält den Piloten nach der Rettung nicht bloß für unfähig.",
+        "Die gemeinsame Leistung beendet die frühere Gegnerschaft."
+      ],
+      "short": "Der Erfolg führt zur Versöhnung.",
+      "context": "Towns (James Stewart) bringt Flugpraxis mit, Dorfmann (Hardy Krüger) die Konstruktion. Beide haben einander misstraut, sind aber für die Rettung aufeinander angewiesen. Die Ankunft an der Oase beendet deshalb nicht nur die Notlage, sondern verändert auch ihre gegenseitige Beurteilung.",
+      "anchor": "Konstruktion und Flugpraxis retten gemeinsam.",
+      "interest": "Der Schluss löst den Kompetenzstreit durch Zusammenarbeit.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit James Stewart und Hardy Krüger erstmals?",
+      "answers": [
+        "1965",
+        "1961",
+        "1969",
+        "1973"
+      ],
+      "feedback": [
+        "Diese Fassung erschien 1965.",
+        "1961 liegt vier Jahre davor.",
+        "1969 liegt vier Jahre danach.",
+        "1973 liegt acht Jahre danach."
+      ],
+      "short": "Diese Fassung erschien 1965.",
+      "context": "Der Flug des Phönix mit James Stewart und Hardy Krüger erschien 1965. Die Neuverfilmung mit Dennis Quaid und Giovanni Ribisi folgte 2004, 39 Jahre später. Beide Fassungen erzählen von Überlebenden, die aus dem abgestürzten Flugzeug ein neues bauen wollen. Der lange Abstand verbindet die ursprüngliche Aldrich-Verfilmung mit einer späteren Wiederaufnahme desselben ungewöhnlichen technischen Rettungsplans.",
+      "anchor": "1965 der erste Phönix – 2004 die Neuverfilmung: 39 Jahre Abstand.",
+      "interest": "Das Hauptpaar ist der individuelle Jahresanker.",
+      "sources": [
+        "archiv",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit James Stewart als Pilot Frank Towns?",
+      "answers": [
+        "Robert Aldrich",
+        "Robert Wise",
+        "David Lean",
+        "Billy Wilder"
+      ],
+      "feedback": [
+        "Robert Aldrich führte Regie.",
+        "Wise inszenierte diese Fassung nicht.",
+        "Lean trägt diesen Credit nicht.",
+        "Wilder führte hier nicht Regie."
+      ],
+      "short": "Robert Aldrich führte Regie.",
+      "context": "Robert Aldrich inszeniert Elleston Trevors Roman als Gruppenabenteuer in einem begrenzten Raum. Das Flugzeugwrack wird Werkstatt, Unterkunft und Streitort zugleich. Der Regiecredit betrifft die Stewart-Krüger-Fassung und muss von der späteren Adaption des gleichen Stoffes getrennt werden.",
+      "anchor": "Aldrich macht das Wrack zum Rettungsraum.",
+      "interest": "Der Credit wird an den zentralen Handlungsraum gebunden.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

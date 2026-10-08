@@ -30,6 +30,7 @@ const contents = packages
     (p) =>
       !p.filename.startsWith("Schauspieler_") &&
       !p.filename.endsWith("fragen_20261007.csv") &&
+      !p.filename.startsWith("Genre100_") &&
       p.filename !== "Filmfragen_240_Filme_1920_Fragen.csv",
   )
   .map((p) => ({

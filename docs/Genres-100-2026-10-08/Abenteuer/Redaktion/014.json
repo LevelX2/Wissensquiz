@@ -1,0 +1,208 @@
+{
+  "rank": 14,
+  "directors": [
+    "Jerry Zucker"
+  ],
+  "production_countries": [
+    "USA",
+    "Großbritannien"
+  ],
+  "release_note": "Kinostart 1995.",
+  "familiarity_reason": "Die Artus-Verfilmung mit Sean Connery und Richard Gere ist ein populäres Abenteuer der 1990er-Jahre.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/First_Knight",
+    "studio": "https://www.sonypictures.com/movies/firstknight",
+    "archiv": "https://catalog.afi.com/Catalog/moviedetails/59888",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/Dr._No_(film)",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Zwischen welchen beiden Männern steht Guinevere (Julia Ormond) in @?",
+      "answers": [
+        "Arthur und Lancelot",
+        "Arthur und Merlin",
+        "Lancelot und Galahad",
+        "Merlin und Malagant"
+      ],
+      "feedback": [
+        "Guinevere liebt Arthur und fühlt sich zu Lancelot hingezogen.",
+        "Merlin ist nicht der andere Mann dieses Dreiecks.",
+        "Galahad ist nicht der zweite Partner.",
+        "Dieses Paar bildet nicht den Liebeskonflikt."
+      ],
+      "short": "Guinevere liebt Arthur und fühlt sich zu Lancelot hingezogen.",
+      "context": "Guinevere (Julia Ormond) entscheidet sich für Arthur (Sean Connery), dessen Schutz ihrem Land hilft. Lancelot (Richard Gere) weckt andere Gefühle. Die Handlung verbindet ihre persönliche Zuneigung dadurch mit Verantwortung für die Menschen, über die sie herrscht.",
+      "anchor": "Guinevere verbindet Pflicht mit Arthur, Leidenschaft mit Lancelot.",
+      "interest": "Das Dreieck wird anhand unterschiedlicher Beziehungen verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Stellung hatte Malagant (Ben Cross) in @ früher?",
+      "answers": [
+        "Er war ein Ritter der Tafelrunde.",
+        "Er war ein benachbarter König und Arthurs Verbündeter.",
+        "Er war der frühere Herrscher von Lyonesse.",
+        "Er war Lancelots Lehrmeister im Schwertkampf."
+      ],
+      "feedback": [
+        "Malagant gehörte früher zu Arthurs Rittern.",
+        "Malagant gehörte zu Arthurs Tafelrunde.",
+        "Guinevere ist die Herrscherin von Lyonesse; dies erklärt nicht seine frühere Stellung.",
+        "Eine Ausbildung Lancelots durch Malagant ist nicht seine Vorgeschichte."
+      ],
+      "short": "Malagant gehörte früher zu Arthurs Rittern.",
+      "context": "Malagant (Ben Cross) stellt Arthurs (Sean Connery) Herrschaft infrage, obwohl er selbst zur Tafelrunde gehörte. Der Gegner kommt damit aus dem früheren Umfeld des Königs. Sein Angriff ist ein Bruch mit der Idee gemeinsamen Dienstes, die Arthur seinen Rittern vermittelt.",
+      "anchor": "Malagant bricht mit der eigenen Tafelrunde.",
+      "interest": "Die Vorgeschichte erklärt die persönliche Gegnerschaft.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie begründet Lancelot (Richard Gere) in @ zunächst seine außergewöhnliche Furchtlosigkeit?",
+      "answers": [
+        "Sein eigenes Leben bedeutet ihm wenig.",
+        "Er vertraut auf eine geheime Ausbildung bei Arthurs Rittern.",
+        "Er betrachtet alle Gegner als körperlich unterlegen.",
+        "Er kämpft nur bei vorher vereinbartem Ausgang."
+      ],
+      "feedback": [
+        "Er erklärt seinen Mut mit fehlender Bindung an das Leben.",
+        "Seine Erklärung betrifft fehlende Lebensbindung statt einer Ausbildung.",
+        "Er begründet seine Furchtlosigkeit nicht mit körperlicher Überlegenheit.",
+        "Seine gefährlichen Begegnungen sind nicht abgesprochen."
+      ],
+      "short": "Er erklärt seinen Mut mit fehlender Bindung an das Leben.",
+      "context": "Lancelot (Richard Gere) lebt zunächst als wandernder Kämpfer ohne festen Platz. Seine Furchtlosigkeit beruht auf Verlust und mangelnder Bindung. Arthur (Sean Connery) fordert ihn dagegen heraus, etwas zu finden, das sein Leben und seinen Dienst wertvoll macht.",
+      "anchor": "Lancelot muss erst etwas zu verlieren finden.",
+      "interest": "Der scheinbare Heldenvorteil wird als persönlicher Mangel erschlossen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Mit welcher Täuschung gelangt Lancelot (Richard Gere) in @ bei der Befreiung Guineveres (Julia Ormond) zu ihr?",
+      "answers": [
+        "Er gibt sich als Bote aus Camelot aus.",
+        "Er meldet sich als neuer Wachmann Malagants.",
+        "Er behauptet, Guineveres Lösegeld zu bringen.",
+        "Er gibt sich als Arzt für die verletzte Gefangene aus."
+      ],
+      "feedback": [
+        "Als angeblicher Bote verlangt er, die Gefangene lebend zu sehen.",
+        "Er tritt als Bote aus Camelot auf.",
+        "Ein Lösegeldtransport ist nicht die verwendete Rolle.",
+        "Er gelangt nicht in einer Arztrolle zu ihr."
+      ],
+      "short": "Als angeblicher Bote verlangt er, die Gefangene lebend zu sehen.",
+      "context": "Malagant (Ben Cross) hält Guinevere (Julia Ormond) gefangen. Lancelot (Richard Gere) verlangt als vermeintlicher Bote erst einen Beweis, dass sie lebt. Die List bringt ihn in ihre Nähe; anschließend kann er die Bewacher überwältigen und mit ihr entkommen.",
+      "anchor": "Der falsche Bote kommt zur echten Gefangenen.",
+      "interest": "List ermöglicht den späteren Kampf.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum wendet sich Arthurs (Sean Connery) Prozess gegen Guinevere und Lancelot in @ plötzlich in einen Kampf um Camelot?",
+      "answers": [
+        "Malagant greift während des öffentlichen Verfahrens an.",
+        "Die Ritter versuchen Guinevere heimlich aus dem Verfahren zu befreien.",
+        "Der öffentliche Prozess löst eine Meuterei der königlichen Wachen aus.",
+        "Arthur will Lancelot durch einen Zweikampf richten lassen."
+      ],
+      "feedback": [
+        "Der Angriff unterbricht das Verfahren.",
+        "Malagants bewaffneter Angriff verändert die Lage.",
+        "Die Gefahr kommt durch Malagant statt durch eine Wachmeuterei.",
+        "Ein von Arthur angeordneter Gerichtskampf ist nicht der Auslöser."
+      ],
+      "short": "Der Angriff unterbricht das Verfahren.",
+      "context": "Arthur (Sean Connery) will den entdeckten Kuss Guineveres (Julia Ormond) und Lancelots (Richard Gere) öffentlich verhandeln. Malagant (Ben Cross) nutzt diese Situation für seinen Angriff. Der private Vertrauensbruch wird von einer Gefahr überlagert, die die ganze Gemeinschaft betrifft.",
+      "anchor": "Malagants Angriff überlagert den Ehekonflikt.",
+      "interest": "Die Wendung verbindet beide Handlungsstränge.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Aufgabe überträgt der sterbende Arthur (Sean Connery) Lancelot (Richard Gere) in @?",
+      "answers": [
+        "Camelot und Guinevere zu schützen",
+        "Guinevere nach Lyonesse zu begleiten und dort zu bleiben",
+        "Die Ritter vom Hof zu entlassen und das Heer aufzulösen",
+        "Sein Wanderleben wieder aufzunehmen und Camelot zu verlassen"
+      ],
+      "feedback": [
+        "Arthur vertraut ihm Land und Königin an.",
+        "Der Schutzauftrag gilt gemeinsam Guinevere und Camelot, nicht einer dauerhaften Rückkehr nach Lyonesse.",
+        "Arthur setzt die gemeinsame Schutzaufgabe fort statt sie aufzulösen.",
+        "Lancelot erhält nun eine Bindung und Verantwortung statt des alten Wanderlebens."
+      ],
+      "short": "Arthur vertraut ihm Land und Königin an.",
+      "context": "Lancelot (Richard Gere) hat Malagant (Ben Cross) besiegt. Arthur (Sean Connery) vertraut ihm vor seinem Tod die Verantwortung für Camelot und Guinevere (Julia Ormond) an. Damit erhält der frühere Wanderer endgültig jene Bindung, die seinem Mut zu Beginn gefehlt hatte.",
+      "anchor": "Lancelots Mut bekommt Verantwortung.",
+      "interest": "Die Schlussaufgabe beantwortet den persönlichen Ausgangszustand.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Sean Connery und Richard Gere im Kino?",
+      "answers": [
+        "1995",
+        "1991",
+        "1999",
+        "2003"
+      ],
+      "feedback": [
+        "Der Film erschien 1995.",
+        "1991 liegt vier Jahre davor.",
+        "1999 liegt vier Jahre danach.",
+        "2003 liegt acht Jahre danach."
+      ],
+      "short": "Der Film erschien 1995.",
+      "context": "Sean Connerys erster James-Bond-Kinofilm James Bond jagt Dr. No erschien 1962. Der erste Ritter folgte 1995, 33 Jahre später, mit Connery als König Arthur und Richard Gere als Lancelot. Die weit auseinanderliegenden Jahre verbinden zwei unterschiedliche Heldenbilder desselben Stars: den aktiven Geheimagenten und den älteren Herrscher, dessen politische und persönliche Ordnung in Gefahr gerät.",
+      "anchor": "1962 Connerys erster Bond – 1995 sein Arthur: 33 Jahre Abstand.",
+      "interest": "Besetzung und Schwerpunkt geben einen individuellen Jahresanker.",
+      "sources": [
+        "archiv",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Sean Connery, Richard Gere und Julia Ormond?",
+      "answers": [
+        "Jerry Zucker",
+        "John Boorman",
+        "Richard Thorpe",
+        "Ridley Scott"
+      ],
+      "feedback": [
+        "Jerry Zucker führte Regie.",
+        "Boorman inszenierte diese Fassung nicht.",
+        "Thorpe trägt diesen Credit nicht.",
+        "Scott inszenierte dieses Ritterdreieck nicht."
+      ],
+      "short": "Jerry Zucker führte Regie.",
+      "context": "Jerry Zucker inszeniert den Artus-Stoff mit einem Schwerpunkt auf Liebe, Vertrauen und Verantwortung. Die Regiefrage gilt dem Film mit Connery, Gere und Ormond. Andere Artus-Verfilmungen können ähnliche Figuren zeigen, besitzen aber eigene Besetzungen und Regiecredits.",
+      "anchor": "Zucker inszeniert das Ritterdreieck.",
+      "interest": "Der Credit wird dem konkreten Film zugeordnet.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

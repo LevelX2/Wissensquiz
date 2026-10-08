@@ -1,3 +1,4 @@
+import { catalogCounts } from "./catalog-counts";
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
 import { addPackages, packages } from "../src/packages";
@@ -52,7 +53,7 @@ function atRank(q: Question, index: number, previous?: Question) {
 
 it("erreicht alle vier zeitlichen Ränge bei generierten und CSV-Jahresfragen ohne die Lösung oder Frageidentität zu ändern", () => {
   expect(generated).toHaveLength(425);
-  expect(fixed).toHaveLength(645);
+  expect(fixed).toHaveLength(catalogCounts.csvYearQuestions);
   for (const q of [...generated, ...fixed]) {
     const before = structuredClone(q),
       year = correctYear(q),

@@ -1,0 +1,203 @@
+{
+  "rank": 24,
+  "directors": [
+    "Frank Marshall"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Kinostart am 15. Januar 1993; erzählt das Andenunglück von 1972.",
+  "familiarity_reason": "Die erste große Spielfilmadaption des Andenunglücks ist ein bekannter Überlebensfilm.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Alive_(1993_film)",
+    "studio": "https://d23.com/a-to-z/alive-film/",
+    "archiv": "https://catalog.afi.com/Catalog/moviedetails/59451"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher Sport verbindet viele Reisende in @ vor dem Absturz?",
+      "answers": [
+        "Rugby",
+        "Fußball",
+        "Basketball",
+        "Eishockey"
+      ],
+      "feedback": [
+        "Viele Reisende gehören einem Rugbyteam an.",
+        "Eine Fußballmannschaft ist nicht die zentrale Gruppe.",
+        "Basketball ist nicht ihr gemeinsamer Sport.",
+        "Ein Eishockeyteam wird nicht transportiert."
+      ],
+      "short": "Viele Reisende gehören einem Rugbyteam an.",
+      "context": "Das uruguayische Team fliegt mit Angehörigen und Freunden nach Chile. Nach dem Absturz werden sportliche Bekanntschaften zu einer Überlebensgemeinschaft. Der Film beginnt deshalb nicht mit beliebigen Fremden, sondern mit Beziehungen, auf denen Hilfe und gemeinsame Entscheidungen aufbauen können.",
+      "anchor": "Das Rugbyteam wird zur Überlebensgruppe.",
+      "interest": "Die Gruppenvorgeschichte gibt dem Zusammenhalt einen Ausgangspunkt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "In welcher Landschaft kämpfen die Überlebenden in @ um Rettung?",
+      "answers": [
+        "In den verschneiten Anden",
+        "In einer tropischen Mangrove",
+        "In der Sahara",
+        "In den schottischen Highlands"
+      ],
+      "feedback": [
+        "Der Absturz geschieht in den Anden.",
+        "Eine Mangrove ist nicht der Schauplatz.",
+        "Die Gruppe ist nicht in einer Wüste gestrandet.",
+        "Schottland ist nicht das Unfallgebiet."
+      ],
+      "short": "Der Absturz geschieht in den Anden.",
+      "context": "Das Wrack liegt hoch in den verschneiten Bergen. Kälte, Verletzungen und Nahrungsknappheit erschweren das Warten auf Hilfe. Die Landschaft ist kein bloßer Hintergrund: Sie begrenzt die verfügbaren Mittel und zwingt die Überlebenden zu Entscheidungen, die außerhalb dieser Notlage kaum vorstellbar wären.",
+      "anchor": "Die Anden machen Warten lebensgefährlich.",
+      "interest": "Der Schauplatz erklärt die besonderen Bedingungen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Nachricht verändert in @ die Hoffnung der Gruppe auf Rettung von außen?",
+      "answers": [
+        "Die Suchaktion wird eingestellt.",
+        "Die Flugroute sei noch nicht als Suchgebiet bestätigt.",
+        "Die Suche werde auf eine andere Bergregion verlagert.",
+        "Eine neue Suche beginne erst nach dem nächsten Schneefall."
+      ],
+      "feedback": [
+        "Die Radio-Nachricht meldet das Ende der Suche.",
+        "Gemeldet wird die Einstellung der Suche, nicht eine bloße Gebietsklärung.",
+        "Nicht nur das Suchgebiet wird gewechselt, die Aktion endet.",
+        "Eine angekündigte neue Suche nach Schneefall ist nicht die Nachricht."
+      ],
+      "short": "Die Radio-Nachricht meldet das Ende der Suche.",
+      "context": "Die Gruppe hört über ein Radio, dass die Suche beendet wird. Damit verlieren die Überlebenden die Erwartung, einfach entdeckt zu werden. Die Nachricht macht aus passivem Warten ein Problem eigener Initiative: Eine Rettung muss nun durch jemanden aus der Gruppe angestoßen werden.",
+      "anchor": "Das Ende der Suche erzwingt eigene Schritte.",
+      "interest": "Information verändert die Handlungsmöglichkeiten.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum scheitert in @ zunächst der Plan, das Funkgerät am Flugzeugheck zu verwenden?",
+      "answers": [
+        "Das Team kann es mit den gefundenen Batterien nicht funktionsfähig machen.",
+        "Das Team findet die benötigten Batterien nicht.",
+        "Das Heck ist für die Überlebenden überhaupt nicht erreichbar.",
+        "Das Team nimmt an, das Radio könne nur empfangen und versucht keine Reparatur."
+      ],
+      "feedback": [
+        "Der Reparaturversuch führt nicht zu einer Funkverbindung.",
+        "Batterien werden gefunden, führen aber nicht zu einer funktionierenden Verbindung.",
+        "Die Überlebenden erreichen das Heck tatsächlich.",
+        "Roy versucht die Reparatur; die Gruppe verzichtet nicht bloß darauf."
+      ],
+      "short": "Der Reparaturversuch führt nicht zu einer Funkverbindung.",
+      "context": "Nando (Ethan Hawke), Canessa (Josh Hamilton) und ihre Helfer suchen das abgetrennte Heck. Sie hoffen auf Strom für eine eigene Nachricht. Auch mit Roys (Kevin Breznahan) technischem Versuch gelingt dies nicht, sodass der schwierige Fußweg als letzte aktive Rettungsmöglichkeit an Bedeutung gewinnt.",
+      "anchor": "Das Funkgerät ersetzt den Fußweg nicht.",
+      "interest": "Der Fehlschlag erklärt die Notwendigkeit der späteren Expedition.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche Entscheidung verlängert in @ die mögliche Reichweite von Nando (Ethan Hawke) und Canessa (Josh Hamilton)?",
+      "answers": [
+        "Tintin kehrt zurück und überlässt ihnen seine Verpflegung.",
+        "Sie legen Vorratsdepots an und kehren jede Nacht zum Wrack zurück.",
+        "Sie teilen den Weg zwischen sich und einer zweiten Suchgruppe auf.",
+        "Sie nehmen nur das Funkgerät und lassen alle Lebensmittel am Wrack."
+      ],
+      "feedback": [
+        "Die Rückkehr des dritten Mannes verteilt die Vorräte auf zwei Wanderer.",
+        "Ein Wechsel zwischen Wrack und Depots ist nicht die Lösung für den langen Marsch.",
+        "Die Verlängerung entsteht durch das Umverteilen der Rationen des umkehrenden Mannes.",
+        "Ohne Lebensmittel ließe sich die Reichweite nicht auf diese Weise verlängern."
+      ],
+      "short": "Die Rückkehr des dritten Mannes verteilt die Vorräte auf zwei Wanderer.",
+      "context": "Nando (Ethan Hawke), Canessa (Josh Hamilton) und Tintin (John Haymes Newton) beginnen die Expedition gemeinsam. Zwei Männer setzen den langen Weg fort, während Tintin umkehrt. Die knappen Lebensmittel können dadurch länger reichen; eine Trennung der Gruppe dient ihrer gemeinsamen Rettung.",
+      "anchor": "Ein Mann kehrt um, damit zwei weiterkommen.",
+      "interest": "Eine Ressourcenentscheidung wird mit dem gemeinsamen Ziel verbunden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie legten Disney und Paramount bei der gemeinsamen Produktion von @ fest, wer die US- und wer die Auslands-Verleihrechte erhielt?",
+      "answers": [
+        "Durch einen Münzwurf",
+        "Durch eine Aufteilung nach den gesprochenen Filmsprachen",
+        "Durch den Vergleich ihrer bisherigen Einnahmen mit Ethan-Hawke-Filmen",
+        "Durch eine Abstimmung unter den Überlebenden"
+      ],
+      "feedback": [
+        "Ein Münzwurf ordnete die US-Rechte Disney und die Auslandsrechte Paramount zu.",
+        "Die Rechte wurden nicht nach gesprochenen Sprachen verteilt.",
+        "Frühere Einnahmen mit Hawke gaben nicht den Ausschlag.",
+        "Die Überlebenden stimmten nicht über diese Verleihaufteilung ab."
+      ],
+      "short": "Ein Münzwurf entschied: Disney erhielt die US-Rechte, Paramount die Auslandsrechte.",
+      "context": "Disney und Paramount vereinbarten eine gemeinsame Finanzierung der Produktion. Davon getrennt musste der Verleih aufgeteilt werden. Laut AFI entschied darüber ein Münzwurf: Disney bekam die US-Rechte, Paramount die Auslandsrechte. Die ungewöhnliche Regel löste also die Verteilung der Veröffentlichung, nicht die Frage, ob der Film finanziert wurde. Die Zusammenarbeit großer Studios galt damals als selten.",
+      "anchor": "Gemeinsam finanziert, Verleihrechte per Münzwurf verteilt.",
+      "interest": "Der ungewöhnliche konkrete Produktionsvorgang unterscheidet Finanzierung und Verleih.",
+      "sources": [
+        "archiv"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Ethan Hawke als Nando erstmals?",
+      "answers": [
+        "1993",
+        "1989",
+        "1997",
+        "2001"
+      ],
+      "feedback": [
+        "Der Film erschien 1993.",
+        "1989 liegt vier Jahre davor.",
+        "1997 liegt vier Jahre danach.",
+        "2001 liegt acht Jahre danach."
+      ],
+      "short": "Der Film erschien 1993.",
+      "context": "1993 bringt die Touchstone-Paramount-Produktion das Andenunglück als großen Spielfilm ins Kino. Das erzählte Unglück liegt dagegen im Jahr 1972. Der zeitliche Abstand ist ein konkreter Anker und verhindert, das Datum des historischen Ereignisses als Filmjahr einzutragen.",
+      "anchor": "1972 das Unglück – 1993 die Verfilmung.",
+      "interest": "Ereignisjahr und Filmjahr werden deutlich getrennt.",
+      "sources": [
+        "handlung",
+        "studio"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Ethan Hawke und Josh Hamilton?",
+      "answers": [
+        "Frank Marshall",
+        "Robert Zemeckis",
+        "Robert Aldrich",
+        "Peter Weir"
+      ],
+      "feedback": [
+        "Frank Marshall führte Regie.",
+        "Zemeckis inszenierte diese Fassung nicht.",
+        "Aldrich trägt diesen Credit nicht.",
+        "Weir führte hier nicht Regie."
+      ],
+      "short": "Frank Marshall führte Regie.",
+      "context": "Frank Marshall inszeniert die Entscheidungen der eingeschlossenen Gruppe und den späteren Fußweg zur Hilfe. Disney dokumentiert den Credit der Koproduktion mit Paramount. Die Frage betrifft diese Fassung mit Ethan Hawke und nicht alle späteren Darstellungen des realen Andenunglücks.",
+      "anchor": "Marshall inszeniert Hawkes Weg aus den Anden.",
+      "interest": "Der Credit wird der konkreten Ereignisadaption zugeordnet.",
+      "sources": [
+        "studio"
+      ]
+    }
+  ]
+}

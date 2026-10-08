@@ -1,3 +1,4 @@
+import { catalogCounts } from "../catalog-counts";
 import { readFileSync } from "node:fs";
 import { test, expect, readStoredState, type Page } from "./fixtures";
 import { startRound } from "../../src/engine";
@@ -42,8 +43,8 @@ test("lädt drei neue Pakete einmal, schützt das Regieteam und erhält alle Fra
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const initial = await readStoredState(page);
-  expect(initial.questions).toHaveLength(10877);
-  expect(initial.imports).toHaveLength(24);
+  expect(initial.questions).toHaveLength(catalogCounts.questions);
+  expect(initial.imports).toHaveLength(catalogCounts.packages);
   expect(
     initial.questions.filter((q) => q.id.startsWith("E20261007-")),
   ).toHaveLength(2480);
@@ -84,7 +85,7 @@ test("lädt drei neue Pakete einmal, schützt das Regieteam und erhält alle Fra
     ).toBe(readFileSync(`public${path}`, "utf8"));
   const final = await readStoredState(page);
   expect(final.questions).toEqual(initial.questions);
-  expect(final.imports).toHaveLength(24);
+  expect(final.imports).toHaveLength(catalogCounts.packages);
   expect(
     final.events.filter((e) => e.questionId === "E20261007-F-180-D"),
   ).toHaveLength(1);

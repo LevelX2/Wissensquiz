@@ -1,0 +1,203 @@
+{
+  "rank": 7,
+  "directors": [
+    "Richard Thorpe"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA"
+  ],
+  "release_note": "AFI verzeichnet die Londoner Eröffnung am 21. Juni 1952. US-Aufführungen folgten; die AFI-Katalogüberschrift führt abweichend 1953.",
+  "familiarity_reason": "Die Ritterverfilmung mit Robert Taylor und Elizabeth Taylor ist ein historischer Kennerklassiker.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Ivanhoe_(1952_film)",
+    "archiv": "https://catalog.afi.com/Catalog/MovieDetails/50525"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wofür setzt sich Ivanhoe (Robert Taylor) in @ zu Beginn ein?",
+      "answers": [
+        "Für die Befreiung des gefangenen Königs Richard",
+        "Für die dauerhafte Herrschaft Prinz Johns",
+        "Für die Wiedereroberung einer Burg seiner Familie",
+        "Für seine sofortige Heirat mit Rowena"
+      ],
+      "feedback": [
+        "Ivanhoe versucht, Richards Freilassung zu ermöglichen.",
+        "Er versucht gerade Richards Rückkehr auf den Thron zu ermöglichen.",
+        "Zu Beginn sucht er den gefangenen König.",
+        "Sein erstes übergeordnetes Ziel ist Richards Befreiung."
+      ],
+      "short": "Ivanhoe versucht, Richards Freilassung zu ermöglichen.",
+      "context": "Ivanhoe (Robert Taylor) findet König Richard in Gefangenschaft und will das Lösegeld aufbringen. Dessen Bruder John profitiert dagegen von der Abwesenheit des Königs. Die Rittergeschichte beginnt damit mit einer politischen Aufgabe, die über persönliche Ehre hinausgeht.",
+      "anchor": "Ivanhoe sammelt für Richards Freiheit.",
+      "interest": "Der Ausgangskonflikt erklärt, warum die Reise für England Bedeutung hat.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche beiden Bevölkerungsgruppen stehen sich im England von @ besonders gegenüber?",
+      "answers": [
+        "Sachsen und Normannen",
+        "Sachsen und Dänen",
+        "Normannen und Bretonen",
+        "Angeln und Sachsen"
+      ],
+      "feedback": [
+        "Der Film erzählt die Spannungen zwischen Sachsen und Normannen.",
+        "Das Hauptgegensatzpaar ist hier Sachsen und Normannen.",
+        "Bretonen bilden nicht das gegenüberstehende Lager.",
+        "Angeln und Sachsen sind nicht die beiden zentralen Lager dieser Handlung."
+      ],
+      "short": "Der Film erzählt die Spannungen zwischen Sachsen und Normannen.",
+      "context": "Ivanhoe (Robert Taylor) steht als Sachse zwischen den Lagern. Sein Vater Cedric (Finlay Currie) lehnt die Hilfe für den normannischen König zunächst ab. Die Handlung verlangt damit, Herkunftsfeindschaft und gemeinsames politisches Interesse miteinander zu vereinbaren.",
+      "anchor": "Englands Spaltung: Sachsen gegen Normannen.",
+      "interest": "Die Gruppenbeziehung macht den historischen Handlungsrahmen verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie unterstützt Rebecca (Elizabeth Taylor) Ivanhoe (Robert Taylor) vor dem Turnier in @?",
+      "answers": [
+        "Mit Schmuck, der Pferd und Rüstung ermöglicht",
+        "Mit einem von Isaac gekauften Turniersieg",
+        "Mit einer von Prinz John erteilten Waffenlizenz",
+        "Mit dem Versteck für ein aus der Burg gestohlenes Pferd"
+      ],
+      "feedback": [
+        "Rebecca stellt ihren Schmuck für seine Ausrüstung bereit.",
+        "Sie stellt Schmuck für seine Ausrüstung zur Verfügung, keinen erkauften Sieg.",
+        "Rebecca beschafft keine prinzliche Waffenlizenz.",
+        "Sie finanziert Pferd und Rüstung statt ein gestohlenes Pferd zu verstecken."
+      ],
+      "short": "Rebecca stellt ihren Schmuck für seine Ausrüstung bereit.",
+      "context": "Rebecca (Elizabeth Taylor) hilft Ivanhoe (Robert Taylor), als für einen Turnierauftritt die Mittel fehlen. Ihr Schmuck verwandelt private Unterstützung in öffentlich sichtbare Ritterausrüstung. Die Beziehung entwickelt sich deshalb durch eine konkrete Hilfeleistung und nicht nur durch Worte.",
+      "anchor": "Rebeccas Schmuck finanziert Ivanhoes Turnierauftritt.",
+      "interest": "Die Hilfe hat eine nachvollziehbare materielle Funktion.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie will Ivanhoe (Robert Taylor) in @ die Verurteilung Rebeccas (Elizabeth Taylor) abwenden?",
+      "answers": [
+        "Durch ein gerichtliches Zweikampfverfahren",
+        "Durch einen Antrag auf Begnadigung bei Prinz John",
+        "Durch den heimlichen Austausch mit einer anderen Gefangenen",
+        "Durch ein neues Lösegeld aus dem Verkauf seiner Rüstung"
+      ],
+      "feedback": [
+        "Er fordert ein Gottesurteil im Zweikampf.",
+        "Er verlangt die Entscheidung im gerichtlichen Zweikampf.",
+        "Ein Gefangenenaustausch ist nicht sein Plan.",
+        "Die Rettung erfolgt nicht über ein weiteres Lösegeld."
+      ],
+      "short": "Er fordert ein Gottesurteil im Zweikampf.",
+      "context": "Rebecca (Elizabeth Taylor) wird als Hexe angeklagt. Ivanhoe (Robert Taylor) stellt sich dem vorgesehenen Kampf, um das Urteil anzufechten. Der Film zeigt damit eine Justizvorstellung, in der körperlicher Sieg als Beweis dienen soll – deutlich entfernt von moderner Rechtsprüfung.",
+      "anchor": "Ivanhoe ficht das Urteil im Zweikampf an.",
+      "interest": "Die Rettung erschließt zugleich eine historische Form der Konfliktentscheidung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welches Dilemma stellt Prinz John (Guy Rolfe) Rebeccas Vater Isaac (Felix Aylmer) in @?",
+      "answers": [
+        "Die Mittel reichen nur für Richards oder Rebeccas Freilassung.",
+        "Er muss Rebecca gegen die öffentliche Lossagung von Richard tauschen.",
+        "Er soll Rebecca nur gegen Ivanhoes Auslieferung freikaufen.",
+        "Er muss für Rebecca eine endgültige Verbannung nach Österreich hinnehmen."
+      ],
+      "feedback": [
+        "Isaac muss zwischen zwei Befreiungszahlungen entscheiden.",
+        "Die unmittelbare Falle betrifft die Verwendung derselben Lösegeldmittel.",
+        "Die Auslieferung Ivanhoes ist nicht die verlangte Alternative.",
+        "Eine solche Verbannung ist nicht die gestellte Geldentscheidung."
+      ],
+      "short": "Isaac muss zwischen zwei Befreiungszahlungen entscheiden.",
+      "context": "Isaac (Felix Aylmer) hat zur Befreiung König Richards beigetragen. Prinz John (Guy Rolfe) setzt Rebeccas (Elizabeth Taylor) Leben gegen dieses Lösegeld ein. Persönliche Bindung und ein gemeinsames politisches Ziel werden so absichtlich gegeneinander ausgespielt.",
+      "anchor": "John stellt Tochter gegen König.",
+      "interest": "Die Erpressung erklärt eine schwere Entscheidung mit klaren Beziehungen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie beendet König Richard (Norman Wooland) in @ den Gegensatz seiner Untertanen im Schlussbild?",
+      "answers": [
+        "Er spricht sie gemeinsam als Engländer an.",
+        "Er fordert jeden Sachsen zum Eid als Normanne auf.",
+        "Er lässt alle Normannen England verlassen.",
+        "Er überträgt Cedric die Herrschaft über ein unabhängiges Sachsenreich."
+      ],
+      "feedback": [
+        "Richard fordert eine gemeinsame englische Identität.",
+        "Richard löst die Trennung durch die gemeinsame Bezeichnung als Engländer.",
+        "Er vertreibt nicht die Normannen.",
+        "Ein eigenes Sachsenreich wird nicht geschaffen."
+      ],
+      "short": "Richard fordert eine gemeinsame englische Identität.",
+      "context": "König Richard (Norman Wooland) kehrt zurück und richtet den Blick über Sachsen und Normannen hinaus. Das Schlussbild beantwortet den Gruppenstreit des Anfangs mit einem gemeinsamen politischen Namen. Der Film setzt so eine versöhnende Vorstellung an das Ende der Ritterkämpfe.",
+      "anchor": "Aus zwei Lagern werden Engländer.",
+      "interest": "Das Ende wird als konkrete Antwort auf den Anfangskonflikt erschlossen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Robert Taylor erstmals aufgeführt?",
+      "answers": [
+        "1952",
+        "1948",
+        "1956",
+        "1960"
+      ],
+      "feedback": [
+        "Die erste Aufführung liegt 1952.",
+        "1948 liegt vier Jahre davor.",
+        "1956 liegt vier Jahre danach.",
+        "1960 liegt acht Jahre danach."
+      ],
+      "short": "Die erste Aufführung liegt 1952.",
+      "context": "1952 führt Richard Thorpe Robert Taylor als Ivanhoe ins Ritterabenteuer. Im nächsten Jahr folgt „Die Ritter der Tafelrunde“ mit demselben Regisseur und Star. Die aufeinanderfolgenden Filme bilden einen nützlichen Anker für diese Phase des historischen MGM-Abenteuerkinos.",
+      "anchor": "1952 Ivanhoe – 1953 Tafelrunde.",
+      "interest": "Die belegte Folge derselben Zusammenarbeit verankert das Jahr.",
+      "sources": [
+        "handlung",
+        "archiv"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Robert Taylor und Elizabeth Taylor Regie?",
+      "answers": [
+        "Richard Thorpe",
+        "Henry Levin",
+        "Michael Curtiz",
+        "John Huston"
+      ],
+      "feedback": [
+        "Richard Thorpe führte Regie.",
+        "Levin trägt diesen Regiecredit nicht.",
+        "Curtiz trägt diesen Regiecredit nicht.",
+        "Huston trägt diesen Regiecredit nicht."
+      ],
+      "short": "Richard Thorpe führte Regie.",
+      "context": "Richard Thorpe inszeniert Walter Scotts Roman als farbiges Ritterabenteuer. Turnier, Belagerung und Zweikampf ordnen den politischen und persönlichen Streit in unterschiedliche Aktionsräume ein. Der Film gehört zu einer Reihe historischer Arbeiten mit Robert Taylor, nicht zu den Robin-Hood-Filmen Michael Curtiz’.",
+      "anchor": "Thorpe inszeniert Taylors Ivanhoe.",
+      "interest": "Der Regiecredit wird mit dem konkreten Ritterfilm verbunden.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

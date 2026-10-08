@@ -1,0 +1,209 @@
+{
+  "rank": 26,
+  "directors": [
+    "Jean-Jacques Annaud"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Großbritannien"
+  ],
+  "release_note": "Französischer Kinostart am 7. April 2004; englischer Titel Two Brothers.",
+  "familiarity_reason": "Annauds Tigerabenteuer ist ein bekanntes Familienkino-Werk, heute eher eine Entdeckung.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Two_Brothers_(2004_film)",
+    "studio": "https://www.universalpicturesathome.com/movies/two-brothers",
+    "presse": "https://jean-marie-dreujou.com/Ressources/PDF/PR_deux_freres_2.pdf",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/The_Bear_(1988_film)",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Tiere stehen in @ als getrennte und später wiedervereinte Geschwister im Mittelpunkt?",
+      "answers": [
+        "Tiger",
+        "Löwen",
+        "Leoparden",
+        "Jaguare"
+      ],
+      "feedback": [
+        "Kumal und Sangha sind Tiger.",
+        "Die Geschichte handelt nicht von Löwen.",
+        "Leoparden sind nicht die beiden Haupttiere.",
+        "Jaguare sind nicht die beiden Brüder."
+      ],
+      "short": "Kumal und Sangha sind Tiger.",
+      "context": "Kumal und Sangha wachsen zunächst gemeinsam in einem Tempel im Dschungel auf. Menschen trennen sie und bringen sie in verschiedene Formen der Gefangenschaft. Die Geschwisterbeziehung gibt dem Tierabenteuer einen Mittelpunkt, der auch ohne erklärende Gespräche der Hauptfiguren verständlich bleibt.",
+      "anchor": "Zwei Tiger tragen eine Geschwistergeschichte.",
+      "interest": "Die Tierart und der Beziehungsrahmen werden gemeinsam erschlossen.",
+      "sources": [
+        "studio"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wohin wird Kumal in @ nach seiner Gefangennahme gebracht?",
+      "answers": [
+        "In einen Zirkus",
+        "In eine private Menagerie am Hof",
+        "In das Haus eines Kolonialbeamten",
+        "In eine Wildtierstation im Wald"
+      ],
+      "feedback": [
+        "Kumal wird an einen Zirkus verkauft.",
+        "Die Hofmenagerie gehört zu Sanghas anderem Weg.",
+        "Sangha lebt zunächst beim Sohn des Kolonialbeamten.",
+        "Kumal wird zur Unterhaltung im Zirkus genutzt statt in eine Schutzstation gebracht."
+      ],
+      "short": "Kumal wird an einen Zirkus verkauft.",
+      "context": "Die Brüder erleben unterschiedliche Gefangenschaft. Kumal gelangt in einen Zirkus, wo er für Vorstellungen trainiert wird. Sangha kommt zunächst zu einem Jungen. Diese Trennung zeigt verschiedene menschliche Ansprüche an ein wildes Tier, bevor die Brüder wieder aufeinandertreffen.",
+      "anchor": "Kumals Weg führt in die Zirkusmanege.",
+      "interest": "Der Ort konkretisiert eine der getrennten Lebensbahnen.",
+      "sources": [
+        "studio"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Verbindung hat Raoul (Freddie Highmore) in @ zu Sangha?",
+      "answers": [
+        "Er nimmt den jungen Tiger zunächst als Haustier auf.",
+        "Er ist der Dompteur des Zirkus.",
+        "Er verkauft den erwachsenen Tiger an einen Jäger.",
+        "Er tötet den Vater der beiden Tiger."
+      ],
+      "feedback": [
+        "Raoul freundet sich mit dem Jungtier an.",
+        "Die Zirkusführung liegt nicht beim Jungen.",
+        "Ein Verkauf durch Raoul ist nicht die Beziehung.",
+        "Den Vater tötet nicht Raoul."
+      ],
+      "short": "Raoul freundet sich mit dem Jungtier an.",
+      "context": "Raoul (Freddie Highmore) hält Sangha zunächst in der häuslichen Umgebung. Seine Zuneigung schützt den Tiger aber nicht dauerhaft vor den Entscheidungen der Erwachsenen. Der Junge entwickelt später ein anderes Verständnis: Liebe zum Tier kann bedeuten, ihm den Weg zurück in die Wildnis zu ermöglichen.",
+      "anchor": "Raouls Freundschaft muss über ein Haustier hinauswachsen.",
+      "interest": "Die Beziehung verbindet frühe Zuneigung und spätere Freigabe.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was verändert den erzwungenen Kampf der beiden Tiger in @?",
+      "answers": [
+        "Sie erkennen einander und beginnen wieder zu spielen.",
+        "McRory beendet den Kampf durch einen Warnschuss.",
+        "Der Prinz unterbricht die Vorführung, bevor die Tiere sich berühren.",
+        "Ein Trainer trennt die Tiere durch eine brennende Fackel."
+      ],
+      "feedback": [
+        "Das Wiedererkennen unterbricht den Kampf.",
+        "Das Wiedererkennen der Brüder unterbricht ihre Feindschaft.",
+        "Die Tiere selbst verändern den Verlauf durch ihr vertrautes Spiel.",
+        "Nicht ein Trainer beendet den Kampf auf diese Weise."
+      ],
+      "short": "Das Wiedererkennen unterbricht den Kampf.",
+      "context": "Menschen wollen die erwachsenen Tiere gegeneinander antreten lassen. Kumal und Sangha erkennen jedoch ihren Bruder und kehren zum vertrauten Spiel zurück. Die Szene stellt die Bindung der Tiere gegen die Rolle, die ihre Besitzer und Zuschauer ihnen zugedacht haben.",
+      "anchor": "Die Brüder verweigern durch Wiedererkennen den Kampf.",
+      "interest": "Eine Beziehung durchbricht die menschlich inszenierte Gewaltsituation.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Woran wird die Mutter der Tiger bei der Wiedervereinigung in @ erkennbar?",
+      "answers": [
+        "An der Verletzung eines Ohres",
+        "An einem goldenen Halsband",
+        "An vollständig weißen Pfoten",
+        "An einem Brandzeichen des Zirkus"
+      ],
+      "feedback": [
+        "Die frühere Schussverletzung am Ohr identifiziert sie.",
+        "Ein Goldhalsband trägt sie dafür nicht.",
+        "Weiße Pfoten sind nicht das Wiedererkennungszeichen.",
+        "Sie wird nicht als gebrandmarktes Zirkustier erkannt."
+      ],
+      "short": "Die frühere Schussverletzung am Ohr identifiziert sie.",
+      "context": "Der Jäger McRory (Guy Pearce) hatte die Tigermutter früher am Ohr verletzt. Beim späteren Wiedersehen wird diese Spur zum Beleg ihrer Identität. Ein Zeichen menschlicher Gewalt erhält damit eine zweite Funktion: Es lässt die Rückkehr zur ursprünglichen Familie nachvollziehbar werden.",
+      "anchor": "Das verletzte Ohr verbindet Anfang und Wiederkehr.",
+      "interest": "Ein sichtbarer Befund stellt den zeitlichen Zusammenhang her.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum wurden die Tigerfiguren in @ bei manchen Aufnahmen von unterschiedlichen Tieren verkörpert?",
+      "answers": [
+        "Die Tiere hatten unterschiedliche Fähigkeiten für bestimmte Szenen.",
+        "Die zwei Rollen wurden für jede Kameraeinstellung neu ausgelost.",
+        "Die Tiere mussten ständig ersetzt werden, weil jede Aufnahme nur einmal möglich war.",
+        "Das Team wählte für Nahaufnahmen gezielt Angehörige anderer Großkatzenarten."
+      ],
+      "feedback": [
+        "Für einzelne Aufgaben wie Verfolgungen kamen passende Tierdoubles zum Einsatz.",
+        "Die Besetzung folgte passenden Fähigkeiten, nicht einer Auslosung.",
+        "Die Tierdoubles werden im Presseheft über besondere Eignung erklärt.",
+        "Die Figuren wurden durch passende Tiger dargestellt, nicht durch andere Arten."
+      ],
+      "short": "Wie bei Stuntdoubles übernahmen andere Tiger Aufgaben, für die sie besonders geeignet waren.",
+      "context": "Das Presseheft beschreibt eine Besetzung mit Tierdoubles: Ein Tiger konnte einen besonders ausdrucksvollen Blick haben, aber wenig geeignet zum Rennen sein. Für eine Verfolgung übernahm dann ein ähnliches Tier mit dieser Fähigkeit. Die Figuren Kumal und Sangha wirken als jeweils ein Tier, obwohl mehrere Tiere ihre unterschiedlichen Handlungen darstellen.",
+      "anchor": "Ein Tigercharakter kann mehrere tierische Darsteller haben.",
+      "interest": "Die Produktionsentscheidung erklärt, wie ein zusammenhängender Tiercharakter auf der Leinwand entsteht.",
+      "sources": [
+        "presse"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ unter dem Originaltitel „Deux Frères“ erstmals im Kino?",
+      "answers": [
+        "2004",
+        "2000",
+        "2008",
+        "2012"
+      ],
+      "feedback": [
+        "Der französische Kinostart liegt 2004.",
+        "2000 liegt vier Jahre davor.",
+        "2008 liegt vier Jahre danach.",
+        "2012 liegt acht Jahre danach."
+      ],
+      "short": "Der französische Kinostart liegt 2004.",
+      "context": "Jean-Jacques Annauds Der Bär erschien 1988. Zwei Brüder folgte 2004, sechzehn Jahre später, und rückte nun zwei Tiger in den Mittelpunkt. Der Zeitanker verbindet zwei Tierabenteuer desselben Regisseurs. Die Geschichten geben den Tieren eigene Bindungen und Gefahren, statt sie nur als Hintergrund für menschliche Helden zu verwenden. Die Jahre markieren unterschiedliche Kapitel dieser wiederkehrenden filmischen Perspektive.",
+      "anchor": "1988 Der Bär – 2004 Zwei Brüder: sechzehn Jahre Annauds Tierabenteuer.",
+      "interest": "Der Inhalt verankert das Jahr der französischen Erstveröffentlichung.",
+      "sources": [
+        "studio",
+        "presse",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Guy Pearce und Freddie Highmore?",
+      "answers": [
+        "Jean-Jacques Annaud",
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Jacques Perrin"
+      ],
+      "feedback": [
+        "Jean-Jacques Annaud führte Regie.",
+        "Besson trägt diesen Credit nicht.",
+        "Jeunet inszenierte den Film nicht.",
+        "Perrin führte hier nicht Regie."
+      ],
+      "short": "Jean-Jacques Annaud führte Regie.",
+      "context": "Jean-Jacques Annaud erzählt die Trennung und Rückkehr der Tiger mit lebenden Tieren und menschlichen Nebenfiguren. Die offizielle Studioseite nennt ihn als Regisseur. Der Film verbindet die Tierperspektive mit einer Geschichte über Gefangenschaft, Zuneigung und die Möglichkeit eines Lebens in Freiheit.",
+      "anchor": "Annaud lässt die Tigerbrüder zurückfinden.",
+      "interest": "Der Credit wird an die erzählte Tierbeziehung gebunden.",
+      "sources": [
+        "studio"
+      ]
+    }
+  ]
+}

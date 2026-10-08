@@ -1,0 +1,213 @@
+{
+  "rank": 34,
+  "directors": [
+    "Martin Bourboulon"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Deutschland",
+    "Spanien",
+    "Belgien"
+  ],
+  "country_note": "Pathé nennt Frankreich als Nationalität und führt die Koproduktionspartner Constantin, DeAPlaneta und Umedia auf; die vier Länder sind in der Filmquelle ausdrücklich zusammengeführt.",
+  "release_note": "Erste Kinoveröffentlichung am 5. April 2023 in Frankreich und Belgien.",
+  "familiarity_reason": "Die neue französische Staradaption mit François Civil und Eva Green richtet sich vor allem an Genrekenner.",
+  "series": {
+    "name": "Die drei Musketiere (Martin Bourboulon)",
+    "position": 1,
+    "note": "Erster Kinofilm des Zweiteilers; Milady folgt im selben Veröffentlichungsjahr."
+  },
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Three_Musketeers:_D%27Artagnan",
+    "studio": "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-dartagnan/",
+    "sequel": "https://www.pathefilms.com/fr/films/les-trois-mousquetaires-milady/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Mit welchem Ziel kommt D’Artagnan (François Civil) in @ nach Paris?",
+      "answers": [
+        "Er möchte in die königlichen Musketiere aufgenommen werden",
+        "Er will in Richelieus Kardinalsgarde eintreten",
+        "Er sucht eine Stelle als Fechtlehrer am Hof",
+        "Er möchte als Diener eines Gesandten nach England reisen"
+      ],
+      "feedback": [
+        "Er will Musketier werden.",
+        "Der Kardinalsgarde will er nicht beitreten.",
+        "Er kommt nicht mit dem Plan, Hoflehrer zu werden.",
+        "Ein Dienst bei einem englischen Gesandten ist nicht sein Ziel."
+      ],
+      "short": "D’Artagnan will Musketier werden.",
+      "context": "D’Artagnan (François Civil) reist als ehrgeiziger junger Mann aus der Gascogne nach Paris. Hauptmann Tréville (Marc Barbé) kannte seinen Vater und rät ihm zum Einstieg als Kadett. Der Aufbruch führt also nicht unmittelbar zur fertigen Heldenrolle. Erst Begegnungen, Konflikte und bewährte Loyalität machen aus dem Bewerber einen Angehörigen der königlichen Truppe.",
+      "anchor": "Der Gasconer kommt als Bewerber nach Paris.",
+      "interest": "Ein zugänglicher Einstieg in die Laufbahn der Hauptfigur.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was verbindet D’Artagnan (François Civil) in @ erstmals im Kampf mit Athos, Porthos und Aramis?",
+      "answers": [
+        "Ein gemeinsamer Gegner unterbricht ihre geplanten Duelle",
+        "Der König ordnet ein Fechtturnier gegen Spanien an",
+        "Ein Schiffbruch zwingt sie zum gemeinsamen Überleben",
+        "Sie befreien gemeinsam Buckingham aus dem Gefängnis"
+      ],
+      "feedback": [
+        "Die Kardinalsgarden greifen die zum Duell versammelten Männer an.",
+        "Ein offizielles Turnier bringt sie nicht zusammen.",
+        "Die erste Kampfgemeinschaft entsteht nicht durch einen Schiffbruch.",
+        "Eine gemeinsame Gefängnisbefreiung Buckinghams ist nicht der Auslöser."
+      ],
+      "short": "Kardinalsgarden machen aus geplanten Gegnern eine Kampfgemeinschaft.",
+      "context": "D’Artagnan (François Civil) beleidigt nacheinander Athos (Vincent Cassel), Porthos (Pio Marmaï) und Aramis (Romain Duris). Drei verabredete Duelle führen sie an denselben Ort. Als die Kardinalsgarden einschreiten, stellen sich die Männer gemeinsam gegen sie. Der Wechsel von gekränkter Ehre zu Solidarität ist damit nicht nur ein Motto, sondern entsteht aus einer konkreten Gefahr.",
+      "anchor": "Aus drei Duellen wird ein gemeinsamer Kampf.",
+      "interest": "Erklärt den Wandel von Rivalität zu Zusammenhalt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Weshalb wird Athos (Vincent Cassel) in @ zum Tod verurteilt?",
+      "answers": [
+        "Eine ermordete Frau wird in seinem Bett gefunden",
+        "Er gesteht einen Anschlag auf Buckingham",
+        "Er hat dem König falsche Diamanten verkauft",
+        "Er wird beim Diebstahl des königlichen Siegels gefasst"
+      ],
+      "feedback": [
+        "Der Fund belastet ihn als vermeintlichen Mörder, obwohl er falsch beschuldigt wird.",
+        "Ein gestandener Anschlag auf Buckingham ist nicht die Anklage.",
+        "Ein Betrug mit Diamanten erklärt sein Urteil nicht.",
+        "Ein Siegeldiebstahl ist nicht der Grund der Verurteilung."
+      ],
+      "short": "Eine ermordete Frau in seinem Bett führt zu einer falschen Mordanklage.",
+      "context": "Athos (Vincent Cassel) wird durch den Fund einer erstochenen Frau in seinem Bett belastet. D’Artagnan (François Civil) erkennt in ihr die junge Frau, deren Entführung er auf seiner Reise nach Paris verhindern wollte. Die Verbindung zwischen dem frühen Angriff und der späteren Anklage gibt den Freunden einen Ermittlungsansatz. Ihr Zusammenhalt verlangt nun mehr als Geschick mit dem Degen.",
+      "anchor": "Der scheinbar private Mordfund führt zurück zum Reiseauftakt.",
+      "interest": "Verbindet einen frühen Vorfall mit der späteren Intrige.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum muss D’Artagnan (François Civil) in @ die Diamanten aus England zurückholen?",
+      "answers": [
+        "Die Königin muss das Geschenk des Königs bei einer Hochzeit tragen",
+        "Buckingham hat sie als Lösegeld für Athos gefordert",
+        "Der König möchte sie der Braut seiner Hochzeit schenken",
+        "Die Königin braucht ihren Verkaufserlös für eine heimliche Flucht"
+      ],
+      "feedback": [
+        "Sie muss die verschenkten Diamanten bei der Hochzeit tragen.",
+        "Athos wird nicht durch dieses Lösegeld gerettet.",
+        "Die geforderte Verwendung ist das Tragen durch die Königin.",
+        "Ein geplanter Verkauf für eine Flucht ist nicht der Anlass."
+      ],
+      "short": "Die Königin soll die verschenkten Diamanten bei einer Hochzeit tragen.",
+      "context": "Königin Anne (Vicky Krieps) gibt Buckingham (Jacob Fortune-Lloyd) die Diamanten, die ihr der König geschenkt hat, als Erinnerung. Als Louis XIII. (Louis Garrel) verlangt, sie bei der Hochzeit seines Bruders zu tragen, droht ihre Beziehung sichtbar zu werden. Constance (Lyna Khoudri) schickt D’Artagnan (François Civil) deshalb nach England. Ein privates Geschenk wird zu einer Gefahr am Hof.",
+      "anchor": "Die verschenkten Diamanten müssen vor der Hochzeit zurück.",
+      "interest": "Erklärt Auftrag, Frist und drohende Konsequenz zusammen.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wer befreit Athos (Vincent Cassel) in @ auf dem Weg zu seiner Hinrichtung?",
+      "answers": [
+        "Sein Bruder mit protestantischen Verbündeten",
+        "Der König mit seiner persönlichen Leibwache",
+        "Buckingham mit englischen Matrosen",
+        "Milady mit Richelieus Kardinalsgarde"
+      ],
+      "feedback": [
+        "Sein jüngerer Bruder und dessen Verbündete greifen ein.",
+        "Der König führt diese Befreiung nicht persönlich aus.",
+        "Eine englische Marineeinheit rettet Athos hier nicht.",
+        "Milady und die Kardinalsgarde sind nicht die Befreier."
+      ],
+      "short": "Athos wird von seinem Bruder und dessen protestantischen Verbündeten befreit.",
+      "context": "Athos (Vincent Cassel) entkommt auf dem Weg zur Hinrichtung durch das Eingreifen seines jüngeren Bruders und protestantischer Verbündeter. Die familiäre Rettung verknüpft ihn mit einer Partei des politischen Konflikts. Später gehört diese Verbindung zur Gefahr für den König. Der Film lässt persönliche Loyalität und staatliche Treue dadurch nicht einfach deckungsgleich werden.",
+      "anchor": "Brüderliche Hilfe zieht Athos in den religiösen Machtkonflikt.",
+      "interest": "Eröffnet den Konflikt zwischen Familie und königlicher Loyalität.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum lehnt Louis XIII. (Louis Garrel) in @ zunächst den geforderten Krieg gegen La Rochelle ab?",
+      "answers": [
+        "Er will die religiösen Kriege seiner Vorgänger nicht wiederholen",
+        "Er will zunächst die Hilfe Englands gegen Spanien abwarten",
+        "Er will erst die Zustimmung der Königin zum Feldzug erhalten",
+        "Er hält den Angriff für die alleinige Aufgabe des Kardinals"
+      ],
+      "feedback": [
+        "Er lehnt eine Wiederholung der Religionskriege ab.",
+        "Die Wartezeit auf englische Hilfe erklärt seine Haltung nicht.",
+        "Eine ausstehende Zustimmung der Königin ist nicht sein Grund.",
+        "Er überträgt den Krieg nicht als Privatangelegenheit an Richelieu."
+      ],
+      "short": "Der König will die früheren Religionskriege nicht wiederholen.",
+      "context": "Louis XIII. (Louis Garrel) wird von Beratern und seinem Bruder Gaston (Julien Frison) zum Krieg gegen die protestantische Hochburg La Rochelle gedrängt. Er verweigert die Zustimmung mit Blick auf die Religionskriege seiner Vorgänger. Die Intrige spielt daher vor einem ernsthaften politischen Konflikt. Die Abenteuerhelden verteidigen nicht nur eine Person, sondern auch deren Entscheidung gegen eine neue Eskalation.",
+      "anchor": "Louis’ Zögern verweist auf die Erfahrung früherer Religionskriege.",
+      "interest": "Zeigt den historischen Konfliktrahmen der persönlichen Abenteuer.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit François Civil und Eva Green erstmals veröffentlicht?",
+      "answers": [
+        "2023",
+        "2015",
+        "2018",
+        "2026"
+      ],
+      "feedback": [
+        "2023 ist das erste Veröffentlichungsjahr.",
+        "2015 liegt vor dieser Produktion.",
+        "2018 ist für diese Veröffentlichung zu früh.",
+        "2026 liegt nach dem ersten Kinostart."
+      ],
+      "short": "D’Artagnan erschien 2023.",
+      "context": "D’Artagnan kam im April 2023 ins Kino; Milady folgte im Dezember desselben Jahres. Beide Teile des von Martin Bourboulon inszenierten Zweiteilers teilen sich somit ein Veröffentlichungsjahr. François Civil spielt D’Artagnan und Eva Green Milady. Der Abstand von rund acht Monaten ordnet die offene Fortsetzung unmittelbar dem ersten Abenteuer zu und macht 2023 als gemeinsames Jahr beider Teile merkbar.",
+      "anchor": "2023 beginnt mit D’Artagnan und endet mit Milady.",
+      "interest": "Individueller Zeitanker zur Struktur des Zweiteilers.",
+      "sources": [
+        "studio",
+        "sequel"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit François Civil und Eva Green Regie?",
+      "answers": [
+        "Martin Bourboulon",
+        "Richard Lester",
+        "Paul W. S. Anderson",
+        "Peter Hyams"
+      ],
+      "feedback": [
+        "Martin Bourboulon inszenierte diesen französischen Zweiteiler.",
+        "Lester gehört zu einer früheren englischsprachigen Bearbeitung.",
+        "Anderson inszenierte die Luftschiff-Fassung, nicht diese.",
+        "Hyams führte bei The Musketeer Regie, nicht hier."
+      ],
+      "short": "Martin Bourboulon führte Regie.",
+      "context": "Martin Bourboulon inszeniert den ersten Teil einer zusammenhängenden Dumas-Adaption. Auch die Fortsetzung Milady gehört zu seiner Regiearbeit. François Civil, Vincent Cassel, Romain Duris und Pio Marmaï bilden die Musketiergruppe; Eva Green spielt ihre gefährliche Gegenspielerin. Der Auftrag verbindet damit zwei Kinofilme, deren Abenteuer und Figurenkonflikte als fortgesetzte Geschichte angelegt sind.",
+      "anchor": "Bourboulon führt D’Artagnan und Milady durch beide Kinoteile.",
+      "interest": "Ordnet die filmische Verantwortung dem konkreten Zweiteiler zu.",
+      "sources": [
+        "studio",
+        "sequel"
+      ]
+    }
+  ]
+}

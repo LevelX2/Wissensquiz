@@ -1,3 +1,4 @@
+import { catalogCounts } from "./catalog-counts";
 import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import { renderToStaticMarkup } from "react-dom/server";
@@ -199,8 +200,10 @@ it("ergänzt den offiziellen Katalog einmal und erhält sämtliche vorhandenen F
   );
   addPackages(state, contents);
   expect(state.questions.slice(0, before.length)).toEqual(before);
-  expect(state.questions).toHaveLength(10877);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(10315);
+  expect(state.questions).toHaveLength(catalogCounts.questions);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(
+    catalogCounts.goals,
+  );
   const once = structuredClone(state.questions);
   addPackages(state, contents);
   expect(state.questions).toEqual(once);

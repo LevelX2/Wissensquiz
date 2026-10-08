@@ -5,9 +5,11 @@
 
 04.10.2026 – **Bestandsredaktion abgeschlossen:** Vier Blöcke mit insgesamt 1.099 überarbeiteten bestehenden Fragen. 341 Tests in 57 Dateien, Build und Quellen-/Katalogprüfung erfolgreich. Seit Sites-Version 54 veröffentlicht. [Texte, Quellen und Prüfgrenzen](../docs/Bestandsredaktion-2026-10-04/Index.json).
 
-Stand: 07.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten Stand von der lokalen Umsetzung. Historische Meldungen und frühere Zahlen sind vollständig in der [Projektstart-Historie](00%20Projektstart-Historie-2026-10-03.md) und chronologisch im [Log](03%20Betrieb/Log.md) erhalten.
+Stand: 08.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten Stand von der lokalen Umsetzung. Historische Meldungen und frühere Zahlen sind vollständig in der [Projektstart-Historie](00%20Projektstart-Historie-2026-10-03.md) und chronologisch im [Log](03%20Betrieb/Log.md) erhalten.
 
 ## Aktueller Stand
+
+- **Genreausbau im autorisierten Worktree:** Abenteuer vollständig lokal geprüft und eingebunden: 100 Filme / 802 Fragen; 43 Filme / 344 Fragen neu. Lokaler Katalog 25 Pakete / 11.221 Fragen / 10.659 Ziele. 383 Logiktests, Build und 26 Browserfälle erfolgreich. Acht weitere Genres stehen noch aus; Thriller folgt. Noch nicht veröffentlicht. [Plan und Abnahme](../docs/Genres-100-2026-10-08/Plan.md).
 
 - **Version 57 öffentlich veröffentlicht am 07.10.2026 um 16:29:48 Uhr Europe/Berlin:** gesamter committeter Main-Stand mit 200 Bildfragen / 400 Fotos sowie 2.480 weiteren Fragen. Öffentlicher Zugriff erhalten, Onlinekatalog 10.877 Fragen, Duellkatalog 9.047 Fragen; vorherige Duellfragen und private Spielstände unverändert. 380 Tests, 27 gezielte Browserfälle, Versionsbuild und Archivgleichheit erfolgreich. [Betriebs- und Veröffentlichungsnachweis](../docs/Sites-Betrieb.md#version-57-200-bildfragen-mit-400-fotos-und-2480-weitere-fragen).
 

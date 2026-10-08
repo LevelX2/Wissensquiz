@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 08.10.2026 – Abenteuer lokal auf 100 Filme erweitert
+
+43 neue Filmfassungen und 344 individuelle Fragen, nun 100 Abenteuerfilme / 802 Fragen. Lokaler Gesamtkatalog 25 Pakete / 11.221 Fragen / 10.659 Ziele. **383 Tests in 65 Dateien, TypeScript/Build und 26 unterschiedliche Browserfälle bestanden**, ein geplanter WebKit-Desktopfall übersprungen. Isolierte Profile, kontrollierte Testzeit und ausschließlich synthetische Spielstände; alle vorherigen Fragen/Versionen und Lernstände erhalten. Formale Warnungen auf null, kompletter redaktioneller Gegencheck, Quellen und Regieteams/Fassungen dokumentiert. Lokaler autorisierter Worktree, noch nicht veröffentlicht. [Vollständige Abnahme und frühere Prüfbefunde](Genres-100-2026-10-08/Abenteuer/Pruefbericht.md).
+
 ## 07.10.2026 – Main-Stand als Version 57 veröffentlicht
 
 200 Schauspieler-Bildfragen mit je zwei Fotos (400 Bilder) sowie die 2.480 weiteren Fragen öffentlich veröffentlicht. Gesamt 24 Pakete / 10.877 Fragen / 10.315 Ziele. 380 Tests in 64 Dateien und 27 gezielte Browserfälle für den identischen Quellstand wiederverwendet; ein geplanter WebKit-Desktopfall übersprungen. TypeScript/Produktionsbuild mit Versionsnummer 57 erneut erfolgreich, alle 468 paketierten Produktionsdateien bytegleich zum Build bestätigt. Offline-Paket `film-4e5844977cd4` mit 466 Dateien. Native Veröffentlichung `succeeded`, öffentlicher Zugriff Revision 2 erhalten.

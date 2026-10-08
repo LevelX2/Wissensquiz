@@ -1,0 +1,204 @@
+{
+  "rank": 9,
+  "directors": [
+    "Richard Lester"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA"
+  ],
+  "country_note": "Criterion nennt Großbritannien und USA; andere Kataloge reduzieren die Herkunft auf Großbritannien.",
+  "release_note": "Erstveröffentlichung 1974; die britische Veröffentlichung folgte 1975.",
+  "familiarity_reason": "Der zweite Lester-Musketierfilm ist ein prägender, heute eher von Genrekennern erinnerter Dumas-Film.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Four_Musketeers_(1974_film)",
+    "edition": "https://www.criterion.com/films/29910-the-four-musketeers"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wer betreibt in @ die Racheintrige gegen D’Artagnan (Michael York) und Constance (Raquel Welch)?",
+      "answers": [
+        "Milady de Winter (Faye Dunaway)",
+        "Königin Anne (Geraldine Chaplin)",
+        "Aramis (Richard Chamberlain)",
+        "Planchet (Roy Kinnear)"
+      ],
+      "feedback": [
+        "Milady verfolgt die beiden mit ihrer Rache.",
+        "Die Königin ist nicht die Urheberin dieser Rache.",
+        "Aramis gehört zu den Verbündeten.",
+        "Planchet unterstützt seinen Herrn."
+      ],
+      "short": "Milady verfolgt die beiden mit ihrer Rache.",
+      "context": "Milady de Winter (Faye Dunaway) macht aus einem politischen Auftrag einen persönlichen Racheplan. D’Artagnan (Michael York) und Constance (Raquel Welch) geraten deshalb zwischen Hofintrigen und die Feindschaft einer einzelnen Frau. Der zweite Film setzt einen deutlich bedrohlicheren Schwerpunkt.",
+      "anchor": "Milady macht Politik zur persönlichen Rache.",
+      "interest": "Die Gegnerin und ihr Motiv werden zusammen erschlossen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wo bringen die Freunde Constance (Raquel Welch) in @ zunächst in Sicherheit?",
+      "answers": [
+        "In einem Kloster",
+        "In einem versteckten Haus in Paris",
+        "In einem Gasthof bei La Rochelle",
+        "In einem abgelegenen Landsitz Athos’"
+      ],
+      "feedback": [
+        "Sie verstecken sie im Kloster von Armentières.",
+        "Sie wird ins Kloster von Armentières gebracht.",
+        "Ein Gasthof ist nicht ihr Schutzort.",
+        "Ein Familienlandsitz bietet ihr hier nicht die Zuflucht."
+      ],
+      "short": "Sie verstecken sie im Kloster von Armentières.",
+      "context": "Nach der Befreiung Constances (Raquel Welch) suchen die Freunde einen geschützten Ort. Das Kloster von Armentières scheint diese Sicherheit zu bieten. Der weitere Verlauf zeigt jedoch, dass räumlicher Rückzug die Verfolgung durch Milady (Faye Dunaway) und Rochefort (Christopher Lee) nicht beendet.",
+      "anchor": "Constance sucht Schutz im Kloster.",
+      "interest": "Der vermeintlich sichere Ort erklärt die spätere Gefahr.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Mit welchem scheinbar harmlosen Geschenk versucht Milady (Faye Dunaway) in @, D’Artagnan (Michael York) zu töten?",
+      "answers": [
+        "Vergifteten Wein",
+        "Ein präparierter Schmuckring",
+        "Ein versiegelter Brief mit vergiftetem Papier",
+        "Ein Beutel mit vergifteten Arzneien"
+      ],
+      "feedback": [
+        "Sie sendet Wein als tödliche Falle.",
+        "Das konkrete Giftgeschenk ist Wein statt Schmuck.",
+        "Die Nachricht enthält eine List, doch das Gift befindet sich im Wein.",
+        "Vergiftete Arzneien sind nicht das geschickte Mittel."
+      ],
+      "short": "Sie sendet Wein als tödliche Falle.",
+      "context": "Milady (Faye Dunaway) verbindet den Wein mit einer Nachricht, die D’Artagnan (Michael York) aus dem sicheren Umfeld locken soll. Ein gefangener Gegner trinkt später davon und stirbt. Erst dieses Ereignis macht sichtbar, welche Gefahr sich hinter dem vermeintlichen Geschenk verbarg.",
+      "anchor": "Miladys Geschenk ist eine Giftfalle.",
+      "interest": "Der Ablauf macht eine Intrige anhand ihrer Wirkung verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie bringt Milady (Faye Dunaway) in @ Buckingham (Simon Ward) schließlich zu Fall?",
+      "answers": [
+        "Sie gewinnt ihren Bewacher Felton für einen Mord.",
+        "Sie nutzt seine Einladung zu einem vertraulichen Gespräch für einen Dolchangriff.",
+        "Sie lässt Rochefort einen Überfall auf seine Kutsche ausführen.",
+        "Sie bedroht ihn mit der Entführung der Königin."
+      ],
+      "feedback": [
+        "Felton wird von ihr zum Täter gemacht.",
+        "Ein früher direkter Mordversuch scheitert; Felton führt den späteren Mord aus.",
+        "Rochefort ermordet Buckingham nicht bei einem Kutschenüberfall.",
+        "Die entscheidende Methode ist die Beeinflussung des Bewachers."
+      ],
+      "short": "Felton wird von ihr zum Täter gemacht.",
+      "context": "Buckingham (Simon Ward) lässt Milady (Faye Dunaway) einsperren. Sie beeinflusst ihren Bewacher Felton (Michael Gothard) und entkommt. Felton tötet den Herzog, bevor Planchet (Roy Kinnear) ihn warnen kann. Gefangenschaft stoppt ihre Intrige deshalb nicht, sondern eröffnet einen neuen Weg.",
+      "anchor": "Milady macht den Bewacher zum Werkzeug.",
+      "interest": "Die Täterkette erklärt einen indirekt ausgeführten Anschlag.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum kann D’Artagnan (Michael York) in @ Richelieus (Charlton Heston) eigenes Schriftstück zu seiner Verteidigung verwenden?",
+      "answers": [
+        "Die Vollmacht benennt ihre erlaubten Handlungen absichtlich nicht genau.",
+        "Die Vollmacht ist nur auf den König anwendbar und macht ihn zum Richter.",
+        "Die Unterschrift wird als spätere Fälschung entlarvt.",
+        "Das Schriftstück verlangt ausdrücklich eine Begnadigung der Musketiere."
+      ],
+      "feedback": [
+        "Die offene Formulierung lässt eine Umdeutung zu.",
+        "Es wirkt wegen seiner unbestimmten Autorisierung, nicht einer solchen Zuständigkeitsregel.",
+        "Die echte Unterschrift des Kardinals ist gerade entscheidend.",
+        "Eine ausdrückliche Musketier-Begnadigung steht nicht darin."
+      ],
+      "short": "Die offene Formulierung lässt eine Umdeutung zu.",
+      "context": "Richelieu (Charlton Heston) will Milady (Faye Dunaway) freie Hand geben, ohne sich auf Einzelheiten festzulegen. Genau diese Unbestimmtheit nutzt D’Artagnan (Michael York). Die Vollmacht schützt schließlich die Verfolger der Frau, für deren Machenschaften sie ursprünglich gedacht war.",
+      "anchor": "Die offene Vollmacht schützt unerwartete Handlungen.",
+      "interest": "Der juristische Wortlaut wird als Ursache der Wendung verstanden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entstehungsweise erklärt, dass @ unmittelbar an Lesters ersten Musketierfilm anschließt?",
+      "answers": [
+        "Beide Filme entstanden ursprünglich als ein gemeinsames Drehprojekt.",
+        "Er wurde Jahre später mit einem neu zusammengesetzten Ensemble gedreht.",
+        "Er war eine Wiederverfilmung mit derselben Besetzung statt einer Fortsetzung.",
+        "Er wurde zunächst als Fernsehserie produziert und zum Kinofilm gekürzt."
+      ],
+      "feedback": [
+        "Das zusammen gedrehte Material wurde auf zwei Filme verteilt.",
+        "Die beiden Filme entstanden im selben zusammenhängenden Drehprojekt.",
+        "Die Veröffentlichung setzt die Handlung fort statt sie neu zu beginnen.",
+        "Eine vorausgehende Fernsehserie erklärt die Entstehung nicht."
+      ],
+      "short": "Das zusammen gedrehte Material wurde auf zwei Filme verteilt.",
+      "context": "Richard Lester und sein Ensemble drehten den Dumas-Stoff zunächst als zusammenhängendes Projekt. Daraus wurden zwei Veröffentlichungen. Die direkte Fortsetzung beruht deshalb auf gemeinsamen Dreharbeiten und einer anschließenden Aufteilung, nicht auf einem erst viel später neu entwickelten Stoff.",
+      "anchor": "Ein Drehprojekt wurde zu zwei Filmen.",
+      "interest": "Die ungewöhnliche Produktionsform erklärt die enge Verbindung.",
+      "sources": [
+        "edition"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Michael York erstmals?",
+      "answers": [
+        "1974",
+        "1970",
+        "1978",
+        "1982"
+      ],
+      "feedback": [
+        "Die Fortsetzung erschien erstmals 1974.",
+        "1970 liegt vier Jahre davor.",
+        "1978 liegt vier Jahre danach.",
+        "1982 liegt acht Jahre danach."
+      ],
+      "short": "Die Fortsetzung erschien erstmals 1974.",
+      "context": "Der erste Lester-Musketierfilm erschien 1973, der zweite 1974. Das gemeinsam gedrehte Abenteuer erreichte das Publikum damit in zwei aufeinanderfolgenden Jahren. Die britische Auswertung des zweiten Films folgte später; das Filmjahr richtet sich nach der ersten Veröffentlichung.",
+      "anchor": "1973 drei – 1974 vier Musketiere.",
+      "interest": "Die direkt benachbarten Veröffentlichungen geben einen spezifischen Jahresanker.",
+      "sources": [
+        "handlung",
+        "edition"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Michael York und Faye Dunaway Regie?",
+      "answers": [
+        "Richard Lester",
+        "George Sidney",
+        "Richard Thorpe",
+        "Peter Yates"
+      ],
+      "feedback": [
+        "Richard Lester inszenierte beide Teile.",
+        "Sidney inszenierte die ältere Gene-Kelly-Fassung.",
+        "Thorpe trägt diesen Credit nicht.",
+        "Yates trägt diesen Credit nicht."
+      ],
+      "short": "Richard Lester inszenierte beide Teile.",
+      "context": "Richard Lester führt die Komik seines ersten Musketierfilms in einen ernsteren Rachekonflikt. Die gemeinsame Besetzung und Produktion verbinden beide Teile. Der Regiecredit betrifft diese Fassung mit Michael York und Faye Dunaway, während George Sidney die ältere MGM-Adaption inszenierte.",
+      "anchor": "Lester inszeniert beide Hälften.",
+      "interest": "Der Credit erklärt die Kontinuität der beiden Filme.",
+      "sources": [
+        "edition"
+      ]
+    }
+  ]
+}

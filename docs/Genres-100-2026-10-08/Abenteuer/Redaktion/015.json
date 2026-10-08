@@ -1,0 +1,208 @@
+{
+  "rank": 15,
+  "directors": [
+    "Randall Wallace"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Kinostart am 13. März 1998.",
+  "familiarity_reason": "DiCaprios Doppelrolle macht diese Dumas-Verfilmung einem großen Publikum zugänglich.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Man_in_the_Iron_Mask_(1998_film)",
+    "edition": "https://music.apple.com/us/music-movie/the-man-in-the-iron-mask/268657783",
+    "zeitanker": {
+      "url": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+      "supports": "Tatsächlich gelesene Infobox und Einleitung: Datum, Titel sowie Regie/Besetzung beziehungsweise Romanautor des zeitlichen Vergleichs."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Verbindung besteht in @ zwischen König Louis und dem Gefangenen Philippe, beide gespielt von Leonardo DiCaprio?",
+      "answers": [
+        "Sie sind Zwillingsbrüder.",
+        "Sie sind Halbbrüder mit verschiedenen Müttern.",
+        "Philippe ist ein eigens ausgebildeter Doppelgänger ohne Verwandtschaft.",
+        "Sie sind Cousins derselben königlichen Familie."
+      ],
+      "feedback": [
+        "Louis und Philippe sind zwei getrennte Zwillingsfiguren.",
+        "Die Filmhandlung bezeichnet sie als Zwillinge.",
+        "Die Ähnlichkeit beruht in der Geschichte auf Verwandtschaft.",
+        "Sie sind Brüder statt Cousins."
+      ],
+      "short": "Louis und Philippe sind zwei getrennte Zwillingsfiguren.",
+      "context": "Leonardo DiCaprio spielt Louis und Philippe als zwei verschiedene Menschen. Louis herrscht, Philippe wird verborgen gehalten. Ihre Ähnlichkeit ermöglicht den Austauschplan; die Doppelrolle des Darstellers bedeutet also keine tatsächliche Verwandlung einer einzigen Figur.",
+      "anchor": "Ein Darsteller, zwei Zwillingsfiguren.",
+      "interest": "Die Doppelrolle wird ohne Personenverwechslung geklärt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was wollen Athos, Porthos und Aramis in @ mit dem befreiten Philippe (Leonardo DiCaprio) erreichen?",
+      "answers": [
+        "Den grausamen König durch seinen Bruder ersetzen",
+        "Philippe als offenen Gegenkönig mit eigenem Hof ausrufen",
+        "Philippe als Druckmittel für eine Generalamnestie benutzen",
+        "Philippe zu einer Abdankung zugunsten von Athos bewegen"
+      ],
+      "feedback": [
+        "Philippe soll Louis heimlich auf dem Thron ersetzen.",
+        "Der Wechsel soll heimlich hinter derselben königlichen Identität erfolgen.",
+        "Die Befreiung zielt auf einen Austausch des Herrschers.",
+        "Philippe soll regieren; Athos beansprucht nicht die Krone."
+      ],
+      "short": "Philippe soll Louis heimlich auf dem Thron ersetzen.",
+      "context": "Athos (John Malkovich), Porthos (Gérard Depardieu) und Aramis (Jeremy Irons) befreien Philippe (Leonardo DiCaprio). Sie wollen die äußere Ähnlichkeit der Brüder nutzen, aber eine andere Art zu herrschen ermöglichen. Die Identitätstäuschung dient einem politischen Wechsel hinter unverändertem Erscheinungsbild.",
+      "anchor": "Gleiches Gesicht soll andere Herrschaft bringen.",
+      "interest": "Der Plan verbindet Doppelrolle und politisches Motiv.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum wendet sich Athos (John Malkovich) in @ gegen König Louis (Leonardo DiCaprio)?",
+      "answers": [
+        "Louis schickt seinen Sohn Raoul in den Tod.",
+        "Louis nimmt ihm den Besitz und überträgt ihn Aramis.",
+        "Louis verurteilt Porthos öffentlich wegen Verrats.",
+        "Louis bricht ein Heiratsversprechen gegenüber Athos’ Tochter."
+      ],
+      "feedback": [
+        "Raouls Tod löst den persönlichen Bruch aus.",
+        "Der konkrete Bruch entsteht durch Raouls Tod.",
+        "Eine Verurteilung Porthos’ ist nicht Athos’ Verlust.",
+        "Raoul und dessen Verlobte begründen den Konflikt, nicht eine Tochter Athos’."
+      ],
+      "short": "Raouls Tod löst den persönlichen Bruch aus.",
+      "context": "Louis (Leonardo DiCaprio) begehrt Christine (Judith Godrèche), die Verlobte Raouls (Peter Sarsgaard). Er lässt den jungen Mann an die Front schicken, wo er stirbt. Für dessen Vater Athos (John Malkovich) wird aus dem missbrauchten königlichen Befehl eine persönliche Schuld des Herrschers.",
+      "anchor": "Raouls Tod zerbricht Athos’ Treue.",
+      "interest": "Das Motiv wird über die Familienbeziehung verständlich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wodurch bemerkt D’Artagnan (Gabriel Byrne) in @ beim ersten Austausch, dass der vermeintliche König anders ist?",
+      "answers": [
+        "Er behandelt Christine unerwartet mit Mitgefühl.",
+        "Er verweigert ohne Begründung die Ansprache an die Gäste.",
+        "Er erkennt den Namen seines früheren Ministers nicht wieder.",
+        "Er benutzt bei der Begrüßung der Königin die falsche Sprache."
+      ],
+      "feedback": [
+        "Philippes Mitgefühl unterscheidet ihn von Louis.",
+        "Sein Mitgefühl für Christine ist das entscheidende Signal.",
+        "Ein vergessener Ministername verrät den Wechsel nicht.",
+        "Die auffällige Abweichung liegt in der Güte, nicht der Sprache."
+      ],
+      "short": "Philippes Mitgefühl unterscheidet ihn von Louis.",
+      "context": "Christine (Judith Godrèche) klagt den vermeintlichen König öffentlich an. Philippe (Leonardo DiCaprio) reagiert gütiger, als D’Artagnan (Gabriel Byrne) es von Louis kennt. Gerade die gewünschte menschliche Verbesserung macht den heimlichen Wechsel daher erkennbar.",
+      "anchor": "Philippes Güte verrät den Austausch.",
+      "interest": "Die Frage erschließt einen Widerspruch im Austauschplan.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche Verantwortung belastet Aramis (Jeremy Irons) gegenüber Philippe (Leonardo DiCaprio) in @?",
+      "answers": [
+        "Er hatte Philippe im Auftrag des Königs maskieren und einsperren lassen.",
+        "Er hatte Philippe die falsche Nachricht vom Tod seiner Mutter gebracht.",
+        "Er hatte Philippe als Jungen an einen ausländischen Hof verkauft.",
+        "Er hatte Philippe durch einen gescheiterten Fluchtplan erneut verraten."
+      ],
+      "feedback": [
+        "Aramis war an der ursprünglichen Gefangenschaft beteiligt.",
+        "Sein Schuldanteil betrifft Maskierung und Haft.",
+        "Ein Verkauf an einen fremden Hof ist nicht sein Auftrag gewesen.",
+        "Er will seine frühere Beteiligung an der Gefangenschaft wiedergutmachen."
+      ],
+      "short": "Aramis war an der ursprünglichen Gefangenschaft beteiligt.",
+      "context": "Aramis (Jeremy Irons) kennt die verborgene Familiengeschichte und seine eigene Rolle darin. Mit der Befreiung Philippes (Leonardo DiCaprio) will er einen früheren königlichen Auftrag wiedergutmachen. Seine politische Intrige hat dadurch auch eine persönliche Seite: Er versucht, eigenes Unrecht zu korrigieren.",
+      "anchor": "Aramis befreit den Mann, den er selbst einsperren ließ.",
+      "interest": "Das Befreiungsmotiv wird um Schuld und Wiedergutmachung erweitert.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Was erklärt D’Artagnans (Gabriel Byrne) besondere Verbindung zu beiden Brüdern in der Filmhandlung von @?",
+      "answers": [
+        "Er ist ihr leiblicher Vater.",
+        "Er hatte beide im Auftrag ihres Vaters heimlich erzogen.",
+        "Er hatte als erster die Geburt der Zwillinge dokumentiert.",
+        "Er hatte durch einen Eid die alleinige Verantwortung für Philippes Haft übernommen."
+      ],
+      "feedback": [
+        "Die Filmhandlung enthüllt ihn als Vater der Zwillinge.",
+        "Die enthüllte Bindung ist biologische Vaterschaft.",
+        "Ein Geburtsprotokoll erklärt die Beziehung nicht.",
+        "Die besondere Verbindung ergibt sich nicht allein aus einem Gefangenschaftseid."
+      ],
+      "short": "Die Filmhandlung enthüllt ihn als Vater der Zwillinge.",
+      "context": "D’Artagnan (Gabriel Byrne) hat lange die Königin Anne (Anne Parillaud) geliebt. Die Filmfassung macht ihn zum Vater von Louis und Philippe (Leonardo DiCaprio). Diese erfundene Enthüllung erklärt seine zerrissene Loyalität; sie ist als Filmsachverhalt zu behandeln, nicht als belegte französische Geschichte.",
+      "anchor": "D’Artagnans Treue ist auch väterliche Bindung.",
+      "interest": "Die Enthüllung wird von historischer Tatsachenbehauptung getrennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ mit Leonardo DiCaprio in der Doppelrolle erstmals?",
+      "answers": [
+        "1998",
+        "1994",
+        "2002",
+        "2006"
+      ],
+      "feedback": [
+        "Diese Fassung erschien 1998.",
+        "1994 liegt vier Jahre davor.",
+        "2002 liegt vier Jahre danach.",
+        "2006 liegt acht Jahre danach."
+      ],
+      "short": "Diese Fassung erschien 1998.",
+      "context": "Titanic mit Leonardo DiCaprio erschien 1997. Der Mann in der eisernen Maske folgte 1998, ein Jahr später, und gab ihm eine Doppelrolle als König Louis XIV. und dessen verborgener Bruder Philippe. Der enge Abstand verbindet den romantischen Passagier des Atlantikdampfers mit zwei gegensätzlichen Figuren im französischen Königsdrama. Derselbe Darsteller trägt hier den politischen Gegensatz auch durch sein doppeltes Gesicht.",
+      "anchor": "1997 Titanic – 1998 die königliche Doppelrolle: ein Jahr Abstand.",
+      "interest": "Doppelrolle und Vertriebsnachweis verankern das Filmjahr.",
+      "sources": [
+        "handlung",
+        "edition",
+        "zeitanker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Leonardo DiCaprio und Gabriel Byrne?",
+      "answers": [
+        "Randall Wallace",
+        "Richard Lester",
+        "Jerry Zucker",
+        "George Sidney"
+      ],
+      "feedback": [
+        "Randall Wallace führte Regie.",
+        "Lester inszenierte andere Musketierfilme.",
+        "Zucker inszenierte diese Dumas-Fassung nicht.",
+        "Sidney inszenierte eine ältere Musketiergeschichte."
+      ],
+      "short": "Randall Wallace führte Regie.",
+      "context": "Randall Wallace schrieb und inszenierte diese freie Weiterführung der Musketierwelt. Die Doppelrolle Leonardo DiCaprios steht im Mittelpunkt einer Geschichte über Herrschaft und Loyalität. Die Regieangabe gilt der United-Artists-Produktion mit Gabriel Byrne und nicht allen Verfilmungen der Maskenlegende.",
+      "anchor": "Wallace führt DiCaprio hinter die Maske.",
+      "interest": "Der Credit wird der konkreten Adaption zugeordnet.",
+      "sources": [
+        "handlung",
+        "edition"
+      ]
+    }
+  ]
+}

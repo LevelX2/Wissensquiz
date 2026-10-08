@@ -9,6 +9,7 @@ import allGenresDirectorContexts from "./allGenresDirectorContexts.json" with { 
 import allGenresCountryNotes from "./allGenresCountryNotes.json" with { type: "json" };
 import film240 from "./film240Metadata.json" with { type: "json" };
 import expansion from "../docs/Erweiterung-2026-10-07/Filmdaten.json" with { type: "json" };
+import genre100 from "../docs/Genres-100-2026-10-08/Filmdaten.json" with { type: "json" };
 import expansionReferences from "../docs/Erweiterung-2026-10-07/Filmdaten-Referenzen.json" with { type: "json" };
 import type { Difficulty, Question } from "./model";
 import { fingerprint } from "./importer";
@@ -40,6 +41,9 @@ const film240ByFilm = new Map(
 );
 const expansionByFilm = new Map(
   expansion.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
+);
+const genre100ByFilm = new Map(
+  genre100.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
 );
 const expansionReferenceByFilm = new Map(
   expansionReferences.films.map((f) => [f.film_id, f]),
@@ -76,7 +80,8 @@ export function filmData(q: Question, reference?: string) {
     byFilm.get(key) ??
     (allGenresByFilm.has(key) ||
     film240ByFilm.has(key) ||
-    expansionByFilm.has(key)
+    expansionByFilm.has(key) ||
+    genre100ByFilm.has(key)
       ? undefined
       : (awardData.get(key) ?? actorData.get(key)));
   if (f) {
@@ -101,7 +106,8 @@ export function filmData(q: Question, reference?: string) {
   const newer =
     film240ByFilm.get(key) ??
     allGenresByFilm.get(key) ??
-    expansionByFilm.get(key);
+    expansionByFilm.get(key) ??
+    genre100ByFilm.get(key);
   if (!newer) {
     const reference = expansionReferenceByFilm.get(key);
     if (!reference) return undefined;

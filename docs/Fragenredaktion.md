@@ -14,6 +14,10 @@ Sammlungsbezüge vor der Redaktion anhand Titelvarianten, Filmfassungen und gege
 
 Der Nutzer hat das bereits veröffentlichte 240-Filme-Paket akzeptiert; daraus folgt keine nachträgliche Neuauswahl. [Unveränderte Präzisierung vom 07.10.2026](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-07%20Nutzerpraezisierung%20Filmauswahl%20nach%20Sammlung.txt).
 
+## Genreausbau auf 100 Filme – Auftrag vom 08.10.2026
+
+Genres unter 100 Filmen schrittweise auffüllen, beginnend mit Abenteuer. Je Genre ungefähr 20 prägende Klassiker redaktionell begründen und gegen den aktuellen Filmfragenbestand prüfen. Fehlende Kernwerke haben Vorrang, auch außerhalb der Sammlung; weitere Plätze bevorzugt mit passenden Sammlungsfilmen besetzen. Der Kern ist keine objektive Rangliste. Bereits vorhandene passende Ziele und Filmfassungen anrechnen. [Unveränderter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-08%20Nutzerauftrag%20Genres%20auf%20100%20Filme.txt), [Reihenfolge und aktuelle Abnahmen](Genres-100-2026-10-08/Plan.md).
+
 ## Schwierigkeiten und Bekanntheit
 
 | Fragenbereich | Schwierigkeiten | Bekanntheitsgruppen |
