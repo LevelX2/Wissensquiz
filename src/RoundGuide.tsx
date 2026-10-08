@@ -31,6 +31,8 @@ export function RoundGuide({ mode }: { mode: Mode }) {
               : isRecordMode(mode)
                 ? "Die Rekordrunde umfasst zehn Fragen. Die Königsklasse und jedes einzelne Genre haben getrennte Kategorien."
                 : "Die erste Runde umfasst bis zu fünf Fragen, danach sind es bis zu zehn. Bei einer kleinen Auswahl können es weniger sein."}
+            {!isRecordMode(mode) &&
+              " Die Wiederholungsübersicht zählt alle fälligen Fragen Deiner Auswahl, unabhängig von der Größe der nächsten Runde. Gerade beantwortete Fragen zählen erst ab ihrem Wiederholungstermin; Varianten desselben Wissensziels zählen einmal."}
           </p>
           {mode === "entdecken" ? (
             <p>

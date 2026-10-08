@@ -1,11 +1,12 @@
 import { describe, expect, it } from "vitest";
 import type { AnswerEvent } from "../src/model";
-import { DAY, learn } from "../src/learning";
+import { DAY, RULES, learn } from "../src/learning";
 import {
   learningAtAnswer,
   learningDueText,
   learningOverview,
   nextLearningAt,
+  repetitionOverview,
 } from "../src/learningProgress";
 
 const now = new Date(2026, 9, 4, 12).getTime();
@@ -26,6 +27,55 @@ const event = (at: number, extra: Partial<AnswerEvent> = {}): AnswerEvent => ({
 });
 
 describe("sichtbarer Lernfortschritt", () => {
+  it("zählt nur erreichte Wiederholungstermine, keine neuen Fragen oder zusätzlichen Varianten", () => {
+    const learning = {
+      secure: learn(undefined, event(now, { knowledgeId: "secure" })),
+      wrong: learn(
+        undefined,
+        event(now, { knowledgeId: "wrong", correct: false }),
+      ),
+      guessed: learn(
+        undefined,
+        event(now, { knowledgeId: "guessed", guessed: true }),
+      ),
+    };
+    const ids = ["secure", "wrong", "wrong", "guessed", "unseen"];
+    expect(repetitionOverview(ids, learning, now)).toEqual({
+      due: 0,
+      later: 3,
+      nextAt: now + RULES.wrongMs,
+    });
+    expect(repetitionOverview(ids, learning, now + RULES.wrongMs - 1).due).toBe(
+      0,
+    );
+    expect(repetitionOverview(ids, learning, now + RULES.wrongMs)).toEqual({
+      due: 1,
+      later: 2,
+      nextAt: now + RULES.guessedMs,
+    });
+    expect(repetitionOverview(ids, learning, now + RULES.guessedMs)).toEqual({
+      due: 2,
+      later: 1,
+      nextAt: now + DAY,
+    });
+    expect(repetitionOverview(ids, learning, now + DAY)).toEqual({
+      due: 3,
+      later: 0,
+      nextAt: null,
+    });
+    expect(
+      repetitionOverview(["secure"], learning, now + RULES.wrongMs),
+    ).toEqual({
+      due: 0,
+      later: 1,
+      nextAt: now + DAY,
+    });
+    expect(repetitionOverview([], learning, now)).toEqual({
+      due: 0,
+      later: 0,
+      nextAt: null,
+    });
+  });
   it("zählt Varianten gemeinsam und jede Zwischenstufe im Fortschrittsbalken", () => {
     const p1 = learn(undefined, event(now));
     const p2 = learn(p1, event(now + DAY));
@@ -86,6 +136,14 @@ describe("sichtbarer Lernfortschritt", () => {
     expect(nextLearningAt(current, recovered.at)).toBe(
       new Date(2026, 9, 5).getTime(),
     );
+    expect(repetitionOverview(["k"], { k: current }, recovered.at)).toEqual({
+      due: 0,
+      later: 1,
+      nextAt: new Date(2026, 9, 5).getTime(),
+    });
+    expect(
+      repetitionOverview(["k"], { k: current }, new Date(2026, 9, 5).getTime()),
+    ).toEqual({ due: 1, later: 0, nextAt: null });
     expect(
       learningAtAnswer([wrong, recovered], { ...recovered, guessed: true })
         .resolvedMistake,

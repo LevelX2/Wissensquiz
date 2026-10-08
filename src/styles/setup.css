@@ -1,3 +1,12 @@
+.repetition-overview {
+  padding: 12px 16px;
+  border: 1px solid #b8c5bd;
+  border-radius: 8px;
+  background: #ffffff;
+}
+.repetition-overview p {
+  margin: 6px 0 0;
+}
 .mode-grid {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));

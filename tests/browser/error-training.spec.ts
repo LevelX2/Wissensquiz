@@ -8,6 +8,7 @@ import {
 } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { answer, complete, DAY, guess, startRound } from "../../src/engine";
+import { familiarityOf } from "../../src/familiarity";
 import type { State } from "../../src/model";
 
 const now = new Date("2026-10-02T12:00:00+02:00");
@@ -34,6 +35,107 @@ async function writeState(page: Page, state: State) {
     state,
   );
 }
+
+test("Wiederholungsübersicht zählt den ganzen fälligen Pool und aktualisiert Termine, Filter und Offline-Neuladen", async ({
+  page,
+  context,
+  browserName,
+}) => {
+  await page.clock.install({ time: now });
+  await page.setViewportSize({ width: 360, height: 850 });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readState(page);
+  state.settings.sound = false;
+  const qs = [
+    ...new Map(
+      state.questions
+        .filter(
+          (q) =>
+            !q.id.startsWith("FACT-") &&
+            q.difficulty === "leicht" &&
+            familiarityOf(q) === 1 &&
+            q.metadata.subdomain === "Science-Fiction",
+        )
+        .map((q) => [q.knowledgeId, q]),
+    ).values(),
+  ].slice(0, 15);
+  expect(qs).toHaveLength(15);
+  const at = now.getTime();
+  const round = startRound(
+    state,
+    { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    at - 20 * 60_000,
+  );
+  round.questions = structuredClone(qs);
+  round.order = qs.map((q) => q.answers.map((a) => a.id));
+  round.familiaritySnapshot = undefined;
+  qs.forEach((q, i) => {
+    answer(
+      state,
+      round.id,
+      q.id,
+      i < 13 ? { dontKnow: true } : q.correctId,
+      1000,
+      i < 12 ? at - 20 * 60_000 : at,
+    );
+    if (i === 14) guess(state, `${round.id}:${q.knowledgeId}`);
+  });
+  complete(state, round.id, at);
+  state.settings.roundSetup = {
+    mode: "ueben",
+    genres: ["Science-Fiction"],
+    categories: [],
+    sources: ["film"],
+    difficulties: ["leicht"],
+    familiarities: [1],
+  };
+  await writeState(page, state);
+  await page.reload();
+  const overview = page.getByRole("status", {
+    name: "Wiederholungen in Deiner Auswahl",
+  });
+  await expect(overview).toContainText("12 Wiederholungen fällig");
+  await expect(overview).toContainText("3 später");
+  await expect(overview).toContainText("in 10 Minuten");
+  await expect(page.locator("#round-summary")).toContainText("10 Fragen");
+  await openRoundSetup(page);
+  await modePreparation(page, /Filmreise Filmwelten/).click();
+  await expect(overview).toContainText("12 Wiederholungen fällig");
+  await expect(overview).toContainText("3 später");
+  await openRoundSetup(page);
+  await modePreparation(page, /Fehlertraining Offene Fehler/).click();
+  await expect(overview).toContainText("12 Wiederholungen fällig");
+  await expect(overview).toContainText("1 später");
+  await page.clock.fastForward(10 * 60_000 + 1000);
+  await expect(overview).toContainText("13 Wiederholungen fällig");
+  await expect(overview).toContainText("keine späteren Wiederholungen");
+  await page.screenshot({
+    path: `test-results/wiederholungsuebersicht-${browserName}.png`,
+    fullPage: true,
+  });
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
+  if (browserName === "chromium") {
+    await expect
+      .poll(() => page.evaluate(() => !!navigator.serviceWorker.controller))
+      .toBe(true);
+    await context.setOffline(true);
+  }
+  await page.reload();
+  await expect(overview).toContainText("13 Wiederholungen fällig");
+  await openRoundSetup(page);
+  await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
+  await expect(overview).toContainText("0 Wiederholungen fällig");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
+});
 
 test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch nach Neuladen offline", async ({
   page,
