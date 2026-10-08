@@ -1,0 +1,214 @@
+{
+  "rank": 18,
+  "directors": [
+    "Don Siegel"
+  ],
+  "production_countries": [
+    "USA",
+    "Mexiko"
+  ],
+  "release_note": "AFI belegt Dallas am 28. Mai 1970. Dreharbeiten 1969 und der spätere mexikanische Start ersetzen das Erstjahr 1970 nicht.",
+  "country_note": "Die US-/mexikanische Koproduktion ist im AFI-Produktionsbericht ausdrücklich durch Sanens Beteiligung belegt; Mexiko ist nicht lediglich ein Drehort.",
+  "director_note": "Don Siegel führt Hauptregie. Joseph Cavalier und René Cardona sind zweite Einheit; Budd Boetticher schrieb die ursprüngliche Geschichte, inszenierte aber nicht die veröffentlichte Fassung.",
+  "familiarity_reason": "Bekannter Eastwood-Western mit Shirley MacLaine und prägender komischer Maskerade; redaktionell Bekanntheit 2.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Two_Mules_for_Sister_Sara",
+    "afi": "https://catalog.afi.com/Film/20683-",
+    "anker": "https://catalog.afi.com/Film/21478-COOGANS-BLUFF"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Gegen welche Besatzungstruppen arbeiten Hogan und Sara (Clint Eastwood, Shirley MacLaine) in @?",
+      "answers": [
+        "Französische Truppen",
+        "Spanische Truppen",
+        "Britische Truppen",
+        "US-amerikanische Truppen"
+      ],
+      "feedback": [
+        "Ihr militärisches Ziel sind die französischen Besatzungstruppen in Mexiko.",
+        "Spanische Soldaten sind nicht die Besatzungsmacht dieses Films.",
+        "Eine britische Garnison bildet nicht das Angriffsziel.",
+        "Die Rebellen greifen hier keine US-Garnison an."
+      ],
+      "short": "Die Verbündeten kämpfen gegen französische Truppen in Mexiko.",
+      "context": "Hogan (Clint Eastwood) begegnet Sara (Shirley MacLaine) während der französischen Intervention in Mexiko. Sie unterstützt die Juaristen, die gegen die Besatzung kämpfen. Hogan hat zunächst vor allem seinen eigenen Vorteil im Blick, lässt sich aber auf die Zusammenarbeit ein. Ihre Reise führt deshalb nicht nur zu persönlichen Auseinandersetzungen, sondern zu einem gemeinsamen Angriff auf eine französische Garnison.",
+      "anchor": "Die Reise mündet in einen Angriff auf die französische Besatzung.",
+      "interest": "Die konkrete Gegenseite macht die zentrale Konfliktlage zugänglich.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Gegenleistung erwartet Hogan (Clint Eastwood) in @ für seine Hilfe beim Angriff?",
+      "answers": [
+        "Einen Anteil am Geld der Garnison",
+        "Eine feste Anstellung als Offizier",
+        "Das Eigentum an der eroberten Festung",
+        "Die Begnadigung durch einen US-Gerichtshof"
+      ],
+      "feedback": [
+        "Hogan handelt eine Beteiligung am Geld der Garnison aus.",
+        "Ein Offiziersposten ist nicht seine vereinbarte Bezahlung.",
+        "Er soll nicht Eigentümer der Festung werden.",
+        "Ein US-Gerichtsverfahren begründet den Vertrag nicht."
+      ],
+      "short": "Hogan hilft gegen eine Beteiligung an der Beute.",
+      "context": "Hogan (Clint Eastwood) unterstützt die mexikanischen Revolutionäre nicht zunächst aus derselben Überzeugung wie Sara (Shirley MacLaine). Er vereinbart eine Beteiligung am Geld der französischen Garnison. Die Aussicht auf Beute verbindet sein Vorhaben mit Saras Wissen über die Festung. So entsteht eine Zusammenarbeit zwischen persönlichem Gewinninteresse und politischem Engagement, bei der beide zunächst nicht alle Absichten und Hintergründe des anderen kennen.",
+      "anchor": "Für Hogan ist der Angriff zunächst ein bezahlter Auftrag.",
+      "interest": "Die Bezahlung unterscheidet sein Motiv von Saras Engagement.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Womit dämpft Sara (Shirley MacLaine) in @ Hogans (Clint Eastwood) Schmerzen beim Entfernen des Pfeils?",
+      "answers": [
+        "Mit reichlich Whiskey",
+        "Mit einer Opiumtinktur",
+        "Mit einem betäubenden Kräuterumschlag",
+        "Mit einer Ethermaske"
+      ],
+      "feedback": [
+        "Sie macht Hogan mit Whiskey betrunken, bevor der Pfeil entfernt wird.",
+        "Eine Opiumtinktur wird hierfür nicht eingesetzt.",
+        "Ein Kräuterumschlag übernimmt diese Betäubung nicht.",
+        "Eine Ethermaske steht bei dieser Versorgung nicht im Mittelpunkt."
+      ],
+      "short": "Sara versorgt den verletzten Hogan mithilfe von Whiskey.",
+      "context": "Hogan (Clint Eastwood) wird auf dem Weg zu einem Sabotageeinsatz von einem Pfeil in die Schulter getroffen. Sara (Shirley MacLaine) muss die Verletzung versorgen und gibt ihm dafür reichlich Whiskey. Seine Betrunkenheit lockert zugleich die Kontrolle über seine Worte: Er spricht seine Anziehung zu ihr aus. Die Versorgung bringt die beiden einander näher, obwohl seine Vorstellungen über ihre Identität noch nicht stimmen.",
+      "anchor": "Whiskey verbindet die Notversorgung mit Hogans ungeschütztem Reden.",
+      "interest": "Die konkrete Versorgung erklärt eine Veränderung ihrer Beziehung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum bringt Sara (Shirley MacLaine) in @ die Sprengladung an, statt Hogan (Clint Eastwood)?",
+      "answers": [
+        "Seine verletzte Schulter verhindert das Hinaufklettern.",
+        "Er hält währenddessen französische Wachposten in Schach.",
+        "Sie kennt die Befestigungspunkte aus früherer Arbeit.",
+        "Er übernimmt allein die Vorbereitung des Fluchtwegs."
+      ],
+      "feedback": [
+        "Hogan kann wegen des Pfeils in seiner Schulter nicht hinaufklettern.",
+        "Ein Kampf mit Wachposten hält ihn nicht vom Klettern ab.",
+        "Eine frühere Arbeit am Gerüst ist nicht der Grund ihrer Aufgabe.",
+        "Ein allein vorbereiteter Fluchtweg erklärt den Wechsel nicht."
+      ],
+      "short": "Der verletzte Hogan ist auf Saras Klettereinsatz angewiesen.",
+      "context": "Die geplante Zerstörung eines französischen Munitionszugs verlangt, dass die Sprengladung hoch am Eisenbahngerüst angebracht wird. Hogan (Clint Eastwood) kann mit seiner verletzten Schulter nicht hinaufklettern. Sara (Shirley MacLaine) hat Angst vor der Höhe, übernimmt die Aufgabe aber dennoch. Die Szene kehrt ihre anfängliche Schutzbeziehung um: Der bewaffnete Begleiter braucht nun ihre konkrete Hilfe, damit der gemeinsame Einsatz gelingen kann.",
+      "anchor": "Die Schulterverletzung macht Saras Mut zum entscheidenden Beitrag.",
+      "interest": "Die körperliche Einschränkung verändert die Aufgabenverteilung.",
+      "sources": [
+        "handlung",
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche verborgene Lebenswirklichkeit offenbart Sara (Shirley MacLaine) Hogan (Clint Eastwood) in @?",
+      "answers": [
+        "Sie arbeitet als Prostituierte und unterstützt die Juaristen.",
+        "Sie ist eine verwitwete Offiziersfrau mit geheimer Erbschaft.",
+        "Sie ist eine französische Agentin mit gestohlener Uniform.",
+        "Sie gehört als Ärztin zum Sanitätsdienst der Garnison."
+      ],
+      "feedback": [
+        "Sara ist keine Nonne, sondern eine Prostituierte und Unterstützerin der Rebellen.",
+        "Die Offenbarung betrifft keine Offizierswitwe oder Erbschaft.",
+        "Sie arbeitet nicht heimlich für Frankreich.",
+        "Ein Sanitätsdienst erklärt ihre wirkliche Identität nicht."
+      ],
+      "short": "Saras Nonnentracht ist eine Tarnung.",
+      "context": "Sara (Shirley MacLaine) hat Hogan (Clint Eastwood) in dem Glauben gelassen, sie sei eine Nonne. Tatsächlich arbeitet sie als Prostituierte und hilft den Juaristen. Die Kleidung schützt sie auf ihrer gefährlichen Reise und beeinflusst Hogans Bereitschaft, sie zu begleiten. Mit der Offenbarung ändern sich auch seine Vorstellungen über die mögliche Beziehung. Ihr Einsatz gegen die französische Besatzung war dagegen keine erfundene Rolle.",
+      "anchor": "Die Tracht ist erfunden, das Engagement für die Rebellen nicht.",
+      "interest": "Die Enthüllung unterscheidet äußere Rolle und wirkliche Motivation.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Mit welcher Täuschung gelangen Hogan und Sara (Clint Eastwood, Shirley MacLaine) in @ in die französische Festung?",
+      "answers": [
+        "Er liefert sie als angeblich gefangene Gesuchte ab.",
+        "Sie treten als reisende Händler auf.",
+        "Sie begleiten einen vermeintlichen Gefangenenaustausch.",
+        "Er gibt sich als neuer französischer Offizier aus."
+      ],
+      "feedback": [
+        "Hogan spielt den Mann, der die gesuchte Sara gegen Belohnung abliefert.",
+        "Die beiden geben sich nicht als Händlerpaar aus.",
+        "Ein Gefangenenaustausch ist nicht ihre Zugangslist.",
+        "Eine französische Offiziersidentität ist nicht Hogans Tarnung."
+      ],
+      "short": "Die vermeintliche Auslieferung öffnet den Zugang zur Festung.",
+      "context": "Hogan (Clint Eastwood) bringt Sara (Shirley MacLaine) scheinbar als gefangene Gesuchte zur französischen Festung. Die Wachmannschaft soll glauben, er wolle die Belohnung kassieren. Dadurch gelangen beide ins Innere, während die Revolutionäre den Angriff vorbereiten. Der Plan nutzt also Saras tatsächliche Verfolgung für eine falsche Auslieferung. Ihr Zusammenwirken verbindet die Täuschung der Bewacher mit dem anschließenden militärischen Zugriff.",
+      "anchor": "Eine gesuchte Frau wird zur Schlüsselrolle der falschen Auslieferung.",
+      "interest": "Die Schlusslist erklärt den Übergang vom Wissen über das Fort zum Angriff.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "Wann wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1970",
+        "1964",
+        "1967",
+        "1973"
+      ],
+      "feedback": [
+        "AFI belegt den ersten US-Start 1970.",
+        "1964 liegt sechs Jahre vor dem Film.",
+        "1967 liegt drei Jahre davor.",
+        "1973 liegt drei Jahre nach der Erstveröffentlichung."
+      ],
+      "short": "1968 Coogans großer Bluff, 1970 Ein Fressen für die Geier: zwei Jahre.",
+      "context": "Don Siegel und Clint Eastwood arbeiteten 1968 bei „Coogans großer Bluff“ erstmals zusammen. „Ein Fressen für die Geier“ erschien 1970, zwei Jahre später. Der erste Film versetzt einen Gesetzeshüter aus Arizona nach New York; der spätere Western bringt einen eigennützigen Schützen mit einer Unterstützerin mexikanischer Revolutionäre zusammen. Die beiden belegten Veröffentlichungsjahre machen den frühen Abschnitt ihrer Zusammenarbeit zeitlich greifbar.",
+      "anchor": "1968 erste Siegel-Eastwood-Zusammenarbeit, 1970 mexikanischer Western.",
+      "interest": "Eine konkrete Werkverbindung trägt den Jahresanker.",
+      "sources": [
+        "afi",
+        "anker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Hauptregie?",
+      "answers": [
+        "Don Siegel",
+        "Sergio Leone",
+        "Sam Peckinpah",
+        "John Sturges"
+      ],
+      "feedback": [
+        "Don Siegel ist der Hauptregisseur der veröffentlichten Fassung.",
+        "Sergio Leone inszenierte diesen Eastwood-Western nicht.",
+        "Sam Peckinpah trägt hier keinen Hauptregiecredit.",
+        "John Sturges führte bei diesem Film nicht Regie."
+      ],
+      "short": "Don Siegel führte Hauptregie.",
+      "context": "Don Siegel inszenierte den Film nach Albert Maltz’ Drehbuch und einer ursprünglichen Geschichte von Budd Boetticher. AFI unterscheidet diese Urheberschaften ebenso wie Joseph Cavalier und René Cardona als Regisseure der zweiten Einheit. Clint Eastwood spielt Hogan, Shirley MacLaine Sara. Boettichers früherer Plan, selbst Regie zu führen, gehört zur Entwicklung des Projekts und macht ihn nicht zum Hauptregisseur der veröffentlichten Fassung.",
+      "anchor": "Siegel inszeniert, Maltz adaptiert, Boetticher liefert die Geschichte.",
+      "interest": "Die Produktionsgeschichte verlangt eine klare Trennung der Credits.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

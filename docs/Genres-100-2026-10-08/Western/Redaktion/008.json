@@ -1,0 +1,218 @@
+{
+  "rank": 8,
+  "directors": [
+    "John Ford"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1950; AFI nennt die Weltpremiere in San Antonio am 1. November 1950 vor dem Releasefeld 15. November.",
+  "director_note": "John Ford ist der Hauptregisseur laut AFI-Catalog. Cliff Lyons verantwortete Second Unit und bildet keinen gemeinsamen Hauptregiecredit. Der fehlerhafte AFI-Watch-Fremddatensatz mit John Patton Ford wird nicht übernommen.",
+  "series": {
+    "name": "John Fords Kavallerietrilogie",
+    "position": 3,
+    "note": "Thematische Werkgruppe mit Fort Apache (1948) und She Wore a Yellow Ribbon (1949); keine fortlaufende Handlung derselben Figuren."
+  },
+  "familiarity_reason": "Wichtiger Ford/Wayne-Kavalleriewestern mit Maureen O’Hara, außerhalb des Klassikerkontexts weniger präsent; Bekanntheit 3.",
+  "notes": "Vollständiger Plot-/Cast-Cache und bezeichnete AFI-Archivpassagen tatsächlich gelesen; keine Filmsichtung. Der Finanzierungszusammenhang mit The Quiet Man wird als rückblickende Aussage Maureen O’Haras attribuiert. Nicht mit dem gleichnamigen Film von Norman Sheldon aus 1949 verwechseln. Bei der Endredaktion die vollständige AFI-Synopsis zusätzlich gelesen: Glockensignal in der Kirche, erster Pferdediebstahl versus abschließende Sheridan-Flucht klar getrennt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Rio_Grande_(1950_film)",
+    "afi": "https://catalog.afi.com/Film/26472-RIO-GRANDE",
+    "quietman": "https://catalog.afi.com/Film/53543-THE-QUIET-MAN"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welcher Stellung begegnet Kirby Yorke (John Wayne) seinem Sohn Jeff (Claude Jarman Jr.) in @ wieder?",
+      "answers": [
+        "Als Rekrut seiner Einheit",
+        "Als Abgesandter des Kriegsministeriums",
+        "Als Lieferant seiner Garnison",
+        "Als Gefangener seines Forts"
+      ],
+      "feedback": [
+        "Jeff trifft als neuer Rekrut in der Einheit seines Vaters ein.",
+        "Er kommt nicht als Abgesandter des Ministeriums.",
+        "Eine Versorgungslieferung führt ihn nicht zum Vater.",
+        "Er wird Kirby nicht als Gefangener übergeben."
+      ],
+      "short": "Jeff trifft als neuer Rekrut in der Einheit seines Vaters ein.",
+      "context": "Kirby Yorke (John Wayne) hat seinen Sohn Jeff (Claude Jarman Jr.) lange nicht gesehen. Das Wiedersehen geschieht nicht in einem Familienhaus, sondern im Dienst: Jeff gehört zu den neuen Rekruten seiner Einheit. Kirby kündigt an, ihn nicht bevorzugt zu behandeln. Damit müssen die beiden ihre persönliche Verbindung unter Bedingungen neu entwickeln, in denen der Vater zugleich der militärische Vorgesetzte ist.",
+      "anchor": "Der verlorene Sohn meldet sich als Rekrut.",
+      "interest": "Erkennt die konkrete Situation des familiären Wiedersehens.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Was möchte Kathleen Yorke (Maureen O’Hara) für Jeff (Claude Jarman Jr.) in @ erreichen?",
+      "answers": [
+        "Ihn aus dem Militärdienst freikaufen",
+        "Ihm einen Offiziersposten kaufen",
+        "Ihn in ein anderes Fort versetzen lassen",
+        "Ihm Urlaub für die Ranch bewilligen lassen"
+      ],
+      "feedback": [
+        "Kathleen will Jeff aus seiner Verpflichtung freikaufen.",
+        "Sie sucht keinen käuflichen Offiziersposten für ihn.",
+        "Eine Versetzung an ein anderes Fort ist nicht ihr Ziel.",
+        "Ein bloßer Ranchurlaub genügt ihrem Vorhaben nicht."
+      ],
+      "short": "Kathleen will Jeff aus seiner Verpflichtung freikaufen.",
+      "context": "Kathleen Yorke (Maureen O’Hara) reist zum Fort, um ihren minderjährigen Sohn Jeff (Claude Jarman Jr.) aus dem Dienst freizukaufen. Er will bleiben und sich in der Armee bewähren. Dadurch entsteht ein Streit, der nicht einfach zwischen Mann und Frau verläuft: Der Sohn beansprucht eine eigene Entscheidung. Kathleens Sorge bringt zugleich die lange entfremdeten Eltern wieder miteinander ins Gespräch.",
+      "anchor": "Die Mutter will den Sohn aus dem Dienst holen.",
+      "interest": "Erkennt die konkrete Absicht hinter dem Besuch der Mutter.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum musste Jeff Yorke (Claude Jarman Jr.) West Point in @ verlassen?",
+      "answers": [
+        "Er war in Mathematik durchgefallen.",
+        "Er hatte bei einer Prüfung geschummelt.",
+        "Er hatte einen Vorgesetzten geschlagen.",
+        "Er war wegen Krankheit entlassen worden."
+      ],
+      "feedback": [
+        "Jeff scheiterte in Mathematik.",
+        "Prüfungsbetrug ist nicht der angegebene Grund.",
+        "Er flog nicht wegen eines Angriffs auf einen Vorgesetzten hinaus.",
+        "Eine Krankheit führte nicht zu seinem Ausscheiden."
+      ],
+      "short": "Jeff scheiterte in Mathematik.",
+      "context": "Jeff Yorke (Claude Jarman Jr.) ist nicht auf einem geraden Weg vom Elternhaus zur Offizierslaufbahn gelangt. Nach einem Misserfolg in Mathematik muss er West Point verlassen und tritt als einfacher Soldat ein. Der neue Anfang erlaubt ihm, sich praktisch zu bewähren. Sein Vater Kirby (John Wayne) soll ihn deshalb nicht über Herkunft oder familiären Namen, sondern über seine Leistungen im Dienst beurteilen.",
+      "anchor": "Mathematik beendet West Point, der Dienst beginnt neu.",
+      "interest": "Erkennt den konkreten Ausbildungsmisserfolg hinter dem Neuanfang.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welches Kriegsereignis belastet die Ehe von Kirby (John Wayne) und Kathleen (Maureen O’Hara) in @?",
+      "answers": [
+        "Der Brand ihrer Familienplantage auf seinen Befehl",
+        "Die Beschlagnahmung ihrer Pferde durch seine Einheit",
+        "Die Inhaftierung ihres Bruders auf seinen Befehl",
+        "Der Verkauf ihres Hauses an seine Offiziere"
+      ],
+      "feedback": [
+        "Kirby ließ im Bürgerkrieg die Plantage ihrer Familie niederbrennen.",
+        "Die Beschlagnahmung von Pferden ist nicht der zentrale Ehekonflikt.",
+        "Die Inhaftierung eines Bruders erklärt die Trennung nicht.",
+        "Ein Hausverkauf an Offiziere ist nicht die belastende Vorgeschichte."
+      ],
+      "short": "Kirby ließ im Bürgerkrieg die Plantage ihrer Familie niederbrennen.",
+      "context": "Im Bürgerkrieg ließ Kirby Yorke (John Wayne) auf militärischen Befehl die Plantage von Kathleens (Maureen O’Hara) Familie niederbrennen. Für ihn war dies Teil seines Dienstes, für sie die Zerstörung des familiären Zuhauses. Dieser Unterschied belastet ihre Ehe seit Jahren. Die Gegenwart im Fort zwingt beide, die Spannung zwischen persönlicher Bindung und militärischer Verpflichtung erneut miteinander auszutragen.",
+      "anchor": "Ein militärischer Befehl zerstört das Familienhaus.",
+      "interest": "Verbindet die Entfremdung der Ehe mit einer konkret erzählten Vorgeschichte.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welches Signal ruft während der Kinderbefreiung in @ die Soldaten herbei?",
+      "answers": [
+        "Das Läuten der Kirchenglocke",
+        "Ein Signal aus einem Horn",
+        "Ein einzelner Pistolenschuss",
+        "Ein Feuer auf dem Dach"
+      ],
+      "feedback": [
+        "Ein Mädchen läutet die Kirchenglocke als Signal.",
+        "Ein Horn ist nicht das verabredete Signal.",
+        "Ein Pistolenschuss ruft die Soldaten hier nicht herbei.",
+        "Ein Dachfeuer dient nicht als Signal."
+      ],
+      "short": "Ein Mädchen läutet die Kirchenglocke als Signal.",
+      "context": "Travis Tyree (Ben Johnson), Boone (Harry Carey Jr.) und Jeff Yorke (Claude Jarman Jr.) schleichen in die Kirche, in der die verschleppten Kinder festgehalten werden. Als die Kinder bereit sind, läutet eines der Mädchen die Glocke und ruft damit die Soldaten herbei. Das alltägliche Geräusch wird zum militärischen Signal, das den heimlichen Teil der Befreiung mit dem offenen Angriff verbindet.",
+      "anchor": "Die Kirchenglocke verbindet Befreiung und Angriff.",
+      "interest": "Erkennt das präzise Signal innerhalb des abgestimmten Rettungsplans.",
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wessen Pferd nimmt Tyree (Ben Johnson) bei seiner Flucht am Schluss von @?",
+      "answers": [
+        "Sheridans (J. Carrol Naish)",
+        "Kirbys (John Wayne)",
+        "Quincannons (Victor McLaglen)",
+        "Des Marshals (Grant Withers)"
+      ],
+      "feedback": [
+        "Tyree flieht auf General Sheridans Pferd.",
+        "Er nimmt nicht Kirbys Pferd.",
+        "Quincannons Pferd ist nicht das Fluchtmittel.",
+        "Er stiehlt nicht das Pferd des eintreffenden Marshals."
+      ],
+      "short": "Tyree flieht auf General Sheridans Pferd.",
+      "context": "Travis Tyree (Ben Johnson) erhält nach dem Einsatz eine Auszeichnung, ist aber weiterhin vom Gesetz gesucht. Als der Marshal (Grant Withers) erneut auftaucht, entzieht er sich der Festnahme auf dem Pferd von General Sheridan (J. Carrol Naish). Die komische Wendung lässt Anerkennung und offene Vergangenheit nebeneinander stehen. Seine Leistung für die Gemeinschaft beseitigt also nicht automatisch den anderen Konflikt, der ihn schon vorher begleitet hatte.",
+      "anchor": "Der dekorierte Soldat flieht auf dem Generalspferd.",
+      "interest": "Prüft ein präzises Schlussdetail der Nebenfigur.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1950",
+        "1947",
+        "1953",
+        "1956"
+      ],
+      "feedback": [
+        "Der Film erschien erstmals 1950.",
+        "1947 liegt drei Jahre vor diesem Film.",
+        "1953 ist drei Jahre nach dem Erststart.",
+        "1956 liegt sechs Jahre zu spät."
+      ],
+      "short": "Der Film erschien erstmals 1950.",
+      "context": "Rio Grande erschien 1950; John Fords The Quiet Man, deutsch Der Sieger, folgte 1952, zwei Jahre später. AFI gibt Maureen O’Haras rückblickende Erklärung wieder, dass der erwartete Erfolg des Westerns die Finanzierung des anderen Projekts ermöglichen sollte. Beide Filme bringen John Wayne und Maureen O’Hara zusammen. Der konkrete Abstand verbindet den Kavalleriewestern mit ihrer späteren Zusammenarbeit in einem anderen Genre.",
+      "anchor": "Rio Grande 1950, The Quiet Man 1952: zwei Jahre.",
+      "interest": "Ordnet eine weitere Zusammenarbeit zeitlich ein und attribuiert den Produktionszusammenhang.",
+      "sources": [
+        "afi",
+        "quietman"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "John Ford",
+        "Howard Hawks",
+        "Raoul Walsh",
+        "Henry Hathaway"
+      ],
+      "feedback": [
+        "John Ford führte die Hauptregie.",
+        "Howard Hawks ist nicht der Regisseur dieses Films.",
+        "Raoul Walsh führte hier nicht Regie.",
+        "Henry Hathaway verantwortete diese Hauptregie nicht."
+      ],
+      "short": "John Ford führte die Hauptregie.",
+      "context": "AFI nennt John Ford als Hauptregisseur und beschreibt Cliff Lyons’ Arbeit für die zweite Einheit getrennt. Im Zentrum stehen Kirby Yorke (John Wayne), Kathleen (Maureen O’Hara) und Jeff (Claude Jarman Jr.). Der militärische Schauplatz macht ihren Familienkonflikt öffentlich: Entscheidungen im Dienst betreffen zugleich Ehe, Elternschaft und Selbständigkeit des Sohnes. Der Regiecredit gehört damit zu einem Film, der Pflicht und persönliche Bindung miteinander verschränkt.",
+      "anchor": "Ford verbindet Kavalleriedienst und Familie.",
+      "interest": "Verankert den vollständigen Hauptcredit im familiären Schwerpunkt dieses Films.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ]
+}

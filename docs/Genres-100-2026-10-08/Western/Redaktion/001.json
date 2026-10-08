@@ -1,0 +1,206 @@
+{
+  "rank": 1,
+  "directors": [
+    "Nicholas Ray"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1954. AFI verzeichnet den New Yorker Start am 26. Mai sowie ein August-Releasefeld; der Handlungscache nennt den 5. Mai. Das Jahr ist eindeutig, die erste Tagesangabe wird nicht als Frage verwendet.",
+  "director_note": "Nicholas Ray ist der Hauptregisseur laut AFI. Assistenz- und Dialogarbeit bilden keinen gemeinsamen Hauptregiecredit.",
+  "series": null,
+  "familiarity_reason": "Prägender, häufig retrospektiv gewürdigter Westernklassiker; außerhalb des klassischen Westernpublikums eher Spezialwissen. Bekanntheit 3 unabhängig von den einzelnen Schwierigkeiten.",
+  "notes": "Handlung und Originalbesetzung aus vollständig gelesenem Cache; AFI ergänzt Credits, Land, Jahres- und Vorlagenangaben. Keine eigene Filmsichtung. Die Instrumentenfrage wäre durch den Titel verraten.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Johnny_Guitar",
+    "afi": "https://catalog.afi.com/Film/51244-JOHNNY-GUITAR"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Geschäft betreibt Vienna (Joan Crawford) in @?",
+      "answers": [
+        "Einen Saloon",
+        "Ein Hotel",
+        "Einen Gemischtwarenladen",
+        "Eine Postkutschenstation"
+      ],
+      "feedback": [
+        "Vienna betreibt einen Saloon.",
+        "Ein Hotel ist nicht Viennas Geschäft.",
+        "Sie ist keine Gemischtwarenhändlerin.",
+        "Die Postkutschenstation gehört nicht ihr."
+      ],
+      "short": "Vienna betreibt einen Saloon.",
+      "context": "Vienna (Joan Crawford) hat sich mit ihrem Saloon eine wirtschaftlich eigenständige Stellung geschaffen. Ihr Haus liegt außerhalb des Ortes und dient zugleich als Treffpunkt und umkämpfter Rückzugsraum. Die Nachbarschaft betrachtet ihre Beziehungen zu Außenseitern mit Misstrauen. Dass eine Frau diesen öffentlichen Raum beherrscht und verteidigt, verschiebt die gewohnte Rollenverteilung des klassischen Westerns.",
+      "anchor": "Viennas eigener Saloon.",
+      "interest": "Erkennt den zentralen Handlungsraum und die wirtschaftliche Selbständigkeit der Hauptfigur.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Vergangenheit verbindet Vienna (Joan Crawford) und Johnny (Sterling Hayden) in @?",
+      "answers": [
+        "Sie waren ein Liebespaar.",
+        "Sie waren gemeinsam verheiratet.",
+        "Sie waren Geschäftspartner.",
+        "Sie waren Pflegegeschwister."
+      ],
+      "feedback": [
+        "Vienna und Johnny sind ehemalige Liebende.",
+        "Eine frühere Ehe wird nicht als ihre Verbindung erzählt.",
+        "Ihre Vergangenheit ist eine Liebesbeziehung, keine gemeinsame Firma.",
+        "Sie haben keine geschwisterliche Beziehung."
+      ],
+      "short": "Vienna und Johnny sind ehemalige Liebende.",
+      "context": "Johnny (Sterling Hayden) kommt nicht als völlig Fremder zu Vienna (Joan Crawford). Die beiden waren früher ein Liebespaar und haben sich jahrelang nicht gesehen. Seine gewalttätige Vergangenheit belastet diese Beziehung weiterhin. Ihre Gespräche verbinden den äußeren Konflikt um den Saloon mit einer zweiten Geschichte: Können zwei Menschen nach Verletzungen und Trennung wieder Vertrauen zueinander finden?",
+      "anchor": "Ein Wiedersehen ehemaliger Liebender.",
+      "interest": "Erfasst den persönlichen Konflikt unter der äußeren Westernhandlung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche erwartete Entwicklung erklärt Viennas (Joan Crawford) Standortstrategie in @?",
+      "answers": [
+        "Der Bau einer Eisenbahn",
+        "Die Erschließung einer Silbermine",
+        "Die Verlegung eines Armeeforts",
+        "Die Einrichtung eines Viehmarkts"
+      ],
+      "feedback": [
+        "Vienna setzt auf die kommende Eisenbahn.",
+        "Eine Silbermine begründet ihre Standortwahl nicht.",
+        "Ein neues Armeefort ist nicht der entscheidende Faktor.",
+        "Sie spekuliert nicht auf einen Viehmarkt."
+      ],
+      "short": "Vienna setzt auf die kommende Eisenbahn.",
+      "context": "Vienna (Joan Crawford) blickt auf eine Zukunft, die viele Viehhalter im Ort ablehnen: Die Eisenbahn soll neue Menschen und wirtschaftliche Möglichkeiten bringen. Ihr Saloon steht deshalb nicht einfach zufällig abseits. Sie erwartet, von dieser Veränderung zu profitieren. Der Streit um ihre Stellung betrifft damit auch zwei Vorstellungen des Westens: bestehende Besitzverhältnisse verteidigen oder die kommende Entwicklung nutzen.",
+      "anchor": "Vienna erwartet die Eisenbahn.",
+      "interest": "Verbindet den Schauplatz mit dem wirtschaftlichen Konflikt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was verschärft Emmas (Mercedes McCambridge) Feindschaft gegen Vienna (Joan Crawford) in @?",
+      "answers": [
+        "Eifersucht wegen des Dancin’ Kid (Scott Brady)",
+        "Streit um Johnnys (Sterling Hayden) Schulden",
+        "Rivalität um McIvers’ (Ward Bond) Erbe",
+        "Rache für Toms (John Carradine) Kündigung"
+      ],
+      "feedback": [
+        "Emma begehrt den Dancin’ Kid und ist eifersüchtig auf Vienna.",
+        "Johnnys Schulden erklären Emmas Feindschaft nicht.",
+        "McIvers’ Erbe ist nicht der Gegenstand dieser Rivalität.",
+        "Toms Beschäftigung ist nicht Emmas persönlicher Antrieb."
+      ],
+      "short": "Emma begehrt den Dancin’ Kid und ist eifersüchtig auf Vienna.",
+      "context": "Emma (Mercedes McCambridge) gibt ihrer Verfolgung öffentlich eine moralische Begründung. Dahinter steht aber auch ihre unerwiderte Zuneigung zum Dancin’ Kid (Scott Brady), der Vienna (Joan Crawford) nahesteht. So mischen sich persönliche Eifersucht und der Anspruch, für die Gemeinschaft zu handeln. Der Film macht sichtbar, wie ein privates Gefühl die organisierte Gewalt gegen eine vermeintliche Außenseiterin verschärfen kann.",
+      "anchor": "Emmas Eifersucht wird öffentliche Verfolgung.",
+      "interest": "Unterscheidet den persönlichen Antrieb von der öffentlich vorgetragenen Anschuldigung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wo entdeckt die Suchtruppe Turkey (Ben Cooper) im Saloon in @?",
+      "answers": [
+        "Unter einem Tisch",
+        "Hinter der Theke",
+        "Im Dachboden",
+        "Unter einer Bodendiele"
+      ],
+      "feedback": [
+        "Turkey wird unter einem Tisch gefunden.",
+        "Die Theke ist nicht sein entdecktes Versteck.",
+        "Er versteckt sich nicht im Dachboden.",
+        "Eine Bodendiele verdeckt ihn nicht."
+      ],
+      "short": "Turkey wird unter einem Tisch gefunden.",
+      "context": "Vienna (Joan Crawford) nimmt den verletzten Turkey (Ben Cooper) auf, obwohl ihr die Nähe zu seiner Bande gefährlich werden kann. Bei der Durchsuchung ihres Saloons findet die Suchtruppe ihn unter einem Tisch. Aus einer konkreten Hilfeleistung wird nun ein Vorwand zur Verfolgung. Das kleine räumliche Detail gehört zu dem Moment, in dem Gerüchte und Verdacht in unmittelbare Gewalt umschlagen.",
+      "anchor": "Turkey liegt unter dem Tisch.",
+      "interest": "Prüft eine präzise Beobachtung der Durchsuchung statt einer weiteren allgemeinen Konfliktfrage.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welcher Fluchtweg ermöglicht Vienna (Joan Crawford) und Johnny (Sterling Hayden) nach dem Saloonbrand in @ das Entkommen?",
+      "answers": [
+        "Ein unterirdischer Tunnel",
+        "Eine Leiter zum Dach",
+        "Ein Versorgungsschacht im Brunnen",
+        "Ein Seitenausgang zum Stall"
+      ],
+      "feedback": [
+        "Die beiden entkommen durch einen Tunnel unter dem Saloon.",
+        "Eine Dachleiter ist nicht der entscheidende Fluchtweg.",
+        "Sie fliehen nicht durch einen Brunnenschacht.",
+        "Ein Stallausgang führt sie nicht aus dieser Situation."
+      ],
+      "short": "Die beiden entkommen durch einen Tunnel unter dem Saloon.",
+      "context": "Nach der Eskalation rettet Johnny (Sterling Hayden) Vienna (Joan Crawford) vor dem Tod. Ein Tunnel unter dem Saloon ermöglicht ihre Flucht aus dem zerstörten Schauplatz. Dieser Weg führt die beiden überraschend zum Versteck der Bande. Die Rettung beendet die Bedrohung also noch nicht: Der Wechsel des Raumes bringt die zuvor getrennten Konfliktgruppen für die letzte Auseinandersetzung zusammen.",
+      "anchor": "Vom brennenden Saloon durch den Tunnel.",
+      "interest": "Erkennt das räumliche Bindeglied zwischen Rettung und letzter Konfrontation.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1954",
+        "1951",
+        "1957",
+        "1960"
+      ],
+      "feedback": [
+        "Der Film erschien erstmals 1954.",
+        "1951 liegt drei Jahre vor der Veröffentlichung.",
+        "1957 ist drei Jahre zu spät.",
+        "1960 liegt sechs Jahre nach dem Filmstart."
+      ],
+      "short": "Der Film erschien erstmals 1954.",
+      "context": "Roy Chanslors Roman Johnny Guitar erschien 1953; Nicholas Rays Verfilmung folgte 1954, nur ein Jahr später. Der kurze Abstand zeigt, wie rasch der Stoff vom Buch ins Kino gelangte. AFI dokumentiert die literarische Vorlage und den New Yorker Start im Veröffentlichungsjahr. Abweichende Tagesangaben in den Quellen ändern diese Einordnung in die Mitte der fünfziger Jahre nicht.",
+      "anchor": "Roman 1953, Film 1954: ein Jahr.",
+      "interest": "Ordnet die Verfilmung zeitlich zur literarischen Vorlage ein.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "Nicholas Ray",
+        "Anthony Mann",
+        "Budd Boetticher",
+        "Delmer Daves"
+      ],
+      "feedback": [
+        "Nicholas Ray führte die Hauptregie.",
+        "Anthony Mann ist nicht der Regisseur dieses Films.",
+        "Budd Boetticher verantwortete andere psychologische Western.",
+        "Delmer Daves führte hier nicht Regie."
+      ],
+      "short": "Nicholas Ray führte die Hauptregie.",
+      "context": "AFI führt Nicholas Ray als Regisseur. Seine Inszenierung verbindet die Auseinandersetzung um Vienna (Joan Crawford) mit dem Wiedersehen mit Johnny (Sterling Hayden). Konflikte werden dabei nicht nur im offenen Gelände, sondern auch in aufgeladenen Innenräumen ausgetragen. Der Saloon ist zugleich Geschäft, Bühne und Zufluchtsort. Diese Verbindung von Westernhandlung und Beziehungsmelodram erklärt einen wichtigen Teil der Eigenart des Films.",
+      "anchor": "Nicholas Ray: Western und Beziehungsmelodram.",
+      "interest": "Verknüpft den belegten Hauptregiecredit mit einer konkreten Eigenart der Inszenierung.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ]
+}

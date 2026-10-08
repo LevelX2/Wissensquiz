@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 08.10.2026 – Western lokal auf 100 Filme erweitert
+
+24 neue Filmfassungen und 192 individuelle Fragen, nun 100 Western-Filme / 832 Fragen. Gesamtkatalog 31 Pakete / 12.405 Fragen / 11.839 Ziele. 390 Logiktests, Produktionsbuild und zwölf isolierte Browserfälle in Chromium/Firefox bestanden. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](Genres-100-2026-10-08/Western/Pruefbericht.md).
+
 ## 08.10.2026 – Rom-Com lokal auf 100 Filme erweitert
 
 24 neue Filmfassungen und 192 individuelle Fragen, nun 100 Rom-Com-Filme / 830 Fragen. Gesamtkatalog 30 Pakete / 12.213 Fragen / 11.647 Ziele. 389 Logiktests in 65 Dateien, Produktionsbuild und elf isolierte Browserfälle bestanden. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](Genres-100-2026-10-08/RomCom/Pruefbericht.md).

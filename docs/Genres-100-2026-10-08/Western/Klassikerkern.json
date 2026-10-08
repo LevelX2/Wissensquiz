@@ -1,0 +1,348 @@
+{
+  "date": "2026-10-08",
+  "method": "Redaktioneller Kern von 20 prägenden Werken: klassischer US-Western, psychologischer Western, Italowestern, Westernkomödie und revisionistischer Spätwestern. Keine objektive Top-20-Rangliste. Die Primärquellen dienen als Genre-Kontext, nicht als vorgeschriebene Gesamtrangfolge. Bereits anderen Genres zugeordnete Überschneidungen werden nicht umgeordnet oder doppelt ergänzt. Die IDs der vier Ergänzungen sind für die spätere Redaktion vorgesehen; dieser Auswahlblock erstellt noch keine Fragen.",
+  "before": 16,
+  "added": 4,
+  "after": 20,
+  "context_sources": [
+    "https://www.afi.com/news/cat-ballou-afi-movie-club/",
+    "https://www.bfi.org.uk/lists/10-great-spaghetti-westerns",
+    "https://www.bfi.org.uk/features/where-begin-budd-boetticher",
+    "https://www.criterion.com/shop/collection/228-westerns",
+    "https://www.criterion.com/films/29028-pat-garrett-and-billy-the-kid"
+  ],
+  "films": [
+    {
+      "film": "Stagecoach|1939",
+      "title": "Ringo",
+      "reason": "Die Reisegemeinschaft in der Postkutsche verbindet den klassischen Helden mit einem gesellschaftlichen Querschnitt.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-222-L1",
+        "F240-20261006-222-L2",
+        "F240-20261006-222-M1",
+        "F240-20261006-222-M2",
+        "F240-20261006-222-S1",
+        "F240-20261006-222-S2",
+        "F240-20261006-222-Y",
+        "F240-20261006-222-D"
+      ]
+    },
+    {
+      "film": "The Searchers|1956",
+      "title": "Der schwarze Falke",
+      "reason": "Die jahrelange Suche stellt rassistischen Hass und die Grenzen des traditionellen Westerner-Helden bloß.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-221-L1",
+        "F240-20261006-221-L2",
+        "F240-20261006-221-M1",
+        "F240-20261006-221-M2",
+        "F240-20261006-221-S1",
+        "F240-20261006-221-S2",
+        "F240-20261006-221-Y",
+        "F240-20261006-221-D"
+      ]
+    },
+    {
+      "film": "High Noon|1952",
+      "title": "Zwölf Uhr mittags",
+      "reason": "Die verdichtete Zeit und der allein gelassene Sheriff machen gesellschaftliche Verantwortung zum Zentrum.",
+      "status": "vorhanden",
+      "question_ids": [
+        "WES-202610-P01-L-001",
+        "WES-202610-P01-L-002",
+        "WES-202610-P01-M-001",
+        "WES-202610-P01-M-002",
+        "WES-202610-P01-S-001",
+        "WES-202610-P01-S-002",
+        "WES-202610-P01-M-003",
+        "WES-202610-P01-S-003"
+      ]
+    },
+    {
+      "film": "Shane|1953",
+      "title": "Mein großer Freund Shane",
+      "reason": "Der Konflikt zwischen Siedlern und Ranchern sowie der Abschied des Revolverhelden prägen den klassischen Mythos.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-224-L1",
+        "F240-20261006-224-L2",
+        "F240-20261006-224-M1",
+        "F240-20261006-224-M2",
+        "F240-20261006-224-S1",
+        "F240-20261006-224-S2",
+        "F240-20261006-224-Y",
+        "F240-20261006-224-D"
+      ]
+    },
+    {
+      "film": "Red River|1948",
+      "title": "Red River",
+      "reason": "Der große Viehtrieb verbindet wirtschaftliche Expansion mit einem Autoritätskonflikt zwischen Vaterfigur und Sohn.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-223-L1",
+        "F240-20261006-223-L2",
+        "F240-20261006-223-M1",
+        "F240-20261006-223-M2",
+        "F240-20261006-223-S1",
+        "F240-20261006-223-S2",
+        "F240-20261006-223-Y",
+        "F240-20261006-223-D"
+      ]
+    },
+    {
+      "film": "Rio Bravo|1959",
+      "title": "Rio Bravo",
+      "reason": "Belagerung, Gemeinschaft und professionelle Zusammenarbeit bilden einen Gegenentwurf zum einsamen Sheriff.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-225-L1",
+        "F240-20261006-225-L2",
+        "F240-20261006-225-M1",
+        "F240-20261006-225-M2",
+        "F240-20261006-225-S1",
+        "F240-20261006-225-S2",
+        "F240-20261006-225-Y",
+        "F240-20261006-225-D"
+      ]
+    },
+    {
+      "film": "The Man Who Shot Liberty Valance|1962",
+      "title": "Der Mann, der Liberty Valance erschoss",
+      "reason": "Die Gegenüberstellung von Gewalt, Rechtsstaat und gedruckter Legende untersucht die Entstehung des Westernmythos.",
+      "status": "vorhanden",
+      "question_ids": [
+        "WES-L-037",
+        "WES-L-038",
+        "WES-M-037",
+        "WES-M-038",
+        "WES-S-037",
+        "WES-S-038",
+        "FF-294-YEAR",
+        "FF-294-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Winchester '73|1950",
+      "title": "Winchester ’73",
+      "reason": "Das wandernde Gewehr verbindet mehrere Schicksale und eröffnet Anthony Manns psychologisch geprägte Western mit James Stewart.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-228-L1",
+        "F240-20261006-228-L2",
+        "F240-20261006-228-M1",
+        "F240-20261006-228-M2",
+        "F240-20261006-228-S1",
+        "F240-20261006-228-S2",
+        "F240-20261006-228-Y",
+        "F240-20261006-228-D"
+      ]
+    },
+    {
+      "film": "My Darling Clementine|1946",
+      "title": "Faustrecht der Prärie",
+      "reason": "John Fords Tombstone-Erzählung verbindet den Gesetzeshüter mit dem Aufbau einer bürgerlichen Gemeinschaft.",
+      "status": "vorhanden",
+      "question_ids": [
+        "E20261007-F-116-L1",
+        "E20261007-F-116-L2",
+        "E20261007-F-116-M1",
+        "E20261007-F-116-M2",
+        "E20261007-F-116-S1",
+        "E20261007-F-116-S2",
+        "E20261007-F-116-Y",
+        "E20261007-F-116-D"
+      ]
+    },
+    {
+      "film": "Il buono, il brutto, il cattivo|1966",
+      "title": "Zwei glorreiche Halunken",
+      "reason": "Die opernhafte Schatzsuche im Bürgerkrieg verdichtet den Italowestern zu wechselnden Bündnissen und einem Dreierduell.",
+      "status": "vorhanden",
+      "question_ids": [
+        "WES-L-005",
+        "WES-L-006",
+        "WES-M-005",
+        "WES-M-006",
+        "WES-S-005",
+        "WES-S-006",
+        "WES-L-006-V1",
+        "WES-M-006-V1",
+        "WES-S-006-V1",
+        "FF-278-YEAR",
+        "FF-278-DIRECTOR"
+      ]
+    },
+    {
+      "film": "C'era una volta il West|1968",
+      "title": "Spiel mir das Lied vom Tod",
+      "reason": "Eisenbahn, Landbesitz und Rache verbinden den Abschied vom alten Westen mit einer monumentalen Bild- und Musiksprache.",
+      "status": "vorhanden",
+      "question_ids": [
+        "WES-L-007",
+        "WES-L-008",
+        "WES-M-007",
+        "WES-M-008",
+        "WES-S-007",
+        "WES-S-008",
+        "WES-L-008-V1",
+        "WES-M-008-V1",
+        "WES-S-008-V1",
+        "FF-279-YEAR",
+        "FF-279-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Django|1966",
+      "title": "Django",
+      "reason": "Corbuccis brutaler Außenseiter und seine rivalisierenden Machtgruppen prägen die düstere Seite des Italowesterns.",
+      "status": "vorhanden",
+      "question_ids": [
+        "WES-L-011",
+        "WES-L-012",
+        "WES-M-011",
+        "WES-M-012",
+        "WES-S-011",
+        "WES-S-012",
+        "FF-281-YEAR",
+        "FF-281-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Il grande silenzio|1968",
+      "title": "Leichen pflastern seinen Weg",
+      "reason": "Schnee, ein stummer Held und das pessimistische Ende unterlaufen die Erlösungsversprechen des klassischen Genres.",
+      "status": "vorhanden",
+      "question_ids": [
+        "WES-L-049",
+        "WES-L-050",
+        "WES-M-049",
+        "WES-M-050",
+        "WES-S-049",
+        "WES-S-050",
+        "FF-300-YEAR",
+        "FF-300-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Wild Bunch|1969",
+      "title": "The Wild Bunch – Sie kannten kein Gesetz",
+      "reason": "Peckinpahs alternde Banditen und die inszenierte Gewalt markieren den Übergang zum revisionistischen Western.",
+      "status": "vorhanden",
+      "question_ids": [
+        "WES-L-023",
+        "WES-L-024",
+        "WES-M-023",
+        "WES-M-024",
+        "WES-S-023",
+        "WES-S-024",
+        "FF-287-YEAR",
+        "FF-287-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Dances with Wolves|1990",
+      "title": "Der mit dem Wolf tanzt",
+      "reason": "Die Annäherung eines Soldaten an eine Lakota-Gemeinschaft erneuert den großen Landschaftswestern mit verändertem Blickwinkel.",
+      "status": "vorhanden",
+      "question_ids": [
+        "WES-L-021",
+        "WES-L-022",
+        "WES-M-021",
+        "WES-M-022",
+        "WES-S-021",
+        "WES-S-022",
+        "WES-L-022-V1",
+        "WES-M-022-V1",
+        "WES-S-022-V1",
+        "FF-286-YEAR",
+        "FF-286-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Unforgiven|1992",
+      "title": "Erbarmungslos",
+      "reason": "Die Rückkehr eines gealterten Killers hinterfragt Heldentum, Gewalt und die romantische Erzählung des Revolverhelden.",
+      "status": "vorhanden",
+      "question_ids": [
+        "WES-L-015",
+        "WES-L-016",
+        "WES-M-015",
+        "WES-M-016",
+        "WES-S-015",
+        "WES-S-016",
+        "WES-L-016-V1",
+        "WES-M-016-V1",
+        "WES-S-016-V1",
+        "FF-283-YEAR",
+        "FF-283-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Johnny Guitar|1954",
+      "title": "Johnny Guitar – Gejagt, gehaßt, gefürchtet",
+      "reason": "Zwei machtvolle Frauen, das Saloon-Melodram und kollektive Verfolgung verschieben die üblichen Rollen des Genres.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-WESTERN-001-L1",
+        "G100-20261008-WESTERN-001-L2",
+        "G100-20261008-WESTERN-001-M1",
+        "G100-20261008-WESTERN-001-M2",
+        "G100-20261008-WESTERN-001-S1",
+        "G100-20261008-WESTERN-001-S2",
+        "G100-20261008-WESTERN-001-Y",
+        "G100-20261008-WESTERN-001-D"
+      ]
+    },
+    {
+      "film": "Cat Ballou|1965",
+      "title": "Cat Ballou – Hängen sollst du in Wyoming",
+      "reason": "Eine weibliche Rächerfigur und die doppelte Lee-Marvin-Rolle vertreten die klassische Westernkomödie im Kern.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-WESTERN-002-L1",
+        "G100-20261008-WESTERN-002-L2",
+        "G100-20261008-WESTERN-002-M1",
+        "G100-20261008-WESTERN-002-M2",
+        "G100-20261008-WESTERN-002-S1",
+        "G100-20261008-WESTERN-002-S2",
+        "G100-20261008-WESTERN-002-Y",
+        "G100-20261008-WESTERN-002-D"
+      ]
+    },
+    {
+      "film": "The Tall T|1957",
+      "title": "Um Kopf und Kragen",
+      "reason": "Budd Boettichers konzentrierter Ranown-Western prüft moralisches Handeln in einer räumlich engen Geiselnahme.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-WESTERN-003-L1",
+        "G100-20261008-WESTERN-003-L2",
+        "G100-20261008-WESTERN-003-M1",
+        "G100-20261008-WESTERN-003-M2",
+        "G100-20261008-WESTERN-003-S1",
+        "G100-20261008-WESTERN-003-S2",
+        "G100-20261008-WESTERN-003-Y",
+        "G100-20261008-WESTERN-003-D"
+      ]
+    },
+    {
+      "film": "Pat Garrett and Billy the Kid|1973",
+      "title": "Pat Garrett jagt Billy the Kid",
+      "reason": "Freundschaft, Verrat und das Ende der Gesetzlosen geben dem späten revisionistischen Western eine elegische Form.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-WESTERN-004-L1",
+        "G100-20261008-WESTERN-004-L2",
+        "G100-20261008-WESTERN-004-M1",
+        "G100-20261008-WESTERN-004-M2",
+        "G100-20261008-WESTERN-004-S1",
+        "G100-20261008-WESTERN-004-S2",
+        "G100-20261008-WESTERN-004-Y",
+        "G100-20261008-WESTERN-004-D"
+      ]
+    }
+  ]
+}

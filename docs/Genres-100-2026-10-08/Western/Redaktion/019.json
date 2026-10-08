@@ -1,0 +1,216 @@
+{
+  "rank": 19,
+  "directors": [
+    "Enzo Barboni"
+  ],
+  "production_countries": [
+    "Italien"
+  ],
+  "release_note": "Italienische Erstveröffentlichung 1970; ANICA belegt die Zensurkarte vom 15. Dezember 1970, der Cache den Kinostart am 22. Dezember. Der US-Start 1971 ist eine spätere Auswertung.",
+  "director_note": "Enzo Barboni führte unter dem Pseudonym E. B. Clucher Regie. Fragen beziehen sich auf die Originalfilmhandlung, nicht auf nachträglich hinzugefügte deutsche Synchronwitze.",
+  "familiarity_reason": "Sehr bekannte Hill-Spencer-Westernkomödie im deutschsprachigen Raum; redaktionell Bekanntheit 2, ohne empirische Reichweitenbehauptung.",
+  "series": {
+    "name": "Trinity",
+    "position": 1,
+    "note": "Erster Film mit Hill/Spencer als Trinity und Bambino; Vier Fäuste für ein Halleluja ist die direkte Fortsetzung."
+  },
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/They_Call_Me_Trinity",
+    "anica": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2863",
+    "anker": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2092"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wie lässt sich Trinity (Terence Hill) zu Beginn von @ von seinem Pferd transportieren?",
+      "answers": [
+        "Liegend auf einer gezogenen Schleife",
+        "Sitzend in einem überdachten Wagen",
+        "Stehend auf zwei nebeneinander laufenden Pferden",
+        "Schlafend auf dem Sattel eines Packpferds"
+      ],
+      "feedback": [
+        "Trinity liegt auf einer vom Pferd gezogenen Schleife.",
+        "Ein überdachter Wagen ist nicht sein Gefährt.",
+        "Er vollführt bei seiner Ankunft keinen Stehritt auf zwei Pferden.",
+        "Sein Schlafplatz ist nicht ein Packpferdsattel."
+      ],
+      "short": "Trinity reist liegend auf einer Schleife hinter dem Pferd.",
+      "context": "Trinity (Terence Hill) kommt auf einer einfachen Schleife an, die sein Pferd zieht. Er liegt darauf, statt selbst im Sattel zu sitzen. Das Bild führt seine demonstrative Bequemlichkeit ein, noch bevor seine außergewöhnliche Schnelligkeit mit dem Revolver sichtbar wird. Der Film verbindet dadurch zwei scheinbar gegensätzliche Eigenschaften: einen Mann, der jede Anstrengung meidet, und einen Schützen, der im entscheidenden Moment sofort reagiert.",
+      "anchor": "Die Schleife macht aus dem Ritt einen liegenden Reiseplatz.",
+      "interest": "Die prägende Eröffnung zeigt den Helden durch eine sichtbare Handlung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welcher Siedlergemeinschaft helfen Trinity und Bambino (Terence Hill, Bud Spencer) in @?",
+      "answers": [
+        "Mormonen",
+        "Quäkern",
+        "Mennoniten",
+        "Amischen"
+      ],
+      "feedback": [
+        "Die Brüder unterstützen eine bedrohte Mormonensiedlung.",
+        "Quäker sind nicht die hier genannte Gemeinschaft.",
+        "Der Film bezeichnet die Siedler nicht als Mennoniten.",
+        "Eine amische Siedlung ist nicht der Schauplatz ihres Eingreifens."
+      ],
+      "short": "Die Brüder helfen einer bedrohten Mormonensiedlung.",
+      "context": "Trinity (Terence Hill) und Bambino (Bud Spencer) treffen auf eine Mormonengemeinschaft, die auf ihrem Land bleiben will. Ein mächtiger Besitzer und bewaffnete Männer bedrohen die Siedler. Deren friedliche Lebensweise steht dem gewaltsamen Vorgehen ihrer Gegner entgegen. Die Brüder vermitteln schließlich praktische Gegenwehr, verfolgen dabei jedoch unterschiedliche Absichten: Trinity interessiert sich für die Gemeinschaft, während Bambino zugleich einen eigenen Gewinn erhofft.",
+      "anchor": "Die bedrohten Siedler gehören zur Mormonengemeinschaft.",
+      "interest": "Der Gemeinschaftsbezug erklärt die zentrale Schutzaufgabe.",
+      "sources": [
+        "handlung",
+        "anica"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was stimmt mit Bambinos (Bud Spencer) Sheriffamt in @ nicht?",
+      "answers": [
+        "Er hat sich den Posten eines anderen angeeignet.",
+        "Er hat seine Ernennung nur für einen Tag erhalten.",
+        "Er besitzt lediglich die Vollmacht eines Hilfssheriffs.",
+        "Er muss das Amt heimlich mit dem Major teilen."
+      ],
+      "feedback": [
+        "Bambino gibt sich anstelle des tatsächlichen neuen Sheriffs als Amtsinhaber aus.",
+        "Eine eintägige Ernennung erklärt den Betrug nicht.",
+        "Er ist nicht bloß ein offiziell ernannter Hilfssheriff.",
+        "Ein geteiltes Amt mit dem Major besteht nicht."
+      ],
+      "short": "Bambino ist ein falscher Sheriff.",
+      "context": "Bambino (Bud Spencer) wirkt bei Trinitys Ankunft wie ein durchsetzungsfähiger Sheriff. Tatsächlich hat der entflohene Pferdedieb den Posten eines anderen Mannes übernommen. Trinity (Terence Hill) erkennt seinen Bruder hinter der Amtsrolle. Die Verkleidung verschafft Bambino Einfluss und Zeit, während er auf seine Komplizen wartet. Das äußere Bild eines Gesetzeshüters passt deshalb nicht zu seiner tatsächlichen Lage und seinen geplanten Geschäften.",
+      "anchor": "Die Sheriffrolle verbirgt den entflohenen Pferdedieb.",
+      "interest": "Der Identitätsbetrug unterscheidet Amtserscheinung und wirklichen Hintergrund.",
+      "sources": [
+        "handlung",
+        "anica"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wofür will der Major in @ das Land der Siedler nutzen?",
+      "answers": [
+        "Als Weide für seine Pferde",
+        "Als Standort einer Silbermine",
+        "Als Trasse für eine Eisenbahn",
+        "Als Bauplatz für ein großes Hotel"
+      ],
+      "feedback": [
+        "Er will seine Pferde auf dem Land weiden lassen.",
+        "Eine Silbermine ist nicht sein Vorhaben.",
+        "Ein Eisenbahnbau begründet diesen Landkonflikt nicht.",
+        "Ein Hotelprojekt ist nicht der Zweck der Vertreibung."
+      ],
+      "short": "Der Major will das Siedlerland als Pferdeweide.",
+      "context": "Der Major (Farley Granger) will die Siedler von ihrem Land vertreiben, um es für seine Pferde zu nutzen. Der Konflikt dreht sich damit um wirtschaftlich wertvollen Raum. Für Bambino (Bud Spencer) sind auch die noch unmarkierten Tiere interessant. Trinity (Terence Hill) lässt sich dagegen auf die Verteidigung der Gemeinschaft ein. Das gemeinsame Eingreifen verbindet so den Landkonflikt mit voneinander abweichenden Interessen der Brüder.",
+      "anchor": "Die Pferdeweide steht hinter der geplanten Vertreibung.",
+      "interest": "Das wirtschaftliche Motiv erklärt den Angriff auf die Siedler.",
+      "sources": [
+        "handlung",
+        "anica"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie vereitelt Trinity (Terence Hill) in @ Bambinos (Bud Spencer) Plan mit den unmarkierten Pferden?",
+      "answers": [
+        "Er versieht sie mit dem Brandzeichen der Siedler.",
+        "Er verkauft sie vorab an eine andere Ranch.",
+        "Er gibt sie dem tatsächlichen Sheriff als Beweisstücke.",
+        "Er lässt sie in die Berge entlaufen."
+      ],
+      "feedback": [
+        "Durch das Brandzeichen ordnet Trinity die Herde den Siedlern zu.",
+        "Ein heimlicher Verkauf an eine andere Ranch ist nicht seine Lösung.",
+        "Der Sheriff erhält die Herde nicht als Beweismittel.",
+        "Trinity löst die Situation nicht durch das Entlaufenlassen."
+      ],
+      "short": "Trinity markiert die Pferde für die Siedler.",
+      "context": "Bambino (Bud Spencer) möchte die wertvolle unmarkierte Pferdeherde für sich stehlen. Trinity (Terence Hill) versieht die Tiere jedoch mit dem Brandzeichen der Mormonensiedler. Damit hat der Bruder das Geschäft nach der Logik der Filmhandlung zugunsten der Gemeinschaft entschieden. Die gemeinsame Hilfe führt also nicht zum gemeinsam erhofften Gewinn. Bambinos Enttäuschung entsteht gerade daraus, dass Trinity seine Interessen während des Bündnisses verändert hat.",
+      "anchor": "Das Brandzeichen lässt Bambinos erhoffte Beute den Siedlern zufallen.",
+      "interest": "Der konkrete Umgang mit Eigentum erklärt den Streit nach dem gemeinsamen Erfolg.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Weshalb verzichtet Trinity (Terence Hill) am Ende von @ auf das Bleiben bei den Siedlern?",
+      "answers": [
+        "Er erfährt von der verlangten Arbeit und strengen Lebensführung.",
+        "Er entdeckt einen gegen ihn gerichteten Steckbrief.",
+        "Er soll vor dem Bleiben seine Pferde verkaufen.",
+        "Er erfährt, dass die beiden Frauen bereits verheiratet sind."
+      ],
+      "feedback": [
+        "Arbeit, Gebet und Disziplin schrecken Trinity ab.",
+        "Ein neu entdeckter Steckbrief verursacht diesen Entschluss nicht.",
+        "Ein verlangter Pferdeverkauf ist nicht die Bedingung.",
+        "Eine bestehende Ehe der Frauen erklärt seinen Aufbruch nicht."
+      ],
+      "short": "Die Aussicht auf ein arbeitsames, diszipliniertes Leben vertreibt Trinity.",
+      "context": "Trinity (Terence Hill) fühlt sich zunächst zu Sarah (Gisela Hahn) und Judith (Elena Pedemonte) hingezogen und denkt daran, bei der Gemeinschaft zu bleiben. Dann erfährt er, dass dieses Leben schwere Arbeit, Gebet und strenge Disziplin verlangt. Die romantische Aussicht passt plötzlich nicht mehr zu seinen Gewohnheiten. Sein Abschied löst die komische Spannung zwischen zeitweiliger Hilfsbereitschaft und dauerhaftem Wunsch nach einem bequemen freien Leben.",
+      "anchor": "Die neue Lebensführung ist Trinity zu anstrengend.",
+      "interest": "Die Schlussentscheidung trennt das Helfen von der Bereitschaft zum Ansiedeln.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "Wann erschien @ erstmals?",
+      "answers": [
+        "1970",
+        "1964",
+        "1967",
+        "1973"
+      ],
+      "feedback": [
+        "Der italienische Erstjahrgang ist 1970.",
+        "1964 liegt sechs Jahre davor.",
+        "1967 gehört zum früheren gemeinsamen Western Gott vergibt… Django nie!.",
+        "1973 liegt drei Jahre nach der Erstveröffentlichung."
+      ],
+      "short": "1967 Gott vergibt… Django nie!, 1970 die erste Trinity-Komödie: drei Jahre.",
+      "context": "Terence Hill und Bud Spencer standen 1967 in „Gott vergibt… Django nie!“ gemeinsam vor der Kamera. „Die rechte und die linke Hand des Teufels“ erschien 1970, drei Jahre später. Der frühere Film erzählt einen gewaltsamen Streit um geraubtes Gold; die Trinity-Komödie nutzt das ungleiche Duo für eine andere Art von Westernunterhaltung. Die Verbindung bezeichnet zwei konkrete gemeinsame Werke, keine Handlungskontinuität zwischen ihren Figuren.",
+      "anchor": "1967 gemeinsamer Goldraubwestern, 1970 Trinity: drei Jahre.",
+      "interest": "Der belegte frühere Film macht den Wechsel zum komischen Brüderpaar zeitlich fassbar.",
+      "sources": [
+        "anica",
+        "anker",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Hauptregie?",
+      "answers": [
+        "Enzo Barboni",
+        "Giuseppe Colizzi",
+        "Sergio Corbucci",
+        "Giuliano Carnimeo"
+      ],
+      "feedback": [
+        "Enzo Barboni inszenierte unter dem Namen E. B. Clucher.",
+        "Giuseppe Colizzi ist nicht der Regisseur dieser Trinity-Komödie.",
+        "Sergio Corbucci trägt hier keinen Hauptregiecredit.",
+        "Giuliano Carnimeo inszenierte diesen Film nicht."
+      ],
+      "short": "Enzo Barboni, im Credit E. B. Clucher, führte Regie.",
+      "context": "Das italienische Filmarchiv nennt Enzo Barboni mit dem Pseudonym E. B. Clucher für Regie, Geschichte und Drehbuch. Terence Hill und Bud Spencer verkörpern Trinity und Bambino. Die komische Wirkung entsteht aus ihren unterschiedlichen Temperamenten und aus einer Handlung, die typische Westernmachtkämpfe in widersprüchliche Bündnisse übersetzt. Spätere deutsche Dialogneufassungen gehören zur Sprachbearbeitung und begründen keinen anderen Hauptregiecredit des Originalfilms.",
+      "anchor": "E. B. Clucher ist Enzo Barbonis Regiename.",
+      "interest": "Das Pseudonym wird von der späteren Synchronbearbeitung unterschieden.",
+      "sources": [
+        "anica",
+        "handlung"
+      ]
+    }
+  ]
+}

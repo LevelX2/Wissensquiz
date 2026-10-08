@@ -1,0 +1,209 @@
+{
+  "rank": 9,
+  "directors": [
+    "Robert Aldrich"
+  ],
+  "production_countries": [
+    "USA",
+    "Mexiko"
+  ],
+  "country_note": "AFI führt Mexico, United States; der Artikelcache nennt nur USA. Die AFI-Länderzuordnung wird übernommen, nicht allein aus dem mexikanischen Drehort abgeleitet.",
+  "release_note": "Weltpremiere in New York am 25. Dezember 1954 laut AFI; der Cache nennt denselben Tag.",
+  "director_note": "Robert Aldrich trägt den alleinigen Hauptregiecredit. Burt Lancaster spielt und produziert, ohne zweiten Hauptregiecredit.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: markanter klassischer Western mit Cooper/Lancaster, heute eher eine Genreentdeckung.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Vera_Cruz_(film)",
+    "afi": "https://catalog.afi.com/Film/51398-VERA-CRUZ",
+    "apache": "https://catalog.afi.com/Film/53395-APACHE"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Auf welcher Seite kämpfte Ben Trane (Gary Cooper) vor seiner Reise in @?",
+      "answers": [
+        "Für die Südstaaten",
+        "Für die Unionsarmee",
+        "Für die französische Fremdenlegion",
+        "Für eine mexikanische Garnison"
+      ],
+      "feedback": [
+        "Ben war Soldat der Südstaaten.",
+        "Er war kein Soldat der Unionsarmee.",
+        "Die Fremdenlegion ist nicht seine frühere Einheit.",
+        "Seine Vorgeschichte liegt nicht in einer mexikanischen Garnison."
+      ],
+      "short": "Ben Trane ist ein ehemaliger Soldat der Südstaaten.",
+      "context": "Ben Trane (Gary Cooper) hat im amerikanischen Bürgerkrieg für die Südstaaten gekämpft. Er reist nach Mexiko, um bezahlte Arbeit als Söldner zu finden, und schließt sich Joe Erin (Burt Lancaster) an. Die Männer bringen unterschiedliche Vorstellungen in das neue Bündnis ein. Ben versucht, seine Entscheidungen mit eingegangenen Verpflichtungen zu verbinden. Sein früherer militärischer Hintergrund steht damit am Anfang einer Reise, die seine Haltung zum gemeinsamen Gewinn erneut prüft.",
+      "anchor": "Der ehemalige Südstaatensoldat sucht einen neuen Anfang als Söldner.",
+      "interest": "Verankert die Vorgeschichte des Hauptpartners ohne geografischen Titelhinweis.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welchen offiziellen Auftrag erhalten Ben und Joe (Gary Cooper, Burt Lancaster) vom Kaiser in @?",
+      "answers": [
+        "Eine Gräfin zum Hafen eskortieren",
+        "Ein gefangenes Regiment befreien",
+        "Eine Grenzfestung zurückerobern",
+        "Eine zerstörte Bahnlinie sichern"
+      ],
+      "feedback": [
+        "Sie sollen die Gräfin mit ihrer Kutsche zum Hafen begleiten.",
+        "Eine Regimentsbefreiung ist nicht der vereinbarte Auftrag.",
+        "Sie werden nicht für die Rückeroberung einer Grenzfestung bezahlt.",
+        "Der Vertrag betrifft keine Bahnlinie."
+      ],
+      "short": "Der Kaiser bezahlt sie für den Geleitschutz der Gräfin.",
+      "context": "Kaiser Maximilian (George Macready) verpflichtet Ben Trane (Gary Cooper) und Joe Erin (Burt Lancaster), die Gräfin Marie Duvarre (Denise Darcel) zum Hafen zu begleiten. Zunächst erscheint der Auftrag als bezahlter Personenschutz. Die Kutsche transportiert jedoch mehr als eine Reisende. Das verdeckte Interesse an ihrer Fracht verändert das Verhältnis zwischen den Beteiligten: Begleiter, Auftraggeber und Passagierin beginnen, ihre eigenen Pläne gegeneinander zu verfolgen.",
+      "anchor": "Der einfache Geleitauftrag verbirgt eine wertvolle Fracht.",
+      "interest": "Trennt offiziellen Auftrag und spätere Absichten.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wofür ist das heimlich mitgeführte Gold in @ ursprünglich bestimmt?",
+      "answers": [
+        "Für neue Truppen aus Europa",
+        "Für den Bau einer Eisenbahn",
+        "Für den Rückkauf besetzter Ranches",
+        "Für Entschädigungen an Dorfbewohner"
+      ],
+      "feedback": [
+        "Mit dem Gold sollen Verstärkungen aus Europa bezahlt werden.",
+        "Die ursprüngliche Bestimmung ist keine Eisenbahnfinanzierung.",
+        "Ein Rückkauf von Ranches ist nicht der Zweck.",
+        "Das Gold ist nicht als Entschädigung für die Dörfer vorgesehen."
+      ],
+      "short": "Der Kaiser benötigt das Gold zur Finanzierung europäischer Verstärkung.",
+      "context": "Die Gräfin Marie Duvarre (Denise Darcel) erklärt Ben Trane (Gary Cooper) und Joe Erin (Burt Lancaster), dass das verborgene Gold neue Truppen aus Europa finanzieren soll. Damit erhält die Kutsche militärische Bedeutung. Ihre Fracht ist kein gewöhnliches Reisevermögen, sondern soll das Kräfteverhältnis im Konflikt verändern. Die Begleiter erkennen zugleich eine Möglichkeit zur Bereicherung, wodurch der offizielle Geleitschutz zu einem Kampf um Kontrolle über dieselbe Ressource wird.",
+      "anchor": "Das Gold verbindet den Geleitschutz mit europäischer Verstärkung.",
+      "interest": "Erfasst die politische Funktion der versteckten Fracht.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Auf welcher Seite arbeitet Nina (Sara Montiel) heimlich in @?",
+      "answers": [
+        "Für die Juaristen",
+        "Für die kaiserliche Geheimpolizei",
+        "Für französische Offiziere",
+        "Für eine unabhängige Söldnergruppe"
+      ],
+      "feedback": [
+        "Nina unterstützt die Juaristen.",
+        "Sie arbeitet nicht für die kaiserliche Geheimpolizei.",
+        "Französische Offiziere sind nicht ihre Auftraggeber.",
+        "Ihre verdeckte Zugehörigkeit ist keine unabhängige Söldnertruppe."
+      ],
+      "short": "Nina ist mit den Juaristen verbunden.",
+      "context": "Nina (Sara Montiel) wirkt zunächst wie eine geschickte Taschendiebin, die Ben Trane (Gary Cooper) um seine Geldbörse erleichtert. Ihre spätere Nähe zu den Juaristen zeigt, dass sie zugleich im politischen Konflikt handelt. Für Ben wird sie eine Verbindung zur Gegenseite seines ersten Auftraggebers. Die Figur besitzt damit ein eigenes Interesse an den Ereignissen und folgt nicht einfach den wechselnden Gewinnversprechen der beiden amerikanischen Söldner.",
+      "anchor": "Ninas Diebstahl verdeckt ihre Verbindung zum Widerstand.",
+      "interest": "Unterscheidet ersten Eindruck und politische Zugehörigkeit.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was trennt Ben und Joe (Gary Cooper, Burt Lancaster) im letzten Konflikt von @?",
+      "answers": [
+        "Ben will die Goldzusage einhalten, Joe will die Beute allein",
+        "Ben will den Kaiser retten, Joe will ihn stürzen",
+        "Ben will heimkehren, Joe will die Gräfin heiraten",
+        "Ben will Nina (Sara Montiel) ausliefern, Joe will sie schützen"
+      ],
+      "feedback": [
+        "Ben steht zu seiner Vereinbarung mit den Juaristen; Joe will das Gold für sich.",
+        "Die Rettung des Kaisers ist nicht Bens Schlussforderung.",
+        "Eine Heirat mit der Gräfin erklärt Joes Vorgehen nicht.",
+        "Ninas Auslieferung ist nicht der Kern des Duells."
+      ],
+      "short": "Das Bündnis zerbricht an Joes Anspruch auf das gesamte Gold.",
+      "context": "Ben Trane (Gary Cooper) und Joe Erin (Burt Lancaster) kämpfen gemeinsam gegen die kaiserlichen Truppen. Danach verlangt Ben, dass das Gold entsprechend ihrer Vereinbarung den Juaristen gehört. Joe versucht stattdessen, die Beute allein fortzuschaffen. Der gemeinsame Sieg beseitigt ihren Gegensatz nicht, sondern legt ihn offen: Zusammenarbeit aus Eigennutz und eine eingehaltene Verpflichtung führen zu unvereinbaren Entscheidungen. Ihr abschließendes Duell beendet das Bündnis tödlich.",
+      "anchor": "Der gemeinsame Sieg führt zur Entscheidung zwischen Zusage und Alleinbesitz.",
+      "interest": "Verbindet Schlusskonflikt und unterschiedliche Moral.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welches Breitwandverfahren hatte laut AFI mit @ seine erste Filmveröffentlichung?",
+      "answers": [
+        "SuperScope",
+        "VistaVision",
+        "Cinerama",
+        "Todd-AO"
+      ],
+      "feedback": [
+        "AFI nennt Vera Cruz als erste SuperScope-Veröffentlichung.",
+        "VistaVision ist ein anderes Verfahren.",
+        "Cinerama ist nicht das hier eingeführte Verfahren.",
+        "Todd-AO ist nicht der gesuchte technische Zusammenhang."
+      ],
+      "short": "AFI bezeichnet den Film als erste Veröffentlichung in SuperScope.",
+      "context": "AFI nennt Vera Cruz als ersten in SuperScope veröffentlichten Film. Das Verfahren erzeugte aus einer gewöhnlich aufgenommenen Bildfläche eine für die Vorführung verbreiterte Fassung. Die Breitwandfassung entstand durch einen nachträglichen Beschnitt und eine anamorphotische Anpassung. Dieser Zusammenhang unterscheidet die Aufnahme vom endgültigen Projektionsformat. Die große Bildbreite war damit nicht einfach das Ergebnis einer bereits entsprechend breiten Kamerafilmfläche, sondern Teil der weiteren Bildbearbeitung.",
+      "anchor": "SuperScope trennt gewöhnliche Aufnahme und verbreiterte Kinofassung.",
+      "interest": "Erklärt ein konkretes filmtechnisches Entstehungsdetail.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Gary Cooper und Burt Lancaster erstmals?",
+      "answers": [
+        "1954",
+        "1951",
+        "1957",
+        "1960"
+      ],
+      "feedback": [
+        "1954 ist der Jahrgang der New Yorker Weltpremiere.",
+        "1951 liegt drei Jahre vor dem Erstjahr.",
+        "1957 ist drei Jahre zu spät.",
+        "1960 liegt sechs Jahre nach der Premiere."
+      ],
+      "short": "Die New Yorker Weltpremiere fand 1954 statt.",
+      "context": "Vera Cruz hatte seine Weltpremiere 1954. Auch Apache, ebenfalls mit Burt Lancaster unter Robert Aldrichs Hauptregie, erschien 1954; zwischen den beiden Erstjahrgängen liegen also null Jahre. Die Verbindung zeigt eine besonders enge Arbeitsphase dieses Teams. Beide Western entstanden innerhalb desselben Jahres, verfolgen aber unterschiedliche Konflikte: hier das wechselhafte Geschäft von Söldnern in Mexiko, dort die Geschichte eines sich widersetzenden Apache-Kriegers.",
+      "anchor": "1954 Apache und Vera Cruz: zwei Aldrich/Lancaster-Western im selben Jahr.",
+      "interest": "Verknüpft den Erstjahrgang mit einer konkreten Zusammenarbeit.",
+      "sources": [
+        "afi",
+        "apache"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Gary Cooper und Burt Lancaster Hauptregie?",
+      "answers": [
+        "Robert Aldrich",
+        "Anthony Mann",
+        "John Sturges",
+        "Henry Hathaway"
+      ],
+      "feedback": [
+        "Robert Aldrich trägt den Hauptregiecredit.",
+        "Anthony Mann inszenierte diesen Film nicht.",
+        "John Sturges ist nicht der Hauptregisseur.",
+        "Henry Hathaway trägt hier keinen Hauptregiecredit."
+      ],
+      "short": "Robert Aldrich führte Hauptregie.",
+      "context": "Robert Aldrich inszenierte Vera Cruz mit Gary Cooper und Burt Lancaster. Die beiden Stars verkörpern Partner, deren gemeinsame Unternehmung ihre Unterschiede zunehmend sichtbar macht. Die Regie organisiert zunächst Zusammenarbeit und später offenen Gegensatz innerhalb derselben Reise. Lancaster war zugleich an der Produktion beteiligt; diese zusätzliche Funktion macht ihn jedoch nicht zu einem zweiten Hauptregisseur. Der veröffentlichte Hauptcredit gehört nach AFI allein Aldrich.",
+      "anchor": "Aldrich führt das Söldnerbündnis von Zusammenarbeit zum offenen Gegensatz.",
+      "interest": "Ordnet die Hauptregie unabhängig vom produzierenden Star zu.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "rank": 7,
+  "directors": [
+    "John Ford"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1949; Premiere in Kansas City am 26. Juli 1949 vor dem späteren allgemeinen Start.",
+  "director_note": "John Ford ist der vollständige Hauptregiecredit laut AFI.",
+  "series": {
+    "name": "John Fords Kavallerietrilogie",
+    "position": 2,
+    "note": "Thematische Werkgruppe: Fort Apache (1948), She Wore a Yellow Ribbon (1949), Rio Grande (1950). Keine fortlaufende Geschichte derselben Figuren."
+  },
+  "familiarity_reason": "Prägender Ford/Wayne-Kavalleriewestern, heute vor allem im Klassikerkontext bekannt; Bekanntheit 3.",
+  "notes": "Vollständige Plot-/Cast-Caches gelesen; AFI ergänzt Credits, Land und Jahresdaten. AFI/Cache unterscheiden bei Regimentsnummer, Fort-Stark/Starke und Clint/Flint. Diese Angaben werden nicht als Lösungen verwendet; kein automatischer Schluss aus einer abweichenden Schreibweise. Keine Filmsichtung.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/She_Wore_a_Yellow_Ribbon",
+    "afi": "https://catalog.afi.com/Film/26100-SHE-WORE-A-YELLOW-RIBBON",
+    "fortapache": "https://catalog.afi.com/Film/25545-"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welcher persönliche Einschnitt steht Captain Brittles (John Wayne) in @ bevor?",
+      "answers": [
+        "Seine Pensionierung",
+        "Seine Hochzeit",
+        "Seine Versetzung nach Washington",
+        "Sein Kriegsgerichtsprozess"
+      ],
+      "feedback": [
+        "Brittles steht kurz vor der Pensionierung.",
+        "Eine bevorstehende Hochzeit bildet nicht seine Ausgangslage.",
+        "Eine Versetzung nach Washington ist nicht der geplante Einschnitt.",
+        "Er wartet nicht auf einen Kriegsgerichtsprozess."
+      ],
+      "short": "Brittles steht kurz vor der Pensionierung.",
+      "context": "Captain Nathan Brittles (John Wayne) nähert sich dem Ende seiner langen militärischen Laufbahn. Die Pensionierung macht seine letzte Aufgabe zu einer besonderen Bewährungsprobe: Er möchte Erfahrung weitergeben und seine Männer nicht in vermeidbare Gefahr führen. Der Abschied ist außerdem ein persönliches Problem. Die militärische Gemeinschaft bestimmt seinen Alltag so stark, dass der Schritt aus dem Dienst zugleich den Verlust eines vertrauten Lebensraums bedeutet.",
+      "anchor": "Brittles’ letzte Tage vor der Pensionierung.",
+      "interest": "Erkennt die persönliche Ausgangslage des erfahrenen Offiziers.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wer wirbt in @ um Olivia Dandridge (Joanne Dru)?",
+      "answers": [
+        "Zwei junge Offiziere",
+        "Der Kommandant und der Arzt",
+        "Zwei zivile Scouts",
+        "Der Sergeant und ein Händler"
+      ],
+      "feedback": [
+        "Zwei junge Offiziere konkurrieren um Olivia.",
+        "Kommandant und Arzt bilden nicht das werbende Paar.",
+        "Die Rivalen sind keine zivilen Scouts.",
+        "Sergeant und Händler sind nicht ihre beiden Verehrer."
+      ],
+      "short": "Zwei junge Offiziere konkurrieren um Olivia.",
+      "context": "Olivia Dandridge (Joanne Dru) wird von zwei jungen Offizieren umworben. Ihre Rivalität stört die militärische Disziplin und bietet Captain Brittles (John Wayne) Gelegenheit, beide zurechtzuweisen. Die Liebesgeschichte ist dadurch mit seinem Umgang mit dem Nachwuchs verbunden. Sie bringt Leichtigkeit in die Handlung, zeigt aber auch, dass die Gemeinschaft des Forts aus privaten Wünschen ebenso besteht wie aus Befehlen und Pflichten.",
+      "anchor": "Zwei Offiziere konkurrieren um Olivia.",
+      "interest": "Erkennt die Figurenkonstellation einer eigenständigen Nebenhandlung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wohin soll Brittles (John Wayne) die beiden Frauen bei seinem Auftrag in @ bringen?",
+      "answers": [
+        "Zu einer ostwärts fahrenden Postkutsche",
+        "Zu einem westwärts ziehenden Treck",
+        "Zu einem südlich gelegenen Missionshaus",
+        "Zu einem nördlich gelegenen Lazarett"
+      ],
+      "feedback": [
+        "Die Frauen sollen eine ostwärts fahrende Postkutsche erreichen.",
+        "Ein westwärts ziehender Treck ist nicht das vorgesehene Ziel.",
+        "Eine Mission bildet nicht den geplanten Übergabepunkt.",
+        "Ein nördliches Lazarett ist nicht ihr Reiseziel."
+      ],
+      "short": "Die Frauen sollen eine ostwärts fahrende Postkutsche erreichen.",
+      "context": "Captain Brittles (John Wayne) soll Olivia Dandridge (Joanne Dru) und Abby Allshard (Mildred Natwick) zu einer ostwärts fahrenden Postkutsche begleiten. Die Schutzaufgabe kommt zu seinem militärischen Auftrag hinzu und erschwert die Reise. Die Frauen sind deshalb keine bloßen Zuschauerinnen im Fort. Ihre Anwesenheit beeinflusst die Möglichkeiten der Truppe und macht die Verpflichtung gegenüber Zivilpersonen zu einem konkreten Teil der Handlung.",
+      "anchor": "Die Frauen sollen die Ost-Postkutsche erreichen.",
+      "interest": "Erfasst die zusätzliche Schutzaufgabe innerhalb der militärischen Reise.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was findet Brittles’ (John Wayne) Truppe an der Postkutschenstation in @ vor?",
+      "answers": [
+        "Eine niedergebrannte Station",
+        "Eine von Soldaten besetzte Station",
+        "Eine durch Hochwasser abgeschnittene Station",
+        "Eine von Flüchtlingen belegte Station"
+      ],
+      "feedback": [
+        "Die Station ist niedergebrannt.",
+        "Eine andere Soldateneinheit besetzt sie nicht.",
+        "Hochwasser erklärt ihre Unbenutzbarkeit nicht.",
+        "Eine Belegung durch Flüchtlinge ist nicht der Befund."
+      ],
+      "short": "Die Station ist niedergebrannt.",
+      "context": "Captain Brittles (John Wayne) erreicht mit seiner Truppe die vorgesehene Postkutschenstation erst nach Umwegen. Sie ist niedergebrannt; der Plan, die Frauen von dort aus weiterreisen zu lassen, scheitert. Die Gruppe muss zurückkehren, ohne die gewünschte Sicherheit hergestellt zu haben. Der Fund verdichtet das Gefühl einer misslungenen letzten Mission und zeigt, dass Erfahrung allein die Bedingungen unterwegs nicht kontrollieren kann.",
+      "anchor": "Die verbrannte Station macht die Übergabe unmöglich.",
+      "interest": "Prüft den konkreten Befund, der einen Reiseplan scheitern lässt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche nächtliche Aktion lässt Brittles (John Wayne) in @ ausführen?",
+      "answers": [
+        "Die Pferde des gegnerischen Lagers forttreiben",
+        "Die Gewehre des gegnerischen Lagers zerstören",
+        "Den Anführer des gegnerischen Lagers entführen",
+        "Die Vorräte des gegnerischen Lagers verbrennen"
+      ],
+      "feedback": [
+        "Brittles lässt die Pferde in eine Stampede treiben.",
+        "Er löst die Lage nicht durch Zerstörung der Gewehre.",
+        "Eine Entführung des Anführers ist nicht sein Plan.",
+        "Das Verbrennen von Vorräten ist nicht die gewählte Aktion."
+      ],
+      "short": "Brittles lässt die Pferde in eine Stampede treiben.",
+      "context": "Captain Brittles (John Wayne) versucht zunächst, einen drohenden Kampf durch Verständigung zu verhindern. Als dies nicht gelingt, lässt er nachts die Pferde des gegnerischen Lagers forttreiben. Ohne ihre Reittiere können die Krieger den geplanten Angriff nicht wie vorgesehen führen. Die Lösung setzt auf Entzug von Beweglichkeit statt auf ein Gefecht mit vielen Toten und kennzeichnet Brittles’ Vorstellung von verantwortlicher Führung.",
+      "anchor": "Die Pferde fliehen, der Angriff bleibt aus.",
+      "interest": "Erkennt das konkrete taktische Mittel zur Vermeidung eines größeren Kampfes.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "In welcher Funktion wird Brittles (John Wayne) am Ende von @ wieder in den Dienst berufen?",
+      "answers": [
+        "Als Chief of Scouts",
+        "Als Ausbilder der jungen Offiziere",
+        "Als Kommandant einer neuen Grenzgarnison",
+        "Als Leiter einer Nachschubkolonne"
+      ],
+      "feedback": [
+        "Brittles erhält die Ernennung zum Chief of Scouts.",
+        "Die neue Funktion ist nicht die eines Offiziersausbilders.",
+        "Er übernimmt nicht das Kommando einer neuen Grenzgarnison.",
+        "Die Ernennung betrifft keine Nachschubkolonne."
+      ],
+      "short": "Brittles erhält die Ernennung zum Chief of Scouts.",
+      "context": "Nach seinem offiziellen Abschied reitet Nathan Brittles (John Wayne) zunächst allein fort. Dann erreicht ihn die Ernennung zum Chief of Scouts, die ihm die Rückkehr in den Dienst ermöglicht. Sein Erfahrungswissen wird also in einer neuen Funktion anerkannt. Der Schluss beantwortet damit das persönliche Problem des bevorstehenden Ausscheidens: Die Gemeinschaft verliert ihn nicht vollständig, und er findet einen weiteren Platz in ihr.",
+      "anchor": "Der Pensionär kehrt als Chief of Scouts zurück.",
+      "interest": "Erkennt die präzise Lösung der persönlichen Abschiedsgeschichte.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1949",
+        "1946",
+        "1952",
+        "1955"
+      ],
+      "feedback": [
+        "Der Film erschien erstmals 1949.",
+        "1946 liegt drei Jahre vor dem Filmstart.",
+        "1952 ist drei Jahre zu spät.",
+        "1955 liegt sechs Jahre nach der Veröffentlichung."
+      ],
+      "short": "Der Film erschien erstmals 1949.",
+      "context": "John Fords Fort Apache, deutsch Bis zum letzten Mann, erschien 1948. She Wore a Yellow Ribbon folgte 1949, ein Jahr später. Die AFI-History ordnet diese Werke zusammen mit Rio Grande in die Kavallerietrilogie ein. Der Zusammenhang ist thematisch: Die Filme teilen die Beschäftigung mit militärischer Gemeinschaft und Führung, erzählen aber keine fortlaufende Geschichte derselben Figuren.",
+      "anchor": "Fort Apache 1948, nächster Kavalleriefilm 1949.",
+      "interest": "Verankert das Erstjahr in einer konkret datierten Werkfolge.",
+      "sources": [
+        "afi",
+        "fortapache"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "John Ford",
+        "Howard Hawks",
+        "Raoul Walsh",
+        "Henry Hathaway"
+      ],
+      "feedback": [
+        "John Ford führte die Hauptregie.",
+        "Howard Hawks ist nicht der Regisseur dieses Films.",
+        "Raoul Walsh führte hier nicht Regie.",
+        "Henry Hathaway ist nicht der Hauptregisseur."
+      ],
+      "short": "John Ford führte die Hauptregie.",
+      "context": "John Ford ist bei AFI als Hauptregisseur ausgewiesen. Der Film verbindet Nathan Brittles’ (John Wayne) letzten Auftrag mit Ritualen und persönlichen Bindungen innerhalb der Kavalleriegemeinschaft. Militärische Führung wird nicht nur durch Befehle sichtbar, sondern auch durch den Umgang mit jungen Offizieren und den Wunsch, Leben zu bewahren. Die Abschiedsgeschichte gibt dem großen Landschaftswestern damit einen eng geführten persönlichen Mittelpunkt.",
+      "anchor": "Ford erzählt Führung als Verantwortung und Bindung.",
+      "interest": "Verknüpft den Regiecredit mit dem konkreten Schwerpunkt dieses Kavalleriewesterns.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ]
+}

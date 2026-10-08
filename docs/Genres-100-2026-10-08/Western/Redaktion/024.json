@@ -1,0 +1,215 @@
+{
+  "rank": 24,
+  "directors": [
+    "Gregor Jordan"
+  ],
+  "production_countries": [
+    "Australien",
+    "Großbritannien"
+  ],
+  "country_note": "Screen Australias spezifisches Koproduktionsregister nennt Australien/Vereinigtes Königreich einschließlich Nordirlands. Dieser Zuordnung folgt die Redaktion; Nordirland ist kein zusätzliches Land. BFI führt zusätzlich USA und Frankreich, der Cache nur Australien/UK. Die abweichende institutionelle Erfassung bleibt ausdrücklich dokumentiert.",
+  "release_note": "NFSA belegt den australischen Kinostart am 27. März 2003; Erstjahr 2003. Screen Australia bestätigt Abschlussjahr und Hauptregie. Die Kinofassung mit Heath Ledger wird von älteren Kelly-Verfilmungen getrennt.",
+  "familiarity_reason": "Heath-Ledger-Bushrangerfilm mit prominenter Besetzung, eher unter Film- und Westernkennern geläufig; redaktionell Bekanntheit 3.",
+  "series": null,
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Ned_Kelly_(2003_film)",
+    "nfsa": "https://www.nfsa.gov.au/collection/item/ned-kelly-trouble-coppers",
+    "glenrowan": "https://www.nfsa.gov.au/collection/item/ned-kelly-siege-glenrowan",
+    "register": "https://www.screenaustralia.gov.au/screen-guide/ned-kelly-17579/",
+    "bfi": "https://www.bfi.org.uk/film/fde6dd95-bdc9-511a-b091-c702d0ac5568/ned-kelly"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wegen welcher Beschuldigung kommt Ned Kelly (Heath Ledger) zu Beginn von @ ins Gefängnis?",
+      "answers": [
+        "Pferdediebstahl",
+        "Bankraub",
+        "Brandstiftung",
+        "Postkutschenüberfall"
+      ],
+      "feedback": [
+        "Kelly wird wegen eines gestohlenen Pferdes verurteilt.",
+        "Ein Bankraub ist nicht der frühe Haftgrund.",
+        "Eine Brandstiftung begründet diese Verurteilung nicht.",
+        "Ein Postkutschenüberfall führt ihn hier nicht ins Gefängnis."
+      ],
+      "short": "Die frühe Haft folgt auf den Vorwurf des Pferdediebstahls.",
+      "context": "Ned Kelly (Heath Ledger) wird im Film beschuldigt, ein Pferd gestohlen zu haben, und muss ins Gefängnis. Nach seiner Rückkehr arbeitet er auf der Familienfarm, doch weitere Konflikte mit der Polizei folgen. Die Erzählung stellt die frühe Verurteilung als Ausgangspunkt seiner Ausgrenzung dar. Damit wird zunächst eine konkrete Erfahrung der Filmfigur eingeführt, bevor sie sich mit anderen zum bewaffneten Widerstand zusammenschließt.",
+      "anchor": "Der Pferdediebstahlsvorwurf steht vor der späteren Bandengeschichte.",
+      "interest": "Der frühe Konflikt erschließt die Ausgangslage ohne historische Schuldbehauptung.",
+      "sources": [
+        "handlung",
+        "nfsa"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Womit schützt sich Kellys Gruppe beim letzten großen Schusswechsel in @?",
+      "answers": [
+        "Mit selbstgebauten Metallrüstungen",
+        "Mit verstärkten Lederwesten",
+        "Mit erbeuteten Polizeischilden",
+        "Mit unter der Kleidung getragenen Kettenhemden"
+      ],
+      "feedback": [
+        "Die Gruppe verwendet selbstgefertigte Helme und Rüstungsplatten.",
+        "Lederwesten bilden nicht den charakteristischen Schutz.",
+        "Polizeischilde sind nicht ihre Ausrüstung.",
+        "Verborgene Kettenhemden werden nicht als Schutz gezeigt."
+      ],
+      "short": "Die Gruppe trägt selbstgebaute Metallrüstungen.",
+      "context": "Ned Kelly (Heath Ledger) und seine Gefährten treten beim Kampf am Glenrowan Inn in selbstgebauten Metallrüstungen auf. Helme und Platten verändern ihre Silhouetten und sollen Kugeln abhalten. Die Ausrüstung vermittelt im Film Zuversicht gegenüber der großen Polizeimacht, kann die Gruppe jedoch nicht vollständig schützen. NFSA beschreibt die Szene als dramatische Gestaltung und weist auf Abweichungen von Reihenfolge und Umfang der historischen Belagerung hin.",
+      "anchor": "Die Metallplatten prägen das Bild des letzten Widerstands.",
+      "interest": "Das ikonische Schutzmittel ist ein zugängliches eigenständiges Inhaltsziel.",
+      "sources": [
+        "handlung",
+        "glenrowan"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum verweigert Julia Cook (Naomi Watts) Kelly (Heath Ledger) in @ das erbetene Alibi?",
+      "answers": [
+        "Sie fürchtet gesellschaftliche Ächtung und den Verlust ihrer Kinder.",
+        "Sie hat zur fraglichen Zeit tatsächlich einen anderen Mann getroffen.",
+        "Sie will die Belohnung für Kellys Festnahme erhalten.",
+        "Sie glaubt, ihr Ehemann werde sonst des Schusses beschuldigt."
+      ],
+      "feedback": [
+        "Julia will die Folgen eines öffentlich eingestandenen Ehebruchs vermeiden.",
+        "Ein anderer Geliebter widerlegt hier das Alibi nicht.",
+        "Die ausgesetzte Belohnung ist nicht ihr Motiv.",
+        "Ihr Ehemann soll nicht wegen des Schusses geschützt werden."
+      ],
+      "short": "Julia fürchtet die Folgen eines öffentlich eingestandenen Ehebruchs.",
+      "context": "Ned Kelly (Heath Ledger) war im Film bei Julia Cook (Naomi Watts), als Constable Fitzpatrick (Kiri Paramore) verletzt wurde. Julia könnte ihn deshalb entlasten, müsste aber ihre außereheliche Beziehung offenlegen. Sie fürchtet gesellschaftliche Ächtung und den Verlust ihrer Kinder. NFSA erklärt die Romanze ausdrücklich als Erfindung der Romanvorlage. Das Alibi und seine Verweigerung sind daher Teil dieser Filmgestaltung, kein nachgewiesenes Liebesverhältnis des historischen Kelly.",
+      "anchor": "Das mögliche Alibi kollidiert mit Julias Angst vor den Folgen.",
+      "interest": "Die Entscheidung erschließt den persönlichen Preis der erfundenen Romanze.",
+      "sources": [
+        "handlung",
+        "nfsa"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was tut die Bande in @ mit Schuldunterlagen bei ihren Banküberfällen?",
+      "answers": [
+        "Sie verbrennt Hypothekenunterlagen.",
+        "Sie behält sie als Druckmittel gegen die Schuldner.",
+        "Sie übergibt sie den örtlichen Polizeibeamten.",
+        "Sie ersetzt sie durch höhere Schuldforderungen."
+      ],
+      "feedback": [
+        "Die Bande verbrennt Unterlagen über Hypothekenschulden.",
+        "Sie bewahrt sie nicht zur Erpressung der Schuldner auf.",
+        "Eine Übergabe an die Polizei ist nicht ihr Vorgehen.",
+        "Höhere neue Forderungen erstellt sie nicht."
+      ],
+      "short": "Die Bande vernichtet Hypothekenunterlagen.",
+      "context": "Die Bande um Ned Kelly (Heath Ledger) raubt im Film Banken aus und verbrennt Hypothekenunterlagen. Damit verbindet die Erzählung den Raub mit einer Entlastung verschuldeter Menschen. Zusammen mit der Verteilung eines Teils des Geldes trägt die Handlung zur Darstellung als Volkshelden bei. Die Frage betrifft den gezeigten Umgang mit den Papieren; die filmische Sympathielenkung wird nicht als vollständiges historisches Urteil über die Bande ausgegeben.",
+      "anchor": "Die verbrannten Schuldpapiere machen aus dem Raub eine filmische Entlastungsgeste.",
+      "interest": "Der konkrete Papierumgang erklärt die Sympathielenkung des Films.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie prüft Kellys Bande in @ den Verdacht gegen Aaron Sherritt (Joel Edgerton)?",
+      "answers": [
+        "Sie nennt ihm einen erfundenen nächsten Überfall und beobachtet die Polizei.",
+        "Sie lässt ihn einen falschen Steckbrief an die Zeitung geben.",
+        "Sie versteckt gestohlenes Geld in seinem Haus und wartet ab.",
+        "Sie bittet ihn, einen Gefangenen aus der Polizeiwache zu befreien."
+      ],
+      "feedback": [
+        "Die Polizei erscheint am mitgeteilten falschen Ziel und verrät so den Informationsfluss.",
+        "Ein falscher Steckbrief ist nicht die Probe.",
+        "Verstecktes Geld in seinem Haus dient nicht als Test.",
+        "Eine verlangte Gefangenenbefreiung prüft seine Loyalität nicht."
+      ],
+      "short": "Eine falsche Überfallinformation entlarvt den Informanten.",
+      "context": "Aaron Sherritt (Joel Edgerton) gibt Informationen an die Polizei weiter. Die Bande um Ned Kelly (Heath Ledger) und Joe Byrne (Orlando Bloom) prüft ihren Verdacht, indem sie ihm einen erfundenen nächsten Überfall nennt. Als Polizisten zu dem genannten Ziel aufbrechen, bestätigt sich der Informationsfluss. Die Falle verwendet Wissen statt eines direkten Geständnisses und leitet im Film eine tödliche Konsequenz für Aarons Verrat ein.",
+      "anchor": "Die Polizei folgt der falschen Information und bestätigt den Verdacht.",
+      "interest": "Die überprüfbare Falle ist ein eigenständiger Zusammenhang der Bandengeschichte.",
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was verhindert in @ die geplante Entgleisung des Polizeizugs vor Glenrowan?",
+      "answers": [
+        "Ein Lehrer warnt den Zug.",
+        "Ein Bahnarbeiter repariert heimlich die Schienen.",
+        "Ein Sturm zwingt den Zug auf eine andere Strecke.",
+        "Die Polizei entdeckt eine verräterische Sprengstoffkiste."
+      ],
+      "feedback": [
+        "Ein örtlicher Lehrer warnt den herannahenden Zug.",
+        "Eine heimliche Reparatur ist nicht die genannte Rettung.",
+        "Ein Sturm leitet den Zug nicht um.",
+        "Eine entdeckte Sprengstoffkiste verhindert den Plan nicht."
+      ],
+      "short": "Ein Lehrer warnt den Zug vor der sabotierten Strecke.",
+      "context": "Ned Kelly (Heath Ledger) plant, den Zug mit den herannahenden Polizeikräften durch sabotierte Gleise entgleisen zu lassen. Ein örtlicher Lehrer warnt den Zug und verhindert den Plan. Die Polizei erreicht Glenrowan trotzdem, und die Lage geht in die Belagerung des Gasthauses über. NFSA beschreibt diese Handlungsfolge, unterscheidet aber ausdrücklich die filmische Verdichtung von der historischen Reihenfolge und Zahl der Beteiligten.",
+      "anchor": "Die Warnung des Lehrers verhindert die geplante Zugfalle.",
+      "interest": "Das Scheitern erklärt den Übergang zur entscheidenden Belagerung.",
+      "sources": [
+        "nfsa",
+        "glenrowan"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ erstmals?",
+      "answers": [
+        "2003",
+        "1997",
+        "2000",
+        "2006"
+      ],
+      "feedback": [
+        "NFSA belegt den australischen Filmstart 2003.",
+        "1997 liegt sechs Jahre vor dem Film.",
+        "2000 liegt drei Jahre davor.",
+        "2006 liegt drei Jahre nach dem Erstjahr."
+      ],
+      "short": "1991 Our Sunshine, 2003 Ned Kelly: zwölf Jahre.",
+      "context": "Robert Drewes Roman „Our Sunshine“ erschien 1991. „Gesetzlos – Die Geschichte des Ned Kelly“ folgte 2003, zwölf Jahre später, als Verfilmung mit Heath Ledger. NFSA nennt die Vorlage und ordnet auch deren erfundene romantische Nebenhandlung ein. Der Vergleich verbindet zwei konkrete Bearbeitungen der Kelly-Erzählung. Die filmischen Ereignisse und ihre Reihenfolge werden deshalb als Gestaltung einer Adaption verstanden, nicht als unveränderte historische Überlieferung.",
+      "anchor": "1991 Romanvorlage, 2003 Film: zwölf Jahre Abstand.",
+      "interest": "Die belegte Romanveröffentlichung liefert einen passenden Erinnerungsanker.",
+      "sources": [
+        "nfsa",
+        "register"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Hauptregie?",
+      "answers": [
+        "Gregor Jordan",
+        "John Hillcoat",
+        "Rolf de Heer",
+        "Justin Kurzel"
+      ],
+      "feedback": [
+        "NFSA und Screen Australia nennen Gregor Jordan.",
+        "John Hillcoat ist nicht der Regisseur dieses Kelly-Films.",
+        "Rolf de Heer trägt hier keinen Hauptregiecredit.",
+        "Justin Kurzel inszenierte eine andere spätere Kelly-Adaption, nicht diesen Film."
+      ],
+      "short": "Gregor Jordan führte Regie.",
+      "context": "Gregor Jordan inszenierte die Verfilmung mit Heath Ledger als Ned Kelly und Orlando Bloom als Joe Byrne. John Michael McDonagh schrieb das Drehbuch nach Robert Drewes Roman „Our Sunshine“. NFSA und Screen Australia trennen diese Credits klar. Andere filmische Kelly-Erzählungen gehören zu eigenen Fassungen mit anderen Hauptdarstellern und Regisseuren; sie werden nicht zum Hauptregieteam dieses Kinofilms oder zu dessen Veröffentlichungsjahr gerechnet.",
+      "anchor": "Jordan inszeniert McDonaghs Adaption von Drewe.",
+      "interest": "Die institutionellen Credits sichern die Identität der konkret behandelten Fassung.",
+      "sources": [
+        "nfsa",
+        "register"
+      ]
+    }
+  ]
+}

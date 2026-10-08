@@ -1,0 +1,3282 @@
+{
+  "date": "2026-10-08",
+  "scope": "Eigene Redaktion auf tatsächlich gelesenen Quellen; keine unabhängige zweite Vollrecherche.",
+  "questions": [
+    {
+      "question_id": "G100-20261008-WESTERN-001-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-001-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den zentralen Handlungsraum und die wirtschaftliche Selbständigkeit der Hauptfigur.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Johnny_Guitar",
+          "checked_on": "2026-10-08",
+          "supports": "Vienna betreibt einen Saloon."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-001-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-001-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den persönlichen Konflikt unter der äußeren Westernhandlung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Johnny_Guitar",
+          "checked_on": "2026-10-08",
+          "supports": "Vienna und Johnny sind ehemalige Liebende."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-001-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-001-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet den Schauplatz mit dem wirtschaftlichen Konflikt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Johnny_Guitar",
+          "checked_on": "2026-10-08",
+          "supports": "Vienna setzt auf die kommende Eisenbahn."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-001-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-001-M2",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet den persönlichen Antrieb von der öffentlich vorgetragenen Anschuldigung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Johnny_Guitar",
+          "checked_on": "2026-10-08",
+          "supports": "Emma begehrt den Dancin’ Kid und ist eifersüchtig auf Vienna."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-001-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-001-S1",
+      "goal_kind": "content",
+      "interest_reason": "Prüft eine präzise Beobachtung der Durchsuchung statt einer weiteren allgemeinen Konfliktfrage.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Johnny_Guitar",
+          "checked_on": "2026-10-08",
+          "supports": "Turkey wird unter einem Tisch gefunden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-001-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-001-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt das räumliche Bindeglied zwischen Rettung und letzter Konfrontation.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Johnny_Guitar",
+          "checked_on": "2026-10-08",
+          "supports": "Die beiden entkommen durch einen Tunnel unter dem Saloon."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-001-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-001-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ordnet die Verfilmung zeitlich zur literarischen Vorlage ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51244-JOHNNY-GUITAR",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien erstmals 1954."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-001-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-001-D",
+      "goal_kind": "director",
+      "interest_reason": "Verknüpft den belegten Hauptregiecredit mit einer konkreten Eigenart der Inszenierung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51244-JOHNNY-GUITAR",
+          "checked_on": "2026-10-08",
+          "supports": "Nicholas Ray führte die Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Johnny_Guitar",
+          "checked_on": "2026-10-08",
+          "supports": "Nicholas Ray führte die Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-002-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-002-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die Ausgangslage vor der Veränderung der Hauptfigur.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_Ballou",
+          "checked_on": "2026-10-08",
+          "supports": "Cat kehrt als angehende Lehrerin zurück."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23121-CAT-BALLOU",
+          "checked_on": "2026-10-08",
+          "supports": "Cat kehrt als angehende Lehrerin zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-002-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-002-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den komischen Gegensatz beim ersten Auftreten des angeworbenen Helfers.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_Ballou",
+          "checked_on": "2026-10-08",
+          "supports": "Shelleen entpuppt sich als heruntergekommener Trinker."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23121-CAT-BALLOU",
+          "checked_on": "2026-10-08",
+          "supports": "Shelleen entpuppt sich als heruntergekommener Trinker."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-002-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-002-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet die familiäre Bedrohung mit dem wirtschaftlichen Gegner.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_Ballou",
+          "checked_on": "2026-10-08",
+          "supports": "Die Gesellschaft will Frankies Ranchland bekommen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23121-CAT-BALLOU",
+          "checked_on": "2026-10-08",
+          "supports": "Die Gesellschaft will Frankies Ranchland bekommen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-002-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-002-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt ein Gestaltungsmittel statt eines weiteren Handlungsmotivs.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_Ballou",
+          "checked_on": "2026-10-08",
+          "supports": "Sie erzählen und kommentieren Cats Geschichte singend."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23121-CAT-BALLOU",
+          "checked_on": "2026-10-08",
+          "supports": "Sie erzählen und kommentieren Cats Geschichte singend."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-002-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-002-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Handlungsbedeutung der Doppelrolle.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_Ballou",
+          "checked_on": "2026-10-08",
+          "supports": "Shelleen erklärt nach dem Duell, dass Strawn sein Bruder war."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23121-CAT-BALLOU",
+          "checked_on": "2026-10-08",
+          "supports": "Shelleen erklärt nach dem Duell, dass Strawn sein Bruder war."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-002-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-002-S2",
+      "goal_kind": "content",
+      "interest_reason": "Verknüpft den Rettungsplan mit einem früher eingeführten Handlungsmittel.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_Ballou",
+          "checked_on": "2026-10-08",
+          "supports": "Jed erscheint erneut als Prediger und schneidet den Strick durch."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23121-CAT-BALLOU",
+          "checked_on": "2026-10-08",
+          "supports": "Jed erscheint erneut als Prediger und schneidet den Strick durch."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-002-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-002-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ordnet die Westernkomödie zur älteren literarischen Vorlage ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23121-CAT-BALLOU",
+          "checked_on": "2026-10-08",
+          "supports": "Die Erstveröffentlichung war 1965."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_Ballou",
+          "checked_on": "2026-10-08",
+          "supports": "Die Erstveröffentlichung war 1965."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-002-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-002-D",
+      "goal_kind": "director",
+      "interest_reason": "Trennt den Hauptregiecredit von der Arbeit einer zweiten Einheit.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23121-CAT-BALLOU",
+          "checked_on": "2026-10-08",
+          "supports": "Elliot Silverstein führte die Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Cat_Ballou",
+          "checked_on": "2026-10-08",
+          "supports": "Elliot Silverstein führte die Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-003-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-003-L1",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet die Ausgangsrolle des Helden von seinem späteren Handeln.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Tall_T",
+          "checked_on": "2026-10-08",
+          "supports": "Brennan ist Rancher."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-003-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-003-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Herkunft des Vermögens statt erneut nach dem Entführungsplan zu fragen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Tall_T",
+          "checked_on": "2026-10-08",
+          "supports": "Dorettas Vater besitzt Kupferminen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-003-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-003-M1",
+      "goal_kind": "content",
+      "interest_reason": "Prüft den konkreten Zufall, der den Helden in die Geiselnahme führt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Tall_T",
+          "checked_on": "2026-10-08",
+          "supports": "Eine verlorene Wette kostet Brennan sein Pferd."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-003-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-003-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst eine Entscheidung, die die moralischen Gegensätze der Geiselnahme sichtbar macht.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Tall_T",
+          "checked_on": "2026-10-08",
+          "supports": "Willard bietet seine eigene Frau als Lösegeldquelle an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-003-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-003-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die psychologische Taktik zur Auflösung der Bewachung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Tall_T",
+          "checked_on": "2026-10-08",
+          "supports": "Brennan behauptet, Usher könnte das ganze Lösegeld behalten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-003-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-003-S2",
+      "goal_kind": "content",
+      "interest_reason": "Prüft das konkrete Mittel der letzten Gegenwehr und seine moralische Bedeutung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Tall_T",
+          "checked_on": "2026-10-08",
+          "supports": "Usher greift auf das Gewehr am Pferd zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-003-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-003-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ordnet den Film in eine konkrete, zeitlich nahe Zusammenarbeit ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52387-THE-TALL-T",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film wurde 1957 veröffentlicht."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-003-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-003-D",
+      "goal_kind": "director",
+      "interest_reason": "Verbindet den Hauptcredit mit der konkreten Konzentration der Erzählung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52387-THE-TALL-T",
+          "checked_on": "2026-10-08",
+          "supports": "Budd Boetticher ist der Hauptregisseur."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Tall_T",
+          "checked_on": "2026-10-08",
+          "supports": "Budd Boetticher ist der Hauptregisseur."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-004-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-004-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete institutionelle Rolle hinter der Verfolgung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Pat_Garrett_and_Billy_the_Kid",
+          "checked_on": "2026-10-08",
+          "supports": "Garrett wird Sheriff von Lincoln County."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54851-PAT-GARRETTBILLYTHEKID",
+          "checked_on": "2026-10-08",
+          "supports": "Garrett wird Sheriff von Lincoln County."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-004-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-004-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst ein konkretes Fluchtziel statt die im Titel verratene Verfolgungsbeziehung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Pat_Garrett_and_Billy_the_Kid",
+          "checked_on": "2026-10-08",
+          "supports": "Billy will nach Mexiko ausweichen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-004-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-004-M1",
+      "goal_kind": "content",
+      "interest_reason": "Prüft das konkrete Mittel, das den Ausbruch ermöglicht.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Pat_Garrett_and_Billy_the_Kid",
+          "checked_on": "2026-10-08",
+          "supports": "Die versteckte Waffe liegt im Abort."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-004-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-004-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die Figurenbeziehung in einer fassungsbezogen abgesicherten Schlüsselszene.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Pat_Garrett_and_Billy_the_Kid",
+          "checked_on": "2026-10-08",
+          "supports": "Bakers Frau bleibt bei dem sterbenden Mann."
+        },
+        {
+          "key": "seydor",
+          "url": "https://www.hometheaterforum.com/community/threads/paul-seydors-pat-garrett-and-billy-the-kid.256171/page-5",
+          "checked_on": "2026-10-08",
+          "supports": "Bakers Frau bleibt bei dem sterbenden Mann."
+        },
+        {
+          "key": "kosmorama",
+          "url": "https://video.dfi.dk/Kosmorama/magasiner/119/kosmorama119.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Bakers Frau bleibt bei dem sterbenden Mann."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-004-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-004-S1",
+      "goal_kind": "content",
+      "interest_reason": "Prüft den präzisen Umgang des Sheriffs mit seinen zahlenden Auftraggebern.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Pat_Garrett_and_Billy_the_Kid",
+          "checked_on": "2026-10-08",
+          "supports": "Garrett verlangt die vollständige Zahlung erst nach Billys Ergreifung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-004-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-004-S2",
+      "goal_kind": "content",
+      "interest_reason": "Prüft den eng belegten Ausgang der Konfrontation ohne ungeklärte Schnittdetails.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Pat_Garrett_and_Billy_the_Kid",
+          "checked_on": "2026-10-08",
+          "supports": "Bill dreht sich früh um; Billy erschießt ihn."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54851-PAT-GARRETTBILLYTHEKID",
+          "checked_on": "2026-10-08",
+          "supports": "Bill dreht sich früh um; Billy erschießt ihn."
+        },
+        {
+          "key": "cuts",
+          "url": "https://www.movie-censorship.com/report.php?ID=522905&Page=2",
+          "checked_on": "2026-10-08",
+          "supports": "Bill dreht sich früh um; Billy erschießt ihn."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-004-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-004-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet das Erstjahr mit einem belegten Restaurierungsschritt und trennt die Vorführungen.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54851-PAT-GARRETTBILLYTHEKID",
+          "checked_on": "2026-10-08",
+          "supports": "Der Kinostart war 1973."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-004-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-004-D",
+      "goal_kind": "director",
+      "interest_reason": "Verankert den vollständigen Hauptcredit im persönlichen Konflikt des Spätwesterns.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54851-PAT-GARRETTBILLYTHEKID",
+          "checked_on": "2026-10-08",
+          "supports": "Sam Peckinpah führte die Hauptregie."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/29028-pat-garrett-and-billy-the-kid",
+          "checked_on": "2026-10-08",
+          "supports": "Sam Peckinpah führte die Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Pat_Garrett_and_Billy_the_Kid",
+          "checked_on": "2026-10-08",
+          "supports": "Sam Peckinpah führte die Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-005-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-005-L1",
+      "goal_kind": "content",
+      "interest_reason": "Bestimmt die konkrete Täterrolle in der Eröffnung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/3:10_to_Yuma_(1957_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Wade führt die Bande beim Überfall an."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52402-310-TO-YUMA",
+          "checked_on": "2026-10-08",
+          "supports": "Wade führt die Bande beim Überfall an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-005-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-005-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den persönlichen Anlass für die Verzögerung vor der Festnahme.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52402-310-TO-YUMA",
+          "checked_on": "2026-10-08",
+          "supports": "Wade bleibt zurück, um sich Emmy zuzuwenden."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/3:10_to_Yuma_(1957_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Wade bleibt zurück, um sich Emmy zuzuwenden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-005-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-005-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst eine konkrete Täuschung und ihren Nutzen.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52402-310-TO-YUMA",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Ersatzmann nimmt Wades Platz in der Kutsche ein."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/3:10_to_Yuma_(1957_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Ersatzmann nimmt Wades Platz in der Kutsche ein."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-005-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-005-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den Wendepunkt einer konkreten Nebenfigur.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52402-310-TO-YUMA",
+          "checked_on": "2026-10-08",
+          "supports": "Potter wird getötet und am Kronleuchter aufgehängt."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/3:10_to_Yuma_(1957_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Potter wird getötet und am Kronleuchter aufgehängt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-005-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-005-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verfolgt die Ursache, durch die das Versteck auffliegt.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52402-310-TO-YUMA",
+          "checked_on": "2026-10-08",
+          "supports": "Beim Racheversuch von Bob Moons fällt der verräterische Schuss."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/3:10_to_Yuma_(1957_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Beim Racheversuch von Bob Moons fällt der verräterische Schuss."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-005-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-005-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkret erklärte Gegenseitigkeit im Ende des Originals.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52402-310-TO-YUMA",
+          "checked_on": "2026-10-08",
+          "supports": "Wade erwidert Dans Schutz vor dem Racheangriff."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/3:10_to_Yuma_(1957_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Wade erwidert Dans Schutz vor dem Racheangriff."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-005-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-005-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet das Originaljahr mit dem belegten Erscheinungsjahr der Vorlage.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52402-310-TO-YUMA",
+          "checked_on": "2026-10-08",
+          "supports": "Die Originalverfilmung erschien 1957."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-005-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-005-D",
+      "goal_kind": "director",
+      "interest_reason": "Verbindet den Hauptcredit mit dem charakteristischen Warteszenario.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52402-310-TO-YUMA",
+          "checked_on": "2026-10-08",
+          "supports": "Delmer Daves führte die Hauptregie."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/27910-3-10-to-yuma",
+          "checked_on": "2026-10-08",
+          "supports": "Delmer Daves führte die Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/3:10_to_Yuma_(1957_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Delmer Daves führte die Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-006-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-006-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt das sichtbare Figurenmerkmal der Originaldarstellung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23723-TRUE-GRIT",
+          "checked_on": "2026-10-08",
+          "supports": "Cogburn trägt eine Augenklappe."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/True_Grit_(1969_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Cogburn trägt eine Augenklappe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-006-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-006-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt eine frühe Charakterisierung ihrer Selbständigkeit außerhalb des Rachemotivs.",
+      "sources": [
+        {
+          "key": "wla",
+          "url": "https://westlit.wordpress.com/2010/12/11/watching-true-grit-1969/",
+          "checked_on": "2026-10-08",
+          "supports": "Mattie setzt Stonehill durch hartnäckige Verhandlungen zu."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23723-TRUE-GRIT",
+          "checked_on": "2026-10-08",
+          "supports": "Mattie setzt Stonehill durch hartnäckige Verhandlungen zu."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-006-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-006-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verfolgt die konkrete Handlung, mit der sie ihren Ausschluss überwindet.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/True_Grit_(1969_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Mattie setzt auf ihrem Pferd schwimmend über den Fluss."
+        },
+        {
+          "key": "wla",
+          "url": "https://westlit.wordpress.com/2010/12/11/watching-true-grit-1969/",
+          "checked_on": "2026-10-08",
+          "supports": "Mattie setzt auf ihrem Pferd schwimmend über den Fluss."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-006-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-006-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Ursache der Gewalt zwischen zwei Nebenfiguren.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/True_Grit_(1969_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Quincy will verhindern, dass Moon den Aufenthaltsplan der Bande verrät."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-006-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-006-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt einen konkreten, gegenüber der späteren Verfilmung abweichenden Ausgang.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/True_Grit_(1969_film)",
+          "checked_on": "2026-10-08",
+          "supports": "La Boeuf hilft noch bei der Rettung und erliegt dann seinen Verletzungen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23723-TRUE-GRIT",
+          "checked_on": "2026-10-08",
+          "supports": "La Boeuf hilft noch bei der Rettung und erliegt dann seinen Verletzungen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-006-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-006-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Geste der neuen Bindung im Schluss.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/True_Grit_(1969_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Mattie möchte ihm einen Platz im Familiengrab geben."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23723-TRUE-GRIT",
+          "checked_on": "2026-10-08",
+          "supports": "Mattie möchte ihm einen Platz im Familiengrab geben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-006-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-006-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verankert das Originaljahr in der Entstehung der literarischen Vorlage.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23723-TRUE-GRIT",
+          "checked_on": "2026-10-08",
+          "supports": "Die Originalverfilmung erschien 1969."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-006-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-006-D",
+      "goal_kind": "director",
+      "interest_reason": "Verknüpft den belegten Hauptcredit mit dem Zusammenspiel der beiden zentralen Figuren.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23723-TRUE-GRIT",
+          "checked_on": "2026-10-08",
+          "supports": "Henry Hathaway führte die Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/True_Grit_(1969_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Henry Hathaway führte die Hauptregie."
+        },
+        {
+          "key": "wla",
+          "url": "https://westlit.wordpress.com/2010/12/11/watching-true-grit-1969/",
+          "checked_on": "2026-10-08",
+          "supports": "Henry Hathaway führte die Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-007-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-007-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die persönliche Ausgangslage des erfahrenen Offiziers.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/She_Wore_a_Yellow_Ribbon",
+          "checked_on": "2026-10-08",
+          "supports": "Brittles steht kurz vor der Pensionierung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-007-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-007-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die Figurenkonstellation einer eigenständigen Nebenhandlung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/She_Wore_a_Yellow_Ribbon",
+          "checked_on": "2026-10-08",
+          "supports": "Zwei junge Offiziere konkurrieren um Olivia."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-007-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-007-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die zusätzliche Schutzaufgabe innerhalb der militärischen Reise.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/She_Wore_a_Yellow_Ribbon",
+          "checked_on": "2026-10-08",
+          "supports": "Die Frauen sollen eine ostwärts fahrende Postkutsche erreichen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-007-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-007-M2",
+      "goal_kind": "content",
+      "interest_reason": "Prüft den konkreten Befund, der einen Reiseplan scheitern lässt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/She_Wore_a_Yellow_Ribbon",
+          "checked_on": "2026-10-08",
+          "supports": "Die Station ist niedergebrannt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-007-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-007-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt das konkrete taktische Mittel zur Vermeidung eines größeren Kampfes.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/She_Wore_a_Yellow_Ribbon",
+          "checked_on": "2026-10-08",
+          "supports": "Brittles lässt die Pferde in eine Stampede treiben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-007-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-007-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die präzise Lösung der persönlichen Abschiedsgeschichte.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/She_Wore_a_Yellow_Ribbon",
+          "checked_on": "2026-10-08",
+          "supports": "Brittles erhält die Ernennung zum Chief of Scouts."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-007-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-007-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verankert das Erstjahr in einer konkret datierten Werkfolge.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26100-SHE-WORE-A-YELLOW-RIBBON",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien erstmals 1949."
+        },
+        {
+          "key": "fortapache",
+          "url": "https://catalog.afi.com/Film/25545-",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien erstmals 1949."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-007-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-007-D",
+      "goal_kind": "director",
+      "interest_reason": "Verknüpft den Regiecredit mit dem konkreten Schwerpunkt dieses Kavalleriewesterns.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26100-SHE-WORE-A-YELLOW-RIBBON",
+          "checked_on": "2026-10-08",
+          "supports": "John Ford führte die Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/She_Wore_a_Yellow_Ribbon",
+          "checked_on": "2026-10-08",
+          "supports": "John Ford führte die Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-008-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-008-L1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Situation des familiären Wiedersehens.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Rio_Grande_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jeff trifft als neuer Rekrut in der Einheit seines Vaters ein."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26472-RIO-GRANDE",
+          "checked_on": "2026-10-08",
+          "supports": "Jeff trifft als neuer Rekrut in der Einheit seines Vaters ein."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-008-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-008-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die konkrete Absicht hinter dem Besuch der Mutter.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Rio_Grande_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Kathleen will Jeff aus seiner Verpflichtung freikaufen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26472-RIO-GRANDE",
+          "checked_on": "2026-10-08",
+          "supports": "Kathleen will Jeff aus seiner Verpflichtung freikaufen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-008-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-008-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den konkreten Ausbildungsmisserfolg hinter dem Neuanfang.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Rio_Grande_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jeff scheiterte in Mathematik."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26472-RIO-GRANDE",
+          "checked_on": "2026-10-08",
+          "supports": "Jeff scheiterte in Mathematik."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-008-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-008-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet die Entfremdung der Ehe mit einer konkret erzählten Vorgeschichte.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Rio_Grande_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Kirby ließ im Bürgerkrieg die Plantage ihrer Familie niederbrennen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26472-RIO-GRANDE",
+          "checked_on": "2026-10-08",
+          "supports": "Kirby ließ im Bürgerkrieg die Plantage ihrer Familie niederbrennen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-008-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-008-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt das präzise Signal innerhalb des abgestimmten Rettungsplans.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26472-RIO-GRANDE",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Mädchen läutet die Kirchenglocke als Signal."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-008-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-008-S2",
+      "goal_kind": "content",
+      "interest_reason": "Prüft ein präzises Schlussdetail der Nebenfigur.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Rio_Grande_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Tyree flieht auf General Sheridans Pferd."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26472-RIO-GRANDE",
+          "checked_on": "2026-10-08",
+          "supports": "Tyree flieht auf General Sheridans Pferd."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-008-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-008-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ordnet eine weitere Zusammenarbeit zeitlich ein und attribuiert den Produktionszusammenhang.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26472-RIO-GRANDE",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien erstmals 1950."
+        },
+        {
+          "key": "quietman",
+          "url": "https://catalog.afi.com/Film/53543-THE-QUIET-MAN",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien erstmals 1950."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-008-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-008-D",
+      "goal_kind": "director",
+      "interest_reason": "Verankert den vollständigen Hauptcredit im familiären Schwerpunkt dieses Films.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26472-RIO-GRANDE",
+          "checked_on": "2026-10-08",
+          "supports": "John Ford führte die Hauptregie."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Rio_Grande_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "John Ford führte die Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-009-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-009-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die Vorgeschichte des Hauptpartners ohne geografischen Titelhinweis.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vera_Cruz_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ben Trane ist ein ehemaliger Soldat der Südstaaten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-009-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-009-L2",
+      "goal_kind": "content",
+      "interest_reason": "Trennt offiziellen Auftrag und spätere Absichten.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vera_Cruz_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Kaiser bezahlt sie für den Geleitschutz der Gräfin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-009-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-009-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die politische Funktion der versteckten Fracht.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vera_Cruz_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Kaiser benötigt das Gold zur Finanzierung europäischer Verstärkung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-009-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-009-M2",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet ersten Eindruck und politische Zugehörigkeit.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vera_Cruz_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Nina ist mit den Juaristen verbunden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-009-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-009-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet Schlusskonflikt und unterschiedliche Moral.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vera_Cruz_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Bündnis zerbricht an Joes Anspruch auf das gesamte Gold."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-009-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-009-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt ein konkretes filmtechnisches Entstehungsdetail.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Vera_Cruz_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "AFI bezeichnet den Film als erste Veröffentlichung in SuperScope."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51398-VERA-CRUZ",
+          "checked_on": "2026-10-08",
+          "supports": "AFI bezeichnet den Film als erste Veröffentlichung in SuperScope."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-009-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-009-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verknüpft den Erstjahrgang mit einer konkreten Zusammenarbeit.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51398-VERA-CRUZ",
+          "checked_on": "2026-10-08",
+          "supports": "Die New Yorker Weltpremiere fand 1954 statt."
+        },
+        {
+          "key": "apache",
+          "url": "https://catalog.afi.com/Film/53395-APACHE",
+          "checked_on": "2026-10-08",
+          "supports": "Die New Yorker Weltpremiere fand 1954 statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-009-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-009-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die Hauptregie unabhängig vom produzierenden Star zu.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51398-VERA-CRUZ",
+          "checked_on": "2026-10-08",
+          "supports": "Robert Aldrich führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-010-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-010-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die auffällige Abwehrhandlung ist von der späteren Rettung vor dem Mob getrennt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Doc wehrt Baileys Angriff mit einem Messerwurf ab."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/52199",
+          "checked_on": "2026-10-08",
+          "supports": "Doc wehrt Baileys Angriff mit einem Messerwurf ab."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-010-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-010-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Rettung erklärt, wie aus anfänglicher Ablehnung eine persönliche Verbundenheit entsteht.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Doc droht nach seiner Festnahme eine Lynchjustiz."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-010-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-010-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die genaue Form einer ausgehandelten Ausnahme.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Glücksspiel wird ihr in den Nebenräumen gestattet."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-010-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-010-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verknüpft Korruption und wirtschaftlichen Konflikt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Er soll den Bahntransport gestohlener Rinder ermöglichen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-010-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-010-S1",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet den konkreten Filmablauf von anderen Earp-Erzählungen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "James Earp wird anstelle seines Bruders Wyatt getötet."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-010-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-010-S2",
+      "goal_kind": "content",
+      "interest_reason": "Fragt die Ursache einer auffälligen Selbstbeherrschung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Doc hält zunächst sein Versprechen an Wyatt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-010-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-010-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet Erstjahr und konkrete spätere Bearbeitung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/52199",
+          "checked_on": "2026-10-08",
+          "supports": "Die Lancaster/Douglas-Fassung erschien 1957."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-010-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-010-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die konkrete Fassung ihrem Hauptregisseur zu.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/52199",
+          "checked_on": "2026-10-08",
+          "supports": "John Sturges führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-011-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-011-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert den Beginn der Annäherung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Broken_Arrow_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jeffords behandelt einen verwundeten Jungen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-011-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-011-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst eine konkrete Vorbereitung auf Verständigung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Broken_Arrow_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jeffords lernt Sprache und Gebräuche, bevor er Cochise aufsucht."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-011-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-011-M1",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet den Umfang aufeinanderfolgender Vereinbarungen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Broken_Arrow_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Cochise lässt die Postboten unangegriffen passieren."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-011-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-011-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den inneren Konflikt innerhalb der Friedensverhandlung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Broken_Arrow_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Geronimo widersetzt sich dem Friedensabkommen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-011-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-011-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet einen Rückschlag mit dem aktiven Schutz des Abkommens.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Broken_Arrow_(1950_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Reisenden werden mit Cochises Hilfe gerettet."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-011-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-011-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den Unterschied zwischen ursprünglichem Credit und Urheberschaft.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26247-BROKEN-ARROW",
+          "checked_on": "2026-10-08",
+          "supports": "Blankfort lieh dem ausgegrenzten Drehbuchautor Albert Maltz seinen Namen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-011-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-011-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verknüpft Erstjahr und konkrete literarische Vorlage.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26247-BROKEN-ARROW",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien erstmals 1950."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-011-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-011-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet Regie und korrigierte Schreibcredits getrennt zu.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26247-BROKEN-ARROW",
+          "checked_on": "2026-10-08",
+          "supports": "Delmer Daves führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-012-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-012-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die berufliche Ausgangsrolle.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Comancheros_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Jake Cutter ist Texas Ranger."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-012-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-012-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die konkrete Ursache seiner Flucht.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Comancheros_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Regret flieht nach einem tödlichen Duell."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-012-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-012-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die Logik des verdeckten Zugangs.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Comancheros_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die unbekannte Person des Händlers ermöglicht den Identitätswechsel."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-012-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-012-M2",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet äußeren Eindruck und tatsächliche Absicht.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Comancheros_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Regret kehrt mit Ranger-Verstärkung zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-012-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-012-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet persönliche Beziehung und Macht im Lager.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Comancheros_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Pilar erreicht bei ihrem Vater die Freilassung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-012-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-012-S2",
+      "goal_kind": "content",
+      "interest_reason": "Fragt den filmischen Zweck der abschließenden Ortswahl.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Comancheros_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Weg nach Mexiko löst in der Filmhandlung die Auslieferungsgefahr."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-012-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-012-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verknüpft Erstjahr und konkrete Vorlage.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23776-THE-COMANCHEROS",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste New Yorker Start erfolgte 1961."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-012-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-012-D",
+      "goal_kind": "director",
+      "interest_reason": "Klärt den belegten Unterschied zwischen Mitarbeit und offiziellem Credit.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23776-THE-COMANCHEROS",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Curtiz trägt den veröffentlichten Hauptregiecredit."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/1567100/the-comancheros",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Curtiz trägt den veröffentlichten Hauptregiecredit."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-013-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-013-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert den Ausgangspunkt des Familienensembles.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Sons_of_Katie_Elder",
+          "checked_on": "2026-10-08",
+          "supports": "Die Brüder kehren zur Beerdigung ihrer Mutter zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-013-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-013-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst einen eigenständigen familiären Zukunftskonflikt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Sons_of_Katie_Elder",
+          "checked_on": "2026-10-08",
+          "supports": "Bud soll sein Studium fortsetzen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-013-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-013-M1",
+      "goal_kind": "content",
+      "interest_reason": "Fragt einen konkreten Handel statt einen allgemeinen Western-Viehtrieb.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Sons_of_Katie_Elder",
+          "checked_on": "2026-10-08",
+          "supports": "Das Geschäft betrifft eine Pferdeherde."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-013-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-013-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet Besitzbehauptung und begründetes Misstrauen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Sons_of_Katie_Elder",
+          "checked_on": "2026-10-08",
+          "supports": "Hastings behauptet, die Ranch beim Kartenspiel gewonnen zu haben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-013-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-013-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die verdeckte Organisation des Hinterhalts.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Sons_of_Katie_Elder",
+          "checked_on": "2026-10-08",
+          "supports": "Der Hinterhalt ist mit Teilen der bewaffneten Begleitung abgestimmt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-013-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-013-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die konkrete Beweisquelle der Schlussauflösung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Sons_of_Katie_Elder",
+          "checked_on": "2026-10-08",
+          "supports": "Hastings’ Sohn Dave enthüllt die Verbrechen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/18772-THE-SONSOFKATIEELDER",
+          "checked_on": "2026-10-08",
+          "supports": "Hastings’ Sohn Dave enthüllt die Verbrechen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-013-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-013-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verknüpft Erstjahr und konkretes früheres Werk.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/18772-THE-SONSOFKATIEELDER",
+          "checked_on": "2026-10-08",
+          "supports": "Die ersten Kinoaufführungen fanden 1965 statt."
+        },
+        {
+          "key": "rio",
+          "url": "https://catalog.afi.com/Film/53001-RIO-BRAVO",
+          "checked_on": "2026-10-08",
+          "supports": "Die ersten Kinoaufführungen fanden 1965 statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-013-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-013-D",
+      "goal_kind": "director",
+      "interest_reason": "Trennt frühe Planung und veröffentlichte Hauptregie.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/18772-THE-SONSOFKATIEELDER",
+          "checked_on": "2026-10-08",
+          "supports": "Henry Hathaway führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-014-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-014-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert den persönlichen Ausgangskonflikt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Shenandoah_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Charlie will seine Familie aus dem Krieg heraushalten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-014-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-014-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst einen frühen konkreten Einbruch des Kriegs.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Shenandoah_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Sam muss unmittelbar nach der Trauung wieder zur Truppe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-014-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-014-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet ein äußeres Zeichen mit der zentralen Verwechslung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Shenandoah_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Eine gefundene Mütze führt zu Boys Gefangennahme."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/19673-SHENANDOAH",
+          "checked_on": "2026-10-08",
+          "supports": "Eine gefundene Mütze führt zu Boys Gefangennahme."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-014-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-014-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die Veränderung einer vertrauten Figurenbeziehung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Shenandoah_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Gabriel versteckt den verletzten Freund."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/19673-SHENANDOAH",
+          "checked_on": "2026-10-08",
+          "supports": "Gabriel versteckt den verletzten Freund."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-014-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-014-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet eine konkrete Entscheidung mit dem Wandel des Vaters.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Shenandoah_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Alter des Postens erinnert Charlie an seinen vermissten Sohn."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-014-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-014-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die präzise Schlusswendung und ihren wiederkehrenden Rahmen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Shenandoah_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Boy kehrt während des Gottesdienstes zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-014-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-014-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verknüpft Erstjahr und konkrete Bühnenweiterführung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/19673-SHENANDOAH",
+          "checked_on": "2026-10-08",
+          "supports": "Die öffentliche Weltpremiere fand 1965 statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-014-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-014-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet Hauptregie und familiäre Perspektive zu.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/19673-SHENANDOAH",
+          "checked_on": "2026-10-08",
+          "supports": "Andrew V. McLaglen führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-015-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-015-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert die biografische Ausgangslage.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hombre_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "John Russell ist bei Apachen aufgewachsen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-015-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-015-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst den Ausgangsraum des Ensemblekonflikts.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hombre_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Reisenden treffen in einer Postkutsche aufeinander."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-015-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-015-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet rassistische Ausgrenzung und spätere Abhängigkeit.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hombre_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Favor sorgt aus Vorurteil für Johns Ausschluss aus dem Innenraum."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-015-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-015-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt die moralisch entscheidende Herkunft des Geldes.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hombre_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Favor hat für die Versorgung der Apachen bestimmte Gelder veruntreut."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-015-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-015-S1",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die präzise Ursache einer Gruppenentscheidung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hombre_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Favor versucht, Geld und Wasser allein mitzunehmen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-015-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-015-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die genaue Konstruktion der Schlussentscheidung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hombre_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "John verwendet mit Lumpen gefüllte Satteltaschen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-015-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-015-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet Erstjahr und konkret datierte Vorlage.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23288-HOMBRE",
+          "checked_on": "2026-10-08",
+          "supports": "Die erste New Yorker Premiere fand 1967 statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-015-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-015-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet Regie und Mitproduktion getrennt zu.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23288-HOMBRE",
+          "checked_on": "2026-10-08",
+          "supports": "Martin Ritt führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-016-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-016-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verankert das konkrete Ziel des Überfalls.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_War_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Der bewachte Wagen transportiert Goldstaub."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-016-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-016-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erkennt den handwerklichen Beitrag eines Hauptpartners.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_War_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Lomax ist auch ein Safeknacker."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-016-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-016-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet den Sprengstoff mit seiner konkreten Funktion.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_War_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Billy setzt Nitroglycerin ein."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-016-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-016-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst ein bestimmtes Glied des abgestimmten Überfallplans.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_War_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Ein gefällter Baum lenkt den Transport in die Schlucht."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-016-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-016-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet Tarnmittel und unbeabsichtigte Schlussfolge.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_War_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Das Gold liegt im Mehl, das die Hungrigen einsammeln."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-016-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-016-S2",
+      "goal_kind": "content",
+      "interest_reason": "Erfasst die Logik des abschließenden Machtwechsels.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_War_Wagon",
+          "checked_on": "2026-10-08",
+          "supports": "Taws Wissen um die Goldreserve schützt ihn vor seinem Partner."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23130-THE-WAR-WAGON",
+          "checked_on": "2026-10-08",
+          "supports": "Taws Wissen um die Goldreserve schützt ihn vor seinem Partner."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-016-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-016-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet Erstjahr und konkrete Romanvorlage.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23130-THE-WAR-WAGON",
+          "checked_on": "2026-10-08",
+          "supports": "Die ersten Kinoaufführungen fanden 1967 statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-016-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-016-D",
+      "goal_kind": "director",
+      "interest_reason": "Grenzt Hauptregie und belegte zweite Einheit ab.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23130-THE-WAR-WAGON",
+          "checked_on": "2026-10-08",
+          "supports": "Burt Kennedy führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-017-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-017-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die unfreiwillige Pensionierung eröffnet den Konflikt zwischen Erfahrung und öffentlichem Ansehen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Good_Guys_and_the_Bad_Guys",
+          "checked_on": "2026-10-08",
+          "supports": "Flagg wird vom Bürgermeister pensioniert."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/20661",
+          "checked_on": "2026-10-08",
+          "supports": "Flagg wird vom Bürgermeister pensioniert."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-017-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-017-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das ungewöhnliche Bündnis bildet den Kern der Westernkomödie.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Good_Guys_and_the_Bad_Guys",
+          "checked_on": "2026-10-08",
+          "supports": "Flagg und McKay werden aus Gegnern Verbündete."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/20661",
+          "checked_on": "2026-10-08",
+          "supports": "Flagg und McKay werden aus Gegnern Verbündete."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-017-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-017-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Entscheidung erklärt den Bruch mit der eigenen Bande.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Good_Guys_and_the_Bad_Guys",
+          "checked_on": "2026-10-08",
+          "supports": "McKay lässt den gefangenen Flagg nicht töten."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/20661",
+          "checked_on": "2026-10-08",
+          "supports": "McKay lässt den gefangenen Flagg nicht töten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-017-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-017-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die ungewöhnliche Unterbringung macht den Autoritätskonflikt konkret.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Good_Guys_and_the_Bad_Guys",
+          "checked_on": "2026-10-08",
+          "supports": "McKay kommt in Marys Pension unter."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/20661",
+          "checked_on": "2026-10-08",
+          "supports": "McKay kommt in Marys Pension unter."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-017-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-017-S1",
+      "goal_kind": "content",
+      "interest_reason": "Das Ziel fragt die konkrete Veränderung des Überfallablaufs.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Good_Guys_and_the_Bad_Guys",
+          "checked_on": "2026-10-08",
+          "supports": "Der übernommene Zug hält nicht am vorgesehenen Bahnhof."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-017-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-017-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Schlusspointe zeigt die fortbestehende Spannung zwischen Bündnis und Gesetz.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Good_Guys_and_the_Bad_Guys",
+          "checked_on": "2026-10-08",
+          "supports": "Flagg verhaftet den Mann, der ihm geholfen hat."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-017-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-017-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zwei belegte Western desselben Regisseurs schaffen eine zeitliche Verbindung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/20661",
+          "checked_on": "2026-10-08",
+          "supports": "1967 Die Gewaltigen, 1969 Die Letzten vom Red River: zwei Jahre."
+        },
+        {
+          "key": "anker",
+          "url": "https://catalog.afi.com/Film/23130-THE-WAR-WAGON",
+          "checked_on": "2026-10-08",
+          "supports": "1967 Die Gewaltigen, 1969 Die Letzten vom Red River: zwei Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-017-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-017-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Credits trennen die leicht verwechselbaren Nachnamen und Tätigkeiten.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/20661",
+          "checked_on": "2026-10-08",
+          "supports": "Burt Kennedy führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-018-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-018-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Gegenseite macht die zentrale Konfliktlage zugänglich.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Two_Mules_for_Sister_Sara",
+          "checked_on": "2026-10-08",
+          "supports": "Die Verbündeten kämpfen gegen französische Truppen in Mexiko."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/20683-",
+          "checked_on": "2026-10-08",
+          "supports": "Die Verbündeten kämpfen gegen französische Truppen in Mexiko."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-018-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-018-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Bezahlung unterscheidet sein Motiv von Saras Engagement.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Two_Mules_for_Sister_Sara",
+          "checked_on": "2026-10-08",
+          "supports": "Hogan hilft gegen eine Beteiligung an der Beute."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/20683-",
+          "checked_on": "2026-10-08",
+          "supports": "Hogan hilft gegen eine Beteiligung an der Beute."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-018-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-018-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Versorgung erklärt eine Veränderung ihrer Beziehung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Two_Mules_for_Sister_Sara",
+          "checked_on": "2026-10-08",
+          "supports": "Sara versorgt den verletzten Hogan mithilfe von Whiskey."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-018-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-018-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die körperliche Einschränkung verändert die Aufgabenverteilung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Two_Mules_for_Sister_Sara",
+          "checked_on": "2026-10-08",
+          "supports": "Der verletzte Hogan ist auf Saras Klettereinsatz angewiesen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/20683-",
+          "checked_on": "2026-10-08",
+          "supports": "Der verletzte Hogan ist auf Saras Klettereinsatz angewiesen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-018-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-018-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Enthüllung unterscheidet äußere Rolle und wirkliche Motivation.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Two_Mules_for_Sister_Sara",
+          "checked_on": "2026-10-08",
+          "supports": "Saras Nonnentracht ist eine Tarnung."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/20683-",
+          "checked_on": "2026-10-08",
+          "supports": "Saras Nonnentracht ist eine Tarnung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-018-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-018-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Schlusslist erklärt den Übergang vom Wissen über das Fort zum Angriff.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Two_Mules_for_Sister_Sara",
+          "checked_on": "2026-10-08",
+          "supports": "Die vermeintliche Auslieferung öffnet den Zugang zur Festung."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/20683-",
+          "checked_on": "2026-10-08",
+          "supports": "Die vermeintliche Auslieferung öffnet den Zugang zur Festung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-018-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-018-Y",
+      "goal_kind": "year",
+      "interest_reason": "Eine konkrete Werkverbindung trägt den Jahresanker.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/20683-",
+          "checked_on": "2026-10-08",
+          "supports": "1968 Coogans großer Bluff, 1970 Ein Fressen für die Geier: zwei Jahre."
+        },
+        {
+          "key": "anker",
+          "url": "https://catalog.afi.com/Film/21478-COOGANS-BLUFF",
+          "checked_on": "2026-10-08",
+          "supports": "1968 Coogans großer Bluff, 1970 Ein Fressen für die Geier: zwei Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-018-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-018-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Produktionsgeschichte verlangt eine klare Trennung der Credits.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/20683-",
+          "checked_on": "2026-10-08",
+          "supports": "Don Siegel führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-019-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-019-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die prägende Eröffnung zeigt den Helden durch eine sichtbare Handlung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/They_Call_Me_Trinity",
+          "checked_on": "2026-10-08",
+          "supports": "Trinity reist liegend auf einer Schleife hinter dem Pferd."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-019-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-019-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der Gemeinschaftsbezug erklärt die zentrale Schutzaufgabe.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/They_Call_Me_Trinity",
+          "checked_on": "2026-10-08",
+          "supports": "Die Brüder helfen einer bedrohten Mormonensiedlung."
+        },
+        {
+          "key": "anica",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2863",
+          "checked_on": "2026-10-08",
+          "supports": "Die Brüder helfen einer bedrohten Mormonensiedlung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-019-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-019-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der Identitätsbetrug unterscheidet Amtserscheinung und wirklichen Hintergrund.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/They_Call_Me_Trinity",
+          "checked_on": "2026-10-08",
+          "supports": "Bambino ist ein falscher Sheriff."
+        },
+        {
+          "key": "anica",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2863",
+          "checked_on": "2026-10-08",
+          "supports": "Bambino ist ein falscher Sheriff."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-019-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-019-M2",
+      "goal_kind": "content",
+      "interest_reason": "Das wirtschaftliche Motiv erklärt den Angriff auf die Siedler.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/They_Call_Me_Trinity",
+          "checked_on": "2026-10-08",
+          "supports": "Der Major will das Siedlerland als Pferdeweide."
+        },
+        {
+          "key": "anica",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2863",
+          "checked_on": "2026-10-08",
+          "supports": "Der Major will das Siedlerland als Pferdeweide."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-019-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-019-S1",
+      "goal_kind": "content",
+      "interest_reason": "Der konkrete Umgang mit Eigentum erklärt den Streit nach dem gemeinsamen Erfolg.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/They_Call_Me_Trinity",
+          "checked_on": "2026-10-08",
+          "supports": "Trinity markiert die Pferde für die Siedler."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-019-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-019-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Schlussentscheidung trennt das Helfen von der Bereitschaft zum Ansiedeln.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/They_Call_Me_Trinity",
+          "checked_on": "2026-10-08",
+          "supports": "Die Aussicht auf ein arbeitsames, diszipliniertes Leben vertreibt Trinity."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-019-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-019-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der belegte frühere Film macht den Wechsel zum komischen Brüderpaar zeitlich fassbar.",
+      "sources": [
+        {
+          "key": "anica",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2863",
+          "checked_on": "2026-10-08",
+          "supports": "1967 Gott vergibt… Django nie!, 1970 die erste Trinity-Komödie: drei Jahre."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2092",
+          "checked_on": "2026-10-08",
+          "supports": "1967 Gott vergibt… Django nie!, 1970 die erste Trinity-Komödie: drei Jahre."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/They_Call_Me_Trinity",
+          "checked_on": "2026-10-08",
+          "supports": "1967 Gott vergibt… Django nie!, 1970 die erste Trinity-Komödie: drei Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-019-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-019-D",
+      "goal_kind": "director",
+      "interest_reason": "Das Pseudonym wird von der späteren Synchronbearbeitung unterschieden.",
+      "sources": [
+        {
+          "key": "anica",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2863",
+          "checked_on": "2026-10-08",
+          "supports": "Enzo Barboni, im Credit E. B. Clucher, führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/They_Call_Me_Trinity",
+          "checked_on": "2026-10-08",
+          "supports": "Enzo Barboni, im Credit E. B. Clucher, führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-020-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-020-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Auftrag des Vaters bildet einen leicht zugänglichen Ausgangspunkt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Trinity_Is_Still_My_Name",
+          "checked_on": "2026-10-08",
+          "supports": "Die Brüder versprechen eine gemeinsame Banditenlaufbahn."
+        },
+        {
+          "key": "anica",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2996",
+          "checked_on": "2026-10-08",
+          "supports": "Die Brüder versprechen eine gemeinsame Banditenlaufbahn."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-020-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-020-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der gescheiterte Raubzug veranschaulicht die wiederkehrende komische Umkehr.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Trinity_Is_Still_My_Name",
+          "checked_on": "2026-10-08",
+          "supports": "Aus dem Überfall werden Radwechsel und Geldhilfe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-020-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-020-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Rollenbehauptung erklärt eine wichtige Ursache des späteren Konflikts.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Trinity_Is_Still_My_Name",
+          "checked_on": "2026-10-08",
+          "supports": "Die Brüder spielen Bundesagenten."
+        },
+        {
+          "key": "anica",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2996",
+          "checked_on": "2026-10-08",
+          "supports": "Die Brüder spielen Bundesagenten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-020-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-020-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Szene erschließt die körperliche Gestaltung der Westernparodie.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Trinity_Is_Still_My_Name",
+          "checked_on": "2026-10-08",
+          "supports": "Trinity macht aus dem Duell eine Folge von Ohrfeigen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-020-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-020-S1",
+      "goal_kind": "content",
+      "interest_reason": "Ein eigenständiges Gestaltungsziel ergänzt die Fragen nach Handlungsentscheidungen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Trinity_Is_Still_My_Name",
+          "checked_on": "2026-10-08",
+          "supports": "Orgelmusik übertönt Bambinos Beichte."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-020-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-020-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Übergabe zeigt den Preis des Auswegs aus einer gefährlichen Verwechslung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Trinity_Is_Still_My_Name",
+          "checked_on": "2026-10-08",
+          "supports": "Die Beute dient dazu, die falsche Agentenrolle zu stützen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-020-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-020-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der direkte Vorgänger schafft einen konkreten Reihenanker.",
+      "sources": [
+        {
+          "key": "anica",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2996",
+          "checked_on": "2026-10-08",
+          "supports": "1970 die erste Trinity-Komödie, 1971 ihre Fortsetzung: ein Jahr."
+        },
+        {
+          "key": "vorgaenger",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2863",
+          "checked_on": "2026-10-08",
+          "supports": "1970 die erste Trinity-Komödie, 1971 ihre Fortsetzung: ein Jahr."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Trinity_Is_Still_My_Name",
+          "checked_on": "2026-10-08",
+          "supports": "1970 die erste Trinity-Komödie, 1971 ihre Fortsetzung: ein Jahr."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-020-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-020-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Fortsetzung wird über den Originalcredit und nicht über die Sprachbearbeitung zugeordnet.",
+      "sources": [
+        {
+          "key": "anica",
+          "url": "https://www.archiviodelcinemaitaliano.it/index.php/scheda.html?codice=AG2996",
+          "checked_on": "2026-10-08",
+          "supports": "Enzo Barboni führte auch bei der direkten Fortsetzung Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Trinity_Is_Still_My_Name",
+          "checked_on": "2026-10-08",
+          "supports": "Enzo Barboni führte auch bei der direkten Fortsetzung Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-021-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-021-L1",
+      "goal_kind": "content",
+      "interest_reason": "Das wirtschaftliche Ausgangsproblem eröffnet die besondere Mannschaftsgeschichte.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Cowboys",
+          "checked_on": "2026-10-08",
+          "supports": "Der Goldrausch nimmt Andersen seine bisherigen Helfer."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54695-THE-COWBOYS",
+          "checked_on": "2026-10-08",
+          "supports": "Der Goldrausch nimmt Andersen seine bisherigen Helfer."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-021-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-021-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die zentrale Arbeitsrolle ist von der späteren Schutz- und Führungsfunktion getrennt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Cowboys",
+          "checked_on": "2026-10-08",
+          "supports": "Nightlinger ist der Koch der Mannschaft."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54695-THE-COWBOYS",
+          "checked_on": "2026-10-08",
+          "supports": "Nightlinger ist der Koch der Mannschaft."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-021-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-021-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Tat erklärt einen nachvollziehbaren Wechsel in der Mannschaft.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Cowboys",
+          "checked_on": "2026-10-08",
+          "supports": "Cimarrons Rettungstat ermöglicht seine Rückkehr."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54695-THE-COWBOYS",
+          "checked_on": "2026-10-08",
+          "supports": "Cimarrons Rettungstat ermöglicht seine Rückkehr."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-021-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-021-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der überprüfbare Widerspruch erklärt die verweigerte Einstellung.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54695-THE-COWBOYS",
+          "checked_on": "2026-10-08",
+          "supports": "Der tote Arbeitgeber entlarvt Watts’ erfundene Berufserfahrung."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Cowboys",
+          "checked_on": "2026-10-08",
+          "supports": "Der tote Arbeitgeber entlarvt Watts’ erfundene Berufserfahrung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-021-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-021-S1",
+      "goal_kind": "content",
+      "interest_reason": "Der Zusammenhang zwischen Fürsorge und Verlust ist ein bedeutsamer Handlungsschritt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Cowboys",
+          "checked_on": "2026-10-08",
+          "supports": "Charlie stirbt beim Zurückholen von Dans Brille."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54695-THE-COWBOYS",
+          "checked_on": "2026-10-08",
+          "supports": "Charlie stirbt beim Zurückholen von Dans Brille."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-021-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-021-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Schlussgestaltung verbindet wirtschaftlichen Abschluss und persönliche Bindung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Cowboys",
+          "checked_on": "2026-10-08",
+          "supports": "Die Jungen lassen Andersen als Vater würdigen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54695-THE-COWBOYS",
+          "checked_on": "2026-10-08",
+          "supports": "Die Jungen lassen Andersen als Vater würdigen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-021-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-021-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die literarische Vorlage ist ein enger und belegter Zeitanker.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54695-THE-COWBOYS",
+          "checked_on": "2026-10-08",
+          "supports": "1971 Jennings’ Roman, 1972 seine Verfilmung: ein Jahr."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-021-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-021-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Hauptcredits werden von zusätzlicher Dreharbeit und Fernsehadaption abgegrenzt.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54695-THE-COWBOYS",
+          "checked_on": "2026-10-08",
+          "supports": "Mark Rydell führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-022-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-022-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Arbeit erklärt den Beginn des zentralen Konflikts.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Tom_Horn_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Horn soll den Viehdiebstahl eindämmen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/56520",
+          "checked_on": "2026-10-08",
+          "supports": "Horn soll den Viehdiebstahl eindämmen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-022-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-022-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die zentrale Beziehung wird über eine konkrete gesellschaftliche Rolle erschlossen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Tom_Horn_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Glendolene ist die örtliche Lehrerin."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/56520",
+          "checked_on": "2026-10-08",
+          "supports": "Glendolene ist die örtliche Lehrerin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-022-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-022-M1",
+      "goal_kind": "content",
+      "interest_reason": "Das Motiv erklärt die Umkehr vom Auftrag zur Beseitigung des Beauftragten.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Tom_Horn_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Horns Auftraggeber fürchten um ihren Ruf."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/56520",
+          "checked_on": "2026-10-08",
+          "supports": "Horns Auftraggeber fürchten um ihren Ruf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-022-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-022-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Inszenierung der Beweiserhebung ist ein eigenes Handlungsglied.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Tom_Horn_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Belle versteckt einen mitschreibenden Reporter."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/56520",
+          "checked_on": "2026-10-08",
+          "supports": "Belle versteckt einen mitschreibenden Reporter."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-022-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-022-S1",
+      "goal_kind": "content",
+      "interest_reason": "Der Bedeutungswechsel erklärt die Wirkung des manipulierten Gesprächs.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Tom_Horn_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Zeugenaussage verfälscht eine hypothetische Bemerkung zum Geständnis."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/56520",
+          "checked_on": "2026-10-08",
+          "supports": "Die Zeugenaussage verfälscht eine hypothetische Bemerkung zum Geständnis."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-022-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-022-S2",
+      "goal_kind": "content",
+      "interest_reason": "Das Gestaltungsziel hält Filmstandpunkt und historische Beweisfrage auseinander.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/56520",
+          "checked_on": "2026-10-08",
+          "supports": "Der Schlussschriftzug gibt Cobles Überzeugung wieder."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-022-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-022-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die belegte Buchvorlage liefert einen konkreten Anker jenseits abweichender Kinotage.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/56520",
+          "checked_on": "2026-10-08",
+          "supports": "1904 Horns Buch, 1980 die Verfilmung: 76 Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-022-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-022-D",
+      "goal_kind": "director",
+      "interest_reason": "Der fertige Credit wird von ausgeschiedenen Regisseuren und unsicheren Mitwirkungsbehauptungen getrennt.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/56520",
+          "checked_on": "2026-10-08",
+          "supports": "William Wiard ist der offizielle Hauptregisseur."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Tom_Horn_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "William Wiard ist der offizielle Hauptregisseur."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-023-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-023-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die Kernfähigkeit erschließt die Hauptfigur ohne eine zufällige Entfernungszahl.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Quigley_Down_Under",
+          "checked_on": "2026-10-08",
+          "supports": "Quigley ist ein außergewöhnlicher Fernschütze."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58662-QUIGLEY-DOWN-UNDER",
+          "checked_on": "2026-10-08",
+          "supports": "Quigley ist ein außergewöhnlicher Fernschütze."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-023-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-023-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die zentrale Ablehnung erklärt den Wechsel vom Angestellten zum Gegner.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Quigley_Down_Under",
+          "checked_on": "2026-10-08",
+          "supports": "Quigley verweigert die Ermordung indigener Menschen."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58662-QUIGLEY-DOWN-UNDER",
+          "checked_on": "2026-10-08",
+          "supports": "Quigley verweigert die Ermordung indigener Menschen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-023-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-023-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die bedeutsame Ersatzanrede erschließt den persönlichen Konflikt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Quigley_Down_Under",
+          "checked_on": "2026-10-08",
+          "supports": "Cora nennt Quigley zunächst Roy."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58662-QUIGLEY-DOWN-UNDER",
+          "checked_on": "2026-10-08",
+          "supports": "Cora nennt Quigley zunächst Roy."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-023-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-023-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Rettungsschritt erklärt Quigleys spätere persönliche Bindung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Quigley_Down_Under",
+          "checked_on": "2026-10-08",
+          "supports": "Indigene Menschen retten die Ausgesetzten."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58662-QUIGLEY-DOWN-UNDER",
+          "checked_on": "2026-10-08",
+          "supports": "Indigene Menschen retten die Ausgesetzten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-023-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-023-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Szene gewinnt Bedeutung aus der ausdrücklich erzählten Vorgeschichte.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Quigley_Down_Under",
+          "checked_on": "2026-10-08",
+          "supports": "Cora lässt das Kind schreien und verteidigt es."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58662-QUIGLEY-DOWN-UNDER",
+          "checked_on": "2026-10-08",
+          "supports": "Cora lässt das Kind schreien und verteidigt es."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-023-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-023-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Schluss greift eine zuvor eingeführte sprachliche Unterscheidung auf.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Quigley_Down_Under",
+          "checked_on": "2026-10-08",
+          "supports": "Wenig Verwendung für einen Colt bedeutet keine fehlende Fähigkeit."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58662-QUIGLEY-DOWN-UNDER",
+          "checked_on": "2026-10-08",
+          "supports": "Wenig Verwendung für einen Colt bedeutet keine fehlende Fähigkeit."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-023-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-023-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zwei belegte Gegenspielerrollen verbinden den Western mit einem bekannteren Werk.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58662-QUIGLEY-DOWN-UNDER",
+          "checked_on": "2026-10-08",
+          "supports": "1988 Stirb langsam, 1990 Quigley: zwei Jahre zwischen Rickmans Gegenspielern."
+        },
+        {
+          "key": "anker",
+          "url": "https://catalog.afi.com/Film/55749-DIE-HARD",
+          "checked_on": "2026-10-08",
+          "supports": "1988 Stirb langsam, 1990 Quigley: zwei Jahre zwischen Rickmans Gegenspielern."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-023-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-023-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Credits grenzen veröffentlichte Hauptregie und frühere Projektgeschichte ab.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58662-QUIGLEY-DOWN-UNDER",
+          "checked_on": "2026-10-08",
+          "supports": "Simon Wincer führte Hauptregie."
+        },
+        {
+          "key": "classification",
+          "url": "https://www.classification.gov.au/titles/quigley-down-under",
+          "checked_on": "2026-10-08",
+          "supports": "Simon Wincer führte Hauptregie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-024-L1",
+      "knowledge_id": "K-G100-20261008-WESTERN-024-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der frühe Konflikt erschließt die Ausgangslage ohne historische Schuldbehauptung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Ned_Kelly_(2003_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die frühe Haft folgt auf den Vorwurf des Pferdediebstahls."
+        },
+        {
+          "key": "nfsa",
+          "url": "https://www.nfsa.gov.au/collection/item/ned-kelly-trouble-coppers",
+          "checked_on": "2026-10-08",
+          "supports": "Die frühe Haft folgt auf den Vorwurf des Pferdediebstahls."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-024-L2",
+      "knowledge_id": "K-G100-20261008-WESTERN-024-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das ikonische Schutzmittel ist ein zugängliches eigenständiges Inhaltsziel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Ned_Kelly_(2003_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Gruppe trägt selbstgebaute Metallrüstungen."
+        },
+        {
+          "key": "glenrowan",
+          "url": "https://www.nfsa.gov.au/collection/item/ned-kelly-siege-glenrowan",
+          "checked_on": "2026-10-08",
+          "supports": "Die Gruppe trägt selbstgebaute Metallrüstungen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-024-M1",
+      "knowledge_id": "K-G100-20261008-WESTERN-024-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Entscheidung erschließt den persönlichen Preis der erfundenen Romanze.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Ned_Kelly_(2003_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Julia fürchtet die Folgen eines öffentlich eingestandenen Ehebruchs."
+        },
+        {
+          "key": "nfsa",
+          "url": "https://www.nfsa.gov.au/collection/item/ned-kelly-trouble-coppers",
+          "checked_on": "2026-10-08",
+          "supports": "Julia fürchtet die Folgen eines öffentlich eingestandenen Ehebruchs."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-024-M2",
+      "knowledge_id": "K-G100-20261008-WESTERN-024-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der konkrete Papierumgang erklärt die Sympathielenkung des Films.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Ned_Kelly_(2003_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Bande vernichtet Hypothekenunterlagen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-024-S1",
+      "knowledge_id": "K-G100-20261008-WESTERN-024-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die überprüfbare Falle ist ein eigenständiger Zusammenhang der Bandengeschichte.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Ned_Kelly_(2003_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Eine falsche Überfallinformation entlarvt den Informanten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-024-S2",
+      "knowledge_id": "K-G100-20261008-WESTERN-024-S2",
+      "goal_kind": "content",
+      "interest_reason": "Das Scheitern erklärt den Übergang zur entscheidenden Belagerung.",
+      "sources": [
+        {
+          "key": "nfsa",
+          "url": "https://www.nfsa.gov.au/collection/item/ned-kelly-trouble-coppers",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Lehrer warnt den Zug vor der sabotierten Strecke."
+        },
+        {
+          "key": "glenrowan",
+          "url": "https://www.nfsa.gov.au/collection/item/ned-kelly-siege-glenrowan",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Lehrer warnt den Zug vor der sabotierten Strecke."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-024-Y",
+      "knowledge_id": "K-G100-20261008-WESTERN-024-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die belegte Romanveröffentlichung liefert einen passenden Erinnerungsanker.",
+      "sources": [
+        {
+          "key": "nfsa",
+          "url": "https://www.nfsa.gov.au/collection/item/ned-kelly-trouble-coppers",
+          "checked_on": "2026-10-08",
+          "supports": "1991 Our Sunshine, 2003 Ned Kelly: zwölf Jahre."
+        },
+        {
+          "key": "register",
+          "url": "https://www.screenaustralia.gov.au/screen-guide/ned-kelly-17579/",
+          "checked_on": "2026-10-08",
+          "supports": "1991 Our Sunshine, 2003 Ned Kelly: zwölf Jahre."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-WESTERN-024-D",
+      "knowledge_id": "K-G100-20261008-WESTERN-024-D",
+      "goal_kind": "director",
+      "interest_reason": "Die institutionellen Credits sichern die Identität der konkret behandelten Fassung.",
+      "sources": [
+        {
+          "key": "nfsa",
+          "url": "https://www.nfsa.gov.au/collection/item/ned-kelly-trouble-coppers",
+          "checked_on": "2026-10-08",
+          "supports": "Gregor Jordan führte Regie."
+        },
+        {
+          "key": "register",
+          "url": "https://www.screenaustralia.gov.au/screen-guide/ned-kelly-17579/",
+          "checked_on": "2026-10-08",
+          "supports": "Gregor Jordan führte Regie."
+        }
+      ]
+    }
+  ]
+}

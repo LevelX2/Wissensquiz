@@ -1,0 +1,215 @@
+{
+  "rank": 5,
+  "directors": [
+    "Delmer Daves"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Originalverfilmung von 1957, nicht die Neuverfilmung von 2007. AFI nennt die Weltpremiere in Denver am 7. August 1957.",
+  "director_note": "Delmer Daves ist der vollständige Hauptregiecredit; Sam Nelson ist als Regieassistent geführt.",
+  "series": null,
+  "familiarity_reason": "Wichtiger psychologischer Western, dessen Original heute oft von der bekannteren Neuverfilmung überlagert wird; Bekanntheit 3.",
+  "notes": "Vollständige AFI-Synopsis bei der Autorierung zusätzlich gelesen. Unterschied zum vorhandenen Remake: Keine erneute Frage nach dem Zugtransfer, Dans Geldbedarf, Charlie Prince als Bandenführer, Selbstbeweis oder der Tötung der eigenen Bande. Beim Ende des Originals handelt Wade aus erwiderter Hilfe; keine neue ID für ein vorhandenes Remakeziel.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/3:10_to_Yuma_(1957_film)",
+    "afi": "https://catalog.afi.com/Film/52402-310-TO-YUMA",
+    "criterion": "https://www.criterion.com/films/27910-3-10-to-yuma"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Rolle spielt Ben Wade (Glenn Ford) beim anfänglichen Postkutschenüberfall in @?",
+      "answers": [
+        "Er führt die Räuber an.",
+        "Er liefert der Bande Informationen.",
+        "Er fährt die überfallene Kutsche.",
+        "Er ist ein bestohlener Fahrgast."
+      ],
+      "feedback": [
+        "Wade führt die Bande beim Überfall an.",
+        "Er ist nicht nur ein Informant im Hintergrund.",
+        "Er sitzt nicht als Kutscher auf der überfallenen Postkutsche.",
+        "Er gehört nicht zu den bestohlenen Reisenden."
+      ],
+      "short": "Wade führt die Bande beim Überfall an.",
+      "context": "Ben Wade (Glenn Ford) wird beim Überfall als Anführer der Räuber eingeführt. Dan Evans (Van Heflin) und seine Söhne beobachten die Tat, ohne sie verhindern zu können. Der Film lässt so früh erkennen, welche Gefahr von Wade ausgeht. Seine spätere Ruhe und sein Charme im Gespräch widersprechen diesem Eindruck nicht, sondern stehen neben einer bereits gezeigten Bereitschaft zu tödlicher Gewalt.",
+      "anchor": "Wade führt den Überfall an.",
+      "interest": "Bestimmt die konkrete Täterrolle in der Eröffnung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Warum bleibt Wade (Glenn Ford) in @ länger als seine Männer im Saloon?",
+      "answers": [
+        "Wegen Emmy (Felicia Farr)",
+        "Wegen Butterfield (Robert Emhardt)",
+        "Wegen Potter (Henry Jones)",
+        "Wegen Alice (Leora Dana)"
+      ],
+      "feedback": [
+        "Wade bleibt zurück, um sich Emmy zuzuwenden.",
+        "Ein Treffen mit Butterfield hält ihn nicht zurück.",
+        "Potter ist nicht der Grund seines freiwilligen Verbleibs.",
+        "Alice ist nicht die Frau, der er im Saloon den Hof macht."
+      ],
+      "short": "Wade bleibt zurück, um sich Emmy zuzuwenden.",
+      "context": "Während die anderen Räuber weiterreiten, bleibt Ben Wade (Glenn Ford) bei Emmy (Felicia Farr) im Saloon. Sein Interesse an ihr verzögert die gemeinsame Flucht und ermöglicht den Verfolgern, zurückzukehren. Die Szene verbindet seine anziehende Seite mit einer gefährlichen Unachtsamkeit. Der scheinbar kurze private Aufenthalt wird dadurch zum entscheidenden Unterschied zwischen erfolgreichem Entkommen und seiner Festnahme.",
+      "anchor": "Wade bleibt bei Emmy zurück.",
+      "interest": "Erkennt den persönlichen Anlass für die Verzögerung vor der Festnahme.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie täuschen die Behörden Wades (Glenn Ford) Verfolger beim Kutschentransport in @?",
+      "answers": [
+        "Sie setzen einen Ersatzmann in die Kutsche.",
+        "Sie vertauschen die Pferdegespanne.",
+        "Sie fahren mit einer leeren Kutsche zurück.",
+        "Sie verkleiden Wade (Glenn Ford) als Kutscher."
+      ],
+      "feedback": [
+        "Ein Ersatzmann nimmt Wades Platz in der Kutsche ein.",
+        "Ein Pferdewechsel ist nicht die eigentliche Täuschung.",
+        "Die Verfolger sehen keine bloß leere Kutsche.",
+        "Wade wird nicht als Kutscher verkleidet."
+      ],
+      "short": "Ein Ersatzmann nimmt Wades Platz in der Kutsche ein.",
+      "context": "Ben Wade (Glenn Ford) wird nicht einfach sichtbar auf der erwarteten Route weitergefahren. Die Behörden tauschen ihn gegen einen Ersatzmann aus, während der echte Gefangene zunächst zu Dan Evans’ (Van Heflin) Ranch gebracht wird. Die Bande soll glauben, sie beobachte weiterhin den richtigen Transport. Die Täuschung verschafft Zeit und räumlichen Abstand, ohne die Gefahr durch Wades Männer endgültig zu beseitigen.",
+      "anchor": "Der Ersatzmann fährt sichtbar weiter.",
+      "interest": "Erfasst eine konkrete Täuschung und ihren Nutzen.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was geschieht mit Alex Potter (Henry Jones), nachdem er Dan (Van Heflin) vor dem Dachschützen warnt, in @?",
+      "answers": [
+        "Er wird erschossen und sein Körper aufgehängt.",
+        "Er wird gefangen und gegen Wade (Glenn Ford) getauscht.",
+        "Er wird verwundet und im Hotel versteckt.",
+        "Er wird entwaffnet und aus der Stadt gejagt."
+      ],
+      "feedback": [
+        "Potter wird getötet und am Kronleuchter aufgehängt.",
+        "Ein Gefangenenaustausch rettet ihn nicht.",
+        "Er überlebt nicht als versteckter Verwundeter.",
+        "Die Bande lässt ihn nicht einfach fortreiten."
+      ],
+      "short": "Potter wird getötet und am Kronleuchter aufgehängt.",
+      "context": "Alex Potter (Henry Jones) hilft Dan Evans (Van Heflin), obwohl ihn die Stadt vor allem als Trinker kennt. Nachdem er vor einem Schützen auf dem Dach warnt, wird er erschossen; die Bande hängt seinen Leichnam im Hotel auf. Die Grausamkeit soll die verbliebenen Helfer einschüchtern. Potter wird so von einer unterschätzten Randfigur zu jemandem, dessen Einsatz Dan zum Durchhalten bewegt.",
+      "anchor": "Potters Hilfe endet tödlich im Hotel.",
+      "interest": "Erkennt den Wendepunkt einer konkreten Nebenfigur.",
+      "sources": [
+        "afi",
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was verrät Wades (Glenn Ford) Aufenthaltsort im Hotel in @?",
+      "answers": [
+        "Ein Schuss bei Bob Moons’ (Sheridan Comerate) Racheversuch",
+        "Ein Hilferuf von Alice (Leora Dana)",
+        "Eine Nachricht von Potter (Henry Jones)",
+        "Ein lauter Streit mit Butterfield (Robert Emhardt)"
+      ],
+      "feedback": [
+        "Beim Racheversuch von Bob Moons fällt der verräterische Schuss.",
+        "Alice verrät den Ort nicht durch einen Hilferuf.",
+        "Potter schickt der Bande keine Nachricht.",
+        "Ein Streit mit Butterfield macht die Bande nicht auf das Zimmer aufmerksam."
+      ],
+      "short": "Beim Racheversuch von Bob Moons fällt der verräterische Schuss.",
+      "context": "Bob Moons (Sheridan Comerate) will den Tod seines Bruders rächen und dringt zu Ben Wade (Glenn Ford) ins Hotelzimmer vor. Dan Evans (Van Heflin) greift ein; im Gerangel fällt ein Schuss. Dieses Geräusch alarmiert den in der Nähe lauernden Charlie Prince (Richard Jaeckel). Ein persönlicher Racheversuch zerstört damit die Geheimhaltung und führt die Bande auf die Spur ihres gefangenen Anführers.",
+      "anchor": "Der Racheschuss verrät das Hotelzimmer.",
+      "interest": "Verfolgt die Ursache, durch die das Versteck auffliegt.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum hilft Wade (Glenn Ford) Dan (Van Heflin) zuletzt beim Erreichen des Zuges in @?",
+      "answers": [
+        "Dan hatte ihn im Hotel vor dem Rächer geschützt.",
+        "Dan verspricht ihm einen Teil der Belohnung.",
+        "Dan hat seine Begnadigung ausgehandelt.",
+        "Dan verspricht, seine spätere Flucht zu ermöglichen."
+      ],
+      "feedback": [
+        "Wade erwidert Dans Schutz vor dem Racheangriff.",
+        "Ein geteilter Lohn ist nicht seine abschließende Begründung.",
+        "Dan hat keine Begnadigung für Wade vereinbart.",
+        "Eine verabredete spätere Flucht ist nicht Wades Begründung."
+      ],
+      "short": "Wade erwidert Dans Schutz vor dem Racheangriff.",
+      "context": "Am Schluss macht Ben Wade (Glenn Ford) den erwarteten Befreiungsversuch seiner Männer nicht mit. Stattdessen hilft er Dan Evans (Van Heflin), gemeinsam in den fahrenden Zug zu gelangen. Seine Erklärung verweist auf das Hotel: Dan hatte ihn vor einem Racheangriff geschützt. Wade erwidert damit einen persönlichen Gefallen. Der Ausgang beruht auf dieser Beziehung, ohne den Gefangenen plötzlich von seinen früheren Taten freizusprechen.",
+      "anchor": "Wade erwidert den Schutz im Hotel.",
+      "interest": "Erkennt die konkret erklärte Gegenseitigkeit im Ende des Originals.",
+      "sources": [
+        "afi",
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1957",
+        "1954",
+        "1960",
+        "1963"
+      ],
+      "feedback": [
+        "Die Originalverfilmung erschien 1957.",
+        "1954 ist drei Jahre zu früh.",
+        "1960 liegt drei Jahre nach dem Originalstart.",
+        "1963 ist sechs Jahre zu spät."
+      ],
+      "short": "Die Originalverfilmung erschien 1957.",
+      "context": "Elmore Leonards Kurzgeschichte Three Ten to Yuma erschien im März 1953 im Dime Western Magazine. Delmer Daves’ Film folgte 1957, vier Jahre später. AFI dokumentiert sowohl die Vorlage als auch die Denver-Weltpremiere. Der Abstand hilft, das Original zeitlich zu verorten; die viel spätere Neuverfilmung gehört zu einer anderen Produktion und besitzt einen eigenen Regie- und Besetzungszusammenhang.",
+      "anchor": "Kurzgeschichte 1953, Originalfilm 1957: vier Jahre.",
+      "interest": "Verbindet das Originaljahr mit dem belegten Erscheinungsjahr der Vorlage.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "Delmer Daves",
+        "Budd Boetticher",
+        "Anthony Mann",
+        "Henry Hathaway"
+      ],
+      "feedback": [
+        "Delmer Daves führte die Hauptregie.",
+        "Budd Boetticher ist nicht der Regisseur dieses Originals.",
+        "Anthony Mann führte bei diesem Film nicht Regie.",
+        "Henry Hathaway ist hier nicht der Hauptregisseur."
+      ],
+      "short": "Delmer Daves führte die Hauptregie.",
+      "context": "Delmer Daves ist bei AFI und Criterion als Hauptregisseur ausgewiesen. Der Film richtet einen erheblichen Teil seiner Spannung auf das Warten im Hotel und die Gespräche zwischen Dan Evans (Van Heflin) und Ben Wade (Glenn Ford). Körperliche Bedrohung und psychologischer Druck wirken zusammen. Die Hauptregie des Originals ist von den Credits einer späteren Neuverfilmung und von der Arbeit der Regieassistenz getrennt.",
+      "anchor": "Daves führt das Original im Hotel zur Spannung.",
+      "interest": "Verbindet den Hauptcredit mit dem charakteristischen Warteszenario.",
+      "sources": [
+        "afi",
+        "criterion",
+        "film"
+      ]
+    }
+  ]
+}

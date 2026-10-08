@@ -1,0 +1,207 @@
+{
+  "rank": 3,
+  "directors": [
+    "Budd Boetticher"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1957. AFI nennt April 1957, der Cache den 2. April; kein genaues Tagesdatum als Ziel.",
+  "director_note": "Budd Boetticher ist der Hauptregisseur laut AFI; Sam Nelson ist Regieassistent und kein gemeinsamer Hauptregisseur.",
+  "series": null,
+  "familiarity_reason": "Zentraler Boetticher/Scott-Western, heute vor allem im Klassikerkontext präsent; Bekanntheit 3.",
+  "notes": "Vollständiger Plot-/Cast-Cache gelesen, Archivcredits und ausgewählte AFI-History-/Synopsispassagen ergänzend. Die wechselnde Schreibweise der Leonard-Vorlage wird nicht abgefragt; keine Filmsichtung.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Tall_T",
+    "afi": "https://catalog.afi.com/Film/52387-THE-TALL-T"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf hat Pat Brennan (Randolph Scott) in @?",
+      "answers": [
+        "Rancher",
+        "Kopfgeldjäger",
+        "Sheriff",
+        "Postkutscher"
+      ],
+      "feedback": [
+        "Brennan ist Rancher.",
+        "Er lebt nicht als professioneller Kopfgeldjäger.",
+        "Er bekleidet kein Sheriffamt.",
+        "Er nimmt die Kutsche als Fahrgast, nicht als Kutscher."
+      ],
+      "short": "Brennan ist Rancher.",
+      "context": "Pat Brennan (Randolph Scott) gerät als Rancher in die Geschichte. Sein Besuch in der Stadt und bei einer anderen Ranch führt ihn zufällig in die Kutsche, die später überfallen wird. Er verfolgt ursprünglich keinen Verbrecher und handelt nicht im Auftrag der Justiz. Die Lage verlangt deshalb von einem privaten Mann, ohne institutionelle Unterstützung Verantwortung für sich und eine weitere Geisel zu übernehmen.",
+      "anchor": "Ein Rancher wird zufällig zur Geisel.",
+      "interest": "Unterscheidet die Ausgangsrolle des Helden von seinem späteren Handeln.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Woher stammt das Familienvermögen Dorettas (Maureen O’Sullivan) in @?",
+      "answers": [
+        "Aus Kupferminen",
+        "Aus Viehzucht",
+        "Aus Eisenbahnbau",
+        "Aus Ölquellen"
+      ],
+      "feedback": [
+        "Dorettas Vater besitzt Kupferminen.",
+        "Das Familienvermögen stammt nicht aus Viehzucht.",
+        "Ihr Vater wird nicht als Eisenbahnbauer vorgestellt.",
+        "Ölquellen erklären das Lösegeldpotenzial nicht."
+      ],
+      "short": "Dorettas Vater besitzt Kupferminen.",
+      "context": "Doretta Mims (Maureen O’Sullivan) ist die Tochter eines wohlhabenden Kupferminenbesitzers. Dieser familiäre Hintergrund macht sie für die Entführer zu einer wertvollen Lösegeldgeisel. Die Bande erkennt, dass mit ihr weit mehr zu gewinnen ist als mit den Fahrgästen einer gewöhnlichen Kutsche. Ihr Reichtum schützt sie also nicht vor Gefahr, sondern verändert gerade die Art der Bedrohung.",
+      "anchor": "Kupfervermögen macht Doretta zur Lösegeldgeisel.",
+      "interest": "Erkennt die konkrete Herkunft des Vermögens statt erneut nach dem Entführungsplan zu fragen.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum ist Brennan (Randolph Scott) in @ auf eine Mitfahrt in der Kutsche angewiesen?",
+      "answers": [
+        "Er hat sein Pferd bei einer Wette verloren.",
+        "Sein Pferd wurde unterwegs gestohlen.",
+        "Er hat sein Pferd einem Verletzten überlassen.",
+        "Sein Pferd wurde vom Sheriff beschlagnahmt."
+      ],
+      "feedback": [
+        "Eine verlorene Wette kostet Brennan sein Pferd.",
+        "Ein Diebstahl bringt ihn nicht in diese Lage.",
+        "Er gibt sein Pferd nicht für einen Verletzten ab.",
+        "Die Behörden beschlagnahmen sein Pferd nicht."
+      ],
+      "short": "Eine verlorene Wette kostet Brennan sein Pferd.",
+      "context": "Brennan (Randolph Scott) lässt sich auf eine Wette ein: Gelingt ihm das Reiten eines Stiers, bekommt er das Tier; verliert er, muss er sein Pferd abgeben. Er verliert und geht mit dem Sattel zu Fuß weiter. Erst dadurch kommt es zur Mitfahrt in der Kutsche. Eine kleine persönliche Fehleinschätzung setzt so die Kette der späteren Ereignisse in Gang.",
+      "anchor": "Die Stierwette kostet ihn das Pferd.",
+      "interest": "Prüft den konkreten Zufall, der den Helden in die Geiselnahme führt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was schlägt Willard Mims (John Hubbard) den Entführern in @ vor?",
+      "answers": [
+        "Seine Frau als Lösegeldgeisel zu nutzen.",
+        "Ihn für den Minenbesitzer arbeiten zu lassen.",
+        "Mit ihm die Mine zu überfallen.",
+        "Ihn gegen die anderen Gefangenen einzutauschen."
+      ],
+      "feedback": [
+        "Willard bietet seine eigene Frau als Lösegeldquelle an.",
+        "Ein Arbeitsangebot an die Mine ist nicht sein Vorschlag.",
+        "Er plant keinen gemeinsamen Überfall auf die Mine.",
+        "Er opfert sich nicht als Ersatz für die anderen."
+      ],
+      "short": "Willard bietet seine eigene Frau als Lösegeldquelle an.",
+      "context": "Willard Mims (John Hubbard) versucht, sein eigenes Leben zu retten, indem er den Wert seiner Frau Doretta (Maureen O’Sullivan) hervorhebt. Er schlägt der Bande vor, von ihrem reichen Vater Lösegeld zu verlangen. Seine Entscheidung offenbart fehlende Verbundenheit mit der frisch angetrauten Frau. Selbst der Bandenführer Frank Usher (Richard Boone) betrachtet diese Rücksichtslosigkeit mit Verachtung.",
+      "anchor": "Willard macht die eigene Frau zur Lösegeldquelle.",
+      "interest": "Erfasst eine Entscheidung, die die moralischen Gegensätze der Geiselnahme sichtbar macht.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Womit bringt Brennan (Randolph Scott) Chink (Henry Silva) in @ dazu, seinen Wachposten zu verlassen?",
+      "answers": [
+        "Mit Misstrauen gegen Ushers (Richard Boone) Geldteilung",
+        "Mit dem Versprechen eines Fluchtpferds",
+        "Mit einer angeblichen nahenden Patrouille",
+        "Mit einem Hinweis auf versteckten Whiskey"
+      ],
+      "feedback": [
+        "Brennan behauptet, Usher könnte das ganze Lösegeld behalten.",
+        "Ein angebotenes Pferd ist nicht der entscheidende Köder.",
+        "Eine erfundene Patrouille bewegt Chink hier nicht weg.",
+        "Whiskey lockt ihn nicht von seiner Bewachung fort."
+      ],
+      "short": "Brennan behauptet, Usher könnte das ganze Lösegeld behalten.",
+      "context": "Brennan (Randolph Scott) erkennt die Schwäche der Bande: Ihre Mitglieder vertrauen einander nicht vollständig. Er pflanzt Chink (Henry Silva) den Gedanken ein, Frank Usher (Richard Boone) könne mit dem gesamten Lösegeld verschwinden. Chink verlässt deshalb das Versteck, um nach seinem Anführer zu sehen. Brennan erzeugt damit eine Gelegenheit zur Gegenwehr, indem er Gier und Misstrauen gegeneinander ausspielt.",
+      "anchor": "Misstrauen gegen die Geldteilung öffnet eine Lücke.",
+      "interest": "Erkennt die psychologische Taktik zur Auflösung der Bewachung.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie versucht Frank Usher (Richard Boone) nach seiner scheinbaren Freilassung in @ zurückzuschlagen?",
+      "answers": [
+        "Mit einem am Pferd verstauten Gewehr",
+        "Mit einem versteckten Stiefelmesser",
+        "Mit einem zweiten Revolver im Mantel",
+        "Mit einer Signalpfeife für Verstärkung"
+      ],
+      "feedback": [
+        "Usher greift auf das Gewehr am Pferd zurück.",
+        "Ein Stiefelmesser ist nicht seine letzte Waffe.",
+        "Er zieht keinen im Mantel versteckten zweiten Revolver.",
+        "Er ruft keine Verstärkung mit einer Pfeife."
+      ],
+      "short": "Usher greift auf das Gewehr am Pferd zurück.",
+      "context": "Brennan (Randolph Scott) hat Frank Usher (Richard Boone) entwaffnet und lässt ihn fortgehen. Usher erreicht sein Pferd, an dem noch ein Gewehr verstaut ist, und kehrt bewaffnet zurück. Brennan muss ihn nun erschießen. Der vermeintliche Ausweg aus der Gewalt scheitert an Ushers eigener Entscheidung; die räumlich kleine Szene beendet das zeitweilige Verständnis zwischen Held und Gegner.",
+      "anchor": "Das Gewehr am Pferd beendet die gewährte Freiheit.",
+      "interest": "Prüft das konkrete Mittel der letzten Gegenwehr und seine moralische Bedeutung.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1957",
+        "1954",
+        "1960",
+        "1963"
+      ],
+      "feedback": [
+        "Der Film wurde 1957 veröffentlicht.",
+        "1954 liegt drei Jahre vor dem Start.",
+        "1960 liegt drei Jahre nach dem Start.",
+        "1963 ist sechs Jahre zu spät."
+      ],
+      "short": "Der Film wurde 1957 veröffentlicht.",
+      "context": "Budd Boetticher und Randolph Scott arbeiteten bereits 1956 bei Seven Men from Now, deutsch Sieben Männer, zusammen. The Tall T folgte 1957, ein Jahr später. Die AFI-History ordnet beide Werke in diesen Zusammenhang ein. Der kurze Abstand hilft, den Film als Teil einer konzentrierten Zusammenarbeit zu erinnern, ohne aus der Werkgruppe eine durchgehende Handlung mit identischen Figuren zu machen.",
+      "anchor": "Scott und Boetticher: 1956, dann 1957.",
+      "interest": "Ordnet den Film in eine konkrete, zeitlich nahe Zusammenarbeit ein.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ die Hauptregie?",
+      "answers": [
+        "Budd Boetticher",
+        "Delmer Daves",
+        "Anthony Mann",
+        "Robert Parrish"
+      ],
+      "feedback": [
+        "Budd Boetticher ist der Hauptregisseur.",
+        "Delmer Daves führte hier nicht Regie.",
+        "Anthony Mann ist nicht der Regisseur dieses Films.",
+        "Robert Parrish verantwortete diese Inszenierung nicht."
+      ],
+      "short": "Budd Boetticher ist der Hauptregisseur.",
+      "context": "Budd Boetticher ist im AFI-Datensatz als Hauptregisseur ausgewiesen. Die Handlung konzentriert sich auf wenige Figuren, einen begrenzten Raum und wechselnde Abhängigkeiten zwischen Gefangenen und Entführern. Pat Brennan (Randolph Scott) gewinnt nicht durch eine große militärische Übermacht, sondern durch Beobachtung und gezieltes Handeln. Der Regiecredit gehört damit zu einem Western, dessen Spannung aus einer eng geführten Geiselsituation entsteht.",
+      "anchor": "Boetticher verdichtet die Geiselsituation.",
+      "interest": "Verbindet den Hauptcredit mit der konkreten Konzentration der Erzählung.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    }
+  ]
+}

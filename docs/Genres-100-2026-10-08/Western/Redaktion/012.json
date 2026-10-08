@@ -1,0 +1,207 @@
+{
+  "rank": 12,
+  "directors": [
+    "Michael Curtiz"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Start am 1. November 1961 laut AFI; Los Angeles folgt am 15. November. Erstjahr 1961.",
+  "director_note": "AFI bestätigt Michael Curtiz als alleinigen veröffentlichten Hauptregisseur. TCM beschreibt wegen Curtiz’ Erkrankung umfangreiche uncredited Regiearbeit von John Wayne. Wayne wird als tatsächlicher Beteiligter dokumentiert, nicht als zweiter veröffentlichter Hauptregiecredit; George Sherman ist Produzent. AFI führt Cliff Lyons gesondert als Action-Sequenz-Regisseur, nicht als Hauptregisseur.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter Wayne-Western mit charakteristischen Nebenrollen, außerhalb des engeren Genrekontexts eher eine Entdeckung.",
+  "notes": "Auslieferungsfragen werden nur als Konstruktion der Filmhandlung behandelt. Früh geplante Regisseure Stevens/Heyes sind keine Hauptcredits der fertigen Fassung.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Comancheros_(film)",
+    "afi": "https://catalog.afi.com/Film/23776-THE-COMANCHEROS",
+    "tcm": "https://www.tcm.com/articles/1567100/the-comancheros"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Für welche Organisation arbeitet Jake Cutter (John Wayne) in @?",
+      "answers": [
+        "Die Texas Rangers",
+        "Die US-Kavallerie",
+        "Die Grenzzollbehörde",
+        "Ein privates Detektivbüro"
+      ],
+      "feedback": [
+        "Cutter ist Captain bei den Texas Rangers.",
+        "Er gehört hier nicht zur Kavallerie.",
+        "Er arbeitet nicht als Zollbeamter.",
+        "Ein privates Detektivbüro ist nicht sein Arbeitgeber."
+      ],
+      "short": "Jake Cutter ist Texas Ranger.",
+      "context": "Jake Cutter (John Wayne) gehört zu den Texas Rangers und verfolgt sowohl einen flüchtigen Mann als auch ein Schmugglernetz. Seine amtliche Rolle verbindet die persönlichen Begegnungen mit einer größeren Aufgabe an der Grenze. Er muss nicht nur einen Verdächtigen festhalten, sondern Informationen über eine verborgene Gemeinschaft gewinnen. Dafür genügt offenes Auftreten als Gesetzeshüter nicht; die Ermittlungen führen ihn später in eine angenommene fremde Identität.",
+      "anchor": "Der Ranger muss von offener Verfolgung zu verdeckter Ermittlung wechseln.",
+      "interest": "Verankert die berufliche Ausgangsrolle.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Warum wird Paul Regret (Stuart Whitman) zu Beginn von @ gesucht?",
+      "answers": [
+        "Er hat bei einem Duell einen Mann getötet",
+        "Er hat eine Bankfiliale ausgeraubt",
+        "Er hat als Soldat seine Einheit verlassen",
+        "Er hat eine größere Viehherde gestohlen"
+      ],
+      "feedback": [
+        "Ein tödliches Duell begründet seine Verfolgung.",
+        "Ein Bankraub ist nicht der Anlass.",
+        "Er wird nicht als Deserteur verfolgt.",
+        "Ein Viehdiebstahl erklärt seine Flucht nicht."
+      ],
+      "short": "Regret flieht nach einem tödlichen Duell.",
+      "context": "Paul Regret (Stuart Whitman) tötet in New Orleans einen Mann bei einem Duell. Er erklärt, dass er den Gegner nur verwunden wollte, dieser aber im entscheidenden Moment auswich. Weil der Vater des Getöteten seine Hinrichtung verlangen wird, flieht er nach Texas. Jake Cutter (John Wayne) hält ihn dort fest. Die anfängliche Beziehung ist damit die eines Verfolgers zu einem Gefangenen, bevor gemeinsame Gefahren sie verändern.",
+      "anchor": "Ein tödlich ausgegangenes Duell führt Regret in Cutters Gewahrsam.",
+      "interest": "Erklärt die konkrete Ursache seiner Flucht.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum kann Cutter (John Wayne) in @ als der festgenommene Waffenhändler auftreten?",
+      "answers": [
+        "Die Schmuggler kennen den Händler noch nicht persönlich",
+        "Der Händler hatte ihn als Geschäftspartner angekündigt",
+        "Er besitzt eine vom Händler ausgestellte Vollmacht",
+        "Ein Geschäftspartner des Händlers bürgt für ihn"
+      ],
+      "feedback": [
+        "Der echte Händler ist ihnen noch nicht persönlich bekannt.",
+        "Eine vorherige Ankündigung als Partner erklärt die Tarnung nicht.",
+        "Eine ausgestellte Vollmacht ist nicht die Voraussetzung.",
+        "Kein Geschäftspartner bürgt als Zugangsvoraussetzung für Cutter."
+      ],
+      "short": "Die unbekannte Person des Händlers ermöglicht den Identitätswechsel.",
+      "context": "Die Rangers nehmen einen Waffenhändler fest, der eine Ladung für die Schmuggler transportiert. Jake Cutter (John Wayne) übernimmt dessen Rolle, weil die Abnehmer den echten Mann noch nicht gesehen haben. Er nutzt damit eine konkrete Lücke in ihrem Wissen. Die Tarnung ist nicht nur eine Verkleidung, sondern eine glaubhafte Lieferbeziehung: Name, Ware und vereinbarter Treffpunkt verschaffen ihm den Zugang, den sein eigener amtlicher Auftrag verhindern würde.",
+      "anchor": "Eine unbekannte Lieferantenperson öffnet den Weg zur Tarnidentität.",
+      "interest": "Erfasst die Logik des verdeckten Zugangs.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welches Verhalten Paul Regrets (Stuart Whitman) gewinnt ihm in @ das Vertrauen der Rangers?",
+      "answers": [
+        "Er holt bei einem Überfall Verstärkung zurück",
+        "Er schützt den verwundeten Captain bei der Flucht",
+        "Er bekennt sich öffentlich zum Duelltod",
+        "Er nennt den Aufenthaltsort des Händlers"
+      ],
+      "feedback": [
+        "Er nutzt die Fluchtmöglichkeit, um Rangers als Hilfe zurückzubringen.",
+        "Die entscheidende Tat ist die Rückkehr mit Verstärkung, nicht eine gemeinsame Flucht.",
+        "Ein öffentliches Geständnis ist nicht die entscheidende Tat.",
+        "Der Händler ist bereits festgenommen; Regrets Hilfe besteht anderswo."
+      ],
+      "short": "Regret kehrt mit Ranger-Verstärkung zurück.",
+      "context": "Während eines Überfalls auf eine Ranch reitet Paul Regret (Stuart Whitman) davon. Jake Cutter (John Wayne) könnte sein Verhalten für eine erneute Flucht halten, doch Regret bringt eine Ranger-Einheit zurück, die den Angriff abwehrt. Erst die Rückkehr macht seinen Beweggrund sichtbar. Die Gesetzeshüter unterstützen ihn anschließend gegen die drohende Auslieferung. Das neue Vertrauen entsteht aus einer überprüfbaren Handlung unter Gefahr, nicht aus einer bloßen Versicherung guter Absichten.",
+      "anchor": "Die scheinbare Flucht erweist sich als Rettungsaktion.",
+      "interest": "Unterscheidet äußeren Eindruck und tatsächliche Absicht.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum lässt der Anführer des Schmugglerlagers die beiden gefangenen Männer in @ wieder frei?",
+      "answers": [
+        "Seine Tochter setzt sich für sie ein",
+        "Sie zahlen ihm ein hohes Lösegeld",
+        "Ein gefangener Ranger wird gegen sie ausgetauscht",
+        "Seine Leute bestätigen ihre Lieferpapiere"
+      ],
+      "feedback": [
+        "Pilar setzt sich bei ihrem Vater für die Männer ein.",
+        "Eine Lösegeldzahlung ist nicht der Auslöser.",
+        "Es findet kein entsprechender Gefangenenaustausch statt.",
+        "Die Entscheidung entsteht nicht durch bestätigte Lieferpapiere."
+      ],
+      "short": "Pilar erreicht bei ihrem Vater die Freilassung.",
+      "context": "Im verborgenen Lager werden Jake Cutter (John Wayne) und Paul Regret (Stuart Whitman) zunächst gefangen gehalten. Pilar Graile (Ina Balin) setzt sich für sie ein; ihr Vater Graile (Nehemiah Persoff) führt die Gemeinschaft. Ihre persönliche Beziehung zu Regret eröffnet den Gefangenen damit einen Zugang innerhalb der gegnerischen Machtstruktur. Die Freilassung beendet die Gefahr jedoch nicht: Pilar erkennt Cutters wahre Rolle, während ihr Vater die Männer zunächst willkommen heißt.",
+      "anchor": "Pilars Beziehung zur Lagerführung verändert die Behandlung der Gefangenen.",
+      "interest": "Verbindet persönliche Beziehung und Macht im Lager.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum reisen Paul und Pilar (Stuart Whitman, Ina Balin) am Ende von @ nach Mexiko?",
+      "answers": [
+        "Sie verlassen den Bereich der drohenden Auslieferung",
+        "Sie wollen ein neues Schmuggelgeschäft aufbauen",
+        "Sie suchen die versteckte Waffenladung",
+        "Sie müssen einen Ranger-Auftrag beenden"
+      ],
+      "feedback": [
+        "Mexiko bietet ihnen innerhalb der Filmhandlung einen Weg aus der Auslieferungsgefahr.",
+        "Ein neuer gemeinsamer Schmuggelhandel ist nicht ihr Schlussplan.",
+        "Eine weitere Waffensuche führt sie nicht dorthin.",
+        "Sie übernehmen keinen abschließenden Ranger-Auftrag."
+      ],
+      "short": "Der Weg nach Mexiko löst in der Filmhandlung die Auslieferungsgefahr.",
+      "context": "Paul Regret (Stuart Whitman) und Pilar Graile (Ina Balin) verlassen am Ende gemeinsam Texas. In der Konstruktion der Filmgeschichte schützt der Weg nach Mexiko vor der weiter drohenden Auslieferung nach Louisiana. Jake Cutter (John Wayne) kehrt dagegen zu den Rangers zurück. Der Schluss trennt damit die neue gemeinsame Zukunft des Paares vom amtlichen Weg seines bisherigen Verfolgers, nachdem beide Männer zeitweise dasselbe gefährliche Ziel verfolgt haben.",
+      "anchor": "Das Paar zieht nach Mexiko, der Ranger kehrt in den Dienst zurück.",
+      "interest": "Fragt den filmischen Zweck der abschließenden Ortswahl.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit John Wayne und Stuart Whitman erstmals veröffentlicht?",
+      "answers": [
+        "1961",
+        "1958",
+        "1964",
+        "1967"
+      ],
+      "feedback": [
+        "1961 ist das Erstjahr.",
+        "1958 liegt drei Jahre vor dem Kinostart.",
+        "1964 liegt drei Jahre danach.",
+        "1967 ist sechs Jahre zu spät."
+      ],
+      "short": "Der erste New Yorker Start erfolgte 1961.",
+      "context": "Paul I. Wellmans Roman The Comancheros erschien 1952. Die Filmfassung folgte 1961, neun Jahre später. AFI zeichnet mehrere Wechsel während der Entwicklung nach, bevor die Produktion mit John Wayne und Stuart Whitman entstand. Der Zeitanker trennt somit die Entstehung des literarischen Stoffes von der fertigen Verfilmung. Ein früher vorgesehener Hauptdarsteller oder Regisseur gehört zu dieser Entwicklungsgeschichte und bestimmt nicht die Identität der veröffentlichten Fassung.",
+      "anchor": "1952 der Roman, 1961 der Film: neun Jahre bis zur Verfilmung.",
+      "interest": "Verknüpft Erstjahr und konkrete Vorlage.",
+      "sources": [
+        "afi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wem gehört der veröffentlichte Hauptregiecredit von @?",
+      "answers": [
+        "Michael Curtiz",
+        "George Sherman",
+        "Douglas Heyes",
+        "Henry Hathaway"
+      ],
+      "feedback": [
+        "Der veröffentlichte Hauptcredit gehört Michael Curtiz.",
+        "George Sherman ist Produzent des Films.",
+        "Heyes war früh vorgesehen, trägt aber nicht den Hauptcredit.",
+        "Hathaway inszenierte diese Fassung nicht."
+      ],
+      "short": "Michael Curtiz trägt den veröffentlichten Hauptregiecredit.",
+      "context": "Michael Curtiz ist nach AFI der veröffentlichte Hauptregisseur. Wegen seiner Erkrankung übernahm John Wayne erhebliche Regiearbeit, die TCM ausdrücklich als uncredited beschreibt. Diese tatsächliche Mitarbeit wird von der offiziellen Namensnennung getrennt. George Sherman produzierte; Douglas Heyes war in einer früheren Entwicklungsphase vorgesehen. Der genaue Credit verlangt deshalb, zwischen Planung, ausgeführter Arbeit und der Regienennung der veröffentlichten Fassung zu unterscheiden.",
+      "anchor": "Curtiz ist der Hauptcredit; Waynes tatsächliche Regiehilfe bleibt uncredited.",
+      "interest": "Klärt den belegten Unterschied zwischen Mitarbeit und offiziellem Credit.",
+      "sources": [
+        "afi",
+        "tcm"
+      ]
+    }
+  ]
+}
