@@ -1,0 +1,210 @@
+{
+  "rank": 22,
+  "directors": [
+    "Richard C. Sarafian"
+  ],
+  "production_countries": [
+    "USA",
+    "Großbritannien"
+  ],
+  "country_note": "AFI führt USA; BFI nennt USA und Großbritannien, weshalb beide Produktionsländer übernommen werden. Die UK-Fassung hat eine zusätzliche Anhalterinnenszene mit Charlotte Rampling; die Fragen betreffen die gemeinsame Handlung.",
+  "release_note": "Erste Veröffentlichung im März 1971 laut AFI; dort Los Angeles 18. März und New York 24. März. Der Filmartikel nennt 13. März; das Erstjahr 1971 ist eindeutig.",
+  "familiarity_reason": "Die Dodge-Challenger-Verfolgung gehört zu den prägenden Road- und Auto-Actionfilmen für Genrekenner.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)",
+    "afi": "https://catalog.afi.com/Film/54161-VANISHING-POINT",
+    "bfi": "https://www.bfi.org.uk/film/7ac0ed27-7fb6-5839-b126-902e34a1a7dd/vanishing-point",
+    "anker": "https://en.wikipedia.org/wiki/Bullitt"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Auto fährt Kowalski (Barry Newman) während der großen Verfolgung in @?",
+      "answers": [
+        "Einen weißen Dodge Challenger",
+        "Einen schwarzen Ford Mustang",
+        "Eine rote Chevrolet Corvette",
+        "Einen silbernen Jaguar E-Type"
+      ],
+      "feedback": [
+        "Der weiße Challenger ist Kowalskis Wagen.",
+        "Ein schwarzer Mustang ist nicht sein Verfolgungsfahrzeug.",
+        "Kowalski fährt keine rote Corvette.",
+        "Der Jaguar gehört einem anderen Fahrer, der ihn herausfordert."
+      ],
+      "short": "Kowalski fährt einen weißen Dodge Challenger.",
+      "context": "Kowalski (Barry Newman) übernimmt in Denver einen weißen Dodge Challenger für einen Überführungsauftrag. Der Wagen trägt ihn durch mehrere Staaten und bleibt das sichtbare Zentrum der Verfolgung. Ein Jaguar-Fahrer fordert ihn unterwegs zu einem Rennen heraus, doch Kowalskis Fahrzeug wechselt dadurch nicht. Der auffällige weiße Wagen verbindet die räumlich weit auseinanderliegenden Episoden des Roadmovies.",
+      "anchor": "Der weiße Challenger hält die gesamte Jagd zusammen.",
+      "interest": "Das Fahrzeug ist ein prägendes und leicht zugängliches Bildmotiv.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wie unterstützt Super Soul (Cleavon Little) Kowalski (Barry Newman) in @?",
+      "answers": [
+        "Er gibt ihm über das Radio Hinweise zur Polizei.",
+        "Er fährt vor ihm und räumt Straßensperren frei.",
+        "Er versteckt ihn in einer Werkstatt vor den Fahndern.",
+        "Er stellt ihm falsche Fahrzeugpapiere aus."
+      ],
+      "feedback": [
+        "Super Soul verfolgt Polizeifunk und spricht über seine Radiosendung.",
+        "Er fährt keinen Begleitwagen durch die Sperren.",
+        "Eine Werkstatt ist nicht sein Unterstützungsweg.",
+        "Er fälscht keine Papiere für den Challenger."
+      ],
+      "short": "Super Soul hilft über die Radiosendung.",
+      "context": "Der blinde Discjockey Super Soul (Cleavon Little) hört den Polizeifunk ab und richtet seine Sendung an Kowalski (Barry Newman). Er wird dadurch zu dessen räumlich entferntem Begleiter und macht ihn für andere zum rebellischen Helden. Die Hilfe erreicht den Fahrer über den Autoradio-Lautsprecher. Als das Studio angegriffen wird, ist deshalb auch dieser wichtige Kommunikationsweg gefährdet.",
+      "anchor": "Das Autoradio verbindet Fahrer und unsichtbaren Helfer.",
+      "interest": "Die ungewöhnliche Unterstützung erklärt die zentrale Rolle der Radiosendung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie unterscheidet sich Kowalskis (Barry Newman) private Wette in @ von seinem beruflichen Überführungsauftrag?",
+      "answers": [
+        "Er wettet auf eine Ankunft vor dem regulären Liefertermin.",
+        "Er wettet auf eine Fahrt ohne jede Pause.",
+        "Er wettet auf eine Überführung ohne Geschwindigkeitsüberschreitung.",
+        "Er wettet auf den Verkauf des Wagens am Zielort."
+      ],
+      "feedback": [
+        "Die Wette verspricht eine frühere Ankunft als der reguläre Liefertermin.",
+        "Die Wette verlangt keine vollständig pausenlose Fahrt.",
+        "Regelkonforme Geschwindigkeit ist nicht der Gegenstand der Wette.",
+        "Kowalski soll den Kundenwagen überführen, nicht selbst verkaufen."
+      ],
+      "short": "Kowalski wettet auf eine Ankunft vor dem regulären Liefertermin.",
+      "context": "Kowalski (Barry Newman) soll den Challenger regulär nach San Francisco überführen. Bei seinem Kontakt Jake (Lee Weaver) wettet er jedoch auf eine frühere Ankunft als vertraglich vorgesehen. Die private Herausforderung verkürzt also die verfügbare Zeit eines normalen Arbeitsauftrags. Der zusätzliche Zeitdruck erklärt seinen Drang zu Tempo und Aufputschmitteln, bevor die Polizeiverfolgung die Fahrt in eine öffentliche Flucht verwandelt.",
+      "anchor": "Die Wette zieht den Ankunftstermin vor.",
+      "interest": "Der Zusammenhang erklärt den selbst gewählten Zeitdruck hinter dem beruflichen Auftrag.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie hilft Angel (Timothy Scott) Kowalski (Barry Newman) in @ durch die bewachte Grenzpassage?",
+      "answers": [
+        "Er lässt den Challenger wie einen Polizeiwagen wirken.",
+        "Er lenkt ihn durch einen stillgelegten Eisenbahntunnel.",
+        "Er versteckt ihn im Anhänger eines Lastwagens.",
+        "Er vertauscht den Challenger mit einem identischen Auto."
+      ],
+      "feedback": [
+        "Angel verändert den Wagen für eine vorgetäuschte Polizeidurchfahrt.",
+        "Ein Eisenbahntunnel ist nicht der gewählte Weg.",
+        "Kowalski wird nicht im Lastwagenanhänger durchgeschmuggelt.",
+        "Die Passage beruht nicht auf einem Fahrzeugtausch."
+      ],
+      "short": "Angel unterstützt eine Tarnung als Polizeiwagen.",
+      "context": "Kowalski (Barry Newman) bemerkt, dass Super Souls (Cleavon Little) Hinweise verdächtig geworden sind. Angel (Timothy Scott) bestätigt, dass die Polizei an der Grenze auf ihn wartet, und hilft mit einem Umbau des Challengers. Der Wagen soll wie ein Polizeifahrzeug erscheinen. Die Szene verbindet die manipulierte Radiospur mit einer praktischen Täuschung, die Kowalski eine weitere Etappe ermöglicht.",
+      "anchor": "Die Polizeitarnung durchbricht die vorbereitete Grenzfalle.",
+      "interest": "Die List zeigt eine andere Fluchtmethode als bloß höhere Geschwindigkeit.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum verlor Kowalski (Barry Newman) laut Rückblende in @ seine frühere Polizeistelle?",
+      "answers": [
+        "Er verhinderte die Vergewaltigung einer Frau durch einen Vorgesetzten.",
+        "Er verkaufte beschlagnahmte Drogen an einen Rennfahrer.",
+        "Er verursachte betrunken einen Unfall mit einem Dienstwagen.",
+        "Er verweigerte einen Einsatz gegen Demonstranten."
+      ],
+      "feedback": [
+        "Er stellte sich gegen die sexuelle Gewalt seines Vorgesetzten.",
+        "Drogenverkauf ist nicht die gezeigte Ursache seines Ausscheidens.",
+        "Ein betrunkener Dienstwagenunfall erklärt die Entlassung nicht.",
+        "Eine verweigerte Demonstrationsräumung wird nicht als Anlass genannt."
+      ],
+      "short": "Kowalski wurde nach seinem Eingreifen gegen einen Vorgesetzten aus der Polizei ausgeschlossen.",
+      "context": "Rückblenden und die Auswertung seiner Akte zeigen Kowalski (Barry Newman) als früheren Soldaten, Rennfahrer und Polizisten. Seine Polizeilaufbahn endete, nachdem er die Vergewaltigung einer jungen Frau durch einen Vorgesetzten verhindert hatte. Die Vorgeschichte gibt der Jagd eine zusätzliche Bedeutung: Die Polizei verfolgt einen Mann, der zuvor innerhalb derselben Institution gegen deren Machtmissbrauch gehandelt hat.",
+      "anchor": "Der gejagte Ex-Polizist hatte sich gegen Gewalt im eigenen Dienst gestellt.",
+      "interest": "Die Vorgeschichte verändert den Blick auf den Konflikt mit der Polizei.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie verbindet @ seine Eröffnung mit Kowalskis (Barry Newman) späterem Ende?",
+      "answers": [
+        "Die spätere Straßensperre steht vor einem Rücksprung zum Fahrtbeginn.",
+        "Die Verfolgung wird rückwärts vom Unfall zum Fahrtbeginn erzählt.",
+        "Zwei parallele Verfolgungen treffen erst an der Sperre zusammen.",
+        "Die Ankunft erscheint als Traum vor dem eigentlichen Fahrtbeginn."
+      ],
+      "feedback": [
+        "Der Film zeigt die spätere Sperre zuerst und springt danach zurück.",
+        "Nach dem Rücksprung läuft die eigentliche Fahrt chronologisch ab.",
+        "Es werden keine zwei unabhängigen Verfolgungen im Finale zusammengeführt.",
+        "Die vorausgenommene Schlusslage wird nicht als Traum ausgewiesen."
+      ],
+      "short": "Die Eröffnung nimmt die spätere Sperre vorweg; danach springt die Erzählung zurück.",
+      "context": "Der AFI-Katalog erläutert den ungewöhnlichen Aufbau: Die erste Sequenz zeigt bereits die spätere Straßensperre für Kowalski (Barry Newman). Nach einem eingefrorenen Bild springt ein Zwischentitel zum Beginn der Fahrt in Denver zurück. Die Reise läuft anschließend chronologisch auf diese vorausgenommene Lage zu. Dazwischen ergänzen kürzere Erinnerungen Kowalskis Vorgeschichte. Der Anfang macht das drohende Ende sichtbar, bevor dessen Entstehung erzählt wird.",
+      "anchor": "Die erste Sperre gehört zeitlich ans Ende der Fahrt.",
+      "interest": "Der Aufbau erklärt, wie der Film seine Verfolgung von Anfang an mit einem drohenden Endpunkt verbindet.",
+      "sources": [
+        "afi",
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Barry Newman erstmals?",
+      "answers": [
+        "1971",
+        "1968",
+        "1974",
+        "1978"
+      ],
+      "feedback": [
+        "AFI nennt die Erstveröffentlichung im März 1971.",
+        "1968 erschien Bullitt.",
+        "1974 liegt drei Jahre nach diesem Film.",
+        "1978 liegt sieben Jahre nach der Erstveröffentlichung."
+      ],
+      "short": "Der Film erschien 1971.",
+      "context": "Bullitt erschien 1968 und machte die Verfolgungsfahrt durch San Francisco zu einem zentralen Kinomoment. Vanishing Point folgte 1971, drei Jahre später, mit einer Jagd über mehrere US-Staaten. AFI verzeichnet die Erstveröffentlichung im März 1971. Die Verbindung ordnet zwei unterschiedliche Auto-Actionfilme zeitlich ein: den städtischen Polizeifall und das ausgedehnte Roadmovie mit Kowalski (Barry Newman).",
+      "anchor": "1968 Bullitt, 1971 Vanishing Point: drei Jahre Abstand.",
+      "interest": "Die Jahreszahl wird an eine andere prägende Filmverfolgung angebunden.",
+      "sources": [
+        "afi",
+        "anker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Barry Newman Regie?",
+      "answers": [
+        "Richard C. Sarafian",
+        "Peter Yates",
+        "Monte Hellman",
+        "John Frankenheimer"
+      ],
+      "feedback": [
+        "AFI nennt Richard C. Sarafian als Regisseur.",
+        "Peter Yates inszenierte Bullitt, nicht diesen Film.",
+        "Monte Hellman inszenierte Two-Lane Blacktop, nicht Vanishing Point.",
+        "John Frankenheimer führte hier nicht Regie."
+      ],
+      "short": "Richard C. Sarafian inszenierte Vanishing Point.",
+      "context": "Richard C. Sarafian ist im AFI-Katalog als Regisseur verzeichnet, Norman Spencer als Produzent. Das Drehbuch schrieb Guillermo Cabrera Infante unter dem Pseudonym Guillermo Cain. Der Film verbindet Kowalskis (Barry Newman) aktuelle Verfolgung mit Rückblenden auf seine Vorgeschichte und der Radiosendung von Super Soul (Cleavon Little). Die Zuordnung bleibt gegenüber anderen Regisseuren wichtiger Auto- und Roadmovies eigenständig.",
+      "anchor": "Sarafian inszeniert Kowalskis staatenübergreifende Fahrt.",
+      "interest": "Der Regiecredit grenzt verwandte Roadmovie-Werke voneinander ab.",
+      "sources": [
+        "afi",
+        "handlung",
+        "bfi"
+      ]
+    }
+  ],
+  "continuity_note": "AFI nennt in der Inhaltsangabe die Wettankunft am Tag nach Freitag; der Filmartikel nennt Sonntag. M1 beschränkt sich auf den gegenüber dem regulären Liefertermin vorgezogenen Ankunftszeitpunkt. S2 bezieht sich auf den vom AFI ausdrücklich beschriebenen Aufbau."
+}

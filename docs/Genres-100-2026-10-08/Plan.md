@@ -23,6 +23,6 @@ Arbeitsstände, Auswahlbegründungen, Quellenabgleich und Prüfung werden je Gen
 
 ## Aktueller Fortschritt
 
-Zwei Genres lokal vollständig geprüft: Abenteuer 100 Filme / 802 Fragen, Thriller 100 Filme / 812 Fragen. Insgesamt 69 Filme und 552 Fragen ergänzt. Katalog 26 Pakete / 11.429 Fragen / 10.866 Ziele. Die übrigen sieben Genres stehen noch aus: 168 Filme und mindestens 1.344 Fragen. [Abenteuer-Abnahme](Abenteuer/Pruefbericht.md), [Thriller-Abnahme](Thriller/Pruefbericht.md). Nächster Block: Action, 75 → 100 Filme.
+3 von neun Genres lokal vollständig geprüft: Abenteuer 100 Filme / 802 Fragen, Thriller 100 Filme / 812 Fragen, Action 100 Filme / 828 Fragen. Insgesamt 94 Filme und 752 Fragen ergänzt. Katalog 27 Pakete / 11.629 Fragen / 11.066 Ziele. Noch 6 Genres mit 143 Filmen und mindestens 1.144 Fragen. Nächster Block: Martial Arts & Asia-Film. [Abenteuer-Abnahme](Abenteuer/Pruefbericht.md), [Thriller-Abnahme](Thriller/Pruefbericht.md), [Action-Abnahme](Action/Pruefbericht.md).
 
 Der Klassikerkern darf Überschneidungen mit bereits anders zugeordneten Filmgenres berücksichtigen. Diese Werke werden im Gesamtkatalog nachgewiesen; sie erhöhen den neuen Genrebestand nicht und werden nicht umgeordnet.

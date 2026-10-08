@@ -1,0 +1,212 @@
+{
+  "rank": 14,
+  "directors": [
+    "Christopher McQuarrie"
+  ],
+  "production_countries": [
+    "USA",
+    "Vereinigtes Königreich"
+  ],
+  "country_note": "BFIs Statistical Yearbook 2019 führt Rogue Nation in der Fernsehauswertung als UK/USA (Tabelle 10, gedruckte Seite 118). Wikipedia nennt nur USA. Hier wird die institutionelle Länderzuordnung übernommen; Marokko und Österreich sind dadurch nicht automatisch Produktionsländer.",
+  "release_note": "Weltpremiere am 23. Juli 2015 in der Wiener Staatsoper; US-Kinostart am 31. Juli 2015.",
+  "familiarity_reason": "Die bekannte Tom-Cruise-Reihe, Rebecca Fergusons Einstieg und der öffentlich stark präsentierte Flugzeugstunt machen diesen Teil gut erkennbar.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation",
+    "studio": "https://ir.paramount.com/static-files/9fb6b323-0f9c-45b2-b4df-b3a140898a4b",
+    "premiere": "https://www.gettyimages.co.uk/detail/news-photo/simon-pegg-and-host-steven-gaetjen-speak-on-stage-during-news-photo/481681270",
+    "laender": "https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2019.pdf",
+    "effekte": "https://www.fxguide.com/fxfeatured/hold-on-the-vfx-of-rogue-nation/",
+    "vergleich": "https://www.bfi.org.uk/features/mission-impossible-fallout-stunts"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Entscheidung erschwert Ethan Hunts (Tom Cruise) Arbeit zu Beginn von @ entscheidend?",
+      "answers": [
+        "Die IMF wird aufgelöst und ihre Aufgaben gehen an die CIA.",
+        "Die IMF darf nur noch innerhalb der USA ermitteln.",
+        "Die IMF muss sämtliche Einsätze gemeinsam mit dem MI6 durchführen.",
+        "Die IMF darf nur noch technische Aufklärung betreiben."
+      ],
+      "feedback": [
+        "Die Auflösung entzieht Ethan seine gewohnte Organisation.",
+        "Eine reine Beschränkung auf US-Einsätze ist nicht der Beschluss.",
+        "Eine Pflichtpartnerschaft mit dem MI6 wird nicht eingerichtet.",
+        "Eine Beschränkung auf technische Aufklärung ist nicht der Beschluss."
+      ],
+      "short": "Die Auflösung der IMF macht Ethan zum eigenmächtig handelnden Verfolgten.",
+      "context": "CIA-Direktor Alan Hunley (Alec Baldwin) erreicht die Auflösung der IMF. Ethan Hunt (Tom Cruise) will seine Jagd nach dem Syndikat trotzdem fortsetzen und entzieht sich der neuen Befehlslage. Seine bisherigen Kollegen müssen nun innerhalb einer anderen Behörde arbeiten oder ausscheiden. Die Unterstützung des vertrauten Teams wird dadurch schwieriger, weil sich der Agent gegen eine Entscheidung der eigenen staatlichen Seite stellt.",
+      "anchor": "Der Agent verliert zuerst seine organisatorische Rückendeckung.",
+      "interest": "Der Konflikt mit der Dienststruktur erklärt die veränderten Einsatzbedingungen.",
+      "sources": [
+        "studio",
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Für welchen Dienst arbeitet Ilsa Faust (Rebecca Ferguson) in @ verdeckt im Syndikat?",
+      "answers": [
+        "MI6",
+        "CIA",
+        "BND",
+        "DGSE"
+      ],
+      "feedback": [
+        "Ilsa ist eine verdeckt eingesetzte britische MI6-Agentin.",
+        "Die CIA ist nicht ihr eigener Auftraggeber.",
+        "Sie arbeitet nicht im Auftrag des deutschen BND.",
+        "Die französische DGSE ist nicht ihr Dienst."
+      ],
+      "short": "Ilsas verdeckter Auftrag stammt vom britischen MI6.",
+      "context": "Ilsa Faust (Rebecca Ferguson) hilft Ethan Hunt (Tom Cruise) bei der Flucht, bleibt aber in die Arbeit des Syndikats eingebunden. Ihr MI6-Auftrag erklärt diese scheinbar wechselnden Seiten, ohne jede ihrer Entscheidungen eindeutig zu machen. Besonders ihr Verhältnis zu Atlee (Simon McBurney) zeigt, dass die Zugehörigkeit zu einem staatlichen Dienst keine verlässliche Sicherheit bietet, solange dessen Leitung eigene Geheimnisse schützt.",
+      "anchor": "Ilsas MI6-Auftrag macht ihre wechselnden Positionen verständlich.",
+      "interest": "Die Organisationszugehörigkeit ordnet eine zentrale neue Figur ein.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was enthält die gesuchte verschlüsselte Datensammlung in @ tatsächlich?",
+      "answers": [
+        "Zugang zu Milliardenbeträgen auf geheimen Konten",
+        "Die vollständige Namensliste aller Syndikatsagenten",
+        "Steuerbefehle für britische Aufklärungssatelliten",
+        "Die Zugangscodes zu europäischen Waffenlagern"
+      ],
+      "feedback": [
+        "Die Kontozugänge können das Syndikat dauerhaft finanzieren.",
+        "Die angenommene Agentenliste ist nicht der tatsächliche Inhalt.",
+        "Eine Satellitensteuerung steckt nicht in der Datei.",
+        "Waffenlagercodes erklären den Wert der Datensammlung nicht."
+      ],
+      "short": "Die Daten erschließen geheime Konten mit 2,4 Milliarden Pfund.",
+      "context": "Ethan Hunt (Tom Cruise) und sein Team halten die Datensammlung zunächst für eine Liste der Syndikatsmitglieder. Nach der Entschlüsselung geht es jedoch um den Zugang zu enormen Geldreserven. Solomon Lane (Sean Harris) will damit seine Organisation finanzieren. Der Fund verschiebt deshalb den Konflikt: Nicht die unmittelbare Enttarnung einzelner Agenten, sondern die künftige Handlungsfähigkeit des Netzwerks steht auf dem Spiel.",
+      "anchor": "Die vermeintliche Agentenliste ist die finanzielle Zukunft des Syndikats.",
+      "interest": "Die Enthüllung verändert die Bedeutung des zuvor verfolgten Gegenstands.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Oper wird während der Anschlagssequenz in der Wiener Staatsoper in @ gespielt?",
+      "answers": [
+        "Turandot",
+        "Tosca",
+        "La bohème",
+        "Madama Butterfly"
+      ],
+      "feedback": [
+        "Das Bühnengeschehen zeigt Puccinis Turandot.",
+        "Tosca ist nicht die Aufführung dieser Sequenz.",
+        "La bohème bildet nicht den musikalischen Rahmen.",
+        "Madama Butterfly läuft hier nicht auf der Bühne."
+      ],
+      "short": "Die Anschlagssequenz spielt während Turandot.",
+      "context": "Ethan Hunt (Tom Cruise) und Benji Dunn (Simon Pegg) verfolgen das Syndikat in die Wiener Staatsoper. Während Turandot auf der Bühne weiterläuft, bewegen sich mehrere Angreifer durch die verborgenen Bereiche des Hauses. Die Aufführung gibt der Szene einen eigenen zeitlichen und akustischen Rahmen. Musik, Publikumsaufmerksamkeit und der Kampf oberhalb der Bühne laufen gleichzeitig, wodurch der Anschlag hinter dem sichtbaren Kunstereignis verborgen bleibt.",
+      "anchor": "Turandot verbindet den sichtbaren Opernabend mit der verdeckten Action.",
+      "interest": "Der konkrete musikalische Rahmen ist von der Agentenhandlung unabhängig.",
+      "sources": [
+        "handlung",
+        "effekte"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie wird Solomon Lane (Sean Harris) im Finale von @ überwältigt?",
+      "answers": [
+        "Er wird in eine kugelsichere Glaskammer gelockt und betäubt.",
+        "Er wird mit einer manipulierten Bombe in Benjis Weste getäuscht.",
+        "Er wird durch eine gefälschte MI6-Verstärkung zum Aufgeben gebracht.",
+        "Er wird bei einer fingierten Geldübergabe mit einem Peilsender markiert."
+      ],
+      "feedback": [
+        "Die Glaskammer schließt Lane ein; Gas setzt ihn außer Gefecht.",
+        "Benjis Bombenweste ist nicht das Werkzeug seiner späteren Festnahme.",
+        "Eine falsche MI6-Verstärkung erzwingt nicht die Kapitulation.",
+        "Eine bloße Markierung durch einen Peilsender beendet den Konflikt nicht."
+      ],
+      "short": "Ethan lockt Lane in eine vorbereitete Glaskammer.",
+      "context": "Ethan Hunt (Tom Cruise) bringt Solomon Lane (Sean Harris) dazu, ihm in einen vorbereiteten Raum zu folgen. Die gläserne Begrenzung ist kugelsicher und verhindert den letzten Ausweg. Dann wird Lane mit Gas betäubt. Der Schluss kehrt damit die Gefangenschaft vom Beginn um: Nun kontrolliert Ethans Team den abgeschlossenen Raum und setzt die Methode gegen denjenigen ein, der zuvor die Falle gestellt hatte.",
+      "anchor": "Lanes Gefangennahme spiegelt die Falle vom Beginn.",
+      "interest": "Die konkrete Inszenierung der Auflösung wird mit einer früheren Szene verbunden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie entstand für @ die Aufnahme von Tom Cruise an der Außenseite des fliegenden Transportflugzeugs?",
+      "answers": [
+        "Ein realer Flug mit Cruise; Sicherungsseile wurden digital entfernt.",
+        "Eine Studiokabine mit Cruise vor projiziertem Flugmaterial.",
+        "Ein Stuntdouble am Flugzeug mit digital eingesetztem Cruise-Gesicht.",
+        "Eine vollständig digitale Figur an einem nachgebauten Flugzeug."
+      ],
+      "feedback": [
+        "Cruise hing beim realen Flug am A400M; Effekte entfernten die Sicherung.",
+        "Die Flugaufnahme beruht nicht nur auf einer Studiokabine.",
+        "Für diese Flugaufnahme wurde Cruise nicht durch ein entsprechend ersetztes Double dargestellt.",
+        "Die sichtbare Person am fliegenden Flugzeug ist keine vollständig digitale Figur."
+      ],
+      "short": "Realer Flug und digitale Nachbearbeitung wurden kombiniert.",
+      "context": "Tom Cruise wurde für die Flugaufnahme am Airbus A400M gesichert und flog tatsächlich außen mit. Visual-Effects-Supervisor David Vickery beschreibt, wie die Sicherungsseile danach aus dem Bild entfernt und der Hintergrund angepasst wurden. Der physisch ausgeführte Stunt bedeutete also keinen Verzicht auf digitale Arbeit. Das Ergebnis verbindet eine reale darstellerische Leistung mit gezielten Veränderungen, die ihre Absicherung unsichtbar machen.",
+      "anchor": "Cruise fliegt real mit; digitale Arbeit entfernt die Sicherung.",
+      "interest": "Der Primärbericht des Effektverantwortlichen verhindert die falsche Behauptung eines Films ohne Effekte.",
+      "sources": [
+        "effekte"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Tom Cruise erstmals veröffentlicht?",
+      "answers": [
+        "2015",
+        "2009",
+        "2012",
+        "2018"
+      ],
+      "feedback": [
+        "Die Wiener Weltpremiere fand 2015 statt.",
+        "2009 liegt sechs Jahre davor.",
+        "2012 liegt drei Jahre davor.",
+        "2018 liegt drei Jahre danach."
+      ],
+      "short": "2015 Rogue Nation, 2018 Fallout: drei Jahre Abstand.",
+      "context": "Rogue Nation erschien 2015 und führte Ilsa Faust (Rebecca Ferguson) in die Kinoreihe ein. Drei Jahre später folgte 2018 Fallout, das Figuren und Konflikte des Syndikat-Abenteuers weiterführt. Beide Filme wurden von Christopher McQuarrie inszeniert, bleiben aber unterschiedliche Veröffentlichungen. Die Weltpremiere des früheren Films fand am 23. Juli 2015 in der Wiener Staatsoper statt, einem auch in der Handlung wichtigen Schauplatz.",
+      "anchor": "2015 Rogue Nation, 2018 Fallout: drei Jahre Abstand.",
+      "interest": "Der konkrete Nachfolger liefert eine zweite Zeitmarke ohne das vorhandene Rückkehrziel nochmals abzufragen.",
+      "sources": [
+        "studio",
+        "premiere",
+        "vergleich"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Tom Cruise und Rebecca Ferguson?",
+      "answers": [
+        "Christopher McQuarrie",
+        "Brad Bird",
+        "J. J. Abrams",
+        "Doug Liman"
+      ],
+      "feedback": [
+        "Christopher McQuarrie führte Regie und schrieb das Drehbuch.",
+        "Brad Bird inszenierte den vorherigen Kinoteil, nicht diesen.",
+        "J. J. Abrams war hier Produzent, nicht Regisseur.",
+        "Doug Liman trägt diesen Regiecredit nicht."
+      ],
+      "short": "Christopher McQuarrie führte Regie.",
+      "context": "Christopher McQuarrie inszeniert die Jagd nach dem Syndikat und zeichnet auch für das Drehbuch verantwortlich. Ethan Hunt (Tom Cruise) muss eine Organisation bekämpfen, während ihm die eigene entzogen wird. Ilsa Faust (Rebecca Ferguson) bringt dabei eine zusätzliche Unsicherheit über Bündnisse und Aufträge ein. Paramount unterscheidet McQuarries Regie von den Produzentencredits, unter denen etwa J. J. Abrams aufgeführt wird.",
+      "anchor": "McQuarrie verbindet Organisationsverlust mit einer unsicheren neuen Partnerschaft.",
+      "interest": "Der konkrete Regiecredit wird von der Beteiligung anderer Reihenregisseure als Produzenten getrennt.",
+      "sources": [
+        "studio",
+        "handlung"
+      ]
+    }
+  ]
+}

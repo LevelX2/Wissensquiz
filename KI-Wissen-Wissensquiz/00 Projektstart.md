@@ -9,7 +9,7 @@ Stand: 08.10.2026. Dieser Snapshot trennt den dokumentierten veröffentlichten S
 
 ## Aktueller Stand
 
-- **Genreausbau im autorisierten Worktree:** Abenteuer 100 Filme / 802 Fragen und Thriller 100 Filme / 812 Fragen vollständig lokal geprüft. Insgesamt 69 Filme / 552 Fragen ergänzt; Katalog 26 Pakete / 11.429 Fragen / 10.866 Ziele. Thriller: 385 Logiktests, Build und neun Browserfälle erfolgreich. Sieben Genres stehen noch aus; Action folgt. Noch nicht veröffentlicht. [Plan und Abnahmen](../docs/Genres-100-2026-10-08/Plan.md).
+- **Genreausbau im autorisierten Worktree:** 3 von neun Genres vollständig lokal geprüft: Abenteuer 100 Filme / 802 Fragen, Thriller 100 Filme / 812 Fragen, Action 100 Filme / 828 Fragen. Insgesamt 94 Filme / 752 Fragen ergänzt; Katalog 27 Pakete / 11.629 Fragen / 11.066 Ziele. 386 Logiktests, TypeScript/Build und acht Browserfälle in Chromium/Firefox erfolgreich. Noch 6 Genres mit 143 Filmen und mindestens 1.144 Fragen. Nächster Block: Martial Arts & Asia-Film. Noch nicht veröffentlicht. [Plan und Abnahmen](../docs/Genres-100-2026-10-08/Plan.md).
 
 - **Version 57 öffentlich veröffentlicht am 07.10.2026 um 16:29:48 Uhr Europe/Berlin:** gesamter committeter Main-Stand mit 200 Bildfragen / 400 Fotos sowie 2.480 weiteren Fragen. Öffentlicher Zugriff erhalten, Onlinekatalog 10.877 Fragen, Duellkatalog 9.047 Fragen; vorherige Duellfragen und private Spielstände unverändert. 380 Tests, 27 gezielte Browserfälle, Versionsbuild und Archivgleichheit erfolgreich. [Betriebs- und Veröffentlichungsnachweis](../docs/Sites-Betrieb.md#version-57-200-bildfragen-mit-400-fotos-und-2480-weitere-fragen).
 

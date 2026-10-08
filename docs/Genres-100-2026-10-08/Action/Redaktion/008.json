@@ -1,0 +1,208 @@
+{
+  "rank": 8,
+  "directors": [
+    "Terence Young"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "release_note": "Londoner Premiere am 10. Oktober 1963 laut Filmquelle; BFI führt 1963. AFI nennt den US-Start 8. April 1964, vermerkt aber ausdrücklich London Oktober 1963. Erstjahr ist 1963.",
+  "familiarity_reason": "Früher und besonders prägender Bond-Spionagefilm mit Connery; Bekanntheit 2.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/From_Russia_with_Love_(film)",
+    "archiv": "https://catalog.afi.com/Film/22487-FROM-RUSSIA-WITH-LOVE",
+    "bfi": "https://www.bfi.org.uk/film/f0ff34fe-938e-5704-bc5b-80648a1a01a3/from-russia-with-love",
+    "spionage": "https://www.bfi.org.uk/lists/10-great-spy-films"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Art Gerät soll Bond (Sean Connery) in @ aus dem sowjetischen Konsulat beschaffen?",
+      "answers": [
+        "Eine Chiffriermaschine",
+        "Ein tragbares Radar",
+        "Ein Funkpeilgerät",
+        "Ein Nachtsichtgerät"
+      ],
+      "feedback": [
+        "Der Lektor ist eine sowjetische Chiffriermaschine.",
+        "Ein Radar ist nicht das begehrte Gerät.",
+        "Ein Funkpeilgerät bildet nicht den Köder.",
+        "Ein Nachtsichtgerät wird nicht aus dem Konsulat gestohlen."
+      ],
+      "short": "Der Lektor ist eine Chiffriermaschine.",
+      "context": "Tatiana Romanova (Daniela Bianchi) bietet an, bei der Beschaffung des Lektors zu helfen, wenn Bond (Sean Connery) sie in den Westen begleitet. Das Gerät könnte dem britischen Geheimdienst Zugang zu sowjetischen Nachrichten verschaffen und ist deshalb ein glaubhafter Köder. Bond und seine Vorgesetzten rechnen durchaus mit einer Falle. Der mögliche Gewinn erklärt trotzdem, warum sie das Angebot prüfen und den Einsatz fortsetzen.",
+      "anchor": "Der Lektor ist eine Chiffriermaschine.",
+      "interest": "Das zentrale Objekt erklärt, weshalb eine erkennbare Gefahr eingegangen wird.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Mit welchem Verkehrsmittel verlassen Bond und Tatiana (Sean Connery, Daniela Bianchi) in @ zunächst Istanbul?",
+      "answers": [
+        "Mit dem Orient-Express",
+        "Mit einer Fähre über das Schwarze Meer",
+        "Mit einem Linienflug nach London",
+        "Mit einem Diplomatenwagen"
+      ],
+      "feedback": [
+        "Sie fahren mit dem Orient-Express Richtung Westen.",
+        "Eine Schwarzmeerfähre ist nicht dieser erste Fluchtweg.",
+        "Sie treten keinen Linienflug nach London an.",
+        "Sie verlassen die Stadt nicht im Diplomatenwagen."
+      ],
+      "short": "Die Flucht aus Istanbul beginnt im Orient-Express.",
+      "context": "Nach dem Diebstahl des Lektors steigen Bond und Tatiana (Sean Connery, Daniela Bianchi) zusammen mit Kerim Bey (Pedro Armendáriz) in den Orient-Express. Die Reise soll sie nach Westen bringen. Doch die Abteile und Zwischenhalte eröffnen dem Verfolger neue Möglichkeiten. Der vermeintlich sichere Transport wird zum engen Schauplatz einer weiteren Täuschung, in dem Bond einen Verbündeten verliert und einem falschen Kontaktmann begegnet.",
+      "anchor": "Die Flucht aus Istanbul beginnt im Orient-Express.",
+      "interest": "Eine zentrale Ortsveränderung macht die neue Form der Gefahr verständlich.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wessen Auftrag glaubt Tatiana (Daniela Bianchi) in @ zu erfüllen, als Klebb (Lotte Lenya) sie für die Operation anwirbt?",
+      "answers": [
+        "Einen Auftrag des sowjetischen Geheimdienstes",
+        "Einen direkten Auftrag des britischen Geheimdienstes",
+        "Einen Auftrag der privaten Organisation SPECTRE",
+        "Einen persönlichen Auftrag des Konsuls"
+      ],
+      "feedback": [
+        "Klebb verschweigt ihren Wechsel zu SPECTRE und nutzt ihre alte Stellung.",
+        "Tatiana glaubt nicht, bereits für die Briten zu arbeiten.",
+        "SPECTRE steht tatsächlich hinter der Operation; Tatiana weiß davon jedoch nichts.",
+        "Der Konsul erteilt ihr nicht den vermeintlichen Geheimauftrag."
+      ],
+      "short": "Tatiana hält Klebbs Operation für einen sowjetischen Geheimdienstauftrag.",
+      "context": "Rosa Klebb (Lotte Lenya) hat den sowjetischen Dienst verlassen und arbeitet für SPECTRE. Tatiana Romanova (Daniela Bianchi) weiß davon jedoch nichts. Klebb nutzt ihre frühere Autorität, um die junge Angestellte als ahnungslosen Köder für Bond (Sean Connery) einzusetzen. Tatianas tatsächliche Gefühle und ihr vermeintlicher dienstlicher Auftrag geraten dadurch in einen Konflikt, dessen wahre Auftraggeber sie anfangs gar nicht kennt.",
+      "anchor": "Tatiana hält Klebbs Operation für einen sowjetischen Geheimdienstauftrag.",
+      "interest": "Unterscheidet bewusste Täuschung durch Klebb von Tatianas begrenztem Wissen.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Als was gibt sich Grant (Robert Shaw) in @ im Zug gegenüber Bond (Sean Connery) aus?",
+      "answers": [
+        "Als britischer Kontaktagent",
+        "Als sowjetischer Überläufer",
+        "Als französischer Polizeibeamter",
+        "Als Sicherheitschef des Zuges"
+      ],
+      "feedback": [
+        "Er ersetzt den erwarteten britischen Kontaktmann.",
+        "Ein sowjetischer Überläufer ist nicht seine Tarnrolle.",
+        "Er behauptet nicht, der französischen Polizei anzugehören.",
+        "Eine Zug-Sicherheitsfunktion ist nicht seine Identität."
+      ],
+      "short": "Grant übernimmt die Identität des erwarteten britischen Kontaktagenten.",
+      "context": "Grant (Robert Shaw) hört mit, welchen britischen Kontaktmann Bond (Sean Connery) bei einem Zwischenhalt erwartet. Er tötet diesen Mann und nimmt seine Stelle ein. Im Zug kann er dadurch als vermeintlicher Verbündeter auftreten, Tatiana (Daniela Bianchi) betäuben und Bond überwältigen. Die Tarnung nutzt keine zufällige Verwechslung, sondern Bonds vorherige Erwartung, endlich Unterstützung durch den eigenen Dienst zu erhalten.",
+      "anchor": "Grant übernimmt die Identität des erwarteten britischen Kontaktagenten.",
+      "interest": "Erklärt die konkrete Vertrauensgrundlage einer gefährlichen falschen Identität.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welchen scheinbaren Todeshergang soll SPECTREs Film von Bond und Tatiana (Sean Connery, Daniela Bianchi) in @ stützen?",
+      "answers": [
+        "Mord mit anschließendem Selbstmord",
+        "Einen sowjetischen Geheimdienstanschlag",
+        "Einen Unfall bei der Zugflucht",
+        "Eine misslungene Polizeifestnahme"
+      ],
+      "feedback": [
+        "Die Aufnahmen sollen eine kompromittierende Mord-und-Selbstmord-Geschichte stützen.",
+        "Die Inszenierung soll gerade nicht als sowjetischer Geheimdienstanschlag erscheinen.",
+        "Ein Zugunfall ist nicht das geplante Tarnbild.",
+        "Eine Polizeifestnahme ist nicht die gewünschte Erklärung."
+      ],
+      "short": "SPECTRE will die Tötung als kompromittierendes Mord-und-Selbstmord-Drama tarnen.",
+      "context": "Klebb und Grant (Lotte Lenya, Robert Shaw) haben Bond und Tatiana (Sean Connery, Daniela Bianchi) heimlich im Hotel gefilmt. Grant erklärt im Zug, dass beide getötet werden sollen und die Aufnahmen eine angebliche Erpressungsgeschichte stützen würden. So könnte der Tod wie Mord mit anschließendem Selbstmord wirken und den britischen Geheimdienst beschämen. SPECTRE plant also zugleich einen Anschlag und eine falsche öffentliche Deutung.",
+      "anchor": "SPECTRE will die Tötung als kompromittierendes Mord-und-Selbstmord-Drama tarnen.",
+      "interest": "Verbindet die heimliche Aufnahme mit dem eigentlichen Rufschädigungsplan.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie endet Klebbs (Lotte Lenya) letzter Angriff auf Bond (Sean Connery) im venezianischen Hotel in @?",
+      "answers": [
+        "Tatiana (Daniela Bianchi) erschießt Klebb",
+        "Bond (Sean Connery) wendet Klebbs Giftklinge gegen sie",
+        "Tatiana (Daniela Bianchi) schlägt Klebb mit einer Flasche bewusstlos",
+        "Bond (Sean Connery) entwaffnet Klebb und lässt sie festnehmen"
+      ],
+      "feedback": [
+        "Tatiana wendet die Waffe gegen ihre frühere Auftraggeberin.",
+        "Er tötet sie nicht mit der Klinge aus ihrem Schuh.",
+        "Tatiana schlägt sie nicht mit einer Flasche nieder.",
+        "Der Angriff endet mit ihrem Tod, nicht mit einer Festnahme."
+      ],
+      "short": "Tatiana erschießt Klebb und rettet Bond.",
+      "context": "Rosa Klebb (Lotte Lenya) erscheint im Hotel als Zimmermädchen und greift Bond (Sean Connery) mit einer vergifteten Klinge im Schuh an. Tatiana (Daniela Bianchi) muss sich nun sichtbar gegen die Frau entscheiden, deren vermeintlichem dienstlichen Auftrag sie zunächst gefolgt war. Sie erschießt Klebb und rettet Bond. Der letzte Angriff schließt damit nicht nur eine Actionfolge ab, sondern löst Tatianas ursprüngliche Abhängigkeit von ihrer falschen Auftraggeberin.",
+      "anchor": "Tatiana erschießt Klebb und rettet Bond.",
+      "interest": "Tatianas Entscheidung beendet die anfangs wirksame Autorität der Gegenspielerin.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Sean Connery erstmals veröffentlicht?",
+      "answers": [
+        "1963",
+        "1962",
+        "1964",
+        "1965"
+      ],
+      "feedback": [
+        "Der Film wurde 1963 in London veröffentlicht.",
+        "1962 erschien zuvor Dr. No.",
+        "1964 bezeichnet hier den späteren US-Start.",
+        "1965 liegt nach diesem Film."
+      ],
+      "short": "1962 Dr. No, 1963 Liebesgrüße aus Moskau: ein Jahr Abstand.",
+      "context": "Liebesgrüße aus Moskau erschien 1963, ein Jahr nach Dr. No von 1962. Sean Connery kehrte als Bond zurück; der zweite Film führte die zuvor begonnene Kinoreihe weiter und verdichtete den Konflikt mit SPECTRE. Der spätere amerikanische Kinostart 1964 ist für das Erstjahr nicht maßgeblich. Der konkrete Abstand von einem Jahr verankert den Film am Anfang der Reihe, unmittelbar nach Bonds erstem Kinoabenteuer.",
+      "anchor": "1962 Dr. No, 1963 Liebesgrüße aus Moskau: ein Jahr Abstand.",
+      "interest": "Klärt das Erstjahr anhand des Vorgängers und des späteren US-Starts.",
+      "sources": [
+        "bfi",
+        "archiv",
+        "spionage"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Sean Connery und Daniela Bianchi Regie?",
+      "answers": [
+        "Terence Young",
+        "Guy Hamilton",
+        "Lewis Gilbert",
+        "Peter R. Hunt"
+      ],
+      "feedback": [
+        "Terence Young ist als Regisseur genannt.",
+        "Hamilton inszenierte den nachfolgenden Goldfinger.",
+        "Gilbert führte bei dieser Filmfassung nicht Regie.",
+        "Hunt arbeitete hier am Schnitt, nicht als Hauptregisseur."
+      ],
+      "short": "Terence Young inszenierte Liebesgrüße aus Moskau.",
+      "context": "Terence Young führte bei der veröffentlichten Filmfassung Regie. Peter Hunt war für den Schnitt verantwortlich und wurde erst später selbst Bond-Regisseur. Richard Maibaum schrieb das Drehbuch; Johanna Harwood erhielt den Adaptionscredit. Die Verbindung aus Täuschungen, Zugreise und Nahkampf verdichtet Bonds (Sean Connery) Einsatz zu einer Spionagegeschichte, in der der Gegner lange als vermeintlicher Helfer auftreten kann. Die Credits trennen diese unterschiedlichen Gestaltungsleistungen.",
+      "anchor": "Terence Young inszenierte Liebesgrüße aus Moskau.",
+      "interest": "Ordnet Regie, Schnitt, Drehbuch und Adaption auseinander.",
+      "sources": [
+        "archiv",
+        "bfi"
+      ]
+    }
+  ],
+  "country_note": "BFI-Kurzeintrag nennt nur Vereinigtes Königreich; AFI und Filmquelle nennen Vereinigtes Königreich/USA. Die Zweiländerzuordnung folgt der ausführlicheren AFI-Länderliste."
+}

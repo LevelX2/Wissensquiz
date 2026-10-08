@@ -1,0 +1,203 @@
+{
+  "rank": 18,
+  "directors": [
+    "Richard Donner"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Kinoauswertung 1998; AFI nennt den US-Kinostart am 10. Juli 1998.",
+  "familiarity_reason": "Der vierte Riggs/Murtaugh-Film mit Mel Gibson, Danny Glover und Jet Li gehört zur bekannten Actionreihe.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Lethal_Weapon_4",
+    "afi": "https://catalog.afi.com/Catalog/moviedetails/61010",
+    "anfang": "https://catalog.afi.com/Film/68361-LETHAL-WEAPON"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo bringt Roger Murtaugh (Danny Glover) in @ die vor Abschiebung versteckte Familie Hong unter?",
+      "answers": [
+        "In seinem eigenen Haus",
+        "In einem Polizeiversteck",
+        "In Leo Getz’ (Joe Pesci) Wohnung",
+        "In einer kirchlichen Unterkunft"
+      ],
+      "feedback": [
+        "Murtaugh öffnet der Familie sein Zuhause.",
+        "Er organisiert kein polizeiliches Versteck.",
+        "Leo Getz übernimmt die Familie nicht in seiner Wohnung.",
+        "Die Familie wohnt nicht in einer kirchlichen Einrichtung."
+      ],
+      "short": "Murtaugh beherbergt die Familie Hong bei sich.",
+      "context": "Roger Murtaugh (Danny Glover) entdeckt die versteckte Familie Hong nach einem Einsatz gegen Menschenschmuggler. Er nimmt sie in sein Haus auf, wo die beiden Familien einander näherkommen. Diese persönliche Entscheidung zieht die Ermittlung direkt in sein Privatleben: Die Triaden gelangen später zu seinem Zuhause. Der Familienanschluss ist damit sowohl ein solidarischer Schritt als auch eine neue Gefahr.",
+      "anchor": "Murtaughs Haus wird Zuflucht und später Angriffsziel.",
+      "interest": "Die Unterkunft verbindet Polizeifall und Familiengeschichte.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Verbindung hat Lee Butters (Chris Rock) in @ zu Roger Murtaughs (Danny Glover) schwangerer Tochter Rianne (Traci Wolfe)?",
+      "answers": [
+        "Er ist der Vater ihres Kindes.",
+        "Er ist ihr Cousin.",
+        "Er ist der Bruder ihres Partners.",
+        "Er ist ihr früherer Ehemann."
+      ],
+      "feedback": [
+        "Butters und Rianne erwarten gemeinsam ein Kind.",
+        "Butters ist nicht Riannes Cousin.",
+        "Butters ist selbst Riannes Partner, nicht dessen Bruder.",
+        "Rianne hält ihre aktuelle Ehe mit Butters geheim; er ist kein früherer Ehemann."
+      ],
+      "short": "Lee Butters ist der Vater von Riannes Kind.",
+      "context": "Rianne Murtaugh (Traci Wolfe) und Lee Butters (Chris Rock) halten ihre Beziehung vor Roger Murtaugh (Danny Glover) geheim. Rianne weiß, dass ihr Vater eine Verbindung mit einem Polizisten ablehnen würde. Butters’ auffällige Fürsorge für Roger erhält durch die Enthüllung einen familiären Grund. Im Krankenhaus akzeptiert Roger ihn schließlich als Schwiegersohn, während die nächste Generation geboren wird.",
+      "anchor": "Butters’ Sorge um Murtaugh hat einen familiären Hintergrund.",
+      "interest": "Das Geheimnis erklärt eine wiederkehrende komische Beziehung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Arbeit muss der Onkel von Hong (Eddy Ko) für die Triaden in @ leisten?",
+      "answers": [
+        "Druckplatten für Falschgeld gravieren",
+        "Gefälschte Einreiseunterlagen übersetzen",
+        "Schiffsrouten für weitere Flüchtlinge planen",
+        "Waffen aus Polizeibeständen reparieren"
+      ],
+      "feedback": [
+        "Sein handwerkliches Können dient der Herstellung von Falschgeld.",
+        "Er soll keine Dokumente übersetzen.",
+        "Die Schmuggelroute ist nicht seine erzwungene Arbeitsaufgabe.",
+        "Waffenreparaturen werden ihm nicht abverlangt."
+      ],
+      "short": "Der Onkel graviert Druckplatten für Falschgeld.",
+      "context": "Der Großvater Hong (Eddy Ko) sucht seinen Onkel, der die Überfahrt seiner Familie ermöglicht hat. Dessen Können als Graveur wird von den Triaden für Druckplatten ausgenutzt. Wah Sing Ku (Jet Li) braucht das Falschgeld für einen Handel mit einem korrupten General. Die Hoffnung auf Familienzusammenführung wird so zur Abhängigkeit von einer kriminellen Finanzoperation.",
+      "anchor": "Die bezahlte Überfahrt bindet den Graveur an die Fälscher.",
+      "interest": "Der Zusammenhang erklärt, warum Menschenschmuggel und Falschgeld denselben Fall bilden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie entlocken die Ermittler Uncle Benny (Kim Chan) in @ weitere Informationen?",
+      "answers": [
+        "Beim Zahnarzt unter Lachgas",
+        "Mit einem vorgetäuschten Abschiebungsbescheid",
+        "Durch eine als Restaurantkontrolle getarnte Durchsuchung",
+        "Mit einer fingierten Drohung eines Triadenrivalen"
+      ],
+      "feedback": [
+        "Die Befragung findet unter Lachgas beim Zahnarzt statt.",
+        "Ein Abschiebungsbescheid ist nicht der eingesetzte Trick.",
+        "Die Restaurantkontrolle gehört nicht zu dieser Befragung.",
+        "Sie erfinden dafür keine Drohung eines Rivalen."
+      ],
+      "short": "Lachgas unterstützt die Befragung beim Zahnarzt.",
+      "context": "Martin Riggs (Mel Gibson) und die anderen Ermittler suchen Uncle Benny Chan (Kim Chan) bei einem Zahnarzttermin auf. Unter Lachgas gibt er Hinweise auf die sogenannten Four Fathers preis. Dieselbe Situation lässt Riggs und Lee Butters (Chris Rock) unabsichtlich das Familiengeheimnis verraten. Die Szene verschränkt damit einen Fortschritt der Ermittlung mit der privaten Enthüllung vor Roger Murtaugh (Danny Glover).",
+      "anchor": "Beim Zahnarzt fallen Ermittlungs- und Familiengeheimnisse.",
+      "interest": "Der ungewöhnliche Befragungsort trägt Handlung und Komik zugleich.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche persönliche Verbindung hat Wah Sing Ku (Jet Li) in @ zu den gefangenen Four Fathers?",
+      "answers": [
+        "Einer von ihnen ist sein Bruder.",
+        "Einer von ihnen ist sein Vater.",
+        "Einer von ihnen ist sein Schwiegervater.",
+        "Einer von ihnen ist sein früherer Lehrmeister."
+      ],
+      "feedback": [
+        "Ku will unter den Triadenführern auch seinen Bruder befreien.",
+        "Die Bezeichnung Four Fathers bezeichnet hier keinen leiblichen Vater Kus.",
+        "Ein Schwiegervater wird nicht als persönliche Verbindung genannt.",
+        "Ein früherer Lehrmeister ist nicht die genannte persönliche Verbindung."
+      ],
+      "short": "Unter den gefangenen Triadenführern befindet sich Kus Bruder.",
+      "context": "Detective Ng (Calvin Jung) erkennt hinter den Four Fathers hochrangige Triadenmitglieder, deren Freilassung Wah Sing Ku (Jet Li) aushandeln will. Unter ihnen ist Kus Bruder. Dadurch wird aus der großen Geldoperation auch eine persönliche Rettungsmission. Als der Austausch eskaliert, versucht Ku mit ihm zu fliehen; Roger Murtaugh (Danny Glover) erschießt den Bruder während der Konfrontation.",
+      "anchor": "Four Fathers bezeichnet eine Triadengruppe; Ku sucht darunter seinen Bruder.",
+      "interest": "Die Verwandtschaft erklärt Kus persönliche Beteiligung an dem Handel.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wer führt kurz vor der Geburt in @ die symbolische Trauung von Riggs (Mel Gibson) und Lorna (Rene Russo) durch?",
+      "answers": [
+        "Ein Rabbi",
+        "Ein katholischer Priester",
+        "Ein Standesbeamter",
+        "Der Polizeikapitän"
+      ],
+      "feedback": [
+        "Ein Rabbi übernimmt die kurzfristige symbolische Trauung.",
+        "Ein katholischer Priester ist nicht der Trauende.",
+        "Es findet keine vorbereitete standesamtliche Zeremonie statt.",
+        "Der Polizeikapitän führt diese Trauung nicht durch."
+      ],
+      "short": "Riggs und Lorna werden im Krankenhaus symbolisch von einem Rabbi getraut.",
+      "context": "Martin Riggs (Mel Gibson) und Lorna Cole (Rene Russo) haben ihre Heirat lange aufgeschoben. Als Lorna kurz vor der Entbindung steht, kommt es im Krankenhaus zu einer improvisierten symbolischen Trauung durch einen Rabbi. Die Szene schließt den Wandel von Riggs vom selbstzerstörerischen Einzelgänger zum Familienvater ab. Parallel wird Roger Murtaugh (Danny Glover) Großvater und nimmt Lee Butters (Chris Rock) in die Familie auf.",
+      "anchor": "Die improvisierte Krankenhaustrauung besiegelt Riggs’ Familienanschluss.",
+      "interest": "Die Abschlussentscheidung greift die Entwicklung des Helden über die Reihe hinweg auf.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ erstmals?",
+      "answers": [
+        "1998",
+        "1992",
+        "1995",
+        "2001"
+      ],
+      "feedback": [
+        "AFI verzeichnet den Kinostart 1998.",
+        "1992 erschien der dritte Teil.",
+        "1995 liegt drei Jahre vor diesem Film.",
+        "2001 liegt drei Jahre nach der Veröffentlichung."
+      ],
+      "short": "Der vierte Film erschien 1998.",
+      "context": "Lethal Weapon startete 1987; Lethal Weapon 4 folgte 1998. Zwischen dem Beginn der Filmreihe und ihrem vierten Kinofilm liegen elf Jahre. Richard Donner blieb für beide Filme verantwortlich, während die Figuren inzwischen eine neue Familienphase erreichen. AFI nennt für den vierten Teil den US-Kinostart am 10. Juli 1998 und ordnet ihn damit eindeutig dem späten Jahrzehnt zu.",
+      "anchor": "1987 erster Film, 1998 vierter Film: elf Jahre Abstand.",
+      "interest": "Die Jahreszahl verbindet Reihenbeginn und familiären Abschluss.",
+      "sources": [
+        "afi",
+        "anfang"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ Regie?",
+      "answers": [
+        "Richard Donner",
+        "Shane Black",
+        "Renny Harlin",
+        "Richard Lester"
+      ],
+      "feedback": [
+        "AFI nennt Richard Donner als Regisseur.",
+        "Shane Black schuf die Figuren, führte hier aber nicht Regie.",
+        "Renny Harlin hat bei diesem vierten Film keinen Regiecredit.",
+        "Richard Lester hat bei diesem Film keinen Regiecredit."
+      ],
+      "short": "Richard Donner inszenierte den vierten Film.",
+      "context": "Richard Donner ist im AFI-Katalog als Regisseur und zusammen mit Joel Silver als Produzent verzeichnet. Channing Gibson schrieb das Drehbuch; die Figuren gehen auf Shane Black zurück. Diese unterschiedlichen Aufgaben erklären, warum mehrere bekannte Namen mit der Reihe verbunden sind. Der Regiecredit gehört bei diesem vierten Kinofilm dennoch eindeutig Donner, der Mel Gibson und Danny Glover erneut zusammenführt.",
+      "anchor": "Donner führt Regie, Silver produziert, Black schuf die Figuren.",
+      "interest": "Die Zuordnung unterscheidet drei häufig verwechselte kreative Rollen.",
+      "sources": [
+        "afi"
+      ]
+    }
+  ]
+}

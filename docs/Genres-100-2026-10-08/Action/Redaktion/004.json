@@ -1,0 +1,207 @@
+{
+  "rank": 4,
+  "directors": [
+    "George Miller"
+  ],
+  "production_countries": [
+    "Australien"
+  ],
+  "release_note": "Erste australische Veröffentlichung am 12. April 1979 laut Filmquelle; NFSA führt die Filmfassung als 1979. Der US-Kinostart 1980 ist nicht das erste Veröffentlichungsjahr.",
+  "familiarity_reason": "Der Reihenbeginn mit Mel Gibson ist ein markanter Actionklassiker; Bekanntheit 2.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+    "archiv": "https://aso.gov.au/titles/features/mad-max/credits/",
+    "notizen": "https://aso.gov.au/titles/features/mad-max/notes/",
+    "fortsetzung": "https://aso.gov.au/titles/features/mad-max-2/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf übt Max Rockatansky (Mel Gibson) zu Beginn von @ aus?",
+      "answers": [
+        "Verkehrspolizist",
+        "Lastwagenfahrer",
+        "Automechaniker",
+        "Rennfahrer"
+      ],
+      "feedback": [
+        "Er verfolgt Straftäter als Beamter der Main Force Patrol.",
+        "Er wird nicht als Lastwagenfahrer eingeführt.",
+        "Eine Werkstatt ist nicht sein Arbeitsplatz.",
+        "Er fährt schnell im Polizeidienst, nicht als Berufsrennfahrer."
+      ],
+      "short": "Max beginnt als Polizist der Main Force Patrol.",
+      "context": "Max Rockatansky (Mel Gibson) ist zunächst Angehöriger einer noch bestehenden Straßenpolizei. Die Main Force Patrol verfolgt gewalttätige Fahrer und Motorradbanden in einer zunehmend zerfallenden Gesellschaft. Max steht damit am Anfang auf der Seite einer öffentlichen Ordnung, deren Mittel und Zusammenhalt schwinden. Erst die weiteren Angriffe auf Kollegen und Familie treiben ihn in die private Vergeltung außerhalb seines ursprünglichen Dienstauftrags.",
+      "anchor": "Max beginnt als Polizist der Main Force Patrol.",
+      "interest": "Verortet die Hauptfigur vor ihrem Weg in die Selbstjustiz.",
+      "sources": [
+        "film",
+        "notizen"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Womit wollen Max’ (Mel Gibson) Vorgesetzte ihn in @ zum Bleiben bei der Polizei bewegen?",
+      "answers": [
+        "Mit einem besonders leistungsstarken Einsatzwagen",
+        "Mit der Leitung einer neuen Wache",
+        "Mit einer Versetzung zur Kriminalpolizei",
+        "Mit einem deutlich höheren Gehalt"
+      ],
+      "feedback": [
+        "Der schwarze V8-Pursuit-Special soll ihn an den Dienst binden.",
+        "Eine neue Wache bekommt er nicht angeboten.",
+        "Ein Wechsel zur Kriminalpolizei ist nicht das Lockmittel.",
+        "Eine Gehaltserhöhung ist nicht das vorgeführte Angebot."
+      ],
+      "short": "Ein neuer schwarzer V8-Einsatzwagen soll Max an den Polizeidienst binden.",
+      "context": "Max Rockatansky (Mel Gibson) zweifelt an seinem Beruf. Seine Vorgesetzten präsentieren ihm deshalb einen besonders schnellen schwarzen V8-Pursuit-Special. Das Fahrzeug soll ihn zum Bleiben bewegen und spricht seine Begeisterung für leistungsstarke Autos an. Später benutzt er gerade diesen Wagen für seine persönliche Jagd. Eine Requisite, die ihn an die Institution binden sollte, begleitet so seine Abkehr von deren Grenzen.",
+      "anchor": "Ein neuer schwarzer V8-Einsatzwagen soll Max an den Polizeidienst binden.",
+      "interest": "Eine zentrale Fahrzeugrequisite verändert ihre Funktion im Handlungsverlauf.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum muss Johnny the Boy (Tim Burns) in @ nach seiner Festnahme wieder freigelassen werden?",
+      "answers": [
+        "Es fehlen aussagebereite Zeugen",
+        "Ein anderer gesteht die Tat",
+        "Ein bestochener Zeuge bestätigt sein Alibi",
+        "Ein verlorenes Beweisstück verhindert die Anklage"
+      ],
+      "feedback": [
+        "Ohne die nötigen Zeugenaussagen kann er nicht festgehalten werden.",
+        "Ein Geständnis eines anderen ist nicht der Grund.",
+        "Ein erkauftes Alibi bildet nicht die Ursache seiner Freilassung.",
+        "Ein verloren gegangenes Beweisstück ist nicht das gezeigte Problem."
+      ],
+      "short": "Fehlende Zeugenaussagen führen zu Johnnys Freilassung.",
+      "context": "Johnny the Boy (Tim Burns) bleibt nach einem Überfall am Tatort zurück und wird von der Polizei festgenommen. Doch die Opfer und weitere Zeugen stehen für das Verfahren nicht zur Verfügung. Goose (Steve Bisley) reagiert wütend auf die Freilassung und bedroht Johnny. Die Begegnung verschärft den Konflikt mit der Gang und bereitet die spätere, gezielt gegen Goose gerichtete Vergeltung vor.",
+      "anchor": "Fehlende Zeugenaussagen führen zu Johnnys Freilassung.",
+      "interest": "Verbindet die Grenzen der Strafverfolgung mit der folgenden Eskalation.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Sorge bringt Max (Mel Gibson) in @ nach Gooses (Steve Bisley) Verletzung zum Rückzugsversuch?",
+      "answers": [
+        "Selbst so brutal wie die Verbrecher zu werden",
+        "Seine Familie durch weitere Einsätze zu vernachlässigen",
+        "Für Gooses Verletzung persönlich verantwortlich gemacht zu werden",
+        "Von seinen Vorgesetzten zum Sündenbock gemacht zu werden"
+      ],
+      "feedback": [
+        "Er fürchtet, im gewalttätigen Dienst selbst die Grenze zu verlieren.",
+        "Er begründet den Rückzug mit der Sorge um seine eigene Menschlichkeit, nicht vor allem mit Zeit für die Familie.",
+        "Eine drohende persönliche Anschuldigung ist nicht seine erklärte Sorge.",
+        "Ein erwarteter Verrat der Vorgesetzten ist nicht das genannte Rückzugsmotiv."
+      ],
+      "short": "Max fürchtet, durch seine Arbeit selbst zum brutalen Täter zu werden.",
+      "context": "Nach dem Brandanschlag besucht Max Rockatansky (Mel Gibson) seinen schwer verletzten Kollegen Goose (Steve Bisley) im Krankenhaus. Der Anblick erschüttert ihn. Er erklärt seinem Vorgesetzten Fifi (Roger Ward), dass er aufhören möchte, weil er selbst zu einem der gewalttätigen Menschen werden könnte, die er verfolgt. Fifi bewegt ihn zunächst zu einem Urlaub. Der Film benennt dadurch Max’ spätere Grenzüberschreitung schon als Angst.",
+      "anchor": "Max fürchtet, durch seine Arbeit selbst zum brutalen Täter zu werden.",
+      "interest": "Ein ausdrücklich genannter innerer Konflikt erklärt den Rückzugsversuch.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie unterscheidet @ die Folgen des Angriffs auf Max’ Frau Jessie (Joanne Samuel) und ihren Sohn?",
+      "answers": [
+        "Der Sohn stirbt; Jessie liegt im Koma",
+        "Jessie stirbt; der Sohn bleibt unverletzt",
+        "Beide bleiben bewusstlos und werden später entlassen",
+        "Beide sterben sofort am Unfallort"
+      ],
+      "feedback": [
+        "Der Film nennt den Tod des Kindes und Jessies kritischen Zustand im Koma.",
+        "Das Kind bleibt nicht unverletzt; Jessies Tod wird nicht bestätigt.",
+        "Eine gemeinsame Genesung wird nicht gezeigt.",
+        "Der Film bestätigt nicht den sofortigen Tod beider."
+      ],
+      "short": "Max verliert seinen Sohn; Jessie bleibt schwer verletzt im Koma.",
+      "context": "Die Motorradgang verfolgt Jessie (Joanne Samuel) und ihr Kind während des Familienurlaubs. Als das Auto ausfällt, versucht sie zu Fuß zu entkommen und wird angefahren. Max (Mel Gibson) erfährt, dass sein Sohn tot ist und seine Frau im Koma liegt. Diese Unterscheidung ist wesentlich: Der Film bestätigt an dieser Stelle keinen Tod Jessies. Die Nachricht führt Max endgültig in seine private Rachejagd.",
+      "anchor": "Max verliert seinen Sohn; Jessie bleibt schwer verletzt im Koma.",
+      "interest": "Präzisiert einen oft zu pauschal zusammengefassten Wendepunkt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche Entscheidung zwingt Max (Mel Gibson) Johnny (Tim Burns) im Finale von @ auf?",
+      "answers": [
+        "Die Handschelle oder den eigenen Fuß durchzusägen",
+        "Den Arm oder die Fessel eines Komplizen durchzusägen",
+        "Den Treibstoffschlauch oder das Zündkabel zu durchtrennen",
+        "Die Türverriegelung oder das Lenkradschloss aufzubrechen"
+      ],
+      "feedback": [
+        "Max lässt eine Säge zurück, während eine vorbereitete Brandfalle droht.",
+        "Es geht um Johnnys eigene Fessel und seinen Fuß, nicht um einen Komplizen.",
+        "Ein Eingriff in den Motor ist nicht die angebotene Wahl.",
+        "Johnny soll sich nicht aus einer verriegelten Fahrerkabine befreien."
+      ],
+      "short": "Max stellt Johnny vor die Wahl zwischen dem langsamen Durchsägen der Fessel und dem eigenen Fuß.",
+      "context": "Max Rockatansky (Mel Gibson) findet Johnny the Boy (Tim Burns) bei einem verunglückten Wagen. Er kettet ihn am Wrack fest und bereitet eine zeitverzögerte Brandfalle vor. Dann lässt er eine Säge zurück und erklärt die unterschiedlichen Zeiten zum Durchtrennen von Fessel oder Fuß. Max fährt davon, bevor die Explosion zu sehen ist. Seine Gewalt hat damit die Form einer grausamen, selbst gesetzten Bestrafung angenommen.",
+      "anchor": "Max stellt Johnny vor die Wahl zwischen dem langsamen Durchsägen der Fessel und dem eigenen Fuß.",
+      "interest": "Das Schlussmanöver macht Max’ Wandel von Strafverfolgung zu privater Bestrafung konkret.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Mel Gibson erstmals veröffentlicht?",
+      "answers": [
+        "1979",
+        "1976",
+        "1980",
+        "1981"
+      ],
+      "feedback": [
+        "Die australische Veröffentlichung erfolgte 1979.",
+        "1976 liegt vor der fertigen Filmfassung.",
+        "1980 kam der Film erst in die US-Kinos.",
+        "1981 erschien bereits Mad Max 2."
+      ],
+      "short": "1979 Mad Max, 1981 Mad Max 2: zwei Jahre Abstand.",
+      "context": "Mad Max wurde 1979 in Australien veröffentlicht. Schon 1981 folgte Mad Max 2, international auch The Road Warrior genannt: zwei Jahre später. Mel Gibson blieb als Max verbunden, während die Welt der Fortsetzung stärker auf den Kampf um Treibstoff ausgerichtet wurde. Für den Reihenbeginn zählt die australische Veröffentlichung von 1979. Der US-Start von 1980 gehört zu seiner späteren internationalen Verbreitung.",
+      "anchor": "1979 Mad Max, 1981 Mad Max 2: zwei Jahre Abstand.",
+      "interest": "Ordnet Originalstart, späteren US-Start und erste Fortsetzung.",
+      "sources": [
+        "film",
+        "archiv",
+        "fortsetzung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Mel Gibson und Joanne Samuel Regie?",
+      "answers": [
+        "George Miller",
+        "Peter Weir",
+        "Bruce Beresford",
+        "Richard Franklin"
+      ],
+      "feedback": [
+        "NFSA nennt George Miller als Regisseur.",
+        "Weir inszenierte diesen Film nicht.",
+        "Beresford steht nicht im Regiecredit.",
+        "Franklin verantwortet nicht diese Inszenierung."
+      ],
+      "short": "George Miller inszenierte den ersten Mad Max.",
+      "context": "George Miller entwickelte den Film gemeinsam mit Produzent Byron Kennedy und schrieb mit James McCausland das Drehbuch. Seine Erfahrungen als Arzt und Beobachter schwerer Straßenunfälle gehörten zum Hintergrund der gewalttätigen Fahrzeugwelt. Das NFSA nennt ihn allein als Regisseur. Die rasanten Bilder verbinden eine Begeisterung für Geschwindigkeit mit deren zerstörerischen Folgen; diese Spannung reicht über die reine Darstellung spektakulärer Verfolgungen hinaus.",
+      "anchor": "George Miller inszenierte den ersten Mad Max.",
+      "interest": "Verbindet den offiziellen Credit mit Millers belegtem Erfahrungshintergrund.",
+      "sources": [
+        "archiv",
+        "notizen"
+      ]
+    }
+  ]
+}

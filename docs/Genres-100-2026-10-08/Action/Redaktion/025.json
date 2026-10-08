@@ -1,0 +1,207 @@
+{
+  "rank": 25,
+  "directors": [
+    "Christopher McQuarrie"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Veröffentlichung 2012; London-Premiere am 10. Dezember und US-Kinostart am 21. Dezember laut Filmartikel. Paramount bestätigt Jahr 2012 und den Kinofilm mit Tom Cruise.",
+  "familiarity_reason": "Der erste Tom-Cruise-Kinofilm nach Lee Childs Romanfigur ist ein bekannter moderner Actionthriller.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+    "studio": "https://www.paramount.de/jack-reacher",
+    "anker": "https://www.bfi.org.uk/film/dc00adad-bc89-5fc0-bea5-714bc0a6e5f0/mission-impossible-ghost-protocol"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche frühere Tätigkeit hat Jack Reacher (Tom Cruise) im Kinofilm @?",
+      "answers": [
+        "Er war Ermittler der US-Militärpolizei.",
+        "Er war Staatsanwalt in Pittsburgh.",
+        "Er war Agent eines privaten Sicherheitskonzerns.",
+        "Er war Reporter bei einer Militärzeitung."
+      ],
+      "feedback": [
+        "Reacher war Major und Ermittler der Militärpolizei.",
+        "Er arbeitete nicht als Pittsburgher Staatsanwalt.",
+        "Ein privater Sicherheitskonzern ist nicht sein früherer Arbeitgeber.",
+        "Seine Erfahrung stammt aus Ermittlungen, nicht aus Militärjournalismus."
+      ],
+      "short": "Reacher ist ein ehemaliger Militärpolizei-Ermittler.",
+      "context": "Jack Reacher (Tom Cruise) lebt ohne feste Adresse, nachdem er als Major der US-Militärpolizei gearbeitet hat. Seine frühere Ermittlungserfahrung erklärt, warum der Verdächtige James Barr (Joseph Sikora) nach ihm verlangt. Reacher kennt Barr aus dessen Militärzeit und kommt zunächst keineswegs mit blindem Vertrauen in seine Unschuld. Der Fall verlangt von ihm, alte Erfahrungen gegen neue Beweise abzuwägen.",
+      "anchor": "Der rastlose Zivilist bringt Militärpolizei-Erfahrung mit.",
+      "interest": "Die Vorgeschichte begründet Reachers besondere Ermittlungsfähigkeiten.",
+      "sources": [
+        "handlung",
+        "studio"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche familiäre Verbindung besteht in @ zwischen Helen Rodin (Rosamund Pike) und Staatsanwalt Alex Rodin (Richard Jenkins)?",
+      "answers": [
+        "Sie ist seine Tochter.",
+        "Sie ist seine Ehefrau.",
+        "Sie ist seine Schwester.",
+        "Sie ist seine Schwiegertochter."
+      ],
+      "feedback": [
+        "Helen verteidigt Barr, obwohl ihr Vater die Anklage vertritt.",
+        "Die beiden sind nicht miteinander verheiratet.",
+        "Helen ist nicht Alex’ Schwester.",
+        "Ihre Verbindung ist nicht die einer Schwiegertochter."
+      ],
+      "short": "Helen ist die Tochter des Staatsanwalts.",
+      "context": "Helen Rodin (Rosamund Pike) verteidigt James Barr (Joseph Sikora), während ihr Vater Alex Rodin (Richard Jenkins) als Staatsanwalt einen sicheren Schuldspruch anstrebt. Die beruflichen Rollen verschärfen ihre bereits belastete Beziehung. Jack Reacher (Tom Cruise) muss deshalb auch einschätzen, wem Helen ihre Erkenntnisse anvertrauen kann. Die familiäre Verbindung macht aus dem Verfahren zugleich einen persönlichen Loyalitätskonflikt.",
+      "anchor": "Vater klagt an, Tochter verteidigt.",
+      "interest": "Die Beziehung erklärt die zusätzliche Spannung zwischen Anklage und Verteidigung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welcher Fund verbindet James Barr (Joseph Sikora) in @ zunächst mit dem Tatort?",
+      "answers": [
+        "Sein Fingerabdruck auf einer Münze im Parkautomaten",
+        "Seine Handflächenabdrücke am Parkgeländer",
+        "Seine DNA an einer zurückgelassenen Trinkflasche",
+        "Seine Schuhabdrücke neben der Schussposition"
+      ],
+      "feedback": [
+        "Der Fingerabdruck auf der Münze führt die Polizei zu Barr.",
+        "Handflächenabdrücke am Geländer liefern nicht diese Identifizierung.",
+        "DNA an einer Trinkflasche ist nicht das zentrale Beweisstück.",
+        "Vergleichbare Schuhspuren führen die Ermittler nicht zu Barr."
+      ],
+      "short": "Eine Münze im Parkautomaten trägt Barrs Fingerabdruck.",
+      "context": "Die Polizei findet nach dem Schussangriff eine Patronenhülse und die Münze, mit der der Schütze den Parkplatz bezahlt hat. Der Fingerabdruck auf der Münze verweist auf James Barr (Joseph Sikora). Weitere Funde scheinen das Bild zunächst zu bestätigen. Jack Reacher (Tom Cruise) untersucht später, ob diese auffällig geschlossene Beweiskette tatsächlich zum Vorgehen eines erfahrenen Schützen passt.",
+      "anchor": "Der Münzabdruck macht Barr zum scheinbar eindeutigen Verdächtigen.",
+      "interest": "Das konkrete Beweisstück eröffnet den Gegensatz zwischen Beweisbild und Tatplanung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welchen Zweck erkennt Reacher (Tom Cruise) hinter dem scheinbar wahllosen Mehrfachmord in @?",
+      "answers": [
+        "Die Ermordung einer Firmenbesitzerin soll verdeckt werden.",
+        "Ein weiterer Anschlag auf eine Bank soll vorbereitet werden.",
+        "Eine Mordserie soll einem politischen Gegner angelastet werden.",
+        "Ein Mordzeuge soll vor seiner Aussage beseitigt werden."
+      ],
+      "feedback": [
+        "Unter den Opfern steckt ein gezielt gewähltes wirtschaftliches Ziel.",
+        "Ein anschließender Banküberfall ist nicht der aufgedeckte Zweck.",
+        "Die Tat ist keine Kampagne zur Belastung eines politischen Gegners.",
+        "Das Hauptziel ist eine Firmenbesitzerin, kein vor seiner Aussage getöteter Zeuge."
+      ],
+      "short": "Der Mehrfachmord tarnt einen gezielten wirtschaftlichen Mord.",
+      "context": "Helen Rodin (Rosamund Pike) besucht auf Reachers (Tom Cruise) Wunsch die Angehörigen der Opfer. Daraus ergibt sich eine Verbindung zu einer Witwe, die das Bauunternehmen ihres verstorbenen Mannes nicht verkaufen wollte. Die anderen Getöteten lassen den Anschlag wahllos erscheinen. Hinter der scheinbaren Zufälligkeit erkennt Reacher somit eine gezielte Beseitigung im Interesse eines kriminell kontrollierten Unternehmens.",
+      "anchor": "Mehrere Opfer verdecken das eine wirtschaftliche Hauptziel.",
+      "interest": "Das Motiv verwandelt die Ausgangstat in eine inszenierte Ablenkung.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was macht den gewählten Schützenstand in @ für Reacher (Tom Cruise) verdächtig?",
+      "answers": [
+        "Von der Brücke aus hätte er leichter mit Sonne im Rücken geschossen.",
+        "Vom Parkplatz aus hätte er bei jedem Schuss das Auto umstellen müssen.",
+        "Die erhöhte Position hätte den Einschusswinkel an allen Opfern verraten.",
+        "Der Parkplatz hätte seine Flucht nur an der Polizeiwache vorbei erlaubt."
+      ],
+      "feedback": [
+        "Reacher verweist auf die günstigere Position an der nahen Brücke und die Sonne im Rücken.",
+        "Ein notwendiges Umstellen des Wagens ist nicht sein Einwand.",
+        "Ein verräterischer Einschusswinkel begründet diese Standortkritik nicht.",
+        "Eine zwingende Fluchtroute an der Polizeiwache wird nicht als Problem benannt."
+      ],
+      "short": "Der gewählte Standort passt schlecht zur erwarteten Schützenroutine.",
+      "context": "Jack Reacher (Tom Cruise) prüft die Tat nicht nur anhand der gefundenen Gegenstände. Ein Schütze mit James Barrs (Joseph Sikora) Erfahrung hätte nach seiner Einschätzung von der nahen Brücke aus mit der Sonne im Rücken geschossen. Der ungünstigere Parkplatz wirkt deshalb wie ein Teil der Inszenierung gegen Barr. Militärisches Erfahrungswissen bringt die scheinbar eindeutige Beweislage ins Wanken.",
+      "anchor": "Die bessere Schussposition widerspricht dem angeblich erfahrenen Täter.",
+      "interest": "Das taktische Gegenargument erschließt Reachers besondere Methode.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum erschießt Reacher (Tom Cruise) den Zek (Werner Herzog) am Ende von @?",
+      "answers": [
+        "Alle Zeugen sind tot; er will Reacher die Taten anhängen.",
+        "Er kündigt einen neuen Anschlag auf Reachers Helfer an.",
+        "Er droht mit belastenden Fotos aus Reachers Militärzeit.",
+        "Er will eine verborgene Waffe gegen Reacher ziehen."
+      ],
+      "feedback": [
+        "Der Zek prahlt mit dem Tod der Zeugen und will die Schuld auf Reacher schieben.",
+        "Die Entscheidung wird nicht durch einen neu angekündigten Anschlag ausgelöst.",
+        "Er erpresst Reacher in diesem letzten Gespräch nicht mit Militärfotos.",
+        "Ein Griff nach einer versteckten Waffe löst Reachers Entscheidung nicht aus."
+      ],
+      "short": "Reacher reagiert auf die angekündigte Straflosigkeit und Gegenbeschuldigung mit Selbstjustiz.",
+      "context": "Im letzten Gespräch erklärt der Zek (Werner Herzog) Jack Reacher (Tom Cruise), dass die Belastungszeugen tot seien und er Reacher für die Verbrechen verantwortlich machen werde. Selbst ein amerikanisches Gefängnis würde ihn kaum schrecken. Reacher erschießt ihn daraufhin. Die Entscheidung bildet einen harten Bruch zwischen der sorgfältigen Untersuchung des Falls und einer selbst vollzogenen Tötung außerhalb eines Gerichtsverfahrens.",
+      "anchor": "Die angekündigte Straflosigkeit führt Reacher zur Selbstjustiz.",
+      "interest": "Der Schluss macht die moralische Grenze der Hauptfigur sichtbar.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien der Kinofilm @ mit Tom Cruise erstmals?",
+      "answers": [
+        "2012",
+        "2008",
+        "2011",
+        "2016"
+      ],
+      "feedback": [
+        "Paramount führt den Film unter 2012.",
+        "2008 liegt vier Jahre vor diesem Kinofilm.",
+        "2011 erschien Mission: Impossible – Phantom Protokoll.",
+        "2016 erschien Jack Reacher: Kein Weg zurück."
+      ],
+      "short": "Der erste Tom-Cruise-Kinofilm erschien 2012.",
+      "context": "Mission: Impossible – Phantom Protokoll erschien 2011; Jack Reacher folgte 2012, ein Jahr später. Tom Cruise wechselte dabei vom Agenten Ethan Hunt zum ehemaligen Militärpolizisten und unabhängigen Ermittler. Paramount bestätigt das Filmjahr 2012. Die Londoner Premiere fand im Dezember dieses Jahres statt, ebenso der US-Kinostart. Die spätere Fortsetzung und die Fernsehserie gehören zu anderen Veröffentlichungen.",
+      "anchor": "2011 Phantom Protokoll, 2012 Jack Reacher: ein Jahr Abstand.",
+      "interest": "Der Anker verbindet zwei konkrete Cruise-Actionrollen und trennt Film und Serie.",
+      "sources": [
+        "studio",
+        "anker",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer schrieb und inszenierte den Kinofilm @ mit Tom Cruise?",
+      "answers": [
+        "Christopher McQuarrie",
+        "Brad Bird",
+        "Edward Zwick",
+        "Doug Liman"
+      ],
+      "feedback": [
+        "Paramount nennt Christopher McQuarrie für Drehbuch und Regie.",
+        "Brad Bird inszenierte Phantom Protokoll, nicht diesen Film.",
+        "Edward Zwick inszenierte die spätere Reacher-Fortsetzung.",
+        "Doug Liman hat hier keinen Regiecredit."
+      ],
+      "short": "Christopher McQuarrie schrieb und inszenierte Jack Reacher.",
+      "context": "Paramount nennt Christopher McQuarrie als Regisseur und Autor der Filmadaption von Lee Childs Roman One Shot. Tom Cruise spielt die Titelfigur, Rosamund Pike die Verteidigerin Helen Rodin. Der Credit bezieht sich auf den ersten Reacher-Kinofilm und ist von der späteren Fortsetzung sowie der Fernsehserie zu unterscheiden. Die Verbindung von Drehbuch und Regie umfasst hier Ermittlung und Actionszenen gleichermaßen.",
+      "anchor": "McQuarrie verantwortet die erste Reacher-Kinoadaption.",
+      "interest": "Der vollständige Credit ordnet die konkrete Romanverfilmung zu.",
+      "sources": [
+        "studio",
+        "handlung"
+      ]
+    }
+  ],
+  "source_note": "Die zunächst vorgesehene Skydance-Filmseite und die anschließend vorgesehene Paramount-Pressemeldung zum Jahresanker lieferten bei der Gegenprüfung HTTP 404. Der Jahresanker 2011 wird stattdessen durch den tatsächlich gelesenen BFI-Filmdatensatz belegt."
+}

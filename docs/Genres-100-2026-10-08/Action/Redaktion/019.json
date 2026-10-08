@@ -1,0 +1,205 @@
+{
+  "rank": 19,
+  "directors": [
+    "Ridley Scott"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "country_note": "Japan ist zentraler Handlungs- und Drehort; AFI führt das Produktionsland USA.",
+  "release_note": "US-Kinoveröffentlichung am 22. September 1989 laut AFI.",
+  "familiarity_reason": "Ridley Scotts Japan-Polizeithriller mit Michael Douglas ist ein bekannter Genrebeitrag für Kenner.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Black_Rain_(1989_American_film)",
+    "afi": "https://catalog.afi.com/Film/57924-BLACK-RAIN",
+    "anker": "https://en.wikipedia.org/wiki/Blade_Runner"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "In welche japanische Stadt eskortiert Nick Conklin (Michael Douglas) den Gefangenen Sato (Yūsaku Matsuda) in @?",
+      "answers": [
+        "Osaka",
+        "Tokio",
+        "Kyoto",
+        "Yokohama"
+      ],
+      "feedback": [
+        "Sato soll in Osaka übergeben werden.",
+        "Die Überstellung führt nicht nach Tokio.",
+        "Kyoto ist nicht der Zielort dieser Ermittlung.",
+        "Yokohama ist nicht die Stadt der Übergabe."
+      ],
+      "short": "Der Gefangenentransport führt nach Osaka.",
+      "context": "Nick Conklin (Michael Douglas) und Charlie Vincent (Andy García) eskortieren den festgenommenen Koji Sato (Yūsaku Matsuda) von New York nach Osaka. Dort sind die Amerikaner auf die Zusammenarbeit mit der örtlichen Polizei angewiesen. Masahiro Matsumoto (Ken Takakura) wird ihr Begleiter. Der Ortswechsel macht sprachliche, kulturelle und dienstliche Missverständnisse zu einem wesentlichen Teil des Falles.",
+      "anchor": "Der New Yorker Fall setzt sich in Osaka fort.",
+      "interest": "Der Schauplatz erklärt die ungewohnte Abhängigkeit der amerikanischen Ermittler.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wie entkommt Sato (Yūsaku Matsuda) bei seiner Ankunft in Japan in @?",
+      "answers": [
+        "Gangster übernehmen ihn als angebliche Polizisten.",
+        "Er tauscht im Flugzeug die Kleidung mit einem Passagier.",
+        "Er überwältigt seine Bewacher im Flughafengefängnis.",
+        "Ein Anwalt erwirkt seine sofortige Freilassung."
+      ],
+      "feedback": [
+        "Die Empfangsgruppe ist eine als Polizei verkleidete Yakuza-Gruppe.",
+        "Ein Kleidertausch im Flugzeug ist nicht seine Fluchtmethode.",
+        "Er entkommt schon durch die falsche Übergabe.",
+        "Ein anwaltlicher Beschluss ermöglicht die Flucht nicht."
+      ],
+      "short": "Die Beamten übergeben Sato an falsche Polizisten.",
+      "context": "Nick Conklin (Michael Douglas) und Charlie Vincent (Andy García) halten die Männer am Flughafen für die zuständige japanische Polizei. Tatsächlich gehören sie zur Yakuza und nehmen Koji Sato (Yūsaku Matsuda) mit. Als die echten Beamten eintreffen, ist der Gefangene bereits fort. Der Fehler demütigt die Besucher und liefert den Anlass für ihre schwierige Zusammenarbeit mit Masahiro Matsumoto (Ken Takakura).",
+      "anchor": "Eine vermeintlich korrekte Übergabe wird zur Befreiung.",
+      "interest": "Die Täuschung setzt den eigentlichen Japan-Fall in Gang.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Womit wird Charlie Vincent (Andy García) in @ in die tödliche Garagenfalle gelockt?",
+      "answers": [
+        "Ein Motorradfahrer stiehlt seinen Mantel.",
+        "Ein Unbekannter stiehlt seine Dienstwaffe.",
+        "Ein Informant verspricht ein Treffen mit einem wichtigen Zeugen.",
+        "Ein verletzter Passant bittet ihn um Hilfe."
+      ],
+      "feedback": [
+        "Der Manteldiebstahl veranlasst Charlie zur Verfolgung.",
+        "Ein Dienstwaffendiebstahl löst diese Verfolgung nicht aus.",
+        "Ein angekündigtes Informantentreffen ist nicht der Lockanlass.",
+        "Eine Bitte um Hilfe bringt ihn nicht in die vorbereitete Garage."
+      ],
+      "short": "Charlie verfolgt den Dieb seines Mantels in die Garage.",
+      "context": "Nach einem gemeinsamen Abend mit Masahiro Matsumoto (Ken Takakura) laufen Nick Conklin (Michael Douglas) und Charlie Vincent (Andy García) zurück zum Hotel. Ein Motorradfahrer stiehlt Charlies Mantel und zieht ihn in eine Tiefgarage. Dort wartet eine Gruppe von Angreifern, bevor Koji Sato (Yūsaku Matsuda) ihn tötet. Der scheinbar kleine Diebstahl erweist sich als gezielte Vorbereitung eines Mordes.",
+      "anchor": "Der Manteldiebstahl führt Charlie in die vorbereitete Falle.",
+      "interest": "Der Auslöser macht die geplante Eskalation nachvollziehbar.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welches eigene Fehlverhalten gesteht Nick Conklin (Michael Douglas) Matsumoto (Ken Takakura) in @?",
+      "answers": [
+        "Er hat bei einem New Yorker Drogeneinsatz Geld unterschlagen.",
+        "Er hat einem Yakuza-Boss Informationen verkauft.",
+        "Er hat eine Zeugenaussage in einem Mordfall gefälscht.",
+        "Er hat einen unschuldigen Gefangenen gegen Geld freigelassen."
+      ],
+      "feedback": [
+        "Nick bestätigt den Geldmissbrauch bei einem früheren Drogeneinsatz.",
+        "Er gesteht keinen Informationsverkauf an die Yakuza.",
+        "Eine gefälschte Zeugenaussage ist nicht das eingeräumte Fehlverhalten.",
+        "Eine bezahlte Gefangenenfreilassung ist nicht die beschriebene Verfehlung."
+      ],
+      "short": "Nick gesteht die Unterschlagung von beschlagnahmtem Geld.",
+      "context": "Zu Beginn steht Nick Conklin (Michael Douglas) bereits unter Verdacht der internen Ermittler in New York. Nach Charlie Vincents (Andy García) Tod bestätigt er gegenüber Masahiro Matsumoto (Ken Takakura), Geld bei einem Drogeneinsatz genommen zu haben. Das Eingeständnis entzieht ihm die Rolle eines moralisch unangreifbaren Beobachters. Die spätere Zusammenarbeit verlangt deshalb auch eine Änderung seiner eigenen Haltung.",
+      "anchor": "Nick muss die Korruption bei sich selbst anerkennen.",
+      "interest": "Das Geständnis verbindet den Auslandsfall mit seinem ungelösten persönlichen Konflikt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie beendet Nick Conklin (Michael Douglas) in @ die letzte direkte Konfrontation mit Sato (Yūsaku Matsuda)?",
+      "answers": [
+        "Er bringt ihn lebend zur Polizei.",
+        "Er erschießt ihn nach seiner Entwaffnung.",
+        "Er überlässt ihn der rivalisierenden Gang zur Bestrafung.",
+        "Er lässt ihn gegen Herausgabe der Druckplatten laufen."
+      ],
+      "feedback": [
+        "Nick und Matsumoto liefern Sato in Handschellen ab.",
+        "Nick vollstreckt keine persönliche Hinrichtung.",
+        "Er übergibt den Gefangenen nicht der Yakuza.",
+        "Sato erhält keine Freiheit im Tausch für die Platten."
+      ],
+      "short": "Nick entscheidet sich für Satos lebende Festnahme.",
+      "context": "Nach dem Motorradrennen und dem Kampf hat Nick Conklin (Michael Douglas) Koji Sato (Yūsaku Matsuda) in seiner Gewalt. Trotz Charlie Vincents (Andy García) Ermordung tötet er ihn nicht. Zusammen mit Masahiro Matsumoto (Ken Takakura) bringt er den gefesselten Gefangenen ins Polizeipräsidium. Der Verzicht auf unmittelbare Rache bildet den entscheidenden Gegensatz zu Nicks früherer Regelmissachtung und seinem emotionalen Ausnahmezustand.",
+      "anchor": "Der Rachekonflikt endet mit einer Festnahme.",
+      "interest": "Die Schlussentscheidung zeigt die Veränderung des Ermittlers.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Was findet Matsumoto (Ken Takakura) in @ unter dem Hemd in Nick Conklins (Michael Douglas) Abschiedsgeschenk?",
+      "answers": [
+        "Die gesuchten Falschgeld-Druckplatten",
+        "Die Polizeimarke seines getöteten Partners",
+        "Die unterschlagenen New Yorker Drogengelder",
+        "Das schriftliche Geständnis eines Yakuza-Bosses"
+      ],
+      "feedback": [
+        "Nick hat beide Druckplatten in der Geschenkbox zurückgegeben.",
+        "Die Marke des getöteten Partners bildet nicht den versteckten Inhalt.",
+        "Die New Yorker Gelder werden darin nicht zurückerstattet.",
+        "Ein schriftliches Geständnis liegt nicht unter dem Hemd."
+      ],
+      "short": "Die Geschenkbox enthält die gesuchten Druckplatten.",
+      "context": "Vor Nick Conklins (Michael Douglas) Rückflug erwähnt Masahiro Matsumoto (Ken Takakura), dass die Druckplatten nicht gefunden wurden. Nick schenkt ihm ein Hemd; darunter liegen beide Platten. Die scheinbar beiläufige Übergabe löst den Verdacht, Nick habe das Beweisstück für sich behalten. Zugleich erlaubt sie ihm, Dankbarkeit und neu gewonnenes Vertrauen auszudrücken, ohne seine gewohnte raue Haltung vollständig abzulegen.",
+      "anchor": "Unter dem Abschiedshemd liegt die Rückgabe der Beweise.",
+      "interest": "Die kleine Schlusshandlung beantwortet eine zentrale Frage nach Nicks Integrität.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Michael Douglas erstmals?",
+      "answers": [
+        "1989",
+        "1982",
+        "1986",
+        "1993"
+      ],
+      "feedback": [
+        "AFI nennt den Kinostart 1989.",
+        "1982 erschien Blade Runner, nicht dieser Polizeifilm.",
+        "1986 liegt drei Jahre vor Black Rain.",
+        "1993 liegt vier Jahre nach dem Kinostart."
+      ],
+      "short": "Black Rain erschien 1989.",
+      "context": "Ridley Scotts Blade Runner kam 1982 heraus, Black Rain folgte 1989: Sieben Jahre liegen zwischen den beiden Filmen. In beiden spielen dichte nächtliche Stadtbilder eine markante Rolle, doch hier führen sie in einen Polizeifall in Osaka. AFI verzeichnet den US-Kinostart am 22. September 1989. Die Verbindung ordnet den Film zeitlich innerhalb von Scotts Arbeit ein.",
+      "anchor": "1982 Blade Runner, 1989 Black Rain: sieben Jahre Abstand.",
+      "interest": "Ein konkreter früherer Scott-Film verankert das Erscheinungsjahr.",
+      "sources": [
+        "afi",
+        "anker"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Michael Douglas und Ken Takakura?",
+      "answers": [
+        "Ridley Scott",
+        "Tony Scott",
+        "John Woo",
+        "Alan Parker"
+      ],
+      "feedback": [
+        "Ridley Scott ist bei AFI als Regisseur verzeichnet.",
+        "Sein Bruder Tony Scott inszenierte diesen Film nicht.",
+        "John Woo hat keinen Regiecredit bei Black Rain.",
+        "Alan Parker führte hier nicht Regie."
+      ],
+      "short": "Ridley Scott führte Regie.",
+      "context": "Der AFI-Katalog nennt Ridley Scott als Regisseur, Craig Bolotin und Warren Lewis als Autoren sowie Stanley R. Jaffe und Sherry Lansing als Produzenten. Michael Douglas und Ken Takakura verkörpern Ermittler mit unterschiedlichen beruflichen Maßstäben. Die nebligen Industrie- und Nachtbilder gehören zur konkreten Inszenierung dieses Polizeifilms. Der Credit ist von Tony Scott und anderen zeitgenössischen Actionregisseuren zu unterscheiden.",
+      "anchor": "Ridley Scott führt Douglas und Takakura durch den Osaka-Fall.",
+      "interest": "Der Film wird einem konkreten Regiewerk zugeordnet.",
+      "sources": [
+        "afi",
+        "handlung"
+      ]
+    }
+  ]
+}

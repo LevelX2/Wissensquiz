@@ -1,0 +1,3316 @@
+{
+  "date": "2026-10-08",
+  "scope": "Eigene Redaktion auf tatsächlich gelesenen Quellen; keine unabhängige zweite Vollrecherche.",
+  "questions": [
+    {
+      "question_id": "G100-20261008-ACTION-001-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-001-L1",
+      "goal_kind": "content",
+      "interest_reason": "Eine zentrale Requisite mit konkreter Funktion im Machtspiel.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08",
+          "supports": "Harrys charakteristischer Revolver ist eine .44 Magnum."
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/54036-DIRTY-HARRY",
+          "checked_on": "2026-10-08",
+          "supports": "Harrys charakteristischer Revolver ist eine .44 Magnum."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-001-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-001-L2",
+      "goal_kind": "content",
+      "interest_reason": "Erschließt den zentralen Konflikt zwischen Erpressung und Polizeireaktion.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08",
+          "supports": "Scorpio erpresst die Stadt mit Geldforderungen und Morddrohungen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-001-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-001-M1",
+      "goal_kind": "content",
+      "interest_reason": "Eine konkrete Konsequenz des Konflikts zwischen Polizeigewalt und Rechtsstaat.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08",
+          "supports": "Rechtswidrig beschaffte Beweise führen zu Scorpios Freilassung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-001-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-001-M2",
+      "goal_kind": "content",
+      "interest_reason": "Zeigt, wie der Täter die öffentliche Glaubwürdigkeit des Ermittlers angreift.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08",
+          "supports": "Scorpio inszeniert eine Misshandlung und schiebt Harry die Verantwortung zu."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-001-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-001-S1",
+      "goal_kind": "content",
+      "interest_reason": "Eine begründete Figurenentscheidung statt eines beiläufigen Namensdetails.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08",
+          "supports": "Chico möchte nach seiner Verwundung Lehrer werden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-001-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-001-S2",
+      "goal_kind": "content",
+      "interest_reason": "Ein Schlussbild, das Harrys Verhältnis zum Polizeiamt bündelt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08",
+          "supports": "Harry wirft seine Polizeimarke ins Wasser."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-001-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-001-Y",
+      "goal_kind": "year",
+      "interest_reason": "Verbindet den Reihenbeginn mit der konkreten ersten Fortsetzung.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/54036-DIRTY-HARRY",
+          "checked_on": "2026-10-08",
+          "supports": "1971 Dirty Harry, 1973 Magnum Force: zwei Jahre Abstand."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08",
+          "supports": "1971 Dirty Harry, 1973 Magnum Force: zwei Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-001-D",
+      "knowledge_id": "K-G100-20261008-ACTION-001-D",
+      "goal_kind": "director",
+      "interest_reason": "Trennt Hauptdarsteller, Produktionsfirma und offiziellen Regiecredit.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/54036-DIRTY-HARRY",
+          "checked_on": "2026-10-08",
+          "supports": "Don Siegel inszenierte Dirty Harry."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08",
+          "supports": "Don Siegel inszenierte Dirty Harry."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-002-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-002-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die Ausgangslage erklärt die besondere Verwundbarkeit des Schauplatzes.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Assault_on_Precinct_13_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die belagerte Polizeiwache steht kurz vor ihrer Schließung."
+        },
+        {
+          "key": "regisseur",
+          "url": "https://theofficialjohncarpenter.com/assault-of-precinct-13/",
+          "checked_on": "2026-10-08",
+          "supports": "Die belagerte Polizeiwache steht kurz vor ihrer Schließung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-002-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-002-L2",
+      "goal_kind": "content",
+      "interest_reason": "Eine zentrale, ungewöhnliche Allianz als zugänglicher Einstieg.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Assault_on_Precinct_13_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Polizist und Gefangene bilden eine gemeinsame Verteidigung."
+        },
+        {
+          "key": "regisseur",
+          "url": "https://theofficialjohncarpenter.com/assault-of-precinct-13/",
+          "checked_on": "2026-10-08",
+          "supports": "Polizist und Gefangene bilden eine gemeinsame Verteidigung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-002-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-002-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt, warum der zivile Flüchtling zum Auslöser der Belagerung wird.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Assault_on_Precinct_13_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Lawson sucht nach seiner Vergeltung am Mörder seiner Tochter Schutz."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-002-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-002-M2",
+      "goal_kind": "content",
+      "interest_reason": "Ein nachvollziehbarer Zusammenhang zwischen Angriffstaktik und Isolation.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Assault_on_Precinct_13_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Gang entfernt die Leichen, um Aufmerksamkeit von außen zu vermeiden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-002-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-002-S1",
+      "goal_kind": "content",
+      "interest_reason": "Eine falsche Entspannung verbindet Spannung mit dem gescheiterten Hilferuf.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Assault_on_Precinct_13_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Wells entkommt dem Gebäude, aber im Auto wartet ein Angreifer."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-002-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-002-S2",
+      "goal_kind": "content",
+      "interest_reason": "Verknüpft räumliche Verteidigung, knappe Munition und das Schlussmanöver.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Assault_on_Precinct_13_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Acetylenbehälter wird zur letzten Verteidigungswaffe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-002-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-002-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zeitlicher Anker über die belegte Verbindung zum Westernvorbild.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/56075-ASSAULT-ON-PRECINCT-13",
+          "checked_on": "2026-10-08",
+          "supports": "1959 Rio Bravo, 1976 Assault: siebzehn Jahre Abstand."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Assault_on_Precinct_13_(1976_film)",
+          "checked_on": "2026-10-08",
+          "supports": "1959 Rio Bravo, 1976 Assault: siebzehn Jahre Abstand."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.bfi.org.uk/lists/great-action-film-every-year-1924-now",
+          "checked_on": "2026-10-08",
+          "supports": "1959 Rio Bravo, 1976 Assault: siebzehn Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-002-D",
+      "knowledge_id": "K-G100-20261008-ACTION-002-D",
+      "goal_kind": "director",
+      "interest_reason": "Unterscheidet den Regienamen vom bewusst verwendeten Schnittpseudonym.",
+      "sources": [
+        {
+          "key": "regisseur",
+          "url": "https://theofficialjohncarpenter.com/assault-of-precinct-13/",
+          "checked_on": "2026-10-08",
+          "supports": "John Carpenter inszenierte Assault – Anschlag bei Nacht."
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/56075-ASSAULT-ON-PRECINCT-13",
+          "checked_on": "2026-10-08",
+          "supports": "John Carpenter inszenierte Assault – Anschlag bei Nacht."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-003-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-003-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die korrupte Grundlage der vermeintlich neuen Freiheit.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Getaway_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Docs Freiheit wird mit einem Bankraub erkauft."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-003-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-003-L2",
+      "goal_kind": "content",
+      "interest_reason": "Ein klarer Handlungsrahmen für die Flucht und den Beziehungskonflikt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Getaway_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Doc und Carol wollen mit der Beute nach Mexiko."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-003-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-003-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ein Wendepunkt verbindet Verrat, Loyalität und die Folgen des korrupten Handels.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Getaway_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Carol erschießt Beynon und wendet sich gegen seinen Plan."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-003-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-003-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die Rückkehr eines totgeglaubten Gegenspielers.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Getaway_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Rudys schusssichere Weste lässt ihn den vermeintlich tödlichen Angriff überleben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-003-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-003-S1",
+      "goal_kind": "content",
+      "interest_reason": "Eine konkrete Täuschung setzt eine zusätzliche Verfolgung in Gang.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Getaway_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Dieb stiehlt die Beute durch vertauschte Schließfachschlüssel."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-003-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-003-S2",
+      "goal_kind": "content",
+      "interest_reason": "Ein beobachtbares Indiz zeigt Docs Erfahrung und erklärt seine Vorbereitung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Getaway_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die fortgeschickte Familie des Hotelbetreibers lässt Doc eine Falle vermuten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-003-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-003-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zeitanker durch zwei unterschiedliche Hauptrollen McQueens.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/54532-THE-GETAWAY",
+          "checked_on": "2026-10-08",
+          "supports": "1968 Bullitt, 1972 Getaway: vier Jahre Abstand."
+        },
+        {
+          "key": "bullitt",
+          "url": "https://catalog.afi.com/Film/23455-BULLITT",
+          "checked_on": "2026-10-08",
+          "supports": "1968 Bullitt, 1972 Getaway: vier Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-003-D",
+      "knowledge_id": "K-G100-20261008-ACTION-003-D",
+      "goal_kind": "director",
+      "interest_reason": "Trennt Peckinpahs Inszenierung von Hills Drehbuchcredit.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/54532-THE-GETAWAY",
+          "checked_on": "2026-10-08",
+          "supports": "Sam Peckinpah inszenierte Getaway."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Getaway_(1972_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Sam Peckinpah inszenierte Getaway."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-004-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-004-L1",
+      "goal_kind": "content",
+      "interest_reason": "Verortet die Hauptfigur vor ihrem Weg in die Selbstjustiz.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Max beginnt als Polizist der Main Force Patrol."
+        },
+        {
+          "key": "notizen",
+          "url": "https://aso.gov.au/titles/features/mad-max/notes/",
+          "checked_on": "2026-10-08",
+          "supports": "Max beginnt als Polizist der Main Force Patrol."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-004-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-004-L2",
+      "goal_kind": "content",
+      "interest_reason": "Eine zentrale Fahrzeugrequisite verändert ihre Funktion im Handlungsverlauf.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ein neuer schwarzer V8-Einsatzwagen soll Max an den Polizeidienst binden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-004-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-004-M1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet die Grenzen der Strafverfolgung mit der folgenden Eskalation.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Fehlende Zeugenaussagen führen zu Johnnys Freilassung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-004-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-004-M2",
+      "goal_kind": "content",
+      "interest_reason": "Ein ausdrücklich genannter innerer Konflikt erklärt den Rückzugsversuch.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Max fürchtet, durch seine Arbeit selbst zum brutalen Täter zu werden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-004-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-004-S1",
+      "goal_kind": "content",
+      "interest_reason": "Präzisiert einen oft zu pauschal zusammengefassten Wendepunkt.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Max verliert seinen Sohn; Jessie bleibt schwer verletzt im Koma."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-004-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-004-S2",
+      "goal_kind": "content",
+      "interest_reason": "Das Schlussmanöver macht Max’ Wandel von Strafverfolgung zu privater Bestrafung konkret.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Max stellt Johnny vor die Wahl zwischen dem langsamen Durchsägen der Fessel und dem eigenen Fuß."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-004-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-004-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ordnet Originalstart, späteren US-Start und erste Fortsetzung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "1979 Mad Max, 1981 Mad Max 2: zwei Jahre Abstand."
+        },
+        {
+          "key": "archiv",
+          "url": "https://aso.gov.au/titles/features/mad-max/credits/",
+          "checked_on": "2026-10-08",
+          "supports": "1979 Mad Max, 1981 Mad Max 2: zwei Jahre Abstand."
+        },
+        {
+          "key": "fortsetzung",
+          "url": "https://aso.gov.au/titles/features/mad-max-2/",
+          "checked_on": "2026-10-08",
+          "supports": "1979 Mad Max, 1981 Mad Max 2: zwei Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-004-D",
+      "knowledge_id": "K-G100-20261008-ACTION-004-D",
+      "goal_kind": "director",
+      "interest_reason": "Verbindet den offiziellen Credit mit Millers belegtem Erfahrungshintergrund.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://aso.gov.au/titles/features/mad-max/credits/",
+          "checked_on": "2026-10-08",
+          "supports": "George Miller inszenierte den ersten Mad Max."
+        },
+        {
+          "key": "notizen",
+          "url": "https://aso.gov.au/titles/features/mad-max/notes/",
+          "checked_on": "2026-10-08",
+          "supports": "George Miller inszenierte den ersten Mad Max."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-005-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-005-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die Ausgangslage erklärt die Verfolgung und den Wechsel zwischen zwei Formen der Gefangenschaft.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Runaway_Train_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Manny und Buck sind entflohene Gefangene."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-005-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-005-L2",
+      "goal_kind": "content",
+      "interest_reason": "Eine dritte Perspektive verändert die Zweiergemeinschaft der Flüchtlinge.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Runaway_Train_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Sara ist Eisenbahnarbeiterin und zufällig auf dem Zug geblieben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-005-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-005-M1",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet die Ursache der Zugkatastrophe vom ursprünglichen Fluchtplan.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Runaway_Train_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Zusammenbruch des Lokführers macht aus der Flucht eine Fahrt ohne Kontrolle."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-005-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-005-M2",
+      "goal_kind": "content",
+      "interest_reason": "Ein kleines Signal verändert eine Entscheidung über Leben und Tod.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Runaway_Train_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Eine betätigte Hupe verrät der Leitstelle, dass Menschen an Bord sind."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-005-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-005-S1",
+      "goal_kind": "content",
+      "interest_reason": "Technisches Teilziel mit klarer Grenze statt einer angeblichen Gesamtlösung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Runaway_Train_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Getrennte Steuerkabel schalten die hinteren beiden Lokomotiven aus dem Antrieb."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-005-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-005-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Abschluss unterscheidet Mannys persönliche Konfrontation von der Rettung seiner Begleiter.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Runaway_Train_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Manny trennt die führende Lokomotive ab und lässt Buck und Sara zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-005-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-005-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ein belegter Entwicklungszeitraum statt bloßer Jahresaufzählung.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/58337-RUNAWAY-TRAIN",
+          "checked_on": "2026-10-08",
+          "supports": "1966 Projektankündigung, 1985 Express in die Hölle: neunzehn Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-005-D",
+      "knowledge_id": "K-G100-20261008-ACTION-005-D",
+      "goal_kind": "director",
+      "interest_reason": "Klärt die häufig verwechselte Verantwortung für Vorlage und fertigen Film.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/58337-RUNAWAY-TRAIN",
+          "checked_on": "2026-10-08",
+          "supports": "Andrei Konchalovsky inszenierte Express in die Hölle."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Runaway_Train_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Andrei Konchalovsky inszenierte Express in die Hölle."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-006-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-006-L1",
+      "goal_kind": "content",
+      "interest_reason": "Ein zugänglicher Zusammenhang zwischen Behörde und verschiedenen Einsätzen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/To_Live_and_Die_in_L.A._(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Chance und Vukovich arbeiten für den Secret Service."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-006-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-006-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das zentrale Geschäft erklärt den späteren verdeckten Kauf.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/To_Live_and_Die_in_L.A._(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Masters produziert und handelt mit Falschgeld."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-006-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-006-M1",
+      "goal_kind": "content",
+      "interest_reason": "Ein klarer Zweck erklärt eine entscheidende Grenzüberschreitung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/To_Live_and_Die_in_L.A._(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Agenten beschaffen Geld für den verdeckten Kauf durch einen Raub."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-006-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-006-M2",
+      "goal_kind": "content",
+      "interest_reason": "Eine späte Information verändert rückwirkend die Bedeutung der Verfolgung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/To_Live_and_Die_in_L.A._(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Opfer des illegalen Raubs war ein verdeckt arbeitender FBI-Agent."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-006-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-006-S1",
+      "goal_kind": "content",
+      "interest_reason": "Eine rückwirkende Neubewertung der vermeintlich hilfreichen Beratung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/To_Live_and_Die_in_L.A._(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Grimes’ scheinbare Hilfe gehört zur Täuschung zugunsten von Masters."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-006-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-006-S2",
+      "goal_kind": "content",
+      "interest_reason": "Das Schlussverhalten zeigt die Übertragung korrumpierender Methoden.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/To_Live_and_Die_in_L.A._(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Vukovich übernimmt gegenüber Ruth die Zwangsmethoden seines toten Partners."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-006-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-006-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zeitlicher Zusammenhang zwischen konkret datierter Romanvorlage und Verfilmung.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/67349-TO-LIVEANDDIEINLA",
+          "checked_on": "2026-10-08",
+          "supports": "1984 Roman, 1985 Leben und Sterben in L.A.: ein Jahr Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-006-D",
+      "knowledge_id": "K-G100-20261008-ACTION-006-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet die unterschiedlichen Gestaltungsleistungen des Films.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/67349-TO-LIVEANDDIEINLA",
+          "checked_on": "2026-10-08",
+          "supports": "William Friedkin inszenierte Leben und Sterben in L.A."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/To_Live_and_Die_in_L.A._(film)",
+          "checked_on": "2026-10-08",
+          "supports": "William Friedkin inszenierte Leben und Sterben in L.A."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-007-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-007-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die scheinbar unspektakuläre Bordaufgabe erklärt die anfängliche Unterschätzung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Under_Siege",
+          "checked_on": "2026-10-08",
+          "supports": "Ryback arbeitet auf dem Schlachtschiff als Koch."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-007-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-007-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der konkrete Anlass erklärt die Tarnung der Übernahme.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Under_Siege",
+          "checked_on": "2026-10-08",
+          "supports": "Die Geburtstagsfeier des Kapitäns tarnt das Eintreffen der Angreifer."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-007-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-007-M1",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet das ursprüngliche Diebstahlziel vom späteren Einsatz derselben Waffen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Under_Siege",
+          "checked_on": "2026-10-08",
+          "supports": "Die Angreifer wollen die Tomahawk-Marschflugkörper stehlen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-007-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-007-M2",
+      "goal_kind": "content",
+      "interest_reason": "Verknüpft eine Geisellage mit der taktischen Absicht des Gegenspielers.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Under_Siege",
+          "checked_on": "2026-10-08",
+          "supports": "Krill benutzt die drohende Überflutung der Gefangenen als Köder."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-007-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-007-S1",
+      "goal_kind": "content",
+      "interest_reason": "Ein Veteran und die vorhandene Schiffstechnik verändern das Kräfteverhältnis.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Under_Siege",
+          "checked_on": "2026-10-08",
+          "supports": "Die schweren Geschütze der Missouri zerstören das U-Boot."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-007-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-007-S2",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet das körperliche Duell von der anschließenden technischen Gefahrenabwehr.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Under_Siege",
+          "checked_on": "2026-10-08",
+          "supports": "Die Startcode-Diskette ermöglicht das Stoppen des verbliebenen Tomahawks."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-007-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-007-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zeitanker über eine unmittelbar folgende, konkrete Zusammenarbeit.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/59422-UNDER-SIEGE",
+          "checked_on": "2026-10-08",
+          "supports": "1992 Alarmstufe: Rot, 1993 Auf der Flucht: ein Jahr Abstand."
+        },
+        {
+          "key": "aufderflucht",
+          "url": "https://catalog.afi.com/Film/67728-THE-FUGITIVE",
+          "checked_on": "2026-10-08",
+          "supports": "1992 Alarmstufe: Rot, 1993 Auf der Flucht: ein Jahr Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-007-D",
+      "knowledge_id": "K-G100-20261008-ACTION-007-D",
+      "goal_kind": "director",
+      "interest_reason": "Trennt Star- und Produzentenrolle vom offiziellen Regiecredit.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/59422-UNDER-SIEGE",
+          "checked_on": "2026-10-08",
+          "supports": "Andrew Davis inszenierte Alarmstufe: Rot."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Under_Siege",
+          "checked_on": "2026-10-08",
+          "supports": "Andrew Davis inszenierte Alarmstufe: Rot."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-008-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-008-L1",
+      "goal_kind": "content",
+      "interest_reason": "Das zentrale Objekt erklärt, weshalb eine erkennbare Gefahr eingegangen wird.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/From_Russia_with_Love_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Lektor ist eine Chiffriermaschine."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-008-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-008-L2",
+      "goal_kind": "content",
+      "interest_reason": "Eine zentrale Ortsveränderung macht die neue Form der Gefahr verständlich.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/From_Russia_with_Love_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Flucht aus Istanbul beginnt im Orient-Express."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-008-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-008-M1",
+      "goal_kind": "content",
+      "interest_reason": "Unterscheidet bewusste Täuschung durch Klebb von Tatianas begrenztem Wissen.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/From_Russia_with_Love_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Tatiana hält Klebbs Operation für einen sowjetischen Geheimdienstauftrag."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-008-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-008-M2",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt die konkrete Vertrauensgrundlage einer gefährlichen falschen Identität.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/From_Russia_with_Love_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Grant übernimmt die Identität des erwarteten britischen Kontaktagenten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-008-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-008-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet die heimliche Aufnahme mit dem eigentlichen Rufschädigungsplan.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/From_Russia_with_Love_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "SPECTRE will die Tötung als kompromittierendes Mord-und-Selbstmord-Drama tarnen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-008-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-008-S2",
+      "goal_kind": "content",
+      "interest_reason": "Tatianas Entscheidung beendet die anfangs wirksame Autorität der Gegenspielerin.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/From_Russia_with_Love_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Tatiana erschießt Klebb und rettet Bond."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-008-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-008-Y",
+      "goal_kind": "year",
+      "interest_reason": "Klärt das Erstjahr anhand des Vorgängers und des späteren US-Starts.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/f0ff34fe-938e-5704-bc5b-80648a1a01a3/from-russia-with-love",
+          "checked_on": "2026-10-08",
+          "supports": "1962 Dr. No, 1963 Liebesgrüße aus Moskau: ein Jahr Abstand."
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/22487-FROM-RUSSIA-WITH-LOVE",
+          "checked_on": "2026-10-08",
+          "supports": "1962 Dr. No, 1963 Liebesgrüße aus Moskau: ein Jahr Abstand."
+        },
+        {
+          "key": "spionage",
+          "url": "https://www.bfi.org.uk/lists/10-great-spy-films",
+          "checked_on": "2026-10-08",
+          "supports": "1962 Dr. No, 1963 Liebesgrüße aus Moskau: ein Jahr Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-008-D",
+      "knowledge_id": "K-G100-20261008-ACTION-008-D",
+      "goal_kind": "director",
+      "interest_reason": "Ordnet Regie, Schnitt, Drehbuch und Adaption auseinander.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/22487-FROM-RUSSIA-WITH-LOVE",
+          "checked_on": "2026-10-08",
+          "supports": "Terence Young inszenierte Liebesgrüße aus Moskau."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/f0ff34fe-938e-5704-bc5b-80648a1a01a3/from-russia-with-love",
+          "checked_on": "2026-10-08",
+          "supports": "Terence Young inszenierte Liebesgrüße aus Moskau."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-009-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-009-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die Tarninstitution macht den Gegensatz zwischen Heilungsversprechen und Bedrohung verständlich.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Blofeld tarnt Piz Gloria als Allergieklinik."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-009-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-009-L2",
+      "goal_kind": "content",
+      "interest_reason": "Eine zentrale Familienbeziehung verbindet Bündnis und Liebesgeschichte.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Draco ist Tracys Vater."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-009-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-009-M1",
+      "goal_kind": "content",
+      "interest_reason": "Erklärt den Zusammenhang zwischen Hypnose, Reisewegen und globaler Erpressung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Patientinnen werden als Trägerinnen biologischer Angriffe vorbereitet."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-009-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-009-M2",
+      "goal_kind": "content",
+      "interest_reason": "Eine kleine administrative Handlung verändert Bonds Beziehung zum Dienst.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Moneypenny verwandelt Bonds Kündigung in einen Urlaubsantrag."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-009-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-009-S1",
+      "goal_kind": "content",
+      "interest_reason": "Verbindet die ungewöhnliche Heraldikspur mit dem Zweck der Erpressung.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Blofeld verlangt Amnestie und Anerkennung als Graf de Bleuchamp."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-009-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-009-S2",
+      "goal_kind": "content",
+      "interest_reason": "Zeigt die Konsequenz des Bündnisses außerhalb der offiziellen Befehlskette.",
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Bond greift mit Dracos Männern trotz des Verbots seines Vorgesetzten an."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-009-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-009-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zeitanker zwischen konkret belegter Buchveröffentlichung und Kinofassung.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/22372",
+          "checked_on": "2026-10-08",
+          "supports": "1963 Roman, 1969 Im Geheimdienst Ihrer Majestät: sechs Jahre Abstand."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "1963 Roman, 1969 Im Geheimdienst Ihrer Majestät: sechs Jahre Abstand."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/eba2974f-3aa4-55dc-b3b1-7cc5841bdeef/on-her-majestys-secret-service",
+          "checked_on": "2026-10-08",
+          "supports": "1963 Roman, 1969 Im Geheimdienst Ihrer Majestät: sechs Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-009-D",
+      "knowledge_id": "K-G100-20261008-ACTION-009-D",
+      "goal_kind": "director",
+      "interest_reason": "Unterscheidet Hauptregie von Schnitt und benannten Sequenz-/Einheitencredits.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/22372",
+          "checked_on": "2026-10-08",
+          "supports": "Peter R. Hunt inszenierte Im Geheimdienst Ihrer Majestät."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/eba2974f-3aa4-55dc-b3b1-7cc5841bdeef/on-her-majestys-secret-service",
+          "checked_on": "2026-10-08",
+          "supports": "Peter R. Hunt inszenierte Im Geheimdienst Ihrer Majestät."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Peter R. Hunt inszenierte Im Geheimdienst Ihrer Majestät."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-010-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-010-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die zentrale Ausgangslage erklärt, warum die Agenten überhaupt zusammenarbeiten.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Loved_Me_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Zwei verschwundene Atom-U-Boote führen die rivalisierenden Dienste zusammen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-010-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-010-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das bekannte Gadget wird über seine konkrete Funktion im Ablauf verankert.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Loved_Me_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Lotus kann nach dem Sprung ins Meer unter Wasser weiterfahren."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-010-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-010-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage verbindet zwei weit auseinanderliegende Szenen über eine persönliche Ursache.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Loved_Me_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Anya erkennt, dass Bond ihren Geliebten getötet hat."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-010-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-010-M2",
+      "goal_kind": "content",
+      "interest_reason": "Das Ziel des Gegners erklärt den Zusammenhang zwischen U-Booten und Basis.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Loved_Me_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Stromberg will einen Weltkrieg auslösen und unter Wasser überleben."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-010-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-010-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Auflösung verlangt mehr als die Kenntnis des Bösewichtsplans.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Loved_Me_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die umprogrammierten Raketen treffen die beiden U-Boote selbst."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-010-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-010-S2",
+      "goal_kind": "content",
+      "interest_reason": "Eine belegte Produktionsentscheidung erklärt den ungewöhnlichen Maßstab des Schauplatzes.",
+      "sources": [
+        {
+          "key": "buehne",
+          "url": "https://www.007.com/focus-week-albert-r-broccoli-007-stage/",
+          "checked_on": "2026-10-08",
+          "supports": "Die 007 Stage wurde für Ken Adams gewaltiges Tankerset gebaut."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Loved_Me_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die 007 Stage wurde für Ken Adams gewaltiges Tankerset gebaut."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-010-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-010-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ein bestimmter früherer Bond-Film bietet einen nachvollziehbaren Zeitanker.",
+      "sources": [
+        {
+          "key": "regie",
+          "url": "https://www.007.com/focus-week-lewis-gilbert/",
+          "checked_on": "2026-10-08",
+          "supports": "1967 Man lebt nur zweimal, 1977 dieser Bond: zehn Jahre Abstand."
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/2033bb42-896f-5cb8-a411-ce46388946a0/the-spy-who-loved-me",
+          "checked_on": "2026-10-08",
+          "supports": "1967 Man lebt nur zweimal, 1977 dieser Bond: zehn Jahre Abstand."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Loved_Me_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "1967 Man lebt nur zweimal, 1977 dieser Bond: zehn Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-010-D",
+      "knowledge_id": "K-G100-20261008-ACTION-010-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Credit wird von der zusätzlichen Action- und Schnittarbeit abgegrenzt.",
+      "sources": [
+        {
+          "key": "regie",
+          "url": "https://www.007.com/focus-week-lewis-gilbert/",
+          "checked_on": "2026-10-08",
+          "supports": "Lewis Gilbert inszenierte den Film."
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/2033bb42-896f-5cb8-a411-ce46388946a0/the-spy-who-loved-me",
+          "checked_on": "2026-10-08",
+          "supports": "Lewis Gilbert inszenierte den Film."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Loved_Me_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Lewis Gilbert inszenierte den Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-011-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-011-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der persönliche Auslöser erklärt die Abweichung vom gewöhnlichen Agentenauftrag.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+          "checked_on": "2026-10-08",
+          "supports": "Bond verfolgt Sanchez aus persönlicher Rache für Felix Leiter."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-011-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-011-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Fähigkeit wird durch ihre tatsächliche Beteiligung an der Action erklärt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+          "checked_on": "2026-10-08",
+          "supports": "Pam unterstützt Bond als Pilotin aus der Luft."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-011-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-011-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Schmuggeltechnik erklärt die besondere Funktion der Tanklaster.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+          "checked_on": "2026-10-08",
+          "supports": "Das Kokain wird in Treibstoff gelöst und als Kraftstoff transportiert."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-011-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-011-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage erschließt Bonds Manipulation statt nur einen Helfernamen abzufragen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+          "checked_on": "2026-10-08",
+          "supports": "Bond pflanzt das gestohlene Geld auf Krests Schiff."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-011-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-011-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Verbindung zwischen Beginn und Finale verleiht dem Gegenstand erzählerischen Wert.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+          "checked_on": "2026-10-08",
+          "supports": "Bond verwendet das Feuerzeug, das er als Trauzeuge erhalten hat."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-011-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-011-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Produktionsbeleg erklärt, wie die Verfolgung ihren körperlichen Eindruck erhält.",
+      "sources": [
+        {
+          "key": "stunts",
+          "url": "https://www.007.com/shooting-licence-to-kills-tanker-chase/",
+          "checked_on": "2026-10-08",
+          "supports": "Die Produktion nutzte reale Lastwagen und eine gesperrte Bergstraße."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+          "checked_on": "2026-10-08",
+          "supports": "Die Produktion nutzte reale Lastwagen und eine gesperrte Bergstraße."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-011-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-011-Y",
+      "goal_kind": "year",
+      "interest_reason": "Daltons konkreter Vorgängerfilm liefert den zweiten Zeitanker.",
+      "sources": [
+        {
+          "key": "vergleich",
+          "url": "https://www.007.com/007-first-and-last/",
+          "checked_on": "2026-10-08",
+          "supports": "1987 Daltons Bond-Debüt, 1989 sein zweiter Film: zwei Jahre Abstand."
+        },
+        {
+          "key": "regie",
+          "url": "https://www.007.com/focus-week-john-glen/",
+          "checked_on": "2026-10-08",
+          "supports": "1987 Daltons Bond-Debüt, 1989 sein zweiter Film: zwei Jahre Abstand."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+          "checked_on": "2026-10-08",
+          "supports": "1987 Daltons Bond-Debüt, 1989 sein zweiter Film: zwei Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-011-D",
+      "knowledge_id": "K-G100-20261008-ACTION-011-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Credit erhält einen konkreten Bezug zur Erfahrung des Regisseurs.",
+      "sources": [
+        {
+          "key": "regie",
+          "url": "https://www.007.com/focus-week-john-glen/",
+          "checked_on": "2026-10-08",
+          "supports": "John Glen führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+          "checked_on": "2026-10-08",
+          "supports": "John Glen führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-012-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-012-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der leichte Einstieg erschließt eine zentrale Beziehung des Buddy-Cop-Films.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bad_Boys_II",
+          "checked_on": "2026-10-08",
+          "supports": "Mike trifft sich heimlich mit der Schwester seines Partners."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-012-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-012-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der Ortswechsel ist mit einer klaren Handlungskonsequenz verbunden.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bad_Boys_II",
+          "checked_on": "2026-10-08",
+          "supports": "Tapia nimmt Syd als Geisel mit nach Kuba."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-012-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-012-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Tarnung erklärt den Zusammenhang zwischen groteskem Schauplatz und Ermittlung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bad_Boys_II",
+          "checked_on": "2026-10-08",
+          "supports": "Leichen und Särge verbergen Drogen beziehungsweise Geld."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-012-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-012-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Konflikt betrifft eine Entscheidung, nicht nochmals Syds Familienbeziehung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bad_Boys_II",
+          "checked_on": "2026-10-08",
+          "supports": "Marcus erwägt eine Versetzung und damit das Ende der bisherigen Partnerschaft."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-012-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-012-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die räumliche Bedingung erklärt die besondere Spannung des Schlusskampfs.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bad_Boys_II",
+          "checked_on": "2026-10-08",
+          "supports": "Die letzte Konfrontation findet in einem Minenfeld statt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-012-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-012-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Vergleich ist ausdrücklich seiner Quelle zugeordnet und setzt keine belegte Absicht der Filmemacher voraus.",
+      "sources": [
+        {
+          "key": "vorbild",
+          "url": "https://www.bfi.org.uk/lists/great-action-film-every-year-1924-now",
+          "checked_on": "2026-10-08",
+          "supports": "Das BFI vergleicht die Verfolgung mit Police Story."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bad_Boys_II",
+          "checked_on": "2026-10-08",
+          "supports": "Das BFI vergleicht die Verfolgung mit Police Story."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-012-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-012-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der erste Reihenfilm macht den langen Abstand zur Fortsetzung greifbar.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/badboysii",
+          "checked_on": "2026-10-08",
+          "supports": "1995 der erste Bad Boys, 2003 die Fortsetzung: acht Jahre Abstand."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.co.uk/detail/news-photo/actors-martin-lawrence-and-will-smith-attend-the-bad-boys-news-photo/2148992",
+          "checked_on": "2026-10-08",
+          "supports": "1995 der erste Bad Boys, 2003 die Fortsetzung: acht Jahre Abstand."
+        },
+        {
+          "key": "reihenstart",
+          "url": "https://www.sonypictures.com/movies/badboys",
+          "checked_on": "2026-10-08",
+          "supports": "1995 der erste Bad Boys, 2003 die Fortsetzung: acht Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-012-D",
+      "knowledge_id": "K-G100-20261008-ACTION-012-D",
+      "goal_kind": "director",
+      "interest_reason": "Ein filmbezogener Credit unterscheidet die konkrete Fortsetzung von anderen Buddy-Cop-Filmen.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/badboysii",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Bay inszenierte den Film."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bad_Boys_II",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Bay inszenierte den Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-013-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-013-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die zentrale Bedrohung ist ohne Spezialwissen über die Reihe zugänglich.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_III",
+          "checked_on": "2026-10-08",
+          "supports": "Davian erpresst Ethan mit dem Leben seiner Frau Julia."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-013-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-013-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Ausgangsposition erklärt den ersten Einsatz unabhängig von Julias späterer Entführung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_III",
+          "checked_on": "2026-10-08",
+          "supports": "Ethan hat sich aus Feldeinsätzen zurückgezogen und trainiert Nachwuchsagenten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-013-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-013-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der Mechanismus erklärt, warum eine zunächst erfolgreiche Rettung scheitert.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_III",
+          "checked_on": "2026-10-08",
+          "supports": "Ein implantierter Sprengsatz macht die Rettung zunichte."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-013-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-013-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Rollentausch des vermeintlichen Unterstützers ist ein eigenständiges Enthüllungsziel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_III",
+          "checked_on": "2026-10-08",
+          "supports": "John Musgrave ist Davians Verbündeter innerhalb der Organisation."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-013-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-013-S1",
+      "goal_kind": "content",
+      "interest_reason": "Das Ziel trennt Identitätstäuschung von der bereits abgefragten Geiselnahme.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_III",
+          "checked_on": "2026-10-08",
+          "supports": "Eine Maske lässt Davians Übersetzerin wie Julia aussehen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-013-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-013-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Rettungsmethode erschließt Handlung, Risiko und Figurenentwicklung zusammen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_III",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Stromstoß stoppt die Kapsel, eine Wiederbelebung rettet Ethan."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-013-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-013-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der konkrete Reihenbeginn liefert eine zweite verifizierbare Jahresmarke.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.paramountpictures.com/movies/mission-impossible-iii",
+          "checked_on": "2026-10-08",
+          "supports": "1996 der erste Kinofilm, 2006 Teil III: zehn Jahre Abstand."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.ie/photos/impossible-iii-rome-premiere-arrivals",
+          "checked_on": "2026-10-08",
+          "supports": "1996 der erste Kinofilm, 2006 Teil III: zehn Jahre Abstand."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.bfi.org.uk/features/mission-impossible-fallout-stunts",
+          "checked_on": "2026-10-08",
+          "supports": "1996 der erste Kinofilm, 2006 Teil III: zehn Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-013-D",
+      "knowledge_id": "K-G100-20261008-ACTION-013-D",
+      "goal_kind": "director",
+      "interest_reason": "Der filmbezogene Credit verhindert das Vermischen unterschiedlicher Reihenregisseure.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.paramountpictures.com/movies/mission-impossible-iii",
+          "checked_on": "2026-10-08",
+          "supports": "J. J. Abrams inszenierte den dritten Kinofilm."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.bfi.org.uk/features/mission-impossible-fallout-stunts",
+          "checked_on": "2026-10-08",
+          "supports": "J. J. Abrams inszenierte den dritten Kinofilm."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_III",
+          "checked_on": "2026-10-08",
+          "supports": "J. J. Abrams inszenierte den dritten Kinofilm."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-014-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-014-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Konflikt mit der Dienststruktur erklärt die veränderten Einsatzbedingungen.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://ir.paramount.com/static-files/9fb6b323-0f9c-45b2-b4df-b3a140898a4b",
+          "checked_on": "2026-10-08",
+          "supports": "Die Auflösung der IMF macht Ethan zum eigenmächtig handelnden Verfolgten."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation",
+          "checked_on": "2026-10-08",
+          "supports": "Die Auflösung der IMF macht Ethan zum eigenmächtig handelnden Verfolgten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-014-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-014-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Organisationszugehörigkeit ordnet eine zentrale neue Figur ein.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation",
+          "checked_on": "2026-10-08",
+          "supports": "Ilsas verdeckter Auftrag stammt vom britischen MI6."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-014-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-014-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Enthüllung verändert die Bedeutung des zuvor verfolgten Gegenstands.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation",
+          "checked_on": "2026-10-08",
+          "supports": "Die Daten erschließen geheime Konten mit 2,4 Milliarden Pfund."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-014-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-014-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der konkrete musikalische Rahmen ist von der Agentenhandlung unabhängig.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation",
+          "checked_on": "2026-10-08",
+          "supports": "Die Anschlagssequenz spielt während Turandot."
+        },
+        {
+          "key": "effekte",
+          "url": "https://www.fxguide.com/fxfeatured/hold-on-the-vfx-of-rogue-nation/",
+          "checked_on": "2026-10-08",
+          "supports": "Die Anschlagssequenz spielt während Turandot."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-014-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-014-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die konkrete Inszenierung der Auflösung wird mit einer früheren Szene verbunden.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation",
+          "checked_on": "2026-10-08",
+          "supports": "Ethan lockt Lane in eine vorbereitete Glaskammer."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-014-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-014-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Primärbericht des Effektverantwortlichen verhindert die falsche Behauptung eines Films ohne Effekte.",
+      "sources": [
+        {
+          "key": "effekte",
+          "url": "https://www.fxguide.com/fxfeatured/hold-on-the-vfx-of-rogue-nation/",
+          "checked_on": "2026-10-08",
+          "supports": "Realer Flug und digitale Nachbearbeitung wurden kombiniert."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-014-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-014-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der konkrete Nachfolger liefert eine zweite Zeitmarke ohne das vorhandene Rückkehrziel nochmals abzufragen.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://ir.paramount.com/static-files/9fb6b323-0f9c-45b2-b4df-b3a140898a4b",
+          "checked_on": "2026-10-08",
+          "supports": "2015 Rogue Nation, 2018 Fallout: drei Jahre Abstand."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.co.uk/detail/news-photo/simon-pegg-and-host-steven-gaetjen-speak-on-stage-during-news-photo/481681270",
+          "checked_on": "2026-10-08",
+          "supports": "2015 Rogue Nation, 2018 Fallout: drei Jahre Abstand."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.bfi.org.uk/features/mission-impossible-fallout-stunts",
+          "checked_on": "2026-10-08",
+          "supports": "2015 Rogue Nation, 2018 Fallout: drei Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-014-D",
+      "knowledge_id": "K-G100-20261008-ACTION-014-D",
+      "goal_kind": "director",
+      "interest_reason": "Der konkrete Regiecredit wird von der Beteiligung anderer Reihenregisseure als Produzenten getrennt.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://ir.paramount.com/static-files/9fb6b323-0f9c-45b2-b4df-b3a140898a4b",
+          "checked_on": "2026-10-08",
+          "supports": "Christopher McQuarrie führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation",
+          "checked_on": "2026-10-08",
+          "supports": "Christopher McQuarrie führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-015-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-015-L1",
+      "goal_kind": "content",
+      "interest_reason": "Ein gut erkennbarer Ausgangsort wird mit der Situation des Paars verbunden.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Bourne und Marie leben zurückgezogen in Goa."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-015-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-015-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der Verlust wird über den konkreten Ablauf verständlich.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Marie wird durch den auf Bourne zielenden Verfolger getötet."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-015-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-015-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Frage trennt den neuen Tatverdacht von Bournes tatsächlicher früherer Schuld.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Gezielt platzierte Fingerabdrücke lenken den Verdacht auf Bourne."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-015-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-015-M2",
+      "goal_kind": "content",
+      "interest_reason": "Das Beweismittel und seine Übergabe bilden ein eigenes Ziel neben der falschen Spur.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Bourne übergibt belastende Gesprächsaufnahmen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-015-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-015-S1",
+      "goal_kind": "content",
+      "interest_reason": "Der Schluss erschließt moralische Konsequenzen der Erinnerung statt eine weitere Jagdstation.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Bourne gesteht Irena die Ermordung ihrer Eltern."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-015-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-015-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Gestaltung wird als Wirkung erklärt, nicht nur mit einem Regienamen bezeichnet.",
+      "sources": [
+        {
+          "key": "stil",
+          "url": "https://player.bfi.org.uk/rentals/film/watch-the-bourne-supremacy-2004-online",
+          "checked_on": "2026-10-08",
+          "supports": "Handkamera und belebte reale Schauplätze erzeugen die unmittelbare Unruhe."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Handkamera und belebte reale Schauplätze erzeugen die unmittelbare Unruhe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-015-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-015-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der vorherige Kinofilm liefert einen konkreten zweiten Zeitanker.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/489d9531-6e89-5572-9afe-6b5a975957ac/the-bourne-supremacy",
+          "checked_on": "2026-10-08",
+          "supports": "2002 Die Bourne Identität, 2004 die Fortsetzung: zwei Jahre Abstand."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "2002 Die Bourne Identität, 2004 die Fortsetzung: zwei Jahre Abstand."
+        },
+        {
+          "key": "reihenstart",
+          "url": "https://www.universalpicturesathome.com/movies/the-bourne-identity",
+          "checked_on": "2026-10-08",
+          "supports": "2002 Die Bourne Identität, 2004 die Fortsetzung: zwei Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-015-D",
+      "knowledge_id": "K-G100-20261008-ACTION-015-D",
+      "goal_kind": "director",
+      "interest_reason": "Der konkrete Credit wird von Vorgängerregie und Drehbucharbeit getrennt.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/489d9531-6e89-5572-9afe-6b5a975957ac/the-bourne-supremacy",
+          "checked_on": "2026-10-08",
+          "supports": "Paul Greengrass übernahm die Regie des zweiten Bourne-Films."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Paul Greengrass übernahm die Regie des zweiten Bourne-Films."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-016-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-016-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der zentrale Schauplatz wird über die konkrete Begegnung erschlossen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Bourne trifft Simon Ross im Bahnhof Waterloo."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-016-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-016-L2",
+      "goal_kind": "content",
+      "interest_reason": "Nickys Entscheidung bildet ein anderes Ziel als die Suche nach Bournes Vergangenheit.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Nicky hilft Bourne bei der Flucht aus Madrid."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-016-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-016-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Antwort unterscheidet Programme der Filmreihe und erklärt ihre Funktion.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Das Nachfolgeprogramm heißt Blackbriar."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-016-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-016-M2",
+      "goal_kind": "content",
+      "interest_reason": "Eine konkrete Zugangsmethode wird von anderen plausiblen biometrischen Sicherungen getrennt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Bourne nutzt die aufgezeichnete Stimme Vosens."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-016-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-016-S1",
+      "goal_kind": "content",
+      "interest_reason": "Der Schluss wird über eine zentrale moralische Enthüllung erschlossen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Bourne hatte sich freiwillig für Treadstone entschieden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-016-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-016-S2",
+      "goal_kind": "content",
+      "interest_reason": "Ein vorheriger Handlungsschritt wird mit seiner Wirkung auf den Schluss verbunden.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Paz erinnert sich daran, dass Bourne ihn verschont hat."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-016-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-016-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der konkrete Vorgänger verankert das Jahr und erklärt die erzählerische Verbindung.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/69358b29-8324-5c8e-96e9-fdde46982d8b/the-bourne-ultimatum",
+          "checked_on": "2026-10-08",
+          "supports": "2004 Die Bourne Verschwörung, 2007 Das Bourne Ultimatum: drei Jahre Abstand."
+        },
+        {
+          "key": "vorgaenger",
+          "url": "https://www.bfi.org.uk/film/489d9531-6e89-5572-9afe-6b5a975957ac/the-bourne-supremacy",
+          "checked_on": "2026-10-08",
+          "supports": "2004 Die Bourne Verschwörung, 2007 Das Bourne Ultimatum: drei Jahre Abstand."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.co.uk/detail/news-photo/actor-matt-damon-director-paul-greengrass-producers-frank-news-photo/75662026",
+          "checked_on": "2026-10-08",
+          "supports": "2004 Die Bourne Verschwörung, 2007 Das Bourne Ultimatum: drei Jahre Abstand."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "2004 Die Bourne Verschwörung, 2007 Das Bourne Ultimatum: drei Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-016-D",
+      "knowledge_id": "K-G100-20261008-ACTION-016-D",
+      "goal_kind": "director",
+      "interest_reason": "Der konkrete Filmcredit wird von anderen Regisseuren der Reihe getrennt.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/69358b29-8324-5c8e-96e9-fdde46982d8b/the-bourne-ultimatum",
+          "checked_on": "2026-10-08",
+          "supports": "Paul Greengrass inszenierte den dritten Bourne-Kinofilm."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-017-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-017-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der persönliche Rahmen ist ein leichtes, von der Täterjagd unabhängiges Ziel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_3",
+          "checked_on": "2026-10-08",
+          "supports": "Murtaugh plant, in den Ruhestand zu gehen."
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59301",
+          "checked_on": "2026-10-08",
+          "supports": "Murtaugh plant, in den Ruhestand zu gehen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-017-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-017-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die gleichartigen Polizeibereiche verlangen Kenntnis ihrer konkreten Funktion.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_3",
+          "checked_on": "2026-10-08",
+          "supports": "Lorna Cole arbeitet für die internen Ermittlungen."
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59301",
+          "checked_on": "2026-10-08",
+          "supports": "Lorna Cole arbeitet für die internen Ermittlungen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-017-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-017-M1",
+      "goal_kind": "content",
+      "interest_reason": "Das persönliche Verhältnis erklärt die Wirkung des Schusswechsels.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_3",
+          "checked_on": "2026-10-08",
+          "supports": "Murtaugh hat einen Freund seines Sohnes erschossen."
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59301",
+          "checked_on": "2026-10-08",
+          "supports": "Murtaugh hat einen Freund seines Sohnes erschossen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-017-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-017-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Herkunft erklärt Coles Zuständigkeit und die besondere Form des Waffenhandels.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_3",
+          "checked_on": "2026-10-08",
+          "supports": "Travis bringt beschlagnahmte Polizeiwaffen zurück in Umlauf."
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59301",
+          "checked_on": "2026-10-08",
+          "supports": "Travis bringt beschlagnahmte Polizeiwaffen zurück in Umlauf."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-017-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-017-S1",
+      "goal_kind": "content",
+      "interest_reason": "Ein eingeführtes Detail erhält im Schluss eine andere Funktion.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_3",
+          "checked_on": "2026-10-08",
+          "supports": "Die panzerbrechenden Geschosse durchschlagen das Metall."
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59301",
+          "checked_on": "2026-10-08",
+          "supports": "Die panzerbrechenden Geschosse durchschlagen das Metall."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-017-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-017-S2",
+      "goal_kind": "content",
+      "interest_reason": "Das AFI dokumentiert die Doppelung und ihre Ursache ausdrücklich.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59301",
+          "checked_on": "2026-10-08",
+          "supports": "Boams eigener Entwurf und seine Teamarbeit erhielten getrennte Anerkennung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-017-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-017-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Reihenbeginn liefert einen klaren weiteren Zeitanker.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59301",
+          "checked_on": "2026-10-08",
+          "supports": "1987 begann die Reihe, 1992 erschien der dritte Film: fünf Jahre Abstand."
+        },
+        {
+          "key": "reihenstart",
+          "url": "https://catalog.afi.com/Film/68361-LETHAL-WEAPON",
+          "checked_on": "2026-10-08",
+          "supports": "1987 begann die Reihe, 1992 erschien der dritte Film: fünf Jahre Abstand."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-017-D",
+      "knowledge_id": "K-G100-20261008-ACTION-017-D",
+      "goal_kind": "director",
+      "interest_reason": "Plausible Namen aus der Actionproduktion machen die Creditkenntnis entscheidend.",
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59301",
+          "checked_on": "2026-10-08",
+          "supports": "Richard Donner inszenierte den dritten Lethal-Weapon-Film."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/b8b4d65d-61d6-5cda-8cd6-5b5da7d85c82/lethal-weapon-3",
+          "checked_on": "2026-10-08",
+          "supports": "Richard Donner inszenierte den dritten Lethal-Weapon-Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-018-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-018-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die Unterkunft verbindet Polizeifall und Familiengeschichte.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_4",
+          "checked_on": "2026-10-08",
+          "supports": "Murtaugh beherbergt die Familie Hong bei sich."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-018-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-018-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das Geheimnis erklärt eine wiederkehrende komische Beziehung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_4",
+          "checked_on": "2026-10-08",
+          "supports": "Lee Butters ist der Vater von Riannes Kind."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-018-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-018-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der Zusammenhang erklärt, warum Menschenschmuggel und Falschgeld denselben Fall bilden.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_4",
+          "checked_on": "2026-10-08",
+          "supports": "Der Onkel graviert Druckplatten für Falschgeld."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-018-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-018-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der ungewöhnliche Befragungsort trägt Handlung und Komik zugleich.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_4",
+          "checked_on": "2026-10-08",
+          "supports": "Lachgas unterstützt die Befragung beim Zahnarzt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-018-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-018-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Verwandtschaft erklärt Kus persönliche Beteiligung an dem Handel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_4",
+          "checked_on": "2026-10-08",
+          "supports": "Unter den gefangenen Triadenführern befindet sich Kus Bruder."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-018-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-018-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Abschlussentscheidung greift die Entwicklung des Helden über die Reihe hinweg auf.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_4",
+          "checked_on": "2026-10-08",
+          "supports": "Riggs und Lorna werden im Krankenhaus symbolisch von einem Rabbi getraut."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-018-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-018-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die Jahreszahl verbindet Reihenbeginn und familiären Abschluss.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/61010",
+          "checked_on": "2026-10-08",
+          "supports": "Der vierte Film erschien 1998."
+        },
+        {
+          "key": "anfang",
+          "url": "https://catalog.afi.com/Film/68361-LETHAL-WEAPON",
+          "checked_on": "2026-10-08",
+          "supports": "Der vierte Film erschien 1998."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-018-D",
+      "knowledge_id": "K-G100-20261008-ACTION-018-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Zuordnung unterscheidet drei häufig verwechselte kreative Rollen.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/61010",
+          "checked_on": "2026-10-08",
+          "supports": "Richard Donner inszenierte den vierten Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-019-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-019-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Schauplatz erklärt die ungewohnte Abhängigkeit der amerikanischen Ermittler.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Black_Rain_(1989_American_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Gefangenentransport führt nach Osaka."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-019-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-019-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Täuschung setzt den eigentlichen Japan-Fall in Gang.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Black_Rain_(1989_American_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Beamten übergeben Sato an falsche Polizisten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-019-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-019-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der Auslöser macht die geplante Eskalation nachvollziehbar.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Black_Rain_(1989_American_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Charlie verfolgt den Dieb seines Mantels in die Garage."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-019-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-019-M2",
+      "goal_kind": "content",
+      "interest_reason": "Das Geständnis verbindet den Auslandsfall mit seinem ungelösten persönlichen Konflikt.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Black_Rain_(1989_American_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Nick gesteht die Unterschlagung von beschlagnahmtem Geld."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-019-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-019-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Schlussentscheidung zeigt die Veränderung des Ermittlers.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Black_Rain_(1989_American_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Nick entscheidet sich für Satos lebende Festnahme."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-019-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-019-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die kleine Schlusshandlung beantwortet eine zentrale Frage nach Nicks Integrität.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Black_Rain_(1989_American_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Geschenkbox enthält die gesuchten Druckplatten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-019-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-019-Y",
+      "goal_kind": "year",
+      "interest_reason": "Ein konkreter früherer Scott-Film verankert das Erscheinungsjahr.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/57924-BLACK-RAIN",
+          "checked_on": "2026-10-08",
+          "supports": "Black Rain erschien 1989."
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/Blade_Runner",
+          "checked_on": "2026-10-08",
+          "supports": "Black Rain erschien 1989."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-019-D",
+      "knowledge_id": "K-G100-20261008-ACTION-019-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Film wird einem konkreten Regiewerk zugeordnet.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/57924-BLACK-RAIN",
+          "checked_on": "2026-10-08",
+          "supports": "Ridley Scott führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Black_Rain_(1989_American_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ridley Scott führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-020-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-020-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf macht Chevs Verwicklung in den Machtkampf verständlich.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Crank_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Chev arbeitet als Auftragskiller."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-020-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-020-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Regel erklärt die ungewöhnliche Verkettung der Actionszenen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Crank_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Chev braucht immer neue Adrenalinschübe."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-020-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-020-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Enthüllung verbindet eine frühere Entscheidung mit dem Wendepunkt im Finale.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Crank_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Don Kim erwidert Chevs Verschonung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-020-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-020-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Verrat erklärt den Zusammenhang zwischen Vergiftung und Bandenpolitik.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Crank_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Carlito macht Chev zum Opfer seiner Absicherung gegenüber den Triaden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-020-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-020-S1",
+      "goal_kind": "content",
+      "interest_reason": "Der Hinterhalt zeigt die gezielte Ausnutzung des Informationsnetzes.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Crank_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Anruf des Informanten war erzwungen und führte in eine Falle."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-020-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-020-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die Schlusshandlung setzt einen persönlichen Akzent in die rasante Verfolgung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Crank_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Chev nutzt den Fall für einen Abschiedsanruf bei Eve."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-020-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-020-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die zeitliche Verbindung ordnet zwei markante Statham-Rollen.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/99342a09-6960-52a7-b7f7-ae36edbf369e/crank",
+          "checked_on": "2026-10-08",
+          "supports": "Crank erschien 2006."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Crank_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Crank erschien 2006."
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/The_Transporter",
+          "checked_on": "2026-10-08",
+          "supports": "Crank erschien 2006."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-020-D",
+      "knowledge_id": "K-G100-20261008-ACTION-020-D",
+      "goal_kind": "director",
+      "interest_reason": "Die Frage prüft einen vollständigen Teamcredit.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/99342a09-6960-52a7-b7f7-ae36edbf369e/crank",
+          "checked_on": "2026-10-08",
+          "supports": "Mark Neveldine und Brian Taylor führten gemeinsam Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Crank_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Mark Neveldine und Brian Taylor führten gemeinsam Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-021-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-021-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Beruf grenzt den Filmhelden von einem Polizisten oder Berufskiller ab.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Death_Wish_(1974_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Paul Kersey ist Architekt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-021-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-021-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Unterscheidung ordnet den konkreten Verlust innerhalb der Familie.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Death_Wish_(1974_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Joanna Kersey stirbt an den Folgen des Überfalls."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-021-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-021-M1",
+      "goal_kind": "content",
+      "interest_reason": "Die Herkunft der Waffe verbindet Dienstreise und spätere Eskalation.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Death_Wish_(1974_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Ames Jainchill schenkt Paul den Revolver."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-021-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-021-M2",
+      "goal_kind": "content",
+      "interest_reason": "Der Zusammenhang unterscheidet Selbstjustiz von der Auflösung eines konkreten Rachefalls.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Death_Wish_(1974_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Kersey überträgt seine Vergeltung auf später angetroffene Straßenräuber."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-021-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-021-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Entscheidung zeigt den institutionellen Widerspruch im Umgang mit Selbstjustiz.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Death_Wish_(1974_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Behörden fürchten, Kersey könne zum Märtyrer für Nachahmer werden."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-021-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-021-S2",
+      "goal_kind": "content",
+      "interest_reason": "Die ungewöhnliche Zusammenarbeit erschließt eine Gestaltungsebene des Films.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54021-DEATH-WISH",
+          "checked_on": "2026-10-08",
+          "supports": "Herbie Hancock schrieb die Filmmusik."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Death_Wish_(1974_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Herbie Hancock schrieb die Filmmusik."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-021-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-021-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Vergleich ordnet den Film in die damalige Gewaltdebatte ein.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54021-DEATH-WISH",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Death-Wish-Film erschien 1974."
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Death-Wish-Film erschien 1974."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Death_Wish_(1974_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Death-Wish-Film erschien 1974."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-021-D",
+      "knowledge_id": "K-G100-20261008-ACTION-021-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Credit ordnet die berühmte Bronson-Rolle der richtigen Zusammenarbeit zu.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54021-DEATH-WISH",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Winner führte Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Death_Wish_(1974_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Winner führte Regie."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-022-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-022-L1",
+      "goal_kind": "content",
+      "interest_reason": "Das Fahrzeug ist ein prägendes und leicht zugängliches Bildmotiv.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Kowalski fährt einen weißen Dodge Challenger."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-022-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-022-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die ungewöhnliche Unterstützung erklärt die zentrale Rolle der Radiosendung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Super Soul hilft über die Radiosendung."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-022-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-022-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der Zusammenhang erklärt den selbst gewählten Zeitdruck hinter dem beruflichen Auftrag.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Kowalski wettet auf eine Ankunft vor dem regulären Liefertermin."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-022-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-022-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die List zeigt eine andere Fluchtmethode als bloß höhere Geschwindigkeit.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Angel unterstützt eine Tarnung als Polizeiwagen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-022-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-022-S1",
+      "goal_kind": "content",
+      "interest_reason": "Die Vorgeschichte verändert den Blick auf den Konflikt mit der Polizei.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Kowalski wurde nach seinem Eingreifen gegen einen Vorgesetzten aus der Polizei ausgeschlossen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-022-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-022-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Aufbau erklärt, wie der Film seine Verfolgung von Anfang an mit einem drohenden Endpunkt verbindet.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54161-VANISHING-POINT",
+          "checked_on": "2026-10-08",
+          "supports": "Die Eröffnung nimmt die spätere Sperre vorweg; danach springt die Erzählung zurück."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Eröffnung nimmt die spätere Sperre vorweg; danach springt die Erzählung zurück."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-022-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-022-Y",
+      "goal_kind": "year",
+      "interest_reason": "Die Jahreszahl wird an eine andere prägende Filmverfolgung angebunden.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54161-VANISHING-POINT",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1971."
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/Bullitt",
+          "checked_on": "2026-10-08",
+          "supports": "Der Film erschien 1971."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-022-D",
+      "knowledge_id": "K-G100-20261008-ACTION-022-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Regiecredit grenzt verwandte Roadmovie-Werke voneinander ab.",
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54161-VANISHING-POINT",
+          "checked_on": "2026-10-08",
+          "supports": "Richard C. Sarafian inszenierte Vanishing Point."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)",
+          "checked_on": "2026-10-08",
+          "supports": "Richard C. Sarafian inszenierte Vanishing Point."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/7ac0ed27-7fb6-5839-b126-902e34a1a7dd/vanishing-point",
+          "checked_on": "2026-10-08",
+          "supports": "Richard C. Sarafian inszenierte Vanishing Point."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-023-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-023-L1",
+      "goal_kind": "content",
+      "interest_reason": "Der Familienwunsch erschließt Nascimentos persönliches Dilemma.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Elite_Squad",
+          "checked_on": "2026-10-08",
+          "supports": "Nascimento sucht wegen seiner Familie einen sichereren Dienstposten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-023-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-023-L2",
+      "goal_kind": "content",
+      "interest_reason": "Das Studium erklärt den Konflikt zwischen zwei sozialen Umgebungen.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Elite_Squad",
+          "checked_on": "2026-10-08",
+          "supports": "Matias studiert Rechtswissenschaft."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-023-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-023-M1",
+      "goal_kind": "content",
+      "interest_reason": "Der zweckgebundene Geldgebrauch macht die institutionelle Korruption greifbar.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Elite_Squad",
+          "checked_on": "2026-10-08",
+          "supports": "Das Geld wird zur Reparatur der Polizeiautos eingesetzt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-023-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-023-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die öffentliche Sichtbarkeit verwandelt einen Einsatz in eine persönliche Bedrohung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Elite_Squad",
+          "checked_on": "2026-10-08",
+          "supports": "Ein Pressefoto enttarnt Matias als Polizisten."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-023-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-023-S1",
+      "goal_kind": "content",
+      "interest_reason": "Der Zusammenhang erklärt die tragische Folge einer kleinen Hilfsentscheidung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Elite_Squad",
+          "checked_on": "2026-10-08",
+          "supports": "Neto übernimmt Matias’ Brillenübergabe und wird an dessen Stelle angegriffen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-023-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-023-S2",
+      "goal_kind": "content",
+      "interest_reason": "Das Finale verdichtet den moralischen Konflikt des Polizeifilms.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Elite_Squad",
+          "checked_on": "2026-10-08",
+          "supports": "Nascimento verlangt von Matias die außergerichtliche Tötung Baianos."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-023-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-023-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Anker unterscheidet brasilianischen Start und spätere Festivalauswertung.",
+      "sources": [
+        {
+          "key": "ancine",
+          "url": "https://www.gov.br/ancine/pt-br/assuntos/noticias/producoes-brasileiras-independentes-estrelam-campanha-publicitaria-da-ancine",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Tropa-de-Elite-Film erschien 2007."
+        },
+        {
+          "key": "presse",
+          "url": "https://bossa-nova.info/actualite/2008/tropa_de_elite/ecrans_tropa_de_elite/DP_tropa_de_elite.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Tropa-de-Elite-Film erschien 2007."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/9b7c5b2d-5aef-521e-ac6e-629736313de1/the-city-of-god",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Tropa-de-Elite-Film erschien 2007."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-023-D",
+      "knowledge_id": "K-G100-20261008-ACTION-023-D",
+      "goal_kind": "director",
+      "interest_reason": "Der Credit ordnet den Film innerhalb des brasilianischen Kinos ein.",
+      "sources": [
+        {
+          "key": "presse",
+          "url": "https://bossa-nova.info/actualite/2008/tropa_de_elite/ecrans_tropa_de_elite/DP_tropa_de_elite.pdf",
+          "checked_on": "2026-10-08",
+          "supports": "José Padilha inszenierte Tropa de Elite."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Elite_Squad",
+          "checked_on": "2026-10-08",
+          "supports": "José Padilha inszenierte Tropa de Elite."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-024-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-024-L1",
+      "goal_kind": "content",
+      "interest_reason": "Das Kind gibt der langen Actionkette ein klares persönliches Ziel.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Smith übernimmt den Schutz eines Neugeborenen."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-024-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-024-L2",
+      "goal_kind": "content",
+      "interest_reason": "Der markante Gegenstand erschließt den überzeichneten Ton des Films.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Smith setzt eine Karotte als Waffe ein."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-024-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-024-M1",
+      "goal_kind": "content",
+      "interest_reason": "Eine Reaktion des Kindes trägt die Ermittlung weiter.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Heavy Metal beruhigt das Baby und weist auf den Club."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-024-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-024-M2",
+      "goal_kind": "content",
+      "interest_reason": "Die Enthüllung erklärt den ungewöhnlichen politischen Grund der Jagd.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Die Kinder wurden als mögliche Knochenmarkspender gezeugt."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-024-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-024-S1",
+      "goal_kind": "content",
+      "interest_reason": "Das kleine Indiz verändert Smiths Einschätzung der Machtverhältnisse.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Hundehaare verraten Rutledges Kontakt zu Hammerson."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-024-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-024-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Schluss greift die ungewöhnlichen Waffenlösungen des Films auf.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Smith improvisiert mit Patronen und Kaminhitze."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-024-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-024-Y",
+      "goal_kind": "year",
+      "interest_reason": "Zwei konkrete Owen-Rollen verbinden Jahr und Schutzmotiv.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/ea15b9da-048f-590c-b11a-a514f47e667b/shoot-em-up",
+          "checked_on": "2026-10-08",
+          "supports": "Shoot ’Em Up erschien 2007."
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/Children_of_Men",
+          "checked_on": "2026-10-08",
+          "supports": "Shoot ’Em Up erschien 2007."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Shoot ’Em Up erschien 2007."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-024-D",
+      "knowledge_id": "K-G100-20261008-ACTION-024-D",
+      "goal_kind": "director",
+      "interest_reason": "Der gemeinsame Credit verbindet die Actionszenen mit ihrer erzählerischen Konzeption.",
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/ea15b9da-048f-590c-b11a-a514f47e667b/shoot-em-up",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Davis schrieb und inszenierte den Film."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Michael Davis schrieb und inszenierte den Film."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-025-L1",
+      "knowledge_id": "K-G100-20261008-ACTION-025-L1",
+      "goal_kind": "content",
+      "interest_reason": "Die Vorgeschichte begründet Reachers besondere Ermittlungsfähigkeiten.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Reacher ist ein ehemaliger Militärpolizei-Ermittler."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.paramount.de/jack-reacher",
+          "checked_on": "2026-10-08",
+          "supports": "Reacher ist ein ehemaliger Militärpolizei-Ermittler."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-025-L2",
+      "knowledge_id": "K-G100-20261008-ACTION-025-L2",
+      "goal_kind": "content",
+      "interest_reason": "Die Beziehung erklärt die zusätzliche Spannung zwischen Anklage und Verteidigung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Helen ist die Tochter des Staatsanwalts."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-025-M1",
+      "knowledge_id": "K-G100-20261008-ACTION-025-M1",
+      "goal_kind": "content",
+      "interest_reason": "Das konkrete Beweisstück eröffnet den Gegensatz zwischen Beweisbild und Tatplanung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Eine Münze im Parkautomaten trägt Barrs Fingerabdruck."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-025-M2",
+      "knowledge_id": "K-G100-20261008-ACTION-025-M2",
+      "goal_kind": "content",
+      "interest_reason": "Das Motiv verwandelt die Ausgangstat in eine inszenierte Ablenkung.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der Mehrfachmord tarnt einen gezielten wirtschaftlichen Mord."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-025-S1",
+      "knowledge_id": "K-G100-20261008-ACTION-025-S1",
+      "goal_kind": "content",
+      "interest_reason": "Das taktische Gegenargument erschließt Reachers besondere Methode.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der gewählte Standort passt schlecht zur erwarteten Schützenroutine."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-025-S2",
+      "knowledge_id": "K-G100-20261008-ACTION-025-S2",
+      "goal_kind": "content",
+      "interest_reason": "Der Schluss macht die moralische Grenze der Hauptfigur sichtbar.",
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Reacher reagiert auf die angekündigte Straflosigkeit und Gegenbeschuldigung mit Selbstjustiz."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-025-Y",
+      "knowledge_id": "K-G100-20261008-ACTION-025-Y",
+      "goal_kind": "year",
+      "interest_reason": "Der Anker verbindet zwei konkrete Cruise-Actionrollen und trennt Film und Serie.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.paramount.de/jack-reacher",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Tom-Cruise-Kinofilm erschien 2012."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/dc00adad-bc89-5fc0-bea5-714bc0a6e5f0/mission-impossible-ghost-protocol",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Tom-Cruise-Kinofilm erschien 2012."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Der erste Tom-Cruise-Kinofilm erschien 2012."
+        }
+      ]
+    },
+    {
+      "question_id": "G100-20261008-ACTION-025-D",
+      "knowledge_id": "K-G100-20261008-ACTION-025-D",
+      "goal_kind": "director",
+      "interest_reason": "Der vollständige Credit ordnet die konkrete Romanverfilmung zu.",
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.paramount.de/jack-reacher",
+          "checked_on": "2026-10-08",
+          "supports": "Christopher McQuarrie schrieb und inszenierte Jack Reacher."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+          "checked_on": "2026-10-08",
+          "supports": "Christopher McQuarrie schrieb und inszenierte Jack Reacher."
+        }
+      ]
+    }
+  ]
+}

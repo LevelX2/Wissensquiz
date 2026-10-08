@@ -998,3 +998,7 @@ Nutzerauftrag: alle neun Genres unter 100 Filmen sequenziell erweitern, beginnen
 ## 08.10.2026 – Thriller auf 100 Filme erweitert
 
 26 zusätzliche Filmfassungen / 208 Fragen, nun 100 Thrillerfilme / 812 Fragen. Acht fehlende Kernklassiker ergänzt; weitere Auswahl vorrangig aus der Sammlung. 207 neue Ziele und eine Regievariante zu Blow Up mit bestehender Wissensziel-ID. Alle drei Autorenblöcke unabhängig gegengeprüft; Titelhinweise durch andere Ziele ersetzt, Handlung, Credits und Zeitanker präzisiert. Gesamtkatalog 26 Pakete / 11.429 Fragen / 10.866 Ziele. 385 Tests, TypeScript/Build und neun Browserfälle erfolgreich. Eine irrtümliche Preisreferenz im Kernnachweis vor erfolgreichem Rücklauf korrigiert. Keine echten Nutzerdaten verändert, keine Veröffentlichung oder Push. Sieben Genres mit 168 Filmen / mindestens 1.344 Fragen ausstehend; Action folgt. [Abnahme](../../docs/Genres-100-2026-10-08/Thriller/Pruefbericht.md).
+
+## 08.10.2026 – Genreausbau Action
+
+25 neue Filmfassungen und 200 individuelle Fragen, nun 100 Action-Filme / 828 Fragen. Gesamtkatalog 27 Pakete / 11.629 Fragen / 11.066 Ziele. 386 Logiktests, TypeScript/Build und acht Browserfälle in Chromium/Firefox erfolgreich. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](../../docs/Genres-100-2026-10-08/Action/Pruefbericht.md).

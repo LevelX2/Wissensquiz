@@ -3,6 +3,7 @@
 - [Genres auf 100 Filme: Reihenfolge, Klassikerkern und aktueller Arbeitsstand – 08.10.2026](../../../docs/Genres-100-2026-10-08/Plan.md)
 - [Abenteuer vollständig: 100 Filme / 802 Fragen, Redaktion und App-Abnahme](../../../docs/Genres-100-2026-10-08/Abenteuer/Pruefbericht.md)
 - [Thriller vollständig: 100 Filme / 812 Fragen, Variante und App-Abnahme](../../../docs/Genres-100-2026-10-08/Thriller/Pruefbericht.md)
+- [Action vollständig: 100 Filme / 828 Fragen und App-Abnahme](../../../docs/Genres-100-2026-10-08/Action/Pruefbericht.md)
 
 - [Version 57 veröffentlicht: 200 Bildfragen mit 400 Fotos und 2.480 weitere Fragen](../../../docs/Sites-Betrieb.md#version-57-200-bildfragen-mit-400-fotos-und-2480-weitere-fragen)
 - [Version 57: native Veröffentlichungsdaten, Online- und Duellkatalog](../../../docs/Veroeffentlichung-2026-10-07-Version-57.json)

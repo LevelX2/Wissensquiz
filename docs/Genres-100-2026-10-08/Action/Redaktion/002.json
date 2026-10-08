@@ -1,0 +1,208 @@
+{
+  "rank": 2,
+  "directors": [
+    "John Carpenter"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI: Los Angeles am 3. November 1976. Carpenters offizielle Filmseite nennt den 10. November 1976; die Abweichung betrifft den Tag, nicht das erste Veröffentlichungsjahr.",
+  "familiarity_reason": "Einflussreicher Belagerungsfilm und frühes Schlüsselwerk Carpenters; Bekanntheit 3.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Assault_on_Precinct_13_(1976_film)",
+    "archiv": "https://catalog.afi.com/Film/56075-ASSAULT-ON-PRECINCT-13",
+    "regisseur": "https://theofficialjohncarpenter.com/assault-of-precinct-13/",
+    "vergleich": "https://www.bfi.org.uk/lists/great-action-film-every-year-1924-now"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Situation kennzeichnet die Polizeiwache in @ vor Beginn der Belagerung?",
+      "answers": [
+        "Sie soll geschlossen werden",
+        "Sie wird gerade neu eröffnet",
+        "Sie beherbergt eine Großrazzia",
+        "Sie dient als Ausbildungszentrum"
+      ],
+      "feedback": [
+        "Die Wache wird außer Betrieb genommen und ist nur noch schwach besetzt.",
+        "Eine Neueröffnung ist nicht geplant.",
+        "Eine Großrazzia erklärt die Besetzung nicht.",
+        "Die Wache wird nicht als Ausbildungszentrum eingeführt."
+      ],
+      "short": "Die belagerte Polizeiwache steht kurz vor ihrer Schließung.",
+      "context": "Ethan Bishop (Austin Stoker) soll in seiner ersten Nacht als Lieutenant eine Wache beaufsichtigen, die gerade stillgelegt wird. Personal und Ausstattung sind bereits reduziert. Dann kommen ein Gefangenentransport und ein verfolgter Vater hinzu. Der scheinbar unspektakuläre Dienst wird zur Belagerung. Die bevorstehende Schließung erklärt, warum ein Polizeigebäude hier überraschend wenig Schutz und kaum Reserven für die Eingeschlossenen bietet.",
+      "anchor": "Die belagerte Polizeiwache steht kurz vor ihrer Schließung.",
+      "interest": "Die Ausgangslage erklärt die besondere Verwundbarkeit des Schauplatzes.",
+      "sources": [
+        "film",
+        "regisseur"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Mit wem muss Lieutenant Bishop (Austin Stoker) in @ zur Verteidigung der Wache zusammenarbeiten?",
+      "answers": [
+        "Mit den festgehaltenen Gefangenen",
+        "Mit eintreffenden Streifenpolizisten",
+        "Mit bewaffneten Nachbarn",
+        "Mit einer privaten Wachfirma"
+      ],
+      "feedback": [
+        "Die Gefangenen werden zu Verbündeten der Eingeschlossenen.",
+        "Verstärkung durch weitere Streifen bildet nicht das Team während der Belagerung.",
+        "Bewaffnete Nachbarn kommen nicht zur gemeinsamen Verteidigung hinzu.",
+        "Eine Wachfirma unterstützt die Eingeschlossenen nicht."
+      ],
+      "short": "Polizist und Gefangene bilden eine gemeinsame Verteidigung.",
+      "context": "Napoleon Wilson (Darwin Joston) und Wells (Tony Burton) sitzen zunächst als Gefangene in der Wache. Der Angriff der Gang verändert die Fronten: Lieutenant Bishop (Austin Stoker) braucht ihre Hilfe, um die Eingeschlossenen zu verteidigen. Waffen und Vertrauen ersetzen vorübergehend die übliche Beziehung zwischen Bewachern und Bewachten. Diese Zweckgemeinschaft trägt die Handlung und stellt das Verhalten der Figuren über ihren amtlichen Status.",
+      "anchor": "Polizist und Gefangene bilden eine gemeinsame Verteidigung.",
+      "interest": "Eine zentrale, ungewöhnliche Allianz als zugänglicher Einstieg.",
+      "sources": [
+        "film",
+        "regisseur"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum flieht Lawson (Martin West) in @ vor den Gangmitgliedern in die Polizeiwache?",
+      "answers": [
+        "Er hat den Mörder seiner Tochter erschossen",
+        "Er hat ihre gestohlenen Waffen entdeckt",
+        "Er hat ihr Schutzgeld unterschlagen",
+        "Er hat einen ihrer Gefangenen befreit"
+      ],
+      "feedback": [
+        "Nach dem Mord an seiner Tochter erschießt er einen Gangführer und wird verfolgt.",
+        "Ein Waffenfund ist nicht der Anlass seiner Flucht.",
+        "Unterschlagenes Schutzgeld spielt dabei keine Rolle.",
+        "Er hat keinen Gefangenen der Gang befreit."
+      ],
+      "short": "Lawson sucht nach seiner Vergeltung am Mörder seiner Tochter Schutz.",
+      "context": "Kathy (Kim Richards) wird beim Eiswagen von einem Gangführer erschossen. Ihr Vater Lawson (Martin West) verfolgt die Täter und erschießt den Mörder. Als seine Munition ausgeht, flieht er zur Polizeiwache und kann den dortigen Beamten vor Schock kaum erklären, was geschehen ist. Die Gang verfolgt ihn weiter. So verbindet eine persönliche Vergeltungstat die zunächst getrennten Handlungsstränge.",
+      "anchor": "Lawson sucht nach seiner Vergeltung am Mörder seiner Tochter Schutz.",
+      "interest": "Erklärt, warum der zivile Flüchtling zum Auslöser der Belagerung wird.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie verbergen die Angreifer in @ zwischen den Angriffswellen Spuren ihrer Belagerung?",
+      "answers": [
+        "Sie entfernen die Leichen vor der Wache",
+        "Sie verkleiden sich als Feuerwehrleute",
+        "Sie lassen Polizeiwagen um das Gebäude patrouillieren",
+        "Sie melden die Schüsse als Filmaufnahmen"
+      ],
+      "feedback": [
+        "Die entfernten Leichen lassen die Straße wieder unauffällig erscheinen.",
+        "Eine Feuerwehrverkleidung ist nicht ihre Täuschung.",
+        "Keine vorgetäuschte Polizeistreife deckt die Belagerung.",
+        "Sie geben die Schüsse nicht als Filmaufnahmen aus."
+      ],
+      "short": "Die Gang entfernt die Leichen, um Aufmerksamkeit von außen zu vermeiden.",
+      "context": "Nach einer Angriffswelle sieht Lieutenant Bishop (Austin Stoker), dass die Toten vor der Wache verschwunden sind. Die Gang arbeitet außerdem mit Schalldämpfern; Telefon und Strom sind ausgefallen. Für die Eingeschlossenen ist die Gefahr unmittelbar, von außen bleibt sie schwer erkennbar. Die Spurenbeseitigung erklärt mit, warum das Polizeigebäude nicht rasch Verstärkung erhält und die Verteidiger immer stärker auf sich selbst gestellt sind.",
+      "anchor": "Die Gang entfernt die Leichen, um Aufmerksamkeit von außen zu vermeiden.",
+      "interest": "Ein nachvollziehbarer Zusammenhang zwischen Angriffstaktik und Isolation.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Woran scheitert Wells’ (Tony Burton) Versuch, in @ mit einem gestohlenen Auto Hilfe zu holen?",
+      "answers": [
+        "Ein Angreifer versteckt sich auf dem Rücksitz",
+        "Die Gang hat das Zündkabel entfernt",
+        "Der Wagen ist mit Sprengstoff präpariert",
+        "Eine Straßensperre fängt ihn ab"
+      ],
+      "feedback": [
+        "Der versteckte Angreifer erschießt Wells vor seinem Hilferuf.",
+        "Ein entferntes Zündkabel verhindert die Fahrt nicht.",
+        "Eine Autobombe beendet seinen Versuch nicht.",
+        "Er wird nicht an einer Straßensperre aufgehalten."
+      ],
+      "short": "Wells entkommt dem Gebäude, aber im Auto wartet ein Angreifer.",
+      "context": "Wells (Tony Burton) kriecht durch einen Tunnel zu einem Schacht außerhalb der Wache. Er schließt ein Auto kurz und scheint der Belagerung entkommen zu sein. Doch ein Gangmitglied hat sich auf dem Rücksitz versteckt und erschießt ihn, bevor er Hilfe holen kann. Der Rettungsversuch scheitert dadurch außerhalb des Gebäudes. Die übrigen Verteidiger erfahren nichts von seinem Tod und können weiterhin auf Hilfe hoffen.",
+      "anchor": "Wells entkommt dem Gebäude, aber im Auto wartet ein Angreifer.",
+      "interest": "Eine falsche Entspannung verbindet Spannung mit dem gescheiterten Hilferuf.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Womit sprengt Bishop (Austin Stoker) in @ den engen Zugang zum Keller, als die Gang zuletzt eindringt?",
+      "answers": [
+        "Mit einem Acetylenbehälter",
+        "Mit einer Handgranate",
+        "Mit einer Benzinbombe",
+        "Mit gestohlenen Sprengladungen"
+      ],
+      "feedback": [
+        "Ein Schuss löst die Explosion des vorbereiteten Gasbehälters aus.",
+        "Eine Handgranate ist nicht die entscheidende Sprengquelle.",
+        "Keine geworfene Benzinbombe beendet den Angriff.",
+        "Gestohlene Sprengladungen werden dafür nicht verwendet."
+      ],
+      "short": "Ein Acetylenbehälter wird zur letzten Verteidigungswaffe.",
+      "context": "Die Verteidiger ziehen sich in den Keller zurück, weil der schmale Zugang leichter zu halten ist. Bishop (Austin Stoker) bereitet dort einen Acetylenbehälter vor. Als die Angreifer den Gang füllen, löst er mit einem Schuss die Explosion aus. Zusammen mit Wilson (Darwin Joston) schützt er sich hinter einem großen Metallschild. Die letzte Abwehr nutzt damit den engen Raum und einen improvisierten Schutz.",
+      "anchor": "Ein Acetylenbehälter wird zur letzten Verteidigungswaffe.",
+      "interest": "Verknüpft räumliche Verteidigung, knappe Munition und das Schlussmanöver.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Austin Stoker und Darwin Joston erstmals veröffentlicht?",
+      "answers": [
+        "1976",
+        "1973",
+        "1978",
+        "1981"
+      ],
+      "feedback": [
+        "Der erste US-Kinostart lag im November 1976.",
+        "1973 ist für diesen Film zu früh.",
+        "1978 folgte bereits Carpenters Halloween.",
+        "1981 gehört zu einer späteren Phase seiner Laufbahn."
+      ],
+      "short": "1959 Rio Bravo, 1976 Assault: siebzehn Jahre Abstand.",
+      "context": "Assault – Anschlag bei Nacht erschien 1976. Seine Belagerungsidee greift Rio Bravo von 1959 auf, also einen siebzehn Jahre älteren Western. Dort verteidigen ebenfalls wenige Verbündete einen begrenzten Raum gegen eine Übermacht. Carpenter überträgt diese Konstellation in eine ausgedünnte Polizeiwache in Los Angeles. Der Zeitanker verbindet zwei konkrete Werke und macht die Verbindung zwischen Westerntradition und modernem Stadtthriller nachvollziehbar.",
+      "anchor": "1959 Rio Bravo, 1976 Assault: siebzehn Jahre Abstand.",
+      "interest": "Zeitlicher Anker über die belegte Verbindung zum Westernvorbild.",
+      "sources": [
+        "archiv",
+        "film",
+        "vergleich"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Austin Stoker und Darwin Joston Regie?",
+      "answers": [
+        "John Carpenter",
+        "Walter Hill",
+        "Don Siegel",
+        "George A. Romero"
+      ],
+      "feedback": [
+        "Carpenter verantwortet Regie, Drehbuch und Musik.",
+        "Hill führte hier nicht Regie.",
+        "Siegel ist nicht der Regisseur dieses Films.",
+        "Romero ist nicht im Regiecredit genannt."
+      ],
+      "short": "John Carpenter inszenierte Assault – Anschlag bei Nacht.",
+      "context": "John Carpenter schrieb das Drehbuch, inszenierte den Film und komponierte dessen Musik. Er schnitt ihn außerdem unter dem Namen John T. Chance, einer Anspielung auf John Waynes Figur in Rio Bravo. Die wenigen Räume und wiederkehrenden Angriffswellen erlauben ihm eine stark konzentrierte Spannungsgestaltung. Der offizielle Regiecredit lautet trotzdem schlicht John Carpenter; der andere Name gehört zur Arbeit am Schnitt.",
+      "anchor": "John Carpenter inszenierte Assault – Anschlag bei Nacht.",
+      "interest": "Unterscheidet den Regienamen vom bewusst verwendeten Schnittpseudonym.",
+      "sources": [
+        "regisseur",
+        "archiv"
+      ]
+    }
+  ]
+}

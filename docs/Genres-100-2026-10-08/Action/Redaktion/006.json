@@ -1,0 +1,202 @@
+{
+  "rank": 6,
+  "directors": [
+    "William Friedkin"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI: Los Angeles und New York am 1. November 1985.",
+  "familiarity_reason": "Markanter Gegenpol zu konventionellen Polizeifilmen der 1980er mit Geldfälschung und riskanter Verfolgung; Bekanntheit 3.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/To_Live_and_Die_in_L.A._(film)",
+    "archiv": "https://catalog.afi.com/Film/67349-TO-LIVEANDDIEINLA"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Für welche Behörde arbeiten Chance und Vukovich (William Petersen, John Pankow) in @?",
+      "answers": [
+        "Secret Service",
+        "FBI",
+        "Los Angeles Police Department",
+        "US Marshals Service"
+      ],
+      "feedback": [
+        "Die beiden sind Agenten des Secret Service.",
+        "Sie gehören nicht zum FBI.",
+        "Sie sind keine Beamten des LAPD.",
+        "Der Marshals Service ist nicht ihre Behörde."
+      ],
+      "short": "Chance und Vukovich arbeiten für den Secret Service.",
+      "context": "Richard Chance (William Petersen) und John Vukovich (John Pankow) arbeiten für den Secret Service. Ihr Tätigkeitsfeld umfasst den Schutz des Präsidenten und die Bekämpfung von Geldfälschung. Die Handlung beginnt mit einer Schutzaufgabe, verlagert sich dann aber auf ein Falschgeldgeschäft. Die Behördenzugehörigkeit erklärt diesen Wechsel: Der Film begleitet keine gewöhnliche Mordkommission, sondern Agenten, deren Aufgaben beide Bereiche miteinander verbinden.",
+      "anchor": "Chance und Vukovich arbeiten für den Secret Service.",
+      "interest": "Ein zugänglicher Zusammenhang zwischen Behörde und verschiedenen Einsätzen.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Womit verdient Rick Masters (Willem Dafoe) in @ sein kriminelles Geld?",
+      "answers": [
+        "Mit gefälschten Banknoten",
+        "Mit gestohlenen Gemälden",
+        "Mit geschmuggelten Waffen",
+        "Mit manipulierten Rennwetten"
+      ],
+      "feedback": [
+        "Masters stellt Falschgeld her und verkauft es.",
+        "Seine Kunsttätigkeit ist nicht das abgefragte Geschäft mit gestohlenen Gemälden.",
+        "Waffenschmuggel ist nicht der zentrale Handel.",
+        "Rennwetten bilden nicht die Grundlage seines Geschäfts."
+      ],
+      "short": "Masters produziert und handelt mit Falschgeld.",
+      "context": "Rick Masters (Willem Dafoe) ist Künstler und Geldfälscher. Sein eigentliches kriminelles Geschäft besteht im Herstellen und Verkaufen falscher Banknoten, abgesichert durch Helfer und Gewalt. Richard Chance (William Petersen) will ihn nach dem Tod seines Kollegen unbedingt überführen. Für die Ermittlung werden deshalb Kontakte zu Käufern, Kurieren und Anwälten wichtig. Das Verbrechen beruht auf einem Vertriebsnetz, das nicht mit dem Fälschen allein beendet ist.",
+      "anchor": "Masters produziert und handelt mit Falschgeld.",
+      "interest": "Das zentrale Geschäft erklärt den späteren verdeckten Kauf.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Warum überfallen Chance und Vukovich (William Petersen, John Pankow) in @ einen vermeintlichen Geldkurier?",
+      "answers": [
+        "Sie brauchen echtes Geld für einen verdeckten Falschgeldkauf",
+        "Sie wollen einen Informanten für belastende Aussagen bezahlen",
+        "Sie wollen die Herausgabe einer beschlagnahmten Lieferung erkaufen",
+        "Sie wollen einen bestochenen Mittelsmann zur Zusammenarbeit bewegen"
+      ],
+      "feedback": [
+        "Die geforderten 30.000 Dollar Vorschuss sollen den verdeckten Kauf ermöglichen.",
+        "Das Geld ist kein Honorar für die Aussage eines Informanten.",
+        "Die Freigabe einer sichergestellten Lieferung ist nicht das Ziel.",
+        "Sie erkaufen damit nicht die Zusammenarbeit eines Mittelsmanns."
+      ],
+      "short": "Die Agenten beschaffen Geld für den verdeckten Kauf durch einen Raub.",
+      "context": "Masters (Willem Dafoe) verlangt 30.000 Dollar Vorschuss für das angebliche Geschäft der verdeckt ermittelnden Agenten. Die Behörde stellt das Geld nicht bereit. Chance (William Petersen) drängt seinen Partner Vukovich (John Pankow) deshalb zu einem illegalen Raub an einem vermeintlichen Teilnehmer eines Diamantengeschäfts. Der Versuch, die Ermittlung zum Erfolg zu zwingen, verwandelt die Ermittler selbst in Täter und setzt eine folgenreiche Verfolgung in Gang.",
+      "anchor": "Die Agenten beschaffen Geld für den verdeckten Kauf durch einen Raub.",
+      "interest": "Ein klarer Zweck erklärt eine entscheidende Grenzüberschreitung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was erfahren die Agenten in @ nach ihrem Raub über den dabei getöteten vermeintlichen Geldkurier?",
+      "answers": [
+        "Er war ein verdeckter FBI-Agent",
+        "Er war Masters’ persönlicher Buchhalter",
+        "Er war ein entlassener Secret-Service-Kollege",
+        "Er war ein diplomatischer Kurier"
+      ],
+      "feedback": [
+        "Bei der Dienstbesprechung erfahren sie von seiner FBI-Zugehörigkeit.",
+        "Die Enthüllung betrifft kein Buchhalterverhältnis zu Masters.",
+        "Er war nicht ein ehemaliger Kollege ihrer eigenen Behörde.",
+        "Diplomatische Immunität ist nicht die Enthüllung."
+      ],
+      "short": "Das Opfer des illegalen Raubs war ein verdeckt arbeitender FBI-Agent.",
+      "context": "Chance und Vukovich (William Petersen, John Pankow) glauben, bei ihrem Raub Geld aus einem illegalen Diamantengeschäft zu erbeuten. Der Mann wird während der Schüsse getötet, und die beiden fliehen vor bewaffneten Verfolgern. Erst bei einer Dienstbesprechung erfahren sie, dass das Opfer ein verdeckter FBI-Agent war. Die vermeintliche Beschaffung von Einsatzgeld hat damit eine andere Ermittlung zerstört und einen Kollegen das Leben gekostet.",
+      "anchor": "Das Opfer des illegalen Raubs war ein verdeckt arbeitender FBI-Agent.",
+      "interest": "Eine späte Information verändert rückwirkend die Bedeutung der Verfolgung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche Verbindung Grimes’ (Dean Stockwell) zu Masters (Willem Dafoe) wird gegen Ende von @ deutlich?",
+      "answers": [
+        "Er arbeitet weiter für Masters und täuscht die Agenten",
+        "Er kooperiert mit den Agenten hinter Masters’ Rücken",
+        "Er vermittelt neutral einen Handel zwischen beiden Seiten",
+        "Er arbeitet verdeckt für das FBI gegen Masters"
+      ],
+      "feedback": [
+        "Seine scheinbare Kooperation gehört zur Täuschung zugunsten von Masters.",
+        "Masters weiß über Grimes’ Angebot an Vukovich Bescheid.",
+        "Grimes steht nicht als neutraler Vermittler zwischen den Parteien.",
+        "Ein verdeckter FBI-Auftrag wird ihm nicht zugeordnet."
+      ],
+      "short": "Grimes’ scheinbare Hilfe gehört zur Täuschung zugunsten von Masters.",
+      "context": "Anwalt Grimes (Dean Stockwell) vermittelt den Kontakt zu Masters (Willem Dafoe) und scheint mit den Agenten zusammenzuarbeiten. Vukovich (John Pankow) erwägt sogar, seinem Rat zu folgen und gegen Chance (William Petersen) auszusagen. Später offenbart Masters, dass Grimes weiterhin für ihn arbeitet. Die vermeintliche Ausstiegshilfe war Teil der Gegenstrategie. Vertrauen in einen Mittelsmann wird dadurch zu einem weiteren Risiko der verdeckten Ermittlung.",
+      "anchor": "Grimes’ scheinbare Hilfe gehört zur Täuschung zugunsten von Masters.",
+      "interest": "Eine rückwirkende Neubewertung der vermeintlich hilfreichen Beratung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie behandelt Vukovich (John Pankow) Ruth (Darlanne Fluegel) im Schluss von @?",
+      "answers": [
+        "Er übernimmt Chances Druck auf sie als Informantin",
+        "Er finanziert ihren Neuanfang außerhalb der Stadt",
+        "Er übergibt sie dem Zeugenschutz des FBI",
+        "Er gesteht ihr den Raub und stellt sich gemeinsam mit ihr"
+      ],
+      "feedback": [
+        "Er bindet sie wie zuvor Chance mit Drohungen an die Informantenrolle.",
+        "Er unterstützt ihren geplanten Wegzug nicht.",
+        "Ein Zeugenschutzprogramm wird nicht eingerichtet.",
+        "Ein gemeinsames Geständnis beendet die Handlung nicht."
+      ],
+      "short": "Vukovich übernimmt gegenüber Ruth die Zwangsmethoden seines toten Partners.",
+      "context": "Ruth (Darlanne Fluegel) möchte Los Angeles verlassen. Nach Chances (William Petersen) Tod sucht Vukovich (John Pankow) sie auf und erklärt, dass sie künftig für ihn arbeiten werde. Er knüpft dabei an die Drohungen an, mit denen Chance ihre Bewährung und ihre Informantentätigkeit kontrolliert hatte. Das Ende zeigt also keinen unbelasteten Neuanfang des zurückhaltenderen Partners. Er setzt ein zuvor abgelehntes Verhalten selbst fort.",
+      "anchor": "Vukovich übernimmt gegenüber Ruth die Zwangsmethoden seines toten Partners.",
+      "interest": "Das Schlussverhalten zeigt die Übertragung korrumpierender Methoden.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit William Petersen und Willem Dafoe erstmals veröffentlicht?",
+      "answers": [
+        "1985",
+        "1981",
+        "1984",
+        "1988"
+      ],
+      "feedback": [
+        "Der US-Kinostart lag am 1. November 1985.",
+        "1981 ist nicht das Veröffentlichungsjahr.",
+        "1984 erschien die Romanvorlage, nicht der fertige Film.",
+        "1988 liegt nach dem ersten Kinostart."
+      ],
+      "short": "1984 Roman, 1985 Leben und Sterben in L.A.: ein Jahr Abstand.",
+      "context": "Leben und Sterben in L.A. erschien 1985, ein Jahr nach Gerald Petievichs Roman von 1984. Petievich war zusammen mit William Friedkin auch am Drehbuch beteiligt. Der knappe Abstand verbindet die Buchveröffentlichung mit einer zeitnahen filmischen Bearbeitung desselben Stoffes. Der Kinostart war im November 1985. Die Beteiligung des Romanautors erklärt außerdem, weshalb sein Name sowohl bei der Vorlage als auch beim Drehbuch auftaucht.",
+      "anchor": "1984 Roman, 1985 Leben und Sterben in L.A.: ein Jahr Abstand.",
+      "interest": "Zeitlicher Zusammenhang zwischen konkret datierter Romanvorlage und Verfilmung.",
+      "sources": [
+        "archiv"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit William Petersen und Willem Dafoe Regie?",
+      "answers": [
+        "William Friedkin",
+        "Michael Mann",
+        "Brian De Palma",
+        "Walter Hill"
+      ],
+      "feedback": [
+        "Friedkin ist als Regisseur und Drehbuchautor genannt.",
+        "Mann inszenierte diesen Film nicht.",
+        "De Palma steht nicht im Regiecredit.",
+        "Hill führte bei dieser Produktion nicht Regie."
+      ],
+      "short": "William Friedkin inszenierte Leben und Sterben in L.A.",
+      "context": "William Friedkin führte Regie und schrieb mit dem Romanautor Gerald Petievich das Drehbuch. Die Kameraarbeit stammt von Robby Müller. Die Ermittlung gegen einen Geldfälscher verbindet Friedkin mit einem Partnerkonflikt, riskanten verdeckten Geschäften und einer Verfolgung entgegen der Verkehrsrichtung. Die offizielle Zuordnung macht zugleich unterschiedliche Beiträge sichtbar: Petievichs Vorlage und Mitarbeit am Drehbuch sind ebenso wenig ein Regiecredit wie Müllers Kameraarbeit.",
+      "anchor": "William Friedkin inszenierte Leben und Sterben in L.A.",
+      "interest": "Ordnet die unterschiedlichen Gestaltungsleistungen des Films.",
+      "sources": [
+        "archiv",
+        "film"
+      ]
+    }
+  ]
+}

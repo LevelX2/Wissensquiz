@@ -1,0 +1,202 @@
+{
+  "rank": 5,
+  "directors": [
+    "Andrei Konchalovsky"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI: Los Angeles am 6. Dezember 1985, New York in derselben Woche. Die spätere breite US-Auswertung und das Copyrightdatum 1986 ändern das erste Veröffentlichungsjahr 1985 nicht.",
+  "familiarity_reason": "Markanter Zug- und Gefängnisfluchtfilm mit Jon Voight; Bekanntheit 3.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Runaway_Train_(film)",
+    "archiv": "https://catalog.afi.com/Film/58337-RUNAWAY-TRAIN"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum werden Manny und Buck (Jon Voight, Eric Roberts) in @ gejagt?",
+      "answers": [
+        "Sie sind aus der Haft ausgebrochen",
+        "Sie haben einen Geldtransport überfallen",
+        "Sie haben einen wichtigen Zeugen entführt",
+        "Sie haben einen Polizisten im Dienst erschossen"
+      ],
+      "feedback": [
+        "Beide fliehen aus dem Gefängnis in Alaska.",
+        "Ein überfallener Geldtransport ist nicht der Anlass ihrer Verfolgung.",
+        "Sie nehmen keinen wichtigen Zeugen als Geisel mit.",
+        "Ein erschossener Polizist ist nicht der Ausgangspunkt ihrer Flucht."
+      ],
+      "short": "Manny und Buck sind entflohene Gefangene.",
+      "context": "Manny (Jon Voight) wird nach einem erfolgreichen Rechtsstreit aus jahrelanger Isolation innerhalb des Gefängnisses entlassen. Für ihn bedeutet das noch keine Freiheit. Nach einem weiteren Angriff plant er die Flucht und nimmt Buck (Eric Roberts) mit. Die Männer überwinden die winterliche Umgebung und verstecken sich in Lokomotiven. Gefängnisdirektor Ranken (John P. Ryan) verfolgt sie, während aus ihrer Flucht eine neue Gefangenschaft im fahrenden Zug wird.",
+      "anchor": "Manny und Buck sind entflohene Gefangene.",
+      "interest": "Die Ausgangslage erklärt die Verfolgung und den Wechsel zwischen zwei Formen der Gefangenschaft.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Rolle hat Sara (Rebecca De Mornay), die Manny und Buck (Jon Voight, Eric Roberts) in @ auf dem Zug antreffen?",
+      "answers": [
+        "Sie ist eine Eisenbahnarbeiterin",
+        "Sie ist eine mitreisende Gefängnisbeamtin",
+        "Sie ist eine verdeckte Ermittlerin",
+        "Sie ist eine ebenfalls geflohene Gefangene"
+      ],
+      "feedback": [
+        "Sara arbeitet bei der Eisenbahn und ist zufällig an Bord.",
+        "Sie begleitet keinen Gefangenentransport.",
+        "Eine verdeckte Ermittlungsmission wird nicht enthüllt.",
+        "Sie ist nicht zusammen mit den Männern ausgebrochen."
+      ],
+      "short": "Sara ist Eisenbahnarbeiterin und zufällig auf dem Zug geblieben.",
+      "context": "Sara (Rebecca De Mornay) ist auf dem Lokomotivverband, weil sie bei der Eisenbahn arbeitet. Manny (Jon Voight) und Buck (Eric Roberts) treffen sie erst, als die Fahrt bereits außer Kontrolle geraten ist. Ihre Anwesenheit erweitert die Geschichte über eine reine Gefangenenflucht hinaus. Sie kann technische Zusammenhänge erklären und widerspricht der Bereitschaft, für den eigenen Vorteil das Leben eines anderen aufs Spiel zu setzen.",
+      "anchor": "Sara ist Eisenbahnarbeiterin und zufällig auf dem Zug geblieben.",
+      "interest": "Eine dritte Perspektive verändert die Zweiergemeinschaft der Flüchtlinge.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was setzt in @ die unkontrollierte Fahrt der Lokomotiven in Gang?",
+      "answers": [
+        "Der Lokführer erleidet einen Herzinfarkt",
+        "Ein Wärter manipuliert die Steuerung",
+        "Die Flüchtlinge zerstören den Führerstand",
+        "Ein Güterzug rammt die Lokomotiven"
+      ],
+      "feedback": [
+        "Der Lokführer bricht zusammen; der Zug fährt ohne steuernden Menschen weiter.",
+        "Der Wärter sabotiert nicht die Steuerung.",
+        "Die Flüchtlinge lösen die Fahrt nicht durch Zerstörung des Führerstands aus.",
+        "Ein Zusammenstoß startet die unkontrollierte Fahrt nicht."
+      ],
+      "short": "Der Zusammenbruch des Lokführers macht aus der Flucht eine Fahrt ohne Kontrolle.",
+      "context": "Der Lokführer erleidet einen Herzinfarkt, nachdem er den Lokomotivverband in Bewegung gesetzt hat. Er fällt vom Zug, während der Antrieb weiterarbeitet. Die zunächst angelegten Bremsen halten der Belastung nicht stand. Manny und Buck (Jon Voight, Eric Roberts) haben ein Versteck gesucht, aber keine Fahrt ohne Fahrer geplant. Die technische Katastrophe entsteht unabhängig von ihrem Ausbruch und macht plötzlich alle Beteiligten zu möglichen Opfern.",
+      "anchor": "Der Zusammenbruch des Lokführers macht aus der Flucht eine Fahrt ohne Kontrolle.",
+      "interest": "Unterscheidet die Ursache der Zugkatastrophe vom ursprünglichen Fluchtplan.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welches Zeichen veranlasst die Leitstelle in @, eine geplante Entgleisung zunächst abzubrechen?",
+      "answers": [
+        "Die Lokomotivhupe ertönt",
+        "Eine Taschenlampe blinkt aus einem Führerstand",
+        "Ein Hilferuf erreicht die Leitstelle über Funk",
+        "Eine Person winkt aus der offenen Fahrzeugtür"
+      ],
+      "feedback": [
+        "Die Hupe zeigt, dass noch Menschen an Bord sind.",
+        "Ein sichtbares Lampensignal löst den Abbruch nicht aus.",
+        "Ein Funkhilferuf erreicht die Leitstelle an dieser Stelle nicht.",
+        "Eine winkende Person ist nicht der entscheidende Hinweis."
+      ],
+      "short": "Eine betätigte Hupe verrät der Leitstelle, dass Menschen an Bord sind.",
+      "context": "Die Bahnmitarbeiter erwägen, den offenbar führerlosen Zug entgleisen zu lassen, um andere Züge und Anlagen zu schützen. Dann hören sie die Lokomotivhupe. Sara (Rebecca De Mornay) hat sie betätigt, wodurch die Leitstelle erkennt, dass sich Menschen auf dem Zug befinden. Der Eingriff wird zunächst abgesagt. Das Geräusch verändert damit die Abwägung: Eine technische Gefahrenquelle muss nun zugleich als Ort eingeschlossener Menschen behandelt werden.",
+      "anchor": "Eine betätigte Hupe verrät der Leitstelle, dass Menschen an Bord sind.",
+      "interest": "Ein kleines Signal verändert eine Entscheidung über Leben und Tod.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Wie vermindert Sara (Rebecca De Mornay) in @ gemeinsam mit den Flüchtlingen zunächst die Antriebsleistung?",
+      "answers": [
+        "Sie trennen Steuerkabel zwischen den Lokomotiven",
+        "Sie sperren die Treibstoffleitung im hinteren Führerstand",
+        "Sie betätigen die Notabschaltung an der letzten Lokomotive",
+        "Sie lösen die pneumatischen Bremsleitungen"
+      ],
+      "feedback": [
+        "Die getrennten Steuerkabel nehmen die hinteren beiden Lokomotiven aus dem Antrieb.",
+        "Eine dort gesperrte Treibstoffleitung ist nicht das gezeigte Manöver.",
+        "Die hintere Notabschaltung ist nicht das beschriebene Verfahren.",
+        "Sie trennen die Mehrfachsteuerkabel, nicht die Bremsleitungen."
+      ],
+      "short": "Getrennte Steuerkabel schalten die hinteren beiden Lokomotiven aus dem Antrieb.",
+      "context": "Sara (Rebecca De Mornay) erklärt Manny und Buck (Jon Voight, Eric Roberts), wie die Lokomotiven gekoppelt gesteuert werden. Sie trennen die Kabel zwischen dem zweiten und dritten Fahrzeug, sodass die hinteren beiden keinen Antrieb mehr liefern. Der Verband wird langsamer, bleibt aber gefährlich in Bewegung. Das Manöver zeigt den Unterschied zwischen verringerter Leistung und wirklichem Anhalten: Die entscheidende Kontrolle der führenden Lokomotive ist noch nicht erreicht.",
+      "anchor": "Getrennte Steuerkabel schalten die hinteren beiden Lokomotiven aus dem Antrieb.",
+      "interest": "Technisches Teilziel mit klarer Grenze statt einer angeblichen Gesamtlösung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Warum kuppelt Manny (Jon Voight) in @ zuletzt die führende Lokomotive vom restlichen Verband ab?",
+      "answers": [
+        "Um Buck (Eric Roberts) und Sara (Rebecca De Mornay) zu retten",
+        "Um den hinteren Verband gezielt entgleisen zu lassen",
+        "Um mit geringerem Gewicht die nächste Kurve zu schaffen",
+        "Um den Bremsdruck der vorderen Lokomotive zu erhöhen"
+      ],
+      "feedback": [
+        "Er bleibt mit Ranken vorn; die anderen können mit den hinteren Lokomotiven ausrollen.",
+        "Der hintere Verband soll gerade nicht absichtlich entgleisen.",
+        "Eine schnellere Kurvenfahrt ist nicht der Zweck seiner letzten Entscheidung.",
+        "Ein höherer Bremsdruck ist nicht das Ziel der Trennung."
+      ],
+      "short": "Manny trennt die führende Lokomotive ab und lässt Buck und Sara zurück.",
+      "context": "Manny (Jon Voight) gelangt auf die führende Lokomotive, wo auch Ranken (John P. Ryan) ankommt. Er fesselt seinen Verfolger und lehnt dessen Forderung ab, den Zug anzuhalten. Als Buck und Sara (Eric Roberts, Rebecca De Mornay) aus dem restlichen Verband auf sich aufmerksam machen, trennt Manny die vordere Lokomotive ab. Seine letzte Entscheidung bewahrt ihre Chance zu überleben, während er selbst weiterfährt.",
+      "anchor": "Manny trennt die führende Lokomotive ab und lässt Buck und Sara zurück.",
+      "interest": "Der Abschluss unterscheidet Mannys persönliche Konfrontation von der Rettung seiner Begleiter.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Jon Voight erstmals veröffentlicht?",
+      "answers": [
+        "1985",
+        "1982",
+        "1986",
+        "1989"
+      ],
+      "feedback": [
+        "Die ersten US-Kinoaufführungen lagen im Dezember 1985.",
+        "1982 war das Projekt noch in einer früheren Entwicklungsphase.",
+        "Die breite Auswertung 1986 ist nicht der erste Start.",
+        "1989 liegt nach der Veröffentlichung."
+      ],
+      "short": "1966 Projektankündigung, 1985 Express in die Hölle: neunzehn Jahre Abstand.",
+      "context": "Express in die Hölle erschien 1985. Bereits 1966 war ein Runaway-Train-Projekt mit Akira Kurosawa öffentlich angekündigt worden, also neunzehn Jahre zuvor. Dieses Vorhaben wurde nicht damals realisiert. Der Stoff durchlief weitere Produktionspläne, bis die spätere Verfilmung zustande kam. Der Zeitanker verbindet deshalb eine konkrete Ankündigung mit dem tatsächlichen Kinostart und erklärt die lange Vorgeschichte hinter dem scheinbar geradlinigen Actionfilm.",
+      "anchor": "1966 Projektankündigung, 1985 Express in die Hölle: neunzehn Jahre Abstand.",
+      "interest": "Ein belegter Entwicklungszeitraum statt bloßer Jahresaufzählung.",
+      "sources": [
+        "archiv"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Jon Voight und Eric Roberts Regie?",
+      "answers": [
+        "Andrei Konchalovsky",
+        "Akira Kurosawa",
+        "Walter Hill",
+        "William Friedkin"
+      ],
+      "feedback": [
+        "Konchalovsky inszenierte die veröffentlichte Filmfassung.",
+        "Kurosawa war an der früheren Stoffentwicklung beteiligt.",
+        "Hill ist nicht der Regisseur dieser Verfilmung.",
+        "Friedkin führte bei dieser Produktion nicht Regie."
+      ],
+      "short": "Andrei Konchalovsky inszenierte Express in die Hölle.",
+      "context": "Andrei Konchalovsky inszenierte die tatsächlich veröffentlichte Fassung für Cannon. Akira Kurosawas Beteiligung gehört zur älteren Entwicklung des Stoffes und ist kein gemeinsamer Regiecredit des fertigen Films. Konchalovsky verbindet die technische Bedrohung mit Mannys (Jon Voight) Konflikt um Freiheit, Gewalt und Würde. Die Zuordnung trennt damit zwei leicht verwechselte Leistungen: die Vorgeschichte eines Projekts und die Regie der später realisierten Verfilmung.",
+      "anchor": "Andrei Konchalovsky inszenierte Express in die Hölle.",
+      "interest": "Klärt die häufig verwechselte Verantwortung für Vorlage und fertigen Film.",
+      "sources": [
+        "archiv",
+        "film"
+      ]
+    }
+  ]
+}

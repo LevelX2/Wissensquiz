@@ -1,0 +1,363 @@
+{
+  "date": "2026-10-08",
+  "method": "Redaktioneller Kern von 20 prägenden Werken innerhalb der bestehenden Genreordnung: Polizei-, Agenten-, Buddy-, Flucht-, Verfolgungs- und Fahrzeug-Action. Keine objektive Top-20-Rangliste. Bereits unter Science-Fiction, Abenteuer oder Martial Arts erfasste Überschneidungen werden nicht umgeordnet oder doppelt als neue Filme gezählt.",
+  "before": 15,
+  "added": 5,
+  "after": 20,
+  "context_sources": [
+    "https://www.bfi.org.uk/lists/10-great-action-movies",
+    "https://www.bfi.org.uk/lists/10-great-chase-films",
+    "https://www.bfi.org.uk/film/0785b7b0-13cf-52c8-a2fe-bdece4c1d03d/to-live-and-die-in-la"
+  ],
+  "films": [
+    {
+      "film": "Die Hard|1988",
+      "title": "Stirb langsam",
+      "reason": "Ein einzelner, verwundbarer Polizist im besetzten Hochhaus prägt das räumlich begrenzte Actionkino.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-L-001",
+        "ACT-L-002",
+        "ACT-M-001",
+        "ACT-M-002",
+        "ACT-S-001",
+        "ACT-S-002",
+        "ACT-L-001-V1",
+        "ACT-L-002-V1",
+        "ACT-M-001-V1",
+        "ACT-M-002-V1",
+        "ACT-S-001-V1",
+        "ACT-S-002-V1",
+        "FF-001-YEAR",
+        "FF-001-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Lethal Weapon|1987",
+      "title": "Lethal Weapon – Zwei stahlharte Profis",
+      "reason": "Gegensätzliche Partner und persönliche Traumata tragen die Buddy-Cop-Action.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-L-007",
+        "ACT-L-008",
+        "ACT-M-007",
+        "ACT-M-008",
+        "ACT-S-007",
+        "ACT-S-008",
+        "FF-004-YEAR",
+        "FF-004-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Speed|1994",
+      "title": "Speed",
+      "reason": "Die Mindestgeschwindigkeit macht die Fortbewegung selbst zum dramatischen Zwang.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-L-011",
+        "ACT-L-012",
+        "ACT-M-011",
+        "ACT-M-012",
+        "ACT-S-011",
+        "ACT-S-012",
+        "ACT-L-011-V1",
+        "ACT-L-012-V1",
+        "ACT-M-011-V1",
+        "ACT-M-012-V1",
+        "ACT-S-011-V1",
+        "ACT-S-012-V1",
+        "FF-006-YEAR",
+        "FF-006-DIRECTOR"
+      ]
+    },
+    {
+      "film": "First Blood|1982",
+      "title": "Rambo",
+      "reason": "Ein traumatisierter Veteran und die eskalierende Polizeiverfolgung geben dem Überlebenskampf eine gesellschaftliche Dimension.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-L-029",
+        "ACT-L-030",
+        "ACT-M-029",
+        "ACT-M-030",
+        "ACT-S-029",
+        "ACT-S-030",
+        "FF-015-YEAR",
+        "FF-015-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Goldfinger|1964",
+      "title": "James Bond 007 – Goldfinger",
+      "reason": "Agentenmission, Gegenspieler und technische Ausstattung bilden ein prägendes Bond-Modell.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-L-033",
+        "ACT-L-034",
+        "ACT-M-033",
+        "ACT-M-034",
+        "ACT-S-033",
+        "ACT-S-034",
+        "ACT-L-033-V1",
+        "ACT-L-034-V1",
+        "ACT-M-033-V1",
+        "ACT-M-034-V1",
+        "ACT-S-033-V1",
+        "ACT-S-034-V1",
+        "FF-017-YEAR",
+        "FF-017-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Mission: Impossible|1996",
+      "title": "Mission: Impossible",
+      "reason": "Verrat im eigenen Team und eine ausgearbeitete Einbruchssequenz verbinden Spionage und körperliche Spannung.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-L-041",
+        "ACT-L-042",
+        "ACT-M-041",
+        "ACT-M-042",
+        "ACT-S-041",
+        "ACT-S-042",
+        "ACT-L-041-V1",
+        "ACT-L-042-V1",
+        "ACT-M-041-V1",
+        "ACT-M-042-V1",
+        "ACT-S-041-V1",
+        "ACT-S-042-V1",
+        "FF-021-YEAR",
+        "FF-021-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Bourne Identity|2002",
+      "title": "Die Bourne Identität",
+      "reason": "Die Suche nach der eigenen Identität verbindet Nahkampf, Verfolgung und ein undurchsichtiges Geheimdienstsystem.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-L-045",
+        "ACT-L-046",
+        "ACT-M-045",
+        "ACT-M-046",
+        "ACT-S-045",
+        "ACT-S-046",
+        "FF-023-YEAR",
+        "FF-023-DIRECTOR"
+      ]
+    },
+    {
+      "film": "John Wick|2014",
+      "title": "John Wick",
+      "reason": "Präzise Kampfchoreografie und ein eigenes Regelwerk der Unterwelt prägen die moderne Auftragsmörder-Action.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-L-049",
+        "ACT-L-050",
+        "ACT-M-049",
+        "ACT-M-050",
+        "ACT-S-049",
+        "ACT-S-050",
+        "ACT-L-049-V1",
+        "ACT-L-050-V1",
+        "ACT-M-049-V1",
+        "ACT-M-050-V1",
+        "ACT-S-049-V1",
+        "ACT-S-050-V1",
+        "FF-025-YEAR",
+        "FF-025-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Heat|1995",
+      "title": "Heat",
+      "reason": "Berufsethos auf beiden Seiten des Gesetzes und ein groß angelegter Stadtgefechtsraum tragen den Kriminal-Actionfilm.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-L-019",
+        "ACT-L-020",
+        "ACT-M-019",
+        "ACT-M-020",
+        "ACT-S-019",
+        "ACT-S-020",
+        "FF-010-YEAR",
+        "FF-010-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Bullitt|1968",
+      "title": "Bullitt",
+      "reason": "Polizeiermittlung und eine materialnahe Autoverfolgung stehen für das urbane Actionkino der späten 1960er.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-035-L1",
+        "F240-20261006-035-L2",
+        "F240-20261006-035-M1",
+        "F240-20261006-035-M2",
+        "F240-20261006-035-S1",
+        "F240-20261006-035-S2",
+        "F240-20261006-035-Y",
+        "F240-20261006-035-D"
+      ]
+    },
+    {
+      "film": "The French Connection|1971",
+      "title": "Brennpunkt Brooklyn",
+      "reason": "Ein kompromissloser Ermittler und die Verfolgung eines Drogenrings verbinden Polizeifilm und Stadt-Action.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-034-L1",
+        "F240-20261006-034-L2",
+        "F240-20261006-034-M1",
+        "F240-20261006-034-M2",
+        "F240-20261006-034-S1",
+        "F240-20261006-034-S2",
+        "F240-20261006-034-Y",
+        "F240-20261006-034-D"
+      ]
+    },
+    {
+      "film": "Face/Off|1997",
+      "title": "Im Körper des Feindes",
+      "reason": "Der körperliche Identitätstausch erweitert das Duell zwischen Ermittler und Verbrecher um familiäre Täuschung.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-L-017",
+        "ACT-L-018",
+        "ACT-M-017",
+        "ACT-M-018",
+        "ACT-S-017",
+        "ACT-S-018",
+        "FF-009-YEAR"
+      ]
+    },
+    {
+      "film": "Ronin|1998",
+      "title": "Ronin",
+      "reason": "Die wechselnden Loyalitäten einer Söldnergruppe verbinden Auftragshandlung und aufwendige Verfolgungssequenzen.",
+      "status": "vorhanden",
+      "question_ids": [
+        "ACT-202610-P01-L-001",
+        "ACT-202610-P01-L-002",
+        "ACT-202610-P01-M-001",
+        "ACT-202610-P01-M-002",
+        "ACT-202610-P01-S-001",
+        "ACT-202610-P01-S-002",
+        "ACT-202610-P01-M-003",
+        "ACT-202610-P01-S-003"
+      ]
+    },
+    {
+      "film": "Mad Max 2|1981",
+      "title": "Mad Max II – Der Vollstrecker",
+      "reason": "Die belagerte Ölraffinerie und der Kampf auf der Straße prägen das postapokalyptische Fahrzeug-Actionkino.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-021-L1",
+        "F240-20261006-021-L2",
+        "F240-20261006-021-M1",
+        "F240-20261006-021-M2",
+        "F240-20261006-021-S1",
+        "F240-20261006-021-S2",
+        "F240-20261006-021-Y",
+        "F240-20261006-021-D"
+      ]
+    },
+    {
+      "film": "Mad Max: Fury Road|2015",
+      "title": "Mad Max: Fury Road",
+      "reason": "Der lange Fluchtkampf verbindet Fahrzeugstunts, räumliche Übersicht und eine Befreiungsgeschichte.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-022-L1",
+        "F240-20261006-022-L2",
+        "F240-20261006-022-M1",
+        "F240-20261006-022-M2",
+        "F240-20261006-022-S1",
+        "F240-20261006-022-S2",
+        "F240-20261006-022-Y",
+        "F240-20261006-022-D"
+      ]
+    },
+    {
+      "film": "Dirty Harry|1971",
+      "title": "Dirty Harry",
+      "reason": "Der eigenmächtige Ermittler erweitert den Polizeifilm um eine kontroverse Gewalt- und Rechtsfrage.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ACTION-001-L1",
+        "G100-20261008-ACTION-001-L2",
+        "G100-20261008-ACTION-001-M1",
+        "G100-20261008-ACTION-001-M2",
+        "G100-20261008-ACTION-001-S1",
+        "G100-20261008-ACTION-001-S2",
+        "G100-20261008-ACTION-001-Y",
+        "G100-20261008-ACTION-001-D"
+      ]
+    },
+    {
+      "film": "Assault on Precinct 13|1976",
+      "title": "Assault – Anschlag bei Nacht",
+      "reason": "Eine abgeschnittene Polizeiwache wird zum konzentrierten Schauplatz einer Belagerung.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ACTION-002-L1",
+        "G100-20261008-ACTION-002-L2",
+        "G100-20261008-ACTION-002-M1",
+        "G100-20261008-ACTION-002-M2",
+        "G100-20261008-ACTION-002-S1",
+        "G100-20261008-ACTION-002-S2",
+        "G100-20261008-ACTION-002-Y",
+        "G100-20261008-ACTION-002-D"
+      ]
+    },
+    {
+      "film": "Mad Max|1979",
+      "title": "Mad Max",
+      "reason": "Der Zerfall staatlicher Ordnung und Max’ Verlustgeschichte legen die Grundlage des Mad-Max-Actionmodells.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ACTION-004-L1",
+        "G100-20261008-ACTION-004-L2",
+        "G100-20261008-ACTION-004-M1",
+        "G100-20261008-ACTION-004-M2",
+        "G100-20261008-ACTION-004-S1",
+        "G100-20261008-ACTION-004-S2",
+        "G100-20261008-ACTION-004-Y",
+        "G100-20261008-ACTION-004-D"
+      ]
+    },
+    {
+      "film": "To Live and Die in L.A.|1985",
+      "title": "Leben und Sterben in L.A.",
+      "reason": "Falschgeld-Ermittlung, riskante Polizeiarbeit und eine extreme Autoverfolgung verbinden Moralfrage und Action.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ACTION-006-L1",
+        "G100-20261008-ACTION-006-L2",
+        "G100-20261008-ACTION-006-M1",
+        "G100-20261008-ACTION-006-M2",
+        "G100-20261008-ACTION-006-S1",
+        "G100-20261008-ACTION-006-S2",
+        "G100-20261008-ACTION-006-Y",
+        "G100-20261008-ACTION-006-D"
+      ]
+    },
+    {
+      "film": "Vanishing Point|1971",
+      "title": "Fluchtpunkt San Francisco",
+      "reason": "Eine Autofahrt durch den amerikanischen Westen verbindet Gegenkultur und Verfolgungsfilm.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-ACTION-022-L1",
+        "G100-20261008-ACTION-022-L2",
+        "G100-20261008-ACTION-022-M1",
+        "G100-20261008-ACTION-022-M2",
+        "G100-20261008-ACTION-022-S1",
+        "G100-20261008-ACTION-022-S2",
+        "G100-20261008-ACTION-022-Y",
+        "G100-20261008-ACTION-022-D"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "rank": 16,
+  "directors": [
+    "Paul Greengrass"
+  ],
+  "production_countries": [
+    "USA",
+    "Deutschland"
+  ],
+  "country_note": "BFI führt USA und Deutschland; die Wikipedia-Infobox nennt nur USA. Die Angabe folgt dem BFI-Filmarchiv.",
+  "release_note": "Premiere am 25. Juli 2007 im ArcLight Hollywood, durch Getty-Fotodokumentation bestätigt; US-Kinostart am 3. August 2007.",
+  "familiarity_reason": "Der Abschluss der ursprünglichen Matt-Damon-Trilogie ist im Actiongenre sehr bekannt; Details der verdeckten Programme und des Schlusses verlangen genauere Filmkenntnis.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)",
+    "archiv": "https://www.bfi.org.uk/film/69358b29-8324-5c8e-96e9-fdde46982d8b/the-bourne-ultimatum",
+    "premiere": "https://www.gettyimages.co.uk/detail/news-photo/actor-matt-damon-director-paul-greengrass-producers-frank-news-photo/75662026",
+    "vorgaenger": "https://www.bfi.org.uk/film/489d9531-6e89-5572-9afe-6b5a975957ac/the-bourne-supremacy"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "An welchem Londoner Bahnhof trifft Bourne (Matt Damon) in @ den Journalisten Simon Ross (Paddy Considine)?",
+      "answers": [
+        "Waterloo",
+        "King’s Cross",
+        "Liverpool Street",
+        "Paddington"
+      ],
+      "feedback": [
+        "Das Treffen findet im Bahnhof Waterloo statt.",
+        "King’s Cross ist nicht der Treffpunkt.",
+        "Liverpool Street ist nicht der Schauplatz dieses Treffens.",
+        "Paddington ist nicht der betreffende Bahnhof."
+      ],
+      "short": "Bourne trifft Simon Ross im Bahnhof Waterloo.",
+      "context": "Simon Ross (Paddy Considine) hat über die verdeckten CIA-Programme recherchiert und wird dadurch zum Ziel. Jason Bourne (Matt Damon) versucht, ihn im belebten Bahnhof Waterloo durch unauffällige Anweisungen vor den Verfolgern zu schützen. Die Menge bietet dabei Deckung und erschwert die Übersicht. Ross verliert dennoch die Nerven. Die Szene zeigt, wie rasch ein öffentlicher Alltagsort zum gefährlichen Raum einer verdeckten Operation werden kann.",
+      "anchor": "Waterloo verbindet einen gewöhnlichen Reiseort mit einer heimlichen Jagd.",
+      "interest": "Der zentrale Schauplatz wird über die konkrete Begegnung erschlossen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wie verhält sich Nicky Parsons (Julia Stiles) in @, als Bourne (Matt Damon) die CIA-Stelle in Madrid erreicht?",
+      "answers": [
+        "Sie hilft ihm, der eintreffenden CIA-Einheit zu entkommen.",
+        "Sie sperrt ihn bis zum Eintreffen der CIA ein.",
+        "Sie führt ihn unmittelbar zu den wartenden Attentätern.",
+        "Sie übernimmt seine Festnahme für die spanische Polizei."
+      ],
+      "feedback": [
+        "Nicky entscheidet sich für Bourne und unterstützt seine Flucht.",
+        "Sie hält Bourne nicht für die eintreffende Einheit fest.",
+        "Sie führt ihn nicht gezielt in den Hinterhalt der Attentäter.",
+        "Eine Festnahme im Auftrag der spanischen Polizei ist nicht ihr Vorgehen."
+      ],
+      "short": "Nicky hilft Bourne bei der Flucht aus Madrid.",
+      "context": "Nicky Parsons (Julia Stiles) arbeitet in Madrid für die CIA, als Jason Bourne (Matt Damon) dort nach einer Informationsquelle sucht. Sie teilt ihr Wissen mit ihm und unterstützt seine Flucht. Damit überschreitet sie die Grenze zwischen institutioneller Loyalität und persönlicher Hilfe. Diese Entscheidung hat Folgen: Ihre eigenen Zugriffe auf Informationen werden überwacht, und der Dienst stuft sie anschließend ebenfalls als Ziel ein.",
+      "anchor": "Aus einer Kontaktperson innerhalb des Dienstes wird eine Verbündete außerhalb seiner Befehle.",
+      "interest": "Nickys Entscheidung bildet ein anderes Ziel als die Suche nach Bournes Vergangenheit.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welches Programm folgt in @ auf das Attentäterprogramm Treadstone?",
+      "answers": [
+        "Blackbriar",
+        "Outcome",
+        "Iron Hand",
+        "LARX"
+      ],
+      "feedback": [
+        "Blackbriar setzt die verdeckte Operationsstruktur nach Treadstone fort.",
+        "Outcome gehört zu einem anderen Bourne-Film.",
+        "Iron Hand ist nicht das hier auf Treadstone folgende Programm.",
+        "LARX ist nicht die in diesem Film untersuchte Nachfolgestruktur."
+      ],
+      "short": "Das Nachfolgeprogramm heißt Blackbriar.",
+      "context": "Jason Bourne (Matt Damon) sucht nach den Ursprüngen seiner Ausbildung, während Blackbriar die verdeckten Operationen des Dienstes fortführt. Noah Vosen (David Strathairn) behandelt mögliche Zeugen als Sicherheitsrisiken und lässt sie ausschalten. Das Problem endet daher nicht mit einem alten Programmnamen oder einem einzelnen Verantwortlichen. Der Film zeigt eine Organisation, die ihre Methoden unter neuer Bezeichnung weiterführt und deren aktuelle Tätigkeit aufgedeckt werden muss.",
+      "anchor": "Blackbriar ist die Fortsetzung der Struktur unter einem neuen Namen.",
+      "interest": "Die Antwort unterscheidet Programme der Filmreihe und erklärt ihre Funktion.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie öffnet Bourne (Matt Damon) in @ den gesicherten Tresor in Noah Vosens (David Strathairn) Büro?",
+      "answers": [
+        "Mit einer Aufnahme von Vosens Stimme",
+        "Mit einem nachgebildeten Fingerabdruck Vosens",
+        "Mit Vosens entwendeter Zugangskarte",
+        "Mit einem optischen Scan von Vosens Auge"
+      ],
+      "feedback": [
+        "Die aufgenommene Stimme überwindet die Sprachprüfung.",
+        "Eine Fingerabdrucknachbildung öffnet diesen Tresor nicht.",
+        "Eine gestohlene Karte ist nicht die verwendete Zugangsmethode.",
+        "Ein Augenscan wird für diese Öffnung nicht benutzt."
+      ],
+      "short": "Bourne nutzt die aufgezeichnete Stimme Vosens.",
+      "context": "Jason Bourne (Matt Damon) bringt Noah Vosen (David Strathairn) dazu, das Büro zu verlassen, und ruft ihn von dort aus an. Die Aufnahme des Gesprächs wird zugleich zu einem Zugangswerkzeug: Bourne verwendet Vosens Stimme für die Sicherung des Tresors. So gewinnt er die vertraulichen Blackbriar-Unterlagen. Der Einbruch beruht damit auf der Verbindung von Täuschung, Telefontechnik und dem ausgenutzten Vertrauen in ein persönliches Erkennungsmerkmal.",
+      "anchor": "Das Gespräch liefert den Schlüssel zu den versteckten Unterlagen.",
+      "interest": "Eine konkrete Zugangsmethode wird von anderen plausiblen biometrischen Sicherungen getrennt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was erfährt Bourne (Matt Damon) in @ von Dr. Albert Hirsch (Albert Finney) über seinen Eintritt in Treadstone?",
+      "answers": [
+        "Er meldete sich freiwillig und tötete einen Unbekannten als Loyalitätsbeweis.",
+        "Er wurde entführt und ohne eigene Zustimmung ausgebildet.",
+        "Er übernahm nur zur Tarnung die Identität eines anderen Teilnehmers.",
+        "Er trat als Ermittler ein, um das Programm von innen zu entlarven."
+      ],
+      "feedback": [
+        "Hirsch erinnert ihn an die eigene Zustimmung und den geforderten Mord.",
+        "Die Erklärung lautet nicht, dass er entführt worden sei.",
+        "Eine bloße Tarnidentität erklärt seine Teilnahme nicht.",
+        "Seine Teilnahme war keine verdeckte Ermittlung gegen das Programm."
+      ],
+      "short": "Bourne hatte sich freiwillig für Treadstone entschieden.",
+      "context": "Dr. Albert Hirsch (Albert Finney) konfrontiert Jason Bourne (Matt Damon) mit einer unbequemen Erinnerung. Bourne wurde zum Attentäter geformt, hatte der Teilnahme jedoch selbst zugestimmt und einen unbekannten Mann getötet, um seine Bereitschaft zu beweisen. Der Fund seiner ursprünglichen Identität bietet deshalb keine einfache Entlastung. Er muss sich auch mit eigener Mitwirkung auseinandersetzen, bevor er die frühere Rolle hinter sich lassen kann.",
+      "anchor": "Die Erinnerung bringt neben Manipulation auch eigene Verantwortung ans Licht.",
+      "interest": "Der Schluss wird über eine zentrale moralische Enthüllung erschlossen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche frühere Handlung Bournes (Matt Damon) beschäftigt Paz (Édgar Ramírez) bei ihrer letzten Dachbegegnung in @?",
+      "answers": [
+        "Bourne hat ihn nach einem Autounfall am Leben gelassen.",
+        "Bourne hat ihm die Blackbriar-Unterlagen zur Flucht übergeben.",
+        "Bourne hat ihn vor dem CIA-Zugriff in Madrid gewarnt.",
+        "Bourne hat ihm einen neuen Auftrag im Dienst angeboten."
+      ],
+      "feedback": [
+        "Paz fragt, warum Bourne ihn nach dem Unfall verschont hat.",
+        "Die Unterlagen gehen nicht an Paz.",
+        "Die Hilfe in Madrid betrifft nicht Paz.",
+        "Bourne bietet dem Attentäter keinen neuen Dienstauftrag an."
+      ],
+      "short": "Paz erinnert sich daran, dass Bourne ihn verschont hat.",
+      "context": "Jason Bourne (Matt Damon) könnte Paz (Édgar Ramírez) nach ihrem Zusammenstoß töten, tut es aber nicht. Später fragt Paz nach dem Grund und lässt auf dem Dach seine Waffe sinken. Bournes Verhalten unterbricht damit für einen Moment die eingeübte Logik von Auftrag und Tötung. Der frühere Attentäter wirkt nicht allein durch überlegene Kampffähigkeit, sondern auch durch eine Entscheidung, die sein Gegenüber zum Nachdenken bringt.",
+      "anchor": "Die verschonte Begegnung verändert die letzte Konfrontation.",
+      "interest": "Ein vorheriger Handlungsschritt wird mit seiner Wirkung auf den Schluss verbunden.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Matt Damon erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "2003",
+        "2011",
+        "2015"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung war 2007.",
+        "2003 liegt vier Jahre vor der Veröffentlichung.",
+        "2011 liegt vier Jahre nach der Veröffentlichung.",
+        "2015 liegt acht Jahre nach der Veröffentlichung."
+      ],
+      "short": "2004 Die Bourne Verschwörung, 2007 Das Bourne Ultimatum: drei Jahre Abstand.",
+      "context": "Die Bourne Verschwörung erschien 2004; drei Jahre später folgte 2007 Das Bourne Ultimatum. Beide Filme wurden von Paul Greengrass inszeniert und führen Jason Bournes (Matt Damon) Suche durch eine Geschichte institutioneller Vertuschung. Der dritte Teil greift sogar Ereignisse des zweiten erneut auf, bevor er die Handlung weiterführt. Der Abstand der Kinoveröffentlichungen ist daher von der teilweise überlappenden erzählten Zeit zu unterscheiden.",
+      "anchor": "2004 Vorgänger, 2007 dritter Teil: drei Jahre Abstand.",
+      "interest": "Der konkrete Vorgänger verankert das Jahr und erklärt die erzählerische Verbindung.",
+      "sources": [
+        "archiv",
+        "vorgaenger",
+        "premiere",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Matt Damon und Julia Stiles?",
+      "answers": [
+        "Paul Greengrass",
+        "Doug Liman",
+        "Tony Gilroy",
+        "Martin Campbell"
+      ],
+      "feedback": [
+        "Paul Greengrass führte Regie.",
+        "Doug Liman inszenierte den ersten Bourne-Kinofilm.",
+        "Tony Gilroy gehört hier zu den Drehbuchautoren.",
+        "Martin Campbell trägt nicht den Regiecredit dieses Films."
+      ],
+      "short": "Paul Greengrass inszenierte den dritten Bourne-Kinofilm.",
+      "context": "Paul Greengrass setzt die Arbeit mit Jason Bourne (Matt Damon) im dritten Teil fort. Das BFI bestätigt den Regiecredit und beschreibt die nervöse Handkamera, die schnelle Montage und das Misstrauen gegenüber Überwachung als zusammengehörige Gestaltung. Die drei genannten Drehbuchautoren sind Tony Gilroy, Scott Z. Burns und George Nolfi. Ihr Beitrag ist von Greengrass’ Verantwortung für die filmische Inszenierung zu unterscheiden.",
+      "anchor": "Greengrass verbindet die Verfolgung mit einem Stil permanenter Unruhe.",
+      "interest": "Der konkrete Filmcredit wird von anderen Regisseuren der Reihe getrennt.",
+      "sources": [
+        "archiv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "rank": 11,
+  "directors": [
+    "John Glen"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "release_note": "Erste Veröffentlichung 1989; London-Premiere am 13. Juni 1989, britischer und US-Kinostart im Juli.",
+  "familiarity_reason": "Timothy Daltons zweiter Bond-Film ist innerhalb der weithin bekannten Reihe gut wiedererkennbar, besitzt aber keine vergleichbare Einzelbekanntheit wie Goldfinger.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+    "regie": "https://www.007.com/focus-week-john-glen/",
+    "vergleich": "https://www.007.com/007-first-and-last/",
+    "stunts": "https://www.007.com/shooting-licence-to-kills-tanker-chase/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Warum verfolgt Bond (Timothy Dalton) Franz Sanchez (Robert Davi) in @ gegen den Willen seines Vorgesetzten?",
+      "answers": [
+        "Er will den Angriff auf seinen Freund Felix Leiter (David Hedison) rächen.",
+        "Er will einen verschwundenen britischen Botschafter finden.",
+        "Er will seine frühere Tarnidentität vor Sanchez schützen.",
+        "Er will einen verratenen britischen Informanten zurückholen."
+      ],
+      "feedback": [
+        "Der schwer verletzte Leiter und der Tod seiner Frau machen den Fall persönlich.",
+        "Ein vermisster Botschafter ist nicht der Anlass seiner eigenmächtigen Jagd.",
+        "Der Schutz einer alten Tarnidentität treibt die Handlung nicht an.",
+        "Ein britischer Informant ist nicht das Opfer, um das es hier geht."
+      ],
+      "short": "Bond verfolgt Sanchez aus persönlicher Rache für Felix Leiter.",
+      "context": "Felix Leiter (David Hedison) hilft Bond (Timothy Dalton) zunächst bei Sanchez’ (Robert Davi) Festnahme. Nach dessen Flucht wird Leiter schwer verletzt, während seine Frau Della (Priscilla Barnes) ermordet wird. Bond will den Auftrag nicht abgeben und verweigert eine andere Mission. Aus der offiziellen Zusammenarbeit entsteht deshalb eine private Vergeltungsaktion, die ihn mit der eigenen Dienstleitung in Konflikt bringt.",
+      "anchor": "Leiters Schicksal macht aus einem Auftrag Bonds private Rache.",
+      "interest": "Der persönliche Auslöser erklärt die Abweichung vom gewöhnlichen Agentenauftrag.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welchen praktischen Beitrag leistet Pam Bouvier (Carey Lowell) in @ bei der Verfolgung von Sanchez’ Tanklastern?",
+      "answers": [
+        "Sie unterstützt Bond mit einem selbst gesteuerten Flugzeug.",
+        "Sie legt Sprengladungen auf der Route der Tanklaster.",
+        "Sie sabotiert als getarnte Fahrerin einen der Tanklaster.",
+        "Sie lenkt die Verfolger durch falsche Funkmeldungen um."
+      ],
+      "feedback": [
+        "Pam steuert ein Flugzeug und hilft Bond aus der Luft.",
+        "Eine von Pam vorbereitete Sprengstrecke ist nicht ihre Hilfe.",
+        "Sie übernimmt nicht als getarnte Fahrerin einen der Schmuggeltrucks.",
+        "Sie lenkt die Jagd nicht durch erfundene Funkmeldungen."
+      ],
+      "short": "Pam unterstützt Bond als Pilotin aus der Luft.",
+      "context": "Pam Bouvier (Carey Lowell) ist eine Informantin der Drogenbehörde und kann fliegen. Sie wird damit nicht nur zur Person, die Bond (Timothy Dalton) retten muss, sondern übernimmt bei seiner Jagd eigene Aufgaben. Besonders im Finale ist ihr Flugzeug Teil der Verfolgung der Tanklaster. Ihre praktische Kompetenz ermöglicht Bewegungen und Eingriffe, die Bond vom Boden aus allein nicht ausführen könnte.",
+      "anchor": "Pam verschafft der Verfolgung eine zweite Ebene in der Luft.",
+      "interest": "Die Fähigkeit wird durch ihre tatsächliche Beteiligung an der Action erklärt.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wie tarnt Sanchez (Robert Davi) in @ seine Kokainlieferungen?",
+      "answers": [
+        "Er löst das Kokain in Treibstoff auf.",
+        "Er presst es in hohle Maschinenteile.",
+        "Er mischt es als Pulver unter Arzneimittel.",
+        "Er versteckt es in versiegelten Kunsttransporten."
+      ],
+      "feedback": [
+        "Der Treibstoff dient als Träger des aufgelösten Kokains.",
+        "Hohle Maschinenteile sind nicht das gezeigte Verfahren.",
+        "Die Tarnung beruht nicht auf pulverförmigen Arzneimittellieferungen.",
+        "Kunsttransporte bilden nicht die Liefermethode."
+      ],
+      "short": "Das Kokain wird in Treibstoff gelöst und als Kraftstoff transportiert.",
+      "context": "Das scheinbare Meditationsinstitut verbirgt Sanchez’ (Robert Davi) Produktionsanlage. Dort erfährt Bond (Timothy Dalton), wie die Droge in Treibstoff gelöst und für den Transport getarnt wird. Die Tanklaster im Schlusskampf sind deshalb nicht nur Fahrzeuge in einer beliebigen Verfolgung. Sie tragen das Produkt des Schmuggelverfahrens, sodass die Zerstörung der Anlage und die Verfolgung der Lieferungen unmittelbar zusammengehören.",
+      "anchor": "Die Kraftstoffladung ist zugleich die versteckte Drogenlieferung.",
+      "interest": "Die Schmuggeltechnik erklärt die besondere Funktion der Tanklaster.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie bringt Bond (Timothy Dalton) in @ Sanchez (Robert Davi) gegen dessen Helfer Milton Krest (Anthony Zerbe) auf?",
+      "answers": [
+        "Er versteckt gestohlenes Geld auf Krests Schiff.",
+        "Er fälscht eine Tonaufnahme von Krests Geständnis.",
+        "Er lässt einen Informanten Krest als Polizeispitzel identifizieren.",
+        "Er leitet Krests Nachricht an die Drogenbehörde weiter."
+      ],
+      "feedback": [
+        "Das platzierte Geld lässt Krest wie einen untreuen Geschäftspartner erscheinen.",
+        "Eine gefälschte Tonaufnahme ist nicht Bonds Methode.",
+        "Ein aufgebotener Informant übernimmt die Beschuldigung nicht.",
+        "Eine abgefangene Nachricht erklärt die Inszenierung nicht."
+      ],
+      "short": "Bond pflanzt das gestohlene Geld auf Krests Schiff.",
+      "context": "Bond (Timothy Dalton) nutzt Sanchez’ (Robert Davi) Misstrauen, um dessen Organisation von innen zu schwächen. Das zuvor gestohlene Geld taucht auf dem Schiff von Milton Krest (Anthony Zerbe) wieder auf. Sanchez sieht darin einen Beweis für Verrat und tötet seinen eigenen Helfer. Bond muss den Gegner hier nicht unmittelbar überwältigen: Er liefert ihm eine falsche Deutung, nach der er selbst handelt.",
+      "anchor": "Das platzierte Geld macht Sanchez zum Vollstrecker gegen den eigenen Mann.",
+      "interest": "Die Frage erschließt Bonds Manipulation statt nur einen Helfernamen abzufragen.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welcher Gegenstand beendet in @ Bonds (Timothy Dalton) letzten Kampf gegen Sanchez (Robert Davi)?",
+      "answers": [
+        "Das Feuerzeug aus Felix und Dellas Hochzeitsgeschenk",
+        "Die im Zigarettenetui versteckte Sprengkapsel",
+        "Der ferngesteuerte Zünder aus Qs Reisetasche",
+        "Die Leuchtpistole aus Pams Flugzeug"
+      ],
+      "feedback": [
+        "Mit dem geschenkten Feuerzeug entzündet Bond Sanchez.",
+        "Die letzte Zündung kommt nicht aus einer Sprengkapsel im Etui.",
+        "Ein fernbedienter Zünder beendet diesen Zweikampf nicht.",
+        "Bond benutzt dafür keine Leuchtpistole."
+      ],
+      "short": "Bond verwendet das Feuerzeug, das er als Trauzeuge erhalten hat.",
+      "context": "Nach dem Tanklasterunfall ist Sanchez (Robert Davi) mit Benzin bedeckt und bedroht Bond (Timothy Dalton) weiter mit einer Machete. Bond zeigt ihm das Feuerzeug, das Felix Leiter (David Hedison) und Della (Priscilla Barnes) ihm geschenkt haben. Der Gegenstand verbindet die Hochzeit am Anfang mit der Vergeltung am Ende. Ein persönliches Andenken wird damit zur Waffe im letzten Zweikampf.",
+      "anchor": "Das Hochzeitsgeschenk kehrt als Werkzeug der Vergeltung wieder.",
+      "interest": "Die Verbindung zwischen Beginn und Finale verleiht dem Gegenstand erzählerischen Wert.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Worauf beruht die Tanklaster-Action im Finale von @ wesentlich?",
+      "answers": [
+        "Fahrfähige Lastwagen auf einer gesperrten mexikanischen Bergstraße",
+        "Ferngesteuerte Miniaturen auf einer nachgebauten Modellstraße",
+        "Bewegte Fahrerkabinen vor projizierten Straßenaufnahmen",
+        "Einzelbildanimation von Modellen vor realen Landschaften"
+      ],
+      "feedback": [
+        "Die zweite Unit drehte mit echten Fahrzeugen auf der alten Rumorosa-Straße.",
+        "Miniaturen bilden nicht die wesentliche Grundlage dieser Verfolgung.",
+        "Reine Kabinenaufnahmen erklären die gefährlichen Fahrzeugmanöver nicht.",
+        "Die große Verfolgung wurde nicht wesentlich durch Modellanimation erzeugt."
+      ],
+      "short": "Die Produktion nutzte reale Lastwagen und eine gesperrte Bergstraße.",
+      "context": "Die Tanklasterverfolgung wurde über viele Drehtage auf einer gefährlichen, bereits für den regulären Verkehr geschlossenen Bergstraße in Mexiko aufgenommen. Die reale Strecke erlaubte der zweiten Unit große Fahrzeugmanöver und Explosionen unter kontrollierten Bedingungen. Die offizielle Bond-Seite beschreibt auch einen tatsächlich entstandenen Fahrzeugunfall, dessen Aufnahmen in die Szene eingingen. Sichtbare Gefahr und geplante Stuntarbeit greifen dabei eng ineinander.",
+      "anchor": "Eine gesperrte reale Straße wurde zum kontrollierten Actionraum.",
+      "interest": "Der Produktionsbeleg erklärt, wie die Verfolgung ihren körperlichen Eindruck erhält.",
+      "sources": [
+        "stunts",
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Timothy Dalton erstmals?",
+      "answers": [
+        "1989",
+        "1985",
+        "1993",
+        "1997"
+      ],
+      "feedback": [
+        "Die erste Veröffentlichung erfolgte 1989.",
+        "1985 liegt vier Jahre davor.",
+        "1993 liegt vier Jahre danach.",
+        "1997 liegt acht Jahre danach."
+      ],
+      "short": "1987 Daltons Bond-Debüt, 1989 sein zweiter Film: zwei Jahre Abstand.",
+      "context": "Timothy Dalton begann seine Kinolaufbahn als James Bond 1987 in Der Hauch des Todes. Zwei Jahre später folgte 1989 sein zweites und letztes Bond-Abenteuer. Beide Filme wurden von John Glen inszeniert, unterscheiden sich aber deutlich in ihrem Handlungsschwerpunkt. Der erste ist stärker an einen regulären Geheimdienstauftrag gebunden; der zweite macht den Angriff auf Felix Leiter (David Hedison) zum persönlichen Ausgangspunkt.",
+      "anchor": "1987 Der Hauch des Todes, 1989 dieser Film: zwei Jahre Abstand.",
+      "interest": "Daltons konkreter Vorgängerfilm liefert den zweiten Zeitanker.",
+      "sources": [
+        "vergleich",
+        "regie",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer inszenierte @ mit Timothy Dalton und Robert Davi?",
+      "answers": [
+        "John Glen",
+        "Lewis Gilbert",
+        "Martin Campbell",
+        "Guy Hamilton"
+      ],
+      "feedback": [
+        "John Glen führte Regie.",
+        "Lewis Gilbert inszenierte andere Bond-Abenteuer, aber dieses nicht.",
+        "Martin Campbell trägt diesen Regiecredit nicht.",
+        "Guy Hamilton war nicht der Regisseur dieses Films."
+      ],
+      "short": "John Glen führte Regie.",
+      "context": "John Glen hatte bereits mehrere Bond-Filme als Hauptregisseur verantwortet und zuvor an Actionsequenzen und Schnitt gearbeitet. Hier inszeniert er Bond (Timothy Dalton) als Agenten, dessen persönliche Vergeltung den normalen Auftrag verdrängt. Seine letzte Bond-Regie verbindet die härtere Geschichte mit aufwendigen Fahrzeugstunts. Der offizielle Rückblick auf seine Laufbahn bestätigt den Credit und ordnet ihn innerhalb seiner fünf Bond-Regiearbeiten ein.",
+      "anchor": "Glen verbindet Bonds persönliche Rache mit groß angelegter Stuntarbeit.",
+      "interest": "Der Credit erhält einen konkreten Bezug zur Erfahrung des Regisseurs.",
+      "sources": [
+        "regie",
+        "handlung"
+      ]
+    }
+  ]
+}

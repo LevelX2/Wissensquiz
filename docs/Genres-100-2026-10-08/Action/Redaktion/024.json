@@ -1,0 +1,206 @@
+{
+  "rank": 24,
+  "directors": [
+    "Michael Davis"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "country_note": "Drehort Toronto ist kein zusätzliches Produktionsland; BFI führt USA.",
+  "release_note": "Erste Veröffentlichung 2007 laut BFI; der Filmartikel verzeichnet den US-Kinostart am 7. September 2007.",
+  "familiarity_reason": "Der überzeichnete Actionfilm mit Clive Owen, Paul Giamatti und Monica Bellucci ist ein markanter Kennerfilm.",
+  "sources": {
+    "handlung": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+    "bfi": "https://www.bfi.org.uk/film/ea15b9da-048f-590c-b11a-a514f47e667b/shoot-em-up",
+    "anker": "https://en.wikipedia.org/wiki/Children_of_Men"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wen muss Smith (Clive Owen) in @ nach dem Tod einer verfolgten Frau beschützen?",
+      "answers": [
+        "Ihr neugeborenes Kind",
+        "Ihre erwachsene Schwester",
+        "Ihren gefangenen Ehemann",
+        "Ihre jugendliche Tochter"
+      ],
+      "feedback": [
+        "Smith bringt das Kind zur Welt und flieht mit ihm.",
+        "Die Schutzmission gilt keiner erwachsenen Schwester.",
+        "Ein gefangener Ehemann ist nicht sein Schützling.",
+        "Es geht um ein neugeborenes Kind, keine Jugendliche."
+      ],
+      "short": "Smith übernimmt den Schutz eines Neugeborenen.",
+      "context": "Smith (Clive Owen) sieht eine schwangere Frau vor einem bewaffneten Verfolger fliehen und greift ein. Während weiterer Schüsse bringt er ihr Kind zur Welt; die Mutter wird getötet. Smith muss den Jungen nun am Leben halten. Seine zunächst spontane Hilfe entwickelt sich dadurch zu einer dauerhaften Schutzmission gegen Hertz (Paul Giamatti) und dessen bewaffnete Männer.",
+      "anchor": "Aus einer spontanen Rettung wird der Schutz eines Neugeborenen.",
+      "interest": "Das Kind gibt der langen Actionkette ein klares persönliches Ziel.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Gegenstand benutzt Smith (Clive Owen) in @ gleich bei seinem ersten Eingreifen als tödliche Waffe?",
+      "answers": [
+        "Eine Karotte",
+        "Eine Essgabel",
+        "Ein Fahrradschloss",
+        "Einen Kugelschreiber"
+      ],
+      "feedback": [
+        "Smith tötet den ersten Angreifer mit einer Karotte.",
+        "Eine Essgabel ist nicht die hier eingesetzte Alltagswaffe.",
+        "Ein Fahrradschloss beendet den ersten Angriff nicht.",
+        "Ein Kugelschreiber wird dabei nicht als Stichwaffe benutzt."
+      ],
+      "short": "Smith setzt eine Karotte als Waffe ein.",
+      "context": "Smith (Clive Owen) isst regelmäßig Karotten und benutzt eine davon beim ersten Eingreifen gegen den Verfolger der schwangeren Frau als Waffe. Das alltägliche Nahrungsmittel wird zum wiederkehrenden Motiv der überzeichneten Action. Es kehrt am Ende erneut in einer Waffenhandlung wieder. Die Eröffnung stellt damit früh klar, dass der Film physische Gewalt mit absurder Improvisation verbindet.",
+      "anchor": "Smiths Karotte ist zugleich Snack und improvisiertes Actionmotiv.",
+      "interest": "Der markante Gegenstand erschließt den überzeichneten Ton des Films.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Beobachtung bringt Smith (Clive Owen) in @ auf eine Spur zur Unterkunft der Mutter?",
+      "answers": [
+        "Bei Heavy Metal hört es auf zu weinen.",
+        "Bei Glockenklang beginnt es zu lachen.",
+        "Bei Sirenengeräuschen schläft es sofort ein.",
+        "Bei einer bestimmten Radiowerbung schreckt es auf."
+      ],
+      "feedback": [
+        "Die beruhigende Wirkung von Heavy Metal liefert Smith die Spur.",
+        "Glockenklang ist nicht die ausschlaggebende Reaktion.",
+        "Eine Sirene lenkt ihn nicht zum Club.",
+        "Eine Radiowerbung liefert diesen Hinweis nicht."
+      ],
+      "short": "Heavy Metal beruhigt das Baby und weist auf den Club.",
+      "context": "Smith (Clive Owen) bemerkt mit Donna Quintano (Monica Bellucci), dass der Junge bei Heavy-Metal-Musik nicht mehr weint. Er vermutet, dass die Mutter in der Nähe eines solchen Clubs gelebt hat. Oberhalb des passenden Lokals finden sie die medizinische Einrichtung. Ein scheinbar komischer Betreuungseffekt wird damit zum konkreten Ermittlungshinweis, der die Herkunft des Kindes und die Bedrohung verständlicher macht.",
+      "anchor": "Die beruhigende Musik wird zur Spur zum Geburtsprojekt.",
+      "interest": "Eine Reaktion des Kindes trägt die Ermittlung weiter.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Warum wurden in der medizinischen Einrichtung in @ gezielt Kinder gezeugt?",
+      "answers": [
+        "Als mögliche Knochenmarkspender für einen krebskranken Politiker",
+        "Als Erben eines kinderlosen Waffenherstellers",
+        "Als Tarnung für einen internationalen Adoptionsring",
+        "Als Versuchspersonen für ein neues Beruhigungsmittel"
+      ],
+      "feedback": [
+        "Die Kinder sollen passende Spender für Senator Rutledge liefern.",
+        "Eine private Erbfolge ist nicht der Zweck der Einrichtung.",
+        "Ein Adoptionsring ist nicht die aufgedeckte Operation.",
+        "Ein Medikamentenversuch erklärt die Schwangerschaften nicht."
+      ],
+      "short": "Die Kinder wurden als mögliche Knochenmarkspender gezeugt.",
+      "context": "In der Einrichtung über dem Club entdeckt Smith (Clive Owen) Hinweise auf künstliche Befruchtungen mit Proben eines einzigen Mannes. Er verbindet sie mit Senator Rutledge (Daniel Pilon), einem krebskranken Präsidentschaftskandidaten. Die Kinder sollen als passende Knochenmarkspender dienen. Das überlebende Baby wird deshalb zum Ziel einer politischen Machtoperation, deren Beteiligte Gesundheit, Waffenpolitik und persönliche Interessen miteinander verknüpfen.",
+      "anchor": "Das bedrohte Kind hängt mit Rutledges Spenderprojekt zusammen.",
+      "interest": "Die Enthüllung erklärt den ungewöhnlichen politischen Grund der Jagd.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welcher Hinweis verrät Smith (Clive Owen) in @ Rutledges (Daniel Pilon) Verbindung zu Hammerson (Stephen McHattie)?",
+      "answers": [
+        "Hundehaare auf seiner Hose",
+        "Eine Patronenhülse in seiner Manteltasche",
+        "Ein Schlüssel zur Fabrik an seinem Bund",
+        "Eine signierte Fotografie auf seinem Schreibtisch"
+      ],
+      "feedback": [
+        "Die Haare verbinden Rutledge mit Hammersons Hund Duchess.",
+        "Eine mitgeführte Patronenhülse ist nicht der enthüllende Hinweis.",
+        "Smith erkennt die Verbindung nicht an einem Fabrikschlüssel.",
+        "Ein Foto auf dem Schreibtisch spielt bei dieser Begegnung keine Rolle."
+      ],
+      "short": "Hundehaare verraten Rutledges Kontakt zu Hammerson.",
+      "context": "Smith (Clive Owen) hat in Hammersons (Stephen McHattie) Fabrik dessen Schäferhund Duchess gesehen. Bei der Begegnung mit Senator Rutledge (Daniel Pilon) bemerkt er passende Hundehaare auf dessen Hose. Daraus folgert er, dass der Politiker bereits mit dem Waffenhersteller verhandelt hat. Der scheinbar nebensächliche materielle Hinweis widerlegt das erwartete Bild eines von den Verfolgern getrennten möglichen Verbündeten.",
+      "anchor": "Duchess’ Haare verbinden den Senator mit dem Waffenhersteller.",
+      "interest": "Das kleine Indiz verändert Smiths Einschätzung der Machtverhältnisse.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie schießt Smith (Clive Owen) in @ trotz gebrochener Finger im letzten Kampf auf Hertz (Paul Giamatti)?",
+      "answers": [
+        "Er zündet Patronen zwischen seinen Fingern am Kamin.",
+        "Er bedient eine Pistole mit dem Fuß.",
+        "Er löst zuvor angebrachte Waffenfallen per Seil aus.",
+        "Er bringt Hertz dazu, auf eine versteckte Waffe zu treten."
+      ],
+      "feedback": [
+        "Die Kaminhitze zündet die zwischen den Fingern gehaltenen Patronen.",
+        "Smith feuert hier nicht mit einer vom Fuß gehaltenen Pistole.",
+        "Die früheren Waffenfallen sind nicht die Lösung dieser Konfrontation.",
+        "Eine durch Auftreten ausgelöste Waffe wird nicht verwendet."
+      ],
+      "short": "Smith improvisiert mit Patronen und Kaminhitze.",
+      "context": "Hertz (Paul Giamatti) bricht Smiths (Clive Owen) Finger, um das Versteck von Donna Quintano (Monica Bellucci) und dem Kind zu erfahren. Smith kann seine Pistole deshalb nicht mehr gewöhnlich bedienen. Im weiteren Kampf hält er Patronen zwischen den verletzten Fingern und zündet sie mit Kaminhitze. Die Szene setzt die durchgehende Improvisationslogik des Films unter einer neuen körperlichen Einschränkung fort.",
+      "anchor": "Gebrochene Finger führen zur extremen Patronenimprovisation.",
+      "interest": "Der Schluss greift die ungewöhnlichen Waffenlösungen des Films auf.",
+      "sources": [
+        "handlung"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Clive Owen erstmals?",
+      "answers": [
+        "2007",
+        "2004",
+        "2006",
+        "2010"
+      ],
+      "feedback": [
+        "BFI führt das Erscheinungsjahr 2007.",
+        "2004 liegt drei Jahre vor diesem Film.",
+        "2006 erschien Children of Men.",
+        "2010 liegt drei Jahre nach Shoot ’Em Up."
+      ],
+      "short": "Shoot ’Em Up erschien 2007.",
+      "context": "Children of Men erschien 2006; Shoot ’Em Up folgte 2007, nur ein Jahr später. In beiden Filmen spielt Clive Owen einen Mann, der ein Kind in einer gewalttätigen Umgebung beschützt. Die unterschiedlichen Erzählwelten machen die Verbindung besonders einprägsam. BFI verzeichnet für Shoot ’Em Up das Jahr 2007; der Filmartikel nennt den US-Kinostart am 7. September.",
+      "anchor": "2006 Children of Men, 2007 Shoot ’Em Up: ein Jahr Abstand.",
+      "interest": "Zwei konkrete Owen-Rollen verbinden Jahr und Schutzmotiv.",
+      "sources": [
+        "bfi",
+        "anker",
+        "handlung"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer schrieb und inszenierte @?",
+      "answers": [
+        "Michael Davis",
+        "Antoine Fuqua",
+        "Jonathan Mostow",
+        "Rob Cohen"
+      ],
+      "feedback": [
+        "Michael Davis ist bei BFI sowohl als Autor als auch als Regisseur genannt.",
+        "Antoine Fuqua hat hier keinen Drehbuch- oder Regiecredit.",
+        "Jonathan Mostow inszenierte diesen Film nicht.",
+        "Rob Cohen ist nicht der verantwortliche Autor und Regisseur."
+      ],
+      "short": "Michael Davis schrieb und inszenierte den Film.",
+      "context": "Der BFI-Datensatz nennt Michael Davis für Drehbuch und Regie sowie Clive Owen, Paul Giamatti und Monica Bellucci als zentrale Darsteller. Die Handlung verbindet einen verfolgten Säugling mit ständig neuen Waffenimprovisationen. Davis entwickelt damit sowohl die Geschichte als auch ihre filmische Umsetzung. Sein gemeinsamer Credit ordnet die konkrete Action ihrem verantwortlichen Filmemacher zu und unterscheidet ihn von anderen zeitgenössischen Genreregisseuren.",
+      "anchor": "Michael Davis verantwortet Drehbuch und Regie.",
+      "interest": "Der gemeinsame Credit verbindet die Actionszenen mit ihrer erzählerischen Konzeption.",
+      "sources": [
+        "bfi",
+        "handlung"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1069 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "as_of": "2026-10-08",
+  "integration_route": "explicit_csv_year_and_director",
+  "films": [
+    {
+      "rank": 1,
+      "film_title_de": "Dirty Harry",
+      "film_title_original": "Dirty Harry",
+      "film_year": 1971,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Prägender und häufig zitierter Polizeifilm mit Clint Eastwood; Bekanntheit 2 ist redaktionelle Einschätzung.",
+      "directors": [
+        "Don Siegel"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI: Weltpremiere San Francisco am 21. Dezember 1971; New York und Los Angeles am 22. Dezember. Die Wikipedia-Infobox nennt erst den 23. Dezember; erstes Veröffentlichungsjahr bleibt 1971.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/54036-DIRTY-HARRY",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-001-L1",
+      "year_question_id": "G100-20261008-ACTION-001-Y",
+      "director_question_id": "G100-20261008-ACTION-001-D"
+    },
+    {
+      "rank": 2,
+      "film_title_de": "Assault – Anschlag bei Nacht",
+      "film_title_original": "Assault on Precinct 13",
+      "film_year": 1976,
+      "subdomain": "Action",
+      "familiarity_level": 3,
+      "familiarity_reason": "Einflussreicher Belagerungsfilm und frühes Schlüsselwerk Carpenters; Bekanntheit 3.",
+      "directors": [
+        "John Carpenter"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI: Los Angeles am 3. November 1976. Carpenters offizielle Filmseite nennt den 10. November 1976; die Abweichung betrifft den Tag, nicht das erste Veröffentlichungsjahr.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Assault_on_Precinct_13_(1976_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/56075-ASSAULT-ON-PRECINCT-13",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "regisseur",
+          "url": "https://theofficialjohncarpenter.com/assault-of-precinct-13/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.bfi.org.uk/lists/great-action-film-every-year-1924-now",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-002-L1",
+      "year_question_id": "G100-20261008-ACTION-002-Y",
+      "director_question_id": "G100-20261008-ACTION-002-D"
+    },
+    {
+      "rank": 3,
+      "film_title_de": "Getaway",
+      "film_title_original": "The Getaway",
+      "film_year": 1972,
+      "subdomain": "Action",
+      "familiarity_level": 3,
+      "familiarity_reason": "Prägender Verbrecher- und Fluchtfilm mit Steve McQueen; Bekanntheit 3.",
+      "directors": [
+        "Sam Peckinpah"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI: Veröffentlichung Dezember 1972, Los-Angeles-Eröffnung am 19. Dezember 1972.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Getaway_(1972_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/54532-THE-GETAWAY",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bullitt",
+          "url": "https://catalog.afi.com/Film/23455-BULLITT",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-003-L1",
+      "year_question_id": "G100-20261008-ACTION-003-Y",
+      "director_question_id": "G100-20261008-ACTION-003-D"
+    },
+    {
+      "rank": 4,
+      "film_title_de": "Mad Max",
+      "film_title_original": "Mad Max",
+      "film_year": 1979,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Der Reihenbeginn mit Mel Gibson ist ein markanter Actionklassiker; Bekanntheit 2.",
+      "directors": [
+        "George Miller"
+      ],
+      "production_countries": [
+        "Australien"
+      ],
+      "country_note": "",
+      "release_note": "Erste australische Veröffentlichung am 12. April 1979 laut Filmquelle; NFSA führt die Filmfassung als 1979. Der US-Kinostart 1980 ist nicht das erste Veröffentlichungsjahr.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Mad_Max_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://aso.gov.au/titles/features/mad-max/credits/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "notizen",
+          "url": "https://aso.gov.au/titles/features/mad-max/notes/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "fortsetzung",
+          "url": "https://aso.gov.au/titles/features/mad-max-2/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-004-L1",
+      "year_question_id": "G100-20261008-ACTION-004-Y",
+      "director_question_id": "G100-20261008-ACTION-004-D"
+    },
+    {
+      "rank": 5,
+      "film_title_de": "Express in die Hölle",
+      "film_title_original": "Runaway Train",
+      "film_year": 1985,
+      "subdomain": "Action",
+      "familiarity_level": 3,
+      "familiarity_reason": "Markanter Zug- und Gefängnisfluchtfilm mit Jon Voight; Bekanntheit 3.",
+      "directors": [
+        "Andrei Konchalovsky"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI: Los Angeles am 6. Dezember 1985, New York in derselben Woche. Die spätere breite US-Auswertung und das Copyrightdatum 1986 ändern das erste Veröffentlichungsjahr 1985 nicht.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Runaway_Train_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/58337-RUNAWAY-TRAIN",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-005-L1",
+      "year_question_id": "G100-20261008-ACTION-005-Y",
+      "director_question_id": "G100-20261008-ACTION-005-D"
+    },
+    {
+      "rank": 6,
+      "film_title_de": "Leben und Sterben in L.A.",
+      "film_title_original": "To Live and Die in L.A.",
+      "film_year": 1985,
+      "subdomain": "Action",
+      "familiarity_level": 3,
+      "familiarity_reason": "Markanter Gegenpol zu konventionellen Polizeifilmen der 1980er mit Geldfälschung und riskanter Verfolgung; Bekanntheit 3.",
+      "directors": [
+        "William Friedkin"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI: Los Angeles und New York am 1. November 1985.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/To_Live_and_Die_in_L.A._(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/67349-TO-LIVEANDDIEINLA",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-006-L1",
+      "year_question_id": "G100-20261008-ACTION-006-Y",
+      "director_question_id": "G100-20261008-ACTION-006-D"
+    },
+    {
+      "rank": 7,
+      "film_title_de": "Alarmstufe: Rot",
+      "film_title_original": "Under Siege",
+      "film_year": 1992,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Seagal-Actionfilm mit einer klaren Belagerungskonstellation; Bekanntheit 2.",
+      "directors": [
+        "Andrew Davis"
+      ],
+      "production_countries": [
+        "USA",
+        "Frankreich"
+      ],
+      "country_note": "",
+      "release_note": "AFI: Los Angeles und New York am 9. Oktober 1992. AFI und Filmquelle führen USA/Frankreich als Produktionsländer.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Under_Siege",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/59422-UNDER-SIEGE",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "aufderflucht",
+          "url": "https://catalog.afi.com/Film/67728-THE-FUGITIVE",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-007-L1",
+      "year_question_id": "G100-20261008-ACTION-007-Y",
+      "director_question_id": "G100-20261008-ACTION-007-D"
+    },
+    {
+      "rank": 8,
+      "film_title_de": "James Bond 007 – Liebesgrüße aus Moskau",
+      "film_title_original": "From Russia with Love",
+      "film_year": 1963,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Früher und besonders prägender Bond-Spionagefilm mit Connery; Bekanntheit 2.",
+      "directors": [
+        "Terence Young"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "country_note": "BFI-Kurzeintrag nennt nur Vereinigtes Königreich; AFI und Filmquelle nennen Vereinigtes Königreich/USA. Die Zweiländerzuordnung folgt der ausführlicheren AFI-Länderliste.",
+      "release_note": "Londoner Premiere am 10. Oktober 1963 laut Filmquelle; BFI führt 1963. AFI nennt den US-Start 8. April 1964, vermerkt aber ausdrücklich London Oktober 1963. Erstjahr ist 1963.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/From_Russia_with_Love_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/22487-FROM-RUSSIA-WITH-LOVE",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/f0ff34fe-938e-5704-bc5b-80648a1a01a3/from-russia-with-love",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "spionage",
+          "url": "https://www.bfi.org.uk/lists/10-great-spy-films",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-008-L1",
+      "year_question_id": "G100-20261008-ACTION-008-Y",
+      "director_question_id": "G100-20261008-ACTION-008-D"
+    },
+    {
+      "rank": 9,
+      "film_title_de": "James Bond 007 – Im Geheimdienst Ihrer Majestät",
+      "film_title_original": "On Her Majesty's Secret Service",
+      "film_year": 1969,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Lazenbys Bondfilm mit ungewöhnlichem Liebes- und Tragödienbogen ist für das breite Genrepublikum bekannt; Bekanntheit 2.",
+      "directors": [
+        "Peter R. Hunt"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "country_note": "BFI-Kurzeintrag nennt Vereinigtes Königreich; AFI und Filmquelle nennen zusätzlich USA. Übernommen ist die ausführlichere AFI-Länderliste.",
+      "release_note": "AFI nennt eine Los-Angeles-Eröffnung am 17. Dezember 1969; Filmquelle nennt Londoner Premiere am 18. Dezember und US-Start am 19. Dezember. Diese Tagesabweichung bleibt offen; alle Belege bestätigen Erstjahr 1969.",
+      "director_note": "Peter R. Hunt (AFI/BFI: Peter Hunt) ist der alleinige Hauptregisseur. John Glen: zweite Einheit; Anthony Squire: Stock-Car-Sequenz; keine gemeinsamen Hauptregiecredits.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/On_Her_Majesty%27s_Secret_Service_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/22372",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/eba2974f-3aa4-55dc-b3b1-7cc5841bdeef/on-her-majestys-secret-service",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-009-L1",
+      "year_question_id": "G100-20261008-ACTION-009-Y",
+      "director_question_id": "G100-20261008-ACTION-009-D"
+    },
+    {
+      "rank": 10,
+      "film_title_de": "James Bond 007 – Der Spion, der mich liebte",
+      "film_title_original": "The Spy Who Loved Me",
+      "film_year": 1977,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Ein weithin bekannter Roger-Moore-Bond mit dem Lotus-U-Boot und Beißer, auch unabhängig von genauer Reihenkenntnis wiedererkennbar.",
+      "directors": [
+        "Lewis Gilbert"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich"
+      ],
+      "country_note": "Das BFI-Filmarchiv führt das Vereinigte Königreich; die Wikipedia-Infobox nennt zusätzlich die USA. Hier folgt die Länderangabe dem BFI, nicht den internationalen Drehorten.",
+      "release_note": "Erste Veröffentlichung 1977; London-Premiere am 7. Juli, regulärer britischer Start am 8. Juli 1977.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Spy_Who_Loved_Me_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/2033bb42-896f-5cb8-a411-ce46388946a0/the-spy-who-loved-me",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "regie",
+          "url": "https://www.007.com/focus-week-lewis-gilbert/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "buehne",
+          "url": "https://www.007.com/focus-week-albert-r-broccoli-007-stage/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-010-L1",
+      "year_question_id": "G100-20261008-ACTION-010-Y",
+      "director_question_id": "G100-20261008-ACTION-010-D"
+    },
+    {
+      "rank": 11,
+      "film_title_de": "James Bond 007 – Lizenz zum Töten",
+      "film_title_original": "Licence to Kill",
+      "film_year": 1989,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Timothy Daltons zweiter Bond-Film ist innerhalb der weithin bekannten Reihe gut wiedererkennbar, besitzt aber keine vergleichbare Einzelbekanntheit wie Goldfinger.",
+      "directors": [
+        "John Glen"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Veröffentlichung 1989; London-Premiere am 13. Juni 1989, britischer und US-Kinostart im Juli.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Licence_to_Kill",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "regie",
+          "url": "https://www.007.com/focus-week-john-glen/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.007.com/007-first-and-last/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "stunts",
+          "url": "https://www.007.com/shooting-licence-to-kills-tanker-chase/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-011-L1",
+      "year_question_id": "G100-20261008-ACTION-011-Y",
+      "director_question_id": "G100-20261008-ACTION-011-D"
+    },
+    {
+      "rank": 12,
+      "film_title_de": "Bad Boys II",
+      "film_title_original": "Bad Boys II",
+      "film_year": 2003,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Fortsetzung mit Will Smith und Martin Lawrence gehört zu einer breit bekannten Buddy-Cop-Reihe und besitzt besonders markante Verfolgungssequenzen.",
+      "directors": [
+        "Michael Bay"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Premiere am 9. Juli 2003 in Westwood, Los Angeles; regulärer US-Kinostart am 18. Juli 2003.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Bad_Boys_II",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/badboysii",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.co.uk/detail/news-photo/actors-martin-lawrence-and-will-smith-attend-the-bad-boys-news-photo/2148992",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "reihenstart",
+          "url": "https://www.sonypictures.com/movies/badboys",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vorbild",
+          "url": "https://www.bfi.org.uk/lists/great-action-film-every-year-1924-now",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-012-L1",
+      "year_question_id": "G100-20261008-ACTION-012-Y",
+      "director_question_id": "G100-20261008-ACTION-012-D"
+    },
+    {
+      "rank": 13,
+      "film_title_de": "Mission: Impossible III",
+      "film_title_original": "Mission: Impossible III",
+      "film_year": 2006,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Tom Cruise, die verbreitete Kinoreihe und Philip Seymour Hoffmans Gegnerrolle machen den dritten Film für ein breites Actionpublikum gut erkennbar.",
+      "directors": [
+        "J. J. Abrams"
+      ],
+      "production_countries": [
+        "USA",
+        "Deutschland",
+        "China"
+      ],
+      "country_note": "BFIs Filmarchiv nennt Germany, USA und People's Republic of China. Die Wikipedia-Infobox führt nur USA. Die Liste folgt dem Filmarchiv; Drehorte allein wurden nicht als Länderbeleg benutzt.",
+      "release_note": "Weltpremiere am 24. April 2006 im Cinema Adriano in Rom; US-Kinostart am 5. Mai 2006. Die Infobox nennt nur den späteren US-Start.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_III",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.paramountpictures.com/movies/mission-impossible-iii",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/cb2cf43d-edbf-5acd-93eb-8776068ca5a1/mission-impossible-iii",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.ie/photos/impossible-iii-rome-premiere-arrivals",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.bfi.org.uk/features/mission-impossible-fallout-stunts",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-013-L1",
+      "year_question_id": "G100-20261008-ACTION-013-Y",
+      "director_question_id": "G100-20261008-ACTION-013-D"
+    },
+    {
+      "rank": 14,
+      "film_title_de": "Mission: Impossible – Rogue Nation",
+      "film_title_original": "Mission: Impossible – Rogue Nation",
+      "film_year": 2015,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die bekannte Tom-Cruise-Reihe, Rebecca Fergusons Einstieg und der öffentlich stark präsentierte Flugzeugstunt machen diesen Teil gut erkennbar.",
+      "directors": [
+        "Christopher McQuarrie"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "country_note": "BFIs Statistical Yearbook 2019 führt Rogue Nation in der Fernsehauswertung als UK/USA (Tabelle 10, gedruckte Seite 118). Wikipedia nennt nur USA. Hier wird die institutionelle Länderzuordnung übernommen; Marokko und Österreich sind dadurch nicht automatisch Produktionsländer.",
+      "release_note": "Weltpremiere am 23. Juli 2015 in der Wiener Staatsoper; US-Kinostart am 31. Juli 2015.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://ir.paramount.com/static-files/9fb6b323-0f9c-45b2-b4df-b3a140898a4b",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.co.uk/detail/news-photo/simon-pegg-and-host-steven-gaetjen-speak-on-stage-during-news-photo/481681270",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "laender",
+          "url": "https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2019.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "effekte",
+          "url": "https://www.fxguide.com/fxfeatured/hold-on-the-vfx-of-rogue-nation/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.bfi.org.uk/features/mission-impossible-fallout-stunts",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-014-L1",
+      "year_question_id": "G100-20261008-ACTION-014-Y",
+      "director_question_id": "G100-20261008-ACTION-014-D"
+    },
+    {
+      "rank": 15,
+      "film_title_de": "Die Bourne Verschwörung",
+      "film_title_original": "The Bourne Supremacy",
+      "film_year": 2004,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Der zweite Matt-Damon-Bourne und seine handgeführte Action sind einem breiten Actionpublikum bekannt, erfordern aber für Nebenfiguren gezielte Filmkenntnis.",
+      "directors": [
+        "Paul Greengrass"
+      ],
+      "production_countries": [
+        "USA",
+        "Deutschland"
+      ],
+      "country_note": "BFI führt Deutschland und USA; die Wikipedia-Infobox nennt nur USA. Die Länderangabe folgt dem BFI-Filmarchiv, nicht der Verteilung der Drehorte.",
+      "release_note": "Hollywood-Premiere am 15. Juli 2004; regulärer US-Kinostart am 23. Juli 2004.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/489d9531-6e89-5572-9afe-6b5a975957ac/the-bourne-supremacy",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "stil",
+          "url": "https://player.bfi.org.uk/rentals/film/watch-the-bourne-supremacy-2004-online",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "reihenstart",
+          "url": "https://www.universalpicturesathome.com/movies/the-bourne-identity",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-015-L1",
+      "year_question_id": "G100-20261008-ACTION-015-Y",
+      "director_question_id": "G100-20261008-ACTION-015-D"
+    },
+    {
+      "rank": 16,
+      "film_title_de": "Das Bourne Ultimatum",
+      "film_title_original": "The Bourne Ultimatum",
+      "film_year": 2007,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Der Abschluss der ursprünglichen Matt-Damon-Trilogie ist im Actiongenre sehr bekannt; Details der verdeckten Programme und des Schlusses verlangen genauere Filmkenntnis.",
+      "directors": [
+        "Paul Greengrass"
+      ],
+      "production_countries": [
+        "USA",
+        "Deutschland"
+      ],
+      "country_note": "BFI führt USA und Deutschland; die Wikipedia-Infobox nennt nur USA. Die Angabe folgt dem BFI-Filmarchiv.",
+      "release_note": "Premiere am 25. Juli 2007 im ArcLight Hollywood, durch Getty-Fotodokumentation bestätigt; US-Kinostart am 3. August 2007.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.bfi.org.uk/film/69358b29-8324-5c8e-96e9-fdde46982d8b/the-bourne-ultimatum",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.co.uk/detail/news-photo/actor-matt-damon-director-paul-greengrass-producers-frank-news-photo/75662026",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "vorgaenger",
+          "url": "https://www.bfi.org.uk/film/489d9531-6e89-5572-9afe-6b5a975957ac/the-bourne-supremacy",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-016-L1",
+      "year_question_id": "G100-20261008-ACTION-016-Y",
+      "director_question_id": "G100-20261008-ACTION-016-D"
+    },
+    {
+      "rank": 17,
+      "film_title_de": "Lethal Weapon 3 – Die Profis sind zurück",
+      "film_title_original": "Lethal Weapon 3",
+      "film_year": 1992,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Die dritte Riggs-Murtaugh-Folge gehört zur bekannten Buddy-Cop-Reihe; Produktionscredits und die genaue Auflösung verlangen vertiefte Kenntnis.",
+      "directors": [
+        "Richard Donner"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI dokumentiert den Kinostart in Los Angeles und New York am 15. Mai 1992; kein früheres Veröffentlichungsjahr belegt.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_3",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59301",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/b8b4d65d-61d6-5cda-8cd6-5b5da7d85c82/lethal-weapon-3",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "reihenstart",
+          "url": "https://catalog.afi.com/Film/68361-LETHAL-WEAPON",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-017-L1",
+      "year_question_id": "G100-20261008-ACTION-017-Y",
+      "director_question_id": "G100-20261008-ACTION-017-D"
+    },
+    {
+      "rank": 18,
+      "film_title_de": "Lethal Weapon 4 – Zwei Profis räumen auf",
+      "film_title_original": "Lethal Weapon 4",
+      "film_year": 1998,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Der vierte Riggs/Murtaugh-Film mit Mel Gibson, Danny Glover und Jet Li gehört zur bekannten Actionreihe.",
+      "directors": [
+        "Richard Donner"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Kinoauswertung 1998; AFI nennt den US-Kinostart am 10. Juli 1998.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Lethal_Weapon_4",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/61010",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anfang",
+          "url": "https://catalog.afi.com/Film/68361-LETHAL-WEAPON",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-018-L1",
+      "year_question_id": "G100-20261008-ACTION-018-Y",
+      "director_question_id": "G100-20261008-ACTION-018-D"
+    },
+    {
+      "rank": 19,
+      "film_title_de": "Black Rain",
+      "film_title_original": "Black Rain",
+      "film_year": 1989,
+      "subdomain": "Action",
+      "familiarity_level": 3,
+      "familiarity_reason": "Ridley Scotts Japan-Polizeithriller mit Michael Douglas ist ein bekannter Genrebeitrag für Kenner.",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "Japan ist zentraler Handlungs- und Drehort; AFI führt das Produktionsland USA.",
+      "release_note": "US-Kinoveröffentlichung am 22. September 1989 laut AFI.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Black_Rain_(1989_American_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/57924-BLACK-RAIN",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/Blade_Runner",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-019-L1",
+      "year_question_id": "G100-20261008-ACTION-019-Y",
+      "director_question_id": "G100-20261008-ACTION-019-D"
+    },
+    {
+      "rank": 20,
+      "film_title_de": "Crank",
+      "film_title_original": "Crank",
+      "film_year": 2006,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Jason Stathams Adrenalin-Action ist als eigenwilliger moderner Genrefilm weithin bekannt.",
+      "directors": [
+        "Mark Neveldine",
+        "Brian Taylor"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Veröffentlichung 2006; BFI und BBFC führen 2006, der Filmartikel den US-Kinostart am 1. September.",
+      "director_note": "Gemeinsamer Regiecredit laut BFI. Die BBFC-Seite nennt nur Mark Neveldine und ist dafür unvollständig.",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Crank_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/99342a09-6960-52a7-b7f7-ae36edbf369e/crank",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bbfc",
+          "url": "https://www.bbfc.co.uk/release/crank-q29sbgvjdglvbjpwwc00mtm5odm",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/The_Transporter",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-020-L1",
+      "year_question_id": "G100-20261008-ACTION-020-Y",
+      "director_question_id": "G100-20261008-ACTION-020-D"
+    },
+    {
+      "rank": 21,
+      "film_title_de": "Ein Mann sieht rot",
+      "film_title_original": "Death Wish",
+      "film_year": 1974,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Charles Bronsons Selbstjustizfilm begründete eine weithin bekannte Filmreihe.",
+      "directors": [
+        "Michael Winner"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste US-Kinoauswertung im Juli 1974; AFI nennt die New Yorker Eröffnung am 24. Juli 1974.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Death_Wish_(1974_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54021-DEATH-WISH",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/Dirty_Harry",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-021-L1",
+      "year_question_id": "G100-20261008-ACTION-021-Y",
+      "director_question_id": "G100-20261008-ACTION-021-D"
+    },
+    {
+      "rank": 22,
+      "film_title_de": "Fluchtpunkt San Francisco",
+      "film_title_original": "Vanishing Point",
+      "film_year": 1971,
+      "subdomain": "Action",
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Dodge-Challenger-Verfolgung gehört zu den prägenden Road- und Auto-Actionfilmen für Genrekenner.",
+      "directors": [
+        "Richard C. Sarafian"
+      ],
+      "production_countries": [
+        "USA",
+        "Großbritannien"
+      ],
+      "country_note": "AFI führt USA; BFI nennt USA und Großbritannien, weshalb beide Produktionsländer übernommen werden. Die UK-Fassung hat eine zusätzliche Anhalterinnenszene mit Charlotte Rampling; die Fragen betreffen die gemeinsame Handlung.",
+      "release_note": "Erste Veröffentlichung im März 1971 laut AFI; dort Los Angeles 18. März und New York 24. März. Der Filmartikel nennt 13. März; das Erstjahr 1971 ist eindeutig.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54161-VANISHING-POINT",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/7ac0ed27-7fb6-5839-b126-902e34a1a7dd/vanishing-point",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/Bullitt",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-022-L1",
+      "year_question_id": "G100-20261008-ACTION-022-Y",
+      "director_question_id": "G100-20261008-ACTION-022-D"
+    },
+    {
+      "rank": 23,
+      "film_title_de": "Tropa de Elite",
+      "film_title_original": "Tropa de Elite",
+      "film_year": 2007,
+      "subdomain": "Action",
+      "familiarity_level": 3,
+      "familiarity_reason": "Der international erfolgreiche brasilianische Polizeifilm ist für Genrekenner prägend, aber keine allgemeine Filmikone.",
+      "directors": [
+        "José Padilha"
+      ],
+      "production_countries": [
+        "Brasilien",
+        "Argentinien"
+      ],
+      "country_note": "Der englische Filmartikel führt Brasilien; das französische Verleihpresseheft nennt ausdrücklich Brésil/Argentine. Die Koproduktionsangabe des Pressehefts wird übernommen.",
+      "release_note": "Brasilianische Erstveröffentlichung 2007; ANCINE bestätigt den regulären Kinostart im Oktober 2007. Berlinale- und französische Auswertung 2008 sind spätere Termine.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Elite_Squad",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "presse",
+          "url": "https://bossa-nova.info/actualite/2008/tropa_de_elite/ecrans_tropa_de_elite/DP_tropa_de_elite.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "ancine",
+          "url": "https://www.gov.br/ancine/pt-br/assuntos/noticias/producoes-brasileiras-independentes-estrelam-campanha-publicitaria-da-ancine",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/9b7c5b2d-5aef-521e-ac6e-629736313de1/the-city-of-god",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-023-L1",
+      "year_question_id": "G100-20261008-ACTION-023-Y",
+      "director_question_id": "G100-20261008-ACTION-023-D"
+    },
+    {
+      "rank": 24,
+      "film_title_de": "Shoot ’Em Up",
+      "film_title_original": "Shoot 'Em Up",
+      "film_year": 2007,
+      "subdomain": "Action",
+      "familiarity_level": 3,
+      "familiarity_reason": "Der überzeichnete Actionfilm mit Clive Owen, Paul Giamatti und Monica Bellucci ist ein markanter Kennerfilm.",
+      "directors": [
+        "Michael Davis"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "Drehort Toronto ist kein zusätzliches Produktionsland; BFI führt USA.",
+      "release_note": "Erste Veröffentlichung 2007 laut BFI; der Filmartikel verzeichnet den US-Kinostart am 7. September 2007.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/ea15b9da-048f-590c-b11a-a514f47e667b/shoot-em-up",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://en.wikipedia.org/wiki/Children_of_Men",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-024-L1",
+      "year_question_id": "G100-20261008-ACTION-024-Y",
+      "director_question_id": "G100-20261008-ACTION-024-D"
+    },
+    {
+      "rank": 25,
+      "film_title_de": "Jack Reacher",
+      "film_title_original": "Jack Reacher",
+      "film_year": 2012,
+      "subdomain": "Action",
+      "familiarity_level": 2,
+      "familiarity_reason": "Der erste Tom-Cruise-Kinofilm nach Lee Childs Romanfigur ist ein bekannter moderner Actionthriller.",
+      "directors": [
+        "Christopher McQuarrie"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erste Veröffentlichung 2012; London-Premiere am 10. Dezember und US-Kinostart am 21. Dezember laut Filmartikel. Paramount bestätigt Jahr 2012 und den Kinofilm mit Tom Cruise.",
+      "director_note": "",
+      "series": null,
+      "sources": [
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jack_Reacher_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.paramount.de/jack-reacher",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "anker",
+          "url": "https://www.bfi.org.uk/film/dc00adad-bc89-5fc0-bea5-714bc0a6e5f0/mission-impossible-ghost-protocol",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-ACTION-025-L1",
+      "year_question_id": "G100-20261008-ACTION-025-Y",
+      "director_question_id": "G100-20261008-ACTION-025-D"
+    }
+  ]
+}

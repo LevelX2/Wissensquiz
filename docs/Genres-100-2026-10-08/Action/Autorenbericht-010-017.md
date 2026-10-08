@@ -1,0 +1,30 @@
+# Autorenbericht Action 010–017
+
+Stand: 8. Oktober 2026. Acht Filmpakete mit 64 Fragen sind zur unabhängigen Gegenprüfung freigegeben. Je Film: L1/L2, M1/M2, S1/S2, Y und D. Ab diesem Stand keine weiteren Autorenänderungen an diesem Block.
+
+## Abgleich und formale Prüfung
+
+Die vollständigen 10.877 Baseline-Fragen wurden einschließlich Personen- und Preisfragen durchsucht und passende Treffer inhaltlich verglichen. Hinzu kamen 552 Fragen aus den fertigen Abenteuer- und Thriller-Redaktionen. Es ergibt sich für die 64 gewählten Ziele kein erforderlicher Variantenbezug. Bestehende Fragen zu Fallout betreffen McQuarries erstmalige Regie bei aufeinanderfolgenden Teilen und Fallout als eigenständige Veröffentlichung; diese Ziele werden hier nicht wiederholt. Die beiden Greengrass-Regiefragen betreffen ausdrücklich unterschiedliche Filmcredits, keine allgemeine Bourne-Reihenregie.
+
+Alle acht Dateien sind gültiges JSON und enthalten exakt acht unterschiedliche Codes, je vier Antworten und individuelle Feedbacks. Alle Quellenkeys existieren. Die Frage einschließlich vollständigem deutschen Titel und sämtlichen Optionen hat höchstens 60 Wörter. Die Kontexte liegen innerhalb der gewünschten Orientierung. Jahrverknüpfungen nennen jeweils ein konkretes weiteres Werk, beide Jahre und den Abstand. Figuren erhalten Originaldarsteller; gesucht werden keine Schauspielernamen.
+
+## Tatsächlich gelesene Quellen
+
+Für sämtliche Filme wurden die individuell gespeicherten Wikipedia-Abschnitte Plot und Cast sowie relevante Produktionsabschnitte gelesen. Credits, Erstjahre und Produktionsziele wurden zusätzlich abgesichert:
+
+- 010: [BFI-Filmarchiv](https://www.bfi.org.uk/film/2033bb42-896f-5cb8-a411-ce46388946a0/the-spy-who-loved-me), [007-Lewis-Gilbert-Rückblick](https://www.007.com/focus-week-lewis-gilbert/), [007-Bühnenbau](https://www.007.com/focus-week-albert-r-broccoli-007-stage/). Der Neubau wird über die Größe des Tankerinnenraums erklärt.
+- 011: [007-John-Glen-Rückblick](https://www.007.com/focus-week-john-glen/), [Daltons beide Bond-Filme](https://www.007.com/007-first-and-last/), [007-Tanklasterdreharbeiten](https://www.007.com/shooting-licence-to-kills-tanker-chase/). Realer Fahrzeugstunt auf gesperrter mexikanischer Strecke; keine Behauptung, der gesamte Film verzichte auf Tricks.
+- 012: [Sony-Filmseite](https://www.sonypictures.com/movies/badboysii), [Sony-Reihenbeginn](https://www.sonypictures.com/movies/badboys), [Getty-Premiere](https://www.gettyimages.co.uk/detail/news-photo/actors-martin-lawrence-and-will-smith-attend-the-bad-boys-news-photo/2148992), [BFI-Actionrückschau](https://www.bfi.org.uk/lists/great-action-film-every-year-1924-now), Abschnitt 2003. Der Vergleich mit Police Story wird ausdrücklich als Elena Lazics BFI-Einordnung formuliert; keine zusätzlich behauptete Aussage der Filmemacher über ihren Einfluss.
+- 013: [Paramount-Filmseite](https://www.paramountpictures.com/movies/mission-impossible-iii), [BFI-Filmarchiv](https://www.bfi.org.uk/film/cb2cf43d-edbf-5acd-93eb-8776068ca5a1/mission-impossible-iii), [Getty-Rom-Premiere](https://www.gettyimages.ie/photos/impossible-iii-rome-premiere-arrivals), [BFI-Reihenrückblick](https://www.bfi.org.uk/features/mission-impossible-fallout-stunts). Rom, 24. April 2006, liegt vor dem regulären US-Start.
+- 014: [Paramount-Pressemitteilung](https://ir.paramount.com/static-files/9fb6b323-0f9c-45b2-b4df-b3a140898a4b), [Getty-Weltpremiere](https://www.gettyimages.co.uk/detail/news-photo/simon-pegg-and-host-steven-gaetjen-speak-on-stage-during-news-photo/481681270), [BFI Statistical Yearbook 2019](https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2019.pdf), Länderangabe in Tabelle 10 auf Seite 118 (in der Gegenprüfung präzisiert), [Effektverantwortlicher David Vickery bei fxguide](https://www.fxguide.com/fxfeatured/hold-on-the-vfx-of-rogue-nation/). Der reale Flug wird von digital entfernter Sicherung und bearbeitetem Hintergrund unterschieden.
+- 015: [BFI-Filmarchiv](https://www.bfi.org.uk/film/489d9531-6e89-5572-9afe-6b5a975957ac/the-bourne-supremacy), [BFI-Player-Stileinordnung](https://player.bfi.org.uk/rentals/film/watch-the-bourne-supremacy-2004-online), [Universal-Reihenbeginn](https://www.universalpicturesathome.com/movies/the-bourne-identity).
+- 016: [BFI-Filmarchiv](https://www.bfi.org.uk/film/69358b29-8324-5c8e-96e9-fdde46982d8b/the-bourne-ultimatum), [Getty-Premiere](https://www.gettyimages.co.uk/detail/news-photo/actor-matt-damon-director-paul-greengrass-producers-frank-news-photo/75662026). Die sechsten Inhaltsziele bleiben eigenständig: freiwilliger Programmeintritt und Paz' Reaktion auf die frühere Verschonung.
+- 017: [AFI-Filmarchiv](https://catalog.afi.com/Catalog/moviedetails/59301), History, Cast, Details und Synopsis, [BFI-Filmarchiv](https://www.bfi.org.uk/film/b8b4d65d-61d6-5cda-8cd6-5b5da7d85c82/lethal-weapon-3), [AFI-Reihenbeginn](https://catalog.afi.com/Film/68361-LETHAL-WEAPON). Darryl wird im AFI-Cast Bobby Wynn zugeordnet. Die doppelte Boam-Drehbuchnennung folgt dem ausdrücklich erläuterten WGA-Schiedsverfahren; sein zusätzlicher Story-Credit wird getrennt.
+
+## Abweichungen und Grenzen
+
+Bei 010 nennt das BFI nur Großbritannien, die Wikipedia-Infobox zusätzlich USA. 013 führt das BFI USA/Deutschland/China, Wikipedia nur USA. Bei 014 wird die im BFI-Jahrbuch geführte britisch-amerikanische Zuordnung übernommen. 015 und 016 führen nach BFI USA/Deutschland, während die jeweilige Wikipedia-Infobox nur USA nennt. Diese Unterschiede stehen in country_note und sind keine aus Drehorten abgeleiteten Länderbehauptungen.
+
+Der Wikipedia-Musikabschnitt zu 016 enthält die auffällige Aussage, Bourne höre beim Scharfschießen Scotty Doesn't Know. Sie wurde nicht verwendet. Die Fragen benötigen diese unplausible Angabe nicht.
+
+Die unabhängige redaktionelle Gegenprüfung und die zentrale Integration sind noch ausstehend. Es wurden keine zentralen Dateien, CSV, App-Dateien oder Commits verändert und keine App-Tests durchgeführt.
