@@ -1018,3 +1018,7 @@ Nutzerauftrag: alle neun Genres unter 100 Filmen sequenziell erweitern, beginnen
 ## 08.10.2026 – Genreausbau Western
 
 24 neue Filmfassungen und 192 individuelle Fragen, nun 100 Western-Filme / 832 Fragen. Gesamtkatalog 31 Pakete / 12.405 Fragen / 11.839 Ziele. 390 Logiktests, Produktionsbuild und zwölf isolierte Browserfälle in Chromium/Firefox bestanden. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](../../docs/Genres-100-2026-10-08/Western/Pruefbericht.md).
+
+## 08.10.2026 – Genreausbau Fantasy
+
+23 neue Filmfassungen und 184 individuelle Fragen, nun 100 Fantasy-Filme / 832 Fragen. Gesamtkatalog 32 Pakete / 12.589 Fragen / 12.023 Ziele. 391 Logiktests, Build und 13 Browserfälle bestanden. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](../../docs/Genres-100-2026-10-08/Fantasy/Pruefbericht.md).

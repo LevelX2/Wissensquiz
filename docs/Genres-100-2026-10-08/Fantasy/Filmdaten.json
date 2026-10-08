@@ -1,0 +1,996 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "as_of": "2026-10-08",
+  "integration_route": "explicit_csv_year_and_director",
+  "films": [
+    {
+      "rank": 1,
+      "film_title_de": "Es war einmal",
+      "film_title_original": "La Belle et la Bête",
+      "film_year": 1946,
+      "subdomain": "Fantasy",
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein prägender französischer Märchenfilm, im breiten Publikum weniger präsent als die Disney-Adaptionen; redaktionelle Bekanntheit 3.",
+      "directors": [
+        "Jean Cocteau"
+      ],
+      "production_countries": [
+        "Frankreich"
+      ],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 1946, französisches Cocteau-Original mit Josette Day und Jean Marais. Spätere Disney-Fassungen sind eigene Werke.",
+      "director_note": "Criterion führt Jean Cocteau als Hauptregisseur und René Clément als technischen Berater. Cléments belegte praktische Mitwirkung wird nicht als zweiter offizieller Hauptcredit behandelt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1946_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/177-beauty-and-the-beast",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/1928-beauty-and-the-beast-dark-magic",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "orpheus",
+          "url": "https://www.criterion.com/films/610-orpheus",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-001-L1",
+      "year_question_id": "G100-20261008-FANTASY-001-Y",
+      "director_question_id": "G100-20261008-FANTASY-001-D"
+    },
+    {
+      "rank": 2,
+      "film_title_de": "Orpheus",
+      "film_title_original": "Orphée",
+      "film_year": 1950,
+      "subdomain": "Fantasy",
+      "familiarity_level": 3,
+      "familiarity_reason": "Prägendes Werk des poetischen französischen Kinos, vor allem im kunstfilmnahen Publikum bekannt; redaktionelle Bekanntheit 3.",
+      "directors": [
+        "Jean Cocteau"
+      ],
+      "production_countries": [
+        "Frankreich"
+      ],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 1950, französischer Film Orphée mit Jean Marais. Nicht das Theaterstück von 1926 oder spätere Cocteau-Filme.",
+      "director_note": "Jean Cocteau ist der offizielle Hauptregisseur laut Criterion. Cameos und Darsteller sind kein zusätzliches Regieteam.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Orpheus_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/610-orpheus",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/1971-orpheus-through-a-glass-amorously",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-002-L1",
+      "year_question_id": "G100-20261008-FANTASY-002-Y",
+      "director_question_id": "G100-20261008-FANTASY-002-D"
+    },
+    {
+      "rank": 3,
+      "film_title_de": "Der Dieb von Bagdad",
+      "film_title_original": "The Thief of Bagdad",
+      "film_year": 1940,
+      "subdomain": "Fantasy",
+      "familiarity_level": 3,
+      "familiarity_reason": "Prägender Technicolor-Fantasyklassiker, besonders bei filmhistorisch interessiertem Publikum präsent; redaktionelle Bekanntheit 3.",
+      "directors": [
+        "Ludwig Berger",
+        "Michael Powell",
+        "Tim Whelan"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 1940. AFI nennt London am 19. Dezember und allgemeinen US-Start am 25. Dezember; der Cache vertauscht beziehungsweise widerspricht diesen Tagesangaben. Keine genaue Tagesfrage.",
+      "director_note": "Die drei offiziellen Hauptcredits sind Ludwig Berger, Michael Powell und Tim Whelan. Alexander und Zoltan Korda sowie William Cameron Menzies wirkten laut Produktionsgeschichte ebenfalls regieführend mit, werden aber weder als zusätzliche Hauptcredits noch als eindeutig falsche Optionen verwendet. Associate Directors getrennt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1940_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5036-THE-THIEF-OF-BAGDAD",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/544-the-thief-of-bagdad",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-003-L1",
+      "year_question_id": "G100-20261008-FANTASY-003-Y",
+      "director_question_id": "G100-20261008-FANTASY-003-D"
+    },
+    {
+      "rank": 4,
+      "film_title_de": "Die Abenteuer des Prinzen Achmed",
+      "film_title_original": "Die Abenteuer des Prinzen Achmed",
+      "film_year": 1926,
+      "subdomain": "Fantasy",
+      "familiarity_level": 3,
+      "familiarity_reason": "Bedeutender früher Animationsklassiker, aber außerhalb von Retrospektiven weniger verbreitet; redaktionelle Bekanntheit 3.",
+      "directors": [
+        "Lotte Reiniger"
+      ],
+      "production_countries": [
+        "Deutschland"
+      ],
+      "country_note": "",
+      "release_note": "Erste Voraufführung Berlin am 2. Mai 1926; filmportal nennt Paris 1. Juli und deutschen Kinostart 3. September. Der Cache nennt 23. September. Erstjahr eindeutig 1926; keine Tagesfrage.",
+      "director_note": "Lotte Reiniger führt die Hauptregie. Carl Koch ist Kamera/Produktionsleitung; Gestaltungsmitarbeiter sind kein zusätzliches Hauptregieteam.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Prince_Achmed",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "filmportal",
+          "url": "https://www.filmportal.de/film/die-abenteuer-des-prinzen-achmed_2d3e507b1f7c45c191afea55317fc76b",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://shop.bfi.org.uk/the-adventures-of-prince-achmed-dual-format-edition/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "papageno",
+          "url": "https://www.filmportal.de/film/papageno_9cbae181396b4449940a8c62f0d1442a",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-004-L1",
+      "year_question_id": "G100-20261008-FANTASY-004-Y",
+      "director_question_id": "G100-20261008-FANTASY-004-D"
+    },
+    {
+      "rank": 5,
+      "film_title_de": "Willow",
+      "film_title_original": "Willow",
+      "film_year": 1988,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekanntes Fantasyabenteuer mit anhaltender Wiederentdeckung und späterer Serienfortsetzung; redaktionelle Bekanntheit 2.",
+      "directors": [
+        "Ron Howard"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 1988, Lucasfilm-Kinofilm mit Warwick Davis. Die gleichnamige spätere Fernsehserie ist keine Filmfassung. Ein gescheiterter Cannes-Abruf belegt keine genaue Festivalpremiere.",
+      "director_note": "Ron Howard ist Hauptregisseur laut Lucasfilm und BFI. George Lucas verantwortet Stoff/Produktion, nicht den Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Willow_(1988_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "lucasfilm",
+          "url": "https://www.lucasfilm.com/productions/willow/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/14c499db-8d50-5dcb-8057-6e4a7f6ce251/willow",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "series",
+          "url": "https://www.lucasfilm.com/productions/willow-series-chapter-1-the-gales/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-005-L1",
+      "year_question_id": "G100-20261008-FANTASY-005-Y",
+      "director_question_id": "G100-20261008-FANTASY-005-D"
+    },
+    {
+      "rank": 6,
+      "film_title_de": "Shrek – Der tollkühne Held",
+      "film_title_original": "Shrek",
+      "film_year": 2001,
+      "subdomain": "Fantasy",
+      "familiarity_level": 1,
+      "familiarity_reason": "Sehr verbreiteter Animationsfilm und Ausgangspunkt einer bekannten Reihe; redaktionelle Bekanntheit 1, unabhängig von der Frageschwierigkeit.",
+      "directors": [
+        "Andrew Adamson",
+        "Vicky Jenson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 2001, erster Shrek-Kinofilm. Cache nennt Aprilpremiere vor US-Maistart; Cannes und DreamWorks bestätigen das Erstjahr. Keine ungeprüfte Tagesfrage.",
+      "director_note": "Andrew Adamson und Vicky Jenson sind beide Hauptregisseure. Frühe Entwicklung durch Kelly Asbury ist kein zusätzlicher Hauptcredit dieses Films.",
+      "series": {
+        "name": "Shrek",
+        "position": 1,
+        "note": "Erster Film der Hauptreihe; Nebenfilme um den gestiefelten Kater getrennt."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Shrek",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/shrek/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.dreamworks.com/movies/shrek",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "sequel",
+          "url": "https://www.dreamworks.com/movies/shrek-2",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-006-L1",
+      "year_question_id": "G100-20261008-FANTASY-006-Y",
+      "director_question_id": "G100-20261008-FANTASY-006-D"
+    },
+    {
+      "rank": 7,
+      "film_title_de": "Das letzte Einhorn",
+      "film_title_original": "The Last Unicorn",
+      "film_year": 1982,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Langjährig bekannter Animations-Fantasyfilm mit besonders starkem Wiedererkennungswert im deutschsprachigen Publikum; redaktionelle Bekanntheit 2.",
+      "directors": [
+        "Arthur Rankin Jr.",
+        "Jules Bass"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 1982, englischsprachiger Animationsfilm nach Peter S. Beagle. Spätere Restaurierungen und deutsche Synchronfassung ändern das Erstjahr nicht.",
+      "director_note": "AFI nennt Arthur Rankin Jr. und Jules Bass für die Hauptregie. Katsuhisa Yamada ist mit Storyboard/Animationsregie genannt, nicht als zusätzlicher Hauptregisseur.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Last_Unicorn_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56836-THE-LAST-UNICORN",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/lists/10-great-animated-fantasy-films",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-007-L1",
+      "year_question_id": "G100-20261008-FANTASY-007-Y",
+      "director_question_id": "G100-20261008-FANTASY-007-D"
+    },
+    {
+      "rank": 8,
+      "film_title_de": "Hook",
+      "film_title_original": "Hook",
+      "film_year": 1991,
+      "subdomain": "Fantasy",
+      "familiarity_level": 1,
+      "familiarity_reason": "Sehr bekannter Familien-Fantasyfilm mit Robin Williams und Dustin Hoffman; redaktionelle Bekanntheit 1.",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 1991. AFI nennt Los-Angeles-Premiere 8. Dezember und LA/NY-Start 11. Dezember. Spätere britische Auswertung 1992 ist nicht das Erstjahr.",
+      "director_note": "Steven Spielberg trägt den Hauptregiecredit. Nick Castle war an der früheren Entwicklung beteiligt, nicht Hauptregisseur des veröffentlichten Films.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Hook_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67369-HOOK",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "sony",
+          "url": "https://www.sonypicturesmuseum.com/collection/film/657/hook.html",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "universal",
+          "url": "https://www.universalpictures.com/about/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-008-L1",
+      "year_question_id": "G100-20261008-FANTASY-008-Y",
+      "director_question_id": "G100-20261008-FANTASY-008-D"
+    },
+    {
+      "rank": 9,
+      "film_title_de": "Mrs. Brisby und das Geheimnis von NIMH",
+      "film_title_original": "The Secret of NIMH",
+      "film_year": 1982,
+      "subdomain": "Fantasy",
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter eigenständiger Zeichentrickklassiker außerhalb des Disney-Kanons.",
+      "directors": [
+        "Don Bluth"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI: Los-Angeles-Eröffnung am 2. Juli 1982, New York am 30. Juli; maßgeblich ist 1982, nicht die Copyrightregistrierung im August.",
+      "director_note": "Don Bluth führt allein Hauptregie. John Pomeroy und Gary Goldman tragen Produktions- und weitere Animationscredits, keinen zusätzlichen Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Secret_of_NIMH",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/56868",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "voice_name",
+          "url": "https://en.wikipedia.org/wiki/Ina_Fried",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-009-L1",
+      "year_question_id": "G100-20261008-FANTASY-009-Y",
+      "director_question_id": "G100-20261008-FANTASY-009-D"
+    },
+    {
+      "rank": 10,
+      "film_title_de": "Ponyo – Das große Abenteuer am Meer",
+      "film_title_original": "Gake no Ue no Ponyo",
+      "film_year": 2008,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: weithin bekannter Ghibli-Familienfilm; Detailwissen wird unabhängig davon eingestuft.",
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "country_note": "Für die japanische Originalproduktion wird Japan nach dem Originalprogramm der Fondazione Prada geführt. BFI nennt abweichend Japan/USA und führt auch englische Synchronstimmen. Der dortige zusätzliche US-Anteil wird hier nicht auf die ausdrücklich gemeinte Originalproduktion übertragen. Ponyos Originalstimme heißt im Verleihpresskit und Originalprogramm Yuria Nara; die HTML-Tabelle schreibt abweichend Yuuri Nara.",
+      "release_note": "Japanischer Kinostart am 19. Juli 2008 laut Studio Ghibli. Internationale Auswertungen und englische Synchronfassung 2009 sind später.",
+      "director_note": "Hayao Miyazaki führt Hauptregie und schrieb das Drehbuch. Die Regie der späteren englischen Synchronfassung ist davon getrennt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Ponyo",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.ghibli.jp/works/ponyo/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "press",
+          "url": "https://frenetic.ch/media/films/667/pro/PONYO-presskit-it.pdf",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "original",
+          "url": "https://www.fondazioneprada.org/project/ponyo/?lang=en",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "howl",
+          "url": "https://www.ghibli.jp/works/howl/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/17382232-c7fa-5100-932e-9eba2ce9e00c/ponyo",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-010-L1",
+      "year_question_id": "G100-20261008-FANTASY-010-Y",
+      "director_question_id": "G100-20261008-FANTASY-010-D"
+    },
+    {
+      "rank": 11,
+      "film_title_de": "Das Schloss im Himmel",
+      "film_title_original": "Tenkū no Shiro Rapyuta",
+      "film_year": 1986,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: prägender, gut bekannter Ghibli-Abenteuerklassiker.",
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "country_note": "",
+      "release_note": "Studio Ghibli belegt den japanischen Kinostart am 2. August 1986. Der Cache nennt außerdem eine Vorabvorführung am 25. Juli desselben Jahres; beide ergeben 1986.",
+      "director_note": "Hayao Miyazaki trägt den Hauptregie- und Drehbuchcredit, Isao Takahata den Produktionscredit. Spätere englische Synchronfassungen werden nicht als Originalbesetzung behandelt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Castle_in_the_Sky",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.ghibli.jp/works/laputa/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "siff",
+          "url": "https://www.siff.net/programs-and-events/art-of-studio-ghibli/castle-in-the-sky",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "nausicaa",
+          "url": "https://www.ghibli.jp/works/nausicaa/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-011-L1",
+      "year_question_id": "G100-20261008-FANTASY-011-Y",
+      "director_question_id": "G100-20261008-FANTASY-011-D"
+    },
+    {
+      "rank": 12,
+      "film_title_de": "Merida – Legende der Highlands",
+      "film_title_original": "Brave",
+      "film_year": 2012,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: sehr bekannter Pixar-Film, dessen handwerkliche und erzählerische Details getrennt bewertet werden.",
+      "directors": [
+        "Mark Andrews",
+        "Brenda Chapman",
+        "Steve Purcell"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstjahr 2012; der Cache nennt SIFF-Premiere am 10. Juni, das tatsächlich gelesene SIFF-Archiv bestätigt die Präsentation 2012. Pixar belegt den regulären Kinostart am 22. Juni 2012.",
+      "director_note": "Pixar führt Mark Andrews und Brenda Chapman als Directed By und Steve Purcell als Co-Directed By. Das vollständige Regieziel umfasst alle drei Namen bei ausdrücklich mitgefragter Co-Regie.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Brave_(2012_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "pixar",
+          "url": "https://parallax-pixar.squarespace.com/feature-films/brave",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "history",
+          "url": "https://www.pixar.com/our-story",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "shorts",
+          "url": "https://www.pixar.com/short-films/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "siff",
+          "url": "https://www.siff.net/festival/archives/festival-2012",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-012-L1",
+      "year_question_id": "G100-20261008-FANTASY-012-Y",
+      "director_question_id": "G100-20261008-FANTASY-012-D"
+    },
+    {
+      "rank": 13,
+      "film_title_de": "Eragon – Das Vermächtnis der Drachenreiter",
+      "film_title_original": "Eragon",
+      "film_year": 2006,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannte Fantasy-Romanverfilmung, spezifische Filmhandlung von der Buchreihe getrennt.",
+      "directors": [
+        "Stefen Fangmeier"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "country_note": "BFI und Cache nennen USA und Vereinigtes Königreich. Ungarn und die Slowakei sind belegte Drehorte; daraus wird kein zusätzliches Produktionsland abgeleitet.",
+      "release_note": "BFI und Autorenbiografie belegen die Filmveröffentlichung 2006. Der Cache nennt den Kinostart am 15. Dezember 2006; die Heimveröffentlichung 2007 ist später. Ein gesonderter früherer Premierentag ist im gelesenen Cache nicht dokumentiert.",
+      "director_note": "Stefen Fangmeier ist alleiniger Hauptregisseur. John Davis und Wyck Godfrey sind Produzenten.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Eragon_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/01989397-3baf-506b-b12d-e8b01f0d1aa2/eragon",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "author",
+          "url": "https://www.paolini.net/biographies/christopher-paolini-full/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-013-L1",
+      "year_question_id": "G100-20261008-FANTASY-013-Y",
+      "director_question_id": "G100-20261008-FANTASY-013-D"
+    },
+    {
+      "rank": 14,
+      "film_title_de": "Die Schöne und das Biest",
+      "film_title_original": "Beauty and the Beast",
+      "film_year": 2017,
+      "subdomain": "Fantasy",
+      "familiarity_level": 1,
+      "familiarity_reason": "Redaktionelle Einschätzung: sehr bekannte Disney-Realverfilmung; die Fragen betreffen ausdrücklich diese Besetzung und Fassung.",
+      "directors": [
+        "Bill Condon"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "country_note": "BFI Statistical Yearbook 2018, Druck-/PDF-Seite 48, Tabelle 2, Zeile 1, nennt UK/USA unter Country of origin. Diese vollständig nachgelesene statistische Länderzuordnung wird übernommen. Das BFI-Filmarchiv, die zeitgenössische Besprechung und der Cache nennen abweichend nur USA. Der britische Anteil wird deshalb durch die BFI-Tabelle, nicht allein durch den Drehort begründet.",
+      "release_note": "Realverfilmung 2017. Der Cache nennt die Weltpremiere am 23. Februar 2017 in London; Disney bestätigt den US-Kinostart am 17. März 2017. Nicht die Zeichentrickfassung 1991 oder Cocteaus Fassung 1946.",
+      "director_note": "Bill Condon führt allein Hauptregie. David Hoberman und Todd Lieberman sind Produzenten.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "disney",
+          "url": "https://movies.disney.com/beauty-and-the-beast-2017",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/4292030c-3cac-518e-a302-8e82fa6b02cb/beauty-and-the-beast",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "review",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/beauty-beast-review-magnificent-monster-with-no-teeth",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "yearbook",
+          "url": "https://researchlibrary.ontariocreates.ca/Handler/AccessedDocHandler.ashx?Id=1868&SearchId=0",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-014-L1",
+      "year_question_id": "G100-20261008-FANTASY-014-Y",
+      "director_question_id": "G100-20261008-FANTASY-014-D"
+    },
+    {
+      "rank": 15,
+      "film_title_de": "Aladdin",
+      "film_title_original": "Aladdin",
+      "film_year": 2019,
+      "subdomain": "Fantasy",
+      "familiarity_level": 1,
+      "familiarity_reason": "Redaktionelle Einschätzung: sehr bekannte Disney-Realverfilmung mit eigener Besetzung und neuen Nebenfiguren.",
+      "directors": [
+        "Guy Ritchie"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Realverfilmung 2019. Der Cache nennt die Weltpremiere am 8. Mai 2019 in Paris; Disney bestätigt den US-Kinostart am 24. Mai 2019. Der britische Start am 22. Mai ist ebenfalls keine frühere Erstjahresfassung.",
+      "director_note": "Guy Ritchie führt allein Hauptregie. Das Regieteam der Zeichentrickfassung 1992 gehört nicht zu dieser Filmfassung.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Aladdin_(2019_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "disney",
+          "url": "https://movies.disney.com/aladdin-2019",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/aladdin-review-guy-ritchie-polishes-disneys-lamp",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-015-L1",
+      "year_question_id": "G100-20261008-FANTASY-015-Y",
+      "director_question_id": "G100-20261008-FANTASY-015-D"
+    },
+    {
+      "rank": 16,
+      "film_title_de": "Auf der Suche nach dem goldenen Kind",
+      "film_title_original": "The Golden Child",
+      "film_year": 1986,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Eddie-Murphy-Fantasyfilm; spezielle Tempel- und Schlussdetails verlangen genauere Erinnerung.",
+      "directors": [
+        "Michael Ritchie"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "AFI belegt die Kinoeröffnungen in Los Angeles und New York am 12. Dezember 1986 und erwähnt die Gala am Vorabend. Erstjahr 1986, nicht die Copyrightregistrierung vom Januar 1987.",
+      "director_note": "Michael Ritchie trägt den Hauptregiecredit. Peter Norman wird in AFI ausdrücklich als Regisseur der Second Unit in Los Angeles/Nepal geführt und nicht als weiterer Hauptregisseur übernommen.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Golden_Child",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/57333",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/42357ed4-c1e1-5a40-bc93-507ba9323132/the-golden-child",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-016-L1",
+      "year_question_id": "G100-20261008-FANTASY-016-Y",
+      "director_question_id": "G100-20261008-FANTASY-016-D"
+    },
+    {
+      "rank": 17,
+      "film_title_de": "Der gestiefelte Kater",
+      "film_title_original": "Puss in Boots",
+      "film_year": 2011,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: verbreitetes Shrek-Spin-off, für ein breites Publikum bekannt; die Fortsetzung ist getrennt.",
+      "directors": [
+        "Chris Miller"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstjahr 2011 durch DreamWorks, MoMA und AFI bestätigt. Der Cache nennt die Gala auf der Allure of the Seas am 16. Oktober; AFI nennt die öffentlichen Starts in Los Angeles und New York am 28. Oktober.",
+      "director_note": "Chris Miller ist alleiniger Hauptregisseur. Guillermo del Toro wirkt als Executive Producer und Originalstimme mit, nicht als zweiter Hauptregisseur.",
+      "series": {
+        "name": "Der gestiefelte Kater",
+        "position": 1,
+        "note": "Erster eigenständiger Kinofilm, als Vorgeschichte zur Shrek-Reihe erzählt; Fortsetzung 2022. Nicht die spätere TV-Serie."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Puss_in_Boots_(2011_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "studio",
+          "url": "https://www.dreamworks.com/movies/puss-in-boots",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/68120-PUSS-IN-BOOTS",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "moma",
+          "url": "https://www.moma.org/calendar/events/8419",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "sequel",
+          "url": "https://www.dreamworks.com/movies/puss-in-boots-the-last-wish",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-017-L1",
+      "year_question_id": "G100-20261008-FANTASY-017-Y",
+      "director_question_id": "G100-20261008-FANTASY-017-D"
+    },
+    {
+      "rank": 18,
+      "film_title_de": "Drei Haselnüsse für Aschenbrödel",
+      "film_title_original": "Tři oříšky pro Popelku",
+      "film_year": 1973,
+      "subdomain": "Fantasy",
+      "familiarity_level": 1,
+      "familiarity_reason": "Redaktionelle Einschätzung: über Generationen verbreiteter Weihnachts- und Märchenklassiker im deutschsprachigen Publikum.",
+      "directors": [
+        "Václav Vorlíček"
+      ],
+      "production_countries": [
+        "Tschechoslowakei",
+        "DDR"
+      ],
+      "country_note": "",
+      "release_note": "Erstjahr 1973 durch DEFA bestätigt; der Cache nennt die Prager Gala am 26. Oktober und den tschechoslowakischen Start am 16. November. Der spätere DDR-Start 1974 ist vom Erstjahr getrennt; keine ungeklärte Tagesfrage.",
+      "director_note": "Václav Vorlíček ist Hauptregisseur. Figuren werden mit den Originaldarstellern bezeichnet, nicht mit deutschen Synchronstimmen.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Three_Wishes_for_Cinderella_(1973_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "defa",
+          "url": "https://www.defa-stiftung.de/stiftung/aktuelles/film-des-monats/drei-haselnuesse-fuer-aschenbroedel/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-018-L1",
+      "year_question_id": "G100-20261008-FANTASY-018-Y",
+      "director_question_id": "G100-20261008-FANTASY-018-D"
+    },
+    {
+      "rank": 19,
+      "film_title_de": "Die Legende von Beowulf",
+      "film_title_original": "Beowulf",
+      "film_year": 2007,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannte digital animierte Fantasyadaption mit prominenter Besetzung; eindeutig die Fassung von Zemeckis.",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstjahr 2007; AFI belegt den öffentlichen US-Start am 16. November. Der Cache nennt eine frühere Gala in Westwood am 5. November desselben Jahres. Aufnahmebeginn 2005 ist kein Veröffentlichungsjahr.",
+      "director_note": "Robert Zemeckis ist alleiniger Hauptregisseur; AFI führt Steve Starkey als Second Unit Director. Roger Avary war in früherer Planung für Regie vorgesehen und bleibt Drehbuchautor/Executive Producer.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Beowulf_(2007_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/64158-BEOWULF",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-019-L1",
+      "year_question_id": "G100-20261008-FANTASY-019-Y",
+      "director_question_id": "G100-20261008-FANTASY-019-D"
+    },
+    {
+      "rank": 20,
+      "film_title_de": "Shrek 2 – Der tollkühne Held kehrt zurück",
+      "film_title_original": "Shrek 2",
+      "film_year": 2004,
+      "subdomain": "Fantasy",
+      "familiarity_level": 1,
+      "familiarity_reason": "Redaktionelle Einschätzung: sehr verbreiteter Familienfilm und prägende Märchensatire, als Film-Ikone eingeordnet.",
+      "directors": [
+        "Andrew Adamson",
+        "Kelly Asbury",
+        "Conrad Vernon"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "",
+      "release_note": "Erstveröffentlichung 2004: Cannes-Wettbewerb und Universal-Mitteilung bestätigen das Erscheinungsjahr. Das Cannes-Feld Produktionsjahr 2003 ist davon getrennt. Cache: Cannes 15. Mai und US-Start 19. Mai 2004.",
+      "director_note": "Cannes und Universal nennen Andrew Adamson, Kelly Asbury und Conrad Vernon als vollständiges Regieteam; kein einzelner Regisseur wird stellvertretend als vollständiger Credit verwendet.",
+      "series": {
+        "name": "Shrek",
+        "position": 2,
+        "note": "Zweiter animierter Shrek-Kinofilm. Originalstimmen, keine deutsche Synchronbesetzung."
+      },
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Shrek_2",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/shrek-2/",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "universal",
+          "url": "https://www.prnewswire.com/news-releases/dreamworks-animation-and-universal-pictures-announce-the-20th-anniversary-theatrical-re-release-of-the-oscar-nominated-animated-comedy-adventure-shrek-2-302083820.html",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-020-L1",
+      "year_question_id": "G100-20261008-FANTASY-020-Y",
+      "director_question_id": "G100-20261008-FANTASY-020-D"
+    },
+    {
+      "rank": 21,
+      "film_title_de": "Duell der Magier",
+      "film_title_original": "The Sorcerer's Apprentice",
+      "film_year": 2010,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannte Disney-Fantasy mit Nicolas Cage, von Fantasia und dessen Zeichentricksegment getrennt.",
+      "directors": [
+        "Jon Turteltaub"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "USA entsprechend dem gelesenen Artikelcache. Die Disney-Filmseite enthält im gelesenen Haupttext kein gesondertes Länderfeld; New Yorker Drehorte werden nicht als eigenständiger Länderbeleg ausgegeben.",
+      "release_note": "Erstjahr 2010; Disney belegt den regulären US-Start am 14. Juli. Die im Cache genannte frühere Festivalaufführung am 8. Juli wird nicht als separat primärbelegter Tageswert ausgegeben.",
+      "director_note": "Jon Turteltaub ist alleiniger Hauptregisseur laut Disney; Jerry Bruckheimer produziert, Nicolas Cage spielt und ist an der Entwicklung beteiligt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_(2010_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "disney",
+          "url": "https://movies.disney.com/the-sorcerers-apprentice",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "fantasia",
+          "url": "https://d23.com/fantasia-at-80-exploring-ponchielli-and-dukas/",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-021-L1",
+      "year_question_id": "G100-20261008-FANTASY-021-Y",
+      "director_question_id": "G100-20261008-FANTASY-021-D"
+    },
+    {
+      "rank": 22,
+      "film_title_de": "Warcraft: The Beginning",
+      "film_title_original": "Warcraft",
+      "film_year": 2016,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannte Verfilmung einer sehr verbreiteten Spielwelt, auch außerhalb des engeren Fantasykinos erkennbar.",
+      "directors": [
+        "Duncan Jones"
+      ],
+      "production_countries": [
+        "Japan",
+        "Kanada",
+        "USA",
+        "China"
+      ],
+      "country_note": "Die tatsächlich gelesene AFI-Watch-Filmkarte nennt Japan, Canada, United States und China. Diese institutionelle Vierländerzuordnung wird gegenüber dem engeren USA-Feld des Artikelcaches übernommen. Der Vancouver-Drehort ist nicht der Grund für die Kanada-Zuordnung.",
+      "release_note": "Erstjahr 2016. AFI Watch nennt den US-Start am 10. Juni; der Cache dokumentiert bereits die Pariser Premiere am 24. Mai. Frühere angekündigte Termine sind keine erfolgten Veröffentlichungen.",
+      "director_note": "Duncan Jones trägt die Hauptregie. AFI Watch führt Tom Struthers als Second Unit Director, nicht als zweiten Hauptregisseur. Sam Raimis frühere Projektbindung ist vom fertigen Credit getrennt.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Warcraft_(film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://watch.afi.com/movie/warcraft",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "blizzard",
+          "url": "https://news.blizzard.com/en-us/article/24055599/get-warcraft-orcs-humans-on-battle-net-now",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-022-L1",
+      "year_question_id": "G100-20261008-FANTASY-022-Y",
+      "director_question_id": "G100-20261008-FANTASY-022-D"
+    },
+    {
+      "rank": 23,
+      "film_title_de": "Red Sonja",
+      "film_title_original": "Red Sonja",
+      "film_year": 1985,
+      "subdomain": "Fantasy",
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: durch Brigitte Nielsen und Arnold Schwarzenegger bekannter Sword-and-Sorcery-Film, dessen einzelne Handlungsschritte weniger verbreitet sind.",
+      "directors": [
+        "Richard Fleischer"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "country_note": "Der AFI-Katalog führt USA. Er nennt eine mögliche Beteiligung italienischer Geldgeber, bezeichnet eine italienische Koproduktion mangels Screencredit aber ausdrücklich als unklar. Italienische Drehorte werden deshalb nicht als Länderbeleg verwendet.",
+      "release_note": "Erstveröffentlichung 1985; AFI dokumentiert New York und Los Angeles am 3. Juli 1985. Der Dreh 1984 ist kein Veröffentlichungsjahr. Gemeint ist die Fassung mit Brigitte Nielsen, nicht die spätere Neuverfilmung.",
+      "director_note": "Richard Fleischer trägt den veröffentlichten Hauptregiecredit. Ralph Bakshi war in der frühen Projektplanung vorgesehen. Vic Armstrongs Action-Unit-Arbeit begründet keinen zusätzlichen Hauptregiecredit.",
+      "series": null,
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/Red_Sonja_(1985_film)",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58331-RED-SONJA",
+          "checked_on": "2026-10-08"
+        },
+        {
+          "key": "conan",
+          "url": "https://catalog.afi.com/Film/57064-CONAN-THE-DESTROYER",
+          "checked_on": "2026-10-08"
+        }
+      ],
+      "reference_question_id": "G100-20261008-FANTASY-023-L1",
+      "year_question_id": "G100-20261008-FANTASY-023-Y",
+      "director_question_id": "G100-20261008-FANTASY-023-D"
+    }
+  ]
+}

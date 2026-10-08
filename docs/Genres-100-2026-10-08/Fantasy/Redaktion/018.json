@@ -1,0 +1,103 @@
+{
+  "rank": 18,
+  "directors": ["Václav Vorlíček"],
+  "production_countries": ["Tschechoslowakei", "DDR"],
+  "release_note": "Erstjahr 1973 durch DEFA bestätigt; der Cache nennt die Prager Gala am 26. Oktober und den tschechoslowakischen Start am 16. November. Der spätere DDR-Start 1974 ist vom Erstjahr getrennt; keine ungeklärte Tagesfrage.",
+  "director_note": "Václav Vorlíček ist Hauptregisseur. Figuren werden mit den Originaldarstellern bezeichnet, nicht mit deutschen Synchronstimmen.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: über Generationen verbreiteter Weihnachts- und Märchenklassiker im deutschsprachigen Publikum.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Three_Wishes_for_Cinderella_(1973_film)",
+    "defa": "https://www.defa-stiftung.de/stiftung/aktuelles/film-des-monats/drei-haselnuesse-fuer-aschenbroedel/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Tiere helfen Aschenbrödel (Libuše Šafránková) in @ beim Sortieren der vermischten Körner?",
+      "answers": ["Tauben", "Mäuse", "Spatzen", "Eichhörnchen"],
+      "feedback": ["Die Tauben erledigen die Sortierarbeit.", "Mäuse übernehmen diese Arbeit in der Filmfassung nicht.", "Spatzen sind nicht die gezeigten Helfer.", "Eichhörnchen sortieren die Körner nicht."],
+      "short": "Die Tauben helfen bei der auferlegten Sortierarbeit.",
+      "context": "Aschenbrödel (Libuše Šafránková) erhält von ihrer Stiefmutter (Carola Braunbock) aufwendige Sortierarbeiten, die sie im Haus festhalten sollen. Ihre Tauben helfen, die vermischten Bestandteile zu trennen. Dadurch gewinnt sie Zeit für eigene Wege. Die Tiere sind nicht bloß Schmuck der Märchenwelt: Ihre Hilfe durchkreuzt eine konkrete Form der Kontrolle. Aschenbrödel kann das Gut verlassen, obwohl die Stiefmutter sie durch Arbeit von den Begegnungen draußen fernhalten möchte.",
+      "anchor": "Die Tauben schaffen Zeit für Aschenbrödels eigene Wege.",
+      "interest": "Die Tierhilfe wirkt unmittelbar gegen die auferlegte Einschränkung.",
+      "sources": ["film"]
+    },
+    {
+      "code": "L2",
+      "question": "Wie verhindert Aschenbrödel (Libuše Šafránková) in @ den Schuss des Prinzen (Pavel Trávníček) auf ein Reh?",
+      "answers": ["Sie trifft ihn mit einem Schneeball", "Sie reißt ihm die Armbrust weg", "Sie scheucht das Reh mit einem Horn fort", "Sie zieht sein Pferd am Zügel zurück"],
+      "feedback": ["Ein Schneeball stört den gezielten Schuss.", "Sie entreißt dem Prinzen die Armbrust nicht.", "Ein Jagdhorn verscheucht das Reh in dieser Szene nicht.", "Ein zurückgezogenes Pferd ist nicht ihr Mittel."],
+      "short": "Ein Schneeball unterbricht den Schuss auf das Reh.",
+      "context": "Aschenbrödel (Libuše Šafránková) begegnet dem Prinzen (Pavel Trávníček) zunächst im verschneiten Wald. Als er auf ein Reh zielt, stört sie ihn mit einem Schneeball. Die Begegnung beginnt deshalb mit Widerspruch und einer Verfolgung, nicht mit einem höfischen Kennenlernen. Sie behauptet sich gegenüber seinem Auftreten als Jäger und Prinz. Ihre spätere Verkleidung knüpft an diese frühe Auseinandersetzung an, ohne dass er ihre Identität bereits durchschaut.",
+      "anchor": "Der Schneeball macht das erste Treffen zu einer widerspenstigen Begegnung.",
+      "interest": "Aschenbrödel handelt schon vor dem Ball selbstständig.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Kleidung erhält Aschenbrödel (Libuše Šafránková) aus der zuerst geöffneten Nuss in @?",
+      "answers": ["Eine Jägerkleidung", "Ein Ballkleid", "Ein Hochzeitskleid", "Eine königliche Dieneruniform"],
+      "feedback": ["Die erste Nuss liefert eine Jägerverkleidung.", "Das Ballkleid stammt aus der zweiten Nuss.", "Das Hochzeitskleid erscheint erst aus der letzten Nuss.", "Eine Dieneruniform gehört nicht zur ersten Verwandlung."],
+      "short": "Die erste Nuss enthält die Jägerkleidung.",
+      "context": "Die erste geöffnete Nuss gibt Aschenbrödel (Libuše Šafránková) eine Jägerkleidung. In dieser Verkleidung beweist sie ihre Treffsicherheit vor dem Prinzen (Pavel Trávníček) und seinen Begleitern. Er bewundert einen vermeintlich jungen Jäger, ohne die Bekannte aus dem Wald zu erkennen. Die Gabe ermöglicht damit mehr als einen schönen Auftritt: Sie verschafft ihr eine Rolle, in der ihre Fähigkeiten sichtbar werden und die üblichen Erwartungen an sie vorübergehend entfallen.",
+      "anchor": "Die erste Verkleidung macht Aschenbrödels Jagdgeschick sichtbar.",
+      "interest": "Die Reihenfolge der Gaben hängt mit verschiedenen Begegnungen zusammen.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Bedingung stellt Aschenbrödel (Libuše Šafránková) beim Ball in @ an den Prinzen (Pavel Trávníček)?",
+      "answers": ["Er muss ein Rätsel über ihre Identität lösen", "Er muss ihre Stiefmutter um Erlaubnis bitten", "Er muss sie in einem Wettreiten schlagen", "Er muss sich vor dem Hof für die Waldjagd entschuldigen"],
+      "feedback": ["Ihr Rätsel verbindet die bisherigen Begegnungen und ihre Identität.", "Die Erlaubnis der Stiefmutter ist nicht ihre Bedingung beim Ball.", "Ein Wettreiten fordert sie dort nicht.", "Eine öffentliche Entschuldigung für die Jagd fordert sie dort nicht."],
+      "short": "Vor der Zustimmung soll der Prinz ihr Identitätsrätsel lösen.",
+      "context": "Beim Ball begegnet Aschenbrödel (Libuše Šafránková) dem Prinzen (Pavel Trávníček) erneut in anderer Kleidung. Seine Bewunderung genügt ihr jedoch nicht: Sie stellt ein Rätsel, das auf ihre früheren Begegnungen verweist. Er soll die scheinbar verschiedenen Erscheinungen als dieselbe Person erkennen. Die Bedingung verbindet Zuneigung mit aufmerksamem Wiedererkennen. Der Tanz allein entscheidet die Verbindung deshalb noch nicht; der Prinz muss seine Erfahrungen außerhalb des höfischen Festes einbeziehen.",
+      "anchor": "Das Rätsel verbindet die verschiedenen Erscheinungen derselben Person.",
+      "interest": "Erkennen zählt neben der Bewunderung für die Ballbesucherin.",
+      "sources": ["film"]
+    },
+    {
+      "code": "S1",
+      "question": "Warum wurde die ursprünglich sommerlich geplante Geschichte von @ laut DEFA in den Winter verlegt?",
+      "answers": ["Die DEFA hatte bereits genügend Sommerprojekte eingeplant", "Die Schlossverwaltung erlaubte ausschließlich Winteraufnahmen", "Die Darsteller waren nur in den Weihnachtsferien verfügbar", "Die Kostümwerkstatt konnte die Sommergarderobe nicht rechtzeitig liefern"],
+      "feedback": ["DEFA beschreibt die Verlegung als Abstimmung der Produktionsplanung.", "Eine ausschließliche Wintererlaubnis des Schlosses wird nicht als Grund genannt.", "Weihnachtsferien der Besetzung erklären die Umstellung nicht.", "Eine verspätete Sommergarderobe wird nicht als Anlass genannt."],
+      "short": "Die Produktionsplanung führte zur Verlegung in den Winter.",
+      "context": "Die DEFA-Stiftung beschreibt, dass Václav Vorlíček zunächst eine sommerliche Handlung plante. Weil die DEFA bereits ausreichend Projekte für die Sommermonate vorgesehen hatte, wurde mit den Barrandov Studios ein Winterdreh vereinbart. Die heute prägende Schneelandschaft entstand somit aus einer Produktionsentscheidung. Wetter blieb dabei eine Herausforderung: An deutschen Drehorten musste Kunstschnee eingesetzt werden, während im Böhmerwald sehr viel echter Schnee die Arbeit erschwerte.",
+      "anchor": "Eine abgestimmte Produktionsplanung führt zur winterlichen Märchenwelt.",
+      "interest": "Die vertraute Atmosphäre war anfangs nicht selbstverständlich.",
+      "sources": ["defa"]
+    },
+    {
+      "code": "S2",
+      "question": "Warum mussten bei den grenzüberschreitenden Dreharbeiten zu @ laut DEFA unterschiedliche Pferde eingesetzt werden?",
+      "answers": ["Eine Tierseuche verhinderte den Grenzübertritt der Pferde", "Die Besitzer erlaubten ihren Tieren keine langen Waldritte", "Die Schlossverwaltung untersagte fremde Pferde auf dem Gelände", "Die Versicherung verlangte für jeden Darsteller ein eigenes Pferd"],
+      "feedback": ["Maul- und Klauenseuche führte zu Beschränkungen des Grenzübertritts.", "Eine allgemeine Ablehnung langer Waldritte ist nicht der belegte Grund.", "Ein Schlossverbot für fremde Pferde erklärt den Austausch nicht.", "Ein individuelles Versicherungspferd pro Darsteller war nicht der Anlass."],
+      "short": "Die Pferde konnten wegen einer Tierseuche nicht über die Grenze.",
+      "context": "Die Dreharbeiten fanden an deutschen und tschechischen Schauplätzen statt. Nach Darstellung der DEFA-Stiftung führte die in Tschechien ausgebrochene Maul- und Klauenseuche dazu, dass Pferde die Ländergrenze nicht passieren durften. Je nach Drehort mussten deshalb andere Tiere mitwirken. Der scheinbar durchgehende Ritt einer Figur kann im fertigen Film aus Aufnahmen mit verschiedenen Pferden bestehen. Die Produktionspraxis erhält so eine sichtbare Handlung trotz einer unsichtbaren logistischen Grenze.",
+      "anchor": "Die Ländergrenze erforderte Tierwechsel für zusammenhängend erzählte Ritte.",
+      "interest": "Eine konkrete Einschränkung erklärt den Einsatz von Tierdoubles.",
+      "sources": ["defa"]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Libuše Šafránková erstmals?",
+      "answers": ["1973", "1970", "1976", "1979"],
+      "feedback": ["1973 ist das Erstjahr des Films.", "1970 liegt drei Jahre davor.", "1976 liegt drei Jahre danach.", "1979 ist sechs Jahre zu spät."],
+      "short": "Der Märchenfilm erschien erstmals 1973.",
+      "context": "Drei Haselnüsse für Aschenbrödel erschien 1973. Václav Vorlíček setzte seine Märchenfilmarbeit mit Wie man Dornröschen wachküßt von 1977 fort; zwischen beiden Filmen liegen vier Jahre. Die DEFA-Stiftung nennt diese spätere Arbeit im Regieporträt. Der Zeitanker verbindet zwei unterschiedliche Märchen aus derselben Laufbahn. Der spätere deutsche Kinostart von Aschenbrödel ist davon getrennt zu halten: Die erste Veröffentlichung des Films bleibt dem Jahr 1973 zugeordnet.",
+      "anchor": "1973 Aschenbrödel, 1977 Dornröschen: vier Jahre zwischen Vorlíčeks Märchenfilmen.",
+      "interest": "Ein späterer Märchenfilm desselben Regisseurs verankert das Erstjahr.",
+      "sources": ["defa"]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Libuše Šafránková und Pavel Trávníček Hauptregie?",
+      "answers": ["Václav Vorlíček", "Juraj Herz", "Karel Zeman", "Karel Kachyňa"],
+      "feedback": ["Václav Vorlíček inszenierte die Märchenverfilmung.", "Juraj Herz ist nicht der Hauptregisseur dieses Films.", "Karel Zeman führte hier nicht Hauptregie.", "Karel Kachyňa ist nicht der Regisseur dieser Fassung."],
+      "short": "Václav Vorlíček führte Hauptregie.",
+      "context": "Václav Vorlíček inszenierte die Koproduktion der DEFA und der Barrandov Studios. Libuše Šafránková und Pavel Trávníček spielen die beiden Hauptfiguren; das Ensemble verbindet tschechische und deutsche Originaldarsteller. Die jeweilige Sprachfassung synchronisiert Teile dieser Besetzung und ist vom Darstellercredit zu unterscheiden. Vorlíčeks Regie verbindet die märchenhaften Kostümwechsel mit einer Heldin, die reiten, schießen und widersprechen kann, bevor ihr Auftritt im Ballsaal die höfische Aufmerksamkeit gewinnt.",
+      "anchor": "Vorlíček inszeniert eine aktive Heldin innerhalb der Märchenkoproduktion.",
+      "interest": "Regie und mehrsprachige Originalbesetzung bleiben klar zugeordnet.",
+      "sources": ["defa", "film"]
+    }
+  ]
+}

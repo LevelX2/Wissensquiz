@@ -1,0 +1,208 @@
+{
+  "rank": 11,
+  "directors": [
+    "Hayao Miyazaki"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "release_note": "Studio Ghibli belegt den japanischen Kinostart am 2. August 1986. Der Cache nennt außerdem eine Vorabvorführung am 25. Juli desselben Jahres; beide ergeben 1986.",
+  "director_note": "Hayao Miyazaki trägt den Hauptregie- und Drehbuchcredit, Isao Takahata den Produktionscredit. Spätere englische Synchronfassungen werden nicht als Originalbesetzung behandelt.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: prägender, gut bekannter Ghibli-Abenteuerklassiker.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Castle_in_the_Sky",
+    "studio": "https://www.ghibli.jp/works/laputa/",
+    "siff": "https://www.siff.net/programs-and-events/art-of-studio-ghibli/castle-in-the-sky",
+    "nausicaa": "https://www.ghibli.jp/works/nausicaa/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Wo arbeitet Pazu (Originalstimme Mayumi Tanaka) zu Beginn von @?",
+      "answers": [
+        "In einer Bergbaustadt als Mechaniker",
+        "In einer Hafenstadt als Schiffskoch",
+        "In einer Garnison als Funker",
+        "In einer Handelsstadt als Uhrmacher"
+      ],
+      "feedback": [
+        "Pazu arbeitet als junger Mechaniker in einer Bergbaustadt.",
+        "Ein Schiffskoch im Hafen ist er nicht.",
+        "Er gehört nicht als Funker zur Garnison.",
+        "Uhrmacher ist nicht seine Ausgangstätigkeit."
+      ],
+      "short": "Pazu ist ein junger Mechaniker in einer Bergbaustadt.",
+      "context": "Pazu (japanische Originalstimme Mayumi Tanaka) lebt und arbeitet in einer Bergbaustadt. Seine Umgebung besteht aus Maschinen, Schächten und einer Gemeinschaft arbeitender Menschen. Als Sheeta (Originalstimme Keiko Yokozawa) vom Himmel herabkommt, begegnet das vertraute technische Leben einer ungewöhnlichen Magie. Pazu hilft ihr zunächst vor Ort, bevor die gemeinsame Suche ihn aus dieser erdgebundenen Welt in einen Konflikt um die schwebende Stadt führt.",
+      "anchor": "Bergbaumechanik am Boden, fantastische Reise in der Luft.",
+      "interest": "Verankert Pazus alltägliche Ausgangswelt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Gruppe führt Dola (Originalstimme Kotoe Hatsui) in @ an?",
+      "answers": [
+        "Eine Bande von Luftpiraten",
+        "Eine Einheit der Luftwaffe",
+        "Eine Gruppe von Erzprospektoren",
+        "Eine Expedition von Archäologen"
+      ],
+      "feedback": [
+        "Dola führt Luftpiraten an.",
+        "Sie ist keine Kommandantin der Luftwaffe.",
+        "Erzprospektoren sind nicht ihre Gefolgschaft.",
+        "Ihre Gruppe ist keine archäologische Expedition."
+      ],
+      "short": "Dola ist die Anführerin einer Luftpiratenbande.",
+      "context": "Dola (japanische Originalstimme Kotoe Hatsui) führt eine Gruppe von Luftpiraten, die Sheetas Kristall begehrt. Sheeta (Originalstimme Keiko Yokozawa) und Pazu (Originalstimme Mayumi Tanaka) geraten dadurch zunächst in Gefahr. Später verändert sich ihr Verhältnis zu der Bande. Die Piraten bleiben eigennützige Schatzsucher, bilden gegenüber der militärischen Verfolgung aber eine andere Art von Gemeinschaft und eröffnen den Kindern einen Weg zum gesuchten Ort.",
+      "anchor": "Die anfängliche Piratenverfolgerin wird zur wichtigen Verbündeten.",
+      "interest": "Erfasst Dolas sichtbare Funktion im Konflikt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welches Fundstück seines Vaters bestärkt Pazu (Originalstimme Mayumi Tanaka) in @ bei seiner Suche?",
+      "answers": [
+        "Eine Fotografie der schwebenden Stadt",
+        "Eine Seekarte mit ihren Koordinaten",
+        "Ein Tagebuch mit ihrem Zugangscode",
+        "Eine gezeichnete Bauanleitung ihres Antriebs"
+      ],
+      "feedback": [
+        "Sein Vater fotografierte die schwebende Stadt.",
+        "Eine genaue Seekarte ist nicht das entscheidende Andenken.",
+        "Ein Zugangscode aus einem Tagebuch ist nicht sein Beleg.",
+        "Eine Antriebsbauanleitung besitzt er nicht als Ausgangsbeweis."
+      ],
+      "short": "Pazu bewahrt die Fotografie auf, mit der sein Vater die Stadt belegen wollte.",
+      "context": "Pazu (japanische Originalstimme Mayumi Tanaka) glaubt an die schwebende Stadt, weil sein Vater sie fotografiert hat. Dessen Aussage wurde dennoch angezweifelt. Das Bild ist für den Sohn deshalb mehr als eine Aussicht: Es verbindet eine eigene Hoffnung mit dem Wunsch, die Erfahrung seines Vaters zu bestätigen. Die Begegnung mit Sheeta (Originalstimme Keiko Yokozawa) macht aus diesem familiären Antrieb eine konkrete gemeinsame Suche.",
+      "anchor": "Die Fotografie verbindet Entdeckung und das Andenken an den Vater.",
+      "interest": "Erfasst das persönliche Beweisstück hinter Pazus Suche.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was bewirkt Sheetas (Originalstimme Keiko Yokozawa) überlieferter Spruch in der Festung in @?",
+      "answers": [
+        "Er aktiviert den dort aufbewahrten Roboter.",
+        "Er macht die Gefangenen unsichtbar.",
+        "Er öffnet ein unterirdisches Tor zur Stadt.",
+        "Er verwandelt den Kristall in eine Landkarte."
+      ],
+      "feedback": [
+        "Der Spruch weckt den in der Festung aufbewahrten Roboter.",
+        "Die Gefangenen werden nicht unsichtbar.",
+        "Ein unterirdischer Stadtzugang öffnet sich nicht.",
+        "Der Kristall wird nicht zur Landkarte."
+      ],
+      "short": "Sheetas Spruch aktiviert den Roboter in der Festung.",
+      "context": "Sheeta (japanische Originalstimme Keiko Yokozawa) erinnert sich an einen Spruch ihrer Großmutter. In der Festung reagiert darauf der dort aufbewahrte Roboter und erwacht. Er schützt sie und verursacht schwere Zerstörung, während Muska (Originalstimme Minori Terada) weiterhin den Kristall verfolgt. Die Szene zeigt, dass die überlieferte Sprache tatsächlich auf die alte Technik wirkt und die staatliche Kontrolle über deren Kräfte begrenzt ist.",
+      "anchor": "Überlieferte Worte wecken die vermeintlich tote Maschine.",
+      "interest": "Verbindet den Spruch mit seiner konkreten Wirkung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welcher Teil des Piratenluftschiffs dient den Kindern in @ auch als abtrennbarer Gleiter?",
+      "answers": [
+        "Der Ausguck",
+        "Die vordere Geschützkanzel",
+        "Die untere Ladeplattform",
+        "Die hintere Motorgondel"
+      ],
+      "feedback": [
+        "Der Ausguck kann als eigener Gleiter abgetrennt werden.",
+        "Die Geschützkanzel übernimmt diese Funktion nicht.",
+        "Die Ladeplattform wird nicht zum Gleiter.",
+        "Die Motorgondel ist nicht der abgetrennte Reiseplatz."
+      ],
+      "short": "Der Ausguck ist zugleich ein abtrennbarer Gleiter.",
+      "context": "Pazu (japanische Originalstimme Mayumi Tanaka) und Sheeta (Originalstimme Keiko Yokozawa) übernehmen auf dem Piratenluftschiff den Ausguck. Dieser Beobachtungsplatz besitzt eine zweite Funktion als Gleiter. Im Sturm reißt die Verbindung, sodass die Kinder getrennt vom größeren Schiff weiterfliegen. Die Konstruktion erklärt ihren besonderen Weg durch die gefährliche Wetterzone und verbindet einen alltäglichen Dienst an Bord mit einer entscheidenden technischen Eigenschaft.",
+      "anchor": "Der Ausguck beobachtet die Luft und kann selbst darin gleiten.",
+      "interest": "Erfasst eine konkrete Konstruktion des Luftschiffs.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Was bleibt nach dem gemeinsamen Zerstörungsspruch der Kinder in @ erhalten?",
+      "answers": [
+        "Der obere Stadtteil mit dem riesigen Baum",
+        "Der untere Waffenblock mit seinen Geschützen",
+        "Die militärische Kommandozentrale",
+        "Die gesamte Stadt unter einer neuen Tarnhülle"
+      ],
+      "feedback": [
+        "Der baumbewachsene obere Teil bleibt erhalten und steigt weiter auf.",
+        "Der untere Waffenbereich wird zerstört.",
+        "Die militärische Machtzentrale wird nicht gerettet.",
+        "Die Stadt bleibt nicht vollständig unter einer Tarnhülle bestehen."
+      ],
+      "short": "Der riesige Baum und der obere Bereich überstehen die Zerstörung.",
+      "context": "Pazu (japanische Originalstimme Mayumi Tanaka) und Sheeta (Originalstimme Keiko Yokozawa) sprechen gemeinsam die Zerstörungsformel. Dadurch zerfällt vor allem der untere Bereich der Stadt mit seiner militärischen Technik. Der riesige Baum hält den oberen Teil zusammen, der weiter aufsteigt. Die Schlussbilder trennen so die bewahrte lebendige Welt von dem Machtmittel, das Muska (Originalstimme Minori Terada) für seine Herrschaft einsetzen wollte.",
+      "anchor": "Die Waffen fallen, der Baum trägt die verbliebene Stadt.",
+      "interest": "Unterscheidet zerstörten Machtbereich und bewahrten Lebensraum.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals veröffentlicht?",
+      "answers": [
+        "1986",
+        "1982",
+        "1984",
+        "1989"
+      ],
+      "feedback": [
+        "Der Erstjahrgang ist 1986.",
+        "1982 liegt vier Jahre zu früh.",
+        "1984 ist der Jahrgang von Nausicaä.",
+        "1989 liegt drei Jahre nach dem Erststart."
+      ],
+      "short": "Der japanische Film erschien 1986.",
+      "context": "Das Schloss im Himmel erschien 1986, zwei Jahre nach Nausicaä aus dem Jahr 1984. Studio Ghibli dokumentiert beide japanischen Kinostarts. Die Verbindung ordnet den Film in eine konkrete Folge von Miyazakis Arbeiten ein. Nausicaä entstand laut Studioangabe bei Topcraft; das spätere Luftabenteuer gehört zur frühen Ghibli-Produktion. Beide Werke verbinden eine fantastische Welt mit der Gefahr, große technische Kräfte zur Herrschaft einzusetzen.",
+      "anchor": "Nausicaä 1984, Schloss im Himmel 1986: zwei Jahre.",
+      "interest": "Verknüpft den Erstjahrgang mit dem vorausgehenden Regiewerk.",
+      "sources": [
+        "studio",
+        "nausicaa"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte die Hauptregie der japanischen Originalfassung von @?",
+      "answers": [
+        "Hayao Miyazaki",
+        "Isao Takahata",
+        "Mamoru Hosoda",
+        "Makoto Shinkai"
+      ],
+      "feedback": [
+        "Hayao Miyazaki führt Hauptregie.",
+        "Isao Takahata ist hier Produzent, nicht Hauptregisseur.",
+        "Mamoru Hosoda führte bei diesem Film nicht Regie.",
+        "Makoto Shinkai trägt hier keinen Hauptregiecredit."
+      ],
+      "short": "Die Hauptregie stammt von Hayao Miyazaki.",
+      "context": "Hayao Miyazaki schrieb und inszenierte Das Schloss im Himmel. Isao Takahata wird als Produzent geführt und gehört damit ebenfalls zur Entstehung, übernimmt aber einen anderen Credit. Die Unterscheidung ist bei eng zusammenarbeitenden Studios besonders hilfreich. Der Regiearbeit wird der originale japanische Film zugeordnet, dessen technische Flugwelt, komische Piratengemeinschaft und zerstörerische Staatsmacht lange vor späteren internationalen Synchronfassungen bereits gestaltet waren.",
+      "anchor": "Miyazaki inszeniert, Takahata produziert das Luftabenteuer.",
+      "interest": "Grenzt Hauptregie und Produktion präzise ab.",
+      "sources": [
+        "studio",
+        "siff"
+      ]
+    }
+  ]
+}

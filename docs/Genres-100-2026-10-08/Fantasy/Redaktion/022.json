@@ -1,0 +1,109 @@
+{
+  "rank": 22,
+  "directors": ["Duncan Jones"],
+  "production_countries": ["Japan", "Kanada", "USA", "China"],
+  "country_note": "Die tatsächlich gelesene AFI-Watch-Filmkarte nennt Japan, Canada, United States und China. Diese institutionelle Vierländerzuordnung wird gegenüber dem engeren USA-Feld des Artikelcaches übernommen. Der Vancouver-Drehort ist nicht der Grund für die Kanada-Zuordnung.",
+  "release_note": "Erstjahr 2016. AFI Watch nennt den US-Start am 10. Juni; der Cache dokumentiert bereits die Pariser Premiere am 24. Mai. Frühere angekündigte Termine sind keine erfolgten Veröffentlichungen.",
+  "director_note": "Duncan Jones trägt die Hauptregie. AFI Watch führt Tom Struthers als Second Unit Director, nicht als zweiten Hauptregisseur. Sam Raimis frühere Projektbindung ist vom fertigen Credit getrennt.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannte Verfilmung einer sehr verbreiteten Spielwelt, auch außerhalb des engeren Fantasykinos erkennbar.",
+  "notes": "Die Filmhandlung wird nicht mit späteren Spielereignissen oder Comicfassungen gleichgesetzt. Alodis abweichende Filmgestaltung wird nicht als Wissensziel verwendet.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Warcraft_(film)",
+    "afi": "https://watch.afi.com/movie/warcraft",
+    "blizzard": "https://news.blizzard.com/en-us/article/24055599/get-warcraft-orcs-humans-on-battle-net-now"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Ausgangslage treibt die Orks in @ zur Suche nach einer neuen Welt?",
+      "answers": ["Ihre Heimat zerfällt", "Ihre Hauptstadt wird von Menschen besetzt", "Ihre Handelswege werden von Zwergen blockiert", "Ihre Clans verlieren einen Krieg gegen Elfen"],
+      "feedback": ["Die sterbende Heimatwelt bedroht ihr Überleben.", "Eine menschliche Besetzung ihrer Hauptstadt ist nicht der Ausgangspunkt.", "Blockierte Handelswege verursachen die Flucht nicht.", "Ein verlorener Elfenkrieg erklärt den Weltenwechsel nicht."],
+      "short": "Der Zerfall ihrer Heimat zwingt die Orks zur Suche nach einem neuen Lebensraum.",
+      "context": "Die Heimatwelt der Orks, Draenor, zerfällt unter dem Einfluss verderblicher Magie. Gul’dan (Daniel Wu) führt die vereinten Clans in eine andere Welt, während Durotan (Toby Kebbell) seine Familie und sein Volk retten will. Der Beginn zeigt deshalb mehr als den Angriff einer fremden Armee. Hinter der Invasion steht auch eine Existenzkrise, deren Lösung andere Bewohner bedroht. Verschiedene Orks ziehen aus dieser Lage unterschiedliche Schlüsse über ihren Anführer.",
+      "anchor": "Die Flucht aus einer sterbenden Heimat wird für eine andere Welt zur Invasion.",
+      "interest": "Die Ausgangslage erklärt die gegensätzlichen Interessen der beiden Seiten.",
+      "sources": ["film", "afi"]
+    },
+    {
+      "code": "L2",
+      "question": "Wie gelangen die ersten Orks in @ von Draenor nach Azeroth?",
+      "answers": ["Durch ein magisches Portal", "Auf einer Flotte über den Ozean", "Auf fliegenden Reittieren über die Berge", "Durch einen Tunnel unter der Erde"],
+      "feedback": ["Ein Portal verbindet die beiden Welten.", "Eine Seeflotte überquert nicht die Grenze zwischen diesen Welten.", "Ein Gebirgsflug bringt die ersten Orks nicht nach Azeroth.", "Ein unterirdischer Tunnel ist nicht die verwendete Verbindung."],
+      "short": "Ein magisches Portal verbindet Draenor und Azeroth.",
+      "context": "Gul’dan (Daniel Wu) öffnet ein Portal, durch das eine erste Gruppe von Orks nach Azeroth gelangt. Die Verbindung benötigt Lebensenergie und ist zunächst nicht für die gesamte Horde ausreichend. Das Vorauskommando soll deshalb weitere Gefangene finden. Der Übergang ist kein gewöhnlicher Marsch in ein Nachbarland: Ein magisch hergestellter Zugang verbindet getrennte Welten und macht seine spätere Erweiterung zu einem entscheidenden militärischen und moralischen Konflikt.",
+      "anchor": "Das Portal verbindet Welten und verlangt Lebensenergie.",
+      "interest": "Der Reiseweg ist zugleich ein zentraler Teil des Angriffsplans.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M1",
+      "question": "Welchen Plan verfolgt Durotan (Toby Kebbell) bei seinem geheimen Treffen mit den Menschen in @?",
+      "answers": ["Ein Bündnis gegen Gul’dan", "Die Auslieferung aller menschlichen Magier", "Eine gemeinsame Herrschaft über die Orkclans", "Den Verkauf gefangener Menschen an die Horde"],
+      "feedback": ["Durotan sucht Verbündete gegen den verderblichen Anführer.", "Die Auslieferung der Magier ist nicht sein Vorschlag.", "Eine gemeinsame Clanherrschaft bietet er nicht an.", "Er trifft sich nicht, um Menschen an die Horde zu verkaufen."],
+      "short": "Durotan will Menschen und seinen Clan gegen Gul’dan verbinden.",
+      "context": "Durotan (Toby Kebbell) erkennt die Gefahr, die Gul’dan (Daniel Wu) für sein eigenes Volk darstellt. Er trifft König Llane Wrynn (Dominic Cooper) heimlich, um eine Zusammenarbeit der Menschen mit seinem Clan vorzuschlagen. Das Treffen überschreitet die offensichtliche Grenze zwischen Verteidigern und Eindringlingen. Der Versuch beruht auf einem gemeinsamen Gegner, nicht auf dem Ende aller Unterschiede. Widerstand innerhalb der Orks und ein anschließender Hinterhalt verhindern einen einfachen Friedensschluss.",
+      "anchor": "Ein gemeinsamer Gegner ermöglicht den Versuch eines Bündnisses über die Front hinweg.",
+      "interest": "Der Orkanführer sucht eine andere Lösung als die Fortsetzung der Invasion.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Entdeckung macht Khadgar (Ben Schnetzer) über Medivh (Ben Foster) in @?",
+      "answers": ["Von Magie verderbt half er beim Öffnen des Portals", "Er wurde durch ein orkisches Ebenbild ersetzt", "Er hält die vermissten Menschen heimlich als eigene Armee fest", "Er hat seine magischen Kräfte schon vor der Invasion verloren"],
+      "feedback": ["Der verderbte Medivh half von Azeroth aus beim Portal.", "Ein orkisches Ebenbild erklärt seine Rolle nicht.", "Eine versteckte eigene Gefangenenarmee ist nicht Khadgars Entdeckung.", "Medivh ist nicht seit vor der Invasion vollständig machtlos."],
+      "short": "Der vermeintliche Beschützer hat das Portal heimlich ermöglicht.",
+      "context": "Khadgar (Ben Schnetzer) erkennt zunächst, dass Gul’dan (Daniel Wu) beim Öffnen des Portals Hilfe von Azeroth erhalten haben muss. Später entdeckt er, dass Medivh (Ben Foster) diese Rolle übernommen hat und selbst von der verderblichen Magie beeinflusst ist. Der Verdacht richtet sich dadurch gegen den vertrauten Beschützer. Die Menschen müssen ihre Gefahr nicht ausschließlich jenseits des Portals suchen, sondern auch innerhalb der eigenen magischen Ordnung erkennen.",
+      "anchor": "Der Beschützer Azeroths gehört heimlich zur Ursache der Invasion.",
+      "interest": "Die Entdeckung verschiebt die Grenze zwischen äußerer Bedrohung und innerem Verrat.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Warum bittet König Llane (Dominic Cooper) Garona (Paula Patton) im Schlusskampf von @, ihn zu töten?",
+      "answers": ["Sie soll bei den Orks Ansehen gewinnen und Frieden ermöglichen", "Sie soll einen Zauber lösen, der ihn an das Portal bindet", "Sie soll den Orks einen bereits vorbereiteten Doppelgänger vorführen", "Sie soll durch seinen Tod selbst menschliche Königin werden"],
+      "feedback": ["Llane hofft, dass Garonas Ansehen ihr später Einfluss für Frieden gibt.", "Ein bindender Portalzauber ist nicht der Anlass dieser Bitte.", "Ein vorbereiteter Doppelgänger gehört nicht zum Plan.", "Garona soll dadurch nicht zur menschlichen Königin werden."],
+      "short": "Llane opfert sich, um Garona Einfluss unter den Orks zu verschaffen.",
+      "context": "Als der Rückzug zusammenbricht, bittet König Llane Wrynn (Dominic Cooper) Garona (Paula Patton), ihn zu töten. Er erwartet, dass die Tat ihr Ansehen unter den Orks verschafft und dadurch später einen Weg zum Frieden eröffnet. Garona handelt widerwillig. Für Außenstehende kann die Entscheidung wie ein Verrat erscheinen, obwohl sie einem geheimen Wunsch des Königs folgt. Die Schlussphase trennt damit sichtbare Handlung und verborgenes Motiv besonders deutlich.",
+      "anchor": "Der scheinbare Verrat folgt dem geheimen Friedensplan des Königs.",
+      "interest": "Das verborgene Motiv verändert die Bedeutung einer entscheidenden Tat.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Warum darf Lothar (Travis Fimmel) nach seinem Sieg über Blackhand (Clancy Brown) in @ trotz Gul’dans (Daniel Wu) Widerspruch abziehen?",
+      "answers": ["Die Orks respektieren den Ausgang des ehrenhaften Duells", "Garona (Paula Patton) hat alle Wachposten zuvor bestochen", "Ein Zauber macht ihn für die Orks unantastbar", "Seine Armee hält Gul’dan (Daniel Wu) als Geisel fest"],
+      "feedback": ["Die Orks halten sich an die Tradition des Duells.", "Bestechungen der Wachposten ermöglichen den Abzug nicht.", "Ein Schutzzauber verhindert nicht ihre Gegenwehr.", "Gul’dan befindet sich nicht als Geisel in der Gewalt der Armee."],
+      "short": "Die Duelltradition setzt sich gegen Gul’dans Forderung durch.",
+      "context": "Lothar (Travis Fimmel) kehrt zurück, um den Leichnam König Llanes (Dominic Cooper) zu holen, und muss gegen Blackhand (Clancy Brown) kämpfen. Nach dessen Niederlage verlangt Gul’dan (Daniel Wu) weitere Gewalt. Die anwesenden Orks lassen Lothar dennoch abziehen, weil sie das Ergebnis des traditionellen Duells anerkennen. Ihre Entscheidung zeigt, dass der Anführer nicht jede gemeinsame Regel überschreiben kann. Ein Sieg im Zweikampf erhält so eine Bedeutung über die persönliche Vergeltung hinaus.",
+      "anchor": "Die anerkannte Duellregel begrenzt Gul’dans Macht über die Orks.",
+      "interest": "Eine gemeinsame Tradition verhindert den verlangten weiteren Angriff.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Travis Fimmel und Paula Patton erstmals?",
+      "answers": ["2016", "2013", "2019", "2022"],
+      "feedback": ["2016 ist das erste Filmjahr.", "2013 liegt drei Jahre davor.", "2019 liegt drei Jahre danach.", "2022 ist sechs Jahre zu spät."],
+      "short": "Die Kinoverfilmung erschien erstmals 2016.",
+      "context": "Warcraft: Orcs & Humans eröffnete die Spielreihe 1994; Warcraft: The Beginning erschien 2016, zweiundzwanzig Jahre später. Blizzard benennt das frühere Spiel ausdrücklich als Beginn des Franchises. Der Film greift den Konflikt zwischen Menschen und eindringenden Orks in einer eigenen filmischen Erzählung auf. Die Datumsverbindung betrifft deshalb die Entstehung der Spielwelt und ihre spätere Kinoverwendung, nicht die Behauptung, dass jedes Ereignis beider Fassungen genau übereinstimmt.",
+      "anchor": "1994 erstes Warcraft-Spiel, 2016 Kinofilm: zweiundzwanzig Jahre Abstand.",
+      "interest": "Das erste Spiel bildet den konkreten Ursprung des später verfilmten Franchises.",
+      "sources": ["blizzard", "afi", "film"]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Travis Fimmel und Paula Patton Hauptregie?",
+      "answers": ["Duncan Jones", "Peter Jackson", "Guillermo del Toro", "Ang Lee"],
+      "feedback": ["Duncan Jones trägt den Hauptregiecredit.", "Peter Jackson inszenierte diese Spielverfilmung nicht.", "Guillermo del Toro ist nicht ihr Hauptregisseur.", "Ang Lee führte bei diesem Film nicht Hauptregie."],
+      "short": "Duncan Jones inszenierte die Kinoverfilmung.",
+      "context": "Duncan Jones führt den Hauptregiecredit von Warcraft. Seine Erzählung verfolgt Figuren auf beiden Seiten der Invasion und stellt die Rettung der einen Heimat gegen die Bedrohung einer anderen. Die AFI-Watch-Filmkarte nennt Tom Struthers gesondert für die zweite Einheit. Auch frühere Projektpläne mit einem anderen Regisseur sind vom fertigen Film zu trennen. Die konkrete Fassung wird dadurch einem eindeutigen Hauptcredit zugeordnet, ohne weitere Produktionsarbeit zu unterschlagen.",
+      "anchor": "Jones inszeniert die gegensätzlichen Interessen auf beiden Seiten des Portals.",
+      "interest": "Der Hauptcredit ist vom Anteil der zweiten Einheit getrennt.",
+      "sources": ["afi", "film"]
+    }
+  ]
+}

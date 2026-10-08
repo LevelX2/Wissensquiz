@@ -1,0 +1,214 @@
+{
+  "rank": 14,
+  "directors": [
+    "Bill Condon"
+  ],
+  "production_countries": [
+    "USA",
+    "Vereinigtes Königreich"
+  ],
+  "release_note": "Realverfilmung 2017. Der Cache nennt die Weltpremiere am 23. Februar 2017 in London; Disney bestätigt den US-Kinostart am 17. März 2017. Nicht die Zeichentrickfassung 1991 oder Cocteaus Fassung 1946.",
+  "director_note": "Bill Condon führt allein Hauptregie. David Hoberman und Todd Lieberman sind Produzenten.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: sehr bekannte Disney-Realverfilmung; die Fragen betreffen ausdrücklich diese Besetzung und Fassung.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film)",
+    "disney": "https://movies.disney.com/beauty-and-the-beast-2017",
+    "bfi": "https://www.bfi.org.uk/film/4292030c-3cac-518e-a302-8e82fa6b02cb/beauty-and-the-beast",
+    "review": "https://www.bfi.org.uk/sight-and-sound/reviews/beauty-beast-review-magnificent-monster-with-no-teeth",
+    "yearbook": "https://researchlibrary.ontariocreates.ca/Handler/AccessedDocHandler.ashx?Id=1868&SearchId=0"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Gegenstände fertigt Maurice (Kevin Kline) in der Realverfilmung @ an?",
+      "answers": [
+        "Musikalische Spieluhren",
+        "Mechanische Webstühle",
+        "Präzise Sternenfernrohre",
+        "Automatische Buchpressen"
+      ],
+      "feedback": [
+        "Maurice fertigt kunstvolle Spieluhren.",
+        "Webstühle sind nicht seine gezeigten Arbeiten.",
+        "Sternenfernrohre sind nicht sein charakteristisches Handwerk.",
+        "Buchpressen sind nicht die gezeigten Gegenstände."
+      ],
+      "short": "Maurice arbeitet als Künstler und Spieluhrenmacher.",
+      "context": "Maurice (Kevin Kline) fertigt in dieser Realverfilmung musikalische Spieluhren an. Sein Handwerk unterscheidet die konkrete Figur von anderen bekannten Fassungen des Märchens. Belle (Emma Watson) lebt mit einem Vater, dessen Gegenstände kleine bewegliche Welten zeigen. Die Tätigkeit verbindet technische Geschicklichkeit mit Erinnerung und Erzählung. Sie gehört zu ihrer vertrauten familiären Umgebung, bevor die Reise des Vaters die Begegnung mit dem verzauberten Schloss auslöst.",
+      "anchor": "Maurices kleine Musikwelten gehören zur Realverfilmung.",
+      "interest": "Erfasst ein fassungsspezifisches, sichtbares Handwerk.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "In welchen Gegenstand ist Cadenza (Stanley Tucci) in der Realverfilmung @ verwandelt?",
+      "answers": [
+        "In ein Cembalo",
+        "In eine Standuhr",
+        "In eine Spielorgel",
+        "In einen Flügel"
+      ],
+      "feedback": [
+        "Cadenza erscheint als Cembalo.",
+        "Die Standuhr ist nicht Cadenzas Gestalt.",
+        "Eine Spielorgel ist nicht der Gegenstand seines Fluchs.",
+        "Er wird nicht als Flügel gezeigt."
+      ],
+      "short": "Der Hofmusiker Cadenza ist in ein Cembalo verwandelt.",
+      "context": "Cadenza (Stanley Tucci) gehört zu den verzauberten Bewohnern des Schlosses. Der Hofmusiker besitzt die Gestalt eines Cembalos und setzt seine musikalische Funktion dadurch auf ungewöhnliche Weise fort. Seine Frau Madame Garderobe (Audra McDonald) ist ein Kleiderschrank. Die zusätzlichen Figuren verleihen der Realverfilmung eigene Beziehungen innerhalb des Haushalts; die Gegenstände stehen nicht nur für Ausstattung, sondern für Menschen mit einer Vorgeschichte und miteinander verbundenen Leben.",
+      "anchor": "Der Musiker bleibt als Cembalo Teil des Schlossklangs.",
+      "interest": "Erfasst eine neue Figur und deren konkreten Gegenstandsfluch.",
+      "sources": [
+        "film",
+        "disney"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was ermöglicht das magische Buch in der Realverfilmung @?",
+      "answers": [
+        "Die Reise an einen gewünschten Ort",
+        "Das Lesen noch ungeschriebener Geschichten",
+        "Das Gespräch mit verstorbenen Verwandten",
+        "Die Übersetzung jeder unbekannten Sprache"
+      ],
+      "feedback": [
+        "Das Buch ermöglicht eine magische Reise an einen gewählten Ort.",
+        "Noch ungeschriebene Geschichten sind nicht seine gezeigte Funktion.",
+        "Es stellt kein Gespräch mit Toten her.",
+        "Seine entscheidende Funktion ist keine Universalübersetzung."
+      ],
+      "short": "Das Buch bringt seine Benutzer magisch an einen gewählten Ort.",
+      "context": "Das Biest (Dan Stevens) zeigt Belle (Emma Watson) ein besonderes Buch, mit dem man an einen gewünschten Ort reisen kann. Sie wählen Paris und gelangen zum früheren Zuhause ihrer Familie. Das Buch ist deshalb kein gewöhnliches Erinnerungsalbum: Es macht einen Ort unmittelbar zugänglich. Die Reise eröffnet Belle eine neue Sicht auf die Vergangenheit, die ihr Vater Maurice (Kevin Kline) lange nur schwer erklären konnte.",
+      "anchor": "Das Buch zeigt Vergangenheit nicht nur, es bringt Belle an ihren Ort.",
+      "interest": "Erfasst ein neues magisches Reisemittel der Fassung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Was tut Gaston (Luke Evans) mit Maurice (Kevin Kline) nach dessen Weigerung in der Realverfilmung @?",
+      "answers": [
+        "Er fesselt ihn und überlässt ihn den Wölfen.",
+        "Er verkauft ihn als Arbeiter an eine entfernte Mine.",
+        "Er hält ihn in einem verlassenen Stall gefangen.",
+        "Er setzt ihn ohne Gepäck auf einem Flussboot aus."
+      ],
+      "feedback": [
+        "Gaston lässt den gefesselten Maurice im Wald zurück.",
+        "Eine Mine ist nicht sein Ziel für Maurice.",
+        "Ein Stall ist nicht der Ort dieser Aussetzung.",
+        "Ein Flussboot wird nicht benutzt."
+      ],
+      "short": "Gaston setzt Maurice gefesselt den Wölfen aus.",
+      "context": "Maurice (Kevin Kline) verweigert Gaston (Luke Evans) die Zustimmung zu einer Heirat mit Belle (Emma Watson). Daraufhin lässt Gaston ihn im Wald gefesselt zurück und setzt ihn der Gefahr durch Wölfe aus. Agathe (Hattie Morahan) rettet den Vater. Die Szene zeigt ein Vorgehen, das über Gastons öffentlich gepflegtes Heldenbild hinausgeht: Der Widerstand eines Angehörigen wird nicht mit Überzeugung beantwortet, sondern gewaltsam beseitigt.",
+      "anchor": "Hinter dem Heldenbild steht die gewaltsame Aussetzung des Vaters.",
+      "interest": "Erfasst einen konkreten fassungsspezifischen Angriff.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was erfährt Belle (Emma Watson) über den Tod ihrer Mutter in der Realverfilmung @?",
+      "answers": [
+        "Sie starb während einer Pestepidemie.",
+        "Sie starb bei einem Schlossbrand.",
+        "Sie ertrank bei einer Flussüberquerung.",
+        "Sie starb bei einem Sturz vom Pferd."
+      ],
+      "feedback": [
+        "Die frühere Wohnung und die Seuchenmaske verweisen auf die Pest.",
+        "Ein Schlossbrand ist nicht die enthüllte Todesursache.",
+        "Eine Flussüberquerung gehört nicht zur Erklärung.",
+        "Ein Reitunfall wird nicht enthüllt."
+      ],
+      "short": "Belles Mutter starb an der Pest.",
+      "context": "Belle (Emma Watson) besucht mit dem Biest (Dan Stevens) die frühere Familienwohnung in Paris. Eine zurückgelassene Seuchenmaske macht den Zusammenhang mit der Pest deutlich. Ihre Mutter (Zoë Rainey) starb, während Maurice (Kevin Kline) mit dem kleinen Kind fortging, um es zu schützen. Die Enthüllung verändert Belles Verständnis der väterlichen Zurückhaltung: Hinter dem Schweigen steht der Verlust eines Menschen und eine damals notwendige Rettungsentscheidung.",
+      "anchor": "Die Seuchenmaske erklärt den Verlust und die Flucht des Vaters.",
+      "interest": "Erfasst eine neu erzählte Familiengeschichte der Realverfilmung.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche Identität besitzt Agathe (Hattie Morahan) in der Realverfilmung @ tatsächlich?",
+      "answers": [
+        "Sie ist die Zauberin hinter dem Fluch.",
+        "Sie ist die verschwundene Mutter des Prinzen.",
+        "Sie ist die ehemalige Dienerin des Schlosses.",
+        "Sie ist die verkleidete Schwester des Spieluhrenmachers."
+      ],
+      "feedback": [
+        "Agathe entpuppt sich als die Zauberin des Schlossfluchs.",
+        "Sie wird nicht als Mutter des Prinzen enthüllt.",
+        "Eine ehemalige Schlossdienerin ist nicht die enthüllte Identität.",
+        "Sie ist nicht die Schwester des Spieluhrenmachers."
+      ],
+      "short": "Agathe ist die Zauberin, die den Fluch verhängt hat.",
+      "context": "Agathe (Hattie Morahan) wird im Dorf als unscheinbare Außenseiterin behandelt. Sie hilft Maurice (Kevin Kline), nachdem er im Wald zurückgelassen wurde, und erscheint später im Schloss. Dort wird ihre Identität als Zauberin hinter dem Fluch deutlich. Die Schlussenthüllung verbindet die scheinbar machtlose Frau mit der Kraft, die das gesamte Schloss verändert hat. Ihre Stellung im Dorf sagt somit wenig über ihre tatsächliche Macht aus.",
+      "anchor": "Die übersehene Dorfbewohnerin steht hinter dem Schlossfluch.",
+      "interest": "Verbindet eine neue Nebenfigur mit der Schlussenthüllung.",
+      "sources": [
+        "film",
+        "review"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien die Realverfilmung @ mit Emma Watson erstmals?",
+      "answers": [
+        "2017",
+        "2014",
+        "2016",
+        "2019"
+      ],
+      "feedback": [
+        "Die Realverfilmung stammt von 2017.",
+        "2014 ist nicht das Erstjahr des fertigen Films.",
+        "2016 liegt ein Jahr zu früh.",
+        "2019 liegt zwei Jahre nach dem Erststart."
+      ],
+      "short": "Die Realverfilmung wurde 2017 veröffentlicht.",
+      "context": "Die Schöne und das Biest erschien als Realverfilmung 2017. Die Disney-Zeichentrickfassung stammt von 1991; zwischen den beiden Filmjahrgängen liegen 26 Jahre. Disney bezeichnet den späteren Film ausdrücklich als Neubearbeitung seines Animationsklassikers. Der gemeinsame Titel verdeckt dabei unterschiedliche Besetzungen und ergänzte Handlungsdetails. Der Jahresanker trennt diese beiden Veröffentlichungen, ohne sie mit der noch älteren Märchenverfilmung von Jean Cocteau gleichzusetzen.",
+      "anchor": "Disney-Zeichentrick 1991, Realverfilmung 2017: 26 Jahre.",
+      "interest": "Trennt zwei gleichnamige Disney-Fassungen.",
+      "sources": [
+        "disney",
+        "bfi"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Realverfilmung @ mit Emma Watson Hauptregie?",
+      "answers": [
+        "Bill Condon",
+        "Kenneth Branagh",
+        "Rob Marshall",
+        "Chris Columbus"
+      ],
+      "feedback": [
+        "Bill Condon führte Hauptregie.",
+        "Kenneth Branagh ist nicht der Regisseur dieser Fassung.",
+        "Rob Marshall inszenierte diesen Film nicht.",
+        "Chris Columbus trägt hier keinen Hauptregiecredit."
+      ],
+      "short": "Die Realverfilmung inszenierte Bill Condon.",
+      "context": "Bill Condon führte die Hauptregie der Realverfilmung mit Belle (Emma Watson) und dem Biest (Dan Stevens). Der Credit unterscheidet diese Veröffentlichung von den älteren Zeichentrick- und Spielfilmfassungen desselben Märchens. Die Inszenierung übernimmt bekannte Musicalelemente, ergänzt aber Figuren und Belles Familiengeschichte. Für das Regieziel zählt deshalb nicht allein der vertraute Titel, sondern die konkrete Fassung mit dieser Besetzung und ihren eigenen Erweiterungen.",
+      "anchor": "Bill Condon gehört zur Fassung mit Emma Watson und Dan Stevens.",
+      "interest": "Ordnet den Regiecredit der richtigen Realverfilmung zu.",
+      "sources": [
+        "disney",
+        "bfi"
+      ]
+    }
+  ],
+  "country_note": "BFI Statistical Yearbook 2018, Druck-/PDF-Seite 48, Tabelle 2, Zeile 1, nennt UK/USA unter Country of origin. Diese vollständig nachgelesene statistische Länderzuordnung wird übernommen. Das BFI-Filmarchiv, die zeitgenössische Besprechung und der Cache nennen abweichend nur USA. Der britische Anteil wird deshalb durch die BFI-Tabelle, nicht allein durch den Drehort begründet."
+}

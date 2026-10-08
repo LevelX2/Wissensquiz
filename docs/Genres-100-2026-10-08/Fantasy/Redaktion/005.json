@@ -1,0 +1,211 @@
+{
+  "rank": 5,
+  "directors": [
+    "Ron Howard"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1988, Lucasfilm-Kinofilm mit Warwick Davis. Die gleichnamige spätere Fernsehserie ist keine Filmfassung. Ein gescheiterter Cannes-Abruf belegt keine genaue Festivalpremiere.",
+  "director_note": "Ron Howard ist Hauptregisseur laut Lucasfilm und BFI. George Lucas verantwortet Stoff/Produktion, nicht den Hauptregiecredit.",
+  "series": null,
+  "familiarity_reason": "Bekanntes Fantasyabenteuer mit anhaltender Wiederentdeckung und späterer Serienfortsetzung; redaktionelle Bekanntheit 2.",
+  "notes": "Plot/Cast vollständig gelesen; keine Filmsichtung. Das Baby wird neutral bezeichnet, damit kein unvollständiger Mehrfachdarstellercredit entsteht. Fin Raziels erste Gestalt ist ein possum/Beuteltier, nicht ungeprüft ein amerikanisches Opossum.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Willow_(1988_film)",
+    "lucasfilm": "https://www.lucasfilm.com/productions/willow/",
+    "bfi": "https://www.bfi.org.uk/film/14c499db-8d50-5dcb-8057-6e4a7f6ce251/willow",
+    "series": "https://www.lucasfilm.com/productions/willow-series-chapter-1-the-gales/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Tätigkeit übt Willow (Warwick Davis) zu Beginn von @ aus?",
+      "answers": [
+        "Bauer",
+        "Dorfschmied",
+        "Hofschreiber",
+        "Wanderhändler"
+      ],
+      "feedback": [
+        "Willow ist ein Bauer mit magischen Ambitionen.",
+        "Als Dorfschmied wird er nicht vorgestellt.",
+        "Ein Hofschreiber ist er nicht.",
+        "Willow beginnt nicht als Wanderhändler."
+      ],
+      "short": "Willow beginnt als Bauer.",
+      "context": "Willow Ufgood (Warwick Davis) lebt mit seiner Familie als Bauer und möchte zugleich die Zauberkunst erlernen. Seine Reise beginnt nicht als Auftrag an einen bereits berühmten Helden. Als ein Baby in die Gemeinschaft gelangt, muss er Verantwortung übernehmen, obwohl ihm Erfahrung und sichere magische Fähigkeiten fehlen. Der Film verbindet damit eine vertraute häusliche Lebenswelt mit einer Aufgabe von weit größerer Bedeutung.",
+      "anchor": "Ein Bauer wächst in eine gefährliche Aufgabe hinein.",
+      "interest": "Erkennt die zugängliche Ausgangslage des noch unerfahrenen Helden.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Zukunft sagt die Prophezeiung dem gefundenen Baby in @ voraus?",
+      "answers": [
+        "Es wird Bavmordas (Jean Marsh) Herrschaft beenden.",
+        "Es wird Sorshas (Joanne Whalley) Heer führen.",
+        "Es wird Fin Raziels (Patricia Hayes) Fluch erben.",
+        "Es wird Kaels (Pat Roach) Reich begründen."
+      ],
+      "feedback": [
+        "Das Kind soll Bavmordas Herrschaft beenden.",
+        "Die Führung von Sorshas Heer ist nicht die Prophezeiung.",
+        "Fin Raziels Fluch soll nicht auf das Baby übergehen.",
+        "Die Gründung eines Reichs für Kael wird nicht vorhergesagt."
+      ],
+      "short": "Das Baby bedroht Bavmordas Herrschaft.",
+      "context": "Bavmorda (Jean Marsh) lässt schwangere Frauen festhalten, weil sie die Geburt eines Kindes fürchtet, das ihre Herrschaft beenden soll. Dennoch wird das Baby gerettet und gelangt auf dem Fluss zu Willows (Warwick Davis) Familie. Die Verfolgung beruht deshalb nicht auf einer bereits ausgeübten Macht des Kindes. Die Königin versucht vielmehr, eine angekündigte Zukunft durch Gewalt schon im Voraus zu verhindern.",
+      "anchor": "Die Königin verfolgt eine angekündigte Zukunft.",
+      "interest": "Erklärt den Grundkonflikt und die Verfolgung des Babys.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wofür erklärt sich Madmartigan (Val Kilmer) in @ bereit, das Baby zu übernehmen?",
+      "answers": [
+        "Für seine Befreiung aus dem Krähenkäfig",
+        "Für die Rückgabe seines gestohlenen Schwerts",
+        "Für einen Anteil an einem gefundenen Schatz",
+        "Für einen magischen Schutz gegen Verfolger"
+      ],
+      "feedback": [
+        "Madmartigan bietet die Übernahme gegen seine Freilassung an.",
+        "Ein gestohlenes Schwert ist nicht die vereinbarte Gegenleistung.",
+        "Ein Schatzanteil wird bei dieser Begegnung nicht vereinbart.",
+        "Ein magischer Schutz ist nicht seine Bedingung."
+      ],
+      "short": "Die Übernahme des Babys soll Madmartigan befreien.",
+      "context": "Willow (Warwick Davis) trifft Madmartigan (Val Kilmer) an einer Wegkreuzung im Krähenkäfig. Der Söldner bietet an, das Baby zu übernehmen, wenn man ihn freilässt. Für die Reisegruppe wäre das eine einfache Übergabe an einen großen Menschen, doch Willow misstraut dem Angebot zunächst. Die spätere Zusammenarbeit entsteht somit aus einem zweifelhaften Handel, bevor sich zwischen den beiden echtes Vertrauen entwickelt.",
+      "anchor": "Erst Freilassung gegen Baby, später Zusammenarbeit.",
+      "interest": "Erfasst die anfänglich eigennützige Bedingung des späteren Begleiters.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "In welcher Tiergestalt begegnet Willow (Warwick Davis) Fin Raziel (Patricia Hayes) zuerst in @?",
+      "answers": [
+        "Als Beuteltier",
+        "Als Rabe",
+        "Als Ziege",
+        "Als Eule"
+      ],
+      "feedback": [
+        "Fin Raziel erscheint zuerst als Beuteltier.",
+        "Eine Vogelgestalt folgt erst einem späteren Verwandlungsversuch.",
+        "Zur Ziege wird sie erst später.",
+        "Eine Eule ist nicht ihre erste Gestalt."
+      ],
+      "short": "Fin Raziel lebt zunächst als Beuteltier.",
+      "context": "Fin Raziel (Patricia Hayes) ist eine erfahrene Zauberin, die Bavmorda (Jean Marsh) in Tiergestalt verbannt hat. Willow (Warwick Davis) begegnet ihr zunächst als Beuteltier und versucht, ihr die menschliche Form zurückzugeben. Die ersten Versuche führen aber nur zu weiteren Tiergestalten. Seine Entwicklung als Zauberer wird dadurch an einer konkreten Aufgabe sichtbar, bei der ein guter Wille noch keine sichere Ausführung garantiert.",
+      "anchor": "Die Zauberin wartet in Beuteltiergestalt auf Befreiung.",
+      "interest": "Unterscheidet den Ausgangsfluch von den späteren missglückten Verwandlungen.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was richtet Bavmordas (Jean Marsh) Zauber vor Nockmaar in @ mit dem angreifenden Heer an?",
+      "answers": [
+        "Er verwandelt die Soldaten in Schweine.",
+        "Er macht die Soldaten zu steinernen Statuen.",
+        "Er versetzt die Soldaten in tiefen Schlaf.",
+        "Er macht die Soldaten unsichtbar."
+      ],
+      "feedback": [
+        "Das Heer wird in Schweine verwandelt.",
+        "Eine Versteinerung ist nicht die Wirkung des Zaubers.",
+        "Die Soldaten schlafen nicht bloß ein.",
+        "Unsichtbarkeit ist nicht ihre neue Lage."
+      ],
+      "short": "Bavmorda verwandelt das Heer in Schweine.",
+      "context": "Vor Nockmaar hilft zahlenmäßige Stärke zunächst wenig: Bavmorda (Jean Marsh) verwandelt das angreifende Heer in Schweine. Willow (Warwick Davis) schützt sich mit dem Zauberstab und kann weiter handeln. Erst nachdem er Fin Raziel (Patricia Hayes) ihre menschliche Gestalt zurückgegeben hat, hebt sie den Heereszauber auf. Die Szene verbindet daher zwei Aufgaben, deren Reihenfolge für den weiteren Angriff entscheidend ist.",
+      "anchor": "Das Schweineheer braucht die wiederhergestellte Zauberin.",
+      "interest": "Verknüpft den Gegenzauber mit der zuvor aufgebauten Verwandlungsaufgabe.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Womit entzieht Willow (Warwick Davis) das Baby bei der letzten Konfrontation in @ Bavmordas (Jean Marsh) Blick?",
+      "answers": [
+        "Mit einem Taschenspielertrick",
+        "Mit einem echten Teleportationszauber",
+        "Mit einer Verwandlung in Rauch",
+        "Mit einem Unsichtbarkeitsbann"
+      ],
+      "feedback": [
+        "Willow nutzt einen Taschenspielertrick.",
+        "Das Baby wird nicht wirklich an einen anderen Ort teleportiert.",
+        "Es verwandelt sich nicht in Rauch.",
+        "Ein Unsichtbarkeitsbann erklärt den Trick nicht."
+      ],
+      "short": "Ein Taschenspielertrick täuscht die Königin.",
+      "context": "Willow (Warwick Davis) lässt Bavmorda (Jean Marsh) glauben, er habe das Baby auf magische Weise verschwinden lassen. Tatsächlich nutzt er einen Taschenspielertrick. Die verunsicherte Königin greift ihn an und vollendet dabei versehentlich ihr eigenes Verbannungsritual gegen sich selbst. Der Sieg verlangt somit keinen stärkeren Zauber als den der Gegnerin, sondern eine Täuschung, die deren Handeln im entscheidenden Moment verändert.",
+      "anchor": "Der kleine Trick lenkt den großen Zauber gegen seine Urheberin.",
+      "interest": "Erklärt die besondere Ursache der Schlusswendung.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Warwick Davis erstmals veröffentlicht?",
+      "answers": [
+        "1988",
+        "1984",
+        "1992",
+        "1996"
+      ],
+      "feedback": [
+        "Der Kinofilm erschien 1988.",
+        "1984 liegt vier Jahre vor der Veröffentlichung.",
+        "1992 ist vier Jahre zu spät.",
+        "1996 liegt acht Jahre nach dem Film."
+      ],
+      "short": "Willow erschien erstmals 1988.",
+      "context": "Der Kinofilm Willow erschien 1988; die gleichnamige Fortsetzungsserie begann 2022, also 34 Jahre später. Lucasfilm dokumentiert beide Produktionen und beschreibt bei der ersten Serienfolge den späteren Zustand derselben Welt. Das große Zeitintervall gehört zur Produktionsgeschichte. Es ist von der innerhalb der Geschichte vergangenen Zeit zu unterscheiden und macht aus der Serie keine neue Erstveröffentlichung des ursprünglichen Films.",
+      "anchor": "Film 1988, Serie 2022: 34 Jahre.",
+      "interest": "Trennt den ursprünglichen Film von seiner deutlich späteren Serienfortsetzung.",
+      "sources": [
+        "lucasfilm",
+        "series"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Warwick Davis die Hauptregie?",
+      "answers": [
+        "Ron Howard",
+        "Richard Donner",
+        "Joe Johnston",
+        "Jim Henson"
+      ],
+      "feedback": [
+        "Ron Howard führte die Hauptregie.",
+        "Richard Donner ist nicht der Regisseur dieser Fassung.",
+        "Joe Johnston trägt hier keinen Hauptregiecredit.",
+        "Jim Henson ist nicht der Hauptregisseur von Willow."
+      ],
+      "short": "Ron Howard führte die Hauptregie.",
+      "context": "Lucasfilm nennt Ron Howard als Regisseur, während George Lucas den Stoff entwickelte und die Produktion maßgeblich prägte. Diese Aufgaben sind nicht gleichzusetzen. Im Film wird Willow (Warwick Davis) als unerfahrener Helfer mit einem übermächtigen Gegner konfrontiert. Seine Fortschritte und Fehler tragen das Abenteuer ebenso wie die spektakulären Verwandlungen. Die Regie gestaltet diese Entwicklung innerhalb einer von Lucas erdachten Fantasywelt.",
+      "anchor": "Howard inszeniert die von Lucas entwickelte Fantasywelt.",
+      "interest": "Unterscheidet den belegten Hauptcredit von Stoffschöpfung und Produktion.",
+      "sources": [
+        "lucasfilm",
+        "bfi",
+        "film"
+      ]
+    }
+  ]
+}

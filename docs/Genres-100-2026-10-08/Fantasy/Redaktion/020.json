@@ -1,0 +1,106 @@
+{
+  "rank": 20,
+  "directors": ["Andrew Adamson", "Kelly Asbury", "Conrad Vernon"],
+  "production_countries": ["USA"],
+  "release_note": "Erstveröffentlichung 2004: Cannes-Wettbewerb und Universal-Mitteilung bestätigen das Erscheinungsjahr. Das Cannes-Feld Produktionsjahr 2003 ist davon getrennt. Cache: Cannes 15. Mai und US-Start 19. Mai 2004.",
+  "director_note": "Cannes und Universal nennen Andrew Adamson, Kelly Asbury und Conrad Vernon als vollständiges Regieteam; kein einzelner Regisseur wird stellvertretend als vollständiger Credit verwendet.",
+  "series": {"name": "Shrek", "position": 2, "note": "Zweiter animierter Shrek-Kinofilm. Originalstimmen, keine deutsche Synchronbesetzung."},
+  "familiarity_reason": "Redaktionelle Einschätzung: sehr verbreiteter Familienfilm und prägende Märchensatire, als Film-Ikone eingeordnet.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Shrek_2",
+    "cannes": "https://www.festival-cannes.com/en/f/shrek-2/",
+    "universal": "https://www.prnewswire.com/news-releases/dreamworks-animation-and-universal-pictures-announce-the-20th-anniversary-theatrical-re-release-of-the-oscar-nominated-animated-comedy-adventure-shrek-2-302083820.html"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Einladung bringt Shrek und Fiona (Mike Myers, Cameron Diaz) in @ nach Weit Weit Weg?",
+      "answers": ["Fionas (Cameron Diaz) Eltern wollen ihre Heirat feiern", "Ein Fechtturnier sucht neue Teilnehmer", "Der König bittet um Hilfe gegen einen Drachen", "Eine Hofschule bietet Fiona (Cameron Diaz) eine Lehrstelle"],
+      "feedback": ["Das Königspaar lädt zur Feier der Heirat ein.", "Ein Fechtturnier ist nicht der Anlass der Reise.", "Eine Drachenbedrohung begründet die Einladung nicht.", "Fiona reist nicht wegen einer Lehrstelle an den Hof."],
+      "short": "Die Reise folgt einer Einladung zur Feier ihrer Heirat.",
+      "context": "Shrek (Originalstimme: Mike Myers) und Fiona (Cameron Diaz) kehren von ihrer Hochzeitsreise zurück und finden die Einladung von Fionas Eltern. König Harold (John Cleese) und Königin Lillian (Julie Andrews) wollen die Heirat am Hof feiern. Die Begegnung bringt jedoch Erwartungen zutage, die das Paar nicht erfüllt. Aus einem scheinbar gewöhnlichen Familienbesuch entsteht deshalb ein Konflikt darüber, wie ein königlicher Ehemann aussehen und welche Zukunft Fiona haben soll.",
+      "anchor": "Die Hochzeitsfeier am Hof wird zur Begegnung mit unerfüllten Erwartungen.",
+      "interest": "Die Einladung begründet den neuen Familienkonflikt.",
+      "sources": ["film", "cannes"]
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Auftrag erhält der gestiefelte Kater (Antonio Banderas) zunächst in @?",
+      "answers": ["Shrek (Mike Myers) zu töten", "Fiona (Cameron Diaz) aus dem Schloss zu entführen", "Den Zauberstab der Fee (Jennifer Saunders) zu stehlen", "Den Esel (Eddie Murphy) zum König zu bringen"],
+      "feedback": ["Harold heuert ihn zur Tötung Shreks an.", "Eine Entführung Fionas ist nicht sein erster Auftrag.", "Der Zauberstab ist nicht das Ziel seines Auftrags.", "Er soll den Esel nicht dem König vorführen."],
+      "short": "Der Kater wird zunächst als Shreks bezahlter Gegner angeworben.",
+      "context": "König Harold (Originalstimme: John Cleese) heuert den gestiefelten Kater (Antonio Banderas) an, um Shrek (Mike Myers) loszuwerden. Der Angriff misslingt. Nachdem Shrek ihm das Leben lässt, erklärt der Kater den Hintergrund seines Auftrags und bietet seine Hilfe an. Die Figur beginnt damit nicht als selbstverständliches Mitglied der Reisegruppe. Eine verschonte Niederlage ermöglicht den Wechsel vom angeworbenen Gegner zum Verbündeten und verändert die Zusammensetzung des vertrauten Duos.",
+      "anchor": "Ein gescheiterter Mordauftrag führt zur neuen Freundschaft.",
+      "interest": "Der Beginn der Zusammenarbeit unterscheidet sich vom später vertrauten Trio.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Gestalt nimmt der Esel (Eddie Murphy) in @ nach dem Trank an?",
+      "answers": ["Die eines weißen Hengstes", "Die eines jungen Prinzen", "Die eines geflügelten Pferdes", "Die eines großen Löwen"],
+      "feedback": ["Der Esel wird zu einem weißen Hengst.", "Ein Prinz wird er durch den Trank nicht.", "Das verwandelte Pferd besitzt keine Flügel.", "Eine Löwengestalt erhält er nicht."],
+      "short": "Der Trank verwandelt den Esel in einen weißen Hengst.",
+      "context": "Shrek (Originalstimme: Mike Myers) stiehlt einen Trank aus der Fabrik der guten Fee (Jennifer Saunders). Er und der Esel (Eddie Murphy) trinken davon. Während Shrek als Mensch erwacht, wird sein Begleiter zu einem weißen Hengst. Die gemeinsame Verwandlung lässt beide mit einer neuen Erscheinung weiterreisen. Für den Esel ist die schöne Pferdegestalt zunächst ein Anlass zur Begeisterung; ihre Dauer hängt jedoch mit der zeitlich begrenzten Wirkung des Tranks zusammen.",
+      "anchor": "Derselbe Trank macht aus Shrek einen Menschen und aus dem Esel einen Hengst.",
+      "interest": "Die Veränderung betrifft auch den Begleiter des Helden.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Täuschung soll Prinz Charming (Rupert Everett) in @ bei Fiona (Cameron Diaz) durchsetzen?",
+      "answers": ["Er gibt sich als verwandelter Shrek (Mike Myers) aus", "Er behauptet, Shrek (Mike Myers) sei sein verschollener Bruder", "Er erklärt sich zum Überbringer von Shreks (Mike Myers) Abschiedsbrief", "Er behauptet, Fiona (Cameron Diaz) habe ihm früher die Ehe versprochen"],
+      "feedback": ["Charming soll als menschlich gewordener Shrek gelten.", "Eine angebliche Bruderschaft ist nicht die verwendete Täuschung.", "Ein Abschiedsbrief bildet seine Rolle am Hof nicht.", "Ein früheres Eheversprechen ist nicht sein entscheidender Vorwand."],
+      "short": "Charming tritt als vermeintlich verwandelter Shrek auf.",
+      "context": "Die gute Fee (Originalstimme: Jennifer Saunders) schickt ihren Sohn Prinz Charming (Rupert Everett) zu Fiona (Cameron Diaz), nachdem Shrek (Mike Myers) durch den Trank menschlich geworden ist. Charming soll dessen neue Gestalt verkörpern. Die Verwechslung nutzt aus, dass die Prinzessin den verwandelten Ehemann noch nicht eindeutig erkennen kann. Fiona bleibt jedoch skeptisch. Die äußere Erscheinung allein ersetzt keine vertraute Beziehung, weshalb die Fee ihre Täuschung durch einen weiteren Zauber absichern will.",
+      "anchor": "Charming besetzt die vermeintlich neue Erscheinung eines anderen Mannes.",
+      "interest": "Die Täuschung trennt äußere Gestalt und persönliche Vertrautheit.",
+      "sources": ["film"]
+    },
+    {
+      "code": "S1",
+      "question": "Warum wirkt Fionas (Cameron Diaz) Liebestrank beim Ball in @ nicht wie geplant?",
+      "answers": ["Ihr Vater tauscht ihren Becher gegen seinen", "Der Inhalt wird durch Wasser ersetzt", "Die falsche Lagerung zerstört seine Wirkung", "Sie leert den Becher heimlich in eine Vase"],
+      "feedback": ["Harold hat die Becher vertauscht und verhindert die geplante Wirkung.", "Der Inhalt wird nicht durch Wasser ersetzt.", "Eine falsche Lagerung erklärt das Scheitern nicht.", "Fiona gießt ihren Trank nicht in eine Vase."],
+      "short": "Harold verhindert den Plan, indem er die Becher vertauscht.",
+      "context": "Die gute Fee (Originalstimme: Jennifer Saunders) will Fiona (Cameron Diaz) durch einen Liebestrank an Prinz Charming (Rupert Everett) binden. König Harold (John Cleese) soll den Trank in ihren Tee geben, vertauscht jedoch ihren Becher mit seinem eigenen. Charming erhält deshalb nicht die erhoffte Zuneigung. Harolds Eingriff bedeutet eine Entscheidung gegen den Plan, den er zuvor unterstützt hat. Er schützt damit die freie Wahl seiner Tochter statt den vorgesehenen königlichen Schwiegersohn.",
+      "anchor": "Der vertauschte Teebecher verhindert die erzwungene Zuneigung.",
+      "interest": "Ein unauffälliger Eingriff zeigt den Wandel des Vaters.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche ursprüngliche Gestalt Harolds (John Cleese) wird am Ende von @ sichtbar?",
+      "answers": ["Ein Frosch", "Ein Oger", "Ein Wolf", "Ein Drache"],
+      "feedback": ["Harold kehrt zur Gestalt eines Frosches zurück.", "Er ist kein ursprünglich verwandelter Oger.", "Eine Wolfsgestalt wird nicht enthüllt.", "Harold verwandelt sich nicht zurück in einen Drachen."],
+      "short": "Harold war vor seiner menschlichen Gestalt ein Frosch.",
+      "context": "König Harold (Originalstimme: John Cleese) wirft sich vor den Zauber der guten Fee (Jennifer Saunders) und kehrt anschließend zur Froschgestalt zurück. Seine menschliche Erscheinung beruhte auf einem früheren Trank. Königin Lillian (Julie Andrews) versichert ihm dennoch ihre Liebe. Die Enthüllung stellt seine vorherige Ablehnung von Shrek (Mike Myers) in einen neuen Zusammenhang: Auch der Vater hatte sein eigenes Glück mit einer verwandelten Erscheinung verbunden.",
+      "anchor": "Die Froschgestalt legt Harolds eigenen Wandel offen.",
+      "interest": "Das Urteil des Vaters fällt auf seine verborgene Geschichte zurück.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ erstmals im Kino?",
+      "answers": ["2004", "2001", "2007", "2010"],
+      "feedback": ["2004 ist das Erstjahr des zweiten Films.", "2001 ist das Jahr des ersten Shrek-Films.", "2007 ist drei Jahre zu spät.", "2010 ist sechs Jahre zu spät."],
+      "short": "Shrek 2 erschien erstmals 2004.",
+      "context": "Shrek 2 kam 2004 ins Kino und gehörte in diesem Jahr zum Wettbewerb von Cannes. Universal kündigte für 2024 eine erneute US-Kinoauswertung zum zwanzigjährigen Jubiläum an. Die beiden Jahre liegen genau zwanzig Jahre auseinander. Der konkrete Wiederstart hilft, Erstveröffentlichung und spätere Auswertung zu unterscheiden. Das auf der Cannes-Karte genannte Produktionsjahr 2003 gehört zur Herstellung und ersetzt deshalb nicht das erste Kinojahr 2004.",
+      "anchor": "2004 Erststart, 2024 Jubiläums-Wiederstart: zwanzig Jahre Abstand.",
+      "interest": "Die spätere Kinoauswertung bildet einen ausdrücklich datierten Bezug.",
+      "sources": ["cannes", "universal"]
+    },
+    {
+      "code": "D",
+      "question": "Welches vollständige Regieteam inszenierte @?",
+      "answers": ["Andrew Adamson, Kelly Asbury und Conrad Vernon", "Mike Mitchell, Walt Dohrn und Tim Johnson", "Chris Miller, Raman Hui und Eric Darnell", "Chris Sanders, Dean DeBlois und Kirk DeMicco"],
+      "feedback": ["Adamson, Asbury und Vernon bilden den vollständigen Hauptregiecredit.", "Dieses Team ist nicht der veröffentlichte Regiecredit von Shrek 2.", "Miller, Hui und Darnell sind nicht das hier gefragte Regieteam.", "Sanders, DeBlois und DeMicco inszenierten diesen Film nicht gemeinsam."],
+      "short": "Andrew Adamson, Kelly Asbury und Conrad Vernon führten Regie.",
+      "context": "Andrew Adamson, Kelly Asbury und Conrad Vernon teilen den Hauptregiecredit von Shrek 2. Sowohl die Cannes-Filmkarte als auch die spätere Universal-Mitteilung nennen alle drei. Der Film erweitert die Märchensatire um einen höfischen Familienkonflikt, in dem vertraute Figuren gegen vorgegebene Vorstellungen vom glücklichen Ende handeln. Die gemeinsame Regie ist als vollständiges Team zu erfassen; ein einzelner bekannter Name würde die anderen beiden Hauptcredits unterschlagen.",
+      "anchor": "Adamson, Asbury und Vernon inszenieren gemeinsam den Besuch am Königshof.",
+      "interest": "Die Fortsetzung besitzt einen dreifachen Hauptregiecredit.",
+      "sources": ["cannes", "universal", "film"]
+    }
+  ]
+}

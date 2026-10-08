@@ -1,0 +1,108 @@
+{
+  "rank": 17,
+  "directors": ["Chris Miller"],
+  "production_countries": ["USA"],
+  "release_note": "Erstjahr 2011 durch DreamWorks, MoMA und AFI bestätigt. Der Cache nennt die Gala auf der Allure of the Seas am 16. Oktober; AFI nennt die öffentlichen Starts in Los Angeles und New York am 28. Oktober.",
+  "director_note": "Chris Miller ist alleiniger Hauptregisseur. Guillermo del Toro wirkt als Executive Producer und Originalstimme mit, nicht als zweiter Hauptregisseur.",
+  "series": {"name": "Der gestiefelte Kater", "position": 1, "note": "Erster eigenständiger Kinofilm, als Vorgeschichte zur Shrek-Reihe erzählt; Fortsetzung 2022. Nicht die spätere TV-Serie."},
+  "familiarity_reason": "Redaktionelle Einschätzung: verbreitetes Shrek-Spin-off, für ein breites Publikum bekannt; die Fortsetzung ist getrennt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Puss_in_Boots_(2011_film)",
+    "studio": "https://www.dreamworks.com/movies/puss-in-boots",
+    "afi": "https://catalog.afi.com/Film/68120-PUSS-IN-BOOTS",
+    "moma": "https://www.moma.org/calendar/events/8419",
+    "sequel": "https://www.dreamworks.com/movies/puss-in-boots-the-last-wish"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was wollen die Gefährten in @ mithilfe der magischen Bohnen erreichen?",
+      "answers": ["Ein Schloss über den Wolken", "Eine versunkene Stadt im Meer", "Einen unterirdischen Königspalast", "Eine Festung hinter einem Wasserfall"],
+      "feedback": ["Die Bohnenranke führt zum Schloss über den Wolken.", "Ihr Ziel liegt nicht unter dem Meer.", "Die Bohnen eröffnen keinen Weg in einen unterirdischen Palast.", "Ein Wasserfall verbirgt das gesuchte Schloss nicht."],
+      "short": "Die Bohnen eröffnen den Weg zum Schloss in den Wolken.",
+      "context": "Der gestiefelte Kater (Originalstimme: Antonio Banderas), Kitty Samtpfote (Salma Hayek) und Humpty Dumpty (Zach Galifianakis) suchen magische Bohnen, die eine gewaltige Ranke wachsen lassen. Über sie gelangen sie zu einem Schloss oberhalb der Wolken. Dort hoffen sie auf goldene Eier. Die Reise verbindet den vertrauten Katzenhelden mit Motiven aus einem anderen Märchen und macht aus der Suche nach einem Gegenstand einen gemeinsamen Einbruch in eine fremde Welt.",
+      "anchor": "Bohnenranke und Wolkenschloss gehören zum Weg zu den goldenen Eiern.",
+      "interest": "Die Queste verknüpft mehrere Märchenmotive.",
+      "sources": ["film"]
+    },
+    {
+      "code": "L2",
+      "question": "Wo lernten sich der Kater (Antonio Banderas) und Humpty Dumpty (Zach Galifianakis) in der Vorgeschichte von @ kennen?",
+      "answers": ["Im selben Waisenhaus", "Bei einer fahrenden Theatergruppe", "In der Schule eines Fechtmeisters", "Als Gehilfen eines Händlers"],
+      "feedback": ["Beide wachsen im Waisenhaus von San Ricardo auf.", "Eine Theatergruppe verbindet ihre Kindheit nicht.", "Sie begegnen sich nicht erstmals beim Fechtunterricht.", "Ihre Freundschaft beginnt nicht als gemeinsamer Händlerdienst."],
+      "short": "Die frühere Freundschaft entsteht im Waisenhaus.",
+      "context": "Der gestiefelte Kater (Originalstimme: Antonio Banderas) erzählt Kitty Samtpfote (Salma Hayek) von seiner Kindheit mit Humpty Dumpty (Zach Galifianakis). Die beiden wachsen im Waisenhaus von San Ricardo auf und entwickeln eine enge Freundschaft. Imelda (Constance Marie) kümmert sich dort um den Kater. Diese gemeinsame Vergangenheit erklärt, weshalb eine spätere Zusammenarbeit trotz des gebrochenen Vertrauens überhaupt möglich wird: Der neue Gefährte ist zugleich jemand aus seiner früheren Familie.",
+      "anchor": "Die gemeinsame Kindheit verbindet die später zerstrittenen Gefährten.",
+      "interest": "Die Beziehung reicht über das aktuelle Abenteuer hinaus.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M1",
+      "question": "Wodurch wird der Kater (Antonio Banderas) in @ zum gesuchten Flüchtigen?",
+      "answers": ["Humpty (Zach Galifianakis) lockt ihn in einen Banküberfall", "Kitty (Salma Hayek) belastet ihn mit gestohlenen Juwelen", "Jack (Billy Bob Thornton) lässt ihn wegen Viehdiebstahls verfolgen", "Imelda (Constance Marie) meldet ihn nach einem verbotenen Duell"],
+      "feedback": ["Humpty täuscht ihn über einen geplanten Banküberfall.", "Ein Juwelendiebstahl mit Kitty begründet die frühere Flucht nicht.", "Jack verursacht keinen solchen Viehdiebstahlsvorwurf.", "Imelda zeigt ihn nicht wegen eines Duells an."],
+      "short": "Humptys Täuschung verwickelt ihn in einen Banküberfall.",
+      "context": "Humpty Dumpty (Originalstimme: Zach Galifianakis) täuscht den gestiefelten Kater (Antonio Banderas) darüber, dass ihre gemeinsame Fahrt einem Banküberfall dient. Als der Kater den Plan erkennt, ist er bereits verwickelt und muss fliehen. Humpty bleibt zurück und wird festgenommen. Aus dem ehemaligen Bündnis entstehen dadurch zwei verschiedene Verletzungen: Der Kater verliert seinen guten Ruf, während Humpty sich von seinem Freund im Stich gelassen fühlt.",
+      "anchor": "Ein vorgetäuschter gemeinsamer Plan zerstört Ruf und Freundschaft.",
+      "interest": "Der Konflikt beruht auf unterschiedlich erlebtem Verrat.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M2",
+      "question": "Warum nehmen die Gefährten in @ die junge Goldgans statt der gefundenen Eier mit?",
+      "answers": ["Die Eier sind zu schwer zum Transport", "Die Eier verlieren außerhalb des Schlosses ihren Wert", "Die Eier zerbrechen bei jeder Berührung", "Die Eier gehören bereits einem anderen Dieb"],
+      "feedback": ["Die schwere Beute wird durch die Gans ersetzt, die weitere Eier legen kann.", "Ein Wertverlust außerhalb des Schlosses ist nicht das Problem.", "Die Eier zerbrechen nicht grundsätzlich bei Berührung.", "Ein früherer Dieb begründet den Wechsel der Beute nicht."],
+      "short": "Die Eier sind zu schwer; die Gans liefert neue.",
+      "context": "Im Wolkenschloss entdecken der gestiefelte Kater (Originalstimme: Antonio Banderas), Kitty Samtpfote (Salma Hayek) und Humpty Dumpty (Zach Galifianakis) die erhofften goldenen Eier. Ihr Gewicht macht den Abtransport schwierig. Als die Gefährten erkennen, dass die junge Gans weitere Eier legt, nehmen sie das Tier mit. Die praktische Lösung verändert den Charakter ihres Diebstahls: Mit der lebenden Beute schaffen sie zugleich eine Verbindung zu deren gefährlicher Beschützerin.",
+      "anchor": "Die zu schwere Beute wird durch ihre lebende Quelle ersetzt.",
+      "interest": "Eine Transportentscheidung löst weitere Folgen aus.",
+      "sources": ["film"]
+    },
+    {
+      "code": "S1",
+      "question": "Welche Beziehung erklärt in @, warum die gewaltige Verfolgerin nach San Ricardo kommt?",
+      "answers": ["Sie ist die Mutter der gestohlenen Goldgans", "Sie ist die verwandelte Besitzerin der Bohnen", "Sie ist Humptys (Zach Galifianakis) frühere Gefängniswärterin", "Sie ist die verzauberte Königin des Schlosses"],
+      "feedback": ["Die riesige Gans sucht ihr gestohlenes Junges.", "Die Verfolgerin ist keine verwandelte Bohnenbesitzerin.", "Eine frühere Gefängnisaufsicht erklärt ihr Auftauchen nicht.", "Sie ist nicht die verzauberte Königin des Schlosses."],
+      "short": "Die vermeintliche Schreckensgestalt sucht ihr Junges.",
+      "context": "Im Gefängnis erfährt der gestiefelte Kater (Originalstimme: Antonio Banderas), dass die gefürchtete Riesengans die Mutter der gestohlenen Goldgans ist. Ihr Angriff richtet sich auf die Rückholung ihres Jungen. Humpty Dumpty (Zach Galifianakis) hat diese Bedrohung in seine Rache an San Ricardo einbezogen. Die Enthüllung verbindet den anfänglichen Beutediebstahl mit der drohenden Zerstörung der Stadt und eröffnet zugleich eine Möglichkeit, die Verfolgerin von den Bewohnern wegzulocken.",
+      "anchor": "Die Verfolgerin handelt als Mutter des gestohlenen Jungen.",
+      "interest": "Die Enthüllung verändert das Verständnis der vermeintlichen Bedrohung.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie löst Humpty Dumpty (Zach Galifianakis) in @ das Dilemma an der einstürzenden Brücke?",
+      "answers": ["Er lässt los, damit die junge Gans gerettet werden kann", "Er bietet die Gans gegen freies Geleit an", "Er wirft die Gans ins Wasser und hält sich fest", "Er hält beide Lasten bis zum Eintreffen einer Rettungsmannschaft"],
+      "feedback": ["Humpty lässt sich fallen, damit der Kater die Gans retten kann.", "Er handelt dort keine Freilassung gegen die Gans aus.", "Er rettet sich nicht auf Kosten des Jungen.", "Er wartet nicht mit beiden Lasten auf eine Rettungsmannschaft."],
+      "short": "Humpty opfert sich in der Brückenszene für das Junge.",
+      "context": "An der einstürzenden Brücke hängen Humpty Dumpty (Originalstimme: Zach Galifianakis) und die junge Goldgans an einer Last, die der gestiefelte Kater (Antonio Banderas) nicht gemeinsam retten kann. Humpty lässt los. Die Entscheidung ermöglicht die Wiedervereinigung von Mutter und Jungem und wendet die Gefahr für San Ricardo ab. Sie beantwortet seinen früheren Verrat durch eine selbstlose Handlung; der spätere komische Epilog ist davon als eigener Schlussmoment zu unterscheiden.",
+      "anchor": "Loslassen macht die Rettung des Jungen möglich.",
+      "interest": "Humptys Entscheidung verändert die Bedeutung der früheren Freundschaft.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ als eigenständiger animierter Kinofilm erstmals?",
+      "answers": ["2011", "2008", "2014", "2017"],
+      "feedback": ["2011 ist das Erstjahr des eigenständigen Films.", "2008 liegt drei Jahre davor.", "2014 liegt drei Jahre danach.", "2017 ist sechs Jahre zu spät."],
+      "short": "Der erste eigenständige Kinofilm erschien 2011.",
+      "context": "Der gestiefelte Kater erschien 2011. Seine direkte Kinofortsetzung Der gestiefelte Kater: Der letzte Wunsch folgte 2022, elf Jahre später. DreamWorks benennt den späteren Film ausdrücklich als Nachfolger des ersten Abenteuers. Der Abstand trennt zwei eigenständige Questen derselben Figur: Hier stehen die gemeinsame Vergangenheit und goldene Eier im Mittelpunkt, später die verlorenen Katzenleben. Die dazwischen veröffentlichten Fernsehgeschichten verschieben das Erstjahr des Kinofilms nicht.",
+      "anchor": "2011 erster Solofilm, 2022 Der letzte Wunsch: elf Jahre Abstand.",
+      "interest": "Die direkte Fortsetzung dient als konkreter Zeitanker.",
+      "sources": ["studio", "sequel"]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @, dem ersten eigenständigen animierten Kinofilm, Hauptregie?",
+      "answers": ["Chris Miller", "Mike Mitchell", "Andrew Adamson", "Conrad Vernon"],
+      "feedback": ["Chris Miller trägt den alleinigen Hauptregiecredit.", "Mike Mitchell ist nicht der Hauptregisseur dieses Solofilms.", "Andrew Adamson gehört zur Shrek-Regiegeschichte, nicht zum Hauptcredit hier.", "Conrad Vernon führte bei diesem Solofilm nicht Hauptregie."],
+      "short": "Chris Miller inszenierte das erste eigenständige Kinoabenteuer.",
+      "context": "Chris Miller führt den alleinigen Hauptregiecredit des Films. Die Geschichte stellt eine aus der Shrek-Welt bekannte Nebenfigur ins Zentrum und erzählt eine frühere Freundschaft, deren Folgen bis in das neue Abenteuer reichen. Guillermo del Toro ist als Executive Producer und Originalstimme beteiligt; diese Funktionen machen ihn nicht zum zweiten Hauptregisseur. Die Filmkarte von AFI und die Präsentation des MoMA bestätigen Millers Zuordnung zu dieser konkreten Fassung.",
+      "anchor": "Miller inszeniert die Vorgeschichte des eigenständigen Katzenhelden.",
+      "interest": "Das Regieziel grenzt diesen Film von anderen Shrek-Produktionen ab.",
+      "sources": ["afi", "moma", "film"]
+    }
+  ]
+}

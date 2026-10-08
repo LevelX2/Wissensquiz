@@ -97,6 +97,10 @@ export const packages = [
     path: "/genre100-western-fragen.csv",
     filename: "Genre100_Western_20261008.csv",
   },
+  {
+    path: "/genre100-fantasy-fragen.csv",
+    filename: "Genre100_Fantasy_20261008.csv",
+  },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

@@ -1,0 +1,212 @@
+{
+  "rank": 8,
+  "directors": [
+    "Steven Spielberg"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1991. AFI nennt Los-Angeles-Premiere 8. Dezember und LA/NY-Start 11. Dezember. Spätere britische Auswertung 1992 ist nicht das Erstjahr.",
+  "director_note": "Steven Spielberg trägt den Hauptregiecredit. Nick Castle war an der früheren Entwicklung beteiligt, nicht Hauptregisseur des veröffentlichten Films.",
+  "series": null,
+  "familiarity_reason": "Sehr bekannter Familien-Fantasyfilm mit Robin Williams und Dustin Hoffman; redaktionelle Bekanntheit 1.",
+  "notes": "Vollständiger Plot/Cast und relevante AFI-/Sony-Credits gelesen. Altersfassungen von Peter/Wendy nicht pauschal mit dem erwachsenen Darsteller bezeichnen. Ungeklärte Cameos nicht verwendet; keine Filmsichtung.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Hook_(film)",
+    "afi": "https://catalog.afi.com/Film/67369-HOOK",
+    "sony": "https://www.sonypicturesmuseum.com/collection/film/657/hook.html",
+    "universal": "https://www.universalpictures.com/about/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Beruf übt der erwachsene Peter Banning (Robin Williams) in @ aus?",
+      "answers": [
+        "Unternehmensanwalt",
+        "Kinderarzt",
+        "Schiffskapitän",
+        "Architekt"
+      ],
+      "feedback": [
+        "Peter Banning arbeitet als Unternehmensanwalt.",
+        "Kinderarzt ist nicht sein Beruf.",
+        "Er ist kein beruflicher Schiffskapitän.",
+        "Architekt wird als Tätigkeit nicht genannt."
+      ],
+      "short": "Peter Banning ist Unternehmensanwalt.",
+      "context": "Peter Banning (Robin Williams) ist ein beruflich stark beanspruchter Unternehmensanwalt. Seine Arbeit und ständige Erreichbarkeit belasten das Verhältnis zu seiner Familie. Das Abenteuer setzt deshalb nicht bei einem unbeschwerten Kind an, sondern bei einem Erwachsenen, der den Zugang zu seiner früheren Lebenswelt verloren hat. Der Gegensatz zwischen Geschäftsroutine und wiedergewonnener Vorstellungskraft wird für seine Entwicklung im Verlauf entscheidend.",
+      "anchor": "Der frühere Junge lebt als beschäftigter Anwalt.",
+      "interest": "Erkennt die konkrete erwachsene Ausgangslage der Peter-Pan-Neudeutung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wie ist Peters (Robin Williams) Frau Moira (Caroline Goodall) mit Wendy (Maggie Smith) in @ verwandt?",
+      "answers": [
+        "Sie ist ihre Enkelin.",
+        "Sie ist ihre Tochter.",
+        "Sie ist ihre Großnichte.",
+        "Sie ist ihre Schwiegertochter."
+      ],
+      "feedback": [
+        "Moira ist Wendys Enkelin.",
+        "Wendys Tochter ist sie nicht.",
+        "Eine Großnichte ist nicht die gesuchte Beziehung.",
+        "Moira ist nicht Wendys Schwiegertochter."
+      ],
+      "short": "Moira ist Wendys Enkelin.",
+      "context": "Moira (Caroline Goodall) ist die Enkelin der erwachsenen Wendy (Maggie Smith). Peter Banning (Robin Williams) hat sich für ein Leben mit ihr entschieden und blieb dadurch in der Menschenwelt. Die Verwandtschaft verbindet die frühere Peter-Pan-Geschichte mit seiner heutigen Familie. Beim Besuch in London begegnet er deshalb nicht nur einer freundlichen alten Bekannten, sondern einer Person, die seine verdrängte Vergangenheit und seinen Lebenswechsel kennt.",
+      "anchor": "Wendys Enkelin verbindet beide Lebensphasen.",
+      "interest": "Erfasst die konkrete Familienverbindung der Forterzählung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wer führt die verlorenen Jungen vor Peters (Robin Williams) Rückkehr in @ an?",
+      "answers": [
+        "Rufio (Dante Basco)",
+        "Thud Butt (Raushan Hammond)",
+        "Ace (Jasen Fisher)",
+        "Pockets (Isaiah Robinson)"
+      ],
+      "feedback": [
+        "Rufio ist zunächst der Anführer.",
+        "Thud Butt übernimmt erst später die Führung.",
+        "Ace ist nicht der anfängliche Anführer.",
+        "Pockets führt die Gruppe zu Beginn nicht an."
+      ],
+      "short": "Rufio führt die verlorenen Jungen an.",
+      "context": "Rufio (Dante Basco) leitet die verlorenen Jungen, als der erwachsene Peter (Robin Williams) zu ihnen kommt. Für die Gruppe ist der unbeholfene Besucher zunächst kaum als früherer Held zu erkennen. Der vorhandene Anführer muss sich daher mit einem Anspruch auf Zugehörigkeit auseinandersetzen, der nicht durch die sichtbaren Fähigkeiten gedeckt ist. Anerkennung entsteht erst im Verlauf des gemeinsamen Trainings und der wiederkehrenden Erinnerung.",
+      "anchor": "Rufio regiert die Gruppe vor der Rückkehr des Helden.",
+      "interest": "Erkennt den bestehenden Führungskonflikt im Lager.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Womit gewinnt Hook (Dustin Hoffman) Jack (Charlie Korsmo) in @ für sich?",
+      "answers": [
+        "Mit Aufmerksamkeit und einem veranstalteten Baseballspiel",
+        "Mit einem Fest und der Ernennung zum Piratenkapitän",
+        "Mit einem Wettschießen und eigenen Pistolen",
+        "Mit einem Schatzsuchspiel und einer Karte"
+      ],
+      "feedback": [
+        "Hook gibt Jack Aufmerksamkeit und lässt für ihn Baseball spielen.",
+        "Eine Ernennung zum Piratenkapitän ist nicht der entscheidende Köder.",
+        "Wettschießen und eigene Pistolen ersetzen das Baseballspiel nicht.",
+        "Ein Schatzsuchspiel mit Karte ist nicht das Mittel dieser Annäherung."
+      ],
+      "short": "Hook bietet Jack die vermisste väterliche Aufmerksamkeit.",
+      "context": "Jack (Charlie Korsmo) fühlt sich von seinem Vater Peter (Robin Williams) wiederholt enttäuscht. Hook (Dustin Hoffman) nutzt diese Verletzung, nimmt eine väterliche Rolle an und veranstaltet ein Baseballspiel. Die Zuwendung trifft damit auf einen konkreten Mangel im Familienleben. Peters Aufgabe ist deshalb größer als eine bloße Befreiung aus Gefangenschaft: Er muss auch das Vertrauen seines Sohnes zurückgewinnen.",
+      "anchor": "Hook nutzt Jacks Enttäuschung für seine Zuwendung.",
+      "interest": "Verknüpft die Verführung des Sohnes mit dem anfänglichen Familienkonflikt.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welche Erinnerung gibt Peter (Robin Williams) in @ den glücklichen Gedanken zum erneuten Fliegen?",
+      "answers": [
+        "Die Geburt seines Sohnes",
+        "Ein gemeinsames Kindheitsspiel",
+        "Ein gewonnener Zweikampf",
+        "Die eigene Hochzeit"
+      ],
+      "feedback": [
+        "Die Erinnerung an die Geburt seines Sohnes ermöglicht das Fliegen.",
+        "Ein Kindheitsspiel ist nicht der entscheidende Glücksgedanke.",
+        "Ein gewonnener Zweikampf liefert hier nicht den Glücksgedanken.",
+        "Seine Hochzeit ist nicht die konkrete Erinnerung dieses Moments."
+      ],
+      "short": "Die Geburt seines Sohnes liefert den glücklichen Gedanken.",
+      "context": "Peter (Robin Williams) findet beim Wiedergewinnen seiner Vergangenheit nicht einfach eine beliebige Kindheitserinnerung. Der entscheidende glückliche Gedanke ist die Geburt seines Sohnes. Gerade ein Erlebnis aus seinem erwachsenen Familienleben lässt ihn wieder fliegen. Seine Entwicklung verlangt dadurch keine vollständige Absage an das Erwachsensein. Die lange vernachlässigte Vaterrolle wird vielmehr zur Verbindung zwischen früherer Fähigkeit und gegenwärtiger Verantwortung.",
+      "anchor": "Vaterglück bringt die frühere Flugfähigkeit zurück.",
+      "interest": "Erfasst die Verbindung zwischen Erwachsenenleben und wiedergewonnener Magie.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Was findet Tootles (Arthur Malet) in @ neben seinen Murmeln im zurückgebrachten Beutel?",
+      "answers": [
+        "Feenstaub",
+        "Goldmünzen",
+        "Einen kleinen Kompass",
+        "Eine Muschel"
+      ],
+      "feedback": [
+        "Im Beutel befindet sich auch Feenstaub.",
+        "Goldmünzen sind nicht die entscheidende zusätzliche Gabe.",
+        "Ein Kompass ist nicht der zusätzliche Inhalt.",
+        "Eine Muschel wird nicht als zusätzlicher Inhalt gezeigt."
+      ],
+      "short": "Der Murmelbeutel enthält Feenstaub.",
+      "context": "Tootles (Arthur Malet) hat als alter Mann seine Murmeln verloren. Peter (Robin Williams) bringt den Beutel aus Nimmerland zurück, nachdem Thud Butt (Raushan Hammond) ihn übergeben hat. Darin befindet sich auch Feenstaub, mit dem Tootles wieder fortfliegen kann. Ein früher scheinbar nebensächlicher Verlust wird so zum konkreten Bindeglied zwischen dem Londoner Alltag und der Welt seiner eigenen Kindheit.",
+      "anchor": "Die verlorenen Murmeln kommen mit Feenstaub zurück.",
+      "interest": "Erklärt die späte Auflösung eines früh eingeführten Verlustmotivs.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Robin Williams erstmals veröffentlicht?",
+      "answers": [
+        "1991",
+        "1987",
+        "1993",
+        "1995"
+      ],
+      "feedback": [
+        "Hook erschien erstmals 1991.",
+        "1987 liegt vier Jahre vor der Veröffentlichung.",
+        "1993 gehört zum späteren Jurassic Park.",
+        "1995 ist vier Jahre zu spät."
+      ],
+      "short": "Hook wurde 1991 erstmals veröffentlicht.",
+      "context": "Hook erschien 1991; Steven Spielbergs Jurassic Park folgte 1993, zwei Jahre später. AFI belegt das erste Veröffentlichungsjahr, Universal das spätere Werk in seiner Studiogeschichte. Beide Filme führen Familienpublikum in außergewöhnliche Welten, setzen aber andere Grundsituationen ein. Hier kehrt ein erwachsener Vater in seine verdrängte Märchenvergangenheit zurück. Der Zeitvergleich verortet diese Arbeit unmittelbar vor Spielbergs Dinosaurierabenteuer.",
+      "anchor": "Hook 1991, Jurassic Park 1993: zwei Jahre.",
+      "interest": "Ordnet den Film über ein konkret belegtes späteres Spielberg-Werk ein.",
+      "sources": [
+        "afi",
+        "universal",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Robin Williams die Hauptregie?",
+      "answers": [
+        "Steven Spielberg",
+        "Robert Zemeckis",
+        "Joe Dante",
+        "Barry Levinson"
+      ],
+      "feedback": [
+        "Steven Spielberg führte die Hauptregie.",
+        "Robert Zemeckis ist nicht der Regisseur dieses Films.",
+        "Joe Dante trägt hier keinen Hauptregiecredit.",
+        "Barry Levinson führte bei Hook nicht Regie."
+      ],
+      "short": "Steven Spielberg führte die Hauptregie.",
+      "context": "AFI und Sony führen Steven Spielberg als Regisseur. Die Geschichte stellt Peter Pan als erwachsenen Peter Banning (Robin Williams) vor, der seine Familie und seine frühere Identität miteinander verbinden muss. Nick Castle war an einer früheren Entwicklungsphase beteiligt, ist aber nicht der Hauptregisseur des veröffentlichten Films. Der Credit gehört zu einer Forterzählung, die den bekannten Helden aus der Perspektive verlorener Erinnerung betrachtet.",
+      "anchor": "Spielberg inszeniert den erwachsenen Peter Pan.",
+      "interest": "Sichert den offiziellen Hauptcredit und grenzt frühere Entwicklung davon ab.",
+      "sources": [
+        "afi",
+        "sony",
+        "film"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "rank": 13,
+  "directors": [
+    "Stefen Fangmeier"
+  ],
+  "production_countries": [
+    "USA",
+    "Vereinigtes Königreich"
+  ],
+  "release_note": "BFI und Autorenbiografie belegen die Filmveröffentlichung 2006. Der Cache nennt den Kinostart am 15. Dezember 2006; die Heimveröffentlichung 2007 ist später. Ein gesonderter früherer Premierentag ist im gelesenen Cache nicht dokumentiert.",
+  "director_note": "Stefen Fangmeier ist alleiniger Hauptregisseur. John Davis und Wyck Godfrey sind Produzenten.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannte Fantasy-Romanverfilmung, spezifische Filmhandlung von der Buchreihe getrennt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Eragon_(film)",
+    "bfi": "https://www.bfi.org.uk/film/01989397-3baf-506b-b12d-e8b01f0d1aa2/eragon",
+    "author": "https://www.paolini.net/biographies/christopher-paolini-full/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Aus welchem Lebensumfeld stammt die Hauptfigur in @?",
+      "answers": [
+        "Aus einer armen Bauernfamilie",
+        "Aus dem Haushalt des königlichen Schmieds",
+        "Aus einer wohlhabenden Händlerfamilie",
+        "Aus einer Familie von Hofgelehrten"
+      ],
+      "feedback": [
+        "Eragon wächst als armer Bauernjunge auf.",
+        "Der königliche Schmied bildet nicht seine familiäre Ausgangswelt.",
+        "Seine Familie ist nicht wohlhabend und betreibt keinen Handelshof.",
+        "Er wächst nicht unter Hofgelehrten auf."
+      ],
+      "short": "Eragon ist zu Beginn ein armer Bauernjunge.",
+      "context": "Eragon (Ed Speleers) lebt bei seinem Onkel Garrow (Alun Armstrong) und seinem Cousin Roran (Christopher Egan). Seine Ausgangswelt ist eine arme Bauernfamilie, fern vom königlichen Machtzentrum. Der ungewöhnliche Fund im Wald verändert deshalb nicht nur seine Aufgaben, sondern seine gesamte Stellung. Er begegnet einer verborgenen Geschichte von Drachenreitern, deren Konflikt für den Jungen zunächst außerhalb des vertrauten Alltags liegt.",
+      "anchor": "Ein Bauernjunge wird in die Geschichte der Drachenreiter gezogen.",
+      "interest": "Verankert die soziale Ausgangslage der Hauptfigur.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Wie verständigt sich Saphira (Originalstimme Rachel Weisz) mit ihrem Reiter in @?",
+      "answers": [
+        "Durch Gedankenübertragung",
+        "Durch gesprochene Worte aus ihrem Maul",
+        "Durch Gesten mit Kopf und Flügeln",
+        "Durch Rufe mit erlernten Bedeutungen"
+      ],
+      "feedback": [
+        "Saphira spricht telepathisch mit ihrem Reiter.",
+        "Ihre Verständigung wird nicht als gewöhnliches Sprechen aus dem Maul gezeigt.",
+        "Kopf- und Flügelgesten sind nicht die gezeigte Verständigungsform.",
+        "Eine erlernte Folge von Tierlauten ersetzt nicht die Gedankenverbindung."
+      ],
+      "short": "Saphira und ihr Reiter verständigen sich telepathisch.",
+      "context": "Saphira (Originalstimme Rachel Weisz) wächst aus dem gefundenen Ei zu einem Drachen heran. Ihre Verbindung mit Eragon (Ed Speleers) schließt Gedankenübertragung ein. Dadurch ist sie kein bloßes Reittier: Sie kann sich mitteilen und auf seine Entscheidungen reagieren. Die Stimme ist im Originalfilm hörbar, gehört innerhalb der Handlung aber zur telepathischen Verbindung. Körperliche Nähe und gesprochene Worte aus dem Drachenmaul sind dafür nicht die gezeigte Voraussetzung.",
+      "anchor": "Die Drachenstimme gehört zur Gedankenverbindung.",
+      "interest": "Unterscheidet hörbare Filmstimme und innerweltliche Verständigung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was geschieht mit Eragons (Ed Speleers) Hand beim ersten Berühren des geschlüpften Drachen in @?",
+      "answers": [
+        "Auf der Handfläche erscheint ein magisches Zeichen.",
+        "Seine Fingerspitzen beginnen dauerhaft blau zu leuchten.",
+        "Ein frischer Schnitt zieht sich über seinen Handrücken.",
+        "Die Hand verliert zunächst jede Berührungsempfindung."
+      ],
+      "feedback": [
+        "Die Berührung hinterlässt eine magische Markierung auf der Handfläche.",
+        "Die Fingerspitzen leuchten nicht als Folge dieser Berührung dauerhaft blau.",
+        "Die sichtbare Folge ist eine magische Markierung, kein Schnitt auf dem Handrücken.",
+        "Ein Verlust des Tastsinns ist nicht die gezeigte Folge."
+      ],
+      "short": "Die erste Berührung erzeugt ein magisches Zeichen auf seiner Handfläche.",
+      "context": "Eragon (Ed Speleers) hält seinen Fund zunächst für einen ungewöhnlichen Stein. Als daraus Saphira (Originalstimme Rachel Weisz) schlüpft, berührt er den jungen Drachen. Auf seiner Handfläche erscheint ein magisches Zeichen. Die Bindung besitzt damit von Anfang an eine sichtbare körperliche Spur. Gleichzeitig reagieren andere Figuren auf das Schlüpfen, sodass das private Erlebnis rasch in den größeren Konflikt um die Rückkehr der Drachenreiter eingebunden wird.",
+      "anchor": "Die erste Berührung schreibt die Verbindung auf die Hand.",
+      "interest": "Erfasst den konkreten körperlichen Beginn der Bindung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Gefahr zeigt Eragons (Ed Speleers) erster großer Feuerzauber in @?",
+      "answers": [
+        "Magie verbraucht seine eigene Kraft bis zur Bewusstlosigkeit.",
+        "Das Feuer schlägt zurück und verbrennt seine Hände.",
+        "Der Zauber entzieht seinem Drachen die Kraft zum Fliegen.",
+        "Die Flammen treffen unkontrolliert auch seinen Mentor."
+      ],
+      "feedback": [
+        "Er bricht nach dem übermäßigen Kraftverbrauch zusammen.",
+        "Verbrennungen an den Händen sind nicht die gezeigte unmittelbare Folge.",
+        "Die Szene zeigt seinen eigenen Zusammenbruch, nicht den Verlust der Flugkraft des Drachen.",
+        "Sein Mentor wird in dieser Szene nicht von den Flammen getroffen."
+      ],
+      "short": "Der Zauber überfordert seine Kräfte und lässt ihn bewusstlos werden.",
+      "context": "Eragon (Ed Speleers) versucht einen Feuerzauber nachzuahmen, den er bei Brom (Jeremy Irons) gesehen hat. Gegen die angreifenden Gegner entfaltet er dabei eine große Wirkung, bricht jedoch selbst vor Erschöpfung zusammen. Broms weitere Unterweisung betrifft deshalb die Kontrolle der Magie und ihre Verbindung mit Saphira (Originalstimme Rachel Weisz). Macht lässt sich hier nicht ohne Rücksicht auf die Belastbarkeit des Anwenders einsetzen.",
+      "anchor": "Große Zauberkraft verbraucht die Kraft des Zaubernden.",
+      "interest": "Erfasst eine gezeigte Grenze der Magie.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Warum sperren die Varden Murtagh (Garrett Hedlund) in @ zunächst ein?",
+      "answers": [
+        "Er ist der Sohn des abtrünnigen Morzan.",
+        "Er hat ihren Stützpunkt an königliche Truppen verkauft.",
+        "Er hat ihren König mit einem Zauber verletzt.",
+        "Er hat das Drachenei aus ihrem Lager gestohlen."
+      ],
+      "feedback": [
+        "Die Abstammung von Morzan weckt ihr Misstrauen.",
+        "Ein Verkauf des Stützpunkts wird ihm hier nicht als Ursache zugeschrieben.",
+        "Ein solcher Angriff auf den König begründet die Haft nicht.",
+        "Der Diebstahl des Dracheneis ist nicht sein Vergehen."
+      ],
+      "short": "Die Varden misstrauen ihm wegen seiner Abstammung von Morzan.",
+      "context": "Murtagh (Garrett Hedlund) hilft Eragon (Ed Speleers), den Widerstand der Varden zu erreichen. Dort führt die Enthüllung, dass sein Vater Morzan ein abtrünniger Drachenreiter war, zu seiner Inhaftierung. Die Gemeinschaft bewertet ihn zunächst nach seiner Herkunft. Im folgenden Kampf unterstützt er sie dennoch. Damit stellt seine Handlung die Vermutung infrage, familiäre Abstammung lege automatisch die Loyalität eines Menschen fest.",
+      "anchor": "Murtaghs Herkunft erzeugt Misstrauen, sein Handeln zeigt seine eigene Seite.",
+      "interest": "Verbindet konkrete Haftursache und persönliche Loyalität.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Welche frühere Stellung enthüllt Brom (Jeremy Irons) in @ gegenüber Eragon (Ed Speleers)?",
+      "answers": [
+        "Er war selbst ein Drachenreiter.",
+        "Er war der frühere Herrscher der Varden.",
+        "Er war der leibliche Bruder des herrschenden Königs.",
+        "Er war der Verwalter des königlichen Drachengefängnisses."
+      ],
+      "feedback": [
+        "Brom war früher selbst Drachenreiter.",
+        "Eine frühere Herrschaft über die Varden ist nicht seine Enthüllung.",
+        "Er wird nicht als leiblicher Bruder des Königs enthüllt.",
+        "Die Verwaltung eines Drachengefängnisses ist nicht seine Vorgeschichte."
+      ],
+      "short": "Broms Wissen beruht auch auf seiner eigenen Vergangenheit als Drachenreiter.",
+      "context": "Brom (Jeremy Irons) unterrichtet Eragon (Ed Speleers) in Kampf und Magie. Seine Kenntnisse erhalten eine neue Bedeutung, als er die eigene Vergangenheit als Drachenreiter offenlegt. Sein Drache wurde von Morzan getötet. Der Mentor ist deshalb nicht lediglich ein kundiger Erzähler alter Geschichten, sondern persönlich von dem früheren Verrat betroffen. Seine Unterstützung verbindet Unterricht mit der Erfahrung eines Verlustes, der zur Geschichte des neuen Reiters gehört.",
+      "anchor": "Hinter Broms Lehre steht sein eigenes verlorenes Drachenleben.",
+      "interest": "Erfasst die verborgene Erfahrung des Mentors.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien die Filmveröffentlichung von @ mit Ed Speleers erstmals?",
+      "answers": [
+        "2006",
+        "2003",
+        "2005",
+        "2008"
+      ],
+      "feedback": [
+        "Die Filmveröffentlichung stammt von 2006.",
+        "2003 ist der Jahrgang der Knopf-Ausgabe des Romans.",
+        "2005 liegt ein Jahr vor der Filmveröffentlichung.",
+        "2008 liegt zwei Jahre nach ihr."
+      ],
+      "short": "Die Romanverfilmung erschien 2006.",
+      "context": "Eragon kam 2006 ins Kino. Christopher Paolinis Roman erschien nach seiner selbst verlegten Fassung 2003 bei Knopf; zwischen dieser ausdrücklich gemeinten Verlagsausgabe und dem Film liegen drei Jahre. Die Autorenbiografie dokumentiert beide Stationen. Der Anker meint nicht die früheste selbst veröffentlichte Fassung, sondern den Schritt zum großen Verlag. So bleiben Buchveröffentlichung, weitere Verbreitung und Filmjahr getrennt, obwohl sie denselben Titel tragen.",
+      "anchor": "Knopf-Ausgabe 2003, Film 2006: drei Jahre.",
+      "interest": "Verknüpft den Filmjahrgang mit einer eindeutig bezeichneten Buchausgabe.",
+      "sources": [
+        "bfi",
+        "author"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei der Filmfassung von @ mit Ed Speleers Hauptregie?",
+      "answers": [
+        "Stefen Fangmeier",
+        "Rob Cohen",
+        "Andrew Adamson",
+        "Chris Weitz"
+      ],
+      "feedback": [
+        "Stefen Fangmeier ist Hauptregisseur.",
+        "Rob Cohen inszenierte diese Filmfassung nicht.",
+        "Andrew Adamson trägt hier keinen Hauptregiecredit.",
+        "Chris Weitz führte bei diesem Film nicht Hauptregie."
+      ],
+      "short": "Die Hauptregie stammt von Stefen Fangmeier.",
+      "context": "Stefen Fangmeier trägt den Hauptregiecredit von Eragon. John Davis und Wyck Godfrey werden im BFI-Filmarchiv als Produzenten geführt und haben eine andere Aufgabe. Die Filmfassung steht als eigenes Werk neben der Romanreihe: Für ihr Regieziel zählt der Credit dieser Veröffentlichung. Der Bauernjunge, seine Bindung an einen Drachen und die gefährliche Unterweisung des Mentors werden damit einem konkreten inszenierenden Filmemacher zugeordnet.",
+      "anchor": "Stefen Fangmeier inszeniert die eigenständige Filmfassung.",
+      "interest": "Ordnet den Hauptregiecredit der richtigen Werkfassung zu.",
+      "sources": [
+        "bfi"
+      ]
+    }
+  ],
+  "country_note": "BFI und Cache nennen USA und Vereinigtes Königreich. Ungarn und die Slowakei sind belegte Drehorte; daraus wird kein zusätzliches Produktionsland abgeleitet."
+}

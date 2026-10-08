@@ -1,0 +1,209 @@
+{
+  "rank": 4,
+  "directors": [
+    "Lotte Reiniger"
+  ],
+  "production_countries": [
+    "Deutschland"
+  ],
+  "release_note": "Erste Voraufführung Berlin am 2. Mai 1926; filmportal nennt Paris 1. Juli und deutschen Kinostart 3. September. Der Cache nennt 23. September. Erstjahr eindeutig 1926; keine Tagesfrage.",
+  "director_note": "Lotte Reiniger führt die Hauptregie. Carl Koch ist Kamera/Produktionsleitung; Gestaltungsmitarbeiter sind kein zusätzliches Hauptregieteam.",
+  "series": null,
+  "familiarity_reason": "Bedeutender früher Animationsklassiker, aber außerhalb von Retrospektiven weniger verbreitet; redaktionelle Bekanntheit 3.",
+  "notes": "Stummer Silhouettenfilm. Keine erfundenen Originalstimmen, spätere Erzählung und Musik nicht als ursprüngliches Schauspielensemble behandeln. Vorsichtig ältester erhaltener Animationslangfilm statt erster überhaupt. Vollständiger Plot gelesen, keine Filmsichtung.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Adventures_of_Prince_Achmed",
+    "filmportal": "https://www.filmportal.de/film/die-abenteuer-des-prinzen-achmed_2d3e507b1f7c45c191afea55317fc76b",
+    "bfi": "https://shop.bfi.org.uk/the-adventures-of-prince-achmed-dual-format-edition/",
+    "papageno": "https://www.filmportal.de/film/papageno_9cbae181396b4449940a8c62f0d1442a"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was trägt Achmed zu Beginn von @ unerwartet in die Ferne?",
+      "answers": [
+        "Ein fliegendes Pferd",
+        "Ein fliegender Teppich",
+        "Ein riesiger Vogel",
+        "Ein schwebender Palast"
+      ],
+      "feedback": [
+        "Achmed wird vom fliegenden Pferd fortgetragen.",
+        "Ein Teppich beginnt seine Reise nicht.",
+        "Ein riesiger Vogel ist nicht sein erstes Flugmittel.",
+        "Der schwebende Palast gehört nicht zum Beginn seiner Reise."
+      ],
+      "short": "Ein magisches Pferd trägt Achmed fort.",
+      "context": "Ein Zauberer präsentiert am Hof ein Pferd, das fliegen kann. Achmed widerspricht dessen Forderung und lässt sich anschließend zum Ausprobieren überreden. Weil er die Steuerung noch nicht kennt, trägt ihn das Tier immer höher und weit vom Hof weg. Der Aufbruch ist dadurch kein geplanter Abenteuerzug, sondern entsteht aus einem Konflikt und dem leichtfertigen Umgang mit einem unbekannten Wunderding.",
+      "anchor": "Das unbekannte Wunderpferd beginnt die Reise.",
+      "interest": "Erkennt das zentrale Reisemittel und den unbeabsichtigten Aufbruch.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welchen Gegenstand nimmt Achmed der badenden Pari Banu in @ zunächst weg?",
+      "answers": [
+        "Ihr Federgewand",
+        "Ihren Zauberspiegel",
+        "Ihren Siegelring",
+        "Ihre goldene Krone"
+      ],
+      "feedback": [
+        "Achmed nimmt ihr das magische Federgewand.",
+        "Ein Spiegel ist nicht der weggenommene Gegenstand.",
+        "Ihr Siegelring wird in dieser Begegnung nicht genommen.",
+        "Eine Krone verhindert ihren Abflug nicht."
+      ],
+      "short": "Achmed hält Pari Banus Federgewand zurück.",
+      "context": "Pari Banu kommt mit ihren Begleiterinnen zum Baden an einen See. Als sie Achmed entdecken, fliegen die anderen davon. Ihr selbst fehlt jedoch das Federgewand, das er zurückhält, weshalb sie zunächst nur zu Fuß fliehen kann. Erst als er es ihr zurückgibt, gewinnt er ihr Vertrauen. Das Liebesmotiv beginnt also mit einer problematischen Wegnahme, die später rückgängig gemacht wird.",
+      "anchor": "Ohne Federgewand kann Pari Banu nicht fortfliegen.",
+      "interest": "Erklärt die Funktion des Gegenstands in der ersten Begegnung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Welche Gegenleistung fordert der Zauberer für sein Wunderpferd in @?",
+      "answers": [
+        "Dinarsade als Braut",
+        "Die Hälfte des Königreichs",
+        "Das Amt des Großwesirs",
+        "Den gesamten Schatz des Hofes"
+      ],
+      "feedback": [
+        "Der Zauberer verlangt die Tochter Dinarsade.",
+        "Ein halbes Königreich ist nicht seine Forderung.",
+        "Das Wesirsamt ist nicht der geforderte Preis.",
+        "Er lehnt Geld ab und verlangt Dinarsade."
+      ],
+      "short": "Der geforderte Preis ist Dinarsade.",
+      "context": "Der Hof bewundert das Wunderpferd, doch der Zauberer lässt sich nicht mit Gold bezahlen. Er verlangt Dinarsade, die Tochter des Kalifen und Schwester Achmeds. Damit verwandelt er eine Vorführung in eine Forderung über einen Menschen. Achmeds Einspruch führt unmittelbar zu seinem gefährlichen Probeflug. Die getrennten Abenteuerstränge beginnen so mit einem Handel, dessen Bedingungen die Betroffenen nicht selbst gewählt haben.",
+      "anchor": "Für das Pferd verlangt er die Tochter.",
+      "interest": "Verbindet den geforderten Tausch mit dem Konflikt, der die Handlung aufspaltet.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wohin verkauft der Zauberer Pari Banu in @?",
+      "answers": [
+        "An den Kaiser von China",
+        "An den Sultan von Persien",
+        "An den König von Indien",
+        "An den Fürsten von Damaskus"
+      ],
+      "feedback": [
+        "Pari Banu wird dem Kaiser von China verkauft.",
+        "Der Sultan von Persien ist nicht der Käufer.",
+        "Ein indischer König ist nicht die gesuchte Figur.",
+        "Damaskus ist nicht der Zielhof dieses Handels."
+      ],
+      "short": "Pari Banu wird an den Kaiser von China verkauft.",
+      "context": "Während Achmed mit den Fallen des Zauberers kämpft, bringt dieser Pari Banu nach China und verkauft sie dem Kaiser. Die Entfernung verschärft die Trennung des Paares. Achmed kann sie deshalb nicht allein durch das Verfolgen seines Gegners zurückgewinnen, sondern benötigt die Unterstützung der Hexe vom Flammenberg. Der Film erweitert das Abenteuer vom ersten Inselaufenthalt um eine weitere Herrschafts- und Gefangenschaftssituation.",
+      "anchor": "Die Trennung führt an den chinesischen Kaiserhof.",
+      "interest": "Prüft einen konkreten Orts- und Handlungswechsel.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Welchen Beruf hat Aladdin vor seinen Abenteuern in @?",
+      "answers": [
+        "Schneider",
+        "Schuster",
+        "Goldschmied",
+        "Korbmacher"
+      ],
+      "feedback": [
+        "Aladdin ist hier ein armer Schneider.",
+        "Ein Schuster ist er in dieser Fassung nicht.",
+        "Goldschmied ist nicht sein ursprünglicher Beruf.",
+        "Er wird nicht als Korbmacher vorgestellt."
+      ],
+      "short": "Aladdin beginnt als armer Schneider.",
+      "context": "Aladdin erzählt Achmed von seiner eigenen Vorgeschichte. Er war ein armer Schneider, bevor der Zauberer ihn zur Lampensuche in eine Höhle schickte. Seine Erzählung führt einen weiteren bekannten Märchenstoff in Achmeds Reise ein und verbindet beide Männer über denselben Gegner. Die Figur sollte deshalb anhand dieser konkreten Fassung erinnert werden, statt Beruf und Lebensweise aus späteren populären Adaptionen zu übernehmen.",
+      "anchor": "Dieser Aladdin ist Schneider.",
+      "interest": "Erkennt eine bedeutsame Fassungsbesonderheit innerhalb der verflochtenen Märchenstoffe.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Welche entscheidende Hilfe leistet die Hexe beim Kampf gegen das vielköpfige Ungeheuer in @?",
+      "answers": [
+        "Sie verhindert das Nachwachsen abgeschlagener Köpfe.",
+        "Sie macht sämtliche Köpfe unsichtbar.",
+        "Sie verwandelt die Köpfe in Stein.",
+        "Sie versetzt das Ungeheuer in Schlaf."
+      ],
+      "feedback": [
+        "Die Hexe stoppt das Nachwachsen und ermöglicht den Sieg.",
+        "Unsichtbarkeit der Köpfe wäre nicht die entscheidende Hilfe.",
+        "Die Köpfe werden nicht einfach zu Stein.",
+        "Das Ungeheuer wird nicht durch Schlaf überwunden."
+      ],
+      "short": "Die Hexe unterbindet das Nachwachsen der Köpfe.",
+      "context": "Achmeds Schwerthiebe reichen zunächst nicht aus: Für einen abgeschlagenen Kopf wachsen dem Ungeheuer zwei neue. Mehr vom gleichen Angriff verschlimmert damit die Gefahr. Die Hexe greift ein und verhindert dieses Nachwachsen, sodass Achmed den Gegner besiegen und Pari Banu retten kann. Der Sieg beruht auf der Verbindung körperlichen Kampfes mit einer Hilfe, die die besondere Regel des Gegners verändert.",
+      "anchor": "Erst die Hexe macht den Kopfschlag wirksam.",
+      "interest": "Erfasst die Ursache, weshalb das gemeinsame Handeln im Finale erfolgreich wird.",
+      "sources": [
+        "film"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ erstmals vorgeführt?",
+      "answers": [
+        "1926",
+        "1922",
+        "1930",
+        "1934"
+      ],
+      "feedback": [
+        "Die ersten Vorführungen fanden 1926 statt.",
+        "1922 liegt vier Jahre vor dem Erstjahr.",
+        "1930 ist vier Jahre zu spät.",
+        "1934 liegt acht Jahre nach dem Film."
+      ],
+      "short": "Die ersten Vorführungen waren 1926.",
+      "context": "Die Abenteuer des Prinzen Achmed wurde 1926 erstmals vorgeführt. Lotte Reinigers kurzer Silhouettenfilm Papageno folgte 1935, neun Jahre später. Filmportal belegt beide Werke und ihre Vorführungsdaten. Die spätere Arbeit greift auf Mozarts Zauberflöte zurück, während der Langfilm orientalische Märchen verbindet. Der zeitliche Vergleich zeigt eine fortgesetzte Arbeit mit bewegten Silhouetten an unterschiedlichen bekannten Erzählstoffen.",
+      "anchor": "Achmed 1926, Papageno 1935: neun Jahre.",
+      "interest": "Ordnet den frühen Langfilm zu einer konkret belegten späteren Arbeit Reinigers ein.",
+      "sources": [
+        "filmportal",
+        "papageno"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer trägt den Hauptregiecredit von @?",
+      "answers": [
+        "Lotte Reiniger",
+        "Germaine Dulac",
+        "Mary Ellen Bute",
+        "Claire Parker"
+      ],
+      "feedback": [
+        "Lotte Reiniger ist die Hauptregisseurin.",
+        "Germaine Dulac führte bei diesem Silhouettenfilm nicht Regie.",
+        "Mary Ellen Bute führte bei diesem Werk nicht Regie.",
+        "Claire Parker ist nicht die Hauptregisseurin."
+      ],
+      "short": "Lotte Reiniger führte die Hauptregie.",
+      "context": "Lotte Reiniger gestaltet den Film aus bewegten Silhouetten, deren Gelenke und Formen sorgfältig für die Aufnahme angelegt sind. Filmportal führt sie als Hauptregisseurin, während Carl Koch für Kamera und Produktionsleitung genannt wird. Die Zusammenarbeit mit weiteren Künstlern macht aus dem Regiecredit kein gemeinsames Hauptregieteam. Die Märchenhandlung erhält ihre besondere Körperlichkeit durch das Wechselspiel von Umriss, Bewegung und Hintergrund.",
+      "anchor": "Reiniger führt Regie, Koch verantwortet andere Arbeitsbereiche.",
+      "interest": "Verbindet den offiziellen Credit mit der konkreten Form des stummen Animationsfilms.",
+      "sources": [
+        "filmportal",
+        "bfi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "rank": 3,
+  "directors": [
+    "Ludwig Berger",
+    "Michael Powell",
+    "Tim Whelan"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1940. AFI nennt London am 19. Dezember und allgemeinen US-Start am 25. Dezember; der Cache vertauscht beziehungsweise widerspricht diesen Tagesangaben. Keine genaue Tagesfrage.",
+  "director_note": "Die drei offiziellen Hauptcredits sind Ludwig Berger, Michael Powell und Tim Whelan. Alexander und Zoltan Korda sowie William Cameron Menzies wirkten laut Produktionsgeschichte ebenfalls regieführend mit, werden aber weder als zusätzliche Hauptcredits noch als eindeutig falsche Optionen verwendet. Associate Directors getrennt.",
+  "series": null,
+  "familiarity_reason": "Prägender Technicolor-Fantasyklassiker, besonders bei filmhistorisch interessiertem Publikum präsent; redaktionelle Bekanntheit 3.",
+  "notes": "AFI führt ausdrücklich UK/USA, Criterion und Cache UK allein. Die Länderentscheidung folgt hier AFIs Katalogeintrag; US-Dreharbeiten allein wären kein Koproduktionsbeweis. Handlung und Cast vollständig gelesen, keine Filmsichtung. Fassung 1940 getrennt von den späteren/älteren gleichnamigen Filmen.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1940_film)",
+    "afi": "https://catalog.afi.com/Film/5036-THE-THIEF-OF-BAGDAD",
+    "criterion": "https://www.criterion.com/films/544-the-thief-of-bagdad"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welche Stellung hatte Ahmad (John Justin) vor seiner Gefangenschaft in @?",
+      "answers": [
+        "König von Bagdad",
+        "Kaufmann aus Basra",
+        "Hauptmann der Palastwache",
+        "Gesandter eines Nachbarreichs"
+      ],
+      "feedback": [
+        "Ahmad ist der verdrängte König von Bagdad.",
+        "Er war nicht als Kaufmann aus Basra tätig.",
+        "Die Palastwache war nicht seine frühere Stellung.",
+        "Ein fremder Gesandter ist er nicht."
+      ],
+      "short": "Ahmad ist der entmachtete König von Bagdad.",
+      "context": "Ahmad (John Justin) erscheint zunächst als blinder Bettler, erzählt aber eine andere Vergangenheit. Als König wollte er sein Volk aus der Nähe kennenlernen. Sein Wesir Jaffar (Conrad Veidt) nutzte den verkleideten Ausflug, um ihn verhaften zu lassen und selbst die Macht zu übernehmen. Die Rückblende trennt damit den sichtbaren Zustand des Erzählers von der politischen Stellung, die er verloren hat.",
+      "anchor": "Hinter dem Bettler steckt der entmachtete König.",
+      "interest": "Erschließt die Ausgangslage der Rahmenerzählung.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Gestalt erhält Abu (Sabu) durch Jaffars (Conrad Veidt) Zauber in @?",
+      "answers": [
+        "Die eines Hundes",
+        "Die eines Affen",
+        "Die eines Falken",
+        "Die einer Katze"
+      ],
+      "feedback": [
+        "Jaffar verwandelt Abu in einen Hund.",
+        "Ein Affe ist nicht Abus verwandelte Gestalt.",
+        "Abu wird durch diesen Zauber nicht zum Falken.",
+        "Eine Katze ist nicht die gesuchte Tiergestalt."
+      ],
+      "short": "Abu wird in einen Hund verwandelt.",
+      "context": "Jaffar (Conrad Veidt) trennt die Freunde nicht einfach durch Gefangenschaft: Ahmad (John Justin) wird blind, Abu (Sabu) erhält die Gestalt eines Hundes. Die Folgen der Machtübernahme sind dadurch auch körperlich sichtbar. Wenn der blinde Erzähler mit seinem Hund auftritt, hat diese scheinbar gewöhnliche Begleitung bereits eine verborgene Vorgeschichte. Erst später werden die beiden Zauber wieder aufgehoben.",
+      "anchor": "Der Hund ist der verwandelte Abu.",
+      "interest": "Verbindet ein leicht erkennbares Bild mit seiner tatsächlichen Figurenidentität.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Was bietet Jaffar (Conrad Veidt) dem Sultan (Miles Malleson) in @ für die Heirat mit dessen Tochter?",
+      "answers": [
+        "Ein mechanisches fliegendes Pferd",
+        "Eine Uhr mit sprechenden Figuren",
+        "Ein Schiff mit selbsttätigen Rudern",
+        "Eine goldene mechanische Nachtigall"
+      ],
+      "feedback": [
+        "Das fliegende mechanische Pferd verführt den Sultan zum Handel.",
+        "Eine Figuren-Uhr ist nicht das angebotene Wunderwerk.",
+        "Ein selbsttätiges Schiff ist nicht der Gegenstand dieses Handels.",
+        "Die mechanische Nachtigall gehört nicht zu diesem Angebot."
+      ],
+      "short": "Ein fliegendes Spielzeugpferd wird zum Heiratsangebot.",
+      "context": "Der Sultan (Miles Malleson) begeistert sich für Spielzeuge und technische Wunder. Jaffar (Conrad Veidt) bietet ihm deshalb ein mechanisches Pferd, das fliegen kann, und verlangt im Gegenzug die Hand der Prinzessin (June Duprez). Der Handel zeigt, wie leicht sich der Herrscher durch seine Sammelleidenschaft lenken lässt. Die Tochter wird dabei wie ein weiterer verfügbarer Besitz behandelt, obwohl sie andere Wünsche hat.",
+      "anchor": "Das Wunderpferd kauft die Zustimmung des Sultans.",
+      "interest": "Erkennt die Ausnutzung einer persönlichen Leidenschaft für politische und private Zwecke.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie wird der Sultan (Miles Malleson) durch die Silberne Jungfrau (Mary Morris) in @ getötet?",
+      "answers": [
+        "Ihre Umarmung führt zu einem Stich in seinen Rücken.",
+        "Ihr Gesang versetzt ihn in einen tödlichen Schlaf.",
+        "Ihr Kuss überträgt ein langsam wirkendes Gift.",
+        "Ihre Augen lösen einen tödlichen Zauber aus."
+      ],
+      "feedback": [
+        "Die Automatenfigur sticht bei der Umarmung zu.",
+        "Gesang und Schlaf sind nicht ihr Tötungsmechanismus.",
+        "Ein vergifteter Kuss ist nicht die Falle.",
+        "Ein Blickzauber verursacht seinen Tod nicht."
+      ],
+      "short": "Die scheinbare Umarmung ist eine tödliche Automatenfalle.",
+      "context": "Jaffar (Conrad Veidt) hat die Spielzeugliebe des Sultans (Miles Malleson) bereits für sich genutzt. Die Silberne Jungfrau (Mary Morris) setzt diesen Zusammenhang tödlich fort: Ihre Umarmung verbirgt einen Stich in den Rücken. Der Herrscher verwechselt das technische Wunder mit harmloser Unterhaltung. Was ihn zuvor für einen Handel empfänglich machte, öffnet nun auch den Weg zu seiner Beseitigung.",
+      "anchor": "Die Automatenumarmung verbirgt den Stich.",
+      "interest": "Erklärt die mörderische Wiederkehr des Spielzeugmotivs.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Was ermöglicht der aus dem Tempel geholte magische Edelstein in @?",
+      "answers": [
+        "Er zeigt den Aufenthaltsort entfernter Menschen.",
+        "Er lässt seinen Besitzer unsichtbar werden.",
+        "Er macht fremde Gedanken hörbar.",
+        "Er zwingt Gegner, die Wahrheit zu sagen."
+      ],
+      "feedback": [
+        "Das Auge zeigt entfernte Menschen und ermöglicht ihre Suche.",
+        "Unsichtbarkeit ist nicht seine Funktion.",
+        "Der Edelstein überträgt keine fremden Gedanken als Stimmen.",
+        "Ein Wahrheitszwang wird durch den Edelstein nicht ausgeübt."
+      ],
+      "short": "Das Allsehende Auge ermöglicht den Blick auf Entfernte.",
+      "context": "Abu (Sabu) verliert Ahmad (John Justin) nach dem Schiffbruch aus den Augen. Mithilfe des Dschinns (Rex Ingram) gelangt er an den gefährlich bewachten Edelstein, dessen Bilder die räumliche Trennung überwinden. Der Gegenstand bringt die Freunde wieder zusammen und zeigt später ihre Gegner. Er ermöglicht Wissen über entfernte Ereignisse, ohne dadurch schon die nötige Handlung zu ersetzen.",
+      "anchor": "Das Auge zeigt, was außerhalb der eigenen Reichweite liegt.",
+      "interest": "Unterscheidet Fernsicht von anderen plausiblen Zauberfunktionen.",
+      "sources": [
+        "film",
+        "afi"
+      ]
+    },
+    {
+      "code": "S2",
+      "question": "Wie verbraucht Abu (Sabu) in @ unbeabsichtigt seinen letzten Wunsch?",
+      "answers": [
+        "Er wünscht Ahmad (John Justin) im Zorn nach Bagdad.",
+        "Er wünscht sich im Hunger ein Festmahl.",
+        "Er wünscht die Prinzessin (June Duprez) auf sein Schiff.",
+        "Er wünscht Jaffar (Conrad Veidt) in eine Flasche."
+      ],
+      "feedback": [
+        "Seine zornige Äußerung versetzt Ahmad nach Bagdad.",
+        "Das Festmahl gehört nicht zum unbeabsichtigten letzten Wunsch.",
+        "Die Prinzessin wird dadurch nicht auf ein Schiff versetzt.",
+        "Jaffar wird mit diesem Wunsch nicht eingesperrt."
+      ],
+      "short": "Ein Streit schickt Ahmad unerwartet nach Bagdad.",
+      "context": "Ahmad (John Justin) sieht durch das Allsehende Auge, wie die Prinzessin (June Duprez) verzaubert wird, und gerät mit Abu (Sabu) in Streit. Abus zorniger Wunsch schickt den Freund nach Bagdad, obwohl der Junge dies nicht als wohlüberlegte Nutzung seiner letzten Möglichkeit geplant hat. Magische Macht nimmt die unbedachte Äußerung wörtlich. Aus einem persönlichen Konflikt entsteht dadurch eine neue Gefangenschaft.",
+      "anchor": "Der unbedachte Satz ist schon der letzte Wunsch.",
+      "interest": "Verknüpft Wortlaut, begrenzte Zaubermacht und die neue Gefahr.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Sabu erstmals veröffentlicht?",
+      "answers": [
+        "1940",
+        "1936",
+        "1944",
+        "1948"
+      ],
+      "feedback": [
+        "Die Technicolor-Fassung erschien 1940.",
+        "1936 liegt vier Jahre vor dieser Veröffentlichung.",
+        "1944 ist vier Jahre zu spät.",
+        "1948 liegt acht Jahre nach dem Erstjahr."
+      ],
+      "short": "Die erste Veröffentlichung dieser Fassung war 1940.",
+      "context": "Die frühere Stummfilmfassung Der Dieb von Bagdad erschien 1924; die Technicolor-Neugestaltung folgte 1940, 16 Jahre später. AFI nennt den Vorgänger in seiner Produktionsgeschichte. Der neue Film ist keine bloße Farbkopie: Andere Figurenkonstellationen und spektakuläre Zauberbilder prägen seine eigene Abenteuerhandlung. Die Verbindung der Titel bezeichnet deshalb eine Stoffgeschichte, während die Filmfassungen weiterhin getrennt identifiziert werden müssen.",
+      "anchor": "Stummfilm 1924, Technicolor 1940: 16 Jahre.",
+      "interest": "Ordnet die konkrete Fassung zum älteren gleichnamigen Film ein.",
+      "sources": [
+        "afi",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Welches Team trägt die drei offiziellen Hauptregiecredits von @ mit Sabu?",
+      "answers": [
+        "Ludwig Berger, Michael Powell und Tim Whelan",
+        "Victor Fleming, King Vidor und George Cukor",
+        "Merian C. Cooper, Ernest B. Schoedsack und Irving Pichel",
+        "William Dieterle, Frank Capra und John Ford"
+      ],
+      "feedback": [
+        "Berger, Powell und Whelan tragen die drei Hauptcredits.",
+        "Dieses Team ist nicht für die Hauptregie der Sabu-Fassung genannt.",
+        "Cooper, Schoedsack und Pichel sind nicht ihr Hauptregieteam.",
+        "Dieterle, Capra und Ford tragen diese Credits nicht."
+      ],
+      "short": "Ludwig Berger, Michael Powell und Tim Whelan tragen die Hauptcredits.",
+      "context": "AFI und Criterion nennen Ludwig Berger, Michael Powell und Tim Whelan für die Hauptregie. Die Produktionsgeschichte berichtet darüber hinaus regieführende Beiträge von Alexander und Zoltan Korda sowie William Cameron Menzies. Eine Frage nach dem offiziellen Team muss deshalb präziser sein als eine pauschale Frage nach jeder beteiligten Regiearbeit. Der zusammengesetzte Credit spiegelt die aufwendige Entstehung dieses Technicolor-Abenteuers wider.",
+      "anchor": "Drei Hauptcredits: Berger, Powell, Whelan.",
+      "interest": "Erfasst das vollständige Team und unterscheidet Hauptcredits von weiterer belegter Arbeit.",
+      "sources": [
+        "afi",
+        "criterion"
+      ]
+    }
+  ]
+}

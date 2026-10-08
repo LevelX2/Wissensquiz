@@ -1,0 +1,106 @@
+{
+  "rank": 19,
+  "directors": ["Robert Zemeckis"],
+  "production_countries": ["USA"],
+  "release_note": "Erstjahr 2007; AFI belegt den öffentlichen US-Start am 16. November. Der Cache nennt eine frühere Gala in Westwood am 5. November desselben Jahres. Aufnahmebeginn 2005 ist kein Veröffentlichungsjahr.",
+  "director_note": "Robert Zemeckis ist alleiniger Hauptregisseur; AFI führt Steve Starkey als Second Unit Director. Roger Avary war in früherer Planung für Regie vorgesehen und bleibt Drehbuchautor/Executive Producer.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannte digital animierte Fantasyadaption mit prominenter Besetzung; eindeutig die Fassung von Zemeckis.",
+  "notes": "Die Filmhandlung ist vom altenglischen Gedicht getrennt. AFI behauptet innerhalb der Synopsis eine Verwandlung der Mutter in den Drachen, bezeichnet den Drachen später aber als Beowulfs Sohn. Diese widersprüchliche Verwandlungsbehauptung und die Drachenabstammung werden nicht als Ziele verwendet. Gefragt wird nach übereinstimmend beschriebenen Ereignissen.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Beowulf_(2007_film)",
+    "afi": "https://catalog.afi.com/Film/64158-BEOWULF"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was reizt Grendel (Crispin Glover) in @ zu seinen Angriffen auf Heorot?",
+      "answers": ["Der Lärm der Feiern", "Der Rauch der Herdfeuer", "Die Bewachung der Küste", "Die Jagd im nahen Wald"],
+      "feedback": ["Grendels empfindliches Gehör leidet unter dem Festlärm.", "Herdrauch löst seine Angriffe nicht aus.", "Die Küstenbewachung ist nicht der Auslöser.", "Die Jagd im Wald erklärt seine Angriffe auf die Halle nicht."],
+      "short": "Der Festlärm quält Grendels empfindliches Gehör.",
+      "context": "Grendel (Crispin Glover) wird durch die lauten Feiern in Heorot gequält. Seine überempfindlichen Ohren machen das fröhliche Treiben der Menschen für ihn unerträglich. Hrothgar (Anthony Hopkins) lässt nach den Angriffen die Halle schließen und verbietet weitere Ausgelassenheit. Die Darstellung gibt dem Monster eine konkrete Wahrnehmung, die seine Gewalt auslöst. Später nutzt Beowulf (Ray Winstone) diese körperliche Schwäche im Kampf, statt nur größere Stärke einzusetzen.",
+      "anchor": "Was den Menschen Freude macht, quält Grendels Gehör.",
+      "interest": "Ein Wahrnehmungsunterschied erklärt den Angriff auf die Festhalle.",
+      "sources": ["film", "afi"]
+    },
+    {
+      "code": "L2",
+      "question": "Wie tritt Beowulf (Ray Winstone) in @ zum Kampf gegen Grendel an?",
+      "answers": ["Nackt und ohne Waffen", "In Rüstung mit einer Lanze", "Mit Schild und kurzem Schwert", "Mit Bogen hinter einer Barrikade"],
+      "feedback": ["Er stellt sich Grendel nackt und unbewaffnet.", "Rüstung und Lanze verwendet er für diesen Kampf nicht.", "Er kämpft hier nicht mit Schild und Schwert.", "Er beschießt Grendel nicht aus einer Barrikade."],
+      "short": "Beowulf verzichtet im Kampf gegen Grendel auf Kleidung und Waffen.",
+      "context": "Beowulf (Ray Winstone) legt für den Kampf gegen Grendel (Crispin Glover) Kleidung und Waffen ab. Er will dem ebenfalls unbewaffneten Gegner ohne diesen Vorteil begegnen. Die auffällige Vorbereitung gehört zu seiner öffentlichen Selbstdarstellung als außergewöhnlicher Krieger. Der folgende Kampf bestätigt zunächst seinen Anspruch und steigert seinen Ruhm. Seine späteren Entscheidungen gegenüber anderen Gefahren müssen dagegen gesondert betrachtet werden: Dieser erste Sieg erklärt nicht bereits die gesamte Geschichte seiner Herrschaft.",
+      "anchor": "Beowulf sucht die unbewaffnete Kraftprobe mit Grendel.",
+      "interest": "Die Kampfform zeigt den demonstrativen Anspruch des Helden.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M1",
+      "question": "Welches Geschenk erhält Beowulf (Ray Winstone) in @ nach seinem Sieg über Grendel von Hrothgar (Anthony Hopkins)?",
+      "answers": ["Ein goldenes Trinkhorn", "Ein mit Edelsteinen besetztes Schwert", "Ein königliches Siegel", "Ein vergoldeter Kriegshelm"],
+      "feedback": ["Hrothgar überreicht sein goldenes Trinkhorn.", "Ein Edelsteinschwert ist nicht dieses Siegesgeschenk.", "Ein königliches Siegel wird ihm dafür nicht übergeben.", "Ein vergoldeter Helm ist nicht das zentrale Geschenk."],
+      "short": "Hrothgars goldenes Trinkhorn wird zum Siegesgeschenk.",
+      "context": "Hrothgar (Anthony Hopkins) belohnt Beowulf (Ray Winstone) nach Grendels Niederlage mit einem goldenen Trinkhorn. Der Gegenstand steht zunächst für königliche Anerkennung und einen erfolgreich bestandenen Kampf. Er bleibt jedoch nicht bloß ein dekoratives Zeichen des Ruhms. Auf Beowulfs nächstem Weg spielt er erneut eine Rolle und kehrt später in die Geschichte zurück. Das Geschenk verbindet dadurch verschiedene Abschnitte der Herrschaft und ihre zunächst verborgenen Verpflichtungen.",
+      "anchor": "Das goldene Trinkhorn trägt die Geschichte über den ersten Sieg hinaus.",
+      "interest": "Ein wiederkehrender Gegenstand verbindet Anerkennung und spätere Verpflichtung.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M2",
+      "question": "Was verlangt Grendels Mutter (Angelina Jolie) in @ zusätzlich zum Trinkhorn für ihr Versprechen, Beowulf zum König zu machen?",
+      "answers": ["Er soll ihr einen Sohn zeugen", "Er soll ihr die Königin ausliefern", "Er soll seinen Freund als Geisel zurücklassen", "Er soll die Festhalle niederbrennen"],
+      "feedback": ["Sie verlangt einen Sohn als Teil des Handels.", "Die Auslieferung der Königin ist nicht ihr verlangter Preis.", "Eine Geiselhaft des Freundes gehört nicht zu diesem Handel.", "Die Zerstörung Heorots ist nicht die Bedingung ihres Versprechens."],
+      "short": "Beowulfs Machtversprechen wird an die Zeugung eines Sohnes gebunden.",
+      "context": "Grendels Mutter (Angelina Jolie) begegnet Beowulf (Ray Winstone) in ihrer Höhle und bietet ihm eine Zukunft als König an. Dafür verlangt sie das Trinkhorn und einen Sohn. Der Handel ersetzt den erwarteten offenen Zweikampf durch eine Versuchung, die seinen Ehrgeiz anspricht. Beowulf nimmt an und verschweigt später die tatsächliche Begegnung. Die Filmfassung verbindet den Aufstieg des Helden damit ausdrücklich mit einer geheimen Verpflichtung und einer falschen öffentlichen Erzählung.",
+      "anchor": "Die versprochene Krone hat einen geheimen persönlichen Preis.",
+      "interest": "Die Filmfassung macht Ehrgeiz zum Bestandteil des Heldenkonflikts.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "question": "Wie tötet Beowulf (Ray Winstone) in @ den Drachen im letzten Kampf?",
+      "answers": ["Er reißt ihm das Herz heraus", "Er schlägt ihm den Kopf ab", "Er durchstößt sein Gehirn mit einer Lanze", "Er bricht ihm mit einer Kette das Genick"],
+      "feedback": ["Beowulf greift in den Körper und reißt das Herz heraus.", "Er enthauptet den Drachen nicht.", "Eine Lanze durch das Gehirn beendet den Kampf nicht.", "Die Kette dient im Kampf, tötet das Tier aber nicht durch Genickbruch."],
+      "short": "Der letzte Sieg gelingt durch das Herausreißen des Drachenherzens.",
+      "context": "Der Drache bedroht Wealtheow (Robin Wright) und Ursula (Alison Lohman) am Schloss. Beowulf (Ray Winstone) erreicht im Kampf eine verwundbare Stelle und versucht, zum Herzen vorzudringen. Er muss dabei seinen eigenen Arm opfern und reißt das Herz schließlich mit der Hand heraus. Der Sieg ist deshalb keine folgenlose Bestätigung seiner alten Stärke. Er rettet die bedrohten Menschen durch eine letzte körperliche Anstrengung, die ihn selbst tödlich verletzt zurücklässt.",
+      "anchor": "Das erreichte Herz beendet den Kampf und kostet Beowulf das Leben.",
+      "interest": "Der Schlusskampf verbindet Rettung mit einem unumkehrbaren persönlichen Preis.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie entstand in @ die Grundlage für die Bewegungen der digital animierten Hauptfiguren?",
+      "answers": ["Durch erfasste Schauspielerleistungen mit Körpermarkern", "Durch Einzelbildaufnahmen beweglicher Modellpuppen", "Durch das Abzeichnen gewöhnlicher Filmaufnahmen", "Durch ausschließlich von Hand entworfene Bewegungsschritte"],
+      "feedback": ["Motion Capture erfasste die Leistungen der Schauspieler als Grundlage der Animation.", "Die Hauptfiguren wurden nicht durch Stop-Motion-Puppen gespielt.", "Reines Abzeichnen herkömmlicher Filmaufnahmen ist nicht das beschriebene Verfahren.", "Die Bewegungen beruhen nicht ausschließlich auf frei entworfenen Einzelposen."],
+      "short": "Erfasste Schauspielerleistungen bilden die Grundlage der Figurenanimation.",
+      "context": "Die Darsteller spielten ihre Szenen mit Körpermarkern, deren Bewegungen Kameras erfassten. Diese Leistungen dienten als Grundlage der anschließenden digitalen Figurenanimation. Das Verfahren überträgt eine körperliche Darstellung in eine gestaltbare Bildwelt, ohne den Schauspieler einfach unverändert abzufilmen. Zusätzliche Animationsarbeit bleibt nötig, besonders für die Monster. Die Verbindung erklärt, weshalb Ray Winstones Beowulf zugleich eine gespielte Leistung und eine deutlich gestaltete digitale Erscheinung ist.",
+      "anchor": "Erfasste Darstellerbewegung und digitale Gestaltung wirken zusammen.",
+      "interest": "Die Bildtechnik verbindet Schauspiel mit einer frei gestaltbaren Fantasywelt.",
+      "sources": ["film", "afi"]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ in der digital animierten Fassung mit Ray Winstone erstmals?",
+      "answers": ["2007", "2004", "2010", "2013"],
+      "feedback": ["2007 ist das Erstjahr dieser Fassung.", "2004 ist das frühere Jahr von Der Polarexpress.", "2010 liegt drei Jahre danach.", "2013 liegt sechs Jahre danach."],
+      "short": "Zemeckis’ Fassung erschien erstmals 2007.",
+      "context": "Robert Zemeckis veröffentlichte Der Polarexpress 2004 und Die Legende von Beowulf 2007, drei Jahre später. AFI beschreibt den Einsatz der zuvor verwendeten Motion-Capture-Technik für die spätere Produktion. Der Zeitanker verbindet zwei verschiedene Stoffe über ein konkretes filmisches Verfahren. Der Beginn der Schauspieleraufnahmen 2005 gehört dagegen zur Herstellung von Beowulf. Er bezeichnet weder dessen ersten Kinostart noch eine zusätzliche veröffentlichte Fassung des Films.",
+      "anchor": "2004 Polarexpress, 2007 Beowulf: drei Jahre zwischen den Motion-Capture-Filmen.",
+      "interest": "Ein früheres Werk desselben Regisseurs bildet den Technik- und Zeitbezug.",
+      "sources": ["afi", "film"]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Ray Winstone und Angelina Jolie Hauptregie?",
+      "answers": ["Robert Zemeckis", "Peter Jackson", "Guillermo del Toro", "Henry Selick"],
+      "feedback": ["Robert Zemeckis führt den Hauptregiecredit.", "Peter Jackson ist nicht der Hauptregisseur dieser Beowulf-Fassung.", "Guillermo del Toro inszenierte diese Fassung nicht.", "Henry Selick ist nicht ihr Hauptregisseur."],
+      "short": "Robert Zemeckis ist der Hauptregisseur.",
+      "context": "Robert Zemeckis inszenierte die veröffentlichte Fassung auf Grundlage des Drehbuchs von Neil Gaiman und Roger Avary. Sie erzählt den alten Heldenstoff mit digital gestalteten Figuren und verändert wesentliche Motive des Gedichts. Avary war früher als Regisseur vorgesehen, gehört im fertigen Film jedoch zum Autorenteam. Steve Starkey führte eine zusätzliche Einheit. Diese Tätigkeiten sind von Zemeckis’ alleinigem Hauptregiecredit zu unterscheiden und erklären die verschiedenen Namen in der Produktionsgeschichte.",
+      "anchor": "Zemeckis inszeniert; Gaiman und Avary schreiben die veränderte Heldengeschichte.",
+      "interest": "Der fertige Hauptcredit ist von früherer Planung und zusätzlicher Einheit getrennt.",
+      "sources": ["afi", "film"]
+    }
+  ]
+}

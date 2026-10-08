@@ -1,0 +1,107 @@
+{
+  "rank": 21,
+  "directors": ["Jon Turteltaub"],
+  "production_countries": ["USA"],
+  "release_note": "Erstjahr 2010; Disney belegt den regulären US-Start am 14. Juli. Die im Cache genannte frühere Festivalaufführung am 8. Juli wird nicht als separat primärbelegter Tageswert ausgegeben.",
+  "director_note": "Jon Turteltaub ist alleiniger Hauptregisseur laut Disney; Jerry Bruckheimer produziert, Nicolas Cage spielt und ist an der Entwicklung beteiligt.",
+  "country_note": "USA entsprechend dem gelesenen Artikelcache. Die Disney-Filmseite enthält im gelesenen Haupttext kein gesondertes Länderfeld; New Yorker Drehorte werden nicht als eigenständiger Länderbeleg ausgegeben.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannte Disney-Fantasy mit Nicolas Cage, von Fantasia und dessen Zeichentricksegment getrennt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_(2010_film)",
+    "disney": "https://movies.disney.com/the-sorcerers-apprentice",
+    "fantasia": "https://d23.com/fantasia-at-80-exploring-ponchielli-and-dukas/"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Was studiert Dave Stutler (Jay Baruchel) in @, bevor Balthazar (Nicolas Cage) seine Ausbildung fortsetzt?",
+      "answers": ["Physik", "Medizin", "Archäologie", "Musik"],
+      "feedback": ["Dave ist Physikstudent an der New York University.", "Er studiert nicht Medizin.", "Archäologie ist nicht sein Studienfach.", "Ein Musikstudium begründet seine Laborarbeit nicht."],
+      "short": "Dave studiert Physik, als der alte Begegnungspartner zurückkehrt.",
+      "context": "Dave Stutler (Jay Baruchel) studiert Physik und arbeitet in einem Labor, als Balthazar Blake (Nicolas Cage) nach langer Abwesenheit wieder erscheint. Dave hat die erste Begegnung mit der Zauberwelt als Kind nicht folgenlos überwunden. Sein Studium gibt ihm nun einen eigenen Zugang zu Kräften und Experimenten. Die spätere Ausbildung stellt deshalb nicht einfach Wissenschaft und Magie gegeneinander: Seine vertrauten physikalischen Kenntnisse helfen ihm, das neu Gelernte praktisch einzusetzen.",
+      "anchor": "Der Physikstudent bringt sein Laborwissen in die magische Ausbildung ein.",
+      "interest": "Das Studienfach erklärt spätere Lösungswege des Lehrlings.",
+      "sources": ["film"]
+    },
+    {
+      "code": "L2",
+      "question": "Wozu dient die verschachtelte Puppe namens Grimhold in @?",
+      "answers": ["Als Gefängnis für gefährliche Zauberer", "Als Speicher für Balthazars (Nicolas Cage) Erinnerungen", "Als Wegweiser zu Merlins (James A. Stephens) Grab", "Als Behälter für Daves (Jay Baruchel) Zaubertrank"],
+      "feedback": ["Balthazar hält gefährliche Zauberer in der Puppe gefangen.", "Seine Erinnerungen sind nicht ihr eigentlicher Inhalt.", "Die Puppe weist keinen Weg zu Merlins Grab.", "Ein Zaubertrank Daves wird darin nicht aufbewahrt."],
+      "short": "Die verschachtelte Puppe ist ein magisches Gefängnis.",
+      "context": "Balthazar Blake (Nicolas Cage) sperrt gefährliche Zauberer in eine verschachtelte Puppe, den Grimhold. Das Öffnen ihrer einzelnen Schichten kann Gefangene freisetzen und verändert die Bedrohung Schritt für Schritt. Dave Stutler (Jay Baruchel) erlebt bereits als Kind die Folgen einer unbedachten Öffnung. Die unscheinbare Form des Gegenstands verbirgt somit eine gefährliche Funktion. Seine Sicherung bleibt ein eigener Auftrag neben der Suche nach einem geeigneten Lehrling.",
+      "anchor": "Eine verschachtelte Puppe verbirgt ein gestuftes Zauberergefängnis.",
+      "interest": "Der Gegenstand verbindet mehrere Freisetzungen mit einer fortlaufenden Gefahr.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M1",
+      "question": "Wie zeigt die Drachenfigur in @, dass der junge Dave (Jake Cherry) Merlins (James A. Stephens) gesuchter Erbe ist?",
+      "answers": ["Sie wird an seiner Hand zu einem Ring", "Sie spricht seinen vollständigen Namen aus", "Sie zeichnet Merlins (James A. Stephens) Zeichen auf seine Stirn", "Sie verwandelt seinen Schatten in einen Drachen"],
+      "feedback": ["Die Drachenfigur verwandelt sich bei Dave in einen Ring.", "Sie spricht nicht seinen Namen als Erkennungszeichen aus.", "Ein Stirnzeichen ist nicht die gezeigte Bestätigung.", "Ein verwandelter Schatten identifiziert ihn nicht."],
+      "short": "Die Drachenfigur wird zu Daves Ring.",
+      "context": "Balthazar Blake (Nicolas Cage) sucht mit einer Drachenfigur nach Merlins (James A. Stephens) Erben. Als der junge Dave Stutler (Jake Cherry) in seinen Laden kommt, verwandelt sich die Figur an dessen Hand in einen Ring. Das sichtbare Zeichen beendet die Suche noch nicht als fertigen Erfolg. Der Junge besitzt das Potenzial, muss aber erst lernen, damit umzugehen. Die Erwachsenenfassung Daves (Jay Baruchel) trägt diese unerwartete Verpflichtung in ihren Studienalltag hinein.",
+      "anchor": "Die Verwandlung der Drachenfigur markiert den gefundenen Erben.",
+      "interest": "Das Erkennungszeichen trennt vorhandenes Potenzial von erlernter Beherrschung.",
+      "sources": ["film"]
+    },
+    {
+      "code": "M2",
+      "question": "Welche Hilfe gerät Dave (Jay Baruchel) in @ bei der Vorbereitung seines Treffens mit Becky (Teresa Palmer) außer Kontrolle?",
+      "answers": ["Magisch belebte Putzgeräte", "Ein selbstfahrender Wagen", "Ein sprechender Anzug", "Ein verzauberter Blumenstrauß"],
+      "feedback": ["Die belebten Putzgeräte überschwemmen sein Labor.", "Ein selbstfahrender Wagen verursacht diesen Fehlschlag nicht.", "Ein sprechender Anzug ist nicht seine außer Kontrolle geratene Hilfe.", "Ein Blumenzauber zwingt ihn nicht zur Absage."],
+      "short": "Die verzauberten Putzgeräte verursachen ein Laborchaos.",
+      "context": "Dave Stutler (Jay Baruchel) möchte sein Labor für ein Treffen mit Becky Barnes (Teresa Palmer) in Ordnung bringen. Er belebt Putzgeräte, verliert aber die Kontrolle über sie und muss die Verabredung absagen. Balthazar Blake (Nicolas Cage) greift ein. Die Szene greift das bekannte Motiv des unbeherrschten Haushaltszaubers auf und verlegt es in Daves eigene Umgebung. Sein Wunsch nach einer schnellen Alltagshilfe zeigt, dass Begabung die notwendige Übung nicht ersetzt.",
+      "anchor": "Die magische Abkürzung beim Putzen macht das Labor unbrauchbar.",
+      "interest": "Ein alltägliches Ziel führt zum wiedererkennbaren Zauberlehrlingschaos.",
+      "sources": ["film"]
+    },
+    {
+      "code": "S1",
+      "question": "Wie behandelt Horvath (Alfred Molina) in @ seine Verbündeten, sobald er ihre magischen Fähigkeiten nutzen kann?",
+      "answers": ["Er entzieht ihnen ihre Zauberkraft", "Er verwandelt sie in willenlose Diener", "Er tauscht ihre Kräfte gegeneinander aus", "Er verlagert ihre Magie in den Grimhold"],
+      "feedback": ["Horvath eignet sich die Kräfte seiner Helfer an.", "Er verwandelt sie nicht in willenlose Diener.", "Er vertauscht die Kräfte der Verbündeten nicht bloß.", "Er lagert ihre Fähigkeiten nicht im Grimhold ein."],
+      "short": "Horvath beraubt seine Helfer ihrer magischen Kraft.",
+      "context": "Maxim Horvath (Alfred Molina) nutzt die Unterstützung von Drake Stone (Toby Kebbell) und später Abigail Williams (Nicole Ehinger), verfolgt aber keinen gleichberechtigten gemeinsamen Plan. Er entzieht ihnen ihre magischen Kräfte. Die wiederholte Handlung zeigt, wie er vermeintliche Bündnisse als Mittel zur eigenen Stärkung behandelt. Für Dave Stutler (Jay Baruchel) verschärft sich damit die Gefahr: Der Gegner gewinnt nicht nur Helfer, sondern zieht deren Fähigkeiten schließlich in sich zusammen.",
+      "anchor": "Horvaths Bündnisse enden mit der Aneignung fremder Kräfte.",
+      "interest": "Eine wiederholte Entscheidung erklärt den Umgang des Gegners mit seinen Helfern.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie bringt Dave (Jay Baruchel) Balthazar (Nicolas Cage) am Ende von @ wieder zum Leben?",
+      "answers": ["Er startet dessen Herz mit Plasmaimpulsen neu", "Er überträgt Merlins (James A. Stephens) gespeicherte Lebenskraft auf ihn", "Er bindet seine Seele an einen neuen Körper", "Er tauscht das eigene Leben gegen dessen Rückkehr"],
+      "feedback": ["Dave nutzt Plasmaimpulse, um Balthazars Herz neu zu starten.", "Eine gespeicherte Lebenskraft Merlins ist nicht die gezeigte Rettung.", "Balthazar erhält keinen neuen Körper.", "Dave muss nicht sein eigenes Leben für die Rückkehr eintauschen."],
+      "short": "Plasmaimpulse setzen Balthazars Herz wieder in Gang.",
+      "context": "Balthazar Blake (Nicolas Cage) fängt einen Angriff ab, der Veronica Gorloisen (Monica Bellucci) treffen soll, und bricht tödlich getroffen zusammen. Nach der Niederlage Morganas (Alice Krige) verwendet Dave Stutler (Jay Baruchel) Plasmaimpulse, um sein Herz neu zu starten. Die Rettung verbindet seine physikalische Vorstellungskraft mit der erlernten Magie. Der frühere Lehrling handelt nun selbstständig und kann dem Meister helfen, statt in der entscheidenden Lage auf dessen Eingreifen angewiesen zu bleiben.",
+      "anchor": "Der Lehrling verbindet Physik und Magie, um den Meister zurückzuholen.",
+      "interest": "Die Schlussrettung führt Daves ursprünglichen Zugang praktisch weiter.",
+      "sources": ["film"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Nicolas Cage und Jay Baruchel erstmals?",
+      "answers": ["2010", "2007", "2013", "2016"],
+      "feedback": ["2010 ist das Erstjahr des Realfilms.", "2007 liegt drei Jahre davor.", "2013 liegt drei Jahre danach.", "2016 ist sechs Jahre zu spät."],
+      "short": "Der Realfilm erschien erstmals 2010.",
+      "context": "Fantasia erschien 1940 und enthält den berühmten Zeichentrickabschnitt Der Zauberlehrling. Duell der Magier kam 2010 ins Kino, siebzig Jahre später. Das Motiv der selbstständig putzenden Geräte kehrt in der Laborsequenz wieder. Die Verbindung bezeichnet eine bewusst aufgenommene Idee, nicht dieselbe vollständige Handlung in neuer Besetzung. Disney bestätigt den Kinojahrgang des Realfilms; der Beitrag der Walt Disney Archives bei D23 datiert das frühere Werk eindeutig auf 1940.",
+      "anchor": "1940 Fantasia, 2010 Duell der Magier: siebzig Jahre bis zum Realfilm.",
+      "interest": "Ein konkretes wiederkehrendes Motiv verbindet die beiden Filmjahre.",
+      "sources": ["disney", "fantasia", "film"]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Nicolas Cage und Jay Baruchel Hauptregie?",
+      "answers": ["Jon Turteltaub", "Gore Verbinski", "Joe Johnston", "Rob Marshall"],
+      "feedback": ["Jon Turteltaub ist der Hauptregisseur.", "Gore Verbinski führte bei diesem Magierfilm nicht Regie.", "Joe Johnston inszenierte diese Fassung nicht.", "Rob Marshall ist nicht ihr Hauptregisseur."],
+      "short": "Jon Turteltaub inszenierte den Realfilm.",
+      "context": "Jon Turteltaub führt den von Disney bestätigten Hauptregiecredit. Jerry Bruckheimer produziert; Nicolas Cage spielt den erfahrenen Lehrer und war an der Entwicklung beteiligt. Diese Funktionen sind voneinander zu unterscheiden. Die Regie bringt eine alte Lehrlingsidee in eine Geschichte über ein New Yorker Labor und eine verborgene magische Tradition. Der Film übernimmt deshalb nicht einfach die Abfolge eines kurzen Zeichentrickstücks, sondern verbindet dessen prägendes Motiv mit einem eigenen Figurenkonflikt.",
+      "anchor": "Turteltaub inszeniert die Verbindung von Laboralltag und magischer Ausbildung.",
+      "interest": "Hauptregie, Produktion und Darstellerbeteiligung sind getrennt zugeordnet.",
+      "sources": ["disney", "film"]
+    }
+  ]
+}

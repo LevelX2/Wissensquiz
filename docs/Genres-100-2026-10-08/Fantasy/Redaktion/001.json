@@ -1,0 +1,212 @@
+{
+  "rank": 1,
+  "directors": [
+    "Jean Cocteau"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "release_note": "Erstveröffentlichung 1946, französisches Cocteau-Original mit Josette Day und Jean Marais. Spätere Disney-Fassungen sind eigene Werke.",
+  "director_note": "Criterion führt Jean Cocteau als Hauptregisseur und René Clément als technischen Berater. Cléments belegte praktische Mitwirkung wird nicht als zweiter offizieller Hauptcredit behandelt.",
+  "series": null,
+  "familiarity_reason": "Ein prägender französischer Märchenfilm, im breiten Publikum weniger präsent als die Disney-Adaptionen; redaktionelle Bekanntheit 3.",
+  "notes": "Vollständiger Plot/Cast gelesen; keine Filmsichtung. Belles Tausch für den Vater und Liebe als Fluchlösung sind keine neuen Mindestziele. Marais spielt Biest, Avenant und Prinz Ardent.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1946_film)",
+    "criterion": "https://www.criterion.com/films/177-beauty-and-the-beast",
+    "essay": "https://www.criterion.com/current/posts/1928-beauty-and-the-beast-dark-magic",
+    "orpheus": "https://www.criterion.com/films/610-orpheus"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welches Reisegeschenk wünscht sich Belle (Josette Day) in @?",
+      "answers": [
+        "Eine Rose",
+        "Eine Perlenkette",
+        "Einen Singvogel",
+        "Ein Seidentuch"
+      ],
+      "feedback": [
+        "Belle erbittet nur eine Rose.",
+        "Eine Perlenkette gehört nicht zu Belles Wunsch.",
+        "Belle wünscht sich keinen Singvogel.",
+        "Ein Seidentuch ist nicht das erbetene Geschenk."
+      ],
+      "short": "Belle wünscht sich eine Rose.",
+      "context": "Belle (Josette Day) verlangt im Gegensatz zu ihren Schwestern ein bescheidenes Geschenk. Doch gerade diese kleine Bitte wird folgenreich: Ihr Vater (Marcel André) pflückt im fremden Schlossgarten eine Rose und zieht damit den Zorn des Biests (Jean Marais) auf sich. Der Film macht aus einem scheinbar harmlosen Familienwunsch den Auslöser einer gefährlichen Begegnung.",
+      "anchor": "Die bescheidene Rose hat große Folgen.",
+      "interest": "Verknüpft Belles Charakterisierung mit dem Beginn des Märchenkonflikts.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Bitte richtet das Biest (Jean Marais) beim Abendessen wiederholt an Belle (Josette Day) in @?",
+      "answers": [
+        "Sie möge ihn heiraten.",
+        "Sie möge seinen Schatz bewachen.",
+        "Sie möge seinen Namen erraten.",
+        "Sie möge ihren Vater herholen."
+      ],
+      "feedback": [
+        "Das Biest bittet Belle wiederholt um ihre Hand.",
+        "Die Bewachung des Schatzes ist nicht seine wiederkehrende Bitte.",
+        "Ein Namenrätsel gehört nicht zu diesen Abendessen.",
+        "Die Bitte betrifft ihre Heirat, keinen Besuch des Vaters."
+      ],
+      "short": "Das Biest bittet Belle um Heirat.",
+      "context": "Belle (Josette Day) begegnet dem Biest (Jean Marais) nicht nur als Gefangene einer Drohung. Bei den Mahlzeiten stellt es ihr immer wieder dieselbe Heiratsfrage, die sie zunächst ablehnt. Ihre Antwort wird nicht durch einen Befehl ersetzt. So bekommen die wiederholten Abendessen eine eigene Spannung: Zwischen äußerem Schrecken, höflicher Zuwendung und wachsendem Vertrauen verändert sich ihre Beziehung.",
+      "anchor": "Eine wiederkehrende Frage am Tisch.",
+      "interest": "Erfasst ein zentrales Beziehungsmotiv ohne die allgemeine Fluchlösung erneut abzufragen.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M1",
+      "question": "Wodurch gelangt Belle (Josette Day) in @ unmittelbar vom Schloss ins Elternhaus?",
+      "answers": [
+        "Durch einen magischen Handschuh",
+        "Durch einen goldenen Schlüssel",
+        "Durch einen verzauberten Spiegel",
+        "Durch eine silberne Halskette"
+      ],
+      "feedback": [
+        "Der Handschuh ermöglicht den unmittelbaren Ortswechsel.",
+        "Der Schlüssel gehört zum Pavillon, nicht zum Ortswechsel.",
+        "Der Spiegel zeigt Entferntes; für die Reise nutzt sie den Handschuh.",
+        "Eine silberne Halskette transportiert sie nicht."
+      ],
+      "short": "Ein magischer Handschuh versetzt Belle ins Elternhaus.",
+      "context": "Das Biest (Jean Marais) überlässt Belle (Josette Day) mehrere kostbare Dinge, deren Funktionen verschieden sind. Der Spiegel zeigt ihr den kranken Vater (Marcel André), während der Handschuh die unmittelbare Reise zu ihm ermöglicht. Der Schlüssel öffnet dagegen den Schatzpavillon. Diese Trennung ist wichtig: Sehen, Reisen und Zutritt werden durch unterschiedliche Zaubermittel ermöglicht, die später nicht alle in sicheren Händen bleiben.",
+      "anchor": "Der Handschuh reist, der Spiegel zeigt.",
+      "interest": "Unterscheidet die konkreten Funktionen mehrerer zentraler Märchengegenstände.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "M2",
+      "question": "Wie verzögern Belles (Josette Day) Schwestern in @ ihre vereinbarte Rückkehr zum Biest (Jean Marais)?",
+      "answers": [
+        "Sie täuschen besonders herzliche Zuneigung vor.",
+        "Sie drohen, den Vater allein zu lassen.",
+        "Sie versprechen Belle (Josette Day) einen Anteil am Familienbesitz.",
+        "Sie behaupten, der Vater liege erneut im Sterben."
+      ],
+      "feedback": [
+        "Vorgespielte Zuneigung bewegt Belle zum längeren Bleiben.",
+        "Eine Drohung, den Vater zu verlassen, ist nicht ihr Mittel.",
+        "Ein versprochener Besitzanteil hält Belle nicht zurück.",
+        "Sie täuschen Zuneigung vor, keinen erneuten Sterbezustand des Vaters."
+      ],
+      "short": "Vorgespielte Zuneigung hält Belle länger zu Hause.",
+      "context": "Belle (Josette Day) darf nur für eine Woche zu ihrer Familie zurückkehren. Félicie (Mila Parély) und Adélaïde (Nane Germon) beneiden jedoch ihr neues Leben und spielen ihr größere Herzlichkeit vor, als sie empfinden. Belle lässt sich dadurch zum längeren Bleiben bewegen. Die Verzögerung gefährdet das Biest (Jean Marais), während die scheinbare familiäre Nähe einen eigennützigen Plan verdeckt.",
+      "anchor": "Falsche Herzlichkeit verlängert die Woche.",
+      "interest": "Erklärt die Manipulation hinter einer folgenreichen Verzögerung.",
+      "sources": [
+        "film"
+      ]
+    },
+    {
+      "code": "S1",
+      "question": "Was trifft Avenant (Jean Marais) beim Einbruch in den Schatzpavillon in @?",
+      "answers": [
+        "Ein Pfeil der lebendig gewordenen Diana-Statue",
+        "Ein Hieb einer lebendig gewordenen Ritterrüstung",
+        "Ein Feuerstoß aus einem steinernen Drachen",
+        "Ein Schlag einer verborgenen Falltür"
+      ],
+      "feedback": [
+        "Die Diana-Statue erwacht und schießt auf Avenant.",
+        "Eine Ritterrüstung führt den Angriff nicht aus.",
+        "Ein steinerner Drache ist nicht die Wächterfigur.",
+        "Avenant wird nicht durch einen Falltürschlag getroffen."
+      ],
+      "short": "Die Diana-Statue erschießt Avenant mit einem Pfeil.",
+      "context": "Avenant (Jean Marais) und Ludovic (Michel Auclair) wollen den Schatz des Biests (ebenfalls Jean Marais) an sich bringen. Aus Misstrauen gegenüber dem Schlüssel dringen sie über das Glasdach ein. Doch der Pavillon hat einen eigenen Schutz: Die Statue der Diana wird lebendig und trifft Avenant mit einem Pfeil. Zugleich verschiebt das Finale die monströse Gestalt zwischen den von Marais gespielten Figuren.",
+      "anchor": "Diana bewacht den Pavillon.",
+      "interest": "Erkennt die konkrete Wächterhandlung im mehrdeutigen Verwandlungsfinale.",
+      "sources": [
+        "film",
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "question": "Wie wurden die sich scheinbar selbst entzündenden Kerzen in @ filmisch erzeugt?",
+      "answers": [
+        "Durch rückwärts abgespieltes Ausblasen",
+        "Durch Einzelbildaufnahmen kleiner Flammenmodelle",
+        "Durch optische Mehrfachbelichtung",
+        "Durch elektrisch gezündete Dochte"
+      ],
+      "feedback": [
+        "Rückwärts laufendes Ausblasen lässt die Kerzen aufleuchten.",
+        "Flammenmodelle in Einzelbildaufnahme erklären diesen Trick nicht.",
+        "Die Passage beruht nicht auf einer Flammen-Mehrfachbelichtung.",
+        "Elektrische Zünder sind nicht das belegte Verfahren."
+      ],
+      "short": "Rückwärts laufendes Ausblasen erzeugt das Entzünden.",
+      "context": "Die scheinbar selbst entzündeten Kerzen gehören zur belebten Architektur des Schlosses. Geoffrey O’Brien erläutert im Criterion-Essay das einfache Aufnahmeprinzip: Ausgeblasene Kerzen werden rückwärts gezeigt und scheinen dadurch von selbst aufzuleuchten. René Clément war an dieser Passage beteiligt. Der Zauber entsteht somit aus einer Umkehr gewöhnlicher Bewegung, die im fertigen Bild wie eine selbständige Handlung der Dinge wirkt.",
+      "anchor": "Ausblasen rückwärts wird Entzünden.",
+      "interest": "Zeigt, wie ein konkreter analoger Filmtrick die Märchenwelt belebt.",
+      "sources": [
+        "essay"
+      ]
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr wurde @ mit Josette Day erstmals veröffentlicht?",
+      "answers": [
+        "1946",
+        "1942",
+        "1950",
+        "1954"
+      ],
+      "feedback": [
+        "Cocteaus Film erschien 1946.",
+        "1942 liegt vier Jahre vor dem Film.",
+        "1950 gehört zu Cocteaus Orpheus, nicht zu diesem Film.",
+        "1954 ist acht Jahre zu spät."
+      ],
+      "short": "Die erste Veröffentlichung war 1946.",
+      "context": "Es war einmal erschien 1946; Jean Cocteaus Orpheus folgte 1950, vier Jahre später. Beide Filme verbinden vertraute Erzählstoffe mit einer eigens erfundenen Bildwelt, setzen aber unterschiedliche Schauplätze ein. Hier bestimmen das Schloss und seine belebten Gegenstände das Märchen. Im späteren Film geraten moderne Straßen, Autos und Spiegel in eine Geschichte zwischen Alltag und Jenseits.",
+      "anchor": "Märchen 1946, Orpheus 1950: vier Jahre.",
+      "interest": "Ordnet den Film in Cocteaus konkrete filmische Werkfolge ein.",
+      "sources": [
+        "criterion",
+        "orpheus",
+        "film"
+      ]
+    },
+    {
+      "code": "D",
+      "question": "Wer ist für die Hauptregie von @ mit Josette Day offiziell genannt?",
+      "answers": [
+        "Jean Cocteau",
+        "Marcel Carné",
+        "Jean Renoir",
+        "Jacques Feyder"
+      ],
+      "feedback": [
+        "Jean Cocteau trägt den Hauptregiecredit.",
+        "Marcel Carné führte bei diesem Film nicht Regie.",
+        "Jean Renoir ist nicht der Hauptregisseur dieser Fassung.",
+        "Jacques Feyder ist nicht der gesuchte Regisseur."
+      ],
+      "short": "Jean Cocteau führte die Hauptregie.",
+      "context": "Criterion führt Jean Cocteau als Regisseur dieser französischen Märchenfassung. René Clément ist als technischer Berater genannt und wirkte bei konkreten Aufnahmen praktisch mit. Diese Beiträge sind auseinanderzuhalten, ohne den Berater zum zweiten offiziellen Hauptregisseur zu machen. Die Inszenierung verwandelt das Schloss mit bewegten Händen, Gesichtern und Leuchtern in einen Raum, dessen Gegenstände selbst auf die Besucher reagieren.",
+      "anchor": "Cocteau als Regisseur, Clément als Berater.",
+      "interest": "Ordnet den vollständigen offiziellen Hauptcredit und die belegte technische Mitwirkung ein.",
+      "sources": [
+        "criterion",
+        "essay",
+        "film"
+      ]
+    }
+  ]
+}

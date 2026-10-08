@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-08",
+  "method": "Redaktioneller Kern über Realfilm, Märchen, Schwert-und-Zauberei, europäische Traumwelten und Animation. Keine objektive Top-20-Rangliste. Vorhandene genreübergreifende Filmabdeckung wird erhalten.",
+  "before": 14,
+  "added": 6,
+  "after": 20,
+  "context_sources": [
+    "https://www.bfi.org.uk/lists/10-great-fantasy-films-1940s",
+    "https://www.bfi.org.uk/lists/10-great-animated-fantasy-films",
+    "https://www.bfi.org.uk/lists/10-great-fairy-tale-films",
+    "https://www.lucasfilm.com/productions/willow/",
+    "https://www.criterion.com/films/610-orpheus"
+  ],
+  "films": [
+    {
+      "film": "The Lord of the Rings: The Fellowship of the Ring|2001",
+      "title": "Der Herr der Ringe: Die Gefährten",
+      "reason": "Tolkien-Epos und zusammenhängende Welt als Bezugspunkt der modernen Kinofantasy.",
+      "status": "vorhanden",
+      "question_ids": [
+        "FAN-L-001",
+        "FAN-L-002",
+        "FAN-M-001",
+        "FAN-M-002",
+        "FAN-S-001",
+        "FAN-S-002",
+        "FAN-L-001-V1",
+        "FAN-L-002-V1",
+        "FAN-M-001-V1",
+        "FAN-M-002-V1",
+        "FAN-S-001-V1",
+        "FAN-S-002-V1",
+        "FF-101-YEAR",
+        "FF-101-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Harry Potter and the Prisoner of Azkaban|2004",
+      "title": "Harry Potter und der Gefangene von Askaban",
+      "reason": "Magische Schulwelt, Zeitspiel und eine dunklere Perspektive auf das Erwachsenwerden.",
+      "status": "vorhanden",
+      "question_ids": [
+        "FAN-L-017",
+        "FAN-L-018",
+        "FAN-M-017",
+        "FAN-M-018",
+        "FAN-S-017",
+        "FAN-S-018",
+        "FF-109-YEAR",
+        "FF-109-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Wizard of Oz|1939",
+      "title": "Der Zauberer von Oz",
+      "reason": "Der Weg in eine andere Welt verbindet Farbe, Musik und märchenhafte Prüfung.",
+      "status": "vorhanden",
+      "question_ids": [
+        "FAN-202610-P01-L-013",
+        "FAN-202610-P01-L-014",
+        "FAN-202610-P01-M-019",
+        "FAN-202610-P01-M-020",
+        "FAN-202610-P01-S-019",
+        "FAN-202610-P01-S-020",
+        "FAN-202610-P01-M-021",
+        "FAN-202610-P01-S-021"
+      ]
+    },
+    {
+      "film": "The Princess Bride|1987",
+      "title": "Die Braut des Prinzen",
+      "reason": "Märchenabenteuer und liebevolle Selbstironie funktionieren zugleich.",
+      "status": "vorhanden",
+      "question_ids": [
+        "FAN-L-035",
+        "FAN-L-036",
+        "FAN-M-035",
+        "FAN-M-036",
+        "FAN-S-035",
+        "FAN-S-036",
+        "FF-118-YEAR",
+        "FF-118-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The Dark Crystal|1982",
+      "title": "Der dunkle Kristall",
+      "reason": "Puppenspiel erschafft eine eigenständige fantastische Welt.",
+      "status": "vorhanden",
+      "question_ids": [
+        "FAN-L-037",
+        "FAN-L-038",
+        "FAN-M-037",
+        "FAN-M-038",
+        "FAN-S-037",
+        "FAN-S-038",
+        "FF-119-YEAR",
+        "FF-119-DIRECTOR"
+      ]
+    },
+    {
+      "film": "The NeverEnding Story|1984",
+      "title": "Die unendliche Geschichte",
+      "reason": "Lesen und Imagination werden selbst zum Stoff einer bedrohten Märchenwelt.",
+      "status": "vorhanden",
+      "question_ids": [
+        "FAN-L-039",
+        "FAN-L-040",
+        "FAN-M-039",
+        "FAN-M-040",
+        "FAN-S-039",
+        "FAN-S-040",
+        "FAN-L-039-V1",
+        "FAN-L-040-V1",
+        "FAN-M-039-V1",
+        "FAN-M-040-V1",
+        "FAN-S-039-V1",
+        "FAN-S-040-V1",
+        "FF-120-YEAR",
+        "FF-120-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Labyrinth|1986",
+      "title": "Die Reise ins Labyrinth",
+      "reason": "Puppenfiguren und Labyrinthprüfung prägen die fantastische Reise.",
+      "status": "vorhanden",
+      "question_ids": [
+        "FAN-L-041",
+        "FAN-L-042",
+        "FAN-M-041",
+        "FAN-M-042",
+        "FAN-S-041",
+        "FAN-S-042",
+        "FF-121-YEAR",
+        "FF-121-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Conan the Barbarian|1982",
+      "title": "Conan der Barbar",
+      "reason": "Schwert-und-Zauberei als eigenständige Tradition neben Familienmärchen.",
+      "status": "vorhanden",
+      "question_ids": [
+        "FAN-202610-P01-L-007",
+        "FAN-202610-P01-L-008",
+        "FAN-202610-P01-M-010",
+        "FAN-202610-P01-M-011",
+        "FAN-202610-P01-S-010",
+        "FAN-202610-P01-S-011",
+        "FAN-202610-P01-M-012",
+        "FAN-202610-P01-S-012"
+      ]
+    },
+    {
+      "film": "El laberinto del fauno|2006",
+      "title": "Pans Labyrinth",
+      "reason": "Dunkles Märchen und historische Gewalt verschränken sich.",
+      "status": "vorhanden",
+      "question_ids": [
+        "FAN-L-047",
+        "FAN-L-048",
+        "FAN-M-047",
+        "FAN-M-048",
+        "FAN-S-047",
+        "FAN-S-048",
+        "FF-124-YEAR"
+      ]
+    },
+    {
+      "film": "Edward Scissorhands|1990",
+      "title": "Edward mit den Scherenhänden",
+      "reason": "Eine künstliche Außenseiterfigur bringt das Märchen in die Vorstadt.",
+      "status": "vorhanden",
+      "question_ids": [
+        "FAN-L-049",
+        "FAN-L-050",
+        "FAN-M-049",
+        "FAN-M-050",
+        "FAN-S-049",
+        "FAN-S-050",
+        "FF-125-YEAR",
+        "FF-125-DIRECTOR"
+      ]
+    },
+    {
+      "film": "Snow White and the Seven Dwarfs|1937",
+      "title": "Schneewittchen und die sieben Zwerge",
+      "reason": "Die Märchenanimation im Langfilm prägt die Disney-Tradition.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-067-L1",
+        "F240-20261006-067-L2",
+        "F240-20261006-067-M1",
+        "F240-20261006-067-M2",
+        "F240-20261006-067-S1",
+        "F240-20261006-067-S2",
+        "F240-20261006-067-Y",
+        "F240-20261006-067-D"
+      ]
+    },
+    {
+      "film": "Sen to Chihiro no Kamikakushi|2001",
+      "title": "Chihiros Reise ins Zauberland",
+      "reason": "Die Geisterwelt wird zum Erfahrungsraum einer selbstständiger werdenden Heldin.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-061-L1",
+        "F240-20261006-061-L2",
+        "F240-20261006-061-M1",
+        "F240-20261006-061-M2",
+        "F240-20261006-061-S1",
+        "F240-20261006-061-S2",
+        "F240-20261006-061-Y",
+        "F240-20261006-061-D"
+      ]
+    },
+    {
+      "film": "Tonari no Totoro|1988",
+      "title": "Mein Nachbar Totoro",
+      "reason": "Alltagswelt und freundliche Naturgeister als ursprüngliches filmisches Märchen.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-062-L1",
+        "F240-20261006-062-L2",
+        "F240-20261006-062-M1",
+        "F240-20261006-062-M2",
+        "F240-20261006-062-S1",
+        "F240-20261006-062-S2",
+        "F240-20261006-062-Y",
+        "F240-20261006-062-D"
+      ]
+    },
+    {
+      "film": "Mononoke Hime|1997",
+      "title": "Prinzessin Mononoke",
+      "reason": "Naturgeister, Industrie und moralische Vielstimmigkeit erweitern die epische Fantasy.",
+      "status": "vorhanden",
+      "question_ids": [
+        "F240-20261006-063-L1",
+        "F240-20261006-063-L2",
+        "F240-20261006-063-M1",
+        "F240-20261006-063-M2",
+        "F240-20261006-063-S1",
+        "F240-20261006-063-S2",
+        "F240-20261006-063-Y",
+        "F240-20261006-063-D"
+      ]
+    },
+    {
+      "film": "La Belle et la Bête|1946",
+      "title": "Es war einmal",
+      "reason": "Cocteaus lebendige Räume und Körper verbinden Märchen und Surrealismus.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-FANTASY-001-L1",
+        "G100-20261008-FANTASY-001-L2",
+        "G100-20261008-FANTASY-001-M1",
+        "G100-20261008-FANTASY-001-M2",
+        "G100-20261008-FANTASY-001-S1",
+        "G100-20261008-FANTASY-001-S2",
+        "G100-20261008-FANTASY-001-Y",
+        "G100-20261008-FANTASY-001-D"
+      ]
+    },
+    {
+      "film": "Orphée|1950",
+      "title": "Orpheus",
+      "reason": "Der antike Mythos wird zur modernen Reise durch spiegelnde Grenzen zwischen Leben und Tod.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-FANTASY-002-L1",
+        "G100-20261008-FANTASY-002-L2",
+        "G100-20261008-FANTASY-002-M1",
+        "G100-20261008-FANTASY-002-M2",
+        "G100-20261008-FANTASY-002-S1",
+        "G100-20261008-FANTASY-002-S2",
+        "G100-20261008-FANTASY-002-Y",
+        "G100-20261008-FANTASY-002-D"
+      ]
+    },
+    {
+      "film": "The Thief of Bagdad|1940",
+      "title": "Der Dieb von Bagdad",
+      "reason": "Technicolor-Magie, fliegender Teppich und Trickeffekte als einflussreiche Kinofantasy.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-FANTASY-003-L1",
+        "G100-20261008-FANTASY-003-L2",
+        "G100-20261008-FANTASY-003-M1",
+        "G100-20261008-FANTASY-003-M2",
+        "G100-20261008-FANTASY-003-S1",
+        "G100-20261008-FANTASY-003-S2",
+        "G100-20261008-FANTASY-003-Y",
+        "G100-20261008-FANTASY-003-D"
+      ]
+    },
+    {
+      "film": "Die Abenteuer des Prinzen Achmed|1926",
+      "title": "Die Abenteuer des Prinzen Achmed",
+      "reason": "Silhouettenanimation übersetzt Tausendundeine Nacht in einen frühen abendfüllenden Fantasiefilm.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-FANTASY-004-L1",
+        "G100-20261008-FANTASY-004-L2",
+        "G100-20261008-FANTASY-004-M1",
+        "G100-20261008-FANTASY-004-M2",
+        "G100-20261008-FANTASY-004-S1",
+        "G100-20261008-FANTASY-004-S2",
+        "G100-20261008-FANTASY-004-Y",
+        "G100-20261008-FANTASY-004-D"
+      ]
+    },
+    {
+      "film": "Willow|1988",
+      "title": "Willow",
+      "reason": "Eine klassische Queste verbindet Zauberei, eine schutzbedürftige Heldin und einen ungewöhnlichen Reisehelden.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-FANTASY-005-L1",
+        "G100-20261008-FANTASY-005-L2",
+        "G100-20261008-FANTASY-005-M1",
+        "G100-20261008-FANTASY-005-M2",
+        "G100-20261008-FANTASY-005-S1",
+        "G100-20261008-FANTASY-005-S2",
+        "G100-20261008-FANTASY-005-Y",
+        "G100-20261008-FANTASY-005-D"
+      ]
+    },
+    {
+      "film": "Shrek|2001",
+      "title": "Shrek – Der tollkühne Held",
+      "reason": "Die populäre Märchensatire macht die Regeln vertrauter Fantasiewelten zum eigenen Stoff.",
+      "status": "ergänzt",
+      "question_ids": [
+        "G100-20261008-FANTASY-006-L1",
+        "G100-20261008-FANTASY-006-L2",
+        "G100-20261008-FANTASY-006-M1",
+        "G100-20261008-FANTASY-006-M2",
+        "G100-20261008-FANTASY-006-S1",
+        "G100-20261008-FANTASY-006-S2",
+        "G100-20261008-FANTASY-006-Y",
+        "G100-20261008-FANTASY-006-D"
+      ]
+    }
+  ]
+}

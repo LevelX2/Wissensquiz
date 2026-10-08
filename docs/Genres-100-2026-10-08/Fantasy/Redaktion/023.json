@@ -1,0 +1,107 @@
+{
+  "rank": 23,
+  "directors": ["Richard Fleischer"],
+  "production_countries": ["USA"],
+  "country_note": "Der AFI-Katalog führt USA. Er nennt eine mögliche Beteiligung italienischer Geldgeber, bezeichnet eine italienische Koproduktion mangels Screencredit aber ausdrücklich als unklar. Italienische Drehorte werden deshalb nicht als Länderbeleg verwendet.",
+  "release_note": "Erstveröffentlichung 1985; AFI dokumentiert New York und Los Angeles am 3. Juli 1985. Der Dreh 1984 ist kein Veröffentlichungsjahr. Gemeint ist die Fassung mit Brigitte Nielsen, nicht die spätere Neuverfilmung.",
+  "director_note": "Richard Fleischer trägt den veröffentlichten Hauptregiecredit. Ralph Bakshi war in der frühen Projektplanung vorgesehen. Vic Armstrongs Action-Unit-Arbeit begründet keinen zusätzlichen Hauptregiecredit.",
+  "series": null,
+  "familiarity_reason": "Redaktionelle Einschätzung: durch Brigitte Nielsen und Arnold Schwarzenegger bekannter Sword-and-Sorcery-Film, dessen einzelne Handlungsschritte weniger verbreitet sind.",
+  "notes": "Kalidor ist keine Umbenennung der Filmfigur Conan. Die Fragen beziehen sich auf die Originalhandlung; der abweichende italienische Rollenname Yado wird nicht vorausgesetzt. Die widersprüchliche Beschreibung von Ikols Todesmechanismus wird nicht abgefragt.",
+  "sources": {
+    "film": "https://en.wikipedia.org/wiki/Red_Sonja_(1985_film)",
+    "afi": "https://catalog.afi.com/Film/58331-RED-SONJA",
+    "conan": "https://catalog.afi.com/Film/57064-CONAN-THE-DESTROYER"
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "question": "Welchen Auftrag gibt die sterbende Varna (Janet Agren) ihrer Schwester in @?",
+      "answers": ["Den gefährlichen Talisman unschädlich machen", "Den verschleppten Prinzen aus einem Bergwerk befreien", "Ein verlorenes Schwert zum Tempel zurückbringen", "Die Königin vor einem geplanten Anschlag warnen"],
+      "feedback": ["Varna warnt vor dem Talisman und verlangt seine Beseitigung.", "Eine Bergwerksbefreiung ist nicht ihr letzter Auftrag.", "Sie verlangt nicht die Rückgabe eines verlorenen Schwertes.", "Sonja soll die Königin nicht vor einem Anschlag schützen."],
+      "short": "Varna fordert Sonja auf, die Macht des Talismans zu beenden.",
+      "context": "Varna (Janet Agren) entkommt dem Überfall auf den Tempel, wird dabei aber tödlich verwundet. Kalidor (Arnold Schwarzenegger) bringt Sonja (Brigitte Nielsen) zu ihrer Schwester. Vor ihrem Tod warnt Varna vor der wachsenden Macht des geraubten Talismans und verlangt, ihn in die Dunkelheit zu bringen. Der Auftrag verbindet Sonjas persönliche Rache mit einer größeren Gefahr: Das Artefakt bedroht inzwischen auch Menschen außerhalb des angegriffenen Tempels.",
+      "anchor": "Der letzte Auftrag der Schwester macht die Beseitigung des Talismans zum Reiseziel.",
+      "interest": "Die persönliche Rache erhält eine Aufgabe zum Schutz anderer.",
+      "sources": ["film", "afi"]
+    },
+    {
+      "code": "L2",
+      "question": "Welche Aufgabe hat Falkon (Paul Smith) gegenüber Prinz Tarn (Ernie Reyes Jr.) in @?",
+      "answers": ["Er dient ihm und beschützt ihn", "Er hält ihn als politischen Gefangenen fest", "Er bildet ihn zum Tempelpriester aus", "Er soll ihn einer feindlichen Königin ausliefern"],
+      "feedback": ["Falkon ist Tarns loyaler Diener und Beschützer.", "Er bewacht Tarn nicht als politischen Gefangenen.", "Eine Ausbildung zum Tempelpriester gehört nicht zu seiner Aufgabe.", "Falkon soll Tarn nicht an die Königin ausliefern."],
+      "short": "Falkon begleitet den jungen Prinzen als Diener und Leibwächter.",
+      "context": "Prinz Tarn (Ernie Reyes Jr.) hat sein verwüstetes Reich verlassen und reist mit Falkon (Paul Smith). Der große Begleiter übernimmt sowohl praktische Dienste als auch den Schutz des unerfahrenen Jungen. Tarn tritt zunächst anspruchsvoll auf und will Sonja (Brigitte Nielsen) sogar als Köchin anwerben. Falkons Loyalität hält das ungleiche Paar zusammen. Auf der weiteren Reise lernt der Prinz, dass Rang allein weder gute Umgangsformen noch Kampferfahrung ersetzt.",
+      "anchor": "Der junge Prinz besitzt einen loyalen Beschützer, aber noch wenig eigene Erfahrung.",
+      "interest": "Das ungleiche Paar ergänzt die zentrale Reise um eine eigene Beziehung.",
+      "sources": ["film", "afi"]
+    },
+    {
+      "code": "M1",
+      "question": "Wer darf den Talisman in @ berühren, ohne dadurch zu verschwinden?",
+      "answers": ["Nur Frauen", "Nur Männer", "Nur gekrönte Herrscher", "Nur geweihte Priester"],
+      "feedback": ["Frauen können das Artefakt berühren; Männer verschwinden bei der Berührung.", "Die Berührung durch Männer ist gerade tödlich gefährlich.", "Eine Krönung ist nicht die entscheidende Voraussetzung.", "Eine priesterliche Weihe allein gewährt keinen Zugang."],
+      "short": "Der Talisman kann nur von Frauen berührt werden.",
+      "context": "Der Talisman im Tempel ist an eine besondere körperliche Regel gebunden: Frauen können ihn berühren, während Männer dabei verschwinden. Diese Eigenschaft erklärt die Bewachung durch Priesterinnen und ermöglicht Königin Gedren (Sandahl Bergman), ihn selbst einzusetzen. Sonja (Brigitte Nielsen) kann das Artefakt ebenfalls aufnehmen. Die Regel betrifft den unmittelbaren Kontakt mit dem Gegenstand; politische Macht oder ein religiöser Titel ersetzen diese Voraussetzung in der Filmhandlung nicht.",
+      "anchor": "Der Zugang zum Artefakt hängt vom Geschlecht und nicht vom Herrschertitel ab.",
+      "interest": "Eine konkrete magische Regel beeinflusst, wer die Gefahr beseitigen kann.",
+      "sources": ["film", "afi"]
+    },
+    {
+      "code": "M2",
+      "question": "Wie überwinden Sonja (Brigitte Nielsen) und Kalidor (Arnold Schwarzenegger) das mechanische Wasserwesen in @?",
+      "answers": ["Sie zerstören seine Augen", "Sie blockieren seinen Antrieb mit einer Kette", "Sie lassen das Wasser aus seiner Höhle ab", "Sie klemmen sein Maul mit einem Felsblock auf"],
+      "feedback": ["Das geblendete Wesen kann sie nicht weiter gezielt angreifen.", "Eine Kette im Antrieb ermöglicht die Flucht nicht.", "Sie legen die Höhle nicht durch Ablassen des Wassers trocken.", "Ein eingeklemmter Felsblock entscheidet den Kampf nicht."],
+      "short": "Die beiden blenden die mechanische Kreatur und entkommen.",
+      "context": "Ein erzwungener Unterschlupf führt die Reisegruppe in eine wassergefüllte Höhle. Dort greift ein drachenähnliches mechanisches Wesen an, das Königin Gedren (Sandahl Bergman) gegen die Eindringlinge einsetzen lässt. Kalidor (Arnold Schwarzenegger) erscheint und hilft Sonja (Brigitte Nielsen), seine Augen zu zerstören. Die Rettung verlangt dadurch einen gezielten gemeinsamen Angriff auf eine Schwachstelle. Der Kampf verändert auch die praktische Bedeutung des Begleiters, dessen Hilfe Sonja zuvor abgelehnt hatte.",
+      "anchor": "Eine gezielt angegriffene Schwachstelle macht den gemeinsamen Ausweg möglich.",
+      "interest": "Die Episode zeigt Zusammenarbeit durch eine konkrete Kampfentscheidung.",
+      "sources": ["film", "afi"]
+    },
+    {
+      "code": "S1",
+      "question": "Welche Verbindung zum Talisman erklärt Kalidors (Arnold Schwarzenegger) besondere Verantwortung in @?",
+      "answers": ["Seine Vorfahren vertrauten ihn dem Tempel an", "Er fertigte ihn für die Königin an", "Er gewann ihn bei einem früheren Feldzug", "Seine Familie wurde durch ihn unsterblich"],
+      "feedback": ["Kalidor stammt von den Herren ab, die ihn dem Tempel übergaben.", "Er ist nicht der Hersteller des Talismans.", "Ein eigener früherer Raubzug begründet seine Verantwortung nicht.", "Eine Unsterblichkeit seiner Familie ist nicht diese Verbindung."],
+      "short": "Kalidors Herkunft verbindet ihn mit den früheren Hütern des Talismans.",
+      "context": "Kalidor (Arnold Schwarzenegger) ist nicht bloß ein zufällig hilfreicher Kämpfer. Seine Vorfahren gehören zu den Herren, die den Talisman dem Tempel anvertrauten. Als Sonja (Brigitte Nielsen) diese Verbindung erfährt, akzeptiert sie seine Begleitung. Seine Aufgabe erhält damit einen eigenen Grund neben dem Interesse an ihr. Die Herkunft ist außerdem ein Bestandteil dieser Filmfigur; ähnliche Kostüme und derselbe Darsteller machen Kalidor nicht zur Figur Conan aus anderen Filmen.",
+      "anchor": "Die Herkunft begründet Kalidors eigene Verpflichtung gegenüber dem Artefakt.",
+      "interest": "Die Information verändert Sonjas Einschätzung ihres Begleiters.",
+      "sources": ["film"]
+    },
+    {
+      "code": "S2",
+      "question": "Wie beseitigt Sonja (Brigitte Nielsen) am Ende von @ den Talisman?",
+      "answers": ["Sie wirft ihn in den Lavaabgrund", "Sie versenkt ihn im Meer vor dem Tempel", "Sie zerbricht ihn mit dem Schwert", "Sie schließt ihn in einer dunklen Grabkammer ein"],
+      "feedback": ["Nach dem letzten Kampf wirft sie ihn in die Lava.", "Eine Versenkung im Meer beendet seine Macht nicht im Film.", "Sonja zerschlägt das Artefakt nicht mit ihrem Schwert.", "Eine neue Grabkammer ist nicht die gewählte Schlusslösung."],
+      "short": "Sonja vernichtet den Talisman im Lavaabgrund.",
+      "context": "Im letzten Kampf gegen Königin Gedren (Sandahl Bergman) bricht der Boden unter der Macht des Talismans auf und legt einen Lavaabgrund frei. Sonja (Brigitte Nielsen) besiegt ihre Gegnerin und wirft anschließend das Artefakt hinterher. Damit beendet sie die unmittelbare Bedrohung, löst aber zugleich die Zerstörung der Festung aus. Kalidor (Arnold Schwarzenegger) und die übrigen Begleiter müssen mit ihr fliehen. Die Beseitigung der Gefahr ist deshalb kein ruhiger Abschluss vor Ort.",
+      "anchor": "Die Lava vernichtet das Artefakt; die einstürzende Festung erzwingt die Flucht.",
+      "interest": "Die Lösung des Hauptkonflikts schafft unmittelbar eine letzte Fluchtgefahr.",
+      "sources": ["film", "afi"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "question": "In welchem Jahr erschien @ mit Brigitte Nielsen und Arnold Schwarzenegger erstmals?",
+      "answers": ["1985", "1982", "1988", "1991"],
+      "feedback": ["1985 ist das erste Veröffentlichungsjahr.", "1982 liegt drei Jahre davor.", "1988 liegt drei Jahre danach.", "1991 ist sechs Jahre zu spät."],
+      "short": "Red Sonja erschien erstmals 1985.",
+      "context": "Richard Fleischer inszenierte Conan the Destroyer 1984 und Red Sonja 1985, also im Abstand von einem Jahr. Arnold Schwarzenegger spielt in beiden Filmen einen schwerttragenden Helden, jedoch verschiedene Figuren: zuerst Conan, danach Kalidor. Der konkrete Werkvergleich erklärt die nahe Produktionsumgebung, ohne daraus eine identische Filmrolle oder eine nummerierte Fortsetzung abzuleiten. Für Red Sonja bleibt das veröffentlichte Filmjahr 1985 maßgeblich, obwohl bereits 1984 gedreht wurde.",
+      "anchor": "1984 Conan the Destroyer, 1985 Red Sonja: ein Jahr Abstand und verschiedene Rollen.",
+      "interest": "Der nahe Vorgänger verbindet Regie und Darsteller, ohne die Figuren gleichzusetzen.",
+      "sources": ["conan", "afi", "film"]
+    },
+    {
+      "code": "D",
+      "question": "Wer führte bei @ mit Brigitte Nielsen und Arnold Schwarzenegger Hauptregie?",
+      "answers": ["Richard Fleischer", "John Milius", "Peter Yates", "John Boorman"],
+      "feedback": ["Richard Fleischer trägt den Hauptregiecredit.", "John Milius inszenierte diesen Film nicht.", "Peter Yates führte hier nicht Hauptregie.", "John Boorman ist nicht der Regisseur dieser Fassung."],
+      "short": "Richard Fleischer inszenierte die Fassung mit Brigitte Nielsen.",
+      "context": "Richard Fleischer führte beim fertigen Red Sonja Hauptregie. Die frühe Planung sah zuvor Ralph Bakshi vor, der jedoch ersetzt wurde. Der veröffentlichte Credit ist deshalb von der Projektankündigung zu unterscheiden. Auch Vic Armstrongs gesonderte Arbeit an der Action-Einheit macht ihn nicht zu einem zweiten Hauptregisseur. Die Besetzung mit Brigitte Nielsen grenzt diese Fassung außerdem von der späteren Neuverfilmung ab, für die andere Produktionsentscheidungen und Credits gelten.",
+      "anchor": "Fleischers veröffentlichter Hauptcredit ersetzt die frühere Planung mit Bakshi.",
+      "interest": "Die Frage ordnet den fertigen Film und nicht eine verworfene Ankündigung zu.",
+      "sources": ["afi", "film"]
+    }
+  ]
+}
