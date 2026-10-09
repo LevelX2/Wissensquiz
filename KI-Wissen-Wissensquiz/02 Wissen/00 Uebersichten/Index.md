@@ -156,7 +156,7 @@
 - [Spielervergleich: Timeout-Ursache und Live-Datenbankkorrektur](../../../docs/Spielervergleich-Stoerung.md)
 - [Asynchrone Filmduelle: Ablauf, Lösungen, offene Spiele, Fristen und Speicherung](../../../docs/Asynchrone-Filmduelle.md)
 - [Historischer Konzeptentwurf für asynchrone Filmduelle](../../../docs/Asynchrone-Filmduelle-Konzept.md)
-- [Supabase-Einrichtung, Datenbankregeln und Mailvorlagen](../../../docs/Konten-Einrichtung.md)
+- [Supabase-Einrichtung, Datenbankregeln, Mailvorlagen und Inaktivitätsregeln für Supabase/Brevo](../../../docs/Konten-Einrichtung.md)
 - [Tatsächliche Prüfungen und bekannte Grenzen](../../../docs/Pruefbericht.md)
 - [Antwortreaktion nach Version 36: Katalogspeicher und Duell-Snapshotvergleich](../../../docs/Lernregeln.md#datenintegrität-und-sicherung)
 - [Lösungswahl für Zeitspiele und Freies Spiel unter Profil → Optionen](../../../docs/Lernregeln.md#asynchrone-duelle-und-lösungsanzeige)
