@@ -12,6 +12,7 @@ import { selectQuestions } from "./engine";
 import { pathAreaOf, pathQuestions } from "./learningPath";
 import { discoveryContext } from "./discovery";
 import { errorTrainingContext } from "./errorTraining";
+import { learningDueText, repetitionOverview } from "./learningProgress";
 import { useForegroundTime } from "./useForegroundTime";
 import { familiarities, familiarityLabel } from "./familiarity";
 import { type Mode, type Round, type State, type RoundSetup } from "./model";
@@ -111,6 +112,19 @@ export function PlaySetup({
   ).size;
   const areaCount = new Set(state.questions.map(pathAreaOf)).size;
   const now = useForegroundTime();
+  const mistakes = mode === "fehler" ? errorTrainingContext(state) : undefined;
+  const repetitions = repetitionOverview(
+    selectable
+      .filter(
+        (q) =>
+          matchesTopic(q, roundTopic) &&
+          matchesFilters(q, filters) &&
+          (!mistakes || mistakes.mistakes.has(q.knowledgeId)),
+      )
+      .map((q) => q.knowledgeId),
+    state.learning,
+    now,
+  );
   const selection = selectQuestions(
     selectable,
     state.learning,
@@ -123,7 +137,7 @@ export function PlaySetup({
       size: targetSize,
       now,
       ...(mode === "entdecken" ? discoveryContext(state) : {}),
-      ...(mode === "fehler" ? errorTrainingContext(state) : {}),
+      ...mistakes,
     },
     () => 0.5,
   );
@@ -239,6 +253,30 @@ export function PlaySetup({
           </button>
         ) : (
           <>
+            {!isRecordMode(mode) && (
+              <div
+                className="repetition-overview"
+                role="status"
+                aria-label="Wiederholungen in Deiner Auswahl"
+              >
+                <strong>
+                  {repetitions.due.toLocaleString("de-DE")}{" "}
+                  {repetitions.due === 1
+                    ? "Wiederholung fällig"
+                    : "Wiederholungen fällig"}
+                </strong>
+                <p className="tiny muted">
+                  {repetitions.later > 0
+                    ? `${repetitions.later.toLocaleString("de-DE")} später · Nächster Termin: ${learningDueText(repetitions.nextAt!, now)}.`
+                    : "Aktuell keine späteren Wiederholungen."}
+                </p>
+                {mode === "fehler" && (
+                  <p className="tiny muted">
+                    Offene Fehler kannst Du auch vorher üben.
+                  </p>
+                )}
+              </div>
+            )}
             <div className="round-start">
               <button
                 className="primary"

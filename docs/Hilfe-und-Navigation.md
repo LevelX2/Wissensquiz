@@ -1,5 +1,9 @@
 # Navigation und Hilfe
 
+## Wiederholungsübersicht – 08.10.2026
+
+In den drei Lernmodi steht oberhalb von „Losspielen“ eine kompakte Übersicht: **„X Wiederholungen fällig“**, später anstehende Fragen und nächster Wiederholungstermin mit Abstand und Uhrzeit. Sie zählt die gesamte aktuelle Auswahl, unabhängig von der Größe der nächsten Runde. Gerade beantwortete Fragen werden erst bei erreichtem Termin fällig; gemeinsame Varianten zählen einmal. Im Fehlertraining erklärt die Übersicht zusätzlich, dass offene Fehler bereits vorher geübt werden können. Die Zahlen folgen den Filtern und aktualisieren sich auch nach Tab-/Fensterrückkehr und offline. [Zählvertrag](Lernregeln.md#übersicht-fälliger-wiederholungen--08102026).
+
 ## Lösungsanzeige nach Spielart – 04.10.2026
 
 Profil → Optionen nennt ausdrücklich „Lösungen in Zeitspielen und im Freien Spiel“: 10 Fragen, Fehlerfrei, Zeitkonto und Freies Spiel sind wählbar. Filmreise und Fehlertraining zeigen Antwort und Vertiefung immer direkt; neue Duelle immer nach der eigenen Zehnerrunde. Bei „Nach der Runde“ entfällt der zusätzliche Weiter-Klick: Nach bestätigtem Speichern startet die nächste Frage automatisch. Direktes Feedback erlaubt weiterhin Lesen in Ruhe und manuelles Weitergehen. Die Duellübersicht erklärt den festen Ablauf statt einer Lösungswahl. Hilfe und Modusverträge sind entsprechend korrigiert; frühere Beschreibungen der pauschalen Solo-/freien Duellwahl sind abgelöst. [Führender Vertrag](Lernregeln.md#korrigierte-zuordnung-und-ablauf--04102026).

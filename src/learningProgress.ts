@@ -30,6 +30,27 @@ export function learningOverview(ids: string[], learning: State["learning"]) {
   };
 }
 
+export function repetitionOverview(
+  ids: string[],
+  learning: State["learning"],
+  now: number,
+) {
+  let due = 0;
+  let later = 0;
+  let nextAt: number | null = null;
+  for (const id of new Set(ids)) {
+    const progress = learning[id];
+    if (!progress) continue;
+    const repeatAt = nextLearningAt(progress, now);
+    if (repeatAt <= now) due++;
+    else {
+      later++;
+      nextAt = Math.min(nextAt ?? Infinity, repeatAt);
+    }
+  }
+  return { due, later, nextAt };
+}
+
 export function learningAtAnswer(events: AnswerEvent[], event: AnswerEvent) {
   let previous: Learning | undefined;
   let openMistake = false;

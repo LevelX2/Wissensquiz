@@ -6,6 +6,14 @@
 
 03.10.2026 – Version 47: Auf ausdrücklichen Auftrag keine Erhaltung früherer Rekord-Sonderwertungen. Nur aktuelle Königsklasse-/Einzelgenre-Läufe nach festem Vertrag zählen. Alte Filterkombinationen, `.L`-Zusatzwertungen und Fünferrunden entfallen; Antwortfakten, Lernstand und Karriere-XP bleiben davon getrennt erhalten. Frühere Aussagen zur Erhaltung historischer Rekordkategorien sind abgelöst. [Vertrag](Rekordmodi-und-Zeitranglisten.md).
 
+## Übersicht fälliger Wiederholungen – 08.10.2026
+
+Lokal ergänzt: In Filmreise, Freiem Spiel und Fehlertraining zeigt die Rundenvorbereitung **„X Wiederholungen fällig“**, die Anzahl später anstehender Wiederholungen und deren nächsten Termin. Die Übersicht gilt für die aktuelle Auswahl einschließlich Fragenbereiche, Genre, Filmauswahl, Schwierigkeit und Filmgruppen; in der Filmreise nur für freigeschaltete Fragen, im Fehlertraining nur für noch offene Fehler.
+
+Gezählt werden bereits beantwortete Wissensziele mit erreichtem nächsten Lerntermin aus `nextLearningAt`, wie in der Lernanzeige nach der Antwort; mehrere Fragenvarianten zählen einmal. Neue Fragen und gerade beantwortete Ziele mit späterem Termin zählen nicht als fällig. Die gesamte fällige Menge ist von der Fragenzahl der nächsten Runde getrennt. Vorhandene Intervalle gelten weiterhin: sichere erste Antwort 24 Stunden, Fehler zehn Minuten, geratene Antwort sechs Stunden, spätere sichere Stufen 3/7/21 Tage. Wenn heute bereits ein Stufenaufstieg erfolgte, gilt zusätzlich frühestens der nächste lokale Kalendertag. Eine sichere Fehlerkorrektur am selben Tag erscheint dadurch nicht sofort wieder als fällig.
+
+Die Anzeige wird beim Filterwechsel, bei neuem Spielstand, minütlich auf der sichtbaren Startseite sowie bei Fenster-/Tabrückkehr aktualisiert und funktioniert offline. Keine neue Speicherung oder Änderung der Rundenauswahl: Fehlertraining bleibt vor dem Termin nutzbar; die Filmreise bevorzugt neue Fragen und Freies Spiel zieht zufällig. [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-08%20Nutzerauftrag%20faellige%20Wiederholungen.txt).
+
 ## Aktuelle Auswahl und Ergebnisarchive – Version 46
 
 Spielkacheln wählen eine Variante, schließen die Auswahl und zeigen den gewählten Modus auf der Startseite; erst „Losspielen“ startet. Zeitrekorde erlauben Königsklasse oder genau ein offizielles Filmgenre, immer 3 leicht / 4 mittel / 3 schwer und alle Filmgruppen. Lernfilter bleiben frei. Neue Rekordschlüssel unterscheiden keine Lösungsanzeige mehr; historische `.L`- und eigene Kategorien bleiben getrennt erhalten.
