@@ -788,6 +788,10 @@ Auf Folgehinweis die mobile Randbehandlung ergänzt: `viewport-fit=cover`, Siche
 
 333 Tests, Produktionsbuild und alle neun gezielten Browserfälle erfolgreich. Acht isolierte Positionsmessungen bei 320/390 Pixeln in Chromium und WebKit vor/nach Scrollen sowie mit simulierten iPhone-Sicherheitsabständen bestätigen die unterste Position und erreichbaren letzten Seiteninhalt; aktuelle Bildschirmausschnitte visuell geprüft. Physische iPhone-Abnahme durch die Simulation nicht ersetzt. Vorhandene Importberichte bytegleich erhalten; Formatierung und Diff geprüft. Keine Veröffentlichung oder echte Nutzerdatenänderung.
 
+## 04.10.2026 – Alte Worktrees aus Git entfernt, Ordnerreste offen
+
+Alle fünf alten Worktrees auf ausdrücklichen Nutzerauftrag aus Git entfernt; nur der Hauptarbeitsordner bleibt registriert. Fünf Commitstände in `main` und saubere Arbeitsstände erneut geprüft. Private Sicherungen und Recherchebelege außerhalb der Worktrees kopiert und per Prüfsummen erhalten. Drei Dateisystem-Reste bleiben nach Windows-Pfad-/Freigabefehlern und blockierter direkter Ordnerlöschung durch die automatische Freigabeprüfung bestehen. Laufende Parallelaufgaben unangetastet; keine App-Codeänderung oder Veröffentlichung. [Endstand und Sicherung](../../docs/Gesamtintegration-2026-10-03.md#entfernung-alter-worktrees-am-04102026).
+
 ## 04.10.2026 – Lokaler Oberflächenabschluss für die freigegebene Main-Integration
 
 Der Nutzer hat die lokale Integration der vereinfachten Spielen-Seite und der mobilen Randbehandlung nach `main` ausdrücklich beauftragt. Beide Oberflächenänderungen sind abgeschlossen; 333 Tests, Produktionsbuild, neun Browserfälle und acht Positionsmessungen für denselben App-Stand erfolgreich. Die fremde Filmabdeckungsanalyse, ihre Wissensänderungen, die alte Worktree-Cleanup-Dokumentation und 14 vorgefundene Importbericht-Zeitstempel bleiben außerhalb dieses Oberflächencommits erhalten. Kein Auftrag für Push oder Veröffentlichung; physische iPhone-Abnahme bleibt offen.

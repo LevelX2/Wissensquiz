@@ -82,3 +82,9 @@ Die folgenden Köpfe wurden zum Abschluss vollständig integriert und ihre lokal
 | codex/spielkacheln-und-rekordauswahl | `780c9030362b` |
 | codex/strukturverbesserungen | `bac3c4009037` |
 | codex/veroeffentlichung-keine-ahnung-spielervergleich | `cfff2b5ae27b` |
+
+## Entfernung alter Worktrees am 04.10.2026
+
+Auf anschließenden ausdrücklichen Nutzerauftrag alle fünf alten, vollständig integrierten Worktrees aus Git entfernt; registriert bleibt ausschließlich der Hauptarbeitsordner. Vorher erneut saubere Arbeitsstände und vollständige Erreichbarkeit aller fünf Köpfe in `main` geprüft. Private Produktionssicherungen, Recherchebelege, lokale Pfadauflösung und sonstige nicht reproduzierbare Arbeitsartefakte in der ignorierten Ablage `.sites-runtime/worktree-cleanup-20261004/preserved/` gesichert; 2.336 Dateien/Verweise, 387.088.712 Bytes, kopierte Dateien per SHA-256 geprüft. Reproduzierbare Builds, Abhängigkeiten und die dokumentierte synthetische lokale PostgreSQL-Prüfinstanz nicht in die Sicherung übernommen. Laufende Parallelaufgaben im Hauptordner unverändert erhalten.
+
+Dateisystem-Cleanup noch nicht vollständig: Ordnerreste von `schauspieler-release` (leer), `wissensquiz-rekordmodi` (Abhängigkeitsverweis) und `wissensquiz-strukturverbesserungen` (lange Pfade der portablen PostgreSQL-Werkzeuge) bleiben bestehen. Git meldete zunächst fehlende Freigabe beziehungsweise zu lange Dateinamen. Die automatische Freigabeprüfung blockierte danach die direkten PowerShell-Ordnerlöschungen ohne nähere Begründung. Keine Umgehung und keine Löschung im Hauptarbeitsordner. Inventar, Sicherungsmanifest und tatsächlicher Endstand liegen ignoriert unter `.sites-runtime/worktree-cleanup-20261004/`.
