@@ -95,6 +95,8 @@ beforeAll(async () => {
     insert into auth.users values('${alice}',now(),false,'{"display_name":"Alice"}'),('${bob}',now(),false,'{"display_name":"Bob"}'),('${unverified}',null,false,'{}');`);
   for (const file of readdirSync("supabase/migrations")
     .filter((f) => f.endsWith(".sql"))
+    // Cloud scheduling is independent of the local application database fixture.
+    .filter((f) => !f.endsWith("_daily_service_check.sql"))
     .sort())
     await db.exec(readFileSync(`supabase/migrations/${file}`, "utf8"));
   const release = await prepareRelease(base.questions);

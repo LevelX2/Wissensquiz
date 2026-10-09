@@ -454,6 +454,8 @@ try {
       sql("postgres", `create database ${database};`);
     const migrations = (await readdir("supabase/migrations"))
       .filter((f) => f.endsWith(".sql"))
+      // The storage benchmark does not provision cloud HTTP or cron workers.
+      .filter((f) => !f.endsWith("_daily_service_check.sql"))
       .sort();
     for (const database of [before, after]) {
       sql(

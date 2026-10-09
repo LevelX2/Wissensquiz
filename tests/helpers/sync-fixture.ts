@@ -16,6 +16,8 @@ export async function syncFixture(stopBefore?: string) {
     grant usage on schema auth,public to anon,authenticated;grant execute on function auth.uid() to anon,authenticated;`);
   for (const file of readdirSync("supabase/migrations")
     .filter((f) => f.endsWith(".sql"))
+    // Provider-only scheduler/HTTP extensions are tested in service-check.test.ts.
+    .filter((f) => !f.endsWith("_daily_service_check.sql"))
     .sort()
     .filter((file) => !stopBefore || file < stopBefore))
     await db.exec(readFileSync(`supabase/migrations/${file}`, "utf8"));

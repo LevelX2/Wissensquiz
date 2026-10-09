@@ -32,6 +32,33 @@ Die bestehende Einrichtung hat drei getrennte Inaktivitätsregeln:
 
 Diese Recherche bestätigt Anbieterregeln und die dokumentierte Einrichtung, keinen aktuellen Live-Konto- oder Schlüsselstatus. Keine Testmail, Automatisierung, Tarifänderung oder Live-Konfigurationsänderung ausgeführt.
 
+### Täglicher Betriebsjob ab 09.10.2026
+
+Auf anschließenden Nutzerauftrag **live eingerichtet**: `wissensquiz-daily-service-check` läuft über Supabase Cron täglich um **07:17 UTC**, entsprechend **09:17 Uhr im Sommer / 08:17 Uhr im Winter** in Europe/Berlin. Der Rechner und die Quiz-App müssen dafür nicht laufen. Ein erster manueller Live-Lauf um 09:36:48 Uhr Europe/Berlin lieferte dreimal HTTP 200 und eine gültige Antwort der vorhandenen öffentlichen Versionsabfrage `quiz_app_release(57)`.
+
+Der Job führt drei kleine HTTP-API-Abfragen der vorhandenen Versionsmetadaten aus. Die bewährte Veröffentlichungszeile 57 bleibt ein dauerhafter Prüfanker, unabhängig von neueren App-Versionen. Bei konfigurierter, bestätigter eigener Empfängeradresse fordert er außerdem alle **30 Tage** eine reguläre **„Passwort zurücksetzen“-Mail** über Supabase an. Damit wird genau die bestehende Brevo-SMTP-Anbindung verwendet; kein SMTP-Schlüssel muss kopiert oder zusätzlich gespeichert werden. Der Job bestätigt keinen Mailtoken, meldet sich nicht als Spieler an und ändert kein Passwort. Eine erfolgreiche HTTP-Annahme bestätigt noch keine Zustellung im Postfach. Fehlgeschlagene Mailanforderungen werden frühestens nach einem Tag erneut versucht; parallele Aufrufe sind serialisiert.
+
+**Noch offen:** eigene Empfängeradresse vom Nutzer erfragt, bisher nicht konfiguriert. Datenbankprüfung läuft bereits, Mailprüfung steht bis dahin auf `not_configured`. Es wurde keine Mail an eine vermutete Adresse gesendet.
+
+Die [SQL-Einrichtung](../supabase/migrations/20261009073417_daily_service_check.sql) aktiviert `pg_cron` und `http`. Konfiguration und Status liegen im nicht öffentlich freigegebenen Schema `quiz_ops`; RLS ist aktiv, `anon`, `authenticated` und `service_role` haben weder Schema-/Tabellenzugriff noch Ausführungsrecht. Die Funktion läuft mit Betreiberrechten als `SECURITY INVOKER`. Sie verwendet ausschließlich den vorhandenen öffentlichen Publishable Key. Private Empfängeradressen gehören nur in die geschützte Live-Konfiguration, nicht ins Repository. Die Statushistorie enthält ausschließlich Zeit, HTTP-Status, Ergebniskennungen und gegebenenfalls SQLSTATE-Codes; keine Mailadressen, Mailinhalte, Tokens oder Spielstände. Nur Betriebsprotokolle älter als 90 Tage werden entfernt.
+
+Eine ergänzende **Codex-Kontrolle täglich um 10:00 Uhr Europe/Berlin** ist als aktiver Termin in diesem Chat eingerichtet (`wissensquiz-betriebspr-fung`). Sie meldet neue Störungen, Erholungen, ausbleibende Läufe über 36 Stunden und den festen SMTP-Ablauf spätestens 30 Tage vorher. Gesunde oder unveränderte Zustände bleiben still. Diese Kontrolle ändert keine Daten und fordert keine weiteren Mails an; sie hängt von der Verfügbarkeit der Codex-Automation ab. [Offizielle Hinweise zu lokalen Terminen](https://learn.chatgpt.com/docs/automations?surface=app).
+
+**Betriebsgrenzen:** Der eigentliche Cronjob liegt im überwachten Supabase-Projekt. Er kann ein bereits pausiertes Projekt nicht selbst wieder aufnehmen und ist keine garantierte Ausnahme von der Free-Pausenregel. Die zusätzliche Kontrolle meldet eine erkannte Pause. Das feste dokumentierte Schlüsselablaufdatum 26.09.2027 bleibt bestehen. Keine Tarifänderung, kein GitHub-Push und keine neue Sites-Veröffentlichung erforderlich.
+
+Betreiberprüfung ohne private Konfiguration auszulesen:
+
+```sql
+select jobname, schedule, active from cron.job
+where jobname = 'wissensquiz-daily-service-check';
+select checked_at, database_statuses, database_ok, mail_state, mail_status, error_codes
+from quiz_ops.service_checks order by id desc limit 5;
+select smtp_expires_on, mail_recipient is not null as mail_configured
+from quiz_ops.service_config;
+```
+
+Zum Anhalten `select cron.unschedule('wissensquiz-daily-service-check');` ausführen und den ergänzenden Codex-Termin separat deaktivieren. Status und Konfiguration bleiben erhalten. [Supabase Cron](https://supabase.com/docs/guides/cron), [HTTP-Erweiterung](https://supabase.com/docs/guides/database/extensions/http), [Mailanforderung und Passwortänderung als getrennte Schritte](https://supabase.com/docs/reference/javascript/auth-resetpasswordforemail).
+
 ## 1. Supabase-Projekt
 
 Unter [Supabase](https://supabase.com/dashboard) ein eigenes Konto und ein Projekt anlegen, möglichst in einer passenden europäischen Region. Organisations-/Tarifwahl und ein eventuell erforderliches Zahlungsmittel übernimmt der Eigentümer. Das Datenbankpasswort gehört in den persönlichen Passwortmanager, nicht in Chat, Git oder die öffentliche App.
