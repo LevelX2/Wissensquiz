@@ -1,5 +1,18 @@
 # Prüfnachweis
 
+## 09.10.2026 – Main-Integration und Veröffentlichung als Version 58
+
+Am **09.10.2026 um 09:17:18 Uhr Europe/Berlin** als **Sites-Version 58 öffentlich veröffentlicht**, nativer Status `succeeded`. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site). Exakter Main-Quellcommit `91e05da33468ad617769bf45d726273530fbed40`; bestehende Projekt-ID und öffentlicher Besucherzugriff (Revision 2) erhalten. [Maschinenlesbarer Nachweis](Veroeffentlichung-2026-10-09-Version-58.json).
+
+Neun Genres auf jeweils 100 Filme erweitert: **237 zusätzliche Filmfassungen / 1.896 neue Fragen**. Alle zwölf Filmgenres haben mindestens 100 Filme. Gesamtkatalog **33 Pakete / 12.773 Fragen / 12.207 Wissensziele**, darunter 1.302 Filmfassungen / 10.733 Filmfragen. Enthält zusätzlich die Main-Änderung zur Übersicht fälliger Wiederholungen in Filmreise, Freiem Spiel und Fehlertraining.
+
+**393 Tests in 65 Dateien, Produktionsbuild mit Versionsnummer 58 und 34 isolierte Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich.** Vier ausschließlich additive Wissenskonflikte beim Main-Abgleich gelöst; beide Änderungsabsichten einschließlich älterer Worktree-Bereinigung erhalten. 14 vorgefundene Importberichte bytegleich offen erhalten. Regulärer Sites-Workflow, Source-Push ausschließlich in das Sites-Repository. Alle 477 Produktionsdateien im Archiv bytegleich zum geprüften Build; natives Archiv 83.271.680 Bytes / 478 Dateien, `sha256:721e40ec7067dd0982cd670dabee128f08811fcdf03d2881092a6295a7051540`. Offline-Paket `film-71dc14042330`, 475 Cache-Dateien.
+
+Onlinekatalog `35ba8d20e83b30f5b285abc115ff69f1f416ffde0b44d945840548f18cc8721d` mit allen 12.773 Fragen, Nachweisen und Bewertungsfeldern freigegeben. Sechs frühere Kataloge erhalten, alle 587 Bereitstellungsteile entfernt. Duellkatalog ausschließlich um die 1.896 neuen zulässigen Fragen auf **10.943 aktive Fragen** ergänzt; alle bisherigen 9.047 Fragen unverändert (Fingerprint `ddcbce441d51ef119fa29094d2475713`). Neue Fragen unabhängig über PostgreSQL/WASM und live bestätigt (`85f20aed34ed4edb0697934638670fee`). Keine Schemaänderung, Änderung privater Spielstände oder laufender Duellsnapshots.
+
+Tatsächliche Veröffentlichungszeit `2026-10-09T07:17:18.805510+00:00` und Quellcommit dauerhaft gespeichert, separat zurückgelesen und anonym über `quiz_app_release(58)` bestätigt; direkter Tabellenzugriff weiterhin gesperrt. Native Browserübergabe angefordert; keine zusätzliche Live-Browserprüfung oder physische Geräteabnahme. Kein GitHub-Push.
+
+
 ## 08.10.2026 – Horror lokal auf 100 Filme erweitert
 
 23 neue Filmfassungen und 184 individuelle Fragen, nun 100 Horror-Filme / 827 Fragen. Gesamtkatalog 33 Pakete / 12.773 Fragen / 12.207 Ziele. 392 Logiktests, Produktionsbuild und 14 Browserfälle erfolgreich abgenommen. Quellen, vollständiger Altbestand und drei getrennte Redaktionsblöcke geprüft. Isolierte synthetische Zustände, keine echten Nutzerdaten verändert. Lokal im autorisierten Worktree, noch nicht veröffentlicht. [Vollständige Abnahme](Genres-100-2026-10-08/Horror/Pruefbericht.md).

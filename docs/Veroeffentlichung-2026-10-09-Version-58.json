@@ -1,0 +1,75 @@
+{
+  "asOf": "2026-10-09",
+  "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "version": 58,
+  "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_df119dc337e48191be14e5685f169d4f",
+  "source_commit": "91e05da33468ad617769bf45d726273530fbed40",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_0000000052a0820a9628cd8180cdf021",
+    "content_hash": "sha256:721e40ec7067dd0982cd670dabee128f08811fcdf03d2881092a6295a7051540",
+    "size_bytes": 83271680,
+    "file_count": 478
+  },
+  "access": {
+    "accessMode": "public",
+    "accessPolicyRevision": 2
+  },
+  "packages": 33,
+  "catalog": {
+    "questions": 12773,
+    "knowledgeGoals": 12207,
+    "filmEditions": 1302,
+    "filmQuestions": 10733,
+    "newFilms": 237,
+    "newQuestions": 1896,
+    "releaseHash": "35ba8d20e83b30f5b285abc115ff69f1f416ffde0b44d945840548f18cc8721d",
+    "manifestHash": "8d13f630f8a464b26676df99ba913229ce12d4c1f1709e7babd527a3a4025045",
+    "manifestBytes": 9385031,
+    "publicationParts": 587,
+    "pendingPublicationParts": 0,
+    "priorReleasesRetained": 6,
+    "digests": 12773,
+    "scoreFields": 12773,
+    "duelQuestions": 10943,
+    "newDuelQuestions": 1896,
+    "unchangedDuelQuestions": 9047,
+    "unchangedDuelFingerprint": "ddcbce441d51ef119fa29094d2475713",
+    "newDuelFingerprint": "85f20aed34ed4edb0697934638670fee"
+  },
+  "checks": {
+    "tests": 393,
+    "testFiles": 65,
+    "testCommand": "npm test -- --maxWorkers=2 --testTimeout=15000",
+    "typeScript": true,
+    "productionBuild": true,
+    "buildVersion": 58,
+    "packagedBuildFiles": 477,
+    "packagedBuildByteIdentical": true,
+    "sourceWorkflowCommitMatchesMain": true,
+    "foreignFilesPreserved": 14,
+    "githubPush": false,
+    "privatePlayerDataTouched": false,
+    "schemaMigration": false,
+    "liveBrowserQa": false,
+    "browserCasesPassed": 34,
+    "releaseMetadataPersistedAndRead": true,
+    "anonymousReleaseRpc": true,
+    "directReleaseTableAccess": false,
+    "nativeBrowserHandoff": "queued",
+    "laterMainChangesDocumentationOnly": true,
+    "mainAtPublication": "240be222d98e60a2e2a45d8a084f578cfd4e528e"
+  },
+  "offline": {
+    "package": "film-71dc14042330",
+    "cacheFiles": 475
+  },
+  "limits": [
+    "Keine physische Geräteabnahme oder empirische Kalibrierung von Schwierigkeit/Bekanntheit.",
+    "Windows-WebKit prüft die Wiederaufnahme online und anschließende Offline-Antworten; vollständiges Offline-Neuladen in Chromium."
+  ],
+  "deployment_id": "appgdep_6ac894e9979c8191aa0763902d86f4d5",
+  "status": "succeeded",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "published_at": "2026-10-09T07:17:18.805510+00:00"
+}

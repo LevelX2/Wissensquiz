@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Version 58 veröffentlicht: alle Genres mindestens 100 Filme und fällige Wiederholungen](../../../docs/Sites-Betrieb.md#version-58-genreausbau-und-fällige-wiederholungen)
+- [Version 58: Main-Quellcommit, Archiv, Online- und Duellkatalog](../../../docs/Veroeffentlichung-2026-10-09-Version-58.json)
+
 - [Aktueller Bestand nach dem Genreausbau: 16 Bereiche, 1.302 Filmfassungen und 12.773 Fragen](../../../docs/Genres-100-2026-10-08/Bestandsuebersicht.md)
 - [Genres auf 100 Filme: Reihenfolge, Klassikerkern und aktueller Arbeitsstand – 08.10.2026](../../../docs/Genres-100-2026-10-08/Plan.md)
 - [Abenteuer vollständig: 100 Filme / 802 Fragen, Redaktion und App-Abnahme](../../../docs/Genres-100-2026-10-08/Abenteuer/Pruefbericht.md)

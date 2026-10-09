@@ -1,6 +1,6 @@
 # Aktueller Fragenbestand nach dem Genreausbau
 
-Stand: 08.10.2026. Lokal im autorisierten Worktree vollständig erweitert und geprüft; noch nicht veröffentlicht.
+Stand: 09.10.2026. Vollständig in main integriert und als Sites-Version 58 öffentlich veröffentlicht. [Betrieb und Prüfung](../Sites-Betrieb.md#version-58-genreausbau-und-fällige-wiederholungen).
 
 | Bereich | Filme / Einträge | Fragen | Wissensziele |
 |---|---:|---:|---:|

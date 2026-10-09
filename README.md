@@ -2,7 +2,7 @@
 
 Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Als Gast funktioniert es ohne Konto oder verpflichtendes Backend; ein eigenes Quiz-Konto ergänzt private Online-Sicherung und Duelle.
 
-Stand 07.10.2026, lokal: **24 Quellenpakete, 10.877 Fragen, 10.315 Wissensziele und 220 Personen**. Die neue Erweiterung ergänzt je Kategorie 20 Einträge und insgesamt 2.480 Fragen; Filmauswahl vorrangig aus der persönlichen Sammlung. [Fragen und Prüfung](docs/Erweiterung-2026-10-07/Pruefbericht.md). **Sites-Version 56 ist veröffentlicht**, mit 8.197 Fragen; der lokale Stand einschließlich der neuen Schauspieler-Bildfragen und der heutigen Erweiterung ist noch nicht veröffentlicht. [Betrieb](docs/Sites-Betrieb.md), [Gesamtprüfungen](docs/Pruefbericht.md).
+Stand 09.10.2026, öffentlich als **Sites-Version 58**: **33 Quellenpakete, 12.773 Fragen und 12.207 Wissensziele**. Alle zwölf Filmgenres umfassen mindestens 100 Filme; neun Genres wurden um 237 Filmfassungen und 1.896 Fragen erweitert. Die Übersicht fälliger Wiederholungen ist ebenfalls veröffentlicht. [Bestand aller Bereiche](docs/Genres-100-2026-10-08/Bestandsuebersicht.md), [Betrieb](docs/Sites-Betrieb.md), [Prüfnachweise](docs/Pruefbericht.md).
 
 ## Starten
 

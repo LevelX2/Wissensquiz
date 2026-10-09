@@ -1,9 +1,13 @@
 # Organisation der Fragedaten
 
-07.10.2026 – **320 Einträge und 2.480 Fragen lokal ergänzt:** Je 20 neue Einträge in allen 16 Auswahlkategorien. Gesamt **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**; 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. Filmauswahl vorrangig aus der persönlichen Sammlung; Einzelbesitzangaben bleiben privat. Noch nicht veröffentlicht. [Redaktion, Lesefassung und Prüfnachweise](Erweiterung-2026-10-07/Pruefbericht.md).
+## Veröffentlichter Bestand – 09.10.2026, Version 58
+
+**33 Pakete, 12.773 Fragen und 12.207 Wissensziele.** Genreausbau mit 237 zusätzlichen Filmfassungen und 1.896 Fragen vollständig veröffentlicht. Onlinekatalog `35ba8d20e83b30f5b285abc115ff69f1f416ffde0b44d945840548f18cc8721d` mit allen Nachweisen und Bewertungsfeldern geprüft, sechs frühere Releases erhalten und keine Bereitstellungsteile offen. Duellkatalog 10.943 aktive Fragen; bisherige 9.047 Fragen unverändert. [Betrieb und Katalognachweise](Sites-Betrieb.md#version-58-genreausbau-und-fällige-wiederholungen). Die nachfolgenden datierten Bestände dokumentieren die früheren Stände.
+
+07.10.2026 – **320 Einträge und 2.480 Fragen lokal ergänzt:** Je 20 neue Einträge in allen 16 Auswahlkategorien. Gesamt **24 Pakete, 10.877 Fragen und 10.315 Wissensziele**; 8.837 Filmfragen, 1.760 Personenfragen für 220 Personen und 280 Preisfragen. Filmauswahl vorrangig aus der persönlichen Sammlung; Einzelbesitzangaben bleiben privat. Seit Sites-Version 57 veröffentlicht. [Redaktion, Lesefassung und Prüfnachweise](Erweiterung-2026-10-07/Pruefbericht.md).
 
 
-## Veröffentlichter Bestand – 06.10.2026, Version 56
+## Früherer veröffentlichter Bestand – 06.10.2026, Version 56
 
 **20 Pakete, 8.197 Fragen, 7.653 Wissensziele und 544 Variantenbezüge.** Die 240-Filme-Ergänzung ist das letzte Paket und verwendet eine bestehende Nomadland-Regieidentität aus dem Personenpaket. Ihr App-CSV ist bytegleich zur gesonderten Redaktionsquelle; die Quellenprüfung löst diesen Pfad ausdrücklich auf. [Integration, Filmdaten und Abgrenzungen](Filmfragen-Ergaenzung-2026-10-06/Integration.md).
 
