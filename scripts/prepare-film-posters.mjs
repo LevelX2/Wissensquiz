@@ -12,7 +12,7 @@ const env = Object.fromEntries(
     ]),
 );
 if (!env.TMDB_API_KEY) throw new Error("Lokaler TMDB-Zugang fehlt.");
-async function api(path, params = {}) {
+async function api(path, params = {}, allowMissing = false) {
   const url = new URL(`https://api.themoviedb.org/3/${path}`);
   url.search = new URLSearchParams({
     api_key: env.TMDB_API_KEY,
@@ -25,6 +25,7 @@ async function api(path, params = {}) {
   } catch {
     throw new Error(`TMDB-Netzwerkfehler bei ${path}`);
   }
+  if (response.status === 404 && allowMissing) return null;
   if (!response.ok) throw new Error(`TMDB HTTP ${response.status} bei ${path}`);
   return response.json();
 }
@@ -53,7 +54,12 @@ try {
 }
 const films = new Map();
 for (const q of questions) {
-  if (q.domain !== "Film" || q.metadata.subdomain !== "Science-Fiction")
+  if (
+    q.domain !== "Film" ||
+    q.metadata.person_id ||
+    !q.metadata.film_title_original ||
+    !q.metadata.film_year
+  )
     continue;
   const key = `${q.metadata.film_title_original}|${q.metadata.film_year}`;
   const film = films.get(key) ?? {
@@ -67,7 +73,7 @@ for (const q of questions) {
   film.questionIds.push(q.id);
   films.set(key, film);
 }
-const normalize = (value) =>
+const normalize = (value = "") =>
   value
     .normalize("NFKD")
     .replace(/\p{M}/gu, "")
@@ -78,16 +84,79 @@ const directorNames = {
   大友克洋: "Katsuhiro Otomo",
   山口淳太: "Junta Yamaguchi",
   "Andrei Tarkowski": "Andrei Tarkovsky",
+  "Alejandro G. Iñárritu": "Alejandro González Iñárritu",
+  "Steve Antin": "Steven Antin",
+  "Jeremiah S. Chechik": "Jeremiah Chechik",
+};
+// Reviewed short/localized titles in the current catalog; year and director
+// must still agree with the returned movie.
+const catalogTitles = {
+  "Alphaville|1965": ["Alphaville, une étrange aventure de Lemmy Caution"],
+  "Chocolate|2008": ["ช็อคโกแลต"],
+  "Vampyr|1932": ["Vampyr - Der Traum des Allan Grey"],
+};
+// Screen Ireland's 2007 release notice confirms the previous year's Galway
+// screening; TMDB lists only the later 2007 cinema dates for this same film.
+const reviewedPremieres = {
+  "Once|2006": {
+    tmdbId: 5723,
+    source: "https://www.screenireland.ie/news-archive/view/518",
+  },
 };
 await mkdir("tmp-film-posters", { recursive: true });
+await mkdir("tmp-film-posters/people", { recursive: true });
 const resume = process.argv.includes("--resume");
 const entries = [...films.values()].sort((a, b) => a.key.localeCompare(b.key));
+await writeFile(
+  "tmp-film-posters/inventory.json",
+  JSON.stringify(entries, null, 2) + "\n",
+);
+const people = new Map();
+async function personNames(id) {
+  if (!people.has(id))
+    people.set(
+      id,
+      (async () => {
+        const cache = `tmp-film-posters/people/${id}.json`;
+        let person;
+        if (resume) {
+          try {
+            if (Date.now() - (await stat(cache)).mtimeMs < 24 * 60 * 60 * 1000)
+              person = JSON.parse(await readFile(cache, "utf8"));
+          } catch (error) {
+            if (error.code !== "ENOENT") throw error;
+          }
+        }
+        if (!person) {
+          person = await api(`person/${id}`, { language: "en-US" });
+          await writeFile(cache, JSON.stringify(person, null, 2) + "\n");
+        }
+        return [person.name, ...(person.also_known_as ?? [])];
+      })(),
+    );
+  return people.get(id);
+}
+async function directorMatches(movie, film) {
+  if (!film.directors) return false;
+  const expected = normalize(directorNames[film.directors] ?? film.directors);
+  const directors = movie.credits.crew.filter(
+    (person) => person.job === "Director",
+  );
+  const matches = (name) =>
+    !!name && expected.includes(normalize(directorNames[name] ?? name));
+  if (directors.some((person) => matches(person.name))) return true;
+  for (const person of directors)
+    if ((await personNames(person.id)).some(matches)) return true;
+  return false;
+}
 const resolved = {},
   unresolved = [];
 let index = 0;
 async function worker() {
   while (index < entries.length) {
     const film = entries[index++];
+    if (index % 100 === 0)
+      console.log(`Prüfe Film ${index} von ${entries.length}.`);
     const cache = `tmp-film-posters/${Buffer.from(film.key).toString("base64url")}.json`;
     let research;
     try {
@@ -123,37 +192,71 @@ async function worker() {
         ),
     );
     let id = exact.length === 1 ? exact[0].id : undefined;
-    const directorMatches = (movie) =>
-      film.directors &&
-      movie.credits.crew.some(
-        (person) =>
-          person.job === "Director" &&
-          normalize(film.directors).includes(
-            normalize(directorNames[person.name] ?? person.name),
-          ),
-      );
     if (!id) {
+      if (!research.expanded) {
+        const candidates = [...research.candidates];
+        for (const [query, year] of [
+          [film.title, String(film.year)],
+          [film.originalTitle, ""],
+          [film.title, ""],
+        ]) {
+          candidates.push(
+            ...(
+              await api("search/movie", {
+                query,
+                ...(year ? { year } : {}),
+                include_adult: "false",
+              })
+            ).results,
+          );
+        }
+        research.candidates = [
+          ...new Map(
+            candidates.map((candidate) => [candidate.id, candidate]),
+          ).values(),
+        ];
+        research.expanded = true;
+      }
       const matches = [];
       for (const candidate of research.candidates) {
+        research.candidateDetails ??= {};
+        const detail = (research.candidateDetails[candidate.id] ??= await api(
+          `movie/${candidate.id}`,
+          {
+            append_to_response: "credits,release_dates,alternative_titles",
+          },
+          true,
+        ));
+        if (!detail) continue;
+        const titles = [
+          detail.original_title,
+          detail.title,
+          ...detail.alternative_titles.titles.map(
+            (alternative) => alternative.title,
+          ),
+        ];
         if (
-          research.candidates.length !== 1 &&
-          ![film.originalTitle, film.title].some((title) =>
-            [candidate.original_title, candidate.title].some(
-              (name) => normalize(name) === normalize(title),
-            ),
+          ![
+            film.originalTitle,
+            film.title,
+            ...(catalogTitles[film.key] ?? []),
+          ].some((title) =>
+            titles.some((name) => normalize(name) === normalize(title)),
           )
         )
           continue;
-        const detail = await api(`movie/${candidate.id}`, {
-          append_to_response: "credits,release_dates",
-        });
-        const releasedInYear = detail.release_dates.results.some((region) =>
-          region.release_dates.some(
-            (date) => Number(date.release_date.slice(0, 4)) === film.year,
-          ),
-        );
-        if (directorMatches(detail) && releasedInYear) matches.push(detail);
+        const releasedInYear =
+          reviewedPremieres[film.key]?.tmdbId === detail.id ||
+          Number(detail.release_date?.slice(0, 4)) === film.year ||
+          detail.release_dates.results.some((region) =>
+            region.release_dates.some(
+              (date) => Number(date.release_date.slice(0, 4)) === film.year,
+            ),
+          );
+        if (releasedInYear && (await directorMatches(detail, film)))
+          matches.push(detail);
       }
+      await writeFile(cache, JSON.stringify(research, null, 2) + "\n");
       if (matches.length !== 1) {
         unresolved.push(research);
         continue;
@@ -170,7 +273,7 @@ async function worker() {
     }
     const movie = research.details;
     if (
-      !directorMatches(movie) ||
+      !(await directorMatches(movie, film)) ||
       !movie.poster_path ||
       !/^\/[a-zA-Z0-9]+\.(jpg|png)$/.test(movie.poster_path)
     ) {

@@ -6,7 +6,12 @@ export function FilmPoster({ q }: { q: Question }) {
   const [poster, setPoster] = useState<ReturnType<typeof filmPoster>>();
   useEffect(() => {
     let active = true;
-    if (q.domain === "Film" && q.metadata.subdomain === "Science-Fiction") {
+    if (
+      q.domain === "Film" &&
+      !q.metadata.person_id &&
+      q.metadata.film_title_original &&
+      q.metadata.film_year
+    ) {
       void loadFilmPosters().then((data) => {
         if (active) setPoster(filmPoster(q, data));
       });

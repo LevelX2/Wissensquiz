@@ -501,11 +501,8 @@ details p {
   .answers {
     gap: 13px;
   }
-  .feedback-title h2 {
-    font-size: 20px;
-  }
-  .feedback-title {
-    gap: 9px;
+  .feedback-outcome {
+    gap: 7px;
   }
   .feedback-actions {
     flex-wrap: wrap;

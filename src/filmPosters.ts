@@ -38,7 +38,9 @@ export function filmPoster(
   if (
     !data ||
     q.domain !== "Film" ||
-    q.metadata.subdomain !== "Science-Fiction"
+    q.metadata.person_id ||
+    !q.metadata.film_title_original ||
+    !q.metadata.film_year
   )
     return undefined;
   const checked = Date.parse(data.checkedAt),

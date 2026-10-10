@@ -1,8 +1,6 @@
-import { writeStoredState } from "./fixtures";
+import { writeStoredState, accountBackend } from "./fixtures";
 import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
-import { readFileSync } from "node:fs";
-import { importCsv } from "../../src/importer";
 import { emptyState, type Mode, type Question } from "../../src/model";
 import { answer, complete, guess, startRound } from "../../src/engine";
 
@@ -16,9 +14,7 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     await expect(
       page.getByRole("button", { name: "Losspielen" }),
     ).toBeEnabled();
-    const questions = importCsv(
-      readFileSync("public/fragen.csv", "utf8"),
-    ).questions;
+    const questions = accountBackend(page).release.questions;
     const variant = questions.find((q) => q.metadata.variant_of)!;
     const q = questions.find((q) => q.id === variant.metadata.variant_of)!;
     const state = emptyState(questions);
@@ -85,6 +81,7 @@ for (const mode of ["entdecken", "ueben"] as Mode[]) {
     await expect(stats.locator("summary")).toContainText(
       "2 richtig · 1 falsch",
     );
+    await expect(stats.locator(".question-new")).toHaveCount(0);
     await stats.locator("summary").click();
     await expect(stats).toContainText("Ohne Antwort (Zeit abgelaufen): 1");
     await expect(stats.locator(".goal-history")).toContainText(

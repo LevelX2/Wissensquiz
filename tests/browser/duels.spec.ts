@@ -32,7 +32,7 @@ async function play(page: Page, count = 10, guessLast = false) {
       .click();
     await expect(page.locator(`h1[data-question-id="${id}"]`)).toHaveCount(0);
     await expect(
-      page.getByRole("heading", { name: "Genau richtig." }),
+      page.locator(".feedback-outcome").getByText("Richtig", { exact: true }),
     ).toHaveCount(0);
     await expect(
       page.getByRole("button", { name: /Nächste Frage|Runde abschließen/ }),

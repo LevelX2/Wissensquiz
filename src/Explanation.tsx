@@ -6,9 +6,11 @@ import { yearPresentation } from "./yearEditorial";
 import { FilmDataPanel } from "./FilmDataPanel";
 import { ActorPortrait, recognitionVariants } from "./ActorPortrait";
 import { FilmPoster } from "./FilmPoster";
+import { additionalAnswerFeedback } from "./answerFeedback";
 
 export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   const selected = q.answers.find((a) => a.id === event.answerId);
+  const feedback = additionalAnswerFeedback(q, selected?.feedback);
   const film = filmDetails(q);
   const director = directorExplanation(q);
   const actor = actorPresentation(q);
@@ -25,23 +27,20 @@ export function Explanation({ q, event }: { q: Question; event: AnswerEvent }) {
   ];
   return (
     <div className="explanation">
-      <span className="eyebrow">DIE IDEE DAHINTER</span>
       {q.metadata.person_name && (
         <p className="actor-name">
           <strong>{q.metadata.person_name}</strong>
         </p>
       )}
       <ActorPortrait q={q} selectionKey={event.id} />
+      <p>{q.explanation}</p>
+      {!event.correct && feedback && (
+        <p className="specific-feedback">{feedback}</p>
+      )}
       <FilmPoster
         key={`${q.metadata.film_title_original}|${q.metadata.film_year}`}
         q={q}
       />
-      <p>{q.explanation}</p>
-      {!event.correct && selected?.feedback && (
-        <p className="specific-feedback">
-          Zu Deiner Antwort: {selected.feedback}
-        </p>
-      )}
       {(deepContext || film) && (
         <details>
           <summary>Etwas tiefer eintauchen</summary>

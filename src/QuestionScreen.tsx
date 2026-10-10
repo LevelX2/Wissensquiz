@@ -428,7 +428,12 @@ export function QuestionScreen({
           state.settings.questionHistory !== "hidden" &&
           (state.settings.questionHistory === "always" || !!event) &&
           !showReveal && (
-            <QuestionHistory key={q.id} events={state.events} question={q} />
+            <QuestionHistory
+              key={q.id}
+              events={state.events}
+              question={q}
+              currentEventId={event?.id}
+            />
           )}
         {event
           ? !showReveal &&
@@ -479,18 +484,18 @@ export function QuestionScreen({
             ) : (
               <>
                 <div
-                  className={`feedback-title ${event.correct ? "success" : "incorrect"}`}
+                  className={`feedback-outcome ${event.correct ? "success" : "incorrect"}`}
                 >
-                  <span>{event.correct ? "✓" : "↗"}</span>
-                  <h2>
+                  <span aria-hidden="true">{event.correct ? "✓" : "×"}</span>
+                  <strong>
                     {event.correct
-                      ? "Genau richtig."
+                      ? "Richtig"
                       : event.dontKnow
-                        ? "Die Lösung zum Merken."
+                        ? "Nicht gewusst"
                         : event.answerId === null
-                          ? "Die Zeit ist um."
-                          : "Eine neue Entdeckung."}
-                  </h2>
+                          ? "Zeit abgelaufen"
+                          : "Nicht richtig"}
+                  </strong>
                   {isRecordMode(round.mode) && (
                     <Pill>
                       +{event.knowledgePoints + event.timeBonus} Punkte

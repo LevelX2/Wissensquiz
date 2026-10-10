@@ -55,16 +55,25 @@ it("bindet ein Poster ausschließlich an Originaltitel und Filmfassung", () => {
     ),
   ).toBeUndefined();
 });
-it("zeigt keine Filmcover für andere Genres oder Personenfragen", () => {
+it("zeigt keine Filmcover für Personenfragen", () => {
   expect(filmPoster({ ...q, domain: "Person" }, data, now)).toBeUndefined();
   expect(
     filmPoster(
-      { ...q, metadata: { ...q.metadata, subdomain: "Action" } },
+      { ...q, metadata: { ...q.metadata, person_id: "person-1" } },
       data,
       now,
     ),
   ).toBeUndefined();
 });
+it.each(["Science-Fiction", "Action", "Drama", "Horror", "Komödie"])(
+  "zeigt das passende Filmcover auch im Genre %s",
+  (subdomain) => {
+    expect(
+      filmPoster({ ...q, metadata: { ...q.metadata, subdomain } }, data, now)
+        ?.tmdbId,
+    ).toBe(123);
+  },
+);
 it("verwendet abgelaufene oder zu lange gecachte Metadaten nicht", () => {
   expect(filmPoster(q, data, Date.parse("2027-03-10"))).toBeUndefined();
   expect(

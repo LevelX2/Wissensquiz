@@ -1,22 +1,10 @@
-import { writeStoredState } from "./fixtures";
+import { writeStoredState, accountBackend } from "./fixtures";
 import { test, expect, readStoredState, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
-import { readFileSync } from "node:fs";
-import { importCsv } from "../../src/importer";
 import { answer, complete, startRound } from "../../src/engine";
 import { emptyState, type Mode, type State } from "../../src/model";
 
 const now = new Date("2026-10-02T12:00:00+02:00");
-const catalog = importCsv(
-  readFileSync("public/western-fragen.csv", "utf8"),
-).questions;
-const qs = [
-  ...new Map(
-    catalog
-      .filter((q) => q.difficulty === "leicht")
-      .map((q) => [q.knowledgeId, q]),
-  ).values(),
-].slice(0, 2);
 async function readState(page: Page): Promise<State> {
   return readStoredState(page);
 }
@@ -25,6 +13,16 @@ async function prepare(page: Page, mode: Mode = "ueben") {
   await page.clock.pauseAt(now);
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const catalog = accountBackend(page).release.questions;
+  const qs = [
+    ...new Map(
+      catalog
+        .filter(
+          (q) => q.difficulty === "leicht" && q.metadata.subdomain === "Western",
+        )
+        .map((q) => [q.knowledgeId, q]),
+    ).values(),
+  ].slice(0, 2);
   const state = emptyState(catalog);
   state.settings.sound = false;
   if (mode === "fehler") {
@@ -135,8 +133,11 @@ for (const mode of ["entdecken", "ueben", "rekord", "fehler"] as const) {
     await page.clock.runFor(100);
     await expect(page.locator(".solution-reveal")).toHaveCount(0);
     await expect(page.locator(".chosen-answer")).toContainText("Keine Ahnung");
+    await expect(page.locator(".feedback-outcome")).toContainText(
+      "Nicht gewusst",
+    );
     await expect(page.locator(".feedback")).not.toContainText(
-      "Die Zeit ist um",
+      "Zeit abgelaufen",
     );
     await expect(page.locator(".explanation")).toBeVisible();
     await expect(page.locator(".feedback")).toBeFocused();

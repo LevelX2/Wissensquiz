@@ -88,7 +88,7 @@ test("Hintergrundzeit und doppelte Klicks vergeben keine zweite Antwort", async 
     document.dispatchEvent(new Event("visibilitychange")),
   );
   await expect(
-    page.getByRole("heading", { name: "Die Zeit ist um." }),
+    page.locator(".feedback-outcome").getByText("Zeit abgelaufen", { exact: true }),
   ).toBeVisible();
   await page.getByRole("button", { name: "Nächste Frage" }).click();
   await page.clock.runFor(100);

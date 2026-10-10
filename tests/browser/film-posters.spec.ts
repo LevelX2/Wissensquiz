@@ -131,6 +131,30 @@ test("SciFi-Poster erst nach der Antwort, auch nach Neuladen und im Rückblick",
   const { q, requests } = await prepare(page);
   await answer(page, q.answers.find((a) => a.id === q.correctId)!.text);
   await expect(page.locator(".film-poster img")).toBeVisible();
+  await expect(page.locator(".question-new")).toHaveText("Neu");
+  await expect(page.locator(".feedback-outcome")).toContainText("Richtig");
+  expect(
+    await page
+      .locator(".feedback-outcome")
+      .evaluate((node) => parseFloat(getComputedStyle(node).fontSize)),
+  ).toBeLessThanOrEqual(14);
+  await expect(page.locator(".explanation")).not.toContainText(
+    "DIE IDEE DAHINTER",
+  );
+  expect(
+    await page.locator(".film-poster").evaluate((poster) => {
+      const explanation = poster.parentElement?.querySelector(
+        ":scope > p:not(.actor-name)",
+      );
+      return (
+        !!explanation &&
+        !!(
+          explanation.compareDocumentPosition(poster) &
+          Node.DOCUMENT_POSITION_FOLLOWING
+        )
+      );
+    }),
+  ).toBe(true);
   await expect(page.locator(".film-poster img")).toHaveAttribute(
     "src",
     "https://image.tmdb.org/t/p/w342/Example.png",
@@ -148,6 +172,15 @@ test("SciFi-Poster erst nach der Antwort, auch nach Neuladen und im Rückblick",
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBe(true);
+  await page
+    .locator(".feedback")
+    .evaluate((node) =>
+      Promise.all(
+        node
+          .getAnimations({ subtree: true })
+          .map((animation) => animation.finished),
+      ),
+    );
   expect(
     (
       await new AxeBuilder({ page })
@@ -185,12 +218,17 @@ test("Gesammelte Lösungen laden das Poster erst im Rundenrückblick", async ({
   await expect(page.locator(".film-poster img").first()).toBeVisible();
   await expect(page.locator(".question-card")).toHaveCount(0);
 });
-test("Andere Filmgenres lösen keine Posteranfrage aus", async ({ page }) => {
+test("Action-Filme zeigen ebenfalls erst nach der Antwort ihr verlinktes Poster", async ({
+  page,
+}) => {
   const { q, requests } = await prepare(page, "Action");
   await answer(page, q.answers.find((a) => a.id === q.correctId)!.text);
-  await expect(page.locator(".feedback")).toBeVisible();
-  await expect(page.locator(".film-poster")).toHaveCount(0);
-  expect(requests).toEqual({ manifest: 0, image: 0 });
+  await expect(page.locator(".film-poster img")).toBeVisible();
+  await expect(page.locator(".film-poster a")).toHaveAttribute(
+    "href",
+    "https://www.themoviedb.org/movie/123",
+  );
+  expect(requests).toEqual({ manifest: 1, image: 1 });
 });
 test("Nicht erreichbares Cover verhindert Erklärung und Weiterspielen nicht", async ({
   page,

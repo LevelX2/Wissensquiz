@@ -689,7 +689,7 @@ test("Mobile Bedienung bei 390 und 320 Pixeln ohne horizontalen Überlauf", asyn
     fullPage: true,
   });
   await answerCurrent(page, false);
-  await expect(page.locator(".specific-feedback")).toBeVisible();
+  await expect(page.locator(".explanation")).toBeVisible();
   await page.screenshot({
     path: "test-results/mobile-feedback.png",
     fullPage: true,
@@ -728,7 +728,7 @@ test("Rekordtimer läuft ab, Erklärung hält an, Neuladen bricht ab", async ({
   await expect(page.locator(".answer").first()).toBeEnabled();
   await page.clock.fastForward(31_000);
   await expect(
-    page.getByRole("heading", { name: "Die Zeit ist um." }),
+    page.locator(".feedback-outcome").getByText("Zeit abgelaufen", { exact: true }),
   ).toBeVisible();
   await expect(page.getByText("+0 Punkte")).toBeVisible();
   await page.clock.fastForward(60000);

@@ -436,8 +436,8 @@ export function Help() {
           />
         </a>
         <p>
-          SciFi-Filmposter stammen von TMDB. Den jeweiligen Filmnachweis findest
-          Du direkt am Poster.
+          Filmposter stammen von TMDB. Den jeweiligen Filmnachweis findest Du
+          direkt am Poster.
         </p>
         <p lang="en">
           This website uses TMDB and the TMDB APIs but is not endorsed,

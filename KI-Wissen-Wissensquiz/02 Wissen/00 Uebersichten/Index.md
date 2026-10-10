@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Kompakte Antwortansicht: kleine Rückmeldung, dezentes Neu und keine doppelten Erklärungen – 10.10.2026](../../../docs/Lernregeln.md#kompakte-antwortansicht--10102026)
+
 - [Version 59: Poster für alle SciFi-Filme, Anmeldungspflicht und Online-Spielstand](../../../docs/Sites-Betrieb.md#version-59-scifi-poster-anmeldung-und-online-spielstand)
 - [Version 59: Quellcommit, Paket, Liveprüfungen und Grenzen](../../../docs/Veroeffentlichung-2026-10-10-Version-59.json)
 
@@ -7,7 +9,7 @@
 
 - [Anmeldung zwingend, Spielstand ausschließlich online, Offline-Paket entfernt – seit Version 59 veröffentlicht – 10.10.2026](../../../docs/Anmeldung-und-Online-Spielstand.md)
 
-- [Filmposter für alle 154 SciFi-Filmfassungen: Zugang, Online-Anzeige und Erneuerung – seit Version 59 veröffentlicht – 10.10.2026](../../../docs/Filmposter.md)
+- [Filmposter für alle Genres: 1.405 Filmfassungen, Zugang, Online-Anzeige und Erneuerung – 10.10.2026](../../../docs/Filmposter.md)
 
 - [Version 58 veröffentlicht: alle Genres mindestens 100 Filme und fällige Wiederholungen](../../../docs/Sites-Betrieb.md#version-58-genreausbau-und-fällige-wiederholungen)
 - [Version 58: Main-Quellcommit, Archiv, Online- und Duellkatalog](../../../docs/Veroeffentlichung-2026-10-09-Version-58.json)

@@ -84,6 +84,15 @@
   display: inline-block;
   margin-right: 6px;
 }
+.question-history .question-new {
+  padding: 1px 6px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
 .question-history > div {
   margin-top: 8px;
   padding: 0 12px;
@@ -213,19 +222,20 @@ progress::-moz-progress-bar {
   padding-top: 25px;
   animation: reveal 0.25s ease;
 }
-.feedback-title {
+.feedback-outcome {
   display: flex;
   align-items: center;
-  gap: 13px;
+  gap: 7px;
   flex-wrap: wrap;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
+  font-size: 14px;
 }
-.feedback-title h2 {
-  font-size: 22px;
+.feedback-outcome strong {
+  font-size: inherit;
   margin: 0;
 }
-.feedback-title > span:first-child {
-  font-size: 24px;
+.feedback-outcome > span:first-child {
+  font-size: 14px;
 }
 .success {
   color: var(--green);

@@ -1,5 +1,13 @@
 # Lern-, Runden- und Speichervertrag
 
+## Kompakte Antwortansicht – 10.10.2026
+
+Auf Nutzerauftrag die Antwortansicht vereinfacht: Statt der großen Überschrift „Eine neue Entdeckung“ beziehungsweise „Genau richtig“ steht eine kleine Rückmeldung mit Symbol: „Richtig“, „Nicht richtig“, „Nicht gewusst“ oder „Zeit abgelaufen“. Die bisherige Entdeckungsüberschrift bezeichnete jede falsche Auswahl und war kein Erstbegegnungsnachweis. Antwortfarben und Wertung bleiben erhalten.
+
+Eine dezente Kennzeichnung „Neu“ steht direkt bei der vorhandenen Fragenstatistik, wenn für genau diese Frage keine frühere Antwort gespeichert ist. Die aktuelle erste Antwort wird dabei ausgeschlossen; sie zählt weiterhin in der Bilanz. Frühere falsche Antworten und Zeitüberschreitungen zählen als Begegnung. Fragevarianten behalten ihre eigene Fragebilanz; keine zusätzliche Speicherung von Sichtkontakten. Die vorhandene Option zur Fragenstatistik bestimmt weiterhin deren Sichtbarkeit, einschließlich des Neu-Hinweises.
+
+„Die Idee dahinter“ entfällt. Die Erklärung steht vor dem Filmposter, ohne wortgleiche Wiederholung im Antwortfeedback und ohne die pauschale Zeile „… trifft hier nicht zu“. Eigenständige Zusatzinformationen zur gewählten Antwort bleiben erhalten. Vertiefung, Quellen und Filmdaten bleiben erreichbar. [Posterumfang und Quellen](Filmposter.md), [Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerauftrag%20alle%20Filmposter%20und%20kompakte%20Antwortansicht.txt).
+
 07.10.2026 – Die 200 ausdrücklich beauftragten Schauspieler-Erkennungsfragen zeigen vor der Antwort ein neutrales Porträt. Je Person wechseln zwei Fotos aus verschiedenen Karriereabschnitten zwischen Fragerunden. Eine Begegnung verwendet dasselbe Bild vor und nach der Antwort, beim Neuladen und im Rückblick; die gespeicherte Antwortereignis-ID bestimmt die Auswahl. Die Fotos teilen dasselbe Gesichts-Wissensziel. Namen, Nachweise und beide Bildquellen erscheinen erst in der Lösung. [Bildvarianten](Schauspieler-Bilderkennung-2026-10-07/Bildvarianten.md).
 
 04.10.2026 – 25 ausgewählte Schauspielerporträts ergänzen die Antwortauflösung als Auflockerung: nach jeder Antwort einschließlich Fehler und „Keine Ahnung“, vor der Erklärung und auch im unmittelbaren Rundenrückblick. Vor der Antwort bleiben die Fotos verborgen. Lernregeln und Bewertung unverändert; Bilder samt erreichbarem Bildnachweis offline verfügbar. [Anzeige, Zuordnung und Bildrechte](Schauspielerportraets.md).
