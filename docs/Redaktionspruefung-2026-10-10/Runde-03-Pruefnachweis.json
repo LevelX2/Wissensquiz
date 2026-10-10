@@ -1,0 +1,21 @@
+{
+  "asOf": "2026-10-10",
+  "scope": "Redaktionelle Dokumente und Quiz-Skill, keine App-Integration",
+  "reviewCount": 30,
+  "originalsPreserved": true,
+  "distinctFilms": 30,
+  "previousFilmsExcluded": true,
+  "originalAndProposedOptionsValidated": true,
+  "maximumQuestionAndOptionsWords": 53,
+  "deepRevised": 23,
+  "deepRetained": 6,
+  "goalHeld": 1,
+  "compositionRevised": 4,
+  "shortRevised": 7,
+  "difficultySuggestions": 3,
+  "localLinksChecked": 24,
+  "skillSourceAndInstallationByteIdentical": true,
+  "skillFormalValidation": "Quelle und Installation: quick_validate.py erfolgreich",
+  "sourceReview": "Gelesene Webquellen; filmweise Beleg und Grenzen in Runde-03.json. Kein automatischer Faktenbeweis durch diesen Strukturcheck.",
+  "applicationTests": "Nicht erforderlich: kein App-Code oder importiertes Fragenpaket verändert."
+}

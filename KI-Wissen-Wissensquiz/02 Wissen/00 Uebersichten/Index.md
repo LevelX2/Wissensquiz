@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Dritte Qualitätsrunde: 30 weitere Fragen, 23 Vertiefungen überarbeitet, sechs erhalten und ein Wissensziel offen – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-03.md)
+
 - [Zweite Qualitätsrunde: Richtung bestätigt; passende Vertiefungen sollen die Handlungsentwicklung verankern – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-02-Rueckmeldung.md)
 
 - [Zweite Qualitätsrunde: zehn neue Fragen mit allen Antworten und vollständigem Alt/Neu-Vergleich – 10.10.2026](../../../docs/Redaktionspruefung-2026-10-10/Runde-02.md)

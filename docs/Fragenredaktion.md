@@ -119,6 +119,10 @@ Nach der ersten Zehnerprüfung vom Nutzer freigegeben: [Originale und Befunde](R
 
 Bei zur Nutzer-Durchsicht bestimmten Stichproben den exakten angezeigten Fragetext und alle vier originalen Antwortoptionen vollständig zeigen, die richtige Lösung markieren und bisherige Kurzantwort/Vertiefung von Vorschlägen unterscheiden. Wird Frage oder Auswahl überarbeitet, auch die vollständige vorgeschlagene Zusammensetzung zeigen. Die gemeinsame Gliederung des Prüfberichts ist kein Schreibschema für die Vertiefungen. Freigegebene Redaktion, tatsächliche App-Integration und Veröffentlichung getrennt dokumentieren.
 
+Die [dritte Qualitätsrunde mit 30 weiteren Fragen](Redaktionspruefung-2026-10-10/Runde-03.md) präzisiert die Anwendung: Vor dem Umschreiben das Problem im Wissensziel, in Frage und Optionen, in der Kurzantwort oder in der Vertiefung verorten. Eine schönere Erklärung heilt keinen Lösungshinweis im Titel. Bei behaupteten Wirkungen den entscheidenden konkreten Vorgang ergänzen, wenn er das Verständnis verbessert; bereits verständliche Zusammenhänge brauchen keinen zusätzlichen allgemeinen Schlusssatz. Filmhandlung, historisches Vorbild und Produktionsumstand getrennt belegen; ein Drehort belegt keinen Handlungsschauplatz. Quellenwidersprüche sichtbar lassen oder die betroffene Aussage begründet enger fassen.
+
+Bei größeren Durchsichten auf Nutzerwunsch im Gespräch nur starke Verbesserungen und offene Fälle samt zahlenmäßiger Übersicht zeigen. Der vollständige Nachweis aller Originale, Optionen, Bewertungen und Vorschläge bleibt im Projektartefakt erhalten; für die gezeigten Beispiele gelten dieselben Genauigkeitsanforderungen. Daraus folgen keine neue Satzanzahl, Handlungsquote oder Pflicht zu Produktionsanekdoten.
+
 ## Filmfassung, Eckdaten und Lösungsschutz
 
 Filmidentität über tatsächlichen Originaltitel und Jahr der ersten Veröffentlichung einschließlich Premiere/Festival feststellen. Remakes, Fortsetzungen, alternative Titel, Schnittfassungen und Sprachfassungen abgrenzen. Produktionsjahr, erste Veröffentlichung, deutscher Kinostart und Preisverleihungsjahr nicht vermischen.
