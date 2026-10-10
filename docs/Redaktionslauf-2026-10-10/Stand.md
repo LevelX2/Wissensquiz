@@ -10,9 +10,10 @@ Die Nutzerregel zur ergänzenden Filmabdeckung ist im [Redaktionsvertrag](../Fra
 - [Block 04: vollständiger Alt/Neu-Vergleich](Block-04.md) und [strukturierter Nachweis](Block-04.json): 50 Fragen, 43 Vertiefungen geändert, 7 erhalten, 6 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 05: vollständiger Alt/Neu-Vergleich](Block-05.md) und [strukturierter Nachweis](Block-05.json): 50 Fragen, 39 Vertiefungen geändert, 11 erhalten, 9 Fragen vollständig unverändert; 7 von 7 betroffenen Filmgruppen abgeschlossen.
 - [Block 06: vollständiger Alt/Neu-Vergleich](Block-06.md) und [strukturierter Nachweis](Block-06.json): 50 Fragen, 35 Vertiefungen geändert, 15 erhalten, 10 Fragen vollständig unverändert; 6 von 7 betroffenen Filmgruppen abgeschlossen.
-- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 450 von 12.773 IDs redaktionell erfasst.
-- Offen: 10283 Filmfragen und 2040 weitere Fragen; zusammen 12323. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
-- Block 06 ersetzt drei schwache Ziele durch den Gerichtsrollentausch in „Blondinen bevorzugt“, die Kap-Hoorn-Entscheidung und das Urteil in „Die Bounty“. Regie und Jahr von „Blondinen bevorzugt“ werden fachlich richtig erfasst; sie zählen nicht als Inhaltsziele. Drei Bounty-Fragen bleiben für den nächsten Block offen.
+- [Block 07: vollständiger Alt/Neu-Vergleich](Block-07.md) und [strukturierter Nachweis](Block-07.json): 50 Fragen, 30 Vertiefungen geändert, 20 erhalten, 6 Fragen vollständig unverändert; 7 von 8 betroffenen Filmgruppen abgeschlossen.
+- Frühere Runden: 150 Frage-IDs. Insgesamt jetzt 500 von 12.773 IDs redaktionell erfasst.
+- Offen: 10233 Filmfragen und 2040 weitere Fragen; zusammen 12273. Der Zähler bezieht sich auf den dokumentierten Katalogstand.
+- Block 07 ersetzt drei schwache schwere Ziele durch Trogs Minoton-Lanze, die Mutter/Orang-Utan-Entsprechung und Jacksons voreiliges Jubeln. Zwei zusätzliche Fragen zu Pis Insel und Dux’ Bruchtest schließen Stufenlücken, ohne erneut als geprüfte Original-IDs zu zählen. Jahr und Regie von Life of Pi und Bloodsport werden fachlich getrennt erfasst. Sieben Filmgruppen abgeschlossen; Stirb-langsam-Varianten sowie Jahr/Regie folgen im nächsten Block.
 - Zwei Quellenpräzisierungen aus Block 01 bleiben dokumentiert: genaue Premiere von Redbelt und differenzierte Nummernregie bei Footlight Parade. Die jeweiligen Jahres- und Hauptregieantworten sind eindeutig.
 - [Stand und restliche filmweise Warteschlange](Stand.json) führen IDs, nächste Auswahl und Verweise für die Fortsetzung.
 
