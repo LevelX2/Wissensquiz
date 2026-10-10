@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 10.10.2026 – Brazil: Darsteller im Fragetext
+
+In `SF-202609-P02-S-066` Sam Lowry (Jonathan Pryce) und Jill Layton (Kim Greist) direkt im Fragetext ergänzt, beide Rollen anhand der geöffneten Criterion-Credits bestätigt und die Quelle aufgenommen. Genau eine CSV-Zeile mit zwei geänderten Feldern; vollständiges Rücklesen gegen den Vorher-/Nachher-Nachweis erfolgreich. Originalquelle, IDs, Antworten und Lernziel unverändert. [Redaktion und Quellen](Fragenkorrekturen.md#brazil-1985--10102026).
+
+`npm run build` einschließlich TypeScript erfolgreich. `npm run check:questions`: weiterhin 33 Pakete / 12.773 Fragen / 12.207 Ziele, 239 dokumentierte CSV-Redaktionsabweichungen, keine doppelten IDs oder Importkonflikte, verlustfreier Katalog-Rundlauf. [Aktualisierter Katalognachweis](Fragedaten-Pruefung.json).
+
+Vollständiger Testlauf: 433 bestanden, ein erwarteter Fehler beim bisherigen Katalogfingerabdruck in `comedy-extension.test.ts`. Neuen Prüfwert unabhängig aus den 3.257 betroffenen Katalogfragen berechnet und aktualisiert. Anschließend alle 32 Komödien-, Redaktionsketten- und Paketimportprüfungen erfolgreich wiederholt. Importberichte ausschließlich in temporäres Testverzeichnis geschrieben; vorgefundene Berichte erhalten. Kein Browserlauf für die reine Textänderung; keine realen Konten oder Produktionsdaten verändert. Lokal abgeschlossen, noch nicht veröffentlicht.
+
 ## 10.10.2026 – Neu und Wiederholung schon vor der Antwort
 
 Kleiner Fragenstatus neben Genre und Schwierigkeit, vor und nach der Antwort: „Neu“ ohne frühere Antwortereignisse, sonst „Wiederholung · N×“. Konkrete Frage-ID, einschließlich falscher Antworten, „Keine Ahnung“ und Zeitablauf; aktuelle Antwort ausgeschlossen, innerhalb der Begegnung und beim Neuladen stabil. Keine zusätzliche Speicherung bloßer Sichtkontakte. Frühere doppelte Neu-Anzeige in der Fragenstatistik entfernt. Eigener Optionsschalter „Neu / Wiederholung anzeigen“, standardmäßig eingeschaltet, unabhängig von Genre, Schwierigkeit und ausführlicher Fragenstatistik. Bestehende Online- und JSON-Speicherung verwendet, keine Migration oder neue lokale Ablage. [Vertrag und Nutzerquelle](Lernregeln.md#kompakte-antwortansicht--10102026).

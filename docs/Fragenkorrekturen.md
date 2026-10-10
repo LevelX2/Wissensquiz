@@ -1,5 +1,15 @@
 # Bestätigte Fragenkorrekturen
 
+## Brazil (1985) – 10.10.2026
+
+Auf bestätigten Nutzerhinweis die Darstellernamen in der schweren Frage `SF-202609-P02-S-066` direkt ergänzt. Zuvor standen sie nur in der Vertiefung nach der Antwort. Neue Fassung:
+
+**„Brazil“ (1985): Wie ist die scheinbare gemeinsame Flucht von Sam Lowry (Jonathan Pryce) und Jill Layton (Kim Greist) am Ende einzuordnen?**
+
+Die [Besetzungscredits von Criterion](https://www.criterion.com/films/211-brazil) am 10.10.2026 geöffnet und gelesen; beide Zuordnungen bestätigt und die Quelle in der CSV ergänzt. Genau ein Datensatz und darin nur Fragetext und Quellen geändert. Antworten, Lösung, Schwierigkeit, Frage-ID und Wissensziel bleiben erhalten. Frage und vier Antworten zusammen: 40 Wörter. [Vollständiger Vorher-/Nachher-Nachweis](Bestandsredaktion-2026-10-04/Nachtrag-2026-10-10-Brazil.json), [Nutzerpräzisierung](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-10%20Nutzerhinweis%20Brazil%20Darstellernamen.txt).
+
+Lokal korrigiert, noch nicht veröffentlicht. Ursprüngliche Lieferung und bestehende Rundensnapshots erhalten; keine neue Laufzeit- oder Kompatibilitätslogik. Prüfung über den vorhandenen vollständigen Redaktionsketten- und App-Parser-Abgleich.
+
 **Aktueller Veröffentlichungsstand:** Alle vier Bestandsredaktionsblöcke mit insgesamt 1.099 überarbeiteten bestehenden Fragen sind seit **Sites-Version 54 vom 04.10.2026, 17:28:21 Uhr Europe/Berlin** veröffentlicht. Öffentlichen Online-Katalog vollständig und 711 betroffene Duellfragen geprüft aktualisiert. Die nachstehenden lokalen Blockstände dokumentieren ihre damalige Abnahme. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-54-gesamter-main-stand-mit-individuellen-fragenvertiefungen).
 
 Die drei Korrekturen sind seit Sites-Version 52 (04.10.2026) veröffentlicht, auch im öffentlichen Katalog für neue Duelle. Laufende Duellsnapshots bleiben erhalten. [Veröffentlichungsnachweis](Sites-Betrieb.md#version-52-gesamter-main-stand-mit-sichtbarem-lernfortschritt).
